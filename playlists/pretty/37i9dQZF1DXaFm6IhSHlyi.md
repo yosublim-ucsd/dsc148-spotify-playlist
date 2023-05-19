@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaFm6IhSHlyi.md) - [plain]
 
 > A collection of the world's best emotional songs\. Cover: <a href="https://open.spotify.com/artist/75opyvDai90a20RL9VSa7D?si=X4txR82FSGuMTgat6fyXQw&dl\_branch=1">Djouher</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 139,083 likes - 150 songs - 9 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 139,122 likes - 150 songs - 9 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,8 +69,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaFm6IhSHlyi.md) - [plain]
 | 59 | [Like I'm Gonna Lose You \(feat\. John Legend\)](https://open.spotify.com/track/7MjKAV0mFiEID9WhDSSzaW) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz), [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [Title \(Expanded Edition\)](https://open.spotify.com/album/7m2Gzfu5nMgHTiMbNDwPr7) | 3:45 |
 | 60 | [Still Dreaming](https://open.spotify.com/track/2GWMfWHvLixgTo9s5NGn3w) | [Raveena](https://open.spotify.com/artist/2kQnsbKnIiMahOetwlfcaS) | [Lucid](https://open.spotify.com/album/5zM1YPLVNvxe6S8I3MIAbg) | 4:21 |
 | 61 | [THE SNAKE](https://open.spotify.com/track/4tRXJwAv2zZrcDcfjTUekQ) | [Lana Lubany](https://open.spotify.com/artist/53jnd1fhXV7lbXSfjgk1WR) | [THE SNAKE](https://open.spotify.com/album/6MUnBgFIOhLgnf7h5pmZGm) | 2:56 |
-| 62 | [Hilo Rojo](https://open.spotify.com/track/3XMJLE4cS4ug7i4tnz09dP) | [Río Roma](https://open.spotify.com/artist/2O3v9rCTzLhPFaGaAVgZLt) | [Rojo](https://open.spotify.com/album/3n0zkanqLGhc1R0O7Ddl1G) | 3:42 |
-| 63 | [Maula](https://open.spotify.com/track/5qyEyqpT0TBVun8W07MEmR) | [Anuv Jain](https://open.spotify.com/artist/4gdMJYnopf2nEUcanAwstx) | [Maula](https://open.spotify.com/album/3O5bFYxMItBMLrGcFVJfIu) | 3:57 |
+| 62 | [Maula](https://open.spotify.com/track/5qyEyqpT0TBVun8W07MEmR) | [Anuv Jain](https://open.spotify.com/artist/4gdMJYnopf2nEUcanAwstx) | [Maula](https://open.spotify.com/album/3O5bFYxMItBMLrGcFVJfIu) | 3:57 |
+| 63 | [Hilo Rojo](https://open.spotify.com/track/3XMJLE4cS4ug7i4tnz09dP) | [Río Roma](https://open.spotify.com/artist/2O3v9rCTzLhPFaGaAVgZLt) | [Rojo](https://open.spotify.com/album/3n0zkanqLGhc1R0O7Ddl1G) | 3:42 |
 | 64 | [Evidemment](https://open.spotify.com/track/7yaAqQhgUFkcI9ap1qjqEy) | [Kendji Girac](https://open.spotify.com/artist/4IS4EyXNmiI2w5SRCjMtEF) | [Mi Vida \(Edition de Noël\)](https://open.spotify.com/album/6Rq5fjFsMh2iF4RCNo2PFk) | 3:57 |
 | 65 | [Church](https://open.spotify.com/track/1e8D1BCD2afT56Km7UahpB) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Everyday Life](https://open.spotify.com/album/2FeyIYDDAQqcOJKOKhvHdr) | 3:50 |
 | 66 | [Malay Mo](https://open.spotify.com/track/0B2GJuD8XZoovLyAvcYBsF) | [TJ Monterde](https://open.spotify.com/artist/7LvDTuFCBv08xm6u1pOMK0) | [Malay Mo, Tayo](https://open.spotify.com/album/0zBCehKCAFoYUPW0X2g9wj) | 4:34 |
@@ -89,8 +89,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaFm6IhSHlyi.md) - [plain]
 | 79 | [Салют, Вера](https://open.spotify.com/track/4MkpJLmeQX6D4ZMulyWxGO) | [Mona Songz](https://open.spotify.com/artist/4EGgyHCS7Yss2ttVKokdOl) | [Салют, Вера](https://open.spotify.com/album/75MrdzzI1A1pUlbzKnSvVM) | 3:22 |
 | 80 | [Naaalala Ka / Maging Sino Ka Man \(Spotify Jams: OPM Love Songs \- Recorded at Kodama Studios, Philippines\)](https://open.spotify.com/track/3efCao3RLbsz52LQ66o8Ac) | [Moira Dela Torre](https://open.spotify.com/artist/0rZRTXEmmPmx6gt92tBqIc) | [Naaalala Ka / Maging Sino Ka Man \(Spotify Jams: OPM Love Songs \- Recorded at Kodama Studios, Philippines\)](https://open.spotify.com/album/6w1N1jNKdtg5vUQFOEG0ns) | 4:47 |
 | 81 | [Sobreviviendo](https://open.spotify.com/track/1JnlPrlTzmhZ7jX7bPkLPn) | [Camila](https://open.spotify.com/artist/2gRP1Ezbtj3qrERnd0XasU) | [Hacia Adentro](https://open.spotify.com/album/3WtRGGEwF5ya96ND50zsIL) | 4:03 |
-| 82 | [Stay Alive](https://open.spotify.com/track/4SwVWcia2JyWFTNHkFZ2tA) | [Mustafa](https://open.spotify.com/artist/1zkKkDDra0jlsiJYz57P3P) | [When Smoke Rises](https://open.spotify.com/album/0iPWPiOsdGaWgcy9RMpvXw) | 3:01 |
-| 83 | [For You \- Recorded At Spotify Studios Stockholm](https://open.spotify.com/track/4AHIgOApMmqVfpvc1hxK6x) | [Seinabo Sey](https://open.spotify.com/artist/4X0v8sFoDZ6rIfkeOeVm2i) | [Spotify Singles](https://open.spotify.com/album/2up3OPMp9Tb4dAKM2erWXQ) | 3:25 |
+| 82 | [For You \- Recorded At Spotify Studios Stockholm](https://open.spotify.com/track/4AHIgOApMmqVfpvc1hxK6x) | [Seinabo Sey](https://open.spotify.com/artist/4X0v8sFoDZ6rIfkeOeVm2i) | [Spotify Singles](https://open.spotify.com/album/2up3OPMp9Tb4dAKM2erWXQ) | 3:25 |
+| 83 | [Stay Alive](https://open.spotify.com/track/4SwVWcia2JyWFTNHkFZ2tA) | [Mustafa](https://open.spotify.com/artist/1zkKkDDra0jlsiJYz57P3P) | [When Smoke Rises](https://open.spotify.com/album/0iPWPiOsdGaWgcy9RMpvXw) | 3:01 |
 | 84 | [Dalan Liyane](https://open.spotify.com/track/1x6ptFLd5HJmSmrO5BuGOh) | [Woro Widowati](https://open.spotify.com/artist/0wjrZ5PUcVjAbUUX33JRr8) | [Dalan Liyane](https://open.spotify.com/album/2yefpxL6PpKywXcGqZR6ea) | 4:16 |
 | 85 | [Tum Na Ho](https://open.spotify.com/track/65QRFvzB2ZLJ1BygWPxxVj) | [Arjun Kanungo](https://open.spotify.com/artist/3bAFvRjPZrpRz9Ox1sElQa), [Prakriti Kakar](https://open.spotify.com/artist/59pq5Vw16UDkR9txoPKv86), [M Ajay Vaas](https://open.spotify.com/artist/1DHPAIC12KroWS0mXCK6qf) | [Tum Na Ho](https://open.spotify.com/album/6472XqZVt7gHSO4K40Pqk7) | 3:30 |
 | 86 | [Sei Lá](https://open.spotify.com/track/1Zta013L8lvFsTjmnF34B6) | [Bárbara Tinoco](https://open.spotify.com/artist/10okQWuBo3LEA8HSZ1VUMT) | [Sei Lá](https://open.spotify.com/album/67qnQQfaph7WX9OsW0KMQj) | 3:22 |
@@ -156,7 +156,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaFm6IhSHlyi.md) - [plain]
 | 146 | [How We Love](https://open.spotify.com/track/41GBbgJmNrCRXOmLezn0sP) | [Hana Malhas](https://open.spotify.com/artist/0EQjOxeqpT2ebzA1NvT9Cu) | [How We Love](https://open.spotify.com/album/2KGBrH9IX58DG3jubYV6xd) | 3:50 |
 | 147 | [Sikasih](https://open.spotify.com/track/7zaC2Jn1jOpB2tdGLP8nG2) | [Abam](https://open.spotify.com/artist/3P0M8eyVyFJQBOStOpSdBL) | [Sikasih](https://open.spotify.com/album/69fxXPadVVtaMhEcz7DMaq) | 3:06 |
 | 148 | [Между нами \- Ice Lyrical Version](https://open.spotify.com/track/5wPlVVTPeRnVjwPyX79UL9) | [Nyusha](https://open.spotify.com/artist/4GieO2JjiJOxc7m53YFjza), [Artem Kacher](https://open.spotify.com/artist/2XaHngr3ql0L2nrJC8PSwY) | [Между нами \(Ice Lyrical Version\)](https://open.spotify.com/album/0ztRJunw2tGm9inc8zaO1y) | 3:43 |
-| 149 | [Ana Mesh Magroha](https://open.spotify.com/track/4vJUFvVTdyLTeA9ANFCF1H) | [Shaimaa ElShayeb](https://open.spotify.com/artist/2hEKer00BCTbnluLPC0Mbr) | [Ana Mesh Magroha](https://open.spotify.com/album/3hw0hBILtvaXlRWeygmDbI) | 2:35 |
-| 150 | [Cardamom Tea](https://open.spotify.com/track/66ny3dMX2VHExd8qX9KaTh) | [Dania](https://open.spotify.com/artist/0LXNaYz7jAXD5V4C0FWGEx) | [Cardamom Tea](https://open.spotify.com/album/0O1cH9xGBP2R9op3r2p3bq) | 3:41 |
+| 149 | [Cardamom Tea](https://open.spotify.com/track/66ny3dMX2VHExd8qX9KaTh) | [Dania](https://open.spotify.com/artist/0LXNaYz7jAXD5V4C0FWGEx) | [Cardamom Tea](https://open.spotify.com/album/0O1cH9xGBP2R9op3r2p3bq) | 3:41 |
+| 150 | [Ana Mesh Magroha](https://open.spotify.com/track/4vJUFvVTdyLTeA9ANFCF1H) | [Shaimaa ElShayeb](https://open.spotify.com/artist/2hEKer00BCTbnluLPC0Mbr) | [Ana Mesh Magroha](https://open.spotify.com/album/3hw0hBILtvaXlRWeygmDbI) | 2:35 |
 
-Snapshot ID: `MCwyMGJlY2Q1ODE1ZjkwZDZiMjQyNGUwYjdlZTlmOTE4NmJmYjAyYzhm`
+Snapshot ID: `MCw2MjM5Y2UxMWIyZGQ4ODc0OTdhMGZlN2JlMGQ1ZjY3M2U3YmJkNGJl`

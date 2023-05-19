@@ -4,7 +4,7 @@
 
 > På med fjäderboan och de gyllene skorna\. Nu ska vi dansa i neon!
 
-152 songs - 7 hr 40 min
+153 songs - 7 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -98,6 +98,7 @@
 | [Kiss You Goodbye](https://open.spotify.com/track/2CKFFnG21nC5ssngZV8Yi5) | [Anton Hagman](https://open.spotify.com/artist/20vdU8J0ShYJ6B0QVJRjWT) | [Kiss You Goodbye](https://open.spotify.com/album/6goII15VxVp4GT7I8g1rkH) | 2:59 | 2019-02-28 | 2022-07-29 |
 | [Kizunguzungu](https://open.spotify.com/track/54xN08hKKJvg6p5vSXM26g) | [SaRaha](https://open.spotify.com/artist/5So3Ot8FgnAlkz4v02elso) | [Kizunguzungu](https://open.spotify.com/album/5p95oQuomBWw9kZqWFsQXj) | 3:04 | 2019-02-28 |  |
 | [Kom](https://open.spotify.com/track/52iMLtr3V7EenocLKoZZ2X) | [Timoteij](https://open.spotify.com/artist/2KToq66TzR2OM0PZJSh5bR) | [Längtan](https://open.spotify.com/album/1DLz2kBUFZ7MVkxrMy3t3t) | 2:58 | 2019-02-28 | 2023-03-23 |
+| [Kom och ta mig](https://open.spotify.com/track/22T3LCFXjOfxkiq5JgJacE) | [Brandsta City Släckers](https://open.spotify.com/artist/10bzvni38ThO7h6KOaHO9l) | [Rök 'n Roll](https://open.spotify.com/album/3GjCjRj6hI2tzAeKs5nIKD) | 2:57 | 2023-02-26 |  |
 | [Kom och ta mig](https://open.spotify.com/track/3NVIuvSnsjBMWR8RCXQbHi) | [Brandsta City Släckers](https://open.spotify.com/artist/10bzvni38ThO7h6KOaHO9l) | [Rök 'n Roll](https://open.spotify.com/album/0aO5uIWhe2UVcnI7ZrjdSc) | 2:57 | 2019-02-28 | 2023-04-30 |
 | [Kom Och Ta Mig](https://open.spotify.com/track/6tIXrVrWLOcU4O8e3wZ1pt) | [Brandsta City Släckers](https://open.spotify.com/artist/10bzvni38ThO7h6KOaHO9l) | [Rok´n Roll](https://open.spotify.com/album/6wZHO3kMiiNdvdd0JRGOWg) | 2:57 | 2019-02-28 | 2022-07-29 |
 | [La det swinge](https://open.spotify.com/track/0LmEzNrxk0lecRm8X58jiC) | [Bobbysocks](https://open.spotify.com/artist/7DNARXXVHkEPeSE1efUqfs) | [Bobbysocks!](https://open.spotify.com/album/17nnsL4uzJSeknmZVrlcDT) | 2:53 | 2019-02-28 | 2022-07-29 |
@@ -121,7 +122,7 @@
 | [My Way](https://open.spotify.com/track/0tmMGxsxRd78NJGrMesWtx) | [Tone Sekelius](https://open.spotify.com/artist/60ocUh2KF1ZOSqjkxyt6jl) | [My Way](https://open.spotify.com/album/0pvbtMDkjdbU3XDKU6Zm6P) | 3:02 | 2023-02-26 |  |
 | [Möt mig i Gamla Stan](https://open.spotify.com/track/5uYkCI6EcIKq4EGlah4NLu) | [Magnus Carlsson](https://open.spotify.com/artist/12VIfmT1N5FGyCuuXGKuYB) | [Gamla Stan](https://open.spotify.com/album/2Oi3P11a5suZr2JcKjuh9B) | 3:02 | 2019-02-28 | 2023-01-03 |
 | [Möt mig i Gamla Stan](https://open.spotify.com/track/7AhBI5k6IPh905q80WZOXH) | [Magnus Carlsson](https://open.spotify.com/artist/12VIfmT1N5FGyCuuXGKuYB) | [Gamla Stan](https://open.spotify.com/album/6XaRfaoy2fVDykQcYZ9mFB) | 3:02 | 2019-02-28 | 2022-07-29 |
-| [Möt mig i Gamla Stan](https://open.spotify.com/track/63UzvCGt0yMhxHCeoT89Te) | [Magnus Carlsson](https://open.spotify.com/artist/12VIfmT1N5FGyCuuXGKuYB) | [Gamla Stan \(Deluxe Edition\)](https://open.spotify.com/album/6xVkPsCxMAxXNC6MrBF7Qk) | 3:03 | 2019-02-28 |  |
+| [Möt mig i Gamla Stan](https://open.spotify.com/track/63UzvCGt0yMhxHCeoT89Te) | [Magnus Carlsson](https://open.spotify.com/artist/12VIfmT1N5FGyCuuXGKuYB) | [Gamla Stan \(Deluxe Edition\)](https://open.spotify.com/album/6xVkPsCxMAxXNC6MrBF7Qk) | 3:03 | 2019-02-28 | 2023-05-19 |
 | [Never Let It Go](https://open.spotify.com/track/28ihA2Fp5zRmcmi8hpfWiC) | [Afro\-Dite](https://open.spotify.com/artist/0oO1vycfLbA7I18jfy2eWe) | [Never Let It Go](https://open.spotify.com/album/7nbwgaAlzIqneeDFjoxxL4) | 3:02 | 2019-02-28 | 2023-02-12 |
 | [Not A Sinner Nor A Saint](https://open.spotify.com/track/1mDmJ95y1W5UarAAJij5VK) | [Alcazar](https://open.spotify.com/artist/5HnkAAaf0MCIxMWzsJNrdg) | [Alcazarized](https://open.spotify.com/album/1g1irSdBq3tFBISnB2ou8C) | 3:01 | 2019-02-28 | 2022-07-29 |
 | [När vindarna viskar mitt namn](https://open.spotify.com/track/1nSyBcZr8IS9wZcFyvqqE7) | [Roger Pontare](https://open.spotify.com/artist/2eo54qMMNjVgFIxwhKfijG) | [När vindarna viskar mitt namn \- Single](https://open.spotify.com/album/7oSqWiKS8F3GGIh6ihn50H) | 3:04 | 2019-02-28 |  |

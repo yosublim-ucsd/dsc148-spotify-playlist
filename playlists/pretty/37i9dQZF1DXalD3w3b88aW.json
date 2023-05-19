@@ -1,12 +1,12 @@
 {
   "description": "The emotional interludes we wish were longer.",
-  "num_followers": 11300,
+  "num_followers": 11299,
   "original_name": "Mood Swing",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjZGYzMzk2YTYxYjAwYzg3YjA4ZjA1OWJhZmZjZTFmNzk4NDdhZjMz",
+  "snapshot_id": "MCw5YTI3YWE1Yzk0ODQ4Yzc0NDMyNDJlNjgyMTEwNTVlMDEzZTVlYjQ2",
   "tracks": [
     {
       "added_at": "2022-12-03 05:29:16",
@@ -1135,22 +1135,6 @@
     {
       "added_at": "2022-12-03 05:29:16",
       "album": {
-        "name": "Kima, Keisha & Pam",
-        "url": "https://open.spotify.com/album/33s3ptUTggk4QrMygA60or"
-      },
-      "artists": [
-        {
-          "name": "Total",
-          "url": "https://open.spotify.com/artist/1urjDGTd4iBze91Z1W1gu7"
-        }
-      ],
-      "duration_ms": 158030,
-      "name": "There Will Be No Fuck Tonight (Interlude)",
-      "url": "https://open.spotify.com/track/5dUdwIw32UiLOpEtGQg6E8"
-    },
-    {
-      "added_at": "2022-12-03 05:29:16",
-      "album": {
         "name": "Discipline",
         "url": "https://open.spotify.com/album/5hDjUyxqB0g8uwn3M0g9MM"
       },
@@ -1163,6 +1147,22 @@
       "duration_ms": 76173,
       "name": "The Meaning - Interlude",
       "url": "https://open.spotify.com/track/7oZN6bLVLwHQV2j1oxpCd2"
+    },
+    {
+      "added_at": "2022-12-03 05:29:16",
+      "album": {
+        "name": "Kima, Keisha & Pam",
+        "url": "https://open.spotify.com/album/33s3ptUTggk4QrMygA60or"
+      },
+      "artists": [
+        {
+          "name": "Total",
+          "url": "https://open.spotify.com/artist/1urjDGTd4iBze91Z1W1gu7"
+        }
+      ],
+      "duration_ms": 158030,
+      "name": "There Will Be No Fuck Tonight (Interlude)",
+      "url": "https://open.spotify.com/track/5dUdwIw32UiLOpEtGQg6E8"
     },
     {
       "added_at": "2022-12-03 05:29:16",

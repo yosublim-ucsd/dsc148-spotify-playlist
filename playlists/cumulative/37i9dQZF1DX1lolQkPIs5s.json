@@ -2281,6 +2281,28 @@
     },
     {
       "album": {
+        "name": "Under the Sea (From \"The Little Mermaid\"/Soundtrack Version)",
+        "url": "https://open.spotify.com/album/5XksKAiSaaDbTg9wcLja1o"
+      },
+      "artists": [
+        {
+          "name": "Subaru Kimura",
+          "url": "https://open.spotify.com/artist/6y2G1GveVx6UR9Mk6esFD6"
+        },
+        {
+          "name": "Cast - The Little Mermaid",
+          "url": "https://open.spotify.com/artist/433fI3xZoJp1D1dizEkJ3R"
+        }
+      ],
+      "date_added": "2023-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184946,
+      "name": "Under the Sea - From \"The Little Mermaid\"/Soundtrack Version",
+      "url": "https://open.spotify.com/track/3hsTuFLSfcD3Mt4tIdtqrY"
+    },
+    {
+      "album": {
         "name": "The Little Mermaid (Original Motion Picture Soundtrack/Japanese Dubbed Version)",
         "url": "https://open.spotify.com/album/1KUIwgcM9y8VGfFN2XYddO"
       },

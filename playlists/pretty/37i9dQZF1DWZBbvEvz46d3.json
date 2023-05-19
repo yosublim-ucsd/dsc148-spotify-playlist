@@ -1,12 +1,12 @@
 {
   "description": "Nowe przeboje i ponadczasowe klasyki o  mi\u0142o\u015bci. Tylko po polsku.",
-  "num_followers": 57074,
+  "num_followers": 57123,
   "original_name": "Polskie hity o mi\u0142o\u015bci",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkNzM5NGIxZTY2YmRlOGQ1NjNiMmZhY2FjNzFlZjkyMDRjM2U2NTg2",
+  "snapshot_id": "MCxmOTNkY2E4NjVjMzZjZWY2NTVjNjdiMTdiY2U0YjM3NjkyN2JhZGRi",
   "tracks": [
     {
       "added_at": "2023-04-03 09:53:55",
@@ -619,6 +619,22 @@
     {
       "added_at": "2023-04-03 09:53:55",
       "album": {
+        "name": "Z\u0142oto",
+        "url": "https://open.spotify.com/album/6oQPzE1tIwEaCGpxyzQcAW"
+      },
+      "artists": [
+        {
+          "name": "Krzysztof Zalewski",
+          "url": "https://open.spotify.com/artist/1U1eSs7M2ENf09cDx4lavK"
+        }
+      ],
+      "duration_ms": 225666,
+      "name": "Mi\u0142o\u015b\u0107 mi\u0142o\u015b\u0107",
+      "url": "https://open.spotify.com/track/005fIMi8VxYJy4mNTGR4S8"
+    },
+    {
+      "added_at": "2023-04-03 09:53:55",
+      "album": {
         "name": "Ale jazz!",
         "url": "https://open.spotify.com/album/76LTor7lkmS5TndjKVxjEc"
       },
@@ -635,22 +651,6 @@
       "duration_ms": 187545,
       "name": "Ale jazz!",
       "url": "https://open.spotify.com/track/7fuvhZxxLou4qRRo4Z63wE"
-    },
-    {
-      "added_at": "2023-04-03 09:53:55",
-      "album": {
-        "name": "Z\u0142oto",
-        "url": "https://open.spotify.com/album/6oQPzE1tIwEaCGpxyzQcAW"
-      },
-      "artists": [
-        {
-          "name": "Krzysztof Zalewski",
-          "url": "https://open.spotify.com/artist/1U1eSs7M2ENf09cDx4lavK"
-        }
-      ],
-      "duration_ms": 225666,
-      "name": "Mi\u0142o\u015b\u0107 mi\u0142o\u015b\u0107",
-      "url": "https://open.spotify.com/track/005fIMi8VxYJy4mNTGR4S8"
     },
     {
       "added_at": "2023-04-03 09:53:55",
@@ -1127,22 +1127,6 @@
     {
       "added_at": "2023-04-03 09:53:55",
       "album": {
-        "name": "1984",
-        "url": "https://open.spotify.com/album/1o5ZN0f4HPM2jqY8goSWga"
-      },
-      "artists": [
-        {
-          "name": "Pawe\u0142 Domaga\u0142a",
-          "url": "https://open.spotify.com/artist/0Gk98lHv6LlqbWPwdMiga2"
-        }
-      ],
-      "duration_ms": 205925,
-      "name": "Wystarcz\u0119 ja",
-      "url": "https://open.spotify.com/track/01kNniEBXuqdK4ADugK7ke"
-    },
-    {
-      "added_at": "2023-04-03 09:53:55",
-      "album": {
         "name": "Nasz Film (Deluxe Edition)",
         "url": "https://open.spotify.com/album/3x8ju0GxwF7NLPgPjAIS4T"
       },
@@ -1171,6 +1155,22 @@
       "duration_ms": 326706,
       "name": "Dmuchawce, Latawce, Wiatr",
       "url": "https://open.spotify.com/track/4itxKC1nLYQ8H4e2ejj1E3"
+    },
+    {
+      "added_at": "2023-04-03 09:53:55",
+      "album": {
+        "name": "1984",
+        "url": "https://open.spotify.com/album/1o5ZN0f4HPM2jqY8goSWga"
+      },
+      "artists": [
+        {
+          "name": "Pawe\u0142 Domaga\u0142a",
+          "url": "https://open.spotify.com/artist/0Gk98lHv6LlqbWPwdMiga2"
+        }
+      ],
+      "duration_ms": 205925,
+      "name": "Wystarcz\u0119 ja",
+      "url": "https://open.spotify.com/track/01kNniEBXuqdK4ADugK7ke"
     },
     {
       "added_at": "2023-04-03 09:53:55",

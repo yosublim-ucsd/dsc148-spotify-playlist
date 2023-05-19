@@ -4,11 +4,12 @@
 
 > Funky & groovy tunes for poolside chilling.
 
-247 songs - 14 hr 53 min
+248 songs - 14 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [11:30](https://open.spotify.com/track/4wMdqBMvVKpNPpRFiBRiXO) | [Duckwrth](https://open.spotify.com/artist/6I3MElirhT5t6Kf7p0hGk9) | [Chrome Bull](https://open.spotify.com/album/3IJE33ruLyvq3yCiJubw4g) | 3:01 | 2022-10-20 |  |
+| [4EVA \(feat\. Pharrell Williams\)](https://open.spotify.com/track/3CblJq8QQQ0bb7vwJu8c3v) | [KAYTRAMINÉ](https://open.spotify.com/artist/5oifjQw72WO7Jut07fVWMy), [Aminé](https://open.spotify.com/artist/3Gm5F95VdRxW3mqCn8RPBJ), [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [4EVA \(feat\. Pharrell Williams\)](https://open.spotify.com/album/3unS7dpXcZ0MmNBDkp5Hqx) | 3:10 | 2023-05-18 |  |
 | [52 North \- Soul Supreme Remix](https://open.spotify.com/track/2JkDkKKQGe7JLmjRSsEKyo) | [Gallowstreet](https://open.spotify.com/artist/5PBhzgMrQywioo7dPuXzvm), [LYMA](https://open.spotify.com/artist/5RlTfdqlSGGASLxhDAHYtP), [Soul Supreme](https://open.spotify.com/artist/3EIBaQfCxQvOXkNh4rywTy) | [Our Dear Metropolis Remixes](https://open.spotify.com/album/18hzEkJEIZaAGoG4JJkrLs) | 4:58 | 2022-09-09 |  |
 | [a\-okay](https://open.spotify.com/track/70I8nlO75XOU0IPXcnT5gj) | [blackwave.](https://open.spotify.com/artist/0nvdwVbj7NT1WL9P8JowLD), [Abhi The Nomad](https://open.spotify.com/artist/1gUi2utSbJLNPddYENJAp4) | [a\-okay](https://open.spotify.com/album/0WF2rsNICGVdMoXOqpWfPK) | 3:40 | 2022-09-09 |  |
 | [According To You](https://open.spotify.com/track/7393MRjmgrJgTuOybJWFB6) | [Misha](https://open.spotify.com/artist/4dPYdHTBZATnTYABJ39sY7), [Jordan Astra](https://open.spotify.com/artist/0nTUhCTsVt89nR1U5Ysub7), [Kapok](https://open.spotify.com/artist/79QY1od36t2L6Rc663c4Mw) | [According To You](https://open.spotify.com/album/4ghBbVW4BChwFam44puXov) | 3:03 | 2022-09-09 |  |

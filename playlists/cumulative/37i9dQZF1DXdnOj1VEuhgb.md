@@ -2,9 +2,9 @@
 
 ### [NKVT](https://open.spotify.com/playlist/37i9dQZF1DXdnOj1VEuhgb)
 
-> Türkiye'nin en sıkı çalma listesi\. Kapak: Organize x Astral
+> Türkiye'nin en sıkı çalma listesi\. Kapak: Lil Zey
 
-122 songs - 5 hr 22 min
+123 songs - 5 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,7 +13,7 @@
 | [24/7](https://open.spotify.com/track/4UySkSnMBKf1PS32agnwxp) | [ALIZADE](https://open.spotify.com/artist/1EPZusBDP8yewhsaKtwktz), [BEGE](https://open.spotify.com/artist/6q1sTU51oryTTcWTPTd0VC) | [24/7](https://open.spotify.com/album/2oxz5cyLZc8ucTNW2DoTZY) | 3:06 | 2023-04-27 |  |
 | [25](https://open.spotify.com/track/4HuB9A0O1XwmwTVtTgODm8) | [Ati242](https://open.spotify.com/artist/6bGOmNBU1AOgttgOjh0ldf) | [25](https://open.spotify.com/album/72eWeMVkF8uTTtiKeTXdqn) | 3:30 | 2023-01-10 |  |
 | [AFFETMEM](https://open.spotify.com/track/3WCrBnWabeuTk2wr6UwaYV) | [BLOK3](https://open.spotify.com/artist/1GMwSpFzrLd12jUX15bHB6) | [AFFETMEM](https://open.spotify.com/album/0vbSMu4srfpPlajCl3bWcg) | 3:02 | 2023-01-12 |  |
-| [Anlamak Zor](https://open.spotify.com/track/2tuvKXp73LMr5RGemLqf0Q) | [Diego](https://open.spotify.com/artist/6N1nFVV7Uz1vCl2uPxdF27), [Mavi](https://open.spotify.com/artist/3BVPc9s4JXzM6O1InlLxED) | [Anlamak Zor](https://open.spotify.com/album/0uNDV20goA1DSqBV0fhaUw) | 2:37 | 2023-05-04 |  |
+| [Anlamak Zor](https://open.spotify.com/track/2tuvKXp73LMr5RGemLqf0Q) | [Diego](https://open.spotify.com/artist/6N1nFVV7Uz1vCl2uPxdF27), [Mavi](https://open.spotify.com/artist/3BVPc9s4JXzM6O1InlLxED) | [Anlamak Zor](https://open.spotify.com/album/0uNDV20goA1DSqBV0fhaUw) | 2:37 | 2023-05-04 | 2023-05-19 |
 | [ANLAR ANLAYAN DİLİMDEN](https://open.spotify.com/track/3SHd1jpffHjpoWq0I4TRcE) | [ElMusto](https://open.spotify.com/artist/1Tjaa3WWIVU00kfZ8Dvpcl) | [ANLAR ANLAYAN DİLİMDEN](https://open.spotify.com/album/0dTlgsIBAc93WHZE89WZUW) | 2:51 | 2023-04-27 |  |
 | [ANLARSIN](https://open.spotify.com/track/7422iH48oKjQzRNC8khQnK) | [cakal](https://open.spotify.com/artist/6CPZWzcKiOKkHn4L2XI4i2), [Era7capone](https://open.spotify.com/artist/4UW9Hdsrx9kX2HdJ90jRKM) | [ANLARSIN](https://open.spotify.com/album/1u95gvoiah3kNlf4s2sBjZ) | 2:58 | 2023-04-13 | 2023-05-05 |
 | [ARASAN DA](https://open.spotify.com/track/72jYQj3RgTR1DFLfibD71B) | [UZI](https://open.spotify.com/artist/51DevdOxIJin6DB1FXJpD1) | [ARASAN DA](https://open.spotify.com/album/604LjoILfRCmhYuLCFvel7) | 3:11 | 2023-01-10 |  |
@@ -116,6 +116,7 @@
 | [UNUTTUM](https://open.spotify.com/track/7dFVvPxqk4O32ra3VjfUwU) | [UZI](https://open.spotify.com/artist/51DevdOxIJin6DB1FXJpD1) | [EL CHAVO](https://open.spotify.com/album/6nmFMrH9R3JpIgxtiJq3hY) | 2:36 | 2023-01-10 | 2023-05-05 |
 | [VAMPIR](https://open.spotify.com/track/3I1W0Hr5CLesBAmPKbREsU) | [UZI](https://open.spotify.com/artist/51DevdOxIJin6DB1FXJpD1) | [VAMPIR](https://open.spotify.com/album/4QBczRY1FMlmk9KIEhAZJ0) | 3:36 | 2023-03-09 | 2023-04-28 |
 | [Vicdanım Kayıp](https://open.spotify.com/track/0957zCB7svwHxXufWRs6so) | [Organize](https://open.spotify.com/artist/5W2dGRPmYetOpUIpErUtD3) | [Vicdanım Kayıp](https://open.spotify.com/album/2z45zKQlrUE2tmlYEa1IaH) | 2:40 | 2023-01-10 | 2023-03-03 |
+| [VODKA FONDIP](https://open.spotify.com/track/0C2rVFW9WdSmrVYWg3L1sW) | [DEHA INC.](https://open.spotify.com/artist/2qW4eDZVrF6mlcuaTBEMjh), [cakal](https://open.spotify.com/artist/6CPZWzcKiOKkHn4L2XI4i2) | [VODKA FONDIP](https://open.spotify.com/album/3WH5psQkne6BRJB99r1hDx) | 2:13 | 2023-05-18 |  |
 | [VUR](https://open.spotify.com/track/2Nt4eocAv9wi1vHshhSdpF) | [BLOK3](https://open.spotify.com/artist/1GMwSpFzrLd12jUX15bHB6) | [VUR](https://open.spotify.com/album/5EdPNG1RhELV1di2tYhklr) | 3:10 | 2023-01-10 |  |
 | [XXL](https://open.spotify.com/track/3CbxLHTkPClIGBzRDf3JGK) | [UZI](https://open.spotify.com/artist/51DevdOxIJin6DB1FXJpD1) | [EL CHAVO](https://open.spotify.com/album/6nmFMrH9R3JpIgxtiJq3hY) | 2:07 | 2023-01-10 |  |
 | [YAKALARSAN](https://open.spotify.com/track/7gJqhu7UvkJvpEGBntRmJx) | [cakal](https://open.spotify.com/artist/6CPZWzcKiOKkHn4L2XI4i2) | [YAKALARSAN](https://open.spotify.com/album/5dDBLvXR3Rw6IvOMOIYKmP) | 1:56 | 2023-03-30 |  |

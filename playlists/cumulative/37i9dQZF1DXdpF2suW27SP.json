@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-17",
-  "description": "Chico da Tina e tripsyhell entram na zona. ",
+  "description": "Ivandro e Julinho Ksd entram na zona. ",
   "name": "Na Zona",
   "tracks": [
     {
@@ -564,6 +564,24 @@
       "duration_ms": 151972,
       "name": "AZTECA",
       "url": "https://open.spotify.com/track/6l8p2VaXEt2oNnzBl2GqIx"
+    },
+    {
+      "album": {
+        "name": "Bailarina 2",
+        "url": "https://open.spotify.com/album/3MrYzIwKpAQ7KdjFzysWyd"
+      },
+      "artists": [
+        {
+          "name": "Dezinho",
+          "url": "https://open.spotify.com/artist/6HV1KRb1BBx4VgcXyBmXxA"
+        }
+      ],
+      "date_added": "2023-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189624,
+      "name": "Bailarina 2",
+      "url": "https://open.spotify.com/track/2Pei7rzUWupgWq3HeF8KOv"
     },
     {
       "album": {
@@ -3778,7 +3796,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 236210,
       "name": "Overdose",
       "url": "https://open.spotify.com/track/24q8cZ35Z6ISOcnlLVlU5w"
@@ -4238,6 +4256,24 @@
       "duration_ms": 208695,
       "name": "Quitada",
       "url": "https://open.spotify.com/track/2syKsGREUuYq4pzIBxInwQ"
+    },
+    {
+      "album": {
+        "name": "Relationships",
+        "url": "https://open.spotify.com/album/5CtrUKdY2on57OK5ScI9qq"
+      },
+      "artists": [
+        {
+          "name": "MS Capone",
+          "url": "https://open.spotify.com/artist/1HOLnVK9G35A2MAqz2e8AP"
+        }
+      ],
+      "date_added": "2023-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185025,
+      "name": "Relationships",
+      "url": "https://open.spotify.com/track/2c6NTXscal2z9IdiaE6zTG"
     },
     {
       "album": {

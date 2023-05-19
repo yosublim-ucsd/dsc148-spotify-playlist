@@ -1194,7 +1194,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 200580,
       "name": "Grow - Live acoustic at Concertgebouw Amsterdam",
       "url": "https://open.spotify.com/track/75vCjMFYcbmTsnXR1zSXVp"
@@ -1761,6 +1761,24 @@
     },
     {
       "album": {
+        "name": "Let me try",
+        "url": "https://open.spotify.com/album/0L4g58JHTkcVFZAkAB5rsE"
+      },
+      "artists": [
+        {
+          "name": "Jamily",
+          "url": "https://open.spotify.com/artist/1fpS9LTjDGsrgLEk178EQp"
+        }
+      ],
+      "date_added": "2023-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235454,
+      "name": "Let me try",
+      "url": "https://open.spotify.com/track/5B03trWqCi0dq7ruTExON6"
+    },
+    {
+      "album": {
         "name": "Closure",
         "url": "https://open.spotify.com/album/4QyVeRyB2xpep4W2WuBwJ4"
       },
@@ -2126,7 +2144,7 @@
       ],
       "date_added": "2022-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 132122,
       "name": "my dear",
       "url": "https://open.spotify.com/track/6gt1hp6vmwR45wC67Zu4rx"
@@ -2628,6 +2646,24 @@
       "duration_ms": 236000,
       "name": "Royal Cologne",
       "url": "https://open.spotify.com/track/1Ms9FqdbzWzDkv6KSJE10U"
+    },
+    {
+      "album": {
+        "name": "Run Away (Acoustic)",
+        "url": "https://open.spotify.com/album/4Ldv9EEgRkugkJq2eB7Q2k"
+      },
+      "artists": [
+        {
+          "name": "Moonchild",
+          "url": "https://open.spotify.com/artist/1VgjAK52kjkQJQQRhTn02t"
+        }
+      ],
+      "date_added": "2023-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212174,
+      "name": "Run Away (Acoustic)",
+      "url": "https://open.spotify.com/track/76qFHkFLDTtjD4k52SFrfA"
     },
     {
       "album": {

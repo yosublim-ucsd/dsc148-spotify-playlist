@@ -2712,7 +2712,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 125030,
       "name": "Loving You",
       "url": "https://open.spotify.com/track/6othjWxN6khdhiLu9GdOtj"
@@ -2888,6 +2888,24 @@
       "duration_ms": 171724,
       "name": "Mufasa",
       "url": "https://open.spotify.com/track/3PG45NefxQe8S5gkuJaFd7"
+    },
+    {
+      "album": {
+        "name": "No Days Off",
+        "url": "https://open.spotify.com/album/4xyQuZ8oTJ7ZhdiWBwtVnS"
+      },
+      "artists": [
+        {
+          "name": "Teni",
+          "url": "https://open.spotify.com/artist/3ukrG1BmfEiuo0KDj8YTTS"
+        }
+      ],
+      "date_added": "2023-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195668,
+      "name": "No Days Off",
+      "url": "https://open.spotify.com/track/3zlSLyucr1QS2XPfRnPdcy"
     },
     {
       "album": {

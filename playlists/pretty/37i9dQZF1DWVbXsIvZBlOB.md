@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbXsIvZBlOB.md) - [plain]
 
 > האזינו בפול ווליום לנשים במוזיקה הישראלית\. קאבר: אגם בוחבוט
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,361 likes - 50 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,386 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbXsIvZBlOB.md) - [plain]
 | 10 | [Aguila Aguile](https://open.spotify.com/track/0Bc6XFlP3YBzz4H0MSBGMl) | [Orka](https://open.spotify.com/artist/694axYJ7pjeqqmZOl6NALd) | [Aguila Aguile](https://open.spotify.com/album/5IKcp0vWWZOMj5PROi3BOi) | 4:26 |
 | 11 | [שחר של אהבה](https://open.spotify.com/track/3RLz7SapUJNpMfPvo7jUA8) | [Ifat Bar Sela](https://open.spotify.com/artist/4tKVsDeR6BMU0niiAcqF9l) | [שחר של אהבה](https://open.spotify.com/album/0gIKZRjTndpzangn6PB0iS) | 3:20 |
 | 12 | [אנחנו הדור הבא](https://open.spotify.com/track/3RNuHh32RfvbWPTeEZu1vu) | [הלהקות הצבאיות](https://open.spotify.com/artist/4rSGpKNO4s1iBN4yPMaVj9), [Agam Buhbut](https://open.spotify.com/artist/3JPKPnzWJGjccn8SnjwA5i), [Ella Lee](https://open.spotify.com/artist/0wVxjQGYkyNh5qQsVCZWlo), [Orr Amrami Brockman](https://open.spotify.com/artist/7LYQkaWV7dxEs53F8kP7Ml) | [אנחנו הדור הבא](https://open.spotify.com/album/5XOGafHC4OFx8LHGy9D0wl) | 3:39 |
-| 13 | [Unicorn](https://open.spotify.com/track/6dUregFbvUNqHP5nphqesK) | [Noa Kirel](https://open.spotify.com/artist/1wak0ZG1LUrZPYx8RDTQoD), [כאן \- תאגיד השידור הישראלי](https://open.spotify.com/artist/2N9Cvh536WBOePrevGKIlj) | [Unicorn](https://open.spotify.com/album/14wVxL1PbK2bJuoGjxHrCR) | 2:50 |
+| 13 | [Unicorn](https://open.spotify.com/track/6dUregFbvUNqHP5nphqesK) | [Noa Kirel](https://open.spotify.com/artist/1wak0ZG1LUrZPYx8RDTQoD) | [Unicorn](https://open.spotify.com/album/14wVxL1PbK2bJuoGjxHrCR) | 2:50 |
 | 14 | [לה קוקרצ'ה](https://open.spotify.com/track/4NM9QIGs9sjfvKELPUocwQ) | [Dana International](https://open.spotify.com/artist/03IVYRlAC972SOHPb86Usr) | [לה קוקרצ'ה](https://open.spotify.com/album/354MORn0U4ij5ySIAdx48w) | 2:14 |
 | 15 | [אתה אני ואלוקים](https://open.spotify.com/track/2Df0b90Z4wazkVczBZrfng) | [Sarit Hadad](https://open.spotify.com/artist/39jFFncu6W0phhYK16Dp9g) | [אתה אני ואלוקים](https://open.spotify.com/album/4QFZaqHgnJLRAmrofzXgz3) | 3:26 |
 | 16 | [פסיכולוגית](https://open.spotify.com/track/5DgDC0BrM5NlNtFl87ZLKy) | [Odeya](https://open.spotify.com/artist/28jEBK1RysfSUBHFofFflA) | [פסיכולוגית](https://open.spotify.com/album/5KVTtuLU0nxA9RSaljdKIv) | 2:25 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbXsIvZBlOB.md) - [plain]
 | 49 | [גשם במדבר](https://open.spotify.com/track/75CdFwQQHGE2yrSRzpCi12) | [נוי גבאי](https://open.spotify.com/artist/4uJvt9gxGdEbqa8kL8Dych) | [גשם במדבר](https://open.spotify.com/album/4gutEoJhj1gPh4GjxJXIoS) | 3:03 |
 | 50 | [מרירה](https://open.spotify.com/track/6XXp57TnbPSKXHHPu0Xb2X) | [Galli Allon](https://open.spotify.com/artist/6cdi2T1MFqTyVDfvJpo8RJ) | [מרירה](https://open.spotify.com/album/2oWfB8Lgy5qTcSqnwMVqr5) | 3:42 |
 
-Snapshot ID: `MCxkNjExMmQ5NWI0NzMwNTA0ODg5YmZhNjM2NjJmZjIwMjdmYTdjNGY1`
+Snapshot ID: `MCw0NDUxNTk3M2Y5YjNkMjNhN2QzZDNmMmM1ZjIxYmViM2UzNDA1NTM1`

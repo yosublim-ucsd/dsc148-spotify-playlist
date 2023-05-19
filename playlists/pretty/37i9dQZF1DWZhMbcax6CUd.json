@@ -1,12 +1,12 @@
 {
   "description": "Explore the great works of Maurice Ravel.",
-  "num_followers": 50608,
+  "num_followers": 50655,
   "original_name": "This Is Ravel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4MDhlYjU5MWFkNzkwMzkzYWU0ZWE4Y2E4OTAyMjhkNjJjOGEyMGI3",
+  "snapshot_id": "MCxiNWVjZjkxMjViZGVjYzViM2M4ODI3ODA5MmE4ZmVlY2YzZDEyNGJj",
   "tracks": [
     {
       "added_at": "2022-06-27 09:54:23",
@@ -659,26 +659,6 @@
     {
       "added_at": "2022-06-27 09:54:23",
       "album": {
-        "name": "Scarlatti, Chopin, Liszt, Ravel, Grieg & Schubert: Piano Works",
-        "url": "https://open.spotify.com/album/41FxpHotQ6ig4nsbjUTOmD"
-      },
-      "artists": [
-        {
-          "name": "Maurice Ravel",
-          "url": "https://open.spotify.com/artist/17hR0sYHpx7VYTMRfFUOmY"
-        },
-        {
-          "name": "Lucas Debargue",
-          "url": "https://open.spotify.com/artist/3gGFrz3hjzLPTKFwjzfm3n"
-        }
-      ],
-      "duration_ms": 450506,
-      "name": "Gaspard de la Nuit, M. 55: 2. Le Gibet",
-      "url": "https://open.spotify.com/track/0QxGL741oduztRFLeNh4Y1"
-    },
-    {
-      "added_at": "2022-06-27 09:54:23",
-      "album": {
         "name": "Ravel: La Valse, Ma M\u00e8re l'Oye, Valses nobles et sentimentales & Daphnis et Chlo\u00e9 Suite No. 2",
         "url": "https://open.spotify.com/album/6shxpYBntVnW95j5m0hfqO"
       },
@@ -699,6 +679,26 @@
       "duration_ms": 208173,
       "name": "Ravel: Ma m\u00e8re l'Oye, M. 60: III. Laideronnette, imp\u00e9ratrice des pagodes",
       "url": "https://open.spotify.com/track/5I11A5koQ25fBYqZD0XZ5T"
+    },
+    {
+      "added_at": "2022-06-27 09:54:23",
+      "album": {
+        "name": "Scarlatti, Chopin, Liszt, Ravel, Grieg & Schubert: Piano Works",
+        "url": "https://open.spotify.com/album/41FxpHotQ6ig4nsbjUTOmD"
+      },
+      "artists": [
+        {
+          "name": "Maurice Ravel",
+          "url": "https://open.spotify.com/artist/17hR0sYHpx7VYTMRfFUOmY"
+        },
+        {
+          "name": "Lucas Debargue",
+          "url": "https://open.spotify.com/artist/3gGFrz3hjzLPTKFwjzfm3n"
+        }
+      ],
+      "duration_ms": 450506,
+      "name": "Gaspard de la Nuit, M. 55: 2. Le Gibet",
+      "url": "https://open.spotify.com/track/0QxGL741oduztRFLeNh4Y1"
     },
     {
       "added_at": "2022-06-27 09:54:23",
@@ -727,6 +727,42 @@
       "duration_ms": 129563,
       "name": "Rapsodie espagnole, M. 54: II. Malague\u00f1a",
       "url": "https://open.spotify.com/track/6laywyzZsNr1YVv1BrkP3x"
+    },
+    {
+      "added_at": "2022-06-27 09:54:23",
+      "album": {
+        "name": "Ravel: L'enfant et les sortil\u00e8ges, M. 71 & Ma m\u00e8re l'oye, M. 62",
+        "url": "https://open.spotify.com/album/1E0g1RP7XJem98VuCtRo8X"
+      },
+      "artists": [
+        {
+          "name": "Maurice Ravel",
+          "url": "https://open.spotify.com/artist/17hR0sYHpx7VYTMRfFUOmY"
+        },
+        {
+          "name": "Julie Pasturaud",
+          "url": "https://open.spotify.com/artist/3sli26dVl4gGSIng29sCYb"
+        },
+        {
+          "name": "Ch\u0153ur Britten",
+          "url": "https://open.spotify.com/artist/0ScBk7Uqee8JIiCa6n7j8M"
+        },
+        {
+          "name": "Jeune Ch\u0153ur symphonique",
+          "url": "https://open.spotify.com/artist/5VoGv1xzdrtcknh9cTlXyE"
+        },
+        {
+          "name": "Orchestre National De Lyon",
+          "url": "https://open.spotify.com/artist/5nBrvb1brhyZFKTuC2GIAo"
+        },
+        {
+          "name": "Leonard Slatkin",
+          "url": "https://open.spotify.com/artist/0xcogVKoT8y5OBIg3L0fua"
+        }
+      ],
+      "duration_ms": 162586,
+      "name": "L'enfant et les sortil\u00e8ges, M. 71, Pt. 2: Part II: Il est bon, l'enfant, il est sage (The Beasts, L'enfant)",
+      "url": "https://open.spotify.com/track/096k5SFpkNGGcmSVOQE0lI"
     },
     {
       "added_at": "2022-06-27 09:54:23",
@@ -771,42 +807,6 @@
       "duration_ms": 206640,
       "name": "Ravel: Ma m\u00e8re l'Oye, M. 60: II. Petit Poucet",
       "url": "https://open.spotify.com/track/7EC7BjMxBzVlmQi3WNJpNK"
-    },
-    {
-      "added_at": "2022-06-27 09:54:23",
-      "album": {
-        "name": "Ravel: L'enfant et les sortil\u00e8ges, M. 71 & Ma m\u00e8re l'oye, M. 62",
-        "url": "https://open.spotify.com/album/1E0g1RP7XJem98VuCtRo8X"
-      },
-      "artists": [
-        {
-          "name": "Maurice Ravel",
-          "url": "https://open.spotify.com/artist/17hR0sYHpx7VYTMRfFUOmY"
-        },
-        {
-          "name": "Julie Pasturaud",
-          "url": "https://open.spotify.com/artist/3sli26dVl4gGSIng29sCYb"
-        },
-        {
-          "name": "Ch\u0153ur Britten",
-          "url": "https://open.spotify.com/artist/0ScBk7Uqee8JIiCa6n7j8M"
-        },
-        {
-          "name": "Jeune Ch\u0153ur symphonique",
-          "url": "https://open.spotify.com/artist/5VoGv1xzdrtcknh9cTlXyE"
-        },
-        {
-          "name": "Orchestre National De Lyon",
-          "url": "https://open.spotify.com/artist/5nBrvb1brhyZFKTuC2GIAo"
-        },
-        {
-          "name": "Leonard Slatkin",
-          "url": "https://open.spotify.com/artist/0xcogVKoT8y5OBIg3L0fua"
-        }
-      ],
-      "duration_ms": 162586,
-      "name": "L'enfant et les sortil\u00e8ges, M. 71, Pt. 2: Part II: Il est bon, l'enfant, il est sage (The Beasts, L'enfant)",
-      "url": "https://open.spotify.com/track/096k5SFpkNGGcmSVOQE0lI"
     },
     {
       "added_at": "2022-06-27 09:54:23",
@@ -1191,26 +1191,6 @@
     {
       "added_at": "2022-06-27 09:54:23",
       "album": {
-        "name": "Mussorgsky: Pictures at an Exhibition / Ravel: Valses nobles",
-        "url": "https://open.spotify.com/album/3S9zmrqcyS91iSoxHfyAmb"
-      },
-      "artists": [
-        {
-          "name": "Maurice Ravel",
-          "url": "https://open.spotify.com/artist/17hR0sYHpx7VYTMRfFUOmY"
-        },
-        {
-          "name": "Ivo Pogorelich",
-          "url": "https://open.spotify.com/artist/1UvH0q6XRNl02Pfw80ib7r"
-        }
-      ],
-      "duration_ms": 165493,
-      "name": "Valses nobles et sentimentales, M. 61: III. Mod\u00e9r\u00e9",
-      "url": "https://open.spotify.com/track/14KNcXdLqGkfgbuQh7Ygkj"
-    },
-    {
-      "added_at": "2022-06-27 09:54:23",
-      "album": {
         "name": "Ravel: Sh\u00e9h\u00e9razade / Tombeau / Pavane; Debussy: Danses / Ballades de Villon",
         "url": "https://open.spotify.com/album/1eeUo6L1AGl4DBJ7QOcp8b"
       },
@@ -1239,8 +1219,8 @@
     {
       "added_at": "2022-06-27 09:54:23",
       "album": {
-        "name": "Ravel: La Valse, Ma M\u00e8re l'Oye, Valses nobles et sentimentales & Daphnis et Chlo\u00e9 Suite No. 2",
-        "url": "https://open.spotify.com/album/6shxpYBntVnW95j5m0hfqO"
+        "name": "Mussorgsky: Pictures at an Exhibition / Ravel: Valses nobles",
+        "url": "https://open.spotify.com/album/3S9zmrqcyS91iSoxHfyAmb"
       },
       "artists": [
         {
@@ -1248,17 +1228,13 @@
           "url": "https://open.spotify.com/artist/17hR0sYHpx7VYTMRfFUOmY"
         },
         {
-          "name": "Yannick N\u00e9zet-S\u00e9guin",
-          "url": "https://open.spotify.com/artist/5ZGyCOrODWwaVtLSDjayl5"
-        },
-        {
-          "name": "Rotterdam Philharmonic Orchestra",
-          "url": "https://open.spotify.com/artist/79xQdsSFyN4cmMsxtWrvUc"
+          "name": "Ivo Pogorelich",
+          "url": "https://open.spotify.com/artist/1UvH0q6XRNl02Pfw80ib7r"
         }
       ],
-      "duration_ms": 51506,
-      "name": "Ravel: Valses nobles et sentimentales, M. 61: No. 6, Vif",
-      "url": "https://open.spotify.com/track/6KIjIDrwYJNmctIiftBpNS"
+      "duration_ms": 165493,
+      "name": "Valses nobles et sentimentales, M. 61: III. Mod\u00e9r\u00e9",
+      "url": "https://open.spotify.com/track/14KNcXdLqGkfgbuQh7Ygkj"
     },
     {
       "added_at": "2022-06-27 09:54:23",
@@ -1311,6 +1287,30 @@
     {
       "added_at": "2022-06-27 09:54:23",
       "album": {
+        "name": "Ravel: La Valse, Ma M\u00e8re l'Oye, Valses nobles et sentimentales & Daphnis et Chlo\u00e9 Suite No. 2",
+        "url": "https://open.spotify.com/album/6shxpYBntVnW95j5m0hfqO"
+      },
+      "artists": [
+        {
+          "name": "Maurice Ravel",
+          "url": "https://open.spotify.com/artist/17hR0sYHpx7VYTMRfFUOmY"
+        },
+        {
+          "name": "Yannick N\u00e9zet-S\u00e9guin",
+          "url": "https://open.spotify.com/artist/5ZGyCOrODWwaVtLSDjayl5"
+        },
+        {
+          "name": "Rotterdam Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/79xQdsSFyN4cmMsxtWrvUc"
+        }
+      ],
+      "duration_ms": 51506,
+      "name": "Ravel: Valses nobles et sentimentales, M. 61: No. 6, Vif",
+      "url": "https://open.spotify.com/track/6KIjIDrwYJNmctIiftBpNS"
+    },
+    {
+      "added_at": "2022-06-27 09:54:23",
+      "album": {
         "name": "Ravel: Daphnis et Chlo\u00e9",
         "url": "https://open.spotify.com/album/4ofcniYcKBLF6cQY1Dw8Z7"
       },
@@ -1352,9 +1352,9 @@
           "url": "https://open.spotify.com/artist/2DG9aIMzcln3w7SIVGGnmg"
         }
       ],
-      "duration_ms": 168880,
-      "name": "Valses nobles et sentimentales, M. 61: VII. Moins vif",
-      "url": "https://open.spotify.com/track/624NZpvGUqpSJEO2SHUyn2"
+      "duration_ms": 278013,
+      "name": "Valses nobles et sentimentales, M. 61: VIII. Epilogue (Lent)",
+      "url": "https://open.spotify.com/track/42rGNryLrLzLSH9xCWfDdR"
     },
     {
       "added_at": "2022-06-27 09:54:23",
@@ -1372,33 +1372,9 @@
           "url": "https://open.spotify.com/artist/2DG9aIMzcln3w7SIVGGnmg"
         }
       ],
-      "duration_ms": 278013,
-      "name": "Valses nobles et sentimentales, M. 61: VIII. Epilogue (Lent)",
-      "url": "https://open.spotify.com/track/42rGNryLrLzLSH9xCWfDdR"
-    },
-    {
-      "added_at": "2022-06-27 09:54:23",
-      "album": {
-        "name": "Ravel: Alborada del Gracioso; La Valse; Rhapsodie Espagnole etc.",
-        "url": "https://open.spotify.com/album/2gmiGFUwDKY4aRR7cbfEqN"
-      },
-      "artists": [
-        {
-          "name": "Maurice Ravel",
-          "url": "https://open.spotify.com/artist/17hR0sYHpx7VYTMRfFUOmY"
-        },
-        {
-          "name": "Boston Symphony Orchestra",
-          "url": "https://open.spotify.com/artist/0K23lQ2hSQAlxSEeZ05bjI"
-        },
-        {
-          "name": "Seiji Ozawa",
-          "url": "https://open.spotify.com/artist/0atCvjK2GL6ezQFGOQOYQo"
-        }
-      ],
-      "duration_ms": 85840,
-      "name": "Valses nobles et sentimentales, M.61: 5. Presque lent - dans un sentiment intime",
-      "url": "https://open.spotify.com/track/26zjWbaWsaFmzKC2pfkgS5"
+      "duration_ms": 168880,
+      "name": "Valses nobles et sentimentales, M. 61: VII. Moins vif",
+      "url": "https://open.spotify.com/track/624NZpvGUqpSJEO2SHUyn2"
     },
     {
       "added_at": "2022-06-27 09:54:23",
@@ -1427,6 +1403,30 @@
       "duration_ms": 613973,
       "name": "Piano Concerto For The Left Hand In D, M. 82: 2. Allegro",
       "url": "https://open.spotify.com/track/3eil3d58A8nySt1X26HzsJ"
+    },
+    {
+      "added_at": "2022-06-27 09:54:23",
+      "album": {
+        "name": "Ravel: Alborada del Gracioso; La Valse; Rhapsodie Espagnole etc.",
+        "url": "https://open.spotify.com/album/2gmiGFUwDKY4aRR7cbfEqN"
+      },
+      "artists": [
+        {
+          "name": "Maurice Ravel",
+          "url": "https://open.spotify.com/artist/17hR0sYHpx7VYTMRfFUOmY"
+        },
+        {
+          "name": "Boston Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/0K23lQ2hSQAlxSEeZ05bjI"
+        },
+        {
+          "name": "Seiji Ozawa",
+          "url": "https://open.spotify.com/artist/0atCvjK2GL6ezQFGOQOYQo"
+        }
+      ],
+      "duration_ms": 85840,
+      "name": "Valses nobles et sentimentales, M.61: 5. Presque lent - dans un sentiment intime",
+      "url": "https://open.spotify.com/track/26zjWbaWsaFmzKC2pfkgS5"
     },
     {
       "added_at": "2022-06-27 09:54:23",
@@ -1499,6 +1499,30 @@
     {
       "added_at": "2022-06-27 09:54:23",
       "album": {
+        "name": "Mikko Franck Plays Ravel",
+        "url": "https://open.spotify.com/album/6c3oGoxumzF4FILKCMwWUy"
+      },
+      "artists": [
+        {
+          "name": "Maurice Ravel",
+          "url": "https://open.spotify.com/artist/17hR0sYHpx7VYTMRfFUOmY"
+        },
+        {
+          "name": "Mikko Franck",
+          "url": "https://open.spotify.com/artist/4NDdDDmlbZ0CNT7rxKUPGq"
+        },
+        {
+          "name": "Orchestre Philharmonique de Radio France",
+          "url": "https://open.spotify.com/artist/2Mwa328GasJUju1YNDLSXd"
+        }
+      ],
+      "duration_ms": 149693,
+      "name": "L'enfant et les sortil\u00e8ges, M. 71, Tab. I: \"J'ai pas envie de faire ma page\" (L'enfant)",
+      "url": "https://open.spotify.com/track/2SN7i9WR8xdfgzWioHMfFK"
+    },
+    {
+      "added_at": "2022-06-27 09:54:23",
+      "album": {
         "name": "Ravel",
         "url": "https://open.spotify.com/album/7whP0NhvOkitAntffyJHeL"
       },
@@ -1523,30 +1547,6 @@
       "duration_ms": 460933,
       "name": "Piano Concerto for the Left Hand in D Major, M. 82: I. Lento",
       "url": "https://open.spotify.com/track/1ba2SJHoTUFs2a7KSRwm8G"
-    },
-    {
-      "added_at": "2022-06-27 09:54:23",
-      "album": {
-        "name": "Mikko Franck Plays Ravel",
-        "url": "https://open.spotify.com/album/6c3oGoxumzF4FILKCMwWUy"
-      },
-      "artists": [
-        {
-          "name": "Maurice Ravel",
-          "url": "https://open.spotify.com/artist/17hR0sYHpx7VYTMRfFUOmY"
-        },
-        {
-          "name": "Mikko Franck",
-          "url": "https://open.spotify.com/artist/4NDdDDmlbZ0CNT7rxKUPGq"
-        },
-        {
-          "name": "Orchestre Philharmonique de Radio France",
-          "url": "https://open.spotify.com/artist/2Mwa328GasJUju1YNDLSXd"
-        }
-      ],
-      "duration_ms": 149693,
-      "name": "L'enfant et les sortil\u00e8ges, M. 71, Tab. I: \"J'ai pas envie de faire ma page\" (L'enfant)",
-      "url": "https://open.spotify.com/track/2SN7i9WR8xdfgzWioHMfFK"
     },
     {
       "added_at": "2022-06-27 09:54:23",
@@ -1579,6 +1579,26 @@
     {
       "added_at": "2022-06-27 09:54:23",
       "album": {
+        "name": "Alexandre Tharaud. \"Voyage en France\"",
+        "url": "https://open.spotify.com/album/1UfEH15W0MVwWbAGa9OXqE"
+      },
+      "artists": [
+        {
+          "name": "Maurice Ravel",
+          "url": "https://open.spotify.com/artist/17hR0sYHpx7VYTMRfFUOmY"
+        },
+        {
+          "name": "Alexandre Tharaud",
+          "url": "https://open.spotify.com/artist/5HG9Eg7Ik8ZuNtMyGYTxLG"
+        }
+      ],
+      "duration_ms": 67720,
+      "name": "Valses nobles et sentimentales: IV. Assez anim\u00e9",
+      "url": "https://open.spotify.com/track/6Pr12xNRbrKJkLWbKVqu81"
+    },
+    {
+      "added_at": "2022-06-27 09:54:23",
+      "album": {
         "name": "Ravel",
         "url": "https://open.spotify.com/album/7whP0NhvOkitAntffyJHeL"
       },
@@ -1603,26 +1623,6 @@
       "duration_ms": 296146,
       "name": "Piano Concerto for the Left Hand in D Major, M. 82: III. Tempo I",
       "url": "https://open.spotify.com/track/6p4nfsao6pTiZQrkhB71VE"
-    },
-    {
-      "added_at": "2022-06-27 09:54:23",
-      "album": {
-        "name": "Alexandre Tharaud. \"Voyage en France\"",
-        "url": "https://open.spotify.com/album/1UfEH15W0MVwWbAGa9OXqE"
-      },
-      "artists": [
-        {
-          "name": "Maurice Ravel",
-          "url": "https://open.spotify.com/artist/17hR0sYHpx7VYTMRfFUOmY"
-        },
-        {
-          "name": "Alexandre Tharaud",
-          "url": "https://open.spotify.com/artist/5HG9Eg7Ik8ZuNtMyGYTxLG"
-        }
-      ],
-      "duration_ms": 67720,
-      "name": "Valses nobles et sentimentales: IV. Assez anim\u00e9",
-      "url": "https://open.spotify.com/track/6Pr12xNRbrKJkLWbKVqu81"
     },
     {
       "added_at": "2022-06-27 09:54:23",

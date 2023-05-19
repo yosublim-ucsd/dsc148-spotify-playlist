@@ -910,7 +910,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 277773,
       "name": "Dusty Eyes",
       "url": "https://open.spotify.com/track/3InUgSk89qd5gs6Yv20070"
@@ -4516,6 +4516,24 @@
       "duration_ms": 247631,
       "name": "The Swimmer (To Be an Old Man)",
       "url": "https://open.spotify.com/track/4nlDcud1pcNcvWEbPH4it1"
+    },
+    {
+      "album": {
+        "name": "Bravado",
+        "url": "https://open.spotify.com/album/1OOpLsjYm20UGottxYTusF"
+      },
+      "artists": [
+        {
+          "name": "Rose Cousins",
+          "url": "https://open.spotify.com/artist/3DIk8KcmVKTr4uGw3AuCtJ"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247631,
+      "name": "The Swimmer (To Be an Old Man)",
+      "url": "https://open.spotify.com/track/5YebJFFiYKBXYQYASFUuoD"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "House and disco jams with an 80s-infused retro flavour.",
-  "num_followers": 58117,
+  "num_followers": 58146,
   "original_name": "Laser Disco",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxZDZhYTU5NjRjMTlmNGJhZmQxMDRkYmZkNDI2Y2U0YzFkZWE3ZTU3",
+  "snapshot_id": "MCxiY2RmZjJlMjE2OGUwZjlkZTFiOThmMDY1MmM0YjY5NmRlZGZhYTdm",
   "tracks": [
     {
       "added_at": "2021-08-27 15:45:01",
@@ -207,6 +207,22 @@
     {
       "added_at": "2021-08-27 15:45:01",
       "album": {
+        "name": "Rhodes Island",
+        "url": "https://open.spotify.com/album/6ShFGI0zCBtjpvtb3Bf0cc"
+      },
+      "artists": [
+        {
+          "name": "VIGI",
+          "url": "https://open.spotify.com/artist/7hLLMguIT8ttH9UAl4A46o"
+        }
+      ],
+      "duration_ms": 274285,
+      "name": "80s In My Blood",
+      "url": "https://open.spotify.com/track/0uiIyFYTBXh6BChzj1raAE"
+    },
+    {
+      "added_at": "2021-08-27 15:45:01",
+      "album": {
         "name": "Polydans Remixes",
         "url": "https://open.spotify.com/album/277wPb0R66H8K90bJMksyG"
       },
@@ -223,22 +239,6 @@
       "duration_ms": 239788,
       "name": "Feels Right - Gerd Janson Remix - Radio Edit",
       "url": "https://open.spotify.com/track/0x7IgG3pJHBUoULcsaPFpr"
-    },
-    {
-      "added_at": "2021-08-27 15:45:01",
-      "album": {
-        "name": "Rhodes Island",
-        "url": "https://open.spotify.com/album/6ShFGI0zCBtjpvtb3Bf0cc"
-      },
-      "artists": [
-        {
-          "name": "VIGI",
-          "url": "https://open.spotify.com/artist/7hLLMguIT8ttH9UAl4A46o"
-        }
-      ],
-      "duration_ms": 274285,
-      "name": "80s In My Blood",
-      "url": "https://open.spotify.com/track/0uiIyFYTBXh6BChzj1raAE"
     },
     {
       "added_at": "2021-08-27 15:45:01",
@@ -387,22 +387,6 @@
     {
       "added_at": "2021-08-27 15:45:01",
       "album": {
-        "name": "Net Loss",
-        "url": "https://open.spotify.com/album/0uqkw1u9wQPYBf4olgXcWx"
-      },
-      "artists": [
-        {
-          "name": "Jex Opolis",
-          "url": "https://open.spotify.com/artist/6LKEDpmHSbVFGyL2OW0ZbQ"
-        }
-      ],
-      "duration_ms": 376271,
-      "name": "Listen to the Band - Club Mix",
-      "url": "https://open.spotify.com/track/3vg0LaCjeLUQEffpDhXqMX"
-    },
-    {
-      "added_at": "2021-08-27 15:45:01",
-      "album": {
         "name": "Unleashed Tapes Vol. 1",
         "url": "https://open.spotify.com/album/5RvIMDFgtLTIGSgGewq4gG"
       },
@@ -435,6 +419,22 @@
       "duration_ms": 452566,
       "name": "Giving Up On - Alan Dixon Remix",
       "url": "https://open.spotify.com/track/54SGVJ4xSCRha8ViDwy7MU"
+    },
+    {
+      "added_at": "2021-08-27 15:45:01",
+      "album": {
+        "name": "Net Loss",
+        "url": "https://open.spotify.com/album/0uqkw1u9wQPYBf4olgXcWx"
+      },
+      "artists": [
+        {
+          "name": "Jex Opolis",
+          "url": "https://open.spotify.com/artist/6LKEDpmHSbVFGyL2OW0ZbQ"
+        }
+      ],
+      "duration_ms": 376271,
+      "name": "Listen to the Band - Club Mix",
+      "url": "https://open.spotify.com/track/3vg0LaCjeLUQEffpDhXqMX"
     },
     {
       "added_at": "2021-08-27 15:45:01",
@@ -535,26 +535,6 @@
     {
       "added_at": "2021-08-27 15:45:01",
       "album": {
-        "name": "Ardore (feat. Tobias Bernstrup)",
-        "url": "https://open.spotify.com/album/5suKkPyhnb5Rf5wVQdDSGT"
-      },
-      "artists": [
-        {
-          "name": "David Jackson",
-          "url": "https://open.spotify.com/artist/7qiozhwvnBwz1t082JIBNV"
-        },
-        {
-          "name": "Tobias Bernstrup",
-          "url": "https://open.spotify.com/artist/7qMxLMZgfIeZloY2EjWiPt"
-        }
-      ],
-      "duration_ms": 212903,
-      "name": "Ardore",
-      "url": "https://open.spotify.com/track/1T2DffseqEO4skwGYB4z9w"
-    },
-    {
-      "added_at": "2021-08-27 15:45:01",
-      "album": {
         "name": "In My Element (Skream Remix)",
         "url": "https://open.spotify.com/album/615KSINGHRzvojc2VGQ97U"
       },
@@ -571,6 +551,26 @@
       "duration_ms": 360000,
       "name": "In My Element - Skream Remix",
       "url": "https://open.spotify.com/track/3LtOC0fsGjmhOg5E78lIFW"
+    },
+    {
+      "added_at": "2021-08-27 15:45:01",
+      "album": {
+        "name": "Ardore (feat. Tobias Bernstrup)",
+        "url": "https://open.spotify.com/album/5suKkPyhnb5Rf5wVQdDSGT"
+      },
+      "artists": [
+        {
+          "name": "David Jackson",
+          "url": "https://open.spotify.com/artist/7qiozhwvnBwz1t082JIBNV"
+        },
+        {
+          "name": "Tobias Bernstrup",
+          "url": "https://open.spotify.com/artist/7qMxLMZgfIeZloY2EjWiPt"
+        }
+      ],
+      "duration_ms": 212903,
+      "name": "Ardore",
+      "url": "https://open.spotify.com/track/1T2DffseqEO4skwGYB4z9w"
     },
     {
       "added_at": "2021-08-27 15:45:01",

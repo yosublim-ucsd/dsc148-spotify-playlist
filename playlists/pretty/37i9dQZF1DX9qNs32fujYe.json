@@ -1,12 +1,12 @@
 {
   "description": "Heavy Metal forever \\m/ classics to brand new tracks, play it loud. Cover: DevilDriver",
-  "num_followers": 1109366,
+  "num_followers": 1109749,
   "original_name": "Heavy Metal",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2YWM0NjU1OWU5MjI3YWRhYWQ2OGNkY2Q2NGMzZTdmMGU1MTAyZTI2",
+  "snapshot_id": "MCxiYTdmMDZmOWNkOGY5ZjYzM2Y5NDQ5M2ViY2ZhYzczZTIxZDQ1NjIw",
   "tracks": [
     {
       "added_at": "2023-05-12 04:00:00",
@@ -371,22 +371,6 @@
     {
       "added_at": "2023-05-12 04:00:00",
       "album": {
-        "name": "Master of Puppets (Remastered Deluxe Box Set)",
-        "url": "https://open.spotify.com/album/7CGhx630DIjdJqaBDVKc5j"
-      },
-      "artists": [
-        {
-          "name": "Metallica",
-          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
-        }
-      ],
-      "duration_ms": 515386,
-      "name": "Master of Puppets (Remastered)",
-      "url": "https://open.spotify.com/track/54bm2e3tk8cliUz3VSdCPZ"
-    },
-    {
-      "added_at": "2023-05-12 04:00:00",
-      "album": {
         "name": "Paranoid (Remaster)",
         "url": "https://open.spotify.com/album/6r7LZXAVueS5DqdrvXJJK7"
       },
@@ -399,6 +383,22 @@
       "duration_ms": 168405,
       "name": "Paranoid - 2012 - Remaster",
       "url": "https://open.spotify.com/track/1Y373MqadDRtclJNdnUXVc"
+    },
+    {
+      "added_at": "2023-05-12 04:00:00",
+      "album": {
+        "name": "Master of Puppets (Remastered Deluxe Box Set)",
+        "url": "https://open.spotify.com/album/7CGhx630DIjdJqaBDVKc5j"
+      },
+      "artists": [
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "duration_ms": 515386,
+      "name": "Master of Puppets (Remastered)",
+      "url": "https://open.spotify.com/track/54bm2e3tk8cliUz3VSdCPZ"
     },
     {
       "added_at": "2023-05-12 04:00:00",
@@ -627,22 +627,6 @@
     {
       "added_at": "2023-05-12 04:00:00",
       "album": {
-        "name": "Blackout",
-        "url": "https://open.spotify.com/album/6x75r5C54z1quun86Bbqbr"
-      },
-      "artists": [
-        {
-          "name": "Scorpions",
-          "url": "https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY"
-        }
-      ],
-      "duration_ms": 237466,
-      "name": "No One Like You",
-      "url": "https://open.spotify.com/track/26fZwf1ImE4aUJ4XaqOkUg"
-    },
-    {
-      "added_at": "2023-05-12 04:00:00",
-      "album": {
         "name": "Painkiller",
         "url": "https://open.spotify.com/album/7LgrhuKnAXpNEv8qzcVd2t"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 365826,
       "name": "Painkiller",
       "url": "https://open.spotify.com/track/0L7zm6afBEtrNKo6C6Gj08"
+    },
+    {
+      "added_at": "2023-05-12 04:00:00",
+      "album": {
+        "name": "Blackout",
+        "url": "https://open.spotify.com/album/6x75r5C54z1quun86Bbqbr"
+      },
+      "artists": [
+        {
+          "name": "Scorpions",
+          "url": "https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY"
+        }
+      ],
+      "duration_ms": 237466,
+      "name": "No One Like You",
+      "url": "https://open.spotify.com/track/26fZwf1ImE4aUJ4XaqOkUg"
     },
     {
       "added_at": "2023-05-12 04:00:00",
@@ -691,22 +691,6 @@
     {
       "added_at": "2023-05-12 04:00:00",
       "album": {
-        "name": "For Those That Wish To Exist",
-        "url": "https://open.spotify.com/album/7qemUq4n71awwVPOaX7jw4"
-      },
-      "artists": [
-        {
-          "name": "Architects",
-          "url": "https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv"
-        }
-      ],
-      "duration_ms": 244364,
-      "name": "Animals",
-      "url": "https://open.spotify.com/track/5ofoB8PFmocBXFBEWVb6Vz"
-    },
-    {
-      "added_at": "2023-05-12 04:00:00",
-      "album": {
         "name": "Metallica (Remastered)",
         "url": "https://open.spotify.com/album/55fq75UfkYbGMq4CncCtOH"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 324600,
       "name": "Sad But True (Remastered)",
       "url": "https://open.spotify.com/track/5UaDi8KzCGJqFfVAOBfXhi"
+    },
+    {
+      "added_at": "2023-05-12 04:00:00",
+      "album": {
+        "name": "For Those That Wish To Exist",
+        "url": "https://open.spotify.com/album/7qemUq4n71awwVPOaX7jw4"
+      },
+      "artists": [
+        {
+          "name": "Architects",
+          "url": "https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv"
+        }
+      ],
+      "duration_ms": 244364,
+      "name": "Animals",
+      "url": "https://open.spotify.com/track/5ofoB8PFmocBXFBEWVb6Vz"
     },
     {
       "added_at": "2023-05-12 04:00:00",
@@ -803,6 +803,22 @@
     {
       "added_at": "2023-05-12 04:00:00",
       "album": {
+        "name": "We Love You",
+        "url": "https://open.spotify.com/album/1OtxzVaaGtJw05LtlusYxC"
+      },
+      "artists": [
+        {
+          "name": "Avenged Sevenfold",
+          "url": "https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs"
+        }
+      ],
+      "duration_ms": 375026,
+      "name": "We Love You",
+      "url": "https://open.spotify.com/track/3DZoL58N1dCaNah9WEvlP0"
+    },
+    {
+      "added_at": "2023-05-12 04:00:00",
+      "album": {
         "name": "The Ultimate Sin",
         "url": "https://open.spotify.com/album/2IPIumpbhrtBvjyzIgGE9j"
       },
@@ -847,22 +863,6 @@
       "duration_ms": 254400,
       "name": "Raining Blood",
       "url": "https://open.spotify.com/track/01Mpj13vURSO3cCLprPt5T"
-    },
-    {
-      "added_at": "2023-05-12 04:00:00",
-      "album": {
-        "name": "We Love You",
-        "url": "https://open.spotify.com/album/1OtxzVaaGtJw05LtlusYxC"
-      },
-      "artists": [
-        {
-          "name": "Avenged Sevenfold",
-          "url": "https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs"
-        }
-      ],
-      "duration_ms": 375026,
-      "name": "We Love You",
-      "url": "https://open.spotify.com/track/3DZoL58N1dCaNah9WEvlP0"
     },
     {
       "added_at": "2023-05-12 04:00:00",
@@ -1003,22 +1003,6 @@
     {
       "added_at": "2023-05-12 04:00:00",
       "album": {
-        "name": "Images and Words",
-        "url": "https://open.spotify.com/album/2QgGoL5VSQhPHudTObS7zK"
-      },
-      "artists": [
-        {
-          "name": "Dream Theater",
-          "url": "https://open.spotify.com/artist/2aaLAng2L2aWD2FClzwiep"
-        }
-      ],
-      "duration_ms": 493933,
-      "name": "Pull Me Under",
-      "url": "https://open.spotify.com/track/5CPXR6lDTvngxtmMZxnWmC"
-    },
-    {
-      "added_at": "2023-05-12 04:00:00",
-      "album": {
         "name": "Protect The Land / Genocidal Humanoidz",
         "url": "https://open.spotify.com/album/00OQIrRjQgZmacSnjK8L7M"
       },
@@ -1035,18 +1019,18 @@
     {
       "added_at": "2023-05-12 04:00:00",
       "album": {
-        "name": "Meliora",
-        "url": "https://open.spotify.com/album/74QTwjBLo1eLqpjL320rXX"
+        "name": "Images and Words",
+        "url": "https://open.spotify.com/album/2QgGoL5VSQhPHudTObS7zK"
       },
       "artists": [
         {
-          "name": "Ghost",
-          "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
+          "name": "Dream Theater",
+          "url": "https://open.spotify.com/artist/2aaLAng2L2aWD2FClzwiep"
         }
       ],
-      "duration_ms": 362093,
-      "name": "Cirice",
-      "url": "https://open.spotify.com/track/3ZXZ9RMsznqgyHnyq0K5FL"
+      "duration_ms": 493933,
+      "name": "Pull Me Under",
+      "url": "https://open.spotify.com/track/5CPXR6lDTvngxtmMZxnWmC"
     },
     {
       "added_at": "2023-05-12 04:00:00",
@@ -1063,6 +1047,22 @@
       "duration_ms": 202249,
       "name": "Full Circle",
       "url": "https://open.spotify.com/track/76CWLFHm3OFuE2P1dDMhi3"
+    },
+    {
+      "added_at": "2023-05-12 04:00:00",
+      "album": {
+        "name": "Meliora",
+        "url": "https://open.spotify.com/album/74QTwjBLo1eLqpjL320rXX"
+      },
+      "artists": [
+        {
+          "name": "Ghost",
+          "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
+        }
+      ],
+      "duration_ms": 362093,
+      "name": "Cirice",
+      "url": "https://open.spotify.com/track/3ZXZ9RMsznqgyHnyq0K5FL"
     },
     {
       "added_at": "2023-05-12 04:00:00",
@@ -1343,22 +1343,6 @@
     {
       "added_at": "2023-05-12 04:00:00",
       "album": {
-        "name": "Kings of Metal",
-        "url": "https://open.spotify.com/album/7lZkD6ntnGAhmWowltbOYB"
-      },
-      "artists": [
-        {
-          "name": "Manowar",
-          "url": "https://open.spotify.com/artist/4CzUzn54Cp9TQr6a7JIlMZ"
-        }
-      ],
-      "duration_ms": 223866,
-      "name": "Kings of Metal",
-      "url": "https://open.spotify.com/track/28TcG73tbc4iGrGBFjiBnR"
-    },
-    {
-      "added_at": "2023-05-12 04:00:00",
-      "album": {
         "name": "Burn My Eyes",
         "url": "https://open.spotify.com/album/4S4WHsBRNEIha796lnU8NJ"
       },
@@ -1371,6 +1355,22 @@
       "duration_ms": 296626,
       "name": "Davidian",
       "url": "https://open.spotify.com/track/3qHlBxD3acw5nrl7Padt0v"
+    },
+    {
+      "added_at": "2023-05-12 04:00:00",
+      "album": {
+        "name": "Kings of Metal",
+        "url": "https://open.spotify.com/album/7lZkD6ntnGAhmWowltbOYB"
+      },
+      "artists": [
+        {
+          "name": "Manowar",
+          "url": "https://open.spotify.com/artist/4CzUzn54Cp9TQr6a7JIlMZ"
+        }
+      ],
+      "duration_ms": 223866,
+      "name": "Kings of Metal",
+      "url": "https://open.spotify.com/track/28TcG73tbc4iGrGBFjiBnR"
     },
     {
       "added_at": "2023-05-12 04:00:00",
@@ -1395,22 +1395,6 @@
       "duration_ms": 199809,
       "name": "Spillways [Feat. Joe Elliott]",
       "url": "https://open.spotify.com/track/720C8mWrqRdh1zYBGqLj9p"
-    },
-    {
-      "added_at": "2023-05-12 04:00:00",
-      "album": {
-        "name": "72 Seasons",
-        "url": "https://open.spotify.com/album/70uejEPPRPSLBrTRdfghP5"
-      },
-      "artists": [
-        {
-          "name": "Metallica",
-          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
-        }
-      ],
-      "duration_ms": 396293,
-      "name": "If Darkness Had a Son",
-      "url": "https://open.spotify.com/track/3i4Nwzze8zflIoKsuoeBPM"
     },
     {
       "added_at": "2023-05-12 04:00:00",
@@ -1447,6 +1431,22 @@
       "duration_ms": 368506,
       "name": "Highway Star",
       "url": "https://open.spotify.com/track/4gVTozEmzwAUXpwj3jEetX"
+    },
+    {
+      "added_at": "2023-05-12 04:00:00",
+      "album": {
+        "name": "72 Seasons",
+        "url": "https://open.spotify.com/album/70uejEPPRPSLBrTRdfghP5"
+      },
+      "artists": [
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "duration_ms": 396293,
+      "name": "If Darkness Had a Son",
+      "url": "https://open.spotify.com/track/3i4Nwzze8zflIoKsuoeBPM"
     },
     {
       "added_at": "2023-05-12 04:00:00",
@@ -1547,22 +1547,6 @@
     {
       "added_at": "2023-05-12 04:00:00",
       "album": {
-        "name": "Unstoppable",
-        "url": "https://open.spotify.com/album/0ZgFPrROyBNPg4jx2a261Q"
-      },
-      "artists": [
-        {
-          "name": "Disturbed",
-          "url": "https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa"
-        }
-      ],
-      "duration_ms": 238109,
-      "name": "Unstoppable",
-      "url": "https://open.spotify.com/track/6KrxqNJFgdSrJTnfDnPT82"
-    },
-    {
-      "added_at": "2023-05-12 04:00:00",
-      "album": {
         "name": "Scars (Expanded Edition)",
         "url": "https://open.spotify.com/album/2XLiRCMRy5WuuF373tKBZ8"
       },
@@ -1575,6 +1559,22 @@
       "duration_ms": 195653,
       "name": "Halo",
       "url": "https://open.spotify.com/track/1QixTwDZCcfBzA7QMyont0"
+    },
+    {
+      "added_at": "2023-05-12 04:00:00",
+      "album": {
+        "name": "Unstoppable",
+        "url": "https://open.spotify.com/album/0ZgFPrROyBNPg4jx2a261Q"
+      },
+      "artists": [
+        {
+          "name": "Disturbed",
+          "url": "https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa"
+        }
+      ],
+      "duration_ms": 238109,
+      "name": "Unstoppable",
+      "url": "https://open.spotify.com/track/6KrxqNJFgdSrJTnfDnPT82"
     },
     {
       "added_at": "2023-05-12 04:00:00",
@@ -1611,22 +1611,6 @@
     {
       "added_at": "2023-05-12 04:00:00",
       "album": {
-        "name": "Cleansing",
-        "url": "https://open.spotify.com/album/1RmsgRJnBFyRMAVl1NW9pO"
-      },
-      "artists": [
-        {
-          "name": "Prong",
-          "url": "https://open.spotify.com/artist/6SER9tY2pDIDVWVf5Ql97B"
-        }
-      ],
-      "duration_ms": 251533,
-      "name": "Snap Your Fingers, Snap Your Neck",
-      "url": "https://open.spotify.com/track/7hgtn706RqLE5q1mWe8aQx"
-    },
-    {
-      "added_at": "2023-05-12 04:00:00",
-      "album": {
         "name": "See What\u2019s On The Inside",
         "url": "https://open.spotify.com/album/11gvWPhkQyVoYIJgVsojmm"
       },
@@ -1643,18 +1627,18 @@
     {
       "added_at": "2023-05-12 04:00:00",
       "album": {
-        "name": "Breaking the Chains",
-        "url": "https://open.spotify.com/album/7f89NbaCH568pUcYy6mqBq"
+        "name": "Cleansing",
+        "url": "https://open.spotify.com/album/1RmsgRJnBFyRMAVl1NW9pO"
       },
       "artists": [
         {
-          "name": "Dokken",
-          "url": "https://open.spotify.com/artist/09hNSPPOxDop4FRdr6UEnq"
+          "name": "Prong",
+          "url": "https://open.spotify.com/artist/6SER9tY2pDIDVWVf5Ql97B"
         }
       ],
-      "duration_ms": 231693,
-      "name": "Breaking the Chains",
-      "url": "https://open.spotify.com/track/2W7CvGjipq3EmHqNGN7lN9"
+      "duration_ms": 251533,
+      "name": "Snap Your Fingers, Snap Your Neck",
+      "url": "https://open.spotify.com/track/7hgtn706RqLE5q1mWe8aQx"
     },
     {
       "added_at": "2023-05-12 04:00:00",
@@ -1671,6 +1655,22 @@
       "duration_ms": 227266,
       "name": "Resentment",
       "url": "https://open.spotify.com/track/2yvIw3QVg06yAZkRiLTYP3"
+    },
+    {
+      "added_at": "2023-05-12 04:00:00",
+      "album": {
+        "name": "Breaking the Chains",
+        "url": "https://open.spotify.com/album/7f89NbaCH568pUcYy6mqBq"
+      },
+      "artists": [
+        {
+          "name": "Dokken",
+          "url": "https://open.spotify.com/artist/09hNSPPOxDop4FRdr6UEnq"
+        }
+      ],
+      "duration_ms": 231693,
+      "name": "Breaking the Chains",
+      "url": "https://open.spotify.com/track/2W7CvGjipq3EmHqNGN7lN9"
     },
     {
       "added_at": "2023-05-12 04:00:00",
@@ -1875,22 +1875,6 @@
     {
       "added_at": "2023-05-12 04:00:00",
       "album": {
-        "name": "Keeper of the Celestial Flame of Abernethy",
-        "url": "https://open.spotify.com/album/3mekZiHdAwHqO9CE5XgrzI"
-      },
-      "artists": [
-        {
-          "name": "Gloryhammer",
-          "url": "https://open.spotify.com/artist/7dkEByOe0oHqc54qU4hwzV"
-        }
-      ],
-      "duration_ms": 200458,
-      "name": "Keeper of the Celestial Flame of Abernethy",
-      "url": "https://open.spotify.com/track/37wXJXAHLBxOcGdwMaFbEb"
-    },
-    {
-      "added_at": "2023-05-12 04:00:00",
-      "album": {
         "name": "Firepower",
         "url": "https://open.spotify.com/album/7p3G0OCxtlWyJcPE1FxnyB"
       },
@@ -1903,6 +1887,22 @@
       "duration_ms": 209453,
       "name": "Lightning Strike",
       "url": "https://open.spotify.com/track/6qopop1Rc9r1RjEIBQhc8d"
+    },
+    {
+      "added_at": "2023-05-12 04:00:00",
+      "album": {
+        "name": "Keeper of the Celestial Flame of Abernethy",
+        "url": "https://open.spotify.com/album/3mekZiHdAwHqO9CE5XgrzI"
+      },
+      "artists": [
+        {
+          "name": "Gloryhammer",
+          "url": "https://open.spotify.com/artist/7dkEByOe0oHqc54qU4hwzV"
+        }
+      ],
+      "duration_ms": 200458,
+      "name": "Keeper of the Celestial Flame of Abernethy",
+      "url": "https://open.spotify.com/track/37wXJXAHLBxOcGdwMaFbEb"
     },
     {
       "added_at": "2023-05-12 04:00:00",
@@ -1939,22 +1939,6 @@
     {
       "added_at": "2023-05-12 04:00:00",
       "album": {
-        "name": "Delivering The Goods",
-        "url": "https://open.spotify.com/album/7GHLucCOV56taMwFjVwfc0"
-      },
-      "artists": [
-        {
-          "name": "Megadeth",
-          "url": "https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf"
-        }
-      ],
-      "duration_ms": 267012,
-      "name": "Delivering The Goods",
-      "url": "https://open.spotify.com/track/6EQD1ZJSicyN5zAWUlfJ8V"
-    },
-    {
-      "added_at": "2023-05-12 04:00:00",
-      "album": {
         "name": "Dark Connection",
         "url": "https://open.spotify.com/album/30O1KkbyS9bbOniw7xtQux"
       },
@@ -1983,6 +1967,22 @@
       "duration_ms": 392800,
       "name": "Symbolic",
       "url": "https://open.spotify.com/track/0dpFb4qv92TE9R00Lq4SAW"
+    },
+    {
+      "added_at": "2023-05-12 04:00:00",
+      "album": {
+        "name": "Delivering The Goods",
+        "url": "https://open.spotify.com/album/7GHLucCOV56taMwFjVwfc0"
+      },
+      "artists": [
+        {
+          "name": "Megadeth",
+          "url": "https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf"
+        }
+      ],
+      "duration_ms": 267012,
+      "name": "Delivering The Goods",
+      "url": "https://open.spotify.com/track/6EQD1ZJSicyN5zAWUlfJ8V"
     },
     {
       "added_at": "2023-05-12 04:00:00",
@@ -2219,6 +2219,46 @@
     {
       "added_at": "2023-05-12 04:00:00",
       "album": {
+        "name": "The Golden Trail",
+        "url": "https://open.spotify.com/album/4ns2AZUzWlGWgMk2MUYHdP"
+      },
+      "artists": [
+        {
+          "name": "Nita Strauss",
+          "url": "https://open.spotify.com/artist/73GhYkwfPQzmfJb1cdPqPf"
+        },
+        {
+          "name": "In Flames",
+          "url": "https://open.spotify.com/artist/57ylwQTnFnIhJh4nu4rxCs"
+        },
+        {
+          "name": "Anders Friden",
+          "url": "https://open.spotify.com/artist/0Klbvzc9XSbVqjUAccOcsf"
+        }
+      ],
+      "duration_ms": 280903,
+      "name": "The Golden Trail",
+      "url": "https://open.spotify.com/track/1rBYsCI24Fw07Hg4e1Dwlh"
+    },
+    {
+      "added_at": "2023-05-12 04:00:00",
+      "album": {
+        "name": "Atonement",
+        "url": "https://open.spotify.com/album/1npVe7YgkCKgg0zMj9dATV"
+      },
+      "artists": [
+        {
+          "name": "Conquer Divide",
+          "url": "https://open.spotify.com/artist/4ZznAOb4aE3va5Jz1iDpjc"
+        }
+      ],
+      "duration_ms": 237115,
+      "name": "Atonement",
+      "url": "https://open.spotify.com/track/0Y2kTZlKmbcsLSTHnLETBj"
+    },
+    {
+      "added_at": "2023-05-12 04:00:00",
+      "album": {
         "name": "Now, Diabolical",
         "url": "https://open.spotify.com/album/5t5tP8dVwdyI8yTShWcIzX"
       },
@@ -2287,18 +2327,22 @@
     {
       "added_at": "2023-05-12 04:00:00",
       "album": {
-        "name": "Atonement",
-        "url": "https://open.spotify.com/album/1npVe7YgkCKgg0zMj9dATV"
+        "name": "Baptize",
+        "url": "https://open.spotify.com/album/0onI0aisDxDHLmhgjD5tYF"
       },
       "artists": [
         {
-          "name": "Conquer Divide",
-          "url": "https://open.spotify.com/artist/4ZznAOb4aE3va5Jz1iDpjc"
+          "name": "Atreyu",
+          "url": "https://open.spotify.com/artist/3LkSiHbjqOHCKCqBfEZOTv"
+        },
+        {
+          "name": "Travis Barker",
+          "url": "https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX"
         }
       ],
-      "duration_ms": 237115,
-      "name": "Atonement",
-      "url": "https://open.spotify.com/track/0Y2kTZlKmbcsLSTHnLETBj"
+      "duration_ms": 165891,
+      "name": "Warrior",
+      "url": "https://open.spotify.com/track/33WOlsgWGEQgEratiULuYp"
     },
     {
       "added_at": "2023-05-12 04:00:00",
@@ -2335,22 +2379,6 @@
     {
       "added_at": "2023-05-12 04:00:00",
       "album": {
-        "name": "The Ghost Inside",
-        "url": "https://open.spotify.com/album/6bPHoxDscsiPULJBJE0b4Z"
-      },
-      "artists": [
-        {
-          "name": "The Ghost Inside",
-          "url": "https://open.spotify.com/artist/6kQB2RN7WwryMdJ1MoQh1E"
-        }
-      ],
-      "duration_ms": 298825,
-      "name": "Aftermath",
-      "url": "https://open.spotify.com/track/6kjEZNcvRZZW1h4E6x8HJD"
-    },
-    {
-      "added_at": "2023-05-12 04:00:00",
-      "album": {
         "name": "The Book of Heavy Metal",
         "url": "https://open.spotify.com/album/6ZWMfxSgjm7dlS6jbypNDW"
       },
@@ -2363,6 +2391,22 @@
       "duration_ms": 325800,
       "name": "The Book of Heavy Metal (March of the Metallians)",
       "url": "https://open.spotify.com/track/07Vk1JPd5MgBJxdrMpnLNh"
+    },
+    {
+      "added_at": "2023-05-12 04:00:00",
+      "album": {
+        "name": "The Ghost Inside",
+        "url": "https://open.spotify.com/album/6bPHoxDscsiPULJBJE0b4Z"
+      },
+      "artists": [
+        {
+          "name": "The Ghost Inside",
+          "url": "https://open.spotify.com/artist/6kQB2RN7WwryMdJ1MoQh1E"
+        }
+      ],
+      "duration_ms": 298825,
+      "name": "Aftermath",
+      "url": "https://open.spotify.com/track/6kjEZNcvRZZW1h4E6x8HJD"
     },
     {
       "added_at": "2023-05-12 04:00:00",
@@ -2383,26 +2427,6 @@
     {
       "added_at": "2023-05-12 04:00:00",
       "album": {
-        "name": "Baptize",
-        "url": "https://open.spotify.com/album/0onI0aisDxDHLmhgjD5tYF"
-      },
-      "artists": [
-        {
-          "name": "Atreyu",
-          "url": "https://open.spotify.com/artist/3LkSiHbjqOHCKCqBfEZOTv"
-        },
-        {
-          "name": "Travis Barker",
-          "url": "https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX"
-        }
-      ],
-      "duration_ms": 165891,
-      "name": "Warrior",
-      "url": "https://open.spotify.com/track/33WOlsgWGEQgEratiULuYp"
-    },
-    {
-      "added_at": "2023-05-12 04:00:00",
-      "album": {
         "name": "SLEEPS SOCIETY",
         "url": "https://open.spotify.com/album/79sFCnrZ9TPamHkqCOQwJA"
       },
@@ -2415,30 +2439,6 @@
       "duration_ms": 199429,
       "name": "SLEEPS SOCIETY",
       "url": "https://open.spotify.com/track/3ZFP6XrE0FHu4duyi7vRoL"
-    },
-    {
-      "added_at": "2023-05-12 04:00:00",
-      "album": {
-        "name": "The Golden Trail",
-        "url": "https://open.spotify.com/album/4ns2AZUzWlGWgMk2MUYHdP"
-      },
-      "artists": [
-        {
-          "name": "Nita Strauss",
-          "url": "https://open.spotify.com/artist/73GhYkwfPQzmfJb1cdPqPf"
-        },
-        {
-          "name": "In Flames",
-          "url": "https://open.spotify.com/artist/57ylwQTnFnIhJh4nu4rxCs"
-        },
-        {
-          "name": "Anders Friden",
-          "url": "https://open.spotify.com/artist/0Klbvzc9XSbVqjUAccOcsf"
-        }
-      ],
-      "duration_ms": 280903,
-      "name": "The Golden Trail",
-      "url": "https://open.spotify.com/track/1rBYsCI24Fw07Hg4e1Dwlh"
     },
     {
       "added_at": "2023-05-12 04:00:00",

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-22",
-  "description": "The best drill, trap and genre bending rap from Australia and NZ. Cover: Tokyo Vendetta",
+  "description": "The best drill, trap and genre bending rap from Australia and NZ. Cover: Mulalo",
   "name": "Local Hype",
   "tracks": [
     {
@@ -722,7 +722,7 @@
       ],
       "date_added": "2022-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 175575,
       "name": "Better Run",
       "url": "https://open.spotify.com/track/6BjDb705cWgO3Uq5tESE8H"
@@ -904,7 +904,7 @@
       ],
       "date_added": "2022-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 180869,
       "name": "Blessings",
       "url": "https://open.spotify.com/track/0G8UevdEVp26a2DGfhmaIp"
@@ -1618,7 +1618,7 @@
       ],
       "date_added": "2022-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 148105,
       "name": "Coop In The Breeze",
       "url": "https://open.spotify.com/track/4Shy8vhuXEIOOxyZrareHv"
@@ -1742,6 +1742,28 @@
       "duration_ms": 238400,
       "name": "Dabke - Dimatik Remix",
       "url": "https://open.spotify.com/track/0AEHBVNjgdLuQTYlQNQSdm"
+    },
+    {
+      "album": {
+        "name": "Dancers",
+        "url": "https://open.spotify.com/album/5NqieYTsGIbYGIiGVhFA5r"
+      },
+      "artists": [
+        {
+          "name": "TAKTiX",
+          "url": "https://open.spotify.com/artist/6gBRnjov5e97HFnYXnfNvs"
+        },
+        {
+          "name": "New Wave",
+          "url": "https://open.spotify.com/artist/1itGTqVfKk3HKGvYqFOy2s"
+        }
+      ],
+      "date_added": "2023-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163944,
+      "name": "Dancers",
+      "url": "https://open.spotify.com/track/5J2dQ24I9XRuhAufFCUPT3"
     },
     {
       "album": {
@@ -2661,6 +2683,24 @@
     },
     {
       "album": {
+        "name": "FINAL STATEMENT!",
+        "url": "https://open.spotify.com/album/5JkVDoJ471lwIrMZFuWavz"
+      },
+      "artists": [
+        {
+          "name": "Mulalo",
+          "url": "https://open.spotify.com/artist/5gUm9HBoHkyMtwmPyDJfNn"
+        }
+      ],
+      "date_added": "2023-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155270,
+      "name": "FINAL STATEMENT!",
+      "url": "https://open.spotify.com/track/1RKVs13pG0kIdNlhKeaUHr"
+    },
+    {
+      "album": {
         "name": "Flex",
         "url": "https://open.spotify.com/album/7ILBIkY6fElee33cslAarz"
       },
@@ -2790,7 +2830,7 @@
       ],
       "date_added": "2023-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 216838,
       "name": "Frauds (Mall Grab Remix)",
       "url": "https://open.spotify.com/track/6scCpOSEfY7FfDRjkHnUwL"
@@ -3333,6 +3373,24 @@
     },
     {
       "album": {
+        "name": "Have You Ever?",
+        "url": "https://open.spotify.com/album/6Rg3K2le7t0pj6u73CYQsX"
+      },
+      "artists": [
+        {
+          "name": "Day1",
+          "url": "https://open.spotify.com/artist/0iFJbJ7jMv5QAmA6hWm6Ic"
+        }
+      ],
+      "date_added": "2023-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119498,
+      "name": "Have You Ever?",
+      "url": "https://open.spotify.com/track/6IiLR5bt3cFOs8YaXe9PFn"
+    },
+    {
+      "album": {
         "name": "HBK",
         "url": "https://open.spotify.com/album/5a7pUSMFNhMWGB4cDGTduT"
       },
@@ -3652,6 +3710,28 @@
       "duration_ms": 128365,
       "name": "Hoodbars Hoodrichhefs",
       "url": "https://open.spotify.com/track/27RiwXFVkCYv1ODbaENPKb"
+    },
+    {
+      "album": {
+        "name": "HoodBars Mrvz",
+        "url": "https://open.spotify.com/album/1oUcfCc7rIyjZ03z6mKmWz"
+      },
+      "artists": [
+        {
+          "name": "Hoodbars",
+          "url": "https://open.spotify.com/artist/6MbQ0kLyuOF8GzPQyMgiSW"
+        },
+        {
+          "name": "MRVZ",
+          "url": "https://open.spotify.com/artist/2dsVQfTfxS9vGeKk1guzgK"
+        }
+      ],
+      "date_added": "2023-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133111,
+      "name": "HoodBars Mrvz",
+      "url": "https://open.spotify.com/track/63sz4ES91zSvNpnOvLNB7E"
     },
     {
       "album": {
@@ -4339,6 +4419,32 @@
     },
     {
       "album": {
+        "name": "Let It Go",
+        "url": "https://open.spotify.com/album/3ZwhtVi5KQG8y7c079jrRQ"
+      },
+      "artists": [
+        {
+          "name": "Hp Boyz",
+          "url": "https://open.spotify.com/artist/0JlQaGJZfrqYeZG1AQICxp"
+        },
+        {
+          "name": "HP ONIT",
+          "url": "https://open.spotify.com/artist/3yclhvFQ2T4HgVpAjtckXG"
+        },
+        {
+          "name": "HP YJ",
+          "url": "https://open.spotify.com/artist/5marR6RSTdYzvnGsHiH5rc"
+        }
+      ],
+      "date_added": "2023-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163384,
+      "name": "Let It Go",
+      "url": "https://open.spotify.com/track/1tKII756LdsDLEjDKkwT7H"
+    },
+    {
+      "album": {
         "name": "LET'S TROT!",
         "url": "https://open.spotify.com/album/2KzG1z2SrIEFlvtPuwYgks"
       },
@@ -4398,7 +4504,7 @@
       ],
       "date_added": "2022-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 142408,
       "name": "Levellin Up With Felons",
       "url": "https://open.spotify.com/track/3Ju4r2OeKhuNrQXa9AGzxH"
@@ -4864,6 +4970,24 @@
       "duration_ms": 176000,
       "name": "Make Money Not Friends",
       "url": "https://open.spotify.com/track/5F152wL6HnVIyr0UWvKh5v"
+    },
+    {
+      "album": {
+        "name": "Make Money Take Money",
+        "url": "https://open.spotify.com/album/6j1wEMMomneG373mhyztns"
+      },
+      "artists": [
+        {
+          "name": "KZ Da Bandit",
+          "url": "https://open.spotify.com/artist/0eKXP5WcNO3Fo6HUdVDd5P"
+        }
+      ],
+      "date_added": "2023-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186122,
+      "name": "Make Money Take Money",
+      "url": "https://open.spotify.com/track/6eqDigsr1Lv1Le1SaLxLr0"
     },
     {
       "album": {
@@ -5452,7 +5576,7 @@
       ],
       "date_added": "2022-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 112941,
       "name": "NJ (Freestyle)",
       "url": "https://open.spotify.com/track/1jItGRDxckHhQBZ3Y9xVch"
@@ -5488,7 +5612,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 114965,
       "name": "No Fuss",
       "url": "https://open.spotify.com/track/2R1Bly4M8xPts0YIwP2ICH"
@@ -5896,6 +6020,28 @@
       "duration_ms": 246214,
       "name": "One of the Best",
       "url": "https://open.spotify.com/track/5DYSXdN7ZNVhLricOEHC2N"
+    },
+    {
+      "album": {
+        "name": "One Time",
+        "url": "https://open.spotify.com/album/0KgbaxcKybG0lm3l1zRLUC"
+      },
+      "artists": [
+        {
+          "name": "BOY $COUT GATSBY",
+          "url": "https://open.spotify.com/artist/5AZH6yzLc1YbNKdB7Db179"
+        },
+        {
+          "name": "Oliver Cronin",
+          "url": "https://open.spotify.com/artist/1dfo9BgmIfeKcAvKieKqiG"
+        }
+      ],
+      "date_added": "2023-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159207,
+      "name": "One Time",
+      "url": "https://open.spotify.com/track/1j8G9BQBlP6uiwzHdhEjSt"
     },
     {
       "album": {
@@ -8438,7 +8584,7 @@
       ],
       "date_added": "2022-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 145108,
       "name": "TRUE REMIX - Spotify Singles",
       "url": "https://open.spotify.com/track/4HFd53WgW5O0qM52Cdhl86"
@@ -8474,7 +8620,7 @@
       ],
       "date_added": "2023-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 126073,
       "name": "Turn Me Up",
       "url": "https://open.spotify.com/track/5l9OQXFhZaaA80JCz0fPwr"
@@ -8934,7 +9080,7 @@
       ],
       "date_added": "2023-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 141125,
       "name": "When It Rains",
       "url": "https://open.spotify.com/track/2itHu6uRp8ClOUS0nS023X"
@@ -9006,7 +9152,7 @@
       ],
       "date_added": "2023-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 136666,
       "name": "WHERES THE MOP",
       "url": "https://open.spotify.com/track/5mjXXO1ebDsHXM9Wn9dQSY"

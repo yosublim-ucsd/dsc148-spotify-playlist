@@ -853,6 +853,28 @@
     },
     {
       "album": {
+        "name": "Soft Power",
+        "url": "https://open.spotify.com/album/1BTjS1GvXAOauIJeK2ppmW"
+      },
+      "artists": [
+        {
+          "name": "Poirier",
+          "url": "https://open.spotify.com/artist/5IpvS5ea4bymk3HpP1jVU4"
+        },
+        {
+          "name": "Flavia Coelho",
+          "url": "https://open.spotify.com/artist/4Lu4jDj4ky1wxvRDgL90tc"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262281,
+      "name": "Caf\u00e9 Com Leite",
+      "url": "https://open.spotify.com/track/3zlC6H9LLQQhpJYOBofEZ0"
+    },
+    {
+      "album": {
         "name": "Brasileiro",
         "url": "https://open.spotify.com/album/6r0GYeEO1BddAuBD4eM4cq"
       },
@@ -1392,7 +1414,7 @@
       ],
       "date_added": "2022-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 254200,
       "name": "DEPOIS DA TEMPESTADE}",
       "url": "https://open.spotify.com/track/6SD4P19dzQ0NyXWdCx8GAN"

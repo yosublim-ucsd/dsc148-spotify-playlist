@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdMS2nFQ7EO0.md) - [plain]
 
 > Vegas pool party vibes with a mix of the hottest Latin dance anthems of today.
 
-[Spotify](https://open.spotify.com/user/spotify) - 444,976 likes - 59 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 445,148 likes - 59 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,4 +68,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdMS2nFQ7EO0.md) - [plain]
 | 58 | [BLACKOUT](https://open.spotify.com/track/5DKTM173OW6XpokjPqfMae) | [Mora](https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S) | [BLACKOUT](https://open.spotify.com/album/4uPjXNAV5ElagRiBsc4JR5) | 3:03 |
 | 59 | [Five More Hours](https://open.spotify.com/track/3MOECVkNshqHYTPt5DZcdN) | [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Good Evening](https://open.spotify.com/album/1J6b7W1nSHH7BObK8zIoEY) | 3:31 |
 
-Snapshot ID: `MCwxMTY2ZDUzYjk1ZTcxMDQ3ZmJiNWY4NTgzZmU5YzMyMWIxZTFlZjI1`
+Snapshot ID: `MCwyNzM1ZjM4ZjZjYTViNjVlNmRkZGEzZTJjMWM3YTRlYTJmMTU3YTlm`

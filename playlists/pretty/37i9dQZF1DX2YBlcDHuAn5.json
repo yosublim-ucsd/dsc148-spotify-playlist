@@ -1,31 +1,35 @@
 {
   "description": "De mooiste muziek: Americana | Country",
-  "num_followers": 3002,
+  "num_followers": 3019,
   "original_name": "Route Americana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlZTllMDQ0MGVlNDU1Njk1NWNjYzNlNjEzOGMyYTk0MTAxZmZkODM1",
+  "snapshot_id": "MCw1NzZkZjY5YWIyZTcwYzE2ZTg5YTM0MTVkZGE4NjFiMjk1ZjgwOGI0",
   "tracks": [
     {
-      "added_at": "2023-05-12 08:10:02",
+      "added_at": "2023-05-18 22:01:00",
       "album": {
-        "name": "Starting Over",
-        "url": "https://open.spotify.com/album/0sOeI7pbAmIc8aDFyvkBUW"
+        "name": "Before The Storm",
+        "url": "https://open.spotify.com/album/1ketSreRN3Qq5OTzgqPOcP"
       },
       "artists": [
         {
-          "name": "Chris Stapleton",
-          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
+          "name": "Bertolf",
+          "url": "https://open.spotify.com/artist/6cs3EabebGIu559XRIpQty"
+        },
+        {
+          "name": "Ilse DeLange",
+          "url": "https://open.spotify.com/artist/3FTKP1k9VbOng3m1rgnsqx"
         }
       ],
-      "duration_ms": 213493,
-      "name": "You Should Probably Leave",
-      "url": "https://open.spotify.com/track/2UikqkwBv7aIvlixeVXHWt"
+      "duration_ms": 191760,
+      "name": "Before The Storm",
+      "url": "https://open.spotify.com/track/3Rul7xOVvLysGVak1Qu9N8"
     },
     {
-      "added_at": "2023-05-12 08:10:02",
+      "added_at": "2023-05-18 22:01:00",
       "album": {
         "name": "Love in the Dark",
         "url": "https://open.spotify.com/album/1BQwxISegVx89NtVEb2Umm"
@@ -41,7 +45,7 @@
       "url": "https://open.spotify.com/track/5rdvOjYb63B0DSEMmA6GLE"
     },
     {
-      "added_at": "2023-05-12 08:10:02",
+      "added_at": "2023-05-18 22:01:00",
       "album": {
         "name": "When Lovers Become Friends",
         "url": "https://open.spotify.com/album/4fpgBmFlpiWb5Y8hpGQl7l"
@@ -57,7 +61,23 @@
       "url": "https://open.spotify.com/track/20lnlhGmHmGwquzYCcRygq"
     },
     {
-      "added_at": "2023-05-12 08:10:02",
+      "added_at": "2023-05-18 22:01:00",
+      "album": {
+        "name": "Starting Over",
+        "url": "https://open.spotify.com/album/0sOeI7pbAmIc8aDFyvkBUW"
+      },
+      "artists": [
+        {
+          "name": "Chris Stapleton",
+          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
+        }
+      ],
+      "duration_ms": 213493,
+      "name": "You Should Probably Leave",
+      "url": "https://open.spotify.com/track/2UikqkwBv7aIvlixeVXHWt"
+    },
+    {
+      "added_at": "2023-05-18 22:01:00",
       "album": {
         "name": "Summertime Blues",
         "url": "https://open.spotify.com/album/2qPki6xBkJ1Mbra43t7hnA"
@@ -73,23 +93,7 @@
       "url": "https://open.spotify.com/track/50Emgupm363qIrYBe20FR3"
     },
     {
-      "added_at": "2023-05-12 08:10:02",
-      "album": {
-        "name": "Tomorrow Me",
-        "url": "https://open.spotify.com/album/2LI2YMMEAYwSzlVRNGJMNE"
-      },
-      "artists": [
-        {
-          "name": "Luke Combs",
-          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
-        }
-      ],
-      "duration_ms": 208733,
-      "name": "Tomorrow Me",
-      "url": "https://open.spotify.com/track/52GuoXJUOFAwmPMtH3V9W4"
-    },
-    {
-      "added_at": "2023-05-12 08:10:02",
+      "added_at": "2023-05-18 22:01:00",
       "album": {
         "name": "Changing Lanes",
         "url": "https://open.spotify.com/album/72aGx6oYmgBLunbmHbgmPE"
@@ -105,7 +109,23 @@
       "url": "https://open.spotify.com/track/6Qh1GNWfKNx3gn3WOA9sLQ"
     },
     {
-      "added_at": "2023-05-12 08:10:02",
+      "added_at": "2023-05-18 22:01:00",
+      "album": {
+        "name": "Tomorrow Me",
+        "url": "https://open.spotify.com/album/2LI2YMMEAYwSzlVRNGJMNE"
+      },
+      "artists": [
+        {
+          "name": "Luke Combs",
+          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
+        }
+      ],
+      "duration_ms": 208733,
+      "name": "Tomorrow Me",
+      "url": "https://open.spotify.com/track/52GuoXJUOFAwmPMtH3V9W4"
+    },
+    {
+      "added_at": "2023-05-18 22:01:00",
       "album": {
         "name": "Sweet Symphony",
         "url": "https://open.spotify.com/album/2FuEelEorhSFMkmvhI8iq7"
@@ -125,7 +145,7 @@
       "url": "https://open.spotify.com/track/78HpdJlNoppURkMmE0dogS"
     },
     {
-      "added_at": "2023-05-12 08:10:02",
+      "added_at": "2023-05-18 22:01:00",
       "album": {
         "name": "The Comeback",
         "url": "https://open.spotify.com/album/3HAqDprp8YxHEguHkCcfOC"
@@ -141,23 +161,7 @@
       "url": "https://open.spotify.com/track/25Pnn7yc213pC2sFUaaINZ"
     },
     {
-      "added_at": "2023-05-12 08:10:02",
-      "album": {
-        "name": "River Fools & Mountain Saints",
-        "url": "https://open.spotify.com/album/6OsF7JfA48kcvWcV4auWIl"
-      },
-      "artists": [
-        {
-          "name": "Ian Noe",
-          "url": "https://open.spotify.com/artist/2TEpPi5SFalflhpcQHq3lB"
-        }
-      ],
-      "duration_ms": 193080,
-      "name": "Tom Barrett",
-      "url": "https://open.spotify.com/track/6YbQXUNroKs9qofA8gttor"
-    },
-    {
-      "added_at": "2023-05-12 08:10:02",
+      "added_at": "2023-05-18 22:01:00",
       "album": {
         "name": "Underneath This Skin",
         "url": "https://open.spotify.com/album/0VUhmsdVl0KYWCYcRVe2Ox"
@@ -173,23 +177,23 @@
       "url": "https://open.spotify.com/track/0aobMBLmusskREM8uF8UMB"
     },
     {
-      "added_at": "2023-05-12 08:10:02",
+      "added_at": "2023-05-18 22:01:00",
       "album": {
-        "name": "Bronco",
-        "url": "https://open.spotify.com/album/2hCcPHWTbvF81CiXPUrM6I"
+        "name": "River Fools & Mountain Saints",
+        "url": "https://open.spotify.com/album/6OsF7JfA48kcvWcV4auWIl"
       },
       "artists": [
         {
-          "name": "Orville Peck",
-          "url": "https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo"
+          "name": "Ian Noe",
+          "url": "https://open.spotify.com/artist/2TEpPi5SFalflhpcQHq3lB"
         }
       ],
-      "duration_ms": 210840,
-      "name": "C'mon Baby, Cry",
-      "url": "https://open.spotify.com/track/67swXHVknS142T5tIcNFkl"
+      "duration_ms": 193080,
+      "name": "Tom Barrett",
+      "url": "https://open.spotify.com/track/6YbQXUNroKs9qofA8gttor"
     },
     {
-      "added_at": "2023-05-12 08:10:02",
+      "added_at": "2023-05-18 22:01:00",
       "album": {
         "name": "Big Grey Boxes",
         "url": "https://open.spotify.com/album/3yRIBEQNXCCikZuuHSYprK"
@@ -205,23 +209,23 @@
       "url": "https://open.spotify.com/track/59xbc8TCvpkgVoo9ldOpLz"
     },
     {
-      "added_at": "2023-05-12 08:10:02",
+      "added_at": "2023-05-18 22:01:00",
       "album": {
-        "name": "Songs About You",
-        "url": "https://open.spotify.com/album/6xTN7k2LmB4rrMLmMQMzWq"
+        "name": "Bronco",
+        "url": "https://open.spotify.com/album/2hCcPHWTbvF81CiXPUrM6I"
       },
       "artists": [
         {
-          "name": "Brett Eldredge",
-          "url": "https://open.spotify.com/artist/0qSX3s5pJnAlSsgsCne8Cz"
+          "name": "Orville Peck",
+          "url": "https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo"
         }
       ],
-      "duration_ms": 202386,
-      "name": "Songs About You",
-      "url": "https://open.spotify.com/track/7qox7CiK5Kf25oBxCA0rY5"
+      "duration_ms": 210840,
+      "name": "C'mon Baby, Cry",
+      "url": "https://open.spotify.com/track/67swXHVknS142T5tIcNFkl"
     },
     {
-      "added_at": "2023-05-12 08:10:02",
+      "added_at": "2023-05-18 22:01:00",
       "album": {
         "name": "Peace of Mind",
         "url": "https://open.spotify.com/album/6npPpBrnnwLpUJwbFULGjs"
@@ -237,7 +241,23 @@
       "url": "https://open.spotify.com/track/1HUPYoXCbnhQnwsKbZBwzQ"
     },
     {
-      "added_at": "2023-05-12 08:10:02",
+      "added_at": "2023-05-18 22:01:00",
+      "album": {
+        "name": "Songs About You",
+        "url": "https://open.spotify.com/album/6xTN7k2LmB4rrMLmMQMzWq"
+      },
+      "artists": [
+        {
+          "name": "Brett Eldredge",
+          "url": "https://open.spotify.com/artist/0qSX3s5pJnAlSsgsCne8Cz"
+        }
+      ],
+      "duration_ms": 202386,
+      "name": "Songs About You",
+      "url": "https://open.spotify.com/track/7qox7CiK5Kf25oBxCA0rY5"
+    },
+    {
+      "added_at": "2023-05-18 22:01:00",
       "album": {
         "name": "Big Time",
         "url": "https://open.spotify.com/album/02R7PREL8nCr02CEYLy7YH"
@@ -253,7 +273,7 @@
       "url": "https://open.spotify.com/track/6Tv21RLLA1Dt6OtPNz8QDq"
     },
     {
-      "added_at": "2023-05-12 08:10:02",
+      "added_at": "2023-05-18 22:01:00",
       "album": {
         "name": "I Feel Alright",
         "url": "https://open.spotify.com/album/1CEAVKLVVaCoKyEoVVr8Bh"
@@ -269,7 +289,7 @@
       "url": "https://open.spotify.com/track/7fF6Af2M3vL4IUtE8cMy6G"
     },
     {
-      "added_at": "2023-05-12 08:10:02",
+      "added_at": "2023-05-18 22:01:00",
       "album": {
         "name": "When Times Get Rough",
         "url": "https://open.spotify.com/album/1CihsEE3OM3dAV4lviQGui"
@@ -285,7 +305,7 @@
       "url": "https://open.spotify.com/track/6g23580DTtKk71sSGiX3fM"
     },
     {
-      "added_at": "2023-05-12 08:10:02",
+      "added_at": "2023-05-18 22:01:00",
       "album": {
         "name": "Someone You Love",
         "url": "https://open.spotify.com/album/0sMQLfLv6y3ALmcZXJXcUT"
@@ -301,7 +321,7 @@
       "url": "https://open.spotify.com/track/6oU5j3WOngnD1GcJtshyhB"
     },
     {
-      "added_at": "2023-05-12 08:10:02",
+      "added_at": "2023-05-18 22:01:00",
       "album": {
         "name": "Dreamer",
         "url": "https://open.spotify.com/album/1GKEaevMrPeFx6EbUkw9Sg"
@@ -317,7 +337,7 @@
       "url": "https://open.spotify.com/track/4YQubPuAYJpL7oXYCDvw0L"
     },
     {
-      "added_at": "2023-05-12 08:10:02",
+      "added_at": "2023-05-18 22:01:00",
       "album": {
         "name": "Buck",
         "url": "https://open.spotify.com/album/7oXPEByonJefvXaAB8pgKV"
@@ -333,7 +353,7 @@
       "url": "https://open.spotify.com/track/13PXKnETL7SoDB5ZjQLbgQ"
     },
     {
-      "added_at": "2023-05-12 08:10:02",
+      "added_at": "2023-05-18 22:01:00",
       "album": {
         "name": "Too Close",
         "url": "https://open.spotify.com/album/3262qPeujrLgKfe56wYFCO"
@@ -349,7 +369,7 @@
       "url": "https://open.spotify.com/track/2uv1HWIbwXRhnSB4O2677y"
     },
     {
-      "added_at": "2023-05-12 08:10:02",
+      "added_at": "2023-05-18 22:01:00",
       "album": {
         "name": "Big Time",
         "url": "https://open.spotify.com/album/5UsuKQY3qOMAYyuwaxH4Lx"
@@ -369,7 +389,7 @@
       "url": "https://open.spotify.com/track/3RZ5VvBcCQgrRl8XaKZLa4"
     },
     {
-      "added_at": "2023-05-12 08:10:02",
+      "added_at": "2023-05-18 22:01:00",
       "album": {
         "name": "I Am The Moon: I. Crescent",
         "url": "https://open.spotify.com/album/7tiugISIhitNyFnMRQBhIq"
@@ -385,7 +405,7 @@
       "url": "https://open.spotify.com/track/7znaTjqonnsPcuQpOcQ7nT"
     },
     {
-      "added_at": "2023-05-12 08:10:02",
+      "added_at": "2023-05-18 22:01:00",
       "album": {
         "name": "I Feel for You",
         "url": "https://open.spotify.com/album/1T7prrdakLyU8Nk7AlXEgb"
@@ -401,7 +421,7 @@
       "url": "https://open.spotify.com/track/6XOWuyehpI0CEDYr7EQQun"
     },
     {
-      "added_at": "2023-05-12 08:10:02",
+      "added_at": "2023-05-18 22:01:00",
       "album": {
         "name": "The Green Stone",
         "url": "https://open.spotify.com/album/37IJFAwNwGt5EV8aTw0E22"
@@ -417,7 +437,7 @@
       "url": "https://open.spotify.com/track/2wXD5gtf36FXnrbwnq9aYf"
     },
     {
-      "added_at": "2023-05-12 08:10:02",
+      "added_at": "2023-05-18 22:01:00",
       "album": {
         "name": "Built And Broken",
         "url": "https://open.spotify.com/album/3nSk18ZELTQqgdSYJBeZ1m"
@@ -433,7 +453,7 @@
       "url": "https://open.spotify.com/track/2oLl22EdWPR8u8hTtfgBPS"
     },
     {
-      "added_at": "2023-05-12 08:10:02",
+      "added_at": "2023-05-18 22:01:00",
       "album": {
         "name": "Know Your Demons",
         "url": "https://open.spotify.com/album/408i5hH2MLHqX6X6srXEL8"
@@ -449,7 +469,7 @@
       "url": "https://open.spotify.com/track/3AonChVGbKzTPGpkiR4Awe"
     },
     {
-      "added_at": "2023-05-12 08:10:02",
+      "added_at": "2023-05-18 22:01:00",
       "album": {
         "name": "Ballad Of Easy Rider",
         "url": "https://open.spotify.com/album/0QQxEoiKi7sgUjlAzjTQCS"
@@ -465,7 +485,7 @@
       "url": "https://open.spotify.com/track/5Nn8SPmzJUV3xUZFBdFjcV"
     },
     {
-      "added_at": "2023-05-12 08:10:02",
+      "added_at": "2023-05-18 22:01:00",
       "album": {
         "name": "Russell County Line",
         "url": "https://open.spotify.com/album/7oKoqz8mBYP0HNsNJ0fW4h"
@@ -481,7 +501,7 @@
       "url": "https://open.spotify.com/track/4xxadE0DSjELkTXjRjwOcB"
     },
     {
-      "added_at": "2023-05-12 08:10:02",
+      "added_at": "2023-05-18 22:01:00",
       "album": {
         "name": "Made Up Mind",
         "url": "https://open.spotify.com/album/7L64rhLRuHGIEqnWMMPPXh"
@@ -497,7 +517,7 @@
       "url": "https://open.spotify.com/track/5XTDvPvCDO9lxrwkEE9aUF"
     },
     {
-      "added_at": "2023-05-12 08:10:02",
+      "added_at": "2023-05-18 22:01:00",
       "album": {
         "name": "A Beautiful Time",
         "url": "https://open.spotify.com/album/7oPKRoThZFX1xQ7X05cfFG"
@@ -513,7 +533,7 @@
       "url": "https://open.spotify.com/track/2HHXqnrD7PaUIUSj9lz3xK"
     },
     {
-      "added_at": "2023-05-12 08:10:02",
+      "added_at": "2023-05-18 22:01:00",
       "album": {
         "name": "Things Happen That Way",
         "url": "https://open.spotify.com/album/4j2PonMiWYk1uBK6jXOKP2"
@@ -529,7 +549,7 @@
       "url": "https://open.spotify.com/track/3uHKEi9VopbcnCdPu3Akbk"
     },
     {
-      "added_at": "2023-05-12 08:10:02",
+      "added_at": "2023-05-18 22:01:00",
       "album": {
         "name": "Down Every Road",
         "url": "https://open.spotify.com/album/4XtyzFCp2tAOynVSQLZMOf"
@@ -549,7 +569,7 @@
       "url": "https://open.spotify.com/track/1mD2DWCvXN13LJBmRttH2I"
     },
     {
-      "added_at": "2023-05-12 08:10:02",
+      "added_at": "2023-05-18 22:01:00",
       "album": {
         "name": "What Kind of Woman",
         "url": "https://open.spotify.com/album/7q80ugez5yRL0avY5XnZJG"
@@ -569,7 +589,7 @@
       "url": "https://open.spotify.com/track/08f6hgvzLlDXPy0rhz3a0W"
     },
     {
-      "added_at": "2023-05-12 08:10:02",
+      "added_at": "2023-05-18 22:01:00",
       "album": {
         "name": "One More Night",
         "url": "https://open.spotify.com/album/3hjJpCE83GDNugliCAXZCt"
@@ -589,7 +609,7 @@
       "url": "https://open.spotify.com/track/0NwmPeStDzdgT9wKxrfTvi"
     },
     {
-      "added_at": "2023-05-12 08:10:02",
+      "added_at": "2023-05-18 22:01:00",
       "album": {
         "name": "Babe I'm Gonna Leave You (Extended Version)",
         "url": "https://open.spotify.com/album/5U5FRaYp8B23WI7BvIGcfL"
@@ -605,7 +625,7 @@
       "url": "https://open.spotify.com/track/66DmPZHPwXz5VO2Mse5FAj"
     },
     {
-      "added_at": "2023-05-12 08:10:02",
+      "added_at": "2023-05-18 22:01:00",
       "album": {
         "name": "Maybe, Maybe Not",
         "url": "https://open.spotify.com/album/453ui3VLbh97vpNlo5YEAf"
@@ -621,7 +641,7 @@
       "url": "https://open.spotify.com/track/1rDkFbHS0krhKweIL6ogTB"
     },
     {
-      "added_at": "2023-05-12 08:10:02",
+      "added_at": "2023-05-18 22:01:00",
       "album": {
         "name": "Lost & Found",
         "url": "https://open.spotify.com/album/3yF8GCeZkevUHuMSDOBQcV"
@@ -637,23 +657,7 @@
       "url": "https://open.spotify.com/track/1Mk22y2ZqHMijN57LfOi5U"
     },
     {
-      "added_at": "2023-05-12 08:10:02",
-      "album": {
-        "name": "Use Me",
-        "url": "https://open.spotify.com/album/6MCzIFRAFlSQeXn7JrhXI0"
-      },
-      "artists": [
-        {
-          "name": "Valerie June",
-          "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
-        }
-      ],
-      "duration_ms": 245066,
-      "name": "Use Me",
-      "url": "https://open.spotify.com/track/6dqJ50r54N2CrddT8XEtgc"
-    },
-    {
-      "added_at": "2023-05-12 08:10:02",
+      "added_at": "2023-05-18 22:01:00",
       "album": {
         "name": "The Fair and Dark Haired Lad",
         "url": "https://open.spotify.com/album/5UNEzuZg2aNzC9GB7d1JRH"
@@ -669,7 +673,87 @@
       "url": "https://open.spotify.com/track/3AeGn9MkzB0fJtfp1AWUja"
     },
     {
-      "added_at": "2023-05-12 08:10:02",
+      "added_at": "2023-05-18 22:01:00",
+      "album": {
+        "name": "Use Me",
+        "url": "https://open.spotify.com/album/6MCzIFRAFlSQeXn7JrhXI0"
+      },
+      "artists": [
+        {
+          "name": "Valerie June",
+          "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
+        }
+      ],
+      "duration_ms": 245066,
+      "name": "Use Me",
+      "url": "https://open.spotify.com/track/6dqJ50r54N2CrddT8XEtgc"
+    },
+    {
+      "added_at": "2023-05-18 22:01:00",
+      "album": {
+        "name": "Burning Down the Prairie",
+        "url": "https://open.spotify.com/album/1wcxYWaq7wm8OHQbx6yZjb"
+      },
+      "artists": [
+        {
+          "name": "Ian Noe",
+          "url": "https://open.spotify.com/artist/2TEpPi5SFalflhpcQHq3lB"
+        }
+      ],
+      "duration_ms": 181466,
+      "name": "Burning Down the Prairie",
+      "url": "https://open.spotify.com/track/3TlfVUdNVzHttc04CBYQQR"
+    },
+    {
+      "added_at": "2023-05-18 22:01:00",
+      "album": {
+        "name": "Bittersweet",
+        "url": "https://open.spotify.com/album/3l4OdclVUWDKoS3G3qT1Rb"
+      },
+      "artists": [
+        {
+          "name": "Rich McFeather",
+          "url": "https://open.spotify.com/artist/1DGm9DpMlUDYqSYAbvfpqm"
+        }
+      ],
+      "duration_ms": 215553,
+      "name": "Bittersweet",
+      "url": "https://open.spotify.com/track/4gitlSJ8ksxAMhmHxNKjNl"
+    },
+    {
+      "added_at": "2023-05-18 22:01:00",
+      "album": {
+        "name": "Big Thing",
+        "url": "https://open.spotify.com/album/747C2yuj2zve80VRWKgLJU"
+      },
+      "artists": [
+        {
+          "name": "Elephant",
+          "url": "https://open.spotify.com/artist/2cwRR7JVxhEre6f0DNRyvW"
+        }
+      ],
+      "duration_ms": 215440,
+      "name": "Only Love",
+      "url": "https://open.spotify.com/track/3VMRFNRAIu8eQ65KbI3Ztz"
+    },
+    {
+      "added_at": "2023-05-18 22:01:00",
+      "album": {
+        "name": "Lightyears Better",
+        "url": "https://open.spotify.com/album/4OTldoFsD7VQuV5g1EZPgd"
+      },
+      "artists": [
+        {
+          "name": "Tim Knol",
+          "url": "https://open.spotify.com/artist/5iwR7L3O96vO8rVXXuLf5K"
+        }
+      ],
+      "duration_ms": 184053,
+      "name": "Lightyears Better",
+      "url": "https://open.spotify.com/track/3TfJc3C3n9ML0dXoz7oHcm"
+    },
+    {
+      "added_at": "2023-05-18 22:01:00",
       "album": {
         "name": "Feel Like Going Home",
         "url": "https://open.spotify.com/album/7cT12Vf8M9wtFZ9vAM7Now"
@@ -689,7 +773,7 @@
       "url": "https://open.spotify.com/track/5PRvOCRtSq7bivvDlykZ2D"
     },
     {
-      "added_at": "2023-05-12 08:10:02",
+      "added_at": "2023-05-18 22:01:00",
       "album": {
         "name": "The Epic Tale of the Stranded Man",
         "url": "https://open.spotify.com/album/1BfrHxEQliuMZYzetI8TGH"
@@ -705,71 +789,7 @@
       "url": "https://open.spotify.com/track/05eGBCOwS0vA4c2TBVRiJ0"
     },
     {
-      "added_at": "2023-05-12 08:10:02",
-      "album": {
-        "name": "Burning Down the Prairie",
-        "url": "https://open.spotify.com/album/1wcxYWaq7wm8OHQbx6yZjb"
-      },
-      "artists": [
-        {
-          "name": "Ian Noe",
-          "url": "https://open.spotify.com/artist/2TEpPi5SFalflhpcQHq3lB"
-        }
-      ],
-      "duration_ms": 181466,
-      "name": "Burning Down the Prairie",
-      "url": "https://open.spotify.com/track/3TlfVUdNVzHttc04CBYQQR"
-    },
-    {
-      "added_at": "2023-05-12 08:10:02",
-      "album": {
-        "name": "Bittersweet",
-        "url": "https://open.spotify.com/album/3l4OdclVUWDKoS3G3qT1Rb"
-      },
-      "artists": [
-        {
-          "name": "Rich McFeather",
-          "url": "https://open.spotify.com/artist/1DGm9DpMlUDYqSYAbvfpqm"
-        }
-      ],
-      "duration_ms": 215553,
-      "name": "Bittersweet",
-      "url": "https://open.spotify.com/track/4gitlSJ8ksxAMhmHxNKjNl"
-    },
-    {
-      "added_at": "2023-05-12 08:10:02",
-      "album": {
-        "name": "Big Thing",
-        "url": "https://open.spotify.com/album/747C2yuj2zve80VRWKgLJU"
-      },
-      "artists": [
-        {
-          "name": "Elephant",
-          "url": "https://open.spotify.com/artist/2cwRR7JVxhEre6f0DNRyvW"
-        }
-      ],
-      "duration_ms": 215440,
-      "name": "Only Love",
-      "url": "https://open.spotify.com/track/3VMRFNRAIu8eQ65KbI3Ztz"
-    },
-    {
-      "added_at": "2023-05-12 08:10:02",
-      "album": {
-        "name": "Lightyears Better",
-        "url": "https://open.spotify.com/album/4OTldoFsD7VQuV5g1EZPgd"
-      },
-      "artists": [
-        {
-          "name": "Tim Knol",
-          "url": "https://open.spotify.com/artist/5iwR7L3O96vO8rVXXuLf5K"
-        }
-      ],
-      "duration_ms": 184053,
-      "name": "Lightyears Better",
-      "url": "https://open.spotify.com/track/3TfJc3C3n9ML0dXoz7oHcm"
-    },
-    {
-      "added_at": "2023-05-12 08:10:02",
+      "added_at": "2023-05-18 22:01:00",
       "album": {
         "name": "Burlesque Desert Window",
         "url": "https://open.spotify.com/album/4oUx1HJHLYrR89VrzjzHf4"
@@ -785,7 +805,7 @@
       "url": "https://open.spotify.com/track/3wcayWWtzYs1DM6qu2p5nE"
     },
     {
-      "added_at": "2023-05-12 08:10:02",
+      "added_at": "2023-05-18 22:01:00",
       "album": {
         "name": "The Longest Journey",
         "url": "https://open.spotify.com/album/6VaC5jCtlmDrrGq9A8pKrx"
@@ -801,7 +821,7 @@
       "url": "https://open.spotify.com/track/5Ifue34q9Msm53CEzFP809"
     },
     {
-      "added_at": "2023-05-12 08:10:02",
+      "added_at": "2023-05-18 22:01:00",
       "album": {
         "name": "In The Morning, When We Rise",
         "url": "https://open.spotify.com/album/6qeEfohwybwm2zAPYLk2lM"
@@ -815,22 +835,6 @@
       "duration_ms": 232725,
       "name": "Colours",
       "url": "https://open.spotify.com/track/1bVBp6PpUcxrn9EjA3uI50"
-    },
-    {
-      "added_at": "2023-05-12 08:10:02",
-      "album": {
-        "name": "For The Better Of Me",
-        "url": "https://open.spotify.com/album/7kl4zINXzUgsaYpPNj61Jg"
-      },
-      "artists": [
-        {
-          "name": "Yentl",
-          "url": "https://open.spotify.com/artist/6M2IE7XTPYn2pzfhpnDyWE"
-        }
-      ],
-      "duration_ms": 230431,
-      "name": "For The Better Of Me",
-      "url": "https://open.spotify.com/track/4p1auAjWQJyV3cLJ7pqmpZ"
     }
   ],
   "unique_name": "Route Americana",

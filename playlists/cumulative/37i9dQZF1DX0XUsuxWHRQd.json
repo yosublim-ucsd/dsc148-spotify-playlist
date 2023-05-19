@@ -19973,6 +19973,24 @@
     },
     {
       "album": {
+        "name": "God's Favorite",
+        "url": "https://open.spotify.com/album/4Gb8Xs87uYNhBwh5wfG7qt"
+      },
+      "artists": [
+        {
+          "name": "N.O.R.E.",
+          "url": "https://open.spotify.com/artist/4GMgdB3vwbBOc42hbXEi9p"
+        }
+      ],
+      "date_added": "2023-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264653,
+      "name": "Nothin'",
+      "url": "https://open.spotify.com/track/5ZKVNTG7yu7gbX4vryqS2X"
+    },
+    {
+      "album": {
         "name": "Nothing Changed",
         "url": "https://open.spotify.com/album/4Lo6GJMW4ctfhtuCqMkn1O"
       },

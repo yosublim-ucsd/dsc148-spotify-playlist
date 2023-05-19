@@ -1,12 +1,12 @@
 {
   "description": "\u00a1mueve ese booty! \ud83c\udf51\ud83d\udd25",
-  "num_followers": 121645,
+  "num_followers": 121953,
   "original_name": "twerk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzMjlmNWE5NTdkNjZmNThlZTM2MDI3NWRlMzIzMDIzYTNmMmQ5MWY1",
+  "snapshot_id": "MCxiZDg0OTI2MmIyOTA4OTYwMjdjNDc1NTA1M2NkZTcxMGI1OWMxZGVk",
   "tracks": [
     {
       "added_at": "2023-04-21 20:25:44",
@@ -483,22 +483,26 @@
     {
       "added_at": "2023-04-21 20:25:44",
       "album": {
-        "name": "CAIRO",
-        "url": "https://open.spotify.com/album/1yzsYuo0fqKWvYimSWL5RA"
+        "name": "Platonicos",
+        "url": "https://open.spotify.com/album/5sEpXan86hEcM8eZSAoWhw"
       },
       "artists": [
         {
-          "name": "KAROL G",
-          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+          "name": "Jay Wheeler",
+          "url": "https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g"
         },
         {
-          "name": "Ovy On The Drums",
-          "url": "https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA"
+          "name": "DJ Nelson",
+          "url": "https://open.spotify.com/artist/2ydZrTy8U3kOMOzx20s3dg"
+        },
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
         }
       ],
-      "duration_ms": 201280,
-      "name": "CAIRO",
-      "url": "https://open.spotify.com/track/6WbAhuwE6fCOriBu5786X1"
+      "duration_ms": 219048,
+      "name": "La Curiosidad",
+      "url": "https://open.spotify.com/track/4HYDUMY0xSpeBr0AMY9cUz"
     },
     {
       "added_at": "2023-04-21 20:25:44",
@@ -523,26 +527,22 @@
     {
       "added_at": "2023-04-21 20:25:44",
       "album": {
-        "name": "Platonicos",
-        "url": "https://open.spotify.com/album/5sEpXan86hEcM8eZSAoWhw"
+        "name": "CAIRO",
+        "url": "https://open.spotify.com/album/1yzsYuo0fqKWvYimSWL5RA"
       },
       "artists": [
         {
-          "name": "Jay Wheeler",
-          "url": "https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g"
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
         },
         {
-          "name": "DJ Nelson",
-          "url": "https://open.spotify.com/artist/2ydZrTy8U3kOMOzx20s3dg"
-        },
-        {
-          "name": "Myke Towers",
-          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+          "name": "Ovy On The Drums",
+          "url": "https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA"
         }
       ],
-      "duration_ms": 219048,
-      "name": "La Curiosidad",
-      "url": "https://open.spotify.com/track/4HYDUMY0xSpeBr0AMY9cUz"
+      "duration_ms": 201280,
+      "name": "CAIRO",
+      "url": "https://open.spotify.com/track/6WbAhuwE6fCOriBu5786X1"
     },
     {
       "added_at": "2023-04-21 20:25:44",
@@ -727,22 +727,6 @@
     {
       "added_at": "2023-04-21 20:25:44",
       "album": {
-        "name": "Cuerpecito",
-        "url": "https://open.spotify.com/album/10C7yBcN3lezb79Dcznwad"
-      },
-      "artists": [
-        {
-          "name": "Jhayco",
-          "url": "https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1"
-        }
-      ],
-      "duration_ms": 195333,
-      "name": "Cuerpecito",
-      "url": "https://open.spotify.com/track/79euszUrA1kga1kK5PRmDo"
-    },
-    {
-      "added_at": "2023-04-21 20:25:44",
-      "album": {
         "name": "YHLQMDLG",
         "url": "https://open.spotify.com/album/5lJqux7orBlA1QzyiBGti1"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 295176,
       "name": "Safaera",
       "url": "https://open.spotify.com/track/2DEZmgHKAvm41k4J3R2E9Y"
+    },
+    {
+      "added_at": "2023-04-21 20:25:44",
+      "album": {
+        "name": "Cuerpecito",
+        "url": "https://open.spotify.com/album/10C7yBcN3lezb79Dcznwad"
+      },
+      "artists": [
+        {
+          "name": "Jhayco",
+          "url": "https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1"
+        }
+      ],
+      "duration_ms": 195333,
+      "name": "Cuerpecito",
+      "url": "https://open.spotify.com/track/79euszUrA1kga1kK5PRmDo"
     },
     {
       "added_at": "2023-04-21 20:25:44",
@@ -891,26 +891,18 @@
     {
       "added_at": "2023-04-21 20:25:44",
       "album": {
-        "name": "En La De Ella",
-        "url": "https://open.spotify.com/album/2h9T2SLXRUPyBkzj9qtnVH"
+        "name": "YHLQMDLG",
+        "url": "https://open.spotify.com/album/5lJqux7orBlA1QzyiBGti1"
       },
       "artists": [
         {
-          "name": "Jhayco",
-          "url": "https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1"
-        },
-        {
-          "name": "Feid",
-          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
-        },
-        {
-          "name": "Sech",
-          "url": "https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht"
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
         }
       ],
-      "duration_ms": 230653,
-      "name": "En La De Ella",
-      "url": "https://open.spotify.com/track/5NxhMcHSVY3Z7ykWxZf3aj"
+      "duration_ms": 163084,
+      "name": "La Dif\u00edcil",
+      "url": "https://open.spotify.com/track/6NfrH0ANGmgBXyxgV2PeXt"
     },
     {
       "added_at": "2023-04-21 20:25:44",
@@ -939,42 +931,26 @@
     {
       "added_at": "2023-04-21 20:25:44",
       "album": {
-        "name": "YHLQMDLG",
-        "url": "https://open.spotify.com/album/5lJqux7orBlA1QzyiBGti1"
+        "name": "En La De Ella",
+        "url": "https://open.spotify.com/album/2h9T2SLXRUPyBkzj9qtnVH"
       },
       "artists": [
         {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        }
-      ],
-      "duration_ms": 163084,
-      "name": "La Dif\u00edcil",
-      "url": "https://open.spotify.com/track/6NfrH0ANGmgBXyxgV2PeXt"
-    },
-    {
-      "added_at": "2023-04-21 20:25:44",
-      "album": {
-        "name": "Tamagotchi",
-        "url": "https://open.spotify.com/album/057rlsHQhvwj62HNgX52uA"
-      },
-      "artists": [
-        {
-          "name": "GUNTTER",
-          "url": "https://open.spotify.com/artist/3psizJPIbIEEctInvdWSZk"
+          "name": "Jhayco",
+          "url": "https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1"
         },
         {
-          "name": "HAMLIT SHORTY",
-          "url": "https://open.spotify.com/artist/06n23qw408xNUMGETWsmaL"
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
         },
         {
-          "name": "Sticks House",
-          "url": "https://open.spotify.com/artist/3gvuPnQphwrMjq23LTUAFN"
+          "name": "Sech",
+          "url": "https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht"
         }
       ],
-      "duration_ms": 151000,
-      "name": "Tamagotchi",
-      "url": "https://open.spotify.com/track/5bfep56ypsHGIR4i5KPKJN"
+      "duration_ms": 230653,
+      "name": "En La De Ella",
+      "url": "https://open.spotify.com/track/5NxhMcHSVY3Z7ykWxZf3aj"
     },
     {
       "added_at": "2023-04-21 20:25:44",
@@ -999,6 +975,30 @@
       "duration_ms": 161626,
       "name": "Con Altura",
       "url": "https://open.spotify.com/track/2qG5sZ7Si6sdK74qLxedYM"
+    },
+    {
+      "added_at": "2023-04-21 20:25:44",
+      "album": {
+        "name": "Tamagotchi",
+        "url": "https://open.spotify.com/album/057rlsHQhvwj62HNgX52uA"
+      },
+      "artists": [
+        {
+          "name": "GUNTTER",
+          "url": "https://open.spotify.com/artist/3psizJPIbIEEctInvdWSZk"
+        },
+        {
+          "name": "HAMLIT SHORTY",
+          "url": "https://open.spotify.com/artist/06n23qw408xNUMGETWsmaL"
+        },
+        {
+          "name": "Sticks House",
+          "url": "https://open.spotify.com/artist/3gvuPnQphwrMjq23LTUAFN"
+        }
+      ],
+      "duration_ms": 151000,
+      "name": "Tamagotchi",
+      "url": "https://open.spotify.com/track/5bfep56ypsHGIR4i5KPKJN"
     },
     {
       "added_at": "2023-04-21 20:25:44",
@@ -1415,22 +1415,6 @@
     {
       "added_at": "2023-04-21 20:25:44",
       "album": {
-        "name": "Colores",
-        "url": "https://open.spotify.com/album/2mX8ktJoWvyidWBU9U8Jis"
-      },
-      "artists": [
-        {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
-        }
-      ],
-      "duration_ms": 205933,
-      "name": "Azul",
-      "url": "https://open.spotify.com/track/2lCkncy6bIB0LTMT7kvrD1"
-    },
-    {
-      "added_at": "2023-04-21 20:25:44",
-      "album": {
         "name": "Pa'l Mundo",
         "url": "https://open.spotify.com/album/0mfiGkVJST0ysEVznu2aZP"
       },
@@ -1443,6 +1427,22 @@
       "duration_ms": 172680,
       "name": "Rakata",
       "url": "https://open.spotify.com/track/1kQqiC1rS1FiuVpeBKN0QN"
+    },
+    {
+      "added_at": "2023-04-21 20:25:44",
+      "album": {
+        "name": "Colores",
+        "url": "https://open.spotify.com/album/2mX8ktJoWvyidWBU9U8Jis"
+      },
+      "artists": [
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        }
+      ],
+      "duration_ms": 205933,
+      "name": "Azul",
+      "url": "https://open.spotify.com/track/2lCkncy6bIB0LTMT7kvrD1"
     },
     {
       "added_at": "2023-04-21 20:25:44",
@@ -1487,6 +1487,26 @@
     {
       "added_at": "2023-04-21 20:25:44",
       "album": {
+        "name": "Nena Trampa (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/7ntr88BWCrwZGySZQlHgBM"
+      },
+      "artists": [
+        {
+          "name": "Cazzu",
+          "url": "https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y"
+        },
+        {
+          "name": "Young Miko",
+          "url": "https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB"
+        }
+      ],
+      "duration_ms": 146086,
+      "name": "Brinca",
+      "url": "https://open.spotify.com/track/77z9iYnZxmx89VGgaKfbFh"
+    },
+    {
+      "added_at": "2023-04-21 20:25:44",
+      "album": {
         "name": "Baila Morena (Reggaeton Mix)",
         "url": "https://open.spotify.com/album/106R30c82nUmpln49yR9zs"
       },
@@ -1507,26 +1527,6 @@
       "duration_ms": 187080,
       "name": "Baila Morena (with Luny Tunes, Noriega) - Remix",
       "url": "https://open.spotify.com/track/4qbi9JDziBh3cxi9SFUbeu"
-    },
-    {
-      "added_at": "2023-04-21 20:25:44",
-      "album": {
-        "name": "Nena Trampa (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/7ntr88BWCrwZGySZQlHgBM"
-      },
-      "artists": [
-        {
-          "name": "Cazzu",
-          "url": "https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y"
-        },
-        {
-          "name": "Young Miko",
-          "url": "https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB"
-        }
-      ],
-      "duration_ms": 146086,
-      "name": "Brinca",
-      "url": "https://open.spotify.com/track/77z9iYnZxmx89VGgaKfbFh"
     },
     {
       "added_at": "2023-04-21 20:25:44",

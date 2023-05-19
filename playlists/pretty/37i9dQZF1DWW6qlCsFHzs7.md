@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW6qlCsFHzs7.md) - [plain]
 
 > <a href="spotify:artist:1lMcg4Y7nW5hHgIVsN9Shn">Conducta</a>'s favorite tracks\. Updated regularly\. Curated by Conducta\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,092 likes - 70 songs - 5 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,097 likes - 70 songs - 5 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,7 +53,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW6qlCsFHzs7.md) - [plain]
 | 43 | [To The Money \(feat\. Flo Milli & 8AE\)](https://open.spotify.com/track/5YSWtx5drmDZHP2weqJtAG) | [NEZ](https://open.spotify.com/artist/2Mwy2BwAUT3WU1cZa3pvEW), [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd), [8AE](https://open.spotify.com/artist/1HX4A36aOWZMFx5eRHKIz1) | [To The Money \(feat\. Flo Milli & 8AE\)](https://open.spotify.com/album/2efMCGuPSpEgLoSPsg5a5e) | 2:54 |
 | 44 | [It’s A Love Thing](https://open.spotify.com/track/63sLliVYvTftRNtsHyaE4T) | [Sharda](https://open.spotify.com/artist/4iAs0GwTsi8q6a7ZnzR2Qi) | [It’s A Love Thing](https://open.spotify.com/album/2DPGnMwSkAMjDukOojCsNt) | 3:22 |
 | 45 | [Supreme Level](https://open.spotify.com/track/2QaVPjEedRzUoYkP9duY1k) | [Interplanetary Criminal](https://open.spotify.com/artist/6uJ51uV5rYzu1MJkC4CceI) | [Darkside](https://open.spotify.com/album/7vYyuyPUzefAvNTmfrPzkq) | 5:05 |
-| 46 | [All my friends know \- Anz Remix](https://open.spotify.com/track/1U6hIpPWukivILVMgkzpAp) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t), [Anz](https://open.spotify.com/artist/1Ysz8yMgr4g1Ol3l1m3yOt) | [to hell with it \(Remixes\)](https://open.spotify.com/album/3KP55PNM7vdlrIm1LavDzb) | 5:11 |
+| 46 | [All My Friends Know \- Anz Remix](https://open.spotify.com/track/1U6hIpPWukivILVMgkzpAp) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t), [Anz](https://open.spotify.com/artist/1Ysz8yMgr4g1Ol3l1m3yOt) | [to hell with it \(Remixes\)](https://open.spotify.com/album/3KP55PNM7vdlrIm1LavDzb) | 5:11 |
 | 47 | [Request Line](https://open.spotify.com/track/3MMgBwZrja6WrCPoxJbDWy) | [D&G](https://open.spotify.com/artist/2LO7TMTsXDG1R5Ohw6DeGe) | [Dubs & Grooves, Vol\. 1](https://open.spotify.com/album/5IXHDuJrdE9tEF0m2g3NVw) | 6:36 |
 | 48 | [Tabloids](https://open.spotify.com/track/7hwa0ASN3RA6GVT3HfUp67) | [Royal\-T](https://open.spotify.com/artist/0Eob3oXbs3eny5yHhM2QeW) | [Tabloids](https://open.spotify.com/album/26xfHM17UpJSv20zYENRFx) | 3:11 |
 | 49 | [Chin Up](https://open.spotify.com/track/2RTlxZxGOlSYZxb2SnmFuZ) | [Sharda](https://open.spotify.com/artist/4iAs0GwTsi8q6a7ZnzR2Qi) | [Chin Up](https://open.spotify.com/album/6PYEDcFdiJ6lfZEIlwqvg5) | 4:39 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW6qlCsFHzs7.md) - [plain]
 | 69 | [Make Me Feel](https://open.spotify.com/track/2bq4FFDPno3B2rN2ysh28x) | [Prozak](https://open.spotify.com/artist/1cFxOHBhTZDQuzNaIvzBel) | [Make Me Feel](https://open.spotify.com/album/759Lkn1ERq1SMekDhuvnbb) | 5:11 |
 | 70 | [Stronger](https://open.spotify.com/track/33ZNh2kqjSpLsJPmOZnMgd) | [Wilfred Giroux](https://open.spotify.com/artist/7bSQhATneiWf5I7uSQVCGH) | [Stronger](https://open.spotify.com/album/5Hz3RQToT3CNvuT5H0Y9Qf) | 5:47 |
 
-Snapshot ID: `MCw0OTIxYTU4ODMzZDk4YmJhMmE2ZGJmYzk3M2QyZTI5NDE3ZWVlYzAz`
+Snapshot ID: `MCxhNzQzYTc5NTY1NTA2YzJjNjllMzhlYzAzZjQwYjgxYTIyMTg4ZGQw`

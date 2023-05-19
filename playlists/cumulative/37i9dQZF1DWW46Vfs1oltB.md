@@ -2,9 +2,9 @@
 
 ### [KrOWN](https://open.spotify.com/playlist/37i9dQZF1DWW46Vfs1oltB)
 
-> The fresh & hottest K\-Hip hop tracks\. \(Cover:MIRANI\(미란이\)\)\)
+> The fresh & hottest K\-Hip hop tracks\. \(Cover:Sik\-K, HAON\)
 
-890 songs - 2 day 1 hr 18 min
+892 songs - 2 day 1 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -87,6 +87,7 @@
 | [Black Heart \(feat\. Leellamarz, BE'O\)](https://open.spotify.com/track/2odm919sRfQIhH2na8YSKK) | [TOIL](https://open.spotify.com/artist/698zn8fEOIr1OrfqG4283S), [Leellamarz](https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0), [BE'O](https://open.spotify.com/artist/5NUVwRESNqYBUTRbiATjy7) | [Between Sat & Sun](https://open.spotify.com/album/6YcwCU0b6fXZ003KIU8Jio) | 3:55 | 2022-02-03 | 2022-07-08 |
 | [Black Swan \(Feat\. Leellamarz, DON MALIK\)](https://open.spotify.com/track/0rG31ihx1Jurb7hzc6ixc0) | [Gist](https://open.spotify.com/artist/7MWT3sTDz6GemZla4Y5oCk), [Leellamarz](https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0), [Don Malik](https://open.spotify.com/artist/1DKIdDHKHi3rIwG4UB5zLE) | [Beginning](https://open.spotify.com/album/7D1eIygExQO5kvrCWF9mf0) | 3:01 | 2022-12-20 | 2022-12-28 |
 | [Bleed \(prod\. dayever\)](https://open.spotify.com/track/59wgGAvqamOjyMvIw9E3uX) | [ksmartboi](https://open.spotify.com/artist/6iBjPtCEGarFwpdJUc39P9), [Yes Junior 24](https://open.spotify.com/artist/4ps3JPHTs3XJSSmzRqCvKJ) | [Hell Voyage](https://open.spotify.com/album/5IAxKo15mKO6w35XCTYHn2) | 1:55 | 2022-11-01 | 2022-12-10 |
+| [Blessin](https://open.spotify.com/track/2zGPJuadZyPGeVILObLb0o) | [NSW yoon](https://open.spotify.com/artist/6xlIFpRmRNDoVuFUqzuMFE) | [Blessin](https://open.spotify.com/album/5zOByi7iocKtWjuY8g0Q3v) | 1:53 | 2023-05-18 |  |
 | [Blink \(Feat\. Reddy\) \(Prod\. PATEKO\)](https://open.spotify.com/track/1OAClVF6RGn4WhLf1dPkBD) | [snzae](https://open.spotify.com/artist/55l6wA0gGh2Y1OpE5lUYLc), [Reddy](https://open.spotify.com/artist/69H1Ooj2eBJXLTk3IEBV0v) | [Day](https://open.spotify.com/album/2j6ufwzCjQglhOc60VodiB) | 2:59 | 2022-03-31 | 2022-07-07 |
 | [Bloo Story](https://open.spotify.com/track/32cm8XVJ89BUaPx9SMDMg4) | [BLOO](https://open.spotify.com/artist/3ghCvruix2FYZ81DHRlOt1) | [Bloo Story](https://open.spotify.com/album/3EIyyppAAEaIPovXe42amU) | 5:06 | 2022-01-20 | 2022-04-20 |
 | [BLOW OUT \(Prod\. Czaer\)](https://open.spotify.com/track/5xVu6lAMK3x7n98nVobRrQ) | [Mommy Son](https://open.spotify.com/artist/5xWKWXamxbujIdti9xpnI1), [Zior Park](https://open.spotify.com/artist/4gkSpcyfxtm5OFoZCYWTeD) | [Street Man Fighter Original Vol.4 \(Crew Songs\)](https://open.spotify.com/album/7dwRGP1A80POqE3O9At5Vw) | 3:21 | 2022-09-20 | 2023-01-03 |
@@ -496,6 +497,7 @@
 | [Marley \(feat\. Huckleberry P\)](https://open.spotify.com/track/2Vfab88uvIEuwa0YX9OLm9) | [Brown Tigger](https://open.spotify.com/artist/61IaAjWyHrAO5ZJdjp1YEH), [Huckleberry P](https://open.spotify.com/artist/4meeMnr8eLacsB31ApsXZS) | [2022 Monthly Brown May](https://open.spotify.com/album/2fVWXrJnn03sknbjc3ZK9n) | 3:05 | 2022-06-20 | 2022-07-16 |
 | [Mart Invader](https://open.spotify.com/track/0dCKPWSmorx6OEW1PLcTF5) | [Haru Kid](https://open.spotify.com/artist/79Hx3llVFe5RtRJAosF3MW) | [Mart Invader](https://open.spotify.com/album/7pRaiXDCEMFZxJKTL2Mjbj) | 2:42 | 2021-12-18 | 2022-07-05 |
 | [MAYBACH \(Feat\. CK & SC4F\)](https://open.spotify.com/track/4maK1oiwgxl4hL05tsGLRI) | [LIL GIMCHI](https://open.spotify.com/artist/6GlkZqxomTSlcJUh9WvVKQ), [Ck](https://open.spotify.com/artist/4Kp3kXbpeN2OGh0K14rzYy), [SC4F](https://open.spotify.com/artist/3fXOlqV4AdU7A1VCDrXeoY) | [MAYBACH](https://open.spotify.com/album/0cTFbqEuLkQcrwyfwhDNFk) | 2:52 | 2023-01-02 | 2023-01-11 |
+| [MAYBE I'M KCRAZY](https://open.spotify.com/track/3G44OrPcpP7NG8yb92bhnr) | [Sik\-K](https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn), [HAON](https://open.spotify.com/artist/2krUNMgFZYm5s4Nn0g91W9) | [ALBUM ON THE WAY!](https://open.spotify.com/album/04XXB9lcA6N9UN4CmsAh2g) | 3:00 | 2023-05-18 |  |
 | [MBT](https://open.spotify.com/track/17wvYb3NN58riCL6wQJjFl) | [Huh](https://open.spotify.com/artist/30AghIfoMJrMo1YqoUkEMM) | [MBT](https://open.spotify.com/album/2XP5oAZ4KePlCQrdUKddn4) | 2:22 | 2021-12-18 | 2022-07-08 |
 | [MBTI \(Feat\. Coogie & Loco\) \(Prod\. GRAY\)](https://open.spotify.com/track/3sMyDgDEGNCAOIvlEs6PR7) | [BE'O](https://open.spotify.com/artist/5NUVwRESNqYBUTRbiATjy7), [Coogie](https://open.spotify.com/artist/0IznZPMUyaPGdqfP4oqBja), [Loco](https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm) | [Show Me The Money 10 Semi Final](https://open.spotify.com/album/5SARHTEl2iHAjVl93WHiyP) | 4:08 | 2021-12-18 | 2022-07-08 |
 | [MEDITATE](https://open.spotify.com/track/4OSPJRqokOSd7ojsljAcSm) | [Dok2](https://open.spotify.com/artist/0rW6fVd3yuW2CF2sLYWQtE) | [MEDITATE](https://open.spotify.com/album/3cwqWcIEMYLEuIpFWXbuVI) | 3:23 | 2023-01-03 | 2023-01-11 |

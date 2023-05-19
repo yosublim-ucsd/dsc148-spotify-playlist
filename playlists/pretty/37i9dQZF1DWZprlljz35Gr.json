@@ -1,12 +1,12 @@
 {
   "description": "Bluesy blips and blops",
-  "num_followers": 7474,
+  "num_followers": 7486,
   "original_name": "Bluestronica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxNzcyYmZhMGM5MjI3Mjc3YmUzZWIxMDk3NGM1ZjE4ZjEyZTQ2YzJh",
+  "snapshot_id": "MCwwNmE0MDEyYWJmOTU4MGY0ZDY0NDg0MmQ2MTI4OWNmZTljYzMxYzgw",
   "tracks": [
     {
       "added_at": "2023-03-17 04:01:00",
@@ -95,22 +95,6 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "Wolves",
-        "url": "https://open.spotify.com/album/5fOk8YTHdcZrHOhcw4Do5i"
-      },
-      "artists": [
-        {
-          "name": "Rag'n'Bone Man",
-          "url": "https://open.spotify.com/artist/4f9iBmdUOhQWeP7dcAn1pf"
-        }
-      ],
-      "duration_ms": 213933,
-      "name": "Guilty",
-      "url": "https://open.spotify.com/track/4KSljblpjITY4IsjkKSqK4"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
         "name": "By Any Beats Necessary",
         "url": "https://open.spotify.com/album/1uLnDDuuVBe4IF83db23Ab"
       },
@@ -127,6 +111,22 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
+        "name": "Wolves",
+        "url": "https://open.spotify.com/album/5fOk8YTHdcZrHOhcw4Do5i"
+      },
+      "artists": [
+        {
+          "name": "Rag'n'Bone Man",
+          "url": "https://open.spotify.com/artist/4f9iBmdUOhQWeP7dcAn1pf"
+        }
+      ],
+      "duration_ms": 213933,
+      "name": "Guilty",
+      "url": "https://open.spotify.com/track/4KSljblpjITY4IsjkKSqK4"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
         "name": "Come on In",
         "url": "https://open.spotify.com/album/6QyepVbPWpjsQZAEgqmDsJ"
       },
@@ -139,6 +139,22 @@
       "duration_ms": 298000,
       "name": "It's Bad You Know",
       "url": "https://open.spotify.com/track/1AcvqJhm4CXOFJ7INbR5rR"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
+        "name": "Collide",
+        "url": "https://open.spotify.com/album/5UPjxVI1xabSZjcRXEpl52"
+      },
+      "artists": [
+        {
+          "name": "Beats Antique",
+          "url": "https://open.spotify.com/artist/30DZgkaEYdezg2QMrMgrnm"
+        }
+      ],
+      "duration_ms": 225000,
+      "name": "Beauty Beats",
+      "url": "https://open.spotify.com/track/0Jk5J9HrDmCEKV7xYmaB6m"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -163,22 +179,6 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "Collide",
-        "url": "https://open.spotify.com/album/5UPjxVI1xabSZjcRXEpl52"
-      },
-      "artists": [
-        {
-          "name": "Beats Antique",
-          "url": "https://open.spotify.com/artist/30DZgkaEYdezg2QMrMgrnm"
-        }
-      ],
-      "duration_ms": 225000,
-      "name": "Beauty Beats",
-      "url": "https://open.spotify.com/track/0Jk5J9HrDmCEKV7xYmaB6m"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
         "name": "Funk from the Trunk",
         "url": "https://open.spotify.com/album/3HA988sMUDSHmW0i7L5Wzl"
       },
@@ -191,6 +191,22 @@
       "duration_ms": 203456,
       "name": "A Blues Thang",
       "url": "https://open.spotify.com/track/1xuBWp4HuSE6Yast5lmVPv"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
+        "name": "Human (Deluxe)",
+        "url": "https://open.spotify.com/album/1rMmiDKa8V5H9yYTPAbLng"
+      },
+      "artists": [
+        {
+          "name": "Rag'n'Bone Man",
+          "url": "https://open.spotify.com/artist/4f9iBmdUOhQWeP7dcAn1pf"
+        }
+      ],
+      "duration_ms": 175653,
+      "name": "Wolves",
+      "url": "https://open.spotify.com/track/2oLo4vGUIP3eJ9T001keTu"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -263,22 +279,6 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "Human (Deluxe)",
-        "url": "https://open.spotify.com/album/1rMmiDKa8V5H9yYTPAbLng"
-      },
-      "artists": [
-        {
-          "name": "Rag'n'Bone Man",
-          "url": "https://open.spotify.com/artist/4f9iBmdUOhQWeP7dcAn1pf"
-        }
-      ],
-      "duration_ms": 175653,
-      "name": "Wolves",
-      "url": "https://open.spotify.com/track/2oLo4vGUIP3eJ9T001keTu"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
         "name": "Moonshine Crossroads",
         "url": "https://open.spotify.com/album/3XRHSUCqQBeIncHpIecSQG"
       },
@@ -337,6 +337,22 @@
       "url": "https://open.spotify.com/track/3xQSVngL4OJu5RXAchFQPm"
     },
     {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
+        "name": "Human (Deluxe)",
+        "url": "https://open.spotify.com/album/1rMmiDKa8V5H9yYTPAbLng"
+      },
+      "artists": [
+        {
+          "name": "Rag'n'Bone Man",
+          "url": "https://open.spotify.com/artist/4f9iBmdUOhQWeP7dcAn1pf"
+        }
+      ],
+      "duration_ms": 222000,
+      "name": "The Fire",
+      "url": "https://open.spotify.com/track/5Opv3rAPRL93wJ9yXGJPiM"
+    },
+    {
       "added_at": "2022-02-18 05:02:00",
       "album": {
         "name": "I'm Back With Trouble",
@@ -371,18 +387,18 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "Human (Deluxe)",
-        "url": "https://open.spotify.com/album/1rMmiDKa8V5H9yYTPAbLng"
+        "name": "A Bothered Mind",
+        "url": "https://open.spotify.com/album/19ox7nB02O5mCJtjqzoqGm"
       },
       "artists": [
         {
-          "name": "Rag'n'Bone Man",
-          "url": "https://open.spotify.com/artist/4f9iBmdUOhQWeP7dcAn1pf"
+          "name": "R.L. Burnside",
+          "url": "https://open.spotify.com/artist/2drMeidRg4jc07neGOL0Ip"
         }
       ],
-      "duration_ms": 222000,
-      "name": "The Fire",
-      "url": "https://open.spotify.com/track/5Opv3rAPRL93wJ9yXGJPiM"
+      "duration_ms": 209640,
+      "name": "Shake 'Em on Down",
+      "url": "https://open.spotify.com/track/1yxCax1l0O8p3lik3WvamC"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -403,22 +419,6 @@
       "duration_ms": 255616,
       "name": "Stand Together - Original Mix",
       "url": "https://open.spotify.com/track/2C2G0ZtrQhBa9X6XcbWRH4"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
-        "name": "A Bothered Mind",
-        "url": "https://open.spotify.com/album/19ox7nB02O5mCJtjqzoqGm"
-      },
-      "artists": [
-        {
-          "name": "R.L. Burnside",
-          "url": "https://open.spotify.com/artist/2drMeidRg4jc07neGOL0Ip"
-        }
-      ],
-      "duration_ms": 209640,
-      "name": "Shake 'Em on Down",
-      "url": "https://open.spotify.com/track/1yxCax1l0O8p3lik3WvamC"
     },
     {
       "added_at": "2023-01-20 05:01:00",
@@ -471,22 +471,18 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "Stick Em Up",
-        "url": "https://open.spotify.com/album/04MfaVUENsXSnNaY99YYCk"
+        "name": "Come on In",
+        "url": "https://open.spotify.com/album/6QyepVbPWpjsQZAEgqmDsJ"
       },
       "artists": [
         {
-          "name": "Charlie Beale",
-          "url": "https://open.spotify.com/artist/5BO1F2wBHUCoX02ZdPP23o"
-        },
-        {
-          "name": "Grid Division",
-          "url": "https://open.spotify.com/artist/31FlFpZXSwN205IxaKG6nt"
+          "name": "R.L. Burnside",
+          "url": "https://open.spotify.com/artist/2drMeidRg4jc07neGOL0Ip"
         }
       ],
-      "duration_ms": 236288,
-      "name": "Stick Em Up",
-      "url": "https://open.spotify.com/track/2s9BHqNHVkbhYCbE5tAMre"
+      "duration_ms": 268226,
+      "name": "Shuck Dub",
+      "url": "https://open.spotify.com/track/7lNr4eqSP7MCUCbDUGHWRo"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -503,6 +499,26 @@
       "duration_ms": 224510,
       "name": "Sunroof Diesel Blues",
       "url": "https://open.spotify.com/track/2dymAGQ2kTrnNDbL2xcvDr"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
+        "name": "Stick Em Up",
+        "url": "https://open.spotify.com/album/04MfaVUENsXSnNaY99YYCk"
+      },
+      "artists": [
+        {
+          "name": "Charlie Beale",
+          "url": "https://open.spotify.com/artist/5BO1F2wBHUCoX02ZdPP23o"
+        },
+        {
+          "name": "Grid Division",
+          "url": "https://open.spotify.com/artist/31FlFpZXSwN205IxaKG6nt"
+        }
+      ],
+      "duration_ms": 236288,
+      "name": "Stick Em Up",
+      "url": "https://open.spotify.com/track/2s9BHqNHVkbhYCbE5tAMre"
     },
     {
       "added_at": "2022-06-17 04:02:00",
@@ -523,22 +539,6 @@
       "duration_ms": 225609,
       "name": "The Edge",
       "url": "https://open.spotify.com/track/3LeZw3OUMipFN0x2jR6MjQ"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
-        "name": "Come on In",
-        "url": "https://open.spotify.com/album/6QyepVbPWpjsQZAEgqmDsJ"
-      },
-      "artists": [
-        {
-          "name": "R.L. Burnside",
-          "url": "https://open.spotify.com/artist/2drMeidRg4jc07neGOL0Ip"
-        }
-      ],
-      "duration_ms": 268226,
-      "name": "Shuck Dub",
-      "url": "https://open.spotify.com/track/7lNr4eqSP7MCUCbDUGHWRo"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -587,6 +587,22 @@
       "duration_ms": 398110,
       "name": "Electrified",
       "url": "https://open.spotify.com/track/3LAyeN6fnP8Hxd9uNszLsp"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
+        "name": "Come on In",
+        "url": "https://open.spotify.com/album/6QyepVbPWpjsQZAEgqmDsJ"
+      },
+      "artists": [
+        {
+          "name": "R.L. Burnside",
+          "url": "https://open.spotify.com/artist/2drMeidRg4jc07neGOL0Ip"
+        }
+      ],
+      "duration_ms": 178800,
+      "name": "Please Don't Stay",
+      "url": "https://open.spotify.com/track/5QCKfr2ckdL5kf9wCQtzUu"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -659,22 +675,6 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "Precious Time",
-        "url": "https://open.spotify.com/album/2jmrU6wflfVSJwZGI3Z8H8"
-      },
-      "artists": [
-        {
-          "name": "Euphoria",
-          "url": "https://open.spotify.com/artist/0v6ZsvpqHQJiB6Kz2J0QGZ"
-        }
-      ],
-      "duration_ms": 319253,
-      "name": "Back Against The Wall",
-      "url": "https://open.spotify.com/track/25ddyTkfz4p7Bvprc66ZyV"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
         "name": "Who Else!",
         "url": "https://open.spotify.com/album/0RkgsbkvvlIsCaoRZK40Dm"
       },
@@ -691,18 +691,18 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "Come on In",
-        "url": "https://open.spotify.com/album/6QyepVbPWpjsQZAEgqmDsJ"
+        "name": "Precious Time",
+        "url": "https://open.spotify.com/album/2jmrU6wflfVSJwZGI3Z8H8"
       },
       "artists": [
         {
-          "name": "R.L. Burnside",
-          "url": "https://open.spotify.com/artist/2drMeidRg4jc07neGOL0Ip"
+          "name": "Euphoria",
+          "url": "https://open.spotify.com/artist/0v6ZsvpqHQJiB6Kz2J0QGZ"
         }
       ],
-      "duration_ms": 178800,
-      "name": "Please Don't Stay",
-      "url": "https://open.spotify.com/track/5QCKfr2ckdL5kf9wCQtzUu"
+      "duration_ms": 319253,
+      "name": "Back Against The Wall",
+      "url": "https://open.spotify.com/track/25ddyTkfz4p7Bvprc66ZyV"
     },
     {
       "added_at": "2020-12-01 05:01:00",

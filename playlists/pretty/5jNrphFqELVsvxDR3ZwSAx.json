@@ -1,12 +1,12 @@
 {
   "description": "A rock playlist filled with the biggest classic rock anthems from The Beatles, Queen and more!",
-  "num_followers": 61035,
+  "num_followers": 61034,
   "original_name": "Rock Icons",
   "owner": {
     "name": "Digster",
     "url": "https://open.spotify.com/user/digster.fm"
   },
-  "snapshot_id": "MTgxMywwYWVmYzY5OTU5MTFmZWJjM2Y2YjhkMjI3ODhkNjBlNjE2M2NmZGY4",
+  "snapshot_id": "MTgxNCxhYWUzYTc5MzQ2MjZlODkwMGU2NWNkNDY3NDUwZjM1YTk2ZDZkOWVh",
   "tracks": [
     {
       "added_at": "2022-06-10 15:14:29",
@@ -745,6 +745,22 @@
       "url": "https://open.spotify.com/track/6CKoWCWAqEVWVjpeoJXyNH"
     },
     {
+      "added_at": "2023-05-18 15:05:52",
+      "album": {
+        "name": "Dreamboat Annie",
+        "url": "https://open.spotify.com/album/2N0AgtWbCmVoNUl2GN1opH"
+      },
+      "artists": [
+        {
+          "name": "Heart",
+          "url": "https://open.spotify.com/artist/34jw2BbxjoYalTp8cJFCPv"
+        }
+      ],
+      "duration_ms": 293440,
+      "name": "Crazy On You",
+      "url": "https://open.spotify.com/track/5zH710lFSLtkHbMkslLDjR"
+    },
+    {
       "added_at": "2022-10-20 02:43:11",
       "album": {
         "name": "Face It Alone",
@@ -921,7 +937,7 @@
         }
       ],
       "duration_ms": 295520,
-      "name": "With Or Without You - Remastered",
+      "name": "With Or Without You - Remastered 2007",
       "url": "https://open.spotify.com/track/5JGEAz15LkPoOtFHttDtVs"
     },
     {

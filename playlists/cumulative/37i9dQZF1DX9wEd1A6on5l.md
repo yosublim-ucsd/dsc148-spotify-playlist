@@ -4,7 +4,7 @@
 
 > Get the party started with these Naija bangers!
 
-217 songs - 10 hr 40 min
+218 songs - 10 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -138,7 +138,7 @@
 | [Loaded](https://open.spotify.com/track/3J5IO8OLj05dRaZjHBHS8D) | [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc), [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [Loaded](https://open.spotify.com/album/1bz4MGZBxnYFjmCXf9lm0g) | 2:35 | 2022-11-15 |  |
 | [Loading \(feat\. Bad Boy Timz\)](https://open.spotify.com/track/558ULLj8yY2vT8XGtgY0q9) | [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr), [Bad Boy Timz](https://open.spotify.com/artist/68R39izwNAztATrXMOqkJS) | [Carpe Diem](https://open.spotify.com/album/6fG2eFCgUmytQWL6umtsCh) | 3:14 | 2022-06-09 | 2022-12-09 |
 | [Lock Up](https://open.spotify.com/track/22sKJ38aklXtEzQtnDDluQ) | [Nonso Amadi](https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV), [Zinoleesky](https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g) | [Lock Up](https://open.spotify.com/album/20dg4gZdSpAzILbzaE2TOz) | 3:43 | 2023-03-30 | 2023-04-21 |
-| [Loving You](https://open.spotify.com/track/6othjWxN6khdhiLu9GdOtj) | [Zinoleesky](https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g) | [Loving You](https://open.spotify.com/album/4w6eohs63XTqvHZ9iMZB5Z) | 2:05 | 2022-06-09 |  |
+| [Loving You](https://open.spotify.com/track/6othjWxN6khdhiLu9GdOtj) | [Zinoleesky](https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g) | [Loving You](https://open.spotify.com/album/4w6eohs63XTqvHZ9iMZB5Z) | 2:05 | 2022-06-09 | 2023-05-19 |
 | [Loyalty](https://open.spotify.com/track/2oOr7XZmuqYTdmCnC5qQsC) | [Ajebo Hustlers](https://open.spotify.com/artist/7oVwzvvrXEC8LbXhaNjTi4) | [Loyalty](https://open.spotify.com/album/1xaW0G0ccKSbUuHfYGVhbL) | 2:47 | 2022-06-09 | 2023-02-07 |
 | [Machala](https://open.spotify.com/track/7EG6jjb43ggH49wY5AlKYR) | [Carterefe](https://open.spotify.com/artist/5N9rf2O5ASaO5oiVh5is5n), [Berri\-Tiga](https://open.spotify.com/artist/3nJNGB59VvFcIeDHkGZnPB) | [Machala](https://open.spotify.com/album/6YUssf4d3nQuCcQVRwRwqr) | 2:34 | 2022-08-08 | 2023-03-13 |
 | [Majo \(feat\. Wizkid, Alpha P & Tay Iwar\)](https://open.spotify.com/track/0KLY7SCQuVA4Hk1nzk61p4) | [DJ Tunez](https://open.spotify.com/artist/64oW4P0vsDhlorOxZKQi6a), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Alpha P](https://open.spotify.com/artist/3dUPwMGYAsymFv80wkqEKl), [Tay Iwar](https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo) | [Majo \(feat\. Wizkid, Alpha P & Tay Iwar\)](https://open.spotify.com/album/3Rz3SAnhOnXaf2llHOBDCo) | 2:33 | 2022-08-25 | 2023-03-18 |
@@ -147,6 +147,7 @@
 | [More Of You](https://open.spotify.com/track/0bVugkWRfHhHLPfFFVkHpL) | [Stonebwoy](https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq) | [More Of You](https://open.spotify.com/album/4TLRQqrw55Rq7SFoA3OHic) | 3:00 | 2023-02-03 | 2023-02-24 |
 | [MOTO](https://open.spotify.com/track/1b83195i03SMUa1VWto8Z5) | [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL) | [MOTO](https://open.spotify.com/album/3MXt0hRNSIulLZy7x1XpAg) | 2:58 | 2023-02-03 | 2023-05-08 |
 | [Mufasa](https://open.spotify.com/track/3PG45NefxQe8S5gkuJaFd7) | [Tekno](https://open.spotify.com/artist/6IhG3Yxm3UW98jhyBvrIut) | [Mufasa](https://open.spotify.com/album/2PrGC125kFE5S5zFq5ropO) | 2:51 | 2022-06-09 | 2022-12-26 |
+| [No Days Off](https://open.spotify.com/track/3zlSLyucr1QS2XPfRnPdcy) | [Teni](https://open.spotify.com/artist/3ukrG1BmfEiuo0KDj8YTTS) | [No Days Off](https://open.spotify.com/album/4xyQuZ8oTJ7ZhdiWBwtVnS) | 3:15 | 2023-05-11 |  |
 | [No Wahala](https://open.spotify.com/track/1z3Lac4bdl57XLcu35ma1M) | [1da Banton](https://open.spotify.com/artist/6dlzQ6fiPna40trq1Ek6cb) | [No Wahala](https://open.spotify.com/album/0iBUE2UCUr4RLMhOzOLaUY) | 2:42 | 2022-06-09 | 2022-12-09 |
 | [NSV](https://open.spotify.com/track/7sIUw9iU1eVB0qq3wFrwBb) | [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM), [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc) | [NSV](https://open.spotify.com/album/1gwsiUC5ZULw2kvzFOGYYB) | 3:08 | 2023-05-11 |  |
 | [Nyash \(Current & Savings\)](https://open.spotify.com/track/3RcPuhrAyFTvJSKfVdbM5p) | [NSG](https://open.spotify.com/artist/31Ua7zSTJxegjyd49ujbSA), [Giggs](https://open.spotify.com/artist/3S0tlB4fE7ChxI2pWz8Xip) | [Nyash \(Current & Savings\)](https://open.spotify.com/album/0YZfUfdOUTJQHburi0BM5B) | 3:34 | 2022-10-13 | 2022-12-09 |

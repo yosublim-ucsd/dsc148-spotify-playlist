@@ -176,7 +176,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 190560,
       "name": "777",
       "url": "https://open.spotify.com/track/0ZSRoCgADCVBSAy2tjLnvG"
@@ -220,7 +220,7 @@
       ],
       "date_added": "2023-05-11",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-14",
+      "date_removed": null,
       "duration_ms": 156534,
       "name": "Acabar Na Cama",
       "url": "https://open.spotify.com/track/7Hs0xKJfXVzTx2stJWSBso"
@@ -622,7 +622,7 @@
       ],
       "date_added": "2023-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 198832,
       "name": "aventura",
       "url": "https://open.spotify.com/track/1vfTcheHkwGSSbNQjiaom8"
@@ -1530,7 +1530,7 @@
       ],
       "date_added": "2023-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 253150,
       "name": "de longe",
       "url": "https://open.spotify.com/track/64Dw1NR6wGTJHMIdWyZUz9"
@@ -2256,7 +2256,7 @@
       ],
       "date_added": "2023-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 188194,
       "name": "Filtros",
       "url": "https://open.spotify.com/track/1FDIrQqgzUyG0sc6kYusDI"
@@ -4684,7 +4684,7 @@
       ],
       "date_added": "2023-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 193269,
       "name": "Roll Another One",
       "url": "https://open.spotify.com/track/0WtWIiMHgYKCX11kOwX6my"
@@ -5128,7 +5128,7 @@
       ],
       "date_added": "2023-05-11",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-17",
+      "date_removed": null,
       "duration_ms": 246000,
       "name": "Sinergy",
       "url": "https://open.spotify.com/track/6psG1I3i4mW8Fe97svskoK"
@@ -5406,6 +5406,24 @@
       "duration_ms": 150803,
       "name": "Teia",
       "url": "https://open.spotify.com/track/0WO2C0embY06EtHVysWPnd"
+    },
+    {
+      "album": {
+        "name": "Tempo",
+        "url": "https://open.spotify.com/album/1jj39TNoO0el3RWJHauVg9"
+      },
+      "artists": [
+        {
+          "name": "Afonso",
+          "url": "https://open.spotify.com/artist/19ZWrFOuK5OEk7SaALa6fr"
+        }
+      ],
+      "date_added": "2023-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183321,
+      "name": "Tempo",
+      "url": "https://open.spotify.com/track/6FLLyTSefYwiSshGlofEsM"
     },
     {
       "album": {
@@ -6027,6 +6045,24 @@
     },
     {
       "album": {
+        "name": "Yah!",
+        "url": "https://open.spotify.com/album/1EBjP3zq575YxmWdP8NtJR"
+      },
+      "artists": [
+        {
+          "name": "JNY",
+          "url": "https://open.spotify.com/artist/2JW7JPlsb29nRKl5yEVNru"
+        }
+      ],
+      "date_added": "2023-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168000,
+      "name": "Yah!",
+      "url": "https://open.spotify.com/track/1Kvz7W6IZop2tbX81Q6Q33"
+    },
+    {
+      "album": {
         "name": "Cupid",
         "url": "https://open.spotify.com/album/6TiiajhnvtKkjXVhxWkPz1"
       },
@@ -6042,6 +6078,24 @@
       "duration_ms": 171665,
       "name": "You",
       "url": "https://open.spotify.com/track/6w2RZjWpz1sXqRPuX92izA"
+    },
+    {
+      "album": {
+        "name": "\u00c1gua",
+        "url": "https://open.spotify.com/album/6iuDbW62zv4KWGVYp9IBDc"
+      },
+      "artists": [
+        {
+          "name": "Mariana Norton",
+          "url": "https://open.spotify.com/artist/7BSpO7wslykpYhNpwRbDTV"
+        }
+      ],
+      "date_added": "2023-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207593,
+      "name": "\u00c1gua",
+      "url": "https://open.spotify.com/track/3kvG5Ykd722HWn6YzM4NFl"
     },
     {
       "album": {

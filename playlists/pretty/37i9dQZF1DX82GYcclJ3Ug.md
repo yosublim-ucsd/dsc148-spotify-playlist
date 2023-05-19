@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82GYcclJ3Ug.md) - [plain]
 
 > No rules\. No boundaries\. Cover: little image
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,124,071 likes - 125 songs - 6 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,124,096 likes - 125 songs - 6 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82GYcclJ3Ug.md) - [plain]
 | 124 | [Momentary Sweetheart](https://open.spotify.com/track/5GKs69j8y4MajGkizLNFCK) | [Deb Never](https://open.spotify.com/artist/55EarwWraRQY9diMo9Oeul) | [Momentary Sweetheart](https://open.spotify.com/album/2YIWehCNIisLAgGJ9i4M6W) | 3:02 |
 | 125 | [Don't Be Another](https://open.spotify.com/track/3qaqxocTgqVSMT9GE82sbg) | [Skinny Pelembe](https://open.spotify.com/artist/1ZxriNuHn6Upjf3U97nnUN) | [Don't Be Another](https://open.spotify.com/album/1CLxNR4c7WeJ6c6gwjkPGl) | 3:39 |
 
-Snapshot ID: `MCxmMWM1NjdhNzYyNjNmNTM0OTgwNGEzZGQ4M2E1ZDA5NDhhNWJjYzM1`
+Snapshot ID: `MCwyMWQ4Zjc2NTE0M2MxNGZlOGFlYTRiMTY4MzNiYTc4MTA0ZjE2MTRh`

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-12-10",
-  "description": "Today's biggest Dance hits! Cover: Flume",
+  "description": "Today's biggest Dance hits! Cover: Jazzy",
   "name": "Dance Generation",
   "tracks": [
     {
@@ -46,7 +46,7 @@
       ],
       "date_added": "2023-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 170602,
       "name": "10 Out Of 10 (feat. Kylie Minogue)",
       "url": "https://open.spotify.com/track/11TSwkrxQ7HEOhM8nvzhpj"
@@ -72,6 +72,28 @@
       "duration_ms": 172252,
       "name": "10:35",
       "url": "https://open.spotify.com/track/6BePGk3eCan4FqaW2X8Qy3"
+    },
+    {
+      "album": {
+        "name": "1x1",
+        "url": "https://open.spotify.com/album/6JTEvvAjCkAMPlFuuTMIbv"
+      },
+      "artists": [
+        {
+          "name": "Ninajirachi",
+          "url": "https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR"
+        },
+        {
+          "name": "Ravenna Golden",
+          "url": "https://open.spotify.com/artist/27Od4Wz93nItXglC5t5GuC"
+        }
+      ],
+      "date_added": "2023-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204217,
+      "name": "1x1",
+      "url": "https://open.spotify.com/track/3sL923OLO2SfZWwz6Eu59M"
     },
     {
       "album": {
@@ -222,10 +244,28 @@
       ],
       "date_added": "2023-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 165557,
       "name": "All Eyez On Me - Gangsta Remix",
       "url": "https://open.spotify.com/track/6hfogGuqhfOcq11ZDjXluc"
+    },
+    {
+      "album": {
+        "name": "All eyes on me (Remix)",
+        "url": "https://open.spotify.com/album/743AeaNiHAh0tvr0zAyL2Y"
+      },
+      "artists": [
+        {
+          "name": "mikeeysmind",
+          "url": "https://open.spotify.com/artist/0g0ZYLiNYI4kMg8MX76bkN"
+        }
+      ],
+      "date_added": "2023-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165535,
+      "name": "All Eyez on Me - Remix",
+      "url": "https://open.spotify.com/track/0W9twDubLh2GEmhyvjddeJ"
     },
     {
       "album": {
@@ -284,6 +324,32 @@
       "duration_ms": 147973,
       "name": "All Or Nothing",
       "url": "https://open.spotify.com/track/2AcKLW30dJ03qXsGU3RehH"
+    },
+    {
+      "album": {
+        "name": "All You Need Is Love",
+        "url": "https://open.spotify.com/album/6LoQoWCm9bF4dSQI2ZWtXe"
+      },
+      "artists": [
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        },
+        {
+          "name": "Jonas Blue",
+          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
+        },
+        {
+          "name": "Nico Santos",
+          "url": "https://open.spotify.com/artist/3A9B6c1CrSPauiOblw7pWz"
+        }
+      ],
+      "date_added": "2023-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139927,
+      "name": "All You Need Is Love",
+      "url": "https://open.spotify.com/track/5yPEJ4UF90Km4KmLl2h4EE"
     },
     {
       "album": {
@@ -994,10 +1060,32 @@
       ],
       "date_added": "2023-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 193737,
       "name": "Coffee",
       "url": "https://open.spotify.com/track/7uS0B4O1PDYQhZJQIuFjtR"
+    },
+    {
+      "album": {
+        "name": "Cold Touch",
+        "url": "https://open.spotify.com/album/2Y01Vf7C32AQw4ki2moXGj"
+      },
+      "artists": [
+        {
+          "name": "Kito",
+          "url": "https://open.spotify.com/artist/3FLUBwpAnaIlIKeaBfsxFe"
+        },
+        {
+          "name": "GrimesAI",
+          "url": "https://open.spotify.com/artist/7qiNgbnabvfRbA9lomTgEk"
+        }
+      ],
+      "date_added": "2023-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130560,
+      "name": "Cold Touch",
+      "url": "https://open.spotify.com/track/7mGSXZwI5LlTqGARZH7JiM"
     },
     {
       "album": {
@@ -1048,7 +1136,7 @@
       ],
       "date_added": "2023-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 186046,
       "name": "COULD BE WRONG",
       "url": "https://open.spotify.com/track/5zuex7tbGFz0gSHlrMvQdu"
@@ -1719,6 +1807,28 @@
     },
     {
       "album": {
+        "name": "Feel Your Ghost",
+        "url": "https://open.spotify.com/album/1CTxgZIYbDoSltqjBmwxyK"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        },
+        {
+          "name": "Mathame",
+          "url": "https://open.spotify.com/artist/6QSwQEz8CDMg8Rqk8dEkxS"
+        }
+      ],
+      "date_added": "2023-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205259,
+      "name": "Feel Your Ghost",
+      "url": "https://open.spotify.com/track/64HfvrHpMhaPArBsmo5QTf"
+    },
+    {
+      "album": {
         "name": "Every Cloud - Silver Linings",
         "url": "https://open.spotify.com/album/6OU7EFtbj258KWnSd0SJFo"
       },
@@ -1949,6 +2059,24 @@
     },
     {
       "album": {
+        "name": "Giving Me",
+        "url": "https://open.spotify.com/album/0wTaLHasxRWB2VBwh9maAc"
+      },
+      "artists": [
+        {
+          "name": "Jazzy",
+          "url": "https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP"
+        }
+      ],
+      "date_added": "2023-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169000,
+      "name": "Giving Me",
+      "url": "https://open.spotify.com/track/1ACFweuuvf6MHtptObgreR"
+    },
+    {
+      "album": {
         "name": "Gold",
         "url": "https://open.spotify.com/album/7jchd6Tg5YkJqsAsR7hyyY"
       },
@@ -2007,6 +2135,28 @@
     },
     {
       "album": {
+        "name": "Great Southern Land",
+        "url": "https://open.spotify.com/album/26XLm5ta9PDZn7uVTdt1M6"
+      },
+      "artists": [
+        {
+          "name": "Cassian",
+          "url": "https://open.spotify.com/artist/1ChtRJ3f4rbv4vtz87i6CD"
+        },
+        {
+          "name": "ICEHOUSE",
+          "url": "https://open.spotify.com/artist/3IUisqn0mluZR0LITs8Sqk"
+        }
+      ],
+      "date_added": "2023-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255483,
+      "name": "Great Southern Land",
+      "url": "https://open.spotify.com/track/0EbjpQWNL0jFgepyWb9OKf"
+    },
+    {
+      "album": {
         "name": "gutter",
         "url": "https://open.spotify.com/album/6UfMbZBQRVRROHUXuXMkf2"
       },
@@ -2018,7 +2168,7 @@
       ],
       "date_added": "2023-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 127180,
       "name": "gutter",
       "url": "https://open.spotify.com/track/1Th5zTsBnM0cudrHfvE8Qt"
@@ -3157,6 +3307,24 @@
     },
     {
       "album": {
+        "name": "Padam Padam",
+        "url": "https://open.spotify.com/album/7vH3G0c3n1WsgTJHBmZxdV"
+      },
+      "artists": [
+        {
+          "name": "Kylie Minogue",
+          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
+        }
+      ],
+      "date_added": "2023-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166266,
+      "name": "Padam Padam",
+      "url": "https://open.spotify.com/track/3k0DJq2HdWJqnqor8NX0ac"
+    },
+    {
+      "album": {
         "name": "Pegasus",
         "url": "https://open.spotify.com/album/1FxJT4dFth8T9Z1TfNxM5e"
       },
@@ -3348,7 +3516,7 @@
       ],
       "date_added": "2023-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 181459,
       "name": "Quiver",
       "url": "https://open.spotify.com/track/59AhbmCmtzcGVEYuzNXFIx"
@@ -3852,7 +4020,7 @@
       ],
       "date_added": "2023-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 122578,
       "name": "Shockwave (with Afrojack)",
       "url": "https://open.spotify.com/track/4bOVDHj19JdKriaDQu41wD"
@@ -4057,6 +4225,32 @@
     },
     {
       "album": {
+        "name": "Stars",
+        "url": "https://open.spotify.com/album/2Ow9GPsc5afUdPrLZBT6Uo"
+      },
+      "artists": [
+        {
+          "name": "PNAU",
+          "url": "https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u"
+        },
+        {
+          "name": "Bebe Rexha",
+          "url": "https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb"
+        },
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        }
+      ],
+      "date_added": "2023-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171233,
+      "name": "Stars",
+      "url": "https://open.spotify.com/track/2fNaMBJBFpv1PQ1zXkxIcO"
+    },
+    {
+      "album": {
         "name": "Step 1 (feat. Open Till L8)",
         "url": "https://open.spotify.com/album/69uzhRvY6bEMIFl4j2SAce"
       },
@@ -4188,7 +4382,7 @@
       ],
       "date_added": "2023-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 157619,
       "name": "Sweet Goodbye",
       "url": "https://open.spotify.com/track/3s32YmunFgfXVWgLRKLdKm"
@@ -4342,7 +4536,7 @@
       ],
       "date_added": "2023-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 183925,
       "name": "The Hard Way",
       "url": "https://open.spotify.com/track/7j57nadsCph2KI9eYuaum8"
@@ -4430,7 +4624,7 @@
       ],
       "date_added": "2023-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 183895,
       "name": "Too Close",
       "url": "https://open.spotify.com/track/3HDFOE3ik1iBHCzTtNH00t"

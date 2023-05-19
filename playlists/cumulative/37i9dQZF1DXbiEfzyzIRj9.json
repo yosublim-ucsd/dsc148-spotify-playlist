@@ -1,8 +1,26 @@
 {
   "date_first_scraped": "2023-03-19",
-  "description": "\u56fd\u5185\u5916\u306e\u30aa\u30eb\u30bf\u30ca\u30c6\u30a3\u30d6\u30c0\u30f3\u30b9\u30df\u30e5\u30fc\u30b8\u30c3\u30af/ Alternative dance music from Japan and abroad. Cover: Overmono",
+  "description": "\u56fd\u5185\u5916\u306e\u30aa\u30eb\u30bf\u30ca\u30c6\u30a3\u30d6\u30c0\u30f3\u30b9\u30df\u30e5\u30fc\u30b8\u30c3\u30af/ Alternative dance music from Japan and abroad. Cover: LF SYSTEM",
   "name": "Altar JP",
   "tracks": [
+    {
+      "album": {
+        "name": "80+1 Hardy Ones",
+        "url": "https://open.spotify.com/album/6mryyljSMW08TfeSFlFbqu"
+      },
+      "artists": [
+        {
+          "name": "LAUSBUB",
+          "url": "https://open.spotify.com/artist/1nK2FcujOkjFDDAr1EMo2M"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 447333,
+      "name": "80+1 Hardy Ones",
+      "url": "https://open.spotify.com/track/257ekAZZ2dToJ4f1SGgUkX"
+    },
     {
       "album": {
         "name": "A New Light",
@@ -78,7 +96,7 @@
       ],
       "date_added": "2023-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 180026,
       "name": "all i can do is miss you",
       "url": "https://open.spotify.com/track/7j6B7MBoV6JOcWFL0VYNFT"
@@ -231,6 +249,36 @@
     },
     {
       "album": {
+        "name": "barla (SHINICHI OSAWA REMIX)",
+        "url": "https://open.spotify.com/album/0FkuCLlXRDMcC7KFbQs8O0"
+      },
+      "artists": [
+        {
+          "name": "bala",
+          "url": "https://open.spotify.com/artist/2LCojy3bUYWczKPT4tdPos"
+        },
+        {
+          "name": "Shinichi Osawa",
+          "url": "https://open.spotify.com/artist/0s9KIyjWtFcsRdKtMECxFp"
+        },
+        {
+          "name": "MANON",
+          "url": "https://open.spotify.com/artist/5RtQtz37rszKUaMg1GeUl3"
+        },
+        {
+          "name": "SUNNY ONLY 1",
+          "url": "https://open.spotify.com/artist/1PcuXbYDyLM8zEsZT1EQtc"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273410,
+      "name": "barla - SHINICHI OSAWA REMIX",
+      "url": "https://open.spotify.com/track/19LbN6WxOXuuCk1oKvA94G"
+    },
+    {
+      "album": {
         "name": "Better Love",
         "url": "https://open.spotify.com/album/0delJu1UUzdBfufg94lbME"
       },
@@ -246,6 +294,28 @@
       "duration_ms": 138080,
       "name": "Better Love",
       "url": "https://open.spotify.com/track/1UTHkifQMS6znmSx2Svobk"
+    },
+    {
+      "album": {
+        "name": "Bliss",
+        "url": "https://open.spotify.com/album/1rS8jtRpGvJtvsfBUwvOzj"
+      },
+      "artists": [
+        {
+          "name": "Fybe:One",
+          "url": "https://open.spotify.com/artist/27KCpRYUXOIJIjOSPqBTSw"
+        },
+        {
+          "name": "Liam Bailey",
+          "url": "https://open.spotify.com/artist/022EiWsch2zvty0qBUksDO"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264586,
+      "name": "Bliss",
+      "url": "https://open.spotify.com/track/44RvlfCAkKSaYI0XsxUHrU"
     },
     {
       "album": {
@@ -318,7 +388,7 @@
       ],
       "date_added": "2023-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 363050,
       "name": "Branco",
       "url": "https://open.spotify.com/track/0CYlyF6N0q57fhMnPN9wWY"
@@ -402,6 +472,24 @@
       "duration_ms": 281370,
       "name": "Calling Out",
       "url": "https://open.spotify.com/track/2dpE7B7usqDVM9By5hnHJW"
+    },
+    {
+      "album": {
+        "name": "Can U Jack? (Edit)",
+        "url": "https://open.spotify.com/album/0hjEAKO1NHSrEJoyNNiuxK"
+      },
+      "artists": [
+        {
+          "name": "Austin Ato",
+          "url": "https://open.spotify.com/artist/6sCrZwNbMhp1iahiiFQY66"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192946,
+      "name": "Can U Jack? (Edit)",
+      "url": "https://open.spotify.com/track/3ckBFEiz3jsuPoaiGzZXNZ"
     },
     {
       "album": {
@@ -530,7 +618,7 @@
       ],
       "date_added": "2023-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 419383,
       "name": "City Limits - Robert Hood Remix",
       "url": "https://open.spotify.com/track/5ZLuggSCBLcAlQZY565lLW"
@@ -610,7 +698,7 @@
       ],
       "date_added": "2023-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 217369,
       "name": "Cold Blooded",
       "url": "https://open.spotify.com/track/6ULPq2iNWiykHX1acI2SGn"
@@ -718,7 +806,7 @@
       ],
       "date_added": "2023-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 202159,
       "name": "Cry Cry Cry",
       "url": "https://open.spotify.com/track/4nIwqqLCAu19wnZuOvT0fT"
@@ -740,6 +828,24 @@
       "duration_ms": 222040,
       "name": "Dance'O'Drome",
       "url": "https://open.spotify.com/track/4TPokp2tvny5wp2oWik0Uc"
+    },
+    {
+      "album": {
+        "name": "Dancing Shoes (Take Me Higher)",
+        "url": "https://open.spotify.com/album/4HlaHUFAikPsEE3VvWIyyK"
+      },
+      "artists": [
+        {
+          "name": "LF SYSTEM",
+          "url": "https://open.spotify.com/artist/0HxX6imltnNXJyQhu4nsiO"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154831,
+      "name": "Dancing Shoes (Take Me Higher)",
+      "url": "https://open.spotify.com/track/4RAgh3iVmXwaeNpnOTkoXU"
     },
     {
       "album": {
@@ -1008,7 +1114,7 @@
       ],
       "date_added": "2023-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 216796,
       "name": "Ecstasy (Over & Over)",
       "url": "https://open.spotify.com/track/2nHBfIdQ4ndFNaWilLdBUN"
@@ -1401,6 +1507,24 @@
     },
     {
       "album": {
+        "name": "Get Flutey",
+        "url": "https://open.spotify.com/album/1NMNkeVHBhy7tSpBkmYWNy"
+      },
+      "artists": [
+        {
+          "name": "Surusinghe",
+          "url": "https://open.spotify.com/artist/7m5jnraNhVbxMZ7B8FvCSe"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234500,
+      "name": "Get Flutey",
+      "url": "https://open.spotify.com/track/1Ryer7rjuIJ8UztDyMVWLG"
+    },
+    {
+      "album": {
         "name": "Get Madd",
         "url": "https://open.spotify.com/album/2ocpD2at1knrKyxgmTSRXV"
       },
@@ -1412,7 +1536,7 @@
       ],
       "date_added": "2023-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 188307,
       "name": "Get Madd",
       "url": "https://open.spotify.com/track/6zteIhsVMvsmXZfXhIsklx"
@@ -2023,6 +2147,28 @@
     },
     {
       "album": {
+        "name": "Liver Blow Remixes Part 1",
+        "url": "https://open.spotify.com/album/6yliDhoEiP7QCY2ec07MsO"
+      },
+      "artists": [
+        {
+          "name": "Ken Ishii",
+          "url": "https://open.spotify.com/artist/0Jb1cpfG4GB6pZfroFhAw0"
+        },
+        {
+          "name": "SUDO",
+          "url": "https://open.spotify.com/artist/4bcymNfS8BzQ8XiwkdqCDb"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 370003,
+      "name": "Liver Blow - SUDO Remix",
+      "url": "https://open.spotify.com/track/0U0QgS9vkhYIrnG7iL2CsO"
+    },
+    {
+      "album": {
         "name": "Locked To Heaven",
         "url": "https://open.spotify.com/album/2oiY7AQMzAR6W6vwHS7nrp"
       },
@@ -2257,6 +2403,24 @@
     },
     {
       "album": {
+        "name": "Meant To Be",
+        "url": "https://open.spotify.com/album/1Wn3OmksyMkgzvzE7dEIhc"
+      },
+      "artists": [
+        {
+          "name": "Jayda G",
+          "url": "https://open.spotify.com/artist/3NKVm2Jedcf6ibJr6pMUVx"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224287,
+      "name": "Meant To Be",
+      "url": "https://open.spotify.com/track/4YRw7jcTBGAUHWktyn0msf"
+    },
+    {
+      "album": {
         "name": "Merchants (Sofia Kourtesis Remix)",
         "url": "https://open.spotify.com/album/33RTfD7VivJU7thDW1w9qj"
       },
@@ -2440,7 +2604,7 @@
       ],
       "date_added": "2023-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 219840,
       "name": "More Love - Edit",
       "url": "https://open.spotify.com/track/587merZ6HZx128D6URmP7h"
@@ -2866,7 +3030,7 @@
       ],
       "date_added": "2023-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 126774,
       "name": "RATATA",
       "url": "https://open.spotify.com/track/4wteGC0HtLeZWjDcczc4Pw"
@@ -2932,7 +3096,7 @@
       ],
       "date_added": "2023-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 193902,
       "name": "roll credits",
       "url": "https://open.spotify.com/track/3U8Xah4rZY2GhbSMPmVYX3"
@@ -3234,6 +3398,24 @@
       "duration_ms": 113114,
       "name": "Space Woman",
       "url": "https://open.spotify.com/track/2dSjOKbiTTUrFCTsy9PBQ5"
+    },
+    {
+      "album": {
+        "name": "FINE LINE",
+        "url": "https://open.spotify.com/album/37XJRNnSBngM8e8Ejp3oQ7"
+      },
+      "artists": [
+        {
+          "name": "\u30d1\u30bd\u30b3\u30f3\u97f3\u697d\u30af\u30e9\u30d6",
+          "url": "https://open.spotify.com/artist/5FiN9o11xTdr071qwSHyye"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176837,
+      "name": "Sport Cut",
+      "url": "https://open.spotify.com/track/29vU5LPbgEvbyooRCog9LA"
     },
     {
       "album": {
@@ -3668,6 +3850,28 @@
       "duration_ms": 464262,
       "name": "Traps",
       "url": "https://open.spotify.com/track/251gYtF1RLhOhspRtYMcCR"
+    },
+    {
+      "album": {
+        "name": "Twist It",
+        "url": "https://open.spotify.com/album/7CIab4fV9GFYnECCO4lDnU"
+      },
+      "artists": [
+        {
+          "name": "Shiba San",
+          "url": "https://open.spotify.com/artist/7Hr9bE0u9Rl5n6QahVNRnc"
+        },
+        {
+          "name": "AYAREZ",
+          "url": "https://open.spotify.com/artist/3eTTWCTlXDyGKwrGqDMsX0"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182916,
+      "name": "Twist It",
+      "url": "https://open.spotify.com/track/3KBYGZk7GjlCu96zU8DG86"
     },
     {
       "album": {

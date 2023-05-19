@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX45qfzFXwcta.md) - [plain]
 
 > Instrumental beats from \(and influenced by\) Hip\-Hop's golden era; to help you study, work and vibe.
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,748 likes - 77 songs - 4 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,885 likes - 81 songs - 4 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,13 +77,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX45qfzFXwcta.md) - [plain]
 | 67 | [Dylan](https://open.spotify.com/track/7KWsokmA24TGiU1BMAC6je) | [Esther Cyb](https://open.spotify.com/artist/5olrI9WhrPkuF9vAtbPDqX) | [Fruit Punch](https://open.spotify.com/album/2ubUUDCVnqOQmAAN89djUt) | 5:18 |
 | 68 | [Acid Raindrops \- Instrumental](https://open.spotify.com/track/13VTI8Azbyt0HW8XEMZIKY) | [People Under The Stairs](https://open.spotify.com/artist/0av074qUwLn5eyzwqoq3xh) | [Acid Raindrops](https://open.spotify.com/album/6wRasCHEWubnqxdDlUf7mo) | 4:24 |
 | 69 | [For the Future](https://open.spotify.com/track/70otjXKq2lzJbynH7W3N76) | [Marco Polo](https://open.spotify.com/artist/3FQVWA8Owd6lje2nMg1qcl) | [Port Authority: Instrumentals](https://open.spotify.com/album/1lcRcpO52ZmsfWhtn6USOx) | 3:37 |
-| 70 | [K.I.M\. \- Instrumental](https://open.spotify.com/track/4rp7XMYnpNBpLA5wO8BMEl) | [Smif\-N\-Wessun](https://open.spotify.com/artist/2p0Hf0MF8Nw8lwAXokczf0) | [Wrektime b/w K.I.M.](https://open.spotify.com/album/7GXP02tJSrhuAxAGIW4T76) | 2:59 |
-| 71 | [For Da Love Of Da Game \- Instrumental](https://open.spotify.com/track/0ZEbf11WdOyaxdR9Ja73XX) | [DJ Jazzy Jeff](https://open.spotify.com/artist/3nmiIgeri4vEY7y0VpbsCn) | [The Magnificent EP /For Da Love Of Da Game](https://open.spotify.com/album/6kNgpWi0IZuOWC7p1IzwbZ) | 5:34 |
-| 72 | [Halftime \- Instrumental](https://open.spotify.com/track/0WkpsfwbaflRTlgY7wHfAY) | [Nas](https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q) | [Halftime EP](https://open.spotify.com/album/4fxnbKn90JmmqKReeQbJRk) | 4:20 |
-| 73 | [Masta I.C\. \(Instrumental\)](https://open.spotify.com/track/3dA3Qx2nAq21Kt3UkoMMx7) | [Mic Geronimo](https://open.spotify.com/artist/3nLE33yBJ82QPWzvvqv7rE) | [Masta I.C\. \- EP](https://open.spotify.com/album/4nx15DvzObukboid8HIkHX) | 4:17 |
-| 74 | [93 'Til Infinity \- LP Instrumental](https://open.spotify.com/track/0VuzA7lyIFn1VzinsOak8J) | [Souls Of Mischief](https://open.spotify.com/artist/5Rzqmz1zAszembFHGZQuAt) | [93 'Til Infinity \(The Remixes\)](https://open.spotify.com/album/2G5p3c3YO8l63QfGKSxzBx) | 4:52 |
-| 75 | [Cognac \- Instrumental](https://open.spotify.com/track/3HkKjrNj0JjpgC1kmL7Eil) | [Monster Rally](https://open.spotify.com/artist/3DtnSKmpjFGUzZcccWfG43), [Jay Stone](https://open.spotify.com/artist/1XMoZ8AHs0TxrFiQAnOTAI) | [Foreign Pedestrians](https://open.spotify.com/album/2JDMaRvUUZ2xkm2P59ebH3) | 2:38 |
-| 76 | [Players \- Instrumental](https://open.spotify.com/track/1fCslkNebF3uAAKKDcyty9) | [Slum Village](https://open.spotify.com/artist/1020a42xVklY6c56imNcaa) | [Fantastic, Vol.2: Vinyl Instrumentals](https://open.spotify.com/album/06Ee6dveq170ls1t52Cj6s) | 3:07 |
-| 77 | [Geek Out](https://open.spotify.com/track/5pktTyYT3PBDL3sdwCBvjW) | [Gotharoo](https://open.spotify.com/artist/2HAhra1YtinE3FIIuYEDHQ) | [Geek Out](https://open.spotify.com/album/6Zue8diKIW3jX9jfP5f631) | 1:47 |
+| 70 | [The Næckbræker](https://open.spotify.com/track/4U0RGb92eZ4VEJtdBmfRXN) | [Matt Large](https://open.spotify.com/artist/107WzwlsOTR6Nxnw2kPHd3) | [To live & Die in U.A.](https://open.spotify.com/album/4ukakuZYnXtg5b8MDAn21O) | 3:10 |
+| 71 | [K.I.M\. \- Instrumental](https://open.spotify.com/track/4rp7XMYnpNBpLA5wO8BMEl) | [Smif\-N\-Wessun](https://open.spotify.com/artist/2p0Hf0MF8Nw8lwAXokczf0) | [Wrektime b/w K.I.M.](https://open.spotify.com/album/7GXP02tJSrhuAxAGIW4T76) | 2:59 |
+| 72 | [For Da Love Of Da Game \- Instrumental](https://open.spotify.com/track/0ZEbf11WdOyaxdR9Ja73XX) | [DJ Jazzy Jeff](https://open.spotify.com/artist/3nmiIgeri4vEY7y0VpbsCn) | [The Magnificent EP /For Da Love Of Da Game](https://open.spotify.com/album/6kNgpWi0IZuOWC7p1IzwbZ) | 5:34 |
+| 73 | [Cold Leftovers](https://open.spotify.com/track/4nd1Dzjir8lGYXTq5gPkgd) | [Dylan Sitts](https://open.spotify.com/artist/6quCxsPM8fOxowmqOx5j93) | [Cherry Gummy](https://open.spotify.com/album/2zgJcyGollZV9lW0fyL1sX) | 2:14 |
+| 74 | [Halftime \- Instrumental](https://open.spotify.com/track/0WkpsfwbaflRTlgY7wHfAY) | [Nas](https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q) | [Halftime EP](https://open.spotify.com/album/4fxnbKn90JmmqKReeQbJRk) | 4:20 |
+| 75 | [Masta I.C\. \(Instrumental\)](https://open.spotify.com/track/3dA3Qx2nAq21Kt3UkoMMx7) | [Mic Geronimo](https://open.spotify.com/artist/3nLE33yBJ82QPWzvvqv7rE) | [Masta I.C\. \- EP](https://open.spotify.com/album/4nx15DvzObukboid8HIkHX) | 4:17 |
+| 76 | [Soul Mates](https://open.spotify.com/track/5MnT6uiAJXOo58xdDVmbD2) | [Smoke Room Quartet](https://open.spotify.com/artist/3F3ToOCmZ54N8acZdcyziH) | [Soul Mates](https://open.spotify.com/album/22j1HNgICS8f7kN7wLB54T) | 3:21 |
+| 77 | [Shoulder to colder](https://open.spotify.com/track/1zzmBoPpnfGKSwEVFLv3c5) | [Mean Dartin](https://open.spotify.com/artist/7LhBPxzi8fMrXFWz7Ezi2m) | [Shoulder to colder](https://open.spotify.com/album/5uertrWYBsmpYV0II5hcO8) | 2:08 |
+| 78 | [93 'Til Infinity \- LP Instrumental](https://open.spotify.com/track/0VuzA7lyIFn1VzinsOak8J) | [Souls Of Mischief](https://open.spotify.com/artist/5Rzqmz1zAszembFHGZQuAt) | [93 'Til Infinity \(The Remixes\)](https://open.spotify.com/album/2G5p3c3YO8l63QfGKSxzBx) | 4:52 |
+| 79 | [Cognac \- Instrumental](https://open.spotify.com/track/3HkKjrNj0JjpgC1kmL7Eil) | [Monster Rally](https://open.spotify.com/artist/3DtnSKmpjFGUzZcccWfG43), [Jay Stone](https://open.spotify.com/artist/1XMoZ8AHs0TxrFiQAnOTAI) | [Foreign Pedestrians](https://open.spotify.com/album/2JDMaRvUUZ2xkm2P59ebH3) | 2:38 |
+| 80 | [Players \- Instrumental](https://open.spotify.com/track/1fCslkNebF3uAAKKDcyty9) | [Slum Village](https://open.spotify.com/artist/1020a42xVklY6c56imNcaa) | [Fantastic, Vol.2: Vinyl Instrumentals](https://open.spotify.com/album/06Ee6dveq170ls1t52Cj6s) | 3:07 |
+| 81 | [Geek Out](https://open.spotify.com/track/5pktTyYT3PBDL3sdwCBvjW) | [Gotharoo](https://open.spotify.com/artist/2HAhra1YtinE3FIIuYEDHQ) | [Geek Out](https://open.spotify.com/album/6Zue8diKIW3jX9jfP5f631) | 1:47 |
 
-Snapshot ID: `MCxlMzM5ZGE0ZjQ4MjdjZDBjNzA5YzYyZjRiZTc4YjMzNjdmNGRkY2Nk`
+Snapshot ID: `MCwzMDEwYTFhMDg3ZTZjNDEyOWY5OTg0YjZjZThkY2ZmOTllMmM2NmFl`

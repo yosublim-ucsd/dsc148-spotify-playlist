@@ -2309,6 +2309,24 @@
     },
     {
       "album": {
+        "name": "By Special Request",
+        "url": "https://open.spotify.com/album/5mRJwyqRM2bhb6VxiESoK0"
+      },
+      "artists": [
+        {
+          "name": "Carmen McRae",
+          "url": "https://open.spotify.com/artist/2E3nXyfocf7qfHAIFNbBuj"
+        }
+      ],
+      "date_added": "2023-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191546,
+      "name": "Something To Live For",
+      "url": "https://open.spotify.com/track/6vztWp5jzOaYM9HaCaZWvO"
+    },
+    {
+      "album": {
         "name": "Nina Simone Sings Ellington",
         "url": "https://open.spotify.com/album/4O1uLlNwEIVbwUXrpKL7rB"
       },
@@ -2320,7 +2338,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 176413,
       "name": "Something to Live For - 2004 Remaster",
       "url": "https://open.spotify.com/track/4hHQu1QzXLI185BL7GIyXH"

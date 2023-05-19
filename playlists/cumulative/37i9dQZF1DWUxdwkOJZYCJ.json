@@ -23,6 +23,24 @@
     },
     {
       "album": {
+        "name": "...Baby One More Time (Digital Deluxe Version)",
+        "url": "https://open.spotify.com/album/3WNxdumkSMGMJRhEgK80qx"
+      },
+      "artists": [
+        {
+          "name": "Britney Spears",
+          "url": "https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4"
+        }
+      ],
+      "date_added": "2023-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211066,
+      "name": "...Baby One More Time",
+      "url": "https://open.spotify.com/track/3MjUtNVVq3C8Fn0MP3zhXa"
+    },
+    {
+      "album": {
         "name": "The Best Of Crystal Waters",
         "url": "https://open.spotify.com/album/3u9FnafwttOYXAz9fznSAg"
       },
@@ -70,7 +88,7 @@
       ],
       "date_added": "2022-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 295800,
       "name": "Affirmation",
       "url": "https://open.spotify.com/track/6lWY4ji9T0tpFU2xbnRC1p"
@@ -128,6 +146,24 @@
       "duration_ms": 238160,
       "name": "All or Nothing",
       "url": "https://open.spotify.com/track/4yWeYfdw5FR0vAMjtFfddA"
+    },
+    {
+      "album": {
+        "name": "Astro Lounge",
+        "url": "https://open.spotify.com/album/2kyTLcEZe6nc1s6ve0zW9P"
+      },
+      "artists": [
+        {
+          "name": "Smash Mouth",
+          "url": "https://open.spotify.com/artist/2iEvnFsWxR0Syqu2JNopAd"
+        }
+      ],
+      "date_added": "2023-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200373,
+      "name": "All Star",
+      "url": "https://open.spotify.com/track/3cfOd4CMv2snFaKAnMdnvK"
     },
     {
       "album": {
@@ -409,6 +445,24 @@
     },
     {
       "album": {
+        "name": "Floored",
+        "url": "https://open.spotify.com/album/3jMUfZpBUTZOl91khbj4ic"
+      },
+      "artists": [
+        {
+          "name": "Sugar Ray",
+          "url": "https://open.spotify.com/artist/4uN3DsfENc7dp0OLO0FEIb"
+        }
+      ],
+      "date_added": "2023-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244640,
+      "name": "Fly",
+      "url": "https://open.spotify.com/track/3uPfVXcjnpOjyzI3jb3js4"
+    },
+    {
+      "album": {
         "name": "Funky Divas",
         "url": "https://open.spotify.com/album/7d2qNq4zap02SoWdvr0caA"
       },
@@ -424,6 +478,24 @@
       "duration_ms": 293105,
       "name": "Free Your Mind",
       "url": "https://open.spotify.com/track/2vG1yrWSMiL6egg6w4e9ma"
+    },
+    {
+      "album": {
+        "name": "Christina Aguilera (Expanded Edition)",
+        "url": "https://open.spotify.com/album/6fpPZS13ImRVpr7Tqs6yP9"
+      },
+      "artists": [
+        {
+          "name": "Christina Aguilera",
+          "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
+        }
+      ],
+      "date_added": "2023-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217573,
+      "name": "Genie In a Bottle",
+      "url": "https://open.spotify.com/track/11mwFrKvLXCbcVGNxffGyP"
     },
     {
       "album": {
@@ -680,7 +752,7 @@
       ],
       "date_added": "2021-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 170466,
       "name": "I'm Too Sexy",
       "url": "https://open.spotify.com/track/2WElktskrNJEwgpp5Vouxk"
@@ -752,7 +824,7 @@
       ],
       "date_added": "2021-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 263093,
       "name": "Joyride",
       "url": "https://open.spotify.com/track/1ILbD4eWKWvg8ub5qJyBTP"
@@ -774,7 +846,7 @@
       ],
       "date_added": "2021-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 197400,
       "name": "Keep On Movin'",
       "url": "https://open.spotify.com/track/0mrU1w2UMIZnR2I6oguwGz"
@@ -918,7 +990,7 @@
       ],
       "date_added": "2022-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 227040,
       "name": "Life Is a Flower",
       "url": "https://open.spotify.com/track/7hQgwzBCXsdIRsaFonrS3P"
@@ -1070,10 +1142,28 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 227266,
       "name": "Men In Black - From \"Men In Black\" Soundtrack",
       "url": "https://open.spotify.com/track/2FK7fxjzQEXD7Z32HSF0Hl"
+    },
+    {
+      "album": {
+        "name": "Big Willie Style",
+        "url": "https://open.spotify.com/album/2esWeP8Ln1sXA0jbDmi3Zq"
+      },
+      "artists": [
+        {
+          "name": "Will Smith",
+          "url": "https://open.spotify.com/artist/41qil2VaGbD194gaEcmmyx"
+        }
+      ],
+      "date_added": "2023-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197560,
+      "name": "Miami",
+      "url": "https://open.spotify.com/track/6e8Ou0wiqAzIpWb2eSxll8"
     },
     {
       "album": {
@@ -1095,6 +1185,24 @@
     },
     {
       "album": {
+        "name": "Middle Of Nowhere",
+        "url": "https://open.spotify.com/album/3StpQT9Qd87FSeWeQAdg1h"
+      },
+      "artists": [
+        {
+          "name": "Hanson",
+          "url": "https://open.spotify.com/artist/0SdiiPkr02EUdekHZJkt58"
+        }
+      ],
+      "date_added": "2023-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268653,
+      "name": "MMMBop",
+      "url": "https://open.spotify.com/track/0lnxrQAd9ZxbhBBe7d8FO8"
+    },
+    {
+      "album": {
         "name": "The Best Of M People",
         "url": "https://open.spotify.com/album/1AUt6QIAn6HmaNhTCmKQ1D"
       },
@@ -1113,6 +1221,24 @@
     },
     {
       "album": {
+        "name": "August And Everything After",
+        "url": "https://open.spotify.com/album/4nKfZbCALT9H9LfedtDwnZ"
+      },
+      "artists": [
+        {
+          "name": "Counting Crows",
+          "url": "https://open.spotify.com/artist/0vEsuISMWAKNctLlUAhSZC"
+        }
+      ],
+      "date_added": "2023-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272293,
+      "name": "Mr. Jones",
+      "url": "https://open.spotify.com/track/5DiXcVovI0FcY2s0icWWUu"
+    },
+    {
+      "album": {
         "name": "Nightlife: Further Listening 1996 - 2000 (2017 Remaster)",
         "url": "https://open.spotify.com/album/4XyL4Vum37Wh3vKu4DhRek"
       },
@@ -1124,7 +1250,7 @@
       ],
       "date_added": "2021-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 315280,
       "name": "New York City Boy - 2017 Remaster",
       "url": "https://open.spotify.com/track/7KeoeLwqtTIIgeHkvgxkeT"
@@ -1146,7 +1272,7 @@
       ],
       "date_added": "2021-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 258200,
       "name": "Now That We Found Love",
       "url": "https://open.spotify.com/track/1KONmY3enP3r3nIPQidWAy"
@@ -1218,7 +1344,7 @@
       ],
       "date_added": "2023-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 200000,
       "name": "Please Don't Go",
       "url": "https://open.spotify.com/track/0bwNb4KRkhzahJJMFsGoPR"
@@ -1258,6 +1384,42 @@
       "duration_ms": 247405,
       "name": "Saturday Night - Radio Mix",
       "url": "https://open.spotify.com/track/59VRFpPnC8pOhIH2WCWXF9"
+    },
+    {
+      "album": {
+        "name": "Desireless",
+        "url": "https://open.spotify.com/album/3P2WRy9eBoBbSTCZWGQOoO"
+      },
+      "artists": [
+        {
+          "name": "Eagle-Eye Cherry",
+          "url": "https://open.spotify.com/artist/3ngKsDXZAssmljeXCvEgOe"
+        }
+      ],
+      "date_added": "2023-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239226,
+      "name": "Save Tonight",
+      "url": "https://open.spotify.com/track/1t2Hq2WIBcZINOEnK6mdJG"
+    },
+    {
+      "album": {
+        "name": "The Writing's On The Wall",
+        "url": "https://open.spotify.com/album/283NWqNsCA9GwVHrJk59CG"
+      },
+      "artists": [
+        {
+          "name": "Destiny's Child",
+          "url": "https://open.spotify.com/artist/1Y8cdNmUJH7yBTd9yOvr5i"
+        }
+      ],
+      "date_added": "2023-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271333,
+      "name": "Say My Name",
+      "url": "https://open.spotify.com/track/7H6ev70Weq6DdpZyyTmUXk"
     },
     {
       "album": {
@@ -1330,6 +1492,28 @@
       "duration_ms": 241066,
       "name": "Sing Hallelujah!",
       "url": "https://open.spotify.com/track/6RQtvdmW0fnWv1VOKpgYcq"
+    },
+    {
+      "album": {
+        "name": "Supernatural (Remastered)",
+        "url": "https://open.spotify.com/album/10aiDpdFGyfCFEcqpx6XTq"
+      },
+      "artists": [
+        {
+          "name": "Santana",
+          "url": "https://open.spotify.com/artist/6GI52t8N5F02MxU0g5U69P"
+        },
+        {
+          "name": "Rob Thomas",
+          "url": "https://open.spotify.com/artist/3aBkeBhwadnWMWoVJ2CxJC"
+        }
+      ],
+      "date_added": "2023-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 294986,
+      "name": "Smooth (feat. Rob Thomas)",
+      "url": "https://open.spotify.com/track/0n2SEXB2qoRQg171q7XqeW"
     },
     {
       "album": {
@@ -1452,7 +1636,7 @@
       ],
       "date_added": "2022-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 223666,
       "name": "The One and Only",
       "url": "https://open.spotify.com/track/5o5U2r5F3ojvkhLSqRbY1Y"
@@ -1506,7 +1690,7 @@
       ],
       "date_added": "2021-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 258000,
       "name": "Things Can Only Get Better",
       "url": "https://open.spotify.com/track/5HmwYfynpGAjgrj4bp9eMy"
@@ -1662,6 +1846,24 @@
       "duration_ms": 246426,
       "name": "Waiting for Tonight",
       "url": "https://open.spotify.com/track/5yaCquc7koPqtgj7v0lwHX"
+    },
+    {
+      "album": {
+        "name": "Diva",
+        "url": "https://open.spotify.com/album/33ImEB9taJ3Tie4APfTL7B"
+      },
+      "artists": [
+        {
+          "name": "Annie Lennox",
+          "url": "https://open.spotify.com/artist/5MspMQqdVbdwP6ax3GXqum"
+        }
+      ],
+      "date_added": "2023-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253295,
+      "name": "Walking on Broken Glass",
+      "url": "https://open.spotify.com/track/4CcSw8wQAHYf4XNckayPoc"
     },
     {
       "album": {

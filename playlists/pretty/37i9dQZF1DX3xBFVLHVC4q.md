@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3xBFVLHVC4q.md) - [plain]
 
 > Music from "Love Live! Sunshine!!" /Aqoursの「みんなで叶える物語」を彩ってきた名曲の数々がここに。▶︎「Love Live！」<a href="spotify:user:spotify:playlist:37i9dQZF1DX1uvQpDoMmUF">Here</a> ©2017 プロジェクトラブライブ！サンシャイン!!
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,965 likes - 50 songs - 3 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,983 likes - 50 songs - 3 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,9 +29,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3xBFVLHVC4q.md) - [plain]
 | 19 | [コワレヤスキ](https://open.spotify.com/track/1TizL66jSoN48Hj8airJgr) | [Guilty Kiss](https://open.spotify.com/artist/7gKNDpetmXrzHZuLdo9tv8) | [コワレヤスキ](https://open.spotify.com/album/5cY6POleXeaynRty3PZjnO) | 5:02 |
 | 20 | [Over The Next Rainbow](https://open.spotify.com/track/3bSp8XRroNBn1YCy7IaHRa) | [Saint Aqours Snow](https://open.spotify.com/artist/6Nq96md0RCaaBFlK4OJ3jQ) | [Believe again/Brightest Melody/Over The Next Rainbow](https://open.spotify.com/album/7JnPOBXbxdkrgzRPQ39ZkQ) | 4:59 |
 | 21 | [Daydream Warrior](https://open.spotify.com/track/449JyzwBG4L3IVHUf9zkZs) | [Aqours](https://open.spotify.com/artist/6zxQda06WxXX8GmCeYstwV) | [ラブライブ!サンシャイン!! Aqours CHRONICLE \(2015〜2017\)](https://open.spotify.com/album/2wQqd6G4SLmevXyGwoQbuZ) | 4:35 |
-| 22 | [決めたよHand in Hand](https://open.spotify.com/track/5Tebv0qRKNlFXlxd0TiYAy) | [高海千歌 \(CV.伊波杏樹\)](https://open.spotify.com/artist/6plej5RLgqzBFny1o6uODr), [桜内梨子 \(CV.逢田梨香子\)](https://open.spotify.com/artist/0yF5feBSqKd4frxmdkft3O), [渡辺 曜 \(CV.斉藤朱夏\)](https://open.spotify.com/artist/0tfFouX7e1G86zdxkzBlRB) | [決めたよHand in Hand/ダイスキだったらダイジョウブ!](https://open.spotify.com/album/5Ssi8gxeAfX6INMNyYKIuL) | 4:26 |
+| 22 | [夜空はなんでも知ってるの?](https://open.spotify.com/track/1ORM9UcRS2m6sSCFHtGM9l) | [CYaRon!](https://open.spotify.com/artist/45hvLVhSaKsJ4YifJ69A3Z) | [元気全開DAY! DAY! DAY!](https://open.spotify.com/album/0F1JBEDt9APY8kvHvACQYt) | 4:38 |
 | 23 | [DROPOUT!?](https://open.spotify.com/track/0sBNo8ePBkb9hKV1qrSWjg) | [Saint Snow](https://open.spotify.com/artist/5bAFl5UIKoCUr4A6090lR7) | [Awaken the power](https://open.spotify.com/album/71gGcK5ykSswhjMzKRS0gf) | 3:56 |
-| 24 | [夜空はなんでも知ってるの?](https://open.spotify.com/track/1ORM9UcRS2m6sSCFHtGM9l) | [CYaRon!](https://open.spotify.com/artist/45hvLVhSaKsJ4YifJ69A3Z) | [元気全開DAY! DAY! DAY!](https://open.spotify.com/album/0F1JBEDt9APY8kvHvACQYt) | 4:38 |
+| 24 | [決めたよHand in Hand](https://open.spotify.com/track/5Tebv0qRKNlFXlxd0TiYAy) | [高海千歌 \(CV.伊波杏樹\)](https://open.spotify.com/artist/6plej5RLgqzBFny1o6uODr), [桜内梨子 \(CV.逢田梨香子\)](https://open.spotify.com/artist/0yF5feBSqKd4frxmdkft3O), [渡辺 曜 \(CV.斉藤朱夏\)](https://open.spotify.com/artist/0tfFouX7e1G86zdxkzBlRB) | [決めたよHand in Hand/ダイスキだったらダイジョウブ!](https://open.spotify.com/album/5Ssi8gxeAfX6INMNyYKIuL) | 4:26 |
 | 25 | [New Romantic Sailors](https://open.spotify.com/track/3JQFG9dQs2VGW6bJPDts3A) | [Guilty Kiss](https://open.spotify.com/artist/7gKNDpetmXrzHZuLdo9tv8) | [New Romantic Sailors](https://open.spotify.com/album/1mtGlnjCN7zDZWUP4zukwF) | 4:42 |
 | 26 | [Misty Frosty Love](https://open.spotify.com/track/3AyAdFgfT5jEHiZr45Gijq) | [桜内梨子 \(CV.逢田梨香子\)](https://open.spotify.com/artist/0yF5feBSqKd4frxmdkft3O), [渡辺 曜 \(CV.斉藤朱夏\)](https://open.spotify.com/artist/0tfFouX7e1G86zdxkzBlRB) | [デュオトリオコレクション \(VOL.2 〜WINTER VACATION〜\)](https://open.spotify.com/album/61P8OX92C18Da8G5sBSTgJ) | 4:56 |
 | 27 | [G線上のシンデレラ](https://open.spotify.com/track/1q8HSZgkbK1AAs32TjBiW6) | [松浦果南 \(CV.諏訪ななか\)](https://open.spotify.com/artist/2eVnZH9Ie92OBHLwDMoWN6), [黒澤ダイヤ \(CV.小宮有紗\)](https://open.spotify.com/artist/3fgvaQU1JQeuu63QOo62Tb), [小原鞠莉 \(CV.鈴木愛奈\)](https://open.spotify.com/artist/5AeHYcYFgZ8VHULQk0vHM2) | [ラブライブ!サンシャイン!! Aqours CHRONICLE \(2015〜2017\)](https://open.spotify.com/album/2wQqd6G4SLmevXyGwoQbuZ) | 4:16 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3xBFVLHVC4q.md) - [plain]
 | 49 | [Braveheart Coaster](https://open.spotify.com/track/3XkAIofk0JgOXrt41CV5U6) | [CYaRon!](https://open.spotify.com/artist/45hvLVhSaKsJ4YifJ69A3Z) | [Braveheart Coaster](https://open.spotify.com/album/0BMc0DzfTRnv0NqGJRUWhn) | 4:26 |
 | 50 | [空中恋愛論](https://open.spotify.com/track/7HQAR5V6SQC8SGfimUpFYD) | [AZALEA](https://open.spotify.com/artist/18QWe6vnAE1n1FnO0wAfPN) | [Amazing Travel DNA](https://open.spotify.com/album/42GXO2RpG8GXDZaWPXGBJ2) | 3:42 |
 
-Snapshot ID: `MCwxYjBmOWI3YzNhYTkyNTZjMzdiOTllNWZhYWJiYThkMWExNjc1Y2Ni`
+Snapshot ID: `MCwzNmE2MjdiYTZlNGYwYWQ4ZGY1Mjc1Njc3MTI2Y2IyYmE4Mzc1OTEy`

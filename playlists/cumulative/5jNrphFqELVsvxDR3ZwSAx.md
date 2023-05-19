@@ -4,7 +4,7 @@
 
 > A rock playlist filled with the biggest classic rock anthems from The Beatles, Queen and more!
 
-92 songs - 6 hr 28 min
+93 songs - 6 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,6 +25,7 @@
 | [Celebrity Skin](https://open.spotify.com/track/2V4Bc2I962j7acQj1N0PiQ) | [Hole](https://open.spotify.com/artist/5SHQUMAmEK5KmuSb0aDvsn) | [Celebrity Skin](https://open.spotify.com/album/2KE8WCHtD8qnAxXeIzNEId) | 2:42 | 2022-05-18 |  |
 | [Come As You Are](https://open.spotify.com/track/5r35Zd5Onw3aV3Gm9XdgtI) | [Nirvana](https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh) | [Nirvana \(International Version\)](https://open.spotify.com/album/3SBQfBKAPWvCr4qse1uNis) | 3:39 | 2022-05-18 |  |
 | [Could It Be I'm Falling In Love](https://open.spotify.com/track/3wbJz1R6UReprTcRQYzAIG) | [Paul Stanley's Soul Station](https://open.spotify.com/artist/3SSu1tFfLuAZgAvEPOyay6) | [Could It Be I’m Falling In Love / O\-O\-H Child](https://open.spotify.com/album/6U0KUhXmouVNjJxOYyO6g8) | 4:00 | 2022-05-18 |  |
+| [Crazy On You](https://open.spotify.com/track/5zH710lFSLtkHbMkslLDjR) | [Heart](https://open.spotify.com/artist/34jw2BbxjoYalTp8cJFCPv) | [Dreamboat Annie](https://open.spotify.com/album/2N0AgtWbCmVoNUl2GN1opH) | 4:53 | 2023-05-18 |  |
 | [Deutschland](https://open.spotify.com/track/2bPGTMB5sFfFYQ2YvSmup0) | [Rammstein](https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP) | [Rammstein](https://open.spotify.com/album/1LoyJQVHPLHE3fCCS8Juek) | 5:22 | 2022-05-18 |  |
 | [Dirty Work](https://open.spotify.com/track/0s1aSsYlLIEiy16LjFWbdp) | [Steely Dan](https://open.spotify.com/artist/6P7H3ai06vU1sGvdpBwDmE) | [Can't Buy A Thrill](https://open.spotify.com/album/4Gh6pRaXqXTtJx4plAJbBw) | 3:07 | 2022-05-18 |  |
 | [Do It Again](https://open.spotify.com/track/2BstRQGodshjGpeDGQiNgo) | [Steely Dan](https://open.spotify.com/artist/6P7H3ai06vU1sGvdpBwDmE) | [Can't Buy A Thrill](https://open.spotify.com/album/4Gh6pRaXqXTtJx4plAJbBw) | 5:56 | 2022-05-18 |  |
@@ -98,7 +99,7 @@
 | [What’s The Frequency, Kenneth? \- Remix](https://open.spotify.com/track/0LXoDahNUHXVx2SCTQEEhZ) | [R.E.M.](https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg) | [Revolution \(Demo\)](https://open.spotify.com/album/1LcdKQCPzQ9EwQLanqXmSd) | 3:39 | 2022-05-18 |  |
 | [Where The Streets Have No Name \- Remastered](https://open.spotify.com/track/21ex8UoVZjOw0wAXWeln5h) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [The Joshua Tree](https://open.spotify.com/album/4mULDK6YXrFXTfSwvwm4M3) | 5:36 | 2022-05-18 |  |
 | [Wicked Game](https://open.spotify.com/track/34u3Bj1KVxKWfA07yDJ2vG) | [Chris Isaak](https://open.spotify.com/artist/7290H8m1Dwt8G7jm1y9CQx) | [Heart Shaped World](https://open.spotify.com/album/7DJNtoXELIm2KIhEpZfEv0) | 4:49 | 2022-05-18 |  |
-| [With Or Without You \- Remastered](https://open.spotify.com/track/5JGEAz15LkPoOtFHttDtVs) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [The Joshua Tree](https://open.spotify.com/album/4mULDK6YXrFXTfSwvwm4M3) | 4:55 | 2022-05-18 |  |
+| [With Or Without You \- Remastered 2007](https://open.spotify.com/track/5JGEAz15LkPoOtFHttDtVs) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [The Joshua Tree](https://open.spotify.com/album/4mULDK6YXrFXTfSwvwm4M3) | 4:55 | 2022-05-18 |  |
 | [Young Boy \- 2020 Remaster](https://open.spotify.com/track/7shUC5vW0ylyULlAAD7Vka) | [Paul McCartney](https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB), [Steve Miller](https://open.spotify.com/artist/7bMi7pddqeilAI6V9LWZaW) | [Young Boy EP](https://open.spotify.com/album/1dwkCa9oiQQMJXeBwCV6TS) | 3:54 | 2022-05-18 |  |
 
 \*This playlist was first scraped on 2022-06-10. Prior content cannot be recovered.

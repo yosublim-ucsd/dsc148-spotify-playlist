@@ -808,10 +808,28 @@
       ],
       "date_added": "2023-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 167946,
       "name": "Autour de toi",
       "url": "https://open.spotify.com/track/4Hqku4GYlVDyXhpb6LnFbC"
+    },
+    {
+      "album": {
+        "name": "Autour de toi",
+        "url": "https://open.spotify.com/album/2RTmyUhJZeAC3MpHr39Iup"
+      },
+      "artists": [
+        {
+          "name": "Elia",
+          "url": "https://open.spotify.com/artist/5KbznS5SUZOb7skpdIO9J6"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168304,
+      "name": "Autour de toi",
+      "url": "https://open.spotify.com/track/5C7YiNSgYMW4taGKFyXXfp"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > V\-Pop nở hoa trên những ca khúc này\. Ảnh bìa: HIEUTHUHAI
 
-168 songs - 10 hr 52 min
+169 songs - 10 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,7 +44,7 @@
 | [Có Chơi Có Chịu](https://open.spotify.com/track/2pYFHEy0xp48Le5Bfw5vcX) | [Karik](https://open.spotify.com/artist/2Bwp23pD4UVsSkchHDZw4F), [Only C](https://open.spotify.com/artist/5GBXwBVQufRCmwI1bNRIUo) | [Có Chơi Có Chịu](https://open.spotify.com/album/4N7qnvyotrQcxAF8fKqO4e) | 3:43 | 2022-10-05 | 2022-12-19 |
 | [Có em](https://open.spotify.com/track/2Lag4WL4j3AMXzqWbEzmV6) | [Madihu](https://open.spotify.com/artist/1OIYKbmhG0RxPXvVPNj3NN), [Low G](https://open.spotify.com/artist/6TITnFVRcl0AcZ4syE7Toe) | [Có em](https://open.spotify.com/album/13En1VmJCW0kI9AMTywYQs) | 3:38 | 2022-05-27 | 2022-08-09 |
 | [Có Em \(feat\. Low G\)](https://open.spotify.com/track/6Hs2xIgB8nzyGFDvVA8lFa) | [Madihu](https://open.spotify.com/artist/1OIYKbmhG0RxPXvVPNj3NN), [Low G](https://open.spotify.com/artist/6TITnFVRcl0AcZ4syE7Toe) | [Có Em \(feat\. Low G\)](https://open.spotify.com/album/7nvdYW7qe9f1DT7pZ1EXDg) | 3:38 | 2022-08-07 |  |
-| [có hẹn với thanh xuân](https://open.spotify.com/track/0zCGKGZB5aySnQQSHWRGIT) | [MONSTAR](https://open.spotify.com/artist/2CLdtsyD2NsTOBBOVr7fi8), [GREY D](https://open.spotify.com/artist/6d0dLenjy5CnR5ZMn2agiV) | [có hẹn với thanh xuân](https://open.spotify.com/album/6nhbul7dYBCe9NS0eGwN6L) | 3:38 | 2022-05-27 |  |
+| [có hẹn với thanh xuân](https://open.spotify.com/track/0zCGKGZB5aySnQQSHWRGIT) | [MONSTAR](https://open.spotify.com/artist/2CLdtsyD2NsTOBBOVr7fi8) | [có hẹn với thanh xuân](https://open.spotify.com/album/6nhbul7dYBCe9NS0eGwN6L) | 3:38 | 2022-05-27 |  |
 | [Có Không Giữ Mất Đừng Tìm](https://open.spotify.com/track/04bm7NsIhRfTlLGDoKMEw8) | [Truc Nhan](https://open.spotify.com/artist/1dmaHHd1Xbd85cT1egYb4w) | [Có Không Giữ Mất Đừng Tìm](https://open.spotify.com/album/5f6SOjdAP8O6PPAPKwn8IX) | 3:35 | 2022-05-27 | 2022-12-19 |
 | [Có Đâu Ai Ngờ](https://open.spotify.com/track/5OE0IzdS8Bs4UaLvDoTXKD) | [Cầm](https://open.spotify.com/artist/56vNGG0GJtL6p8ltx7cLvj) | [Có Đâu Ai Ngờ](https://open.spotify.com/album/706NYXSqVRFvEn2L4GFahN) | 3:40 | 2022-10-05 |  |
 | [Cô Gái Này Là Của Ai? \(feat\. Rush & Nhi Nhi\)](https://open.spotify.com/track/5sIgSa5Q1GEGWF0lrCQ0N6) | [Krix](https://open.spotify.com/artist/0CFshi8xoCTnhggihTqoUL), [Nhi Nhi](https://open.spotify.com/artist/69WVr1fBDPGsMEMn3kbxZt), [Rush](https://open.spotify.com/artist/2Hkut4rAAyrQxRdof7FVJq) | [Cô Gái Này Là Của Ai? \(feat\. Rush & Nhi Nhi\)](https://open.spotify.com/album/2NGMT2aQkL96whD93DdNxo) | 2:46 | 2023-03-08 |  |
@@ -111,6 +111,7 @@
 | [Nàng Thơ](https://open.spotify.com/track/1w3eUC89GPspKpi62tPwjt) | [Hoàng Dũng](https://open.spotify.com/artist/6OzE2OdvV2tGAxSBsBuZ74) | [25](https://open.spotify.com/album/0v7y0tr3mKZ4kZXFVRhTMS) | 4:14 | 2022-07-27 | 2022-09-12 |
 | [Nàng Thơ](https://open.spotify.com/track/2LykruN1mQlg9nuUaE7dvQ) | [Hoàng Dũng](https://open.spotify.com/artist/6OzE2OdvV2tGAxSBsBuZ74) | [Nàng Thơ](https://open.spotify.com/album/4UjOz9fuY8XfEOyOx8aeb3) | 4:14 | 2022-05-27 | 2022-07-29 |
 | [Ném Câu Yêu Vào Không Trung](https://open.spotify.com/track/4RwQ5UUOgphhjBM8zF62RQ) | [Hoàng Dũng](https://open.spotify.com/artist/6OzE2OdvV2tGAxSBsBuZ74) | [Yên](https://open.spotify.com/album/5NGMQL0k9iQim4fcGjMnUv) | 3:56 | 2022-08-25 | 2022-09-12 |
+| [Nấu ăn cho em](https://open.spotify.com/track/7td8DTWoGC9u9db37mGHX6) | [Đen](https://open.spotify.com/artist/1LEtM3AleYg1xabW6CRkpi), [PiaLinh](https://open.spotify.com/artist/5Xn0cJrrcslCWCzPXNTy54) | [Nấu ăn cho em](https://open.spotify.com/album/60IOXhvNwkVcXPs25OKv5t) | 4:01 | 2023-05-18 |  |
 | [Nếu Anh Là Em \(feat\. Hứa Kim Tuyền\)](https://open.spotify.com/track/1G9gGCq1i7smFoaNnAdt8f) | [Tóc Tiên](https://open.spotify.com/artist/4YkqEuVf1Jf2x2XDqJ2CvC), [Hứa Kim Tuyền](https://open.spotify.com/artist/3Ufoo4BPShhahtCSjgpBLP) | [CONG](https://open.spotify.com/album/72AOO32yF86LlSFWH1uquV) | 4:33 | 2022-11-01 | 2022-12-19 |
 | [nếu lúc đó](https://open.spotify.com/track/7wj9sGlHGTMQ28liyi48hz) | [tlinh](https://open.spotify.com/artist/3diftVOq7aEIebXKkC34oR), [2pillz](https://open.spotify.com/artist/0XtC2d9ZVigYA7iMy5YkW0) | [nếu lúc đó](https://open.spotify.com/album/0OThHPtV2ovPxWwh8ublMV) | 4:24 | 2023-03-05 |  |
 | [Ooh Just You](https://open.spotify.com/track/0HK8DbhsuwSbDQKziQqbQI) | [Le Thien Hieu](https://open.spotify.com/artist/2U7kaq9BBq7eG2Vyn1D3Ab) | [Ooh Just You](https://open.spotify.com/album/5NfolK8SWLUENeckj3zc9v) | 3:15 | 2022-05-27 | 2022-06-23 |

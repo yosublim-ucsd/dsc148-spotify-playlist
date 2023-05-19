@@ -1,12 +1,12 @@
 {
   "description": "Fresh Latin pop on the rise. Cover: GALE",
-  "num_followers": 277439,
+  "num_followers": 277508,
   "original_name": "el nuevo pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3YzM2ZTRlY2RhYjcxMjI3NjY2ZTU0ZGZjZDRjYTdiZTczNGFmNDU5",
+  "snapshot_id": "MCxhMjA2NzY4ZDViNzRkOGI1ZjY2YTRlYjMyM2M2YjhkZjI2ODMxNzUy",
   "tracks": [
     {
       "added_at": "2023-05-12 04:01:00",
@@ -271,22 +271,6 @@
     {
       "added_at": "2023-05-12 04:01:00",
       "album": {
-        "name": "Portales (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/4rncniiruMzTS8BTWHVEjU"
-      },
-      "artists": [
-        {
-          "name": "Tiago PZK",
-          "url": "https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1"
-        }
-      ],
-      "duration_ms": 184511,
-      "name": "Que Se Parezca A Ti",
-      "url": "https://open.spotify.com/track/1egG8nOtq5l9ZiqVRT7KM6"
-    },
-    {
-      "added_at": "2023-05-12 04:01:00",
-      "album": {
         "name": "No_se_ve.mp3",
         "url": "https://open.spotify.com/album/7sAPapzxqBhYuDe7OxldCN"
       },
@@ -307,6 +291,22 @@
       "duration_ms": 203636,
       "name": "No_se_ve.mp3",
       "url": "https://open.spotify.com/track/2iIBpwP4FyQ95xgVail3yr"
+    },
+    {
+      "added_at": "2023-05-12 04:01:00",
+      "album": {
+        "name": "Portales (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4rncniiruMzTS8BTWHVEjU"
+      },
+      "artists": [
+        {
+          "name": "Tiago PZK",
+          "url": "https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1"
+        }
+      ],
+      "duration_ms": 184511,
+      "name": "Que Se Parezca A Ti",
+      "url": "https://open.spotify.com/track/1egG8nOtq5l9ZiqVRT7KM6"
     },
     {
       "added_at": "2023-05-12 04:01:00",
@@ -615,6 +615,22 @@
     {
       "added_at": "2023-05-12 04:01:00",
       "album": {
+        "name": "Vidas Pasadas",
+        "url": "https://open.spotify.com/album/6xUsWpvDVdDD8qDbQOsOL6"
+      },
+      "artists": [
+        {
+          "name": "3AM",
+          "url": "https://open.spotify.com/artist/1LU7BxbUvvuA4eNDdEO22D"
+        }
+      ],
+      "duration_ms": 138937,
+      "name": "Vidas Pasadas",
+      "url": "https://open.spotify.com/track/2G6cOHhIjJGd7fhBKXBjLr"
+    },
+    {
+      "added_at": "2023-05-12 04:01:00",
+      "album": {
         "name": "No Me Controles",
         "url": "https://open.spotify.com/album/3XqaX2LpehvqTSehktQkhC"
       },
@@ -635,22 +651,6 @@
       "duration_ms": 162149,
       "name": "No Me Controles",
       "url": "https://open.spotify.com/track/4G83XIKqqzv9ofGZs47SmF"
-    },
-    {
-      "added_at": "2023-05-12 04:01:00",
-      "album": {
-        "name": "Vidas Pasadas",
-        "url": "https://open.spotify.com/album/6xUsWpvDVdDD8qDbQOsOL6"
-      },
-      "artists": [
-        {
-          "name": "3AM",
-          "url": "https://open.spotify.com/artist/1LU7BxbUvvuA4eNDdEO22D"
-        }
-      ],
-      "duration_ms": 138937,
-      "name": "Vidas Pasadas",
-      "url": "https://open.spotify.com/track/2G6cOHhIjJGd7fhBKXBjLr"
     },
     {
       "added_at": "2023-05-12 04:01:00",
@@ -827,22 +827,6 @@
     {
       "added_at": "2023-05-12 04:01:00",
       "album": {
-        "name": "Miami",
-        "url": "https://open.spotify.com/album/1OuQBKfqgazuDJ4X5QRPR2"
-      },
-      "artists": [
-        {
-          "name": "Mau y Ricky",
-          "url": "https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU"
-        }
-      ],
-      "duration_ms": 130653,
-      "name": "Miami",
-      "url": "https://open.spotify.com/track/2aucJuYeU78veki8dBqzzW"
-    },
-    {
-      "added_at": "2023-05-12 04:01:00",
-      "album": {
         "name": "Legendaria",
         "url": "https://open.spotify.com/album/3pf7QneuFzJcgTPLVLXaBW"
       },
@@ -859,6 +843,22 @@
       "duration_ms": 179349,
       "name": "Legendaria",
       "url": "https://open.spotify.com/track/5bARvxCD7HTJXsBLN7UhbZ"
+    },
+    {
+      "added_at": "2023-05-12 04:01:00",
+      "album": {
+        "name": "Miami",
+        "url": "https://open.spotify.com/album/1OuQBKfqgazuDJ4X5QRPR2"
+      },
+      "artists": [
+        {
+          "name": "Mau y Ricky",
+          "url": "https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU"
+        }
+      ],
+      "duration_ms": 130653,
+      "name": "Miami",
+      "url": "https://open.spotify.com/track/2aucJuYeU78veki8dBqzzW"
     },
     {
       "added_at": "2023-05-12 04:01:00",
@@ -915,18 +915,18 @@
     {
       "added_at": "2023-05-12 04:01:00",
       "album": {
-        "name": "Te La Dedico",
-        "url": "https://open.spotify.com/album/7KGERR76ARYMU0z9AO1Z3Y"
+        "name": "Me Equivoqu\u00e9",
+        "url": "https://open.spotify.com/album/1FuHgxh8TQXF6EbmpR2Rbb"
       },
       "artists": [
         {
-          "name": "Jay Wheeler",
-          "url": "https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g"
+          "name": "Yami Safdie",
+          "url": "https://open.spotify.com/artist/4RWJOoYwgF978LOn8Fainp"
         }
       ],
-      "duration_ms": 231724,
-      "name": "Te La Dedico",
-      "url": "https://open.spotify.com/track/6z3IrUfL5HxmpH0Xt84Es8"
+      "duration_ms": 126641,
+      "name": "Me Equivoqu\u00e9",
+      "url": "https://open.spotify.com/track/6QqJcOLFsdSLDuc4tcgSob"
     }
   ],
   "unique_name": "el nuevo pop",

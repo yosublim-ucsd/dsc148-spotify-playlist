@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUTC08ZxLjSQ.md) - [plain]
 
 > The best new music by independent artists and labels from the MENA region\. Updates every Wednesday\. Cover: Kali\-B\. Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,737 likes - 54 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,743 likes - 54 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,4 +63,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUTC08ZxLjSQ.md) - [plain]
 | 53 | [Bouhdi](https://open.spotify.com/track/2NRaSmTlbNmwYYDsDMlgYR) | [Yvzid](https://open.spotify.com/artist/1hiAzHtDperYB5FhcWzJsW) | [Méditerranée](https://open.spotify.com/album/1HJzInrgb53YvdUXMbfiSt) | 3:07 |
 | 54 | [Ouda](https://open.spotify.com/track/6Q6AWOfZQbKLGrEqJj0HTZ) | [Tayar \- تيّار](https://open.spotify.com/artist/6ntwC60sylc4u0Npjoj6GM) | [Ouda](https://open.spotify.com/album/0uelvlu1wNTweumpauIrPJ) | 5:08 |
 
-Snapshot ID: `MCwxYjMyMWRlNjgxNDQ3NzAzNTE4ODExZmM3YmIyZjUyYmNmMThmMTY2`
+Snapshot ID: `MCxiNTdkZWVmYTdmMWY4ZGE5NDIwYzQ5OWY5MDU1YTMyNzM1NWE5Nzkz`

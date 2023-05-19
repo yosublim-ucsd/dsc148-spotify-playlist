@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-12",
-  "description": "La playlist urban pi\u00f9 grande d'Italia \ud83d\udd25 Cover: Sfera Ebbasta, Ozuna, GIMS, Aribeatz",
+  "description": "La playlist urban pi\u00f9 grande d'Italia \ud83d\udd25 Cover: Niky Savage",
   "name": "Plus Ultra",
   "tracks": [
     {
@@ -2016,7 +2016,7 @@
       ],
       "date_added": "2023-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 118095,
       "name": "ENERGY",
       "url": "https://open.spotify.com/track/65GyRqnEejaE75SG2SNnSJ"
@@ -2420,7 +2420,7 @@
       ],
       "date_added": "2023-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 156144,
       "name": "Grazie, Addio",
       "url": "https://open.spotify.com/track/1LqJ8OhvEjnMRKq4PWiaik"
@@ -3336,7 +3336,7 @@
       ],
       "date_added": "2022-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 203489,
       "name": "Lo-fi For U",
       "url": "https://open.spotify.com/track/7GtexZT8gVCDExYIeUWnl9"
@@ -3890,7 +3890,7 @@
       ],
       "date_added": "2022-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 161739,
       "name": "MUJER",
       "url": "https://open.spotify.com/track/6K8MYTkn5mZzF6p14hV5cj"
@@ -4370,6 +4370,28 @@
       "duration_ms": 142373,
       "name": "okk@pp@",
       "url": "https://open.spotify.com/track/6Eut6MtJYENAxBtNG0stnT"
+    },
+    {
+      "album": {
+        "name": "Effetto notte",
+        "url": "https://open.spotify.com/album/39wuRno08Rl0Jsse2kCHga"
+      },
+      "artists": [
+        {
+          "name": "Emis Killa",
+          "url": "https://open.spotify.com/artist/6FtwCmLY6L1sqvjaQ2lV6G"
+        },
+        {
+          "name": "Sfera Ebbasta",
+          "url": "https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz"
+        }
+      ],
+      "date_added": "2023-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176000,
+      "name": "ON FIRE - paid in full",
+      "url": "https://open.spotify.com/track/2pGbOFiWVwZaTq3iKi5sGb"
     },
     {
       "album": {
@@ -5041,6 +5063,32 @@
     },
     {
       "album": {
+        "name": "PUTA (feat. Ghali & Gu\u00e8)",
+        "url": "https://open.spotify.com/album/32gyucPh2z6ReaGnUBzIub"
+      },
+      "artists": [
+        {
+          "name": "Sixpm",
+          "url": "https://open.spotify.com/artist/1DqxHZcNsyQouEIgARx6Zx"
+        },
+        {
+          "name": "Ghali",
+          "url": "https://open.spotify.com/artist/3egWSWp7Y4FyCKIyvXbw7L"
+        },
+        {
+          "name": "Gu\u00e8",
+          "url": "https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27"
+        }
+      ],
+      "date_added": "2023-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186990,
+      "name": "PUTA (feat. Ghali & Gu\u00e8)",
+      "url": "https://open.spotify.com/track/7wrsR2dXDmuMEZKktOOyqB"
+    },
+    {
+      "album": {
         "name": "PYPPARE",
         "url": "https://open.spotify.com/album/246AxAt6mteMy8NmGHD23U"
       },
@@ -5430,6 +5478,28 @@
       "duration_ms": 245707,
       "name": "Sensazioni Momentanee (feat. Lil Kvneki)",
       "url": "https://open.spotify.com/track/7B7MnH2GI5A9NfXdVQSmKh"
+    },
+    {
+      "album": {
+        "name": "Effetto notte",
+        "url": "https://open.spotify.com/album/39wuRno08Rl0Jsse2kCHga"
+      },
+      "artists": [
+        {
+          "name": "Emis Killa",
+          "url": "https://open.spotify.com/artist/6FtwCmLY6L1sqvjaQ2lV6G"
+        },
+        {
+          "name": "Lazza",
+          "url": "https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM"
+        }
+      ],
+      "date_added": "2023-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193453,
+      "name": "SENZ'ANIMA - nikita",
+      "url": "https://open.spotify.com/track/39ZJEJ8KLq8yQQ1OEAdJ1W"
     },
     {
       "album": {
@@ -6002,7 +6072,7 @@
       ],
       "date_added": "2022-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 127384,
       "name": "Trafficante",
       "url": "https://open.spotify.com/track/1rpFM1ZbTZVS1fusCzmzg9"
@@ -6175,6 +6245,32 @@
     },
     {
       "album": {
+        "name": "VETRI NERI",
+        "url": "https://open.spotify.com/album/1vU1ePx8IOwsYRo5nh63nn"
+      },
+      "artists": [
+        {
+          "name": "AVA",
+          "url": "https://open.spotify.com/artist/7zPS3i8YJBNeDcqXUHfCMr"
+        },
+        {
+          "name": "ANNA",
+          "url": "https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u"
+        },
+        {
+          "name": "Capo Plaza",
+          "url": "https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n"
+        }
+      ],
+      "date_added": "2023-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164776,
+      "name": "VETRI NERI",
+      "url": "https://open.spotify.com/track/1K9qAxGT4cWUicf2OezSen"
+    },
+    {
+      "album": {
         "name": "Vida Mala (feat. Medy)",
         "url": "https://open.spotify.com/album/4UbeTkpOQKC95anCPKd7q0"
       },
@@ -6260,6 +6356,24 @@
       "duration_ms": 193876,
       "name": "WEED, SOLDI, SESSO (feat. Gemitaiz)",
       "url": "https://open.spotify.com/track/0WBYASmM4kt2hRv02zQCyJ"
+    },
+    {
+      "album": {
+        "name": "Whip Whip",
+        "url": "https://open.spotify.com/album/5nPvaJOnOIPRuDtRc2RicJ"
+      },
+      "artists": [
+        {
+          "name": "Rhove",
+          "url": "https://open.spotify.com/artist/44DWomjW1oDuxIoBIRpmQ4"
+        }
+      ],
+      "date_added": "2023-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117600,
+      "name": "Whip Whip",
+      "url": "https://open.spotify.com/track/3GlYaaFuFxEJWYiN0Vc41f"
     },
     {
       "album": {

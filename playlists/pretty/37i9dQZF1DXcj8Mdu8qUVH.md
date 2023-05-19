@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcj8Mdu8qUVH.md) - [plain]
 
 > Tranquil flute music from around the world.
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,457 likes - 106 songs - 6 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,605 likes - 106 songs - 6 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -102,7 +102,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcj8Mdu8qUVH.md) - [plain]
 | 92 | [Indian Flute](https://open.spotify.com/track/1ycfHOXNHyzgC52Gf5Pkvn) | [Nu Meditation Music](https://open.spotify.com/artist/66K6bDotWhnNf557BCkfIH) | [Indian Flute](https://open.spotify.com/album/2ygYSIMkHOlfRb9ysUAIsU) | 4:08 |
 | 93 | [Astral Myst](https://open.spotify.com/track/6KYNgQPraq4bBAUXnl8JHQ) | [Joe Yeatman](https://open.spotify.com/artist/1aRs8zfefA0q5PM8cbtYPR) | [Astral Myst](https://open.spotify.com/album/4Bzg992UQO6Ecuoy0Jd6TO) | 5:21 |
 | 94 | [Peaceful Night](https://open.spotify.com/track/0fd8mT4an6B4ajvvphJy7n) | [Derrol](https://open.spotify.com/artist/1rc39ZvAFk7t5PsByX1hjP), [Relaxing Spa Music](https://open.spotify.com/artist/7B8bzfiNYRSCKXElRPtWiE), [Relaxing Music Therapy](https://open.spotify.com/artist/7xbVj2U2bY22gyZnh04TlN) | [Music For Deep Sleep: Bedtime Music, Music To Help You Sleep](https://open.spotify.com/album/5vWc6gMLfMtkv44IsatGFW) | 3:06 |
-| 95 | [Warm Breeze](https://open.spotify.com/track/4T5OICEpPY57v3xqHwEQ3X) | [Ocean Tides](https://open.spotify.com/artist/1B4yvrnL53icZnmR4y6upU) | [Warm Breeze](https://open.spotify.com/album/4xdDaS4SrS6rctBC4IyVM8) | 3:19 |
+| 95 | [Warm Breeze](https://open.spotify.com/track/1LtXfSiSlCUnLPDjJV0FPR) | [Ocean Tides](https://open.spotify.com/artist/1B4yvrnL53icZnmR4y6upU) | [Warm Breeze](https://open.spotify.com/album/6CMRXqcYOR3X37UDG3GqsI) | 3:19 |
 | 96 | [At Ease](https://open.spotify.com/track/3Y60FrikUPyqB0LQkxxsbf) | [Steve Gorn](https://open.spotify.com/artist/1CuE092UR0MnsGFKEHZNgC) | [At Ease](https://open.spotify.com/album/3Ia4CWcgi1AxnD9s4pRyEN) | 5:32 |
 | 97 | [Flute Tunes for Meditation](https://open.spotify.com/track/2EumxYoWMui1Nj5xF6SzTX) | [Spa Music Relaxation](https://open.spotify.com/artist/6JKzNyyRN128rILrhNBscX), [Einstein Nature Sounds Academy](https://open.spotify.com/artist/425rTEpwuTohFZQ3OaC0Fx), [Nature Sounds Academy](https://open.spotify.com/artist/5lwBg1EF8XW0rbzWhKXRZc) | [Enlightening Spa: Flute Music and Enhanced Nature Sounds for Relax, Sleep or Meditate in a Healing Ambience](https://open.spotify.com/album/04RRTAcNWdty1ym02TKD8p) | 2:44 |
 | 98 | [Sublime](https://open.spotify.com/track/5vu7R3ODOAnvEAlJeFiVWv) | [Sounds of Optimism](https://open.spotify.com/artist/4NBmnaiMNjIDJLGSMuTqC6), [Deepesh Sanmal](https://open.spotify.com/artist/3lnLPZXHgbxQVzCVLuAw7O) | [Sublime](https://open.spotify.com/album/2kZo3OtxlYeAG4NaG1QHOZ) | 3:53 |
@@ -115,4 +115,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcj8Mdu8qUVH.md) - [plain]
 | 105 | [Meditative Flute](https://open.spotify.com/track/4vv1Q4nFh8S9jW8rwlDP5Z) | [Jean\-Marc Staehle](https://open.spotify.com/artist/5cFTf1mO9emew79AAriO3Y) | [Reiki Vital Energy](https://open.spotify.com/album/4w4CFji795YM8d8k5id76K) | 5:19 |
 | 106 | [Calmness](https://open.spotify.com/track/6vCK2bBrUTfAGb5CWlY9lp) | [Buddha's Lounge](https://open.spotify.com/artist/0DQtE70SlFZZkbNpCRaMHb) | [Calmness](https://open.spotify.com/album/150BpumPk9P159v4YsnImA) | 10:26 |
 
-Snapshot ID: `MCxkODVkNTEwNWMyZjdlMTE2MDMxNTQ1ZGVjYjNiNjU5Y2Q1ZDc2NjM0`
+Snapshot ID: `MCxhZTUyODc5MjE1ZmJiZWZmMmM3M2IyM2EzYmNlN2QyOWU2MWZiYmVm`

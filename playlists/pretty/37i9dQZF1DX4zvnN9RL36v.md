@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4zvnN9RL36v.md) - [plain]
 
 > 내 마음을 노랫말이 알아줄 때.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,176 likes - 50 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,184 likes - 50 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,21 +42,21 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4zvnN9RL36v.md) - [plain]
 | 32 | [짝사랑 Crush](https://open.spotify.com/track/6qBVH4v2yOfchMI5e89CU8) | [10cm](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp) | [3.0](https://open.spotify.com/album/42dd15HniCOYITYPuW5z2P) | 3:59 |
 | 33 | [Alone](https://open.spotify.com/track/0EBbXbktxouXdMH2JY4U4T) | [Hui](https://open.spotify.com/artist/4R0tSGcVRQ8ZXPzttU8mHy) | [Chocolate, Pt\. 8 \(Original Television Soundtrack\)](https://open.spotify.com/album/5NkL3gOmdX8HxFUrDNFJFE) | 3:48 |
 | 34 | [She Said \(With Kwon Jin Ah\)](https://open.spotify.com/track/7B6NK8YKCwPNqKnVTgMmtE) | [TOY](https://open.spotify.com/artist/7sS12h1hMwOqXiB5vYdlu8), [Kwon Jin Ah](https://open.spotify.com/artist/0kRAVpQhUUArA8UnYwEdeZ) | [Da Capo](https://open.spotify.com/album/2aFUFpaIjQQV7dWYsWsvEx) | 4:27 |
-| 35 | [If You Were Me](https://open.spotify.com/track/5PWU0W9hG0CGGiHsO56uJU) | [BEN](https://open.spotify.com/artist/0bDdOBGVCFVt0f8N9ldW1k) | [Mr\. Sunshine \(Original Television Soundtrack\), Pt\. 14](https://open.spotify.com/album/7KxB82sxRVaYRfnDLJN5RT) | 4:24 |
-| 36 | [One\-Sided Love](https://open.spotify.com/track/3D37MXSt6srzIR4nhopEoE) | [LeeHi](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) | [First Love](https://open.spotify.com/album/74thqvuyVQfosFffvKx2uo) | 3:52 |
+| 35 | [One\-Sided Love](https://open.spotify.com/track/3D37MXSt6srzIR4nhopEoE) | [LeeHi](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) | [First Love](https://open.spotify.com/album/74thqvuyVQfosFffvKx2uo) | 3:52 |
+| 36 | [If You Were Me](https://open.spotify.com/track/5PWU0W9hG0CGGiHsO56uJU) | [BEN](https://open.spotify.com/artist/0bDdOBGVCFVt0f8N9ldW1k) | [Mr\. Sunshine \(Original Television Soundtrack\), Pt\. 14](https://open.spotify.com/album/7KxB82sxRVaYRfnDLJN5RT) | 4:24 |
 | 37 | [동경](https://open.spotify.com/track/2X1SAXX6efa5ecGEHopowz) | [Park Hyo Shin](https://open.spotify.com/artist/57htMBtzpppc1yoXgjbslj) | [Second Story](https://open.spotify.com/album/5RvIhURahaQ9ZxhHf7KAV5) | 5:15 |
 | 38 | [Even though I hate you, I love you \(Special Track\)](https://open.spotify.com/track/2yoTyFjOAOYCRDBzWfSFq4) | [DAVICHI](https://open.spotify.com/artist/4z6yrDz5GfKXkeQZjOaZdq) | [&10](https://open.spotify.com/album/1LO8EUUBv1ZdacxIx1KoWF) | 5:25 |
 | 39 | [Tattoo](https://open.spotify.com/track/6ly2IeEPXEtzsUMgwOk3P6) | [AILEE](https://open.spotify.com/artist/3uGFTJ7JMllvhgGpumieHF) | [AMY](https://open.spotify.com/album/0qocbypKL5iOqhvbt3n3uo) | 3:19 |
 | 40 | [to him](https://open.spotify.com/track/1w5xpDtyMckJYrrn9Z1bEX) | [JAMIE](https://open.spotify.com/artist/2YXlVLKq3X3soXd2aXUtIT) | [19to20](https://open.spotify.com/album/7zq8yS4JkTPQNRrS8lptY1) | 3:39 |
-| 41 | [짝사랑 Zzak Sarang](https://open.spotify.com/track/4byD6wDh7z54vwLjXIAfEa) | [Western Kite](https://open.spotify.com/artist/3Ut5D9lZhPzIdAnInEltxw) | [Subtitle](https://open.spotify.com/album/6o0BLd2crZG1yXqFX6HWVH) | 3:14 |
-| 42 | [A lonely song](https://open.spotify.com/track/2naBl4NQlX9a4t6ONd47nF) | [I'll](https://open.spotify.com/artist/5CMK32w7gbxJsFe67eZJqs) | [A lonely song](https://open.spotify.com/album/6AJlKivqnbSRgP49nNR0ba) | 3:45 |
-| 43 | [화분 \- 알렉스 Version](https://open.spotify.com/track/253k2EVSIBol9zDYdugv4w) | [Alex](https://open.spotify.com/artist/3E0hcDz3BQfblBm7PU4Ghr) | [화분](https://open.spotify.com/album/3S2nA0Y4QaO3HWgmm3C9qS) | 4:30 |
-| 44 | [Her](https://open.spotify.com/track/4QmWRo0gGe2IzmAqgyPUH0) | [CherryB](https://open.spotify.com/artist/0Bd1VLl8A4yk5vo2XfVnCd) | [Her](https://open.spotify.com/album/7ChNlZPMqGp9NBKKkWdj7t) | 4:09 |
-| 45 | [Love Me Once Again](https://open.spotify.com/track/44n3xQ51XIOAGCMve5zh92) | [BEN](https://open.spotify.com/artist/0bDdOBGVCFVt0f8N9ldW1k) | [RE:PLAYLIST Vol.3](https://open.spotify.com/album/7gn6H37VoihSD18j1MCXpa) | 4:24 |
+| 41 | [Love Me Once Again](https://open.spotify.com/track/44n3xQ51XIOAGCMve5zh92) | [BEN](https://open.spotify.com/artist/0bDdOBGVCFVt0f8N9ldW1k) | [RE:PLAYLIST Vol.3](https://open.spotify.com/album/7gn6H37VoihSD18j1MCXpa) | 4:24 |
+| 42 | [짝사랑 Zzak Sarang](https://open.spotify.com/track/4byD6wDh7z54vwLjXIAfEa) | [Western Kite](https://open.spotify.com/artist/3Ut5D9lZhPzIdAnInEltxw) | [Subtitle](https://open.spotify.com/album/6o0BLd2crZG1yXqFX6HWVH) | 3:14 |
+| 43 | [A lonely song](https://open.spotify.com/track/2naBl4NQlX9a4t6ONd47nF) | [I'll](https://open.spotify.com/artist/5CMK32w7gbxJsFe67eZJqs) | [A lonely song](https://open.spotify.com/album/6AJlKivqnbSRgP49nNR0ba) | 3:45 |
+| 44 | [화분 \- 알렉스 Version](https://open.spotify.com/track/253k2EVSIBol9zDYdugv4w) | [Alex](https://open.spotify.com/artist/3E0hcDz3BQfblBm7PU4Ghr) | [화분](https://open.spotify.com/album/3S2nA0Y4QaO3HWgmm3C9qS) | 4:30 |
+| 45 | [Her](https://open.spotify.com/track/4QmWRo0gGe2IzmAqgyPUH0) | [CherryB](https://open.spotify.com/artist/0Bd1VLl8A4yk5vo2XfVnCd) | [Her](https://open.spotify.com/album/7ChNlZPMqGp9NBKKkWdj7t) | 4:09 |
 | 46 | [순이 Sooni \- I'm your fanatic girl](https://open.spotify.com/track/6nodmyYwTeJJdixDD0GIg4) | [Sunwoojunga](https://open.spotify.com/artist/04L3elxyr0XFua2Ek3domW) | [4X4](https://open.spotify.com/album/33VSRiAN7EjjGEmPZDNkV7) | 4:07 |
 | 47 | [Wanna be her](https://open.spotify.com/track/0SrnU0smAgD9CdD6591gKN) | [Kwon Jin Ah](https://open.spotify.com/artist/0kRAVpQhUUArA8UnYwEdeZ) | [One Strange Night](https://open.spotify.com/album/2NIHcafPBpwE9exKTsSWrr) | 4:11 |
 | 48 | [I Ain't Over](https://open.spotify.com/track/5Z92WE7OM4DB7yphLcbFhb) | [Vanilla Acoustic](https://open.spotify.com/artist/57xPD2CfuwxN6Ld7rf2iLG) | [Fit Me](https://open.spotify.com/album/4pFmu6Kza4fbk5spjtpxBB) | 4:10 |
 | 49 | [Loving You is Loving Me](https://open.spotify.com/track/3cEJ1hsDcIELeduLDttZLd) | [Han Yeoyoo](https://open.spotify.com/artist/3PJavkoaMGLEC06SDMvBoP) | [Loving You is Loving Me](https://open.spotify.com/album/1siSojvN7zaZDxad6nqGFG) | 3:43 |
 | 50 | [One\-sided love](https://open.spotify.com/track/5hGGFQG9xk0pugYkOntWH2) | [Sogaksogak](https://open.spotify.com/artist/4ErSSLqJ6lBxlgzBrkjubZ) | [One\-sided love](https://open.spotify.com/album/2mnjRuCNcTfR1PkNUxJAbw) | 3:10 |
 
-Snapshot ID: `MCwwNjgwZjFlMDNmNTQ2ODNkMWU1MDhhOTVjNDQzMDUzNmRhZDQ3ZjFi`
+Snapshot ID: `MCw4N2FmM2FiYTU1YWIwNDM5NGRiMWVhY2E3YTAwYWU4OGJlMGUwZmM4`

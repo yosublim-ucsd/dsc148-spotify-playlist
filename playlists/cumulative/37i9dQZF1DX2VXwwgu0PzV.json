@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-04",
-  "description": "Music for when you've got your Jesus on and your swag up . \nCover: Reblah",
+  "description": "Music for when you've got your Jesus on and your swag up . \nCover: Tjsarx",
   "name": "Youth Service",
   "tracks": [
     {
@@ -111,6 +111,24 @@
     },
     {
       "album": {
+        "name": "Destination!",
+        "url": "https://open.spotify.com/album/5oMsAkJPogSjaruQA9O8OK"
+      },
+      "artists": [
+        {
+          "name": "Jesse10s",
+          "url": "https://open.spotify.com/artist/6oOIGUtyWVdPoJmgOE1bGH"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216058,
+      "name": "All I Want",
+      "url": "https://open.spotify.com/track/4y8CtOVNQPenZK2ArhZE02"
+    },
+    {
+      "album": {
         "name": "All Praise",
         "url": "https://open.spotify.com/album/05dhDZ8PFLjyLQ1hw1Dgc1"
       },
@@ -144,6 +162,32 @@
       "duration_ms": 201142,
       "name": "Always",
       "url": "https://open.spotify.com/track/0plxrbRcqrB8keTOROLuZG"
+    },
+    {
+      "album": {
+        "name": "Ambition",
+        "url": "https://open.spotify.com/album/5WuRUQsd7DOs088tNdlZeY"
+      },
+      "artists": [
+        {
+          "name": "Kojo Dave",
+          "url": "https://open.spotify.com/artist/2SjA4XyWd56a9VEfOoXrce"
+        },
+        {
+          "name": "Shirlvin Desir",
+          "url": "https://open.spotify.com/artist/4Hbu64CrdG7DMOmKl57S0Y"
+        },
+        {
+          "name": "RMNT",
+          "url": "https://open.spotify.com/artist/5nBUMnjOu0TLZuiVkUWwSa"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117347,
+      "name": "Ambition",
+      "url": "https://open.spotify.com/track/2eaweMqkyPhueHZ9kRZXQV"
     },
     {
       "album": {
@@ -334,7 +378,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 182000,
       "name": "Congratulations",
       "url": "https://open.spotify.com/track/2lxAUhTqw3phdpVHJSHTMJ"
@@ -356,7 +400,7 @@
       ],
       "date_added": "2023-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 177188,
       "name": "Corner",
       "url": "https://open.spotify.com/track/1spriRONnTopsV5RMzoLH0"
@@ -434,6 +478,36 @@
       "duration_ms": 177714,
       "name": "Dadi",
       "url": "https://open.spotify.com/track/1jsNfKk9Jv6QuGaQWFh872"
+    },
+    {
+      "album": {
+        "name": "Dey Play",
+        "url": "https://open.spotify.com/album/5OeAMGQdbFMoCzAn06D1LO"
+      },
+      "artists": [
+        {
+          "name": "TBabz",
+          "url": "https://open.spotify.com/artist/2EmUjaYdA6kGxwZXzAGq7V"
+        },
+        {
+          "name": "Naffymar",
+          "url": "https://open.spotify.com/artist/31XHZpkBidKYdb27RBePrr"
+        },
+        {
+          "name": "Protek Illasheva",
+          "url": "https://open.spotify.com/artist/5E8DCdcnM0P7tHQP9CjXcP"
+        },
+        {
+          "name": "Derry Hans",
+          "url": "https://open.spotify.com/artist/6OcDjc4E6BZgxojhEQcG6R"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169285,
+      "name": "Dey Play",
+      "url": "https://open.spotify.com/track/7ahQayCflONbnl4uD1qjHk"
     },
     {
       "album": {
@@ -1153,6 +1227,36 @@
     },
     {
       "album": {
+        "name": "HEAVEN HAS COME",
+        "url": "https://open.spotify.com/album/6NxdOsigezOUD537lSYTDz"
+      },
+      "artists": [
+        {
+          "name": "Ty Bello",
+          "url": "https://open.spotify.com/artist/2iWK4awJAvQtgg1cUHaU9J"
+        },
+        {
+          "name": "Tomi Favored",
+          "url": "https://open.spotify.com/artist/3ioczYyxauJe6sFCd300bZ"
+        },
+        {
+          "name": "Grace Omosebi",
+          "url": "https://open.spotify.com/artist/0MjHUPDq9KVCCqjAcTdVRQ"
+        },
+        {
+          "name": "121SELAH",
+          "url": "https://open.spotify.com/artist/3D0PnJS2WA0lgjLgMz0Oqq"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 379207,
+      "name": "He Fights For Me",
+      "url": "https://open.spotify.com/track/5vQM35aV3Q7tXdITJgc8wi"
+    },
+    {
+      "album": {
         "name": "High Power",
         "url": "https://open.spotify.com/album/3d8Ib4ND2H7omrOjKtlV9m"
       },
@@ -1172,7 +1276,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 208050,
       "name": "High Power",
       "url": "https://open.spotify.com/track/0nig3dMg8HbGIUTf9rFfEz"
@@ -1428,6 +1532,32 @@
       "duration_ms": 218166,
       "name": "Ifunanya",
       "url": "https://open.spotify.com/track/0iTk4clE5ASPjciDKc9YfR"
+    },
+    {
+      "album": {
+        "name": "IJO (Remix)",
+        "url": "https://open.spotify.com/album/3wloOkIU3tCCXi7z5SXRxw"
+      },
+      "artists": [
+        {
+          "name": "TimiTrigger",
+          "url": "https://open.spotify.com/artist/7slHpFNcd1m9DSKq4LeM9s"
+        },
+        {
+          "name": "Oba Reengy",
+          "url": "https://open.spotify.com/artist/2p8Rrwmp4CLigLFsClVDVC"
+        },
+        {
+          "name": "Majemu",
+          "url": "https://open.spotify.com/artist/5w4AeRwjaVNl2Gb44iqjHD"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230232,
+      "name": "IJO - Remix",
+      "url": "https://open.spotify.com/track/25wN3PxCi7kegOz8YEvyhO"
     },
     {
       "album": {
@@ -1944,7 +2074,7 @@
       ],
       "date_added": "2023-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 184322,
       "name": "More Love",
       "url": "https://open.spotify.com/track/19rlmg0t6eqNh0feDTVPOW"
@@ -2361,6 +2491,28 @@
     },
     {
       "album": {
+        "name": "On My Case",
+        "url": "https://open.spotify.com/album/4yCTzq9LQLQ3b6AJ3BprFc"
+      },
+      "artists": [
+        {
+          "name": "Tjsarx",
+          "url": "https://open.spotify.com/artist/4Ndq7v7oiQdrRJvlrRY2KJ"
+        },
+        {
+          "name": "Marizu",
+          "url": "https://open.spotify.com/artist/4rwolwLHj97rPwbhyNSeU9"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163399,
+      "name": "On My Case",
+      "url": "https://open.spotify.com/track/04IQOJLLfOYcoyddANSaiY"
+    },
+    {
+      "album": {
         "name": "On Your Mind",
         "url": "https://open.spotify.com/album/4F5o1FzgVFzkld1x0960E8"
       },
@@ -2638,7 +2790,7 @@
       ],
       "date_added": "2023-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 157309,
       "name": "Relief",
       "url": "https://open.spotify.com/track/5G19pifWY3gRmWff4I4vgD"
@@ -2878,7 +3030,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 194400,
       "name": "Stranger",
       "url": "https://open.spotify.com/track/7LOETCwG4oq6u0a8947zNP"
@@ -2944,7 +3096,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 155400,
       "name": "Take It",
       "url": "https://open.spotify.com/track/7uJcY8am7ZHYlBRjNmtwjl"

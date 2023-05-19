@@ -1,12 +1,12 @@
 {
   "description": "La nueva ola de trovadores del Siglo XXI. En portada: Valeria Castro.",
-  "num_followers": 110284,
+  "num_followers": 110384,
   "original_name": "Cancionistas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1NjgxN2ZhMDVhYTc4YzQxYWU1OTNmMmYyMjBmY2ZjM2I2MDIzOGQ1",
+  "snapshot_id": "MCxjZjI0ZmI0YTRjNDQ4NzcyOTM1ZTJiOWNhM2YzNjQ1YjBiYjRhMGYz",
   "tracks": [
     {
       "added_at": "2023-05-12 06:00:00",
@@ -483,22 +483,6 @@
     {
       "added_at": "2023-05-12 06:00:00",
       "album": {
-        "name": "Borneo",
-        "url": "https://open.spotify.com/album/5LRDEs05vm8LTRV5U7g1xc"
-      },
-      "artists": [
-        {
-          "name": "Borneo",
-          "url": "https://open.spotify.com/artist/0w9lu4ZDXuidfh3SfJ7Bdz"
-        }
-      ],
-      "duration_ms": 172965,
-      "name": "Rayito",
-      "url": "https://open.spotify.com/track/3Dvams9yiJchXGj1OlOCil"
-    },
-    {
-      "added_at": "2023-05-12 06:00:00",
-      "album": {
         "name": "Civilizado Como Los Animales",
         "url": "https://open.spotify.com/album/3XEUOUhNrKAGvx5X5jv1lW"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 301935,
       "name": "Blue (feat. Jorge Drexler & Joan Manuel Serrat) - Diminuto Planeta Azul",
       "url": "https://open.spotify.com/track/1Qypv0IvYTc3pFZVVKiczs"
+    },
+    {
+      "added_at": "2023-05-12 06:00:00",
+      "album": {
+        "name": "Borneo",
+        "url": "https://open.spotify.com/album/5LRDEs05vm8LTRV5U7g1xc"
+      },
+      "artists": [
+        {
+          "name": "Borneo",
+          "url": "https://open.spotify.com/artist/0w9lu4ZDXuidfh3SfJ7Bdz"
+        }
+      ],
+      "duration_ms": 172965,
+      "name": "Rayito",
+      "url": "https://open.spotify.com/track/3Dvams9yiJchXGj1OlOCil"
     },
     {
       "added_at": "2023-05-12 06:00:00",
@@ -799,22 +799,6 @@
     {
       "added_at": "2023-05-12 06:00:00",
       "album": {
-        "name": "Las Dos Caras del Hilo",
-        "url": "https://open.spotify.com/album/5PmHupdoqQsSbbnvIIN7JD"
-      },
-      "artists": [
-        {
-          "name": "T\u00e9Canela",
-          "url": "https://open.spotify.com/artist/7DqUxnbDJwdpFRS8rIgVy0"
-        }
-      ],
-      "duration_ms": 214405,
-      "name": "Tu Ciudad",
-      "url": "https://open.spotify.com/track/67Z5GMzR0MjCJ5sLtxZjHb"
-    },
-    {
-      "added_at": "2023-05-12 06:00:00",
-      "album": {
         "name": "Sab\u00e9is Qui\u00e9nes Sois",
         "url": "https://open.spotify.com/album/6vhOlsztLifwHFGDVzdmyq"
       },
@@ -827,6 +811,22 @@
       "duration_ms": 225600,
       "name": "Sab\u00e9is Qui\u00e9nes Sois",
       "url": "https://open.spotify.com/track/2LzQ5MZuUFAuuqSctvnA7M"
+    },
+    {
+      "added_at": "2023-05-12 06:00:00",
+      "album": {
+        "name": "Las Dos Caras del Hilo",
+        "url": "https://open.spotify.com/album/5PmHupdoqQsSbbnvIIN7JD"
+      },
+      "artists": [
+        {
+          "name": "T\u00e9Canela",
+          "url": "https://open.spotify.com/artist/7DqUxnbDJwdpFRS8rIgVy0"
+        }
+      ],
+      "duration_ms": 214405,
+      "name": "Tu Ciudad",
+      "url": "https://open.spotify.com/track/67Z5GMzR0MjCJ5sLtxZjHb"
     },
     {
       "added_at": "2023-05-12 06:00:00",
@@ -1103,22 +1103,6 @@
     {
       "added_at": "2023-05-12 06:00:00",
       "album": {
-        "name": "Sin Remitente",
-        "url": "https://open.spotify.com/album/2TQrSBphFOeDoJNmpXf3Ho"
-      },
-      "artists": [
-        {
-          "name": "Alejandro Balbis",
-          "url": "https://open.spotify.com/artist/7HubTnEWI11WfxULdbqvti"
-        }
-      ],
-      "duration_ms": 191826,
-      "name": "Canci\u00f3n Con Vos",
-      "url": "https://open.spotify.com/track/1n8gAVu2tbxH116K126H9c"
-    },
-    {
-      "added_at": "2023-05-12 06:00:00",
-      "album": {
         "name": "Las Bestias Que Me Acompa\u00f1an",
         "url": "https://open.spotify.com/album/4VfTnbsFhguLzTTOCYUcO9"
       },
@@ -1131,6 +1115,22 @@
       "duration_ms": 222428,
       "name": "Las Bestias Que Me Acompa\u00f1an",
       "url": "https://open.spotify.com/track/7u7dzBVfptwhsuNqKHMBXn"
+    },
+    {
+      "added_at": "2023-05-12 06:00:00",
+      "album": {
+        "name": "Sin Remitente",
+        "url": "https://open.spotify.com/album/2TQrSBphFOeDoJNmpXf3Ho"
+      },
+      "artists": [
+        {
+          "name": "Alejandro Balbis",
+          "url": "https://open.spotify.com/artist/7HubTnEWI11WfxULdbqvti"
+        }
+      ],
+      "duration_ms": 191826,
+      "name": "Canci\u00f3n Con Vos",
+      "url": "https://open.spotify.com/track/1n8gAVu2tbxH116K126H9c"
     },
     {
       "added_at": "2023-05-12 06:00:00",
@@ -1215,22 +1215,6 @@
     {
       "added_at": "2023-05-12 06:00:00",
       "album": {
-        "name": "Un Golpe de Suerte",
-        "url": "https://open.spotify.com/album/6GYXrEPO9rtxkNeeDeTae4"
-      },
-      "artists": [
-        {
-          "name": "Carmen Boza",
-          "url": "https://open.spotify.com/artist/4hXMxkoIm7sX1PiFXrvU0u"
-        }
-      ],
-      "duration_ms": 269932,
-      "name": "Un Golpe de Suerte",
-      "url": "https://open.spotify.com/track/2p0oHRooKITKxv3UbjgDzg"
-    },
-    {
-      "added_at": "2023-05-12 06:00:00",
-      "album": {
         "name": "Nada Importa",
         "url": "https://open.spotify.com/album/7lFMgjDMyD4poD8JKfzI1b"
       },
@@ -1243,6 +1227,22 @@
       "duration_ms": 196331,
       "name": "Nada Importa",
       "url": "https://open.spotify.com/track/29FRWNC4lPdoyltN1mQ9oF"
+    },
+    {
+      "added_at": "2023-05-12 06:00:00",
+      "album": {
+        "name": "Un Golpe de Suerte",
+        "url": "https://open.spotify.com/album/6GYXrEPO9rtxkNeeDeTae4"
+      },
+      "artists": [
+        {
+          "name": "Carmen Boza",
+          "url": "https://open.spotify.com/artist/4hXMxkoIm7sX1PiFXrvU0u"
+        }
+      ],
+      "duration_ms": 269932,
+      "name": "Un Golpe de Suerte",
+      "url": "https://open.spotify.com/track/2p0oHRooKITKxv3UbjgDzg"
     },
     {
       "added_at": "2023-05-12 06:00:00",
@@ -1283,22 +1283,6 @@
     {
       "added_at": "2023-05-12 06:00:00",
       "album": {
-        "name": "Rumba en Cahuita",
-        "url": "https://open.spotify.com/album/6jXK3xOmatH5Eb6fysEwDf"
-      },
-      "artists": [
-        {
-          "name": "Perot\u00e1 Ching\u00f3",
-          "url": "https://open.spotify.com/artist/5cMTiWeaWidGI8hVoZY8Ox"
-        }
-      ],
-      "duration_ms": 167752,
-      "name": "Rumba en Cahuita",
-      "url": "https://open.spotify.com/track/0weanLGPZzqdbznu0iklgW"
-    },
-    {
-      "added_at": "2023-05-12 06:00:00",
-      "album": {
         "name": "El Caminante",
         "url": "https://open.spotify.com/album/68F9zJS0lss2CwsrcR8HZK"
       },
@@ -1319,6 +1303,22 @@
     {
       "added_at": "2023-05-12 06:00:00",
       "album": {
+        "name": "Rumba en Cahuita",
+        "url": "https://open.spotify.com/album/6jXK3xOmatH5Eb6fysEwDf"
+      },
+      "artists": [
+        {
+          "name": "Perot\u00e1 Ching\u00f3",
+          "url": "https://open.spotify.com/artist/5cMTiWeaWidGI8hVoZY8Ox"
+        }
+      ],
+      "duration_ms": 167752,
+      "name": "Rumba en Cahuita",
+      "url": "https://open.spotify.com/track/0weanLGPZzqdbznu0iklgW"
+    },
+    {
+      "added_at": "2023-05-12 06:00:00",
+      "album": {
         "name": "Como el Mar",
         "url": "https://open.spotify.com/album/1gFlYmZaY1CHMGjoD06AJY"
       },
@@ -1331,22 +1331,6 @@
       "duration_ms": 195744,
       "name": "Corazoncito M\u00edo",
       "url": "https://open.spotify.com/track/5FvSpXevbWSTjeGMoYxlDi"
-    },
-    {
-      "added_at": "2023-05-12 06:00:00",
-      "album": {
-        "name": "Mundos inm\u00f3viles derrumb\u00e1ndose",
-        "url": "https://open.spotify.com/album/5FDxWtFRwB67KSOCE690U5"
-      },
-      "artists": [
-        {
-          "name": "Nacho Vegas",
-          "url": "https://open.spotify.com/artist/14CMndDKSsMSvZYXFLZRfn"
-        }
-      ],
-      "duration_ms": 297773,
-      "name": "El don de la ternura",
-      "url": "https://open.spotify.com/track/41ayfvA3f3ifvFybiSVg9F"
     },
     {
       "added_at": "2023-05-12 06:00:00",
@@ -1367,6 +1351,22 @@
       "duration_ms": 185960,
       "name": "P\u00e9ndulo (feat. Juan Pablo Vega)",
       "url": "https://open.spotify.com/track/3DnW0doatLuxj7IGgobjGE"
+    },
+    {
+      "added_at": "2023-05-12 06:00:00",
+      "album": {
+        "name": "Mundos inm\u00f3viles derrumb\u00e1ndose",
+        "url": "https://open.spotify.com/album/5FDxWtFRwB67KSOCE690U5"
+      },
+      "artists": [
+        {
+          "name": "Nacho Vegas",
+          "url": "https://open.spotify.com/artist/14CMndDKSsMSvZYXFLZRfn"
+        }
+      ],
+      "duration_ms": 297773,
+      "name": "El don de la ternura",
+      "url": "https://open.spotify.com/track/41ayfvA3f3ifvFybiSVg9F"
     },
     {
       "added_at": "2023-05-12 06:00:00",
@@ -1515,6 +1515,22 @@
     {
       "added_at": "2023-05-12 06:00:00",
       "album": {
+        "name": "Kumbayeo (Lado A)",
+        "url": "https://open.spotify.com/album/2S7dOh95r0P8ZujBfNuFid"
+      },
+      "artists": [
+        {
+          "name": "Salom\u00f3n Beda",
+          "url": "https://open.spotify.com/artist/76oqoGaknr9WGOegYTjxdh"
+        }
+      ],
+      "duration_ms": 197346,
+      "name": "Orquesta natural",
+      "url": "https://open.spotify.com/track/6OYqqoXiFcVeVBlB6HQGSe"
+    },
+    {
+      "added_at": "2023-05-12 06:00:00",
+      "album": {
         "name": "La Despedida (feat. Valeria Castro)",
         "url": "https://open.spotify.com/album/6WabxigChTEsXqQ8bZekYm"
       },
@@ -1535,18 +1551,26 @@
     {
       "added_at": "2023-05-12 06:00:00",
       "album": {
-        "name": "Kumbayeo (Lado A)",
-        "url": "https://open.spotify.com/album/2S7dOh95r0P8ZujBfNuFid"
+        "name": "Danza Olvidada",
+        "url": "https://open.spotify.com/album/2aFioZ5TRqGee2CvNn5SgD"
       },
       "artists": [
         {
-          "name": "Salom\u00f3n Beda",
-          "url": "https://open.spotify.com/artist/76oqoGaknr9WGOegYTjxdh"
+          "name": "Hirahi Afonso",
+          "url": "https://open.spotify.com/artist/5mh519bztRWlB587VIHYlh"
+        },
+        {
+          "name": "Judit Neddermann",
+          "url": "https://open.spotify.com/artist/1ImywUogV5mfqWMyXEvkgE"
+        },
+        {
+          "name": "Valeria Castro",
+          "url": "https://open.spotify.com/artist/7JTVqKJ414qRPuDPhdKnHD"
         }
       ],
-      "duration_ms": 197346,
-      "name": "Orquesta natural",
-      "url": "https://open.spotify.com/track/6OYqqoXiFcVeVBlB6HQGSe"
+      "duration_ms": 211714,
+      "name": "Danza Olvidada",
+      "url": "https://open.spotify.com/track/5xX0qlWXOQqOGH6VEcSBSA"
     },
     {
       "added_at": "2023-05-12 06:00:00",
@@ -1583,30 +1607,6 @@
       "duration_ms": 201346,
       "name": "Mundo Nuevo",
       "url": "https://open.spotify.com/track/5QmJ1Xlq9C5COqvsnhS1Jb"
-    },
-    {
-      "added_at": "2023-05-12 06:00:00",
-      "album": {
-        "name": "Danza Olvidada",
-        "url": "https://open.spotify.com/album/2aFioZ5TRqGee2CvNn5SgD"
-      },
-      "artists": [
-        {
-          "name": "Hirahi Afonso",
-          "url": "https://open.spotify.com/artist/5mh519bztRWlB587VIHYlh"
-        },
-        {
-          "name": "Judit Neddermann",
-          "url": "https://open.spotify.com/artist/1ImywUogV5mfqWMyXEvkgE"
-        },
-        {
-          "name": "Valeria Castro",
-          "url": "https://open.spotify.com/artist/7JTVqKJ414qRPuDPhdKnHD"
-        }
-      ],
-      "duration_ms": 211714,
-      "name": "Danza Olvidada",
-      "url": "https://open.spotify.com/track/5xX0qlWXOQqOGH6VEcSBSA"
     },
     {
       "added_at": "2023-05-12 06:00:00",
@@ -1663,6 +1663,26 @@
     {
       "added_at": "2023-05-12 06:00:00",
       "album": {
+        "name": "Che Sy",
+        "url": "https://open.spotify.com/album/09rVUsgxfGU4WThZDYvW8U"
+      },
+      "artists": [
+        {
+          "name": "Tierra Adentro",
+          "url": "https://open.spotify.com/artist/0mYFlsYXbyTD5gmNnw3pO4"
+        },
+        {
+          "name": "Monsieur Perin\u00e9",
+          "url": "https://open.spotify.com/artist/36KsCCwgI0Dep97yVJWmkK"
+        }
+      ],
+      "duration_ms": 170400,
+      "name": "Che Sy",
+      "url": "https://open.spotify.com/track/4d61YorydP02IvnTKDdqfb"
+    },
+    {
+      "added_at": "2023-05-12 06:00:00",
+      "album": {
         "name": "Alfonsina Y El Mar",
         "url": "https://open.spotify.com/album/5y1BwfQejuUHwwRCc4f0Eh"
       },
@@ -1711,26 +1731,6 @@
       "duration_ms": 271200,
       "name": "Alma Sola",
       "url": "https://open.spotify.com/track/6luaZGLjrwPHtUUkD0TOhf"
-    },
-    {
-      "added_at": "2023-05-12 06:00:00",
-      "album": {
-        "name": "Che Sy",
-        "url": "https://open.spotify.com/album/09rVUsgxfGU4WThZDYvW8U"
-      },
-      "artists": [
-        {
-          "name": "Tierra Adentro",
-          "url": "https://open.spotify.com/artist/0mYFlsYXbyTD5gmNnw3pO4"
-        },
-        {
-          "name": "Monsieur Perin\u00e9",
-          "url": "https://open.spotify.com/artist/36KsCCwgI0Dep97yVJWmkK"
-        }
-      ],
-      "duration_ms": 170400,
-      "name": "Che Sy",
-      "url": "https://open.spotify.com/track/4d61YorydP02IvnTKDdqfb"
     },
     {
       "added_at": "2023-05-12 06:00:00",

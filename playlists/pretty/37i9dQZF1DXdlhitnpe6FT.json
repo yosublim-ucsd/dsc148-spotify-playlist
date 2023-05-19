@@ -1,12 +1,12 @@
 {
   "description": "The notes that will make you long for those days of yore.",
-  "num_followers": 161263,
+  "num_followers": 161575,
   "original_name": "Golden Instrumentals",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4NzQ0M2NhYjE2MDQyZWI2NWU5ZTdhOWFkMWFiM2NiYmE1N2QzZGI4",
+  "snapshot_id": "MCw0ZTRlY2FjY2Q5YWI5N2EzNDFlNmM0NzhlZmRkOGMzYmMwYWY4ZDFj",
   "tracks": [
     {
       "added_at": "2020-12-08 19:02:01",
@@ -267,6 +267,22 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
+        "name": "!!Going Places!!",
+        "url": "https://open.spotify.com/album/3y7ArxHNtZoTVWSwR4lkQT"
+      },
+      "artists": [
+        {
+          "name": "Herb Alpert & The Tijuana Brass",
+          "url": "https://open.spotify.com/artist/09L3cUdx0hq6qn5bKuJJ4I"
+        }
+      ],
+      "duration_ms": 126893,
+      "name": "Spanish Flea",
+      "url": "https://open.spotify.com/track/689DTIE4YIRfuIUG58Z2H2"
+    },
+    {
+      "added_at": "2020-12-08 19:02:01",
+      "album": {
         "name": "Grandes Favoritas Instrumentales,Vol. 4",
         "url": "https://open.spotify.com/album/4wbHEZf62R0M34a8EkuNlk"
       },
@@ -283,22 +299,6 @@
       "duration_ms": 175906,
       "name": "Amapola",
       "url": "https://open.spotify.com/track/3j0gx0OGf8G8gzc5H62Ux9"
-    },
-    {
-      "added_at": "2020-12-08 19:02:01",
-      "album": {
-        "name": "!!Going Places!!",
-        "url": "https://open.spotify.com/album/3y7ArxHNtZoTVWSwR4lkQT"
-      },
-      "artists": [
-        {
-          "name": "Herb Alpert & The Tijuana Brass",
-          "url": "https://open.spotify.com/artist/09L3cUdx0hq6qn5bKuJJ4I"
-        }
-      ],
-      "duration_ms": 126893,
-      "name": "Spanish Flea",
-      "url": "https://open.spotify.com/track/689DTIE4YIRfuIUG58Z2H2"
     },
     {
       "added_at": "2020-12-08 19:02:01",
@@ -791,22 +791,6 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
-        "name": "Las No. 1 Instrumentales",
-        "url": "https://open.spotify.com/album/6jAwjKibWTDSJq1Qfbieeb"
-      },
-      "artists": [
-        {
-          "name": "Bebu Silvetti",
-          "url": "https://open.spotify.com/artist/4KZwQdGgLn54iXbmFEN8WJ"
-        }
-      ],
-      "duration_ms": 353680,
-      "name": "Lluvia de Primavera",
-      "url": "https://open.spotify.com/track/6zbtxndjT0ZXejFfWxp7Ve"
-    },
-    {
-      "added_at": "2020-12-08 19:02:01",
-      "album": {
         "name": "60 Timeless Classics from the Giants of Traditional Jazz",
         "url": "https://open.spotify.com/album/6fN8msI9VOM3uWxjO1Y9eR"
       },
@@ -827,18 +811,18 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
-        "name": "Kpm 1000 Series: Gentle Sounds - Volume 2",
-        "url": "https://open.spotify.com/album/1XL9bkiNGA0pj3EUvLTkh2"
+        "name": "Las No. 1 Instrumentales",
+        "url": "https://open.spotify.com/album/6jAwjKibWTDSJq1Qfbieeb"
       },
       "artists": [
         {
-          "name": "Johnny Pearson",
-          "url": "https://open.spotify.com/artist/3ItwpBXTw2W7w62jKwHqGD"
+          "name": "Bebu Silvetti",
+          "url": "https://open.spotify.com/artist/4KZwQdGgLn54iXbmFEN8WJ"
         }
       ],
-      "duration_ms": 220240,
-      "name": "Sleepy Shores",
-      "url": "https://open.spotify.com/track/4do1i6WwxBCnponPtzbLUh"
+      "duration_ms": 353680,
+      "name": "Lluvia de Primavera",
+      "url": "https://open.spotify.com/track/6zbtxndjT0ZXejFfWxp7Ve"
     },
     {
       "added_at": "2020-12-08 19:02:01",
@@ -855,6 +839,22 @@
       "duration_ms": 172266,
       "name": "Dolannes m\u00e9lodie",
       "url": "https://open.spotify.com/track/7qqnQFC8rnyCOhfd4DTWzO"
+    },
+    {
+      "added_at": "2020-12-08 19:02:01",
+      "album": {
+        "name": "Kpm 1000 Series: Gentle Sounds - Volume 2",
+        "url": "https://open.spotify.com/album/1XL9bkiNGA0pj3EUvLTkh2"
+      },
+      "artists": [
+        {
+          "name": "Johnny Pearson",
+          "url": "https://open.spotify.com/artist/3ItwpBXTw2W7w62jKwHqGD"
+        }
+      ],
+      "duration_ms": 220240,
+      "name": "Sleepy Shores",
+      "url": "https://open.spotify.com/track/4do1i6WwxBCnponPtzbLUh"
     },
     {
       "added_at": "2020-12-08 19:02:01",
@@ -891,6 +891,22 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
+        "name": "101% Cine",
+        "url": "https://open.spotify.com/album/7y5whpEfDAmeWKA9RJZqsa"
+      },
+      "artists": [
+        {
+          "name": "Sounds Unlimited",
+          "url": "https://open.spotify.com/artist/7rPQaO8pCTGS9N9vPlieel"
+        }
+      ],
+      "duration_ms": 131255,
+      "name": "P\u00eddele Al Tiempo Que Vuelva",
+      "url": "https://open.spotify.com/track/0U6KQih3QzcFXPTZhBbA4T"
+    },
+    {
+      "added_at": "2020-12-08 19:02:01",
+      "album": {
         "name": "14 Estelares",
         "url": "https://open.spotify.com/album/5qdfgUX0wfynSt3xW15lT5"
       },
@@ -903,22 +919,6 @@
       "duration_ms": 197093,
       "name": "Il",
       "url": "https://open.spotify.com/track/0izjzd0NlwUtigcgk8DyHg"
-    },
-    {
-      "added_at": "2020-12-08 19:02:01",
-      "album": {
-        "name": "La Fiesta Mexicana de Pepe Jaramillo",
-        "url": "https://open.spotify.com/album/1TlhMhPjDehaKKimK6BabM"
-      },
-      "artists": [
-        {
-          "name": "Pepe Jaramillo",
-          "url": "https://open.spotify.com/artist/4op0Vv2745lhZU9Mqxamh0"
-        }
-      ],
-      "duration_ms": 111200,
-      "name": "Capullito de Alel\u00ed",
-      "url": "https://open.spotify.com/track/3A1nSG1uFKrpTkyTFF9cW6"
     },
     {
       "added_at": "2020-12-08 19:02:01",
@@ -939,18 +939,18 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
-        "name": "101% Cine",
-        "url": "https://open.spotify.com/album/7y5whpEfDAmeWKA9RJZqsa"
+        "name": "La Fiesta Mexicana de Pepe Jaramillo",
+        "url": "https://open.spotify.com/album/1TlhMhPjDehaKKimK6BabM"
       },
       "artists": [
         {
-          "name": "Sounds Unlimited",
-          "url": "https://open.spotify.com/artist/7rPQaO8pCTGS9N9vPlieel"
+          "name": "Pepe Jaramillo",
+          "url": "https://open.spotify.com/artist/4op0Vv2745lhZU9Mqxamh0"
         }
       ],
-      "duration_ms": 131255,
-      "name": "P\u00eddele Al Tiempo Que Vuelva",
-      "url": "https://open.spotify.com/track/0U6KQih3QzcFXPTZhBbA4T"
+      "duration_ms": 111200,
+      "name": "Capullito de Alel\u00ed",
+      "url": "https://open.spotify.com/track/3A1nSG1uFKrpTkyTFF9cW6"
     },
     {
       "added_at": "2020-12-08 19:02:01",
@@ -1263,22 +1263,6 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
-        "name": "Blue Navajo",
-        "url": "https://open.spotify.com/album/5KYZtxIJAEFc4ahwgtptQQ"
-      },
-      "artists": [
-        {
-          "name": "Gheorghe Zamfir",
-          "url": "https://open.spotify.com/artist/12FFWdcxApUNXV9TljwDpT"
-        }
-      ],
-      "duration_ms": 213617,
-      "name": "Blue Navajo",
-      "url": "https://open.spotify.com/track/3aMkSlWZcFMwfXYGIskbkK"
-    },
-    {
-      "added_at": "2020-12-08 19:02:01",
-      "album": {
         "name": "Danke Schoen - Helmut Zacharias",
         "url": "https://open.spotify.com/album/56xiaYPiMFdZhgSrDVHV3y"
       },
@@ -1291,6 +1275,22 @@
       "duration_ms": 145800,
       "name": "Claire",
       "url": "https://open.spotify.com/track/0SPiPaxXopuqHmU4Z8G2l7"
+    },
+    {
+      "added_at": "2020-12-08 19:02:01",
+      "album": {
+        "name": "Blue Navajo",
+        "url": "https://open.spotify.com/album/5KYZtxIJAEFc4ahwgtptQQ"
+      },
+      "artists": [
+        {
+          "name": "Gheorghe Zamfir",
+          "url": "https://open.spotify.com/artist/12FFWdcxApUNXV9TljwDpT"
+        }
+      ],
+      "duration_ms": 213617,
+      "name": "Blue Navajo",
+      "url": "https://open.spotify.com/track/3aMkSlWZcFMwfXYGIskbkK"
     },
     {
       "added_at": "2020-12-08 19:02:01",
@@ -1311,22 +1311,6 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
-        "name": "Rhythms Of The World",
-        "url": "https://open.spotify.com/album/0DwuVrXDfEN8qhaLRv5Bfn"
-      },
-      "artists": [
-        {
-          "name": "Van McCoy",
-          "url": "https://open.spotify.com/artist/0bShb58TO0fM5jOjXhB1WT"
-        }
-      ],
-      "duration_ms": 257633,
-      "name": "The Shuffle",
-      "url": "https://open.spotify.com/track/4KbNSEkFUqFVUMX9Js85ty"
-    },
-    {
-      "added_at": "2020-12-08 19:02:01",
-      "album": {
         "name": "Born Losers",
         "url": "https://open.spotify.com/album/2O0v7b7SRw2YH2vRjaLVKx"
       },
@@ -1339,6 +1323,22 @@
       "duration_ms": 121333,
       "name": "Billy Jack's Theme",
       "url": "https://open.spotify.com/track/7pKZJRGVFqoiqWHA0KvAk7"
+    },
+    {
+      "added_at": "2020-12-08 19:02:01",
+      "album": {
+        "name": "Rhythms Of The World",
+        "url": "https://open.spotify.com/album/0DwuVrXDfEN8qhaLRv5Bfn"
+      },
+      "artists": [
+        {
+          "name": "Van McCoy",
+          "url": "https://open.spotify.com/artist/0bShb58TO0fM5jOjXhB1WT"
+        }
+      ],
+      "duration_ms": 257633,
+      "name": "The Shuffle",
+      "url": "https://open.spotify.com/track/4KbNSEkFUqFVUMX9Js85ty"
     },
     {
       "added_at": "2020-12-08 19:02:01",
@@ -1651,22 +1651,6 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
-        "name": "20 Golden Greats",
-        "url": "https://open.spotify.com/album/1pOphleD93KH6r6l8pRvgu"
-      },
-      "artists": [
-        {
-          "name": "The Shadows",
-          "url": "https://open.spotify.com/artist/03hfAxVdAWj7kxDnSG0fLD"
-        }
-      ],
-      "duration_ms": 168053,
-      "name": "Atlantis",
-      "url": "https://open.spotify.com/track/1ugrQvWlb6fepRAIVOgu1C"
-    },
-    {
-      "added_at": "2020-12-08 19:02:01",
-      "album": {
         "name": "Celebration: A Musical Journey",
         "url": "https://open.spotify.com/album/6U8hr5BSTpYqSMmih29HpO"
       },
@@ -1679,6 +1663,22 @@
       "duration_ms": 213626,
       "name": "Promise Of A Fisherman (Promessa De Pescador)",
       "url": "https://open.spotify.com/track/2nOAhdgtLa0o075vKRe9op"
+    },
+    {
+      "added_at": "2020-12-08 19:02:01",
+      "album": {
+        "name": "20 Golden Greats",
+        "url": "https://open.spotify.com/album/1pOphleD93KH6r6l8pRvgu"
+      },
+      "artists": [
+        {
+          "name": "The Shadows",
+          "url": "https://open.spotify.com/artist/03hfAxVdAWj7kxDnSG0fLD"
+        }
+      ],
+      "duration_ms": 168053,
+      "name": "Atlantis",
+      "url": "https://open.spotify.com/track/1ugrQvWlb6fepRAIVOgu1C"
     },
     {
       "added_at": "2020-12-08 19:02:01",
@@ -1747,22 +1747,6 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
-        "name": "Taboo 2: New Exotic Sounds of Arthur Lyman",
-        "url": "https://open.spotify.com/album/4QQrUheyVPgbSgnW3QCh5T"
-      },
-      "artists": [
-        {
-          "name": "Arthur Lyman",
-          "url": "https://open.spotify.com/artist/4UAjW7ABQfMm5F88xCtQln"
-        }
-      ],
-      "duration_ms": 128066,
-      "name": "Taboo Tu",
-      "url": "https://open.spotify.com/track/7tmHTrXjolQZbD0qxLWn9Y"
-    },
-    {
-      "added_at": "2020-12-08 19:02:01",
-      "album": {
         "name": "Happy Time Cha Chas",
         "url": "https://open.spotify.com/album/7LbPRspn8h5NedA4QCkJPb"
       },
@@ -1775,6 +1759,22 @@
       "duration_ms": 175960,
       "name": "Too Young",
       "url": "https://open.spotify.com/track/4xA82yaxvwY4AbhxSlurst"
+    },
+    {
+      "added_at": "2020-12-08 19:02:01",
+      "album": {
+        "name": "Taboo 2: New Exotic Sounds of Arthur Lyman",
+        "url": "https://open.spotify.com/album/4QQrUheyVPgbSgnW3QCh5T"
+      },
+      "artists": [
+        {
+          "name": "Arthur Lyman",
+          "url": "https://open.spotify.com/artist/4UAjW7ABQfMm5F88xCtQln"
+        }
+      ],
+      "duration_ms": 128066,
+      "name": "Taboo Tu",
+      "url": "https://open.spotify.com/track/7tmHTrXjolQZbD0qxLWn9Y"
     },
     {
       "added_at": "2020-12-08 19:02:01",

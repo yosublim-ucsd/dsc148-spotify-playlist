@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBXtbGSCurj.md) - [plain]
 
 > O Trap brasileiro puro ouro, entre lançamentos e hits\. Foto: MC Caverinha, KayBlack
 
-[Spotify](https://open.spotify.com/user/spotify) - 356,489 likes - 75 songs - 3 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 357,045 likes - 75 songs - 3 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBXtbGSCurj.md) - [plain]
 | 11 | [TE ENCONTREI](https://open.spotify.com/track/5H3m39zgDfXU2bFVA3e2YQ) | [MC Cabelinho](https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [Dallass](https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv) | [LITTLE LOVE \(DELUXE\)](https://open.spotify.com/album/63yWnhCdUQQBhtQFGM108I) | 2:24 |
 | 12 | [Motor](https://open.spotify.com/track/2NeCzvtURdGehud3qHsvaF) | [Raffa Moreira](https://open.spotify.com/artist/4xUawweuqhjMvoScRGbveR), [Luccas Carlos](https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy) | [Motor](https://open.spotify.com/album/50mSvzbbn5zyjS9bwTKU5N) | 2:38 |
 | 13 | [Dama de Vermelho](https://open.spotify.com/track/7JCd1CnqOfGAYjRiSFtzKE) | [Menor MC](https://open.spotify.com/artist/78Y1NpgD0yMKoBetaYlUzS), [Gree Cassua](https://open.spotify.com/artist/2TXfWr90cpiyJ1MHrwsjnQ) | [Dama de Vermelho](https://open.spotify.com/album/2pksnUtr8DU9I6ufkHLh1V) | 2:42 |
-| 14 | [SEMPRE TRAVADO](https://open.spotify.com/track/3mYblXOntVWfzRccFzQemi) | [Derek](https://open.spotify.com/artist/4Y0VwRwAOyJutxoVpPX4td), [TTF](https://open.spotify.com/artist/7DNHbtTJPNfl3TsTCbJN56) | [SEMPRE TRAVADO](https://open.spotify.com/album/1FRMcQix0gOchwfR1Y2LBF) | 1:45 |
+| 14 | [SEMPRE TRAVADO](https://open.spotify.com/track/3mYblXOntVWfzRccFzQemi) | [Derek](https://open.spotify.com/artist/4Y0VwRwAOyJutxoVpPX4td), [TTF](https://open.spotify.com/artist/71YqA2qY3ZzGdPAEOf4k7A) | [SEMPRE TRAVADO](https://open.spotify.com/album/1FRMcQix0gOchwfR1Y2LBF) | 1:45 |
 | 15 | [Uber](https://open.spotify.com/track/3e9jL8tQI1JyBQgaXYFwUb) | [Ryu, the Runner](https://open.spotify.com/artist/1ZzJx2AgPmbnOE6OXhnn5K), [Mateca](https://open.spotify.com/artist/6PCKJU7fu36U4fRl7354wU), [Trap Select](https://open.spotify.com/artist/1VlNGdzvBRtCDPi18GuX91) | [Uber](https://open.spotify.com/album/1Uf5qg0DF4xGCl2JYKz2Ae) | 2:37 |
 | 16 | [No Topo](https://open.spotify.com/track/5ZvH8gZcSbJ2zYkoJSafJv) | [Maru2D](https://open.spotify.com/artist/5tD6GvZxVpZxHRjSaQuj36), [DJ LN](https://open.spotify.com/artist/1ctyN6vk4nSFNwStdXUVET), [NADAMAL](https://open.spotify.com/artist/3YVxmhkewoRHu8WFgWlCb7) | [No Topo](https://open.spotify.com/album/2Tq9t0VdZmmw6DO8HXJlDv) | 3:00 |
 | 17 | [Ai Calica](https://open.spotify.com/track/0XoZIz7YdOXRyvVTk9U1B5) | [Boca](https://open.spotify.com/artist/7DM9mUj11mLXmrtgw8YxaX), [Xamã](https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf), [MC Maneirinho](https://open.spotify.com/artist/3M8aD9XWxfel3jZakRbibZ), [Kiaz](https://open.spotify.com/artist/6Ae0wz09vBFYZXJ2bJAKUl), [KayBlack](https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy), [AJ Wav](https://open.spotify.com/artist/7zVUKHKN1NSVZx7LMsG3B8) | [Ai Calica](https://open.spotify.com/album/2GwJhgSrxhdleGeLMQ7Cb2) | 3:30 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBXtbGSCurj.md) - [plain]
 | 74 | [Fim de Semana no Rio](https://open.spotify.com/track/7afaZ37wJJL6880z1NRgJS) | [Teto](https://open.spotify.com/artist/68YeXpLt3jB7JHQS5ZjMGo) | [Fim de Semana no Rio](https://open.spotify.com/album/02q2gOT5jYZN9fXLPFxy9S) | 2:45 |
 | 75 | [Isso Que É Bom](https://open.spotify.com/track/2LUj933qs4IEFzSLLS9aJS) | [Alee](https://open.spotify.com/artist/6rk6Izp6o42fUdE0jRqAP4), [Hash Produções](https://open.spotify.com/artist/4BZ0ACrHCLropCpHJypPvV) | [Isso Que É Bom](https://open.spotify.com/album/5FtV4axHZhRLHjT33tpaMk) | 2:35 |
 
-Snapshot ID: `MCw2MjJlNDg5NzJhOWVhNDY4NGY1Zjg5ZDA0YjZmNDliZWZkZmU0NTQ1`
+Snapshot ID: `MCxhNjNiNzNhN2NhMzRiMTkxYTlmMWFlZmZjYmJjNTViNmJjYjhjZjBl`

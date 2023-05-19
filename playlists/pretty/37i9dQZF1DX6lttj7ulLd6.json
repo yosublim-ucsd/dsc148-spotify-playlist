@@ -1,12 +1,12 @@
 {
   "description": "Instrumental Smooth Jazz for relaxing.",
-  "num_followers": 109955,
+  "num_followers": 110359,
   "original_name": "Smooth Jazz Chill",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1MzdjMjg2ZmZmNmQ1NTZmNmFiOGYxNmEzY2MyOWM0YTJiYzg4MjU5",
+  "snapshot_id": "MCxiMDUxNDlkNzk3ZWY4ZjI1ZDZjYWExYTk5NmJlMDAzNGMxMzBlZDNi",
   "tracks": [
     {
       "added_at": "2023-05-11 22:01:00",
@@ -575,6 +575,22 @@
     {
       "added_at": "2023-05-11 22:01:00",
       "album": {
+        "name": "Battery Park",
+        "url": "https://open.spotify.com/album/1Lh2EnOd11OTV64zqIUAlq"
+      },
+      "artists": [
+        {
+          "name": "Zacky Yazz",
+          "url": "https://open.spotify.com/artist/3qZwUpVBI4DWCRHrAc9sLv"
+        }
+      ],
+      "duration_ms": 144729,
+      "name": "Battery Park",
+      "url": "https://open.spotify.com/track/4eT8pcYWhhcGST01XuzcKp"
+    },
+    {
+      "added_at": "2023-05-11 22:01:00",
+      "album": {
         "name": "Surrender",
         "url": "https://open.spotify.com/album/11cJrPEgWk8xpK8MqRegfd"
       },
@@ -623,22 +639,6 @@
       "duration_ms": 309826,
       "name": "Revelation Of The Heart",
       "url": "https://open.spotify.com/track/6aYepV7d90JzmFI4sJLYfv"
-    },
-    {
-      "added_at": "2023-05-11 22:01:00",
-      "album": {
-        "name": "Battery Park",
-        "url": "https://open.spotify.com/album/1Lh2EnOd11OTV64zqIUAlq"
-      },
-      "artists": [
-        {
-          "name": "Zacky Yazz",
-          "url": "https://open.spotify.com/artist/3qZwUpVBI4DWCRHrAc9sLv"
-        }
-      ],
-      "duration_ms": 144729,
-      "name": "Battery Park",
-      "url": "https://open.spotify.com/track/4eT8pcYWhhcGST01XuzcKp"
     },
     {
       "added_at": "2023-05-11 22:01:00",
@@ -707,22 +707,6 @@
     {
       "added_at": "2023-05-11 22:01:00",
       "album": {
-        "name": "Still Euge",
-        "url": "https://open.spotify.com/album/6gf9Ao9Aj6I96lgqVAzMDg"
-      },
-      "artists": [
-        {
-          "name": "Euge Groove",
-          "url": "https://open.spotify.com/artist/05UwRaoOjJPuGzCtawrORF"
-        }
-      ],
-      "duration_ms": 371773,
-      "name": "Love, Passion And Joy",
-      "url": "https://open.spotify.com/track/61vLZ0obeH8oxz68RVOQNY"
-    },
-    {
-      "added_at": "2023-05-11 22:01:00",
-      "album": {
         "name": "Le Marais",
         "url": "https://open.spotify.com/album/22sl7yPsMf22tDnbRwijjT"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 207416,
       "name": "Le Marais",
       "url": "https://open.spotify.com/track/61VdFwwPfRbgvPiVe1gQjJ"
+    },
+    {
+      "added_at": "2023-05-11 22:01:00",
+      "album": {
+        "name": "Still Euge",
+        "url": "https://open.spotify.com/album/6gf9Ao9Aj6I96lgqVAzMDg"
+      },
+      "artists": [
+        {
+          "name": "Euge Groove",
+          "url": "https://open.spotify.com/artist/05UwRaoOjJPuGzCtawrORF"
+        }
+      ],
+      "duration_ms": 371773,
+      "name": "Love, Passion And Joy",
+      "url": "https://open.spotify.com/track/61vLZ0obeH8oxz68RVOQNY"
     },
     {
       "added_at": "2023-05-11 22:01:00",
@@ -803,22 +803,6 @@
     {
       "added_at": "2023-05-11 22:01:00",
       "album": {
-        "name": "Traveler",
-        "url": "https://open.spotify.com/album/4lzJh3SkKDEPIwkYZmfsdO"
-      },
-      "artists": [
-        {
-          "name": "Andy Snitzer",
-          "url": "https://open.spotify.com/artist/6FaR0vA7ulJTJ1a4BRlJt7"
-        }
-      ],
-      "duration_ms": 311322,
-      "name": "Marseille",
-      "url": "https://open.spotify.com/track/02zUl7lBXXNJk7JGu9YIId"
-    },
-    {
-      "added_at": "2023-05-11 22:01:00",
-      "album": {
         "name": "Porch Java",
         "url": "https://open.spotify.com/album/4sM3uDXvdN0qZ3KIrtVGGY"
       },
@@ -831,6 +815,22 @@
       "duration_ms": 215435,
       "name": "Porch Java",
       "url": "https://open.spotify.com/track/11m6UgxZF4ZfDQ50eN9bYs"
+    },
+    {
+      "added_at": "2023-05-11 22:01:00",
+      "album": {
+        "name": "Traveler",
+        "url": "https://open.spotify.com/album/4lzJh3SkKDEPIwkYZmfsdO"
+      },
+      "artists": [
+        {
+          "name": "Andy Snitzer",
+          "url": "https://open.spotify.com/artist/6FaR0vA7ulJTJ1a4BRlJt7"
+        }
+      ],
+      "duration_ms": 311322,
+      "name": "Marseille",
+      "url": "https://open.spotify.com/track/02zUl7lBXXNJk7JGu9YIId"
     },
     {
       "added_at": "2023-05-11 22:01:00",
@@ -963,22 +963,6 @@
     {
       "added_at": "2023-05-11 22:01:00",
       "album": {
-        "name": "Under The Influence",
-        "url": "https://open.spotify.com/album/0F9VmgpDS1p5JYnVhBWLJC"
-      },
-      "artists": [
-        {
-          "name": "Kim Pensyl",
-          "url": "https://open.spotify.com/artist/7sbq6t503omImbup1N0VSN"
-        }
-      ],
-      "duration_ms": 305026,
-      "name": "A Short Walk From Home",
-      "url": "https://open.spotify.com/track/6wkDtZvIvfhlcBWUxROxfF"
-    },
-    {
-      "added_at": "2023-05-11 22:01:00",
-      "album": {
         "name": "Looking Up",
         "url": "https://open.spotify.com/album/7lHBtSn2hMlubVBTXn8e0y"
       },
@@ -991,6 +975,22 @@
       "duration_ms": 324213,
       "name": "Isabella",
       "url": "https://open.spotify.com/track/3auejP8jQXX4soeSvMCtqL"
+    },
+    {
+      "added_at": "2023-05-11 22:01:00",
+      "album": {
+        "name": "Under The Influence",
+        "url": "https://open.spotify.com/album/0F9VmgpDS1p5JYnVhBWLJC"
+      },
+      "artists": [
+        {
+          "name": "Kim Pensyl",
+          "url": "https://open.spotify.com/artist/7sbq6t503omImbup1N0VSN"
+        }
+      ],
+      "duration_ms": 305026,
+      "name": "A Short Walk From Home",
+      "url": "https://open.spotify.com/track/6wkDtZvIvfhlcBWUxROxfF"
     },
     {
       "added_at": "2023-05-11 22:01:00",
@@ -1079,22 +1079,6 @@
     {
       "added_at": "2023-05-11 22:01:00",
       "album": {
-        "name": "Keepin' It Cool",
-        "url": "https://open.spotify.com/album/3w9dctOHUxIF5YRVKycZD7"
-      },
-      "artists": [
-        {
-          "name": "Nick Colionne",
-          "url": "https://open.spotify.com/artist/2sCtM9BmF4hSfiwEwiAm5l"
-        }
-      ],
-      "duration_ms": 249226,
-      "name": "Always Thinkin' Of You",
-      "url": "https://open.spotify.com/track/4KmFtbORBU1svsFSKeA3iT"
-    },
-    {
-      "added_at": "2023-05-11 22:01:00",
-      "album": {
         "name": "Urban Knights III",
         "url": "https://open.spotify.com/album/1eFckepvnMBzHnqKaHFOGZ"
       },
@@ -1111,18 +1095,18 @@
     {
       "added_at": "2023-05-11 22:01:00",
       "album": {
-        "name": "Pleasure Seeker",
-        "url": "https://open.spotify.com/album/3ZoxqvIkwCbRQgnZVxxHzA"
+        "name": "Keepin' It Cool",
+        "url": "https://open.spotify.com/album/3w9dctOHUxIF5YRVKycZD7"
       },
       "artists": [
         {
-          "name": "Paul Taylor",
-          "url": "https://open.spotify.com/artist/3wBSOZFd5KLsEZ1yoVSICQ"
+          "name": "Nick Colionne",
+          "url": "https://open.spotify.com/artist/2sCtM9BmF4hSfiwEwiAm5l"
         }
       ],
-      "duration_ms": 259360,
-      "name": "Dry Your Eyes",
-      "url": "https://open.spotify.com/track/6Wz2T6KAS5rJsdiUEBOjFl"
+      "duration_ms": 249226,
+      "name": "Always Thinkin' Of You",
+      "url": "https://open.spotify.com/track/4KmFtbORBU1svsFSKeA3iT"
     },
     {
       "added_at": "2023-05-11 22:01:00",
@@ -1139,6 +1123,22 @@
       "duration_ms": 329346,
       "name": "Rozil",
       "url": "https://open.spotify.com/track/5UMFH7JvX5Mdt96XT6TzKG"
+    },
+    {
+      "added_at": "2023-05-11 22:01:00",
+      "album": {
+        "name": "Pleasure Seeker",
+        "url": "https://open.spotify.com/album/3ZoxqvIkwCbRQgnZVxxHzA"
+      },
+      "artists": [
+        {
+          "name": "Paul Taylor",
+          "url": "https://open.spotify.com/artist/3wBSOZFd5KLsEZ1yoVSICQ"
+        }
+      ],
+      "duration_ms": 259360,
+      "name": "Dry Your Eyes",
+      "url": "https://open.spotify.com/track/6Wz2T6KAS5rJsdiUEBOjFl"
     },
     {
       "added_at": "2023-05-11 22:01:00",
@@ -1187,6 +1187,22 @@
     {
       "added_at": "2023-05-11 22:01:00",
       "album": {
+        "name": "Looking Up",
+        "url": "https://open.spotify.com/album/7lHBtSn2hMlubVBTXn8e0y"
+      },
+      "artists": [
+        {
+          "name": "Gregg Karukas",
+          "url": "https://open.spotify.com/artist/5hmQC9wWiUuHCJNRZFBi2V"
+        }
+      ],
+      "duration_ms": 297493,
+      "name": "Show Me The Way",
+      "url": "https://open.spotify.com/track/5CwY4CG4zJ7XezlEnvnWoE"
+    },
+    {
+      "added_at": "2023-05-11 22:01:00",
+      "album": {
         "name": "Another Door Opens",
         "url": "https://open.spotify.com/album/5e8Y5tQ9WMOJBEHOHK6gDh"
       },
@@ -1231,22 +1247,6 @@
       "duration_ms": 216293,
       "name": "In The City Life",
       "url": "https://open.spotify.com/track/4l5uxmrBy57ccTRyF8K1lJ"
-    },
-    {
-      "added_at": "2023-05-11 22:01:00",
-      "album": {
-        "name": "Looking Up",
-        "url": "https://open.spotify.com/album/7lHBtSn2hMlubVBTXn8e0y"
-      },
-      "artists": [
-        {
-          "name": "Gregg Karukas",
-          "url": "https://open.spotify.com/artist/5hmQC9wWiUuHCJNRZFBi2V"
-        }
-      ],
-      "duration_ms": 297493,
-      "name": "Show Me The Way",
-      "url": "https://open.spotify.com/track/5CwY4CG4zJ7XezlEnvnWoE"
     },
     {
       "added_at": "2023-05-11 22:01:00",
@@ -1331,26 +1331,6 @@
     {
       "added_at": "2023-05-11 22:01:00",
       "album": {
-        "name": "Just What You Need",
-        "url": "https://open.spotify.com/album/7bUsoIHRz3zFdeJeBGhg1z"
-      },
-      "artists": [
-        {
-          "name": "Brian Simpson",
-          "url": "https://open.spotify.com/artist/4uIdP3jwyR0xifCS2FYS3o"
-        },
-        {
-          "name": "Jonathan Butler",
-          "url": "https://open.spotify.com/artist/5gl2M2G5Dn5XTEW30iMMoD"
-        }
-      ],
-      "duration_ms": 277437,
-      "name": "Wherever You Go",
-      "url": "https://open.spotify.com/track/621sF1DBkZAr5mtbtjE8El"
-    },
-    {
-      "added_at": "2023-05-11 22:01:00",
-      "album": {
         "name": "Can't Stop Now",
         "url": "https://open.spotify.com/album/7ro6nLa2rGHaq4muoXPSJF"
       },
@@ -1367,6 +1347,26 @@
       "duration_ms": 245933,
       "name": "Kimi Trick",
       "url": "https://open.spotify.com/track/1ouzK9gIxLEADwHlL97nPv"
+    },
+    {
+      "added_at": "2023-05-11 22:01:00",
+      "album": {
+        "name": "Just What You Need",
+        "url": "https://open.spotify.com/album/7bUsoIHRz3zFdeJeBGhg1z"
+      },
+      "artists": [
+        {
+          "name": "Brian Simpson",
+          "url": "https://open.spotify.com/artist/4uIdP3jwyR0xifCS2FYS3o"
+        },
+        {
+          "name": "Jonathan Butler",
+          "url": "https://open.spotify.com/artist/5gl2M2G5Dn5XTEW30iMMoD"
+        }
+      ],
+      "duration_ms": 277437,
+      "name": "Wherever You Go",
+      "url": "https://open.spotify.com/track/621sF1DBkZAr5mtbtjE8El"
     },
     {
       "added_at": "2023-05-11 22:01:00",
@@ -1439,22 +1439,6 @@
     {
       "added_at": "2023-05-11 22:01:00",
       "album": {
-        "name": "It's All Good",
-        "url": "https://open.spotify.com/album/6nBoSSW00HlPus31F5CZYr"
-      },
-      "artists": [
-        {
-          "name": "Brian Simpson",
-          "url": "https://open.spotify.com/artist/4uIdP3jwyR0xifCS2FYS3o"
-        }
-      ],
-      "duration_ms": 277840,
-      "name": "Saturday Cool",
-      "url": "https://open.spotify.com/track/7gqQ4b0NnmlLoN2Hp8SkjK"
-    },
-    {
-      "added_at": "2023-05-11 22:01:00",
-      "album": {
         "name": "Bliss",
         "url": "https://open.spotify.com/album/6HSCZiP4hxorBB2gOIQlxe"
       },
@@ -1487,6 +1471,22 @@
     {
       "added_at": "2023-05-11 22:01:00",
       "album": {
+        "name": "It's All Good",
+        "url": "https://open.spotify.com/album/6nBoSSW00HlPus31F5CZYr"
+      },
+      "artists": [
+        {
+          "name": "Brian Simpson",
+          "url": "https://open.spotify.com/artist/4uIdP3jwyR0xifCS2FYS3o"
+        }
+      ],
+      "duration_ms": 277840,
+      "name": "Saturday Cool",
+      "url": "https://open.spotify.com/track/7gqQ4b0NnmlLoN2Hp8SkjK"
+    },
+    {
+      "added_at": "2023-05-11 22:01:00",
+      "album": {
         "name": "Celebration",
         "url": "https://open.spotify.com/album/017sfmPLIwMa1r0hpgDnLy"
       },
@@ -1503,38 +1503,6 @@
     {
       "added_at": "2023-05-11 22:01:00",
       "album": {
-        "name": "Smooth Creations the Album, Pt. 1",
-        "url": "https://open.spotify.com/album/5NRxQH0cNTSE9JsssWVYDI"
-      },
-      "artists": [
-        {
-          "name": "Jeffery Smith",
-          "url": "https://open.spotify.com/artist/7CW9qPfjuZqNDJsJqT9iM2"
-        }
-      ],
-      "duration_ms": 376000,
-      "name": "Let's Get It Started",
-      "url": "https://open.spotify.com/track/27ALXHt5hgiu3iAUyStMcx"
-    },
-    {
-      "added_at": "2023-05-11 22:01:00",
-      "album": {
-        "name": "It's All Good",
-        "url": "https://open.spotify.com/album/6nBoSSW00HlPus31F5CZYr"
-      },
-      "artists": [
-        {
-          "name": "Brian Simpson",
-          "url": "https://open.spotify.com/artist/4uIdP3jwyR0xifCS2FYS3o"
-        }
-      ],
-      "duration_ms": 257373,
-      "name": "Here With You",
-      "url": "https://open.spotify.com/track/1c9sIJVZwmLisjzlFav2Ff"
-    },
-    {
-      "added_at": "2023-05-11 22:01:00",
-      "album": {
         "name": "Jumpin' Off",
         "url": "https://open.spotify.com/album/5wQf2a11tk7gJcx6GKfCt2"
       },
@@ -1547,6 +1515,22 @@
       "duration_ms": 325800,
       "name": "All Night",
       "url": "https://open.spotify.com/track/5JNqVpVLKBTo5agOdgh5rO"
+    },
+    {
+      "added_at": "2023-05-11 22:01:00",
+      "album": {
+        "name": "Smooth Creations the Album, Pt. 1",
+        "url": "https://open.spotify.com/album/5NRxQH0cNTSE9JsssWVYDI"
+      },
+      "artists": [
+        {
+          "name": "Jeffery Smith",
+          "url": "https://open.spotify.com/artist/7CW9qPfjuZqNDJsJqT9iM2"
+        }
+      ],
+      "duration_ms": 376000,
+      "name": "Let's Get It Started",
+      "url": "https://open.spotify.com/track/27ALXHt5hgiu3iAUyStMcx"
     },
     {
       "added_at": "2023-05-11 22:01:00",
@@ -1599,6 +1583,22 @@
     {
       "added_at": "2023-05-11 22:01:00",
       "album": {
+        "name": "It's All Good",
+        "url": "https://open.spotify.com/album/6nBoSSW00HlPus31F5CZYr"
+      },
+      "artists": [
+        {
+          "name": "Brian Simpson",
+          "url": "https://open.spotify.com/artist/4uIdP3jwyR0xifCS2FYS3o"
+        }
+      ],
+      "duration_ms": 257373,
+      "name": "Here With You",
+      "url": "https://open.spotify.com/track/1c9sIJVZwmLisjzlFav2Ff"
+    },
+    {
+      "added_at": "2023-05-11 22:01:00",
+      "album": {
         "name": "Jazzmasters: The Greatest Hits",
         "url": "https://open.spotify.com/album/265KYdkbI8k2CMPqeOAJoZ"
       },
@@ -1631,22 +1631,6 @@
     {
       "added_at": "2023-05-11 22:01:00",
       "album": {
-        "name": "The Catwalk",
-        "url": "https://open.spotify.com/album/5AjtdeM07zySmIaIkVrHoC"
-      },
-      "artists": [
-        {
-          "name": "Peter Olyni Jr.",
-          "url": "https://open.spotify.com/artist/5HI6ncFklodHRqtdX7EFgO"
-        }
-      ],
-      "duration_ms": 207812,
-      "name": "The Catwalk",
-      "url": "https://open.spotify.com/track/2XILqKv1KhGeVDh7HoDBkR"
-    },
-    {
-      "added_at": "2023-05-11 22:01:00",
-      "album": {
         "name": "Influences",
         "url": "https://open.spotify.com/album/1hbsoh6rcNrxngTQwAi1gR"
       },
@@ -1659,6 +1643,22 @@
       "duration_ms": 264440,
       "name": "When You Love Somebody",
       "url": "https://open.spotify.com/track/3sUlkxJZ3KtHFFuNo8Yhdt"
+    },
+    {
+      "added_at": "2023-05-11 22:01:00",
+      "album": {
+        "name": "The Catwalk",
+        "url": "https://open.spotify.com/album/5AjtdeM07zySmIaIkVrHoC"
+      },
+      "artists": [
+        {
+          "name": "Peter Olyni Jr.",
+          "url": "https://open.spotify.com/artist/5HI6ncFklodHRqtdX7EFgO"
+        }
+      ],
+      "duration_ms": 207812,
+      "name": "The Catwalk",
+      "url": "https://open.spotify.com/track/2XILqKv1KhGeVDh7HoDBkR"
     }
   ],
   "unique_name": "Smooth Jazz Chill",

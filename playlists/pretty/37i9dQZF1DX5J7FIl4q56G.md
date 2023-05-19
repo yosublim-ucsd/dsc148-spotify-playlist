@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 
 > This week's best new metal tracks\. Cover: Conquer Divide
 
-[Spotify](https://open.spotify.com/user/spotify) - 686,037 likes - 73 songs - 4 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 686,220 likes - 73 songs - 4 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,4 +82,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 | 72 | [Comedy/Tragedy](https://open.spotify.com/track/5zddpWxyNLiVkFhVR2CFAp) | [The Last Martyr](https://open.spotify.com/artist/2yHEL3jTfxCw85mI0hWqNf) | [Comedy/Tragedy](https://open.spotify.com/album/0k6v1hTvNhmjeC9vydlink) | 3:05 |
 | 73 | [Solarpunk](https://open.spotify.com/track/5UsZvtdFr2XU48maI88T44) | [Dweller](https://open.spotify.com/artist/40vvbBsbrvP1td0kwsI9GK) | [Solarpunk](https://open.spotify.com/album/7fWaWsnzChoXUPtAQeHthc) | 3:18 |
 
-Snapshot ID: `MCxkNzBhYzU2YmExYjJjMWQyOTRlZGM5ZDlkYTdhNDVkNmVjYjQ0OTJi`
+Snapshot ID: `MCwxMmQ4MjVmODYyOGE1OTk2MzU3NTIxZDEyOWQ2OTU0ZDE2YzQ2MWI2`

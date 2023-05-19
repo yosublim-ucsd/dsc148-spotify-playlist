@@ -3612,7 +3612,7 @@
       ],
       "date_added": "2023-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 193462,
       "name": "Como Te Pago",
       "url": "https://open.spotify.com/track/4lkbBBumrQF1SDhQkqs0Y3"
@@ -5684,7 +5684,7 @@
       ],
       "date_added": "2023-05-09",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-17",
+      "date_removed": null,
       "duration_ms": 166356,
       "name": "El Guty - Grupo Mente Maestra",
       "url": "https://open.spotify.com/track/1W9PsA33ZMpTM3nRwpPPqn"
@@ -10724,7 +10724,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 184240,
       "name": "Mam\u00e1",
       "url": "https://open.spotify.com/track/7B7HM8ZdsnhmRWc2HlzmzK"
@@ -11262,7 +11262,7 @@
       ],
       "date_added": "2023-05-16",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-18",
+      "date_removed": null,
       "duration_ms": 168074,
       "name": "Mejor As\u00ed",
       "url": "https://open.spotify.com/track/0lmmvf2eUzkjNlDWctEibC"
@@ -15743,6 +15743,28 @@
     },
     {
       "album": {
+        "name": "Recargado en la Barra",
+        "url": "https://open.spotify.com/album/4tslxlkmtGKJ5ciJwXzZXm"
+      },
+      "artists": [
+        {
+          "name": "Los Parras",
+          "url": "https://open.spotify.com/artist/1mXD3HVrObKWyjMvRjfsXp"
+        },
+        {
+          "name": "ADA OLEA",
+          "url": "https://open.spotify.com/artist/5kLS1HpKVb6HbflVCgu6bz"
+        }
+      ],
+      "date_added": "2023-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201340,
+      "name": "Recargado en la Barra",
+      "url": "https://open.spotify.com/track/4JiSFuXMGUqvUR9bViWdk1"
+    },
+    {
+      "album": {
         "name": "Recordando",
         "url": "https://open.spotify.com/album/2Bc9ctS6YiXj2opAQxkJjy"
       },
@@ -16542,7 +16564,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 183213,
       "name": "Se\u00f1ora... Se\u00f1ora... Se\u00f1ora",
       "url": "https://open.spotify.com/track/1gpnjVCS2P9BPug3FvHpgW"

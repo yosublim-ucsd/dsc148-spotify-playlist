@@ -4,7 +4,7 @@
 
 > Let these happy tunes put a smile on your face\. Cover \- Dear Zindagi
 
-123 songs - 7 hr 49 min
+124 songs - 7 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,6 +13,7 @@
 | [Aashiyan](https://open.spotify.com/track/7ttlemwytO21npSmLKqTBg) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy), [Nikhil Paul George](https://open.spotify.com/artist/7HHLBC9hUb55SDUcBlM8FQ) | [Barfi! \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2KZs4INik6X4KeZEsEWEm4) | 3:56 | 2022-03-09 | 2023-02-02 |
 | [Baazi](https://open.spotify.com/track/1vDK1yoxF0mOkckgDfPDj2) | [King](https://open.spotify.com/artist/5NHm4TU5Twz7owibYxJfFU) | [Baazi](https://open.spotify.com/album/2jAqinyiQvDkTg8zFynNEs) | 3:28 | 2022-05-13 | 2023-02-11 |
 | [Befikra](https://open.spotify.com/track/06wTXKpDMrSp5OfB7MErpx) | [Meet Bros.](https://open.spotify.com/artist/0qpsFfOT3SmdGmnyV6rOhS), [Aditi Singh Sharma](https://open.spotify.com/artist/4iW4xSfMEIvrXM0Iu3aFDY), [Natalie Ram](https://open.spotify.com/artist/2kUxI9BlfC8j2cx2hdkPIj), [Thomson Andrews](https://open.spotify.com/artist/2m9a8Cd9J0l2ReAQ6kg8LB), [Keshia Braganza](https://open.spotify.com/artist/1MnwT7VlD8pJpdbPK49b2k), [Gwen Dias](https://open.spotify.com/artist/1MUIFyUKNBBDXNjkyrPzDP), [Ryan Dias](https://open.spotify.com/artist/4GchJyd4c9eakThZ0j4tCd) | [Befikra](https://open.spotify.com/album/0TUEWVhmKubH0dknaTOKLi) | 5:51 | 2022-03-09 |  |
+| [Befikriyan](https://open.spotify.com/track/2dMjKqJsj1xYzrLeEu5iNL) | [Palak Muchhal](https://open.spotify.com/artist/3yMmYEklQ7gLOZXEFNd3xr) | [Befikriyan](https://open.spotify.com/album/6tufWJgImGW1updsz8QWbF) | 3:02 | 2023-05-18 |  |
 | [Bom Diggy](https://open.spotify.com/track/7Dhy1R9NmD96wfr7VJEN37) | [Zack Knight](https://open.spotify.com/artist/7JMBJmGMqw4H33HECyW4QP), [Jasmin Walia](https://open.spotify.com/artist/4bWGzsNAtfPp8P7pSBukH8) | [Bom Diggy \- Single](https://open.spotify.com/album/1v41NSZw0M9A9GxHRvPpn2) | 3:27 | 2023-02-20 |  |
 | [Buddhu Sa Mann](https://open.spotify.com/track/1dxbiVeiV7nQ2V9qXnhJiB) | [Amaal Mallik](https://open.spotify.com/artist/76fuWYgIf3TVIopTs3vaJ6), [Armaan Malik](https://open.spotify.com/artist/4IKVDbCSBTxBeAsMKjAuTs) | [Kapoor & Sons \(Since 1921\) \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1teNu8WgSFQyNncvswvbAL) | 3:26 | 2022-03-09 |  |
 | [Buzz \(feat\. Badshah\)](https://open.spotify.com/track/3XYvdqcZrTmRntFDDbJkJd) | [Aastha Gill](https://open.spotify.com/artist/1BYjhAClGpBTLZfics0VRZ), [Badshah](https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1) | [Buzz \(feat\. Badshah\)](https://open.spotify.com/album/5cPn3sDy8jjN5gnA0n0kHd) | 3:13 | 2023-03-15 | 2023-04-20 |
@@ -130,6 +131,6 @@
 | [Woh Din \(From "Chhichhore"\)](https://open.spotify.com/track/6QPFWNUw9iGFZAXgqecunp) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [TUSHAR JOSHI](https://open.spotify.com/artist/324yz9K4ufBcGkcgUhTiHH) | [Woh Din \(From "Chhichhore"\)](https://open.spotify.com/album/6AO0pgr8j2uk3fQUmXR8lF) | 5:12 | 2022-03-09 |  |
 | [Yaara](https://open.spotify.com/track/0TVBV9UbyZWxELfzkCBLSP) | [Parashar Joshi](https://open.spotify.com/artist/7Bd5pUaYhC7HnLzgBAm0hr) | [Yaara](https://open.spotify.com/album/4HKTlVnLYqqJ0BOSVH3QQq) | 3:41 | 2023-02-13 | 2023-02-21 |
 | [Zinda Dili](https://open.spotify.com/track/1ZVM6nEcLkBQAawbYufNZI) | [Salim–Sulaiman](https://open.spotify.com/artist/6ohaQzKaXrobAL8paLSaxq), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw) | [Zinda Dili](https://open.spotify.com/album/7prHHqIuqWWhUCExOQP9Jq) | 3:59 | 2022-03-09 | 2023-02-11 |
-| [Zindagi Aa Raha Hoon Main](https://open.spotify.com/track/2I2NQ6nvVLKRHya5iB0rEB) | [Atif Aslam](https://open.spotify.com/artist/2oSONSC9zQ4UonDKnLqksx), [Amaal Mallik](https://open.spotify.com/artist/76fuWYgIf3TVIopTs3vaJ6) | [Zindagi Aa Raha Hoon Main](https://open.spotify.com/album/5MpTGWKK2LOba6aLCXVKrr) | 4:47 | 2022-03-09 |  |
+| [Zindagi Aa Raha Hoon Main](https://open.spotify.com/track/2I2NQ6nvVLKRHya5iB0rEB) | [Atif Aslam](https://open.spotify.com/artist/2oSONSC9zQ4UonDKnLqksx), [Amaal Mallik](https://open.spotify.com/artist/76fuWYgIf3TVIopTs3vaJ6) | [Zindagi Aa Raha Hoon Main](https://open.spotify.com/album/5MpTGWKK2LOba6aLCXVKrr) | 4:47 | 2022-03-09 | 2023-05-19 |
 
 \*This playlist was first scraped on 2022-04-30. Prior content cannot be recovered.

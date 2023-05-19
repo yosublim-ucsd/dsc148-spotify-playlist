@@ -4,7 +4,7 @@
 
 > Feel good with this positively timeless playlist!
 
-259 songs - 14 hr 27 min
+260 songs - 14 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,6 +13,7 @@
 | [\(What A\) Wonderful World](https://open.spotify.com/track/2g2GkH3vZHk4lWzBjgQ6nY) | [Sam Cooke](https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC) | [The Man Who Invented Soul](https://open.spotify.com/album/3Seie4YIVLWtPw2hQrouNY) | 2:05 | 2021-10-19 |  |
 | [\(You Make Me Feel Like\) A Natural Woman](https://open.spotify.com/track/5K09WxKdlkroDyEVyOSySy) | [Aretha Franklin](https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok) | [Lady Soul \(With Bonus Selections\)](https://open.spotify.com/album/7lEOKZaOpqP70UYqdLPejG) | 2:45 | 2021-10-19 |  |
 | [\(Your Love Keeps Lifting Me\) Higher & Higher](https://open.spotify.com/track/4TBBPZks71c60whhq0PgdP) | [Jackie Wilson](https://open.spotify.com/artist/4VnomLtKTm9Ahe1tZfmZju) | [The Ultimate Jackie Wilson](https://open.spotify.com/album/1NXxURGbIYbunQfXmChHAl) | 3:01 | 2021-10-19 |  |
+| [100 Days, 100 Nights](https://open.spotify.com/track/03PkUC7cfsjFERRSPxK0Eh) | [Sharon Jones & The Dap\-Kings](https://open.spotify.com/artist/6LufpoVlIYKQCu9Gjpk8B7) | [100 Days, 100 Nights](https://open.spotify.com/album/6GyF6sJs0yBOvVCVbYEK6V) | 3:45 | 2021-10-19 |  |
 | [100 Days, 100 Nights](https://open.spotify.com/track/69YW4FrGpsjzt9lr517bUz) | [Sharon Jones & The Dap\-Kings](https://open.spotify.com/artist/6LufpoVlIYKQCu9Gjpk8B7) | [100 Days, 100 Nights](https://open.spotify.com/album/5AaBCtOPHVJMYcDyLgu5BD) | 3:45 | 2021-10-19 | 2023-05-01 |
 | [100 Days, 100 Nights](https://open.spotify.com/track/5LWLVUBBCNYKPWOHDO0We7) | [Sharon Jones & The Dap\-Kings](https://open.spotify.com/artist/6LufpoVlIYKQCu9Gjpk8B7) | [100 Days, 100 Nights](https://open.spotify.com/album/47P2sPC5375ThPdCL4Dn6I) | 3:45 | 2021-10-19 | 2022-04-19 |
 | [ABC](https://open.spotify.com/track/01gwPP2h3ajRnqiIphUtR7) | [The Jackson 5](https://open.spotify.com/artist/2iE18Oxc8YSumAU232n4rW) | [Anthology: Jackson 5](https://open.spotify.com/album/0EwhxzV0N61hu3S3PkB2Ku) | 2:57 | 2021-10-19 |  |
@@ -233,7 +234,7 @@
 | [The Love I Lost \(feat\. Teddy Pendergrass\)](https://open.spotify.com/track/2sRlynMtS89ewDIh44qgVu) | [Harold Melvin & The Blue Notes](https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy), [Teddy Pendergrass](https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ) | [The Essential Harold Melvin & The Blue Notes \(feat\. Teddy Pendergrass\)](https://open.spotify.com/album/6B0BAhQBleEa0Nr7eYLTvN) | 6:23 | 2021-10-19 | 2022-07-29 |
 | [The Love I Lost \(feat\. Teddy Pendergrass\)](https://open.spotify.com/track/4mumFsUDQXpQts1Y7Zjw5H) | [Harold Melvin & The Blue Notes](https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy), [Teddy Pendergrass](https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ) | [Black & Blue \(Expanded Edition\) \(feat\. Teddy Pendergrass\)](https://open.spotify.com/album/13qcPLh0uGE0jlskyLLa1N) | 6:24 | 2021-10-19 |  |
 | [The Oogum Boogum Song](https://open.spotify.com/track/7fp41IDi1dqARoX0Nuvz5O) | [Brenton Wood](https://open.spotify.com/artist/6ohvzFHYmLd05kyYhLui5K) | [The Very Best Of](https://open.spotify.com/album/5KUvaRNaKNDxprs1RsHq4O) | 2:33 | 2021-10-19 |  |
-| [The Way That I Do](https://open.spotify.com/track/6Zx618hMvnGqGnQCSLXVbY) | [Durand Jones & The Indications](https://open.spotify.com/artist/6TVVIyd0fsRDGg6WzHKyTP), [Aaron Frazer](https://open.spotify.com/artist/4dwDVC6lrMINxVBxETE1AB) | [The Way That I Do](https://open.spotify.com/album/0zaFZVRFQoYDlrIwjzrJbz) | 3:30 | 2023-03-28 |  |
+| [The Way That I Do](https://open.spotify.com/track/6Zx618hMvnGqGnQCSLXVbY) | [Durand Jones & The Indications](https://open.spotify.com/artist/6TVVIyd0fsRDGg6WzHKyTP), [Aaron Frazer](https://open.spotify.com/artist/4dwDVC6lrMINxVBxETE1AB) | [The Way That I Do](https://open.spotify.com/album/0zaFZVRFQoYDlrIwjzrJbz) | 3:30 | 2023-03-28 | 2023-05-19 |
 | [The World \(Is Going Up In Flames\)](https://open.spotify.com/track/4u2KDCwcj8WGcFXDhy1aKL) | [Charles Bradley](https://open.spotify.com/artist/462T0buQ5ScBUQCRpodDRf), [Menahan Street Band](https://open.spotify.com/artist/1PryMSya1JnSAlcwYawCxp) | [No Time For Dreaming](https://open.spotify.com/album/1voX114Nwj9pSaXJ3xtXgb) | 3:22 | 2021-10-19 | 2022-04-20 |
 | [The World \(Is Going Up in Flames\)](https://open.spotify.com/track/6MQlNH8e6jG0LZg2mocK1R) | [Charles Bradley](https://open.spotify.com/artist/462T0buQ5ScBUQCRpodDRf), [Menahan Street Band](https://open.spotify.com/artist/1PryMSya1JnSAlcwYawCxp) | [No Time For Dreaming](https://open.spotify.com/album/6j1xh7WBOIVNekKFKFKbAp) | 3:22 | 2021-10-19 |  |
 | [The World \(Is Going Up in Flames\)](https://open.spotify.com/track/7a5xvCgoD8qFEQmO8Jjvtf) | [Charles Bradley](https://open.spotify.com/artist/462T0buQ5ScBUQCRpodDRf), [Menahan Street Band](https://open.spotify.com/artist/1PryMSya1JnSAlcwYawCxp) | [No Time For Dreaming](https://open.spotify.com/album/6llfJp31mi9r7swqmSAwuK) | 3:22 | 2021-10-19 | 2023-04-30 |

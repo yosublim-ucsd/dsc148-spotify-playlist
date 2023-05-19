@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "Temukan beragam musik terbaru dari talenta segar dalam negeri. Cover:   nabrl",
+  "description": "Temukan beragam musik terbaru dari talenta segar dalam negeri. Cover: Nabila Taqiyyah",
   "name": "Fresh Finds Indonesia",
   "tracks": [
     {
@@ -24,6 +24,28 @@
       "duration_ms": 244971,
       "name": "#OpenToWork",
       "url": "https://open.spotify.com/track/1Q0pDwq8cQaTZGTHGeregu"
+    },
+    {
+      "album": {
+        "name": "(Cepat) Pulang",
+        "url": "https://open.spotify.com/album/2cCzwaI7pNaSq1mGismG5R"
+      },
+      "artists": [
+        {
+          "name": "Ostribe",
+          "url": "https://open.spotify.com/artist/7mUgxHH5FnALOqsUrCfxyu"
+        },
+        {
+          "name": "Elisabeth Rosalia",
+          "url": "https://open.spotify.com/artist/4BrfMCrIonMhZI4nQj3iHj"
+        }
+      ],
+      "date_added": "2023-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 310769,
+      "name": "(Cepat) Pulang",
+      "url": "https://open.spotify.com/track/5MVPEnPjfYE48P5fQDCcby"
     },
     {
       "album": {
@@ -1092,7 +1114,7 @@
       ],
       "date_added": "2023-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 202339,
       "name": "Aku Dan Kisahmu",
       "url": "https://open.spotify.com/track/1SPiy3acEBrX1sZ2BkR9FE"
@@ -1236,7 +1258,7 @@
       ],
       "date_added": "2023-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 160000,
       "name": "All I Need Is You",
       "url": "https://open.spotify.com/track/5xQNsgChE7PtKjw0Fi44GA"
@@ -1360,7 +1382,7 @@
       ],
       "date_added": "2023-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 143042,
       "name": "All The Time",
       "url": "https://open.spotify.com/track/7lNKlPd03y5XiQCO46nm3K"
@@ -1656,7 +1678,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 179627,
       "name": "ANDA KATAKAN",
       "url": "https://open.spotify.com/track/5KEqkZsq2kXZoZwMlWCCBq"
@@ -2111,6 +2133,24 @@
     },
     {
       "album": {
+        "name": "Asal Bayar Tepat Waktu",
+        "url": "https://open.spotify.com/album/1HWbwfVGBfQ5DVQyCGElIq"
+      },
+      "artists": [
+        {
+          "name": "Candra Kim",
+          "url": "https://open.spotify.com/artist/2RttFVmXSNaVg82J9y8LlF"
+        }
+      ],
+      "date_added": "2023-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181363,
+      "name": "Asal Bayar Tepat Waktu",
+      "url": "https://open.spotify.com/track/68eBpCI2lEeB8WovzV3W0Q"
+    },
+    {
+      "album": {
         "name": "Asing",
         "url": "https://open.spotify.com/album/2nN8TcNZRiepeGXbk31ye3"
       },
@@ -2198,6 +2238,24 @@
       "duration_ms": 177612,
       "name": "ATF",
       "url": "https://open.spotify.com/track/33N1fLejh2PoF5kSzzIlfN"
+    },
+    {
+      "album": {
+        "name": "Auralia",
+        "url": "https://open.spotify.com/album/2g5LZziaVYtL7XT2ahcPlh"
+      },
+      "artists": [
+        {
+          "name": "Erixon Sihite",
+          "url": "https://open.spotify.com/artist/4pCIdtaw37FQ0MAlb75eDv"
+        }
+      ],
+      "date_added": "2023-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230000,
+      "name": "Auralia",
+      "url": "https://open.spotify.com/track/2oZIhlzJzfucIOPSla86Ee"
     },
     {
       "album": {
@@ -3215,6 +3273,24 @@
     },
     {
       "album": {
+        "name": "Benar Ku Suka",
+        "url": "https://open.spotify.com/album/3LWtSpXnKZZgo7o4qpCtDh"
+      },
+      "artists": [
+        {
+          "name": "ERA",
+          "url": "https://open.spotify.com/artist/6zyGQ03MxigTBeEmq3575O"
+        }
+      ],
+      "date_added": "2023-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233591,
+      "name": "Benar Ku Suka",
+      "url": "https://open.spotify.com/track/1y19F0aHIe9TDHePIqXyEN"
+    },
+    {
+      "album": {
         "name": "Benar-Benar",
         "url": "https://open.spotify.com/album/5YytwH5kTeMqyFpDsaaZ9A"
       },
@@ -3924,6 +4000,24 @@
       "duration_ms": 235923,
       "name": "Better than Me",
       "url": "https://open.spotify.com/track/1Fa2ttemffCwsbemhEG2uJ"
+    },
+    {
+      "album": {
+        "name": "Statement",
+        "url": "https://open.spotify.com/album/38uUvknw9qj6q6fVKuL6Fc"
+      },
+      "artists": [
+        {
+          "name": "The Basement Dry",
+          "url": "https://open.spotify.com/artist/5hIlvEyTFpzEFnpkZ07QN1"
+        }
+      ],
+      "date_added": "2023-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270800,
+      "name": "Between Sight",
+      "url": "https://open.spotify.com/track/6NlRmA4WYtYNqsM19vjjiA"
     },
     {
       "album": {
@@ -5166,7 +5260,7 @@
       ],
       "date_added": "2023-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 164400,
       "name": "Caffeinated",
       "url": "https://open.spotify.com/track/03adDeSrA7JRjeg71ChqMR"
@@ -5340,6 +5434,24 @@
       "duration_ms": 212000,
       "name": "can you hear my call?",
       "url": "https://open.spotify.com/track/0CKWJVYkVfhmTg2b74Lv3J"
+    },
+    {
+      "album": {
+        "name": "CAN'T SEE US",
+        "url": "https://open.spotify.com/album/43gQuusg7VofGo64GqCe9u"
+      },
+      "artists": [
+        {
+          "name": "The Couch Club",
+          "url": "https://open.spotify.com/artist/54Ez4eIclterVTLzaIt4nh"
+        }
+      ],
+      "date_added": "2023-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186285,
+      "name": "CAN'T SEE US",
+      "url": "https://open.spotify.com/track/5MZrbjMh6h5ccC75ZqmONJ"
     },
     {
       "album": {
@@ -5528,6 +5640,24 @@
       "duration_ms": 124528,
       "name": "Cemas",
       "url": "https://open.spotify.com/track/6EyrIy71F8iLvlyLeu5MVx"
+    },
+    {
+      "album": {
+        "name": "Cerita Kita Berdua",
+        "url": "https://open.spotify.com/album/3Z6viIqp54zB6Jdl7XlLby"
+      },
+      "artists": [
+        {
+          "name": "Tiya Rima",
+          "url": "https://open.spotify.com/artist/2soMazDNpF3MhIRDhrvD5v"
+        }
+      ],
+      "date_added": "2023-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263992,
+      "name": "Cerita Kita Berdua",
+      "url": "https://open.spotify.com/track/3rad9i2Ab3vAJrVn2sIk8v"
     },
     {
       "album": {
@@ -5882,7 +6012,7 @@
       ],
       "date_added": "2023-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 224000,
       "name": "Cinta Satu Malam",
       "url": "https://open.spotify.com/track/31Pvcyl2JxLG3SiRVihLmS"
@@ -6600,7 +6730,7 @@
       ],
       "date_added": "2023-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 225773,
       "name": "Cumbu",
       "url": "https://open.spotify.com/track/7kkb4KSkptaLCRQfcyv5mU"
@@ -7299,6 +7429,24 @@
     },
     {
       "album": {
+        "name": "2011",
+        "url": "https://open.spotify.com/album/0fra9yhQrRr8KpSdfqmtMc"
+      },
+      "artists": [
+        {
+          "name": "Lemonade",
+          "url": "https://open.spotify.com/artist/62gosfxJDdIEwA55yCWN7B"
+        }
+      ],
+      "date_added": "2023-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187268,
+      "name": "Di Antara Dua Pilihan",
+      "url": "https://open.spotify.com/track/3mQlJzqebme74J5QGuOlTi"
+    },
+    {
+      "album": {
         "name": "Di Antara Lampu Kota Yang Berbicara (Retromasi)",
         "url": "https://open.spotify.com/album/7KQ7yisQRTWaucyowUHsLa"
       },
@@ -7738,7 +7886,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 241874,
       "name": "Do Good",
       "url": "https://open.spotify.com/track/305kzvyndabF5p1IqPDys9"
@@ -8070,7 +8218,7 @@
       ],
       "date_added": "2023-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 252307,
       "name": "Dopamine",
       "url": "https://open.spotify.com/track/6nIdc63CNRI3CqmqFrTXiN"
@@ -8583,6 +8731,24 @@
     },
     {
       "album": {
+        "name": "end of our scene",
+        "url": "https://open.spotify.com/album/38BlAeWvS7JFH9k3fjDKXZ"
+      },
+      "artists": [
+        {
+          "name": "Dandy Hendstyo",
+          "url": "https://open.spotify.com/artist/2szj8xBOp1sq9IJJWQTNhD"
+        }
+      ],
+      "date_added": "2023-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241099,
+      "name": "end of our scene",
+      "url": "https://open.spotify.com/track/6AcDliDZh6EjPF5KakmJow"
+    },
+    {
+      "album": {
         "name": "End of the Night",
         "url": "https://open.spotify.com/album/7lylPOUHBlKJaNHJdxe7To"
       },
@@ -8702,7 +8868,7 @@
       ],
       "date_added": "2023-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 225189,
       "name": "Entah Sampai Kapan",
       "url": "https://open.spotify.com/track/3SIoZXo5TVkyNqzua1X3SJ"
@@ -8890,7 +9056,7 @@
       ],
       "date_added": "2023-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 234000,
       "name": "Failing Grace",
       "url": "https://open.spotify.com/track/5pgNf3aLWrULjZCCNz2b3X"
@@ -10463,6 +10629,24 @@
     },
     {
       "album": {
+        "name": "A Rubik Cube You Should Never Done",
+        "url": "https://open.spotify.com/album/5Z1DSfYl2NHiDaw8ZG8XNn"
+      },
+      "artists": [
+        {
+          "name": "The Jealous Club",
+          "url": "https://open.spotify.com/artist/06WnHZslIIxOoAK3BrcjYx"
+        }
+      ],
+      "date_added": "2023-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204666,
+      "name": "Good Man On His Mind",
+      "url": "https://open.spotify.com/track/0jum4pGA1GSAiL2thIAsUp"
+    },
+    {
+      "album": {
         "name": "Good Night",
         "url": "https://open.spotify.com/album/7F82PBrt9yWbFjdsuldpmg"
       },
@@ -10782,7 +10966,7 @@
       ],
       "date_added": "2023-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 224000,
       "name": "Guilty Pleasure",
       "url": "https://open.spotify.com/track/5cgGvhx8daB3xXhS8T5RxN"
@@ -13233,6 +13417,24 @@
     },
     {
       "album": {
+        "name": "If U Want To",
+        "url": "https://open.spotify.com/album/0KGzuMH1YQDv69gjecXuK8"
+      },
+      "artists": [
+        {
+          "name": "Pleaserrr",
+          "url": "https://open.spotify.com/artist/40xDAmbkLONDf2qkDugmJg"
+        }
+      ],
+      "date_added": "2023-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202000,
+      "name": "If U Want To",
+      "url": "https://open.spotify.com/track/17sYaVD2OTbk1qib529whu"
+    },
+    {
+      "album": {
         "name": "If We Never Met",
         "url": "https://open.spotify.com/album/4yY0wRnnXPHsuq7dbRMRu5"
       },
@@ -13923,6 +14125,24 @@
     },
     {
       "album": {
+        "name": "Irama Menggila",
+        "url": "https://open.spotify.com/album/67w2GyfA3GgJSn1WBozlTr"
+      },
+      "artists": [
+        {
+          "name": "Intonasi Nada Gila",
+          "url": "https://open.spotify.com/artist/5FrRLwEPGeg71zmZ2JrV5a"
+        }
+      ],
+      "date_added": "2023-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270612,
+      "name": "Irama Menggila",
+      "url": "https://open.spotify.com/track/0U8EUTv86G2OrQN1WbE6xE"
+    },
+    {
+      "album": {
         "name": "Is Back Baby",
         "url": "https://open.spotify.com/album/46tV4SJnltIFmypVfB39YY"
       },
@@ -14136,6 +14356,28 @@
       "duration_ms": 169967,
       "name": "Itu semua karena",
       "url": "https://open.spotify.com/track/4oj3gBAwP0yMjlmNRHBSjc"
+    },
+    {
+      "album": {
+        "name": "Ivy",
+        "url": "https://open.spotify.com/album/26U7RilngSnbG17ekunDBU"
+      },
+      "artists": [
+        {
+          "name": "Nostradanur",
+          "url": "https://open.spotify.com/artist/4Fh1SJ6giKoikQAVSWB3GU"
+        },
+        {
+          "name": "DIFTA",
+          "url": "https://open.spotify.com/artist/4uvOlAQABKD34EGAIXhwbU"
+        }
+      ],
+      "date_added": "2023-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182400,
+      "name": "Ivy",
+      "url": "https://open.spotify.com/track/591KH1sF4VVgHon3WLxKH7"
     },
     {
       "album": {
@@ -14354,7 +14596,7 @@
       ],
       "date_added": "2023-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 215954,
       "name": "Jalan Terbaiknya",
       "url": "https://open.spotify.com/track/4LhQeEgxKqd3b49GD6Ij8K"
@@ -14376,6 +14618,24 @@
       "duration_ms": 246442,
       "name": "Jalan Yang Berbeda",
       "url": "https://open.spotify.com/track/0m4fottdKyM0HIqzeFRU3a"
+    },
+    {
+      "album": {
+        "name": "Jalur Alternatif",
+        "url": "https://open.spotify.com/album/4eawVVD97kivrqrSGdXH5I"
+      },
+      "artists": [
+        {
+          "name": "Manusia Aksara",
+          "url": "https://open.spotify.com/artist/4KhMbVClEsKsmlfT5yO8St"
+        }
+      ],
+      "date_added": "2023-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190872,
+      "name": "Jalur Alternatif",
+      "url": "https://open.spotify.com/track/2he1wBFPJitLcoZMZbR3ve"
     },
     {
       "album": {
@@ -14924,7 +15184,7 @@
       ],
       "date_added": "2023-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 222694,
       "name": "Jumpsuit",
       "url": "https://open.spotify.com/track/7l9EAQjvGg5naNWdbiN8H1"
@@ -15722,7 +15982,7 @@
       ],
       "date_added": "2023-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 161333,
       "name": "Keep You Close",
       "url": "https://open.spotify.com/track/6BmFcHRGgM1mUAX0FqSMW7"
@@ -15794,7 +16054,7 @@
       ],
       "date_added": "2023-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 275600,
       "name": "Kelam Kujalani",
       "url": "https://open.spotify.com/track/24aPjGtFMztxrlPSI0brM3"
@@ -15960,7 +16220,7 @@
       ],
       "date_added": "2023-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 208000,
       "name": "Kesuwen Kere",
       "url": "https://open.spotify.com/track/0A6hVkbe8zmKabavWlkLLh"
@@ -17803,6 +18063,28 @@
     },
     {
       "album": {
+        "name": "LOOSE",
+        "url": "https://open.spotify.com/album/5am2ISCJW1qDjk2CnRcVSi"
+      },
+      "artists": [
+        {
+          "name": "Devin Adamn",
+          "url": "https://open.spotify.com/artist/6kwOdX0GkoTAGArEzSD9fd"
+        },
+        {
+          "name": "Xerikho",
+          "url": "https://open.spotify.com/artist/1rN8oDLOBSRpuWPjTRj9rh"
+        }
+      ],
+      "date_added": "2023-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "LOOSE",
+      "url": "https://open.spotify.com/track/63D47ON4ZMzrw3X4Fvupra"
+    },
+    {
+      "album": {
         "name": "Losing a Friend",
         "url": "https://open.spotify.com/album/5f52ve6dpcXmdoov8ULQ7E"
       },
@@ -18670,7 +18952,7 @@
       ],
       "date_added": "2023-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 292075,
       "name": "Malam Satu Suro",
       "url": "https://open.spotify.com/track/4eMePgTJl4lOi7EOUBSCWf"
@@ -19666,6 +19948,42 @@
       "duration_ms": 242285,
       "name": "Mengenangmu",
       "url": "https://open.spotify.com/track/0nPtEXmtQqf9NYBTzFZA6w"
+    },
+    {
+      "album": {
+        "name": "Menghargai Kata Rindu",
+        "url": "https://open.spotify.com/album/6ZttUG5J6ohmAPaudE74Au"
+      },
+      "artists": [
+        {
+          "name": "Nabila Taqiyyah",
+          "url": "https://open.spotify.com/artist/0sLoVTeBT6akDY7ecDxKYe"
+        }
+      ],
+      "date_added": "2023-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251000,
+      "name": "Menghargai Kata Rindu",
+      "url": "https://open.spotify.com/track/7dJXDo04rMWbfIepBGTfi0"
+    },
+    {
+      "album": {
+        "name": "Menghargai Kata Rindu",
+        "url": "https://open.spotify.com/album/6ooqkzQocUCQWpBktDXNOT"
+      },
+      "artists": [
+        {
+          "name": "Salma Salsabil",
+          "url": "https://open.spotify.com/artist/1y46m0kIaKwnodL0ElvQIs"
+        }
+      ],
+      "date_added": "2023-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253600,
+      "name": "Menghargai Kata Rindu",
+      "url": "https://open.spotify.com/track/76YPh9yAEC3SGjNx7DPllu"
     },
     {
       "album": {
@@ -21535,6 +21853,24 @@
     },
     {
       "album": {
+        "name": "Nothing To Recall",
+        "url": "https://open.spotify.com/album/0PhvCXxJpUvHRDsCfg0XRr"
+      },
+      "artists": [
+        {
+          "name": "Flowr Pit",
+          "url": "https://open.spotify.com/artist/3FOqYio7C8ihO8MciypqLv"
+        }
+      ],
+      "date_added": "2023-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186250,
+      "name": "Nothing To Recall",
+      "url": "https://open.spotify.com/track/4Nxh3XguzzWMCVfAoDbiGJ"
+    },
+    {
+      "album": {
         "name": "Nowhere Nearer",
         "url": "https://open.spotify.com/album/0MVePUA7vxFWvKQAxmvJHI"
       },
@@ -22533,6 +22869,24 @@
     },
     {
       "album": {
+        "name": "Paling Sedunia",
+        "url": "https://open.spotify.com/album/4tg7ZTpoFqz7iJtl3Pv4ZT"
+      },
+      "artists": [
+        {
+          "name": "Yudis Dwiko",
+          "url": "https://open.spotify.com/artist/5Ud9VCmLavle5o180t45fZ"
+        }
+      ],
+      "date_added": "2023-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240791,
+      "name": "Paling Sedunia",
+      "url": "https://open.spotify.com/track/6zlXT5iYiLwJN5EsKgScQW"
+    },
+    {
+      "album": {
         "name": "Dreams Grow Forever",
         "url": "https://open.spotify.com/album/08sGEw1AOn3nHQn83DUWNU"
       },
@@ -22598,7 +22952,7 @@
       ],
       "date_added": "2023-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 203142,
       "name": "Pardon Me",
       "url": "https://open.spotify.com/track/4FLqujLy6RLMhHjm6PmOKs"
@@ -23431,6 +23785,24 @@
     },
     {
       "album": {
+        "name": "Pilu (T'lah Berlalu)",
+        "url": "https://open.spotify.com/album/5E8LQUXP34GYgTV0Entvay"
+      },
+      "artists": [
+        {
+          "name": "BiruMuda",
+          "url": "https://open.spotify.com/artist/0RullS1YL4LIW6KEl4Az1s"
+        }
+      ],
+      "date_added": "2023-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265304,
+      "name": "Pilu (T'lah Berlalu)",
+      "url": "https://open.spotify.com/track/2KVD6log9aTd99gAgG4uw2"
+    },
+    {
+      "album": {
         "name": "Pink Lemonade",
         "url": "https://open.spotify.com/album/2iT2boxo1OoPMcxhsZOhL2"
       },
@@ -23862,7 +24234,7 @@
       ],
       "date_added": "2023-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 150233,
       "name": "public attention",
       "url": "https://open.spotify.com/track/4IHZw5grmPZTlmbk1UnV0V"
@@ -23960,6 +24332,24 @@
       "duration_ms": 147980,
       "name": "Pull Me Up",
       "url": "https://open.spotify.com/track/5XIzScMFEfx7x0O0yrI2pj"
+    },
+    {
+      "album": {
+        "name": "Pun, Sayang",
+        "url": "https://open.spotify.com/album/0Vq9pDX6RGRtgwfzKlUvMC"
+      },
+      "artists": [
+        {
+          "name": "Ian Maulana",
+          "url": "https://open.spotify.com/artist/10TBPCvYuLVwkoV2xcrJCB"
+        }
+      ],
+      "date_added": "2023-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204000,
+      "name": "Pun, Sayang",
+      "url": "https://open.spotify.com/track/0iKkMuDVd9J0pZeGkkK3mF"
     },
     {
       "album": {
@@ -24572,6 +24962,24 @@
       "duration_ms": 282000,
       "name": "Redam (Remastered)",
       "url": "https://open.spotify.com/track/0immbD1AOVF3ZvI8zoMJFs"
+    },
+    {
+      "album": {
+        "name": "Carmine",
+        "url": "https://open.spotify.com/album/2KTfHCiL2Zr4qDnoNgrWgF"
+      },
+      "artists": [
+        {
+          "name": "For Limerence",
+          "url": "https://open.spotify.com/artist/5pocXDn69mPIiuywsWmVg2"
+        }
+      ],
+      "date_added": "2023-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186000,
+      "name": "Reflections",
+      "url": "https://open.spotify.com/track/1pxSEqjMPxCxbm8yhISOzv"
     },
     {
       "album": {
@@ -26393,6 +26801,24 @@
     },
     {
       "album": {
+        "name": "Selesai",
+        "url": "https://open.spotify.com/album/1wdxmRqPLsxP2hvkDGHYrF"
+      },
+      "artists": [
+        {
+          "name": "Y.A.W",
+          "url": "https://open.spotify.com/artist/56TdM0MqdC3okSgo6KPk96"
+        }
+      ],
+      "date_added": "2023-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256828,
+      "name": "Selesai",
+      "url": "https://open.spotify.com/track/4EQGWJPK48cIPQlNIR5zw1"
+    },
+    {
+      "album": {
         "name": "Selfish",
         "url": "https://open.spotify.com/album/2SRnfzngfSTKBsC3iFTjUN"
       },
@@ -27728,7 +28154,7 @@
       ],
       "date_added": "2023-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 266819,
       "name": "Sleeping Pills",
       "url": "https://open.spotify.com/track/1ZTClpQptkNEXScdc52yKS"
@@ -28480,6 +28906,28 @@
       "duration_ms": 234238,
       "name": "Spotless",
       "url": "https://open.spotify.com/track/0sigpEpD5QYWVsaeAzQKC5"
+    },
+    {
+      "album": {
+        "name": "Stain",
+        "url": "https://open.spotify.com/album/7veFvrE9xhqKveOZOUbSoY"
+      },
+      "artists": [
+        {
+          "name": "Erika",
+          "url": "https://open.spotify.com/artist/0d3bXSWbsqaInbt3cLmA69"
+        },
+        {
+          "name": "PaidTimeOff",
+          "url": "https://open.spotify.com/artist/4fndQlx8EbNlzoBS6qLbkJ"
+        }
+      ],
+      "date_added": "2023-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148800,
+      "name": "Stain",
+      "url": "https://open.spotify.com/track/52b4StEcTDaIMH9aCcCHRo"
     },
     {
       "album": {
@@ -29460,7 +29908,7 @@
       ],
       "date_added": "2023-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 258450,
       "name": "Surel",
       "url": "https://open.spotify.com/track/28qaZVU6Wuk1cgA3MqkZKO"
@@ -30156,6 +30604,24 @@
       "duration_ms": 308019,
       "name": "Tear Drop",
       "url": "https://open.spotify.com/track/3xtnsvAkc6xlNVQijjgI1Q"
+    },
+    {
+      "album": {
+        "name": "Tebar Pesona",
+        "url": "https://open.spotify.com/album/4s0heaoWmFoh2mCUbt5qUw"
+      },
+      "artists": [
+        {
+          "name": "ZerosiX park",
+          "url": "https://open.spotify.com/artist/5U1xpJ0qSmNRIU4uTIwjEi"
+        }
+      ],
+      "date_added": "2023-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235225,
+      "name": "Tebar Pesona",
+      "url": "https://open.spotify.com/track/1eddrsRzrsjrpXZKm05JqF"
     },
     {
       "album": {

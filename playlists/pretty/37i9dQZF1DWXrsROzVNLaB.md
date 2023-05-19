@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXrsROzVNLaB.md) - [plain]
 
 > Prepare for Easter week by reflecting on songs of Jesus' life, death, and resurrection.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,085 likes - 75 songs - 6 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,084 likes - 75 songs - 6 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXrsROzVNLaB.md) - [plain]
 | 36 | [Death Where is Your Sting](https://open.spotify.com/track/0U1FxC0ANweT6KSqLorM6e) | [Cory Asbury](https://open.spotify.com/artist/2gXmjQIxCO8lMnSncluZaU) | [Reckless Love](https://open.spotify.com/album/63fUIyRGFTFdVlDMTT5tLB) | 4:40 |
 | 37 | [Always](https://open.spotify.com/track/0S2dqmIdV30dhoNV4BHNTO) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [Always](https://open.spotify.com/album/4YaEXOMUNvRubNdJkq2vSP) | 4:07 |
 | 38 | [Long Live The King \- Live At The Grove](https://open.spotify.com/track/59JtpavXIKPmHi4Z8PAbj3) | [Influence Music](https://open.spotify.com/artist/7ory6rfLtmQet7a16o4vvC), [Matt Gilman](https://open.spotify.com/artist/73hSbuO7zeiAnHpkyhQN5P) | [Long Live The King \(Live At The Grove\)](https://open.spotify.com/album/0agzLXWxrapOwNXsGXx9nn) | 7:01 |
-| 39 | [Were You There](https://open.spotify.com/track/59NpCm0lOMObumSe0soohI) | [Jon Bryant](https://open.spotify.com/artist/2gzH4rGNFJeNg13yv2uI4L) | [Two Coasts for Comfort](https://open.spotify.com/album/2DwXkxKGEMsebxJbrtzYUi) | 3:25 |
-| 40 | [Happy Day](https://open.spotify.com/track/1gLCydMCD7D1b0bnYp5tyS) | [Tim Hughes](https://open.spotify.com/artist/3z1cp4jtdPSklLE90162gh) | [Holding Nothing Back](https://open.spotify.com/album/2rygzTYOjYKpkfW99tCiaz) | 3:23 |
+| 39 | [Happy Day](https://open.spotify.com/track/1gLCydMCD7D1b0bnYp5tyS) | [Tim Hughes](https://open.spotify.com/artist/3z1cp4jtdPSklLE90162gh) | [Holding Nothing Back](https://open.spotify.com/album/2rygzTYOjYKpkfW99tCiaz) | 3:23 |
+| 40 | [Were You There](https://open.spotify.com/track/59NpCm0lOMObumSe0soohI) | [Jon Bryant](https://open.spotify.com/artist/2gzH4rGNFJeNg13yv2uI4L) | [Two Coasts for Comfort](https://open.spotify.com/album/2DwXkxKGEMsebxJbrtzYUi) | 3:25 |
 | 41 | [I Know That My Redeemer Lives](https://open.spotify.com/track/6mqfYOmG74s3Ao1N1fo1pB) | [Keith & Kristyn Getty](https://open.spotify.com/artist/0I4Bk2s2BUJyykCwtxx8Xx), [Laura Story](https://open.spotify.com/artist/0qKOMcuFgagNQJWHHK7NY6) | [I Know That My Redeemer Lives](https://open.spotify.com/album/59gbvANpXUgdR51ZqlNy9i) | 4:49 |
 | 42 | [Greater Things](https://open.spotify.com/track/3EHQMl3KrWpwfUMxgAWSqb) | [Mack Brock](https://open.spotify.com/artist/5yCOPpDHEQxwSJJL2LAqLj) | [Greater Things](https://open.spotify.com/album/4ji5IXQ0QqzxO4uCwB8kke) | 4:40 |
 | 43 | [At The Cross \(Love Ran Red\) \- Live](https://open.spotify.com/track/51IOMFLZNIn4oynL6t6bwr) | [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16), [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [Passion: Take It All \(Live\)](https://open.spotify.com/album/5UIZUNZAbJl60uG7Y13JdB) | 7:08 |
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXrsROzVNLaB.md) - [plain]
 | 55 | [At The Cross](https://open.spotify.com/track/6SpcdxmlDg5MQ1zGw8GEGo) | [Selah](https://open.spotify.com/artist/5dZiRoY9Vpp6qrxqXNRwPE) | [You Amaze Us](https://open.spotify.com/album/0NKzXf20zGV0vsR60DZjF4) | 4:02 |
 | 56 | [Upon Him](https://open.spotify.com/track/6hgbfjVLnlzIHiR8OJpeZS) | [Matt Redman](https://open.spotify.com/artist/0bz9hDpUbAw5JElgEiuIYZ) | [Upon Him](https://open.spotify.com/album/0LzvNRqh0zYGMyAuky8W05) | 4:01 |
 | 57 | [Light to You](https://open.spotify.com/track/6AngIXIe1fI2Z4m5fREfY4) | [Michael W\. Smith](https://open.spotify.com/artist/5aBxFPaaGk9204ssHUvXWN) | [Surrounded](https://open.spotify.com/album/0RpjkgJDTV3IiltZf1Udkl) | 6:04 |
-| 58 | [The Cross Has The Final Word](https://open.spotify.com/track/5vqBJKU4U3OLvm2anticiy) | [Cody Carnes](https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0) | [The Cross Has The Final Word](https://open.spotify.com/album/43PHsVjv7xGRZNbD9TGha6) | 4:12 |
-| 59 | [My Savior My God \- Live](https://open.spotify.com/track/0TZk1K9QUBvYbKvyOlDd91) | [Aaron Shust](https://open.spotify.com/artist/0oM8RWZXhJYSnzGdepP7fM) | [Love Made a Way \(Live\)](https://open.spotify.com/album/1lvkViacXRWI7hoMoIjKnJ) | 5:04 |
+| 58 | [My Savior My God \- Live](https://open.spotify.com/track/0TZk1K9QUBvYbKvyOlDd91) | [Aaron Shust](https://open.spotify.com/artist/0oM8RWZXhJYSnzGdepP7fM) | [Love Made a Way \(Live\)](https://open.spotify.com/album/1lvkViacXRWI7hoMoIjKnJ) | 5:04 |
+| 59 | [The Cross Has The Final Word](https://open.spotify.com/track/5vqBJKU4U3OLvm2anticiy) | [Cody Carnes](https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0) | [The Cross Has The Final Word](https://open.spotify.com/album/43PHsVjv7xGRZNbD9TGha6) | 4:12 |
 | 60 | [Thief](https://open.spotify.com/track/4w7qUNRMg3A3xnqhE37TP3) | [Third Day](https://open.spotify.com/artist/7uWXomGkKtIq9B4XgA3gch) | [Third Day](https://open.spotify.com/album/0CbjyNnad3GgRLWrUshLXF) | 4:24 |
 | 61 | [Faithfulness \(feat\. Steffany Gretzinger\)](https://open.spotify.com/track/78ANuoRf4FZNRcUDtSaFiL) | [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW), [Steffany Gretzinger](https://open.spotify.com/artist/2akNRvGNB400IDDUMr1PHW) | [Echoes \(Deluxe Edition\)](https://open.spotify.com/album/7HKEDHznm7Zngpw3oHkorA) | 3:31 |
 | 62 | [Blameless](https://open.spotify.com/track/3hJf9RCc6jLId4U99rSTa2) | [Dara Maclean](https://open.spotify.com/artist/51mDLET3uU71KUA2OkDvFm) | [Blameless](https://open.spotify.com/album/1aNaKJuIh4Y5K6WONZuTtj) | 3:54 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXrsROzVNLaB.md) - [plain]
 | 74 | [The Cross Forever Speaks](https://open.spotify.com/track/2y49SLyQscZZCl1Z4kvTEU) | [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [Echoes \(Deluxe Edition\)](https://open.spotify.com/album/7HKEDHznm7Zngpw3oHkorA) | 3:52 |
 | 75 | [Death Was Arrested / He's Alive \- Live](https://open.spotify.com/track/63xczPjcOU8Wl5T5YsStAo) | [The Talleys](https://open.spotify.com/artist/0xAHllnAJZX2DlM8z2A0hC) | [Death Was Arrested / He's Alive \(Live\)](https://open.spotify.com/album/4aFoHGmtxzQtSHarx1k8IE) | 6:03 |
 
-Snapshot ID: `MCwyOWQxMDNjYTFhNjgxM2NiZTUxMjg5MGQ0YWU3YzQ5NWI0NWI0ZDQ1`
+Snapshot ID: `MCw0NWQ3ZDQ0NDMwMDcyOTAzMzBhOWEyOTExNTM0MmI3YzAyNjI1MjZi`

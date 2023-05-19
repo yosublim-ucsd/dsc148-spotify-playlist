@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-25",
-  "description": "Altijd fris in Fresh Hits. Cover: Bizzey, Kraantje Pappie, Rolf Sanchez",
+  "description": "Altijd fris in Fresh Hits. Cover: Zo\u00eb Tauran, Bilal Wahib",
   "name": "Fresh Hits",
   "tracks": [
     {
@@ -388,7 +388,7 @@
       ],
       "date_added": "2023-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 194543,
       "name": "BESO",
       "url": "https://open.spotify.com/track/609E1JCInJncactoMmkDon"
@@ -588,7 +588,7 @@
       ],
       "date_added": "2023-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 183652,
       "name": "Chills (LA Hills)",
       "url": "https://open.spotify.com/track/2N5cFPLy0TIasTWkfT1hri"
@@ -618,7 +618,7 @@
       ],
       "date_added": "2023-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 173008,
       "name": "Crying On The Dancefloor",
       "url": "https://open.spotify.com/track/09rAJ1Q1NNJSaUKEW3X9P6"
@@ -1027,6 +1027,28 @@
     },
     {
       "album": {
+        "name": "Fallin",
+        "url": "https://open.spotify.com/album/6scuUVPKlS9ScVO2xOPymq"
+      },
+      "artists": [
+        {
+          "name": "JMANI",
+          "url": "https://open.spotify.com/artist/1QR6WDewVzcY8JrxP5Gyj3"
+        },
+        {
+          "name": "Monq",
+          "url": "https://open.spotify.com/artist/1rJlC9RjWWeFaz8UpFKnrs"
+        }
+      ],
+      "date_added": "2023-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149771,
+      "name": "Fallin",
+      "url": "https://open.spotify.com/track/1V2RVZdPSzFTb1ITr25iSw"
+    },
+    {
+      "album": {
         "name": "February Stories",
         "url": "https://open.spotify.com/album/3hkRbcvcmfrj1fWrBe2oY3"
       },
@@ -1125,6 +1147,24 @@
     },
     {
       "album": {
+        "name": "Giving Me",
+        "url": "https://open.spotify.com/album/0wTaLHasxRWB2VBwh9maAc"
+      },
+      "artists": [
+        {
+          "name": "Jazzy",
+          "url": "https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP"
+        }
+      ],
+      "date_added": "2023-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169000,
+      "name": "Giving Me",
+      "url": "https://open.spotify.com/track/1ACFweuuvf6MHtptObgreR"
+    },
+    {
+      "album": {
         "name": "Glad U Came",
         "url": "https://open.spotify.com/album/2H37NHuufU0kkwLhMwhdLj"
       },
@@ -1158,7 +1198,7 @@
       ],
       "date_added": "2023-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 214942,
       "name": "Good Feeling (feat. Rhys Lewis)",
       "url": "https://open.spotify.com/track/7hmdTvWQgw2p8aG26MIdCO"
@@ -1829,6 +1869,24 @@
     },
     {
       "album": {
+        "name": "Naar Het Licht",
+        "url": "https://open.spotify.com/album/6SaInoRCoT3R0szXyjiRxn"
+      },
+      "artists": [
+        {
+          "name": "Froukje",
+          "url": "https://open.spotify.com/artist/0uBVyPbLZRDNEBiA4fZUlp"
+        }
+      ],
+      "date_added": "2023-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196795,
+      "name": "Naar Het Licht",
+      "url": "https://open.spotify.com/track/0o2NJQQmW2c1R6ZNpPdoan"
+    },
+    {
+      "album": {
         "name": "Never Felt So Alone",
         "url": "https://open.spotify.com/album/33JqWTchq6piiQddrRIvJX"
       },
@@ -2082,7 +2140,7 @@
       ],
       "date_added": "2023-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 172125,
       "name": "Princess Diana (with Nicki Minaj)",
       "url": "https://open.spotify.com/track/0ZxhtATQ0a6EvQNZ0z6NKV"
@@ -2356,6 +2414,28 @@
       "duration_ms": 196000,
       "name": "Rommel",
       "url": "https://open.spotify.com/track/0pw06mcIzuAeLPOHZT7W4Z"
+    },
+    {
+      "album": {
+        "name": "Ruggengraat",
+        "url": "https://open.spotify.com/album/3JVuWFwn71zVGhyMKyw85V"
+      },
+      "artists": [
+        {
+          "name": "Snelle",
+          "url": "https://open.spotify.com/artist/3E31HqA00iCX9nRhesw6LD"
+        },
+        {
+          "name": "Kraantje Pappie",
+          "url": "https://open.spotify.com/artist/5yDkaiPTFbHGWCMXAEBt5Q"
+        }
+      ],
+      "date_added": "2023-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154003,
+      "name": "Ruggengraat",
+      "url": "https://open.spotify.com/track/0rLMwM9J5DkkucxXByncSZ"
     },
     {
       "album": {
@@ -3070,6 +3150,24 @@
       "duration_ms": 198798,
       "name": "Welcome to the DCC",
       "url": "https://open.spotify.com/track/0ZImVxesVZIydOnwTMSWOK"
+    },
+    {
+      "album": {
+        "name": "WHERE SHE GOES",
+        "url": "https://open.spotify.com/album/5gCcb5fsSb6w5K8SyJrgtB"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "date_added": "2023-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231704,
+      "name": "WHERE SHE GOES",
+      "url": "https://open.spotify.com/track/7ro0hRteUMfnOioTFI5TG1"
     },
     {
       "album": {

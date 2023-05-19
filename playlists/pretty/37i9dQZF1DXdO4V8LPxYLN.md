@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdO4V8LPxYLN.md) - [plain]
 
 > Aksamit's favorite tracks\. Updated regularly\. Curated by Aksamit\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,537 likes - 53 songs - 5 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,549 likes - 53 songs - 5 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Intro \- Digital Bonus](https://open.spotify.com/track/76CMyBJRfNL1LtMAGiVMUp) | [Luigi Tozzi](https://open.spotify.com/artist/3gqqyAsMBj22JNd5zPx2cY) | [Deep Blue: Volume 3](https://open.spotify.com/album/5ELDWlPGivcxK2rpZ335ng) | 3:29 |
-| 2 | [Test 3](https://open.spotify.com/track/2HuwOHBRd0xWbwJG06ISo4) | [Donato Dozzy](https://open.spotify.com/artist/2LmP2eHIAmprDBQfi4jiBC), [Tin Man](https://open.spotify.com/artist/4YQ15R2T0Of3KFHjkxOIRS) | [Acid Test 09](https://open.spotify.com/album/7i3DkqK4NqOlBnYeS4VYcJ) | 7:16 |
+| 2 | [Test 3](https://open.spotify.com/track/2HuwOHBRd0xWbwJG06ISo4) | [Donato Dozzy](https://open.spotify.com/artist/2LmP2eHIAmprDBQfi4jiBC), [Tin Man](https://open.spotify.com/artist/1pnPHRg5i0WzPwGqtIoadK) | [Acid Test 09](https://open.spotify.com/album/7i3DkqK4NqOlBnYeS4VYcJ) | 7:16 |
 | 3 | [Lewa](https://open.spotify.com/track/50tAFOfY6E6pA3YbnmC8JV) | [Dino Sabatini](https://open.spotify.com/artist/254k960TtnSDGQKOFGaWS3) | [Mantis 06](https://open.spotify.com/album/6OgTNtx0SyAyDpBTrGxh9O) | 6:41 |
 | 4 | [Totem](https://open.spotify.com/track/7jJBebuyBY0q6JLZBi0vsk) | [Dino Sabatini](https://open.spotify.com/artist/254k960TtnSDGQKOFGaWS3) | [Shaman's Paths](https://open.spotify.com/album/06swVWIz2mNEIKFnn3bydk) | 5:57 |
 | 5 | [Polar Sun](https://open.spotify.com/track/06q6TAGyfkbR84sjsTv0sC) | [Feral](https://open.spotify.com/artist/2TlxOsDtu4KuBpdrQctnyu) | [Ultraviolet Radiation](https://open.spotify.com/album/6XydHT4UXJImxP2pIBBtta) | 6:06 |
@@ -62,4 +62,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdO4V8LPxYLN.md) - [plain]
 | 52 | [Achievement 3](https://open.spotify.com/track/2wiZS58qQCMAtf66IHDrXj) | [Tensal](https://open.spotify.com/artist/3mRdWhXS0ujP6WUjpOiHB1) | [Compilation One](https://open.spotify.com/album/16tsQvb1JrMpyiLXQMVBqC) | 5:41 |
 | 53 | [Pace Chemistry](https://open.spotify.com/track/33olisitkJSIsGypRWmDVL) | [PVNV](https://open.spotify.com/artist/0bHUeo6y8JR9GwawQRsYMA) | [Various Artists](https://open.spotify.com/album/52gGWRpHNjEuVBwBgcD63s) | 6:45 |
 
-Snapshot ID: `MCxjMzFkNzJlYjQ5Zjc2ZjA3MTBmMjU5MjQ3NDRhMWEzOWNiOTE5MDcz`
+Snapshot ID: `MCxjOGE2YmZlNDM0ODU3ZGQwYTZlOGQzZjRiN2QyMjMwMzYwNmVjNGJh`

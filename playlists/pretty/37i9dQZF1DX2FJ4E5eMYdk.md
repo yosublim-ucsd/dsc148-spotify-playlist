@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2FJ4E5eMYdk.md) - [plain]
 
 > groovy.
 
-[Spotify](https://open.spotify.com/user/spotify) - 139,779 likes - 60 songs - 4 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 139,881 likes - 60 songs - 4 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,9 +37,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2FJ4E5eMYdk.md) - [plain]
 | 27 | [Rock Bottom](https://open.spotify.com/track/17ctpmqT0N9hGhXWWvOob5) | [Kevin Morby](https://open.spotify.com/artist/6fxk3UXHTFYET8qCT9WlBF) | [This Is A Photograph](https://open.spotify.com/album/6NMzokKOYpPO9VXDjmc5y6) | 2:44 |
 | 28 | [The Last Dance](https://open.spotify.com/track/3Z9Xzfi7XDT3DVyfb8gRVp) | [St\. Paul & The Broken Bones](https://open.spotify.com/artist/4fXkvh05wFhuH77MfD4m9o) | [The Alien Coast](https://open.spotify.com/album/6u9qHGvcKkavFaWp4Hwifl) | 3:24 |
 | 29 | [Staring At The Sun](https://open.spotify.com/track/0Ku9zP02uHYS4HH6jNLxV0) | [Wooden Shjips](https://open.spotify.com/artist/35rFgnhlSSYflP4HpC3JM0) | [V.](https://open.spotify.com/album/5KjpFRvPpExlRIuDQqwhNk) | 7:27 |
-| 30 | [Motions \- Far Out Version](https://open.spotify.com/track/3An6qpudDbeAHGDyFUVrUB) | [Liz Cooper](https://open.spotify.com/artist/58irgKwXTjCCuYQB58aXeH), [The Stampede](https://open.spotify.com/artist/6naWDjIIvxOhHfu99ubAC7) | [Liz Cooper & the Stampede \| Audiotree Far Out](https://open.spotify.com/album/1EjCdmwjYApHKhSRmaXSpR) | 5:31 |
+| 30 | [Apollo's Mood](https://open.spotify.com/track/5pvYvvO0IDkuK1FDWPWMXy) | [The Olympians](https://open.spotify.com/artist/0ZPqGxW2iwZz7vGJWzuTUi) | [The Olympians](https://open.spotify.com/album/7ojJo7v7xOsKYWjLfpw4tJ) | 4:31 |
 | 31 | [250 Miles](https://open.spotify.com/track/0Wze0lWoUjs8TrfLySyzDg) | [Radio Moscow](https://open.spotify.com/artist/692VvGTch5OLXj4zEE6H3y) | [Brain Cycles](https://open.spotify.com/album/3f4iLZtqLg1oNhLKNziNAi) | 4:52 |
-| 32 | [Apollo's Mood](https://open.spotify.com/track/5pvYvvO0IDkuK1FDWPWMXy) | [The Olympians](https://open.spotify.com/artist/0ZPqGxW2iwZz7vGJWzuTUi) | [The Olympians](https://open.spotify.com/album/7ojJo7v7xOsKYWjLfpw4tJ) | 4:31 |
+| 32 | [Motions \- Far Out Version](https://open.spotify.com/track/3An6qpudDbeAHGDyFUVrUB) | [Liz Cooper](https://open.spotify.com/artist/58irgKwXTjCCuYQB58aXeH), [The Stampede](https://open.spotify.com/artist/6naWDjIIvxOhHfu99ubAC7) | [Liz Cooper & the Stampede \| Audiotree Far Out](https://open.spotify.com/album/1EjCdmwjYApHKhSRmaXSpR) | 5:31 |
 | 33 | [Tell Me](https://open.spotify.com/track/581KISzBIATjlONj5MbPQe) | [BROS](https://open.spotify.com/artist/4b2FejUQCLbLbalnwPyLQc) | [Vol\. 1](https://open.spotify.com/album/1q8IVSmI5N41iEuhMyX3Bf) | 3:51 |
 | 34 | [Lose My Mind](https://open.spotify.com/track/7djjzziCovlTf0yXGIArWS) | [The Wild Reeds](https://open.spotify.com/artist/3Q9WLyqkHw04V6DDtvPWwH) | [Cheers](https://open.spotify.com/album/449AwHLbBwEzRvAqIQr5mB) | 3:48 |
 | 35 | [Domino](https://open.spotify.com/track/6L8waqXbOl7OXhhH3acVfk) | [Nicole Atkins](https://open.spotify.com/artist/4ab2tQaaTr2TnairelOwvO) | [Italian Ice](https://open.spotify.com/album/5fMEqegQ5CNA7V4OB7ROWV) | 4:03 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2FJ4E5eMYdk.md) - [plain]
 | 59 | [Eno Nothing](https://open.spotify.com/track/3ty4wwRjK57Mfdbf5xTqUA) | [Steelism](https://open.spotify.com/artist/4vsRWAlRRT40g7LjHiUMco) | [ism](https://open.spotify.com/album/2YKt3LwBzCSAoon0XlzeMU) | 3:36 |
 | 60 | [Renegade](https://open.spotify.com/track/4e6RmWaibb8xQgda9JcWRf) | [Dylan LeBlanc](https://open.spotify.com/artist/60rNO7ymhlxcYxrdkDYq1k) | [Renegade](https://open.spotify.com/album/4MKMt6xC0PXKlFHnQqZurJ) | 3:54 |
 
-Snapshot ID: `MCw2YzZjY2M5MDZiYjY5MjQ3YjhkYTFhYjFlY2U0OGIyMmUzMmI0ZTc0`
+Snapshot ID: `MCwxMTdiODQ3NjYzZmJiNzU1YWE3YzI4ZjBjNDU4YmZhM2JlMTQ2ZDAx`

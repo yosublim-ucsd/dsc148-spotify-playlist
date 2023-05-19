@@ -2072,7 +2072,7 @@
       ],
       "date_added": "2020-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 251946,
       "name": "Fire",
       "url": "https://open.spotify.com/track/7K2vo9oSUzFgmtIXNYegzP"
@@ -2386,6 +2386,24 @@
     {
       "album": {
         "name": "Deep Cuts",
+        "url": "https://open.spotify.com/album/58VeC1LO2OjyHXsjtI306m"
+      },
+      "artists": [
+        {
+          "name": "The Knife",
+          "url": "https://open.spotify.com/artist/7eQZTqEMozBcuSubfu52i4"
+        }
+      ],
+      "date_added": "2022-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231828,
+      "name": "Heartbeats",
+      "url": "https://open.spotify.com/track/5P2hEcHjoNMh33EsFPPOJE"
+    },
+    {
+      "album": {
+        "name": "Deep Cuts",
         "url": "https://open.spotify.com/album/1iqMDM4Io1tnDDl58NGeVJ"
       },
       "artists": [
@@ -2396,7 +2414,7 @@
       ],
       "date_added": "2020-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 231853,
       "name": "Heartbeats",
       "url": "https://open.spotify.com/track/2YacpExEbX9tF8IbFlFOo4"
@@ -2756,7 +2774,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-02",
+      "date_removed": null,
       "duration_ms": 232413,
       "name": "I Predict A Riot",
       "url": "https://open.spotify.com/track/3EnyKqEJFylT6vU1KF0YyE"

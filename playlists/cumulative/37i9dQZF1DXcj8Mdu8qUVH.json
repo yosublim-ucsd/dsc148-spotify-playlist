@@ -2126,6 +2126,24 @@
     {
       "album": {
         "name": "Warm Breeze",
+        "url": "https://open.spotify.com/album/6CMRXqcYOR3X37UDG3GqsI"
+      },
+      "artists": [
+        {
+          "name": "Ocean Tides",
+          "url": "https://open.spotify.com/artist/1B4yvrnL53icZnmR4y6upU"
+        }
+      ],
+      "date_added": "2023-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199456,
+      "name": "Warm Breeze",
+      "url": "https://open.spotify.com/track/1LtXfSiSlCUnLPDjJV0FPR"
+    },
+    {
+      "album": {
+        "name": "Warm Breeze",
         "url": "https://open.spotify.com/album/4xdDaS4SrS6rctBC4IyVM8"
       },
       "artists": [
@@ -2136,7 +2154,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 199456,
       "name": "Warm Breeze",
       "url": "https://open.spotify.com/track/4T5OICEpPY57v3xqHwEQ3X"

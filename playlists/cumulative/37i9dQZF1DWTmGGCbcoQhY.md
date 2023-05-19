@@ -4,7 +4,7 @@
 
 > ¡Un sa\-sa\-saludo a todos los amantes de la cu\-cu\-cumbia!
 
-237 songs - 15 hr 48 min
+238 songs - 15 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -204,13 +204,14 @@
 | [Solo una noche](https://open.spotify.com/track/4xw8WhjE2N4GEbpvuBPXlp) | [Grupo Apasionadoz](https://open.spotify.com/artist/77OaNaVi2ujQNhBVk4jod3) | [Y llegó papá](https://open.spotify.com/album/7AP4rtW2IBFtsKs9rtto6t) | 3:47 | 2022-11-12 | 2022-11-13 |
 | [Soy Maraquero](https://open.spotify.com/track/1VyoVchWIOMkQ1dbRJVgII) | [Kual](https://open.spotify.com/artist/0MYzX59ADPWfK15pDNZzuo) | [Lo Mas Ka\-Bron Sonidero](https://open.spotify.com/album/1XiYKT5lO5c1bwwTwiiOIA) | 5:00 | 2021-11-30 |  |
 | [Soy Soltero](https://open.spotify.com/track/09bBwB9wctmnYtxMOdNGRd) | [El Dipy](https://open.spotify.com/artist/2Bof5crSbhfBwf2pHNjPlw) | [No Lo Compren](https://open.spotify.com/album/31nDorIqLwLOrjNtf31zGR) | 3:37 | 2022-06-07 | 2022-12-10 |
+| [Soñe Contigo](https://open.spotify.com/track/4TODthHaTIikA7zyVMBaEk) | [Claudio Morán](https://open.spotify.com/artist/7nhmhY1TyOa8drWz4O6tAO) | [Cumbias de Colección](https://open.spotify.com/album/3vUBhhUFYjEC84W5cUpBhw) | 4:03 | 2023-04-28 |  |
 | [Suavemente Amor](https://open.spotify.com/track/7bCNS79pv7K9iYtqAo0uIW) | [Los Yaguarú](https://open.spotify.com/artist/1CajkwEgJac9j9alNJJxTQ) | [Los Yaguaru](https://open.spotify.com/album/6zLHoo66ahzFaPgo7Sp3FA) | 3:54 | 2022-06-07 |  |
 | [Supernova](https://open.spotify.com/track/4yUAN9jxzSyUQwDqoeAn2o) | [Raymix](https://open.spotify.com/artist/0hHT2BH7XTm3ZdZb6CX064) | [Supernova](https://open.spotify.com/album/3mwTLXoy16AqCa3Pokixps) | 2:56 | 2022-06-07 | 2022-12-10 |
 | [Te Vas](https://open.spotify.com/track/46Va99JYvHOvsMoAeO6fu8) | [Grupo Quintanna](https://open.spotify.com/artist/17jlmfAaFHbfrauHk2HiNc) | [Haciendo Historia](https://open.spotify.com/album/6BwYbIiNj3OW3X7kcSzb5e) | 4:05 | 2022-03-08 |  |
 | [Te Vas](https://open.spotify.com/track/4ZfkD5eY1AzczRM3m7q8Ur) | [Grupo Quintanna](https://open.spotify.com/artist/17jlmfAaFHbfrauHk2HiNc) | [Te Vas](https://open.spotify.com/album/4TzvdAhRLDZxqmOF6ezlMi) | 4:05 | 2021-11-30 | 2022-07-25 |
 | [Te Vas Con El o Te Vas Conmigo](https://open.spotify.com/track/21voFmS2anMlrpB8WR7wgd) | [Los Tepoz](https://open.spotify.com/artist/1yu6r3vgWWDpQLOVHtM8pW) | [El Angel Del Amor](https://open.spotify.com/album/1iqpr5cqKi8XkqCAmV1eGD) | 4:32 | 2022-06-07 | 2023-03-12 |
 | [Te Vas Con el o Te Vas Conmigo](https://open.spotify.com/track/3zjZmzojgpq1vxf6Y9eTE0) | [Los Tepoz](https://open.spotify.com/artist/1yu6r3vgWWDpQLOVHtM8pW) | [El Angel del Amor](https://open.spotify.com/album/51QPsSHrXnW1u8dwEzbzRB) | 4:32 | 2021-11-30 | 2022-07-29 |
-| [Te Vas Con El O Te Vas Conmigo](https://open.spotify.com/track/1dPss1wm3YbdRMuYinPrqq) | [Los Tepoz](https://open.spotify.com/artist/1yu6r3vgWWDpQLOVHtM8pW) | [El Angel Del Amor](https://open.spotify.com/album/2Seyfb2z21MPHZs4As75ba) | 4:41 | 2022-06-07 |  |
+| [Te Vas Con El O Te Vas Conmigo](https://open.spotify.com/track/1dPss1wm3YbdRMuYinPrqq) | [Los Tepoz](https://open.spotify.com/artist/1yu6r3vgWWDpQLOVHtM8pW) | [El Angel Del Amor](https://open.spotify.com/album/2Seyfb2z21MPHZs4As75ba) | 4:41 | 2022-06-07 | 2023-05-19 |
 | [Te Voy a Olvidar](https://open.spotify.com/track/0msACNON5NL1T1qNnh1hZE) | [Los Telez](https://open.spotify.com/artist/4KZzz3Ri83L1aE5rNK9q3A) | [Te Voy a Olvidar](https://open.spotify.com/album/7xBqz6rLLFHoWSKyGwp6Qf) | 3:45 | 2021-11-30 | 2022-02-04 |
 | [Tiene Espinas El Rosal](https://open.spotify.com/track/1PZ3QsCFec05Ls3PwOqKXZ) | [Grupo Cañaveral De Humberto Pabón](https://open.spotify.com/artist/48zixAu4wMDZwpVbOenDU7) | [Grupo Cañaveral, Vol\. III](https://open.spotify.com/album/4lxhwVX8BPSeITPGBOzIJw) | 3:57 | 2021-11-30 | 2022-07-29 |
 | [Tiene Espinas El Rosal](https://open.spotify.com/track/1JO6kEdXrxBq9QobefZg0H) | [Grupo Cañaveral De Humberto Pabón](https://open.spotify.com/artist/48zixAu4wMDZwpVbOenDU7) | [Grupo Cañaveral, Vol\. 3](https://open.spotify.com/album/0enYFc2pFSAqZ53enjSU5r) | 3:58 | 2022-06-07 |  |

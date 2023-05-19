@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXayr1BrK1OaY.md) - [plain]
 
 > let the dj set u free
 
-[Spotify](https://open.spotify.com/user/spotify) - 164,740 likes - 75 songs - 4 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 165,012 likes - 75 songs - 4 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,7 +50,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXayr1BrK1OaY.md) - [plain]
 | 40 | [Dancing On My Own \- Radio Edit](https://open.spotify.com/track/7g13jf3zqlP5S68Voo5v9m) | [Robyn](https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2) | [Body Talk](https://open.spotify.com/album/0Rzg7fqyWE39G6wKipxrns) | 4:38 |
 | 41 | [Body Back \(feat\. Maia Wright\)](https://open.spotify.com/track/57DJaoHdeeRrg7MWthNnee) | [Gryffin](https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh), [Maia Wright](https://open.spotify.com/artist/5qQFXHDOeYjiZVrCUO56Pk) | [Gravity](https://open.spotify.com/album/2IAVHJdaRPFA6MQqXHoG75) | 3:34 |
 | 42 | [Maze](https://open.spotify.com/track/1sFIeryYtYTqcRqZiEuIxh) | [Punctual](https://open.spotify.com/artist/1ocnIbhFWM9bSPrd7Hu4zF), [PHIA](https://open.spotify.com/artist/6O6aPDrL58wZRzQ6Rqq9or) | [Maze](https://open.spotify.com/album/3IoThqpjyqj8cjbz5RCTrj) | 3:03 |
-| 43 | [Angie \(i’ve been lost\) \[feat\. Angie McMahon\]](https://open.spotify.com/track/24CoUR3GwPXeWJzGizLzhR) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Angie McMahon](https://open.spotify.com/artist/574ERIqzZ5yZU9JhIf3Ysf) | [Actual Life \(April 14 \- December 17 2020\)](https://open.spotify.com/album/6o86bV7TAt5x4exc2qLDqC) | 4:45 |
+| 43 | [Angie \(I’ve Been Lost\) \[feat\. Angie McMahon\]](https://open.spotify.com/track/24CoUR3GwPXeWJzGizLzhR) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Angie McMahon](https://open.spotify.com/artist/574ERIqzZ5yZU9JhIf3Ysf) | [Actual Life \(April 14 \- December 17 2020\)](https://open.spotify.com/album/6o86bV7TAt5x4exc2qLDqC) | 4:45 |
 | 44 | [HEART ATTACK](https://open.spotify.com/track/4F8wogXmIgCXEsi1FK0gH4) | [BRONSON](https://open.spotify.com/artist/60yfafz0P3gqaUaOUIddae), [ODESZA](https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw), [Golden Features](https://open.spotify.com/artist/2SrWifjYv7b5tR8EzEmn1x), [lau.ra](https://open.spotify.com/artist/3uOdNUjwD6hhOh1z2dQEIn) | [BRONSON](https://open.spotify.com/album/7zUK6seRiiD2x2HhzOLdrg) | 3:29 |
 | 45 | [YourLove](https://open.spotify.com/track/2yQweA8nCYuzFj15LiOb41) | [Logic1000](https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I) | [Safe In My Arms / YourLove](https://open.spotify.com/album/2B7X9jUKwOhDLouk997Ut3) | 2:52 |
 | 46 | [Aftertaste](https://open.spotify.com/track/4fI6RSIPnwSDhGP0LXtpxG) | [Loud Luxury](https://open.spotify.com/artist/6t1gpxYbY8OlLA7D2RiikQ), [Morgan St\. Jean](https://open.spotify.com/artist/4kAyoGhVlC6PFg0FvMqmFB) | [Aftertaste \(D.O.D Remix\)](https://open.spotify.com/album/6Sk0Mnki17p8mxtT4t6HjW) | 3:17 |
@@ -74,8 +74,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXayr1BrK1OaY.md) - [plain]
 | 64 | [On My Knees \- Adriatique Remix](https://open.spotify.com/track/7MbfrPIsgFDVJifA7p7Evk) | [RÜFÜS DU SOL](https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj), [Adriatique](https://open.spotify.com/artist/02DWGcShQivFepRvGJ7xhB) | [On My Knees \(Adriatique Remix\)](https://open.spotify.com/album/3AKto0kGctRc516VlXLJQr) | 7:32 |
 | 65 | [Never Ending](https://open.spotify.com/track/1SGbmqB3dxlrp4YkKzZUto) | [Bob Moses](https://open.spotify.com/artist/6LHsnRBUYhFyt01PdKXAF5) | [Never Ending](https://open.spotify.com/album/1emHqizAHsvhYxVEt6YHXo) | 4:02 |
 | 66 | [Lone Raver](https://open.spotify.com/track/06r5aMZ8cT6wZXcEyqOLH4) | [Barry Can't Swim](https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl) | [Lone Raver](https://open.spotify.com/album/0qpxpizwkNZexLID0TEPWe) | 4:17 |
-| 67 | [Alive \(with Calle Lehmann\)](https://open.spotify.com/track/4deWlPS9a4WH2UmdvsamrB) | [Gryffin](https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh), [Calle Lehmann](https://open.spotify.com/artist/2QeNM65b7IWvK4Ofcqz8cm) | [Alive \(with Calle Lehmann\)](https://open.spotify.com/album/5JqV9qFpXtCtQkbUrzJ3ws) | 3:42 |
-| 68 | [Envious](https://open.spotify.com/track/5qW3tkBTtvjBSZIBR51yIs) | [Aluna](https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE) | [Renaissance](https://open.spotify.com/album/0cFJfTwmx4KOM9zEy9i2nB) | 3:22 |
+| 67 | [Envious](https://open.spotify.com/track/5qW3tkBTtvjBSZIBR51yIs) | [Aluna](https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE) | [Renaissance](https://open.spotify.com/album/0cFJfTwmx4KOM9zEy9i2nB) | 3:22 |
+| 68 | [Alive \(with Calle Lehmann\)](https://open.spotify.com/track/4deWlPS9a4WH2UmdvsamrB) | [Gryffin](https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh), [Calle Lehmann](https://open.spotify.com/artist/2QeNM65b7IWvK4Ofcqz8cm) | [Alive \(with Calle Lehmann\)](https://open.spotify.com/album/5JqV9qFpXtCtQkbUrzJ3ws) | 3:42 |
 | 69 | [About Us \(feat\. EMME\)](https://open.spotify.com/track/6NitJf2pJZ4ssPTWZ1ZuVv) | [Le Youth](https://open.spotify.com/artist/1Zz6NBe8UIZjm88TvehFtx), [EMME](https://open.spotify.com/artist/04zy0QJacNRBhI0H3WmkSs) | [About Us \(feat\. EMME\)](https://open.spotify.com/album/5lK1i9qlTSll67PyLqcxrs) | 4:46 |
 | 70 | [Missing You](https://open.spotify.com/track/1Y3rH662UDCRPkZe1KUOyM) | [Gareth Emery](https://open.spotify.com/artist/0hprEC0nsWuQPSHag1O2Vi), [Maria Lynn](https://open.spotify.com/artist/5Mzwod7pfk4JkLR29O3v7j) | [Missing You](https://open.spotify.com/album/5i1JWD1UbiURo8JlguXhym) | 3:17 |
 | 71 | [Can't Do Without You](https://open.spotify.com/track/5owacNcWuezb4JHoGdoQSj) | [Caribou](https://open.spotify.com/artist/4aEnNH9PuU1HF3TsZTru54) | [Our Love](https://open.spotify.com/album/4JOmLltFC735tBL7jfHfA7) | 3:56 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXayr1BrK1OaY.md) - [plain]
 | 74 | [Hide and Seek \- Le Youth Remix](https://open.spotify.com/track/6uSLLJJ5r936DO1SASSViy) | [Catie Turner](https://open.spotify.com/artist/3nYYI90ObxhjLjdxaoXGSa), [Le Youth](https://open.spotify.com/artist/1Zz6NBe8UIZjm88TvehFtx) | [Hide and Seek \(Le Youth Remix\)](https://open.spotify.com/album/0scTzt9c9pgTQJM5jPthaO) | 3:51 |
 | 75 | [The Distance](https://open.spotify.com/track/3MOUt4k7KUP8qVheHT8RG0) | [Totally Enormous Extinct Dinosaurs](https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN) | [The Distance](https://open.spotify.com/album/2ePg95gGoOPRmUQYFLq0wy) | 4:51 |
 
-Snapshot ID: `MCxlNzJhODk3ZjA2NTA5ZDAwMDQ0Y2E2NDRmZjBlNWYwYjcxZGE0MGRk`
+Snapshot ID: `MCxmYjE5MDdlYjVhMzc0MWZiMWQ2ZmRlMTJjNzlhNDc5Njg0M2RiNTBi`

@@ -354,7 +354,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 262628,
       "name": "Drops - Kanine Remix",
       "url": "https://open.spotify.com/track/1KyPT1Fno54CmoGYmwi0Ix"
@@ -508,7 +508,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 189849,
       "name": "Freak",
       "url": "https://open.spotify.com/track/1BKOmg5DzDud3mjDvsdGfQ"
@@ -592,7 +592,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-05",
+      "date_removed": null,
       "duration_ms": 179310,
       "name": "Glitter",
       "url": "https://open.spotify.com/track/1AtifUJiEqzf1lHxxSKVEz"
@@ -742,10 +742,32 @@
       ],
       "date_added": "2023-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 160000,
       "name": "Know What It Means",
       "url": "https://open.spotify.com/track/0RQuLXr0cWjAombfMjdvc3"
+    },
+    {
+      "album": {
+        "name": "Know What It Means",
+        "url": "https://open.spotify.com/album/0AaRkGHFB4D8PsZylovt0d"
+      },
+      "artists": [
+        {
+          "name": "Skepsis",
+          "url": "https://open.spotify.com/artist/6DnQYUjtYusK9QJts9HqSC"
+        },
+        {
+          "name": "Raphaella",
+          "url": "https://open.spotify.com/artist/3rJPS8fYBokXpYw1mS9wr0"
+        }
+      ],
+      "date_added": "2023-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "Know What It Means",
+      "url": "https://open.spotify.com/track/1FIFWiHNLtohEAnuFgNgJf"
     },
     {
       "album": {
@@ -782,7 +804,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-26",
+      "date_removed": null,
       "duration_ms": 335533,
       "name": "Levels Freestyle",
       "url": "https://open.spotify.com/track/3nbW6neNqXZbMAfoptn9w6"
@@ -1112,7 +1134,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 237168,
       "name": "Over",
       "url": "https://open.spotify.com/track/5cIhCgoaVhYLWi7Lwm3uhA"
@@ -1178,7 +1200,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 266929,
       "name": "Party All the Time",
       "url": "https://open.spotify.com/track/64b0SqjZpoCb74swNsK4Ea"
@@ -1596,6 +1618,28 @@
     {
       "album": {
         "name": "Streetside",
+        "url": "https://open.spotify.com/album/138qbOSq6Wy6ubheDW8HBK"
+      },
+      "artists": [
+        {
+          "name": "Bru-C",
+          "url": "https://open.spotify.com/artist/7GDrXlpRrdG29o4n0pNR5D"
+        },
+        {
+          "name": "Bou",
+          "url": "https://open.spotify.com/artist/35dxfY1wywqVRUEaVuMm13"
+        }
+      ],
+      "date_added": "2023-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219428,
+      "name": "Streetside",
+      "url": "https://open.spotify.com/track/48nIqwRQyLtqEcGzJWykLL"
+    },
+    {
+      "album": {
+        "name": "Streetside",
         "url": "https://open.spotify.com/album/0EOl5Udxu7CxJ5u3XbkRnN"
       },
       "artists": [
@@ -1610,7 +1654,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 219428,
       "name": "Streetside",
       "url": "https://open.spotify.com/track/4HcmKnUwCKsloslonqMzCN"
@@ -1756,7 +1800,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-14",
+      "date_removed": null,
       "duration_ms": 344999,
       "name": "The Damn Guy",
       "url": "https://open.spotify.com/track/78W81pRYN5j3SV1819Dz0F"
@@ -1884,7 +1928,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 247210,
       "name": "Want You",
       "url": "https://open.spotify.com/track/4nrcPumLm5ozA8qOEHcVm2"
@@ -1980,7 +2024,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-14",
+      "date_removed": null,
       "duration_ms": 258000,
       "name": "Whippet",
       "url": "https://open.spotify.com/track/0iJRGATJdTzyahu6s4S1eY"
@@ -1998,7 +2042,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-26",
+      "date_removed": null,
       "duration_ms": 165000,
       "name": "Who's Got The Bag",
       "url": "https://open.spotify.com/track/0fquu5CejT76HhQejc6q7v"
@@ -2042,10 +2086,32 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 264000,
       "name": "You & I",
       "url": "https://open.spotify.com/track/0PX9O7QzWYClP6PPuIaomj"
+    },
+    {
+      "album": {
+        "name": "Original Sounds",
+        "url": "https://open.spotify.com/album/1ylJ8b59k8DOdSFC8IsA4m"
+      },
+      "artists": [
+        {
+          "name": "Bru-C",
+          "url": "https://open.spotify.com/artist/7GDrXlpRrdG29o4n0pNR5D"
+        },
+        {
+          "name": "Simula",
+          "url": "https://open.spotify.com/artist/2KCmoJZgpL6hNFdT4l9PTl"
+        }
+      ],
+      "date_added": "2023-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264000,
+      "name": "You & I (feat. Simula)",
+      "url": "https://open.spotify.com/track/6Cu9UhyPS5VitSAdwGaM2i"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX4cMP5VV3uz1"

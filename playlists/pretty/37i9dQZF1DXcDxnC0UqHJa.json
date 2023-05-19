@@ -1,12 +1,12 @@
 {
   "description": "Folksy takes on your favorite tracks. Cover: Josiah and the Bonnevilles",
-  "num_followers": 471649,
+  "num_followers": 471680,
   "original_name": "Folksy Covers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1NzQ5ZDJmY2FjY2NlY2MzMzVhODIxZDFlMmMxMWMwMjFiZDg2ODZk",
+  "snapshot_id": "MCxiOTQ1YmVhNGE1YWE4M2IyMGU4ZTJiNGYwM2M2MDkwOWJiNDNlNDI3",
   "tracks": [
     {
       "added_at": "2023-05-12 04:00:00",
@@ -687,22 +687,6 @@
     {
       "added_at": "2023-05-12 04:00:00",
       "album": {
-        "name": "NUDES",
-        "url": "https://open.spotify.com/album/4CJOeZrzjHBiLXEusekD5y"
-      },
-      "artists": [
-        {
-          "name": "Lucius",
-          "url": "https://open.spotify.com/artist/1WrqUPWlHN5FXCRcQgrkas"
-        }
-      ],
-      "duration_ms": 235871,
-      "name": "Right Down The Line",
-      "url": "https://open.spotify.com/track/2aU77iuoOElIJyXl0YoI9O"
-    },
-    {
-      "added_at": "2023-05-12 04:00:00",
-      "album": {
         "name": "Candid",
         "url": "https://open.spotify.com/album/02b3E6hkZ8TslA7nDnrrb2"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 165106,
       "name": "Take Me Home, Country Roads (ft. Waxahatchee)",
       "url": "https://open.spotify.com/track/4pR4OUNzzhK3vDY89PN1Oa"
+    },
+    {
+      "added_at": "2023-05-12 04:00:00",
+      "album": {
+        "name": "NUDES",
+        "url": "https://open.spotify.com/album/4CJOeZrzjHBiLXEusekD5y"
+      },
+      "artists": [
+        {
+          "name": "Lucius",
+          "url": "https://open.spotify.com/artist/1WrqUPWlHN5FXCRcQgrkas"
+        }
+      ],
+      "duration_ms": 235871,
+      "name": "Right Down The Line",
+      "url": "https://open.spotify.com/track/2aU77iuoOElIJyXl0YoI9O"
     },
     {
       "added_at": "2023-05-12 04:00:00",
@@ -883,22 +883,6 @@
     {
       "added_at": "2023-05-12 04:00:00",
       "album": {
-        "name": "Come Give Me Love",
-        "url": "https://open.spotify.com/album/4Q2SIzTIZXzWykvl3DGVPK"
-      },
-      "artists": [
-        {
-          "name": "First Aid Kit",
-          "url": "https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1"
-        }
-      ],
-      "duration_ms": 239643,
-      "name": "Come Give Me Love",
-      "url": "https://open.spotify.com/track/6lG3q4b7eoeplybJUqXP96"
-    },
-    {
-      "added_at": "2023-05-12 04:00:00",
-      "album": {
         "name": "The Covers",
         "url": "https://open.spotify.com/album/36J1uwN2oRzKRihIKxDIUV"
       },
@@ -919,6 +903,22 @@
       "duration_ms": 196537,
       "name": "Love Hurts",
       "url": "https://open.spotify.com/track/6UreecgqiwH1aQTXfRiMqg"
+    },
+    {
+      "added_at": "2023-05-12 04:00:00",
+      "album": {
+        "name": "Come Give Me Love",
+        "url": "https://open.spotify.com/album/4Q2SIzTIZXzWykvl3DGVPK"
+      },
+      "artists": [
+        {
+          "name": "First Aid Kit",
+          "url": "https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1"
+        }
+      ],
+      "duration_ms": 239643,
+      "name": "Come Give Me Love",
+      "url": "https://open.spotify.com/track/6lG3q4b7eoeplybJUqXP96"
     },
     {
       "added_at": "2023-05-12 04:00:00",
@@ -1271,22 +1271,6 @@
     {
       "added_at": "2023-05-12 04:00:00",
       "album": {
-        "name": "Uummati Attanarsimat (Heart of Glass)",
-        "url": "https://open.spotify.com/album/4qQYh3Udg39IwdwBPM8TZZ"
-      },
-      "artists": [
-        {
-          "name": "Elisapie",
-          "url": "https://open.spotify.com/artist/37Hkw3PjSoS9k06WwMibM3"
-        }
-      ],
-      "duration_ms": 238288,
-      "name": "Uummati Attanarsimat (Heart of Glass)",
-      "url": "https://open.spotify.com/track/74RYxK9eVeNDLdlCJTmQnJ"
-    },
-    {
-      "added_at": "2023-05-12 04:00:00",
-      "album": {
         "name": "1979",
         "url": "https://open.spotify.com/album/40rI4qa8uU2W7u1z4JKVZg"
       },
@@ -1327,6 +1311,22 @@
       "duration_ms": 228320,
       "name": "Crossing Muddy Waters",
       "url": "https://open.spotify.com/track/7jb1ZSirsHV1H2cLTNbqDX"
+    },
+    {
+      "added_at": "2023-05-12 04:00:00",
+      "album": {
+        "name": "Uummati Attanarsimat (Heart of Glass)",
+        "url": "https://open.spotify.com/album/4qQYh3Udg39IwdwBPM8TZZ"
+      },
+      "artists": [
+        {
+          "name": "Elisapie",
+          "url": "https://open.spotify.com/artist/37Hkw3PjSoS9k06WwMibM3"
+        }
+      ],
+      "duration_ms": 238288,
+      "name": "Uummati Attanarsimat (Heart of Glass)",
+      "url": "https://open.spotify.com/track/74RYxK9eVeNDLdlCJTmQnJ"
     },
     {
       "added_at": "2023-05-12 04:00:00",
@@ -1399,6 +1399,22 @@
     {
       "added_at": "2023-05-12 04:00:00",
       "album": {
+        "name": "In the Magic Hour Solo Sessions",
+        "url": "https://open.spotify.com/album/1XxOQRUB7eOOQWryZM3YZM"
+      },
+      "artists": [
+        {
+          "name": "Aoife O'Donovan",
+          "url": "https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa"
+        }
+      ],
+      "duration_ms": 228626,
+      "name": "Nebraska - Acoustic",
+      "url": "https://open.spotify.com/track/5H3hNv8kLr15zQxFUiuIqT"
+    },
+    {
+      "added_at": "2023-05-12 04:00:00",
+      "album": {
         "name": "To Ramona",
         "url": "https://open.spotify.com/album/0JNGjWHIOEzGbjmakQvzBU"
       },
@@ -1447,38 +1463,22 @@
     {
       "added_at": "2023-05-12 04:00:00",
       "album": {
-        "name": "In the Magic Hour Solo Sessions",
-        "url": "https://open.spotify.com/album/1XxOQRUB7eOOQWryZM3YZM"
+        "name": "Don't Dream It's Over / Everything Is Free",
+        "url": "https://open.spotify.com/album/0cmgOTDZk3SgW61MEE1v2v"
       },
       "artists": [
         {
-          "name": "Aoife O'Donovan",
-          "url": "https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa"
-        }
-      ],
-      "duration_ms": 228626,
-      "name": "Nebraska - Acoustic",
-      "url": "https://open.spotify.com/track/5H3hNv8kLr15zQxFUiuIqT"
-    },
-    {
-      "added_at": "2023-05-12 04:00:00",
-      "album": {
-        "name": "Polyhymnia",
-        "url": "https://open.spotify.com/album/4ThHnK1QSkpfwzHqpybmlz"
-      },
-      "artists": [
-        {
-          "name": "Eddie Berman",
-          "url": "https://open.spotify.com/artist/7FfxvcUIbQ1VxrApeoq8ql"
+          "name": "Flock of Dimes",
+          "url": "https://open.spotify.com/artist/1TTfuOdEtj8lin2zR4OWmP"
         },
         {
-          "name": "Laura Marling",
-          "url": "https://open.spotify.com/artist/7B2edU3Q7btJoNsoHCNohM"
+          "name": "Sylvan Esso",
+          "url": "https://open.spotify.com/artist/39vA9YljbnOApXKniLWBZv"
         }
       ],
-      "duration_ms": 395120,
-      "name": "Like a Rolling Stone",
-      "url": "https://open.spotify.com/track/43SCvTx9ME4KhHAVMKGnrT"
+      "duration_ms": 257755,
+      "name": "Everything Is Free",
+      "url": "https://open.spotify.com/track/3aBawHB7qLLxfC7Taph74U"
     },
     {
       "added_at": "2023-05-12 04:00:00",
@@ -1499,22 +1499,22 @@
     {
       "added_at": "2023-05-12 04:00:00",
       "album": {
-        "name": "Don't Dream It's Over / Everything Is Free",
-        "url": "https://open.spotify.com/album/0cmgOTDZk3SgW61MEE1v2v"
+        "name": "Polyhymnia",
+        "url": "https://open.spotify.com/album/4ThHnK1QSkpfwzHqpybmlz"
       },
       "artists": [
         {
-          "name": "Flock of Dimes",
-          "url": "https://open.spotify.com/artist/1TTfuOdEtj8lin2zR4OWmP"
+          "name": "Eddie Berman",
+          "url": "https://open.spotify.com/artist/7FfxvcUIbQ1VxrApeoq8ql"
         },
         {
-          "name": "Sylvan Esso",
-          "url": "https://open.spotify.com/artist/39vA9YljbnOApXKniLWBZv"
+          "name": "Laura Marling",
+          "url": "https://open.spotify.com/artist/7B2edU3Q7btJoNsoHCNohM"
         }
       ],
-      "duration_ms": 257755,
-      "name": "Everything Is Free",
-      "url": "https://open.spotify.com/track/3aBawHB7qLLxfC7Taph74U"
+      "duration_ms": 395120,
+      "name": "Like a Rolling Stone",
+      "url": "https://open.spotify.com/track/43SCvTx9ME4KhHAVMKGnrT"
     },
     {
       "added_at": "2023-05-12 04:00:00",
@@ -1563,22 +1563,6 @@
       "duration_ms": 257941,
       "name": "Both Sides Now",
       "url": "https://open.spotify.com/track/0d5tb0XcClqZo7CJ4GQuBm"
-    },
-    {
-      "added_at": "2023-05-12 04:00:00",
-      "album": {
-        "name": "Surrounded by the Sound: Ten Covers by Eddie Berman",
-        "url": "https://open.spotify.com/album/7FNhjBeQyClK0vJTIq5Tbe"
-      },
-      "artists": [
-        {
-          "name": "Eddie Berman",
-          "url": "https://open.spotify.com/artist/7FfxvcUIbQ1VxrApeoq8ql"
-        }
-      ],
-      "duration_ms": 253493,
-      "name": "You Can Call Me Al",
-      "url": "https://open.spotify.com/track/1SQhbY8R2c10L76ZDtHTgm"
     },
     {
       "added_at": "2023-05-12 04:00:00",
@@ -1647,6 +1631,22 @@
       "duration_ms": 264930,
       "name": "Sledgehammer",
       "url": "https://open.spotify.com/track/7cWTvfOdnO2slD9Xm7DK87"
+    },
+    {
+      "added_at": "2023-05-12 04:00:00",
+      "album": {
+        "name": "Surrounded by the Sound: Ten Covers by Eddie Berman",
+        "url": "https://open.spotify.com/album/7FNhjBeQyClK0vJTIq5Tbe"
+      },
+      "artists": [
+        {
+          "name": "Eddie Berman",
+          "url": "https://open.spotify.com/artist/7FfxvcUIbQ1VxrApeoq8ql"
+        }
+      ],
+      "duration_ms": 253493,
+      "name": "You Can Call Me Al",
+      "url": "https://open.spotify.com/track/1SQhbY8R2c10L76ZDtHTgm"
     },
     {
       "added_at": "2023-05-12 04:00:00",
@@ -1795,22 +1795,6 @@
     {
       "added_at": "2023-05-12 04:00:00",
       "album": {
-        "name": "BrooklynVegan Presents Sun Salute: A Tribute to Katrina & The Waves and Walking on Sunshine",
-        "url": "https://open.spotify.com/album/56YoLMVeXAAziNRbN3EF9B"
-      },
-      "artists": [
-        {
-          "name": "Sam Amidon",
-          "url": "https://open.spotify.com/artist/6TTJ0xLPPNDyv4bXyukzU4"
-        }
-      ],
-      "duration_ms": 187724,
-      "name": "Walking on Sunshine",
-      "url": "https://open.spotify.com/track/5yGs5BtZC9uN1VW0lKfgwz"
-    },
-    {
-      "added_at": "2023-05-12 04:00:00",
-      "album": {
         "name": "The Age Of Worry",
         "url": "https://open.spotify.com/album/2sK9FA8u60GpTqusHp8GqN"
       },
@@ -1823,6 +1807,22 @@
       "duration_ms": 167186,
       "name": "The Age Of Worry",
       "url": "https://open.spotify.com/track/7ltM6d3uA0lUBCPfJTyc1N"
+    },
+    {
+      "added_at": "2023-05-12 04:00:00",
+      "album": {
+        "name": "BrooklynVegan Presents Sun Salute: A Tribute to Katrina & The Waves and Walking on Sunshine",
+        "url": "https://open.spotify.com/album/56YoLMVeXAAziNRbN3EF9B"
+      },
+      "artists": [
+        {
+          "name": "Sam Amidon",
+          "url": "https://open.spotify.com/artist/6TTJ0xLPPNDyv4bXyukzU4"
+        }
+      ],
+      "duration_ms": 187724,
+      "name": "Walking on Sunshine",
+      "url": "https://open.spotify.com/track/5yGs5BtZC9uN1VW0lKfgwz"
     },
     {
       "added_at": "2023-05-12 04:00:00",

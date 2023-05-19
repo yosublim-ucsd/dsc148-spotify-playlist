@@ -77,6 +77,42 @@
     },
     {
       "album": {
+        "name": "afternoon hour",
+        "url": "https://open.spotify.com/album/7Lyw93t3o4riUzM7WwqBl9"
+      },
+      "artists": [
+        {
+          "name": "star images",
+          "url": "https://open.spotify.com/artist/4hvbrirUxZ0k2ND6FlwiXv"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138470,
+      "name": "afternoon hour",
+      "url": "https://open.spotify.com/track/1Pc1Dp3YssM92zVSt1MNiL"
+    },
+    {
+      "album": {
+        "name": "Amble",
+        "url": "https://open.spotify.com/album/2PEi0DFcOMBQaEDsS7elKg"
+      },
+      "artists": [
+        {
+          "name": "A Clear Path",
+          "url": "https://open.spotify.com/artist/1zZBuJ9UnhzJ6vhVWkq2vI"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143270,
+      "name": "Amble",
+      "url": "https://open.spotify.com/track/1a2wz6t0zJ88TMZGuJ7SaN"
+    },
+    {
+      "album": {
         "name": "Andromeda Shimmer",
         "url": "https://open.spotify.com/album/4lUIFJ7YZuwxqEYoMwWMQB"
       },
@@ -110,6 +146,24 @@
       "duration_ms": 168669,
       "name": "Any Day Now",
       "url": "https://open.spotify.com/track/4Ma1uiF9nGClYmNx7yuhEJ"
+    },
+    {
+      "album": {
+        "name": "You'll See",
+        "url": "https://open.spotify.com/album/4ShmyDAGJSuuBWw3KvblFK"
+      },
+      "artists": [
+        {
+          "name": "Carl Eksmo",
+          "url": "https://open.spotify.com/artist/4JlBaKUUlUUChHUlgDahZB"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174350,
+      "name": "Be There",
+      "url": "https://open.spotify.com/track/2qFsvgnQJ4bA4SqizPiXyV"
     },
     {
       "album": {
@@ -340,7 +394,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 154500,
       "name": "Clusters",
       "url": "https://open.spotify.com/track/2QHuP9PnPJuu8T3YrhGWLA"
@@ -603,6 +657,24 @@
     },
     {
       "album": {
+        "name": "Enfold",
+        "url": "https://open.spotify.com/album/2gM2qHwJCTBDjRSmu4LlMM"
+      },
+      "artists": [
+        {
+          "name": "Tim Gourolis",
+          "url": "https://open.spotify.com/artist/5q8Q9Fa2WPZVwj5VR6XYgp"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125947,
+      "name": "Enfold",
+      "url": "https://open.spotify.com/track/6a1xKnw1NPKeNv3r0dNZS6"
+    },
+    {
+      "album": {
         "name": "Silver City",
         "url": "https://open.spotify.com/album/0zeC3nS5nlOK1aJ9vK8mFE"
       },
@@ -758,7 +830,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 215750,
       "name": "Floral Hymn",
       "url": "https://open.spotify.com/track/2gCd69plASs1CIhfArHlPQ"
@@ -873,6 +945,24 @@
     },
     {
       "album": {
+        "name": "Golden Sunlight",
+        "url": "https://open.spotify.com/album/0GWFhwNMKAeZieFJu523gt"
+      },
+      "artists": [
+        {
+          "name": "Humasn\u00f3",
+          "url": "https://open.spotify.com/artist/2Wz9qZXuCKpiz1XY33xXOp"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113070,
+      "name": "Golden Sunlight",
+      "url": "https://open.spotify.com/track/6f0V6AQ5jEUxe8LULVJsmE"
+    },
+    {
+      "album": {
         "name": "Hazy",
         "url": "https://open.spotify.com/album/45XVtdfgbmjIOEl3lLZhc2"
       },
@@ -884,7 +974,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 184433,
       "name": "Hazy",
       "url": "https://open.spotify.com/track/687knmd9df9s6TRLzRVEOZ"
@@ -1122,7 +1212,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 193016,
       "name": "Jules & Jen",
       "url": "https://open.spotify.com/track/5C0BlB1Tm53MOS3SOFUGnN"
@@ -1180,6 +1270,42 @@
       "duration_ms": 153182,
       "name": "kind of wind",
       "url": "https://open.spotify.com/track/0DydsFKNIPPXn2wWmDGyR3"
+    },
+    {
+      "album": {
+        "name": "Kindle",
+        "url": "https://open.spotify.com/album/4hUXuBY37NSv1pV0ULJ4uK"
+      },
+      "artists": [
+        {
+          "name": "Ben Tofft",
+          "url": "https://open.spotify.com/artist/5A2sXpZZ3Es4AgRGrJACy9"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156583,
+      "name": "Kindle",
+      "url": "https://open.spotify.com/track/4eeSuAbpMPqPQwP13mDZUB"
+    },
+    {
+      "album": {
+        "name": "Kindred Spirits",
+        "url": "https://open.spotify.com/album/10jMDZwBmNjnl6LwrOdF6y"
+      },
+      "artists": [
+        {
+          "name": "Antuigo",
+          "url": "https://open.spotify.com/artist/0SIxo5o3Jh1i8IjKtZhjcd"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143000,
+      "name": "Kindred Spirits",
+      "url": "https://open.spotify.com/track/0p0hgUBLBkwCABX6oADkj9"
     },
     {
       "album": {
@@ -1331,6 +1457,28 @@
     },
     {
       "album": {
+        "name": "Fractions of Light",
+        "url": "https://open.spotify.com/album/5x3TeQqcgNZlX9CRSLeurL"
+      },
+      "artists": [
+        {
+          "name": "Rebecca Mardal",
+          "url": "https://open.spotify.com/artist/56PuDgywHPrbEFyujgPc9V"
+        },
+        {
+          "name": "Hanna Lindgren",
+          "url": "https://open.spotify.com/artist/34GCwt10cx3SKWmWbTgUC2"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162972,
+      "name": "Lullaby for the Weary",
+      "url": "https://open.spotify.com/track/2qRRt2Dpf6LhruOw4QHjtJ"
+    },
+    {
+      "album": {
         "name": "Humedal",
         "url": "https://open.spotify.com/album/3aZ7Q5otwzpaHcPXpKLiS2"
       },
@@ -1457,6 +1605,24 @@
     },
     {
       "album": {
+        "name": "More Than This",
+        "url": "https://open.spotify.com/album/0zjMfPqIx1EXHww8Nooigj"
+      },
+      "artists": [
+        {
+          "name": "Lifou",
+          "url": "https://open.spotify.com/artist/30A8LRNZBq4B0GmcpvK0Cc"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120902,
+      "name": "More Than This",
+      "url": "https://open.spotify.com/track/6jtwM4xkNXfrA4c0EhX8pw"
+    },
+    {
+      "album": {
         "name": "New World",
         "url": "https://open.spotify.com/album/2bNHNDvSrrBVJgr62xhZlj"
       },
@@ -1490,6 +1656,24 @@
       "duration_ms": 147200,
       "name": "No Wonder",
       "url": "https://open.spotify.com/track/68bPNGdjaLmXDxv80kKs8H"
+    },
+    {
+      "album": {
+        "name": "Nombres",
+        "url": "https://open.spotify.com/album/66SvMKm56F13ZORVobasSS"
+      },
+      "artists": [
+        {
+          "name": "Le Circuit",
+          "url": "https://open.spotify.com/artist/5dqoV38M6BN9407iAY3aWL"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145676,
+      "name": "Nombres",
+      "url": "https://open.spotify.com/track/2VuZCzaGC71OKkXLNXUmMG"
     },
     {
       "album": {
@@ -1673,6 +1857,24 @@
     },
     {
       "album": {
+        "name": "Out Of Time",
+        "url": "https://open.spotify.com/album/0SP6xdAwk0Ydzlrf5pbHgH"
+      },
+      "artists": [
+        {
+          "name": "Pireas",
+          "url": "https://open.spotify.com/artist/3ypTDxZrbGFGzOhO4XQuJd"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115000,
+      "name": "Out Of Time",
+      "url": "https://open.spotify.com/track/0mjo7wXViZRTaguRX6I6hV"
+    },
+    {
+      "album": {
         "name": "Expanse",
         "url": "https://open.spotify.com/album/5To2yLp2nIg7TZ11RGc9Ho"
       },
@@ -1760,6 +1962,24 @@
       "duration_ms": 121764,
       "name": "Pyramids",
       "url": "https://open.spotify.com/track/1a2BXMnQbjArGITwt3bMD9"
+    },
+    {
+      "album": {
+        "name": "Rainbows",
+        "url": "https://open.spotify.com/album/2gmTjeI0mETRXbZq39yZOk"
+      },
+      "artists": [
+        {
+          "name": "The Frail Hearts",
+          "url": "https://open.spotify.com/artist/407vmsw3jgYhXIyMEN24jc"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154285,
+      "name": "Rainbows",
+      "url": "https://open.spotify.com/track/6aU2VzxqnLsrxpj860pHO0"
     },
     {
       "album": {
@@ -1997,6 +2217,24 @@
     },
     {
       "album": {
+        "name": "Slowly Going",
+        "url": "https://open.spotify.com/album/0kuaCL6dXhSwBpcpYU2Q0W"
+      },
+      "artists": [
+        {
+          "name": "The Aiko",
+          "url": "https://open.spotify.com/artist/2qI0IMelpQDuqwVCmluMQ3"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122903,
+      "name": "Slowly Going",
+      "url": "https://open.spotify.com/track/1CeKTKkj1DlYV9OKWT8D61"
+    },
+    {
+      "album": {
         "name": "Solus",
         "url": "https://open.spotify.com/album/1egYUj4A6rCalOq90beuGw"
       },
@@ -2087,6 +2325,42 @@
     },
     {
       "album": {
+        "name": "Steady",
+        "url": "https://open.spotify.com/album/0OwqK4Wu8efrmNAUHk3eqM"
+      },
+      "artists": [
+        {
+          "name": "Sad Monologue",
+          "url": "https://open.spotify.com/artist/7KnsxDkw3XMYwgbxrCUkfB"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146373,
+      "name": "Steady",
+      "url": "https://open.spotify.com/track/5YyuhQrbqu1vIfts5Z23aJ"
+    },
+    {
+      "album": {
+        "name": "Stillness",
+        "url": "https://open.spotify.com/album/0Sc0AmBkFYD18DBaJ4gykg"
+      },
+      "artists": [
+        {
+          "name": "Times Are Changin'",
+          "url": "https://open.spotify.com/artist/3rwP6QhyrzsIYFUeqy8HCK"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132042,
+      "name": "Stillness",
+      "url": "https://open.spotify.com/track/6SsRkyXeOGVJUvkBmFbrhq"
+    },
+    {
+      "album": {
         "name": "The Skies Above",
         "url": "https://open.spotify.com/album/65BZVVODmw9gxRu13MHG49"
       },
@@ -2098,10 +2372,28 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 216750,
       "name": "Strong Kinds of Emotions",
       "url": "https://open.spotify.com/track/4IAuHbRSyRYfBWMPIFprRj"
+    },
+    {
+      "album": {
+        "name": "Substitute",
+        "url": "https://open.spotify.com/album/0Kg9v9Aewre1YQtG4S6eSZ"
+      },
+      "artists": [
+        {
+          "name": "John Pete Dexter",
+          "url": "https://open.spotify.com/artist/7dljhI1eiWanHTZAy5XQTR"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120541,
+      "name": "Substitute",
+      "url": "https://open.spotify.com/track/5w87mWO7ER1FcjT8bPnF7B"
     },
     {
       "album": {
@@ -2332,7 +2624,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 103586,
       "name": "Telefono B",
       "url": "https://open.spotify.com/track/1rCn4c0ULASiBiEYdQMvc9"
@@ -2573,6 +2865,24 @@
     },
     {
       "album": {
+        "name": "Won't Let Go",
+        "url": "https://open.spotify.com/album/73c7imEJz55H1ckYTLMDjV"
+      },
+      "artists": [
+        {
+          "name": "Lunar Robyn",
+          "url": "https://open.spotify.com/artist/5MMHwlmrS0T1I9o7pa850R"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124814,
+      "name": "Won't Let Go",
+      "url": "https://open.spotify.com/track/2280LJeCzfqedtlabDv5vk"
+    },
+    {
+      "album": {
         "name": "World Above",
         "url": "https://open.spotify.com/album/0mVoSvbZmNqhIIzSRq9Q7o"
       },
@@ -2606,6 +2916,24 @@
       "duration_ms": 310000,
       "name": "You Decide",
       "url": "https://open.spotify.com/track/6af2G4iym8KvVXcL6CvYG9"
+    },
+    {
+      "album": {
+        "name": "You'll See",
+        "url": "https://open.spotify.com/album/4ShmyDAGJSuuBWw3KvblFK"
+      },
+      "artists": [
+        {
+          "name": "Carl Eksmo",
+          "url": "https://open.spotify.com/artist/4JlBaKUUlUUChHUlgDahZB"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199090,
+      "name": "You'll See",
+      "url": "https://open.spotify.com/track/104JWQCWqmJ4BVftIDu2gr"
     },
     {
       "album": {

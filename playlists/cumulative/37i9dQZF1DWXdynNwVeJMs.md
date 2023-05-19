@@ -4,7 +4,7 @@
 
 > Listen to the finest Jazz made in Belgium\. Cover: ECHT!
 
-173 songs - 14 hr 37 min
+174 songs - 14 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -113,10 +113,11 @@
 | [Opalescent](https://open.spotify.com/track/5eKJw3rt8AteMAdixjvpjf) | [Bandler Ching](https://open.spotify.com/artist/4mvrDF03SDI6QujSvEjYdR) | [Sub Surface](https://open.spotify.com/album/6SXiI193XZMG5LY7MoAmvQ) | 5:58 | 2022-09-08 |  |
 | [Opening 1.1.1](https://open.spotify.com/track/18nEqw47WXcG05rKgWnXzy) | [Aka Moon](https://open.spotify.com/artist/4t60EdEbfPZnelA5Qtxulk) | [Opus 111](https://open.spotify.com/album/0sTzPzqVcV9bDtST1BTcRq) | 4:24 | 2022-09-08 | 2022-12-07 |
 | [Orlando](https://open.spotify.com/track/7i09pfaygJs6QkxWYfHc2q) | [Toine Thys](https://open.spotify.com/artist/3zxSolAZlT84wysneC7GUU), [Maxime Sanchez](https://open.spotify.com/artist/68FIFAeVw14qZKFwYoVZVz), [Florent Nisse](https://open.spotify.com/artist/2Lc2XJPebxG3cwCltevhOA), [Antoine Pierre](https://open.spotify.com/artist/5aLaAmqUGjIsoHD3mOjI2V) | [Orlando](https://open.spotify.com/album/08JLLkOjNuMwgbRGFfMK4V) | 6:41 | 2022-09-08 | 2023-05-05 |
-| [Ostend](https://open.spotify.com/track/7qL6fzjiN5TZ8ULxKbbmcA) | [KVR](https://open.spotify.com/artist/46ExxwNgHEKxA2mRzQhdXo) | [Ostend](https://open.spotify.com/album/6zDX7WsgITFRx7OvoMjom5) | 4:22 | 2023-05-04 |  |
+| [Ostend](https://open.spotify.com/track/7qL6fzjiN5TZ8ULxKbbmcA) | [KVR](https://open.spotify.com/artist/46ExxwNgHEKxA2mRzQhdXo) | [Ostend](https://open.spotify.com/album/6zDX7WsgITFRx7OvoMjom5) | 4:22 | 2023-05-04 | 2023-05-19 |
 | [Out The Light](https://open.spotify.com/track/0RLbMwI4Yxl9HPe42lxRd7) | [LũpḁGangGang](https://open.spotify.com/artist/4BuiWlsljizUYmbMP8oYVK) | [Out The Light](https://open.spotify.com/album/4bpokh1FHd4HtG6sHYQM7w) | 3:52 | 2022-12-16 | 2023-01-22 |
 | [Out The Light](https://open.spotify.com/track/2nDj8UEv9AIzVU2YjirnyV) | [LũpḁGangGang](https://open.spotify.com/artist/4BuiWlsljizUYmbMP8oYVK) | [Candy](https://open.spotify.com/album/3KQlNjPSPVSl9QlwMlDpAs) | 3:52 | 2023-01-19 | 2023-02-24 |
 | [Pajo](https://open.spotify.com/track/27hWUgRmRzZXK4xpWhdhAj) | [Super Gum](https://open.spotify.com/artist/6PscJJheK9Sic9olDY2S6J) | [Pajo](https://open.spotify.com/album/73rgmLL4GgY3IgT6wdRw9a) | 5:58 | 2023-04-27 |  |
+| [Paljas](https://open.spotify.com/track/3DoLySSn6cpIBUgYcImbeQ) | [KVR](https://open.spotify.com/artist/46ExxwNgHEKxA2mRzQhdXo) | [Spam vol.1](https://open.spotify.com/album/32kUn5j1n7MfSBNAXV6zUy) | 7:10 | 2023-05-18 |  |
 | [Palm](https://open.spotify.com/track/38ziPejDZl6scCf5FpX5pt) | [Dans Dans](https://open.spotify.com/artist/5x3LMsfwbAiYZy5lAqgM2m) | [6](https://open.spotify.com/album/1blPxSk5fILBbLVUdaXu53) | 7:35 | 2022-09-29 |  |
 | [Pathetic Sounds](https://open.spotify.com/track/38WUEUXFXHOcCX0tjfESAW) | [Bram Weijters' Crazy Men](https://open.spotify.com/artist/3b0K5U2c1dUoMGwEAiQoBN) | [The Return](https://open.spotify.com/album/0cZZ8ctlUuUmTAOpIMraEd) | 3:59 | 2022-09-08 |  |
 | [Photonic](https://open.spotify.com/track/67pi7bVSEkbbJJUF7e18Kc) | [H A S T](https://open.spotify.com/artist/17uBeZave65bCISY0fRqZV) | [Ubi Sunt](https://open.spotify.com/album/429T2lTpq7WJOWcUKlxvQW) | 3:32 | 2023-03-16 |  |

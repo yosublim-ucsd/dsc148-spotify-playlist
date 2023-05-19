@@ -4,7 +4,7 @@
 
 > Svensk jazz när den är som bäst.
 
-148 songs - 11 hr 22 min
+149 songs - 11 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,6 +52,7 @@
 | [From Gagarin's Point of View](https://open.spotify.com/track/4JWfPMjVEh4SusNs8V3gt5) | [Esbjörn Svensson Trio](https://open.spotify.com/artist/3HJzLaMbS0jMabxS3wttGk) | [From Gagarin's Point of View](https://open.spotify.com/album/4jM7MG25QkVfp0SSkQ6138) | 4:03 | 2022-06-22 |  |
 | [Följ mig bortåt vägen](https://open.spotify.com/track/6aqolbTJh5D4GpxUnkVJBT) | [Claes Janson](https://open.spotify.com/artist/0E2Jf1UHMqdQDdH12mc712) | [Blågel Blues](https://open.spotify.com/album/6MRzRmxou3bnQk25pbsiee) | 5:28 | 2021-11-08 |  |
 | [Förgätmigej](https://open.spotify.com/track/2bDaHHpChhtQLffiHOeqbG) | [Flen](https://open.spotify.com/artist/5yPGRO9r5X2uRHABvGca6D), [Per 'Texas' Johansson](https://open.spotify.com/artist/5NTsQ9DCgO4lgp7HULW66T) | [Förgätmigej](https://open.spotify.com/album/47XPemnYCxJwfyFI9eWrvt) | 7:36 | 2023-04-27 |  |
+| [Gamla allén](https://open.spotify.com/track/76NqmUek8rNrhrroQrBpUN) | [Axel Mårdsjö](https://open.spotify.com/artist/64XDUz4HUQosed6FHDnzwD) | [Gamla allén](https://open.spotify.com/album/7vrG8yc19WFP9OxwEaNcwG) | 3:50 | 2023-05-18 |  |
 | [Gamma](https://open.spotify.com/track/4SMsEJZnh1cNLhQ0SewYkK) | [Esbjörn Svensson](https://open.spotify.com/artist/1w7a5Hwxd5MuWGc6PYZBoR) | [HOME.S.](https://open.spotify.com/album/1GgqGyaOFzCy80a0kDXVmt) | 6:08 | 2022-11-17 |  |
 | [Gnossienne](https://open.spotify.com/track/4DdXAgQsfHAnS7lmdS0j7L) | [Adam Forkelid](https://open.spotify.com/artist/3WcxxtroBeJy2PPN5s6CRW), [Niklas Fernqvist](https://open.spotify.com/artist/0RwUWenfKob2FP0P4V5pJS), [Carl Mörner Ringström](https://open.spotify.com/artist/69e8RvFXfQnels113EADzc), [Daniel Fredriksson](https://open.spotify.com/artist/7hKJYQtmuy2g7QAp5dmTle) | [1st Movement](https://open.spotify.com/album/3GQELIw2FFQmOcW0hRBTx1) | 9:19 | 2021-11-08 |  |
 | [Hallonsommar](https://open.spotify.com/track/6d28xWKGgk9il20hrmclFy) | [Anna\. Luca](https://open.spotify.com/artist/3p3SDqItDVbc4VKR4LTQoT) | [Hallonsommar](https://open.spotify.com/album/48LBJhxQ126O5o1WKlhOFT) | 3:45 | 2021-11-08 |  |

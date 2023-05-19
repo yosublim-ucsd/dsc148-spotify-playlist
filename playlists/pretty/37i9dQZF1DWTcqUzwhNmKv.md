@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTcqUzwhNmKv.md) - [plain]
 
 > The Amity Affliction on top of the biggest Metal playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,412,533 likes - 75 songs - 4 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,412,810 likes - 75 songs - 4 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTcqUzwhNmKv.md) - [plain]
 | 74 | [Between Death and Dreams](https://open.spotify.com/track/1egxWnxYYPYB5y2KNVk6eH) | [Brand of Sacrifice](https://open.spotify.com/artist/4d6Rawrese4OLF1zZCztod) | [Between Death and Dreams](https://open.spotify.com/album/51ch68fVnyloXU5vWGmVSd) | 4:29 |
 | 75 | [A.D.D](https://open.spotify.com/track/0UsnlmGAFHq4psggQczhjn) | [alt.](https://open.spotify.com/artist/2o6toWFM0eynwdOjVJfoSQ) | [A.D.D](https://open.spotify.com/album/1Y20qMbygyi2ukEfD05DO6) | 3:37 |
 
-Snapshot ID: `MCxiYzUxMTJhMjQ3NmY2ZGQyZjgwMDE2YmE3NWU5Zjc0NDhlZThiNjFm`
+Snapshot ID: `MCxhNzE4ZWVlYzQ0ZDE4MjI4MzdhMGJkNjRhMTg4MGY2YTAxMGZjZTY4`

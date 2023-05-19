@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11wyL5eCLSa.md) - [plain]
 
 > Sangre fresca en las escenas del indie y el rock\. The Warning en Portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 150,070 likes - 100 songs - 6 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 150,135 likes - 100 songs - 6 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,8 +81,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11wyL5eCLSa.md) - [plain]
 | 71 | [Mejor Que Nadie](https://open.spotify.com/track/6J1S8dFlnAcNgl7nHPB1XJ) | [Technicolor Fabrics](https://open.spotify.com/artist/2GtdjV9W8RmiI4W2AUl4Pl) | [Mejor Que Nadie](https://open.spotify.com/album/0I2eLAIopLwwIUlUZx8muE) | 4:40 |
 | 72 | [Quería Olvidarte](https://open.spotify.com/track/41nuVhzxlAevKkhjthnpU5) | [Benjamín Walker](https://open.spotify.com/artist/4uqz8sHfvYPHlpHZYyanEK), [Fármacos](https://open.spotify.com/artist/1FJENlxciHSXzfHlYMgB2M) | [Quería Olvidarte](https://open.spotify.com/album/1epND6FkZBn8fueQXMX32w) | 2:46 |
 | 73 | [Será Lo Que Tú Quieras](https://open.spotify.com/track/24knCOVLEJZ25gLRmCRqYI) | [Comisario Pantera](https://open.spotify.com/artist/7eOGKFUwjDDem40BGPqnZR), [Ramona](https://open.spotify.com/artist/3K8X4ZoPqijzc6QSP4eAQF) | [Será Lo Que Tú Quieras](https://open.spotify.com/album/31inI2Td1fiXzkwjXcTr8Y) | 3:02 |
-| 74 | [Cállame](https://open.spotify.com/track/0fRQGN6XS01UzZbKNj6sQp) | [Bandalos Chinos](https://open.spotify.com/artist/0wn2qDKzeFlhjRUtJAwJjp) | [Cállame](https://open.spotify.com/album/2kSM1mDXRGpSWtpMKbRr7w) | 3:07 |
-| 75 | [Sol@](https://open.spotify.com/track/6VtARaI3I2MMINgcP7wuxJ) | [Porter](https://open.spotify.com/artist/7eBQrhxTHcor6gcbcLhqE5) | [La Historia Sin Fin](https://open.spotify.com/album/6k6jrCUKBeZflALDUS8UF3) | 2:57 |
+| 74 | [Sol@](https://open.spotify.com/track/6VtARaI3I2MMINgcP7wuxJ) | [Porter](https://open.spotify.com/artist/7eBQrhxTHcor6gcbcLhqE5) | [La Historia Sin Fin](https://open.spotify.com/album/6k6jrCUKBeZflALDUS8UF3) | 2:57 |
+| 75 | [Cállame](https://open.spotify.com/track/0fRQGN6XS01UzZbKNj6sQp) | [Bandalos Chinos](https://open.spotify.com/artist/0wn2qDKzeFlhjRUtJAwJjp) | [Cállame](https://open.spotify.com/album/2kSM1mDXRGpSWtpMKbRr7w) | 3:07 |
 | 76 | [Nunca te amé](https://open.spotify.com/track/6CxvTZO3pqhGMiVUF9gW2R) | [Reyno](https://open.spotify.com/artist/1pzRh5IWgNWNrxPBu9EFcU) | [El Eco de la Nada](https://open.spotify.com/album/0RmopllB8tAY9P2Of7NdIZ) | 3:04 |
 | 77 | [Descending To Nowhere](https://open.spotify.com/track/6NtkWVLdArIlZAwxpWH2tF) | [Rodrigo y Gabriela](https://open.spotify.com/artist/7vX3cMVyW8gtDA4y855ynF) | [In Between Thoughts...A New World](https://open.spotify.com/album/1el8dp6jP1HbmqRDBVMmj3) | 3:29 |
 | 78 | [DE ESTE SUEÑO NO ME DESPIERTO](https://open.spotify.com/track/7jNBgXRCQ8HWnSIX19vho7) | [Daniel Quién](https://open.spotify.com/artist/3zxodnZ10PEbv27ixLeQdQ), [Yonatan Mazor](https://open.spotify.com/artist/3vIIkATsfM6dzKmHgv7qlZ) | [DE ESTE SUEÑO NO ME DESPIERTO](https://open.spotify.com/album/68mnlQeSr1hXXOPZxYaRJa) | 3:17 |
@@ -99,14 +99,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11wyL5eCLSa.md) - [plain]
 | 89 | [La Final](https://open.spotify.com/track/0Zqpxe6UdF80IYommiUV3j) | [Bandalos Chinos](https://open.spotify.com/artist/0wn2qDKzeFlhjRUtJAwJjp) | [La Final](https://open.spotify.com/album/2sqCeR4NoJOJ6wN2mkiOP3) | 3:18 |
 | 90 | [Hasta Las Hifas, Un Micelio](https://open.spotify.com/track/0uffqqc4l1AUbtD2RZRftb) | [Austin TV](https://open.spotify.com/artist/5x0koyeJkLR4odx4gCD5lR) | [Hasta Las Hifas, Un Micelio](https://open.spotify.com/album/2Sb0VvLRE3H0kNOuKL5zGO) | 4:34 |
 | 91 | [La Tregua](https://open.spotify.com/track/3qVoYfkM3RR8Yn6LIoIscx) | [Odisseo](https://open.spotify.com/artist/7GkhznErka8OWEHJS05Dpd) | [La Tregua](https://open.spotify.com/album/04KNJc6oR8vCy91pEYWEqE) | 3:52 |
-| 92 | [Solo](https://open.spotify.com/track/3oA2dvG9iNJY865qSHWekF) | [Kinky](https://open.spotify.com/artist/4WOIfFwyvx22jM0eg2fpKv) | [Fierrro](https://open.spotify.com/album/0ATTBGNon1S8UvXOAyll9i) | 3:54 |
+| 92 | [Corre Amor](https://open.spotify.com/track/6KQtYYDMeh3uvHb3QXSkVv) | [Comisario Pantera](https://open.spotify.com/artist/7eOGKFUwjDDem40BGPqnZR) | [Cosmovisiones](https://open.spotify.com/album/2Jpnr6hBjbmSDrfWMWRYgZ) | 3:14 |
 | 93 | [Un día como hoy](https://open.spotify.com/track/1yfUatJAVvmmZh5sJyW3Re) | [La Texana](https://open.spotify.com/artist/7KXPjNDl2wveAmMIEZHQhB) | [Un día como hoy](https://open.spotify.com/album/3gaIbIdbKT8oMzfqqJFzh2) | 3:22 |
-| 94 | [Corre Amor](https://open.spotify.com/track/6KQtYYDMeh3uvHb3QXSkVv) | [Comisario Pantera](https://open.spotify.com/artist/7eOGKFUwjDDem40BGPqnZR) | [Cosmovisiones](https://open.spotify.com/album/2Jpnr6hBjbmSDrfWMWRYgZ) | 3:14 |
+| 94 | [Solo](https://open.spotify.com/track/3oA2dvG9iNJY865qSHWekF) | [Kinky](https://open.spotify.com/artist/4WOIfFwyvx22jM0eg2fpKv) | [Fierrro](https://open.spotify.com/album/0ATTBGNon1S8UvXOAyll9i) | 3:54 |
 | 95 | [Hoy Creo en Mí](https://open.spotify.com/track/6LZH2ZMcWga84SGDCI5vKk) | [INSITE](https://open.spotify.com/artist/2Dh7EC5nA37i7JH3UNB8YX) | [Hoy Creo en Mí](https://open.spotify.com/album/1l0okpo4YMHJ7GNlHZ96qA) | 3:38 |
 | 96 | [Demasiado Bien](https://open.spotify.com/track/3UIlqSSYYpTkfjC00fA04B) | [Los Blenders](https://open.spotify.com/artist/19JX619qYCK7xfjaTxzhai) | [Demasiado Bien](https://open.spotify.com/album/1CyHWRQjdIEktu0AjvvwbR) | 3:39 |
 | 97 | [Lejos de Mí](https://open.spotify.com/track/3xu8MJIRspNhJilbRnI5mI) | [Celest](https://open.spotify.com/artist/2tpIEJakXfrYv4CwlUL1Fl) | [Lejos de Mí](https://open.spotify.com/album/4TKcF68kvvylJaqNwaeFwk) | 3:16 |
 | 98 | [Trataré](https://open.spotify.com/track/6WJoIAAWCFam54pzy7tmSZ) | [La Texana](https://open.spotify.com/artist/7KXPjNDl2wveAmMIEZHQhB) | [Trataré](https://open.spotify.com/album/2Wmq4uZPKAUNFgi25xofCI) | 4:07 |
-| 99 | [Vuelve A Empezar Sin Mí](https://open.spotify.com/track/7DWdZdw7Rshp7b8LqRB9x4) | [La Habitación Roja](https://open.spotify.com/artist/1PVE74Pf9ejCjOzdxlsHC6) | [Vuelve A Empezar Sin Mí](https://open.spotify.com/album/2IFmsvDIWtDE9e7lCUT7bi) | 4:01 |
-| 100 | [Lastímame](https://open.spotify.com/track/6bFrs6WlBhAXEk5vt9Me7f) | [Azul de Viena](https://open.spotify.com/artist/2Ie8P8WAdI3FMvEuWS52pQ) | [Lastímame](https://open.spotify.com/album/1vQ73pnVX7bZqlsOstIr1h) | 3:34 |
+| 99 | [Lastímame](https://open.spotify.com/track/6bFrs6WlBhAXEk5vt9Me7f) | [Azul de Viena](https://open.spotify.com/artist/2Ie8P8WAdI3FMvEuWS52pQ) | [Lastímame](https://open.spotify.com/album/1vQ73pnVX7bZqlsOstIr1h) | 3:34 |
+| 100 | [Estrella Fugaz](https://open.spotify.com/track/6RapbxJ0fKZTb07u0q19S3) | [Astronomía Interior](https://open.spotify.com/artist/6PpHeERfTGHJnYErCOOdPY) | [Estrella Fugaz](https://open.spotify.com/album/7vTgP7uW2enAgL8eI6AqvY) | 2:54 |
 
-Snapshot ID: `MCw4ZDA3MmQxNTA4ZjFhZDRiZjNjNmFlYzE2NDBhMzIyYzFlMjEyODhi`
+Snapshot ID: `MCwwYzlhYTZmY2JhZDQ2MjUxOWYyZDk0ZjIzNmEzYzJiNmZiYTU0OGQ4`

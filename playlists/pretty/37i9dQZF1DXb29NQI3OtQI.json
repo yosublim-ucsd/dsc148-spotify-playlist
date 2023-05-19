@@ -1,12 +1,12 @@
 {
   "description": "The best easy rock from the 2000s. Cover: Lifehouse.",
-  "num_followers": 158850,
+  "num_followers": 159077,
   "original_name": "00s Easy Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2YTc4ZjUwMzExM2U0NmQ5ZGQ2YjBiNGMwYWIyNmRhNDZlN2JlZWQw",
+  "snapshot_id": "MCxiOWRhNzk4Mzk4YzgxMzcyOTM4OWE1NjBiNmIwODRjMTBkYjRhZDZk",
   "tracks": [
     {
       "added_at": "2023-01-18 22:25:58",
@@ -1227,22 +1227,18 @@
     {
       "added_at": "2023-01-18 22:25:58",
       "album": {
-        "name": "Red Carpet Massacre",
-        "url": "https://open.spotify.com/album/7I7gJPIDgmdaMnHlUJi9AO"
+        "name": "The Sufferer & The Witness",
+        "url": "https://open.spotify.com/album/1VZ0i4vJ0AkPbmpuaktZMJ"
       },
       "artists": [
         {
-          "name": "Duran Duran",
-          "url": "https://open.spotify.com/artist/0lZoBs4Pzo7R89JM9lxwoT"
-        },
-        {
-          "name": "Justin Timberlake",
-          "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
+          "name": "Rise Against",
+          "url": "https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O"
         }
       ],
-      "duration_ms": 339933,
-      "name": "Falling Down (feat. Justin Timberlake)",
-      "url": "https://open.spotify.com/track/39Fp08QFko8zyYjNbuhJJf"
+      "duration_ms": 201026,
+      "name": "Roadside",
+      "url": "https://open.spotify.com/track/2Lw8a712bXz7xa0DyxHkIP"
     },
     {
       "added_at": "2023-01-18 22:25:58",
@@ -1263,18 +1259,22 @@
     {
       "added_at": "2023-01-18 22:25:58",
       "album": {
-        "name": "The Sufferer & The Witness",
-        "url": "https://open.spotify.com/album/1VZ0i4vJ0AkPbmpuaktZMJ"
+        "name": "Red Carpet Massacre",
+        "url": "https://open.spotify.com/album/7I7gJPIDgmdaMnHlUJi9AO"
       },
       "artists": [
         {
-          "name": "Rise Against",
-          "url": "https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O"
+          "name": "Duran Duran",
+          "url": "https://open.spotify.com/artist/0lZoBs4Pzo7R89JM9lxwoT"
+        },
+        {
+          "name": "Justin Timberlake",
+          "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
         }
       ],
-      "duration_ms": 201026,
-      "name": "Roadside",
-      "url": "https://open.spotify.com/track/2Lw8a712bXz7xa0DyxHkIP"
+      "duration_ms": 339933,
+      "name": "Falling Down (feat. Justin Timberlake)",
+      "url": "https://open.spotify.com/track/39Fp08QFko8zyYjNbuhJJf"
     },
     {
       "added_at": "2023-01-18 22:25:58",

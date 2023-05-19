@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0BRqs5.md) - [plain]
 
 > This is Eir Aoi\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,989 likes - 51 songs - 3 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,996 likes - 51 songs - 3 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,14 +39,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0BRqs5.md) - [plain]
 | 29 | [KASUMI](https://open.spotify.com/track/3v1Y19mw44JozuYjBu6LxT) | [Eir Aoi](https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3) | [AUBE](https://open.spotify.com/album/2QEH6Q8uI01AyEn5GYAMcT) | 4:40 |
 | 30 | [Lament](https://open.spotify.com/track/3ZbnAjOJxirsvgoq5Y9Op5) | [Eir Aoi](https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3) | [Prayer](https://open.spotify.com/album/0Kldsox7QejFK1xNkLsNkp) | 5:20 |
 | 31 | [約束](https://open.spotify.com/track/28YoNQJtIp77Nn3h8fl5Dv) | [Eir Aoi](https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3) | [FRAGMENT \(Special Edition\)](https://open.spotify.com/album/6m8TwU9kiKfJXH3hMuLSrO) | 4:46 |
-| 32 | [リンドウの花](https://open.spotify.com/track/3jfBeW2K8C2Fer7Eu3Reef) | [Eir Aoi](https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3) | [ラピスラズリ](https://open.spotify.com/album/2QieGS3vilhPJo88el8l8G) | 4:45 |
-| 33 | [EVIL](https://open.spotify.com/track/2nx4oVjQGkB7oNESPflRl0) | [Eir Aoi](https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3) | [心臓](https://open.spotify.com/album/0wpmbTY0B13k0r9zSeCGWm) | 3:57 |
-| 34 | [ロゼ](https://open.spotify.com/track/2Je51HC5BEKT6xJEzS4iHt) | [Eir Aoi](https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3) | [KALEIDOSCOPE](https://open.spotify.com/album/1Ugh0hoPOsNnwfYnKX9Ibh) | 3:29 |
-| 35 | [HELLO HELLO HELLO \-TV size ver](https://open.spotify.com/track/4ZqNeWPINaNzPcQ7rZ10gd) | [Eir Aoi](https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3) | [HELLO HELLO HELLO](https://open.spotify.com/album/3mNG6uD9uUc2E28h7baqt6) | 1:31 |
+| 32 | [EVIL](https://open.spotify.com/track/2nx4oVjQGkB7oNESPflRl0) | [Eir Aoi](https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3) | [心臓](https://open.spotify.com/album/0wpmbTY0B13k0r9zSeCGWm) | 3:57 |
+| 33 | [リンドウの花](https://open.spotify.com/track/3jfBeW2K8C2Fer7Eu3Reef) | [Eir Aoi](https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3) | [ラピスラズリ](https://open.spotify.com/album/2QieGS3vilhPJo88el8l8G) | 4:45 |
+| 34 | [HELLO HELLO HELLO \-TV size ver](https://open.spotify.com/track/4ZqNeWPINaNzPcQ7rZ10gd) | [Eir Aoi](https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3) | [HELLO HELLO HELLO](https://open.spotify.com/album/3mNG6uD9uUc2E28h7baqt6) | 1:31 |
+| 35 | [ロゼ](https://open.spotify.com/track/2Je51HC5BEKT6xJEzS4iHt) | [Eir Aoi](https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3) | [KALEIDOSCOPE](https://open.spotify.com/album/1Ugh0hoPOsNnwfYnKX9Ibh) | 3:29 |
 | 36 | [HaNaZaKaRi](https://open.spotify.com/track/5m4gR2VFdKCu9L9Hzw7fH9) | [Eir Aoi](https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3) | [BEST \-E\-](https://open.spotify.com/album/6rjMSW0RSSr82ferEWoA3A) | 3:56 |
 | 37 | [ヒトカケラの勇気](https://open.spotify.com/track/1x6DIYGxyHTYUFgmGEd4Ey) | [Eir Aoi](https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3) | [流星 / 約束](https://open.spotify.com/album/4wrLAS2If2XoK2MURPJ2SG) | 3:52 |
-| 38 | [dear brightness](https://open.spotify.com/track/3ThZkUIeOfcI7pE8BBZ2rV) | [Eir Aoi](https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3) | [INNOCENCE](https://open.spotify.com/album/44tCGweHm2ZAHeGYud3UKI) | 4:39 |
-| 39 | [Resonance](https://open.spotify.com/track/7p5NnU5fSHo52LaVEkFH6O) | [Eir Aoi](https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3) | [HELLO HELLO HELLO](https://open.spotify.com/album/3mNG6uD9uUc2E28h7baqt6) | 4:27 |
+| 38 | [Resonance](https://open.spotify.com/track/7p5NnU5fSHo52LaVEkFH6O) | [Eir Aoi](https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3) | [HELLO HELLO HELLO](https://open.spotify.com/album/3mNG6uD9uUc2E28h7baqt6) | 4:27 |
+| 39 | [dear brightness](https://open.spotify.com/track/3ThZkUIeOfcI7pE8BBZ2rV) | [Eir Aoi](https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3) | [INNOCENCE](https://open.spotify.com/album/44tCGweHm2ZAHeGYud3UKI) | 4:39 |
 | 40 | [ANSWER](https://open.spotify.com/track/5clwPn2sU77LUYxtQMjZet) | [Eir Aoi](https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3) | [ANSWER](https://open.spotify.com/album/1neLWuwQYNoRY5pv6x6UtD) | 3:24 |
 | 41 | [Daylight](https://open.spotify.com/track/3QUcxSheSRbPD6mI91VwST) | [Eir Aoi](https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3) | [アイリス](https://open.spotify.com/album/1YBe42P8dq3C7kcb07y328) | 4:12 |
 | 42 | [フェイスレス](https://open.spotify.com/track/7nshgkx5EE57GFPKu89x4y) | [Eir Aoi](https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3) | [BLAU](https://open.spotify.com/album/6zZ0a3V5fbQtoMFHmM7kwq) | 4:26 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0BRqs5.md) - [plain]
 | 50 | [CaCO](https://open.spotify.com/track/0E5vf3YTVdn7sbaNkdSJae) | [Eir Aoi](https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3) | [HELLO HELLO HELLO](https://open.spotify.com/album/3mNG6uD9uUc2E28h7baqt6) | 5:11 |
 | 51 | [Brainwash](https://open.spotify.com/track/07n5LpytLdZuKDAurEo1wp) | [Eir Aoi](https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3) | [IGNITE](https://open.spotify.com/album/4fGKgbMhkwR26lTC8GTFGB) | 3:18 |
 
-Snapshot ID: `MjgwNzIyMDUsMDAwMDAwMDA2ZjgwMTU2MzViNzg4YTA0NWI0MzY2NDUzZTk0OTVkNw==`
+Snapshot ID: `MjgwNzM1MzIsMDAwMDAwMDAzODhkMTc5NTk4MzUyMzc0Njc1ZjEwM2EzNzlkZWIyYw==`

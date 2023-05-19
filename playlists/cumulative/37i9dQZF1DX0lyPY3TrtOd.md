@@ -4,16 +4,17 @@
 
 > Extatische gevoelens met prachtige muziek
 
-110 songs - 6 hr 18 min
+111 songs - 6 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [20190724](https://open.spotify.com/track/6unIOeUaYgBZ8TgCWNGDPX) | [Mac DeMarco](https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM) | [One Wayne G](https://open.spotify.com/album/70hX7IYqmUGV97OXs2v848) | 1:10 | 2023-04-23 |  |
 | [3 Nights](https://open.spotify.com/track/3VjxQzKXRtV2c8W7IeAXQh) | [KUZKO](https://open.spotify.com/artist/1XwtSHxSZ06XfQ0qah9Rxo) | [Milkshakes & Heartbreaks](https://open.spotify.com/album/4HctltJvLZNQuRM3qeCR8s) | 2:40 | 2023-03-09 | 2023-04-05 |
+| [A dónde vayas](https://open.spotify.com/track/6JUXZxPk6gKK5xbwhkgpAE) | [SNENiE](https://open.spotify.com/artist/3iIgIzm5nwy5y2uuudWKTb) | [A dónde vayas](https://open.spotify.com/album/1XXSwx8vAwyztEwPzUjsnE) | 2:46 | 2023-05-18 |  |
 | [A Hassle](https://open.spotify.com/track/6Yy3wtQiWNjNLyeNY8sXzS) | [MICH](https://open.spotify.com/artist/4HDfVcO8QmARunFcBJofWQ) | [A Hassle](https://open.spotify.com/album/3g1I3lrauszWOo1IfpksLe) | 2:49 | 2023-04-04 |  |
 | [Action Figures Fighting](https://open.spotify.com/track/30hwT0deSgqiaBMxijn35R) | [Hotel Ugly](https://open.spotify.com/artist/35WVTyRnKAoaGExqgktVyb) | [Action Figures Fighting](https://open.spotify.com/album/2Q5fUG18Rtq9gT8F1Nahdv) | 2:43 | 2023-02-23 | 2023-03-03 |
 | [Angelica](https://open.spotify.com/track/3EwTIu5qka2l5ZekB0b6QC) | [Wet Leg](https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ) | [Wet Leg](https://open.spotify.com/album/0r9awI5WRCZpwk0aVQ4bKO) | 3:52 | 2023-02-23 | 2023-04-05 |
-| [Archetype](https://open.spotify.com/track/5Cyy8UMG6ch51oXYenPGzN) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Ivory \(Marfil\)](https://open.spotify.com/album/3ZexesAv5PN4RPMiEkOEXC) | 2:48 | 2023-02-23 |  |
+| [Archetype](https://open.spotify.com/track/5Cyy8UMG6ch51oXYenPGzN) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Ivory \(Marfil\)](https://open.spotify.com/album/3ZexesAv5PN4RPMiEkOEXC) | 2:48 | 2023-02-23 | 2023-05-19 |
 | [At Least That’s What They’re Saying](https://open.spotify.com/track/5fDZ51dVnkGJuh4KeebRuu) | [The Vices](https://open.spotify.com/artist/6TSjJlhB2taxea58rCkMkj) | [Unknown Affairs](https://open.spotify.com/album/2wPpwzhLcc8kapEVejp2VG) | 3:16 | 2023-04-04 |  |
 | [Baby in the Back](https://open.spotify.com/track/5fo9zVfkG8E3aPi34rPTv6) | [Ciao Lucifer](https://open.spotify.com/artist/7HJjZdoBrnDMtKKrWpjJII) | [Baby in the Back](https://open.spotify.com/album/4sH8xdcmRef8ctME42sYuh) | 2:24 | 2023-04-04 |  |
 | [Back to Bed](https://open.spotify.com/track/5wHBP7FV46dDjyAej8h81y) | [MICH](https://open.spotify.com/artist/4HDfVcO8QmARunFcBJofWQ) | [Back to Bed](https://open.spotify.com/album/7FuDYsundeiBKaMYwYtNVn) | 2:25 | 2023-02-23 | 2023-04-05 |

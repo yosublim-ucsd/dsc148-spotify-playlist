@@ -4,7 +4,7 @@
 
 > Today's top country hits of the week, worldwide! Cover: Bailey Zimmerman
 
-635 songs - 1 day 10 hr 14 min
+636 songs - 1 day 10 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -590,7 +590,8 @@
 | [We Didn't Have Much](https://open.spotify.com/track/5v9jrgFC0zbE9Dagn1gg0G) | [Justin Moore](https://open.spotify.com/artist/30e8DmahrEamvLbFRPdWmk) | [We Didn't Have Much](https://open.spotify.com/album/1tuZaAJxEWDLVfqLTabteL) | 2:54 | 2021-04-24 | 2021-08-28 |
 | [We Go Together Like](https://open.spotify.com/track/3mwQ4tEWBWynjw7HJgMiRA) | [Abby Anderson](https://open.spotify.com/artist/0WicR9iYAPd0Bi7i3bz9MB) | [We Go Together Like](https://open.spotify.com/album/1Rd2aYLTapfmSk66US3nlq) | 2:43 | 2020-10-18 | 2021-01-23 |
 | [We Got History](https://open.spotify.com/track/6Awl7JBDQjfm7xkS3LkhDi) | [Mitchell Tenpenny](https://open.spotify.com/artist/1p6CdzJRoicjRcSdWoB9Qc) | [This Is the Heavy](https://open.spotify.com/album/7hWoBHqzfN4QMcVPFSqbBS) | 3:23 | 2022-09-16 | 2023-04-22 |
-| [We Ride](https://open.spotify.com/track/4ua94LvtGZlGsZVlvMJCUS) | [Bryan Martin](https://open.spotify.com/artist/0ChjBYedhZTQnWZWQYg15U) | [We Ride](https://open.spotify.com/album/4E1qrH1o4eKRu8S6JVAnn3) | 3:08 | 2023-05-12 |  |
+| [We Ride](https://open.spotify.com/track/4ua94LvtGZlGsZVlvMJCUS) | [Bryan Martin](https://open.spotify.com/artist/0ChjBYedhZTQnWZWQYg15U) | [We Ride](https://open.spotify.com/album/4E1qrH1o4eKRu8S6JVAnn3) | 3:08 | 2023-05-12 | 2023-05-19 |
+| [We Ride](https://open.spotify.com/track/72kGuWpRiuA149Bn5lDkIO) | [Bryan Martin](https://open.spotify.com/artist/0ChjBYedhZTQnWZWQYg15U) | [Poets & Old Souls](https://open.spotify.com/album/19X9Ts9AYIRrqthSTf3qss) | 3:08 | 2023-05-12 |  |
 | [We Were](https://open.spotify.com/track/6JOeNbZ3X6dtXusG3hkHn8) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [We Were](https://open.spotify.com/album/2yXYlRyEDDjZwKJ9nZbSib) | 3:09 | 2019-05-26\* | 2020-02-15 |
 | [We Were Like](https://open.spotify.com/track/5wdwd46vdGxRsy6tBRCSAY) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [We Were Like](https://open.spotify.com/album/0yJAsGozlILYqinG4rzjKc) | 3:00 | 2019-06-30 | 2019-08-24 |
 | [We Wouldn't Know](https://open.spotify.com/track/2ouWHr7YVOi3EUbanDD22S) | [Ian McConnell](https://open.spotify.com/artist/4cnccBVC82QHFHuOVxzqM1) | [We Wouldn't Know](https://open.spotify.com/album/4XfJaKPTfrStLWnrV61rdR) | 2:40 | 2020-09-26 | 2020-11-07 |

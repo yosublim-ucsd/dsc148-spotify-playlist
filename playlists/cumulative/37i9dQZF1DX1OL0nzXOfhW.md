@@ -2,7 +2,7 @@
 
 ### [RADAR HK](https://open.spotify.com/playlist/37i9dQZF1DX1OL0nzXOfhW)
 
-> 持續發掘世一超新聲，2023年香港RADAR超新聲正式上場！Cover: Gordon Flanders
+> 持續發掘世一超新聲，2023年香港RADAR超新聲正式上場！Cover: KALAI嘉麗
 
 127 songs - 7 hr 21 min
 

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7icshDizO3x.md) - [plain]
 
 > セトリで余韻に浸ろう！2023年2月に行われたStray Kids 2nd World Tour “MANIAC” ENCORE in JAPANのセットリストを再現！
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,312 likes - 31 songs - 1 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,330 likes - 31 songs - 1 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,4 +40,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7icshDizO3x.md) - [plain]
 | 30 | [Haven](https://open.spotify.com/track/1B960zmIFgde0TflN2q8Au) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [GO LIVE](https://open.spotify.com/album/6DWLIzvmiLPAuDWYZqrLQo) | 3:19 |
 | 31 | [MIROH](https://open.spotify.com/track/4rDHgjmRMYpuXc60VoTcaJ) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [SKZ2020](https://open.spotify.com/album/5dkqH8Cr6MHhxGV0vzIMOM) | 3:28 |
 
-Snapshot ID: `MCw2YzA3MDExMzM0NDIxMWI1N2EyMzk0N2QxMzM5NzM1MjU2NDg5MWI2`
+Snapshot ID: `MCwzNTRhMjBiNjkyYTUwMTkzY2UwMmM5MDlhM2UwZTY5MzUxODdlZDJh`

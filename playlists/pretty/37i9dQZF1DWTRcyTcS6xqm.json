@@ -1,12 +1,12 @@
 {
   "description": "Party blues tunes. Cover: Joe Louis Walker",
-  "num_followers": 9373,
+  "num_followers": 9388,
   "original_name": "Blues Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0ZTczM2QwNDk3OTFkOTcyMTRjMDNhNTY3MjMyNGRiMjU3MjAwZDUz",
+  "snapshot_id": "MCw4YjU5YzE2NjVmNGI2ZmFiNGFkZjM1NjUzYzQxNmVlZGFhMWEzOWI0",
   "tracks": [
     {
       "added_at": "2020-12-01 05:01:00",
@@ -367,6 +367,22 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
+        "name": "Booty And The Beast",
+        "url": "https://open.spotify.com/album/1uGPozOUYC2TvpVE3IlWQi"
+      },
+      "artists": [
+        {
+          "name": "Popa Chubby",
+          "url": "https://open.spotify.com/artist/76EaAz0oJVx8IbnUbDOPmD"
+        }
+      ],
+      "duration_ms": 279640,
+      "name": "Sweet Goddess of Love and Beer",
+      "url": "https://open.spotify.com/track/66H9jPL1TsOrOYVMAwVjCR"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
         "name": "Riding with the King (Deluxe Edition)",
         "url": "https://open.spotify.com/album/44qfaiUTWryt5PNHjZU9iz"
       },
@@ -383,22 +399,6 @@
       "duration_ms": 263397,
       "name": "Riding with the King",
       "url": "https://open.spotify.com/track/3MUQ573SFa0PuI65Gt9X2b"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
-        "name": "Booty And The Beast",
-        "url": "https://open.spotify.com/album/1uGPozOUYC2TvpVE3IlWQi"
-      },
-      "artists": [
-        {
-          "name": "Popa Chubby",
-          "url": "https://open.spotify.com/artist/76EaAz0oJVx8IbnUbDOPmD"
-        }
-      ],
-      "duration_ms": 279640,
-      "name": "Sweet Goddess of Love and Beer",
-      "url": "https://open.spotify.com/track/66H9jPL1TsOrOYVMAwVjCR"
     },
     {
       "added_at": "2020-12-01 05:01:00",

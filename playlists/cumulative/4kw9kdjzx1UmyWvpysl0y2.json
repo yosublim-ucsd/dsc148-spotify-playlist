@@ -9687,6 +9687,32 @@
     },
     {
       "album": {
+        "name": "You Found Me",
+        "url": "https://open.spotify.com/album/0TNgUfGot6W2bnm9rvsGqu"
+      },
+      "artists": [
+        {
+          "name": "Adventure Club",
+          "url": "https://open.spotify.com/artist/5CdJjUi9f0cVgo9nFuJrFa"
+        },
+        {
+          "name": "Jessica Audiffred",
+          "url": "https://open.spotify.com/artist/4odLDriBk6oEZotzLPTSnD"
+        },
+        {
+          "name": "Clara Park",
+          "url": "https://open.spotify.com/artist/7pNT2JErag4HzHSJk6z2w2"
+        }
+      ],
+      "date_added": "2023-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269538,
+      "name": "You Found Me",
+      "url": "https://open.spotify.com/track/5caU54QlqCMPEKIbQ3nbhd"
+    },
+    {
+      "album": {
         "name": "Your Heart",
         "url": "https://open.spotify.com/album/543ni1eZzOpFEMWjYifIJ9"
       },

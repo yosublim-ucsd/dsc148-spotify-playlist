@@ -4,7 +4,7 @@
 
 > Need to get your energy level up? This will help!
 
-356 songs - 22 hr 25 min
+357 songs - 22 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -82,8 +82,9 @@
 | [DEVIL](https://open.spotify.com/track/2hEYslbdYWFSIA6JboUvnR) | [Shinedown](https://open.spotify.com/artist/70BYFdaZbEKbeauJ670ysI) | [ATTENTION ATTENTION](https://open.spotify.com/album/0dtwIycvTaFNjo44QRwWz7) | 3:27 | 2021-12-16 |  |
 | [Do What You Do](https://open.spotify.com/track/0iFhShSdYvMwscXAiUp4CT) | [Mudvayne](https://open.spotify.com/artist/2Pfv2w8a20xzC7Dr7QXRqM) | [Do What You Do](https://open.spotify.com/album/7Mof8XMvFWuaEjCG9qpVHl) | 3:36 | 2021-12-16 | 2022-04-30 |
 | [Do You Call My Name](https://open.spotify.com/track/5w0jXRvylCbWxFrJx2H1Fl) | [Ra](https://open.spotify.com/artist/4qrdhnXBOzRt9OSmL29IFO) | [From One](https://open.spotify.com/album/25UI5uaK9P010LARRVhCgE) | 5:17 | 2022-01-05 | 2022-04-30 |
+| [Don't Back Down](https://open.spotify.com/track/4f74h9bcuHOroCaVsKIr4F) | [Mammoth WVH](https://open.spotify.com/artist/6WKdhhc03LqnixYI2ZzWzO) | [Mammoth WVH](https://open.spotify.com/album/116n80nAqikTC624dsTHhI) | 3:45 | 2023-05-14 |  |
 | [Don't Bring Me Down](https://open.spotify.com/track/72ahyckBJfTigJCFCviVN7) | [Electric Light Orchestra](https://open.spotify.com/artist/7jefIIksOi1EazgRTfW2Pk) | [Discovery](https://open.spotify.com/album/1CvVSn2MtKDBR6aWMkNkem) | 4:03 | 2021-12-16 | 2023-04-17 |
-| [Don’t Back Down](https://open.spotify.com/track/1RYI0fqfKDuLi8e4B9XwSe) | [Mammoth WVH](https://open.spotify.com/artist/6WKdhhc03LqnixYI2ZzWzO) | [Don't Back Down](https://open.spotify.com/album/6nseS1XlNg1bPVN4vXADWB) | 3:45 | 2021-12-16 |  |
+| [Don’t Back Down](https://open.spotify.com/track/1RYI0fqfKDuLi8e4B9XwSe) | [Mammoth WVH](https://open.spotify.com/artist/6WKdhhc03LqnixYI2ZzWzO) | [Don't Back Down](https://open.spotify.com/album/6nseS1XlNg1bPVN4vXADWB) | 3:45 | 2021-12-16 | 2023-05-19 |
 | [Don’t Tread On Me](https://open.spotify.com/track/78OwlJgh2GwxAiFSYppEz7) | [Volbeat](https://open.spotify.com/artist/0L5fC7Ogm2YwgqVCRcF1bT) | [Don’t Tread On Me](https://open.spotify.com/album/47nrMiDREuSS7y0eowP7iy) | 3:38 | 2021-12-16 | 2022-07-29 |
 | [Dragula](https://open.spotify.com/track/6Nm8h73ycDG2saCnZV8poF) | [Rob Zombie](https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5) | [Hellbilly Deluxe](https://open.spotify.com/album/2B4lHoTCpWbxQPTZmCOjnH) | 3:42 | 2021-12-16 | 2023-02-28 |
 | [Du hast](https://open.spotify.com/track/5awDvzxWfd53SSrsRZ8pXO) | [Rammstein](https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP) | [Sehnsucht](https://open.spotify.com/album/2w6Vy8qZLU4niyQAHyu0Ag) | 3:54 | 2021-12-16 | 2022-07-28 |

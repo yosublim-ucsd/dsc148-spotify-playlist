@@ -4,7 +4,7 @@
 
 > Rock with a Drop Cover: ILLENIUM \\m/
 
-301 songs - 17 hr 13 min
+302 songs - 17 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,6 +23,7 @@
 | [Back To You](https://open.spotify.com/track/0NNFtjZHwjTZzBtBkRxhtY) | [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg), [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [ILLENIUM](https://open.spotify.com/album/0ValflNlWce21wm5PlwV60) | 3:07 | 2023-04-28 |  |
 | [Bad Luck](https://open.spotify.com/track/2lcapVdJDedPx2GYGtKxwz) | [Pegboard Nerds](https://open.spotify.com/artist/0lLY20XpZ9yDobkbHI7u1y), [Kiz Keyz](https://open.spotify.com/artist/7GAnVRGrOJIUhOQKEehgFS) | [Bad Luck](https://open.spotify.com/album/3VjDetfhWUDHNNSawdk81Q) | 2:51 | 2022-08-26 |  |
 | [Bad Man \- Kordhell Remix](https://open.spotify.com/track/3iebfHmYMs8dUcAC5qSQ8Y) | [Disturbed](https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa), [Kordhell](https://open.spotify.com/artist/2W6WP4pHQTFlbr2z9S4n54) | [Bad Man \(Kordhell Remix\)](https://open.spotify.com/album/5Wba2K5Jx1RopwbFp07GRE) | 2:33 | 2023-02-24 |  |
+| [Baptize \- Sullivan King Remix](https://open.spotify.com/track/2BapJncaYH9qOeNizjXv2Q) | [Atreyu](https://open.spotify.com/artist/3LkSiHbjqOHCKCqBfEZOTv), [Sullivan King](https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e) | [Baptize \(Sullivan King Remix\)](https://open.spotify.com/album/5uQbdtWsZJNZwD7MUFYwYj) | 4:10 | 2023-04-28 |  |
 | [Baptize \- Sullivan King Remix](https://open.spotify.com/track/48JuHnroG6NcNMVGcFFVRw) | [Atreyu](https://open.spotify.com/artist/3LkSiHbjqOHCKCqBfEZOTv), [Sullivan King](https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e) | [Baptize \(Sullivan King Remix\)](https://open.spotify.com/album/170AbiVPb4OIprabzweN14) | 4:10 | 2022-06-10 | 2023-05-07 |
 | [Battle Sirens \(feat\. Knife Party\)](https://open.spotify.com/track/6PeXzqP7E9g3H0aMbBhB9L) | [Tom Morello](https://open.spotify.com/artist/74NBPbyyftqJ4SpDZ4c1Ed), [Knife Party](https://open.spotify.com/artist/2DuJi13MWHjRHrqRUwk8vH) | [The Atlas Underground](https://open.spotify.com/album/1oNUnZUmjJNjuWoGmY4caC) | 4:03 | 2022-01-07 | 2022-04-21 |
 | [Be Careful What You Say](https://open.spotify.com/track/296Fv8CqhmVqEol73p5y4Q) | [GG Magree](https://open.spotify.com/artist/54pgkpWVgQYbQXD8bkUP8n) | [Be Careful What You Say](https://open.spotify.com/album/4QsFsQhwDJLUbKLSeceD1w) | 3:30 | 2023-02-10 | 2023-03-28 |
@@ -118,7 +119,7 @@
 | [Flatline](https://open.spotify.com/track/3mNMRpuv9V7DtVMVPh2saF) | [Sullivan King](https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e), [Kai Wachi](https://open.spotify.com/artist/2fNr4ldujwq97v1jWeqs8K), [GG Magree](https://open.spotify.com/artist/54pgkpWVgQYbQXD8bkUP8n) | [Flatline](https://open.spotify.com/album/2doxRabzdeSo7zM5fcZmtq) | 3:28 | 2021-12-10 | 2022-10-08 |
 | [Flatlined](https://open.spotify.com/track/1jFw2LjM5koaqVYaiA2SPN) | [Zomboy](https://open.spotify.com/artist/0ycHhPwPvoaO4VGzmMnXGq), [Micah Martin](https://open.spotify.com/artist/4i8u1FZVapjZBcCyyrAnU3) | [Flatlined](https://open.spotify.com/album/2sK83xEbolOa7q6ZcyOC7W) | 4:51 | 2022-05-13 | 2023-04-07 |
 | [FØØL \- INHUMAN Remix](https://open.spotify.com/track/6JvUj6Hr346bGjXEEgkOH6) | [GHØSTKID](https://open.spotify.com/artist/2ooWmQC4NQUQZ3z00mZQyK), [INHUMAN](https://open.spotify.com/artist/1QeTjGvzNdgEbglFeedKWe) | [FØØL \(INHUMAN Remix\)](https://open.spotify.com/album/11NzYtuHaQeT96QfkQnNqa) | 3:08 | 2021-12-10 |  |
-| [Get To U](https://open.spotify.com/track/7J5d8EHVjEYbMgOXGi0PKD) | [Papa Khan](https://open.spotify.com/artist/7DKYxh9hbhtTdPRSubo2iM) | [Get To U](https://open.spotify.com/album/7vKLfc4WO47NIDIrXOUqDB) | 2:56 | 2022-04-15 |  |
+| [Get To U](https://open.spotify.com/track/7J5d8EHVjEYbMgOXGi0PKD) | [Papa Khan](https://open.spotify.com/artist/7DKYxh9hbhtTdPRSubo2iM) | [Get To U](https://open.spotify.com/album/7vKLfc4WO47NIDIrXOUqDB) | 2:56 | 2022-04-15 | 2023-05-19 |
 | [Ghost Story \(with All Time Low\)](https://open.spotify.com/track/0DlrV801mOlq3zZijliOqB) | [Cheat Codes](https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU), [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [Ghost Story \(with All Time Low\)](https://open.spotify.com/album/2Jduh10Puwm4d0FG9XH37E) | 2:46 | 2021-12-10 |  |
 | [Ghostbox](https://open.spotify.com/track/0pasNqXDQBVGUVf131BNsI) | [AWAY](https://open.spotify.com/artist/2ZmerElhvxg8uVKCmlZ4ij), [Crywolf](https://open.spotify.com/artist/33o00sXuyWiApOFzo0vr0z) | [self:antiself](https://open.spotify.com/album/3wEiboxD08w4LBBK9TKm1p) | 4:50 | 2022-01-28 |  |
 | [Ghosts Again](https://open.spotify.com/track/3TiVl5igD6Z5Pw6R5sp8YV) | [Depeche Mode](https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX) | [Ghosts Again](https://open.spotify.com/album/71hI1kZm2fvpY19mlv38nF) | 3:58 | 2023-02-10 |  |

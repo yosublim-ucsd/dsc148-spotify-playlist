@@ -1,12 +1,12 @@
 {
   "description": "Enjoy new and classic releases from icons of folk and Americana. Cover: Bonnie Raitt",
-  "num_followers": 186003,
+  "num_followers": 186065,
   "original_name": "Americana Icons",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1NmM3M2JjYmVhMDYxZjJiYjhiMzNmZjQzNzRhZGQ4OTdiOGZjMjZj",
+  "snapshot_id": "MCwxNDlhMDkxZDA1OGE4ZGI3Mzg2Yjk1MTU2NTk1YTNhNzlhMmU1ZTI1",
   "tracks": [
     {
       "added_at": "2023-02-24 05:00:00",
@@ -835,6 +835,22 @@
     {
       "added_at": "2023-02-24 05:00:00",
       "album": {
+        "name": "My Favorite Picture Of You",
+        "url": "https://open.spotify.com/album/38aA0H1wIKl4p1lqa6BiDo"
+      },
+      "artists": [
+        {
+          "name": "Guy Clark",
+          "url": "https://open.spotify.com/artist/0Ekfvspc0hlcxdfJJVjcnq"
+        }
+      ],
+      "duration_ms": 212466,
+      "name": "My Favorite Picture Of You",
+      "url": "https://open.spotify.com/track/1duzyYYCocGD2JSdCWITS6"
+    },
+    {
+      "added_at": "2023-02-24 05:00:00",
+      "album": {
         "name": "Car Wheels On A Gravel Road",
         "url": "https://open.spotify.com/album/3iC6dJobZulVXp0F4Bojig"
       },
@@ -939,22 +955,6 @@
     {
       "added_at": "2023-02-24 05:00:00",
       "album": {
-        "name": "My Favorite Picture Of You",
-        "url": "https://open.spotify.com/album/38aA0H1wIKl4p1lqa6BiDo"
-      },
-      "artists": [
-        {
-          "name": "Guy Clark",
-          "url": "https://open.spotify.com/artist/0Ekfvspc0hlcxdfJJVjcnq"
-        }
-      ],
-      "duration_ms": 212466,
-      "name": "My Favorite Picture Of You",
-      "url": "https://open.spotify.com/track/1duzyYYCocGD2JSdCWITS6"
-    },
-    {
-      "added_at": "2023-02-24 05:00:00",
-      "album": {
         "name": "Shine a Light: Field Recordings from the Great American Railroad",
         "url": "https://open.spotify.com/album/3Nq4M2jM1sZT5Pgv33qPzz"
       },
@@ -1051,18 +1051,18 @@
     {
       "added_at": "2023-02-24 05:00:00",
       "album": {
-        "name": "West",
-        "url": "https://open.spotify.com/album/3bA55G1u1MJfdWDKW2hf8K"
+        "name": "Traveling Alone",
+        "url": "https://open.spotify.com/album/1VW2JPuvgbb02IpOsxHA4R"
       },
       "artists": [
         {
-          "name": "Lucinda Williams",
-          "url": "https://open.spotify.com/artist/60ht0hWRy1yjUDfNsLuHuP"
+          "name": "Tift Merritt",
+          "url": "https://open.spotify.com/artist/2jL1PBvL0gBZBPk6B38p3z"
         }
       ],
-      "duration_ms": 318293,
-      "name": "Are You Alright?",
-      "url": "https://open.spotify.com/track/28EK7qsobexG3NJRrTE4tc"
+      "duration_ms": 284960,
+      "name": "Traveling Alone",
+      "url": "https://open.spotify.com/track/4LJIX18V7BHO9k44yn7vfk"
     },
     {
       "added_at": "2023-02-24 05:00:00",
@@ -1095,6 +1095,22 @@
       "duration_ms": 513440,
       "name": "Choctaw Bingo",
       "url": "https://open.spotify.com/track/3d0EH8kmmejGmBtvQHYgU6"
+    },
+    {
+      "added_at": "2023-02-24 05:00:00",
+      "album": {
+        "name": "West",
+        "url": "https://open.spotify.com/album/3bA55G1u1MJfdWDKW2hf8K"
+      },
+      "artists": [
+        {
+          "name": "Lucinda Williams",
+          "url": "https://open.spotify.com/artist/60ht0hWRy1yjUDfNsLuHuP"
+        }
+      ],
+      "duration_ms": 318293,
+      "name": "Are You Alright?",
+      "url": "https://open.spotify.com/track/28EK7qsobexG3NJRrTE4tc"
     },
     {
       "added_at": "2023-02-24 05:00:00",
@@ -1139,22 +1155,6 @@
     {
       "added_at": "2023-02-24 05:00:00",
       "album": {
-        "name": "Traveling Alone",
-        "url": "https://open.spotify.com/album/1VW2JPuvgbb02IpOsxHA4R"
-      },
-      "artists": [
-        {
-          "name": "Tift Merritt",
-          "url": "https://open.spotify.com/artist/2jL1PBvL0gBZBPk6B38p3z"
-        }
-      ],
-      "duration_ms": 284960,
-      "name": "Traveling Alone",
-      "url": "https://open.spotify.com/track/4LJIX18V7BHO9k44yn7vfk"
-    },
-    {
-      "added_at": "2023-02-24 05:00:00",
-      "album": {
         "name": "Terraplane",
         "url": "https://open.spotify.com/album/3JPaRHvPKF0iu7L9bTjJy4"
       },
@@ -1171,22 +1171,6 @@
     {
       "added_at": "2023-02-24 05:00:00",
       "album": {
-        "name": "Mountains Of Sorrow, Rivers Of Song (Deluxe)",
-        "url": "https://open.spotify.com/album/7mmqWjgDqup34v4bVcTHTx"
-      },
-      "artists": [
-        {
-          "name": "Amos Lee",
-          "url": "https://open.spotify.com/artist/0QrowybipCKUDnq5y10PD2"
-        }
-      ],
-      "duration_ms": 255533,
-      "name": "Johnson Blvd",
-      "url": "https://open.spotify.com/track/7yVaOoJkOA6Ds8nL9KFDAe"
-    },
-    {
-      "added_at": "2023-02-24 05:00:00",
-      "album": {
         "name": "Your Life Is a Record",
         "url": "https://open.spotify.com/album/027y46STDxTFM35diEeoxy"
       },
@@ -1199,6 +1183,22 @@
       "duration_ms": 189173,
       "name": "Who You Thought I Was",
       "url": "https://open.spotify.com/track/0CEyCdEWwN1w92O76mQHmN"
+    },
+    {
+      "added_at": "2023-02-24 05:00:00",
+      "album": {
+        "name": "Mountains Of Sorrow, Rivers Of Song (Deluxe)",
+        "url": "https://open.spotify.com/album/7mmqWjgDqup34v4bVcTHTx"
+      },
+      "artists": [
+        {
+          "name": "Amos Lee",
+          "url": "https://open.spotify.com/artist/0QrowybipCKUDnq5y10PD2"
+        }
+      ],
+      "duration_ms": 255533,
+      "name": "Johnson Blvd",
+      "url": "https://open.spotify.com/track/7yVaOoJkOA6Ds8nL9KFDAe"
     },
     {
       "added_at": "2023-02-24 05:00:00",
@@ -1239,22 +1239,6 @@
     {
       "added_at": "2023-02-24 05:00:00",
       "album": {
-        "name": "Boots No. 1: The Official Revival Bootleg",
-        "url": "https://open.spotify.com/album/235ZzGz026rUvay44aA8JU"
-      },
-      "artists": [
-        {
-          "name": "Gillian Welch",
-          "url": "https://open.spotify.com/artist/2H5elA2mJKrHmqkN9GSfkz"
-        }
-      ],
-      "duration_ms": 175083,
-      "name": "Dry Town (Demo)",
-      "url": "https://open.spotify.com/track/0ddo16GDbp9RoNzT285C4R"
-    },
-    {
-      "added_at": "2023-02-24 05:00:00",
-      "album": {
         "name": "Car Wheels On A Gravel Road",
         "url": "https://open.spotify.com/album/074Kr9hvgYLxCWiVhcWT7x"
       },
@@ -1267,6 +1251,22 @@
       "duration_ms": 208453,
       "name": "Can't Let Go",
       "url": "https://open.spotify.com/track/1KI016Hog5kWTGaKN3nZJS"
+    },
+    {
+      "added_at": "2023-02-24 05:00:00",
+      "album": {
+        "name": "Boots No. 1: The Official Revival Bootleg",
+        "url": "https://open.spotify.com/album/235ZzGz026rUvay44aA8JU"
+      },
+      "artists": [
+        {
+          "name": "Gillian Welch",
+          "url": "https://open.spotify.com/artist/2H5elA2mJKrHmqkN9GSfkz"
+        }
+      ],
+      "duration_ms": 175083,
+      "name": "Dry Town (Demo)",
+      "url": "https://open.spotify.com/track/0ddo16GDbp9RoNzT285C4R"
     },
     {
       "added_at": "2023-02-24 05:00:00",
@@ -1519,22 +1519,6 @@
     {
       "added_at": "2023-02-24 05:00:00",
       "album": {
-        "name": "Happy Prisoner: The Bluegrass Sessions",
-        "url": "https://open.spotify.com/album/3WVvNhEvAjTKjYUNubfHtd"
-      },
-      "artists": [
-        {
-          "name": "Robert Earl Keen",
-          "url": "https://open.spotify.com/artist/1jjpkAHC8bd9fRFfgKyYLP"
-        }
-      ],
-      "duration_ms": 214293,
-      "name": "East Virginia Blues",
-      "url": "https://open.spotify.com/track/1fqHUqYBIsG2Ssz4CaHiKZ"
-    },
-    {
-      "added_at": "2023-02-24 05:00:00",
-      "album": {
         "name": "Tell the Devil I'm Gettin' there as Fast as I Can",
         "url": "https://open.spotify.com/album/19AaEKSxOSfjfqjWi3UDQU"
       },
@@ -1547,6 +1531,22 @@
       "duration_ms": 347769,
       "name": "Tell the Devil I'm Gettin' there as Fast as I Can",
       "url": "https://open.spotify.com/track/0CzXjHD4dpnjzkMceBT1Kh"
+    },
+    {
+      "added_at": "2023-02-24 05:00:00",
+      "album": {
+        "name": "Happy Prisoner: The Bluegrass Sessions",
+        "url": "https://open.spotify.com/album/3WVvNhEvAjTKjYUNubfHtd"
+      },
+      "artists": [
+        {
+          "name": "Robert Earl Keen",
+          "url": "https://open.spotify.com/artist/1jjpkAHC8bd9fRFfgKyYLP"
+        }
+      ],
+      "duration_ms": 214293,
+      "name": "East Virginia Blues",
+      "url": "https://open.spotify.com/track/1fqHUqYBIsG2Ssz4CaHiKZ"
     },
     {
       "added_at": "2023-02-24 05:00:00",
@@ -1619,22 +1619,18 @@
     {
       "added_at": "2023-02-24 05:00:00",
       "album": {
-        "name": "Picture In a Frame (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/1yYaCS2P8FOUFU9PAwwrC3"
+        "name": "Give the People What They Want",
+        "url": "https://open.spotify.com/album/3f8j4GaxidCnaDhlD72V0O"
       },
       "artists": [
         {
-          "name": "Kimmie Rhodes",
-          "url": "https://open.spotify.com/artist/4ai4Oa84FkzxfGMw9Hwkm7"
-        },
-        {
-          "name": "Willie Nelson",
-          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
+          "name": "Sharon Jones & The Dap-Kings",
+          "url": "https://open.spotify.com/artist/6LufpoVlIYKQCu9Gjpk8B7"
         }
       ],
-      "duration_ms": 286069,
-      "name": "Love & Happiness",
-      "url": "https://open.spotify.com/track/3XvqzQogMRCQ75n2V5djSI"
+      "duration_ms": 211266,
+      "name": "Stranger to My Happiness",
+      "url": "https://open.spotify.com/track/1ajv5XuWMbe35X13ACtyv9"
     },
     {
       "added_at": "2023-02-24 05:00:00",
@@ -1655,6 +1651,26 @@
     {
       "added_at": "2023-02-24 05:00:00",
       "album": {
+        "name": "Picture In a Frame (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1yYaCS2P8FOUFU9PAwwrC3"
+      },
+      "artists": [
+        {
+          "name": "Kimmie Rhodes",
+          "url": "https://open.spotify.com/artist/4ai4Oa84FkzxfGMw9Hwkm7"
+        },
+        {
+          "name": "Willie Nelson",
+          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
+        }
+      ],
+      "duration_ms": 286069,
+      "name": "Love & Happiness",
+      "url": "https://open.spotify.com/track/3XvqzQogMRCQ75n2V5djSI"
+    },
+    {
+      "added_at": "2023-02-24 05:00:00",
+      "album": {
         "name": "Way Out West",
         "url": "https://open.spotify.com/album/60pQBVeOJlYePpptEhEouB"
       },
@@ -1667,22 +1683,6 @@
       "duration_ms": 341026,
       "name": "Way Out West",
       "url": "https://open.spotify.com/track/5Nr59BVUdfkVi591cj20qi"
-    },
-    {
-      "added_at": "2023-02-24 05:00:00",
-      "album": {
-        "name": "Give the People What They Want",
-        "url": "https://open.spotify.com/album/3f8j4GaxidCnaDhlD72V0O"
-      },
-      "artists": [
-        {
-          "name": "Sharon Jones & The Dap-Kings",
-          "url": "https://open.spotify.com/artist/6LufpoVlIYKQCu9Gjpk8B7"
-        }
-      ],
-      "duration_ms": 211266,
-      "name": "Stranger to My Happiness",
-      "url": "https://open.spotify.com/track/1ajv5XuWMbe35X13ACtyv9"
     },
     {
       "added_at": "2023-02-24 05:00:00",
@@ -1915,22 +1915,6 @@
     {
       "added_at": "2023-02-24 05:00:00",
       "album": {
-        "name": "Rifles and Rosary Beads",
-        "url": "https://open.spotify.com/album/1iCcuANiiaWvTeLevFGYSC"
-      },
-      "artists": [
-        {
-          "name": "Mary Gauthier",
-          "url": "https://open.spotify.com/artist/4SK1IgkcWWc5HC1TOBq1VS"
-        }
-      ],
-      "duration_ms": 170480,
-      "name": "Brothers",
-      "url": "https://open.spotify.com/track/6dRdARjCg2Jng4huHZKsP9"
-    },
-    {
-      "added_at": "2023-02-24 05:00:00",
-      "album": {
         "name": "In My Soul",
         "url": "https://open.spotify.com/album/11Cry7mbcEQqOUGF2zX6Xk"
       },
@@ -1947,6 +1931,54 @@
       "duration_ms": 365440,
       "name": "You're Everything",
       "url": "https://open.spotify.com/track/7j15tP94x6uPKZFV4rGPz6"
+    },
+    {
+      "added_at": "2023-02-24 05:00:00",
+      "album": {
+        "name": "Rifles and Rosary Beads",
+        "url": "https://open.spotify.com/album/1iCcuANiiaWvTeLevFGYSC"
+      },
+      "artists": [
+        {
+          "name": "Mary Gauthier",
+          "url": "https://open.spotify.com/artist/4SK1IgkcWWc5HC1TOBq1VS"
+        }
+      ],
+      "duration_ms": 170480,
+      "name": "Brothers",
+      "url": "https://open.spotify.com/track/6dRdARjCg2Jng4huHZKsP9"
+    },
+    {
+      "added_at": "2023-02-24 05:00:00",
+      "album": {
+        "name": "Night Surfer",
+        "url": "https://open.spotify.com/album/1E3Cb8Xor2dqNBnAGU1idb"
+      },
+      "artists": [
+        {
+          "name": "Chuck Prophet",
+          "url": "https://open.spotify.com/artist/3vidJsiALgVC5ZuweJgeDT"
+        }
+      ],
+      "duration_ms": 221413,
+      "name": "Ford Econoline",
+      "url": "https://open.spotify.com/track/1FuurW58UyXdpxFJaY3dYW"
+    },
+    {
+      "added_at": "2023-02-24 05:00:00",
+      "album": {
+        "name": "God's Problem Child",
+        "url": "https://open.spotify.com/album/1wzKjL078JEEv3weMFOGa7"
+      },
+      "artists": [
+        {
+          "name": "Willie Nelson",
+          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
+        }
+      ],
+      "duration_ms": 201960,
+      "name": "A Woman's Love",
+      "url": "https://open.spotify.com/track/4IkhRQizRckM60amLGAQhg"
     },
     {
       "added_at": "2023-02-24 05:00:00",
@@ -1975,22 +2007,6 @@
     {
       "added_at": "2023-02-24 05:00:00",
       "album": {
-        "name": "God's Problem Child",
-        "url": "https://open.spotify.com/album/1wzKjL078JEEv3weMFOGa7"
-      },
-      "artists": [
-        {
-          "name": "Willie Nelson",
-          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
-        }
-      ],
-      "duration_ms": 201960,
-      "name": "A Woman's Love",
-      "url": "https://open.spotify.com/track/4IkhRQizRckM60amLGAQhg"
-    },
-    {
-      "added_at": "2023-02-24 05:00:00",
-      "album": {
         "name": "Songs",
         "url": "https://open.spotify.com/album/6XHqRtggc3u82NKgyIFG4o"
       },
@@ -2003,22 +2019,6 @@
       "duration_ms": 222626,
       "name": "When You're Here",
       "url": "https://open.spotify.com/track/01wGBCQrxtUnVGj6Hw8YP4"
-    },
-    {
-      "added_at": "2023-02-24 05:00:00",
-      "album": {
-        "name": "Night Surfer",
-        "url": "https://open.spotify.com/album/1E3Cb8Xor2dqNBnAGU1idb"
-      },
-      "artists": [
-        {
-          "name": "Chuck Prophet",
-          "url": "https://open.spotify.com/artist/3vidJsiALgVC5ZuweJgeDT"
-        }
-      ],
-      "duration_ms": 221413,
-      "name": "Ford Econoline",
-      "url": "https://open.spotify.com/track/1FuurW58UyXdpxFJaY3dYW"
     },
     {
       "added_at": "2023-02-24 05:00:00",
@@ -2143,6 +2143,26 @@
     {
       "added_at": "2023-02-24 05:00:00",
       "album": {
+        "name": "Still Woman Enough",
+        "url": "https://open.spotify.com/album/6t1h5sp58mtWBsl0ptwfZv"
+      },
+      "artists": [
+        {
+          "name": "Loretta Lynn",
+          "url": "https://open.spotify.com/artist/1FE0rls8gfQT3laAeRYNgl"
+        },
+        {
+          "name": "Margo Price",
+          "url": "https://open.spotify.com/artist/09yvLritEUxHrzx5TlFvbl"
+        }
+      ],
+      "duration_ms": 161013,
+      "name": "One's On The Way (feat. Margo Price)",
+      "url": "https://open.spotify.com/track/4sPVvd3PfAAtB4jF07mva4"
+    },
+    {
+      "added_at": "2023-02-24 05:00:00",
+      "album": {
         "name": "Too Blessed to Be Stressed",
         "url": "https://open.spotify.com/album/5ijCn137sHy33W2TvoOM0p"
       },
@@ -2171,26 +2191,6 @@
       "duration_ms": 276600,
       "name": "I Contain Multitudes",
       "url": "https://open.spotify.com/track/7n68LuJzbmdxRRYiSq3gSf"
-    },
-    {
-      "added_at": "2023-02-24 05:00:00",
-      "album": {
-        "name": "Still Woman Enough",
-        "url": "https://open.spotify.com/album/6t1h5sp58mtWBsl0ptwfZv"
-      },
-      "artists": [
-        {
-          "name": "Loretta Lynn",
-          "url": "https://open.spotify.com/artist/1FE0rls8gfQT3laAeRYNgl"
-        },
-        {
-          "name": "Margo Price",
-          "url": "https://open.spotify.com/artist/09yvLritEUxHrzx5TlFvbl"
-        }
-      ],
-      "duration_ms": 161013,
-      "name": "One's On The Way (feat. Margo Price)",
-      "url": "https://open.spotify.com/track/4sPVvd3PfAAtB4jF07mva4"
     },
     {
       "added_at": "2023-02-24 05:00:00",
@@ -2291,22 +2291,6 @@
     {
       "added_at": "2023-02-24 05:00:00",
       "album": {
-        "name": "Our Year",
-        "url": "https://open.spotify.com/album/2feLXfmJaUiM4qicQmrxYw"
-      },
-      "artists": [
-        {
-          "name": "Kelly Willis & Bruce Robison",
-          "url": "https://open.spotify.com/artist/066FXEfKDbfynlPxfU7T6s"
-        }
-      ],
-      "duration_ms": 142157,
-      "name": "This Will Be Our Year",
-      "url": "https://open.spotify.com/track/5iE2kyAuiDrn7khi32V40n"
-    },
-    {
-      "added_at": "2023-02-24 05:00:00",
-      "album": {
         "name": "Live at the Old Quarter, Houston, Texas",
         "url": "https://open.spotify.com/album/1SXpC0UH36YNCRSQMVRsoC"
       },
@@ -2323,6 +2307,22 @@
     {
       "added_at": "2023-02-24 05:00:00",
       "album": {
+        "name": "Our Year",
+        "url": "https://open.spotify.com/album/2feLXfmJaUiM4qicQmrxYw"
+      },
+      "artists": [
+        {
+          "name": "Kelly Willis & Bruce Robison",
+          "url": "https://open.spotify.com/artist/066FXEfKDbfynlPxfU7T6s"
+        }
+      ],
+      "duration_ms": 142157,
+      "name": "This Will Be Our Year",
+      "url": "https://open.spotify.com/track/5iE2kyAuiDrn7khi32V40n"
+    },
+    {
+      "added_at": "2023-02-24 05:00:00",
+      "album": {
         "name": "Trouble and Love",
         "url": "https://open.spotify.com/album/4y2kVQxcRP5bo2t55EFpDR"
       },
@@ -2335,6 +2335,22 @@
       "duration_ms": 326746,
       "name": "Oh Soul",
       "url": "https://open.spotify.com/track/0PdULrhTlH3sUzdBNDxILS"
+    },
+    {
+      "added_at": "2023-02-24 05:00:00",
+      "album": {
+        "name": "Release Me",
+        "url": "https://open.spotify.com/album/7jioF5CEtXUvIRMfoYzqkG"
+      },
+      "artists": [
+        {
+          "name": "Lyle Lovett",
+          "url": "https://open.spotify.com/artist/0zlJDQgqnr9AocrH9gs1Es"
+        }
+      ],
+      "duration_ms": 186920,
+      "name": "Garfield's Blackberry Blossom",
+      "url": "https://open.spotify.com/track/2H6m033IwS1i0fkHyWP3g8"
     },
     {
       "added_at": "2023-02-24 05:00:00",
@@ -2359,22 +2375,6 @@
       "duration_ms": 148960,
       "name": "If We Don't (with Alison Krauss) - from the Dumplin' Original Motion Picture Soundtrack",
       "url": "https://open.spotify.com/track/6XZFRtDF6VB7FeFQzZ0UWG"
-    },
-    {
-      "added_at": "2023-02-24 05:00:00",
-      "album": {
-        "name": "Release Me",
-        "url": "https://open.spotify.com/album/7jioF5CEtXUvIRMfoYzqkG"
-      },
-      "artists": [
-        {
-          "name": "Lyle Lovett",
-          "url": "https://open.spotify.com/artist/0zlJDQgqnr9AocrH9gs1Es"
-        }
-      ],
-      "duration_ms": 186920,
-      "name": "Garfield's Blackberry Blossom",
-      "url": "https://open.spotify.com/track/2H6m033IwS1i0fkHyWP3g8"
     },
     {
       "added_at": "2023-02-24 05:00:00",
@@ -2575,22 +2575,6 @@
     {
       "added_at": "2023-02-24 05:00:00",
       "album": {
-        "name": "Place in My Heart",
-        "url": "https://open.spotify.com/album/3pwhHzAF1H5N2Uep9mhEpS"
-      },
-      "artists": [
-        {
-          "name": "Lucinda Williams",
-          "url": "https://open.spotify.com/artist/60ht0hWRy1yjUDfNsLuHuP"
-        }
-      ],
-      "duration_ms": 313857,
-      "name": "Place in My Heart",
-      "url": "https://open.spotify.com/track/2XljwJ0zc1FsztnBq8T9uv"
-    },
-    {
-      "added_at": "2023-02-24 05:00:00",
-      "album": {
         "name": "Tambourine",
         "url": "https://open.spotify.com/album/6xq8Crqk8thOvopt7wj7fn"
       },
@@ -2603,6 +2587,22 @@
       "duration_ms": 237720,
       "name": "What It Takes",
       "url": "https://open.spotify.com/track/7uIsJASIKv1yxShjCdNFre"
+    },
+    {
+      "added_at": "2023-02-24 05:00:00",
+      "album": {
+        "name": "Place in My Heart",
+        "url": "https://open.spotify.com/album/3pwhHzAF1H5N2Uep9mhEpS"
+      },
+      "artists": [
+        {
+          "name": "Lucinda Williams",
+          "url": "https://open.spotify.com/artist/60ht0hWRy1yjUDfNsLuHuP"
+        }
+      ],
+      "duration_ms": 313857,
+      "name": "Place in My Heart",
+      "url": "https://open.spotify.com/track/2XljwJ0zc1FsztnBq8T9uv"
     },
     {
       "added_at": "2023-02-24 05:00:00",
@@ -2659,22 +2659,6 @@
     {
       "added_at": "2023-02-24 05:00:00",
       "album": {
-        "name": "Mockingbird",
-        "url": "https://open.spotify.com/album/3pOyPju6tohsVyMsnkyyQ2"
-      },
-      "artists": [
-        {
-          "name": "Gibson Brothers",
-          "url": "https://open.spotify.com/artist/5a1u9fulLhPXwEWkrxmzEV"
-        }
-      ],
-      "duration_ms": 165884,
-      "name": "Sweet Lucinda",
-      "url": "https://open.spotify.com/track/6EMOrIVN27rTNUYn7z15OG"
-    },
-    {
-      "added_at": "2023-02-24 05:00:00",
-      "album": {
         "name": "First Agnostic Church of Hope and Wonder",
         "url": "https://open.spotify.com/album/4TdcT0h07oWHX1lAotis7y"
       },
@@ -2687,6 +2671,22 @@
       "duration_ms": 195266,
       "name": "Never Let a Day Go By",
       "url": "https://open.spotify.com/track/4gEMCyTZT8xERvqbRmCXyl"
+    },
+    {
+      "added_at": "2023-02-24 05:00:00",
+      "album": {
+        "name": "Mockingbird",
+        "url": "https://open.spotify.com/album/3pOyPju6tohsVyMsnkyyQ2"
+      },
+      "artists": [
+        {
+          "name": "Gibson Brothers",
+          "url": "https://open.spotify.com/artist/5a1u9fulLhPXwEWkrxmzEV"
+        }
+      ],
+      "duration_ms": 165884,
+      "name": "Sweet Lucinda",
+      "url": "https://open.spotify.com/track/6EMOrIVN27rTNUYn7z15OG"
     },
     {
       "added_at": "2023-02-24 05:00:00",

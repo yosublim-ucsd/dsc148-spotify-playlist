@@ -4,7 +4,7 @@
 
 > Brand new music from Monstercat, all in one place.
 
-478 songs - 1 day 3 hr 53 min
+479 songs - 1 day 3 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -483,6 +483,7 @@
 | [WYGD](https://open.spotify.com/track/2TRhRhzp9xGrS7yWtDJili) | [Bishu](https://open.spotify.com/artist/1DzQInbDVhE9Lh5s6T0DUL) | [WYGD](https://open.spotify.com/album/0nuPNR9F9QyfuxtOT0Fqhs) | 2:28 | 2022-03-01 | 2022-05-13 |
 | [Yesterday](https://open.spotify.com/track/6Wz9kNEppcp9U6jHptH6sQ) | [No Mana](https://open.spotify.com/artist/20yuGdfbRkW0HH3OfG1Nkg) | [Yesterday](https://open.spotify.com/album/0MU0ovgIP5zFj9CJLbkTaM) | 4:33 | 2022-09-02 | 2022-11-05 |
 | [You Fill My Soul](https://open.spotify.com/track/0IOG53eZR3vo0HtmfKkyG5) | [Approaching Black](https://open.spotify.com/artist/0SfWu37246YXADKirimzyW) | [You Fill My Soul](https://open.spotify.com/album/29hikAxjTpTa0hO5wAi1vL) | 4:18 | 2022-08-05 | 2022-10-19 |
+| [You Found Me](https://open.spotify.com/track/5caU54QlqCMPEKIbQ3nbhd) | [Adventure Club](https://open.spotify.com/artist/5CdJjUi9f0cVgo9nFuJrFa), [Jessica Audiffred](https://open.spotify.com/artist/4odLDriBk6oEZotzLPTSnD), [Clara Park](https://open.spotify.com/artist/7pNT2JErag4HzHSJk6z2w2) | [You Found Me](https://open.spotify.com/album/0TNgUfGot6W2bnm9rvsGqu) | 4:29 | 2023-05-18 |  |
 | [Your Heart](https://open.spotify.com/track/6KbV2Dp0Bb4ZbRp2Wa2jxN) | [Maliboux](https://open.spotify.com/artist/157IWDnr2hC9SFL5OJF8j7) | [Your Heart](https://open.spotify.com/album/543ni1eZzOpFEMWjYifIJ9) | 2:35 | 2022-06-03 | 2022-08-17 |
 | [Your Way](https://open.spotify.com/track/3kSm5HaznTY7Lkhl5fFpS6) | [Odsen](https://open.spotify.com/artist/5u9LEu640uGxBEKnU1PY9V) | [Your Way](https://open.spotify.com/album/75EEPbee9YaPfkY8oHEpAT) | 2:57 | 2022-06-24 | 2022-09-07 |
 | [Zazim Beyhad \(We Move Together\)](https://open.spotify.com/track/2CAejyWEtCiscWvgvCYSDK) | [Infected Mushroom](https://open.spotify.com/artist/6S2tas4z6DyIklBajDqJxI), [May Sfadia](https://open.spotify.com/artist/4Bl08QHOgjjt8Hcg53iq0j) | [IM25](https://open.spotify.com/album/6YEjK95sgoXQn1yGbYjHsp) | 3:22 | 2022-09-16 | 2022-11-15 |

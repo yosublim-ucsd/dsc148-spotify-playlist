@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaWgNWdGsjlE.md) - [plain]
 
 > make a mess of it\. Cover: DeathbyRomy
 
-[Spotify](https://open.spotify.com/user/spotify) - 180,937 likes - 100 songs - 5 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 181,124 likes - 100 songs - 5 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [You Make Me Sick!](https://open.spotify.com/track/2cK6tRFd7PRPFY1ZwJAKeq) | [Ashnikko](https://open.spotify.com/artist/3PyJHH2wyfQK3WZrk9rpmP) | [You Make Me Sick!](https://open.spotify.com/album/1hFgxn07lR5agY6sk9fHQJ) | 2:18 |
-| 2 | [HATEFUL](https://open.spotify.com/track/6QtiPaRRcSIne26CN4zNla) | [HEALTH](https://open.spotify.com/artist/6FfjnGXMhxSsJTuGLWBDth) | [HATEFUL](https://open.spotify.com/album/5bNClD13l1fc6BosE5EKoN) | 4:08 |
+| 2 | [HATEFUL](https://open.spotify.com/track/6QtiPaRRcSIne26CN4zNla) | [HEALTH](https://open.spotify.com/artist/6FfjnGXMhxSsJTuGLWBDth), [SIERRA](https://open.spotify.com/artist/25WCO5tS4sXMxIfe3nIXL4) | [HATEFUL](https://open.spotify.com/album/5bNClD13l1fc6BosE5EKoN) | 4:08 |
 | 3 | [Church Outfit](https://open.spotify.com/track/0R13zftuNe1WECTSBeT6ri) | [Poppy](https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv) | [Church Outfit](https://open.spotify.com/album/4lkW9DiMaD9PQZhaIRQUnH) | 1:54 |
 | 4 | [EAT SPIT! \(feat\. Royal & the Serpent\)](https://open.spotify.com/track/1aFP0G0GHQAAH9gfC95wT1) | [Slush Puppy](https://open.spotify.com/artist/58eJhHRICp87T2IFcP0bYh), [Royal & the Serpent](https://open.spotify.com/artist/64EHXDoln95lnccszdPum0) | [EAT SPIT! \(feat\. Royal & the Serpent\)](https://open.spotify.com/album/1LyS8xc10xqZS5BewUxH9c) | 2:03 |
 | 5 | [So Below](https://open.spotify.com/track/7MYbFew463Qcnj3nsdU0NJ) | [Code Orange](https://open.spotify.com/artist/6qtECqesbU29iftyeWmldK) | [What is Really Underneath?](https://open.spotify.com/album/6b7BEJklF29cidjmtLOC1Y) | 3:26 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaWgNWdGsjlE.md) - [plain]
 | 99 | [Save Yourself](https://open.spotify.com/track/561spezvXFVnAOYoSv4Bxy) | [Stabbing Westward](https://open.spotify.com/artist/5daXMUbrPh8oX9Nd4CnToG) | [The Essential Stabbing Westward](https://open.spotify.com/album/1K9DEVSr5iG2W72escDZV7) | 4:13 |
 | 100 | [Structure of Love II \- Renholdër Remix](https://open.spotify.com/track/1PfCGcRzrnTCFJVoVy03yp) | [VOWWS](https://open.spotify.com/artist/7pBR5RoBlOm3oehKuFCxeb), [Chino Moreno](https://open.spotify.com/artist/0Wfo0pd0KC47vx7uUEVOQ9), [Renholdër](https://open.spotify.com/artist/7nPKXL3VRokWPSYHtsDD5i) | [Structure of Love II \(Renholdër Remix\)](https://open.spotify.com/album/1koqkGT2Qsd5ToPJZgMFCn) | 3:21 |
 
-Snapshot ID: `MCxlNTg2YWY0ZDRiMDRlMjcwNDAyYTRkZTUwMzQ0ZjE5M2E1MGM1ODNj`
+Snapshot ID: `MCxkN2VmZDEyZGZmNGI2ZDI2Y2JmYjI4N2U1YzhjNzRkNGVjZmU5NmYy`

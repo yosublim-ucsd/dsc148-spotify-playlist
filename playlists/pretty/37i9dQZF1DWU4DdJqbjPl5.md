@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU4DdJqbjPl5.md) - [plain]
 
 > The smoothest Afro R&B out right now\. Cover:  <a href="https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE?si=PNqcawJ9R52MW3OzMDIGKA">Tyla</a>  and <a href="https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq?si=LGGP8temR1KOZGGU00G17Q">Ayra Starr</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 155,734 likes - 85 songs - 4 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 155,883 likes - 85 songs - 4 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU4DdJqbjPl5.md) - [plain]
 | 84 | [My Darling](https://open.spotify.com/track/0dB0kygJpApTy1aTYiYxlk) | [Caleb Awiti](https://open.spotify.com/artist/18QJYkUruunLIMqRIC1ljN) | [My Darling](https://open.spotify.com/album/50lQePDD6ekrIKyqhsG8oD) | 3:06 |
 | 85 | [What you wanna do?](https://open.spotify.com/track/2IQFdoFocKF5kb8J6RNtbc) | [Hunter Rose](https://open.spotify.com/artist/2G6bNldbTZU1viUkX5Myuq) | [What you wanna do?](https://open.spotify.com/album/2HEe16IuFDnQOnb8dT3zam) | 4:27 |
 
-Snapshot ID: `MCxmMTgyNTE1NGNkNjAzOTgyMGFhYTdkY2MwMTU4NmU1YmMzZDQwYzFj`
+Snapshot ID: `MCxkOGE0OTE0ZjMxZTEyNjVmOTExYWUxMDc5ZmNkMjQyZDBiNDI5MGM1`

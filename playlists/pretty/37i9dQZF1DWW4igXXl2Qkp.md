@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW4igXXl2Qkp.md) - [plain]
 
 > The best new Hip\-Hop by independent artists and labels\. Updates every Wednesday\. Cover: Bizzy Crook
 
-[Spotify](https://open.spotify.com/user/spotify) - 208,507 likes - 75 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 208,629 likes - 75 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW4igXXl2Qkp.md) - [plain]
 | 74 | [No Discussion](https://open.spotify.com/track/4KyLXnL1sOUvnPpTskFULe) | [Teddy Franchize](https://open.spotify.com/artist/4J3t2gDHwxRxDYqvZ7xf5s), [TAAYLEE G](https://open.spotify.com/artist/3UL3HL2fv69tDavqXTwDhM) | [No Discussion](https://open.spotify.com/album/6x7ImIkrwJQlukgX4TwioK) | 2:49 |
 | 75 | [amazing!](https://open.spotify.com/track/5idzBnebMgiZLgC4ZT64GJ) | [OG KEMi](https://open.spotify.com/artist/5fnqXBFXnpSYgefFL3eGEj), [Cal1sto](https://open.spotify.com/artist/5ByRQoCFwf6cs18yGbEOJC) | [amazing!](https://open.spotify.com/album/2bduTBQK9PyT60bdql7FrW) | 3:18 |
 
-Snapshot ID: `MCxjYWQ1N2I0MzNkMGYyMzhkY2E0MGRjMGM0YTc0MThlYzM4NzU1MzA5`
+Snapshot ID: `MCxlOWFmZjkwOGZmZjk0OTA2NDI3ZDkxN2I3MzVjNDJmZDQ2NzIxZjBh`

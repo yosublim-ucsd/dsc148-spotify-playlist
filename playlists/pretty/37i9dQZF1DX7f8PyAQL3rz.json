@@ -1,12 +1,12 @@
 {
   "description": "tu\u00ea se vingou",
-  "num_followers": 1139370,
+  "num_followers": 1140560,
   "original_name": "creme",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1OWZlYWQ5MGNjYWQ0OTRkYjkwYWJlNmU0NTNmMGMzYmE0NTU4ZDNi",
+  "snapshot_id": "MCxlMjllOGU2ZDhlYWEzYTQyMzQyNDA2OTQ4NDk3ZWRlMjM2N2U2M2Fi",
   "tracks": [
     {
       "added_at": "2023-05-15 15:32:50",
@@ -1283,30 +1283,6 @@
     {
       "added_at": "2023-05-15 15:32:50",
       "album": {
-        "name": "Movimento",
-        "url": "https://open.spotify.com/album/6NKzLG2NXWDb8wUShu2xyB"
-      },
-      "artists": [
-        {
-          "name": "Kawe",
-          "url": "https://open.spotify.com/artist/1TYJOhNSxMOODWiDVhuyZb"
-        },
-        {
-          "name": "Teto",
-          "url": "https://open.spotify.com/artist/68YeXpLt3jB7JHQS5ZjMGo"
-        },
-        {
-          "name": "JD On Tha Track",
-          "url": "https://open.spotify.com/artist/399fRDjZglRcNLNEDobdt4"
-        }
-      ],
-      "duration_ms": 198620,
-      "name": "Movimento",
-      "url": "https://open.spotify.com/track/0vGkHLjaNZiNBNmSBLhA7o"
-    },
-    {
-      "added_at": "2023-05-15 15:32:50",
-      "album": {
         "name": "Movimento - Spotify Singles",
         "url": "https://open.spotify.com/album/21HW4JmG3uIqsHLExLFQnZ"
       },
@@ -1331,6 +1307,30 @@
       "duration_ms": 158076,
       "name": "Movimento - Spotify Singles",
       "url": "https://open.spotify.com/track/1U3oUPST65OhAz9PG4eAVv"
+    },
+    {
+      "added_at": "2023-05-15 15:32:50",
+      "album": {
+        "name": "Movimento",
+        "url": "https://open.spotify.com/album/6NKzLG2NXWDb8wUShu2xyB"
+      },
+      "artists": [
+        {
+          "name": "Kawe",
+          "url": "https://open.spotify.com/artist/1TYJOhNSxMOODWiDVhuyZb"
+        },
+        {
+          "name": "Teto",
+          "url": "https://open.spotify.com/artist/68YeXpLt3jB7JHQS5ZjMGo"
+        },
+        {
+          "name": "JD On Tha Track",
+          "url": "https://open.spotify.com/artist/399fRDjZglRcNLNEDobdt4"
+        }
+      ],
+      "duration_ms": 198620,
+      "name": "Movimento",
+      "url": "https://open.spotify.com/track/0vGkHLjaNZiNBNmSBLhA7o"
     },
     {
       "added_at": "2023-05-15 15:32:50",

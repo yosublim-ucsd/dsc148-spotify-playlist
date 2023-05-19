@@ -641,6 +641,28 @@
     },
     {
       "album": {
+        "name": "Jehovah Ngiyabonga",
+        "url": "https://open.spotify.com/album/1PmboZPhLlapJIGYhz42ZD"
+      },
+      "artists": [
+        {
+          "name": "Deborah Fraser",
+          "url": "https://open.spotify.com/artist/0vFuRv3NvGd3RFx6gwSziQ"
+        },
+        {
+          "name": "Big Zulu",
+          "url": "https://open.spotify.com/artist/6sNKQgLUy4LVNEX3r1kG1A"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234000,
+      "name": "Jehovah Ngiyabonga",
+      "url": "https://open.spotify.com/track/2oelkq0zqxdXqMRv7T4CoY"
+    },
+    {
+      "album": {
         "name": "Old Church Basement",
         "url": "https://open.spotify.com/album/1lsf7hKaOd3r214nvwmtwg"
       },

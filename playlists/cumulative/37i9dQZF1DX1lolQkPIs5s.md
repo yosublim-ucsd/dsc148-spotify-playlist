@@ -4,7 +4,7 @@
 
 > 日本でもおなじみの映画からの大ヒット曲から隠れた名曲まで、ディズニーミュージックの豊富なカタログからセレクトした公式プレイリスト！
 
-125 songs - 6 hr 42 min
+126 songs - 6 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -114,6 +114,7 @@
 | [Two Oruguitas](https://open.spotify.com/track/1sEaewPCEzD98sy2cdD8eA) | [Naoto Inti Raymi](https://open.spotify.com/artist/77SZmOd2zA3L3n9x697iWb) | [Encanto \(Japanese Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1u7yHbNnxPQDKmB2XwhrqT) | 3:34 | 2022-12-28 |  |
 | [Un Poco Loco \- Japanese Version](https://open.spotify.com/track/03F37JsyH3JNgBrRjAFEkT) | [Hiiro Ishibashi](https://open.spotify.com/artist/7FzvUJLnge2wRXwX81WIhN), [Miguel](https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK), [Naohito Fujiki](https://open.spotify.com/artist/32C6qbd4GMDJMq6g1RaqaI), [Héctor](https://open.spotify.com/artist/3xjmQWrkwm5EvWN1NH1ArL) | [Coco \(Original Motion Picture Soundtrack/Deluxe Edition\)](https://open.spotify.com/album/3j5JEm3SBNSwUmg6CsPZcJ) | 1:52 | 2022-12-28 |  |
 | [Unbirthday Song](https://open.spotify.com/track/0W8jtYipop2puuuLaoRQbn) | [Camarata Chorus and Orchestra](https://open.spotify.com/artist/0iwhPeDYMRoXZYNvY8c4C9) | [Alice in Wonderland: Music from the Score, Conducted by Camarata](https://open.spotify.com/album/2gVjsjlMIrC4iXyRJF5IZj) | 2:12 | 2022-12-28 |  |
+| [Under the Sea \- From "The Little Mermaid"/Soundtrack Version](https://open.spotify.com/track/3hsTuFLSfcD3Mt4tIdtqrY) | [Subaru Kimura](https://open.spotify.com/artist/6y2G1GveVx6UR9Mk6esFD6), [Cast \- The Little Mermaid](https://open.spotify.com/artist/433fI3xZoJp1D1dizEkJ3R) | [Under the Sea \(From "The Little Mermaid"/Soundtrack Version\)](https://open.spotify.com/album/5XksKAiSaaDbTg9wcLja1o) | 3:04 | 2023-05-18 |  |
 | [Under the Sea \- Japanese Version](https://open.spotify.com/track/6y4iN6dY1g6M5ABbwZi5x3) | [Alan Menken](https://open.spotify.com/artist/5sy77gt4bfsLcSQ8GIe4ZZ), [Tsunehiko Kamijyou](https://open.spotify.com/artist/0MTwHcQjpWkqYdHPkA1Ncd) | [The Little Mermaid \(Original Motion Picture Soundtrack/Japanese Dubbed Version\)](https://open.spotify.com/album/1KUIwgcM9y8VGfFN2XYddO) | 3:13 | 2022-12-28 |  |
 | [Usapiyo: Spring Into My Heart \- From “Tip\-Top Easter”](https://open.spotify.com/track/5vG1zUswz5HSkylwmzEEdK) | [Tokyo DisneySea](https://open.spotify.com/artist/2g9DwrKeZdqfveNl05NfBV) | [Tokyo DisneySea 20th Anniversary "Time to Shine!" Music Album](https://open.spotify.com/album/4iNUiMYiK9iZwP77Wttdgp) | 3:34 | 2022-12-28 |  |
 | [Waiting On A Miracle](https://open.spotify.com/track/7ubnxt2Uz6bjgokIMinvkA) | [Ruki Saito](https://open.spotify.com/artist/6WUO2cCM13rJEraBTo3lUL) | [Encanto \(Japanese Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1u7yHbNnxPQDKmB2XwhrqT) | 2:41 | 2022-12-28 |  |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-03",
-  "description": "Indie, Pop und Rap mit deutschen Texten. Cover: Dominik Hartz",
+  "description": "Indie, Pop und Rap mit deutschen Texten. Cover: Alli Neumann",
   "name": "Wilde Herzen",
   "tracks": [
     {
@@ -334,7 +334,7 @@
       ],
       "date_added": "2023-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 222668,
       "name": "Alles ok",
       "url": "https://open.spotify.com/track/2ecbEV38LSy9f2MaD64M36"
@@ -930,7 +930,7 @@
       ],
       "date_added": "2023-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 141032,
       "name": "Die Zeit steht still",
       "url": "https://open.spotify.com/track/1t4oaKyj54yJp46ARxZ7fv"
@@ -1215,6 +1215,24 @@
     },
     {
       "album": {
+        "name": "N\u00e4he/Distanz",
+        "url": "https://open.spotify.com/album/3WzITMAhHFKV8fGy6NWdFv"
+      },
+      "artists": [
+        {
+          "name": "CCOSMO",
+          "url": "https://open.spotify.com/artist/0DFSWsBGwp4kqEKvU9Akj4"
+        }
+      ],
+      "date_added": "2023-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129705,
+      "name": "Eisb\u00e4r",
+      "url": "https://open.spotify.com/track/4ctx47TSZTYvfVUTDWHkJ3"
+    },
+    {
+      "album": {
         "name": "Eklig Hohe Mieten",
         "url": "https://open.spotify.com/album/64Ruv975spS8FwKAyxiCrF"
       },
@@ -1342,6 +1360,24 @@
       "duration_ms": 176262,
       "name": "Farben",
       "url": "https://open.spotify.com/track/1rtc6E93KWPjsDZmsnI875"
+    },
+    {
+      "album": {
+        "name": "Feuer",
+        "url": "https://open.spotify.com/album/03vZXPAc1R2G7dRIyZJukl"
+      },
+      "artists": [
+        {
+          "name": "Pippa",
+          "url": "https://open.spotify.com/artist/3YnovPMNx58Jp0JCpNUz6x"
+        }
+      ],
+      "date_added": "2023-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174995,
+      "name": "Feuer",
+      "url": "https://open.spotify.com/track/1bSKKdLrgpRC82W0IwUtnB"
     },
     {
       "album": {
@@ -2102,7 +2138,7 @@
       ],
       "date_added": "2023-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 169554,
       "name": "Indigo",
       "url": "https://open.spotify.com/track/5voBx32zUStgxAfTZ8d4Gv"
@@ -2218,7 +2254,7 @@
       ],
       "date_added": "2023-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 137984,
       "name": "Julia",
       "url": "https://open.spotify.com/track/5gaR66TOk71AnTvjdnKkuR"
@@ -2363,6 +2399,24 @@
     },
     {
       "album": {
+        "name": "Keine Liebe",
+        "url": "https://open.spotify.com/album/4zhaqkO4K3T3oSM0oSwIjB"
+      },
+      "artists": [
+        {
+          "name": "Ann Can't Talk",
+          "url": "https://open.spotify.com/artist/0EylhTdGUMAzDIthmoDoe9"
+        }
+      ],
+      "date_added": "2023-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183693,
+      "name": "Keine Liebe",
+      "url": "https://open.spotify.com/track/5QZlHttgfmdc6nQjmozDzU"
+    },
+    {
+      "album": {
         "name": "Keine Panik",
         "url": "https://open.spotify.com/album/3cC8Qm5TtLpzvR2CJImgcY"
       },
@@ -2468,7 +2522,7 @@
       ],
       "date_added": "2023-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 206639,
       "name": "Lange N\u00e4chte",
       "url": "https://open.spotify.com/track/4Xp4dVh3hgRjJmW8Ovn3tX"
@@ -2512,6 +2566,24 @@
       "duration_ms": 175973,
       "name": "Lass Sie Reden",
       "url": "https://open.spotify.com/track/13aLB1KmkCh52On7ASZMQo"
+    },
+    {
+      "album": {
+        "name": "Laufen",
+        "url": "https://open.spotify.com/album/3lNTzd382GByIN1haGtVl5"
+      },
+      "artists": [
+        {
+          "name": "Elias",
+          "url": "https://open.spotify.com/artist/16YzSnyXMElA8gW0unulku"
+        }
+      ],
+      "date_added": "2023-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186879,
+      "name": "Laufen",
+      "url": "https://open.spotify.com/track/48uj745ePI0ArluMx8oT2d"
     },
     {
       "album": {
@@ -2877,6 +2949,24 @@
     },
     {
       "album": {
+        "name": "Namen in Beton",
+        "url": "https://open.spotify.com/album/2niO8XaCFBD3hirpgDWSiC"
+      },
+      "artists": [
+        {
+          "name": "Paul Weber",
+          "url": "https://open.spotify.com/artist/5Awy5kGk6lVTb5XSSNPRcB"
+        }
+      ],
+      "date_added": "2023-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181492,
+      "name": "Namen in Beton",
+      "url": "https://open.spotify.com/track/7blDCXJRdcj2fxICbqFcgj"
+    },
+    {
+      "album": {
         "name": "Nero",
         "url": "https://open.spotify.com/album/3cBbmX6ACg8NdpVyr2QACS"
       },
@@ -3029,6 +3119,28 @@
     },
     {
       "album": {
+        "name": "F\u00dcR IMMER",
+        "url": "https://open.spotify.com/album/058sfd5ZUogzHNpujalOXa"
+      },
+      "artists": [
+        {
+          "name": "Yassin",
+          "url": "https://open.spotify.com/artist/04D2woeEnCEpk3Y01gTHy3"
+        },
+        {
+          "name": "Schmyt",
+          "url": "https://open.spotify.com/artist/2DysK49GjODUdRupTMZrfb"
+        }
+      ],
+      "date_added": "2023-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150520,
+      "name": "Ohne uns",
+      "url": "https://open.spotify.com/track/7APp1SPNTDUWUPBl4CjqcK"
+    },
+    {
+      "album": {
         "name": "adhs",
         "url": "https://open.spotify.com/album/4AG9l8sVfZ4OhBRjuOFnze"
       },
@@ -3080,7 +3192,7 @@
       ],
       "date_added": "2023-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 170016,
       "name": "Panikwei\u00df",
       "url": "https://open.spotify.com/track/2sledoZeAbV6vtTo6HsrqG"
@@ -3488,6 +3600,24 @@
       "duration_ms": 156500,
       "name": "So weit weg wie es geht",
       "url": "https://open.spotify.com/track/25IhvOQQe2P2oBNTIDOPyH"
+    },
+    {
+      "album": {
+        "name": "so wie du",
+        "url": "https://open.spotify.com/album/70uGKHgbl5Iwr9OQmBQbvE"
+      },
+      "artists": [
+        {
+          "name": "Alli Neumann",
+          "url": "https://open.spotify.com/artist/2fUZ5QodNiQntWefUy6Jfh"
+        }
+      ],
+      "date_added": "2023-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199173,
+      "name": "so wie du",
+      "url": "https://open.spotify.com/track/2LMr8Uoxt0HC211XmThWAF"
     },
     {
       "album": {

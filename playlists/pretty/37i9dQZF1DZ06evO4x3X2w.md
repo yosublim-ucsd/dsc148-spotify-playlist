@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4x3X2w.md) - [plain]
 
 > This is Aerosmith\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 643,357 likes - 50 songs - 3 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 643,616 likes - 50 songs - 3 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,11 +52,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4x3X2w.md) - [plain]
 | 42 | [Draw The Line](https://open.spotify.com/track/27vuAmVFj4OJMDxFYaluTC) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Draw The Line](https://open.spotify.com/album/3Qb7LY8ePk29MqQmnFhzUd) | 3:24 |
 | 43 | [Let The Music Do The Talking](https://open.spotify.com/track/2oUp3nS5lhoHZsoaLaKdRa) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Done With Mirrors](https://open.spotify.com/album/4V95fty2dd1ig3a1JzmjYf) | 3:47 |
 | 44 | [Ain't That A Bitch](https://open.spotify.com/track/2XFyFJtkbks4OKDE0dxBqK) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Nine Lives](https://open.spotify.com/album/1WEfOTItaPIa0dVxxLJqlI) | 5:25 |
-| 45 | [Walkin' The Dog](https://open.spotify.com/track/0AgJGo7JNWYBeHqbdzCXC0) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Aerosmith](https://open.spotify.com/album/1RDVdxPUaqC4o7Rkm8LoOE) | 3:13 |
-| 46 | [Lightning Strikes](https://open.spotify.com/track/2ervbJ7zh4Ry2hggiNeT3q) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Rock In A Hard Place](https://open.spotify.com/album/15e4kGDE06PRB9RMunBZe9) | 4:26 |
+| 45 | [Lightning Strikes](https://open.spotify.com/track/2ervbJ7zh4Ry2hggiNeT3q) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Rock In A Hard Place](https://open.spotify.com/album/15e4kGDE06PRB9RMunBZe9) | 4:26 |
+| 46 | [Walkin' The Dog](https://open.spotify.com/track/0AgJGo7JNWYBeHqbdzCXC0) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Aerosmith](https://open.spotify.com/album/1RDVdxPUaqC4o7Rkm8LoOE) | 3:13 |
 | 47 | [Lord of the Thighs](https://open.spotify.com/track/2CVfNg22TjHfXXus4BXKZJ) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Get Your Wings](https://open.spotify.com/album/27UoulMZlqnShaLaLBcYp1) | 4:14 |
 | 48 | [Can't Stop Lovin' You](https://open.spotify.com/track/795ERoqNFbElIkkGNJV58Y) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH), [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Music From Another Dimension! \(Expanded Edition\)](https://open.spotify.com/album/39kme3iLwVpllmUCxrkcPn) | 4:04 |
 | 49 | [Young Lust](https://open.spotify.com/track/1NBBGTzsBg9gZxJHiXcDD1) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Pump](https://open.spotify.com/album/2WXQrFpRtf1FVSS70D5TVT) | 4:18 |
 | 50 | [Nine Lives](https://open.spotify.com/track/1baMSM7DZXYKVTHyxnYgzd) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Nine Lives](https://open.spotify.com/album/1WEfOTItaPIa0dVxxLJqlI) | 4:01 |
 
-Snapshot ID: `MjgwNzIyMDUsMDAwMDAwMDBkODVlOTc4NmY0YzcwMzk1MjkyN2Q0NTc4M2JiZjgzNA==`
+Snapshot ID: `MjgwNzM1MzIsMDAwMDAwMDA5Zjc4YzRiYzJmYjQ5MGM5YTllMWYwODg5ZGQ0NTRhMg==`

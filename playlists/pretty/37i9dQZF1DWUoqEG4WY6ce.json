@@ -1,12 +1,12 @@
 {
   "description": "Hop in.",
-  "num_followers": 1021987,
+  "num_followers": 1022308,
   "original_name": "Indie Rock Road Trip",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzNzVhZTVmZjFiNWNlMWVkNTE5NTJmYTVmMzYyZTRlMjE4MDIzZDRi",
+  "snapshot_id": "MCxkZjk0ZDVkODA4NGVkZDZiMTIzNTAwNjQwYTQ1YThlN2U0NGExZDMy",
   "tracks": [
     {
       "added_at": "2022-11-29 19:35:01",
@@ -395,22 +395,6 @@
     {
       "added_at": "2022-11-29 19:35:01",
       "album": {
-        "name": "Veckatimest",
-        "url": "https://open.spotify.com/album/3XQMgEnLQnOMkFaJA9w6sZ"
-      },
-      "artists": [
-        {
-          "name": "Grizzly Bear",
-          "url": "https://open.spotify.com/artist/2Jv5eshHtLycR6R8KQCdc4"
-        }
-      ],
-      "duration_ms": 246213,
-      "name": "Two Weeks",
-      "url": "https://open.spotify.com/track/04uR2cdkgiaLIzebPcs25m"
-    },
-    {
-      "added_at": "2022-11-29 19:35:01",
-      "album": {
         "name": "Vampire Weekend",
         "url": "https://open.spotify.com/album/7n8NJkGKAl2np1bXiRn0CY"
       },
@@ -423,6 +407,22 @@
       "duration_ms": 137760,
       "name": "A-Punk",
       "url": "https://open.spotify.com/track/3AydAydLzyyZutA0375XIz"
+    },
+    {
+      "added_at": "2022-11-29 19:35:01",
+      "album": {
+        "name": "Veckatimest",
+        "url": "https://open.spotify.com/album/3XQMgEnLQnOMkFaJA9w6sZ"
+      },
+      "artists": [
+        {
+          "name": "Grizzly Bear",
+          "url": "https://open.spotify.com/artist/2Jv5eshHtLycR6R8KQCdc4"
+        }
+      ],
+      "duration_ms": 246213,
+      "name": "Two Weeks",
+      "url": "https://open.spotify.com/track/04uR2cdkgiaLIzebPcs25m"
     },
     {
       "added_at": "2022-11-29 19:35:01",
@@ -663,22 +663,6 @@
     {
       "added_at": "2022-11-29 19:35:01",
       "album": {
-        "name": "Brothers",
-        "url": "https://open.spotify.com/album/7qE6RXYyz5kj5Tll7mJU0v"
-      },
-      "artists": [
-        {
-          "name": "The Black Keys",
-          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
-        }
-      ],
-      "duration_ms": 191800,
-      "name": "Howlin' for You",
-      "url": "https://open.spotify.com/track/0grFc6klR3hxoHLcgCYsF4"
-    },
-    {
-      "added_at": "2022-11-29 19:35:01",
-      "album": {
         "name": "White Blood Cells",
         "url": "https://open.spotify.com/album/6Xvc1TfpVEhDeHhmTQEtp0"
       },
@@ -691,6 +675,22 @@
       "duration_ms": 140178,
       "name": "We're Going to Be Friends",
       "url": "https://open.spotify.com/track/13lZDbwonGhOflQLQIfdtZ"
+    },
+    {
+      "added_at": "2022-11-29 19:35:01",
+      "album": {
+        "name": "Brothers",
+        "url": "https://open.spotify.com/album/7qE6RXYyz5kj5Tll7mJU0v"
+      },
+      "artists": [
+        {
+          "name": "The Black Keys",
+          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
+        }
+      ],
+      "duration_ms": 191800,
+      "name": "Howlin' for You",
+      "url": "https://open.spotify.com/track/0grFc6klR3hxoHLcgCYsF4"
     },
     {
       "added_at": "2022-11-29 19:35:01",
@@ -803,6 +803,22 @@
     {
       "added_at": "2022-11-29 19:35:01",
       "album": {
+        "name": "Lonesome Dreams (Bonus Track Version)",
+        "url": "https://open.spotify.com/album/0AG1T3Wbq7TnYMItBqXp2c"
+      },
+      "artists": [
+        {
+          "name": "Lord Huron",
+          "url": "https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25"
+        }
+      ],
+      "duration_ms": 284146,
+      "name": "Ends of the Earth",
+      "url": "https://open.spotify.com/track/1KQsrNv2vEW7AXKTrFz0Ah"
+    },
+    {
+      "added_at": "2022-11-29 19:35:01",
+      "album": {
         "name": "Broken Bells",
         "url": "https://open.spotify.com/album/0X7WyEKdm5afGj1fmD7Blx"
       },
@@ -847,22 +863,6 @@
       "duration_ms": 354360,
       "name": "Lazy Eye",
       "url": "https://open.spotify.com/track/1aDLUzCyYpRXgrjwUWzV2X"
-    },
-    {
-      "added_at": "2022-11-29 19:35:01",
-      "album": {
-        "name": "Lonesome Dreams (Bonus Track Version)",
-        "url": "https://open.spotify.com/album/0AG1T3Wbq7TnYMItBqXp2c"
-      },
-      "artists": [
-        {
-          "name": "Lord Huron",
-          "url": "https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25"
-        }
-      ],
-      "duration_ms": 284146,
-      "name": "Ends of the Earth",
-      "url": "https://open.spotify.com/track/1KQsrNv2vEW7AXKTrFz0Ah"
     },
     {
       "added_at": "2022-11-29 19:35:01",
@@ -1163,22 +1163,6 @@
     {
       "added_at": "2022-11-29 19:35:01",
       "album": {
-        "name": "Gold Past Life",
-        "url": "https://open.spotify.com/album/4fu8RdgNHUGQ61GP0sILpp"
-      },
-      "artists": [
-        {
-          "name": "Fruit Bats",
-          "url": "https://open.spotify.com/artist/6Qm9stX6XO1a4c7BXQDDgc"
-        }
-      ],
-      "duration_ms": 181400,
-      "name": "The Bottom of It",
-      "url": "https://open.spotify.com/track/6tZetCGfhxPh5ZIKCGmaKq"
-    },
-    {
-      "added_at": "2022-11-29 19:35:01",
-      "album": {
         "name": "A Little Lift",
         "url": "https://open.spotify.com/album/3roe3TTl1o2p9sZZ9HdeX2"
       },
@@ -1191,6 +1175,22 @@
       "duration_ms": 199742,
       "name": "Empress",
       "url": "https://open.spotify.com/track/4xWqRo8GPwMQ02LjiaX4D8"
+    },
+    {
+      "added_at": "2022-11-29 19:35:01",
+      "album": {
+        "name": "Gold Past Life",
+        "url": "https://open.spotify.com/album/4fu8RdgNHUGQ61GP0sILpp"
+      },
+      "artists": [
+        {
+          "name": "Fruit Bats",
+          "url": "https://open.spotify.com/artist/6Qm9stX6XO1a4c7BXQDDgc"
+        }
+      ],
+      "duration_ms": 181400,
+      "name": "The Bottom of It",
+      "url": "https://open.spotify.com/track/6tZetCGfhxPh5ZIKCGmaKq"
     },
     {
       "added_at": "2022-11-29 19:35:01",
@@ -1323,6 +1323,22 @@
     {
       "added_at": "2022-11-29 19:35:01",
       "album": {
+        "name": "Ode to a Conversation Stuck in Your Throat",
+        "url": "https://open.spotify.com/album/5e8S6KvNbnZBbNzaL2YcLJ"
+      },
+      "artists": [
+        {
+          "name": "Del Water Gap",
+          "url": "https://open.spotify.com/artist/0xPoVNPnxIIUS1vrxAYV00"
+        }
+      ],
+      "duration_ms": 198927,
+      "name": "Ode to a Conversation Stuck in Your Throat",
+      "url": "https://open.spotify.com/track/6JwkAGwClwUzcOi0ZBbSLe"
+    },
+    {
+      "added_at": "2022-11-29 19:35:01",
+      "album": {
         "name": "songs",
         "url": "https://open.spotify.com/album/2Qt8Z1LB3Fsrf6nhBNsvUJ"
       },
@@ -1351,22 +1367,6 @@
       "duration_ms": 195733,
       "name": "Oxford Comma",
       "url": "https://open.spotify.com/track/0ful4PHfTIxzXiZSZsXQ0H"
-    },
-    {
-      "added_at": "2022-11-29 19:35:01",
-      "album": {
-        "name": "Ode to a Conversation Stuck in Your Throat",
-        "url": "https://open.spotify.com/album/5e8S6KvNbnZBbNzaL2YcLJ"
-      },
-      "artists": [
-        {
-          "name": "Del Water Gap",
-          "url": "https://open.spotify.com/artist/0xPoVNPnxIIUS1vrxAYV00"
-        }
-      ],
-      "duration_ms": 198927,
-      "name": "Ode to a Conversation Stuck in Your Throat",
-      "url": "https://open.spotify.com/track/6JwkAGwClwUzcOi0ZBbSLe"
     },
     {
       "added_at": "2022-11-29 19:35:01",
@@ -1467,22 +1467,6 @@
     {
       "added_at": "2022-11-29 19:35:01",
       "album": {
-        "name": "Light Upon the Lake",
-        "url": "https://open.spotify.com/album/3UhUTuYtGypQWuhqqoImsv"
-      },
-      "artists": [
-        {
-          "name": "Whitney",
-          "url": "https://open.spotify.com/artist/32aUoW94mJ7xTJI7fG0V1G"
-        }
-      ],
-      "duration_ms": 237973,
-      "name": "No Woman",
-      "url": "https://open.spotify.com/track/5KPXcfXaGOaWUqOHLDXFRP"
-    },
-    {
-      "added_at": "2022-11-29 19:35:01",
-      "album": {
         "name": "Consolers of the Lonely",
         "url": "https://open.spotify.com/album/3yx8gEFlojRtt2WBhmxwfg"
       },
@@ -1495,6 +1479,22 @@
       "duration_ms": 179973,
       "name": "Salute Your Solution",
       "url": "https://open.spotify.com/track/4I3573QbRpER4HPzyFSFJa"
+    },
+    {
+      "added_at": "2022-11-29 19:35:01",
+      "album": {
+        "name": "Light Upon the Lake",
+        "url": "https://open.spotify.com/album/3UhUTuYtGypQWuhqqoImsv"
+      },
+      "artists": [
+        {
+          "name": "Whitney",
+          "url": "https://open.spotify.com/artist/32aUoW94mJ7xTJI7fG0V1G"
+        }
+      ],
+      "duration_ms": 237973,
+      "name": "No Woman",
+      "url": "https://open.spotify.com/track/5KPXcfXaGOaWUqOHLDXFRP"
     },
     {
       "added_at": "2022-11-29 19:35:01",

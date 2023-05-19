@@ -1,12 +1,12 @@
 {
   "description": "Chill techno, melodic house and tech house.",
-  "num_followers": 872029,
+  "num_followers": 872031,
   "original_name": "Lowkey Tech",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3NTkwZTNlZWU2OWEyMmE4ZDg1YTkwZmEwZGI2NjQ2MjkwZmJmMWRl",
+  "snapshot_id": "MCw0YTQ3YmU0NzhmYjJlODRlMGE2Y2Y2YjQwZWUzOTQ1Yzg4YTFkZjAy",
   "tracks": [
     {
       "added_at": "2023-05-05 15:12:26",
@@ -175,22 +175,6 @@
     {
       "added_at": "2023-05-05 15:12:26",
       "album": {
-        "name": "EYES",
-        "url": "https://open.spotify.com/album/3Q5Eggq49qEGPF4ag1e0fO"
-      },
-      "artists": [
-        {
-          "name": "The Blaze",
-          "url": "https://open.spotify.com/artist/1Dt1UKLtrJIW1xxRBejjos"
-        }
-      ],
-      "duration_ms": 212080,
-      "name": "EYES",
-      "url": "https://open.spotify.com/track/4ipoHe6bjN9IeXr8CGJYgR"
-    },
-    {
-      "added_at": "2023-05-05 15:12:26",
-      "album": {
         "name": "Invisible (Paul Kalkbrenner Remix)",
         "url": "https://open.spotify.com/album/4cqsB6UXqiauyUjNFxh8yf"
       },
@@ -207,6 +191,22 @@
       "duration_ms": 457036,
       "name": "Invisible - Paul Kalkbrenner Remix",
       "url": "https://open.spotify.com/track/2xUsXYIiK18wSnv2SXFGtj"
+    },
+    {
+      "added_at": "2023-05-05 15:12:26",
+      "album": {
+        "name": "EYES",
+        "url": "https://open.spotify.com/album/3Q5Eggq49qEGPF4ag1e0fO"
+      },
+      "artists": [
+        {
+          "name": "The Blaze",
+          "url": "https://open.spotify.com/artist/1Dt1UKLtrJIW1xxRBejjos"
+        }
+      ],
+      "duration_ms": 212080,
+      "name": "EYES",
+      "url": "https://open.spotify.com/track/4ipoHe6bjN9IeXr8CGJYgR"
     },
     {
       "added_at": "2023-05-05 15:12:26",
@@ -323,18 +323,18 @@
     {
       "added_at": "2023-05-05 15:12:26",
       "album": {
-        "name": "Suvi",
-        "url": "https://open.spotify.com/album/6OYVQ5iCKjq6jIddKMJBds"
+        "name": "Indulgence",
+        "url": "https://open.spotify.com/album/4gPXfd2Aipvdgk1W5Musou"
       },
       "artists": [
         {
-          "name": "Pretty Pink",
-          "url": "https://open.spotify.com/artist/78GHS9zWXcj8tBke222g5N"
+          "name": "Nora En Pure",
+          "url": "https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs"
         }
       ],
-      "duration_ms": 191612,
-      "name": "Suvi",
-      "url": "https://open.spotify.com/track/3hB45uxnbEjhGJHQZKOpFL"
+      "duration_ms": 269508,
+      "name": "Indulgence",
+      "url": "https://open.spotify.com/track/038yuRmrY7Vk8d6c3PDs7Q"
     },
     {
       "added_at": "2023-05-05 15:12:26",
@@ -355,18 +355,18 @@
     {
       "added_at": "2023-05-05 15:12:26",
       "album": {
-        "name": "Indulgence",
-        "url": "https://open.spotify.com/album/4gPXfd2Aipvdgk1W5Musou"
+        "name": "Stay There",
+        "url": "https://open.spotify.com/album/2LUUNfPXV0MwcwITk97KWF"
       },
       "artists": [
         {
-          "name": "Nora En Pure",
-          "url": "https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs"
+          "name": "Tonic Walter",
+          "url": "https://open.spotify.com/artist/6HfRl1vZ3mVDGkXb7Pknjv"
         }
       ],
-      "duration_ms": 269508,
-      "name": "Indulgence",
-      "url": "https://open.spotify.com/track/038yuRmrY7Vk8d6c3PDs7Q"
+      "duration_ms": 233562,
+      "name": "Stay There",
+      "url": "https://open.spotify.com/track/7t9PLlf9nI2Xo8WRrfcItk"
     },
     {
       "added_at": "2023-05-05 15:12:26",
@@ -395,22 +395,6 @@
     {
       "added_at": "2023-05-05 15:12:26",
       "album": {
-        "name": "Stay There",
-        "url": "https://open.spotify.com/album/2LUUNfPXV0MwcwITk97KWF"
-      },
-      "artists": [
-        {
-          "name": "Tonic Walter",
-          "url": "https://open.spotify.com/artist/6HfRl1vZ3mVDGkXb7Pknjv"
-        }
-      ],
-      "duration_ms": 233562,
-      "name": "Stay There",
-      "url": "https://open.spotify.com/track/7t9PLlf9nI2Xo8WRrfcItk"
-    },
-    {
-      "added_at": "2023-05-05 15:12:26",
-      "album": {
         "name": "The Mirage EP",
         "url": "https://open.spotify.com/album/7h6U7WviIp19ArtCstpINj"
       },
@@ -427,6 +411,22 @@
     {
       "added_at": "2023-05-05 15:12:26",
       "album": {
+        "name": "Spiral (Edit)",
+        "url": "https://open.spotify.com/album/1Xycot3BuBMYXvCFRMeZ88"
+      },
+      "artists": [
+        {
+          "name": "Philipp Wolf",
+          "url": "https://open.spotify.com/artist/6uKv2ihEYpsDwWOW6pv1aH"
+        }
+      ],
+      "duration_ms": 221577,
+      "name": "Spiral - Edit",
+      "url": "https://open.spotify.com/track/555xHSjplKrHgZteVOwJ7R"
+    },
+    {
+      "added_at": "2023-05-05 15:12:26",
+      "album": {
         "name": "Designer Love",
         "url": "https://open.spotify.com/album/6OK84B4MX87uzZ7umm25f3"
       },
@@ -439,6 +439,22 @@
       "duration_ms": 260786,
       "name": "Designer Love - Short Version",
       "url": "https://open.spotify.com/track/5NfgFRdfNQ4HFVPGRoVMU6"
+    },
+    {
+      "added_at": "2023-05-05 15:12:26",
+      "album": {
+        "name": "Apricots",
+        "url": "https://open.spotify.com/album/6ZgM0jM6nRUlK6wRXEONVc"
+      },
+      "artists": [
+        {
+          "name": "Bicep",
+          "url": "https://open.spotify.com/artist/73A3bLnfnz5BoQjb4gNCga"
+        }
+      ],
+      "duration_ms": 246506,
+      "name": "Apricots",
+      "url": "https://open.spotify.com/track/73X9X7kDgsm4YeHpc8prf6"
     },
     {
       "added_at": "2023-05-05 15:12:26",
@@ -463,18 +479,18 @@
     {
       "added_at": "2023-05-05 15:12:26",
       "album": {
-        "name": "Apricots",
-        "url": "https://open.spotify.com/album/6ZgM0jM6nRUlK6wRXEONVc"
+        "name": "Never Ending",
+        "url": "https://open.spotify.com/album/1emHqizAHsvhYxVEt6YHXo"
       },
       "artists": [
         {
-          "name": "Bicep",
-          "url": "https://open.spotify.com/artist/73A3bLnfnz5BoQjb4gNCga"
+          "name": "Bob Moses",
+          "url": "https://open.spotify.com/artist/6LHsnRBUYhFyt01PdKXAF5"
         }
       ],
-      "duration_ms": 246506,
-      "name": "Apricots",
-      "url": "https://open.spotify.com/track/73X9X7kDgsm4YeHpc8prf6"
+      "duration_ms": 242000,
+      "name": "Never Ending",
+      "url": "https://open.spotify.com/track/1SGbmqB3dxlrp4YkKzZUto"
     },
     {
       "added_at": "2023-05-05 15:12:26",
@@ -495,38 +511,6 @@
       "duration_ms": 478080,
       "name": "Darkness",
       "url": "https://open.spotify.com/track/65YXrDsZER1jlPAqFS9GDH"
-    },
-    {
-      "added_at": "2023-05-05 15:12:26",
-      "album": {
-        "name": "Never Ending",
-        "url": "https://open.spotify.com/album/1emHqizAHsvhYxVEt6YHXo"
-      },
-      "artists": [
-        {
-          "name": "Bob Moses",
-          "url": "https://open.spotify.com/artist/6LHsnRBUYhFyt01PdKXAF5"
-        }
-      ],
-      "duration_ms": 242000,
-      "name": "Never Ending",
-      "url": "https://open.spotify.com/track/1SGbmqB3dxlrp4YkKzZUto"
-    },
-    {
-      "added_at": "2023-05-05 15:12:26",
-      "album": {
-        "name": "Spiral (Edit)",
-        "url": "https://open.spotify.com/album/1Xycot3BuBMYXvCFRMeZ88"
-      },
-      "artists": [
-        {
-          "name": "Philipp Wolf",
-          "url": "https://open.spotify.com/artist/6uKv2ihEYpsDwWOW6pv1aH"
-        }
-      ],
-      "duration_ms": 221577,
-      "name": "Spiral - Edit",
-      "url": "https://open.spotify.com/track/555xHSjplKrHgZteVOwJ7R"
     },
     {
       "added_at": "2023-05-05 15:12:26",
@@ -571,22 +555,6 @@
     {
       "added_at": "2023-05-05 15:12:26",
       "album": {
-        "name": "Shapes in the Spray",
-        "url": "https://open.spotify.com/album/3FnbdauVXBaaSNUg5ABYRf"
-      },
-      "artists": [
-        {
-          "name": "Klangphonics",
-          "url": "https://open.spotify.com/artist/0UoXOPQo2BAZ3pSfkt5XZA"
-        }
-      ],
-      "duration_ms": 429055,
-      "name": "Shapes in the Spray",
-      "url": "https://open.spotify.com/track/6h3ZomURqLW7JkM2S66FFL"
-    },
-    {
-      "added_at": "2023-05-05 15:12:26",
-      "album": {
         "name": "Dreamcast",
         "url": "https://open.spotify.com/album/4y3Og1wV6ODVRpado3WilW"
       },
@@ -599,6 +567,22 @@
       "duration_ms": 325744,
       "name": "Dreamcast",
       "url": "https://open.spotify.com/track/0kXPOcMLExBxGeS4YJexzk"
+    },
+    {
+      "added_at": "2023-05-05 15:12:26",
+      "album": {
+        "name": "Shapes in the Spray",
+        "url": "https://open.spotify.com/album/3FnbdauVXBaaSNUg5ABYRf"
+      },
+      "artists": [
+        {
+          "name": "Klangphonics",
+          "url": "https://open.spotify.com/artist/0UoXOPQo2BAZ3pSfkt5XZA"
+        }
+      ],
+      "duration_ms": 429055,
+      "name": "Shapes in the Spray",
+      "url": "https://open.spotify.com/track/6h3ZomURqLW7JkM2S66FFL"
     },
     {
       "added_at": "2023-05-05 15:12:26",
@@ -651,6 +635,22 @@
     {
       "added_at": "2023-05-05 15:12:26",
       "album": {
+        "name": "Backseat Tape",
+        "url": "https://open.spotify.com/album/3kukhQjrtZcMNL43oLBedf"
+      },
+      "artists": [
+        {
+          "name": "southstar",
+          "url": "https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi"
+        }
+      ],
+      "duration_ms": 184040,
+      "name": "I Don't Need You",
+      "url": "https://open.spotify.com/track/0grLyO9HmxtestrFZrFJfU"
+    },
+    {
+      "added_at": "2023-05-05 15:12:26",
+      "album": {
         "name": "Afterglow",
         "url": "https://open.spotify.com/album/6pBEgtzvrTzF2KWiMzhkGm"
       },
@@ -667,22 +667,6 @@
       "duration_ms": 269752,
       "name": "Afterglow",
       "url": "https://open.spotify.com/track/2Ftoh82TZBdd5VduEm8T44"
-    },
-    {
-      "added_at": "2023-05-05 15:12:26",
-      "album": {
-        "name": "Backseat Tape",
-        "url": "https://open.spotify.com/album/3kukhQjrtZcMNL43oLBedf"
-      },
-      "artists": [
-        {
-          "name": "southstar",
-          "url": "https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi"
-        }
-      ],
-      "duration_ms": 184040,
-      "name": "I Don't Need You",
-      "url": "https://open.spotify.com/track/0grLyO9HmxtestrFZrFJfU"
     },
     {
       "added_at": "2023-05-05 15:12:26",
@@ -711,22 +695,6 @@
     {
       "added_at": "2023-05-05 15:12:26",
       "album": {
-        "name": "When We Meet Again",
-        "url": "https://open.spotify.com/album/3XJPPvqVjeh7HkbjxbQijw"
-      },
-      "artists": [
-        {
-          "name": "Helsloot",
-          "url": "https://open.spotify.com/artist/6dC41opH96WjFwWhhAxBsS"
-        }
-      ],
-      "duration_ms": 237500,
-      "name": "When We Meet Again - Edit",
-      "url": "https://open.spotify.com/track/2RP4PD9GgLI84f4YgYjP4X"
-    },
-    {
-      "added_at": "2023-05-05 15:12:26",
-      "album": {
         "name": "Domino (David Guetta Remix)",
         "url": "https://open.spotify.com/album/7wpG47TcZLqoinmjTVzy3k"
       },
@@ -743,6 +711,22 @@
       "duration_ms": 296192,
       "name": "Domino - David Guetta Remix",
       "url": "https://open.spotify.com/track/1wpbmqF1IFW1W1Zut5aquK"
+    },
+    {
+      "added_at": "2023-05-05 15:12:26",
+      "album": {
+        "name": "When We Meet Again",
+        "url": "https://open.spotify.com/album/3XJPPvqVjeh7HkbjxbQijw"
+      },
+      "artists": [
+        {
+          "name": "Helsloot",
+          "url": "https://open.spotify.com/artist/6dC41opH96WjFwWhhAxBsS"
+        }
+      ],
+      "duration_ms": 237500,
+      "name": "When We Meet Again - Edit",
+      "url": "https://open.spotify.com/track/2RP4PD9GgLI84f4YgYjP4X"
     },
     {
       "added_at": "2023-05-05 15:12:26",
@@ -947,22 +931,6 @@
     {
       "added_at": "2023-05-05 15:12:26",
       "album": {
-        "name": "MORE D4TA",
-        "url": "https://open.spotify.com/album/7coOKcB1fDcYvLG1OTv4Dz"
-      },
-      "artists": [
-        {
-          "name": "Moderat",
-          "url": "https://open.spotify.com/artist/2exkZbmNqMKnT8LRWuxWgy"
-        }
-      ],
-      "duration_ms": 276689,
-      "name": "MORE LOVE",
-      "url": "https://open.spotify.com/track/64rYiYzQNM4uRx6m03Uv9J"
-    },
-    {
-      "added_at": "2023-05-05 15:12:26",
-      "album": {
         "name": "Love Will Set U Free",
         "url": "https://open.spotify.com/album/2q1yFtPevPCNlp06WDzfFc"
       },
@@ -1019,6 +987,22 @@
     {
       "added_at": "2023-05-05 15:12:26",
       "album": {
+        "name": "MORE D4TA",
+        "url": "https://open.spotify.com/album/7coOKcB1fDcYvLG1OTv4Dz"
+      },
+      "artists": [
+        {
+          "name": "Moderat",
+          "url": "https://open.spotify.com/artist/2exkZbmNqMKnT8LRWuxWgy"
+        }
+      ],
+      "duration_ms": 276689,
+      "name": "MORE LOVE",
+      "url": "https://open.spotify.com/track/64rYiYzQNM4uRx6m03Uv9J"
+    },
+    {
+      "added_at": "2023-05-05 15:12:26",
+      "album": {
         "name": "Between Two Worlds",
         "url": "https://open.spotify.com/album/2e0Xq16PwrfYtznyso4lHy"
       },
@@ -1031,6 +1015,22 @@
       "duration_ms": 464026,
       "name": "Between Two Worlds",
       "url": "https://open.spotify.com/track/0uO5T7u4DkgfGif1wIeLNr"
+    },
+    {
+      "added_at": "2023-05-05 15:12:26",
+      "album": {
+        "name": "I WON'T STAY",
+        "url": "https://open.spotify.com/album/1zwBTT49NegfvTuQ2k883O"
+      },
+      "artists": [
+        {
+          "name": "JOPLYN",
+          "url": "https://open.spotify.com/artist/32Jt1AK733JbFR82hEZ0Ih"
+        }
+      ],
+      "duration_ms": 286423,
+      "name": "I WON'T STAY",
+      "url": "https://open.spotify.com/track/16Xp4KpTyFJc4jKXpNFFyE"
     },
     {
       "added_at": "2023-05-05 15:12:26",
@@ -1055,22 +1055,6 @@
     {
       "added_at": "2023-05-05 15:12:26",
       "album": {
-        "name": "I WON'T STAY",
-        "url": "https://open.spotify.com/album/1zwBTT49NegfvTuQ2k883O"
-      },
-      "artists": [
-        {
-          "name": "JOPLYN",
-          "url": "https://open.spotify.com/artist/32Jt1AK733JbFR82hEZ0Ih"
-        }
-      ],
-      "duration_ms": 286423,
-      "name": "I WON'T STAY",
-      "url": "https://open.spotify.com/track/16Xp4KpTyFJc4jKXpNFFyE"
-    },
-    {
-      "added_at": "2023-05-05 15:12:26",
-      "album": {
         "name": "Unfold Voices EP",
         "url": "https://open.spotify.com/album/2P9jp1XxHAhD9zK7bfvQ6T"
       },
@@ -1083,6 +1067,34 @@
       "duration_ms": 391577,
       "name": "Unfold Me",
       "url": "https://open.spotify.com/track/3wO96BMLqvUSMowH19eWis"
+    },
+    {
+      "added_at": "2023-05-05 15:12:26",
+      "album": {
+        "name": "Home (Mind Against Remix)",
+        "url": "https://open.spotify.com/album/0UTTvSP2puk1FP4NQzWKb3"
+      },
+      "artists": [
+        {
+          "name": "Adriatique",
+          "url": "https://open.spotify.com/artist/02DWGcShQivFepRvGJ7xhB"
+        },
+        {
+          "name": "Marino Canal",
+          "url": "https://open.spotify.com/artist/6qdVbTc8Uvy0VJyDZbYTd8"
+        },
+        {
+          "name": "Delhia De France",
+          "url": "https://open.spotify.com/artist/7A4TdwdnxfR9auD1yAmpWD"
+        },
+        {
+          "name": "Mind Against",
+          "url": "https://open.spotify.com/artist/48LWLoeY0dhwaiX1FRsn72"
+        }
+      ],
+      "duration_ms": 437647,
+      "name": "Home - Mind Against Remix",
+      "url": "https://open.spotify.com/track/0pyjqTGLsrg1r6m5YR4tuq"
     }
   ],
   "unique_name": "Lowkey Tech",

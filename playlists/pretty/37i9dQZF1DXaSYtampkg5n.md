@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaSYtampkg5n.md) - [plain]
 
 > Sheer joy for sunny days in 50 old and new African jams.
 
-[Spotify](https://open.spotify.com/user/spotify) - 122,537 likes - 50 songs - 4 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 122,543 likes - 50 songs - 4 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaSYtampkg5n.md) - [plain]
 | 6 | [Daa Nyinaa](https://open.spotify.com/track/48lSNIKsrrwc9IhgP8XXwV) | [Ata Kak](https://open.spotify.com/artist/172WdsNGJYNNXVNQ1tXfrB) | [Obaa Sima](https://open.spotify.com/album/2ERqie1S8nRnxh14keiTBu) | 6:07 |
 | 7 | [Alo Mi Alo \(Parts 1 & 2\)](https://open.spotify.com/track/4ZAjQaFzbW5IbJJsjfCJJ4) | [Orlando Julius](https://open.spotify.com/artist/5nmP3vKUqynlECpm2ura7L), [The Afro Sounders](https://open.spotify.com/artist/6NJCN6KXFzP8YlfX4mFDx8) | [Nigeria 70 \- Funky Lagos](https://open.spotify.com/album/6vbhwiICICM9vQiUK62Me0) | 8:03 |
 | 8 | [Love and Death](https://open.spotify.com/track/2EdcEOJf2V8xMOTO7q2gCN) | [Ebo Taylor](https://open.spotify.com/artist/2gR0iQTVBPHDKiNn1Kq8HI) | [Love & Death](https://open.spotify.com/album/4MTtvGnI74RyOmG5UrVZhf) | 6:55 |
-| 9 | [The Coffee Cola Song](https://open.spotify.com/track/3Y9XSINHLe5C8XI5kNmCZI) | [Francis Bebey](https://open.spotify.com/artist/0mdmrbu5UZ32uRcRp2z6mr) | [Afro Exotique \- Adventures In The Leftfield, Africa 1972\-82](https://open.spotify.com/album/06l60JOH4AVnCVX4UeIhXi) | 5:06 |
+| 9 | [The Coffee Cola Song](https://open.spotify.com/track/6qBkgf34enQ1CdaXDy46yr) | [Francis Bebey](https://open.spotify.com/artist/0mdmrbu5UZ32uRcRp2z6mr) | [African Electronic Music 1975 \- 1982](https://open.spotify.com/album/0tfoSJVUJaLlua6IEJZJjz) | 5:05 |
 | 10 | [Stop Jealous](https://open.spotify.com/track/0KgG8DYWlLQwPJSpsHyafq) | [Janka Nabay and the Bubu Gang](https://open.spotify.com/artist/1zC407L9CgUmxSDswWVISu) | [Build Music](https://open.spotify.com/album/1MXaSZMAZDQOVMbxhotGPq) | 3:54 |
 | 11 | [City In Lights](https://open.spotify.com/track/1P7WPHbG33wHjDHVjH6v11) | [Africa Express](https://open.spotify.com/artist/0FvSMtCS6UPO4dfsvFT4Vm), [Nick Zinner](https://open.spotify.com/artist/2skDtpQeOI6zjRWIT3iFkO), [Otim Alpha](https://open.spotify.com/artist/07uMqKd2ikfAnQiyF0bNlV), [Mahotella Queens](https://open.spotify.com/artist/2IUmEbKT6wvT8Jv7AEaMIA), [Georgia](https://open.spotify.com/artist/06knYh538h5SI7OAEF8ek3) | [EGOLI](https://open.spotify.com/album/6XOtavVWhCDQTn6o10QeUB) | 4:01 |
 | 12 | [Kare Nanhasi](https://open.spotify.com/track/4l9wFkjVU37DqhF7jES8dV) | [Hallelujah Chicken Run Band](https://open.spotify.com/artist/4F4uGrDn844DLT3ThoztIE) | [4\-Track Recording Session \(Analog Africa No\. 1\)](https://open.spotify.com/album/4iXf2ybRyGp7Ux0TXtUoDm) | 3:36 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaSYtampkg5n.md) - [plain]
 | 49 | [Disco Hi \- Life](https://open.spotify.com/track/7LRRSTX1m4CzW8MXnfoxa0) | [Orlando Julius](https://open.spotify.com/artist/5nmP3vKUqynlECpm2ura7L) | [Disco Hi\-Life](https://open.spotify.com/album/3imgLN3LrdTmKN5ZyoDBxU) | 8:55 |
 | 50 | [Obaa Sima](https://open.spotify.com/track/4LyxysVt5v3kkdJUSx8wvZ) | [Ata Kak](https://open.spotify.com/artist/172WdsNGJYNNXVNQ1tXfrB) | [Obaa Sima](https://open.spotify.com/album/2ERqie1S8nRnxh14keiTBu) | 5:38 |
 
-Snapshot ID: `MCw4OWI4Mjk0NGU5OWViODU4N2FjOTU2NmJjMTRiNDhkNzU1ZDUwOGEx`
+Snapshot ID: `MCxjYTc5MjIyMWE4MTE4MWIxMzI4YzZiMjYzZTZiOTRlY2VkZTcyNDkw`

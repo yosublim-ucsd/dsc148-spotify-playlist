@@ -1,12 +1,12 @@
 {
   "description": "A relaxing evening with a smooth glass never sounded so good. Hit play and let the room fill with some of the classics.",
-  "num_followers": 149847,
+  "num_followers": 149965,
   "original_name": "Blues on the Rocks",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmY2MyNjVjZTdkMThiMmM0OGY2NjMzMmU3NDUyMWI4Y2JhOTU1OGM5",
+  "snapshot_id": "MCw4YzU5MzdiMDdiZWRmODcyZDIzNzI2YjEzYzNmYTJlNmZhZjIwMmNl",
   "tracks": [
     {
       "added_at": "2023-04-28 16:37:16",
@@ -151,22 +151,6 @@
     {
       "added_at": "2023-04-28 16:37:16",
       "album": {
-        "name": "Soul Tender",
-        "url": "https://open.spotify.com/album/1LSwdjVS3iXgNAru0Ly5Vn"
-      },
-      "artists": [
-        {
-          "name": "Gene Deer",
-          "url": "https://open.spotify.com/artist/2eIkIIArGbSEVLzC0rHxGV"
-        }
-      ],
-      "duration_ms": 459940,
-      "name": "Midnight Healing",
-      "url": "https://open.spotify.com/track/4RKoKePOnKpRlR68xyBQCn"
-    },
-    {
-      "added_at": "2023-04-28 16:37:16",
-      "album": {
         "name": "Sings Raining In My Heart",
         "url": "https://open.spotify.com/album/5DqktKLSuwx51XACoKu1Hg"
       },
@@ -179,6 +163,22 @@
       "duration_ms": 134826,
       "name": "Buzz Me, Babe",
       "url": "https://open.spotify.com/track/2lvBjTlia0x9GXfnZ3jbui"
+    },
+    {
+      "added_at": "2023-04-28 16:37:16",
+      "album": {
+        "name": "Soul Tender",
+        "url": "https://open.spotify.com/album/1LSwdjVS3iXgNAru0Ly5Vn"
+      },
+      "artists": [
+        {
+          "name": "Gene Deer",
+          "url": "https://open.spotify.com/artist/2eIkIIArGbSEVLzC0rHxGV"
+        }
+      ],
+      "duration_ms": 459940,
+      "name": "Midnight Healing",
+      "url": "https://open.spotify.com/track/4RKoKePOnKpRlR68xyBQCn"
     },
     {
       "added_at": "2023-04-28 16:37:16",
@@ -451,22 +451,6 @@
     {
       "added_at": "2023-04-28 16:37:16",
       "album": {
-        "name": "Two Bugs and a Roach",
-        "url": "https://open.spotify.com/album/4IWaRuc8RGDetpOm5Bv4Ho"
-      },
-      "artists": [
-        {
-          "name": "Earl Hooker",
-          "url": "https://open.spotify.com/artist/3Ev1WS21x5Jav9j214A19O"
-        }
-      ],
-      "duration_ms": 316666,
-      "name": "You Don't Want Me",
-      "url": "https://open.spotify.com/track/6ECnAHxGQilDe32zQqfdz3"
-    },
-    {
-      "added_at": "2023-04-28 16:37:16",
-      "album": {
         "name": "The Essential Jimmie Vaughan",
         "url": "https://open.spotify.com/album/61ahDSudLBKZ06utlL3g4y"
       },
@@ -483,18 +467,18 @@
     {
       "added_at": "2023-04-28 16:37:16",
       "album": {
-        "name": "Hung Down Head",
-        "url": "https://open.spotify.com/album/4x3NEnpfAk2NY3jD6UDLEV"
+        "name": "Two Bugs and a Roach",
+        "url": "https://open.spotify.com/album/4IWaRuc8RGDetpOm5Bv4Ho"
       },
       "artists": [
         {
-          "name": "Lowell Fulson",
-          "url": "https://open.spotify.com/artist/3VhvGNnWfzmlEyiuhzdgf5"
+          "name": "Earl Hooker",
+          "url": "https://open.spotify.com/artist/3Ev1WS21x5Jav9j214A19O"
         }
       ],
-      "duration_ms": 189466,
-      "name": "Reconsider Baby",
-      "url": "https://open.spotify.com/track/65JvAtDMWtNIjDCDOLeJ2A"
+      "duration_ms": 316666,
+      "name": "You Don't Want Me",
+      "url": "https://open.spotify.com/track/6ECnAHxGQilDe32zQqfdz3"
     },
     {
       "added_at": "2023-04-28 16:37:16",
@@ -515,6 +499,22 @@
     {
       "added_at": "2023-04-28 16:37:16",
       "album": {
+        "name": "Hung Down Head",
+        "url": "https://open.spotify.com/album/4x3NEnpfAk2NY3jD6UDLEV"
+      },
+      "artists": [
+        {
+          "name": "Lowell Fulson",
+          "url": "https://open.spotify.com/artist/3VhvGNnWfzmlEyiuhzdgf5"
+        }
+      ],
+      "duration_ms": 189466,
+      "name": "Reconsider Baby",
+      "url": "https://open.spotify.com/track/65JvAtDMWtNIjDCDOLeJ2A"
+    },
+    {
+      "added_at": "2023-04-28 16:37:16",
+      "album": {
         "name": "Savoy",
         "url": "https://open.spotify.com/album/6CSit6rVjX6qqPrwHCaWdF"
       },
@@ -531,22 +531,6 @@
     {
       "added_at": "2023-04-28 16:37:16",
       "album": {
-        "name": "Delta Kream",
-        "url": "https://open.spotify.com/album/682pJqnx8hcrCfSjvyNBki"
-      },
-      "artists": [
-        {
-          "name": "The Black Keys",
-          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
-        }
-      ],
-      "duration_ms": 355434,
-      "name": "Come on and Go with Me",
-      "url": "https://open.spotify.com/track/7M9Bru9dH3gHSmx6c7bo7j"
-    },
-    {
-      "added_at": "2023-04-28 16:37:16",
-      "album": {
         "name": "Hoodoo",
         "url": "https://open.spotify.com/album/35Azg941BSNx3sGxo7C1yJ"
       },
@@ -559,6 +543,22 @@
       "duration_ms": 268946,
       "name": "Who You Gonna Hoodoo Now?",
       "url": "https://open.spotify.com/track/2tPUpQpzrvg0yNHKKZfiS5"
+    },
+    {
+      "added_at": "2023-04-28 16:37:16",
+      "album": {
+        "name": "Delta Kream",
+        "url": "https://open.spotify.com/album/682pJqnx8hcrCfSjvyNBki"
+      },
+      "artists": [
+        {
+          "name": "The Black Keys",
+          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
+        }
+      ],
+      "duration_ms": 355434,
+      "name": "Come on and Go with Me",
+      "url": "https://open.spotify.com/track/7M9Bru9dH3gHSmx6c7bo7j"
     },
     {
       "added_at": "2023-04-28 16:37:16",
@@ -975,22 +975,6 @@
     {
       "added_at": "2023-04-28 16:37:16",
       "album": {
-        "name": "Mourning In The Morning",
-        "url": "https://open.spotify.com/album/39zS4QvdYkdcoa7VzG7KHe"
-      },
-      "artists": [
-        {
-          "name": "Otis Rush",
-          "url": "https://open.spotify.com/artist/1h0hOL3bVcYlg4xcSjU7fP"
-        }
-      ],
-      "duration_ms": 341173,
-      "name": "Gambler's Blues",
-      "url": "https://open.spotify.com/track/3hLxjGBGvO1VF3p6BMPn8x"
-    },
-    {
-      "added_at": "2023-04-28 16:37:16",
-      "album": {
         "name": "Sweet Giant of the Blues",
         "url": "https://open.spotify.com/album/4VOsqjPQLgQ8x5uZELEWQw"
       },
@@ -1003,6 +987,22 @@
       "duration_ms": 366826,
       "name": "Bird in a Cage",
       "url": "https://open.spotify.com/track/2Xx66yeqdxjPViOEkKFkB4"
+    },
+    {
+      "added_at": "2023-04-28 16:37:16",
+      "album": {
+        "name": "Mourning In The Morning",
+        "url": "https://open.spotify.com/album/39zS4QvdYkdcoa7VzG7KHe"
+      },
+      "artists": [
+        {
+          "name": "Otis Rush",
+          "url": "https://open.spotify.com/artist/1h0hOL3bVcYlg4xcSjU7fP"
+        }
+      ],
+      "duration_ms": 341173,
+      "name": "Gambler's Blues",
+      "url": "https://open.spotify.com/track/3hLxjGBGvO1VF3p6BMPn8x"
     },
     {
       "added_at": "2023-04-28 16:37:16",
@@ -1039,22 +1039,6 @@
     {
       "added_at": "2023-04-28 16:37:16",
       "album": {
-        "name": "The Real Folk Blues",
-        "url": "https://open.spotify.com/album/6AToTGNfNIiOSMcl6xGJTY"
-      },
-      "artists": [
-        {
-          "name": "John Lee Hooker",
-          "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
-        }
-      ],
-      "duration_ms": 319466,
-      "name": "I Put My Trust In You",
-      "url": "https://open.spotify.com/track/3de9QMMvkyDop04qy2w92t"
-    },
-    {
-      "added_at": "2023-04-28 16:37:16",
-      "album": {
         "name": "Stormy Monday Blues (Sun Records 70th / Remastered 2022)",
         "url": "https://open.spotify.com/album/40hFA10cSZ43lHZhii57dC"
       },
@@ -1067,6 +1051,22 @@
       "duration_ms": 81000,
       "name": "Don't Go Back To New Orleans - Remastered 2022",
       "url": "https://open.spotify.com/track/17J48o0PQhGI7KFZXMe9j1"
+    },
+    {
+      "added_at": "2023-04-28 16:37:16",
+      "album": {
+        "name": "The Real Folk Blues",
+        "url": "https://open.spotify.com/album/6AToTGNfNIiOSMcl6xGJTY"
+      },
+      "artists": [
+        {
+          "name": "John Lee Hooker",
+          "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
+        }
+      ],
+      "duration_ms": 319466,
+      "name": "I Put My Trust In You",
+      "url": "https://open.spotify.com/track/3de9QMMvkyDop04qy2w92t"
     },
     {
       "added_at": "2023-04-28 16:37:16",
@@ -1099,6 +1099,22 @@
       "duration_ms": 171346,
       "name": "Pretty Flowers",
       "url": "https://open.spotify.com/track/60vycVSlMAOiqZd7qtW9Vp"
+    },
+    {
+      "added_at": "2023-04-28 16:37:16",
+      "album": {
+        "name": "Love Transcends",
+        "url": "https://open.spotify.com/album/0gbhkq77MWLw3BXB63Hby2"
+      },
+      "artists": [
+        {
+          "name": "Jackie Venson",
+          "url": "https://open.spotify.com/artist/2HlgRiOR33BVVE9hdEftxg"
+        }
+      ],
+      "duration_ms": 175177,
+      "name": "One Step Forward",
+      "url": "https://open.spotify.com/track/0RQTKzj5xYJeuHKH0WFdoN"
     },
     {
       "added_at": "2023-04-28 16:37:16",
@@ -1147,22 +1163,6 @@
       "duration_ms": 257093,
       "name": "Thanks, But No Thanks",
       "url": "https://open.spotify.com/track/09dWT48I3CR2nxiEA5FwwW"
-    },
-    {
-      "added_at": "2023-04-28 16:37:16",
-      "album": {
-        "name": "Love Transcends",
-        "url": "https://open.spotify.com/album/0gbhkq77MWLw3BXB63Hby2"
-      },
-      "artists": [
-        {
-          "name": "Jackie Venson",
-          "url": "https://open.spotify.com/artist/2HlgRiOR33BVVE9hdEftxg"
-        }
-      ],
-      "duration_ms": 175177,
-      "name": "One Step Forward",
-      "url": "https://open.spotify.com/track/0RQTKzj5xYJeuHKH0WFdoN"
     },
     {
       "added_at": "2023-04-28 16:37:16",
@@ -1299,22 +1299,6 @@
     {
       "added_at": "2023-04-28 16:37:16",
       "album": {
-        "name": "Hiding Place",
-        "url": "https://open.spotify.com/album/7dcq4XdSEHjdkNkRokWx5D"
-      },
-      "artists": [
-        {
-          "name": "Gov't Mule",
-          "url": "https://open.spotify.com/artist/5zoKOcTDI9EMOhGNaxL708"
-        }
-      ],
-      "duration_ms": 443160,
-      "name": "Hiding Place",
-      "url": "https://open.spotify.com/track/1W6xHj8Ic4p1QienSgdaFU"
-    },
-    {
-      "added_at": "2023-04-28 16:37:16",
-      "album": {
         "name": "Men of the World: The Early Years",
         "url": "https://open.spotify.com/album/2K7v8gzTtmyX0fjvAVUkzt"
       },
@@ -1327,6 +1311,22 @@
       "duration_ms": 203400,
       "name": "Fast Talking Woman Blues - 2001 Remaster",
       "url": "https://open.spotify.com/track/6ilP6a90n3JOOD1mxFtVBu"
+    },
+    {
+      "added_at": "2023-04-28 16:37:16",
+      "album": {
+        "name": "Hiding Place",
+        "url": "https://open.spotify.com/album/7dcq4XdSEHjdkNkRokWx5D"
+      },
+      "artists": [
+        {
+          "name": "Gov't Mule",
+          "url": "https://open.spotify.com/artist/5zoKOcTDI9EMOhGNaxL708"
+        }
+      ],
+      "duration_ms": 443160,
+      "name": "Hiding Place",
+      "url": "https://open.spotify.com/track/1W6xHj8Ic4p1QienSgdaFU"
     },
     {
       "added_at": "2023-04-28 16:37:16",
@@ -1347,6 +1347,22 @@
       "duration_ms": 354573,
       "name": "Go Easy",
       "url": "https://open.spotify.com/track/3owiWE0J2144puM4MB1lxK"
+    },
+    {
+      "added_at": "2023-04-28 16:37:16",
+      "album": {
+        "name": "Your Lies",
+        "url": "https://open.spotify.com/album/1c9emJLzeTRuws8ov0S7JB"
+      },
+      "artists": [
+        {
+          "name": "The Cinelli Brothers",
+          "url": "https://open.spotify.com/artist/25Sjy5qO63Dpa7nqHjTTNF"
+        }
+      ],
+      "duration_ms": 193130,
+      "name": "Your Lies",
+      "url": "https://open.spotify.com/track/33ic6QylSASWCW3LI6qvqH"
     },
     {
       "added_at": "2023-04-28 16:37:16",
@@ -1379,22 +1395,6 @@
       "duration_ms": 240466,
       "name": "Reconsider Baby - Remastered",
       "url": "https://open.spotify.com/track/5Avx6u0cFb5P0fL4qzijGC"
-    },
-    {
-      "added_at": "2023-04-28 16:37:16",
-      "album": {
-        "name": "Your Lies",
-        "url": "https://open.spotify.com/album/1c9emJLzeTRuws8ov0S7JB"
-      },
-      "artists": [
-        {
-          "name": "The Cinelli Brothers",
-          "url": "https://open.spotify.com/artist/25Sjy5qO63Dpa7nqHjTTNF"
-        }
-      ],
-      "duration_ms": 193130,
-      "name": "Your Lies",
-      "url": "https://open.spotify.com/track/33ic6QylSASWCW3LI6qvqH"
     },
     {
       "added_at": "2023-04-28 16:37:16",
@@ -1527,22 +1527,6 @@
     {
       "added_at": "2023-04-28 16:37:16",
       "album": {
-        "name": "The Essential Taj Mahal",
-        "url": "https://open.spotify.com/album/2PqzqwqXkeDn5UoL4WSkV6"
-      },
-      "artists": [
-        {
-          "name": "Taj Mahal",
-          "url": "https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp"
-        }
-      ],
-      "duration_ms": 530640,
-      "name": "The Celebrated Walkin' Blues",
-      "url": "https://open.spotify.com/track/1R5mc9pkvt3ZZ7r8nnnVVR"
-    },
-    {
-      "added_at": "2023-04-28 16:37:16",
-      "album": {
         "name": "Live At The Cafe Au-Go-Go",
         "url": "https://open.spotify.com/album/2GMgGU9seSh5gmYH6atrBd"
       },
@@ -1555,6 +1539,22 @@
       "duration_ms": 200266,
       "name": "She's Long, She's Tall (She Weeps Like A Willow Tree) - Live At Cafe Au-Go-Go/1966",
       "url": "https://open.spotify.com/track/1MiygdyK10qC8yNFnc9ayu"
+    },
+    {
+      "added_at": "2023-04-28 16:37:16",
+      "album": {
+        "name": "The Essential Taj Mahal",
+        "url": "https://open.spotify.com/album/2PqzqwqXkeDn5UoL4WSkV6"
+      },
+      "artists": [
+        {
+          "name": "Taj Mahal",
+          "url": "https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp"
+        }
+      ],
+      "duration_ms": 530640,
+      "name": "The Celebrated Walkin' Blues",
+      "url": "https://open.spotify.com/track/1R5mc9pkvt3ZZ7r8nnnVVR"
     },
     {
       "added_at": "2023-04-28 16:37:16",

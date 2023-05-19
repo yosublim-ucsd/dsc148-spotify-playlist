@@ -6,7 +6,7 @@
     "name": "Zack Amiton",
     "url": "https://open.spotify.com/user/6rcq1j21davq3yhbk1t0l5xnt"
   },
-  "snapshot_id": "ODQ5LGJmY2UxZDlkOGNjOWVjYzBkNjQ2Njk0NmQ1MzYzNzA0ODYwNzM1ZWM=",
+  "snapshot_id": "ODU0LDNjODFkZDZmYmEwNWQwMTQ0ZWQ3ZjI4NGFhMjBiODAxNDZkMzNkYzc=",
   "tracks": [
     {
       "added_at": "2021-08-26 23:11:19",
@@ -3315,6 +3315,86 @@
       "duration_ms": 257653,
       "name": "Pretty Hurts",
       "url": "https://open.spotify.com/track/6itVTFZWfIA9J6XJaC1eMT"
+    },
+    {
+      "added_at": "2023-05-18 05:46:55",
+      "album": {
+        "name": "Non-Perishable",
+        "url": "https://open.spotify.com/album/4g1NDArjCjyWXEWIbOhG8M"
+      },
+      "artists": [
+        {
+          "name": "tobi lou",
+          "url": "https://open.spotify.com/artist/4T8NIfZmVY6TJFqVzN6X49"
+        }
+      ],
+      "duration_ms": 176515,
+      "name": "Hopeless Romantic",
+      "url": "https://open.spotify.com/track/545SZZYmeuSlM9biS7uZjf"
+    },
+    {
+      "added_at": "2023-05-18 05:48:32",
+      "album": {
+        "name": "Live on Ice",
+        "url": "https://open.spotify.com/album/6K7SjlIebufubxXGf4uA7a"
+      },
+      "artists": [
+        {
+          "name": "tobi lou",
+          "url": "https://open.spotify.com/artist/4T8NIfZmVY6TJFqVzN6X49"
+        }
+      ],
+      "duration_ms": 265584,
+      "name": "100 Degrees",
+      "url": "https://open.spotify.com/track/1DPIqXc2BfJWWgCy0Tc2lr"
+    },
+    {
+      "added_at": "2023-05-18 07:30:13",
+      "album": {
+        "name": "Intro Bonito",
+        "url": "https://open.spotify.com/album/3s3PEd50fVx2qXMNgPy0uD"
+      },
+      "artists": [
+        {
+          "name": "Kero Kero Bonito",
+          "url": "https://open.spotify.com/artist/6OqhFYFJDnBBHas02HopPT"
+        }
+      ],
+      "duration_ms": 50197,
+      "name": "Bonito Intro",
+      "url": "https://open.spotify.com/track/5b1S06C3AuUOelyne3OJEw"
+    },
+    {
+      "added_at": "2023-05-18 07:30:32",
+      "album": {
+        "name": "Bonito Generation",
+        "url": "https://open.spotify.com/album/0dAMC0nNikIjhD8LeRZfhH"
+      },
+      "artists": [
+        {
+          "name": "Kero Kero Bonito",
+          "url": "https://open.spotify.com/artist/6OqhFYFJDnBBHas02HopPT"
+        }
+      ],
+      "duration_ms": 177000,
+      "name": "Waking Up",
+      "url": "https://open.spotify.com/track/6d5KjyeBSbzh6bbczubWko"
+    },
+    {
+      "added_at": "2023-05-19 00:18:25",
+      "album": {
+        "name": "Whatever People Say I Am, That's What I'm Not",
+        "url": "https://open.spotify.com/album/0ndGMh4twJNzPpr5XtHTR2"
+      },
+      "artists": [
+        {
+          "name": "Arctic Monkeys",
+          "url": "https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH"
+        }
+      ],
+      "duration_ms": 222946,
+      "name": "The View From The Afternoon",
+      "url": "https://open.spotify.com/track/4wSWZjWH7a5eVxskGxO13w"
     }
   ],
   "unique_name": "Zacklog",

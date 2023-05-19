@@ -1,13 +1,37 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 127136,
+  "num_followers": 127135,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "NDIwMiwyNTcxZjY4NWM2OTUyOWJhZDg2NmRlZWU5Zjg5YzA4N2Y3YjhlOGQx",
+  "snapshot_id": "NDIwNCw5YjAzNTU0ZTIwNTc2NTNkZjc3OTdiMmJlMGJkMTNkZmFhNjkyYmY5",
   "tracks": [
+    {
+      "added_at": "2023-05-18 18:59:31",
+      "album": {
+        "name": "You Found Me",
+        "url": "https://open.spotify.com/album/0TNgUfGot6W2bnm9rvsGqu"
+      },
+      "artists": [
+        {
+          "name": "Adventure Club",
+          "url": "https://open.spotify.com/artist/5CdJjUi9f0cVgo9nFuJrFa"
+        },
+        {
+          "name": "Jessica Audiffred",
+          "url": "https://open.spotify.com/artist/4odLDriBk6oEZotzLPTSnD"
+        },
+        {
+          "name": "Clara Park",
+          "url": "https://open.spotify.com/artist/7pNT2JErag4HzHSJk6z2w2"
+        }
+      ],
+      "duration_ms": 269538,
+      "name": "You Found Me",
+      "url": "https://open.spotify.com/track/5caU54QlqCMPEKIbQ3nbhd"
+    },
     {
       "added_at": "2023-05-17 16:50:20",
       "album": {

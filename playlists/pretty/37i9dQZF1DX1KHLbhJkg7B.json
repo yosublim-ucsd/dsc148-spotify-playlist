@@ -1,12 +1,12 @@
 {
   "description": "Unique versions of hit songs by other artists. Cover: Austin Snell",
-  "num_followers": 88531,
+  "num_followers": 88606,
   "original_name": "Country Covers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4ZWZhNjBjZTkxMzNmNDA3Y2RiNmZhM2M0ODE3ODdjMzNhNzA0Yjdl",
+  "snapshot_id": "MCxmMmEzZDk4N2E4OTY5ZGUwZWZlOWFmODZiYTA4MDUyM2RjM2QzZjI4",
   "tracks": [
     {
       "added_at": "2023-05-12 15:01:31",
@@ -1103,18 +1103,18 @@
     {
       "added_at": "2023-05-12 15:01:31",
       "album": {
-        "name": "Cypress Hills and the Big Country",
-        "url": "https://open.spotify.com/album/0nWc01U49BnvDb00ViFU1h"
+        "name": "Footloose",
+        "url": "https://open.spotify.com/album/1NwX9DLDpQSsJrrRdU3dEN"
       },
       "artists": [
         {
-          "name": "Colter Wall",
-          "url": "https://open.spotify.com/artist/3xYXYzm9H3RzyQgBrYwIcx"
+          "name": "Blake Shelton",
+          "url": "https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw"
         }
       ],
-      "duration_ms": 184040,
-      "name": "Let's All Help the Cowboys (Sing the Blues)",
-      "url": "https://open.spotify.com/track/5TXtn8dOWu3E68OuLC6xLo"
+      "duration_ms": 218493,
+      "name": "Footloose",
+      "url": "https://open.spotify.com/track/4shPfi6RsJiwQtso2XFGiL"
     },
     {
       "added_at": "2023-05-12 15:01:31",
@@ -1135,18 +1135,18 @@
     {
       "added_at": "2023-05-12 15:01:31",
       "album": {
-        "name": "Footloose",
-        "url": "https://open.spotify.com/album/1NwX9DLDpQSsJrrRdU3dEN"
+        "name": "Cypress Hills and the Big Country",
+        "url": "https://open.spotify.com/album/0nWc01U49BnvDb00ViFU1h"
       },
       "artists": [
         {
-          "name": "Blake Shelton",
-          "url": "https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw"
+          "name": "Colter Wall",
+          "url": "https://open.spotify.com/artist/3xYXYzm9H3RzyQgBrYwIcx"
         }
       ],
-      "duration_ms": 218493,
-      "name": "Footloose",
-      "url": "https://open.spotify.com/track/4shPfi6RsJiwQtso2XFGiL"
+      "duration_ms": 184040,
+      "name": "Let's All Help the Cowboys (Sing the Blues)",
+      "url": "https://open.spotify.com/track/5TXtn8dOWu3E68OuLC6xLo"
     },
     {
       "added_at": "2023-05-12 15:01:31",
@@ -1431,6 +1431,22 @@
     {
       "added_at": "2023-05-12 15:01:31",
       "album": {
+        "name": "Maoli Music Overload",
+        "url": "https://open.spotify.com/album/6WUxZbE4igXIai7HbD6coA"
+      },
+      "artists": [
+        {
+          "name": "Maoli",
+          "url": "https://open.spotify.com/artist/6EKzehEG2fwJtRMH4KbjsA"
+        }
+      ],
+      "duration_ms": 175227,
+      "name": "Make Me Want To",
+      "url": "https://open.spotify.com/track/2oaCxkSqpnMzrjWHkO1nJZ"
+    },
+    {
+      "added_at": "2023-05-12 15:01:31",
+      "album": {
         "name": "I Don't Want To Miss A Thing",
         "url": "https://open.spotify.com/album/4I8szVY9j0NJAOz7tmnZVy"
       },
@@ -1483,18 +1499,18 @@
     {
       "added_at": "2023-05-12 15:01:31",
       "album": {
-        "name": "Maoli Music Overload",
-        "url": "https://open.spotify.com/album/6WUxZbE4igXIai7HbD6coA"
+        "name": "I\u2019m Just An Old Chunk Of Coal (But I\u2019m Gonna Be A Diamond Someday)",
+        "url": "https://open.spotify.com/album/58ho3We8TBDCQYMLyNetqN"
       },
       "artists": [
         {
-          "name": "Maoli",
-          "url": "https://open.spotify.com/artist/6EKzehEG2fwJtRMH4KbjsA"
+          "name": "Miranda Lambert",
+          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
         }
       ],
-      "duration_ms": 175227,
-      "name": "Make Me Want To",
-      "url": "https://open.spotify.com/track/2oaCxkSqpnMzrjWHkO1nJZ"
+      "duration_ms": 248866,
+      "name": "I\u2019m Just An Old Chunk Of Coal (But I\u2019m Gonna Be A Diamond Someday)",
+      "url": "https://open.spotify.com/track/0JaGv3nU0muVvfSUClLm26"
     },
     {
       "added_at": "2023-05-12 15:01:31",
@@ -1515,22 +1531,6 @@
       "duration_ms": 180135,
       "name": "Live Forever",
       "url": "https://open.spotify.com/track/4ofZpP3iFaQ1GRtxOPbySO"
-    },
-    {
-      "added_at": "2023-05-12 15:01:31",
-      "album": {
-        "name": "I\u2019m Just An Old Chunk Of Coal (But I\u2019m Gonna Be A Diamond Someday)",
-        "url": "https://open.spotify.com/album/58ho3We8TBDCQYMLyNetqN"
-      },
-      "artists": [
-        {
-          "name": "Miranda Lambert",
-          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
-        }
-      ],
-      "duration_ms": 248866,
-      "name": "I\u2019m Just An Old Chunk Of Coal (But I\u2019m Gonna Be A Diamond Someday)",
-      "url": "https://open.spotify.com/track/0JaGv3nU0muVvfSUClLm26"
     },
     {
       "added_at": "2023-05-12 15:01:31",
@@ -1599,22 +1599,6 @@
     {
       "added_at": "2023-05-12 15:01:31",
       "album": {
-        "name": "Just to See You Smile",
-        "url": "https://open.spotify.com/album/1J2QLVUYxNpY1AXYl7iUqA"
-      },
-      "artists": [
-        {
-          "name": "Mitchell Tenpenny",
-          "url": "https://open.spotify.com/artist/1p6CdzJRoicjRcSdWoB9Qc"
-        }
-      ],
-      "duration_ms": 269525,
-      "name": "Just to See You Smile",
-      "url": "https://open.spotify.com/track/0KCLvp7viHNA3UsJyV0O6W"
-    },
-    {
-      "added_at": "2023-05-12 15:01:31",
-      "album": {
         "name": "Wild And Blue",
         "url": "https://open.spotify.com/album/4QzT0aXnzuEMsQ9LMgdEyo"
       },
@@ -1643,6 +1627,22 @@
       "duration_ms": 154893,
       "name": "This Land Is Your Land",
       "url": "https://open.spotify.com/track/7HT2vhADZOJrwczl10DDaO"
+    },
+    {
+      "added_at": "2023-05-12 15:01:31",
+      "album": {
+        "name": "Just to See You Smile",
+        "url": "https://open.spotify.com/album/1J2QLVUYxNpY1AXYl7iUqA"
+      },
+      "artists": [
+        {
+          "name": "Mitchell Tenpenny",
+          "url": "https://open.spotify.com/artist/1p6CdzJRoicjRcSdWoB9Qc"
+        }
+      ],
+      "duration_ms": 269525,
+      "name": "Just to See You Smile",
+      "url": "https://open.spotify.com/track/0KCLvp7viHNA3UsJyV0O6W"
     },
     {
       "added_at": "2023-05-12 15:01:31",
@@ -1683,22 +1683,6 @@
     {
       "added_at": "2023-05-12 15:01:31",
       "album": {
-        "name": "Under the Covers",
-        "url": "https://open.spotify.com/album/69p0kNEn0mPNqkWwauuwOq"
-      },
-      "artists": [
-        {
-          "name": "Gretchen Wilson",
-          "url": "https://open.spotify.com/artist/0IdYRFTswLdsGwSnzOaGNF"
-        }
-      ],
-      "duration_ms": 221093,
-      "name": "Into the Mystic",
-      "url": "https://open.spotify.com/track/0VKt9tsf9gOY3eotIfRHNS"
-    },
-    {
-      "added_at": "2023-05-12 15:01:31",
-      "album": {
         "name": "Love Songs",
         "url": "https://open.spotify.com/album/5AYFktXxjedXNj49mUUv5i"
       },
@@ -1711,6 +1695,22 @@
       "duration_ms": 262520,
       "name": "I Swear",
       "url": "https://open.spotify.com/track/0XrZybkQwtDUvLNehXqyVR"
+    },
+    {
+      "added_at": "2023-05-12 15:01:31",
+      "album": {
+        "name": "Under the Covers",
+        "url": "https://open.spotify.com/album/69p0kNEn0mPNqkWwauuwOq"
+      },
+      "artists": [
+        {
+          "name": "Gretchen Wilson",
+          "url": "https://open.spotify.com/artist/0IdYRFTswLdsGwSnzOaGNF"
+        }
+      ],
+      "duration_ms": 221093,
+      "name": "Into the Mystic",
+      "url": "https://open.spotify.com/track/0VKt9tsf9gOY3eotIfRHNS"
     }
   ],
   "unique_name": "Country Covers",

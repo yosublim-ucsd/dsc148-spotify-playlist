@@ -1,12 +1,12 @@
 {
   "description": "Walk the bridge between indie and folk. Cover: Jana Horn",
-  "num_followers": 66015,
+  "num_followers": 66064,
   "original_name": "Folk Arc",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzOTRkZjJiYjIzMTkzY2FlZTlkOTczNTEyOWZhOTAyNTY2ZGJjNDE1",
+  "snapshot_id": "MCxiMWU4ZTFkNTliNWNkN2EyODI5NDljNzk0MDliNjAwMzY0ZDZhMTUx",
   "tracks": [
     {
       "added_at": "2023-05-12 04:00:00",
@@ -667,22 +667,6 @@
     {
       "added_at": "2023-05-12 04:00:00",
       "album": {
-        "name": "Projections",
-        "url": "https://open.spotify.com/album/020I1K8GAKCLhKG9fk8MIS"
-      },
-      "artists": [
-        {
-          "name": "Tomberlin",
-          "url": "https://open.spotify.com/artist/0jzaoSt5gOC04OWBqN78VS"
-        }
-      ],
-      "duration_ms": 149422,
-      "name": "Wasted",
-      "url": "https://open.spotify.com/track/5MnLof1o5Wu4hX5zWgMjZY"
-    },
-    {
-      "added_at": "2023-05-12 04:00:00",
-      "album": {
         "name": "Live at Electric Lady",
         "url": "https://open.spotify.com/album/2bxBgkzYqo9WBQgl0ZraY6"
       },
@@ -699,18 +683,18 @@
     {
       "added_at": "2023-05-12 04:00:00",
       "album": {
-        "name": "Jockeys of Love",
-        "url": "https://open.spotify.com/album/3yAepUj1zxXIt5g7w6uvYT"
+        "name": "Projections",
+        "url": "https://open.spotify.com/album/020I1K8GAKCLhKG9fk8MIS"
       },
       "artists": [
         {
-          "name": "TOLEDO",
-          "url": "https://open.spotify.com/artist/2xK3hBpuuHSxmHr96TzgDO"
+          "name": "Tomberlin",
+          "url": "https://open.spotify.com/artist/0jzaoSt5gOC04OWBqN78VS"
         }
       ],
-      "duration_ms": 256629,
-      "name": "Sunday Funday",
-      "url": "https://open.spotify.com/track/2OjZhG8BnvrsVWqGnZk4PO"
+      "duration_ms": 149422,
+      "name": "Wasted",
+      "url": "https://open.spotify.com/track/5MnLof1o5Wu4hX5zWgMjZY"
     },
     {
       "added_at": "2023-05-12 04:00:00",
@@ -727,6 +711,22 @@
       "duration_ms": 173426,
       "name": "Resentment",
       "url": "https://open.spotify.com/track/2Dms8axOrrjXETwVwtvBF5"
+    },
+    {
+      "added_at": "2023-05-12 04:00:00",
+      "album": {
+        "name": "Jockeys of Love",
+        "url": "https://open.spotify.com/album/3yAepUj1zxXIt5g7w6uvYT"
+      },
+      "artists": [
+        {
+          "name": "TOLEDO",
+          "url": "https://open.spotify.com/artist/2xK3hBpuuHSxmHr96TzgDO"
+        }
+      ],
+      "duration_ms": 256629,
+      "name": "Sunday Funday",
+      "url": "https://open.spotify.com/track/2OjZhG8BnvrsVWqGnZk4PO"
     },
     {
       "added_at": "2023-05-12 04:00:00",
@@ -875,22 +875,6 @@
     {
       "added_at": "2023-05-12 04:00:00",
       "album": {
-        "name": "PRE PLEASURE",
-        "url": "https://open.spotify.com/album/47R4scO7Jzc3PViyjEoMb5"
-      },
-      "artists": [
-        {
-          "name": "Julia Jacklin",
-          "url": "https://open.spotify.com/artist/12fRkVfO2fUsz1QHgDAG3g"
-        }
-      ],
-      "duration_ms": 188390,
-      "name": "Ignore Tenderness",
-      "url": "https://open.spotify.com/track/0fsjdInurbnZ0cptodXvFW"
-    },
-    {
-      "added_at": "2023-05-12 04:00:00",
-      "album": {
         "name": "This Is A Photograph",
         "url": "https://open.spotify.com/album/6NMzokKOYpPO9VXDjmc5y6"
       },
@@ -903,6 +887,22 @@
       "duration_ms": 210333,
       "name": "This Is A Photograph",
       "url": "https://open.spotify.com/track/1hj8os1Xxiuo95atpJzfCp"
+    },
+    {
+      "added_at": "2023-05-12 04:00:00",
+      "album": {
+        "name": "PRE PLEASURE",
+        "url": "https://open.spotify.com/album/47R4scO7Jzc3PViyjEoMb5"
+      },
+      "artists": [
+        {
+          "name": "Julia Jacklin",
+          "url": "https://open.spotify.com/artist/12fRkVfO2fUsz1QHgDAG3g"
+        }
+      ],
+      "duration_ms": 188390,
+      "name": "Ignore Tenderness",
+      "url": "https://open.spotify.com/track/0fsjdInurbnZ0cptodXvFW"
     },
     {
       "added_at": "2023-05-12 04:00:00",
@@ -923,6 +923,22 @@
       "duration_ms": 197624,
       "name": "Lotta Love",
       "url": "https://open.spotify.com/track/4xPoGj1cAY9v5AGardly8e"
+    },
+    {
+      "added_at": "2023-05-12 04:00:00",
+      "album": {
+        "name": "Hannah",
+        "url": "https://open.spotify.com/album/0xKBSA1TCEAauJkd3s6gfY"
+      },
+      "artists": [
+        {
+          "name": "Lomelda",
+          "url": "https://open.spotify.com/artist/6zcDLZ62JsbVM1nLrQMzi4"
+        }
+      ],
+      "duration_ms": 208382,
+      "name": "Hannah Sun",
+      "url": "https://open.spotify.com/track/6cpJNjQmY57lHVoVdAiFN8"
     },
     {
       "added_at": "2023-05-12 04:00:00",
@@ -955,22 +971,6 @@
       "duration_ms": 462500,
       "name": "Mohabbat",
       "url": "https://open.spotify.com/track/4lcQHckNMeUkM8jx67j28G"
-    },
-    {
-      "added_at": "2023-05-12 04:00:00",
-      "album": {
-        "name": "Hannah",
-        "url": "https://open.spotify.com/album/0xKBSA1TCEAauJkd3s6gfY"
-      },
-      "artists": [
-        {
-          "name": "Lomelda",
-          "url": "https://open.spotify.com/artist/6zcDLZ62JsbVM1nLrQMzi4"
-        }
-      ],
-      "duration_ms": 208382,
-      "name": "Hannah Sun",
-      "url": "https://open.spotify.com/track/6cpJNjQmY57lHVoVdAiFN8"
     },
     {
       "added_at": "2023-05-12 04:00:00",
@@ -1175,22 +1175,6 @@
     {
       "added_at": "2023-05-12 04:00:00",
       "album": {
-        "name": "squirrel song",
-        "url": "https://open.spotify.com/album/4NLO4ooPUDV0YlNNrRUvQn"
-      },
-      "artists": [
-        {
-          "name": "Juliana Chahayed",
-          "url": "https://open.spotify.com/artist/2qvGuhgaubJ02pfiKcJAdR"
-        }
-      ],
-      "duration_ms": 108794,
-      "name": "squirrel song",
-      "url": "https://open.spotify.com/track/2MVWfVyKTaoH3APa1ZUYCh"
-    },
-    {
-      "added_at": "2023-05-12 04:00:00",
-      "album": {
         "name": "Waysides",
         "url": "https://open.spotify.com/album/6Vsrdh2ayCbJuyh6roVVri"
       },
@@ -1219,6 +1203,22 @@
       "duration_ms": 246666,
       "name": "Everything I had",
       "url": "https://open.spotify.com/track/3ZWtCPAWcE7hh00mjQDOXq"
+    },
+    {
+      "added_at": "2023-05-12 04:00:00",
+      "album": {
+        "name": "squirrel song",
+        "url": "https://open.spotify.com/album/4NLO4ooPUDV0YlNNrRUvQn"
+      },
+      "artists": [
+        {
+          "name": "Juliana Chahayed",
+          "url": "https://open.spotify.com/artist/2qvGuhgaubJ02pfiKcJAdR"
+        }
+      ],
+      "duration_ms": 108794,
+      "name": "squirrel song",
+      "url": "https://open.spotify.com/track/2MVWfVyKTaoH3APa1ZUYCh"
     },
     {
       "added_at": "2023-05-12 04:00:00",
@@ -1255,6 +1255,22 @@
     {
       "added_at": "2023-05-12 04:00:00",
       "album": {
+        "name": "Hannah",
+        "url": "https://open.spotify.com/album/0xKBSA1TCEAauJkd3s6gfY"
+      },
+      "artists": [
+        {
+          "name": "Lomelda",
+          "url": "https://open.spotify.com/artist/6zcDLZ62JsbVM1nLrQMzi4"
+        }
+      ],
+      "duration_ms": 174465,
+      "name": "It's Infinite",
+      "url": "https://open.spotify.com/track/0W3hYZhMQlXxJFMbcU3OKe"
+    },
+    {
+      "added_at": "2023-05-12 04:00:00",
+      "album": {
         "name": "Hailaker",
         "url": "https://open.spotify.com/album/34xv8wmf6qJwWQn7y7rq6q"
       },
@@ -1279,18 +1295,18 @@
     {
       "added_at": "2023-05-12 04:00:00",
       "album": {
-        "name": "Hannah",
-        "url": "https://open.spotify.com/album/0xKBSA1TCEAauJkd3s6gfY"
+        "name": "Only You",
+        "url": "https://open.spotify.com/album/0kGzSpCAb6tLLuyI9vhOOg"
       },
       "artists": [
         {
-          "name": "Lomelda",
-          "url": "https://open.spotify.com/artist/6zcDLZ62JsbVM1nLrQMzi4"
+          "name": "Lunar Vacation",
+          "url": "https://open.spotify.com/artist/7EEefVBNBS3ckwouEl62oB"
         }
       ],
-      "duration_ms": 174465,
-      "name": "It's Infinite",
-      "url": "https://open.spotify.com/track/0W3hYZhMQlXxJFMbcU3OKe"
+      "duration_ms": 276880,
+      "name": "Only You",
+      "url": "https://open.spotify.com/track/7BaYmGOuHwdosJil9lObDL"
     },
     {
       "added_at": "2023-05-12 04:00:00",
@@ -1307,22 +1323,6 @@
       "duration_ms": 319053,
       "name": "Campfire",
       "url": "https://open.spotify.com/track/3kkTF2ffofmjrKA3pf5kDF"
-    },
-    {
-      "added_at": "2023-05-12 04:00:00",
-      "album": {
-        "name": "Only You",
-        "url": "https://open.spotify.com/album/0kGzSpCAb6tLLuyI9vhOOg"
-      },
-      "artists": [
-        {
-          "name": "Lunar Vacation",
-          "url": "https://open.spotify.com/artist/7EEefVBNBS3ckwouEl62oB"
-        }
-      ],
-      "duration_ms": 276880,
-      "name": "Only You",
-      "url": "https://open.spotify.com/track/7BaYmGOuHwdosJil9lObDL"
     },
     {
       "added_at": "2023-05-12 04:00:00",
@@ -1391,22 +1391,6 @@
     {
       "added_at": "2023-05-12 04:00:00",
       "album": {
-        "name": "Dibujos De Mi Alma",
-        "url": "https://open.spotify.com/album/3KoomUMVp4pOCZg8YIg58l"
-      },
-      "artists": [
-        {
-          "name": "Y La Bamba",
-          "url": "https://open.spotify.com/artist/6eb2gxfoBSQhmDYkQKz93b"
-        }
-      ],
-      "duration_ms": 252574,
-      "name": "Dibujos De Mi Alma",
-      "url": "https://open.spotify.com/track/32c15DJj92CagqUmp7idZ3"
-    },
-    {
-      "added_at": "2023-05-12 04:00:00",
-      "album": {
         "name": "bc i love you",
         "url": "https://open.spotify.com/album/0ljb5hKxb4fPvbGP2v2ZfF"
       },
@@ -1435,6 +1419,22 @@
       "duration_ms": 217066,
       "name": "Lawn",
       "url": "https://open.spotify.com/track/4YQe4UrNJ0AzFKA6BNQo0c"
+    },
+    {
+      "added_at": "2023-05-12 04:00:00",
+      "album": {
+        "name": "Dibujos De Mi Alma",
+        "url": "https://open.spotify.com/album/3KoomUMVp4pOCZg8YIg58l"
+      },
+      "artists": [
+        {
+          "name": "Y La Bamba",
+          "url": "https://open.spotify.com/artist/6eb2gxfoBSQhmDYkQKz93b"
+        }
+      ],
+      "duration_ms": 252574,
+      "name": "Dibujos De Mi Alma",
+      "url": "https://open.spotify.com/track/32c15DJj92CagqUmp7idZ3"
     },
     {
       "added_at": "2023-05-12 04:00:00",
@@ -1551,6 +1551,22 @@
     {
       "added_at": "2023-05-12 04:00:00",
       "album": {
+        "name": "Old Peel",
+        "url": "https://open.spotify.com/album/5SdjxVnwwn4w25boDjEmMR"
+      },
+      "artists": [
+        {
+          "name": "Aldous Harding",
+          "url": "https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG"
+        }
+      ],
+      "duration_ms": 196802,
+      "name": "Old Peel",
+      "url": "https://open.spotify.com/track/0vuZebTvcwkstUpoo82lpG"
+    },
+    {
+      "added_at": "2023-05-12 04:00:00",
+      "album": {
         "name": "dirt",
         "url": "https://open.spotify.com/album/1cnrZ3t6GI4S6JIiiEkVuB"
       },
@@ -1583,18 +1599,18 @@
     {
       "added_at": "2023-05-12 04:00:00",
       "album": {
-        "name": "Old Peel",
-        "url": "https://open.spotify.com/album/5SdjxVnwwn4w25boDjEmMR"
+        "name": "Wayfinder",
+        "url": "https://open.spotify.com/album/5wRHPgsA4wtC2zDTOyp7DN"
       },
       "artists": [
         {
-          "name": "Aldous Harding",
-          "url": "https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG"
+          "name": "Boy Scouts",
+          "url": "https://open.spotify.com/artist/02fo9VYWbuaOVly5sEjd5V"
         }
       ],
-      "duration_ms": 196802,
-      "name": "Old Peel",
-      "url": "https://open.spotify.com/track/0vuZebTvcwkstUpoo82lpG"
+      "duration_ms": 182012,
+      "name": "That's Life Honey",
+      "url": "https://open.spotify.com/track/4ruhASOVIoqNGNXSjLwVQZ"
     },
     {
       "added_at": "2023-05-12 04:00:00",
@@ -1615,22 +1631,6 @@
     {
       "added_at": "2023-05-12 04:00:00",
       "album": {
-        "name": "Wayfinder",
-        "url": "https://open.spotify.com/album/5wRHPgsA4wtC2zDTOyp7DN"
-      },
-      "artists": [
-        {
-          "name": "Boy Scouts",
-          "url": "https://open.spotify.com/artist/02fo9VYWbuaOVly5sEjd5V"
-        }
-      ],
-      "duration_ms": 182012,
-      "name": "That's Life Honey",
-      "url": "https://open.spotify.com/track/4ruhASOVIoqNGNXSjLwVQZ"
-    },
-    {
-      "added_at": "2023-05-12 04:00:00",
-      "album": {
         "name": "Don't Shy Away",
         "url": "https://open.spotify.com/album/7noRk0kA8noaDwLS8xy5U4"
       },
@@ -1643,6 +1643,22 @@
       "duration_ms": 290053,
       "name": "Ocotillo",
       "url": "https://open.spotify.com/track/6YAHre8n87f7WZUkZOMJPK"
+    },
+    {
+      "added_at": "2023-05-12 04:00:00",
+      "album": {
+        "name": "Sorceress",
+        "url": "https://open.spotify.com/album/0CGHgo9imbQfU2n8LdbVDO"
+      },
+      "artists": [
+        {
+          "name": "Jess Williamson",
+          "url": "https://open.spotify.com/artist/784kOgkd1H6jU4KgPMYHi9"
+        }
+      ],
+      "duration_ms": 186509,
+      "name": "Wind On Tin",
+      "url": "https://open.spotify.com/track/49TYOtiNamKbN1xGIaNOgV"
     },
     {
       "added_at": "2023-05-12 04:00:00",
@@ -1679,18 +1695,18 @@
     {
       "added_at": "2023-05-12 04:00:00",
       "album": {
-        "name": "Sorceress",
-        "url": "https://open.spotify.com/album/0CGHgo9imbQfU2n8LdbVDO"
+        "name": "At the Moonbase",
+        "url": "https://open.spotify.com/album/2t4GC7jaWnVGFqIdusEjSA"
       },
       "artists": [
         {
-          "name": "Jess Williamson",
-          "url": "https://open.spotify.com/artist/784kOgkd1H6jU4KgPMYHi9"
+          "name": "Slaughter Beach, Dog",
+          "url": "https://open.spotify.com/artist/3lWVgSwutPsiJ8Awm7OTKU"
         }
       ],
-      "duration_ms": 186509,
-      "name": "Wind On Tin",
-      "url": "https://open.spotify.com/track/49TYOtiNamKbN1xGIaNOgV"
+      "duration_ms": 283536,
+      "name": "Do You Understand (What Has Happened to You)",
+      "url": "https://open.spotify.com/track/4t8DWlP3HlE8QmeDtdfZDc"
     },
     {
       "added_at": "2023-05-12 04:00:00",
@@ -1707,22 +1723,6 @@
       "duration_ms": 289987,
       "name": "Homes",
       "url": "https://open.spotify.com/track/0YeT52y9Z9rIL1F2pUtkcT"
-    },
-    {
-      "added_at": "2023-05-12 04:00:00",
-      "album": {
-        "name": "At the Moonbase",
-        "url": "https://open.spotify.com/album/2t4GC7jaWnVGFqIdusEjSA"
-      },
-      "artists": [
-        {
-          "name": "Slaughter Beach, Dog",
-          "url": "https://open.spotify.com/artist/3lWVgSwutPsiJ8Awm7OTKU"
-        }
-      ],
-      "duration_ms": 283536,
-      "name": "Do You Understand (What Has Happened to You)",
-      "url": "https://open.spotify.com/track/4t8DWlP3HlE8QmeDtdfZDc"
     },
     {
       "added_at": "2023-05-12 04:00:00",
@@ -1759,22 +1759,6 @@
     {
       "added_at": "2023-05-12 04:00:00",
       "album": {
-        "name": "Serpentine Prison (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/4IfdGdYnWooM3sSN03UQZA"
-      },
-      "artists": [
-        {
-          "name": "Matt Berninger",
-          "url": "https://open.spotify.com/artist/27jRNjIvlUcGN7FBRDnqhp"
-        }
-      ],
-      "duration_ms": 265160,
-      "name": "Distant Axis",
-      "url": "https://open.spotify.com/track/7yEoR6Cm6avOgK5RYyKs0H"
-    },
-    {
-      "added_at": "2023-05-12 04:00:00",
-      "album": {
         "name": "Smashed Up My Fender",
         "url": "https://open.spotify.com/album/6N2IrNmrE4DJlw8zIPbutP"
       },
@@ -1787,6 +1771,22 @@
       "duration_ms": 174040,
       "name": "Smashed Up My Fender",
       "url": "https://open.spotify.com/track/5Bh79K4fAwOIEijEos6Oi3"
+    },
+    {
+      "added_at": "2023-05-12 04:00:00",
+      "album": {
+        "name": "Serpentine Prison (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4IfdGdYnWooM3sSN03UQZA"
+      },
+      "artists": [
+        {
+          "name": "Matt Berninger",
+          "url": "https://open.spotify.com/artist/27jRNjIvlUcGN7FBRDnqhp"
+        }
+      ],
+      "duration_ms": 265160,
+      "name": "Distant Axis",
+      "url": "https://open.spotify.com/track/7yEoR6Cm6avOgK5RYyKs0H"
     },
     {
       "added_at": "2023-05-12 04:00:00",
@@ -1823,6 +1823,22 @@
     {
       "added_at": "2023-05-12 04:00:00",
       "album": {
+        "name": "Barbara",
+        "url": "https://open.spotify.com/album/5eieb3BvJUgPIzE5VkdyWL"
+      },
+      "artists": [
+        {
+          "name": "Barrie",
+          "url": "https://open.spotify.com/artist/1pHO6SCEw9tuRx0IVMFL0g"
+        }
+      ],
+      "duration_ms": 220573,
+      "name": "Jenny",
+      "url": "https://open.spotify.com/track/3AK2d1ZlEvO4OJe9Lo53xD"
+    },
+    {
+      "added_at": "2023-05-12 04:00:00",
+      "album": {
         "name": "Geist",
         "url": "https://open.spotify.com/album/27P4Y493lQQpm3vBXfRMel"
       },
@@ -1855,22 +1871,6 @@
     {
       "added_at": "2023-05-12 04:00:00",
       "album": {
-        "name": "Barbara",
-        "url": "https://open.spotify.com/album/5eieb3BvJUgPIzE5VkdyWL"
-      },
-      "artists": [
-        {
-          "name": "Barrie",
-          "url": "https://open.spotify.com/artist/1pHO6SCEw9tuRx0IVMFL0g"
-        }
-      ],
-      "duration_ms": 220573,
-      "name": "Jenny",
-      "url": "https://open.spotify.com/track/3AK2d1ZlEvO4OJe9Lo53xD"
-    },
-    {
-      "added_at": "2023-05-12 04:00:00",
-      "album": {
         "name": "Someone New",
         "url": "https://open.spotify.com/album/6gwAAOZeKLYDAPzSSP4SCa"
       },
@@ -1883,6 +1883,38 @@
       "duration_ms": 281252,
       "name": "Truth Nugget",
       "url": "https://open.spotify.com/track/7hCvge7SEzwW0Q4VjtnOQK"
+    },
+    {
+      "added_at": "2023-05-12 04:00:00",
+      "album": {
+        "name": "An Overview on Phenomenal Nature",
+        "url": "https://open.spotify.com/album/1NzOdSkSNmBhhg72KlNcsE"
+      },
+      "artists": [
+        {
+          "name": "Cassandra Jenkins",
+          "url": "https://open.spotify.com/artist/1WVGbBnzZ5WLZ2PfesIHik"
+        }
+      ],
+      "duration_ms": 327440,
+      "name": "Hard Drive",
+      "url": "https://open.spotify.com/track/3ArnNhm8z0ScjDKfGHSBRk"
+    },
+    {
+      "added_at": "2023-05-12 04:00:00",
+      "album": {
+        "name": "The Greatest Part",
+        "url": "https://open.spotify.com/album/1CZYxx4kb3EdV5Gl25vhST"
+      },
+      "artists": [
+        {
+          "name": "Becca Mancari",
+          "url": "https://open.spotify.com/artist/5n9jfCRA7AFY1JfYc5ZYK5"
+        }
+      ],
+      "duration_ms": 169257,
+      "name": "Hunter",
+      "url": "https://open.spotify.com/track/466VygGb2Jte8wlEWq0snM"
     },
     {
       "added_at": "2023-05-12 04:00:00",
@@ -1907,34 +1939,18 @@
     {
       "added_at": "2023-05-12 04:00:00",
       "album": {
-        "name": "The Greatest Part",
-        "url": "https://open.spotify.com/album/1CZYxx4kb3EdV5Gl25vhST"
+        "name": "Waysides",
+        "url": "https://open.spotify.com/album/6Vsrdh2ayCbJuyh6roVVri"
       },
       "artists": [
         {
-          "name": "Becca Mancari",
-          "url": "https://open.spotify.com/artist/5n9jfCRA7AFY1JfYc5ZYK5"
+          "name": "Bedouine",
+          "url": "https://open.spotify.com/artist/6IiZemRMna678qNhiRkYI5"
         }
       ],
-      "duration_ms": 169257,
-      "name": "Hunter",
-      "url": "https://open.spotify.com/track/466VygGb2Jte8wlEWq0snM"
-    },
-    {
-      "added_at": "2023-05-12 04:00:00",
-      "album": {
-        "name": "An Overview on Phenomenal Nature",
-        "url": "https://open.spotify.com/album/1NzOdSkSNmBhhg72KlNcsE"
-      },
-      "artists": [
-        {
-          "name": "Cassandra Jenkins",
-          "url": "https://open.spotify.com/artist/1WVGbBnzZ5WLZ2PfesIHik"
-        }
-      ],
-      "duration_ms": 327440,
-      "name": "Hard Drive",
-      "url": "https://open.spotify.com/track/3ArnNhm8z0ScjDKfGHSBRk"
+      "duration_ms": 247258,
+      "name": "It Wasn't Me",
+      "url": "https://open.spotify.com/track/0fEFGxcfXnXHeHfvuVFuo1"
     },
     {
       "added_at": "2023-05-12 04:00:00",
@@ -1955,18 +1971,18 @@
     {
       "added_at": "2023-05-12 04:00:00",
       "album": {
-        "name": "Waysides",
-        "url": "https://open.spotify.com/album/6Vsrdh2ayCbJuyh6roVVri"
+        "name": "Bury Your Horses",
+        "url": "https://open.spotify.com/album/0p9h901vVxQXkcdPwNt2bS"
       },
       "artists": [
         {
-          "name": "Bedouine",
-          "url": "https://open.spotify.com/artist/6IiZemRMna678qNhiRkYI5"
+          "name": "Daneshevskaya",
+          "url": "https://open.spotify.com/artist/5vvsVz8bgdx1y9YaguZkxF"
         }
       ],
-      "duration_ms": 247258,
-      "name": "It Wasn't Me",
-      "url": "https://open.spotify.com/track/0fEFGxcfXnXHeHfvuVFuo1"
+      "duration_ms": 233984,
+      "name": "Dr. Johann Averies",
+      "url": "https://open.spotify.com/track/6XnocPwfmJ1Sr1ZstHOTTg"
     },
     {
       "added_at": "2023-05-12 04:00:00",
@@ -1987,22 +2003,6 @@
     {
       "added_at": "2023-05-12 04:00:00",
       "album": {
-        "name": "Vagabon",
-        "url": "https://open.spotify.com/album/2AijQUrTqAETyjMaKxu4Xh"
-      },
-      "artists": [
-        {
-          "name": "Vagabon",
-          "url": "https://open.spotify.com/artist/17mwzDXKn4ra9cuxXaptwp"
-        }
-      ],
-      "duration_ms": 207078,
-      "name": "Every Woman",
-      "url": "https://open.spotify.com/track/3SkLIkoxSb8PKHMT4Ct9U2"
-    },
-    {
-      "added_at": "2023-05-12 04:00:00",
-      "album": {
         "name": "Ignorance",
         "url": "https://open.spotify.com/album/3KeR5BDM2giFr8zoSXBrgE"
       },
@@ -2019,18 +2019,18 @@
     {
       "added_at": "2023-05-12 04:00:00",
       "album": {
-        "name": "Bury Your Horses",
-        "url": "https://open.spotify.com/album/0p9h901vVxQXkcdPwNt2bS"
+        "name": "Vagabon",
+        "url": "https://open.spotify.com/album/2AijQUrTqAETyjMaKxu4Xh"
       },
       "artists": [
         {
-          "name": "Daneshevskaya",
-          "url": "https://open.spotify.com/artist/5vvsVz8bgdx1y9YaguZkxF"
+          "name": "Vagabon",
+          "url": "https://open.spotify.com/artist/17mwzDXKn4ra9cuxXaptwp"
         }
       ],
-      "duration_ms": 233984,
-      "name": "Dr. Johann Averies",
-      "url": "https://open.spotify.com/track/6XnocPwfmJ1Sr1ZstHOTTg"
+      "duration_ms": 207078,
+      "name": "Every Woman",
+      "url": "https://open.spotify.com/track/3SkLIkoxSb8PKHMT4Ct9U2"
     },
     {
       "added_at": "2023-05-12 04:00:00",

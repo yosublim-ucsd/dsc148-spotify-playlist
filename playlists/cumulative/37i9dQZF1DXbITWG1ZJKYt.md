@@ -4,7 +4,7 @@
 
 > The best tunes in Jazz history\. Cover: Wayne Shorter
 
-350 songs - 1 day 6 hr 30 min
+351 songs - 1 day 6 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -130,6 +130,7 @@
 | [Hipsippy Blues](https://open.spotify.com/track/3iFlfQ0CXc9URaAvai8VUe) | [Art Blakey & The Jazz Messengers](https://open.spotify.com/artist/6ykfXAed2KOLOMI3R0TZdz) | [Just Coolin'](https://open.spotify.com/album/7EgjzSVwj5Y8L897m3UiUK) | 6:40 | 2021-12-02 |  |
 | [Hoe Down](https://open.spotify.com/track/3k7MPapSDy9kSWuhvXxP3c) | [Oliver Nelson](https://open.spotify.com/artist/2nQKUeZeleLGNsJj6WLUXN) | [The Blues And The Abstract Truth](https://open.spotify.com/album/6lxRA8Rl9a9XoZDCVWBzBY) | 4:41 | 2022-06-28 |  |
 | [Hoe Down](https://open.spotify.com/track/7kDlGHJVjuMGVZWNDlH9Ru) | [Oliver Nelson](https://open.spotify.com/artist/2nQKUeZeleLGNsJj6WLUXN) | [The Blues and the Abstract Truth](https://open.spotify.com/album/7BSQKjtu7YjBkTuhBK2tIJ) | 4:41 | 2021-12-02 | 2022-07-29 |
+| [Honeysuckle Rose](https://open.spotify.com/track/41Wj6aJKyggH33OYBo3ezY) | [Anita O'Day](https://open.spotify.com/artist/5QGnprJtpZmk3OiDqspPlB) | [Anita](https://open.spotify.com/album/5ytkuJciMwGDXwQeLWbHCw) | 3:13 | 2023-05-09 |  |
 | [How Long Has This Been Going On](https://open.spotify.com/track/10El9hxviSBm7pChWxG1ib) | [Ben Webster](https://open.spotify.com/artist/34W7ZCX0LZeJd8q6boKGOk), [Harry "Sweets" Edison](https://open.spotify.com/artist/4rZoL92ShDgN9SLLg4OPPN) | [Ben And "Sweets"](https://open.spotify.com/album/2ZLYIpIfXFCbwBkaqgRhBk) | 5:30 | 2021-12-02 |  |
 | [How Long Has This Been Going On?](https://open.spotify.com/track/0HEU3berJ5OBojU8XmEk1c) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz) | [Ella Sings Gershwin](https://open.spotify.com/album/3DJYxksYYP018jgpOTVXqO) | 3:17 | 2021-12-02 | 2022-07-29 |
 | [I Can't Give You Anything But Love](https://open.spotify.com/track/5doczA8CcUYo0J9H7uvHgU) | [Sonny Clark](https://open.spotify.com/artist/1Sc9ykJB728MAZab1Ocwy8) | [Standards](https://open.spotify.com/album/20CL0GYrvQaf6haE8i2QOf) | 3:52 | 2021-12-02 |  |
@@ -336,7 +337,7 @@
 | [Vendome](https://open.spotify.com/track/1L7l5qJeQpqWDigBjxUcQw) | [The Modern Jazz Quartet](https://open.spotify.com/artist/7wBFjZMHsC6nfV0HOSd6uI) | [Pyramid](https://open.spotify.com/album/53JQWUSeq9LeRsSLMrXVKZ) | 2:30 | 2022-08-26 |  |
 | [Virgo \- Remastered 2004](https://open.spotify.com/track/1ylwBTCAZ1WlvvMnWm6U3c) | [Wayne Shorter](https://open.spotify.com/artist/0ZqhrTXYPA9DZR527ZnFdO), [Lee Morgan](https://open.spotify.com/artist/38C3okxv3fyyOIQUVPCdGX), [Reginald Workman](https://open.spotify.com/artist/0oYdxgeUsbFXRBFEGwtUSZ), [Elvin Jones](https://open.spotify.com/artist/4dUMhhUjQ2YcNTvab29hYF) | [Night Dreamer](https://open.spotify.com/album/2lcz9fPwBhtESyIFVGKvq6) | 7:06 | 2023-03-03 |  |
 | [Visa från Utanmyra](https://open.spotify.com/track/1CRxANVlNyN2IYjarx96gU) | [Jan Johansson](https://open.spotify.com/artist/6DEfX2tZzx9iANmaErvLGf) | [Jazz på svenska](https://open.spotify.com/album/6JAj80R40giQEAg3Le4CPE) | 4:33 | 2022-06-02 |  |
-| [Waltz for Debby \(Take 2\) \- Live](https://open.spotify.com/track/49H4LDNFE5BU7ZMIg8UsZy) | [Bill Evans Trio](https://open.spotify.com/artist/3VEG6gxFIMfl4Cdog26avS) | [Waltz For Debby \[Original Jazz Classics Remasters\] \(OJC Remaster\)](https://open.spotify.com/album/0MjlKhtsyax9HSWNkYaWM2) | 7:00 | 2022-06-02 |  |
+| [Waltz for Debby \(Take 2\) \- Live](https://open.spotify.com/track/49H4LDNFE5BU7ZMIg8UsZy) | [Bill Evans Trio](https://open.spotify.com/artist/3VEG6gxFIMfl4Cdog26avS) | [Waltz For Debby \[Original Jazz Classics Remasters\] \(OJC Remaster\)](https://open.spotify.com/album/0MjlKhtsyax9HSWNkYaWM2) | 7:00 | 2022-06-02 | 2023-05-19 |
 | [Watermelon Man \- Remastered](https://open.spotify.com/track/38xcUjiTP1ivfb7ObwjyGA) | [Herbie Hancock](https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW) | [Takin' Off \(Expanded Edition\)](https://open.spotify.com/album/61bXefFZqGbVkmb7qzIIOl) | 7:09 | 2021-12-02 |  |
 | [Weaver Of Dreams \- Remastered 2003/Rudy Van Gelder Edition](https://open.spotify.com/track/4N6JkrGD78eLooaTDmwo9s) | [Freddie Hubbard](https://open.spotify.com/artist/0fTHKjepK5HWOrb2rkS5Em) | [Ready For Freddie \(Rudy Van Gelder Remaster Edition\)](https://open.spotify.com/album/1WW55eOxlZCvPWJDYmhZXD) | 6:35 | 2021-12-02 |  |
 | [What A Diff'rence A Day Made](https://open.spotify.com/track/66iKqUazBbTlAEjcZrpDkD) | [Dinah Washington](https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa) | [What A Diff'rence A Day Makes! \(Expanded Edition\)](https://open.spotify.com/album/0w8YD8Wz1hEkwXdsAMzzFe) | 2:31 | 2021-12-02 |  |

@@ -1957,6 +1957,24 @@
     },
     {
       "album": {
+        "name": "Beats For You Vol.2",
+        "url": "https://open.spotify.com/album/7AUGO9ZUla9Vp8lEFoAb8s"
+      },
+      "artists": [
+        {
+          "name": "TOSHIKI HAYASHI(%C)",
+          "url": "https://open.spotify.com/artist/2BSv9udyrO0Mm0ckZAkQSI"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201187,
+      "name": "Domestic",
+      "url": "https://open.spotify.com/track/4CLLXxnWiCK6DSzbMlDwuP"
+    },
+    {
+      "album": {
         "name": "DOOM",
         "url": "https://open.spotify.com/album/5XD7CWEqh5LqE6ltpsnqpl"
       },
@@ -5290,7 +5308,7 @@
       ],
       "date_added": "2023-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 90424,
       "name": "Night Vision",
       "url": "https://open.spotify.com/track/2y8veQasjoS5HrSoJwRdaX"
@@ -6984,7 +7002,7 @@
       ],
       "date_added": "2022-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 201000,
       "name": "SICK",
       "url": "https://open.spotify.com/track/6W9YXVte9iLHgZxxGojjDY"
@@ -8516,6 +8534,24 @@
       "duration_ms": 154284,
       "name": "Up Above",
       "url": "https://open.spotify.com/track/3BqFQOk4Q6v3jyPb9QHMnI"
+    },
+    {
+      "album": {
+        "name": "utatane",
+        "url": "https://open.spotify.com/album/2OQ9WXPNJkksdtFqQhgqdl"
+      },
+      "artists": [
+        {
+          "name": "hario island",
+          "url": "https://open.spotify.com/artist/4SSYmqlXA8awmX7PHheCJN"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "utatane",
+      "url": "https://open.spotify.com/track/0tqoNuBVHZ0IG5B9rxeFi8"
     },
     {
       "album": {

@@ -2,13 +2,14 @@
 
 ### [Radar Andinos](https://open.spotify.com/playlist/37i9dQZF1DXbzFWXFlsp56)
 
-> Descubre los nuevos talentos de Colombia, Ecuador, Venezuela y Perú\. Foto: ICON.
+> Descubre los nuevos talentos de Colombia, Ecuador, Venezuela y Perú\. Foto: Junior Zamora.
 
-80 songs - 4 hr 33 min
+82 songs - 4 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [12x3](https://open.spotify.com/track/0HINQFSerZ6iMfSsaTO3G5) | [DEKKO](https://open.spotify.com/artist/6ZvYYrrfpb1Z7kICDyxWQE) | [12x3](https://open.spotify.com/album/2yTsZhJ86LtD1hvl8wSRPr) | 2:39 | 2022-02-18 |  |
+| [A la Carta](https://open.spotify.com/track/22a4UCHSOGzypj67zyOVEH) | [Junior Zamora](https://open.spotify.com/artist/1xbYDYZZRWQ0mG218SGVDQ), [Jossman](https://open.spotify.com/artist/4nei2uq1QH20K0WitlHqvH) | [A la Carta](https://open.spotify.com/album/7MOj5xWZV82U7TvBTW5kqH) | 2:53 | 2023-05-18 |  |
 | [A Mi Ritmo](https://open.spotify.com/track/0dpTDF578tB1gdRnahSyyp) | [A.C.O](https://open.spotify.com/artist/0x2z4hugJaiGdTP0lzhxvO), [Irepelusa](https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw) | [Mirando al cielo](https://open.spotify.com/album/4bKbHme7qn0tV1UW9MnRGn) | 3:06 | 2022-04-08 |  |
 | [A Mi Ritmo](https://open.spotify.com/track/51h83YT521kYxTLng0FyRv) | [A.C.O](https://open.spotify.com/artist/0x2z4hugJaiGdTP0lzhxvO), [Irepelusa](https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw) | [A Mi Ritmo](https://open.spotify.com/album/0kZuOQA9W3hC6j3nhYxuUX) | 3:06 | 2022-02-18 | 2022-04-09 |
 | [Algo Nuevo Pa' Mi \(feat\. Nanpa Básico\)](https://open.spotify.com/track/7j7oRl3C2e2ghoreuB1GP8) | [A.C.O](https://open.spotify.com/artist/0x2z4hugJaiGdTP0lzhxvO), [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [Algo Nuevo Pa' Mi \(feat\. Nanpa Básico\)](https://open.spotify.com/album/4FD5qJeTJhrOQZ4xMn6brl) | 3:29 | 2021-11-10 | 2022-03-23 |
@@ -27,6 +28,7 @@
 | [Cosas que probablemente no van a pasar](https://open.spotify.com/track/2LDX3sOc24GduGMToJ4Q7v) | [Ev](https://open.spotify.com/artist/21EczEifDKebasemX58Jp8) | [Cosas Que Probablemente No Van a Pasar](https://open.spotify.com/album/7Kr0Dfn3KWhFvqrMizaRpw) | 2:40 | 2022-03-22 | 2022-06-15 |
 | [Cruel](https://open.spotify.com/track/4m2A5OHjj4RDMrX5ZRw2MZ) | [Vale](https://open.spotify.com/artist/22p8vOZwMABvl5qt2nZHWD) | [Cruel](https://open.spotify.com/album/6QySmEGrl5YPwnaXhHc8kx) | 3:00 | 2022-09-23 |  |
 | [Curarte](https://open.spotify.com/track/2zB5K2Ywzi9eOhj2KbsDZ4) | [Irepelusa](https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw) | [Un Koala En Una Palmera](https://open.spotify.com/album/3ZAYuvF9D2gG3Qflm4Ps4U) | 3:03 | 2022-06-14 |  |
+| [Curvas](https://open.spotify.com/track/6TO05VYYHCkZpy0V1XVOdI) | [Junior Zamora](https://open.spotify.com/artist/1xbYDYZZRWQ0mG218SGVDQ), [Claruz](https://open.spotify.com/artist/5NtQw3vT27cspk8K7krlJv), [Floyd](https://open.spotify.com/artist/4yURrK9HEczFPGPya2yBu2) | [Curvas](https://open.spotify.com/album/4epp2PoR2TdOkYN90EG1MT) | 2:48 | 2023-05-18 |  |
 | [Cósmosis](https://open.spotify.com/track/3vttNxDd4DyFbOJqCsuklx) | [Briela Ojeda](https://open.spotify.com/artist/1MbehwcqhGMlU79kDBYOxo) | [Cósmosis](https://open.spotify.com/album/6NESna540i2qvjwpeUmEhx) | 4:06 | 2021-11-10 |  |
 | [De X Vida](https://open.spotify.com/track/7KdlLGCuAA25rzatYxDNHM) | [Bad Milk](https://open.spotify.com/artist/5rMUEBZwYHovrlnuzggrVR) | [De X Vida](https://open.spotify.com/album/46dyRolsnFXlMp7J707OIc) | 3:04 | 2022-03-22 | 2022-08-23 |
 | [Difícil](https://open.spotify.com/track/7bKssEnDzj8sNo5gOuyJDl) | [ICON](https://open.spotify.com/artist/0SSbTivuMrvdqgCt7ln6jD), [Lenny Tavárez](https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd), [Darell](https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf) | [Difícil](https://open.spotify.com/album/1j2GHL9MJ0FSvZiItKHjVG) | 3:33 | 2022-09-23 |  |
@@ -57,9 +59,9 @@
 | [Odio Que No Te Odio](https://open.spotify.com/track/374Yj1kOLjGLYLOydbCO3i) | [Lasso](https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd), [Cami](https://open.spotify.com/artist/3VCrybIJKH7UurbDcZbMmn) | [Odio Que No Te Odio](https://open.spotify.com/album/5pLHLNwXqkKRMlS5NEEkdW) | 3:40 | 2022-08-22 |  |
 | [Ojos Marrones](https://open.spotify.com/track/7gwT3HGL84vF7bgtwL1N88) | [Lasso](https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd) | [Ojos Marrones](https://open.spotify.com/album/5cgqNq1Esd6F0D1vQ9uD63) | 3:18 | 2022-08-22 |  |
 | [Otra Vez](https://open.spotify.com/track/07qmEk8quEVLhYPBg8tMhg) | [Paola Navarrete](https://open.spotify.com/artist/45nJ2GweSs0s4gWVGHLhYu), [Mauro Samaniego](https://open.spotify.com/artist/1mV80wU5C7aFDPn7GYRw9L) | [Otra Vez](https://open.spotify.com/album/1ZPJvMej6IEZLzBxRw5SG0) | 3:28 | 2022-03-22 |  |
-| [Parapente](https://open.spotify.com/track/7I748qKWSny5fh18KAFnWz) | [Irepelusa](https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw), [Cardellino](https://open.spotify.com/artist/7HFja6X48hWE58m3pQnGV0) | [Parapente](https://open.spotify.com/album/2ZT8R1lhtbkoKRvS21Nqvd) | 2:42 | 2021-11-10 |  |
+| [Parapente](https://open.spotify.com/track/7I748qKWSny5fh18KAFnWz) | [Irepelusa](https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw), [Cardellino](https://open.spotify.com/artist/7HFja6X48hWE58m3pQnGV0) | [Parapente](https://open.spotify.com/album/2ZT8R1lhtbkoKRvS21Nqvd) | 2:42 | 2021-11-10 | 2023-05-19 |
 | [Pasajero](https://open.spotify.com/track/2DBCUrj4QGthaclrPtSvgH) | [Nath](https://open.spotify.com/artist/3fzFGIFcpHenYRfbnGf0JE), [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX), [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz), [SOG](https://open.spotify.com/artist/18dspUI6gqabm5XCC2RcUD) | [Pasajero](https://open.spotify.com/album/6Pg8TU5UxCuINCTWTZbmZa) | 3:38 | 2022-03-22 |  |
-| [Pasatiempo](https://open.spotify.com/track/5Zc09qHPIIo4vJkYeCfixc) | [Vale](https://open.spotify.com/artist/22p8vOZwMABvl5qt2nZHWD) | [Línea Recta](https://open.spotify.com/album/19Gt3qUgfakD1rVw82iyzL) | 3:02 | 2021-11-10 |  |
+| [Pasatiempo](https://open.spotify.com/track/5Zc09qHPIIo4vJkYeCfixc) | [Vale](https://open.spotify.com/artist/22p8vOZwMABvl5qt2nZHWD) | [Línea Recta](https://open.spotify.com/album/19Gt3qUgfakD1rVw82iyzL) | 3:02 | 2021-11-10 | 2023-05-19 |
 | [Puente](https://open.spotify.com/track/1KmEEVfPbIfOqXdVxr8gm2) | [Vale](https://open.spotify.com/artist/22p8vOZwMABvl5qt2nZHWD) | [Puente](https://open.spotify.com/album/3fFFuFzU8vpMbOhxDVCzBj) | 3:00 | 2022-03-22 |  |
 | [Pulsiones](https://open.spotify.com/track/41WKZIuNkbyPRy0gj7XpNg) | [A.C.O](https://open.spotify.com/artist/0x2z4hugJaiGdTP0lzhxvO), [Naïa Valdez](https://open.spotify.com/artist/1WE5kYBn5jgJyzXroKVktA), [K.maleon](https://open.spotify.com/artist/34fVIn6K9SI57pQ9nbsKa3) | [Pulsiones](https://open.spotify.com/album/0rLIHu6IvHDXzUYZ3GlU4I) | 2:57 | 2021-11-10 | 2022-02-19 |
 | [PURRITO APA](https://open.spotify.com/track/4s3clr8iaefWqqPxHGKZj1) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [ICON](https://open.spotify.com/artist/0SSbTivuMrvdqgCt7ln6jD) | [INTER SHIBUYA \- LA MAFIA](https://open.spotify.com/album/4hUQ4FB9GD5oDmw3XHIr0G) | 2:31 | 2022-09-23 |  |

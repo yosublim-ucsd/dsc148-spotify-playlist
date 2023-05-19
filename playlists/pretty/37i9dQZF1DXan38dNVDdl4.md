@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXan38dNVDdl4.md) - [plain]
 
 > The best in new & current Dancehall\. Cover: Byron Messia
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,005,640 likes - 89 songs - 4 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,005,868 likes - 89 songs - 4 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Talibans](https://open.spotify.com/track/0in4JBEFmQVtyNJCN9UeXU) | [Byron Messia](https://open.spotify.com/artist/3IDfJpj4YVkaBl7Dd52Pxv) | [No Love](https://open.spotify.com/album/2AR2cNQcrYLK8vAxTZe8ai) | 3:08 |
+| 1 | [Talibans](https://open.spotify.com/track/0TTOsyDKykWhCh3qDd9wMY) | [Byron Messia](https://open.spotify.com/artist/3IDfJpj4YVkaBl7Dd52Pxv) | [No Love](https://open.spotify.com/album/6Ds8n0PlFxomLOtEHFwBeo) | 3:08 |
 | 2 | [V6](https://open.spotify.com/track/7aBd8qMooFYZtQQwQJFAdX) | [Ireland Boss](https://open.spotify.com/artist/3JoZVMSSVzYhhMQ5dthRuT), [Malie Donn](https://open.spotify.com/artist/0sP79Bq6zJj6EskteStNBW) | [V6](https://open.spotify.com/album/1VtkkjbqEL8STeBQmpy1Fp) | 2:42 |
 | 3 | [Curious](https://open.spotify.com/track/3kH4ElFSbaNiNejXE71dga) | [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB) | [Curious](https://open.spotify.com/album/4v8HOUiwFEMkvYpnlzEsX4) | 2:41 |
 | 4 | [Expensive](https://open.spotify.com/track/1y6bjh1s2Y1FG7CnSZnHqq) | [Valiant](https://open.spotify.com/artist/7dvG18F378r7HRxmiHn3ti) | [Expensive](https://open.spotify.com/album/0aqdTmcfIcrn3pEin6JvtR) | 3:55 |
@@ -98,4 +98,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXan38dNVDdl4.md) - [plain]
 | 88 | [Dawkniss](https://open.spotify.com/track/4Io8OmQnfuNFQsM9PpMO6d) | [1Skimask](https://open.spotify.com/artist/5sG7iQRe5qVQvGmZ8B0xEo), [Falconn](https://open.spotify.com/artist/4DEgH35qSaMQfi45LW6dD5) | [Dawkniss](https://open.spotify.com/album/1gWmZdRV5vAsll3BM5B3kg) | 2:41 |
 | 89 | [Only Fans](https://open.spotify.com/track/1VHFeNLoMJq3l4CC4bMQID) | [Intence](https://open.spotify.com/artist/3gwIlS9NOwBgwV3RfQIYiR), [Countree Hype](https://open.spotify.com/artist/4trjztkEHNUqYhnW3XTG8C) | [Only Fans](https://open.spotify.com/album/0kU1yhq6AzbdsAua6R2HKc) | 3:00 |
 
-Snapshot ID: `MCw0MDFiZTMwMGZkMjdkMDNiZTZlNjE0ZTQwOWFkZjYzMzRiM2EwYzg4`
+Snapshot ID: `MCw3NGIyNmYwNmE1Mjg2MzY2NmQwMDAzZDZiOTU2Y2QyZTYzMmI1Y2Mw`

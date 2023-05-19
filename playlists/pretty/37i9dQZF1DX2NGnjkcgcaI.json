@@ -1,12 +1,12 @@
 {
   "description": "Deep sounds of minimal dub techno to keep you on track.",
-  "num_followers": 8638,
+  "num_followers": 8708,
   "original_name": "Minimal Rhythm Focus",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4NzZlYjA2ZTVmMWU2Yzg4ZWU3M2FkMzgyZTgwMTk3OWM4M2MwMWU3",
+  "snapshot_id": "MCxmNGMyNWI0OWFjODVhZGE4MmY2NDMxNzk2ZmQxZTRhMGQyZmNiMTg2",
   "tracks": [
     {
       "added_at": "2023-02-14 02:58:33",
@@ -275,6 +275,78 @@
     {
       "added_at": "2023-02-14 02:58:33",
       "album": {
+        "name": "Obsessional",
+        "url": "https://open.spotify.com/album/3NQ39bTQCMC9dgGd1fzC7t"
+      },
+      "artists": [
+        {
+          "name": "Nae:Tek",
+          "url": "https://open.spotify.com/artist/3Gwyr2ZQ0GexXr7V7w5dPP"
+        },
+        {
+          "name": "Liuos",
+          "url": "https://open.spotify.com/artist/10x61JbRUPhZhVBnXZkxCV"
+        }
+      ],
+      "duration_ms": 435483,
+      "name": "Obsessional",
+      "url": "https://open.spotify.com/track/1fffuJqMcuouLpZNeOLk9N"
+    },
+    {
+      "added_at": "2023-02-14 02:58:33",
+      "album": {
+        "name": "Wave X",
+        "url": "https://open.spotify.com/album/4aQlp6orHX2CwD2Z2BrY0H"
+      },
+      "artists": [
+        {
+          "name": "Nae:Tek",
+          "url": "https://open.spotify.com/artist/3Gwyr2ZQ0GexXr7V7w5dPP"
+        },
+        {
+          "name": "Heavenchord",
+          "url": "https://open.spotify.com/artist/0N1G1lizxkv4jmvMkg0n5X"
+        }
+      ],
+      "duration_ms": 429667,
+      "name": "Wave X - Heavenchord Rmx",
+      "url": "https://open.spotify.com/track/2sFMkX4rL0UmHgMG6s6ReI"
+    },
+    {
+      "added_at": "2023-02-14 02:58:33",
+      "album": {
+        "name": "Symbiosis of Events",
+        "url": "https://open.spotify.com/album/7AtAPPE6HCM5LJQAFNCQec"
+      },
+      "artists": [
+        {
+          "name": "Kirill Torno",
+          "url": "https://open.spotify.com/artist/3fzaXkKQUAWyOgONnZfZSH"
+        }
+      ],
+      "duration_ms": 458000,
+      "name": "Micromind",
+      "url": "https://open.spotify.com/track/7qxIUYtvdoRCCOu7UVLqWh"
+    },
+    {
+      "added_at": "2023-02-14 02:58:33",
+      "album": {
+        "name": "Mode Static",
+        "url": "https://open.spotify.com/album/4mRzODAptcBB2WEjPDhPPV"
+      },
+      "artists": [
+        {
+          "name": "Sei A",
+          "url": "https://open.spotify.com/artist/2XaTDbIGblDzEAWa9RWMX7"
+        }
+      ],
+      "duration_ms": 373703,
+      "name": "Inter Spaced",
+      "url": "https://open.spotify.com/track/1IOwL6Ul5KFSgEogib600T"
+    },
+    {
+      "added_at": "2023-02-14 02:58:33",
+      "album": {
         "name": "Program",
         "url": "https://open.spotify.com/album/6yvfUF23AlzHJEiUkX023P"
       },
@@ -287,6 +359,22 @@
       "duration_ms": 716297,
       "name": "Ashes",
       "url": "https://open.spotify.com/track/2ruTSgMeznXTUP1mxLk7cv"
+    },
+    {
+      "added_at": "2023-02-14 02:58:33",
+      "album": {
+        "name": "Translucent Tracks",
+        "url": "https://open.spotify.com/album/2ljQuvlzi1caOfEI82eS83"
+      },
+      "artists": [
+        {
+          "name": "Echo Inspectors",
+          "url": "https://open.spotify.com/artist/0QSUzXnS0dDSxv8vWUZlq3"
+        }
+      ],
+      "duration_ms": 396041,
+      "name": "Parable",
+      "url": "https://open.spotify.com/track/3JJKfUHegacxWAhttMLiXY"
     },
     {
       "added_at": "2023-02-14 02:58:33",
@@ -327,22 +415,6 @@
     {
       "added_at": "2023-02-14 02:58:33",
       "album": {
-        "name": "Translucent Tracks",
-        "url": "https://open.spotify.com/album/2ljQuvlzi1caOfEI82eS83"
-      },
-      "artists": [
-        {
-          "name": "Echo Inspectors",
-          "url": "https://open.spotify.com/artist/0QSUzXnS0dDSxv8vWUZlq3"
-        }
-      ],
-      "duration_ms": 396041,
-      "name": "Parable",
-      "url": "https://open.spotify.com/track/3JJKfUHegacxWAhttMLiXY"
-    },
-    {
-      "added_at": "2023-02-14 02:58:33",
-      "album": {
         "name": "Legacy Volume 1",
         "url": "https://open.spotify.com/album/2FrO5t37vwxBNXgh3zguDM"
       },
@@ -375,46 +447,6 @@
       "duration_ms": 502000,
       "name": "5001 Miles",
       "url": "https://open.spotify.com/track/7fSsvb0afIu2ZkM8YRggxB"
-    },
-    {
-      "added_at": "2023-02-14 02:58:33",
-      "album": {
-        "name": "Wave X",
-        "url": "https://open.spotify.com/album/4aQlp6orHX2CwD2Z2BrY0H"
-      },
-      "artists": [
-        {
-          "name": "Nae:Tek",
-          "url": "https://open.spotify.com/artist/3Gwyr2ZQ0GexXr7V7w5dPP"
-        },
-        {
-          "name": "Heavenchord",
-          "url": "https://open.spotify.com/artist/0N1G1lizxkv4jmvMkg0n5X"
-        }
-      ],
-      "duration_ms": 429667,
-      "name": "Wave X - Heavenchord Rmx",
-      "url": "https://open.spotify.com/track/2sFMkX4rL0UmHgMG6s6ReI"
-    },
-    {
-      "added_at": "2023-02-14 02:58:33",
-      "album": {
-        "name": "Obsessional",
-        "url": "https://open.spotify.com/album/3NQ39bTQCMC9dgGd1fzC7t"
-      },
-      "artists": [
-        {
-          "name": "Nae:Tek",
-          "url": "https://open.spotify.com/artist/3Gwyr2ZQ0GexXr7V7w5dPP"
-        },
-        {
-          "name": "Liuos",
-          "url": "https://open.spotify.com/artist/10x61JbRUPhZhVBnXZkxCV"
-        }
-      ],
-      "duration_ms": 435483,
-      "name": "Obsessional",
-      "url": "https://open.spotify.com/track/1fffuJqMcuouLpZNeOLk9N"
     },
     {
       "added_at": "2023-02-14 02:58:33",
@@ -567,22 +599,6 @@
     {
       "added_at": "2023-02-14 02:58:33",
       "album": {
-        "name": "Symbiosis of Events",
-        "url": "https://open.spotify.com/album/7AtAPPE6HCM5LJQAFNCQec"
-      },
-      "artists": [
-        {
-          "name": "Kirill Torno",
-          "url": "https://open.spotify.com/artist/3fzaXkKQUAWyOgONnZfZSH"
-        }
-      ],
-      "duration_ms": 458000,
-      "name": "Micromind",
-      "url": "https://open.spotify.com/track/7qxIUYtvdoRCCOu7UVLqWh"
-    },
-    {
-      "added_at": "2023-02-14 02:58:33",
-      "album": {
         "name": "2020 YELLOW",
         "url": "https://open.spotify.com/album/3GQ3BjcCgeqcWnYCPIFc0a"
       },
@@ -647,22 +663,6 @@
       "duration_ms": 418052,
       "name": "Junkan - Original Mix",
       "url": "https://open.spotify.com/track/3SSmOwgVQRSxLG8JrI4U7e"
-    },
-    {
-      "added_at": "2023-02-14 02:58:33",
-      "album": {
-        "name": "Mode Static",
-        "url": "https://open.spotify.com/album/4mRzODAptcBB2WEjPDhPPV"
-      },
-      "artists": [
-        {
-          "name": "Sei A",
-          "url": "https://open.spotify.com/artist/2XaTDbIGblDzEAWa9RWMX7"
-        }
-      ],
-      "duration_ms": 373703,
-      "name": "Inter Spaced",
-      "url": "https://open.spotify.com/track/1IOwL6Ul5KFSgEogib600T"
     },
     {
       "added_at": "2023-02-14 02:58:33",

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The tracks heating up the continent right now!  Cover: <a href=\"https://open.spotify.com/artist/4wAqlYtTaaHELEgyCh9KjG?si=nuiwNZ1UQyuKlfAtVEZQWg\"> Fave</a>  ",
+  "description": "The tracks heating up the continent right now!  Cover: <a href=\"https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF?si=AylciqmxQ8aLJHnuwrzD8A\"> Joeboy</a>  ",
   "name": "African Heat",
   "tracks": [
     {
@@ -618,7 +618,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 492617,
       "name": "Awukhuzeki",
       "url": "https://open.spotify.com/track/4J1H4EuucGhhYfcPpYCBRr"
@@ -1281,6 +1281,24 @@
     },
     {
       "album": {
+        "name": "Contour",
+        "url": "https://open.spotify.com/album/6KEXrw3lLGz9dFro9bwIri"
+      },
+      "artists": [
+        {
+          "name": "Joeboy",
+          "url": "https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF"
+        }
+      ],
+      "date_added": "2023-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189014,
+      "name": "Contour",
+      "url": "https://open.spotify.com/track/5OBtqiT5Zg1BqXPx4bBo6T"
+    },
+    {
+      "album": {
         "name": "Cough (Odo)",
         "url": "https://open.spotify.com/album/3j33Z0rLryDGCZFRhppoZq"
       },
@@ -1728,7 +1746,7 @@
       ],
       "date_added": "2023-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 139000,
       "name": "Far Away",
       "url": "https://open.spotify.com/track/6ytwuDs4xBbt0TllrIZi4C"
@@ -2216,6 +2234,36 @@
       "duration_ms": 137142,
       "name": "HALLELUJAH (feat. Blaqbonez)",
       "url": "https://open.spotify.com/track/05pGxMUPDOu3lQVDMg6nqS"
+    },
+    {
+      "album": {
+        "name": "Hamba Juba",
+        "url": "https://open.spotify.com/album/4FnwIltkf5tGWFXJCcECaz"
+      },
+      "artists": [
+        {
+          "name": "Lady Amar",
+          "url": "https://open.spotify.com/artist/63BHCKXCt00q20fd45W4Pk"
+        },
+        {
+          "name": "JL SA",
+          "url": "https://open.spotify.com/artist/1HhlP6BPW4L4zcggfOZstL"
+        },
+        {
+          "name": "Cici",
+          "url": "https://open.spotify.com/artist/3i9UjIGeZT2cRyltQrr8nj"
+        },
+        {
+          "name": "Murumba Pitch",
+          "url": "https://open.spotify.com/artist/3cd7plsjSmDdQ0oHESYHC4"
+        }
+      ],
+      "date_added": "2023-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 480016,
+      "name": "Hamba Juba",
+      "url": "https://open.spotify.com/track/4k5FlWz3dfhyQzmRpVPZsW"
     },
     {
       "album": {
@@ -3751,6 +3799,32 @@
     },
     {
       "album": {
+        "name": "Body & Soul",
+        "url": "https://open.spotify.com/album/1TGcgugu0CxUp5rhS7SyCW"
+      },
+      "artists": [
+        {
+          "name": "Joeboy",
+          "url": "https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF"
+        },
+        {
+          "name": "BNXN fka Buju",
+          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
+        },
+        {
+          "name": "ODUMODUBLVCK",
+          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
+        }
+      ],
+      "date_added": "2023-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204631,
+      "name": "Normally",
+      "url": "https://open.spotify.com/track/4cPKw3rzgmaU4zixJe6wge"
+    },
+    {
+      "album": {
         "name": "Oga",
         "url": "https://open.spotify.com/album/4ikCqtLjgppUAO0b5mpCN5"
       },
@@ -4476,7 +4550,7 @@
       ],
       "date_added": "2023-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 159680,
       "name": "Reckless & Sweet",
       "url": "https://open.spotify.com/track/0YF4MF77Kw8CMkZkfDFtlj"

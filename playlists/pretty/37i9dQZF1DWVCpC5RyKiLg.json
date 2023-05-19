@@ -1,12 +1,12 @@
 {
   "description": "Pagode e Sertanejo pura sofr\u00eancia para te acompanhar na faxina!",
-  "num_followers": 663738,
+  "num_followers": 664199,
   "original_name": "Faxina com Sofr\u00eancia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5NmZiNjhmYmZjYzU1ZThjMWI2MjE3NGFhYzU1YWExMzhhZDM4ZjEx",
+  "snapshot_id": "MCwxNTI2YzQ3NzVjZmU4MDJiMzdmMDk0ZWI5NzM2Yjg5YTg2ZDYzYzM3",
   "tracks": [
     {
       "added_at": "2023-02-10 03:01:00",
@@ -786,11 +786,15 @@
         {
           "name": "Ferrugem",
           "url": "https://open.spotify.com/artist/5ZfBThYiIIhL7jHMG8gDB2"
+        },
+        {
+          "name": "Bruno Cardoso",
+          "url": "https://open.spotify.com/artist/34IKMjXZ3Qy0vjG82n97r6"
         }
       ],
-      "duration_ms": 204681,
-      "name": "Sinto sua falta - Ao vivo",
-      "url": "https://open.spotify.com/track/3eWHUE5D5R19q7BvOX7NSJ"
+      "duration_ms": 207093,
+      "name": "\u00c9 natural (Participa\u00e7\u00e3o especial de Bruno Cardoso) - Ao vivo",
+      "url": "https://open.spotify.com/track/0vT797IpZpF5o1XLCnWCUL"
     },
     {
       "added_at": "2023-02-10 03:01:00",
@@ -940,9 +944,9 @@
           "url": "https://open.spotify.com/artist/5ZfBThYiIIhL7jHMG8gDB2"
         }
       ],
-      "duration_ms": 219592,
-      "name": "Pirata e tesouro - Ao vivo",
-      "url": "https://open.spotify.com/track/3Cabw7y9EoR68v7dBS76HQ"
+      "duration_ms": 204681,
+      "name": "Sinto sua falta - Ao vivo",
+      "url": "https://open.spotify.com/track/3eWHUE5D5R19q7BvOX7NSJ"
     },
     {
       "added_at": "2023-02-10 03:01:00",
@@ -1054,15 +1058,11 @@
         {
           "name": "Ferrugem",
           "url": "https://open.spotify.com/artist/5ZfBThYiIIhL7jHMG8gDB2"
-        },
-        {
-          "name": "Bruno Cardoso",
-          "url": "https://open.spotify.com/artist/34IKMjXZ3Qy0vjG82n97r6"
         }
       ],
-      "duration_ms": 207093,
-      "name": "\u00c9 natural (Participa\u00e7\u00e3o especial de Bruno Cardoso) - Ao vivo",
-      "url": "https://open.spotify.com/track/0vT797IpZpF5o1XLCnWCUL"
+      "duration_ms": 219592,
+      "name": "Pirata e tesouro - Ao vivo",
+      "url": "https://open.spotify.com/track/3Cabw7y9EoR68v7dBS76HQ"
     },
     {
       "added_at": "2023-02-10 03:01:00",
@@ -1079,22 +1079,6 @@
       "duration_ms": 199363,
       "name": "Bebida Na Ferida - Ao Vivo",
       "url": "https://open.spotify.com/track/50YbE5MrvSu8Fz6A2dgTZ8"
-    },
-    {
-      "added_at": "2023-02-10 03:01:00",
-      "album": {
-        "name": "In The Cities - Ao Vivo Em Cuiab\u00e1",
-        "url": "https://open.spotify.com/album/5nGde95l1DJcFZCB3NOduX"
-      },
-      "artists": [
-        {
-          "name": "Cristiano Ara\u00fajo",
-          "url": "https://open.spotify.com/artist/4HF14RSTZQcEafvfPCFEpI"
-        }
-      ],
-      "duration_ms": 220853,
-      "name": "\u00c9 Com Ela Que Eu Estou - Ao Vivo",
-      "url": "https://open.spotify.com/track/07NSyHtBkMt2pb9sJoZxUB"
     },
     {
       "added_at": "2023-02-10 03:01:00",
@@ -1119,6 +1103,22 @@
     {
       "added_at": "2023-02-10 03:01:00",
       "album": {
+        "name": "In The Cities - Ao Vivo Em Cuiab\u00e1",
+        "url": "https://open.spotify.com/album/5nGde95l1DJcFZCB3NOduX"
+      },
+      "artists": [
+        {
+          "name": "Cristiano Ara\u00fajo",
+          "url": "https://open.spotify.com/artist/4HF14RSTZQcEafvfPCFEpI"
+        }
+      ],
+      "duration_ms": 220853,
+      "name": "\u00c9 Com Ela Que Eu Estou - Ao Vivo",
+      "url": "https://open.spotify.com/track/07NSyHtBkMt2pb9sJoZxUB"
+    },
+    {
+      "added_at": "2023-02-10 03:01:00",
+      "album": {
         "name": "De Bra\u00e7os Abertos (Ao Vivo)",
         "url": "https://open.spotify.com/album/6plZQVlgm6HDExDtMcb4iC"
       },
@@ -1139,6 +1139,22 @@
     {
       "added_at": "2023-02-10 03:01:00",
       "album": {
+        "name": "De Volta pro Amanh\u00e3",
+        "url": "https://open.spotify.com/album/6rJfOUFtfOAzFve2Qp2Ei5"
+      },
+      "artists": [
+        {
+          "name": "Sorriso Maroto",
+          "url": "https://open.spotify.com/artist/1fUSLFr4WUBx7joEcGwpvG"
+        }
+      ],
+      "duration_ms": 221693,
+      "name": "Dependente",
+      "url": "https://open.spotify.com/track/2xOa2qPj8kDnlj8Nr1D07s"
+    },
+    {
+      "added_at": "2023-02-10 03:01:00",
+      "album": {
         "name": "Pesquisa no Google (feat. Henrique & Diego) [Ao Vivo]",
         "url": "https://open.spotify.com/album/4GhQyISpTeElMOHFUVSqKR"
       },
@@ -1155,22 +1171,6 @@
       "duration_ms": 169244,
       "name": "Pesquisa no Google (feat. Henrique & Diego) - Ao Vivo",
       "url": "https://open.spotify.com/track/7pSXU2BrcwQt5mbRPKEO4k"
-    },
-    {
-      "added_at": "2023-02-10 03:01:00",
-      "album": {
-        "name": "De Volta pro Amanh\u00e3",
-        "url": "https://open.spotify.com/album/6rJfOUFtfOAzFve2Qp2Ei5"
-      },
-      "artists": [
-        {
-          "name": "Sorriso Maroto",
-          "url": "https://open.spotify.com/artist/1fUSLFr4WUBx7joEcGwpvG"
-        }
-      ],
-      "duration_ms": 221693,
-      "name": "Dependente",
-      "url": "https://open.spotify.com/track/2xOa2qPj8kDnlj8Nr1D07s"
     },
     {
       "added_at": "2023-02-10 03:01:00",

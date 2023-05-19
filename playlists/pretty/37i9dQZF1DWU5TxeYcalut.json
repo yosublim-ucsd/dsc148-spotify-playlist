@@ -1,12 +1,12 @@
 {
   "description": "Uma sele\u00e7\u00e3o especial do jazz nacional. Foto: Amaro Freitas",
-  "num_followers": 153276,
+  "num_followers": 153299,
   "original_name": "Jazz Brasileiro",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjNGFlOGRmNDI1ZjQ5YTRjNDFkNDlhZWI3ZTg4ZDVlNmQxYThmN2Zi",
+  "snapshot_id": "MCwwNWVjNzNhNTI4N2QxZGZhOWFlZDE1ZDdmY2Q1ODkyNzFiNzQzOTM1",
   "tracks": [
     {
       "added_at": "2023-04-28 03:01:00",
@@ -331,22 +331,6 @@
     {
       "added_at": "2023-04-28 03:01:00",
       "album": {
-        "name": "Consola\u00e7\u00e3o (Live)",
-        "url": "https://open.spotify.com/album/0idYgGKX0aTVmUVIJ3Dhzs"
-      },
-      "artists": [
-        {
-          "name": "Bola Sete",
-          "url": "https://open.spotify.com/artist/3vVLhTD4Etza2AvvWJaNyW"
-        }
-      ],
-      "duration_ms": 283965,
-      "name": "Consola\u00e7\u00e3o - Live",
-      "url": "https://open.spotify.com/track/49KG5t8YMzD1HIusWoNchm"
-    },
-    {
-      "added_at": "2023-04-28 03:01:00",
-      "album": {
         "name": "Rasif",
         "url": "https://open.spotify.com/album/1ToKUqpDqUw5Imnh1oCjNf"
       },
@@ -359,6 +343,22 @@
       "duration_ms": 367211,
       "name": "Rasif",
       "url": "https://open.spotify.com/track/5xfkIPfhNPbBw8WUpKdSUw"
+    },
+    {
+      "added_at": "2023-04-28 03:01:00",
+      "album": {
+        "name": "Consola\u00e7\u00e3o (Live)",
+        "url": "https://open.spotify.com/album/0idYgGKX0aTVmUVIJ3Dhzs"
+      },
+      "artists": [
+        {
+          "name": "Bola Sete",
+          "url": "https://open.spotify.com/artist/3vVLhTD4Etza2AvvWJaNyW"
+        }
+      ],
+      "duration_ms": 283965,
+      "name": "Consola\u00e7\u00e3o - Live",
+      "url": "https://open.spotify.com/track/49KG5t8YMzD1HIusWoNchm"
     },
     {
       "added_at": "2023-04-28 03:01:00",
@@ -767,6 +767,54 @@
     {
       "added_at": "2023-04-28 03:01:00",
       "album": {
+        "name": "Jo\u00e3o Donato JID007",
+        "url": "https://open.spotify.com/album/2qWnN8q2Tulx0oH4MJY12Z"
+      },
+      "artists": [
+        {
+          "name": "Adrian Younge",
+          "url": "https://open.spotify.com/artist/4aMeIY7MkJoZg7O91cmDDd"
+        },
+        {
+          "name": "Ali Shaheed Muhammad",
+          "url": "https://open.spotify.com/artist/6adBZwsyxZuWDoty0Tg0lt"
+        },
+        {
+          "name": "Jo\u00e3o Donato",
+          "url": "https://open.spotify.com/artist/17wDxPR2GcU3r1dpCoCiUi"
+        }
+      ],
+      "duration_ms": 143332,
+      "name": "Adrian, Ali and Gregory",
+      "url": "https://open.spotify.com/track/0IqaNlCNNCFBfuoka1Me7N"
+    },
+    {
+      "added_at": "2023-04-28 03:01:00",
+      "album": {
+        "name": "April Child",
+        "url": "https://open.spotify.com/album/1DnGzEZtXWhtgBF4rFwlLc"
+      },
+      "artists": [
+        {
+          "name": "Marcelo Mariano",
+          "url": "https://open.spotify.com/artist/0tmAPQ38pisrrZR7JD1ILk"
+        },
+        {
+          "name": "Marcos Romera",
+          "url": "https://open.spotify.com/artist/3YOrSCZPZyMblbJ0EXkDrV"
+        },
+        {
+          "name": "Joao Parahyba",
+          "url": "https://open.spotify.com/artist/7h9XKFZhXoppj0vQvRBShW"
+        }
+      ],
+      "duration_ms": 424404,
+      "name": "April Child",
+      "url": "https://open.spotify.com/track/2Pr9tkPMbPA7D3E0SoL7Jz"
+    },
+    {
+      "added_at": "2023-04-28 03:01:00",
+      "album": {
         "name": "IBC",
         "url": "https://open.spotify.com/album/1NRlLPsK07v1psS7dB4ZjH"
       },
@@ -803,34 +851,14 @@
     {
       "added_at": "2023-04-28 03:01:00",
       "album": {
-        "name": "April Child",
-        "url": "https://open.spotify.com/album/1DnGzEZtXWhtgBF4rFwlLc"
+        "name": "Azymuth JID004",
+        "url": "https://open.spotify.com/album/7btGCQBoauPU3SBCmHvR8p"
       },
       "artists": [
         {
-          "name": "Marcelo Mariano",
-          "url": "https://open.spotify.com/artist/0tmAPQ38pisrrZR7JD1ILk"
+          "name": "Azymuth",
+          "url": "https://open.spotify.com/artist/5lYcr7Yue9FUB7MJDBtTJx"
         },
-        {
-          "name": "Marcos Romera",
-          "url": "https://open.spotify.com/artist/3YOrSCZPZyMblbJ0EXkDrV"
-        },
-        {
-          "name": "Joao Parahyba",
-          "url": "https://open.spotify.com/artist/7h9XKFZhXoppj0vQvRBShW"
-        }
-      ],
-      "duration_ms": 424404,
-      "name": "April Child",
-      "url": "https://open.spotify.com/track/2Pr9tkPMbPA7D3E0SoL7Jz"
-    },
-    {
-      "added_at": "2023-04-28 03:01:00",
-      "album": {
-        "name": "Jo\u00e3o Donato JID007",
-        "url": "https://open.spotify.com/album/2qWnN8q2Tulx0oH4MJY12Z"
-      },
-      "artists": [
         {
           "name": "Adrian Younge",
           "url": "https://open.spotify.com/artist/4aMeIY7MkJoZg7O91cmDDd"
@@ -838,15 +866,11 @@
         {
           "name": "Ali Shaheed Muhammad",
           "url": "https://open.spotify.com/artist/6adBZwsyxZuWDoty0Tg0lt"
-        },
-        {
-          "name": "Jo\u00e3o Donato",
-          "url": "https://open.spotify.com/artist/17wDxPR2GcU3r1dpCoCiUi"
         }
       ],
-      "duration_ms": 143332,
-      "name": "Adrian, Ali and Gregory",
-      "url": "https://open.spotify.com/track/0IqaNlCNNCFBfuoka1Me7N"
+      "duration_ms": 257600,
+      "name": "Fall Afternoon",
+      "url": "https://open.spotify.com/track/6uxsDym2BeX70yckRlbIxl"
     },
     {
       "added_at": "2023-04-28 03:01:00",
@@ -895,46 +919,26 @@
     {
       "added_at": "2023-04-28 03:01:00",
       "album": {
-        "name": "Azymuth JID004",
-        "url": "https://open.spotify.com/album/7btGCQBoauPU3SBCmHvR8p"
+        "name": "Amilton Godoy 80 Anos",
+        "url": "https://open.spotify.com/album/6iTLkjtp9fZoVDKJt0XBnx"
       },
       "artists": [
         {
-          "name": "Azymuth",
-          "url": "https://open.spotify.com/artist/5lYcr7Yue9FUB7MJDBtTJx"
+          "name": "Amilton Godoy",
+          "url": "https://open.spotify.com/artist/6eBb2VD12O0Xk5WlNwP7YF"
         },
         {
-          "name": "Adrian Younge",
-          "url": "https://open.spotify.com/artist/4aMeIY7MkJoZg7O91cmDDd"
+          "name": "Edu Ribeiro",
+          "url": "https://open.spotify.com/artist/2K3MPGHczQOIRHMsrRSRuX"
         },
         {
-          "name": "Ali Shaheed Muhammad",
-          "url": "https://open.spotify.com/artist/6adBZwsyxZuWDoty0Tg0lt"
+          "name": "Sidiel Vieira",
+          "url": "https://open.spotify.com/artist/6w5Vaup8DAh32WeB8OUr50"
         }
       ],
-      "duration_ms": 257600,
-      "name": "Fall Afternoon",
-      "url": "https://open.spotify.com/track/6uxsDym2BeX70yckRlbIxl"
-    },
-    {
-      "added_at": "2023-04-28 03:01:00",
-      "album": {
-        "name": "Sobrevoo",
-        "url": "https://open.spotify.com/album/2Z5ifSnsQqzCJgamuzU8xo"
-      },
-      "artists": [
-        {
-          "name": "Rodrigo Bragan\u00e7a",
-          "url": "https://open.spotify.com/artist/63iSklF8uJYCOiBIrv26ce"
-        },
-        {
-          "name": "Benjamim Taubkin",
-          "url": "https://open.spotify.com/artist/3RXcmh3eKjiIG9XNP3XOmy"
-        }
-      ],
-      "duration_ms": 382919,
-      "name": "Fluxo",
-      "url": "https://open.spotify.com/track/6OAwPPmQ6b50DdqzfMgGwZ"
+      "duration_ms": 166933,
+      "name": "Ponteio 49",
+      "url": "https://open.spotify.com/track/0AHyQ08UJCdoMBpW1HJGjb"
     },
     {
       "added_at": "2023-04-28 03:01:00",
@@ -963,26 +967,22 @@
     {
       "added_at": "2023-04-28 03:01:00",
       "album": {
-        "name": "Amilton Godoy 80 Anos",
-        "url": "https://open.spotify.com/album/6iTLkjtp9fZoVDKJt0XBnx"
+        "name": "Sobrevoo",
+        "url": "https://open.spotify.com/album/2Z5ifSnsQqzCJgamuzU8xo"
       },
       "artists": [
         {
-          "name": "Amilton Godoy",
-          "url": "https://open.spotify.com/artist/6eBb2VD12O0Xk5WlNwP7YF"
+          "name": "Rodrigo Bragan\u00e7a",
+          "url": "https://open.spotify.com/artist/63iSklF8uJYCOiBIrv26ce"
         },
         {
-          "name": "Edu Ribeiro",
-          "url": "https://open.spotify.com/artist/2K3MPGHczQOIRHMsrRSRuX"
-        },
-        {
-          "name": "Sidiel Vieira",
-          "url": "https://open.spotify.com/artist/6w5Vaup8DAh32WeB8OUr50"
+          "name": "Benjamim Taubkin",
+          "url": "https://open.spotify.com/artist/3RXcmh3eKjiIG9XNP3XOmy"
         }
       ],
-      "duration_ms": 166933,
-      "name": "Ponteio 49",
-      "url": "https://open.spotify.com/track/0AHyQ08UJCdoMBpW1HJGjb"
+      "duration_ms": 382919,
+      "name": "Fluxo",
+      "url": "https://open.spotify.com/track/6OAwPPmQ6b50DdqzfMgGwZ"
     },
     {
       "added_at": "2023-04-28 03:01:00",
@@ -1123,6 +1123,22 @@
     {
       "added_at": "2023-04-28 03:01:00",
       "album": {
+        "name": "In The Still Of The Night",
+        "url": "https://open.spotify.com/album/5YopLA0LniwJzWI8rXA148"
+      },
+      "artists": [
+        {
+          "name": "The Blue Green",
+          "url": "https://open.spotify.com/artist/2MV5ORkK9NtSHyy4WbwY80"
+        }
+      ],
+      "duration_ms": 289434,
+      "name": "In The Still Of The Night",
+      "url": "https://open.spotify.com/track/6QMNUfRiLfoPubKKkhhCqq"
+    },
+    {
+      "added_at": "2023-04-28 03:01:00",
+      "album": {
         "name": "Palavra Alada 2",
         "url": "https://open.spotify.com/album/3smdnNbcdc4c9QXb5HQDPw"
       },
@@ -1147,22 +1163,6 @@
       "duration_ms": 259532,
       "name": "Impress\u00f5es",
       "url": "https://open.spotify.com/track/2Sn7WVqrXfyVhpwO2A9GVd"
-    },
-    {
-      "added_at": "2023-04-28 03:01:00",
-      "album": {
-        "name": "In The Still Of The Night",
-        "url": "https://open.spotify.com/album/5YopLA0LniwJzWI8rXA148"
-      },
-      "artists": [
-        {
-          "name": "The Blue Green",
-          "url": "https://open.spotify.com/artist/2MV5ORkK9NtSHyy4WbwY80"
-        }
-      ],
-      "duration_ms": 289434,
-      "name": "In The Still Of The Night",
-      "url": "https://open.spotify.com/track/6QMNUfRiLfoPubKKkhhCqq"
     },
     {
       "added_at": "2023-04-28 03:01:00",
@@ -1295,6 +1295,22 @@
     {
       "added_at": "2023-04-28 03:01:00",
       "album": {
+        "name": "Chico Macedo 4teto",
+        "url": "https://open.spotify.com/album/7Dm3ppcSlWTTxqP1UZoFGy"
+      },
+      "artists": [
+        {
+          "name": "Chico Macedo",
+          "url": "https://open.spotify.com/artist/43jJmpAA6e42EZSkHrK0Dt"
+        }
+      ],
+      "duration_ms": 304880,
+      "name": "Sampa",
+      "url": "https://open.spotify.com/track/4FVMTBJXWnyiSCCUKLsKrE"
+    },
+    {
+      "added_at": "2023-04-28 03:01:00",
+      "album": {
         "name": "If\u00e8",
         "url": "https://open.spotify.com/album/3JK98v9dwUpZWIvU575dvR"
       },
@@ -1319,22 +1335,6 @@
       "duration_ms": 317986,
       "name": "Mem\u00f3rias",
       "url": "https://open.spotify.com/track/1Ir2uQSAIZt9vRAunNCRQJ"
-    },
-    {
-      "added_at": "2023-04-28 03:01:00",
-      "album": {
-        "name": "Chico Macedo 4teto",
-        "url": "https://open.spotify.com/album/7Dm3ppcSlWTTxqP1UZoFGy"
-      },
-      "artists": [
-        {
-          "name": "Chico Macedo",
-          "url": "https://open.spotify.com/artist/43jJmpAA6e42EZSkHrK0Dt"
-        }
-      ],
-      "duration_ms": 304880,
-      "name": "Sampa",
-      "url": "https://open.spotify.com/track/4FVMTBJXWnyiSCCUKLsKrE"
     },
     {
       "added_at": "2023-04-28 03:01:00",
@@ -1675,6 +1675,34 @@
     {
       "added_at": "2023-04-28 03:01:00",
       "album": {
+        "name": "MOA",
+        "url": "https://open.spotify.com/album/2qIm0HQn8TwvYzy4jReHDz"
+      },
+      "artists": [
+        {
+          "name": "\u00c1gar-\u00c1gar TRIO",
+          "url": "https://open.spotify.com/artist/54OZDPo1qOuCCXlDpdjB6O"
+        },
+        {
+          "name": "Lucas Brogiolo",
+          "url": "https://open.spotify.com/artist/1d9qwScL2GQ8LDb2XwJFwc"
+        },
+        {
+          "name": "Jussan Cluxnei",
+          "url": "https://open.spotify.com/artist/3s3InuUpVj7AqDzsA83a05"
+        },
+        {
+          "name": "Lucas Bonetti",
+          "url": "https://open.spotify.com/artist/5giBwOhPlNTS6qWktS2sgK"
+        }
+      ],
+      "duration_ms": 259320,
+      "name": "Sete Coisas",
+      "url": "https://open.spotify.com/track/0lOxv2511HsJZZZZgnkUye"
+    },
+    {
+      "added_at": "2023-04-28 03:01:00",
+      "album": {
         "name": "Eternal",
         "url": "https://open.spotify.com/album/7HjEJgEOH5yFNPLERzLOMg"
       },
@@ -1707,34 +1735,6 @@
       "duration_ms": 266538,
       "name": "Poinciana",
       "url": "https://open.spotify.com/track/53wgkplpSRXUvtW3YQscTc"
-    },
-    {
-      "added_at": "2023-04-28 03:01:00",
-      "album": {
-        "name": "MOA",
-        "url": "https://open.spotify.com/album/2qIm0HQn8TwvYzy4jReHDz"
-      },
-      "artists": [
-        {
-          "name": "\u00c1gar-\u00c1gar TRIO",
-          "url": "https://open.spotify.com/artist/54OZDPo1qOuCCXlDpdjB6O"
-        },
-        {
-          "name": "Lucas Brogiolo",
-          "url": "https://open.spotify.com/artist/1d9qwScL2GQ8LDb2XwJFwc"
-        },
-        {
-          "name": "Jussan Cluxnei",
-          "url": "https://open.spotify.com/artist/3s3InuUpVj7AqDzsA83a05"
-        },
-        {
-          "name": "Lucas Bonetti",
-          "url": "https://open.spotify.com/artist/5giBwOhPlNTS6qWktS2sgK"
-        }
-      ],
-      "duration_ms": 259320,
-      "name": "Sete Coisas",
-      "url": "https://open.spotify.com/track/0lOxv2511HsJZZZZgnkUye"
     },
     {
       "added_at": "2023-04-28 03:01:00",
@@ -1783,26 +1783,18 @@
     {
       "added_at": "2023-04-28 03:01:00",
       "album": {
-        "name": "Fugindo do Sete",
-        "url": "https://open.spotify.com/album/7rHJa0fWmXLk1nlye0pyzk"
+        "name": "Deyeh",
+        "url": "https://open.spotify.com/album/7DjcAv2AKCNczTFvqsgsxb"
       },
       "artists": [
         {
-          "name": "Pedro Gomes",
-          "url": "https://open.spotify.com/artist/2BAqtohDtp3a95qxi1wcJZ"
-        },
-        {
-          "name": "Alexandre Andr\u00e9s",
-          "url": "https://open.spotify.com/artist/2YHI5pjMQoSZFisjvHjmz6"
-        },
-        {
-          "name": "Augusto Cordeiro",
-          "url": "https://open.spotify.com/artist/1vodQGadFkrtwlaSw5VOza"
+          "name": "Marcelo Monteiro",
+          "url": "https://open.spotify.com/artist/2toMmE1j1zvEIdZCmTJbGd"
         }
       ],
-      "duration_ms": 300659,
-      "name": "Fugindo do Sete",
-      "url": "https://open.spotify.com/track/5bxEGDBpwFmRVmCGdfJclt"
+      "duration_ms": 205466,
+      "name": "Kahkoon",
+      "url": "https://open.spotify.com/track/5c6yOxUijK7K5YtEde3rSt"
     },
     {
       "added_at": "2023-04-28 03:01:00",
@@ -1827,34 +1819,26 @@
     {
       "added_at": "2023-04-28 03:01:00",
       "album": {
-        "name": "Deyeh",
-        "url": "https://open.spotify.com/album/7DjcAv2AKCNczTFvqsgsxb"
+        "name": "Fugindo do Sete",
+        "url": "https://open.spotify.com/album/7rHJa0fWmXLk1nlye0pyzk"
       },
       "artists": [
         {
-          "name": "Marcelo Monteiro",
-          "url": "https://open.spotify.com/artist/2toMmE1j1zvEIdZCmTJbGd"
-        }
-      ],
-      "duration_ms": 205466,
-      "name": "Kahkoon",
-      "url": "https://open.spotify.com/track/5c6yOxUijK7K5YtEde3rSt"
-    },
-    {
-      "added_at": "2023-04-28 03:01:00",
-      "album": {
-        "name": "Epifonia",
-        "url": "https://open.spotify.com/album/45ZWDe2VvpzRpgEcrxWeSv"
-      },
-      "artists": [
+          "name": "Pedro Gomes",
+          "url": "https://open.spotify.com/artist/2BAqtohDtp3a95qxi1wcJZ"
+        },
         {
-          "name": "Lucas Bueno Dias",
-          "url": "https://open.spotify.com/artist/6MTTPwmxyN5R9WlSbyc2aH"
+          "name": "Alexandre Andr\u00e9s",
+          "url": "https://open.spotify.com/artist/2YHI5pjMQoSZFisjvHjmz6"
+        },
+        {
+          "name": "Augusto Cordeiro",
+          "url": "https://open.spotify.com/artist/1vodQGadFkrtwlaSw5VOza"
         }
       ],
-      "duration_ms": 357646,
-      "name": "Mestre Samuca",
-      "url": "https://open.spotify.com/track/65gPXksYSYJLkJcNkM2FJ2"
+      "duration_ms": 300659,
+      "name": "Fugindo do Sete",
+      "url": "https://open.spotify.com/track/5bxEGDBpwFmRVmCGdfJclt"
     },
     {
       "added_at": "2023-04-28 03:01:00",
@@ -1875,6 +1859,22 @@
       "duration_ms": 506440,
       "name": "Atrevido",
       "url": "https://open.spotify.com/track/3mWgxMofVIC265Pj2BEU9O"
+    },
+    {
+      "added_at": "2023-04-28 03:01:00",
+      "album": {
+        "name": "Epifonia",
+        "url": "https://open.spotify.com/album/45ZWDe2VvpzRpgEcrxWeSv"
+      },
+      "artists": [
+        {
+          "name": "Lucas Bueno Dias",
+          "url": "https://open.spotify.com/artist/6MTTPwmxyN5R9WlSbyc2aH"
+        }
+      ],
+      "duration_ms": 357646,
+      "name": "Mestre Samuca",
+      "url": "https://open.spotify.com/track/65gPXksYSYJLkJcNkM2FJ2"
     },
     {
       "added_at": "2023-04-28 03:01:00",
@@ -1963,6 +1963,22 @@
     {
       "added_at": "2023-04-28 03:01:00",
       "album": {
+        "name": "\u00a1\u00c1ndale!",
+        "url": "https://open.spotify.com/album/02J1eI3x5BA6zwdzv9zuRu"
+      },
+      "artists": [
+        {
+          "name": "the flux trio",
+          "url": "https://open.spotify.com/artist/5Y9M3zHzDU3SFeVOl1fnS2"
+        }
+      ],
+      "duration_ms": 202272,
+      "name": "\u00a1\u00c1ndale!",
+      "url": "https://open.spotify.com/track/2gyPzt77ygXLHatfX7DiWi"
+    },
+    {
+      "added_at": "2023-04-28 03:01:00",
+      "album": {
         "name": "Domingo 27/09",
         "url": "https://open.spotify.com/album/0rbqkW5qWily7iUgNmsyTt"
       },
@@ -1979,22 +1995,6 @@
       "duration_ms": 502746,
       "name": "Domingo 27/09",
       "url": "https://open.spotify.com/track/4MGEDqAoFLyYupbg9wh9ds"
-    },
-    {
-      "added_at": "2023-04-28 03:01:00",
-      "album": {
-        "name": "\u00a1\u00c1ndale!",
-        "url": "https://open.spotify.com/album/02J1eI3x5BA6zwdzv9zuRu"
-      },
-      "artists": [
-        {
-          "name": "the flux trio",
-          "url": "https://open.spotify.com/artist/5Y9M3zHzDU3SFeVOl1fnS2"
-        }
-      ],
-      "duration_ms": 202272,
-      "name": "\u00a1\u00c1ndale!",
-      "url": "https://open.spotify.com/track/2gyPzt77ygXLHatfX7DiWi"
     },
     {
       "added_at": "2023-04-28 03:01:00",

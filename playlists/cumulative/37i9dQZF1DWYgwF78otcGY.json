@@ -1634,6 +1634,24 @@
     {
       "album": {
         "name": "R\u00f6k 'n Roll",
+        "url": "https://open.spotify.com/album/3GjCjRj6hI2tzAeKs5nIKD"
+      },
+      "artists": [
+        {
+          "name": "Brandsta City Sl\u00e4ckers",
+          "url": "https://open.spotify.com/artist/10bzvni38ThO7h6KOaHO9l"
+        }
+      ],
+      "date_added": "2023-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177160,
+      "name": "Kom och ta mig",
+      "url": "https://open.spotify.com/track/22T3LCFXjOfxkiq5JgJacE"
+    },
+    {
+      "album": {
+        "name": "R\u00f6k 'n Roll",
         "url": "https://open.spotify.com/album/0aO5uIWhe2UVcnI7ZrjdSc"
       },
       "artists": [
@@ -2070,7 +2088,7 @@
       ],
       "date_added": "2019-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 183051,
       "name": "M\u00f6t mig i Gamla Stan",
       "url": "https://open.spotify.com/track/63UzvCGt0yMhxHCeoT89Te"

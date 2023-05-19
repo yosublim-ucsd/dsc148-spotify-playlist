@@ -2,9 +2,9 @@
 
 ### [RADAR UK & Ireland](https://open.spotify.com/playlist/37i9dQZF1DX9be6QR3XeJp)
 
-> Discover your new favourite artists from UK&IE\. Cover: Sekou
+> Discover your new favourite artists from UK&IE\. Cover: Aby Coulibaly
 
-204 songs - 11 hr 13 min
+206 songs - 11 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -87,12 +87,13 @@
 | [I Like Me](https://open.spotify.com/track/1Z8d3f6vuedyPzrfPuA5Yl) | [dexter](https://open.spotify.com/artist/3bAdh9KH0kxlwrfz7Uh5Aa) | [I Do Love a Good Sandwich](https://open.spotify.com/album/2mYyy4WDJ0wegNinX4I3i8) | 2:30 | 2022-07-28 | 2022-12-01 |
 | [I Like Me](https://open.spotify.com/track/6Sxu7v5cVU36u4pSFc4QGs) | [dexter](https://open.spotify.com/artist/3bAdh9KH0kxlwrfz7Uh5Aa) | [I Like Me](https://open.spotify.com/album/0XFnNV4tAhhN5HdIoi2OEq) | 2:30 | 2022-02-18 | 2022-07-29 |
 | [I Like Me](https://open.spotify.com/track/03e6kd5Gye4OAK0ANM0neZ) | [dexter in the newsagent](https://open.spotify.com/artist/3bAdh9KH0kxlwrfz7Uh5Aa) | [I Do Love a Good Sandwich](https://open.spotify.com/album/76vCZh9BFPAlqtSFNATYp9) | 2:30 | 2023-01-09 |  |
-| [I must apologise](https://open.spotify.com/track/08g7wxW8iELmpxO0ppcwnI) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [I must apologise](https://open.spotify.com/album/0m1wwIx9Eoa7fWb9KYh7pt) | 1:48 | 2022-02-18 |  |
+| [I Must Apologise](https://open.spotify.com/track/08g7wxW8iELmpxO0ppcwnI) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [I must apologise](https://open.spotify.com/album/0m1wwIx9Eoa7fWb9KYh7pt) | 1:48 | 2022-02-18 |  |
 | [I Need You To Hate Me](https://open.spotify.com/track/1zY6ekSJ8VI6tZ6nBqoo7g) | [JC Stewart](https://open.spotify.com/artist/2TAqN8fwfaKauvviN4pOsv) | [I Need You To Hate Me](https://open.spotify.com/album/1iTfzcKZxr2SEgNCIDyhol) | 2:37 | 2022-02-18 |  |
 | [I'm Insecure](https://open.spotify.com/track/6kHnHk0jlAdYWktT0FQrSN) | [Lauran Hibberd](https://open.spotify.com/artist/33ReZaGVb63WaJE68WgWuU) | [I’m Insecure](https://open.spotify.com/album/0DyvaVIRS4rdXtTcIu5QQi) | 3:42 | 2022-06-02 |  |
 | [if you called me today, i would come back tomorrow](https://open.spotify.com/track/0ZhcTOA3jY10bgme6qpptW) | [Áine Deane](https://open.spotify.com/artist/3iXWRV73XvTRhpfoT6SPLU) | [if you called me today, i would come back tomorrow](https://open.spotify.com/album/7860oA85u1By2IkqmpXiAi) | 4:02 | 2023-03-03 |  |
 | [Immature](https://open.spotify.com/track/5Gp0BMl8A4obJTIpd0qWox) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO) | [Immature](https://open.spotify.com/album/77KeCRX0Rqbx6l8ydoIYB9) | 2:53 | 2022-07-07 |  |
-| [In My Head](https://open.spotify.com/track/1dlDzw8OCpS3TnPdw3nP2H) | [Tsuki](https://open.spotify.com/artist/2yJbiseBZFvrCK5GueLnk7) | [Redemption](https://open.spotify.com/album/3XmQyh6RPXqg8QCILKQvag) | 4:18 | 2022-02-18 |  |
+| [In My Head](https://open.spotify.com/track/1dlDzw8OCpS3TnPdw3nP2H) | [Tsuki](https://open.spotify.com/artist/2yJbiseBZFvrCK5GueLnk7) | [Redemption](https://open.spotify.com/album/3XmQyh6RPXqg8QCILKQvag) | 4:18 | 2022-02-18 | 2023-05-19 |
+| [In My Head](https://open.spotify.com/track/4ibewEf7KkzWHTKcdOvFQS) | [Tsuki](https://open.spotify.com/artist/2yJbiseBZFvrCK5GueLnk7) | [Redemption](https://open.spotify.com/album/0JDV8B5FQ6vug0p9q8dV2h) | 4:18 | 2023-05-18 |  |
 | [Into You](https://open.spotify.com/track/38gXTVJbL0PuLu2D5TsnDp) | [Cat Burns](https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn) | [Into You](https://open.spotify.com/album/5k9tVBLPmASFALptyHgbhW) | 2:48 | 2022-02-18 |  |
 | [Introduce Myself \(feat\. JADA\)](https://open.spotify.com/track/3R0r72bfIxXfg9fEu1Eydr) | [Scribz Riley](https://open.spotify.com/artist/6UJ1HBEJnAZ1aVPlJZPf61), [kwn](https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb), [JADA](https://open.spotify.com/artist/0pjzTr41MwrNqnnQ3wuPzM) | [Wish Me Luck](https://open.spotify.com/album/57UGysEyFzO6F6PQLYKRjt) | 2:30 | 2022-02-18 |  |
 | [Isolate](https://open.spotify.com/track/1S53GdSL2ZmYb2JkYXPMcZ) | [TIBASKO](https://open.spotify.com/artist/6xq7g0E52yq4y8Op9X82Uo) | [Isolate](https://open.spotify.com/album/2q04hZi8qndzyhp6aGBwtv) | 4:03 | 2022-03-18 | 2022-07-29 |
@@ -140,6 +141,7 @@
 | [Parasols](https://open.spotify.com/track/3FhdZweci0BzetkWMwCdsV) | [Abimaro](https://open.spotify.com/artist/6ZrBzUQXpmwFpiUIlqSLbm) | [Parasols](https://open.spotify.com/album/5IbFg9og4jabk19txAM9Wp) | 3:00 | 2022-02-18 |  |
 | [Passenger](https://open.spotify.com/track/3E2fuhgEvnbE5HmnYCFOs0) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [Passenger](https://open.spotify.com/album/3erGHG8l977nwtLkLjhlMC) | 3:16 | 2022-02-18 |  |
 | [Passion Controller](https://open.spotify.com/track/5QoWB3fZCKdwWkKFagoFI4) | [Khazali](https://open.spotify.com/artist/4YrYwip7DToQ8tj6r7ZFVd) | [Passion Controller](https://open.spotify.com/album/43G6peF9DcpFseLV2b5KQL) | 2:52 | 2022-02-18 |  |
+| [Patience](https://open.spotify.com/track/2cvOJldcBkXgHfoXz5o8Ia) | [Aby Coulibaly](https://open.spotify.com/artist/1ZjJVQsxUHP7MKnZg8yE33) | [Patience](https://open.spotify.com/album/3m2l1MTpR221QpO9RByKrp) | 3:04 | 2023-05-18 |  |
 | [Patience \(feat\. Jorja Smith\)](https://open.spotify.com/track/5mEW1mq6KKEOO5rgHrepif) | [Wesley Joseph](https://open.spotify.com/artist/1uf6plWcu7QbKiASVlTUPa), [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Patience \(feat\. Jorja Smith\)](https://open.spotify.com/album/5kYQxc0ICdvP7ZS9OfR0i6) | 4:57 | 2022-02-18 |  |
 | [PBFF](https://open.spotify.com/track/6EyvkNx0su9PD8splN00kl) | [Tora\-i](https://open.spotify.com/artist/4oJsWKOJCNMfUbIpR2jk8Z) | [PBFF](https://open.spotify.com/album/6MbOTpj7i8XQU6DDEyTgCH) | 2:45 | 2022-10-06 |  |
 | [PBFF](https://open.spotify.com/track/6fs1giNt7VJabuEvZ4ybqM) | [Tora\-i](https://open.spotify.com/artist/4oJsWKOJCNMfUbIpR2jk8Z) | [PBFF](https://open.spotify.com/album/1PMpkPlvHMuzQiNNsc1qxr) | 2:45 | 2022-02-18 | 2022-10-13 |

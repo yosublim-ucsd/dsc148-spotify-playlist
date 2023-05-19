@@ -1,12 +1,12 @@
 {
   "description": "Jesus Music but make it pon pon.   Get your fill of Afrobeats and Bible right here!  Cover: Uwa",
-  "num_followers": 44365,
+  "num_followers": 44477,
   "original_name": "AfroGospel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjMDBlYWQ5YmM3OGUxYzE4MTlkZGEzZjg0MTM0MDQyODA3YmQ1MTNh",
+  "snapshot_id": "MCxhYmJiOTk1MDRlZGU5MDc1MzVmMGJlZmMyMDMzNDg0ZTE1Zjk5YmYy",
   "tracks": [
     {
       "added_at": "2023-02-10 10:09:36",
@@ -527,30 +527,6 @@
     {
       "added_at": "2023-02-10 10:09:36",
       "album": {
-        "name": "On God",
-        "url": "https://open.spotify.com/album/0bkjMkTNjaNsrk3ZGlDJi0"
-      },
-      "artists": [
-        {
-          "name": "Protek Illasheva",
-          "url": "https://open.spotify.com/artist/5E8DCdcnM0P7tHQP9CjXcP"
-        },
-        {
-          "name": "Limoblaze",
-          "url": "https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT"
-        },
-        {
-          "name": "Prinx Emmanuel",
-          "url": "https://open.spotify.com/artist/4HzpHfHz3EznjI4icnTvRz"
-        }
-      ],
-      "duration_ms": 224000,
-      "name": "On God",
-      "url": "https://open.spotify.com/track/00zAwgn33IzoqAhsng82nK"
-    },
-    {
-      "added_at": "2023-02-10 10:09:36",
-      "album": {
         "name": "Blessings",
         "url": "https://open.spotify.com/album/2IPCK9h2W6YKCs951ytlfA"
       },
@@ -571,6 +547,30 @@
       "duration_ms": 162569,
       "name": "Blessings",
       "url": "https://open.spotify.com/track/4uTANRdemxU9C40FrD9sHO"
+    },
+    {
+      "added_at": "2023-02-10 10:09:36",
+      "album": {
+        "name": "On God",
+        "url": "https://open.spotify.com/album/0bkjMkTNjaNsrk3ZGlDJi0"
+      },
+      "artists": [
+        {
+          "name": "Protek Illasheva",
+          "url": "https://open.spotify.com/artist/5E8DCdcnM0P7tHQP9CjXcP"
+        },
+        {
+          "name": "Limoblaze",
+          "url": "https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT"
+        },
+        {
+          "name": "Prinx Emmanuel",
+          "url": "https://open.spotify.com/artist/4HzpHfHz3EznjI4icnTvRz"
+        }
+      ],
+      "duration_ms": 224000,
+      "name": "On God",
+      "url": "https://open.spotify.com/track/00zAwgn33IzoqAhsng82nK"
     },
     {
       "added_at": "2023-02-10 10:09:36",
@@ -831,22 +831,6 @@
     {
       "added_at": "2023-02-10 10:09:36",
       "album": {
-        "name": "Yellow Soul",
-        "url": "https://open.spotify.com/album/0fCxrsjbDEipf1uTTjRZBd"
-      },
-      "artists": [
-        {
-          "name": "Malcolm Rue",
-          "url": "https://open.spotify.com/artist/22eqNziE8ta7JfDrEkUx8H"
-        }
-      ],
-      "duration_ms": 162000,
-      "name": "Yellow Soul",
-      "url": "https://open.spotify.com/track/0jrECMaT9BfIfvEHRvOn3h"
-    },
-    {
-      "added_at": "2023-02-10 10:09:36",
-      "album": {
         "name": "Unguilty Pleasure",
         "url": "https://open.spotify.com/album/6h3zsp0Lkb0z1tzXbzq4t0"
       },
@@ -863,6 +847,22 @@
       "duration_ms": 193398,
       "name": "Unguilty Pleasure",
       "url": "https://open.spotify.com/track/3CLg16dkjsA2vgcUieeDwU"
+    },
+    {
+      "added_at": "2023-02-10 10:09:36",
+      "album": {
+        "name": "Yellow Soul",
+        "url": "https://open.spotify.com/album/0fCxrsjbDEipf1uTTjRZBd"
+      },
+      "artists": [
+        {
+          "name": "Malcolm Rue",
+          "url": "https://open.spotify.com/artist/22eqNziE8ta7JfDrEkUx8H"
+        }
+      ],
+      "duration_ms": 162000,
+      "name": "Yellow Soul",
+      "url": "https://open.spotify.com/track/0jrECMaT9BfIfvEHRvOn3h"
     },
     {
       "added_at": "2023-02-10 10:09:36",
@@ -1179,6 +1179,30 @@
     {
       "added_at": "2023-02-10 10:09:36",
       "album": {
+        "name": "Your Love",
+        "url": "https://open.spotify.com/album/405dv35s3LkDWgWkim8qOs"
+      },
+      "artists": [
+        {
+          "name": "Shirlvin Desir",
+          "url": "https://open.spotify.com/artist/4Hbu64CrdG7DMOmKl57S0Y"
+        },
+        {
+          "name": "O'Tobi",
+          "url": "https://open.spotify.com/artist/1HYbCVkigoBdEuitGNANGW"
+        },
+        {
+          "name": "Maikon West",
+          "url": "https://open.spotify.com/artist/3QKJ7PXenJvvf1MiicgBIG"
+        }
+      ],
+      "duration_ms": 176788,
+      "name": "Your Love",
+      "url": "https://open.spotify.com/track/52MTPnKokoYtLQjpHLk9qZ"
+    },
+    {
+      "added_at": "2023-02-10 10:09:36",
+      "album": {
         "name": "Highly Favoured",
         "url": "https://open.spotify.com/album/5EG3FrFomhVsocyhiwkJYA"
       },
@@ -1215,30 +1239,6 @@
       "duration_ms": 176969,
       "name": "True Love",
       "url": "https://open.spotify.com/track/4bJfDj5FDY5cP1cndlE9Vj"
-    },
-    {
-      "added_at": "2023-02-10 10:09:36",
-      "album": {
-        "name": "Your Love",
-        "url": "https://open.spotify.com/album/405dv35s3LkDWgWkim8qOs"
-      },
-      "artists": [
-        {
-          "name": "Shirlvin Desir",
-          "url": "https://open.spotify.com/artist/4Hbu64CrdG7DMOmKl57S0Y"
-        },
-        {
-          "name": "O'Tobi",
-          "url": "https://open.spotify.com/artist/1HYbCVkigoBdEuitGNANGW"
-        },
-        {
-          "name": "Maikon West",
-          "url": "https://open.spotify.com/artist/3QKJ7PXenJvvf1MiicgBIG"
-        }
-      ],
-      "duration_ms": 176788,
-      "name": "Your Love",
-      "url": "https://open.spotify.com/track/52MTPnKokoYtLQjpHLk9qZ"
     },
     {
       "added_at": "2023-02-10 10:09:36",
@@ -1463,22 +1463,6 @@
     {
       "added_at": "2023-02-10 10:09:36",
       "album": {
-        "name": "Revival",
-        "url": "https://open.spotify.com/album/4hyljIq0owWSHloAOgk0ZJ"
-      },
-      "artists": [
-        {
-          "name": "SESS",
-          "url": "https://open.spotify.com/artist/339HZyD96hGNtsXM93tRip"
-        }
-      ],
-      "duration_ms": 155530,
-      "name": "Revival",
-      "url": "https://open.spotify.com/track/793voIfTFfhsQt5mFGm24o"
-    },
-    {
-      "added_at": "2023-02-10 10:09:36",
-      "album": {
         "name": "Right Now",
         "url": "https://open.spotify.com/album/5CbmcYrGCMQxHsN0V2cy1x"
       },
@@ -1495,6 +1479,22 @@
       "duration_ms": 134217,
       "name": "Right Now",
       "url": "https://open.spotify.com/track/6ExCacy2fhxX4dZjL0YPjf"
+    },
+    {
+      "added_at": "2023-02-10 10:09:36",
+      "album": {
+        "name": "Revival",
+        "url": "https://open.spotify.com/album/4hyljIq0owWSHloAOgk0ZJ"
+      },
+      "artists": [
+        {
+          "name": "SESS",
+          "url": "https://open.spotify.com/artist/339HZyD96hGNtsXM93tRip"
+        }
+      ],
+      "duration_ms": 155530,
+      "name": "Revival",
+      "url": "https://open.spotify.com/track/793voIfTFfhsQt5mFGm24o"
     },
     {
       "added_at": "2023-02-10 10:09:36",
@@ -1551,6 +1551,26 @@
     {
       "added_at": "2023-02-10 10:09:36",
       "album": {
+        "name": "Blessings",
+        "url": "https://open.spotify.com/album/05vAjr5Ya7OdDuivg8xHk6"
+      },
+      "artists": [
+        {
+          "name": "Omojo",
+          "url": "https://open.spotify.com/artist/4RCjw7JlxYqW7jUHCO4QgC"
+        },
+        {
+          "name": "Nolly",
+          "url": "https://open.spotify.com/artist/1qDxmgIV0aTR4QGRL4zXWM"
+        }
+      ],
+      "duration_ms": 184111,
+      "name": "Blessings",
+      "url": "https://open.spotify.com/track/4RQmD3QilYPTo0rL9SctoW"
+    },
+    {
+      "added_at": "2023-02-10 10:09:36",
+      "album": {
         "name": "Lotta Things",
         "url": "https://open.spotify.com/album/6psz7fSrqECBaL6feOB8b5"
       },
@@ -1563,30 +1583,6 @@
       "duration_ms": 156500,
       "name": "Lotta Things",
       "url": "https://open.spotify.com/track/190mAgySPlWSbOZd5kLlyq"
-    },
-    {
-      "added_at": "2023-02-10 10:09:36",
-      "album": {
-        "name": "Jo",
-        "url": "https://open.spotify.com/album/1SOZ93jmZqYyS9GNu0COEr"
-      },
-      "artists": [
-        {
-          "name": "Kojo Dave",
-          "url": "https://open.spotify.com/artist/2SjA4XyWd56a9VEfOoXrce"
-        },
-        {
-          "name": "24ldz",
-          "url": "https://open.spotify.com/artist/25otQtaZjbQieePYfYNLrg"
-        },
-        {
-          "name": "Rehmahz",
-          "url": "https://open.spotify.com/artist/2n4Cjxgsst568zKdsmsEnY"
-        }
-      ],
-      "duration_ms": 150857,
-      "name": "Jo",
-      "url": "https://open.spotify.com/track/0uJbjemXz5f4n9dxu3Nn8H"
     }
   ],
   "unique_name": "AfroGospel",

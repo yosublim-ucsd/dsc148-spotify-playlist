@@ -70,7 +70,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 121072,
       "name": "A Sailor Went To Sea",
       "url": "https://open.spotify.com/track/6QaXlu332fGX6nL1GDv8G7"
@@ -88,7 +88,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 188702,
       "name": "A Waltz For a King",
       "url": "https://open.spotify.com/track/3l4zbS4lRIdRVbq0mavDZt"
@@ -880,7 +880,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 126418,
       "name": "Danny Boy",
       "url": "https://open.spotify.com/track/4ZQLfom7VIzjZRTqpOvwgj"
@@ -916,10 +916,28 @@
       ],
       "date_added": "2021-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 224000,
       "name": "Det ga\u030atfulla folket",
       "url": "https://open.spotify.com/track/3LJaPZaJQMDAPd4NWZMnU9"
+    },
+    {
+      "album": {
+        "name": "Diamonds",
+        "url": "https://open.spotify.com/album/3fteKDZUgA53fBtAXYHKcy"
+      },
+      "artists": [
+        {
+          "name": "Fei Kura",
+          "url": "https://open.spotify.com/artist/5Gs7KAVWa4xqgvsJZpu0jI"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 65339,
+      "name": "Diamonds",
+      "url": "https://open.spotify.com/track/7JwZYwycgfelBvuhPCZOpD"
     },
     {
       "album": {
@@ -1064,6 +1082,24 @@
       "duration_ms": 122560,
       "name": "Down by the Salley Gardens - Guitar Instrumental",
       "url": "https://open.spotify.com/track/4Snme5oNjpZp0IujKRtodX"
+    },
+    {
+      "album": {
+        "name": "Dream of the Firefly",
+        "url": "https://open.spotify.com/album/1cGsY2Ja3WAgmZyhhPXRA4"
+      },
+      "artists": [
+        {
+          "name": "Izakaru",
+          "url": "https://open.spotify.com/artist/3EEBU8BY4dEYy9XrzIALCq"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 80697,
+      "name": "Dream of the Firefly",
+      "url": "https://open.spotify.com/track/3oVKpGD8VrYXpZ1Q8u4meu"
     },
     {
       "album": {
@@ -1499,6 +1535,24 @@
     },
     {
       "album": {
+        "name": "Goodnight Sweetheart Goodnight",
+        "url": "https://open.spotify.com/album/2OO9vocjFJCDKbSEXUR2BT"
+      },
+      "artists": [
+        {
+          "name": "Ned Regan",
+          "url": "https://open.spotify.com/artist/1WVNg1rcSuKeCaCPGNDO1Y"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116390,
+      "name": "Goodnight Sweetheart Goodnight",
+      "url": "https://open.spotify.com/track/6aSIzLuudxibkJ2tThjrRW"
+    },
+    {
+      "album": {
         "name": "Guitar Lullabies",
         "url": "https://open.spotify.com/album/7CVnDVNrvyiavRMUseE7ZM"
       },
@@ -1705,6 +1759,24 @@
     },
     {
       "album": {
+        "name": "I Gave my Love a Cherry",
+        "url": "https://open.spotify.com/album/39h04qkVfRj1wRNcDEgF2J"
+      },
+      "artists": [
+        {
+          "name": "Rex Miller",
+          "url": "https://open.spotify.com/artist/2p9DbVZjPWxDe9o716M43d"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 102889,
+      "name": "I Gave my Love a Cherry",
+      "url": "https://open.spotify.com/track/3KaA1A8cvZsQQugNj8eQDg"
+    },
+    {
+      "album": {
         "name": "I Have Secret Wings",
         "url": "https://open.spotify.com/album/6ZBGnOng0nwtcIbJWkO9Rz"
       },
@@ -1741,6 +1813,24 @@
     },
     {
       "album": {
+        "name": "I Like It Here",
+        "url": "https://open.spotify.com/album/08CrMpzfHPf7bJ3YJIUEoZ"
+      },
+      "artists": [
+        {
+          "name": "Enzo La Mattina",
+          "url": "https://open.spotify.com/artist/6z7U7lNXziQtlaVlWbfJa9"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 87195,
+      "name": "I Like It Here",
+      "url": "https://open.spotify.com/track/5H7xUTZ4SMfb029uJFhmHE"
+    },
+    {
+      "album": {
         "name": "I Stay Until You Sleep",
         "url": "https://open.spotify.com/album/137c1tSYODEXlIFdAOebp3"
       },
@@ -1774,6 +1864,24 @@
       "duration_ms": 97659,
       "name": "I trollskogen",
       "url": "https://open.spotify.com/track/5kz2PDCQ8kTkSyT3jhZdn8"
+    },
+    {
+      "album": {
+        "name": "I Wish Tonight",
+        "url": "https://open.spotify.com/album/7jalRpXTMCrJWixGjq13I4"
+      },
+      "artists": [
+        {
+          "name": "Brie Michelle",
+          "url": "https://open.spotify.com/artist/4cmtHcvJeFJIYBNXVmRzGz"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 65015,
+      "name": "I Wish Tonight",
+      "url": "https://open.spotify.com/track/2vHUbaMy2n8XgPIYzrsaeK"
     },
     {
       "album": {
@@ -1914,7 +2022,7 @@
       ],
       "date_added": "2021-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 128824,
       "name": "It's Time To Go To Sleep",
       "url": "https://open.spotify.com/track/0MODSghjQ1qBiy9mP5EoLm"
@@ -2083,6 +2191,24 @@
     },
     {
       "album": {
+        "name": "Le Fiacre (Guitar Version)",
+        "url": "https://open.spotify.com/album/4ymz79UOyQjqwCHyE8oUw2"
+      },
+      "artists": [
+        {
+          "name": "Ani Ander",
+          "url": "https://open.spotify.com/artist/4tgweMpFuTmUl1mXLTgb4W"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121125,
+      "name": "Le Fiacre - Guitar Version",
+      "url": "https://open.spotify.com/track/6CUY3d2PJhIzR2V6MNkoSf"
+    },
+    {
+      "album": {
         "name": "Lego Lego",
         "url": "https://open.spotify.com/album/5E1XwidizfIascTQ6PqgqR"
       },
@@ -2224,6 +2350,24 @@
       "duration_ms": 194513,
       "name": "Lovely Nights",
       "url": "https://open.spotify.com/track/5j0DGm5INBjsEAAFKq8zHd"
+    },
+    {
+      "album": {
+        "name": "Lullaby",
+        "url": "https://open.spotify.com/album/14Y2D0sr08qbcfTSc7SqAD"
+      },
+      "artists": [
+        {
+          "name": "Jeff Paul",
+          "url": "https://open.spotify.com/artist/6wlWoM5FRXLtNgl04EkZyN"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 96880,
+      "name": "Lullaby",
+      "url": "https://open.spotify.com/track/5jb2MPiH6lqe91EbqUa5Zi"
     },
     {
       "album": {
@@ -2718,7 +2862,7 @@
       ],
       "date_added": "2021-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 116097,
       "name": "Pillows",
       "url": "https://open.spotify.com/track/22eWMP9QXnJSVcLpKCxl1w"
@@ -2797,6 +2941,24 @@
     },
     {
       "album": {
+        "name": "Rainbow",
+        "url": "https://open.spotify.com/album/3d6NOgTphkJbxHNtBtPyT5"
+      },
+      "artists": [
+        {
+          "name": "Lucas Morel",
+          "url": "https://open.spotify.com/artist/5qmQ7yN4yUtz77k2JhY3Mu"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 75580,
+      "name": "Rainbow",
+      "url": "https://open.spotify.com/track/1rSleLhjhHJj2H89tgA7rN"
+    },
+    {
+      "album": {
         "name": "Ring Around The Rosie",
         "url": "https://open.spotify.com/album/0RbeqCPbK4vxnzrZNDrzMa"
       },
@@ -2833,6 +2995,24 @@
     },
     {
       "album": {
+        "name": "Row Row Row Your Boat",
+        "url": "https://open.spotify.com/album/1PvHQyoli2uqfZ2wS8YpO9"
+      },
+      "artists": [
+        {
+          "name": "Alby Graham",
+          "url": "https://open.spotify.com/artist/6290bXO73fADsTGqEn7UGM"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 109652,
+      "name": "Row Row Row Your Boat",
+      "url": "https://open.spotify.com/track/2182KvEnqJQ6YfTmobpXwI"
+    },
+    {
+      "album": {
         "name": "Fr\u00e8re Jacques",
         "url": "https://open.spotify.com/album/0yDbIhI2acYzofgV3AH2go"
       },
@@ -2844,7 +3024,7 @@
       ],
       "date_added": "2022-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 132644,
       "name": "Row Row Row Your Boat",
       "url": "https://open.spotify.com/track/47PMzPN17D3fj1V3tAayDD"
@@ -3168,7 +3348,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 154197,
       "name": "Sov Gott Lilla Du",
       "url": "https://open.spotify.com/track/6Jc4rjVbDT7hbCvniUUnnH"
@@ -3193,6 +3373,24 @@
     },
     {
       "album": {
+        "name": "Star Light, Star Bright",
+        "url": "https://open.spotify.com/album/4tAfJtrMopxQiLpPFWEnes"
+      },
+      "artists": [
+        {
+          "name": "Luis Diseminado",
+          "url": "https://open.spotify.com/artist/7HxrZhLg59A2fZKgDWbebz"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117250,
+      "name": "Star Light, Star Bright",
+      "url": "https://open.spotify.com/track/18NPykyiopBb8OczHCMlOh"
+    },
+    {
+      "album": {
         "name": "Stars at Night",
         "url": "https://open.spotify.com/album/3MQuWn9w5Vqv0AjrLNnsCP"
       },
@@ -3208,6 +3406,24 @@
       "duration_ms": 102350,
       "name": "Stars at Night",
       "url": "https://open.spotify.com/track/4ItX9mxGkbuwNo4TwNhTMF"
+    },
+    {
+      "album": {
+        "name": "Stay Here",
+        "url": "https://open.spotify.com/album/20E7i2ZJOwdOCJKPgvdkam"
+      },
+      "artists": [
+        {
+          "name": "Mimmi East",
+          "url": "https://open.spotify.com/artist/5JD1k7FiD0YmTS7Xcv3RF6"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 93468,
+      "name": "Stay Here",
+      "url": "https://open.spotify.com/track/7ljhjaPhgwQc0nW9GecxAq"
     },
     {
       "album": {
@@ -3460,6 +3676,24 @@
       "duration_ms": 126521,
       "name": "The Wheels On The Bus",
       "url": "https://open.spotify.com/track/7IpF6HgZeSeQ4VS3fxbqxw"
+    },
+    {
+      "album": {
+        "name": "The Wooden Boat",
+        "url": "https://open.spotify.com/album/2Rj5uDGfVr7Ey6McZH0YGL"
+      },
+      "artists": [
+        {
+          "name": "Richard Moore",
+          "url": "https://open.spotify.com/artist/7LZONuTYEizh7Bv5NgCTNA"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139761,
+      "name": "The Wooden Boat",
+      "url": "https://open.spotify.com/track/40NTbA5i01HrmuSvqjdfJ8"
     },
     {
       "album": {

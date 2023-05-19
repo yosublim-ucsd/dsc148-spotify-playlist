@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-28",
-  "description": "Hottest indie sounds & the best new tracks from Asia. Cover: a kid named rufus",
+  "description": "Hottest indie sounds & the best new tracks from Asia. Cover: Cornelius",
   "name": ".ORG",
   "tracks": [
     {
@@ -533,6 +533,24 @@
     },
     {
       "album": {
+        "name": "Sooner or Later",
+        "url": "https://open.spotify.com/album/3KoCj5WIT671pWd0iZicua"
+      },
+      "artists": [
+        {
+          "name": "TANJUNG",
+          "url": "https://open.spotify.com/artist/3ak1W9Pqd8qzBllVATA3Du"
+        }
+      ],
+      "date_added": "2023-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209817,
+      "name": "Always",
+      "url": "https://open.spotify.com/track/6T6nYHiFkFcy7XR6FD6B3K"
+    },
+    {
+      "album": {
         "name": "Am I Overthinking This?",
         "url": "https://open.spotify.com/album/54UsiUkSKRfIkSc7qPAhn1"
       },
@@ -808,6 +826,24 @@
       "duration_ms": 168920,
       "name": "Away",
       "url": "https://open.spotify.com/track/1m6OZWfg2jwtaoxh6QBXCv"
+    },
+    {
+      "album": {
+        "name": "away.",
+        "url": "https://open.spotify.com/album/1wITTkeUkrbiseKv0eVGec"
+      },
+      "artists": [
+        {
+          "name": "lost spaces",
+          "url": "https://open.spotify.com/artist/387YZVajWRq3ZPiCxiX07b"
+        }
+      ],
+      "date_added": "2023-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205932,
+      "name": "away.",
+      "url": "https://open.spotify.com/track/6CbW8W2qUm29j8cuqjO8qF"
     },
     {
       "album": {
@@ -1418,6 +1454,28 @@
       "duration_ms": 181000,
       "name": "BLOOM",
       "url": "https://open.spotify.com/track/4S5emjYAq0EGh9PUCQXD0X"
+    },
+    {
+      "album": {
+        "name": "The Way That Lovers Do (Deluxe)",
+        "url": "https://open.spotify.com/album/6C2VRR7GTljLTkakd8EZ1N"
+      },
+      "artists": [
+        {
+          "name": "Prateek Kuhad",
+          "url": "https://open.spotify.com/artist/0tC995Rfn9k2l7nqgCZsV7"
+        },
+        {
+          "name": "Raveena",
+          "url": "https://open.spotify.com/artist/2kQnsbKnIiMahOetwlfcaS"
+        }
+      ],
+      "date_added": "2023-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221005,
+      "name": "Bloom (feat. Raveena)",
+      "url": "https://open.spotify.com/track/5dwzLRsxlFK7RhULlsSROb"
     },
     {
       "album": {
@@ -2322,6 +2380,24 @@
       "duration_ms": 152368,
       "name": "Coffee or tea",
       "url": "https://open.spotify.com/track/05dIejxjljs2szxWX3PKLV"
+    },
+    {
+      "album": {
+        "name": "Selected Works of Saint Stephen, Vol. 1",
+        "url": "https://open.spotify.com/album/7Hd8fzPhXBP8lma2Nk0ibO"
+      },
+      "artists": [
+        {
+          "name": "Saint Stephen",
+          "url": "https://open.spotify.com/artist/1ESESjL45Dmn3UvZn35i7p"
+        }
+      ],
+      "date_added": "2023-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264415,
+      "name": "Cold At Dusk (July)",
+      "url": "https://open.spotify.com/track/2nlaWl03x65DA2PBzwzv2p"
     },
     {
       "album": {
@@ -3708,7 +3784,7 @@
       ],
       "date_added": "2023-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 256500,
       "name": "Everywhere",
       "url": "https://open.spotify.com/track/34OGRSpcQOAHsK4pSolDX1"
@@ -4020,7 +4096,7 @@
       ],
       "date_added": "2023-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 221142,
       "name": "fickle.minds",
       "url": "https://open.spotify.com/track/3cId3F7pcKzkrCBMpBcaIz"
@@ -4478,7 +4554,7 @@
       ],
       "date_added": "2023-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 212357,
       "name": "Get Up",
       "url": "https://open.spotify.com/track/0NiDg4RY2CmZnwAJd8Bbw6"
@@ -5817,6 +5893,24 @@
     },
     {
       "album": {
+        "name": "L\u01b0u T\u00e2m: Heartbreak Archives",
+        "url": "https://open.spotify.com/album/6ykehnpkV6DptgdEzujrGn"
+      },
+      "artists": [
+        {
+          "name": "Bluemore",
+          "url": "https://open.spotify.com/artist/75dtyO5RVT24cMXih0hui6"
+        }
+      ],
+      "date_added": "2023-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198857,
+      "name": "I'll Be There",
+      "url": "https://open.spotify.com/track/7KP3Yq0q2mPQEHA5CC3iTU"
+    },
+    {
+      "album": {
         "name": "I'm An Artiste",
         "url": "https://open.spotify.com/album/0aW6jBFPOBDKqZXkrzs49e"
       },
@@ -6502,7 +6596,7 @@
       ],
       "date_added": "2023-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 199886,
       "name": "KALA",
       "url": "https://open.spotify.com/track/45oVbRMfv2I5ICtCI6jfPW"
@@ -9116,7 +9210,7 @@
       ],
       "date_added": "2023-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 174165,
       "name": "Pastrami",
       "url": "https://open.spotify.com/track/4GiTNaoSYL0jRmRLBQ9Y0O"
@@ -9763,7 +9857,7 @@
     },
     {
       "album": {
-        "name": "Rockstar (TELEx TELEXs Remix)",
+        "name": "Rockstar",
         "url": "https://open.spotify.com/album/2Meg43BBcqFj6CfjMNawcq"
       },
       "artists": [
@@ -10118,6 +10212,24 @@
       "duration_ms": 283500,
       "name": "Secret",
       "url": "https://open.spotify.com/track/2Rh1kYN9pPDzedA1UTtJsR"
+    },
+    {
+      "album": {
+        "name": "Seeking For Connection",
+        "url": "https://open.spotify.com/album/0mhtW9uXg47fTa35fFk72C"
+      },
+      "artists": [
+        {
+          "name": "FIG",
+          "url": "https://open.spotify.com/artist/2pKRCZKuL3p3PDWMNCLAH8"
+        }
+      ],
+      "date_added": "2023-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174285,
+      "name": "Seeking For Connection",
+      "url": "https://open.spotify.com/track/02lOqWWFVJ03uEf80YDrrk"
     },
     {
       "album": {
@@ -10548,7 +10660,7 @@
       ],
       "date_added": "2023-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 222000,
       "name": "Something About You and Me",
       "url": "https://open.spotify.com/track/6ZqGNMqd1fjv6NDOETJui8"
@@ -10794,7 +10906,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 166187,
       "name": "Stationary Bike",
       "url": "https://open.spotify.com/track/6VRvc0MJnGEoxBJJE81iyM"
@@ -12060,7 +12172,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 251573,
       "name": "Uneven",
       "url": "https://open.spotify.com/track/352StnCiFEF6hqe3eR791o"
@@ -13161,6 +13273,24 @@
     },
     {
       "album": {
+        "name": "XOXO",
+        "url": "https://open.spotify.com/album/6NOpCPMMhjM3yx9HzPeRuU"
+      },
+      "artists": [
+        {
+          "name": "KIKI",
+          "url": "https://open.spotify.com/artist/6MG7fjH9YBryqLT03MnwQM"
+        }
+      ],
+      "date_added": "2023-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221473,
+      "name": "XOXO",
+      "url": "https://open.spotify.com/track/556gAhB2GfQeqOrJPGh0Hf"
+    },
+    {
+      "album": {
         "name": "Xylo (Shouldn't Have Called It)",
         "url": "https://open.spotify.com/album/2hBDHksfKvzXLbPAFY6BrM"
       },
@@ -13248,7 +13378,7 @@
       ],
       "date_added": "2023-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 225600,
       "name": "You Warned Me",
       "url": "https://open.spotify.com/track/4snAXuSiQjsNYoF8j9M6ng"
@@ -14466,6 +14596,24 @@
       "duration_ms": 191484,
       "name": "\u6c92\u95dc\u4fc2 it\u2019s okay!!",
       "url": "https://open.spotify.com/track/122EWWcqtd2vN1iiT560bO"
+    },
+    {
+      "album": {
+        "name": "\u706b\u82b1",
+        "url": "https://open.spotify.com/album/34vNCbkf9QMHciPKAbTN7s"
+      },
+      "artists": [
+        {
+          "name": "Cornelius",
+          "url": "https://open.spotify.com/artist/2vJObElaIZWYDLpiXiJMo9"
+        }
+      ],
+      "date_added": "2023-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263331,
+      "name": "\u706b\u82b1",
+      "url": "https://open.spotify.com/track/05WKrnPYwjdG0Mj9kcoMe3"
     },
     {
       "album": {

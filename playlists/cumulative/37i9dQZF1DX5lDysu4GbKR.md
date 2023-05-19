@@ -4,7 +4,7 @@
 
 > Relax to these acoustic soul songs\. Cover: Jacob Banks
 
-181 songs - 10 hr 54 min
+183 songs - 11 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -69,7 +69,7 @@
 | [Good Job](https://open.spotify.com/track/3qHo2MASEJ79lbJcaDvhRE) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [ALICIA](https://open.spotify.com/album/1168pCxg0HeTRqyutFf4o1) | 3:53 | 2022-06-16 |  |
 | [Good Man Down](https://open.spotify.com/track/4c6m1Y1P5xTmvtwAkSZnKM) | [Common Hymnal](https://open.spotify.com/artist/1q6xQXmuTccwh7gBR7ToUN), [Phillip Joubert](https://open.spotify.com/artist/10Nt11FgrmhaSSoiol0JSW), [Quincy Rycraw Cochran](https://open.spotify.com/artist/3LML6dNnnQ6CZCnWm03kNk) | [Unproduced @ Pink Moon](https://open.spotify.com/album/0jpljAh1Ge8WspLPUXSSlK) | 3:40 | 2023-02-22 |  |
 | [Good Things Fall Apart](https://open.spotify.com/track/5dIvHAv8t9d42b6lAO53K5) | [Rhonda](https://open.spotify.com/artist/1pqbZX6kOvaCi5IEd9zFkG) | [Good Things Fall Apart](https://open.spotify.com/album/10PQIbXGnyO4DKajt4iLx3) | 4:08 | 2022-12-15 |  |
-| [Grow \- Live acoustic at Concertgebouw Amsterdam](https://open.spotify.com/track/75vCjMFYcbmTsnXR1zSXVp) | [Jeangu Macrooy](https://open.spotify.com/artist/3t9HafA5eFHM992s4GZ0Gr) | [Grow \(Live\)](https://open.spotify.com/album/5lK4gRbDz3bjZTMY8alRZa) | 3:20 | 2021-12-09 |  |
+| [Grow \- Live acoustic at Concertgebouw Amsterdam](https://open.spotify.com/track/75vCjMFYcbmTsnXR1zSXVp) | [Jeangu Macrooy](https://open.spotify.com/artist/3t9HafA5eFHM992s4GZ0Gr) | [Grow \(Live\)](https://open.spotify.com/album/5lK4gRbDz3bjZTMY8alRZa) | 3:20 | 2021-12-09 | 2023-05-19 |
 | [Here Before](https://open.spotify.com/track/1GRop5Dgbsq0X0zq9jy3R9) | [TEEKS](https://open.spotify.com/artist/4ofg0wyo4TjuNtWQ5XxZhJ) | [Something To Feel](https://open.spotify.com/album/4vB6GN9VFxZU1mtBYlc3Ph) | 4:29 | 2022-06-16 |  |
 | [Here Before](https://open.spotify.com/track/2G2qENlHGYoYTRvGz7rMiV) | [TEEKS](https://open.spotify.com/artist/4ofg0wyo4TjuNtWQ5XxZhJ) | [II](https://open.spotify.com/album/1kuGSLgkcjZV9idGLT4AkQ) | 4:29 | 2021-12-09 | 2022-07-29 |
 | [Here Before](https://open.spotify.com/track/4NVDb2IBFPZaM2YgIaQQKC) | [TEEKS](https://open.spotify.com/artist/4ofg0wyo4TjuNtWQ5XxZhJ) | [Something To Feel](https://open.spotify.com/album/39MCSCwQlqT6xm28UpGz39) | 4:29 | 2022-11-03 | 2022-11-13 |
@@ -100,6 +100,7 @@
 | [Kool Aid \- Acoustic](https://open.spotify.com/track/6GLWJ3RSJvWjtYV9b97pW4) | [Sam Wills](https://open.spotify.com/artist/7JFinw4LobpCUjapyKvsjo) | [Kool Aid \(Acoustic\)](https://open.spotify.com/album/5Tz504v4T99RM3I6Plh6AJ) | 3:21 | 2021-12-09 | 2022-01-14 |
 | [Land Of Possibilities \- Live at Bitterzoet](https://open.spotify.com/track/7Kh1vJGY0z3BCfDKsgpkAm) | [Lorrèn](https://open.spotify.com/artist/6VL1YDd4vftDH5vkCbufxG) | [Live in Concert](https://open.spotify.com/album/3Dfg8TnkdNHm1WdPEW64Vh) | 5:23 | 2022-10-14 | 2023-04-09 |
 | [Learn to Love](https://open.spotify.com/track/3taKjGFvma0IwV5GmLsLDd) | [Sabrina Starke](https://open.spotify.com/artist/1wTUsxee6HtnB6Z6QiUCub) | [Learn to Love](https://open.spotify.com/album/2g7lu7csvYm3EtX1hwtVgo) | 3:45 | 2021-12-09 |  |
+| [Let me try](https://open.spotify.com/track/5B03trWqCi0dq7ruTExON6) | [Jamily](https://open.spotify.com/artist/1fpS9LTjDGsrgLEk178EQp) | [Let me try](https://open.spotify.com/album/0L4g58JHTkcVFZAkAB5rsE) | 3:55 | 2023-05-18 |  |
 | [Life Isn't](https://open.spotify.com/track/7egUjKB05V8pIekCXjM8w0) | [Mychelle](https://open.spotify.com/artist/2JXmEUolvdLFZc1PoLGC71) | [Closure](https://open.spotify.com/album/4QyVeRyB2xpep4W2WuBwJ4) | 4:39 | 2021-12-09 |  |
 | [Lift Me Again \- Acoustic](https://open.spotify.com/track/0Zbq6RYkNYNjjWMpGeXLXv) | [AHI](https://open.spotify.com/artist/08Uextujt6ZT2iQmSYAJfH) | [Lift Me Again \(Acoustic\)](https://open.spotify.com/album/6TzaybZjKwUT66xT15yhWR) | 3:36 | 2022-04-14 |  |
 | [Like I Want You \- Acoustic](https://open.spotify.com/track/0qXu4pFQSIwkfTUgkE6WzF) | [Giveon](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [Spotify Singles](https://open.spotify.com/album/7pfQDManhpjhxwqps9cveA) | 3:05 | 2021-12-09 |  |
@@ -119,7 +120,7 @@
 | [Mistake](https://open.spotify.com/track/38bzNP9KHaTeaG4EwdOLf9) | [Jaz Karis](https://open.spotify.com/artist/4rDcfb3TEWyx0BKdzKG24I) | [Mistake](https://open.spotify.com/album/06NA82WXFGl8FONIcKRAGD) | 3:06 | 2021-12-09 | 2023-04-13 |
 | [Mistake](https://open.spotify.com/track/4weUiA7GoG1c49Qhi7L3wo) | [Jaz Karis](https://open.spotify.com/artist/4rDcfb3TEWyx0BKdzKG24I) | [Mistake](https://open.spotify.com/album/52XTidxLxkZaIeWTzT3Hbx) | 3:06 | 2023-04-07 |  |
 | [my dear](https://open.spotify.com/track/3P9FzuL9eYOX152OFt4Rni) | [SOLOMON](https://open.spotify.com/artist/4Vw9AVIUyOYmwYYX54uRM4) | [my dear](https://open.spotify.com/album/3jxlj4H0Cu6PGgTtu60baC) | 2:12 | 2022-03-24 | 2022-10-13 |
-| [my dear](https://open.spotify.com/track/6gt1hp6vmwR45wC67Zu4rx) | [SOLOMON](https://open.spotify.com/artist/4Vw9AVIUyOYmwYYX54uRM4) | [my dear](https://open.spotify.com/album/5oJXHbrcbTpww5UMaBMXFC) | 2:12 | 2022-09-29 |  |
+| [my dear](https://open.spotify.com/track/6gt1hp6vmwR45wC67Zu4rx) | [SOLOMON](https://open.spotify.com/artist/4Vw9AVIUyOYmwYYX54uRM4) | [my dear](https://open.spotify.com/album/5oJXHbrcbTpww5UMaBMXFC) | 2:12 | 2022-09-29 | 2023-05-19 |
 | [Myself](https://open.spotify.com/track/0bLbPaF1ep7eVCEVemvYeV) | [Marvin Brooks](https://open.spotify.com/artist/2sAw6jGqa4He0kki8mXmU6) | [Myself](https://open.spotify.com/album/70ovgYVVme5Lu3wY16ISNs) | 2:49 | 2022-06-16 | 2022-10-13 |
 | [Myself](https://open.spotify.com/track/2T4f9d9bO2rIZUVS5ZJnT8) | [Marvin Brooks](https://open.spotify.com/artist/2sAw6jGqa4He0kki8mXmU6) | [Myself](https://open.spotify.com/album/0Cc8lcgSAIfCXazniLOFCc) | 2:49 | 2022-09-29 |  |
 | [Next To You \- Acoustic version](https://open.spotify.com/track/5pid4PH5JuHZILuJtPBunP) | [Ben L'Oncle Soul](https://open.spotify.com/artist/2dJTa3mUidZAO9sKcY72tK) | [Next To You \(Acoustic version\)](https://open.spotify.com/album/1mdBhSCSWMMvsWetFgKrnU) | 3:53 | 2021-12-09 | 2022-02-10 |
@@ -147,6 +148,7 @@
 | [Rise Up](https://open.spotify.com/track/1EgqV6SBNDEY1kspPMiUby) | [Ady Suleiman](https://open.spotify.com/artist/5LuLeXlnT2jFxbx7Cg7j88) | [Acoustic](https://open.spotify.com/album/3p79KkShcFlvO27bMljNfT) | 5:55 | 2021-12-09 | 2023-04-09 |
 | [Roses and Gold \- Acoustic](https://open.spotify.com/track/2m7PqOKf3rbgxDIvuwtZvH) | [Biig Piig](https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M) | [Roses and Gold \(Acoustic\)](https://open.spotify.com/album/5PIpeGQr7KIiFPzn5VYZdx) | 3:49 | 2021-12-09 | 2022-01-26 |
 | [Royal Cologne](https://open.spotify.com/track/1Ms9FqdbzWzDkv6KSJE10U) | [Kyara Shereen](https://open.spotify.com/artist/2xtnBW8NATpAS0zySpH23Q), [This is Lema](https://open.spotify.com/artist/6xukNNXDc47oIMHVZR5SQv) | [Royal Cologne](https://open.spotify.com/album/4FTJg1p495RegTI5viSwQr) | 3:56 | 2021-12-09 |  |
+| [Run Away \(Acoustic\)](https://open.spotify.com/track/76qFHkFLDTtjD4k52SFrfA) | [Moonchild](https://open.spotify.com/artist/1VgjAK52kjkQJQQRhTn02t) | [Run Away \(Acoustic\)](https://open.spotify.com/album/4Ldv9EEgRkugkJq2eB7Q2k) | 3:32 | 2023-05-18 |  |
 | [Runaway](https://open.spotify.com/track/2djLuf0US0tAhZQqGHF8Q2) | [KWAYE](https://open.spotify.com/artist/5dIssYf7lu8wufkQywN9WJ) | [Runaway](https://open.spotify.com/album/0N21fqUh7pnxP1BmPBctTc) | 5:08 | 2021-12-09 |  |
 | [Save You](https://open.spotify.com/track/4gGjys9urpojUMJboFI9xk) | [rum.gold](https://open.spotify.com/artist/4mErKO4g29SXtBwj4S80aB) | [aiMless](https://open.spotify.com/album/4l165PoCFHBzfg88mpC68n) | 3:43 | 2021-12-09 |  |
 | [Say So \- Acoustic Version](https://open.spotify.com/track/39xeg5Cq23RJMNnXs2A4Mf) | [PJ Morton](https://open.spotify.com/artist/2FMOHE79X98yptp4RpPrt7), [JoJo](https://open.spotify.com/artist/5xuNBZoM7z1Vv8IQ6uM0p6) | [The Piano Album](https://open.spotify.com/album/3pjx1tSQJ60Zk1drGGf3RW) | 3:57 | 2021-12-09 | 2023-04-09 |

@@ -4,7 +4,7 @@
 
 > The greatest Alternative Rock songs through the decades\. Cover: The Killers
 
-386 songs - 1 day 0 hr 40 min
+387 songs - 1 day 0 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -122,7 +122,7 @@
 | [Fell In Love With A Girl](https://open.spotify.com/track/33ytgjBqchYHhhRfKWMCvH) | [The White Stripes](https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70) | [White Blood Cells](https://open.spotify.com/album/6ivqUxtSPTljd9Frfdyxbg) | 1:50 | 2020-07-23 | 2022-07-29 |
 | [Fell In Love With a Girl](https://open.spotify.com/track/2fymCrgE8PRWqr6VOtmSvx) | [The White Stripes](https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70) | [Fell in Love with a Girl](https://open.spotify.com/album/3OxTiR9m0tSOGvlBJ308Vn) | 1:51 | 2022-05-30 | 2022-11-13 |
 | [Figure It Out](https://open.spotify.com/track/6V0A3jkb9ntudO0kmcJ1xd) | [Royal Blood](https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15) | [Royal Blood](https://open.spotify.com/album/76fT51C9WtCgCcRJlt3PnG) | 3:03 | 2020-07-23 |  |
-| [Fire](https://open.spotify.com/track/7K2vo9oSUzFgmtIXNYegzP) | [Kasabian](https://open.spotify.com/artist/11wRdbnoYqRddKBrpHt4Ue) | [Fire](https://open.spotify.com/album/4o3dOaZVQ56I9YdmUarlDR) | 4:11 | 2020-07-23 |  |
+| [Fire](https://open.spotify.com/track/7K2vo9oSUzFgmtIXNYegzP) | [Kasabian](https://open.spotify.com/artist/11wRdbnoYqRddKBrpHt4Ue) | [Fire](https://open.spotify.com/album/4o3dOaZVQ56I9YdmUarlDR) | 4:11 | 2020-07-23 | 2023-05-19 |
 | [Fire](https://open.spotify.com/track/0Ln5tJyLX5qusquBOtq7wf) | [Kasabian](https://open.spotify.com/artist/11wRdbnoYqRddKBrpHt4Ue) | [West Ryder Pauper Lunatic Asylum](https://open.spotify.com/album/2DHGeuRTttjurZDb0pSjx6) | 4:12 | 2022-05-30 | 2022-11-28 |
 | [First](https://open.spotify.com/track/3omXshBamrREltcf24gYDC) | [Cold War Kids](https://open.spotify.com/artist/6VDdCwrBM4qQaGxoAyxyJC) | [Hold My Home](https://open.spotify.com/album/2H09itV5a5yUcGyk9u9HwY) | 3:20 | 2020-07-23 |  |
 | [Float On](https://open.spotify.com/track/2lwwrWVKdf3LR9lbbhnr6R) | [Modest Mouse](https://open.spotify.com/artist/1yAwtBaoHLEDWAnWR87hBT) | [Good News For People Who Love Bad News](https://open.spotify.com/album/0TGTGuc2vXv6ZECoAf52N0) | 3:28 | 2020-07-23 |  |
@@ -140,7 +140,8 @@
 | [Hard To Explain](https://open.spotify.com/track/6ljsIKKZfyEuQqMXincQZQ) | [The Strokes](https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V) | [Hard To Explain/New York City Cops](https://open.spotify.com/album/5mRPvdITWYckQAX35a4gRe) | 3:45 | 2022-05-30 | 2022-11-13 |
 | [Hate To Say I Told You So](https://open.spotify.com/track/6xxXrNJnnsQNLdgNk8S4y8) | [The Hives](https://open.spotify.com/artist/4DToQR3aKrHQSSRzSz8Nzt) | [Veni Vidi Vicious](https://open.spotify.com/album/7lbksDekncvHf1FfZ5y1li) | 3:19 | 2020-07-23 |  |
 | [Heart\-Shaped Box](https://open.spotify.com/track/11LmqTE2naFULdEP94AUBa) | [Nirvana](https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh) | [In Utero \- 20th Anniversary \- Deluxe Edition](https://open.spotify.com/album/6ohX7moZZnF1FwYrli1OJ6) | 4:41 | 2020-07-23 |  |
-| [Heartbeats](https://open.spotify.com/track/2YacpExEbX9tF8IbFlFOo4) | [The Knife](https://open.spotify.com/artist/7eQZTqEMozBcuSubfu52i4) | [Deep Cuts](https://open.spotify.com/album/1iqMDM4Io1tnDDl58NGeVJ) | 3:51 | 2020-07-23 |  |
+| [Heartbeats](https://open.spotify.com/track/5P2hEcHjoNMh33EsFPPOJE) | [The Knife](https://open.spotify.com/artist/7eQZTqEMozBcuSubfu52i4) | [Deep Cuts](https://open.spotify.com/album/58VeC1LO2OjyHXsjtI306m) | 3:51 | 2022-11-23 |  |
+| [Heartbeats](https://open.spotify.com/track/2YacpExEbX9tF8IbFlFOo4) | [The Knife](https://open.spotify.com/artist/7eQZTqEMozBcuSubfu52i4) | [Deep Cuts](https://open.spotify.com/album/1iqMDM4Io1tnDDl58NGeVJ) | 3:51 | 2020-07-23 | 2023-05-19 |
 | [Heathens](https://open.spotify.com/track/6i0V12jOa3mr6uu4WYhUBr) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [Heathens](https://open.spotify.com/album/3J8W9AOjQhnBLCX33m3atT) | 3:15 | 2022-05-30 |  |
 | [Heavy Cross](https://open.spotify.com/track/428Dl0NOBojmUS98R2pDHr) | [Gossip](https://open.spotify.com/artist/3sFTupo9UGgrujjN21BjwR) | [Music For Men](https://open.spotify.com/album/1GB8gZTSdbiup5FzxNknRo) | 4:02 | 2020-07-23 |  |
 | [Helena](https://open.spotify.com/track/5dTHtzHFPyi8TlTtzoz1J9) | [My Chemical Romance](https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb) | [Three Cheers for Sweet Revenge](https://open.spotify.com/album/3DuiGV3J09SUhvp8gqNx8h) | 3:24 | 2020-07-23 |  |
@@ -160,7 +161,7 @@
 | [I Miss You](https://open.spotify.com/track/1oTo3ijRbaDAtrjJrGAPSw) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [blink\-182](https://open.spotify.com/album/6DMUAqxiFfLdqXv0vqcrQA) | 3:47 | 2022-05-30 |  |
 | [I Miss You](https://open.spotify.com/track/3jBvVySFsir2Cn8kGH90Ah) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [Greatest Hits \(Explicit Version\)](https://open.spotify.com/album/2ghxwONTYbBQNxkROvij6C) | 3:47 | 2020-07-23 | 2022-07-29 |
 | [I Miss You](https://open.spotify.com/track/6qb9j2hReEepYWIB2iUm7g) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [Game Day Rock Hits 2022](https://open.spotify.com/album/4DmaQyqXYzBNTLCNoO2U0K) | 3:47 | 2022-05-30 | 2022-11-13 |
-| [I Predict A Riot](https://open.spotify.com/track/3EnyKqEJFylT6vU1KF0YyE) | [Kaiser Chiefs](https://open.spotify.com/artist/0LbLWjaweRbO4FDKYlbfNt) | [Souvenir : The Singles 2004 \- 2012](https://open.spotify.com/album/029kszrrDaDAqI9T6L7BIK) | 3:52 | 2022-05-30 | 2023-05-02 |
+| [I Predict A Riot](https://open.spotify.com/track/3EnyKqEJFylT6vU1KF0YyE) | [Kaiser Chiefs](https://open.spotify.com/artist/0LbLWjaweRbO4FDKYlbfNt) | [Souvenir : The Singles 2004 \- 2012](https://open.spotify.com/album/029kszrrDaDAqI9T6L7BIK) | 3:52 | 2022-05-30 |  |
 | [I Predict A Riot](https://open.spotify.com/track/6q0HeADAxsP27jDJQSKaCB) | [Kaiser Chiefs](https://open.spotify.com/artist/0LbLWjaweRbO4FDKYlbfNt) | [Employment](https://open.spotify.com/album/04sr0EUQWLrByyOKYZNS2K) | 3:53 | 2020-07-23 | 2022-07-29 |
 | [I Predict a Riot](https://open.spotify.com/track/1GMDNgkkcMO9EGCN8qmny1) | [Kaiser Chiefs](https://open.spotify.com/artist/0LbLWjaweRbO4FDKYlbfNt) | [Employment](https://open.spotify.com/album/6GygB5BdiE2SkV63jtDrEm) | 3:54 | 2022-05-30 | 2022-12-09 |
 | [I Predict a Riot](https://open.spotify.com/track/3fMoeGj4mDusrmYOOF60aC) | [Kaiser Chiefs](https://open.spotify.com/artist/0LbLWjaweRbO4FDKYlbfNt) | [Employment](https://open.spotify.com/album/1jnbLwKGgg3XoKYlDmaxmF) | 3:54 | 2022-05-30 | 2022-10-13 |

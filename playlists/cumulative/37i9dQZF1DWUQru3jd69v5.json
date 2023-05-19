@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-12",
-  "description": "La nuova generazione del rap italiano. Aggiornata ogni venerd\u00ec. Emanuelino in cover.",
+  "description": "La nuova generazione del rap italiano. Aggiornata ogni venerd\u00ec. Tony Boy in cover.",
   "name": "Raptopia",
   "tracks": [
     {
@@ -126,6 +126,40 @@
       "duration_ms": 121000,
       "name": "11",
       "url": "https://open.spotify.com/track/4OByj8XoXrjtUCXVx1ptQa"
+    },
+    {
+      "album": {
+        "name": "115 (feat. Low-Red, PRACI, Cage.488, Luchetto, ilovethisbeat & Prisoner)",
+        "url": "https://open.spotify.com/album/375ObZAoT87XkYpYVqpCdF"
+      },
+      "artists": [
+        {
+          "name": "NUOVA SARDEGNA",
+          "url": "https://open.spotify.com/artist/2YU6uz5j6qeLX03j5BoSpG"
+        },
+        {
+          "name": "Low-Red",
+          "url": "https://open.spotify.com/artist/6iE4D1r501drzd1fyM6z9N"
+        },
+        {
+          "name": "PRACI",
+          "url": "https://open.spotify.com/artist/4mW1PRTVIA38Yv9ZDezrj5"
+        },
+        {
+          "name": "Cage.488",
+          "url": "https://open.spotify.com/artist/40YEqYNJznSOojw3fxBvgN"
+        },
+        {
+          "name": "Luchetto",
+          "url": "https://open.spotify.com/artist/2mG2mQCdMr57kWqCevJF3z"
+        }
+      ],
+      "date_added": "2023-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170214,
+      "name": "115 (feat. Low-Red, PRACI, Cage.488, Luchetto, ilovethisbeat & Prisoner)",
+      "url": "https://open.spotify.com/track/6GW0GZzwCN3iWIIPmkrzCL"
     },
     {
       "album": {
@@ -280,7 +314,7 @@
       ],
       "date_added": "2023-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 204753,
       "name": "4088 (feat. RRARI DAL TACCO, Nathys, Young Hash & Blocka Beatz)",
       "url": "https://open.spotify.com/track/4L0XMwD32Mq76N3agNpoKG"
@@ -1010,7 +1044,7 @@
       ],
       "date_added": "2023-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 160125,
       "name": "BAM BAM",
       "url": "https://open.spotify.com/track/4DOzvKPMrXAvTa3v9hj3A6"
@@ -1783,6 +1817,24 @@
     },
     {
       "album": {
+        "name": "Bubu Chacha",
+        "url": "https://open.spotify.com/album/4u95VuCQuqAfrbkIbefcaM"
+      },
+      "artists": [
+        {
+          "name": "ALDA",
+          "url": "https://open.spotify.com/artist/4QmwiQZRTMyOkhgfJk3U5F"
+        }
+      ],
+      "date_added": "2023-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138591,
+      "name": "Bubu Chacha",
+      "url": "https://open.spotify.com/track/3gMXrQ3aOBBZu9rbsSnjpf"
+    },
+    {
+      "album": {
         "name": "BUGIE",
         "url": "https://open.spotify.com/album/0og11vK6AW2XIFnr0maeAh"
       },
@@ -2352,7 +2404,7 @@
       ],
       "date_added": "2023-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 173714,
       "name": "CHIAMA",
       "url": "https://open.spotify.com/track/0aY1osZnr4zro1o5gzetdA"
@@ -3222,6 +3274,24 @@
       "duration_ms": 147934,
       "name": "Dipinto",
       "url": "https://open.spotify.com/track/2eVP6V8iQJ7O47jgOvFDdA"
+    },
+    {
+      "album": {
+        "name": "Diretto al Top",
+        "url": "https://open.spotify.com/album/4vYfCxce8wPlHFlnpA9e06"
+      },
+      "artists": [
+        {
+          "name": "Tony Boy",
+          "url": "https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk"
+        }
+      ],
+      "date_added": "2023-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148965,
+      "name": "Diretto al Top",
+      "url": "https://open.spotify.com/track/7fnqPrisSobHY5vsTrnqpB"
     },
     {
       "album": {
@@ -4247,6 +4317,28 @@
     },
     {
       "album": {
+        "name": "FUEGO",
+        "url": "https://open.spotify.com/album/6LhpKWPTsU2ymlFVAHPhdA"
+      },
+      "artists": [
+        {
+          "name": "Capozanarky",
+          "url": "https://open.spotify.com/artist/4L2hq3OboU70UVsqOrU6qt"
+        },
+        {
+          "name": "Paulbeatzz",
+          "url": "https://open.spotify.com/artist/6fXM11nMcMwHW9ssWL4cK5"
+        }
+      ],
+      "date_added": "2023-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177313,
+      "name": "FUEGO",
+      "url": "https://open.spotify.com/track/2k0lyGHBhhH0oqlQO89jpZ"
+    },
+    {
+      "album": {
         "name": "Fumando mary",
         "url": "https://open.spotify.com/album/4mNC5nXSEAMriMAtFvFYk4"
       },
@@ -4843,6 +4935,24 @@
     },
     {
       "album": {
+        "name": "Guardo la moon",
+        "url": "https://open.spotify.com/album/0S4ADNwKbyzj42x2IvSS2w"
+      },
+      "artists": [
+        {
+          "name": "ZiYou",
+          "url": "https://open.spotify.com/artist/6RdaSvAxIod8j6aBm7cF4U"
+        }
+      ],
+      "date_added": "2023-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159428,
+      "name": "Guardo la moon",
+      "url": "https://open.spotify.com/track/2sg0JDiZ4w6aqkuCgC8UvX"
+    },
+    {
+      "album": {
         "name": "Gu\u00e9rrilla",
         "url": "https://open.spotify.com/album/5OWqkBgQPvdll9AmXdjrBe"
       },
@@ -5364,6 +5474,24 @@
       "duration_ms": 174461,
       "name": "Integral",
       "url": "https://open.spotify.com/track/36mxFCZEaKKOmCbq9KAUNa"
+    },
+    {
+      "album": {
+        "name": "Intrappolato",
+        "url": "https://open.spotify.com/album/1nyzvotDOn6DVTaIoWyB3N"
+      },
+      "artists": [
+        {
+          "name": "KERO",
+          "url": "https://open.spotify.com/artist/0BY7xhioKfbWBEEViq4ds6"
+        }
+      ],
+      "date_added": "2023-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169361,
+      "name": "Intrappolato",
+      "url": "https://open.spotify.com/track/1sQMclTeT9jLoQ56XrqU8p"
     },
     {
       "album": {
@@ -6449,6 +6577,24 @@
     },
     {
       "album": {
+        "name": "Malocchio",
+        "url": "https://open.spotify.com/album/18mWjO7193KO63NSWaJ9y7"
+      },
+      "artists": [
+        {
+          "name": "RRARI DAL TACCO",
+          "url": "https://open.spotify.com/artist/30fnIb0InCgAp2IPY17nqd"
+        }
+      ],
+      "date_added": "2023-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169600,
+      "name": "Malocchio",
+      "url": "https://open.spotify.com/track/376OdDXazc3256d9hK9nDR"
+    },
+    {
+      "album": {
         "name": "COSA NOSTRA",
         "url": "https://open.spotify.com/album/0QNI86lT5srJbTLWTWOnFH"
       },
@@ -6515,6 +6661,32 @@
     },
     {
       "album": {
+        "name": "Maradona (feat. Freek)",
+        "url": "https://open.spotify.com/album/3lxGjx9wuTvWMbHuGa6eep"
+      },
+      "artists": [
+        {
+          "name": "Rayan",
+          "url": "https://open.spotify.com/artist/6doCr3greqY545Eo7IsY3m"
+        },
+        {
+          "name": "Intifaya",
+          "url": "https://open.spotify.com/artist/1sSz8a84ezDX1LhXCIgt41"
+        },
+        {
+          "name": "Freek",
+          "url": "https://open.spotify.com/artist/3mDNOQ147emFZ8WK7Fa2nI"
+        }
+      ],
+      "date_added": "2023-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177887,
+      "name": "Maradona (feat. Freek)",
+      "url": "https://open.spotify.com/track/2MnoGHiqYlj38lzwfnuFy6"
+    },
+    {
+      "album": {
         "name": "Marciano",
         "url": "https://open.spotify.com/album/2LdwnsE1HRqpbHE6Zn3Rcr"
       },
@@ -6552,7 +6724,7 @@
       ],
       "date_added": "2023-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 186666,
       "name": "MARE D'INVERNO",
       "url": "https://open.spotify.com/track/4Swgi2Bhc5tOItkVV6kRWD"
@@ -7124,7 +7296,7 @@
       ],
       "date_added": "2023-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 134769,
       "name": "Moped",
       "url": "https://open.spotify.com/track/6P7sMzrgLb3JGOLHUCPsUh"
@@ -7880,7 +8052,7 @@
       ],
       "date_added": "2023-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 157504,
       "name": "Oh M\u00e0",
       "url": "https://open.spotify.com/track/5x629g2VVGrBWUR2DSRVhg"
@@ -8040,7 +8212,7 @@
       ],
       "date_added": "2023-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 123076,
       "name": "Papavero",
       "url": "https://open.spotify.com/track/2J2NxH7j3Wy1tpoCNXkeHx"
@@ -9196,7 +9368,7 @@
       ],
       "date_added": "2023-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 136171,
       "name": "RINASCITA",
       "url": "https://open.spotify.com/track/2N8gO97yxtn10cBIklCllK"
@@ -9730,7 +9902,7 @@
       ],
       "date_added": "2023-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 135771,
       "name": "Sere Nere",
       "url": "https://open.spotify.com/track/2WHiSpzu5j3pBNextnnZwV"
@@ -10331,6 +10503,28 @@
     },
     {
       "album": {
+        "name": "STEPPIN' ON BITCHES",
+        "url": "https://open.spotify.com/album/4ouy8EGY7i4t3aYM61wbo0"
+      },
+      "artists": [
+        {
+          "name": "Frittella",
+          "url": "https://open.spotify.com/artist/0ROrQHmIQbC9sfBkVwkYxm"
+        },
+        {
+          "name": "Flaco",
+          "url": "https://open.spotify.com/artist/44rWmNL2UHcKoDoVGkbaPE"
+        }
+      ],
+      "date_added": "2023-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131830,
+      "name": "STEPPIN' ON BITCHES",
+      "url": "https://open.spotify.com/track/5LAb5zRgvQ26sc6wO0SCJu"
+    },
+    {
+      "album": {
         "name": "Cristallo",
         "url": "https://open.spotify.com/album/6lXeYd6EcEay3YVsYGHC3s"
       },
@@ -10778,6 +10972,24 @@
       "duration_ms": 156364,
       "name": "TMax Nero",
       "url": "https://open.spotify.com/track/1uJla0JBNlxpx09X5cpLNn"
+    },
+    {
+      "album": {
+        "name": "TN NOIR",
+        "url": "https://open.spotify.com/album/2juH2yKkzcQWvzRBdsIizH"
+      },
+      "artists": [
+        {
+          "name": "167 Gang",
+          "url": "https://open.spotify.com/artist/2m43lP1Wo0IPyxVG4ofE33"
+        }
+      ],
+      "date_added": "2023-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "TN NOIR",
+      "url": "https://open.spotify.com/track/7FgP6zMPt73AFMy5GBq1GJ"
     },
     {
       "album": {

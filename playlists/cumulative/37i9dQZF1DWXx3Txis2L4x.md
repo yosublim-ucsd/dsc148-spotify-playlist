@@ -4,7 +4,7 @@
 
 > Keep your run going with these upbeat rock tracks.
 
-166 songs - 9 hr 37 min
+167 songs - 9 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,7 +73,8 @@
 | [Hash Pipe](https://open.spotify.com/track/2mPMFJvQ0v27gVqe5b6nDn) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Weezer](https://open.spotify.com/album/2OBSz5Nlto0Q5CtYPzPY7c) | 3:06 | 2023-02-27 |  |
 | [Heart and Soul](https://open.spotify.com/track/7CskFQLRb7IdIEdnAnjMDV) | [Twin Atlantic](https://open.spotify.com/artist/4A9xtvezlouTD7H0kyUje9) | [Great Divide \(Deluxe Version\)](https://open.spotify.com/album/6XXVbBty3sMrakjzhql9Pz) | 3:37 | 2022-05-18 | 2023-03-08 |
 | [Heart Mind Body & Soul](https://open.spotify.com/track/2FJtn12N5v2i4x3eEae32K) | [The New Regime](https://open.spotify.com/artist/4XYfaDL9We5ubqAvl3Adli) | [Heart Mind Body & Soul](https://open.spotify.com/album/0Nh26pPaQbBB8Yzf6jpNb4) | 3:40 | 2021-12-09 | 2022-07-29 |
-| [Heartbreak Feels So Good](https://open.spotify.com/track/0Rw35DKIumkbbMC7XPOn5r) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [Heartbreak Feels So Good](https://open.spotify.com/album/5GwtecGz0FCy9onGWtrVRS) | 3:37 | 2023-03-23 |  |
+| [Heartbreak Feels So Good](https://open.spotify.com/track/0Rw35DKIumkbbMC7XPOn5r) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [Heartbreak Feels So Good](https://open.spotify.com/album/5GwtecGz0FCy9onGWtrVRS) | 3:37 | 2023-03-23 | 2023-05-19 |
+| [Heartbreak Feels So Good](https://open.spotify.com/track/562RwVsxP4JjNCbXH4dDcy) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [So Much \(For\) Stardust](https://open.spotify.com/album/5mWnMYLnfcnkDOCojHW6O1) | 3:37 | 2023-05-12 |  |
 | [Hitchin' a Ride](https://open.spotify.com/track/6WlmA3HPHuNIR2mxI8LkZF) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Nimrod](https://open.spotify.com/album/3x2uer6Xh0d5rF8toWpRDA) | 2:51 | 2021-12-09 |  |
 | [Hold My Hand](https://open.spotify.com/track/0iWZd4aBNd3vNUF6crMiOp) | [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce) | [Coming Home](https://open.spotify.com/album/1rRe0RrLHXpYhOSQeiGgGK) | 3:42 | 2022-04-08 | 2022-11-13 |
 | [I Am an Animal](https://open.spotify.com/track/2YAusOVNsAHpsN6oZ8XzoF) | [Twin Atlantic](https://open.spotify.com/artist/4A9xtvezlouTD7H0kyUje9) | [Great Divide \(Deluxe Version\)](https://open.spotify.com/album/6XXVbBty3sMrakjzhql9Pz) | 3:31 | 2021-12-09 | 2022-07-29 |

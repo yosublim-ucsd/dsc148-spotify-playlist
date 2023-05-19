@@ -1,12 +1,12 @@
 {
   "description": "pop punk, emo, post-hardcore, alt. it's what you want it to be. Cover: Hot Mulligan",
-  "num_followers": 447288,
+  "num_followers": 447414,
   "original_name": "The Scene",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmMGVhNDZhYjYwMjhmMWFhM2QyM2M5YWVhZDk5MGJjOWZkN2I3Mzc0",
+  "snapshot_id": "MCxmM2VjNjgzNTk3MTZjY2ZhY2JkMDdjMjM1ZTNlN2ViYjhiODQxNmNj",
   "tracks": [
     {
       "added_at": "2023-05-12 04:00:00",
@@ -263,18 +263,18 @@
     {
       "added_at": "2023-05-12 04:00:00",
       "album": {
-        "name": "Punching Bag",
-        "url": "https://open.spotify.com/album/4KmzB82Fr509bPq87gG1QS"
+        "name": "The Jaws Of Life",
+        "url": "https://open.spotify.com/album/5Am1LFOFRwS94TaVzrFQwZ"
       },
       "artists": [
         {
-          "name": "Set It Off",
-          "url": "https://open.spotify.com/artist/06bDwgCHeMAwhgI8il4Y5k"
+          "name": "Pierce The Veil",
+          "url": "https://open.spotify.com/artist/4iJLPqClelZOBCBifm8Fzv"
         }
       ],
-      "duration_ms": 179482,
-      "name": "Punching Bag",
-      "url": "https://open.spotify.com/track/7fudux10sVIxILOocZaHrW"
+      "duration_ms": 240000,
+      "name": "Emergency Contact",
+      "url": "https://open.spotify.com/track/4amltxLIfFmtYEvZbdgDqO"
     },
     {
       "added_at": "2023-05-12 04:00:00",
@@ -295,18 +295,18 @@
     {
       "added_at": "2023-05-12 04:00:00",
       "album": {
-        "name": "The Jaws Of Life",
-        "url": "https://open.spotify.com/album/5Am1LFOFRwS94TaVzrFQwZ"
+        "name": "Punching Bag",
+        "url": "https://open.spotify.com/album/4KmzB82Fr509bPq87gG1QS"
       },
       "artists": [
         {
-          "name": "Pierce The Veil",
-          "url": "https://open.spotify.com/artist/4iJLPqClelZOBCBifm8Fzv"
+          "name": "Set It Off",
+          "url": "https://open.spotify.com/artist/06bDwgCHeMAwhgI8il4Y5k"
         }
       ],
-      "duration_ms": 240000,
-      "name": "Emergency Contact",
-      "url": "https://open.spotify.com/track/4amltxLIfFmtYEvZbdgDqO"
+      "duration_ms": 179482,
+      "name": "Punching Bag",
+      "url": "https://open.spotify.com/track/7fudux10sVIxILOocZaHrW"
     },
     {
       "added_at": "2023-05-12 04:00:00",
@@ -451,6 +451,22 @@
     {
       "added_at": "2023-05-12 04:00:00",
       "album": {
+        "name": "Psycho",
+        "url": "https://open.spotify.com/album/4toEJiFEggtxsZPewZmLat"
+      },
+      "artists": [
+        {
+          "name": "Taylor Acorn",
+          "url": "https://open.spotify.com/artist/1A0WloDoRE88uUwo3wensY"
+        }
+      ],
+      "duration_ms": 179707,
+      "name": "Psycho",
+      "url": "https://open.spotify.com/track/29GKyMCkBY2Kc7M2VcAZJE"
+    },
+    {
+      "added_at": "2023-05-12 04:00:00",
+      "album": {
         "name": "Win Win",
         "url": "https://open.spotify.com/album/4cZMnC7tAJ4WOAZz93WL1g"
       },
@@ -471,22 +487,6 @@
     {
       "added_at": "2023-05-12 04:00:00",
       "album": {
-        "name": "Psycho",
-        "url": "https://open.spotify.com/album/4toEJiFEggtxsZPewZmLat"
-      },
-      "artists": [
-        {
-          "name": "Taylor Acorn",
-          "url": "https://open.spotify.com/artist/1A0WloDoRE88uUwo3wensY"
-        }
-      ],
-      "duration_ms": 179707,
-      "name": "Psycho",
-      "url": "https://open.spotify.com/track/29GKyMCkBY2Kc7M2VcAZJE"
-    },
-    {
-      "added_at": "2023-05-12 04:00:00",
-      "album": {
         "name": "Friends With Benefits",
         "url": "https://open.spotify.com/album/1V6UogSpYpLE8XYmCdjR5N"
       },
@@ -499,22 +499,6 @@
       "duration_ms": 187322,
       "name": "Friends With Benefits",
       "url": "https://open.spotify.com/track/3cubovyBMABNcWzSdbzMTP"
-    },
-    {
-      "added_at": "2023-05-12 04:00:00",
-      "album": {
-        "name": "Sneakers",
-        "url": "https://open.spotify.com/album/203lgkbyUvtaZAExgXr3Ge"
-      },
-      "artists": [
-        {
-          "name": "Knox",
-          "url": "https://open.spotify.com/artist/61S5H9Lxn1PDUvu1TV0kCX"
-        }
-      ],
-      "duration_ms": 184285,
-      "name": "Sneakers",
-      "url": "https://open.spotify.com/track/3eLfICfDzCQrP8pOajVGiJ"
     },
     {
       "added_at": "2023-05-12 04:00:00",
@@ -535,6 +519,22 @@
       "duration_ms": 178263,
       "name": "Misfits",
       "url": "https://open.spotify.com/track/6W9CY1yt4FoAi2vKiqQLz0"
+    },
+    {
+      "added_at": "2023-05-12 04:00:00",
+      "album": {
+        "name": "Sneakers",
+        "url": "https://open.spotify.com/album/203lgkbyUvtaZAExgXr3Ge"
+      },
+      "artists": [
+        {
+          "name": "Knox",
+          "url": "https://open.spotify.com/artist/61S5H9Lxn1PDUvu1TV0kCX"
+        }
+      ],
+      "duration_ms": 184285,
+      "name": "Sneakers",
+      "url": "https://open.spotify.com/track/3eLfICfDzCQrP8pOajVGiJ"
     },
     {
       "added_at": "2023-05-12 04:00:00",
@@ -627,22 +627,6 @@
     {
       "added_at": "2023-05-12 04:00:00",
       "album": {
-        "name": "Head in The Clouds",
-        "url": "https://open.spotify.com/album/7w0jejpTAtTzkl4IDUcqPH"
-      },
-      "artists": [
-        {
-          "name": "Arrows in Action",
-          "url": "https://open.spotify.com/artist/467o5z7PYxbXFAGA0mvhAQ"
-        }
-      ],
-      "duration_ms": 175937,
-      "name": "Head in the Clouds",
-      "url": "https://open.spotify.com/track/3HgDqQCtrw0k5MZR86r7Uq"
-    },
-    {
-      "added_at": "2023-05-12 04:00:00",
-      "album": {
         "name": "INTELLECTUAL PROPERTY",
         "url": "https://open.spotify.com/album/6FxkiRw25b3z8CqqFE8pSm"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 164138,
       "name": "FUNERAL GREY",
       "url": "https://open.spotify.com/track/6Rebnr2UDaxxg3VNe6CBg2"
+    },
+    {
+      "added_at": "2023-05-12 04:00:00",
+      "album": {
+        "name": "Head in The Clouds",
+        "url": "https://open.spotify.com/album/7w0jejpTAtTzkl4IDUcqPH"
+      },
+      "artists": [
+        {
+          "name": "Arrows in Action",
+          "url": "https://open.spotify.com/artist/467o5z7PYxbXFAGA0mvhAQ"
+        }
+      ],
+      "duration_ms": 175937,
+      "name": "Head in the Clouds",
+      "url": "https://open.spotify.com/track/3HgDqQCtrw0k5MZR86r7Uq"
     },
     {
       "added_at": "2023-05-12 04:00:00",
@@ -759,22 +759,22 @@
     {
       "added_at": "2023-05-12 04:00:00",
       "album": {
-        "name": "FREAK (Feat. jxdn)",
-        "url": "https://open.spotify.com/album/4mzZ6AB3vMXeuz2W0AWsN5"
+        "name": "Dark Days (feat. Jeris Johnson)",
+        "url": "https://open.spotify.com/album/2T4kKSW1ZBjE8QDQoPlGJO"
       },
       "artists": [
         {
-          "name": "Beauty School Dropout",
-          "url": "https://open.spotify.com/artist/2MJMW3WtQnDq7DKezFn5jO"
+          "name": "Point North",
+          "url": "https://open.spotify.com/artist/5Vp7LqcfAtx2U1RfIX8i7r"
         },
         {
-          "name": "jxdn",
-          "url": "https://open.spotify.com/artist/6Y64EaNqpqcZYTgs4c76gF"
+          "name": "Jeris Johnson",
+          "url": "https://open.spotify.com/artist/2hmePXeTr2b7cdRAtRjvPq"
         }
       ],
-      "duration_ms": 149142,
-      "name": "FREAK (Feat. jxdn)",
-      "url": "https://open.spotify.com/track/59QtD84KONsWuBFL7bwQrP"
+      "duration_ms": 170000,
+      "name": "Dark Days (feat. Jeris Johnson)",
+      "url": "https://open.spotify.com/track/0noEqnVKPCwEvgWekT1Pzl"
     },
     {
       "added_at": "2023-05-12 04:00:00",
@@ -795,22 +795,22 @@
     {
       "added_at": "2023-05-12 04:00:00",
       "album": {
-        "name": "Dark Days (feat. Jeris Johnson)",
-        "url": "https://open.spotify.com/album/2T4kKSW1ZBjE8QDQoPlGJO"
+        "name": "FREAK (Feat. jxdn)",
+        "url": "https://open.spotify.com/album/4mzZ6AB3vMXeuz2W0AWsN5"
       },
       "artists": [
         {
-          "name": "Point North",
-          "url": "https://open.spotify.com/artist/5Vp7LqcfAtx2U1RfIX8i7r"
+          "name": "Beauty School Dropout",
+          "url": "https://open.spotify.com/artist/2MJMW3WtQnDq7DKezFn5jO"
         },
         {
-          "name": "Jeris Johnson",
-          "url": "https://open.spotify.com/artist/2hmePXeTr2b7cdRAtRjvPq"
+          "name": "jxdn",
+          "url": "https://open.spotify.com/artist/6Y64EaNqpqcZYTgs4c76gF"
         }
       ],
-      "duration_ms": 170000,
-      "name": "Dark Days (feat. Jeris Johnson)",
-      "url": "https://open.spotify.com/track/0noEqnVKPCwEvgWekT1Pzl"
+      "duration_ms": 149142,
+      "name": "FREAK (Feat. jxdn)",
+      "url": "https://open.spotify.com/track/59QtD84KONsWuBFL7bwQrP"
     },
     {
       "added_at": "2023-05-12 04:00:00",
@@ -883,22 +883,6 @@
     {
       "added_at": "2023-05-12 04:00:00",
       "album": {
-        "name": "She Likes My Tattoos",
-        "url": "https://open.spotify.com/album/5K2xRnUFqZBB1FoWoegvp7"
-      },
-      "artists": [
-        {
-          "name": "Pardyalone",
-          "url": "https://open.spotify.com/artist/6M4q5QWjmpjuPAi7LVFEFG"
-        }
-      ],
-      "duration_ms": 164327,
-      "name": "She Likes My Tattoos",
-      "url": "https://open.spotify.com/track/2Lle3tbO97Dd4I3deOZ92g"
-    },
-    {
-      "added_at": "2023-05-12 04:00:00",
-      "album": {
         "name": "in loving memory",
         "url": "https://open.spotify.com/album/0ZvU2iSXtYxBeR9QzvHQau"
       },
@@ -915,6 +899,22 @@
       "duration_ms": 191559,
       "name": "toxic energy (with Bert McCracken of The Used)",
       "url": "https://open.spotify.com/track/01tEAvdPLPREA9JT9Wpb26"
+    },
+    {
+      "added_at": "2023-05-12 04:00:00",
+      "album": {
+        "name": "She Likes My Tattoos",
+        "url": "https://open.spotify.com/album/5K2xRnUFqZBB1FoWoegvp7"
+      },
+      "artists": [
+        {
+          "name": "Pardyalone",
+          "url": "https://open.spotify.com/artist/6M4q5QWjmpjuPAi7LVFEFG"
+        }
+      ],
+      "duration_ms": 164327,
+      "name": "She Likes My Tattoos",
+      "url": "https://open.spotify.com/track/2Lle3tbO97Dd4I3deOZ92g"
     },
     {
       "added_at": "2023-05-12 04:00:00",
@@ -1027,22 +1027,6 @@
     {
       "added_at": "2023-05-12 04:00:00",
       "album": {
-        "name": "<maybe> it's my fault",
-        "url": "https://open.spotify.com/album/139YquG3RpaLBq98PbsOIM"
-      },
-      "artists": [
-        {
-          "name": "WILLOW",
-          "url": "https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF"
-        }
-      ],
-      "duration_ms": 159832,
-      "name": "<maybe> it's my fault",
-      "url": "https://open.spotify.com/track/4w5wkuwuCByenZ6QufdeQN"
-    },
-    {
-      "added_at": "2023-05-12 04:00:00",
-      "album": {
         "name": "Homicide",
         "url": "https://open.spotify.com/album/1XIqrfa41fSUdAI2KdnBAW"
       },
@@ -1055,6 +1039,22 @@
       "duration_ms": 186910,
       "name": "Homicide",
       "url": "https://open.spotify.com/track/3U8dEgE1S6st6Y29qJouu6"
+    },
+    {
+      "added_at": "2023-05-12 04:00:00",
+      "album": {
+        "name": "<maybe> it's my fault",
+        "url": "https://open.spotify.com/album/139YquG3RpaLBq98PbsOIM"
+      },
+      "artists": [
+        {
+          "name": "WILLOW",
+          "url": "https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF"
+        }
+      ],
+      "duration_ms": 159832,
+      "name": "<maybe> it's my fault",
+      "url": "https://open.spotify.com/track/4w5wkuwuCByenZ6QufdeQN"
     },
     {
       "added_at": "2023-05-12 04:00:00",
@@ -1103,6 +1103,26 @@
       "duration_ms": 191976,
       "name": "Six Feet Under",
       "url": "https://open.spotify.com/track/2Q9pJ2YJOB6jENpyqqkqZf"
+    },
+    {
+      "added_at": "2023-05-12 04:00:00",
+      "album": {
+        "name": "Do You Like Me Now (feat. Kellin Quinn of Sleeping With Sirens)",
+        "url": "https://open.spotify.com/album/4wFUDCIQM4X7OAKQc2KaJv"
+      },
+      "artists": [
+        {
+          "name": "OmenXIII",
+          "url": "https://open.spotify.com/artist/760kxYHN5QTrD1DehiimjB"
+        },
+        {
+          "name": "Sleeping With Sirens",
+          "url": "https://open.spotify.com/artist/3N8Hy6xQnQv1F1XCiyGQqA"
+        }
+      ],
+      "duration_ms": 217417,
+      "name": "Do You Like Me Now (feat. Kellin Quinn of Sleeping With Sirens)",
+      "url": "https://open.spotify.com/track/7Fjr0lI9QUhW31LKMVOba9"
     },
     {
       "added_at": "2023-05-12 04:00:00",
@@ -1187,22 +1207,18 @@
     {
       "added_at": "2023-05-12 04:00:00",
       "album": {
-        "name": "Do You Like Me Now (feat. Kellin Quinn of Sleeping With Sirens)",
-        "url": "https://open.spotify.com/album/4wFUDCIQM4X7OAKQc2KaJv"
+        "name": "Halloween Mixtape",
+        "url": "https://open.spotify.com/album/1Defrb5hnuVq7ZnSBtxlRy"
       },
       "artists": [
         {
-          "name": "OmenXIII",
-          "url": "https://open.spotify.com/artist/760kxYHN5QTrD1DehiimjB"
-        },
-        {
-          "name": "Sleeping With Sirens",
-          "url": "https://open.spotify.com/artist/3N8Hy6xQnQv1F1XCiyGQqA"
+          "name": "Magnolia Park",
+          "url": "https://open.spotify.com/artist/7B76SsfzG0wWk1WEvGzCmY"
         }
       ],
-      "duration_ms": 217417,
-      "name": "Do You Like Me Now (feat. Kellin Quinn of Sleeping With Sirens)",
-      "url": "https://open.spotify.com/track/7Fjr0lI9QUhW31LKMVOba9"
+      "duration_ms": 137052,
+      "name": "10 for 10",
+      "url": "https://open.spotify.com/track/3FJWujo6lhrjtS3w8rR78F"
     },
     {
       "added_at": "2023-05-12 04:00:00",
@@ -1219,22 +1235,6 @@
       "duration_ms": 314594,
       "name": "THE ONLY TIME IT RAINS IN HOLLYWOOD",
       "url": "https://open.spotify.com/track/26PSbPgc08B0gZC7mDwO31"
-    },
-    {
-      "added_at": "2023-05-12 04:00:00",
-      "album": {
-        "name": "Halloween Mixtape",
-        "url": "https://open.spotify.com/album/1Defrb5hnuVq7ZnSBtxlRy"
-      },
-      "artists": [
-        {
-          "name": "Magnolia Park",
-          "url": "https://open.spotify.com/artist/7B76SsfzG0wWk1WEvGzCmY"
-        }
-      ],
-      "duration_ms": 137052,
-      "name": "10 for 10",
-      "url": "https://open.spotify.com/track/3FJWujo6lhrjtS3w8rR78F"
     },
     {
       "added_at": "2023-05-12 04:00:00",
@@ -1271,6 +1271,22 @@
     {
       "added_at": "2023-05-12 04:00:00",
       "album": {
+        "name": "f.e.a.r.",
+        "url": "https://open.spotify.com/album/0Owl0jFW9adxA4WJVEWQZA"
+      },
+      "artists": [
+        {
+          "name": "Stand Atlantic",
+          "url": "https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh"
+        }
+      ],
+      "duration_ms": 160380,
+      "name": "hair out",
+      "url": "https://open.spotify.com/track/66MvNxKQGPQS0AUeaoYlcn"
+    },
+    {
+      "added_at": "2023-05-12 04:00:00",
+      "album": {
         "name": "We Made Plans & God Laughed",
         "url": "https://open.spotify.com/album/7IiUhV5149o4iltQaJiLJd"
       },
@@ -1287,22 +1303,6 @@
       "duration_ms": 188423,
       "name": "ALMOST FAMOUS",
       "url": "https://open.spotify.com/track/7lXAfpNbrQmbsqs9ZmsPv7"
-    },
-    {
-      "added_at": "2023-05-12 04:00:00",
-      "album": {
-        "name": "f.e.a.r.",
-        "url": "https://open.spotify.com/album/0Owl0jFW9adxA4WJVEWQZA"
-      },
-      "artists": [
-        {
-          "name": "Stand Atlantic",
-          "url": "https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh"
-        }
-      ],
-      "duration_ms": 160380,
-      "name": "hair out",
-      "url": "https://open.spotify.com/track/66MvNxKQGPQS0AUeaoYlcn"
     },
     {
       "added_at": "2023-05-12 04:00:00",
@@ -1619,6 +1619,22 @@
     {
       "added_at": "2023-05-12 04:00:00",
       "album": {
+        "name": "Checking In",
+        "url": "https://open.spotify.com/album/1BSES1gYrSt5nUVPfDunDQ"
+      },
+      "artists": [
+        {
+          "name": "Arrows in Action",
+          "url": "https://open.spotify.com/artist/467o5z7PYxbXFAGA0mvhAQ"
+        }
+      ],
+      "duration_ms": 179141,
+      "name": "Checking In",
+      "url": "https://open.spotify.com/track/7t2YrgFxbTxTUxkl8bbYHa"
+    },
+    {
+      "added_at": "2023-05-12 04:00:00",
+      "album": {
         "name": "I WENT TO HELL AND BACK",
         "url": "https://open.spotify.com/album/0C9MH7ojRpjgfFJ5CNiEZu"
       },
@@ -1671,22 +1687,6 @@
     {
       "added_at": "2023-05-12 04:00:00",
       "album": {
-        "name": "shame",
-        "url": "https://open.spotify.com/album/2EOpw6eAEYA0atOPS2Csei"
-      },
-      "artists": [
-        {
-          "name": "guccihighwaters",
-          "url": "https://open.spotify.com/artist/7EIOmfcBRSR63ZaUptkD09"
-        }
-      ],
-      "duration_ms": 172243,
-      "name": "shame",
-      "url": "https://open.spotify.com/track/4UhUHDAxLcFb8E0e5J4H0k"
-    },
-    {
-      "added_at": "2023-05-12 04:00:00",
-      "album": {
         "name": "Plastic Heart",
         "url": "https://open.spotify.com/album/0wJAzRXw1ONSItyFVwMgH3"
       },
@@ -1735,6 +1735,22 @@
     {
       "added_at": "2023-05-12 04:00:00",
       "album": {
+        "name": "shame",
+        "url": "https://open.spotify.com/album/2EOpw6eAEYA0atOPS2Csei"
+      },
+      "artists": [
+        {
+          "name": "guccihighwaters",
+          "url": "https://open.spotify.com/artist/7EIOmfcBRSR63ZaUptkD09"
+        }
+      ],
+      "duration_ms": 172243,
+      "name": "shame",
+      "url": "https://open.spotify.com/track/4UhUHDAxLcFb8E0e5J4H0k"
+    },
+    {
+      "added_at": "2023-05-12 04:00:00",
+      "album": {
         "name": "Tell Me You're Sorry",
         "url": "https://open.spotify.com/album/1uJm8Z3D7UDvcxYppBm08N"
       },
@@ -1751,22 +1767,6 @@
     {
       "added_at": "2023-05-12 04:00:00",
       "album": {
-        "name": "Checking In",
-        "url": "https://open.spotify.com/album/1BSES1gYrSt5nUVPfDunDQ"
-      },
-      "artists": [
-        {
-          "name": "Arrows in Action",
-          "url": "https://open.spotify.com/artist/467o5z7PYxbXFAGA0mvhAQ"
-        }
-      ],
-      "duration_ms": 179141,
-      "name": "Checking In",
-      "url": "https://open.spotify.com/track/7t2YrgFxbTxTUxkl8bbYHa"
-    },
-    {
-      "added_at": "2023-05-12 04:00:00",
-      "album": {
         "name": "I Hope Hell Isn't Real",
         "url": "https://open.spotify.com/album/3DMrlbRSB4rYDwsL1yNw8H"
       },
@@ -1779,6 +1779,22 @@
       "duration_ms": 134271,
       "name": "This Time Last Week",
       "url": "https://open.spotify.com/track/3HPw07nh0KYvJFdkbrMnkW"
+    },
+    {
+      "added_at": "2023-05-12 04:00:00",
+      "album": {
+        "name": "Happiness is an Inside Job",
+        "url": "https://open.spotify.com/album/6CudJTOUVmOvVDR2c3xIky"
+      },
+      "artists": [
+        {
+          "name": "Royal & the Serpent",
+          "url": "https://open.spotify.com/artist/64EHXDoln95lnccszdPum0"
+        }
+      ],
+      "duration_ms": 187460,
+      "name": "Love Abuser (Save Me)",
+      "url": "https://open.spotify.com/track/6dS27nDWBxG9CHagUyq5j0"
     },
     {
       "added_at": "2023-05-12 04:00:00",
@@ -1815,22 +1831,6 @@
     {
       "added_at": "2023-05-12 04:00:00",
       "album": {
-        "name": "Under the Influence(r)",
-        "url": "https://open.spotify.com/album/1RuSt8pKCKEOsFxuj24ToK"
-      },
-      "artists": [
-        {
-          "name": "The Summer Set",
-          "url": "https://open.spotify.com/artist/0pwyD6DhbFWn8uVSz2Fr0w"
-        }
-      ],
-      "duration_ms": 195012,
-      "name": "Under the Influence(r)",
-      "url": "https://open.spotify.com/track/1noQAliwpHxGOv0jfq9UTH"
-    },
-    {
-      "added_at": "2023-05-12 04:00:00",
-      "album": {
         "name": "Songs on the Radio",
         "url": "https://open.spotify.com/album/3zRLuo2FVdTAP0MozqAiOL"
       },
@@ -1843,6 +1843,22 @@
       "duration_ms": 208181,
       "name": "Songs on the Radio",
       "url": "https://open.spotify.com/track/5rrq3Q48Zh8kZ38mhC6rAm"
+    },
+    {
+      "added_at": "2023-05-12 04:00:00",
+      "album": {
+        "name": "Under the Influence(r)",
+        "url": "https://open.spotify.com/album/1RuSt8pKCKEOsFxuj24ToK"
+      },
+      "artists": [
+        {
+          "name": "The Summer Set",
+          "url": "https://open.spotify.com/artist/0pwyD6DhbFWn8uVSz2Fr0w"
+        }
+      ],
+      "duration_ms": 195012,
+      "name": "Under the Influence(r)",
+      "url": "https://open.spotify.com/track/1noQAliwpHxGOv0jfq9UTH"
     },
     {
       "added_at": "2023-05-12 04:00:00",
@@ -1903,22 +1919,6 @@
     {
       "added_at": "2023-05-12 04:00:00",
       "album": {
-        "name": "Happiness is an Inside Job",
-        "url": "https://open.spotify.com/album/6CudJTOUVmOvVDR2c3xIky"
-      },
-      "artists": [
-        {
-          "name": "Royal & the Serpent",
-          "url": "https://open.spotify.com/artist/64EHXDoln95lnccszdPum0"
-        }
-      ],
-      "duration_ms": 187460,
-      "name": "Love Abuser (Save Me)",
-      "url": "https://open.spotify.com/track/6dS27nDWBxG9CHagUyq5j0"
-    },
-    {
-      "added_at": "2023-05-12 04:00:00",
-      "album": {
         "name": "DEATH KEEPS CALLING MY NAME (feat. Shrimp)",
         "url": "https://open.spotify.com/album/3m9KFrinHziZcXsGdy8EW6"
       },
@@ -1959,6 +1959,22 @@
     {
       "added_at": "2023-05-12 04:00:00",
       "album": {
+        "name": "WAKE UP",
+        "url": "https://open.spotify.com/album/29sE5WjE8QbAkioiZYkOUi"
+      },
+      "artists": [
+        {
+          "name": "Ryan Oakes",
+          "url": "https://open.spotify.com/artist/4l43uAIHyF5VzgonMKVkg7"
+        }
+      ],
+      "duration_ms": 121318,
+      "name": "UNAPOLOGETIC",
+      "url": "https://open.spotify.com/track/0smlyjWAaTNHlwKHnYGBVF"
+    },
+    {
+      "added_at": "2023-05-12 04:00:00",
+      "album": {
         "name": "People That I Love Leave",
         "url": "https://open.spotify.com/album/0MHxYClcQzUce12K5Y2GfU"
       },
@@ -1971,6 +1987,22 @@
       "duration_ms": 149248,
       "name": "People That I Love Leave",
       "url": "https://open.spotify.com/track/2ZaPyFZBwurF7wCT9DKAVV"
+    },
+    {
+      "added_at": "2023-05-12 04:00:00",
+      "album": {
+        "name": "The Hum Goes on Forever",
+        "url": "https://open.spotify.com/album/0g2D3Epl3VzLbvtVeQhJQv"
+      },
+      "artists": [
+        {
+          "name": "The Wonder Years",
+          "url": "https://open.spotify.com/artist/0nq64XZMWV1s7XHXIkdH7K"
+        }
+      ],
+      "duration_ms": 225838,
+      "name": "Wyatt\u2019s Song (Your Name)",
+      "url": "https://open.spotify.com/track/2zTZW5oH5ccgAYV2e1YsDl"
     },
     {
       "added_at": "2023-05-12 04:00:00",
@@ -2007,22 +2039,6 @@
     {
       "added_at": "2023-05-12 04:00:00",
       "album": {
-        "name": "The Hum Goes on Forever",
-        "url": "https://open.spotify.com/album/0g2D3Epl3VzLbvtVeQhJQv"
-      },
-      "artists": [
-        {
-          "name": "The Wonder Years",
-          "url": "https://open.spotify.com/artist/0nq64XZMWV1s7XHXIkdH7K"
-        }
-      ],
-      "duration_ms": 225838,
-      "name": "Wyatt\u2019s Song (Your Name)",
-      "url": "https://open.spotify.com/track/2zTZW5oH5ccgAYV2e1YsDl"
-    },
-    {
-      "added_at": "2023-05-12 04:00:00",
-      "album": {
         "name": "slippery slope",
         "url": "https://open.spotify.com/album/07vY4Ri2X7sl1PzwCnLGH0"
       },
@@ -2051,22 +2067,6 @@
       "duration_ms": 188732,
       "name": "Prizefighter",
       "url": "https://open.spotify.com/track/5GFoRsCqAO4876A4DlsFji"
-    },
-    {
-      "added_at": "2023-05-12 04:00:00",
-      "album": {
-        "name": "WAKE UP",
-        "url": "https://open.spotify.com/album/29sE5WjE8QbAkioiZYkOUi"
-      },
-      "artists": [
-        {
-          "name": "Ryan Oakes",
-          "url": "https://open.spotify.com/artist/4l43uAIHyF5VzgonMKVkg7"
-        }
-      ],
-      "duration_ms": 121318,
-      "name": "UNAPOLOGETIC",
-      "url": "https://open.spotify.com/track/0smlyjWAaTNHlwKHnYGBVF"
     },
     {
       "added_at": "2023-05-12 04:00:00",

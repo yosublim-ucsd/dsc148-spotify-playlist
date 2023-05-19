@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7GWlXStIq5M.md) - [plain]
 
 > Os hits já consagrados e os novos nomes do Pop BR dividindo o mesmo palco!   / Foto: Thiago Pantaleão
 
-[Spotify](https://open.spotify.com/user/spotify) - 357,526 likes - 89 songs - 4 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 357,567 likes - 89 songs - 4 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7GWlXStIq5M.md) - [plain]
 | 27 | [Tudo Ou Nada](https://open.spotify.com/track/4kFYhqh5xOBNNhKoy6uDCp) | [Majur](https://open.spotify.com/artist/3EWwR3BxuCaiYKniPGDjE7) | [ARRISCA](https://open.spotify.com/album/7yvlnTu9zTkkrRGCwUICXc) | 4:08 |
 | 28 | [Mais Uma](https://open.spotify.com/track/1ttR4WB57ZZQqVBGiUZVis) | [ZAAC](https://open.spotify.com/artist/76Xa625geVw0Q7BdyxNjA2), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [DJ Yuri Martins](https://open.spotify.com/artist/0xA8Rmfl9di0sVaPl9AyR9), [Zain](https://open.spotify.com/artist/1OCu3xpRtpqgbk6aoxoxJp) | [Mais Uma](https://open.spotify.com/album/4dnZFRXRCa2ez2jLAUcNp1) | 2:07 |
 | 29 | [não mudo por ninguém](https://open.spotify.com/track/1fXTWjQEdNx0z8Yx383fDw) | [Marcelo Tofani](https://open.spotify.com/artist/59EQw7iHjbElOkznITe43m) | [fantasia de um amor perfeito](https://open.spotify.com/album/2szRuIFgI3PccmXm2jmDCt) | 2:50 |
-| 30 | [Ponto De Vista](https://open.spotify.com/track/1UMDEJN3JtYmSQXoO1HUc5) | [Lagum](https://open.spotify.com/artist/5D56dZmhE9DgT01XixdHiD) | [FIM](https://open.spotify.com/album/2jh6gWgvkanar5rjM3g1ow) | 3:02 |
+| 30 | [Ponto de Vista](https://open.spotify.com/track/1UMDEJN3JtYmSQXoO1HUc5) | [Lagum](https://open.spotify.com/artist/5D56dZmhE9DgT01XixdHiD) | [FIM](https://open.spotify.com/album/2jh6gWgvkanar5rjM3g1ow) | 3:02 |
 | 31 | [Sei Lá](https://open.spotify.com/track/2vNRlI7vSMa3D4rJ11aAVx) | [Luccas Carlos](https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy) | [Sei Lá](https://open.spotify.com/album/2FBQJcKKxkdnNQsP4qI1CZ) | 2:24 |
 | 32 | [Tudo Pra Amar Você](https://open.spotify.com/track/729wf3M4niTm0Cw7J8p63a) | [Marina Sena](https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L) | [Vício Inerente](https://open.spotify.com/album/13TC44Gy2ClqvvwxGOQ6pr) | 2:55 |
 | 33 | [Festa na Piscina](https://open.spotify.com/track/5tyr9BUCvmyGKxBc0CbMNv) | [Hyperanhas](https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz), [Mc IG](https://open.spotify.com/artist/2q9wk5fkeU2C9CgCKdh4AN), [CMK](https://open.spotify.com/artist/6QmnOxsr8M6iD5Zqpb2src) | [Festa na Piscina](https://open.spotify.com/album/00FA6DwM0uincXdQJ8wltO) | 4:28 |
@@ -98,4 +98,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7GWlXStIq5M.md) - [plain]
 | 88 | [Atrás Do Meu Amor](https://open.spotify.com/track/4psvG7pbFjZvGwBhw7cz6y) | [Vitão](https://open.spotify.com/artist/06lnOkY99sXVW44Y0M4BDP) | [Mais Uma Vez](https://open.spotify.com/album/44Sl75EqULdgbPfFwFQlPs) | 2:11 |
 | 89 | [Tentação](https://open.spotify.com/track/71txbUtWVkqbN7BOQcEkDI) | [Carol Biazin](https://open.spotify.com/artist/5dYdZmGyv2UTIN1XMe1drN), [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d) | [Beijo De Judas](https://open.spotify.com/album/1xX3pKCNf3ZQ1gmaXKu0Zd) | 2:54 |
 
-Snapshot ID: `MCwyYjUzZGE3ZmNjNDFhOGY0MGNmZDFlZTY0MzVkZmQyMDMyYzhiNTIz`
+Snapshot ID: `MCw1Y2ExNjlhNzAxMDNhNWRkZmU0NGY1ODg4OTBkNjNjNWM3NDA0NzU0`

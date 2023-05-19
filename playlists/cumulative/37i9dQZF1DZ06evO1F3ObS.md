@@ -4,7 +4,7 @@
 
 > This is ReoNa\. The essential tracks, all in one playlist.
 
-68 songs - 5 hr 12 min
+69 songs - 5 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,8 +67,9 @@
 | [決意の朝に](https://open.spotify.com/track/7hCrZjwlauy8LMU9z1XcO7) | [ReoNa](https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C) | [Null](https://open.spotify.com/album/0Ei7kMa7ZFqHucY4rIjbLC) | 5:11 | 2022-06-09 |  |
 | [猫失格](https://open.spotify.com/track/6BK3WZy3MR5GmH4zOk2O8F) | [ReoNa](https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C) | [シャル・ウィ・ダンス?\(Special Edition\)](https://open.spotify.com/album/3uZkJY4VIWYjPtE7FbWpH9) | 5:55 | 2022-07-28 |  |
 | [生きてるだけでえらいよ](https://open.spotify.com/track/59DcEQnz5dfWEuB9iG8YGJ) | [ReoNa](https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C) | [ないない \(Special Edition\)](https://open.spotify.com/album/6HD7Zt2IlhBzbOankRvipw) | 5:41 | 2022-06-09 |  |
-| [生命線](https://open.spotify.com/track/0xWl3d2OOeKJvbebz5lUlm) | [ReoNa](https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C) | [生命線](https://open.spotify.com/album/3SwHgKMcPcYO2KIFOSILxx) | 4:15 | 2022-06-11 |  |
+| [生命線](https://open.spotify.com/track/0xWl3d2OOeKJvbebz5lUlm) | [ReoNa](https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C) | [生命線](https://open.spotify.com/album/3SwHgKMcPcYO2KIFOSILxx) | 4:15 | 2022-06-11 | 2023-05-19 |
 | [生命線](https://open.spotify.com/track/4Ut1yVtaTsq0Mp6F2V2yJC) | [ReoNa](https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C) | [月姫 \-A piece of blue glass moon\- THEME SONG E.P.](https://open.spotify.com/album/25lcvkvNjoSlU07gs1M3hi) | 4:15 | 2022-06-09 | 2022-07-07 |
+| [生命線](https://open.spotify.com/track/2fgAVfnav5XAEwKi19PVxC) | [ReoNa](https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C) | [HUMAN](https://open.spotify.com/album/1viQNIgOEcg34svVzSB5Ic) | 4:15 | 2023-05-18 |  |
 | [生命線 \-Game size\-](https://open.spotify.com/track/48HR0RKVyUbjctXPbI4y4r) | [ReoNa](https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C) | [月姫 \-A piece of blue glass moon\- Original Soundtrack](https://open.spotify.com/album/1vbPDL5Hm1PcjUrbcw5Ulo) | 1:39 | 2022-06-09 |  |
 | [葬送の儀](https://open.spotify.com/track/4pLF9u0jEuO6jIeaydBkRW) | [神崎エルザ](https://open.spotify.com/artist/3EzK2WRDfjAtTAVRHW8HWR), [ReoNa](https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C) | [Prologue](https://open.spotify.com/album/3zGbre3z1scVAZcRyRfTpw) | 4:02 | 2022-08-14 | 2022-09-22 |
 | [葬送の儀](https://open.spotify.com/track/54Wn2RQDn1tKIcFhpwVMSZ) | [神崎エルザ](https://open.spotify.com/artist/3EzK2WRDfjAtTAVRHW8HWR), [ReoNa](https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C) | [Prologue](https://open.spotify.com/album/4nvlGw1x1DAg3hm3GXypgj) | 4:02 | 2022-06-09 |  |

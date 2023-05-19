@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbOKKEa4x1DK.md) - [plain]
 
 > Para los enamorados y despechados.
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,095 likes - 60 songs - 4 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,114 likes - 60 songs - 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,8 +22,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbOKKEa4x1DK.md) - [plain]
 | 12 | [Demasiado Romantica](https://open.spotify.com/track/5e6DvXTWzC8i9MdsLZaTgb) | [Eddy Herrera](https://open.spotify.com/artist/4yNdrUaF54csrLixVTnqzC) | [Atrevido](https://open.spotify.com/album/4DKgafmoXFZmhi73FJ0UQt) | 4:40 |
 | 13 | [Brujería Con Chilli: On Fire, Episodio 2](https://open.spotify.com/track/6jhpQItsk0OBlus9hEHfDK) | [Olga Tañón](https://open.spotify.com/artist/4pv1Jo4PbYI8LMADJoTWjE) | [Brujería Con Chilli: On Fire, Episodio 2](https://open.spotify.com/album/0zBjJzad6oD7omkXaZEIjz) | 5:42 |
 | 14 | [La Fotografia](https://open.spotify.com/track/7i9uj69rIkwhdfTEufTlZO) | [Richie Cepeda](https://open.spotify.com/artist/6xRglkIjJnIhNWRE69S0WJ) | [Mis Exitos Vol.1](https://open.spotify.com/album/1OMSX1edYAzHljA8tU1z0x) | 4:06 |
-| 15 | [Palabritas](https://open.spotify.com/track/1OLipTUWDrz67unieZgkdD) | [El Jeffrey](https://open.spotify.com/artist/0WfG4KbWJJoxomK5HH1kSX) | [Mi Tierra](https://open.spotify.com/album/7vld1FYKOT0Rdo6bEfur8V) | 3:44 |
-| 16 | [Que Levante la Mano](https://open.spotify.com/track/0zg7eikeFzJg2GZcNZi24l) | [Joseph Fonseca](https://open.spotify.com/artist/0XyTZ8tZBTUvsB9N2470r0) | [Escúchame](https://open.spotify.com/album/1O4E5VYQQeZX7GMkRjZn6r) | 3:57 |
+| 15 | [Que Levante la Mano](https://open.spotify.com/track/0zg7eikeFzJg2GZcNZi24l) | [Joseph Fonseca](https://open.spotify.com/artist/0XyTZ8tZBTUvsB9N2470r0) | [Escúchame](https://open.spotify.com/album/1O4E5VYQQeZX7GMkRjZn6r) | 3:57 |
+| 16 | [Palabritas](https://open.spotify.com/track/1OLipTUWDrz67unieZgkdD) | [El Jeffrey](https://open.spotify.com/artist/0WfG4KbWJJoxomK5HH1kSX) | [Mi Tierra](https://open.spotify.com/album/7vld1FYKOT0Rdo6bEfur8V) | 3:44 |
 | 17 | [Si Algún Día la Ves](https://open.spotify.com/track/28rvnECjh1GrqsHKwkDRVi) | [Sergio Vargas](https://open.spotify.com/artist/4EzD52bDFGZTEeEucKHtDs) | [Los Años Dorados de Sergio Vargas](https://open.spotify.com/album/3B3k2YlC02MqT2t8mkOMQf) | 4:44 |
 | 18 | [Otra Como Tu](https://open.spotify.com/track/4Vn7MXHMq3qXY3kAfUttc8) | [Toño Rosario](https://open.spotify.com/artist/4DjY0CaKAejJgghVHTaOUy) | [Lo Mejor De Toño Rosario](https://open.spotify.com/album/6M9B9lMQrR8e6RKBARRAEp) | 4:32 |
 | 19 | [Estoy Enamorado](https://open.spotify.com/track/1rYzUTFXaBOmZ3ibcb3CRu) | [Omega](https://open.spotify.com/artist/1UjxAZqzphB1tsMb1aWBj0) | [El Dueño Del Flow 2 \(New Deluxe Version\)](https://open.spotify.com/album/4LJFxXaQCaVu6zVtGvWgI9) | 4:30 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbOKKEa4x1DK.md) - [plain]
 | 59 | [Esa Mujer](https://open.spotify.com/track/6pGsdur9mCYPIf8ZmXBedr) | [Julian](https://open.spotify.com/artist/16WE6ZSzPgSVwzjpen71eI) | [El Mas Duro](https://open.spotify.com/album/0FISHOo9xahqeM8glh8m3E) | 4:11 |
 | 60 | [Tu No Sabes Del Amor](https://open.spotify.com/track/0ShBMVpAUJpoD9g9dKrqfF) | [El Sujeto](https://open.spotify.com/artist/1agXndRcnMoHrs8BqFDi0R) | [I Love Urbano 2011 \(Dembow \- Mambo \- Reggaeton \- Merengue Urbano\)](https://open.spotify.com/album/4GT87SeLVbNcbb4KYqb0nj) | 3:42 |
 
-Snapshot ID: `MCwyNDAxNWQxZjVkNmI5MTg2OTM2MjViYzYyNWIyYzg0ZDYwZTIxZjIx`
+Snapshot ID: `MCwzY2M3NjczZmI5ZTY3MjI4Yjg1Mjg5MDllMDM4ZTg3YmJmMjlmOWE0`

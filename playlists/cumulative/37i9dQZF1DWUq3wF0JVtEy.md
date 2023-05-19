@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:edm\_dance">Shuffle</a> your heart out.
 
-321 songs - 15 hr 45 min
+322 songs - 15 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,7 +51,7 @@
 | [Can't See](https://open.spotify.com/track/1kYkGEVNpugTZiigbiNK2W) | [NEVERGLOW](https://open.spotify.com/artist/2K7Hlrg5cti0mVKx4l0Rwz) | [Can't See](https://open.spotify.com/album/2BncSMJsjWgHrl6XbgMbjr) | 3:07 | 2022-04-29 | 2022-07-15 |
 | [Cardio](https://open.spotify.com/track/1gsrFaPPIpxsD92lNZHWzG) | [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ) | [Cardio](https://open.spotify.com/album/3Tb8sBjaY5Ah5Efpc8Z7xo) | 2:20 | 2021-10-29 | 2022-12-17 |
 | [Carried Away \(Love To Love\) \(with Madison Beer\) \[Tchami Remix\]](https://open.spotify.com/track/4UWYz4VDyycuuyN2A9B2sY) | [Surf Mesa](https://open.spotify.com/artist/1lmU3giNF3CSbkVSQmLpHQ), [Madison Beer](https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q), [Tchami](https://open.spotify.com/artist/1KpCi9BOfviCVhmpI4G2sY) | [Carried Away \(Love To Love\) \[Tchami Remix\]](https://open.spotify.com/album/3jmkm8U4Fp8LX1qBH0nzmx) | 4:49 | 2021-10-29 | 2022-08-06 |
-| [Cathedral \(Piece Of Me\) \[feat\. JEN\]](https://open.spotify.com/track/7CXln4Z9LfQdsPpXaPrDQn) | [Sevek](https://open.spotify.com/artist/0aOIluXr131XqrXFwFCFGT), [JEN](https://open.spotify.com/artist/6DaSJnsDXVDcrHzru4MHrx) | [Cathedral \(Piece Of Me\) \[feat\. JEN\]](https://open.spotify.com/album/7bOJCwe874SKa24MfzyNEG) | 2:28 | 2022-09-16 |  |
+| [Cathedral \(Piece Of Me\) \[feat\. JEN\]](https://open.spotify.com/track/7CXln4Z9LfQdsPpXaPrDQn) | [Sevek](https://open.spotify.com/artist/0aOIluXr131XqrXFwFCFGT), [JEN](https://open.spotify.com/artist/6DaSJnsDXVDcrHzru4MHrx) | [Cathedral \(Piece Of Me\) \[feat\. JEN\]](https://open.spotify.com/album/7bOJCwe874SKa24MfzyNEG) | 2:28 | 2022-09-16 | 2023-05-19 |
 | [Change Your Mind](https://open.spotify.com/track/614o3Tg9I7Xv8xkovjSp7a) | [Interupt](https://open.spotify.com/artist/0OFn6uw0q674vCcjDRNP4I) | [Change Your Mind](https://open.spotify.com/album/4lzvg3fmxUlAGaxfbWhBt4) | 3:04 | 2021-10-29 |  |
 | [Check Out](https://open.spotify.com/track/2n6qz4opcJlHsEpI8030YM) | [J\. Worra](https://open.spotify.com/artist/4q0N3EI67tVnAeeaXbNQIj), [Leo Stannard](https://open.spotify.com/artist/37fzXndf2fxVrk7qarhyo0) | [Check Out](https://open.spotify.com/album/1i9flcfwW08i5ynf4YZHsb) | 2:54 | 2022-01-21 |  |
 | [Cheque](https://open.spotify.com/track/1CE0qHhs1ptJg01dGROO2c) | [Don Diablo](https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1) | [Cheque](https://open.spotify.com/album/60wvUC6xVoV8ZXeoW7sP1g) | 2:45 | 2021-10-29 |  |
@@ -160,6 +160,7 @@
 | [It Doesn't Matter](https://open.spotify.com/track/5I9JYEaXmKsrHlXsnvNYjd) | [SMACK](https://open.spotify.com/artist/5uJw4WCX5nYj4FHky9r1Ug), [DJs From Mars](https://open.spotify.com/artist/1pmwwNA38kkkJwEMWe8hLD) | [It Doesn't Matter](https://open.spotify.com/album/60pKd4GWa9RYzVRspilfHg) | 2:24 | 2023-03-03 | 2023-04-04 |
 | [Joi](https://open.spotify.com/track/3olgZmF1O7MHpv76iHmDDf) | [Funkin Matt](https://open.spotify.com/artist/11chB4Th19iMA7j65oGMk1) | [Joi](https://open.spotify.com/album/5EBb7SSkPgxO9Lmt8NjAPT) | 3:36 | 2021-10-29 | 2022-12-17 |
 | [Juicy Sushi](https://open.spotify.com/track/0Y5IZuawYGfvmmLwRz1YW2) | [YouNotUs](https://open.spotify.com/artist/67ghKnycRX6VM1xfqJSMlH) | [Juicy Sushi](https://open.spotify.com/album/3tKRSStZAlKxPsW9RuOZI2) | 2:24 | 2021-10-29 | 2022-04-20 |
+| [Just Like You](https://open.spotify.com/track/3KX6ILZKKVZwCqLQGtrjCk) | [Conro](https://open.spotify.com/artist/1BAdSa5cdtCNLbvT7gWmtJ), [Boslen](https://open.spotify.com/artist/7mX72Bq2iXNr8fZdu23fQL) | [Just Like You](https://open.spotify.com/album/6Nyy3Mp85GkTtQV8eMv5Dy) | 2:40 | 2023-05-05 |  |
 | [Kush](https://open.spotify.com/track/1mcKSOFFc19eci3MVpMLEu) | [Guz](https://open.spotify.com/artist/2T86EVnDCP64EaVKRXIcRx), [Ferreck Dawn](https://open.spotify.com/artist/3cnAJv9gydgm52KFIsdvO8) | [Kush](https://open.spotify.com/album/6vfZKcqvCdoao2flVOevNr) | 2:36 | 2021-10-29 |  |
 | [Late Night Feels \(Öwnboss Remix\)](https://open.spotify.com/track/0xjVvYD6h76UlNkGl3L7Q4) | [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf), [MONSTA X](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz), [Öwnboss](https://open.spotify.com/artist/37czgDRfGMvgRiUKHvnnhj) | [Late Night Feels \(Öwnboss Remix\)](https://open.spotify.com/album/5OOvHH51kDIkwrJv4YUEIQ) | 3:10 | 2022-09-30 | 2023-05-15 |
 | [Leave Your Mind Behind](https://open.spotify.com/track/0GS82JsyvXX5SSCjw725tK) | [Glass Petals](https://open.spotify.com/artist/0O8f8ea4d3UvxzrJxkYIb0) | [Leave Your Mind Behind](https://open.spotify.com/album/3zPG0oOh6G8XicQDp4HX0z) | 3:06 | 2022-01-28 | 2022-09-15 |

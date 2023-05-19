@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2Cuzya.md) - [plain]
 
 > This is Gracie Abrams\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 44,261 likes - 24 songs - 1 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 44,348 likes - 24 songs - 1 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,4 +33,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2Cuzya.md) - [plain]
 | 23 | [Full machine](https://open.spotify.com/track/6hPippCCh6sNjUbZBYU0LW) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Good Riddance](https://open.spotify.com/album/5ZCIbfKnv3GF5h5h8MiRzQ) | 4:15 |
 | 24 | [Better](https://open.spotify.com/track/0vZhOON6GYVBxv6ZeeHyZ0) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [This Is What It Feels Like](https://open.spotify.com/album/7l2g05NyprwonSFIs2y8at) | 2:50 |
 
-Snapshot ID: `MjgwNzIyMDUsMDAwMDAwMDAyZjkxNmY0ZGY4OTI0M2NiZDRjNjE2OWUwMzVkOTI3Zg==`
+Snapshot ID: `MjgwNzM1MzIsMDAwMDAwMDA3ZWNjNzg4NzE5YmQwOTQ3YzQxODgzMDVkMjRlOTAxMw==`

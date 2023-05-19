@@ -4,7 +4,7 @@
 
 > A soft and slow soundtrack to play in the background to all your activities.
 
-583 songs - 1 day 15 hr 8 min
+585 songs - 1 day 15 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,7 +30,7 @@
 | [Adrift](https://open.spotify.com/track/1bMvqBFGPYsNVRCxYFUkRu) | [Geeder](https://open.spotify.com/artist/65SoHM1qvoOmpiIBxWGAk1) | [Adrift](https://open.spotify.com/album/1xbQp1I63p3105CriGuV6n) | 3:46 | 2023-01-12 |  |
 | [Affection](https://open.spotify.com/track/62LIjQ7uet2hOT9577QYoq) | [Hunter Paige](https://open.spotify.com/artist/4JNwhTb4YN98anDrWn2kIZ) | [Affection](https://open.spotify.com/album/0xye9fPdkqLWvaW52XXpg5) | 3:26 | 2023-04-20 |  |
 | [After You've Gone](https://open.spotify.com/track/7If1cSPSy5zpDFxNTYzHRs) | [Jonas Olofsson](https://open.spotify.com/artist/5ZVjwllTKhsYz9yuvrPp6O) | [After You've Gone](https://open.spotify.com/album/2xWwdUCyFng2oWhP6MeuUy) | 2:42 | 2023-04-20 |  |
-| [Ain't Misbehavin](https://open.spotify.com/track/4TndToxlz7Qdvpb2O9s9HM) | [Johnny Hartman](https://open.spotify.com/artist/7qVvIFc9DktkAc0HKzRhNo) | [Songs from the Heart \(Remastered 2013\)](https://open.spotify.com/album/48BrV5YcWquBv6KltXu8GW) | 2:49 | 2021-12-03 |  |
+| [Ain't Misbehavin](https://open.spotify.com/track/4TndToxlz7Qdvpb2O9s9HM) | [Johnny Hartman](https://open.spotify.com/artist/7qVvIFc9DktkAc0HKzRhNo) | [Songs from the Heart \(Remastered 2013\)](https://open.spotify.com/album/48BrV5YcWquBv6KltXu8GW) | 2:49 | 2021-12-03 | 2023-05-19 |
 | [Akaishi](https://open.spotify.com/track/5npOIRaqGTVT5Ur8cf4i4K) | [Moonside Trio](https://open.spotify.com/artist/2ao6PMtoUQBZfUGTP5IVAA) | [Akaishi](https://open.spotify.com/album/4wTd18kaoayJm6JDQmiS1e) | 3:50 | 2022-11-10 |  |
 | [Alba](https://open.spotify.com/track/0S2mPQyeW7ivA6HIyxR7pB) | [Søren Bebe Trio](https://open.spotify.com/artist/32sqNe2WFtog9WufAVd8EI) | [Echoes](https://open.spotify.com/album/00TmCrY8qOym3jKstft5fx) | 4:24 | 2021-12-03 |  |
 | [Alfie](https://open.spotify.com/track/6WiOLR12myN6odhdOcwC9P) | [Antonio Zambrini](https://open.spotify.com/artist/6TW82eCj0y0x0l5lyP77RL), [Jesper Bodilsen](https://open.spotify.com/artist/1rWaPwUXLx3KlTmOcO66L2), [Martin Maretti Andersen](https://open.spotify.com/artist/1pjHY4vNthS2YoK8R4Ty0G) | [Alfie](https://open.spotify.com/album/4ZkR2XXyHE373ZUv8k2CNY) | 8:19 | 2023-03-16 | 2023-05-01 |
@@ -135,6 +135,7 @@
 | [Downtrodden](https://open.spotify.com/track/08oIyomJzeb3f79sWVT24b) | [The Lyon Hearts](https://open.spotify.com/artist/2PmIl3LOJlfzGgWvxrj1Hd) | [Downtrodden](https://open.spotify.com/album/2VWoktWJQb1VQyzjjdC8vU) | 3:08 | 2023-02-02 |  |
 | [Dream A Little Dream Of Me](https://open.spotify.com/track/7sO8fLoq7H3er7C24UtLiF) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz), [Count Basie](https://open.spotify.com/artist/2jFZlvIea42ZvcCw4OeEdA) | [Ella And Basie](https://open.spotify.com/album/752AJr22BFy9yubj4XJauv) | 4:06 | 2021-12-03 | 2022-06-09 |
 | [Dreamsville](https://open.spotify.com/track/4AnJZTcx01nxo47QyYbskV) | [Pearl Street Trio](https://open.spotify.com/artist/6vOQ06tNCXPAdGfaNV3L0k) | [Dreamsville](https://open.spotify.com/album/60rdAuFzDeyUJIJRneqY3A) | 4:21 | 2022-11-10 |  |
+| [Drifting Apart](https://open.spotify.com/track/3yuGg1Z1kHMoXVMv7iGg6E) | [More than Jazz](https://open.spotify.com/artist/6BLANsh44CPzD19TF0X0Et) | [Drifting Apart](https://open.spotify.com/album/7DTe3QXy4XrjCmu3lQUFhU) | 3:32 | 2023-05-18 |  |
 | [Easy Come, Easy Go](https://open.spotify.com/track/0qg73uNbX6hOkoP52wU8bp) | [Anita O'Day](https://open.spotify.com/artist/5QGnprJtpZmk3OiDqspPlB) | [Cool Heat](https://open.spotify.com/album/4Ix7dU6CFuN4UUJW7xpT7u) | 3:13 | 2021-12-03 | 2023-03-27 |
 | [Elise](https://open.spotify.com/track/7m8rFWJzA6VJQnLVqiWvGL) | [Holborns](https://open.spotify.com/artist/2gC8FqAcOqWElBDNVIHbRm) | [Elise](https://open.spotify.com/album/5TdOcjjm9BUdSOVLzGIWV3) | 2:40 | 2022-11-10 |  |
 | [Empty Embrace](https://open.spotify.com/track/23M3EyLMK59mwAftJcWjJX) | [Halcyon Jazz Band](https://open.spotify.com/artist/65v6vabYRS8eorJk8Heb6n) | [Empty Embrace](https://open.spotify.com/album/7tZNqPtohwikYeyXWlMLhd) | 3:05 | 2023-04-14 |  |
@@ -532,7 +533,7 @@
 | [Trouble In Mind](https://open.spotify.com/track/1Q3nwehHU6712WVfvpWVpz) | [Red Garland](https://open.spotify.com/artist/35iymrFS4VnsKn35ebHKX9) | [Red In Bluesville](https://open.spotify.com/album/275AqoGJKv5Mu2quadBUTM) | 5:44 | 2022-04-14 | 2023-05-09 |
 | [Trouble In Paris](https://open.spotify.com/track/7BtcpMyPOIHtuOI1BpklIk) | [Kristian Hart Trio](https://open.spotify.com/artist/6qAas9yPupFktSVPPYebnU) | [Trouble In Paris](https://open.spotify.com/album/6Ewoxo3WR20TTILfqglnwd) | 2:49 | 2023-03-23 |  |
 | [Twenty Somethings](https://open.spotify.com/track/4eaogpCx2UNkKylwlDNGJ7) | [The Central Park North](https://open.spotify.com/artist/5puwAFDyA8ztu2yucgdWKY) | [Twenty Somethings](https://open.spotify.com/album/2U3BM2wzkqr0aKtZm4bNyP) | 2:32 | 2022-12-08 |  |
-| [Under A Blanket Of Blue](https://open.spotify.com/track/2WesYvXttArUlbpOGDCwR3) | [Coleman Hawkins](https://open.spotify.com/artist/0JM134st8VY7Ld9T2wQiH0) | [The Hawk Relaxes](https://open.spotify.com/album/3fRgp7LyVaJow0lcZ9dZyH) | 4:36 | 2021-12-03 |  |
+| [Under A Blanket Of Blue](https://open.spotify.com/track/2WesYvXttArUlbpOGDCwR3) | [Coleman Hawkins](https://open.spotify.com/artist/0JM134st8VY7Ld9T2wQiH0) | [The Hawk Relaxes](https://open.spotify.com/album/3fRgp7LyVaJow0lcZ9dZyH) | 4:36 | 2021-12-03 | 2023-05-19 |
 | [Under A Smiling Moon](https://open.spotify.com/track/0aqmVdsk85uvygzAxpJENH) | [Peter Sandberg](https://open.spotify.com/artist/3LtlJprzuq0Ii8p8YFZXai) | [A Scandinavian Thing](https://open.spotify.com/album/0qy8kSH76bUb9abjOjfh7W) | 4:23 | 2023-02-02 |  |
 | [Unending](https://open.spotify.com/track/2XpPGcRWevUyye6j0pCNFQ) | [The Levon Trio](https://open.spotify.com/artist/08hb6f203kyAPrQkV3LlFZ) | [Once Knowing](https://open.spotify.com/album/1J3QLGLdMJZfIFLxsvojWW) | 4:17 | 2023-02-23 |  |
 | [Unsentimental](https://open.spotify.com/track/7JmMOryQFeykS1BEWInJSs) | [Snorre Kirk](https://open.spotify.com/artist/1QgZiL5uQ3WN1sMkmbVaGM), [Stephen Riley](https://open.spotify.com/artist/6r96KF2Ucx8cUwBvgnxRYD) | [Unsentimental](https://open.spotify.com/album/1XetCzlMmbbOg5evN3Bp9d) | 5:00 | 2021-12-03 | 2023-04-29 |
@@ -552,6 +553,7 @@
 | [What A Little Moonlight Can Do](https://open.spotify.com/track/33sW1w6GqKgSolhokSdhpd) | [Gottfried Barber Trio](https://open.spotify.com/artist/1QO8UVy5AHBqOWgHWEYywf) | [What A Little Moonlight Can Do](https://open.spotify.com/album/4skOjbMtwpf1zAZHyBanTN) | 2:33 | 2022-11-10 |  |
 | [What Are You Doing The Rest Of Your Life](https://open.spotify.com/track/4cZS6Zsn3H7Srg42UX7v5W) | [Rigmor Gustafsson](https://open.spotify.com/artist/4PVhLylgFzJbW165GuwMzU) | [On My Way to You](https://open.spotify.com/album/1HQrW5oQigjeWcKwR3HkNX) | 5:57 | 2021-12-03 | 2023-03-25 |
 | [What Are You Doing The Rest Of Your Life?](https://open.spotify.com/track/6UN7iywg34GxVpbWGcEuPd) | [Bill Charlap Trio](https://open.spotify.com/artist/5isSr1JUeHt5cgh8oWz1Ja) | [Street Of Dreams](https://open.spotify.com/album/61y1rgjqARtBJxEn4WEPPr) | 7:30 | 2021-12-03 |  |
+| [What Could've Been](https://open.spotify.com/track/2bfmkWvP7dKxPMPqQR628T) | [Matt Marantz Quartet](https://open.spotify.com/artist/0UaQ3qnMEuBWsPnbKWJo8V) | [Theme of the West](https://open.spotify.com/album/1ZJm7OHHWbpTvzdtKt1uX4) | 3:43 | 2023-05-18 |  |
 | [What's Life Without You](https://open.spotify.com/track/4bb1bddVF7iDn4Db0bY4Ic) | [Mr\. Right Time](https://open.spotify.com/artist/0WPPJlHG7B9doyzIEy69LQ) | [In My Own Small World](https://open.spotify.com/album/1nEShi0S3yWyDvXW6evjgl) | 4:18 | 2022-11-10 |  |
 | [What's The Rush](https://open.spotify.com/track/2GIqdPK9c8npWf07kU6bqH) | [Johnny Hodges](https://open.spotify.com/artist/7lRFrrINQTY35g8hq0kXY5), [Gerry Mulligan](https://open.spotify.com/artist/6l40OFJhuTbHQ9V12evc9K) | [Gerry Mulligan Meets Johnny Hodges](https://open.spotify.com/album/3qtmg537HyA6zWtAnwM98z) | 3:42 | 2021-12-03 | 2022-11-11 |
 | [What's The Rush](https://open.spotify.com/track/7yRMYF0BqrqPjinbG9Ja3Z) | [Johnny Hodges](https://open.spotify.com/artist/7lRFrrINQTY35g8hq0kXY5), [Gerry Mulligan](https://open.spotify.com/artist/6l40OFJhuTbHQ9V12evc9K) | [Keep Calm with Jazz](https://open.spotify.com/album/6Id96zESyjAKNBGB427Tfo) | 3:42 | 2023-03-16 | 2023-04-29 |

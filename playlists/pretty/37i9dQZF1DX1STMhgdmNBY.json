@@ -1,12 +1,12 @@
 {
   "description": "For body and mind, blues straight from the soul.",
-  "num_followers": 51340,
+  "num_followers": 51453,
   "original_name": "Healin' Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlZWJjMzk4NjU5M2U4ZjEwZmI0Mzc0YWY4NmY1NjNkZDk0ZDQ2ODdk",
+  "snapshot_id": "MCwzMWFiODFlYTlmNDBlZmFlODgzZDZmYWQ0NGFiYTVlMTJlMDQzZTg1",
   "tracks": [
     {
       "added_at": "2023-05-05 00:01:00",
@@ -279,22 +279,6 @@
     {
       "added_at": "2023-05-05 00:01:00",
       "album": {
-        "name": "Hung Down Head",
-        "url": "https://open.spotify.com/album/4x3NEnpfAk2NY3jD6UDLEV"
-      },
-      "artists": [
-        {
-          "name": "Lowell Fulson",
-          "url": "https://open.spotify.com/artist/3VhvGNnWfzmlEyiuhzdgf5"
-        }
-      ],
-      "duration_ms": 189466,
-      "name": "Reconsider Baby",
-      "url": "https://open.spotify.com/track/65JvAtDMWtNIjDCDOLeJ2A"
-    },
-    {
-      "added_at": "2023-05-05 00:01:00",
-      "album": {
         "name": "The Genius Sings the Blues",
         "url": "https://open.spotify.com/album/6htjXDcCIWm6rC0HNlFc0a"
       },
@@ -307,6 +291,22 @@
       "duration_ms": 175773,
       "name": "Hard Times (No One Knows Better Than I)",
       "url": "https://open.spotify.com/track/4ADzk9oX44sCGJPE5OjNcW"
+    },
+    {
+      "added_at": "2023-05-05 00:01:00",
+      "album": {
+        "name": "Hung Down Head",
+        "url": "https://open.spotify.com/album/4x3NEnpfAk2NY3jD6UDLEV"
+      },
+      "artists": [
+        {
+          "name": "Lowell Fulson",
+          "url": "https://open.spotify.com/artist/3VhvGNnWfzmlEyiuhzdgf5"
+        }
+      ],
+      "duration_ms": 189466,
+      "name": "Reconsider Baby",
+      "url": "https://open.spotify.com/track/65JvAtDMWtNIjDCDOLeJ2A"
     },
     {
       "added_at": "2023-05-05 00:01:00",
@@ -359,22 +359,6 @@
     {
       "added_at": "2023-05-05 00:01:00",
       "album": {
-        "name": "Had to Cry Today",
-        "url": "https://open.spotify.com/album/4NS1YYttwG5mtWQCdpbvjV"
-      },
-      "artists": [
-        {
-          "name": "Joe Bonamassa",
-          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
-        }
-      ],
-      "duration_ms": 411960,
-      "name": "Reconsider Baby",
-      "url": "https://open.spotify.com/track/46tOHo9SThlggrU2MiijEC"
-    },
-    {
-      "added_at": "2023-05-05 00:01:00",
-      "album": {
         "name": "Born Under A Bad Sign",
         "url": "https://open.spotify.com/album/42WQ76qWDQmHlHvJa6Z3Uw"
       },
@@ -387,6 +371,22 @@
       "duration_ms": 226600,
       "name": "As The Years Go Passing By",
       "url": "https://open.spotify.com/track/71auWR3IZdhDv3M8RZsqIF"
+    },
+    {
+      "added_at": "2023-05-05 00:01:00",
+      "album": {
+        "name": "Had to Cry Today",
+        "url": "https://open.spotify.com/album/4NS1YYttwG5mtWQCdpbvjV"
+      },
+      "artists": [
+        {
+          "name": "Joe Bonamassa",
+          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
+        }
+      ],
+      "duration_ms": 411960,
+      "name": "Reconsider Baby",
+      "url": "https://open.spotify.com/track/46tOHo9SThlggrU2MiijEC"
     },
     {
       "added_at": "2023-05-05 00:01:00",
@@ -735,6 +735,22 @@
     {
       "added_at": "2023-05-05 00:01:00",
       "album": {
+        "name": "Chicago Blues Session Volume 3",
+        "url": "https://open.spotify.com/album/3vdYcbFn0CFZZkYR9HisI8"
+      },
+      "artists": [
+        {
+          "name": "Magic Slim & The Teardrops",
+          "url": "https://open.spotify.com/artist/2HjJcAHHvf3xGxYQ6LXSat"
+        }
+      ],
+      "duration_ms": 442346,
+      "name": "So Easy To Love You",
+      "url": "https://open.spotify.com/track/7LZlJz418kxtuK3QkGvL15"
+    },
+    {
+      "added_at": "2023-05-05 00:01:00",
+      "album": {
         "name": "Georgia Blue",
         "url": "https://open.spotify.com/album/2JGpezeVAwq7Jw2ua3EniV"
       },
@@ -751,22 +767,6 @@
       "duration_ms": 271199,
       "name": "It's a Man's, Man\u2019s, Man\u2019s World",
       "url": "https://open.spotify.com/track/5CfGXaEPnhwqAlhX2PJmy4"
-    },
-    {
-      "added_at": "2023-05-05 00:01:00",
-      "album": {
-        "name": "Chicago Blues Session Volume 3",
-        "url": "https://open.spotify.com/album/3vdYcbFn0CFZZkYR9HisI8"
-      },
-      "artists": [
-        {
-          "name": "Magic Slim & The Teardrops",
-          "url": "https://open.spotify.com/artist/2HjJcAHHvf3xGxYQ6LXSat"
-        }
-      ],
-      "duration_ms": 442346,
-      "name": "So Easy To Love You",
-      "url": "https://open.spotify.com/track/7LZlJz418kxtuK3QkGvL15"
     },
     {
       "added_at": "2023-05-05 00:01:00",

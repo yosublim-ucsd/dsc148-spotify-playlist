@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX56qfiUZBncF.md) - [plain]
 
 > Let these innovative tracks spark your creativity and inspiration.
 
-[Spotify](https://open.spotify.com/user/spotify) - 378,766 likes - 100 songs - 5 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 378,781 likes - 100 songs - 5 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,8 +21,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX56qfiUZBncF.md) - [plain]
 | 11 | [Scarlett](https://open.spotify.com/track/5UqTWnG7YZAbj1SYMvnGsU) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [Can You Afford To Lose Me?](https://open.spotify.com/album/17XDDX3RYaIu56inOJzAWO) | 3:16 |
 | 12 | [Die Young](https://open.spotify.com/track/1BRwuvjhkgezmv1gcI6lT6) | [Sylvan Esso](https://open.spotify.com/artist/1pMyMaKdKUPbRu37t3Y2VP) | [What Now](https://open.spotify.com/album/1BJMCEXQ7JmuVlJ6cYbe3x) | 3:30 |
 | 13 | [Tailwhip](https://open.spotify.com/track/2DoO0sn4SbUrz7Uay9ACTM) | [Men I Trust](https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT) | [Tailwhip](https://open.spotify.com/album/7eJd4HvbzBoufq7pnKAIiy) | 3:45 |
-| 14 | [Your Man](https://open.spotify.com/track/6Vgtvd7I5yopJdBuxqjBd2) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [Nectar](https://open.spotify.com/album/6YKk4wlKdACRITGKmGnoIm) | 2:43 |
-| 15 | [The Divine Chord](https://open.spotify.com/track/3A0cAzFKPefBCz7Z02UnnO) | [The Avalanches](https://open.spotify.com/artist/3C8RpaI3Go0yFF9whvKoED), [MGMT](https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE), [Johnny Marr](https://open.spotify.com/artist/2bA2YuQk2ID3PWNXUhQrWS) | [We Will Always Love You](https://open.spotify.com/album/755yBlrk0Sz8tIgMMTgyr1) | 3:07 |
+| 14 | [The Divine Chord](https://open.spotify.com/track/3A0cAzFKPefBCz7Z02UnnO) | [The Avalanches](https://open.spotify.com/artist/3C8RpaI3Go0yFF9whvKoED), [MGMT](https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE), [Johnny Marr](https://open.spotify.com/artist/2bA2YuQk2ID3PWNXUhQrWS) | [We Will Always Love You](https://open.spotify.com/album/755yBlrk0Sz8tIgMMTgyr1) | 3:07 |
+| 15 | [Your Man](https://open.spotify.com/track/6Vgtvd7I5yopJdBuxqjBd2) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [Nectar](https://open.spotify.com/album/6YKk4wlKdACRITGKmGnoIm) | 2:43 |
 | 16 | [On the Lookout](https://open.spotify.com/track/4MDgmDaVN9UPyZ41Cxb3NV) | [NEIL FRANCES](https://open.spotify.com/artist/587PA35pRGL1JwQr6idJbb), [Raffaella](https://open.spotify.com/artist/0tYrHjgdca0ZLPkR4P0eW4) | [On the Lookout](https://open.spotify.com/album/5jI9z9PnaAzLU7Vj55dw7E) | 3:49 |
 | 17 | [lovers’ carvings](https://open.spotify.com/track/2cRYvcyWfz7jieYIBkI7JR) | [Bibio](https://open.spotify.com/artist/0qzzGu8qpbXYpzgV52wOFT) | [Ambivalence Avenue](https://open.spotify.com/album/5J9NcB7nK8kF7JsJur1V3G) | 3:58 |
 | 18 | [Back To My Bed](https://open.spotify.com/track/57ECZeJDxi0K9x4nWF75tK) | [Elderbrook](https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64) | [Why Do We Shake In The Cold?](https://open.spotify.com/album/1IVWxrGqgbK1hrbHIua1Qn) | 3:22 |
@@ -66,11 +66,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX56qfiUZBncF.md) - [plain]
 | 56 | [Fading](https://open.spotify.com/track/1H8qj01KxNgHyKHsF5QHXB) | [Vallis Alps](https://open.spotify.com/artist/7qhWa7UI1QNZNDnzYwAYZm) | [Fading](https://open.spotify.com/album/7GCPAZQCDwH0jF731PGq0I) | 4:42 |
 | 57 | [Edge of the Dark](https://open.spotify.com/track/4RE36XFP3a20pBSV9GdMAE) | [Emmit Fenn](https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6) | [Far From Here](https://open.spotify.com/album/3y1HiZb2e8rIP4nWMKJRFi) | 4:20 |
 | 58 | [I'll Be There](https://open.spotify.com/track/17mZZOqfeFSDS4Cu0ggkvW) | [BEKA](https://open.spotify.com/artist/1ClmHgLorY9RUCIvsTdT7A) | [I'll Be There](https://open.spotify.com/album/1WrbaQ0Z01VLqkqwspRU5J) | 3:55 |
-| 59 | [Julia \(deep diving\)](https://open.spotify.com/track/5DHSlpd0MX9DfnoAQqolfa) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Julia \(deep diving\)](https://open.spotify.com/album/2HJCdduuXbN70tTNQyuFQn) | 4:34 |
-| 60 | [Black Rain](https://open.spotify.com/track/68FiJnnzDQj7QnG7vGgnFz) | [Rhye](https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN) | [Black Rain](https://open.spotify.com/album/35rdGZPQisAnmSJkmf387b) | 3:51 |
-| 61 | [Artifice](https://open.spotify.com/track/7mp7xiw8cUpLPDTSZ1v5BS) | [SOHN](https://open.spotify.com/artist/6XZYAWJLL8UIbxAqjKj3cg) | [Tremors](https://open.spotify.com/album/021w8zNOK5t0XTrbvVUysp) | 3:17 |
+| 59 | [Black Rain](https://open.spotify.com/track/68FiJnnzDQj7QnG7vGgnFz) | [Rhye](https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN) | [Black Rain](https://open.spotify.com/album/35rdGZPQisAnmSJkmf387b) | 3:51 |
+| 60 | [Julia \(Deep Diving\)](https://open.spotify.com/track/5DHSlpd0MX9DfnoAQqolfa) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Julia \(deep diving\)](https://open.spotify.com/album/2HJCdduuXbN70tTNQyuFQn) | 4:34 |
+| 61 | [Feel Real](https://open.spotify.com/track/3LxBDk2jxjRmagg1VAwCGM) | [Deptford Goth](https://open.spotify.com/artist/3f8b2H7fazJlShrwj38XiS) | [Life After Defo](https://open.spotify.com/album/2SWmXOdNAbDfXeIYaE8iOW) | 4:12 |
 | 62 | [I Can't Believe I Had You](https://open.spotify.com/track/7n4UFFZEY1HfF87DfG2LZ4) | [Emmit Fenn](https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6) | [Until We Meet Again](https://open.spotify.com/album/4rYFRnhDXnSduTCS4BgAZd) | 4:28 |
-| 63 | [Feel Real](https://open.spotify.com/track/3LxBDk2jxjRmagg1VAwCGM) | [Deptford Goth](https://open.spotify.com/artist/3f8b2H7fazJlShrwj38XiS) | [Life After Defo](https://open.spotify.com/album/2SWmXOdNAbDfXeIYaE8iOW) | 4:12 |
+| 63 | [Artifice](https://open.spotify.com/track/7mp7xiw8cUpLPDTSZ1v5BS) | [SOHN](https://open.spotify.com/artist/6XZYAWJLL8UIbxAqjKj3cg) | [Tremors](https://open.spotify.com/album/021w8zNOK5t0XTrbvVUysp) | 3:17 |
 | 64 | [Jeanie](https://open.spotify.com/track/0yyLXG8mShBAwGk0oC7JCx) | [Jim\-E Stack](https://open.spotify.com/artist/4GmataFSHOSQWxuuUX57Bh), [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [EPHEMERA](https://open.spotify.com/album/1TFgjl0bCMERMukkaPtY9m) | 2:47 |
 | 65 | [This World](https://open.spotify.com/track/3C571WNMD9cqzDzeNrqNXE) | [Astral Weeks](https://open.spotify.com/artist/1hivL4fCqxeDzyReGyrIB3) | [This World](https://open.spotify.com/album/0z2OPouev2a1KQ5fA5xbxK) | 3:52 |
 | 66 | [Hoops](https://open.spotify.com/track/0aHYvskrJfgSgfRmxWjCbZ) | [Julia Wolf](https://open.spotify.com/artist/5yvGiZLSWJTPBlZpVbPnEZ) | [Hoops](https://open.spotify.com/album/7c65adcDfrYFbhYn1WzZ5p) | 3:19 |
@@ -80,8 +80,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX56qfiUZBncF.md) - [plain]
 | 70 | [Nighttime Hunger](https://open.spotify.com/track/4IE6Oa1YTTu0aICULOzXPn) | [Overcoats](https://open.spotify.com/artist/2pst3pDewxsl4kJERuDZpp) | [YOUNG](https://open.spotify.com/album/5X20kbbHdgPgFItjuHggIm) | 2:48 |
 | 71 | [I Want You](https://open.spotify.com/track/5m77d1ztVTdZN9FevK9TE1) | [Marian Hill](https://open.spotify.com/artist/1xHQO9GJIW9OXHxGBISYc5) | [ACT ONE \(The Complete Collection\)](https://open.spotify.com/album/2QTg7XF8hHMHexJLCKsqdA) | 3:32 |
 | 72 | [cherry blossom](https://open.spotify.com/track/2pVym24miJgEbF170Is2lO) | [slenderbodies](https://open.spotify.com/artist/3S4d3YRNGg2OhnNm3QvfhA) | [are we?](https://open.spotify.com/album/4tl1xL2MeyURq8Vk3enaze) | 2:21 |
-| 73 | [Emotion feat\. Wild Nothing](https://open.spotify.com/track/3pN4bdgaRvc3c61GCkEwDP) | [Molly Burch](https://open.spotify.com/artist/6bEYoIUTLdcs4lZBNVw5L5), [Wild Nothing](https://open.spotify.com/artist/6NrkINd80slV25wkBu9mEB) | [Romantic Images](https://open.spotify.com/album/25RhUgQQlr0u6G2r7np9bT) | 4:07 |
-| 74 | [No Time](https://open.spotify.com/track/1FG2lH6gxJCX94kOg2Sozp) | [Lastlings](https://open.spotify.com/artist/0M7GyeyRi2fG8c1LdP4jhi) | [First Contact](https://open.spotify.com/album/4dCgqMWPJuBmL0BHiXwIEf) | 3:56 |
+| 73 | [No Time](https://open.spotify.com/track/1FG2lH6gxJCX94kOg2Sozp) | [Lastlings](https://open.spotify.com/artist/0M7GyeyRi2fG8c1LdP4jhi) | [First Contact](https://open.spotify.com/album/4dCgqMWPJuBmL0BHiXwIEf) | 3:56 |
+| 74 | [Emotion feat\. Wild Nothing](https://open.spotify.com/track/3pN4bdgaRvc3c61GCkEwDP) | [Molly Burch](https://open.spotify.com/artist/6bEYoIUTLdcs4lZBNVw5L5), [Wild Nothing](https://open.spotify.com/artist/6NrkINd80slV25wkBu9mEB) | [Romantic Images](https://open.spotify.com/album/25RhUgQQlr0u6G2r7np9bT) | 4:07 |
 | 75 | [Swing Tree](https://open.spotify.com/track/3Gec0eWZ22o0rNKKUSSzLI) | [Discovery](https://open.spotify.com/artist/1fg65Qx6tRt0aXBfz5I4w5) | [LP \(Deluxe Edition\)](https://open.spotify.com/album/5ySTNJgYTaUQJwGBLYWpKv) | 2:38 |
 | 76 | [Nirvana](https://open.spotify.com/track/11VPN6SfBRRmF2fESXlNep) | [ELLIANA](https://open.spotify.com/artist/5t0KCCFs6BIelOxE4XGDRT) | [Nirvana](https://open.spotify.com/album/6HcXFfZ41boaTaIwGa3oPh) | 4:26 |
 | 77 | [Four Winds](https://open.spotify.com/track/3NPiANHZYahLZhUT00GwTw) | [Opia](https://open.spotify.com/artist/70zHrrrPfBkVV44AEhFyyh) | [Four Winds](https://open.spotify.com/album/3WgtvCNabRAok46pCZJyMt) | 3:43 |
@@ -107,6 +107,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX56qfiUZBncF.md) - [plain]
 | 97 | [Fallss](https://open.spotify.com/track/3rO7acmvb3TTaFBUD9jI1i) | [Bayonne](https://open.spotify.com/artist/6BbqU3r1G2mwkRIfIbkCek) | [Fallss](https://open.spotify.com/album/7t7xugAJAhJhY4AL5M5w1H) | 4:00 |
 | 98 | [Run Run \- Japanese Wallpaper Remix](https://open.spotify.com/track/2Mf0bgVGpUu3bPup06votX) | [Haux](https://open.spotify.com/artist/1ifC4znYCvmMSJ0rght5JS), [Samuraii](https://open.spotify.com/artist/2yNQvjEbPVQzceNCU1L2AO), [Japanese Wallpaper](https://open.spotify.com/artist/2xUsnfrcs3h2FzdRQvGmGM) | [Run Run \(Japanese Wallpaper Remix\)](https://open.spotify.com/album/5WCEypMGHYiBofTOnEpohr) | 3:25 |
 | 99 | [Arcadia](https://open.spotify.com/track/30AeH6saju8WPJo73cKZyH) | [The Kite String Tangle](https://open.spotify.com/artist/3D6cosC5ZOLCpRxt6T3XS7) | [Vessel](https://open.spotify.com/album/68yE0tQ8B2LwiIfgF5J8EI) | 3:33 |
-| 100 | [Who Knows](https://open.spotify.com/track/6FwgXgeoZkzn5iUcppWK3a) | [Cool Company](https://open.spotify.com/artist/6lOCVUQbb9wzuZQbZQV9zn) | [Bless You](https://open.spotify.com/album/1IOyct7shyBK5fwXUajCIr) | 2:31 |
+| 100 | [Queen of the Valley](https://open.spotify.com/track/164PqKYitMXTrr8nMt7owN) | [Young & Sick](https://open.spotify.com/artist/3pQXFWbvLit77NpvNmOo3k) | [Size of Relief](https://open.spotify.com/album/0DdOMiD6kPE0Kv119dNZCI) | 4:06 |
 
-Snapshot ID: `MCxkZjA4MmU3YTMwNjE3OTM5ZTE0ZTUyYWUzOTBlZWIyNzM5MDgwNmQ5`
+Snapshot ID: `MCxiYTRiNGU3MTk4MGQ0ZWQ5OWJiNzJlZjdmMzBiNjI4NTUxMjEwMTNl`

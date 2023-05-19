@@ -4,14 +4,15 @@
 
 > Hello you...Listen to music from and inspired by You, new episodes now streaming on Netflix.
 
-147 songs - 8 hr 51 min
+148 songs - 8 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [A Walk](https://open.spotify.com/track/0sQNqu37YQQSI3K0ueswyA) | [Tycho](https://open.spotify.com/artist/5oOhM2DFWab8XhSdQiITry) | [Dive](https://open.spotify.com/album/4CBUbnGFz2iKFJjYqRIwst) | 5:16 | 2023-02-11 |  |
 | [Always Be Together](https://open.spotify.com/track/1XaHmVO3Vs5GISHZxXYvgP) | [Orlando Roberton](https://open.spotify.com/artist/7riKi9pFrjpI2LeaOSzT3z), [Luke Roberts](https://open.spotify.com/artist/5xepmHueThuooxsPFaRERD), [Valerie Balligand](https://open.spotify.com/artist/6DjhnHxoFHVOIXQ3Gbr5pQ), [Oliver Price](https://open.spotify.com/artist/3scSqniwmRd3dq5ne4V5Gg) | [Lo\-Fi Indie](https://open.spotify.com/album/5ff9cIG6mHy3GlpWWw70W2) | 3:27 | 2023-02-09 |  |
 | [Anti\-Hero](https://open.spotify.com/track/0V3wPSX9ygBnCm8psDIegu) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Midnights](https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3) | 3:20 | 2023-03-09 |  |
-| [Are You All Good?](https://open.spotify.com/track/7I5tV3ZQVLRav2PADoFbb9) | [breathe.](https://open.spotify.com/artist/6XrEYPg6rrQMV4GKabTxbE) | [Breathe.](https://open.spotify.com/album/5w5bwL9qRsIQn58XqVhzO5) | 3:11 | 2023-02-09 |  |
+| [Are You All Good?](https://open.spotify.com/track/6bmoA5by5aXQp5hG8cRbyW) | [breathe.](https://open.spotify.com/artist/6XrEYPg6rrQMV4GKabTxbE) | [Breathe.](https://open.spotify.com/album/60GlIPJZ9E9mvH1SJCFCaa) | 3:11 | 2023-03-09 |  |
+| [Are You All Good?](https://open.spotify.com/track/7I5tV3ZQVLRav2PADoFbb9) | [breathe.](https://open.spotify.com/artist/6XrEYPg6rrQMV4GKabTxbE) | [Breathe.](https://open.spotify.com/album/5w5bwL9qRsIQn58XqVhzO5) | 3:11 | 2023-02-09 | 2023-05-19 |
 | [Barra Barra](https://open.spotify.com/track/5tgyfSDfbTdgVHbT0sHqeT) | [Rachid Taha](https://open.spotify.com/artist/2URqJkDiySO0FRiAUq75FV) | [Black Hawk Down \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3Eh8eEKS1cYsqCrZw2CyZf) | 5:47 | 2023-02-09 |  |
 | [Bells in Santa Fe](https://open.spotify.com/track/1Knd3MtE5sEQMh6txcg0k0) | [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [If I Can’t Have Love, I Want Power](https://open.spotify.com/album/3sq0hRtlT2SYeYajr5Cx22) | 3:37 | 2023-03-09 |  |
 | [Bodysnatchers](https://open.spotify.com/track/4pWIwnnqx8k01fuF95UMIg) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [In Rainbows](https://open.spotify.com/album/5vkqYmiPBYLaalcmjujWxK) | 4:02 | 2023-03-09 |  |

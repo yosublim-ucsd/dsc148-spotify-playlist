@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXafoakAmk88b.md) - [plain]
 
 > New Indie driving the current, every week.
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,937 likes - 120 songs - 6 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,978 likes - 120 songs - 6 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,7 +71,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXafoakAmk88b.md) - [plain]
 | 61 | [Touch Me](https://open.spotify.com/track/4uIVFtMN3AlkLfGYGV7TPM) | [DivineDevine](https://open.spotify.com/artist/2FmbdQRR6CJb0ZY5LW8bKJ), [Shai Nowell](https://open.spotify.com/artist/6uClb6xksR6JJJPRvAvES5), [2oo7](https://open.spotify.com/artist/13R1iYcEssmzmqLw7EcWFu) | [Riot Of The Kelly Green Love](https://open.spotify.com/album/0EogU0lIOTI9cWwdtxVuKr) | 2:40 |
 | 62 | [blue dream](https://open.spotify.com/track/1gYRR8ZHN3Ii9p7fggfihQ) | [Justend](https://open.spotify.com/artist/2UsrZRPk97l70i7PlXQ8hp), [loe4t](https://open.spotify.com/artist/7EgzC7ivtBbXIPst8RAKNe) | [blue dream](https://open.spotify.com/album/5dVdataC8Czd3mIh3gheEK) | 3:08 |
 | 63 | [Prom Queen](https://open.spotify.com/track/2xrYD5TVgsUAVa3G0oAzMr) | [Blessing](https://open.spotify.com/artist/57bDO2vmzu955G1W6EsYth) | [Prom Queen](https://open.spotify.com/album/0TfMAdRpJtLRv3DVK0I4Wp) | 2:48 |
-| 64 | [Do you miss me?](https://open.spotify.com/track/67r7ZHxVxONN9ZQk05AQVL) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [Do you miss me?](https://open.spotify.com/album/3Mp1zB42F2yqqOMEep7R3k) | 2:08 |
+| 64 | [Do You Miss Me?](https://open.spotify.com/track/67r7ZHxVxONN9ZQk05AQVL) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [Do you miss me?](https://open.spotify.com/album/3Mp1zB42F2yqqOMEep7R3k) | 2:08 |
 | 65 | [dirty dancer](https://open.spotify.com/track/1ciQU7ZQGHq129m3njp9en) | [Orion Sun](https://open.spotify.com/artist/2efrqekWSHlvhATD50AG3m) | [dirty dancer](https://open.spotify.com/album/6aO0vMIga31GSawF5f0pMZ) | 2:49 |
 | 66 | [Fuck Tha World](https://open.spotify.com/track/0BMNgV6BjAvWU3zueMBaRu) | [Dreamer Isioma](https://open.spotify.com/artist/6u6AbTVrbabv27DLcSrF8i) | [Fuck Tha World](https://open.spotify.com/album/49QnWzeoHyQsILlEoM8aAQ) | 2:21 |
 | 67 | [Selfish Soul](https://open.spotify.com/track/3XqP0HAPdDN3Lkdoufds20) | [Sudan Archives](https://open.spotify.com/artist/2MPHBxznH1fj59jbOWY38u) | [Natural Brown Prom Queen](https://open.spotify.com/album/1QSo9HgowUqAc5BI3AdkqN) | 2:22 |
@@ -129,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXafoakAmk88b.md) - [plain]
 | 119 | [Already free](https://open.spotify.com/track/45nFXvQK9RIi8zMip6ogzh) | [Shungudzo](https://open.spotify.com/artist/1zC5fndU0aEvINmBra2M3T) | [I’m not a mother, but I have children](https://open.spotify.com/album/3g658ZgE7SVrv89Y3VkjgX) | 2:18 |
 | 120 | [Act Up](https://open.spotify.com/track/1Oqr9YhCi3JmuHcyHDBhf8) | [Terry Presume](https://open.spotify.com/artist/4JLuMu6NZUAU8gYhrzvOdX) | [What Box?](https://open.spotify.com/album/6zxHzgT0fKSMEgIi7BpoyQ) | 3:04 |
 
-Snapshot ID: `MCwwODlhN2Q0ZmU3OGQ1ZDU0ZTZkMmJhM2E4MmE5YTY3NzE1MDhlNTAx`
+Snapshot ID: `MCxmOTE4OWJhMDg4ZDQzODY0ZDQ4OWI3OTdhYjJhYjNkZWM3YzZmZDQ2`

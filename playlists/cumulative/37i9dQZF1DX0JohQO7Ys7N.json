@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-24",
-  "description": "Kickback, Relax to some smooth R&B from The City Under The Sun - Nairobi. Cover: Amara Tari",
+  "description": "Kickback, Relax to some smooth R&B from The City Under The Sun - Nairobi. Cover: M. Rumbi",
   "name": "NairoBae",
   "tracks": [
     {
@@ -386,7 +386,7 @@
       ],
       "date_added": "2022-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 247438,
       "name": "Dizzy",
       "url": "https://open.spotify.com/track/3x3RkNq6HRBa35zuo0kcx8"
@@ -2085,6 +2085,28 @@
     },
     {
       "album": {
+        "name": "Sunshine State of Mind",
+        "url": "https://open.spotify.com/album/7oENnLSMaD5MLj1TG4bJh3"
+      },
+      "artists": [
+        {
+          "name": "M. Rumbi",
+          "url": "https://open.spotify.com/artist/6ToQowXRJ5GkBPHDECCEoP"
+        },
+        {
+          "name": "Lia April",
+          "url": "https://open.spotify.com/artist/4zduBC59YxJ3rRjz2E9x6F"
+        }
+      ],
+      "date_added": "2023-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196798,
+      "name": "Sunshine State of Mind",
+      "url": "https://open.spotify.com/track/2er73rABGL9TYoAkhyupMk"
+    },
+    {
+      "album": {
         "name": "Welcome 2 My Soul",
         "url": "https://open.spotify.com/album/4wVpKqI9vE8ce64g1lCukJ"
       },
@@ -2100,6 +2122,24 @@
       "duration_ms": 272926,
       "name": "Switch It Up",
       "url": "https://open.spotify.com/track/4SWMtMtaLoC2jpi5NWHr0y"
+    },
+    {
+      "album": {
+        "name": "Temporary Love",
+        "url": "https://open.spotify.com/album/7Ik6vXPyiM9jflElmt78cQ"
+      },
+      "artists": [
+        {
+          "name": "Xenia Manasseh",
+          "url": "https://open.spotify.com/artist/2J4IvVbi2h1wB2A0p5kd86"
+        }
+      ],
+      "date_added": "2023-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156213,
+      "name": "Temporary Love",
+      "url": "https://open.spotify.com/track/502fO9MaTL1FXQxilajwW8"
     },
     {
       "album": {

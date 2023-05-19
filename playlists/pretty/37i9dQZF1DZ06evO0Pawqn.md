@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Pawqn.md) - [plain]
 
 > This is Los Tiranos Del Norte\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,187 likes - 50 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,188 likes - 50 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,14 +49,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Pawqn.md) - [plain]
 | 39 | [En Tu Dia Mi Amor](https://open.spotify.com/track/7h6ulEngQG3YQqX8DPpZFH) | [Los Tiranos Del Norte](https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H) | [Hermosa Tirana](https://open.spotify.com/album/6L69NftVVtlSbBjaegb0Jn) | 2:49 |
 | 40 | [Esta Tristeza Mia](https://open.spotify.com/track/4EdxO6asjtoqsOkslDs3Fr) | [Los Tiranos Del Norte](https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H) | [Con Sangre Nortena](https://open.spotify.com/album/34hVlKjJ6JvQN9b7p1tTCr) | 3:31 |
 | 41 | [Por Una Mujer Bonita](https://open.spotify.com/track/39AnTZLp0oKSewkKjFZ6Jv) | [Los Tiranos Del Norte](https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H) | [Exitos De Oro](https://open.spotify.com/album/5gP2oZWJVWOCrEBH1pZRrZ) | 3:12 |
-| 42 | [Corazon de Vecindad](https://open.spotify.com/track/56tdpVNcEEwCTIvaZRlRk9) | [Los Tiranos Del Norte](https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H) | [Tesoros de Coleccion, Vol\. 1](https://open.spotify.com/album/43YQOZfMDgWtqa2LZ7R7eR) | 3:07 |
+| 42 | [Amor de Ayer](https://open.spotify.com/track/0owdTmklmyKpjCJwoIDD0l) | [Los Tiranos Del Norte](https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H) | [Tesoros de Coleccion, Vol\. 2](https://open.spotify.com/album/1KxMT0hlHsrGLSO1gvVFYD) | 3:10 |
 | 43 | [Cuando Sola Estes](https://open.spotify.com/track/67ZW7fVVWWhN2D9SQxOTxv) | [Los Tiranos Del Norte](https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H) | [Hermosa Tirana](https://open.spotify.com/album/6L69NftVVtlSbBjaegb0Jn) | 3:07 |
-| 44 | [Arrepiéntete](https://open.spotify.com/track/0qe27hcrq0TrMt83uYpTIs) | [Rojo Tabaco](https://open.spotify.com/artist/5xoyjz868s9vDfGyJkVRRN), [Los Tiranos Del Norte](https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H) | [Arrepiéntete](https://open.spotify.com/album/2U45ybea0lPaBgJCvKSNEf) | 2:55 |
-| 45 | [Amor de Ayer](https://open.spotify.com/track/0owdTmklmyKpjCJwoIDD0l) | [Los Tiranos Del Norte](https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H) | [Tesoros de Coleccion, Vol\. 2](https://open.spotify.com/album/1KxMT0hlHsrGLSO1gvVFYD) | 3:10 |
-| 46 | [De Su Vida Me Ire](https://open.spotify.com/track/0f8rDxZO2XwFI3bQ1iV1Df) | [Los Tiranos Del Norte](https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H) | [30 Exitos](https://open.spotify.com/album/5z9l5t8x9UDOWOMKWSBXz9) | 2:55 |
+| 44 | [De Su Vida Me Ire](https://open.spotify.com/track/0f8rDxZO2XwFI3bQ1iV1Df) | [Los Tiranos Del Norte](https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H) | [30 Exitos](https://open.spotify.com/album/5z9l5t8x9UDOWOMKWSBXz9) | 2:55 |
+| 45 | [Arrepiéntete](https://open.spotify.com/track/0qe27hcrq0TrMt83uYpTIs) | [Rojo Tabaco](https://open.spotify.com/artist/5xoyjz868s9vDfGyJkVRRN), [Los Tiranos Del Norte](https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H) | [Arrepiéntete](https://open.spotify.com/album/2U45ybea0lPaBgJCvKSNEf) | 2:55 |
+| 46 | [Corazon de Vecindad](https://open.spotify.com/track/56tdpVNcEEwCTIvaZRlRk9) | [Los Tiranos Del Norte](https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H) | [Tesoros de Coleccion, Vol\. 1](https://open.spotify.com/album/43YQOZfMDgWtqa2LZ7R7eR) | 3:07 |
 | 47 | [El Libro de los Dioses](https://open.spotify.com/track/3whUtAF1vN1RGfMZ9QJ61P) | [Los Tiranos Del Norte](https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H) | [Con Sangre Nortena](https://open.spotify.com/album/34hVlKjJ6JvQN9b7p1tTCr) | 3:16 |
-| 48 | [Enfermo de Amor](https://open.spotify.com/track/4V7PEffhhn8bUwS8HUkPdQ) | [Los Tiranos Del Norte](https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H) | [Mis 30 Mejores Canciones](https://open.spotify.com/album/5sZ8JHwkEV2s0Dbv0ylSmZ) | 3:34 |
-| 49 | [Las Mismas Costumbres](https://open.spotify.com/track/5L6gQi0avt8xWO9fVd81SH) | [Los Tiranos Del Norte](https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H) | [Amor Sin Barreras](https://open.spotify.com/album/0YIdmynE6PnOMGaB0q5eSi) | 2:54 |
+| 48 | [Las Mismas Costumbres](https://open.spotify.com/track/5L6gQi0avt8xWO9fVd81SH) | [Los Tiranos Del Norte](https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H) | [Amor Sin Barreras](https://open.spotify.com/album/0YIdmynE6PnOMGaB0q5eSi) | 2:54 |
+| 49 | [Enfermo de Amor](https://open.spotify.com/track/4V7PEffhhn8bUwS8HUkPdQ) | [Los Tiranos Del Norte](https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H) | [Mis 30 Mejores Canciones](https://open.spotify.com/album/5sZ8JHwkEV2s0Dbv0ylSmZ) | 3:34 |
 | 50 | [Quiero Que Me Digas Cuando](https://open.spotify.com/track/0QxUOvVy6FqHdJhcW644P6) | [Los Tiranos Del Norte](https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H) | [El Hijo Desobediente](https://open.spotify.com/album/6M6B0WN3QftAZaxySwK1YC) | 2:19 |
 
-Snapshot ID: `MjgwNzIyMDYsMDAwMDAwMDA0ZDIyNmJlYzI4MTk3MmZkODdhODczNTNlNmZiODMwNw==`
+Snapshot ID: `MjgwNzM1MzIsMDAwMDAwMDA5OTcwMjY4MGMyMjUyMDZiYzlhNmUzOTQxMGNiM2VhOA==`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVh9guDyUECQ.md) - [plain]
 
 > Lo nuevo del Trap, Rap y Reggaeton Cristiano\. <br/>Foto: Vaes
 
-[Spotify](https://open.spotify.com/user/spotify) - 166,288 likes - 100 songs - 5 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 166,370 likes - 100 songs - 5 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -103,10 +103,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVh9guDyUECQ.md) - [plain]
 | 93 | [Inmenso](https://open.spotify.com/track/4LWYsRTUmdO6gdR9ONCHLy) | [Madiel Lara](https://open.spotify.com/artist/6n6D2g1FuTmnFiMDD4RT42) | [Inmenso](https://open.spotify.com/album/0UvCUnwqkdpSXIlW6gsJw3) | 2:37 |
 | 94 | [Un Call](https://open.spotify.com/track/1PneC9crLqJeCVlpoCPrNo) | [Daniela Galeano](https://open.spotify.com/artist/5iBuQW2ANJlj4eqhEv43Be), [Townix](https://open.spotify.com/artist/4iSbdQ17ULxAugOFOC5Bx2) | [Un Call](https://open.spotify.com/album/41skV30829DyjovTu9BPas) | 3:34 |
 | 95 | [Más Como Tú – Remix](https://open.spotify.com/track/0cN87JXZzLCLml6H7MQkaj) | [Alex Zurdo](https://open.spotify.com/artist/0WI8OfWCRvK4nGHmKfFQmd), [Linaje Escogido](https://open.spotify.com/artist/2S0DRUKIeTtGef4BPbKcc0) | [Más Como Tú – Remix](https://open.spotify.com/album/7sql4hYL7mAYVzYde7KmHZ) | 3:26 |
-| 96 | [Flow Cristiano](https://open.spotify.com/track/5Ab2DDImgrC2FWEVXYjsKx) | [Natan El Profeta](https://open.spotify.com/artist/5UGUivMfBVd8JcBfjnniBf) | [Flow Cristiano](https://open.spotify.com/album/0LrSIj7ro2zZ6ofezq2Qtv) | 3:30 |
-| 97 | [Latidos](https://open.spotify.com/track/6okYVMIELsaHstd49DaQME) | [Fer Ariza](https://open.spotify.com/artist/4o2jbSjC88Ehse4evmzM9j), [Lizzy Parra](https://open.spotify.com/artist/1Cm5r6LqrFQDuA0F4KUIQz), [Angel Brown](https://open.spotify.com/artist/4Hpy6w9oVzugC0RBvEO1D0) | [Latidos](https://open.spotify.com/album/2aV3YlxzjJRqbrmqo42EyL) | 3:04 |
-| 98 | [Firme Y Enfocado](https://open.spotify.com/track/3pFyebmyBd2tQzQKx3HsGr) | [Manny Montes](https://open.spotify.com/artist/41A1tLHviwiCao1vXl1cgd), [Práctiko](https://open.spotify.com/artist/6ynr4n6tj5GrNjiZudUjWA) | [Firme Y Enfocado](https://open.spotify.com/album/5ZE3KBdyEiI41sXiw1BUZx) | 3:51 |
-| 99 | [Picheo](https://open.spotify.com/track/1I3KDCANZfQq4556nAk3DL) | [Mireyli Rosa](https://open.spotify.com/artist/2A1shNbwnD3IXNeo6CK6JC), [Alexxander](https://open.spotify.com/artist/0J2jZKEeGZ01I7D86P6VJp) | [Picheo](https://open.spotify.com/album/6r7McsBCLRRH3Yz9IAEqul) | 4:00 |
-| 100 | [Mi Entrenador \- Remix](https://open.spotify.com/track/32HTl6X5wGDGb1zEoZpGtG) | [KEFFA](https://open.spotify.com/artist/2RymKL3YAUb6091hLu8yw9), [Pablo Betancourth](https://open.spotify.com/artist/1HswyM5Xhfp8mogA5HJALe), [Práctiko](https://open.spotify.com/artist/6ynr4n6tj5GrNjiZudUjWA), [Manny Montes](https://open.spotify.com/artist/41A1tLHviwiCao1vXl1cgd) | [Mi Entrenador \(Remix\)](https://open.spotify.com/album/4MYCWG4EpaqMJobtEVXSHp) | 3:36 |
+| 96 | [Latidos](https://open.spotify.com/track/6okYVMIELsaHstd49DaQME) | [Fer Ariza](https://open.spotify.com/artist/4o2jbSjC88Ehse4evmzM9j), [Lizzy Parra](https://open.spotify.com/artist/1Cm5r6LqrFQDuA0F4KUIQz), [Angel Brown](https://open.spotify.com/artist/4Hpy6w9oVzugC0RBvEO1D0) | [Latidos](https://open.spotify.com/album/2aV3YlxzjJRqbrmqo42EyL) | 3:04 |
+| 97 | [Firme Y Enfocado](https://open.spotify.com/track/3pFyebmyBd2tQzQKx3HsGr) | [Manny Montes](https://open.spotify.com/artist/41A1tLHviwiCao1vXl1cgd), [Práctiko](https://open.spotify.com/artist/6ynr4n6tj5GrNjiZudUjWA) | [Firme Y Enfocado](https://open.spotify.com/album/5ZE3KBdyEiI41sXiw1BUZx) | 3:51 |
+| 98 | [Flow Cristiano](https://open.spotify.com/track/5Ab2DDImgrC2FWEVXYjsKx) | [Natan El Profeta](https://open.spotify.com/artist/5UGUivMfBVd8JcBfjnniBf) | [Flow Cristiano](https://open.spotify.com/album/0LrSIj7ro2zZ6ofezq2Qtv) | 3:30 |
+| 99 | [Mi Entrenador \- Remix](https://open.spotify.com/track/32HTl6X5wGDGb1zEoZpGtG) | [KEFFA](https://open.spotify.com/artist/2RymKL3YAUb6091hLu8yw9), [Pablo Betancourth](https://open.spotify.com/artist/1HswyM5Xhfp8mogA5HJALe), [Práctiko](https://open.spotify.com/artist/6ynr4n6tj5GrNjiZudUjWA), [Manny Montes](https://open.spotify.com/artist/41A1tLHviwiCao1vXl1cgd) | [Mi Entrenador \(Remix\)](https://open.spotify.com/album/4MYCWG4EpaqMJobtEVXSHp) | 3:36 |
+| 100 | [Picheo](https://open.spotify.com/track/1I3KDCANZfQq4556nAk3DL) | [Mireyli Rosa](https://open.spotify.com/artist/2A1shNbwnD3IXNeo6CK6JC), [Alexxander](https://open.spotify.com/artist/0J2jZKEeGZ01I7D86P6VJp) | [Picheo](https://open.spotify.com/album/6r7McsBCLRRH3Yz9IAEqul) | 4:00 |
 
-Snapshot ID: `MCxlMTg2ZTRhZTZmYTRkYmQxZTM5Yjg4YmJmODk3MTdkNTE1MGZjMzlh`
+Snapshot ID: `MCw3MjIwZTJiMmNiZGE2NTA0OTEwMzNkZGRiNTQyZDk1MmFhM2M3NTFm`

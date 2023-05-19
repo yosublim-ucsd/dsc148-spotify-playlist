@@ -1,12 +1,12 @@
 {
   "description": "New music from Lil Durk, Lil Tecca and A Boogie Wit da Hoodie.",
-  "num_followers": 15306548,
+  "num_followers": 15309430,
   "original_name": "RapCaviar",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3MzgxNzdmYmIxYTA1Njk3NjA3MjM1MWFlMzA2NjgwYzc5YmJmODEw",
+  "snapshot_id": "MCw1ZTRiYTRjM2JiNTUyYTQxYWJiOWMyNmRkODYyZTE5MGNmMmFjZjQ1",
   "tracks": [
     {
       "added_at": "2023-05-16 02:18:09",
@@ -191,6 +191,22 @@
       "duration_ms": 214588,
       "name": "Spin Bout U",
       "url": "https://open.spotify.com/track/2ZL7WZcjuYKi1KUDtp4kCC"
+    },
+    {
+      "added_at": "2023-05-18 04:00:00",
+      "album": {
+        "name": "God's Favorite",
+        "url": "https://open.spotify.com/album/4Gb8Xs87uYNhBwh5wfG7qt"
+      },
+      "artists": [
+        {
+          "name": "N.O.R.E.",
+          "url": "https://open.spotify.com/artist/4GMgdB3vwbBOc42hbXEi9p"
+        }
+      ],
+      "duration_ms": 264653,
+      "name": "Nothin'",
+      "url": "https://open.spotify.com/track/5ZKVNTG7yu7gbX4vryqS2X"
     },
     {
       "added_at": "2023-05-16 02:18:09",

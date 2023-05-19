@@ -4,12 +4,13 @@
 
 > The very best in Scandifolk \- from Icelandic blues rock to Norwegicana.
 
-199 songs - 12 hr 25 min
+200 songs - 12 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [\(It's Not About\) Running](https://open.spotify.com/track/6yeVAVnUskTNb3TutTaU64) | [Tuvaband](https://open.spotify.com/artist/1PELQpIrHccFmlReFjINVT) | [Unknown / \(It's Not About\) Running](https://open.spotify.com/album/2s1NRhhKQluvnzfqulltvC) | 4:06 | 2022-07-14 |  |
 | [\(It’s not about\) Running](https://open.spotify.com/track/0Wv1pXBLzxUQsp7HImlyH0) | [Tuvaband](https://open.spotify.com/artist/1PELQpIrHccFmlReFjINVT) | [Unknown/Running](https://open.spotify.com/album/1doaAaHu3x7uxJ6NO1nxak) | 4:06 | 2021-12-02 | 2022-04-19 |
+| [1989](https://open.spotify.com/track/2qOkpf7HmkRMwAkDDzDwcV) | [Days of August](https://open.spotify.com/artist/0yWSMZXHERES9DFEqgwYGf) | [1989](https://open.spotify.com/album/3HJQEeP94g2GypjB0YFUAq) | 4:27 | 2023-05-18 |  |
 | [A Dangerous Thing](https://open.spotify.com/track/0PDlmmYkuQCUAFhMXvtlsU) | [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N) | [The Gods We Can Touch](https://open.spotify.com/album/5z1xjvymitc0DJETtvVmaX) | 3:35 | 2022-09-08 |  |
 | [A Dangerous Thing](https://open.spotify.com/track/2e1MoMhNhxdU0jXYhjF0ld) | [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N) | [The Gods We Can Touch](https://open.spotify.com/album/04JQlhYtZwd9t2HTsxDKfr) | 3:35 | 2022-07-14 | 2022-09-15 |
 | [A Dangerous Thing](https://open.spotify.com/track/3Ola5gPTe1NK9GgnVgLoVX) | [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N) | [A Dangerous Thing](https://open.spotify.com/album/0JyKCwmc6Ye0J88dwkm8uj) | 3:35 | 2022-01-06 | 2022-07-29 |
@@ -72,7 +73,7 @@
 | [Gardening](https://open.spotify.com/track/6FMCje8dWYwkFOc7Gvu3r0) | [Siv Jakobsen](https://open.spotify.com/artist/0vWslArrZa7drINEUobJZl) | [Gardening](https://open.spotify.com/album/1C10FGeprVt3pDvCjYHfZW) | 4:43 | 2023-02-02 | 2023-04-15 |
 | [Ghost Mess](https://open.spotify.com/track/4CAHPzqVyOWgyd90sDP6l8) | [Kristofer Åström](https://open.spotify.com/artist/36bgHoykshtpmokPxiGfBA) | [The Story Of A Heart's Decay](https://open.spotify.com/album/0lEEu58Jb4KWB59ktpsija) | 4:26 | 2021-12-02 | 2022-07-29 |
 | [Ghosts in Our Hearts](https://open.spotify.com/track/0jMWzegQgiVuGrIJT6oh5a) | [Jacoo](https://open.spotify.com/artist/65NrBzD3Jnf1iqbDjuUYjD), [Franziskamaze](https://open.spotify.com/artist/78jrTPJmSEGjZrsMdCkkBs) | [Ghosts in Our Hearts](https://open.spotify.com/album/56mxck2QGvQf6MXcwQDgaE) | 3:39 | 2022-01-20 | 2022-07-28 |
-| [Glimpse of a Time](https://open.spotify.com/track/06zhgqhDgIM6CMI4NyDVxu) | [Broken Twin](https://open.spotify.com/artist/4Y1f57EtKq7YF6DfftpopX) | [May](https://open.spotify.com/album/2vXLNhdNLU10FscOd07Xbl) | 3:34 | 2022-03-24 |  |
+| [Glimpse of a Time](https://open.spotify.com/track/06zhgqhDgIM6CMI4NyDVxu) | [Broken Twin](https://open.spotify.com/artist/4Y1f57EtKq7YF6DfftpopX) | [May](https://open.spotify.com/album/2vXLNhdNLU10FscOd07Xbl) | 3:34 | 2022-03-24 | 2023-05-19 |
 | [Go Out Nowhere](https://open.spotify.com/track/22nH0JD1DcxEXHHOqCi0LH) | [Silver Lining](https://open.spotify.com/artist/2fpiIE5NAH8HpcYthaxm97) | [Go Out Nowhere](https://open.spotify.com/album/05nro1ny6WHg3lBY7uscLG) | 5:26 | 2021-12-02 | 2022-07-29 |
 | [Gold Laces](https://open.spotify.com/track/6Exl7gEv9PBSHl4hutQVf4) | [Júníus Meyvant](https://open.spotify.com/artist/5IL5awl9gUcb2ez9IgmW26) | [Floating Harmonies](https://open.spotify.com/album/4IxrxrXQ9mSiHWXCRieOhD) | 3:40 | 2021-12-02 | 2022-07-29 |
 | [Gold Laces](https://open.spotify.com/track/6V9hQ6dVr42xlNVoH8r8om) | [Júníus Meyvant](https://open.spotify.com/artist/5IL5awl9gUcb2ez9IgmW26) | [Floating Harmonies](https://open.spotify.com/album/47zAxwGvi23uYEItSkTRgY) | 3:40 | 2022-07-14 |  |

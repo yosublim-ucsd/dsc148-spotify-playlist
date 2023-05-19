@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU9jBen8IUSn.md) - [plain]
 
 > Arlo's selections "of the crunchiest and most singular drums on the planet"\. Welcome to mixtape, a curator's playground.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,304 likes - 27 songs - 1 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,475 likes - 27 songs - 1 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,4 +36,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU9jBen8IUSn.md) - [plain]
 | 26 | [Ballo\-Balla](https://open.spotify.com/track/2Ogr3hXsjLUhniT2n0WRNy) | [Roland P\. Young](https://open.spotify.com/artist/47AdLKtk98Yxeod6noeZKt) | [Hearsay I\-Land](https://open.spotify.com/album/45RR9KD5zfHM2ncE4Pukv2) | 5:42 |
 | 27 | [Chito's Song](https://open.spotify.com/track/4A61gZNrkkkHknRjtFESxr) | [Cochemea](https://open.spotify.com/artist/5Kv477c3fjT3ifEOm1Kh0A) | [Vol\. II: Baca Sewa](https://open.spotify.com/album/71jgruajvyrAlWVHJMMJAv) | 5:05 |
 
-Snapshot ID: `MCxiNDA0Y2VjYzE0NGFjMDdiZDEzNTA0NTAyNTBiNzZjNjUxYTI0MTg3`
+Snapshot ID: `MCwyZTMzYWI4YWIwYmRiZTE3N2ZkNTAxMWYyM2YwN2UwNzcwNjQyZGQy`

@@ -1,12 +1,12 @@
 {
   "description": "Yo soy tu sangre, mi viejo, soy tu silencio y tu tiempo...",
-  "num_followers": 132367,
+  "num_followers": 132553,
   "original_name": "Las Rancheras de Pap\u00e1",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkZmIzYzc0MDYwNGE5M2IyZWUzN2Q1ZGZmZjU4ZWUxMWY1OTlkOGEx",
+  "snapshot_id": "MCxkNmMwYTUyMzM5ZWFjOTVkNDhjYmNmZDZlOGYwYzJkYzllZDZlYWZi",
   "tracks": [
     {
       "added_at": "2022-06-07 22:01:28",
@@ -285,7 +285,7 @@
       "url": "https://open.spotify.com/track/5wLqk86XlgZCzP8mMG9PrF"
     },
     {
-      "added_at": "2023-05-18 01:34:27",
+      "added_at": "2023-05-19 01:38:14",
       "album": {
         "name": "Pensando En Ti",
         "url": "https://open.spotify.com/album/7qvniQLYMWkFmFqO5LqDxm"
@@ -337,7 +337,7 @@
       "url": "https://open.spotify.com/track/5rHezo2wXys6LNAKLrghMG"
     },
     {
-      "added_at": "2023-05-18 01:34:27",
+      "added_at": "2023-05-19 01:38:14",
       "album": {
         "name": "El Indio Enamorado",
         "url": "https://open.spotify.com/album/4JwwVngWxV6EDq7lC3wUBt"
@@ -417,22 +417,6 @@
       "url": "https://open.spotify.com/track/6f4jjw4xqdX00zqaJ141PZ"
     },
     {
-      "added_at": "2022-06-17 05:00:00",
-      "album": {
-        "name": "Tambora, Vol. 2",
-        "url": "https://open.spotify.com/album/2p2eoxekXVfwJQM1wfqlcQ"
-      },
-      "artists": [
-        {
-          "name": "Joan Sebastian",
-          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
-        }
-      ],
-      "duration_ms": 154110,
-      "name": "Soy C\u00f3mo Quiero Ser",
-      "url": "https://open.spotify.com/track/7g9AOwPEt1zWoxV2ZyQ57m"
-    },
-    {
       "added_at": "2022-06-07 22:01:28",
       "album": {
         "name": "El Cantinero",
@@ -447,6 +431,22 @@
       "duration_ms": 158400,
       "name": "Te Solt\u00e9 la Rienda",
       "url": "https://open.spotify.com/track/3YubPkIjza38KmXTIGdk91"
+    },
+    {
+      "added_at": "2022-06-17 05:00:00",
+      "album": {
+        "name": "Tambora, Vol. 2",
+        "url": "https://open.spotify.com/album/2p2eoxekXVfwJQM1wfqlcQ"
+      },
+      "artists": [
+        {
+          "name": "Joan Sebastian",
+          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
+        }
+      ],
+      "duration_ms": 154110,
+      "name": "Soy C\u00f3mo Quiero Ser",
+      "url": "https://open.spotify.com/track/7g9AOwPEt1zWoxV2ZyQ57m"
     },
     {
       "added_at": "2022-06-07 22:01:28",
@@ -483,18 +483,18 @@
     {
       "added_at": "2022-06-07 22:01:28",
       "album": {
-        "name": "Una Aventura",
-        "url": "https://open.spotify.com/album/6XTRRRYyMfJZHqOcy3Hanu"
+        "name": "Ayer Y Hoy",
+        "url": "https://open.spotify.com/album/301WAwIJ2sSfY8I4Jwujqm"
       },
       "artists": [
         {
-          "name": "Banda La Coste\u00f1a",
-          "url": "https://open.spotify.com/artist/1r8tUG15NMJEj1j5NynES7"
+          "name": "Ana Gabriel",
+          "url": "https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe"
         }
       ],
-      "duration_ms": 215169,
-      "name": "Una Aventura",
-      "url": "https://open.spotify.com/track/3EpoG9wonOCsp9ImNkz8cw"
+      "duration_ms": 229200,
+      "name": "T\u00fa Lo Decidiste",
+      "url": "https://open.spotify.com/track/1uDXGhm8Wgwpmzgm8k1F7r"
     },
     {
       "added_at": "2022-06-07 22:01:28",
@@ -513,7 +513,23 @@
       "url": "https://open.spotify.com/track/6Y3AwA8UfVSDjeMrdJyjLK"
     },
     {
-      "added_at": "2023-05-18 01:34:27",
+      "added_at": "2022-06-07 22:01:28",
+      "album": {
+        "name": "Mexico en la Piel (edicion diamante)",
+        "url": "https://open.spotify.com/album/41VfVz6sKvbm1yCbqAlwfM"
+      },
+      "artists": [
+        {
+          "name": "Luis Miguel",
+          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
+        }
+      ],
+      "duration_ms": 151120,
+      "name": "De Qu\u00e9 Manera Te Olvido",
+      "url": "https://open.spotify.com/track/0j0ntQup1Wp9ZiQTUvgnhm"
+    },
+    {
+      "added_at": "2023-05-19 01:38:14",
       "album": {
         "name": "Para Vivir Contigo",
         "url": "https://open.spotify.com/album/2a9iYk1aBjr7hExMNr2ZDe"
@@ -531,34 +547,18 @@
     {
       "added_at": "2022-06-07 22:01:28",
       "album": {
-        "name": "Ayer Y Hoy",
-        "url": "https://open.spotify.com/album/301WAwIJ2sSfY8I4Jwujqm"
+        "name": "Una Aventura",
+        "url": "https://open.spotify.com/album/6XTRRRYyMfJZHqOcy3Hanu"
       },
       "artists": [
         {
-          "name": "Ana Gabriel",
-          "url": "https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe"
+          "name": "Banda La Coste\u00f1a",
+          "url": "https://open.spotify.com/artist/1r8tUG15NMJEj1j5NynES7"
         }
       ],
-      "duration_ms": 229200,
-      "name": "T\u00fa Lo Decidiste",
-      "url": "https://open.spotify.com/track/1uDXGhm8Wgwpmzgm8k1F7r"
-    },
-    {
-      "added_at": "2022-06-07 22:01:28",
-      "album": {
-        "name": "Mexico en la Piel (edicion diamante)",
-        "url": "https://open.spotify.com/album/41VfVz6sKvbm1yCbqAlwfM"
-      },
-      "artists": [
-        {
-          "name": "Luis Miguel",
-          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
-        }
-      ],
-      "duration_ms": 151120,
-      "name": "De Qu\u00e9 Manera Te Olvido",
-      "url": "https://open.spotify.com/track/0j0ntQup1Wp9ZiQTUvgnhm"
+      "duration_ms": 215169,
+      "name": "Una Aventura",
+      "url": "https://open.spotify.com/track/3EpoG9wonOCsp9ImNkz8cw"
     },
     {
       "added_at": "2022-06-17 05:00:00",
@@ -643,6 +643,22 @@
     {
       "added_at": "2022-06-07 22:01:28",
       "album": {
+        "name": "Cruz De Madera",
+        "url": "https://open.spotify.com/album/6D9a2VeAyvMqcCN27uzi4V"
+      },
+      "artists": [
+        {
+          "name": "Miguel Y Miguel",
+          "url": "https://open.spotify.com/artist/7fmQXLCgx5q0vkGArvS6mm"
+        }
+      ],
+      "duration_ms": 181640,
+      "name": "Sonora Y Sus Ojos Negros",
+      "url": "https://open.spotify.com/track/6D8GThe4smZsFMPhUjgy7N"
+    },
+    {
+      "added_at": "2022-06-07 22:01:28",
+      "album": {
         "name": "Por Una Mujer Bonita",
         "url": "https://open.spotify.com/album/575z6jPePLhrgIlIeaKflS"
       },
@@ -659,21 +675,21 @@
     {
       "added_at": "2022-06-07 22:01:28",
       "album": {
-        "name": "Cruz De Madera",
-        "url": "https://open.spotify.com/album/6D9a2VeAyvMqcCN27uzi4V"
+        "name": "Y Por Esa Calle Vive",
+        "url": "https://open.spotify.com/album/5FHIRoQU5DeVYBkg0FZNMA"
       },
       "artists": [
         {
-          "name": "Miguel Y Miguel",
-          "url": "https://open.spotify.com/artist/7fmQXLCgx5q0vkGArvS6mm"
+          "name": "Los Baron De Apodaca",
+          "url": "https://open.spotify.com/artist/0FQUUcABeNbZZtWq8IRE3w"
         }
       ],
-      "duration_ms": 181640,
-      "name": "Sonora Y Sus Ojos Negros",
-      "url": "https://open.spotify.com/track/6D8GThe4smZsFMPhUjgy7N"
+      "duration_ms": 218013,
+      "name": "Y Por Esa Calle Vive",
+      "url": "https://open.spotify.com/track/3O0QWIrvnTilEumcyVqY1B"
     },
     {
-      "added_at": "2023-05-18 01:34:27",
+      "added_at": "2023-05-19 01:38:14",
       "album": {
         "name": "Pienso en Ti",
         "url": "https://open.spotify.com/album/3nkfIhwsoNcReVGtC424XX"
@@ -687,22 +703,6 @@
       "duration_ms": 179346,
       "name": "El Cadete",
       "url": "https://open.spotify.com/track/0wWKTXhLBoUsq91iGoflqy"
-    },
-    {
-      "added_at": "2022-06-07 22:01:28",
-      "album": {
-        "name": "Y Por Esa Calle Vive",
-        "url": "https://open.spotify.com/album/5FHIRoQU5DeVYBkg0FZNMA"
-      },
-      "artists": [
-        {
-          "name": "Los Baron De Apodaca",
-          "url": "https://open.spotify.com/artist/0FQUUcABeNbZZtWq8IRE3w"
-        }
-      ],
-      "duration_ms": 218013,
-      "name": "Y Por Esa Calle Vive",
-      "url": "https://open.spotify.com/track/3O0QWIrvnTilEumcyVqY1B"
     },
     {
       "added_at": "2022-06-07 22:01:28",
@@ -1041,7 +1041,23 @@
       "url": "https://open.spotify.com/track/4JBHcA19SAq5EzNgZZOy9O"
     },
     {
-      "added_at": "2023-05-18 01:34:27",
+      "added_at": "2022-06-07 22:01:28",
+      "album": {
+        "name": "Mi Buena Suerte",
+        "url": "https://open.spotify.com/album/3Ucu7Yp0cBJvikdVn5qsUA"
+      },
+      "artists": [
+        {
+          "name": "Los Tigres Del Norte",
+          "url": "https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy"
+        }
+      ],
+      "duration_ms": 163680,
+      "name": "Apenas Te Fuistes Ayer",
+      "url": "https://open.spotify.com/track/6V79WQFVLdiCLrlsYpdQTV"
+    },
+    {
+      "added_at": "2023-05-19 01:38:14",
       "album": {
         "name": "El Rey Del Jaripeo",
         "url": "https://open.spotify.com/album/3tKrubckAUPn0L1tBlzapY"
@@ -1059,18 +1075,18 @@
     {
       "added_at": "2022-06-07 22:01:28",
       "album": {
-        "name": "Mi Buena Suerte",
-        "url": "https://open.spotify.com/album/3Ucu7Yp0cBJvikdVn5qsUA"
+        "name": "Antes De Partir",
+        "url": "https://open.spotify.com/album/28Kb1pmRPsiBUFKSCs1Qlq"
       },
       "artists": [
         {
-          "name": "Los Tigres Del Norte",
-          "url": "https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy"
+          "name": "La Arrolladora Banda El Lim\u00f3n De Rene Camacho",
+          "url": "https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz"
         }
       ],
-      "duration_ms": 163680,
-      "name": "Apenas Te Fuistes Ayer",
-      "url": "https://open.spotify.com/track/6V79WQFVLdiCLrlsYpdQTV"
+      "duration_ms": 318373,
+      "name": "Asi Fue",
+      "url": "https://open.spotify.com/track/1igWS2rkcWldABqxIaUiHP"
     },
     {
       "added_at": "2022-06-07 22:01:28",
@@ -1087,22 +1103,6 @@
       "duration_ms": 187506,
       "name": "Pa' Todo el A\u00f1o",
       "url": "https://open.spotify.com/track/3O8QuZZrZF9aDYlmmClMO6"
-    },
-    {
-      "added_at": "2022-06-07 22:01:28",
-      "album": {
-        "name": "Antes De Partir",
-        "url": "https://open.spotify.com/album/28Kb1pmRPsiBUFKSCs1Qlq"
-      },
-      "artists": [
-        {
-          "name": "La Arrolladora Banda El Lim\u00f3n De Rene Camacho",
-          "url": "https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz"
-        }
-      ],
-      "duration_ms": 318373,
-      "name": "Asi Fue",
-      "url": "https://open.spotify.com/track/1igWS2rkcWldABqxIaUiHP"
     },
     {
       "added_at": "2022-06-07 22:01:28",
@@ -1219,22 +1219,6 @@
     {
       "added_at": "2022-06-07 22:01:28",
       "album": {
-        "name": "Esto Es Lo Nuestro",
-        "url": "https://open.spotify.com/album/5fKj1UiyRfFcRmLGPN4tTn"
-      },
-      "artists": [
-        {
-          "name": "Los Invasores De Nuevo Le\u00f3n",
-          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
-        }
-      ],
-      "duration_ms": 132160,
-      "name": "Aguanta Coraz\u00f3n",
-      "url": "https://open.spotify.com/track/3Dldh6miuxuar39LFNufcI"
-    },
-    {
-      "added_at": "2022-06-07 22:01:28",
-      "album": {
         "name": "15 \u00c9xitos: Chayito Valdez",
         "url": "https://open.spotify.com/album/36a05M8c3EUno9kl5gePDs"
       },
@@ -1247,6 +1231,22 @@
       "duration_ms": 182729,
       "name": "Besos Y Copas",
       "url": "https://open.spotify.com/track/1ts5XhyIwISu9UJkzdDQfn"
+    },
+    {
+      "added_at": "2022-06-07 22:01:28",
+      "album": {
+        "name": "Esto Es Lo Nuestro",
+        "url": "https://open.spotify.com/album/5fKj1UiyRfFcRmLGPN4tTn"
+      },
+      "artists": [
+        {
+          "name": "Los Invasores De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
+        }
+      ],
+      "duration_ms": 132160,
+      "name": "Aguanta Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/3Dldh6miuxuar39LFNufcI"
     },
     {
       "added_at": "2022-06-28 17:55:57",
@@ -1429,22 +1429,6 @@
       "url": "https://open.spotify.com/track/48GVUFn3gtM9taw5aZYlge"
     },
     {
-      "added_at": "2022-06-07 22:01:28",
-      "album": {
-        "name": "Una Aventura",
-        "url": "https://open.spotify.com/album/1Bh09w8NvykdHmpd2WFjbe"
-      },
-      "artists": [
-        {
-          "name": "Las Jilguerillas",
-          "url": "https://open.spotify.com/artist/0eeAs1exNZKyZNSFTVYInV"
-        }
-      ],
-      "duration_ms": 164973,
-      "name": "Despedida Con Mariachi",
-      "url": "https://open.spotify.com/track/3HSOvJoFBw6Z0nnnYwfjGP"
-    },
-    {
       "added_at": "2022-06-17 05:00:00",
       "album": {
         "name": "15 Exitos Inmortales",
@@ -1459,6 +1443,22 @@
       "duration_ms": 165405,
       "name": "Sin Ti",
       "url": "https://open.spotify.com/track/4DrxITDkVND3H3ptCuCvab"
+    },
+    {
+      "added_at": "2022-06-07 22:01:28",
+      "album": {
+        "name": "Una Aventura",
+        "url": "https://open.spotify.com/album/1Bh09w8NvykdHmpd2WFjbe"
+      },
+      "artists": [
+        {
+          "name": "Las Jilguerillas",
+          "url": "https://open.spotify.com/artist/0eeAs1exNZKyZNSFTVYInV"
+        }
+      ],
+      "duration_ms": 164973,
+      "name": "Despedida Con Mariachi",
+      "url": "https://open.spotify.com/track/3HSOvJoFBw6Z0nnnYwfjGP"
     },
     {
       "added_at": "2022-06-07 22:01:28",
@@ -1511,22 +1511,6 @@
     {
       "added_at": "2022-06-07 22:01:28",
       "album": {
-        "name": "45 Anos De Exitos",
-        "url": "https://open.spotify.com/album/3OwlCqdi85JnzFeaPnyHZE"
-      },
-      "artists": [
-        {
-          "name": "Las Jilguerillas",
-          "url": "https://open.spotify.com/artist/0eeAs1exNZKyZNSFTVYInV"
-        }
-      ],
-      "duration_ms": 195266,
-      "name": "Busca Otro Amor (1968)",
-      "url": "https://open.spotify.com/track/2nnw5l4JCsIFvwl63Z6hFO"
-    },
-    {
-      "added_at": "2022-06-07 22:01:28",
-      "album": {
         "name": "Entrega Total",
         "url": "https://open.spotify.com/album/1ynIsTxuLWB8gcIIOEV4pN"
       },
@@ -1541,7 +1525,7 @@
       "url": "https://open.spotify.com/track/0gtWrIyzYgRIGjMBBMBEBz"
     },
     {
-      "added_at": "2023-05-18 01:34:27",
+      "added_at": "2023-05-19 01:38:14",
       "album": {
         "name": "Nuestra Historia",
         "url": "https://open.spotify.com/album/2aRhJtFFfvHtPv9EUegbVd"
@@ -1575,6 +1559,22 @@
     {
       "added_at": "2022-06-07 22:01:28",
       "album": {
+        "name": "\u00a1 Ora pues !",
+        "url": "https://open.spotify.com/album/7o88TvoiVuWuHRoXQXsfJA"
+      },
+      "artists": [
+        {
+          "name": "Beatriz Adriana",
+          "url": "https://open.spotify.com/artist/20DKdVZd4yxzm472iHRXzQ"
+        }
+      ],
+      "duration_ms": 147280,
+      "name": "Esta situaci\u00f3n",
+      "url": "https://open.spotify.com/track/1iR35eXxKgIxk1NFM83oZo"
+    },
+    {
+      "added_at": "2022-06-07 22:01:28",
+      "album": {
         "name": "Tres Veces Te Enga\u00f1e",
         "url": "https://open.spotify.com/album/44iozSokPrk5ZiyYuRGsTz"
       },
@@ -1591,18 +1591,18 @@
     {
       "added_at": "2022-06-07 22:01:28",
       "album": {
-        "name": "\u00a1 Ora pues !",
-        "url": "https://open.spotify.com/album/7o88TvoiVuWuHRoXQXsfJA"
+        "name": "45 Anos De Exitos",
+        "url": "https://open.spotify.com/album/3OwlCqdi85JnzFeaPnyHZE"
       },
       "artists": [
         {
-          "name": "Beatriz Adriana",
-          "url": "https://open.spotify.com/artist/20DKdVZd4yxzm472iHRXzQ"
+          "name": "Las Jilguerillas",
+          "url": "https://open.spotify.com/artist/0eeAs1exNZKyZNSFTVYInV"
         }
       ],
-      "duration_ms": 147280,
-      "name": "Esta situaci\u00f3n",
-      "url": "https://open.spotify.com/track/1iR35eXxKgIxk1NFM83oZo"
+      "duration_ms": 195266,
+      "name": "Busca Otro Amor (1968)",
+      "url": "https://open.spotify.com/track/2nnw5l4JCsIFvwl63Z6hFO"
     },
     {
       "added_at": "2022-06-07 22:01:28",
@@ -1653,22 +1653,6 @@
       "url": "https://open.spotify.com/track/550m6FRrrMgS2BvrZY2j5l"
     },
     {
-      "added_at": "2022-06-17 05:00:00",
-      "album": {
-        "name": "Mis 30 Mejores Canciones",
-        "url": "https://open.spotify.com/album/6hncXsK2EbPLP5YnPz64f8"
-      },
-      "artists": [
-        {
-          "name": "Las Jilguerillas",
-          "url": "https://open.spotify.com/artist/0eeAs1exNZKyZNSFTVYInV"
-        }
-      ],
-      "duration_ms": 152226,
-      "name": "El Novillo Despuntado",
-      "url": "https://open.spotify.com/track/61BVISArSergd7hwBhMoBJ"
-    },
-    {
       "added_at": "2022-06-07 22:01:28",
       "album": {
         "name": "Serie De Coleccion 15 Autenticos",
@@ -1701,6 +1685,22 @@
       "url": "https://open.spotify.com/track/47D0iJGFMrbKk01W9iACKc"
     },
     {
+      "added_at": "2022-06-17 05:00:00",
+      "album": {
+        "name": "Mis 30 Mejores Canciones",
+        "url": "https://open.spotify.com/album/6hncXsK2EbPLP5YnPz64f8"
+      },
+      "artists": [
+        {
+          "name": "Las Jilguerillas",
+          "url": "https://open.spotify.com/artist/0eeAs1exNZKyZNSFTVYInV"
+        }
+      ],
+      "duration_ms": 152226,
+      "name": "El Novillo Despuntado",
+      "url": "https://open.spotify.com/track/61BVISArSergd7hwBhMoBJ"
+    },
+    {
       "added_at": "2022-06-07 22:01:28",
       "album": {
         "name": "Besos Y Caricias",
@@ -1717,7 +1717,7 @@
       "url": "https://open.spotify.com/track/4aChlMVq129vxl8lb0xreC"
     },
     {
-      "added_at": "2023-05-18 01:34:27",
+      "added_at": "2023-05-19 01:38:14",
       "album": {
         "name": "20 Exitos de Ley",
         "url": "https://open.spotify.com/album/6JtWMgUrSR6W2hsWZetzph"
@@ -1767,22 +1767,6 @@
     {
       "added_at": "2022-06-07 22:01:28",
       "album": {
-        "name": "Alborada Ranchera",
-        "url": "https://open.spotify.com/album/5rsvm4m7xeVWBjJ5DHVs6p"
-      },
-      "artists": [
-        {
-          "name": "Las Jilguerillas",
-          "url": "https://open.spotify.com/artist/0eeAs1exNZKyZNSFTVYInV"
-        }
-      ],
-      "duration_ms": 202160,
-      "name": "Cuatro Milpas",
-      "url": "https://open.spotify.com/track/20JdUWHwjdTzPRVbZdwWHI"
-    },
-    {
-      "added_at": "2022-06-07 22:01:28",
-      "album": {
         "name": "Me Saludas A La Tuya",
         "url": "https://open.spotify.com/album/19czamPsw1zWGUQon24S8R"
       },
@@ -1813,22 +1797,6 @@
       "url": "https://open.spotify.com/track/1ipFQkkkgRJ9HWu5zGzMuv"
     },
     {
-      "added_at": "2022-06-17 05:00:00",
-      "album": {
-        "name": "Mi Piquito De Oro",
-        "url": "https://open.spotify.com/album/2HgZcYF9GN2rhgyVuBuzJu"
-      },
-      "artists": [
-        {
-          "name": "Ramon Ayala Y Sus Bravos Del Norte",
-          "url": "https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9"
-        }
-      ],
-      "duration_ms": 129066,
-      "name": "Mi Piquito De Oro",
-      "url": "https://open.spotify.com/track/0w6iI2pCqX2beV22BqXFCz"
-    },
-    {
       "added_at": "2022-06-07 22:01:28",
       "album": {
         "name": "Lo Esencial De Alejandro Fern\u00e1ndez",
@@ -1843,6 +1811,22 @@
       "duration_ms": 222360,
       "name": "Cuando Yo Quer\u00eda Ser Grande",
       "url": "https://open.spotify.com/track/1NTlPCvy7hj6abrlABGeyg"
+    },
+    {
+      "added_at": "2022-06-17 05:00:00",
+      "album": {
+        "name": "Mi Piquito De Oro",
+        "url": "https://open.spotify.com/album/2HgZcYF9GN2rhgyVuBuzJu"
+      },
+      "artists": [
+        {
+          "name": "Ramon Ayala Y Sus Bravos Del Norte",
+          "url": "https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9"
+        }
+      ],
+      "duration_ms": 129066,
+      "name": "Mi Piquito De Oro",
+      "url": "https://open.spotify.com/track/0w6iI2pCqX2beV22BqXFCz"
     },
     {
       "added_at": "2022-06-07 22:01:28",
@@ -1863,6 +1847,22 @@
     {
       "added_at": "2022-06-07 22:01:28",
       "album": {
+        "name": "Alborada Ranchera",
+        "url": "https://open.spotify.com/album/5rsvm4m7xeVWBjJ5DHVs6p"
+      },
+      "artists": [
+        {
+          "name": "Las Jilguerillas",
+          "url": "https://open.spotify.com/artist/0eeAs1exNZKyZNSFTVYInV"
+        }
+      ],
+      "duration_ms": 202160,
+      "name": "Cuatro Milpas",
+      "url": "https://open.spotify.com/track/20JdUWHwjdTzPRVbZdwWHI"
+    },
+    {
+      "added_at": "2022-06-07 22:01:28",
+      "album": {
         "name": "Serie De Coleccion 15 Autenticos",
         "url": "https://open.spotify.com/album/5D3g2BbyQuAc1O4lhPUlVQ"
       },
@@ -1877,7 +1877,7 @@
       "url": "https://open.spotify.com/track/4zbXcjtqBCRpVW2XvqUBVD"
     },
     {
-      "added_at": "2023-05-18 01:34:27",
+      "added_at": "2023-05-19 01:38:14",
       "album": {
         "name": "20 Exitos de Ley",
         "url": "https://open.spotify.com/album/6JtWMgUrSR6W2hsWZetzph"
@@ -2055,22 +2055,6 @@
     {
       "added_at": "2022-06-07 22:01:28",
       "album": {
-        "name": "15 \u00c9xitos 15",
-        "url": "https://open.spotify.com/album/6lELXliacixuBW7cvb6ziQ"
-      },
-      "artists": [
-        {
-          "name": "Mercedes Castro",
-          "url": "https://open.spotify.com/artist/0CZHGs5YoJggljCPh3a7bK"
-        }
-      ],
-      "duration_ms": 208213,
-      "name": "Vengo A Verte",
-      "url": "https://open.spotify.com/track/6XJ4CQ5l2KJRefAWuVpK6m"
-    },
-    {
-      "added_at": "2022-06-07 22:01:28",
-      "album": {
         "name": "Lo Mejor De Lo Mejor De RCA Victor",
         "url": "https://open.spotify.com/album/2PactlWmapDE3PmauHBEPo"
       },
@@ -2083,6 +2067,22 @@
       "duration_ms": 199626,
       "name": "T\u00fa y las Nubes",
       "url": "https://open.spotify.com/track/4kwF7GLFxdHxhI6yE7N7DH"
+    },
+    {
+      "added_at": "2022-06-07 22:01:28",
+      "album": {
+        "name": "15 \u00c9xitos 15",
+        "url": "https://open.spotify.com/album/6lELXliacixuBW7cvb6ziQ"
+      },
+      "artists": [
+        {
+          "name": "Mercedes Castro",
+          "url": "https://open.spotify.com/artist/0CZHGs5YoJggljCPh3a7bK"
+        }
+      ],
+      "duration_ms": 208213,
+      "name": "Vengo A Verte",
+      "url": "https://open.spotify.com/track/6XJ4CQ5l2KJRefAWuVpK6m"
     },
     {
       "added_at": "2022-06-07 22:01:28",
@@ -2149,7 +2149,7 @@
       "url": "https://open.spotify.com/track/4TKhqpIcNgB4pgZg8T3dIn"
     },
     {
-      "added_at": "2023-05-18 01:34:27",
+      "added_at": "2023-05-19 01:38:14",
       "album": {
         "name": "El Campesino y el Sol",
         "url": "https://open.spotify.com/album/1zz9palZav43PsEJGeIijB"
@@ -2199,6 +2199,22 @@
     {
       "added_at": "2022-06-07 22:01:28",
       "album": {
+        "name": "Lo Mejor De Lo Mejor De RCA Victor",
+        "url": "https://open.spotify.com/album/2PactlWmapDE3PmauHBEPo"
+      },
+      "artists": [
+        {
+          "name": "Miguel Aceves Mejia",
+          "url": "https://open.spotify.com/artist/23XJNT1Hb35h3ZCDl7lpWY"
+        }
+      ],
+      "duration_ms": 209133,
+      "name": "Tata Dios",
+      "url": "https://open.spotify.com/track/3hk6MLu7MCPDGQJPL6SY9s"
+    },
+    {
+      "added_at": "2022-06-07 22:01:28",
+      "album": {
         "name": "Penas, Desenga\u00f1os... y Amores",
         "url": "https://open.spotify.com/album/6tTkLSvfUKUFOW7BhD7Rm0"
       },
@@ -2227,22 +2243,6 @@
       "duration_ms": 205635,
       "name": "La Tercera Carta",
       "url": "https://open.spotify.com/track/5DgZ35AbLORuRtJxAFfKeo"
-    },
-    {
-      "added_at": "2022-06-07 22:01:28",
-      "album": {
-        "name": "Lo Mejor De Lo Mejor De RCA Victor",
-        "url": "https://open.spotify.com/album/2PactlWmapDE3PmauHBEPo"
-      },
-      "artists": [
-        {
-          "name": "Miguel Aceves Mejia",
-          "url": "https://open.spotify.com/artist/23XJNT1Hb35h3ZCDl7lpWY"
-        }
-      ],
-      "duration_ms": 209133,
-      "name": "Tata Dios",
-      "url": "https://open.spotify.com/track/3hk6MLu7MCPDGQJPL6SY9s"
     },
     {
       "added_at": "2022-06-07 22:01:28",

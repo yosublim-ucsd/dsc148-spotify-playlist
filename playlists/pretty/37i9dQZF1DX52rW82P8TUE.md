@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX52rW82P8TUE.md) - [plain]
 
 > Músicas para dançar e louvar com os pequenos adoradores.
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,625 likes - 50 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,691 likes - 50 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,8 +14,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX52rW82P8TUE.md) - [plain]
 | 4 | [Oceanos](https://open.spotify.com/track/2Ehjl2vMGZhWsNwRco3hMu) | [Rayne Almeida](https://open.spotify.com/artist/2WtIzFKxQniqeliHt4vIVj) | [Oceanos](https://open.spotify.com/album/3vt5PFQ9JUQbeL7AnfsK2j) | 3:54 |
 | 5 | [Não Temos Medo do Fogo](https://open.spotify.com/track/3tnh93byTIcpyhZYsLN93O) | [Minha Vida é Uma Viagem](https://open.spotify.com/artist/1o0rLhiJRM3IFLGlqBVolR) | [Minha Vida É uma Viagem 5](https://open.spotify.com/album/2DCbdwhK6SoBW9XawSSrbK) | 3:05 |
 | 6 | [Eu Nasci](https://open.spotify.com/track/2dE7xXqKFCUAnL8njBXUrI) | [Leandro Borges](https://open.spotify.com/artist/1W08UTn6HSj0dHarQE7ReQ) | [Eu Nasci](https://open.spotify.com/album/2HmqtDhNBSUKR42VLi2Evl) | 3:34 |
-| 7 | [Pororó](https://open.spotify.com/track/44FbIn8MPPGj7jjDFLhXIr) | [Rebeca Nemer](https://open.spotify.com/artist/1mQU9ZMrrU8FcbjfePJBsk) | [Sou Livre](https://open.spotify.com/album/2Wgno6YhkdyXyfhDo1MH7M) | 4:12 |
-| 8 | [A Alegria Está no Coração](https://open.spotify.com/track/61PU43JNFgjn1zuAaAz96d) | [Mara Lima](https://open.spotify.com/artist/3r3fXHLRkaNVAuP7ckBJOV) | [Mara Lima e Seus Amiguinhos, Vol\. 6](https://open.spotify.com/album/1cAgUMSQibfGNArPNRIJKn) | 3:23 |
+| 7 | [A Alegria Está no Coração](https://open.spotify.com/track/61PU43JNFgjn1zuAaAz96d) | [Mara Lima](https://open.spotify.com/artist/3r3fXHLRkaNVAuP7ckBJOV) | [Mara Lima e Seus Amiguinhos, Vol\. 6](https://open.spotify.com/album/1cAgUMSQibfGNArPNRIJKn) | 3:23 |
+| 8 | [Pororó](https://open.spotify.com/track/44FbIn8MPPGj7jjDFLhXIr) | [Rebeca Nemer](https://open.spotify.com/artist/1mQU9ZMrrU8FcbjfePJBsk) | [Sou Livre](https://open.spotify.com/album/2Wgno6YhkdyXyfhDo1MH7M) | 4:12 |
 | 9 | [Dança do Pinguim](https://open.spotify.com/track/4xIhkjavXmWmlUSBOtEqUq) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Aline Barros e Cia](https://open.spotify.com/album/5RFApbqCFVwb3ABVj8Q8w4) | 2:56 |
 | 10 | [Cabeça, Ombro, Joelho e Pé](https://open.spotify.com/track/3lRfG9FccT67tuGboXeEZs) | [3 Palavrinhas](https://open.spotify.com/artist/6apif9UbguC36klKtjMKVL) | [Cabeça, Ombro, Joelho e Pé](https://open.spotify.com/album/1F1pwnUBYMI9vFVpIQF97W) | 2:12 |
 | 11 | [Eu Canto pra Jesus](https://open.spotify.com/track/6dWRzM5A2KxgYtzfZozviQ) | [Rayne Almeida](https://open.spotify.com/artist/2WtIzFKxQniqeliHt4vIVj) | [Eu Canto pra Jesus](https://open.spotify.com/album/6iU37mu4rSSCnrUhjnhrWJ) | 3:01 |
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX52rW82P8TUE.md) - [plain]
 | 40 | [Obra do Criador \- Ao Vivo](https://open.spotify.com/track/6H4h2cnyfeTnqAHfdqi5dw) | [Louvor Videira Kids](https://open.spotify.com/artist/5xQlLW7wWdVaYLUzbphgGu) | [Comigo Sonhou](https://open.spotify.com/album/3tbgkAsVPkMHK4TBOwIwpV) | 3:07 |
 | 41 | [Rock da Arca](https://open.spotify.com/track/7HzkYbSog275m1M5kaAUFW) | [Kelly Benigno](https://open.spotify.com/artist/2YYbZyhGyLlVQGfaE1Hn5X) | [Rock da Arca](https://open.spotify.com/album/1cNrPAjRtZWUKeMiSqJmEG) | 3:22 |
 | 42 | [Na Trilha da Criação](https://open.spotify.com/track/2AeUTBwpPLpEJbu6T7I335) | [Margem Norte Kids](https://open.spotify.com/artist/7MqM27ki9IN3dGwGttHIYa) | [Na Trilha da Criação](https://open.spotify.com/album/7L2eWc0MQm3Da6L80gd6jW) | 2:38 |
-| 43 | [Deixa a Glória de Deus Brilhar](https://open.spotify.com/track/18tzWeX2isOaJA2KnITpDs) | [3 Palavrinhas](https://open.spotify.com/artist/6apif9UbguC36klKtjMKVL) | [Deixa a Glória de Deus Brilhar](https://open.spotify.com/album/00V7yrHCIin1VafIHtkpKE) | 3:25 |
-| 44 | [Toc Toc Toc \- Baby Fun](https://open.spotify.com/track/6KjIPIOhwSHq2K4ItYRDJb) | [3 Palavrinhas](https://open.spotify.com/artist/6apif9UbguC36klKtjMKVL) | [Toc Toc Toc \- Baby Fun](https://open.spotify.com/album/1g7vUqTtKS2DzSRn3lugll) | 2:17 |
+| 43 | [Toc Toc Toc \- Baby Fun](https://open.spotify.com/track/6KjIPIOhwSHq2K4ItYRDJb) | [3 Palavrinhas](https://open.spotify.com/artist/6apif9UbguC36klKtjMKVL) | [Toc Toc Toc \- Baby Fun](https://open.spotify.com/album/1g7vUqTtKS2DzSRn3lugll) | 2:17 |
+| 44 | [Deixa a Glória de Deus Brilhar](https://open.spotify.com/track/18tzWeX2isOaJA2KnITpDs) | [3 Palavrinhas](https://open.spotify.com/artist/6apif9UbguC36klKtjMKVL) | [Deixa a Glória de Deus Brilhar](https://open.spotify.com/album/00V7yrHCIin1VafIHtkpKE) | 3:25 |
 | 45 | [Festa das Cores](https://open.spotify.com/track/2OgjuP2rTKfweuPiZDORMw) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Festa das Cores](https://open.spotify.com/album/7y3if5oFUBEKP94vf2mCQW) | 3:26 |
 | 46 | [Ao Orarmos](https://open.spotify.com/track/0OCSLWbLai3RpfM4kjo5Ne) | [3 Palavrinhas](https://open.spotify.com/artist/6apif9UbguC36klKtjMKVL) | [Ao Orarmos](https://open.spotify.com/album/2bax4vbgz2FjqaV6kJDExx) | 3:09 |
 | 47 | [A Tua Graça](https://open.spotify.com/track/58PgmYUic0mM7Qwi297ZG3) | [3 Palavrinhas](https://open.spotify.com/artist/6apif9UbguC36klKtjMKVL) | [A Tua Graça](https://open.spotify.com/album/2gcCOA0Zi0ntszohuIbxVj) | 2:25 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX52rW82P8TUE.md) - [plain]
 | 49 | [Satisfação](https://open.spotify.com/track/5rmBG2lYpzQFXU5LXrWHTE) | [3 Palavrinhas](https://open.spotify.com/artist/6apif9UbguC36klKtjMKVL) | [Satisfação](https://open.spotify.com/album/7dNxBMr0QOAUD3ydFcCH8f) | 2:17 |
 | 50 | [Sr\. Antônimo](https://open.spotify.com/track/1mExcbeOoQEh2ZRFTY705r) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [ImaginAline](https://open.spotify.com/album/4DpfGOe1QVwuIENUOhxgsa) | 4:36 |
 
-Snapshot ID: `MCw2ZTA3ZmY3ZWIwNDQzOTgwZjAyYmJiZjM0NzFjZTI4MGFhYjM4ZGUw`
+Snapshot ID: `MCw5OWQ1NGMwYmMyN2Q4MDIxNmZjYjk4NWNmMDY4ODU4MzE5NjZiZmI4`

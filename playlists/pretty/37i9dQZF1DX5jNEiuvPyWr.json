@@ -1,31 +1,35 @@
 {
-  "description": "Le meilleur du rap fran\u00e7ais version cloud. Photo : Moha MMZ",
-  "num_followers": 347673,
+  "description": "Le meilleur du rap fran\u00e7ais version cloud. Photo : So La Lune",
+  "num_followers": 347737,
   "original_name": "Cloud Rap",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzNjYxZjU1MjZiNzJiNDA1NmE5YTIzN2FiOTljYWIyYTUyODk2Nzgx",
+  "snapshot_id": "MCwzZWZlMzA3YmY0Y2JkYTc2NzcwNTVhYjgxNTYwYTk4OGJjODNkMDkx",
   "tracks": [
     {
-      "added_at": "2023-05-11 22:01:00",
+      "added_at": "2023-05-18 22:01:00",
       "album": {
-        "name": "HABITU\u00c9",
-        "url": "https://open.spotify.com/album/0xlt4h3AX1YRqg1HHtOU01"
+        "name": "LETS GO",
+        "url": "https://open.spotify.com/album/07JcrUKjzCDu3fkEtiW1XP"
       },
       "artists": [
         {
-          "name": "Moha MMZ",
-          "url": "https://open.spotify.com/artist/13fQpdj4xMKM4gbQUcB00T"
+          "name": "LETS GO",
+          "url": "https://open.spotify.com/artist/1dsDes6AhaezAMdHIEQbAr"
+        },
+        {
+          "name": "So La Lune",
+          "url": "https://open.spotify.com/artist/4ZW7BptOWzjNFLEqRiNCT7"
         }
       ],
-      "duration_ms": 180901,
-      "name": "HABITU\u00c9",
-      "url": "https://open.spotify.com/track/7csw8z3PQlXWpmoX29wSLX"
+      "duration_ms": 189757,
+      "name": "SOLIDE",
+      "url": "https://open.spotify.com/track/6bHjkSacCGQ558e2VPHBL2"
     },
     {
-      "added_at": "2023-05-11 22:01:00",
+      "added_at": "2023-05-18 22:01:00",
       "album": {
         "name": "Solitaire",
         "url": "https://open.spotify.com/album/1w91fuTe3zAPvcSyGlZdvE"
@@ -41,10 +45,42 @@
       "url": "https://open.spotify.com/track/4yYpZTbJPa6Uoct89yXdKf"
     },
     {
-      "added_at": "2023-05-11 22:01:00",
+      "added_at": "2023-05-18 22:01:00",
       "album": {
-        "name": "MOB (Affam\u00e9 #20)",
-        "url": "https://open.spotify.com/album/3pBQLVgwHk4TL26TX39hHn"
+        "name": "ALPHA",
+        "url": "https://open.spotify.com/album/6mHX3onyNT2xYveguxhrDm"
+      },
+      "artists": [
+        {
+          "name": "Djadja & Dinaz",
+          "url": "https://open.spotify.com/artist/5hREZP0zTQbTLkZ2M8RS4v"
+        }
+      ],
+      "duration_ms": 147986,
+      "name": "J'connais",
+      "url": "https://open.spotify.com/track/0qXimz42wMirNPwbOuXPuN"
+    },
+    {
+      "added_at": "2023-05-18 22:01:00",
+      "album": {
+        "name": "HABITU\u00c9",
+        "url": "https://open.spotify.com/album/0xlt4h3AX1YRqg1HHtOU01"
+      },
+      "artists": [
+        {
+          "name": "Moha MMZ",
+          "url": "https://open.spotify.com/artist/13fQpdj4xMKM4gbQUcB00T"
+        }
+      ],
+      "duration_ms": 180901,
+      "name": "HABITU\u00c9",
+      "url": "https://open.spotify.com/track/7csw8z3PQlXWpmoX29wSLX"
+    },
+    {
+      "added_at": "2023-05-18 22:01:00",
+      "album": {
+        "name": "Formidable (Affam\u00e9 #21)",
+        "url": "https://open.spotify.com/album/28eS3axRMn3LjcAgNL7mI2"
       },
       "artists": [
         {
@@ -52,28 +88,12 @@
           "url": "https://open.spotify.com/artist/5CtPAGoxpJ4yLJLx6CSrO8"
         }
       ],
-      "duration_ms": 187972,
-      "name": "MOB (Affam\u00e9 #20)",
-      "url": "https://open.spotify.com/track/5GnkgCm32rsuAVQ4Uf0oF8"
+      "duration_ms": 210000,
+      "name": "Formidable (Affam\u00e9 #21)",
+      "url": "https://open.spotify.com/track/6MPI2k0lQSbk2tPc3Zu28s"
     },
     {
-      "added_at": "2023-05-11 22:01:00",
-      "album": {
-        "name": "nou",
-        "url": "https://open.spotify.com/album/60CokyVmIeNhWiiwI8VvIZ"
-      },
-      "artists": [
-        {
-          "name": "Rounhaa",
-          "url": "https://open.spotify.com/artist/6jFcJYXzABu7Us9iwENUJe"
-        }
-      ],
-      "duration_ms": 126037,
-      "name": "nou",
-      "url": "https://open.spotify.com/track/7tOYFGZkgFJXRXvAq8GK4f"
-    },
-    {
-      "added_at": "2023-05-11 22:01:00",
+      "added_at": "2023-05-18 22:01:00",
       "album": {
         "name": "Karma",
         "url": "https://open.spotify.com/album/5ASTxD2T9pvG21LyJYGkcF"
@@ -89,7 +109,7 @@
       "url": "https://open.spotify.com/track/4LX12WH82yNq6q6G6MIcmu"
     },
     {
-      "added_at": "2023-05-11 22:01:00",
+      "added_at": "2023-05-18 22:01:00",
       "album": {
         "name": "Reset/Start",
         "url": "https://open.spotify.com/album/5esIkU96v4JHvpNGqprjQo"
@@ -105,7 +125,59 @@
       "url": "https://open.spotify.com/track/7FUj9qDOg4ak69PUih6QiA"
     },
     {
-      "added_at": "2023-05-11 22:01:00",
+      "added_at": "2023-05-18 22:01:00",
+      "album": {
+        "name": "Origine",
+        "url": "https://open.spotify.com/album/13mJHtPMDhomE59E0FmdWz"
+      },
+      "artists": [
+        {
+          "name": "Yuston XIII",
+          "url": "https://open.spotify.com/artist/2ac0Lmf5nfZU6sq2t6MJLh"
+        }
+      ],
+      "duration_ms": 208336,
+      "name": "L'\u00e2me du phoenix",
+      "url": "https://open.spotify.com/track/4V1lFBt09vY2Jfx8jiVejx"
+    },
+    {
+      "added_at": "2023-05-18 22:01:00",
+      "album": {
+        "name": "nou",
+        "url": "https://open.spotify.com/album/60CokyVmIeNhWiiwI8VvIZ"
+      },
+      "artists": [
+        {
+          "name": "Rounhaa",
+          "url": "https://open.spotify.com/artist/6jFcJYXzABu7Us9iwENUJe"
+        }
+      ],
+      "duration_ms": 126037,
+      "name": "nou",
+      "url": "https://open.spotify.com/track/7tOYFGZkgFJXRXvAq8GK4f"
+    },
+    {
+      "added_at": "2023-05-18 22:01:00",
+      "album": {
+        "name": "LETS GO",
+        "url": "https://open.spotify.com/album/07JcrUKjzCDu3fkEtiW1XP"
+      },
+      "artists": [
+        {
+          "name": "LETS GO",
+          "url": "https://open.spotify.com/artist/1dsDes6AhaezAMdHIEQbAr"
+        },
+        {
+          "name": "Bekar",
+          "url": "https://open.spotify.com/artist/6wjkiUBMMYSIx5UBTp7eKC"
+        }
+      ],
+      "duration_ms": 167982,
+      "name": "REFLET",
+      "url": "https://open.spotify.com/track/6WVQNv6OfbKtZ5GIVsmWCu"
+    },
+    {
+      "added_at": "2023-05-18 22:01:00",
       "album": {
         "name": "R\u00e9tina",
         "url": "https://open.spotify.com/album/3UIIEm33dsCVkZiSS1PezU"
@@ -125,59 +197,7 @@
       "url": "https://open.spotify.com/track/46dOsqKgsS8XNKAy0Ttno2"
     },
     {
-      "added_at": "2023-05-11 22:01:00",
-      "album": {
-        "name": "ALPHA",
-        "url": "https://open.spotify.com/album/6mHX3onyNT2xYveguxhrDm"
-      },
-      "artists": [
-        {
-          "name": "Djadja & Dinaz",
-          "url": "https://open.spotify.com/artist/5hREZP0zTQbTLkZ2M8RS4v"
-        }
-      ],
-      "duration_ms": 147986,
-      "name": "J'connais",
-      "url": "https://open.spotify.com/track/0qXimz42wMirNPwbOuXPuN"
-    },
-    {
-      "added_at": "2023-05-11 22:01:00",
-      "album": {
-        "name": "VAGALAME",
-        "url": "https://open.spotify.com/album/011c9UckMBRFQmp1ZgRA0P"
-      },
-      "artists": [
-        {
-          "name": "DMS",
-          "url": "https://open.spotify.com/artist/5uo0xw2Agih4NcDVajOd6e"
-        },
-        {
-          "name": "J9ueve",
-          "url": "https://open.spotify.com/artist/4fj5OWrMmlCbrc3PocAcl1"
-        }
-      ],
-      "duration_ms": 159375,
-      "name": "\u00c9T\u00c9 HIVER",
-      "url": "https://open.spotify.com/track/37dQuMCbUX9ikesEh9AP6A"
-    },
-    {
-      "added_at": "2023-05-11 22:01:00",
-      "album": {
-        "name": "ROUGE N\u00c9ON",
-        "url": "https://open.spotify.com/album/7LLEJ0jIS3lfCF79i0dXQj"
-      },
-      "artists": [
-        {
-          "name": "Green Montana",
-          "url": "https://open.spotify.com/artist/0zhMujl1yB8pkB023Qm4Y2"
-        }
-      ],
-      "duration_ms": 127240,
-      "name": "GINGER MC KENNA",
-      "url": "https://open.spotify.com/track/1po7uuEaDOOhXwWYjtNhIo"
-    },
-    {
-      "added_at": "2023-05-11 22:01:00",
+      "added_at": "2023-05-18 22:01:00",
       "album": {
         "name": "Z\u00e9nith (feat. Booba)",
         "url": "https://open.spotify.com/album/7LIy7jLgPFiNJoYxnbDf8t"
@@ -197,71 +217,7 @@
       "url": "https://open.spotify.com/track/6z41QMdRgnRTAUdcQ0pxyH"
     },
     {
-      "added_at": "2023-05-11 22:01:00",
-      "album": {
-        "name": "FLOKI (Dysphoria)",
-        "url": "https://open.spotify.com/album/0vy4bHNPlmpab87j9X5v2C"
-      },
-      "artists": [
-        {
-          "name": "Moha MMZ",
-          "url": "https://open.spotify.com/artist/13fQpdj4xMKM4gbQUcB00T"
-        }
-      ],
-      "duration_ms": 196245,
-      "name": "FLOKI - Dysphoria",
-      "url": "https://open.spotify.com/track/3vnQXpeuOqmRmYGqX7coFy"
-    },
-    {
-      "added_at": "2023-05-11 22:01:00",
-      "album": {
-        "name": "Origine",
-        "url": "https://open.spotify.com/album/13mJHtPMDhomE59E0FmdWz"
-      },
-      "artists": [
-        {
-          "name": "Yuston XIII",
-          "url": "https://open.spotify.com/artist/2ac0Lmf5nfZU6sq2t6MJLh"
-        }
-      ],
-      "duration_ms": 208336,
-      "name": "L'\u00e2me du phoenix",
-      "url": "https://open.spotify.com/track/4V1lFBt09vY2Jfx8jiVejx"
-    },
-    {
-      "added_at": "2023-05-11 22:01:00",
-      "album": {
-        "name": "J'oublie",
-        "url": "https://open.spotify.com/album/3cHfA8bgpYXok3XYIIaYb1"
-      },
-      "artists": [
-        {
-          "name": "Yuzmv",
-          "url": "https://open.spotify.com/artist/1cYA2rnKwpVYe9iVH3Djjm"
-        }
-      ],
-      "duration_ms": 176051,
-      "name": "J'oublie",
-      "url": "https://open.spotify.com/track/47ZrpiH2Koy794jtcdPmHn"
-    },
-    {
-      "added_at": "2023-05-11 22:01:00",
-      "album": {
-        "name": "PERDU D'AVANCE",
-        "url": "https://open.spotify.com/album/1FsjyKZzdKLKfRW3qjSykW"
-      },
-      "artists": [
-        {
-          "name": "HAKAI",
-          "url": "https://open.spotify.com/artist/33v1e0a3iVU2BBzW3orMrN"
-        }
-      ],
-      "duration_ms": 180834,
-      "name": "PERDU D'AVANCE",
-      "url": "https://open.spotify.com/track/32CtvOn0vsV5VlGk5JeZpg"
-    },
-    {
-      "added_at": "2023-05-11 22:01:00",
+      "added_at": "2023-05-18 22:01:00",
       "album": {
         "name": "Avant l'aube",
         "url": "https://open.spotify.com/album/4FRAG4CnUDIFfg5pJkykIU"
@@ -277,87 +233,39 @@
       "url": "https://open.spotify.com/track/17rnIvqGq3VfsD1kxBWvCg"
     },
     {
-      "added_at": "2023-05-11 22:01:00",
+      "added_at": "2023-05-18 22:01:00",
       "album": {
-        "name": "UBER",
-        "url": "https://open.spotify.com/album/3jXGdIm7ZG30nb7fNxeQ3J"
+        "name": "ROUGE N\u00c9ON",
+        "url": "https://open.spotify.com/album/7LLEJ0jIS3lfCF79i0dXQj"
       },
       "artists": [
         {
-          "name": "Moji x Sboy",
-          "url": "https://open.spotify.com/artist/4J3vhZNPel1Tyj2GHsXi6i"
+          "name": "Green Montana",
+          "url": "https://open.spotify.com/artist/0zhMujl1yB8pkB023Qm4Y2"
         }
       ],
-      "duration_ms": 160000,
-      "name": "UBER",
-      "url": "https://open.spotify.com/track/08QiWwcnUHZXsyIk0BXlcD"
+      "duration_ms": 127240,
+      "name": "GINGER MC KENNA",
+      "url": "https://open.spotify.com/track/1po7uuEaDOOhXwWYjtNhIo"
     },
     {
-      "added_at": "2023-05-11 22:01:00",
+      "added_at": "2023-05-18 22:01:00",
       "album": {
-        "name": "Qatari",
-        "url": "https://open.spotify.com/album/1RkZvLcX0e8iZyCTCyIhdu"
+        "name": "UN PEU PLUS SIMPLE",
+        "url": "https://open.spotify.com/album/1NXvyGiIFq3rIc0SZpcyGU"
       },
       "artists": [
         {
-          "name": "Many Santana",
-          "url": "https://open.spotify.com/artist/3rCZ4fFIVhGxQHg3UwizcJ"
+          "name": "Karmen",
+          "url": "https://open.spotify.com/artist/1EIQvc0qBhTAnZAcf5REtq"
         }
       ],
-      "duration_ms": 202208,
-      "name": "Qatari",
-      "url": "https://open.spotify.com/track/2aqiMUmWd4BUEUXaMUMZXB"
+      "duration_ms": 147692,
+      "name": "UN PEU PLUS SIMPLE",
+      "url": "https://open.spotify.com/track/1r5arJxSXv04aIhiIwlbkL"
     },
     {
-      "added_at": "2023-05-11 22:01:00",
-      "album": {
-        "name": "Karma",
-        "url": "https://open.spotify.com/album/5ASTxD2T9pvG21LyJYGkcF"
-      },
-      "artists": [
-        {
-          "name": "DTF",
-          "url": "https://open.spotify.com/artist/37ioGUZGhKk7VjWIocx8kM"
-        }
-      ],
-      "duration_ms": 170001,
-      "name": "Para\u00eet-il",
-      "url": "https://open.spotify.com/track/5VJerGXFJYqUsV63tvUYlb"
-    },
-    {
-      "added_at": "2023-05-11 22:01:00",
-      "album": {
-        "name": "No Love",
-        "url": "https://open.spotify.com/album/6oTrv1boqK0GsoqLXbnuu8"
-      },
-      "artists": [
-        {
-          "name": "Enolevrai",
-          "url": "https://open.spotify.com/artist/08tDZqfKfLCf5TXC8A2aNf"
-        }
-      ],
-      "duration_ms": 147555,
-      "name": "No Love",
-      "url": "https://open.spotify.com/track/43s7xJq0iHdcn2eGfE4M2x"
-    },
-    {
-      "added_at": "2023-05-11 22:01:00",
-      "album": {
-        "name": "Baby Mama",
-        "url": "https://open.spotify.com/album/3XQQBuq63jACEfOek488cD"
-      },
-      "artists": [
-        {
-          "name": "Chany Z",
-          "url": "https://open.spotify.com/artist/4w8X99AfTxbDYZ2KeTGNSH"
-        }
-      ],
-      "duration_ms": 210352,
-      "name": "Baby Mama",
-      "url": "https://open.spotify.com/track/5ClOFvLqn08NldYWLqwbmw"
-    },
-    {
-      "added_at": "2023-05-11 22:01:00",
+      "added_at": "2023-05-18 22:01:00",
       "album": {
         "name": "Minuit",
         "url": "https://open.spotify.com/album/1VvnLoLqEjpGw3MqgWVFzp"
@@ -373,23 +281,27 @@
       "url": "https://open.spotify.com/track/3qppQ6d1ffg1NUp4uGVY3g"
     },
     {
-      "added_at": "2023-05-11 22:01:00",
+      "added_at": "2023-05-18 22:01:00",
       "album": {
-        "name": "Bel Air",
-        "url": "https://open.spotify.com/album/2acXYtO8RQqEcQyrywwlxa"
+        "name": "VAGALAME",
+        "url": "https://open.spotify.com/album/011c9UckMBRFQmp1ZgRA0P"
       },
       "artists": [
         {
-          "name": "Siaka",
-          "url": "https://open.spotify.com/artist/7iXdTXVgCMV5v1c8DFAUoz"
+          "name": "DMS",
+          "url": "https://open.spotify.com/artist/5uo0xw2Agih4NcDVajOd6e"
+        },
+        {
+          "name": "J9ueve",
+          "url": "https://open.spotify.com/artist/4fj5OWrMmlCbrc3PocAcl1"
         }
       ],
-      "duration_ms": 176413,
-      "name": "Miami Vice",
-      "url": "https://open.spotify.com/track/7okGX2stmpuVyyCm2CSbXa"
+      "duration_ms": 159375,
+      "name": "\u00c9T\u00c9 HIVER",
+      "url": "https://open.spotify.com/track/37dQuMCbUX9ikesEh9AP6A"
     },
     {
-      "added_at": "2023-05-11 22:01:00",
+      "added_at": "2023-05-18 22:01:00",
       "album": {
         "name": "C'EST MORT",
         "url": "https://open.spotify.com/album/4pArbRYS8VZSyYGVRazSKI"
@@ -405,23 +317,123 @@
       "url": "https://open.spotify.com/track/4gZdVjI2z8RpfWOoboONMA"
     },
     {
-      "added_at": "2023-05-11 22:01:00",
+      "added_at": "2023-05-18 22:01:00",
       "album": {
-        "name": "BORDEL",
-        "url": "https://open.spotify.com/album/1OYNMkOWvo55wG2Pl39NLh"
+        "name": "BB APPREND-MOI \u00c0 FERMER LES YEUX",
+        "url": "https://open.spotify.com/album/0DV620FQXLPrwCuCq7S1Oy"
       },
       "artists": [
         {
-          "name": "Araujo",
-          "url": "https://open.spotify.com/artist/6fiGkVkamTXnIymlLQcByP"
+          "name": "Sovajon",
+          "url": "https://open.spotify.com/artist/41XEyClazvR6Ao77iD8qex"
         }
       ],
-      "duration_ms": 167021,
-      "name": "BORDEL",
-      "url": "https://open.spotify.com/track/2zsHwRpE74couNe2TM97vl"
+      "duration_ms": 190000,
+      "name": "BB APPREND-MOI \u00c0 FERMER LES YEUX",
+      "url": "https://open.spotify.com/track/2fMsWuZwPOHzQubX1otzO2"
     },
     {
-      "added_at": "2023-05-11 22:01:00",
+      "added_at": "2023-05-18 22:01:00",
+      "album": {
+        "name": "PERDU D'AVANCE",
+        "url": "https://open.spotify.com/album/1FsjyKZzdKLKfRW3qjSykW"
+      },
+      "artists": [
+        {
+          "name": "HAKAI",
+          "url": "https://open.spotify.com/artist/33v1e0a3iVU2BBzW3orMrN"
+        }
+      ],
+      "duration_ms": 180834,
+      "name": "PERDU D'AVANCE",
+      "url": "https://open.spotify.com/track/32CtvOn0vsV5VlGk5JeZpg"
+    },
+    {
+      "added_at": "2023-05-18 22:01:00",
+      "album": {
+        "name": "MOB (Affam\u00e9 #20)",
+        "url": "https://open.spotify.com/album/3pBQLVgwHk4TL26TX39hHn"
+      },
+      "artists": [
+        {
+          "name": "Zamdane",
+          "url": "https://open.spotify.com/artist/5CtPAGoxpJ4yLJLx6CSrO8"
+        }
+      ],
+      "duration_ms": 187972,
+      "name": "MOB (Affam\u00e9 #20)",
+      "url": "https://open.spotify.com/track/5GnkgCm32rsuAVQ4Uf0oF8"
+    },
+    {
+      "added_at": "2023-05-18 22:01:00",
+      "album": {
+        "name": "La Villa",
+        "url": "https://open.spotify.com/album/3RmdxbQoyDJcGJYMUUsf54"
+      },
+      "artists": [
+        {
+          "name": "Rouge Carmin",
+          "url": "https://open.spotify.com/artist/4cj80pU5lKUZDMsCfyajyS"
+        }
+      ],
+      "duration_ms": 146101,
+      "name": "La Villa",
+      "url": "https://open.spotify.com/track/0bgaPlh35VreN2tIWPQph4"
+    },
+    {
+      "added_at": "2023-05-18 22:01:00",
+      "album": {
+        "name": "Qatari",
+        "url": "https://open.spotify.com/album/1RkZvLcX0e8iZyCTCyIhdu"
+      },
+      "artists": [
+        {
+          "name": "Many Santana",
+          "url": "https://open.spotify.com/artist/3rCZ4fFIVhGxQHg3UwizcJ"
+        }
+      ],
+      "duration_ms": 202208,
+      "name": "Qatari",
+      "url": "https://open.spotify.com/track/2aqiMUmWd4BUEUXaMUMZXB"
+    },
+    {
+      "added_at": "2023-05-18 22:01:00",
+      "album": {
+        "name": "Baby Mama",
+        "url": "https://open.spotify.com/album/3XQQBuq63jACEfOek488cD"
+      },
+      "artists": [
+        {
+          "name": "Chany Z",
+          "url": "https://open.spotify.com/artist/4w8X99AfTxbDYZ2KeTGNSH"
+        }
+      ],
+      "duration_ms": 210352,
+      "name": "Baby Mama",
+      "url": "https://open.spotify.com/track/5ClOFvLqn08NldYWLqwbmw"
+    },
+    {
+      "added_at": "2023-05-18 22:01:00",
+      "album": {
+        "name": "Le jour se l\u00e8ve",
+        "url": "https://open.spotify.com/album/52dNCdNsbhSOd4LBBFbQp7"
+      },
+      "artists": [
+        {
+          "name": "Linton",
+          "url": "https://open.spotify.com/artist/2E2fqJpbXphODsOLkdI8U7"
+        },
+        {
+          "name": "Eline",
+          "url": "https://open.spotify.com/artist/5bGFc6JdtR529TQfHSmMYF"
+        }
+      ],
+      "duration_ms": 206608,
+      "name": "Le jour se l\u00e8ve",
+      "url": "https://open.spotify.com/track/4xYzugCwM1DXu24t6UO5Z8"
+    },
+    {
+      "added_at": "2023-05-18 22:01:00",
       "album": {
         "name": "KILO",
         "url": "https://open.spotify.com/album/7f9bQMl1mk8T3B5aBz72Ya"
@@ -437,27 +449,39 @@
       "url": "https://open.spotify.com/track/1O5nheIwgavNsDYIHIUx7Z"
     },
     {
-      "added_at": "2023-05-11 22:01:00",
+      "added_at": "2023-05-18 22:01:00",
       "album": {
-        "name": "Rem\u00e8de",
-        "url": "https://open.spotify.com/album/5xAq29Ub5l00PDHjGakITD"
+        "name": "Bel Air",
+        "url": "https://open.spotify.com/album/2acXYtO8RQqEcQyrywwlxa"
       },
       "artists": [
         {
-          "name": "joysad",
-          "url": "https://open.spotify.com/artist/6CZr9MXuLgVw8tcZxrf29Z"
-        },
-        {
-          "name": "LVZ",
-          "url": "https://open.spotify.com/artist/7B8kPWR00p96IXVH6u4zrf"
+          "name": "Siaka",
+          "url": "https://open.spotify.com/artist/7iXdTXVgCMV5v1c8DFAUoz"
         }
       ],
-      "duration_ms": 240000,
-      "name": "Rem\u00e8de",
-      "url": "https://open.spotify.com/track/7faltIY2L3Vce9l569cltM"
+      "duration_ms": 176413,
+      "name": "Miami Vice",
+      "url": "https://open.spotify.com/track/7okGX2stmpuVyyCm2CSbXa"
     },
     {
-      "added_at": "2023-05-11 22:01:00",
+      "added_at": "2023-05-18 22:01:00",
+      "album": {
+        "name": "BORDEL",
+        "url": "https://open.spotify.com/album/1OYNMkOWvo55wG2Pl39NLh"
+      },
+      "artists": [
+        {
+          "name": "Araujo",
+          "url": "https://open.spotify.com/artist/6fiGkVkamTXnIymlLQcByP"
+        }
+      ],
+      "duration_ms": 167021,
+      "name": "BORDEL",
+      "url": "https://open.spotify.com/track/2zsHwRpE74couNe2TM97vl"
+    },
+    {
+      "added_at": "2023-05-18 22:01:00",
       "album": {
         "name": "Noir & blanc (Volume 1)",
         "url": "https://open.spotify.com/album/6Wdhr6fo82OqCwifi45fI9"
@@ -477,43 +501,39 @@
       "url": "https://open.spotify.com/track/4ZfOtNtErg8RHq8B7E2iir"
     },
     {
-      "added_at": "2023-05-11 22:01:00",
+      "added_at": "2023-05-18 22:01:00",
       "album": {
-        "name": "Sous l'averse",
-        "url": "https://open.spotify.com/album/4XXVV9QRUogm1ZU9oYHcwy"
+        "name": "En bas",
+        "url": "https://open.spotify.com/album/1M69vczIjdtS7r5ffXe0eo"
       },
       "artists": [
         {
-          "name": "Carbonne",
-          "url": "https://open.spotify.com/artist/2t0frJEIdex2PTwuLlGxDD"
+          "name": "Djiggy",
+          "url": "https://open.spotify.com/artist/6dsigAAr7UblMinqOSzbCa"
         }
       ],
-      "duration_ms": 162857,
-      "name": "En bas de chez moi",
-      "url": "https://open.spotify.com/track/3OzkuO27kVWHxiQESqVvmw"
+      "duration_ms": 139275,
+      "name": "En bas",
+      "url": "https://open.spotify.com/track/3vdu2mV11LcnesdeJTRjZu"
     },
     {
-      "added_at": "2023-05-11 22:01:00",
+      "added_at": "2023-05-18 22:01:00",
       "album": {
-        "name": "PERDU",
-        "url": "https://open.spotify.com/album/1W1QqDVrF4rMqE2O7OnVYg"
+        "name": "16 appels manqu\u00e9s",
+        "url": "https://open.spotify.com/album/7zKUv0YPtYlnSkrIbjnw0C"
       },
       "artists": [
         {
-          "name": "Vadek",
-          "url": "https://open.spotify.com/artist/40m5FHZCGhyfN6eMi1oJPv"
-        },
-        {
-          "name": "Demas",
-          "url": "https://open.spotify.com/artist/6jgxd1BrkpYObThse9uhfG"
+          "name": "Cashmire",
+          "url": "https://open.spotify.com/artist/4Z7rTDNEHqLkQmRzAlNnjL"
         }
       ],
-      "duration_ms": 195145,
-      "name": "PERDU",
-      "url": "https://open.spotify.com/track/43bfTCUSTBAJNWCourc7Mb"
+      "duration_ms": 121038,
+      "name": "16 appels manqu\u00e9s",
+      "url": "https://open.spotify.com/track/5aJOVLvDSbKvg3vDFCNlIV"
     },
     {
-      "added_at": "2023-05-11 22:01:00",
+      "added_at": "2023-05-18 22:01:00",
       "album": {
         "name": "TOUMA\u00cf",
         "url": "https://open.spotify.com/album/1Knno1r3osIV1pWFN5EWSr"
@@ -533,55 +553,39 @@
       "url": "https://open.spotify.com/track/5xfKt7vsV90MpwcNHCmfkj"
     },
     {
-      "added_at": "2023-05-11 22:01:00",
+      "added_at": "2023-05-18 22:01:00",
       "album": {
-        "name": "Gaouri",
-        "url": "https://open.spotify.com/album/48ABfPStfF7AJjEd5woBOP"
+        "name": "J'oublie",
+        "url": "https://open.spotify.com/album/3cHfA8bgpYXok3XYIIaYb1"
       },
       "artists": [
         {
-          "name": "Eniah",
-          "url": "https://open.spotify.com/artist/07AutVRBzcfa2AIYsGSgLj"
+          "name": "Yuzmv",
+          "url": "https://open.spotify.com/artist/1cYA2rnKwpVYe9iVH3Djjm"
         }
       ],
-      "duration_ms": 159758,
-      "name": "Gaouri",
-      "url": "https://open.spotify.com/track/6usP72J7HRHaR0wqiJXcxc"
+      "duration_ms": 176051,
+      "name": "J'oublie",
+      "url": "https://open.spotify.com/track/47ZrpiH2Koy794jtcdPmHn"
     },
     {
-      "added_at": "2023-05-11 22:01:00",
+      "added_at": "2023-05-18 22:01:00",
       "album": {
-        "name": "En bas",
-        "url": "https://open.spotify.com/album/1M69vczIjdtS7r5ffXe0eo"
+        "name": "No Love",
+        "url": "https://open.spotify.com/album/6oTrv1boqK0GsoqLXbnuu8"
       },
       "artists": [
         {
-          "name": "Djiggy",
-          "url": "https://open.spotify.com/artist/6dsigAAr7UblMinqOSzbCa"
+          "name": "Enolevrai",
+          "url": "https://open.spotify.com/artist/08tDZqfKfLCf5TXC8A2aNf"
         }
       ],
-      "duration_ms": 139275,
-      "name": "En bas",
-      "url": "https://open.spotify.com/track/3vdu2mV11LcnesdeJTRjZu"
+      "duration_ms": 147555,
+      "name": "No Love",
+      "url": "https://open.spotify.com/track/43s7xJq0iHdcn2eGfE4M2x"
     },
     {
-      "added_at": "2023-05-11 22:01:00",
-      "album": {
-        "name": "Ambiance d'hiver",
-        "url": "https://open.spotify.com/album/55L1liPHD1johi1votMIcO"
-      },
-      "artists": [
-        {
-          "name": "HK La Paille",
-          "url": "https://open.spotify.com/artist/4NSdzXHjbwdR28akJRT9KY"
-        }
-      ],
-      "duration_ms": 161377,
-      "name": "Ambiance d'hiver",
-      "url": "https://open.spotify.com/track/2eAmTZ6vURJ4kUg4XVPjia"
-    },
-    {
-      "added_at": "2023-05-11 22:01:00",
+      "added_at": "2023-05-18 22:01:00",
       "album": {
         "name": "Meribel",
         "url": "https://open.spotify.com/album/5EXbemr2yfeyEIfocOf5R7"
@@ -597,7 +601,7 @@
       "url": "https://open.spotify.com/track/3UnOokumsh7zsWbMwdMVdo"
     },
     {
-      "added_at": "2023-05-11 22:01:00",
+      "added_at": "2023-05-18 22:01:00",
       "album": {
         "name": "L'inconnue d'en face",
         "url": "https://open.spotify.com/album/0w6oQvHWjelePItuPAjIOD"
@@ -613,7 +617,59 @@
       "url": "https://open.spotify.com/track/5LTHUMgaJp001MAKlotwr9"
     },
     {
-      "added_at": "2023-05-11 22:01:00",
+      "added_at": "2023-05-18 22:01:00",
+      "album": {
+        "name": "Ambiance d'hiver",
+        "url": "https://open.spotify.com/album/55L1liPHD1johi1votMIcO"
+      },
+      "artists": [
+        {
+          "name": "HK La Paille",
+          "url": "https://open.spotify.com/artist/4NSdzXHjbwdR28akJRT9KY"
+        }
+      ],
+      "duration_ms": 161377,
+      "name": "Ambiance d'hiver",
+      "url": "https://open.spotify.com/track/2eAmTZ6vURJ4kUg4XVPjia"
+    },
+    {
+      "added_at": "2023-05-18 22:01:00",
+      "album": {
+        "name": "PERDU",
+        "url": "https://open.spotify.com/album/1W1QqDVrF4rMqE2O7OnVYg"
+      },
+      "artists": [
+        {
+          "name": "Vadek",
+          "url": "https://open.spotify.com/artist/40m5FHZCGhyfN6eMi1oJPv"
+        },
+        {
+          "name": "Demas",
+          "url": "https://open.spotify.com/artist/6jgxd1BrkpYObThse9uhfG"
+        }
+      ],
+      "duration_ms": 195145,
+      "name": "PERDU",
+      "url": "https://open.spotify.com/track/43bfTCUSTBAJNWCourc7Mb"
+    },
+    {
+      "added_at": "2023-05-18 22:01:00",
+      "album": {
+        "name": "Gaouri",
+        "url": "https://open.spotify.com/album/48ABfPStfF7AJjEd5woBOP"
+      },
+      "artists": [
+        {
+          "name": "Eniah",
+          "url": "https://open.spotify.com/artist/07AutVRBzcfa2AIYsGSgLj"
+        }
+      ],
+      "duration_ms": 159758,
+      "name": "Gaouri",
+      "url": "https://open.spotify.com/track/6usP72J7HRHaR0wqiJXcxc"
+    },
+    {
+      "added_at": "2023-05-18 22:01:00",
       "album": {
         "name": "Synopsis",
         "url": "https://open.spotify.com/album/3c3EKhBjT67KGlOX5Cs7X1"
@@ -627,38 +683,6 @@
       "duration_ms": 142933,
       "name": "Synopsis",
       "url": "https://open.spotify.com/track/1bMGTZTAeM3FO6Y4V7Hj6y"
-    },
-    {
-      "added_at": "2023-05-11 22:01:00",
-      "album": {
-        "name": "QLT",
-        "url": "https://open.spotify.com/album/1m40YiFmeZB6jvEhFujsS9"
-      },
-      "artists": [
-        {
-          "name": "sheng",
-          "url": "https://open.spotify.com/artist/0mAIVu2rtpW9TYcbp88wqn"
-        }
-      ],
-      "duration_ms": 157837,
-      "name": "QLT",
-      "url": "https://open.spotify.com/track/1b19yvM3Q1PzDEcLYrx6TT"
-    },
-    {
-      "added_at": "2023-05-11 22:01:00",
-      "album": {
-        "name": "16 appels manqu\u00e9s",
-        "url": "https://open.spotify.com/album/7zKUv0YPtYlnSkrIbjnw0C"
-      },
-      "artists": [
-        {
-          "name": "Cashmire",
-          "url": "https://open.spotify.com/artist/4Z7rTDNEHqLkQmRzAlNnjL"
-        }
-      ],
-      "duration_ms": 121038,
-      "name": "16 appels manqu\u00e9s",
-      "url": "https://open.spotify.com/track/5aJOVLvDSbKvg3vDFCNlIV"
     }
   ],
   "unique_name": "Cloud Rap",

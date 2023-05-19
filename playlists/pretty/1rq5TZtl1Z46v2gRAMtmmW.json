@@ -1,13 +1,53 @@
 {
   "description": "",
-  "num_followers": 27873,
+  "num_followers": 27876,
   "original_name": "Ninja Tune - New Releases",
   "owner": {
     "name": "Ninja Tune",
     "url": "https://open.spotify.com/user/ninja-tune"
   },
-  "snapshot_id": "MzM0NywyYzA4YWMyNGNjOGRjMTFmOTI3MDQ5MDc1YWZhNDY1ZTJkYTU3NjY1",
+  "snapshot_id": "MzM1NSwyNTU0OGQ0YmNmM2VlYTA0NTAxMjM2ZTdmNzRlN2U1MzA2ZDFiZTZj",
   "tracks": [
+    {
+      "added_at": "2023-05-18 13:54:28",
+      "album": {
+        "name": "Each Night",
+        "url": "https://open.spotify.com/album/5YIl7vJtp7s9LwH2NS3kkc"
+      },
+      "artists": [
+        {
+          "name": "Poolside",
+          "url": "https://open.spotify.com/artist/5szdY7KaSi7epwyffrbV8c"
+        },
+        {
+          "name": "Mazy",
+          "url": "https://open.spotify.com/artist/4WMADzlMfGO7djHGfBAIKU"
+        }
+      ],
+      "duration_ms": 286933,
+      "name": "Each Night",
+      "url": "https://open.spotify.com/track/2mmdmrvte40p2MQEAdRWQE"
+    },
+    {
+      "added_at": "2023-05-18 13:54:46",
+      "album": {
+        "name": "The Universe",
+        "url": "https://open.spotify.com/album/2JKrj31ZTIjy8voQ7azDzC"
+      },
+      "artists": [
+        {
+          "name": "R\u00f3is\u00edn Murphy",
+          "url": "https://open.spotify.com/artist/3qwabfaWewpfli7hMNM3O8"
+        },
+        {
+          "name": "DJ Koze",
+          "url": "https://open.spotify.com/artist/1kR99O4MgSTasyeJh8UFCg"
+        }
+      ],
+      "duration_ms": 245823,
+      "name": "The Universe",
+      "url": "https://open.spotify.com/track/2GnGCPgB2ufQqvSuCBedwA"
+    },
     {
       "added_at": "2023-04-25 16:05:06",
       "album": {
@@ -27,6 +67,26 @@
       "duration_ms": 327217,
       "name": "No More Lies",
       "url": "https://open.spotify.com/track/62tGzw9OJOwDcjPBnMPCuj"
+    },
+    {
+      "added_at": "2023-05-18 13:54:52",
+      "album": {
+        "name": "The Universe",
+        "url": "https://open.spotify.com/album/2JKrj31ZTIjy8voQ7azDzC"
+      },
+      "artists": [
+        {
+          "name": "R\u00f3is\u00edn Murphy",
+          "url": "https://open.spotify.com/artist/3qwabfaWewpfli7hMNM3O8"
+        },
+        {
+          "name": "DJ Koze",
+          "url": "https://open.spotify.com/artist/1kR99O4MgSTasyeJh8UFCg"
+        }
+      ],
+      "duration_ms": 271112,
+      "name": "CooCool",
+      "url": "https://open.spotify.com/track/6NRNXenSNtuo5vVkuAq7EN"
     },
     {
       "added_at": "2023-05-16 16:20:03",
@@ -635,58 +695,6 @@
       "duration_ms": 200000,
       "name": "Hey Baby - Edit",
       "url": "https://open.spotify.com/track/7MndqEJo8v79ZzT0dfkVdE"
-    },
-    {
-      "added_at": "2022-08-10 14:03:31",
-      "album": {
-        "name": "Frisco",
-        "url": "https://open.spotify.com/album/2ZW8wrrHv95qMif7MaGWb4"
-      },
-      "artists": [
-        {
-          "name": "Little Dragon",
-          "url": "https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps"
-        }
-      ],
-      "duration_ms": 222911,
-      "name": "Frisco",
-      "url": "https://open.spotify.com/track/1cU4jWWFTAiclPWyD3X2KP"
-    },
-    {
-      "added_at": "2022-07-13 19:54:32",
-      "album": {
-        "name": "Light Of Day",
-        "url": "https://open.spotify.com/album/0pGNoq6y7AGjILfzDzOZbu"
-      },
-      "artists": [
-        {
-          "name": "ODESZA",
-          "url": "https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw"
-        },
-        {
-          "name": "\u00d3lafur Arnalds",
-          "url": "https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia"
-        }
-      ],
-      "duration_ms": 400130,
-      "name": "Light Of Day",
-      "url": "https://open.spotify.com/track/58sa3HUZL71gpMB6XvhaUo"
-    },
-    {
-      "added_at": "2022-06-28 18:31:24",
-      "album": {
-        "name": "Meli (II)",
-        "url": "https://open.spotify.com/album/6pDZnLDqV5XuiVmuSw7oZs"
-      },
-      "artists": [
-        {
-          "name": "Bicep",
-          "url": "https://open.spotify.com/artist/73A3bLnfnz5BoQjb4gNCga"
-        }
-      ],
-      "duration_ms": 417431,
-      "name": "Meli (II)",
-      "url": "https://open.spotify.com/track/6nGhGBz7uaE1RngnIFRKep"
     }
   ],
   "unique_name": "Ninja Tune - New Releases",

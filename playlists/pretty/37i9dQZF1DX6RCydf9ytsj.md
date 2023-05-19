@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6RCydf9ytsj.md) - [plain]
 
 > The decade when New Traditional artists like George Strait, Reba McEntire, and Randy Travis dominated the Country scene\. Cover: The Judds
 
-[Spotify](https://open.spotify.com/user/spotify) - 541,216 likes - 150 songs - 8 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 541,547 likes - 150 songs - 8 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,8 +76,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6RCydf9ytsj.md) - [plain]
 | 66 | [I'm Gonna Hire A Wino To Decorate Our Home](https://open.spotify.com/track/5KW0yv8MLurjPifL8pajWn) | [David Frizzell](https://open.spotify.com/artist/2SmICejsbfW9xy1ZFt9C1q) | [The Family's Fine, But This One's All Mine!](https://open.spotify.com/album/1YPDFisVWQgtb8NNS4r469) | 3:57 |
 | 67 | [Real Love](https://open.spotify.com/track/6cmv1w0ezmtjT1V61PG3lk) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU), [Kenny Rogers](https://open.spotify.com/artist/4tw2Lmn9tTPUv7Gy7mVPI4) | [Real Love](https://open.spotify.com/album/2JcQQnzKJABvKWNZB3MyuS) | 3:53 |
 | 68 | [A Country Boy Can Survive](https://open.spotify.com/track/5jVGZTrDusSvwhRDPmZMSB) | [Hank Williams, Jr.](https://open.spotify.com/artist/2dyeCWctcFRt3Pha76ONgb) | [The Bocephus Box Set](https://open.spotify.com/album/7C47twqxgIByOAH9b5Ysh7) | 4:15 |
-| 69 | [I Got Mexico](https://open.spotify.com/track/0BM8wPzuihqUE561Poj2b7) | [Eddy Raven](https://open.spotify.com/artist/23YxuG76RQvo4r7jChCwxK) | [Best Of Eddy Raven](https://open.spotify.com/album/4e9QmJZGdhtNjQVNsR183R) | 2:26 |
-| 70 | [Everything That Glitters \(Is Not Gold\)](https://open.spotify.com/track/6NaQDBNUP6LcsZklHizAki) | [Dan Seals](https://open.spotify.com/artist/55yEsJBqyn27JPsw5hHzqi) | [Won't Be Blue Anymore](https://open.spotify.com/album/7fAh0pvsmKl2HbkuUmoiMI) | 4:52 |
+| 69 | [Everything That Glitters \(Is Not Gold\)](https://open.spotify.com/track/6NaQDBNUP6LcsZklHizAki) | [Dan Seals](https://open.spotify.com/artist/55yEsJBqyn27JPsw5hHzqi) | [Won't Be Blue Anymore](https://open.spotify.com/album/7fAh0pvsmKl2HbkuUmoiMI) | 4:52 |
+| 70 | [I Got Mexico](https://open.spotify.com/track/0BM8wPzuihqUE561Poj2b7) | [Eddy Raven](https://open.spotify.com/artist/23YxuG76RQvo4r7jChCwxK) | [Best Of Eddy Raven](https://open.spotify.com/album/4e9QmJZGdhtNjQVNsR183R) | 2:26 |
 | 71 | [You Never Gave Up On Me](https://open.spotify.com/track/5IHlCoNGoJ4LGEEiB8Gpbl) | [Crystal Gayle](https://open.spotify.com/artist/6OheJTrDFGiyZ67F1BBLhc) | [Crystal Gayle: The Hits](https://open.spotify.com/album/5aimlnSDRmHRGfVReDwLqa) | 3:09 |
 | 72 | [You're The Reason God Made Oklahoma](https://open.spotify.com/track/6h2uiSGYI1oLzYg0MvBs6v) | [David Frizzell](https://open.spotify.com/artist/2SmICejsbfW9xy1ZFt9C1q), [Shelly West](https://open.spotify.com/artist/4U9hcIjDmGDdnNlfc3ebbJ) | [The Very Best Of David Frizzell & Shelly West](https://open.spotify.com/album/2pVU6L8o7hWWLkRHyrTkbI) | 3:24 |
 | 73 | [Wildflowers \- 2015 Remaster](https://open.spotify.com/track/27876bQcDNkZhWqvF0zfFN) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU), [Linda Ronstadt](https://open.spotify.com/artist/1sXbwvCQLGZnaH0Jp2HTVc), [Emmylou Harris](https://open.spotify.com/artist/5s6TJEuHTr9GR894wc6VfP) | [Trio \(2016 Remaster\)](https://open.spotify.com/album/4sQEu1QnbFvtYItC4mQSO4) | 3:36 |
@@ -118,8 +118,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6RCydf9ytsj.md) - [plain]
 | 108 | [Born To Boogie](https://open.spotify.com/track/6ORuFMNsVti1by7vkgDdVK) | [Hank Williams, Jr.](https://open.spotify.com/artist/2dyeCWctcFRt3Pha76ONgb) | [35 Biggest Hits](https://open.spotify.com/album/1b20X9PDCrKCDlFA6mpiF5) | 2:44 |
 | 109 | [Daddy's Hands](https://open.spotify.com/track/2VPnnOGXmejtKqxGY4jg66) | [Holly Dunn](https://open.spotify.com/artist/5RkW6o1M8sDx2FzeAEoNbH) | [Milestones\- Greatest Hits](https://open.spotify.com/album/1rMIWKHHf4rEp1li4Z8UZP) | 3:29 |
 | 110 | [Somebody's Knockin'](https://open.spotify.com/track/4XZzz3KpYL7TSzRmSaIuiE) | [Terri Gibbs](https://open.spotify.com/artist/53I5L1MaOYGfbRM1uZ80xg) | [The Best Of Terri Gibbs](https://open.spotify.com/album/03cq73RJU7Kvqx6WOneh9t) | 3:01 |
-| 111 | [The Conversation \(with Hank Williams Jr.\)](https://open.spotify.com/track/1O2AIet2IjgK6A4vrJQPAK) | [Waylon Jennings](https://open.spotify.com/artist/7wCjDgV6nqBsHguQXPAaIM), [Hank Williams, Jr.](https://open.spotify.com/artist/2dyeCWctcFRt3Pha76ONgb) | [Nashville Rebel](https://open.spotify.com/album/3DDUesugWE5mJjTF5HFsRg) | 3:50 |
-| 112 | [Swingin'](https://open.spotify.com/track/7x6z6qiA3eXSeKOH7hH2Mr) | [John Anderson](https://open.spotify.com/artist/3U7k7hBsHF9dy4ELW53Wrv) | [Wild And Blue](https://open.spotify.com/album/6i9WCdKglXZgc4wblSBeSc) | 3:03 |
+| 111 | [Swingin'](https://open.spotify.com/track/7x6z6qiA3eXSeKOH7hH2Mr) | [John Anderson](https://open.spotify.com/artist/3U7k7hBsHF9dy4ELW53Wrv) | [Wild And Blue](https://open.spotify.com/album/6i9WCdKglXZgc4wblSBeSc) | 3:03 |
+| 112 | [The Conversation \(with Hank Williams Jr.\)](https://open.spotify.com/track/1O2AIet2IjgK6A4vrJQPAK) | [Waylon Jennings](https://open.spotify.com/artist/7wCjDgV6nqBsHguQXPAaIM), [Hank Williams, Jr.](https://open.spotify.com/artist/2dyeCWctcFRt3Pha76ONgb) | [Nashville Rebel](https://open.spotify.com/album/3DDUesugWE5mJjTF5HFsRg) | 3:50 |
 | 113 | [I'll Still Be Loving You](https://open.spotify.com/track/1y9Tpv5Lj0KYMvz2mzoidT) | [Restless Heart](https://open.spotify.com/artist/0FcmRWJUfnCuwoXE1H2b0H) | [Wheels](https://open.spotify.com/album/5bABPMZl5LzayvEbFEeHTi) | 4:18 |
 | 114 | [Old Hippie](https://open.spotify.com/track/5fv9qtXwNV6Xx3P9bRed5i) | [The Bellamy Brothers](https://open.spotify.com/artist/5iB5AWIa7qreioi0AF3Bxa) | [Best Of The Bellamy Brothers](https://open.spotify.com/album/546Y4nzoT1Y85502L87DSf) | 4:07 |
 | 115 | [I Told You So](https://open.spotify.com/track/4HNj7TkT9VnfVjtV2HRlpl) | [Randy Travis](https://open.spotify.com/artist/1pTuR132U5b4Rizal2Pr7m) | [Top 10](https://open.spotify.com/album/3mr4jvGT5p1vw3zxySiCss) | 3:39 |
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6RCydf9ytsj.md) - [plain]
 | 149 | [\(That's What You Do\) When You're in Love](https://open.spotify.com/track/0zd4IzrpBnA1giNE6KkYby) | [The Forester Sisters](https://open.spotify.com/artist/27Zy5YAD3Atf56oSRfrfis) | [The Forester Sisters](https://open.spotify.com/album/3LDzLEr1jGClFSMrdwdjcA) | 3:04 |
 | 150 | [Woke Up In Love](https://open.spotify.com/track/0t2EyDBuMiQ3iHi3rXrFtR) | [Exile](https://open.spotify.com/artist/2enKa9Yqr6PZy3xGlxQEu7) | [Super Hits](https://open.spotify.com/album/2ktMx6m6ivjS1Pqm9tSrkJ) | 3:06 |
 
-Snapshot ID: `MCw1OTMyOWVjNzE0NTY3MDQ3NjU5MTMyYzM0ZjgwNjEzODFmNjdmNmQz`
+Snapshot ID: `MCw1NjM3MjNmNWM2Zjk2MGM2YTZhMjViYjhiNTM5ZWZkYTdjYTYzYWYw`

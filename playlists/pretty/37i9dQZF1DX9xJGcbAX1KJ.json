@@ -1,12 +1,12 @@
 {
   "description": "Go ahead, lounge a little longer with a fun mix of your favorite covers...",
-  "num_followers": 13670,
+  "num_followers": 13699,
   "original_name": "Under the Covers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxODg2NDg3MmU5NjZlYmEzNjU3OWM0ZmM4NTc4Y2EyZGI4N2Q1MDBk",
+  "snapshot_id": "MCw0YzQ5NGVjMjc2NWQxNDhjN2QxMzY2ZDgwZTI3M2UxMWUzNDQ5Nzdl",
   "tracks": [
     {
       "added_at": "2019-02-22 20:19:46",
@@ -503,30 +503,6 @@
     {
       "added_at": "2019-02-22 20:19:46",
       "album": {
-        "name": "Traveler",
-        "url": "https://open.spotify.com/album/6YNQ1O9C5AVtOGEPIIwkAG"
-      },
-      "artists": [
-        {
-          "name": "Jerry Douglas",
-          "url": "https://open.spotify.com/artist/4YgACLaoEjPl4kVZ5WmBN9"
-        },
-        {
-          "name": "Paul Simon",
-          "url": "https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI"
-        },
-        {
-          "name": "Mumford & Sons",
-          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
-        }
-      ],
-      "duration_ms": 245106,
-      "name": "The Boxer feat. Mumford & Sons and Paul Simon",
-      "url": "https://open.spotify.com/track/73C8vVm2BRLLBQ8FH6N6Qm"
-    },
-    {
-      "added_at": "2019-02-22 20:19:46",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/3oTpxylhyTiGLaZ8IRjJQB"
       },
@@ -555,6 +531,30 @@
       "duration_ms": 199653,
       "name": "Electric Feel",
       "url": "https://open.spotify.com/track/4ImkB7exKgLcZ8sYH4K9oW"
+    },
+    {
+      "added_at": "2019-02-22 20:19:46",
+      "album": {
+        "name": "Traveler",
+        "url": "https://open.spotify.com/album/6YNQ1O9C5AVtOGEPIIwkAG"
+      },
+      "artists": [
+        {
+          "name": "Jerry Douglas",
+          "url": "https://open.spotify.com/artist/4YgACLaoEjPl4kVZ5WmBN9"
+        },
+        {
+          "name": "Paul Simon",
+          "url": "https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI"
+        },
+        {
+          "name": "Mumford & Sons",
+          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
+        }
+      ],
+      "duration_ms": 245106,
+      "name": "The Boxer feat. Mumford & Sons and Paul Simon",
+      "url": "https://open.spotify.com/track/73C8vVm2BRLLBQ8FH6N6Qm"
     },
     {
       "added_at": "2019-02-22 20:19:46",

@@ -4,7 +4,7 @@
 
 > 回家的路上，有好聽的歌曲陪伴，會讓人暫時忘了疲倦。
 
-287 songs - 20 hr 58 min
+288 songs - 21 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -124,6 +124,7 @@
 | [天黑請閉眼 \(feat\. 邱鋒澤\)](https://open.spotify.com/track/0bIbgooxvBkww2ZGeu8VMR) | [Nine Chen](https://open.spotify.com/artist/4MMQmzYiUiuD8VwjrJu3v6), [Feng Ze](https://open.spotify.com/artist/6QYehwA9q6UQEMs1Vak0uy) | [天黑請閉眼 \(feat\. 邱鋒澤\)](https://open.spotify.com/album/4Rx7JsvDZWfL07FV9qchPX) | 4:46 | 2022-07-04 |  |
 | [太傻](https://open.spotify.com/track/5Ps1xyzZ1SLJtTa4CAYWGv) | [Della](https://open.spotify.com/artist/1EUq1MC4vfYYxcVK9aJnXf) | [太傻](https://open.spotify.com/album/0RK18OQMElMEqAdfZa0WIS) | 4:35 | 2022-06-06 | 2022-07-12 |
 | [太空人](https://open.spotify.com/track/0aIF8XCR5hVmzN6rI7tpOv) | [吳青峰](https://open.spotify.com/artist/5a5vu4RzsAHdKN0aYyblZ8) | [太空人](https://open.spotify.com/album/1pNWyuTpfAOFWow53iEtQW) | 5:18 | 2022-06-13 | 2022-07-13 |
+| [太阳与地球](https://open.spotify.com/track/2dyHXh5dfquUdH2ci30ZSI) | [Jarrell 黄俊融](https://open.spotify.com/artist/5hFV5x9k9vxFmKFneJIVp5) | [太阳与地球](https://open.spotify.com/album/6nD2McHVXlAo9NUl96FjQk) | 4:22 | 2023-05-15 |  |
 | [她 未知者](https://open.spotify.com/track/2oPsQEtm4FRSwSoCc5W0v2) | [亦帆](https://open.spotify.com/artist/2SFRlJIospp5rCo7jZC6MT) | [她 未知者](https://open.spotify.com/album/6Us7swn83FTat0pc5CvgK8) | 4:15 | 2022-07-04 | 2022-07-07 |
 | [好好睡,晚安【電影《上海堡壘》官方推廣曲】](https://open.spotify.com/track/2oFBn515CgKOdJFFJQJ4MJ) | [Yusee](https://open.spotify.com/artist/4yvd8YIp1l2tyhLxc0dM8a) | [好好睡,晚安【電影《上海堡壘》官方推廣曲】](https://open.spotify.com/album/6y7aF2T2Tafvcj8oUqwN9u) | 4:19 | 2022-07-04 | 2022-07-10 |
 | [好想愛這個世界啊](https://open.spotify.com/track/4dCJwNoQG5Fx42pqIz99Vn) | [Hua Chen Yu](https://open.spotify.com/artist/7v7bP8NfcMYh4sDADEAy6Z) | [新世界](https://open.spotify.com/album/0Iop0Fib806nAGvI6EPZrZ) | 4:18 | 2022-06-06 | 2022-07-28 |
@@ -218,7 +219,7 @@
 | [為你寫下這首情歌](https://open.spotify.com/track/7nQUCbkxmQpuhXLugmLffu) | [Mayday](https://open.spotify.com/artist/16s0YTFcyjP4kgFwt7ktrY) | [為你寫下這首情歌](https://open.spotify.com/album/7clyQmQE4BgF0XULsArbiZ) | 4:01 | 2022-12-19 |  |
 | [無價](https://open.spotify.com/track/0OFhF9p11GFEmz2XuSvQI3) | [黃小琥](https://open.spotify.com/artist/6KCusBln9NTESgcuI0DlUz) | [無價](https://open.spotify.com/album/5nEzxMa4pXq1wscDTMP4js) | 5:27 | 2022-06-13 | 2022-07-25 |
 | [無名之輩 \(電視劇《親愛的, 熱愛的》主題曲\)](https://open.spotify.com/track/4t6xJufZtFgVb0fbjCnWNv) | [陳雪燃](https://open.spotify.com/artist/4S60pJTRGN6LLZsJb7f4Of) | [無名之輩 \(電視劇《親愛的, 熱愛的》主題曲\)](https://open.spotify.com/album/25SPilLsgRVlEgDzbH6KcV) | 4:22 | 2022-07-25 |  |
-| [無名的人\(電影《雄獅少年》主題曲\)](https://open.spotify.com/track/72kP6AJqsEeSLkO640Tu7F) | [Mao Buyi](https://open.spotify.com/artist/6gvSKE72vF6N20LfBqrDmm) | [無名的人\(電影《雄獅少年》主題曲\)](https://open.spotify.com/album/5ksD6oRRGRd1zr4vW7bB7g) | 4:42 | 2022-06-06 |  |
+| [無名的人\(電影《雄獅少年》主題曲\)](https://open.spotify.com/track/72kP6AJqsEeSLkO640Tu7F) | [Mao Buyi](https://open.spotify.com/artist/6gvSKE72vF6N20LfBqrDmm) | [無名的人\(電影《雄獅少年》主題曲\)](https://open.spotify.com/album/5ksD6oRRGRd1zr4vW7bB7g) | 4:42 | 2022-06-06 | 2023-05-19 |
 | [無所不在](https://open.spotify.com/track/7gX65sNTAc3cdlVCZnRK7R) | [Jane Huang](https://open.spotify.com/artist/3anb4BMiWghyicokBR8lwm) | [無所不在](https://open.spotify.com/album/7wlBKePkqkF8eu61s2zxxP) | 3:44 | 2022-06-06 | 2022-06-21 |
 | [無與倫比的美麗\(魚版\)](https://open.spotify.com/track/5kDyL9hy7pW2USIT8XKV3G) | [魚丁糸](https://open.spotify.com/artist/4TGQEYGf6Pu4tpMNGQ4tOR) | [無與倫比的美麗\(魚版\)](https://open.spotify.com/album/0nTYvRPqjogMi1VEdUNIlN) | 5:06 | 2023-02-06 | 2023-03-14 |
 | [爛泥](https://open.spotify.com/track/4kp6vXluueVODT6hmzdfIB) | [唐漢霄](https://open.spotify.com/artist/0Cpg0LpyuQ5yNQBEY9N9Mw) | [爛泥](https://open.spotify.com/album/00rdk7qriOcGpzAdXZCHdf) | 4:02 | 2022-06-13 | 2022-07-04 |

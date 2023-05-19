@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWzc8XPy0ntN.md) - [plain]
 
 > Productores latinos underground para bailar con audífonos.
 
-[Spotify](https://open.spotify.com/user/spotify) - 122,764 likes - 50 songs - 3 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 122,781 likes - 50 songs - 3 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,11 +43,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWzc8XPy0ntN.md) - [plain]
 | 33 | [Esta Noche](https://open.spotify.com/track/2nPpXPgqCAUlmMxjnaaoMG) | [Rodion](https://open.spotify.com/artist/4G12bh08cCVQXa9pO4iIRe), [Alejandro Paz](https://open.spotify.com/artist/58JUcJgPMahuJHcVQM5CNL) | [Esta Noche](https://open.spotify.com/album/4otyeBB3oeu6L7M7tYD1It) | 5:11 |
 | 34 | [10](https://open.spotify.com/track/6ZLJ0s0my4L2RcO2YyNp4D) | [Fax](https://open.spotify.com/artist/5QjGFe0TnTyU3FF44b0vx4) | [Catalog Number Sta122](https://open.spotify.com/album/6u4MFeTG2QR99sr4Uf0nPf) | 2:29 |
 | 35 | [Give It To The Music](https://open.spotify.com/track/4lzBK0eegI0rCCEIPg0sVI) | [Nortec: Bostich + Fussible](https://open.spotify.com/artist/3Jarv4dvk7d9k6AkqDUVJg) | [Give It To The Music](https://open.spotify.com/album/7KNJCJsDEnAdLt9WbJD0Th) | 4:54 |
-| 36 | [Cuerpo Que Flota](https://open.spotify.com/track/4x9kOCgS6h3IBFZPR8asWe) | [Lila Tirando a Violeta](https://open.spotify.com/artist/1ZD9xcoRJKY4ldaV4UuAhx), [Nicola Cruz](https://open.spotify.com/artist/0OltT51j3hIkgaDJqqPzDn) | [Desire Path](https://open.spotify.com/album/4QMLBkfHh8ZrBLm3HGDx9V) | 3:35 |
-| 37 | [Corrado](https://open.spotify.com/track/0ulKl0MCIn9mYHmxK8DLA2) | [Bufi](https://open.spotify.com/artist/0ckrHQgGWuXzYxRM0jLOZZ), [Kubebe](https://open.spotify.com/artist/05EKr75TBeDGYstwAKRMpH) | [Bufebe](https://open.spotify.com/album/1BU2ah2FQ4SbswByhQonrO) | 5:24 |
+| 36 | [Corrado](https://open.spotify.com/track/0ulKl0MCIn9mYHmxK8DLA2) | [Bufi](https://open.spotify.com/artist/0ckrHQgGWuXzYxRM0jLOZZ), [Kubebe](https://open.spotify.com/artist/05EKr75TBeDGYstwAKRMpH) | [Bufebe](https://open.spotify.com/album/1BU2ah2FQ4SbswByhQonrO) | 5:24 |
+| 37 | [Cuerpo Que Flota](https://open.spotify.com/track/4x9kOCgS6h3IBFZPR8asWe) | [Lila Tirando a Violeta](https://open.spotify.com/artist/1ZD9xcoRJKY4ldaV4UuAhx), [Nicola Cruz](https://open.spotify.com/artist/0OltT51j3hIkgaDJqqPzDn) | [Desire Path](https://open.spotify.com/album/4QMLBkfHh8ZrBLm3HGDx9V) | 3:35 |
 | 38 | [Dancehall, Audubon Ballroom](https://open.spotify.com/track/09LNA3vpPg0Zd3ghzTv5BN) | [Kelman Duran](https://open.spotify.com/artist/6PIl48ctj6HDmqVM2uIikd) | [Night in Tijuana](https://open.spotify.com/album/4vKaGMoRdGVu6u6GJyqHTx) | 2:50 |
-| 39 | [Fiebre](https://open.spotify.com/track/00PyNFoOwrk0Aw3O7qU2kh) | [Dengue Dengue Dengue](https://open.spotify.com/artist/4dNjJV9AjGqHzkZualfhnG) | [Fiebre](https://open.spotify.com/album/6y2lryBMGXmaZ8CxuHfOXj) | 4:27 |
-| 40 | [Platano Macho](https://open.spotify.com/track/2JW0Rz7D4q3KxbvsBZrZZv) | [Doble Redoble](https://open.spotify.com/artist/4XJopnM0aD3RN5NWnl6fdT), [Borchi](https://open.spotify.com/artist/1dPeBgMAiuyI2gXcphyNMH), [Asaph Sánchez](https://open.spotify.com/artist/6WDgyfRIVQ68WwwnYZIOsI), [Boogát](https://open.spotify.com/artist/2y2bEk3zCBVBMDkrXgA29R) | [Nzúmbi](https://open.spotify.com/album/76dn7yiHINDA18rFqopGp0) | 3:58 |
+| 39 | [Platano Macho](https://open.spotify.com/track/2JW0Rz7D4q3KxbvsBZrZZv) | [Doble Redoble](https://open.spotify.com/artist/4XJopnM0aD3RN5NWnl6fdT), [Borchi](https://open.spotify.com/artist/1dPeBgMAiuyI2gXcphyNMH), [Asaph Sánchez](https://open.spotify.com/artist/6WDgyfRIVQ68WwwnYZIOsI), [Boogát](https://open.spotify.com/artist/2y2bEk3zCBVBMDkrXgA29R) | [Nzúmbi](https://open.spotify.com/album/76dn7yiHINDA18rFqopGp0) | 3:58 |
+| 40 | [Fiebre](https://open.spotify.com/track/00PyNFoOwrk0Aw3O7qU2kh) | [Dengue Dengue Dengue](https://open.spotify.com/artist/4dNjJV9AjGqHzkZualfhnG) | [Fiebre](https://open.spotify.com/album/6y2lryBMGXmaZ8CxuHfOXj) | 4:27 |
 | 41 | [Pieles](https://open.spotify.com/track/5kh71E46NXD2ub6OcvFVy5) | [Tyu](https://open.spotify.com/artist/5IToOsTYhrDB6BqOxpWTxM) | [Pieles](https://open.spotify.com/album/6wnljTM7txuqv9nCu2sRAu) | 8:20 |
 | 42 | [Collateral](https://open.spotify.com/track/5JNel3LbbwTMf2ZfwX3SL0) | [Dr Honey](https://open.spotify.com/artist/2ancfz442teYM3RI1zUcNr) | [Collateral](https://open.spotify.com/album/25hxlT3FXHFLHzBBwZOUOV) | 4:31 |
 | 43 | [Tema para Pequeños Pilotos Aviadores](https://open.spotify.com/track/0kxCwUht7SOKdH4lUqvJXO) | [Panoptica](https://open.spotify.com/artist/190DvOuVkHyMOK9FZIOqo8) | [Ensayo de un Sueño](https://open.spotify.com/album/3kenE4na5TWxSPOjtmASgj) | 3:37 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWzc8XPy0ntN.md) - [plain]
 | 45 | [Mala Hierba](https://open.spotify.com/track/1QjfhdsjAMgXKR78X7NUXr) | [María y José](https://open.spotify.com/artist/6DsIWcjlRh4a01ig2mutYX) | [Mala Hierba](https://open.spotify.com/album/2gUpydA3UPgqBkpjGbCCOy) | 3:35 |
 | 46 | [Tu Sonrisa](https://open.spotify.com/track/6m8LqOQxrQXSGbS6q55khu) | [Dapuntobeat](https://open.spotify.com/artist/1V45Te1AQmLsqtRGylNLKs) | [Tu Sonrisa](https://open.spotify.com/album/7xPLGR9YXVHdPw3MpqsYDn) | 5:48 |
 | 47 | [Ananda](https://open.spotify.com/track/4OM2bUjoj6mciwhLxwJG2j) | [Akkan](https://open.spotify.com/artist/2CA2ypghZh6RCxJdPOQ4Ze), [Chancha Via Circuito](https://open.spotify.com/artist/6E8vZ5lkpXbXlkgHhbVJSl) | [Ananda](https://open.spotify.com/album/458iq3ckasP86d5CoLlyJb) | 4:12 |
-| 48 | [Qué Onda](https://open.spotify.com/track/0wp0HxSJj6LjCL9QsU6ZgN) | [Disque Dj](https://open.spotify.com/artist/30RUEHc6ynhvbuYpEtICis) | [Qué Onda](https://open.spotify.com/album/4HSFqLwfSmwG6G33ag0T14) | 3:40 |
-| 49 | [Love is Dancing](https://open.spotify.com/track/1XNXuM7R6Lmk5RdWnfe2S0) | [Suricata](https://open.spotify.com/artist/2xKpXTLYPN7jd325QEb65b) | [Love is Dancing](https://open.spotify.com/album/3yisAaoFw3xGdJF4ZIUrZ8) | 8:26 |
+| 48 | [Love is Dancing](https://open.spotify.com/track/1XNXuM7R6Lmk5RdWnfe2S0) | [Suricata](https://open.spotify.com/artist/2xKpXTLYPN7jd325QEb65b) | [Love is Dancing](https://open.spotify.com/album/3yisAaoFw3xGdJF4ZIUrZ8) | 8:26 |
+| 49 | [Qué Onda](https://open.spotify.com/track/0wp0HxSJj6LjCL9QsU6ZgN) | [Disque Dj](https://open.spotify.com/artist/30RUEHc6ynhvbuYpEtICis) | [Qué Onda](https://open.spotify.com/album/4HSFqLwfSmwG6G33ag0T14) | 3:40 |
 | 50 | [Afrotrip](https://open.spotify.com/track/0n84JDWB6PWHobrArjK1m1) | [Frikstailers](https://open.spotify.com/artist/3kGiP6mQDtEZG5UD7mAlBH) | [Afrotrip](https://open.spotify.com/album/4Ita5yp1OjGhZqdmuiEGug) | 4:35 |
 
-Snapshot ID: `MCwxN2RiOThiZTZhOTkzOTIyNzU4YTA3YjhkMzhiZmRiNjE3YzE3ZTEw`
+Snapshot ID: `MCw3YmYxZGI0OGZhNmQ1YWMyYTYwZmU2YTU5MGY5NzI5YjQyMDY5NzUx`

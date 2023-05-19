@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEmM5igE6t5U.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2pQsRlWDNRHgPuNgb8hmgF">Alicia Keys</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 362 likes - 180 songs - 11 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 363 likes - 180 songs - 11 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -160,8 +160,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEmM5igE6t5U.md) - [plain]
 | 150 | [Love When You Call My Name \(Originals\)](https://open.spotify.com/track/7sKlDgyVEvTA6k7jpVJ9PJ) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [KEYS](https://open.spotify.com/album/76vpmS3ZCGm4hN8QtbnedX) | 3:37 |
 | 151 | [Apple](https://open.spotify.com/track/17PU5g2efXpstCKryrFkua) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [Hidden Figures: The Album](https://open.spotify.com/album/5ydGsF9Qy1IZsFmLRpJ4oc) | 3:47 |
 | 152 | [Nat King Cole \(Originals\)](https://open.spotify.com/track/1DO2DASHJl61O13YFMTZLf) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [KEYS](https://open.spotify.com/album/76vpmS3ZCGm4hN8QtbnedX) | 3:39 |
-| 153 | [Foolish Heart](https://open.spotify.com/track/1C1KvQ8BUB0rjEiX39P29C) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [Songs In A Minor \(20th Anniversary Edition\)](https://open.spotify.com/album/4D50mUGHwK0tZ7oVUx6Mx3) | 4:39 |
-| 154 | [Only You \(Unlocked\)](https://open.spotify.com/track/1cE8372XYLlNlerewl1ZTE) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [KEYS](https://open.spotify.com/album/76vpmS3ZCGm4hN8QtbnedX) | 3:11 |
+| 153 | [Only You \(Unlocked\)](https://open.spotify.com/track/1cE8372XYLlNlerewl1ZTE) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [KEYS](https://open.spotify.com/album/76vpmS3ZCGm4hN8QtbnedX) | 3:11 |
+| 154 | [Foolish Heart](https://open.spotify.com/track/1C1KvQ8BUB0rjEiX39P29C) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [Songs In A Minor \(20th Anniversary Edition\)](https://open.spotify.com/album/4D50mUGHwK0tZ7oVUx6Mx3) | 4:39 |
 | 155 | [Nat King Cole \(Unlocked\) \(feat\. Lil Wayne\)](https://open.spotify.com/track/7c6RtH1KwiYh3GnUEDOpqb) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [KEYS](https://open.spotify.com/album/76vpmS3ZCGm4hN8QtbnedX) | 4:05 |
 | 156 | [KEYS](https://open.spotify.com/track/1RIXer9Ww45TrBy7XAE0qW) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [KEYS](https://open.spotify.com/album/76vpmS3ZCGm4hN8QtbnedX) | 1:25 |
 | 157 | [Back To Life \(from Disney's "Queen of Katwe"\)](https://open.spotify.com/track/61XfGYoJgJCyWRBU80ykwd) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [Back To Life \(from Disney's "Queen of Katwe"\)](https://open.spotify.com/album/35hcZKVYDE3xBr0oC5dIun) | 4:52 |
@@ -172,8 +172,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEmM5igE6t5U.md) - [plain]
 | 162 | [Everybody Needs Love](https://open.spotify.com/track/5RUl2R5ZfqmgC7MKRH4BGX) | [Jennifer Hudson](https://open.spotify.com/artist/35GL8Cu2GKTcHzKGi75xl5) | [I Remember Me](https://open.spotify.com/album/10nkWocfwen0Q76rRn5nHC) | 3:14 |
 | 163 | [Old Memories \(Unlocked\)](https://open.spotify.com/track/6RS5y5qPXhKajRP9jcPFPQ) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [KEYS](https://open.spotify.com/album/76vpmS3ZCGm4hN8QtbnedX) | 3:52 |
 | 164 | [Dead End Road \(Unlocked\)](https://open.spotify.com/track/5SWJWdQoALOTU3LsVtI05U) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [KEYS](https://open.spotify.com/album/76vpmS3ZCGm4hN8QtbnedX) | 3:32 |
-| 165 | [Lover Man](https://open.spotify.com/track/0fd2VAl5qavRPNvVHnRvve) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [Try Sleeping With A Broken Heart \- EP](https://open.spotify.com/album/0O6CKntngnQvTRUvnWjVac) | 3:16 |
-| 166 | [Billions \(Unlocked\)](https://open.spotify.com/track/3d41OMTbqPPtjQtbZ3PiDV) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [KEYS](https://open.spotify.com/album/76vpmS3ZCGm4hN8QtbnedX) | 3:00 |
+| 165 | [Billions \(Unlocked\)](https://open.spotify.com/track/3d41OMTbqPPtjQtbZ3PiDV) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [KEYS](https://open.spotify.com/album/76vpmS3ZCGm4hN8QtbnedX) | 3:00 |
+| 166 | [Lover Man](https://open.spotify.com/track/0fd2VAl5qavRPNvVHnRvve) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [Try Sleeping With A Broken Heart \- EP](https://open.spotify.com/album/0O6CKntngnQvTRUvnWjVac) | 3:16 |
 | 167 | [2 Train](https://open.spotify.com/track/5GER7MdRLsONjwA1OIqjS8) | [Mario](https://open.spotify.com/artist/20s0P9QLxGqKuCsGwFsp7w) | [Mario](https://open.spotify.com/album/3FUuG8yhvsXhWMm776RWBQ) | 4:03 |
 | 168 | [Love When You Call My Name \(Unlocked\)](https://open.spotify.com/track/0CSbPg8yLS8ZpAvVdedRbz) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [KEYS](https://open.spotify.com/album/76vpmS3ZCGm4hN8QtbnedX) | 3:15 |
 | 169 | [Daffodils \(Unlocked\)](https://open.spotify.com/track/0ShXeGrXOTNfIr6YvCJHJP) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [KEYS](https://open.spotify.com/album/76vpmS3ZCGm4hN8QtbnedX) | 3:04 |
@@ -189,4 +189,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEmM5igE6t5U.md) - [plain]
 | 179 | [The Element of Freedom \(Intro\)](https://open.spotify.com/track/7JxiUfSIlnspU7TwJBj172) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [The Element Of Freedom](https://open.spotify.com/album/0Rxab8t0y7GlaTJTHX2wEN) | 0:12 |
 | 180 | [You Glow \(Interlude\)](https://open.spotify.com/track/4KEMTZBgdf5cxsby54YqSE) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [HERE](https://open.spotify.com/album/5M31iLPzYuYxkpSO5tBOMN) | 0:25 |
 
-Snapshot ID: `MjgwNzI4ODAsMDAwMDAwMDBjODA1MWMwOTUzMGQ3ZTUyMTlhZmViN2MyZDdiNzNiZA==`
+Snapshot ID: `MjgwNzQzMjAsMDAwMDAwMDBkZDNjMzE5ZDI3ZmZjZGQxZDFjNjk5MGYxNTlhYmVlYw==`

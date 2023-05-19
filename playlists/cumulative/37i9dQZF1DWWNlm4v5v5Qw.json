@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-25",
-  "description": "DMV music breaking waves. Cover: Rico Nasty",
+  "description": "DMV music breaking waves. Cover: IDK",
   "name": "Ripple Effect: DMV",
   "tracks": [
     {
@@ -132,7 +132,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 157701,
       "name": "2 Cap",
       "url": "https://open.spotify.com/track/114N9qtKDwtEsXbgQF5NRn"
@@ -150,7 +150,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 142223,
       "name": "2 minutes",
       "url": "https://open.spotify.com/track/16cjNnCnrzFpqNPT3bYUdO"
@@ -252,7 +252,7 @@
       ],
       "date_added": "2023-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 219041,
       "name": "850 (We On Top) [feat. Rich The Kid]",
       "url": "https://open.spotify.com/track/75mPObh81zu09GdVOfRG6l"
@@ -426,6 +426,24 @@
       "duration_ms": 96000,
       "name": "APPARENT",
       "url": "https://open.spotify.com/track/1XhINAXbdbMNo8nAAM8xXN"
+    },
+    {
+      "album": {
+        "name": "Art",
+        "url": "https://open.spotify.com/album/73Asdv6EI95dq8XCtfg6MG"
+      },
+      "artists": [
+        {
+          "name": "Fat Trel",
+          "url": "https://open.spotify.com/artist/1SncSgYiDk2kCBBaXIYcwd"
+        }
+      ],
+      "date_added": "2023-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 75697,
+      "name": "Art",
+      "url": "https://open.spotify.com/track/5LLUnb42K2hzczhXCmMGlZ"
     },
     {
       "album": {
@@ -658,7 +676,7 @@
       ],
       "date_added": "2023-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 170351,
       "name": "Big Motion Ft Money Man",
       "url": "https://open.spotify.com/track/0m6KwKbig8S2kE7pYLSqXc"
@@ -818,7 +836,7 @@
       ],
       "date_added": "2023-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 190302,
       "name": "Bonus I'm Cappin",
       "url": "https://open.spotify.com/track/2rs8oOIPiCIQnTjuYGxNtV"
@@ -858,7 +876,7 @@
       ],
       "date_added": "2023-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 192830,
       "name": "Bottomfeeders",
       "url": "https://open.spotify.com/track/6hoPfgcTq5VxySu86hBRhO"
@@ -1022,6 +1040,28 @@
       "duration_ms": 176701,
       "name": "Call",
       "url": "https://open.spotify.com/track/7hn0tcCa9akW2BYWTedLer"
+    },
+    {
+      "album": {
+        "name": "Sadboy, Vol. 1",
+        "url": "https://open.spotify.com/album/1TTd0iMUtCjzvoQTzMcCLo"
+      },
+      "artists": [
+        {
+          "name": "Reggie Becton",
+          "url": "https://open.spotify.com/artist/6tDysK3IF96GLkAcaSzXfC"
+        },
+        {
+          "name": "Nana",
+          "url": "https://open.spotify.com/artist/40mGQmqwScWdeqW08ff7vu"
+        }
+      ],
+      "date_added": "2023-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176741,
+      "name": "Call",
+      "url": "https://open.spotify.com/track/743RarKaAOMYFjGkZ44Mct"
     },
     {
       "album": {
@@ -1500,7 +1540,7 @@
       ],
       "date_added": "2023-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 247079,
       "name": "DEAD MAN WALKING",
       "url": "https://open.spotify.com/track/2c2tlXfEmLgUNvxngIi1qL"
@@ -1806,7 +1846,7 @@
       ],
       "date_added": "2023-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 146919,
       "name": "DUMB (feat. Moneybagg Yo)",
       "url": "https://open.spotify.com/track/2PQ8j691jAj6T4f7Ur4RiU"
@@ -2053,6 +2093,28 @@
     },
     {
       "album": {
+        "name": "Fell In Love",
+        "url": "https://open.spotify.com/album/4AkiEkHlDW2ZyPsO7iJct8"
+      },
+      "artists": [
+        {
+          "name": "Marshmello",
+          "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
+        },
+        {
+          "name": "Brent Faiyaz",
+          "url": "https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG"
+        }
+      ],
+      "date_added": "2023-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121283,
+      "name": "Fell In Love",
+      "url": "https://open.spotify.com/track/1N8klHEbZ0bFOHnMVs8C9S"
+    },
+    {
+      "album": {
         "name": "Sad Boy/ Bad Boy",
         "url": "https://open.spotify.com/album/3iU1IHppn6mT9HDUq3ZGHW"
       },
@@ -2082,7 +2144,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 187868,
       "name": "FINALLY SOBER (ANGELS CALLING)",
       "url": "https://open.spotify.com/track/2PzygCxvCYzsIyc50VStxD"
@@ -2682,7 +2744,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 175250,
       "name": "HEAD TO HADES",
       "url": "https://open.spotify.com/track/58sGcIFRdGOQ7bUi62HBes"
@@ -3110,7 +3172,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 112666,
       "name": "IDC",
       "url": "https://open.spotify.com/track/7dXLivL0wsQhxq9D9eIfDr"
@@ -3226,7 +3288,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 226088,
       "name": "INSECURE",
       "url": "https://open.spotify.com/track/6ivf0RFitnarjZ6Ozwkt3q"
@@ -3274,6 +3336,24 @@
       "duration_ms": 158425,
       "name": "IYKYK",
       "url": "https://open.spotify.com/track/0QfPIYl1XmpbgmVyDn45Pp"
+    },
+    {
+      "album": {
+        "name": "SHITUMSS",
+        "url": "https://open.spotify.com/album/2ZGsgclVau99YKe4WdtR67"
+      },
+      "artists": [
+        {
+          "name": "Joony",
+          "url": "https://open.spotify.com/artist/0gY0jm6QAzJCAslmZC3T35"
+        }
+      ],
+      "date_added": "2023-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135625,
+      "name": "JAGGED EDGE",
+      "url": "https://open.spotify.com/track/7vPwL4WkrqMCC3XbummsMo"
     },
     {
       "album": {
@@ -3364,6 +3444,24 @@
       "duration_ms": 144509,
       "name": "Know the Agenda",
       "url": "https://open.spotify.com/track/66OJf3zuP3bv81IxfVWV0T"
+    },
+    {
+      "album": {
+        "name": "Lap Dog",
+        "url": "https://open.spotify.com/album/6PnPivCtFsebDf8cnh73WM"
+      },
+      "artists": [
+        {
+          "name": "Azizi Gibson",
+          "url": "https://open.spotify.com/artist/2NjfafEappzvGGGDdMRJMP"
+        }
+      ],
+      "date_added": "2023-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189962,
+      "name": "Lap Dog",
+      "url": "https://open.spotify.com/track/4G9Wm2K0ouXMaOKvwmwEu7"
     },
     {
       "album": {
@@ -3556,7 +3654,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 144324,
       "name": "Let's Go",
       "url": "https://open.spotify.com/track/28TCQK8ZbAt9w9EAkoCB0J"
@@ -3636,6 +3734,32 @@
       "duration_ms": 178297,
       "name": "Life Goes On",
       "url": "https://open.spotify.com/track/2QMbye5SS2SJevP3d1cbXm"
+    },
+    {
+      "album": {
+        "name": "LIGHTS PLEASE (feat. Pusha T & CHASE B)",
+        "url": "https://open.spotify.com/album/7hnP8oZmQWbbxUIMPp0MBq"
+      },
+      "artists": [
+        {
+          "name": "Khi Infinite",
+          "url": "https://open.spotify.com/artist/6wthNkb9tOcsMdNtrHI5vs"
+        },
+        {
+          "name": "Pusha T",
+          "url": "https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy"
+        },
+        {
+          "name": "CHASE B",
+          "url": "https://open.spotify.com/artist/2cMVIRpseAO7fJAxNfg6rD"
+        }
+      ],
+      "date_added": "2023-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171750,
+      "name": "LIGHTS PLEASE (feat. Pusha T & CHASE B)",
+      "url": "https://open.spotify.com/track/7zBgZ7dhwTHx0WvttNExT2"
     },
     {
       "album": {
@@ -4452,7 +4576,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 168124,
       "name": "New",
       "url": "https://open.spotify.com/track/2kEAm7xnxMy27gsb9pistf"
@@ -4550,6 +4674,24 @@
       "duration_ms": 152129,
       "name": "No One",
       "url": "https://open.spotify.com/track/5bdmunTs6O71ao853jCZTy"
+    },
+    {
+      "album": {
+        "name": "No Problems",
+        "url": "https://open.spotify.com/album/7ELvTvraPPFmhn5540Zyc5"
+      },
+      "artists": [
+        {
+          "name": "Rican Da Menace",
+          "url": "https://open.spotify.com/artist/1JfDtCRGqUvGFKaevDPrHY"
+        }
+      ],
+      "date_added": "2023-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 79488,
+      "name": "No Problems",
+      "url": "https://open.spotify.com/track/4D2vt3fDELk1gNQpUGucZ1"
     },
     {
       "album": {
@@ -4706,7 +4848,7 @@
       ],
       "date_added": "2023-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 139200,
       "name": "One Track Minded",
       "url": "https://open.spotify.com/track/7IA8ksXrY276otudaP7knL"
@@ -4978,7 +5120,7 @@
       ],
       "date_added": "2023-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 198525,
       "name": "POETRY JAM (feat. Foggieraw)",
       "url": "https://open.spotify.com/track/4m4IJ0GaepAsVNP3qqSVDW"
@@ -5022,7 +5164,7 @@
       ],
       "date_added": "2023-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 167264,
       "name": "Portfolio",
       "url": "https://open.spotify.com/track/5tN1tWxAk6OeM2kkmQuv0d"
@@ -5359,6 +5501,28 @@
     },
     {
       "album": {
+        "name": "A Life For Two",
+        "url": "https://open.spotify.com/album/2EkGUhLIGG7M5ji8stWrgw"
+      },
+      "artists": [
+        {
+          "name": "Shordie Shordie",
+          "url": "https://open.spotify.com/artist/5fyvTyetDr7gvLafBsEEhU"
+        },
+        {
+          "name": "03 Greedo",
+          "url": "https://open.spotify.com/artist/0FtsMKmZEq8fBWqdSOWtqp"
+        }
+      ],
+      "date_added": "2023-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125573,
+      "name": "Remember Me Sober (feat. 03 Greedo)",
+      "url": "https://open.spotify.com/track/7MS8TsXkBxBrfGTszNqdEG"
+    },
+    {
+      "album": {
         "name": "Repeat (feat. Fivio Foreign)",
         "url": "https://open.spotify.com/album/0rdtKU3AkeqY9st4yQorjj"
       },
@@ -5493,6 +5657,24 @@
     },
     {
       "album": {
+        "name": "Sadboy, Vol. 1",
+        "url": "https://open.spotify.com/album/1TTd0iMUtCjzvoQTzMcCLo"
+      },
+      "artists": [
+        {
+          "name": "Reggie Becton",
+          "url": "https://open.spotify.com/artist/6tDysK3IF96GLkAcaSzXfC"
+        }
+      ],
+      "date_added": "2023-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130021,
+      "name": "Sadboy",
+      "url": "https://open.spotify.com/track/7I3ruC2uRcHSd5IYMkabSJ"
+    },
+    {
+      "album": {
         "name": "Sailors' Superstition (Bmore Club Remix)",
         "url": "https://open.spotify.com/album/23mwk7S0raIWPZoYIAAKRl"
       },
@@ -5512,6 +5694,28 @@
       "duration_ms": 168004,
       "name": "Sailors' Superstition - Bmore Club Remix",
       "url": "https://open.spotify.com/track/2HkFQRcNbymYFNrhEIOJW8"
+    },
+    {
+      "album": {
+        "name": "Salty (feat. NLE Choppa)",
+        "url": "https://open.spotify.com/album/5sk6uA82quf0esflFxvf60"
+      },
+      "artists": [
+        {
+          "name": "IDK",
+          "url": "https://open.spotify.com/artist/6aiFCgyKNwF9Rv5TOxnE8E"
+        },
+        {
+          "name": "NLE Choppa",
+          "url": "https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ"
+        }
+      ],
+      "date_added": "2023-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 105729,
+      "name": "Salty (feat. NLE Choppa)",
+      "url": "https://open.spotify.com/track/31KvrVQ0pwEhlksDrqFUXH"
     },
     {
       "album": {
@@ -5816,7 +6020,7 @@
       ],
       "date_added": "2023-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 161760,
       "name": "Slime-U-Out (feat. 21 Savage)",
       "url": "https://open.spotify.com/track/73q28ToK6IQpMoE9w4c7Qm"
@@ -5834,7 +6038,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 184084,
       "name": "Slow Things Down",
       "url": "https://open.spotify.com/track/195ZUcGZme10t5qhepxDcW"
@@ -5914,7 +6118,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 159000,
       "name": "Socials",
       "url": "https://open.spotify.com/track/3J8OuGohVDXiPzkeLEc2JS"
@@ -6162,7 +6366,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 144078,
       "name": "Stop Hatin'",
       "url": "https://open.spotify.com/track/1Q5ePNuK7VvyvjpSIuQ0JA"
@@ -6668,7 +6872,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 168103,
       "name": "Vibrant",
       "url": "https://open.spotify.com/track/0fTyX9kIwMaB721WRrFUy0"

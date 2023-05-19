@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0MLFaUdXnjA.md) - [plain]
 
 > Keeping it lowkey with the best of today's chill pop\. Cover: Laufey
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,824,529 likes - 100 songs - 5 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,824,554 likes - 100 songs - 5 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,7 +55,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0MLFaUdXnjA.md) - [plain]
 | 45 | [Lift Me Up \- From Black Panther: Wakanda Forever \- Music From and Inspired By](https://open.spotify.com/track/35ovElsgyAtQwYPYnZJECg) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [Lift Me Up \(From Black Panther: Wakanda Forever \- Music From and Inspired By\)](https://open.spotify.com/album/3Zzv75PyROH6AMeXN1Yr1h) | 3:16 |
 | 46 | [Full Circle](https://open.spotify.com/track/1agBQVBW2meTYQjmLdCxbB) | [Billianne](https://open.spotify.com/artist/0MID3D49WKmEGfBINN0VJC) | [Full Circle](https://open.spotify.com/album/5ajWwglxlTJUUjIXhDg2y8) | 3:19 |
 | 47 | [The Line](https://open.spotify.com/track/2rk3VV3D2kMlk3lszkIwQg) | [Suriel Hess](https://open.spotify.com/artist/5MLIxVYkY4Fc2dwdaYSS8G) | [The Line](https://open.spotify.com/album/1EPJPvgpA59nSeRmfnXGrO) | 3:24 |
-| 48 | [See Me Now](https://open.spotify.com/track/6zC9BpkTlnxeLkC2x9aQyb) | [Niko Rubio](https://open.spotify.com/artist/6XdCL1kwMFNqPim2JwXjKa) | [See Me Now](https://open.spotify.com/album/3YkfTFbfEgyprP6jtX4Ozi) | 3:29 |
+| 48 | [see me now](https://open.spotify.com/track/6zC9BpkTlnxeLkC2x9aQyb) | [Niko Rubio](https://open.spotify.com/artist/6XdCL1kwMFNqPim2JwXjKa) | [See Me Now](https://open.spotify.com/album/3YkfTFbfEgyprP6jtX4Ozi) | 3:29 |
 | 49 | [Teenage Dream](https://open.spotify.com/track/3GWaFFi6TlPcZLYmCCHZ9O) | [Stephen Dawes](https://open.spotify.com/artist/3jTU1IOqkO7Mz4zdbXPose) | [Teenage Dream](https://open.spotify.com/album/1UH6aVsmnWRjsB5Tq0qUhF) | 2:58 |
 | 50 | [Lovely Enough](https://open.spotify.com/track/60wz1rhDNtKo8RjNB6GxbR) | [Emily James](https://open.spotify.com/artist/7FxEy78P0oIVEVxdaL9npy) | [Lovely Enough](https://open.spotify.com/album/5PAfZ5O815kDOBwpnkuNJE) | 3:28 |
 | 51 | [Love You More](https://open.spotify.com/track/6m233M73tZHzRiUrNdBXOp) | [Felix Cartal](https://open.spotify.com/artist/6roDXEmZ6AARdOUv6x5U2v), [Daya](https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH) | [Love You More](https://open.spotify.com/album/2eCzscuLn8UWrA4vMJo8CZ) | 3:01 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0MLFaUdXnjA.md) - [plain]
 | 99 | [Good Friends](https://open.spotify.com/track/5HVc3YeNKDFomPhXBKE90U) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [Humble Quest](https://open.spotify.com/album/3BEDHGAd2zJh5dUL4dbmiw) | 3:28 |
 | 100 | [rises the moon](https://open.spotify.com/track/51Grh1RyUDcMBbpuyUIUHI) | [Liana Flores](https://open.spotify.com/artist/5zVu34ozw0BzXIcNHqkO0u) | [recently](https://open.spotify.com/album/295qW3R6DSM1WfePwUpgux) | 2:41 |
 
-Snapshot ID: `MCw3MGQwODdlZmEyMGJjMDkzZWYwZjdlY2RiNjU5MWFlODhjYjRjNDM2`
+Snapshot ID: `MCw4NzJhMGNhNmZkMWZhNDE2NjcwOWZiOWI5MjljMWNiYzZhYThlNmM2`

@@ -38,7 +38,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 255586,
       "name": "a thousand shores",
       "url": "https://open.spotify.com/track/34D9sGQt8RpdUNEyuoV9Nq"
@@ -1530,6 +1530,24 @@
       "duration_ms": 162903,
       "name": "Good God",
       "url": "https://open.spotify.com/track/2qgYWwsLHakKwgR6CLArfy"
+    },
+    {
+      "album": {
+        "name": "Empty Room",
+        "url": "https://open.spotify.com/album/3RDDsFAfrrpxLcsPJldpTu"
+      },
+      "artists": [
+        {
+          "name": "Cade Thompson",
+          "url": "https://open.spotify.com/artist/0Rta8FGUn7TLTsFiumWoC4"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162903,
+      "name": "Good God",
+      "url": "https://open.spotify.com/track/60ZMTLmxEJP7FSivfMWW1O"
     },
     {
       "album": {

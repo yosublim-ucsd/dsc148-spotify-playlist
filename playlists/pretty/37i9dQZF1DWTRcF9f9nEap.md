@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTRcF9f9nEap.md) - [plain]
 
 > A sound synonymous with the Blues; these are the pioneering names in slide guitar\. Cover: Johnny Winter
 
-[Spotify](https://open.spotify.com/user/spotify) - 71,297 likes - 50 songs - 3 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 71,402 likes - 50 songs - 3 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTRcF9f9nEap.md) - [plain]
 | 49 | [Bad Girl Blues \- Remastered](https://open.spotify.com/track/5abAIEO9uuBFNvWzle7rcx) | [Johnny Winter](https://open.spotify.com/artist/2ODUxmFxJSyvGiimNhMHbO) | [3rd Degree \(Remastered\)](https://open.spotify.com/album/1RcjOFCn7PDU8GZB97odnZ) | 4:34 |
 | 50 | [My Heart Beat Like a Hammer](https://open.spotify.com/track/2vu5jhcPIraCfiRDLAvQuW) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [The Best of Peter Green's Fleetwood Mac](https://open.spotify.com/album/3SgBIPBgm2Vmhv2kdym6pI) | 2:57 |
 
-Snapshot ID: `MCxlM2VlYTJlNzkyNDg5ZDEyYzZiN2FmYWMwYTdmOWRiOTM5ODI1NzVl`
+Snapshot ID: `MCxmMjlhMjlhOTJjNzQxYTFlYWQ4ZjU2NDFhMDA1ODM1YTA0YzUzZDMx`

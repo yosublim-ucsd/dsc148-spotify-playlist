@@ -1574,7 +1574,7 @@
       ],
       "date_added": "2023-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 174253,
       "name": "Cupid - Twin Ver.",
       "url": "https://open.spotify.com/track/7FbrGaHYVDmfr7KoLIZnQ7"
@@ -4247,6 +4247,24 @@
     },
     {
       "album": {
+        "name": "JA HOPPAS",
+        "url": "https://open.spotify.com/album/5LnAgqISItXMdOn2y3dlGM"
+      },
+      "artists": [
+        {
+          "name": "LOAM",
+          "url": "https://open.spotify.com/artist/6yAKbgaSH283c7eAZVgk3P"
+        }
+      ],
+      "date_added": "2023-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163366,
+      "name": "JA HOPPAS",
+      "url": "https://open.spotify.com/track/367OEGavo6GRpELfLi4QQB"
+    },
+    {
+      "album": {
         "name": "Jag Lovar",
         "url": "https://open.spotify.com/album/3iJQtcdLiYcD5R6bsQTVRm"
       },
@@ -6486,6 +6504,24 @@
       "duration_ms": 174503,
       "name": "SANTORINI",
       "url": "https://open.spotify.com/track/19NOk119jgj751CxrWsvOl"
+    },
+    {
+      "album": {
+        "name": "Harry's House",
+        "url": "https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h"
+      },
+      "artists": [
+        {
+          "name": "Harry Styles",
+          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
+        }
+      ],
+      "date_added": "2023-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218577,
+      "name": "Satellite",
+      "url": "https://open.spotify.com/track/0rzaRSujxA0bKyjJl6vHYq"
     },
     {
       "album": {
@@ -9038,7 +9074,7 @@
       ],
       "date_added": "2023-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 130755,
       "name": "\u00d6ver",
       "url": "https://open.spotify.com/track/1enxBOSOQnVVHMNI6BBv8q"

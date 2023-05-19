@@ -1,12 +1,12 @@
 {
   "description": "Hip Hop pra fazer os corres da vida.",
-  "num_followers": 39545,
+  "num_followers": 39588,
   "original_name": "No corre",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2MzA5Mzk3NmY2NWEwYzhhZGJkNTVkOWFiMzVkNmVjN2M3YWNmZWZi",
+  "snapshot_id": "MCwxNTE1OGI4NGRmZDhmMWVjZGRhZGFmMmRiMDc4NDkwOTU5MGM3ZDVl",
   "tracks": [
     {
       "added_at": "2023-04-21 03:01:00",
@@ -339,54 +339,6 @@
     {
       "added_at": "2023-04-21 03:01:00",
       "album": {
-        "name": "College Park",
-        "url": "https://open.spotify.com/album/57T1flhMpfjP4T4yW38qW0"
-      },
-      "artists": [
-        {
-          "name": "Logic",
-          "url": "https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L"
-        },
-        {
-          "name": "Seth MacFarlane",
-          "url": "https://open.spotify.com/artist/79D4dipwR6scV8AN3dm7gW"
-        },
-        {
-          "name": "Redman",
-          "url": "https://open.spotify.com/artist/7xTKLpo7UCzXSnlH7fOIoM"
-        },
-        {
-          "name": "Statik Selektah",
-          "url": "https://open.spotify.com/artist/5v0XTlB9FqNvfBfnw8n5b0"
-        }
-      ],
-      "duration_ms": 315102,
-      "name": "Self Medication (feat. Seth MacFarlane, Redman, & Statik Selektah)",
-      "url": "https://open.spotify.com/track/5E4mQ2mXblbeuI4tefnMZG"
-    },
-    {
-      "added_at": "2023-04-21 03:01:00",
-      "album": {
-        "name": "Mr. Morale & The Big Steppers",
-        "url": "https://open.spotify.com/album/79ONNoS4M9tfIA1mYLBYVX"
-      },
-      "artists": [
-        {
-          "name": "Kendrick Lamar",
-          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
-        },
-        {
-          "name": "Sampha",
-          "url": "https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm"
-        }
-      ],
-      "duration_ms": 222497,
-      "name": "Father Time (feat. Sampha)",
-      "url": "https://open.spotify.com/track/28qA8y1sz0FTuSapsCxNOG"
-    },
-    {
-      "added_at": "2023-04-21 03:01:00",
-      "album": {
         "name": "The Marshall Mathers LP",
         "url": "https://open.spotify.com/album/6t7956yu5zYf5A829XRiHC"
       },
@@ -415,6 +367,54 @@
       "duration_ms": 288200,
       "name": "Bitch Please II",
       "url": "https://open.spotify.com/track/7lgvU7WnwcNZ8dbGUz8yhP"
+    },
+    {
+      "added_at": "2023-04-21 03:01:00",
+      "album": {
+        "name": "Mr. Morale & The Big Steppers",
+        "url": "https://open.spotify.com/album/79ONNoS4M9tfIA1mYLBYVX"
+      },
+      "artists": [
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        },
+        {
+          "name": "Sampha",
+          "url": "https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm"
+        }
+      ],
+      "duration_ms": 222497,
+      "name": "Father Time (feat. Sampha)",
+      "url": "https://open.spotify.com/track/28qA8y1sz0FTuSapsCxNOG"
+    },
+    {
+      "added_at": "2023-04-21 03:01:00",
+      "album": {
+        "name": "College Park",
+        "url": "https://open.spotify.com/album/57T1flhMpfjP4T4yW38qW0"
+      },
+      "artists": [
+        {
+          "name": "Logic",
+          "url": "https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L"
+        },
+        {
+          "name": "Seth MacFarlane",
+          "url": "https://open.spotify.com/artist/79D4dipwR6scV8AN3dm7gW"
+        },
+        {
+          "name": "Redman",
+          "url": "https://open.spotify.com/artist/7xTKLpo7UCzXSnlH7fOIoM"
+        },
+        {
+          "name": "Statik Selektah",
+          "url": "https://open.spotify.com/artist/5v0XTlB9FqNvfBfnw8n5b0"
+        }
+      ],
+      "duration_ms": 315102,
+      "name": "Self Medication (feat. Seth MacFarlane, Redman, & Statik Selektah)",
+      "url": "https://open.spotify.com/track/5E4mQ2mXblbeuI4tefnMZG"
     },
     {
       "added_at": "2023-04-21 03:01:00",
@@ -527,6 +527,22 @@
     {
       "added_at": "2023-04-21 03:01:00",
       "album": {
+        "name": "Nail Tech",
+        "url": "https://open.spotify.com/album/72r4dr0xDsXOWRwP2o7ZIP"
+      },
+      "artists": [
+        {
+          "name": "Jack Harlow",
+          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
+        }
+      ],
+      "duration_ms": 206385,
+      "name": "Nail Tech",
+      "url": "https://open.spotify.com/track/62Yo3FDddWY8ydu6PW2wyz"
+    },
+    {
+      "added_at": "2023-04-21 03:01:00",
+      "album": {
         "name": "Curtain Call 2",
         "url": "https://open.spotify.com/album/3aTuW4BtsyyyyQa9LKqj8n"
       },
@@ -543,22 +559,6 @@
       "duration_ms": 212013,
       "name": "Is This Love ('09) (feat. 50 Cent)",
       "url": "https://open.spotify.com/track/7rK0iM6jwuo1oizdx8suQA"
-    },
-    {
-      "added_at": "2023-04-21 03:01:00",
-      "album": {
-        "name": "Nail Tech",
-        "url": "https://open.spotify.com/album/72r4dr0xDsXOWRwP2o7ZIP"
-      },
-      "artists": [
-        {
-          "name": "Jack Harlow",
-          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
-        }
-      ],
-      "duration_ms": 206385,
-      "name": "Nail Tech",
-      "url": "https://open.spotify.com/track/62Yo3FDddWY8ydu6PW2wyz"
     },
     {
       "added_at": "2023-04-21 03:01:00",
@@ -639,6 +639,22 @@
     {
       "added_at": "2023-04-21 03:01:00",
       "album": {
+        "name": "Tyler Herro",
+        "url": "https://open.spotify.com/album/4Vd7lpztpJdmMt9hrLfXWe"
+      },
+      "artists": [
+        {
+          "name": "Jack Harlow",
+          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
+        }
+      ],
+      "duration_ms": 156497,
+      "name": "Tyler Herro",
+      "url": "https://open.spotify.com/track/4DuUwzP4ALMqpquHU0ltAB"
+    },
+    {
+      "added_at": "2023-04-21 03:01:00",
+      "album": {
         "name": "Trouble Deluxe Edition",
         "url": "https://open.spotify.com/album/77eKpEVxmSr1RhqMlirlTF"
       },
@@ -667,26 +683,6 @@
       "duration_ms": 157540,
       "name": "Kool Aid & Frozen Pizza",
       "url": "https://open.spotify.com/track/0SwxuVBPfjqR2kCnpDDnqp"
-    },
-    {
-      "added_at": "2023-04-21 03:01:00",
-      "album": {
-        "name": "From The D 2 The LBC (with Snoop Dogg)",
-        "url": "https://open.spotify.com/album/6F4ObGnJwwV5W4uLFHnNoT"
-      },
-      "artists": [
-        {
-          "name": "Eminem",
-          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
-        },
-        {
-          "name": "Snoop Dogg",
-          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
-        }
-      ],
-      "duration_ms": 215120,
-      "name": "From The D 2 The LBC (with Snoop Dogg)",
-      "url": "https://open.spotify.com/track/7My9ca9QEIR8MvIOdIrTWA"
     },
     {
       "added_at": "2023-04-21 03:01:00",
@@ -727,18 +723,22 @@
     {
       "added_at": "2023-04-21 03:01:00",
       "album": {
-        "name": "Tyler Herro",
-        "url": "https://open.spotify.com/album/4Vd7lpztpJdmMt9hrLfXWe"
+        "name": "From The D 2 The LBC (with Snoop Dogg)",
+        "url": "https://open.spotify.com/album/6F4ObGnJwwV5W4uLFHnNoT"
       },
       "artists": [
         {
-          "name": "Jack Harlow",
-          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
+          "name": "Eminem",
+          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+        },
+        {
+          "name": "Snoop Dogg",
+          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
         }
       ],
-      "duration_ms": 156497,
-      "name": "Tyler Herro",
-      "url": "https://open.spotify.com/track/4DuUwzP4ALMqpquHU0ltAB"
+      "duration_ms": 215120,
+      "name": "From The D 2 The LBC (with Snoop Dogg)",
+      "url": "https://open.spotify.com/track/7My9ca9QEIR8MvIOdIrTWA"
     },
     {
       "added_at": "2023-04-21 03:01:00",
@@ -995,22 +995,6 @@
     {
       "added_at": "2023-04-21 03:01:00",
       "album": {
-        "name": "Do It Right",
-        "url": "https://open.spotify.com/album/6v0yp2gWW4rFao7LtIA8RR"
-      },
-      "artists": [
-        {
-          "name": "Don Toliver",
-          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
-        }
-      ],
-      "duration_ms": 174474,
-      "name": "Do It Right",
-      "url": "https://open.spotify.com/track/4ZevD501qZiFK7FY8DFn0V"
-    },
-    {
-      "added_at": "2023-04-21 03:01:00",
-      "album": {
         "name": "Straightenin",
         "url": "https://open.spotify.com/album/7MFj8Fxl8OrEAOyOBSMz51"
       },
@@ -1023,6 +1007,22 @@
       "duration_ms": 255532,
       "name": "Straightenin",
       "url": "https://open.spotify.com/track/3X2r2CnHOJeV5YekPTgBnK"
+    },
+    {
+      "added_at": "2023-04-21 03:01:00",
+      "album": {
+        "name": "Do It Right",
+        "url": "https://open.spotify.com/album/6v0yp2gWW4rFao7LtIA8RR"
+      },
+      "artists": [
+        {
+          "name": "Don Toliver",
+          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
+        }
+      ],
+      "duration_ms": 174474,
+      "name": "Do It Right",
+      "url": "https://open.spotify.com/track/4ZevD501qZiFK7FY8DFn0V"
     },
     {
       "added_at": "2023-04-21 03:01:00",
@@ -1067,6 +1067,22 @@
     {
       "added_at": "2023-04-21 03:01:00",
       "album": {
+        "name": "Street Sermons",
+        "url": "https://open.spotify.com/album/2GEF3N9pOsKD9jLnZj07HN"
+      },
+      "artists": [
+        {
+          "name": "Morray",
+          "url": "https://open.spotify.com/artist/44vREmJC0OlVZjZaGLqVEd"
+        }
+      ],
+      "duration_ms": 224933,
+      "name": "Quicksand",
+      "url": "https://open.spotify.com/track/4iCZ6Cr76For1TuHUQ90r8"
+    },
+    {
+      "added_at": "2023-04-21 03:01:00",
+      "album": {
         "name": "Ain\u2019t Safe (feat. Don Toliver)",
         "url": "https://open.spotify.com/album/2XlxXuumhYX4lIU2nXoUXw"
       },
@@ -1083,22 +1099,6 @@
       "duration_ms": 166514,
       "name": "Ain\u2019t Safe (feat. Don Toliver)",
       "url": "https://open.spotify.com/track/6ja11GoXgF75QkEVqqAadn"
-    },
-    {
-      "added_at": "2023-04-21 03:01:00",
-      "album": {
-        "name": "Street Sermons",
-        "url": "https://open.spotify.com/album/2GEF3N9pOsKD9jLnZj07HN"
-      },
-      "artists": [
-        {
-          "name": "Morray",
-          "url": "https://open.spotify.com/artist/44vREmJC0OlVZjZaGLqVEd"
-        }
-      ],
-      "duration_ms": 224933,
-      "name": "Quicksand",
-      "url": "https://open.spotify.com/track/4iCZ6Cr76For1TuHUQ90r8"
     },
     {
       "added_at": "2023-04-21 03:01:00",
@@ -1259,26 +1259,22 @@
     {
       "added_at": "2023-04-21 03:01:00",
       "album": {
-        "name": "FTCU (feat. GloRilla & Gangsta Boo)",
-        "url": "https://open.spotify.com/album/5MnLj1SQmw3nr7oTbJgtuB"
+        "name": "Crypto (feat. Rich The Kid)",
+        "url": "https://open.spotify.com/album/5UKyIgRyqHXI08xf1HrQ7O"
       },
       "artists": [
         {
-          "name": "Latto",
-          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+          "name": "Takeoff",
+          "url": "https://open.spotify.com/artist/3EW0kQ1skZiK1NHg3Spt9J"
         },
         {
-          "name": "GloRilla",
-          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
-        },
-        {
-          "name": "Gangsta Boo",
-          "url": "https://open.spotify.com/artist/3ppZNqihWOzuH4A0f4KmeP"
+          "name": "Rich The Kid",
+          "url": "https://open.spotify.com/artist/1pPmIToKXyGdsCF6LmqLmI"
         }
       ],
-      "duration_ms": 145655,
-      "name": "FTCU (feat. GloRilla & Gangsta Boo)",
-      "url": "https://open.spotify.com/track/4lxTmHPgoRWwM9QisWobJL"
+      "duration_ms": 160948,
+      "name": "Crypto (feat. Rich The Kid)",
+      "url": "https://open.spotify.com/track/6psP05MMEYxyJ54qdGEnOU"
     },
     {
       "added_at": "2023-04-21 03:01:00",
@@ -1303,26 +1299,6 @@
     {
       "added_at": "2023-04-21 03:01:00",
       "album": {
-        "name": "Crypto (feat. Rich The Kid)",
-        "url": "https://open.spotify.com/album/5UKyIgRyqHXI08xf1HrQ7O"
-      },
-      "artists": [
-        {
-          "name": "Takeoff",
-          "url": "https://open.spotify.com/artist/3EW0kQ1skZiK1NHg3Spt9J"
-        },
-        {
-          "name": "Rich The Kid",
-          "url": "https://open.spotify.com/artist/1pPmIToKXyGdsCF6LmqLmI"
-        }
-      ],
-      "duration_ms": 160948,
-      "name": "Crypto (feat. Rich The Kid)",
-      "url": "https://open.spotify.com/track/6psP05MMEYxyJ54qdGEnOU"
-    },
-    {
-      "added_at": "2023-04-21 03:01:00",
-      "album": {
         "name": "MORE BLACK SUPERHEROES",
         "url": "https://open.spotify.com/album/5vEoVfNUIb14lEGgAfzkMx"
       },
@@ -1339,6 +1315,30 @@
       "duration_ms": 164136,
       "name": "AIGHT (feat. Shelley FKA DRAM)",
       "url": "https://open.spotify.com/track/7GI7QNI80ms5XVAdS6fujG"
+    },
+    {
+      "added_at": "2023-04-21 03:01:00",
+      "album": {
+        "name": "FTCU (feat. GloRilla & Gangsta Boo)",
+        "url": "https://open.spotify.com/album/5MnLj1SQmw3nr7oTbJgtuB"
+      },
+      "artists": [
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        },
+        {
+          "name": "GloRilla",
+          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
+        },
+        {
+          "name": "Gangsta Boo",
+          "url": "https://open.spotify.com/artist/3ppZNqihWOzuH4A0f4KmeP"
+        }
+      ],
+      "duration_ms": 145655,
+      "name": "FTCU (feat. GloRilla & Gangsta Boo)",
+      "url": "https://open.spotify.com/track/4lxTmHPgoRWwM9QisWobJL"
     },
     {
       "added_at": "2023-04-21 03:01:00",
@@ -2171,18 +2171,22 @@
     {
       "added_at": "2023-04-21 03:01:00",
       "album": {
-        "name": "Free Promotion",
-        "url": "https://open.spotify.com/album/6grvETmkBJ7Q2GtVqqCHJw"
+        "name": "$oul $old $eparately",
+        "url": "https://open.spotify.com/album/3PZx4Vntcp5T7UgdfjnFDa"
       },
       "artists": [
         {
-          "name": "AMARNI",
-          "url": "https://open.spotify.com/artist/6HxQEau8zFYzY8fJ7pKEco"
+          "name": "Freddie Gibbs",
+          "url": "https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb"
+        },
+        {
+          "name": "Offset",
+          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
         }
       ],
-      "duration_ms": 112392,
-      "name": "Free Promotion",
-      "url": "https://open.spotify.com/track/1rbv0WiULofKWZRDNcPSCK"
+      "duration_ms": 157639,
+      "name": "Pain & Strife (feat. Offset)",
+      "url": "https://open.spotify.com/track/5sER6mjVIHvloVenvFbgT1"
     },
     {
       "added_at": "2023-04-21 03:01:00",
@@ -2203,22 +2207,18 @@
     {
       "added_at": "2023-04-21 03:01:00",
       "album": {
-        "name": "$oul $old $eparately",
-        "url": "https://open.spotify.com/album/3PZx4Vntcp5T7UgdfjnFDa"
+        "name": "Free Promotion",
+        "url": "https://open.spotify.com/album/6grvETmkBJ7Q2GtVqqCHJw"
       },
       "artists": [
         {
-          "name": "Freddie Gibbs",
-          "url": "https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb"
-        },
-        {
-          "name": "Offset",
-          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
+          "name": "AMARNI",
+          "url": "https://open.spotify.com/artist/6HxQEau8zFYzY8fJ7pKEco"
         }
       ],
-      "duration_ms": 157639,
-      "name": "Pain & Strife (feat. Offset)",
-      "url": "https://open.spotify.com/track/5sER6mjVIHvloVenvFbgT1"
+      "duration_ms": 112392,
+      "name": "Free Promotion",
+      "url": "https://open.spotify.com/track/1rbv0WiULofKWZRDNcPSCK"
     },
     {
       "added_at": "2023-04-21 03:01:00",

@@ -1,13 +1,33 @@
 {
   "description": "Listen to your favourite tunes for inspiration and upliftment.",
-  "num_followers": 29172,
+  "num_followers": 29204,
   "original_name": "Gospel Greatness",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmODBlYzI4NjhmOGFjZWI1OGY2NGU3MWY1OWYxYjI0OTVlNWUyZTVj",
+  "snapshot_id": "MCxmMGMyNzk5Yzg5NDc4OWFlMDdkNWI5NDU1MjVhYTUwOWI5YjVhMjYz",
   "tracks": [
+    {
+      "added_at": "2023-05-19 00:01:00",
+      "album": {
+        "name": "Jehovah Ngiyabonga",
+        "url": "https://open.spotify.com/album/1PmboZPhLlapJIGYhz42ZD"
+      },
+      "artists": [
+        {
+          "name": "Deborah Fraser",
+          "url": "https://open.spotify.com/artist/0vFuRv3NvGd3RFx6gwSziQ"
+        },
+        {
+          "name": "Big Zulu",
+          "url": "https://open.spotify.com/artist/6sNKQgLUy4LVNEX3r1kG1A"
+        }
+      ],
+      "duration_ms": 234000,
+      "name": "Jehovah Ngiyabonga",
+      "url": "https://open.spotify.com/track/2oelkq0zqxdXqMRv7T4CoY"
+    },
     {
       "added_at": "2023-05-12 00:01:00",
       "album": {

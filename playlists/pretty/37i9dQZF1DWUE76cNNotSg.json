@@ -1,12 +1,12 @@
 {
   "description": "Warm indie dance vibes, the music you need at golden hour.",
-  "num_followers": 437463,
+  "num_followers": 437747,
   "original_name": "golden hour",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhZDU5MTg1NDFiZjMwNzZkMzA2NTIzZTUyOGVkOGNiZjhkZGE3NzVj",
+  "snapshot_id": "MCxiYWVkZWRmMzFlODQ1YTgwYTI3NmVhNjgzODQyYjAyMWU0Zjk2M2Rl",
   "tracks": [
     {
       "added_at": "2023-03-20 18:32:59",
@@ -207,22 +207,6 @@
     {
       "added_at": "2023-03-20 18:32:59",
       "album": {
-        "name": "Canary Islands",
-        "url": "https://open.spotify.com/album/3T0gMffhvjVW4DQi6PUj1L"
-      },
-      "artists": [
-        {
-          "name": "Goth Babe",
-          "url": "https://open.spotify.com/artist/7o96HO2zrujyATtVsqGhh3"
-        }
-      ],
-      "duration_ms": 204521,
-      "name": "Canary Islands",
-      "url": "https://open.spotify.com/track/7MuU7UbVaKyu4HkHBoHwrD"
-    },
-    {
-      "added_at": "2023-03-20 18:32:59",
-      "album": {
         "name": "Matter of Time",
         "url": "https://open.spotify.com/album/0RgsG1zTZxKqOTsRrHWqDh"
       },
@@ -239,6 +223,22 @@
       "duration_ms": 240009,
       "name": "Matter of Time",
       "url": "https://open.spotify.com/track/3IuxYZUQ6J9yfqcVtk5h6b"
+    },
+    {
+      "added_at": "2023-03-20 18:32:59",
+      "album": {
+        "name": "Canary Islands",
+        "url": "https://open.spotify.com/album/3T0gMffhvjVW4DQi6PUj1L"
+      },
+      "artists": [
+        {
+          "name": "Goth Babe",
+          "url": "https://open.spotify.com/artist/7o96HO2zrujyATtVsqGhh3"
+        }
+      ],
+      "duration_ms": 204521,
+      "name": "Canary Islands",
+      "url": "https://open.spotify.com/track/7MuU7UbVaKyu4HkHBoHwrD"
     },
     {
       "added_at": "2023-03-20 18:32:59",
@@ -551,22 +551,6 @@
     {
       "added_at": "2023-03-20 18:32:59",
       "album": {
-        "name": "The Mission",
-        "url": "https://open.spotify.com/album/0jsaa9MWnJM4EUG81Ja2fn"
-      },
-      "artists": [
-        {
-          "name": "Bakar",
-          "url": "https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H"
-        }
-      ],
-      "duration_ms": 191478,
-      "name": "The Mission",
-      "url": "https://open.spotify.com/track/4CGORuRtjSK6xMy8s1VvSS"
-    },
-    {
-      "added_at": "2023-03-20 18:32:59",
-      "album": {
         "name": "Luv Is Not Enough (Remixes)",
         "url": "https://open.spotify.com/album/1sOtcGkBxbq7CflXDnVFYa"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 197894,
       "name": "Luv Is Not Enough",
       "url": "https://open.spotify.com/track/0Hy5csM0LflFU0vUU9wFpj"
+    },
+    {
+      "added_at": "2023-03-20 18:32:59",
+      "album": {
+        "name": "The Mission",
+        "url": "https://open.spotify.com/album/0jsaa9MWnJM4EUG81Ja2fn"
+      },
+      "artists": [
+        {
+          "name": "Bakar",
+          "url": "https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H"
+        }
+      ],
+      "duration_ms": 191478,
+      "name": "The Mission",
+      "url": "https://open.spotify.com/track/4CGORuRtjSK6xMy8s1VvSS"
     },
     {
       "added_at": "2023-03-20 18:32:59",
@@ -723,22 +723,6 @@
     {
       "added_at": "2023-03-20 18:32:59",
       "album": {
-        "name": "JUNGLE",
-        "url": "https://open.spotify.com/album/409STQlcajDkM1vdhM4Qxo"
-      },
-      "artists": [
-        {
-          "name": "The Blaze",
-          "url": "https://open.spotify.com/artist/1Dt1UKLtrJIW1xxRBejjos"
-        }
-      ],
-      "duration_ms": 279653,
-      "name": "LULLABY",
-      "url": "https://open.spotify.com/track/2o002vjoIgeX0Ho2aCWR1N"
-    },
-    {
-      "added_at": "2023-03-20 18:32:59",
-      "album": {
         "name": "Zanzibar",
         "url": "https://open.spotify.com/album/0fJE1fcPOjUcfQv8niTGbW"
       },
@@ -753,20 +737,20 @@
       "url": "https://open.spotify.com/track/0czEIxZg628LnldJfm7usx"
     },
     {
-      "added_at": "2023-05-16 14:00:42",
+      "added_at": "2023-03-20 18:32:59",
       "album": {
-        "name": "It's Euphoric",
-        "url": "https://open.spotify.com/album/4PO8IlUdTJpBbsUremuM69"
+        "name": "JUNGLE",
+        "url": "https://open.spotify.com/album/409STQlcajDkM1vdhM4Qxo"
       },
       "artists": [
         {
-          "name": "Georgia",
-          "url": "https://open.spotify.com/artist/06knYh538h5SI7OAEF8ek3"
+          "name": "The Blaze",
+          "url": "https://open.spotify.com/artist/1Dt1UKLtrJIW1xxRBejjos"
         }
       ],
-      "duration_ms": 221493,
-      "name": "It\u2019s Euphoric",
-      "url": "https://open.spotify.com/track/3se5Q9CtQLv26cFWYOcExQ"
+      "duration_ms": 279653,
+      "name": "LULLABY",
+      "url": "https://open.spotify.com/track/2o002vjoIgeX0Ho2aCWR1N"
     },
     {
       "added_at": "2023-03-20 18:32:59",
@@ -787,6 +771,42 @@
       "duration_ms": 251279,
       "name": "Hesitate",
       "url": "https://open.spotify.com/track/6L4xcis49DzITX6J3dPdcz"
+    },
+    {
+      "added_at": "2023-05-16 14:00:42",
+      "album": {
+        "name": "It's Euphoric",
+        "url": "https://open.spotify.com/album/4PO8IlUdTJpBbsUremuM69"
+      },
+      "artists": [
+        {
+          "name": "Georgia",
+          "url": "https://open.spotify.com/artist/06knYh538h5SI7OAEF8ek3"
+        }
+      ],
+      "duration_ms": 221493,
+      "name": "It\u2019s Euphoric",
+      "url": "https://open.spotify.com/track/3se5Q9CtQLv26cFWYOcExQ"
+    },
+    {
+      "added_at": "2023-05-16 14:00:42",
+      "album": {
+        "name": "Light Places",
+        "url": "https://open.spotify.com/album/5k3OoQgNSIK8dt0WhRRKku"
+      },
+      "artists": [
+        {
+          "name": "LP Giobbi",
+          "url": "https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J"
+        },
+        {
+          "name": "Caroline Byrne",
+          "url": "https://open.spotify.com/artist/2tVd9Bpt5Li9UsmKwhJ1nG"
+        }
+      ],
+      "duration_ms": 241804,
+      "name": "Feels Just Like it",
+      "url": "https://open.spotify.com/track/1hEnVkgNq0t9WFO5Smzq5Y"
     },
     {
       "added_at": "2023-03-20 18:32:59",
@@ -837,7 +857,7 @@
         }
       ],
       "duration_ms": 168245,
-      "name": "Chika (scared)",
+      "name": "Chika (Scared)",
       "url": "https://open.spotify.com/track/4pDE8vhtcEb90Eq2SvdWyB"
     },
     {
@@ -855,26 +875,6 @@
       "duration_ms": 225906,
       "name": "Where Angels Fear To Tread",
       "url": "https://open.spotify.com/track/1ZqeykOaDmjkldzs7XGR4b"
-    },
-    {
-      "added_at": "2023-05-16 14:00:42",
-      "album": {
-        "name": "Light Places",
-        "url": "https://open.spotify.com/album/5k3OoQgNSIK8dt0WhRRKku"
-      },
-      "artists": [
-        {
-          "name": "LP Giobbi",
-          "url": "https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J"
-        },
-        {
-          "name": "Caroline Byrne",
-          "url": "https://open.spotify.com/artist/2tVd9Bpt5Li9UsmKwhJ1nG"
-        }
-      ],
-      "duration_ms": 241804,
-      "name": "Feels Just Like it",
-      "url": "https://open.spotify.com/track/1hEnVkgNq0t9WFO5Smzq5Y"
     },
     {
       "added_at": "2023-03-20 18:32:59",
@@ -911,22 +911,6 @@
     {
       "added_at": "2023-03-20 18:32:59",
       "album": {
-        "name": "Collage 1",
-        "url": "https://open.spotify.com/album/6OdqJNtnslCLIeUZt5jogs"
-      },
-      "artists": [
-        {
-          "name": "Conor Albert",
-          "url": "https://open.spotify.com/artist/0zJjil03QRbxSliMkw230M"
-        }
-      ],
-      "duration_ms": 200200,
-      "name": "Tell Me",
-      "url": "https://open.spotify.com/track/2jrAN4OhqpaeWrE8Krt2to"
-    },
-    {
-      "added_at": "2023-03-20 18:32:59",
-      "album": {
         "name": "Woodstock (Deluxe Edition)",
         "url": "https://open.spotify.com/album/2mCNJ90uPdrORywFGSxQfX"
       },
@@ -943,6 +927,22 @@
       "duration_ms": 194434,
       "name": "Feel It Still - Medasin Remix",
       "url": "https://open.spotify.com/track/4RVRgJXr8rPcHJqE7WLIcQ"
+    },
+    {
+      "added_at": "2023-03-20 18:32:59",
+      "album": {
+        "name": "Collage 1",
+        "url": "https://open.spotify.com/album/6OdqJNtnslCLIeUZt5jogs"
+      },
+      "artists": [
+        {
+          "name": "Conor Albert",
+          "url": "https://open.spotify.com/artist/0zJjil03QRbxSliMkw230M"
+        }
+      ],
+      "duration_ms": 200200,
+      "name": "Tell Me",
+      "url": "https://open.spotify.com/track/2jrAN4OhqpaeWrE8Krt2to"
     },
     {
       "added_at": "2023-03-20 18:32:59",
@@ -1111,22 +1111,6 @@
     {
       "added_at": "2023-03-20 18:32:59",
       "album": {
-        "name": "Home For Now",
-        "url": "https://open.spotify.com/album/3fAPDjSser74AWKNa8O66e"
-      },
-      "artists": [
-        {
-          "name": "Benji Lewis",
-          "url": "https://open.spotify.com/artist/1BPsbKiNgav1TY1ITIU8C5"
-        }
-      ],
-      "duration_ms": 222439,
-      "name": "Drift",
-      "url": "https://open.spotify.com/track/4e00y1uBHrrWjlGfnNHoV8"
-    },
-    {
-      "added_at": "2023-03-20 18:32:59",
-      "album": {
         "name": "On the Quiet (Expanded Edition)",
         "url": "https://open.spotify.com/album/24qysXGTOB1x7iKbtgJouX"
       },
@@ -1143,6 +1127,22 @@
       "duration_ms": 259146,
       "name": "Far Away Place",
       "url": "https://open.spotify.com/track/34XwEhXXTz6dVRUxr8BbEB"
+    },
+    {
+      "added_at": "2023-03-20 18:32:59",
+      "album": {
+        "name": "Home For Now",
+        "url": "https://open.spotify.com/album/3fAPDjSser74AWKNa8O66e"
+      },
+      "artists": [
+        {
+          "name": "Benji Lewis",
+          "url": "https://open.spotify.com/artist/1BPsbKiNgav1TY1ITIU8C5"
+        }
+      ],
+      "duration_ms": 222439,
+      "name": "Drift",
+      "url": "https://open.spotify.com/track/4e00y1uBHrrWjlGfnNHoV8"
     },
     {
       "added_at": "2023-03-20 18:32:59",
@@ -1263,22 +1263,18 @@
     {
       "added_at": "2023-03-20 18:32:59",
       "album": {
-        "name": "Circmvnt",
-        "url": "https://open.spotify.com/album/2eR6L5nfTqjp97Kty4fCgs"
+        "name": "All Becomes Okay",
+        "url": "https://open.spotify.com/album/6EHU4sgkn65wpT5dZU6Tkh"
       },
       "artists": [
         {
-          "name": "Elujay",
-          "url": "https://open.spotify.com/artist/1CgbNAF3Stnz1Tpipu3xdO"
-        },
-        {
-          "name": "HXNS",
-          "url": "https://open.spotify.com/artist/3DmNosRs1GoM9BJPJmsul0"
+          "name": "Shallou",
+          "url": "https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk"
         }
       ],
-      "duration_ms": 153076,
-      "name": "1080p",
-      "url": "https://open.spotify.com/track/3kjB9p5GpyOfSnsQeBzpZb"
+      "duration_ms": 228162,
+      "name": "Truth",
+      "url": "https://open.spotify.com/track/0C7sbRykiD9VGrz1rXmv0T"
     },
     {
       "added_at": "2023-05-16 14:00:42",
@@ -1303,6 +1299,26 @@
     {
       "added_at": "2023-03-20 18:32:59",
       "album": {
+        "name": "Circmvnt",
+        "url": "https://open.spotify.com/album/2eR6L5nfTqjp97Kty4fCgs"
+      },
+      "artists": [
+        {
+          "name": "Elujay",
+          "url": "https://open.spotify.com/artist/1CgbNAF3Stnz1Tpipu3xdO"
+        },
+        {
+          "name": "HXNS",
+          "url": "https://open.spotify.com/artist/3DmNosRs1GoM9BJPJmsul0"
+        }
+      ],
+      "duration_ms": 153076,
+      "name": "1080p",
+      "url": "https://open.spotify.com/track/3kjB9p5GpyOfSnsQeBzpZb"
+    },
+    {
+      "added_at": "2023-03-20 18:32:59",
+      "album": {
         "name": "Taking Over",
         "url": "https://open.spotify.com/album/5jEBgUyhPLu3QUoZvbRdCa"
       },
@@ -1319,26 +1335,6 @@
     {
       "added_at": "2023-03-20 18:32:59",
       "album": {
-        "name": "I'm In Love With You",
-        "url": "https://open.spotify.com/album/3rALWkXOoed2qwwayoKb3B"
-      },
-      "artists": [
-        {
-          "name": "Poolside",
-          "url": "https://open.spotify.com/artist/5szdY7KaSi7epwyffrbV8c"
-        },
-        {
-          "name": "NEIL FRANCES",
-          "url": "https://open.spotify.com/artist/587PA35pRGL1JwQr6idJbb"
-        }
-      ],
-      "duration_ms": 252600,
-      "name": "I'm In Love With You",
-      "url": "https://open.spotify.com/track/668AkXg9qeMsY8fivgpPxL"
-    },
-    {
-      "added_at": "2023-03-20 18:32:59",
-      "album": {
         "name": "Kyle (i found you)",
         "url": "https://open.spotify.com/album/2myK0q2FH45JQRUxepp4en"
       },
@@ -1349,7 +1345,7 @@
         }
       ],
       "duration_ms": 196071,
-      "name": "Kyle (i found you)",
+      "name": "Kyle (I Found You)",
       "url": "https://open.spotify.com/track/0v1g5U1OAb0XBjKyA8R36i"
     },
     {
@@ -1371,18 +1367,22 @@
     {
       "added_at": "2023-03-20 18:32:59",
       "album": {
-        "name": "All Becomes Okay",
-        "url": "https://open.spotify.com/album/6EHU4sgkn65wpT5dZU6Tkh"
+        "name": "I'm In Love With You",
+        "url": "https://open.spotify.com/album/3rALWkXOoed2qwwayoKb3B"
       },
       "artists": [
         {
-          "name": "Shallou",
-          "url": "https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk"
+          "name": "Poolside",
+          "url": "https://open.spotify.com/artist/5szdY7KaSi7epwyffrbV8c"
+        },
+        {
+          "name": "NEIL FRANCES",
+          "url": "https://open.spotify.com/artist/587PA35pRGL1JwQr6idJbb"
         }
       ],
-      "duration_ms": 228162,
-      "name": "Truth",
-      "url": "https://open.spotify.com/track/0C7sbRykiD9VGrz1rXmv0T"
+      "duration_ms": 252600,
+      "name": "I'm In Love With You",
+      "url": "https://open.spotify.com/track/668AkXg9qeMsY8fivgpPxL"
     },
     {
       "added_at": "2023-03-20 18:32:59",

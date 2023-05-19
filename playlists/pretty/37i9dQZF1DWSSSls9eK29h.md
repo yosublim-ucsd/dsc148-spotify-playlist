@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSSSls9eK29h.md) - [plain]
 
 > So smooth, so classic\. Cover: George Benson
 
-[Spotify](https://open.spotify.com/user/spotify) - 107,337 likes - 60 songs - 5 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 107,468 likes - 60 songs - 5 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,8 +52,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSSSls9eK29h.md) - [plain]
 | 42 | [The Way To You](https://open.spotify.com/track/71KSuKGd1R316tNUSp89eP) | [Nelson Rangell](https://open.spotify.com/artist/5lFAGKb5mvPQX9on6lKC88) | [Always](https://open.spotify.com/album/3qOAwlkElkDqpZQjkSsVov) | 4:51 |
 | 43 | [Charisma](https://open.spotify.com/track/3Yahrb4joLsIIdUSqyHJZ4) | [Tom Browne](https://open.spotify.com/artist/4Ytvi4r3WPIZmEw1Ndmkp9) | [Yours Truly](https://open.spotify.com/album/0Ru6eHAcH9inWvYlhr4c5w) | 3:41 |
 | 44 | [Glass Dolphins](https://open.spotify.com/track/3hRFAmAIu1dsNU0yJ5nBAe) | [John Klemmer](https://open.spotify.com/artist/6HkwRgGXuqTufwpEh2dwGK) | [Touch](https://open.spotify.com/album/67ax9aeNFfwZhHH4gKrnaJ) | 3:27 |
-| 45 | [West End](https://open.spotify.com/track/5KVlCe3igMGYLOY8PlIFCg) | [Steve Oliver](https://open.spotify.com/artist/0eorTItuLyKdhZmII8zREL) | [First View](https://open.spotify.com/album/3LoIE2A91sVmLYx5O2YSO8) | 5:26 |
-| 46 | [You've Changed](https://open.spotify.com/track/4w1HnS1633fhFKlTirinC1) | [Andy Snitzer](https://open.spotify.com/artist/6FaR0vA7ulJTJ1a4BRlJt7) | [Ties That Bind](https://open.spotify.com/album/0zdK7TXke1dN1lbfGFR0cW) | 5:02 |
+| 45 | [You've Changed](https://open.spotify.com/track/4w1HnS1633fhFKlTirinC1) | [Andy Snitzer](https://open.spotify.com/artist/6FaR0vA7ulJTJ1a4BRlJt7) | [Ties That Bind](https://open.spotify.com/album/0zdK7TXke1dN1lbfGFR0cW) | 5:02 |
+| 46 | [West End](https://open.spotify.com/track/5KVlCe3igMGYLOY8PlIFCg) | [Steve Oliver](https://open.spotify.com/artist/0eorTItuLyKdhZmII8zREL) | [First View](https://open.spotify.com/album/3LoIE2A91sVmLYx5O2YSO8) | 5:26 |
 | 47 | [Daydreamer](https://open.spotify.com/track/5JIxKHTZNGtlD809RTew19) | [Hiroshima](https://open.spotify.com/artist/5ZoVY6c0cokQrn448eRqSc) | [East](https://open.spotify.com/album/7Jaivw1fpoOhaCVQ9uHJKT) | 5:27 |
 | 48 | [Let's Wait Awhile](https://open.spotify.com/track/0CDdIP9vgk3iSDH0bPGww5) | [Paul Jackson, Jr.](https://open.spotify.com/artist/2OeN0JVfTWYog354hHhQ2S) | [I Came To Play](https://open.spotify.com/album/3281OsYyVze2o5TBGczWBO) | 5:17 |
 | 49 | [Fly Away \(Thinking Of You\)](https://open.spotify.com/track/2Cvg3IXEWWMTYTvd8HqpaG) | [Gregg Karukas](https://open.spotify.com/artist/5hmQC9wWiUuHCJNRZFBi2V) | [Blue Touch](https://open.spotify.com/album/6oRxJn0ULf3TFGfqiFargV) | 3:50 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSSSls9eK29h.md) - [plain]
 | 59 | [Castine](https://open.spotify.com/track/3fWldcBwLpvt3JSWU5EsAT) | [Pamela Williams](https://open.spotify.com/artist/5B6uaAUFgsawlZzzhsQxjM) | [Saxtress](https://open.spotify.com/album/2Zf6Lb0XbvnqBaXBTFHVBj) | 5:02 |
 | 60 | [For the Love of You](https://open.spotify.com/track/4Or4bwHCtVrBFH4eLLG66j) | [Candy Dulfer](https://open.spotify.com/artist/287jMoxHzjERgHI6ja8TKa) | [For the Love of You](https://open.spotify.com/album/0ZnVjuFuNGngUDzQrP2JH9) | 5:00 |
 
-Snapshot ID: `MCxkYmNkNzhhMmQ0ZjdjYmI3NjBmYTEzY2IwNWFmMDZkNjVlMjk3NjI3`
+Snapshot ID: `MCwxODQ5ZGRmZTNhNzk3ZTVmYWE3Nzc4YTJjZjQyOTFhMTA4MjRhMTdk`

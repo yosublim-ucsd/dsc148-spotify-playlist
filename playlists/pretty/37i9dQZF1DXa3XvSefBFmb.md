@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa3XvSefBFmb.md) - [plain]
 
 > Ouve estas extraordinárias artistas, como Yasmine, com o volume no máximo.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,478 likes - 50 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,482 likes - 50 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa3XvSefBFmb.md) - [plain]
 | 49 | [Oh Boy](https://open.spotify.com/track/4xi6hiEixwDRs9bAkIpDOP) | [Rita Laranjeira](https://open.spotify.com/artist/735I0mtgf6ECtaqLkSEX9b) | [Oh Boy](https://open.spotify.com/album/0u3BpX4yCbO1d91TYDxAoq) | 2:53 |
 | 50 | [há\-de sarar](https://open.spotify.com/track/7vcNCJjROeI30WgAKEvlP5) | [MARO](https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn) | [hortelã](https://open.spotify.com/album/3oMdmDwmhLfCrP2Tmvg6DU) | 3:48 |
 
-Snapshot ID: `MCxiNTYwZTViM2I2ZTAyY2YyNmFiMDRiOGJjN2ZlNDdlMGM3NzRhNTNj`
+Snapshot ID: `MCw4NGY1ZTY5NDU4Yjk3YTBlOTk4MjViMzRlNTE0NzhmZWNiNzYzODFm`

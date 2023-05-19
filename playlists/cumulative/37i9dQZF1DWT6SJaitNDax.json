@@ -1369,6 +1369,24 @@
     },
     {
       "album": {
+        "name": "Rave & Roses Ultra",
+        "url": "https://open.spotify.com/album/0nayxjaX54Frd7GsZq6Pbs"
+      },
+      "artists": [
+        {
+          "name": "Rema",
+          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204750,
+      "name": "Charm",
+      "url": "https://open.spotify.com/track/1iBWjQ9af9NnUd5xnQDB3k"
+    },
+    {
+      "album": {
         "name": "AFROSOUL (Deluxe)",
         "url": "https://open.spotify.com/album/69TI5V5QKajFC7ydxSbVgP"
       },
@@ -2698,7 +2716,7 @@
       ],
       "date_added": "2022-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 207473,
       "name": "FYN",
       "url": "https://open.spotify.com/track/0kmVNMFtYuiN3vjyxsyZZS"
@@ -3880,7 +3898,7 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 171730,
       "name": "Lo Lo",
       "url": "https://open.spotify.com/track/20hZEnFjyvUIk4YkONRGMZ"
@@ -4895,6 +4913,32 @@
     },
     {
       "album": {
+        "name": "Body & Soul",
+        "url": "https://open.spotify.com/album/1TGcgugu0CxUp5rhS7SyCW"
+      },
+      "artists": [
+        {
+          "name": "Joeboy",
+          "url": "https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF"
+        },
+        {
+          "name": "BNXN fka Buju",
+          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
+        },
+        {
+          "name": "ODUMODUBLVCK",
+          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204631,
+      "name": "Normally",
+      "url": "https://open.spotify.com/track/4cPKw3rzgmaU4zixJe6wge"
+    },
+    {
+      "album": {
         "name": "Nu Riddim",
         "url": "https://open.spotify.com/album/1gHcb0qG5DcwWIpPLUTl4u"
       },
@@ -5146,6 +5190,28 @@
       "duration_ms": 182639,
       "name": "Oreke",
       "url": "https://open.spotify.com/track/7EFnbc7UnvOyFcb6IhJq9v"
+    },
+    {
+      "album": {
+        "name": "OVAMI",
+        "url": "https://open.spotify.com/album/2HYi42ojRq0cI1qiTttMj3"
+      },
+      "artists": [
+        {
+          "name": "Oxlade",
+          "url": "https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT"
+        },
+        {
+          "name": "Flavour",
+          "url": "https://open.spotify.com/artist/0oKNR4ahj1CPnK2kQmbOfo"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204000,
+      "name": "OVAMI",
+      "url": "https://open.spotify.com/track/1QO7M1UGJsHno3cf5aHCri"
     },
     {
       "album": {
@@ -5958,7 +6024,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 233293,
       "name": "Roadblock",
       "url": "https://open.spotify.com/track/1TfpBtkEQiDISwBcW1BeCX"
@@ -6713,6 +6779,28 @@
     },
     {
       "album": {
+        "name": "soso",
+        "url": "https://open.spotify.com/album/7HdbhvT4lPpA6gkoqQGuzT"
+      },
+      "artists": [
+        {
+          "name": "Omah Lay",
+          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
+        },
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202012,
+      "name": "soso",
+      "url": "https://open.spotify.com/track/4GdvTdL7T1w1RoQlMBmC8k"
+    },
+    {
+      "album": {
         "name": "Soweto (with Don Toliver, Rema, and Tempoe)",
         "url": "https://open.spotify.com/album/6VZ6icUuxAtSKVxPWlQvug"
       },
@@ -7368,7 +7456,7 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 202012,
       "name": "The Recipe",
       "url": "https://open.spotify.com/track/2WyedZ7owuPdgT4tcHhdo5"

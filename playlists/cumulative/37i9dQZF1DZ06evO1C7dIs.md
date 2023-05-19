@@ -4,7 +4,7 @@
 
 > This is Nightwish\. The essential tracks, all in one playlist.
 
-72 songs - 6 hr 29 min
+75 songs - 6 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,7 +13,8 @@
 | [Alpenglow](https://open.spotify.com/track/5UlVP9eewIYpqewZv6kToz) | [Nightwish](https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1) | [Endless Forms Most Beautiful \(Deluxe Version\)](https://open.spotify.com/album/1tVEWlyn2nsAke3Lp7HoZ0) | 4:49 | 2022-09-08 |  |
 | [Amaranth](https://open.spotify.com/track/0RsOUnm1wNpbXxZ8a4abOP) | [Nightwish](https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1) | [Dark Passion Play](https://open.spotify.com/album/33knvUBRR5ekNBrtLqQVTD) | 3:51 | 2022-09-08 |  |
 | [Beauty Of The Beast](https://open.spotify.com/track/7hgrgE0wgunzOvbH7JLUqZ) | [Nightwish](https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1) | [Century Child](https://open.spotify.com/album/4FFDudC4xBVF6MYJUynRsN) | 10:20 | 2022-09-10 | 2022-10-06 |
-| [Bless The Child](https://open.spotify.com/track/5EGh7JiX79SeHn9J1yn2UX) | [Nightwish](https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1) | [Century Child](https://open.spotify.com/album/4FFDudC4xBVF6MYJUynRsN) | 6:12 | 2022-09-08 |  |
+| [Bless The Child](https://open.spotify.com/track/5EGh7JiX79SeHn9J1yn2UX) | [Nightwish](https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1) | [Century Child](https://open.spotify.com/album/4FFDudC4xBVF6MYJUynRsN) | 6:12 | 2022-09-08 | 2023-05-19 |
+| [Bless The Child](https://open.spotify.com/track/6Z2MwbeouGY1vsLiJfviti) | [Nightwish](https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1) | [Century Child](https://open.spotify.com/album/2fmfAN3tCHMIU8WZuG35ZK) | 6:12 | 2023-05-18 |  |
 | [Bye Bye Beautiful](https://open.spotify.com/track/6K03JHEberhdFjgZvFYcfs) | [Nightwish](https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1) | [Dark Passion Play](https://open.spotify.com/album/33knvUBRR5ekNBrtLqQVTD) | 4:14 | 2022-10-28 |  |
 | [Bye Bye Beautiful](https://open.spotify.com/track/6uwjUM0Y0NfPmLBKVAbUXW) | [Nightwish](https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1) | [Dark Passion Play](https://open.spotify.com/album/23DKEup8CZAYeGdjtwnpEE) | 4:14 | 2022-09-08 | 2022-10-29 |
 | [Come Cover Me](https://open.spotify.com/track/0OdY66m0hkI0P45EsDmW2C) | [Nightwish](https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1) | [Wishmaster](https://open.spotify.com/album/4u5Ik7NMYl3EITJngbMS4V) | 4:34 | 2022-09-21 |  |
@@ -30,7 +31,8 @@
 | [Eva](https://open.spotify.com/track/2HvpDl7hp6JLH4UtKp3fTp) | [Nightwish](https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1) | [Dark Passion Play](https://open.spotify.com/album/23DKEup8CZAYeGdjtwnpEE) | 4:25 | 2022-09-08 | 2022-10-13 |
 | [Ever Dream](https://open.spotify.com/track/5SNDGulFALe3DpSbuYarl7) | [Nightwish](https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1) | [Century Child](https://open.spotify.com/album/4FFDudC4xBVF6MYJUynRsN) | 4:42 | 2022-09-08 |  |
 | [Forever Yours](https://open.spotify.com/track/16pngF7qRDnAkXt2FMuUdl) | [Nightwish](https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1) | [Century Child](https://open.spotify.com/album/4FFDudC4xBVF6MYJUynRsN) | 3:50 | 2022-09-08 |  |
-| [Gethsemane](https://open.spotify.com/track/3rf2cBQqaPG87cbp18Z0g7) | [Nightwish](https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1) | [Oceanborn](https://open.spotify.com/album/37LveKPgKGwpuI0cEVbPj4) | 5:22 | 2022-09-08 |  |
+| [Gethsemane](https://open.spotify.com/track/2j2lmbnQgk2khkf4TDWdBp) | [Nightwish](https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1) | [Oceanborn](https://open.spotify.com/album/1lv3jeWOa1sKHdns4gAt3q) | 5:22 | 2023-05-18 |  |
+| [Gethsemane](https://open.spotify.com/track/3rf2cBQqaPG87cbp18Z0g7) | [Nightwish](https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1) | [Oceanborn](https://open.spotify.com/album/37LveKPgKGwpuI0cEVbPj4) | 5:22 | 2022-09-08 | 2023-05-19 |
 | [Ghost Love Score](https://open.spotify.com/track/5dyQ8spGuggi5RBqhkUToy) | [Nightwish](https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1) | [Once](https://open.spotify.com/album/2wM6svkNOCsYP8sr9gP2zc) | 10:02 | 2022-09-08 |  |
 | [Ghost River \- Live, at Wacken, 2013](https://open.spotify.com/track/3veJ8Oy7Z5iNaxZRgZRFOr) | [Nightwish](https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1) | [Showtime, Storytime \(Live, at Wacken, 2013\)](https://open.spotify.com/album/2EIvvMqgrCHORCpQBmJDjm) | 6:04 | 2022-09-08 | 2023-04-12 |
 | [Harvest](https://open.spotify.com/track/06h4HxzQkqx45lCRxDe4lA) | [Nightwish](https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1) | [HUMAN\. :II: NATURE.](https://open.spotify.com/album/1iSsdlURK7CGUVlcz4M5Li) | 5:13 | 2022-09-08 |  |
@@ -57,7 +59,8 @@
 | [Sleeping Sun](https://open.spotify.com/track/2VPK0BMgwyRtx9QlyBpdb0) | [Nightwish](https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1) | [Oceanborn](https://open.spotify.com/album/0hsS3rW3uPBer1pejhgAEv) | 4:05 | 2022-09-08 | 2023-05-16 |
 | [Sleeping Sun](https://open.spotify.com/track/64v7AaXu9qmbefvFwOtbvm) | [Nightwish](https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1) | [Oceanborn](https://open.spotify.com/album/1lv3jeWOa1sKHdns4gAt3q) | 4:05 | 2023-05-15 |  |
 | [Slow, Love, Slow](https://open.spotify.com/track/5CkTPzrJLbvuCRo8owNSx5) | [Nightwish](https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1) | [Imaginaerum](https://open.spotify.com/album/7lUxbRgHGomu4raRe59qTK) | 5:50 | 2022-09-08 | 2022-10-13 |
-| [Stargazers](https://open.spotify.com/track/2G3trbcEHjjrLVP5lzqdPy) | [Nightwish](https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1) | [Oceanborn](https://open.spotify.com/album/37LveKPgKGwpuI0cEVbPj4) | 4:28 | 2022-09-09 |  |
+| [Stargazers](https://open.spotify.com/track/2G3trbcEHjjrLVP5lzqdPy) | [Nightwish](https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1) | [Oceanborn](https://open.spotify.com/album/37LveKPgKGwpuI0cEVbPj4) | 4:28 | 2022-09-09 | 2023-05-19 |
+| [Stargazers](https://open.spotify.com/track/6iB8e72Dgdvrnn4AuvIgmP) | [Nightwish](https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1) | [Oceanborn](https://open.spotify.com/album/1lv3jeWOa1sKHdns4gAt3q) | 4:28 | 2023-05-18 |  |
 | [Storytime](https://open.spotify.com/track/5IhtaTempjlVlPmSgI0FQS) | [Nightwish](https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1) | [Imaginaerum](https://open.spotify.com/album/7lUxbRgHGomu4raRe59qTK) | 5:22 | 2022-09-08 |  |
 | [Swanheart](https://open.spotify.com/track/5NULYChw0sL9RUVAxKkTQP) | [Nightwish](https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1) | [Oceanborn](https://open.spotify.com/album/37LveKPgKGwpuI0cEVbPj4) | 4:44 | 2022-09-08 | 2022-11-06 |
 | [The Crow, the Owl and the Dove](https://open.spotify.com/track/6udzPCAaSWZ1dIE8VwX67z) | [Nightwish](https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1) | [Imaginaerum](https://open.spotify.com/album/7lUxbRgHGomu4raRe59qTK) | 4:10 | 2022-11-05 |  |

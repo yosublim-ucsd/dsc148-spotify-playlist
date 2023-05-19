@@ -4,7 +4,7 @@
 
 > Música brasileira para temperar as receitas do dia\-a\-dia.
 
-227 songs - 13 hr 54 min
+228 songs - 13 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,6 +50,7 @@
 | [Cafuné](https://open.spotify.com/track/2nWJnSQDPD3ZnzgZ7rdQM4) | [Igor Liberato](https://open.spotify.com/artist/55HEu5rWRxthkFWt05pi2d) | [Gato](https://open.spotify.com/album/6MPbNNSaRG040qbYEXxIGC) | 3:23 | 2022-02-04 | 2022-07-29 |
 | [Café Com Leite](https://open.spotify.com/track/0icCp5ScnBbKdyvLNLMx3N) | [Poirier](https://open.spotify.com/artist/5IpvS5ea4bymk3HpP1jVU4), [Flavia Coelho](https://open.spotify.com/artist/4Lu4jDj4ky1wxvRDgL90tc) | [Soft Power](https://open.spotify.com/album/787rB0eyQAaqCFn7LI0GVQ) | 4:22 | 2022-11-25 | 2023-04-30 |
 | [Café Com Leite](https://open.spotify.com/track/1OriutnwFLClBgWMYJIKEg) | [Poirier](https://open.spotify.com/artist/5IpvS5ea4bymk3HpP1jVU4), [Flavia Coelho](https://open.spotify.com/artist/4Lu4jDj4ky1wxvRDgL90tc) | [Café Com Leite](https://open.spotify.com/album/5EGAwvjPxPFutIi3R5c88v) | 4:22 | 2022-03-22 | 2022-04-15 |
+| [Café Com Leite](https://open.spotify.com/track/3zlC6H9LLQQhpJYOBofEZ0) | [Poirier](https://open.spotify.com/artist/5IpvS5ea4bymk3HpP1jVU4), [Flavia Coelho](https://open.spotify.com/artist/4Lu4jDj4ky1wxvRDgL90tc) | [Soft Power](https://open.spotify.com/album/1BTjS1GvXAOauIJeK2ppmW) | 4:22 | 2023-05-12 |  |
 | [Caju](https://open.spotify.com/track/1WOwgLCv4mCJPatwib6jLi) | [Silva](https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz) | [Brasileiro](https://open.spotify.com/album/6r0GYeEO1BddAuBD4eM4cq) | 4:02 | 2022-02-04 | 2022-09-13 |
 | [Calafrio](https://open.spotify.com/track/33sjMToZ0G476SJIixKWG5) | [Califrê](https://open.spotify.com/artist/515mPwX4bpcVcTEZYKGVkg) | [Calafrio](https://open.spotify.com/album/3XXSRPhUUZrzuMddjWVCYF) | 3:47 | 2022-04-01 | 2022-07-09 |
 | [Calma](https://open.spotify.com/track/1IcI7zO7RvGKGWx5jRNouz) | [Marisa Monte](https://open.spotify.com/artist/0rSTXALHu0EKAawPLBdODH) | [Calma](https://open.spotify.com/album/4NnapYcmIcnlJXB22BPve5) | 3:06 | 2022-02-04 |  |
@@ -76,7 +77,7 @@
 | [Deixa Acontecer](https://open.spotify.com/track/5YQO0NElgX0Tck0xg0dmaI) | [Laura Lavieri](https://open.spotify.com/artist/1TqENBMGiIRbO5A0Rhc0za) | [Desastre Solar](https://open.spotify.com/album/5syRznRAOGlHouvD2NXXWx) | 3:53 | 2022-02-04 |  |
 | [Delitos](https://open.spotify.com/track/4FP4YStyd83RQ8VDcKe5RC) | [Mel Duarte](https://open.spotify.com/artist/5wOU7lOA5Iyeamfae4bgSZ), [DIA](https://open.spotify.com/artist/5OjQ0K5UhpDQml39NqjPtJ) | [MORMAÇO \- Entre outras formas de calor](https://open.spotify.com/album/6BOWiETycgk2bxGzSMZJTf) | 4:13 | 2022-02-04 | 2022-04-24 |
 | [Dentro Ali \- Remix](https://open.spotify.com/track/3MrkTaAmIoSmdFN7OXGWY1) | [Luedji Luna](https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc), [Dj Nyack](https://open.spotify.com/artist/6qWqYtNvKPE8HwgmoPfkHx), [Rincon Sapiência](https://open.spotify.com/artist/6syQjkQSMIrzw5cFnNRheo), [Tassia Reis](https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl) | [Mundo \(Remix\)](https://open.spotify.com/album/2b01sgh392nbjoeQSgKydA) | 5:40 | 2022-02-04 | 2022-04-18 |
-| [DEPOIS DA TEMPESTADE}](https://open.spotify.com/track/6SD4P19dzQ0NyXWdCx8GAN) | [Marcelo D2](https://open.spotify.com/artist/1vEN3d3dJbmdHQpXD6AIkL), [Seu Jorge](https://open.spotify.com/artist/0i1s9WcIu0PrUvHzALgofo), [Anna Majidson](https://open.spotify.com/artist/7jfJJuEsycOiEc2n4fCM7z) | [AMAR é para os FORTES](https://open.spotify.com/album/1wNvClMbVbPmoUsoFaASCK) | 4:14 | 2022-03-22 |  |
+| [DEPOIS DA TEMPESTADE}](https://open.spotify.com/track/6SD4P19dzQ0NyXWdCx8GAN) | [Marcelo D2](https://open.spotify.com/artist/1vEN3d3dJbmdHQpXD6AIkL), [Seu Jorge](https://open.spotify.com/artist/0i1s9WcIu0PrUvHzALgofo), [Anna Majidson](https://open.spotify.com/artist/7jfJJuEsycOiEc2n4fCM7z) | [AMAR é para os FORTES](https://open.spotify.com/album/1wNvClMbVbPmoUsoFaASCK) | 4:14 | 2022-03-22 | 2023-05-19 |
 | [Desafio](https://open.spotify.com/track/3hft4CnJUz54rJcJY5mw22) | [Illy](https://open.spotify.com/artist/5gWFbdcQOMRYz1cdCuBxWO) | [Desafio](https://open.spotify.com/album/2gdQzcvu00rbuwtOFefWxc) | 3:46 | 2022-02-04 | 2022-07-29 |
 | [Deu Bossa](https://open.spotify.com/track/33hnkbQrn9OpSOLCHYrxnd) | [André Bellini](https://open.spotify.com/artist/389NRQvEXJKmucw2RIR2fC), [Bira Fernandez](https://open.spotify.com/artist/2DTGjI8UW3h8CK3g7H4avw) | [Deu Bossa](https://open.spotify.com/album/6JUbFtuF3sxxPKcFdCFujl) | 2:55 | 2022-02-04 | 2022-07-29 |
 | [Devagarinho 2.0 \(prod\. DKVPZ\)](https://open.spotify.com/track/0HYHMmuWQ1WWLiYXOhjt5I) | [Illy](https://open.spotify.com/artist/5gWFbdcQOMRYz1cdCuBxWO), [Baco Exu do Blues](https://open.spotify.com/artist/78nr1pVnDR7qZH6QbVMYZf), [Arnaldo Antunes](https://open.spotify.com/artist/7lOUbhzQ1F3xcCMEcTtbO5), [Deekapz](https://open.spotify.com/artist/7nsXkCzq2603Kc9SrJx1q0) | [Devagarinho 2.0 \(prod\. DKVPZ\)](https://open.spotify.com/album/7sjeAJANX5rlCazXEMkSLO) | 3:42 | 2022-03-22 |  |

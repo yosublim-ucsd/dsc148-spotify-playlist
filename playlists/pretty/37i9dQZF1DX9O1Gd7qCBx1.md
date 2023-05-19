@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9O1Gd7qCBx1.md) - [plain]
 
 > Para honrar a los muertos con el más sublime placer terrenal.
 
-[Spotify](https://open.spotify.com/user/spotify) - 186,555 likes - 100 songs - 6 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 186,562 likes - 100 songs - 6 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,9 +59,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9O1Gd7qCBx1.md) - [plain]
 | 49 | [Recuérdame](https://open.spotify.com/track/4zw8KSRiHzzaF9QHwzpXqo) | [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp), [Carlos Rivera](https://open.spotify.com/artist/39yVoqm6sYFvvqF1RciUVf) | [Un Canto por México, Vol\. II](https://open.spotify.com/album/0Ece1my4kjbR0frvMUzRT0) | 4:24 |
 | 50 | [Colores](https://open.spotify.com/track/5dLoAn6kUOAlO6Aolf9rey) | [Ampersan](https://open.spotify.com/artist/5A7ayYKcSsydP31DqS4vQW) | [Flor de Biznaga](https://open.spotify.com/album/4LWaaqC9aAr5OhNsWqOZ3J) | 6:10 |
 | 51 | [Los Versos de la Catrina](https://open.spotify.com/track/2vrAYVaAM7VuEyhA0xgmT7) | [Armando Palomas](https://open.spotify.com/artist/1kv4ncfnnPUUXAlEOS55B4) | [Los Versos de la Catrina](https://open.spotify.com/album/6OZIPpGkC15B2VSaQ8iqJ7) | 4:07 |
-| 52 | [Canción de las Brujas \- Remasterizado](https://open.spotify.com/track/6ybGIJN1T8O7XtUMhG5r83) | [Cri\-Cri](https://open.spotify.com/artist/4vM6clYXqkZbQv4O2OT5P4) | [Las 100 Clásicas de Cri Cri Vol\. 1](https://open.spotify.com/album/4fY0mv7l1rEmuBHOeLGq13) | 3:16 |
+| 52 | [La Llorona](https://open.spotify.com/track/4c9VVKlTrfrIzNbEyDWYzO) | [Dueto Dos Rosas](https://open.spotify.com/artist/1zVb5eLiSqjctRTX4dfrer) | [La Llorona](https://open.spotify.com/album/3sV4fTa3XvPRJEF1MSWpks) | 5:48 |
 | 53 | [Boda Negra \(El Enterrador\)](https://open.spotify.com/track/5hUYlquq3LbUg9YsxvsxyQ) | [Ana Gabriel](https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe) | [Joyas De Dos Siglos](https://open.spotify.com/album/61OaHiemzBG4mL8F2tV05e) | 3:46 |
-| 54 | [La Llorona](https://open.spotify.com/track/4c9VVKlTrfrIzNbEyDWYzO) | [Dueto Dos Rosas](https://open.spotify.com/artist/1zVb5eLiSqjctRTX4dfrer) | [La Llorona](https://open.spotify.com/album/3sV4fTa3XvPRJEF1MSWpks) | 5:48 |
+| 54 | [Canción de las Brujas \- Remasterizado](https://open.spotify.com/track/6ybGIJN1T8O7XtUMhG5r83) | [Cri\-Cri](https://open.spotify.com/artist/4vM6clYXqkZbQv4O2OT5P4) | [Las 100 Clásicas de Cri Cri Vol\. 1](https://open.spotify.com/album/4fY0mv7l1rEmuBHOeLGq13) | 3:16 |
 | 55 | [Janitzio](https://open.spotify.com/track/2ViwuwrjUKpop2PxROUJP5) | [Aida Cuevas](https://open.spotify.com/artist/5BOm3jiZCxwCXXJ0Hstubr) | [Suite Mexicana de Agustín Lara](https://open.spotify.com/album/7yVxgddVdrQVgXS3OCgPon) | 3:56 |
 | 56 | [Vamos a Morir](https://open.spotify.com/track/0BA4HUmlKMHeG0k2kK2fRB) | [Paté de Fuá](https://open.spotify.com/artist/188pkeHUWXnROe7lFVYRRa), [Catalina García](https://open.spotify.com/artist/2eWiATMtcOCS8vAjRJp9iY) | [Película Muda \(Primera Parte\)](https://open.spotify.com/album/5I9EFpVPS5zmlzzqvWcCaC) | 3:55 |
 | 57 | [El Día de Tu Muerte](https://open.spotify.com/track/5SzKwKMc5CzPNE8FMCrhrP) | [Sabino](https://open.spotify.com/artist/0zgFL90nGTrH2iOMD8Vysy) | [Ajenos / El Día de tu Muerte](https://open.spotify.com/album/7k2cOeyxBoImq2kEmwRYxR) | 2:43 |
@@ -74,8 +74,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9O1Gd7qCBx1.md) - [plain]
 | 64 | [Se le apagó la luz \- Versión Básico](https://open.spotify.com/track/5SuMtg9alskh2TE554OMBO) | [Alejandro Sanz](https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF) | [Basico](https://open.spotify.com/album/33SeVIcoXAiWcqGhQaEZFF) | 4:36 |
 | 65 | [Pasajeros](https://open.spotify.com/track/3GaV4GsB2UwrC7jDLWYO3e) | [Espumas y Terciopelo](https://open.spotify.com/artist/7cKg7NNt62h4Dq9twH3JOd) | [Pasajeros](https://open.spotify.com/album/65SoK883st0WxA0XbzCx9D) | 3:30 |
 | 66 | [Piensa en Mí](https://open.spotify.com/track/7MVtPthvWIoBGF8a7o0wT4) | [Flora Martínez](https://open.spotify.com/artist/7gjr06Lie1BDJuefW3v9YQ) | [Día de Muertos](https://open.spotify.com/album/1C2o4vm5RIybZbstafidKh) | 3:12 |
-| 67 | [Viene la Muerte Echando Rasero](https://open.spotify.com/track/2hZCHreC8l4yWdL9cTvACY) | [Lila Downs](https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP) | [Balas y Chocolate](https://open.spotify.com/album/0o0Z1UdNywJkrcEKpqgcNq) | 4:00 |
-| 68 | [Silencio \- Spotify Session](https://open.spotify.com/track/2LtKvokRMG1bayE9PcVGwu) | [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [Natalia Lafourcade \(Spotify Session\)](https://open.spotify.com/album/0s9tY7YgGKtTxBuWPiJFFj) | 4:32 |
+| 67 | [Silencio \- Spotify Session](https://open.spotify.com/track/2LtKvokRMG1bayE9PcVGwu) | [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [Natalia Lafourcade \(Spotify Session\)](https://open.spotify.com/album/0s9tY7YgGKtTxBuWPiJFFj) | 4:32 |
+| 68 | [Viene la Muerte Echando Rasero](https://open.spotify.com/track/2hZCHreC8l4yWdL9cTvACY) | [Lila Downs](https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP) | [Balas y Chocolate](https://open.spotify.com/album/0o0Z1UdNywJkrcEKpqgcNq) | 4:00 |
 | 69 | [Si Te Mueres Mañana](https://open.spotify.com/track/46zIvpt8U9JcwsDmfcXn5y) | [Kanaku y El Tigre](https://open.spotify.com/artist/27GzlZraldlAG0k7oBqmUS) | [Quema Quema Quema](https://open.spotify.com/album/6jegEIB9gDoeF6BaAqrZfw) | 3:52 |
 | 70 | [Barragán](https://open.spotify.com/track/3emS4pu5weH07M5GlQ6nJt) | [Mercedes Nasta](https://open.spotify.com/artist/0eHEhyv8iCI5pLiD5Eh3vH) | [Basalto](https://open.spotify.com/album/6fz2cMoIVavyBSaREORH27) | 5:29 |
 | 71 | [Y Tu Sombra](https://open.spotify.com/track/6p7wL9H4f4eKkdma5oZcej) | [Gaby Moreno](https://open.spotify.com/artist/0K9pSmFx0kWESA9jqx8aCW) | [Illustrated Songs](https://open.spotify.com/album/3znNEiVi6CdKznkpnVpz0s) | 2:50 |
@@ -96,17 +96,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9O1Gd7qCBx1.md) - [plain]
 | 86 | [El Funeral](https://open.spotify.com/track/61IjyAktalOHr6HpPkutRI) | [Kanaku y El Tigre](https://open.spotify.com/artist/27GzlZraldlAG0k7oBqmUS) | [Caracoles](https://open.spotify.com/album/4Q9zv0BFqFTDb3KF3ZrwJv) | 2:25 |
 | 87 | [Gracias a la Vida](https://open.spotify.com/track/1fi85DWMkQEmQfR5odB40c) | [Tania Libertad](https://open.spotify.com/artist/2nvZRZAeuKXzsntCKFHTKh) | [Alfonsina y el Mar \(Remasterizado\)](https://open.spotify.com/album/0eJA4NkiiRl68lTXSYaPAr) | 4:05 |
 | 88 | [Era Mi Abuelo](https://open.spotify.com/track/6fCvxTPA1u5ov55svizA97) | [El David Aguilar](https://open.spotify.com/artist/4exC9EVGcJb6F33htBWbkk) | [Siguiente](https://open.spotify.com/album/1Px6ATcmtKsrP7WAKmbch3) | 3:24 |
-| 89 | [El Jinete](https://open.spotify.com/track/3SV4KyLigqwMsbuEUDRvF3) | [José Alfredo Jimenez](https://open.spotify.com/artist/2T06whb4s6UiufL1j5Qtz9) | [Sus Grandes Corridos y Rancheras](https://open.spotify.com/album/3smCO3bWe2bjBkMNt3UL1V) | 2:52 |
-| 90 | [La Danza de la Muerte \- Día de Muertos](https://open.spotify.com/track/45vSa9GcUjSdLNtf7bk05I) | [Fanko](https://open.spotify.com/artist/7FTVF3GI4iIuxErFlgYS2n) | [La Danza de la Muerte \(Día de Muertos\)](https://open.spotify.com/album/2ZPACZToEtrhz8rXxw6DjZ) | 3:14 |
+| 89 | [La Danza de la Muerte \- Día de Muertos](https://open.spotify.com/track/45vSa9GcUjSdLNtf7bk05I) | [Fanko](https://open.spotify.com/artist/7FTVF3GI4iIuxErFlgYS2n) | [La Danza de la Muerte \(Día de Muertos\)](https://open.spotify.com/album/2ZPACZToEtrhz8rXxw6DjZ) | 3:14 |
+| 90 | [El Jinete](https://open.spotify.com/track/3SV4KyLigqwMsbuEUDRvF3) | [José Alfredo Jimenez](https://open.spotify.com/artist/2T06whb4s6UiufL1j5Qtz9) | [Sus Grandes Corridos y Rancheras](https://open.spotify.com/album/3smCO3bWe2bjBkMNt3UL1V) | 2:52 |
 | 91 | [Décimas a La Muerte](https://open.spotify.com/track/3Qg17l5FX1OxStkPDLp2i5) | [Astrid Hadad](https://open.spotify.com/artist/5UwFR1nHrA40JVhsZsI0i3) | [Vivir Muriendo](https://open.spotify.com/album/19X1XEM2hrbn7FNX3cyfP1) | 3:58 |
 | 92 | [Mictlán](https://open.spotify.com/track/0mv4wsluGcvNmoB0UonpX9) | [Timoneki](https://open.spotify.com/artist/1dcxpEMRhnUon25kF78fQW) | [Timoneki](https://open.spotify.com/album/6ALKR76vFWvN7zZwD3cKYO) | 4:36 |
 | 93 | [Dulce Muerte](https://open.spotify.com/track/2n2C5wLSiSERYrGURZLMNl) | [BuenRostro](https://open.spotify.com/artist/2aFFKR6cGWux6f8G5RafHm) | [Dulce Muerte](https://open.spotify.com/album/0SDZNmyBP3pmrwtppzm9uA) | 3:32 |
 | 94 | [La Llorona](https://open.spotify.com/track/4jk5x2HEwHyB7c03N3v4fo) | [Los Macorinos](https://open.spotify.com/artist/1ldFRYgmjxDrX27bIe3dWx) | [La Llorona](https://open.spotify.com/album/6z318RVGyQyRloFxI7o2nS) | 3:33 |
 | 95 | [Angelitos negros](https://open.spotify.com/track/5hvKLjOgEc8SPTssFy45GJ) | [Pedro Infante](https://open.spotify.com/artist/7y33enVLfDvft6HGNmcxdV) | [Las Canciones Inolvidables de Pedro Infante](https://open.spotify.com/album/3IpDxK3aXi9c1t0B37Jti6) | 2:11 |
 | 96 | [Dia De Los Muertos](https://open.spotify.com/track/3UTwxVRAc1mUOAbqxWqbl1) | [El Haru Kuroi](https://open.spotify.com/artist/683Jz9L8U9Ba2lGOBuRgj8) | [Sabung](https://open.spotify.com/album/2qOJpwhMowXGwlNVoBKVfA) | 3:10 |
-| 97 | [Refalosa del Adiós \(Refalosa\) \[Chile\]](https://open.spotify.com/track/4vmhFQ2XbD5sOcVnxE3Aew) | [Los Folkloristas](https://open.spotify.com/artist/2iALv7pTGUwcobl2VPoJPU) | [Cantando Con la Muerte](https://open.spotify.com/album/1N47s2RcEQ0P2vZkNeyt06) | 2:36 |
-| 98 | [El Funeral De Tacho](https://open.spotify.com/track/0xruZEA0OwFm8B6J1LnABD) | [Rana Santacruz](https://open.spotify.com/artist/7gZ8QMSrZHEepUJBqdg1Y1) | [Chicavasco](https://open.spotify.com/album/4xBpsjQYsGbGbN2cX3DilI) | 4:14 |
+| 97 | [El Funeral De Tacho](https://open.spotify.com/track/0xruZEA0OwFm8B6J1LnABD) | [Rana Santacruz](https://open.spotify.com/artist/7gZ8QMSrZHEepUJBqdg1Y1) | [Chicavasco](https://open.spotify.com/album/4xBpsjQYsGbGbN2cX3DilI) | 4:14 |
+| 98 | [Refalosa del Adiós \(Refalosa\) \[Chile\]](https://open.spotify.com/track/4vmhFQ2XbD5sOcVnxE3Aew) | [Los Folkloristas](https://open.spotify.com/artist/2iALv7pTGUwcobl2VPoJPU) | [Cantando Con la Muerte](https://open.spotify.com/album/1N47s2RcEQ0P2vZkNeyt06) | 2:36 |
 | 99 | [La Catrina](https://open.spotify.com/track/3UPnYhcztFLQ1snJlB0CYt) | [Susana Harp](https://open.spotify.com/artist/6w8n4eJyKefJUTK66Miloo) | [Ahora](https://open.spotify.com/album/02QQSaeRpqQrmNkJS6V4Xs) | 3:27 |
 | 100 | [El Enterrador](https://open.spotify.com/track/2EI7eVHpzpB4GctbEH29WI) | [Astrid Hadad](https://open.spotify.com/artist/5UwFR1nHrA40JVhsZsI0i3) | [Vivir Muriendo](https://open.spotify.com/album/19X1XEM2hrbn7FNX3cyfP1) | 3:55 |
 
-Snapshot ID: `MCw2NGY3YTQ3ODEzMmYwMWNjNDg4NmIyODI0MjMyM2FlYzcwYTg0YWJl`
+Snapshot ID: `MCxmNmYxN2Y5YjA1ODUxZjMwYTMzMmE3N2Q1YmJlZGE0OGFmZGVkOWFh`

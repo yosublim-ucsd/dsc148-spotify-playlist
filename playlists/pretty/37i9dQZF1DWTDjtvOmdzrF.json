@@ -1,12 +1,12 @@
 {
   "description": "Racikan akustik dalam secangkir kopi. ",
-  "num_followers": 552364,
+  "num_followers": 552519,
   "original_name": "Kopikustik",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5ZDU2OWZjMmEyZTNjYTQwNzQxY2MzYTg1MzgyNTFmZDBkMGIxYTAx",
+  "snapshot_id": "MCxjNDBjZTI1OGZmYmQwNjg0OTE5YzhmODE0ODM1ODQyY2E3NGQzNTM1",
   "tracks": [
     {
       "added_at": "2023-05-03 07:39:11",
@@ -915,8 +915,8 @@
     {
       "added_at": "2023-05-03 07:39:11",
       "album": {
-        "name": "Ego & Fungsi Otak",
-        "url": "https://open.spotify.com/album/01PCAiyhBHXTj9KfSigcQz"
+        "name": "Lelaku",
+        "url": "https://open.spotify.com/album/7L7LNEoL5tgH6CvWEnNDt1"
       },
       "artists": [
         {
@@ -924,9 +924,9 @@
           "url": "https://open.spotify.com/artist/46cVq2dwPgzPE3X1VR9TMj"
         }
       ],
-      "duration_ms": 243413,
-      "name": "Zona Nyaman (From \"Filosofi Kopi 2: Ben & Jody\")",
-      "url": "https://open.spotify.com/track/4lfAvFv8roumWVKXhHF8uN"
+      "duration_ms": 229986,
+      "name": "Aku Tenang",
+      "url": "https://open.spotify.com/track/2tO8xKwSF82hUZp0sOMLM6"
     },
     {
       "added_at": "2023-05-03 07:39:11",
@@ -983,24 +983,24 @@
     {
       "added_at": "2023-05-03 07:39:11",
       "album": {
-        "name": "Perspektif Bodoh, Vol. 2",
-        "url": "https://open.spotify.com/album/3HsbseyB7O4YOrvsSnryS1"
+        "name": "The 2000's Greatest",
+        "url": "https://open.spotify.com/album/2hwNRtZyqmEcCzV47OUAlN"
       },
       "artists": [
         {
-          "name": "Nosstress",
-          "url": "https://open.spotify.com/artist/4XnnBdCt9Cg5W2wBgtD7co"
+          "name": "Dewa 19",
+          "url": "https://open.spotify.com/artist/48bKH1ugFBhERC1rdojP9d"
         }
       ],
-      "duration_ms": 308349,
-      "name": "Pegang Tanganku",
-      "url": "https://open.spotify.com/track/6xHRfpo0kMRNuZ3v1e3xYF"
+      "duration_ms": 279289,
+      "name": "Selimut Hati",
+      "url": "https://open.spotify.com/track/112PgZaSiXk8Mqem2Krgtq"
     },
     {
       "added_at": "2023-05-03 07:39:11",
       "album": {
-        "name": "Lelaku",
-        "url": "https://open.spotify.com/album/7L7LNEoL5tgH6CvWEnNDt1"
+        "name": "Ego & Fungsi Otak",
+        "url": "https://open.spotify.com/album/01PCAiyhBHXTj9KfSigcQz"
       },
       "artists": [
         {
@@ -1008,9 +1008,9 @@
           "url": "https://open.spotify.com/artist/46cVq2dwPgzPE3X1VR9TMj"
         }
       ],
-      "duration_ms": 229986,
-      "name": "Aku Tenang",
-      "url": "https://open.spotify.com/track/2tO8xKwSF82hUZp0sOMLM6"
+      "duration_ms": 243413,
+      "name": "Zona Nyaman (From \"Filosofi Kopi 2: Ben & Jody\")",
+      "url": "https://open.spotify.com/track/4lfAvFv8roumWVKXhHF8uN"
     },
     {
       "added_at": "2023-05-03 07:39:11",
@@ -1031,18 +1031,18 @@
     {
       "added_at": "2023-05-03 07:39:11",
       "album": {
-        "name": "The 2000's Greatest",
-        "url": "https://open.spotify.com/album/2hwNRtZyqmEcCzV47OUAlN"
+        "name": "Perspektif Bodoh, Vol. 2",
+        "url": "https://open.spotify.com/album/3HsbseyB7O4YOrvsSnryS1"
       },
       "artists": [
         {
-          "name": "Dewa 19",
-          "url": "https://open.spotify.com/artist/48bKH1ugFBhERC1rdojP9d"
+          "name": "Nosstress",
+          "url": "https://open.spotify.com/artist/4XnnBdCt9Cg5W2wBgtD7co"
         }
       ],
-      "duration_ms": 279289,
-      "name": "Selimut Hati",
-      "url": "https://open.spotify.com/track/112PgZaSiXk8Mqem2Krgtq"
+      "duration_ms": 308349,
+      "name": "Pegang Tanganku",
+      "url": "https://open.spotify.com/track/6xHRfpo0kMRNuZ3v1e3xYF"
     },
     {
       "added_at": "2023-05-03 07:39:11",
@@ -1143,6 +1143,22 @@
     {
       "added_at": "2023-05-03 07:39:11",
       "album": {
+        "name": "Lelaku",
+        "url": "https://open.spotify.com/album/7L7LNEoL5tgH6CvWEnNDt1"
+      },
+      "artists": [
+        {
+          "name": "Fourtwnty",
+          "url": "https://open.spotify.com/artist/46cVq2dwPgzPE3X1VR9TMj"
+        }
+      ],
+      "duration_ms": 358626,
+      "name": "Fana Merah Jambu",
+      "url": "https://open.spotify.com/track/463XKKFCPlcrhtlwGbEovu"
+    },
+    {
+      "added_at": "2023-05-03 07:39:11",
+      "album": {
         "name": "Ini Bukan Nosstress",
         "url": "https://open.spotify.com/album/5VDBGrroiUxwcjyd8fqKvy"
       },
@@ -1163,22 +1179,6 @@
       "duration_ms": 213240,
       "name": "Semoga, Ya",
       "url": "https://open.spotify.com/track/6wHnwqvtNdQicSPTTkYRQN"
-    },
-    {
-      "added_at": "2023-05-03 07:39:11",
-      "album": {
-        "name": "Lelaku",
-        "url": "https://open.spotify.com/album/7L7LNEoL5tgH6CvWEnNDt1"
-      },
-      "artists": [
-        {
-          "name": "Fourtwnty",
-          "url": "https://open.spotify.com/artist/46cVq2dwPgzPE3X1VR9TMj"
-        }
-      ],
-      "duration_ms": 358626,
-      "name": "Fana Merah Jambu",
-      "url": "https://open.spotify.com/track/463XKKFCPlcrhtlwGbEovu"
     },
     {
       "added_at": "2023-05-03 07:39:11",

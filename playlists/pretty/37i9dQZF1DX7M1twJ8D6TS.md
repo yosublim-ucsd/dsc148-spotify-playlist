@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7M1twJ8D6TS.md) - [plain]
 
 > The biggest Texas Country Hits over the last couple of years\. Formerly Texas Music Rewind.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,095 likes - 100 songs - 6 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,214 likes - 100 songs - 6 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,16 +89,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7M1twJ8D6TS.md) - [plain]
 | 79 | [You Look Good in Neon](https://open.spotify.com/track/2pMA8br4faGr6rQKOZkhgU) | [Mike and the Moonpies](https://open.spotify.com/artist/0t1sRNhzk7wIfWSvjD87vi) | [You Look Good in Neon](https://open.spotify.com/album/5ItpHOg0EK9Yw2DVvfp5mg) | 4:00 |
 | 80 | [A Cowgirl Like You](https://open.spotify.com/track/0hqMV9QFpmF5u7kjKRj41d) | [Jon Wolfe](https://open.spotify.com/artist/7fmSLVnnxwwMYj8Wc0rKyp) | [Dos Corazones](https://open.spotify.com/album/5kHo4RAMzYArFTulnKOEWr) | 4:09 |
 | 81 | [Sunlight](https://open.spotify.com/track/6o0ckL7uYKb5Lfw6oaWqUG) | [Shotgun Rider](https://open.spotify.com/artist/1gmKCymY1bESfw6oF1V6gk) | [Sunlight](https://open.spotify.com/album/5zuGfIFJiNPVuEs1d0ifp7) | 3:55 |
-| 82 | [I Will](https://open.spotify.com/track/5II7pbhLOBm44R8BaU23EC) | [Darrin Morris Band](https://open.spotify.com/artist/2qvUuw0HXxaz5yzKsRxlXf) | [I Will](https://open.spotify.com/album/0f0vssPnIT4HqVxnYDfusn) | 3:28 |
-| 83 | [Jacket On](https://open.spotify.com/track/6hiVYUsXeDk9i6icgbEHzm) | [Mike Ryan](https://open.spotify.com/artist/026v3mvWdRvVdjL67VBySh) | [Jacket On](https://open.spotify.com/album/3BhLbN0ui08445wGLHG7mt) | 2:36 |
+| 82 | [Jacket On](https://open.spotify.com/track/6hiVYUsXeDk9i6icgbEHzm) | [Mike Ryan](https://open.spotify.com/artist/026v3mvWdRvVdjL67VBySh) | [Jacket On](https://open.spotify.com/album/3BhLbN0ui08445wGLHG7mt) | 2:36 |
+| 83 | [I Will](https://open.spotify.com/track/5II7pbhLOBm44R8BaU23EC) | [Darrin Morris Band](https://open.spotify.com/artist/2qvUuw0HXxaz5yzKsRxlXf) | [I Will](https://open.spotify.com/album/0f0vssPnIT4HqVxnYDfusn) | 3:28 |
 | 84 | [Don't Want to Go Home](https://open.spotify.com/track/45Dtd0wcVVrX8aDkZA8bGM) | [Teague Brothers Band](https://open.spotify.com/artist/79kA7zyNoaWwAmpf21p7vH) | [Don't Want To Go Home](https://open.spotify.com/album/41qtxucilAy9wF8Ggw2Aks) | 3:03 |
 | 85 | [Crash Landing](https://open.spotify.com/track/4gvIiHEnw4a9kBFefzVYfC) | [Aaron Watson](https://open.spotify.com/artist/5BKzvAPtNXnt0LwzGvKOH3) | [Crash Landing](https://open.spotify.com/album/1uP0ZFi3vsQwBnhPxJaIwG) | 3:24 |
 | 86 | [Loser Mentality](https://open.spotify.com/track/0kh5IPMmmY2LUPDij2H3T6) | [Austin Meade](https://open.spotify.com/artist/7Jd98Mm2x1fQBzQmQOeX79) | [Abstract Art of an Unstable Mind](https://open.spotify.com/album/6O5EG4fe0vKeINvGk0z2qW) | 3:12 |
-| 87 | [Picture](https://open.spotify.com/track/7HiD3Ladm1RrQuGgkDPPyl) | [Cade Holliday](https://open.spotify.com/artist/0QNq5Ld1iY0TrzmnABZg61) | [Burn Down EP](https://open.spotify.com/album/5h68tKi4xydtyM7NJiAEGG) | 3:24 |
+| 87 | [The Truth](https://open.spotify.com/track/3cvaQWdVaipVYqat8mF6GB) | [Cody Hibbard](https://open.spotify.com/artist/71DKcYMBfZtxrOB7w6pKq5) | [The Truth](https://open.spotify.com/album/4IsdUibNLOGR1LymaBwf2I) | 3:32 |
 | 88 | [Boomtown to Bust](https://open.spotify.com/track/0lApKrmYRXa5RhfhS68vlY) | [Kelley Mickwee](https://open.spotify.com/artist/1mL6Bc23N2p1OTNnlrgy3K) | [Boomtown to Bust](https://open.spotify.com/album/2CSLSJ2C3mLZWOOxJL4RfS) | 3:32 |
-| 89 | [Hundred Dollar Bill](https://open.spotify.com/track/6Vp4D3Sol9en197r99a78C) | [Hill Country Revival](https://open.spotify.com/artist/46xdywMCy9lk3K4wN9SkvE) | [Hundred Dollar Bill](https://open.spotify.com/album/22dnWcCtX2Jmjgw3FF2aAn) | 3:43 |
+| 89 | [Picture](https://open.spotify.com/track/7HiD3Ladm1RrQuGgkDPPyl) | [Cade Holliday](https://open.spotify.com/artist/0QNq5Ld1iY0TrzmnABZg61) | [Burn Down EP](https://open.spotify.com/album/5h68tKi4xydtyM7NJiAEGG) | 3:24 |
 | 90 | [blood](https://open.spotify.com/track/2YqZCQhkuQpPUb5M9wptBq) | [Kaitlin Butts](https://open.spotify.com/artist/6QmSTo72BYMATkQVOV1axD) | [blood](https://open.spotify.com/album/4ttXGpNxsIaxGtsV2M3unU) | 4:58 |
-| 91 | [The Truth](https://open.spotify.com/track/3cvaQWdVaipVYqat8mF6GB) | [Cody Hibbard](https://open.spotify.com/artist/71DKcYMBfZtxrOB7w6pKq5) | [The Truth](https://open.spotify.com/album/4IsdUibNLOGR1LymaBwf2I) | 3:32 |
+| 91 | [Hundred Dollar Bill](https://open.spotify.com/track/6Vp4D3Sol9en197r99a78C) | [Hill Country Revival](https://open.spotify.com/artist/46xdywMCy9lk3K4wN9SkvE) | [Hundred Dollar Bill](https://open.spotify.com/album/22dnWcCtX2Jmjgw3FF2aAn) | 3:43 |
 | 92 | [Slow](https://open.spotify.com/track/3mhov9HlVm2AL48B8XJskv) | [Chris Colston](https://open.spotify.com/artist/1drW8ii2leKur6GbJtibRz) | [Slow](https://open.spotify.com/album/6wnnZ1CsXM8VjVFjuu1lSh) | 3:04 |
 | 93 | [Something 'Bout a Southern Girl](https://open.spotify.com/track/2TfC1woNLlRmCqn6IWrET6) | [Mason Lively](https://open.spotify.com/artist/2X5y89rFBfI4uWeEm0XMAs) | [Something 'Bout a Southern Girl](https://open.spotify.com/album/4QZxScKbnzOx4eVPQmEgp5) | 4:22 |
 | 94 | [What It Doesn’t Do](https://open.spotify.com/track/0EhzRx6ybqpSac2DW5lx7E) | [Corey Kent](https://open.spotify.com/artist/3sUpZrkehiGBaMzs2h9Mmc) | [What It Doesn’t Do](https://open.spotify.com/album/1MHxVPMWkJwBYn7FNHncra) | 3:36 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7M1twJ8D6TS.md) - [plain]
 | 99 | [First Dirt Road](https://open.spotify.com/track/6VIMJ4ixnzZO6jgrhQRhC1) | [Chris Colston](https://open.spotify.com/artist/1drW8ii2leKur6GbJtibRz) | [First Dirt Road](https://open.spotify.com/album/2M5ulwziM5CwKd4zGSdUc3) | 3:23 |
 | 100 | [When You're Coming Down](https://open.spotify.com/track/3tzy19v6fti9MZI38jmUzt) | [Jarrod Morris](https://open.spotify.com/artist/2Y08Tu239xOkg25bPkth9R) | [When You're Coming Down](https://open.spotify.com/album/0ME2uFunWrzFObtOtAKn5z) | 4:20 |
 
-Snapshot ID: `MCxlOWFlZTNiY2JjMDc1ZjU0YjM5MDk1NjJhZGIzNDlmNTlkZGIxOTI4`
+Snapshot ID: `MCw2YzM4OTk5OGM0NzNlYWM4YzM5OTkwYjg1YTU0NTNhZTdlMWRjOTBl`

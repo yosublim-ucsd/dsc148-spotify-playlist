@@ -41,24 +41,6 @@
     },
     {
       "album": {
-        "name": "My Favorite Playlist \"Banda\"",
-        "url": "https://open.spotify.com/album/77PWuEssu12c1h5Ts64VE9"
-      },
-      "artists": [
-        {
-          "name": "Banda Los Sebastianes",
-          "url": "https://open.spotify.com/artist/0HgICyWHmS6rnl8xWEd0x6"
-        }
-      ],
-      "date_added": "2023-04-15",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 182813,
-      "name": "A Trav\u00e9s Del Vaso",
-      "url": "https://open.spotify.com/track/5OQvLiHBVzGVbFpJmv64U0"
-    },
-    {
-      "album": {
         "name": "A Trav\u00e9s Del Vaso",
         "url": "https://open.spotify.com/album/5fb92VTFSonh6s4IDFqILN"
       },
@@ -74,6 +56,24 @@
       "duration_ms": 182106,
       "name": "A Trav\u00e9s Del Vaso",
       "url": "https://open.spotify.com/track/5eY547Fxr6QKiqBkUrx0sC"
+    },
+    {
+      "album": {
+        "name": "My Favorite Playlist \"Banda\"",
+        "url": "https://open.spotify.com/album/77PWuEssu12c1h5Ts64VE9"
+      },
+      "artists": [
+        {
+          "name": "Banda Los Sebastianes De Sa\u00fal Plata",
+          "url": "https://open.spotify.com/artist/2XTrqe2RU5niqO0RNA6Zct"
+        }
+      ],
+      "date_added": "2023-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182813,
+      "name": "A Trav\u00e9s Del Vaso",
+      "url": "https://open.spotify.com/track/5OQvLiHBVzGVbFpJmv64U0"
     },
     {
       "album": {
@@ -179,24 +179,6 @@
     },
     {
       "album": {
-        "name": "Banda Romantica",
-        "url": "https://open.spotify.com/album/7qR4ZViSG93q4HkUSMHBAI"
-      },
-      "artists": [
-        {
-          "name": "Banda Los Sebastianes",
-          "url": "https://open.spotify.com/artist/0HgICyWHmS6rnl8xWEd0x6"
-        }
-      ],
-      "date_added": "2023-04-15",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 186040,
-      "name": "Amor A Escondidas",
-      "url": "https://open.spotify.com/track/3JcjCFA6bNMl1IOxu37zup"
-    },
-    {
-      "album": {
         "name": "En Vida",
         "url": "https://open.spotify.com/album/0P7idNzelnJCzpY1LFuJxN"
       },
@@ -212,6 +194,24 @@
       "duration_ms": 185760,
       "name": "Amor A Escondidas",
       "url": "https://open.spotify.com/track/5nicx87hWxGgiUbVbMkBdH"
+    },
+    {
+      "album": {
+        "name": "Banda Romantica",
+        "url": "https://open.spotify.com/album/7qR4ZViSG93q4HkUSMHBAI"
+      },
+      "artists": [
+        {
+          "name": "Banda Los Sebastianes De Sa\u00fal Plata",
+          "url": "https://open.spotify.com/artist/2XTrqe2RU5niqO0RNA6Zct"
+        }
+      ],
+      "date_added": "2023-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186040,
+      "name": "Amor A Escondidas",
+      "url": "https://open.spotify.com/track/3JcjCFA6bNMl1IOxu37zup"
     },
     {
       "album": {
@@ -238,8 +238,8 @@
       },
       "artists": [
         {
-          "name": "Banda Los Sebastianes",
-          "url": "https://open.spotify.com/artist/0HgICyWHmS6rnl8xWEd0x6"
+          "name": "Banda Los Sebastianes De Sa\u00fal Plata",
+          "url": "https://open.spotify.com/artist/2XTrqe2RU5niqO0RNA6Zct"
         }
       ],
       "date_added": "2023-04-15",
@@ -363,24 +363,6 @@
     },
     {
       "album": {
-        "name": "Apasi\u00f3nate Con La M\u00fasica De Banda",
-        "url": "https://open.spotify.com/album/5Hk5ohNgggzRTff774ZjW2"
-      },
-      "artists": [
-        {
-          "name": "Banda Los Sebastianes",
-          "url": "https://open.spotify.com/artist/0HgICyWHmS6rnl8xWEd0x6"
-        }
-      ],
-      "date_added": "2023-04-15",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 203106,
-      "name": "Cu\u00e1nto A Que Te Olvido",
-      "url": "https://open.spotify.com/track/5vHZr5AeWmDSZqxqrcNaGO"
-    },
-    {
-      "album": {
         "name": "No Me Mires As\u00ed",
         "url": "https://open.spotify.com/album/2oqPeUsVbCzvRO2ygEMB3a"
       },
@@ -399,21 +381,21 @@
     },
     {
       "album": {
-        "name": "Banda Ayer, Hoy Y Siempre",
-        "url": "https://open.spotify.com/album/0WBwpewROiaRjkGmpbGQj1"
+        "name": "Apasi\u00f3nate Con La M\u00fasica De Banda",
+        "url": "https://open.spotify.com/album/5Hk5ohNgggzRTff774ZjW2"
       },
       "artists": [
         {
-          "name": "Banda Los Sebastianes",
-          "url": "https://open.spotify.com/artist/0HgICyWHmS6rnl8xWEd0x6"
+          "name": "Banda Los Sebastianes De Sa\u00fal Plata",
+          "url": "https://open.spotify.com/artist/2XTrqe2RU5niqO0RNA6Zct"
         }
       ],
       "date_added": "2023-04-15",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 192573,
-      "name": "Deb\u00ed",
-      "url": "https://open.spotify.com/track/3rdPa9OSdLjnJHTLH2Cmu7"
+      "duration_ms": 203106,
+      "name": "Cu\u00e1nto A Que Te Olvido",
+      "url": "https://open.spotify.com/track/5vHZr5AeWmDSZqxqrcNaGO"
     },
     {
       "album": {
@@ -435,21 +417,21 @@
     },
     {
       "album": {
-        "name": "Rom\u00e1nticas De Coraz\u00f3n (Banda)",
-        "url": "https://open.spotify.com/album/3bSi9HEYHNDRt0Bv4bDHJm"
+        "name": "Banda Ayer, Hoy Y Siempre",
+        "url": "https://open.spotify.com/album/0WBwpewROiaRjkGmpbGQj1"
       },
       "artists": [
         {
-          "name": "Banda Los Sebastianes",
-          "url": "https://open.spotify.com/artist/0HgICyWHmS6rnl8xWEd0x6"
+          "name": "Banda Los Sebastianes De Sa\u00fal Plata",
+          "url": "https://open.spotify.com/artist/2XTrqe2RU5niqO0RNA6Zct"
         }
       ],
       "date_added": "2023-04-15",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 198466,
-      "name": "Dentro De Tu Coraz\u00f3n",
-      "url": "https://open.spotify.com/track/6Qseng005fL6lfzBWq6Glf"
+      "duration_ms": 192573,
+      "name": "Deb\u00ed",
+      "url": "https://open.spotify.com/track/3rdPa9OSdLjnJHTLH2Cmu7"
     },
     {
       "album": {
@@ -468,6 +450,24 @@
       "duration_ms": 197026,
       "name": "Dentro De Tu Coraz\u00f3n",
       "url": "https://open.spotify.com/track/4oJRZ1TI7S89tnDYZU2y9P"
+    },
+    {
+      "album": {
+        "name": "Rom\u00e1nticas De Coraz\u00f3n (Banda)",
+        "url": "https://open.spotify.com/album/3bSi9HEYHNDRt0Bv4bDHJm"
+      },
+      "artists": [
+        {
+          "name": "Banda Los Sebastianes De Sa\u00fal Plata",
+          "url": "https://open.spotify.com/artist/2XTrqe2RU5niqO0RNA6Zct"
+        }
+      ],
+      "date_added": "2023-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198466,
+      "name": "Dentro De Tu Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/6Qseng005fL6lfzBWq6Glf"
     },
     {
       "album": {
@@ -556,8 +556,8 @@
       },
       "artists": [
         {
-          "name": "Banda Los Sebastianes",
-          "url": "https://open.spotify.com/artist/0HgICyWHmS6rnl8xWEd0x6"
+          "name": "Banda Los Sebastianes De Sa\u00fal Plata",
+          "url": "https://open.spotify.com/artist/2XTrqe2RU5niqO0RNA6Zct"
         },
         {
           "name": "Los Rieleros Del Norte",
@@ -632,8 +632,8 @@
       },
       "artists": [
         {
-          "name": "Banda Los Sebastianes",
-          "url": "https://open.spotify.com/artist/0HgICyWHmS6rnl8xWEd0x6"
+          "name": "Banda Los Sebastianes De Sa\u00fal Plata",
+          "url": "https://open.spotify.com/artist/2XTrqe2RU5niqO0RNA6Zct"
         }
       ],
       "date_added": "2023-04-15",
@@ -642,24 +642,6 @@
       "duration_ms": 187453,
       "name": "El Karma Del Amor",
       "url": "https://open.spotify.com/track/3SjYX57vuhfUg9VviFWHDQ"
-    },
-    {
-      "album": {
-        "name": "Las Mas Perronas De La Banda",
-        "url": "https://open.spotify.com/album/5pGGgpEKdbgxYOvzZEK80R"
-      },
-      "artists": [
-        {
-          "name": "Banda Los Sebastianes",
-          "url": "https://open.spotify.com/artist/0HgICyWHmS6rnl8xWEd0x6"
-        }
-      ],
-      "date_added": "2023-04-15",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 192386,
-      "name": "El Que Sigue De M\u00ed",
-      "url": "https://open.spotify.com/track/1xMqNlxWE9kCB0tDuK4DRs"
     },
     {
       "album": {
@@ -678,6 +660,24 @@
       "duration_ms": 191760,
       "name": "El Que Sigue De M\u00ed",
       "url": "https://open.spotify.com/track/5F9mtS0jNvf3ADmGiVnKuH"
+    },
+    {
+      "album": {
+        "name": "Las Mas Perronas De La Banda",
+        "url": "https://open.spotify.com/album/5pGGgpEKdbgxYOvzZEK80R"
+      },
+      "artists": [
+        {
+          "name": "Banda Los Sebastianes De Sa\u00fal Plata",
+          "url": "https://open.spotify.com/artist/2XTrqe2RU5niqO0RNA6Zct"
+        }
+      ],
+      "date_added": "2023-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192386,
+      "name": "El Que Sigue De M\u00ed",
+      "url": "https://open.spotify.com/track/1xMqNlxWE9kCB0tDuK4DRs"
     },
     {
       "album": {
@@ -717,24 +717,6 @@
     },
     {
       "album": {
-        "name": "Y Nos Quedamos En La Playa A Pachanguear",
-        "url": "https://open.spotify.com/album/0dJIfcwUk2Km3QTVkjRRiy"
-      },
-      "artists": [
-        {
-          "name": "Banda Los Sebastianes",
-          "url": "https://open.spotify.com/artist/0HgICyWHmS6rnl8xWEd0x6"
-        }
-      ],
-      "date_added": "2023-04-15",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 190080,
-      "name": "En Eso No Quedamos",
-      "url": "https://open.spotify.com/track/3r4x4zyA3mL5xuHKOU2EV5"
-    },
-    {
-      "album": {
         "name": "En Vida",
         "url": "https://open.spotify.com/album/0P7idNzelnJCzpY1LFuJxN"
       },
@@ -750,6 +732,24 @@
       "duration_ms": 189666,
       "name": "En Eso No Quedamos",
       "url": "https://open.spotify.com/track/1JqyD8BNhTpqEkpgeJRdaD"
+    },
+    {
+      "album": {
+        "name": "Y Nos Quedamos En La Playa A Pachanguear",
+        "url": "https://open.spotify.com/album/0dJIfcwUk2Km3QTVkjRRiy"
+      },
+      "artists": [
+        {
+          "name": "Banda Los Sebastianes De Sa\u00fal Plata",
+          "url": "https://open.spotify.com/artist/2XTrqe2RU5niqO0RNA6Zct"
+        }
+      ],
+      "date_added": "2023-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190080,
+      "name": "En Eso No Quedamos",
+      "url": "https://open.spotify.com/track/3r4x4zyA3mL5xuHKOU2EV5"
     },
     {
       "album": {
@@ -824,8 +824,8 @@
           "url": "https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS"
         },
         {
-          "name": "Banda Los Sebastianes",
-          "url": "https://open.spotify.com/artist/0HgICyWHmS6rnl8xWEd0x6"
+          "name": "Banda Los Sebastianes De Sa\u00fal Plata",
+          "url": "https://open.spotify.com/artist/2XTrqe2RU5niqO0RNA6Zct"
         }
       ],
       "date_added": "2023-04-15",
@@ -878,8 +878,8 @@
       },
       "artists": [
         {
-          "name": "Banda Los Sebastianes",
-          "url": "https://open.spotify.com/artist/0HgICyWHmS6rnl8xWEd0x6"
+          "name": "Banda Los Sebastianes De Sa\u00fal Plata",
+          "url": "https://open.spotify.com/artist/2XTrqe2RU5niqO0RNA6Zct"
         }
       ],
       "date_added": "2023-04-16",
@@ -896,8 +896,8 @@
       },
       "artists": [
         {
-          "name": "Banda Los Sebastianes",
-          "url": "https://open.spotify.com/artist/0HgICyWHmS6rnl8xWEd0x6"
+          "name": "Banda Los Sebastianes De Sa\u00fal Plata",
+          "url": "https://open.spotify.com/artist/2XTrqe2RU5niqO0RNA6Zct"
         }
       ],
       "date_added": "2023-04-15",
@@ -932,8 +932,8 @@
       },
       "artists": [
         {
-          "name": "Banda Los Sebastianes",
-          "url": "https://open.spotify.com/artist/0HgICyWHmS6rnl8xWEd0x6"
+          "name": "Banda Los Sebastianes De Sa\u00fal Plata",
+          "url": "https://open.spotify.com/artist/2XTrqe2RU5niqO0RNA6Zct"
         }
       ],
       "date_added": "2023-04-15",
@@ -986,8 +986,8 @@
       },
       "artists": [
         {
-          "name": "Banda Los Sebastianes",
-          "url": "https://open.spotify.com/artist/0HgICyWHmS6rnl8xWEd0x6"
+          "name": "Banda Los Sebastianes De Sa\u00fal Plata",
+          "url": "https://open.spotify.com/artist/2XTrqe2RU5niqO0RNA6Zct"
         }
       ],
       "date_added": "2023-04-04",
@@ -1004,8 +1004,8 @@
       },
       "artists": [
         {
-          "name": "Banda Los Sebastianes",
-          "url": "https://open.spotify.com/artist/0HgICyWHmS6rnl8xWEd0x6"
+          "name": "Banda Los Sebastianes De Sa\u00fal Plata",
+          "url": "https://open.spotify.com/artist/2XTrqe2RU5niqO0RNA6Zct"
         }
       ],
       "date_added": "2023-04-15",
@@ -1111,24 +1111,6 @@
     },
     {
       "album": {
-        "name": "Enam\u00f3rate Con Las Bandas M\u00e1s Matonas",
-        "url": "https://open.spotify.com/album/1yggBjd0oH9pS34rMt51Mr"
-      },
-      "artists": [
-        {
-          "name": "Banda Los Sebastianes",
-          "url": "https://open.spotify.com/artist/0HgICyWHmS6rnl8xWEd0x6"
-        }
-      ],
-      "date_added": "2023-04-15",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 188573,
-      "name": "La Persona Perfecta",
-      "url": "https://open.spotify.com/track/6t2yVuyNdlSbyICGkJMEXL"
-    },
-    {
-      "album": {
         "name": "No Me Mires As\u00ed",
         "url": "https://open.spotify.com/album/2oqPeUsVbCzvRO2ygEMB3a"
       },
@@ -1144,6 +1126,24 @@
       "duration_ms": 188560,
       "name": "La Persona Perfecta",
       "url": "https://open.spotify.com/track/278nH9m4i4Zp4hgRv7dYuh"
+    },
+    {
+      "album": {
+        "name": "Enam\u00f3rate Con Las Bandas M\u00e1s Matonas",
+        "url": "https://open.spotify.com/album/1yggBjd0oH9pS34rMt51Mr"
+      },
+      "artists": [
+        {
+          "name": "Banda Los Sebastianes De Sa\u00fal Plata",
+          "url": "https://open.spotify.com/artist/2XTrqe2RU5niqO0RNA6Zct"
+        }
+      ],
+      "date_added": "2023-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188573,
+      "name": "La Persona Perfecta",
+      "url": "https://open.spotify.com/track/6t2yVuyNdlSbyICGkJMEXL"
     },
     {
       "album": {
@@ -1183,24 +1183,6 @@
     },
     {
       "album": {
-        "name": "The Best Banda Music \"Romantic\"",
-        "url": "https://open.spotify.com/album/3FTCx5bExOO4vcQNy93sgh"
-      },
-      "artists": [
-        {
-          "name": "Banda Los Sebastianes",
-          "url": "https://open.spotify.com/artist/0HgICyWHmS6rnl8xWEd0x6"
-        }
-      ],
-      "date_added": "2023-04-15",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 207306,
-      "name": "Lo Mejor Que Me Ha Pasado",
-      "url": "https://open.spotify.com/track/3oMxkVSsDZziS28a9CeLgJ"
-    },
-    {
-      "album": {
         "name": "La Vida En Un Trago",
         "url": "https://open.spotify.com/album/1IwqcUtijh5yosaYFYIlox"
       },
@@ -1216,6 +1198,24 @@
       "duration_ms": 205720,
       "name": "Lo Mejor Que Me Ha Pasado",
       "url": "https://open.spotify.com/track/0gWF4aNCc8sAwKa82DNuv9"
+    },
+    {
+      "album": {
+        "name": "The Best Banda Music \"Romantic\"",
+        "url": "https://open.spotify.com/album/3FTCx5bExOO4vcQNy93sgh"
+      },
+      "artists": [
+        {
+          "name": "Banda Los Sebastianes De Sa\u00fal Plata",
+          "url": "https://open.spotify.com/artist/2XTrqe2RU5niqO0RNA6Zct"
+        }
+      ],
+      "date_added": "2023-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207306,
+      "name": "Lo Mejor Que Me Ha Pasado",
+      "url": "https://open.spotify.com/track/3oMxkVSsDZziS28a9CeLgJ"
     },
     {
       "album": {
@@ -1309,24 +1309,6 @@
     },
     {
       "album": {
-        "name": "Pura Banda",
-        "url": "https://open.spotify.com/album/0vB5RTvxfnyQAW1gu0wuci"
-      },
-      "artists": [
-        {
-          "name": "Banda Los Sebastianes",
-          "url": "https://open.spotify.com/artist/0HgICyWHmS6rnl8xWEd0x6"
-        }
-      ],
-      "date_added": "2023-04-15",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 220666,
-      "name": "Me Voy A Ir",
-      "url": "https://open.spotify.com/track/3FFN3sgahjDUXLW7Ed9gzJ"
-    },
-    {
-      "album": {
         "name": "La Vida En Un Trago",
         "url": "https://open.spotify.com/album/1IwqcUtijh5yosaYFYIlox"
       },
@@ -1342,6 +1324,24 @@
       "duration_ms": 218520,
       "name": "Me Voy A Ir",
       "url": "https://open.spotify.com/track/3JPoz5pxA2Z6Ix75clU8KL"
+    },
+    {
+      "album": {
+        "name": "Pura Banda",
+        "url": "https://open.spotify.com/album/0vB5RTvxfnyQAW1gu0wuci"
+      },
+      "artists": [
+        {
+          "name": "Banda Los Sebastianes De Sa\u00fal Plata",
+          "url": "https://open.spotify.com/artist/2XTrqe2RU5niqO0RNA6Zct"
+        }
+      ],
+      "date_added": "2023-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220666,
+      "name": "Me Voy A Ir",
+      "url": "https://open.spotify.com/track/3FFN3sgahjDUXLW7Ed9gzJ"
     },
     {
       "album": {
@@ -1399,24 +1399,6 @@
     },
     {
       "album": {
-        "name": "Dany, Te Dedico Esta Canci\u00f3n Con Todo Mi Coraz\u00f3n",
-        "url": "https://open.spotify.com/album/5Zm6BtWH4CgLV83H2nWBsL"
-      },
-      "artists": [
-        {
-          "name": "Banda Los Sebastianes",
-          "url": "https://open.spotify.com/artist/0HgICyWHmS6rnl8xWEd0x6"
-        }
-      ],
-      "date_added": "2023-04-15",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 188586,
-      "name": "Mi Meta Contigo",
-      "url": "https://open.spotify.com/track/1j13xqtQ20UWMWE3bm5Tsz"
-    },
-    {
-      "album": {
         "name": "En Vida",
         "url": "https://open.spotify.com/album/0P7idNzelnJCzpY1LFuJxN"
       },
@@ -1432,6 +1414,24 @@
       "duration_ms": 188586,
       "name": "Mi Meta Contigo",
       "url": "https://open.spotify.com/track/1OGze4EM0gQ8NNrtdVLCf1"
+    },
+    {
+      "album": {
+        "name": "Dany, Te Dedico Esta Canci\u00f3n Con Todo Mi Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/5Zm6BtWH4CgLV83H2nWBsL"
+      },
+      "artists": [
+        {
+          "name": "Banda Los Sebastianes De Sa\u00fal Plata",
+          "url": "https://open.spotify.com/artist/2XTrqe2RU5niqO0RNA6Zct"
+        }
+      ],
+      "date_added": "2023-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188586,
+      "name": "Mi Meta Contigo",
+      "url": "https://open.spotify.com/track/1j13xqtQ20UWMWE3bm5Tsz"
     },
     {
       "album": {
@@ -1475,24 +1475,6 @@
     },
     {
       "album": {
-        "name": "Banda Music Stars",
-        "url": "https://open.spotify.com/album/50oCY62wGsTftPxq2ZvXSX"
-      },
-      "artists": [
-        {
-          "name": "Banda Los Sebastianes",
-          "url": "https://open.spotify.com/artist/0HgICyWHmS6rnl8xWEd0x6"
-        }
-      ],
-      "date_added": "2023-04-16",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 140466,
-      "name": "Mi Trokita Cumbia",
-      "url": "https://open.spotify.com/track/7Ht5AsKAwGbWMGRCZqkaLx"
-    },
-    {
-      "album": {
         "name": "Sin Miedo Al \u00c9xito",
         "url": "https://open.spotify.com/album/0TYhOqTiVs6VLG5ujVPB6i"
       },
@@ -1508,6 +1490,24 @@
       "duration_ms": 140653,
       "name": "Mi Trokita Cumbia",
       "url": "https://open.spotify.com/track/02ecCKQ3HRrxxH61XtE1Te"
+    },
+    {
+      "album": {
+        "name": "Banda Music Stars",
+        "url": "https://open.spotify.com/album/50oCY62wGsTftPxq2ZvXSX"
+      },
+      "artists": [
+        {
+          "name": "Banda Los Sebastianes De Sa\u00fal Plata",
+          "url": "https://open.spotify.com/artist/2XTrqe2RU5niqO0RNA6Zct"
+        }
+      ],
+      "date_added": "2023-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140466,
+      "name": "Mi Trokita Cumbia",
+      "url": "https://open.spotify.com/track/7Ht5AsKAwGbWMGRCZqkaLx"
     },
     {
       "album": {
@@ -1534,8 +1534,8 @@
       },
       "artists": [
         {
-          "name": "Banda Los Sebastianes",
-          "url": "https://open.spotify.com/artist/0HgICyWHmS6rnl8xWEd0x6"
+          "name": "Banda Los Sebastianes De Sa\u00fal Plata",
+          "url": "https://open.spotify.com/artist/2XTrqe2RU5niqO0RNA6Zct"
         }
       ],
       "date_added": "2023-04-16",
@@ -1592,8 +1592,8 @@
           "url": "https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak"
         },
         {
-          "name": "Banda Los Sebastianes",
-          "url": "https://open.spotify.com/artist/0HgICyWHmS6rnl8xWEd0x6"
+          "name": "Banda Los Sebastianes De Sa\u00fal Plata",
+          "url": "https://open.spotify.com/artist/2XTrqe2RU5niqO0RNA6Zct"
         }
       ],
       "date_added": "2023-04-15",
@@ -1794,8 +1794,8 @@
       },
       "artists": [
         {
-          "name": "Banda Los Sebastianes",
-          "url": "https://open.spotify.com/artist/0HgICyWHmS6rnl8xWEd0x6"
+          "name": "Banda Los Sebastianes De Sa\u00fal Plata",
+          "url": "https://open.spotify.com/artist/2XTrqe2RU5niqO0RNA6Zct"
         }
       ],
       "date_added": "2023-04-15",
@@ -1812,8 +1812,8 @@
       },
       "artists": [
         {
-          "name": "Banda Los Sebastianes",
-          "url": "https://open.spotify.com/artist/0HgICyWHmS6rnl8xWEd0x6"
+          "name": "Banda Los Sebastianes De Sa\u00fal Plata",
+          "url": "https://open.spotify.com/artist/2XTrqe2RU5niqO0RNA6Zct"
         }
       ],
       "date_added": "2023-04-15",
@@ -1848,8 +1848,8 @@
       },
       "artists": [
         {
-          "name": "Banda Los Sebastianes",
-          "url": "https://open.spotify.com/artist/0HgICyWHmS6rnl8xWEd0x6"
+          "name": "Banda Los Sebastianes De Sa\u00fal Plata",
+          "url": "https://open.spotify.com/artist/2XTrqe2RU5niqO0RNA6Zct"
         }
       ],
       "date_added": "2023-04-04",
@@ -1928,8 +1928,8 @@
       },
       "artists": [
         {
-          "name": "Banda Los Sebastianes",
-          "url": "https://open.spotify.com/artist/0HgICyWHmS6rnl8xWEd0x6"
+          "name": "Banda Los Sebastianes De Sa\u00fal Plata",
+          "url": "https://open.spotify.com/artist/2XTrqe2RU5niqO0RNA6Zct"
         }
       ],
       "date_added": "2023-04-15",
@@ -2094,8 +2094,8 @@
       },
       "artists": [
         {
-          "name": "Banda Los Sebastianes",
-          "url": "https://open.spotify.com/artist/0HgICyWHmS6rnl8xWEd0x6"
+          "name": "Banda Los Sebastianes De Sa\u00fal Plata",
+          "url": "https://open.spotify.com/artist/2XTrqe2RU5niqO0RNA6Zct"
         }
       ],
       "date_added": "2023-04-16",
@@ -2130,8 +2130,8 @@
       },
       "artists": [
         {
-          "name": "Banda Los Sebastianes",
-          "url": "https://open.spotify.com/artist/0HgICyWHmS6rnl8xWEd0x6"
+          "name": "Banda Los Sebastianes De Sa\u00fal Plata",
+          "url": "https://open.spotify.com/artist/2XTrqe2RU5niqO0RNA6Zct"
         }
       ],
       "date_added": "2023-04-15",
@@ -2148,8 +2148,8 @@
       },
       "artists": [
         {
-          "name": "Banda Los Sebastianes",
-          "url": "https://open.spotify.com/artist/0HgICyWHmS6rnl8xWEd0x6"
+          "name": "Banda Los Sebastianes De Sa\u00fal Plata",
+          "url": "https://open.spotify.com/artist/2XTrqe2RU5niqO0RNA6Zct"
         }
       ],
       "date_added": "2023-04-15",
@@ -2188,8 +2188,8 @@
       },
       "artists": [
         {
-          "name": "Banda Los Sebastianes",
-          "url": "https://open.spotify.com/artist/0HgICyWHmS6rnl8xWEd0x6"
+          "name": "Banda Los Sebastianes De Sa\u00fal Plata",
+          "url": "https://open.spotify.com/artist/2XTrqe2RU5niqO0RNA6Zct"
         }
       ],
       "date_added": "2023-04-15",
@@ -2390,8 +2390,8 @@
       },
       "artists": [
         {
-          "name": "Banda Los Sebastianes",
-          "url": "https://open.spotify.com/artist/0HgICyWHmS6rnl8xWEd0x6"
+          "name": "Banda Los Sebastianes De Sa\u00fal Plata",
+          "url": "https://open.spotify.com/artist/2XTrqe2RU5niqO0RNA6Zct"
         }
       ],
       "date_added": "2023-04-16",
@@ -2610,8 +2610,8 @@
       },
       "artists": [
         {
-          "name": "Banda Los Sebastianes",
-          "url": "https://open.spotify.com/artist/0HgICyWHmS6rnl8xWEd0x6"
+          "name": "Banda Los Sebastianes De Sa\u00fal Plata",
+          "url": "https://open.spotify.com/artist/2XTrqe2RU5niqO0RNA6Zct"
         },
         {
           "name": "Sebastian Yatra",

@@ -4127,6 +4127,28 @@
     },
     {
       "album": {
+        "name": "Nube Negra",
+        "url": "https://open.spotify.com/album/1hfFHStwTqvGuaERkgjyka"
+      },
+      "artists": [
+        {
+          "name": "Juan Wauters",
+          "url": "https://open.spotify.com/artist/7CKkZZW3XtnPmqlwaElmoV"
+        },
+        {
+          "name": "Y La Bamba",
+          "url": "https://open.spotify.com/artist/6eb2gxfoBSQhmDYkQKz93b"
+        }
+      ],
+      "date_added": "2023-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185409,
+      "name": "Nube Negra",
+      "url": "https://open.spotify.com/track/3ZeKDpDvthhspRGiosXkIQ"
+    },
+    {
+      "album": {
         "name": "Nublado",
         "url": "https://open.spotify.com/album/1bqvDiNrpVCeI8RbsgayEb"
       },
@@ -4182,7 +4204,7 @@
       ],
       "date_added": "2023-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 171106,
       "name": "Nunca Nunca",
       "url": "https://open.spotify.com/track/6Y0hEZqVjgkrP8VqWYcGvM"
@@ -4372,7 +4394,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 133060,
-      "name": "Olvidar De Ti",
+      "name": "olvidar de ti",
       "url": "https://open.spotify.com/track/4FAyJudwDRGLZyXsYPxRRI"
     },
     {
@@ -5402,7 +5424,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 209464,
-      "name": "See Me Now",
+      "name": "see me now",
       "url": "https://open.spotify.com/track/6zC9BpkTlnxeLkC2x9aQyb"
     },
     {

@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Los grandes temas del Pop Urbano, eso es Popet\u00f3n! Foto: Feid & Sean Paul",
-  "num_followers": 659492,
+  "num_followers": 659570,
   "original_name": "Popet\u00f3n",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2YWVhZDhjODIwMzU5ODUxMmZkOGY2M2E3NjhjMmM4OWMzYTY5YzZh",
+  "snapshot_id": "MCxmYjA5Yjk4NDZjYzlkOTEyNjMzZmZkNDg1OTYyZDcyNWU2MDcwNzEy",
   "tracks": [
     {
       "added_at": "2023-04-21 04:06:28",
@@ -73,6 +73,22 @@
       "url": "https://open.spotify.com/track/4dLIAE3xbJLoiIBbKkZWJk"
     },
     {
+      "added_at": "2023-05-18 03:08:07",
+      "album": {
+        "name": "Dudas De M\u00ed",
+        "url": "https://open.spotify.com/album/3w5McmmXqlY1KWlgSEc3h0"
+      },
+      "artists": [
+        {
+          "name": "Andy Rivera",
+          "url": "https://open.spotify.com/artist/7hIqJfRYGBWWT1Qxu6Cpd2"
+        }
+      ],
+      "duration_ms": 158698,
+      "name": "Dudas De M\u00ed",
+      "url": "https://open.spotify.com/track/18bYUYFZ43he76OBEQavKH"
+    },
+    {
       "added_at": "2023-04-21 04:06:28",
       "album": {
         "name": "Sueltas",
@@ -87,26 +103,6 @@
       "duration_ms": 163259,
       "name": "Sueltas",
       "url": "https://open.spotify.com/track/6PkiSdWbhsuFP9qaFyu3CA"
-    },
-    {
-      "added_at": "2023-04-21 04:06:28",
-      "album": {
-        "name": "Kitty",
-        "url": "https://open.spotify.com/album/7MTllNrunaSB1GTWkbt9ee"
-      },
-      "artists": [
-        {
-          "name": "Kim Loaiza",
-          "url": "https://open.spotify.com/artist/1QivQCLVipV61DiQiyV14A"
-        },
-        {
-          "name": "LIT killah",
-          "url": "https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq"
-        }
-      ],
-      "duration_ms": 200388,
-      "name": "Kitty",
-      "url": "https://open.spotify.com/track/7dg1E1QLfNAXDNlKshOTUC"
     },
     {
       "added_at": "2023-04-21 04:06:28",
@@ -129,6 +125,22 @@
       "url": "https://open.spotify.com/track/6XSqqQIy7Lm7SnwxS4NrGx"
     },
     {
+      "added_at": "2023-05-18 03:08:07",
+      "album": {
+        "name": "Maria",
+        "url": "https://open.spotify.com/album/6jSBlDo6haE2UWMaXwQTY6"
+      },
+      "artists": [
+        {
+          "name": "Juan Duque",
+          "url": "https://open.spotify.com/artist/49ggXUsjVHl7BwwaiPUCn6"
+        }
+      ],
+      "duration_ms": 125615,
+      "name": "Maria",
+      "url": "https://open.spotify.com/track/35v3dtkDxd4WjQrZwPlQXz"
+    },
+    {
       "added_at": "2023-04-21 04:06:28",
       "album": {
         "name": "RR",
@@ -149,6 +161,26 @@
       "url": "https://open.spotify.com/track/609E1JCInJncactoMmkDon"
     },
     {
+      "added_at": "2023-05-18 03:08:07",
+      "album": {
+        "name": "14/20",
+        "url": "https://open.spotify.com/album/6vdBr8NQLpiS67TpgMYybx"
+      },
+      "artists": [
+        {
+          "name": "Ryan Castro",
+          "url": "https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz"
+        },
+        {
+          "name": "Piso 21",
+          "url": "https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd"
+        }
+      ],
+      "duration_ms": 195683,
+      "name": "14/20",
+      "url": "https://open.spotify.com/track/61fxkxoroML09OXhhUfsP4"
+    },
+    {
       "added_at": "2023-04-21 04:06:28",
       "album": {
         "name": "La Bachata",
@@ -163,22 +195,6 @@
       "duration_ms": 162637,
       "name": "La Bachata",
       "url": "https://open.spotify.com/track/5ww2BF9slyYgNOk37BlC4u"
-    },
-    {
-      "added_at": "2023-04-21 04:06:28",
-      "album": {
-        "name": "Rayos, Besos, Fallos",
-        "url": "https://open.spotify.com/album/3WKuSgBB4A9w3HRO8Ct3tU"
-      },
-      "artists": [
-        {
-          "name": "Irepelusa",
-          "url": "https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw"
-        }
-      ],
-      "duration_ms": 153000,
-      "name": "Rayos, Besos, Fallos",
-      "url": "https://open.spotify.com/track/0FrXpDbnUJlRBQBgAZtwpG"
     },
     {
       "added_at": "2023-04-21 04:06:28",
@@ -201,68 +217,28 @@
       "url": "https://open.spotify.com/track/1EmVyH2yt5PEMm4hVftZ6d"
     },
     {
-      "added_at": "2023-04-21 04:06:28",
+      "added_at": "2023-05-18 03:08:07",
       "album": {
-        "name": "Noche Primavera",
-        "url": "https://open.spotify.com/album/6lI8JL80iNP4A8qzlGNqTG"
+        "name": "Whiskey y Coco (Remix)",
+        "url": "https://open.spotify.com/album/4g71V57SAYujhaE1QcJUCF"
       },
       "artists": [
         {
-          "name": "Man\u00fa",
-          "url": "https://open.spotify.com/artist/3iyr6xJPyHx8ptqqzMHDVE"
+          "name": "Justin Quiles",
+          "url": "https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP"
         },
         {
-          "name": "Be\u00e9le",
-          "url": "https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7"
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
         },
         {
-          "name": "Andr\u00e9s Cepeda",
-          "url": "https://open.spotify.com/artist/49Z1AvGeUaBSanPaOmplK6"
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
         }
       ],
-      "duration_ms": 199277,
-      "name": "Noche Primavera",
-      "url": "https://open.spotify.com/track/2k27NZDlbYUf2Dfh7C2CQg"
-    },
-    {
-      "added_at": "2023-04-21 04:06:28",
-      "album": {
-        "name": "Aria Vega Hotline: Cobuz & Bustta",
-        "url": "https://open.spotify.com/album/26Mksnxwl6TQAJ5FGdQGsm"
-      },
-      "artists": [
-        {
-          "name": "Cobuz & Bustta",
-          "url": "https://open.spotify.com/artist/3IpCt5oIfvR2qlkuoCoGYU"
-        },
-        {
-          "name": "ARIA VEGA",
-          "url": "https://open.spotify.com/artist/3e9aKKEgSOjIQS9gv2Nr1X"
-        }
-      ],
-      "duration_ms": 173714,
-      "name": "Aria Vega Hotline: Cobuz & Bustta",
-      "url": "https://open.spotify.com/track/7cURSrRxV8kJCDSzWYJKow"
-    },
-    {
-      "added_at": "2023-04-21 04:06:28",
-      "album": {
-        "name": "Arranca (feat. Omega)",
-        "url": "https://open.spotify.com/album/3d0XlD9jrpNetVgDfsErG4"
-      },
-      "artists": [
-        {
-          "name": "Becky G",
-          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
-        },
-        {
-          "name": "Omega",
-          "url": "https://open.spotify.com/artist/1UjxAZqzphB1tsMb1aWBj0"
-        }
-      ],
-      "duration_ms": 166529,
-      "name": "Arranca (feat. Omega)",
-      "url": "https://open.spotify.com/track/6IdcyYfBz9LG3SWIKVyNgh"
+      "duration_ms": 221333,
+      "name": "Whiskey y Coco - Remix",
+      "url": "https://open.spotify.com/track/3pUqOFuXETdcGRh8E587BE"
     },
     {
       "added_at": "2023-04-21 04:06:28",
@@ -303,6 +279,26 @@
     {
       "added_at": "2023-04-21 04:06:28",
       "album": {
+        "name": "Kitty",
+        "url": "https://open.spotify.com/album/7MTllNrunaSB1GTWkbt9ee"
+      },
+      "artists": [
+        {
+          "name": "Kim Loaiza",
+          "url": "https://open.spotify.com/artist/1QivQCLVipV61DiQiyV14A"
+        },
+        {
+          "name": "LIT killah",
+          "url": "https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq"
+        }
+      ],
+      "duration_ms": 200388,
+      "name": "Kitty",
+      "url": "https://open.spotify.com/track/7dg1E1QLfNAXDNlKshOTUC"
+    },
+    {
+      "added_at": "2023-04-21 04:06:28",
+      "album": {
         "name": "LA VIDA ES UNA",
         "url": "https://open.spotify.com/album/3puAvurwvtvi1rodndIPW8"
       },
@@ -315,34 +311,6 @@
       "duration_ms": 163240,
       "name": "MI DROGA",
       "url": "https://open.spotify.com/track/5OYRVKWII0Eog7CjQRnmGf"
-    },
-    {
-      "added_at": "2023-04-21 04:06:28",
-      "album": {
-        "name": "La Rompecorazones (Remix)",
-        "url": "https://open.spotify.com/album/1jl55tnfPtXGxLFFJXeMW9"
-      },
-      "artists": [
-        {
-          "name": "La Banda del 5",
-          "url": "https://open.spotify.com/artist/3fwLvzwmgJkUwtn9YmpTiB"
-        },
-        {
-          "name": "Andy Rivera",
-          "url": "https://open.spotify.com/artist/7hIqJfRYGBWWT1Qxu6Cpd2"
-        },
-        {
-          "name": "DEKKO",
-          "url": "https://open.spotify.com/artist/6ZvYYrrfpb1Z7kICDyxWQE"
-        },
-        {
-          "name": "Alberto Kammerer",
-          "url": "https://open.spotify.com/artist/5PZgiiLyMOIQxO8oUdR6sl"
-        }
-      ],
-      "duration_ms": 227246,
-      "name": "La Rompecorazones - Remix",
-      "url": "https://open.spotify.com/track/3FG6mOgYu6VuVdZLmUHWnQ"
     },
     {
       "added_at": "2023-04-21 04:06:28",
@@ -363,26 +331,6 @@
       "duration_ms": 179349,
       "name": "Legendaria",
       "url": "https://open.spotify.com/track/5bARvxCD7HTJXsBLN7UhbZ"
-    },
-    {
-      "added_at": "2023-04-21 04:06:28",
-      "album": {
-        "name": "Canciones Tristes",
-        "url": "https://open.spotify.com/album/4vFy7FX84Siyg6PO5y3v6y"
-      },
-      "artists": [
-        {
-          "name": "Flako Gallego",
-          "url": "https://open.spotify.com/artist/2tNVW9A320DdMR2fQNGKuZ"
-        },
-        {
-          "name": "Blackie & Lois",
-          "url": "https://open.spotify.com/artist/5NzYjj1jWW74JwmrN9ERhm"
-        }
-      ],
-      "duration_ms": 193103,
-      "name": "Canciones Tristes",
-      "url": "https://open.spotify.com/track/2h7JcRB8XDQVBpkgGgjnQx"
     },
     {
       "added_at": "2023-04-21 04:06:28",
@@ -463,6 +411,22 @@
     {
       "added_at": "2023-04-21 04:06:28",
       "album": {
+        "name": "Rayos, Besos, Fallos",
+        "url": "https://open.spotify.com/album/3WKuSgBB4A9w3HRO8Ct3tU"
+      },
+      "artists": [
+        {
+          "name": "Irepelusa",
+          "url": "https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw"
+        }
+      ],
+      "duration_ms": 153000,
+      "name": "Rayos, Besos, Fallos",
+      "url": "https://open.spotify.com/track/0FrXpDbnUJlRBQBgAZtwpG"
+    },
+    {
+      "added_at": "2023-04-21 04:06:28",
+      "album": {
         "name": "Los Cachos",
         "url": "https://open.spotify.com/album/0SXW8l00nztnoYkGT7BjJh"
       },
@@ -499,6 +463,26 @@
       "duration_ms": 165170,
       "name": "Borrachita",
       "url": "https://open.spotify.com/track/5DkDBumb9ccm0T3pTDLspa"
+    },
+    {
+      "added_at": "2023-04-21 04:06:28",
+      "album": {
+        "name": "Arranca (feat. Omega)",
+        "url": "https://open.spotify.com/album/3d0XlD9jrpNetVgDfsErG4"
+      },
+      "artists": [
+        {
+          "name": "Becky G",
+          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
+        },
+        {
+          "name": "Omega",
+          "url": "https://open.spotify.com/artist/1UjxAZqzphB1tsMb1aWBj0"
+        }
+      ],
+      "duration_ms": 166529,
+      "name": "Arranca (feat. Omega)",
+      "url": "https://open.spotify.com/track/6IdcyYfBz9LG3SWIKVyNgh"
     },
     {
       "added_at": "2023-04-21 04:06:28",

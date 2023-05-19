@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX95vhptNy3YE.md) - [plain]
 
 > Xamã, KayBlack, MC Maneirinho, Kiaz e mais hits do momento na cultura preta brasileira, puxando o bonde pra geral ganhar o mundo.
 
-[Spotify](https://open.spotify.com/user/spotify) - 202,666 likes - 50 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 203,078 likes - 50 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX95vhptNy3YE.md) - [plain]
 | 49 | [Auto Filter](https://open.spotify.com/track/710nUmKdg0R0YGoHcxIhje) | [Ashira](https://open.spotify.com/artist/3bwb5u6i1DM7nDxnBSDDCa) | [Auto Filter](https://open.spotify.com/album/6jDENEt6mLAqNY8AKnzf19) | 3:48 |
 | 50 | [C'est la vie \(Bônus\)](https://open.spotify.com/track/1QRDn63eQzqC8dpNcI7HtQ) | [KayBlack](https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy), [Marquinho no Beat](https://open.spotify.com/artist/4Z9aFsrQeXQbKIOryEkfqe), [Wall Hein](https://open.spotify.com/artist/5wEgjH2s4SAiffRmzkBqHB) | [Contradições](https://open.spotify.com/album/1vR5pzEPXx1i7h8zwosa7D) | 2:04 |
 
-Snapshot ID: `MCw0NTEwZWIxY2Y2YjJkY2JmOGU1MmUwZDk3MjE0NjY5ZTA3NDk3ZTFj`
+Snapshot ID: `MCxlYjU4NDllODViOTJhMzJmYWYyYjZjMTU0NGNkNGVlY2VlN2ZkYjMz`

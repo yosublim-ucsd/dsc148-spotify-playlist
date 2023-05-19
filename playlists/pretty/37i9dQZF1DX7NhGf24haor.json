@@ -1,13 +1,73 @@
 {
   "description": "The newest Hardstyle tracks | 2023 Hardstyle. Cover: Da Tweekaz & Refuzion",
-  "num_followers": 121916,
+  "num_followers": 122061,
   "original_name": "Hardstyle Adrenaline! 2023",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1OWM2ZjcwOGE2NDZlNzgxZmYyMmI2NjFhOTBjYzdiZTZjYTY3NWNl",
+  "snapshot_id": "MCxjYTYwOTJkNzdjZTBjNzQ3ZWEwZTk5YzY1NWFkZjlkYzAwYzM5MmJm",
   "tracks": [
+    {
+      "added_at": "2023-05-18 22:00:00",
+      "album": {
+        "name": "Meine Droge",
+        "url": "https://open.spotify.com/album/3xlsaWASj6MxqlOGSc6vRZ"
+      },
+      "artists": [
+        {
+          "name": "Jebroer",
+          "url": "https://open.spotify.com/artist/7jp5R1aY7kmwBYX3jIu9yk"
+        },
+        {
+          "name": "Neptunica",
+          "url": "https://open.spotify.com/artist/5dGsIOepO9ufQlXjW8KrPL"
+        }
+      ],
+      "duration_ms": 166153,
+      "name": "Meine Droge",
+      "url": "https://open.spotify.com/track/0lVT7OTMU8nNQubxsKMYr8"
+    },
+    {
+      "added_at": "2023-05-18 22:00:00",
+      "album": {
+        "name": "Gangster",
+        "url": "https://open.spotify.com/album/6Cnu76pf2PQ9bZNDB7VRyO"
+      },
+      "artists": [
+        {
+          "name": "W&W",
+          "url": "https://open.spotify.com/artist/2rTo8KIkBTFjQS7VvaKYQ4"
+        },
+        {
+          "name": "VINAI",
+          "url": "https://open.spotify.com/artist/4mrBetqy378Jf1y6NLszlx"
+        }
+      ],
+      "duration_ms": 136000,
+      "name": "Gangster",
+      "url": "https://open.spotify.com/track/2rh38KyxmYjzTU1tavVLl4"
+    },
+    {
+      "added_at": "2023-05-18 22:00:00",
+      "album": {
+        "name": "When Daylight Strikes (Intents Kingdom of Unity 2023 Anthem)",
+        "url": "https://open.spotify.com/album/0LMgNpWGwqBrAZLcii4JPh"
+      },
+      "artists": [
+        {
+          "name": "Brennan Heart",
+          "url": "https://open.spotify.com/artist/5QySqc6yAFDx9m7fedFZmC"
+        },
+        {
+          "name": "Phuture Noize",
+          "url": "https://open.spotify.com/artist/7AGSJihqYPhYy5QzMcwcQT"
+        }
+      ],
+      "duration_ms": 224667,
+      "name": "When Daylight Strikes (Intents Kingdom of Unity 2023 Anthem)",
+      "url": "https://open.spotify.com/track/7hiSvqxUrIB4ZAH4hi0awM"
+    },
     {
       "added_at": "2023-05-11 22:00:00",
       "album": {
@@ -53,6 +113,22 @@
       "url": "https://open.spotify.com/track/00dUCL3WfkgU0oqCSVdneu"
     },
     {
+      "added_at": "2023-05-18 22:00:00",
+      "album": {
+        "name": "MINDTRAVEL (Psychonaut)",
+        "url": "https://open.spotify.com/album/3pMoJrmiq4mqWGNbYLEiZZ"
+      },
+      "artists": [
+        {
+          "name": "Devin Wild",
+          "url": "https://open.spotify.com/artist/4ksdbwHbqSmv7sWP3W6L21"
+        }
+      ],
+      "duration_ms": 203225,
+      "name": "MINDTRAVEL (Psychonaut)",
+      "url": "https://open.spotify.com/track/6NRd09mpjFD6tNRV3ADaRi"
+    },
+    {
       "added_at": "2023-05-11 22:00:00",
       "album": {
         "name": "Number 1 Supplier",
@@ -91,6 +167,42 @@
       "duration_ms": 173200,
       "name": "Keep On Winning",
       "url": "https://open.spotify.com/track/4zifgSriN5LUBrHquq0Owo"
+    },
+    {
+      "added_at": "2023-05-18 22:00:00",
+      "album": {
+        "name": "Beg For You",
+        "url": "https://open.spotify.com/album/2D28gqCRaVqTsVHiMPQ6Ro"
+      },
+      "artists": [
+        {
+          "name": "JOKA",
+          "url": "https://open.spotify.com/artist/0hqZ4OJ9p2YC3xnxYnE3SV"
+        },
+        {
+          "name": "Robbe",
+          "url": "https://open.spotify.com/artist/58imfUscPVwuhuHt1MpBDA"
+        }
+      ],
+      "duration_ms": 160620,
+      "name": "Beg For You",
+      "url": "https://open.spotify.com/track/1yVvD5Cx7CIY61DbS6SBma"
+    },
+    {
+      "added_at": "2023-05-18 22:00:00",
+      "album": {
+        "name": "Wild Love",
+        "url": "https://open.spotify.com/album/2Hro2qmIWsJQ9kXVtMuaLH"
+      },
+      "artists": [
+        {
+          "name": "Wasted Penguinz",
+          "url": "https://open.spotify.com/artist/1Ok5WQlGEnuFOiUlpCKcVT"
+        }
+      ],
+      "duration_ms": 278709,
+      "name": "Wild Love",
+      "url": "https://open.spotify.com/track/7s6W3XOlRtCoT1bKV0a7ZK"
     },
     {
       "added_at": "2023-05-11 22:00:00",
@@ -153,6 +265,102 @@
       "url": "https://open.spotify.com/track/0MkqslIj6VNILVvcjhyK2f"
     },
     {
+      "added_at": "2023-05-18 22:00:00",
+      "album": {
+        "name": "In My Head (Averro Remix)",
+        "url": "https://open.spotify.com/album/1Z27U3HXnVfCKZ3WCX2V0Y"
+      },
+      "artists": [
+        {
+          "name": "Klaas",
+          "url": "https://open.spotify.com/artist/25sJFKMqDENdsTF7zRXoif"
+        },
+        {
+          "name": "Averro",
+          "url": "https://open.spotify.com/artist/3PTNHymcsvmbSrlF7tTK74"
+        },
+        {
+          "name": "Emmie Lee",
+          "url": "https://open.spotify.com/artist/4fFlpk8hS56rPSExrMiiLW"
+        }
+      ],
+      "duration_ms": 148000,
+      "name": "In My Head - Averro Remix",
+      "url": "https://open.spotify.com/track/4OtszrE7547SNwlec7MVzZ"
+    },
+    {
+      "added_at": "2023-05-18 22:00:00",
+      "album": {
+        "name": "Flow",
+        "url": "https://open.spotify.com/album/2AsgPfOW8KJbYNSTmxlKRy"
+      },
+      "artists": [
+        {
+          "name": "D-Sturb",
+          "url": "https://open.spotify.com/artist/7E6DrjKJieOdJKO8mbwCMO"
+        }
+      ],
+      "duration_ms": 192653,
+      "name": "Flow",
+      "url": "https://open.spotify.com/track/63ZJtCRVf8akA75vrso6H9"
+    },
+    {
+      "added_at": "2023-05-18 22:00:00",
+      "album": {
+        "name": "Never Take Me Alive",
+        "url": "https://open.spotify.com/album/0Qe7Yvt2HmjafD6UYIrBIs"
+      },
+      "artists": [
+        {
+          "name": "Endymion",
+          "url": "https://open.spotify.com/artist/1dWCpNKvuNDv2rE4gCVNwj"
+        },
+        {
+          "name": "I WAS THE LION",
+          "url": "https://open.spotify.com/artist/0hYPQPYA6Wu90339kq6046"
+        }
+      ],
+      "duration_ms": 277161,
+      "name": "Never Take Me Alive",
+      "url": "https://open.spotify.com/track/1ZcOXjxLOaG6JfDthfEtiQ"
+    },
+    {
+      "added_at": "2023-05-18 22:00:00",
+      "album": {
+        "name": "Relativity",
+        "url": "https://open.spotify.com/album/0uOyfiAGv0m7gilPDfZFTX"
+      },
+      "artists": [
+        {
+          "name": "Clockartz",
+          "url": "https://open.spotify.com/artist/7GVB7uYTgkeYtLJxYMYYDp"
+        }
+      ],
+      "duration_ms": 183483,
+      "name": "Relativity",
+      "url": "https://open.spotify.com/track/5Tl1WMvT2iFvJbiJy51G06"
+    },
+    {
+      "added_at": "2023-05-18 22:00:00",
+      "album": {
+        "name": "XTC",
+        "url": "https://open.spotify.com/album/6i3w3ojtW5s8gz15CWd1rj"
+      },
+      "artists": [
+        {
+          "name": "Kronos",
+          "url": "https://open.spotify.com/artist/2B3mYtzGes0f92Yfn4mVQD"
+        },
+        {
+          "name": "Unresolved",
+          "url": "https://open.spotify.com/artist/6glAHKAPvBPUQ4HQcYXxpr"
+        }
+      ],
+      "duration_ms": 159843,
+      "name": "XTC",
+      "url": "https://open.spotify.com/track/4e6IeyAH5IxXM2XsyusvIb"
+    },
+    {
       "added_at": "2023-05-11 22:00:00",
       "album": {
         "name": "Klabautermann",
@@ -211,26 +419,6 @@
       "duration_ms": 217600,
       "name": "Hold On",
       "url": "https://open.spotify.com/track/2usGUwNBOdZ4fhbK0xU1By"
-    },
-    {
-      "added_at": "2023-05-11 22:00:00",
-      "album": {
-        "name": "Somebody to Love",
-        "url": "https://open.spotify.com/album/66EPs3ZWUIRSNxer3yqIyS"
-      },
-      "artists": [
-        {
-          "name": "DJ Gollum",
-          "url": "https://open.spotify.com/artist/1wNmJCRRNn8WpJrRSTKKqT"
-        },
-        {
-          "name": "Maxtreme",
-          "url": "https://open.spotify.com/artist/3skGwvTX8jbm2EKf0Whe1j"
-        }
-      ],
-      "duration_ms": 188076,
-      "name": "Somebody to Love",
-      "url": "https://open.spotify.com/track/14oLZpSIlMYf62kUthUTLL"
     },
     {
       "added_at": "2023-05-11 22:00:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzh3WlsCZMx.md) - [plain]
 
 > Sophisticated palates only\. Curated by: <a href="https://open.spotify.com/playlist/5FWhibjoWhSsyfQveXzmRv?si=0a61027ee6a34d36">HBO's Rap Sh!t</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,614 likes - 48 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,700 likes - 48 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzh3WlsCZMx.md) - [plain]
 | 31 | [Sleeping With the Enemy](https://open.spotify.com/track/0ISoKjo9JVUB97JMgygRZP) | [BbyMutha](https://open.spotify.com/artist/21C9Dbg9CD3Dv8NaD7iW8e), [Kindora](https://open.spotify.com/artist/4Y60hS4r2QPUohZh8ciVjN) | [The Bastard Tape, Vol\. 1](https://open.spotify.com/album/2N2geXZotNXw4nqi2bk00J) | 3:49 |
 | 32 | [Walk](https://open.spotify.com/track/3YfrGk7UWFqxWeWfFp1sQE) | [Saucy Santana](https://open.spotify.com/artist/2NfwGBr2swqZ1rzE3kAV23) | [It's a Vibe](https://open.spotify.com/album/00N7d8ASGThdtQWGu8V7Zl) | 2:23 |
 | 33 | [The K\-Wang](https://open.spotify.com/track/08a5tq3SGdgj45GCnFDvlA) | [Khia](https://open.spotify.com/artist/3q7isf09BuwXLyR2khBs60), [DSD](https://open.spotify.com/artist/5iNFhXzTt8S6gLWss7qGGD) | [Thug Misses \(Digitally Remastered\)](https://open.spotify.com/album/4Xa2dq99gQqzGj4vq0rGoV) | 5:11 |
-| 34 | [Wat U Need](https://open.spotify.com/track/3IiE3DEdKaXLTtlSUPFhUn) | [E Chapo](https://open.spotify.com/artist/1B1yx0TYWWvufQuFoRqnL6) | [Wat U Need](https://open.spotify.com/album/0KcfQLwLhdChGUYeFTYv2b) | 2:01 |
-| 35 | [Bad Bitch](https://open.spotify.com/track/0yjysU3MF1nQTomE08AzIk) | [Yungeen Ace](https://open.spotify.com/artist/7hj7ffJe6UkF1gsMpuweSI) | [Bad Bitch](https://open.spotify.com/album/2l8eQxgr9G7Eioo54WbJg3) | 2:15 |
+| 34 | [Bad Bitch](https://open.spotify.com/track/0yjysU3MF1nQTomE08AzIk) | [Yungeen Ace](https://open.spotify.com/artist/7hj7ffJe6UkF1gsMpuweSI) | [Bad Bitch](https://open.spotify.com/album/2l8eQxgr9G7Eioo54WbJg3) | 2:15 |
+| 35 | [Wat U Need](https://open.spotify.com/track/3IiE3DEdKaXLTtlSUPFhUn) | [E Chapo](https://open.spotify.com/artist/1B1yx0TYWWvufQuFoRqnL6) | [Wat U Need](https://open.spotify.com/album/0KcfQLwLhdChGUYeFTYv2b) | 2:01 |
 | 36 | [Spend Sum Cash](https://open.spotify.com/track/0x8xbM5MEduFnFKlRqEmX0) | [LightSkinKeisha](https://open.spotify.com/artist/6LIcR4928YAJqYcYD1P2mM) | [Talk That Talk](https://open.spotify.com/album/5Ege4j1dUjJV2i0eHeBDbh) | 2:34 |
 | 37 | [Rap Shit](https://open.spotify.com/track/0m5UGpHzwWRlgky0dmhogh) | [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il) | [PERIOD](https://open.spotify.com/album/1Lj2lKxrwpvuZkKjZAgrKl) | 2:31 |
 | 38 | [No Problem](https://open.spotify.com/track/5gasQQR5ZhOvrGpY0vULWL) | [Tokyo Jetz](https://open.spotify.com/artist/3KT0gxRAAb4WbAfOGMq4Lf) | [Bonafide](https://open.spotify.com/album/12yyugwE4MM1KkeIrmppjv) | 2:47 |
@@ -57,4 +57,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzh3WlsCZMx.md) - [plain]
 | 47 | [Hood Baby](https://open.spotify.com/track/5Elw813HnizJdMcnGAvVUK) | [Hood Brat](https://open.spotify.com/artist/6lXxD7jB6A4GBp8FIj4Drd) | [Hood Baby](https://open.spotify.com/album/3epVF8JDjLOAbMbWXL2SdO) | 2:40 |
 | 48 | [Gucci Bag](https://open.spotify.com/track/3pNeE3ImWzplc0tnUpmh2a) | [Big Jade](https://open.spotify.com/artist/50ZeZoB1p1mg7V2iGTI6od) | [Pressure](https://open.spotify.com/album/7ChOeB6OLdPZcNyBNMboB8) | 2:15 |
 
-Snapshot ID: `MCw0YTcxZGJhODNlOTNiY2M1N2RhNmM2YTA2YTE1Mjc5NWE3MjZmYTMy`
+Snapshot ID: `MCxhNTNiYzIwMjY2NzczYzJhYmYzYjQzMDdhMWFiYTQ0YWU4M2RiZDJm`

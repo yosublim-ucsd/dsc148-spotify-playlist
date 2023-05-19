@@ -1,12 +1,12 @@
 {
   "description": "Um bom sambinha para acompanhar cada gole.",
-  "num_followers": 227371,
+  "num_followers": 227390,
   "original_name": "Caipirinha",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhNGI5N2U5MjA4NDZmMDVhNWI3MTBhNWNjODY2N2NkZjlkYTY0NmFi",
+  "snapshot_id": "MCxjZDQ5MmY1ZDk2MmY2YzMxZTYwOTJmM2IwMDVhMzUzZWM5ZGY1Yzg0",
   "tracks": [
     {
       "added_at": "2023-01-25 16:05:09",
@@ -723,22 +723,6 @@
     {
       "added_at": "2023-01-25 16:05:09",
       "album": {
-        "name": "Quatro Grandes Do Samba",
-        "url": "https://open.spotify.com/album/6qmP5pJpulEEaQK9YQtvI2"
-      },
-      "artists": [
-        {
-          "name": "Elton Medeiros",
-          "url": "https://open.spotify.com/artist/4kJdvLeXdVp1o5WjnrehLV"
-        }
-      ],
-      "duration_ms": 144240,
-      "name": "Chove e N\u00e3o Molha",
-      "url": "https://open.spotify.com/track/0DLLQHCiMG1HMljBqFU8KF"
-    },
-    {
-      "added_at": "2023-01-25 16:05:09",
-      "album": {
         "name": "Vers\u00e1til",
         "url": "https://open.spotify.com/album/6QLdS0DHJp6v493GZr9KOM"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 246733,
       "name": "Nas Asas da Can\u00e7\u00e3o",
       "url": "https://open.spotify.com/track/7gW3883SbE306v3X4pKTWN"
+    },
+    {
+      "added_at": "2023-01-25 16:05:09",
+      "album": {
+        "name": "Quatro Grandes Do Samba",
+        "url": "https://open.spotify.com/album/6qmP5pJpulEEaQK9YQtvI2"
+      },
+      "artists": [
+        {
+          "name": "Elton Medeiros",
+          "url": "https://open.spotify.com/artist/4kJdvLeXdVp1o5WjnrehLV"
+        }
+      ],
+      "duration_ms": 144240,
+      "name": "Chove e N\u00e3o Molha",
+      "url": "https://open.spotify.com/track/0DLLQHCiMG1HMljBqFU8KF"
     },
     {
       "added_at": "2023-01-25 16:05:09",
@@ -935,22 +935,6 @@
     {
       "added_at": "2023-01-25 16:05:09",
       "album": {
-        "name": "Focus - O Essencial de Jo\u00e3o Nogueira",
-        "url": "https://open.spotify.com/album/1V4HN6xdGBhu4u6wB2pNsI"
-      },
-      "artists": [
-        {
-          "name": "Jo\u00e3o Nogueira",
-          "url": "https://open.spotify.com/artist/5gcpKqNGPhEtKW5G1ZUZPK"
-        }
-      ],
-      "duration_ms": 168560,
-      "name": "Boteco do Arlindo",
-      "url": "https://open.spotify.com/track/0zRnv0rsYvYNdt9as7kHmm"
-    },
-    {
-      "added_at": "2023-01-25 16:05:09",
-      "album": {
         "name": "A Voz Do Samba (Disco 03)",
         "url": "https://open.spotify.com/album/5YhN39hwkvR7TLaFJihcsR"
       },
@@ -963,6 +947,22 @@
       "duration_ms": 189080,
       "name": "Exalta\u00e7\u00e3o \u00e0 mangueira",
       "url": "https://open.spotify.com/track/1LUL95mWeAqJExfFImkub9"
+    },
+    {
+      "added_at": "2023-01-25 16:05:09",
+      "album": {
+        "name": "Focus - O Essencial de Jo\u00e3o Nogueira",
+        "url": "https://open.spotify.com/album/1V4HN6xdGBhu4u6wB2pNsI"
+      },
+      "artists": [
+        {
+          "name": "Jo\u00e3o Nogueira",
+          "url": "https://open.spotify.com/artist/5gcpKqNGPhEtKW5G1ZUZPK"
+        }
+      ],
+      "duration_ms": 168560,
+      "name": "Boteco do Arlindo",
+      "url": "https://open.spotify.com/track/0zRnv0rsYvYNdt9as7kHmm"
     },
     {
       "added_at": "2023-01-25 16:05:09",

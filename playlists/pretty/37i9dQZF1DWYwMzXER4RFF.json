@@ -1,12 +1,12 @@
 {
   "description": "New no wave, post-punk, and anything else. Cover: Squid",
-  "num_followers": 264516,
+  "num_followers": 264623,
   "original_name": "Post Punk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3YTQ1MzlmY2YzNmY0Nzk5YjIyYjcyN2IxMjA2OGI5YTQ2YTAzOTk0",
+  "snapshot_id": "MCw0NTc3YzZmODllZmNhNmNiYWE1NjQwNzMxMTJkM2E5ZWRkYzY2MGY1",
   "tracks": [
     {
       "added_at": "2023-02-24 00:00:00",
@@ -201,7 +201,7 @@
       "url": "https://open.spotify.com/track/7MNQ2TrYIuHshXOdryrdg2"
     },
     {
-      "added_at": "2023-05-18 01:00:01",
+      "added_at": "2023-05-19 01:06:31",
       "album": {
         "name": "American Nightmare",
         "url": "https://open.spotify.com/album/6zaXhrtWGMMJP4ty8XyMiT"
@@ -315,18 +315,18 @@
     {
       "added_at": "2023-02-24 00:00:00",
       "album": {
-        "name": "Stumpwork",
-        "url": "https://open.spotify.com/album/64OXKq9VK1geZd3Q9OpoBO"
+        "name": "Orc",
+        "url": "https://open.spotify.com/album/6UqkJtjad0HIClK1ndqCsd"
       },
       "artists": [
         {
-          "name": "Dry Cleaning",
-          "url": "https://open.spotify.com/artist/7DlD7rLG9MKuvXtTeACzkO"
+          "name": "Thee Oh Sees",
+          "url": "https://open.spotify.com/artist/3qYfqdVwX0fil71onLpLkh"
         }
       ],
-      "duration_ms": 165440,
-      "name": "Kwenchy Kups",
-      "url": "https://open.spotify.com/track/3ZJw4Fh6FZzEWXvBxPbpr4"
+      "duration_ms": 177120,
+      "name": "Nite Expo",
+      "url": "https://open.spotify.com/track/4MMUZtRnaz25sXteRs2mXl"
     },
     {
       "added_at": "2023-02-24 00:00:00",
@@ -363,21 +363,21 @@
     {
       "added_at": "2023-02-24 00:00:00",
       "album": {
-        "name": "Orc",
-        "url": "https://open.spotify.com/album/6UqkJtjad0HIClK1ndqCsd"
+        "name": "Stumpwork",
+        "url": "https://open.spotify.com/album/64OXKq9VK1geZd3Q9OpoBO"
       },
       "artists": [
         {
-          "name": "Thee Oh Sees",
-          "url": "https://open.spotify.com/artist/3qYfqdVwX0fil71onLpLkh"
+          "name": "Dry Cleaning",
+          "url": "https://open.spotify.com/artist/7DlD7rLG9MKuvXtTeACzkO"
         }
       ],
-      "duration_ms": 177120,
-      "name": "Nite Expo",
-      "url": "https://open.spotify.com/track/4MMUZtRnaz25sXteRs2mXl"
+      "duration_ms": 165440,
+      "name": "Kwenchy Kups",
+      "url": "https://open.spotify.com/track/3ZJw4Fh6FZzEWXvBxPbpr4"
     },
     {
-      "added_at": "2023-05-18 01:00:01",
+      "added_at": "2023-05-19 01:06:31",
       "album": {
         "name": "Make Way",
         "url": "https://open.spotify.com/album/12nD6G0SKG9fB4SvWvOOEm"
@@ -393,7 +393,7 @@
       "url": "https://open.spotify.com/track/0l4s1zVinY9jEYJecDDlaQ"
     },
     {
-      "added_at": "2023-05-18 01:00:01",
+      "added_at": "2023-05-19 01:06:31",
       "album": {
         "name": "Nurse!",
         "url": "https://open.spotify.com/album/3MJd0JLuUE5OKkZCnpPcuI"
@@ -459,22 +459,6 @@
     {
       "added_at": "2023-02-24 00:00:00",
       "album": {
-        "name": "Sweet Princess EP",
-        "url": "https://open.spotify.com/album/0KRCyLdLWJioBvbXi4ZdRR"
-      },
-      "artists": [
-        {
-          "name": "Dry Cleaning",
-          "url": "https://open.spotify.com/artist/7DlD7rLG9MKuvXtTeACzkO"
-        }
-      ],
-      "duration_ms": 230121,
-      "name": "Magic of Meghan",
-      "url": "https://open.spotify.com/track/0L1yjgPN1zIGLYP6TjVgHR"
-    },
-    {
-      "added_at": "2023-02-24 00:00:00",
-      "album": {
         "name": "Sun Coming Down",
         "url": "https://open.spotify.com/album/4MxLa2uPSGSus8XCSivcOD"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 453211,
       "name": "The Cleaner",
       "url": "https://open.spotify.com/track/5JCJRbheraNHacbn9v1UWg"
+    },
+    {
+      "added_at": "2023-02-24 00:00:00",
+      "album": {
+        "name": "Sweet Princess EP",
+        "url": "https://open.spotify.com/album/0KRCyLdLWJioBvbXi4ZdRR"
+      },
+      "artists": [
+        {
+          "name": "Dry Cleaning",
+          "url": "https://open.spotify.com/artist/7DlD7rLG9MKuvXtTeACzkO"
+        }
+      ],
+      "duration_ms": 230121,
+      "name": "Magic of Meghan",
+      "url": "https://open.spotify.com/track/0L1yjgPN1zIGLYP6TjVgHR"
     },
     {
       "added_at": "2023-02-24 00:00:00",
@@ -751,18 +751,18 @@
     {
       "added_at": "2023-02-24 00:00:00",
       "album": {
-        "name": "Broke",
-        "url": "https://open.spotify.com/album/7dZ9qTh9zCpCnsL7rg3USY"
+        "name": "Every Bad (Expanded Edition)",
+        "url": "https://open.spotify.com/album/5SyZ2QPyDPteAM9i1AYlfA"
       },
       "artists": [
         {
-          "name": "Scott Lavene",
-          "url": "https://open.spotify.com/artist/6dpTFwhi4Z3QIJeOxjZB3n"
+          "name": "Porridge Radio",
+          "url": "https://open.spotify.com/artist/4vAQ4M7vgItwBtmBTgRu48"
         }
       ],
-      "duration_ms": 481813,
-      "name": "Broke",
-      "url": "https://open.spotify.com/track/2AWol3mrxzUfXb171vO7Jw"
+      "duration_ms": 222840,
+      "name": "Sweet",
+      "url": "https://open.spotify.com/track/31urhIUG28rfxy6PzU6hQq"
     },
     {
       "added_at": "2023-02-24 00:00:00",
@@ -783,18 +783,18 @@
     {
       "added_at": "2023-02-24 00:00:00",
       "album": {
-        "name": "Every Bad (Expanded Edition)",
-        "url": "https://open.spotify.com/album/5SyZ2QPyDPteAM9i1AYlfA"
+        "name": "Broke",
+        "url": "https://open.spotify.com/album/7dZ9qTh9zCpCnsL7rg3USY"
       },
       "artists": [
         {
-          "name": "Porridge Radio",
-          "url": "https://open.spotify.com/artist/4vAQ4M7vgItwBtmBTgRu48"
+          "name": "Scott Lavene",
+          "url": "https://open.spotify.com/artist/6dpTFwhi4Z3QIJeOxjZB3n"
         }
       ],
-      "duration_ms": 222840,
-      "name": "Sweet",
-      "url": "https://open.spotify.com/track/31urhIUG28rfxy6PzU6hQq"
+      "duration_ms": 481813,
+      "name": "Broke",
+      "url": "https://open.spotify.com/track/2AWol3mrxzUfXb171vO7Jw"
     },
     {
       "added_at": "2023-02-24 00:00:00",
@@ -861,6 +861,22 @@
       "url": "https://open.spotify.com/track/3rIii6N9TMUWA4ObdkfJvw"
     },
     {
+      "added_at": "2023-05-19 01:06:31",
+      "album": {
+        "name": "Knocknarea",
+        "url": "https://open.spotify.com/album/1hb0fuPRhbd1uStttAaalz"
+      },
+      "artists": [
+        {
+          "name": "Maruja",
+          "url": "https://open.spotify.com/artist/71ISXR7gtIq5E2AdI3jGf0"
+        }
+      ],
+      "duration_ms": 402666,
+      "name": "Kakistocracy",
+      "url": "https://open.spotify.com/track/58GZTiV4Ek3ZV8DygP5u6R"
+    },
+    {
       "added_at": "2023-02-24 00:00:00",
       "album": {
         "name": "Feel Nothing",
@@ -879,22 +895,6 @@
       "duration_ms": 331693,
       "name": "Feel Nothing",
       "url": "https://open.spotify.com/track/2xLhpVdgziewWHydp0csEn"
-    },
-    {
-      "added_at": "2023-05-18 01:00:01",
-      "album": {
-        "name": "Knocknarea",
-        "url": "https://open.spotify.com/album/1hb0fuPRhbd1uStttAaalz"
-      },
-      "artists": [
-        {
-          "name": "Maruja",
-          "url": "https://open.spotify.com/artist/71ISXR7gtIq5E2AdI3jGf0"
-        }
-      ],
-      "duration_ms": 402666,
-      "name": "Kakistocracy",
-      "url": "https://open.spotify.com/track/58GZTiV4Ek3ZV8DygP5u6R"
     }
   ],
   "unique_name": "Post Punk",

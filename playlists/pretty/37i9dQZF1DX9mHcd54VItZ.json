@@ -1,13 +1,45 @@
 {
-  "description": "The best new sounds of South African Rock. Cover: <a href=\"https://open.spotify.com/artist/6nEhQq8FIrP4VY4lixkdZD?si=Jh0Glls2SRCboWgloRfa3g\">Cindy-Louise</a> ",
-  "num_followers": 13026,
+  "description": "The best new sounds of South African Rock. Cover: <a href=\"https://open.spotify.com/artist/3oBP043HsDnok9FzprqPce?si=hZ1ApRGWSNivx0tNttlAzQ\">The Tazers</a> ",
+  "num_followers": 13031,
   "original_name": "SA Rock ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5YzAyNWNiNjVmZTA0Njc4MjU4YmNjMTJlMTA1MThlNmUwMzQxNzhi",
+  "snapshot_id": "MCxiNjRjZGUwNGVjYzQ4NTUwYTdiYTc3OTBjZWM5OWI2ZmIyNTkzMDc2",
   "tracks": [
+    {
+      "added_at": "2023-05-18 21:59:00",
+      "album": {
+        "name": "Fuzz Machine EP",
+        "url": "https://open.spotify.com/album/06IXnbdQxlYFYi7Ve7wB2F"
+      },
+      "artists": [
+        {
+          "name": "The Tazers",
+          "url": "https://open.spotify.com/artist/3oBP043HsDnok9FzprqPce"
+        }
+      ],
+      "duration_ms": 200788,
+      "name": "Berlin",
+      "url": "https://open.spotify.com/track/6unYH2tMnh3iCOHUW8ep8j"
+    },
+    {
+      "added_at": "2023-05-18 21:59:00",
+      "album": {
+        "name": "Killing Time",
+        "url": "https://open.spotify.com/album/1zHfXySzYnUNA4vWAinERg"
+      },
+      "artists": [
+        {
+          "name": "Hunter Kennedy",
+          "url": "https://open.spotify.com/artist/1ZMCOQhfU6y2jzMHXooyKi"
+        }
+      ],
+      "duration_ms": 171254,
+      "name": "Killing Time",
+      "url": "https://open.spotify.com/track/1tAYM3JLn8gynNMHCUcIAj"
+    },
     {
       "added_at": "2023-05-11 21:59:00",
       "album": {
@@ -27,18 +59,18 @@
     {
       "added_at": "2023-05-05 04:14:59",
       "album": {
-        "name": "Die Lig",
-        "url": "https://open.spotify.com/album/01fK6z5VKKuI8s209yzcnb"
+        "name": "Verby",
+        "url": "https://open.spotify.com/album/0F7M5RLUaX36HO8wYf2vYF"
       },
       "artists": [
         {
-          "name": "Glaskas",
-          "url": "https://open.spotify.com/artist/3mbYAsXro0k8Rvi9GrMPPn"
+          "name": "Swerwer",
+          "url": "https://open.spotify.com/artist/2Agm0pczmzwW1mpWQjioPJ"
         }
       ],
-      "duration_ms": 145528,
-      "name": "Die Lig",
-      "url": "https://open.spotify.com/track/4krdsYOyRq3LLDW55H654R"
+      "duration_ms": 229293,
+      "name": "Verby",
+      "url": "https://open.spotify.com/track/6pC0NcinYQDKgTyQVr0fTz"
     },
     {
       "added_at": "2023-03-16 21:59:00",
@@ -61,6 +93,22 @@
       "url": "https://open.spotify.com/track/77YX4Et5rOuvhQqG7RLUfe"
     },
     {
+      "added_at": "2023-05-05 04:14:59",
+      "album": {
+        "name": "Die Lig",
+        "url": "https://open.spotify.com/album/01fK6z5VKKuI8s209yzcnb"
+      },
+      "artists": [
+        {
+          "name": "Glaskas",
+          "url": "https://open.spotify.com/artist/3mbYAsXro0k8Rvi9GrMPPn"
+        }
+      ],
+      "duration_ms": 145528,
+      "name": "Die Lig",
+      "url": "https://open.spotify.com/track/4krdsYOyRq3LLDW55H654R"
+    },
+    {
       "added_at": "2023-05-11 21:59:00",
       "album": {
         "name": "The Monday Song",
@@ -75,22 +123,6 @@
       "duration_ms": 142045,
       "name": "The Monday Song",
       "url": "https://open.spotify.com/track/1xjVX1qvj8x8vNC86hMmuR"
-    },
-    {
-      "added_at": "2023-05-05 04:14:59",
-      "album": {
-        "name": "Verby",
-        "url": "https://open.spotify.com/album/0F7M5RLUaX36HO8wYf2vYF"
-      },
-      "artists": [
-        {
-          "name": "Swerwer",
-          "url": "https://open.spotify.com/artist/2Agm0pczmzwW1mpWQjioPJ"
-        }
-      ],
-      "duration_ms": 229293,
-      "name": "Verby",
-      "url": "https://open.spotify.com/track/6pC0NcinYQDKgTyQVr0fTz"
     },
     {
       "added_at": "2023-05-11 21:59:00",
@@ -223,6 +255,22 @@
       "duration_ms": 151739,
       "name": "Self Control",
       "url": "https://open.spotify.com/track/2k9SemDo0Hgm1UDtnJP3ki"
+    },
+    {
+      "added_at": "2023-05-18 21:59:00",
+      "album": {
+        "name": "Prisoner of Love",
+        "url": "https://open.spotify.com/album/3LH67r1FHNlrDCr0adjRBA"
+      },
+      "artists": [
+        {
+          "name": "Marene",
+          "url": "https://open.spotify.com/artist/5CMKKbyPMl9Ry6Kl1m8u1I"
+        }
+      ],
+      "duration_ms": 208495,
+      "name": "Prisoner of Love",
+      "url": "https://open.spotify.com/track/1awNiZPBxrCpEwgJpEPUGI"
     },
     {
       "added_at": "2023-04-20 21:59:00",
@@ -717,22 +765,6 @@
       "url": "https://open.spotify.com/track/6raknpOUrMns81fs28m5xl"
     },
     {
-      "added_at": "2023-03-09 21:59:00",
-      "album": {
-        "name": "Damwal",
-        "url": "https://open.spotify.com/album/5aTy7ndoDNzd2ndsfbQ1I2"
-      },
-      "artists": [
-        {
-          "name": "Andr\u00e9 Visagie",
-          "url": "https://open.spotify.com/artist/2iFXBPX3DpgZid32e9QqUK"
-        }
-      ],
-      "duration_ms": 195117,
-      "name": "Damwal",
-      "url": "https://open.spotify.com/track/2JMDWqOSByeWD9f2SpyXtK"
-    },
-    {
       "added_at": "2023-03-23 21:59:00",
       "album": {
         "name": "Carry The Sun",
@@ -749,22 +781,6 @@
       "url": "https://open.spotify.com/track/3VdOVX3NblTOCcm7FmoXZe"
     },
     {
-      "added_at": "2023-03-02 21:59:00",
-      "album": {
-        "name": "Anima",
-        "url": "https://open.spotify.com/album/1d5hvQ7OYkZmpVfMLf9Vqj"
-      },
-      "artists": [
-        {
-          "name": "Sue\u00f1os",
-          "url": "https://open.spotify.com/artist/3AOLvJjBisGaLoFRWsVOPL"
-        }
-      ],
-      "duration_ms": 322500,
-      "name": "Anima",
-      "url": "https://open.spotify.com/track/4Qyg5bCO8wA2K5KB3iZf7D"
-    },
-    {
       "added_at": "2023-02-16 21:59:00",
       "album": {
         "name": "Revolusie",
@@ -779,22 +795,6 @@
       "duration_ms": 201932,
       "name": "Revolusie",
       "url": "https://open.spotify.com/track/50Rbi8JYsD1kWfIQB4RsTg"
-    },
-    {
-      "added_at": "2023-02-16 21:59:00",
-      "album": {
-        "name": "A Million Ways to Die",
-        "url": "https://open.spotify.com/album/02HSRazAjXl47xl0F62CT3"
-      },
-      "artists": [
-        {
-          "name": "A MILLION WAYS TO DIE",
-          "url": "https://open.spotify.com/artist/5sItFxUca07yQu3TkbBp9U"
-        }
-      ],
-      "duration_ms": 361839,
-      "name": "Cat People (Putting out Fire)",
-      "url": "https://open.spotify.com/track/235kuiRl7LYWJuJ0JnDw1j"
     },
     {
       "added_at": "2023-03-23 21:59:00",

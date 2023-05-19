@@ -1,12 +1,12 @@
 {
   "description": "Rock that was on repeat during the summers of the 1990s.",
-  "num_followers": 65583,
+  "num_followers": 65634,
   "original_name": "90s Summer Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0Mzc0ODc5ZjY0MWYxOGY3Y2Y4ZGZlYjExOWFkMWU2ZWRiNTU3MzBi",
+  "snapshot_id": "MCwxYzNlOWFmOWEwNjY1ZDkxOGZiNjg4Njc4ZGRlMmM3NTgwMTNlOTM1",
   "tracks": [
     {
       "added_at": "2022-11-17 16:12:41",
@@ -443,22 +443,6 @@
     {
       "added_at": "2022-11-17 16:12:41",
       "album": {
-        "name": "(What's The Story) Morning Glory? (Deluxe Remastered Edition)",
-        "url": "https://open.spotify.com/album/6tOe4eAF8xNhEkl9WyvsE4"
-      },
-      "artists": [
-        {
-          "name": "Oasis",
-          "url": "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4"
-        }
-      ],
-      "duration_ms": 289560,
-      "name": "Don't Look Back In Anger - Remastered",
-      "url": "https://open.spotify.com/track/12dU3vAh6AFoJkisorfoUl"
-    },
-    {
-      "added_at": "2022-11-17 16:12:41",
-      "album": {
         "name": "Jagged Little Pill (2015 Remaster)",
         "url": "https://open.spotify.com/album/5Ap3F8CxjjsQKZGASDcHNA"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 230000,
       "name": "Ironic - 2015 Remaster",
       "url": "https://open.spotify.com/track/1d6KS9GH06JAd19uiBy9IE"
+    },
+    {
+      "added_at": "2022-11-17 16:12:41",
+      "album": {
+        "name": "(What's The Story) Morning Glory? (Deluxe Remastered Edition)",
+        "url": "https://open.spotify.com/album/6tOe4eAF8xNhEkl9WyvsE4"
+      },
+      "artists": [
+        {
+          "name": "Oasis",
+          "url": "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4"
+        }
+      ],
+      "duration_ms": 289560,
+      "name": "Don't Look Back In Anger - Remastered",
+      "url": "https://open.spotify.com/track/12dU3vAh6AFoJkisorfoUl"
     },
     {
       "added_at": "2022-11-17 16:12:41",

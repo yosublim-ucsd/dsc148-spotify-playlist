@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbj3m6LiQbmy.md) - [plain]
 
 > Free to be! Musica dalla comunità LGBQTIA+ italiana e dai suoi alleati\. Queen Of Saba e BigMama in cover! ✨
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,467 likes - 75 songs - 4 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,476 likes - 75 songs - 4 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbj3m6LiQbmy.md) - [plain]
 | 74 | [LANCIA DELTA INTEGRALE](https://open.spotify.com/track/2OVzSn3M49qQowsrZ9pTeI) | [European Vampire](https://open.spotify.com/artist/34jhkGXXN6BTviKzLoQXaS) | [FOREVER SPEEDING THROUGH DARKNESS](https://open.spotify.com/album/3NExizUBa6zdL1pMFZqnKO) | 3:51 |
 | 75 | [Fammi sapere](https://open.spotify.com/track/5lim6ILbLLRo2klC4C3JhJ) | [Santissima Vicky](https://open.spotify.com/artist/1SVjhg7V450B2W9zcn9dZY) | [Fammi sapere](https://open.spotify.com/album/5BLc0gWZEp3CQvyEpSO5p0) | 2:55 |
 
-Snapshot ID: `MCw2NDljOTYyZDRiNjE5OTI2OTViMWJjY2YyOGU0NjQyY2FhNWUyYTZm`
+Snapshot ID: `MCwxMWI4ZGM5ZTUwNjYxNDM0M2ViOTA4ZmY2ZTNiMWU5MTA1NjA5OTEw`

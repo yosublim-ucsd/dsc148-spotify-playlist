@@ -1,12 +1,12 @@
 {
   "description": "The most innovative and forward thinking metal right now. Cover: Static-X",
-  "num_followers": 238790,
+  "num_followers": 239085,
   "original_name": "Alternative Metal",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhYTYzODQwN2EyNDNlMWVhOTcyMzhlYjViZDU0YmNkM2Y5M2NlOThm",
+  "snapshot_id": "MCw5MmRiMjJmNmI5MzUzNjYxODYwNWIwY2RjN2JjNzY4MDhjMDY1NzZi",
   "tracks": [
     {
       "added_at": "2022-11-18 01:42:16",
@@ -963,6 +963,22 @@
     {
       "added_at": "2022-11-18 01:42:16",
       "album": {
+        "name": "Flowers of Evil",
+        "url": "https://open.spotify.com/album/0VYuTYQPftcTUmq2ehYlzV"
+      },
+      "artists": [
+        {
+          "name": "Ulver",
+          "url": "https://open.spotify.com/artist/6bYFkBNvayh3nGqxcPp7Sv"
+        }
+      ],
+      "duration_ms": 235000,
+      "name": "Russian Doll",
+      "url": "https://open.spotify.com/track/5KY4Km7rllwWovNNU8hhPt"
+    },
+    {
+      "added_at": "2022-11-18 01:42:16",
+      "album": {
         "name": "Telescope",
         "url": "https://open.spotify.com/album/5G4YhsTHSNpLSAutMvL80X"
       },
@@ -979,18 +995,18 @@
     {
       "added_at": "2022-11-18 01:42:16",
       "album": {
-        "name": "Flowers of Evil",
-        "url": "https://open.spotify.com/album/0VYuTYQPftcTUmq2ehYlzV"
+        "name": "Part Of Me",
+        "url": "https://open.spotify.com/album/24HkFJ9oUSMDFdsE4yYyBc"
       },
       "artists": [
         {
-          "name": "Ulver",
-          "url": "https://open.spotify.com/artist/6bYFkBNvayh3nGqxcPp7Sv"
+          "name": "Afterlife",
+          "url": "https://open.spotify.com/artist/7LeHdLOuiySZgt7ewdckbX"
         }
       ],
-      "duration_ms": 235000,
-      "name": "Russian Doll",
-      "url": "https://open.spotify.com/track/5KY4Km7rllwWovNNU8hhPt"
+      "duration_ms": 212530,
+      "name": "Envy",
+      "url": "https://open.spotify.com/track/6UHkVaXaIioxAFmXmOyRfW"
     },
     {
       "added_at": "2023-03-03 00:00:00",
@@ -1011,22 +1027,6 @@
       "duration_ms": 166504,
       "name": "DODGE A BULLET",
       "url": "https://open.spotify.com/track/0VoNtFDVvqndbPHYnR7JYC"
-    },
-    {
-      "added_at": "2022-11-18 01:42:16",
-      "album": {
-        "name": "Part Of Me",
-        "url": "https://open.spotify.com/album/24HkFJ9oUSMDFdsE4yYyBc"
-      },
-      "artists": [
-        {
-          "name": "Afterlife",
-          "url": "https://open.spotify.com/artist/7LeHdLOuiySZgt7ewdckbX"
-        }
-      ],
-      "duration_ms": 212530,
-      "name": "Envy",
-      "url": "https://open.spotify.com/track/6UHkVaXaIioxAFmXmOyRfW"
     },
     {
       "added_at": "2022-11-18 01:42:16",

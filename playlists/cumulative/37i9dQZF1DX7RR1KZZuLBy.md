@@ -4,7 +4,7 @@
 
 > Listen to your favourite tunes for inspiration and upliftment.
 
-93 songs - 9 hr 7 min
+94 songs - 9 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,6 +40,7 @@
 | [Intentional](https://open.spotify.com/track/7amI71zqlFSwDF3jFjHa2l) | [Travis Greene](https://open.spotify.com/artist/22JNV0JWTJkY1qzKJhxdRe) | [The Hill](https://open.spotify.com/album/2RJxSCEQJGBeJHej3IM2cV) | 5:09 | 2018-09-23 |  |
 | [Jehovah Is Your Name \(Live\)](https://open.spotify.com/track/0kL3Q9FIhGS8vplV3HMGrK) | [Ntokozo Mbambo](https://open.spotify.com/artist/3neEMGDQjPZ0DBCPKgW4og) | [Spirit and Life](https://open.spotify.com/album/5LXmSfdbz5yTJD6TgnSPaC) | 7:38 | 2018-09-23 | 2023-04-09 |
 | [Jehovah Is Your Name \- Live](https://open.spotify.com/track/1HTKLiju70vqy48PSoouCN) | [Ntokozo Mbambo](https://open.spotify.com/artist/3neEMGDQjPZ0DBCPKgW4og) | [Spirit and Life](https://open.spotify.com/album/6p0LBheyF3ZI3W03CSuUsY) | 7:38 | 2023-02-21 |  |
+| [Jehovah Ngiyabonga](https://open.spotify.com/track/2oelkq0zqxdXqMRv7T4CoY) | [Deborah Fraser](https://open.spotify.com/artist/0vFuRv3NvGd3RFx6gwSziQ), [Big Zulu](https://open.spotify.com/artist/6sNKQgLUy4LVNEX3r1kG1A) | [Jehovah Ngiyabonga](https://open.spotify.com/album/1PmboZPhLlapJIGYhz42ZD) | 3:54 | 2023-05-19 |  |
 | [Jireh \(feat\. Chandler Moore & Naomi Raine\)](https://open.spotify.com/track/1goiRWxiG3GTlODrdDZ7NR) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix), [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV), [Chandler Moore](https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk), [Naomi Raine](https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD) | [Old Church Basement](https://open.spotify.com/album/1lsf7hKaOd3r214nvwmtwg) | 9:58 | 2023-04-21 |  |
 | [Jireh \(feat\. Chandler Moore & Naomi Raine\)](https://open.spotify.com/track/7yu4816uyIqXiPvALxL44y) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix), [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV), [Chandler Moore](https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk), [Naomi Raine](https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD) | [Jireh \(feat\. Chandler Moore & Naomi Raine\)](https://open.spotify.com/album/4l5yZalv0TVl70Xe13dFjl) | 9:58 | 2021-07-23 | 2023-05-12 |
 | [King Of Kings](https://open.spotify.com/track/6kmhapLx51lmwhIIDFsUQU) | [Hillsong Worship](https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24), [Brooke Ligertwood](https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC) | [King Of Kings](https://open.spotify.com/album/30RfU2mnzbrCsnZA4TSCcY) | 4:25 | 2019-08-18 | 2023-04-21 |

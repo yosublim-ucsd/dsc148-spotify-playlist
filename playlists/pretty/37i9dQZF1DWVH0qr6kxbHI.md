@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVH0qr6kxbHI.md) - [plain]
 
 > Canciones inmortales, sentimientos a flor de piel y figuras gigantescas de nuestra música\. Foto: Rocío Jurado
 
-[Spotify](https://open.spotify.com/user/spotify) - 56,329 likes - 70 songs - 4 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,405 likes - 70 songs - 4 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVH0qr6kxbHI.md) - [plain]
 | 39 | [A Tu Vera](https://open.spotify.com/track/4awJGQ6TIS542X4XS7PWu7) | [Lola Flores](https://open.spotify.com/artist/1ZcvF2meiXi5UPDJWxrKR5) | [La Inimitable](https://open.spotify.com/album/1XgissTsraQasZKaNzxWvZ) | 3:28 |
 | 40 | [Fina Estampa \(with Miguel Poveda\) \- Con Miguel Poveda](https://open.spotify.com/track/1xONwDb3ux0Ld2q5mswsUE) | [Maria Dolores Pradera](https://open.spotify.com/artist/58LNn3iNPmmHusH1EkyBm4), [Miguel Poveda](https://open.spotify.com/artist/0BwjxWHTct80Qp5Xk7pxZj) | [Gracias A Vosotros](https://open.spotify.com/album/0U2kCRus4ANRCL4SoDkNRO) | 3:10 |
 | 41 | [Se nos rompió el amor](https://open.spotify.com/track/5V8MiatwmSYw80Teq4d3li) | [Rocío Jurado](https://open.spotify.com/artist/1FlYevYLENR3IMgMlnMvf9) | [Tan Solo Una Mujer](https://open.spotify.com/album/1rKjcPNljCVlg0gRHnENMd) | 4:31 |
-| 42 | [Y se amaron dos caballos](https://open.spotify.com/track/2VD2r9lDh1FgaoBI0H2K5Z) | [Maria Del Monte](https://open.spotify.com/artist/1WUrbWXyKy3FNdiLuRhlwW) | [De siempre \- Antología de las sevillanas Vol\. 1](https://open.spotify.com/album/28m2JE16jXiHf6z2Rqlj2R) | 3:35 |
-| 43 | [Sarandonga](https://open.spotify.com/track/5zyYWk0NT25VIpcvg1OJ53) | [Lolita](https://open.spotify.com/artist/1Jl0XzEt7csnco2FUybCrK) | [Grandes exitos](https://open.spotify.com/album/5QUmSZfBRoQbxCgGKCkTEP) | 4:00 |
+| 42 | [Sarandonga](https://open.spotify.com/track/5zyYWk0NT25VIpcvg1OJ53) | [Lolita](https://open.spotify.com/artist/1Jl0XzEt7csnco2FUybCrK) | [Grandes exitos](https://open.spotify.com/album/5QUmSZfBRoQbxCgGKCkTEP) | 4:00 |
+| 43 | [Y se amaron dos caballos](https://open.spotify.com/track/2VD2r9lDh1FgaoBI0H2K5Z) | [Maria Del Monte](https://open.spotify.com/artist/1WUrbWXyKy3FNdiLuRhlwW) | [De siempre \- Antología de las sevillanas Vol\. 1](https://open.spotify.com/album/28m2JE16jXiHf6z2Rqlj2R) | 3:35 |
 | 44 | [Amigo Conductor](https://open.spotify.com/track/27m6FU6uMMmrhiOwgIQAjh) | [Perlita de Huelva](https://open.spotify.com/artist/5zTPEWVkwm8Bl7ORmaPyyk) | [Amigo Conductor](https://open.spotify.com/album/3o56rtilWI16b1gFSKK1Ub) | 3:33 |
 | 45 | [Sola](https://open.spotify.com/track/2EMkMUHKcocs6BJatgmyfI) | [Diana Navarro](https://open.spotify.com/artist/2UPK6yJypnotLzHuUBiVa2) | [No te olvides de mi \(edicion original\)](https://open.spotify.com/album/1CNbzyIo5xgLVZz2nZLA1V) | 5:05 |
 | 46 | [Como Tu Mujer](https://open.spotify.com/track/48FyOW0CTVaPLFnWmOYDzB) | [Rocío Dúrcal](https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB) | [Mis Mejores Canciones](https://open.spotify.com/album/3t2qZdlJXoWGeenwUPD5qQ) | 4:25 |
@@ -65,7 +65,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVH0qr6kxbHI.md) - [plain]
 | 55 | [La niña de fuego](https://open.spotify.com/track/49cz5QoR3gQepQFTA6tjZu) | [Buika](https://open.spotify.com/artist/1gbXoccc8bjK8eUh92mILy) | [Niña de fuego \(Standard version\)](https://open.spotify.com/album/0ISrJWxZE7Pt54vQTcIhbP) | 3:39 |
 | 56 | [Que seas feliz](https://open.spotify.com/track/1nZMtFO99lI9ks0g3Iqugo) | [Mari Trini](https://open.spotify.com/artist/0CVHw8AAgA5brxfblp1lsQ) | [Escúchame](https://open.spotify.com/album/6xFDhmKZHP8nnUewCwcnTu) | 3:52 |
 | 57 | [El Talismán](https://open.spotify.com/track/2DY2ZBvw0YK4fha1Ou5zNv) | [Sole Gimenez](https://open.spotify.com/artist/56FObtReljLqgs2bgQ0kZS) | [Mujeres de Música](https://open.spotify.com/album/3R5uLGZ1DpE9HqG7Vgcoim) | 4:03 |
-| 58 | [La Violetera \- Remastered](https://open.spotify.com/track/7cUYlqeqJRM8OepKCQIRmL) | [Sara Montiel](https://open.spotify.com/artist/4wQ4PEx8pDp2f0wpsvaSDF) | [La Violetera \(Remastered\)](https://open.spotify.com/album/47V6DnBwIyOfoGKJRmfEMJ) | 3:42 |
+| 58 | [Quizas, Quizas, Quizas](https://open.spotify.com/track/1dbVT7RwxBekrWJ0UrPDZb) | [Sara Montiel](https://open.spotify.com/artist/4wQ4PEx8pDp2f0wpsvaSDF) | [The Ultimate Collection](https://open.spotify.com/album/3Sw6xkIaBH2eZtU727ONHX) | 2:43 |
 | 59 | [Tic\-Tac](https://open.spotify.com/track/0VzwC86lO5bxf89lvaoAjk) | [Maria Del Monte](https://open.spotify.com/artist/1WUrbWXyKy3FNdiLuRhlwW) | [Todo Vuelve](https://open.spotify.com/album/3Yrbz3zB4uZYxafoXDfueO) | 3:29 |
 | 60 | [En Un Mundo Raro](https://open.spotify.com/track/7pTetUpUv25OmBHfcnKpJa) | [Martirio](https://open.spotify.com/artist/7r4rviBG63cmxn51zRuMav), [Raúl Rodríguez](https://open.spotify.com/artist/7D4g7SmfRdE4JB7hLqpH6A) | [De Un Mundo Raro \(Cantes Por Chavela\)](https://open.spotify.com/album/6zbwiYItJzlQQQ9ee48x0W) | 3:11 |
 | 61 | [Te Quiero Te Quiero](https://open.spotify.com/track/4wOyIzfTP0i1SVfGd9yBPH) | [Carmen Sevilla](https://open.spotify.com/artist/0yy9TKpNruDeQ5FbhEXLOO) | [Carmen Sevilla : Sus Grandes Exitos](https://open.spotify.com/album/6LFXCD0B5MkbSLmVfph57R) | 3:04 |
@@ -74,9 +74,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVH0qr6kxbHI.md) - [plain]
 | 64 | [Tatuaje](https://open.spotify.com/track/1Q26vHr8z0X1MFfRPDwPDZ) | [Concha Piquer](https://open.spotify.com/artist/40AlBZ419hHc7DmwqAYeC0) | [Canciones De Oro](https://open.spotify.com/album/4uk4tv0wCcgsU4SbswJjO2) | 3:08 |
 | 65 | [Lagrimas Negras \(with Diego "El Cigala"\)](https://open.spotify.com/track/6jBq3phksLooRylCPSxzGb) | [Maria Dolores Pradera](https://open.spotify.com/artist/58LNn3iNPmmHusH1EkyBm4), [Diego El Cigala](https://open.spotify.com/artist/7mLYMGXg84miYydKwi2aRi) | [La Colección Definitiva](https://open.spotify.com/album/62TrSoP03z7TiX3ZXGANGg) | 3:46 |
 | 66 | [Alma Mía](https://open.spotify.com/track/2zDaBWpjsLnciaxQBU3mVY) | [Martirio](https://open.spotify.com/artist/7r4rviBG63cmxn51zRuMav), [Chano Dominguez](https://open.spotify.com/artist/63Znb1LZJ0KljCmhuxcRMI) | [A Bola De Nieve](https://open.spotify.com/album/0EI7n1PYhbPayZzbTaZt7o) | 4:22 |
-| 67 | [Quizas, Quizas, Quizas](https://open.spotify.com/track/1dbVT7RwxBekrWJ0UrPDZb) | [Sara Montiel](https://open.spotify.com/artist/4wQ4PEx8pDp2f0wpsvaSDF) | [The Ultimate Collection](https://open.spotify.com/album/3Sw6xkIaBH2eZtU727ONHX) | 2:43 |
+| 67 | [La Violetera \- Remastered](https://open.spotify.com/track/7cUYlqeqJRM8OepKCQIRmL) | [Sara Montiel](https://open.spotify.com/artist/4wQ4PEx8pDp2f0wpsvaSDF) | [La Violetera \(Remastered\)](https://open.spotify.com/album/47V6DnBwIyOfoGKJRmfEMJ) | 3:42 |
 | 68 | [Cántame](https://open.spotify.com/track/6p78Dg7LQNMwkVMj0O1Xso) | [Maria Del Monte](https://open.spotify.com/artist/1WUrbWXyKy3FNdiLuRhlwW) | [Mis Mejores Canciones, Vol\. I](https://open.spotify.com/album/7wnuSmCov535RfdpKzDENF) | 4:01 |
 | 69 | [Los Nardos](https://open.spotify.com/track/0Gx6gmh6jjeRmVlgLUXYA1) | [Sara Montiel](https://open.spotify.com/artist/4wQ4PEx8pDp2f0wpsvaSDF) | [Pecado de Amor \(Original Motion Picture\)](https://open.spotify.com/album/77Yz6Y1zfcuPBCPekPz8Pq) | 3:31 |
 | 70 | [El relicario \- Remastered](https://open.spotify.com/track/2DM5vKnZNSepFa7Nn3jAMF) | [Sara Montiel](https://open.spotify.com/artist/4wQ4PEx8pDp2f0wpsvaSDF) | [El relicario \(Remastered\)](https://open.spotify.com/album/59DG8gbZHmbrQSdDk4AKwh) | 3:48 |
 
-Snapshot ID: `MCw4OWMwMjc1MTZhZmUzMzU2NmViYTY2N2I2ZTQxOWUxMTBlZWY0MTcy`
+Snapshot ID: `MCw0MzljODcyMGYzZWE0OTQ0MmI1MDBmNjRhN2EzOTZhNjhhNDViY2Mx`

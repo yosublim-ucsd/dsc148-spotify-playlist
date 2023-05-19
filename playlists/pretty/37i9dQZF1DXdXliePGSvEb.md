@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdXliePGSvEb.md) - [plain]
 
 > Our favorite electronic songs from around the world this year\. Cover: Boris Brejcha
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,456 likes - 75 songs - 5 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,494 likes - 75 songs - 5 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [The Last Goodbye](https://open.spotify.com/track/2gQK13gXYZRq2MgvPJyHx8) | [ODESZA](https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw), [Bettye LaVette](https://open.spotify.com/artist/55U998XxmxjicLMKDSz6R3) | [The Last Goodbye](https://open.spotify.com/album/0xVucRYJf5luWLekMGYh3i) | 5:58 |
-| 2 | [Delilah \(pull me out of this\)](https://open.spotify.com/track/0Ftrkz2waaHcjKb4qYvLmz) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Delilah \(pull me out of this\)](https://open.spotify.com/album/24GbGX038jKJdzZ0KGAIxW) | 4:10 |
+| 2 | [Delilah \(Pull Me Out of This\)](https://open.spotify.com/track/0Ftrkz2waaHcjKb4qYvLmz) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Delilah \(pull me out of this\)](https://open.spotify.com/album/24GbGX038jKJdzZ0KGAIxW) | 4:10 |
 | 3 | [Water](https://open.spotify.com/track/09cgbbadzZSKFd1hGN23p5) | [Bicep](https://open.spotify.com/artist/73A3bLnfnz5BoQjb4gNCga), [Clara La San](https://open.spotify.com/artist/3u65Tx20y4WqxO7W7khEhj) | [Water](https://open.spotify.com/album/2IbvLEWok7hbkf5BBZaYBg) | 4:16 |
 | 4 | [Giving Up](https://open.spotify.com/track/07mOlP1DQv1ZsQTyCMNzaW) | [TSHA](https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh), [MAFRO](https://open.spotify.com/artist/2Y9v3pyVuYM0o8bSLAUUZm) | [Capricorn Sun](https://open.spotify.com/album/5maY5nikux4eBxcRCThzrA) | 3:23 |
 | 5 | [Up Down Jumper](https://open.spotify.com/track/0evYoPRWnnQ6ACNC0LJPul) | [Boris Brejcha](https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy) | [Up Down Jumper](https://open.spotify.com/album/77gAd4MCswYYXswGlBaLbv) | 7:12 |
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdXliePGSvEb.md) - [plain]
 | 25 | [Gunk](https://open.spotify.com/track/4Nv1liSp522fuF1AGu6Yxs) | [Overmono](https://open.spotify.com/artist/01PnN11ovfen6xUOHfNpn3) | [Cash Romantic](https://open.spotify.com/album/3HfF5JwfEDokXfW3NvY7Cs) | 5:14 |
 | 26 | [UUUU](https://open.spotify.com/track/6kTYzaFXsPsLUtmacp0xVX) | [WhoMadeWho](https://open.spotify.com/artist/50Lr1puweM1hFsF1LpIZLM), [Rampa](https://open.spotify.com/artist/08jywfUS0hp8XYlYs0cvz8) | [UUUU](https://open.spotify.com/album/7hPLIz9XcsRngTp4xZWbDU) | 6:29 |
 | 27 | [EYES](https://open.spotify.com/track/4ipoHe6bjN9IeXr8CGJYgR) | [The Blaze](https://open.spotify.com/artist/1Dt1UKLtrJIW1xxRBejjos) | [EYES](https://open.spotify.com/album/3Q5Eggq49qEGPF4ag1e0fO) | 3:32 |
-| 28 | [Do you miss me?](https://open.spotify.com/track/67r7ZHxVxONN9ZQk05AQVL) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [Do you miss me?](https://open.spotify.com/album/3Mp1zB42F2yqqOMEep7R3k) | 2:08 |
+| 28 | [Do You Miss Me?](https://open.spotify.com/track/67r7ZHxVxONN9ZQk05AQVL) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [Do you miss me?](https://open.spotify.com/album/3Mp1zB42F2yqqOMEep7R3k) | 2:08 |
 | 29 | [Miss The Days](https://open.spotify.com/track/6V6dHhxQHC935m5HmBEQ7p) | [SBTRKT](https://open.spotify.com/artist/1O10apSOoAPjOu6UhUNmeI) | [Miss The Days](https://open.spotify.com/album/2RR9j2toHQhD2V4bsr2DWK) | 3:40 |
 | 30 | [Happy Music](https://open.spotify.com/track/7uGpUhy4uf2UrHH7TyhM6C) | [Supershy](https://open.spotify.com/artist/2hk94pAZS1iYSqoICeTyh1) | [Happy Music / Something on My Mind](https://open.spotify.com/album/3UgxrgP8q9U0Zjz4t7PPGR) | 3:52 |
 | 31 | [Cherry](https://open.spotify.com/track/7qdthSAP02SdvLGisBEVtI) | [Daphni](https://open.spotify.com/artist/4nhvb6x9ZhPiYCzrHDNia9) | [Cherry](https://open.spotify.com/album/0cmEfkFvLVgKhLIUgGhRG5) | 5:55 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdXliePGSvEb.md) - [plain]
 | 74 | [Midnight Shift](https://open.spotify.com/track/7prfaRBYep3c2sDfpKWGlS) | [rRoxymore](https://open.spotify.com/artist/559oW3wcVAW5tcL1DQniyf) | [Midnight Shift](https://open.spotify.com/album/7LWahcOy2qcTH9YvWOOIB6) | 5:12 |
 | 75 | [Running](https://open.spotify.com/track/0VzV34W0NidIVjz6IPlEEV) | [Rival Consoles](https://open.spotify.com/artist/05lIUgmmsmTX2N9dCKc8rC) | [Now Is](https://open.spotify.com/album/5volqabPjMCyMnT1GZKYgz) | 4:11 |
 
-Snapshot ID: `MCw5Nzg1NjA4N2UyYWIzNWI2N2I3MmU4YzhkZDE4ODgwMTViNGU2NDJi`
+Snapshot ID: `MCwyYmJiODMxZjNmMWMzMmYyNTlkNzE3NDEzMmRjN2Y2MjMwNGE2Y2Jh`

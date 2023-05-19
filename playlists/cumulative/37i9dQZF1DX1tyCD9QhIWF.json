@@ -5,6 +5,24 @@
   "tracks": [
     {
       "album": {
+        "name": "All The Problems",
+        "url": "https://open.spotify.com/album/5tApkeDzogxfZB7DOoukd2"
+      },
+      "artists": [
+        {
+          "name": "Shelf Lives",
+          "url": "https://open.spotify.com/artist/2RgHe4GuLjWoJmgdAOVubr"
+        }
+      ],
+      "date_added": "2023-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176907,
+      "name": "All The Problems",
+      "url": "https://open.spotify.com/track/0yMBgZk0AkUKBqx4noEW19"
+    },
+    {
+      "album": {
         "name": "It Took A Lot To Get To This",
         "url": "https://open.spotify.com/album/1E2ecZuSPG58MLkgglvFxZ"
       },
@@ -229,6 +247,24 @@
     },
     {
       "album": {
+        "name": "BOOM",
+        "url": "https://open.spotify.com/album/7FpdNGjJrRNSUx011p4Tp7"
+      },
+      "artists": [
+        {
+          "name": "Cassyette",
+          "url": "https://open.spotify.com/artist/3X8VK5wNpLQCVEo4sWBH2A"
+        }
+      ],
+      "date_added": "2023-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142737,
+      "name": "BOOM",
+      "url": "https://open.spotify.com/track/2SKZ6fQDaSKo3IDYwRJxJI"
+    },
+    {
+      "album": {
         "name": "Brand New Eyes",
         "url": "https://open.spotify.com/album/27UqZoE1kV6sIV6uQcI28A"
       },
@@ -240,7 +276,7 @@
       ],
       "date_added": "2022-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 253946,
       "name": "Brick by Boring Brick",
       "url": "https://open.spotify.com/track/1a9YW7fATU351ok4zWjU7a"
@@ -648,6 +684,42 @@
       "duration_ms": 106740,
       "name": "God Complex (Mojo)",
       "url": "https://open.spotify.com/track/1B3ouXA9iRkqY1ywvZbzZ5"
+    },
+    {
+      "album": {
+        "name": "Golden",
+        "url": "https://open.spotify.com/album/50SocXtryJeL2lfhNhDq2B"
+      },
+      "artists": [
+        {
+          "name": "Barns Courtney",
+          "url": "https://open.spotify.com/artist/5tFRohaO5yEsuJxmMnlCO9"
+        }
+      ],
+      "date_added": "2023-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170523,
+      "name": "Golden",
+      "url": "https://open.spotify.com/track/0woKDRMZzsFWeHppNQnGlS"
+    },
+    {
+      "album": {
+        "name": "GOOD ENEMY",
+        "url": "https://open.spotify.com/album/3A5aAGLhHkQZFJsk4FsvAg"
+      },
+      "artists": [
+        {
+          "name": "PVRIS",
+          "url": "https://open.spotify.com/artist/6oFs3qk4VepIVFdoD4jmsy"
+        }
+      ],
+      "date_added": "2023-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130613,
+      "name": "GOOD ENEMY",
+      "url": "https://open.spotify.com/track/1dkVl41242u0eGODPvjd0l"
     },
     {
       "album": {
@@ -1472,7 +1544,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 193181,
       "name": "Sad Girl Summer",
       "url": "https://open.spotify.com/track/52ITJgaQHGQ4Uxnqz44jWP"
@@ -1587,6 +1659,24 @@
     },
     {
       "album": {
+        "name": "Stuck",
+        "url": "https://open.spotify.com/album/2kcNcoLI7IeK9GJepoA2lq"
+      },
+      "artists": [
+        {
+          "name": "Thirty Seconds To Mars",
+          "url": "https://open.spotify.com/artist/0RqtSIYZmd4fiBKVFqyIqD"
+        }
+      ],
+      "date_added": "2023-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182746,
+      "name": "Stuck",
+      "url": "https://open.spotify.com/track/1PYG9Akj0LAZZUDXzV9m1S"
+    },
+    {
+      "album": {
         "name": "Black Holes and Revelations",
         "url": "https://open.spotify.com/album/0lw68yx3MhKflWFqCsGkIs"
       },
@@ -1616,7 +1706,7 @@
       ],
       "date_added": "2022-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 167287,
       "name": "Supernatural",
       "url": "https://open.spotify.com/track/3HFvMIvCBNGkypFCQUHjyV"
@@ -1696,6 +1786,24 @@
       "duration_ms": 235063,
       "name": "The Girls Are Fighting",
       "url": "https://open.spotify.com/track/5drHu52wKcmQMrIH2jRbZR"
+    },
+    {
+      "album": {
+        "name": "This Is Why",
+        "url": "https://open.spotify.com/album/6tG8sCK4htJOLjlWwb7gZB"
+      },
+      "artists": [
+        {
+          "name": "Paramore",
+          "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
+        }
+      ],
+      "date_added": "2023-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187696,
+      "name": "The News",
+      "url": "https://open.spotify.com/track/59RjIhWIpthNpwrlChUvXm"
     },
     {
       "album": {
@@ -1987,6 +2095,24 @@
     },
     {
       "album": {
+        "name": "Welcome to the DCC",
+        "url": "https://open.spotify.com/album/5Os5j39zKEfpvKL11TtfYE"
+      },
+      "artists": [
+        {
+          "name": "Nothing But Thieves",
+          "url": "https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp"
+        }
+      ],
+      "date_added": "2023-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198798,
+      "name": "Welcome to the DCC",
+      "url": "https://open.spotify.com/track/0ZImVxesVZIydOnwTMSWOK"
+    },
+    {
+      "album": {
         "name": "What Went Down",
         "url": "https://open.spotify.com/album/3WCvpOcMme3VoJqeKYk9BY"
       },
@@ -2128,6 +2254,24 @@
       "duration_ms": 194480,
       "name": "Wild Stare",
       "url": "https://open.spotify.com/track/6NZUOG0R0uxIBkcQ6BIqfq"
+    },
+    {
+      "album": {
+        "name": "YOU NEEDED A HIT//",
+        "url": "https://open.spotify.com/album/16Cce1oSCslSILGQCToU0C"
+      },
+      "artists": [
+        {
+          "name": "KennyHoopla",
+          "url": "https://open.spotify.com/artist/5ObBtv5VunwwhQaXXnUrsM"
+        }
+      ],
+      "date_added": "2023-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120149,
+      "name": "YOU NEEDED A HIT//",
+      "url": "https://open.spotify.com/track/5DbBHcdkzRe1HnA132Dp0z"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX1tyCD9QhIWF"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZJmo7mlltU6.md) - [plain]
 
 > Beyond genre, beyond language, beyond borders\. Cover: grentperez.
 
-[Spotify](https://open.spotify.com/user/spotify) - 167,064 likes - 106 songs - 5 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 167,139 likes - 106 songs - 5 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZJmo7mlltU6.md) - [plain]
 | 4 | [Healing House](https://open.spotify.com/track/2stvHSku5bcgxrVuN50oYX) | [Phum Viphurit](https://open.spotify.com/artist/5mqguTgtaoCMNMZD6txCh6) | [The Greng Jai Piece](https://open.spotify.com/album/1I9TAJhnJucoNfu2KX8Hcg) | 3:47 |
 | 5 | [When The Day Is Done](https://open.spotify.com/track/3uOxQfsAQH4SJmRdBVLpzQ) | [grentperez](https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe) | [When The Day Is Done](https://open.spotify.com/album/6lzMbDwLT43JtvRbmcuBLn) | 3:00 |
 | 6 | [Buche](https://open.spotify.com/track/4NxDDBsllgmsbxsXl0Zn8C) | [Palmaria](https://open.spotify.com/artist/6FiIZF4NkLo6V2C0lovmrQ) | [Buche](https://open.spotify.com/album/16Cc0v8TR9n62S6jI955Xm) | 3:28 |
-| 7 | [Boy's a liar](https://open.spotify.com/track/3NanY0K4okhIQzL33U5Ad8) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [Boy's a liar](https://open.spotify.com/album/5Kdlc7Kds94W7UFFg6Me0N) | 2:11 |
+| 7 | [Boy's a Liar](https://open.spotify.com/track/3NanY0K4okhIQzL33U5Ad8) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [Boy's a liar](https://open.spotify.com/album/5Kdlc7Kds94W7UFFg6Me0N) | 2:11 |
 | 8 | [Venus](https://open.spotify.com/track/3Ix717qz55IpboW4fz3cyf) | [Peach Luffe](https://open.spotify.com/artist/6KvuacOcxH22xWgQTAwxui) | [Fish Bowl](https://open.spotify.com/album/277iuWreJUuseNVEXN5NrA) | 2:27 |
 | 9 | [Ring of Past](https://open.spotify.com/track/11sfRkHdvsop5DdHVmGpt1) | [Men I Trust](https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT) | [Ring of Past](https://open.spotify.com/album/4zTH06G28TKcid3B8Vhy8L) | 3:21 |
 | 10 | [Leve\(mente\)](https://open.spotify.com/track/2O2enbZDKuifsXuS3JnN1A) | [INÊS APENAS](https://open.spotify.com/artist/44lhpTyAjiTTOwOzOfDCUQ), [LEFT.](https://open.spotify.com/artist/2rsw8pxtVfU3LiTIT0CYUb) | [Leve\(mente\)](https://open.spotify.com/album/63sPq0sgdkiFGIReGQoTdW) | 3:04 |
@@ -115,4 +115,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZJmo7mlltU6.md) - [plain]
 | 105 | [Viene y va](https://open.spotify.com/track/7BmOMWZGP24NqOhKHR5nP9) | [Ev](https://open.spotify.com/artist/21EczEifDKebasemX58Jp8) | [Viene y va](https://open.spotify.com/album/6GWe6fVPhwpgPU6sfmwM0W) | 2:54 |
 | 106 | [Just Say It \(feat\. Johnny Yukon\)](https://open.spotify.com/track/7MJMR1MtGCk0RFZlkeKhGI) | [Lou Val](https://open.spotify.com/artist/6u3PN3PCsWLGsw1OffKQ2F), [Johnny Yukon](https://open.spotify.com/artist/4fLF7NyMYLaMxUmZCSp5ex) | [Just Say It \(feat\. Johnny Yukon\)](https://open.spotify.com/album/0MDI5CLeDpW0nnjA4HEvji) | 2:25 |
 
-Snapshot ID: `MCw3ZTNjZTUyZDc1NjQwMzNhZDM5OWQ4ZjVhZDZjNjQzYjU1ZDVmNDY5`
+Snapshot ID: `MCw1NmY4ZDQ0MjQ4YzQxNGU3MGNiOTlmMGI4N2UwMzRmMGQ0ZWM1ZTBk`

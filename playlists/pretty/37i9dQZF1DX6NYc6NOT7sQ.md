@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6NYc6NOT7sQ.md) - [plain]
 
 > <a href="spotify:artist:3gNEIgLeknpwkNViU8WAhg">Oceanvs Orientalis</a>' favorite tracks\. Updated regularly\. Curated by Oceanvs Orientalis\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,300 likes - 85 songs - 8 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,381 likes - 85 songs - 8 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,7 +55,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6NYc6NOT7sQ.md) - [plain]
 | 45 | [Adonis](https://open.spotify.com/track/53qNIDmee0TE6GaS9WkGiS) | [Oceanvs Orientalis](https://open.spotify.com/artist/3gNEIgLeknpwkNViU8WAhg), [Sylvia Rebecca](https://open.spotify.com/artist/0U0GnvXF1qwXWnLF8p4f5y) | [Adonis](https://open.spotify.com/album/1IxANPUvfBsyFeRZqdsN0j) | 8:35 |
 | 46 | [Galatea's Guitar \- Remastered](https://open.spotify.com/track/237YZd41xs9GglibyQxVrx) | [Gábor Szabó](https://open.spotify.com/artist/38CPjAAqYV8lTYi6clzbjG) | [Dreams](https://open.spotify.com/album/5yYe4JhfGHiTIPWs2AuoMJ) | 5:38 |
 | 47 | [Lonesome Lover](https://open.spotify.com/track/3y7ANjEoF3HQCQt4IBu2R3) | [Max Roach](https://open.spotify.com/artist/6jrlNnS5B830kpi40j3S6g) | [It's Time](https://open.spotify.com/album/5uyFfAhAQwV0Oe9ZfLGlVl) | 7:01 |
-| 48 | [Aguas da Amazonia: Japurá River](https://open.spotify.com/track/3pUflNd59N3Qn4VaGCYaxc) | [Philip Glass](https://open.spotify.com/artist/69lxxQvsfAIoQbB20bEPFC), [Uakti](https://open.spotify.com/artist/2LZqtMQsKjghZlfABYwaPn) | [Philip Glass: Aguas da Amazonia](https://open.spotify.com/album/5O2nQMDT5UlLbBJeLnkzYF) | 4:44 |
+| 48 | [Aguas da Amazonia: Japurá River](https://open.spotify.com/track/5mugT9d5ag9RIDfZjFdpPS) | [Philip Glass](https://open.spotify.com/artist/69lxxQvsfAIoQbB20bEPFC), [Uakti](https://open.spotify.com/artist/2LZqtMQsKjghZlfABYwaPn) | [Landscapes: Minimalism](https://open.spotify.com/album/5vypb8nVoqWkBEGYhEkUDb) | 4:44 |
 | 49 | [Palermo](https://open.spotify.com/track/46MwDjJIlbV7mxZRri9J8R) | [Snarky Puppy](https://open.spotify.com/artist/7ENzCHnmJUr20nUjoZ0zZ1) | [Culcha Vulcha](https://open.spotify.com/album/3rA4jjk6YcRwVUD66fXS1J) | 6:37 |
 | 50 | [Santa Teresa](https://open.spotify.com/track/0GVu2gXzurD0FBL7CHqE0F) | [Oceanvs Orientalis](https://open.spotify.com/artist/3gNEIgLeknpwkNViU8WAhg), [Castello Branco](https://open.spotify.com/artist/18mXdMHUw1ULPaeW1DNy90) | [Santa Teresa](https://open.spotify.com/album/5MWFftrRcVgXuUkWWatWVT) | 4:58 |
 | 51 | [Night Jazz](https://open.spotify.com/track/2gJEOSbkyF2VwtoH141vr1) | [Tryangle Man](https://open.spotify.com/artist/3k6hxVwXaqpEaRwprVFhpO) | [Dream Sequence 1544](https://open.spotify.com/album/59Wdnh6Mw0m22Or6zLgmd9) | 5:27 |
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6NYc6NOT7sQ.md) - [plain]
 | 84 | [Marmara](https://open.spotify.com/track/0mWySChvIoNiwwjrseycdT) | [Muno](https://open.spotify.com/artist/1DZGRRvmPsjC8o8F8MwpRe) | [Marmara](https://open.spotify.com/album/4j0YbHO2ronLXxxVXHEMt2) | 5:50 |
 | 85 | [Lyre](https://open.spotify.com/track/6sFgqgE20JJ3whmxIOoP8h) | [NINZE & OKAXY](https://open.spotify.com/artist/4yJU0dWTxh9cmKKjXWOneJ) | [Cranes at Night](https://open.spotify.com/album/7CTizjF89XdarzPdTPMmdW) | 5:35 |
 
-Snapshot ID: `MCxmNjQ0YmM4ZTFlYWFlNmZlZTdmODdiODkzODQ4MTQ1OGQyMTQ2MGJl`
+Snapshot ID: `MCw1YTA1MTc2MTA0NzE4YTBlNTE2ZDllNTcyNWZmMTBlNDRiZTM3Y2U2`

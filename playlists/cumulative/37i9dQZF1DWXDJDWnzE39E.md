@@ -2,9 +2,9 @@
 
 ### [Heavy Queens](https://open.spotify.com/playlist/37i9dQZF1DWXDJDWnzE39E)
 
-> A salute to all of the women opening up the pit\. Cover: BABYMETAL
+> A salute to all of the women opening up the pit\. Cover: Conquer Divide
 
-270 songs - 17 hr 36 min
+272 songs - 17 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -109,7 +109,7 @@
 | [Grayscale](https://open.spotify.com/track/0Y3pzMEX6ZF40dp1RAOrZk) | [As Everything Unfolds](https://open.spotify.com/artist/28IImD2QqPWTQ2cWgOMQNT) | [Grayscale](https://open.spotify.com/album/2nklray2e6vk84ASC20FsK) | 3:36 | 2021-02-19 | 2022-07-23 |
 | [Hallelujah \[Feat\. Charlotte Sands\] \- Charlotte Sands Version](https://open.spotify.com/track/4tkpDoDiZ1AxCfd6roVPeM) | [Underoath](https://open.spotify.com/artist/3GzWhE2xadJiW8MqRKIVSK), [Charlotte Sands](https://open.spotify.com/artist/2cAXhrWAztXGwk6r15ibW2) | [Hallelujah \[Feat\. Charlotte Sands\] \(Charlotte Sands Version\)](https://open.spotify.com/album/5HhUTvl8my5ucfG7wJjQ0z) | 2:56 | 2022-03-11 |  |
 | [Handshake with Hell](https://open.spotify.com/track/2t5NYzZgq3cf7ck9Eg51ZQ) | [Arch Enemy](https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx) | [Handshake with Hell](https://open.spotify.com/album/0NGaiN3rXHa54qJwqzLJLV) | 5:38 | 2022-03-04 |  |
-| [HATE PARTY](https://open.spotify.com/track/2NoH5sopROxmX9qVm6h09z) | [bodyimage](https://open.spotify.com/artist/7pn8MYeH0VgKGDnYAiS7Pg), [DeathbyRomy](https://open.spotify.com/artist/7aWpPjjgItUnXljFxYYKZI) | [HATE PARTY](https://open.spotify.com/album/6L4voUmXNjOw6fTimrXJnn) | 2:28 | 2023-03-24 |  |
+| [HATE PARTY](https://open.spotify.com/track/2NoH5sopROxmX9qVm6h09z) | [bodyimage](https://open.spotify.com/artist/7pn8MYeH0VgKGDnYAiS7Pg), [DeathbyRomy](https://open.spotify.com/artist/7aWpPjjgItUnXljFxYYKZI) | [HATE PARTY](https://open.spotify.com/album/6L4voUmXNjOw6fTimrXJnn) | 2:28 | 2023-03-24 | 2023-05-19 |
 | [Heroes of the Dawn](https://open.spotify.com/track/2pXBivpTKSfKMTSaCLwvmo) | [Visions of Atlantis](https://open.spotify.com/artist/5kanN1nKzrkW1m2gZmo82x) | [Heroes of the Dawn](https://open.spotify.com/album/4sCRobXYLAHjzWBd833k3U) | 4:31 | 2020-12-07\* | 2021-05-15 |
 | [Hideaway](https://open.spotify.com/track/4zyLx5JsozusMZSoqhJL5k) | [Tomorrow Is Lost](https://open.spotify.com/artist/5VwzQ26FbEmmGhOL4b69lw) | [Hideaway](https://open.spotify.com/album/0LVKEVt4AfnoDrx5KL2KKp) | 4:02 | 2020-12-07\* | 2022-05-09 |
 | [How's the Heart?](https://open.spotify.com/track/6lkVbijlh932FSS2I0gDrR) | [Nightwish](https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1) | [HUMAN\. :II: NATURE.](https://open.spotify.com/album/1iSsdlURK7CGUVlcz4M5Li) | 5:02 | 2020-12-07\* |  |
@@ -255,6 +255,7 @@
 | [Throne](https://open.spotify.com/track/3FrBWZ5A44JTlowzHrydLa) | [Djerv](https://open.spotify.com/artist/0maicLMFF0aeHwJlQgZrNa) | [Throne](https://open.spotify.com/album/5qlC51M6oE1JXumk2noo7r) | 2:59 | 2020-12-07\* | 2020-12-11 |
 | [Till the End](https://open.spotify.com/track/4mGrLbuibhtaUS5McNoUxi) | [Moonlight Haze](https://open.spotify.com/artist/1J9Jg6CEtjR3C4SFXz1elX) | [Till the End](https://open.spotify.com/album/3tGBWNAS5szJEllpKrgyX5) | 3:28 | 2020-12-07\* | 2022-07-29 |
 | [Tin Soldiers](https://open.spotify.com/track/7LvdCAqmBLiOFYReWT7crb) | [The Murder of My Sweet](https://open.spotify.com/artist/7B4zaOoCRV5xQg9ZUrl4B1) | [Tin Soldiers](https://open.spotify.com/album/2suDNX2Zms7YMC3jymUXnp) | 6:26 | 2020-12-07\* | 2020-12-11 |
+| [Typecast](https://open.spotify.com/track/2nhnehRSB4y6TnNwseM8cE) | [Cinnamon Babe](https://open.spotify.com/artist/0U2rJW6ug1KAvcegC2E004) | [Typecast](https://open.spotify.com/album/4NKXhPVhqIGHFtDPRjC0fQ) | 3:20 | 2023-05-18 |  |
 | [Ugly Fucker](https://open.spotify.com/track/4Nn1QhNCbg405jWYRgIybs) | [SCARLET](https://open.spotify.com/artist/1ezwRjcVcSgr0HNIwRd2CN) | [Ugly Fucker](https://open.spotify.com/album/4XsoXgTq479PpAFbzExxF6) | 3:14 | 2020-12-07\* | 2023-02-05 |
 | [Ultraviolet](https://open.spotify.com/track/4mB4OnvJp7Grfw5U8AQMz9) | [As Everything Unfolds](https://open.spotify.com/artist/28IImD2QqPWTQ2cWgOMQNT) | [Ultraviolet](https://open.spotify.com/album/3shvTPBaqgggoWWKIZXC94) | 3:52 | 2023-03-02 |  |
 | [Umbra](https://open.spotify.com/track/6X5dxdTEbvVlzBWEZaNYYh) | [Brass Against](https://open.spotify.com/artist/25uPlxGvXMDy9eUX7oeDei) | [Umbra](https://open.spotify.com/album/3hNt3wQ8EJzxShv4OkJJvw) | 3:57 | 2020-12-07\* | 2020-12-11 |
@@ -269,10 +270,11 @@
 | [We Are One](https://open.spotify.com/track/2ViuvO19jpQnIo27PdojnV) | [VENUES](https://open.spotify.com/artist/21LZjxwncsHeKlwA2XPKEd) | [We Are One](https://open.spotify.com/album/2BaVfb1VtDzcadMTIld6Bb) | 4:12 | 2020-12-07\* | 2020-12-11 |
 | [We Bring You the Stars](https://open.spotify.com/track/0xZ75ORYh9uWtBkCDbV8YU) | [Metalite](https://open.spotify.com/artist/18RXUrxy1BYOOvrW0XuFBg) | [We Bring You the Stars](https://open.spotify.com/album/2Y2c3UxmXkDuhbjnIAE9so) | 3:00 | 2020-12-07\* |  |
 | [weapon](https://open.spotify.com/track/1MUExGawtk7kNqKaMO28wD) | [Against The Current](https://open.spotify.com/artist/6yhD1KjhLxIETFF7vIRf8B) | [weapon](https://open.spotify.com/album/3MBuWCEWssM1Yc7JmvuYB7) | 3:17 | 2022-03-04 |  |
+| [welcome2paradise](https://open.spotify.com/track/6IVTlj3SmAI2ISpFt0y1xv) | [Conquer Divide](https://open.spotify.com/artist/4ZznAOb4aE3va5Jz1iDpjc) | [welcome2paradise](https://open.spotify.com/album/7rD9PRwfNy614q7bmeX2iq) | 4:46 | 2023-05-18 |  |
 | [When You're Gone](https://open.spotify.com/track/67ytcy7Sg1PTLPNkGn92qZ) | [Evereal](https://open.spotify.com/artist/17mUVDdPEzybiGUGJ0zmBI) | [When You're Gone](https://open.spotify.com/album/226OTt4h9VumNc6CTsz5dl) | 4:07 | 2020-12-07\* | 2022-06-17 |
 | [Whore](https://open.spotify.com/track/2tAzcTFry1OhmNERFjUR93) | [In This Moment](https://open.spotify.com/artist/6tbLPxj1uQ6vsRQZI2YFCT) | [Blood](https://open.spotify.com/album/3u8UbYIIZkOtawXLDuu57l) | 4:05 | 2023-03-02 |  |
 | [Yeah Right](https://open.spotify.com/track/0UY45tlfKBdZhhku10TBEc) | [Evanescence](https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c) | [Yeah Right](https://open.spotify.com/album/4Iz5ekk3xTAlml2xuo406P) | 3:30 | 2020-12-07\* | 2022-07-29 |
-| [Yeah Right](https://open.spotify.com/track/56vERCP53h8nSEyco7TwxO) | [Evanescence](https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c) | [The Bitter Truth](https://open.spotify.com/album/4MYCjsaDaemi8Lmkj5PzkL) | 3:30 | 2022-03-11 |  |
+| [Yeah Right](https://open.spotify.com/track/56vERCP53h8nSEyco7TwxO) | [Evanescence](https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c) | [The Bitter Truth](https://open.spotify.com/album/4MYCjsaDaemi8Lmkj5PzkL) | 3:30 | 2022-03-11 | 2023-05-19 |
 | [Yellowjacket \(feat\. Sam Carter\)](https://open.spotify.com/track/3yk51U329nwdpeIHV0O5ez) | [Spiritbox](https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW), [Sam Carter](https://open.spotify.com/artist/21QEpK62qn34QVshh4qpTK) | [Eternal Blue](https://open.spotify.com/album/6cZ39G1mahxDAGfoPzDllb) | 3:18 | 2021-10-02 |  |
 | [You Belong to Me](https://open.spotify.com/track/55CskTAlGmdKUZb7FHwKpb) | [Snow White Blood](https://open.spotify.com/artist/59QoR8vFlxylSsDczH2TxW), [Danny Meyer](https://open.spotify.com/artist/1hcmqU4ByrfxRKPvohDJKT), [Stimmgewalt](https://open.spotify.com/artist/5kO2EHhesjO3Wit94Q9HfM) | [Hope Springs Eternal](https://open.spotify.com/album/4CIzS1KD1bplHbI2jivWjY) | 7:36 | 2020-12-07\* | 2022-10-04 |
 | [You're Not Gone, You're Just Dead!](https://open.spotify.com/track/3IT2AP0SuXSBliYDiwCrK1) | [VIOLENT VIRA](https://open.spotify.com/artist/298H8XdYsBHii98wfAZT1S) | [You're Not Gone, You're Just Dead!](https://open.spotify.com/album/3w8fUu7HiL0TZH36GcB5hc) | 2:55 | 2023-03-02 |  |

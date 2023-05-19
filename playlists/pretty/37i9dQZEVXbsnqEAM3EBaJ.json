@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MjgwNjQ0MDAsMDAwMDAwMDBkOGJkODM3MzE1NzU5MmI0MTk4NjY5ZTE1ZGZiZWFjZA==",
+  "snapshot_id": "MjgwNjQ0MDAsMDAwMDAwMDA5YjI5MjAyOTNlMWQ5ZmYyYTk1NTlmYTY4ODYyMzQxOA==",
   "tracks": [
     {
       "added_at": "2023-05-12 04:00:00",
@@ -260,12 +260,12 @@
           "url": "https://open.spotify.com/artist/3aDih8lIm5GOfAaorpUg5Y"
         },
         {
-          "name": "Aaron Gillespie",
-          "url": "https://open.spotify.com/artist/5B2GfbXgossZt9SE08Iqn6"
-        },
-        {
           "name": "Underoath",
           "url": "https://open.spotify.com/artist/3GzWhE2xadJiW8MqRKIVSK"
+        },
+        {
+          "name": "Aaron Gillespie",
+          "url": "https://open.spotify.com/artist/5B2GfbXgossZt9SE08Iqn6"
         }
       ],
       "duration_ms": 172398,
@@ -500,37 +500,17 @@
       },
       "artists": [
         {
-          "name": "Kris Bowers",
-          "url": "https://open.spotify.com/artist/2wWBoQpcybsDVpouFubTqZ"
+          "name": "Mike Froudarakis",
+          "url": "https://open.spotify.com/artist/3gGBjO6ke4rl7eFJ2XFpFg"
         },
         {
-          "name": "Tayla Parx",
-          "url": "https://open.spotify.com/artist/1LzWWI9v4UKdbBgz8fqi15"
+          "name": "Alexander Leeming Froudakis",
+          "url": "https://open.spotify.com/artist/6h94vIxQQmEQL26ver8Vt8"
         }
       ],
-      "duration_ms": 224500,
-      "name": "A Feeling I've Never Been",
-      "url": "https://open.spotify.com/track/6GheQyWRdAQAtXa4PMNNNG"
-    },
-    {
-      "added_at": "2023-05-12 04:00:00",
-      "album": {
-        "name": "Big Shot City (Makaya McCraven Interpolation)",
-        "url": "https://open.spotify.com/album/1uib3EDOL75uSnMxzMHMBN"
-      },
-      "artists": [
-        {
-          "name": "Interpol",
-          "url": "https://open.spotify.com/artist/3WaJSfKnzc65VDgmj2zU8B"
-        },
-        {
-          "name": "Makaya McCraven",
-          "url": "https://open.spotify.com/artist/5FnpXrrMdJVZCK54oHWqUa"
-        }
-      ],
-      "duration_ms": 262462,
-      "name": "Big Shot City - Makaya McCraven Interpolation",
-      "url": "https://open.spotify.com/track/7DCiTmZKwIxILzlcu2nHA6"
+      "duration_ms": 140846,
+      "name": "Deja Vu",
+      "url": "https://open.spotify.com/track/6TSNKoF2jWWIiFfK4g8SFI"
     },
     {
       "added_at": "2023-05-12 04:00:00",
@@ -896,9 +876,9 @@
           "url": "https://open.spotify.com/artist/5WWSL6rElJeUk3Uc1S2RyD"
         }
       ],
-      "duration_ms": 357175,
-      "name": "You Spin Me Round (Like A Record) - Re-Recorded - Slowed + Reverb",
-      "url": "https://open.spotify.com/track/3JgvZb3xC37ab5Lo9NmfJ0"
+      "duration_ms": 214281,
+      "name": "You Spin Me Round (Like A Record) - Re-Recorded - Sped Up",
+      "url": "https://open.spotify.com/track/0pnwVkETnoYI57hBeJxAlc"
     },
     {
       "added_at": "2023-05-12 04:00:00",

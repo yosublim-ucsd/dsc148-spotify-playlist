@@ -75,7 +75,7 @@
 | [When I'm With You](https://open.spotify.com/track/3RJof5CojqlbgZ5adHw50O) | [Sheriff](https://open.spotify.com/artist/5jllns7VtBfhF3AyjvZP8d) | [Sheriff](https://open.spotify.com/album/23sISo3WqoIysj2AHHem3V) | 3:58 | 2022-05-18 |  |
 | [Where The Streets Have No Name \- Remastered](https://open.spotify.com/track/21ex8UoVZjOw0wAXWeln5h) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [The Joshua Tree](https://open.spotify.com/album/4mULDK6YXrFXTfSwvwm4M3) | 5:36 | 2022-05-18 |  |
 | [White Wedding \- Pt\. 1](https://open.spotify.com/track/1gzIbdFnGJ226LTl0Cn2SX) | [Billy Idol](https://open.spotify.com/artist/7lzordPuZEXxwt9aoVZYmG) | [Billy Idol](https://open.spotify.com/album/5ebh0MxkqELmk50xHj2b4k) | 4:12 | 2022-05-18 |  |
-| [With Or Without You \- Remastered](https://open.spotify.com/track/5JGEAz15LkPoOtFHttDtVs) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [The Joshua Tree](https://open.spotify.com/album/4mULDK6YXrFXTfSwvwm4M3) | 4:55 | 2022-05-18 |  |
+| [With Or Without You \- Remastered 2007](https://open.spotify.com/track/5JGEAz15LkPoOtFHttDtVs) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [The Joshua Tree](https://open.spotify.com/album/4mULDK6YXrFXTfSwvwm4M3) | 4:55 | 2022-05-18 |  |
 | [You Give Love A Bad Name](https://open.spotify.com/track/3KYiA4vq6RPO1dE2XROXd8) | [Bon Jovi](https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp) | [Slippery When Wet](https://open.spotify.com/album/5uU2uM1RGHfzlA12opjqol) | 3:42 | 2022-05-18 |  |
 
 \*This playlist was first scraped on 2022-06-10. Prior content cannot be recovered.

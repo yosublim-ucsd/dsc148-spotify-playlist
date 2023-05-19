@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5NXVhu59GCz.md) - [plain]
 
 > Acid blues, psy\-blues and the early pioneers of psychedelic rock.
 
-[Spotify](https://open.spotify.com/user/spotify) - 117,654 likes - 50 songs - 3 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 117,668 likes - 50 songs - 3 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,12 +34,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5NXVhu59GCz.md) - [plain]
 | 24 | [Contemporary Chick Con Song \- Remastered](https://open.spotify.com/track/0ejMOOcG8JLEum6LfoPVtl) | [Steamhammer](https://open.spotify.com/artist/78sxSGdMQas5prtm6LZXyj) | [Mk\. II \(Remastered\)](https://open.spotify.com/album/1BSUQlD675LWJVS4owvcQn) | 4:55 |
 | 25 | [Fox Is Sick](https://open.spotify.com/track/7uEw55wwByGZnEUTX0MaEI) | [The Savage Resurrection](https://open.spotify.com/artist/16dZsYfKoAqmnt1tyhAPkE) | [The Savage Resurrection](https://open.spotify.com/album/2Tzvkt45C7PLlLICWYNslu) | 2:42 |
 | 26 | [Too Many Do](https://open.spotify.com/track/68dutymBmCsq2jVjPe4Jek) | [The Peanut Butter Conspiracy](https://open.spotify.com/artist/1mUgTcokhM7BSqp8mXhy8U) | [The Great Conspiracy \(Bonus Track Version\)](https://open.spotify.com/album/676LQ4bm6IMzPIhndDVQM8) | 6:32 |
-| 27 | [Sally Go 'Round the Roses](https://open.spotify.com/track/1w7Gu4ohc5YLkgJMdRwin1) | [Grace Slick](https://open.spotify.com/artist/3wNX7r7t4Vaahrx9XzyYIY), [The Great Society](https://open.spotify.com/artist/2ukLYCAJW8XDlyobhmWQ8x) | [Grace Slick & The Great Society](https://open.spotify.com/album/74cJP3XQnuylRJDguGCRyY) | 6:32 |
-| 28 | [Codine](https://open.spotify.com/track/77508QPMrHixHl0ORGZWTA) | [The Litter](https://open.spotify.com/artist/6wvtyGNtNtLlkHONVzOocm) | [Distortions](https://open.spotify.com/album/1jNPpX5H1F1xJNQR8Xe2CF) | 4:32 |
+| 27 | [Codine](https://open.spotify.com/track/77508QPMrHixHl0ORGZWTA) | [The Litter](https://open.spotify.com/artist/6wvtyGNtNtLlkHONVzOocm) | [Distortions](https://open.spotify.com/album/1jNPpX5H1F1xJNQR8Xe2CF) | 4:32 |
+| 28 | [Sally Go 'Round the Roses](https://open.spotify.com/track/1w7Gu4ohc5YLkgJMdRwin1) | [Grace Slick](https://open.spotify.com/artist/3wNX7r7t4Vaahrx9XzyYIY), [The Great Society](https://open.spotify.com/artist/2ukLYCAJW8XDlyobhmWQ8x) | [Grace Slick & The Great Society](https://open.spotify.com/album/74cJP3XQnuylRJDguGCRyY) | 6:32 |
 | 29 | [We Ain't Got Nothin' yet](https://open.spotify.com/track/7xwf45gey53Ftmo3duaAei) | [The Blues Magoos](https://open.spotify.com/artist/7peASGSN6FkIFQ3XjLfBtB) | [Psychedelic Resurrection](https://open.spotify.com/album/1FzOC8f2m4Gc5vFQkufqwJ) | 2:17 |
 | 30 | [The World's On Fire](https://open.spotify.com/track/5Osu3BeGYl2t0auN3IXHam) | [Strawberry Alarm Clock](https://open.spotify.com/artist/1nyQBzKgZ2hBLr7PnyV7cI) | [Incense And Peppermints](https://open.spotify.com/album/4NbLTe8YqLFwys4SmkEofd) | 8:25 |
-| 31 | [Starvation](https://open.spotify.com/track/77LqKLpqMUiXqqrnrZx7hX) | [The Golden Dawn](https://open.spotify.com/artist/5zATwJgFNdxKRj3xxLtdAx) | [Power Plant](https://open.spotify.com/album/77sNTMqrlhhqfo1fOcbjBb) | 2:52 |
-| 32 | [You Shouldn't Do That \- 1996 Remaster](https://open.spotify.com/track/1yC4zXWJuywuVp5Hm5nobQ) | [Hawkwind](https://open.spotify.com/artist/2jK54ZlZhTF1TxygsVeR05) | [In Search of Space](https://open.spotify.com/album/1cgsYqtDTMTetu7FjEsIhI) | 15:41 |
+| 31 | [You Shouldn't Do That \- 1996 Remaster](https://open.spotify.com/track/1yC4zXWJuywuVp5Hm5nobQ) | [Hawkwind](https://open.spotify.com/artist/2jK54ZlZhTF1TxygsVeR05) | [In Search of Space](https://open.spotify.com/album/1cgsYqtDTMTetu7FjEsIhI) | 15:41 |
+| 32 | [Starvation](https://open.spotify.com/track/77LqKLpqMUiXqqrnrZx7hX) | [The Golden Dawn](https://open.spotify.com/artist/5zATwJgFNdxKRj3xxLtdAx) | [Power Plant](https://open.spotify.com/album/77sNTMqrlhhqfo1fOcbjBb) | 2:52 |
 | 33 | [a\) Take Me For A Little While b\) RYFI \(Illusions Of My Childhood\-Part Three\)](https://open.spotify.com/track/2AXigUpz4ycfVS550RH8wI) | [Vanilla Fudge](https://open.spotify.com/artist/0vIMq3W8V63uR4Ymgm2pF1) | [Vanilla Fudge](https://open.spotify.com/album/4rvXyAx9phjxiU4cQS1AJh) | 3:55 |
 | 34 | [Good Times Are So Hard To Find](https://open.spotify.com/track/1RCaB8ZclzAsuw9jRi0SIx) | [Blue Cheer](https://open.spotify.com/artist/4PI5IHRvANLL76O5gRmGKL) | [The History Of Blue Cheer: Good Times Are So Hard To Find](https://open.spotify.com/album/7ecNoSQ9aRZnxAHwTCpVt9) | 3:18 |
 | 35 | [Crystal Blues](https://open.spotify.com/track/3dHhbraAAG40gNtVUkn0uf) | [Country Joe & The Fish](https://open.spotify.com/artist/0a63dfrxBQKqh160P8iUNL) | [Here We Are Again](https://open.spotify.com/album/0WXiQbXXPlYw5STWA7ucPH) | 6:23 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5NXVhu59GCz.md) - [plain]
 | 49 | [Trials of a City](https://open.spotify.com/track/3b5jvjpB3Uf88uilq0aGLF) | [Mighty Baby](https://open.spotify.com/artist/0OCbY2Rzt59ilutteUnG8I) | [Mighty Baby](https://open.spotify.com/album/32ZtQafs8OxDkFTOFvprN7) | 6:01 |
 | 50 | [Charlie](https://open.spotify.com/track/55rOMTH7SKUpHtj7qnAhdB) | [The Deviants](https://open.spotify.com/artist/6gFbwCDrKMQJpxSPclIUnu) | [Ptoof!](https://open.spotify.com/album/3xXRXr2O9mesGZFm5yvclT) | 3:58 |
 
-Snapshot ID: `MCw2MWE5ZGU2MzYwM2RjNzdlOTg5YTYwYjY2ZjQ1YzI0NTAzMDI2NzFm`
+Snapshot ID: `MCwzYjIxYTkwZTNiMDI5NGI1YTdlZGZkNzA0MWRmNjNmMzEyYTMzMDBl`

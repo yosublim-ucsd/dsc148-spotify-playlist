@@ -1,12 +1,12 @@
 {
   "description": "Channel some chilled-out back yard vibes.",
-  "num_followers": 867957,
+  "num_followers": 868043,
   "original_name": "Chill Folk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyNGUyMTdlMTBmNjBhNjdjNzhlZjY5ZDk3Yjk3Yjk3OTQ0MzU2YWVl",
+  "snapshot_id": "MCwwZGZmNjcxNTgwNmFkM2EwMDE1NDk2YTg0NzFlYjhhYmJmYmNkZjcw",
   "tracks": [
     {
       "added_at": "2023-05-12 04:00:00",
@@ -87,6 +87,22 @@
     {
       "added_at": "2023-05-12 04:00:00",
       "album": {
+        "name": "Tomorrow",
+        "url": "https://open.spotify.com/album/6gtu2oXhmDQN8TAsWimZbj"
+      },
+      "artists": [
+        {
+          "name": "Shakey Graves",
+          "url": "https://open.spotify.com/artist/1fZpYWNWdL5Z3wrDtISFUH"
+        }
+      ],
+      "duration_ms": 240586,
+      "name": "Tomorrow",
+      "url": "https://open.spotify.com/track/47KDDZgFiX1w6RFOuLXsSn"
+    },
+    {
+      "added_at": "2023-05-12 04:00:00",
+      "album": {
         "name": "Everybody Needs Someone (feat. Vance Joy)",
         "url": "https://open.spotify.com/album/5eWIV7Xa9H7aeciqMgMKNZ"
       },
@@ -103,22 +119,6 @@
       "duration_ms": 178819,
       "name": "Everybody Needs Someone (feat. Vance Joy)",
       "url": "https://open.spotify.com/track/2TZKvEQyTtcXLBfAk7kt8n"
-    },
-    {
-      "added_at": "2023-05-12 04:00:00",
-      "album": {
-        "name": "Tomorrow",
-        "url": "https://open.spotify.com/album/6gtu2oXhmDQN8TAsWimZbj"
-      },
-      "artists": [
-        {
-          "name": "Shakey Graves",
-          "url": "https://open.spotify.com/artist/1fZpYWNWdL5Z3wrDtISFUH"
-        }
-      ],
-      "duration_ms": 240586,
-      "name": "Tomorrow",
-      "url": "https://open.spotify.com/track/47KDDZgFiX1w6RFOuLXsSn"
     },
     {
       "added_at": "2023-05-12 04:00:00",
@@ -715,22 +715,6 @@
     {
       "added_at": "2023-05-12 04:00:00",
       "album": {
-        "name": "Feathers & Fishhooks",
-        "url": "https://open.spotify.com/album/26n1VRHY8iKUGgRneKSOud"
-      },
-      "artists": [
-        {
-          "name": "Rayland Baxter",
-          "url": "https://open.spotify.com/artist/251UrhgNbMr15NLzQ2KyKq"
-        }
-      ],
-      "duration_ms": 233693,
-      "name": "Olivia",
-      "url": "https://open.spotify.com/track/40DGtj95w54IDSbA7BWn3o"
-    },
-    {
-      "added_at": "2023-05-12 04:00:00",
-      "album": {
         "name": "Till the Flame Turns Blue",
         "url": "https://open.spotify.com/album/7LLMYmgPN4YRHFqm3ipAjM"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 245160,
       "name": "Till the Flame Turns Blue",
       "url": "https://open.spotify.com/track/3Zz37G6EggIIMiqgBnovnH"
+    },
+    {
+      "added_at": "2023-05-12 04:00:00",
+      "album": {
+        "name": "Feathers & Fishhooks",
+        "url": "https://open.spotify.com/album/26n1VRHY8iKUGgRneKSOud"
+      },
+      "artists": [
+        {
+          "name": "Rayland Baxter",
+          "url": "https://open.spotify.com/artist/251UrhgNbMr15NLzQ2KyKq"
+        }
+      ],
+      "duration_ms": 233693,
+      "name": "Olivia",
+      "url": "https://open.spotify.com/track/40DGtj95w54IDSbA7BWn3o"
     },
     {
       "added_at": "2023-05-12 04:00:00",
@@ -843,6 +843,22 @@
     {
       "added_at": "2023-05-12 04:00:00",
       "album": {
+        "name": "The Summer Isles",
+        "url": "https://open.spotify.com/album/05HEBowDsH1MMkERUsn6Tl"
+      },
+      "artists": [
+        {
+          "name": "Roo Panes",
+          "url": "https://open.spotify.com/artist/0XHM5ZNJDU8e4CfbWMeSzC"
+        }
+      ],
+      "duration_ms": 192920,
+      "name": "I Just Love You",
+      "url": "https://open.spotify.com/track/5fRXEJpIZKaDxsHOGpXXuS"
+    },
+    {
+      "added_at": "2023-05-12 04:00:00",
+      "album": {
         "name": "Detour",
         "url": "https://open.spotify.com/album/1xturx1xKAx7fXNEjUrXDG"
       },
@@ -879,22 +895,6 @@
       "duration_ms": 210725,
       "name": "Without Your Love",
       "url": "https://open.spotify.com/track/5g8xjUhQ3OwOwIziC6hBtn"
-    },
-    {
-      "added_at": "2023-05-12 04:00:00",
-      "album": {
-        "name": "The Summer Isles",
-        "url": "https://open.spotify.com/album/05HEBowDsH1MMkERUsn6Tl"
-      },
-      "artists": [
-        {
-          "name": "Roo Panes",
-          "url": "https://open.spotify.com/artist/0XHM5ZNJDU8e4CfbWMeSzC"
-        }
-      ],
-      "duration_ms": 192920,
-      "name": "I Just Love You",
-      "url": "https://open.spotify.com/track/5fRXEJpIZKaDxsHOGpXXuS"
     },
     {
       "added_at": "2023-05-12 04:00:00",
@@ -1075,22 +1075,6 @@
     {
       "added_at": "2023-05-12 04:00:00",
       "album": {
-        "name": "All Your Favorite Bands",
-        "url": "https://open.spotify.com/album/1MuenT1cvvI0YCs3hsJDBE"
-      },
-      "artists": [
-        {
-          "name": "Dawes",
-          "url": "https://open.spotify.com/artist/0CDUUM6KNRvgBFYIbWxJwV"
-        }
-      ],
-      "duration_ms": 243319,
-      "name": "Things Happen",
-      "url": "https://open.spotify.com/track/2SYvX2G6D5SD6BpijIOBpG"
-    },
-    {
-      "added_at": "2023-05-12 04:00:00",
-      "album": {
         "name": "A Mermaid in Lisbon",
         "url": "https://open.spotify.com/album/1NnqLqMQgh9ftyQPtUuKJd"
       },
@@ -1111,18 +1095,18 @@
     {
       "added_at": "2023-05-12 04:00:00",
       "album": {
-        "name": "Simple Syrup",
-        "url": "https://open.spotify.com/album/1WO7SNNBa9NddGXi3UDNjF"
+        "name": "All Your Favorite Bands",
+        "url": "https://open.spotify.com/album/1MuenT1cvvI0YCs3hsJDBE"
       },
       "artists": [
         {
-          "name": "Sunny War",
-          "url": "https://open.spotify.com/artist/01GKiTphQwz4guZQntMha8"
+          "name": "Dawes",
+          "url": "https://open.spotify.com/artist/0CDUUM6KNRvgBFYIbWxJwV"
         }
       ],
-      "duration_ms": 217813,
-      "name": "Lucid Lucy",
-      "url": "https://open.spotify.com/track/6Xw7qv0H03e7bPBIH6tMQQ"
+      "duration_ms": 243319,
+      "name": "Things Happen",
+      "url": "https://open.spotify.com/track/2SYvX2G6D5SD6BpijIOBpG"
     },
     {
       "added_at": "2023-05-12 04:00:00",
@@ -1139,6 +1123,22 @@
       "duration_ms": 230813,
       "name": "Featherweight",
       "url": "https://open.spotify.com/track/3ir3Eoj0pi0vlhqunNSyK3"
+    },
+    {
+      "added_at": "2023-05-12 04:00:00",
+      "album": {
+        "name": "Simple Syrup",
+        "url": "https://open.spotify.com/album/1WO7SNNBa9NddGXi3UDNjF"
+      },
+      "artists": [
+        {
+          "name": "Sunny War",
+          "url": "https://open.spotify.com/artist/01GKiTphQwz4guZQntMha8"
+        }
+      ],
+      "duration_ms": 217813,
+      "name": "Lucid Lucy",
+      "url": "https://open.spotify.com/track/6Xw7qv0H03e7bPBIH6tMQQ"
     },
     {
       "added_at": "2023-05-12 04:00:00",
@@ -1191,18 +1191,18 @@
     {
       "added_at": "2023-05-12 04:00:00",
       "album": {
-        "name": "Imaginary Man",
-        "url": "https://open.spotify.com/album/72YUTJrAuTuSHSVrgixbor"
+        "name": "Weatherman",
+        "url": "https://open.spotify.com/album/4GkmkJSF88GEnP2LFuCl0r"
       },
       "artists": [
         {
-          "name": "Rayland Baxter",
-          "url": "https://open.spotify.com/artist/251UrhgNbMr15NLzQ2KyKq"
+          "name": "Hush Kids",
+          "url": "https://open.spotify.com/artist/4XzsOuqFltgBcdHF3RZQbh"
         }
       ],
-      "duration_ms": 223440,
-      "name": "Mr. Rodriguez",
-      "url": "https://open.spotify.com/track/5aXYNj2v1ut661U0HLT6fP"
+      "duration_ms": 211509,
+      "name": "Weatherman",
+      "url": "https://open.spotify.com/track/4i3ayapBXkyHJZLVOUqTmc"
     },
     {
       "added_at": "2023-05-12 04:00:00",
@@ -1223,18 +1223,18 @@
     {
       "added_at": "2023-05-12 04:00:00",
       "album": {
-        "name": "Weatherman",
-        "url": "https://open.spotify.com/album/4GkmkJSF88GEnP2LFuCl0r"
+        "name": "Imaginary Man",
+        "url": "https://open.spotify.com/album/72YUTJrAuTuSHSVrgixbor"
       },
       "artists": [
         {
-          "name": "Hush Kids",
-          "url": "https://open.spotify.com/artist/4XzsOuqFltgBcdHF3RZQbh"
+          "name": "Rayland Baxter",
+          "url": "https://open.spotify.com/artist/251UrhgNbMr15NLzQ2KyKq"
         }
       ],
-      "duration_ms": 211509,
-      "name": "Weatherman",
-      "url": "https://open.spotify.com/track/4i3ayapBXkyHJZLVOUqTmc"
+      "duration_ms": 223440,
+      "name": "Mr. Rodriguez",
+      "url": "https://open.spotify.com/track/5aXYNj2v1ut661U0HLT6fP"
     },
     {
       "added_at": "2023-05-12 04:00:00",
@@ -1339,22 +1339,6 @@
     {
       "added_at": "2023-05-12 04:00:00",
       "album": {
-        "name": "Inwards & Onwards",
-        "url": "https://open.spotify.com/album/0VEMheeFHsdgqFY9sFqvYO"
-      },
-      "artists": [
-        {
-          "name": "Half Moon Run",
-          "url": "https://open.spotify.com/artist/3ceQN2NVlLg1hgTzljDE4n"
-        }
-      ],
-      "duration_ms": 138939,
-      "name": "How Come My Body",
-      "url": "https://open.spotify.com/track/0x7OMTKyisoB40neHlnJ8H"
-    },
-    {
-      "added_at": "2023-05-12 04:00:00",
-      "album": {
         "name": "Radiator",
         "url": "https://open.spotify.com/album/5HskvGWXnVcfBg1K2Ff0nA"
       },
@@ -1371,18 +1355,18 @@
     {
       "added_at": "2023-05-12 04:00:00",
       "album": {
-        "name": "Good For You",
-        "url": "https://open.spotify.com/album/7pDkPWgwrc2weqXdL0ID6m"
+        "name": "Inwards & Onwards",
+        "url": "https://open.spotify.com/album/0VEMheeFHsdgqFY9sFqvYO"
       },
       "artists": [
         {
-          "name": "Houndmouth",
-          "url": "https://open.spotify.com/artist/7EGwUS3c5dXduO4sMyLWC5"
+          "name": "Half Moon Run",
+          "url": "https://open.spotify.com/artist/3ceQN2NVlLg1hgTzljDE4n"
         }
       ],
-      "duration_ms": 206013,
-      "name": "Cool Jam",
-      "url": "https://open.spotify.com/track/7uMh3fweKrgDOtnMoxp3O4"
+      "duration_ms": 138939,
+      "name": "How Come My Body",
+      "url": "https://open.spotify.com/track/0x7OMTKyisoB40neHlnJ8H"
     },
     {
       "added_at": "2023-05-12 04:00:00",
@@ -1403,6 +1387,22 @@
       "duration_ms": 187815,
       "name": "Down (Exit Song)",
       "url": "https://open.spotify.com/track/4mw2XX72WZ43X7QcrrlIf9"
+    },
+    {
+      "added_at": "2023-05-12 04:00:00",
+      "album": {
+        "name": "Good For You",
+        "url": "https://open.spotify.com/album/7pDkPWgwrc2weqXdL0ID6m"
+      },
+      "artists": [
+        {
+          "name": "Houndmouth",
+          "url": "https://open.spotify.com/artist/7EGwUS3c5dXduO4sMyLWC5"
+        }
+      ],
+      "duration_ms": 206013,
+      "name": "Cool Jam",
+      "url": "https://open.spotify.com/track/7uMh3fweKrgDOtnMoxp3O4"
     },
     {
       "added_at": "2023-05-12 04:00:00",
@@ -1555,22 +1555,6 @@
     {
       "added_at": "2023-05-12 04:00:00",
       "album": {
-        "name": "Pick Apart",
-        "url": "https://open.spotify.com/album/3zLwkjB6CMrlyeEvlNriiO"
-      },
-      "artists": [
-        {
-          "name": "Samantha Crain",
-          "url": "https://open.spotify.com/artist/5dpLK5cD7FwWyDKv4qbodS"
-        }
-      ],
-      "duration_ms": 199146,
-      "name": "Bloomsday",
-      "url": "https://open.spotify.com/track/3E32ScayKIBK9JYehnRek9"
-    },
-    {
-      "added_at": "2023-05-12 04:00:00",
-      "album": {
         "name": "Good Woman",
         "url": "https://open.spotify.com/album/6b3CgvhvJFT6asCeHiOF3M"
       },
@@ -1583,6 +1567,22 @@
       "duration_ms": 197640,
       "name": "Good Woman",
       "url": "https://open.spotify.com/track/6hZ3wAZGh5yQcZMxDXnTL3"
+    },
+    {
+      "added_at": "2023-05-12 04:00:00",
+      "album": {
+        "name": "Pick Apart",
+        "url": "https://open.spotify.com/album/3zLwkjB6CMrlyeEvlNriiO"
+      },
+      "artists": [
+        {
+          "name": "Samantha Crain",
+          "url": "https://open.spotify.com/artist/5dpLK5cD7FwWyDKv4qbodS"
+        }
+      ],
+      "duration_ms": 199146,
+      "name": "Bloomsday",
+      "url": "https://open.spotify.com/track/3E32ScayKIBK9JYehnRek9"
     },
     {
       "added_at": "2023-05-12 04:00:00",
@@ -1675,18 +1675,18 @@
     {
       "added_at": "2023-05-12 04:00:00",
       "album": {
-        "name": "First Mind",
-        "url": "https://open.spotify.com/album/0ntJpgznXrZ6Qc8wTxtcXh"
+        "name": "Kid (Acoustic)",
+        "url": "https://open.spotify.com/album/4XcxA1QI4KB8XBKz9SRcyS"
       },
       "artists": [
         {
-          "name": "Nick Mulvey",
-          "url": "https://open.spotify.com/artist/3x8FbPjh2Qz55XMdE2Yalj"
+          "name": "The Revivalists",
+          "url": "https://open.spotify.com/artist/5kuJibJcwOC53s3OkoGMRA"
         }
       ],
-      "duration_ms": 248853,
-      "name": "April",
-      "url": "https://open.spotify.com/track/6J0OvmRxVmiRyLeJ0aBryf"
+      "duration_ms": 246824,
+      "name": "Kid - Acoustic",
+      "url": "https://open.spotify.com/track/1n15CYNOGJqq87jdRHVO0P"
     }
   ],
   "unique_name": "Chill Folk",

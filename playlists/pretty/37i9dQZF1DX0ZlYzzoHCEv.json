@@ -1,12 +1,12 @@
 {
   "description": "musica per quando non sai insomma come",
-  "num_followers": 33034,
+  "num_followers": 33122,
   "original_name": "la mia testa:",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhYWU4OTJlNzkyYmRmM2YwMjBjOGNiMzdlZTBmNTBmZjQ3OTM1OTFh",
+  "snapshot_id": "MCw2NzA2N2ZhMTg0ZGY5N2IxMTA2NTE4NjUwMTM5ZmUzMWUzMTJmY2Fh",
   "tracks": [
     {
       "added_at": "2023-05-16 08:16:01",
@@ -149,7 +149,7 @@
         }
       ],
       "duration_ms": 131013,
-      "name": "Boy's a liar Pt. 2",
+      "name": "Boy's a Liar Pt. 2",
       "url": "https://open.spotify.com/track/6AQbmUe0Qwf5PZnt4HmTXv"
     },
     {
@@ -359,6 +359,22 @@
     {
       "added_at": "2023-05-16 08:16:01",
       "album": {
+        "name": "Cha Cha Cha",
+        "url": "https://open.spotify.com/album/5rBqeRlrrzR77MAkbgAmS6"
+      },
+      "artists": [
+        {
+          "name": "K\u00e4\u00e4rij\u00e4",
+          "url": "https://open.spotify.com/artist/6LkMGN0t3HDNL8hIvma70r"
+        }
+      ],
+      "duration_ms": 175161,
+      "name": "Cha Cha Cha",
+      "url": "https://open.spotify.com/track/5RX8T3EoTuXcybAxe6oPAw"
+    },
+    {
+      "added_at": "2023-05-16 08:16:01",
+      "album": {
         "name": "The Super Mario Bros. Movie (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/3QITNyRzvTqn0t9tLmS1Vd"
       },
@@ -423,22 +439,6 @@
     {
       "added_at": "2023-05-16 08:16:01",
       "album": {
-        "name": "Cha Cha Cha",
-        "url": "https://open.spotify.com/album/5rBqeRlrrzR77MAkbgAmS6"
-      },
-      "artists": [
-        {
-          "name": "K\u00e4\u00e4rij\u00e4",
-          "url": "https://open.spotify.com/artist/6LkMGN0t3HDNL8hIvma70r"
-        }
-      ],
-      "duration_ms": 175161,
-      "name": "Cha Cha Cha",
-      "url": "https://open.spotify.com/track/5RX8T3EoTuXcybAxe6oPAw"
-    },
-    {
-      "added_at": "2023-05-16 08:16:01",
-      "album": {
         "name": "GigaChad Theme (Phonk House Version)",
         "url": "https://open.spotify.com/album/6XMRvZrrp6KDqYO4tDutwr"
       },
@@ -471,22 +471,6 @@
     {
       "added_at": "2023-05-16 08:16:01",
       "album": {
-        "name": "5LBS OF PRESSURE",
-        "url": "https://open.spotify.com/album/0OQjYkxlKHsQwYLJziIQrI"
-      },
-      "artists": [
-        {
-          "name": "Superstar Pride",
-          "url": "https://open.spotify.com/artist/3FBEsNyIwRnOHOf1Rv3SLa"
-        }
-      ],
-      "duration_ms": 122070,
-      "name": "PAINTING PICTURES",
-      "url": "https://open.spotify.com/track/7oLKoGzQVwjZ91AzCn560T"
-    },
-    {
-      "added_at": "2023-05-16 08:16:01",
-      "album": {
         "name": "IGOR",
         "url": "https://open.spotify.com/album/5zi7WsKlIiUXv09tbGLKsE"
       },
@@ -499,6 +483,22 @@
       "duration_ms": 195320,
       "name": "NEW MAGIC WAND",
       "url": "https://open.spotify.com/track/0fv2KH6hac06J86hBUTcSf"
+    },
+    {
+      "added_at": "2023-05-16 08:16:01",
+      "album": {
+        "name": "5LBS OF PRESSURE",
+        "url": "https://open.spotify.com/album/0OQjYkxlKHsQwYLJziIQrI"
+      },
+      "artists": [
+        {
+          "name": "Superstar Pride",
+          "url": "https://open.spotify.com/artist/3FBEsNyIwRnOHOf1Rv3SLa"
+        }
+      ],
+      "duration_ms": 122070,
+      "name": "PAINTING PICTURES",
+      "url": "https://open.spotify.com/track/7oLKoGzQVwjZ91AzCn560T"
     },
     {
       "added_at": "2023-05-16 08:16:01",
@@ -571,22 +571,6 @@
     {
       "added_at": "2023-05-16 08:16:01",
       "album": {
-        "name": "How to: Friend, Love, Freefall",
-        "url": "https://open.spotify.com/album/7vXiklrUeffx5o2F8VYwm3"
-      },
-      "artists": [
-        {
-          "name": "Rainbow Kitten Surprise",
-          "url": "https://open.spotify.com/artist/4hz8tIajF2INpgM0qzPJz2"
-        }
-      ],
-      "duration_ms": 152293,
-      "name": "It's Called: Freefall",
-      "url": "https://open.spotify.com/track/474uVhyGgK5MtY9gMcDgGl"
-    },
-    {
-      "added_at": "2023-05-16 08:16:01",
-      "album": {
         "name": "Who Really Cares",
         "url": "https://open.spotify.com/album/4oL7pMxnb04uuRI7ReXmuh"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 167864,
       "name": "Not Allowed",
       "url": "https://open.spotify.com/track/3IznIgmXtrUaoPWpQTy5jB"
+    },
+    {
+      "added_at": "2023-05-16 08:16:01",
+      "album": {
+        "name": "How to: Friend, Love, Freefall",
+        "url": "https://open.spotify.com/album/7vXiklrUeffx5o2F8VYwm3"
+      },
+      "artists": [
+        {
+          "name": "Rainbow Kitten Surprise",
+          "url": "https://open.spotify.com/artist/4hz8tIajF2INpgM0qzPJz2"
+        }
+      ],
+      "duration_ms": 152293,
+      "name": "It's Called: Freefall",
+      "url": "https://open.spotify.com/track/474uVhyGgK5MtY9gMcDgGl"
     },
     {
       "added_at": "2023-05-16 08:16:01",
@@ -683,22 +683,6 @@
     {
       "added_at": "2023-05-16 08:16:01",
       "album": {
-        "name": "Gawk",
-        "url": "https://open.spotify.com/album/1vWOYk3hF5bgVUUUaPvYLh"
-      },
-      "artists": [
-        {
-          "name": "Vundabar",
-          "url": "https://open.spotify.com/artist/1W4itxt3vwhmrgLEBuVHJ6"
-        }
-      ],
-      "duration_ms": 155933,
-      "name": "Alien Blues",
-      "url": "https://open.spotify.com/track/11iIikXxC6NP0Ma8vMD27x"
-    },
-    {
-      "added_at": "2023-05-16 08:16:01",
-      "album": {
         "name": "LIVE FOREVER",
         "url": "https://open.spotify.com/album/0xwtJXyI8H5fxIGVPvfYeI"
       },
@@ -715,6 +699,22 @@
       "duration_ms": 85360,
       "name": "nuts",
       "url": "https://open.spotify.com/track/11k8KTbNeG9iabeNXMuwf0"
+    },
+    {
+      "added_at": "2023-05-16 08:16:01",
+      "album": {
+        "name": "Gawk",
+        "url": "https://open.spotify.com/album/1vWOYk3hF5bgVUUUaPvYLh"
+      },
+      "artists": [
+        {
+          "name": "Vundabar",
+          "url": "https://open.spotify.com/artist/1W4itxt3vwhmrgLEBuVHJ6"
+        }
+      ],
+      "duration_ms": 155933,
+      "name": "Alien Blues",
+      "url": "https://open.spotify.com/track/11iIikXxC6NP0Ma8vMD27x"
     },
     {
       "added_at": "2023-05-16 08:16:01",
@@ -767,6 +767,22 @@
     {
       "added_at": "2023-05-16 08:16:01",
       "album": {
+        "name": "Birds In The Trap Sing McKnight",
+        "url": "https://open.spotify.com/album/42WVQWuf1teDysXiOupIZt"
+      },
+      "artists": [
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        }
+      ],
+      "duration_ms": 191622,
+      "name": "sdp interlude",
+      "url": "https://open.spotify.com/track/4gh0ZnHzaTMT1sDga7Ek0N"
+    },
+    {
+      "added_at": "2023-05-16 08:16:01",
+      "album": {
         "name": "vendetta!",
         "url": "https://open.spotify.com/album/68lLFdlKCAqUQ3p3uDlozr"
       },
@@ -783,22 +799,6 @@
       "duration_ms": 107044,
       "name": "vendetta!",
       "url": "https://open.spotify.com/track/5Sk39LuvdwuvL84jD01Dum"
-    },
-    {
-      "added_at": "2023-05-16 08:16:01",
-      "album": {
-        "name": "Birds In The Trap Sing McKnight",
-        "url": "https://open.spotify.com/album/42WVQWuf1teDysXiOupIZt"
-      },
-      "artists": [
-        {
-          "name": "Travis Scott",
-          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
-        }
-      ],
-      "duration_ms": 191622,
-      "name": "sdp interlude",
-      "url": "https://open.spotify.com/track/4gh0ZnHzaTMT1sDga7Ek0N"
     },
     {
       "added_at": "2023-05-16 08:16:01",
@@ -953,7 +953,7 @@
         }
       ],
       "duration_ms": 131253,
-      "name": "Boy's a liar",
+      "name": "Boy's a Liar",
       "url": "https://open.spotify.com/track/3NanY0K4okhIQzL33U5Ad8"
     },
     {
@@ -995,22 +995,6 @@
     {
       "added_at": "2023-05-16 08:16:01",
       "album": {
-        "name": "BABYDOLL (Speed)",
-        "url": "https://open.spotify.com/album/0qMwROWsV0fT5hBqkH1per"
-      },
-      "artists": [
-        {
-          "name": "Ari Abdul",
-          "url": "https://open.spotify.com/artist/25jJ6vyXwTRa0e6XCcdR6U"
-        }
-      ],
-      "duration_ms": 156650,
-      "name": "BABYDOLL (Speed)",
-      "url": "https://open.spotify.com/track/5K3SJuYEkvvrLbzOjPyRi1"
-    },
-    {
-      "added_at": "2023-05-16 08:16:01",
-      "album": {
         "name": "Moulaga",
         "url": "https://open.spotify.com/album/2k7vGyQFY5ILNhRf6Ia68J"
       },
@@ -1027,6 +1011,22 @@
       "duration_ms": 179868,
       "name": "Moulaga",
       "url": "https://open.spotify.com/track/5BfCoUcWNXcpyJfjXRIeyC"
+    },
+    {
+      "added_at": "2023-05-16 08:16:01",
+      "album": {
+        "name": "BABYDOLL (Speed)",
+        "url": "https://open.spotify.com/album/0qMwROWsV0fT5hBqkH1per"
+      },
+      "artists": [
+        {
+          "name": "Ari Abdul",
+          "url": "https://open.spotify.com/artist/25jJ6vyXwTRa0e6XCcdR6U"
+        }
+      ],
+      "duration_ms": 156650,
+      "name": "BABYDOLL (Speed)",
+      "url": "https://open.spotify.com/track/5K3SJuYEkvvrLbzOjPyRi1"
     },
     {
       "added_at": "2023-05-16 08:16:01",
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2023-05-16 08:16:01",
       "album": {
-        "name": "Tek It (I Watch the Moon)",
-        "url": "https://open.spotify.com/album/3Bt2OtHQDRDXC10Flgm9Rv"
-      },
-      "artists": [
-        {
-          "name": "Cafun\u00e9",
-          "url": "https://open.spotify.com/artist/581C5Qwl87TskfBEzuoisu"
-        }
-      ],
-      "duration_ms": 166859,
-      "name": "Tek It - Sped Up",
-      "url": "https://open.spotify.com/track/0MnTkIEP4zZN1IUSu8MvIz"
-    },
-    {
-      "added_at": "2023-05-16 08:16:01",
-      "album": {
         "name": "Gemini Rights",
         "url": "https://open.spotify.com/album/3Ks0eeH0GWpY4AU20D5HPD"
       },
@@ -1111,6 +1095,22 @@
       "duration_ms": 156506,
       "name": "Static",
       "url": "https://open.spotify.com/track/4OmfWzukSVD140NiAIEjem"
+    },
+    {
+      "added_at": "2023-05-16 08:16:01",
+      "album": {
+        "name": "Tek It (I Watch the Moon)",
+        "url": "https://open.spotify.com/album/3Bt2OtHQDRDXC10Flgm9Rv"
+      },
+      "artists": [
+        {
+          "name": "Cafun\u00e9",
+          "url": "https://open.spotify.com/artist/581C5Qwl87TskfBEzuoisu"
+        }
+      ],
+      "duration_ms": 166859,
+      "name": "Tek It - Sped Up",
+      "url": "https://open.spotify.com/track/0MnTkIEP4zZN1IUSu8MvIz"
     },
     {
       "added_at": "2023-05-16 08:16:01",

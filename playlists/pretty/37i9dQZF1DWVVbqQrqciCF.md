@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVVbqQrqciCF.md) - [plain]
 
 > コンポーザーのAyase、ボーカルのikuraからなる「小説を音楽にするユニット」、YOASOBIの楽曲をひとつのプレイリストに。
 
-[Spotify](https://open.spotify.com/user/spotify) - 202,029 likes - 38 songs - 2 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 202,419 likes - 38 songs - 2 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,4 +47,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVVbqQrqciCF.md) - [plain]
 | 37 | [Tracing A Dream](https://open.spotify.com/track/4L9Iuupn2JTSCHSn8uVdD6) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [E\-SIDE](https://open.spotify.com/album/2Il38p3xyKeLHM5tHa4b6R) | 4:01 |
 | 38 | [Encore](https://open.spotify.com/track/0O0RP8iesLTKxhlEY4MKX6) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [E\-SIDE](https://open.spotify.com/album/2Il38p3xyKeLHM5tHa4b6R) | 4:30 |
 
-Snapshot ID: `MCw1MWQ1NTM1MTRjMjg1MzAyYmUyYzE1YjQ2MThmMjdjZGM0YjJmOTg1`
+Snapshot ID: `MCw1N2I2ZDg4YTI5OTQwYjJkMWYyZDZmN2M0ZGMyN2NmYzRlYTQ3NWY5`

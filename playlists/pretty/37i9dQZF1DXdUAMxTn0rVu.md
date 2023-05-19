@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdUAMxTn0rVu.md) - [plain]
 
 > Essential songs from the late '90s, early 2000s underground hip\-hop scene\. Cover: J Dilla
 
-[Spotify](https://open.spotify.com/user/spotify) - 385,573 likes - 50 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 386,017 likes - 50 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdUAMxTn0rVu.md) - [plain]
 | 36 | [Whenimondamic](https://open.spotify.com/track/1zAFB2woHMnip3O0WJJA41) | [Lootpack](https://open.spotify.com/artist/2D0NqDyt2R9RVar9MNs8kP) | [Soundpieces: Da Antidote](https://open.spotify.com/album/7qK8lMl95Xc1nlMSH5Z2RC) | 2:45 |
 | 37 | [Reality Check](https://open.spotify.com/track/66YJddDOMyb9oj7vqI9CqU) | [Binary Star](https://open.spotify.com/artist/1bulNj9KHvx8haqJBFDSyz), [Senim](https://open.spotify.com/artist/0Df5gzL6quFRUanH7J8yNe), [Onemanarmy](https://open.spotify.com/artist/5hFUdo03JPEWYkusqTwjiX), [One Be Lo](https://open.spotify.com/artist/2wQR86xNE8mkPaffnClYAj) | [Masters of the Universe](https://open.spotify.com/album/69UJqktqkpO9QdzybUMxNK) | 4:01 |
 | 38 | [Get Dis Money](https://open.spotify.com/track/6xrjmQMIIYgLgjCOeq2dee) | [Slum Village](https://open.spotify.com/artist/1020a42xVklY6c56imNcaa) | [Fan\-Tas\-Tic, Vol\. 2](https://open.spotify.com/album/22IhsI5JpldSrE7vhidAja) | 3:31 |
-| 39 | [Body Rock](https://open.spotify.com/track/7qxMoa63PAfPZSYafDeHij) | [Mos Def](https://open.spotify.com/artist/0Mz5XE0kb1GBnbLQm2VbcO), [Q\-Tip](https://open.spotify.com/artist/3ZotbHeyVQKxQCPDJuQ4SU), [Tash](https://open.spotify.com/artist/22qf8cJRzBjIWb2Jc4JeOr) | [Lyricist Lounge Vol\. 1](https://open.spotify.com/album/21tkKiB2eq0Q3Nl49OxKbr) | 5:11 |
-| 40 | [B\-Boy Document '99](https://open.spotify.com/track/5WF9Ih0si21Anj48dD9FFN) | [The High & Mighty](https://open.spotify.com/artist/4hJpETVqz3jIrAH1WUzGEj), [Mad Skillz](https://open.spotify.com/artist/4FUYJaV3EXmjoyBK7tC6ZF), [Mos Def](https://open.spotify.com/artist/0Mz5XE0kb1GBnbLQm2VbcO) | [Home Field Advantage](https://open.spotify.com/album/05d5zAD9KAdaJf7yQ98jxF) | 3:54 |
+| 39 | [B\-Boy Document '99](https://open.spotify.com/track/5WF9Ih0si21Anj48dD9FFN) | [The High & Mighty](https://open.spotify.com/artist/4hJpETVqz3jIrAH1WUzGEj), [Mad Skillz](https://open.spotify.com/artist/4FUYJaV3EXmjoyBK7tC6ZF), [Mos Def](https://open.spotify.com/artist/0Mz5XE0kb1GBnbLQm2VbcO) | [Home Field Advantage](https://open.spotify.com/album/05d5zAD9KAdaJf7yQ98jxF) | 3:54 |
+| 40 | [Body Rock](https://open.spotify.com/track/7qxMoa63PAfPZSYafDeHij) | [Mos Def](https://open.spotify.com/artist/0Mz5XE0kb1GBnbLQm2VbcO), [Q\-Tip](https://open.spotify.com/artist/3ZotbHeyVQKxQCPDJuQ4SU), [Tash](https://open.spotify.com/artist/22qf8cJRzBjIWb2Jc4JeOr) | [Lyricist Lounge Vol\. 1](https://open.spotify.com/album/21tkKiB2eq0Q3Nl49OxKbr) | 5:11 |
 | 41 | [100% Dundee](https://open.spotify.com/track/63J9sQnp8NxLuOgeqgAS6O) | [The Roots](https://open.spotify.com/artist/78xUyw6FkVZrRAtziFdtdu) | [Things Fall Apart](https://open.spotify.com/album/0qbl8aNaCUOvX8HGsZYLfh) | 3:53 |
 | 42 | [Take a Walk](https://open.spotify.com/track/5zcRPNrvp8agDQbBMewzRt) | [Masta Ace](https://open.spotify.com/artist/1wo9h8DP7M0M1orKuGZgWv), [Apocalypse](https://open.spotify.com/artist/7LdtN6h2Bln3e1RsS0Bxot) | [Disposable Arts](https://open.spotify.com/album/6oBCrRVCWpqR4YpNIqQRlN) | 5:07 |
 | 43 | [Fortfied Live](https://open.spotify.com/track/3oFn11Yah34EHZMEZY7FlL) | [Talib Kweli](https://open.spotify.com/artist/0lEssBAxQl2In4RpaB1C2Y), [Yasiin Bey](https://open.spotify.com/artist/6r2niOTnexy9xss5g8GWXH), [Mr Man](https://open.spotify.com/artist/0g0fNhGsKbfFuNlaHK9e43) | [Train of Thought: Lost Lyrics, Rare Releases & Beautiful B\-Sides, Vol\. 1](https://open.spotify.com/album/4wYkDG4lbvtVswFs1ucozo) | 5:11 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdUAMxTn0rVu.md) - [plain]
 | 49 | [Thick](https://open.spotify.com/track/3UB7VJpumOOpJ0gKfq7Hgk) | [D.I.T.C.](https://open.spotify.com/artist/6fF9HxdiSPGCXar8svBeHS), [A.G.](https://open.spotify.com/artist/4thsoee1SA3GbbPofv6tZE), [Big L](https://open.spotify.com/artist/30fiiwr2EeZp1tAhzYCmyM), [O.C.](https://open.spotify.com/artist/5XI6qfoZSiEYtmItjfEX1Q) | [D.I.T.C.](https://open.spotify.com/album/1LtskoW9DkoA4xgST9LXJW) | 3:42 |
 | 50 | [Answers](https://open.spotify.com/track/62XG3j3pMiIkHZxybltx4g) | [Lootpack](https://open.spotify.com/artist/2D0NqDyt2R9RVar9MNs8kP), [Quasimoto](https://open.spotify.com/artist/1rJkz5vopfGxTUGFNB3o4G) | [Soundpieces: Da Antidote](https://open.spotify.com/album/7qK8lMl95Xc1nlMSH5Z2RC) | 4:43 |
 
-Snapshot ID: `MCw3N2Q5ZDVmZDNhYTM5NmJlMjRmZGJhZGQ4NDg0NGYyZjk3MDhkZjhj`
+Snapshot ID: `MCw2MThkYzNkYjc2MzkyZWI3MmJlMGM4ODEwYmU0YTBlODRkMzdmNDE3`

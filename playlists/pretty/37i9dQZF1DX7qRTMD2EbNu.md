@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7qRTMD2EbNu.md) - [plain]
 
 > Hottest bars coming live from the 233\.  Cover: <a href="https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY?si=B\-gkqPYAQ3CDQqrj40ZpDQ"> Kwesi Arthur</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,434 likes - 80 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,452 likes - 80 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7qRTMD2EbNu.md) - [plain]
 | 31 | [Drip](https://open.spotify.com/track/63yk7vrJHUo3BiQIwI35tV) | [Modulo Thegabwoy](https://open.spotify.com/artist/2EY9vekjnom42RBLKigfwX), [Marince Omario](https://open.spotify.com/artist/3yqJ0i7h5llZuEgkcrgu7M) | [Drip](https://open.spotify.com/album/78CIzED6KQqMbQPikwzVVL) | 3:36 |
 | 32 | [Wtf](https://open.spotify.com/track/3ThTiHF9tHbJ8W9gF9hIJD) | [Omar Sterling](https://open.spotify.com/artist/3hvJvURxBzOmRYDDEEIr7T) | [Wtf](https://open.spotify.com/album/7aRyXcDMsV7Y7rHGMZhLtZ) | 3:23 |
 | 33 | [Aso\)den](https://open.spotify.com/track/7oqQRSdepSrX1z0YmMA6Ky) | [Yaw Tog](https://open.spotify.com/artist/2Dqt6WjEca8WcZuGiUcYDd) | [Aso\)den](https://open.spotify.com/album/55WQAIPqeYwBSrutMaXiRK) | 3:15 |
-| 34 | [Obaa Hemaa](https://open.spotify.com/track/5ngy0dLyezwaO15C51TrMB) | [Skyface SDW](https://open.spotify.com/artist/4R4KEZSjfEuuLyyqTiTVtG), [O'Kenneth](https://open.spotify.com/artist/3EyOT8FSuINDoWYHfm8TIM), [Kwaku DMC](https://open.spotify.com/artist/4gP93834jVbocef9R42gQz), [reggie](https://open.spotify.com/artist/08gM7TMuG3DTBmWUuH0w8T), [Beeztrap KOTM](https://open.spotify.com/artist/39IXXExWT64CmkWwkO2ANn), [Jay Bahd](https://open.spotify.com/artist/0Q7yvULFrthrEzwtn5hRcw) | [Obaa Hemaa](https://open.spotify.com/album/0FhtqISRyEGe6YVxjySqN9) | 3:04 |
+| 34 | [Obaa Hemaa](https://open.spotify.com/track/1k9V5yBlYFg0i7BruA6lux) | [Skyface SDW](https://open.spotify.com/artist/4R4KEZSjfEuuLyyqTiTVtG), [O’Kenneth](https://open.spotify.com/artist/2IlZ9ELZSszoF3eDvj0uKe), [Reggie](https://open.spotify.com/artist/65ZsNUD4VR9tanQXJeMxt1), [Beeztrap KOTM](https://open.spotify.com/artist/39IXXExWT64CmkWwkO2ANn), [Kwaku DMC](https://open.spotify.com/artist/4gP93834jVbocef9R42gQz), [Jay Bahd](https://open.spotify.com/artist/0Q7yvULFrthrEzwtn5hRcw) | [Obaa Hemaa](https://open.spotify.com/album/6X8h5BH1oil6BW1JlVAytH) | 3:04 |
 | 35 | [Penny](https://open.spotify.com/track/5issK1Y1KE7VirtZE4Ac1w) | [Kwesi Arthur](https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY) | [Penny](https://open.spotify.com/album/2z4iQHDq7b8i6EjWRxdHOR) | 3:03 |
 | 36 | [Assignment](https://open.spotify.com/track/1Crv7EI1sdcy07OlvvoA2Y) | [KiddBlack](https://open.spotify.com/artist/3vQvbO6Fd24F5StyZp1UMH), [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ), [DJ FortuneDJ](https://open.spotify.com/artist/3H1ujqsrtJXeYDoJ2Ar9I9) | [Assignment](https://open.spotify.com/album/2CnjO9KA45Cu5OTtshEr0D) | 2:17 |
 | 37 | [Streets Ayeshi](https://open.spotify.com/track/0wPU1eNyf9rT9oPnOUdVad) | [Ground Up Chale](https://open.spotify.com/artist/3MqB8M7OlepCeWjgl5Elyh), [Bigg Homie Flee](https://open.spotify.com/artist/24OjXcA2zXunU4i5RgzZQa), [Kimati](https://open.spotify.com/artist/0C7w64wIrv459eGHwq6hPn), [Lalid](https://open.spotify.com/artist/18eUnEkhFO7mnMNDURU1UV), [QV](https://open.spotify.com/artist/50CBRvn7AKdKTErB76P7dv), [Abdoulaye Diope](https://open.spotify.com/artist/5B7uXAP6dAICj1MahqaPSy) | [Trenches Babies](https://open.spotify.com/album/3IP9LuMkbM7Ka57uxuyiWd) | 4:16 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7qRTMD2EbNu.md) - [plain]
 | 79 | [Call My Name \(Odoyewu\)](https://open.spotify.com/track/661N1vOxyokH5dQwNqlryC) | [Kawabanga](https://open.spotify.com/artist/5VcDYvRgsmMRpklUZarFEh), [Trig Triga](https://open.spotify.com/artist/1B9BzKM9kFTw5vjRsXUdff) | [BEEN ONE](https://open.spotify.com/album/3nhemfoUj5gWPmzAwg6nHg) | 3:12 |
 | 80 | [SUV](https://open.spotify.com/track/2PeErwVrlNWQe9rUuNH7CN) | [Sofie](https://open.spotify.com/artist/1EJcOEBbh3yXuat8rF7lR0) | [SUV](https://open.spotify.com/album/54RojlSYjybyjnpiwy18tE) | 2:58 |
 
-Snapshot ID: `MCxkNTEwMjM2ZWNkODAxZmJjZjc0MzQyYjdiMzAxYzA3Y2E3ZTVmM2Vl`
+Snapshot ID: `MCw2MzIyY2MyZGY5ZWRkMjFlODU5MDZhMzhkNGFlNGQ5ODFhNjNmZjIz`

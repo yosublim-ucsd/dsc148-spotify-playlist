@@ -2,9 +2,9 @@
 
 ### [X](https://open.spotify.com/playlist/37i9dQZF1DXcItj8Rw7Oqd)
 
-> Pop x Rock\. Cover: Busted
+> Pop x Rock\. Cover: PVRIS
 
-85 songs - 4 hr 18 min
+88 songs - 4 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,6 +53,7 @@
 | [Look At You](https://open.spotify.com/track/3A85Rb4KqDVh5tycRdu2OH) | [Rebecca Black](https://open.spotify.com/artist/3Vl9fyKMIdLMswk8ai3mm9) | [Let Her Burn](https://open.spotify.com/album/7ejtUeGJ9QV8IQHEBRGRWr) | 2:44 | 2023-02-17 |  |
 | [Lose My Mind \(feat\. Josh Franceschi\)](https://open.spotify.com/track/3G2FS86ctPb7BqRH9Cp9M6) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM), [You Me At Six](https://open.spotify.com/artist/1kNQXvepPjaPgUfeDAF2h6), [Josh Franceschi](https://open.spotify.com/artist/1TUHJZ0mNtVimkplNEki48) | [Lose My Mind \(feat\. Josh Franceschi\)](https://open.spotify.com/album/3O1ZHXPJBX6CKBaxzlH5c3) | 3:20 | 2022-12-09 |  |
 | [Loser Kid 2.0](https://open.spotify.com/track/3SVjnYq17hnR82HSnfzSjV) | [Busted](https://open.spotify.com/artist/3Z6IRCo7umuk8K2XQy0ZDj), [Simple Plan](https://open.spotify.com/artist/2p4FqHnazRucYQHyDCdBrJ) | [Loser Kid 2.0](https://open.spotify.com/album/3SBe4YU8D2PVgKZopdMKny) | 3:43 | 2023-04-13 |  |
+| [LOVE IS A...](https://open.spotify.com/track/26KB6jZEqehXJNpguKRomC) | [PVRIS](https://open.spotify.com/artist/6oFs3qk4VepIVFdoD4jmsy) | [LOVE IS A...](https://open.spotify.com/album/4t2uQMc6hW16fiIAY1Cx2K) | 3:41 | 2023-05-18 |  |
 | [Love Rush](https://open.spotify.com/track/41BpMpEPf3oo81DUoGfw32) | [Jemma Johnson](https://open.spotify.com/artist/7uhRd4COwyCLdMiTXzw7Hq) | [Love Rush](https://open.spotify.com/album/72Q9DnfCrWdrY8A95mXXrr) | 2:53 | 2022-12-09 |  |
 | [Love Sux](https://open.spotify.com/track/0ML3PJ6f9lgj1B4FQo4kZB) | [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [Love Sux](https://open.spotify.com/album/5pkQpJAHxy9BzwA7E1UWxF) | 2:48 | 2022-12-09 |  |
 | [love u in the morning](https://open.spotify.com/track/2EcW6vI753m0KQOganbQrK) | [Izzi De\-Rosa](https://open.spotify.com/artist/3Z6QJOLlIS8vdKV4f3jc6g) | [love u in the morning](https://open.spotify.com/album/77LUvtfw3URuvXMDPYLtxZ) | 2:44 | 2022-12-09 |  |
@@ -67,6 +68,7 @@
 | [NYC](https://open.spotify.com/track/5F6gniXisSbOKtfgIJIKoD) | [Knox](https://open.spotify.com/artist/61S5H9Lxn1PDUvu1TV0kCX) | [How To Lose A Girl in 7 Songs](https://open.spotify.com/album/3fxeIzMwjsQYIT91v6uHoR) | 3:24 | 2023-02-17 |  |
 | [Out Of My System](https://open.spotify.com/track/4wDXilLhgq8qNnj4wiEp4F) | [Louis Tomlinson](https://open.spotify.com/artist/57WHJIHrjOE3iAxpihhMnp) | [Out Of My System](https://open.spotify.com/album/7jopIUIxL6FK9izKNhfVXb) | 2:17 | 2022-12-09 |  |
 | [Pls Cheat On Me](https://open.spotify.com/track/3UtwN7svr9Bonq7faI4FOJ) | [Precious Pepala](https://open.spotify.com/artist/2i6GoBzXmwxdD44bUM26M1) | [Pls Cheat On Me](https://open.spotify.com/album/2IVYAk73nM0NqoJUC5GVrI) | 2:51 | 2023-03-24 |  |
+| [Push It Down](https://open.spotify.com/track/77IcomUbuyMqn52R5CbhrM) | [L Devine](https://open.spotify.com/artist/5dhyUSoGhz79WTzP39vKs4) | [Push It Down](https://open.spotify.com/album/05lq41261H9CLH9viIgTUG) | 2:57 | 2023-05-18 |  |
 | [Queen Bitch](https://open.spotify.com/track/3TyAGCbaaiQIYKKj42WO9R) | [Kailee Morgue](https://open.spotify.com/artist/245PKF3hKjtxJKIG153kF0) | [Queen Bitch](https://open.spotify.com/album/6BVkRA0sAGmRoeEp6CCJBH) | 2:41 | 2022-12-09 |  |
 | [Real Life Sux](https://open.spotify.com/track/5vddPg2RoRtqLwg3Pz3aI6) | [Justus Bennetts](https://open.spotify.com/artist/4PcesEvU9iICf7dwNt5B3l) | [Real Life Sux](https://open.spotify.com/album/0ZN9lMxI4jNT69TMVfCSjg) | 2:23 | 2022-12-09 |  |
 | [Sad Girl Summer](https://open.spotify.com/track/52ITJgaQHGQ4Uxnqz44jWP) | [Cassyette](https://open.spotify.com/artist/3X8VK5wNpLQCVEo4sWBH2A) | [Sad Girl Summer](https://open.spotify.com/album/6BD3f64782idv4IF2npufe) | 3:13 | 2022-12-09 |  |
@@ -79,6 +81,7 @@
 | [SOS \(feat\. Travis Barker\)](https://open.spotify.com/track/6CTHxxLGZEqLIWuaPWsDF9) | [Sueco](https://open.spotify.com/artist/4iDroUFo89Y7YBsdDTBmTD), [Travis Barker](https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX) | [It Was Fun While It Lasted](https://open.spotify.com/album/0d2livswZ7Q3puCCJCE0Ge) | 2:49 | 2022-12-09 |  |
 | [sound in my head](https://open.spotify.com/track/6tgaf9F3ZHgIlXpdymEfUe) | [Chloe Lilac](https://open.spotify.com/artist/2CUeVZl8E9ouggdBhyclFx) | [you were good to me \(deluxe\)](https://open.spotify.com/album/1nWwnKK3hYQmO8tCRY6S0T) | 2:31 | 2022-12-09 |  |
 | [Story Of My Life \(feat\. Trippie Redd\)](https://open.spotify.com/track/1g7j5AxiNKTGjryhFIlAsA) | [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg), [Sueco](https://open.spotify.com/artist/4iDroUFo89Y7YBsdDTBmTD), [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax) | [Story Of My Life \(feat\. Trippie Redd\)](https://open.spotify.com/album/6C4DfusL8qEXmt6MFhAMU6) | 3:11 | 2022-12-09 |  |
+| [Stuck](https://open.spotify.com/track/1PYG9Akj0LAZZUDXzV9m1S) | [Thirty Seconds To Mars](https://open.spotify.com/artist/0RqtSIYZmd4fiBKVFqyIqD) | [Stuck](https://open.spotify.com/album/2kcNcoLI7IeK9GJepoA2lq) | 3:02 | 2023-05-18 |  |
 | [Take What You Want \(feat\. Ozzy Osbourne & Travis Scott\)](https://open.spotify.com/track/7CZyCXKG6d5ALeq41sLzbw) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60), [Ozzy Osbourne](https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [Hollywood's Bleeding](https://open.spotify.com/album/4g1ZRSobMefqF6nelkgibi) | 3:49 | 2022-12-09 |  |
 | [The Funeral](https://open.spotify.com/track/5Sq61mGiOGW0GxgnFNR1MF) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW) | [YUNGBLUD](https://open.spotify.com/album/3Hthv2JVzYaWq0TyElU5lF) | 3:30 | 2022-12-09 |  |
 | [THE LONELIEST](https://open.spotify.com/track/1Ame8XTX6QHY0l0ahqUhgv) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [THE LONELIEST](https://open.spotify.com/album/1DFNeS38zvoPkx9wwMEwbc) | 4:07 | 2022-12-09 |  |

@@ -4,7 +4,7 @@
 
 > Top trending country tracks from the last few months\. Cover: Warren Zeiders
 
-295 songs - 15 hr 40 min
+296 songs - 15 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -270,7 +270,8 @@
 | [Watermelon Moonshine](https://open.spotify.com/track/6KaKmX6EIu3x2057HoZwQF) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Watermelon Moonshine](https://open.spotify.com/album/2Vc7PFvxxVOURgA5lILY82) | 3:28 | 2023-01-13 |  |
 | [Way Down Yonder](https://open.spotify.com/track/418ve8CTLM3XbeGWSq8fA6) | [Chase Rice](https://open.spotify.com/artist/6pBNfggcZZDCmb0p92OnGn) | [Way Down Yonder](https://open.spotify.com/album/6mUJMoaJvC273B1Dxsu4fL) | 3:38 | 2022-11-02 | 2023-01-21 |
 | [We Had It Good](https://open.spotify.com/track/7HQIudswhHicyidL1V4iiO) | [Chase Matthew](https://open.spotify.com/artist/7HTLVyjNf0VRxfIgNcfRRH) | [Born for This](https://open.spotify.com/album/2N1fClE6geEUJvpSeReyp7) | 3:32 | 2022-03-18 | 2023-01-14 |
-| [We Ride](https://open.spotify.com/track/4ua94LvtGZlGsZVlvMJCUS) | [Bryan Martin](https://open.spotify.com/artist/0ChjBYedhZTQnWZWQYg15U) | [We Ride](https://open.spotify.com/album/4E1qrH1o4eKRu8S6JVAnn3) | 3:08 | 2023-02-10 |  |
+| [We Ride](https://open.spotify.com/track/4ua94LvtGZlGsZVlvMJCUS) | [Bryan Martin](https://open.spotify.com/artist/0ChjBYedhZTQnWZWQYg15U) | [We Ride](https://open.spotify.com/album/4E1qrH1o4eKRu8S6JVAnn3) | 3:08 | 2023-02-10 | 2023-05-19 |
+| [We Ride](https://open.spotify.com/track/72kGuWpRiuA149Bn5lDkIO) | [Bryan Martin](https://open.spotify.com/artist/0ChjBYedhZTQnWZWQYg15U) | [Poets & Old Souls](https://open.spotify.com/album/19X9Ts9AYIRrqthSTf3qss) | 3:08 | 2023-05-12 |  |
 | [What A Song Can Do](https://open.spotify.com/track/2hRDjNbuoqxqHcXj29JJfZ) | [Lady A](https://open.spotify.com/artist/32WkQRZEVKSzVAAYqukAEA) | [What A Song Can Do \(Chapter One\)](https://open.spotify.com/album/1GMVHbMadbjNGFoOYXwnLb) | 3:41 | 2021-12-17 | 2022-02-19 |
 | [What Are You Drinking](https://open.spotify.com/track/6G2hBL1ttQuXbCvXV6c6F3) | [Ryan Hurd](https://open.spotify.com/artist/7lDVEkjIURPMyUYwoQRrpw) | [Pelago](https://open.spotify.com/album/0vlxtyaep2FkkVidYC49PA) | 3:24 | 2021-12-17 | 2022-09-10 |
 | [What He Didn't Do](https://open.spotify.com/track/5OLaVCAM2pqg7X9mAM2W8M) | [Carly Pearce](https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72) | [29: Written In Stone](https://open.spotify.com/album/5lwUnuV4PJekfTcYIbkq6a) | 3:11 | 2021-12-17 | 2022-08-06 |

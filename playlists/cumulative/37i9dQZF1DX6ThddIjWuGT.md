@@ -2,7 +2,7 @@
 
 ### [Latin Pop Classics](https://open.spotify.com/playlist/37i9dQZF1DX6ThddIjWuGT)
 
-> Timeless Latin pop hits through the decades! Cover: Chayanne
+> Timeless Latin pop hits through the decades! Cover: Luis Miguel
 
 188 songs - 12 hr 34 min
 

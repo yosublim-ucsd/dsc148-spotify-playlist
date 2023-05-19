@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Bienvenida Generaci\u00f3n RADAR 2023! Los Aptos en portada. ",
-  "num_followers": 69814,
+  "num_followers": 69838,
   "original_name": "RADAR M\u00e9xico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkYzlkNzE2ZmE0MTgzOTMyOGQ0YTU1MTZlMTRhMmYwZTZmMzdmMWY4",
+  "snapshot_id": "MCxiNjViYzllOTBlNDhkNGEwYWM4ZTU4MzhiYzFiNmVlOTA3MzRiOGUw",
   "tracks": [
     {
       "added_at": "2023-04-21 21:43:27",
@@ -543,22 +543,6 @@
     {
       "added_at": "2023-04-21 21:43:27",
       "album": {
-        "name": "Mi Propuesta",
-        "url": "https://open.spotify.com/album/1rgY4OhGCcJRrWaz4BoCSA"
-      },
-      "artists": [
-        {
-          "name": "Cuatro De Oro",
-          "url": "https://open.spotify.com/artist/5jY3TOEPLD2fIt4hipYCU9"
-        }
-      ],
-      "duration_ms": 205075,
-      "name": "Mi Propuesta",
-      "url": "https://open.spotify.com/track/6z9oIE3c1QFaJxuaQW1I7u"
-    },
-    {
-      "added_at": "2023-04-21 21:43:27",
-      "album": {
         "name": "Los Infieles",
         "url": "https://open.spotify.com/album/3mzCxXpsscupK6Ffx9tWWI"
       },
@@ -571,6 +555,22 @@
       "duration_ms": 183510,
       "name": "Los Infieles",
       "url": "https://open.spotify.com/track/0YSwh7R5uI5Xzb5TYPiGuO"
+    },
+    {
+      "added_at": "2023-04-21 21:43:27",
+      "album": {
+        "name": "Mi Propuesta",
+        "url": "https://open.spotify.com/album/1rgY4OhGCcJRrWaz4BoCSA"
+      },
+      "artists": [
+        {
+          "name": "Cuatro De Oro",
+          "url": "https://open.spotify.com/artist/5jY3TOEPLD2fIt4hipYCU9"
+        }
+      ],
+      "duration_ms": 205075,
+      "name": "Mi Propuesta",
+      "url": "https://open.spotify.com/track/6z9oIE3c1QFaJxuaQW1I7u"
     },
     {
       "added_at": "2023-04-21 21:43:27",
@@ -607,22 +607,18 @@
     {
       "added_at": "2023-04-21 21:43:27",
       "album": {
-        "name": "LMV",
-        "url": "https://open.spotify.com/album/5S4OjWHkDANBQJUyRwRlNX"
+        "name": "Estos D\u00edas",
+        "url": "https://open.spotify.com/album/28oQLDvOUhSoyyTZSkpwdh"
       },
       "artists": [
         {
-          "name": "Yerai R",
-          "url": "https://open.spotify.com/artist/1d9KyLzLJGWNVuWjNH4WmY"
-        },
-        {
-          "name": "Michelle BI",
-          "url": "https://open.spotify.com/artist/2dUVZnenljNsORRkO4OnzM"
+          "name": "Drupys",
+          "url": "https://open.spotify.com/artist/51v2O1Wdjz5ESexCePinre"
         }
       ],
-      "duration_ms": 171153,
-      "name": "LMV",
-      "url": "https://open.spotify.com/track/3VX6Iwk3LMKWLWZCX4xJwD"
+      "duration_ms": 204826,
+      "name": "Estos D\u00edas",
+      "url": "https://open.spotify.com/track/2oIwJKdjg8amIYUupl4RUO"
     },
     {
       "added_at": "2023-04-21 21:43:27",
@@ -643,6 +639,42 @@
     {
       "added_at": "2023-04-21 21:43:27",
       "album": {
+        "name": "No Quiero Llorar",
+        "url": "https://open.spotify.com/album/3PgJ2wWIEOTu7smbdou1La"
+      },
+      "artists": [
+        {
+          "name": "Adrian L Santos",
+          "url": "https://open.spotify.com/artist/2KtMgfc6pR6Jpovuqrs8Ac"
+        }
+      ],
+      "duration_ms": 192500,
+      "name": "No Quiero Llorar",
+      "url": "https://open.spotify.com/track/3wNfYe0jVuk14kY028HzK1"
+    },
+    {
+      "added_at": "2023-04-21 21:43:27",
+      "album": {
+        "name": "LMV",
+        "url": "https://open.spotify.com/album/5S4OjWHkDANBQJUyRwRlNX"
+      },
+      "artists": [
+        {
+          "name": "Yerai R",
+          "url": "https://open.spotify.com/artist/1d9KyLzLJGWNVuWjNH4WmY"
+        },
+        {
+          "name": "Michelle BI",
+          "url": "https://open.spotify.com/artist/2dUVZnenljNsORRkO4OnzM"
+        }
+      ],
+      "duration_ms": 171153,
+      "name": "LMV",
+      "url": "https://open.spotify.com/track/3VX6Iwk3LMKWLWZCX4xJwD"
+    },
+    {
+      "added_at": "2023-04-21 21:43:27",
+      "album": {
         "name": "Andando Entre la Lumbre",
         "url": "https://open.spotify.com/album/4ddTT1v8j9aY0Y0o59XA0J"
       },
@@ -655,22 +687,6 @@
       "duration_ms": 183775,
       "name": "Andando Entre la Lumbre",
       "url": "https://open.spotify.com/track/10K6wm5vE2cvZ5NsuVvEgZ"
-    },
-    {
-      "added_at": "2023-04-21 21:43:27",
-      "album": {
-        "name": "Estos D\u00edas",
-        "url": "https://open.spotify.com/album/28oQLDvOUhSoyyTZSkpwdh"
-      },
-      "artists": [
-        {
-          "name": "Drupys",
-          "url": "https://open.spotify.com/artist/51v2O1Wdjz5ESexCePinre"
-        }
-      ],
-      "duration_ms": 204826,
-      "name": "Estos D\u00edas",
-      "url": "https://open.spotify.com/track/2oIwJKdjg8amIYUupl4RUO"
     },
     {
       "added_at": "2023-04-21 21:43:27",
@@ -719,22 +735,6 @@
       "duration_ms": 163141,
       "name": "Como Intento",
       "url": "https://open.spotify.com/track/1zpfNm2TIcA5mqiONzXyaf"
-    },
-    {
-      "added_at": "2023-04-21 21:43:27",
-      "album": {
-        "name": "No Quiero Llorar",
-        "url": "https://open.spotify.com/album/3PgJ2wWIEOTu7smbdou1La"
-      },
-      "artists": [
-        {
-          "name": "Adrian L Santos",
-          "url": "https://open.spotify.com/artist/2KtMgfc6pR6Jpovuqrs8Ac"
-        }
-      ],
-      "duration_ms": 192500,
-      "name": "No Quiero Llorar",
-      "url": "https://open.spotify.com/track/3wNfYe0jVuk14kY028HzK1"
     },
     {
       "added_at": "2023-04-21 21:43:27",
@@ -835,18 +835,18 @@
     {
       "added_at": "2023-04-21 21:43:27",
       "album": {
-        "name": "Te Has Convertido",
-        "url": "https://open.spotify.com/album/7tcYacZtqg7FB1NX0gS1pq"
+        "name": "5",
+        "url": "https://open.spotify.com/album/7yZ3wtLm2vdGM988Gnja0V"
       },
       "artists": [
         {
-          "name": "Los K-Bros",
-          "url": "https://open.spotify.com/artist/6t0pW5dxdrPbrqnCK4sQ2f"
+          "name": "El Proyecto",
+          "url": "https://open.spotify.com/artist/5tm5SxkL3KMVzl9XQvr5Ai"
         }
       ],
-      "duration_ms": 205986,
-      "name": "Te Has Convertido",
-      "url": "https://open.spotify.com/track/2n5nRP7fcX88f9kkrQJU46"
+      "duration_ms": 215574,
+      "name": "DOLOR",
+      "url": "https://open.spotify.com/track/66kByrbdiufwvhvRyH5PSF"
     }
   ],
   "unique_name": "RADAR M\u00e9xico",

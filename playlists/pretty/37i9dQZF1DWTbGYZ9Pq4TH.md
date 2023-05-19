@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTbGYZ9Pq4TH.md) - [plain]
 
 > Le canzoni italiane più romantiche di sempre ❤️
 
-[Spotify](https://open.spotify.com/user/spotify) - 167,589 likes - 50 songs - 3 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 167,615 likes - 50 songs - 3 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTbGYZ9Pq4TH.md) - [plain]
 | 44 | [Come Nelle Favole](https://open.spotify.com/track/71LtXfhnWA7kR8Ntk1VE8R) | [Vasco Rossi](https://open.spotify.com/artist/5l4nhyz8876RhgE2d18h65) | [VASCONONSTOP](https://open.spotify.com/album/1UegELBIi5854L79kswXuE) | 4:13 |
 | 45 | [Gli Ostacoli Del Cuore](https://open.spotify.com/track/4WMMIrXdbO5WoOAFqbYnTx) | [Elisa](https://open.spotify.com/artist/2ARH58Hit3yC6ziGdhma23), [Ligabue](https://open.spotify.com/artist/7H8ZC8uHJMPZGLMApRRNIz) | [Soundtrack '96 \- 06 \(Deluxe Version\)](https://open.spotify.com/album/6K4obGZEeum2rpPmMEDRXW) | 4:26 |
 | 46 | [La donna cannone](https://open.spotify.com/track/2T2t1DXwzdilKF3BQPHREo) | [Francesco De Gregori](https://open.spotify.com/artist/16FJYC4FqKhZXiXIzMI4ul) | [La Donna Cannone](https://open.spotify.com/album/7COQBoeP7bBHykCpFbdpR2) | 4:39 |
-| 47 | [D'improvviso](https://open.spotify.com/track/4ykkHvzEE45AlcUq6vkVW6) | [Lorenzo Fragola](https://open.spotify.com/artist/0tTS475qIqv3KXYZMXjsYy) | [Zero Gravity](https://open.spotify.com/album/0FxEbIEYdmAZ7u2oDB0Z4P) | 3:29 |
-| 48 | [Concedimi](https://open.spotify.com/track/5p47A4tB8VQcsiscTLQi9L) | [Matteo Romano](https://open.spotify.com/artist/5Imsy0ZXNi7uWLJpP5dZ8b) | [Concedimi](https://open.spotify.com/album/0rrAWav2oFWiTk6S19YeM7) | 3:09 |
+| 47 | [Concedimi](https://open.spotify.com/track/5p47A4tB8VQcsiscTLQi9L) | [Matteo Romano](https://open.spotify.com/artist/5Imsy0ZXNi7uWLJpP5dZ8b) | [Concedimi](https://open.spotify.com/album/0rrAWav2oFWiTk6S19YeM7) | 3:09 |
+| 48 | [D'improvviso](https://open.spotify.com/track/4ykkHvzEE45AlcUq6vkVW6) | [Lorenzo Fragola](https://open.spotify.com/artist/0tTS475qIqv3KXYZMXjsYy) | [Zero Gravity](https://open.spotify.com/album/0FxEbIEYdmAZ7u2oDB0Z4P) | 3:29 |
 | 49 | [Mi Fido Di Te](https://open.spotify.com/track/46KXIKdv0ja37KZ3RIcqu0) | [Jovanotti](https://open.spotify.com/artist/7tmMPdOmFvdRvbj2aWoiRi) | [Buon Sangue](https://open.spotify.com/album/4CzpxmaZzXvFBzNdGRw6qq) | 4:31 |
 | 50 | [L'universo tranne noi](https://open.spotify.com/track/0RYqzVMfEjbDr1CTL7fta5) | [Max Pezzali](https://open.spotify.com/artist/6FcVd3KlRxozcLl19FMXu9) | [MAX 20](https://open.spotify.com/album/7iCLgEbIDDHWP6UWzbzNJ4) | 4:13 |
 
-Snapshot ID: `MCxhMzkxMjNmNTI1ZTIyYmNlNjlmZGQ5OTdiMWNjYjBjMjI2ODljNmVk`
+Snapshot ID: `MCw0MTk1NmQ3YjFkMjYwMjgwYTE0ZmVkZTA1YzU4Nzc1ZWZiMzgyZDBi`

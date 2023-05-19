@@ -1,12 +1,12 @@
 {
   "description": "Experience the best of live worship here. This week we are featuring some of the favorite live worship tracks of our Guest Curator, Sadie Roberston. ",
-  "num_followers": 872595,
+  "num_followers": 872715,
   "original_name": "Best of Live Worship",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyNjMwOWNjMWU3YWQ5ZjFjOWUxYTMyNWZhMzI2NjQyNTJjOGMyZWY1",
+  "snapshot_id": "MCw0NmEzZTk2NjhiMWZhYWEwZWRhMjQwYThhZmEwOWRhODIzNjM2M2Zi",
   "tracks": [
     {
       "added_at": "2023-04-14 05:05:00",
@@ -683,6 +683,22 @@
     {
       "added_at": "2023-04-14 05:05:00",
       "album": {
+        "name": "Endless Praise",
+        "url": "https://open.spotify.com/album/5wDwYXpmXDY9K6P9yspqvC"
+      },
+      "artists": [
+        {
+          "name": "Charity Gayle",
+          "url": "https://open.spotify.com/artist/57YsESW6BGZLHQgOg8AiAq"
+        }
+      ],
+      "duration_ms": 320480,
+      "name": "Echo (In Jesus Name)",
+      "url": "https://open.spotify.com/track/5Mo8iJ6pOmv6wCQozOZ8ii"
+    },
+    {
+      "added_at": "2023-04-14 05:05:00",
+      "album": {
         "name": "Tribl Nights Anthologies",
         "url": "https://open.spotify.com/album/4Rf4UwK95ZWhoIg778gcEM"
       },
@@ -707,22 +723,6 @@
       "duration_ms": 522994,
       "name": "Canvas & Clay (King of My Heart) [feat. DOE & Jonathan Traylor]",
       "url": "https://open.spotify.com/track/6amNHx1sQVZpsuAYkNO9n4"
-    },
-    {
-      "added_at": "2023-04-14 05:05:00",
-      "album": {
-        "name": "Endless Praise",
-        "url": "https://open.spotify.com/album/5wDwYXpmXDY9K6P9yspqvC"
-      },
-      "artists": [
-        {
-          "name": "Charity Gayle",
-          "url": "https://open.spotify.com/artist/57YsESW6BGZLHQgOg8AiAq"
-        }
-      ],
-      "duration_ms": 320480,
-      "name": "Echo (In Jesus Name)",
-      "url": "https://open.spotify.com/track/5Mo8iJ6pOmv6wCQozOZ8ii"
     },
     {
       "added_at": "2023-04-14 05:05:00",
@@ -1227,38 +1227,6 @@
     {
       "added_at": "2023-04-14 05:05:00",
       "album": {
-        "name": "Greater: Live At Chapel",
-        "url": "https://open.spotify.com/album/5dmMZLUsmeYGEpL7Q2Fk3K"
-      },
-      "artists": [
-        {
-          "name": "Planetshakers",
-          "url": "https://open.spotify.com/artist/5A0SFJQSdSjFHGcndiGT1s"
-        }
-      ],
-      "duration_ms": 246345,
-      "name": "Beauty For Ashes - Live At Chapel",
-      "url": "https://open.spotify.com/track/56zhUVLASquK3UZrzUPJlB"
-    },
-    {
-      "added_at": "2023-04-14 05:05:00",
-      "album": {
-        "name": "Who Is This Man (Live)",
-        "url": "https://open.spotify.com/album/5iZ73RpnTvE3s952j9oAwK"
-      },
-      "artists": [
-        {
-          "name": "Cody Carnes",
-          "url": "https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0"
-        }
-      ],
-      "duration_ms": 599374,
-      "name": "Who Is This Man - Live",
-      "url": "https://open.spotify.com/track/4ZyKugiffVoGadDGowUQKv"
-    },
-    {
-      "added_at": "2023-04-14 05:05:00",
-      "album": {
         "name": "To The One Who Is Seated On The Throne (Live)",
         "url": "https://open.spotify.com/album/2ByngD9J0kQSo9tUgiPiZh"
       },
@@ -1287,6 +1255,38 @@
       "duration_ms": 668013,
       "name": "To The One Who Is Seated On The Throne - Live",
       "url": "https://open.spotify.com/track/3zc8HnAS2WJ7VNsV1OEt13"
+    },
+    {
+      "added_at": "2023-04-14 05:05:00",
+      "album": {
+        "name": "Greater: Live At Chapel",
+        "url": "https://open.spotify.com/album/5dmMZLUsmeYGEpL7Q2Fk3K"
+      },
+      "artists": [
+        {
+          "name": "Planetshakers",
+          "url": "https://open.spotify.com/artist/5A0SFJQSdSjFHGcndiGT1s"
+        }
+      ],
+      "duration_ms": 246345,
+      "name": "Beauty For Ashes - Live At Chapel",
+      "url": "https://open.spotify.com/track/56zhUVLASquK3UZrzUPJlB"
+    },
+    {
+      "added_at": "2023-04-14 05:05:00",
+      "album": {
+        "name": "Who Is This Man (Live)",
+        "url": "https://open.spotify.com/album/5iZ73RpnTvE3s952j9oAwK"
+      },
+      "artists": [
+        {
+          "name": "Cody Carnes",
+          "url": "https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0"
+        }
+      ],
+      "duration_ms": 599374,
+      "name": "Who Is This Man - Live",
+      "url": "https://open.spotify.com/track/4ZyKugiffVoGadDGowUQKv"
     },
     {
       "added_at": "2023-04-14 05:05:00",
@@ -1403,26 +1403,6 @@
     {
       "added_at": "2023-04-14 05:05:00",
       "album": {
-        "name": "Long Live The King (Live At The Grove)",
-        "url": "https://open.spotify.com/album/0agzLXWxrapOwNXsGXx9nn"
-      },
-      "artists": [
-        {
-          "name": "Influence Music",
-          "url": "https://open.spotify.com/artist/7ory6rfLtmQet7a16o4vvC"
-        },
-        {
-          "name": "Matt Gilman",
-          "url": "https://open.spotify.com/artist/73hSbuO7zeiAnHpkyhQN5P"
-        }
-      ],
-      "duration_ms": 421616,
-      "name": "Long Live The King - Live At The Grove",
-      "url": "https://open.spotify.com/track/59JtpavXIKPmHi4Z8PAbj3"
-    },
-    {
-      "added_at": "2023-04-14 05:05:00",
-      "album": {
         "name": "Forever & Amen",
         "url": "https://open.spotify.com/album/1pbtg4PdtxGJbVc1lUSnuB"
       },
@@ -1439,6 +1419,26 @@
       "duration_ms": 590208,
       "name": "Forever & Amen (with Kari Jobe) - Live",
       "url": "https://open.spotify.com/track/7w9cEiNE0z2L3AhqUU4A0O"
+    },
+    {
+      "added_at": "2023-04-14 05:05:00",
+      "album": {
+        "name": "Long Live The King (Live At The Grove)",
+        "url": "https://open.spotify.com/album/0agzLXWxrapOwNXsGXx9nn"
+      },
+      "artists": [
+        {
+          "name": "Influence Music",
+          "url": "https://open.spotify.com/artist/7ory6rfLtmQet7a16o4vvC"
+        },
+        {
+          "name": "Matt Gilman",
+          "url": "https://open.spotify.com/artist/73hSbuO7zeiAnHpkyhQN5P"
+        }
+      ],
+      "duration_ms": 421616,
+      "name": "Long Live The King - Live At The Grove",
+      "url": "https://open.spotify.com/track/59JtpavXIKPmHi4Z8PAbj3"
     },
     {
       "added_at": "2023-04-14 05:05:00",
@@ -1687,6 +1687,22 @@
     {
       "added_at": "2023-04-14 05:05:00",
       "album": {
+        "name": "Heal My Heart (Live)",
+        "url": "https://open.spotify.com/album/44wEi5xZec7SL5ukLKeYam"
+      },
+      "artists": [
+        {
+          "name": "Brandin Reed",
+          "url": "https://open.spotify.com/artist/7oi3qhC7S5XIXYz15C4JHt"
+        }
+      ],
+      "duration_ms": 458797,
+      "name": "Heal My Heart - Live",
+      "url": "https://open.spotify.com/track/7EbF54zVBIs1mGRMgbsDPz"
+    },
+    {
+      "added_at": "2023-04-14 05:05:00",
+      "album": {
         "name": "Kingdom",
         "url": "https://open.spotify.com/album/1JJslYNSkyMUSm05DA548D"
       },
@@ -1703,22 +1719,6 @@
       "duration_ms": 200733,
       "name": "The Sweetest Sound",
       "url": "https://open.spotify.com/track/4TyYqM4EoFG7KtEGmUgH2r"
-    },
-    {
-      "added_at": "2023-04-14 05:05:00",
-      "album": {
-        "name": "Heal My Heart (Live)",
-        "url": "https://open.spotify.com/album/44wEi5xZec7SL5ukLKeYam"
-      },
-      "artists": [
-        {
-          "name": "Brandin Reed",
-          "url": "https://open.spotify.com/artist/7oi3qhC7S5XIXYz15C4JHt"
-        }
-      ],
-      "duration_ms": 458797,
-      "name": "Heal My Heart - Live",
-      "url": "https://open.spotify.com/track/7EbF54zVBIs1mGRMgbsDPz"
     },
     {
       "added_at": "2023-04-14 05:05:00",
@@ -1847,26 +1847,6 @@
     {
       "added_at": "2023-04-14 05:05:00",
       "album": {
-        "name": "Lamb of God (Live)",
-        "url": "https://open.spotify.com/album/6291e3R6aw8Vy6FgoZ6aq2"
-      },
-      "artists": [
-        {
-          "name": "Matt Redman",
-          "url": "https://open.spotify.com/artist/0bz9hDpUbAw5JElgEiuIYZ"
-        },
-        {
-          "name": "David Funk",
-          "url": "https://open.spotify.com/artist/5Bj9jhPkLNyIDxkHOf2fpc"
-        }
-      ],
-      "duration_ms": 335849,
-      "name": "Lamb of God - Live",
-      "url": "https://open.spotify.com/track/3Qh7WTXJYgxVG0lr2TUK6o"
-    },
-    {
-      "added_at": "2023-04-14 05:05:00",
-      "album": {
         "name": "Comfort (Live)",
         "url": "https://open.spotify.com/album/4z9gft4vDBoFF2Xtyu0enL"
       },
@@ -1927,22 +1907,22 @@
     {
       "added_at": "2023-04-14 05:05:00",
       "album": {
-        "name": "A Little Fire (Burn Brighter)",
-        "url": "https://open.spotify.com/album/4bR83WeKkJUeX9xoCHQK0o"
+        "name": "Lamb of God (Live)",
+        "url": "https://open.spotify.com/album/6291e3R6aw8Vy6FgoZ6aq2"
       },
       "artists": [
         {
-          "name": "Every Nation Music",
-          "url": "https://open.spotify.com/artist/0VPn67RlAzuYumaHw2hCw0"
+          "name": "Matt Redman",
+          "url": "https://open.spotify.com/artist/0bz9hDpUbAw5JElgEiuIYZ"
         },
         {
-          "name": "Victory Worship",
-          "url": "https://open.spotify.com/artist/11s9ltUDAuDJaDJLJl0vUP"
+          "name": "David Funk",
+          "url": "https://open.spotify.com/artist/5Bj9jhPkLNyIDxkHOf2fpc"
         }
       ],
-      "duration_ms": 429515,
-      "name": "A Little Fire (Burn Brighter)",
-      "url": "https://open.spotify.com/track/6ZX7RjHUnow6oFfJcCszjA"
+      "duration_ms": 335849,
+      "name": "Lamb of God - Live",
+      "url": "https://open.spotify.com/track/3Qh7WTXJYgxVG0lr2TUK6o"
     },
     {
       "added_at": "2023-04-14 05:05:00",
@@ -1967,6 +1947,26 @@
       "duration_ms": 274666,
       "name": "Let Go - Live",
       "url": "https://open.spotify.com/track/18n9g4RuXRgrMQaNtU06iX"
+    },
+    {
+      "added_at": "2023-04-14 05:05:00",
+      "album": {
+        "name": "A Little Fire (Burn Brighter)",
+        "url": "https://open.spotify.com/album/4bR83WeKkJUeX9xoCHQK0o"
+      },
+      "artists": [
+        {
+          "name": "Every Nation Music",
+          "url": "https://open.spotify.com/artist/0VPn67RlAzuYumaHw2hCw0"
+        },
+        {
+          "name": "Victory Worship",
+          "url": "https://open.spotify.com/artist/11s9ltUDAuDJaDJLJl0vUP"
+        }
+      ],
+      "duration_ms": 429515,
+      "name": "A Little Fire (Burn Brighter)",
+      "url": "https://open.spotify.com/track/6ZX7RjHUnow6oFfJcCszjA"
     },
     {
       "added_at": "2023-04-14 05:05:00",

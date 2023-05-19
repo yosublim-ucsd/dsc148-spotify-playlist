@@ -4,7 +4,7 @@
 
 > Instrumental beats from \(and influenced by\) Hip\-Hop's golden era; to help you study, work and vibe.
 
-92 songs - 4 hr 50 min
+96 songs - 5 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,6 +23,7 @@
 | [Caminos](https://open.spotify.com/track/6908A1nEezSYjpplzdfs2z) | [Rio Nilo](https://open.spotify.com/artist/4iS1CcjF3gNKPHrvNIoPLn) | [Caminos](https://open.spotify.com/album/1pe8XllgZslSzHlK4QgA3n) | 2:18 | 2022-07-22 |  |
 | [Classic](https://open.spotify.com/track/1oSACtYTXU47tpiYnPAgt5) | [Tony Bones The Producer](https://open.spotify.com/artist/3a9BCUwqB1bnRFuegvAFD7) | [Magic Roundabout](https://open.spotify.com/album/1znaGWauyGfsGRtOh3DK3Q) | 2:37 | 2022-07-22 |  |
 | [Cognac \- Instrumental](https://open.spotify.com/track/3HkKjrNj0JjpgC1kmL7Eil) | [Monster Rally](https://open.spotify.com/artist/3DtnSKmpjFGUzZcccWfG43), [Jay Stone](https://open.spotify.com/artist/1XMoZ8AHs0TxrFiQAnOTAI) | [Foreign Pedestrians](https://open.spotify.com/album/2JDMaRvUUZ2xkm2P59ebH3) | 2:38 | 2023-03-02 |  |
+| [Cold Leftovers](https://open.spotify.com/track/4nd1Dzjir8lGYXTq5gPkgd) | [Dylan Sitts](https://open.spotify.com/artist/6quCxsPM8fOxowmqOx5j93) | [Cherry Gummy](https://open.spotify.com/album/2zgJcyGollZV9lW0fyL1sX) | 2:14 | 2023-05-18 |  |
 | [Colours \- Instrumental](https://open.spotify.com/track/5mCZhBTtSRx1Ioy0F6rXDI) | [The Last Skeptik](https://open.spotify.com/artist/31LnFifS3x9FTENleAl6Eq) | [How Not to Make a Living \(Instrumentals\)](https://open.spotify.com/album/0RUwjgoghq5OHo5nqbMCxU) | 3:16 | 2023-03-02 |  |
 | [Coolin'](https://open.spotify.com/track/5rxier09NkNgBJyJWKTeuz) | [\_91nova](https://open.spotify.com/artist/0fZYZqIGnT5RimC1YWfWP2) | [Celebrity Shills](https://open.spotify.com/album/3zjAT49W7WVkm8AGQBsFTQ) | 2:10 | 2022-07-22 |  |
 | [Cotton Candy](https://open.spotify.com/track/5pDR1Z9j4FCTK0EbVQLH5z) | [U\-WARRIOR](https://open.spotify.com/artist/0VaCOtKG226cWSr9GQVeeN), [Run Wallace](https://open.spotify.com/artist/432gmRqwqi91pJzhlXQK9C) | [Cotton Candy](https://open.spotify.com/album/2C3TpTptiDdkNIqp0iZXGV) | 2:00 | 2022-07-22 |  |
@@ -72,8 +73,10 @@
 | [seed](https://open.spotify.com/track/1yKxiVV3ETcGGcSZMs4Duq) | [MF Eistee](https://open.spotify.com/artist/0hA8JnKhTRBeTfCFoZiem1) | [anthology](https://open.spotify.com/album/2ASnBB18wyCJJnk0NIlM0p) | 2:00 | 2022-10-14 |  |
 | [seed](https://open.spotify.com/track/4P5vUfzQEQQGelK4czaXan) | [MF Eistee](https://open.spotify.com/artist/0hA8JnKhTRBeTfCFoZiem1) | [anthology](https://open.spotify.com/album/7B9D0uQrez5NjtDGNavJQG) | 2:00 | 2022-10-14 | 2022-11-24 |
 | [Shadowboxin' \- Instrumental](https://open.spotify.com/track/7rb4JTVMMK4bjDablnn9nb) | [GZA](https://open.spotify.com/artist/6ns6XAOsw4B0nDUIovAOUO) | [Liquid Swords \(Expanded Edition\)](https://open.spotify.com/album/1i4Ju3OL0Tq6QaAO2OUVdE) | 3:29 | 2022-07-22 |  |
+| [Shoulder to colder](https://open.spotify.com/track/1zzmBoPpnfGKSwEVFLv3c5) | [Mean Dartin](https://open.spotify.com/artist/7LhBPxzi8fMrXFWz7Ezi2m) | [Shoulder to colder](https://open.spotify.com/album/5uertrWYBsmpYV0II5hcO8) | 2:08 | 2023-05-18 |  |
 | [Skywalker OG](https://open.spotify.com/track/0nsy6CzRDmy51hOtNyri3F) | [Dooku](https://open.spotify.com/artist/7oUhwpoQZ8HkFl91jQtEoD) | [Fields of Green 2](https://open.spotify.com/album/2I2DTmcpsCJbC0cValamUf) | 1:54 | 2022-09-23 | 2022-11-20 |
 | [Skywalker OG](https://open.spotify.com/track/6oHUNQtaMKhVmQWhFoPdir) | [Dooku](https://open.spotify.com/artist/7oUhwpoQZ8HkFl91jQtEoD) | [Fields of Green 2](https://open.spotify.com/album/5cOC0HfuZKWDGaB8Oyz0PI) | 1:54 | 2022-10-14 |  |
+| [Soul Mates](https://open.spotify.com/track/5MnT6uiAJXOo58xdDVmbD2) | [Smoke Room Quartet](https://open.spotify.com/artist/3F3ToOCmZ54N8acZdcyziH) | [Soul Mates](https://open.spotify.com/album/22j1HNgICS8f7kN7wLB54T) | 3:21 | 2023-05-18 |  |
 | [Stressed Out](https://open.spotify.com/track/5sL1Ho2hWRpTe67DK7sFqA) | [Kixnare](https://open.spotify.com/artist/5ZsUI5kxyhL9rBIjBrzocs) | [Class of 90's, Vol.1 \(INSTRUMENTALS\)](https://open.spotify.com/album/3ZZuql91VoWIn8HT0gmevA) | 4:27 | 2023-01-31 |  |
 | [Summertime](https://open.spotify.com/track/79MSVviX2SqqLS6murFaYB) | [tape joe](https://open.spotify.com/artist/6t74VJqVmYEY5V2be6sz9K), [Kick a Dope Verse!](https://open.spotify.com/artist/1Wc42aAvPBQxi2CsAN2Q5z) | [Summertime](https://open.spotify.com/album/3QfHGlmwMjOtY78hmNcuhq) | 3:35 | 2022-10-14 |  |
 | [Summerwind](https://open.spotify.com/track/1YBb5s7JxiFQV9E7e4QThO) | [Slipp](https://open.spotify.com/artist/7b7ga2HzGIRsOJqorPSX1M), [Nick's chill factory](https://open.spotify.com/artist/3QJraihPHVrl3gSNaXLEr9) | [Summerwind](https://open.spotify.com/album/3uhMWZk6MPkw6Amk2zonai) | 2:26 | 2023-02-24 |  |
@@ -83,6 +86,7 @@
 | [Supercolor](https://open.spotify.com/track/2LzPtYMEj4S44yoBVU7ccu) | [Gold School](https://open.spotify.com/artist/0ARPS52ahhI1jndIYVtsnH) | [Supercolor](https://open.spotify.com/album/1d54tv1raeAGShTBVKmxNu) | 1:48 | 2022-07-22 |  |
 | [The Come up \(Instrumental\)](https://open.spotify.com/track/54AYyM0mxzfC7exwSSr3UU) | [AZ](https://open.spotify.com/artist/7HqrSDuI9lHuH1CDismTFg), [DJ Premier](https://open.spotify.com/artist/6GEykX11lQqp92UVOQQCC7) | [Greatest Beats \(Instrumentals\)](https://open.spotify.com/album/66JOOuwoKp7ACuHidfD5Nx) | 3:07 | 2022-07-22 |  |
 | [The Light \- Instrumental Version](https://open.spotify.com/track/6RQdGCiHnoWPpTAfI97hUR) | [Pharoahe Monch](https://open.spotify.com/artist/5DKuVtlpDH0agZQUFDy8O7) | [Dat's That Shit! \(An Exclusive Collection of Rare Instrumentals from the Dat Vault\)](https://open.spotify.com/album/5gBjsO4i4OjLKWvwezXdIo) | 3:11 | 2022-07-22 |  |
+| [The Næckbræker](https://open.spotify.com/track/4U0RGb92eZ4VEJtdBmfRXN) | [Matt Large](https://open.spotify.com/artist/107WzwlsOTR6Nxnw2kPHd3) | [To live & Die in U.A.](https://open.spotify.com/album/4ukakuZYnXtg5b8MDAn21O) | 3:10 | 2023-05-18 |  |
 | [The Séance \- Instrumental](https://open.spotify.com/track/2JqOJbANu4zJE149XDrdgk) | [SoulChef](https://open.spotify.com/artist/7rdiGVXL2fFyONexHzfKFS) | [The Séance \(Instrumental\)](https://open.spotify.com/album/4BC0OA44H4xddFtIEuCv0R) | 2:47 | 2022-07-22 |  |
 | [The World Is Yours](https://open.spotify.com/track/64ODbuhc4OihBeKE6NUxhV) | [Will Sessions](https://open.spotify.com/artist/6QA1jIAC7i52uJi8jbJDWB) | [The Elmatic Instrumentals](https://open.spotify.com/album/0MaYLq5dCuxqYU42aFahZo) | 4:55 | 2022-11-25 |  |
 | [Therzea](https://open.spotify.com/track/79stCffEHFel5pekrddLj2) | [Milo Fries](https://open.spotify.com/artist/6cgYbw5pf0WpoBED5N0pLb) | [Therzea](https://open.spotify.com/album/2RrVbRuRhmiAfhGc6v3jHl) | 1:58 | 2022-07-22 |  |

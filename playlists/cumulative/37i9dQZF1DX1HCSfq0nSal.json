@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "Si est\u00e1 pegao, est\u00e1 aqu\u00ed. Feat. Quevedo, Jhayco",
+  "description": "Si est\u00e1 pegao, est\u00e1 aqu\u00ed. Feat. Bad Bunny",
   "name": "PEGAO",
   "tracks": [
     {
@@ -506,6 +506,32 @@
       "duration_ms": 295038,
       "name": "Aquel Nap ZzZz",
       "url": "https://open.spotify.com/track/2qyLvNLktrdc67OgaayqMW"
+    },
+    {
+      "album": {
+        "name": "Arena y Sal",
+        "url": "https://open.spotify.com/album/3HeNfmZG51mrV659AcvjPT"
+      },
+      "artists": [
+        {
+          "name": "Omar Montes",
+          "url": "https://open.spotify.com/artist/3lY9Fxceu60W1rbon7PkuF"
+        },
+        {
+          "name": "Saiko",
+          "url": "https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u"
+        },
+        {
+          "name": "Tunvao",
+          "url": "https://open.spotify.com/artist/1zdSbv2pR3OIFKselYbJsC"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174415,
+      "name": "Arena y Sal",
+      "url": "https://open.spotify.com/track/5iilNoD56jD3FJ3bM9tMP0"
     },
     {
       "album": {
@@ -2818,7 +2844,7 @@
       ],
       "date_added": "2022-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 186426,
       "name": "Girl",
       "url": "https://open.spotify.com/track/43NqTeL8pgBxKHPMiJKUP5"
@@ -4398,7 +4424,7 @@
       ],
       "date_added": "2023-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 194470,
       "name": "MI EXXX",
       "url": "https://open.spotify.com/track/5hHzqkPU6TQxWtV2cJqsMp"
@@ -6661,6 +6687,28 @@
     },
     {
       "album": {
+        "name": "S\u00edgueme (Remix)",
+        "url": "https://open.spotify.com/album/3pnENHsnCw6FKRfUmwJbKF"
+      },
+      "artists": [
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        },
+        {
+          "name": "Sech",
+          "url": "https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202546,
+      "name": "S\u00edgueme - Remix",
+      "url": "https://open.spotify.com/track/3pAwh9JxSJxWyUy3BUBPb4"
+    },
+    {
+      "album": {
         "name": "S\u00fabelo",
         "url": "https://open.spotify.com/album/2l929YaQMj0eFvPMMB4xyq"
       },
@@ -7556,6 +7604,24 @@
       "duration_ms": 198367,
       "name": "WAOH",
       "url": "https://open.spotify.com/track/392RMn7DKpoufH8drqqPwT"
+    },
+    {
+      "album": {
+        "name": "WHERE SHE GOES",
+        "url": "https://open.spotify.com/album/5gCcb5fsSb6w5K8SyJrgtB"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231704,
+      "name": "WHERE SHE GOES",
+      "url": "https://open.spotify.com/track/7ro0hRteUMfnOioTFI5TG1"
     },
     {
       "album": {

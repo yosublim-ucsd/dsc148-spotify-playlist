@@ -1,12 +1,12 @@
 {
   "description": "J\u00f3venes y renovadas expresiones de la bella tradici\u00f3n mexicana. Nuevo Elemento en portada. ",
-  "num_followers": 126481,
+  "num_followers": 126487,
   "original_name": "Mariachi Joven",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzYTliYTQzN2QzMWUzMDZiNzdlNGNkYmViODQ4ZGEyNTJlM2YzMGRj",
+  "snapshot_id": "MCwzMDFiZTFhNTc2ZTJiMDllNjEwNTExZDdhNTI2OWEyZjg4Y2VlMWRl",
   "tracks": [
     {
       "added_at": "2023-05-12 06:00:00",
@@ -251,6 +251,22 @@
     {
       "added_at": "2023-05-12 06:00:00",
       "album": {
+        "name": "Brindo",
+        "url": "https://open.spotify.com/album/5WBJnHs3CWYPwoi3yJS58x"
+      },
+      "artists": [
+        {
+          "name": "Mario Bautista",
+          "url": "https://open.spotify.com/artist/0AspLZGQkP38yddNoD0pLn"
+        }
+      ],
+      "duration_ms": 185460,
+      "name": "Brindo",
+      "url": "https://open.spotify.com/track/1oLp4xkeNCxjMy4glz0vbL"
+    },
+    {
+      "added_at": "2023-05-12 06:00:00",
+      "album": {
         "name": "Tu Maniqu\u00ed",
         "url": "https://open.spotify.com/album/7HkqbCqtwAFIbtgFyeIpRi"
       },
@@ -267,22 +283,6 @@
       "duration_ms": 154834,
       "name": "Tu Maniqu\u00ed",
       "url": "https://open.spotify.com/track/5XpvqqKEI3xWS4heKkXjb5"
-    },
-    {
-      "added_at": "2023-05-12 06:00:00",
-      "album": {
-        "name": "Brindo",
-        "url": "https://open.spotify.com/album/5WBJnHs3CWYPwoi3yJS58x"
-      },
-      "artists": [
-        {
-          "name": "Mario Bautista",
-          "url": "https://open.spotify.com/artist/0AspLZGQkP38yddNoD0pLn"
-        }
-      ],
-      "duration_ms": 185460,
-      "name": "Brindo",
-      "url": "https://open.spotify.com/track/1oLp4xkeNCxjMy4glz0vbL"
     },
     {
       "added_at": "2023-05-12 06:00:00",

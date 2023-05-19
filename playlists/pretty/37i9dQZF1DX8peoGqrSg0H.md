@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8peoGqrSg0H.md) - [plain]
 
 > เพลงไทยป๊อปโดนใจ อัพเดตให้คุณฟังทุกสัปดาห์\. ศิลปิน: TIGGER, Aheye of 4EVE
 
-[Spotify](https://open.spotify.com/user/spotify) - 133,999 likes - 60 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 134,120 likes - 60 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,7 +44,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8peoGqrSg0H.md) - [plain]
 | 34 | [ชอบใส่ใจ \(Just Curious\)](https://open.spotify.com/track/4vfWaUic7KKrOUR7kWy6RO) | [bamm](https://open.spotify.com/artist/2ORibfYGMt8fuIimSDCTq1) | [ชอบใส่ใจ \(Just Curious\)](https://open.spotify.com/album/38OWVUcsVAJjPXUdgGUpNd) | 3:25 |
 | 35 | [เพื่อนดีเด่น \(BEST FRIEND 4EVER\)](https://open.spotify.com/track/0dB8mLoawZ04XoJRewGiqj) | [SERIOUS BACON](https://open.spotify.com/artist/32qeMmjXorbPWS9JOi8O2p) | [เพื่อนดีเด่น \(BEST FRIEND 4EVER\)](https://open.spotify.com/album/6ZmUUmhdfsGDdd1nUG0v7P) | 3:27 |
 | 36 | [Dum Dum](https://open.spotify.com/track/4XhdM1Ku9JM4abVuRWAsgk) | [Jeff Satur](https://open.spotify.com/artist/5xq3BK55BJmutN0X7eTyQB) | [Dum Dum](https://open.spotify.com/album/4sNLO2KeOADZykYBkqclN1) | 3:15 |
-| 37 | [เจ้าของที่ \(My Favorite\)](https://open.spotify.com/track/1rNYuv63emsYt4Jjv8RlgJ) | [Mirrr](https://open.spotify.com/artist/5zSQoNQ9o2dnT1LPTzDxg7) | [Q.E.D](https://open.spotify.com/album/7g6iCekuVO1Xx6WP1pPfB0) | 4:00 |
+| 37 | [เจ้าของที่](https://open.spotify.com/track/1rNYuv63emsYt4Jjv8RlgJ) | [Mirrr](https://open.spotify.com/artist/5zSQoNQ9o2dnT1LPTzDxg7) | [Q.E.D](https://open.spotify.com/album/7g6iCekuVO1Xx6WP1pPfB0) | 4:00 |
 | 38 | [ซ้อมมีแฟน \(trial\)](https://open.spotify.com/track/5xdmFkq5uVLzhogUK8wRQk) | [Kinkaworn](https://open.spotify.com/artist/3UinDJmeOYHabAbh1SZadg), [bamm](https://open.spotify.com/artist/2ORibfYGMt8fuIimSDCTq1) | [ซ้อมมีแฟน \(trial\)](https://open.spotify.com/album/1X4Je0roqbsKnR5EQwUv4g) | 3:14 |
 | 39 | [บานปลาย \(best wishes\)](https://open.spotify.com/track/3Js0tYhiLhVXHskoOF0jLh) | [BOWKYLION](https://open.spotify.com/artist/2SWWw5uB9cO5m7zJQZqwmr) | [บานปลาย \(best wishes\)](https://open.spotify.com/album/6xoyq8b2PH5uBwTw6ppCbA) | 4:49 |
 | 40 | [น้อมรับคำทำนาย \- THE SUN](https://open.spotify.com/track/7yRaBXZzpWLAnW57MeVts5) | [Praesun](https://open.spotify.com/artist/2Sh3qw7RhefxTOThPiGTb7), [GUYGEEGEE](https://open.spotify.com/artist/5CgO7BuOZ6fOpsLSEvzDsj) | [น้อมรับคำทำนาย \(THE SUN\)](https://open.spotify.com/album/2GwiR97NrF1ZzADeuJpLHd) | 3:37 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8peoGqrSg0H.md) - [plain]
 | 59 | [รู้งี้เป็นแฟนกันตั้งนานแล้ว \(Safe Zone\) \- From แปลรักฉันด้วยใจเธอ Part 2](https://open.spotify.com/track/3r7Wk2nT2Vwlnb7xDI4pnE) | [Billkin](https://open.spotify.com/artist/2a727ekkPaUHk0bMifk7fj), [PP Krit](https://open.spotify.com/artist/1xrRqVDsJaZPw0sXme5i2T) | [แปลรักฉันด้วยใจเธอ \(The Original Soundtrack\)](https://open.spotify.com/album/2m4GcbFxWcBkyxTCUj3tLh) | 3:19 |
 | 60 | [วัดปะหล่ะ? \(TEST ME\)](https://open.spotify.com/track/4m72K740TLVYovBWJmTTt3) | [4EVE](https://open.spotify.com/artist/3aBwCcP4CB8M6S7YV8QkOg) | [The First Album](https://open.spotify.com/album/1QSQt7RmnYE2s0IMWxKG5q) | 3:40 |
 
-Snapshot ID: `MCxmN2ZjNTQ4YmM5ODU5NzEyOWE1MzA3NWY3NTQzNGY4ZTk5YzEzMTA5`
+Snapshot ID: `MCwwNjk1MTg0YTdiYmViYTU4MWM3Yjc1MjM2ZTBkYzJiYjk0ZWYyMzZj`

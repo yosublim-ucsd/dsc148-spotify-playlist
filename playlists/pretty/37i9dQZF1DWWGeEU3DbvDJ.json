@@ -1,12 +1,12 @@
 {
   "description": "The BBMAs \u2013 celebrating music\u2019s greatest achievements by honoring the hottest names on the Billboard Charts. Airing live May 15 on NBC! Cover: The Weeknd",
-  "num_followers": 62244,
+  "num_followers": 62241,
   "original_name": "2022 Billboard Music Awards",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4MWRhN2JiZTdlZmY4NjY2YzNlYjgxNDEzNjJjOTE3ODBkNjBkZmRh",
+  "snapshot_id": "MCxjNGUxMTUwNjExODM0OGVkNmJiOWNiOTM0ZTA1ZjJhOGY3Mjg1YTg5",
   "tracks": [
     {
       "added_at": "2022-05-10 00:15:15",
@@ -215,6 +215,22 @@
     {
       "added_at": "2022-05-10 00:15:15",
       "album": {
+        "name": "Teatro d'ira - Vol. I",
+        "url": "https://open.spotify.com/album/7KF1Ain9mYYlg5M46g0i4A"
+      },
+      "artists": [
+        {
+          "name": "M\u00e5neskin",
+          "url": "https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr"
+        }
+      ],
+      "duration_ms": 173346,
+      "name": "I WANNA BE YOUR SLAVE",
+      "url": "https://open.spotify.com/track/4pt5fDVTg5GhEvEtlz9dKk"
+    },
+    {
+      "added_at": "2022-05-10 00:15:15",
+      "album": {
         "name": "The Motto",
         "url": "https://open.spotify.com/album/278z9UXJaMNDH9Bel9uAxV"
       },
@@ -231,22 +247,6 @@
       "duration_ms": 164818,
       "name": "The Motto",
       "url": "https://open.spotify.com/track/18asYwWugKjjsihZ0YvRxO"
-    },
-    {
-      "added_at": "2022-05-10 00:15:15",
-      "album": {
-        "name": "Teatro d'ira - Vol. I",
-        "url": "https://open.spotify.com/album/7KF1Ain9mYYlg5M46g0i4A"
-      },
-      "artists": [
-        {
-          "name": "M\u00e5neskin",
-          "url": "https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr"
-        }
-      ],
-      "duration_ms": 173346,
-      "name": "I WANNA BE YOUR SLAVE",
-      "url": "https://open.spotify.com/track/4pt5fDVTg5GhEvEtlz9dKk"
     },
     {
       "added_at": "2022-05-10 00:15:15",

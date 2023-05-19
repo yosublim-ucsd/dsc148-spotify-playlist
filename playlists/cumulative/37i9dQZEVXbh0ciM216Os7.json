@@ -2400,10 +2400,32 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 276986,
       "name": "GOMD (Remix) [feat. Lil Uzi Vert]",
       "url": "https://open.spotify.com/track/4ncoZ4PKxvyzVoSIJsOLo0"
+    },
+    {
+      "album": {
+        "name": "GOMD (Remix) [feat. Lil Uzi Vert]",
+        "url": "https://open.spotify.com/album/6QDwI3PVyKahJbYF6fZekd"
+      },
+      "artists": [
+        {
+          "name": "Veeze",
+          "url": "https://open.spotify.com/artist/0B3kMiB21aPQlKumGDr4c7"
+        },
+        {
+          "name": "Lil Uzi Vert",
+          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276986,
+      "name": "GOMD (Remix) [feat. Lil Uzi Vert]",
+      "url": "https://open.spotify.com/track/7wYgd9KnYvtwqXOeDKpBEL"
     },
     {
       "album": {
@@ -4345,6 +4367,36 @@
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 346745,
+      "name": "Piano Concerto in A Minor, Op. 54: 2. Intermezzo (Andantino grazioso)",
+      "url": "https://open.spotify.com/track/6NlMBz9JMDuCWsQvXS8i8x"
+    },
+    {
+      "album": {
+        "name": "Abbado: Schumann \u2013 Tchaikovsky",
+        "url": "https://open.spotify.com/album/2RTQqBU2yR9eSdYfpLheRW"
+      },
+      "artists": [
+        {
+          "name": "Robert Schumann",
+          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
+        },
+        {
+          "name": "Alfred Brendel",
+          "url": "https://open.spotify.com/artist/5vBh0nve44zwwVF5KWtCwA"
+        },
+        {
+          "name": "London Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc"
+        },
+        {
+          "name": "Claudio Abbado",
+          "url": "https://open.spotify.com/artist/6HclTVD03WSY6GUpN16BkP"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-19",
       "duration_ms": 668521,
       "name": "Piano Concerto in A Minor, Op. 54: 3. Allegro vivace",
       "url": "https://open.spotify.com/track/2QcoL8GZCSfruMp6nTcgda"
@@ -4866,6 +4918,28 @@
       "duration_ms": 121317,
       "name": "Slide Again",
       "url": "https://open.spotify.com/track/680UAnBzIM0mKkXUpT5OyS"
+    },
+    {
+      "album": {
+        "name": "We Love Spicemas Riddim",
+        "url": "https://open.spotify.com/album/15FVMNiIyHhYP8elS9nL7G"
+      },
+      "artists": [
+        {
+          "name": "Terrific",
+          "url": "https://open.spotify.com/artist/2yw9DAK8ozjGNPs4sFtb3q"
+        },
+        {
+          "name": "Saggaboy",
+          "url": "https://open.spotify.com/artist/4BxhrOg7JHw6f5Wv5fckGq"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156000,
+      "name": "Soca Music",
+      "url": "https://open.spotify.com/track/0PhVm4WWn16u7qkR5CGHlz"
     },
     {
       "album": {
@@ -5808,7 +5882,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 156000,
       "name": "Touch me",
       "url": "https://open.spotify.com/track/2kDTCnBiL7FvYPCfnCUQUb"

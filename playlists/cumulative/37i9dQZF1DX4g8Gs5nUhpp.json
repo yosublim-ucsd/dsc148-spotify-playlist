@@ -752,10 +752,6 @@
         {
           "name": "MONSTAR",
           "url": "https://open.spotify.com/artist/2CLdtsyD2NsTOBBOVr7fi8"
-        },
-        {
-          "name": "GREY D",
-          "url": "https://open.spotify.com/artist/6d0dLenjy5CnR5ZMn2agiV"
         }
       ],
       "date_added": "2022-05-27",
@@ -2108,6 +2104,28 @@
       "duration_ms": 236253,
       "name": "N\u00e9m C\u00e2u Y\u00eau V\u00e0o Kh\u00f4ng Trung",
       "url": "https://open.spotify.com/track/4RwQ5UUOgphhjBM8zF62RQ"
+    },
+    {
+      "album": {
+        "name": "N\u1ea5u \u0103n cho em",
+        "url": "https://open.spotify.com/album/60IOXhvNwkVcXPs25OKv5t"
+      },
+      "artists": [
+        {
+          "name": "\u0110en",
+          "url": "https://open.spotify.com/artist/1LEtM3AleYg1xabW6CRkpi"
+        },
+        {
+          "name": "PiaLinh",
+          "url": "https://open.spotify.com/artist/5Xn0cJrrcslCWCzPXNTy54"
+        }
+      ],
+      "date_added": "2023-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241340,
+      "name": "N\u1ea5u \u0103n cho em",
+      "url": "https://open.spotify.com/track/7td8DTWoGC9u9db37mGHX6"
     },
     {
       "album": {

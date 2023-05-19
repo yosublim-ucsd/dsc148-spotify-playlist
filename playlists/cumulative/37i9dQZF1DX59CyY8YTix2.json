@@ -221,6 +221,28 @@
     },
     {
       "album": {
+        "name": "2\u300745",
+        "url": "https://open.spotify.com/album/3kAV4Hr5QkeWMWgcq2U6pU"
+      },
+      "artists": [
+        {
+          "name": "millennium parade",
+          "url": "https://open.spotify.com/artist/0GZ65zwBwkkwGNJ3zagtTZ"
+        },
+        {
+          "name": "Sheena Ringo",
+          "url": "https://open.spotify.com/artist/2XjqKvB2Xz9IdyjWPIHaXi"
+        }
+      ],
+      "date_added": "2023-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221048,
+      "name": "2\u300745",
+      "url": "https://open.spotify.com/track/6DsWs6Mx0A4LiT4GGqbvrk"
+    },
+    {
+      "album": {
         "name": "4x4",
         "url": "https://open.spotify.com/album/0kvc1uSSfXPDOSvmahakb8"
       },
@@ -5778,7 +5800,7 @@
       ],
       "date_added": "2022-06-30",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-17",
+      "date_removed": null,
       "duration_ms": 230553,
       "name": "School",
       "url": "https://open.spotify.com/track/4aFusxXDOfQyzSKlC2fg5b"
@@ -11325,6 +11347,24 @@
     },
     {
       "album": {
+        "name": "pink blue",
+        "url": "https://open.spotify.com/album/07kXEBPM0KuSkMTr73giQ0"
+      },
+      "artists": [
+        {
+          "name": "Ryokuoushoku Shakai",
+          "url": "https://open.spotify.com/artist/4SJ7qRgJYNXB9Yttzs4aSa"
+        }
+      ],
+      "date_added": "2023-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236413,
+      "name": "\u30d4\u30f3\u30af\u30d6\u30eb\u30fc",
+      "url": "https://open.spotify.com/track/1VRwCezjpvjnCrab92b1dk"
+    },
+    {
+      "album": {
         "name": "\u30d4\u30fc\u30b9",
         "url": "https://open.spotify.com/album/0BEchiPUGerIku6wn9b2Je"
       },
@@ -13818,7 +13858,7 @@
       ],
       "date_added": "2022-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 369253,
       "name": "\u604b\u3059\u308b - 10YEARS THANK YOU",
       "url": "https://open.spotify.com/track/0vbLzWi64zpd3bEHaETY9D"
@@ -15568,7 +15608,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 281367,
       "name": "\u7a7a\u84bc\u3044\u307e\u307e",
       "url": "https://open.spotify.com/track/67dcfh84CB6AoYHMJbmraB"
@@ -16052,7 +16092,7 @@
       ],
       "date_added": "2022-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 178219,
       "name": "\u8d85\u6700\u60aa",
       "url": "https://open.spotify.com/track/4yxY92AAlRIlu22ZNjUaVo"

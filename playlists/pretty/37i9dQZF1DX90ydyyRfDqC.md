@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX90ydyyRfDqC.md) - [plain]
 
 > Escucha 'Paris, Texas': el nuevo álbum de Kevin Kaarl.
 
-[Spotify](https://open.spotify.com/user/spotify) - 257,439 likes - 40 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 257,663 likes - 40 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX90ydyyRfDqC.md) - [plain]
 | 39 | [Leidy Mariela](https://open.spotify.com/track/5f962qjdSGs0gxN7KquGt6) | [Kevin Kaarl](https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE) | [Hasta el Fin Del Mundo](https://open.spotify.com/album/7M4AeOUpTfAHk1Ch4xKUC7) | 4:48 |
 | 40 | [Summer Moon \(feat\. Kevin Kaarl\)](https://open.spotify.com/track/2dNGIZvZF71AR72OHpo3CE) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x), [Kevin Kaarl](https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE) | [Summer Moon \(feat\. Kevin Kaarl\)](https://open.spotify.com/album/3kdPIjFwMkIBCIsUqt3SrV) | 2:57 |
 
-Snapshot ID: `MCw5NjI0OTA3YWY0NzVlNzM3MTBlNjQ0ZmExYmViZTI2Y2YzZWM2NmZj`
+Snapshot ID: `MCxmNTQ5MmY0YWQ4YzM1YzZmM2EyMzA3NmY2YzJhNzc5ZTNjZTUyOTE4`

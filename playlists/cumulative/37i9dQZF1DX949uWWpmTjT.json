@@ -420,7 +420,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 169737,
       "name": "Ain't Misbehavin",
       "url": "https://open.spotify.com/track/4TndToxlz7Qdvpb2O9s9HM"
@@ -2404,6 +2404,24 @@
       "duration_ms": 261061,
       "name": "Dreamsville",
       "url": "https://open.spotify.com/track/4AnJZTcx01nxo47QyYbskV"
+    },
+    {
+      "album": {
+        "name": "Drifting Apart",
+        "url": "https://open.spotify.com/album/7DTe3QXy4XrjCmu3lQUFhU"
+      },
+      "artists": [
+        {
+          "name": "More than Jazz",
+          "url": "https://open.spotify.com/artist/6BLANsh44CPzD19TF0X0Et"
+        }
+      ],
+      "date_added": "2023-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212144,
+      "name": "Drifting Apart",
+      "url": "https://open.spotify.com/track/3yuGg1Z1kHMoXVMv7iGg6E"
     },
     {
       "album": {
@@ -9796,7 +9814,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 276266,
       "name": "Under A Blanket Of Blue",
       "url": "https://open.spotify.com/track/2WesYvXttArUlbpOGDCwR3"
@@ -10146,6 +10164,24 @@
       "duration_ms": 450426,
       "name": "What Are You Doing The Rest Of Your Life?",
       "url": "https://open.spotify.com/track/6UN7iywg34GxVpbWGcEuPd"
+    },
+    {
+      "album": {
+        "name": "Theme of the West",
+        "url": "https://open.spotify.com/album/1ZJm7OHHWbpTvzdtKt1uX4"
+      },
+      "artists": [
+        {
+          "name": "Matt Marantz Quartet",
+          "url": "https://open.spotify.com/artist/0UaQ3qnMEuBWsPnbKWJo8V"
+        }
+      ],
+      "date_added": "2023-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223724,
+      "name": "What Could've Been",
+      "url": "https://open.spotify.com/track/2bfmkWvP7dKxPMPqQR628T"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > 日本の女性アーティストの歌を特集。cover: Superfly
 
-1,369 songs - 3 day 17 hr 11 min
+1,370 songs - 3 day 17 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -663,6 +663,7 @@
 | [Sweet Escape \(feat\. ひかり\)](https://open.spotify.com/track/6Whj4AAx1Y2xSCJhpRvTpt) | [Tokimeki Records](https://open.spotify.com/artist/73vrL9RiKlSaQFo2izavC1), [ひかり](https://open.spotify.com/artist/7FqXFvzwNYVhW12u5O3yUc) | [Sweet Escape \(feat\. ひかり\)](https://open.spotify.com/album/6QWulBLmOcERqXcs2tSxh6) | 3:53 | 2022-08-09 | 2022-11-04 |
 | [Sweet Escape \- feat\. RAENE](https://open.spotify.com/track/6O4hhUbrwqobHXPNb0xmJK) | [AmPm](https://open.spotify.com/artist/5Xcbv83o11Ez2XPHa1n8Pf), [RAENE](https://open.spotify.com/artist/6fTa2ugChlaoRIF6jvrZdV) | [Sweet Escape \(feat\. RAENE\)](https://open.spotify.com/album/3qhwaCo1QY2898oye3nAtj) | 3:25 | 2023-03-16 | 2023-03-22 |
 | [Sweet Impact \- The Greatest Ver.](https://open.spotify.com/track/5h7oS1pmpvvEghGMMB4Kgx) | [BoA](https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4) | [Sweet Impact \(The Greatest Ver.\)](https://open.spotify.com/album/3p5tbMMENw5CaJYGGF3bwv) | 5:09 | 2022-05-31 | 2022-06-24 |
+| [Swimmy](https://open.spotify.com/track/3reOxGqUCxSFziVFnVkT1S) | [YU\-KA](https://open.spotify.com/artist/1mnAFQLFTaUbccNqvK5pqX) | [Swimmy](https://open.spotify.com/album/0lh6RdtUpsCMn8Ci3LpQvU) | 3:28 | 2023-05-18 |  |
 | [Sympathy](https://open.spotify.com/track/23Mcmg5O8rBKAOzxvrTjnD) | [Kitri](https://open.spotify.com/artist/2i9CbxfaMspiPMCYZgvgPW) | [Hikare Inochi](https://open.spotify.com/album/6UoFSfFtSDp97egQC3Vnas) | 3:30 | 2022-07-28 | 2023-02-14 |
 | [Tabeta Ai](https://open.spotify.com/track/3EPScz3jhncxN4vZOiIKTz) | [aiko](https://open.spotify.com/artist/6TDMbiQCWeMClsMr9ORLRK) | [Ima no Futari o Otagai ga Miteru](https://open.spotify.com/album/0blSK7mLYswCAF9517kcKb) | 5:16 | 2023-03-30 | 2023-04-05 |
 | [Tabeta Ai](https://open.spotify.com/track/4fiubcHeHWX4tJ4FZX3C1I) | [aiko](https://open.spotify.com/artist/6TDMbiQCWeMClsMr9ORLRK) | [Tabeta Ai / Atashi Tachi](https://open.spotify.com/album/3mb9l3kOdaynZt1yvjMUeL) | 5:16 | 2023-03-28 | 2023-04-02 |
@@ -1065,7 +1066,7 @@
 | [僕は椅子](https://open.spotify.com/track/7eWWFAlEIm1PphClDPplcm) | [Miwa Sasagawa](https://open.spotify.com/artist/4luR2xOhou26Hmooyo2cnd) | [僕は椅子](https://open.spotify.com/album/6CUvHs0m3HyiM8TOds0Iye) | 4:26 | 2022-06-28 | 2022-07-06 |
 | [元の木阿弥](https://open.spotify.com/track/4Aym5kXxDox95aNFLRJ52N) | [こつぶ](https://open.spotify.com/artist/2gt2b26a7zIzTXP1TQJgW7) | [Patchwork](https://open.spotify.com/album/1nyBVvlTyvmkg6zg3bOZ5m) | 2:38 | 2022-10-11 | 2022-10-19 |
 | [先日はロマンス feat\. suis from ヨルシカ](https://open.spotify.com/track/5G2OuprmwSuTi4TWSw2e7k) | [平畑徹也](https://open.spotify.com/artist/3M9CxsgC2rk1Ax4jglCwl6), [suis](https://open.spotify.com/artist/135GrsHMkY8sERSMvxpE9A) | [AMNJK](https://open.spotify.com/album/3vo9fVrQEvqXRxVJVb6aFE) | 4:04 | 2023-03-21 | 2023-03-23 |
-| [先駆者](https://open.spotify.com/track/2z39kvnOiBa0DBbtsCRNA0) | [Hoshimachi Suisei](https://open.spotify.com/artist/726WiFmWkohzodUxK3XjHX) | [先駆者](https://open.spotify.com/album/5sgYGpQmcNXGVhpX8oP82I) | 4:34 | 2023-02-02 |  |
+| [先駆者](https://open.spotify.com/track/2z39kvnOiBa0DBbtsCRNA0) | [Hoshimachi Suisei](https://open.spotify.com/artist/726WiFmWkohzodUxK3XjHX) | [先駆者](https://open.spotify.com/album/5sgYGpQmcNXGVhpX8oP82I) | 4:34 | 2023-02-02 | 2023-05-19 |
 | [光のゆくえ](https://open.spotify.com/track/06qgE2CtKpj7iiC4ozgAn2) | [優河 with 魔法バンド](https://open.spotify.com/artist/4Sv6m7DsDWWGEP47BKsJ7Q), [Yuga](https://open.spotify.com/artist/2QPqMxppznwSxghh3R8WrT) | [月食の夜は](https://open.spotify.com/album/2IzcytCqWORdjCtNYpNc1M) | 4:09 | 2023-03-28 | 2023-04-05 |
 | [光の庭と魚の夢](https://open.spotify.com/track/54eQt6Cfyv7rawQHKtW5bi) | [Homecomings](https://open.spotify.com/artist/3iyF2P8al32bYI6e3YF56K) | [光の庭と魚の夢](https://open.spotify.com/album/6oAFmHVa4jrzyOUXGCe9xj) | 4:28 | 2023-01-26 | 2023-01-28 |
 | [光溢れ](https://open.spotify.com/track/1xNVfOwmTPJqCHxrVElyOj) | [Cocco](https://open.spotify.com/artist/3SBG08XwrIxXSPTxsbM0b6) | [光溢れ](https://open.spotify.com/album/4iPHMxjt6o5MnZe32bAHJv) | 3:00 | 2022-05-29 | 2022-07-13 |

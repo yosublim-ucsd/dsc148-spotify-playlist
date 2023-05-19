@@ -4016,7 +4016,7 @@
       ],
       "date_added": "2022-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 154486,
       "name": "Left and Right (Feat. Jung Kook of BTS)",
       "url": "https://open.spotify.com/track/5Odq8ohlgIbQKMZivbWkEo"
@@ -9594,7 +9594,7 @@
       ],
       "date_added": "2023-02-11",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-18",
+      "date_removed": null,
       "duration_ms": 293784,
       "name": "\u0e23\u0e2a\u0e2b\u0e27\u0e32\u0e19",
       "url": "https://open.spotify.com/track/2Ab1HQjbMcqHY3TkTycrYr"
@@ -10471,6 +10471,24 @@
     },
     {
       "album": {
+        "name": "Q.E.D",
+        "url": "https://open.spotify.com/album/7g6iCekuVO1Xx6WP1pPfB0"
+      },
+      "artists": [
+        {
+          "name": "Mirrr",
+          "url": "https://open.spotify.com/artist/5zSQoNQ9o2dnT1LPTzDxg7"
+        }
+      ],
+      "date_added": "2022-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240008,
+      "name": "\u0e40\u0e08\u0e49\u0e32\u0e02\u0e2d\u0e07\u0e17\u0e35\u0e48",
+      "url": "https://open.spotify.com/track/1rNYuv63emsYt4Jjv8RlgJ"
+    },
+    {
+      "album": {
         "name": "\u0e40\u0e08\u0e49\u0e32\u0e02\u0e2d\u0e07\u0e17\u0e35\u0e48 (My Favorite)",
         "url": "https://open.spotify.com/album/0sNSjqR4CsTlmuZGq9vOsF"
       },
@@ -10486,24 +10504,6 @@
       "duration_ms": 240008,
       "name": "\u0e40\u0e08\u0e49\u0e32\u0e02\u0e2d\u0e07\u0e17\u0e35\u0e48 (My Favorite)",
       "url": "https://open.spotify.com/track/09uH61N5f6I6cO97E0iEqB"
-    },
-    {
-      "album": {
-        "name": "Q.E.D",
-        "url": "https://open.spotify.com/album/7g6iCekuVO1Xx6WP1pPfB0"
-      },
-      "artists": [
-        {
-          "name": "Mirrr",
-          "url": "https://open.spotify.com/artist/5zSQoNQ9o2dnT1LPTzDxg7"
-        }
-      ],
-      "date_added": "2022-03-25",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 240008,
-      "name": "\u0e40\u0e08\u0e49\u0e32\u0e02\u0e2d\u0e07\u0e17\u0e35\u0e48 (My Favorite)",
-      "url": "https://open.spotify.com/track/1rNYuv63emsYt4Jjv8RlgJ"
     },
     {
       "album": {

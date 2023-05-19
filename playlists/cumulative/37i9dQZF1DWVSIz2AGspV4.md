@@ -2,9 +2,9 @@
 
 ### [عراقي جديد](https://open.spotify.com/playlist/37i9dQZF1DWVSIz2AGspV4)
 
-> أحدث الاغاني العراقية\. غلاف : علي السالم
+> أحدث الاغاني العراقية\. غلاف : دموع تحسين
 
-219 songs - 12 hr 49 min
+221 songs - 12 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -153,6 +153,7 @@
 | [Mawata](https://open.spotify.com/track/7kwKxJjlATFSqYKKEhVBGD) | [Mirna Tahan](https://open.spotify.com/artist/0GmjBO10yFgYsG67TcYJgg) | [Mawata](https://open.spotify.com/album/3DPn9TMsDGBiWiXljM4fMk) | 3:05 | 2021-12-23 | 2022-01-28 |
 | [Men Halwaket](https://open.spotify.com/track/5HRJEEbjlsshXBlYHRLE55) | [Louay Nana](https://open.spotify.com/artist/4EYdSEi7yt7bfaiME819gI) | [Men Halwaket](https://open.spotify.com/album/676Ri8ndBtfFXhHbAn44a2) | 4:14 | 2021-12-23 | 2022-05-07 |
 | [Meshwar Aldonia](https://open.spotify.com/track/3ktAIpByTbLeOXqfAXYGmS) | [Mustafa Al Rabeii](https://open.spotify.com/artist/0jqaRKpjya9UYjDMK6Bg0j) | [Meshwar Aldonia](https://open.spotify.com/album/7HkvbF3eCjE2plwbz7t3Iu) | 3:20 | 2023-04-04 |  |
+| [Met Bab](https://open.spotify.com/track/6GoaNwrdWjmSCjN5qIB77U) | [Mustafa Al Rabeii](https://open.spotify.com/artist/0jqaRKpjya9UYjDMK6Bg0j), [Nedaa Shrara](https://open.spotify.com/artist/73GigUB11JrOl85L4ma1AI) | [Qalby Youhdthni](https://open.spotify.com/album/4ielaCNnKFHKcJk1umtPUH) | 4:06 | 2023-05-18 |  |
 | [Mitghaer W Halyan](https://open.spotify.com/track/6dnkpGCXQc22MpGYrO1tFn) | [Mohamed AlSalim](https://open.spotify.com/artist/5Zkp6UaHTafGRXROGj6W0S), [Mostafa Ibrahim](https://open.spotify.com/artist/6rEEUjWP7GWSQHo5sTU2ZU) | [Mitghaer W Halyan](https://open.spotify.com/album/6htpatd9SodufzqQDrLjM3) | 4:10 | 2022-05-24 | 2023-01-11 |
 | [Mno Enta](https://open.spotify.com/track/2GBYI4P8SvdjcEfUELPzpd) | [Bassam Mahdi](https://open.spotify.com/artist/3n6hTwcg7nmNCmHl1sHeCO) | [Mno Enta](https://open.spotify.com/album/0ICKOpQg0VdEDQnZSHA07c) | 4:09 | 2022-07-07 | 2022-11-13 |
 | [Mo Wafi \- مو وفي](https://open.spotify.com/track/3eetE1j3t8zX4XFPV0lmPD) | [Ali Jassim](https://open.spotify.com/artist/0sQhYPLQcT2qUZ5KV25WSe), [Hamza Al Muhmdawi](https://open.spotify.com/artist/2UgjvFvfz7rQ5Vmu3HeEN5), [Ali Riyadh](https://open.spotify.com/artist/35pMeblJsAHj7ZzQrw4aX9) | [Mo Wafi \(مو وفي\)](https://open.spotify.com/album/2LJBbAAvWPt4ai0H2Cuf9r) | 3:44 | 2022-02-09 | 2022-06-07 |
@@ -220,6 +221,7 @@
 | [ارحم حالي](https://open.spotify.com/track/72H297oH5sQzYQ2rY4BATP) | [Saria Al Sawas](https://open.spotify.com/artist/3FxDJmY1Dj5bgaGunLoyaZ) | [Erham Hali](https://open.spotify.com/album/4aUwjMZQKyx9XHWTAIsqdt) | 4:31 | 2022-10-23 | 2022-11-13 |
 | [اسوي الزين](https://open.spotify.com/track/5vrGaDTo4S60i4LcUW8mSV) | [Nasrat Albader](https://open.spotify.com/artist/0pepBeoErqYbqiCEMqFoKu), [غصين سبيروس](https://open.spotify.com/artist/4QncRPuvQ9vOuiJAxUEGHx) | [اسوي الزين](https://open.spotify.com/album/3ueyzP9c69TE1GPVui9c9i) | 3:49 | 2021-12-23 | 2022-03-26 |
 | [اصعد للكمر](https://open.spotify.com/track/6ZKcyeppoycSkUn2FNPco2) | [Rahma Riad](https://open.spotify.com/artist/1JrJQz0AlGYbLxBnOEWfLx) | [اصعد للكمر](https://open.spotify.com/album/4IpLAgv5vUkUT9yX2LK3QA) | 3:04 | 2022-07-20 | 2023-05-03 |
+| [الى من](https://open.spotify.com/track/2sT7usmmVUeFZjnSRSBWxD) | [Dumooa Tahseen](https://open.spotify.com/artist/0453pwQTyMdU2a66fCFaUQ) | [الى من](https://open.spotify.com/album/2rlw0EdR9PfNaGCO2y02EP) | 3:19 | 2023-05-18 |  |
 | [بشر جذاب](https://open.spotify.com/track/2suDDctIHTYB0kST9Fr2B9) | [Dumooa Tahseen](https://open.spotify.com/artist/0453pwQTyMdU2a66fCFaUQ) | [بشر جذاب](https://open.spotify.com/album/7bJUnmJQsDKjOEICBZXzBy) | 3:43 | 2023-01-31 |  |
 | [تبسي](https://open.spotify.com/track/1fdwrQdInEatnElvOZVuEL) | [KHALIFA OG](https://open.spotify.com/artist/0dNsEdHWYo7jFACFABQOWs) | [تبسي](https://open.spotify.com/album/3oMSpM04MvEJPbrBCjbpRT) | 2:57 | 2022-01-05 | 2022-05-14 |
 | [خالتك مو زينة](https://open.spotify.com/track/6uS7J693t7hfZRr8jj0efp) | [Nasrat Albader](https://open.spotify.com/artist/0pepBeoErqYbqiCEMqFoKu), [غصين سبيروس](https://open.spotify.com/artist/4QncRPuvQ9vOuiJAxUEGHx) | [خالتك مو زينة](https://open.spotify.com/album/1P0Wlz91Z5HEA0xgnGgFSu) | 4:51 | 2022-01-05 | 2022-05-14 |

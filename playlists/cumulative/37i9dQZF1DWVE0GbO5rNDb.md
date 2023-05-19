@@ -4,7 +4,7 @@
 
 > Hit dance per l'estate 2023! ☀️🍹🏝️
 
-280 songs - 13 hr 50 min
+281 songs - 13 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -81,6 +81,7 @@
 | [Drinks on MI](https://open.spotify.com/track/3EnaAIwiciqClp6bnI40gr) | [Minelli](https://open.spotify.com/artist/5T0j6On1EthT2QVNXh8vqc) | [Silver & Gold \- Chapter II](https://open.spotify.com/album/6IffxaOUNV88w4yxw561vT) | 2:41 | 2023-05-15 |  |
 | [Drunk On You](https://open.spotify.com/track/0myKfeH41EQVICDh5WThhl) | [NIXO](https://open.spotify.com/artist/6mxZJKSf470rESPwB2Ce4s) | [Drunk On You](https://open.spotify.com/album/61LvxY4HDjxI52U39PR5IV) | 2:25 | 2022-05-17 | 2022-06-30 |
 | [Either Way](https://open.spotify.com/track/1MOalcOOazOcBdRuteCgIm) | [Sonarise](https://open.spotify.com/artist/6bapVw651XKllXrLj1nPH3), [Altro](https://open.spotify.com/artist/5VaIEpk0GkWAB98YY7ARgK), [Inchris](https://open.spotify.com/artist/0Z5KLaR58gugJPa1Z29UqU) | [Either Way](https://open.spotify.com/album/7vCgZXVphorCUaRYPmSspu) | 3:08 | 2022-05-30 | 2022-07-24 |
+| [Electric Love](https://open.spotify.com/track/02RIHCcIRIrFgRYzUizHlJ) | [LUM!X](https://open.spotify.com/artist/0TKFPt9w0AAEnhB9bd0pLy), [LAWRENT](https://open.spotify.com/artist/0O9m6ZuAAvUOhT6OgbtAmI) | [Electric Love](https://open.spotify.com/album/0REnSVgLIRN89uekm2TwJl) | 2:24 | 2023-05-15 |  |
 | [Emily](https://open.spotify.com/track/1iBRYT9Tq6v3qEqGL1wdtn) | [Gian Saldicco](https://open.spotify.com/artist/2dpJXfS8EcQzK3SrnOPaIZ), [N\-Chased](https://open.spotify.com/artist/1wpTJaiRo7wAJn5vyO00wR), [Will Church](https://open.spotify.com/artist/3PgE5GvG5WOLQgtrRydfuC) | [Emily](https://open.spotify.com/album/0ioPJASvfUVcPADvhF5CCV) | 3:09 | 2022-05-06 | 2022-07-29 |
 | [Everybody Wants To Party](https://open.spotify.com/track/3hbi5zXAgQt0Z9V5JSOnCe) | [Dubdogz](https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1), [JØRD](https://open.spotify.com/artist/2dhLVCzAEMbAu1SSkAoOGV) | [Everybody Wants To Party](https://open.spotify.com/album/5gQsKvFQiPKop7tVdbvNSj) | 3:04 | 2022-05-06 |  |
 | [Everybody’s Free \(To Feel Good\)](https://open.spotify.com/track/37hEQdTGZ5qDjtTXWi7U1G) | [Piero Pirupa](https://open.spotify.com/artist/5FD9tbbiWd6th8FaOdCtnB) | [Everybody’s Free \(To Feel Good\)](https://open.spotify.com/album/0dNy4Tr6SGaqdlPcCXLrNz) | 2:52 | 2022-05-06 | 2022-07-29 |
@@ -227,7 +228,7 @@
 | [Something Stupid \(feat\. AWA\)](https://open.spotify.com/track/2UCu2FoXFZpCT36lYzej4O) | [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [AWA](https://open.spotify.com/artist/0dR988NNn8lrFhXTOxyJfZ) | [Something Stupid \(feat\. AWA\)](https://open.spotify.com/album/2dvjAWKAaelqsNiqRajGlP) | 2:56 | 2022-05-06 | 2023-03-22 |
 | [Spinnin' \(feat\. Justin Jesso\)](https://open.spotify.com/track/2KLKSPQHaQ57g7oWMvvvQ9) | [LOVRA](https://open.spotify.com/artist/4fIPBdK4awAR1W14u3v1J5), [Justin Jesso](https://open.spotify.com/artist/1QDrz3DMMaz3TB1cm0PGDu) | [Spinnin' \(feat\. Justin Jesso\)](https://open.spotify.com/album/56yCpSE5psE1BFheFcGDQv) | 2:38 | 2022-05-06 | 2022-07-29 |
 | [Stay Awake](https://open.spotify.com/track/2smpiAZfaN0GFi15MqAq6E) | [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [A Place We Knew](https://open.spotify.com/album/61G7KL6rpj167r6H4CzS8C) | 3:05 | 2022-07-22 | 2023-05-05 |
-| [Stay Mine](https://open.spotify.com/track/7IhWJM8cN04zRQ2PNM91xc) | [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ), [AFROJACK](https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz) | [Stay Mine](https://open.spotify.com/album/15v2LmWavzASn38XSzS0dO) | 2:58 | 2022-05-06 |  |
+| [Stay Mine](https://open.spotify.com/track/7IhWJM8cN04zRQ2PNM91xc) | [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ), [AFROJACK](https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz) | [Stay Mine](https://open.spotify.com/album/15v2LmWavzASn38XSzS0dO) | 2:58 | 2022-05-06 | 2023-05-19 |
 | [Steady for You](https://open.spotify.com/track/4d1itg8OaWVQ2e1xTnqGVy) | [LANNÉ](https://open.spotify.com/artist/0K3HwnyYaxoQO9hZCBLtOH), [Rasmus Hagen](https://open.spotify.com/artist/2xE7TMnsr4hxdQW5F3urtq), [Pellegrini](https://open.spotify.com/artist/4LrfoGVXCjOMpBeiiLN0WV) | [Steady for You](https://open.spotify.com/album/4PBGxGdwWacAguKZ7PlBgE) | 2:25 | 2022-05-06 | 2022-07-27 |
 | [Still \(I Got Summer On My Mind\) \- FORTELLA Remix](https://open.spotify.com/track/00Nsyeo2kcU4602zMsLWXW) | [JJ](https://open.spotify.com/artist/1bAdBYcsDdsbqmWbAE7qKR), [FORTELLA](https://open.spotify.com/artist/1Gv25YA8ciVilOJBBD2Hv9) | [Still \(I Got Summer On My Mind\) \[FORTELLA Remix\]](https://open.spotify.com/album/6mfyxdmji09bDs1pYQADob) | 3:13 | 2022-12-20 |  |
 | [Stop This Flame \- Celeste x MK](https://open.spotify.com/track/3FN7IJMnUMWZXDw08ix3ot) | [Celeste](https://open.spotify.com/artist/49HlOY4gkHqsYG9GCuhkcc), [MK](https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9) | [Stop This Flame \(Celeste x MK\)](https://open.spotify.com/album/1G6SH7CRZ5qtYVaGnUVhSK) | 3:23 | 2022-05-06 |  |

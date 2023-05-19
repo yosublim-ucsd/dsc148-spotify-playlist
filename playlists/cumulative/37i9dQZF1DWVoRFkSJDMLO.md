@@ -4,7 +4,7 @@
 
 > Inspired by African drums\. Cover: Emotional Oranges, Nonso Amadi 🇺🇸 🇳🇬
 
-499 songs - 1 day 1 hr 9 min
+500 songs - 1 day 1 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -432,7 +432,8 @@
 | [Take It Easy](https://open.spotify.com/track/2UY4Y4TOUp0FP4srzqlfNr) | [Collie Buddz](https://open.spotify.com/artist/5Ayl2bJtN5mdCsxZoxs9n1) | [Take It Easy](https://open.spotify.com/album/1uNjQsisY48n9A6MKOYDLD) | 3:01 | 2023-02-03 | 2023-04-01 |
 | [Taking It](https://open.spotify.com/track/7x7PxF2HqqgwcIcqvdlXP0) | [Shatta Wale](https://open.spotify.com/artist/42q0rYXtR561ypg1Fcw1PI) | [MAALI](https://open.spotify.com/album/0or97sZavrGC1RtSGiLt6N) | 2:45 | 2023-03-31 | 2023-04-09 |
 | [TAKUTÁ](https://open.spotify.com/track/3WRXW64cLmy1WSHEs9zgUZ) | [Shay Lia](https://open.spotify.com/artist/3sJQwG0SsGRyv5C5kh4o9a) | [TAKUTÁ](https://open.spotify.com/album/3isNlsXrKxnpbrznyJe2gu) | 2:38 | 2023-03-31 |  |
-| [Talibans](https://open.spotify.com/track/0in4JBEFmQVtyNJCN9UeXU) | [Byron Messia](https://open.spotify.com/artist/3IDfJpj4YVkaBl7Dd52Pxv) | [No Love](https://open.spotify.com/album/2AR2cNQcrYLK8vAxTZe8ai) | 3:08 | 2023-05-05 |  |
+| [Talibans](https://open.spotify.com/track/0TTOsyDKykWhCh3qDd9wMY) | [Byron Messia](https://open.spotify.com/artist/3IDfJpj4YVkaBl7Dd52Pxv) | [No Love](https://open.spotify.com/album/6Ds8n0PlFxomLOtEHFwBeo) | 3:08 | 2023-05-12 |  |
+| [Talibans](https://open.spotify.com/track/0in4JBEFmQVtyNJCN9UeXU) | [Byron Messia](https://open.spotify.com/artist/3IDfJpj4YVkaBl7Dd52Pxv) | [No Love](https://open.spotify.com/album/2AR2cNQcrYLK8vAxTZe8ai) | 3:08 | 2023-05-05 | 2023-05-19 |
 | [Talking To Me](https://open.spotify.com/track/1vybj8n4mjVzW2Xrdfkz4d) | [R.O.Z](https://open.spotify.com/artist/74et92L0f8jI3J5BNSufHQ), [Quamina Mp](https://open.spotify.com/artist/7lv12RUXorFKjX5hKtNwUw) | [Talking To Me](https://open.spotify.com/album/39r1kdIBYN8aMMNvXLLDHt) | 3:04 | 2022-07-15 | 2022-07-23 |
 | [Tantalize](https://open.spotify.com/track/69XetTmUGiEM4eMWVQoIHg) | [Hndfll](https://open.spotify.com/artist/4a3CKmVSIT07QVRSZRFSoj) | [Tantalize](https://open.spotify.com/album/3Df12uC2kXeq1loFzt5Pjn) | 2:56 | 2022-06-10 | 2022-08-13 |
 | [TAPE MEASURE](https://open.spotify.com/track/1cplEBWw9Vft6ibCPSFCxp) | [Spice](https://open.spotify.com/artist/0wEvWMQRqaXcgnrZv6KtyL) | [Emancipated](https://open.spotify.com/album/7ce1HCzYF5AMlYsM639YlN) | 2:50 | 2022-08-26 | 2022-10-01 |

@@ -4,7 +4,7 @@
 
 > Soak up the serenity with these beautiful melodies.
 
-489 songs - 1 day 3 hr 23 min
+491 songs - 1 day 3 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,6 +30,7 @@
 | [Another Year](https://open.spotify.com/track/1v4HRWBmiwBcJODNWyhKO6) | [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [Another Year](https://open.spotify.com/album/6Mr0pFl9kcZQJt9OCULVwC) | 4:16 | 2020-12-11 | 2021-06-18 |
 | [Anyone](https://open.spotify.com/track/18ssFhD04lWo1RzpcohnrG) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [Anyone](https://open.spotify.com/album/4yP39SWfHBKh8J0HV3tCo1) | 3:47 | 2020-02-11 | 2020-03-14 |
 | [Anyone Who Loves Me](https://open.spotify.com/track/2AK96stPEvMLwVWrIo37zo) | [Charlotte Cardin](https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK) | [Phoenix](https://open.spotify.com/album/2jpQor1ZFocZF7Io0eI8mR) | 3:56 | 2021-04-24 | 2022-02-04 |
+| [Arrived](https://open.spotify.com/track/0kT06I5dLlP64u7kloklLS) | [alayna](https://open.spotify.com/artist/7JwNWaTv4y9WNJCihQFHpv) | [Arrived](https://open.spotify.com/album/48MYOEQZ33MT69BNB3DuBY) | 3:42 | 2023-05-18 |  |
 | [As the World Caves In](https://open.spotify.com/track/7LAmsNJpBaNvNg7VZPXxSv) | [Sarah Cothran](https://open.spotify.com/artist/3kft86DbqCNr7rjq3pEj0G) | [As the World Caves In](https://open.spotify.com/album/7fy6bIIBMLjfdvyPpmv8Ci) | 2:41 | 2021-06-28 | 2021-09-24 |
 | [Astronomy](https://open.spotify.com/track/0KmgJyW4GDgonqsoyx0CZ3) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Astronomy](https://open.spotify.com/album/4vs2JiaS6RjyxMcl0MvxLk) | 4:03 | 2021-06-18 | 2022-05-13 |
 | [Baby Blu](https://open.spotify.com/track/2uXEIjY0BLmZLehKai9RRS) | [Nilüfer Yanya](https://open.spotify.com/artist/09kXLeOXRyfNQMXRaDO4qA) | [Miss Universe](https://open.spotify.com/album/3cQu6qRAzmJla1JTJHHl4q) | 4:41 | 2019-07-29\* | 2019-08-02 |
@@ -461,6 +462,7 @@
 | [Ur So Beautiful](https://open.spotify.com/track/3Ko3WvKcr01gHE9oYx9iAE) | [Grace VanderWaal](https://open.spotify.com/artist/3YdT8QvV4QvY4DfVJhxdcZ) | [Ur So Beautiful](https://open.spotify.com/album/2ImEZ4iQjdwpJzkJtNVNRq) | 3:12 | 2019-08-02 | 2019-11-22 |
 | [Visiting Hours](https://open.spotify.com/track/44V6EzbUSYgyfsNiP0FrlA) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Visiting Hours](https://open.spotify.com/album/3Pl0yCO51uGkr5tFlD6bWN) | 3:35 | 2021-08-20 | 2022-07-08 |
 | [Voice in My Head](https://open.spotify.com/track/24ATuKIISqvuM27Zls0Mrv) | [Miller Roberts](https://open.spotify.com/artist/1J88SHfougnAYWOnonDtvL) | [Voice in My Head](https://open.spotify.com/album/6ExHmzTdiVXB1lU7zELtLP) | 4:30 | 2021-02-19 | 2021-06-28 |
+| [wait it out](https://open.spotify.com/track/793pY16A2YqBrsmdyagExY) | [shy martin](https://open.spotify.com/artist/7eCmccnRwPmRnWPw61x6jM) | [late night thoughts](https://open.spotify.com/album/3NNyPYXwkHc4F8QffKQkui) | 2:33 | 2023-05-18 |  |
 | [Waiting](https://open.spotify.com/track/0mdIIgjVubCqYTBdCpP5k9) | [KIAN](https://open.spotify.com/artist/1TulCA2zO3YxAjQ7ZsvtDq) | [Waiting](https://open.spotify.com/album/0pVmkcWPDxd6tJNxm2F0yr) | 3:35 | 2019-07-29\* | 2019-11-08 |
 | [Walk Me Home](https://open.spotify.com/track/7DHApOHsIFo7EyfieArYGE) | [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR) | [Walk Me Home](https://open.spotify.com/album/2KKdF2S0u36Ug2jm2qTXlZ) | 2:57 | 2019-07-29\* | 2019-08-02 |
 | [Walked Through Hell](https://open.spotify.com/track/6c7N5N7amAOpeMykjlovjI) | [Anson Seabra](https://open.spotify.com/artist/2jHp7gQArCQrlMvdrIVFCg) | [Walked Through Hell](https://open.spotify.com/album/2altfvjSV6RIRAE5Pmhw7i) | 3:36 | 2020-11-20 | 2022-02-11 |

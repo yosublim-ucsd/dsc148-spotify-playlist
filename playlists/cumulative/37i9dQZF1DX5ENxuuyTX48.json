@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-26",
-  "description": "wru? OTW! Cover: Gentle Bones",
+  "description": "wru? OTW! Cover: Hindia",
   "name": "OTW ",
   "tracks": [
     {
@@ -56,7 +56,7 @@
       ],
       "date_added": "2023-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 165569,
       "name": "6HRS",
       "url": "https://open.spotify.com/track/61A5Doh50xlDcf9hjLtjiE"
@@ -372,7 +372,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-12",
+      "date_removed": null,
       "duration_ms": 295693,
       "name": "Apa Yang Tak Bisa",
       "url": "https://open.spotify.com/track/7eq7Q23nVvIcroCRzzkyNR"
@@ -456,7 +456,7 @@
       ],
       "date_added": "2023-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 186538,
       "name": "BAAM",
       "url": "https://open.spotify.com/track/5puBLrBDmrhhaXJpuCpeD3"
@@ -492,7 +492,7 @@
       ],
       "date_added": "2023-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 164117,
       "name": "Balik",
       "url": "https://open.spotify.com/track/2j5uLGCIcUbICePn1HrAiy"
@@ -510,7 +510,7 @@
       ],
       "date_added": "2023-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 193954,
       "name": "Bantu",
       "url": "https://open.spotify.com/track/60pwarBZycX3iZzDAZL4A4"
@@ -774,7 +774,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-12",
+      "date_removed": null,
       "duration_ms": 243551,
       "name": "Bismillah Cinta",
       "url": "https://open.spotify.com/track/42OdOz68Ti3lKXVNcHZtxb"
@@ -799,6 +799,24 @@
     },
     {
       "album": {
+        "name": "Britney",
+        "url": "https://open.spotify.com/album/27uQLZsBhyP3QpRS3lnqYN"
+      },
+      "artists": [
+        {
+          "name": "SHN",
+          "url": "https://open.spotify.com/artist/5EovY4LBurcmsfIdpNEtfq"
+        }
+      ],
+      "date_added": "2023-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177352,
+      "name": "Britney",
+      "url": "https://open.spotify.com/track/6WjQMFO5ybaiOd73K0PDO5"
+    },
+    {
+      "album": {
         "name": "Merakit",
         "url": "https://open.spotify.com/album/5u9zb0LiJTVpTyhNUgNkLp"
       },
@@ -810,7 +828,7 @@
       ],
       "date_added": "2023-05-04",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-16",
+      "date_removed": null,
       "duration_ms": 200453,
       "name": "Buka Hati",
       "url": "https://open.spotify.com/track/3TuqUJ3OXEc68FdhoE2kaU"
@@ -943,6 +961,24 @@
     },
     {
       "album": {
+        "name": "cool",
+        "url": "https://open.spotify.com/album/3m84nUucwMjD3n0OpuhLFW"
+      },
+      "artists": [
+        {
+          "name": "lullaboy",
+          "url": "https://open.spotify.com/artist/7zrkFhYAp6dBxsydmJkouN"
+        }
+      ],
+      "date_added": "2023-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205950,
+      "name": "cool",
+      "url": "https://open.spotify.com/track/59XuPhDOT636SJ5z17mIUU"
+    },
+    {
+      "album": {
         "name": "25 Rasul",
         "url": "https://open.spotify.com/album/4SzU250wIW1mWoWp7qMU3p"
       },
@@ -972,10 +1008,28 @@
       ],
       "date_added": "2023-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 200556,
       "name": "damai",
       "url": "https://open.spotify.com/track/105xhd7hg95C3DlEczChRU"
+    },
+    {
+      "album": {
+        "name": "Dancing In September",
+        "url": "https://open.spotify.com/album/5wOgkWFVu8su1tW6135VQ5"
+      },
+      "artists": [
+        {
+          "name": "Ardhito Pramono",
+          "url": "https://open.spotify.com/artist/3TkSKriI4EZmTxSFyzs0fd"
+        }
+      ],
+      "date_added": "2023-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250523,
+      "name": "Dancing In September",
+      "url": "https://open.spotify.com/track/3PExB0N7a56JkDdFGZ6PV8"
     },
     {
       "album": {
@@ -1214,7 +1268,7 @@
       ],
       "date_added": "2023-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 192000,
       "name": "GET THIS RIGHT",
       "url": "https://open.spotify.com/track/06zW1L5h75YSZ86L3GSr3p"
@@ -1576,7 +1630,7 @@
       ],
       "date_added": "2023-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 199090,
       "name": "Indigo",
       "url": "https://open.spotify.com/track/7uE1fO1I6ADcJ4Zrnex8Kh"
@@ -1612,7 +1666,7 @@
       ],
       "date_added": "2023-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 171760,
       "name": "I\u2019m Not Waiting Too Long",
       "url": "https://open.spotify.com/track/5RsdglImFGW3B311vvcrF5"
@@ -1692,7 +1746,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-12",
+      "date_removed": null,
       "duration_ms": 245346,
       "name": "Jangan Cepat Berlalu",
       "url": "https://open.spotify.com/track/536YlC50Soxss5zuiJ9SJN"
@@ -2168,7 +2222,7 @@
       ],
       "date_added": "2023-05-04",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-15",
+      "date_removed": null,
       "duration_ms": 211160,
       "name": "Lagu Kita",
       "url": "https://open.spotify.com/track/1M3VWshwnG5op9B8UT0s5W"
@@ -2330,7 +2384,7 @@
       ],
       "date_added": "2023-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 274333,
       "name": "make it okay (change is terrifying)",
       "url": "https://open.spotify.com/track/0T1SgBVcEkmqYRxyr1s9vo"
@@ -2348,7 +2402,7 @@
       ],
       "date_added": "2023-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 163076,
       "name": "Mama,",
       "url": "https://open.spotify.com/track/6eOW8A2LX9hKT4uRF4svro"
@@ -2402,7 +2456,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-12",
+      "date_removed": null,
       "duration_ms": 227602,
       "name": "Masa Depan",
       "url": "https://open.spotify.com/track/6ZWRvS1VpmqA2ap3bMI4dY"
@@ -2485,6 +2539,28 @@
     },
     {
       "album": {
+        "name": "Midnight Till Dawn",
+        "url": "https://open.spotify.com/album/3DlIiyHpqcLBoffxq8QtSr"
+      },
+      "artists": [
+        {
+          "name": "Rangga Jones",
+          "url": "https://open.spotify.com/artist/330A2O2MYF4bWFjwM5PJ4z"
+        },
+        {
+          "name": "ROYAL ESTATE",
+          "url": "https://open.spotify.com/artist/0VHEsvWyL8en9IA2JI4jzh"
+        }
+      ],
+      "date_added": "2023-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151833,
+      "name": "Midnight Till Dawn",
+      "url": "https://open.spotify.com/track/09tHTTwxrj0s5MalRj7J4n"
+    },
+    {
+      "album": {
         "name": "Tutur Batin",
         "url": "https://open.spotify.com/album/4ehjkt2KhPomUc7duIqeyD"
       },
@@ -2518,7 +2594,7 @@
       ],
       "date_added": "2023-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 198076,
       "name": "Mungkin Aku Tak Penting? (feat. Tish Errda) - Piano Version",
       "url": "https://open.spotify.com/track/68EPBpcDHijz7YN0s5dn2Y"
@@ -2540,10 +2616,28 @@
       ],
       "date_added": "2023-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 156541,
       "name": "my stupid feelings",
       "url": "https://open.spotify.com/track/670mNsOhOQopWQMP8eAq1y"
+    },
+    {
+      "album": {
+        "name": "None Of My Business",
+        "url": "https://open.spotify.com/album/47nlIqeRk8eWpGq31y6yX1"
+      },
+      "artists": [
+        {
+          "name": "shazza",
+          "url": "https://open.spotify.com/artist/6MPxSpygdpS6heZntWsnsD"
+        }
+      ],
+      "date_added": "2023-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138750,
+      "name": "None Of My Business",
+      "url": "https://open.spotify.com/track/0FErJR0yZYjnGqgbWUTxWh"
     },
     {
       "album": {
@@ -2612,7 +2706,7 @@
       ],
       "date_added": "2023-05-04",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-12",
+      "date_removed": null,
       "duration_ms": 252100,
       "name": "Pastikan Riuh Akhiri Malammu",
       "url": "https://open.spotify.com/track/34D2sMturBbWp6DS8MyIBM"
@@ -2659,6 +2753,24 @@
     },
     {
       "album": {
+        "name": "Perkara Tubuh",
+        "url": "https://open.spotify.com/album/1Qes5yXkUVK0L7w681emMr"
+      },
+      "artists": [
+        {
+          "name": "Hindia",
+          "url": "https://open.spotify.com/artist/51kyrUsAVqUBcoDEMFkX12"
+        }
+      ],
+      "date_added": "2023-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155492,
+      "name": "Perkara Tubuh",
+      "url": "https://open.spotify.com/track/6Oqk183RxaZ2fzuAmc7RBY"
+    },
+    {
+      "album": {
         "name": "Princess Bubblegum",
         "url": "https://open.spotify.com/album/2K2RHh8CxhHI9RgYXKVt7W"
       },
@@ -2670,7 +2782,7 @@
       ],
       "date_added": "2023-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 168000,
       "name": "Princess Bubblegum",
       "url": "https://open.spotify.com/track/6ucInAX6PojGk0QVLHptHT"
@@ -3042,7 +3154,7 @@
       ],
       "date_added": "2023-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 153873,
       "name": "stuck in san antonio",
       "url": "https://open.spotify.com/track/3Pw3s89FOoJarpM4Zl50VY"
@@ -3371,6 +3483,24 @@
     },
     {
       "album": {
+        "name": "Scenery",
+        "url": "https://open.spotify.com/album/1ymjvLkoCkExW8xZwiNpr6"
+      },
+      "artists": [
+        {
+          "name": "Rafi Sudirman",
+          "url": "https://open.spotify.com/artist/0IJToD6h0XzZMzlgJ5kdhk"
+        }
+      ],
+      "date_added": "2023-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283311,
+      "name": "That Somebody",
+      "url": "https://open.spotify.com/track/0rmhhawrhWNqqZprQTGWWz"
+    },
+    {
+      "album": {
         "name": "Agterplaas",
         "url": "https://open.spotify.com/album/6EjtRvsWa1wRYJgeJOROI3"
       },
@@ -3418,7 +3548,7 @@
       ],
       "date_added": "2023-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 190624,
       "name": "Tunggu",
       "url": "https://open.spotify.com/track/1IzpHmWzA5wvggTNpyiy5S"
@@ -3476,6 +3606,28 @@
       "duration_ms": 311496,
       "name": "Usik",
       "url": "https://open.spotify.com/track/5GgRntbjr23OK9MMST02di"
+    },
+    {
+      "album": {
+        "name": "Utopia Reimagined: If You Knew",
+        "url": "https://open.spotify.com/album/0LsruwsbMFFdDYNkZ8cliX"
+      },
+      "artists": [
+        {
+          "name": "Dru Chen",
+          "url": "https://open.spotify.com/artist/0n1n8JVg3vec8svJHivjnf"
+        },
+        {
+          "name": "Charlie Lim",
+          "url": "https://open.spotify.com/artist/3FodFdWfVWIiER6Cv6YVVQ"
+        }
+      ],
+      "date_added": "2023-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157924,
+      "name": "Utopia Reimagined: If You Knew",
+      "url": "https://open.spotify.com/track/5c0AJO5XpzZZcnBPTxIAQi"
     },
     {
       "album": {

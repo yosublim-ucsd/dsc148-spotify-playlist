@@ -4,7 +4,7 @@
 
 > Rap from the hoods of Dilli\- Yungsta, Calm, Frappe Ash & Sez on the Beat.
 
-70 songs - 3 hr 51 min
+71 songs - 3 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,6 +27,7 @@
 | [Flex](https://open.spotify.com/track/1BjFMR7Cb8yaQyOsZBszML) | [Bali](https://open.spotify.com/artist/65pmgBULHr82D3llNlHtB8), [Ikka](https://open.spotify.com/artist/07iEy1AecUPVzfC2J2gCHR) | [Flex](https://open.spotify.com/album/0jpun7yb7Ve0nSJsrTVt1C) | 3:20 | 2023-03-10 |  |
 | [Fomo](https://open.spotify.com/track/0UtZD1wNeR0VqukhXs0AN4) | [Paradox](https://open.spotify.com/artist/3fWcIRZlzhMl2YNACMvHui), [ZelliX](https://open.spotify.com/artist/5CJ8Xtvv57oEiRKIy6OjJt) | [Overthink](https://open.spotify.com/album/1SyRpT0v6h3OtAX6l4Gtpx) | 4:10 | 2023-03-10 |  |
 | [Ghana Kasoota \(feat\. Surbhi Jyoti\)](https://open.spotify.com/track/0mvcsYusnTYlAkOZ077lDb) | [Raftaar](https://open.spotify.com/artist/5UdFr0GeO7jKIaNIJgwB36), [Rashmeet Kaur](https://open.spotify.com/artist/15UQcr22jcc6DJjy3sLv3J), [Surbhi Jyoti](https://open.spotify.com/artist/0ZwLuYX3Fe14PhonPeqd5X) | [Ghana Kasoota \(feat\. Surbhi Jyoti\)](https://open.spotify.com/album/5wNK25BcVubz95drmXiBCZ) | 2:48 | 2023-03-10 |  |
+| [Ghor Illegal](https://open.spotify.com/track/1ufntf5Rnlr9KMwNrLKgHc) | [Dakait](https://open.spotify.com/artist/2BrIU10C4UeoaDFgPg44Y7), [Aniket Raturi](https://open.spotify.com/artist/1jXFRp4614WZlih5QJ51RS), [Sez on the Beat](https://open.spotify.com/artist/7hI0IRD66iykVpXiieNRbe) | [Ghor Illegal](https://open.spotify.com/album/0mCZjkKZs4FOhOVKjf4o6c) | 3:30 | 2023-05-18 |  |
 | [Glitch](https://open.spotify.com/track/6AkmSJKHHyI07I1qLOVMVu) | [Paradox](https://open.spotify.com/artist/3fWcIRZlzhMl2YNACMvHui), [ISHH](https://open.spotify.com/artist/6QQsEqBC1lD3g2iMHIb8F8) | [Overthink](https://open.spotify.com/album/1SyRpT0v6h3OtAX6l4Gtpx) | 3:30 | 2023-03-10 |  |
 | [Goat Dekho](https://open.spotify.com/track/0rpcam9O6KfmWqSYp4q8PM) | [Raftaar](https://open.spotify.com/artist/5UdFr0GeO7jKIaNIJgwB36) | [Goat Dekho](https://open.spotify.com/album/4IvljiJx9k9Vuog309ll8r) | 3:33 | 2023-03-10 |  |
 | [GTA NCR](https://open.spotify.com/track/5SVmwl5avNHU3clEo86jE9) | [Raga](https://open.spotify.com/artist/4MJZBb8KABfKw0gzfgacpO), [Wamp](https://open.spotify.com/artist/6zpUQnCceOC1hkBQWLrZKk) | [GTA NCR](https://open.spotify.com/album/5Cji4DtVI1prgnhDMGjxTE) | 2:41 | 2023-03-10 |  |

@@ -4731,6 +4731,28 @@
     },
     {
       "album": {
+        "name": "Balance",
+        "url": "https://open.spotify.com/album/0q7zdFirG3Oz46K639CNtp"
+      },
+      "artists": [
+        {
+          "name": "Mujo",
+          "url": "https://open.spotify.com/artist/0vg08N1z9G9LrGLkG1nNDS"
+        },
+        {
+          "name": "okwow",
+          "url": "https://open.spotify.com/artist/1Gx2S5p5nWuMKhPq3k2kCq"
+        }
+      ],
+      "date_added": "2023-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 79932,
+      "name": "Balance",
+      "url": "https://open.spotify.com/track/3fiOgFT8BOAu3EqtHDhp26"
+    },
+    {
+      "album": {
         "name": "Balconia",
         "url": "https://open.spotify.com/album/2uOAfAGiPWVZwg63FTVs7L"
       },
@@ -6184,7 +6206,7 @@
       ],
       "date_added": "2022-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 117142,
       "name": "Blinker",
       "url": "https://open.spotify.com/track/0Rmjd0pRsHwROEdtd2uu3d"
@@ -11282,7 +11304,7 @@
       ],
       "date_added": "2022-11-17",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-16",
+      "date_removed": null,
       "duration_ms": 159000,
       "name": "cloudsleeper",
       "url": "https://open.spotify.com/track/1f7kX0jU1nYZwb8871d78x"
@@ -15730,7 +15752,7 @@
       ],
       "date_added": "2022-05-12",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-15",
+      "date_removed": null,
       "duration_ms": 124864,
       "name": "Dreamwalking",
       "url": "https://open.spotify.com/track/3SG29mgnB2tvy5lR8Qgtdk"
@@ -21727,6 +21749,28 @@
     },
     {
       "album": {
+        "name": "Gentile",
+        "url": "https://open.spotify.com/album/22kZqwlYpRCNM8Q35iyjky"
+      },
+      "artists": [
+        {
+          "name": "paris91",
+          "url": "https://open.spotify.com/artist/0IF1xUEFhGXZ7zz8BW1zqv"
+        },
+        {
+          "name": "Cloudchord",
+          "url": "https://open.spotify.com/artist/5EjKjFGvMmVUGCfAyDY2lG"
+        }
+      ],
+      "date_added": "2023-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126000,
+      "name": "Gentile",
+      "url": "https://open.spotify.com/track/5G9vRwuCNaX3OwY6OPqEN4"
+    },
+    {
+      "album": {
         "name": "Gentlyyy",
         "url": "https://open.spotify.com/album/10NxiiHgxjuCyPjA3TQvS4"
       },
@@ -22158,7 +22202,7 @@
       ],
       "date_added": "2022-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 147720,
       "name": "Glissade",
       "url": "https://open.spotify.com/track/1JolxvZ0oyWP0zxsJvdzrR"
@@ -27240,7 +27284,7 @@
       ],
       "date_added": "2022-03-10",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-13",
+      "date_removed": null,
       "duration_ms": 118571,
       "name": "In Between",
       "url": "https://open.spotify.com/track/7D56BYZHOiHXNXBcVJI0Sl"
@@ -27540,7 +27584,7 @@
       ],
       "date_added": "2022-10-27",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-03",
+      "date_removed": null,
       "duration_ms": 111000,
       "name": "Indian Summer",
       "url": "https://open.spotify.com/track/0WHE2eIQ0AvKdfRXakZIHc"
@@ -29472,7 +29516,7 @@
       ],
       "date_added": "2023-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 142666,
       "name": "Jehzz",
       "url": "https://open.spotify.com/track/170ZmbYgGk5kSb0WwFarSS"
@@ -37866,7 +37910,7 @@
       ],
       "date_added": "2023-03-16",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-14",
+      "date_removed": null,
       "duration_ms": 94401,
       "name": "Miragos",
       "url": "https://open.spotify.com/track/0OuuMPX1iWOTR5TkHFwdAj"
@@ -40248,7 +40292,7 @@
       ],
       "date_added": "2021-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 138666,
       "name": "Natural Springs",
       "url": "https://open.spotify.com/track/6Qu2SmU6jgmKNhefkWFW0T"
@@ -49252,7 +49296,7 @@
       ],
       "date_added": "2023-03-02",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-13",
+      "date_removed": null,
       "duration_ms": 138795,
       "name": "right here",
       "url": "https://open.spotify.com/track/0CAXwqDURV3HNIcRBo6q0H"
@@ -52342,7 +52386,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 118400,
       "name": "Shallow",
       "url": "https://open.spotify.com/track/34rDTa9sEiCGccvIzZkHbN"
@@ -53366,7 +53410,7 @@
       ],
       "date_added": "2023-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 134583,
       "name": "Sleepy Friday",
       "url": "https://open.spotify.com/track/6NTBj7CHsgxjWcEVZyhOPQ"
@@ -60466,7 +60510,7 @@
       ],
       "date_added": "2023-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 171000,
       "name": "Tesoro",
       "url": "https://open.spotify.com/track/50FAMtr0bCWmcr32wP4zJ7"
@@ -64076,7 +64120,7 @@
       ],
       "date_added": "2023-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 96023,
       "name": "Unexpected World",
       "url": "https://open.spotify.com/track/63kQCkG3LYRD90O2QZbhnh"
@@ -66038,6 +66082,28 @@
       "duration_ms": 150910,
       "name": "Waiting",
       "url": "https://open.spotify.com/track/4cu2jxuuBXoFOqZYF9Day9"
+    },
+    {
+      "album": {
+        "name": "Waiting",
+        "url": "https://open.spotify.com/album/4FrqXRrIBNP4Th2LK06QIC"
+      },
+      "artists": [
+        {
+          "name": "xander.",
+          "url": "https://open.spotify.com/artist/6ysKfYgiKUTMCuq2fSTLK3"
+        },
+        {
+          "name": "S\u00f8ren S\u00f8strom",
+          "url": "https://open.spotify.com/artist/2F5B5YgPDinjL9x35lkkke"
+        }
+      ],
+      "date_added": "2023-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181258,
+      "name": "Waiting",
+      "url": "https://open.spotify.com/track/1SDTig6UDgcSrDBHmXDne2"
     },
     {
       "album": {
@@ -68954,7 +69020,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 122142,
       "name": "Without You",
       "url": "https://open.spotify.com/track/0g52f9P5ayxN6hHv7z9q8Y"

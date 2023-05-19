@@ -1,12 +1,12 @@
 {
   "description": "Solo hit rap da ascoltare in loop. Cover: Lazza",
-  "num_followers": 177907,
+  "num_followers": 178075,
   "original_name": "Hit Rap Italiane",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkZmNjMDRlZjFhYmM0NmM5NjBjNWQ4N2YyNWJhNjNlYTU1YmJjNzM1",
+  "snapshot_id": "MCwyOTM4YzEwNTQ5ZjI0YjNlZDNkMzA0MjMzYzQwNjM5Mjk2NTQzNzYx",
   "tracks": [
     {
       "added_at": "2023-03-06 09:14:27",
@@ -145,7 +145,7 @@
       "url": "https://open.spotify.com/track/3h043RAJ7tKaG1HDFeet6w"
     },
     {
-      "added_at": "2023-05-18 00:12:33",
+      "added_at": "2023-05-19 00:31:57",
       "album": {
         "name": "CENERE",
         "url": "https://open.spotify.com/album/3jbwWq0IsEUjrQ6wBUqYzh"
@@ -343,22 +343,6 @@
     {
       "added_at": "2023-03-06 09:14:27",
       "album": {
-        "name": "Shakerando",
-        "url": "https://open.spotify.com/album/4ZF92wezwJWluQn4CQcXLJ"
-      },
-      "artists": [
-        {
-          "name": "Rhove",
-          "url": "https://open.spotify.com/artist/44DWomjW1oDuxIoBIRpmQ4"
-        }
-      ],
-      "duration_ms": 195555,
-      "name": "Shakerando",
-      "url": "https://open.spotify.com/track/4EC028SvtlC25iHQSG2OIa"
-    },
-    {
-      "added_at": "2023-03-06 09:14:27",
-      "album": {
         "name": "PLAZA",
         "url": "https://open.spotify.com/album/5tKxGn7nxBF5qLW6cpwVT8"
       },
@@ -371,6 +355,22 @@
       "duration_ms": 192786,
       "name": "Non Fare Cos\u00ec",
       "url": "https://open.spotify.com/track/769M2rTiAoL7x2lKDHLjRa"
+    },
+    {
+      "added_at": "2023-03-06 09:14:27",
+      "album": {
+        "name": "Shakerando",
+        "url": "https://open.spotify.com/album/4ZF92wezwJWluQn4CQcXLJ"
+      },
+      "artists": [
+        {
+          "name": "Rhove",
+          "url": "https://open.spotify.com/artist/44DWomjW1oDuxIoBIRpmQ4"
+        }
+      ],
+      "duration_ms": 195555,
+      "name": "Shakerando",
+      "url": "https://open.spotify.com/track/4EC028SvtlC25iHQSG2OIa"
     },
     {
       "added_at": "2023-03-06 09:14:27",
@@ -499,6 +499,30 @@
     {
       "added_at": "2023-03-06 09:14:27",
       "album": {
+        "name": "20",
+        "url": "https://open.spotify.com/album/0KYX8LOknGNZ7CkC5EuHJw"
+      },
+      "artists": [
+        {
+          "name": "Capo Plaza",
+          "url": "https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n"
+        },
+        {
+          "name": "Sfera Ebbasta",
+          "url": "https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz"
+        },
+        {
+          "name": "DrefGold",
+          "url": "https://open.spotify.com/artist/6jwzGu5VdkR5tsRROYuxso"
+        }
+      ],
+      "duration_ms": 185146,
+      "name": "Tesla (feat. Sfera Ebbasta & DrefGold)",
+      "url": "https://open.spotify.com/track/093RgZ7RXHZwIrxZhZYX4Q"
+    },
+    {
+      "added_at": "2023-03-06 09:14:27",
+      "album": {
         "name": "NOI, LORO, GLI ALTRI",
         "url": "https://open.spotify.com/album/0rgggvSYGSms079nUlcAGX"
       },
@@ -559,26 +583,18 @@
     {
       "added_at": "2023-03-06 09:14:27",
       "album": {
-        "name": "20",
-        "url": "https://open.spotify.com/album/0KYX8LOknGNZ7CkC5EuHJw"
+        "name": "Cancelo",
+        "url": "https://open.spotify.com/album/4elXQH4dGGNYwjy8f7UcB8"
       },
       "artists": [
         {
-          "name": "Capo Plaza",
-          "url": "https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n"
-        },
-        {
-          "name": "Sfera Ebbasta",
-          "url": "https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz"
-        },
-        {
-          "name": "DrefGold",
-          "url": "https://open.spotify.com/artist/6jwzGu5VdkR5tsRROYuxso"
+          "name": "Rhove",
+          "url": "https://open.spotify.com/artist/44DWomjW1oDuxIoBIRpmQ4"
         }
       ],
-      "duration_ms": 185146,
-      "name": "Tesla (feat. Sfera Ebbasta & DrefGold)",
-      "url": "https://open.spotify.com/track/093RgZ7RXHZwIrxZhZYX4Q"
+      "duration_ms": 174545,
+      "name": "Cancelo",
+      "url": "https://open.spotify.com/track/4lstxdn27jZqnTuyaLeJfq"
     },
     {
       "added_at": "2023-03-06 09:14:27",
@@ -603,22 +619,6 @@
     {
       "added_at": "2023-03-06 09:14:27",
       "album": {
-        "name": "Cancelo",
-        "url": "https://open.spotify.com/album/4elXQH4dGGNYwjy8f7UcB8"
-      },
-      "artists": [
-        {
-          "name": "Rhove",
-          "url": "https://open.spotify.com/artist/44DWomjW1oDuxIoBIRpmQ4"
-        }
-      ],
-      "duration_ms": 174545,
-      "name": "Cancelo",
-      "url": "https://open.spotify.com/track/4lstxdn27jZqnTuyaLeJfq"
-    },
-    {
-      "added_at": "2023-03-06 09:14:27",
-      "album": {
         "name": "Gi\u00f9",
         "url": "https://open.spotify.com/album/7vo7aun2FjdwkfP81Gy8w3"
       },
@@ -635,6 +635,22 @@
       "duration_ms": 198066,
       "name": "CASA",
       "url": "https://open.spotify.com/track/2Cp5UNKv8yUO6ng4ZDflRY"
+    },
+    {
+      "added_at": "2023-03-06 09:14:27",
+      "album": {
+        "name": "20",
+        "url": "https://open.spotify.com/album/0KYX8LOknGNZ7CkC5EuHJw"
+      },
+      "artists": [
+        {
+          "name": "Capo Plaza",
+          "url": "https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n"
+        }
+      ],
+      "duration_ms": 208813,
+      "name": "Uno squillo",
+      "url": "https://open.spotify.com/track/7zivIUyCw9MmYftdcayXnN"
     },
     {
       "added_at": "2023-03-06 09:14:27",
@@ -667,22 +683,6 @@
       "duration_ms": 176245,
       "name": "Pensando a lei",
       "url": "https://open.spotify.com/track/2d0ZupCYQL3ME43vB3Dei3"
-    },
-    {
-      "added_at": "2023-03-06 09:14:27",
-      "album": {
-        "name": "20",
-        "url": "https://open.spotify.com/album/0KYX8LOknGNZ7CkC5EuHJw"
-      },
-      "artists": [
-        {
-          "name": "Capo Plaza",
-          "url": "https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n"
-        }
-      ],
-      "duration_ms": 208813,
-      "name": "Uno squillo",
-      "url": "https://open.spotify.com/track/7zivIUyCw9MmYftdcayXnN"
     },
     {
       "added_at": "2023-03-06 09:14:27",
@@ -775,26 +775,6 @@
     {
       "added_at": "2023-03-06 09:14:27",
       "album": {
-        "name": "Soldi in Nero (feat. Sfera Ebbasta)",
-        "url": "https://open.spotify.com/album/6FQX7kuSlqfWWCPv24HPaH"
-      },
-      "artists": [
-        {
-          "name": "Shiva",
-          "url": "https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS"
-        },
-        {
-          "name": "Sfera Ebbasta",
-          "url": "https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz"
-        }
-      ],
-      "duration_ms": 183797,
-      "name": "Soldi in Nero - feat. Sfera Ebbasta",
-      "url": "https://open.spotify.com/track/1Xm2e1vDwOMeJJioWuG1s7"
-    },
-    {
-      "added_at": "2023-03-06 09:14:27",
-      "album": {
         "name": "Sinatra",
         "url": "https://open.spotify.com/album/6facASUoGUBZNCEWiQ9I3R"
       },
@@ -835,22 +815,6 @@
     {
       "added_at": "2023-03-06 09:14:27",
       "album": {
-        "name": "FLOP",
-        "url": "https://open.spotify.com/album/7DvK67C21i6go7olhjvLgT"
-      },
-      "artists": [
-        {
-          "name": "Salmo",
-          "url": "https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW"
-        }
-      ],
-      "duration_ms": 170018,
-      "name": "KUMITE",
-      "url": "https://open.spotify.com/track/6yaNNYWPjkWHbh1jADEyJO"
-    },
-    {
-      "added_at": "2023-03-06 09:14:27",
-      "album": {
         "name": "Mowgli",
         "url": "https://open.spotify.com/album/2F4YVNFy52kTEGDXdeYiZX"
       },
@@ -871,6 +835,22 @@
     {
       "added_at": "2023-03-06 09:14:27",
       "album": {
+        "name": "FLOP",
+        "url": "https://open.spotify.com/album/7DvK67C21i6go7olhjvLgT"
+      },
+      "artists": [
+        {
+          "name": "Salmo",
+          "url": "https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW"
+        }
+      ],
+      "duration_ms": 170018,
+      "name": "KUMITE",
+      "url": "https://open.spotify.com/track/6yaNNYWPjkWHbh1jADEyJO"
+    },
+    {
+      "added_at": "2023-03-06 09:14:27",
+      "album": {
         "name": "Rozzi",
         "url": "https://open.spotify.com/album/1VE1SYRNN6bjR1NAoJupok"
       },
@@ -883,6 +863,26 @@
       "duration_ms": 163053,
       "name": "Rozzi",
       "url": "https://open.spotify.com/track/3Y00k9cPoW8BnJesUEFoWn"
+    },
+    {
+      "added_at": "2023-03-06 09:14:27",
+      "album": {
+        "name": "Soldi in Nero (feat. Sfera Ebbasta)",
+        "url": "https://open.spotify.com/album/6FQX7kuSlqfWWCPv24HPaH"
+      },
+      "artists": [
+        {
+          "name": "Shiva",
+          "url": "https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS"
+        },
+        {
+          "name": "Sfera Ebbasta",
+          "url": "https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz"
+        }
+      ],
+      "duration_ms": 183797,
+      "name": "Soldi in Nero - feat. Sfera Ebbasta",
+      "url": "https://open.spotify.com/track/1Xm2e1vDwOMeJJioWuG1s7"
     },
     {
       "added_at": "2023-03-06 09:14:27",
@@ -975,26 +975,22 @@
     {
       "added_at": "2023-03-06 09:14:27",
       "album": {
-        "name": "TAXI DRIVER",
-        "url": "https://open.spotify.com/album/4D04TN7Kw7Bq98kfDjUmgh"
+        "name": "DELINQUENTE",
+        "url": "https://open.spotify.com/album/2wcLZ4N9hLO19PXpmZFWNh"
       },
       "artists": [
         {
-          "name": "Rkomi",
-          "url": "https://open.spotify.com/artist/056KMTw6IztdQjBmFfVyO3"
+          "name": "Baby Gang",
+          "url": "https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0"
         },
         {
-          "name": "Ernia",
-          "url": "https://open.spotify.com/artist/3fhMfkPPzksWuw0hEm4ldm"
-        },
-        {
-          "name": "MACE",
-          "url": "https://open.spotify.com/artist/7gjqZ8coFZimZDtdk04WP1"
+          "name": "Capo Plaza",
+          "url": "https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n"
         }
       ],
-      "duration_ms": 174727,
-      "name": "10 RAGAZZE (con ERNIA)",
-      "url": "https://open.spotify.com/track/45OsJpk7HMJKOnMVf2eQsV"
+      "duration_ms": 159750,
+      "name": "Ma Ch\u00e9rie (feat. Capo Plaza)",
+      "url": "https://open.spotify.com/track/56oawXplSFrfIJSyZjBgez"
     },
     {
       "added_at": "2023-03-06 09:14:27",
@@ -1019,22 +1015,26 @@
     {
       "added_at": "2023-03-06 09:14:27",
       "album": {
-        "name": "DELINQUENTE",
-        "url": "https://open.spotify.com/album/2wcLZ4N9hLO19PXpmZFWNh"
+        "name": "TAXI DRIVER",
+        "url": "https://open.spotify.com/album/4D04TN7Kw7Bq98kfDjUmgh"
       },
       "artists": [
         {
-          "name": "Baby Gang",
-          "url": "https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0"
+          "name": "Rkomi",
+          "url": "https://open.spotify.com/artist/056KMTw6IztdQjBmFfVyO3"
         },
         {
-          "name": "Capo Plaza",
-          "url": "https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n"
+          "name": "Ernia",
+          "url": "https://open.spotify.com/artist/3fhMfkPPzksWuw0hEm4ldm"
+        },
+        {
+          "name": "MACE",
+          "url": "https://open.spotify.com/artist/7gjqZ8coFZimZDtdk04WP1"
         }
       ],
-      "duration_ms": 159750,
-      "name": "Ma Ch\u00e9rie (feat. Capo Plaza)",
-      "url": "https://open.spotify.com/track/56oawXplSFrfIJSyZjBgez"
+      "duration_ms": 174727,
+      "name": "10 RAGAZZE (con ERNIA)",
+      "url": "https://open.spotify.com/track/45OsJpk7HMJKOnMVf2eQsV"
     },
     {
       "added_at": "2023-03-06 09:14:27",
@@ -1207,30 +1207,6 @@
     {
       "added_at": "2023-03-06 09:14:27",
       "album": {
-        "name": "MACHETE MIXTAPE 4",
-        "url": "https://open.spotify.com/album/5OOd2aAkgZJlYRqYlT1Axz"
-      },
-      "artists": [
-        {
-          "name": "MACHETE",
-          "url": "https://open.spotify.com/artist/7Do8se3ZoaVqUt3woqqSrD"
-        },
-        {
-          "name": "Salmo",
-          "url": "https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW"
-        },
-        {
-          "name": "Lazza",
-          "url": "https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM"
-        }
-      ],
-      "duration_ms": 177036,
-      "name": "HO PAURA DI USCIRE 2 - prod. Mace",
-      "url": "https://open.spotify.com/track/0nFCpnM7nistUWXRZpzOWM"
-    },
-    {
-      "added_at": "2023-03-06 09:14:27",
-      "album": {
         "name": "Mr. Fini",
         "url": "https://open.spotify.com/album/5W43G0FSXOgTFCSfnnwxcf"
       },
@@ -1255,6 +1231,30 @@
     {
       "added_at": "2023-03-06 09:14:27",
       "album": {
+        "name": "MACHETE MIXTAPE 4",
+        "url": "https://open.spotify.com/album/5OOd2aAkgZJlYRqYlT1Axz"
+      },
+      "artists": [
+        {
+          "name": "MACHETE",
+          "url": "https://open.spotify.com/artist/7Do8se3ZoaVqUt3woqqSrD"
+        },
+        {
+          "name": "Salmo",
+          "url": "https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW"
+        },
+        {
+          "name": "Lazza",
+          "url": "https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM"
+        }
+      ],
+      "duration_ms": 177036,
+      "name": "HO PAURA DI USCIRE 2 - prod. Mace",
+      "url": "https://open.spotify.com/track/0nFCpnM7nistUWXRZpzOWM"
+    },
+    {
+      "added_at": "2023-03-06 09:14:27",
+      "album": {
         "name": "Bottiglie Priv\u00e8",
         "url": "https://open.spotify.com/album/0vu1M0rGdZ7yR34KwyEmrj"
       },
@@ -1267,6 +1267,42 @@
       "duration_ms": 189867,
       "name": "Bottiglie Priv\u00e8",
       "url": "https://open.spotify.com/track/3E2KP5AWn6Wx0NcPstzKeo"
+    },
+    {
+      "added_at": "2023-03-06 09:14:27",
+      "album": {
+        "name": "Re Mida",
+        "url": "https://open.spotify.com/album/4OEhFBWot75bQO4s9K2gGk"
+      },
+      "artists": [
+        {
+          "name": "Lazza",
+          "url": "https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM"
+        },
+        {
+          "name": "Tedua",
+          "url": "https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7"
+        }
+      ],
+      "duration_ms": 200146,
+      "name": "Catrame (feat. Tedua)",
+      "url": "https://open.spotify.com/track/5qbVso0dAtoI2gFhj7V8oG"
+    },
+    {
+      "added_at": "2023-03-06 09:14:27",
+      "album": {
+        "name": "Playlist",
+        "url": "https://open.spotify.com/album/5F6r4JU7TdqI8YOWzj6Fyn"
+      },
+      "artists": [
+        {
+          "name": "Salmo",
+          "url": "https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW"
+        }
+      ],
+      "duration_ms": 205266,
+      "name": "LUNEDI'",
+      "url": "https://open.spotify.com/track/1VNARx6Sm6ZYAsDMCGiU1B"
     },
     {
       "added_at": "2023-03-06 09:14:27",
@@ -1295,42 +1331,6 @@
     {
       "added_at": "2023-03-06 09:14:27",
       "album": {
-        "name": "Playlist",
-        "url": "https://open.spotify.com/album/5F6r4JU7TdqI8YOWzj6Fyn"
-      },
-      "artists": [
-        {
-          "name": "Salmo",
-          "url": "https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW"
-        }
-      ],
-      "duration_ms": 205266,
-      "name": "LUNEDI'",
-      "url": "https://open.spotify.com/track/1VNARx6Sm6ZYAsDMCGiU1B"
-    },
-    {
-      "added_at": "2023-03-06 09:14:27",
-      "album": {
-        "name": "Re Mida",
-        "url": "https://open.spotify.com/album/4OEhFBWot75bQO4s9K2gGk"
-      },
-      "artists": [
-        {
-          "name": "Lazza",
-          "url": "https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM"
-        },
-        {
-          "name": "Tedua",
-          "url": "https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7"
-        }
-      ],
-      "duration_ms": 200146,
-      "name": "Catrame (feat. Tedua)",
-      "url": "https://open.spotify.com/track/5qbVso0dAtoI2gFhj7V8oG"
-    },
-    {
-      "added_at": "2023-03-06 09:14:27",
-      "album": {
         "name": "Angelina Jolie",
         "url": "https://open.spotify.com/album/6sE81aPV364gLYtUBwgzwR"
       },
@@ -1347,78 +1347,6 @@
       "duration_ms": 169671,
       "name": "Angelina Jolie",
       "url": "https://open.spotify.com/track/0tD4EXZRm1JGDYWtKYFLWK"
-    },
-    {
-      "added_at": "2023-03-06 09:14:27",
-      "album": {
-        "name": "Filtri",
-        "url": "https://open.spotify.com/album/0Rh1xvnuSs3GyZAvpLlkut"
-      },
-      "artists": [
-        {
-          "name": "VillaBanks",
-          "url": "https://open.spotify.com/artist/3ASAxVN1hNoYfoMcIkzZWL"
-        },
-        {
-          "name": "Boro Boro",
-          "url": "https://open.spotify.com/artist/1hHYi4Vy83BGo6TqKd98hu"
-        }
-      ],
-      "duration_ms": 169683,
-      "name": "Rompo (feat. Boro Boro)",
-      "url": "https://open.spotify.com/track/4oPh7HAoMR1bLBbxwqKmgn"
-    },
-    {
-      "added_at": "2023-03-06 09:14:27",
-      "album": {
-        "name": "Bimbi",
-        "url": "https://open.spotify.com/album/1UrR17tCBddq6cbSKQQWA2"
-      },
-      "artists": [
-        {
-          "name": "Charlie Charles",
-          "url": "https://open.spotify.com/artist/1UCxzrM5WJh9ure5vCcsim"
-        },
-        {
-          "name": "Izi",
-          "url": "https://open.spotify.com/artist/6289Bbkkk3gaCbh1K7Rv8F"
-        },
-        {
-          "name": "Rkomi",
-          "url": "https://open.spotify.com/artist/056KMTw6IztdQjBmFfVyO3"
-        },
-        {
-          "name": "Sfera Ebbasta",
-          "url": "https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz"
-        },
-        {
-          "name": "Tedua",
-          "url": "https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7"
-        },
-        {
-          "name": "Ghali",
-          "url": "https://open.spotify.com/artist/3egWSWp7Y4FyCKIyvXbw7L"
-        }
-      ],
-      "duration_ms": 240245,
-      "name": "Bimbi",
-      "url": "https://open.spotify.com/track/4JJtZMgxQgTlBBg7E9Qeac"
-    },
-    {
-      "added_at": "2023-03-06 09:14:27",
-      "album": {
-        "name": "Playlist",
-        "url": "https://open.spotify.com/album/5F6r4JU7TdqI8YOWzj6Fyn"
-      },
-      "artists": [
-        {
-          "name": "Salmo",
-          "url": "https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW"
-        }
-      ],
-      "duration_ms": 231920,
-      "name": "90MIN",
-      "url": "https://open.spotify.com/track/3Ls9yKzshQye18Tx2AvOb6"
     },
     {
       "added_at": "2023-03-06 09:14:27",
@@ -1463,6 +1391,42 @@
       "duration_ms": 264573,
       "name": "Stavo Pensando A Te",
       "url": "https://open.spotify.com/track/3UPigmZoN3ahvBgQdU9VK5"
+    },
+    {
+      "added_at": "2023-03-06 09:14:27",
+      "album": {
+        "name": "Playlist",
+        "url": "https://open.spotify.com/album/5F6r4JU7TdqI8YOWzj6Fyn"
+      },
+      "artists": [
+        {
+          "name": "Salmo",
+          "url": "https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW"
+        }
+      ],
+      "duration_ms": 231920,
+      "name": "90MIN",
+      "url": "https://open.spotify.com/track/3Ls9yKzshQye18Tx2AvOb6"
+    },
+    {
+      "added_at": "2023-03-06 09:14:27",
+      "album": {
+        "name": "Filtri",
+        "url": "https://open.spotify.com/album/0Rh1xvnuSs3GyZAvpLlkut"
+      },
+      "artists": [
+        {
+          "name": "VillaBanks",
+          "url": "https://open.spotify.com/artist/3ASAxVN1hNoYfoMcIkzZWL"
+        },
+        {
+          "name": "Boro Boro",
+          "url": "https://open.spotify.com/artist/1hHYi4Vy83BGo6TqKd98hu"
+        }
+      ],
+      "duration_ms": 169683,
+      "name": "Rompo (feat. Boro Boro)",
+      "url": "https://open.spotify.com/track/4oPh7HAoMR1bLBbxwqKmgn"
     },
     {
       "added_at": "2023-03-06 09:14:27",
@@ -1527,6 +1491,42 @@
     {
       "added_at": "2023-03-06 09:14:27",
       "album": {
+        "name": "Bimbi",
+        "url": "https://open.spotify.com/album/1UrR17tCBddq6cbSKQQWA2"
+      },
+      "artists": [
+        {
+          "name": "Charlie Charles",
+          "url": "https://open.spotify.com/artist/1UCxzrM5WJh9ure5vCcsim"
+        },
+        {
+          "name": "Izi",
+          "url": "https://open.spotify.com/artist/6289Bbkkk3gaCbh1K7Rv8F"
+        },
+        {
+          "name": "Rkomi",
+          "url": "https://open.spotify.com/artist/056KMTw6IztdQjBmFfVyO3"
+        },
+        {
+          "name": "Sfera Ebbasta",
+          "url": "https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz"
+        },
+        {
+          "name": "Tedua",
+          "url": "https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7"
+        },
+        {
+          "name": "Ghali",
+          "url": "https://open.spotify.com/artist/3egWSWp7Y4FyCKIyvXbw7L"
+        }
+      ],
+      "duration_ms": 240245,
+      "name": "Bimbi",
+      "url": "https://open.spotify.com/track/4JJtZMgxQgTlBBg7E9Qeac"
+    },
+    {
+      "added_at": "2023-03-06 09:14:27",
+      "album": {
         "name": "Santeria",
         "url": "https://open.spotify.com/album/2LLWEWdoQPndFp7cqwQYhV"
       },
@@ -1583,6 +1583,42 @@
     {
       "added_at": "2023-03-06 09:14:27",
       "album": {
+        "name": "MM Vol. 2",
+        "url": "https://open.spotify.com/album/1AvKiJ8VeVQHPQsMtwLYBr"
+      },
+      "artists": [
+        {
+          "name": "MadMan",
+          "url": "https://open.spotify.com/artist/3MkkSf3u5KU52Mb2iMrqeX"
+        },
+        {
+          "name": "Gemitaiz",
+          "url": "https://open.spotify.com/artist/4upwdFMlZBmQ68jP9jPzjK"
+        }
+      ],
+      "duration_ms": 205125,
+      "name": "Veleno 6",
+      "url": "https://open.spotify.com/track/7GfXjqXD9aBvDoBdZ7EwPH"
+    },
+    {
+      "added_at": "2023-03-06 09:14:27",
+      "album": {
+        "name": "Album",
+        "url": "https://open.spotify.com/album/09wqWIOKWuS6RwjBrXe08B"
+      },
+      "artists": [
+        {
+          "name": "Ghali",
+          "url": "https://open.spotify.com/artist/3egWSWp7Y4FyCKIyvXbw7L"
+        }
+      ],
+      "duration_ms": 184413,
+      "name": "Habibi",
+      "url": "https://open.spotify.com/track/2dyQYsU8cJLSGpVsbOy0CO"
+    },
+    {
+      "added_at": "2023-03-06 09:14:27",
+      "album": {
         "name": "El Puto Mundo",
         "url": "https://open.spotify.com/album/4OBlPtQ0nZjyEpOOYmE47O"
       },
@@ -1607,42 +1643,6 @@
       "duration_ms": 196741,
       "name": "Pasticche (feat. Capo Plaza)",
       "url": "https://open.spotify.com/track/7KnC2wSD0I5Fju3A7qCFX8"
-    },
-    {
-      "added_at": "2023-03-06 09:14:27",
-      "album": {
-        "name": "Album",
-        "url": "https://open.spotify.com/album/09wqWIOKWuS6RwjBrXe08B"
-      },
-      "artists": [
-        {
-          "name": "Ghali",
-          "url": "https://open.spotify.com/artist/3egWSWp7Y4FyCKIyvXbw7L"
-        }
-      ],
-      "duration_ms": 184413,
-      "name": "Habibi",
-      "url": "https://open.spotify.com/track/2dyQYsU8cJLSGpVsbOy0CO"
-    },
-    {
-      "added_at": "2023-03-06 09:14:27",
-      "album": {
-        "name": "MM Vol. 2",
-        "url": "https://open.spotify.com/album/1AvKiJ8VeVQHPQsMtwLYBr"
-      },
-      "artists": [
-        {
-          "name": "MadMan",
-          "url": "https://open.spotify.com/artist/3MkkSf3u5KU52Mb2iMrqeX"
-        },
-        {
-          "name": "Gemitaiz",
-          "url": "https://open.spotify.com/artist/4upwdFMlZBmQ68jP9jPzjK"
-        }
-      ],
-      "duration_ms": 205125,
-      "name": "Veleno 6",
-      "url": "https://open.spotify.com/track/7GfXjqXD9aBvDoBdZ7EwPH"
     },
     {
       "added_at": "2023-03-06 09:14:27",
@@ -1683,22 +1683,6 @@
     {
       "added_at": "2023-03-06 09:14:27",
       "album": {
-        "name": "FSK TRAPSHIT REVENGE",
-        "url": "https://open.spotify.com/album/4z4zCeqiEjTTBI0a8Uyl0S"
-      },
-      "artists": [
-        {
-          "name": "FSK SATELLITE",
-          "url": "https://open.spotify.com/artist/4UikIA2yhd0jVJSXD9IOJH"
-        }
-      ],
-      "duration_ms": 148500,
-      "name": "ANSIA NO",
-      "url": "https://open.spotify.com/track/2yuYI5NFhevxa05se7Qht9"
-    },
-    {
-      "added_at": "2023-03-06 09:14:27",
-      "album": {
         "name": "68 (Till The End)",
         "url": "https://open.spotify.com/album/1F6aVwr0raeSt5YT02hARW"
       },
@@ -1711,6 +1695,22 @@
       "duration_ms": 174000,
       "name": "Phi",
       "url": "https://open.spotify.com/track/0E5bmLyxyiHsmc82D5gsiY"
+    },
+    {
+      "added_at": "2023-03-06 09:14:27",
+      "album": {
+        "name": "FSK TRAPSHIT REVENGE",
+        "url": "https://open.spotify.com/album/4z4zCeqiEjTTBI0a8Uyl0S"
+      },
+      "artists": [
+        {
+          "name": "FSK SATELLITE",
+          "url": "https://open.spotify.com/artist/4UikIA2yhd0jVJSXD9IOJH"
+        }
+      ],
+      "duration_ms": 148500,
+      "name": "ANSIA NO",
+      "url": "https://open.spotify.com/track/2yuYI5NFhevxa05se7Qht9"
     },
     {
       "added_at": "2023-03-06 09:14:27",

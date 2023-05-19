@@ -1,12 +1,12 @@
 {
   "description": "Your everyday pick-me-up playlist.",
-  "num_followers": 57249,
+  "num_followers": 57294,
   "original_name": "Feel Good Look Good",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1MGEyY2MyNWZhN2JhMzQ5MjU3YzQ2OTE5NTNjNTUwNWY2YmYyMjk5",
+  "snapshot_id": "MCw1MTQxNGMyMWJkN2ViZTEwMWJjM2FjNDFmNWMwYjVmYWFkZTdhYjYy",
   "tracks": [
     {
       "added_at": "2023-04-21 11:39:07",
@@ -775,8 +775,8 @@
     {
       "added_at": "2023-04-21 11:39:07",
       "album": {
-        "name": "Mortal Man",
-        "url": "https://open.spotify.com/album/7KiOI9KabLyB8vx5gQTkO2"
+        "name": "Critical As Water",
+        "url": "https://open.spotify.com/album/1bfxQHvsU6C2tx1vmEL6ll"
       },
       "artists": [
         {
@@ -784,9 +784,9 @@
           "url": "https://open.spotify.com/artist/0Dct2Gu0qEbgGRjfaxew8g"
         }
       ],
-      "duration_ms": 235866,
-      "name": "Mortal Man",
-      "url": "https://open.spotify.com/track/1QGac4OblpXqHpk9AubVuo"
+      "duration_ms": 180066,
+      "name": "Waves",
+      "url": "https://open.spotify.com/track/1cgHWk3kQk8SbvaYHkfTkV"
     },
     {
       "added_at": "2023-04-21 11:39:07",
@@ -923,8 +923,8 @@
     {
       "added_at": "2023-04-21 11:39:07",
       "album": {
-        "name": "Critical As Water",
-        "url": "https://open.spotify.com/album/1bfxQHvsU6C2tx1vmEL6ll"
+        "name": "Mortal Man",
+        "url": "https://open.spotify.com/album/7KiOI9KabLyB8vx5gQTkO2"
       },
       "artists": [
         {
@@ -932,9 +932,9 @@
           "url": "https://open.spotify.com/artist/0Dct2Gu0qEbgGRjfaxew8g"
         }
       ],
-      "duration_ms": 180066,
-      "name": "Waves",
-      "url": "https://open.spotify.com/track/1cgHWk3kQk8SbvaYHkfTkV"
+      "duration_ms": 235866,
+      "name": "Mortal Man",
+      "url": "https://open.spotify.com/track/1QGac4OblpXqHpk9AubVuo"
     },
     {
       "added_at": "2023-04-21 11:39:07",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3JGBBuBxYKW.md) - [plain]
 
 > Reinas de la cumbia, de hoy y de siempre\. <br/>Foto: Karina.
 
-[Spotify](https://open.spotify.com/user/spotify) - 81,787 likes - 65 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 81,817 likes - 65 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,9 +61,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3JGBBuBxYKW.md) - [plain]
 | 51 | [Poco Asado, Mucho Humo](https://open.spotify.com/track/4KzcvEv1UFjbXDK9XADoN4) | [Rocío Quiroz](https://open.spotify.com/artist/43PjjBbR7LawCx75hCbLmn) | [La Voz de los Barrios](https://open.spotify.com/album/6ETUBwmq6hJ7dOtIHqj4p1) | 3:01 |
 | 52 | [Si Tu Te Vas](https://open.spotify.com/track/4jUH6sw78DUA7ksSvudJec) | [Gilda](https://open.spotify.com/artist/6Q6qTNC2rAegcR5QjzcRgE) | [Si hay alguien en tu vida](https://open.spotify.com/album/4UUIaLkoQJhxvpWuSH9tGs) | 3:51 |
 | 53 | [Mientes](https://open.spotify.com/track/6NLLlVLuq3u7lx1n8Ngvpm) | [Kumbia Queers](https://open.spotify.com/artist/5YyaDaOco3I0zoLtGxDM5K) | [Pecados Tropicales](https://open.spotify.com/album/5PGOTj7lzQiSgJfk1Zrdgn) | 3:02 |
-| 54 | [Lo Que Tenias Conmigo](https://open.spotify.com/track/5kgEYgfAbwGghXZCyOm7xm) | [Vanesa Britos](https://open.spotify.com/artist/5XOiPMOBMDm4AYCFRS1e0j) | [Lo Que Tenias Conmigo](https://open.spotify.com/album/78VOKOepzfCQP4thwrVnw4) | 3:18 |
+| 54 | [Dos Infieles](https://open.spotify.com/track/3GcbihNnqXr2fVKOnawl7K) | [Lumila](https://open.spotify.com/artist/3UMqtujij2O4GFEb4kudmz), [Coty Hernández](https://open.spotify.com/artist/6yX2GzaudljEEBKfMZpOXE) | [Dos Infieles](https://open.spotify.com/album/1f54nsI9jCpMXNryg9RX4f) | 3:44 |
 | 55 | [Ya No Cabes en Mi Vida](https://open.spotify.com/track/5ZycfkHySa9RUkzSchzQTf) | [Mariana Seoane](https://open.spotify.com/artist/5erc8Dr6fyYJSoIXJKlFZV) | [Ya No Cabes en Mi Vida](https://open.spotify.com/album/0owqh23Zt5u38h1SbS4Oyf) | 3:31 |
-| 56 | [Dos Infieles](https://open.spotify.com/track/3GcbihNnqXr2fVKOnawl7K) | [Lumila](https://open.spotify.com/artist/3UMqtujij2O4GFEb4kudmz), [Coty Hernández](https://open.spotify.com/artist/6yX2GzaudljEEBKfMZpOXE) | [Dos Infieles](https://open.spotify.com/album/1f54nsI9jCpMXNryg9RX4f) | 3:44 |
+| 56 | [Lo Que Tenias Conmigo](https://open.spotify.com/track/5kgEYgfAbwGghXZCyOm7xm) | [Vanesa Britos](https://open.spotify.com/artist/5XOiPMOBMDm4AYCFRS1e0j) | [Lo Que Tenias Conmigo](https://open.spotify.com/album/78VOKOepzfCQP4thwrVnw4) | 3:18 |
 | 57 | [Amor de Cuarentena \- Urbano](https://open.spotify.com/track/7N3XvjdeJ9cz9frgQA0gQ4) | [Viru Kumbieron](https://open.spotify.com/artist/7edrtXagYn0nCFOwQp8AS1) | [Amor de Cuarentena \(Urbano\)](https://open.spotify.com/album/7oiQXn5G0q5kapu7i62Sn5) | 3:14 |
 | 58 | [Es Mi Culpa](https://open.spotify.com/track/4S4oqyulWVGMTmgG9FR7JB) | [Erica](https://open.spotify.com/artist/6ozZB05c03WzEeGM5vR6l7) | [Es Mi Culpa](https://open.spotify.com/album/47ReswkeLCiYbJrCW7OzyH) | 3:35 |
 | 59 | [Abrázame y Bésame](https://open.spotify.com/track/4ZiPUCqlr9XeW5JkuWansG) | [Angela Leiva](https://open.spotify.com/artist/6Y4g5zwJI7jcRzGLXh0H5d), [A.B\. Quintanilla III](https://open.spotify.com/artist/5MP9bH9aUryiKQeUvABLIU) | [Abrázame y Bésame](https://open.spotify.com/album/28mdITeLFYo3nx3NufxYSu) | 3:00 |
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3JGBBuBxYKW.md) - [plain]
 | 64 | [Sigo Aquí](https://open.spotify.com/track/2q51rLcp0nle6esMsJipOn) | [Paula Rivas](https://open.spotify.com/artist/47i4noBzl5Os351Qlmxuia) | [Sigo Aquí](https://open.spotify.com/album/3FgukOIBEtp48rnJMMnVaX) | 4:00 |
 | 65 | [Falso Malo](https://open.spotify.com/track/1AYcHW1tRB3AiVQ1OM7O19) | [Karen Britos](https://open.spotify.com/artist/6DTSChtNao6SMQy2EyTHyA) | [Música del Alma](https://open.spotify.com/album/6CYOL7EVkEQuCgyEFdb7WJ) | 3:27 |
 
-Snapshot ID: `MCxjOGFjZDNmZGI0ZGUzNDNkYzljMTc2OTBhOTZkODgzMzVmNGY4NWNk`
+Snapshot ID: `MCxhMGE1NTE3YjFhY2E5YWQ1ZmI4YjAxM2ZkODcyYTU4ZmY3NGZjOTBj`

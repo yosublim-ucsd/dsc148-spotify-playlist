@@ -1,12 +1,12 @@
 {
   "description": "This is the best of ska, new and classic. Cover: The Interrupters",
-  "num_followers": 345240,
+  "num_followers": 345373,
   "original_name": "The Essential Ska",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2Y2E5MWFhZDdmODUzNTM1MzQ3NzQ4ZmYzZmVmNWY2ZjI3ZDA2NDFm",
+  "snapshot_id": "MCwyNDNjYWEzMGExMjA2YWIwMzc1YTI4NDVmYzE1N2M1YzcwZTM1OTk1",
   "tracks": [
     {
       "added_at": "2022-12-09 18:45:39",
@@ -367,22 +367,6 @@
     {
       "added_at": "2022-12-09 18:45:39",
       "album": {
-        "name": "I Just Can't Stop It (Remastered)",
-        "url": "https://open.spotify.com/album/08zjJfP4f6cXGxscvztbvh"
-      },
-      "artists": [
-        {
-          "name": "The English Beat",
-          "url": "https://open.spotify.com/artist/1eVEVL20zNLcGrPDOR691N"
-        }
-      ],
-      "duration_ms": 190333,
-      "name": "Mirror In the Bathroom",
-      "url": "https://open.spotify.com/track/3LUhdkixxrrqv3nfNfkINe"
-    },
-    {
-      "added_at": "2022-12-09 18:45:39",
-      "album": {
         "name": "Destruction By Definition",
         "url": "https://open.spotify.com/album/6XN3a05K0LVycfy137CSvL"
       },
@@ -395,6 +379,22 @@
       "duration_ms": 123000,
       "name": "New Girl",
       "url": "https://open.spotify.com/track/7bFNtX22XJMy5TuEpQfa3C"
+    },
+    {
+      "added_at": "2022-12-09 18:45:39",
+      "album": {
+        "name": "I Just Can't Stop It (Remastered)",
+        "url": "https://open.spotify.com/album/08zjJfP4f6cXGxscvztbvh"
+      },
+      "artists": [
+        {
+          "name": "The English Beat",
+          "url": "https://open.spotify.com/artist/1eVEVL20zNLcGrPDOR691N"
+        }
+      ],
+      "duration_ms": 190333,
+      "name": "Mirror In the Bathroom",
+      "url": "https://open.spotify.com/track/3LUhdkixxrrqv3nfNfkINe"
     },
     {
       "added_at": "2022-12-09 18:45:39",
@@ -735,22 +735,6 @@
     {
       "added_at": "2022-12-09 18:45:39",
       "album": {
-        "name": "Message to the World",
-        "url": "https://open.spotify.com/album/7z2lGMV0XR1ssaaO3Eb3P3"
-      },
-      "artists": [
-        {
-          "name": "Ballyhoo!",
-          "url": "https://open.spotify.com/artist/6py4uFIC7T6RdrZnH6hFYJ"
-        }
-      ],
-      "duration_ms": 183506,
-      "name": "Social Drinker",
-      "url": "https://open.spotify.com/track/5sxcHFhYvo54vXt7fl900y"
-    },
-    {
-      "added_at": "2022-12-09 18:45:39",
-      "album": {
         "name": "In The Wild (Deluxe Edition)",
         "url": "https://open.spotify.com/album/32wDabMX1umJAYcEcn8z4i"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 184760,
       "name": "In The Mirror",
       "url": "https://open.spotify.com/track/17EgS7BaS5b4TbSWTqynF5"
+    },
+    {
+      "added_at": "2022-12-09 18:45:39",
+      "album": {
+        "name": "Message to the World",
+        "url": "https://open.spotify.com/album/7z2lGMV0XR1ssaaO3Eb3P3"
+      },
+      "artists": [
+        {
+          "name": "Ballyhoo!",
+          "url": "https://open.spotify.com/artist/6py4uFIC7T6RdrZnH6hFYJ"
+        }
+      ],
+      "duration_ms": 183506,
+      "name": "Social Drinker",
+      "url": "https://open.spotify.com/track/5sxcHFhYvo54vXt7fl900y"
     },
     {
       "added_at": "2022-12-09 18:45:39",
@@ -1027,22 +1027,6 @@
     {
       "added_at": "2022-12-09 18:45:39",
       "album": {
-        "name": "The Essential Fishbone",
-        "url": "https://open.spotify.com/album/5A34elKkckMgG5Y4tMAi2H"
-      },
-      "artists": [
-        {
-          "name": "Fishbone",
-          "url": "https://open.spotify.com/artist/2X3pNc13eRGofTO9Yt3sMi"
-        }
-      ],
-      "duration_ms": 199626,
-      "name": "Ma and Pa",
-      "url": "https://open.spotify.com/track/7wotdNGMm6PrQ9xUXYQtVp"
-    },
-    {
-      "added_at": "2022-12-09 18:45:39",
-      "album": {
         "name": "Silver Linings",
         "url": "https://open.spotify.com/album/6PIQdcVGp07UYR4zWhVE1O"
       },
@@ -1055,6 +1039,22 @@
       "duration_ms": 218240,
       "name": "Lie to Me",
       "url": "https://open.spotify.com/track/49KsGRK6Pq6pjlGvBQ8NoQ"
+    },
+    {
+      "added_at": "2022-12-09 18:45:39",
+      "album": {
+        "name": "The Essential Fishbone",
+        "url": "https://open.spotify.com/album/5A34elKkckMgG5Y4tMAi2H"
+      },
+      "artists": [
+        {
+          "name": "Fishbone",
+          "url": "https://open.spotify.com/artist/2X3pNc13eRGofTO9Yt3sMi"
+        }
+      ],
+      "duration_ms": 199626,
+      "name": "Ma and Pa",
+      "url": "https://open.spotify.com/track/7wotdNGMm6PrQ9xUXYQtVp"
     },
     {
       "added_at": "2022-12-09 18:45:39",
@@ -1235,22 +1235,6 @@
     {
       "added_at": "2022-12-09 18:45:39",
       "album": {
-        "name": "Madness",
-        "url": "https://open.spotify.com/album/2P1bkVHSonLBBSKvrBbdbw"
-      },
-      "artists": [
-        {
-          "name": "Madness",
-          "url": "https://open.spotify.com/artist/4AYkFtEBnNnGuoo8HaHErd"
-        }
-      ],
-      "duration_ms": 180066,
-      "name": "House Of Fun",
-      "url": "https://open.spotify.com/track/4SactOQQV5J66VtQRVOBGC"
-    },
-    {
-      "added_at": "2022-12-09 18:45:39",
-      "album": {
         "name": "Class of Nations",
         "url": "https://open.spotify.com/album/0j2TrwJjrxrhg07Orrmmj1"
       },
@@ -1263,6 +1247,22 @@
       "duration_ms": 191824,
       "name": "Marchez",
       "url": "https://open.spotify.com/track/6p58iYVehQwqvMKPgSENyE"
+    },
+    {
+      "added_at": "2022-12-09 18:45:39",
+      "album": {
+        "name": "Madness",
+        "url": "https://open.spotify.com/album/2P1bkVHSonLBBSKvrBbdbw"
+      },
+      "artists": [
+        {
+          "name": "Madness",
+          "url": "https://open.spotify.com/artist/4AYkFtEBnNnGuoo8HaHErd"
+        }
+      ],
+      "duration_ms": 180066,
+      "name": "House Of Fun",
+      "url": "https://open.spotify.com/track/4SactOQQV5J66VtQRVOBGC"
     },
     {
       "added_at": "2022-12-09 18:45:39",
@@ -1395,22 +1395,6 @@
     {
       "added_at": "2022-12-09 18:45:39",
       "album": {
-        "name": "Battle Hymns",
-        "url": "https://open.spotify.com/album/2MwN76QIF9LBBWzZckdRw7"
-      },
-      "artists": [
-        {
-          "name": "The Suicide Machines",
-          "url": "https://open.spotify.com/artist/31v7ijnAMVL9V7Uzr1sFcI"
-        }
-      ],
-      "duration_ms": 72600,
-      "name": "Step One",
-      "url": "https://open.spotify.com/track/3XKah41iLnBH8LHyp7yAAA"
-    },
-    {
-      "added_at": "2022-12-09 18:45:39",
-      "album": {
         "name": "Here in The Heights",
         "url": "https://open.spotify.com/album/2lGYvbR1ovYdsZKb2lTiq0"
       },
@@ -1423,6 +1407,22 @@
       "duration_ms": 223347,
       "name": "Cali",
       "url": "https://open.spotify.com/track/75pC1KbHcJ9Wmrkdb53tGl"
+    },
+    {
+      "added_at": "2022-12-09 18:45:39",
+      "album": {
+        "name": "Battle Hymns",
+        "url": "https://open.spotify.com/album/2MwN76QIF9LBBWzZckdRw7"
+      },
+      "artists": [
+        {
+          "name": "The Suicide Machines",
+          "url": "https://open.spotify.com/artist/31v7ijnAMVL9V7Uzr1sFcI"
+        }
+      ],
+      "duration_ms": 72600,
+      "name": "Step One",
+      "url": "https://open.spotify.com/track/3XKah41iLnBH8LHyp7yAAA"
     },
     {
       "added_at": "2022-12-09 18:45:39",
@@ -1523,22 +1523,6 @@
     {
       "added_at": "2022-12-09 18:45:39",
       "album": {
-        "name": "The Toasters: 30th Anniversary",
-        "url": "https://open.spotify.com/album/6AFJwHYa0jt4z7qj1DghIo"
-      },
-      "artists": [
-        {
-          "name": "The Toasters",
-          "url": "https://open.spotify.com/artist/5TefXCuvQWtRxpWfDdKmNj"
-        }
-      ],
-      "duration_ms": 197040,
-      "name": "2Tone Army",
-      "url": "https://open.spotify.com/track/6KFXNbClXf6IHzx8S1HmGJ"
-    },
-    {
-      "added_at": "2022-12-09 18:45:39",
-      "album": {
         "name": "To the Moon",
         "url": "https://open.spotify.com/album/0SqDdH5Oo9LKquzteXwBXf"
       },
@@ -1551,6 +1535,22 @@
       "duration_ms": 343786,
       "name": "Wisdom Teeth",
       "url": "https://open.spotify.com/track/01yfHEZFw4VmtehjDTWyht"
+    },
+    {
+      "added_at": "2022-12-09 18:45:39",
+      "album": {
+        "name": "The Toasters: 30th Anniversary",
+        "url": "https://open.spotify.com/album/6AFJwHYa0jt4z7qj1DghIo"
+      },
+      "artists": [
+        {
+          "name": "The Toasters",
+          "url": "https://open.spotify.com/artist/5TefXCuvQWtRxpWfDdKmNj"
+        }
+      ],
+      "duration_ms": 197040,
+      "name": "2Tone Army",
+      "url": "https://open.spotify.com/track/6KFXNbClXf6IHzx8S1HmGJ"
     },
     {
       "added_at": "2022-12-09 18:45:39",

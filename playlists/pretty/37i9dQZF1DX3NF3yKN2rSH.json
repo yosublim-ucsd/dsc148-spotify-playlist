@@ -1,12 +1,12 @@
 {
   "description": "New and classic Gospel songs to celebrate the Easter season.",
-  "num_followers": 54097,
+  "num_followers": 54094,
   "original_name": "Easter Gospel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhZDg1MWM2NGRkNzhiOTViNzRjODM2YWFjNzkwMTA5ZWJkYTY2MWJk",
+  "snapshot_id": "MCw3NTFlOWIwMWU3NTZlYjI5ODA4ODE5YjNlZTYyYWIwZGUwN2MzZmI2",
   "tracks": [
     {
       "added_at": "2023-04-09 08:49:39",
@@ -471,6 +471,22 @@
     {
       "added_at": "2023-04-09 08:49:39",
       "album": {
+        "name": "Live: One Last Time",
+        "url": "https://open.spotify.com/album/4q02ycz7FsngzsYDtjaIMc"
+      },
+      "artists": [
+        {
+          "name": "The Clark Sisters",
+          "url": "https://open.spotify.com/artist/6VUdDU44uo3KwSHc9lAEFE"
+        }
+      ],
+      "duration_ms": 258373,
+      "name": "You Brought The Sunshine - Live",
+      "url": "https://open.spotify.com/track/2yK4879j9Q1XnJio6ETqJV"
+    },
+    {
+      "added_at": "2023-04-09 08:49:39",
+      "album": {
         "name": "The Rebirth of Kirk Franklin",
         "url": "https://open.spotify.com/album/6ktPwwY2ua7HG3ZkEvci4d"
       },
@@ -487,22 +503,6 @@
       "duration_ms": 368560,
       "name": "Don't Cry",
       "url": "https://open.spotify.com/track/5eRNt1CDHfiTsKwEIQ87vA"
-    },
-    {
-      "added_at": "2023-04-09 08:49:39",
-      "album": {
-        "name": "Live: One Last Time",
-        "url": "https://open.spotify.com/album/4q02ycz7FsngzsYDtjaIMc"
-      },
-      "artists": [
-        {
-          "name": "The Clark Sisters",
-          "url": "https://open.spotify.com/artist/6VUdDU44uo3KwSHc9lAEFE"
-        }
-      ],
-      "duration_ms": 258373,
-      "name": "You Brought The Sunshine - Live",
-      "url": "https://open.spotify.com/track/2yK4879j9Q1XnJio6ETqJV"
     },
     {
       "added_at": "2023-04-09 08:49:39",
@@ -1595,22 +1595,6 @@
     {
       "added_at": "2023-04-09 08:49:39",
       "album": {
-        "name": "Trip Down Memory Lane",
-        "url": "https://open.spotify.com/album/11OQ0AT4RDHJq8DqVQST9h"
-      },
-      "artists": [
-        {
-          "name": "James Hall Worship & Praise",
-          "url": "https://open.spotify.com/artist/4NjzfMUK1vMQUvY15RBFYB"
-        }
-      ],
-      "duration_ms": 443466,
-      "name": "The Blood",
-      "url": "https://open.spotify.com/track/46Iicv5lT8Z752kFlrQVWF"
-    },
-    {
-      "added_at": "2023-04-09 08:49:39",
-      "album": {
         "name": "Classic Gold: We're Waiting",
         "url": "https://open.spotify.com/album/2UqMA74qWsJARd4OKMEgCt"
       },
@@ -1623,6 +1607,22 @@
       "duration_ms": 266466,
       "name": "Nothing But the Blood v1.1",
       "url": "https://open.spotify.com/track/7EozkjVGGgfKvsShP3p5vz"
+    },
+    {
+      "added_at": "2023-04-09 08:49:39",
+      "album": {
+        "name": "Trip Down Memory Lane",
+        "url": "https://open.spotify.com/album/11OQ0AT4RDHJq8DqVQST9h"
+      },
+      "artists": [
+        {
+          "name": "James Hall Worship & Praise",
+          "url": "https://open.spotify.com/artist/4NjzfMUK1vMQUvY15RBFYB"
+        }
+      ],
+      "duration_ms": 443466,
+      "name": "The Blood",
+      "url": "https://open.spotify.com/track/46Iicv5lT8Z752kFlrQVWF"
     },
     {
       "added_at": "2023-04-09 08:49:39",

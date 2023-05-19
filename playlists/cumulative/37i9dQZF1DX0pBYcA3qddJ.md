@@ -4,7 +4,7 @@
 
 > 夜になる一歩手前の時刻に一瞬でもリラックスできるような、音響系オルタナティブとクラシックミュージックを。
 
-395 songs - 1 day 2 hr 24 min
+396 songs - 1 day 2 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,7 +48,7 @@
 | [Berceuse](https://open.spotify.com/track/2aj9gk89sJ9Rj8kE6EfxM3) | [Armas Järnefelt](https://open.spotify.com/artist/0DDOvrV9wGcN6EPZU2KeRK), [Erkki Rautio](https://open.spotify.com/artist/0mrn7eJEcqV7KPopqH5UYy), [Izumi Tateno](https://open.spotify.com/artist/1IDW9jgQRukXDqINZyrkue) | [Finland 100 Years: Classical Music](https://open.spotify.com/album/7hCQ6pzgHwpyKFPSoS2sym) | 3:21 | 2022-12-01 | 2023-02-01 |
 | [Berceuse in D\-Flat Major, Op\. 57](https://open.spotify.com/track/54EA2jYguG3h7L5i22NZ8y) | [Frédéric Chopin](https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4), [Kotaro Fukuma](https://open.spotify.com/artist/2NXGOKB3pcM9r9W2poWyZK) | [Chopin Legacy](https://open.spotify.com/album/0ybt3QM7jBuI78W9UpkLTN) | 4:43 | 2022-12-01 | 2023-04-21 |
 | [Blossom](https://open.spotify.com/track/1XJ9dmifyRgs0eN6V4Wa6n) | [Fima](https://open.spotify.com/artist/29Vu42XvXrpPxhBVLQvEaM) | [Blossom](https://open.spotify.com/album/5HA9AMO3DcZyoC4QHClC6l) | 3:07 | 2022-11-15 | 2022-12-02 |
-| [Blu](https://open.spotify.com/track/4Tzycx6a4Dew2UyqMjJzKJ) | [Ryuichi Sakamoto](https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA) | [Travesía](https://open.spotify.com/album/4esuZN5LafbntrKxLrvuYe) | 5:16 | 2023-05-04 |  |
+| [Blu](https://open.spotify.com/track/4Tzycx6a4Dew2UyqMjJzKJ) | [Ryuichi Sakamoto](https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA) | [Travesía](https://open.spotify.com/album/4esuZN5LafbntrKxLrvuYe) | 5:16 | 2023-05-04 | 2023-05-19 |
 | [Blu](https://open.spotify.com/track/2sKNqfBuZ9Z1Q9JIF3e1D8) | [Ryuichi Sakamoto](https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA) | [The Best of 'Playing the Orchestra 2014'](https://open.spotify.com/album/6VbKNZdXj5ZWZbYSnuZo9I) | 5:19 | 2023-04-06 | 2023-05-08 |
 | [Blue Stone of Atlas \- Piano Solo Version](https://open.spotify.com/track/7N05mAG1X23Sd2PNOyoJSF) | [Hikaru Shirosu](https://open.spotify.com/artist/3WJfB0QSAWAO283H19gL5a) | [Blue Stone of Atlas \(Piano Solo Version\)](https://open.spotify.com/album/0mLW4L7tLug2LUVvVfoOE3) | 2:38 | 2022-12-01 |  |
 | [bookmark](https://open.spotify.com/track/4NhoEQs4w05qi3zVcdV3NZ) | [yeti let you notice](https://open.spotify.com/artist/7wRCWTgO2rFeFFk56AKCGA) | [bookmarks \(I can be \*\*\* with some chalky candys.\)](https://open.spotify.com/album/43ZRPyuX7FsWolN8XtMOyz) | 2:52 | 2022-12-13 | 2023-01-18 |
@@ -96,6 +96,7 @@
 | [Everything Is Going to Be OK](https://open.spotify.com/track/4JPj5HzPn5sRfwzqH9HMgX) | [GoGo Penguin](https://open.spotify.com/artist/19f2JXwlRU26376TCKmp6L) | [Everything Is Going to Be OK](https://open.spotify.com/album/0LIjSRLoTlpMB2vHJHX86M) | 4:47 | 2023-04-20 | 2023-05-05 |
 | [Eyes on Me](https://open.spotify.com/track/1te38MsNjzrP8I5MDeGJv7) | [TAMIW](https://open.spotify.com/artist/1OwFxbJhm8V4Sy28ogtS5l) | [Eyes on Me](https://open.spotify.com/album/0GICag7B018NZ3qZdEKsso) | 3:34 | 2022-11-08 | 2023-01-25 |
 | [Faisal \(London Bridge Station\)](https://open.spotify.com/track/1kpaYlHQcazd3U3HpY7uhi) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Actual Life 2 Piano EP \(February 2 \- October 15 2021\)](https://open.spotify.com/album/7wAADcoEepJlzQPfKlX5S3) | 5:09 | 2022-10-20 |  |
+| [Fallen Flowers](https://open.spotify.com/track/7AZCidWfobiJzWoxPB67gr) | [Akira Kosemura](https://open.spotify.com/artist/4n1lW38WKgyPEIZowQ3AND) | [Fallen Flowers](https://open.spotify.com/album/4fJ7JtAbNfZikkfaU749h7) | 3:09 | 2023-05-18 |  |
 | [Falling](https://open.spotify.com/track/2COAy9Fid4TD0jZA7wqaAm) | [yuragi](https://open.spotify.com/artist/1Ksf2sRoSTPdLYbGxJ9oms) | [Here I Stand](https://open.spotify.com/album/2yqdCAB3sTekwkJ3mmHjLh) | 3:52 | 2023-04-04 | 2023-04-21 |
 | [Family Photograph \- 『桜色の風が咲く』オリジナル・サウンドトラックより](https://open.spotify.com/track/0zQ4P8EjgI41B1vXgE1wQp) | [Akira Kosemura](https://open.spotify.com/artist/4n1lW38WKgyPEIZowQ3AND) | [Family Photograph \(『桜色の風が咲く』オリジナル・サウンドトラックより\)](https://open.spotify.com/album/3MDY2swXJ9pAgeOiKMYZXp) | 2:41 | 2022-11-03 | 2022-11-25 |
 | [Far from Me, a Memory](https://open.spotify.com/track/3M863setj5BJ1P6gaz5sdp) | [Samuel Félix](https://open.spotify.com/artist/4QCrQhj1liuos6rjK3hUBr) | [Far from Me, a Memory](https://open.spotify.com/album/0N68E7yPpGHhwMuT6WkcTg) | 2:53 | 2022-12-01 | 2023-02-03 |

@@ -1,12 +1,12 @@
 {
   "description": "Drift away with enthralling instrumentals.",
-  "num_followers": 633283,
+  "num_followers": 633266,
   "original_name": "DayDreamer",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2NjdjZGIyZjA1ZWUzMDU4MDRlNzQyZTg4NWMwMWFhYjZkMzY0MmE4",
+  "snapshot_id": "MCw3NTkxMDMxZmQwZGFiMWM3ZTE4OTJkZTU0MmZiODVlYTNmZWUwNjdm",
   "tracks": [
     {
       "added_at": "2023-05-05 15:53:15",
@@ -139,22 +139,6 @@
     {
       "added_at": "2023-05-05 15:53:15",
       "album": {
-        "name": "Prana",
-        "url": "https://open.spotify.com/album/1JKmutcbyJ9nbOAjZIc5nR"
-      },
-      "artists": [
-        {
-          "name": "Najia",
-          "url": "https://open.spotify.com/artist/4qgxof0FH2zmybTkwjzuw1"
-        }
-      ],
-      "duration_ms": 157724,
-      "name": "Ocean Breath",
-      "url": "https://open.spotify.com/track/53Pqc0z3W4bJM9eeOO1W3O"
-    },
-    {
-      "added_at": "2023-05-05 15:53:15",
-      "album": {
         "name": "The East Wind",
         "url": "https://open.spotify.com/album/14GlV5L5ms2sQx8TQ2ygYW"
       },
@@ -167,6 +151,22 @@
       "duration_ms": 202000,
       "name": "Always Sleepy",
       "url": "https://open.spotify.com/track/7j6asqjTGFFpjg9TR0H5us"
+    },
+    {
+      "added_at": "2023-05-05 15:53:15",
+      "album": {
+        "name": "Prana",
+        "url": "https://open.spotify.com/album/1JKmutcbyJ9nbOAjZIc5nR"
+      },
+      "artists": [
+        {
+          "name": "Najia",
+          "url": "https://open.spotify.com/artist/4qgxof0FH2zmybTkwjzuw1"
+        }
+      ],
+      "duration_ms": 157724,
+      "name": "Ocean Breath",
+      "url": "https://open.spotify.com/track/53Pqc0z3W4bJM9eeOO1W3O"
     },
     {
       "added_at": "2023-05-05 15:53:15",
@@ -347,22 +347,6 @@
     {
       "added_at": "2023-05-05 15:53:15",
       "album": {
-        "name": "Reflections",
-        "url": "https://open.spotify.com/album/25SUYXz9bAwVFt4BZ5my5B"
-      },
-      "artists": [
-        {
-          "name": "Aiden Gaarder",
-          "url": "https://open.spotify.com/artist/5Ke2xVrUo5hNYxTp5fx5XS"
-        }
-      ],
-      "duration_ms": 226833,
-      "name": "Gleam",
-      "url": "https://open.spotify.com/track/7oA6HCPv6DK944HwoKB7fN"
-    },
-    {
-      "added_at": "2023-05-05 15:53:15",
-      "album": {
         "name": "Jeevan",
         "url": "https://open.spotify.com/album/2DOS9BHPBdFcVrjJf2YPsJ"
       },
@@ -375,6 +359,22 @@
       "duration_ms": 150066,
       "name": "Jeevan",
       "url": "https://open.spotify.com/track/06k8aoKACp7ouBnP1lZFOz"
+    },
+    {
+      "added_at": "2023-05-05 15:53:15",
+      "album": {
+        "name": "Reflections",
+        "url": "https://open.spotify.com/album/25SUYXz9bAwVFt4BZ5my5B"
+      },
+      "artists": [
+        {
+          "name": "Aiden Gaarder",
+          "url": "https://open.spotify.com/artist/5Ke2xVrUo5hNYxTp5fx5XS"
+        }
+      ],
+      "duration_ms": 226833,
+      "name": "Gleam",
+      "url": "https://open.spotify.com/track/7oA6HCPv6DK944HwoKB7fN"
     },
     {
       "added_at": "2023-05-05 15:53:15",
@@ -575,22 +575,6 @@
     {
       "added_at": "2023-05-05 15:53:15",
       "album": {
-        "name": "Sweven",
-        "url": "https://open.spotify.com/album/0Ixj5uPjN9PPtqoPE2u8pS"
-      },
-      "artists": [
-        {
-          "name": "Andy Kamman",
-          "url": "https://open.spotify.com/artist/2bI9xKlbtS0cPS3rQ8x87y"
-        }
-      ],
-      "duration_ms": 193500,
-      "name": "Sweven",
-      "url": "https://open.spotify.com/track/7LbnfJ4bZ8UZRcb9l8Txld"
-    },
-    {
-      "added_at": "2023-05-05 15:53:15",
-      "album": {
         "name": "A brand new day",
         "url": "https://open.spotify.com/album/13KQj6JkW1CD8uvUeiIfU6"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 175713,
       "name": "A brand new day",
       "url": "https://open.spotify.com/track/5ixqBWnkYkXr6VDWq3fxM0"
+    },
+    {
+      "added_at": "2023-05-05 15:53:15",
+      "album": {
+        "name": "Sweven",
+        "url": "https://open.spotify.com/album/0Ixj5uPjN9PPtqoPE2u8pS"
+      },
+      "artists": [
+        {
+          "name": "Andy Kamman",
+          "url": "https://open.spotify.com/artist/2bI9xKlbtS0cPS3rQ8x87y"
+        }
+      ],
+      "duration_ms": 193500,
+      "name": "Sweven",
+      "url": "https://open.spotify.com/track/7LbnfJ4bZ8UZRcb9l8Txld"
     },
     {
       "added_at": "2023-05-05 15:53:15",
@@ -879,22 +879,6 @@
     {
       "added_at": "2023-05-05 15:53:15",
       "album": {
-        "name": "Meadow / Forests",
-        "url": "https://open.spotify.com/album/7HvFAw0jmKpcn78c5LyDur"
-      },
-      "artists": [
-        {
-          "name": "Sebastian Winskog",
-          "url": "https://open.spotify.com/artist/7u3qMD0XE43b26dN6FgmZb"
-        }
-      ],
-      "duration_ms": 140878,
-      "name": "Forests",
-      "url": "https://open.spotify.com/track/07c4gDvK93SjexpBDtHL3o"
-    },
-    {
-      "added_at": "2023-05-05 15:53:15",
-      "album": {
         "name": "Even Silence",
         "url": "https://open.spotify.com/album/5AOSpri4QnbpLT0aTVvBcj"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 140000,
       "name": "Even Silence",
       "url": "https://open.spotify.com/track/13UDiSFsM5AmnAvMZqK61r"
+    },
+    {
+      "added_at": "2023-05-05 15:53:15",
+      "album": {
+        "name": "Meadow / Forests",
+        "url": "https://open.spotify.com/album/7HvFAw0jmKpcn78c5LyDur"
+      },
+      "artists": [
+        {
+          "name": "Sebastian Winskog",
+          "url": "https://open.spotify.com/artist/7u3qMD0XE43b26dN6FgmZb"
+        }
+      ],
+      "duration_ms": 140878,
+      "name": "Forests",
+      "url": "https://open.spotify.com/track/07c4gDvK93SjexpBDtHL3o"
     },
     {
       "added_at": "2023-05-05 15:53:15",
@@ -975,6 +975,38 @@
     {
       "added_at": "2023-05-05 15:53:15",
       "album": {
+        "name": "Time Capsule",
+        "url": "https://open.spotify.com/album/4JvMEILGisttB0x54aXoSZ"
+      },
+      "artists": [
+        {
+          "name": "Moments Of Divinity",
+          "url": "https://open.spotify.com/artist/0Srt4bBej7bpUZRcgHNl3V"
+        }
+      ],
+      "duration_ms": 129274,
+      "name": "Time Capsule",
+      "url": "https://open.spotify.com/track/3vYoj6aREguuAjgWJFfT0W"
+    },
+    {
+      "added_at": "2023-05-05 15:53:15",
+      "album": {
+        "name": "Myriads",
+        "url": "https://open.spotify.com/album/4Xkij5Ve4jgQ9qFAIBZoCr"
+      },
+      "artists": [
+        {
+          "name": "12dust",
+          "url": "https://open.spotify.com/artist/14gSyhJmT6Vl9e4vJCxF5J"
+        }
+      ],
+      "duration_ms": 175250,
+      "name": "Myriads",
+      "url": "https://open.spotify.com/track/5JUL9mfxiKDuBx4H3ZZJAD"
+    },
+    {
+      "added_at": "2023-05-05 15:53:15",
+      "album": {
         "name": "Luminescent",
         "url": "https://open.spotify.com/album/64UGm861qokqOZbmpjR6du"
       },
@@ -1003,38 +1035,6 @@
       "duration_ms": 126774,
       "name": "Surface",
       "url": "https://open.spotify.com/track/0ll896dtsA8odiG60bm3bK"
-    },
-    {
-      "added_at": "2023-05-05 15:53:15",
-      "album": {
-        "name": "Myriads",
-        "url": "https://open.spotify.com/album/4Xkij5Ve4jgQ9qFAIBZoCr"
-      },
-      "artists": [
-        {
-          "name": "12dust",
-          "url": "https://open.spotify.com/artist/14gSyhJmT6Vl9e4vJCxF5J"
-        }
-      ],
-      "duration_ms": 175250,
-      "name": "Myriads",
-      "url": "https://open.spotify.com/track/5JUL9mfxiKDuBx4H3ZZJAD"
-    },
-    {
-      "added_at": "2023-05-05 15:53:15",
-      "album": {
-        "name": "Time Capsule",
-        "url": "https://open.spotify.com/album/4JvMEILGisttB0x54aXoSZ"
-      },
-      "artists": [
-        {
-          "name": "Moments Of Divinity",
-          "url": "https://open.spotify.com/artist/0Srt4bBej7bpUZRcgHNl3V"
-        }
-      ],
-      "duration_ms": 129274,
-      "name": "Time Capsule",
-      "url": "https://open.spotify.com/track/3vYoj6aREguuAjgWJFfT0W"
     },
     {
       "added_at": "2023-05-05 15:53:15",
@@ -1199,22 +1199,6 @@
     {
       "added_at": "2023-05-05 15:53:15",
       "album": {
-        "name": "Affinity",
-        "url": "https://open.spotify.com/album/6uD6JL6Uw4zWYUc0aRUUvt"
-      },
-      "artists": [
-        {
-          "name": "FANAR",
-          "url": "https://open.spotify.com/artist/2cmv3GP75BReBnDT1kWyOE"
-        }
-      ],
-      "duration_ms": 172000,
-      "name": "Affinity",
-      "url": "https://open.spotify.com/track/0N0nIMZDHHv9vCbo1XfN5a"
-    },
-    {
-      "added_at": "2023-05-05 15:53:15",
-      "album": {
         "name": "The Acoustic Mind - Vol. 1",
         "url": "https://open.spotify.com/album/6xfqxYJsi4o5tShTm2u466"
       },
@@ -1227,6 +1211,22 @@
       "duration_ms": 172589,
       "name": "Headroom",
       "url": "https://open.spotify.com/track/0ZyO8ieWV63JiMAguidMHs"
+    },
+    {
+      "added_at": "2023-05-05 15:53:15",
+      "album": {
+        "name": "Affinity",
+        "url": "https://open.spotify.com/album/6uD6JL6Uw4zWYUc0aRUUvt"
+      },
+      "artists": [
+        {
+          "name": "FANAR",
+          "url": "https://open.spotify.com/artist/2cmv3GP75BReBnDT1kWyOE"
+        }
+      ],
+      "duration_ms": 172000,
+      "name": "Affinity",
+      "url": "https://open.spotify.com/track/0N0nIMZDHHv9vCbo1XfN5a"
     },
     {
       "added_at": "2023-05-05 15:53:15",
@@ -1251,22 +1251,6 @@
     {
       "added_at": "2023-05-05 15:53:15",
       "album": {
-        "name": "Would I Bother",
-        "url": "https://open.spotify.com/album/4vCsG7LORSKEu6XKJ7F3K2"
-      },
-      "artists": [
-        {
-          "name": "Fredrik Johansson",
-          "url": "https://open.spotify.com/artist/7wKJfbyQ8YETfxRRjZv80m"
-        }
-      ],
-      "duration_ms": 160941,
-      "name": "Would I Bother",
-      "url": "https://open.spotify.com/track/52k9R9dNiac9kik66wod1g"
-    },
-    {
-      "added_at": "2023-05-05 15:53:15",
-      "album": {
         "name": "Distant Voices",
         "url": "https://open.spotify.com/album/7awFxbltxhtOq6iakKUof5"
       },
@@ -1283,18 +1267,18 @@
     {
       "added_at": "2023-05-05 15:53:15",
       "album": {
-        "name": "Open Sky",
-        "url": "https://open.spotify.com/album/6OFXea6xNBtFBbCNXFVaQD"
+        "name": "Would I Bother",
+        "url": "https://open.spotify.com/album/4vCsG7LORSKEu6XKJ7F3K2"
       },
       "artists": [
         {
-          "name": "Drift Far Away",
-          "url": "https://open.spotify.com/artist/05QqQCiZ0kiF1jRCm6YRT2"
+          "name": "Fredrik Johansson",
+          "url": "https://open.spotify.com/artist/7wKJfbyQ8YETfxRRjZv80m"
         }
       ],
-      "duration_ms": 267756,
-      "name": "Meditations",
-      "url": "https://open.spotify.com/track/1MHEMARc3VukbGGn4pc1oE"
+      "duration_ms": 160941,
+      "name": "Would I Bother",
+      "url": "https://open.spotify.com/track/52k9R9dNiac9kik66wod1g"
     },
     {
       "added_at": "2023-05-05 15:53:15",
@@ -1311,6 +1295,22 @@
       "duration_ms": 217893,
       "name": "Lumineux",
       "url": "https://open.spotify.com/track/6KSBZVXd7VlaiF0tdcZnJz"
+    },
+    {
+      "added_at": "2023-05-05 15:53:15",
+      "album": {
+        "name": "Open Sky",
+        "url": "https://open.spotify.com/album/6OFXea6xNBtFBbCNXFVaQD"
+      },
+      "artists": [
+        {
+          "name": "Drift Far Away",
+          "url": "https://open.spotify.com/artist/05QqQCiZ0kiF1jRCm6YRT2"
+        }
+      ],
+      "duration_ms": 267756,
+      "name": "Meditations",
+      "url": "https://open.spotify.com/track/1MHEMARc3VukbGGn4pc1oE"
     },
     {
       "added_at": "2023-05-05 15:53:15",

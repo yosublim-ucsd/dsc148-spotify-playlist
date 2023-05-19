@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSTsQCBPjpyc.md) - [plain]
 
 > Blues meets funk\. Cover: Eric Gales
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,981 likes - 50 songs - 3 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,026 likes - 50 songs - 3 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,8 +22,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSTsQCBPjpyc.md) - [plain]
 | 12 | [Nasty Habits](https://open.spotify.com/track/2psM3gc6ZkCyTZdZHzqcmV) | [Tommy Castro](https://open.spotify.com/artist/3qcmjQYtotraA2JrvN8165) | [Exception To The Rule](https://open.spotify.com/album/5FxJK4mJFKdK9u9sCJG19b) | 4:00 |
 | 13 | [Going to the Party](https://open.spotify.com/track/3NNMGuWv9mKJLU1ETp0BBR) | [The Allergies](https://open.spotify.com/artist/2v2cdjqYIpT8ZBpflNTttY), [Lyrics Born](https://open.spotify.com/artist/3X3DHASP1G1waqVoEDWMHr) | [Promised Land](https://open.spotify.com/album/0ub6jfYlVosHPqpgaR2iXU) | 3:01 |
 | 14 | [Whiskey For Sale](https://open.spotify.com/track/1zzQeiehbYBPf6MmaM4Cli) | [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0) | [The Blues Is Alive And Well](https://open.spotify.com/album/425gWaQU4t3KOvcM7z3VGk) | 4:02 |
-| 15 | [Chevrolet](https://open.spotify.com/track/3wFhY7dmKE6hrEJfFLFavB) | [Robben Ford & The Blue Line](https://open.spotify.com/artist/0ndEfvEueBLBro612yCKwV) | [Handful Of Blues](https://open.spotify.com/album/5ENJwOTo3xFZ7vkXg8X4er) | 4:17 |
-| 16 | [Sugar Sweet](https://open.spotify.com/track/13cYITViVXDJ9PQv7YqJPM) | [Jeff Healey](https://open.spotify.com/artist/4SsLXt0cHcVRhHzxXa8Wnx) | [Mess Of Blues](https://open.spotify.com/album/6KopMX1sqafvcQVLtOpnw6) | 3:46 |
+| 15 | [Sugar Sweet](https://open.spotify.com/track/13cYITViVXDJ9PQv7YqJPM) | [Jeff Healey](https://open.spotify.com/artist/4SsLXt0cHcVRhHzxXa8Wnx) | [Mess Of Blues](https://open.spotify.com/album/6KopMX1sqafvcQVLtOpnw6) | 3:46 |
+| 16 | [Chevrolet](https://open.spotify.com/track/3wFhY7dmKE6hrEJfFLFavB) | [Robben Ford & The Blue Line](https://open.spotify.com/artist/0ndEfvEueBLBro612yCKwV) | [Handful Of Blues](https://open.spotify.com/album/5ENJwOTo3xFZ7vkXg8X4er) | 4:17 |
 | 17 | [When A Woman's Had Enough](https://open.spotify.com/track/6BouDfZTJhdO9E0RnwyvV0) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [Talking To Strangers](https://open.spotify.com/album/1BRAG9BQ8m0r61bGfQElaK) | 3:54 |
 | 18 | [Playing On Me](https://open.spotify.com/track/1iLqQUd6H6qN0FzKxDYXaf) | [Albert King](https://open.spotify.com/artist/5aygfDCEaX5KTZOxSCpT9o) | [I Wanna Get Funky](https://open.spotify.com/album/6046X2I4SRTkO4BY14PGG6) | 3:23 |
 | 19 | [Lie No Better](https://open.spotify.com/track/4RTn8aGxp5qNCTVgjLeaco) | [Etta James](https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb) | [Let's Roll](https://open.spotify.com/album/58JJWoAHtiThhhF3F2ZM0Z) | 3:30 |
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSTsQCBPjpyc.md) - [plain]
 | 31 | [Crosscut Saw](https://open.spotify.com/track/3YHEwYxevWWe4Agis11Gnf) | [Albert King](https://open.spotify.com/artist/5aygfDCEaX5KTZOxSCpT9o) | [I Wanna Get Funky](https://open.spotify.com/album/6046X2I4SRTkO4BY14PGG6) | 7:44 |
 | 32 | [I Want My Crown](https://open.spotify.com/track/2a1BbbIpOE0YBxLgejQNDU) | [Eric Gales](https://open.spotify.com/artist/3x8RBu8okCCBLi5vnY4UyV), [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [I Want My Crown](https://open.spotify.com/album/5aBZChPvzX0D1LJluxXd6y) | 4:19 |
 | 33 | [Do It](https://open.spotify.com/track/5Pj5FDwnQkGzd3iDYxeaLW) | [Robert Cray](https://open.spotify.com/artist/6eMlKSBFAoXVJLoeHmwKEj) | [That's What I Heard](https://open.spotify.com/album/5MHALMDVXq4S7Ad6pNVl8I) | 3:25 |
-| 34 | [Witch Doctor](https://open.spotify.com/track/38T1WjiuU3ZZwHOCBHpfZ2) | [Samuel Ashton](https://open.spotify.com/artist/5en6zJOqyjNe9djR5UVcpz) | [Witch Doctor](https://open.spotify.com/album/0VwqogF4FSDwJf0hLSIpwJ) | 3:19 |
-| 35 | [Grape Jelly](https://open.spotify.com/track/4PW5Z078Y99stLoNZCdc5S) | [Clarence "Gatemouth" Brown](https://open.spotify.com/artist/4aoS04mCVj1CMam1LiHngo) | [Back To Bogalusa](https://open.spotify.com/album/338i3gC2OyktzSFu4vFcc0) | 4:26 |
+| 34 | [Grape Jelly](https://open.spotify.com/track/4PW5Z078Y99stLoNZCdc5S) | [Clarence "Gatemouth" Brown](https://open.spotify.com/artist/4aoS04mCVj1CMam1LiHngo) | [Back To Bogalusa](https://open.spotify.com/album/338i3gC2OyktzSFu4vFcc0) | 4:26 |
+| 35 | [Witch Doctor](https://open.spotify.com/track/38T1WjiuU3ZZwHOCBHpfZ2) | [Samuel Ashton](https://open.spotify.com/artist/5en6zJOqyjNe9djR5UVcpz) | [Witch Doctor](https://open.spotify.com/album/0VwqogF4FSDwJf0hLSIpwJ) | 3:19 |
 | 36 | [Night Train](https://open.spotify.com/track/3qdcSUX3d8iG6K3zyyR5ny) | [Bernard Allison](https://open.spotify.com/artist/0oLmGtqMpKAAVNJyJ71AcI) | [Let It Go](https://open.spotify.com/album/6iMMxMoKbZbW2jcE8J3udJ) | 3:48 |
 | 37 | [The Moon Is Full](https://open.spotify.com/track/7pk8ZJ45YhxPtaAiglHniu) | [The Jeff Healey Band](https://open.spotify.com/artist/3d2hJTVTwo08F9b0ZFQukJ) | [Cover To Cover](https://open.spotify.com/album/6brfMrKnGoGFF1AtB7TTS5) | 4:06 |
 | 38 | [Meet Me in Chicago](https://open.spotify.com/track/35sEYu9d2rT5BPLiOiMYob) | [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0) | [Rhythm & Blues](https://open.spotify.com/album/5IyOwYWSw2m1mwD4OEpFeM) | 3:45 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSTsQCBPjpyc.md) - [plain]
 | 49 | [Take Me Just As I Am](https://open.spotify.com/track/2BR8UJjWRQBAuvBFUqInok) | [Eric Gales](https://open.spotify.com/artist/3x8RBu8okCCBLi5vnY4UyV), [LaDonna Gales](https://open.spotify.com/artist/5qolIJGqHqYn1a1igndmgV) | [Crown](https://open.spotify.com/album/0Ckul9E2gtpvm9RpXrp54i) | 3:03 |
 | 50 | [I Smell Smoke](https://open.spotify.com/track/4ihshArvoPJsADnFAg889U) | [Michael Burks](https://open.spotify.com/artist/19YeucN49a9jRiTyseG6a6) | [The Alligator Records Years](https://open.spotify.com/album/6nOsfFBRnpQovp3zndKuzl) | 3:51 |
 
-Snapshot ID: `MCw2YmI4ODljNWM5Y2I5MDg5ZjgyMDg2ZWNmNWJlMzAzMTJkOWIzOTgw`
+Snapshot ID: `MCw1ODBkZDgzYTk1N2Q1ZTNlYmNhMzA3MTA1YTIxMTA3NWQ1NmFlODMy`

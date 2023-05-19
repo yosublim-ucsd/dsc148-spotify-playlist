@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb9tg3GqJkNv.md) - [plain]
 
 > A collection of <a href="https://open.spotify.com/playlist/37i9dQZF1DX59ogDi1Z2XL?si=75c9bb9755f54283">Northern Bars</a>’ finest\. Cover: Drake 🦉
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,166 likes - 75 songs - 3 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,239 likes - 75 songs - 3 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb9tg3GqJkNv.md) - [plain]
 | 44 | [Late Nights](https://open.spotify.com/track/4tFWHvXkGeJPH0hLeq3c06) | [Burna Bandz](https://open.spotify.com/artist/6wyGyjn9ixZDXBwcapqapJ), [Houdini](https://open.spotify.com/artist/2Ruhhm5oH4pxgsEUVZcaHm) | [Northside Jane](https://open.spotify.com/album/1uph0O7y4ETNY5U7ZgRlEH) | 3:48 |
 | 45 | [Til The Morning](https://open.spotify.com/track/4pvUifF5EPmy70TsS7nDI7) | [ARDN](https://open.spotify.com/artist/5jxe5kzLkm5ICEy03BcLwo) | [Til The Morning](https://open.spotify.com/album/5Iedaq7J17gvFEATBmfLOC) | 2:10 |
 | 46 | [Netflix & Chill \(feat\. Fenix Flexin\)](https://open.spotify.com/track/5pgOjtwyKuzOVj8QAMKdJB) | [Yung Tory](https://open.spotify.com/artist/392I9I5QMSyoA0FmI5pVfx), [Fenix Flexin](https://open.spotify.com/artist/63GIj2yhFvX1Bzphb9JgVb) | [Rastar](https://open.spotify.com/album/7DX9n6FpPSaZ6IQ4ZCNpag) | 2:53 |
-| 47 | [KING OF THE TOWN](https://open.spotify.com/track/7h1t1cI0DOSZQ0jHm3u0zA) | [DillanPonders](https://open.spotify.com/artist/1TlmLsx42aT281z8NWrKef) | [BECAUSE WE'RE ALIVE](https://open.spotify.com/album/6wZMRN2p4tG53w6ixx16wS) | 2:31 |
-| 48 | [Backseat](https://open.spotify.com/track/13YxiBp1U1ZLgnlFKuYr1v) | [Houdini](https://open.spotify.com/artist/2Ruhhm5oH4pxgsEUVZcaHm), [J Neat](https://open.spotify.com/artist/1sxzn6d0We1Q0RKxPE2BCu) | [HOU I AM](https://open.spotify.com/album/1HwDQQcBmrcqR9gIptEj7x) | 3:48 |
+| 47 | [Backseat](https://open.spotify.com/track/13YxiBp1U1ZLgnlFKuYr1v) | [Houdini](https://open.spotify.com/artist/2Ruhhm5oH4pxgsEUVZcaHm), [J Neat](https://open.spotify.com/artist/1sxzn6d0We1Q0RKxPE2BCu) | [HOU I AM](https://open.spotify.com/album/1HwDQQcBmrcqR9gIptEj7x) | 3:48 |
+| 48 | [KING OF THE TOWN](https://open.spotify.com/track/7h1t1cI0DOSZQ0jHm3u0zA) | [DillanPonders](https://open.spotify.com/artist/1TlmLsx42aT281z8NWrKef) | [BECAUSE WE'RE ALIVE](https://open.spotify.com/album/6wZMRN2p4tG53w6ixx16wS) | 2:31 |
 | 49 | [Body & A Face](https://open.spotify.com/track/6cezfmuJT9mpkv7AwWRYpQ) | [Baka Not Nice](https://open.spotify.com/artist/3yvCFkK57FXH7JIwZQ5CmU) | [Body & A Face](https://open.spotify.com/album/3CRgye6TS3mO54pNpvVh7J) | 2:39 |
 | 50 | [Time & It's Order](https://open.spotify.com/track/6SCl4VK0Dq3jFe7U8D9k7D) | [FRVRFRIDAY](https://open.spotify.com/artist/2jwmP4TgzTGqjCfcXMDayW) | [Time & It's Order](https://open.spotify.com/album/5k0XSTYg5WgESO7PolSjkV) | 2:15 |
 | 51 | [Mansion](https://open.spotify.com/track/7yWPBTrbUO3VmIsD6hLhGf) | [Pressa](https://open.spotify.com/artist/5olrQpDroHT7sjmYWMLivy), [Houdini](https://open.spotify.com/artist/2Ruhhm5oH4pxgsEUVZcaHm), [6ixbuzz](https://open.spotify.com/artist/0esldOhgJb5AkjUre9EgLk) | [Mansion](https://open.spotify.com/album/1nwyxrszUQuWwdwgIKw02E) | 2:46 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb9tg3GqJkNv.md) - [plain]
 | 74 | [Sleep Like A Baby](https://open.spotify.com/track/2jpmO8XlofmTA3mXul68gK) | [Nate Husser](https://open.spotify.com/artist/5o4gKYJ99ROV1yye1v9Sh4), [Jean Deaux](https://open.spotify.com/artist/4JqpJeNOhP6bAkolNMLwFg), [Eva Shaw](https://open.spotify.com/artist/638CPU1xRHUo6AmfZe3F2c) | [Adult Supervision](https://open.spotify.com/album/5bM9enlXLb0rtI6aj6QHlS) | 2:46 |
 | 75 | [Frontin' Like Pharrell](https://open.spotify.com/track/2evdaJj8y2xdWuCTBroDqw) | [DijahSB](https://open.spotify.com/artist/4H9N7llvyhoddyD2oIrXWt) | [2020 the Album](https://open.spotify.com/album/4DvUwAekSAB7Uo1ue07Kmp) | 2:54 |
 
-Snapshot ID: `MCw0ZTQ4NTViNzE4NDgzNzE4YzQ5NTQ2ZDllZjlmMjY0M2I2Yzg5M2Ez`
+Snapshot ID: `MCw1ZmI1ZDMxYTI4MTZjN2U4ZTk5ZDJlZTFjNTFlZDQ2ODBmODE3MDM2`

@@ -4,7 +4,7 @@
 
 > 忙しかった1日の終わりは、半身浴と心に沁みる音楽でゆったりリラックス。
 
-165 songs - 10 hr 9 min
+166 songs - 10 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,6 +39,7 @@
 | [Dekoboko](https://open.spotify.com/track/51CXq1aLX96DMZszfTAxy9) | [Furui Riho](https://open.spotify.com/artist/6OgsusVzVrkzCvbXpv6GWh) | [Green Light](https://open.spotify.com/album/3KhTmSUwEUdPGjE1ay4gI2) | 4:30 | 2023-01-19 |  |
 | [Do You Like Me?](https://open.spotify.com/track/6q4yusLwjDYEcF6jXHdt7J) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [Do You Like Me?](https://open.spotify.com/album/1Jlpz65a64XDxwAVjufFUG) | 3:47 | 2023-01-26 |  |
 | [DOCUMENT](https://open.spotify.com/track/56lLsOLE58RdsoNsFk51D4) | [TENDRE](https://open.spotify.com/artist/6cMnpAZ9QN0wn4dVd0Tinb) | [NOT IN ALMIGHTY](https://open.spotify.com/album/5IrJrZDfcOKC8pute3Iaov) | 4:40 | 2023-01-10 | 2023-03-26 |
+| [Don't Forget About Me](https://open.spotify.com/track/43rGLaawHXspfnWtBCoAQg) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Don't Forget About Me](https://open.spotify.com/album/73RqlYh6EX1aDBC0oz765j) | 2:29 | 2023-05-18 |  |
 | [doomsday](https://open.spotify.com/track/4WjxtORnwPavm5PDsAWJEc) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [five seconds flat](https://open.spotify.com/album/68L5xVV9wydotfDXEik7eD) | 4:28 | 2022-10-16 | 2023-01-11 |
 | [doze off](https://open.spotify.com/track/0nkqg2Sf2dtOYcLwkIcMWZ) | [tonun](https://open.spotify.com/artist/4eF1tYcUa9voNDX7xVTrZG) | [doze off](https://open.spotify.com/album/3MsQs4mgM7rNanS8Eh1T6b) | 3:43 | 2022-10-16 | 2023-01-13 |
 | [doze off](https://open.spotify.com/track/2fHgtQ0Uys5yGW8EaAimw2) | [tonun](https://open.spotify.com/artist/4eF1tYcUa9voNDX7xVTrZG) | [tonun 2](https://open.spotify.com/album/0N00X1lERWXeDOcu8Fhid3) | 3:44 | 2022-11-08 | 2022-11-13 |
@@ -117,11 +118,11 @@
 | [Slow Fade](https://open.spotify.com/track/3KAPg0XP3176meHGFGN16F) | [Ruth B.](https://open.spotify.com/artist/2WzaAvm2bBCf4pEhyuDgCY) | [Maybe I'll Find You Again](https://open.spotify.com/album/55B16U7z2wQTFlr27JKmdX) | 3:31 | 2022-11-08 | 2022-11-13 |
 | [Slumber in Reminiscence](https://open.spotify.com/track/7tuHVPcFSZfnU49JowoEku) | [Penthouse](https://open.spotify.com/artist/50QaWH5OLY3Pkt1XNCGk6L) | [Slumber in Reminiscence](https://open.spotify.com/album/1BnKk4beQYpjPKqba2fTq0) | 4:58 | 2022-10-16 | 2023-01-13 |
 | [someone will love you better](https://open.spotify.com/track/1wyAGxisJ8eiOdfFMSxBu7) | [Johnny Orlando](https://open.spotify.com/artist/6aX6KqXgEcARRHwvWxHcFW) | [someone will love you better](https://open.spotify.com/album/6j7jltAZFcJnnPPIJf9ZbP) | 2:51 | 2022-10-16 |  |
-| [Something in Morning Rain](https://open.spotify.com/track/7cpqOWd3kKHcPL0IzGmNUz) | [Maya Ongaku](https://open.spotify.com/artist/5lVVOY2g3vHmkkHoDdZUmA) | [Something in Morning Rain](https://open.spotify.com/album/3f7DZuUfcxsb1D0lUY0bWs) | 5:28 | 2023-05-09 |  |
+| [Something in Morning Rain](https://open.spotify.com/track/7cpqOWd3kKHcPL0IzGmNUz) | [maya ongaku](https://open.spotify.com/artist/2dYBechVJjAf6bTo5se1N5) | [Something in Morning Rain](https://open.spotify.com/album/3f7DZuUfcxsb1D0lUY0bWs) | 5:28 | 2023-05-09 |  |
 | [Soul Mate](https://open.spotify.com/track/4IOXp1xFiMh5FtSEGim4CO) | [flora cash](https://open.spotify.com/artist/6GpcBKNmZDIrRzYkPJu7Wd) | [our generation](https://open.spotify.com/album/5MEaV6TQEOzV4l3bhwySJx) | 3:57 | 2022-10-16 | 2023-01-11 |
 | [Sour Heart](https://open.spotify.com/track/5mt3zQZrKbAwkeez64zS7j) | [Laura Ribeiro](https://open.spotify.com/artist/0VwEJB7l36x6SorcdfcT5a), [Chocoholic](https://open.spotify.com/artist/4UohSp9DAmnCA9mgWqj8d1) | [Sour Heart](https://open.spotify.com/album/1omvXKTbAVKPArsEkljrs4) | 3:37 | 2023-04-13 |  |
 | [Start Again](https://open.spotify.com/track/0MbSD9IRGxOb3lfNgfzjsH) | [Crystal Kay](https://open.spotify.com/artist/3yzQHdj9G34CVZ5rVUDrOM) | [Start Again](https://open.spotify.com/album/7vDeKzFvXgmuypvzlw1ViX) | 3:05 | 2023-02-02 | 2023-03-03 |
-| [Still do](https://open.spotify.com/track/3J5diQCLgPeatxiFMq5XXX) | [TOGITO](https://open.spotify.com/artist/102etpERD7ol169sTsFdQK) | [Still do](https://open.spotify.com/album/3GZ5Im54ZCIZc8rYZwxRTk) | 3:44 | 2023-04-13 |  |
+| [Still do](https://open.spotify.com/track/3J5diQCLgPeatxiFMq5XXX) | [TOGITO](https://open.spotify.com/artist/102etpERD7ol169sTsFdQK) | [Still do](https://open.spotify.com/album/3GZ5Im54ZCIZc8rYZwxRTk) | 3:44 | 2023-04-13 | 2023-05-19 |
 | [Storm](https://open.spotify.com/track/2SbVG0CbQm7mNisy6Ly9Cs) | [Yaffle](https://open.spotify.com/artist/2BbGifSrMGEgvUXLypUWzV), [KARÍTAS](https://open.spotify.com/artist/04T85rA4a542j4ftX6DFYc) | [Storm](https://open.spotify.com/album/0zonbnewfvKxpswG4b5v0g) | 3:46 | 2023-01-12 | 2023-04-14 |
 | [stuck on you](https://open.spotify.com/track/0Ebv4nwxtPcRNSTKq6xDXv) | [april june](https://open.spotify.com/artist/4WreACyfQITcXGx86xxYkG), [Yot Club](https://open.spotify.com/artist/6FugQjLquBF4JzATRN70bR) | [stuck on you](https://open.spotify.com/album/64FQC1Jn0rGTricYmZEc1Y) | 2:47 | 2022-10-16 | 2023-01-11 |
 | [Summer Lost 2023 \- ft\. butaji](https://open.spotify.com/track/0UbO2ZCgpNlPRGWGiWQCeP) | [am8](https://open.spotify.com/artist/5GtEx6JS3XBlOL4J7Xhh1r), [butaji](https://open.spotify.com/artist/2bsLk9rBYLaDCtexh8qO2I) | [Summer Lost 2023 \(ft\. butaji\)](https://open.spotify.com/album/1M4kqTNWIdKFIOUvh173uy) | 5:31 | 2023-01-10 | 2023-02-04 |

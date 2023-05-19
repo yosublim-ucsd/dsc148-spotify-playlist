@@ -4,7 +4,7 @@
 
 > The Soca hits we all love from back then til right now\. Cover: Destra
 
-279 songs - 15 hr 30 min
+280 songs - 15 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,6 +37,7 @@
 | [Blinkin Bad](https://open.spotify.com/track/5os0fpMF0zgXbwKG8HYPew) | [Skinny Fabulous](https://open.spotify.com/artist/56BHYURgbka2nQbBy8XZ3x) | [Gas Station Riddim](https://open.spotify.com/album/4hBtvACfUm2HTY9SkLGTBY) | 3:08 | 2022-02-24 | 2022-08-19 |
 | [Boss Lady \(Sign Me Up\)](https://open.spotify.com/track/6PR1VSJ3fAnZpRrgIAYgXJ) | [Kes](https://open.spotify.com/artist/7E6r9S8qCRfZVCjF1A8do6) | [Baila Riddim](https://open.spotify.com/album/7k8okFoxLMVcK8sptO5ZmS) | 2:13 | 2021-08-26 | 2023-02-22 |
 | [Brass](https://open.spotify.com/track/0m3MH6inL2emHj0KtFcLyU) | [Preedy](https://open.spotify.com/artist/5WYAHpwcYoSdCz5nXebrKn), [Blaxx](https://open.spotify.com/artist/5ix3RWfREDkS8yiuklSrjM) | [Brass](https://open.spotify.com/album/4AuHzwI04u2KmaUMZb6eHK) | 3:25 | 2022-02-24 | 2022-08-19 |
+| [Buddy Bye \(feat\. Konshens & Noah Powa\)](https://open.spotify.com/track/55clF0PIQvjkXfRqrNI7jS) | [Shaggy](https://open.spotify.com/artist/5EvFsr3kj42KNv97ZEnqij), [Konshens](https://open.spotify.com/artist/3nwYsifpwrKmCIpw4i0HDW), [Noah Powa](https://open.spotify.com/artist/6yKN858F7VWik5UyT9geTE) | [In The Mood](https://open.spotify.com/album/0m5VM8rmzwLSZEnLH5qbB0) | 2:46 | 2023-05-15 |  |
 | [Bumper Heavy](https://open.spotify.com/track/2PBhZtDV5NNpTdqaU4lSzq) | [Destra](https://open.spotify.com/artist/0xMFjTpcN1zaf1ZU5NaNmk), [Karlie Redd](https://open.spotify.com/artist/0oPdBO6Dh9AgHDRLjpDJpz) | [Unchained](https://open.spotify.com/album/04DGHo6RKxLuTz3bBgj4rH) | 2:06 | 2023-05-15 |  |
 | [Bun up](https://open.spotify.com/track/0NK0JfPlwENn0KfaY0eZ65) | [Shal Marshall](https://open.spotify.com/artist/7mds6P3MvNyCg7l2QFpx6d) | [One Bad Riddim](https://open.spotify.com/album/1Z6TcTVIYdBuCGZLzFmAgP) | 2:40 | 2022-08-18 | 2022-10-05 |
 | [Bun up](https://open.spotify.com/track/3F5qgnuwPr217YIexmJoMW) | [Shal Marshall](https://open.spotify.com/artist/7mds6P3MvNyCg7l2QFpx6d) | [One Bad Riddim](https://open.spotify.com/album/3RQxr6iZb7eRMK2bH8zdHW) | 2:40 | 2022-08-18 | 2023-02-22 |
@@ -269,7 +270,7 @@
 | [Up & Up](https://open.spotify.com/track/35Y7HJHsOaV1CQ8RisAqpd) | [Skinny Fabulous](https://open.spotify.com/artist/56BHYURgbka2nQbBy8XZ3x) | [Caution Riddim](https://open.spotify.com/album/2IurWKoK3myuHj6cPG3u11) | 3:09 | 2022-08-18 | 2022-10-05 |
 | [Up & Up](https://open.spotify.com/track/6Lm3yZ7ZHNyHJmNlxuCrge) | [Skinny Fabulous](https://open.spotify.com/artist/56BHYURgbka2nQbBy8XZ3x) | [Caution Riddim](https://open.spotify.com/album/0oCbAGTJf4aWNEjyFX2Nte) | 3:09 | 2022-08-18 | 2023-02-22 |
 | [Up In The Party](https://open.spotify.com/track/27DPusjnPmFU2ocLC4hUlc) | [Jadel](https://open.spotify.com/artist/7KyDUKtDsgx2cXDCaywYWH) | [Buddy Pass Riddim](https://open.spotify.com/album/4A6riOxllXc7umV09PSViF) | 2:22 | 2022-02-24 | 2022-08-19 |
-| [Vagabond](https://open.spotify.com/track/6STKwZQQ0da003b3KHTlEL) | [Ricardo Drue](https://open.spotify.com/artist/1YxLPEyDduTjPEBWKA2BmF) | [Vagabond](https://open.spotify.com/album/2onJp2lhpNNcQgThvC6uLz) | 3:58 | 2023-02-21 |  |
+| [Vagabond](https://open.spotify.com/track/6STKwZQQ0da003b3KHTlEL) | [Ricardo Drue](https://open.spotify.com/artist/1YxLPEyDduTjPEBWKA2BmF) | [Vagabond](https://open.spotify.com/album/2onJp2lhpNNcQgThvC6uLz) | 3:58 | 2023-02-21 | 2023-05-19 |
 | [Vent](https://open.spotify.com/track/4NRJJgLr3fC9PFIvMs3E2R) | [Teddyson John](https://open.spotify.com/artist/228J5DyE0af9Z5I5ojm0Fp), [International Stephen](https://open.spotify.com/artist/66q1BiIjgYt2BAK8BOg0Y6) | [Vent](https://open.spotify.com/album/37VNibWW91ZQfBCtCS9BIc) | 3:45 | 2021-08-26 |  |
 | [Vibes Cyah Done](https://open.spotify.com/track/4bItGccKKBrmxKjnzaBTwX) | [Precision Productions](https://open.spotify.com/artist/5selbVFrTsq2rTkqPWrHiA), [Machel Montano](https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ) | [Antilles Riddim \(Soca 2012 Trinidad and Tobago Carnival\)](https://open.spotify.com/album/6UZiTsFyDpUdq4Feei6wF7) | 3:18 | 2023-02-21 | 2023-05-16 |
 | [Warming up \( Top Soil Riddim\)](https://open.spotify.com/track/5yGvLAXhtKq4fruVpwkumv) | [Adam O](https://open.spotify.com/artist/38ukb6qHfxV6H2SUerkx9M), [AkaiiUsweet](https://open.spotify.com/artist/1jMUtFpjX61sjfVXlSM81W) | [Warming up \( Top Soil Riddim\)](https://open.spotify.com/album/4b2iRZmikTGAD9l9YgoFKu) | 2:41 | 2022-02-24 | 2023-02-22 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU2LcZVHsTdv.md) - [plain]
 
 > The country way of testifying\. Cover: Kane Brown
 
-[Spotify](https://open.spotify.com/user/spotify) - 269,441 likes - 151 songs - 9 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 269,498 likes - 151 songs - 9 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -118,7 +118,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU2LcZVHsTdv.md) - [plain]
 | 108 | [If God Took Days Off](https://open.spotify.com/track/7Jy4SVdM8HViyfy3QcaDkb) | [RaeLynn](https://open.spotify.com/artist/5dMnvpYEfXvSexjwnSRH5n) | [I Love My Hometown](https://open.spotify.com/album/1paYFxYmurwK3quB1vL6Pq) | 2:34 |
 | 109 | [Amazing Grace / My Chains Are Gone](https://open.spotify.com/track/76Sn7FKuDkw4SssotSi5Rr) | [Reba McEntire](https://open.spotify.com/artist/02rd0anEWfMtF7iMku9uor) | [My Chains Are Gone](https://open.spotify.com/album/3ohEFNgpDUA4xmIfdSCkTN) | 4:26 |
 | 110 | [Southern Gospel](https://open.spotify.com/track/04gSahNsdUScq5mdvGVU9T) | [The Swon Brothers](https://open.spotify.com/artist/1nf0nRF0W4ybnJdda00pKY) | [Southern Gospel](https://open.spotify.com/album/37ANr5ghqad7jp86QiVZVc) | 3:30 |
-| 111 | [Praise The Lord \(feat\. Thomas Rhett\)](https://open.spotify.com/track/4ELynSlkV4OHcBCFenFJ7U) | [BRELAND](https://open.spotify.com/artist/0C86lmpnwiyLDUiyo4d0P1), [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8) | [Praise The Lord \(feat\. Thomas Rhett\)](https://open.spotify.com/album/19IBYeeXLti2wekxA8913l) | 2:40 |
+| 111 | [Praise the Lord \(feat\. Thomas Rhett\)](https://open.spotify.com/track/4ELynSlkV4OHcBCFenFJ7U) | [BRELAND](https://open.spotify.com/artist/0C86lmpnwiyLDUiyo4d0P1), [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8) | [Praise The Lord \(feat\. Thomas Rhett\)](https://open.spotify.com/album/19IBYeeXLti2wekxA8913l) | 2:40 |
 | 112 | [Bloodlines](https://open.spotify.com/track/1kKSLTUaRbMxKMmexM7xOw) | [Tim & The Glory Boys](https://open.spotify.com/artist/2TWquaofWA67mGmfN72csX) | [Bloodlines](https://open.spotify.com/album/6wjDPPN67TFsvIKWafu7Zz) | 3:53 |
 | 113 | [Love Is The Reason \- Live](https://open.spotify.com/track/7qTXrYDJFQ525k3prdXCEN) | [Mac Powell](https://open.spotify.com/artist/5X77nNxT45eR0OshjmAvKa) | [New Creation \(Live\)](https://open.spotify.com/album/1MVNR0lVZKN4p5wy5LRbdo) | 3:31 |
 | 114 | [She Loves Jesus](https://open.spotify.com/track/6crnBVNhXq2aEi5ALEVc41) | [Chase Matthew](https://open.spotify.com/artist/7HTLVyjNf0VRxfIgNcfRRH) | [She Loves Jesus](https://open.spotify.com/album/4T6btzyWWrifniVKkTmZbs) | 4:00 |
@@ -160,4 +160,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU2LcZVHsTdv.md) - [plain]
 | 150 | [A Little Love](https://open.spotify.com/track/6dtFZkJdNJljSlWI9dL1kg) | [Gary LeVox](https://open.spotify.com/artist/6daR4Ec3o6K4VJnRcPM6w6), [MercyMe](https://open.spotify.com/artist/6APm8EjxOHSYM5B4i3vT3q) | [One On One](https://open.spotify.com/album/5UGVoX8a8k9bh46FWaVWcr) | 3:08 |
 | 151 | [Long Black Train](https://open.spotify.com/track/2HqCaO7BV010qXS5FuiTED) | [Josh Turner](https://open.spotify.com/artist/7vCtweS8UVAXTyau2j0rDT) | [Long Black Train](https://open.spotify.com/album/7DgePplMBaKbi8l5c8s64n) | 4:10 |
 
-Snapshot ID: `MCxmZTA5MDczNmFiMzgyZDA5N2Y5M2NlMjJlMjI5MWVlNTgzNTZiNTkw`
+Snapshot ID: `MCwwMDU0MzkzZmNjNjVlNTcxYjYyZWQ3ODY4NTI4YTRiNzI4NGZmYjU1`

@@ -4,7 +4,7 @@
 
 > A mix of folk and bluegrass covers of pop, rock, hip\-hop, folk, and indie songs\. Cover: The Brother Brothers
 
-217 songs - 13 hr 46 min
+219 songs - 13 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -125,7 +125,8 @@
 | [Let's Get It Started](https://open.spotify.com/track/0Ti70H69CvNwtfku4ajGTA) | [The Cleverlys](https://open.spotify.com/artist/6FcC7osOicG2aEqb2VrbhS) | [Let's Get It Started](https://open.spotify.com/album/6fiyjUrbHehvrjmiWvBwiw) | 3:29 | 2023-03-17 |  |
 | [Little Piece of My Heart](https://open.spotify.com/track/4MhBFMMibAWuJv8zMQWrKA) | [John Hartford](https://open.spotify.com/artist/0NAr5zThPfMx26ISgooQK6) | [Gum Tree Canoe](https://open.spotify.com/album/13BUiVlKesdaWPgQqozhYv) | 3:10 | 2021-08-20 |  |
 | [Lord I Hope this Day is Good](https://open.spotify.com/track/4CTuygl7hPgqMBzBJVbVeF) | [Jr\. Williams](https://open.spotify.com/artist/7gbMaxGvHM6QoxQ4qAAolE) | [Lord I Hope this Day is Good](https://open.spotify.com/album/2pyRpAC7Hws68qo393hkp2) | 3:50 | 2022-04-29 |  |
-| [Loser](https://open.spotify.com/track/4QMKLsoxyY9UvLSrGFkkir) | [The Cleverlys](https://open.spotify.com/artist/6FcC7osOicG2aEqb2VrbhS) | [Cash Crop](https://open.spotify.com/album/094kzj8kwxRHZNSCfc0RLg) | 4:19 | 2022-05-27 |  |
+| [Loser](https://open.spotify.com/track/4QMKLsoxyY9UvLSrGFkkir) | [The Cleverlys](https://open.spotify.com/artist/6FcC7osOicG2aEqb2VrbhS) | [Cash Crop](https://open.spotify.com/album/094kzj8kwxRHZNSCfc0RLg) | 4:19 | 2022-05-27 | 2023-05-19 |
+| [Loser](https://open.spotify.com/track/5jVxMJfoWF0l7EgTjIiBzr) | [The Cleverlys](https://open.spotify.com/artist/6FcC7osOicG2aEqb2VrbhS) | [Cash Crop](https://open.spotify.com/album/0tDKZRvMt5Ek8ejQrnd4OU) | 4:19 | 2023-05-13 |  |
 | [Loser](https://open.spotify.com/track/5okFkhRbWOSDWp3c15ouMB) | [The Cleverlys](https://open.spotify.com/artist/6FcC7osOicG2aEqb2VrbhS) | [Cash Crop](https://open.spotify.com/album/0QFHkBhfM6u3tGxdsVitev) | 4:19 | 2021-08-20 | 2022-07-29 |
 | [Love Is The Seventh Wave](https://open.spotify.com/track/40gDRdKSnvuYSESfYOTLyH) | [The Duhks](https://open.spotify.com/artist/3F1UUl8aL6qADrbAYw5VHY) | [The Duhks](https://open.spotify.com/album/67fL5oCCKrEMS7iMWh15m5) | 3:25 | 2021-08-20 | 2022-04-02 |
 | [Low](https://open.spotify.com/track/4OLKxDTU5803FNDuQijxX8) | [The Cleverlys](https://open.spotify.com/artist/6FcC7osOicG2aEqb2VrbhS) | [Cash Crop](https://open.spotify.com/album/094kzj8kwxRHZNSCfc0RLg) | 4:14 | 2022-05-27 | 2023-05-14 |
@@ -137,8 +138,9 @@
 | [More Heart, Less Attack](https://open.spotify.com/track/6ds7y7voWKUKwEhIK2W2uD) | [Becky Buller](https://open.spotify.com/artist/51GVpccMzO5rZqCEaePGBv), [Ned Luberecki](https://open.spotify.com/artist/7qg1UANHGQdwukeGN9YsRZ), [Dan Boner](https://open.spotify.com/artist/2rAHYozDbarVJA6GYEjJva), [Nate Lee](https://open.spotify.com/artist/76ivNMRvg7rGMKgtz9hYfG), [Daniel Hardin](https://open.spotify.com/artist/5CHholrccXiiujgTvZVUlJ) | [Distance and Time](https://open.spotify.com/album/797UYpfApMa598iaCNnSP5) | 4:08 | 2021-08-20 |  |
 | [My Love \(Live\)](https://open.spotify.com/track/7L9CcpZEfjZQT7LsZuQFWw) | [Humming House](https://open.spotify.com/artist/6ls2l3WdMnYWKS0WQKghHK) | [Humming House Party! \(Live\)](https://open.spotify.com/album/7Mwmi5X5ilN2j1y6LNC34k) | 4:38 | 2021-08-20 |  |
 | [New Slang](https://open.spotify.com/track/2YcILFkmZHNi5qCqgP9F0R) | [Pickin' On Series](https://open.spotify.com/artist/6AEIKVwB27miPI3uJxM4Dw), [Iron Horse](https://open.spotify.com/artist/1v3CnxHAtLMfZW8v5dGj7t) | [The Bluegrass Tribute to The Shins](https://open.spotify.com/album/1Nl3ddmgHlbuFp1v7nCHIC) | 4:13 | 2021-08-20 | 2023-05-14 |
+| [No Diggity](https://open.spotify.com/track/2X2mue7uhDOCEgA3ewrB2l) | [The Cleverlys](https://open.spotify.com/artist/6FcC7osOicG2aEqb2VrbhS) | [Cash Crop](https://open.spotify.com/album/0tDKZRvMt5Ek8ejQrnd4OU) | 5:51 | 2023-05-13 |  |
 | [No Diggity](https://open.spotify.com/track/5b3H9J71t73nzr73pvEWrC) | [The Cleverlys](https://open.spotify.com/artist/6FcC7osOicG2aEqb2VrbhS) | [Cash Crop](https://open.spotify.com/album/0QFHkBhfM6u3tGxdsVitev) | 5:51 | 2021-08-20 | 2022-07-29 |
-| [No Diggity](https://open.spotify.com/track/7wSkLQdIlCBDUPFPkwLICU) | [The Cleverlys](https://open.spotify.com/artist/6FcC7osOicG2aEqb2VrbhS) | [Cash Crop](https://open.spotify.com/album/094kzj8kwxRHZNSCfc0RLg) | 5:51 | 2022-05-27 |  |
+| [No Diggity](https://open.spotify.com/track/7wSkLQdIlCBDUPFPkwLICU) | [The Cleverlys](https://open.spotify.com/artist/6FcC7osOicG2aEqb2VrbhS) | [Cash Crop](https://open.spotify.com/album/094kzj8kwxRHZNSCfc0RLg) | 5:51 | 2022-05-27 | 2023-05-19 |
 | [Old Man](https://open.spotify.com/track/57BqPLE4mvQEBh53JWxgcI) | [The Wailin' Jennys](https://open.spotify.com/artist/331QVEZKK1yz5KhYiR2pBj) | [40 Days](https://open.spotify.com/album/5Qrpxvxj6LTfqIbKnCnQHb) | 3:10 | 2021-08-20 | 2022-07-29 |
 | [Old Man](https://open.spotify.com/track/2yNGARwYc253fKGIy0CoyO) | [The Wailin' Jennys](https://open.spotify.com/artist/331QVEZKK1yz5KhYiR2pBj) | [40 Days](https://open.spotify.com/album/5x3Nva9X9Mjr15GI3YKaBr) | 3:11 | 2022-05-27 |  |
 | [Olympia, WA](https://open.spotify.com/track/2gtIcIvoHJYjSZw39qDHUe) | [Molly Tuttle](https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE) | [...but i'd rather be with you](https://open.spotify.com/album/1Misn812Z5W216eNI7NuIy) | 4:19 | 2021-08-20 |  |

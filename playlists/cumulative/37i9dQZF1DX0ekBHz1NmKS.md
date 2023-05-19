@@ -4,7 +4,7 @@
 
 > Här hör du de bästa svenska låtarna just nu.
 
-703 songs - 1 day 13 hr 13 min
+704 songs - 1 day 13 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -485,7 +485,7 @@
 | [Real Life](https://open.spotify.com/track/7E9zn51wDqODrTgaIXkaek) | [Mimmi Bangoura](https://open.spotify.com/artist/2gbswy57P0Qof7Ti7rlOEI) | [Real Life](https://open.spotify.com/album/6fdhAWKpjpfdcte2aAswfc) | 3:19 | 2022-02-20 | 2022-05-09 |
 | [Real Love](https://open.spotify.com/track/0vUf73LNFXyyrdQkmXw2cZ) | [Rebecca & Fiona](https://open.spotify.com/artist/6rgEPiKjowlMKZC1DF6W75) | [Real Love](https://open.spotify.com/album/6QMFqBz7exj0lJEAM56HRB) | 3:42 | 2021-12-16 | 2022-01-12 |
 | [Regnar](https://open.spotify.com/track/6icEGxZ3PjxRNqwxB1VRoI) | [Ellen Bergelin](https://open.spotify.com/artist/3WR4aQtPax6XwTi9L0L3DJ) | [Regnar](https://open.spotify.com/album/650DQZiV0EBfaxlI7hI4Oo) | 2:12 | 2023-03-30 |  |
-| [Regnar över Stockholm](https://open.spotify.com/track/38w3AeVl212DfCXRFwearV) | [Julia Lov](https://open.spotify.com/artist/51fbFSdDRO2j9qwBSA1Xuq) | [Stora drömmar säger aldrig goodbye](https://open.spotify.com/album/57wDya9mnPJ9W5fNMv9lDT) | 2:58 | 2023-01-12 |  |
+| [Regnar över Stockholm](https://open.spotify.com/track/38w3AeVl212DfCXRFwearV) | [Julia Lov](https://open.spotify.com/artist/51fbFSdDRO2j9qwBSA1Xuq) | [Stora drömmar säger aldrig goodbye](https://open.spotify.com/album/57wDya9mnPJ9W5fNMv9lDT) | 2:58 | 2023-01-12 | 2023-05-19 |
 | [RIDE](https://open.spotify.com/track/3D4RIZPQz299XfUEge0YRp) | [Sabina Ddumba](https://open.spotify.com/artist/2Mp409M6EpFr3kGdQ1mwjS) | [RIDE](https://open.spotify.com/album/6obIhl2Q0t8ingZMMSCQtO) | 3:58 | 2022-06-16 | 2022-07-27 |
 | [Ringar på vattnet](https://open.spotify.com/track/3OdKjjuVdUhtVI69DHBRRC) | [Norlie & KKV](https://open.spotify.com/artist/2u8P7EawurNYoIzRtr5Knk) | [Ringar på vattnet](https://open.spotify.com/album/7DEgBk8CBHmxiIgznhJFaY) | 2:42 | 2021-12-16 | 2022-03-11 |
 | [Rise](https://open.spotify.com/track/4pIqEyfEnHL3Am3ig8G8ar) | [Cornelia Jakobs](https://open.spotify.com/artist/7cYZ8F0N2jby95FsxU9hh4) | [Rise](https://open.spotify.com/album/5FZ5wrX285cl3UTyjY7B96) | 3:43 | 2022-10-06 |  |
@@ -587,6 +587,7 @@
 | [Sun](https://open.spotify.com/track/4xMPJOd0L8RbrKVHW1x0t3) | [Name The Pet](https://open.spotify.com/artist/3ud4LE50NSFZxHYDSURGyM), [Janne Schaffer](https://open.spotify.com/artist/1FdRWg2tqR4I7jjA29vWYU) | [Sun](https://open.spotify.com/album/4thDfq25JgSDpeTdrypZLM) | 3:45 | 2021-12-16 | 2022-02-16 |
 | [Sunny Days](https://open.spotify.com/track/53sdGp5FZgcpVsg5NPbbiL) | [demekech](https://open.spotify.com/artist/1N6JyEBD4tbmqfLkXPP93l) | [sometime/Sunny Days](https://open.spotify.com/album/5qWgpA67k7vP42pW2RtHmd) | 4:03 | 2022-03-10 | 2022-04-25 |
 | [Sunshine](https://open.spotify.com/track/7ApIjBn1tqOyof0zvVX7CY) | [Skott](https://open.spotify.com/artist/6J3RPKUwZlKMzh3vWa9wPc) | [Sunshine](https://open.spotify.com/album/0wOtQE4XS0U9DPwCFram7H) | 3:41 | 2022-09-15 | 2023-01-27 |
+| [Super 8](https://open.spotify.com/track/0PKtiwZX73i0TedkfDH7qs) | [Zikai](https://open.spotify.com/artist/1bnxdcJP0Kn0EP2sBfd8Sn) | [Super 8](https://open.spotify.com/album/30wFpy1u4wjNpAxOcqD6Mq) | 2:58 | 2023-05-18 |  |
 | [Superhero ideal \(Pantamera\)](https://open.spotify.com/track/2wxY4U8FtNGHE6fAq6ZY3c) | [Myra Granberg](https://open.spotify.com/artist/6HYjkczJfUdGcwIGPOq5P2) | [Superhero ideal \(Pantamera\)](https://open.spotify.com/album/4k49gyiAbRVYsRp3ja9Vzx) | 2:39 | 2022-04-07 | 2022-07-19 |
 | [Superstar](https://open.spotify.com/track/21pE89kv4OQssxpzUPwMek) | [Darin](https://open.spotify.com/artist/1rKFeRryEci6cxNkdvHzNr) | [Superstar](https://open.spotify.com/album/4O6zCCdEquqKmMcXHrSbBy) | 3:21 | 2022-05-12 | 2022-09-26 |
 | [Svart Suit Cadillac](https://open.spotify.com/track/2hT4mY6jWEhm3Vnbgz5LyP) | [Jesper Swärd](https://open.spotify.com/artist/7812GfcEzTh273QN6DPurL), [Michel Dida](https://open.spotify.com/artist/0IQrfexpeCXMmHFX2jnT1Q) | [Svart Suit Cadillac](https://open.spotify.com/album/7rFae5BckcN7YgxYtEgCvO) | 3:38 | 2022-03-10 | 2022-04-02 |

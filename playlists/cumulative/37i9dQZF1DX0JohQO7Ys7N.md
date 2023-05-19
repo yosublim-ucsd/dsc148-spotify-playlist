@@ -2,9 +2,9 @@
 
 ### [NairoBae](https://open.spotify.com/playlist/37i9dQZF1DX0JohQO7Ys7N)
 
-> Kickback, Relax to some smooth R&B from The City Under The Sun \- Nairobi\. Cover: Amara Tari
+> Kickback, Relax to some smooth R&B from The City Under The Sun \- Nairobi\. Cover: M\. Rumbi
 
-124 songs - 7 hr 0 min
+126 songs - 7 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,7 +27,7 @@
 | [Dark brown eyes](https://open.spotify.com/track/5ivSF8Xb7SaOnXYM1IvVcv) | [Manasseh Shalom](https://open.spotify.com/artist/0l5DAChk60zrPxl18DGUT7) | [Storm](https://open.spotify.com/album/6dx0pqvhjxik4vrl9v65RD) | 3:48 | 2021-12-28 | 2022-07-29 |
 | [Dark brown eyes](https://open.spotify.com/track/7JO63lzm9CxlxKR26j0Vog) | [Manasseh Shalom](https://open.spotify.com/artist/0l5DAChk60zrPxl18DGUT7) | [Dark brown eyes](https://open.spotify.com/album/5WtE9QFgyUpyviMoDpod8J) | 3:48 | 2021-12-28 |  |
 | [Different](https://open.spotify.com/track/1rh9ejTFlDxhfcrGftrJXz) | [Hiribae](https://open.spotify.com/artist/1WqYHHRmIP1FduEtaEicL3), [Tugi](https://open.spotify.com/artist/66RQGuKdIdvRrU3vxIfbc5) | [Different](https://open.spotify.com/album/1trH6Lu0maC1H9e0UBkQx8) | 3:31 | 2022-10-27 |  |
-| [Dizzy](https://open.spotify.com/track/3x3RkNq6HRBa35zuo0kcx8) | [Kuiyu](https://open.spotify.com/artist/57FPDvahreSlCOtOh6k3UD), [Wambura Mugo](https://open.spotify.com/artist/5mOh1wmnmL8QqIvbb3KY96) | [Dizzy](https://open.spotify.com/album/1hImerDNye4ff7EyRwmi4L) | 4:07 | 2022-06-16 |  |
+| [Dizzy](https://open.spotify.com/track/3x3RkNq6HRBa35zuo0kcx8) | [Kuiyu](https://open.spotify.com/artist/57FPDvahreSlCOtOh6k3UD), [Wambura Mugo](https://open.spotify.com/artist/5mOh1wmnmL8QqIvbb3KY96) | [Dizzy](https://open.spotify.com/album/1hImerDNye4ff7EyRwmi4L) | 4:07 | 2022-06-16 | 2023-05-19 |
 | [Drug](https://open.spotify.com/track/0CSstPj1rRmpxoLojrIYVU) | [Bridget Blue](https://open.spotify.com/artist/5EbxOKB0wn1EdeBvwK7kxw) | [Drug](https://open.spotify.com/album/5nSi4krADjtHDVziZ6zGsF) | 3:05 | 2021-12-28 |  |
 | [Ecstasy](https://open.spotify.com/track/14UFNgoMLPrQ9MXA8NrBBo) | [NJERI](https://open.spotify.com/artist/4fhFubSE551gSrnSWwAgaR), [Albeezy](https://open.spotify.com/artist/09ESepNWzmarRA7RZO2SEs) | [D.R.U.G.S \(Dear.Romance.U.Got.Sweet\)](https://open.spotify.com/album/3fME5IHzfkHsZEqy5L7IlA) | 3:25 | 2023-03-03 |  |
 | [Ecstasy](https://open.spotify.com/track/502TRnEIDjfh4PRXRZ7dpk) | [NJERI](https://open.spotify.com/artist/4fhFubSE551gSrnSWwAgaR), [Albeezy](https://open.spotify.com/artist/7vA0nsjX1OaxsKlEM64TV6) | [D.R.U.G.S \(Dear.Romance.U.Got.Sweet\)](https://open.spotify.com/album/6p7woEtazKqCoSi4DpiIU8) | 3:25 | 2022-05-12 | 2023-03-11 |
@@ -114,7 +114,9 @@
 | [Suddenly](https://open.spotify.com/track/5RlLYIj0mOs94UuL1U1Klh) | [Audrey Hinya](https://open.spotify.com/artist/6mOSgelMANzkmaQ1Hvh6gG), [King Kanja](https://open.spotify.com/artist/0vr6BtjqBjwDITBNbBP1W5) | [Suddenly](https://open.spotify.com/album/4NkvtR6pq3GVc0OEh6nQey) | 3:47 | 2022-09-30 | 2023-02-24 |
 | [Sunny days](https://open.spotify.com/track/1MmFwUDvDTcPXZ9KeeWoMg) | [Sauti Sol](https://open.spotify.com/artist/4Rj9lQm9oSiMlirgpsM6eo) | [Mwanzo](https://open.spotify.com/album/6QOgL8YEk2rQwgAXDBv9GO) | 3:34 | 2021-12-28 | 2022-10-14 |
 | [Sunshine](https://open.spotify.com/track/47jeYgNLyaN1pBLQrVE6x0) | [Muthaka](https://open.spotify.com/artist/1y2NzUCGrOaUPBZhhyUPcQ) | [Sunshine](https://open.spotify.com/album/3abCYOOplfgQSvt5vrOF29) | 3:28 | 2021-12-28 |  |
+| [Sunshine State of Mind](https://open.spotify.com/track/2er73rABGL9TYoAkhyupMk) | [M\. Rumbi](https://open.spotify.com/artist/6ToQowXRJ5GkBPHDECCEoP), [Lia April](https://open.spotify.com/artist/4zduBC59YxJ3rRjz2E9x6F) | [Sunshine State of Mind](https://open.spotify.com/album/7oENnLSMaD5MLj1TG4bJh3) | 3:16 | 2023-05-18 |  |
 | [Switch It Up](https://open.spotify.com/track/4SWMtMtaLoC2jpi5NWHr0y) | [Antoneosoul](https://open.spotify.com/artist/7fsXIEztGNSh4QUaP9mp4T) | [Welcome 2 My Soul](https://open.spotify.com/album/4wVpKqI9vE8ce64g1lCukJ) | 4:32 | 2022-06-16 | 2023-02-24 |
+| [Temporary Love](https://open.spotify.com/track/502fO9MaTL1FXQxilajwW8) | [Xenia Manasseh](https://open.spotify.com/artist/2J4IvVbi2h1wB2A0p5kd86) | [Temporary Love](https://open.spotify.com/album/7Ik6vXPyiM9jflElmt78cQ) | 2:36 | 2023-05-18 |  |
 | [Tender](https://open.spotify.com/track/4VGdRiXSYdL44YCz84jpG5) | [Njoki Karu](https://open.spotify.com/artist/0pGewSIX8FwwBqZLsbDk7F) | [Anchor](https://open.spotify.com/album/3hdpiMQSXkG3tXRVF4oaw7) | 3:32 | 2021-12-28 | 2022-08-27 |
 | [Three Little Birds](https://open.spotify.com/track/7vGO9525GQZMGfc6qEY6BZ) | [Jason Sibi\-Okumu](https://open.spotify.com/artist/62RxzBJ449g8jS0gZp4X06), [Lullaby Club](https://open.spotify.com/artist/4NRmTiCjbKDTSJmwhOjDnq) | [Three Little Birds](https://open.spotify.com/album/22uuw7dC7oXrWHITQ2DHjh) | 2:48 | 2023-02-23 |  |
 | [Tosheka](https://open.spotify.com/track/3rqJOJNbeyxBDOas8W6CRN) | [Mutoriah](https://open.spotify.com/artist/23fYD3tClohzF1Afng7tPJ), [Bensoul](https://open.spotify.com/artist/09vo12hHajgG2cZzq0rGmE) | [Dive In](https://open.spotify.com/album/3OkzNe6vIcb7ZhVtDGO9vP) | 4:02 | 2021-12-28 | 2022-08-14 |

@@ -4,7 +4,7 @@
 
 > Start your morning right with this collection of funky, soulful, jazzy tunes!
 
-194 songs - 12 hr 31 min
+195 songs - 12 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -133,7 +133,7 @@
 | [Rock a Nore](https://open.spotify.com/track/1ZjQEyOASgLvPNL7szbHzU) | [Palm Skin Productions](https://open.spotify.com/artist/36fOUxKPHF3Hi5SsB1T1lY) | [Other Times](https://open.spotify.com/album/18YUMGdFg0I4Lqa491CI7C) | 3:37 | 2022-05-17 | 2022-07-29 |
 | [Rock a Nore](https://open.spotify.com/track/3TmKUdO8IqaN7HPg1k6Y9X) | [Palm Skin Productions](https://open.spotify.com/artist/36fOUxKPHF3Hi5SsB1T1lY) | [Other Times](https://open.spotify.com/album/7yVomkZLlXBcoHMM4bbrbQ) | 3:37 | 2022-07-05 | 2023-05-01 |
 | [Rock a Nore](https://open.spotify.com/track/4XqQQfRdPZUIIv8Sdk6tu3) | [Palm Skin Productions](https://open.spotify.com/artist/36fOUxKPHF3Hi5SsB1T1lY) | [Other Times](https://open.spotify.com/album/3ohrvMpAzpyBa24RvYmCnQ) | 3:37 | 2023-04-20 |  |
-| [Say It](https://open.spotify.com/track/6KFpDUBxj4dQRiBcdpSQvT) | [Papik](https://open.spotify.com/artist/5Wh262aq2cDPRXCljNooc4), [Alan Scaffardi](https://open.spotify.com/artist/77K1Ud04no7BEcBvPbeXMg) | [Say It](https://open.spotify.com/album/2mCFYdV7UuzzmBVSJ0znCr) | 3:29 | 2021-12-13 |  |
+| [Say It](https://open.spotify.com/track/6KFpDUBxj4dQRiBcdpSQvT) | [Papik](https://open.spotify.com/artist/5Wh262aq2cDPRXCljNooc4), [Alan Scaffardi](https://open.spotify.com/artist/77K1Ud04no7BEcBvPbeXMg) | [Say It](https://open.spotify.com/album/2mCFYdV7UuzzmBVSJ0znCr) | 3:29 | 2021-12-13 | 2023-05-19 |
 | [Say Something](https://open.spotify.com/track/4nSO7iKiwPj4wJjylLCu0s) | [Jordan Rakei](https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68) | [Say Something](https://open.spotify.com/album/4NxOn5zVNIZiLODN8t5hbb) | 2:40 | 2021-12-13 | 2022-04-29 |
 | [Seasons](https://open.spotify.com/track/6bpJeNwIqNb22xu8km0Ok9) | [Astèr Fekre](https://open.spotify.com/artist/4owtjBwXE8zpOk4ihtCXpK) | [Seasons](https://open.spotify.com/album/31sPNFRpgyvcJ4sDX5qoqI) | 5:06 | 2022-05-17 |  |
 | [Shaquille Sama](https://open.spotify.com/track/5lBSxxvADqvpKTvbCi8ETo) | [QUANZA](https://open.spotify.com/artist/7hs8g3jBavjFRILV4XJlTy) | [ORCHIDEA](https://open.spotify.com/album/1x2TVjnEoSS2TBZdH2E0Bo) | 3:20 | 2022-06-16 |  |
@@ -150,6 +150,7 @@
 | [Still Broke \- Keyon's Cocktail Mix](https://open.spotify.com/track/6sBYTq8zxSBhLv41bmFE9k) | [Samm Henshaw](https://open.spotify.com/artist/1Q2mS59tFYLm2KGFoCgWN4), [Keyon Harrold](https://open.spotify.com/artist/4JG781pl96pL2h0AoERgOA) | [Still Broke \(Keyon's Cocktail Mix\)](https://open.spotify.com/album/61T2Innvsx72ubByEcKtUx) | 3:57 | 2021-12-13 | 2022-12-02 |
 | [Strength](https://open.spotify.com/track/0nnocliX58UkQQf0Ayl2kU) | [The RH Factor](https://open.spotify.com/artist/3m7Ej9zfNto7JOsjKsYhEr) | [Strength](https://open.spotify.com/album/4Huxzz9yjgdsDS0V2zQS19) | 4:38 | 2021-12-13 | 2022-07-29 |
 | [Strength](https://open.spotify.com/track/4MTmD97M3KIAWLnwJbVwbp) | [The RH Factor](https://open.spotify.com/artist/3m7Ej9zfNto7JOsjKsYhEr) | [Strength](https://open.spotify.com/album/3iObboZ4jyfu1RWLzeCAqx) | 4:38 | 2022-07-05 |  |
+| [SUNLIGHT](https://open.spotify.com/track/5YsdarH0He9NVsoATnLxII) | [Otis McDonald](https://open.spotify.com/artist/4Ps1M3A9ck9G3gbPjllg7T) | [SUNLIGHT](https://open.spotify.com/album/1ndKXr9Z4VPa6Ji7lwxfIe) | 3:14 | 2023-05-18 |  |
 | [Sunrise](https://open.spotify.com/track/76VbFUE4gxXiaMd1uWwJCv) | [Latanya Alberto](https://open.spotify.com/artist/2gOETMfjAos2JU0cxHp357) | [Sunrise](https://open.spotify.com/album/1zKmFpEW0oj8qy5mvnUyBb) | 3:18 | 2022-09-30 |  |
 | [Tadow](https://open.spotify.com/track/51rPRW8NjxZoWPPjnRGzHw) | [Masego](https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig), [FKJ](https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z) | [Lady Lady](https://open.spotify.com/album/2wqG59dVVQlJaxoO7N0LJt) | 5:01 | 2021-12-13 | 2022-12-03 |
 | [Take Me Higher](https://open.spotify.com/track/4ORp5huJChm7E6QZpA1482) | [Robin Thicke](https://open.spotify.com/artist/0ZrpamOxcZybMHGg1AYtHP) | [Take Me Higher](https://open.spotify.com/album/3rJ1uoo2TS4CqPE49XOzeT) | 4:04 | 2022-04-28 |  |
@@ -179,7 +180,7 @@
 | [wandering \(feat\. george\)](https://open.spotify.com/track/6jMcjpMJEjdJa9GQLgQNZ2) | [basecamp](https://open.spotify.com/artist/4MI73VbvvaJFXe1T6iacWx), [george](https://open.spotify.com/artist/2pRZp2WxvnWWiSPcSSYkNV) | [wandering \(feat\. george\)](https://open.spotify.com/album/6hBEslMx5wtLS5wehYiwPP) | 3:24 | 2022-06-21 |  |
 | [Wandering Ways](https://open.spotify.com/track/0Nkp56EKreoWMYxpXJqUNZ) | [Matt Quentin](https://open.spotify.com/artist/23cC3RI0hgD5sWmXKPAJuG) | [Skyline](https://open.spotify.com/album/1uGIwfw9F1lR7TDDukbNyQ) | 2:48 | 2022-07-05 |  |
 | [Wandering Ways](https://open.spotify.com/track/1qPxBxzTbnJ7PCVAyBsy1R) | [Matt Quentin](https://open.spotify.com/artist/23cC3RI0hgD5sWmXKPAJuG) | [Skyline](https://open.spotify.com/album/6P9qlf4qE0QkQ58yTaQnUK) | 2:48 | 2021-12-13 | 2022-07-29 |
-| [What if We Stopped Paying Taxes? \- Sharon Jones and The Dap King](https://open.spotify.com/track/74Bl3upesDTzzkqRNZXAeI) | [Sharon Jones & The Dap\-Kings](https://open.spotify.com/artist/6LufpoVlIYKQCu9Gjpk8B7) | [Impeach The Precedent](https://open.spotify.com/album/0p0OC8cKmADVSd3LGvxiU4) | 5:01 | 2022-12-05 |  |
+| [What if We Stopped Paying Taxes? \- Sharon Jones and The Dap King](https://open.spotify.com/track/74Bl3upesDTzzkqRNZXAeI) | [Sharon Jones & The Dap\-Kings](https://open.spotify.com/artist/6LufpoVlIYKQCu9Gjpk8B7) | [Impeach The Precedent](https://open.spotify.com/album/0p0OC8cKmADVSd3LGvxiU4) | 5:01 | 2022-12-05 | 2023-05-19 |
 | [What Is Love?](https://open.spotify.com/track/2JI1Vl5T3MfgyF5vGKYUuG) | [Ntjam Rosie](https://open.spotify.com/artist/44XhJ4fcKrMzrVr6WpF69R) | [Home Cooking](https://open.spotify.com/album/3rcysrlQvRv3kgZR461Lz7) | 2:57 | 2023-02-17 |  |
 | [Whatever You Are](https://open.spotify.com/track/6uL0ZXwr17RgsMRmXKYY11) | [Myles Sanko](https://open.spotify.com/artist/0EeY17gAdOJIBjNrpi6q1G) | [Memories of Love](https://open.spotify.com/album/2wob0s3WIRpsvYHSpDqywa) | 5:00 | 2021-12-13 |  |
 | [When I'm in Your Arms](https://open.spotify.com/track/47s5hKfwGXliAAB8wKMiNo) | [Cleo Sol](https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq) | [Rose in the Dark](https://open.spotify.com/album/4o5dzQHDzmBBc4Z3jSWVR9) | 5:35 | 2022-03-10 |  |

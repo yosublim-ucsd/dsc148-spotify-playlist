@@ -4,7 +4,7 @@
 
 > The home of Latin R&B\. La casa del R&B Latino\. Cover: Corina Smith
 
-299 songs - 15 hr 51 min
+300 songs - 15 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,7 +39,7 @@
 | [B\-Day](https://open.spotify.com/track/2fLC7a1iIloVs8M95GNCPz) | [AQUIHAYAQUIHAY](https://open.spotify.com/artist/3zMBw1jxFritUP7Mpce68i) | [No Me Busques Donde Mismo](https://open.spotify.com/album/41NSpGcHqZPzrGqOOnxyHk) | 4:08 | 2023-05-12 |  |
 | [B\-Day](https://open.spotify.com/track/5Sdm6lHMwrh0tSd4pvQxXF) | [AQUIHAYAQUIHAY](https://open.spotify.com/artist/3zMBw1jxFritUP7Mpce68i) | [B\-Day](https://open.spotify.com/album/1hja3Ifsxu0GMwLB5nR5e2) | 4:08 | 2023-01-20 | 2023-05-15 |
 | [B\-Day](https://open.spotify.com/track/7bYs6rdrNdpidWjJJtJMsm) | [AQUIHAYAQUIHAY](https://open.spotify.com/artist/3zMBw1jxFritUP7Mpce68i) | [B\-Day](https://open.spotify.com/album/6BUQPa8GoGOLYCsAkuMryh) | 4:08 | 2022-09-06 | 2023-02-05 |
-| [Bendición Bye Bye](https://open.spotify.com/track/7FDB89qhBRx36Taw6aiPbw) | [Brenda Aliendro](https://open.spotify.com/artist/0NzXqknNJFxhOcLcOix7NT) | [Bendición Bye Bye](https://open.spotify.com/album/51N1A6D68k8H2L3D1EP5OU) | 2:43 | 2023-05-05 |  |
+| [Bendición Bye Bye](https://open.spotify.com/track/7FDB89qhBRx36Taw6aiPbw) | [Brenda Aliendro](https://open.spotify.com/artist/0NzXqknNJFxhOcLcOix7NT) | [Bendición Bye Bye](https://open.spotify.com/album/51N1A6D68k8H2L3D1EP5OU) | 2:43 | 2023-05-05 | 2023-05-19 |
 | [Beso Picor](https://open.spotify.com/track/4CJDgn1HDwNXaGyukJAwML) | [Itzel Noyz](https://open.spotify.com/artist/2ID3ThfGon3XyLsuVXPgOh) | [Beso Picor](https://open.spotify.com/album/4Fhv0IxxGkAiyUOiFOGYaR) | 3:46 | 2022-02-11 | 2022-09-07 |
 | [BeSos aL vIEnTo :\(](https://open.spotify.com/track/1L43z9QK8qctlgBJbXa3W3) | [Ramon Vega](https://open.spotify.com/artist/4Yjh4PZFED9Z5OJmqRPOOP) | [BeSos aL vIEnTo :\(](https://open.spotify.com/album/7Erp3yZ5zPgZh5Mf4ydZF8) | 3:04 | 2022-09-23 |  |
 | [Blanco Y Negro](https://open.spotify.com/track/5auKj4jbfYPJg8sQTIZaxt) | [Menny Flores](https://open.spotify.com/artist/5iV6pocuYqWg9Cx5JQNyJV) | [Blanco Y Negro](https://open.spotify.com/album/5s3KNRr9tjpXQqbPllvKPe) | 2:53 | 2022-02-11 | 2022-05-20 |
@@ -81,7 +81,7 @@
 | [cómo dormiste?](https://open.spotify.com/track/3fjN3y5x4hN53rykAN2LHQ) | [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8) | [cómo dormiste?](https://open.spotify.com/album/2jt6z03JV7Ax8ZdlOrs9BK) | 1:52 | 2022-08-11 |  |
 | [Daiquiri](https://open.spotify.com/track/41fg4zU6tNKqs46Z59Fihs) | [Cardellino](https://open.spotify.com/artist/7HFja6X48hWE58m3pQnGV0) | [Daiquiri](https://open.spotify.com/album/0NxNkoYvI2RWfssxRxtLKg) | 3:38 | 2022-02-11 | 2023-05-13 |
 | [Dalí](https://open.spotify.com/track/20BbptvwAiTLTfYBSafptA) | [Cardellino](https://open.spotify.com/artist/7HFja6X48hWE58m3pQnGV0) | [Dalí](https://open.spotify.com/album/77OueE2Wa2jvuLYgLiR75i) | 2:42 | 2022-02-11 | 2022-09-07 |
-| [Daydream \- Spanish Remix](https://open.spotify.com/track/5RriIikFF42bJrUjNyoOZG) | [JOIE GREY](https://open.spotify.com/artist/5W1B9UMjEOIMcYGdEyETsU), [Cristina Malakhai](https://open.spotify.com/artist/0zQbFHLciH60hZcOWk0Djp) | [Daydream \(Spanish Remix\)](https://open.spotify.com/album/2xVWVzBR57HyJPmt9TMICI) | 3:27 | 2023-05-05 | 2023-05-13 |
+| [Daydream \- Spanish Remix](https://open.spotify.com/track/5RriIikFF42bJrUjNyoOZG) | [JOIE GREY](https://open.spotify.com/artist/5W1B9UMjEOIMcYGdEyETsU), [Cristina Malakhai](https://open.spotify.com/artist/0zQbFHLciH60hZcOWk0Djp) | [Daydream \(Spanish Remix\)](https://open.spotify.com/album/2xVWVzBR57HyJPmt9TMICI) | 3:27 | 2023-05-05 |  |
 | [De Enero a Diciembre](https://open.spotify.com/track/1p22yVi9e8DT6BEUvOZ0TL) | [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9), [Rusherking](https://open.spotify.com/artist/3Apb2lGmGJaBmr0TTBJvIZ) | [De Enero a Diciembre](https://open.spotify.com/album/6y5L7zU8rOw5f3Lywj1CPl) | 2:44 | 2022-05-20 | 2022-07-09 |
 | [De Madrugada](https://open.spotify.com/track/280QqgbMrLeMs6B80mIPG2) | [A.C.O](https://open.spotify.com/artist/0x2z4hugJaiGdTP0lzhxvO), [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL) | [De Madrugada](https://open.spotify.com/album/1tWIyjJX38WxDiIgyySy4P) | 3:40 | 2022-02-11 | 2022-05-20 |
 | [De Na'](https://open.spotify.com/track/4BRHC01xlK80uTBdz0NGhD) | [María Isabel](https://open.spotify.com/artist/318bGJ7GOvMhYhkNOe5kZ5) | [i hope you're very unhappy without me](https://open.spotify.com/album/579UaafRX8pIuyEaFsupQN) | 2:05 | 2022-05-20 | 2023-05-13 |
@@ -165,6 +165,7 @@
 | [Lo Que Vivimos](https://open.spotify.com/track/4vgsDg7bEQFr1VIxmqJzrI) | [CIAN](https://open.spotify.com/artist/6ypkanlrdTqptU1RKlUb60) | [Lo Que Vivimos](https://open.spotify.com/album/5t7BG69yQU9ACNE2YA1MjK) | 2:25 | 2022-02-11 | 2022-07-27 |
 | [Los Dos](https://open.spotify.com/track/6kn5oUW8uoVIcGjpjbnBlw) | [Panther](https://open.spotify.com/artist/6bigFvZX5HdrC98srqxRLQ) | [Los Dos](https://open.spotify.com/album/5J0ozKBrpKY05AoClZx56R) | 2:52 | 2023-05-12 |  |
 | [Luces](https://open.spotify.com/track/0P3E62IdOliXiZ1hJdU0B5) | [Fernanda](https://open.spotify.com/artist/4ofHy9bcqR6gBvOBIvCyC0) | [Luces](https://open.spotify.com/album/4UDWBqFdxvXJfGwRsqxtKj) | 2:17 | 2022-09-06 | 2023-04-26 |
+| [Mabiland Hotline: Cobuz & Bustta](https://open.spotify.com/track/343PbZqiWOFGS629yyTD9J) | [Cobuz & Bustta](https://open.spotify.com/artist/3IpCt5oIfvR2qlkuoCoGYU), [Mabiland](https://open.spotify.com/artist/2oXKVuZqDv85M1ynjVMp3J) | [Mabiland Hotline: Cobuz & Bustta](https://open.spotify.com/album/3f51kZQ3Lygk8MCcEqCwZz) | 2:49 | 2023-05-12 |  |
 | [Makin Money](https://open.spotify.com/track/0nMeCH0qe2CTdA6YDzyFRW) | [Foudeqush](https://open.spotify.com/artist/0XFgM33h3Ls5tj1M9IKUWd) | [Makin Money](https://open.spotify.com/album/5LFrClQQyURQWYOTIIA0vm) | 3:08 | 2023-05-12 |  |
 | [Mala](https://open.spotify.com/track/3iQldE2oT6MqWpcWN8oInY) | [Immasoul](https://open.spotify.com/artist/21neefJLiFuSR6sQlHDblG) | [Mala](https://open.spotify.com/album/7rpH53UlEhpHW5RCIvzJDr) | 2:58 | 2022-02-11 | 2023-05-06 |
 | [mala maña](https://open.spotify.com/track/1YXvGPJqEL11QY7Lg2yM31) | [riela](https://open.spotify.com/artist/5K3Lwty6gv1gtuPn3gcf3A) | [mala maña](https://open.spotify.com/album/6Cp3h4pPq3SUbVzQlFmr20) | 2:32 | 2022-02-11 | 2022-09-07 |
@@ -276,7 +277,7 @@
 | [Thinking About You](https://open.spotify.com/track/7iHjnyUtas9LaP2RFblNGG) | [Zöelle](https://open.spotify.com/artist/4ejqWoCUdomzmXtgNJvXbl) | [Thinking About You](https://open.spotify.com/album/2zGh2g7PX9BkdqvwSaOwFj) | 2:37 | 2023-05-12 |  |
 | [Thirteen](https://open.spotify.com/track/3CeerksBP1R34v6L79rPvC) | [NEZZA](https://open.spotify.com/artist/0cRKBhWUTEtR1vmA06kVKz) | [Thirteen](https://open.spotify.com/album/6uB35Vnb3ntHG3r7SaOpTQ) | 3:33 | 2022-08-05 | 2023-05-13 |
 | [Tira La Puerta](https://open.spotify.com/track/0RyZbvuv6h5AeKXi1AYvJs) | [Claire Delić](https://open.spotify.com/artist/5I5LlQHGqDoz2RGXph2llc) | [Tira La Puerta](https://open.spotify.com/album/31vwz8em3IHKspVCw9hC3x) | 2:34 | 2022-02-11 | 2022-07-28 |
-| [Todo](https://open.spotify.com/track/5rl1NVOQZBWMqhyTiOUHrJ) | [YOSHI](https://open.spotify.com/artist/399j7KzhXlNysKZvb55lxd) | [Todo](https://open.spotify.com/album/3Vy5AXz67VBxwrnrZmXztx) | 3:22 | 2022-12-06 |  |
+| [Todo](https://open.spotify.com/track/5rl1NVOQZBWMqhyTiOUHrJ) | [YOSHI](https://open.spotify.com/artist/399j7KzhXlNysKZvb55lxd) | [Todo](https://open.spotify.com/album/3Vy5AXz67VBxwrnrZmXztx) | 3:22 | 2022-12-06 | 2023-05-19 |
 | [TOSCANA](https://open.spotify.com/track/6ejAYAdo08qbPLrH4FEfYe) | [Cardellino](https://open.spotify.com/artist/7HFja6X48hWE58m3pQnGV0) | [Cardellino](https://open.spotify.com/album/43ngUKpEMUdgNv3cHaWGKC) | 2:49 | 2022-02-11 | 2023-05-13 |
 | [Track 11](https://open.spotify.com/track/58Z2aR6MVBuQumxBru8Y40) | [Bad Milk](https://open.spotify.com/artist/5rMUEBZwYHovrlnuzggrVR), [574](https://open.spotify.com/artist/6LySp35VaLUeUEalGUTBns) | [Track 11](https://open.spotify.com/album/0c0HSLNtYbgOEOtHdUr70D) | 3:39 | 2022-02-11 | 2022-09-07 |
 | [Trebol](https://open.spotify.com/track/35CU2ZcMhXIrfhVR93zs3o) | [Ben Aler](https://open.spotify.com/artist/0jMMS87c4v40JITdDE0c1R) | [Trebol](https://open.spotify.com/album/6dt3VZujKnHrJGRZyGZzzD) | 3:46 | 2022-02-11 | 2023-05-13 |

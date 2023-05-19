@@ -1,12 +1,12 @@
 {
   "description": "The biggest songs in Latin America in 2018. Cover: Bad Bunny",
-  "num_followers": 56172,
+  "num_followers": 56320,
   "original_name": "Latin Hits 2018",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkMjcxNjEyMzAwNmY0ZGY0ODJkYTYxZTZiOGNjYjM2YzQ3NTI2MzMy",
+  "snapshot_id": "MCxjZGMxMDllNzQ0OThmOTU1YzFkY2ZmNGRlMjMxZTM2YTllNGRhZTAz",
   "tracks": [
     {
       "added_at": "2021-12-16 01:11:32",
@@ -543,26 +543,6 @@
     {
       "added_at": "2021-12-16 01:11:32",
       "album": {
-        "name": "Los Campeones del Pueblo \"The Big Leagues\"",
-        "url": "https://open.spotify.com/album/4zbMionGv9W33xjQfoMyuo"
-      },
-      "artists": [
-        {
-          "name": "Wisin & Yandel",
-          "url": "https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9"
-        },
-        {
-          "name": "Romeo Santos",
-          "url": "https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP"
-        }
-      ],
-      "duration_ms": 226200,
-      "name": "Aullando",
-      "url": "https://open.spotify.com/track/7BuHdm4lQqcyG3qTwdkxus"
-    },
-    {
-      "added_at": "2021-12-16 01:11:32",
-      "album": {
         "name": "Loca Remix",
         "url": "https://open.spotify.com/album/5EuK2rW0iPINmt21KPbIUQ"
       },
@@ -587,6 +567,26 @@
       "duration_ms": 346460,
       "name": "Loca - Remix",
       "url": "https://open.spotify.com/track/2ECIwi1a7mfokdDkkJ08Ne"
+    },
+    {
+      "added_at": "2021-12-16 01:11:32",
+      "album": {
+        "name": "Los Campeones del Pueblo \"The Big Leagues\"",
+        "url": "https://open.spotify.com/album/4zbMionGv9W33xjQfoMyuo"
+      },
+      "artists": [
+        {
+          "name": "Wisin & Yandel",
+          "url": "https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9"
+        },
+        {
+          "name": "Romeo Santos",
+          "url": "https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP"
+        }
+      ],
+      "duration_ms": 226200,
+      "name": "Aullando",
+      "url": "https://open.spotify.com/track/7BuHdm4lQqcyG3qTwdkxus"
     },
     {
       "added_at": "2021-12-16 01:11:32",
@@ -747,26 +747,6 @@
     {
       "added_at": "2021-12-16 01:11:32",
       "album": {
-        "name": "Vibras",
-        "url": "https://open.spotify.com/album/5kprdYds6oZb4iSldfflOT"
-      },
-      "artists": [
-        {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
-        },
-        {
-          "name": "Zion & Lennox",
-          "url": "https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1"
-        }
-      ],
-      "duration_ms": 250840,
-      "name": "No Es Justo",
-      "url": "https://open.spotify.com/track/5qFeMRz4TvetPmzjre9Dq7"
-    },
-    {
-      "added_at": "2021-12-16 01:11:32",
-      "album": {
         "name": "Culpables",
         "url": "https://open.spotify.com/album/0WmqKVGQgIYleOI8gtWP1w"
       },
@@ -783,6 +763,26 @@
       "duration_ms": 226626,
       "name": "Culpables",
       "url": "https://open.spotify.com/track/6q8Lb50EtqNeeJXXe8mMAH"
+    },
+    {
+      "added_at": "2021-12-16 01:11:32",
+      "album": {
+        "name": "Vibras",
+        "url": "https://open.spotify.com/album/5kprdYds6oZb4iSldfflOT"
+      },
+      "artists": [
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        },
+        {
+          "name": "Zion & Lennox",
+          "url": "https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1"
+        }
+      ],
+      "duration_ms": 250840,
+      "name": "No Es Justo",
+      "url": "https://open.spotify.com/track/5qFeMRz4TvetPmzjre9Dq7"
     },
     {
       "added_at": "2021-12-16 01:11:32",
@@ -923,30 +923,22 @@
     {
       "added_at": "2021-12-16 01:11:32",
       "album": {
-        "name": "X (feat. Maluma & Ozuna) [Remix]",
-        "url": "https://open.spotify.com/album/5VQfOfiYcDLGZo9HFW1IJM"
+        "name": "Cr\u00e9eme",
+        "url": "https://open.spotify.com/album/0bVsozItEQQVu2M5FnpnrG"
       },
       "artists": [
         {
-          "name": "Nicky Jam",
-          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
-        },
-        {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
         },
         {
           "name": "Maluma",
           "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
-        },
-        {
-          "name": "Ozuna",
-          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
         }
       ],
-      "duration_ms": 235746,
-      "name": "X (feat. Maluma & Ozuna) - Remix",
-      "url": "https://open.spotify.com/track/6JjPBQfI2Y8nIjnm65X6Pw"
+      "duration_ms": 212493,
+      "name": "Cr\u00e9eme",
+      "url": "https://open.spotify.com/track/1mT47pKLXUwPYGwB91GcNz"
     },
     {
       "added_at": "2021-12-16 01:11:32",
@@ -971,26 +963,6 @@
     {
       "added_at": "2021-12-16 01:11:32",
       "album": {
-        "name": "Cr\u00e9eme",
-        "url": "https://open.spotify.com/album/0bVsozItEQQVu2M5FnpnrG"
-      },
-      "artists": [
-        {
-          "name": "KAROL G",
-          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
-        },
-        {
-          "name": "Maluma",
-          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
-        }
-      ],
-      "duration_ms": 212493,
-      "name": "Cr\u00e9eme",
-      "url": "https://open.spotify.com/track/1mT47pKLXUwPYGwB91GcNz"
-    },
-    {
-      "added_at": "2021-12-16 01:11:32",
-      "album": {
         "name": "Reggaeton",
         "url": "https://open.spotify.com/album/5FMJB2xKTMGdM3w6DmC6L5"
       },
@@ -1003,6 +975,34 @@
       "duration_ms": 158800,
       "name": "Reggaeton",
       "url": "https://open.spotify.com/track/2D3z17LBMJ2HEHeBFFjTLi"
+    },
+    {
+      "added_at": "2021-12-16 01:11:32",
+      "album": {
+        "name": "X (feat. Maluma & Ozuna) [Remix]",
+        "url": "https://open.spotify.com/album/5VQfOfiYcDLGZo9HFW1IJM"
+      },
+      "artists": [
+        {
+          "name": "Nicky Jam",
+          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
+        },
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        },
+        {
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+        },
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        }
+      ],
+      "duration_ms": 235746,
+      "name": "X (feat. Maluma & Ozuna) - Remix",
+      "url": "https://open.spotify.com/track/6JjPBQfI2Y8nIjnm65X6Pw"
     },
     {
       "added_at": "2021-12-16 01:11:32",

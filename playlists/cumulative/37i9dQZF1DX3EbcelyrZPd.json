@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "Get your fill of vibes straight out of Tanzania. Cover: Rayvanny",
+  "description": "Get your fill of vibes straight out of Tanzania. Cover: Alikiba",
   "name": "Bongo Flava",
   "tracks": [
     {
@@ -166,7 +166,7 @@
       ],
       "date_added": "2022-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 221591,
       "name": "Asali",
       "url": "https://open.spotify.com/track/6zOkUcfqRYE6vc1iIa2KtB"
@@ -902,6 +902,28 @@
       "duration_ms": 262588,
       "name": "Forever",
       "url": "https://open.spotify.com/track/2mIBy2thG7ZiECOf7tkUuG"
+    },
+    {
+      "album": {
+        "name": "Funga Kazi",
+        "url": "https://open.spotify.com/album/5Rwo0KZZrd0Dy4tSyhvE7j"
+      },
+      "artists": [
+        {
+          "name": "Manengo",
+          "url": "https://open.spotify.com/artist/340oRLVQms0ZR6ijh6mFGS"
+        },
+        {
+          "name": "Darassa",
+          "url": "https://open.spotify.com/artist/34iDTihXiyRsnPa8dCF05a"
+        }
+      ],
+      "date_added": "2023-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186411,
+      "name": "Funga Kazi",
+      "url": "https://open.spotify.com/track/34opJEgUasCJmsFKp2CVjY"
     },
     {
       "album": {
@@ -2830,7 +2852,7 @@
       ],
       "date_added": "2022-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 169937,
       "name": "Napona",
       "url": "https://open.spotify.com/track/0vqWa6py4X96uFeaue6DKv"
@@ -3380,6 +3402,24 @@
       "duration_ms": 213600,
       "name": "Okay",
       "url": "https://open.spotify.com/track/5Jgw4HpMpnetmRxc7P8Fm9"
+    },
+    {
+      "album": {
+        "name": "On Fire",
+        "url": "https://open.spotify.com/album/3UQRnsR6Ie8yozVIOoTHK8"
+      },
+      "artists": [
+        {
+          "name": "Alikiba",
+          "url": "https://open.spotify.com/artist/2nGoKcLdXktxEXvMdTDsIT"
+        }
+      ],
+      "date_added": "2023-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207773,
+      "name": "On Fire",
+      "url": "https://open.spotify.com/track/1RzREeP3SPfTd4qMSTTUtg"
     },
     {
       "album": {

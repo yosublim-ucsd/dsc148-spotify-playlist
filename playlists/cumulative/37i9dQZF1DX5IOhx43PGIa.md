@@ -4,7 +4,7 @@
 
 > Illuminating Asian artists everywhere\. Cover: Hojean.
 
-446 songs - 23 hr 20 min
+447 songs - 23 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -265,7 +265,7 @@
 | [Merry Midnight](https://open.spotify.com/track/2kSyqQJiVkF8H7huIDq0aH) | [Numcha](https://open.spotify.com/artist/6bguntfj9ZnX1lFvSYl72d), [Tseng Kuo Hung](https://open.spotify.com/artist/0Ib2ZUmA8BXyCP18UZd8xP) | [Merry Midnight](https://open.spotify.com/album/6I1rQClRttJ92IGbZsO8W4) | 4:29 | 2022-08-19 | 2022-09-19 |
 | [Merry Midnight](https://open.spotify.com/track/6qR09FJQiF8We0qtsjMK5Y) | [Numcha](https://open.spotify.com/artist/6bguntfj9ZnX1lFvSYl72d), [Tseng Kuo Hung](https://open.spotify.com/artist/0Ib2ZUmA8BXyCP18UZd8xP) | [Bloom](https://open.spotify.com/album/18RDnaVusM3sD5chVIUFzh) | 4:29 | 2022-11-18 | 2023-01-14 |
 | [Messy Sexy](https://open.spotify.com/track/4BetQSsVmncssPQ6aHmV3B) | [Su Lee](https://open.spotify.com/artist/3deduluMry0ZIGWF673gfK) | [Messy Sexy](https://open.spotify.com/album/3oEpZOlOvjv2wVPmdcIXBE) | 2:55 | 2022-10-07 | 2022-10-30 |
-| [Metamorphosis](https://open.spotify.com/track/3RS6yYUhrAbxdHm2vALIwv) | [MILCK](https://open.spotify.com/artist/62lirbb6qJs4VOGpdCNHK8) | [Metamorphosis](https://open.spotify.com/album/6Bee4WtLGFdXUA1ylcBNZn) | 3:23 | 2023-03-18 |  |
+| [Metamorphosis](https://open.spotify.com/track/3RS6yYUhrAbxdHm2vALIwv) | [MILCK](https://open.spotify.com/artist/62lirbb6qJs4VOGpdCNHK8) | [Metamorphosis](https://open.spotify.com/album/6Bee4WtLGFdXUA1ylcBNZn) | 3:23 | 2023-03-18 | 2023-05-19 |
 | [METROPOLIS](https://open.spotify.com/track/5dGvEzPIFn5BVuGBmqBiqy) | [Stirfryboyz](https://open.spotify.com/artist/7kNe1jhO48NAEm4WhuOSqr), [Forrest Green](https://open.spotify.com/artist/3IGwWu3S86O6cSgDroSWFz), [Taebz](https://open.spotify.com/artist/5L6UHAq53G5zTorqTxO9Pk), [Leon Zhang](https://open.spotify.com/artist/7CaidoXFHnet3ANycYujvP) | [METROPOLIS](https://open.spotify.com/album/7wqkuWjJNleM3X3lgY9fvU) | 3:45 | 2022-05-27 | 2022-07-29 |
 | [MIC CHECK!](https://open.spotify.com/track/5uBavTE4TEJsd2haTboEHO) | [Shawn Mathews](https://open.spotify.com/artist/3MkpsN5uQhUMT9EMV1LgYL) | [MIC CHECK!](https://open.spotify.com/album/2HwieedpCxNQ5lxw6htbFR) | 3:11 | 2022-06-03 | 2022-07-19 |
 | [Miss Me Too](https://open.spotify.com/track/3BxbORnLyAri7AhJS8a2G1) | [Katherine Li](https://open.spotify.com/artist/6C7CCNJVIGEla8AI1LuBxI) | [Crush\(ed\)](https://open.spotify.com/album/1ywjVKTQbH3wRO6EwFbbEG) | 2:30 | 2022-10-21 | 2023-02-16 |
@@ -317,6 +317,7 @@
 | [Raspberry Tongue](https://open.spotify.com/track/7dtUx6UNMsD6PQ8LhyUOXO) | [FIG](https://open.spotify.com/artist/2pKRCZKuL3p3PDWMNCLAH8) | [Raspberry Tongue](https://open.spotify.com/album/6XQoQAnLR9icdYN9JItECG) | 2:58 | 2022-05-27 | 2022-06-25 |
 | [Ready For Love](https://open.spotify.com/track/0K7XBpcCaoEFnWRWbeuG3C) | [SABAI](https://open.spotify.com/artist/4OaSyxqlkp7aVpAZwF02QZ), [Caslow](https://open.spotify.com/artist/40zwrE4brs61aEleZQ6SNq), [Exede](https://open.spotify.com/artist/2vtKZp9zZC9YenxW1szzco) | [Ready For Love](https://open.spotify.com/album/5B1cDRRu36L97uXUjJ32XK) | 2:42 | 2022-07-22 | 2022-09-17 |
 | [Regressa](https://open.spotify.com/track/33TpZOsFaBV09pXm15vBq6) | [Kaz Moon](https://open.spotify.com/artist/70TpT5Yq8mRwav91mSTKQV) | [Regressa](https://open.spotify.com/album/13tIJgBaVDaP0wnPolXpN0) | 1:39 | 2023-04-14 | 2023-05-12 |
+| [Regressa](https://open.spotify.com/track/1dlOr60VqwO8DIGn9TLeeu) | [Kaz Moon](https://open.spotify.com/artist/70TpT5Yq8mRwav91mSTKQV) | [STAR ANISE](https://open.spotify.com/album/3ZH3NAs9F36n7ZjWBQ9peo) | 1:39 | 2023-05-05 |  |
 | [Reminisce \(feat\. Yuna\)](https://open.spotify.com/track/0tT9RlzcD5Of5w05TPQKxk) | [PARADISE RISING](https://open.spotify.com/artist/0bGLIWZrNjcM3mIwPqxBNo), [Manila Killa](https://open.spotify.com/artist/4EukMPjtYsdi87lkU1hIxN), [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1) | [semilucent 2](https://open.spotify.com/album/4cUc4EWmcbzamsCXOlJ8ez) | 3:22 | 2022-05-27 | 2022-07-29 |
 | [Rings of Saturn](https://open.spotify.com/track/6B2smPDLlM2Ms59jSB4pVH) | [Alann8h](https://open.spotify.com/artist/1PG2FugIT1iF2CWnzjw0We) | [Apollo 8](https://open.spotify.com/album/6ktVSiT3MwRj9z5CJjC2df) | 2:53 | 2022-06-10 | 2022-08-27 |
 | [RIP](https://open.spotify.com/track/2uRFxSw7uEN9vlGHjwoS29) | [Benita](https://open.spotify.com/artist/7eg1HMzWrYIgVFtoq4UZZA) | [SCARLET](https://open.spotify.com/album/2r4VnfYwKcsNFoBlwIhW1k) | 2:03 | 2022-05-27 | 2022-06-16 |

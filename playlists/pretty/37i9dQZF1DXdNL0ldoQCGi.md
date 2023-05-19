@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdNL0ldoQCGi.md) - [plain]
 
 > aquela lá q viralizou na net
 
-[Spotify](https://open.spotify.com/user/spotify) - 173,160 likes - 85 songs - 3 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 173,534 likes - 85 songs - 3 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdNL0ldoQCGi.md) - [plain]
 | 6 | [085 \- Ao Vivo](https://open.spotify.com/track/7Ht57bh2FwiQLwRH9zqESG) | [MC Rogerinho](https://open.spotify.com/artist/5JbQpbeFaKfuZVFzKwaawP) | [Pode Crê \(Ao Vivo\)](https://open.spotify.com/album/1RgyCNTHPkg1IxFO0d6bhQ) | 2:43 |
 | 7 | [Seu Brilho Sumiu \- Ao Vivo](https://open.spotify.com/track/3PH1nUysW7ybo3Yu8sqlPN) | [Israel & Rodolffo](https://open.spotify.com/artist/41QLxRXlc2NwfJZkHGHKid), [Mari Fernandez](https://open.spotify.com/artist/0BHm7qbh3ENxvXzkQAG7MP) | [Let's Bora, Vol\. 2 \(Ao Vivo\)](https://open.spotify.com/album/1jd2UnD7KAYtlTxmfmn59t) | 2:48 |
 | 8 | [Não Para](https://open.spotify.com/track/77BR4gaUAp3p0uA8UL6HT9) | [Belle Kaffer](https://open.spotify.com/artist/4N2lyAuQF0kXt3UnsN7XZx), [Ana Castela](https://open.spotify.com/artist/2CKOmarVWvWqkNWUatHCex), [Charles New](https://open.spotify.com/artist/7CK5FIA9viaFGVnDnfbuw8) | [Não Para](https://open.spotify.com/album/4CijUEw802sAukzjveQ0Re) | 3:00 |
-| 9 | [Welcome To The Mato](https://open.spotify.com/track/4hdgOWO8h066Tr1fgdzNi5) | [Marco Brasil Filho](https://open.spotify.com/artist/2f88CSOFEgN0ATmxgXaCTb), [Dj Kevin](https://open.spotify.com/artist/6WRpFyCGbRCFl3LGARktzd) | [Welcome To The Mato](https://open.spotify.com/album/322x7JkIl0C3IayQinHyIM) | 3:03 |
+| 9 | [Welcome To The Mato](https://open.spotify.com/track/2bTGlx7cN0zHZegVmkAjBX) | [Marco Brasil Filho](https://open.spotify.com/artist/2f88CSOFEgN0ATmxgXaCTb), [Dj Kevin](https://open.spotify.com/artist/6WRpFyCGbRCFl3LGARktzd) | [Welcome To The Mato](https://open.spotify.com/album/0CEAZ8iN3rmlJo9jHkHKsL) | 3:04 |
 | 10 | [Cheiro da Karolina](https://open.spotify.com/track/2M5rKoRbRzzVBSlkDN4MMh) | [Luiz Poderoso Chefão](https://open.spotify.com/artist/6LTXhD91f2rjmAq5f55sns) | [Cheiro da Karolina](https://open.spotify.com/album/4chZNnJM7cWC49zM5Zg0lI) | 2:57 |
 | 11 | [Por Vc Eu Bebo O Mar De Canudinho](https://open.spotify.com/track/36FtXn63kzlJjwRx66Dyox) | [Jaldo Rodrigues](https://open.spotify.com/artist/2ZtIsSrdk08ODFYVLeYZKq) | [Por Vc Eu Bebo O Mar De Canudinho](https://open.spotify.com/album/6w7uzGTzLC2hvDSSbiM1GA) | 2:02 |
 | 12 | [Ela se Envolve](https://open.spotify.com/track/1dMUsdVtoSLVkaJVMBk8Rk) | [MC GP](https://open.spotify.com/artist/5s27i7oqhNWIcE4HeoVdq0), [DJ Japa NK](https://open.spotify.com/artist/1bpnl8qbR9GxmiNlkEufW6), [WHITE NO BEAT](https://open.spotify.com/artist/4xJQUv60hFofQfApMsPtJu) | [Ela se Envolve](https://open.spotify.com/album/1hLg8fcSHpGZi052d2ZZdS) | 2:24 |
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdNL0ldoQCGi.md) - [plain]
 | 84 | [Gostosinha é Ela](https://open.spotify.com/track/0XyPPyGes0omXppV5YE8gy) | [Felipe Amorim](https://open.spotify.com/artist/3CIIaeZuFYrAD6PRVyuO4U) | [Gostosinha é Ela](https://open.spotify.com/album/4mh9PwttztTnpvYlPFCPRZ) | 2:18 |
 | 85 | [Under The Influence](https://open.spotify.com/track/5IgjP7X4th6nMNDh4akUHb) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Indigo \(Extended\)](https://open.spotify.com/album/3okhA6w5uau6ZNhnVpwVww) | 3:04 |
 
-Snapshot ID: `MCwyZjNhMWYzZGM2NzQwZmE2OTQ1YmE4NjdjMmZjZmJiZjdlNWE5ZTcz`
+Snapshot ID: `MCxkNDFiYWFlMTM4NzEzMmYyZGFmYjY4NTlkNTE1NTlmYmJiMzAyNzNk`

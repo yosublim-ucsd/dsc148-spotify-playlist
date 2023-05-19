@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "fatimaaaaaa!!!",
+  "description": "h\u00e5ll det 100.",
   "name": "100",
   "tracks": [
     {
@@ -510,7 +510,7 @@
       ],
       "date_added": "2023-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 165436,
       "name": "4LIFE",
       "url": "https://open.spotify.com/track/5bOTOVKDjDlsrRtrGZRVed"
@@ -582,7 +582,7 @@
       ],
       "date_added": "2023-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 131428,
       "name": "666",
       "url": "https://open.spotify.com/track/6oe7pckqiHPvNjQCO3NCME"
@@ -2099,6 +2099,24 @@
     },
     {
       "album": {
+        "name": "Balans",
+        "url": "https://open.spotify.com/album/4jODEREKTsKuATek4Xi5Ob"
+      },
+      "artists": [
+        {
+          "name": "PABI",
+          "url": "https://open.spotify.com/artist/5Y3Y1CiblRM9kggjDwTEU8"
+        }
+      ],
+      "date_added": "2023-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192715,
+      "name": "Balans",
+      "url": "https://open.spotify.com/track/3BQYhwomkv3WA1SR2th6mi"
+    },
+    {
+      "album": {
         "name": "balans (va h\u00e4nder fatima!!?)",
         "url": "https://open.spotify.com/album/3pGyZvmSakMW9bjOHoaTNo"
       },
@@ -2320,7 +2338,7 @@
       ],
       "date_added": "2023-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 120000,
       "name": "BARBIE",
       "url": "https://open.spotify.com/track/60YYvFtSPK9D455h4Hz27X"
@@ -2696,6 +2714,24 @@
       "duration_ms": 168510,
       "name": "BLACKOUT",
       "url": "https://open.spotify.com/track/6UbxtQGy5JyuOWvl04AWtW"
+    },
+    {
+      "album": {
+        "name": "Bland Banditer",
+        "url": "https://open.spotify.com/album/2pvlDls9V2EyYpVA1RBn3X"
+      },
+      "artists": [
+        {
+          "name": "Nineb Youk",
+          "url": "https://open.spotify.com/artist/1tR8hI9nP55dVOK0DBvWbU"
+        }
+      ],
+      "date_added": "2023-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167419,
+      "name": "Bland Banditer",
+      "url": "https://open.spotify.com/track/1J5ES79cOICsM2VNGIZzak"
     },
     {
       "album": {
@@ -3213,6 +3249,28 @@
     },
     {
       "album": {
+        "name": "Br\u00e4nd",
+        "url": "https://open.spotify.com/album/7xTXB00YMpPAae9DRzo9et"
+      },
+      "artists": [
+        {
+          "name": "RAHIMIC",
+          "url": "https://open.spotify.com/artist/4rSe5VVdZX6GOPCcMYT7ZM"
+        },
+        {
+          "name": "Adam Aden",
+          "url": "https://open.spotify.com/artist/3tEZ6bzTrFzApPwyyUlADz"
+        }
+      ],
+      "date_added": "2023-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194181,
+      "name": "Br\u00e4nd",
+      "url": "https://open.spotify.com/track/1q14Q0vVh6YsR62XQ9z7Ip"
+    },
+    {
+      "album": {
         "name": "Burna",
         "url": "https://open.spotify.com/album/5MdxhgGDUrPfL3zWQQNZY3"
       },
@@ -3268,6 +3326,28 @@
       "duration_ms": 151720,
       "name": "B\u00c4NG",
       "url": "https://open.spotify.com/track/3C5Gkb8n1MXl1KmuafcVOb"
+    },
+    {
+      "album": {
+        "name": "Br\u00e4nd",
+        "url": "https://open.spotify.com/album/7xTXB00YMpPAae9DRzo9et"
+      },
+      "artists": [
+        {
+          "name": "RAHIMIC",
+          "url": "https://open.spotify.com/artist/4rSe5VVdZX6GOPCcMYT7ZM"
+        },
+        {
+          "name": "Albin Gromer",
+          "url": "https://open.spotify.com/artist/58HElDWoxiU5oqBrwYK6Kp"
+        }
+      ],
+      "date_added": "2023-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261818,
+      "name": "B\u00e4sta som har h\u00e4nt",
+      "url": "https://open.spotify.com/track/4qWAc8Iu1yK7o9cjtF1IiK"
     },
     {
       "album": {
@@ -6754,7 +6834,7 @@
       ],
       "date_added": "2023-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 140780,
       "name": "Genua",
       "url": "https://open.spotify.com/track/12AvFLuM5FPrGb5WKLon3r"
@@ -8220,7 +8300,7 @@
       ],
       "date_added": "2023-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 150588,
       "name": "H\u00f6g standard",
       "url": "https://open.spotify.com/track/6vCCL90D0oQEUjvxsPGICi"
@@ -8358,6 +8438,28 @@
       "duration_ms": 151567,
       "name": "Icey",
       "url": "https://open.spotify.com/track/3iCB8DuPMaO4Wkt5jbA1An"
+    },
+    {
+      "album": {
+        "name": "Igen",
+        "url": "https://open.spotify.com/album/1iuLlpN0sB5dFelFzBVjmx"
+      },
+      "artists": [
+        {
+          "name": "Sticky",
+          "url": "https://open.spotify.com/artist/12BQZLcMCpuSfR7xyKFgJO"
+        },
+        {
+          "name": "A36",
+          "url": "https://open.spotify.com/artist/4QcudLddRQCbX8wrs6i2Gt"
+        }
+      ],
+      "date_added": "2023-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181968,
+      "name": "Igen",
+      "url": "https://open.spotify.com/track/47HJKtFmhMkV6WPBt5YVlR"
     },
     {
       "album": {
@@ -9815,6 +9917,24 @@
     },
     {
       "album": {
+        "name": "Kvar on the road",
+        "url": "https://open.spotify.com/album/0VeTsXv91fn37YlyCWZiEG"
+      },
+      "artists": [
+        {
+          "name": "Thrife",
+          "url": "https://open.spotify.com/artist/6iNTGd6T0cxg1H8IIaZTlt"
+        }
+      ],
+      "date_added": "2023-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188852,
+      "name": "Kvar on the road",
+      "url": "https://open.spotify.com/track/6U0dWuKekRCwErUVL4Mtm6"
+    },
+    {
+      "album": {
         "name": "KYSST",
         "url": "https://open.spotify.com/album/2GDMn6MYLNrISelMnZvn4g"
       },
@@ -10474,7 +10594,7 @@
       ],
       "date_added": "2023-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 125753,
       "name": "LOGGA UT",
       "url": "https://open.spotify.com/track/6WZ0e4BsFb5tmGQeaOsuco"
@@ -11151,6 +11271,28 @@
     },
     {
       "album": {
+        "name": "Makine",
+        "url": "https://open.spotify.com/album/0rtIGqQNC1ctaZfLPkXoUk"
+      },
+      "artists": [
+        {
+          "name": "SINAN",
+          "url": "https://open.spotify.com/artist/3pvc2tagjnl9pGIi6BBfIS"
+        },
+        {
+          "name": "Dilly D",
+          "url": "https://open.spotify.com/artist/4dpsCdvMMSKcvNref2AMCZ"
+        }
+      ],
+      "date_added": "2023-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130769,
+      "name": "Makine",
+      "url": "https://open.spotify.com/track/2p5aqtJ05qtjlnEflc12h9"
+    },
+    {
+      "album": {
         "name": "MALI",
         "url": "https://open.spotify.com/album/5ExBe33jMkl0LupEGyReqK"
       },
@@ -11246,6 +11388,24 @@
       "duration_ms": 139831,
       "name": "Mami",
       "url": "https://open.spotify.com/track/5y6IzqltRLzH0xYIQ3w87a"
+    },
+    {
+      "album": {
+        "name": "Mamma",
+        "url": "https://open.spotify.com/album/48QcQYcvAhuYS53lkUNJH5"
+      },
+      "artists": [
+        {
+          "name": "VC Barre",
+          "url": "https://open.spotify.com/artist/5QcMPl2wzC4KqivjfcyBIU"
+        }
+      ],
+      "date_added": "2023-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134826,
+      "name": "Mamma",
+      "url": "https://open.spotify.com/track/5lYl9DFg7W1Q6E2qOZHSgO"
     },
     {
       "album": {
@@ -12277,6 +12437,28 @@
     },
     {
       "album": {
+        "name": "MONEY TALKS",
+        "url": "https://open.spotify.com/album/5BucMLq6Qu6oP7iaM5VZxB"
+      },
+      "artists": [
+        {
+          "name": "24K",
+          "url": "https://open.spotify.com/artist/4kKkAIpkNWG3XpUIl9yENt"
+        },
+        {
+          "name": "T.G Boogie",
+          "url": "https://open.spotify.com/artist/1PVxZM6C1jxLDUNJAEVX6d"
+        }
+      ],
+      "date_added": "2023-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138790,
+      "name": "MONEY TALKS",
+      "url": "https://open.spotify.com/track/6pUnTyUta8NreXEufzl2ii"
+    },
+    {
+      "album": {
         "name": "Monster Under S\u00e4ngen",
         "url": "https://open.spotify.com/album/1LWPXEEHx8ILVqnIPzNSIc"
       },
@@ -12842,7 +13024,7 @@
       ],
       "date_added": "2023-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 123506,
       "name": "Noyy",
       "url": "https://open.spotify.com/track/4W0pPaBJwKhxScJXDVIKhS"
@@ -12976,7 +13158,7 @@
       ],
       "date_added": "2023-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 118153,
       "name": "Obankad",
       "url": "https://open.spotify.com/track/5n3oBxg3zvGsJTOg6KWw9x"
@@ -14055,6 +14237,24 @@
     },
     {
       "album": {
+        "name": "PONDUS",
+        "url": "https://open.spotify.com/album/4KGjExWCw6y5Geugyc5Fuy"
+      },
+      "artists": [
+        {
+          "name": "Marti",
+          "url": "https://open.spotify.com/artist/031ZXIjZuiaU6ESOFNpGkm"
+        }
+      ],
+      "date_added": "2023-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153157,
+      "name": "PONDUS",
+      "url": "https://open.spotify.com/track/2SwZWiSUf4k1fvbJGxWj8b"
+    },
+    {
+      "album": {
         "name": "Poppade en till",
         "url": "https://open.spotify.com/album/1KkYv6Q0yrGehzyZm0tAGJ"
       },
@@ -14211,6 +14411,24 @@
     },
     {
       "album": {
+        "name": "Pronto",
+        "url": "https://open.spotify.com/album/3DAZWovcMQ64ZFXYQ3cAE5"
+      },
+      "artists": [
+        {
+          "name": "Shiro",
+          "url": "https://open.spotify.com/artist/2r9JAY6ISvp0VvZsT6cBJo"
+        }
+      ],
+      "date_added": "2023-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134138,
+      "name": "Pronto",
+      "url": "https://open.spotify.com/track/3gySkr0JdSdU41WKDBWPn5"
+    },
+    {
+      "album": {
         "name": "PTSD",
         "url": "https://open.spotify.com/album/45dplEuz4rtySVo6z5P65x"
       },
@@ -14288,7 +14506,7 @@
       ],
       "date_added": "2023-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 157500,
       "name": "P\u00c5 MIN WAVE",
       "url": "https://open.spotify.com/track/12sbrS8EVwVRGbwijV8WE2"
@@ -14594,6 +14812,24 @@
       "duration_ms": 157263,
       "name": "Right Now",
       "url": "https://open.spotify.com/track/5E4Eh8B98cgYzTXJqX0uyL"
+    },
+    {
+      "album": {
+        "name": "ROSA MOLN",
+        "url": "https://open.spotify.com/album/1grMSfRmWmCFsZdBvtCv4i"
+      },
+      "artists": [
+        {
+          "name": "DANO",
+          "url": "https://open.spotify.com/artist/1qid2RAqbRe7NvZ8tCxbOS"
+        }
+      ],
+      "date_added": "2023-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167288,
+      "name": "ROSA MOLN",
+      "url": "https://open.spotify.com/track/6ieSkDC5VFawcSJmYflJzA"
     },
     {
       "album": {
@@ -14928,7 +15164,7 @@
       ],
       "date_added": "2023-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 214780,
       "name": "Schack",
       "url": "https://open.spotify.com/track/7AixXilko7j5AToF0fQ0aQ"
@@ -16151,6 +16387,32 @@
     },
     {
       "album": {
+        "name": "SUEDE/BRANDEN",
+        "url": "https://open.spotify.com/album/5CDg3NzILhLJYjNO9S3zpI"
+      },
+      "artists": [
+        {
+          "name": "Fridlyst",
+          "url": "https://open.spotify.com/artist/3JNEVqwIPrDatUMQ2qigvt"
+        },
+        {
+          "name": "Philly",
+          "url": "https://open.spotify.com/artist/1NCPSuEn4tCtPesgOnqSQN"
+        },
+        {
+          "name": "Shanti Blanco",
+          "url": "https://open.spotify.com/artist/7ddwT1YBsclpDNyh1uFLwu"
+        }
+      ],
+      "date_added": "2023-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151250,
+      "name": "SUEDE",
+      "url": "https://open.spotify.com/track/1sQsyk9XZ5iXVTKpzyxZEq"
+    },
+    {
+      "album": {
         "name": "Sun Ra, Lonnie Liston & Marvin Gaye",
         "url": "https://open.spotify.com/album/6XAjiBNivr94zSXsbFBW1V"
       },
@@ -17280,6 +17542,24 @@
     {
       "album": {
         "name": "Toxic",
+        "url": "https://open.spotify.com/album/524OeuH5dnlefyR9XmbZUC"
+      },
+      "artists": [
+        {
+          "name": "B.Baby",
+          "url": "https://open.spotify.com/artist/0uuwZ3aC3dhl9e7J66Ag13"
+        }
+      ],
+      "date_added": "2023-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168947,
+      "name": "Toxic",
+      "url": "https://open.spotify.com/track/323HQ2RY3vEcvovOwm3vNq"
+    },
+    {
+      "album": {
+        "name": "Toxic",
         "url": "https://open.spotify.com/album/4pEbojIaPy0CNmmQUy6ZRS"
       },
       "artists": [
@@ -17948,6 +18228,28 @@
       "duration_ms": 166949,
       "name": "Vad Du Vill",
       "url": "https://open.spotify.com/track/0AOYvRGNSt8uJOUEA2VAYB"
+    },
+    {
+      "album": {
+        "name": "VAD DU VILL",
+        "url": "https://open.spotify.com/album/0aMwJ8VY7pe4tfB7sJBxEX"
+      },
+      "artists": [
+        {
+          "name": "Aleksej",
+          "url": "https://open.spotify.com/artist/3EQED8IPx0z2uR0H28Sc5J"
+        },
+        {
+          "name": "Steph K",
+          "url": "https://open.spotify.com/artist/4vmK9BYZz3j7jEWiHQJU6G"
+        }
+      ],
+      "date_added": "2023-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144502,
+      "name": "VAD DU VILL",
+      "url": "https://open.spotify.com/track/4bfCJ74E4NaxgH9ZU99j6w"
     },
     {
       "album": {

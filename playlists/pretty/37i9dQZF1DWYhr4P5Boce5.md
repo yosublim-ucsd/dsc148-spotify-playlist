@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYhr4P5Boce5.md) - [plain]
 
 > Songs of faith, hope, and the greatest of these, love.
 
-[Spotify](https://open.spotify.com/user/spotify) - 194,299 likes - 100 songs - 5 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 194,351 likes - 100 songs - 5 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,15 +50,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYhr4P5Boce5.md) - [plain]
 | 40 | [Amor De Telenovela](https://open.spotify.com/track/0LzGLoA82RIcGUEfbGQe47) | [Indiomar](https://open.spotify.com/artist/4fdudhIT1GNNvtvM309dyM), [Musiko](https://open.spotify.com/artist/4A03xFVufDpEqOY9fQlFue), [Townix](https://open.spotify.com/artist/4iSbdQ17ULxAugOFOC5Bx2) | [Dosis](https://open.spotify.com/album/13hrTUToYPH3tdDitTnSbR) | 4:10 |
 | 41 | [Love Song](https://open.spotify.com/track/3DY5GOnDQXNKP0fNXcnW2U) | [one sonic society](https://open.spotify.com/artist/2PmYKBQgsjegT3k5C6pkqW), [Elle Limebear](https://open.spotify.com/artist/7MCV4p3QmcYDMTfiE0ZWMD) | [Love Song](https://open.spotify.com/album/5nC6gYCU6danOkYAkngJa9) | 3:34 |
 | 42 | [This Is Love](https://open.spotify.com/track/5fqaHMgEw4LWZvcD3Em2UH) | [Stars Go Dim](https://open.spotify.com/artist/4O5EDKGt6YC5IXkOArVqk3) | [This Is Love](https://open.spotify.com/album/4aExnwAGR6qJ8wgMmVf4VY) | 3:11 |
-| 43 | [Love Me Like I Am](https://open.spotify.com/track/1VksnwIqgJrUEIDXVunSzt) | [for KING & COUNTRY](https://open.spotify.com/artist/3sDbKMebVH2VYcRSl7u1VC) | [Love Me Like I Am](https://open.spotify.com/album/7gfQHc3E7j48nKf70PBeJR) | 3:04 |
-| 44 | [This Kind Of Love](https://open.spotify.com/track/2Z47f6DeKm1xIDmPPn2sGS) | [Jonathan Traylor](https://open.spotify.com/artist/7KcmdvVaaO7Y0pmHQjOEFo) | [This Kind Of Love](https://open.spotify.com/album/3dgbGR5rtJVxAiZy0U4rQI) | 3:04 |
+| 43 | [This Kind Of Love](https://open.spotify.com/track/2Z47f6DeKm1xIDmPPn2sGS) | [Jonathan Traylor](https://open.spotify.com/artist/7KcmdvVaaO7Y0pmHQjOEFo) | [This Kind Of Love](https://open.spotify.com/album/3dgbGR5rtJVxAiZy0U4rQI) | 3:04 |
+| 44 | [Love Me Like I Am](https://open.spotify.com/track/1VksnwIqgJrUEIDXVunSzt) | [for KING & COUNTRY](https://open.spotify.com/artist/3sDbKMebVH2VYcRSl7u1VC) | [Love Me Like I Am](https://open.spotify.com/album/7gfQHc3E7j48nKf70PBeJR) | 3:04 |
 | 45 | [Safe](https://open.spotify.com/track/33AwnZl99mjxjNjMIbflbH) | [Antoine Bradford](https://open.spotify.com/artist/1FYE37rOHOrxO1lHAQUkCl) | [Safe](https://open.spotify.com/album/3PD9s1GRpT7ahstwgF6AlX) | 4:30 |
 | 46 | [Angel](https://open.spotify.com/track/7qO1aodqqumMLHFybn0AvP) | [Casting Crowns](https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r) | [Come To The Well](https://open.spotify.com/album/6PU9khplTO06aCcMBkoGze) | 3:44 |
-| 47 | [The Marriage Prayer](https://open.spotify.com/track/2no4dAQQt46aVsrlkriysB) | [John Waller](https://open.spotify.com/artist/2Px7jTtwBH0nHI1fYSYuaL) | [As for Me and My House](https://open.spotify.com/album/6fcO3Z9ItTTxCHQzCcNFc2) | 4:05 |
-| 48 | [Faith Hope Love Repeat](https://open.spotify.com/track/67OCXWC93GcixTk3wYvX9c) | [Brandon Heath](https://open.spotify.com/artist/0W7wIkmxoGQbnZYn2z2sLj) | [Faith Hope Love Repeat](https://open.spotify.com/album/4lpaCFD1YtduxtT2W1jlNb) | 4:01 |
+| 47 | [Faith Hope Love Repeat](https://open.spotify.com/track/67OCXWC93GcixTk3wYvX9c) | [Brandon Heath](https://open.spotify.com/artist/0W7wIkmxoGQbnZYn2z2sLj) | [Faith Hope Love Repeat](https://open.spotify.com/album/4lpaCFD1YtduxtT2W1jlNb) | 4:01 |
+| 48 | [The Marriage Prayer](https://open.spotify.com/track/2no4dAQQt46aVsrlkriysB) | [John Waller](https://open.spotify.com/artist/2Px7jTtwBH0nHI1fYSYuaL) | [As for Me and My House](https://open.spotify.com/album/6fcO3Z9ItTTxCHQzCcNFc2) | 4:05 |
 | 49 | [Love in the West](https://open.spotify.com/track/5ttoyQ1sdU1IuE1nd5MD4l) | [Uninvtd](https://open.spotify.com/artist/0q66IFlScb4fDO2sgZSrfZ), [S A I N T](https://open.spotify.com/artist/2D6H3aOR8udBwn4oaC4LtN) | [Love in the West](https://open.spotify.com/album/0Oe6yZLlmHs90r6pLAuYBH) | 2:18 |
-| 50 | [Heaven \(All Around You\) \- Acoustic](https://open.spotify.com/track/5b4U8K8IdHj8Z9kW5dxNNR) | [Apollo LTD](https://open.spotify.com/artist/2H3EMYFS69dhMmrX9JTkZp) | [Out of Body](https://open.spotify.com/album/0YdHJH25YY6ZzOOpCJyVms) | 3:39 |
-| 51 | [Adam & Eve'n](https://open.spotify.com/track/5HyfmKnhMKrR9VYXvr30WY) | [Sir & Saint](https://open.spotify.com/artist/5QViTcKEFqMplW00ZtIsVL), [Sir the Baptist](https://open.spotify.com/artist/5kksjhM7NuvwdbisN8smAg), [Saint Ashleey](https://open.spotify.com/artist/1YlTWm8RugjwYRWrjnYvv5) | [Adam & Eve'n](https://open.spotify.com/album/3ZRHNyVin17Cq2zMHfiSSk) | 2:05 |
+| 50 | [Adam & Eve'n](https://open.spotify.com/track/5HyfmKnhMKrR9VYXvr30WY) | [Sir & Saint](https://open.spotify.com/artist/5QViTcKEFqMplW00ZtIsVL), [Sir the Baptist](https://open.spotify.com/artist/5kksjhM7NuvwdbisN8smAg), [Saint Ashleey](https://open.spotify.com/artist/1YlTWm8RugjwYRWrjnYvv5) | [Adam & Eve'n](https://open.spotify.com/album/3ZRHNyVin17Cq2zMHfiSSk) | 2:05 |
+| 51 | [Heaven \(All Around You\) \- Acoustic](https://open.spotify.com/track/5b4U8K8IdHj8Z9kW5dxNNR) | [Apollo LTD](https://open.spotify.com/artist/2H3EMYFS69dhMmrX9JTkZp) | [Out of Body](https://open.spotify.com/album/0YdHJH25YY6ZzOOpCJyVms) | 3:39 |
 | 52 | [Choose You](https://open.spotify.com/track/2rUNWlmyWYeViuhqb4QQc6) | [Aaron Cole](https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr) | [Choose You](https://open.spotify.com/album/1KoVTcluwzGUCo1xMPqqZA) | 3:05 |
 | 53 | [Till I Found You](https://open.spotify.com/track/1var9mNP1RLTlu8qVDji0F) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [Till I Found You](https://open.spotify.com/album/5i8yKKrI71gqHdXxYafYAo) | 4:00 |
 | 54 | [This Loving](https://open.spotify.com/track/1Trsjxw3OfwzIVsSuItgIa) | [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT), [Johnny Drille](https://open.spotify.com/artist/4f8vvLN5Rt3WszqOqVR9e9) | [This Loving](https://open.spotify.com/album/49HeWMNhVUSt8AolqOBBxr) | 2:36 |
@@ -90,9 +90,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYhr4P5Boce5.md) - [plain]
 | 80 | [Without Your Love](https://open.spotify.com/track/3iAbaEO9MYGn2tcRxNEG8l) | [Colorvault](https://open.spotify.com/artist/15r1ip4y85i0oDNt03C4Er), [A.Bishai](https://open.spotify.com/artist/3OLnkIUoCzl7AiVY9WAEuM) | [Without Your Love](https://open.spotify.com/album/6BuV4qg8WtUZ5Zqr8rx2wC) | 2:59 |
 | 81 | [Together](https://open.spotify.com/track/3BWvRBAgmWS7v7hgZnSn9S) | [Steven Curtis Chapman](https://open.spotify.com/artist/3vcFXwLEUdfWMu7gTQKyot) | [The Glorious Unfolding](https://open.spotify.com/album/48saUjxC3qdrxuEKa5jiGZ) | 4:02 |
 | 82 | [SHE](https://open.spotify.com/track/0QOkTTHHu298cUM38FZTd8) | [Jor'dan Armstrong](https://open.spotify.com/artist/2s0Vf0XkLyHCQfyvFDnTi8) | [SHE](https://open.spotify.com/album/02f36Pk33LsVh9tkAyZobH) | 3:44 |
-| 83 | [Wait For You](https://open.spotify.com/track/6KcldlI0awLZXnw0fQ8eA6) | [Marie Love](https://open.spotify.com/artist/5K9zbxy7ezNSd4Jj5DUR2h) | [Wait For You](https://open.spotify.com/album/6HQYLXyQt5ZZtuUGIkBbjw) | 2:12 |
-| 84 | [Lemonade](https://open.spotify.com/track/2j0vxSpM9hsHi8MDmKnmfs) | [Chris Rice](https://open.spotify.com/artist/0vD3f3r69jBB1bL6VWnGM2) | [What A Heart Is Beating For](https://open.spotify.com/album/077nEk4a0GRzvBuMphKmYs) | 3:03 |
-| 85 | [Dear Future Wife \- Acoustic](https://open.spotify.com/track/2MIbcBadDFvf6WQghSFekw) | [Cade Thompson](https://open.spotify.com/artist/0Rta8FGUn7TLTsFiumWoC4) | [Dear Future Wife \(Acoustic\)](https://open.spotify.com/album/1VKgGEv8tyviSxzw181xxg) | 2:48 |
+| 83 | [Dear Future Wife \- Acoustic](https://open.spotify.com/track/2MIbcBadDFvf6WQghSFekw) | [Cade Thompson](https://open.spotify.com/artist/0Rta8FGUn7TLTsFiumWoC4) | [Dear Future Wife \(Acoustic\)](https://open.spotify.com/album/1VKgGEv8tyviSxzw181xxg) | 2:48 |
+| 84 | [Wait For You](https://open.spotify.com/track/6KcldlI0awLZXnw0fQ8eA6) | [Marie Love](https://open.spotify.com/artist/5K9zbxy7ezNSd4Jj5DUR2h) | [Wait For You](https://open.spotify.com/album/6HQYLXyQt5ZZtuUGIkBbjw) | 2:12 |
+| 85 | [Lemonade](https://open.spotify.com/track/2j0vxSpM9hsHi8MDmKnmfs) | [Chris Rice](https://open.spotify.com/artist/0vD3f3r69jBB1bL6VWnGM2) | [What A Heart Is Beating For](https://open.spotify.com/album/077nEk4a0GRzvBuMphKmYs) | 3:03 |
 | 86 | [If Only](https://open.spotify.com/track/3LJr3TanDnPqDHXWzet4Yi) | [Million Miles](https://open.spotify.com/artist/3exZi47Gf3ZlXjKbvLp5Wm) | [If Only](https://open.spotify.com/album/5GOzSUBrOb6PaXHMQQixr2) | 3:27 |
 | 87 | [Feel The Waters](https://open.spotify.com/track/4aIqxQgeNADC1RmI3uYdxb) | [Sarah Reeves](https://open.spotify.com/artist/2vGA5qCDLZGW6exRQgKfLL) | [Easy Never Needed You](https://open.spotify.com/album/0osacoD5uOk9ogjVxHbjUF) | 4:04 |
 | 88 | [Praying For You](https://open.spotify.com/track/0A5aXD5e3bYFn9oAWv9iCT) | [Mandisa](https://open.spotify.com/artist/0YPElKYjOD1sofFCtLdYj3) | [Overcomer](https://open.spotify.com/album/3KKjqSX6UNMUdFgMtYaNj4) | 3:34 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYhr4P5Boce5.md) - [plain]
 | 99 | [Love Somebody](https://open.spotify.com/track/0MLw3p1PWOsbDMwSzV8Gw0) | [Mandisa](https://open.spotify.com/artist/0YPElKYjOD1sofFCtLdYj3) | [True Beauty](https://open.spotify.com/album/5UKGADu3H0tfBHo2iE38re) | 3:48 |
 | 100 | [Dear Future Husband](https://open.spotify.com/track/3gkBkVc6QhkeObBHIPpGjh) | [Cecily](https://open.spotify.com/artist/4hryzFSB8IYFIaBba9jUvT) | [Dear Future Husband](https://open.spotify.com/album/0rO72rgU5JGTTuCjZfgrB9) | 4:28 |
 
-Snapshot ID: `MCwyMDRhODZlYTY2YWRjYzZkNTNhNTUyNWQ0NWMwYzkwNWYzMDVkNTY5`
+Snapshot ID: `MCw3MWVkMzZmNDNiM2ZjZTYzNWIxN2M4OTc5MWNjYjdiMTdhMDRmMGFm`

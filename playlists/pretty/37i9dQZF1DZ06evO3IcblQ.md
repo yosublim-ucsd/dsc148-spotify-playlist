@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3IcblQ.md) - [plain]
 
 > This is Pennywise\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,778 likes - 50 songs - 2 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,787 likes - 50 songs - 2 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3IcblQ.md) - [plain]
 | 49 | [Time to Burn \- 2005 Remaster](https://open.spotify.com/track/7DAK5vw0n5xIXEbQqNjB49) | [Pennywise](https://open.spotify.com/artist/6i0KVTOvm96T55mbp742ks) | [Unknown Road \(2005 Remaster\)](https://open.spotify.com/album/0l680tJFfovpGiaaFC6a4H) | 2:16 |
 | 50 | [Knocked Down](https://open.spotify.com/track/71cOsh18fSgRWZeYxHnAiA) | [Pennywise](https://open.spotify.com/artist/6i0KVTOvm96T55mbp742ks) | [The Fuse](https://open.spotify.com/album/0Cd9rjTDRiEieNwTfBuPLP) | 2:43 |
 
-Snapshot ID: `MjgwNzIyMDUsMDAwMDAwMDA3OTI3ZmUxNjY0MzUzNjcyM2Y4MjAzMDFjN2RmYzViMQ==`
+Snapshot ID: `MjgwNzM1MzIsMDAwMDAwMDBhMTE0NzE1ZmYwZTNkYzM3MmY5YTFjN2Y4MzE2ZGI2MQ==`

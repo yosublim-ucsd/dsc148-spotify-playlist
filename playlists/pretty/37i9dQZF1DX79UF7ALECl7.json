@@ -1,12 +1,12 @@
 {
   "description": "Have some chill house with your coffee",
-  "num_followers": 117579,
+  "num_followers": 117606,
   "original_name": "Coffee Club",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4NGY4MTMwODZjODQ0ZjNiMzBjMzY4ZTE0NTAyY2FkNWY2YjMwMzA2",
+  "snapshot_id": "MCwwNzdkNTkzMWNmMzZmNWY0YWY4MzZjZjIyMDk3N2M2MzE2YWY4NjE5",
   "tracks": [
     {
       "added_at": "2023-05-11 22:00:00",
@@ -51,22 +51,6 @@
     {
       "added_at": "2023-05-11 22:00:00",
       "album": {
-        "name": "Luminous",
-        "url": "https://open.spotify.com/album/2nTexLdtmJEpfFSftYb7C0"
-      },
-      "artists": [
-        {
-          "name": "Andr\u00e9 Aguado",
-          "url": "https://open.spotify.com/artist/6USxBSmx4wkhLW61dT1DgC"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "Through The Night",
-      "url": "https://open.spotify.com/track/6cC17xWrGqAFqJ3DNBOrqp"
-    },
-    {
-      "added_at": "2023-05-11 22:00:00",
-      "album": {
         "name": "Hey Papi (Kraak & Smaak Remix)",
         "url": "https://open.spotify.com/album/38vxMgf3OrvZfbHOfazb9s"
       },
@@ -83,6 +67,22 @@
       "duration_ms": 278240,
       "name": "Hey Papi - Kraak & Smaak Remix",
       "url": "https://open.spotify.com/track/0lMtUoIPD99Vn4YImDAI6X"
+    },
+    {
+      "added_at": "2023-05-11 22:00:00",
+      "album": {
+        "name": "Luminous",
+        "url": "https://open.spotify.com/album/2nTexLdtmJEpfFSftYb7C0"
+      },
+      "artists": [
+        {
+          "name": "Andr\u00e9 Aguado",
+          "url": "https://open.spotify.com/artist/6USxBSmx4wkhLW61dT1DgC"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "Through The Night",
+      "url": "https://open.spotify.com/track/6cC17xWrGqAFqJ3DNBOrqp"
     },
     {
       "added_at": "2023-05-11 22:00:00",
@@ -239,22 +239,6 @@
     {
       "added_at": "2023-05-11 22:00:00",
       "album": {
-        "name": "Endurance / Heart",
-        "url": "https://open.spotify.com/album/62QvEUJymDy8luwuJQFALW"
-      },
-      "artists": [
-        {
-          "name": "Road Kahan",
-          "url": "https://open.spotify.com/artist/3YR1VNcG6ld2CHMSkia9Xs"
-        }
-      ],
-      "duration_ms": 200126,
-      "name": "Endurance",
-      "url": "https://open.spotify.com/track/2PEQZNjNKN4GEsUbo3yD8d"
-    },
-    {
-      "added_at": "2023-05-11 22:00:00",
-      "album": {
         "name": "Now You're Gone",
         "url": "https://open.spotify.com/album/2wYWPmW2sxUo047gtSg8Fg"
       },
@@ -267,6 +251,22 @@
       "duration_ms": 144000,
       "name": "Now You're Gone",
       "url": "https://open.spotify.com/track/32ivmY7bC6SU6j6mYgWTJW"
+    },
+    {
+      "added_at": "2023-05-11 22:00:00",
+      "album": {
+        "name": "Endurance / Heart",
+        "url": "https://open.spotify.com/album/62QvEUJymDy8luwuJQFALW"
+      },
+      "artists": [
+        {
+          "name": "Road Kahan",
+          "url": "https://open.spotify.com/artist/3YR1VNcG6ld2CHMSkia9Xs"
+        }
+      ],
+      "duration_ms": 200126,
+      "name": "Endurance",
+      "url": "https://open.spotify.com/track/2PEQZNjNKN4GEsUbo3yD8d"
     },
     {
       "added_at": "2023-05-11 22:00:00",
@@ -323,6 +323,22 @@
     {
       "added_at": "2023-05-11 22:00:00",
       "album": {
+        "name": "Chill Executive Officer (CEO), Vol. 20 [Selected by Maykel Piron]",
+        "url": "https://open.spotify.com/album/5WOoYzx48dwyrW0KQquytu"
+      },
+      "artists": [
+        {
+          "name": "ARTO",
+          "url": "https://open.spotify.com/artist/3T70Dxzh4RhkD3jPvkRLxn"
+        }
+      ],
+      "duration_ms": 158181,
+      "name": "Para Mi",
+      "url": "https://open.spotify.com/track/2RBzADQT2i31c0Au59HnP8"
+    },
+    {
+      "added_at": "2023-05-11 22:00:00",
+      "album": {
         "name": "Shallow Breathing",
         "url": "https://open.spotify.com/album/3LW5ZXeG9mkNmVEoEVPee1"
       },
@@ -339,22 +355,6 @@
       "duration_ms": 163298,
       "name": "Shallow Breathing",
       "url": "https://open.spotify.com/track/24vGrrym5luFslhM3Uc9Eb"
-    },
-    {
-      "added_at": "2023-05-11 22:00:00",
-      "album": {
-        "name": "Chill Executive Officer (CEO), Vol. 20 [Selected by Maykel Piron]",
-        "url": "https://open.spotify.com/album/5WOoYzx48dwyrW0KQquytu"
-      },
-      "artists": [
-        {
-          "name": "ARTO",
-          "url": "https://open.spotify.com/artist/3T70Dxzh4RhkD3jPvkRLxn"
-        }
-      ],
-      "duration_ms": 158181,
-      "name": "Para Mi",
-      "url": "https://open.spotify.com/track/2RBzADQT2i31c0Au59HnP8"
     },
     {
       "added_at": "2023-05-11 22:00:00",
@@ -407,22 +407,6 @@
     {
       "added_at": "2023-05-11 22:00:00",
       "album": {
-        "name": "Someday",
-        "url": "https://open.spotify.com/album/6dR05ScZ3MY5FUaURLYLt1"
-      },
-      "artists": [
-        {
-          "name": "Aydin Genchsoy",
-          "url": "https://open.spotify.com/artist/0or5imSn4LjbK0dBtmYyVK"
-        }
-      ],
-      "duration_ms": 264000,
-      "name": "Someday",
-      "url": "https://open.spotify.com/track/1wiX35MJoiLaMrFx2Peg5O"
-    },
-    {
-      "added_at": "2023-05-11 22:00:00",
-      "album": {
         "name": "Finds You Well",
         "url": "https://open.spotify.com/album/2w487BAUXgly5he0U5TU2p"
       },
@@ -435,22 +419,6 @@
       "duration_ms": 230400,
       "name": "Groove 32",
       "url": "https://open.spotify.com/track/6658u0EPu6u0x9r5A4qT4h"
-    },
-    {
-      "added_at": "2023-05-11 22:00:00",
-      "album": {
-        "name": "Serenity",
-        "url": "https://open.spotify.com/album/5X2ams2raZNJC4wnz1zbev"
-      },
-      "artists": [
-        {
-          "name": "Alex Lustig",
-          "url": "https://open.spotify.com/artist/5oLxJrktO7kOEJANS6nkZB"
-        }
-      ],
-      "duration_ms": 182564,
-      "name": "Serenity",
-      "url": "https://open.spotify.com/track/5XFuyKyEC69ZsP9FocyMsw"
     },
     {
       "added_at": "2023-05-11 22:00:00",
@@ -471,6 +439,22 @@
     {
       "added_at": "2023-05-11 22:00:00",
       "album": {
+        "name": "Someday",
+        "url": "https://open.spotify.com/album/6dR05ScZ3MY5FUaURLYLt1"
+      },
+      "artists": [
+        {
+          "name": "Aydin Genchsoy",
+          "url": "https://open.spotify.com/artist/0or5imSn4LjbK0dBtmYyVK"
+        }
+      ],
+      "duration_ms": 264000,
+      "name": "Someday",
+      "url": "https://open.spotify.com/track/1wiX35MJoiLaMrFx2Peg5O"
+    },
+    {
+      "added_at": "2023-05-11 22:00:00",
+      "album": {
         "name": "Forms / Objects",
         "url": "https://open.spotify.com/album/25f72Bhjb3GOERoGTNAnMu"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 386508,
       "name": "Objects",
       "url": "https://open.spotify.com/track/4FxDO7idxRd2P8sri4gNif"
+    },
+    {
+      "added_at": "2023-05-11 22:00:00",
+      "album": {
+        "name": "Serenity",
+        "url": "https://open.spotify.com/album/5X2ams2raZNJC4wnz1zbev"
+      },
+      "artists": [
+        {
+          "name": "Alex Lustig",
+          "url": "https://open.spotify.com/artist/5oLxJrktO7kOEJANS6nkZB"
+        }
+      ],
+      "duration_ms": 182564,
+      "name": "Serenity",
+      "url": "https://open.spotify.com/track/5XFuyKyEC69ZsP9FocyMsw"
     },
     {
       "added_at": "2023-05-11 22:00:00",
@@ -579,22 +579,6 @@
     {
       "added_at": "2023-05-11 22:00:00",
       "album": {
-        "name": "Toledo",
-        "url": "https://open.spotify.com/album/4faNjrs2415Xr3euT2LUl4"
-      },
-      "artists": [
-        {
-          "name": "Luca Musto",
-          "url": "https://open.spotify.com/artist/2TPJeKBObMEOKpR33TYgvh"
-        }
-      ],
-      "duration_ms": 301909,
-      "name": "What We Witness",
-      "url": "https://open.spotify.com/track/1rFith6EdgNr3tcuIjlY1q"
-    },
-    {
-      "added_at": "2023-05-11 22:00:00",
-      "album": {
         "name": "Blue Moon",
         "url": "https://open.spotify.com/album/0BpjFdJHvqDSvzilqt4sxv"
       },
@@ -611,6 +595,22 @@
       "duration_ms": 145454,
       "name": "Blue Moon",
       "url": "https://open.spotify.com/track/28uMxZ5bHuAB0FWFPV8Zee"
+    },
+    {
+      "added_at": "2023-05-11 22:00:00",
+      "album": {
+        "name": "Toledo",
+        "url": "https://open.spotify.com/album/4faNjrs2415Xr3euT2LUl4"
+      },
+      "artists": [
+        {
+          "name": "Luca Musto",
+          "url": "https://open.spotify.com/artist/2TPJeKBObMEOKpR33TYgvh"
+        }
+      ],
+      "duration_ms": 301909,
+      "name": "What We Witness",
+      "url": "https://open.spotify.com/track/1rFith6EdgNr3tcuIjlY1q"
     },
     {
       "added_at": "2023-05-11 22:00:00",
@@ -715,22 +715,6 @@
     {
       "added_at": "2023-05-11 22:00:00",
       "album": {
-        "name": "Deneb Cygni",
-        "url": "https://open.spotify.com/album/4E8xASCYvVo4vBkuESnpOP"
-      },
-      "artists": [
-        {
-          "name": "Takuya Yamashita",
-          "url": "https://open.spotify.com/artist/4zpl6dfVHVNbqAIk6huc2v"
-        }
-      ],
-      "duration_ms": 453559,
-      "name": "Deneb Cygni - Original Mix",
-      "url": "https://open.spotify.com/track/7w3TeiGbzbfvPE192wpKdX"
-    },
-    {
-      "added_at": "2023-05-11 22:00:00",
-      "album": {
         "name": "Arturia",
         "url": "https://open.spotify.com/album/1x6NXAtpBEYXOLLsB78cI2"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 331960,
       "name": "Company",
       "url": "https://open.spotify.com/track/5rUwnnAkh9XcZsLt5hdgoF"
+    },
+    {
+      "added_at": "2023-05-11 22:00:00",
+      "album": {
+        "name": "Deneb Cygni",
+        "url": "https://open.spotify.com/album/4E8xASCYvVo4vBkuESnpOP"
+      },
+      "artists": [
+        {
+          "name": "Takuya Yamashita",
+          "url": "https://open.spotify.com/artist/4zpl6dfVHVNbqAIk6huc2v"
+        }
+      ],
+      "duration_ms": 453559,
+      "name": "Deneb Cygni - Original Mix",
+      "url": "https://open.spotify.com/track/7w3TeiGbzbfvPE192wpKdX"
     },
     {
       "added_at": "2023-05-11 22:00:00",
@@ -775,26 +775,6 @@
     {
       "added_at": "2023-05-11 22:00:00",
       "album": {
-        "name": "Speak Like the Hurricane",
-        "url": "https://open.spotify.com/album/1S6lVG4Fe19Y1XN6qBewrF"
-      },
-      "artists": [
-        {
-          "name": "Marc Bianco",
-          "url": "https://open.spotify.com/artist/6XD63w7shze8nTGtkm32Y3"
-        },
-        {
-          "name": "Folamour",
-          "url": "https://open.spotify.com/artist/6pJY5At9SiMpAOBrw9YosS"
-        }
-      ],
-      "duration_ms": 417391,
-      "name": "Pelicanism",
-      "url": "https://open.spotify.com/track/6LC4enBqq1ywrDXlr0pnG1"
-    },
-    {
-      "added_at": "2023-05-11 22:00:00",
-      "album": {
         "name": "You Just Danced",
         "url": "https://open.spotify.com/album/17d0PBIogEhv6lGBTgYXKV"
       },
@@ -811,6 +791,26 @@
       "duration_ms": 452611,
       "name": "You Just Danced",
       "url": "https://open.spotify.com/track/0deFjGhPrCgPUqsgZxU8i5"
+    },
+    {
+      "added_at": "2023-05-11 22:00:00",
+      "album": {
+        "name": "Speak Like the Hurricane",
+        "url": "https://open.spotify.com/album/1S6lVG4Fe19Y1XN6qBewrF"
+      },
+      "artists": [
+        {
+          "name": "Marc Bianco",
+          "url": "https://open.spotify.com/artist/6XD63w7shze8nTGtkm32Y3"
+        },
+        {
+          "name": "Folamour",
+          "url": "https://open.spotify.com/artist/6pJY5At9SiMpAOBrw9YosS"
+        }
+      ],
+      "duration_ms": 417391,
+      "name": "Pelicanism",
+      "url": "https://open.spotify.com/track/6LC4enBqq1ywrDXlr0pnG1"
     },
     {
       "added_at": "2023-05-11 22:00:00",
@@ -907,26 +907,6 @@
     {
       "added_at": "2023-05-11 22:00:00",
       "album": {
-        "name": "Aftergold (5 Year Anniversary)",
-        "url": "https://open.spotify.com/album/5QMSCiDAPdRfU27M7N7Ro2"
-      },
-      "artists": [
-        {
-          "name": "Big Wild",
-          "url": "https://open.spotify.com/artist/0PxzGnCYBpSuaI49OR94cA"
-        },
-        {
-          "name": "obli",
-          "url": "https://open.spotify.com/artist/5bVwCv4C9KQXdUVTCVSjy4"
-        }
-      ],
-      "duration_ms": 228573,
-      "name": "Aftergold - obli Remix",
-      "url": "https://open.spotify.com/track/2HmehsWbm1mZDIxe50Jpod"
-    },
-    {
-      "added_at": "2023-05-11 22:00:00",
-      "album": {
         "name": "Infinity (The Remixes)",
         "url": "https://open.spotify.com/album/2CpBDYbLROR0mt45dswpiD"
       },
@@ -943,6 +923,26 @@
       "duration_ms": 176356,
       "name": "Infinity (SLCT Remix) (Instrumental Version)",
       "url": "https://open.spotify.com/track/3XZu6dyTtjOlvskuMfJPTM"
+    },
+    {
+      "added_at": "2023-05-11 22:00:00",
+      "album": {
+        "name": "Aftergold (5 Year Anniversary)",
+        "url": "https://open.spotify.com/album/5QMSCiDAPdRfU27M7N7Ro2"
+      },
+      "artists": [
+        {
+          "name": "Big Wild",
+          "url": "https://open.spotify.com/artist/0PxzGnCYBpSuaI49OR94cA"
+        },
+        {
+          "name": "obli",
+          "url": "https://open.spotify.com/artist/5bVwCv4C9KQXdUVTCVSjy4"
+        }
+      ],
+      "duration_ms": 228573,
+      "name": "Aftergold - obli Remix",
+      "url": "https://open.spotify.com/track/2HmehsWbm1mZDIxe50Jpod"
     },
     {
       "added_at": "2023-05-11 22:00:00",
@@ -1059,22 +1059,18 @@
     {
       "added_at": "2023-05-11 22:00:00",
       "album": {
-        "name": "Do This",
-        "url": "https://open.spotify.com/album/4z82w201UQTrLSxaEHKrgl"
+        "name": "Eyes on You",
+        "url": "https://open.spotify.com/album/5vobo9lKoWbJpwyZAnp0Kl"
       },
       "artists": [
         {
-          "name": "Keljet",
-          "url": "https://open.spotify.com/artist/0aF0pIALJDBCfFgqiTaK2g"
-        },
-        {
-          "name": "Hyara",
-          "url": "https://open.spotify.com/artist/1Q0xi0vgcIdvtRdx2qtfi0"
+          "name": "Mike D' Jais",
+          "url": "https://open.spotify.com/artist/1ekYM3tHN9Dt7HAUoHclwq"
         }
       ],
-      "duration_ms": 231593,
-      "name": "Do This",
-      "url": "https://open.spotify.com/track/5zrISuhxhXCp4Tnm6gjWZl"
+      "duration_ms": 207500,
+      "name": "Eyes on You",
+      "url": "https://open.spotify.com/track/66EbSUqia2l6aOJvSKpOW7"
     },
     {
       "added_at": "2023-05-11 22:00:00",
@@ -1099,18 +1095,22 @@
     {
       "added_at": "2023-05-11 22:00:00",
       "album": {
-        "name": "Eyes on You",
-        "url": "https://open.spotify.com/album/5vobo9lKoWbJpwyZAnp0Kl"
+        "name": "Do This",
+        "url": "https://open.spotify.com/album/4z82w201UQTrLSxaEHKrgl"
       },
       "artists": [
         {
-          "name": "Mike D' Jais",
-          "url": "https://open.spotify.com/artist/1ekYM3tHN9Dt7HAUoHclwq"
+          "name": "Keljet",
+          "url": "https://open.spotify.com/artist/0aF0pIALJDBCfFgqiTaK2g"
+        },
+        {
+          "name": "Hyara",
+          "url": "https://open.spotify.com/artist/1Q0xi0vgcIdvtRdx2qtfi0"
         }
       ],
-      "duration_ms": 207500,
-      "name": "Eyes on You",
-      "url": "https://open.spotify.com/track/66EbSUqia2l6aOJvSKpOW7"
+      "duration_ms": 231593,
+      "name": "Do This",
+      "url": "https://open.spotify.com/track/5zrISuhxhXCp4Tnm6gjWZl"
     },
     {
       "added_at": "2023-05-11 22:00:00",
@@ -1355,22 +1355,6 @@
     {
       "added_at": "2023-05-11 22:00:00",
       "album": {
-        "name": "Wax Casting",
-        "url": "https://open.spotify.com/album/1S6wyTKwsHD4heZDkpm9hx"
-      },
-      "artists": [
-        {
-          "name": "Mr. Woodcole",
-          "url": "https://open.spotify.com/artist/38AUTCj4EteaGRYKghL9qg"
-        }
-      ],
-      "duration_ms": 195971,
-      "name": "Blue Orchid",
-      "url": "https://open.spotify.com/track/5S5BANAZW6Z3w7QNieTDLm"
-    },
-    {
-      "added_at": "2023-05-11 22:00:00",
-      "album": {
         "name": "Moraine",
         "url": "https://open.spotify.com/album/47dCDllqthOKWSyMw3yLQb"
       },
@@ -1383,6 +1367,22 @@
       "duration_ms": 237947,
       "name": "Moraine",
       "url": "https://open.spotify.com/track/68gG8lazvms6X0uC6MWmFz"
+    },
+    {
+      "added_at": "2023-05-11 22:00:00",
+      "album": {
+        "name": "Wax Casting",
+        "url": "https://open.spotify.com/album/1S6wyTKwsHD4heZDkpm9hx"
+      },
+      "artists": [
+        {
+          "name": "Mr. Woodcole",
+          "url": "https://open.spotify.com/artist/38AUTCj4EteaGRYKghL9qg"
+        }
+      ],
+      "duration_ms": 195971,
+      "name": "Blue Orchid",
+      "url": "https://open.spotify.com/track/5S5BANAZW6Z3w7QNieTDLm"
     },
     {
       "added_at": "2023-05-11 22:00:00",

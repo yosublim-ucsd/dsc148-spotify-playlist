@@ -4,7 +4,7 @@
 
 > Certi amori bruciano di più\. Cover: Geolier
 
-124 songs - 6 hr 29 min
+126 songs - 6 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,7 @@
 | [3D](https://open.spotify.com/track/1OMlasYCHuDJ6aVJeL4Lnr) | [Vale pain](https://open.spotify.com/artist/1ZDu0fOcpCIjDwyl2cvk08) | [PAIN](https://open.spotify.com/album/41grqs0jslpaOFto4UghCq) | 3:30 | 2022-10-20 | 2022-11-21 |
 | [A TE](https://open.spotify.com/track/28XXZdpUgIHIHlibEL3Pmu) | [Il Ghost](https://open.spotify.com/artist/2tOGpIgNsnDk6BxqFU2vCX) | [A TE](https://open.spotify.com/album/3l52RCkfjUrcK9fXI5fodv) | 2:04 | 2022-07-07 | 2022-09-30 |
 | [AIRFORCE \(feat\. Madame\)](https://open.spotify.com/track/4MTlIhliwFJnTfbEoctDyB) | [Massimo Pericolo](https://open.spotify.com/artist/1El4YQA8oCXX7ynFSxRTFq), [Crookers](https://open.spotify.com/artist/3o1cwVQfiDWafhYA02k13C), [Madame](https://open.spotify.com/artist/1vgQksyJ0IVz8y9XerEOy3) | [SOLO TUTTO](https://open.spotify.com/album/7I9kWuzlJwWCtP0jDgqpcw) | 3:40 | 2022-05-03 |  |
+| [ALBICOCCA \- lolita](https://open.spotify.com/track/1Bkq1PP6QZrZcpAyEnIKDy) | [Emis Killa](https://open.spotify.com/artist/6FtwCmLY6L1sqvjaQ2lV6G), [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27) | [Effetto notte](https://open.spotify.com/album/39wuRno08Rl0Jsse2kCHga) | 2:42 | 2023-05-18 |  |
 | [ALIBI](https://open.spotify.com/track/1zfszqoisdKWCIfFToaMHi) | [Lazza](https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM) | [SIRIO](https://open.spotify.com/album/2v7KXdLrb81rGL9G7jwcjF) | 2:58 | 2022-05-03 |  |
 | [Altamente Mia](https://open.spotify.com/track/0hReXAWKqGzHBYnw0S1CXu) | [Bresh](https://open.spotify.com/artist/7FeObngbQ0GY3SojNwKdKn), [SHUNE](https://open.spotify.com/artist/5YV5crRpcdknHgEzystZHr) | [Altamente Mia](https://open.spotify.com/album/2DsrAMSZE08IvsVnluai0A) | 2:52 | 2023-04-06 |  |
 | [Angelina Jolie](https://open.spotify.com/track/0tD4EXZRm1JGDYWtKYFLWK) | [Bresh](https://open.spotify.com/artist/7FeObngbQ0GY3SojNwKdKn), [SHUNE](https://open.spotify.com/artist/5YV5crRpcdknHgEzystZHr) | [Angelina Jolie](https://open.spotify.com/album/6sE81aPV364gLYtUBwgzwR) | 2:49 | 2022-05-03 |  |
@@ -127,6 +128,7 @@
 | [USCITO DI GALERA](https://open.spotify.com/track/01DXwNf1GzEJkYTbXgL0eb) | [Lazza](https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM) | [SIRIO](https://open.spotify.com/album/2v7KXdLrb81rGL9G7jwcjF) | 2:52 | 2022-05-03 |  |
 | [Veleno](https://open.spotify.com/track/5b5LAmQZx3mKmhL7PQGegi) | [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27) | [GVESVS](https://open.spotify.com/album/1fONeOwepyow1t4dUw0RcL) | 3:14 | 2022-05-03 |  |
 | [Vida Mala \(feat\. Medy\)](https://open.spotify.com/track/0ejEtuL3QsV1xvnHysuoVp) | [Vale Pain](https://open.spotify.com/artist/1ZDu0fOcpCIjDwyl2cvk08), [Medy](https://open.spotify.com/artist/3lbFUmlaNMa9ZVSabLlkhn) | [Vida Mala \(feat\. Medy\)](https://open.spotify.com/album/4UbeTkpOQKC95anCPKd7q0) | 2:34 | 2023-05-04 |  |
+| [VISCERALE \- closer](https://open.spotify.com/track/7bgJm5Z7EpvXRMdysiUjCj) | [Emis Killa](https://open.spotify.com/artist/6FtwCmLY6L1sqvjaQ2lV6G), [Rizzo](https://open.spotify.com/artist/2ALJBMyhbGODOEpstHfEqN) | [Effetto notte](https://open.spotify.com/album/39wuRno08Rl0Jsse2kCHga) | 3:04 | 2023-05-18 |  |
 | [Vogl Sul A Te](https://open.spotify.com/track/4JajIgqHJAV0Neboj76fqG) | [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s) | [Emanuele](https://open.spotify.com/album/0ezPP4vUJkMXitFq8oWxyl) | 3:05 | 2022-05-03 |  |
 | [X CASO \(feat\. Sfera Ebbasta\)](https://open.spotify.com/track/2E32Pv8w20r6ZH4oFecxOf) | [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s), [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz) | [IL CORAGGIO DEI BAMBINI](https://open.spotify.com/album/5FAlSQMZ4j8pPa4sp0ZB4K) | 3:35 | 2023-01-05 |  |
 | [YAMAHA](https://open.spotify.com/track/3z2P3UbxsrQI9LVDFi7dfk) | [Rondodasosa](https://open.spotify.com/artist/61bQ4nwIioR8w6PGxzpyY3), [Nko](https://open.spotify.com/artist/4kTOsBwxhA2Sn4PSs7PqnN) | [TRENCHES BABY](https://open.spotify.com/album/4TxafR0eswtfPenLrBLyhx) | 3:07 | 2022-11-03 | 2023-02-08 |

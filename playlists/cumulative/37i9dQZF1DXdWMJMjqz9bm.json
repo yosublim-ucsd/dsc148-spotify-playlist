@@ -3340,6 +3340,24 @@
     {
       "album": {
         "name": "fvcked up",
+        "url": "https://open.spotify.com/album/6Gt5V1Es9aUa6VUfObR1K0"
+      },
+      "artists": [
+        {
+          "name": "Arden Jones",
+          "url": "https://open.spotify.com/artist/3mMogqf2JyBUQZxFZlC79w"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112500,
+      "name": "fvcked up",
+      "url": "https://open.spotify.com/track/08oZlYytwsxbfeCuRm17oF"
+    },
+    {
+      "album": {
+        "name": "fvcked up",
         "url": "https://open.spotify.com/album/5UWUE2F3kGOZmsMB3w6fjU"
       },
       "artists": [
@@ -3350,7 +3368,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 112500,
       "name": "fvcked up",
       "url": "https://open.spotify.com/track/2UDId466CGX4BuZGwW0uiJ"

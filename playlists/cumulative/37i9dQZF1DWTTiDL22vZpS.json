@@ -302,7 +302,7 @@
       ],
       "date_added": "2023-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 156763,
       "name": "Da Funk",
       "url": "https://open.spotify.com/track/3y5hMwMAne5VD8635DBpj0"
@@ -434,6 +434,24 @@
       "duration_ms": 227658,
       "name": "Eso Que Me Das",
       "url": "https://open.spotify.com/track/3xOZWx6fJc65Z4R2Hrq06N"
+    },
+    {
+      "album": {
+        "name": "Esperando",
+        "url": "https://open.spotify.com/album/65LpgCwSciU5Ykq6zqDeJZ"
+      },
+      "artists": [
+        {
+          "name": "Human Lemonade",
+          "url": "https://open.spotify.com/artist/79fWU9PhoGDDgvlIdDM8AC"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283250,
+      "name": "Esperando",
+      "url": "https://open.spotify.com/track/7jYFjn2xbxwJrNxj4Wkr0S"
     },
     {
       "album": {

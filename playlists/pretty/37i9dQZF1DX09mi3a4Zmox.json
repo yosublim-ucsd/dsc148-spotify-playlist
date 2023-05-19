@@ -1,12 +1,12 @@
 {
   "description": "M\u00fasica para enamorarse.",
-  "num_followers": 4082142,
+  "num_followers": 4082769,
   "original_name": "Baladas Rom\u00e1nticas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5MGVmMWVjOWNiYzliYTFkNDE0YWQ1Y2VmNjA1ZTkyMTg5ZDEwMjBm",
+  "snapshot_id": "MCxjODhmMGFhNjJhYjg2NDdkZDRhODBjNTQ4M2E2MmM3ZDg2Y2Y5ZGQ3",
   "tracks": [
     {
       "added_at": "2023-05-12 04:01:00",
@@ -551,22 +551,6 @@
     {
       "added_at": "2023-05-12 04:01:00",
       "album": {
-        "name": "Amar Es Combatir",
-        "url": "https://open.spotify.com/album/6XrpkEuQyfilUHMduKDeuB"
-      },
-      "artists": [
-        {
-          "name": "Man\u00e1",
-          "url": "https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz"
-        }
-      ],
-      "duration_ms": 264720,
-      "name": "Bendita Tu Luz",
-      "url": "https://open.spotify.com/track/2JBs412fpVUuzIaIp3CyIs"
-    },
-    {
-      "added_at": "2023-05-12 04:01:00",
-      "album": {
         "name": "Secuencia",
         "url": "https://open.spotify.com/album/4kMpYWQfF4f4iXLhopgk3w"
       },
@@ -579,6 +563,22 @@
       "duration_ms": 221200,
       "name": "Sabes",
       "url": "https://open.spotify.com/track/37miw1ff4zH0LDuFrBvZ4i"
+    },
+    {
+      "added_at": "2023-05-12 04:01:00",
+      "album": {
+        "name": "Amar Es Combatir",
+        "url": "https://open.spotify.com/album/6XrpkEuQyfilUHMduKDeuB"
+      },
+      "artists": [
+        {
+          "name": "Man\u00e1",
+          "url": "https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz"
+        }
+      ],
+      "duration_ms": 264720,
+      "name": "Bendita Tu Luz",
+      "url": "https://open.spotify.com/track/2JBs412fpVUuzIaIp3CyIs"
     },
     {
       "added_at": "2023-05-12 04:01:00",
@@ -599,22 +599,6 @@
     {
       "added_at": "2023-05-12 04:01:00",
       "album": {
-        "name": "Bemaste",
-        "url": "https://open.spotify.com/album/0A3QuRFlfoqdw8sIH9C9OO"
-      },
-      "artists": [
-        {
-          "name": "Tiago PZK",
-          "url": "https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1"
-        }
-      ],
-      "duration_ms": 144428,
-      "name": "Bemaste",
-      "url": "https://open.spotify.com/track/1caKQ2Nqtr1eoczaB83cUz"
-    },
-    {
-      "added_at": "2023-05-12 04:01:00",
-      "album": {
         "name": "ADMV",
         "url": "https://open.spotify.com/album/6wUJI0qgwrwiYJhFr53Gaa"
       },
@@ -627,6 +611,22 @@
       "duration_ms": 193699,
       "name": "ADMV",
       "url": "https://open.spotify.com/track/3eJMSq78dDaFb7VvhNFnq6"
+    },
+    {
+      "added_at": "2023-05-12 04:01:00",
+      "album": {
+        "name": "Bemaste",
+        "url": "https://open.spotify.com/album/0A3QuRFlfoqdw8sIH9C9OO"
+      },
+      "artists": [
+        {
+          "name": "Tiago PZK",
+          "url": "https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1"
+        }
+      ],
+      "duration_ms": 144428,
+      "name": "Bemaste",
+      "url": "https://open.spotify.com/track/1caKQ2Nqtr1eoczaB83cUz"
     },
     {
       "added_at": "2023-05-12 04:01:00",
@@ -1103,26 +1103,6 @@
     {
       "added_at": "2023-05-12 04:01:00",
       "album": {
-        "name": "FANTAS\u00cdA",
-        "url": "https://open.spotify.com/album/5Zyj0zwOksGYLbLAZOaC31"
-      },
-      "artists": [
-        {
-          "name": "Sebastian Yatra",
-          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
-        },
-        {
-          "name": "Camilo",
-          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
-        }
-      ],
-      "duration_ms": 221386,
-      "name": "En Guerra",
-      "url": "https://open.spotify.com/track/6dJPqP0gHP6iAZuIk1njBs"
-    },
-    {
-      "added_at": "2023-05-12 04:01:00",
-      "album": {
         "name": "Mesa Para Dos",
         "url": "https://open.spotify.com/album/1ZGHMTg7kh6TRqDRkJyEHO"
       },
@@ -1139,6 +1119,26 @@
       "duration_ms": 238628,
       "name": "Titanic",
       "url": "https://open.spotify.com/track/7F1oLjSguGBvqsJLal7Rad"
+    },
+    {
+      "added_at": "2023-05-12 04:01:00",
+      "album": {
+        "name": "FANTAS\u00cdA",
+        "url": "https://open.spotify.com/album/5Zyj0zwOksGYLbLAZOaC31"
+      },
+      "artists": [
+        {
+          "name": "Sebastian Yatra",
+          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
+        },
+        {
+          "name": "Camilo",
+          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
+        }
+      ],
+      "duration_ms": 221386,
+      "name": "En Guerra",
+      "url": "https://open.spotify.com/track/6dJPqP0gHP6iAZuIk1njBs"
     },
     {
       "added_at": "2023-05-12 04:01:00",
@@ -1211,6 +1211,26 @@
     {
       "added_at": "2023-05-12 04:01:00",
       "album": {
+        "name": "Contigo",
+        "url": "https://open.spotify.com/album/6fv6tD2JlEMZaFf6tF0GcH"
+      },
+      "artists": [
+        {
+          "name": "Sebastian Yatra",
+          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
+        },
+        {
+          "name": "Pablo Albor\u00e1n",
+          "url": "https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50"
+        }
+      ],
+      "duration_ms": 208600,
+      "name": "Contigo",
+      "url": "https://open.spotify.com/track/55CJCECkPMd9ZhGr4JOKn7"
+    },
+    {
+      "added_at": "2023-05-12 04:01:00",
+      "album": {
         "name": "Negroklaro",
         "url": "https://open.spotify.com/album/3coPqLJEOG5cahTVTRrWYM"
       },
@@ -1255,26 +1275,6 @@
       "duration_ms": 215400,
       "name": "La Nave del Olvido",
       "url": "https://open.spotify.com/track/2pOyQcM91HM3tZEiwZCraG"
-    },
-    {
-      "added_at": "2023-05-12 04:01:00",
-      "album": {
-        "name": "Contigo",
-        "url": "https://open.spotify.com/album/6fv6tD2JlEMZaFf6tF0GcH"
-      },
-      "artists": [
-        {
-          "name": "Sebastian Yatra",
-          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
-        },
-        {
-          "name": "Pablo Albor\u00e1n",
-          "url": "https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50"
-        }
-      ],
-      "duration_ms": 208600,
-      "name": "Contigo",
-      "url": "https://open.spotify.com/track/55CJCECkPMd9ZhGr4JOKn7"
     },
     {
       "added_at": "2023-05-12 04:01:00",
@@ -1455,22 +1455,6 @@
     {
       "added_at": "2023-05-12 04:01:00",
       "album": {
-        "name": "Mis Canciones De La Web",
-        "url": "https://open.spotify.com/album/5Cpv2FIiZHAGFrYHtVTDNP"
-      },
-      "artists": [
-        {
-          "name": "Griss Romero",
-          "url": "https://open.spotify.com/artist/36eqG3jM0MhxTR7Cuw7BQA"
-        }
-      ],
-      "duration_ms": 195946,
-      "name": "Cuando Tu Me Besas",
-      "url": "https://open.spotify.com/track/626F53aUbrz0lMzYZOJ3RT"
-    },
-    {
-      "added_at": "2023-05-12 04:01:00",
-      "album": {
         "name": "Mesa Para Dos",
         "url": "https://open.spotify.com/album/1ZGHMTg7kh6TRqDRkJyEHO"
       },
@@ -1487,6 +1471,22 @@
       "duration_ms": 206674,
       "name": "Lo Que en Ti Veo",
       "url": "https://open.spotify.com/track/2cLOSF54zDP52z6ma8mivK"
+    },
+    {
+      "added_at": "2023-05-12 04:01:00",
+      "album": {
+        "name": "Mis Canciones De La Web",
+        "url": "https://open.spotify.com/album/5Cpv2FIiZHAGFrYHtVTDNP"
+      },
+      "artists": [
+        {
+          "name": "Griss Romero",
+          "url": "https://open.spotify.com/artist/36eqG3jM0MhxTR7Cuw7BQA"
+        }
+      ],
+      "duration_ms": 195946,
+      "name": "Cuando Tu Me Besas",
+      "url": "https://open.spotify.com/track/626F53aUbrz0lMzYZOJ3RT"
     },
     {
       "added_at": "2023-05-12 04:01:00",

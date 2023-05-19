@@ -1,12 +1,12 @@
 {
   "description": "Music that created modern indie as we know it. Cover: MGMT ",
-  "num_followers": 408422,
+  "num_followers": 408635,
   "original_name": "The 2000s Indie Scene",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmMWI5OWY3YjM0ODQ5NTYzOGJmZTZiNDNlNDFjMjVmYTRhZmE2MWQ0",
+  "snapshot_id": "MCwxN2FhOWQzNTY1NDA4OGUyZGYwOTNkYjdmOTk4NmI3NGUzZTdmNWU3",
   "tracks": [
     {
       "added_at": "2023-01-18 01:04:44",
@@ -299,22 +299,6 @@
     {
       "added_at": "2023-01-18 01:04:44",
       "album": {
-        "name": "Veckatimest",
-        "url": "https://open.spotify.com/album/3XQMgEnLQnOMkFaJA9w6sZ"
-      },
-      "artists": [
-        {
-          "name": "Grizzly Bear",
-          "url": "https://open.spotify.com/artist/2Jv5eshHtLycR6R8KQCdc4"
-        }
-      ],
-      "duration_ms": 246213,
-      "name": "Two Weeks",
-      "url": "https://open.spotify.com/track/04uR2cdkgiaLIzebPcs25m"
-    },
-    {
-      "added_at": "2023-01-18 01:04:44",
-      "album": {
         "name": "Vampire Weekend",
         "url": "https://open.spotify.com/album/7n8NJkGKAl2np1bXiRn0CY"
       },
@@ -327,6 +311,22 @@
       "duration_ms": 137760,
       "name": "A-Punk",
       "url": "https://open.spotify.com/track/3AydAydLzyyZutA0375XIz"
+    },
+    {
+      "added_at": "2023-01-18 01:04:44",
+      "album": {
+        "name": "Veckatimest",
+        "url": "https://open.spotify.com/album/3XQMgEnLQnOMkFaJA9w6sZ"
+      },
+      "artists": [
+        {
+          "name": "Grizzly Bear",
+          "url": "https://open.spotify.com/artist/2Jv5eshHtLycR6R8KQCdc4"
+        }
+      ],
+      "duration_ms": 246213,
+      "name": "Two Weeks",
+      "url": "https://open.spotify.com/track/04uR2cdkgiaLIzebPcs25m"
     },
     {
       "added_at": "2023-01-18 01:04:44",
@@ -671,22 +671,6 @@
     {
       "added_at": "2023-01-18 01:04:44",
       "album": {
-        "name": "Youth Novels",
-        "url": "https://open.spotify.com/album/65ain97ltDAxldCiOcBtHo"
-      },
-      "artists": [
-        {
-          "name": "Lykke Li",
-          "url": "https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in"
-        }
-      ],
-      "duration_ms": 273426,
-      "name": "Little Bit",
-      "url": "https://open.spotify.com/track/0Ps4Eh6SQjeLnubbCsQTDD"
-    },
-    {
-      "added_at": "2023-01-18 01:04:44",
-      "album": {
         "name": "Robbers & Cowards",
         "url": "https://open.spotify.com/album/1LTbo93CjLo48yNP8Ysaz5"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 218786,
       "name": "Hang Me Up To Dry",
       "url": "https://open.spotify.com/track/3IXRdLsQib8m0hBbQpe7T8"
+    },
+    {
+      "added_at": "2023-01-18 01:04:44",
+      "album": {
+        "name": "Youth Novels",
+        "url": "https://open.spotify.com/album/65ain97ltDAxldCiOcBtHo"
+      },
+      "artists": [
+        {
+          "name": "Lykke Li",
+          "url": "https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in"
+        }
+      ],
+      "duration_ms": 273426,
+      "name": "Little Bit",
+      "url": "https://open.spotify.com/track/0Ps4Eh6SQjeLnubbCsQTDD"
     },
     {
       "added_at": "2023-01-18 01:04:44",
@@ -1079,22 +1079,6 @@
     {
       "added_at": "2023-01-18 01:04:44",
       "album": {
-        "name": "Heart It Races (Cover Version)",
-        "url": "https://open.spotify.com/album/5H7DXLYdOFUa0KD62HqCvd"
-      },
-      "artists": [
-        {
-          "name": "Dr. Dog",
-          "url": "https://open.spotify.com/artist/4mLJ3XfOM5FPjSAWdQ2Jk7"
-        }
-      ],
-      "duration_ms": 231880,
-      "name": "Heart It Races - Cover Version",
-      "url": "https://open.spotify.com/track/0SyOHG2V9CgMSlebbnyoLJ"
-    },
-    {
-      "added_at": "2023-01-18 01:04:44",
-      "album": {
         "name": "xx",
         "url": "https://open.spotify.com/album/6tzQKMilI02kn1lzLklDI8"
       },
@@ -1107,6 +1091,22 @@
       "duration_ms": 201946,
       "name": "Crystalised",
       "url": "https://open.spotify.com/track/33R3swWziWYmnDYvZqcZVS"
+    },
+    {
+      "added_at": "2023-01-18 01:04:44",
+      "album": {
+        "name": "Heart It Races (Cover Version)",
+        "url": "https://open.spotify.com/album/5H7DXLYdOFUa0KD62HqCvd"
+      },
+      "artists": [
+        {
+          "name": "Dr. Dog",
+          "url": "https://open.spotify.com/artist/4mLJ3XfOM5FPjSAWdQ2Jk7"
+        }
+      ],
+      "duration_ms": 231880,
+      "name": "Heart It Races - Cover Version",
+      "url": "https://open.spotify.com/track/0SyOHG2V9CgMSlebbnyoLJ"
     },
     {
       "added_at": "2023-01-18 01:04:44",
@@ -1127,22 +1127,6 @@
     {
       "added_at": "2023-01-18 01:04:44",
       "album": {
-        "name": "Welcome To The Monkey House",
-        "url": "https://open.spotify.com/album/2SS8nVmmgJqJhRuYGboIOx"
-      },
-      "artists": [
-        {
-          "name": "The Dandy Warhols",
-          "url": "https://open.spotify.com/artist/7siPLyFwRFYQkKgWKJ5Sod"
-        }
-      ],
-      "duration_ms": 199960,
-      "name": "We Used To Be Friends",
-      "url": "https://open.spotify.com/track/7hpFYWL3cw5m4y70cce7Zb"
-    },
-    {
-      "added_at": "2023-01-18 01:04:44",
-      "album": {
         "name": "Eyelid Movies",
         "url": "https://open.spotify.com/album/6smJTxDxrnxi6fPfFWYSQV"
       },
@@ -1155,6 +1139,22 @@
       "duration_ms": 249066,
       "name": "When I'm Small",
       "url": "https://open.spotify.com/track/1U3BASc885MPCYOzYwOIpO"
+    },
+    {
+      "added_at": "2023-01-18 01:04:44",
+      "album": {
+        "name": "Welcome To The Monkey House",
+        "url": "https://open.spotify.com/album/2SS8nVmmgJqJhRuYGboIOx"
+      },
+      "artists": [
+        {
+          "name": "The Dandy Warhols",
+          "url": "https://open.spotify.com/artist/7siPLyFwRFYQkKgWKJ5Sod"
+        }
+      ],
+      "duration_ms": 199960,
+      "name": "We Used To Be Friends",
+      "url": "https://open.spotify.com/track/7hpFYWL3cw5m4y70cce7Zb"
     },
     {
       "added_at": "2023-01-18 01:04:44",

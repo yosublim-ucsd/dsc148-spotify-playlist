@@ -1,12 +1,12 @@
 {
   "description": "Obscure, dreamy and nostalgic synth sounds from all over the world. Cover: Mareux",
-  "num_followers": 143333,
+  "num_followers": 143829,
   "original_name": "Darkwave",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjYjliNTUxYmVlNjc1YmYxYThkODJjYWZlMTNhOTdiYTdjYmEwOWU1",
+  "snapshot_id": "MCxlNWM3NmNiNGZkODY0MGU2ZDNhZjAwZDViNGY5YjZmY2UzYTdjNThm",
   "tracks": [
     {
       "added_at": "2023-05-05 04:01:00",
@@ -983,6 +983,22 @@
     {
       "added_at": "2023-04-28 06:00:00",
       "album": {
+        "name": "Paradise",
+        "url": "https://open.spotify.com/album/2IjroX0bM8miBvBTqDRsKJ"
+      },
+      "artists": [
+        {
+          "name": "Voyage",
+          "url": "https://open.spotify.com/artist/6aAXBSjwLUEukyVDhOuKNO"
+        }
+      ],
+      "duration_ms": 335089,
+      "name": "Paradise",
+      "url": "https://open.spotify.com/track/4nQWhotmcrNRfOuu8EfmjF"
+    },
+    {
+      "added_at": "2023-04-28 06:00:00",
+      "album": {
         "name": "Iteration",
         "url": "https://open.spotify.com/album/6x43T5KNDP5e0c4hV8x3Go"
       },
@@ -1043,22 +1059,6 @@
       "duration_ms": 212750,
       "name": "Honey",
       "url": "https://open.spotify.com/track/3ECXjRnXpSMKXskP4TLsTA"
-    },
-    {
-      "added_at": "2023-04-28 06:00:00",
-      "album": {
-        "name": "Paradise",
-        "url": "https://open.spotify.com/album/2IjroX0bM8miBvBTqDRsKJ"
-      },
-      "artists": [
-        {
-          "name": "Voyage",
-          "url": "https://open.spotify.com/artist/6aAXBSjwLUEukyVDhOuKNO"
-        }
-      ],
-      "duration_ms": 335089,
-      "name": "Paradise",
-      "url": "https://open.spotify.com/track/4nQWhotmcrNRfOuu8EfmjF"
     },
     {
       "added_at": "2023-04-28 06:00:00",
@@ -1179,18 +1179,18 @@
     {
       "added_at": "2023-04-28 06:00:00",
       "album": {
-        "name": "Sensation",
-        "url": "https://open.spotify.com/album/3aPHTY2sYQqEvQW4LPswJf"
+        "name": "American Nightmare",
+        "url": "https://open.spotify.com/album/6zaXhrtWGMMJP4ty8XyMiT"
       },
       "artists": [
         {
-          "name": "\u271d\u271d\u271d (Crosses)",
-          "url": "https://open.spotify.com/artist/3gPZCcrc8KG2RuVl3rtbQ2"
+          "name": "Vestron Vulture",
+          "url": "https://open.spotify.com/artist/0TdyFEXGty3cRKFCI1CJPr"
         }
       ],
-      "duration_ms": 276480,
-      "name": "Sensation",
-      "url": "https://open.spotify.com/track/1sykjjK9zNsQMof272cHHj"
+      "duration_ms": 189474,
+      "name": "American Nightmare",
+      "url": "https://open.spotify.com/track/4i6snrjpdYSv5PBB7wH6qk"
     },
     {
       "added_at": "2023-04-28 06:00:00",
@@ -1211,18 +1211,18 @@
     {
       "added_at": "2023-04-28 06:00:00",
       "album": {
-        "name": "American Nightmare",
-        "url": "https://open.spotify.com/album/6zaXhrtWGMMJP4ty8XyMiT"
+        "name": "Sensation",
+        "url": "https://open.spotify.com/album/3aPHTY2sYQqEvQW4LPswJf"
       },
       "artists": [
         {
-          "name": "Vestron Vulture",
-          "url": "https://open.spotify.com/artist/0TdyFEXGty3cRKFCI1CJPr"
+          "name": "\u271d\u271d\u271d (Crosses)",
+          "url": "https://open.spotify.com/artist/3gPZCcrc8KG2RuVl3rtbQ2"
         }
       ],
-      "duration_ms": 189474,
-      "name": "American Nightmare",
-      "url": "https://open.spotify.com/track/4i6snrjpdYSv5PBB7wH6qk"
+      "duration_ms": 276480,
+      "name": "Sensation",
+      "url": "https://open.spotify.com/track/1sykjjK9zNsQMof272cHHj"
     },
     {
       "added_at": "2023-04-28 06:00:00",
@@ -1271,6 +1271,22 @@
       "duration_ms": 203413,
       "name": "Into Those Woods",
       "url": "https://open.spotify.com/track/2SzgiyJM5k3MUeSAXPF4Nf"
+    },
+    {
+      "added_at": "2023-04-28 06:00:00",
+      "album": {
+        "name": "Allude",
+        "url": "https://open.spotify.com/album/0kgsQdGtnR0WPxkdHF5Gpi"
+      },
+      "artists": [
+        {
+          "name": "Voyage",
+          "url": "https://open.spotify.com/artist/6aAXBSjwLUEukyVDhOuKNO"
+        }
+      ],
+      "duration_ms": 351878,
+      "name": "Allude",
+      "url": "https://open.spotify.com/track/39GNrhMrtompGnn05genwA"
     },
     {
       "added_at": "2023-04-28 06:00:00",
@@ -1355,22 +1371,6 @@
     {
       "added_at": "2023-04-28 06:00:00",
       "album": {
-        "name": "Allude",
-        "url": "https://open.spotify.com/album/0kgsQdGtnR0WPxkdHF5Gpi"
-      },
-      "artists": [
-        {
-          "name": "Voyage",
-          "url": "https://open.spotify.com/artist/6aAXBSjwLUEukyVDhOuKNO"
-        }
-      ],
-      "duration_ms": 351878,
-      "name": "Allude",
-      "url": "https://open.spotify.com/track/39GNrhMrtompGnn05genwA"
-    },
-    {
-      "added_at": "2023-04-28 06:00:00",
-      "album": {
         "name": "I",
         "url": "https://open.spotify.com/album/53wzm4ZmFim5ZvBYdpD87P"
       },
@@ -1383,22 +1383,6 @@
       "duration_ms": 242844,
       "name": "\u0422\u0435\u0431\u044f \u041d\u0435\u0442 \u0420\u044f\u0434\u043e\u043c",
       "url": "https://open.spotify.com/track/2RgnOTU4RYx7VNXXLAUJCJ"
-    },
-    {
-      "added_at": "2023-04-28 06:00:00",
-      "album": {
-        "name": "Good Vibrations",
-        "url": "https://open.spotify.com/album/7mMg251qbwAugLZdRNzEyw"
-      },
-      "artists": [
-        {
-          "name": "Flawless Issues",
-          "url": "https://open.spotify.com/artist/6Arj1L7vuPVkK3foh4PQmU"
-        }
-      ],
-      "duration_ms": 180793,
-      "name": "Good Vibrations",
-      "url": "https://open.spotify.com/track/3srmkK9xMGp32huIyjWtcA"
     },
     {
       "added_at": "2023-05-05 04:01:00",
@@ -1435,6 +1419,22 @@
     {
       "added_at": "2023-04-28 06:00:00",
       "album": {
+        "name": "Good Vibrations",
+        "url": "https://open.spotify.com/album/7mMg251qbwAugLZdRNzEyw"
+      },
+      "artists": [
+        {
+          "name": "Flawless Issues",
+          "url": "https://open.spotify.com/artist/6Arj1L7vuPVkK3foh4PQmU"
+        }
+      ],
+      "duration_ms": 180793,
+      "name": "Good Vibrations",
+      "url": "https://open.spotify.com/track/3srmkK9xMGp32huIyjWtcA"
+    },
+    {
+      "added_at": "2023-04-28 06:00:00",
+      "album": {
         "name": "Redline",
         "url": "https://open.spotify.com/album/0A9H0uAwdTCWNofsksO2fX"
       },
@@ -1451,22 +1451,6 @@
     {
       "added_at": "2023-04-28 06:00:00",
       "album": {
-        "name": "Tocsin",
-        "url": "https://open.spotify.com/album/2wsPRUsIQt3atWXuRYJ3tv"
-      },
-      "artists": [
-        {
-          "name": "Xmal Deutschland",
-          "url": "https://open.spotify.com/artist/5bQ4kqxuAV7tBI7dSs3sB1"
-        }
-      ],
-      "duration_ms": 285160,
-      "name": "Incubus Succubus II",
-      "url": "https://open.spotify.com/track/4Sv0g2vAsMCo3lHpGDeyBb"
-    },
-    {
-      "added_at": "2023-04-28 06:00:00",
-      "album": {
         "name": "Cherish The Light Years",
         "url": "https://open.spotify.com/album/3tn29g1LKcdGcOJLcegl1k"
       },
@@ -1479,6 +1463,22 @@
       "duration_ms": 337573,
       "name": "Confetti",
       "url": "https://open.spotify.com/track/1JeLLdviGvhLvAXdz4QoX0"
+    },
+    {
+      "added_at": "2023-04-28 06:00:00",
+      "album": {
+        "name": "Tocsin",
+        "url": "https://open.spotify.com/album/2wsPRUsIQt3atWXuRYJ3tv"
+      },
+      "artists": [
+        {
+          "name": "Xmal Deutschland",
+          "url": "https://open.spotify.com/artist/5bQ4kqxuAV7tBI7dSs3sB1"
+        }
+      ],
+      "duration_ms": 285160,
+      "name": "Incubus Succubus II",
+      "url": "https://open.spotify.com/track/4Sv0g2vAsMCo3lHpGDeyBb"
     },
     {
       "added_at": "2023-04-28 06:00:00",
@@ -1615,18 +1615,18 @@
     {
       "added_at": "2023-04-28 06:00:00",
       "album": {
-        "name": "Dead City",
-        "url": "https://open.spotify.com/album/1t0vPQTn7dQ4N4H54eP2Dd"
+        "name": "Services",
+        "url": "https://open.spotify.com/album/4uj1BNKsrRaeis2VjnVfvU"
       },
       "artists": [
         {
-          "name": "Donbor",
-          "url": "https://open.spotify.com/artist/56mXBoiHYV9QEJxHS5TPk3"
+          "name": "Tempers",
+          "url": "https://open.spotify.com/artist/0yIDrFWDGrnVk3FPLJmsX2"
         }
       ],
-      "duration_ms": 296727,
-      "name": "Against the Law",
-      "url": "https://open.spotify.com/track/7FNtKxDAV3vcApMdwC7acS"
+      "duration_ms": 250211,
+      "name": "Strange Harvest",
+      "url": "https://open.spotify.com/track/3tpNnUzPHhN6kZfHUnoKfV"
     }
   ],
   "unique_name": "Darkwave",

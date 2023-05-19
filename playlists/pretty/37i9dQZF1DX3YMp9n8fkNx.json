@@ -1,12 +1,12 @@
 {
   "description": "The essential pop rock songs from the 1990s. Cover: Matchbox Twenty",
-  "num_followers": 1241444,
+  "num_followers": 1241816,
   "original_name": "90s Pop Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjYTAzN2IwOWJkODg1ZTg2YmQ5NTFiZDIwODQwNzk1OGM5MjgzOTdk",
+  "snapshot_id": "MCxjYTkzMWRjMWUxZjgyYzhjZjI1ZWY2MGU5YzFjNDJiMTRhOGRjY2U4",
   "tracks": [
     {
       "added_at": "2023-01-18 21:25:04",
@@ -235,22 +235,6 @@
     {
       "added_at": "2023-01-18 21:25:04",
       "album": {
-        "name": "Blind Melon",
-        "url": "https://open.spotify.com/album/55jET4vDioHHd7ztX7OX3h"
-      },
-      "artists": [
-        {
-          "name": "Blind Melon",
-          "url": "https://open.spotify.com/artist/5sD1ZLf2dGQ9gQ3YJl1eAd"
-        }
-      ],
-      "duration_ms": 217106,
-      "name": "No Rain",
-      "url": "https://open.spotify.com/track/6txWz9UapYHVxEd7dDIHXT"
-    },
-    {
-      "added_at": "2023-01-18 21:25:04",
-      "album": {
         "name": "Resident Alien",
         "url": "https://open.spotify.com/album/6vOmA5zWeFeKvuRBxaO59A"
       },
@@ -263,6 +247,22 @@
       "duration_ms": 299506,
       "name": "In the Meantime",
       "url": "https://open.spotify.com/track/02lTDOxHeXTHsdwXoz6lpC"
+    },
+    {
+      "added_at": "2023-01-18 21:25:04",
+      "album": {
+        "name": "Blind Melon",
+        "url": "https://open.spotify.com/album/55jET4vDioHHd7ztX7OX3h"
+      },
+      "artists": [
+        {
+          "name": "Blind Melon",
+          "url": "https://open.spotify.com/artist/5sD1ZLf2dGQ9gQ3YJl1eAd"
+        }
+      ],
+      "duration_ms": 217106,
+      "name": "No Rain",
+      "url": "https://open.spotify.com/track/6txWz9UapYHVxEd7dDIHXT"
     },
     {
       "added_at": "2023-01-18 21:25:04",
@@ -379,22 +379,6 @@
     {
       "added_at": "2023-01-18 21:25:04",
       "album": {
-        "name": "20th Century Masters: The Millennium Collection: Best Of Semisonic",
-        "url": "https://open.spotify.com/album/4JDBx5wQ82jb8PjLYPBP8L"
-      },
-      "artists": [
-        {
-          "name": "Semisonic",
-          "url": "https://open.spotify.com/artist/1TqQi97nqeiuOJrIFv5Sw0"
-        }
-      ],
-      "duration_ms": 274160,
-      "name": "Closing Time",
-      "url": "https://open.spotify.com/track/1A5V1sxyCLpKJezp75tUXn"
-    },
-    {
-      "added_at": "2023-01-18 21:25:04",
-      "album": {
         "name": "A Place In The Sun",
         "url": "https://open.spotify.com/album/3w5Uz3q4SJze14P60ZChsp"
       },
@@ -407,6 +391,22 @@
       "duration_ms": 169026,
       "name": "My Own Worst Enemy",
       "url": "https://open.spotify.com/track/33iv3wnGMrrDugd7GBso1z"
+    },
+    {
+      "added_at": "2023-01-18 21:25:04",
+      "album": {
+        "name": "20th Century Masters: The Millennium Collection: Best Of Semisonic",
+        "url": "https://open.spotify.com/album/4JDBx5wQ82jb8PjLYPBP8L"
+      },
+      "artists": [
+        {
+          "name": "Semisonic",
+          "url": "https://open.spotify.com/artist/1TqQi97nqeiuOJrIFv5Sw0"
+        }
+      ],
+      "duration_ms": 274160,
+      "name": "Closing Time",
+      "url": "https://open.spotify.com/track/1A5V1sxyCLpKJezp75tUXn"
     },
     {
       "added_at": "2023-01-18 21:25:04",
@@ -1515,22 +1515,6 @@
     {
       "added_at": "2023-01-18 21:25:04",
       "album": {
-        "name": "1977",
-        "url": "https://open.spotify.com/album/6WPJ2wQLi4SskpTkmofkr9"
-      },
-      "artists": [
-        {
-          "name": "Ash",
-          "url": "https://open.spotify.com/artist/2evydP72Z45DouM4uMGsIE"
-        }
-      ],
-      "duration_ms": 210200,
-      "name": "Girl From Mars",
-      "url": "https://open.spotify.com/track/1mppNVGh4ipsxIWUUA0QiH"
-    },
-    {
-      "added_at": "2023-01-18 21:25:04",
-      "album": {
         "name": "Odelay",
         "url": "https://open.spotify.com/album/1Pus5h1qGedCn4CtOuPVtp"
       },
@@ -1543,6 +1527,22 @@
       "duration_ms": 195440,
       "name": "Devils Haircut",
       "url": "https://open.spotify.com/track/47OEl1PttAFxNEf9KRmx23"
+    },
+    {
+      "added_at": "2023-01-18 21:25:04",
+      "album": {
+        "name": "1977",
+        "url": "https://open.spotify.com/album/6WPJ2wQLi4SskpTkmofkr9"
+      },
+      "artists": [
+        {
+          "name": "Ash",
+          "url": "https://open.spotify.com/artist/2evydP72Z45DouM4uMGsIE"
+        }
+      ],
+      "duration_ms": 210200,
+      "name": "Girl From Mars",
+      "url": "https://open.spotify.com/track/1mppNVGh4ipsxIWUUA0QiH"
     },
     {
       "added_at": "2023-01-18 21:25:04",

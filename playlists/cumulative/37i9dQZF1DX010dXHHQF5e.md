@@ -4,7 +4,7 @@
 
 > Deja que estas sutiles piezas de jazz te arrullen hasta el sueño.
 
-224 songs - 12 hr 12 min
+225 songs - 12 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -186,6 +186,7 @@
 | [Summer Nights](https://open.spotify.com/track/6D6GDjjDDWU3nnxQt3Rh9z) | [Mia Bartlett](https://open.spotify.com/artist/6u5Do41YWoyiW2fgAAthlP) | [Summer Nights](https://open.spotify.com/album/0XTX6KnTG5hBnBBds9N9no) | 2:53 | 2023-03-23 |  |
 | [Sweet And Lovely](https://open.spotify.com/track/0M2JImhfpQDeIw08Auazxl) | [Ray Royston](https://open.spotify.com/artist/4Z8ZqLJlYjb7gGt3eFWfFG) | [Sweet And Lovely](https://open.spotify.com/album/68praxj4zGWVqDHxwN7wex) | 3:30 | 2023-03-23 | 2023-04-26 |
 | [Sweet Dreams](https://open.spotify.com/track/1VqEgVFBYgZPbx7wQYKGqY) | [Ellie Manne](https://open.spotify.com/artist/64pmY5ar3DraFZpBJcrvZf) | [Sweet Dreams](https://open.spotify.com/album/0q8gPe14lThzUj7859i7MZ) | 3:31 | 2023-03-23 |  |
+| [Sweet Or Sweeter](https://open.spotify.com/track/3kBBNUhkrZjBarERXoJTzt) | [Lenard Lovito](https://open.spotify.com/artist/6r8kUR60ouPwLjn42RFgPT) | [Sweet Or Sweeter](https://open.spotify.com/album/3ukwljFKcXQugyW40NvzSZ) | 1:59 | 2023-05-11 |  |
 | [Tangerine](https://open.spotify.com/track/3q5cGbIcmWU4tfUixjLqKb) | [Angela Rowles](https://open.spotify.com/artist/6afIMyGrPUhBUFk34MfINr) | [Tangerine](https://open.spotify.com/album/1jRoIrwrLAZlY7quAk5GUJ) | 2:39 | 2023-03-23 |  |
 | [Tenderly](https://open.spotify.com/track/7tyZqOZDFhCgARJWP4g6EC) | [George Alec](https://open.spotify.com/artist/6qy9Pwg24brS7agh5Q4q1w) | [Tenderly](https://open.spotify.com/album/1jw8z9WMpLOl5y89HN5Zda) | 3:10 | 2023-03-23 |  |
 | [That Old Fashioned Moon](https://open.spotify.com/track/00nvkAH00WYbmXddpr9i3v) | [Martin Landström](https://open.spotify.com/artist/4S6bYPPOxQPs9hSnUBbGBN) | [That Old Fashioned Moon](https://open.spotify.com/album/7K81q7vpeES90oyfHnltli) | 2:49 | 2023-03-23 |  |
@@ -202,7 +203,7 @@
 | [There You Were](https://open.spotify.com/track/2m6G2vP3x33rQhfmSYB9Iy) | [Vina Anais](https://open.spotify.com/artist/4JuT70DV2rTZTNpMaP8Tto) | [There You Were](https://open.spotify.com/album/0UC1V9t6aGAElVezqqT2LG) | 2:19 | 2023-03-23 |  |
 | [There´s no you](https://open.spotify.com/track/1CwW9u0HgDPMT0h6E5HN72) | [Elton Willis](https://open.spotify.com/artist/5I7l6XScYYCML9N2WETKE1) | [There´s no you](https://open.spotify.com/album/1apFtaoZpliaFiEswZgZrb) | 4:41 | 2023-03-23 | 2023-05-03 |
 | [These Foolish Things](https://open.spotify.com/track/0CXDipwJc206zISTQqO5y6) | [Rudy Winston](https://open.spotify.com/artist/0eg5Y6qtyXmuDqBqEHbJ6L) | [These Foolish Things](https://open.spotify.com/album/2bePbAVM2pnJoZKimuHZzw) | 4:57 | 2023-03-23 |  |
-| [They Say It's Wonderful](https://open.spotify.com/track/70XPtCtNGP1SoHfAq0Wjdv) | [Avery Miller](https://open.spotify.com/artist/01o77igJ4oxA6MnykrzHNN) | [They Say It's Wonderful](https://open.spotify.com/album/6O9j528nmzyeA2Y6pOX198) | 3:19 | 2023-03-23 |  |
+| [They Say It's Wonderful](https://open.spotify.com/track/70XPtCtNGP1SoHfAq0Wjdv) | [Avery Miller](https://open.spotify.com/artist/01o77igJ4oxA6MnykrzHNN) | [They Say It's Wonderful](https://open.spotify.com/album/6O9j528nmzyeA2Y6pOX198) | 3:19 | 2023-03-23 | 2023-05-19 |
 | [Thinking Of You](https://open.spotify.com/track/7lIluhlbePFHOZh4BP2Ymg) | [Lee Bendroth](https://open.spotify.com/artist/1asg7ElYSc6LhJ7b9fMaFF) | [Thinking Of You](https://open.spotify.com/album/02Viv2aEVLj6UTNBpJG3D0) | 4:22 | 2023-03-23 |  |
 | [Thoughts Of Yesterday](https://open.spotify.com/track/0ZtfGOP5WB9rosemFD5c6e) | [Benjamine Hans](https://open.spotify.com/artist/7gEDhVsbRiapQyIVdBeoCr) | [Thoughts Of Yesterday](https://open.spotify.com/album/1QyKUmbdbAGuOrj2iRzF14) | 3:17 | 2023-03-23 |  |
 | [Till There Was You](https://open.spotify.com/track/3bGhklfS5vo11uM9kBnbyB) | [Anna Niva](https://open.spotify.com/artist/535a8rNQO9F4uQjhRJirsx) | [Till There Was You](https://open.spotify.com/album/5p2c7pdxKRryVmsKsAM7Ud) | 2:50 | 2023-05-04 |  |

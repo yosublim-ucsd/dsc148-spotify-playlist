@@ -4,7 +4,7 @@
 
 > Country Music that ROCKS! Cover: Ashley McBryde
 
-255 songs - 14 hr 46 min
+256 songs - 14 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -238,7 +238,8 @@
 | [Washington Street \- Classen Sessions](https://open.spotify.com/track/4WyfXhoDYggNlRoAILAsXN) | [Josh Meloy](https://open.spotify.com/artist/3EVsC9ZK7QMDuK4FPcZaEq) | [Washington Street \(Classen Sessions\)](https://open.spotify.com/album/4MMY6CA8hyRFiLsSr5TgDs) | 3:44 | 2022-03-04 | 2022-07-25 |
 | [Wasted \(feat\. Kodak Black & Koe Wetzel\)](https://open.spotify.com/track/7ndDjjFDzw6Q68TmIzgHep) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7), [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ) | [Wasted \(feat\. Kodak Black & Koe Wetzel\)](https://open.spotify.com/album/3H6onVGHhKCNYV3ctLLMBf) | 2:35 | 2023-01-13 |  |
 | [Wastin' gas](https://open.spotify.com/track/42y5QLhmZUTAIvjxj9j5Lu) | [Dallas Smith](https://open.spotify.com/artist/2HgKf6VcQtGmAKpNXidtiC) | [Kids With Cars](https://open.spotify.com/album/1XzJfdGdA7Ta2mgetTQhRy) | 3:04 | 2023-01-20 | 2023-03-10 |
-| [We Ride](https://open.spotify.com/track/4ua94LvtGZlGsZVlvMJCUS) | [Bryan Martin](https://open.spotify.com/artist/0ChjBYedhZTQnWZWQYg15U) | [We Ride](https://open.spotify.com/album/4E1qrH1o4eKRu8S6JVAnn3) | 3:08 | 2022-12-09 |  |
+| [We Ride](https://open.spotify.com/track/4ua94LvtGZlGsZVlvMJCUS) | [Bryan Martin](https://open.spotify.com/artist/0ChjBYedhZTQnWZWQYg15U) | [We Ride](https://open.spotify.com/album/4E1qrH1o4eKRu8S6JVAnn3) | 3:08 | 2022-12-09 | 2023-05-19 |
+| [We Ride](https://open.spotify.com/track/72kGuWpRiuA149Bn5lDkIO) | [Bryan Martin](https://open.spotify.com/artist/0ChjBYedhZTQnWZWQYg15U) | [Poets & Old Souls](https://open.spotify.com/album/19X9Ts9AYIRrqthSTf3qss) | 3:08 | 2023-05-12 |  |
 | [Welcome to the South](https://open.spotify.com/track/3fgVZPySJ6fbCIm4r2PitX) | [Dave Fenley](https://open.spotify.com/artist/6qGu24WJrspRNLeieoWQai) | [Welcome to the South](https://open.spotify.com/album/5JFFYGoY1O0LjR5NDod3XA) | 3:08 | 2021-11-01 | 2022-09-03 |
 | [What Do I Know \(feat\. HARDY\)](https://open.spotify.com/track/2SncBUzb3UsejCoo4NHhtk) | [Robert Counts](https://open.spotify.com/artist/5pKy8QL8CUEtkvOI6dpUm9), [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy) | [What Do I Know \(feat\. HARDY\)](https://open.spotify.com/album/2hqjCJb0jLGNPyBjBV9WVJ) | 3:28 | 2021-11-01 |  |
 | [What Else Is New](https://open.spotify.com/track/7uAWex7T9i7ZXghCh4rltO) | [Cody Jinks](https://open.spotify.com/artist/2v7wIbCkIzxOfT3GnqCexD) | [Adobe Sessions Unplugged](https://open.spotify.com/album/68r61PTSnBOHcNhVXT9mH5) | 2:50 | 2021-11-01 | 2022-10-30 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34lqLRYWFxq.md) - [plain]
 
 > New adventures in rock start here\. Cover: LØLØ
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,027 likes - 101 songs - 5 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,029 likes - 101 songs - 5 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34lqLRYWFxq.md) - [plain]
 | 100 | [Heartbreaker by Design](https://open.spotify.com/track/5ueLZYReaiLhYrqLrRhpkh) | [Your ex and I](https://open.spotify.com/artist/46bnuozfnzrXzASP9d8XlZ) | [Your ex and I](https://open.spotify.com/album/1SK5c2RidvtRh8Q0ILFqvr) | 4:07 |
 | 101 | [Sink or Swim](https://open.spotify.com/track/6MiF03krOmzIQcyKQz4whv) | [Blue J](https://open.spotify.com/artist/1Y5uGcgo7QMWxMtWIXtZCH) | [Sink or Swim](https://open.spotify.com/album/6V2dEuft1RlLzJ1CFPANQm) | 3:51 |
 
-Snapshot ID: `MCw0NWFjNTBiMjQ0YjFiMmJkMTBjNTMwNWIzMGY3N2U2ZWRhOTBkMWUy`
+Snapshot ID: `MCxmMGU3ZjliM2E0YmJhYmE1NTE3ZWI4NmUzYmE0YTExM2NiMTFkZWZh`

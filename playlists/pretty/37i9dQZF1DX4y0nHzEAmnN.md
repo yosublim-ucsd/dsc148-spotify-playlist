@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4y0nHzEAmnN.md) - [plain]
 
 > Las partes aburridas del día pueden ser divertidas con música\. ¡En Inglés y Español!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,331 likes - 50 songs - 1 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,330 likes - 50 songs - 1 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,8 +15,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4y0nHzEAmnN.md) - [plain]
 | 5 | [Baile del marinero](https://open.spotify.com/track/4MCWEpke2vLhcS96ZK88oo) | [Duo Tiempo de Sol](https://open.spotify.com/artist/58IHn7WX5UYrLG9BhjAiEA) | [20 Grandes Éxitos](https://open.spotify.com/album/0y5nHLqrkcPducSd8QRISi) | 2:34 |
 | 6 | [Drivin' in My Car](https://open.spotify.com/track/0oFzsGRIzjGaHfTZTSCBlW) | [Ralph's World](https://open.spotify.com/artist/4qIIexaFmYNueu5mnSQnzU) | [Ralph's World](https://open.spotify.com/album/5wKoYzvE2R6xGvbw5tkWQa) | 2:49 |
 | 7 | [Bate Con La Cucharita](https://open.spotify.com/track/7H3ELsx12mCquQRYs4v7YP) | [Canticuénticos](https://open.spotify.com/artist/0Ochpv3RZ8qvqUcJFn2tMr) | [Algo Que Decirte](https://open.spotify.com/album/2wXtS4ELgf5cab27G8Yqqf) | 2:45 |
-| 8 | [La Merienda \- Remasterizado](https://open.spotify.com/track/2tvxS6fcbjWTSdFyOIdQqR) | [Cri\-Cri](https://open.spotify.com/artist/4vM6clYXqkZbQv4O2OT5P4) | [Las 100 Clásicas de Cri Cri Vol\. 1](https://open.spotify.com/album/4fY0mv7l1rEmuBHOeLGq13) | 2:43 |
-| 9 | [Let's Get Ready!](https://open.spotify.com/track/3OYHw99STxBfqoBEov2M5F) | [Peppa Pig](https://open.spotify.com/artist/2gJLanGIV9JqQuKBCWy9ZG) | [My First Album](https://open.spotify.com/album/3A3N9hChYmsWPd3px8eF5u) | 2:05 |
+| 8 | [Let's Get Ready!](https://open.spotify.com/track/3OYHw99STxBfqoBEov2M5F) | [Peppa Pig](https://open.spotify.com/artist/2gJLanGIV9JqQuKBCWy9ZG) | [My First Album](https://open.spotify.com/album/3A3N9hChYmsWPd3px8eF5u) | 2:05 |
+| 9 | [La Merienda \- Remasterizado](https://open.spotify.com/track/2tvxS6fcbjWTSdFyOIdQqR) | [Cri\-Cri](https://open.spotify.com/artist/4vM6clYXqkZbQv4O2OT5P4) | [Las 100 Clásicas de Cri Cri Vol\. 1](https://open.spotify.com/album/4fY0mv7l1rEmuBHOeLGq13) | 2:43 |
 | 10 | [Limpieza](https://open.spotify.com/track/3yG4U2GnmSH04Li8aXGFiE) | [Barney](https://open.spotify.com/artist/4rB5wLJLaXdMrXaYsOYLmK) | [Juguemos a cantar con Barney](https://open.spotify.com/album/6UCyXsJVld7N1DhpbMHaVL) | 0:34 |
 | 11 | [The Clean\-Up Song](https://open.spotify.com/track/41ROjX8HcFz3LVLMkIzzQJ) | [Jody Abboud & The New Song Kids Choir](https://open.spotify.com/artist/2VmyOyiSWOcoTzn78iGo6c) | [The Clean\-Up Song](https://open.spotify.com/album/6JzKt88LOjhyqUVnIx5V2S) | 1:30 |
 | 12 | [Todos a Moverse](https://open.spotify.com/track/2qDZD2UljoMNasceWl4qg9) | [Elenco Junior Express](https://open.spotify.com/artist/1qpObFWDQW9EPFSzAzi71h), [Diego Topa](https://open.spotify.com/artist/3y6NjjMEV0m5fSaz6AXTsa) | [Junior Express \- Grandes Éxitos](https://open.spotify.com/album/32PoW1uZHdQE8Gm3MGSkBG) | 2:42 |
@@ -47,16 +47,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4y0nHzEAmnN.md) - [plain]
 | 37 | [Baño de Burbujas](https://open.spotify.com/track/6vbNjLS9g232wXDnjb7akW) | [Osito Panda Band](https://open.spotify.com/artist/7inibjUUHj4r6jxRyBsJq0) | [20 Canciones Infantiles](https://open.spotify.com/album/5T6GImWGW667aSX8XAeOq3) | 1:52 |
 | 38 | [Cover Your Sneeze](https://open.spotify.com/track/4qDYGpWlPKcXMoZz7s3EsU) | [Chompers](https://open.spotify.com/artist/7nfJo4SRyJHZeD7xLaTi7z) | [Songs to Brush Your Teeth To](https://open.spotify.com/album/3kkKwoIagtiBFyUVgZpRtG) | 1:49 |
 | 39 | [Canción De Tomar El Té](https://open.spotify.com/track/19VEw5WbEyxIkmyZWgen9x) | [María Elena Walsh](https://open.spotify.com/artist/5gMEZRCMq0gWA3kuCPukEk) | [Canciones Para Chicos](https://open.spotify.com/album/0FgVNRv2HryG3GUKTACCGn) | 1:50 |
-| 40 | [Going Back to School Today](https://open.spotify.com/track/796sb0EwG3wdXsBqOAnpiP) | [Little Baby Bum Nursery Rhyme Friends](https://open.spotify.com/artist/0lFDQOEK5OwsyPXb1aWJzY) | [Life Lessons for Children from LittleBabyBum](https://open.spotify.com/album/1g9tg76IleuNteUpi6bhd8) | 1:30 |
+| 40 | [Cuantos Tacos \(The Taco Song\)](https://open.spotify.com/track/4gwBN4pGzuwvn5uoKe9JCS) | [Lucky Diaz and the Family Jam Band](https://open.spotify.com/artist/5rsiLbN9VsVXTfgpSGf6po) | [Adelante](https://open.spotify.com/album/0npmHTuGBf093p6kFgZKam) | 2:54 |
 | 41 | [Please and Thank You Song](https://open.spotify.com/track/4qTfbByQXNHc6B0SS1i1LO) | [Heidi Butkus](https://open.spotify.com/artist/2xXDALR7lXGiKnXvleJ6Au) | [Music for Classroom Management](https://open.spotify.com/album/0iixhTccBWiiOBasHBLBs1) | 0:43 |
-| 42 | [Cuantos Tacos \(The Taco Song\)](https://open.spotify.com/track/4gwBN4pGzuwvn5uoKe9JCS) | [Lucky Diaz and the Family Jam Band](https://open.spotify.com/artist/5rsiLbN9VsVXTfgpSGf6po) | [Adelante](https://open.spotify.com/album/0npmHTuGBf093p6kFgZKam) | 2:54 |
+| 42 | [Going Back to School Today](https://open.spotify.com/track/796sb0EwG3wdXsBqOAnpiP) | [Little Baby Bum Nursery Rhyme Friends](https://open.spotify.com/artist/0lFDQOEK5OwsyPXb1aWJzY) | [Life Lessons for Children from LittleBabyBum](https://open.spotify.com/album/1g9tg76IleuNteUpi6bhd8) | 1:30 |
 | 43 | [A Comer Que la Mesa Está Servida](https://open.spotify.com/track/6zjcZbjisG5c3pCuxhpp2s) | [Panam y Circo](https://open.spotify.com/artist/0hjh0CtlHZMyBcu4e8y8xW), [Edith Hermida](https://open.spotify.com/artist/5jNFhWiUYNUAp2wUDoFijh), [Mauricio D'Alessandro](https://open.spotify.com/artist/2EV35jD2yLf6HbFljRA7fr) | [CD8: Llegó Panam](https://open.spotify.com/album/5UYrctjSWKpA7IkP2DTSuW) | 2:30 |
 | 44 | [Comida light](https://open.spotify.com/track/16QKoDI5F9MxWUBYORKV3w) | [Pica\-Pica](https://open.spotify.com/artist/3oaNnQa52hlN69wvaatUE2) | [English Pitinglish](https://open.spotify.com/album/5opZvBrL0N2jSFyGwvOvoZ) | 2:54 |
-| 45 | [Washing My Hands](https://open.spotify.com/track/0QUoJpzAzY9Rgw0C9T1U3B) | [Rocknoceros](https://open.spotify.com/artist/6vEKt6eIx5Cnd0KzbNlwyD) | [Rocknoceros](https://open.spotify.com/album/4eub8hBkToROharOKy0U6s) | 3:21 |
-| 46 | [Sonidos al Comer](https://open.spotify.com/track/1KxnLbLVUYYdKlCF2uYezh) | [Trepsi](https://open.spotify.com/artist/6uqcdmVQzxfdgsKWB04shs) | [Las 4 Estaciones, vol\. 11](https://open.spotify.com/album/1cnYXeqwMikaACiCdX8tI2) | 0:58 |
+| 45 | [Sonidos al Comer](https://open.spotify.com/track/1KxnLbLVUYYdKlCF2uYezh) | [Trepsi](https://open.spotify.com/artist/6uqcdmVQzxfdgsKWB04shs) | [Las 4 Estaciones, vol\. 11](https://open.spotify.com/album/1cnYXeqwMikaACiCdX8tI2) | 0:58 |
+| 46 | [Washing My Hands](https://open.spotify.com/track/0QUoJpzAzY9Rgw0C9T1U3B) | [Rocknoceros](https://open.spotify.com/artist/6vEKt6eIx5Cnd0KzbNlwyD) | [Rocknoceros](https://open.spotify.com/album/4eub8hBkToROharOKy0U6s) | 3:21 |
 | 47 | [Snack Time \(Juice and Cookies\)](https://open.spotify.com/track/0he5JaHRZGio2iZOwwxe0N) | [Big Bird](https://open.spotify.com/artist/0iDC0DDdk9WL7W8OdBSmtE), [Sesame Street's Olivia](https://open.spotify.com/artist/5rYht0MbgC4BBWy5sMxeGr) | [Sesame Street: Getting Ready for School](https://open.spotify.com/album/1cTBGtVBDegjOQcR6Ou4NM) | 1:33 |
 | 48 | [I Always Sit When I Eat](https://open.spotify.com/track/7Gmhedp0ne4neq1BgNHClT) | [Moey](https://open.spotify.com/artist/0G3ifZoKHqFJRrHGqcqoCs) | [Moey's Music Party](https://open.spotify.com/album/29OT5CvFbFVT7B5NQi2dGU) | 2:09 |
 | 49 | [Wash The Dishes](https://open.spotify.com/track/4jnTmG0SuHvTZ70Ea1gVnZ) | [Nat Hussey](https://open.spotify.com/artist/3oWcz5Uc7Nf1DsBGJ0HQQA) | [Papa Goose](https://open.spotify.com/album/4zWFpydTMsliKYcyo28E5j) | 1:29 |
-| 50 | [Please and Thank You Song](https://open.spotify.com/track/1SVQdK7xD2Zy1MypHyNzVZ) | [Little Baby Bum Nursery Rhyme Friends](https://open.spotify.com/artist/0lFDQOEK5OwsyPXb1aWJzY) | [Children's Songs for Family, Friends & Siblings from LittleBabyBum](https://open.spotify.com/album/65UY1CG353OTiv4JHrDKrV) | 1:31 |
+| 50 | [La Canción del Baño](https://open.spotify.com/track/6ac3pwL3vip7nu9DVL2tyc) | [HooplaKidz En Español](https://open.spotify.com/artist/69v01YbcC6xhBi04cpaPlu) | [Las Mejores Canciones para Niños](https://open.spotify.com/album/7spQnMoIypXmqWN3wiC29b) | 2:09 |
 
-Snapshot ID: `MCxhM2RlNDM0OTA3MzAyMmUzMzBiNzk4ZjY1NDdlNGI3NmVlOWE4YWM5`
+Snapshot ID: `MCw1NmI5OTZiMDg5M2E1MzgyOTI0YTlmYWU4NDAyMjg4MzE0ZDAzZDA2`

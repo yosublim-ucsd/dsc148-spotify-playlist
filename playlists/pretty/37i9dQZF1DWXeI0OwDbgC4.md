@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXeI0OwDbgC4.md) - [plain]
 
 > Even through heartbreak and pain, God’s love remains\. Here are songs that cover the crossroads of hope and heartbreak.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,144 likes - 50 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,186 likes - 50 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXeI0OwDbgC4.md) - [plain]
 | 49 | [Somebody](https://open.spotify.com/track/37lNRW3CLtw08GcBtIlvoJ) | [Luke Alexander](https://open.spotify.com/artist/0aIaLxspYFrwb1GD3nOWY4), [Gabby Callwood](https://open.spotify.com/artist/7uggI2dtxS9l9fSUPp9ebG) | [Somebody](https://open.spotify.com/album/1FRvaZuaDcgvdwzYhsWiqh) | 2:41 |
 | 50 | [Memories!](https://open.spotify.com/track/16ZMv3xUd3iXrN2fSy9WDe) | [BigGucciDame](https://open.spotify.com/artist/6mjDlBKzYcYavIYfOfQLKi), [Koi](https://open.spotify.com/artist/76Plkuk64KSXfG04kwxNZk) | [Memories!](https://open.spotify.com/album/2WHKSSpeXR4ByTAJh7yF3J) | 2:43 |
 
-Snapshot ID: `MCw0OTI5YzU2OTE2M2ExMDFmYzQ1ZTU0MjJlMmM0ODVkNjlhMjI3NzUx`
+Snapshot ID: `MCxhNmE1NmMyMWYxZWUyNDRjNDM3NmVmNTVkYzkzN2QxNTI5ZTc3YzA3`

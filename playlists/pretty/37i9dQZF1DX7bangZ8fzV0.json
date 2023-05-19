@@ -1,13 +1,29 @@
 {
-  "description": "Net die beste Afrikaanse musiek. Cover: <a href=\"https://open.spotify.com/artist/0okTBoelHkR40Mr69hmzkR?si=UfX3Lz5qT5SJYzyiCj_9SQ\">Eloff</a> ",
-  "num_followers": 70464,
+  "description": "Net die beste Afrikaanse musiek. Cover: <a href=\"https://open.spotify.com/artist/69q4xfNrz04VhJdTQHGUjd?si=kPyhyM8FQw-UEEmnnqhdGg\">Appel</a> ",
+  "num_followers": 70542,
   "original_name": "Afrikaanse Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5YjAyMTVmM2FlOTQzODZkODhjNTIwMmM1NjU0ZGM4N2FhY2ExYTNm",
+  "snapshot_id": "MCwwMmExNGU4YjUyYWUzZDdlM2E5ZTgxMDAwNjE2MjYxNDQ5YWM1ZDEy",
   "tracks": [
+    {
+      "added_at": "2023-05-18 21:59:00",
+      "album": {
+        "name": "Foute",
+        "url": "https://open.spotify.com/album/0JWQvljztDBVPOUmpqW07l"
+      },
+      "artists": [
+        {
+          "name": "Appel",
+          "url": "https://open.spotify.com/artist/69q4xfNrz04VhJdTQHGUjd"
+        }
+      ],
+      "duration_ms": 202917,
+      "name": "Foute",
+      "url": "https://open.spotify.com/track/6K6L2DgKgeREDJ8c0HxLZI"
+    },
     {
       "added_at": "2023-05-11 21:59:00",
       "album": {
@@ -57,38 +73,6 @@
       "url": "https://open.spotify.com/track/5oMumOpP2Bavh3JyjbOqP5"
     },
     {
-      "added_at": "2023-05-04 21:59:00",
-      "album": {
-        "name": "Braaf",
-        "url": "https://open.spotify.com/album/4cR81psmOmW9QnENYZveCd"
-      },
-      "artists": [
-        {
-          "name": "JAN JAN JAN",
-          "url": "https://open.spotify.com/artist/0cba0v5VJqpuD1YSBoNirZ"
-        }
-      ],
-      "duration_ms": 196530,
-      "name": "Hy's 'n Lekker Ou",
-      "url": "https://open.spotify.com/track/0ZCQRMdGD0GsxDWr2nmUJO"
-    },
-    {
-      "added_at": "2023-04-06 21:59:00",
-      "album": {
-        "name": "SySoen",
-        "url": "https://open.spotify.com/album/7LfX2CYX7o9jjDtqzxC8LI"
-      },
-      "artists": [
-        {
-          "name": "Wilma Van Heerden",
-          "url": "https://open.spotify.com/artist/0vnlEBfwofHzCHw2sI7VmP"
-        }
-      ],
-      "duration_ms": 213125,
-      "name": "SySoen",
-      "url": "https://open.spotify.com/track/474ACPInPwPBWt1eFwG0fs"
-    },
-    {
       "added_at": "2022-08-25 21:59:00",
       "album": {
         "name": "Weer",
@@ -109,36 +93,20 @@
       "url": "https://open.spotify.com/track/1PoFAgfEa11NdWylrd8sCc"
     },
     {
-      "added_at": "2023-04-27 21:59:00",
+      "added_at": "2023-04-06 21:59:00",
       "album": {
-        "name": "Kortbroek",
-        "url": "https://open.spotify.com/album/0OTo3ycGnUOP1AEVTn20vH"
+        "name": "SySoen",
+        "url": "https://open.spotify.com/album/7LfX2CYX7o9jjDtqzxC8LI"
       },
       "artists": [
         {
-          "name": "Caroline Grace",
-          "url": "https://open.spotify.com/artist/4Nq6DSOfx3sAWV9ED0WtZM"
+          "name": "Wilma Van Heerden",
+          "url": "https://open.spotify.com/artist/0vnlEBfwofHzCHw2sI7VmP"
         }
       ],
-      "duration_ms": 176204,
-      "name": "Kortbroek",
-      "url": "https://open.spotify.com/track/2BSoAJMG0fr4v9q8AIc8PY"
-    },
-    {
-      "added_at": "2023-02-23 21:59:00",
-      "album": {
-        "name": "Hittegolf",
-        "url": "https://open.spotify.com/album/0e9UjemY2jnFPQFdJdTPjH"
-      },
-      "artists": [
-        {
-          "name": "Eloff",
-          "url": "https://open.spotify.com/artist/0okTBoelHkR40Mr69hmzkR"
-        }
-      ],
-      "duration_ms": 220831,
-      "name": "Swipe Regs",
-      "url": "https://open.spotify.com/track/4afGZxLJkHpnTyxOpuQCzc"
+      "duration_ms": 213125,
+      "name": "SySoen",
+      "url": "https://open.spotify.com/track/474ACPInPwPBWt1eFwG0fs"
     },
     {
       "added_at": "2023-05-11 21:59:00",
@@ -159,6 +127,38 @@
       "duration_ms": 160673,
       "name": "Partykiehonde",
       "url": "https://open.spotify.com/track/5GZJ8J9tBVTT6HArRAwK6V"
+    },
+    {
+      "added_at": "2023-02-23 21:59:00",
+      "album": {
+        "name": "Hittegolf",
+        "url": "https://open.spotify.com/album/0e9UjemY2jnFPQFdJdTPjH"
+      },
+      "artists": [
+        {
+          "name": "Eloff",
+          "url": "https://open.spotify.com/artist/0okTBoelHkR40Mr69hmzkR"
+        }
+      ],
+      "duration_ms": 220831,
+      "name": "Swipe Regs",
+      "url": "https://open.spotify.com/track/4afGZxLJkHpnTyxOpuQCzc"
+    },
+    {
+      "added_at": "2022-08-25 21:59:00",
+      "album": {
+        "name": "H2O\u00eb",
+        "url": "https://open.spotify.com/album/3TXkgPC5iTyXXyJPKR01lP"
+      },
+      "artists": [
+        {
+          "name": "Barto",
+          "url": "https://open.spotify.com/artist/4gzfjw2nlFFo1tda8jgJbG"
+        }
+      ],
+      "duration_ms": 175375,
+      "name": "H2O\u00eb",
+      "url": "https://open.spotify.com/track/6NB2npCHsGXQ059pMhXJzl"
     },
     {
       "added_at": "2021-04-19 09:32:09",
@@ -209,20 +209,20 @@
       "url": "https://open.spotify.com/track/4jvrBXG8kgKQZEvsLwPXHl"
     },
     {
-      "added_at": "2022-08-25 21:59:00",
+      "added_at": "2023-04-27 21:59:00",
       "album": {
-        "name": "H2O\u00eb",
-        "url": "https://open.spotify.com/album/3TXkgPC5iTyXXyJPKR01lP"
+        "name": "Kortbroek",
+        "url": "https://open.spotify.com/album/0OTo3ycGnUOP1AEVTn20vH"
       },
       "artists": [
         {
-          "name": "Barto",
-          "url": "https://open.spotify.com/artist/4gzfjw2nlFFo1tda8jgJbG"
+          "name": "Caroline Grace",
+          "url": "https://open.spotify.com/artist/4Nq6DSOfx3sAWV9ED0WtZM"
         }
       ],
-      "duration_ms": 175375,
-      "name": "H2O\u00eb",
-      "url": "https://open.spotify.com/track/6NB2npCHsGXQ059pMhXJzl"
+      "duration_ms": 176204,
+      "name": "Kortbroek",
+      "url": "https://open.spotify.com/track/2BSoAJMG0fr4v9q8AIc8PY"
     },
     {
       "added_at": "2022-12-08 21:59:00",
@@ -279,6 +279,22 @@
       "duration_ms": 184026,
       "name": "ATKV",
       "url": "https://open.spotify.com/track/5pctBxFOGMxzrR7BfVWMoL"
+    },
+    {
+      "added_at": "2023-05-18 21:59:00",
+      "album": {
+        "name": "Chocolate Sigarette",
+        "url": "https://open.spotify.com/album/3mC8IJz4TXi2iEMMYNytOU"
+      },
+      "artists": [
+        {
+          "name": "Christia Visser",
+          "url": "https://open.spotify.com/artist/0AVwVUxhRdEKiuLNGAxmtu"
+        }
+      ],
+      "duration_ms": 198980,
+      "name": "Chocolate Sigarette",
+      "url": "https://open.spotify.com/track/0185cQUYmXRbiVDJiGAXHU"
     },
     {
       "added_at": "2023-02-23 21:59:00",
@@ -353,6 +369,22 @@
       "url": "https://open.spotify.com/track/7oNaAYHagyDVzB8YoyhuMm"
     },
     {
+      "added_at": "2023-05-04 21:59:00",
+      "album": {
+        "name": "Braaf",
+        "url": "https://open.spotify.com/album/4cR81psmOmW9QnENYZveCd"
+      },
+      "artists": [
+        {
+          "name": "JAN JAN JAN",
+          "url": "https://open.spotify.com/artist/0cba0v5VJqpuD1YSBoNirZ"
+        }
+      ],
+      "duration_ms": 196530,
+      "name": "Hy's 'n Lekker Ou",
+      "url": "https://open.spotify.com/track/0ZCQRMdGD0GsxDWr2nmUJO"
+    },
+    {
       "added_at": "2022-07-21 21:59:00",
       "album": {
         "name": "Insomnia",
@@ -401,6 +433,22 @@
       "url": "https://open.spotify.com/track/2FxVzofHY8UuSUoSC6SS6x"
     },
     {
+      "added_at": "2023-04-13 21:59:00",
+      "album": {
+        "name": "Kleintjie",
+        "url": "https://open.spotify.com/album/2BqvLKSqRQwnLG1DMVumfH"
+      },
+      "artists": [
+        {
+          "name": "Wikus Botma",
+          "url": "https://open.spotify.com/artist/099AZ9nM47Fy3VJ7aLN2Io"
+        }
+      ],
+      "duration_ms": 179018,
+      "name": "Kleintjie",
+      "url": "https://open.spotify.com/track/4QbAFKHU08d9Ecko8P1Xnk"
+    },
+    {
       "added_at": "2023-04-20 21:59:00",
       "album": {
         "name": "Brand Die Skepe",
@@ -415,6 +463,22 @@
       "duration_ms": 203000,
       "name": "Braaibroodjies",
       "url": "https://open.spotify.com/track/34lszvPii4Yz3O5ieuPXuz"
+    },
+    {
+      "added_at": "2023-02-02 21:59:00",
+      "album": {
+        "name": "Ontlaai",
+        "url": "https://open.spotify.com/album/0B1W6DEeGMPMFlg3eREW9b"
+      },
+      "artists": [
+        {
+          "name": "Il\u00e1n van Staden",
+          "url": "https://open.spotify.com/artist/7FUqmUXFmllziX2NgD4Knj"
+        }
+      ],
+      "duration_ms": 243541,
+      "name": "Ontlaai",
+      "url": "https://open.spotify.com/track/6v1hZo339lw7OUT5vH66DC"
     },
     {
       "added_at": "2023-04-20 21:59:00",
@@ -449,36 +513,20 @@
       "url": "https://open.spotify.com/track/2q8HCRTpxZrqErJ3RqOpRT"
     },
     {
-      "added_at": "2023-04-13 21:59:00",
+      "added_at": "2022-08-04 21:59:00",
       "album": {
-        "name": "Kleintjie",
-        "url": "https://open.spotify.com/album/2BqvLKSqRQwnLG1DMVumfH"
+        "name": "Kwaaitjie",
+        "url": "https://open.spotify.com/album/3kFEZtMGtoVyQWMNBkVs6z"
       },
       "artists": [
         {
-          "name": "Wikus Botma",
-          "url": "https://open.spotify.com/artist/099AZ9nM47Fy3VJ7aLN2Io"
+          "name": "Prop",
+          "url": "https://open.spotify.com/artist/3TNxvHZvTgeosFCIYz1BUu"
         }
       ],
-      "duration_ms": 179018,
-      "name": "Kleintjie",
-      "url": "https://open.spotify.com/track/4QbAFKHU08d9Ecko8P1Xnk"
-    },
-    {
-      "added_at": "2023-02-02 21:59:00",
-      "album": {
-        "name": "Ontlaai",
-        "url": "https://open.spotify.com/album/0B1W6DEeGMPMFlg3eREW9b"
-      },
-      "artists": [
-        {
-          "name": "Il\u00e1n van Staden",
-          "url": "https://open.spotify.com/artist/7FUqmUXFmllziX2NgD4Knj"
-        }
-      ],
-      "duration_ms": 243541,
-      "name": "Ontlaai",
-      "url": "https://open.spotify.com/track/6v1hZo339lw7OUT5vH66DC"
+      "duration_ms": 188124,
+      "name": "Kwaaitjie",
+      "url": "https://open.spotify.com/track/2NKIqGaDkBuKQLQsGvp2Pq"
     },
     {
       "added_at": "2023-03-03 03:21:19",
@@ -499,22 +547,6 @@
       "duration_ms": 187558,
       "name": "Vleisvreters",
       "url": "https://open.spotify.com/track/63RtO5V94GhSGYvZEucg4h"
-    },
-    {
-      "added_at": "2022-08-04 21:59:00",
-      "album": {
-        "name": "Kwaaitjie",
-        "url": "https://open.spotify.com/album/3kFEZtMGtoVyQWMNBkVs6z"
-      },
-      "artists": [
-        {
-          "name": "Prop",
-          "url": "https://open.spotify.com/artist/3TNxvHZvTgeosFCIYz1BUu"
-        }
-      ],
-      "duration_ms": 188124,
-      "name": "Kwaaitjie",
-      "url": "https://open.spotify.com/track/2NKIqGaDkBuKQLQsGvp2Pq"
     },
     {
       "added_at": "2022-10-13 21:59:00",
@@ -717,22 +749,6 @@
       "url": "https://open.spotify.com/track/4zFtUFGQ7NG6iEM2K5Oca4"
     },
     {
-      "added_at": "2022-10-28 03:41:22",
-      "album": {
-        "name": "Net Een Keer",
-        "url": "https://open.spotify.com/album/1NPoFcEaJg6MkRsHVPeN0M"
-      },
-      "artists": [
-        {
-          "name": "Samantha Leonard",
-          "url": "https://open.spotify.com/artist/0t70FT0xcfRAuHAM8C9Tgw"
-        }
-      ],
-      "duration_ms": 173250,
-      "name": "Net Een Keer",
-      "url": "https://open.spotify.com/track/71tkxqyBp1FnQYMI9R2NQY"
-    },
-    {
       "added_at": "2022-04-28 21:59:00",
       "album": {
         "name": "Bietjie Benoni",
@@ -763,22 +779,6 @@
       "duration_ms": 203413,
       "name": "Nonna",
       "url": "https://open.spotify.com/track/3MF7ewY2kS9QMx3fysTD6g"
-    },
-    {
-      "added_at": "2022-10-13 21:59:00",
-      "album": {
-        "name": "Plaaslewe",
-        "url": "https://open.spotify.com/album/6TO27C8sqynfu2ymExD6Kf"
-      },
-      "artists": [
-        {
-          "name": "Anlia Star",
-          "url": "https://open.spotify.com/artist/0ijtg0i2JHKpiiQnyZofqm"
-        }
-      ],
-      "duration_ms": 183199,
-      "name": "Plaaslewe",
-      "url": "https://open.spotify.com/track/45dV2UvbpsG4pvWqzNLHOL"
     },
     {
       "added_at": "2023-03-09 21:59:00",

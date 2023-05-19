@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-01-15",
-  "description": "Pop x Rock. Cover: Busted ",
+  "description": "Pop x Rock. Cover: PVRIS",
   "name": "X",
   "tracks": [
     {
@@ -863,6 +863,24 @@
     },
     {
       "album": {
+        "name": "LOVE IS A...",
+        "url": "https://open.spotify.com/album/4t2uQMc6hW16fiIAY1Cx2K"
+      },
+      "artists": [
+        {
+          "name": "PVRIS",
+          "url": "https://open.spotify.com/artist/6oFs3qk4VepIVFdoD4jmsy"
+        }
+      ],
+      "date_added": "2023-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221440,
+      "name": "LOVE IS A...",
+      "url": "https://open.spotify.com/track/26KB6jZEqehXJNpguKRomC"
+    },
+    {
+      "album": {
         "name": "Love Rush",
         "url": "https://open.spotify.com/album/72Q9DnfCrWdrY8A95mXXrr"
       },
@@ -1135,6 +1153,24 @@
     },
     {
       "album": {
+        "name": "Push It Down",
+        "url": "https://open.spotify.com/album/05lq41261H9CLH9viIgTUG"
+      },
+      "artists": [
+        {
+          "name": "L Devine",
+          "url": "https://open.spotify.com/artist/5dhyUSoGhz79WTzP39vKs4"
+        }
+      ],
+      "date_added": "2023-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177494,
+      "name": "Push It Down",
+      "url": "https://open.spotify.com/track/77IcomUbuyMqn52R5CbhrM"
+    },
+    {
+      "album": {
         "name": "Queen Bitch",
         "url": "https://open.spotify.com/album/6BVkRA0sAGmRoeEp6CCJBH"
       },
@@ -1360,6 +1396,24 @@
       "duration_ms": 191124,
       "name": "Story Of My Life (feat. Trippie Redd)",
       "url": "https://open.spotify.com/track/1g7j5AxiNKTGjryhFIlAsA"
+    },
+    {
+      "album": {
+        "name": "Stuck",
+        "url": "https://open.spotify.com/album/2kcNcoLI7IeK9GJepoA2lq"
+      },
+      "artists": [
+        {
+          "name": "Thirty Seconds To Mars",
+          "url": "https://open.spotify.com/artist/0RqtSIYZmd4fiBKVFqyIqD"
+        }
+      ],
+      "date_added": "2023-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182746,
+      "name": "Stuck",
+      "url": "https://open.spotify.com/track/1PYG9Akj0LAZZUDXzV9m1S"
     },
     {
       "album": {

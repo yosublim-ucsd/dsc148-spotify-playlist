@@ -1,12 +1,12 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/stephenasmith/\">Stephen A. Smith</a>. ",
-  "num_followers": 114,
+  "num_followers": 120,
   "original_name": "Stephen A. Smith's Taste",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkNWQ3OTBjOTQzMzY0MGNkZDgzYTEwNDAxN2M5ZGY5ZTU2MDc0M2Fh",
+  "snapshot_id": "MCxiYWMyNTA4MzM0OWE2OTdkMTMxZTM5MTMwNDExNjg3YmQyNGEzZDBm",
   "tracks": [
     {
       "added_at": "2023-05-01 04:00:00",
@@ -58,10 +58,14 @@
         {
           "name": "Busta Rhymes",
           "url": "https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK"
+        },
+        {
+          "name": "Jamal",
+          "url": "https://open.spotify.com/artist/7wljsIwScBNShUPFULDCB3"
         }
       ],
       "duration_ms": 194293,
-      "name": "Put Your Hands Where My Eyes Could See",
+      "name": "Put Your Hands Where My Eyes Could See (feat. Jamal)",
       "url": "https://open.spotify.com/track/1NHwvBmrUje4L1dxfWnXCH"
     },
     {

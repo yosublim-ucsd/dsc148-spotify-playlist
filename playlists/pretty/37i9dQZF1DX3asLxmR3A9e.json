@@ -1,12 +1,12 @@
 {
   "description": "2014 highlights from the home of indie music.",
-  "num_followers": 42705,
+  "num_followers": 42799,
   "original_name": "Best of Indie 2014",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2NDYxNjc1NmY0NjA3MTE0NDY0NzJmYjJhMjA3OGI3NDViYzkwYTI1",
+  "snapshot_id": "MCxjNjE3N2U5YTUzYmE3ZDhlYzE3N2FiMDVkNzc3N2JkMmMyZjg3MzJk",
   "tracks": [
     {
       "added_at": "2021-09-03 05:42:37",
@@ -731,22 +731,6 @@
     {
       "added_at": "2021-09-03 05:42:37",
       "album": {
-        "name": "Bahamas Is Afie",
-        "url": "https://open.spotify.com/album/2UqlVTULRPG2qm8Bico9CK"
-      },
-      "artists": [
-        {
-          "name": "Bahamas",
-          "url": "https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt"
-        }
-      ],
-      "duration_ms": 234973,
-      "name": "All The Time",
-      "url": "https://open.spotify.com/track/0qI1W6chJgvrSAzAkX9JBa"
-    },
-    {
-      "added_at": "2021-09-03 05:42:37",
-      "album": {
         "name": "ZABA",
         "url": "https://open.spotify.com/album/14IOe7ahxQPTwUYUQX3IFi"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 248920,
       "name": "Black Mambo",
       "url": "https://open.spotify.com/track/63OC8cNa4ZnFB3bbvbWCOc"
+    },
+    {
+      "added_at": "2021-09-03 05:42:37",
+      "album": {
+        "name": "Bahamas Is Afie",
+        "url": "https://open.spotify.com/album/2UqlVTULRPG2qm8Bico9CK"
+      },
+      "artists": [
+        {
+          "name": "Bahamas",
+          "url": "https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt"
+        }
+      ],
+      "duration_ms": 234973,
+      "name": "All The Time",
+      "url": "https://open.spotify.com/track/0qI1W6chJgvrSAzAkX9JBa"
     },
     {
       "added_at": "2021-09-03 05:42:37",
@@ -859,6 +859,22 @@
     {
       "added_at": "2021-09-03 05:42:37",
       "album": {
+        "name": "ZABA",
+        "url": "https://open.spotify.com/album/14IOe7ahxQPTwUYUQX3IFi"
+      },
+      "artists": [
+        {
+          "name": "Glass Animals",
+          "url": "https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq"
+        }
+      ],
+      "duration_ms": 254640,
+      "name": "Toes",
+      "url": "https://open.spotify.com/track/754wVXWrtf1X3ZHQOFFsnR"
+    },
+    {
+      "added_at": "2021-09-03 05:42:37",
+      "album": {
         "name": "Andrew McMahon In The Wilderness",
         "url": "https://open.spotify.com/album/4IVdl0FxI7cpwyLh8JWOdG"
       },
@@ -903,22 +919,6 @@
       "duration_ms": 213440,
       "name": "In Dreams",
       "url": "https://open.spotify.com/track/6yPuQr6vjZ7tJ4oq1PEXle"
-    },
-    {
-      "added_at": "2021-09-03 05:42:37",
-      "album": {
-        "name": "ZABA",
-        "url": "https://open.spotify.com/album/14IOe7ahxQPTwUYUQX3IFi"
-      },
-      "artists": [
-        {
-          "name": "Glass Animals",
-          "url": "https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq"
-        }
-      ],
-      "duration_ms": 254640,
-      "name": "Toes",
-      "url": "https://open.spotify.com/track/754wVXWrtf1X3ZHQOFFsnR"
     },
     {
       "added_at": "2021-09-03 05:42:37",
@@ -971,22 +971,6 @@
     {
       "added_at": "2021-09-03 05:42:37",
       "album": {
-        "name": "I Forget Where We Were",
-        "url": "https://open.spotify.com/album/4WI3oFEsDiHU3I5xHz88sF"
-      },
-      "artists": [
-        {
-          "name": "Ben Howard",
-          "url": "https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc"
-        }
-      ],
-      "duration_ms": 281213,
-      "name": "I Forget Where We Were",
-      "url": "https://open.spotify.com/track/7gYwIAHB6VxzLJFSZMMv8i"
-    },
-    {
-      "added_at": "2021-09-03 05:42:37",
-      "album": {
         "name": "They Want My Soul",
         "url": "https://open.spotify.com/album/55TZx6GWm1hlEbRgkGRjma"
       },
@@ -1019,22 +1003,6 @@
     {
       "added_at": "2021-09-03 05:42:37",
       "album": {
-        "name": "Lost In The Dream",
-        "url": "https://open.spotify.com/album/51VxHZphGLsI7aUPqIkJaz"
-      },
-      "artists": [
-        {
-          "name": "The War On Drugs",
-          "url": "https://open.spotify.com/artist/6g0mn3tzAds6aVeUYRsryU"
-        }
-      ],
-      "duration_ms": 532306,
-      "name": "Under The Pressure",
-      "url": "https://open.spotify.com/track/5j58jhAFzAy0keSuQYsQBn"
-    },
-    {
-      "added_at": "2021-09-03 05:42:37",
-      "album": {
         "name": "So Long, See You Tomorrow",
         "url": "https://open.spotify.com/album/5oKWoolIuoWMG6AORvA9hL"
       },
@@ -1047,6 +1015,22 @@
       "duration_ms": 190866,
       "name": "Luna",
       "url": "https://open.spotify.com/track/11EOvxJRG665bwRU0z6YVa"
+    },
+    {
+      "added_at": "2021-09-03 05:42:37",
+      "album": {
+        "name": "Lost In The Dream",
+        "url": "https://open.spotify.com/album/51VxHZphGLsI7aUPqIkJaz"
+      },
+      "artists": [
+        {
+          "name": "The War On Drugs",
+          "url": "https://open.spotify.com/artist/6g0mn3tzAds6aVeUYRsryU"
+        }
+      ],
+      "duration_ms": 532306,
+      "name": "Under The Pressure",
+      "url": "https://open.spotify.com/track/5j58jhAFzAy0keSuQYsQBn"
     },
     {
       "added_at": "2021-09-03 05:42:37",
@@ -1080,9 +1064,9 @@
           "url": "https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc"
         }
       ],
-      "duration_ms": 317933,
-      "name": "She Treats Me Well",
-      "url": "https://open.spotify.com/track/2Viw81MZJPsOjODAz4A5nW"
+      "duration_ms": 281213,
+      "name": "I Forget Where We Were",
+      "url": "https://open.spotify.com/track/7gYwIAHB6VxzLJFSZMMv8i"
     },
     {
       "added_at": "2021-09-03 05:42:37",
@@ -1187,6 +1171,22 @@
     {
       "added_at": "2021-09-03 05:42:37",
       "album": {
+        "name": "I Forget Where We Were",
+        "url": "https://open.spotify.com/album/4WI3oFEsDiHU3I5xHz88sF"
+      },
+      "artists": [
+        {
+          "name": "Ben Howard",
+          "url": "https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc"
+        }
+      ],
+      "duration_ms": 317933,
+      "name": "She Treats Me Well",
+      "url": "https://open.spotify.com/track/2Viw81MZJPsOjODAz4A5nW"
+    },
+    {
+      "added_at": "2021-09-03 05:42:37",
+      "album": {
         "name": "ZABA",
         "url": "https://open.spotify.com/album/14IOe7ahxQPTwUYUQX3IFi"
       },
@@ -1235,22 +1235,6 @@
     {
       "added_at": "2021-09-03 05:42:37",
       "album": {
-        "name": "Supermodel",
-        "url": "https://open.spotify.com/album/22cFcAQkydpTzeSKQZEKv0"
-      },
-      "artists": [
-        {
-          "name": "Foster The People",
-          "url": "https://open.spotify.com/artist/7gP3bB2nilZXLfPHJhMdvc"
-        }
-      ],
-      "duration_ms": 267826,
-      "name": "Best Friend",
-      "url": "https://open.spotify.com/track/7tvOve5IkjYenvqScZ75iQ"
-    },
-    {
-      "added_at": "2021-09-03 05:42:37",
-      "album": {
         "name": "This Is All Yours",
         "url": "https://open.spotify.com/album/4oktVvRuO1In9B7Hz0xm0a"
       },
@@ -1263,6 +1247,22 @@
       "duration_ms": 216004,
       "name": "Every Other Freckle",
       "url": "https://open.spotify.com/track/6BVBkKpZK09NmifUMZqj1z"
+    },
+    {
+      "added_at": "2021-09-03 05:42:37",
+      "album": {
+        "name": "Supermodel",
+        "url": "https://open.spotify.com/album/22cFcAQkydpTzeSKQZEKv0"
+      },
+      "artists": [
+        {
+          "name": "Foster The People",
+          "url": "https://open.spotify.com/artist/7gP3bB2nilZXLfPHJhMdvc"
+        }
+      ],
+      "duration_ms": 267826,
+      "name": "Best Friend",
+      "url": "https://open.spotify.com/track/7tvOve5IkjYenvqScZ75iQ"
     },
     {
       "added_at": "2021-09-03 05:42:37",
@@ -1299,22 +1299,6 @@
     {
       "added_at": "2021-09-03 05:42:37",
       "album": {
-        "name": "Jungle",
-        "url": "https://open.spotify.com/album/5dYCfDcz1KB5E9i2kgWXXr"
-      },
-      "artists": [
-        {
-          "name": "Jungle",
-          "url": "https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071"
-        }
-      ],
-      "duration_ms": 181772,
-      "name": "Busy Earnin'",
-      "url": "https://open.spotify.com/track/5TloYFwzd09yWy8xkRLVUu"
-    },
-    {
-      "added_at": "2021-09-03 05:42:37",
-      "album": {
         "name": "After the Disco",
         "url": "https://open.spotify.com/album/0cjMGmZKB9ZWzcb0VcASpf"
       },
@@ -1327,6 +1311,22 @@
       "duration_ms": 236866,
       "name": "Holding on for Life",
       "url": "https://open.spotify.com/track/757PJjXAgywxrYkdhMkEV9"
+    },
+    {
+      "added_at": "2021-09-03 05:42:37",
+      "album": {
+        "name": "Jungle",
+        "url": "https://open.spotify.com/album/5dYCfDcz1KB5E9i2kgWXXr"
+      },
+      "artists": [
+        {
+          "name": "Jungle",
+          "url": "https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071"
+        }
+      ],
+      "duration_ms": 181772,
+      "name": "Busy Earnin'",
+      "url": "https://open.spotify.com/track/5TloYFwzd09yWy8xkRLVUu"
     },
     {
       "added_at": "2021-09-03 05:42:37",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3tmmwE.md) - [plain]
 
 > This is Bo Bundy\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 400 likes - 45 songs - 2 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 402 likes - 45 songs - 2 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,11 +28,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3tmmwE.md) - [plain]
 | 18 | [Bien Horniado](https://open.spotify.com/track/6S2sOrNF7Ur33z5gznLeck) | [Big Los](https://open.spotify.com/artist/1FHtqDcXHlMd3icr4Gb5De), [Bo Bundy](https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS), [Jandres](https://open.spotify.com/artist/1dm56ndSieUS8r21629uvt) | [Bien Horniado](https://open.spotify.com/album/4DVC0WC5r18Ewj54X9FX3R) | 3:12 |
 | 19 | [Suicidal Thoughts](https://open.spotify.com/track/2K5zpAajpUKkfMnYCv7mUV) | [Bo Bundy](https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS) | [El Unico Desmadre De Mi Madre](https://open.spotify.com/album/1wmOkfoXchbPEPP1oz4pAW) | 2:48 |
 | 20 | [Tourin' TX](https://open.spotify.com/track/6qX8E7sQPGKh7b6ouEPT52) | [Bo Bundy](https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS) | [Tourin' TX](https://open.spotify.com/album/1utp7rDNUx2mI6vQ4YFZex) | 2:39 |
-| 21 | [Big Chains](https://open.spotify.com/track/7uRLpDoVtEnhlaUFJyVTfX) | [Bo Bundy](https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS), [HOODLUM](https://open.spotify.com/artist/2tH2e9dYfRSD6pjLbcieGQ), [Le$](https://open.spotify.com/artist/7rikNLN4AV6SQn9ryQFaMw) | [The Lonestar \(Side B\)](https://open.spotify.com/album/06umNxBSyTAPfB3XYfn95D) | 2:40 |
+| 21 | [Remember](https://open.spotify.com/track/1QCkjXXUc9XXBXa4Xb00ia) | [Bo Bundy](https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS) | [The Lonestar \(Side B\)](https://open.spotify.com/album/06umNxBSyTAPfB3XYfn95D) | 3:29 |
 | 22 | [Pa los Hombres](https://open.spotify.com/track/0gFsz5GfIcGnO9eM4htJOS) | [Bo Bundy](https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS), [Andy Hernandez](https://open.spotify.com/artist/7nB8tKUsp7YlXtuHdn8EMR) | [The Lonestar \(Side A\)](https://open.spotify.com/album/1rJiyZO8IkLAG0oWweOrHp) | 2:04 |
 | 23 | [3 Noches](https://open.spotify.com/track/3rNYesKTSEHJSwm5AfIaqi) | [Bo Bundy](https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS) | [El Unico Desmadre De Mi Madre](https://open.spotify.com/album/1wmOkfoXchbPEPP1oz4pAW) | 2:15 |
 | 24 | [Big Le$ter](https://open.spotify.com/track/5qGkr8pCLtW4BOvfOhamnB) | [Le$](https://open.spotify.com/artist/7rikNLN4AV6SQn9ryQFaMw), [Bo Bundy](https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS) | [E30](https://open.spotify.com/album/3wFy8XIYlQ3rVGL1g3PcAc) | 4:47 |
-| 25 | [Remember](https://open.spotify.com/track/1QCkjXXUc9XXBXa4Xb00ia) | [Bo Bundy](https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS) | [The Lonestar \(Side B\)](https://open.spotify.com/album/06umNxBSyTAPfB3XYfn95D) | 3:29 |
+| 25 | [Big Chains](https://open.spotify.com/track/7uRLpDoVtEnhlaUFJyVTfX) | [Bo Bundy](https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS), [HOODLUM](https://open.spotify.com/artist/2tH2e9dYfRSD6pjLbcieGQ), [Le$](https://open.spotify.com/artist/7rikNLN4AV6SQn9ryQFaMw) | [The Lonestar \(Side B\)](https://open.spotify.com/album/06umNxBSyTAPfB3XYfn95D) | 2:40 |
 | 26 | [BBS Interlude](https://open.spotify.com/track/0pMnRhEsxfhbF8fuSEGAOQ) | [Bo Bundy](https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS) | [The Lonestar \(Side A\)](https://open.spotify.com/album/1rJiyZO8IkLAG0oWweOrHp) | 0:30 |
 | 27 | [Golden Child](https://open.spotify.com/track/1hwd655VNQi36ID8lbpM6R) | [Bo Bundy](https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS) | [Nino de Oro](https://open.spotify.com/album/58gcWA2WJpH0VZvzTn6ecM) | 1:08 |
 | 28 | [Cassius Clay](https://open.spotify.com/track/0G52dus3dx0cnobNQbieDi) | [Bo Bundy](https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS) | [Godspeed](https://open.spotify.com/album/4w2VTx35NJRufT0ZFwNgcy) | 2:35 |
@@ -54,4 +54,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3tmmwE.md) - [plain]
 | 44 | [Beamer](https://open.spotify.com/track/3OL0bIhbnzpPgQlR8BWfRg) | [Bo Bundy](https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS) | [Beamer](https://open.spotify.com/album/6Rs7o9wq4jXCnCJuwfo0Ce) | 1:57 |
 | 45 | [Iced Up](https://open.spotify.com/track/0CIwHAk9lkaNoHLx087IqV) | [Bo Bundy](https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS), [Trill Wavy](https://open.spotify.com/artist/1KxUNpDUvoNJNUqBmGCD7L) | [Contra el Mundo](https://open.spotify.com/album/54CaxF5mj1rXGAHRE5DiAK) | 2:28 |
 
-Snapshot ID: `MjgwNzIyMDYsMDAwMDAwMDA3Y2I4MDNlN2M5ZjkyZDRiZjI0NTNmNTU0NTk1ZTZkNw==`
+Snapshot ID: `MjgwNzM1MzIsMDAwMDAwMDA3MmVkNTgzODRkMDcxNzU1NTNjOTVmYjlkZTA4ZjIxYg==`

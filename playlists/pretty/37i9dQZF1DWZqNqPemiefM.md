@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqNqPemiefM.md) - [plain]
 
 > Deep concentration with these outstanding Japanese ambient tracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 49,864 likes - 50 songs - 3 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 49,987 likes - 50 songs - 3 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqNqPemiefM.md) - [plain]
 | 32 | [Hearsay](https://open.spotify.com/track/1ijxEsdn2IqzjesRbdROHt) | [Ken Ikeda](https://open.spotify.com/artist/7jmgDnD5qtBb0Vw7VsGY7m) | [Sparse Memory](https://open.spotify.com/album/3sXf7vC0g92GljNNdWmHX6) | 6:36 |
 | 33 | [Chōchin](https://open.spotify.com/track/7dQe00xxpzTBeG8AYRr5TW) | [Meitei](https://open.spotify.com/artist/5TS4DIOBGgEE6ysYh7yuii) | [Komachi](https://open.spotify.com/album/4IkrCCorQFfEfwoiCt441A) | 4:24 |
 | 34 | [Nocturne \- New Recording](https://open.spotify.com/track/03IzGkHbZHnQxweVx1V6q8) | [Oscilation Circuit](https://open.spotify.com/artist/3jvi65ZLtt5fPK1CqFYIW5) | [Nocturne \- New Recording](https://open.spotify.com/album/3ubWJpP2KOf2HG3zXmCJe8) | 4:55 |
-| 35 | [vi \(almost equal to\) ix](https://open.spotify.com/track/5JZq6B2jtxGVvmausM9Xed) | [Akira Kosemura](https://open.spotify.com/artist/4n1lW38WKgyPEIZowQ3AND) | [vi \(almost equal to\) ix](https://open.spotify.com/album/6HeluvAtfAwsWp2e7sTCOf) | 3:44 |
-| 36 | [Still Space](https://open.spotify.com/track/7e7HTzbFsmLR0mg9QkwMPr) | [Satoshi Ashikawa](https://open.spotify.com/artist/0O0TybCQ8Mib6g5AwnfXz5) | [Kankyō Ongaku: Japanese Ambient, Environmental & New Age Music 1980\-1990](https://open.spotify.com/album/63x6MwkzIVtoH6lbHIYEtr) | 3:59 |
+| 35 | [Still Space](https://open.spotify.com/track/7e7HTzbFsmLR0mg9QkwMPr) | [Satoshi Ashikawa](https://open.spotify.com/artist/0O0TybCQ8Mib6g5AwnfXz5) | [Kankyō Ongaku: Japanese Ambient, Environmental & New Age Music 1980\-1990](https://open.spotify.com/album/63x6MwkzIVtoH6lbHIYEtr) | 3:59 |
+| 36 | [vi \(almost equal to\) ix](https://open.spotify.com/track/5JZq6B2jtxGVvmausM9Xed) | [Akira Kosemura](https://open.spotify.com/artist/4n1lW38WKgyPEIZowQ3AND) | [vi \(almost equal to\) ix](https://open.spotify.com/album/6HeluvAtfAwsWp2e7sTCOf) | 3:44 |
 | 37 | [FEET](https://open.spotify.com/track/2XBXn7yluQZ6bFReesUjrt) | [Hiroshi Yoshimura](https://open.spotify.com/artist/1DGpHnPOpMYY780hcQHmPB) | [Green](https://open.spotify.com/album/07KJ48Y7pbXvz3Q4H44GZl) | 6:13 |
 | 38 | [Last Days](https://open.spotify.com/track/2wKV2ewqNf2ZjW4Nn2X5i7) | [Yasushi Yoshida](https://open.spotify.com/artist/2u5s5wxfNszaIZwWknh3eB) | [Heavenly Me Last Days](https://open.spotify.com/album/2ygBTmJ4Mvq2hXL3Ssjojm) | 9:59 |
 | 39 | [Seiko 2](https://open.spotify.com/track/56zWPqzYm4YE8vLMgMmScW) | [Yasuaki Shimizu](https://open.spotify.com/artist/0Q14t6kRnPv4av49Rz5o6e) | [Music For Commercials](https://open.spotify.com/album/6EGDUidDFrjFoxg6uSQdbH) | 1:08 |
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqNqPemiefM.md) - [plain]
 | 47 | [kokyu](https://open.spotify.com/track/5bUpCPlgvF9gW0FKQT6Oy3) | [Teruyuki Nobuchika](https://open.spotify.com/artist/2TJHKFB5XTGjMcTZ04tAkM) | [Sonorite](https://open.spotify.com/album/4faTpoJmxjd59tAvoxsCi8) | 7:53 |
 | 48 | [a beautiful day](https://open.spotify.com/track/3noxajjedyBfsd5eXjBwxC) | [yutaka hirasaka](https://open.spotify.com/artist/0stmdx2IonUUUIlWQ9bLYZ) | [heavenly tone](https://open.spotify.com/album/3gobeqbi2tgEkElXQ77c9k) | 4:56 |
 | 49 | [Going To The Sea](https://open.spotify.com/track/2e9PA5stDJoLkcLWN3KVCI) | [Haruomi Hosono](https://open.spotify.com/artist/370nbSkMB9kDWyTypwWYak) | [万引き家族「オリジナル・サウンドトラック」](https://open.spotify.com/album/5aWso14zYECQPkvEU5ENkQ) | 1:37 |
-| 50 | [Ake](https://open.spotify.com/track/6zM0lTTy7Ws0BmZ8JIja47) | [Haruhisa Tanaka](https://open.spotify.com/artist/4ZTlbJ3KHGs7wuvdtouuIw) | [Ake](https://open.spotify.com/album/23LxyHwGGCHfwBcSVZyiuk) | 2:07 |
+| 50 | [One Day](https://open.spotify.com/track/4BER2aGl5Nta8DEs3CV35s) | [Nobukazu Takemura](https://open.spotify.com/artist/1iXLUp5POcP8TLvg3p2ze9) | [Hoshi No Koe](https://open.spotify.com/album/6ZEv1wpEkZcjUO1UL9TLtb) | 1:43 |
 
-Snapshot ID: `MCw4MzFjYjExMTZhMDA4YjE5MDlhZTNiNTFlYmRiOWI3NTUyNWY0ZDll`
+Snapshot ID: `MCw4MWEyODliODAyYjgzMDg3MjQxNWY2MWMyOWE2ZmRkNjNlNTlhZTA0`

@@ -2883,6 +2883,24 @@
     },
     {
       "album": {
+        "name": "Ones You Miss (Acoustic)",
+        "url": "https://open.spotify.com/album/0SlDDFEJwrS2EN2rEHi3kp"
+      },
+      "artists": [
+        {
+          "name": "R3HAB",
+          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
+        }
+      ],
+      "date_added": "2023-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112173,
+      "name": "Ones You Miss - Acoustic",
+      "url": "https://open.spotify.com/track/62SkGDuBT9YGE11bLCuSJl"
+    },
+    {
+      "album": {
         "name": "DC to Light",
         "url": "https://open.spotify.com/album/21c76kAFkBXFvGnKglGLZ6"
       },
@@ -4954,7 +4972,7 @@
       ],
       "date_added": "2022-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 186754,
       "name": "Zedd Medley - Find You/Spectrum/Clarity/Stay the Night",
       "url": "https://open.spotify.com/track/3BLFyxm5MDU1UmNILcuC8R"

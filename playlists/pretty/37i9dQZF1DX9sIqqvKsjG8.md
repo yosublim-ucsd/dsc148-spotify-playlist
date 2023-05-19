@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9sIqqvKsjG8.md) - [plain]
 
 > Focus with soft study music in the background.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,728,572 likes - 313 songs - 12 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,728,647 likes - 313 songs - 12 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -322,4 +322,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9sIqqvKsjG8.md) - [plain]
 | 312 | [Inner Axis](https://open.spotify.com/track/1jd5fyqDAFheXyMkCB0AX7) | [Marco Caron](https://open.spotify.com/artist/1ukrMCaSMKpylie4DjbhNw) | [Inner Axis](https://open.spotify.com/album/2EpslSBwvpOzdt0kk9nO4U) | 2:35 |
 | 313 | [Terrain libre](https://open.spotify.com/track/2U98faYK9ltVgZix2ZxZKC) | [Arabelle Blanchar](https://open.spotify.com/artist/2pMQiEztTsr0aHaQp6pM08) | [Terrain libre](https://open.spotify.com/album/4P1QMnaWN8yGfujJHayQ6U) | 2:39 |
 
-Snapshot ID: `MCxkODU2YWE1N2JlNTkyMmJjYTczMzg5OGI4MjkxNTZkYmM0NTI1NmVi`
+Snapshot ID: `MCwyMjZmYjc2ZjYxNmM3YTZmNTU1MzI0MzNhNTg5NDNjMWE3MGM1MTll`

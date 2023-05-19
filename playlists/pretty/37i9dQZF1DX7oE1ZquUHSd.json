@@ -1,12 +1,12 @@
 {
   "description": "El poder real del Hip Hop latinoamericano y espa\u00f1ol. Foto: Cartel de Santa",
-  "num_followers": 144969,
+  "num_followers": 145160,
   "original_name": "Cl\u00e1sicos del Hip Hop Latino",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3N2M1ZDczNjI1ZDM2MTNlMDFhOTgwZmIyMTg3OWNhYzQxOGQ3Y2M5",
+  "snapshot_id": "MCwwZjg4MTgwYTUwZjg3N2Q2Y2MyYzkwNjc0OWE0NTQxMzVmMTNiY2Nk",
   "tracks": [
     {
       "added_at": "2021-11-16 20:18:05",
@@ -847,6 +847,22 @@
     {
       "added_at": "2021-11-16 20:18:05",
       "album": {
+        "name": "Barrio Fino (Bonus Track Version)",
+        "url": "https://open.spotify.com/album/4pLuE50wL9T26lSv42X0J2"
+      },
+      "artists": [
+        {
+          "name": "Daddy Yankee",
+          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
+        }
+      ],
+      "duration_ms": 206800,
+      "name": "Salud y Vida",
+      "url": "https://open.spotify.com/track/25KbjEXRp7kYaxhEQixl2D"
+    },
+    {
+      "added_at": "2021-11-16 20:18:05",
+      "album": {
         "name": "Sin Culpa (feat. DrefQuila)",
         "url": "https://open.spotify.com/album/0saZWvAogHzd9Cf3mesXc4"
       },
@@ -863,22 +879,6 @@
       "duration_ms": 244771,
       "name": "Sin Culpa (feat.DrefQuila)",
       "url": "https://open.spotify.com/track/03PZ9C7f90TLbDk3dYjBd2"
-    },
-    {
-      "added_at": "2021-11-16 20:18:05",
-      "album": {
-        "name": "Barrio Fino (Bonus Track Version)",
-        "url": "https://open.spotify.com/album/4pLuE50wL9T26lSv42X0J2"
-      },
-      "artists": [
-        {
-          "name": "Daddy Yankee",
-          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
-        }
-      ],
-      "duration_ms": 206800,
-      "name": "Salud y Vida",
-      "url": "https://open.spotify.com/track/25KbjEXRp7kYaxhEQixl2D"
     },
     {
       "added_at": "2021-11-16 20:18:05",
@@ -1139,22 +1139,6 @@
     {
       "added_at": "2021-11-16 20:18:05",
       "album": {
-        "name": "Servicios Ambulatorioz",
-        "url": "https://open.spotify.com/album/5aBubKb1PUsfAygzat5ZmJ"
-      },
-      "artists": [
-        {
-          "name": "Alcolirykoz",
-          "url": "https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D"
-        }
-      ],
-      "duration_ms": 199213,
-      "name": "Tararea",
-      "url": "https://open.spotify.com/track/5TiXw4jvzMAQsWjCpT61TB"
-    },
-    {
-      "added_at": "2021-11-16 20:18:05",
-      "album": {
         "name": "By My Own",
         "url": "https://open.spotify.com/album/62noTaEhTBmROMVn0xK07X"
       },
@@ -1167,6 +1151,22 @@
       "duration_ms": 218741,
       "name": "By My Own",
       "url": "https://open.spotify.com/track/3OyQhuxr8fFaTnh5sHURci"
+    },
+    {
+      "added_at": "2021-11-16 20:18:05",
+      "album": {
+        "name": "Servicios Ambulatorioz",
+        "url": "https://open.spotify.com/album/5aBubKb1PUsfAygzat5ZmJ"
+      },
+      "artists": [
+        {
+          "name": "Alcolirykoz",
+          "url": "https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D"
+        }
+      ],
+      "duration_ms": 199213,
+      "name": "Tararea",
+      "url": "https://open.spotify.com/track/5TiXw4jvzMAQsWjCpT61TB"
     },
     {
       "added_at": "2021-11-16 20:18:05",
@@ -1499,26 +1499,6 @@
     {
       "added_at": "2021-11-16 20:18:05",
       "album": {
-        "name": "ANIMAL",
-        "url": "https://open.spotify.com/album/4eBTljS2CAgzO8rfcwRTGp"
-      },
-      "artists": [
-        {
-          "name": "ACRU",
-          "url": "https://open.spotify.com/artist/0bYQe0JDIjxkSHQoXlfngl"
-        },
-        {
-          "name": "WOS",
-          "url": "https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK"
-        }
-      ],
-      "duration_ms": 170981,
-      "name": "ANIMAL",
-      "url": "https://open.spotify.com/track/06b0Au6pvZiO03eKTCvgWh"
-    },
-    {
-      "added_at": "2021-11-16 20:18:05",
-      "album": {
         "name": "Poesia Difusa",
         "url": "https://open.spotify.com/album/1zrVeZHRsPsRWdnQSuUIYG"
       },
@@ -1535,6 +1515,26 @@
       "duration_ms": 309606,
       "name": "Amor Libre",
       "url": "https://open.spotify.com/track/1PT0H11VO2JSWjsCPR0CBd"
+    },
+    {
+      "added_at": "2021-11-16 20:18:05",
+      "album": {
+        "name": "ANIMAL",
+        "url": "https://open.spotify.com/album/4eBTljS2CAgzO8rfcwRTGp"
+      },
+      "artists": [
+        {
+          "name": "ACRU",
+          "url": "https://open.spotify.com/artist/0bYQe0JDIjxkSHQoXlfngl"
+        },
+        {
+          "name": "WOS",
+          "url": "https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK"
+        }
+      ],
+      "duration_ms": 170981,
+      "name": "ANIMAL",
+      "url": "https://open.spotify.com/track/06b0Au6pvZiO03eKTCvgWh"
     },
     {
       "added_at": "2021-11-16 20:18:05",
@@ -1579,38 +1579,6 @@
     {
       "added_at": "2021-11-16 20:18:05",
       "album": {
-        "name": "Apaga el celular",
-        "url": "https://open.spotify.com/album/4hl6j5ZMGsCxBhw3BuDDbK"
-      },
-      "artists": [
-        {
-          "name": "LIT killah",
-          "url": "https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq"
-        }
-      ],
-      "duration_ms": 225942,
-      "name": "Apaga el celular",
-      "url": "https://open.spotify.com/track/7BhCvFVZwe04hLpNutqTdg"
-    },
-    {
-      "added_at": "2021-11-16 20:18:05",
-      "album": {
-        "name": "Vicios y Virtudes",
-        "url": "https://open.spotify.com/album/6SaShuiobMOc9mIiSmP2kY"
-      },
-      "artists": [
-        {
-          "name": "Violadores Del Verso",
-          "url": "https://open.spotify.com/artist/1DH9RJ0xBVje6gQmK3LWUY"
-        }
-      ],
-      "duration_ms": 269160,
-      "name": "Ninguna Chavala Tiene Due\u00f1o - Porque Ella Me Lo Dijo",
-      "url": "https://open.spotify.com/track/5fIJBM9OxVNiu4fQLX9vqo"
-    },
-    {
-      "added_at": "2021-11-16 20:18:05",
-      "album": {
         "name": "HandMade",
         "url": "https://open.spotify.com/album/03pei2ys07tBBGUi0Xrly8"
       },
@@ -1623,6 +1591,38 @@
       "duration_ms": 234648,
       "name": "Fly Chill",
       "url": "https://open.spotify.com/track/2N7IoT0kof97BeaQmgw8Qd"
+    },
+    {
+      "added_at": "2021-11-16 20:18:05",
+      "album": {
+        "name": "Vivir para Contarlo",
+        "url": "https://open.spotify.com/album/6LeLj7gigY7PBgPVZ6P25f"
+      },
+      "artists": [
+        {
+          "name": "Violadores Del Verso",
+          "url": "https://open.spotify.com/artist/1DH9RJ0xBVje6gQmK3LWUY"
+        }
+      ],
+      "duration_ms": 374853,
+      "name": "Pura Droga Sin Cortar",
+      "url": "https://open.spotify.com/track/7zUhVz7yMmO1mmbfFI8R5i"
+    },
+    {
+      "added_at": "2021-11-16 20:18:05",
+      "album": {
+        "name": "Apaga el celular",
+        "url": "https://open.spotify.com/album/4hl6j5ZMGsCxBhw3BuDDbK"
+      },
+      "artists": [
+        {
+          "name": "LIT killah",
+          "url": "https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq"
+        }
+      ],
+      "duration_ms": 225942,
+      "name": "Apaga el celular",
+      "url": "https://open.spotify.com/track/7BhCvFVZwe04hLpNutqTdg"
     },
     {
       "added_at": "2021-11-16 20:18:05",
@@ -1691,8 +1691,8 @@
     {
       "added_at": "2021-11-16 20:18:05",
       "album": {
-        "name": "Vivir para Contarlo",
-        "url": "https://open.spotify.com/album/6LeLj7gigY7PBgPVZ6P25f"
+        "name": "Vicios y Virtudes",
+        "url": "https://open.spotify.com/album/6SaShuiobMOc9mIiSmP2kY"
       },
       "artists": [
         {
@@ -1700,9 +1700,9 @@
           "url": "https://open.spotify.com/artist/1DH9RJ0xBVje6gQmK3LWUY"
         }
       ],
-      "duration_ms": 374853,
-      "name": "Pura Droga Sin Cortar",
-      "url": "https://open.spotify.com/track/7zUhVz7yMmO1mmbfFI8R5i"
+      "duration_ms": 269160,
+      "name": "Ninguna Chavala Tiene Due\u00f1o - Porque Ella Me Lo Dijo",
+      "url": "https://open.spotify.com/track/5fIJBM9OxVNiu4fQLX9vqo"
     },
     {
       "added_at": "2021-11-16 20:18:05",
@@ -1855,18 +1855,18 @@
     {
       "added_at": "2021-11-16 20:18:05",
       "album": {
-        "name": "Los Grandes \u00c9xitos En Espa\u00f1ol (Spanish Greatest Hits)",
-        "url": "https://open.spotify.com/album/7u6yoSRjIBM2EI52DJLMkZ"
+        "name": "Manos de Anillo",
+        "url": "https://open.spotify.com/album/2TWqwQ1OOfbI8D7g31SbQU"
       },
       "artists": [
         {
-          "name": "Cypress Hill",
-          "url": "https://open.spotify.com/artist/4P0dddbxPil35MNN9G2MEX"
+          "name": "Simpson Ahuevo",
+          "url": "https://open.spotify.com/artist/6viZnVSHavFUcW0blu6Mvw"
         }
       ],
-      "duration_ms": 166760,
-      "name": "Yo Quiero Fumar (I Wanna Get High) - Spanish Version",
-      "url": "https://open.spotify.com/track/3RIDe85YSYGGoJ0daSzfhD"
+      "duration_ms": 225957,
+      "name": "Manos de Anillo",
+      "url": "https://open.spotify.com/track/7vbYVWDpMxZS97V5dPeflc"
     }
   ],
   "unique_name": "Cl\u00e1sicos del Hip Hop Latino",

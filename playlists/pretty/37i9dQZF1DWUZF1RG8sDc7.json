@@ -1,12 +1,12 @@
 {
   "description": "Porque el coraz\u00f3n habla vallenato. \u00a1Ay ombe!",
-  "num_followers": 77805,
+  "num_followers": 77925,
   "original_name": "Vallenato Rom\u00e1ntico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1MzM3MDMxODljZDY0MTlkNzk5NjhhYTVhNmRjY2U3MGExNWZkMmVl",
+  "snapshot_id": "MCwzMzY5MjBkODVlYjQyM2U2NmEzMzE5NTc3ZmNjNTkwMjBmMDA1MDgz",
   "tracks": [
     {
       "added_at": "2022-12-16 20:17:47",
@@ -755,6 +755,22 @@
     {
       "added_at": "2022-12-16 20:17:47",
       "album": {
+        "name": "Por Buen Camino",
+        "url": "https://open.spotify.com/album/1p9d7eTbTc4cra1TwkxPHI"
+      },
+      "artists": [
+        {
+          "name": "Los Gigantes Del Vallenato",
+          "url": "https://open.spotify.com/artist/0P8EpsSMekkWtsX331Iebt"
+        }
+      ],
+      "duration_ms": 285986,
+      "name": "Un Solo Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/2Ia1pSf6YoK4aMJzK26Gfk"
+    },
+    {
+      "added_at": "2022-12-16 20:17:47",
+      "album": {
         "name": "Titulo De Amor",
         "url": "https://open.spotify.com/album/0FemNl3cjskKpjCTUj3fne"
       },
@@ -775,38 +791,18 @@
     {
       "added_at": "2022-12-16 20:17:47",
       "album": {
-        "name": "Por Buen Camino",
-        "url": "https://open.spotify.com/album/1p9d7eTbTc4cra1TwkxPHI"
+        "name": "Vallenato Fest",
+        "url": "https://open.spotify.com/album/0ewlJ0aYyI7OfcqICyuP06"
       },
       "artists": [
         {
-          "name": "Los Gigantes Del Vallenato",
-          "url": "https://open.spotify.com/artist/0P8EpsSMekkWtsX331Iebt"
+          "name": "Grupo Vallenato",
+          "url": "https://open.spotify.com/artist/6JjHRZP5MEJocK6frtvrEE"
         }
       ],
-      "duration_ms": 285986,
-      "name": "Un Solo Coraz\u00f3n",
-      "url": "https://open.spotify.com/track/2Ia1pSf6YoK4aMJzK26Gfk"
-    },
-    {
-      "added_at": "2022-12-16 20:17:47",
-      "album": {
-        "name": "Guerreras Del Amor",
-        "url": "https://open.spotify.com/album/4sbD543Z4mC4tFsaVJIGQ6"
-      },
-      "artists": [
-        {
-          "name": "Patricia Teher\u00e1n",
-          "url": "https://open.spotify.com/artist/2pctdrQetn7EI0QpCm9RIF"
-        },
-        {
-          "name": "Las Musas Del Vallenato",
-          "url": "https://open.spotify.com/artist/51NKeKxApR2v2CKQ5oejIo"
-        }
-      ],
-      "duration_ms": 277472,
-      "name": "Me Dejaste Sin Nada",
-      "url": "https://open.spotify.com/track/00Yl6SEMlkvr0mnZGhvvcr"
+      "duration_ms": 316279,
+      "name": "Dime Que Me Quieres",
+      "url": "https://open.spotify.com/track/0GPCmhhe3HkJ6VVHOwJmZw"
     },
     {
       "added_at": "2022-12-16 20:17:47",
@@ -851,18 +847,22 @@
     {
       "added_at": "2022-12-16 20:17:47",
       "album": {
-        "name": "Vallenato Fest",
-        "url": "https://open.spotify.com/album/0ewlJ0aYyI7OfcqICyuP06"
+        "name": "Guerreras Del Amor",
+        "url": "https://open.spotify.com/album/4sbD543Z4mC4tFsaVJIGQ6"
       },
       "artists": [
         {
-          "name": "Grupo Vallenato",
-          "url": "https://open.spotify.com/artist/6JjHRZP5MEJocK6frtvrEE"
+          "name": "Patricia Teher\u00e1n",
+          "url": "https://open.spotify.com/artist/2pctdrQetn7EI0QpCm9RIF"
+        },
+        {
+          "name": "Las Musas Del Vallenato",
+          "url": "https://open.spotify.com/artist/51NKeKxApR2v2CKQ5oejIo"
         }
       ],
-      "duration_ms": 316279,
-      "name": "Dime Que Me Quieres",
-      "url": "https://open.spotify.com/track/0GPCmhhe3HkJ6VVHOwJmZw"
+      "duration_ms": 277472,
+      "name": "Me Dejaste Sin Nada",
+      "url": "https://open.spotify.com/track/00Yl6SEMlkvr0mnZGhvvcr"
     },
     {
       "added_at": "2022-12-16 20:17:47",
@@ -1067,22 +1067,6 @@
     {
       "added_at": "2022-12-16 20:17:47",
       "album": {
-        "name": "Super Vallenatos 2008",
-        "url": "https://open.spotify.com/album/1AhZ43USD4PzQwrtXsoJ4w"
-      },
-      "artists": [
-        {
-          "name": "Nelson Velasquez",
-          "url": "https://open.spotify.com/artist/0B9fAbZMZTBXUyffDU2Mxj"
-        }
-      ],
-      "duration_ms": 292133,
-      "name": "Casualidad",
-      "url": "https://open.spotify.com/track/7tyIylqZUGEcJ9W280KcJe"
-    },
-    {
-      "added_at": "2022-12-16 20:17:47",
-      "album": {
         "name": "Exitos de Siempre",
         "url": "https://open.spotify.com/album/6LNXyCL7febw4qJyGrfqq7"
       },
@@ -1095,6 +1079,22 @@
       "duration_ms": 309655,
       "name": "Despues del Adios",
       "url": "https://open.spotify.com/track/3o3QShHHLuR3gHBhR0Yeve"
+    },
+    {
+      "added_at": "2022-12-16 20:17:47",
+      "album": {
+        "name": "Super Vallenatos 2008",
+        "url": "https://open.spotify.com/album/1AhZ43USD4PzQwrtXsoJ4w"
+      },
+      "artists": [
+        {
+          "name": "Nelson Velasquez",
+          "url": "https://open.spotify.com/artist/0B9fAbZMZTBXUyffDU2Mxj"
+        }
+      ],
+      "duration_ms": 292133,
+      "name": "Casualidad",
+      "url": "https://open.spotify.com/track/7tyIylqZUGEcJ9W280KcJe"
     },
     {
       "added_at": "2022-12-16 20:17:47",

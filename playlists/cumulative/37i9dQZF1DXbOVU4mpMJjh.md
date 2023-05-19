@@ -4,7 +4,7 @@
 
 > Relax to gentle vocal and instrumental Jazz.
 
-696 songs - 2 day 2 hr 35 min
+697 songs - 2 day 2 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -326,7 +326,7 @@
 | [Landmarks](https://open.spotify.com/track/5bjV2B1rH2gkdtJ4qr0qQy) | [Brian Blade & The Fellowship Band](https://open.spotify.com/artist/4gjFkHMQ2r46oQ7gsIQaCF) | [Landmarks](https://open.spotify.com/album/5InHDZVvNbDDvq917BmMgT) | 8:20 | 2022-04-14 | 2022-10-03 |
 | [Last Call](https://open.spotify.com/track/2nUhKiUfVdLcGmcdYHdjBw) | [Glass Trio](https://open.spotify.com/artist/2RfscHz3ooemLWvQslMeqm) | [Nightcaps](https://open.spotify.com/album/2LkaBy0R9FbEBd6xqsT0ja) | 2:49 | 2023-02-16 |  |
 | [Last Time](https://open.spotify.com/track/1hJDVrOqH92eenr4R1xDge) | [Ray Horne Trio](https://open.spotify.com/artist/51XvvMJ1TNAQpuGnDlwmUT) | [Last Time](https://open.spotify.com/album/0jagdC0GzcXXZ3K8K7pubH) | 3:31 | 2022-12-22 |  |
-| [Last Time I Saw You](https://open.spotify.com/track/2Qyrr1fiYwV3bShAZqiivZ) | [West Village Trio](https://open.spotify.com/artist/6cIFYOs23Aowktaez0d6ew) | [Rue Saint\-Rustique](https://open.spotify.com/album/1IJrePjVbCWRK31hmKa3jB) | 3:55 | 2022-12-22 |  |
+| [Last Time I Saw You](https://open.spotify.com/track/2Qyrr1fiYwV3bShAZqiivZ) | [West Village Trio](https://open.spotify.com/artist/6cIFYOs23Aowktaez0d6ew) | [Rue Saint\-Rustique](https://open.spotify.com/album/1IJrePjVbCWRK31hmKa3jB) | 3:55 | 2022-12-22 | 2023-05-19 |
 | [Last Time We Kissed](https://open.spotify.com/track/2VKyHhj7QFTyxqOwyde1rS) | [The Groove Trio](https://open.spotify.com/artist/4vmN5DgVFk2GDBHDu1ZJeb) | [Life in Space](https://open.spotify.com/album/63Y51ZVDizFQyxA8znmmbn) | 4:14 | 2022-12-22 |  |
 | [Late Reflections](https://open.spotify.com/track/76RWGx3zZ46aIY4WPjsLuo) | [Douglas Ruby Trio](https://open.spotify.com/artist/1viVBXkZrTMnLT6hsFhiMM) | [Late Reflections](https://open.spotify.com/album/2iJH0ujIwbtlQ41b3CBcaO) | 3:41 | 2023-04-14 |  |
 | [Laura](https://open.spotify.com/track/5c6uQOFSUzRGOiEVdDB6Zx) | [Saginaw Society](https://open.spotify.com/artist/6DZHD4qSGUFPJVZZARcJDY) | [Laura](https://open.spotify.com/album/53Vz2jcWzo7abWsSzjBWrj) | 4:04 | 2022-08-29 | 2023-04-20 |
@@ -529,6 +529,7 @@
 | [She's Funny That Way](https://open.spotify.com/track/4fn0kfdUbc5LlAjTwG4RX4) | [Tonic and their Time](https://open.spotify.com/artist/4f9dZJd9mswxGvKKoTJSZT) | [She's Funny That Way](https://open.spotify.com/album/0BSvGhV8CykM0MenOFaZtA) | 3:46 | 2023-04-20 |  |
 | [Sicilyan Dream \(D’après Siciliano, BWV\. 1031 de Johann Sebastian Bach\)](https://open.spotify.com/track/22DgAcWnb50oKlv0F8eziW) | [Enrico Pieranunzi](https://open.spotify.com/artist/5vACdMa2kY7jHnlJwqYRKP), [André Ceccarelli](https://open.spotify.com/artist/77FgwKhxIPrET0QgGTn58K), [Diego Imbert](https://open.spotify.com/artist/0jdE0ynq5zcnMeAn9XutIX) | [Ménage à trois](https://open.spotify.com/album/55UQ7AQ6F88cmU7SEoVNaE) | 4:37 | 2022-04-14 | 2022-10-08 |
 | [Signs in the Wind](https://open.spotify.com/track/3qSBy2qrGqxiZ0dtikcgk1) | [The Holly Molly Trio](https://open.spotify.com/artist/3g3uNIc5VvWR29BUhjuVAZ) | [Signs in the Wind](https://open.spotify.com/album/4ZsfPweycVfmBNlgJh8NgP) | 2:16 | 2022-06-28 |  |
+| [Silent Streets](https://open.spotify.com/track/0FrtYU16g7KDBnG9F5tCHe) | [Tannenbaum Trio](https://open.spotify.com/artist/5o0nK5sGCqA1E4MTOCgpSn) | [Silent Streets](https://open.spotify.com/album/1vQAltisCxDsgosm4JeRjf) | 3:15 | 2023-05-11 |  |
 | [Silent Thunder](https://open.spotify.com/track/6yY6hRz9VNEhaRyWEHTezV) | [Carla Anderson](https://open.spotify.com/artist/1TbIqBiSP0SseGrRStPd3o) | [Silent Thunder](https://open.spotify.com/album/2D7QuOEsAvaN9oSQTLEjqb) | 4:39 | 2022-06-22 | 2023-04-29 |
 | [Silky Smooth](https://open.spotify.com/track/71m0kBDhVhtjFcBCJLFTKc) | [Eira Eld](https://open.spotify.com/artist/1Ry53E1vatWPQYpL9DXlQn) | [Silky Smooth](https://open.spotify.com/album/1yvVjaJnkvezldKwO31Y5C) | 2:44 | 2023-04-20 |  |
 | [Silver Lining](https://open.spotify.com/track/0THUYrw2Rk5JIjCJS6Qu0b) | [Bernhard Cohen](https://open.spotify.com/artist/4KU3igTxJsnJrxcOF2oC6f) | [Silver Lining](https://open.spotify.com/album/73PLpuORLQXSfTLQS9HuDc) | 3:04 | 2023-01-20 |  |

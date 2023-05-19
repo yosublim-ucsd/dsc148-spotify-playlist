@@ -4,7 +4,7 @@
 
 > Black, death and beyond\. Recent tracks and classics from the world of extreme metal\. Cover: Darkthrone
 
-394 songs - 1 day 10 hr 7 min
+395 songs - 1 day 10 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,7 +54,7 @@
 | [Blood Upon Stone](https://open.spotify.com/track/3DwKUwbM2bAoFSWvA70vPP) | [Cult Of Luna](https://open.spotify.com/artist/7E7fJJpdVgr1F3pfAfRtHe) | [The Long Road North](https://open.spotify.com/album/0mFOKK4EHSie3Hu1bhOiIB) | 11:39 | 2022-02-11 |  |
 | [Blow Your Trumpets Gabriel](https://open.spotify.com/track/07zQA8UkyxpmnRhPjHOVOB) | [Behemoth](https://open.spotify.com/artist/1MK0sGeyTNkbefYGj673e9) | [The Satanist](https://open.spotify.com/album/3KMD4mCBn8KS8bhtwn3cnq) | 4:25 | 2022-07-13 | 2022-07-29 |
 | [Blow Your Trumpets Gabriel](https://open.spotify.com/track/4JynkH6Oa9cJ0zUTzYA2UP) | [Behemoth](https://open.spotify.com/artist/1MK0sGeyTNkbefYGj673e9) | [The Satanist](https://open.spotify.com/album/7l0L2YHlQwAyI4QyZTIWGS) | 4:25 | 2022-07-13 |  |
-| [Born from the Serpent's Eye](https://open.spotify.com/track/7p0amXrQgyM53s3z9NfDty) | [Wolves In The Throne Room](https://open.spotify.com/artist/5lqyPWmAivV75tII5Vxpet) | [Thrice Woven](https://open.spotify.com/album/1Uw3L9tXHZFuTS1lepKNVk) | 9:36 | 2023-02-15 |  |
+| [Born from the Serpent's Eye](https://open.spotify.com/track/7p0amXrQgyM53s3z9NfDty) | [Wolves In The Throne Room](https://open.spotify.com/artist/5lqyPWmAivV75tII5Vxpet) | [Thrice Woven](https://open.spotify.com/album/1Uw3L9tXHZFuTS1lepKNVk) | 9:36 | 2023-02-15 | 2023-05-19 |
 | [Brutalist Imperator](https://open.spotify.com/track/0ojJNiUQs8Uo95M91xHqvv) | [Nightmarer](https://open.spotify.com/artist/6MqL55fccEqCvqitp4Nfbx) | [Brutalist Imperator](https://open.spotify.com/album/4VRVOdVcmDGunInXBqNSz1) | 3:46 | 2023-05-05 |  |
 | [brännmärkt](https://open.spotify.com/track/15ux2HWFlZnYoENzJYnzV2) | [Vildhjarta](https://open.spotify.com/artist/0z4ODfFM8PGE0A9r0tZ75J) | [måsstaden under vatten](https://open.spotify.com/album/4l7vAsUopNRu08SAkp9m8u) | 5:48 | 2021-12-17 | 2022-01-22 |
 | [Burn the Witch](https://open.spotify.com/track/5knAIdfCrDg5NCf3s4JpWT) | [Bloody Falls](https://open.spotify.com/artist/70aIXAYbZd48wRhXJfa39r), [Salla Flinkman](https://open.spotify.com/artist/71UgFcuxzgiAFdwTu26Qlg) | [Burn the Witch](https://open.spotify.com/album/33djeHekh7U3g2MudCPIg0) | 4:47 | 2021-12-17 | 2022-07-28 |
@@ -329,6 +329,7 @@
 | [The Bride of Corinth](https://open.spotify.com/track/7Hzq8rzkH0LjKSRSXwFXYD) | [Theatres Des Vampires](https://open.spotify.com/artist/4vNrZHCyGyELnv8tAgZZRt) | [In Nomine Sanguinis](https://open.spotify.com/album/1gHTP0xHAJkLiiYtm3U6Oa) | 3:37 | 2021-12-17 | 2022-07-27 |
 | [The Calling](https://open.spotify.com/track/0FqwZuGCQLvXIMwbob6bo1) | [Saturnus](https://open.spotify.com/artist/7HY8HFHBM9zrY5R9rlY3Id) | [The Calling](https://open.spotify.com/album/6mNPBN9o73Hon2zGRVvQC0) | 6:59 | 2023-03-17 | 2023-05-13 |
 | [The Celestial Keeper](https://open.spotify.com/track/3OQ3r2qzMj1gBpfQpo4HEZ) | [Fall Of The Leafe](https://open.spotify.com/artist/74wuD78VWnyGSwDvVtrQwn) | [Evanescent, Everfading](https://open.spotify.com/album/1zv5yNwJ91m73bxYe0r87V) | 4:29 | 2023-02-15 | 2023-03-18 |
+| [The Common Breed](https://open.spotify.com/track/3GT73Y2VeQaxa4XczlckO8) | [Creeping Death](https://open.spotify.com/artist/0m8C12hSt640ovLaxlsd5u) | [The Common Breed](https://open.spotify.com/album/2GfU8qLbwtmiGQ75f42IEE) | 4:32 | 2023-05-12 |  |
 | [The Dhampir, Pt\. I](https://open.spotify.com/track/2u3DAKhCPzGIZQfKRrm5zU) | [Tribulation](https://open.spotify.com/artist/7xTo7ipdBZezIoyAkmcRge) | [The Dhampir](https://open.spotify.com/album/2Oc0qi4XSeJgm6b8IqgChm) | 5:49 | 2022-04-22 | 2022-07-29 |
 | [The Dregs of Hades](https://open.spotify.com/track/03NK3EtH3txhiF6HiDH649) | [Lock Up](https://open.spotify.com/artist/0AKZrsOYW77C7QW1jzdhNX) | [The Dregs of Hades](https://open.spotify.com/album/2LAZb8cxJwce79vcz8gJCn) | 2:00 | 2021-12-17 | 2022-07-26 |
 | [The End Times](https://open.spotify.com/track/6FzzjKoj5Py692r0H7avNK) | [Saturnian Mist](https://open.spotify.com/artist/6AxkeLJs2XstRIeKqgSGTW) | [Shamatanic](https://open.spotify.com/album/1M5a4v5udsE4wUhKl3Lzi3) | 6:06 | 2021-12-17 | 2022-05-07 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxf0LotrLLG.md) - [plain]
 
 > Descubre los nuevos álbumes del año\. Hit shuffle for a mixed listening experience\. Cover: Morad
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,779 likes - 201 songs - 10 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,798 likes - 201 songs - 10 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -210,4 +210,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxf0LotrLLG.md) - [plain]
 | 200 | [Nada Sin Ti](https://open.spotify.com/track/4zddWTgblKVFEeElQ6SRnS) | [Alkilados](https://open.spotify.com/artist/2DP9xStkVVv753RBiEHXQB) | [Los Dueños De La Playa](https://open.spotify.com/album/2zVtWSTT0PPvpN1mSmVsAp) | 2:41 |
 | 201 | [Cómo Voy a Olvidarte](https://open.spotify.com/track/63mOOfk3Z85c3bxTC9hT4m) | [Alkilados](https://open.spotify.com/artist/2DP9xStkVVv753RBiEHXQB) | [Cómo Voy a Olvidarte](https://open.spotify.com/album/7xYk2XnU8ZoJsIaA5UBTNP) | 2:55 |
 
-Snapshot ID: `MCw0YTAzZTY5YjE0MmQxMDBlYzgxNTRmOWEyMjhhZjcwOTg2OGYwYjJj`
+Snapshot ID: `MCwzZDc1MWU1OGI4NjdhZDhiMzNkMTk2OGI1ZDRhYzE2NjFjOWI3MDkz`

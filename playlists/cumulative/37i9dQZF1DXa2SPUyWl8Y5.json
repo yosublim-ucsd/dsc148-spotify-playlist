@@ -5788,10 +5788,28 @@
       ],
       "date_added": "2020-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 191612,
       "name": "Suvi",
       "url": "https://open.spotify.com/track/3hB45uxnbEjhGJHQZKOpFL"
+    },
+    {
+      "album": {
+        "name": "Born Digital",
+        "url": "https://open.spotify.com/album/7xrjXYPCUgsNAGronmovK2"
+      },
+      "artists": [
+        {
+          "name": "Pretty Pink",
+          "url": "https://open.spotify.com/artist/78GHS9zWXcj8tBke222g5N"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191612,
+      "name": "Suvi",
+      "url": "https://open.spotify.com/track/5EwMoEspweyiYHBpOrPTml"
     },
     {
       "album": {

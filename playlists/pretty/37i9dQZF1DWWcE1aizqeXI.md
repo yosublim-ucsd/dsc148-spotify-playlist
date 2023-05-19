@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWcE1aizqeXI.md) - [plain]
 
 > <a href="spotify:artist:0t9dGS12PMZmiJiZa9vpyk">DJ Sliink</a>'s favorite tracks\. Updated regularly\. Curated by DJ Sliink\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,925 likes - 37 songs - 1 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,947 likes - 37 songs - 1 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Cupid's Chokehold \(Club Mix\)](https://open.spotify.com/track/4dLgw3ZFV7ETbvUCBt0CAP) | [Gym Class Heroes](https://open.spotify.com/artist/4IJczjB0fJ04gs4uvP0Fli), [DJ Sliink](https://open.spotify.com/artist/0t9dGS12PMZmiJiZa9vpyk) | [Cupid's Chokehold \(Club Mix\)](https://open.spotify.com/album/0CGkn5SDd6WD7OKp1Zz0Tv) | 2:10 |
 | 2 | [Just Say \- DJ Sliink Remix](https://open.spotify.com/track/0E0tSPI5JZz8Aq1y1DbFEQ) | [Coco & Breezy](https://open.spotify.com/artist/0Adbm5kzcPUxFybf9fhjgG), [Tara Carosielli](https://open.spotify.com/artist/5d6YpWfrSRRZBTgfLt0xcz), [DJ Sliink](https://open.spotify.com/artist/0t9dGS12PMZmiJiZa9vpyk) | [Just Say \(DJ Sliink Remix\)](https://open.spotify.com/album/15YPQEfHQwtk8rcgSDPtBY) | 2:12 |
 | 3 | [Millions \- Jumbo Sounds Mix](https://open.spotify.com/track/6vXb4B2xZTNXPFJGaOMO5q) | [Tierra Whack](https://open.spotify.com/artist/4lPl9gqgox3JDiaJ1yklKh) | [Millions \(Jumbo Sounds Mix\)](https://open.spotify.com/album/3oMxuwT3lWVKT9C6NZabpJ) | 2:38 |
-| 4 | [Boy's a liar Pt\. 2](https://open.spotify.com/track/6AQbmUe0Qwf5PZnt4HmTXv) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t), [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf) | [Boy's a liar Pt\. 2](https://open.spotify.com/album/6cVfHBcp3AdpYY0bBglkLN) | 2:11 |
+| 4 | [Boy's a Liar Pt\. 2](https://open.spotify.com/track/6AQbmUe0Qwf5PZnt4HmTXv) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t), [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf) | [Boy's a liar Pt\. 2](https://open.spotify.com/album/6cVfHBcp3AdpYY0bBglkLN) | 2:11 |
 | 5 | [Float \- Coco & Breezy Remix](https://open.spotify.com/track/7MJc1Z7tTRVCCw63JhWyAv) | [Janelle Monáe](https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs), [Coco & Breezy](https://open.spotify.com/artist/0Adbm5kzcPUxFybf9fhjgG) | [Float \(Coco & Breezy Remix\)](https://open.spotify.com/album/6zNU2h4HyMVpFz8MdBTIjF) | 2:28 |
 | 6 | [Talkin' Drums](https://open.spotify.com/track/5qJm4xvRCOQ1zedunDnndW) | [Melé](https://open.spotify.com/artist/6EZO7Baz0SIFskWTO1GHqX), [Touré Kunda](https://open.spotify.com/artist/76ynyZUsg0vGxiQSWvQx5f) | [Talkin' Drums](https://open.spotify.com/album/5k6TCxCvcSpWdBpEoXBa2W) | 3:00 |
 | 7 | [Magic \- Dave + Sam Remix](https://open.spotify.com/track/40ZMNSpiY0JvcdJZdqeY7f) | [Coco & Breezy](https://open.spotify.com/artist/0Adbm5kzcPUxFybf9fhjgG), [Baby Sol](https://open.spotify.com/artist/2f6oNClshLxDWI8rrVm6wQ), [Dave + Sam](https://open.spotify.com/artist/5C7HgyosSspofglYFe2UZf) | [Magic \(Dave + Sam Remix\)](https://open.spotify.com/album/2xpxws9wbjWas9aXI0NPhT) | 4:21 |
@@ -46,4 +46,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWcE1aizqeXI.md) - [plain]
 | 36 | [MORTICIA](https://open.spotify.com/track/6v9GnjzU2go5X3Wp12a5mc) | [Amal](https://open.spotify.com/artist/1Ep2wFh7xhFG1qhAa5AyJ8), [Vrando](https://open.spotify.com/artist/4g4Mp5qFF9SjAFSrQ2vl6f), [Samiy](https://open.spotify.com/artist/45IDu7mU0jIVoqnXPHp4iE) | [MORTICIA](https://open.spotify.com/album/4fDViNkqEkDQWi1qVJcIUj) | 2:27 |
 | 37 | [MY DJ](https://open.spotify.com/track/6kkmaDffKF5ZiIyl3CPhbJ) | [Chuwe](https://open.spotify.com/artist/7rJzxhgAkMeLK3jKJ8qKhn), [WhySoSerious](https://open.spotify.com/artist/1MSh4iqHmVl5OoNR1Pl8VB) | [MY DJ](https://open.spotify.com/album/425EzEFYJChMQqBqaPfNaA) | 2:14 |
 
-Snapshot ID: `MCw4ZTA1Njk4NDNlZDc4ZTU1MmQ5ZWM4YTQzMWJmODM2OTM5MjM0Yjlk`
+Snapshot ID: `MCwxMjBjZmVlMzYzYTA3MTdhNWU4ODNlNzNlN2FiNmJjZWUwNTQ0ZTFl`

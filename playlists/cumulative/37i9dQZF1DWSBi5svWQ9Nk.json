@@ -20,10 +20,28 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 172252,
       "name": "10:35",
       "url": "https://open.spotify.com/track/6BePGk3eCan4FqaW2X8Qy3"
+    },
+    {
+      "album": {
+        "name": "22",
+        "url": "https://open.spotify.com/album/3E8AMIqWVMZv4kONTo2dxC"
+      },
+      "artists": [
+        {
+          "name": "MEAU",
+          "url": "https://open.spotify.com/artist/2F3Mdh2idBVOiMTxXoxc10"
+        }
+      ],
+      "date_added": "2023-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173760,
+      "name": "22",
+      "url": "https://open.spotify.com/track/5JCqQhNm1yk64c8mumKn1a"
     },
     {
       "album": {
@@ -650,7 +668,7 @@
       ],
       "date_added": "2023-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 272373,
       "name": "Escapism.",
       "url": "https://open.spotify.com/track/5mHdCZtVyb4DcJw8799hZp"
@@ -837,6 +855,32 @@
     },
     {
       "album": {
+        "name": "How You Samba",
+        "url": "https://open.spotify.com/album/12WYrw3Af5ha9SVxHEv7KH"
+      },
+      "artists": [
+        {
+          "name": "Kris Kross Amsterdam",
+          "url": "https://open.spotify.com/artist/4LcUpNlXFEleaLlelmkv2R"
+        },
+        {
+          "name": "Sof\u00eda Reyes",
+          "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
+        },
+        {
+          "name": "Tinie Tempah",
+          "url": "https://open.spotify.com/artist/0Tob4H0FLtEONHU1MjpUEp"
+        }
+      ],
+      "date_added": "2023-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151680,
+      "name": "How You Samba",
+      "url": "https://open.spotify.com/track/4uoSxzvEVMcDsIK0aHZFAv"
+    },
+    {
+      "album": {
         "name": "I'll Be Waiting (Sad At Christmas)",
         "url": "https://open.spotify.com/album/0jC03OijHmOVjS2sc9yUuM"
       },
@@ -950,7 +994,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 164903,
       "name": "Ladada (Mon Dernier Mot)",
       "url": "https://open.spotify.com/track/0LVjBdjZvJykxed42ExTLf"
@@ -1172,7 +1216,7 @@
       ],
       "date_added": "2023-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 158604,
       "name": "Morgen Wordt Fantastisch",
       "url": "https://open.spotify.com/track/2UI9rmmINuXVWeOrprjWBy"
@@ -1228,6 +1272,28 @@
       "duration_ms": 161698,
       "name": "Ome Duo",
       "url": "https://open.spotify.com/track/7EPNjzimfSsX4bsjQZwAIm"
+    },
+    {
+      "album": {
+        "name": "Outside",
+        "url": "https://open.spotify.com/album/3r1dWitPtJXSO5BQbWDoPr"
+      },
+      "artists": [
+        {
+          "name": "Zo\u00eb Tauran",
+          "url": "https://open.spotify.com/artist/5fg02ZNJViLdPyxJnRdcsi"
+        },
+        {
+          "name": "Bilal Wahib",
+          "url": "https://open.spotify.com/artist/5wV3FoaNbDB6X9INuQvs1K"
+        }
+      ],
+      "date_added": "2023-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167323,
+      "name": "Outside",
+      "url": "https://open.spotify.com/track/70VDwHuba0z6HMHG6UifIG"
     },
     {
       "album": {
@@ -1330,6 +1396,24 @@
       "duration_ms": 135998,
       "name": "Probleem",
       "url": "https://open.spotify.com/track/1L8sanepRgDJlQTsPQ4mU1"
+    },
+    {
+      "album": {
+        "name": "Push Up (Main Edit)",
+        "url": "https://open.spotify.com/album/3v5BP6gPT1nNU9rjs57fF0"
+      },
+      "artists": [
+        {
+          "name": "Creeds",
+          "url": "https://open.spotify.com/artist/2gW0M5fn2r7Lo4Hn1r8HZ5"
+        }
+      ],
+      "date_added": "2023-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139300,
+      "name": "Push Up - Main Edit",
+      "url": "https://open.spotify.com/track/3AjSfp5FDvwtMU9XBsbS8j"
     },
     {
       "album": {
@@ -1686,7 +1770,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 237200,
       "name": "TRUSTFALL",
       "url": "https://open.spotify.com/track/4FWbsd91QSvgr1dSWwW51e"
@@ -1862,6 +1946,24 @@
       "duration_ms": 135694,
       "name": "Zin In De Zomer Man",
       "url": "https://open.spotify.com/track/1ThDzyepNdDRIYhU295DNd"
+    },
+    {
+      "album": {
+        "name": "Zusje",
+        "url": "https://open.spotify.com/album/0SNid4vYygVVvwph9bueos"
+      },
+      "artists": [
+        {
+          "name": "Cheryl \u00d6zt\u00fcrk",
+          "url": "https://open.spotify.com/artist/0vvWDHgxxfIJhGpNgCUfA9"
+        }
+      ],
+      "date_added": "2023-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147765,
+      "name": "Zusje",
+      "url": "https://open.spotify.com/track/0u3QDgpEwLLgXwnQgPPnfC"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWSBi5svWQ9Nk"

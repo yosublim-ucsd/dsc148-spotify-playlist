@@ -4,7 +4,7 @@
 
 > Aumente o volume e ouça as bandas que estão com tudo no rock! Foto: Bush
 
-236 songs - 14 hr 28 min
+237 songs - 14 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -99,7 +99,8 @@
 | [Got it Good](https://open.spotify.com/track/2IMBocq4JpTY3AofR8zNsr) | [Adelitas Way](https://open.spotify.com/artist/1ZjAT2nTrzDIXFfsQ2hWJk) | [Got it Good](https://open.spotify.com/album/1Z2xWFVgIjt0W2xwDHWAkn) | 3:15 | 2022-01-14 | 2022-03-18 |
 | [Hanging On Your Hinges](https://open.spotify.com/track/3uJEjm9gOqdOw6DIxRLkFT) | [Stereophonics](https://open.spotify.com/artist/21UJ7PRWb3Etgsu99f8yo8) | [Hanging On Your Hinges](https://open.spotify.com/album/1aVukJhwzUy5oqvP6FpMge) | 2:57 | 2022-03-04 | 2022-03-18 |
 | [Heard It On The X](https://open.spotify.com/track/4tbHJc3pgypdIGeWxK5CwS) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [Heard It On The X](https://open.spotify.com/album/6HThlq6qQOLiaOigjNpHaH) | 2:50 | 2022-06-24 | 2022-08-13 |
-| [Heartbreak Feels So Good](https://open.spotify.com/track/0Rw35DKIumkbbMC7XPOn5r) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [Heartbreak Feels So Good](https://open.spotify.com/album/5GwtecGz0FCy9onGWtrVRS) | 3:37 | 2023-01-27 |  |
+| [Heartbreak Feels So Good](https://open.spotify.com/track/0Rw35DKIumkbbMC7XPOn5r) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [Heartbreak Feels So Good](https://open.spotify.com/album/5GwtecGz0FCy9onGWtrVRS) | 3:37 | 2023-01-27 | 2023-05-19 |
+| [Heartbreak Feels So Good](https://open.spotify.com/track/562RwVsxP4JjNCbXH4dDcy) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [So Much \(For\) Stardust](https://open.spotify.com/album/5mWnMYLnfcnkDOCojHW6O1) | 3:37 | 2023-05-12 |  |
 | [Heavy Is The Crown](https://open.spotify.com/track/4P5cw8rpwDAQdzIy5nltzj) | [Daughtry](https://open.spotify.com/artist/5P5FTygHyx2G57oszR3Wot) | [Heavy Is The Crown](https://open.spotify.com/album/3PZhCt0gqzjDJLC8yKUohe) | 3:54 | 2022-01-14 |  |
 | [High on Me](https://open.spotify.com/track/4foH9ND72k3puEzoiHb1z8) | [Saliva](https://open.spotify.com/artist/5S6hjAxgxjsLylsTtMIimO) | [High on Me](https://open.spotify.com/album/2BCMRSiYPHaHAC42YcWmqv) | 3:02 | 2022-11-11 |  |
 | [Hive Mind](https://open.spotify.com/track/60knpe02nSLudHQYX2FZBI) | [Slipknot](https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8) | [The End, So Far](https://open.spotify.com/album/3hWTXO0w02D6YpVRyLRmQz) | 5:15 | 2022-09-30 | 2022-11-19 |

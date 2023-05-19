@@ -409,6 +409,24 @@
     },
     {
       "album": {
+        "name": "Arrived",
+        "url": "https://open.spotify.com/album/48MYOEQZ33MT69BNB3DuBY"
+      },
+      "artists": [
+        {
+          "name": "alayna",
+          "url": "https://open.spotify.com/artist/7JwNWaTv4y9WNJCihQFHpv"
+        }
+      ],
+      "date_added": "2023-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222266,
+      "name": "Arrived",
+      "url": "https://open.spotify.com/track/0kT06I5dLlP64u7kloklLS"
+    },
+    {
+      "album": {
         "name": "As the World Caves In",
         "url": "https://open.spotify.com/album/7fy6bIIBMLjfdvyPpmv8Ci"
       },
@@ -8380,6 +8398,24 @@
       "duration_ms": 270634,
       "name": "Voice in My Head",
       "url": "https://open.spotify.com/track/24ATuKIISqvuM27Zls0Mrv"
+    },
+    {
+      "album": {
+        "name": "late night thoughts",
+        "url": "https://open.spotify.com/album/3NNyPYXwkHc4F8QffKQkui"
+      },
+      "artists": [
+        {
+          "name": "shy martin",
+          "url": "https://open.spotify.com/artist/7eCmccnRwPmRnWPw61x6jM"
+        }
+      ],
+      "date_added": "2023-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153905,
+      "name": "wait it out",
+      "url": "https://open.spotify.com/track/793pY16A2YqBrsmdyagExY"
     },
     {
       "album": {

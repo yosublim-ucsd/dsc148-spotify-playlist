@@ -1,12 +1,12 @@
 {
   "description": "Lo nuevo del Trap, Rap y Reggaeton Cristiano. \nFoto: Vaes",
-  "num_followers": 166288,
+  "num_followers": 166370,
   "original_name": "Flow Cristiano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlMTg2ZTRhZTZmYTRkYmQxZTM5Yjg4YmJmODk3MTdkNTE1MGZjMzlh",
+  "snapshot_id": "MCw3MjIwZTJiMmNiZGE2NTA0OTEwMzNkZGRiNTQyZDk1MmFhM2M3NTFm",
   "tracks": [
     {
       "added_at": "2022-08-27 05:04:45",
@@ -1847,22 +1847,6 @@
     {
       "added_at": "2022-08-27 05:04:45",
       "album": {
-        "name": "Flow Cristiano",
-        "url": "https://open.spotify.com/album/0LrSIj7ro2zZ6ofezq2Qtv"
-      },
-      "artists": [
-        {
-          "name": "Natan El Profeta",
-          "url": "https://open.spotify.com/artist/5UGUivMfBVd8JcBfjnniBf"
-        }
-      ],
-      "duration_ms": 210337,
-      "name": "Flow Cristiano",
-      "url": "https://open.spotify.com/track/5Ab2DDImgrC2FWEVXYjsKx"
-    },
-    {
-      "added_at": "2022-08-27 05:04:45",
-      "album": {
         "name": "Latidos",
         "url": "https://open.spotify.com/album/2aV3YlxzjJRqbrmqo42EyL"
       },
@@ -1907,22 +1891,18 @@
     {
       "added_at": "2022-08-27 05:04:45",
       "album": {
-        "name": "Picheo",
-        "url": "https://open.spotify.com/album/6r7McsBCLRRH3Yz9IAEqul"
+        "name": "Flow Cristiano",
+        "url": "https://open.spotify.com/album/0LrSIj7ro2zZ6ofezq2Qtv"
       },
       "artists": [
         {
-          "name": "Mireyli Rosa",
-          "url": "https://open.spotify.com/artist/2A1shNbwnD3IXNeo6CK6JC"
-        },
-        {
-          "name": "Alexxander",
-          "url": "https://open.spotify.com/artist/0J2jZKEeGZ01I7D86P6VJp"
+          "name": "Natan El Profeta",
+          "url": "https://open.spotify.com/artist/5UGUivMfBVd8JcBfjnniBf"
         }
       ],
-      "duration_ms": 240500,
-      "name": "Picheo",
-      "url": "https://open.spotify.com/track/1I3KDCANZfQq4556nAk3DL"
+      "duration_ms": 210337,
+      "name": "Flow Cristiano",
+      "url": "https://open.spotify.com/track/5Ab2DDImgrC2FWEVXYjsKx"
     },
     {
       "added_at": "2022-08-27 05:04:45",
@@ -1951,6 +1931,26 @@
       "duration_ms": 216000,
       "name": "Mi Entrenador - Remix",
       "url": "https://open.spotify.com/track/32HTl6X5wGDGb1zEoZpGtG"
+    },
+    {
+      "added_at": "2022-08-27 05:04:45",
+      "album": {
+        "name": "Picheo",
+        "url": "https://open.spotify.com/album/6r7McsBCLRRH3Yz9IAEqul"
+      },
+      "artists": [
+        {
+          "name": "Mireyli Rosa",
+          "url": "https://open.spotify.com/artist/2A1shNbwnD3IXNeo6CK6JC"
+        },
+        {
+          "name": "Alexxander",
+          "url": "https://open.spotify.com/artist/0J2jZKEeGZ01I7D86P6VJp"
+        }
+      ],
+      "duration_ms": 240500,
+      "name": "Picheo",
+      "url": "https://open.spotify.com/track/1I3KDCANZfQq4556nAk3DL"
     }
   ],
   "unique_name": "Flow Cristiano",

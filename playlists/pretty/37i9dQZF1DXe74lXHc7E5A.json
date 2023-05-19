@@ -1,12 +1,12 @@
 {
   "description": "Hip Hop and Rap songs guaranteed to get you hyped. Cover: Lil Durk & J. Cole ",
-  "num_followers": 7785,
+  "num_followers": 7894,
   "original_name": "Hype List",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0MTdiN2QxOGRhYTQwM2NlMTA3MTBkNjRiYjk4MDNmZjM5NDA1MGRh",
+  "snapshot_id": "MCxjYjJhMzQ4OGY0NTgzMTBmYWQ3ODQ2ZDNlYTk4MDA2OWEwZjA2ZWI4",
   "tracks": [
     {
       "added_at": "2023-05-11 23:00:00",
@@ -307,22 +307,6 @@
     {
       "added_at": "2023-05-11 23:00:00",
       "album": {
-        "name": "It's Only Me",
-        "url": "https://open.spotify.com/album/0FYvMdfTfYJxnJnKs1wDb0"
-      },
-      "artists": [
-        {
-          "name": "Lil Baby",
-          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
-        }
-      ],
-      "duration_ms": 177789,
-      "name": "California Breeze",
-      "url": "https://open.spotify.com/track/6ug9fUi5oLLgQgOF1G8WkM"
-    },
-    {
-      "added_at": "2023-05-11 23:00:00",
-      "album": {
         "name": "CALL DA FIREMAN",
         "url": "https://open.spotify.com/album/3oDobVNZ3U9BpxOdokk0fL"
       },
@@ -335,6 +319,22 @@
       "duration_ms": 124805,
       "name": "SHAKE SUMN",
       "url": "https://open.spotify.com/track/3FhZPYvMGSjFc6boVYKlCv"
+    },
+    {
+      "added_at": "2023-05-11 23:00:00",
+      "album": {
+        "name": "It's Only Me",
+        "url": "https://open.spotify.com/album/0FYvMdfTfYJxnJnKs1wDb0"
+      },
+      "artists": [
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        }
+      ],
+      "duration_ms": 177789,
+      "name": "California Breeze",
+      "url": "https://open.spotify.com/track/6ug9fUi5oLLgQgOF1G8WkM"
     },
     {
       "added_at": "2023-05-11 23:00:00",
@@ -1183,6 +1183,22 @@
     {
       "added_at": "2023-05-11 23:00:00",
       "album": {
+        "name": "Penny",
+        "url": "https://open.spotify.com/album/2z4iQHDq7b8i6EjWRxdHOR"
+      },
+      "artists": [
+        {
+          "name": "Kwesi Arthur",
+          "url": "https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY"
+        }
+      ],
+      "duration_ms": 183529,
+      "name": "Penny",
+      "url": "https://open.spotify.com/track/5issK1Y1KE7VirtZE4Ac1w"
+    },
+    {
+      "added_at": "2023-05-11 23:00:00",
+      "album": {
         "name": "031 To The World 2.0",
         "url": "https://open.spotify.com/album/1rFKpOUsG1tWjGyHgYp3rH"
       },
@@ -1199,22 +1215,6 @@
       "duration_ms": 186240,
       "name": "The Views",
       "url": "https://open.spotify.com/track/5XE6dTAtEqrHp0NRCjuPui"
-    },
-    {
-      "added_at": "2023-05-11 23:00:00",
-      "album": {
-        "name": "Penny",
-        "url": "https://open.spotify.com/album/2z4iQHDq7b8i6EjWRxdHOR"
-      },
-      "artists": [
-        {
-          "name": "Kwesi Arthur",
-          "url": "https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY"
-        }
-      ],
-      "duration_ms": 183529,
-      "name": "Penny",
-      "url": "https://open.spotify.com/track/5issK1Y1KE7VirtZE4Ac1w"
     },
     {
       "added_at": "2023-05-11 23:00:00",

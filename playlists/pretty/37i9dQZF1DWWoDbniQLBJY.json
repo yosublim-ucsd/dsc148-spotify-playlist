@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5OTc0MzgzZTA5Njk1Njk0MGY1MWUzZmM3OTNkN2Q4YjhmMzIxY2Vl",
+  "snapshot_id": "MCw1M2NjOTY3M2VmZDY5ZWMzODgxOTUyOWYxZjczMjNhNDA3MjY5NTcx",
   "tracks": [
     {
       "added_at": "2023-05-05 04:00:00",
@@ -247,22 +247,6 @@
     {
       "added_at": "2023-05-05 04:00:00",
       "album": {
-        "name": "Salvavidas de hielo",
-        "url": "https://open.spotify.com/album/3wYcE0a2LSxxQF2Rk3Drw0"
-      },
-      "artists": [
-        {
-          "name": "Jorge Drexler",
-          "url": "https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt"
-        }
-      ],
-      "duration_ms": 182453,
-      "name": "Pongamos que hablo de Mart\u00ednez",
-      "url": "https://open.spotify.com/track/3cApCJqmVwE23cxYUADZpx"
-    },
-    {
-      "added_at": "2023-05-05 04:00:00",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/6vB3HwLeq8ZjQYXUka7QIs"
       },
@@ -275,6 +259,22 @@
       "duration_ms": 202867,
       "name": "Adi\u00f3s Amor - Recorded at Panoram Studios, Mexico",
       "url": "https://open.spotify.com/track/00yK9fIjWQfF5g70TK9vdj"
+    },
+    {
+      "added_at": "2023-05-05 04:00:00",
+      "album": {
+        "name": "Salvavidas de hielo",
+        "url": "https://open.spotify.com/album/3wYcE0a2LSxxQF2Rk3Drw0"
+      },
+      "artists": [
+        {
+          "name": "Jorge Drexler",
+          "url": "https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt"
+        }
+      ],
+      "duration_ms": 182453,
+      "name": "Pongamos que hablo de Mart\u00ednez",
+      "url": "https://open.spotify.com/track/3cApCJqmVwE23cxYUADZpx"
     },
     {
       "added_at": "2023-05-05 04:00:00",
@@ -363,6 +363,22 @@
     {
       "added_at": "2023-05-05 04:00:00",
       "album": {
+        "name": "Al otro lado del rio",
+        "url": "https://open.spotify.com/album/5P3g95p2KfPCOlD5Zca9Xi"
+      },
+      "artists": [
+        {
+          "name": "Jorge Drexler",
+          "url": "https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt"
+        }
+      ],
+      "duration_ms": 194626,
+      "name": "Al otro lado del r\u00edo",
+      "url": "https://open.spotify.com/track/5BudpQ0Ct9sss8c9Fqv9MJ"
+    },
+    {
+      "added_at": "2023-05-05 04:00:00",
+      "album": {
         "name": "Universo Amor",
         "url": "https://open.spotify.com/album/7qU1O8uxdzWUPVQ9AnzN0Z"
       },
@@ -379,22 +395,6 @@
       "duration_ms": 216960,
       "name": "Universo Amor",
       "url": "https://open.spotify.com/track/5HPJg7UI2h3aJjHWf98V1N"
-    },
-    {
-      "added_at": "2023-05-05 04:00:00",
-      "album": {
-        "name": "Al otro lado del rio",
-        "url": "https://open.spotify.com/album/5P3g95p2KfPCOlD5Zca9Xi"
-      },
-      "artists": [
-        {
-          "name": "Jorge Drexler",
-          "url": "https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt"
-        }
-      ],
-      "duration_ms": 194626,
-      "name": "Al otro lado del r\u00edo",
-      "url": "https://open.spotify.com/track/5BudpQ0Ct9sss8c9Fqv9MJ"
     },
     {
       "added_at": "2023-05-05 04:00:00",
@@ -487,6 +487,22 @@
     {
       "added_at": "2023-05-05 04:00:00",
       "album": {
+        "name": "La Bilirrubina",
+        "url": "https://open.spotify.com/album/0eXaOP4x8dvztlduyvz5AV"
+      },
+      "artists": [
+        {
+          "name": "Alex Ferreira",
+          "url": "https://open.spotify.com/artist/3COVuPWvshbsdm0kdMMTr7"
+        }
+      ],
+      "duration_ms": 230000,
+      "name": "La Bilirrubina",
+      "url": "https://open.spotify.com/track/7rCE3KwSwzNh8n8LC4O3zJ"
+    },
+    {
+      "added_at": "2023-05-05 04:00:00",
+      "album": {
         "name": "Para Siempre",
         "url": "https://open.spotify.com/album/4S960SG2fqdAUmVGfcmwCQ"
       },
@@ -499,22 +515,6 @@
       "duration_ms": 201452,
       "name": "Para Siempre",
       "url": "https://open.spotify.com/track/2CwOQJ5gCpn1MgQqyTna5d"
-    },
-    {
-      "added_at": "2023-05-05 04:00:00",
-      "album": {
-        "name": "Contigo",
-        "url": "https://open.spotify.com/album/5gJw1zTAjkuHH0g5tgChln"
-      },
-      "artists": [
-        {
-          "name": "Lauri Garcia",
-          "url": "https://open.spotify.com/artist/4RH5rQ6kwIASIwZxWUBNTS"
-        }
-      ],
-      "duration_ms": 148370,
-      "name": "Contigo",
-      "url": "https://open.spotify.com/track/7mEjQJxrT6jaukzzYMeHVG"
     },
     {
       "added_at": "2023-05-05 04:00:00",
@@ -535,18 +535,18 @@
     {
       "added_at": "2023-05-05 04:00:00",
       "album": {
-        "name": "La Bilirrubina",
-        "url": "https://open.spotify.com/album/0eXaOP4x8dvztlduyvz5AV"
+        "name": "Contigo",
+        "url": "https://open.spotify.com/album/5gJw1zTAjkuHH0g5tgChln"
       },
       "artists": [
         {
-          "name": "Alex Ferreira",
-          "url": "https://open.spotify.com/artist/3COVuPWvshbsdm0kdMMTr7"
+          "name": "Lauri Garcia",
+          "url": "https://open.spotify.com/artist/4RH5rQ6kwIASIwZxWUBNTS"
         }
       ],
-      "duration_ms": 230000,
-      "name": "La Bilirrubina",
-      "url": "https://open.spotify.com/track/7rCE3KwSwzNh8n8LC4O3zJ"
+      "duration_ms": 148370,
+      "name": "Contigo",
+      "url": "https://open.spotify.com/track/7mEjQJxrT6jaukzzYMeHVG"
     },
     {
       "added_at": "2023-05-05 04:00:00",
@@ -563,22 +563,6 @@
       "duration_ms": 324826,
       "name": "La chispa adecuada - Live",
       "url": "https://open.spotify.com/track/25TiUPCYa2KYp3LFENEkJM"
-    },
-    {
-      "added_at": "2023-05-05 04:00:00",
-      "album": {
-        "name": "Marchita",
-        "url": "https://open.spotify.com/album/0Y1tsEnH5gN8TEJRQ9xOLi"
-      },
-      "artists": [
-        {
-          "name": "Silvana Estrada",
-          "url": "https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7"
-        }
-      ],
-      "duration_ms": 207786,
-      "name": "Ser De Ti",
-      "url": "https://open.spotify.com/track/0i9GosFgbI0w0YLM8DLR2u"
     },
     {
       "added_at": "2023-05-05 04:00:00",
@@ -651,18 +635,18 @@
     {
       "added_at": "2023-05-05 04:00:00",
       "album": {
-        "name": "Spotify Sessions",
-        "url": "https://open.spotify.com/album/1t3e3Py0eA1SPRC1vETI3i"
+        "name": "01 - EP",
+        "url": "https://open.spotify.com/album/1fRIsWiGXf323M5E1Ngqoy"
       },
       "artists": [
         {
-          "name": "Carlos Vives",
-          "url": "https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr"
+          "name": "Kora",
+          "url": "https://open.spotify.com/artist/3ZxaYY2eYNWxg8v1s2k6JD"
         }
       ],
-      "duration_ms": 258412,
-      "name": "Volv\u00ed a Nacer - Live from Spotify",
-      "url": "https://open.spotify.com/track/3BEuTuiAgJLROYMELwLujm"
+      "duration_ms": 209542,
+      "name": "Paciencia",
+      "url": "https://open.spotify.com/track/6hYidRx2EkQ39bmZHvqqaI"
     },
     {
       "added_at": "2023-05-05 04:00:00",
@@ -691,18 +675,34 @@
     {
       "added_at": "2023-05-05 04:00:00",
       "album": {
-        "name": "01 - EP",
-        "url": "https://open.spotify.com/album/1fRIsWiGXf323M5E1Ngqoy"
+        "name": "Marchita",
+        "url": "https://open.spotify.com/album/0Y1tsEnH5gN8TEJRQ9xOLi"
       },
       "artists": [
         {
-          "name": "Kora",
-          "url": "https://open.spotify.com/artist/3ZxaYY2eYNWxg8v1s2k6JD"
+          "name": "Silvana Estrada",
+          "url": "https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7"
         }
       ],
-      "duration_ms": 209542,
-      "name": "Paciencia",
-      "url": "https://open.spotify.com/track/6hYidRx2EkQ39bmZHvqqaI"
+      "duration_ms": 207786,
+      "name": "Ser De Ti",
+      "url": "https://open.spotify.com/track/0i9GosFgbI0w0YLM8DLR2u"
+    },
+    {
+      "added_at": "2023-05-05 04:00:00",
+      "album": {
+        "name": "Spotify Sessions",
+        "url": "https://open.spotify.com/album/1t3e3Py0eA1SPRC1vETI3i"
+      },
+      "artists": [
+        {
+          "name": "Carlos Vives",
+          "url": "https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr"
+        }
+      ],
+      "duration_ms": 258412,
+      "name": "Volv\u00ed a Nacer - Live from Spotify",
+      "url": "https://open.spotify.com/track/3BEuTuiAgJLROYMELwLujm"
     },
     {
       "added_at": "2023-05-05 04:00:00",
@@ -739,22 +739,6 @@
     {
       "added_at": "2023-05-05 04:00:00",
       "album": {
-        "name": "Tr3s Presents Juanes MTV Unplugged",
-        "url": "https://open.spotify.com/album/6Zy2wrvOOW0sxTWy7nF9BH"
-      },
-      "artists": [
-        {
-          "name": "Juanes",
-          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
-        }
-      ],
-      "duration_ms": 224600,
-      "name": "Nada Valgo Sin Tu Amor - MTV Unplugged",
-      "url": "https://open.spotify.com/track/1AKE3Z5LNDH1AzMwuxaOW9"
-    },
-    {
-      "added_at": "2023-05-05 04:00:00",
-      "album": {
         "name": "desde que estas en mi vida",
         "url": "https://open.spotify.com/album/0YV5IL1vIj4oxqY7EJb7hX"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 202826,
       "name": "desde que estas en mi vida",
       "url": "https://open.spotify.com/track/0e43i8zcjJrAPUztNJro3X"
+    },
+    {
+      "added_at": "2023-05-05 04:00:00",
+      "album": {
+        "name": "Tr3s Presents Juanes MTV Unplugged",
+        "url": "https://open.spotify.com/album/6Zy2wrvOOW0sxTWy7nF9BH"
+      },
+      "artists": [
+        {
+          "name": "Juanes",
+          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
+        }
+      ],
+      "duration_ms": 224600,
+      "name": "Nada Valgo Sin Tu Amor - MTV Unplugged",
+      "url": "https://open.spotify.com/track/1AKE3Z5LNDH1AzMwuxaOW9"
     },
     {
       "added_at": "2023-05-05 04:00:00",
@@ -983,22 +983,6 @@
     {
       "added_at": "2023-05-05 04:00:00",
       "album": {
-        "name": "No Valgo Pa' Ciudad",
-        "url": "https://open.spotify.com/album/6inO88KEzGOsZxOYAvRsr2"
-      },
-      "artists": [
-        {
-          "name": "Paul Alone",
-          "url": "https://open.spotify.com/artist/6bdtalFIKenjGPCQVI2gtE"
-        }
-      ],
-      "duration_ms": 186440,
-      "name": "No Valgo Pa' Ciudad",
-      "url": "https://open.spotify.com/track/4rf696AmoiPsggWktpSyX5"
-    },
-    {
-      "added_at": "2023-05-05 04:00:00",
-      "album": {
         "name": "BIG BANG",
         "url": "https://open.spotify.com/album/6B7FOMNgkV9mi9HjDm3NvS"
       },
@@ -1011,6 +995,22 @@
       "duration_ms": 183131,
       "name": "BIG BANG",
       "url": "https://open.spotify.com/track/7tAfeILKh4vMrLMTswA8Xf"
+    },
+    {
+      "added_at": "2023-05-05 04:00:00",
+      "album": {
+        "name": "No Valgo Pa' Ciudad",
+        "url": "https://open.spotify.com/album/6inO88KEzGOsZxOYAvRsr2"
+      },
+      "artists": [
+        {
+          "name": "Paul Alone",
+          "url": "https://open.spotify.com/artist/6bdtalFIKenjGPCQVI2gtE"
+        }
+      ],
+      "duration_ms": 186440,
+      "name": "No Valgo Pa' Ciudad",
+      "url": "https://open.spotify.com/track/4rf696AmoiPsggWktpSyX5"
     },
     {
       "added_at": "2023-05-05 04:00:00",
@@ -1199,22 +1199,6 @@
     {
       "added_at": "2023-05-05 04:00:00",
       "album": {
-        "name": "Mis Favoritas",
-        "url": "https://open.spotify.com/album/0COUHCrbpLcVNCI8ITVMhi"
-      },
-      "artists": [
-        {
-          "name": "Diego Torres",
-          "url": "https://open.spotify.com/artist/0LALueHEQunQ2d61fXGeZh"
-        }
-      ],
-      "duration_ms": 281640,
-      "name": "No Lo So\u00f1\u00e9 - Version Acustico",
-      "url": "https://open.spotify.com/track/6chtkBSmt7RorTFD8EQtXx"
-    },
-    {
-      "added_at": "2023-05-05 04:00:00",
-      "album": {
         "name": "Tiempo",
         "url": "https://open.spotify.com/album/3pwczzHwIn3RthlqHGum2V"
       },
@@ -1231,6 +1215,22 @@
       "duration_ms": 185186,
       "name": "Tiempo",
       "url": "https://open.spotify.com/track/3ogdUxCZqn5JikojnmsdKZ"
+    },
+    {
+      "added_at": "2023-05-05 04:00:00",
+      "album": {
+        "name": "Mis Favoritas",
+        "url": "https://open.spotify.com/album/0COUHCrbpLcVNCI8ITVMhi"
+      },
+      "artists": [
+        {
+          "name": "Diego Torres",
+          "url": "https://open.spotify.com/artist/0LALueHEQunQ2d61fXGeZh"
+        }
+      ],
+      "duration_ms": 281640,
+      "name": "No Lo So\u00f1\u00e9 - Version Acustico",
+      "url": "https://open.spotify.com/track/6chtkBSmt7RorTFD8EQtXx"
     },
     {
       "added_at": "2023-05-05 04:00:00",
@@ -1535,22 +1535,6 @@
     {
       "added_at": "2023-05-05 04:00:00",
       "album": {
-        "name": "Amiga Cruel (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/4nVhklAIoayQe43DB5Qg3K"
-      },
-      "artists": [
-        {
-          "name": "Francisca Valenzuela",
-          "url": "https://open.spotify.com/artist/2piHiUbXwUNNIvYyIOIUKt"
-        }
-      ],
-      "duration_ms": 217031,
-      "name": "Amiga Cruel (Ac\u00fastico)",
-      "url": "https://open.spotify.com/track/5c8mWRQFH9jFfcxc96QtTI"
-    },
-    {
-      "added_at": "2023-05-05 04:00:00",
-      "album": {
         "name": "Am\u00e1",
         "url": "https://open.spotify.com/album/1l2vOwtFeylsUJLf5ZDwOZ"
       },
@@ -1563,6 +1547,22 @@
       "duration_ms": 176256,
       "name": "Am\u00e1",
       "url": "https://open.spotify.com/track/3RKuu8pgaGr2yhZFDtpOi9"
+    },
+    {
+      "added_at": "2023-05-05 04:00:00",
+      "album": {
+        "name": "Amiga Cruel (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/4nVhklAIoayQe43DB5Qg3K"
+      },
+      "artists": [
+        {
+          "name": "Francisca Valenzuela",
+          "url": "https://open.spotify.com/artist/2piHiUbXwUNNIvYyIOIUKt"
+        }
+      ],
+      "duration_ms": 217031,
+      "name": "Amiga Cruel (Ac\u00fastico)",
+      "url": "https://open.spotify.com/track/5c8mWRQFH9jFfcxc96QtTI"
     },
     {
       "added_at": "2023-05-05 04:00:00",
@@ -1619,22 +1619,6 @@
     {
       "added_at": "2023-05-05 04:00:00",
       "album": {
-        "name": "Voy Cantando",
-        "url": "https://open.spotify.com/album/27rvAk3yuyxiv5cdKihsXY"
-      },
-      "artists": [
-        {
-          "name": "Andr\u00e9s Obreg\u00f3n",
-          "url": "https://open.spotify.com/artist/0AQMbCYt6y84wEHGzScKve"
-        }
-      ],
-      "duration_ms": 262050,
-      "name": "Voy Cantando",
-      "url": "https://open.spotify.com/track/0iROP0Xo315A0ImonYR499"
-    },
-    {
-      "added_at": "2023-05-05 04:00:00",
-      "album": {
         "name": "Chiste",
         "url": "https://open.spotify.com/album/0LwOkOMLlcs3NPs0fcrVKA"
       },
@@ -1647,6 +1631,22 @@
       "duration_ms": 171034,
       "name": "Chiste",
       "url": "https://open.spotify.com/track/78vnwvT5WLm31MSXULO48p"
+    },
+    {
+      "added_at": "2023-05-05 04:00:00",
+      "album": {
+        "name": "Voy Cantando",
+        "url": "https://open.spotify.com/album/27rvAk3yuyxiv5cdKihsXY"
+      },
+      "artists": [
+        {
+          "name": "Andr\u00e9s Obreg\u00f3n",
+          "url": "https://open.spotify.com/artist/0AQMbCYt6y84wEHGzScKve"
+        }
+      ],
+      "duration_ms": 262050,
+      "name": "Voy Cantando",
+      "url": "https://open.spotify.com/track/0iROP0Xo315A0ImonYR499"
     },
     {
       "added_at": "2023-05-05 04:00:00",
@@ -1723,22 +1723,18 @@
     {
       "added_at": "2023-05-05 04:00:00",
       "album": {
-        "name": "tensi\u00f3n",
-        "url": "https://open.spotify.com/album/0hnC4bP1PMMt18ZPdMftFX"
+        "name": "Hasta Que Te Encontr\u00e9",
+        "url": "https://open.spotify.com/album/11ko98CxEiWwgoyQdQKynL"
       },
       "artists": [
         {
-          "name": "BORJA",
-          "url": "https://open.spotify.com/artist/3n3mizV0nZXD1pKzRGoBGw"
-        },
-        {
-          "name": "Valentina Rico",
-          "url": "https://open.spotify.com/artist/1VqjlTkCPuK6amNOlkM18d"
+          "name": "Juliana Beltr\u00e1n",
+          "url": "https://open.spotify.com/artist/5NfNMKwOPzCw9S1s3OMS6z"
         }
       ],
-      "duration_ms": 187657,
-      "name": "tensi\u00f3n",
-      "url": "https://open.spotify.com/track/2nO0Wk3YrbisjXcCDJkR5T"
+      "duration_ms": 191052,
+      "name": "Hasta Que Te Encontr\u00e9",
+      "url": "https://open.spotify.com/track/5I98QzrVJF7r7QZFDLyDMr"
     }
   ],
   "unique_name": "Mediod\u00eda Ac\u00fastico",

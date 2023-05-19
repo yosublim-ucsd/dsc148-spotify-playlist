@@ -2,9 +2,9 @@
 
 ### [Hallyu Boy Bands](https://open.spotify.com/playlist/37i9dQZF1DX1gjl24GAQC0)
 
-> Is it your favorite oppa or dongsaeng? Cover:ONEUS\(원어스\) \[당신의 최애 아이돌 보이 그룹은 어떤 그룹인가요?\]
+> Is it your favorite oppa or dongsaeng? Cover:ATBO \[당신의 최애 아이돌 보이 그룹은 어떤 그룹인가요?\]
 
-445 songs - 1 day 1 hr 8 min
+446 songs - 1 day 1 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -135,7 +135,7 @@
 | [Dystopia](https://open.spotify.com/track/6tksGYo7SrnXF7Cj3sLWav) | [KINGDOM](https://open.spotify.com/artist/0p5Ot7c8cFHtS82hd1WBN3) | [History Of Kingdom: Pt\. Ⅵ\. Mujin](https://open.spotify.com/album/5MtxPx9oyiXDH6x5r646Go) | 3:34 | 2023-03-23 | 2023-03-31 |
 | [Echo](https://open.spotify.com/track/2m59DXEDaV4EEJTuxAiDre) | [THE BOYZ](https://open.spotify.com/artist/0CmvFWTX9zmMNCUi6fHtAx) | [Echo \[From "Solo Leveling" \(Original Soundtrack\)\]](https://open.spotify.com/album/1XezLjrSytsSPPWwknQy9y) | 3:45 | 2022-03-02 | 2022-04-15 |
 | [Encore](https://open.spotify.com/track/2mf9FitEJnH6mcUU6y0Hkw) | [GOT7](https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df) | [Encore](https://open.spotify.com/album/6yESzO6GMS3fJ7FrDhYtDi) | 3:32 | 2021-12-08 | 2022-07-16 |
-| [ERASE ME](https://open.spotify.com/track/1K2cYJekjVTqjSPJdLhGQB) | [ONEUS](https://open.spotify.com/artist/3CVYSpM7nfHFG5qCTW7Ht9) | [PYGMALION](https://open.spotify.com/album/5NMfRjmFyNsyF0j8znCOPJ) | 3:09 | 2023-05-16 |  |
+| [ERASE ME](https://open.spotify.com/track/1K2cYJekjVTqjSPJdLhGQB) | [ONEUS](https://open.spotify.com/artist/3CVYSpM7nfHFG5qCTW7Ht9) | [PYGMALION](https://open.spotify.com/album/5NMfRjmFyNsyF0j8znCOPJ) | 3:09 | 2023-05-16 | 2023-05-19 |
 | [Excalibur](https://open.spotify.com/track/1SLDcZRnr6zHJOsFqO9T8n) | [KINGDOM](https://open.spotify.com/artist/0p5Ot7c8cFHtS82hd1WBN3) | [History Of Kingdom : PartⅠ\. Arthur](https://open.spotify.com/album/1Vf3hY3aLfTVhPLiXU8HR7) | 4:13 | 2022-03-30 | 2022-04-20 |
 | [EXIT](https://open.spotify.com/track/5pTMVpOuFCM1GYjI2Lm2r3) | [T1419](https://open.spotify.com/artist/3uT0R5PsjP0k7NJ565Nqs4) | [BEFORE SUNRISE Part\. 2](https://open.spotify.com/album/0oTCoSk1qZJ2LdiZ05sJC0) | 3:10 | 2021-12-08 | 2022-04-18 |
 | [EYES \(from “Armored Saurus”\)](https://open.spotify.com/track/2jENXjiYuPriGaFNLSmgO5) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [EYES \(from “Armored Saurus”\)](https://open.spotify.com/album/2yyyLbIoQWvZXudDHeUkOd) | 3:34 | 2022-01-17 | 2022-07-25 |
@@ -267,7 +267,7 @@
 | [ME= \(NANEUN\)](https://open.spotify.com/track/2fRzv9XVm3o5kk6ed5FjIU) | [JUST B](https://open.spotify.com/artist/2f0bPttugNpkg34HIxBIWe) | [= \(NEUN\)](https://open.spotify.com/album/5raCfFI9NNJyjsseHkdkPH) | 3:12 | 2022-11-17 | 2022-11-24 |
 | [Memento](https://open.spotify.com/track/5BuvRDep3503zAgrOvfalf) | [IZ](https://open.spotify.com/artist/4XiZ3nAGoPv8K8IMktGc3b) | [Memento](https://open.spotify.com/album/3msXwm2ApxwHTjJNeCOosf) | 3:59 | 2022-03-22 | 2022-04-18 |
 | [Midnight Sun](https://open.spotify.com/track/1o6OdD35Z7A1qtgIQKIWdg) | [Seven O'Clock](https://open.spotify.com/artist/4NeKLW82adFCE8Y6r50X1E) | [White Night](https://open.spotify.com/album/5mkUMTAVUZfE1zTkfI62EN) | 3:42 | 2022-03-22 | 2022-04-18 |
-| [MIROH](https://open.spotify.com/track/2sFWzfV3kqAwXEWM9BjzwH) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [Clé 1 : MIROH](https://open.spotify.com/album/3s6RbqkTprnGwKpoUSYL00) | 3:27 | 2022-07-27 | 2023-05-08 |
+| [MIROH](https://open.spotify.com/track/2sFWzfV3kqAwXEWM9BjzwH) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [Clé 1 : MIROH](https://open.spotify.com/album/3s6RbqkTprnGwKpoUSYL00) | 3:27 | 2022-07-27 |  |
 | [MIROH](https://open.spotify.com/track/4WuKHgxdCJsaOBIh7yndty) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [Clé 1 : MIROH](https://open.spotify.com/album/79Bjt5oUy1183RJw1bJyF5) | 3:27 | 2022-01-14 | 2022-04-10 |
 | [mirror mirror](https://open.spotify.com/track/6iWYuwQ5gGsdAz4grECUON) | [아스틴](https://open.spotify.com/artist/4jFqeOOljafZf9zw1h4iNY) | [1st album mirror mirror](https://open.spotify.com/album/6YWzF8gaHiETn1sBFSyfD0) | 3:27 | 2022-03-31 | 2022-04-21 |
 | [MISSING](https://open.spotify.com/track/7gv1XDYF4208C0YT9HLhXU) | [TRCNG](https://open.spotify.com/artist/07Fxramv7R9p4IHJI7Oeqe) | [TRCNG 2nd Single Album \[RISING\]](https://open.spotify.com/album/77GteaAvRNcE92t7Ajmsru) | 3:30 | 2022-03-22 | 2022-04-10 |
@@ -291,6 +291,7 @@
 | [MY TREASURE](https://open.spotify.com/track/4Dq2FjRkOTHcssggMdYK8J) | [TREASURE](https://open.spotify.com/artist/3KonOYiLsU53m4yT7gNotP) | [THE FIRST STEP : TREASURE EFFECT](https://open.spotify.com/album/5tQDFmW8QrZdTsICpLQBTL) | 3:15 | 2021-12-08 | 2022-06-30 |
 | [My Universe](https://open.spotify.com/track/3FeVmId7tL5YN8B7R3imoM) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU), [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [My Universe](https://open.spotify.com/album/39McjovZ3M6n5SFtNmWTdp) | 3:48 | 2021-12-08 |  |
 | [NANANA](https://open.spotify.com/track/2tEMbypmvYhf84mzVbhxwZ) | [GOT7](https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df) | [GOT7](https://open.spotify.com/album/3vIVsuFU7ZKCwKB2Yri8lM) | 3:07 | 2022-05-30 | 2023-01-28 |
+| [Next to Me](https://open.spotify.com/track/35pgNknwrEIUQByD7ZcGQH) | [ATBO](https://open.spotify.com/artist/3bwO3gNZVmHwaBttv739g7) | [The Beginning : 飛上](https://open.spotify.com/album/5jiLdsyFP8bDMu2LcSL8e4) | 3:20 | 2023-05-18 |  |
 | [No Air](https://open.spotify.com/track/0mve4vxmwumqI6gnw7euma) | [THE BOYZ](https://open.spotify.com/artist/0CmvFWTX9zmMNCUi6fHtAx) | [THE BOYZ 3rd MINI ALBUM \[THE ONLY\]](https://open.spotify.com/album/0OQZQq2066KZgauv3M24CK) | 4:04 | 2021-12-08 | 2022-07-24 |
 | [No More X](https://open.spotify.com/track/7ykZspJW8uY2Lx26zO3eBt) | [TO1](https://open.spotify.com/artist/405HlkQ0VXP4NUYaGxsgsg) | [RE:ALIZE](https://open.spotify.com/album/3uHB6cLFlt4u4M6HTbSLfy) | 2:58 | 2022-03-22 | 2022-06-15 |
 | [nostalgic night](https://open.spotify.com/track/7MC2mQvMmir9PM3nAe2SuW) | [VICTON](https://open.spotify.com/artist/0ziR2zN0NFcB4x1G3P8cW3) | [nostalgia](https://open.spotify.com/album/2sJsRFE2NrqsV7DYmrmlZz) | 3:15 | 2021-12-08 | 2022-07-22 |
@@ -299,7 +300,7 @@
 | [Numb](https://open.spotify.com/track/0oiQqWcpJVeMsKQ5E0Cil8) | [CIX](https://open.spotify.com/artist/1lHfzEkKmmvdVDDDLKkcsd) | [HELLO Chapter 2: Hello, Strange Place](https://open.spotify.com/album/470CmgGjcBd9XmDA4jCyAD) | 3:25 | 2022-01-17 | 2022-04-15 |
 | [Obsession](https://open.spotify.com/track/7fK0csBoqbcgUuWGV0cpoD) | [EXO](https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O) | [OBSESSION](https://open.spotify.com/album/7uNyF6MKaVHi5TJqIiNobm) | 3:23 | 2022-01-17 | 2022-06-19 |
 | [Oh My!](https://open.spotify.com/track/4JViGq60SvqtQXI3WK0OLS) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [SEVENTEEN 5TH MINI ALBUM 'YOU MAKE MY DAY'](https://open.spotify.com/album/7ayq6V3xwXGOScUqhvIyFl) | 3:15 | 2021-12-08 | 2022-07-17 |
-| [oh yeah](https://open.spotify.com/track/6HcYZ1SlmnmiPJ5oXwoT9y) | [0WAVE](https://open.spotify.com/artist/1nxCRfWuzM4GSCVfrqtlxz) | [insatiable <3](https://open.spotify.com/album/1Nsu0LDVxxAEeGnJQs4pZA) | 2:43 | 2023-04-21 |  |
+| [oh yeah](https://open.spotify.com/track/6HcYZ1SlmnmiPJ5oXwoT9y) | [0WAVE](https://open.spotify.com/artist/1nxCRfWuzM4GSCVfrqtlxz) | [insatiable <3](https://open.spotify.com/album/1Nsu0LDVxxAEeGnJQs4pZA) | 2:43 | 2023-04-21 | 2023-05-19 |
 | [ON \(Feat\. Sia\)](https://open.spotify.com/track/3IB5qOeMayvpOdHxYCL5tZ) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX), [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [MAP OF THE SOUL : 7](https://open.spotify.com/album/6mJZTV8lCqnwftYZa94bXS) | 4:06 | 2022-04-15 | 2022-04-17 |
 | [ONE&ONLY](https://open.spotify.com/track/6mSThPrnX93XDEKiM8vAlb) | [ASTRO](https://open.spotify.com/artist/4pz4uzOMpJQyV8UTsDy4H8) | [ONE&ONLY](https://open.spotify.com/album/4RYmZ3shUlylRyXu3YS7PX) | 4:11 | 2022-03-22 | 2022-04-15 |
 | [ONLY ONE](https://open.spotify.com/track/2h5pUNnd98Lhr2OAaJE8u7) | [JBJ95](https://open.spotify.com/artist/7G6wtLzZON7qJQ2Cw2kxVp) | [ONLY ONE](https://open.spotify.com/album/5DeS90uKqOWhS3ysZ00V14) | 3:31 | 2022-03-22 | 2022-07-18 |

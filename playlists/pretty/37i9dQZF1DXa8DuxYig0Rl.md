@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa8DuxYig0Rl.md) - [plain]
 
 > Tropical y refrescante\. Con todo el sabor y tradición de México.
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,837 likes - 100 songs - 5 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,873 likes - 100 songs - 5 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,8 +62,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa8DuxYig0Rl.md) - [plain]
 | 52 | [El Año Viejo](https://open.spotify.com/track/6NjhADkaWwGYO0R7eZXyI4) | [Tony Camargo](https://open.spotify.com/artist/5ty08GXpCMviM7BKWNrdXi) | [RCA 100 Años De Musica](https://open.spotify.com/album/42xizzB2aLakQDBNIhEQJg) | 3:02 |
 | 53 | [El Ahualulco](https://open.spotify.com/track/6ZNp1Fg2IDhpfxW3yOoHv9) | [Los Sonor's](https://open.spotify.com/artist/5t7uHzbQeU3ZeuLuT0Tzn0) | [Antología...Los Sonor's](https://open.spotify.com/album/4eVt6JVtBQGs63CkWEZkj6) | 2:13 |
 | 54 | [Yerbero Moderno](https://open.spotify.com/track/6DIjVmwlgVdSdHAYSkS5ga) | [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U), [La Sonora Matancera](https://open.spotify.com/artist/01p7Homi0d4XxZ06f2NYYD) | [Azúcar! Caliente](https://open.spotify.com/album/5VRSzmNx2jHSagmnwScyi3) | 2:56 |
-| 55 | [El Restaurantito](https://open.spotify.com/track/3S2U1ZoesGZi8ZTOkxxlS3) | [Chico Che y La Crisis](https://open.spotify.com/artist/36OebUTEGjxsjUnpQhnmHm) | [El Pasado](https://open.spotify.com/album/6t03MjmuMMfP7o2QUi4qhC) | 2:50 |
-| 56 | [El Orangutan](https://open.spotify.com/track/21nUw0WwlwdjMkFctzcs2v) | [La Sonora Santanera](https://open.spotify.com/artist/3CsPxFJGyNa9ep79CFWN77) | [20 Exitos](https://open.spotify.com/album/2VAfS6wE5hokS4Nb5I0p4O) | 2:54 |
+| 55 | [El Orangutan](https://open.spotify.com/track/21nUw0WwlwdjMkFctzcs2v) | [La Sonora Santanera](https://open.spotify.com/artist/3CsPxFJGyNa9ep79CFWN77) | [20 Exitos](https://open.spotify.com/album/2VAfS6wE5hokS4Nb5I0p4O) | 2:54 |
+| 56 | [El Restaurantito](https://open.spotify.com/track/3S2U1ZoesGZi8ZTOkxxlS3) | [Chico Che y La Crisis](https://open.spotify.com/artist/36OebUTEGjxsjUnpQhnmHm) | [El Pasado](https://open.spotify.com/album/6t03MjmuMMfP7o2QUi4qhC) | 2:50 |
 | 57 | [Pasito Tun Tun](https://open.spotify.com/track/6vXP8taf6h8VGQYeBpt644) | [J.L.B\. Y Cía](https://open.spotify.com/artist/4gWJIHAOL5ALjx8k4Ptz0R) | [Espuma De Mar](https://open.spotify.com/album/0X8f23dP4XuKPgM8xaTisW) | 2:55 |
 | 58 | [La Diablesa del rock](https://open.spotify.com/track/4DOdwPPUnIDZETau5hO9P5) | [Marimba Cuquita de los Hermanos Narvaez](https://open.spotify.com/artist/0ioh6FwJgyen3UNGYiL0fm) | [Antología\. \. .Marimba Cuquita de los Hermanos Narvaez](https://open.spotify.com/album/4iofQumfq1VzKug1C5K3cb) | 2:48 |
 | 59 | [Campanario](https://open.spotify.com/track/2zPOyiVqfcMmTyG3hi5Sen) | [Carlos Campos Y Orquesta](https://open.spotify.com/artist/0IVPiyQ9QrdROHQs9hAFcU) | [Algo Nuevo en Danzon](https://open.spotify.com/album/7ACakhlXywfd8Uvv2HAOEP) | 3:42 |
@@ -71,8 +71,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa8DuxYig0Rl.md) - [plain]
 | 61 | [Sabor A Guayaba](https://open.spotify.com/track/3Gy7M3ycoSLO9uMhIlPY9u) | [Los Plebeyos](https://open.spotify.com/artist/3VZbsevxBrgXLWjJ2Q8O7a) | [A Bailar Se Ha Dicho](https://open.spotify.com/album/5hNJkxdEqoo3xGaDNCROJH) | 2:26 |
 | 62 | [Cumbia calé](https://open.spotify.com/track/4NISz8OHOds3bujhrNzsmK) | [Los Sonor's](https://open.spotify.com/artist/5t7uHzbQeU3ZeuLuT0Tzn0) | [12 Grandes exitos Vol\. 2](https://open.spotify.com/album/7c4ECJUWnywBDAosMT4jhK) | 2:43 |
 | 63 | [Un Meneito Na' Ma'](https://open.spotify.com/track/61Js6aQ1SK6VmigZl7CS2O) | [Arturo Nuñez Y Su Orquesta](https://open.spotify.com/artist/1oVhEJ0rdAKvE0goWNDqdl) | [El Caballero del Ritmo](https://open.spotify.com/album/2z9SCzTWxm7IkqlfxbAR5d) | 3:13 |
-| 64 | [Amor Perdido](https://open.spotify.com/track/6kJrQyiydPbEiAgfU5Phrp) | [Maria Luisa Landin](https://open.spotify.com/artist/6xwRfnFKMKRoHL8LuLNBpf) | [Colección Diamante](https://open.spotify.com/album/1mzaWbfnxIq01Jyi23b96h) | 3:14 |
-| 65 | [Las Bicicletas](https://open.spotify.com/track/43KGNTOAE6pX5hjqDG7yBg) | [Salterio y Quinteto de Antaño](https://open.spotify.com/artist/2g7uqSdLoBuzN2MAiHlfGQ) | [La Belle Epoque](https://open.spotify.com/album/6yfkDfG0OCtjIVVgjSx03g) | 3:09 |
+| 64 | [Las Bicicletas](https://open.spotify.com/track/43KGNTOAE6pX5hjqDG7yBg) | [Salterio y Quinteto de Antaño](https://open.spotify.com/artist/2g7uqSdLoBuzN2MAiHlfGQ) | [La Belle Epoque](https://open.spotify.com/album/6yfkDfG0OCtjIVVgjSx03g) | 3:09 |
+| 65 | [Amor Perdido](https://open.spotify.com/track/6kJrQyiydPbEiAgfU5Phrp) | [Maria Luisa Landin](https://open.spotify.com/artist/6xwRfnFKMKRoHL8LuLNBpf) | [Colección Diamante](https://open.spotify.com/album/1mzaWbfnxIq01Jyi23b96h) | 3:14 |
 | 66 | [Mambo del Politécnico](https://open.spotify.com/track/18hoGhRHSr0rDwj8V9bsAZ) | [Pérez Prado](https://open.spotify.com/artist/1ZKhPkCXXgtiGgALn4OYtT) | [Plays Mucho Mambo..\. and Other Fantastic Compositions](https://open.spotify.com/album/2vBCLoEAjZqU4CGWfcMqIk) | 3:14 |
 | 67 | [Pancha Baila en Turcos](https://open.spotify.com/track/5PIPXjmhd1sApWvtnS4bKP) | [Marimba Cuquita de los Hermanos Narvaez](https://open.spotify.com/artist/0ioh6FwJgyen3UNGYiL0fm) | [Antología\. \. .Marimba Cuquita de los Hermanos Narvaez](https://open.spotify.com/album/4iofQumfq1VzKug1C5K3cb) | 3:08 |
 | 68 | [Sábado D.F.](https://open.spotify.com/track/2CoCTWNwmcDsTMPxG4CmMP) | [Chava Flores](https://open.spotify.com/artist/3qvw5E5LD9Wq0nFNnBL4O2) | [Los Éxitos de Chava Flores en la Voz de Chava Flores y Fernando Rosas](https://open.spotify.com/album/6T1qoWlqTnzh8668YTyKSL) | 2:48 |
@@ -85,8 +85,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa8DuxYig0Rl.md) - [plain]
 | 75 | [Pedacito de Mi Vida](https://open.spotify.com/track/2wbIlghub8hsIJiiDxPMAC) | [Celina Y Reutilio](https://open.spotify.com/artist/5vah85L323LvoowZhyAMhD) | [Clásicos de La Música Cubana Volume 3](https://open.spotify.com/album/7hPks3l2HPfGVdDrzeqAqH) | 2:53 |
 | 76 | [Alma llanera](https://open.spotify.com/track/37uKoiJSNUeHiUVJmP4rWM) | [Los Panchos](https://open.spotify.com/artist/3Ker27Wbb9OcUHGs54JIAz) | [Aguanta Corazón \(1955 \-1959\)](https://open.spotify.com/album/3vWOVb2soptTEz5vdUPY2c) | 2:54 |
 | 77 | [Tema De Lara](https://open.spotify.com/track/6XG9vkGncaL7SMcq4jg9eb) | [Los Aragon](https://open.spotify.com/artist/7d1qSpM5IGKsYtVvSpzhDw) | [15 Éxitos](https://open.spotify.com/album/2CktXUtQ2L4pUIDgmzdsHa) | 2:10 |
-| 78 | [Que Bueno Baila Usted](https://open.spotify.com/track/0KeLEFyRObe9rVWUxWmkPM) | [Beny Moré](https://open.spotify.com/artist/1Sp47peMTI9na8FTY4yHJw) | [Serie Platino](https://open.spotify.com/album/3fKm1pACTYGNXT5jWyYtYL) | 3:12 |
-| 79 | [Zacazonapan](https://open.spotify.com/track/1JxygrDpw5bLUMQsQqQuPN) | [Marimba Orquesta Perla De Chiapas](https://open.spotify.com/artist/69lmWrPp9ZvKMJirt47VMP) | [Vamos A La Fiesta](https://open.spotify.com/album/6AkQ14Roz7mOJVi6JRc9gZ) | 2:45 |
+| 78 | [Zacazonapan](https://open.spotify.com/track/1JxygrDpw5bLUMQsQqQuPN) | [Marimba Orquesta Perla De Chiapas](https://open.spotify.com/artist/69lmWrPp9ZvKMJirt47VMP) | [Vamos A La Fiesta](https://open.spotify.com/album/6AkQ14Roz7mOJVi6JRc9gZ) | 2:45 |
+| 79 | [Que Bueno Baila Usted](https://open.spotify.com/track/0KeLEFyRObe9rVWUxWmkPM) | [Beny Moré](https://open.spotify.com/artist/1Sp47peMTI9na8FTY4yHJw) | [Serie Platino](https://open.spotify.com/album/3fKm1pACTYGNXT5jWyYtYL) | 3:12 |
 | 80 | [Chapultepec](https://open.spotify.com/track/14jYjGfprvRyvSBq13pAn9) | [Salterio y Quinteto de Antaño](https://open.spotify.com/artist/2g7uqSdLoBuzN2MAiHlfGQ) | [La Belle Epoque](https://open.spotify.com/album/6yfkDfG0OCtjIVVgjSx03g) | 2:32 |
 | 81 | [El fandanguito \- The Little Fandango](https://open.spotify.com/track/3FbSCMcmNiwoDgv3oLSkIG) | [Los Camperos de Valles](https://open.spotify.com/artist/5wkjb5Vn4MeMj8rGI0SraE) | [El ave de mi soñar: Mexican Sones Huastecos](https://open.spotify.com/album/7tdP8HWoKaV5v3gjA4aTmk) | 3:18 |
 | 82 | [Aguita de Coco](https://open.spotify.com/track/2uFL2daNnQgaBzFynQAvJo) | [Pepe Gomez Jr\. y su Grupo Union 82](https://open.spotify.com/artist/3aiiZsdJHqXrPkYOBQI0Uo), [Magia San juanera](https://open.spotify.com/artist/4mp2F6WrSl1RC3yrklidlA) | [Aguita de Coco](https://open.spotify.com/album/2mnZqRaITER5ycCq6AXcQV) | 3:37 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa8DuxYig0Rl.md) - [plain]
 | 99 | [Botecito de Vela](https://open.spotify.com/track/40Ji4lCHW8hBRjT8VPtzSw) | [La Sonora Santanera](https://open.spotify.com/artist/3CsPxFJGyNa9ep79CFWN77) | [Mis 30 Mejores Canciones](https://open.spotify.com/album/2aQzF1ccueoLiIzMpKDyYa) | 3:04 |
 | 100 | [Mambo Universitario](https://open.spotify.com/track/32xH84FLeD1lEuePV242FO) | [Pérez Prado](https://open.spotify.com/artist/1ZKhPkCXXgtiGgALn4OYtT) | [Lo Mejor De Lo Mejor](https://open.spotify.com/album/0xWIbLx7asBb35NBNNBHed) | 2:27 |
 
-Snapshot ID: `MCw1YWYzMzZhNTA5Njc2ODRiYTc0OWFkYjM3NjM3NDM0MmM2MTNmYzBh`
+Snapshot ID: `MCw3ZWU5YTMwZjFkOTMzZjk2ZDQ2YzEwOWU0M2Y4ZmJhZDkxZTM1YWMz`

@@ -1,12 +1,12 @@
 {
   "description": "Latin songs that changed the game. Cover: Celia Cruz",
-  "num_followers": 981554,
+  "num_followers": 981541,
   "original_name": "100 Latin Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlNjRiMjFlZjI0YTQzNTc0MzI0OGEwYjcwNTc2ZDA1ZDM0ZWY3MDFm",
+  "snapshot_id": "MCwwZjY0ZDkxM2ZmNDM5MTRiYzQ3ZWY2YzA0YWU0MTI5ZmUwNjYzNTE1",
   "tracks": [
     {
       "added_at": "2023-02-07 00:10:22",
@@ -775,6 +775,22 @@
     {
       "added_at": "2023-02-07 00:10:22",
       "album": {
+        "name": "Son By 4",
+        "url": "https://open.spotify.com/album/6FaDCE5IxXXMXVn3etukKq"
+      },
+      "artists": [
+        {
+          "name": "Son By Four",
+          "url": "https://open.spotify.com/artist/1qyAl8T6GTcaOViaI7fs1j"
+        }
+      ],
+      "duration_ms": 210186,
+      "name": "A Puro Dolor - Balada",
+      "url": "https://open.spotify.com/track/28upjDakWVnHAgW2anm273"
+    },
+    {
+      "added_at": "2023-02-07 00:10:22",
+      "album": {
         "name": "Para La Eternidad",
         "url": "https://open.spotify.com/album/2MSP1JG7KflqYqAHtk7wlB"
       },
@@ -791,18 +807,18 @@
     {
       "added_at": "2023-02-07 00:10:22",
       "album": {
-        "name": "Son By 4",
-        "url": "https://open.spotify.com/album/6FaDCE5IxXXMXVn3etukKq"
+        "name": "Franco de Vita",
+        "url": "https://open.spotify.com/album/2ijctTdGOOLFI9wMzeG3jb"
       },
       "artists": [
         {
-          "name": "Son By Four",
-          "url": "https://open.spotify.com/artist/1qyAl8T6GTcaOViaI7fs1j"
+          "name": "Franco De Vita",
+          "url": "https://open.spotify.com/artist/4NEYQeEYBUjfaXgDQGvFvu"
         }
       ],
-      "duration_ms": 210186,
-      "name": "A Puro Dolor - Balada",
-      "url": "https://open.spotify.com/track/28upjDakWVnHAgW2anm273"
+      "duration_ms": 240226,
+      "name": "Un Buen Perdedor",
+      "url": "https://open.spotify.com/track/0T7JubkdjBXNDVadRIq2ck"
     },
     {
       "added_at": "2023-02-07 00:10:22",
@@ -823,22 +839,6 @@
       "duration_ms": 294986,
       "name": "Smooth (feat. Rob Thomas)",
       "url": "https://open.spotify.com/track/2pX4FpOgwItRVPPUFdRcxA"
-    },
-    {
-      "added_at": "2023-02-07 00:10:22",
-      "album": {
-        "name": "Franco de Vita",
-        "url": "https://open.spotify.com/album/2ijctTdGOOLFI9wMzeG3jb"
-      },
-      "artists": [
-        {
-          "name": "Franco De Vita",
-          "url": "https://open.spotify.com/artist/4NEYQeEYBUjfaXgDQGvFvu"
-        }
-      ],
-      "duration_ms": 240226,
-      "name": "Un Buen Perdedor",
-      "url": "https://open.spotify.com/track/0T7JubkdjBXNDVadRIq2ck"
     },
     {
       "added_at": "2023-02-07 00:10:22",
@@ -1571,22 +1571,6 @@
     {
       "added_at": "2023-02-07 00:10:22",
       "album": {
-        "name": "Sus Grandes Exitos",
-        "url": "https://open.spotify.com/album/4fXILOMBr57rYVoZ22Z1C4"
-      },
-      "artists": [
-        {
-          "name": "Sim\u00f3n D\u00edaz",
-          "url": "https://open.spotify.com/artist/29GjVRVQSln078FWYOX4r4"
-        }
-      ],
-      "duration_ms": 179666,
-      "name": "Caballo Viejo",
-      "url": "https://open.spotify.com/track/6VGRiUGPup3c0tZTX2lWhv"
-    },
-    {
-      "added_at": "2023-02-07 00:10:22",
-      "album": {
         "name": "Lo Esencial",
         "url": "https://open.spotify.com/album/2P9cy8tTevB3UBgAD3MQio"
       },
@@ -1599,6 +1583,22 @@
       "duration_ms": 274960,
       "name": "El Matador",
       "url": "https://open.spotify.com/track/7N2qyJrAp16ghZFBloT8Ye"
+    },
+    {
+      "added_at": "2023-02-07 00:10:22",
+      "album": {
+        "name": "Sus Grandes Exitos",
+        "url": "https://open.spotify.com/album/4fXILOMBr57rYVoZ22Z1C4"
+      },
+      "artists": [
+        {
+          "name": "Sim\u00f3n D\u00edaz",
+          "url": "https://open.spotify.com/artist/29GjVRVQSln078FWYOX4r4"
+        }
+      ],
+      "duration_ms": 179666,
+      "name": "Caballo Viejo",
+      "url": "https://open.spotify.com/track/6VGRiUGPup3c0tZTX2lWhv"
     },
     {
       "added_at": "2023-02-07 00:10:22",

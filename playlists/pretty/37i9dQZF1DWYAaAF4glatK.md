@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYAaAF4glatK.md) - [plain]
 
 > Plus que 4 semaines avant l'été ! 🍦
 
-[Spotify](https://open.spotify.com/user/spotify) - 260,998 likes - 50 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 261,291 likes - 50 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYAaAF4glatK.md) - [plain]
 | 49 | [Lose My Mind](https://open.spotify.com/track/62PUsRLMQjhyXqijBxSw5B) | [Boris Way](https://open.spotify.com/artist/6B4RvAzPbZcxMjhZvFSDis) | [Lose My Mind](https://open.spotify.com/album/30scvKWaYn7ypfpJcn9iP4) | 2:26 |
 | 50 | [Alone \(with Nicki Minaj\)](https://open.spotify.com/track/7kOletJ0Q5H4MWe7cfeZXP) | [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Alone](https://open.spotify.com/album/5YdIiv5WLNbaONCyGIDszz) | 3:05 |
 
-Snapshot ID: `MCw1NDlkYTljNDIzMTQyZGUwOGI0YTQxNTcyYzhlYThiZDQ0ODI2MDEz`
+Snapshot ID: `MCw1ZDNhZTg2Nzg5ZThiNDMwNzYxYmVmNjkzM2IzNjI0Y2I1NGYxNGQ5`

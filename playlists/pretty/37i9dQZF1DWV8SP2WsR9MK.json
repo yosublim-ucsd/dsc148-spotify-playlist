@@ -1,12 +1,12 @@
 {
   "description": "The classic Jazz guitarists and their finest pieces. Cover: Grant Green",
-  "num_followers": 64850,
+  "num_followers": 64919,
   "original_name": "Jazz Guitar Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiOTEwYzBkY2U2ZGIwZTcyZjAzOWE3NTE2NDI2ZTMzZGQ2Mjg5MjY3",
+  "snapshot_id": "MCwyNDEwODQ5ZGIzOWM0ZWJmNmZlODAwYmViODgwMTA2OWNmZjRlMGJl",
   "tracks": [
     {
       "added_at": "2023-05-10 06:14:43",
@@ -531,18 +531,18 @@
     {
       "added_at": "2023-05-10 06:14:43",
       "album": {
-        "name": "Standards Trio: Reflections",
-        "url": "https://open.spotify.com/album/2iQuKhBU83MbUIsRAKcYPn"
+        "name": "Cream",
+        "url": "https://open.spotify.com/album/6R8qLTLbNFxzfBoavYUCXy"
       },
       "artists": [
         {
-          "name": "Kurt Rosenwinkel",
-          "url": "https://open.spotify.com/artist/253GMpCNwx1TJtASNAeDoP"
+          "name": "Pat Martino",
+          "url": "https://open.spotify.com/artist/4DlMMgnldzX6OkCskmeGKz"
         }
       ],
-      "duration_ms": 195200,
-      "name": "You've Changed",
-      "url": "https://open.spotify.com/track/5iPXzdmW5wxcbWJNw46mOy"
+      "duration_ms": 628186,
+      "name": "Sunny",
+      "url": "https://open.spotify.com/track/6xHcMss02s14r2EdXLEqhk"
     },
     {
       "added_at": "2023-05-10 06:14:43",
@@ -599,18 +599,18 @@
     {
       "added_at": "2023-05-10 06:14:43",
       "album": {
-        "name": "Cream",
-        "url": "https://open.spotify.com/album/6R8qLTLbNFxzfBoavYUCXy"
+        "name": "Standards Trio: Reflections",
+        "url": "https://open.spotify.com/album/2iQuKhBU83MbUIsRAKcYPn"
       },
       "artists": [
         {
-          "name": "Pat Martino",
-          "url": "https://open.spotify.com/artist/4DlMMgnldzX6OkCskmeGKz"
+          "name": "Kurt Rosenwinkel",
+          "url": "https://open.spotify.com/artist/253GMpCNwx1TJtASNAeDoP"
         }
       ],
-      "duration_ms": 628186,
-      "name": "Sunny",
-      "url": "https://open.spotify.com/track/6xHcMss02s14r2EdXLEqhk"
+      "duration_ms": 195200,
+      "name": "You've Changed",
+      "url": "https://open.spotify.com/track/5iPXzdmW5wxcbWJNw46mOy"
     },
     {
       "added_at": "2023-05-10 06:14:43",
@@ -751,6 +751,22 @@
     {
       "added_at": "2023-05-10 06:14:43",
       "album": {
+        "name": "Midnight Blue (The Rudy Van Gelder Edition)",
+        "url": "https://open.spotify.com/album/0hMuKAciHKinu4L3R4Ojjl"
+      },
+      "artists": [
+        {
+          "name": "Kenny Burrell",
+          "url": "https://open.spotify.com/artist/1sdyFmN4bVOcuFDpTVsxBB"
+        }
+      ],
+      "duration_ms": 347706,
+      "name": "Wavy Gravy - Remastered",
+      "url": "https://open.spotify.com/track/6HpGqqpmoQ9O9kOzPtELhy"
+    },
+    {
+      "added_at": "2023-05-10 06:14:43",
+      "album": {
         "name": "Kessel Plays Standards",
         "url": "https://open.spotify.com/album/5ppBTIkGP1apH4P9Rc1Wjc"
       },
@@ -771,22 +787,6 @@
       "duration_ms": 188333,
       "name": "A Foggy Day",
       "url": "https://open.spotify.com/track/6uddYxVxC6qX5PSPzAylid"
-    },
-    {
-      "added_at": "2023-05-10 06:14:43",
-      "album": {
-        "name": "Midnight Blue (The Rudy Van Gelder Edition)",
-        "url": "https://open.spotify.com/album/0hMuKAciHKinu4L3R4Ojjl"
-      },
-      "artists": [
-        {
-          "name": "Kenny Burrell",
-          "url": "https://open.spotify.com/artist/1sdyFmN4bVOcuFDpTVsxBB"
-        }
-      ],
-      "duration_ms": 347706,
-      "name": "Wavy Gravy - Remastered",
-      "url": "https://open.spotify.com/track/6HpGqqpmoQ9O9kOzPtELhy"
     },
     {
       "added_at": "2023-05-10 06:14:43",
@@ -1039,30 +1039,6 @@
     {
       "added_at": "2023-05-10 06:14:43",
       "album": {
-        "name": "Vital Techtones",
-        "url": "https://open.spotify.com/album/6d7fOKSVvPBoTVIWPJB2Ed"
-      },
-      "artists": [
-        {
-          "name": "Steve Smith",
-          "url": "https://open.spotify.com/artist/7pnpCbCBCIHvkCqrXSib0z"
-        },
-        {
-          "name": "Scott Henderson",
-          "url": "https://open.spotify.com/artist/7iqVI0BpCxVVHyVyGSfAmn"
-        },
-        {
-          "name": "Victor Wooten",
-          "url": "https://open.spotify.com/artist/2STVYmc2T02GlvvWZl7umj"
-        }
-      ],
-      "duration_ms": 345706,
-      "name": "Giant Steps",
-      "url": "https://open.spotify.com/track/74c8OtmpOrPtwjroiriM54"
-    },
-    {
-      "added_at": "2023-05-10 06:14:43",
-      "album": {
         "name": "The Essential Benny Goodman",
         "url": "https://open.spotify.com/album/7ykWEOYdt8gyA4seOlwtWK"
       },
@@ -1083,6 +1059,30 @@
       "duration_ms": 182653,
       "name": "Wholly Cats",
       "url": "https://open.spotify.com/track/4p9naPxsiai1ayHWKvvhCS"
+    },
+    {
+      "added_at": "2023-05-10 06:14:43",
+      "album": {
+        "name": "Vital Techtones",
+        "url": "https://open.spotify.com/album/6d7fOKSVvPBoTVIWPJB2Ed"
+      },
+      "artists": [
+        {
+          "name": "Steve Smith",
+          "url": "https://open.spotify.com/artist/7pnpCbCBCIHvkCqrXSib0z"
+        },
+        {
+          "name": "Scott Henderson",
+          "url": "https://open.spotify.com/artist/7iqVI0BpCxVVHyVyGSfAmn"
+        },
+        {
+          "name": "Victor Wooten",
+          "url": "https://open.spotify.com/artist/2STVYmc2T02GlvvWZl7umj"
+        }
+      ],
+      "duration_ms": 345706,
+      "name": "Giant Steps",
+      "url": "https://open.spotify.com/track/74c8OtmpOrPtwjroiriM54"
     },
     {
       "added_at": "2023-05-10 06:14:43",
@@ -1139,22 +1139,6 @@
     {
       "added_at": "2023-05-10 06:14:43",
       "album": {
-        "name": "Good Pickin's",
-        "url": "https://open.spotify.com/album/0CVGXahh2o0Wg4asysJ9OS"
-      },
-      "artists": [
-        {
-          "name": "Howard Roberts",
-          "url": "https://open.spotify.com/artist/1E4UIKgZgGsuAZ4CFS0Cel"
-        }
-      ],
-      "duration_ms": 255280,
-      "name": "When The Sun Comes Out",
-      "url": "https://open.spotify.com/track/6AVztYjd9LnVjXtDHK73NU"
-    },
-    {
-      "added_at": "2023-05-10 06:14:43",
-      "album": {
         "name": "The Sound Of Johnny Smith",
         "url": "https://open.spotify.com/album/1zeJkPpy0WkLnTQo9TUEeh"
       },
@@ -1171,6 +1155,22 @@
       "duration_ms": 328800,
       "name": "Misty - 2001 Remaster",
       "url": "https://open.spotify.com/track/5fQFn9MwQFgh1MRIl4eg7u"
+    },
+    {
+      "added_at": "2023-05-10 06:14:43",
+      "album": {
+        "name": "Good Pickin's",
+        "url": "https://open.spotify.com/album/0CVGXahh2o0Wg4asysJ9OS"
+      },
+      "artists": [
+        {
+          "name": "Howard Roberts",
+          "url": "https://open.spotify.com/artist/1E4UIKgZgGsuAZ4CFS0Cel"
+        }
+      ],
+      "duration_ms": 255280,
+      "name": "When The Sun Comes Out",
+      "url": "https://open.spotify.com/track/6AVztYjd9LnVjXtDHK73NU"
     },
     {
       "added_at": "2023-05-10 06:14:43",
@@ -1327,22 +1327,6 @@
     {
       "added_at": "2023-05-10 06:14:43",
       "album": {
-        "name": "The Artistry Of Tal Farlow",
-        "url": "https://open.spotify.com/album/3DhbpcnuskeHWkCzWAM9cO"
-      },
-      "artists": [
-        {
-          "name": "Tal Farlow",
-          "url": "https://open.spotify.com/artist/0dIXV3ffgWlMcnywNIy0Wf"
-        }
-      ],
-      "duration_ms": 296613,
-      "name": "Have You Met Miss Jones?",
-      "url": "https://open.spotify.com/track/10iq9kylUDnPeLJikEdCvl"
-    },
-    {
-      "added_at": "2023-05-10 06:14:43",
-      "album": {
         "name": "Burnin'",
         "url": "https://open.spotify.com/album/0mF2ClZgcgBlyibysq4B5K"
       },
@@ -1355,6 +1339,22 @@
       "duration_ms": 492400,
       "name": "Moonlight In Vermont",
       "url": "https://open.spotify.com/track/73CYjb6oGhV4CqohyR2OVV"
+    },
+    {
+      "added_at": "2023-05-10 06:14:43",
+      "album": {
+        "name": "The Artistry Of Tal Farlow",
+        "url": "https://open.spotify.com/album/3DhbpcnuskeHWkCzWAM9cO"
+      },
+      "artists": [
+        {
+          "name": "Tal Farlow",
+          "url": "https://open.spotify.com/artist/0dIXV3ffgWlMcnywNIy0Wf"
+        }
+      ],
+      "duration_ms": 296613,
+      "name": "Have You Met Miss Jones?",
+      "url": "https://open.spotify.com/track/10iq9kylUDnPeLJikEdCvl"
     },
     {
       "added_at": "2023-05-10 06:14:43",
@@ -1531,22 +1531,6 @@
     {
       "added_at": "2023-05-10 06:14:43",
       "album": {
-        "name": "Bill Frisell, Ron Carter, Paul Motian",
-        "url": "https://open.spotify.com/album/7hnLRv9M7Gt9HjMPsZ1mmz"
-      },
-      "artists": [
-        {
-          "name": "Bill Frisell",
-          "url": "https://open.spotify.com/artist/3SONlwqLIP2GtaMh9pLYe5"
-        }
-      ],
-      "duration_ms": 356533,
-      "name": "You Are My Sunshine",
-      "url": "https://open.spotify.com/track/2sf3HFNcwXw9cd1D4in2lT"
-    },
-    {
-      "added_at": "2023-05-10 06:14:43",
-      "album": {
         "name": "Standards (And Other Songs)",
         "url": "https://open.spotify.com/album/6Az63x71f79GUhcyccTomF"
       },
@@ -1559,6 +1543,22 @@
       "duration_ms": 324026,
       "name": "Straight No Chaser",
       "url": "https://open.spotify.com/track/2C6x0Qx9aslzGS5GKLl2nB"
+    },
+    {
+      "added_at": "2023-05-10 06:14:43",
+      "album": {
+        "name": "Bill Frisell, Ron Carter, Paul Motian",
+        "url": "https://open.spotify.com/album/7hnLRv9M7Gt9HjMPsZ1mmz"
+      },
+      "artists": [
+        {
+          "name": "Bill Frisell",
+          "url": "https://open.spotify.com/artist/3SONlwqLIP2GtaMh9pLYe5"
+        }
+      ],
+      "duration_ms": 356533,
+      "name": "You Are My Sunshine",
+      "url": "https://open.spotify.com/track/2sf3HFNcwXw9cd1D4in2lT"
     },
     {
       "added_at": "2023-05-10 06:14:43",
@@ -1647,6 +1647,22 @@
     {
       "added_at": "2023-05-10 06:14:43",
       "album": {
+        "name": "These Times",
+        "url": "https://open.spotify.com/album/0b0yP9HN3TrKfZ7llb0LwR"
+      },
+      "artists": [
+        {
+          "name": "Mike Stern",
+          "url": "https://open.spotify.com/artist/3zX0EMvB00JzxnRi5EIICP"
+        }
+      ],
+      "duration_ms": 397106,
+      "name": "Silver Lining",
+      "url": "https://open.spotify.com/track/5Pp8j3brmuE1m2ssreqFcN"
+    },
+    {
+      "added_at": "2023-05-10 06:14:43",
+      "album": {
         "name": "Idlewild",
         "url": "https://open.spotify.com/album/1fyvwidfmrQQ1DGA3WKZqV"
       },
@@ -1727,22 +1743,6 @@
       "duration_ms": 432093,
       "name": "Skylark",
       "url": "https://open.spotify.com/track/27ayGUimrPyUrjAriMYGZv"
-    },
-    {
-      "added_at": "2023-05-10 06:14:43",
-      "album": {
-        "name": "These Times",
-        "url": "https://open.spotify.com/album/0b0yP9HN3TrKfZ7llb0LwR"
-      },
-      "artists": [
-        {
-          "name": "Mike Stern",
-          "url": "https://open.spotify.com/artist/3zX0EMvB00JzxnRi5EIICP"
-        }
-      ],
-      "duration_ms": 397106,
-      "name": "Silver Lining",
-      "url": "https://open.spotify.com/track/5Pp8j3brmuE1m2ssreqFcN"
     },
     {
       "added_at": "2023-05-10 06:14:43",

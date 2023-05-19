@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbApqiewDQsL.md) - [plain]
 
 > The songs and collaborations pushing the Mexican sound to a global level\. Cover: Banda MS & Ice Cube
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,904 likes - 79 songs - 4 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,924 likes - 79 songs - 4 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -88,4 +88,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbApqiewDQsL.md) - [plain]
 | 78 | [Para Todos Mis Paisanos](https://open.spotify.com/track/2R1GwRkfF4lYvc1IbnxsQX) | [Ovi](https://open.spotify.com/artist/4o0NtnL2m0lzZmEdRas1qv), [La Maxima Banda de Mazatlan Sinaloa](https://open.spotify.com/artist/1jrlmT3OMCawrjyH20uoHf) | [Retumban2](https://open.spotify.com/album/7e1b68gNd73TPKZgrq3tiy) | 3:13 |
 | 79 | [Me Ven Manejando](https://open.spotify.com/track/2T52ALl72hzvYhYahoqBIK) | [Esteban Gabriel](https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN), [Trae Tha Truth](https://open.spotify.com/artist/49vCIUW46QY3L5vo1xVFoy) | [Me Ven Manejando](https://open.spotify.com/album/4zdL0W4Jzfy4aKTSRpSP3S) | 3:25 |
 
-Snapshot ID: `MCxiMDJiN2NmODcxZDk4ZWM0YjkzZGVlODZmMWIyY2QyMzZmNTU1YjFj`
+Snapshot ID: `MCwwZmY4NzUwNjA0ZDYwNmJjOTkyOTdkNmE3N2Y3Y2I0NmUyODA2ODU4`

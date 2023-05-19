@@ -4,7 +4,7 @@
 
 > Les meilleurs tubes Raï du moment que vous entendez partout\. Cover: Cheb Djalil
 
-155 songs - 12 hr 32 min
+156 songs - 12 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -94,7 +94,7 @@
 | [Lokan jiti mra msagma](https://open.spotify.com/track/3bNYR1sMmvQ9X7qAb1o6zi) | [Yacine Tigre](https://open.spotify.com/artist/3KyPN9BFlpyEEAy4vCs8l4) | [Lokan jiti mra msagma](https://open.spotify.com/album/50IvpHMMhTH49ZuAQtOzvW) | 5:39 | 2022-09-20 |  |
 | [M'en Galbi Rani Netaleem Chir Labes Lacoste W L3alem](https://open.spotify.com/track/2AfEg8BrxxYWnTSkCO3WoP) | [Cheba Warda Charlomanté](https://open.spotify.com/artist/26vSgNM4fjX4RkmrI26qCZ), [Manini Sahar](https://open.spotify.com/artist/1YFMNFSAIaFxXUOb8tf78c) | [M'en Galbi Rani Netaleem Chir Labes Lacoste W L3alem](https://open.spotify.com/album/20U5bTrHMj4yJyEY90V7DJ) | 5:38 | 2023-04-18 |  |
 | [M3aya Makmltiche](https://open.spotify.com/track/6vWVRhoVbENz35zv318MYC) | [Bilal Sghir](https://open.spotify.com/artist/22XZtro8Hm67fM2XENt6Yg) | [M3aya Makmltiche](https://open.spotify.com/album/6bLoK8mk3yCBsjGgIR3AKI) | 5:09 | 2022-11-14 | 2022-11-21 |
-| [Ma 3yat Ma Twasi](https://open.spotify.com/track/70Zj9LvRzFwmovJUsWusdg) | [Abdou Gambetta](https://open.spotify.com/artist/1tK2o8xfVFCjGVs41FWhT2) | [Ma 3yat Ma Twasi](https://open.spotify.com/album/3S84fRH5SD40IKJzkMZChH) | 4:44 | 2022-09-20 |  |
+| [Ma 3yat Ma Twasi](https://open.spotify.com/track/70Zj9LvRzFwmovJUsWusdg) | [Abdou Gambetta](https://open.spotify.com/artist/1tK2o8xfVFCjGVs41FWhT2) | [Ma 3yat Ma Twasi](https://open.spotify.com/album/3S84fRH5SD40IKJzkMZChH) | 4:44 | 2022-09-20 | 2023-05-19 |
 | [Ma Bella](https://open.spotify.com/track/45KQJy7KlhyXCPZzg3ACvW) | [Fethi Manar](https://open.spotify.com/artist/6g9hpEimVF4dYzs32kT94m) | [Ma Bella](https://open.spotify.com/album/5GutzL1w4cssmLszj2oFpX) | 4:21 | 2023-02-01 |  |
 | [Ma Khradjch Alik Tahdjal](https://open.spotify.com/track/7oVMXlkx5zpbOg6rTCK6bj) | [Bilal Sghir](https://open.spotify.com/artist/22XZtro8Hm67fM2XENt6Yg) | [Ma Khradjch Alik Tahdjal](https://open.spotify.com/album/06TGOankIkEjT8ofhGjf8A) | 3:54 | 2022-09-20 | 2022-12-27 |
 | [Ma Tzawjet Ma Walet](https://open.spotify.com/track/53srYeUEKA5rplVgSWhnRP) | [Hichem Smati](https://open.spotify.com/artist/4NqyeNqz4XfIeEWrXPknYJ), [Cheb Djalil](https://open.spotify.com/artist/4ZzMtjQsjtaAOm3GPqmjeQ) | [Ma Tzawjet Ma Walet](https://open.spotify.com/album/3zCuPox0tptwvUu5ePP1HM) | 7:12 | 2021-10-19 | 2022-02-01 |
@@ -146,6 +146,7 @@
 | [Way Way](https://open.spotify.com/track/4fhtWJkjPXZNRfS6x94OZf) | [Mouss Maher](https://open.spotify.com/artist/7n40iNdXEPUvQkURa7c3Xv), [Cheikh Nano](https://open.spotify.com/artist/2DcBVx9B2rez95bOTb1cDH) | [Way Way](https://open.spotify.com/album/0gdIW2pOUSBwTUagG5IwfU) | 4:19 | 2022-09-20 | 2022-10-26 |
 | [Wayn Rakom Ya Hbabi](https://open.spotify.com/track/3CbMZTL6zwiA6r5BvGnMZE) | [Faycel Sghir](https://open.spotify.com/artist/6nWoudLNCfWwFYW0h2HTb1) | [Wayn Rakom Ya Hbabi](https://open.spotify.com/album/6Z14yylSHkwvie7957DHtB) | 5:09 | 2021-10-19 | 2022-12-30 |
 | [Ya Galbi 39el Fiha](https://open.spotify.com/track/10T3NyeNu9aP1k89RUwWAp) | [Cheb Hamidou](https://open.spotify.com/artist/0WJTTlIjjKvee1iq0PdpWb), [Houari Ghazali](https://open.spotify.com/artist/2KXXuXgrY1X2RLez2UAVog) | [Ya Galbi 39el Fiha](https://open.spotify.com/album/1sIqXsmvaKG504gDsAkEHF) | 5:12 | 2023-01-28 | 2023-04-14 |
+| [Ya Glbi](https://open.spotify.com/track/4iR1FL0ou2i5N9fMv4UZ2M) | [Cheb Bello](https://open.spotify.com/artist/11E9GHIAzJRKuECEUSEuqh) | [Ya Glbi](https://open.spotify.com/album/3Ia5JNFiTOKD1JKsjoyJHq) | 7:08 | 2023-05-18 |  |
 | [YA SAMRA](https://open.spotify.com/track/7KSCnbszZsU3TicZAKRwJ3) | [Cheb Yacin Tigre](https://open.spotify.com/artist/6wuzVpbUB3pwGMMFXWRhUM) | [YA SAMRA](https://open.spotify.com/album/1ISVnwls21aDdB7hZxeYiT) | 3:44 | 2021-10-19 | 2022-07-29 |
 | [Ya Samra Hobek welali jamra](https://open.spotify.com/track/442IWFKIrGrHTVjIrfc3YR) | [Yacine Tigre](https://open.spotify.com/artist/3KyPN9BFlpyEEAy4vCs8l4) | [Ya Samra Hobek welali jamra](https://open.spotify.com/album/2vtIO9E8hCsEOhOoty8OHL) | 3:44 | 2022-05-11 |  |
 | [Yekedbou w ynagrou \- Ysahbou w ydouro](https://open.spotify.com/track/3UYsJqg7fTmOzuxNj1P8wk) | [Cheb Bello](https://open.spotify.com/artist/11E9GHIAzJRKuECEUSEuqh) | [Yekedbou w ynagrou \(Ysahbou w ydouro\)](https://open.spotify.com/album/4HFLzXyuagSkM4TBTGzye1) | 5:59 | 2023-01-30 |  |

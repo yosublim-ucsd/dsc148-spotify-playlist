@@ -1,12 +1,12 @@
 {
   "description": "Canciones directas y banderas al viento. Foto: La 25.",
-  "num_followers": 143224,
+  "num_followers": 143299,
   "original_name": "Rock Barrial",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1MDI1MzBiMDQzNjExZjE3N2QyNDBiN2E5MmI4ZTYyMzZmOGM3NzRh",
+  "snapshot_id": "MCxkMmE4NzBmNTMwZTZiNTViOTMyMTAwZGZlMzRkYWYwM2RkNTIwYTVj",
   "tracks": [
     {
       "added_at": "2023-05-05 14:08:11",
@@ -619,6 +619,22 @@
     {
       "added_at": "2023-05-05 14:08:11",
       "album": {
+        "name": "La Renga",
+        "url": "https://open.spotify.com/album/58M6gPLnHqTnE5z2dRbKNH"
+      },
+      "artists": [
+        {
+          "name": "La Renga",
+          "url": "https://open.spotify.com/artist/30fEdZPXgWfC4sNttcyB3C"
+        }
+      ],
+      "duration_ms": 295773,
+      "name": "Cuando Est\u00e9s Ac\u00e1",
+      "url": "https://open.spotify.com/track/2rEAG7lKACyW5YVS3KsNoN"
+    },
+    {
+      "added_at": "2023-05-05 14:08:11",
+      "album": {
         "name": "A Mil",
         "url": "https://open.spotify.com/album/2InkYfFJSLS5cIXt74tenM"
       },
@@ -651,22 +667,6 @@
     {
       "added_at": "2023-05-05 14:08:11",
       "album": {
-        "name": "La Renga",
-        "url": "https://open.spotify.com/album/58M6gPLnHqTnE5z2dRbKNH"
-      },
-      "artists": [
-        {
-          "name": "La Renga",
-          "url": "https://open.spotify.com/artist/30fEdZPXgWfC4sNttcyB3C"
-        }
-      ],
-      "duration_ms": 295773,
-      "name": "Cuando Est\u00e9s Ac\u00e1",
-      "url": "https://open.spotify.com/track/2rEAG7lKACyW5YVS3KsNoN"
-    },
-    {
-      "added_at": "2023-05-05 14:08:11",
-      "album": {
         "name": "El Impulso",
         "url": "https://open.spotify.com/album/1iUFO4NXsxz14ZdDZI31T4"
       },
@@ -695,22 +695,6 @@
       "duration_ms": 278386,
       "name": "Vine Hasta Aqu\u00ed",
       "url": "https://open.spotify.com/track/2HPh92X44B9hHR0n9FZZoM"
-    },
-    {
-      "added_at": "2023-05-05 14:08:11",
-      "album": {
-        "name": "Lo Que Somos",
-        "url": "https://open.spotify.com/album/5WyV76Ch7CH1oqDCt8VrNJ"
-      },
-      "artists": [
-        {
-          "name": "Cruzando El Charco",
-          "url": "https://open.spotify.com/artist/4STEdt6oH8RopaxpfWrO5Z"
-        }
-      ],
-      "duration_ms": 191530,
-      "name": "Soy",
-      "url": "https://open.spotify.com/track/2qlNflXsO7plqVz0vuC75H"
     },
     {
       "added_at": "2023-05-05 14:08:11",
@@ -763,6 +747,22 @@
     {
       "added_at": "2023-05-05 14:08:11",
       "album": {
+        "name": "Lo Que Somos",
+        "url": "https://open.spotify.com/album/5WyV76Ch7CH1oqDCt8VrNJ"
+      },
+      "artists": [
+        {
+          "name": "Cruzando El Charco",
+          "url": "https://open.spotify.com/artist/4STEdt6oH8RopaxpfWrO5Z"
+        }
+      ],
+      "duration_ms": 191530,
+      "name": "Soy",
+      "url": "https://open.spotify.com/track/2qlNflXsO7plqVz0vuC75H"
+    },
+    {
+      "added_at": "2023-05-05 14:08:11",
+      "album": {
         "name": "A Donde Me Lleva La Vida",
         "url": "https://open.spotify.com/album/5f86DyUHkazyikoFVWb237"
       },
@@ -795,22 +795,6 @@
     {
       "added_at": "2023-05-05 14:08:11",
       "album": {
-        "name": "A Mil",
-        "url": "https://open.spotify.com/album/2InkYfFJSLS5cIXt74tenM"
-      },
-      "artists": [
-        {
-          "name": "Cruzando El Charco",
-          "url": "https://open.spotify.com/artist/4STEdt6oH8RopaxpfWrO5Z"
-        }
-      ],
-      "duration_ms": 214651,
-      "name": "Volver a Nacer",
-      "url": "https://open.spotify.com/track/6mH8dpee5PZFA7L8QISURa"
-    },
-    {
-      "added_at": "2023-05-05 14:08:11",
-      "album": {
         "name": "Las Pastillas del Abuelo",
         "url": "https://open.spotify.com/album/6mFBpsRAsaVUYTGqvTyGtD"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 303866,
       "name": "Tantas Escaleras",
       "url": "https://open.spotify.com/track/3PM8JhZVn49xj8nW3i9qSn"
+    },
+    {
+      "added_at": "2023-05-05 14:08:11",
+      "album": {
+        "name": "A Contraluz",
+        "url": "https://open.spotify.com/album/7LMidzEe6utRLx7hPiq2AL"
+      },
+      "artists": [
+        {
+          "name": "La Vela Puerca",
+          "url": "https://open.spotify.com/artist/6nVcjUJemqpJjc1WevwTvL"
+        }
+      ],
+      "duration_ms": 308666,
+      "name": "Clarobscuro",
+      "url": "https://open.spotify.com/track/5aXacxWAOHOZjH2uxMJ0q0"
     },
     {
       "added_at": "2023-05-05 14:08:11",
@@ -843,34 +843,18 @@
     {
       "added_at": "2023-05-05 14:08:11",
       "album": {
-        "name": "Otro D\u00eda en el Planeta Tierra",
-        "url": "https://open.spotify.com/album/4Q2jY2HQPZxGimNjoKFKaC"
+        "name": "A Mil",
+        "url": "https://open.spotify.com/album/2InkYfFJSLS5cIXt74tenM"
       },
       "artists": [
         {
-          "name": "Intoxicados",
-          "url": "https://open.spotify.com/artist/4VgvR7eu3k2T20mo6mXhXF"
+          "name": "Cruzando El Charco",
+          "url": "https://open.spotify.com/artist/4STEdt6oH8RopaxpfWrO5Z"
         }
       ],
-      "duration_ms": 214090,
-      "name": "Las cosas que no se tocan",
-      "url": "https://open.spotify.com/track/5Y3T9zncw2XDAcn9pFliKT"
-    },
-    {
-      "added_at": "2023-05-05 14:08:11",
-      "album": {
-        "name": "A Contraluz",
-        "url": "https://open.spotify.com/album/7LMidzEe6utRLx7hPiq2AL"
-      },
-      "artists": [
-        {
-          "name": "La Vela Puerca",
-          "url": "https://open.spotify.com/artist/6nVcjUJemqpJjc1WevwTvL"
-        }
-      ],
-      "duration_ms": 308666,
-      "name": "Clarobscuro",
-      "url": "https://open.spotify.com/track/5aXacxWAOHOZjH2uxMJ0q0"
+      "duration_ms": 214651,
+      "name": "Volver a Nacer",
+      "url": "https://open.spotify.com/track/6mH8dpee5PZFA7L8QISURa"
     },
     {
       "added_at": "2023-05-05 14:08:11",
@@ -907,6 +891,22 @@
     {
       "added_at": "2023-05-05 14:08:11",
       "album": {
+        "name": "Otro D\u00eda en el Planeta Tierra",
+        "url": "https://open.spotify.com/album/4Q2jY2HQPZxGimNjoKFKaC"
+      },
+      "artists": [
+        {
+          "name": "Intoxicados",
+          "url": "https://open.spotify.com/artist/4VgvR7eu3k2T20mo6mXhXF"
+        }
+      ],
+      "duration_ms": 214090,
+      "name": "Las cosas que no se tocan",
+      "url": "https://open.spotify.com/track/5Y3T9zncw2XDAcn9pFliKT"
+    },
+    {
+      "added_at": "2023-05-05 14:08:11",
+      "album": {
         "name": "La Esquina Del Infinito",
         "url": "https://open.spotify.com/album/4M0ydzwbRw8c1RV07TpMX9"
       },
@@ -919,22 +919,6 @@
       "duration_ms": 182360,
       "name": "Panic Show",
       "url": "https://open.spotify.com/track/7ao7jtJIMzppW0p1CwEJ9Q"
-    },
-    {
-      "added_at": "2023-05-05 14:08:11",
-      "album": {
-        "name": "Las Pastillas del Abuelo",
-        "url": "https://open.spotify.com/album/6mFBpsRAsaVUYTGqvTyGtD"
-      },
-      "artists": [
-        {
-          "name": "Las Pastillas del Abuelo",
-          "url": "https://open.spotify.com/artist/0D5U7oXEE4dut2DPyUDLca"
-        }
-      ],
-      "duration_ms": 431626,
-      "name": "Amar y Envejecer",
-      "url": "https://open.spotify.com/track/0V472Br1hpLSczZdow8MJd"
     },
     {
       "added_at": "2023-05-05 14:08:11",
@@ -955,22 +939,6 @@
     {
       "added_at": "2023-05-05 14:08:11",
       "album": {
-        "name": "No Es Solo Rock And Roll",
-        "url": "https://open.spotify.com/album/1KYkaepx3oUWJRDR8ypzxH"
-      },
-      "artists": [
-        {
-          "name": "Intoxicados",
-          "url": "https://open.spotify.com/artist/4VgvR7eu3k2T20mo6mXhXF"
-        }
-      ],
-      "duration_ms": 226586,
-      "name": "Volver a Casa",
-      "url": "https://open.spotify.com/track/2PeErZ0K1IVS5C3nri2Pqa"
-    },
-    {
-      "added_at": "2023-05-05 14:08:11",
-      "album": {
         "name": "La Paciencia De La Ara\u00f1a",
         "url": "https://open.spotify.com/album/7urCdolaxQ3YUQlI8Bhj41"
       },
@@ -983,6 +951,22 @@
       "duration_ms": 317066,
       "name": "Oxidado",
       "url": "https://open.spotify.com/track/32YkpyPZ6taMEEb8TBLcrr"
+    },
+    {
+      "added_at": "2023-05-05 14:08:11",
+      "album": {
+        "name": "Las Pastillas del Abuelo",
+        "url": "https://open.spotify.com/album/6mFBpsRAsaVUYTGqvTyGtD"
+      },
+      "artists": [
+        {
+          "name": "Las Pastillas del Abuelo",
+          "url": "https://open.spotify.com/artist/0D5U7oXEE4dut2DPyUDLca"
+        }
+      ],
+      "duration_ms": 431626,
+      "name": "Amar y Envejecer",
+      "url": "https://open.spotify.com/track/0V472Br1hpLSczZdow8MJd"
     },
     {
       "added_at": "2023-05-05 14:08:11",
@@ -1019,6 +1003,22 @@
     {
       "added_at": "2023-05-05 14:08:11",
       "album": {
+        "name": "No Es Solo Rock And Roll",
+        "url": "https://open.spotify.com/album/1KYkaepx3oUWJRDR8ypzxH"
+      },
+      "artists": [
+        {
+          "name": "Intoxicados",
+          "url": "https://open.spotify.com/artist/4VgvR7eu3k2T20mo6mXhXF"
+        }
+      ],
+      "duration_ms": 226586,
+      "name": "Volver a Casa",
+      "url": "https://open.spotify.com/track/2PeErZ0K1IVS5C3nri2Pqa"
+    },
+    {
+      "added_at": "2023-05-05 14:08:11",
+      "album": {
         "name": "Vicio",
         "url": "https://open.spotify.com/album/5GhW2V4FEHOHEeVydU7TxS"
       },
@@ -1031,22 +1031,6 @@
       "duration_ms": 208373,
       "name": "Nunca me ense\u00f1aste",
       "url": "https://open.spotify.com/track/41i7cqPXQj5zkMJK6V6RNf"
-    },
-    {
-      "added_at": "2023-05-05 14:08:11",
-      "album": {
-        "name": "No Es Solo Rock And Roll",
-        "url": "https://open.spotify.com/album/1KYkaepx3oUWJRDR8ypzxH"
-      },
-      "artists": [
-        {
-          "name": "Intoxicados",
-          "url": "https://open.spotify.com/artist/4VgvR7eu3k2T20mo6mXhXF"
-        }
-      ],
-      "duration_ms": 312760,
-      "name": "De La Guitarra",
-      "url": "https://open.spotify.com/track/26lG5q6s0MG3GK44rmYmFg"
     },
     {
       "added_at": "2023-05-05 14:08:11",
@@ -1131,6 +1115,22 @@
     {
       "added_at": "2023-05-05 14:08:11",
       "album": {
+        "name": "No Es Solo Rock And Roll",
+        "url": "https://open.spotify.com/album/1KYkaepx3oUWJRDR8ypzxH"
+      },
+      "artists": [
+        {
+          "name": "Intoxicados",
+          "url": "https://open.spotify.com/artist/4VgvR7eu3k2T20mo6mXhXF"
+        }
+      ],
+      "duration_ms": 312760,
+      "name": "De La Guitarra",
+      "url": "https://open.spotify.com/track/26lG5q6s0MG3GK44rmYmFg"
+    },
+    {
+      "added_at": "2023-05-05 14:08:11",
+      "album": {
         "name": "Gardeliando",
         "url": "https://open.spotify.com/album/2YVadYqrEQR7iHn45PVyZy"
       },
@@ -1179,6 +1179,22 @@
     {
       "added_at": "2023-05-05 14:08:11",
       "album": {
+        "name": "El Favor",
+        "url": "https://open.spotify.com/album/62csdLXrMnYxVSrnJaQmzg"
+      },
+      "artists": [
+        {
+          "name": "Las Pastillas del Abuelo",
+          "url": "https://open.spotify.com/artist/0D5U7oXEE4dut2DPyUDLca"
+        }
+      ],
+      "duration_ms": 245024,
+      "name": "El Favor",
+      "url": "https://open.spotify.com/track/1gjX021CdXDhpKCkGM53H4"
+    },
+    {
+      "added_at": "2023-05-05 14:08:11",
+      "album": {
         "name": "Monta\u00f1a Rusa Emocional",
         "url": "https://open.spotify.com/album/0KOjxfn6PBm3ntF4NZnhjq"
       },
@@ -1191,22 +1207,6 @@
       "duration_ms": 199881,
       "name": "Monta\u00f1a Rusa Emocional",
       "url": "https://open.spotify.com/track/6OrpYqotia6MQqlKZKsgZ1"
-    },
-    {
-      "added_at": "2023-05-05 14:08:11",
-      "album": {
-        "name": "Alma en Pe\u00f1a",
-        "url": "https://open.spotify.com/album/04kBrvfJ42EVMYq3SJbN1X"
-      },
-      "artists": [
-        {
-          "name": "Salamandra",
-          "url": "https://open.spotify.com/artist/1sLot73qJ4Vbh4nPuwzvj9"
-        }
-      ],
-      "duration_ms": 236605,
-      "name": "Solito",
-      "url": "https://open.spotify.com/track/3lomF1J4N3LQXkbkAZxw9v"
     },
     {
       "added_at": "2023-05-05 14:08:11",
@@ -1227,18 +1227,18 @@
     {
       "added_at": "2023-05-05 14:08:11",
       "album": {
-        "name": "El Favor",
-        "url": "https://open.spotify.com/album/62csdLXrMnYxVSrnJaQmzg"
+        "name": "Alma en Pe\u00f1a",
+        "url": "https://open.spotify.com/album/04kBrvfJ42EVMYq3SJbN1X"
       },
       "artists": [
         {
-          "name": "Las Pastillas del Abuelo",
-          "url": "https://open.spotify.com/artist/0D5U7oXEE4dut2DPyUDLca"
+          "name": "Salamandra",
+          "url": "https://open.spotify.com/artist/1sLot73qJ4Vbh4nPuwzvj9"
         }
       ],
-      "duration_ms": 245024,
-      "name": "El Favor",
-      "url": "https://open.spotify.com/track/1gjX021CdXDhpKCkGM53H4"
+      "duration_ms": 236605,
+      "name": "Solito",
+      "url": "https://open.spotify.com/track/3lomF1J4N3LQXkbkAZxw9v"
     },
     {
       "added_at": "2023-05-05 14:08:11",

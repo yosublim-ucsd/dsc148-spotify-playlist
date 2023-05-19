@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4bf0P6HTTom.md) - [plain]
 
 > Eagles, The Byrds and all your favorite country rock
 
-[Spotify](https://open.spotify.com/user/spotify) - 139,274 likes - 50 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 139,349 likes - 50 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4bf0P6HTTom.md) - [plain]
 | 36 | [Morning Sky](https://open.spotify.com/track/0DrhNB3j0VKTBPoN2J5jbT) | [Dan Fogelberg](https://open.spotify.com/artist/0cA5Tg15TwARIRZeiNT1RO) | [Souvenirs](https://open.spotify.com/album/3rER5EzMnSZT75KT1UDHyq) | 2:49 |
 | 37 | [Feelin' Single \- Seein' Double \- 2003 Remaster](https://open.spotify.com/track/65J216Pxb4JOdiYVFIpLx7) | [Emmylou Harris](https://open.spotify.com/artist/5s6TJEuHTr9GR894wc6VfP) | [Elite Hotel \(Expanded & Remastered\)](https://open.spotify.com/album/312OEZO2boUMqdNMuuip6h) | 2:26 |
 | 38 | [Two Lane Highway](https://open.spotify.com/track/0tcq9tNIw5JHUywymB07OA) | [Pure Prairie League](https://open.spotify.com/artist/1MXwwmS2JpmsHZhdMeOL2s) | [Greatest Hits](https://open.spotify.com/album/41AdLTdErVUwftvr1dUVAf) | 4:06 |
-| 39 | [Strength of Strings](https://open.spotify.com/track/0ORYA6kaMWPKtHDPcea16a) | [Gene Clark](https://open.spotify.com/artist/040Bv6cZTRh30LyyYVXgJX) | [No Other](https://open.spotify.com/album/0bHiuso3WXpchgSlfX48uY) | 6:31 |
-| 40 | [Willin'](https://open.spotify.com/track/10JSZpgIr0NZb3JqP0lT3K) | [Commander Cody and His Lost Planet Airmen](https://open.spotify.com/artist/4KtaHyqLFlKKb7aghnWBfE) | [Commander Cody & His Lost Planet Airmen](https://open.spotify.com/album/5M8Zfk4Gsf31MoGk3JXubL) | 3:38 |
+| 39 | [Willin'](https://open.spotify.com/track/10JSZpgIr0NZb3JqP0lT3K) | [Commander Cody and His Lost Planet Airmen](https://open.spotify.com/artist/4KtaHyqLFlKKb7aghnWBfE) | [Commander Cody & His Lost Planet Airmen](https://open.spotify.com/album/5M8Zfk4Gsf31MoGk3JXubL) | 3:38 |
+| 40 | [Strength of Strings](https://open.spotify.com/track/0ORYA6kaMWPKtHDPcea16a) | [Gene Clark](https://open.spotify.com/artist/040Bv6cZTRh30LyyYVXgJX) | [No Other](https://open.spotify.com/album/0bHiuso3WXpchgSlfX48uY) | 6:31 |
 | 41 | [Mama Nantucket](https://open.spotify.com/track/3PqhliKIHScPgJgse7KHTq) | [Michael Nesmith](https://open.spotify.com/artist/5Tic1bWAbmRoLrqaJ5SxU2), [The First National Band](https://open.spotify.com/artist/08xBftDfAD7CMC51uxUuZF) | [Magnetic South \(Expanded Edition\)](https://open.spotify.com/album/2JdE6W8pxUtwNET1xI3OZ7) | 2:39 |
 | 42 | [White Line Fever](https://open.spotify.com/track/5z3kHR2Gh892XGcYuln1Gf) | [The Flying Burrito Brothers](https://open.spotify.com/artist/0rESpKEusFHxhW59MIf7eM) | [The Flying Burrito Brothers](https://open.spotify.com/album/6lx6e9GACcsSRjoipxeWh1) | 3:16 |
 | 43 | [Cosmic Cowboy](https://open.spotify.com/track/3vvceIDWVANlLWKoJUzBn6) | [Michael Martin Murphey](https://open.spotify.com/artist/4jL1usPiGDK8TD46zJP4gu), [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3), [Jerry Jeff Walker](https://open.spotify.com/artist/763opp15PhfHpEaiVjM6m7), [Lyle Lovett](https://open.spotify.com/artist/0zlJDQgqnr9AocrH9gs1Es), [Bruce Robison](https://open.spotify.com/artist/5cqtplMyw7hPLjW47Jr7Uq), [Django Walker](https://open.spotify.com/artist/3gA6trQf3KmA74GZw9WTsI), [Gary P\. Nunn](https://open.spotify.com/artist/0E8Z0e9ZVDaVz6mnXH5UqL), [Bob Livingston](https://open.spotify.com/artist/1n8LsK850ruMqeFvVpcDW9) | [Austinology \- Alleys of Austin](https://open.spotify.com/album/7sYNpOIkgegedM6myq1IK1) | 4:16 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4bf0P6HTTom.md) - [plain]
 | 49 | [Down Along The Cove](https://open.spotify.com/track/2jigzHqXdUlpAlmSeaVSeU) | [Johnny Jenkins](https://open.spotify.com/artist/3ghDyCR4DJVjwfcjNHUD27) | [Ton\-Ton Macoute!](https://open.spotify.com/album/5PCm5Bvheyg4QeuF5lfkum) | 3:25 |
 | 50 | [Rebecca \- Remastered](https://open.spotify.com/track/6JivFldqJ4qjT7kYhygGTl) | [Longbranch/Pennywhistle](https://open.spotify.com/artist/7bK26KSS2vRPxiT2UDeYSF) | [Longbranch/Pennywhistle \(Remastered\)](https://open.spotify.com/album/6z5JQxMPg26VbiNjK0ktjp) | 2:48 |
 
-Snapshot ID: `MCxkZmViOTU4YWJjZTM4NDY5MjExZGEwZDhiZDgxY2FmOWZiYzk2MGU4`
+Snapshot ID: `MCwyOTQ4NWE5NDkxNmIyNTJhMThiZTQ1YzJhNzlhMWY1YzY0M2U5ZmFj`

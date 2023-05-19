@@ -8,7 +8,7 @@
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [1 Room](https://open.spotify.com/track/0aO0VzGOXaamluotV8aD3U) | [Perila](https://open.spotify.com/artist/5tWRKxz6TY4YfkdrMPGPPi) | [7.37/2.11](https://open.spotify.com/album/1oYDe8bwryHz91moudqL6X) | 3:52 | 2022-01-21 |  |
+| [1 Room](https://open.spotify.com/track/0aO0VzGOXaamluotV8aD3U) | [Perila](https://open.spotify.com/artist/5tWRKxz6TY4YfkdrMPGPPi) | [7.37/2.11](https://open.spotify.com/album/1oYDe8bwryHz91moudqL6X) | 3:52 | 2022-01-21 | 2023-05-19 |
 | [4am](https://open.spotify.com/track/76PZlokCTD6ezzVl73nCRg) | [58918012](https://open.spotify.com/artist/3SocIm1Z2zkHRvPCibwQus) | [132,480 minutes](https://open.spotify.com/album/5zI7lptQ8x8kskLatd47Hm) | 5:00 | 2022-01-21 |  |
 | [><⋃⊃⊃∑](https://open.spotify.com/track/5zfTTqHFfnrgCXa58sxtT5) | [Vokeebokæybgo Lochtyblchvvaii](https://open.spotify.com/artist/43DxOFtmX9kK6HIUluJZtq) | [OTVR](https://open.spotify.com/album/34ScM5nRfC2TJ99Xoja51u) | 8:41 | 2022-01-21 |  |
 | [A Collection Of Ceramic Vases \(Yves Saint Laurent Buried In The Garden Of His Marrakesh Home\)](https://open.spotify.com/track/1MwAwmw5LXeV2N5AtG9mYi) | [Body Sculptures](https://open.spotify.com/artist/71XkAfWI8OWbuXBrsdJnAt) | [A Body Turns To Eden](https://open.spotify.com/album/3gYajjdwhAWF8Pzbl0xKAm) | 3:22 | 2022-01-21 |  |
@@ -92,7 +92,7 @@
 | [Insidious](https://open.spotify.com/track/0j4jbuU1XL2ShDIE4OHqel) | [4lienetic](https://open.spotify.com/artist/4lOwCvuSv7ickecVE7dUBk) | [Pompeii](https://open.spotify.com/album/3WGKBFVmZNW5Jt3bRheWev) | 3:39 | 2022-04-01 |  |
 | [Introduction](https://open.spotify.com/track/0jVs5KrJ52rMzzsAy16ZSJ) | [Paul Motian Trio](https://open.spotify.com/artist/1c989hojFsjIm2oP7lkJfw) | [It Should've Happened A Long Time Ago](https://open.spotify.com/album/4yW6dg82YD5jwo9I5j0OW4) | 3:03 | 2022-01-21 | 2022-07-29 |
 | [Introduction](https://open.spotify.com/track/4sOeCVCew7f63JaVnflu2U) | [Paul Motian Trio](https://open.spotify.com/artist/1c989hojFsjIm2oP7lkJfw) | [It Should've Happened A Long Time Ago](https://open.spotify.com/album/24kr1KBohyzTQ9qzZKpjqm) | 3:03 | 2022-07-22 |  |
-| [Invisible](https://open.spotify.com/track/6ghDVCa0ybhPsQVtj9DxF0) | [Port Salut](https://open.spotify.com/artist/1IoFjHa1ryRDvckLz1bD7r) | [Invisible](https://open.spotify.com/album/4ihYSzyNbJ2Xk5XgmdyFtS) | 2:32 | 2022-01-28 | 2023-05-13 |
+| [Invisible](https://open.spotify.com/track/6ghDVCa0ybhPsQVtj9DxF0) | [Port Salut](https://open.spotify.com/artist/1IoFjHa1ryRDvckLz1bD7r) | [Invisible](https://open.spotify.com/album/4ihYSzyNbJ2Xk5XgmdyFtS) | 2:32 | 2022-01-28 |  |
 | [is this nature escape](https://open.spotify.com/track/1WTrewwL2WSpRLzMHkliPk) | [Katharine Petkovski](https://open.spotify.com/artist/2oTL4l9yY0pzkWPAYiQdyA) | [is this nature escape](https://open.spotify.com/album/2QEtXA68cvKfb3Fxn2zO42) | 3:32 | 2022-01-21 |  |
 | [Kerlann](https://open.spotify.com/track/3z5526brr8uZeHJOylEibp) | [Yann Tiersen](https://open.spotify.com/artist/00sazWvoTLOqg5MFwC68Um) | [Kerber](https://open.spotify.com/album/0L9QNawAYPBbMOkHD1tZOM) | 6:32 | 2022-01-21 | 2022-08-02 |
 | [Konvektion](https://open.spotify.com/track/5fOr0VJwhHuOFyh6FCZVyO) | [Maria w Horn](https://open.spotify.com/artist/2td3eHrQeycxkGLmCeauak) | [Epistasis](https://open.spotify.com/album/2PLRVIvX0FVaraQLFB5rev) | 13:16 | 2022-01-21 | 2022-07-28 |

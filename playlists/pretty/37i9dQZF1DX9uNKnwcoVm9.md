@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9uNKnwcoVm9.md) - [plain]
 
 > Un playlist que te llena de esperanza\.  ¡Con fe!
 
-[Spotify](https://open.spotify.com/user/spotify) - 226,142 likes - 100 songs - 8 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 226,323 likes - 100 songs - 8 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,16 +15,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9uNKnwcoVm9.md) - [plain]
 | 5 | [Levanto Mis Manos](https://open.spotify.com/track/79y4fe9RE0KtxXGj4WmRT5) | [Samuel Hernández](https://open.spotify.com/artist/17XxPdvl2MD39MnT9zhNjU) | [Jesús Siempre Llega a Tiempo](https://open.spotify.com/album/5hM2RpmACzxvfD26An3E40) | 5:19 |
 | 6 | [Esta Cayendo](https://open.spotify.com/track/6XXn8f7bPRT2hP4j5nYbcJ) | [Jose Luis Reyes](https://open.spotify.com/artist/77Zo41CMTIsSUP47AkNhie) | [El Dios De Lo Imposible](https://open.spotify.com/album/73YrJY6JBx5bBJjDmcJ7WU) | 4:42 |
 | 7 | [Creere](https://open.spotify.com/track/2ORT42xQNKCKIEzIIqxbEv) | [Tercer Cielo](https://open.spotify.com/artist/2bimgkRmsxRhhuWsOnd5rz) | [Gente Comun Sueños Extraordinarios](https://open.spotify.com/album/5Yj2mPciYoTKNEP3WadauI) | 5:02 |
-| 8 | [No Hay Lugar Más Alto \(En Vivo\) \[feat\. Christine D'clario\]](https://open.spotify.com/track/0yzKJqFTXsbzWjUHaiOxD9) | [Miel San Marcos](https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE), [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9) | [Como En El Cielo \(En Vivo\)](https://open.spotify.com/album/1UtIEB5mwdQ9IG6Q7Ds2n5) | 8:08 |
+| 8 | [El Padre Que Siempre Soñé](https://open.spotify.com/track/1mjyjgatJGw8DtNTejtztn) | [Abel Zavala](https://open.spotify.com/artist/0UH4eoqwQgADwRoaKtEKc1) | [Listo Para Nuestro Encuentro](https://open.spotify.com/album/2gnGnvNJzXxlwy837iHs7O) | 3:24 |
 | 9 | [Me Dice Que Me Ama](https://open.spotify.com/track/5Q175erZOZJZHKaZzJFYDN) | [Jesús Adrián Romero](https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX) | [El Aire De Tu Casa](https://open.spotify.com/album/0Jttxgk5XzLJgGtJQQWmHd) | 4:01 |
 | 10 | [Al Final](https://open.spotify.com/track/5qM3CXQgoHVdzTMCIPb1xK) | [Lilly Goodman](https://open.spotify.com/artist/6vetaGijEBK3wfhtCUWRBS) | [Sin Miedo a Nada](https://open.spotify.com/album/6bE37X0KW4GckXJaD2GQb8) | 4:03 |
-| 11 | [El Padre Que Siempre Soñé](https://open.spotify.com/track/1mjyjgatJGw8DtNTejtztn) | [Abel Zavala](https://open.spotify.com/artist/0UH4eoqwQgADwRoaKtEKc1) | [Listo Para Nuestro Encuentro](https://open.spotify.com/album/2gnGnvNJzXxlwy837iHs7O) | 3:24 |
+| 11 | [No Hay Lugar Más Alto \(En Vivo\) \[feat\. Christine D'clario\]](https://open.spotify.com/track/0yzKJqFTXsbzWjUHaiOxD9) | [Miel San Marcos](https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE), [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9) | [Como En El Cielo \(En Vivo\)](https://open.spotify.com/album/1UtIEB5mwdQ9IG6Q7Ds2n5) | 8:08 |
 | 12 | [El Nombre De Jesús](https://open.spotify.com/track/1T2Q9IzgGK3eyPUWFD4C1U) | [Redimi2](https://open.spotify.com/artist/0WZOmdnCln6FK6GM9e2tGm), [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9) | [Operación Mundial](https://open.spotify.com/album/0dWYBm4QsccUGjlhEtfbkK) | 4:30 |
 | 13 | [Como Dijiste](https://open.spotify.com/track/5Q5ArHcJlRcWLZMRBRN4sX) | [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9) | [De Vuelta Al Jardin](https://open.spotify.com/album/4TKIXPyW2jTchcOFw1xAf6) | 4:59 |
 | 14 | [Preciosa Sangre](https://open.spotify.com/track/0LXxKUA4sIwRDSPjyjtijp) | [Marco Barrientos](https://open.spotify.com/artist/4VYSLPSI9yb8qkUpKyVQSJ), [Julio Melgar](https://open.spotify.com/artist/5O46r5EwzdUL8RR1aM6yU2) | [El Encuentro](https://open.spotify.com/album/0hM8D8RMnadmtLyODuKBZx) | 4:59 |
 | 15 | [Mi Universo](https://open.spotify.com/track/6lMk5sY36yHg5vY2Q29lJd) | [Jesús Adrián Romero](https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX) | [El Aire De Tu Casa](https://open.spotify.com/album/0Jttxgk5XzLJgGtJQQWmHd) | 4:13 |
-| 16 | [El Señor Es Mi Rey \(feat\. Tony Perez\)](https://open.spotify.com/track/7APlp9ZOXPuv9CzONC68T8) | [Miel San Marcos](https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE), [Tony Pérez](https://open.spotify.com/artist/1guiKPfkZCVKA8GoFQS4oJ) | [Proezas](https://open.spotify.com/album/3tGDxfvq1cBSlBFr302jMU) | 1:39 |
-| 17 | [Mi Ultimo Dia](https://open.spotify.com/track/7fFufce5eI7CGGX5aeN07r) | [Tercer Cielo](https://open.spotify.com/artist/2bimgkRmsxRhhuWsOnd5rz) | [Gente Comun Sueños Extraordinarios](https://open.spotify.com/album/5Yj2mPciYoTKNEP3WadauI) | 3:35 |
+| 16 | [Mi Ultimo Dia](https://open.spotify.com/track/7fFufce5eI7CGGX5aeN07r) | [Tercer Cielo](https://open.spotify.com/artist/2bimgkRmsxRhhuWsOnd5rz) | [Gente Comun Sueños Extraordinarios](https://open.spotify.com/album/5Yj2mPciYoTKNEP3WadauI) | 3:35 |
+| 17 | [El Señor Es Mi Rey \(feat\. Tony Perez\)](https://open.spotify.com/track/7APlp9ZOXPuv9CzONC68T8) | [Miel San Marcos](https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE), [Tony Pérez](https://open.spotify.com/artist/1guiKPfkZCVKA8GoFQS4oJ) | [Proezas](https://open.spotify.com/album/3tGDxfvq1cBSlBFr302jMU) | 1:39 |
 | 18 | [El Proceso](https://open.spotify.com/track/5MjSIkSafNOHiDqE8nL9m4) | [Nancy Amancio](https://open.spotify.com/artist/4225vUKDHwHhcYY9IRWwX0) | [Me Paro En La Brecha](https://open.spotify.com/album/7cj5YMKHlgG8M1tHfFw3Ol) | 4:30 |
 | 19 | [Si Puedes Creer](https://open.spotify.com/track/03zBrLi4BWMlf09IoK9TIJ) | [Lilly Goodman](https://open.spotify.com/artist/6vetaGijEBK3wfhtCUWRBS) | [Vuelve a Casa](https://open.spotify.com/album/6GUNfGkyL4Xi4KiWNCYkNQ) | 4:14 |
 | 20 | [Precioso Jesús](https://open.spotify.com/track/7mEYivIHySFGJS8HySzcf2) | [Esperanza de Vida](https://open.spotify.com/artist/2JjoUSP8dUA7UhlWW59fK1) | [Me Has Hecho Libre](https://open.spotify.com/album/0dNBk8BUcnZoA0YouvHGRP) | 6:20 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9uNKnwcoVm9.md) - [plain]
 | 99 | [Tu Voluntad](https://open.spotify.com/track/1bkekelOajuDH9SxvazW6G) | [Son By Four](https://open.spotify.com/artist/1qyAl8T6GTcaOViaI7fs1j) | [Tu Voluntad](https://open.spotify.com/album/5K6pp3sMIXMxkzYcQDJ6yU) | 6:27 |
 | 100 | [Donde Tu Estás](https://open.spotify.com/track/16jKWnXGPFPZzMkcwjXFl2) | [Banda Horizonte](https://open.spotify.com/artist/0pz6e3IHzy4l6EqToyrTfJ) | [No Hay Otro Dios](https://open.spotify.com/album/1WidkdQtLb7DpF8e8HXeXm) | 6:33 |
 
-Snapshot ID: `MCw3ODUzMTUxNzIzMjc0OTQ3MzAyYmI1MGJhNmQ0ODNhOWExMjJkNDJh`
+Snapshot ID: `MCxmZGE0NGIyM2E4Y2ZiMGQzZDA4ZDhmZmYzMzU2YWUzMTA4NjU4Y2Ew`

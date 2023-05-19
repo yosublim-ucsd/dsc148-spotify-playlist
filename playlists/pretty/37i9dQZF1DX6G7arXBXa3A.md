@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6G7arXBXa3A.md) - [plain]
 
 > Big bands, big sounds.
 
-[Spotify](https://open.spotify.com/user/spotify) - 382,848 likes - 50 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 382,931 likes - 50 songs - 3 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6G7arXBXa3A.md) - [plain]
 | 27 | [Honeysuckle Rose](https://open.spotify.com/track/10Hiskp06jZeXKjiYbkuj7) | [Django Reinhardt](https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx), [Benny Carter](https://open.spotify.com/artist/5dlCVmfRbWVGOJYHzGyk32), [Hawkins C\. All Star Jam Band](https://open.spotify.com/artist/2a3WvnK2EAxYYXyJZ8OxVz) | [Djangologie Vol.4 / 1937](https://open.spotify.com/album/46Ffy1LBhLRzUAz53jMIVI) | 2:46 |
 | 28 | [Lullaby of Broadway \(with Harry James & His Orchestra\)](https://open.spotify.com/track/0qPeyVfebszZcHTUc48Lzl) | [Doris Day](https://open.spotify.com/artist/3ESG6pj6a0LvUKklENalT6), [Harry James](https://open.spotify.com/artist/5MpELOfAiq7aIBTij30phD) | [Golden Girl \(The Columbia Recordings 1944\-1966\)](https://open.spotify.com/album/5Vck2QyeSlhWymxrnQWpoM) | 2:51 |
 | 29 | [Let The Good Times Roll](https://open.spotify.com/track/2dFJA0ZQ2OjA8TWjEV6P5n) | [Quincy Jones](https://open.spotify.com/artist/3rxIQc9kWT6Ueg4BhnOwRK), [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi), [Ray Charles](https://open.spotify.com/artist/1eYhYunlNJlDoQhtYBvPsi) | [Q's Jook Joint](https://open.spotify.com/album/5zq1m9RP5iwHBRQlgbROx1) | 2:55 |
-| 30 | [Take The "A" Train](https://open.spotify.com/track/5OjlWOb1Iilm0QFLh17j3U) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz), [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A) | [Ella Fitzgerald Sings The Duke Ellington Song Book](https://open.spotify.com/album/2VgS17fUEsUer5nCbM2juj) | 6:44 |
-| 31 | [Woodchopper’s Ball](https://open.spotify.com/track/28Ku0JK5FGK2tNdfI0rzXz) | [Woody Herman & His Orchestra](https://open.spotify.com/artist/7CUcJMFBfSARR8js036QOn) | [Welcome to My Dream](https://open.spotify.com/album/0DdGWUa83ELS8iOT66bo1o) | 3:15 |
+| 30 | [Woodchopper’s Ball](https://open.spotify.com/track/28Ku0JK5FGK2tNdfI0rzXz) | [Woody Herman & His Orchestra](https://open.spotify.com/artist/7CUcJMFBfSARR8js036QOn) | [Welcome to My Dream](https://open.spotify.com/album/0DdGWUa83ELS8iOT66bo1o) | 3:15 |
+| 31 | [Take The "A" Train](https://open.spotify.com/track/5OjlWOb1Iilm0QFLh17j3U) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz), [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A) | [Ella Fitzgerald Sings The Duke Ellington Song Book](https://open.spotify.com/album/2VgS17fUEsUer5nCbM2juj) | 6:44 |
 | 32 | [Are You Having Any Fun](https://open.spotify.com/track/7J15xzJsmb6ikExnnMO7MP) | [Tony Bennett](https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV), [Count Basie](https://open.spotify.com/artist/2jFZlvIea42ZvcCw4OeEdA) | [Tony Bennett With Count Baise](https://open.spotify.com/album/4WHnCeRDUhw3uecb62g7C6) | 2:43 |
 | 33 | [Whirly\-Bird](https://open.spotify.com/track/5YtcHwvM9O2BayUOsghqhO) | [Count Basie Orchestra](https://open.spotify.com/artist/2Hn9fch2OLB5jZuEAVjTCe) | [The Atomic Mr Basie](https://open.spotify.com/album/03M3VID0s2wANlxJIJBWKb) | 3:52 |
 | 34 | [I Can't Believe That You're In Love With Me](https://open.spotify.com/track/57sdRcA5sfIFOKFjReXp2P) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [The Great American Songbook](https://open.spotify.com/album/3AiEMTv9oFDRaDjqv93mOU) | 3:03 |
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6G7arXBXa3A.md) - [plain]
 | 47 | [Greenhouse](https://open.spotify.com/track/0C5Pl5iQGnqrnguPjrriUP) | [Rob McConnell & The Boss Brass With Phil Woods](https://open.spotify.com/artist/2Xc5v4VchWoxiC0VJn21br) | [Boss Brass And Woods](https://open.spotify.com/album/4YDkAgQADwIzdytQBDXBtb) | 7:41 |
 | 48 | [I Didn´t Tell Them Why](https://open.spotify.com/track/16yjO1COFYdqvjg0r6sweq) | [Andrea Motis](https://open.spotify.com/artist/6CEcslhZk3A6cnin9neg5j), [WDR Big Band](https://open.spotify.com/artist/5oldzkZrHypxJpr1ri05Fu) | [I Didn´t Tell Them Why](https://open.spotify.com/album/5MMnRfc7EhstEv91b1itP7) | 4:57 |
 | 49 | [I Can't Turn You Loose](https://open.spotify.com/track/7oo9DCy6AxzkWkzxF3GTzb) | [Steve Gadd](https://open.spotify.com/artist/42zoEf7IcpDSvdQjcrSpHl), [Eddie Gómez](https://open.spotify.com/artist/6HBVTGmPHytchERPb8YGPr), [Ronnie Cuber](https://open.spotify.com/artist/0ugeHL6lEUsqwhHjTebNpV), [WDR Big Band](https://open.spotify.com/artist/5oldzkZrHypxJpr1ri05Fu) | [I Can't Turn You Loose](https://open.spotify.com/album/7waUTsuvF6q7MRV4T4N40Z) | 5:14 |
-| 50 | [Moonlight on the Ganges](https://open.spotify.com/track/2sbS1rpnQUjxwuVBCFpktO) | [Bob Florence Big Band](https://open.spotify.com/artist/4HYVMozG4UyDaPkEtM0zHI) | [Exotic Sounds from a Space Age Bachelor Pad](https://open.spotify.com/album/3QykPSqLRpwOGiHIQxA6d0) | 1:41 |
+| 50 | [Your Mind Is on Vacation](https://open.spotify.com/track/7F0owhC3XEnUACoLcnyCHJ) | [Lou Pomanti](https://open.spotify.com/artist/4dSjbjQP6Si6yNXMCG19UW), [David Clayton\-Thomas](https://open.spotify.com/artist/0iC9XXKywTVieFeRoYSZoa), [John Finley](https://open.spotify.com/artist/5jUfKEW1EYW7tpOerSOWWr) | [Your Mind Is on Vacation](https://open.spotify.com/album/7lDZoPjoOVUJaO08NtTGzK) | 3:06 |
 
-Snapshot ID: `MCwwNWM1MWQ1MWU3ZGIzZGVjNmZkNmQ4Y2ZjY2UxYmM1NzZkNTY1Mjdm`
+Snapshot ID: `MCw3NWEwYjI0ZDM2ZmE2ZWI4ZjFhMGExYTdiYzQ3MmJmMzE5YzEzNjcx`

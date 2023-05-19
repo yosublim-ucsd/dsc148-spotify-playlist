@@ -323,6 +323,24 @@
     },
     {
       "album": {
+        "name": "Dreamboat Annie",
+        "url": "https://open.spotify.com/album/2N0AgtWbCmVoNUl2GN1opH"
+      },
+      "artists": [
+        {
+          "name": "Heart",
+          "url": "https://open.spotify.com/artist/34jw2BbxjoYalTp8cJFCPv"
+        }
+      ],
+      "date_added": "2023-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293440,
+      "name": "Crazy On You",
+      "url": "https://open.spotify.com/track/5zH710lFSLtkHbMkslLDjR"
+    },
+    {
+      "album": {
         "name": "Rammstein",
         "url": "https://open.spotify.com/album/1LoyJQVHPLHE3fCCS8Juek"
       },
@@ -1654,7 +1672,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 295520,
-      "name": "With Or Without You - Remastered",
+      "name": "With Or Without You - Remastered 2007",
       "url": "https://open.spotify.com/track/5JGEAz15LkPoOtFHttDtVs"
     },
     {

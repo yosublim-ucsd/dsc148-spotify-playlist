@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-12-29",
-  "description": "New music off the beaten track. Cover: Christian L\u00f6ffler, Mogli",
+  "description": "New music off the beaten track. Cover: Tensnake, Jessy Lanza",
   "name": "OFF POP",
   "tracks": [
     {
@@ -317,6 +317,32 @@
     },
     {
       "album": {
+        "name": "Alone with You (Lazywax Remix)",
+        "url": "https://open.spotify.com/album/0P9SMOg4aDG5X8Xc63lbTj"
+      },
+      "artists": [
+        {
+          "name": "Kraak & Smaak",
+          "url": "https://open.spotify.com/artist/7c5qu1gNlg8jWDzzmlp89O"
+        },
+        {
+          "name": "Cleopold",
+          "url": "https://open.spotify.com/artist/2BeARYDF52QQk5S2zgiVHe"
+        },
+        {
+          "name": "Lazywax",
+          "url": "https://open.spotify.com/artist/0JmfcW7ntKscmNRiLbKEcw"
+        }
+      ],
+      "date_added": "2023-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 294849,
+      "name": "Alone with You - Lazywax Remix",
+      "url": "https://open.spotify.com/track/4jO4c0dhLI3OwCLeYvZSkn"
+    },
+    {
+      "album": {
         "name": "Fantasy - Chapter 1",
         "url": "https://open.spotify.com/album/5iTMzvGDxXbZO5hlaqkpqz"
       },
@@ -376,7 +402,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 288124,
       "name": "An der Stra\u00dfe gegen\u00fcber (feat. Wiener Planquadrat)",
       "url": "https://open.spotify.com/track/40moSJw3bHTXTj1h8cHiOh"
@@ -602,7 +628,7 @@
       ],
       "date_added": "2023-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 178831,
       "name": "Blind",
       "url": "https://open.spotify.com/track/3KKalMU2yzeLs6b1lq3wcZ"
@@ -732,7 +758,7 @@
       ],
       "date_added": "2023-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 191675,
       "name": "Burnt",
       "url": "https://open.spotify.com/track/6eLzChQUSXqnd487IjL4Ij"
@@ -958,6 +984,24 @@
       "duration_ms": 283915,
       "name": "Closer to My Heart",
       "url": "https://open.spotify.com/track/0nGyc26fHbXzMCDwykT5PG"
+    },
+    {
+      "album": {
+        "name": "Good Lies",
+        "url": "https://open.spotify.com/album/7m2yEFYxnjmEyq7IXa9sXp"
+      },
+      "artists": [
+        {
+          "name": "Overmono",
+          "url": "https://open.spotify.com/artist/01PnN11ovfen6xUOHfNpn3"
+        }
+      ],
+      "date_added": "2023-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217369,
+      "name": "Cold Blooded",
+      "url": "https://open.spotify.com/track/6ULPq2iNWiykHX1acI2SGn"
     },
     {
       "album": {
@@ -1268,6 +1312,24 @@
       "duration_ms": 217360,
       "name": "Disco Dancer - Mixed",
       "url": "https://open.spotify.com/track/0ZImVCMkq4FlFRNVMHiC9B"
+    },
+    {
+      "album": {
+        "name": "Do Nothing",
+        "url": "https://open.spotify.com/album/4fc8M2b3XSKwo5YxekkZLT"
+      },
+      "artists": [
+        {
+          "name": "Fractures",
+          "url": "https://open.spotify.com/artist/7sjRnhONmeFL1tmlUvdq70"
+        }
+      ],
+      "date_added": "2023-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259120,
+      "name": "Do Nothing",
+      "url": "https://open.spotify.com/track/6CgsQGQXleG4nxzr4rRp1A"
     },
     {
       "album": {
@@ -1603,6 +1665,28 @@
     },
     {
       "album": {
+        "name": "Temple Of Dreams",
+        "url": "https://open.spotify.com/album/5s105s5HclJA4c6NlKm5hX"
+      },
+      "artists": [
+        {
+          "name": "Bedouin",
+          "url": "https://open.spotify.com/artist/5bKdC6382t97Qnpvs81Rqx"
+        },
+        {
+          "name": "Nathan Daisy",
+          "url": "https://open.spotify.com/artist/2CtFUBZT6hZPF8fF4XDRGf"
+        }
+      ],
+      "date_added": "2023-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203428,
+      "name": "Enjoy The Rain (feat. Nathan Daisy)",
+      "url": "https://open.spotify.com/track/7F6vxNOUuo6unbeEmB0BpJ"
+    },
+    {
+      "album": {
         "name": "Enjoy Your Life",
         "url": "https://open.spotify.com/album/7Kb95mdNRyzLjpXA7piX3N"
       },
@@ -1756,6 +1840,24 @@
       "duration_ms": 267842,
       "name": "Fading",
       "url": "https://open.spotify.com/track/6a6ukMkLFXcWvqP0fdlDfZ"
+    },
+    {
+      "album": {
+        "name": "Feel The Same",
+        "url": "https://open.spotify.com/album/7BkQXxFdJJwaPB37QvrxQs"
+      },
+      "artists": [
+        {
+          "name": "DRAMA",
+          "url": "https://open.spotify.com/artist/7LvvNoUPwTZpgXDWBRrfHg"
+        }
+      ],
+      "date_added": "2023-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223133,
+      "name": "Feel The Same",
+      "url": "https://open.spotify.com/track/2VpoQq4skMUOJNumZWIR2F"
     },
     {
       "album": {
@@ -2524,7 +2626,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 190000,
       "name": "Hot Sauce",
       "url": "https://open.spotify.com/track/7hyb9nt5CLD1PzTEm8riBo"
@@ -2612,6 +2714,24 @@
       "duration_ms": 153289,
       "name": "I Know, I Know",
       "url": "https://open.spotify.com/track/6NWBt3dF86G49ZL9Cg3DUm"
+    },
+    {
+      "album": {
+        "name": "I Promise",
+        "url": "https://open.spotify.com/album/7FQdnurXHFf1XJHtFwBpXm"
+      },
+      "artists": [
+        {
+          "name": "The Knocks",
+          "url": "https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC"
+        }
+      ],
+      "date_added": "2023-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174921,
+      "name": "I Promise",
+      "url": "https://open.spotify.com/track/1f1cI1rxKrMCLr5pD8rjX3"
     },
     {
       "album": {
@@ -2959,6 +3079,28 @@
     },
     {
       "album": {
+        "name": "Keep It Secret",
+        "url": "https://open.spotify.com/album/0SF5P1JiRL5U6s14B73BDM"
+      },
+      "artists": [
+        {
+          "name": "Tensnake",
+          "url": "https://open.spotify.com/artist/75nC6MXUalYZSOd7OfNkwq"
+        },
+        {
+          "name": "Jessy Lanza",
+          "url": "https://open.spotify.com/artist/4b99uGDv75xD1n2QHuPRDN"
+        }
+      ],
+      "date_added": "2023-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168750,
+      "name": "Keep It Secret",
+      "url": "https://open.spotify.com/track/23regeg5c1f5dOzRuhJHwN"
+    },
+    {
+      "album": {
         "name": "KILL DEM",
         "url": "https://open.spotify.com/album/71iqkeqFNSiCgum1gPfeZo"
       },
@@ -3204,7 +3346,7 @@
       ],
       "date_added": "2022-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 240041,
       "name": "Like The Old Days",
       "url": "https://open.spotify.com/track/6mfM11rZkoXsU5xAArF4Ix"
@@ -3226,7 +3368,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 200603,
       "name": "Like You in Linen",
       "url": "https://open.spotify.com/track/43C6k35MErofjbUCQAFD37"
@@ -3561,6 +3703,24 @@
     },
     {
       "album": {
+        "name": "Meant To Be",
+        "url": "https://open.spotify.com/album/1Wn3OmksyMkgzvzE7dEIhc"
+      },
+      "artists": [
+        {
+          "name": "Jayda G",
+          "url": "https://open.spotify.com/artist/3NKVm2Jedcf6ibJr6pMUVx"
+        }
+      ],
+      "date_added": "2023-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224287,
+      "name": "Meant To Be",
+      "url": "https://open.spotify.com/track/4YRw7jcTBGAUHWktyn0msf"
+    },
+    {
+      "album": {
         "name": "Mike (desert island duvet)",
         "url": "https://open.spotify.com/album/3lYzZoDorEtJsL3uRZ5dPa"
       },
@@ -3802,7 +3962,7 @@
       ],
       "date_added": "2023-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 231733,
       "name": "Move Me",
       "url": "https://open.spotify.com/track/43tuFT8GAG5mPSktLVcqOY"
@@ -5282,7 +5442,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 209060,
       "name": "Sunshine",
       "url": "https://open.spotify.com/track/1hCnHgozKGG5vTlaDG0GU1"

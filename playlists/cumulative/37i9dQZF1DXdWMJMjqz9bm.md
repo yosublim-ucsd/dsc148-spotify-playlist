@@ -4,7 +4,7 @@
 
 > A little bit of pop, a little bit of rap\. Cover: Felly
 
-516 songs - 23 hr 49 min
+517 songs - 23 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -181,7 +181,8 @@
 | [Full Monarch](https://open.spotify.com/track/6eD15T3BUxlhPXF8jFofPB) | [Travie McCoy](https://open.spotify.com/artist/7o9Nl7K1Al6NNAHX6jn6iG) | [Never Slept Better](https://open.spotify.com/album/1ff1wHohcN2BRac6Ke4K6C) | 3:37 | 2022-07-15 | 2022-09-10 |
 | [funny lil thing](https://open.spotify.com/track/5vcLMRWLRXZS7r5UNaNZ0r) | [The Golf Club](https://open.spotify.com/artist/7glngbl6iMW8Iszr0pHpKT) | [funny lil thing](https://open.spotify.com/album/12JZ24MNf9lUCDgOBJze2D) | 2:17 | 2022-02-04 | 2022-07-02 |
 | [Future Love](https://open.spotify.com/track/7aFKeqQh8YnsAUyRxw0IvL) | [Marc E\. Bassy](https://open.spotify.com/artist/3tQx1LPXbsYjE9VwN1Peaa), [Syd](https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx) | [Little Men](https://open.spotify.com/album/0ervPmQvzezaMUGR8W36SV) | 3:41 | 2021-11-16 | 2022-02-26 |
-| [fvcked up](https://open.spotify.com/track/2UDId466CGX4BuZGwW0uiJ) | [Arden Jones](https://open.spotify.com/artist/3mMogqf2JyBUQZxFZlC79w) | [fvcked up](https://open.spotify.com/album/5UWUE2F3kGOZmsMB3w6fjU) | 1:52 | 2023-04-07 |  |
+| [fvcked up](https://open.spotify.com/track/08oZlYytwsxbfeCuRm17oF) | [Arden Jones](https://open.spotify.com/artist/3mMogqf2JyBUQZxFZlC79w) | [fvcked up](https://open.spotify.com/album/6Gt5V1Es9aUa6VUfObR1K0) | 1:52 | 2023-05-05 |  |
+| [fvcked up](https://open.spotify.com/track/2UDId466CGX4BuZGwW0uiJ) | [Arden Jones](https://open.spotify.com/artist/3mMogqf2JyBUQZxFZlC79w) | [fvcked up](https://open.spotify.com/album/5UWUE2F3kGOZmsMB3w6fjU) | 1:52 | 2023-04-07 | 2023-05-19 |
 | [G.O.A.T.](https://open.spotify.com/track/0hUepWE4GoMwtKgU8vE617) | [Eric Bellinger](https://open.spotify.com/artist/7ibAWtDtmEfaVhc1FJ3Vl9), [Aroc!](https://open.spotify.com/artist/0uT3QSrGqBESB5s0XMa3WK) | [Eric B for President: Term 1](https://open.spotify.com/album/7KNNWIPBk4Josbqhfa2KI3) | 3:04 | 2022-04-04 | 2022-10-08 |
 | [Gamestop](https://open.spotify.com/track/4zWs8KfZLaKo41mee2kBiN) | [Lil God Dan](https://open.spotify.com/artist/20kAERGCnqfyGydzop8bfg) | [Gamestop](https://open.spotify.com/album/6lvwcp6gScy4llch1bRmgd) | 2:05 | 2022-03-22 | 2022-04-05 |
 | [Garden](https://open.spotify.com/track/5geQsvsLNaEF7e8AJORdMd) | [Hablot Brown](https://open.spotify.com/artist/6LtgEnShwvrqAaKohg7skM) | [Hablot Brown](https://open.spotify.com/album/0m0bo1CSzebkmFL486kMZY) | 2:46 | 2022-08-05 | 2022-09-17 |

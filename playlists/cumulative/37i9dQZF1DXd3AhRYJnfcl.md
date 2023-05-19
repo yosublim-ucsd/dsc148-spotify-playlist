@@ -4,7 +4,7 @@
 
 > أفضل الأغاني المصرية من قلب مصر إلى العالم🔥🔝\. الغلاف: رامي صبري
 
-179 songs - 10 hr 29 min
+180 songs - 10 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -174,6 +174,7 @@
 | [عرفة](https://open.spotify.com/track/7cCBsINflnE3PKyvcN3bzX) | [Lege\-Cy](https://open.spotify.com/artist/6FJeuwLBCX8VSTf6hp1Vc9) | [عرفة](https://open.spotify.com/album/2k2HdZmpP4Y6lHFqVRa9w0) | 2:41 | 2022-04-13 | 2022-06-17 |
 | [عره فافي عامل مغامر \- بت انتي حب حياتي](https://open.spotify.com/track/0PTlHYXWyCeayIw3Tpafdl) | [Essam Sasa](https://open.spotify.com/artist/2KjiHtx0h8tyJXbg8aYRgu) | [عره فافي عامل مغامر \(بت انتي حب حياتي\)](https://open.spotify.com/album/2eMdQBMDL8ShHvxyDCQkCk) | 3:36 | 2022-09-26 |  |
 | [على وضعنا](https://open.spotify.com/track/4qUXgGI7oKwfCWY8J8jhLU) | [Mohamed Ramadan](https://open.spotify.com/artist/4CflzQprp6nZxKiv0t78tH), [Mohamed Adaweya](https://open.spotify.com/artist/6wNAr6KAMa7NDqm9vSiv7T), [Ahmed Adaweya](https://open.spotify.com/artist/7EJbIeuxQY12K2EQoRbPC5) | [على وضعنا](https://open.spotify.com/album/5Yqwoth9VJ3epyKF0x2QQP) | 3:24 | 2023-01-01 |  |
+| [قصاد عينى](https://open.spotify.com/track/3bISYorQwMHFlDaAhNyWd8) | [Amr Diab](https://open.spotify.com/artist/5abSRg0xN1NV3gLbuvX24M) | [ليلى نهارى](https://open.spotify.com/album/3LWomHcV23wxuDTR8PnkrJ) | 4:24 | 2023-05-18 |  |
 | [لمستك](https://open.spotify.com/track/4Wq3uwziBYLuc609Xzf8eS) | [Amr Mostafa](https://open.spotify.com/artist/6YZXwVnjrIIz9SlBd8l2Cg) | [أيامي](https://open.spotify.com/album/7oLkw8eFG4CWj0t7EFRAGY) | 3:53 | 2023-02-23 | 2023-03-10 |
 | [لِلّي](https://open.spotify.com/track/0Kb87SCKl8pFyKm0yD9TYf) | [Mohamed Mounir](https://open.spotify.com/artist/6hPNpOLunxxpXVwi696pYl) | [لِلّي](https://open.spotify.com/album/5UHmwqHjPdCFXv1Vucwf9z) | 2:43 | 2022-08-03 |  |
 | [متغاظين](https://open.spotify.com/track/6uiTyyvUkV0NbQA11D7gT3) | [Mohamed Ramadan](https://open.spotify.com/artist/4CflzQprp6nZxKiv0t78tH) | [متغاظين](https://open.spotify.com/album/0IuctadW5Mwa7RhSfioGb9) | 2:16 | 2022-08-25 | 2022-09-24 |
@@ -184,7 +185,7 @@
 | [معايا هتبدع](https://open.spotify.com/track/5j45BEfUuIKCZ2eQvkTlTV) | [Ramy Sabry](https://open.spotify.com/artist/5LtHZB7vU02HtNoOzNcVhc) | [معايا هتبدع](https://open.spotify.com/album/08JBX3tJAbu2ctc7Ui3hXF) | 3:16 | 2023-01-12 | 2023-02-23 |
 | [نحنوح](https://open.spotify.com/track/1lcoflpxNSJR8U0gzVY6xq) | [Donia Samir Ghanem](https://open.spotify.com/artist/1ieloBuwzXdMn9VPOufDvB) | [نحنوح](https://open.spotify.com/album/7KNPArvrYE01FNciIiERE0) | 3:25 | 2022-09-20 | 2022-10-25 |
 | [هدي في قلبك طلقه \( لو عوزت تكلمني \)](https://open.spotify.com/track/3Ab2U2Yvs9kM0IuXxC1HmT) | [Essam Sasa](https://open.spotify.com/artist/2KjiHtx0h8tyJXbg8aYRgu) | [هدي في قلبك طلقه \( لو عوزت تكلمني \)](https://open.spotify.com/album/4UuC0L72EoVpiUo02fjolL) | 4:44 | 2022-10-25 | 2023-01-01 |
-| [ولعانه](https://open.spotify.com/track/2LXdEuFjon9uNIXbtoic6y) | [Ahmed Mekky](https://open.spotify.com/artist/6Q0JYiqcSa28nT0KOQZtX6) | [ولعانه](https://open.spotify.com/album/31DEP0IgUPrWmnfDpjHrvT) | 3:52 | 2023-03-09 |  |
+| [ولعانه](https://open.spotify.com/track/2LXdEuFjon9uNIXbtoic6y) | [Ahmed Mekky](https://open.spotify.com/artist/6Q0JYiqcSa28nT0KOQZtX6) | [ولعانه](https://open.spotify.com/album/31DEP0IgUPrWmnfDpjHrvT) | 3:52 | 2023-03-09 | 2023-05-19 |
 | [يلا ندي للي باعنا بوسة](https://open.spotify.com/track/6kQSn6wpNfhi6okDREctqv) | [Essam Sasa](https://open.spotify.com/artist/2KjiHtx0h8tyJXbg8aYRgu) | [يلا ندي للي باعنا بوسة](https://open.spotify.com/album/4KfbVuvo0ZUztFoyB3LY0s) | 3:02 | 2023-03-09 | 2023-05-06 |
 | [يمكن خير](https://open.spotify.com/track/4Guq7XrO1FjduwFBsVbr0E) | [Ramy Sabry](https://open.spotify.com/artist/5LtHZB7vU02HtNoOzNcVhc) | [معايا هتبدع](https://open.spotify.com/album/08JBX3tJAbu2ctc7Ui3hXF) | 3:36 | 2023-01-24 |  |
 

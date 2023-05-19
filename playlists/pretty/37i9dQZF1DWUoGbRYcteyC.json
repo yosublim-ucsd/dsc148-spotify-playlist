@@ -1,12 +1,12 @@
 {
   "description": "Qu\u00e9 bonito se siente el amor. \ud83d\udc98",
-  "num_followers": 1990218,
+  "num_followers": 1990493,
   "original_name": "Amor Amor",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlMThiMTA0Y2VjYzQ1ZWViNWVhZDQyNjFhY2IwMmFjYzI4NTE1MTEy",
+  "snapshot_id": "MCxmYTQ4ODQzNTJjMTc0Nzg0OTk2YTg2MmI5M2ZjZTI1ZGQ1MmUwODQy",
   "tracks": [
     {
       "added_at": "2023-05-12 04:01:00",
@@ -79,26 +79,6 @@
     {
       "added_at": "2023-05-12 04:01:00",
       "album": {
-        "name": "Mon Amour (Remix)",
-        "url": "https://open.spotify.com/album/4TWsxSw8df17aja6JSaar5"
-      },
-      "artists": [
-        {
-          "name": "zzoilo",
-          "url": "https://open.spotify.com/artist/7c53ZFyajVMTo08HmvoB6b"
-        },
-        {
-          "name": "Aitana",
-          "url": "https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25"
-        }
-      ],
-      "duration_ms": 179940,
-      "name": "Mon Amour - Remix",
-      "url": "https://open.spotify.com/track/5TMLavqGRKNxgzMBrVpC9R"
-    },
-    {
-      "added_at": "2023-05-12 04:01:00",
-      "album": {
         "name": "Por el Resto de Tu Vida",
         "url": "https://open.spotify.com/album/3S6ouKQPLDuO7Nxli1F2Lm"
       },
@@ -115,6 +95,26 @@
       "duration_ms": 197476,
       "name": "Por el Resto de Tu Vida",
       "url": "https://open.spotify.com/track/40vzZFWG1h60TdZPuxuX3Y"
+    },
+    {
+      "added_at": "2023-05-12 04:01:00",
+      "album": {
+        "name": "Mon Amour (Remix)",
+        "url": "https://open.spotify.com/album/4TWsxSw8df17aja6JSaar5"
+      },
+      "artists": [
+        {
+          "name": "zzoilo",
+          "url": "https://open.spotify.com/artist/7c53ZFyajVMTo08HmvoB6b"
+        },
+        {
+          "name": "Aitana",
+          "url": "https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25"
+        }
+      ],
+      "duration_ms": 179940,
+      "name": "Mon Amour - Remix",
+      "url": "https://open.spotify.com/track/5TMLavqGRKNxgzMBrVpC9R"
     },
     {
       "added_at": "2023-05-12 04:01:00",
@@ -935,22 +935,6 @@
     {
       "added_at": "2023-05-12 04:01:00",
       "album": {
-        "name": "Franco De Vita En Primera Fila",
-        "url": "https://open.spotify.com/album/6IIvdAgLtisXjNnxZpBxOX"
-      },
-      "artists": [
-        {
-          "name": "Franco De Vita",
-          "url": "https://open.spotify.com/artist/4NEYQeEYBUjfaXgDQGvFvu"
-        }
-      ],
-      "duration_ms": 218760,
-      "name": "Te Amo",
-      "url": "https://open.spotify.com/track/4WtO0pdIHTuVwQAVFmfIHQ"
-    },
-    {
-      "added_at": "2023-05-12 04:01:00",
-      "album": {
         "name": "@dannocean",
         "url": "https://open.spotify.com/album/27588WrJksr8zu7ujmRsOA"
       },
@@ -967,6 +951,22 @@
       "duration_ms": 212914,
       "name": "SI ES AMOR",
       "url": "https://open.spotify.com/track/7JahThtCGJ9cdn6HWTWf9S"
+    },
+    {
+      "added_at": "2023-05-12 04:01:00",
+      "album": {
+        "name": "Franco De Vita En Primera Fila",
+        "url": "https://open.spotify.com/album/6IIvdAgLtisXjNnxZpBxOX"
+      },
+      "artists": [
+        {
+          "name": "Franco De Vita",
+          "url": "https://open.spotify.com/artist/4NEYQeEYBUjfaXgDQGvFvu"
+        }
+      ],
+      "duration_ms": 218760,
+      "name": "Te Amo",
+      "url": "https://open.spotify.com/track/4WtO0pdIHTuVwQAVFmfIHQ"
     },
     {
       "added_at": "2023-05-12 04:01:00",
@@ -1095,18 +1095,22 @@
     {
       "added_at": "2023-05-12 04:01:00",
       "album": {
-        "name": "Cupido",
-        "url": "https://open.spotify.com/album/3HWlgRjxW0H7fWm1n2LBbE"
+        "name": "Contigo",
+        "url": "https://open.spotify.com/album/6fv6tD2JlEMZaFf6tF0GcH"
       },
       "artists": [
         {
-          "name": "TINI",
-          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
+          "name": "Sebastian Yatra",
+          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
+        },
+        {
+          "name": "Pablo Albor\u00e1n",
+          "url": "https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50"
         }
       ],
-      "duration_ms": 144545,
-      "name": "Beso En Las Rocas",
-      "url": "https://open.spotify.com/track/63hQU0ll74dtGBDMcyvdEC"
+      "duration_ms": 208600,
+      "name": "Contigo",
+      "url": "https://open.spotify.com/track/55CJCECkPMd9ZhGr4JOKn7"
     },
     {
       "added_at": "2023-05-12 04:01:00",
@@ -1131,22 +1135,18 @@
     {
       "added_at": "2023-05-12 04:01:00",
       "album": {
-        "name": "Contigo",
-        "url": "https://open.spotify.com/album/6fv6tD2JlEMZaFf6tF0GcH"
+        "name": "Cupido",
+        "url": "https://open.spotify.com/album/3HWlgRjxW0H7fWm1n2LBbE"
       },
       "artists": [
         {
-          "name": "Sebastian Yatra",
-          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
-        },
-        {
-          "name": "Pablo Albor\u00e1n",
-          "url": "https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50"
+          "name": "TINI",
+          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
         }
       ],
-      "duration_ms": 208600,
-      "name": "Contigo",
-      "url": "https://open.spotify.com/track/55CJCECkPMd9ZhGr4JOKn7"
+      "duration_ms": 144545,
+      "name": "Beso En Las Rocas",
+      "url": "https://open.spotify.com/track/63hQU0ll74dtGBDMcyvdEC"
     },
     {
       "added_at": "2023-05-12 04:01:00",
@@ -1279,22 +1279,6 @@
     {
       "added_at": "2023-05-12 04:01:00",
       "album": {
-        "name": "Bayam\u00f3n",
-        "url": "https://open.spotify.com/album/5ELcmaAt2qWGrwWs583awG"
-      },
-      "artists": [
-        {
-          "name": "ELENA ROSE",
-          "url": "https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY"
-        }
-      ],
-      "duration_ms": 180949,
-      "name": "Bayam\u00f3n",
-      "url": "https://open.spotify.com/track/2WVAI8qLBdZlJUhdpNcXCQ"
-    },
-    {
-      "added_at": "2023-05-12 04:01:00",
-      "album": {
         "name": "Y Si Me Enamoro",
         "url": "https://open.spotify.com/album/4g9alQMKvuCo6zzynC8JjV"
       },
@@ -1315,22 +1299,18 @@
     {
       "added_at": "2023-05-12 04:01:00",
       "album": {
-        "name": "M\u00e1s M\u00fasica + Alma + Sexo",
-        "url": "https://open.spotify.com/album/0a9o88R6EXFDtbcbdYqKD2"
+        "name": "Bayam\u00f3n",
+        "url": "https://open.spotify.com/album/5ELcmaAt2qWGrwWs583awG"
       },
       "artists": [
         {
-          "name": "Ricky Martin",
-          "url": "https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ"
-        },
-        {
-          "name": "Natalia Jim\u00e9nez",
-          "url": "https://open.spotify.com/artist/0j8QSBQZ9MNSGjHr1Vll1R"
+          "name": "ELENA ROSE",
+          "url": "https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY"
         }
       ],
-      "duration_ms": 216613,
-      "name": "Lo Mejor de Mi Vida Eres T\u00fa (feat. Natalia Jim\u00e9nez)",
-      "url": "https://open.spotify.com/track/2uhaDVmfG7pT94VO5jl2r4"
+      "duration_ms": 180949,
+      "name": "Bayam\u00f3n",
+      "url": "https://open.spotify.com/track/2WVAI8qLBdZlJUhdpNcXCQ"
     },
     {
       "added_at": "2023-05-12 04:01:00",
@@ -1347,6 +1327,26 @@
       "duration_ms": 221293,
       "name": "S\u00f3lo D\u00e9jate Amar",
       "url": "https://open.spotify.com/track/7mUFcQWYwoRxRa5ZfI2mHG"
+    },
+    {
+      "added_at": "2023-05-12 04:01:00",
+      "album": {
+        "name": "M\u00e1s M\u00fasica + Alma + Sexo",
+        "url": "https://open.spotify.com/album/0a9o88R6EXFDtbcbdYqKD2"
+      },
+      "artists": [
+        {
+          "name": "Ricky Martin",
+          "url": "https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ"
+        },
+        {
+          "name": "Natalia Jim\u00e9nez",
+          "url": "https://open.spotify.com/artist/0j8QSBQZ9MNSGjHr1Vll1R"
+        }
+      ],
+      "duration_ms": 216613,
+      "name": "Lo Mejor de Mi Vida Eres T\u00fa (feat. Natalia Jim\u00e9nez)",
+      "url": "https://open.spotify.com/track/2uhaDVmfG7pT94VO5jl2r4"
     },
     {
       "added_at": "2023-05-12 04:01:00",
@@ -1415,22 +1415,6 @@
     {
       "added_at": "2023-05-12 04:01:00",
       "album": {
-        "name": "NUEVE",
-        "url": "https://open.spotify.com/album/1QarGcpgUIOxlH658yPZ5R"
-      },
-      "artists": [
-        {
-          "name": "Micro TDH",
-          "url": "https://open.spotify.com/artist/1aWJsBQa67l72j1VT3D6Ow"
-        }
-      ],
-      "duration_ms": 171661,
-      "name": "NEGRO MATE",
-      "url": "https://open.spotify.com/track/2OsclrHyXnqYmKm6ji1vij"
-    },
-    {
-      "added_at": "2023-05-12 04:01:00",
-      "album": {
         "name": "El Dorado",
         "url": "https://open.spotify.com/album/6bUxh58rYTL67FS8dyTKMN"
       },
@@ -1443,6 +1427,22 @@
       "duration_ms": 219640,
       "name": "Amarillo",
       "url": "https://open.spotify.com/track/5Qn56ssVeZJfNwDCme7Eo0"
+    },
+    {
+      "added_at": "2023-05-12 04:01:00",
+      "album": {
+        "name": "NUEVE",
+        "url": "https://open.spotify.com/album/1QarGcpgUIOxlH658yPZ5R"
+      },
+      "artists": [
+        {
+          "name": "Micro TDH",
+          "url": "https://open.spotify.com/artist/1aWJsBQa67l72j1VT3D6Ow"
+        }
+      ],
+      "duration_ms": 171661,
+      "name": "NEGRO MATE",
+      "url": "https://open.spotify.com/track/2OsclrHyXnqYmKm6ji1vij"
     },
     {
       "added_at": "2023-05-12 04:01:00",
@@ -1587,6 +1587,22 @@
     {
       "added_at": "2023-05-12 04:01:00",
       "album": {
+        "name": "Terral",
+        "url": "https://open.spotify.com/album/1cWvezm4YsxlvvOSRUXLmS"
+      },
+      "artists": [
+        {
+          "name": "Pablo Albor\u00e1n",
+          "url": "https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50"
+        }
+      ],
+      "duration_ms": 241013,
+      "name": "Por fin",
+      "url": "https://open.spotify.com/track/0YUiI4zdalScQmDUahywEg"
+    },
+    {
+      "added_at": "2023-05-12 04:01:00",
+      "album": {
         "name": "Conv\u00e9nceme",
         "url": "https://open.spotify.com/album/6oxouERjg3yRQALERagHVx"
       },
@@ -1603,22 +1619,6 @@
       "duration_ms": 208567,
       "name": "Conv\u00e9nceme",
       "url": "https://open.spotify.com/track/12oFSoib1tf0r2rd1Fgsfe"
-    },
-    {
-      "added_at": "2023-05-12 04:01:00",
-      "album": {
-        "name": "Terral",
-        "url": "https://open.spotify.com/album/1cWvezm4YsxlvvOSRUXLmS"
-      },
-      "artists": [
-        {
-          "name": "Pablo Albor\u00e1n",
-          "url": "https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50"
-        }
-      ],
-      "duration_ms": 241013,
-      "name": "Por fin",
-      "url": "https://open.spotify.com/track/0YUiI4zdalScQmDUahywEg"
     },
     {
       "added_at": "2023-05-12 04:01:00",
@@ -1707,6 +1707,22 @@
     {
       "added_at": "2023-05-12 04:01:00",
       "album": {
+        "name": "Apague la Luz y Escuche",
+        "url": "https://open.spotify.com/album/1Ke5xraBJtqZ8mM8Rb62TN"
+      },
+      "artists": [
+        {
+          "name": "Ricardo Arjona",
+          "url": "https://open.spotify.com/artist/0h1zs4CTlU9D2QtgPxptUD"
+        }
+      ],
+      "duration_ms": 210373,
+      "name": "Nada Es Como T\u00fa - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/0FJoj1lLkUDPH4dazfrBOz"
+    },
+    {
+      "added_at": "2023-05-12 04:01:00",
+      "album": {
         "name": "Tengamos Pasado",
         "url": "https://open.spotify.com/album/5INXB8bPP0WzT5lLuhRSlF"
       },
@@ -1723,18 +1739,18 @@
     {
       "added_at": "2023-05-12 04:01:00",
       "album": {
-        "name": "Apague la Luz y Escuche",
-        "url": "https://open.spotify.com/album/1Ke5xraBJtqZ8mM8Rb62TN"
+        "name": "Bomb\u00f3n",
+        "url": "https://open.spotify.com/album/60tj4hg4wjcfjgnewQyGJT"
       },
       "artists": [
         {
-          "name": "Ricardo Arjona",
-          "url": "https://open.spotify.com/artist/0h1zs4CTlU9D2QtgPxptUD"
+          "name": "3AM",
+          "url": "https://open.spotify.com/artist/1LU7BxbUvvuA4eNDdEO22D"
         }
       ],
-      "duration_ms": 210373,
-      "name": "Nada Es Como T\u00fa - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/0FJoj1lLkUDPH4dazfrBOz"
+      "duration_ms": 160399,
+      "name": "Bomb\u00f3n",
+      "url": "https://open.spotify.com/track/0nhckEPANmrYlBOPCB0pxT"
     },
     {
       "added_at": "2023-05-12 04:01:00",
@@ -1755,22 +1771,6 @@
       "duration_ms": 190893,
       "name": "Forever My Love",
       "url": "https://open.spotify.com/track/6TYuTMfBTU4hpXrhLsjIiV"
-    },
-    {
-      "added_at": "2023-05-12 04:01:00",
-      "album": {
-        "name": "Bomb\u00f3n",
-        "url": "https://open.spotify.com/album/60tj4hg4wjcfjgnewQyGJT"
-      },
-      "artists": [
-        {
-          "name": "3AM",
-          "url": "https://open.spotify.com/artist/1LU7BxbUvvuA4eNDdEO22D"
-        }
-      ],
-      "duration_ms": 160399,
-      "name": "Bomb\u00f3n",
-      "url": "https://open.spotify.com/track/0nhckEPANmrYlBOPCB0pxT"
     }
   ],
   "unique_name": "Amor Amor",

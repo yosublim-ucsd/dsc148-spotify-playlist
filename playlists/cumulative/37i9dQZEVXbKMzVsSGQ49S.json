@@ -263,6 +263,24 @@
     },
     {
       "album": {
+        "name": "Planz For 2",
+        "url": "https://open.spotify.com/album/0CWZrjOXREeI3DDsmxt4pl"
+      },
+      "artists": [
+        {
+          "name": "Antoi",
+          "url": "https://open.spotify.com/artist/30hgDcEs2QHytNksy0pRJi"
+        }
+      ],
+      "date_added": "2023-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190131,
+      "name": "4play in 4K",
+      "url": "https://open.spotify.com/track/5DxZx0Iv70W56T25i6EqNC"
+    },
+    {
+      "album": {
         "name": "T\u00edu \u00edslensk s\u00f6ngl\u00f6g",
         "url": "https://open.spotify.com/album/6HTSPl3aLjmfBZPhcpIMKb"
       },
@@ -2570,7 +2588,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 185610,
       "name": "Bridges",
       "url": "https://open.spotify.com/track/3pvzk44kwy8u46wtglCKzd"
@@ -5158,7 +5176,7 @@
       ],
       "date_added": "2022-08-17",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-12",
+      "date_removed": null,
       "duration_ms": 199120,
       "name": "D\u00fdr\u00f0 \u00ed dau\u00f0a\u00fe\u00f6gn",
       "url": "https://open.spotify.com/track/5faV3B9PfIOabLD8PPUAxo"
@@ -6038,7 +6056,7 @@
       ],
       "date_added": "2023-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 214133,
       "name": "Euphoria",
       "url": "https://open.spotify.com/track/2knr7ikPt4l7bk92qS4ZXW"
@@ -13932,7 +13950,7 @@
       ],
       "date_added": "2023-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 154888,
       "name": "Mama \u0160\u010c!",
       "url": "https://open.spotify.com/track/7hcPebUUvJDRH6BhjZ5xEZ"
@@ -14218,6 +14236,24 @@
       "duration_ms": 160980,
       "name": "Mata Hari",
       "url": "https://open.spotify.com/track/3wuvVwA5RaifHz1uqKac8P"
+    },
+    {
+      "album": {
+        "name": "MATHEMATICAL DISRESPECT",
+        "url": "https://open.spotify.com/album/2na9riat7uwn9pax75cJue"
+      },
+      "artists": [
+        {
+          "name": "Lil Mabu",
+          "url": "https://open.spotify.com/artist/6FAo7ORAHEzSSf5q10LLfN"
+        }
+      ],
+      "date_added": "2023-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 88304,
+      "name": "MATHEMATICAL DISRESPECT",
+      "url": "https://open.spotify.com/track/0Ymjv0OJeIIPXr6s9wi3iW"
     },
     {
       "album": {
@@ -16833,6 +16869,24 @@
     },
     {
       "album": {
+        "name": "Planz For 2",
+        "url": "https://open.spotify.com/album/0CWZrjOXREeI3DDsmxt4pl"
+      },
+      "artists": [
+        {
+          "name": "Antoi",
+          "url": "https://open.spotify.com/artist/30hgDcEs2QHytNksy0pRJi"
+        }
+      ],
+      "date_added": "2023-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165473,
+      "name": "Patiently Waiting",
+      "url": "https://open.spotify.com/track/76CFLCBxtsRgfOjub0y01x"
+    },
+    {
+      "album": {
         "name": "The Super Mario Bros. Movie (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/3QITNyRzvTqn0t9tLmS1Vd"
       },
@@ -19114,7 +19168,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 216000,
       "name": "SHELLEY - Summer Mix",
       "url": "https://open.spotify.com/track/6lrJhUjMTfIWmB090c6s6f"
@@ -23002,10 +23056,6 @@
         {
           "name": "Noa Kirel",
           "url": "https://open.spotify.com/artist/1wak0ZG1LUrZPYx8RDTQoD"
-        },
-        {
-          "name": "\u05db\u05d0\u05df - \u05ea\u05d0\u05d2\u05d9\u05d3 \u05d4\u05e9\u05d9\u05d3\u05d5\u05e8 \u05d4\u05d9\u05e9\u05e8\u05d0\u05dc\u05d9",
-          "url": "https://open.spotify.com/artist/2N9Cvh536WBOePrevGKIlj"
         }
       ],
       "date_added": "2023-05-10",

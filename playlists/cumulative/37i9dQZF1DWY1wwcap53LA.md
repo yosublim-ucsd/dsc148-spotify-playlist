@@ -4,11 +4,12 @@
 
 > Country music making waves\. Cover: Willie Jones
 
-139 songs - 7 hr 11 min
+140 songs - 7 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [Afraid of Forever](https://open.spotify.com/track/1pC8BBv7zhS1wr2nf7CxPx) | [Hatcher](https://open.spotify.com/artist/0BMn0H7HCxdzlwJ91FvCkg) | [Afraid of Forever](https://open.spotify.com/album/0aIZsHJt4yXaBnNbFqec71) | 2:56 | 2021-12-03 |  |
+| [Afraid of Forever](https://open.spotify.com/track/1pC8BBv7zhS1wr2nf7CxPx) | [Hatcher](https://open.spotify.com/artist/0BMn0H7HCxdzlwJ91FvCkg) | [Afraid of Forever](https://open.spotify.com/album/0aIZsHJt4yXaBnNbFqec71) | 2:56 | 2021-12-03 | 2023-05-19 |
+| [Afraid of Forever](https://open.spotify.com/track/33Sra0ZInaSU7fgLefkgnU) | [Hatcher](https://open.spotify.com/artist/0BMn0H7HCxdzlwJ91FvCkg) | [Afraid of Forever](https://open.spotify.com/album/6JG2ccg7NMJMQgeAvDjkgb) | 2:56 | 2023-05-12 |  |
 | [Alabama Nights](https://open.spotify.com/track/0wKZraHIi51smdFZOjJgc5) | [Tiera Kennedy](https://open.spotify.com/artist/26VEPCGAYB9OClQodb0OR1) | [Alabama Nights](https://open.spotify.com/album/3oE0zEeUQbTKpnFyVUA1uj) | 3:10 | 2022-09-23 |  |
 | [Always](https://open.spotify.com/track/1ubGogM1YgLECPXjMNz8EL) | [Norman North](https://open.spotify.com/artist/3qKHegS8r4Q08xagEIJwez) | [The Otherside](https://open.spotify.com/album/4zE25cIUWtl0X9CtNbp2pI) | 2:57 | 2021-12-03 |  |
 | [America Is My Hometown](https://open.spotify.com/track/0PzkjgdekFhhWPm8bsvcoK) | [Coffey Anderson](https://open.spotify.com/artist/29YJnMJ7MoLKPM04siMnP5) | [America Is My Hometown](https://open.spotify.com/album/50b1BnRjuEuWc32uXcQXbn) | 2:54 | 2022-03-25 | 2023-02-18 |
@@ -93,7 +94,7 @@
 | [on my way](https://open.spotify.com/track/5VrJrBAYUAEn3412GKfQEl) | [Jimmie Allen](https://open.spotify.com/artist/147nKr9upHZSSxqCzh9j7c), [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR) | [Tulip Drive](https://open.spotify.com/album/4j5QWQbCjApOfP5howYsZX) | 2:57 | 2022-07-22 |  |
 | [Over Yonder \(feat\. Matt Stell\)](https://open.spotify.com/track/6fk8yiw2sxAC6ycLU7EaZa) | [Lathan Warlick](https://open.spotify.com/artist/6Wg68vsyRjVt7TRJsWNWSP), [Matt Stell](https://open.spotify.com/artist/7EekKnlf2HwNaLLpL9Cpgy) | [Over Yonder \(feat\. Matt Stell\)](https://open.spotify.com/album/2FDgPyH6uGxspBo6ReEUxW) | 2:00 | 2021-12-03 |  |
 | [Port City](https://open.spotify.com/track/2xtyduCtx4uPVxksiSYSjj) | [Madeline Edwards](https://open.spotify.com/artist/3eJCIS7ytlYvT3pgReuWWa) | [Port City](https://open.spotify.com/album/4D56Jhz6zigKLQ3Y1WYuSz) | 3:50 | 2022-03-18 | 2023-02-18 |
-| [Praise The Lord \(feat\. Thomas Rhett\)](https://open.spotify.com/track/4ELynSlkV4OHcBCFenFJ7U) | [BRELAND](https://open.spotify.com/artist/0C86lmpnwiyLDUiyo4d0P1), [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8) | [Praise The Lord \(feat\. Thomas Rhett\)](https://open.spotify.com/album/19IBYeeXLti2wekxA8913l) | 2:40 | 2022-03-11 |  |
+| [Praise the Lord \(feat\. Thomas Rhett\)](https://open.spotify.com/track/4ELynSlkV4OHcBCFenFJ7U) | [BRELAND](https://open.spotify.com/artist/0C86lmpnwiyLDUiyo4d0P1), [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8) | [Praise The Lord \(feat\. Thomas Rhett\)](https://open.spotify.com/album/19IBYeeXLti2wekxA8913l) | 2:40 | 2022-03-11 |  |
 | [Pretty Little Devils](https://open.spotify.com/track/6rcQA9q2ZdJeUzZKZU6pUg) | [Reyna Roberts](https://open.spotify.com/artist/4jpqm8g4We93Uk6M9M4FDh) | [Pretty Little Devils](https://open.spotify.com/album/6laMfCUBqD0g3uVQRUYNBO) | 2:59 | 2023-01-20 |  |
 | [Raised Right](https://open.spotify.com/track/2TPhxHTLZA7Rncf2NZFQho) | [Reyna Roberts](https://open.spotify.com/artist/4jpqm8g4We93Uk6M9M4FDh) | [Raised Right](https://open.spotify.com/album/46DaRD6UeqBpfhlULp0Zdy) | 3:11 | 2021-12-03 |  |
 | [Red Dirt Cursed](https://open.spotify.com/track/71UT0ooGTviqmCfpdClNoY) | [Rodell Duff](https://open.spotify.com/artist/4JMY9dX6C0SYxm1YEGAEky) | [Red Dirt Cursed](https://open.spotify.com/album/64evxUin5gboW74Ko8TFef) | 3:56 | 2022-05-27 | 2023-02-18 |

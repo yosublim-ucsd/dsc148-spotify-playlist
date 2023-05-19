@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-01-15",
-  "description": "The new wave of rock from the UK & Ireland. Cover: Delilah Bon",
+  "description": "The new wave of rock from the UK & Ireland. Cover: HotWax",
   "name": "shockwave",
   "tracks": [
     {
@@ -239,6 +239,24 @@
     },
     {
       "album": {
+        "name": "Buck Rogers Time",
+        "url": "https://open.spotify.com/album/1omvo1hvCG4XzDRmreWjLJ"
+      },
+      "artists": [
+        {
+          "name": "Cucamaras",
+          "url": "https://open.spotify.com/artist/2Zy8a1P2tEwHdQK56s0v8T"
+        }
+      ],
+      "date_added": "2023-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274664,
+      "name": "Bleachers Yard",
+      "url": "https://open.spotify.com/track/0f62033IA2CQh9Y5t4zMJt"
+    },
+    {
+      "album": {
         "name": "BLOOD DEBT",
         "url": "https://open.spotify.com/album/4iImv3ptpL3hxCnR8gIjDI"
       },
@@ -250,7 +268,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 131374,
       "name": "BLOOD DEBT",
       "url": "https://open.spotify.com/track/6PCpMc9Pz72sbU4VWjGcu0"
@@ -272,6 +290,24 @@
       "duration_ms": 219226,
       "name": "Boots",
       "url": "https://open.spotify.com/track/1NuBaXmaY9sbyPZ1EwwlIw"
+    },
+    {
+      "album": {
+        "name": "You're Welcome",
+        "url": "https://open.spotify.com/album/0mmHl5Z8DhJvbtQVQ3Irc9"
+      },
+      "artists": [
+        {
+          "name": "Lambrini Girls",
+          "url": "https://open.spotify.com/artist/6VR4TJ20WGiho2xZWMuuWb"
+        }
+      ],
+      "date_added": "2023-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155788,
+      "name": "Boys in the Band",
+      "url": "https://open.spotify.com/track/3BtMOmGUe3VEFz4uXGzqlT"
     },
     {
       "album": {
@@ -549,6 +585,24 @@
     },
     {
       "album": {
+        "name": "Knockoffs & Dummies",
+        "url": "https://open.spotify.com/album/6R58sdlUiciF4uVrCu0Fyy"
+      },
+      "artists": [
+        {
+          "name": "Tung in Cheek",
+          "url": "https://open.spotify.com/artist/2vbZVMUMzbJRZHRmYIjith"
+        }
+      ],
+      "date_added": "2023-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162333,
+      "name": "Easy",
+      "url": "https://open.spotify.com/track/0vTqXQs6CMIMPDKGC7NldB"
+    },
+    {
+      "album": {
         "name": "Egregore",
         "url": "https://open.spotify.com/album/06p7KNMP9DaSOQgJKtbItt"
       },
@@ -564,6 +618,24 @@
       "duration_ms": 183750,
       "name": "Egregore",
       "url": "https://open.spotify.com/track/2l7yet2WjW2JbQi9mVvuOG"
+    },
+    {
+      "album": {
+        "name": "escalate",
+        "url": "https://open.spotify.com/album/3fpsNJU44c7Jp69qvTqpAM"
+      },
+      "artists": [
+        {
+          "name": "pieces",
+          "url": "https://open.spotify.com/artist/35uZwCzQKuv1zHalrRkikr"
+        }
+      ],
+      "date_added": "2023-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202114,
+      "name": "escalate",
+      "url": "https://open.spotify.com/track/2hBalflQk2epPYW7GwdQb2"
     },
     {
       "album": {
@@ -675,6 +747,24 @@
     },
     {
       "album": {
+        "name": "fasterthanyourthoughts",
+        "url": "https://open.spotify.com/album/1IASmWiXkPu2lfxNFqCiVv"
+      },
+      "artists": [
+        {
+          "name": "North Atlas",
+          "url": "https://open.spotify.com/artist/3Ro0E3uacXuCx3iJoa8jua"
+        }
+      ],
+      "date_added": "2023-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190969,
+      "name": "fasterthanyourthoughts",
+      "url": "https://open.spotify.com/track/3snoKKCrXliBRAPmKlJQiK"
+    },
+    {
+      "album": {
         "name": "Fed Rock",
         "url": "https://open.spotify.com/album/2jMOIQCfCluYqndppMEU4Z"
       },
@@ -726,6 +816,32 @@
       "duration_ms": 268650,
       "name": "For You",
       "url": "https://open.spotify.com/track/0yUymvlfxHWxE62ys8VtbM"
+    },
+    {
+      "album": {
+        "name": "foreverend",
+        "url": "https://open.spotify.com/album/2dkKkirYZB5GXBr52Z08j5"
+      },
+      "artists": [
+        {
+          "name": "newshapes",
+          "url": "https://open.spotify.com/artist/6UuFVFmfZLUQy5blahNWDZ"
+        },
+        {
+          "name": "Rebekah Kirk",
+          "url": "https://open.spotify.com/artist/4sXZl444aSiekh4f2TPCbU"
+        },
+        {
+          "name": "Sixth Wonder",
+          "url": "https://open.spotify.com/artist/44UPyJOf07339zZv2Imz2m"
+        }
+      ],
+      "date_added": "2023-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190500,
+      "name": "foreverend",
+      "url": "https://open.spotify.com/track/5gJ8xmfZ3yzMh9pjY0hszN"
     },
     {
       "album": {
@@ -1298,7 +1414,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 191755,
       "name": "Lads Lads Lads",
       "url": "https://open.spotify.com/track/3QL6ySMAq85DunV286RBVS"
@@ -2047,6 +2163,24 @@
     },
     {
       "album": {
+        "name": "Rip It Out",
+        "url": "https://open.spotify.com/album/5jJ05vdKJTQCd6QMsevIEg"
+      },
+      "artists": [
+        {
+          "name": "HotWax",
+          "url": "https://open.spotify.com/artist/237mvWGlQNJJhc9b8pSawZ"
+        }
+      ],
+      "date_added": "2023-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195373,
+      "name": "Rip It Out",
+      "url": "https://open.spotify.com/track/6FPIh5TqPtYNFUbNN4aJ4R"
+    },
+    {
+      "album": {
         "name": "Rip My Calendar",
         "url": "https://open.spotify.com/album/6Zpc6socD4ELy4hwiB6kac"
       },
@@ -2321,6 +2455,24 @@
     },
     {
       "album": {
+        "name": "Stick Dat",
+        "url": "https://open.spotify.com/album/5LKYJ3Eu0kLz5511Ie4sBh"
+      },
+      "artists": [
+        {
+          "name": "Frozemode",
+          "url": "https://open.spotify.com/artist/2BhOQjsvbHRatFkBLkjmu5"
+        }
+      ],
+      "date_added": "2023-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117476,
+      "name": "Stick Dat",
+      "url": "https://open.spotify.com/track/7qcif4D117Sy0S4HvT6FPp"
+    },
+    {
+      "album": {
         "name": "CAUSTIC",
         "url": "https://open.spotify.com/album/6d305ez1t5HUZjXsNUWQRf"
       },
@@ -2336,6 +2488,24 @@
       "duration_ms": 158750,
       "name": "stockholme syndrome",
       "url": "https://open.spotify.com/track/3vBgnkGxNvflZGsNSE2d57"
+    },
+    {
+      "album": {
+        "name": "Stones",
+        "url": "https://open.spotify.com/album/5d3mW19I4ltX082FItNAYu"
+      },
+      "artists": [
+        {
+          "name": "Anolah",
+          "url": "https://open.spotify.com/artist/1DxdPWT4AD81ET3HtqPZOK"
+        }
+      ],
+      "date_added": "2023-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126400,
+      "name": "Stones",
+      "url": "https://open.spotify.com/track/6JfTPst2t6yiGpn65UxPG8"
     },
     {
       "album": {
@@ -2519,6 +2689,24 @@
     },
     {
       "album": {
+        "name": "Think Straight",
+        "url": "https://open.spotify.com/album/4PK7RCjF5LADU2c5EEdYk6"
+      },
+      "artists": [
+        {
+          "name": "Tinesha Kinley",
+          "url": "https://open.spotify.com/artist/2kqT8IX1ozWlsMRSx8WSWm"
+        }
+      ],
+      "date_added": "2023-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195630,
+      "name": "Think Straight",
+      "url": "https://open.spotify.com/track/79mgVQAJLh22SZvEe6dfZZ"
+    },
+    {
+      "album": {
         "name": "This Part of Me",
         "url": "https://open.spotify.com/album/6t3pu0a7OPjjiMKvPGSEtQ"
       },
@@ -2570,7 +2758,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 191106,
       "name": "Treasure",
       "url": "https://open.spotify.com/track/7vcgqskkBA3n2aykT0AjUJ"

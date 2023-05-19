@@ -2,9 +2,9 @@
 
 ### [R&Bae](https://open.spotify.com/playlist/37i9dQZF1DX2LoIIQLAhdb)
 
-> Le R&B français, nouvelle ère\. Photo : Lynda
+> Le R&B français, nouvelle ère\. Photo : Franglish
 
-128 songs - 6 hr 17 min
+133 songs - 6 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,10 +15,12 @@
 | [Assez \(épisode 1\)](https://open.spotify.com/track/5knL7kkdGRwHHS1sjZIH5H) | [Dadju](https://open.spotify.com/artist/4sbXXFzEWJY2zsZjelerjX) | [Cullinan \(Gelée Royale 1 & 2\)](https://open.spotify.com/album/3NPQDrbnqqcr0I0lCTcXSw) | 3:23 | 2023-03-16 |  |
 | [Atasanté \(feat\. Hamza\)](https://open.spotify.com/track/1oXn8nhl44cH6HXqGQnOgY) | [Tiakola](https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh), [Hamza](https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh) | [Mélo](https://open.spotify.com/album/3YjNC4de1PEvhuyZjMyxJU) | 3:34 | 2022-11-24 | 2023-04-28 |
 | [Au naturel](https://open.spotify.com/track/0gMwNsAiKcJ2r73M4l8E2T) | [Kayna Samet](https://open.spotify.com/artist/3qLpAs6VLppZrKlI0CXK6k) | [Au naturel](https://open.spotify.com/album/3UmWBJDH7lsRfnGf1WxWG0) | 2:40 | 2023-01-12 | 2023-02-24 |
-| [Au revoir](https://open.spotify.com/track/23wU0bMRU5wdIivfygtfIE) | [Kayna Samet](https://open.spotify.com/artist/3qLpAs6VLppZrKlI0CXK6k) | [Altaïr, pt\. 2](https://open.spotify.com/album/4YxYGnn8XXxQYSBqZ8FjMx) | 3:10 | 2023-04-13 |  |
+| [Au revoir](https://open.spotify.com/track/23wU0bMRU5wdIivfygtfIE) | [Kayna Samet](https://open.spotify.com/artist/3qLpAs6VLppZrKlI0CXK6k) | [Altaïr, pt\. 2](https://open.spotify.com/album/4YxYGnn8XXxQYSBqZ8FjMx) | 3:10 | 2023-04-13 | 2023-05-19 |
 | [Baby Boo](https://open.spotify.com/track/3uuSSAMq7Otspek5jPLVU3) | [Wejdene](https://open.spotify.com/artist/1SxuyHZnLUFyFHGzdGaxZk), [Nej](https://open.spotify.com/artist/3BQ9mWlgFRfMr5EdNfc10a) | [Glow Up](https://open.spotify.com/album/5lxGXboLgqONmIT50uLRO9) | 2:50 | 2022-12-15 | 2023-04-07 |
 | [Baby Love](https://open.spotify.com/track/3wz016yrz7dXAtF8WLShSg) | [Nadjee](https://open.spotify.com/artist/3bOlMjhZuCsFt1dKkPCGAK) | [Baby Love](https://open.spotify.com/album/0pqafVcoCMQ9z7rEMSY7ej) | 2:35 | 2022-12-15 | 2023-02-03 |
+| [BABYMAMA](https://open.spotify.com/track/6oEDg2yw9M0NtWAWtPxEca) | [Kenyon](https://open.spotify.com/artist/3ef02ttcTCxK0cQ68glIQ6), [Pix'L](https://open.spotify.com/artist/3cDIf3HM6LGZYUKQJZbHFA) | [DATA](https://open.spotify.com/album/4HD7rLQRk7IoYpBE93aW6f) | 2:47 | 2023-05-18 |  |
 | [BB](https://open.spotify.com/track/1LuYLVEVdXwHpgnEM7BNeq) | [Dessplora](https://open.spotify.com/artist/3VZU5ip7b3Bwywo1ST9xif) | [BB](https://open.spotify.com/album/1aJnsqQzrqxCvcTxXxM50M) | 2:05 | 2023-04-27 |  |
+| [BBM](https://open.spotify.com/track/7dMVHcxpbKHHLESDNvHtlf) | [Fresh](https://open.spotify.com/artist/3W9AQyaIGdR8htZXVGwl1X), [Naza](https://open.spotify.com/artist/7xNYY1Zkb1vks5m9ATlJok) | [BBM](https://open.spotify.com/album/5KUSAHvsFggDzuRk4uzvyZ) | 2:59 | 2023-05-18 |  |
 | [Bloqué](https://open.spotify.com/track/6mGwNtvWWyTFtkhPP8AEsX) | [Davy One](https://open.spotify.com/artist/3QCQdyKtg9Yx1rYYnMb7pz) | [Bloqué](https://open.spotify.com/album/4BaV2ubS575EMm2qcXSqD2) | 2:51 | 2023-01-12 | 2023-02-10 |
 | [Bourbier](https://open.spotify.com/track/590mLwj3O9Jg2wc5qOlc44) | [Davy One](https://open.spotify.com/artist/3QCQdyKtg9Yx1rYYnMb7pz), [Liim’s](https://open.spotify.com/artist/2XpsF0ZQfBV08auUoRnNJE) | [Prémices](https://open.spotify.com/album/0923F8kfzpouUmutVzceuH) | 3:06 | 2022-11-24 | 2022-12-16 |
 | [Brûler](https://open.spotify.com/track/1ruP1lNZ6OqgEm4oPsjz4G) | [Iliana](https://open.spotify.com/artist/7kjWIGGBS3AigeN2Ppkr83) | [Brûler](https://open.spotify.com/album/3DXrpHTK1QllgmpJ3RGeR8) | 2:50 | 2023-03-09 | 2023-05-05 |
@@ -29,7 +31,7 @@
 | [Cicatrices](https://open.spotify.com/track/6Wgq0Mr4D7BsYwhCfU3JGt) | [Nina Rossell](https://open.spotify.com/artist/76GOZCc1Fa0aXqh4edNsuw) | [Cicatrices](https://open.spotify.com/album/0H8PSYkG1CXQna6ycNcMAM) | 2:45 | 2023-05-04 |  |
 | [Colombe](https://open.spotify.com/track/5TABk5YGMSEzSfiY4wml4j) | [Shana](https://open.spotify.com/artist/6T5gJDpQypBj9Enps7vQn5) | [Colombe](https://open.spotify.com/album/4icE1928MumHUI9Y1sxnHq) | 2:42 | 2023-03-30 | 2023-04-28 |
 | [Comme avant \(feat\. Low Jay\)](https://open.spotify.com/track/11R3OU6DbqqqKPyXuPD9qM) | [Maud Elka](https://open.spotify.com/artist/2U3zSgyMqytkWn9ZmX94ZR), [Low Jay](https://open.spotify.com/artist/33hTLTCjEmYAKaLspM8M2N) | [Drama \(Partie II\)](https://open.spotify.com/album/0EsDUFsahyHF3yksO3o5vW) | 2:53 | 2023-02-02 |  |
-| [Comme mon ex](https://open.spotify.com/track/1PxBGLSGiK7X5RmmoDVaPr) | [Melina](https://open.spotify.com/artist/5Igaoo9WzRGgvEV3pXNuZA) | [Comme mon ex](https://open.spotify.com/album/7lvJSlimzqJliHEwJb1VHh) | 2:40 | 2023-04-06 |  |
+| [Comme mon ex](https://open.spotify.com/track/1PxBGLSGiK7X5RmmoDVaPr) | [Melina](https://open.spotify.com/artist/5Igaoo9WzRGgvEV3pXNuZA) | [Comme mon ex](https://open.spotify.com/album/7lvJSlimzqJliHEwJb1VHh) | 2:40 | 2023-04-06 | 2023-05-19 |
 | [Confiance](https://open.spotify.com/track/1xeaSWiXWVHj34wvcE0ZXI) | [SenSey'](https://open.spotify.com/artist/23u2dvae3e0f3caJSqdlN5) | [Confiance](https://open.spotify.com/album/3paMPs0FH8lqQ7lH5vbVIt) | 2:57 | 2022-11-24 | 2023-02-17 |
 | [Corps Chaud](https://open.spotify.com/track/2la1EtoLdOUr8S5S3lEMv5) | [Luni](https://open.spotify.com/artist/3xEtgUoHv1k1JyqYLEwRGl) | [CAMELLIA](https://open.spotify.com/album/6g6FiZNOFZ29EMnCDKG4s4) | 2:34 | 2023-02-16 | 2023-03-10 |
 | [CV \(feat\. RK\)](https://open.spotify.com/track/7cS0iYSpeBa0qxLsXMELC4) | [Bramsito](https://open.spotify.com/artist/1WDkNp8Duv9QhO246S4dDa), [RK](https://open.spotify.com/artist/2s7fZ34RK8RUJQ2ewsh6I5) | [Enchanté](https://open.spotify.com/album/4jzttg9eCu7YcpAQsu75mu) | 2:54 | 2023-03-30 |  |
@@ -51,7 +53,8 @@
 | [Fini d'espérer](https://open.spotify.com/track/0DMQwNGCiSzLB2HsfHNAtb) | [Lynda](https://open.spotify.com/artist/2GlEiSHYEKlq9cUYDa9oZb) | [Fini d'espérer](https://open.spotify.com/album/1wjf1dJlUK9bun5IopzmyK) | 3:28 | 2022-11-24 | 2023-04-28 |
 | [Full White](https://open.spotify.com/track/2EHkxEurRIbNSObtj2DwLA) | [Low Jay](https://open.spotify.com/artist/33hTLTCjEmYAKaLspM8M2N) | [GINGER LOVE](https://open.spotify.com/album/1XqTyJRbyNXr7cAs3Syc96) | 2:44 | 2023-03-02 | 2023-04-21 |
 | [Ginger](https://open.spotify.com/track/3bdhFhYjPX3n0IwFquNYLB) | [Low Jay](https://open.spotify.com/artist/33hTLTCjEmYAKaLspM8M2N) | [Ginger](https://open.spotify.com/album/28wcW4kLHOwwRuiszCcNia) | 2:44 | 2022-11-24 | 2023-02-17 |
-| [Goûter](https://open.spotify.com/track/5Ub4lK3WGGm0HtkDid7ZRH) | [Youka](https://open.spotify.com/artist/5dDL6ReckbbD5JBnZdobv6) | [Goûter](https://open.spotify.com/album/7pVuxI7Jz8aQa5rIOCcMcI) | 2:32 | 2023-04-13 |  |
+| [Go](https://open.spotify.com/track/5AtFjz8lwWRKdMePvihCsT) | [Franglish](https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw) | [Go](https://open.spotify.com/album/7rO6wNrH5Q2tfGtaUdT4Ef) | 2:59 | 2023-05-18 |  |
+| [Goûter](https://open.spotify.com/track/5Ub4lK3WGGm0HtkDid7ZRH) | [Youka](https://open.spotify.com/artist/5dDL6ReckbbD5JBnZdobv6) | [Goûter](https://open.spotify.com/album/7pVuxI7Jz8aQa5rIOCcMcI) | 2:32 | 2023-04-13 | 2023-05-19 |
 | [GUEST LIST](https://open.spotify.com/track/5vEvOtrShrpAUcDsv8WxjA) | [Davy One](https://open.spotify.com/artist/3QCQdyKtg9Yx1rYYnMb7pz) | [SUAVE Tome 1](https://open.spotify.com/album/5NBBTPy9RGlpeev6iXEuXI) | 3:09 | 2023-03-02 | 2023-05-05 |
 | [Hayati](https://open.spotify.com/track/17OnTVsTqTEGdinkMfEhPD) | [C\-lina](https://open.spotify.com/artist/4UkywnuqJOUz6YuvuCEyLm), [Youka](https://open.spotify.com/artist/5dDL6ReckbbD5JBnZdobv6) | [Foetus](https://open.spotify.com/album/5vdmZNEqPB9a69Hel2Z8J1) | 2:40 | 2023-03-02 | 2023-04-14 |
 | [Hennessy](https://open.spotify.com/track/1y0U1pZhkayeBRViBcf5zu) | [Mkz03](https://open.spotify.com/artist/74v95iW9MSTppigeI0g5Fi) | [Hennessy](https://open.spotify.com/album/08LXWKg1nMXfio7jtcK0jD) | 2:22 | 2023-04-13 |  |
@@ -80,13 +83,13 @@
 | [Loca](https://open.spotify.com/track/0H5UXo3J6LWUtsNwIgdQr8) | [MadeInParis](https://open.spotify.com/artist/2NRdZaTYZk1CexnDSlnxZU), [Vacra](https://open.spotify.com/artist/5OLkn5GT6EcMuJzjwgvQnu) | [Comme vous voulez](https://open.spotify.com/album/5D6nkb0MJIZxuVKJb4aE5l) | 2:47 | 2022-11-24 | 2023-03-31 |
 | [Love Story II](https://open.spotify.com/track/4HeyVHtQvE1ZXme8oQLUPD) | [Mkz03](https://open.spotify.com/artist/74v95iW9MSTppigeI0g5Fi) | [Love Story II](https://open.spotify.com/album/3I0IOj2LENg5EUWtKp4g5K) | 1:43 | 2023-02-09 | 2023-03-10 |
 | [Love Therapy](https://open.spotify.com/track/4okJMwSKCekj9NdAYZnAAt) | [Monsieur Nov](https://open.spotify.com/artist/6dCubgboW2yqxg5cnveToX) | [Love Therapy](https://open.spotify.com/album/0q1VH4DQ3PV4M58b0jNTmM) | 5:09 | 2023-01-05 | 2023-01-27 |
-| [Ma Lova](https://open.spotify.com/track/55kqm5pv3oQcZpClUEHo1C) | [Dof'](https://open.spotify.com/artist/6AnXu050pLMVM8MTNZstJr) | [Ma Lova](https://open.spotify.com/album/69VpibECOEtYba9gZTn36O) | 2:26 | 2023-02-09 |  |
+| [Ma Lova](https://open.spotify.com/track/55kqm5pv3oQcZpClUEHo1C) | [Dof'](https://open.spotify.com/artist/6AnXu050pLMVM8MTNZstJr) | [Ma Lova](https://open.spotify.com/album/69VpibECOEtYba9gZTn36O) | 2:26 | 2023-02-09 | 2023-05-19 |
 | [Ma promesse](https://open.spotify.com/track/5TNhRGVHRNAIHLo5Xaouzh) | [Hiro](https://open.spotify.com/artist/64XqdWjtYhfMJeQB7wtAwS) | [Ma promesse](https://open.spotify.com/album/77RhDral1NtDom4ydM19vn) | 2:28 | 2022-11-24 | 2023-02-17 |
 | [Ma Raison](https://open.spotify.com/track/1NFS8awse8TQhKZO0ilJXp) | [Nej](https://open.spotify.com/artist/3BQ9mWlgFRfMr5EdNfc10a) | [Ma Raison](https://open.spotify.com/album/7lQCobvDKnOpjMiLG7I4Vx) | 3:05 | 2022-11-24 | 2023-04-28 |
 | [Ma Reine](https://open.spotify.com/track/2yK1M21AlQ3RLalAmM59Oi) | [Souf](https://open.spotify.com/artist/2tsnxjntsRI6iFL9ZeC0ec) | [Ma Reine](https://open.spotify.com/album/5hj6xIiBVolqqWWj60D2Eh) | 3:09 | 2022-11-24 | 2023-04-14 |
 | [Mal de toi](https://open.spotify.com/track/6nSP9koY7i80mhkyCtjzJj) | [Lyna Mahyem](https://open.spotify.com/artist/0Yj3N31EWXHc6e3eDyJPLP) | [Authentic](https://open.spotify.com/album/5cmjUzsRFXb7KyejfkphQ0) | 3:15 | 2022-11-24 | 2023-03-18 |
 | [Maman prie pour moi](https://open.spotify.com/track/4PIMhQmPQuMdwiP0c8J7LL) | [Still Fresh](https://open.spotify.com/artist/3AGggQTwJaSofLcpDlYhV4) | [Maman prie pour moi](https://open.spotify.com/album/5eyY7n2RVG8smbzZ0Gca3R) | 2:52 | 2023-03-16 |  |
-| [Manico](https://open.spotify.com/track/1hdUgNBjhrZrHHq8shkOPE) | [Mibsy](https://open.spotify.com/artist/4m3boOebrQnZ6ITM0B7vbB) | [Manico](https://open.spotify.com/album/0NEk4fIlu7ruQE6il671jv) | 2:36 | 2023-04-06 |  |
+| [Manico](https://open.spotify.com/track/1hdUgNBjhrZrHHq8shkOPE) | [Mibsy](https://open.spotify.com/artist/4m3boOebrQnZ6ITM0B7vbB) | [Manico](https://open.spotify.com/album/0NEk4fIlu7ruQE6il671jv) | 2:36 | 2023-04-06 | 2023-05-19 |
 | [Maux de tête](https://open.spotify.com/track/13D5HrejdIzNzPnaQjnx0N) | [Heaven](https://open.spotify.com/artist/3JHcjQW200sbrGQeWPeRnG) | [Maux de tête](https://open.spotify.com/album/6OC9Rbnw6pu2hfPgSzls7Y) | 2:50 | 2022-11-24 | 2022-12-16 |
 | [Mi amor](https://open.spotify.com/track/6hxhsDAQbz2ZH3KBVpprFj) | [SenSey'](https://open.spotify.com/artist/23u2dvae3e0f3caJSqdlN5) | [PERLE NOIRE](https://open.spotify.com/album/1y1BsdMYyrV1uEJBG4TQ6h) | 2:33 | 2022-11-24 | 2023-01-20 |
 | [Million](https://open.spotify.com/track/21RVxDOoKFOW9txnVZrNfh) | [Maud Elka](https://open.spotify.com/artist/2U3zSgyMqytkWn9ZmX94ZR) | [Drama](https://open.spotify.com/album/34UNcJ8FrAvdViz1AzSvyE) | 2:50 | 2022-11-24 | 2022-12-16 |
@@ -132,7 +135,9 @@
 | [Un bout de nous](https://open.spotify.com/track/2vn8j2f7rqfaz3myB5j4vp) | [Ya Levis](https://open.spotify.com/artist/45oFvHE9QZYC1vn5pVCDlu), [Zaho](https://open.spotify.com/artist/0vN920jukdAbErvjo2OJ2o) | [L'amour change le monde](https://open.spotify.com/album/3SNI5vICDQqgyQq11ei9s9) | 3:18 | 2022-11-24 | 2022-12-09 |
 | [Une Femme](https://open.spotify.com/track/5QV9n75vtzTzXuVUZDWyt9) | [Kayna Samet](https://open.spotify.com/artist/3qLpAs6VLppZrKlI0CXK6k), [Eva](https://open.spotify.com/artist/5nH2klYTzn8CNvUv1GOGQO) | [Une Femme](https://open.spotify.com/album/0mbq63Bpo92pg9pCX1uxcp) | 2:50 | 2023-03-16 |  |
 | [VIBESTARS \#6](https://open.spotify.com/track/3GHI1jhIgtflWj1zBcAKQw) | [Genezio](https://open.spotify.com/artist/0PcU18DNfkn3pmbjy5yMFz) | [VIBESTARS \#6](https://open.spotify.com/album/3ZRItbt48UvxlbEuIFRFVI) | 3:04 | 2023-04-27 |  |
+| [WAVYSHAWTY](https://open.spotify.com/track/0E1scA58vjVFBHQEzrlXZC) | [HARON](https://open.spotify.com/artist/7z43TluM9EYBKS5io7OYVr) | [WAVYSHAWTY](https://open.spotify.com/album/1hKUNPmRzykqlZLmRBzG7c) | 3:02 | 2023-05-18 |  |
 | [Yoyo](https://open.spotify.com/track/72dTIgAVI6vZQI4B0GhcYr) | [Osmaus](https://open.spotify.com/artist/7lJjHV1eg3KjdzvohgBKlF) | [Yoyo](https://open.spotify.com/album/37x2aZDoCSpJUtaEfdfw4V) | 3:24 | 2022-12-15 | 2023-01-20 |
+| [Zina](https://open.spotify.com/track/3EhZJlhHrDOamXhXSoZbL0) | [Emkal](https://open.spotify.com/artist/4ZPLdCBeYJBAjsLTWRcZEs) | [Zina](https://open.spotify.com/album/2ctn0Isyb0sySJ8tLoxb8X) | 2:16 | 2023-05-18 |  |
 | [À qui la faute](https://open.spotify.com/track/6i0KLQD7zlFLyS5zxOHAB0) | [Leila AD](https://open.spotify.com/artist/29OFoMngbkNzwla2kczgdu) | [ADN](https://open.spotify.com/album/2LCG3qOGSDCE4sBBIclAS9) | 3:25 | 2022-11-24 | 2023-01-06 |
 | [Écoute Moi](https://open.spotify.com/track/39BRscIkSE49Royu0tBlox) | [Scridge](https://open.spotify.com/artist/6fYEeLBc96CguiLq9FPBQU), [Cravata](https://open.spotify.com/artist/2zWCw43oRZ74LlMb14JWVR) | [Écoute Moi](https://open.spotify.com/album/79TjXEzEUByDhfsZ11Y9Gn) | 2:51 | 2023-04-20 |  |
 | [Étoile](https://open.spotify.com/track/3IirvvsZ8EJFJjJ3LB1XkP) | [Isleym](https://open.spotify.com/artist/3vw5HmeFoWnWYhcOpB8INb) | [Étoile](https://open.spotify.com/album/4X5ZkGKkuF82W3nGqf3svs) | 2:52 | 2022-11-24 | 2023-01-20 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXakZCf7SV1CS.md) - [plain]
 
 > Classics by the pioneers of the sound, and its modern\-day icons\. Cover: 100 gecs
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,797 likes - 75 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,928 likes - 75 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,11 +25,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXakZCf7SV1CS.md) - [plain]
 | 15 | [prism](https://open.spotify.com/track/3LOF9w7r0yos4DqBvizeLa) | [monty.pk](https://open.spotify.com/artist/3L2O6zqeWf9jdUFVihAB5g) | [prism](https://open.spotify.com/album/6dVBs7hZT8Y0W0V0I9bqE7) | 2:32 |
 | 16 | [When I Rule the World](https://open.spotify.com/track/7nu0Lc0jJltztDxsGeoPiG) | [LIZ](https://open.spotify.com/artist/6t2Rja6dihuxH6Mrgyynp6) | [When I Rule the World](https://open.spotify.com/album/2yqtOR8q6lSbLQp7Bka74v) | 3:05 |
 | 17 | [Flamingo](https://open.spotify.com/track/34TufQ4EFzmDIFXJ3A8Yau) | [Kero Kero Bonito](https://open.spotify.com/artist/6OqhFYFJDnBBHas02HopPT) | [Flamingo](https://open.spotify.com/album/469lPlTo1lL1wbhl3OCMeq) | 3:17 |
-| 18 | [NEVER MET! \(feat\. Glitch Gum\)](https://open.spotify.com/track/4iMfYGWDKKuP79CAqsKd3n) | [CMTEN](https://open.spotify.com/artist/3ReVTyprRfKmKquryr9UeA), [Glitch Gum](https://open.spotify.com/artist/1wpftBruYql3kTa4Px6kze) | [NEVER MET! \(feat\. Glitch Gum\)](https://open.spotify.com/album/0QZwzSFYl78eOx7AUUqYLN) | 2:27 |
+| 18 | [claws](https://open.spotify.com/track/7Dexi5Z2IowCkHrnzlWysc) | [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [how i'm feeling now](https://open.spotify.com/album/3a9qH2VEsSiOZvMrjaS0Nu) | 2:29 |
 | 19 | [astrid](https://open.spotify.com/track/3SpRtNO7GKWaFyWydXArvn) | [glaive](https://open.spotify.com/artist/4cJKDGSv4Dz9QycXYmo565) | [cypress grove](https://open.spotify.com/album/0cF9M8eWDJfgbf0XtyrTL9) | 1:41 |
 | 20 | [Doritos & Fritos](https://open.spotify.com/track/1jPPKYq1s1HhIjAiqrnRR8) | [100 gecs](https://open.spotify.com/artist/6PfSUFtkMVoDkx4MQkzOi3) | [10,000 gecs](https://open.spotify.com/album/2XS5McKf3zdJWpcZ4OkZPZ) | 3:16 |
 | 21 | [Trying](https://open.spotify.com/track/1yCZyiJlxQSt0DFB9mVTCS) | [midwxst](https://open.spotify.com/artist/7CGSp2GbiOpLPSq61qjxf8) | [Trying](https://open.spotify.com/album/7DJJBKSYGD8CV9va9wdEtL) | 2:00 |
-| 22 | [claws](https://open.spotify.com/track/7Dexi5Z2IowCkHrnzlWysc) | [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [how i'm feeling now](https://open.spotify.com/album/3a9qH2VEsSiOZvMrjaS0Nu) | 2:29 |
+| 22 | [NEVER MET! \(feat\. Glitch Gum\)](https://open.spotify.com/track/4iMfYGWDKKuP79CAqsKd3n) | [CMTEN](https://open.spotify.com/artist/3ReVTyprRfKmKquryr9UeA), [Glitch Gum](https://open.spotify.com/artist/1wpftBruYql3kTa4Px6kze) | [NEVER MET! \(feat\. Glitch Gum\)](https://open.spotify.com/album/0QZwzSFYl78eOx7AUUqYLN) | 2:27 |
 | 23 | [fuckboy](https://open.spotify.com/track/7cELheBXF3jIShGuewCy44) | [brakence](https://open.spotify.com/artist/4kqFrZkeqDfOIEqTWqbOOV) | [punk2](https://open.spotify.com/album/0BAmcZfsraNVyG6rj782Og) | 2:37 |
 | 24 | [heather](https://open.spotify.com/track/3OnhO4po4yLW2uNoiKGUYX) | [glaive](https://open.spotify.com/artist/4cJKDGSv4Dz9QycXYmo565), [ericdoa](https://open.spotify.com/artist/4hR6Bm9YYtktXzjmKhb1Cn) | [then i'll be happy](https://open.spotify.com/album/1vt6o574MwqdmPm8ktkT7s) | 1:51 |
 | 25 | [Immaterial](https://open.spotify.com/track/6GoLARmR2OZl2EldehFrsA) | [SOPHIE](https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu) | [OIL OF EVERY PEARL'S UN\-INSIDES](https://open.spotify.com/album/4z3YbEkKWwiIMSJTWUQbTH) | 3:52 |
@@ -79,9 +79,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXakZCf7SV1CS.md) - [plain]
 | 69 | [Honda](https://open.spotify.com/track/1tixCrYa7pcaze1PUqTsCa) | [David Shawty](https://open.spotify.com/artist/1p8A4FgZDL8Q7o6BO3NwJk) | [Honda](https://open.spotify.com/album/59OTBWWNBMB0dLbRzmZMIX) | 1:50 |
 | 70 | [Butterfly Bankai](https://open.spotify.com/track/7oQqKP46luTWUUPfcljy3T) | [SEBii](https://open.spotify.com/artist/5fAix5NwfNgHQqYRrHIPxo) | [Visored Vitality](https://open.spotify.com/album/209wPO4XXcc3zTKtV8kKhN) | 2:32 |
 | 71 | [Fade Away](https://open.spotify.com/track/4FC0VE8aoYj6s1vrLj367k) | [Hannah Diamond](https://open.spotify.com/artist/3sXErEOw7EmO6Sj7EgjHdU) | [Reflections](https://open.spotify.com/album/3h1wgea55XrtVoxrkRYDBn) | 4:16 |
-| 72 | [Hot Pink](https://open.spotify.com/track/59rdoga3q8OVCR5WnSGVM8) | [Let's Eat Grandma](https://open.spotify.com/artist/4qNZw759AdHSMugyDMrIlF) | [I'm All Ears](https://open.spotify.com/album/4TgXvHJWXGk0BlBvfs13Qg) | 4:08 |
-| 73 | [Sorry Bro \(I Love You\)](https://open.spotify.com/track/5mcQEEsF7qB67sxzoVJvhC) | [Dorian Electra](https://open.spotify.com/artist/202HZzqKvPsMHcbwnDZx7u) | [My Agenda](https://open.spotify.com/album/2QFXjy3u6Bl6ctdK9FS9eF) | 1:27 |
+| 72 | [Sorry Bro \(I Love You\)](https://open.spotify.com/track/5mcQEEsF7qB67sxzoVJvhC) | [Dorian Electra](https://open.spotify.com/artist/202HZzqKvPsMHcbwnDZx7u) | [My Agenda](https://open.spotify.com/album/2QFXjy3u6Bl6ctdK9FS9eF) | 1:27 |
+| 73 | [Hot Pink](https://open.spotify.com/track/59rdoga3q8OVCR5WnSGVM8) | [Let's Eat Grandma](https://open.spotify.com/artist/4qNZw759AdHSMugyDMrIlF) | [I'm All Ears](https://open.spotify.com/album/4TgXvHJWXGk0BlBvfs13Qg) | 4:08 |
 | 74 | [Kyoto \(Glitch Gum Remix\)](https://open.spotify.com/track/0cYsiOzerJ7PvTyQdwASXl) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG), [Glitch Gum](https://open.spotify.com/artist/1wpftBruYql3kTa4Px6kze) | [Kyoto \(Glitch Gum Remix\)](https://open.spotify.com/album/3B83CmsoSCZUrzZfbt4RyX) | 2:39 |
 | 75 | [Beautiful](https://open.spotify.com/track/0YAywhODGdHhWxuvFFhjE3) | [A\. G\. Cook](https://open.spotify.com/artist/335TWGWGFan4vaacJzSiU8) | [PC Music, Vol\. 1](https://open.spotify.com/album/1nJD8cgitrI7sWC4i3Ox32) | 3:47 |
 
-Snapshot ID: `MCwwZmNiMGRiNzNkMWZjNmY0NWQ4MWJjMTEyZjI5NmU3YmQ2NjNjOWE5`
+Snapshot ID: `MCwzY2M4NmQzMWM4ZmZhYTk0MDI0MzQ3NzYzMGEyZmJmY2I3ODE2NTJm`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVAWtyHQImlQ.md) - [plain]
 
 > All 60s, all ballads\. Cover: Etta James
 
-[Spotify](https://open.spotify.com/user/spotify) - 126,630 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 126,713 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,16 +39,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVAWtyHQImlQ.md) - [plain]
 | 29 | [Tell It Like It Is](https://open.spotify.com/track/66BjgQodHebiX5QGpBAjyQ) | [Aaron Neville](https://open.spotify.com/artist/57ALvbCBaCkNlgTOSiUPdT) | [The Very Best Of Aaron Neville](https://open.spotify.com/album/5p30oP23JCMDwHXM7f6ECa) | 2:44 |
 | 30 | [Never My Love \- Remastered Version](https://open.spotify.com/track/32ssNweOtmacNBEC2kHzA8) | [The Association](https://open.spotify.com/artist/2kuNswDC82PL9xRbfaZJaS) | [Insight Out](https://open.spotify.com/album/1VsmbYW4XCdWje8ii0Yuta) | 3:07 |
 | 31 | [Mr\. Lonely](https://open.spotify.com/track/5KG2ahk1cONbHvg3dBdTbx) | [Bobby Vinton](https://open.spotify.com/artist/6bOYtKnpLPQSfMpS2ilotK) | [The Best Of Bobby Vinton](https://open.spotify.com/album/4qK4QZUSp8QdoMEm9mrzyA) | 2:41 |
-| 32 | [Bring It On Home To Me](https://open.spotify.com/track/4yjz1aazw6R8ZURpGbCAkp) | [Sam Cooke](https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC) | [30 Greatest Hits: Portrait of a Legend 1951\-1964](https://open.spotify.com/album/4jiO2jRz7g50ESvYYKsKwZ) | 2:45 |
-| 33 | [You'll Lose A Good Thing](https://open.spotify.com/track/5CEREcGR5WaLt40YzTQ62e) | [Barbara Lynn](https://open.spotify.com/artist/2wQyX5625x6IGls8zLLHMB) | [You'll Lose A Good Thing](https://open.spotify.com/album/1M9sGvei24wKfCC1P7CESZ) | 2:39 |
+| 32 | [You'll Lose A Good Thing](https://open.spotify.com/track/5CEREcGR5WaLt40YzTQ62e) | [Barbara Lynn](https://open.spotify.com/artist/2wQyX5625x6IGls8zLLHMB) | [You'll Lose A Good Thing](https://open.spotify.com/album/1M9sGvei24wKfCC1P7CESZ) | 2:39 |
+| 33 | [Bring It On Home To Me](https://open.spotify.com/track/4yjz1aazw6R8ZURpGbCAkp) | [Sam Cooke](https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC) | [30 Greatest Hits: Portrait of a Legend 1951\-1964](https://open.spotify.com/album/4jiO2jRz7g50ESvYYKsKwZ) | 2:45 |
 | 34 | [Anyone Who Knows What Love Is \(Will Understand\)](https://open.spotify.com/track/5GWCndQ8ykzf6rYRvwrFcj) | [Irma Thomas](https://open.spotify.com/artist/01Z8Z9K54zewyP04ZfGLSv) | [Take A Look](https://open.spotify.com/album/5yPYingqlUnFfEzbLPtrVS) | 2:56 |
 | 35 | [Your Precious Love](https://open.spotify.com/track/3uMJcNcxcp801NLwgYrj9k) | [Marvin Gaye](https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA), [Tammi Terrell](https://open.spotify.com/artist/75jNCko3SnEMI5gwGqrbb8) | [United](https://open.spotify.com/album/5LqviduT0g0J0ypFrFSwCE) | 3:07 |
 | 36 | [When a Man Loves a Woman](https://open.spotify.com/track/0GVxSbigOiKlGfI30Uw00X) | [Percy Sledge](https://open.spotify.com/artist/3rRmDmzPcAFwcUDvG5gBqO) | [When a Man Loves a Woman](https://open.spotify.com/album/5I9u0kRfmLLzTHneycOwFA) | 2:55 |
 | 37 | [Yes\. I'm Ready](https://open.spotify.com/track/2gZpW5pTZkimGG98loFSl2) | [Barbara Mason](https://open.spotify.com/artist/5PmZd7YOaUgQwhOja44fmZ) | [Yes I'm Ready](https://open.spotify.com/album/7ujKaJ1E5N76H4y9hyhTdj) | 3:04 |
 | 38 | [Baby, I'm For Real](https://open.spotify.com/track/7vI2UMCyF56ZNDbVZmKiJ2) | [The Originals](https://open.spotify.com/artist/11EZGTWr2pY0VZPlWokAbl) | [Baby, I'm For Real](https://open.spotify.com/album/3lvFua9jUjltWAqIK01Zdn) | 3:21 |
 | 39 | [Where Do You Go To \(My Lovely\) \- Re\-Recorded](https://open.spotify.com/track/6M665tf7ZKQzUFA5yOrUE4) | [Peter Sarstedt](https://open.spotify.com/artist/3ExGDjEKejMhyciAgxPe0B) | [The Lost Album](https://open.spotify.com/album/68it2FTN3u7cMWuHR4yYpu) | 4:47 |
-| 40 | [Cherish](https://open.spotify.com/track/7uGeDI6nJEdUYMsMd7mQyl) | [The Association](https://open.spotify.com/artist/2kuNswDC82PL9xRbfaZJaS) | [And Then...Along Comes](https://open.spotify.com/album/6NDt4G1QiGzMNnri4kxq6f) | 3:27 |
-| 41 | [Love Hurts \- 2007 Remaster](https://open.spotify.com/track/6hgY1l6EqrfrHRNrxwKRiK) | [The Everly Brothers](https://open.spotify.com/artist/4ACplpEqD6JIVgKrafauzs) | [A Date with The Everly Brothers](https://open.spotify.com/album/4Nro0nGcWVybv8cZXmSU4P) | 2:22 |
+| 40 | [Love Hurts \- 2007 Remaster](https://open.spotify.com/track/6hgY1l6EqrfrHRNrxwKRiK) | [The Everly Brothers](https://open.spotify.com/artist/4ACplpEqD6JIVgKrafauzs) | [A Date with The Everly Brothers](https://open.spotify.com/album/4Nro0nGcWVybv8cZXmSU4P) | 2:22 |
+| 41 | [Cherish](https://open.spotify.com/track/7uGeDI6nJEdUYMsMd7mQyl) | [The Association](https://open.spotify.com/artist/2kuNswDC82PL9xRbfaZJaS) | [And Then...Along Comes](https://open.spotify.com/album/6NDt4G1QiGzMNnri4kxq6f) | 3:27 |
 | 42 | [You Don't Have To Say You Love Me](https://open.spotify.com/track/0q8nQ0H4ad4KYcZdrTZPux) | [Dusty Springfield](https://open.spotify.com/artist/5zaXYwewAXedKNCff45U5l) | [You Don't Have To Say You Love Me](https://open.spotify.com/album/52uwBxHFIheYUU0ydCL5Hh) | 2:50 |
 | 43 | [Skyline Pigeon](https://open.spotify.com/track/5MimWt53Ukh0gcv7mC0Rnx) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Empty Sky](https://open.spotify.com/album/2AWW5zXJBwLeroqj9D5oWV) | 3:37 |
 | 44 | [Anyone Who Had a Heart \- 2003 Remaster](https://open.spotify.com/track/28Y2taEFmHofu2EsU04ILf) | [Cilla Black](https://open.spotify.com/artist/3bCvHtuIXWXPbCMdSYudmZ) | [Beginnings](https://open.spotify.com/album/1OYFI2ylkl9kluPmY4SUmD) | 2:51 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVAWtyHQImlQ.md) - [plain]
 | 49 | [Fame and Fortune \- Remastered](https://open.spotify.com/track/3KIlJMknWs4rgVztAoWUbY) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [Elvis' Golden Records, Vol\. 3](https://open.spotify.com/album/5Iec810oL6PorbyBVjLnmD) | 2:30 |
 | 50 | [Daddy's Home](https://open.spotify.com/track/6pLYCkA0j6dcjMSP4IrgxW) | [Shep](https://open.spotify.com/artist/4FrUg4jMTAlZHhBsOIYGJV), [The Limelites](https://open.spotify.com/artist/2pEAs011HTyChRqX8VR8lW) | [Doo Wop Classics Vol\. 1](https://open.spotify.com/album/74o0BLyhgBt6bvNqflYNmp) | 2:54 |
 
-Snapshot ID: `MCxhZTI2OTI3MGRiNTJlMTVhYzJlYjBlYTk0Yzc4N2E5ODM3Mjg0Nzll`
+Snapshot ID: `MCxiOWI3NjhmNzMxOWUzOWZhMTUzOWJlMzU5MDg3NDFlMDMzNDFjOGE1`

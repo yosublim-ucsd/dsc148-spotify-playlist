@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4YipRSmIneQ.md) - [plain]
 
 > 😈 turn anywhere into a sexy club 😈
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,772 likes - 50 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,880 likes - 50 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4YipRSmIneQ.md) - [plain]
 | 28 | [Boy U Nasty](https://open.spotify.com/track/4aVEsdnZrP2borAsVin48m) | [Jensen Interceptor](https://open.spotify.com/artist/30eE9RmXxzCcZKTf4N2O0e), [DJ Fuckoff](https://open.spotify.com/artist/47fPXXrqnkQcaQ951UA3cm) | [Dance Trax, Vol\. 36](https://open.spotify.com/album/3PanJjGGUoTU6PH9y3S1PT) | 5:32 |
 | 29 | [I'm Perfect](https://open.spotify.com/track/3YK1uAScUpCaFNCn004pm6) | [Chase Icon](https://open.spotify.com/artist/5XPJP6zfXVlPJtO4QSsSmQ) | [I'm Perfect](https://open.spotify.com/album/4l3Twapn6OepVAOHDPtmT3) | 2:46 |
 | 30 | [Pop That](https://open.spotify.com/track/1EpF7SUZOEdYXAJF6QC43Z) | [Shermanology](https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI) | [Pop That](https://open.spotify.com/album/1Lr2J72KaKx1RinFIQoiEX) | 3:37 |
-| 31 | [Microdosing](https://open.spotify.com/track/6JtT4a0Z406dz7A2f2vGBe) | [UNIIQU3](https://open.spotify.com/artist/5aR8qSaApKChlZvzB0Jfpx) | [Microdosing](https://open.spotify.com/album/1MYkpVa9Y1YCoKrlfWHjeW) | 3:58 |
-| 32 | [Horsey](https://open.spotify.com/track/6QK2oI4RCtxzCWzyffwlPP) | [Alex Chapman](https://open.spotify.com/artist/3c8wfedCs5BJGHcFyusyeh), [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Horsey](https://open.spotify.com/album/7dlCLHgCNz5vyliNZf8XNv) | 2:17 |
+| 31 | [Horsey](https://open.spotify.com/track/6QK2oI4RCtxzCWzyffwlPP) | [Alex Chapman](https://open.spotify.com/artist/3c8wfedCs5BJGHcFyusyeh), [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Horsey](https://open.spotify.com/album/7dlCLHgCNz5vyliNZf8XNv) | 2:17 |
+| 32 | [Microdosing](https://open.spotify.com/track/6JtT4a0Z406dz7A2f2vGBe) | [UNIIQU3](https://open.spotify.com/artist/5aR8qSaApKChlZvzB0Jfpx) | [Microdosing](https://open.spotify.com/album/1MYkpVa9Y1YCoKrlfWHjeW) | 3:58 |
 | 33 | [Hoe](https://open.spotify.com/track/6Alnnwoyf0MVnOZME6p6TD) | [Partiboi69](https://open.spotify.com/artist/0CutULGVZ24wOr1HHYoEOL), [CHRIST DILLINGER](https://open.spotify.com/artist/5wtRHmD5xeAYuwxiteR5t3) | [Hoe](https://open.spotify.com/album/2CtMkQOUMEtPUiG5pSBtQl) | 4:43 |
 | 34 | [Cunty \- Wave Edit](https://open.spotify.com/track/5Dy9iOGAYzppHgWcLzZSBe) | [Kevin Aviance](https://open.spotify.com/artist/1tPCPj6UWSQ3VSQ8xwZ4ZJ) | [Box of Chocolates](https://open.spotify.com/album/1iIC7QKwsTtWNRV7NxfrK5) | 4:17 |
 | 35 | [FMU \(feat\. Rico Nasty & Boys Noize\)](https://open.spotify.com/track/5AD8DWoQa4NGe2WagH4YF2) | [Brooke Candy](https://open.spotify.com/artist/3amwMyDd1uxTBoUZlazZ9m), [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU), [Boys Noize](https://open.spotify.com/artist/62k5LKMhymqlDNo2DWOvvv) | [SEXORCISM](https://open.spotify.com/album/5IV5QYzpZA1oI7FK0HfBxL) | 2:58 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4YipRSmIneQ.md) - [plain]
 | 49 | [CO1N](https://open.spotify.com/track/3Oh4rpQGw4rPbs09o04YXZ) | [LVL1](https://open.spotify.com/artist/5cIVFxPSiXer2MuaoEATkJ) | [CO1N](https://open.spotify.com/album/21DWVujXLDiBamWYmop1fA) | 3:17 |
 | 50 | [Hummer](https://open.spotify.com/track/4ewmSKVCdsKn7YORFhDUAS) | [Juicy Romance](https://open.spotify.com/artist/55RZaB7LJnx3sXeyVJXB2e) | [Hummer](https://open.spotify.com/album/2iT8KeGh5G7yOtdnWL3U1q) | 3:54 |
 
-Snapshot ID: `MCwwNWE2MDcwNWZiZWRmZjFmMzU5NzJkYWIyNWNjMDEwNWJhNGI0ZDMy`
+Snapshot ID: `MCw3OGJmODI3OGEyZmUxNjQ0ODFjZjNhZWY1OTI4YjFhYTc3MTM5MTg2`

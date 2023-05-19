@@ -2022,7 +2022,7 @@
       ],
       "date_added": "2023-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 262460,
       "name": "Ostend",
       "url": "https://open.spotify.com/track/7qL6fzjiN5TZ8ULxKbbmcA"
@@ -2080,6 +2080,24 @@
       "duration_ms": 358080,
       "name": "Pajo",
       "url": "https://open.spotify.com/track/27hWUgRmRzZXK4xpWhdhAj"
+    },
+    {
+      "album": {
+        "name": "Spam vol.1",
+        "url": "https://open.spotify.com/album/32kUn5j1n7MfSBNAXV6zUy"
+      },
+      "artists": [
+        {
+          "name": "KVR",
+          "url": "https://open.spotify.com/artist/46ExxwNgHEKxA2mRzQhdXo"
+        }
+      ],
+      "date_added": "2023-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 430967,
+      "name": "Paljas",
+      "url": "https://open.spotify.com/track/3DoLySSn6cpIBUgYcImbeQ"
     },
     {
       "album": {

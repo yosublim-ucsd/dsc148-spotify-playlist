@@ -16,7 +16,7 @@
       ],
       "date_added": "2023-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 215866,
       "name": "18",
       "url": "https://open.spotify.com/track/20bxks5amfv7rVf8D6a1r7"
@@ -484,6 +484,24 @@
       "duration_ms": 128776,
       "name": "Green Green Grass - Sped-Up",
       "url": "https://open.spotify.com/track/1gGeEcwqBNxVqjzjAWvS4N"
+    },
+    {
+      "album": {
+        "name": "Hare Hare",
+        "url": "https://open.spotify.com/album/0ymqvaOiilJa797C3Y2mZh"
+      },
+      "artists": [
+        {
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
+        }
+      ],
+      "date_added": "2023-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203546,
+      "name": "Hare Hare",
+      "url": "https://open.spotify.com/track/0h3dJV8JA5oxPzSF4tkz2t"
     },
     {
       "album": {
@@ -966,7 +984,7 @@
       ],
       "date_added": "2023-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 128000,
       "name": "meow bell",
       "url": "https://open.spotify.com/track/0u8kiQsb059uWLMxL5Foio"
@@ -1342,7 +1360,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 181680,
       "name": "SET ME FREE",
       "url": "https://open.spotify.com/track/4OtVQ2ZxS7yigIjGz5yKg1"
@@ -1957,6 +1975,24 @@
     },
     {
       "album": {
+        "name": "\u30ab\u30fc\u30c6\u30f3",
+        "url": "https://open.spotify.com/album/00wLiXEu30HBl4chuWgO7o"
+      },
+      "artists": [
+        {
+          "name": "\u60a0\u99ac",
+          "url": "https://open.spotify.com/artist/47kIb7z5wndfkWHdRN34kO"
+        }
+      ],
+      "date_added": "2023-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201324,
+      "name": "\u30ab\u30fc\u30c6\u30f3",
+      "url": "https://open.spotify.com/track/4CFKfOLJho0WBEdb5CG3JK"
+    },
+    {
+      "album": {
         "name": "\u30b1\u30bb\u30e9\u30bb\u30e9",
         "url": "https://open.spotify.com/album/2Qo9j2bmgZlGOkismqdPpN"
       },
@@ -2188,6 +2224,24 @@
       "duration_ms": 214000,
       "name": "\u30d4\u30ea\u30aa\u30c9",
       "url": "https://open.spotify.com/track/2W8JpBzB3rVus7hAdkQ4rx"
+    },
+    {
+      "album": {
+        "name": "\u30d5\u30a1\u30b8\u30fc\u30cd\u30fc\u30d6\u30eb",
+        "url": "https://open.spotify.com/album/4XCDzm6lz0QvcTVozUmNHe"
+      },
+      "artists": [
+        {
+          "name": "Conton Candy",
+          "url": "https://open.spotify.com/artist/6FuFgQvi3GNYr4yDuh4Fxq"
+        }
+      ],
+      "date_added": "2023-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237400,
+      "name": "\u30d5\u30a1\u30b8\u30fc\u30cd\u30fc\u30d6\u30eb",
+      "url": "https://open.spotify.com/track/7gUuCeZLFynSj28GCjoiGG"
     },
     {
       "album": {

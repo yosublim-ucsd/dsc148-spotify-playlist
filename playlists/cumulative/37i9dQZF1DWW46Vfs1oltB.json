@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The fresh & hottest K-Hip hop tracks. (Cover:\bMIRANI(\ubbf8\ub780\uc774)))",
+  "description": "The fresh & hottest K-Hip hop tracks. (Cover:\bSik-K, HAON)",
   "name": "KrOWN",
   "tracks": [
     {
@@ -1960,6 +1960,24 @@
       "duration_ms": 115331,
       "name": "Bleed (prod. dayever)",
       "url": "https://open.spotify.com/track/59wgGAvqamOjyMvIw9E3uX"
+    },
+    {
+      "album": {
+        "name": "Blessin",
+        "url": "https://open.spotify.com/album/5zOByi7iocKtWjuY8g0Q3v"
+      },
+      "artists": [
+        {
+          "name": "NSW yoon",
+          "url": "https://open.spotify.com/artist/6xlIFpRmRNDoVuFUqzuMFE"
+        }
+      ],
+      "date_added": "2023-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113084,
+      "name": "Blessin",
+      "url": "https://open.spotify.com/track/2zGPJuadZyPGeVILObLb0o"
     },
     {
       "album": {
@@ -11262,6 +11280,28 @@
       "duration_ms": 172137,
       "name": "MAYBACH (Feat. CK & SC4F)",
       "url": "https://open.spotify.com/track/4maK1oiwgxl4hL05tsGLRI"
+    },
+    {
+      "album": {
+        "name": "ALBUM ON THE WAY!",
+        "url": "https://open.spotify.com/album/04XXB9lcA6N9UN4CmsAh2g"
+      },
+      "artists": [
+        {
+          "name": "Sik-K",
+          "url": "https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn"
+        },
+        {
+          "name": "HAON",
+          "url": "https://open.spotify.com/artist/2krUNMgFZYm5s4Nn0g91W9"
+        }
+      ],
+      "date_added": "2023-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180360,
+      "name": "MAYBE I'M KCRAZY",
+      "url": "https://open.spotify.com/track/3G44OrPcpP7NG8yb92bhnr"
     },
     {
       "album": {

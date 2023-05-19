@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/79mpaUsn0LPGUyCkBRnSgZ.md) - [plain]
 
 > albums i plan to listen to eventually
 
-[Zack Amiton](https://open.spotify.com/user/6rcq1j21davq3yhbk1t0l5xnt) - 1 like - 198 songs - 12 hr 27 min
+[Zack Amiton](https://open.spotify.com/user/6rcq1j21davq3yhbk1t0l5xnt) - 1 like - 203 songs - 12 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -206,5 +206,10 @@ pretty - [cumulative](/playlists/cumulative/79mpaUsn0LPGUyCkBRnSgZ.md) - [plain]
 | 196 | [Everyday](https://open.spotify.com/track/0ameyezi8mF5HdFqBp7DLF) | [Yo La Tengo](https://open.spotify.com/artist/5hAhrnb0Ch4ODwWu4tsbpi) | [And Then Nothing Turned Itself Inside\-Out](https://open.spotify.com/album/5iVEe1GHMtvUHwwqArThFa) | 6:31 |
 | 197 | [Decora](https://open.spotify.com/track/4AAbuMTQKLT3ls8Maztnbn) | [Yo La Tengo](https://open.spotify.com/artist/5hAhrnb0Ch4ODwWu4tsbpi) | [Electr\-o\-pura](https://open.spotify.com/album/4z0y72X6GLvi4EOlezrFS9) | 3:26 |
 | 198 | [Pretty Hurts](https://open.spotify.com/track/6itVTFZWfIA9J6XJaC1eMT) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [BEYONCÉ](https://open.spotify.com/album/5JSDDzvVmUX1axvnUH3ZJy) | 4:17 |
+| 199 | [Hopeless Romantic](https://open.spotify.com/track/545SZZYmeuSlM9biS7uZjf) | [tobi lou](https://open.spotify.com/artist/4T8NIfZmVY6TJFqVzN6X49) | [Non\-Perishable](https://open.spotify.com/album/4g1NDArjCjyWXEWIbOhG8M) | 2:56 |
+| 200 | [100 Degrees](https://open.spotify.com/track/1DPIqXc2BfJWWgCy0Tc2lr) | [tobi lou](https://open.spotify.com/artist/4T8NIfZmVY6TJFqVzN6X49) | [Live on Ice](https://open.spotify.com/album/6K7SjlIebufubxXGf4uA7a) | 4:25 |
+| 201 | [Bonito Intro](https://open.spotify.com/track/5b1S06C3AuUOelyne3OJEw) | [Kero Kero Bonito](https://open.spotify.com/artist/6OqhFYFJDnBBHas02HopPT) | [Intro Bonito](https://open.spotify.com/album/3s3PEd50fVx2qXMNgPy0uD) | 0:50 |
+| 202 | [Waking Up](https://open.spotify.com/track/6d5KjyeBSbzh6bbczubWko) | [Kero Kero Bonito](https://open.spotify.com/artist/6OqhFYFJDnBBHas02HopPT) | [Bonito Generation](https://open.spotify.com/album/0dAMC0nNikIjhD8LeRZfhH) | 2:57 |
+| 203 | [The View From The Afternoon](https://open.spotify.com/track/4wSWZjWH7a5eVxskGxO13w) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [Whatever People Say I Am, That's What I'm Not](https://open.spotify.com/album/0ndGMh4twJNzPpr5XtHTR2) | 3:42 |
 
-Snapshot ID: `ODQ5LGJmY2UxZDlkOGNjOWVjYzBkNjQ2Njk0NmQ1MzYzNzA0ODYwNzM1ZWM=`
+Snapshot ID: `ODU0LDNjODFkZDZmYmEwNWQwMTQ0ZWQ3ZjI4NGFhMjBiODAxNDZkMzNkYzc=`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaL8gtxi9eun.md) - [plain]
 
 > Most adored pop hits from the Middle East and North Africa\. Cover: Hussain Aljassmi
 
-[Spotify](https://open.spotify.com/user/spotify) - 94,041 likes - 50 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 94,258 likes - 50 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaL8gtxi9eun.md) - [plain]
 | 49 | [Mansethosh Men Mosalsal El Aghar](https://open.spotify.com/track/6MlT8xS8aHcgbqLQMJhywZ) | [Ahmed Saad](https://open.spotify.com/artist/5D2ui1KD49TfyCDb35zf5V) | [Mansethosh Men Mosalsal El Aghar](https://open.spotify.com/album/1rZN80PcHL3z8cS9X0RyAx) | 4:00 |
 | 50 | [اصعد للكمر](https://open.spotify.com/track/6ZKcyeppoycSkUn2FNPco2) | [Rahma Riad](https://open.spotify.com/artist/1JrJQz0AlGYbLxBnOEWfLx) | [اصعد للكمر](https://open.spotify.com/album/4IpLAgv5vUkUT9yX2LK3QA) | 3:04 |
 
-Snapshot ID: `MCw3ZWY5N2RmMGQ0YWJiYjRkMjMxYmQyNjNkZTFmNGRlODEzZDhlM2Jk`
+Snapshot ID: `MCw3Mjc4NzMxNzc3OWFhNDZhYWE5OWMwOTRkZjczOGNiZjhhMTMzMzEw`

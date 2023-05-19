@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWZJHBoz7SEG.md) - [plain]
 
 > ¡Shakira, Jonas Brothers, Daft Punk, Ed Sheeran, TWICE, de todo un poco para estar al día con las novedades musicales!
 
-[Spotify](https://open.spotify.com/user/spotify) - 775,365 likes - 50 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 775,520 likes - 50 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWZJHBoz7SEG.md) - [plain]
 | 49 | [Soy Lo Que Soy](https://open.spotify.com/track/03N5m5KTMjFBgkGmcIBYbE) | [Los Eclipses](https://open.spotify.com/artist/21EtvnD59JJJiUP0qZP7WY), [Eva de Marce](https://open.spotify.com/artist/1UgwU7ChXfMkwH9t6ivW2E), [Dan Solo](https://open.spotify.com/artist/7E1ZwNnXreZgJpmTNUJva7) | [Soy Lo Que Soy](https://open.spotify.com/album/2KoUblftfivjCqZUVP0zB5) | 3:42 |
 | 50 | [odio esta casa \(cuando te vas\)](https://open.spotify.com/track/2gz0jf6QA7EhF8P29AUYbE) | [Carlos Colosio](https://open.spotify.com/artist/2kAfu4SJeTLKbvAnjbT2Au) | [odio esta casa \(cuando te vas\)](https://open.spotify.com/album/13BfMjOrCPVMQsaz89js8b) | 3:14 |
 
-Snapshot ID: `MCwzZTdkZjg1M2E1ZTNhNTljM2I2MzFmNDUyMTdlOTg5ZjM0MGQzY2Rk`
+Snapshot ID: `MCwzY2UwYjI2NDFiNzRiZDQ1ZmRjMDUwZDNjYjFkNWFmNjcwOTc4ZjAw`

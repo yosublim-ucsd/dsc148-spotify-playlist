@@ -1,12 +1,12 @@
 {
   "description": "2010 highlights from the home of indie music. Cover: Gorillaz.",
-  "num_followers": 170313,
+  "num_followers": 170656,
   "original_name": "Best of Indie 2010",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0YWMyNjQxNDg1YTlkNzAwNTQ1ZTg3ODIwZTgyN2UwMTI3YzJlOWQz",
+  "snapshot_id": "MCwyYmE1ZTMwZDg1OWM2NWJiY2U3YWRmMzBiZTliM2RjNGRkM2NlZjVm",
   "tracks": [
     {
       "added_at": "2021-10-05 08:40:49",
@@ -123,22 +123,6 @@
     {
       "added_at": "2021-10-05 08:40:49",
       "album": {
-        "name": "Teen Dream",
-        "url": "https://open.spotify.com/album/51AxfjN2gEt5qeJqPY5w0e"
-      },
-      "artists": [
-        {
-          "name": "Beach House",
-          "url": "https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY"
-        }
-      ],
-      "duration_ms": 298680,
-      "name": "Silver Soul",
-      "url": "https://open.spotify.com/track/2LZ2CNbcbJrwh53pitRgom"
-    },
-    {
-      "added_at": "2021-10-05 08:40:49",
-      "album": {
         "name": "Down the Way",
         "url": "https://open.spotify.com/album/78BXB0tWspQKtatJK5DTXZ"
       },
@@ -151,6 +135,22 @@
       "duration_ms": 239146,
       "name": "Big Jet Plane",
       "url": "https://open.spotify.com/track/3WGsYiBXmaT8XyY4Fmry2v"
+    },
+    {
+      "added_at": "2021-10-05 08:40:49",
+      "album": {
+        "name": "Teen Dream",
+        "url": "https://open.spotify.com/album/51AxfjN2gEt5qeJqPY5w0e"
+      },
+      "artists": [
+        {
+          "name": "Beach House",
+          "url": "https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY"
+        }
+      ],
+      "duration_ms": 298680,
+      "name": "Silver Soul",
+      "url": "https://open.spotify.com/track/2LZ2CNbcbJrwh53pitRgom"
     },
     {
       "added_at": "2021-10-05 08:40:49",
@@ -967,22 +967,6 @@
     {
       "added_at": "2021-10-05 08:40:49",
       "album": {
-        "name": "Tourist History",
-        "url": "https://open.spotify.com/album/0wNjC8d3ve2L2yaomEWUsa"
-      },
-      "artists": [
-        {
-          "name": "Two Door Cinema Club",
-          "url": "https://open.spotify.com/artist/536BYVgOnRky0xjsPT96zl"
-        }
-      ],
-      "duration_ms": 214253,
-      "name": "Cigarettes In the Theatre",
-      "url": "https://open.spotify.com/track/1pdbW0f7avXN6Uwj9JroFY"
-    },
-    {
-      "added_at": "2021-10-05 08:40:49",
-      "album": {
         "name": "Brothers",
         "url": "https://open.spotify.com/album/7qE6RXYyz5kj5Tll7mJU0v"
       },
@@ -995,6 +979,22 @@
       "duration_ms": 186000,
       "name": "She's Long Gone",
       "url": "https://open.spotify.com/track/26ZnmGlPGXaOzPDydAP9D5"
+    },
+    {
+      "added_at": "2021-10-05 08:40:49",
+      "album": {
+        "name": "Tourist History",
+        "url": "https://open.spotify.com/album/0wNjC8d3ve2L2yaomEWUsa"
+      },
+      "artists": [
+        {
+          "name": "Two Door Cinema Club",
+          "url": "https://open.spotify.com/artist/536BYVgOnRky0xjsPT96zl"
+        }
+      ],
+      "duration_ms": 214253,
+      "name": "Cigarettes In the Theatre",
+      "url": "https://open.spotify.com/track/1pdbW0f7avXN6Uwj9JroFY"
     },
     {
       "added_at": "2021-10-05 08:40:49",
@@ -1191,18 +1191,18 @@
     {
       "added_at": "2021-10-05 08:40:49",
       "album": {
-        "name": "The Wild Hunt",
-        "url": "https://open.spotify.com/album/2iZD3ggZbHlAg64cM9iQco"
+        "name": "Forgiveness Rock Record",
+        "url": "https://open.spotify.com/album/5hzEg6FhiOIXHufj0EithW"
       },
       "artists": [
         {
-          "name": "The Tallest Man On Earth",
-          "url": "https://open.spotify.com/artist/2BpAc5eK7Rz5GAwSp9UYXa"
+          "name": "Broken Social Scene",
+          "url": "https://open.spotify.com/artist/7lOJ7WXyopaxri0dbOiZkd"
         }
       ],
-      "duration_ms": 206186,
-      "name": "King of Spain",
-      "url": "https://open.spotify.com/track/7nf794AzR4NDuhNOnkJoOd"
+      "duration_ms": 309306,
+      "name": "Sweetest Kill",
+      "url": "https://open.spotify.com/track/488u1IbVEsaC7fxjABWjHx"
     },
     {
       "added_at": "2021-10-05 08:40:49",
@@ -1223,18 +1223,18 @@
     {
       "added_at": "2021-10-05 08:40:49",
       "album": {
-        "name": "Forgiveness Rock Record",
-        "url": "https://open.spotify.com/album/5hzEg6FhiOIXHufj0EithW"
+        "name": "The Wild Hunt",
+        "url": "https://open.spotify.com/album/2iZD3ggZbHlAg64cM9iQco"
       },
       "artists": [
         {
-          "name": "Broken Social Scene",
-          "url": "https://open.spotify.com/artist/7lOJ7WXyopaxri0dbOiZkd"
+          "name": "The Tallest Man On Earth",
+          "url": "https://open.spotify.com/artist/2BpAc5eK7Rz5GAwSp9UYXa"
         }
       ],
-      "duration_ms": 309306,
-      "name": "Sweetest Kill",
-      "url": "https://open.spotify.com/track/488u1IbVEsaC7fxjABWjHx"
+      "duration_ms": 206186,
+      "name": "King of Spain",
+      "url": "https://open.spotify.com/track/7nf794AzR4NDuhNOnkJoOd"
     },
     {
       "added_at": "2021-10-05 08:40:49",
@@ -1287,18 +1287,18 @@
     {
       "added_at": "2021-10-05 08:40:49",
       "album": {
-        "name": "King of the Beach",
-        "url": "https://open.spotify.com/album/7Mn0aXVHjaoFZPKLssqI9d"
+        "name": "Crystal Castles (II)",
+        "url": "https://open.spotify.com/album/3VsZ5nZGgyH30IDaCP4GeQ"
       },
       "artists": [
         {
-          "name": "Wavves",
-          "url": "https://open.spotify.com/artist/6bUJpbekaIlq2fT5FMV2mQ"
+          "name": "Crystal Castles",
+          "url": "https://open.spotify.com/artist/7K3zpFXBvPcvzhj7zlGJdO"
         }
       ],
-      "duration_ms": 158106,
-      "name": "King of the Beach",
-      "url": "https://open.spotify.com/track/1CHL6sjDwpivvA4LE0lsww"
+      "duration_ms": 251440,
+      "name": "Baptism",
+      "url": "https://open.spotify.com/track/4GJTbB9FNkGkvf6dxl22qW"
     },
     {
       "added_at": "2021-10-05 08:40:49",
@@ -1319,6 +1319,22 @@
     {
       "added_at": "2021-10-05 08:40:49",
       "album": {
+        "name": "King of the Beach",
+        "url": "https://open.spotify.com/album/7Mn0aXVHjaoFZPKLssqI9d"
+      },
+      "artists": [
+        {
+          "name": "Wavves",
+          "url": "https://open.spotify.com/artist/6bUJpbekaIlq2fT5FMV2mQ"
+        }
+      ],
+      "duration_ms": 158106,
+      "name": "King of the Beach",
+      "url": "https://open.spotify.com/track/1CHL6sjDwpivvA4LE0lsww"
+    },
+    {
+      "added_at": "2021-10-05 08:40:49",
+      "album": {
         "name": "/\\/\\ /\\ Y /\\",
         "url": "https://open.spotify.com/album/7BIbGgOmGMhLscZqowMSDV"
       },
@@ -1331,22 +1347,6 @@
       "duration_ms": 247493,
       "name": "BORN FREE",
       "url": "https://open.spotify.com/track/4KK5zXPdms6SRj1uZn1cmn"
-    },
-    {
-      "added_at": "2021-10-05 08:40:49",
-      "album": {
-        "name": "Fields (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/2S81NPoxd3E2gd261BSo5X"
-      },
-      "artists": [
-        {
-          "name": "Junip",
-          "url": "https://open.spotify.com/artist/7HcipAIJatVGT4U6HQrnFW"
-        }
-      ],
-      "duration_ms": 166200,
-      "name": "Far Away",
-      "url": "https://open.spotify.com/track/3YlFtz805JwhDGy0fLasBO"
     },
     {
       "added_at": "2021-10-05 08:40:49",
@@ -1367,6 +1367,22 @@
     {
       "added_at": "2021-10-05 08:40:49",
       "album": {
+        "name": "Fields (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2S81NPoxd3E2gd261BSo5X"
+      },
+      "artists": [
+        {
+          "name": "Junip",
+          "url": "https://open.spotify.com/artist/7HcipAIJatVGT4U6HQrnFW"
+        }
+      ],
+      "duration_ms": 166200,
+      "name": "Far Away",
+      "url": "https://open.spotify.com/track/3YlFtz805JwhDGy0fLasBO"
+    },
+    {
+      "added_at": "2021-10-05 08:40:49",
+      "album": {
         "name": "Down the Way",
         "url": "https://open.spotify.com/album/78BXB0tWspQKtatJK5DTXZ"
       },
@@ -1379,22 +1395,6 @@
       "duration_ms": 395613,
       "name": "Draw Your Swords",
       "url": "https://open.spotify.com/track/0m6DFmtVCFmtAEdkO9KqUK"
-    },
-    {
-      "added_at": "2021-10-05 08:40:49",
-      "album": {
-        "name": "Crystal Castles (II)",
-        "url": "https://open.spotify.com/album/3VsZ5nZGgyH30IDaCP4GeQ"
-      },
-      "artists": [
-        {
-          "name": "Crystal Castles",
-          "url": "https://open.spotify.com/artist/7K3zpFXBvPcvzhj7zlGJdO"
-        }
-      ],
-      "duration_ms": 251440,
-      "name": "Baptism",
-      "url": "https://open.spotify.com/track/4GJTbB9FNkGkvf6dxl22qW"
     },
     {
       "added_at": "2021-10-05 08:40:49",
@@ -1463,6 +1463,22 @@
     {
       "added_at": "2021-10-05 08:40:49",
       "album": {
+        "name": "Down the Way",
+        "url": "https://open.spotify.com/album/78BXB0tWspQKtatJK5DTXZ"
+      },
+      "artists": [
+        {
+          "name": "Angus & Julia Stone",
+          "url": "https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr"
+        }
+      ],
+      "duration_ms": 319533,
+      "name": "For You",
+      "url": "https://open.spotify.com/track/60wcxIoRFqx9kVE87j562F"
+    },
+    {
+      "added_at": "2021-10-05 08:40:49",
+      "album": {
         "name": "Transference",
         "url": "https://open.spotify.com/album/5ypZiViPNDX7ahiPSWQYTW"
       },
@@ -1475,22 +1491,6 @@
       "duration_ms": 238853,
       "name": "Got Nuffin",
       "url": "https://open.spotify.com/track/0n2tnCMIlM8Z58NPdXzlQe"
-    },
-    {
-      "added_at": "2021-10-05 08:40:49",
-      "album": {
-        "name": "Fields (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/2S81NPoxd3E2gd261BSo5X"
-      },
-      "artists": [
-        {
-          "name": "Junip",
-          "url": "https://open.spotify.com/artist/7HcipAIJatVGT4U6HQrnFW"
-        }
-      ],
-      "duration_ms": 239293,
-      "name": "Don't Let It Pass",
-      "url": "https://open.spotify.com/track/1ghaBtBdpuZMg5nV9E2qRU"
     },
     {
       "added_at": "2022-09-05 11:29:45",
@@ -1511,18 +1511,18 @@
     {
       "added_at": "2021-10-05 08:40:49",
       "album": {
-        "name": "Down the Way",
-        "url": "https://open.spotify.com/album/78BXB0tWspQKtatJK5DTXZ"
+        "name": "Fields (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2S81NPoxd3E2gd261BSo5X"
       },
       "artists": [
         {
-          "name": "Angus & Julia Stone",
-          "url": "https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr"
+          "name": "Junip",
+          "url": "https://open.spotify.com/artist/7HcipAIJatVGT4U6HQrnFW"
         }
       ],
-      "duration_ms": 319533,
-      "name": "For You",
-      "url": "https://open.spotify.com/track/60wcxIoRFqx9kVE87j562F"
+      "duration_ms": 239293,
+      "name": "Don't Let It Pass",
+      "url": "https://open.spotify.com/track/1ghaBtBdpuZMg5nV9E2qRU"
     },
     {
       "added_at": "2021-10-05 08:40:49",

@@ -2,9 +2,9 @@
 
 ### [Na Zona](https://open.spotify.com/playlist/37i9dQZF1DXdpF2suW27SP)
 
-> Chico da Tina e tripsyhell entram na zona.
+> Ivandro e Julinho Ksd entram na zona.
 
-270 songs - 14 hr 44 min
+272 songs - 14 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,6 +37,7 @@
 | [Atrevido](https://open.spotify.com/track/5mB4UQn41Z70o7PXiINlj4) | [DreNaz](https://open.spotify.com/artist/5urWzy2mamyT5sMTE5H00O) | [Atrevido](https://open.spotify.com/album/2GJL9wTnxxyxMUdX4ffKk8) | 2:52 | 2022-07-16 | 2022-10-28 |
 | [Aulas e Cursos](https://open.spotify.com/track/2ABBlgwXo68orcunvBYYiY) | [DNASTY](https://open.spotify.com/artist/2wRZGo2e20INyHf8wtVPVn) | [Aulas e Cursos](https://open.spotify.com/album/1xP900BTjxxWc641y9UKvr) | 3:33 | 2022-07-16 |  |
 | [AZTECA](https://open.spotify.com/track/6l8p2VaXEt2oNnzBl2GqIx) | [ProfJam](https://open.spotify.com/artist/3DhsjXVgWmA6X26tUugAjP) | [AZTECA](https://open.spotify.com/album/4ALG22jONW3Qu8UmTUymwy) | 2:31 | 2022-10-13 | 2023-01-27 |
+| [Bailarina 2](https://open.spotify.com/track/2Pei7rzUWupgWq3HeF8KOv) | [Dezinho](https://open.spotify.com/artist/6HV1KRb1BBx4VgcXyBmXxA) | [Bailarina 2](https://open.spotify.com/album/3MrYzIwKpAQ7KdjFzysWyd) | 3:09 | 2023-05-18 |  |
 | [BAL4DA 2UM CAR0XO](https://open.spotify.com/track/0uQU529W8MgYYElqJCMdph) | [X\-Tense](https://open.spotify.com/artist/7JajP35zM35gnAvTZbwxDF), [Dave Wolf Rodriguez](https://open.spotify.com/artist/3Zg1i5VdkGHFtEi8xHP0tB) | [BAL4DA 2UM CAR0XO](https://open.spotify.com/album/0Y2hXrh13HOLu6lh30chRo) | 4:42 | 2022-09-15 | 2023-02-24 |
 | [BANCO](https://open.spotify.com/track/3RTd3yPjBXaixbkb8XK0TA) | [Achero](https://open.spotify.com/artist/7L8DLzR5RuMizLVu9Ww0cs) | [BANCO](https://open.spotify.com/album/0wgol9HH17yus9n9WVJOTf) | 2:56 | 2022-08-01 | 2022-11-18 |
 | [Bandidas](https://open.spotify.com/track/6MEZbtP3lg3mHnE9LzZn4S) | [Instinto 26](https://open.spotify.com/artist/0XrDy5XUWRVcD4O8sSyzEV), [Julinho Ksd](https://open.spotify.com/artist/7kR1Yw4RqYhhDD3a8QRyG6), [Kibow](https://open.spotify.com/artist/09R2ZnVOtZJjYH5CkDkA0M), [Yuran](https://open.spotify.com/artist/3zvbATHitSjEZ54l7QnJN0), [Trista](https://open.spotify.com/artist/1hsrQJC4A7sVS6wOwTxRxw) | [Bandidas](https://open.spotify.com/album/3GOXhstBnGiQbQylnIWEnq) | 3:30 | 2022-07-16 | 2022-11-25 |
@@ -193,7 +194,7 @@
 | [Organizado](https://open.spotify.com/track/1FTJvIgz0acH0FG05tYhoG) | [Uzzy](https://open.spotify.com/artist/2Ia5AqFe2PZmGirbLc7zMi), [Hernani Kalash](https://open.spotify.com/artist/7LBXbj2Z6ue2B3e5aOfh45), [Baqui](https://open.spotify.com/artist/58C760a9ilHpAsmFLH5aSA) | [Organizado](https://open.spotify.com/album/2r5WTwX3s2P2paWtBfCsgd) | 2:57 | 2022-09-22 | 2022-10-21 |
 | [Oskey](https://open.spotify.com/track/2lN7q4luqmYcwHqRwy0Sod) | [Danni Gato](https://open.spotify.com/artist/0gn6QcKMo0cMWKbiPGEeVy), [Milo & Fabio](https://open.spotify.com/artist/2IzIiYJmzVIbf1nlOVuMBo) | [Oskey](https://open.spotify.com/album/2zKEKLIN2tT7d887qrR4Ex) | 3:18 | 2022-11-11 |  |
 | [Outlaw](https://open.spotify.com/track/6UaCjLO6yRRWgxNZJKNTby) | [Sassa G](https://open.spotify.com/artist/26zYpaoCbWbUrbu0v1EGYC) | [Outlaw](https://open.spotify.com/album/76ly6uvxOSgroiTF89n6PE) | 3:25 | 2022-10-20 | 2023-01-06 |
-| [Overdose](https://open.spotify.com/track/24q8cZ35Z6ISOcnlLVlU5w) | [Waze](https://open.spotify.com/artist/0CHentDviLeOrlfyu96uVm) | [Overdose](https://open.spotify.com/album/43ghXAl52nmndKZZdlvf90) | 3:56 | 2023-03-24 |  |
+| [Overdose](https://open.spotify.com/track/24q8cZ35Z6ISOcnlLVlU5w) | [Waze](https://open.spotify.com/artist/0CHentDviLeOrlfyu96uVm) | [Overdose](https://open.spotify.com/album/43ghXAl52nmndKZZdlvf90) | 3:56 | 2023-03-24 | 2023-05-19 |
 | [Oxigénio \(feat\. LON3R JOHNY & Piri\_bxd\)](https://open.spotify.com/track/1xZAXX6f4odgAXtd1zLvmo) | [Bispo](https://open.spotify.com/artist/3LZCMaZWwvhYyQeEfWgVdY), [D'ay](https://open.spotify.com/artist/65pBw5z7QlvhAGZvlzjmWA), [LON3R JOHNY](https://open.spotify.com/artist/1fV7Au7ymGP3uhDV1TfjSd), [Piri\_bxd](https://open.spotify.com/artist/3ZS6P4TT29hji0nd1UM8pR) | [Oxigénio \(feat\. LON3R JOHNY & Piri\_bxd\)](https://open.spotify.com/album/1S0YjdOZZYAgwCz66yMQ8N) | 4:39 | 2022-07-16 | 2022-11-25 |
 | [Paname](https://open.spotify.com/track/4yLbgYPH38Wch2tBnAqyuX) | [Vado Más Ki Ás](https://open.spotify.com/artist/6HmLPYedWhpFhiF8BonrMG), [Pilax](https://open.spotify.com/artist/6CxMJ6L0DQR8GDFlkmYTth) | [Paname](https://open.spotify.com/album/0ynJhAp61I2Lsn6pli85WU) | 3:17 | 2022-10-20 | 2023-01-27 |
 | [Papaia](https://open.spotify.com/track/17MPtgaJHgr2WlJVyhA6kw) | [Dillaz](https://open.spotify.com/artist/15p1isN7VcGsjeSq8s9YeP) | [Oitavo Céu](https://open.spotify.com/album/0Hm4SvANwPDIBdDPnN97rf) | 3:02 | 2022-07-16 | 2023-04-21 |
@@ -216,6 +217,7 @@
 | [Pão na Mesa \(feat\. Richie Campbell\)](https://open.spotify.com/track/46Pfb5oErr8WVn3frcXybC) | [Plutonio](https://open.spotify.com/artist/39HJXjH5hKcCzaU0g6mv8G), [Richie Campbell](https://open.spotify.com/artist/2swvbEAfN70ZFcQB4Y7MaS) | [Trilogia Pão Na Mesa](https://open.spotify.com/album/7zZoScNI4mNYXE5vQhMeQi) | 3:39 | 2022-07-21 | 2022-10-01 |
 | [Quando Quiseres](https://open.spotify.com/track/5MGLrlZlzfCuosuAR6Q0xJ) | [Uzzy](https://open.spotify.com/artist/2Ia5AqFe2PZmGirbLc7zMi), [Mr\. Marley](https://open.spotify.com/artist/1IFNNxxrEmMT7e5H9ioRSB) | [Quando Quiseres](https://open.spotify.com/album/7zBnYqXux65VVgVWoo1V9B) | 2:58 | 2023-04-06 |  |
 | [Quitada](https://open.spotify.com/track/2syKsGREUuYq4pzIBxInwQ) | [Salah](https://open.spotify.com/artist/4vx0e5kKIYBc7kCNqVjuef), [Sidoka](https://open.spotify.com/artist/7EyzyrMNgqiK8bMrbkOT9l), [Uzzy](https://open.spotify.com/artist/2Ia5AqFe2PZmGirbLc7zMi) | [Quitada](https://open.spotify.com/album/1UKouz84LcP3b8XMmJiPmo) | 3:28 | 2022-08-11 | 2022-09-02 |
+| [Relationships](https://open.spotify.com/track/2c6NTXscal2z9IdiaE6zTG) | [MS Capone](https://open.spotify.com/artist/1HOLnVK9G35A2MAqz2e8AP) | [Relationships](https://open.spotify.com/album/5CtrUKdY2on57OK5ScI9qq) | 3:05 | 2023-05-18 |  |
 | [Risco](https://open.spotify.com/track/4Y3chZy00SMw18ixqZYgXi) | [DreNaz](https://open.spotify.com/artist/5urWzy2mamyT5sMTE5H00O) | [Risco](https://open.spotify.com/album/1QnLGxK7sh5XByE5QBNAQ0) | 2:45 | 2023-02-17 | 2023-04-07 |
 | [Rock](https://open.spotify.com/track/2tubwnOo6pAp2KvcwIWF02) | [LON3R JOHNY](https://open.spotify.com/artist/1fV7Au7ymGP3uhDV1TfjSd) | [Rock](https://open.spotify.com/album/6wHyH4x6k4wmF410HE9RJH) | 2:59 | 2022-07-16 | 2022-08-19 |
 | [Rockstar Shit](https://open.spotify.com/track/55dHzXldRhyknlMCNSlxZS) | [LON3R JOHNY](https://open.spotify.com/artist/1fV7Au7ymGP3uhDV1TfjSd) | [Vida Rockstar](https://open.spotify.com/album/47PidTvTpM253ecxT58EF3) | 3:30 | 2022-10-13 | 2022-11-25 |

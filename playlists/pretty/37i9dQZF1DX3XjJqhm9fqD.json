@@ -1,12 +1,12 @@
 {
   "description": "Celebrating Haitian music. Cover: Anie Alerte ",
-  "num_followers": 77341,
+  "num_followers": 77394,
   "original_name": "Haitian Heat",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyMmFiYjNmMWQxODQyYWZmNjY0OTkwOGJlNWFiMjM4Zjg4YWY4YTMx",
+  "snapshot_id": "MCw0NGUxNzY2MmE1ZmQ3YzY3YjFhM2JlYmIwMTJjYWEyOWE1YjBjMDQz",
   "tracks": [
     {
       "added_at": "2023-05-08 21:28:11",
@@ -859,22 +859,6 @@
     {
       "added_at": "2023-05-08 21:28:11",
       "album": {
-        "name": "White Flower",
-        "url": "https://open.spotify.com/album/1PAaNuXyLW2OpoWOBhhwuW"
-      },
-      "artists": [
-        {
-          "name": "Lou Phelps",
-          "url": "https://open.spotify.com/artist/74EhQOxqIuZSj1wsMLQabN"
-        }
-      ],
-      "duration_ms": 144118,
-      "name": "White Flower",
-      "url": "https://open.spotify.com/track/0E2IeoRCb8VUI0EwVTwPuk"
-    },
-    {
-      "added_at": "2023-05-08 21:28:11",
-      "album": {
         "name": "Kelly Krow",
         "url": "https://open.spotify.com/album/3EYeR8N7uxBO83LZxaqAXk"
       },
@@ -891,6 +875,22 @@
       "duration_ms": 270315,
       "name": "Sal Vle",
       "url": "https://open.spotify.com/track/1fGEwTxAB5Q4bgtPQL47rm"
+    },
+    {
+      "added_at": "2023-05-08 21:28:11",
+      "album": {
+        "name": "White Flower",
+        "url": "https://open.spotify.com/album/1PAaNuXyLW2OpoWOBhhwuW"
+      },
+      "artists": [
+        {
+          "name": "Lou Phelps",
+          "url": "https://open.spotify.com/artist/74EhQOxqIuZSj1wsMLQabN"
+        }
+      ],
+      "duration_ms": 144118,
+      "name": "White Flower",
+      "url": "https://open.spotify.com/track/0E2IeoRCb8VUI0EwVTwPuk"
     },
     {
       "added_at": "2023-05-08 21:28:11",
@@ -1219,22 +1219,26 @@
     {
       "added_at": "2023-05-08 21:28:11",
       "album": {
-        "name": "P's & Q's",
-        "url": "https://open.spotify.com/album/6v6qWlQpLhMxlTLUQqYN7m"
+        "name": "Down With the Gouyad (Remix)",
+        "url": "https://open.spotify.com/album/6RMyeItHOR2umR7IV8eHjf"
       },
       "artists": [
         {
-          "name": "Dyna Edyne",
-          "url": "https://open.spotify.com/artist/0hLWP6s9JYQ75jtXB0sjE3"
+          "name": "DJ Magickenny",
+          "url": "https://open.spotify.com/artist/6qHhAzDr7urzQALhBUNh7N"
         },
         {
-          "name": "Anonymuz",
-          "url": "https://open.spotify.com/artist/625BWS4LmjJe3a82OCSFsm"
+          "name": "Dee End",
+          "url": "https://open.spotify.com/artist/1jzX6q77VAGgI7yGkT8p3f"
+        },
+        {
+          "name": "Yuri Da King",
+          "url": "https://open.spotify.com/artist/49foDeFOFC7AjQSwLmrcqo"
         }
       ],
-      "duration_ms": 196433,
-      "name": "P's & Q's",
-      "url": "https://open.spotify.com/track/5CAypUTNSzVrZlMDirnVqx"
+      "duration_ms": 291157,
+      "name": "Down With the Gouyad (Remix)",
+      "url": "https://open.spotify.com/track/0kRAZ2tbj4WEELuzMrxeX5"
     },
     {
       "added_at": "2023-05-08 21:28:11",
@@ -1271,26 +1275,22 @@
     {
       "added_at": "2023-05-08 21:28:11",
       "album": {
-        "name": "Down With the Gouyad (Remix)",
-        "url": "https://open.spotify.com/album/6RMyeItHOR2umR7IV8eHjf"
+        "name": "P's & Q's",
+        "url": "https://open.spotify.com/album/6v6qWlQpLhMxlTLUQqYN7m"
       },
       "artists": [
         {
-          "name": "DJ Magickenny",
-          "url": "https://open.spotify.com/artist/6qHhAzDr7urzQALhBUNh7N"
+          "name": "Dyna Edyne",
+          "url": "https://open.spotify.com/artist/0hLWP6s9JYQ75jtXB0sjE3"
         },
         {
-          "name": "Dee End",
-          "url": "https://open.spotify.com/artist/1jzX6q77VAGgI7yGkT8p3f"
-        },
-        {
-          "name": "Yuri Da King",
-          "url": "https://open.spotify.com/artist/49foDeFOFC7AjQSwLmrcqo"
+          "name": "Anonymuz",
+          "url": "https://open.spotify.com/artist/625BWS4LmjJe3a82OCSFsm"
         }
       ],
-      "duration_ms": 291157,
-      "name": "Down With the Gouyad (Remix)",
-      "url": "https://open.spotify.com/track/0kRAZ2tbj4WEELuzMrxeX5"
+      "duration_ms": 196433,
+      "name": "P's & Q's",
+      "url": "https://open.spotify.com/track/5CAypUTNSzVrZlMDirnVqx"
     },
     {
       "added_at": "2023-05-08 21:28:11",
@@ -1827,6 +1827,22 @@
     {
       "added_at": "2023-05-08 21:28:11",
       "album": {
+        "name": "Family",
+        "url": "https://open.spotify.com/album/7vOv0fgzJ60IIDOAmqDRY3"
+      },
+      "artists": [
+        {
+          "name": "SLESH",
+          "url": "https://open.spotify.com/artist/0iETUq1npNcYLaeKJfQxyE"
+        }
+      ],
+      "duration_ms": 188368,
+      "name": "Family",
+      "url": "https://open.spotify.com/track/0T1U4AfxwwJgVjBrVVlrB0"
+    },
+    {
+      "added_at": "2023-05-08 21:28:11",
+      "album": {
         "name": "Koup\u00e9",
         "url": "https://open.spotify.com/album/0wDhbYYG03ApoFYKwtFpZI"
       },
@@ -1847,22 +1863,6 @@
       "duration_ms": 155637,
       "name": "Koup\u00e9",
       "url": "https://open.spotify.com/track/4qDqvbShZqZoipdKJuV3fk"
-    },
-    {
-      "added_at": "2023-05-08 21:28:11",
-      "album": {
-        "name": "Family",
-        "url": "https://open.spotify.com/album/7vOv0fgzJ60IIDOAmqDRY3"
-      },
-      "artists": [
-        {
-          "name": "SLESH",
-          "url": "https://open.spotify.com/artist/0iETUq1npNcYLaeKJfQxyE"
-        }
-      ],
-      "duration_ms": 188368,
-      "name": "Family",
-      "url": "https://open.spotify.com/track/0T1U4AfxwwJgVjBrVVlrB0"
     },
     {
       "added_at": "2023-05-08 21:28:11",

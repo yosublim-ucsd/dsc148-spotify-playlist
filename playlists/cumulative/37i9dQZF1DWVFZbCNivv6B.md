@@ -2,9 +2,9 @@
 
 ### [Arena Hip\-Hop](https://open.spotify.com/playlist/37i9dQZF1DWVFZbCNivv6B)
 
-> Aquí vive el hip\-hop mexicano.
+> Aquí vive el hip\-hop mexicano\. MC Davo, TREN LOKOTE y Kodigo están en la casa.
 
-349 songs - 20 hr 37 min
+350 songs - 20 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -244,6 +244,7 @@
 | [Polvo Blanco](https://open.spotify.com/track/5LuH2MoN2dsA3PAZvIJ6So) | [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0), [Tiro Loko](https://open.spotify.com/artist/4Y5HJP3oFOJ8UVBXHYWBgx), [Dan Sanchez](https://open.spotify.com/artist/1yPvnL2XGGehNiOGWzcAAG) | [Polvo Blanco](https://open.spotify.com/album/1rCMFdeaDoAQmYbufZNk4O) | 4:29 | 2022-06-14 | 2022-09-10 |
 | [Por Andar Acelerado](https://open.spotify.com/track/4UbkQQN65WPr4rEep7DjIe) | [Adán Cruz](https://open.spotify.com/artist/645xd9cHiiLqqehoLzLMDR) | [Por Andar Acelerado](https://open.spotify.com/album/4oj3WaIATAHls1B22nsFT7) | 3:41 | 2022-05-20 |  |
 | [Por Qué Será?](https://open.spotify.com/track/3ZOy45DDnJ5DrRyROqUgLL) | [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I), [C.R.O](https://open.spotify.com/artist/4puAp107dCehraE47QXVQX) | [Por Qué Será?](https://open.spotify.com/album/5cZUVmlDivJW0hNO8VQJ6V) | 3:19 | 2023-03-10 |  |
+| [Por Si Pego](https://open.spotify.com/track/1y6gxADhtRpNq3V8xpYHJb) | [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I), [Kodigo](https://open.spotify.com/artist/3hwgckfLtTHdnkf694c7HS), [TREN LOKOTE](https://open.spotify.com/artist/6DjBv6gyR1HLsvwGUOD5V9) | [Por Si Pego](https://open.spotify.com/album/6dQluBGGicYXtzTmzj0j8c) | 3:26 | 2023-05-19 |  |
 | [Por Unos Centavos](https://open.spotify.com/track/3cTmJcHYrOKRadRRuD4TGp) | [Tornillo](https://open.spotify.com/artist/5OGraDcSkO4oTWthkm77WL), [Doom Deca](https://open.spotify.com/artist/4ZVolhf7GCqhwdLyQheHpL), [473 Music](https://open.spotify.com/artist/5RNHJe1xtJ3dKLb28DPT0V) | [Por Unos Centavos](https://open.spotify.com/album/4L7tjJ5ChwXcY4jYCsaHHm) | 3:12 | 2022-04-29 |  |
 | [Prendela](https://open.spotify.com/track/1MnLTbh7Srl2neGR8UwQJA) | [Under Side 821](https://open.spotify.com/artist/2NtN73hhhgFt2NmbBOlFz1) | [Prendela](https://open.spotify.com/album/56oOdm4WHANOUObn6aMYQm) | 5:32 | 2022-04-24 | 2022-11-06 |
 | [Prendela](https://open.spotify.com/track/2zcVJPOipL5iezq3PNRM3X) | [Under Side 821](https://open.spotify.com/artist/2NtN73hhhgFt2NmbBOlFz1) | [Prendela](https://open.spotify.com/album/0vDACZjkqwt1pj0a7yXGU7) | 5:32 | 2022-10-28 | 2022-12-17 |

@@ -1,12 +1,12 @@
 {
   "description": "Let these innovative tracks spark your creativity and inspiration.",
-  "num_followers": 378766,
+  "num_followers": 378781,
   "original_name": "Creativity Boost",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkZjA4MmU3YTMwNjE3OTM5ZTE0ZTUyYWUzOTBlZWIyNzM5MDgwNmQ5",
+  "snapshot_id": "MCxiYTRiNGU3MTk4MGQ0ZWQ5OWJiNzJlZjdmMzBiNjI4NTUxMjEwMTNl",
   "tracks": [
     {
       "added_at": "2023-01-11 21:01:15",
@@ -231,22 +231,6 @@
     {
       "added_at": "2023-01-11 21:01:15",
       "album": {
-        "name": "Nectar",
-        "url": "https://open.spotify.com/album/6YKk4wlKdACRITGKmGnoIm"
-      },
-      "artists": [
-        {
-          "name": "Joji",
-          "url": "https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq"
-        }
-      ],
-      "duration_ms": 163758,
-      "name": "Your Man",
-      "url": "https://open.spotify.com/track/6Vgtvd7I5yopJdBuxqjBd2"
-    },
-    {
-      "added_at": "2023-01-11 21:01:15",
-      "album": {
         "name": "We Will Always Love You",
         "url": "https://open.spotify.com/album/755yBlrk0Sz8tIgMMTgyr1"
       },
@@ -267,6 +251,22 @@
       "duration_ms": 187586,
       "name": "The Divine Chord",
       "url": "https://open.spotify.com/track/3A0cAzFKPefBCz7Z02UnnO"
+    },
+    {
+      "added_at": "2023-01-11 21:01:15",
+      "album": {
+        "name": "Nectar",
+        "url": "https://open.spotify.com/album/6YKk4wlKdACRITGKmGnoIm"
+      },
+      "artists": [
+        {
+          "name": "Joji",
+          "url": "https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq"
+        }
+      ],
+      "duration_ms": 163758,
+      "name": "Your Man",
+      "url": "https://open.spotify.com/track/6Vgtvd7I5yopJdBuxqjBd2"
     },
     {
       "added_at": "2023-01-11 21:01:15",
@@ -1019,22 +1019,6 @@
     {
       "added_at": "2023-01-11 21:01:15",
       "album": {
-        "name": "Julia (deep diving)",
-        "url": "https://open.spotify.com/album/2HJCdduuXbN70tTNQyuFQn"
-      },
-      "artists": [
-        {
-          "name": "Fred again..",
-          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
-        }
-      ],
-      "duration_ms": 274500,
-      "name": "Julia (deep diving)",
-      "url": "https://open.spotify.com/track/5DHSlpd0MX9DfnoAQqolfa"
-    },
-    {
-      "added_at": "2023-01-11 21:01:15",
-      "album": {
         "name": "Black Rain",
         "url": "https://open.spotify.com/album/35rdGZPQisAnmSJkmf387b"
       },
@@ -1051,18 +1035,34 @@
     {
       "added_at": "2023-01-11 21:01:15",
       "album": {
-        "name": "Tremors",
-        "url": "https://open.spotify.com/album/021w8zNOK5t0XTrbvVUysp"
+        "name": "Julia (deep diving)",
+        "url": "https://open.spotify.com/album/2HJCdduuXbN70tTNQyuFQn"
       },
       "artists": [
         {
-          "name": "SOHN",
-          "url": "https://open.spotify.com/artist/6XZYAWJLL8UIbxAqjKj3cg"
+          "name": "Fred again..",
+          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
         }
       ],
-      "duration_ms": 197977,
-      "name": "Artifice",
-      "url": "https://open.spotify.com/track/7mp7xiw8cUpLPDTSZ1v5BS"
+      "duration_ms": 274500,
+      "name": "Julia (Deep Diving)",
+      "url": "https://open.spotify.com/track/5DHSlpd0MX9DfnoAQqolfa"
+    },
+    {
+      "added_at": "2023-01-11 21:01:15",
+      "album": {
+        "name": "Life After Defo",
+        "url": "https://open.spotify.com/album/2SWmXOdNAbDfXeIYaE8iOW"
+      },
+      "artists": [
+        {
+          "name": "Deptford Goth",
+          "url": "https://open.spotify.com/artist/3f8b2H7fazJlShrwj38XiS"
+        }
+      ],
+      "duration_ms": 252880,
+      "name": "Feel Real",
+      "url": "https://open.spotify.com/track/3LxBDk2jxjRmagg1VAwCGM"
     },
     {
       "added_at": "2023-01-11 21:01:15",
@@ -1083,18 +1083,18 @@
     {
       "added_at": "2023-01-11 21:01:15",
       "album": {
-        "name": "Life After Defo",
-        "url": "https://open.spotify.com/album/2SWmXOdNAbDfXeIYaE8iOW"
+        "name": "Tremors",
+        "url": "https://open.spotify.com/album/021w8zNOK5t0XTrbvVUysp"
       },
       "artists": [
         {
-          "name": "Deptford Goth",
-          "url": "https://open.spotify.com/artist/3f8b2H7fazJlShrwj38XiS"
+          "name": "SOHN",
+          "url": "https://open.spotify.com/artist/6XZYAWJLL8UIbxAqjKj3cg"
         }
       ],
-      "duration_ms": 252880,
-      "name": "Feel Real",
-      "url": "https://open.spotify.com/track/3LxBDk2jxjRmagg1VAwCGM"
+      "duration_ms": 197977,
+      "name": "Artifice",
+      "url": "https://open.spotify.com/track/7mp7xiw8cUpLPDTSZ1v5BS"
     },
     {
       "added_at": "2023-01-11 21:01:15",
@@ -1247,6 +1247,22 @@
     {
       "added_at": "2023-01-11 21:01:15",
       "album": {
+        "name": "First Contact",
+        "url": "https://open.spotify.com/album/4dCgqMWPJuBmL0BHiXwIEf"
+      },
+      "artists": [
+        {
+          "name": "Lastlings",
+          "url": "https://open.spotify.com/artist/0M7GyeyRi2fG8c1LdP4jhi"
+        }
+      ],
+      "duration_ms": 236173,
+      "name": "No Time",
+      "url": "https://open.spotify.com/track/1FG2lH6gxJCX94kOg2Sozp"
+    },
+    {
+      "added_at": "2023-01-11 21:01:15",
+      "album": {
         "name": "Romantic Images",
         "url": "https://open.spotify.com/album/25RhUgQQlr0u6G2r7np9bT"
       },
@@ -1263,22 +1279,6 @@
       "duration_ms": 247934,
       "name": "Emotion feat. Wild Nothing",
       "url": "https://open.spotify.com/track/3pN4bdgaRvc3c61GCkEwDP"
-    },
-    {
-      "added_at": "2023-01-11 21:01:15",
-      "album": {
-        "name": "First Contact",
-        "url": "https://open.spotify.com/album/4dCgqMWPJuBmL0BHiXwIEf"
-      },
-      "artists": [
-        {
-          "name": "Lastlings",
-          "url": "https://open.spotify.com/artist/0M7GyeyRi2fG8c1LdP4jhi"
-        }
-      ],
-      "duration_ms": 236173,
-      "name": "No Time",
-      "url": "https://open.spotify.com/track/1FG2lH6gxJCX94kOg2Sozp"
     },
     {
       "added_at": "2023-01-11 21:01:15",
@@ -1743,18 +1743,18 @@
     {
       "added_at": "2023-01-11 21:01:15",
       "album": {
-        "name": "Bless You",
-        "url": "https://open.spotify.com/album/1IOyct7shyBK5fwXUajCIr"
+        "name": "Size of Relief",
+        "url": "https://open.spotify.com/album/0DdOMiD6kPE0Kv119dNZCI"
       },
       "artists": [
         {
-          "name": "Cool Company",
-          "url": "https://open.spotify.com/artist/6lOCVUQbb9wzuZQbZQV9zn"
+          "name": "Young & Sick",
+          "url": "https://open.spotify.com/artist/3pQXFWbvLit77NpvNmOo3k"
         }
       ],
-      "duration_ms": 151733,
-      "name": "Who Knows",
-      "url": "https://open.spotify.com/track/6FwgXgeoZkzn5iUcppWK3a"
+      "duration_ms": 246118,
+      "name": "Queen of the Valley",
+      "url": "https://open.spotify.com/track/164PqKYitMXTrr8nMt7owN"
     }
   ],
   "unique_name": "Creativity Boost",

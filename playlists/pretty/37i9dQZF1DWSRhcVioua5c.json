@@ -1,12 +1,12 @@
 {
   "description": "Una selecci\u00f3n de baladas para suspirar de amor.",
-  "num_followers": 60643,
+  "num_followers": 60683,
   "original_name": "Folklore Rom\u00e1ntico ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiNzk2ODZiNTMwNGRlN2RlMjk4YjkyYTIyMDk2MzUzMDkxYWQ3MDlj",
+  "snapshot_id": "MCxlYjlmZDkyZTFkMTk4MjMwYTg5ZmJhNjdlZGUzOTMzYzkwMWY5ZDAz",
   "tracks": [
     {
       "added_at": "2023-05-12 03:00:00",
@@ -1227,26 +1227,6 @@
     {
       "added_at": "2023-05-12 03:00:00",
       "album": {
-        "name": "Fe",
-        "url": "https://open.spotify.com/album/3ecNmYNuN7GXoCP064taCu"
-      },
-      "artists": [
-        {
-          "name": "Roxana Carabajal",
-          "url": "https://open.spotify.com/artist/3XliglxGifK0IJjHPxo5MP"
-        },
-        {
-          "name": "Raly Barrionuevo",
-          "url": "https://open.spotify.com/artist/0mdD8YXAyJDJ2BHxIKF0Yf"
-        }
-      ],
-      "duration_ms": 248240,
-      "name": "No Dejare de Amarte",
-      "url": "https://open.spotify.com/track/6xLJsgn7TFJmzmhaoTPOcp"
-    },
-    {
-      "added_at": "2023-05-12 03:00:00",
-      "album": {
         "name": "Cerca del Sol",
         "url": "https://open.spotify.com/album/08hGxQlLEPXYR3YUzrfvs5"
       },
@@ -1263,6 +1243,26 @@
       "duration_ms": 217020,
       "name": "Cerca del Sol",
       "url": "https://open.spotify.com/track/4KEm7GdjGYMpGdDrrwr5K2"
+    },
+    {
+      "added_at": "2023-05-12 03:00:00",
+      "album": {
+        "name": "Fe",
+        "url": "https://open.spotify.com/album/3ecNmYNuN7GXoCP064taCu"
+      },
+      "artists": [
+        {
+          "name": "Roxana Carabajal",
+          "url": "https://open.spotify.com/artist/3XliglxGifK0IJjHPxo5MP"
+        },
+        {
+          "name": "Raly Barrionuevo",
+          "url": "https://open.spotify.com/artist/0mdD8YXAyJDJ2BHxIKF0Yf"
+        }
+      ],
+      "duration_ms": 248240,
+      "name": "No Dejare de Amarte",
+      "url": "https://open.spotify.com/track/6xLJsgn7TFJmzmhaoTPOcp"
     },
     {
       "added_at": "2023-05-12 03:00:00",

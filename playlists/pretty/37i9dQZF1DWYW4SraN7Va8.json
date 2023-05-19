@@ -1,12 +1,12 @@
 {
   "description": "Nacimos para rodar en el asfalto. ",
-  "num_followers": 57377,
+  "num_followers": 57456,
   "original_name": "Las Choppers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5MGQ2OWE2OGFhZjY3NjljZTZlM2IyNjdjMWY2N2IwY2VlYjZlMmZj",
+  "snapshot_id": "MCwyMmIzMDQ4MTU4ZjU0YWMwZjIzZjU4ZDM4ODIxZGUyZGJiYmNkYTVh",
   "tracks": [
     {
       "added_at": "2023-04-21 06:00:00",
@@ -795,22 +795,6 @@
     {
       "added_at": "2023-04-21 06:00:00",
       "album": {
-        "name": "Out of the Cellar",
-        "url": "https://open.spotify.com/album/6P3Fqm7z9wr5GeatpVZ5ut"
-      },
-      "artists": [
-        {
-          "name": "Ratt",
-          "url": "https://open.spotify.com/artist/3tufWJzpCiAGleBt5TkmTn"
-        }
-      ],
-      "duration_ms": 265893,
-      "name": "Round and Round",
-      "url": "https://open.spotify.com/track/5B6Z7NwVqA7W3UFiqBdEJC"
-    },
-    {
-      "added_at": "2023-04-21 06:00:00",
-      "album": {
         "name": "Sticky Fingers (Remastered)",
         "url": "https://open.spotify.com/album/29m6DinzdaD0OPqWKGyMdz"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 228666,
       "name": "Brown Sugar - 2009 Remaster",
       "url": "https://open.spotify.com/track/61UuPxxYUvacEH6SHIK3sU"
+    },
+    {
+      "added_at": "2023-04-21 06:00:00",
+      "album": {
+        "name": "Out of the Cellar",
+        "url": "https://open.spotify.com/album/6P3Fqm7z9wr5GeatpVZ5ut"
+      },
+      "artists": [
+        {
+          "name": "Ratt",
+          "url": "https://open.spotify.com/artist/3tufWJzpCiAGleBt5TkmTn"
+        }
+      ],
+      "duration_ms": 265893,
+      "name": "Round and Round",
+      "url": "https://open.spotify.com/track/5B6Z7NwVqA7W3UFiqBdEJC"
     },
     {
       "added_at": "2023-04-21 06:00:00",
@@ -1115,22 +1115,6 @@
     {
       "added_at": "2023-04-21 06:00:00",
       "album": {
-        "name": "Arise",
-        "url": "https://open.spotify.com/album/7hgWmH16eu70yqrg5Pc3SM"
-      },
-      "artists": [
-        {
-          "name": "Sepultura",
-          "url": "https://open.spotify.com/artist/6JW8wliOEwaDZ231ZY7cf4"
-        }
-      ],
-      "duration_ms": 254386,
-      "name": "Orgasmatron",
-      "url": "https://open.spotify.com/track/5RKNHGP5Nv526dJ5LmgcjX"
-    },
-    {
-      "added_at": "2023-04-21 06:00:00",
-      "album": {
         "name": "The Big Come Up",
         "url": "https://open.spotify.com/album/4GcL493CWgWz5SVoxd7UIh"
       },
@@ -1143,6 +1127,22 @@
       "duration_ms": 140933,
       "name": "I'll Be Your Man",
       "url": "https://open.spotify.com/track/7ve0nLuGlLfqw0EbL2UZEV"
+    },
+    {
+      "added_at": "2023-04-21 06:00:00",
+      "album": {
+        "name": "Arise",
+        "url": "https://open.spotify.com/album/7hgWmH16eu70yqrg5Pc3SM"
+      },
+      "artists": [
+        {
+          "name": "Sepultura",
+          "url": "https://open.spotify.com/artist/6JW8wliOEwaDZ231ZY7cf4"
+        }
+      ],
+      "duration_ms": 254386,
+      "name": "Orgasmatron",
+      "url": "https://open.spotify.com/track/5RKNHGP5Nv526dJ5LmgcjX"
     },
     {
       "added_at": "2023-04-21 06:00:00",

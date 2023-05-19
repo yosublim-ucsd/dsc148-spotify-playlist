@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYlV6JNtLoBy.md) - [plain]
 
 > Gospel music from across East Africa
 
-[Spotify](https://open.spotify.com/user/spotify) - 645 likes - 50 songs - 3 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 654 likes - 50 songs - 3 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,8 +12,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYlV6JNtLoBy.md) - [plain]
 | 2 | [Conduis mes pas](https://open.spotify.com/track/1zGlgkEa3sONbUQISvtGtO) | [LORD LOMBO](https://open.spotify.com/artist/7LYWtUyWFb2GIE5sjigMvX), [Princesse Betu](https://open.spotify.com/artist/6BbWSslst8GBiQQHtDiMST), [BEN MAVINGA](https://open.spotify.com/artist/3QekiUqMIPwFSYGcoOJWCQ) | [Conduis mes pas](https://open.spotify.com/album/3TxaM33oOiLSwIwS7JC15h) | 4:58 |
 | 3 | [Jireh \(My Provider\)](https://open.spotify.com/track/4pR4oQJULf7FDB54TleMyH) | [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT), [Lecrae](https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW), [Happi](https://open.spotify.com/artist/6JboUw8iZP7Ts7fDcVowP4) | [Jireh \(My Provider\)](https://open.spotify.com/album/4CsmgXl5bQQWHubJdZvNgW) | 2:48 |
 | 4 | [Way Maker](https://open.spotify.com/track/4eTgQdjd7bIet6d045GGUc) | [Sinach](https://open.spotify.com/artist/6hKHFC67DZJNw9tg1l0lIe) | [Way Maker](https://open.spotify.com/album/7gFZYUrRossdN7GEY938s1) | 5:06 |
-| 5 | [I Believe \(Island Medley\) \[So Long Bye Bye\] \(Radio Edit\)](https://open.spotify.com/track/7bZCkTQ5qXrCgQvPbKF2gH) | [Jonathan Nelson](https://open.spotify.com/artist/4oI0W9neUi7nvxcQKDY5Xa) | [I Believe \(Island Medley\) \- Single](https://open.spotify.com/album/69PdhhgvSzawIe73yaItL8) | 4:00 |
-| 6 | [Everything \(Amen\)](https://open.spotify.com/track/2H6RIf2y9HyT5WWJXzWzGu) | [Timi Dakolo](https://open.spotify.com/artist/06UqlnocxIJgyyTZwQMAQK) | [Everything \(Amen\)](https://open.spotify.com/album/1Dx9yZ1ej8pG0sCMXdt9f7) | 3:57 |
+| 5 | [Everything \(Amen\)](https://open.spotify.com/track/2H6RIf2y9HyT5WWJXzWzGu) | [Timi Dakolo](https://open.spotify.com/artist/06UqlnocxIJgyyTZwQMAQK) | [Everything \(Amen\)](https://open.spotify.com/album/1Dx9yZ1ej8pG0sCMXdt9f7) | 3:57 |
+| 6 | [I Believe \(Island Medley\) \[So Long Bye Bye\] \(Radio Edit\)](https://open.spotify.com/track/7bZCkTQ5qXrCgQvPbKF2gH) | [Jonathan Nelson](https://open.spotify.com/artist/4oI0W9neUi7nvxcQKDY5Xa) | [I Believe \(Island Medley\) \- Single](https://open.spotify.com/album/69PdhhgvSzawIe73yaItL8) | 4:00 |
 | 7 | [Shusha Nyavu](https://open.spotify.com/track/4OWverqpwi4P1BstWOjlS1) | [Christina Shusho](https://open.spotify.com/artist/0yOSvlhtID1BtqO5UUv5SL) | [Shusha Nyavu](https://open.spotify.com/album/2Tlcxf4JXImZRqiNnYCDKt) | 3:46 |
 | 8 | [Yesu Nitie Nguvu](https://open.spotify.com/track/6ei3elKMjid5GSnWAXwS6q) | [William Yilima](https://open.spotify.com/artist/2DTRhfclXLK7d9FYyuWda0) | [Uko Wapi Mungu](https://open.spotify.com/album/3mFFb1dNZLjxLWNNTjaqW0) | 2:22 |
 | 9 | [Mkono Wa Bwana](https://open.spotify.com/track/0I5hC840hWZCo3nGTptRm5) | [Zabron Singers](https://open.spotify.com/artist/6G8DN0hxjRUmIfOh6GHhpP) | [Mkono Wa Bwana](https://open.spotify.com/album/5oXO7E3vFCkWTfdwkZDckF) | 5:49 |
@@ -30,15 +30,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYlV6JNtLoBy.md) - [plain]
 | 20 | [Tumeshinda](https://open.spotify.com/track/4P7IRSGCVIynyzUWRoXHBK) | [Eunice Njeri](https://open.spotify.com/artist/1n8hmSTaHZs3Pz2VuVfda4), [Godwill Babette](https://open.spotify.com/artist/5lv5S2ScpxW28v6koO2f4X) | [Tumeshinda](https://open.spotify.com/album/1RdqSSPAjSvXgGo7IhXNo9) | 6:05 |
 | 21 | [Na Gode \- Swahili](https://open.spotify.com/track/41mNsrlwfq4vudaUUy6WLj) | [Yemi Alade](https://open.spotify.com/artist/7fKO99ryLDo8VocdtVvwZW) | [Na Gode \(Swahili\)](https://open.spotify.com/album/5rYrxkqWNV4dr64JSc9B0s) | 3:26 |
 | 22 | [Kirathimo](https://open.spotify.com/track/5lSJluCdq3PPXnawgjLVr6) | [Grace Mwai](https://open.spotify.com/artist/3DY2UOhqxJUmaYW3yUgAIQ) | [Kirathimo](https://open.spotify.com/album/4ol5duZtTeX4gpDZZm2SWa) | 3:43 |
-| 23 | [Ipo Siku](https://open.spotify.com/track/3fFvTmzx1VcXY27OZ81FgH) | [Goodluck Gozbert](https://open.spotify.com/artist/4B9O301rvLS2j8hIwzGzHA) | [Ipo Siku](https://open.spotify.com/album/4XeVEyWo9UFsSGXfzuIu8C) | 5:47 |
-| 24 | [Mungu Ni Mungu Tu](https://open.spotify.com/track/0lNCtObfOXRHOYqPn0vr3C) | [Christopher Mwahangila](https://open.spotify.com/artist/7MxY8jHpDAllgtfbyg52Kt) | [Mungu Ni Mungu Tu](https://open.spotify.com/album/6VN94Rh765VubmbJqUgsHl) | 8:27 |
+| 23 | [Mungu Ni Mungu Tu](https://open.spotify.com/track/0lNCtObfOXRHOYqPn0vr3C) | [Christopher Mwahangila](https://open.spotify.com/artist/7MxY8jHpDAllgtfbyg52Kt) | [Mungu Ni Mungu Tu](https://open.spotify.com/album/6VN94Rh765VubmbJqUgsHl) | 8:27 |
+| 24 | [Ipo Siku](https://open.spotify.com/track/3fFvTmzx1VcXY27OZ81FgH) | [Goodluck Gozbert](https://open.spotify.com/artist/4B9O301rvLS2j8hIwzGzHA) | [Ipo Siku](https://open.spotify.com/album/4XeVEyWo9UFsSGXfzuIu8C) | 5:47 |
 | 25 | [Nipe Macho](https://open.spotify.com/track/6RShwwY6EHo3sOJtkUMKvh) | [Christina Shusho](https://open.spotify.com/artist/0yOSvlhtID1BtqO5UUv5SL) | [Nipe Macho](https://open.spotify.com/album/0GB03IydOiczdTv1bTK7DV) | 5:53 |
 | 26 | [Praise Him](https://open.spotify.com/track/0Q4g7Rwa40qx134hPutVFx) | [Celestine Donkor](https://open.spotify.com/artist/7eEbZowRaxxKXr3aIA9YDc), [Joel Lwaga](https://open.spotify.com/artist/1CGmb8fVUO9TGKBiFu6WTW) | [Praise Him](https://open.spotify.com/album/0gQuGIBnEH02dMRsj76gKZ) | 5:24 |
 | 27 | [Mwema](https://open.spotify.com/track/0LkKFTwenA513XXLeF9sVy) | [Mercy Masika](https://open.spotify.com/artist/768ba0tQi1ULwowdydY05T) | [Mwema](https://open.spotify.com/album/6nXlu9652BlZrJySXjdnsX) | 3:52 |
 | 28 | [Uliniumba Nikuabudu](https://open.spotify.com/track/3zTWVZR28Tl9wcVhSzqf9P) | [Angela Chibalonza Muliri](https://open.spotify.com/artist/4AX5pJN0bFBqQQK2u6rnIS) | [Yahwe Uhimidiwe](https://open.spotify.com/album/2IKNfYCQSbUEwjSVMDQzJn) | 4:30 |
 | 29 | [Nikumbushe Wema Wako](https://open.spotify.com/track/62cnrFkQOy5jBuOoCBm5qT) | [Angel Benard](https://open.spotify.com/artist/7lfpPXqQTNddUIYXLDVbbD) | [Nikumbushe Wema Wako](https://open.spotify.com/album/5u0BBGqAaYEgN3Kkrk41AX) | 7:19 |
-| 30 | [NADEKA](https://open.spotify.com/track/4cveFG3uFYK6Pe7UMct8OE) | [Guardian Angel](https://open.spotify.com/artist/4GH5MurAeyms73h1WLx1FZ) | [NADEKA](https://open.spotify.com/album/3yUcY9wjNDbc2Rw1kcvw5A) | 3:24 |
-| 31 | [Upendo Wa Yesu](https://open.spotify.com/track/5vn3uwdsg6ymcQG7hY4oer) | [UPENDO NKONE](https://open.spotify.com/artist/3rCqmZaKlxxo6LbbuhsF8n) | [Hapa Nilipo](https://open.spotify.com/album/4Rz5OPFfDnv1UHk6q0lKWz) | 4:21 |
+| 30 | [Upendo Wa Yesu](https://open.spotify.com/track/5vn3uwdsg6ymcQG7hY4oer) | [UPENDO NKONE](https://open.spotify.com/artist/3rCqmZaKlxxo6LbbuhsF8n) | [Hapa Nilipo](https://open.spotify.com/album/4Rz5OPFfDnv1UHk6q0lKWz) | 4:21 |
+| 31 | [NADEKA](https://open.spotify.com/track/4cveFG3uFYK6Pe7UMct8OE) | [Guardian Angel](https://open.spotify.com/artist/4GH5MurAeyms73h1WLx1FZ) | [NADEKA](https://open.spotify.com/album/3yUcY9wjNDbc2Rw1kcvw5A) | 3:24 |
 | 32 | [Mfalme Wa Amani](https://open.spotify.com/track/131ZGEBLS3GBmcVcs57S3W) | [Solomon Mkubwa](https://open.spotify.com/artist/3Up2Sprj20ft57tCYus7UZ) | [Mfalme Wa Amani](https://open.spotify.com/album/36ZilAXt9d4ZqUphTaJaTG) | 7:52 |
 | 33 | [Mtetezi Wangu](https://open.spotify.com/track/6vacqGQJFXankKL8FKmip3) | [Christina Shusho](https://open.spotify.com/artist/0yOSvlhtID1BtqO5UUv5SL) | [Unikumbuke](https://open.spotify.com/album/7lzVt24bz7uDqzgymkGayu) | 8:10 |
 | 34 | [Wewe ni mungu](https://open.spotify.com/track/6mmr75lBVZnN3iWl8Jk3jO) | [Daddy Owen](https://open.spotify.com/artist/0C0jx86ffVZNW144tEpETy) | [Wewe ni mungu](https://open.spotify.com/album/4EPQZLH7dmSyngXFG7D0OP) | 4:22 |
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYlV6JNtLoBy.md) - [plain]
 | 39 | [Siteketei](https://open.spotify.com/track/67LFW34evrWCOHi9ZTqIXz) | [Angel Benard](https://open.spotify.com/artist/7lfpPXqQTNddUIYXLDVbbD) | [Siteketei](https://open.spotify.com/album/0gtIbZPhTNbYUf8GNhRtMC) | 3:30 |
 | 40 | [Gharama](https://open.spotify.com/track/7smwyHlMEmutM4zl9UGInu) | [Guardian Angel](https://open.spotify.com/artist/4GH5MurAeyms73h1WLx1FZ), [Rose Muhando](https://open.spotify.com/artist/43KbcDih4fGBiHXsdI5X87) | [Gharama](https://open.spotify.com/album/636VoPFDMsGNC4E5MGRz1z) | 3:14 |
 | 41 | [Thamani Ya Wokovu](https://open.spotify.com/track/5npUvkxp8M3tT4DMSjvoeS) | [Christina Shusho](https://open.spotify.com/artist/0yOSvlhtID1BtqO5UUv5SL) | [Nipe Macho](https://open.spotify.com/album/0GB03IydOiczdTv1bTK7DV) | 5:15 |
-| 42 | [Nikupendeze](https://open.spotify.com/track/6PsXyv0ljD3fuOTZRiOw4Z) | [Mercy Masika](https://open.spotify.com/artist/768ba0tQi1ULwowdydY05T) | [Mwema](https://open.spotify.com/album/6nXlu9652BlZrJySXjdnsX) | 3:54 |
-| 43 | [Usiniache \- Remix](https://open.spotify.com/track/44mdd5TPUmYqrir91xg9bX) | [Mr Seed](https://open.spotify.com/artist/6worshay3dx3NqPNl8PRSw), [Wanavokali](https://open.spotify.com/artist/0JeZtZ5PnJVYLsXDZsKKMP) | [Usiniache \(Remix\)](https://open.spotify.com/album/2uzf8hKInIrYTMqqbLmez2) | 4:30 |
+| 42 | [Usiniache \- Remix](https://open.spotify.com/track/44mdd5TPUmYqrir91xg9bX) | [Mr Seed](https://open.spotify.com/artist/6worshay3dx3NqPNl8PRSw), [Wanavokali](https://open.spotify.com/artist/0JeZtZ5PnJVYLsXDZsKKMP) | [Usiniache \(Remix\)](https://open.spotify.com/album/2uzf8hKInIrYTMqqbLmez2) | 4:30 |
+| 43 | [Nikupendeze](https://open.spotify.com/track/6PsXyv0ljD3fuOTZRiOw4Z) | [Mercy Masika](https://open.spotify.com/artist/768ba0tQi1ULwowdydY05T) | [Mwema](https://open.spotify.com/album/6nXlu9652BlZrJySXjdnsX) | 3:54 |
 | 44 | [Pale Pale](https://open.spotify.com/track/20CfRlYyl69ZcixsWjIXR9) | [Size 8](https://open.spotify.com/artist/4ZnnTnbEvzqmp1r52XTbBe) | [Pale Pale](https://open.spotify.com/album/1UCwuyBGve3MilWhoBhIhl) | 3:30 |
 | 45 | [Vanity](https://open.spotify.com/track/2hU8ghQ7P480nxYoD3hzmc) | [Daddy Owen](https://open.spotify.com/artist/0C0jx86ffVZNW144tEpETy) | [Vanity](https://open.spotify.com/album/6llcDSIf386x2uFut64Z0O) | 4:37 |
 | 46 | [Vimbada](https://open.spotify.com/track/6PAZJPDC9Qrcz30gpiCMMx) | [Moji Shortbabaa](https://open.spotify.com/artist/75LES04hIh8qYY8Oqdp7rn) | [Yesu Mtaani](https://open.spotify.com/album/5grus83AKDhpY4rKcBV3VS) | 3:14 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYlV6JNtLoBy.md) - [plain]
 | 49 | [Mungu Mkuu](https://open.spotify.com/track/50Fkvb6cISuTobM1YA7Gys) | [Evelyn Wanjiru](https://open.spotify.com/artist/7EWjYW7bIdaCPSa7XvUyQK) | [Mungu Mkuu](https://open.spotify.com/album/7d5UjFXgi6OO2MYYsFx8aj) | 5:03 |
 | 50 | [My Everything](https://open.spotify.com/track/701bS0JRIz8otP7cNysD63) | [Wahu](https://open.spotify.com/artist/71rskhiIZ7C255cRyXfZOq) | [Wahu Gospel EP](https://open.spotify.com/album/4IAGY70XLlwIs5X4ALHtZ1) | 3:57 |
 
-Snapshot ID: `MCwwZDI4MzYwNmUyNTIxMGI2OGY3NDE4YTBhNzM3MzhkZjBjNjcyMDFi`
+Snapshot ID: `MCw4ZDBlNmI5NjNiMGY1ZDYxMDU0NmQ0NTM0ZjVkMThlMzRiMzgxYTdm`

@@ -1,12 +1,12 @@
 {
   "description": "O trap nacional pra qualquer hora, daquele jeit\u00e3o.",
-  "num_followers": 111250,
+  "num_followers": 111410,
   "original_name": "Trap Classe",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyZWVkNzg3OWU0MzRlOTc4ODJlYmIzMjhmNGJiNTczZjQwZWVhNzI3",
+  "snapshot_id": "MCw4MTcxZTA0NzFlZTQzYWUzM2Y3M2RmNmEyY2M4YmQ0MWJmNGMyZWUz",
   "tracks": [
     {
       "added_at": "2023-02-07 20:52:54",
@@ -579,6 +579,26 @@
     {
       "added_at": "2023-02-07 20:52:54",
       "album": {
+        "name": "MIDNIGHT CALLS",
+        "url": "https://open.spotify.com/album/1z0wqOFRl7Q6Jj3qu88hbc"
+      },
+      "artists": [
+        {
+          "name": "Yunk Vino",
+          "url": "https://open.spotify.com/artist/460m2YG30duLCuHwFdiLgX"
+        },
+        {
+          "name": "Sidoka",
+          "url": "https://open.spotify.com/artist/7EyzyrMNgqiK8bMrbkOT9l"
+        }
+      ],
+      "duration_ms": 251923,
+      "name": "30 Dias",
+      "url": "https://open.spotify.com/track/69ebm9wovT0UJX3vBp571J"
+    },
+    {
+      "added_at": "2023-02-07 20:52:54",
+      "album": {
         "name": "Assault (Rio)",
         "url": "https://open.spotify.com/album/1vQDSvZfK37xqxEmza4uha"
       },
@@ -619,26 +639,6 @@
       "duration_ms": 324016,
       "name": "Assault (Rio)",
       "url": "https://open.spotify.com/track/4FOf88scN5qTRGXc55tGJ0"
-    },
-    {
-      "added_at": "2023-02-07 20:52:54",
-      "album": {
-        "name": "MIDNIGHT CALLS",
-        "url": "https://open.spotify.com/album/1z0wqOFRl7Q6Jj3qu88hbc"
-      },
-      "artists": [
-        {
-          "name": "Yunk Vino",
-          "url": "https://open.spotify.com/artist/460m2YG30duLCuHwFdiLgX"
-        },
-        {
-          "name": "Sidoka",
-          "url": "https://open.spotify.com/artist/7EyzyrMNgqiK8bMrbkOT9l"
-        }
-      ],
-      "duration_ms": 251923,
-      "name": "30 Dias",
-      "url": "https://open.spotify.com/track/69ebm9wovT0UJX3vBp571J"
     },
     {
       "added_at": "2023-02-07 20:52:54",
@@ -733,7 +733,7 @@
       "url": "https://open.spotify.com/track/3ow7zYRhbIO7f4yyHI4ZaD"
     },
     {
-      "added_at": "2023-05-18 01:06:11",
+      "added_at": "2023-05-19 00:43:42",
       "album": {
         "name": "Menino Ney",
         "url": "https://open.spotify.com/album/3IWRs9fZhKc4i7lCkqNPHU"
@@ -975,6 +975,30 @@
     {
       "added_at": "2023-02-07 20:52:54",
       "album": {
+        "name": "Meu Corre",
+        "url": "https://open.spotify.com/album/1jFY75tKVWiLmiCRe6WFGr"
+      },
+      "artists": [
+        {
+          "name": "MC Caverinha",
+          "url": "https://open.spotify.com/artist/7tojcuXcZ7eBlQjbAc65Ee"
+        },
+        {
+          "name": "Djonga",
+          "url": "https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY"
+        },
+        {
+          "name": "AMUSIK",
+          "url": "https://open.spotify.com/artist/48r1nXoaPXPSx1LoM0Rnzl"
+        }
+      ],
+      "duration_ms": 170181,
+      "name": "Meu Corre",
+      "url": "https://open.spotify.com/track/0iTTbJikpkTpjn4FUwH9lW"
+    },
+    {
+      "added_at": "2023-02-07 20:52:54",
+      "album": {
         "name": "Zero Mancada",
         "url": "https://open.spotify.com/album/4QLHe2XXswsU9cB4gV7zJE"
       },
@@ -999,30 +1023,6 @@
       "duration_ms": 162717,
       "name": "Zero Mancada",
       "url": "https://open.spotify.com/track/57CVH7IJGRuhClaC8zAWZh"
-    },
-    {
-      "added_at": "2023-02-07 20:52:54",
-      "album": {
-        "name": "Meu Corre",
-        "url": "https://open.spotify.com/album/1jFY75tKVWiLmiCRe6WFGr"
-      },
-      "artists": [
-        {
-          "name": "MC Caverinha",
-          "url": "https://open.spotify.com/artist/7tojcuXcZ7eBlQjbAc65Ee"
-        },
-        {
-          "name": "Djonga",
-          "url": "https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY"
-        },
-        {
-          "name": "AMUSIK",
-          "url": "https://open.spotify.com/artist/48r1nXoaPXPSx1LoM0Rnzl"
-        }
-      ],
-      "duration_ms": 170181,
-      "name": "Meu Corre",
-      "url": "https://open.spotify.com/track/0iTTbJikpkTpjn4FUwH9lW"
     },
     {
       "added_at": "2023-02-07 20:52:54",
@@ -1283,6 +1283,26 @@
     {
       "added_at": "2023-02-07 20:52:54",
       "album": {
+        "name": "212 Vip",
+        "url": "https://open.spotify.com/album/0RmoblwYMgWfsr6DlNiIms"
+      },
+      "artists": [
+        {
+          "name": "MC Caverinha",
+          "url": "https://open.spotify.com/artist/7tojcuXcZ7eBlQjbAc65Ee"
+        },
+        {
+          "name": "Cita",
+          "url": "https://open.spotify.com/artist/3SJnySPOzMoVzk9R59d8Vv"
+        }
+      ],
+      "duration_ms": 132024,
+      "name": "212 Vip",
+      "url": "https://open.spotify.com/track/5jRaYDCcftXSc4a0eXJaz6"
+    },
+    {
+      "added_at": "2023-02-07 20:52:54",
+      "album": {
         "name": "T\u00e1 com o Papato (feat. BIN)",
         "url": "https://open.spotify.com/album/4at7Ve0oxnTlQpCg77uEHp"
       },
@@ -1355,26 +1375,6 @@
       "duration_ms": 191376,
       "name": "V\u00edrgula",
       "url": "https://open.spotify.com/track/4byDUIUXgA7Je3qcCbdFPq"
-    },
-    {
-      "added_at": "2023-02-07 20:52:54",
-      "album": {
-        "name": "212 Vip",
-        "url": "https://open.spotify.com/album/0RmoblwYMgWfsr6DlNiIms"
-      },
-      "artists": [
-        {
-          "name": "MC Caverinha",
-          "url": "https://open.spotify.com/artist/7tojcuXcZ7eBlQjbAc65Ee"
-        },
-        {
-          "name": "Cita",
-          "url": "https://open.spotify.com/artist/3SJnySPOzMoVzk9R59d8Vv"
-        }
-      ],
-      "duration_ms": 132024,
-      "name": "212 Vip",
-      "url": "https://open.spotify.com/track/5jRaYDCcftXSc4a0eXJaz6"
     }
   ],
   "unique_name": "Trap Classe",

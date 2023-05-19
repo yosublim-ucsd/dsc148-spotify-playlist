@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7AqyNZFu97s.md) - [plain]
 
 > The best new music by independent artists in the UK + Ireland\. Cover: Belly Rachel
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,872 likes - 80 songs - 4 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,879 likes - 80 songs - 4 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7AqyNZFu97s.md) - [plain]
 | 79 | [Happier](https://open.spotify.com/track/7bh8iyEh9w4j0avFN2bIJR) | [SOPHIE DOYLE RYDER](https://open.spotify.com/artist/5QCok3NH6vAlK12mUElHeZ) | [Happier](https://open.spotify.com/album/5PmkyJvYmwTljLWcpWOjQm) | 3:22 |
 | 80 | [Stressed](https://open.spotify.com/track/1wloDWpI6LMipnVw29bWyK) | [Oliver Pinder](https://open.spotify.com/artist/2FUeTwcoaE68uITtWaTT2a) | [Stressed](https://open.spotify.com/album/2gxCQwEIM0iPpSTXsxDlpf) | 3:07 |
 
-Snapshot ID: `MCxhN2I1MzhlOWM4N2FhMGIwODQ0YzBmZWRmYzJjZmQxOTc0MWM2NjEz`
+Snapshot ID: `MCxmODU4MDdjOTdlODUzMjI3NzJiY2QyYjBkZjlkMDhiYzUyMGM0OWEx`

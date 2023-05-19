@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ArBUudJwM5.md) - [plain]
 
 > Mujeres que la rompen feat\. Eruca Sativa.<br/>Dales play, dales power.
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,897 likes - 50 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,896 likes - 50 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,8 +14,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ArBUudJwM5.md) - [plain]
 | 4 | [Una Buena Cosa](https://open.spotify.com/track/2E9SLRpuzbO5xZ5I4NgMCf) | [Candelaria Zamar](https://open.spotify.com/artist/5CvtChuDVlejwaMPQb9Sx1) | [Una Linterna](https://open.spotify.com/album/1KCX4VC03LWUpHK6Pq9MYO) | 1:59 |
 | 5 | [LÁ LÁ](https://open.spotify.com/track/3OLstixS9sFsb9LsMM7Tio) | [Marilina Bertoldi](https://open.spotify.com/artist/1nm9PdmvzPXJmIlMOk5XLy) | [LÁ LÁ](https://open.spotify.com/album/2MquiHZvoqA5HwAh6NTz0x) | 2:44 |
 | 6 | [Fin del Mundo](https://open.spotify.com/track/30INzB3hMnHVTazJaMNAEo) | [Barbi Recanati](https://open.spotify.com/artist/4nwFiHgPXUpo0KgR1rZSAD) | [Fin del Mundo](https://open.spotify.com/album/51QkTeZMtaqtEHh0ERHY1O) | 5:19 |
-| 7 | [Piedra del Águila](https://open.spotify.com/track/4MvI1v4gJiMXzkF2x8O7S1) | [Las Ligas Menores](https://open.spotify.com/artist/3MNvKeLzGSvOPtXJAjCOzf) | [Piedra del Águila](https://open.spotify.com/album/2njRQrcNYEI4hDVzD4qmuZ) | 3:14 |
-| 8 | [Gran remera](https://open.spotify.com/track/3L6tkvVBqTVuqdOtVFuxbD) | [Mora y los Metegoles](https://open.spotify.com/artist/3bE6MHB83GAQf8NsvmcpCX) | [Suerte](https://open.spotify.com/album/392hK64cm39C8CDetPM6HC) | 1:17 |
+| 7 | [Gran remera](https://open.spotify.com/track/3L6tkvVBqTVuqdOtVFuxbD) | [Mora y los Metegoles](https://open.spotify.com/artist/3bE6MHB83GAQf8NsvmcpCX) | [Suerte](https://open.spotify.com/album/392hK64cm39C8CDetPM6HC) | 1:17 |
+| 8 | [Piedra del Águila](https://open.spotify.com/track/4MvI1v4gJiMXzkF2x8O7S1) | [Las Ligas Menores](https://open.spotify.com/artist/3MNvKeLzGSvOPtXJAjCOzf) | [Piedra del Águila](https://open.spotify.com/album/2njRQrcNYEI4hDVzD4qmuZ) | 3:14 |
 | 9 | [Rothmans](https://open.spotify.com/track/1mhq1CwMSZD6hITfzm6AzE) | [BLAIR](https://open.spotify.com/artist/5sSn8vGaBxIKeCclAk67TJ) | [Llorando en la Fiesta](https://open.spotify.com/album/2G9gRcA1G8qasisu7gQ4yD) | 3:11 |
 | 10 | [Tu Vereda](https://open.spotify.com/track/307KPgcopUmLzMmoFo7Wx3) | [An Espil](https://open.spotify.com/artist/0GEBrC42d3MZT2LpDPh2qt), [Ivan C\. Bakmas](https://open.spotify.com/artist/7e28cikzCdfdAXTOdHPC1R), [Fer Moreno](https://open.spotify.com/artist/4AmJqzYz4mY7EfMbClkuob) | [Tu Vereda](https://open.spotify.com/album/0is8OQhtOKSoPqt4rR7Ecd) | 2:27 |
 | 11 | [Fuera o Más Allá](https://open.spotify.com/track/3qQ0TTpIt0OXH7plhxeISL) | [Eruca Sativa](https://open.spotify.com/artist/2RPNbhguRnI9uqahGYcUc6) | [Blanco](https://open.spotify.com/album/3MC1mUaL0H7kcVgTEFXLWv) | 3:13 |
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ArBUudJwM5.md) - [plain]
 | 15 | [Del Amor el Helado](https://open.spotify.com/track/6xVQpm9hI7692sWxl6EaEt) | [Mariana Michi](https://open.spotify.com/artist/31eAzxn0H5U0iAzTokpYBR) | [Cayó el Valiente](https://open.spotify.com/album/6N4ZiLKW6mQ9jPmwjxj2rd) | 3:19 |
 | 16 | [NO ESTÁ EN EL SISTEMA](https://open.spotify.com/track/2ofro0kd49m5OkKDAkxWCP) | [LUPE](https://open.spotify.com/artist/4PRzyAvNqlYKSMhsKl2e0j) | [UN NÚMERO](https://open.spotify.com/album/5q6ysT1TcmswkV4c86d2bI) | 1:12 |
 | 17 | [Bolero](https://open.spotify.com/track/3yz96oTI0rHUaXruFziWBS) | [Lesbiandrama](https://open.spotify.com/artist/0LZwj8XbxIwTjaDX478RXl), [Paula Maffia](https://open.spotify.com/artist/4soieU4IFUQEcYULczxzFa), [Lucy Patané](https://open.spotify.com/artist/0ocA2OjaXb4KyFX7zJE2Ld) | [Lesbiandrama](https://open.spotify.com/album/2oY9USTDYbnQtcy5bRa2DR) | 4:03 |
-| 18 | [El Imán](https://open.spotify.com/track/2AzQoLgqijY6WVBndchJvP) | [Delfina Campos](https://open.spotify.com/artist/4d0lC4AT0DwcybhN6SSB0G) | [Como Bailan los Demás](https://open.spotify.com/album/4wz7oHddJ7WT2MwROywUQF) | 4:03 |
-| 19 | [Suponte](https://open.spotify.com/track/1SeOc1M9lJzUFwYKnXIRUy) | [Noelia Recalde](https://open.spotify.com/artist/26O45xhjbZjSY8vubvACRv) | [Mi Propia Casa](https://open.spotify.com/album/6fk7OdqM6ToImBSso5tCdx) | 2:29 |
+| 18 | [Suponte](https://open.spotify.com/track/1SeOc1M9lJzUFwYKnXIRUy) | [Noelia Recalde](https://open.spotify.com/artist/26O45xhjbZjSY8vubvACRv) | [Mi Propia Casa](https://open.spotify.com/album/6fk7OdqM6ToImBSso5tCdx) | 2:29 |
+| 19 | [El Imán](https://open.spotify.com/track/2AzQoLgqijY6WVBndchJvP) | [Delfina Campos](https://open.spotify.com/artist/4d0lC4AT0DwcybhN6SSB0G) | [Como Bailan los Demás](https://open.spotify.com/album/4wz7oHddJ7WT2MwROywUQF) | 4:03 |
 | 20 | [El Valle Encantado](https://open.spotify.com/track/2nHMuo3mqEOePjLlIz1PhQ) | [Feli Colina](https://open.spotify.com/artist/4EmjPNMuvvKSEAyx7ibGrs) | [El Valle Encantado](https://open.spotify.com/album/7zpoL3fDPFbGYB7XdbSl1S) | 2:17 |
 | 21 | [Pido 1 deseo](https://open.spotify.com/track/1vXAdOBHefeLUBABf5R4U9) | [Anyi](https://open.spotify.com/artist/4X3jL5rTrxMobkSxezJ6SD) | [Luz de perla](https://open.spotify.com/album/6ENurOBs5BwrZNvGvJ2VIY) | 2:41 |
 | 22 | [Mágica Intuición](https://open.spotify.com/track/0LyxlEukWhwdDyMuHdAsY8) | [La Piba Berreta](https://open.spotify.com/artist/4qECsLAGxuTLtPdDtgMCST), [Anyi](https://open.spotify.com/artist/4X3jL5rTrxMobkSxezJ6SD) | [Mágica Intuición](https://open.spotify.com/album/667lQQJCy9qQfB5pGI2bYE) | 3:10 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ArBUudJwM5.md) - [plain]
 | 49 | [Saturno](https://open.spotify.com/track/62AxB4BpSqAhbBEdcBOrpD) | [Charlie](https://open.spotify.com/artist/2l9jciSGE6MJ4Ez7Tc9ryr) | [Cráneo](https://open.spotify.com/album/0LduVR7QbZX5tsuZ6aEg4c) | 3:20 |
 | 50 | [Uh](https://open.spotify.com/track/0qQM9TJBrvNJu62aaxcYxF) | [Jazmín Mazzuchelli](https://open.spotify.com/artist/0ZiRsCKLvcfyDQwbMYgAhm) | [Uh](https://open.spotify.com/album/08F1JJE42aA2P7mlQjAldU) | 2:36 |
 
-Snapshot ID: `MCxlNTRhNmJhMGY3OGNiMTcxNGQ3OWMxMTY4Y2UyYTIxMzNiMDdmN2Mz`
+Snapshot ID: `MCwxN2U1MjRhNDRmODM5ZmJkODJiOTYwODlhN2U0Y2ZhZDA4Yzk2M2Q3`

@@ -353,6 +353,24 @@
     },
     {
       "album": {
+        "name": "Baggio",
+        "url": "https://open.spotify.com/album/039GsP3Uy8n0l7JlZcADEg"
+      },
+      "artists": [
+        {
+          "name": "Miles Kane",
+          "url": "https://open.spotify.com/artist/3M0H4efyA5YcijrKlaKbYn"
+        }
+      ],
+      "date_added": "2023-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221389,
+      "name": "Baggio",
+      "url": "https://open.spotify.com/track/56xBkDSJfpuWbQfRs9gVxw"
+    },
+    {
+      "album": {
         "name": "BANG BANG!",
         "url": "https://open.spotify.com/album/4YmjnqegnwZ18ruZjdJsIH"
       },
@@ -1737,6 +1755,24 @@
     },
     {
       "album": {
+        "name": "Francesca",
+        "url": "https://open.spotify.com/album/09gUFQ3fFjCHuhv1ab99Ce"
+      },
+      "artists": [
+        {
+          "name": "Hozier",
+          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
+        }
+      ],
+      "date_added": "2023-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270066,
+      "name": "Francesca",
+      "url": "https://open.spotify.com/track/6TSH6vh6KkSfExHM6evcbr"
+    },
+    {
+      "album": {
         "name": "Freaking Me Out",
         "url": "https://open.spotify.com/album/4zfYtnA9PxMK3daDkQrqpN"
       },
@@ -2044,7 +2080,7 @@
       ],
       "date_added": "2023-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 164899,
       "name": "Half My Heart",
       "url": "https://open.spotify.com/track/3EMVljpsr9TPKYScAFQNJh"
@@ -2192,7 +2228,7 @@
       ],
       "date_added": "2023-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 239011,
       "name": "Heart Attack - Rock Version",
       "url": "https://open.spotify.com/track/6qgwX7o1fYLwbikNrddmFo"
@@ -2210,10 +2246,28 @@
       ],
       "date_added": "2023-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 217537,
       "name": "Heartbreak Feels So Good",
       "url": "https://open.spotify.com/track/0Rw35DKIumkbbMC7XPOn5r"
+    },
+    {
+      "album": {
+        "name": "So Much (For) Stardust",
+        "url": "https://open.spotify.com/album/5mWnMYLnfcnkDOCojHW6O1"
+      },
+      "artists": [
+        {
+          "name": "Fall Out Boy",
+          "url": "https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX"
+        }
+      ],
+      "date_added": "2023-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217537,
+      "name": "Heartbreak Feels So Good",
+      "url": "https://open.spotify.com/track/562RwVsxP4JjNCbXH4dDcy"
     },
     {
       "album": {
@@ -2626,6 +2680,24 @@
       "duration_ms": 260733,
       "name": "If You Say the Word",
       "url": "https://open.spotify.com/track/3pmSHIHtJC289ImufO7uor"
+    },
+    {
+      "album": {
+        "name": "If You're Blue",
+        "url": "https://open.spotify.com/album/13i41KdYRgeDRSnGDjri2j"
+      },
+      "artists": [
+        {
+          "name": "Joan Jett & the Blackhearts",
+          "url": "https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K"
+        }
+      ],
+      "date_added": "2023-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195280,
+      "name": "If You're Blue",
+      "url": "https://open.spotify.com/track/0GcYrixlyRkIVsR0IczzDP"
     },
     {
       "album": {
@@ -3188,7 +3260,7 @@
       ],
       "date_added": "2023-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 187291,
       "name": "Lowest In Me",
       "url": "https://open.spotify.com/track/1cdCfqSwdXM0BQEDy5Fc7M"
@@ -3438,7 +3510,7 @@
       ],
       "date_added": "2023-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 275319,
       "name": "Mermaids",
       "url": "https://open.spotify.com/track/1rZsn9K890Goymfl7YIdgY"
@@ -3844,7 +3916,7 @@
       ],
       "date_added": "2023-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 174350,
       "name": "Numb",
       "url": "https://open.spotify.com/track/3P937TrYRrGCbjgOIYzhnm"
@@ -4098,6 +4170,24 @@
       "duration_ms": 265013,
       "name": "Phantom",
       "url": "https://open.spotify.com/track/14wSiOY3ZjskXuFj4xiEAD"
+    },
+    {
+      "album": {
+        "name": "Phantom Of The Opera",
+        "url": "https://open.spotify.com/album/3LZ9bieXF4luLjfeIE9zqb"
+      },
+      "artists": [
+        {
+          "name": "Ghost",
+          "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
+        }
+      ],
+      "date_added": "2023-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 443386,
+      "name": "Phantom Of The Opera",
+      "url": "https://open.spotify.com/track/4KNuTxGlUSb9hFm8asqWuZ"
     },
     {
       "album": {
@@ -4393,6 +4483,24 @@
     },
     {
       "album": {
+        "name": "Sacred The Thread",
+        "url": "https://open.spotify.com/album/4dimPGtC8aTFM0jCf739TN"
+      },
+      "artists": [
+        {
+          "name": "Greta Van Fleet",
+          "url": "https://open.spotify.com/artist/4NpFxQe2UvRCAjto3JqlSl"
+        }
+      ],
+      "date_added": "2023-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 321710,
+      "name": "Sacred The Thread",
+      "url": "https://open.spotify.com/track/1euMlU3weroX6ERo4vEfQl"
+    },
+    {
+      "album": {
         "name": "San Quentin",
         "url": "https://open.spotify.com/album/2oEamuLTW9IlUiDrZLAPMZ"
       },
@@ -4578,7 +4686,7 @@
       ],
       "date_added": "2023-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 190137,
       "name": "Shelter (feat. Avril Lavigne)",
       "url": "https://open.spotify.com/track/62pC4mgtn2CwTxEHVbCCvn"
@@ -4933,6 +5041,24 @@
     },
     {
       "album": {
+        "name": "Summer",
+        "url": "https://open.spotify.com/album/6POoeDz8rzb3LNGH7iMM0u"
+      },
+      "artists": [
+        {
+          "name": "Dolly Ave",
+          "url": "https://open.spotify.com/artist/3CRylfSfibkfnjCMLhWmIk"
+        }
+      ],
+      "date_added": "2023-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205426,
+      "name": "Summer",
+      "url": "https://open.spotify.com/track/2fCh2NDrsTWRykS1WCGiBE"
+    },
+    {
+      "album": {
         "name": "SUPERMODEL",
         "url": "https://open.spotify.com/album/5jhbLeXH1a3SRSOg84GSUn"
       },
@@ -5283,6 +5409,24 @@
     },
     {
       "album": {
+        "name": "The Narcissist",
+        "url": "https://open.spotify.com/album/2BfpnbY3M0oc9NyW87NKGz"
+      },
+      "artists": [
+        {
+          "name": "Blur",
+          "url": "https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS"
+        }
+      ],
+      "date_added": "2023-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245225,
+      "name": "The Narcissist",
+      "url": "https://open.spotify.com/track/35d93v9AXADp8Wc0qJ3mIo"
+    },
+    {
+      "album": {
         "name": "The Rumbling",
         "url": "https://open.spotify.com/album/0YK5JsSCN2Z8g1ejHuBqeg"
       },
@@ -5312,7 +5456,7 @@
       ],
       "date_added": "2022-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 215365,
       "name": "The Shape I'm Takin'",
       "url": "https://open.spotify.com/track/4UEMZFRrxVUkuMVaHhWoKQ"
@@ -5734,6 +5878,24 @@
       "duration_ms": 186146,
       "name": "Tube Snake Boogie",
       "url": "https://open.spotify.com/track/48C4gR9T4fOTuUiNQ6W0RA"
+    },
+    {
+      "album": {
+        "name": "Under You",
+        "url": "https://open.spotify.com/album/2XD1xj7tbNEsiwmwyXAKu8"
+      },
+      "artists": [
+        {
+          "name": "Foo Fighters",
+          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
+        }
+      ],
+      "date_added": "2023-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219400,
+      "name": "Under You",
+      "url": "https://open.spotify.com/track/1x0NfY1A4q8eKN3k4X8sfE"
     },
     {
       "album": {
@@ -6328,7 +6490,7 @@
       ],
       "date_added": "2023-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 223320,
       "name": "\u7d46\u30ce\u5947\u8de1",
       "url": "https://open.spotify.com/track/2VBLFxCUyFp5BfmsZpxcis"

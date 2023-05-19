@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-09",
-  "description": "The R&B and good vibe tracks for your current mood. Cover:  PETITE",
+  "description": "The R&B and good vibe tracks for your current mood. Cover:  H.E.R.",
   "name": "mood.",
   "tracks": [
     {
@@ -20,6 +20,24 @@
       "duration_ms": 209346,
       "name": "(empty)",
       "url": "https://open.spotify.com/track/0ayK1CJh1cMRjUJRCDWhCd"
+    },
+    {
+      "album": {
+        "name": "(Not Your) Cup Of Tea",
+        "url": "https://open.spotify.com/album/5XVaigQJ7rvGGOQybRF85h"
+      },
+      "artists": [
+        {
+          "name": "Marion Jola",
+          "url": "https://open.spotify.com/artist/5Bh3L78YDNSWljRR1JO5C5"
+        }
+      ],
+      "date_added": "2023-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196500,
+      "name": "(Not Your) Cup Of Tea",
+      "url": "https://open.spotify.com/track/5z8xhGNPcxNdvhjX09VlYP"
     },
     {
       "album": {
@@ -1159,6 +1177,32 @@
     },
     {
       "album": {
+        "name": "Daydreaming",
+        "url": "https://open.spotify.com/album/2x7bjrZNDZ7hNcosj0dS39"
+      },
+      "artists": [
+        {
+          "name": "NxWorries",
+          "url": "https://open.spotify.com/artist/6PEMFpe3PTOksdV4ZXUpbE"
+        },
+        {
+          "name": "Anderson .Paak",
+          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
+        },
+        {
+          "name": "Knxwledge",
+          "url": "https://open.spotify.com/artist/17Zu03OgBVxgLxWmRUyNOJ"
+        }
+      ],
+      "date_added": "2023-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186873,
+      "name": "Daydreaming",
+      "url": "https://open.spotify.com/track/6qqq5zPYV7U4UsKnGC82tw"
+    },
+    {
+      "album": {
         "name": "Violets Aren't Blue",
         "url": "https://open.spotify.com/album/5ISmrwNCl0hRBOvuz50Y4p"
       },
@@ -2210,6 +2254,24 @@
       "duration_ms": 194550,
       "name": "Good Care",
       "url": "https://open.spotify.com/track/1argqjqP7b6GjGfAGiBlF8"
+    },
+    {
+      "album": {
+        "name": "good morning good night",
+        "url": "https://open.spotify.com/album/5ZWbmaRZyFVM8HszjLDbJa"
+      },
+      "artists": [
+        {
+          "name": "blue clementine",
+          "url": "https://open.spotify.com/artist/0YlkgjUQ1R3plj7M9KmIXk"
+        }
+      ],
+      "date_added": "2023-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209542,
+      "name": "good morning good night",
+      "url": "https://open.spotify.com/track/4ij11R78HtOc7SIeyC043g"
     },
     {
       "album": {
@@ -4256,6 +4318,24 @@
       "duration_ms": 152238,
       "name": "My Luv (feat. Bibi Bourelly)",
       "url": "https://open.spotify.com/track/5nrzA4GIsgS1wdwY3q7cnt"
+    },
+    {
+      "album": {
+        "name": "Naughty",
+        "url": "https://open.spotify.com/album/1U5o6AzFRMRrFQG6AtLwx2"
+      },
+      "artists": [
+        {
+          "name": "DeVita",
+          "url": "https://open.spotify.com/artist/5PS3ZZE5bBiZ3Ct9HiRG2B"
+        }
+      ],
+      "date_added": "2023-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165600,
+      "name": "Naughty",
+      "url": "https://open.spotify.com/track/64UxpSQSCPXgNjkmVXA8oD"
     },
     {
       "album": {
@@ -6537,6 +6617,24 @@
     },
     {
       "album": {
+        "name": "The Journey",
+        "url": "https://open.spotify.com/album/2CspZ8WA96Ox4riutFwzPd"
+      },
+      "artists": [
+        {
+          "name": "H.E.R.",
+          "url": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
+        }
+      ],
+      "date_added": "2023-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262062,
+      "name": "The Journey",
+      "url": "https://open.spotify.com/track/7y5JL5ORUmqHHZQuhZI5JI"
+    },
+    {
+      "album": {
         "name": "WHO HURT YOU?",
         "url": "https://open.spotify.com/album/5KOqAAM9SMO0LLbT5apaur"
       },
@@ -7526,6 +7624,28 @@
       "duration_ms": 240265,
       "name": "When Dawn Comes Again (feat. BAEKHYUN)",
       "url": "https://open.spotify.com/track/3K5LF6pX2oTzIQA62t6qnK"
+    },
+    {
+      "album": {
+        "name": "When Love Sucks (feat. Dido)",
+        "url": "https://open.spotify.com/album/0BmbK3Ayd0Q9BWOCQYOdQw"
+      },
+      "artists": [
+        {
+          "name": "Jason Derulo",
+          "url": "https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y"
+        },
+        {
+          "name": "Dido",
+          "url": "https://open.spotify.com/artist/2mpeljBig2IXLXRAFO9AAs"
+        }
+      ],
+      "date_added": "2023-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169645,
+      "name": "When Love Sucks (feat. Dido)",
+      "url": "https://open.spotify.com/track/59vMO9rkUuefwLMKzohNo5"
     },
     {
       "album": {

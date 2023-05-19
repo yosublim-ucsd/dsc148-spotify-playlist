@@ -1,12 +1,12 @@
 {
   "description": "Una dosis con lo m\u00e1s ching\u00f3n pa'l gusto mexicano. Molotov en portada. ",
-  "num_followers": 990705,
+  "num_followers": 990900,
   "original_name": "La + Chingona",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5MjNhZjc0ZThlM2M5NDc2NDRkOGZlZTBiMjU5YjRmOTdhMGNmNDU4",
+  "snapshot_id": "MCwxYmM0YjhiZmU2ZGVkODc5MjdlYzAxMGE4ODE0NTQzYmQzNDc5ZWVm",
   "tracks": [
     {
       "added_at": "2023-05-12 06:00:00",
@@ -1055,6 +1055,22 @@
     {
       "added_at": "2023-05-12 06:00:00",
       "album": {
+        "name": "Monarca",
+        "url": "https://open.spotify.com/album/2Y2jwkzcM6CszpX1FEghEw"
+      },
+      "artists": [
+        {
+          "name": "La Gusana Ciega",
+          "url": "https://open.spotify.com/artist/4bx914GWsNvshDzfYNSKjY"
+        }
+      ],
+      "duration_ms": 283013,
+      "name": "Tu Volver\u00e1s",
+      "url": "https://open.spotify.com/track/3FD4WGUSXKAkYSXs1FJ5JU"
+    },
+    {
+      "added_at": "2023-05-12 06:00:00",
+      "album": {
         "name": "\u00c9l No Lo Mat\u00f3",
         "url": "https://open.spotify.com/album/0kYHzDHyOWhCjBDAqDgoM8"
       },
@@ -1071,22 +1087,6 @@
       "duration_ms": 278934,
       "name": "\u00c9l No Lo Mat\u00f3",
       "url": "https://open.spotify.com/track/0HCppMSh838nCgSxskJGzz"
-    },
-    {
-      "added_at": "2023-05-12 06:00:00",
-      "album": {
-        "name": "Monarca",
-        "url": "https://open.spotify.com/album/2Y2jwkzcM6CszpX1FEghEw"
-      },
-      "artists": [
-        {
-          "name": "La Gusana Ciega",
-          "url": "https://open.spotify.com/artist/4bx914GWsNvshDzfYNSKjY"
-        }
-      ],
-      "duration_ms": 283013,
-      "name": "Tu Volver\u00e1s",
-      "url": "https://open.spotify.com/track/3FD4WGUSXKAkYSXs1FJ5JU"
     },
     {
       "added_at": "2023-05-12 06:00:00",
@@ -1247,22 +1247,6 @@
     {
       "added_at": "2023-05-12 06:00:00",
       "album": {
-        "name": "Almas Rotas",
-        "url": "https://open.spotify.com/album/4ksTEssdxEf4aOBy7o4Ifz"
-      },
-      "artists": [
-        {
-          "name": "DLD",
-          "url": "https://open.spotify.com/artist/7CwiLiC1S8B69RMPxbDb6S"
-        }
-      ],
-      "duration_ms": 225000,
-      "name": "Almas Rotas",
-      "url": "https://open.spotify.com/track/3tCD9o5wDyg8yrH7MspqkW"
-    },
-    {
-      "added_at": "2023-05-12 06:00:00",
-      "album": {
         "name": "D.D. Y Ponle Play",
         "url": "https://open.spotify.com/album/4LXKLEQwKSOPTjdQJ12AZW"
       },
@@ -1275,6 +1259,22 @@
       "duration_ms": 174880,
       "name": "Cada Vez Que Me Voy",
       "url": "https://open.spotify.com/track/2poAH0O2ori8T3SJztgv4Q"
+    },
+    {
+      "added_at": "2023-05-12 06:00:00",
+      "album": {
+        "name": "Almas Rotas",
+        "url": "https://open.spotify.com/album/4ksTEssdxEf4aOBy7o4Ifz"
+      },
+      "artists": [
+        {
+          "name": "DLD",
+          "url": "https://open.spotify.com/artist/7CwiLiC1S8B69RMPxbDb6S"
+        }
+      ],
+      "duration_ms": 225000,
+      "name": "Almas Rotas",
+      "url": "https://open.spotify.com/track/3tCD9o5wDyg8yrH7MspqkW"
     },
     {
       "added_at": "2023-05-12 06:00:00",
@@ -1359,22 +1359,6 @@
     {
       "added_at": "2023-05-12 06:00:00",
       "album": {
-        "name": "14 Episodios Sinf\u00f3nicos / En Vivo / Auditorio Nacional de M\u00e9xico / Febrero 2002",
-        "url": "https://open.spotify.com/album/68BnYL75CjklQes6lwfzWO"
-      },
-      "artists": [
-        {
-          "name": "Gustavo Cerati",
-          "url": "https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W"
-        }
-      ],
-      "duration_ms": 247884,
-      "name": "Ra\u00edz (Sinf\u00f3nico en Vivo)",
-      "url": "https://open.spotify.com/track/4olGOQU6lKPpw3NiuXKtae"
-    },
-    {
-      "added_at": "2023-05-12 06:00:00",
-      "album": {
         "name": "Trinchera",
         "url": "https://open.spotify.com/album/5oLaRXGevqs8RYxXhYe9PG"
       },
@@ -1387,6 +1371,22 @@
       "duration_ms": 220795,
       "name": "La Izquierda de la Noche",
       "url": "https://open.spotify.com/track/6Z1ljEyzvcjq3WcGrKXBIB"
+    },
+    {
+      "added_at": "2023-05-12 06:00:00",
+      "album": {
+        "name": "14 Episodios Sinf\u00f3nicos / En Vivo / Auditorio Nacional de M\u00e9xico / Febrero 2002",
+        "url": "https://open.spotify.com/album/68BnYL75CjklQes6lwfzWO"
+      },
+      "artists": [
+        {
+          "name": "Gustavo Cerati",
+          "url": "https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W"
+        }
+      ],
+      "duration_ms": 247884,
+      "name": "Ra\u00edz (Sinf\u00f3nico en Vivo)",
+      "url": "https://open.spotify.com/track/4olGOQU6lKPpw3NiuXKtae"
     },
     {
       "added_at": "2023-05-12 06:00:00",
@@ -1579,22 +1579,18 @@
     {
       "added_at": "2023-05-12 06:00:00",
       "album": {
-        "name": "Antes que el sol nos queme",
-        "url": "https://open.spotify.com/album/1s5MJq7KIQpR5z5clJ0ixU"
+        "name": "Pastel (En Vivo)",
+        "url": "https://open.spotify.com/album/08eN1GFr5VWVFcPEJL9TOu"
       },
       "artists": [
         {
-          "name": "Camila Moreno",
-          "url": "https://open.spotify.com/artist/0SJy1J0FgP21lbvGBMKT8H"
-        },
-        {
-          "name": "Andrea Echeverri",
-          "url": "https://open.spotify.com/artist/56WwKhBsxrWjpwXvJVLAjZ"
+          "name": "Fobia",
+          "url": "https://open.spotify.com/artist/3SqzxvGCKGJ9PYKXXPwjQS"
         }
       ],
-      "duration_ms": 255268,
-      "name": "Antes que el sol nos queme",
-      "url": "https://open.spotify.com/track/5In0QvvpyuKt8FHVviuRre"
+      "duration_ms": 311200,
+      "name": "Vivo - Pastel - En Vivo",
+      "url": "https://open.spotify.com/track/55DqQoupm2ZZqqeVdzDik4"
     },
     {
       "added_at": "2023-05-12 06:00:00",
@@ -1615,6 +1611,26 @@
     {
       "added_at": "2023-05-12 06:00:00",
       "album": {
+        "name": "Antes que el sol nos queme",
+        "url": "https://open.spotify.com/album/1s5MJq7KIQpR5z5clJ0ixU"
+      },
+      "artists": [
+        {
+          "name": "Camila Moreno",
+          "url": "https://open.spotify.com/artist/0SJy1J0FgP21lbvGBMKT8H"
+        },
+        {
+          "name": "Andrea Echeverri",
+          "url": "https://open.spotify.com/artist/56WwKhBsxrWjpwXvJVLAjZ"
+        }
+      ],
+      "duration_ms": 255268,
+      "name": "Antes que el sol nos queme",
+      "url": "https://open.spotify.com/track/5In0QvvpyuKt8FHVviuRre"
+    },
+    {
+      "added_at": "2023-05-12 06:00:00",
+      "album": {
         "name": "Brillo de Sol",
         "url": "https://open.spotify.com/album/79Meec6gttJaCauGA6nvKm"
       },
@@ -1627,22 +1643,6 @@
       "duration_ms": 202713,
       "name": "Brillo de Sol",
       "url": "https://open.spotify.com/track/1DMwAQVf5iQYvczjFH6hsb"
-    },
-    {
-      "added_at": "2023-05-12 06:00:00",
-      "album": {
-        "name": "Pastel (En Vivo)",
-        "url": "https://open.spotify.com/album/08eN1GFr5VWVFcPEJL9TOu"
-      },
-      "artists": [
-        {
-          "name": "Fobia",
-          "url": "https://open.spotify.com/artist/3SqzxvGCKGJ9PYKXXPwjQS"
-        }
-      ],
-      "duration_ms": 311200,
-      "name": "Vivo - Pastel - En Vivo",
-      "url": "https://open.spotify.com/track/55DqQoupm2ZZqqeVdzDik4"
     },
     {
       "added_at": "2023-05-12 06:00:00",

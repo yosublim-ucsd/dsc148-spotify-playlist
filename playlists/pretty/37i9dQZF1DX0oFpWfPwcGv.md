@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0oFpWfPwcGv.md) - [plain]
 
 > Disco forever\. Deeper cuts, forgotten gems and 8 minute versions.
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,236 likes - 75 songs - 7 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,283 likes - 75 songs - 7 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,12 +31,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0oFpWfPwcGv.md) - [plain]
 | 21 | [Haven't You Heard](https://open.spotify.com/track/1AAanCnoJF7USJKG9dEjey) | [Patrice Rushen](https://open.spotify.com/artist/1mNnxxnPfHQDOkFjnZmdkc) | [Pizzazz](https://open.spotify.com/album/38I3cIZowVjtksvYrpQIJf) | 6:45 |
 | 22 | [The Boss](https://open.spotify.com/track/5kfQK1Vb1mKSwzVn32Tarj) | [Diana Ross](https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl) | [The Boss \(Expanded Edition\)](https://open.spotify.com/album/7jqe6yQ9qtHqahli8WSYH4) | 4:01 |
 | 23 | [Nights on Broadway](https://open.spotify.com/track/30ZrzK67a7FoDiBfDSlU1x) | [Candi Staton](https://open.spotify.com/artist/3S34Unhn5yRcaH5K9aU5Et) | [Music Speaks Louder Than Words](https://open.spotify.com/album/1t3ooTkXczb3rVAvEwu2Et) | 3:29 |
-| 24 | [Georgy Porgy \(feat\. Cheryl Lynn\) \- Disco Version](https://open.spotify.com/track/2zgVJFC1zMX552Ein72J81) | [TOTO](https://open.spotify.com/artist/0PFtn5NtBbbUNbU9EAmIWF), [Cheryl Lynn](https://open.spotify.com/artist/6UfoTQXaV3DuqtDVjZIxwZ) | [The Best Of Cheryl Lynn: Got To Be Real](https://open.spotify.com/album/4iHg9LCYV1ajkqyFjl3sXy) | 5:05 |
-| 25 | [T.S.O.P\. \(The Sound of Philadelphia\) \(feat\. The Three Degrees\)](https://open.spotify.com/track/7kllQQPam6HumbUCIPSvHJ) | [MFSB](https://open.spotify.com/artist/2mknvtcck8i82nKxDPDibv), [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [Love Is The Message](https://open.spotify.com/album/6x6beV2H3fTTL2ovxA3iVQ) | 3:42 |
+| 24 | [T.S.O.P\. \(The Sound of Philadelphia\) \(feat\. The Three Degrees\)](https://open.spotify.com/track/7kllQQPam6HumbUCIPSvHJ) | [MFSB](https://open.spotify.com/artist/2mknvtcck8i82nKxDPDibv), [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [Love Is The Message](https://open.spotify.com/album/6x6beV2H3fTTL2ovxA3iVQ) | 3:42 |
+| 25 | [Georgy Porgy \(feat\. Cheryl Lynn\) \- Disco Version](https://open.spotify.com/track/2zgVJFC1zMX552Ein72J81) | [TOTO](https://open.spotify.com/artist/0PFtn5NtBbbUNbU9EAmIWF), [Cheryl Lynn](https://open.spotify.com/artist/6UfoTQXaV3DuqtDVjZIxwZ) | [The Best Of Cheryl Lynn: Got To Be Real](https://open.spotify.com/album/4iHg9LCYV1ajkqyFjl3sXy) | 5:05 |
 | 26 | [Burn This Disco Out](https://open.spotify.com/track/6aCs8gCrp4yrwvw7ylhau2) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [Off the Wall](https://open.spotify.com/album/2ZytN2cY4Zjrr9ukb2rqTP) | 3:41 |
 | 27 | [Native New Yorker \- 12" Disco Mix](https://open.spotify.com/track/1jR4bgFyL3ut5ExAKDDNEZ) | [Odyssey](https://open.spotify.com/artist/5b4SvpTqll0LSqJWPpXya5) | [Odyssey \(Expanded Edition\)](https://open.spotify.com/album/1uXAM1SMOvZqP198Xnfda6) | 5:36 |
-| 28 | [Xanadu](https://open.spotify.com/track/4zdspHPxpExPiU8RolxBUH) | [Olivia Newton\-John](https://open.spotify.com/artist/4BoRxUdrcgbbq1rxJvvhg9), [Electric Light Orchestra](https://open.spotify.com/artist/7jefIIksOi1EazgRTfW2Pk) | [Xanadu](https://open.spotify.com/album/0dWzFLXRM8F1IsEYdKopAa) | 3:28 |
-| 29 | [I'm So Glad That I'm a Woman](https://open.spotify.com/track/2jQhMqaTes0RCSVECpGCUD) | [Love Unlimited](https://open.spotify.com/artist/2M4KXzgedR4EKG4qgTeDKa) | [Love is Back](https://open.spotify.com/album/32wRTbL7yLNAYOU2olmIh8) | 4:01 |
+| 28 | [I'm So Glad That I'm a Woman](https://open.spotify.com/track/2jQhMqaTes0RCSVECpGCUD) | [Love Unlimited](https://open.spotify.com/artist/2M4KXzgedR4EKG4qgTeDKa) | [Love is Back](https://open.spotify.com/album/32wRTbL7yLNAYOU2olmIh8) | 4:01 |
+| 29 | [Xanadu](https://open.spotify.com/track/4zdspHPxpExPiU8RolxBUH) | [Olivia Newton\-John](https://open.spotify.com/artist/4BoRxUdrcgbbq1rxJvvhg9), [Electric Light Orchestra](https://open.spotify.com/artist/7jefIIksOi1EazgRTfW2Pk) | [Xanadu](https://open.spotify.com/album/0dWzFLXRM8F1IsEYdKopAa) | 3:28 |
 | 30 | [Take Me to the Bridge](https://open.spotify.com/track/4swOfLpGpRXhJaJjYjBuIH) | [Vera](https://open.spotify.com/artist/0FkJ8SID5QlL8bWQBMmtmh) | [Take Me to the Bridge / Jumpin' \(Get Hot, Hit the Spot\)](https://open.spotify.com/album/3lXdkMownWe2ZcAw4DB5Hx) | 7:03 |
 | 31 | [Dancer](https://open.spotify.com/track/4lteGaLzU5veJOe6wnOvz4) | [Gino Soccio](https://open.spotify.com/artist/3q2AjYY7FmiMh29bKki4EE) | [Outline](https://open.spotify.com/album/71NzsQgmjQ5rIm33Hpjv2V) | 8:28 |
 | 32 | [Dance, Dance, Dance \(Yowsah, Yowsah, Yowsah\)](https://open.spotify.com/track/1SwyDb5qUcLjukFqSCRqxy) | [CHIC](https://open.spotify.com/artist/0Xf8oDAJYd2D0k3NLI19OV) | [Dance, Dance, Dance: The Best of Chic](https://open.spotify.com/album/0XRRSLnVrtXMI6cyVCacjd) | 8:21 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0oFpWfPwcGv.md) - [plain]
 | 74 | [What's Your Name, What's Your Number](https://open.spotify.com/track/0DFb31DLTYkgkNDJSqlPDH) | [Andrea True Connection](https://open.spotify.com/artist/3GHovBcEWpbnwCZDPF9GpM) | [More, More, More](https://open.spotify.com/album/4xQKeiJzX2EmCXt5XdGiTN) | 3:17 |
 | 75 | [Moment Of My Life \- 12" Version](https://open.spotify.com/track/0efOcjjzdfBxFJp6MZcXzC) | [Inner Life](https://open.spotify.com/artist/39fymbns0snQudVbD1hZjX) | [II](https://open.spotify.com/album/6dr4nOonv97FsqmMsBzf0b) | 6:32 |
 
-Snapshot ID: `MCxhMTUxZGIyMTMzZjdlMWU2YWVlZTM2OTViOTY0YmIzZjExZjhhY2Zi`
+Snapshot ID: `MCxiMTA5ZWE0YjQ3MjVkNDcwMTU4OGFiM2Y2Zjg5ZTFhNDcxNWU3MDlh`

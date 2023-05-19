@@ -4,7 +4,7 @@
 
 > Channel some chilled\-out back yard vibes.
 
-265 songs - 16 hr 30 min
+266 songs - 16 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,7 +20,7 @@
 | [Another Story](https://open.spotify.com/track/34N4miRYCGQwmQEXoCiuuL) | [The Head And The Heart](https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg) | [Let's Be Still](https://open.spotify.com/album/6KE9bPdNZqkYvXebow0i42) | 4:34 | 2022-04-15 |  |
 | [Anybody Else](https://open.spotify.com/track/48V2ir4va6RWkIWJEcl8ip) | [The Ballroom Thieves](https://open.spotify.com/artist/7kZBQcHbD4IKKEJIMnrRWC) | [Deadeye](https://open.spotify.com/album/0lzI1rQiTkkWyse0qv4y7C) | 4:03 | 2021-10-29 | 2022-07-27 |
 | [Anybody Else](https://open.spotify.com/track/4tGhOyRQ7SS4xOZ7Iw3uQr) | [The Ballroom Thieves](https://open.spotify.com/artist/7kZBQcHbD4IKKEJIMnrRWC) | [Deadeye](https://open.spotify.com/album/2jqeCy5ydYWWWYB11VMS2V) | 4:03 | 2022-04-15 |  |
-| [April](https://open.spotify.com/track/6J0OvmRxVmiRyLeJ0aBryf) | [Nick Mulvey](https://open.spotify.com/artist/3x8FbPjh2Qz55XMdE2Yalj) | [First Mind](https://open.spotify.com/album/0ntJpgznXrZ6Qc8wTxtcXh) | 4:08 | 2022-04-15 |  |
+| [April](https://open.spotify.com/track/6J0OvmRxVmiRyLeJ0aBryf) | [Nick Mulvey](https://open.spotify.com/artist/3x8FbPjh2Qz55XMdE2Yalj) | [First Mind](https://open.spotify.com/album/0ntJpgznXrZ6Qc8wTxtcXh) | 4:08 | 2022-04-15 | 2023-05-19 |
 | [As It Is](https://open.spotify.com/track/3nqhacrhmERFCAO6YTCAMB) | [Matilda Mann](https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu) | [Because I Wanted You to Know](https://open.spotify.com/album/4t4kHyQ0DvmfYYHJITb9l8) | 3:04 | 2022-04-15 |  |
 | [As It Is](https://open.spotify.com/track/3zk8q1oiLgGtnPnepxF2vc) | [Matilda Mann](https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu) | [As It Is](https://open.spotify.com/album/6ZslerQEyaHzEITrBQahOZ) | 3:04 | 2021-10-29 | 2022-07-29 |
 | [Ashes and Leaves](https://open.spotify.com/track/64q6TPp4OacNHu9gulAXsv) | [Kirby Brown](https://open.spotify.com/artist/1pe81cUBCGxM11cnOq17kr) | [Ashes and Leaves](https://open.spotify.com/album/3W5igH7osnheDaB6nivsaL) | 3:32 | 2021-10-29 | 2022-04-21 |
@@ -142,6 +142,7 @@
 | [Johnny](https://open.spotify.com/track/4WDtGj1M2HFlcjvYIiRFug) | [Sarah Jarosz](https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ) | [World On The Ground](https://open.spotify.com/album/7vI29Msu8k0wpFUittUvAH) | 3:59 | 2021-10-29 | 2023-04-19 |
 | [jordan](https://open.spotify.com/track/2BGyfq5k9xGO9019bUsYFk) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [in defense of my own happiness](https://open.spotify.com/album/3dzxXQLyHYrhKYWcKrnFAZ) | 4:01 | 2021-10-29 |  |
 | [Keep On](https://open.spotify.com/track/4Bekc318sVRVNqy2HoXON7) | [Crooked Spines](https://open.spotify.com/artist/0gflAQkqjOluWa2R9hXUAm) | [Canyons](https://open.spotify.com/album/01Ns4nKQgJL0gDNIM0KYfk) | 4:35 | 2022-04-15 | 2022-04-20 |
+| [Kid \- Acoustic](https://open.spotify.com/track/1n15CYNOGJqq87jdRHVO0P) | [The Revivalists](https://open.spotify.com/artist/5kuJibJcwOC53s3OkoGMRA) | [Kid \(Acoustic\)](https://open.spotify.com/album/4XcxA1QI4KB8XBKz9SRcyS) | 4:06 | 2023-05-12 |  |
 | [Latter Days](https://open.spotify.com/track/7wOdJjz1WHJiBdzKSZWszu) | [Big Red Machine](https://open.spotify.com/artist/7gXy60xRcwYujBFoYHnR2O), [Anaïs Mitchell](https://open.spotify.com/artist/7K5Lm5dxoEwEpOS0Fc3l3s) | [How Long Do You Think It's Gonna Last?](https://open.spotify.com/album/3YbMxdapL6mvSQjosFkc0T) | 3:38 | 2022-04-15 |  |
 | [Latter Days \(feat\. Anaïs Mitchell\)](https://open.spotify.com/track/6i5TXQyfX3o9KsCIWbewKN) | [Big Red Machine](https://open.spotify.com/artist/7gXy60xRcwYujBFoYHnR2O), [Anaïs Mitchell](https://open.spotify.com/artist/7K5Lm5dxoEwEpOS0Fc3l3s) | [The Ghost of Cincinnati](https://open.spotify.com/album/0BbV7uxCYhfnUIpbFMPIow) | 3:38 | 2021-10-29 | 2022-07-29 |
 | [Letter to Madeline](https://open.spotify.com/track/1IUjddy3uFzP76h8Zl9vFI) | [Ian Noe](https://open.spotify.com/artist/2TEpPi5SFalflhpcQHq3lB) | [Between the Country](https://open.spotify.com/album/3I8X5k9o3KJHtxhQRWOQaf) | 4:29 | 2022-04-15 |  |

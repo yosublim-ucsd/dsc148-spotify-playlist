@@ -2,22 +2,22 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OQqDGyEiDU.md) - [plain]
 
 ### [君が生きてなくてよかった](https://open.spotify.com/playlist/37i9dQZF1DX4OQqDGyEiDU)
 
-> 人気ボカロ曲をプレイリストで。命を持たないVOCALOIDの魅力を特集。
+> 人気ボカロ曲をプレイリストで。命を持たないVOCALOIDの魅力を特集。Biggest hits & fresh tracks of VOCALOID.
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,869 likes - 50 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,931 likes - 50 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [新人類](https://open.spotify.com/track/2HnAB3jqNvnzphxB8AqZDK) | [Marasy](https://open.spotify.com/artist/3Y2hPbg4GHOheV4Hc9lpXV), [鏡音リン](https://open.spotify.com/artist/50sbi4xBlZS6PS1ggRjAZf) | [新人類](https://open.spotify.com/album/43TriX8Pn7p36c51igwPTv) | 2:36 |
 | 2 | [Samsa](https://open.spotify.com/track/3Su7tjUw5QbSBD5S3QFrWP) | [Teniwoha](https://open.spotify.com/artist/6agSBzJ9kJnlglVc271CLD) | [Samsa](https://open.spotify.com/album/6JvDXCgjEVlPNA34NlT3oH) | 3:32 |
-| 3 | [Koinu no Carnival \-From "Minute Waltz"\-](https://open.spotify.com/track/3OP9la2QTA5artehqjFJCp) | [EHAMIC](https://open.spotify.com/artist/2MyhU8E2SRCcHIN6FtagQR) | ["Classicaloid" Chopin Musik](https://open.spotify.com/album/0Q7zeUnaYrjTi3am2ceK4N) | 3:10 |
+| 3 | [Please Play\-Bite](https://open.spotify.com/track/0aCqK1p6zd3HsI4dLxOpny) | [PinocchioP](https://open.spotify.com/artist/3b7jPCedJ2VH4l4rcOTvNC) | [META](https://open.spotify.com/album/4iBwkssXTjrecC7MBKVJ6a) | 3:22 |
 | 4 | [Yoidoreshirazu](https://open.spotify.com/track/26zbAdTJC4vqqpGwSzvh8Q) | [Kanaria](https://open.spotify.com/artist/1k5LyiTCRzPjORzcgHqJxF) | [Yoidoreshirazu](https://open.spotify.com/album/32sf8CyAb7MtRbVTDJrWQA) | 2:14 |
 | 5 | [lower one's eyes](https://open.spotify.com/track/3P8sZzCeWXnBieW9XxE02Y) | [ぬゆり](https://open.spotify.com/artist/3ZIOAB6YRggYj0LIG6JLXx) | [lower one's eyes](https://open.spotify.com/album/0NEXeWlwwR6b4zfHF4bvgk) | 3:50 |
 | 6 | [KING](https://open.spotify.com/track/5vCNAauCaecW0tT2mZDLG9) | [Kanaria](https://open.spotify.com/artist/1k5LyiTCRzPjORzcgHqJxF) | [KING](https://open.spotify.com/album/5caSwBLTwvq0mk7cQwtf2O) | 2:15 |
 | 7 | [God\-ish](https://open.spotify.com/track/206UWNKXURTnN4zf9vmXUV) | [PinocchioP](https://open.spotify.com/artist/3b7jPCedJ2VH4l4rcOTvNC) | [God\-ish](https://open.spotify.com/album/5MEXGTej0dxa5MbXZCJJyk) | 3:23 |
 | 8 | [The Vampire](https://open.spotify.com/track/2d49lHO5ybKcYAcuJh2hT2) | [DECO\*27](https://open.spotify.com/artist/7kZTWx6cRLc0TSRPq1XBMP) | [MANNEQUIN](https://open.spotify.com/album/3qFF8RZSnHGf6q6jOcCXy5) | 2:58 |
 | 9 | [Requiem](https://open.spotify.com/track/2drddXvwwO2AUR7EooatUy) | [Kanaria](https://open.spotify.com/artist/1k5LyiTCRzPjORzcgHqJxF), [Hatsune Miku](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl) | [Requiem](https://open.spotify.com/album/30eZWuPWgGXb0TYOJht0Qk) | 2:37 |
-| 10 | [Please Play\-Bite](https://open.spotify.com/track/0aCqK1p6zd3HsI4dLxOpny) | [PinocchioP](https://open.spotify.com/artist/3b7jPCedJ2VH4l4rcOTvNC) | [META](https://open.spotify.com/album/4iBwkssXTjrecC7MBKVJ6a) | 3:22 |
+| 10 | [Hanataba](https://open.spotify.com/track/6H42G7PmewVxTBQv7ruF3P) | [MIMI](https://open.spotify.com/artist/0nwGsQzwVqdlBAg0eSNxmd), [可不](https://open.spotify.com/artist/3VxmIoSoAMfL0xAAQ7jHqE) | [Hanataba](https://open.spotify.com/album/4OW2aF9K7CREPKQscfW6m3) | 2:30 |
 | 11 | [フォニイ](https://open.spotify.com/track/5pBIavXhjzTi0u7pkOK71N) | [ツミキ](https://open.spotify.com/artist/7ctyyNnO9O2dDD8bHjkCAh), [可不](https://open.spotify.com/artist/3VxmIoSoAMfL0xAAQ7jHqE) | [KAF+YOU KAFU COMPILATION ALBUM シンメトリー](https://open.spotify.com/album/7lskLrUOlkfbFpQBzQDPkv) | 3:09 |
 | 12 | [DOKUZU](https://open.spotify.com/track/7G19YO3m77NNF8wlDkRmi0) | [NAKISO](https://open.spotify.com/artist/7e0etbPYy2kovCgnbT1g2Y) | [DOKUZU](https://open.spotify.com/album/4BBVbKO8I1m5rXIMd0QUb7) | 2:00 |
 | 13 | [QUEEN](https://open.spotify.com/track/32zpHDchUY83w80C8mMtOs) | [Kanaria](https://open.spotify.com/artist/1k5LyiTCRzPjORzcgHqJxF) | [QUEEN](https://open.spotify.com/album/4abbUX3gfMhHSN0gDrchyc) | 2:21 |
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OQqDGyEiDU.md) - [plain]
 | 16 | [Rollin’ Girl](https://open.spotify.com/track/5VJPBUVqxzLWmzzlJZy4r2) | [wowaka](https://open.spotify.com/artist/65MYE6R7PCyVAhHrQploNT) | [Exit Tunes Presents Supernova](https://open.spotify.com/album/1iWiHH4pOLxDCDTN2AJ70X) | 3:14 |
 | 17 | [マーシャル・マキシマイザー](https://open.spotify.com/track/00ydUpbxn87fyKSK5A6Du8) | [柊マグネタイト](https://open.spotify.com/artist/4kmKTxjchPXGEcnpiW8iTx), [可不](https://open.spotify.com/artist/3VxmIoSoAMfL0xAAQ7jHqE) | [KAF+YOU KAFU COMPILATION ALBUM シンメトリー](https://open.spotify.com/album/7lskLrUOlkfbFpQBzQDPkv) | 2:43 |
 | 18 | [花に風](https://open.spotify.com/track/3SOSqAmO4m7rzC2zbnqwU6) | [balloon](https://open.spotify.com/artist/49sPDY14qlYMAdi6WDsvva) | [花に風](https://open.spotify.com/album/6CX95AR2aAuJbByiQycxGA) | 3:45 |
-| 19 | [Monmon\_Fanmoran](https://open.spotify.com/track/3nJT0Q2IVWOjTTanvyC0Td) | [mochiutsune](https://open.spotify.com/artist/2OBVcvCW9d2vT13kVvHYwM) | [Monmon\_Fanmoran](https://open.spotify.com/album/7hJH9h4ibJ7Q4MyVnhDeQA) | 2:50 |
+| 19 | [Koinu no Carnival \-From "Minute Waltz"\-](https://open.spotify.com/track/3OP9la2QTA5artehqjFJCp) | [EHAMIC](https://open.spotify.com/artist/2MyhU8E2SRCcHIN6FtagQR) | ["Classicaloid" Chopin Musik](https://open.spotify.com/album/0Q7zeUnaYrjTi3am2ceK4N) | 3:10 |
 | 20 | [ドーナツホール](https://open.spotify.com/track/6kwLcF9pDovUbmGOtHo4Ml) | [hachi](https://open.spotify.com/artist/6ptdMFoqgQZRoccAYK9Opd) | [ドーナツホール](https://open.spotify.com/album/4jNxD5LWmUuwF72qG8Ekfx) | 3:25 |
 | 21 | [Thanks for being Lifeless](https://open.spotify.com/track/051mZnDf307e5y9oflIUiC) | [PinocchioP](https://open.spotify.com/artist/3b7jPCedJ2VH4l4rcOTvNC) | [ZERO\-GO](https://open.spotify.com/album/0oaOHz6VowcZp1FUAwqDiD) | 4:24 |
 | 22 | [サラマンダー](https://open.spotify.com/track/64LMCa7fkdfHYLtCm0kGTR) | [DECO\*27](https://open.spotify.com/artist/7kZTWx6cRLc0TSRPq1XBMP) | [サラマンダー](https://open.spotify.com/album/11pU0vz7peTM1JdMZvSg9t) | 2:35 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OQqDGyEiDU.md) - [plain]
 | 49 | [Non\-breath oblige](https://open.spotify.com/track/0LsKplOVgboKBm5MpJsX0H) | [PinocchioP](https://open.spotify.com/artist/3b7jPCedJ2VH4l4rcOTvNC) | [LOVE](https://open.spotify.com/album/0KxJlPf1XUcJ2KMzjYQ1EE) | 3:28 |
 | 50 | [MACHINEGUN POEM DOLL](https://open.spotify.com/track/0xly7rh0DZqVxI8Jmn7sid) | [cosMo@Bousou\-P](https://open.spotify.com/artist/62gTYZkiWxbP1fwqrGXjQ6) | [MACHINEGUN POEM DOLL](https://open.spotify.com/album/5PH0dNztK2UMLj8lLwmLqH) | 2:20 |
 
-Snapshot ID: `MCxkMzBkNGM3NmY2YThjMmVkZTJlMzExMTNkYjJiOGJjNDQxOTQ4MGU2`
+Snapshot ID: `MCxhMTM4N2Y5YmJjNzk2ZGIwNmYzM2ZkYjIyYmQzZDcwMWIwZjM5NjYx`

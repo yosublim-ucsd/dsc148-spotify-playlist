@@ -4,7 +4,7 @@
 
 > Sad and gloomy instrumental Jazz.
 
-270 songs - 22 hr 30 min
+271 songs - 22 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -174,6 +174,7 @@
 | [Never Let Me Go](https://open.spotify.com/track/6Izsb5iitILqdW45DTzmbu) | [Keith Jarrett Trio](https://open.spotify.com/artist/3OJGG2blZ0c3YTOMSKZaHj) | [Tokyo '96](https://open.spotify.com/album/24G8gNiqf1u8epifICuR9h) | 7:02 | 2022-09-08 |  |
 | [Nightfall](https://open.spotify.com/track/0n04M7GwiuMd58kTQW6WDG) | [Charlie Haden](https://open.spotify.com/artist/5Pqc0ZFA20Y9zGJZ3ojUin) | [Nocturne](https://open.spotify.com/album/1CwbHBZZktmDFhK2TDU8Bo) | 6:36 | 2022-09-08 | 2022-11-25 |
 | [No Other Love](https://open.spotify.com/track/17XdGYRzYd0bbVTlghPF1Y) | [Jo Stafford](https://open.spotify.com/artist/1Jqk46QvzUn7SnwmTGX6Cw), [Paul Weston And His Orchestra](https://open.spotify.com/artist/3EVyH5tLgdq62aXTdKfzey) | [The Ultimate](https://open.spotify.com/album/7FAu65eXZrds9zcezKtYhl) | 2:59 | 2022-05-18 | 2022-08-27 |
+| [No Time To Lose](https://open.spotify.com/track/33PBF5x1QjBp3EjlMHVkqd) | [North West Trio](https://open.spotify.com/artist/6xEHf5bkAwi6XDbFwRwUpa) | [No Time To Lose](https://open.spotify.com/album/7JrQv5id6mbOlu2iWFc4Ob) | 4:31 | 2023-05-18 |  |
 | [Nocturnal Serenade](https://open.spotify.com/track/6i2gZTC6mjNvamfLYvPm8R) | [Tanner King Trio](https://open.spotify.com/artist/4YpT7UESRRyut4Ftzxynx8) | [Nocturnal Serenade](https://open.spotify.com/album/1a97FiVDBO8Zvor9AXqNgJ) | 4:12 | 2023-05-04 |  |
 | [Nothing Like a Spring](https://open.spotify.com/track/3nSTb8hxLHbDdG8oEXYy5u) | [Trio Del Norte](https://open.spotify.com/artist/6P9V4I7JlXTWt4llgXpiPO) | [Clear Skies](https://open.spotify.com/album/1lkZ3pXnZoqj9grtpAkdNY) | 3:31 | 2023-03-23 |  |
 | [On 14th Street](https://open.spotify.com/track/0WYwVCkmXls0rYnZrruAX4) | [James Jackson Jazz Trio](https://open.spotify.com/artist/2VQmB7dgKLHJve0htcYfiQ) | [On 14th Street](https://open.spotify.com/album/7mJ4Ph8u0xKvVMyx15KyJo) | 2:56 | 2022-12-01 |  |
@@ -201,7 +202,7 @@
 | [Seymour Reads the Constitution](https://open.spotify.com/track/4RyonocCMahA7cIwTDW7E9) | [Brad Mehldau Trio](https://open.spotify.com/artist/5sQJzc7ZGwC4olbhp2kqqX) | [Seymour Reads the Constitution!](https://open.spotify.com/album/2lPb2KYIudWUQcaL0vAlUm) | 8:03 | 2022-05-18 | 2023-05-16 |
 | [She Steps Into The Frame](https://open.spotify.com/track/5iShMgXWNiRUHc1knNf6QI) | [Marc Henley Trio](https://open.spotify.com/artist/7zsTHkJCBtSjcg1Ptl8FDD) | [She Steps Into The Frame](https://open.spotify.com/album/63GO4Q9IV55ana3r02rsWD) | 2:21 | 2023-01-05 |  |
 | [Silence](https://open.spotify.com/track/7mUwgUAe0RGbNGdkCJ2vHn) | [Charlie Haden](https://open.spotify.com/artist/5Pqc0ZFA20Y9zGJZ3ojUin), [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T), [Enrico Pieranunzi](https://open.spotify.com/artist/5vACdMa2kY7jHnlJwqYRKP), [Billy Higgins](https://open.spotify.com/artist/6FmHMrX0jETx6WNGzyZKRs) | [Silence](https://open.spotify.com/album/2z7RHmHsRzRii3GrhGpF6U) | 8:44 | 2022-05-18 | 2023-03-18 |
-| [Simplicity](https://open.spotify.com/track/0AEBs3sZ492afceldzJzF0) | [Edward Simon](https://open.spotify.com/artist/0FAC6FNPb4LsY5uyp0xTWF), [Avishai Cohen](https://open.spotify.com/artist/5wu05jGsVMAFHYMYHqCB9l), [Adam Cruz](https://open.spotify.com/artist/1jQe1E5ZvrDvzR4BePCHkA), [Luciana Souza](https://open.spotify.com/artist/0cv8X9QNT0s3OHfVVeNWkM), [Adam Rogers](https://open.spotify.com/artist/68u79CqTqTgKncfDRbjDLH) | [Simplicitas](https://open.spotify.com/album/5u282HONP3k3BSzLNZkCBA) | 5:08 | 2022-09-08 |  |
+| [Simplicity](https://open.spotify.com/track/0AEBs3sZ492afceldzJzF0) | [Edward Simon](https://open.spotify.com/artist/0FAC6FNPb4LsY5uyp0xTWF), [Avishai Cohen](https://open.spotify.com/artist/5wu05jGsVMAFHYMYHqCB9l), [Adam Cruz](https://open.spotify.com/artist/1jQe1E5ZvrDvzR4BePCHkA), [Luciana Souza](https://open.spotify.com/artist/0cv8X9QNT0s3OHfVVeNWkM), [Adam Rogers](https://open.spotify.com/artist/68u79CqTqTgKncfDRbjDLH) | [Simplicitas](https://open.spotify.com/album/5u282HONP3k3BSzLNZkCBA) | 5:08 | 2022-09-08 | 2023-05-19 |
 | [Skylark](https://open.spotify.com/track/2FRxAg2NEodIJdCoFqVzv0) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T), [Philip Catherine](https://open.spotify.com/artist/3MK08earaAAPhouY2WTvqn) | [Late Night Jazz \(Deluxe Edition\)](https://open.spotify.com/album/4R3CM1E0eEgn4RVAz7ve64) | 5:29 | 2022-05-18 |  |
 | [Sleep Paralysis](https://open.spotify.com/track/55FKJfDFMkBvd04FBXYlYX) | [The City of Birches](https://open.spotify.com/artist/6fGGglYJY8D22eJtcjgg8S) | [Sleep Paralysis](https://open.spotify.com/album/04EUuEijOXyWTzyyoOUW2L) | 4:22 | 2022-10-13 | 2022-11-25 |
 | [Sleeted Streets](https://open.spotify.com/track/4dX9jhmfLWYYmb1NQ5SCgN) | [Eduard Landings](https://open.spotify.com/artist/6SF8oe9fw9X65MbLwQfkau) | [Sleeted Streets](https://open.spotify.com/album/2lS8BnBmFMczWJ6WrjPAoK) | 3:44 | 2022-12-23 |  |

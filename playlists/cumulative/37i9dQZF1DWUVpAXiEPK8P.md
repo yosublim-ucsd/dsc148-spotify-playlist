@@ -4,7 +4,7 @@
 
 > For whatever activity you do that may need a punch of intensity!
 
-301 songs - 15 hr 59 min
+302 songs - 16 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -256,7 +256,8 @@
 | [Sum 2 Prove](https://open.spotify.com/track/2u3EyuCqqV31woqGvO9LBz) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Sum 2 Prove](https://open.spotify.com/album/7KPtAktRGrVjy0QV3MXnZk) | 3:25 | 2021-12-20 | 2022-07-20 |
 | [Super Gremlin](https://open.spotify.com/track/4A8cWXxKfIL3lAyUDzXbCF) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Sniper Gang Presents Syko Bob & Snapkatt: Nightmare Babies](https://open.spotify.com/album/0kxA9Bc8pamypR5GYXmeti) | 3:20 | 2022-01-26 | 2022-10-14 |
 | [Superhero \(Heroes & Villains\) \[with Future & Chris Brown\]](https://open.spotify.com/track/0vjeOZ3Ft5jvAi9SBFJm1j) | [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [HEROES & VILLAINS](https://open.spotify.com/album/7txGsnDSqVMoRl6RQ9XyZP) | 3:02 | 2023-03-02 |  |
-| [Talibans](https://open.spotify.com/track/0in4JBEFmQVtyNJCN9UeXU) | [Byron Messia](https://open.spotify.com/artist/3IDfJpj4YVkaBl7Dd52Pxv) | [No Love](https://open.spotify.com/album/2AR2cNQcrYLK8vAxTZe8ai) | 3:08 | 2023-05-14 |  |
+| [Talibans](https://open.spotify.com/track/0TTOsyDKykWhCh3qDd9wMY) | [Byron Messia](https://open.spotify.com/artist/3IDfJpj4YVkaBl7Dd52Pxv) | [No Love](https://open.spotify.com/album/6Ds8n0PlFxomLOtEHFwBeo) | 3:08 | 2023-05-14 |  |
+| [Talibans](https://open.spotify.com/track/0in4JBEFmQVtyNJCN9UeXU) | [Byron Messia](https://open.spotify.com/artist/3IDfJpj4YVkaBl7Dd52Pxv) | [No Love](https://open.spotify.com/album/2AR2cNQcrYLK8vAxTZe8ai) | 3:08 | 2023-05-14 | 2023-05-19 |
 | [Taste \(feat\. Offset\)](https://open.spotify.com/track/5IaHrVsrferBYDm0bDyABy) | [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp), [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW) | [Taste \(feat\. Offset\)](https://open.spotify.com/album/0yd01cU78rnlFXq6vRxPSR) | 3:52 | 2022-04-15 | 2022-04-18 |
 | [Taste \(Make It Shake\)](https://open.spotify.com/track/3evfXgwjSY5zuFxAHjMW5S) | [Aitch](https://open.spotify.com/artist/2PJEagPIxaBugeMjIyKVXF) | [Taste \(Make It Shake\)](https://open.spotify.com/album/3UYTTkehFbvlVRrNcdUq6Q) | 3:33 | 2022-04-15 | 2022-04-20 |
 | [Temperature](https://open.spotify.com/track/0k2GOhqsrxDTAbFFSdNJjT) | [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9) | [The Trinity](https://open.spotify.com/album/32Bu3ETQhR1PFCj3ndDlYf) | 3:38 | 2022-04-15 |  |

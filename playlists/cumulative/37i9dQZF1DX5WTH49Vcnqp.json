@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-30",
-  "description": "Music that's hard to define but easy to love Cover: Arlo Parks & Phoebe Bridgers",
+  "description": "Music that's hard to define but easy to love Cover: G Flip",
   "name": "Front Left",
   "tracks": [
     {
@@ -760,7 +760,7 @@
       ],
       "date_added": "2023-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 172394,
       "name": "Anthem for Loners",
       "url": "https://open.spotify.com/track/1MvN8yG10reo5t32BdEThU"
@@ -1589,6 +1589,24 @@
     },
     {
       "album": {
+        "name": "Blak Britney",
+        "url": "https://open.spotify.com/album/53qFc9lbBsEXdSdMbcxQsc"
+      },
+      "artists": [
+        {
+          "name": "Miss Kaninna",
+          "url": "https://open.spotify.com/artist/1ODboExevbfXfgKz7NPKxz"
+        }
+      ],
+      "date_added": "2023-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153636,
+      "name": "Blak Britney",
+      "url": "https://open.spotify.com/track/2rg7VE22RwEfvFkLYJwfeY"
+    },
+    {
+      "album": {
         "name": "Blessed",
         "url": "https://open.spotify.com/album/5HHocvYdlIP6aEJZ6SDtkn"
       },
@@ -1712,7 +1730,7 @@
       ],
       "date_added": "2023-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 189493,
       "name": "Body Better",
       "url": "https://open.spotify.com/track/6pn5dBDetgg4rojbzIxH7v"
@@ -2020,7 +2038,7 @@
       ],
       "date_added": "2023-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 192961,
       "name": "Bruises Off The Peach",
       "url": "https://open.spotify.com/track/6DdAZ0zZmmSwM8uqoVlepL"
@@ -2699,6 +2717,28 @@
     },
     {
       "album": {
+        "name": "Cold Touch",
+        "url": "https://open.spotify.com/album/2Y01Vf7C32AQw4ki2moXGj"
+      },
+      "artists": [
+        {
+          "name": "Kito",
+          "url": "https://open.spotify.com/artist/3FLUBwpAnaIlIKeaBfsxFe"
+        },
+        {
+          "name": "GrimesAI",
+          "url": "https://open.spotify.com/artist/7qiNgbnabvfRbA9lomTgEk"
+        }
+      ],
+      "date_added": "2023-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130560,
+      "name": "Cold Touch",
+      "url": "https://open.spotify.com/track/7mGSXZwI5LlTqGARZH7JiM"
+    },
+    {
+      "album": {
         "name": "Colin",
         "url": "https://open.spotify.com/album/6CdBVQJ5x5Te4skZZjcPK7"
       },
@@ -3236,7 +3276,7 @@
       ],
       "date_added": "2023-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 258640,
       "name": "Creep - Acoustic",
       "url": "https://open.spotify.com/track/6JpjIy1M7oxvPJ3uVdUKTe"
@@ -3492,7 +3532,7 @@
       ],
       "date_added": "2023-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 178458,
       "name": "Dead End",
       "url": "https://open.spotify.com/track/6Vqw0rhS84CwHDG99e6dZx"
@@ -3890,6 +3930,24 @@
       "duration_ms": 215760,
       "name": "Domino",
       "url": "https://open.spotify.com/track/4Kag7UC3ZCiEYJ0QYC2Mpk"
+    },
+    {
+      "album": {
+        "name": "Don't Forget About Me",
+        "url": "https://open.spotify.com/album/73RqlYh6EX1aDBC0oz765j"
+      },
+      "artists": [
+        {
+          "name": "d4vd",
+          "url": "https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32"
+        }
+      ],
+      "date_added": "2023-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149324,
+      "name": "Don't Forget About Me",
+      "url": "https://open.spotify.com/track/43rGLaawHXspfnWtBCoAQg"
     },
     {
       "album": {
@@ -6428,7 +6486,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 127180,
       "name": "gutter",
       "url": "https://open.spotify.com/track/1Th5zTsBnM0cudrHfvE8Qt"
@@ -8532,7 +8590,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 266400,
       "name": "James Dean",
       "url": "https://open.spotify.com/track/2MVt6GD9AVbmniOIng0rVz"
@@ -9091,6 +9149,24 @@
     },
     {
       "album": {
+        "name": "Leaving The Light",
+        "url": "https://open.spotify.com/album/2w9vjWFtC4W6MiNK9TwnYq"
+      },
+      "artists": [
+        {
+          "name": "Genesis Owusu",
+          "url": "https://open.spotify.com/artist/1HvH97rzvCH6lfnLlgyfke"
+        }
+      ],
+      "date_added": "2023-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190053,
+      "name": "Leaving The Light",
+      "url": "https://open.spotify.com/track/27cBRq5YMm5D1B1nygzetD"
+    },
+    {
+      "album": {
         "name": "Leaving Today",
         "url": "https://open.spotify.com/album/4BFWVYvDKU5dEF3LDRDeG4"
       },
@@ -9476,6 +9552,24 @@
       "duration_ms": 261370,
       "name": "Looking High",
       "url": "https://open.spotify.com/track/2OvLZstgybMXNDGOecmLB6"
+    },
+    {
+      "album": {
+        "name": "Loser at Best",
+        "url": "https://open.spotify.com/album/5kCYiAEMWTDztfN77A7FDk"
+      },
+      "artists": [
+        {
+          "name": "Wallice",
+          "url": "https://open.spotify.com/artist/6d6ts87Fxm1EdULf4CaLw4"
+        }
+      ],
+      "date_added": "2023-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190631,
+      "name": "Loser at Best",
+      "url": "https://open.spotify.com/track/3AVYmz1xX2INIwnSz9pyat"
     },
     {
       "album": {
@@ -10008,7 +10102,7 @@
       ],
       "date_added": "2023-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 230557,
       "name": "Mess Around (feat. EARTHGANG)",
       "url": "https://open.spotify.com/track/2ug9Wg4LgcyBDirbl6mgvP"
@@ -12199,6 +12293,24 @@
     },
     {
       "album": {
+        "name": "Wake Up & It's Over",
+        "url": "https://open.spotify.com/album/5LHuQr88XpvvuGpqgsu2gr"
+      },
+      "artists": [
+        {
+          "name": "Lovejoy",
+          "url": "https://open.spotify.com/artist/33tFkBLsl6f8TjKkV0uF0C"
+        }
+      ],
+      "date_added": "2023-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227546,
+      "name": "Portrait of a Blank Slate",
+      "url": "https://open.spotify.com/track/7505qe0xzCuDPaILCURnOC"
+    },
+    {
+      "album": {
         "name": "POSE",
         "url": "https://open.spotify.com/album/2N3NGQjuCC1B7qPiY7saGG"
       },
@@ -12854,7 +12966,7 @@
       ],
       "date_added": "2022-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 214539,
       "name": "Ripple",
       "url": "https://open.spotify.com/track/6oEC3xbIgUG2TEUXZXUFCv"
@@ -12974,7 +13086,7 @@
       ],
       "date_added": "2023-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 214320,
       "name": "Sad to Breathe",
       "url": "https://open.spotify.com/track/1NtoOI83OIXz4NXPj2VaKV"
@@ -13094,6 +13206,24 @@
       "duration_ms": 212903,
       "name": "sAy sOMETHINg",
       "url": "https://open.spotify.com/track/1G7wqLzQQ3tveTYHcO5uVN"
+    },
+    {
+      "album": {
+        "name": "Say Yes To Heaven",
+        "url": "https://open.spotify.com/album/6jVg0POvGYH1Pt6lISl3ok"
+      },
+      "artists": [
+        {
+          "name": "Lana Del Rey",
+          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+        }
+      ],
+      "date_added": "2023-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209156,
+      "name": "Say Yes To Heaven",
+      "url": "https://open.spotify.com/track/6GGtHZgBycCgGBUhZo81xe"
     },
     {
       "album": {
@@ -13985,6 +14115,36 @@
     },
     {
       "album": {
+        "name": "KAYTRAMIN\u00c9",
+        "url": "https://open.spotify.com/album/1plAqF2W8hwAhcpBAfGNsW"
+      },
+      "artists": [
+        {
+          "name": "KAYTRAMIN\u00c9",
+          "url": "https://open.spotify.com/artist/5oifjQw72WO7Jut07fVWMy"
+        },
+        {
+          "name": "Amin\u00e9",
+          "url": "https://open.spotify.com/artist/3Gm5F95VdRxW3mqCn8RPBJ"
+        },
+        {
+          "name": "KAYTRANADA",
+          "url": "https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu"
+        },
+        {
+          "name": "Amaarae",
+          "url": "https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS"
+        }
+      ],
+      "date_added": "2023-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156000,
+      "name": "Sossaup",
+      "url": "https://open.spotify.com/track/6y5UMIVVJDsULZwfZ0bNRX"
+    },
+    {
+      "album": {
         "name": "Body Jumper (Deluxe)",
         "url": "https://open.spotify.com/album/7DaHhFanoQbsCBHM7bzWUa"
       },
@@ -14162,7 +14322,7 @@
       ],
       "date_added": "2023-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 173658,
       "name": "Stargirl",
       "url": "https://open.spotify.com/track/4aG9dDt76InHPsbv55xz1w"
@@ -14786,7 +14946,7 @@
       ],
       "date_added": "2023-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 189858,
       "name": "Sweat You Out My System",
       "url": "https://open.spotify.com/track/6PWJ0aOLUcQ1sqeqikPRjy"
@@ -17348,7 +17508,7 @@
       ],
       "date_added": "2023-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 148690,
       "name": "Worms",
       "url": "https://open.spotify.com/track/5PlGxNgE62io6OBc1BsIaq"

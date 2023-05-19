@@ -1,48 +1,100 @@
 {
-  "description": "Midwest music breaking waves. Cover, Polo G",
-  "num_followers": 3688,
+  "description": "Midwest music breaking waves. Cover, Lil Durk",
+  "num_followers": 3733,
   "original_name": "Ripple Effect:  Midwest",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkYjBkYThiODllMjlkYzRlZDM5NjJlN2RjNWU0ZGE4YjZhMDI2MGYz",
+  "snapshot_id": "MCw3NWNiYTBiY2Y3YTEzMjc4MzhjOTE2YzE4MDQwOWMzNTc3YjAyNzYy",
   "tracks": [
     {
-      "added_at": "2023-04-24 15:18:35",
+      "added_at": "2023-05-18 16:56:10",
       "album": {
-        "name": "No Time Wasted (feat. Future)",
-        "url": "https://open.spotify.com/album/2QHf3w0Kft5kqqEXBaHBDm"
-      },
-      "artists": [
-        {
-          "name": "Polo G",
-          "url": "https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49"
-        },
-        {
-          "name": "Future",
-          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
-        }
-      ],
-      "duration_ms": 179533,
-      "name": "No Time Wasted (feat. Future)",
-      "url": "https://open.spotify.com/track/4MUlNqSrMeFAHA6VpJKMo8"
-    },
-    {
-      "added_at": "2023-04-24 15:18:35",
-      "album": {
-        "name": "Hanging With Wolves",
-        "url": "https://open.spotify.com/album/31ItlZnLUC9S5wChTbE8Ew"
+        "name": "All My Life (feat. J. Cole)",
+        "url": "https://open.spotify.com/album/0lZQagJ5r0crB35zphSD4A"
       },
       "artists": [
         {
           "name": "Lil Durk",
           "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
+        },
+        {
+          "name": "J. Cole",
+          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
         }
       ],
-      "duration_ms": 205893,
-      "name": "Hanging With Wolves",
-      "url": "https://open.spotify.com/track/1a7tOEheXeaSNathZW4Gzk"
+      "duration_ms": 223878,
+      "name": "All My Life (feat. J. Cole)",
+      "url": "https://open.spotify.com/track/6HgWWaMu31KdOpEG5l28BG"
+    },
+    {
+      "added_at": "2023-05-18 16:56:10",
+      "album": {
+        "name": "Off The Court (with Polo G & Einer Bankz)",
+        "url": "https://open.spotify.com/album/6yfMPQTVVXzc2Q5h0gCFiL"
+      },
+      "artists": [
+        {
+          "name": "SleazyWorld Go",
+          "url": "https://open.spotify.com/artist/7FOQfJbC3e4GNoheojERnF"
+        },
+        {
+          "name": "Polo G",
+          "url": "https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49"
+        },
+        {
+          "name": "Einer Bankz",
+          "url": "https://open.spotify.com/artist/5okEmP9iOvZT9UdlODLiaR"
+        }
+      ],
+      "duration_ms": 193937,
+      "name": "Off The Court (with Polo G & Einer Bankz)",
+      "url": "https://open.spotify.com/track/1o8NmBVhT1PeADJhmAi7vZ"
+    },
+    {
+      "added_at": "2023-05-18 16:56:10",
+      "album": {
+        "name": "GOMD (Remix) [feat. Lil Uzi Vert]",
+        "url": "https://open.spotify.com/album/1XTi2AYI6uOEonUfsLSm3s"
+      },
+      "artists": [
+        {
+          "name": "Veeze",
+          "url": "https://open.spotify.com/artist/0B3kMiB21aPQlKumGDr4c7"
+        },
+        {
+          "name": "Lil Uzi Vert",
+          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
+        }
+      ],
+      "duration_ms": 276986,
+      "name": "GOMD (Remix) [feat. Lil Uzi Vert]",
+      "url": "https://open.spotify.com/track/4ncoZ4PKxvyzVoSIJsOLo0"
+    },
+    {
+      "added_at": "2023-05-18 16:56:10",
+      "album": {
+        "name": "Strictly 4 My Fans 2",
+        "url": "https://open.spotify.com/album/5ujM8ZczJbszMvGoWeXmvW"
+      },
+      "artists": [
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        },
+        {
+          "name": "GloRilla",
+          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
+        },
+        {
+          "name": "Mello Buckzz",
+          "url": "https://open.spotify.com/artist/4bAfAX9Zg9XdMKREfURqaw"
+        }
+      ],
+      "duration_ms": 188157,
+      "name": "Outside",
+      "url": "https://open.spotify.com/track/6YiDVrYuJk33GKKzsVUhRE"
     },
     {
       "added_at": "2023-04-15 08:16:09",
@@ -79,6 +131,42 @@
       "duration_ms": 96093,
       "name": "The Next",
       "url": "https://open.spotify.com/track/7hZfOP3gtRWagxuSwNG7du"
+    },
+    {
+      "added_at": "2023-05-18 16:56:10",
+      "album": {
+        "name": "Acid Rap (10th Anniversary - Complete Edition)",
+        "url": "https://open.spotify.com/album/3rYMmOfNQlWXYrbd8yXqJ1"
+      },
+      "artists": [
+        {
+          "name": "Chance the Rapper",
+          "url": "https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf"
+        }
+      ],
+      "duration_ms": 215062,
+      "name": "Juice",
+      "url": "https://open.spotify.com/track/4J2s7nWDdA7i92sojYX8RJ"
+    },
+    {
+      "added_at": "2023-04-24 15:18:35",
+      "album": {
+        "name": "No Time Wasted (feat. Future)",
+        "url": "https://open.spotify.com/album/2QHf3w0Kft5kqqEXBaHBDm"
+      },
+      "artists": [
+        {
+          "name": "Polo G",
+          "url": "https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49"
+        },
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        }
+      ],
+      "duration_ms": 179533,
+      "name": "No Time Wasted (feat. Future)",
+      "url": "https://open.spotify.com/track/4MUlNqSrMeFAHA6VpJKMo8"
     },
     {
       "added_at": "2023-04-15 08:16:09",
@@ -139,6 +227,54 @@
       "duration_ms": 197011,
       "name": "Ex\u2019s (Phatnall Remix) (with Lil Durk)",
       "url": "https://open.spotify.com/track/7M3h8JeDhIQIsdQdMrWohi"
+    },
+    {
+      "added_at": "2023-05-18 16:56:10",
+      "album": {
+        "name": "Nope Shemix",
+        "url": "https://open.spotify.com/album/0AKBMWlWpVd7zpUUf3eGgS"
+      },
+      "artists": [
+        {
+          "name": "Queen Key",
+          "url": "https://open.spotify.com/artist/3IhYHKVt0Q9vxCCwiCHahR"
+        },
+        {
+          "name": "Omeretta the Great",
+          "url": "https://open.spotify.com/artist/3wFzTRAvCLEACzbRmgBEHx"
+        },
+        {
+          "name": "Rubi Rose",
+          "url": "https://open.spotify.com/artist/1DGAqC29aw0FpJCejAehVk"
+        },
+        {
+          "name": "So Supa",
+          "url": "https://open.spotify.com/artist/6D6Uf2RTnvHkD64pUapryP"
+        }
+      ],
+      "duration_ms": 168769,
+      "name": "Nope Shemix",
+      "url": "https://open.spotify.com/track/39fyKFM1q92YzWTQiDFF47"
+    },
+    {
+      "added_at": "2023-04-15 08:16:09",
+      "album": {
+        "name": "Pound Town (and Tay Keith)",
+        "url": "https://open.spotify.com/album/0xN8AKSa1FlAKuKe6BdD6A"
+      },
+      "artists": [
+        {
+          "name": "Sexyy Red",
+          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
+        },
+        {
+          "name": "Tay Keith",
+          "url": "https://open.spotify.com/artist/5xkFVS6IwwgHEAaRzXc9U3"
+        }
+      ],
+      "duration_ms": 129429,
+      "name": "Pound Town (and Tay Keith)",
+      "url": "https://open.spotify.com/track/4KSRdah26ypIXVNZPHmzO3"
     },
     {
       "added_at": "2023-04-15 08:16:09",
@@ -265,28 +401,20 @@
       "url": "https://open.spotify.com/track/2xWTbOsDclkxRarvshyReu"
     },
     {
-      "added_at": "2023-04-15 08:16:09",
+      "added_at": "2023-05-18 16:56:10",
       "album": {
-        "name": "Cottonwood 2",
-        "url": "https://open.spotify.com/album/7l49L64CFakYuaV4EL11sP"
+        "name": "Love You Toni",
+        "url": "https://open.spotify.com/album/0g5EillRWUeD155z5Fa0cO"
       },
       "artists": [
         {
-          "name": "NLE Choppa",
-          "url": "https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ"
-        },
-        {
-          "name": "Polo G",
-          "url": "https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49"
-        },
-        {
-          "name": "G Herbo",
-          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+          "name": "Mark Battles",
+          "url": "https://open.spotify.com/artist/24SwsBq76FnNeXW9Do4wPI"
         }
       ],
-      "duration_ms": 202065,
-      "name": "DISABILITY CHECKS (feat. G Herbo)",
-      "url": "https://open.spotify.com/track/6hlQBPN4v4LPR2SzDGbsaW"
+      "duration_ms": 173065,
+      "name": "Love You Toni",
+      "url": "https://open.spotify.com/track/49am5fCpUxFao8ihIxEs43"
     },
     {
       "added_at": "2023-04-24 15:18:35",
@@ -303,38 +431,6 @@
       "duration_ms": 101946,
       "name": "I'm Geekin",
       "url": "https://open.spotify.com/track/4jQF77FelHaw2u1CB0sIfp"
-    },
-    {
-      "added_at": "2023-04-24 15:18:35",
-      "album": {
-        "name": "Surviving Queen Key",
-        "url": "https://open.spotify.com/album/05YX7pNDoPh5VpwO3ew2aE"
-      },
-      "artists": [
-        {
-          "name": "Queen Key",
-          "url": "https://open.spotify.com/artist/3IhYHKVt0Q9vxCCwiCHahR"
-        }
-      ],
-      "duration_ms": 99190,
-      "name": "Guns & Butter",
-      "url": "https://open.spotify.com/track/37ysjKJ8jO6AItn0CJaTuJ"
-    },
-    {
-      "added_at": "2023-04-15 08:16:09",
-      "album": {
-        "name": "GOMD",
-        "url": "https://open.spotify.com/album/6vTsqrGv80CCBH5b2rGMJS"
-      },
-      "artists": [
-        {
-          "name": "Veeze",
-          "url": "https://open.spotify.com/artist/0B3kMiB21aPQlKumGDr4c7"
-        }
-      ],
-      "duration_ms": 171872,
-      "name": "GOMD",
-      "url": "https://open.spotify.com/track/6qlQIOubQeiG3byhhqwPfU"
     },
     {
       "added_at": "2023-04-15 08:16:09",
@@ -365,6 +461,66 @@
       "url": "https://open.spotify.com/track/3gdrxXqiNci9MHWtZsabTk"
     },
     {
+      "added_at": "2023-05-18 16:56:10",
+      "album": {
+        "name": "Sorry I'm Late",
+        "url": "https://open.spotify.com/album/6PlzJeUmCm4Zd1b2CzPdG1"
+      },
+      "artists": [
+        {
+          "name": "tobi lou",
+          "url": "https://open.spotify.com/artist/4T8NIfZmVY6TJFqVzN6X49"
+        },
+        {
+          "name": "FARADA",
+          "url": "https://open.spotify.com/artist/7lnACC1f3tsle3dFZ50veL"
+        }
+      ],
+      "duration_ms": 161194,
+      "name": "Sorry I'm Late",
+      "url": "https://open.spotify.com/track/6t81NqNE5JngNI1CdMVl8v"
+    },
+    {
+      "added_at": "2023-05-18 16:56:10",
+      "album": {
+        "name": "Leave Her",
+        "url": "https://open.spotify.com/album/1kLl5rrXewZ0SP0wcNSWcc"
+      },
+      "artists": [
+        {
+          "name": "LUCKI",
+          "url": "https://open.spotify.com/artist/5tQMB0cuNXdCtzovGt55uD"
+        }
+      ],
+      "duration_ms": 137026,
+      "name": "Leave Her",
+      "url": "https://open.spotify.com/track/0MZGwYb5mTATbmoi671wEg"
+    },
+    {
+      "added_at": "2023-05-18 16:56:10",
+      "album": {
+        "name": "The Basement",
+        "url": "https://open.spotify.com/album/3vBiOLOfxBGyxc6rhVsjK2"
+      },
+      "artists": [
+        {
+          "name": "Kembe X",
+          "url": "https://open.spotify.com/artist/4uc4iep3LqgSj8qN4kp7qD"
+        },
+        {
+          "name": "Isaiah Rashad",
+          "url": "https://open.spotify.com/artist/6aaMZ3fcfLv4tEbmY7bjRM"
+        },
+        {
+          "name": "REASON",
+          "url": "https://open.spotify.com/artist/6XpXnnKHIhCOUbOLOJGe6o"
+        }
+      ],
+      "duration_ms": 202981,
+      "name": "The Basement",
+      "url": "https://open.spotify.com/track/5AiS9AoF7ONfTcNdXjWPNi"
+    },
+    {
       "added_at": "2023-04-15 08:16:09",
       "album": {
         "name": "Palisades, CA",
@@ -387,26 +543,6 @@
       "duration_ms": 194453,
       "name": "Palisades, CA",
       "url": "https://open.spotify.com/track/6TMwCGsTOlt796wpmiFIt7"
-    },
-    {
-      "added_at": "2023-04-15 08:16:09",
-      "album": {
-        "name": "ROLL THE DICE (feat. DeJ Loaf)",
-        "url": "https://open.spotify.com/album/3RC8VcNswzGIfN90R7pZTf"
-      },
-      "artists": [
-        {
-          "name": "Doe Boy",
-          "url": "https://open.spotify.com/artist/6aLoJJxz7MV2iZ423S8tJC"
-        },
-        {
-          "name": "DeJ Loaf",
-          "url": "https://open.spotify.com/artist/7kFfY4UjNdNyaeUgLIEbIF"
-        }
-      ],
-      "duration_ms": 224256,
-      "name": "ROLL THE DICE (feat. DeJ Loaf)",
-      "url": "https://open.spotify.com/track/3WhxyhcaabI2aNpUEFpTwr"
     },
     {
       "added_at": "2023-04-15 08:16:09",
@@ -473,6 +609,22 @@
       "url": "https://open.spotify.com/track/4Wlz0HsHZlJy0NDK2h6jq6"
     },
     {
+      "added_at": "2023-05-18 16:56:10",
+      "album": {
+        "name": "Tryna Go Viral",
+        "url": "https://open.spotify.com/album/1ZoDqEnCRfnAnC3Xn5I904"
+      },
+      "artists": [
+        {
+          "name": "YSN Flow",
+          "url": "https://open.spotify.com/artist/1je11NKORfLMSjgSNP0DPF"
+        }
+      ],
+      "duration_ms": 92245,
+      "name": "Tryna Go Viral",
+      "url": "https://open.spotify.com/track/2UVl38TbIN8MS9OC1QHeGn"
+    },
+    {
       "added_at": "2023-01-24 06:28:56",
       "album": {
         "name": "MANSION MUSIK",
@@ -493,10 +645,10 @@
       "url": "https://open.spotify.com/track/6SroqZFR8fPAcvhteW5y9W"
     },
     {
-      "added_at": "2023-04-24 15:18:35",
+      "added_at": "2023-05-18 16:56:10",
       "album": {
-        "name": "12AM",
-        "url": "https://open.spotify.com/album/06f4wXvDDYi2DiQygKVuNl"
+        "name": "FUNERAL",
+        "url": "https://open.spotify.com/album/3NHtQvtxHyS74U5K8pJmcZ"
       },
       "artists": [
         {
@@ -506,51 +658,7 @@
       ],
       "duration_ms": 162000,
       "name": "12AM",
-      "url": "https://open.spotify.com/track/4rBO0G8nMiakstdKOJHf8T"
-    },
-    {
-      "added_at": "2023-04-15 08:16:09",
-      "album": {
-        "name": "Pound Town (and Tay Keith)",
-        "url": "https://open.spotify.com/album/0xN8AKSa1FlAKuKe6BdD6A"
-      },
-      "artists": [
-        {
-          "name": "Sexyy Red",
-          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
-        },
-        {
-          "name": "Tay Keith",
-          "url": "https://open.spotify.com/artist/5xkFVS6IwwgHEAaRzXc9U3"
-        }
-      ],
-      "duration_ms": 129429,
-      "name": "Pound Town (and Tay Keith)",
-      "url": "https://open.spotify.com/track/4KSRdah26ypIXVNZPHmzO3"
-    },
-    {
-      "added_at": "2023-04-15 08:16:09",
-      "album": {
-        "name": "Keed Talk To \u2018Em 2",
-        "url": "https://open.spotify.com/album/0oCjauVTuzCzr6YMYcxRu1"
-      },
-      "artists": [
-        {
-          "name": "Lil Keed",
-          "url": "https://open.spotify.com/artist/3uJx5SnOM59Li7lCxA3b29"
-        },
-        {
-          "name": "Young Stoner Life",
-          "url": "https://open.spotify.com/artist/1xr2G8Hlx4QWmT9HaUbmoO"
-        },
-        {
-          "name": "Big Sean",
-          "url": "https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh"
-        }
-      ],
-      "duration_ms": 190413,
-      "name": "Hottest (feat. Big Sean)",
-      "url": "https://open.spotify.com/track/7ycGKMimKoCErFnxLhlV8k"
+      "url": "https://open.spotify.com/track/7wWHrLi8euXq0ItCjfVOAc"
     },
     {
       "added_at": "2023-04-15 08:16:09",
@@ -633,28 +741,24 @@
       "url": "https://open.spotify.com/track/4tKDqeQ3ncq5o5TSWfqF6r"
     },
     {
-      "added_at": "2023-04-15 08:16:09",
+      "added_at": "2023-05-18 16:56:10",
       "album": {
-        "name": "Grown Man",
-        "url": "https://open.spotify.com/album/282shVOXRHSfBqexKhADTN"
+        "name": "Controversy",
+        "url": "https://open.spotify.com/album/6ZsE1BtC06pff1QvzBSPZ9"
       },
       "artists": [
         {
-          "name": "Marshmello",
-          "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
+          "name": "Tee Grizzley",
+          "url": "https://open.spotify.com/artist/6AUl0ykLLpvTktob97x9hO"
         },
         {
-          "name": "Polo G",
-          "url": "https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49"
-        },
-        {
-          "name": "Southside",
-          "url": "https://open.spotify.com/artist/23DYJsw4uSCguIqiTIDtcN"
+          "name": "Skilla Baby",
+          "url": "https://open.spotify.com/artist/1GVenmuuAtusi17LY6FvgI"
         }
       ],
-      "duration_ms": 106511,
-      "name": "Grown Man",
-      "url": "https://open.spotify.com/track/5VKG8ary0JW6iKemhmznzS"
+      "duration_ms": 153198,
+      "name": "Gorgeous",
+      "url": "https://open.spotify.com/track/5e2jIB5KT9kmTDCBzAmvQr"
     },
     {
       "added_at": "2023-04-15 08:16:09",
@@ -671,58 +775,6 @@
       "duration_ms": 117073,
       "name": "Held Pipes B4 A Mic",
       "url": "https://open.spotify.com/track/5MBkN0qhtV6qHq5kuytPEA"
-    },
-    {
-      "added_at": "2023-01-13 06:28:17",
-      "album": {
-        "name": "Lil Durk Presents: Loyal Bros 2",
-        "url": "https://open.spotify.com/album/4lXLULUDQvqV1yHtLW5fyL"
-      },
-      "artists": [
-        {
-          "name": "Lil Durk",
-          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
-        }
-      ],
-      "duration_ms": 205893,
-      "name": "Hanging With Wolves",
-      "url": "https://open.spotify.com/track/5RBmSBME2JNHuCGe3dCGnm"
-    },
-    {
-      "added_at": "2023-04-15 08:16:09",
-      "album": {
-        "name": "This Summer",
-        "url": "https://open.spotify.com/album/6EGh6ELzd8b0gM9V3KH8XC"
-      },
-      "artists": [
-        {
-          "name": "DDG",
-          "url": "https://open.spotify.com/artist/0WK3H9OErSn5zKOkOV5egm"
-        }
-      ],
-      "duration_ms": 141387,
-      "name": "This Summer",
-      "url": "https://open.spotify.com/track/2PoV6mOIsOq6grbC4a0ZNz"
-    },
-    {
-      "added_at": "2023-01-13 06:28:17",
-      "album": {
-        "name": "Diamond in the Rough (Remix)",
-        "url": "https://open.spotify.com/album/4FkOrfQaU4WwZgf94uBzGL"
-      },
-      "artists": [
-        {
-          "name": "Queen Key",
-          "url": "https://open.spotify.com/artist/3IhYHKVt0Q9vxCCwiCHahR"
-        },
-        {
-          "name": "Gloss Up",
-          "url": "https://open.spotify.com/artist/7eDFwYpqsAROCZibWYr5C1"
-        }
-      ],
-      "duration_ms": 127773,
-      "name": "Diamond in the Rough - Remix",
-      "url": "https://open.spotify.com/track/5w1e87MPoDZnDufw2Hxt6Z"
     },
     {
       "added_at": "2022-12-02 05:00:00",
@@ -773,20 +825,24 @@
       "url": "https://open.spotify.com/track/3qa1FUeNZLfUoF2v5aw3yO"
     },
     {
-      "added_at": "2023-04-15 08:16:09",
+      "added_at": "2023-05-18 16:56:10",
       "album": {
-        "name": "HEAVY",
-        "url": "https://open.spotify.com/album/4iIjKIlfryNbbogL9X4dgL"
+        "name": "Out Of Options (feat. midwxst)",
+        "url": "https://open.spotify.com/album/1wcJej04CsVq2oheKzXeDV"
       },
       "artists": [
         {
-          "name": "Jean Deaux",
-          "url": "https://open.spotify.com/artist/4JqpJeNOhP6bAkolNMLwFg"
+          "name": "San Holo",
+          "url": "https://open.spotify.com/artist/0jNDKefhfSbLR9sFvcPLHo"
+        },
+        {
+          "name": "midwxst",
+          "url": "https://open.spotify.com/artist/7CGSp2GbiOpLPSq61qjxf8"
         }
       ],
-      "duration_ms": 140590,
-      "name": "When I Dip",
-      "url": "https://open.spotify.com/track/2Pna1EcN60OMqFzvS3sx3p"
+      "duration_ms": 156500,
+      "name": "Out Of Options (feat. midwxst)",
+      "url": "https://open.spotify.com/track/4VJRH6rxf9BkGYUsadAXdN"
     },
     {
       "added_at": "2023-04-24 15:18:35",
@@ -865,6 +921,26 @@
       "url": "https://open.spotify.com/track/3B6VHs9p74RcKpKQOHGaY4"
     },
     {
+      "added_at": "2023-05-18 16:56:10",
+      "album": {
+        "name": "OOGIE",
+        "url": "https://open.spotify.com/album/5EetXOn0c4hCGfDwy7MD4A"
+      },
+      "artists": [
+        {
+          "name": "Beamon",
+          "url": "https://open.spotify.com/artist/4YdeEI1YlIPMBgxdDNc39K"
+        },
+        {
+          "name": "Rellim",
+          "url": "https://open.spotify.com/artist/5peUHq2Ya8RBqm5GSq16QU"
+        }
+      ],
+      "duration_ms": 154074,
+      "name": "OOGIE",
+      "url": "https://open.spotify.com/track/2VYLS3j03FZLKIebP7ume9"
+    },
+    {
       "added_at": "2023-04-15 08:16:09",
       "album": {
         "name": "Understand",
@@ -883,6 +959,22 @@
       "duration_ms": 147279,
       "name": "Understand",
       "url": "https://open.spotify.com/track/1aKyApcbcGtaGNaozMJmdV"
+    },
+    {
+      "added_at": "2023-05-18 16:56:10",
+      "album": {
+        "name": "let him cooketh (No Bev)",
+        "url": "https://open.spotify.com/album/7A2yxNKZivHUrgV0pHbFwb"
+      },
+      "artists": [
+        {
+          "name": "Your Stepdad",
+          "url": "https://open.spotify.com/artist/4l7BJOIRyFkQT9QD96m8tu"
+        }
+      ],
+      "duration_ms": 135340,
+      "name": "let him cooketh (No Bev)",
+      "url": "https://open.spotify.com/track/4Je3shjTH5uUyFQJS0Tuvz"
     },
     {
       "added_at": "2023-01-13 06:28:17",
@@ -915,26 +1007,6 @@
       "duration_ms": 128923,
       "name": "Ran Outta Ones",
       "url": "https://open.spotify.com/track/7dMsGIkUH39T1xfaZBdbro"
-    },
-    {
-      "added_at": "2023-04-15 08:16:09",
-      "album": {
-        "name": "TRACKHAWK",
-        "url": "https://open.spotify.com/album/3rC1FeKw1vQxDSWR7lhwBS"
-      },
-      "artists": [
-        {
-          "name": "VV$ KEN",
-          "url": "https://open.spotify.com/artist/2FelUywHDci70FpLOHGghU"
-        },
-        {
-          "name": "PGF Nuk",
-          "url": "https://open.spotify.com/artist/0PUh7TSiwhSf0xL0b6SLXH"
-        }
-      ],
-      "duration_ms": 236356,
-      "name": "TRACKHAWK",
-      "url": "https://open.spotify.com/track/2Xxl6bNhnWSZB7IG9MiUC7"
     },
     {
       "added_at": "2023-04-15 08:16:09",
@@ -999,22 +1071,6 @@
       "duration_ms": 243560,
       "name": "Casa Lopez",
       "url": "https://open.spotify.com/track/15vePScuEPjJeOWsnNqGgo"
-    },
-    {
-      "added_at": "2023-01-13 06:28:17",
-      "album": {
-        "name": "FAKE BUTT",
-        "url": "https://open.spotify.com/album/2StRxfFDs1YC0w4eaC13gd"
-      },
-      "artists": [
-        {
-          "name": "Your Stepdad",
-          "url": "https://open.spotify.com/artist/4l7BJOIRyFkQT9QD96m8tu"
-        }
-      ],
-      "duration_ms": 114380,
-      "name": "FAKE BUTT",
-      "url": "https://open.spotify.com/track/2wJlc8AGsMYGAeZ80m5V3e"
     },
     {
       "added_at": "2023-04-15 08:16:09",

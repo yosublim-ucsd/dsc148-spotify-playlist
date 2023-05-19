@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2peJPuYDQJMsmEpjqMALnl.md) - [plain]
 
 > A classic playlist full of favorites of the 80s!
 
-[Digster](https://open.spotify.com/user/digster.fm) - 350,462 likes - 69 songs - 4 hr 45 min
+[Digster](https://open.spotify.com/user/digster.fm) - 350,477 likes - 69 songs - 4 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/2peJPuYDQJMsmEpjqMALnl.md) - [plain]
 | 27 | [Something About You \- 7" Version](https://open.spotify.com/track/2uXewDKMktNkkMfotqSxN6) | [Level 42](https://open.spotify.com/artist/0L9xkvBPcEp1nrhDrodxc5) | [Level Best](https://open.spotify.com/album/43lw3eUmzsmn3YSxUiMY9x) | 3:43 |
 | 28 | [One Thing Leads To Another](https://open.spotify.com/track/5B37ocpk2zxeZL1lq5F6ui) | [The Fixx](https://open.spotify.com/artist/53RkHTcl0SJZjpzqogkBf4) | [Reach The Beach](https://open.spotify.com/album/4TDnrqNEikAzVhYj948Iox) | 3:19 |
 | 29 | [Every Breath You Take \- Remastered 2003](https://open.spotify.com/track/0wF2zKJmgzjPTfircPJ2jg) | [The Police](https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE) | [Every Breath You Take The Classics](https://open.spotify.com/album/3s9o7LSofJfIZafUgkDe9O) | 4:14 |
-| 30 | [With Or Without You \- Remastered](https://open.spotify.com/track/5JGEAz15LkPoOtFHttDtVs) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [The Joshua Tree](https://open.spotify.com/album/4mULDK6YXrFXTfSwvwm4M3) | 4:55 |
+| 30 | [With Or Without You \- Remastered 2007](https://open.spotify.com/track/5JGEAz15LkPoOtFHttDtVs) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [The Joshua Tree](https://open.spotify.com/album/4mULDK6YXrFXTfSwvwm4M3) | 4:55 |
 | 31 | [Old Time Rock & Roll](https://open.spotify.com/track/5EOoMWIB9iK4ZpcSex9Ec7) | [Bob Seger](https://open.spotify.com/artist/485uL27bPomh29R4JmQehQ) | [Stranger In Town](https://open.spotify.com/album/1vhib5WLHRVdOpRjiTHk15) | 3:14 |
 | 32 | [Call Me](https://open.spotify.com/track/7HKxTNVlkHsfMLhigmhC0I) | [Blondie](https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB) | [Call Me](https://open.spotify.com/album/18fOLsMG8Msf1DEaW0E71K) | 3:32 |
 | 33 | [I Won't Back Down](https://open.spotify.com/track/4Ors2f6eZaZBOHwwTEfaXA) | [Tom Petty](https://open.spotify.com/artist/2UZMlIwnkgAEDBsw1Rejkn) | [The Best Of Everything \- The Definitive Career Spanning Hits Collection 1976\-2016](https://open.spotify.com/album/0fOsrdLub7GfVJCPqaPxji) | 2:56 |

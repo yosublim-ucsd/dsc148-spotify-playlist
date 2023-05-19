@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXeaTPCSrnmwu.md) - [plain]
 
 > Disfruta de tu velada en la sedosa compañía de las 88 teclas del piano.
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,535 likes - 50 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,549 likes - 50 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,10 +46,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXeaTPCSrnmwu.md) - [plain]
 | 36 | ['Round Midnight](https://open.spotify.com/track/1OC2r9MhAQgIRgr23ZZTni) | [Clark Younger](https://open.spotify.com/artist/2uxmpv4oWJsk2oITNtAlJe) | [Clark Younger](https://open.spotify.com/album/0TevT7in9JgG2yktoXGH6Y) | 3:16 |
 | 37 | [Setembro](https://open.spotify.com/track/0H0bv2u1uWkxHpNxgrNHfD) | [CMC 3](https://open.spotify.com/artist/6GtEW3IyxraJqKi2h86JqC) | [Setembro](https://open.spotify.com/album/5ksQoz2k7IcACaWEL5Key6) | 5:32 |
 | 38 | [Luces](https://open.spotify.com/track/4fVzIqfRv3VC1doIk9JLnt) | [Chucho Valdés](https://open.spotify.com/artist/27mRThsZ9K1BYmz0rioxwp) | [Jazz Batá 2](https://open.spotify.com/album/2qNItLdcFnSId2094fNe3A) | 4:53 |
-| 39 | [Gran Pilastro](https://open.spotify.com/track/6JgzK0yZN5H5LsQR67Ct5L) | [Léonie Deval](https://open.spotify.com/artist/7bryNa0PlcBGmHpXFEJxni) | [Gran Pilastro](https://open.spotify.com/album/1z6Y4hwez7v5aTWldwrtOa) | 1:05 |
+| 39 | [Winnetka](https://open.spotify.com/track/6ST2jppp8qDidqw8iK1txv) | [Joaquin Alejandro](https://open.spotify.com/artist/7iuafbXpI94G92U4vfoH4m) | [Winnetka](https://open.spotify.com/album/0pjkOfoN9u4XkEQAUc9OR5) | 2:12 |
 | 40 | [Wave](https://open.spotify.com/track/0kLvYpWHgCozYu6lM95eYk) | [Vinícius](https://open.spotify.com/artist/1k8aIB0NA92A8rVKA4HnaM) | [Bossa Nova EP](https://open.spotify.com/album/0Eb5CwXAUx0p3IkHsWAlBs) | 3:40 |
 | 41 | [Al Latin](https://open.spotify.com/track/0eoyBmi8Zrg9clYB9P4ZXO) | [Diego Amador](https://open.spotify.com/artist/7E17VU9B2y56KC2kRedIZT), [Raimundo Amador](https://open.spotify.com/artist/3skUHmTNpFUxTZaVxgvhF7), [Luis Salinas](https://open.spotify.com/artist/6lfuGeSEIAZl1WlXN3lSjk) | [Río de los Canasteros](https://open.spotify.com/album/2KRIZ6ZIvuALWTnEGGCPZy) | 9:08 |
-| 42 | [Winnetka](https://open.spotify.com/track/6ST2jppp8qDidqw8iK1txv) | [Joaquin Alejandro](https://open.spotify.com/artist/7iuafbXpI94G92U4vfoH4m) | [Winnetka](https://open.spotify.com/album/0pjkOfoN9u4XkEQAUc9OR5) | 2:12 |
+| 42 | [Gran Pilastro](https://open.spotify.com/track/6JgzK0yZN5H5LsQR67Ct5L) | [Léonie Deval](https://open.spotify.com/artist/7bryNa0PlcBGmHpXFEJxni) | [Gran Pilastro](https://open.spotify.com/album/1z6Y4hwez7v5aTWldwrtOa) | 1:05 |
 | 43 | [Palabras De Mujer\-Hojas Secas](https://open.spotify.com/track/6mBClBGac5YzqnVuXe37EN) | [Piano Magico](https://open.spotify.com/artist/0WTPr7HY88nFBbBZ8RiaV6) | [Boleros Inolvidables, Vol\. 1](https://open.spotify.com/album/7M8untsZpxy9aLD2MAq56O) | 2:23 |
 | 44 | [God Bless The Child](https://open.spotify.com/track/3YOXIat0EGuZ626MHh4WsU) | [Erica Smith Trio](https://open.spotify.com/artist/4wa2jF1Hfx1JtfzCn89RyI) | [Starlight EP](https://open.spotify.com/album/7m8ZtTAwuo43kLK41EsZ31) | 4:50 |
 | 45 | [Ponce: Balada Mexicana](https://open.spotify.com/track/4yzZhD5t7imXg9rYdEr6Vh) | [Manuel Ponce](https://open.spotify.com/artist/3sam97auWZppQpYU1HWNxK), [Daniela Liebman](https://open.spotify.com/artist/7MQNyVvd2ZSOEqPNlSgAJ3) | [Daniela Liebman](https://open.spotify.com/album/2eIQ6eOiV3gdXHLiyXIjMl) | 6:58 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXeaTPCSrnmwu.md) - [plain]
 | 49 | [Mambo Cantabile](https://open.spotify.com/track/2gAj421uW6j8YYXlfmoEu4) | [Bebo Valdés](https://open.spotify.com/artist/3qeECzqe5c7ssusMaDdwbj), [Havana All\-Stars](https://open.spotify.com/artist/0nBotB1mcxkmT0PRFLNLTf) | [Descarga Caliente](https://open.spotify.com/album/0KJoSsENtZqiYu0oJvfqgy) | 2:35 |
 | 50 | [Acercate Mas\-Nosotros](https://open.spotify.com/track/0buM06RgmgDVQ5kNpCwINq) | [Piano Magico](https://open.spotify.com/artist/0WTPr7HY88nFBbBZ8RiaV6) | [Boleros Inolvidables, Vol\. 1](https://open.spotify.com/album/7M8untsZpxy9aLD2MAq56O) | 2:08 |
 
-Snapshot ID: `MCw2Njk0ODdiN2I3Y2ViNzgxMWFkNmZhYWIzM2NlZDYxZjM5M2RlNTVk`
+Snapshot ID: `MCw0MDBjN2U5ZGYyNzA4MjA3MDVkYTVjMTFjMTVkOWFmYWQ2Yzc5YWM2`

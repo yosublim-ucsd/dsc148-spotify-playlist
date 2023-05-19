@@ -4,7 +4,7 @@
 
 > A sprinkle of bass, warm vocal drizzle, and dreamy <a href="spotify:genre:edm\_dance">dance music</a>, featuring Flume
 
-438 songs - 1 day 0 hr 23 min
+439 songs - 1 day 0 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -395,7 +395,7 @@
 | [Today Tomorrow Forever \(feat\. fknsyd\)](https://open.spotify.com/track/0907JRHmG6lj8yGdPom1HV) | [Chet Porter](https://open.spotify.com/artist/1BjaGDkxwa2fb2pSCXlFXb), [fknsyd](https://open.spotify.com/artist/4fHFFvChjfjG7sAseTwiXd) | [Today Tomorrow Forever \(feat\. fknsyd\)](https://open.spotify.com/album/1VgJyKFCcLgcvySnERuPU3) | 2:35 | 2023-05-05 |  |
 | [Torture Me \(feat\. Skrillex\)](https://open.spotify.com/track/2jLrYzkqtPmTpOejm58iDu) | [100 gecs](https://open.spotify.com/artist/6PfSUFtkMVoDkx4MQkzOi3), [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX) | [Snake Eyes](https://open.spotify.com/album/23lAnLvscWZExyGH8CneJM) | 1:53 | 2023-02-10 |  |
 | [Toxic](https://open.spotify.com/track/2tcg6KIbcCIEizDHF3rLT8) | [Origami Human](https://open.spotify.com/artist/6vOoZCnNiawjGeViOSoY1t) | [Toxic](https://open.spotify.com/album/62CkAFxFgOSoO7Jowxr1RJ) | 2:50 | 2021-08-06 | 2022-07-28 |
-| [Tragedy](https://open.spotify.com/track/0e3nE2uundlG1Tn35qSLZt) | [Pauline Herr](https://open.spotify.com/artist/66VgJGpaRMwrNaS2MPqIDf) | [Monarch](https://open.spotify.com/album/0kg4xRCGlZF7mbOFj0afCa) | 3:37 | 2023-05-12 |  |
+| [Tragedy](https://open.spotify.com/track/0e3nE2uundlG1Tn35qSLZt) | [Pauline Herr](https://open.spotify.com/artist/66VgJGpaRMwrNaS2MPqIDf) | [Monarch](https://open.spotify.com/album/0kg4xRCGlZF7mbOFj0afCa) | 3:37 | 2023-05-12 | 2023-05-19 |
 | [TURN IT DOWN](https://open.spotify.com/track/1j8yjtaPW2rPsTyB1u8P4i) | [pluko](https://open.spotify.com/artist/01qbSocTDAe2DmKayS89A5) | [TURN IT DOWN](https://open.spotify.com/album/6F9N9UkELafppB2aOEvMqR) | 2:34 | 2021-11-19 | 2022-07-29 |
 | [Under the Same Stars \- Sweater Beats Remix](https://open.spotify.com/track/7fkf0pSWrK1waeSzVlwjtF) | [Evalyn](https://open.spotify.com/artist/68WwJXWrpo1yVOOIZjLSeT), [Sweater Beats](https://open.spotify.com/artist/62Jfwxon19ZOT9eSL6bvtY) | [I Love You, Keep Going \(The Remixes\)](https://open.spotify.com/album/0pxKWbAyhIkcGFv9DH1fa9) | 2:57 | 2021-09-10 | 2023-05-13 |
 | [Unspoken](https://open.spotify.com/track/6WcSm79HcRk5Twgv7G4wFM) | [Daktyl](https://open.spotify.com/artist/2YrfEkWJvn1wue6JqekigJ), [MOONZz](https://open.spotify.com/artist/7cTaYwNT1P49mASgKULKab) | [Unspoken](https://open.spotify.com/album/04ZCiHmzCYFDVKcTrguNDj) | 3:24 | 2021-08-06 | 2022-10-26 |
@@ -421,6 +421,7 @@
 | [waves](https://open.spotify.com/track/2Prh6y8sogVP04PjwPI0To) | [helloworld](https://open.spotify.com/artist/01qG5pbsKe96w87ZMjphP4) | [waves](https://open.spotify.com/album/7ko2pVfTdGboSqs5EtktDS) | 3:18 | 2021-10-29 | 2022-07-26 |
 | [Waves](https://open.spotify.com/track/7DjdQgWuOECvAc1d7MRh8O) | [Kidswaste](https://open.spotify.com/artist/4aCkc4HrwC4Dopig7RELoH) | [Waves](https://open.spotify.com/album/4T3NGJe2sLSEoV9DiU5iOM) | 3:03 | 2022-05-13 | 2023-05-13 |
 | [We Will Meet Again](https://open.spotify.com/track/6VpRQDOM7nQ6viuVUSXWGn) | [San Holo](https://open.spotify.com/artist/0jNDKefhfSbLR9sFvcPLHo), [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw) | [We Will Meet Again](https://open.spotify.com/album/5Pz41jv4xOHJzn93rhHWle) | 3:21 | 2022-06-03 | 2023-05-13 |
+| [We're Fine](https://open.spotify.com/track/7bxeNP77YS2eeamGdzmLiA) | [Cozmoe](https://open.spotify.com/artist/2krDA9qCEfYKl4QjZcruhy) | [We're Fine](https://open.spotify.com/album/3shsnHsWg2aeVluxVeKR7O) | 3:21 | 2023-05-12 |  |
 | [What About Me?](https://open.spotify.com/track/7kFGfIujyDIFGzJOGMqIrA) | [HOMALS](https://open.spotify.com/artist/7puTH2JaAsyNBhdGHbiRid), [Tim Moyo](https://open.spotify.com/artist/3T5QkaUrOahzNpA0JvqsF1) | [What About Me?](https://open.spotify.com/album/3PAuqDEKdychyZALYNf2Y1) | 3:33 | 2021-08-06 | 2022-07-22 |
 | [What Do You Feel](https://open.spotify.com/track/7wSF7gxepOU1AeY1klcG9a) | [Cozmoe](https://open.spotify.com/artist/2krDA9qCEfYKl4QjZcruhy) | [What Do You Feel](https://open.spotify.com/album/0m3GZNjNQ7qZ3WGA3HKRaE) | 4:01 | 2022-02-04 | 2022-07-29 |
 | [When I Fall](https://open.spotify.com/track/1zIzW4i8tD51F4U21uFaHC) | [Tsu Nami](https://open.spotify.com/artist/3jdMkaMs7875drsoUevvyu), [RUNN](https://open.spotify.com/artist/3l0H4QNiYYNdIsnZ4JgJAg) | [When I Fall](https://open.spotify.com/album/4Tjmwmy2Q0fJQm2WBjVrKq) | 3:25 | 2022-12-21 | 2023-05-13 |

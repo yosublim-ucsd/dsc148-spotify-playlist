@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaHuo0R6jTxZ.md) - [plain]
 
 > Ya Wailee! Get ready for some serious 90s nostalgia\. Cover : Amr Diab
 
-[Spotify](https://open.spotify.com/user/spotify) - 84,134 likes - 40 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 84,239 likes - 40 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,6 +47,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaHuo0R6jTxZ.md) - [plain]
 | 37 | [Ya Leila Disco](https://open.spotify.com/track/04IvZrvzumdtX3sH2AmHXG) | [Hisham Abbas](https://open.spotify.com/artist/6OQ7sfN0G1E2pZMhYW9wjG) | [Ya Leila](https://open.spotify.com/album/651XwngqHNHNhwEsvOUL10) | 4:20 |
 | 38 | [متل الكذبة](https://open.spotify.com/track/0nUsStTuR6rl5epa8kquud) | [Assi El Hallani](https://open.spotify.com/artist/7Awwm6soGOr1umJYw53xdT) | [شوق الصحارى](https://open.spotify.com/album/0N28yOfdkj9aOGeQcUSf0R) | 5:08 |
 | 39 | [Lola El Saher](https://open.spotify.com/track/5r7SAP3IBS6QlAiAaXAVJe) | [Mohamed Mounir](https://open.spotify.com/artist/6hPNpOLunxxpXVwi696pYl) | [Oriental Party](https://open.spotify.com/album/1SsqOs7d7QpS3kpuzj6IjX) | 3:34 |
-| 40 | [Ah Yalali](https://open.spotify.com/track/2IBd5hETkThd4TNKx49uoS) | [Samira Tawfik](https://open.spotify.com/artist/0Kj6hBtl4FIOs9AJOB6Yd3) | [Dawrouli An Habib](https://open.spotify.com/album/1PQ2uPvUobUfgwOedPBHFv) | 5:25 |
+| 40 | [Esa'aly](https://open.spotify.com/track/2BDA9qmy0Kp47nCsWWIy8O) | [Mohamed Fouad & Haggag Abdul Rahman](https://open.spotify.com/artist/2C6nBdNa0zhNWDYGtBNh6U) | [Esa'aly](https://open.spotify.com/album/08Xmbnzwl0qmaui4ystYRJ) | 4:14 |
 
-Snapshot ID: `MCw3YzQ1MzBiODNlNTUxNTdhZjkxOGM0NjFkZmNhNzZkMjIyNjAzZWQ4`
+Snapshot ID: `MCxiY2ExNzNjZDVkOWQ0NTc3NWYzNTE3YjE5NzhkNTBjZWQ2MzNlY2Rl`

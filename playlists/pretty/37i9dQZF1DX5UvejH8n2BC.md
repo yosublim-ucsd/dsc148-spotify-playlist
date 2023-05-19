@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5UvejH8n2BC.md) - [plain]
 
 > Female artists of Philadelphia International Records which is especially known for Philly Soul\. Cover: The Jones Girls:
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,385 likes - 32 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,429 likes - 32 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,9 +25,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5UvejH8n2BC.md) - [plain]
 | 15 | [Free Love](https://open.spotify.com/track/0U8jLRW0P9yATYLXiqEJlF) | [Jean Carn](https://open.spotify.com/artist/5swBKHtsRDaCBmdpYRYOg1) | [Jean Carn](https://open.spotify.com/album/4gsuDhx9sgXP5tqKFolPIj) | 4:04 |
 | 16 | [I Think About You](https://open.spotify.com/track/4doSpsX1xxbf55TMA85I3G) | [Patti LaBelle](https://open.spotify.com/artist/0ty0xha1dbprYIUAQufkFn) | [Patti Labelle \(Expanded Edition\)](https://open.spotify.com/album/1KvfHKLbfIbVYtHyyHbZ8u) | 4:29 |
 | 17 | [Getting Serious](https://open.spotify.com/track/08pTWZPpPcAZa4m0NM32jd) | [Frantique](https://open.spotify.com/artist/64FQb5lUDKS72l9d8OjDLT) | [Frantique](https://open.spotify.com/album/1Xn2SYwx4PCz5v4K9yNSJn) | 7:56 |
-| 18 | [A Love of Your Own](https://open.spotify.com/track/7BDhzQJpWmQU0fBRdv2pDM) | [The Ebonys](https://open.spotify.com/artist/5lIu3yk3Vz3a2dVSoBHJDt) | [Sing About Life](https://open.spotify.com/album/6QkVNYrUsPdhcPwtFILX3r) | 5:30 |
+| 18 | [I'M Not In Love](https://open.spotify.com/track/1i2MdICLNQKYvr7lcc78rw) | [Dee Dee Sharp](https://open.spotify.com/artist/2NtGOVTuHBMDfR5PMNPBGT) | [Happy 'Bout The Whole Thing](https://open.spotify.com/album/2PBsr2V6Dku16eP1qgY0Rq) | 5:14 |
 | 19 | [The Runner](https://open.spotify.com/track/1SjVF6AcCFamuErMWI7GQz) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [The Best Of](https://open.spotify.com/album/4URmx7IbGKCfW5eXWC5zfG) | 4:22 |
-| 20 | [I'M Not In Love](https://open.spotify.com/track/1i2MdICLNQKYvr7lcc78rw) | [Dee Dee Sharp](https://open.spotify.com/artist/2NtGOVTuHBMDfR5PMNPBGT) | [Happy 'Bout The Whole Thing](https://open.spotify.com/album/2PBsr2V6Dku16eP1qgY0Rq) | 5:14 |
+| 20 | [A Love of Your Own](https://open.spotify.com/track/7BDhzQJpWmQU0fBRdv2pDM) | [The Ebonys](https://open.spotify.com/artist/5lIu3yk3Vz3a2dVSoBHJDt) | [Sing About Life](https://open.spotify.com/album/6QkVNYrUsPdhcPwtFILX3r) | 5:30 |
 | 21 | [What You Won't Do for Love](https://open.spotify.com/track/7Cw9qRzAA9RMH4DxMkg6pr) | [Phyllis Hyman](https://open.spotify.com/artist/3oqSDVaf6RoBGreqOlgUpv) | [Living All Alone](https://open.spotify.com/album/1iOHlsTOydpJYP3kIuuwYD) | 4:02 |
 | 22 | [Love](https://open.spotify.com/track/6eQIk2NX87pMrMQ9lpWZUD) | [City Limits](https://open.spotify.com/artist/4ZSMbwCpSHFmHheHHVU98x) | [Circles](https://open.spotify.com/album/7whWeslKir8S7gwBaijm9h) | 4:23 |
 | 23 | [The World Will Sing Our Song](https://open.spotify.com/track/60vnH9CJVtP0FCawQGzSdz) | [The Jones Girls](https://open.spotify.com/artist/7aHa6IZwZ13FoC5AXFkCSh) | [Get as Much Love as You Can](https://open.spotify.com/album/3tpCzBzJytqzc7eHcJQChi) | 4:04 |
@@ -41,4 +41,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5UvejH8n2BC.md) - [plain]
 | 31 | [You Are My Friend](https://open.spotify.com/track/7sFyB4BNNfyIwB4CtWEBMh) | [Patti LaBelle](https://open.spotify.com/artist/0ty0xha1dbprYIUAQufkFn) | [Patti Labelle \(Expanded Edition\)](https://open.spotify.com/album/1KvfHKLbfIbVYtHyyHbZ8u) | 4:36 |
 | 32 | [Breaking and Entering \- 12" Version](https://open.spotify.com/track/7EeTRmNCoGhvN1CM3qbMOu) | [Dee Dee Sharp Gamble](https://open.spotify.com/artist/6yca6zFWEYjAzjrcch66IK), [Dexter Wansel](https://open.spotify.com/artist/7azp9wRyXcxIq5vZnJgYvt), [David Todd](https://open.spotify.com/artist/5OYReAyrBw6qS3vOtMCaZA) | [The Women of Philadelphia International Records \- The Remixes](https://open.spotify.com/album/0Zhm6kMdeBa2iv48QhnYSu) | 7:00 |
 
-Snapshot ID: `MCw0MGQwMGQ5ZmU1MTYwZmU2OTllZDMzMjMwMzFkYTBkNTcyYjEzZGVi`
+Snapshot ID: `MCxiMjlhOGZhNjQ5NmNlMGMzNGZjYTk4YjY2YTIwNjY1NjVkNzk2MWQ4`

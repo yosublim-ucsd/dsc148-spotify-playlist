@@ -4,7 +4,7 @@
 
 > This is Eric Clapton\. The essential tracks, all in one playlist.
 
-118 songs - 8 hr 48 min
+119 songs - 8 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,6 +65,7 @@
 | [It's Probably Me](https://open.spotify.com/track/1X3Vb1oIAW6Ee22JZAEi59) | [Sting](https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk), [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [Fields Of Gold \- The Best Of Sting 1984 \- 1994](https://open.spotify.com/album/1rZTn68Lgr5J4F4vIpgpWf) | 5:02 | 2022-08-05 |  |
 | [Kerry \- Live](https://open.spotify.com/track/2Xtj2dwqCfgnNxck6qA7AS) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [The Lady In The Balcony: Lockdown Sessions \(Live\)](https://open.spotify.com/album/2pnfVMvTS8ozs9f1dbLubY) | 2:27 | 2022-08-05 | 2022-09-05 |
 | [Key to the Highway](https://open.spotify.com/track/1r6Xp7EiQQ7F63HjbFHNJn) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD), [B.B\. King](https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U) | [Riding with the King](https://open.spotify.com/album/7b0Ysbudh2BH9A853EfxEu) | 3:39 | 2022-10-12 |  |
+| [Knockin' On Heaven's Door \- Live at The Royal Albert Hall](https://open.spotify.com/track/0lDmUoccwUL5R79motsrsW) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [Knockin' On Heaven's Door \(Live at The Royal Albert Hall\)](https://open.spotify.com/album/2Vp01eGIEUGBsZfQnIJml7) | 6:11 | 2023-05-18 |  |
 | [Knocking On Heaven's Door \- Live At Hammersmith Odeon](https://open.spotify.com/track/5uhvUuQciVrP0p48NqSHaq) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [Slowhand 35th Anniversary \(Super Deluxe\)](https://open.spotify.com/album/5MAL7e4EnKXW1hFg6NbFqP) | 5:18 | 2022-08-06 | 2023-01-07 |
 | [Lay Down Sally](https://open.spotify.com/track/6io0LJIP9ntX35hTfaxwQG) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [Slowhand 35th Anniversary \(Super Deluxe\)](https://open.spotify.com/album/5MAL7e4EnKXW1hFg6NbFqP) | 3:56 | 2022-08-05 |  |
 | [Layla \- Acoustic Live](https://open.spotify.com/track/0zxj7dVhYZq5ACyaDx5XIo) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [Unplugged \(Live\)](https://open.spotify.com/album/6zxsfP7TdXLAS9QEGNN0Uy) | 4:49 | 2022-12-05 |  |

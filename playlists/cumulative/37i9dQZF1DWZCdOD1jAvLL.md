@@ -4,7 +4,7 @@
 
 > Ride the bassline\. Cover: Nostalgix
 
-468 songs - 1 day 1 hr 57 min
+469 songs - 1 day 2 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -88,7 +88,7 @@
 | [Chill Like That](https://open.spotify.com/track/6rLyDeWcz8GDRkg8F9SqgL) | [Sunday Scaries](https://open.spotify.com/artist/0PavAVTZWBEpaj4iJdKCyj), [PiCKUPLiNES](https://open.spotify.com/artist/0Nqow4lyg43fW8ktlTR9Vi) | [Chill Like That](https://open.spotify.com/album/7ssIu39mDWLqnDO70JPn4n) | 2:58 | 2022-10-21 | 2022-10-29 |
 | [Chills \(LA Hills\)](https://open.spotify.com/track/2N5cFPLy0TIasTWkfT1hri) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I) | [DRIVE](https://open.spotify.com/album/1Pl9ZGXwayXPg5qRVpYo74) | 3:03 | 2023-04-28 |  |
 | [CLOSE2ME](https://open.spotify.com/track/6WwBF7AhJJWhHULZPEDRmM) | [Tails](https://open.spotify.com/artist/007nYTXRhZJUZGH7ct5Y3v) | [CLOSE2ME](https://open.spotify.com/album/4XjJwCh6Ox1SlMZmIPmr6B) | 3:08 | 2022-01-14 | 2022-01-22 |
-| [Collecting Thoughts](https://open.spotify.com/track/4iZjLwKa4VUZBeeMvgyNeL) | [Koven](https://open.spotify.com/artist/3UCbp6D1lvILlxRJT9LnFa), [ShockOne](https://open.spotify.com/artist/1yShtQaHjChbToQboKRzgH) | [Collecting Thoughts](https://open.spotify.com/album/7vMJWsVV5RVQGGV9MtsS9M) | 3:25 | 2023-03-03 |  |
+| [Collecting Thoughts](https://open.spotify.com/track/4iZjLwKa4VUZBeeMvgyNeL) | [Koven](https://open.spotify.com/artist/3UCbp6D1lvILlxRJT9LnFa), [ShockOne](https://open.spotify.com/artist/1yShtQaHjChbToQboKRzgH) | [Collecting Thoughts](https://open.spotify.com/album/7vMJWsVV5RVQGGV9MtsS9M) | 3:25 | 2023-03-03 | 2023-05-19 |
 | [Colonia](https://open.spotify.com/track/0eJInRAV3YR0xRNGsk5Ty7) | [Space 92](https://open.spotify.com/artist/6TVdVlY6irsNPkMHT2HkfD) | [Colonia EP](https://open.spotify.com/album/3ICAjodGpPbA4VWC1CFYN0) | 3:54 | 2022-10-07 | 2023-02-25 |
 | [Color Of Your Soul](https://open.spotify.com/track/71LZ7lwCisTG3H9UXKraTe) | [GRiZ](https://open.spotify.com/artist/25oLRSUjJk4YHNUsQXk7Ut), [CloZee](https://open.spotify.com/artist/1496XxkytEk26FUJLfpVZr) | [Color Of Your Soul](https://open.spotify.com/album/0WKsuKxJZYxAf0sUeNCUZd) | 3:22 | 2022-02-04 | 2022-06-25 |
 | [Coma Cat \- Purple Disco Machine Re\-Work](https://open.spotify.com/track/1BMFet4vUoOgpLYIl3kVMQ) | [Tensnake](https://open.spotify.com/artist/75nC6MXUalYZSOd7OfNkwq), [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4) | [Coma Cat \(Purple Disco Machine Re\-Work\)](https://open.spotify.com/album/0xQYiQjTVXSJFEqgM7GgUC) | 3:28 | 2022-10-07 | 2022-10-29 |
@@ -167,6 +167,7 @@
 | [Gimme That Bounce](https://open.spotify.com/track/7jURkEKDVEm9sHueqUX0ko) | [Mau P](https://open.spotify.com/artist/0w1sbtZVQoK6GzV4A4OkCv) | [Gimme That Bounce](https://open.spotify.com/album/1aCIYDZTw34CIRq8Vr1VQv) | 3:37 | 2023-02-10 |  |
 | [Give It To Me \- Full Vocal Mix](https://open.spotify.com/track/5ZduaRci3iNUiDfJbBfAaf) | [Matt Sassari](https://open.spotify.com/artist/21dVknSLCsK37cWozWDZZS) | [Give It To Me \(Full Vocal Mix\)](https://open.spotify.com/album/1jbRY71konakrKvDUiW7Rp) | 1:42 | 2022-11-14 |  |
 | [Give It Up](https://open.spotify.com/track/46j2gbguuzgeBEVyfNMDhG) | [Max Styler](https://open.spotify.com/artist/3NKKngINK1tP6BFy0WOyWk), [Kyle Walker](https://open.spotify.com/artist/4kB1srfgZ4eok7CmDqyOJP) | [Give It Up](https://open.spotify.com/album/1DHXplHJ1VtoETBNuQDj7U) | 3:20 | 2022-01-14 | 2022-01-22 |
+| [Good Love](https://open.spotify.com/track/0ZVjgfaC2Ptrod9v6p9KFP) | [Hannah Laing](https://open.spotify.com/artist/1QEd635szhierW6gzRiS1o), [RoRo](https://open.spotify.com/artist/4AuHHsxMRVg7bXSgvlrAff) | [Good Love](https://open.spotify.com/album/4SCAkvXJmXuvoQTlQU7Q48) | 2:49 | 2023-05-12 |  |
 | [Goodies](https://open.spotify.com/track/5WJp4hlT4lI14Wv9U2BKvC) | [DJ YUKI](https://open.spotify.com/artist/4FMFA5iNrEH3pJGnolicsB), [FUSE](https://open.spotify.com/artist/7xCCjSSqo7y2OUpJ2DMMrs) | [Goodies](https://open.spotify.com/album/1XjtyTyruK0RoGOuVsQNqc) | 2:27 | 2022-04-15 | 2022-08-20 |
 | [Gravity](https://open.spotify.com/track/0VTnsXnW2kuMFlwdKSTSBy) | [Space 92](https://open.spotify.com/artist/6TVdVlY6irsNPkMHT2HkfD) | [Gravity](https://open.spotify.com/album/45hEdeNHcpC2FIvgDMlaCP) | 6:05 | 2023-02-24 |  |
 | [Gyrate \(ft\. Wreckno\)](https://open.spotify.com/track/1t0cVl9nW6zkUeow0RCLqA) | [Rezz](https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw), [Quackson](https://open.spotify.com/artist/1srU7GzSGHwG1ewjSv6ztq), [Wreckno](https://open.spotify.com/artist/6j78LtFLqDG65Ju57NUM5N) | [Gyrate \(ft\. Wreckno\)](https://open.spotify.com/album/2QYJoHbkmHuWUiRxxcOeEd) | 2:56 | 2023-02-10 |  |

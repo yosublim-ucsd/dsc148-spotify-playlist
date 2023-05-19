@@ -686,7 +686,7 @@
       ],
       "date_added": "2022-06-16",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-09",
+      "date_removed": null,
       "duration_ms": 156933,
       "name": "Hey Julie",
       "url": "https://open.spotify.com/track/2LGAbm0xHNu7scBDVCkFwN"
@@ -848,7 +848,7 @@
       ],
       "date_added": "2021-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 318066,
       "name": "Immortality - Remastered",
       "url": "https://open.spotify.com/track/5TxUedy2CM04QihDdOFnsk"
@@ -2380,7 +2380,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 295515,
-      "name": "With Or Without You - Remastered",
+      "name": "With Or Without You",
       "url": "https://open.spotify.com/track/6ADSaE87h8Y3lccZlBJdXH"
     },
     {

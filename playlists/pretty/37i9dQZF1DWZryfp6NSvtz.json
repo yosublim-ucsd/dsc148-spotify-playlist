@@ -1,12 +1,12 @@
 {
   "description": "The best new rock tracks every week. Cover: Nothing But Thieves",
-  "num_followers": 399092,
+  "num_followers": 399225,
   "original_name": "All New Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiMWRhNGMzMjMxOGY1MmVlYzg3MDcwMTMwZDdlN2ZlYmU1MWNhZjBj",
+  "snapshot_id": "MCw5NjM2NGI1MzM1NzkzYjYyMjk3OTZkZTI3MWViMzY4MjlmMWQ4YzQ1",
   "tracks": [
     {
       "added_at": "2023-05-12 04:00:00",
@@ -200,12 +200,12 @@
           "url": "https://open.spotify.com/artist/3aDih8lIm5GOfAaorpUg5Y"
         },
         {
-          "name": "Aaron Gillespie",
-          "url": "https://open.spotify.com/artist/5B2GfbXgossZt9SE08Iqn6"
-        },
-        {
           "name": "Underoath",
           "url": "https://open.spotify.com/artist/3GzWhE2xadJiW8MqRKIVSK"
+        },
+        {
+          "name": "Aaron Gillespie",
+          "url": "https://open.spotify.com/artist/5B2GfbXgossZt9SE08Iqn6"
         }
       ],
       "duration_ms": 172398,

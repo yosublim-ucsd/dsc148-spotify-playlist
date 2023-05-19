@@ -1,12 +1,12 @@
 {
   "description": "Esta es la plebada que est\u00e1 marcando tendencia en la M\u00fasica Mexicana. Franco Rey en portada.",
-  "num_followers": 54004,
+  "num_followers": 54037,
   "original_name": "La Nueva Ola: M\u00fasica Mexicana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4YmRiZTIzYjZmNTY3M2NjNDBiNzY4ZTVjODVkNjA0MzM3MDM1NzMx",
+  "snapshot_id": "MCwzNWY1NGMyODU4MDcxM2VlMDcxNzFkODZhNmY2MGFkZDcwNjdiN2Zh",
   "tracks": [
     {
       "added_at": "2023-05-05 18:32:45",
@@ -871,6 +871,22 @@
     {
       "added_at": "2023-05-05 18:32:45",
       "album": {
+        "name": "Estos D\u00edas",
+        "url": "https://open.spotify.com/album/28oQLDvOUhSoyyTZSkpwdh"
+      },
+      "artists": [
+        {
+          "name": "Drupys",
+          "url": "https://open.spotify.com/artist/51v2O1Wdjz5ESexCePinre"
+        }
+      ],
+      "duration_ms": 204826,
+      "name": "Estos D\u00edas",
+      "url": "https://open.spotify.com/track/2oIwJKdjg8amIYUupl4RUO"
+    },
+    {
+      "added_at": "2023-05-05 18:32:45",
+      "album": {
         "name": "El Flaco",
         "url": "https://open.spotify.com/album/254XD0N4FecIrpWeJ5LAzd"
       },
@@ -919,22 +935,6 @@
       "duration_ms": 149549,
       "name": "Los Medios Suenan",
       "url": "https://open.spotify.com/track/2T6uWv12GY7luN3TDtqHyd"
-    },
-    {
-      "added_at": "2023-05-05 18:32:45",
-      "album": {
-        "name": "Estos D\u00edas",
-        "url": "https://open.spotify.com/album/28oQLDvOUhSoyyTZSkpwdh"
-      },
-      "artists": [
-        {
-          "name": "Drupys",
-          "url": "https://open.spotify.com/artist/51v2O1Wdjz5ESexCePinre"
-        }
-      ],
-      "duration_ms": 204826,
-      "name": "Estos D\u00edas",
-      "url": "https://open.spotify.com/track/2oIwJKdjg8amIYUupl4RUO"
     },
     {
       "added_at": "2023-05-05 18:32:45",
@@ -1011,22 +1011,6 @@
     {
       "added_at": "2023-05-05 18:32:45",
       "album": {
-        "name": "Se Alborotaron Los Guachos",
-        "url": "https://open.spotify.com/album/3ADlzDWjU0HZDB8aYhDIio"
-      },
-      "artists": [
-        {
-          "name": "Los Chavalitos",
-          "url": "https://open.spotify.com/artist/49EltEYUgnAeLArhavWfT0"
-        }
-      ],
-      "duration_ms": 164022,
-      "name": "Se Alborotaron Los Guachos - En Vivo",
-      "url": "https://open.spotify.com/track/6CA9iCTQxnc64EYPs36AAd"
-    },
-    {
-      "added_at": "2023-05-05 18:32:45",
-      "album": {
         "name": "Contigo",
         "url": "https://open.spotify.com/album/0QpwYU44Nddpi2WDn9RQAJ"
       },
@@ -1039,6 +1023,22 @@
       "duration_ms": 213711,
       "name": "Contigo",
       "url": "https://open.spotify.com/track/37mNBPZC4ZzdzXmmrwjOoW"
+    },
+    {
+      "added_at": "2023-05-05 18:32:45",
+      "album": {
+        "name": "Se Alborotaron Los Guachos",
+        "url": "https://open.spotify.com/album/3ADlzDWjU0HZDB8aYhDIio"
+      },
+      "artists": [
+        {
+          "name": "Los Chavalitos",
+          "url": "https://open.spotify.com/artist/49EltEYUgnAeLArhavWfT0"
+        }
+      ],
+      "duration_ms": 164022,
+      "name": "Se Alborotaron Los Guachos - En Vivo",
+      "url": "https://open.spotify.com/track/6CA9iCTQxnc64EYPs36AAd"
     },
     {
       "added_at": "2023-05-05 18:32:45",
@@ -1147,6 +1147,22 @@
     {
       "added_at": "2023-05-05 18:32:45",
       "album": {
+        "name": "Hija de mi Madre",
+        "url": "https://open.spotify.com/album/0ZEdugqFtQeYFrN95229VO"
+      },
+      "artists": [
+        {
+          "name": "Gladys Ruiz",
+          "url": "https://open.spotify.com/artist/02p1rp0F8VAwiGbd941PdO"
+        }
+      ],
+      "duration_ms": 147408,
+      "name": "Hija de mi Madre",
+      "url": "https://open.spotify.com/track/4uUVhe9PSPqL6gWPnJzBjB"
+    },
+    {
+      "added_at": "2023-05-05 18:32:45",
+      "album": {
         "name": "Casa en Llamas",
         "url": "https://open.spotify.com/album/4TknQXLYgvConiGZ7janrU"
       },
@@ -1175,22 +1191,6 @@
       "duration_ms": 178150,
       "name": "Despu\u00e9s De Ella",
       "url": "https://open.spotify.com/track/7Hj5ZFc2W1AVfyN4FNW7Tt"
-    },
-    {
-      "added_at": "2023-05-05 18:32:45",
-      "album": {
-        "name": "Hija de mi Madre",
-        "url": "https://open.spotify.com/album/0ZEdugqFtQeYFrN95229VO"
-      },
-      "artists": [
-        {
-          "name": "Gladys Ruiz",
-          "url": "https://open.spotify.com/artist/02p1rp0F8VAwiGbd941PdO"
-        }
-      ],
-      "duration_ms": 147408,
-      "name": "Hija de mi Madre",
-      "url": "https://open.spotify.com/track/4uUVhe9PSPqL6gWPnJzBjB"
     },
     {
       "added_at": "2023-05-05 18:32:45",

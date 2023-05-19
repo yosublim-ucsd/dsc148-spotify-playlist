@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZLhUfNQOQ1p.md) - [plain]
 
 > Un aperitivo d'estate, un tocco di lusso, un bicchiere al tramonto e la musica scelta da <a href="spotify:artist:3v3PilwftiZCpC4msQRNyB">Popa</a> in sottofondo..\. 🌅
 
-[Spotify](https://open.spotify.com/user/spotify) - 231,395 likes - 50 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 231,393 likes - 50 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZLhUfNQOQ1p.md) - [plain]
 | 49 | [Such a good day](https://open.spotify.com/track/2nkEjfkb6OjBP9Yg7bEISE) | [Lewis OfMan](https://open.spotify.com/artist/1hkRfKGoJisJDbo6eSf1pg) | [Sonic Poems](https://open.spotify.com/album/61LDldyfICKlRKjauyeWdn) | 3:28 |
 | 50 | [More, More, More \- Single Version](https://open.spotify.com/track/3AE5u8SGUVStmdjXzHWflz) | [Andrea True Connection](https://open.spotify.com/artist/3GHovBcEWpbnwCZDPF9GpM) | [70s 100 Hits](https://open.spotify.com/album/1k7WkNHGPNPnri2tsowvtg) | 3:00 |
 
-Snapshot ID: `MCw1ZDlkNGZiYWEzMjBmODU5MTVmNWRmMTQzMGJkZTRiM2Q1ZGRhNmFm`
+Snapshot ID: `MCxmOWU5ZDgyOTE5MzQxZmFhYjVjYmY4OTBkNDM4MDAzOGVlZGNjNTFj`

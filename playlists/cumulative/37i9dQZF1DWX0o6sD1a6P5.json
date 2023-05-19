@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "Feel-good Afropop from Europe and Africa. Cover: CKay",
+  "description": "Feel-good Afropop from Europe and Africa. Cover: Kizz Daniel",
   "name": "Afro Hits",
   "tracks": [
     {
@@ -470,6 +470,28 @@
       "duration_ms": 216000,
       "name": "Asiwaju",
       "url": "https://open.spotify.com/track/7ErtOGQ9DwyQa3lwP77j4u"
+    },
+    {
+      "album": {
+        "name": "Attends-moi",
+        "url": "https://open.spotify.com/album/2KSqm0cG23Ol22ZWp75VHX"
+      },
+      "artists": [
+        {
+          "name": "Youka",
+          "url": "https://open.spotify.com/artist/5dDL6ReckbbD5JBnZdobv6"
+        },
+        {
+          "name": "Warren Saada",
+          "url": "https://open.spotify.com/artist/1gqvlpGMzW0ynXNMlu6pIM"
+        }
+      ],
+      "date_added": "2023-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168777,
+      "name": "Attends-moi",
+      "url": "https://open.spotify.com/track/2Wd9RYX8XCkcfmKKdCkJCb"
     },
     {
       "album": {
@@ -1418,7 +1440,7 @@
       ],
       "date_added": "2023-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 151000,
       "name": "Cadeau (feat. Tiakola)",
       "url": "https://open.spotify.com/track/4serT1J6lu8eTsMMG9VhF8"
@@ -1840,7 +1862,7 @@
       ],
       "date_added": "2023-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 166533,
       "name": "Co-Star",
       "url": "https://open.spotify.com/track/2rYu4zr0jXGWAHmNdpQYsl"
@@ -1924,6 +1946,24 @@
       "duration_ms": 161720,
       "name": "Commando",
       "url": "https://open.spotify.com/track/1k4VnMH8KMeaz653dOsRFv"
+    },
+    {
+      "album": {
+        "name": "Complete",
+        "url": "https://open.spotify.com/album/3WfxzL7q64BWBupbgHhhSD"
+      },
+      "artists": [
+        {
+          "name": "T'neeya",
+          "url": "https://open.spotify.com/artist/39r1XfRA5kvyYjPYKzqBGL"
+        }
+      ],
+      "date_added": "2023-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160862,
+      "name": "Complete",
+      "url": "https://open.spotify.com/track/5JTSPWFJqK2T0ys6LWZcGN"
     },
     {
       "album": {
@@ -2206,6 +2246,28 @@
       "duration_ms": 154038,
       "name": "Dantsido (Toc Toc Toc)",
       "url": "https://open.spotify.com/track/1NUEUFueiCYana070TfNa0"
+    },
+    {
+      "album": {
+        "name": "Dendisa",
+        "url": "https://open.spotify.com/album/1uSSXiCyplT46MTqfia54L"
+      },
+      "artists": [
+        {
+          "name": "Gaz Mawete",
+          "url": "https://open.spotify.com/artist/4WSA56zRr2ZBnbQqVNrMay"
+        },
+        {
+          "name": "Niska",
+          "url": "https://open.spotify.com/artist/7CUFPNi1TU8RowpnFRSsZV"
+        }
+      ],
+      "date_added": "2023-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246101,
+      "name": "Dendisa",
+      "url": "https://open.spotify.com/track/4pCgqcgvfx0VQwzgzY63Vw"
     },
     {
       "album": {
@@ -2668,7 +2730,7 @@
       ],
       "date_added": "2023-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 127067,
       "name": "Duffel Bag",
       "url": "https://open.spotify.com/track/3d04OfVqip9ZQdvboUsPg3"
@@ -3532,7 +3594,7 @@
       ],
       "date_added": "2023-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 192000,
       "name": "How Many Times",
       "url": "https://open.spotify.com/track/45Vvoe20MW6GD7FwoacZc8"
@@ -4476,7 +4538,7 @@
       ],
       "date_added": "2023-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 151304,
       "name": "Ma ch\u00e9rie",
       "url": "https://open.spotify.com/track/122t69y9AvrnLJI6Rnw6eJ"
@@ -5015,6 +5077,24 @@
     },
     {
       "album": {
+        "name": "Noche",
+        "url": "https://open.spotify.com/album/6ETBTsvMYK6o24y0YzNYDy"
+      },
+      "artists": [
+        {
+          "name": "DIMA DIMA",
+          "url": "https://open.spotify.com/artist/5eb7nRgBZmN9EIBVLLZjbu"
+        }
+      ],
+      "date_added": "2023-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183626,
+      "name": "Noche",
+      "url": "https://open.spotify.com/track/6B2ly4YtSOCibwfbQVbd4c"
+    },
+    {
+      "album": {
         "name": "Glish",
         "url": "https://open.spotify.com/album/28jxOZWNxs8VARM7kTp6Ln"
       },
@@ -5034,6 +5114,32 @@
       "duration_ms": 146173,
       "name": "Non non",
       "url": "https://open.spotify.com/track/3GfCSY2umHBJg9LEZ3OpX5"
+    },
+    {
+      "album": {
+        "name": "Body & Soul",
+        "url": "https://open.spotify.com/album/1TGcgugu0CxUp5rhS7SyCW"
+      },
+      "artists": [
+        {
+          "name": "Joeboy",
+          "url": "https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF"
+        },
+        {
+          "name": "BNXN fka Buju",
+          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
+        },
+        {
+          "name": "ODUMODUBLVCK",
+          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
+        }
+      ],
+      "date_added": "2023-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204631,
+      "name": "Normally",
+      "url": "https://open.spotify.com/track/4cPKw3rzgmaU4zixJe6wge"
     },
     {
       "album": {
@@ -5308,6 +5414,28 @@
       "duration_ms": 162957,
       "name": "Oulala",
       "url": "https://open.spotify.com/track/1XB2BENsrx2SI9cwMBbDqE"
+    },
+    {
+      "album": {
+        "name": "OVAMI",
+        "url": "https://open.spotify.com/album/2HYi42ojRq0cI1qiTttMj3"
+      },
+      "artists": [
+        {
+          "name": "Oxlade",
+          "url": "https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT"
+        },
+        {
+          "name": "Flavour",
+          "url": "https://open.spotify.com/artist/0oKNR4ahj1CPnK2kQmbOfo"
+        }
+      ],
+      "date_added": "2023-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204000,
+      "name": "OVAMI",
+      "url": "https://open.spotify.com/track/1QO7M1UGJsHno3cf5aHCri"
     },
     {
       "album": {
@@ -7594,6 +7722,24 @@
       "duration_ms": 192907,
       "name": "WAHALA",
       "url": "https://open.spotify.com/track/1fCDZFT7cAYMWSJPwrihge"
+    },
+    {
+      "album": {
+        "name": "Waka Waka",
+        "url": "https://open.spotify.com/album/7uKmucLvh9qvW3YXgWQjIi"
+      },
+      "artists": [
+        {
+          "name": "Wally B. Seck",
+          "url": "https://open.spotify.com/artist/5SVxYNSZjum1qCdVczQScc"
+        }
+      ],
+      "date_added": "2023-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148160,
+      "name": "Waka Waka",
+      "url": "https://open.spotify.com/track/6ZVv3M4whMsgo26ZSg9Zxl"
     },
     {
       "album": {

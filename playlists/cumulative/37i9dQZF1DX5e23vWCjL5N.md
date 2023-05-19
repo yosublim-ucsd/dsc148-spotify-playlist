@@ -4,7 +4,7 @@
 
 > Tra storytelling e barre affilate, il meglio del rap game italiano\. Cover: Noyz Narcos
 
-103 songs - 5 hr 34 min
+106 songs - 5 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,6 +35,7 @@
 | [Chic](https://open.spotify.com/track/7jUJ2RmT4PFHHq4goMWqm3) | [Izi](https://open.spotify.com/artist/6289Bbkkk3gaCbh1K7Rv8F) | [Fenice](https://open.spotify.com/album/4Ff34a4maeLObapIe4K89I) | 3:32 | 2022-04-15 |  |
 | [Cicatrici \(feat\. Tedua\)](https://open.spotify.com/track/4tnNQ9nSgMCj0xjE2Q4spX) | [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS), [Tedua](https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7) | [Milano Demons](https://open.spotify.com/album/202T8cUT1c3oQarCOJBy6m) | 3:12 | 2022-11-24 | 2023-04-28 |
 | [Cocaine](https://open.spotify.com/track/5xIlm5Scz7D2UFo6RyMMQE) | [Fabri Fibra](https://open.spotify.com/artist/7u710e44HW3K7A5eTnRqHC), [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27), [Salmo](https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW) | [Caos](https://open.spotify.com/album/3uiWXB4lUCGo3QHxMVxGEB) | 3:05 | 2022-04-15 |  |
+| [COL CUORE IN GOLA \- lords of dogtown](https://open.spotify.com/track/2ypcWaliFPJ9c3JeWMqi1w) | [Emis Killa](https://open.spotify.com/artist/6FtwCmLY6L1sqvjaQ2lV6G) | [Effetto notte](https://open.spotify.com/album/39wuRno08Rl0Jsse2kCHga) | 3:08 | 2023-05-18 |  |
 | [DOPE BOY](https://open.spotify.com/track/6r4QPSgVEV5ZXJVqarKaQn) | [Noyz Narcos](https://open.spotify.com/artist/49UAapOfpOg1ZOU4xf2NgY), [Night Skinny](https://open.spotify.com/artist/2E6AK3UPEGCvjnzuygCh2h) | [VIRUS](https://open.spotify.com/album/1PuzNok4t4FnyY92G202UU) | 2:39 | 2022-04-15 |  |
 | [DUBBI](https://open.spotify.com/track/4gxRyOZefp95AXZFaztdtO) | [Marracash](https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7) | [NOI, LORO, GLI ALTRI](https://open.spotify.com/album/0rgggvSYGSms079nUlcAGX) | 3:54 | 2022-07-15 |  |
 | [DUBBI](https://open.spotify.com/track/7fI5RJec8R3jJ95pljZnkN) | [Marracash](https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7) | [NOI, LORO, GLI ALTRI](https://open.spotify.com/album/2UgbcJeoUQ0m1gbLZNDZgp) | 3:54 | 2022-04-15 | 2022-07-29 |
@@ -51,6 +52,7 @@
 | [Intro \(Cielo\)](https://open.spotify.com/track/7luFLdyoCkAyNZm3BEGAAT) | [Fabri Fibra](https://open.spotify.com/artist/7u710e44HW3K7A5eTnRqHC) | [Caos](https://open.spotify.com/album/3uiWXB4lUCGo3QHxMVxGEB) | 2:24 | 2022-04-15 |  |
 | [Italian Hustler \(feat\. Rasty Kilo\)](https://open.spotify.com/track/7us2M1m8cXkpHMBbEgFAiH) | [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27), [Dj Harsh](https://open.spotify.com/artist/5BNE7AF1Sp5bWiqtXpekFq), [Rasty Kilo](https://open.spotify.com/artist/0W7yEx7tCUH0FGMHB3DUL8) | [Fastlife 4](https://open.spotify.com/album/1ay6WuRZa6LUTNN9A6JRk6) | 2:43 | 2022-04-15 | 2023-01-13 |
 | [JEFE](https://open.spotify.com/track/1BxkDfTQIhGJD6Xupq2XW5) | [Lazza](https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM) | [SIRIO](https://open.spotify.com/album/2v7KXdLrb81rGL9G7jwcjF) | 3:15 | 2022-04-15 | 2022-09-16 |
+| [JESUS](https://open.spotify.com/track/0EcgkKCqutCsLsHve6cd5n) | [Guesan](https://open.spotify.com/artist/1eMrj0akHMVF8HpxG1OrLD), [Zero Vicious](https://open.spotify.com/artist/23hTdxGu1uB9NLfW3KmABu) | [JESUS](https://open.spotify.com/album/2awpbpUlfkePcspyrj0ysS) | 4:06 | 2023-05-18 |  |
 | [King Kong vs Godzilla](https://open.spotify.com/track/1stKHp4y6JQCtBzvbON9x5) | [Ensi](https://open.spotify.com/artist/6dKdNHGdsBvEeNDxXV8AMP), [Nerone](https://open.spotify.com/artist/7kG6A2lZMXeaD5YkubF5Kn), [Brava Gente](https://open.spotify.com/artist/4mGFiauNMsVwgTFpcDfr7T) | [King Kong vs Godzilla](https://open.spotify.com/album/5LZDZMhsqQYhVESJJ1dB5F) | 2:44 | 2023-05-04 |  |
 | [L'amore e la violenza \(feat\. Paky & 8blevrai\)](https://open.spotify.com/track/1FZU4LJgp5zKSR9QYfgSBK) | [Jake La Furia](https://open.spotify.com/artist/6JFRI91YaCXREGQYzHSnUH), [Paky](https://open.spotify.com/artist/1KQJOTeIMbixtnSWY4sYs2), [8blevrai](https://open.spotify.com/artist/0JTyCMDiDRxnkcDYhcB93D) | [L'amore e la violenza \(feat\. Paky & 8blevrai\)](https://open.spotify.com/album/0w8qPojpLzeQNbxgMq8aKf) | 4:06 | 2022-06-09 |  |
 | [La G La U La E pt.2](https://open.spotify.com/track/3PHUQDyGYZhRJFSwbTXnsG) | [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27) | [GVESVS](https://open.spotify.com/album/1fONeOwepyow1t4dUw0RcL) | 2:25 | 2022-04-15 | 2022-11-25 |
@@ -68,6 +70,7 @@
 | [LEWANDOWSKI X](https://open.spotify.com/track/6dM0fBNHPBLcpfK0UCft5h) | [Ernia](https://open.spotify.com/artist/3fhMfkPPzksWuw0hEm4ldm) | [IO NON HO PAURA](https://open.spotify.com/album/0WqDLFy6UcjR9ygT9PrT22) | 3:26 | 2023-05-04 |  |
 | [Lifestyle](https://open.spotify.com/track/20XT7TO32dN1s9xtowLPuR) | [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27), [Dj Harsh](https://open.spotify.com/artist/5BNE7AF1Sp5bWiqtXpekFq) | [Fastlife 4](https://open.spotify.com/album/1ay6WuRZa6LUTNN9A6JRk6) | 2:09 | 2022-04-15 |  |
 | [Lo\-fi For U](https://open.spotify.com/track/7GtexZT8gVCDExYIeUWnl9) | [Tedua](https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7), [SHUNE](https://open.spotify.com/artist/5YV5crRpcdknHgEzystZHr) | [Lo\-fi For U](https://open.spotify.com/album/0qQy8Go8njStQdH92jsSrb) | 3:23 | 2022-12-06 |  |
+| [LONTANO \- carlito's way](https://open.spotify.com/track/2t1dculU2L9HxEIzB00Xpk) | [Emis Killa](https://open.spotify.com/artist/6FtwCmLY6L1sqvjaQ2lV6G), [Neima Ezza](https://open.spotify.com/artist/754BUADwzMYecBgOoBaetK) | [Effetto notte](https://open.spotify.com/album/39wuRno08Rl0Jsse2kCHga) | 2:46 | 2023-05-18 |  |
 | [Lontano Dai Guai \(feat\. Mahmood\)](https://open.spotify.com/track/2CeXk2ZsTwmJFBWXUSXPzf) | [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27), [Mahmood](https://open.spotify.com/artist/06nvjg4wBANK6DCHjqtPNd) | [Madreperla](https://open.spotify.com/album/5FnVg6RBrEFUIEpHRw8EB1) | 3:40 | 2023-01-13 | 2023-03-18 |
 | [LORO](https://open.spotify.com/track/0A85tPJ5uRYudixySOsfIV) | [Marracash](https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7) | [NOI, LORO, GLI ALTRI](https://open.spotify.com/album/2UgbcJeoUQ0m1gbLZNDZgp) | 3:18 | 2022-04-15 | 2022-07-29 |
 | [LORO](https://open.spotify.com/track/7xMMN5LyDOjGry2NfTfUEA) | [Marracash](https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7) | [NOI, LORO, GLI ALTRI](https://open.spotify.com/album/0rgggvSYGSms079nUlcAGX) | 3:18 | 2022-07-15 |  |

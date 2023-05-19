@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9kThPpg1lIF.md) - [plain]
 
 > baby lock the door and turn the lights down low
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,291 likes - 44 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,318 likes - 44 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9kThPpg1lIF.md) - [plain]
 | 29 | [Strawberry Wine](https://open.spotify.com/track/5Pgwi0iizu96RHxJ4xL3SH) | [Deana Carter](https://open.spotify.com/artist/0aqrM7Fo3Ml66Kc5JAzmjt) | [Did I Shave My Legs For This?](https://open.spotify.com/album/3rVrwVrTgiFmCBZCmYBryn) | 4:51 |
 | 30 | [No Time Soon](https://open.spotify.com/track/6rNwrBKvGZLdA6cFdDivsV) | [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI) | [No Time Soon](https://open.spotify.com/album/5YIuA9nL4oWw2H0Vp6p2Qi) | 3:25 |
 | 31 | [Hideaway \- Studio Version](https://open.spotify.com/track/2g8vCblRvgG61BgghzHiwv) | [Brett Eldredge](https://open.spotify.com/artist/0qSX3s5pJnAlSsgsCne8Cz) | [Hideaway \(Studio Version\)](https://open.spotify.com/album/7m8kaGniHe3Vn2YNccDASc) | 2:56 |
-| 32 | [Alone At The Ranch](https://open.spotify.com/track/5I5HAt56Y1qpqsNFjKQxia) | [BRELAND](https://open.spotify.com/artist/0C86lmpnwiyLDUiyo4d0P1) | [Cross Country](https://open.spotify.com/album/3I72c7nfxXdDDSPF04opm0) | 3:07 |
+| 32 | [Alone at the Ranch](https://open.spotify.com/track/5I5HAt56Y1qpqsNFjKQxia) | [BRELAND](https://open.spotify.com/artist/0C86lmpnwiyLDUiyo4d0P1) | [Cross Country](https://open.spotify.com/album/3I72c7nfxXdDDSPF04opm0) | 3:07 |
 | 33 | [Music](https://open.spotify.com/track/6PCPxCkN8ClnHN1AESmSJg) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [Unapologetically \(Deluxe Edition\)](https://open.spotify.com/album/7Ht6xQ80vFtSe2n2KjAAsA) | 3:23 |
 | 34 | [Cover Me Up](https://open.spotify.com/track/0mKnuxVkPi5h0kuvZl44VM) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [Dangerous: The Double Album](https://open.spotify.com/album/6JlCkqkqobGirPsaleJpFr) | 4:53 |
 | 35 | [In Case You Didn't Know](https://open.spotify.com/track/10M2Ex445zw585Ducldzkw) | [Brett Young](https://open.spotify.com/artist/0fiWOxhsBsQQvFDtxUQWo0) | [Brett Young](https://open.spotify.com/album/6MTPPsqX8KnmDWmnQmbxJ5) | 3:44 |
@@ -53,4 +53,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9kThPpg1lIF.md) - [plain]
 | 43 | [Raining On Sunday](https://open.spotify.com/track/0capI6Wr0SYGiZ4fxvz5Gq) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [Greatest Hits](https://open.spotify.com/album/0xBQEVKKlFKaetqike1qXK) | 3:54 |
 | 44 | [I Wanna Make You Close Your Eyes](https://open.spotify.com/track/0V6Na986SNXm1CpreVF56E) | [Dierks Bentley](https://open.spotify.com/artist/7x8nK0m0cP2ksQf0mjWdPS) | [Feel That Fire](https://open.spotify.com/album/0uZtZvLB7YtZnkJ6e1wXa2) | 3:59 |
 
-Snapshot ID: `MCxlMWNmMmEwZWQ2YjJjN2IxODU4MmNjMmYzZDg0ODc2MDE2MjMwMjJl`
+Snapshot ID: `MCwxZWE2Mjc0YTExOGIwMDc5ODIzNGFiYzY5ZDVlNjc5OTZiMGMxMGE5`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4kZR8vL5oVX.md) - [plain]
 
 > Les femmes montent le son\. Photo : Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 195,084 likes - 50 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 195,095 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4kZR8vL5oVX.md) - [plain]
 | 19 | [JAMAIS](https://open.spotify.com/track/7c31kTitonZtHYfP1qtPYB) | [Angelcy](https://open.spotify.com/artist/2BLqT1DuND6cAhJodiKmc2) | [JAMAIS](https://open.spotify.com/album/6gUTCbhKOyabXt2dYGuZTq) | 3:14 |
 | 20 | [Reine](https://open.spotify.com/track/1SUfdtIVo9XVD5fsvO9O3B) | [KRN](https://open.spotify.com/artist/3qbqyAhAkU804siT3gPzK5) | [Equinoxe](https://open.spotify.com/album/01yl9d56dX4QTmwevTXXYV) | 2:33 |
 | 21 | [Comme mon ex](https://open.spotify.com/track/1PxBGLSGiK7X5RmmoDVaPr) | [Melina](https://open.spotify.com/artist/5Igaoo9WzRGgvEV3pXNuZA) | [Comme mon ex](https://open.spotify.com/album/7lvJSlimzqJliHEwJb1VHh) | 2:40 |
-| 22 | [Autour de toi](https://open.spotify.com/track/4Hqku4GYlVDyXhpb6LnFbC) | [Elia](https://open.spotify.com/artist/5KbznS5SUZOb7skpdIO9J6) | [Autour de toi](https://open.spotify.com/album/59LLEdXEcyErIKoUP71tEQ) | 2:47 |
+| 22 | [Autour de toi](https://open.spotify.com/track/5C7YiNSgYMW4taGKFyXXfp) | [Elia](https://open.spotify.com/artist/5KbznS5SUZOb7skpdIO9J6) | [Autour de toi](https://open.spotify.com/album/2RTmyUhJZeAC3MpHr39Iup) | 2:48 |
 | 23 | [Secret](https://open.spotify.com/track/6oDkvRV9A9OGmRCQpo6paO) | [Emilie Simon](https://open.spotify.com/artist/6kLw7VpGwN4N0sBdmKhhfd) | [ES](https://open.spotify.com/album/5bT9GQUm75kJaslmrX5LpH) | 3:08 |
 | 24 | [Drama Drama](https://open.spotify.com/track/6a8AfFmpVuA5wkiFMTep6G) | [KALIKA](https://open.spotify.com/artist/0UgxFqJmwkpojz4mHBsRpD) | [Adieu les monstres](https://open.spotify.com/album/0UrbIea2sXlvZfMhD9PkFA) | 3:13 |
 | 25 | [J'apaise](https://open.spotify.com/track/3aoGepSHtgHJdQJKomIvgz) | [Enchantée Julia](https://open.spotify.com/artist/0t04WLkoyjSuvhzsXIJH7E), [Astrønne](https://open.spotify.com/artist/2DOAWdT8xBtf0aLDS5U8yN) | [J'apaise](https://open.spotify.com/album/7sjLPJuWjsVNAGSFAGmA2E) | 3:48 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4kZR8vL5oVX.md) - [plain]
 | 49 | [Pas Pareil](https://open.spotify.com/track/6kgPzslcxPM94SR08j2nZ6) | [Margane](https://open.spotify.com/artist/13X7g0W88sLebzmzGWaSfb) | [Pas Pareil](https://open.spotify.com/album/2LkLTnCZHBsIjB5dZTTWYs) | 3:41 |
 | 50 | [Love me or leave me](https://open.spotify.com/track/735MKgrGONAiSTofyRMQ5C) | [Kareen Guiock\-Thuram](https://open.spotify.com/artist/0YXx07hUxn2vNcy8Cdj5ER) | [Nina](https://open.spotify.com/album/6z7RipHovotv8iZtjz3hIt) | 3:14 |
 
-Snapshot ID: `MCwzY2RiNzc2ODQ4MWM5NTkyYWRhOGIwYjkyYzVhMmViMDQ0ODkwN2Ri`
+Snapshot ID: `MCxiODBmNjdjOWRiZGMyNDI2MzkyZjQyOWM4ZmFjOGVjOTFmYWQxYjBm`

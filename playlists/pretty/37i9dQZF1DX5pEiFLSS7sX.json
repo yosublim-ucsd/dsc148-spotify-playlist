@@ -1,12 +1,12 @@
 {
   "description": "Go deep into spontaneous praise and worship here. On and on.",
-  "num_followers": 171788,
+  "num_followers": 171895,
   "original_name": "Signs & Wonders",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2NjNhZTVmZmVhMWJlMzQ0NDJhNmI4ZWY1ODk5NjJmNzBmYzMyZTAw",
+  "snapshot_id": "MCw5YzlhN2Q2M2QxYWZlNGQxMzk4MWFiMTVkNzZmMTExNjIwNzU4NjA5",
   "tracks": [
     {
       "added_at": "2020-09-04 04:02:00",
@@ -227,18 +227,22 @@
     {
       "added_at": "2020-09-04 04:02:00",
       "album": {
-        "name": "Kingdom Come (Live)",
-        "url": "https://open.spotify.com/album/00k6ygAQhIav9FwyGX8oqJ"
+        "name": "Live From New York",
+        "url": "https://open.spotify.com/album/6td3dp0Q2whXxXpvG8vXvP"
       },
       "artists": [
         {
-          "name": "Capital City Music",
-          "url": "https://open.spotify.com/artist/1LpieXNHBu8d1hEAmr4rvH"
+          "name": "Jesus Culture",
+          "url": "https://open.spotify.com/artist/0Onvkz1Nbs4wHXXUwOIGk8"
+        },
+        {
+          "name": "Kim Walker-Smith",
+          "url": "https://open.spotify.com/artist/4leTWyczsXYGlzUh8sFGSz"
         }
       ],
-      "duration_ms": 413725,
-      "name": "Lean Back (Live)",
-      "url": "https://open.spotify.com/track/76AQAwj7BbMVIMRnHKkLuz"
+      "duration_ms": 489453,
+      "name": "Holy Spirit - Live",
+      "url": "https://open.spotify.com/track/5Xjcst6Rle74VteHx0zczO"
     },
     {
       "added_at": "2020-09-04 04:02:00",
@@ -259,22 +263,18 @@
     {
       "added_at": "2020-09-04 04:02:00",
       "album": {
-        "name": "Live From New York",
-        "url": "https://open.spotify.com/album/6td3dp0Q2whXxXpvG8vXvP"
+        "name": "Kingdom Come (Live)",
+        "url": "https://open.spotify.com/album/00k6ygAQhIav9FwyGX8oqJ"
       },
       "artists": [
         {
-          "name": "Jesus Culture",
-          "url": "https://open.spotify.com/artist/0Onvkz1Nbs4wHXXUwOIGk8"
-        },
-        {
-          "name": "Kim Walker-Smith",
-          "url": "https://open.spotify.com/artist/4leTWyczsXYGlzUh8sFGSz"
+          "name": "Capital City Music",
+          "url": "https://open.spotify.com/artist/1LpieXNHBu8d1hEAmr4rvH"
         }
       ],
-      "duration_ms": 489453,
-      "name": "Holy Spirit - Live",
-      "url": "https://open.spotify.com/track/5Xjcst6Rle74VteHx0zczO"
+      "duration_ms": 413725,
+      "name": "Lean Back (Live)",
+      "url": "https://open.spotify.com/track/76AQAwj7BbMVIMRnHKkLuz"
     },
     {
       "added_at": "2020-09-04 04:02:00",
@@ -883,22 +883,6 @@
     {
       "added_at": "2020-09-04 04:02:00",
       "album": {
-        "name": "Champion",
-        "url": "https://open.spotify.com/album/2eu8QKnnHfaLErUkQQChA4"
-      },
-      "artists": [
-        {
-          "name": "Bryan & Katie Torwalt",
-          "url": "https://open.spotify.com/artist/7bvAtcPT3evvSeHDyu2zBC"
-        }
-      ],
-      "duration_ms": 339266,
-      "name": "Praise Will Be My Song",
-      "url": "https://open.spotify.com/track/4YzQqc3ccm3En6LniPRGNM"
-    },
-    {
-      "added_at": "2020-09-04 04:02:00",
-      "album": {
         "name": "Miracle",
         "url": "https://open.spotify.com/album/2xcM934KYzqGv2gQTtm5CH"
       },
@@ -911,6 +895,22 @@
       "duration_ms": 296365,
       "name": "Miracle",
       "url": "https://open.spotify.com/track/54rJa67IrktOcXKYw7wGTR"
+    },
+    {
+      "added_at": "2020-09-04 04:02:00",
+      "album": {
+        "name": "Champion",
+        "url": "https://open.spotify.com/album/2eu8QKnnHfaLErUkQQChA4"
+      },
+      "artists": [
+        {
+          "name": "Bryan & Katie Torwalt",
+          "url": "https://open.spotify.com/artist/7bvAtcPT3evvSeHDyu2zBC"
+        }
+      ],
+      "duration_ms": 339266,
+      "name": "Praise Will Be My Song",
+      "url": "https://open.spotify.com/track/4YzQqc3ccm3En6LniPRGNM"
     },
     {
       "added_at": "2020-09-04 04:02:00",
@@ -1191,6 +1191,26 @@
     {
       "added_at": "2020-09-04 04:02:00",
       "album": {
+        "name": "More Like Jesus (Live)",
+        "url": "https://open.spotify.com/album/3VeJL4SEP3phMu7x7f0pNC"
+      },
+      "artists": [
+        {
+          "name": "Passion",
+          "url": "https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16"
+        },
+        {
+          "name": "Kristian Stanfill",
+          "url": "https://open.spotify.com/artist/61fqRzZ9aHyPeTdUIqEEFx"
+        }
+      ],
+      "duration_ms": 338694,
+      "name": "More Like Jesus - Live",
+      "url": "https://open.spotify.com/track/54o7m2sWPTagySKiaPPpT2"
+    },
+    {
+      "added_at": "2020-09-04 04:02:00",
+      "album": {
         "name": "Instrumental Songs Of Worship",
         "url": "https://open.spotify.com/album/3DzhS9CumbDVCkB7WYvtEX"
       },
@@ -1223,26 +1243,6 @@
       "duration_ms": 265573,
       "name": "Find Me",
       "url": "https://open.spotify.com/track/5JN3NqUutLCUf1zN5cEMLF"
-    },
-    {
-      "added_at": "2020-09-04 04:02:00",
-      "album": {
-        "name": "More Like Jesus (Live)",
-        "url": "https://open.spotify.com/album/3VeJL4SEP3phMu7x7f0pNC"
-      },
-      "artists": [
-        {
-          "name": "Passion",
-          "url": "https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16"
-        },
-        {
-          "name": "Kristian Stanfill",
-          "url": "https://open.spotify.com/artist/61fqRzZ9aHyPeTdUIqEEFx"
-        }
-      ],
-      "duration_ms": 338694,
-      "name": "More Like Jesus - Live",
-      "url": "https://open.spotify.com/track/54o7m2sWPTagySKiaPPpT2"
     },
     {
       "added_at": "2020-09-04 04:02:00",
@@ -1319,6 +1319,22 @@
     {
       "added_at": "2020-09-04 04:02:00",
       "album": {
+        "name": "Beautiful Surrender",
+        "url": "https://open.spotify.com/album/1t5lSPlapJX2eHbvvsJNJd"
+      },
+      "artists": [
+        {
+          "name": "Jonathan David Helser",
+          "url": "https://open.spotify.com/artist/7vKyyJZVFb16NTWrUV1fGp"
+        }
+      ],
+      "duration_ms": 330266,
+      "name": "Abba (Arms Of A Father)",
+      "url": "https://open.spotify.com/track/5X3tiBU7iNVHGqll7iwfiq"
+    },
+    {
+      "added_at": "2020-09-04 04:02:00",
+      "album": {
         "name": "Reckless Love",
         "url": "https://open.spotify.com/album/63fUIyRGFTFdVlDMTT5tLB"
       },
@@ -1355,22 +1371,6 @@
       "duration_ms": 314800,
       "name": "I Don't Have Much",
       "url": "https://open.spotify.com/track/5GauSw0ZYcQN9VNl4Bm46a"
-    },
-    {
-      "added_at": "2020-09-04 04:02:00",
-      "album": {
-        "name": "Beautiful Surrender",
-        "url": "https://open.spotify.com/album/1t5lSPlapJX2eHbvvsJNJd"
-      },
-      "artists": [
-        {
-          "name": "Jonathan David Helser",
-          "url": "https://open.spotify.com/artist/7vKyyJZVFb16NTWrUV1fGp"
-        }
-      ],
-      "duration_ms": 330266,
-      "name": "Abba (Arms Of A Father)",
-      "url": "https://open.spotify.com/track/5X3tiBU7iNVHGqll7iwfiq"
     },
     {
       "added_at": "2020-09-04 04:02:00",
@@ -1415,22 +1415,6 @@
     {
       "added_at": "2020-09-04 04:02:00",
       "album": {
-        "name": "Here On Earth",
-        "url": "https://open.spotify.com/album/19PjTWD8F605hMJgRoikEA"
-      },
-      "artists": [
-        {
-          "name": "Bryan & Katie Torwalt",
-          "url": "https://open.spotify.com/artist/7bvAtcPT3evvSeHDyu2zBC"
-        }
-      ],
-      "duration_ms": 264120,
-      "name": "Nothing Is Holding Me Back",
-      "url": "https://open.spotify.com/track/7LPNlKR6P8CYWEWJh1tg6K"
-    },
-    {
-      "added_at": "2020-09-04 04:02:00",
-      "album": {
         "name": "Children of God Acoustic Sessions",
         "url": "https://open.spotify.com/album/5AyRWQVQ69mjrdoxIhNanU"
       },
@@ -1447,18 +1431,18 @@
     {
       "added_at": "2020-09-04 04:02:00",
       "album": {
-        "name": "Greater Things",
-        "url": "https://open.spotify.com/album/6zCU9zG1tIfA9V1UEfSPsz"
+        "name": "Here On Earth",
+        "url": "https://open.spotify.com/album/19PjTWD8F605hMJgRoikEA"
       },
       "artists": [
         {
-          "name": "Mack Brock",
-          "url": "https://open.spotify.com/artist/5yCOPpDHEQxwSJJL2LAqLj"
+          "name": "Bryan & Katie Torwalt",
+          "url": "https://open.spotify.com/artist/7bvAtcPT3evvSeHDyu2zBC"
         }
       ],
-      "duration_ms": 282293,
-      "name": "Heart Wide Open",
-      "url": "https://open.spotify.com/track/4dHyyfxYOffgt29aQlRzLh"
+      "duration_ms": 264120,
+      "name": "Nothing Is Holding Me Back",
+      "url": "https://open.spotify.com/track/7LPNlKR6P8CYWEWJh1tg6K"
     },
     {
       "added_at": "2020-09-04 04:02:00",
@@ -1483,6 +1467,26 @@
       "duration_ms": 426699,
       "name": "God, You\u2019re So Good - Live",
       "url": "https://open.spotify.com/track/3OBG99yPHZwjhPpALz17jm"
+    },
+    {
+      "added_at": "2020-09-04 04:02:00",
+      "album": {
+        "name": "Greater Things",
+        "url": "https://open.spotify.com/album/6zCU9zG1tIfA9V1UEfSPsz"
+      },
+      "artists": [
+        {
+          "name": "Mack Brock",
+          "url": "https://open.spotify.com/artist/5yCOPpDHEQxwSJJL2LAqLj"
+        },
+        {
+          "name": "Amanda Cook",
+          "url": "https://open.spotify.com/artist/53Gnd3lGlcL8ua9Yyu9xDP"
+        }
+      ],
+      "duration_ms": 431933,
+      "name": "To The End",
+      "url": "https://open.spotify.com/track/7qKk8olaMUdcOTcU3Txl34"
     },
     {
       "added_at": "2020-09-04 04:02:00",
@@ -1535,22 +1539,6 @@
     {
       "added_at": "2020-09-04 04:02:00",
       "album": {
-        "name": "The War Is Over",
-        "url": "https://open.spotify.com/album/6JFBg8304jW84YNZohE6bY"
-      },
-      "artists": [
-        {
-          "name": "Josh Baldwin",
-          "url": "https://open.spotify.com/artist/2cB6hX2LI14KUTAevpaYn2"
-        }
-      ],
-      "duration_ms": 362746,
-      "name": "You Deserve It All",
-      "url": "https://open.spotify.com/track/2e5gy7g1ZNm1VgIds9PC0E"
-    },
-    {
-      "added_at": "2020-09-04 04:02:00",
-      "album": {
         "name": "Rain",
         "url": "https://open.spotify.com/album/074R4kqJ2xNe4h8GkGBON8"
       },
@@ -1567,18 +1555,18 @@
     {
       "added_at": "2020-09-04 04:02:00",
       "album": {
-        "name": "Champion",
-        "url": "https://open.spotify.com/album/2eu8QKnnHfaLErUkQQChA4"
+        "name": "The War Is Over",
+        "url": "https://open.spotify.com/album/6JFBg8304jW84YNZohE6bY"
       },
       "artists": [
         {
-          "name": "Bryan & Katie Torwalt",
-          "url": "https://open.spotify.com/artist/7bvAtcPT3evvSeHDyu2zBC"
+          "name": "Josh Baldwin",
+          "url": "https://open.spotify.com/artist/2cB6hX2LI14KUTAevpaYn2"
         }
       ],
-      "duration_ms": 283746,
-      "name": "Champion",
-      "url": "https://open.spotify.com/track/30btd8SJIAWHaRuOMa2yIc"
+      "duration_ms": 362746,
+      "name": "You Deserve It All",
+      "url": "https://open.spotify.com/track/2e5gy7g1ZNm1VgIds9PC0E"
     },
     {
       "added_at": "2020-09-04 04:02:00",
@@ -1603,22 +1591,18 @@
     {
       "added_at": "2020-09-04 04:02:00",
       "album": {
-        "name": "Greater Things",
-        "url": "https://open.spotify.com/album/6zCU9zG1tIfA9V1UEfSPsz"
+        "name": "Champion",
+        "url": "https://open.spotify.com/album/2eu8QKnnHfaLErUkQQChA4"
       },
       "artists": [
         {
-          "name": "Mack Brock",
-          "url": "https://open.spotify.com/artist/5yCOPpDHEQxwSJJL2LAqLj"
-        },
-        {
-          "name": "Amanda Cook",
-          "url": "https://open.spotify.com/artist/53Gnd3lGlcL8ua9Yyu9xDP"
+          "name": "Bryan & Katie Torwalt",
+          "url": "https://open.spotify.com/artist/7bvAtcPT3evvSeHDyu2zBC"
         }
       ],
-      "duration_ms": 431933,
-      "name": "To The End",
-      "url": "https://open.spotify.com/track/7qKk8olaMUdcOTcU3Txl34"
+      "duration_ms": 283746,
+      "name": "Champion",
+      "url": "https://open.spotify.com/track/30btd8SJIAWHaRuOMa2yIc"
     },
     {
       "added_at": "2020-09-04 04:02:00",
@@ -1655,6 +1639,22 @@
       "duration_ms": 297320,
       "name": "The Cause Of Christ",
       "url": "https://open.spotify.com/track/70EydOWbBwGIlHuv0h7uwF"
+    },
+    {
+      "added_at": "2020-09-04 04:02:00",
+      "album": {
+        "name": "Greater Things",
+        "url": "https://open.spotify.com/album/6zCU9zG1tIfA9V1UEfSPsz"
+      },
+      "artists": [
+        {
+          "name": "Mack Brock",
+          "url": "https://open.spotify.com/artist/5yCOPpDHEQxwSJJL2LAqLj"
+        }
+      ],
+      "duration_ms": 282293,
+      "name": "Heart Wide Open",
+      "url": "https://open.spotify.com/track/4dHyyfxYOffgt29aQlRzLh"
     },
     {
       "added_at": "2020-09-04 04:02:00",
@@ -1743,26 +1743,6 @@
     {
       "added_at": "2020-09-04 04:02:00",
       "album": {
-        "name": "Center of Your Love",
-        "url": "https://open.spotify.com/album/01j8mx7lu1xopdogMNvelL"
-      },
-      "artists": [
-        {
-          "name": "Upper Room Music",
-          "url": "https://open.spotify.com/artist/43fQOvRHigfApnc4GmYYPf"
-        },
-        {
-          "name": "Elyssa Smith",
-          "url": "https://open.spotify.com/artist/2enLZAXaXEpQXjaGguhA8f"
-        }
-      ],
-      "duration_ms": 296400,
-      "name": "You Satisfy (feat. Elyssa Smith)",
-      "url": "https://open.spotify.com/track/7suC4UpFBmXv0KRfYdW09F"
-    },
-    {
-      "added_at": "2020-09-04 04:02:00",
-      "album": {
         "name": "Living With A Fire (Live)",
         "url": "https://open.spotify.com/album/0K4TZjqRa9XgexXHvWTwlp"
       },
@@ -1779,6 +1759,26 @@
       "duration_ms": 445293,
       "name": "Not Afraid - Live",
       "url": "https://open.spotify.com/track/5GY6JKRXebctv4T8dgEzGq"
+    },
+    {
+      "added_at": "2020-09-04 04:02:00",
+      "album": {
+        "name": "Center of Your Love",
+        "url": "https://open.spotify.com/album/01j8mx7lu1xopdogMNvelL"
+      },
+      "artists": [
+        {
+          "name": "Upper Room Music",
+          "url": "https://open.spotify.com/artist/43fQOvRHigfApnc4GmYYPf"
+        },
+        {
+          "name": "Elyssa Smith",
+          "url": "https://open.spotify.com/artist/2enLZAXaXEpQXjaGguhA8f"
+        }
+      ],
+      "duration_ms": 296400,
+      "name": "You Satisfy (feat. Elyssa Smith)",
+      "url": "https://open.spotify.com/track/7suC4UpFBmXv0KRfYdW09F"
     },
     {
       "added_at": "2020-09-04 04:02:00",

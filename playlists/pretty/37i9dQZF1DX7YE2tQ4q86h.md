@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YE2tQ4q86h.md) - [plain]
 
 > It's a main pop girl emergency 🆘  Cover: Chrissy Chlapecka
 
-[Spotify](https://open.spotify.com/user/spotify) - 83,939 likes - 100 songs - 4 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 84,241 likes - 100 songs - 4 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YE2tQ4q86h.md) - [plain]
 | 11 | [Freak Me Now](https://open.spotify.com/track/2WMlWvN0y7xoOEtftxdHvz) | [Jessie Ware](https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc) | [That! Feels Good!](https://open.spotify.com/album/17g3sAeWfpHSJlqMHuRAr6) | 3:28 |
 | 12 | [Praising You \(feat\. Fatboy Slim\)](https://open.spotify.com/track/6jSvgAwRVrJIP0VYz5L2J8) | [Rita Ora](https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr), [Fatboy Slim](https://open.spotify.com/artist/4Y7tXHSEejGu1vQ9bwDdXW) | [Praising You \(feat\. Fatboy Slim\)](https://open.spotify.com/album/2FJeCuU3JcO6EQWsjAGIdu) | 2:44 |
 | 13 | [Watch Me](https://open.spotify.com/track/6319BpXP42QAaXeELaPLmU) | [bludnymph](https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX) | [Watch Me](https://open.spotify.com/album/5qcM2sHUlFeaZh6bvNEw7B) | 2:17 |
-| 14 | [MOVE](https://open.spotify.com/track/6RemYyY2mxu0N8qjjrShnQ) | [Idina Menzel](https://open.spotify.com/artist/73Np75Wv2tju61Eo9Zw4IR) | [MOVE](https://open.spotify.com/album/4nMAiQTGaqm3fKz1e2Vw7p) | 2:44 |
+| 14 | [Move](https://open.spotify.com/track/6RemYyY2mxu0N8qjjrShnQ) | [Idina Menzel](https://open.spotify.com/artist/73Np75Wv2tju61Eo9Zw4IR) | [MOVE](https://open.spotify.com/album/4nMAiQTGaqm3fKz1e2Vw7p) | 2:44 |
 | 15 | [Kinda Famous](https://open.spotify.com/track/4YwpoXjq8jy5aWLU2cP4uU) | [Peach PRC](https://open.spotify.com/artist/006j2rer9tZJCYniu7SaWS) | [Manic Dream Pixie](https://open.spotify.com/album/37v0q6s1IB9jSCPMIpFwFN) | 2:54 |
 | 16 | [10 Out Of 10 \(feat\. Kylie Minogue\)](https://open.spotify.com/track/11TSwkrxQ7HEOhM8nvzhpj) | [Oliver Heldens](https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p), [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [10 Out Of 10 \(feat\. Kylie Minogue\)](https://open.spotify.com/album/58sL2tSx8ZOGPYZQAUNBA0) | 2:50 |
 | 17 | [dopamine](https://open.spotify.com/track/3EwCOs6Dh5tlsbIpvMjH4I) | [Madelline](https://open.spotify.com/artist/7t6dcfG1BhMh3LTAXhxmeL) | [dopamine](https://open.spotify.com/album/2emZOQ9v8v9csDYeqDWnE3) | 2:45 |
@@ -59,7 +59,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YE2tQ4q86h.md) - [plain]
 | 49 | [Substitution](https://open.spotify.com/track/2F2p7b5Xq20mRyEeWYaeUF) | [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4), [Kungs](https://open.spotify.com/artist/7keGfmQR4X5w0two1xKZ7d) | [Substitution](https://open.spotify.com/album/4yZMAPI2NazKbPbystE6D7) | 3:01 |
 | 50 | [I Wrote A Song](https://open.spotify.com/track/0rO1zf0e7l8s7PRjchQpyn) | [Mae Muller](https://open.spotify.com/artist/1BEUkE2CSUgHTLSBMZdnFB) | [I Wrote A Song](https://open.spotify.com/album/7JTww9J0sqx8tqm872Nsnu) | 2:45 |
 | 51 | [Tattoo](https://open.spotify.com/track/1DmW5Ep6ywYwxc2HMT5BG6) | [Loreen](https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl) | [Tattoo](https://open.spotify.com/album/0LRTS7FyYLppkDLOZT02Xp) | 3:03 |
-| 52 | [Unicorn](https://open.spotify.com/track/6dUregFbvUNqHP5nphqesK) | [Noa Kirel](https://open.spotify.com/artist/1wak0ZG1LUrZPYx8RDTQoD), [כאן \- תאגיד השידור הישראלי](https://open.spotify.com/artist/2N9Cvh536WBOePrevGKIlj) | [Unicorn](https://open.spotify.com/album/14wVxL1PbK2bJuoGjxHrCR) | 2:50 |
+| 52 | [Unicorn](https://open.spotify.com/track/6dUregFbvUNqHP5nphqesK) | [Noa Kirel](https://open.spotify.com/artist/1wak0ZG1LUrZPYx8RDTQoD) | [Unicorn](https://open.spotify.com/album/14wVxL1PbK2bJuoGjxHrCR) | 2:50 |
 | 53 | [Itsy Bitsy](https://open.spotify.com/track/7LwZguzLTNzMgN3ffeDzIg) | [Bava](https://open.spotify.com/artist/7lOLWr9bmaivFDeoLYzD1U) | [Itsy Bitsy](https://open.spotify.com/album/16YsDQEJhHrIHXV8SB3zbj) | 2:42 |
 | 54 | [Violet Chemistry](https://open.spotify.com/track/00Ga884hbpVvCNyeQdle1U) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Endless Summer Vacation](https://open.spotify.com/album/0HiZ8fNXwJOQcrf5iflrdz) | 4:06 |
 | 55 | [Watch Me](https://open.spotify.com/track/4diNbDaMzGvvuIKhZkfEEC) | [SASO](https://open.spotify.com/artist/1i1xNUxNNcy0pgHVHq5oF6) | [Watch Me](https://open.spotify.com/album/6PNrN7WaLYFXaayK6VB4vE) | 3:03 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YE2tQ4q86h.md) - [plain]
 | 99 | [BRAND NEW BITCH](https://open.spotify.com/track/13DNuiQyuTDcAw6Y8thZFM) | [COBRAH](https://open.spotify.com/artist/1AHswQqsDNmu1xaE8KpBne) | [BRAND NEW BITCH](https://open.spotify.com/album/6xMnRBIpa2x3M40yVkGMBb) | 3:16 |
 | 100 | [Animal](https://open.spotify.com/track/3WdijbYmphZ8N0MYblXDnF) | [Mabel](https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4) | [About Last Night...](https://open.spotify.com/album/2DX0Tyq5e8CtsoncXWEWPm) | 3:01 |
 
-Snapshot ID: `MCw4MjRmNmRiYTc1NDY5MmFhZjM5ZTc4NjcyZmUzNTFkNGM1ZjI1NDI3`
+Snapshot ID: `MCxhYzQwNTdlMWU1NjUxYTg3OGQ0MzExYWE0MDViOWU3ZmM0M2ExNDQz`

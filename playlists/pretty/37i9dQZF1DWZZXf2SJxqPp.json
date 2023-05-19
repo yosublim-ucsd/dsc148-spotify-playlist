@@ -1,12 +1,12 @@
 {
   "description": "Musiquita riqui para chillear y echarla junto a la piscina.",
-  "num_followers": 118782,
+  "num_followers": 118820,
   "original_name": "\u00a1A la Alberca!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlOTU0MmUyZjkwOGExY2Q2ODJhNWI1ZTkxMzhmMjEyZTlhNWFmOTRj",
+  "snapshot_id": "MCxhZGE1MjdjMjlhMzIzMDM3MjUyZTUwMWI5YjExYmIyMWE0MzllYTY1",
   "tracks": [
     {
       "added_at": "2023-03-20 20:23:15",
@@ -623,6 +623,22 @@
     {
       "added_at": "2023-03-20 20:23:15",
       "album": {
+        "name": "Outer Peace",
+        "url": "https://open.spotify.com/album/4kacwUKxOLBmawdgRg2Xri"
+      },
+      "artists": [
+        {
+          "name": "Toro y Moi",
+          "url": "https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp"
+        }
+      ],
+      "duration_ms": 183752,
+      "name": "Ordinary Pleasure",
+      "url": "https://open.spotify.com/track/0Dh7LsAuAyaaucEMD5ULHV"
+    },
+    {
+      "added_at": "2023-03-20 20:23:15",
+      "album": {
         "name": "Passion (feat. Nile Rodgers)",
         "url": "https://open.spotify.com/album/3PPX05eUVd7M3SBnU3Ev5I"
       },
@@ -639,22 +655,6 @@
       "duration_ms": 221135,
       "name": "Passion (feat. Nile Rodgers)",
       "url": "https://open.spotify.com/track/7jtdG988aYR7IkFObSWfJe"
-    },
-    {
-      "added_at": "2023-03-20 20:23:15",
-      "album": {
-        "name": "Outer Peace",
-        "url": "https://open.spotify.com/album/4kacwUKxOLBmawdgRg2Xri"
-      },
-      "artists": [
-        {
-          "name": "Toro y Moi",
-          "url": "https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp"
-        }
-      ],
-      "duration_ms": 183752,
-      "name": "Ordinary Pleasure",
-      "url": "https://open.spotify.com/track/0Dh7LsAuAyaaucEMD5ULHV"
     },
     {
       "added_at": "2023-03-20 20:23:15",
@@ -843,22 +843,6 @@
     {
       "added_at": "2023-03-20 20:23:15",
       "album": {
-        "name": "Burning Bright",
-        "url": "https://open.spotify.com/album/7lPgCHEkAS2taPAqotcvih"
-      },
-      "artists": [
-        {
-          "name": "Cameo Culture",
-          "url": "https://open.spotify.com/artist/3jLyvqWaddIP7L5H9dT8Gh"
-        }
-      ],
-      "duration_ms": 304654,
-      "name": "Told You So",
-      "url": "https://open.spotify.com/track/2SCHvVxxf591F0EsSNCsRK"
-    },
-    {
-      "added_at": "2023-03-20 20:23:15",
-      "album": {
         "name": "First Landing",
         "url": "https://open.spotify.com/album/1SNyeh5uoNmmhpruGwHg51"
       },
@@ -875,6 +859,22 @@
       "duration_ms": 286726,
       "name": "I Want Your Attention",
       "url": "https://open.spotify.com/track/2RU67aiaESQ7t9D1xUJqBu"
+    },
+    {
+      "added_at": "2023-03-20 20:23:15",
+      "album": {
+        "name": "Burning Bright",
+        "url": "https://open.spotify.com/album/7lPgCHEkAS2taPAqotcvih"
+      },
+      "artists": [
+        {
+          "name": "Cameo Culture",
+          "url": "https://open.spotify.com/artist/3jLyvqWaddIP7L5H9dT8Gh"
+        }
+      ],
+      "duration_ms": 304654,
+      "name": "Told You So",
+      "url": "https://open.spotify.com/track/2SCHvVxxf591F0EsSNCsRK"
     },
     {
       "added_at": "2023-03-20 20:23:15",
@@ -1071,6 +1071,26 @@
     {
       "added_at": "2023-03-20 20:23:15",
       "album": {
+        "name": "Tutto va bene quando facciamo l'amore (Remixes)",
+        "url": "https://open.spotify.com/album/4jnSxvi6GEjXFPGXUly9vj"
+      },
+      "artists": [
+        {
+          "name": "Alex Rossi",
+          "url": "https://open.spotify.com/artist/080yEA10cGjDwnuXHFy1SU"
+        },
+        {
+          "name": "Jo Wedin",
+          "url": "https://open.spotify.com/artist/1uxYQkewWEjKxKtmTukyKB"
+        }
+      ],
+      "duration_ms": 205592,
+      "name": "Tutto va bene quando facciamo l'amore",
+      "url": "https://open.spotify.com/track/2XtLmRzZSkNOXGRPgae8MA"
+    },
+    {
+      "added_at": "2023-03-20 20:23:15",
+      "album": {
         "name": "Burnt Orange",
         "url": "https://open.spotify.com/album/3krmis8XpyRrEGKQ4LXRf4"
       },
@@ -1099,26 +1119,6 @@
       "duration_ms": 171775,
       "name": "I Wanna Know What Love Is",
       "url": "https://open.spotify.com/track/3aSz3Sbkueu1yGcnB5BlYd"
-    },
-    {
-      "added_at": "2023-03-20 20:23:15",
-      "album": {
-        "name": "Tutto va bene quando facciamo l'amore (Remixes)",
-        "url": "https://open.spotify.com/album/4jnSxvi6GEjXFPGXUly9vj"
-      },
-      "artists": [
-        {
-          "name": "Alex Rossi",
-          "url": "https://open.spotify.com/artist/080yEA10cGjDwnuXHFy1SU"
-        },
-        {
-          "name": "Jo Wedin",
-          "url": "https://open.spotify.com/artist/1uxYQkewWEjKxKtmTukyKB"
-        }
-      ],
-      "duration_ms": 205592,
-      "name": "Tutto va bene quando facciamo l'amore",
-      "url": "https://open.spotify.com/track/2XtLmRzZSkNOXGRPgae8MA"
     },
     {
       "added_at": "2023-03-20 20:23:15",
@@ -1263,6 +1263,22 @@
     {
       "added_at": "2023-03-20 20:23:15",
       "album": {
+        "name": "Black Catbird",
+        "url": "https://open.spotify.com/album/2UAjju53cSRuITsu4DNepc"
+      },
+      "artists": [
+        {
+          "name": "the Garifuna Collective",
+          "url": "https://open.spotify.com/artist/24OmLPZEq6dYiGJbPCAFVm"
+        }
+      ],
+      "duration_ms": 165593,
+      "name": "Black Catbird",
+      "url": "https://open.spotify.com/track/6s9n8j05v6iezQO4vdlClA"
+    },
+    {
+      "added_at": "2023-03-20 20:23:15",
+      "album": {
         "name": "Moment EP",
         "url": "https://open.spotify.com/album/5DVxYboDLgL4zR9aus1buM"
       },
@@ -1335,18 +1351,18 @@
     {
       "added_at": "2023-03-20 20:23:15",
       "album": {
-        "name": "Black Catbird",
-        "url": "https://open.spotify.com/album/2UAjju53cSRuITsu4DNepc"
+        "name": "Horizon",
+        "url": "https://open.spotify.com/album/2MxDGKoBMLeiwyLMGxGmlK"
       },
       "artists": [
         {
-          "name": "the Garifuna Collective",
-          "url": "https://open.spotify.com/artist/24OmLPZEq6dYiGJbPCAFVm"
+          "name": "Gary Luton",
+          "url": "https://open.spotify.com/artist/5jSovYGyrvQl5vb5PmOdo4"
         }
       ],
-      "duration_ms": 165593,
-      "name": "Black Catbird",
-      "url": "https://open.spotify.com/track/6s9n8j05v6iezQO4vdlClA"
+      "duration_ms": 214357,
+      "name": "Horizon",
+      "url": "https://open.spotify.com/track/2N8p2yGBNM0SLlSaCDxhk0"
     },
     {
       "added_at": "2023-03-20 20:23:15",
@@ -1363,22 +1379,6 @@
       "duration_ms": 214733,
       "name": "Descends",
       "url": "https://open.spotify.com/track/0z5fkd9sWqGpQd6cr8y0dH"
-    },
-    {
-      "added_at": "2023-03-20 20:23:15",
-      "album": {
-        "name": "Horizon",
-        "url": "https://open.spotify.com/album/2MxDGKoBMLeiwyLMGxGmlK"
-      },
-      "artists": [
-        {
-          "name": "Gary Luton",
-          "url": "https://open.spotify.com/artist/5jSovYGyrvQl5vb5PmOdo4"
-        }
-      ],
-      "duration_ms": 214357,
-      "name": "Horizon",
-      "url": "https://open.spotify.com/track/2N8p2yGBNM0SLlSaCDxhk0"
     },
     {
       "added_at": "2023-03-20 20:23:15",
@@ -1771,22 +1771,6 @@
     {
       "added_at": "2023-03-20 20:23:15",
       "album": {
-        "name": "Keep On It",
-        "url": "https://open.spotify.com/album/4KID8UGDvhjy4hovwiBAWJ"
-      },
-      "artists": [
-        {
-          "name": "Mar Vei",
-          "url": "https://open.spotify.com/artist/1oobYLromCfJh2nx8pfZiI"
-        }
-      ],
-      "duration_ms": 257075,
-      "name": "Keep On It",
-      "url": "https://open.spotify.com/track/3Wwmq8WUjZoDmzcZ5EJriJ"
-    },
-    {
-      "added_at": "2023-03-20 20:23:15",
-      "album": {
         "name": "Polydans",
         "url": "https://open.spotify.com/album/4jsQ9yGCEyEjjQzcsICK2U"
       },
@@ -1799,6 +1783,22 @@
       "duration_ms": 336438,
       "name": "Echoes",
       "url": "https://open.spotify.com/track/3w0PoZcluoJetM1ygo0c8A"
+    },
+    {
+      "added_at": "2023-03-20 20:23:15",
+      "album": {
+        "name": "Keep On It",
+        "url": "https://open.spotify.com/album/4KID8UGDvhjy4hovwiBAWJ"
+      },
+      "artists": [
+        {
+          "name": "Mar Vei",
+          "url": "https://open.spotify.com/artist/1oobYLromCfJh2nx8pfZiI"
+        }
+      ],
+      "duration_ms": 257075,
+      "name": "Keep On It",
+      "url": "https://open.spotify.com/track/3Wwmq8WUjZoDmzcZ5EJriJ"
     },
     {
       "added_at": "2023-03-20 20:23:15",

@@ -782,6 +782,32 @@
     {
       "album": {
         "name": "Ghilli (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3mg9ASfIe2gsUbL1JK18JL"
+      },
+      "artists": [
+        {
+          "name": "Vidyasagar",
+          "url": "https://open.spotify.com/artist/5TB837uKG65w8Jnz5D0bS5"
+        },
+        {
+          "name": "Maran",
+          "url": "https://open.spotify.com/artist/6H929oSANZnlbUZMcv9lCZ"
+        },
+        {
+          "name": "Jayamoorthy",
+          "url": "https://open.spotify.com/artist/1d0FDTTmRwnzgSTDLx0pEX"
+        }
+      ],
+      "date_added": "2021-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 104333,
+      "name": "Kabadi",
+      "url": "https://open.spotify.com/track/0RVwHo27QrxbC7i6ed6OCq"
+    },
+    {
+      "album": {
+        "name": "Ghilli (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/4z4Lj02JTAgMGTATtnVwWY"
       },
       "artists": [
@@ -822,7 +848,7 @@
       ],
       "date_added": "2021-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 102714,
       "name": "Kabadi (From \"Gilli\")",
       "url": "https://open.spotify.com/track/7yQIczg03l615JDNRfirj1"

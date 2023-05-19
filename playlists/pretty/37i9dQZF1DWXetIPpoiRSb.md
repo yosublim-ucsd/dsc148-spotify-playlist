@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXetIPpoiRSb.md) - [plain]
 
 > The freshest pop sounds\. Cover: Amaarae
 
-[Spotify](https://open.spotify.com/user/spotify) - 198,588 likes - 80 songs - 3 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 198,608 likes - 80 songs - 3 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXetIPpoiRSb.md) - [plain]
 | 79 | [Environmental Anxiety.](https://open.spotify.com/track/0Pp2I1kM3JnnyAX2S5jtHG) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [My 21st Century Blues](https://open.spotify.com/album/3U8n8LzBx2o9gYXvvNq4uH) | 3:14 |
 | 80 | [Ugly Crier](https://open.spotify.com/track/6duh2S2a8bVSzoFXJoJUFR) | [Mckenna Grace](https://open.spotify.com/artist/1ZjXhESKpjsv31L7ykuJBE) | [Ugly Crier](https://open.spotify.com/album/1gI5fU6JlZXE0umN1sBOtn) | 2:32 |
 
-Snapshot ID: `MCwzYjcxMWVkNzA2Y2VkM2FhNjgyYTI4NzU0YmUzZDAxMzQxODUwYTE5`
+Snapshot ID: `MCxlYTQ5OTExN2IwMTA1ZmZiMGNhNjdmMWRlNmVkYTAwNDQ4ODQyNjRh`

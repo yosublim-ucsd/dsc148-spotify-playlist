@@ -1,12 +1,12 @@
 {
   "description": "Grandes sucessos e novidades do rock Crist\u00e3o. Foto: PG",
-  "num_followers": 116995,
+  "num_followers": 117046,
   "original_name": "Templo do Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3YThhMjQyNzQzNWNiNDE4MDVmODc0NTcxM2NkYTk4YTMyZTM3ZmRk",
+  "snapshot_id": "MCxjY2I2OTJkYmU4ZDIzOGRhNmJhNWMyYjdmM2VlMmFkZTVmMTM4OTZm",
   "tracks": [
     {
       "added_at": "2023-05-05 19:20:21",
@@ -627,38 +627,6 @@
     {
       "added_at": "2023-05-05 19:20:21",
       "album": {
-        "name": "A Carta",
-        "url": "https://open.spotify.com/album/1uFoMEXuKx7EBN3IDSXpba"
-      },
-      "artists": [
-        {
-          "name": "Abel Junho",
-          "url": "https://open.spotify.com/artist/3oI345jxR8FTbMegl0N1mn"
-        }
-      ],
-      "duration_ms": 296500,
-      "name": "A Carta",
-      "url": "https://open.spotify.com/track/6wKQ84PvskrEA0Oum0sUMn"
-    },
-    {
-      "added_at": "2023-05-05 19:20:21",
-      "album": {
-        "name": "Santo (Ao Vivo)",
-        "url": "https://open.spotify.com/album/3ZvYugynlgc6iZbK0esYQP"
-      },
-      "artists": [
-        {
-          "name": "Fernandinho",
-          "url": "https://open.spotify.com/artist/6iAY2AyUZLSX3PWLIAfFZY"
-        }
-      ],
-      "duration_ms": 536192,
-      "name": "Santo - Ao Vivo",
-      "url": "https://open.spotify.com/track/7AT3T3FM5Beh4zlD9rVTHQ"
-    },
-    {
-      "added_at": "2023-05-05 19:20:21",
-      "album": {
         "name": "Catarse: Lado B",
         "url": "https://open.spotify.com/album/0VtThfRfXxZKzI1thF7PSt"
       },
@@ -679,6 +647,38 @@
       "duration_ms": 222727,
       "name": "Cora\u00e7\u00e3o de Pedra",
       "url": "https://open.spotify.com/track/0ZqrbdSQrwCB523ggelHhu"
+    },
+    {
+      "added_at": "2023-05-05 19:20:21",
+      "album": {
+        "name": "Santo (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3ZvYugynlgc6iZbK0esYQP"
+      },
+      "artists": [
+        {
+          "name": "Fernandinho",
+          "url": "https://open.spotify.com/artist/6iAY2AyUZLSX3PWLIAfFZY"
+        }
+      ],
+      "duration_ms": 536192,
+      "name": "Santo - Ao Vivo",
+      "url": "https://open.spotify.com/track/7AT3T3FM5Beh4zlD9rVTHQ"
+    },
+    {
+      "added_at": "2023-05-05 19:20:21",
+      "album": {
+        "name": "A Carta",
+        "url": "https://open.spotify.com/album/1uFoMEXuKx7EBN3IDSXpba"
+      },
+      "artists": [
+        {
+          "name": "Abel Junho",
+          "url": "https://open.spotify.com/artist/3oI345jxR8FTbMegl0N1mn"
+        }
+      ],
+      "duration_ms": 296500,
+      "name": "A Carta",
+      "url": "https://open.spotify.com/track/6wKQ84PvskrEA0Oum0sUMn"
     },
     {
       "added_at": "2023-05-05 19:20:21",

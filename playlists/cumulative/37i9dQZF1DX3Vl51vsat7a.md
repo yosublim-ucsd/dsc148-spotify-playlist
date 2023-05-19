@@ -2,9 +2,9 @@
 
 ### [RADAR GSA](https://open.spotify.com/playlist/37i9dQZF1DX3Vl51vsat7a)
 
-> Discover your new favourite artists with a focus on Germany, Switzerland, Austria\. Cover: My Ugly Clementine
+> Discover your new favourite artists with a focus on Germany, Switzerland, Austria\. Cover: southstar
 
-197 songs - 10 hr 41 min
+200 songs - 10 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,7 @@
 | [17 für immer](https://open.spotify.com/track/0UJUoXIawV7KpPu4dRKUUh) | [Provinz](https://open.spotify.com/artist/2f7f3AmL16mmiAmYnxmmfx) | [17 für immer](https://open.spotify.com/album/2LCs34ukoSlsBDbetAKMYm) | 2:40 | 2022-06-16 | 2022-07-29 |
 | [17 für immer](https://open.spotify.com/track/4NRJsPrgVbKwBCR7woZSHM) | [Provinz](https://open.spotify.com/artist/2f7f3AmL16mmiAmYnxmmfx) | [17 für immer](https://open.spotify.com/album/4IdKZ2doupiUIY2R5GpD4d) | 2:40 | 2022-07-28 | 2022-09-02 |
 | [2 become 1](https://open.spotify.com/track/2kmaG6LSoJGUrLf9MAAX8P) | [remme](https://open.spotify.com/artist/2yqHVMUJy2Wxl7HVsp4Se5) | [2 become 1](https://open.spotify.com/album/6NQjPTgNuXOnxTXpSz6OD4) | 2:49 | 2021-12-16 | 2022-12-02 |
+| [21st Century Princess](https://open.spotify.com/track/7t5szdTagFPMLCfTFKPG9c) | [Cloudy June](https://open.spotify.com/artist/5sBBS3CQNPDzmuTJjYwnpa) | [21st Century Princess](https://open.spotify.com/album/2CfLW8uWYtXch0ZCdlxHia) | 3:01 | 2023-05-18 |  |
 | [30](https://open.spotify.com/track/7yj210hrb5Itkz9XWRUazN) | [Ansu](https://open.spotify.com/artist/62TYO8MQIPGNVne59x3AqS) | [30](https://open.spotify.com/album/3JMWBrrc0S74EAddYj0ial) | 1:54 | 2022-05-05 | 2023-02-03 |
 | [A Declaration of Love](https://open.spotify.com/track/65bMFgIYR9rxMR9GeYraIh) | [Stephan Jolk](https://open.spotify.com/artist/7w0ddx9rFndvpiqO1VOxJM) | [Unity Pt\. 2](https://open.spotify.com/album/5FkWjMTGQOhag93NyFfLP6) | 5:34 | 2021-12-16 | 2022-01-14 |
 | [A$AP & Rihanna](https://open.spotify.com/track/0GihNtHYSZwkqB48jbkyC7) | [CÉLINE](https://open.spotify.com/artist/5ZYOlPpI9FZu2uIPkTB0UA) | [A$AP & Rihanna](https://open.spotify.com/album/3o5lHTIpsmGE5GdRboWMRs) | 1:52 | 2022-11-17 |  |
@@ -45,7 +46,7 @@
 | [Confession](https://open.spotify.com/track/3SV6D7J2G3LUxhuybgHJg4) | [Keir](https://open.spotify.com/artist/2YOYjcNXjBJSW1STwwhE74) | [Confession](https://open.spotify.com/album/6xg0GJEU0lf60zcSdsjCel) | 3:09 | 2022-06-30 | 2023-04-14 |
 | [coq au vin](https://open.spotify.com/track/4NERmR0700rwstJpWkFO5b) | [MAJAN](https://open.spotify.com/artist/60pVmLS5zlt31OWk340O3U) | [coq au vin](https://open.spotify.com/album/1GreCrihbUzlxlT6sI6RRM) | 3:44 | 2022-08-11 | 2023-04-14 |
 | [Crushed](https://open.spotify.com/track/713AJFIsjfdlwC6IvY9FeJ) | [Pabst](https://open.spotify.com/artist/72fLLt8HNxQ2VwCbYFxQCD) | [Crushed by the Weight of the World](https://open.spotify.com/album/1Axcj3Di7G4Qw0iYTJAhC0) | 3:48 | 2022-09-01 |  |
-| [Daddy's Boy](https://open.spotify.com/track/5xujNX1JdMNpN1Wcgd92vb) | [Pabst](https://open.spotify.com/artist/72fLLt8HNxQ2VwCbYFxQCD) | [Daddy's Boy](https://open.spotify.com/album/3RbnFr6QtEazEHuAB2HwDM) | 3:46 | 2022-07-21 |  |
+| [Daddy's Boy](https://open.spotify.com/track/5xujNX1JdMNpN1Wcgd92vb) | [Pabst](https://open.spotify.com/artist/72fLLt8HNxQ2VwCbYFxQCD) | [Daddy's Boy](https://open.spotify.com/album/3RbnFr6QtEazEHuAB2HwDM) | 3:46 | 2022-07-21 | 2023-05-19 |
 | [Daddy's Eyes](https://open.spotify.com/track/726mGvnRdaFnW6dmlOqTBu) | [Zoe Wees](https://open.spotify.com/artist/03d2mJXSMtuPI0nIvLnhoS) | [Daddy’s Eyes](https://open.spotify.com/album/1b2RyLbUMkbXb62sVIguvY) | 3:02 | 2022-09-22 |  |
 | [Das Schönste](https://open.spotify.com/track/3Uxs0z7Xnkluykkr0qcXDV) | [Mayberg](https://open.spotify.com/artist/0lNJF6sbrXXPubqKkkyK23) | [Das Schönste](https://open.spotify.com/album/0dfp3yQuCLIew36PHgcpI1) | 1:36 | 2023-02-16 | 2023-04-14 |
 | [Daywalker](https://open.spotify.com/track/00daiXpq7Jb76fXCJZA6rN) | [2LADE](https://open.spotify.com/artist/2N5EUidcVv9pnicQFDeK5W) | [MANN MIT DER BRILLE](https://open.spotify.com/album/3TJXTSpg5o4vftq3BMBtab) | 2:05 | 2022-03-24 | 2022-06-10 |
@@ -101,7 +102,7 @@
 | [Insomnia](https://open.spotify.com/track/3jEuAziXMAw8YVbfcvVLZR) | [Moli](https://open.spotify.com/artist/1UytzAp8ZnC60ZAMBROqW6) | [Préface](https://open.spotify.com/album/1VXdGf2leT7m5cyHw9PydB) | 4:04 | 2021-12-16 | 2022-09-09 |
 | [Jacke zu](https://open.spotify.com/track/0VYUzxAcxWtn05ZKiubkkU) | [01099](https://open.spotify.com/artist/3Z3aTg9PwJ37e8xeO0aUC9), [Paul](https://open.spotify.com/artist/2SRd7Kx7xWkZjoaFKgEreg), [Gustav](https://open.spotify.com/artist/2WmxTCUVOyGsqn4GA7VxuC) | [Jacke zu](https://open.spotify.com/album/5XOptGKTuicfr63QxUnxNN) | 2:32 | 2022-01-13 | 2022-03-11 |
 | [Jungle](https://open.spotify.com/track/4ALVnrzsiNjtRZs3hulmEZ) | [Drew Sycamore](https://open.spotify.com/artist/2hyMuTjcOQsuC1QV0paUBA) | [Sycamore](https://open.spotify.com/album/3dkbfJo5szx7gGIx51zR5q) | 3:00 | 2021-12-16 | 2022-04-08 |
-| [Keep Going](https://open.spotify.com/track/0JDSAbpZjlSMP2fpFjtiuN) | [Stephan Jolk](https://open.spotify.com/artist/7w0ddx9rFndvpiqO1VOxJM) | [Keep Going](https://open.spotify.com/album/6QehqXj90f0dAm6IqMPtRo) | 3:44 | 2023-02-02 |  |
+| [Keep Going](https://open.spotify.com/track/0JDSAbpZjlSMP2fpFjtiuN) | [Stephan Jolk](https://open.spotify.com/artist/7w0ddx9rFndvpiqO1VOxJM) | [Keep Going](https://open.spotify.com/album/6QehqXj90f0dAm6IqMPtRo) | 3:44 | 2023-02-02 | 2023-05-19 |
 | [Keine Tränen](https://open.spotify.com/track/03ClGz3IWepPxLcVlGSC5Q) | [badmómzjay](https://open.spotify.com/artist/7oWrEQO1d3klp0Qrfh7a5h) | [Keine Tränen](https://open.spotify.com/album/6omnE7nYZCSFSkbTFTVSqR) | 2:11 | 2022-09-22 |  |
 | [König der Nachbarschaft](https://open.spotify.com/track/5NN5yCExaaQdYLWXWQ9d65) | [ENNIO](https://open.spotify.com/artist/6ztKrKekC3nb3nCBoy9HUt) | [Nirvana](https://open.spotify.com/album/6l917ziBG07nTM0CDjAxwb) | 2:31 | 2022-12-15 |  |
 | [leave a light on](https://open.spotify.com/track/2K7fFi3Y4zJB9XWlvBQbR8) | [Keir](https://open.spotify.com/artist/2YOYjcNXjBJSW1STwwhE74), [Fenne Lily](https://open.spotify.com/artist/7iPH2BRBF9wKa6ljxvdext) | [leave a light on](https://open.spotify.com/album/1zQnyI5I8veaxl680WvEQU) | 3:50 | 2021-12-16 | 2022-04-01 |
@@ -112,7 +113,8 @@
 | [Locker Room](https://open.spotify.com/track/3jjTNicCrPJFe0FyLWmSAR) | [Pabst](https://open.spotify.com/artist/72fLLt8HNxQ2VwCbYFxQCD) | [Locker Room](https://open.spotify.com/album/2MlvBenVNmFKfLvprpn194) | 3:43 | 2022-04-28 | 2022-09-02 |
 | [Lonely](https://open.spotify.com/track/6pyh4lkDS5FzWBz9y8Wu0S) | [Zoe Wees](https://open.spotify.com/artist/03d2mJXSMtuPI0nIvLnhoS) | [Lonely](https://open.spotify.com/album/7noXhmn3TF1aWpJpYH3cjw) | 3:12 | 2022-03-17 | 2022-07-08 |
 | [Look Around](https://open.spotify.com/track/5r1sF6bvYPtDMvb2rwJBn5) | [AVEC](https://open.spotify.com/artist/6N8vbhxZ0CYJHd8WGJ9Snf) | [Look Around](https://open.spotify.com/album/2ppasYNU18BBmkLpaS0Tdn) | 3:21 | 2022-10-27 |  |
-| [Love Under The Influence](https://open.spotify.com/track/7zU7vNJiit9Ep9AtPyuKBl) | [Cloudy June](https://open.spotify.com/artist/5sBBS3CQNPDzmuTJjYwnpa) | [Love Under The Influence](https://open.spotify.com/album/11x2KmXabLf3gs30g7Wa5d) | 3:08 | 2023-04-06 |  |
+| [Love Under The Influence](https://open.spotify.com/track/7zU7vNJiit9Ep9AtPyuKBl) | [Cloudy June](https://open.spotify.com/artist/5sBBS3CQNPDzmuTJjYwnpa) | [Love Under The Influence](https://open.spotify.com/album/11x2KmXabLf3gs30g7Wa5d) | 3:08 | 2023-04-06 | 2023-05-19 |
+| [Luna](https://open.spotify.com/track/2BCaas3HKVlNZAe2Lzfq7x) | [southstar](https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi), [AKIRA](https://open.spotify.com/artist/0dErkhdd4nhGJhX2Hwi2vM) | [Dunes](https://open.spotify.com/album/5OraR3Y7Ccd990r66pBWUB) | 2:50 | 2023-05-18 |  |
 | [Mach kaputt](https://open.spotify.com/track/5BYHix1INNkgiIjcnlewIh) | [Schmyt](https://open.spotify.com/artist/2DysK49GjODUdRupTMZrfb), [OG Keemo](https://open.spotify.com/artist/4gJT0OnBISFA5CPMNYBGIE) | [Mach kaputt](https://open.spotify.com/album/1YxQJI2BWCPeA48pKEyAW4) | 3:55 | 2022-04-21 | 2023-03-18 |
 | [Make You Scream](https://open.spotify.com/track/0EeMLsi9eUQokrejzb7WTH) | [VTSS](https://open.spotify.com/artist/0zo109NM3S7CqHpvlXwqEN) | [Make You Scream](https://open.spotify.com/album/6D7tuGipq3Q40SgM47rW46) | 2:43 | 2022-06-02 | 2022-07-08 |
 | [Mandala](https://open.spotify.com/track/3kY3lHSYB7Ow8hJl6whIBu) | [Ski Aggu](https://open.spotify.com/artist/6CP5wWvO8oIxedESJNCN4H) | [Mandala](https://open.spotify.com/album/4dnEXvpTeEzyaN9zrk5hNX) | 2:01 | 2023-03-16 |  |
@@ -169,6 +171,7 @@
 | [Süße Träume](https://open.spotify.com/track/37FEXZlxz8OYFiB8sdxkdk) | [CÉLINE](https://open.spotify.com/artist/5ZYOlPpI9FZu2uIPkTB0UA) | [Süße Träume](https://open.spotify.com/album/4S620Fwlk0uQXT3ByjyGSf) | 2:40 | 2022-09-08 | 2022-11-20 |
 | [Süße Träume](https://open.spotify.com/track/4c8LnzyBlBW1crRcbDXKoW) | [CÉLINE](https://open.spotify.com/artist/5ZYOlPpI9FZu2uIPkTB0UA) | [Süße Träume](https://open.spotify.com/album/5G5VwA4Nb7JxVamloIDFdl) | 2:40 | 2022-11-17 |  |
 | [That’s How It Goes \(feat\. 6LACK\)](https://open.spotify.com/track/6o5TECt1aCm1HjUzp43OgL) | [Zoe Wees](https://open.spotify.com/artist/03d2mJXSMtuPI0nIvLnhoS), [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83) | [That’s How It Goes \(feat\. 6LACK\)](https://open.spotify.com/album/0tEzXJv87d2vm5SIvkSFPc) | 2:42 | 2021-12-16 | 2022-09-23 |
+| [The Silence](https://open.spotify.com/track/0CE4CLlvJIiis5GrGWNjjN) | [Monolink](https://open.spotify.com/artist/2I4hRNCYkPKJQlkoEZKjYx), [Stephan Jolk](https://open.spotify.com/artist/7w0ddx9rFndvpiqO1VOxJM) | [The Silence](https://open.spotify.com/album/6q8vauldhdzx6900WmbYyL) | 4:23 | 2023-05-18 |  |
 | [The World's Thing](https://open.spotify.com/track/7p9qrq8qPw8KA6nyLN6Ocq) | [Novaa](https://open.spotify.com/artist/3PMqVecYp6tFBk7d7SDlPm) | [The World's Thing](https://open.spotify.com/album/0orNVT4C6SfaFiplCVEvFX) | 2:43 | 2022-01-27 | 2022-04-08 |
 | [Third Wheel](https://open.spotify.com/track/1RF6WXFDCKPnk5HrtzF7Cn) | [Zoe Wees](https://open.spotify.com/artist/03d2mJXSMtuPI0nIvLnhoS) | [Third Wheel](https://open.spotify.com/album/2G1VWNuQSHST4RhIduQDZA) | 2:46 | 2022-07-07 | 2022-11-18 |
 | [This Ain't Your Home](https://open.spotify.com/track/4veWqGtf0LDYEXhVw4jsvK) | [Novaa](https://open.spotify.com/artist/3PMqVecYp6tFBk7d7SDlPm) | [This Ain't Your Home](https://open.spotify.com/album/7oWOinSfW5wRgFSIdNFRUp) | 3:29 | 2021-12-16 | 2022-01-28 |

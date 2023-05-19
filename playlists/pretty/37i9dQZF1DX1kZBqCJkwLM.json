@@ -1,12 +1,12 @@
 {
   "description": "Dope, Asian, and Femme. Cover: Bella Poarch",
-  "num_followers": 77684,
+  "num_followers": 77726,
   "original_name": "Dope AF",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhZDYzNGRiYjNlMDZhNzZmOGRlZDk3YmU4MjE5OWEzNzBhYTVhZmZi",
+  "snapshot_id": "MCw5MThhNTgzMzg1MDI4YjA3YWFkM2E4Y2E4M2FjNjkwNjJiYTRiZDM2",
   "tracks": [
     {
       "added_at": "2023-05-01 19:56:46",
@@ -863,6 +863,22 @@
     {
       "added_at": "2023-05-01 19:56:46",
       "album": {
+        "name": "Excuses",
+        "url": "https://open.spotify.com/album/7MDCdHrW6J1k5eK6mqXggt"
+      },
+      "artists": [
+        {
+          "name": "Audrey Mika",
+          "url": "https://open.spotify.com/artist/3JDG63cSaK3xgDnB2H55Xp"
+        }
+      ],
+      "duration_ms": 145700,
+      "name": "Excuses",
+      "url": "https://open.spotify.com/track/6Gl9htJmNmnugLygZo15QF"
+    },
+    {
+      "added_at": "2023-05-01 19:56:46",
+      "album": {
         "name": "trust (feat. RINI)",
         "url": "https://open.spotify.com/album/2p01yIsIKueoaEQ8SKG7Bh"
       },
@@ -879,22 +895,6 @@
       "duration_ms": 197557,
       "name": "trust (feat. RINI)",
       "url": "https://open.spotify.com/track/6GJv5FTWGHWgl4uPdpc6O2"
-    },
-    {
-      "added_at": "2023-05-01 19:56:46",
-      "album": {
-        "name": "Excuses",
-        "url": "https://open.spotify.com/album/7MDCdHrW6J1k5eK6mqXggt"
-      },
-      "artists": [
-        {
-          "name": "Audrey Mika",
-          "url": "https://open.spotify.com/artist/3JDG63cSaK3xgDnB2H55Xp"
-        }
-      ],
-      "duration_ms": 145700,
-      "name": "Excuses",
-      "url": "https://open.spotify.com/track/6Gl9htJmNmnugLygZo15QF"
     },
     {
       "added_at": "2023-05-01 19:56:46",
@@ -1183,22 +1183,6 @@
     {
       "added_at": "2023-05-01 19:56:46",
       "album": {
-        "name": "I'm a Moth!!",
-        "url": "https://open.spotify.com/album/1P6WH7pf30l0VSKHm0894a"
-      },
-      "artists": [
-        {
-          "name": "LIA LIA",
-          "url": "https://open.spotify.com/artist/2ZrAyY9nzikL0YAMgN4OUR"
-        }
-      ],
-      "duration_ms": 126545,
-      "name": "I'm a Moth!!",
-      "url": "https://open.spotify.com/track/4ZapAR5XjoPEtsDHUG6cad"
-    },
-    {
-      "added_at": "2023-05-01 19:56:46",
-      "album": {
         "name": "Selfish",
         "url": "https://open.spotify.com/album/4fGjZLAfNlFz5hoUFuvyil"
       },
@@ -1211,6 +1195,22 @@
       "duration_ms": 146727,
       "name": "Selfish",
       "url": "https://open.spotify.com/track/4U8z0N3ELIhn9gys3u4ahp"
+    },
+    {
+      "added_at": "2023-05-01 19:56:46",
+      "album": {
+        "name": "I'm a Moth!!",
+        "url": "https://open.spotify.com/album/1P6WH7pf30l0VSKHm0894a"
+      },
+      "artists": [
+        {
+          "name": "LIA LIA",
+          "url": "https://open.spotify.com/artist/2ZrAyY9nzikL0YAMgN4OUR"
+        }
+      ],
+      "duration_ms": 126545,
+      "name": "I'm a Moth!!",
+      "url": "https://open.spotify.com/track/4ZapAR5XjoPEtsDHUG6cad"
     },
     {
       "added_at": "2023-05-01 19:56:46",
@@ -1527,18 +1527,30 @@
     {
       "added_at": "2023-05-01 19:56:46",
       "album": {
-        "name": "Nicole Kidman / Anne Hathaway",
-        "url": "https://open.spotify.com/album/69JQT4Se7KeweFlgdmXNpA"
+        "name": "Goddess (Holly T Remix)",
+        "url": "https://open.spotify.com/album/1rayZOYkDr6D7jBCIdVO19"
       },
       "artists": [
         {
-          "name": "Hana Vu",
-          "url": "https://open.spotify.com/artist/3diDUq8QMCCtx8a4Jy42aO"
+          "name": "Krewella",
+          "url": "https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr"
+        },
+        {
+          "name": "NERVO",
+          "url": "https://open.spotify.com/artist/4j5KBTO4tk7up54ZirNGvK"
+        },
+        {
+          "name": "Raja Kumari",
+          "url": "https://open.spotify.com/artist/5cBFMoMgcAt03YL2r0tS25"
+        },
+        {
+          "name": "Holly T",
+          "url": "https://open.spotify.com/artist/1r5lkGxVUvzfpxk4iuSYmX"
         }
       ],
-      "duration_ms": 157216,
-      "name": "At the Party",
-      "url": "https://open.spotify.com/track/47WxJ89JybSnYFswKjpaxx"
+      "duration_ms": 175915,
+      "name": "Goddess - Holly T Remix",
+      "url": "https://open.spotify.com/track/2AMMUAPPA0pg5nOS90lNIP"
     }
   ],
   "unique_name": "Dope AF",

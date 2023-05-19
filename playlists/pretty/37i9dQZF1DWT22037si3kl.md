@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT22037si3kl.md) - [plain]
 
 > Chique e confortável como a realeza do Trap\. Foto: Vulgo FK, Kyan
 
-[Spotify](https://open.spotify.com/user/spotify) - 101,344 likes - 50 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 101,636 likes - 50 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT22037si3kl.md) - [plain]
 | 39 | [Animais Traidores](https://open.spotify.com/track/0joR9BM1Y2ieSnl7bA2EHY) | [Tz da Coronel](https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e), [VEGA](https://open.spotify.com/artist/6x0SXnV5f1D9q5pHkwToub) | [Animais Traidores](https://open.spotify.com/album/6y2A0eRXjwkJ0b9VCaLkum) | 3:16 |
 | 40 | [Outro Patamar](https://open.spotify.com/track/76klxh7fnauuROKC2kDuHG) | [BIN](https://open.spotify.com/artist/1WXbiUMl1AT9Inb619xPUg), [MC Ryan SP](https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY), [Mainstreet](https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd), [jess beats](https://open.spotify.com/artist/7uskxjQtkzfiqHCNIIv3gD) | [Outro Patamar](https://open.spotify.com/album/2gt5vOzXJxJIa6MCXss0Wj) | 3:44 |
 | 41 | [Relógio](https://open.spotify.com/track/6HppJU5SojuWGcQ296a4eb) | [Jovem Dex](https://open.spotify.com/artist/0OLpdla9YvZOtlPnQkXScl), [Alee](https://open.spotify.com/artist/6rk6Izp6o42fUdE0jRqAP4), [Hash Produções](https://open.spotify.com/artist/4BZ0ACrHCLropCpHJypPvV) | [Relógio](https://open.spotify.com/album/5uILYUGi75xEwKeRmieFNN) | 2:40 |
-| 42 | [SEMPRE TRAVADO](https://open.spotify.com/track/3mYblXOntVWfzRccFzQemi) | [Derek](https://open.spotify.com/artist/4Y0VwRwAOyJutxoVpPX4td), [TTF](https://open.spotify.com/artist/7DNHbtTJPNfl3TsTCbJN56) | [SEMPRE TRAVADO](https://open.spotify.com/album/1FRMcQix0gOchwfR1Y2LBF) | 1:45 |
+| 42 | [SEMPRE TRAVADO](https://open.spotify.com/track/3mYblXOntVWfzRccFzQemi) | [Derek](https://open.spotify.com/artist/4Y0VwRwAOyJutxoVpPX4td), [TTF](https://open.spotify.com/artist/71YqA2qY3ZzGdPAEOf4k7A) | [SEMPRE TRAVADO](https://open.spotify.com/album/1FRMcQix0gOchwfR1Y2LBF) | 1:45 |
 | 43 | [Isso Que É Bom](https://open.spotify.com/track/2LUj933qs4IEFzSLLS9aJS) | [Alee](https://open.spotify.com/artist/6rk6Izp6o42fUdE0jRqAP4), [Hash Produções](https://open.spotify.com/artist/4BZ0ACrHCLropCpHJypPvV) | [Isso Que É Bom](https://open.spotify.com/album/5FtV4axHZhRLHjT33tpaMk) | 2:35 |
 | 44 | [Vim de Lá](https://open.spotify.com/track/4VAlW0vTLKn5YPFbEhyawL) | [L7NNON](https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C), [Nagalli](https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk) | [Vim de Lá](https://open.spotify.com/album/0FPaL1Vcjhppw7HCW0Jibb) | 2:48 |
 | 45 | [Hugo Boss](https://open.spotify.com/track/1OfwTYZQrsImsfnhHWrJr1) | [Mc Paiva ZS](https://open.spotify.com/artist/0gHj4MPwwcZ8Zl9CY0hqT5), [Gabb MC](https://open.spotify.com/artist/5qyPbwqvOEp7FvR1EeTQQ2), [Tz da Coronel](https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e), [Love Funk](https://open.spotify.com/artist/64DTkZLH6KkkMwZEEZ5VWC) | [Hugo Boss](https://open.spotify.com/album/0xoScocnUYyr9f49aCbsho) | 3:34 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT22037si3kl.md) - [plain]
 | 49 | [Nao Me Chama De Neguin](https://open.spotify.com/track/1XT6MaQHcfhUpNaQW2jqy0) | [MC Paulin da Capital](https://open.spotify.com/artist/592JnViQ2tot63c1SbtgK2), [Major RD](https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5) | [Preto No Branco](https://open.spotify.com/album/5nYvCS3VXPSO6bYLrFvQNh) | 3:09 |
 | 50 | [Ouro Rose](https://open.spotify.com/track/7CISV57Tvy6FeeRoUV0Mov) | [rarefireboy](https://open.spotify.com/artist/6O5EY8Q7cx4MFhbgcUIAZ8), [St.Borges](https://open.spotify.com/artist/1Yc7h842kGeQTZfdSVQtrQ), [Drey](https://open.spotify.com/artist/5U8u5F9IqRQrUAut8by0wN) | [Ouro Rose](https://open.spotify.com/album/7cck41bWwvuVgc20hPXgCC) | 2:35 |
 
-Snapshot ID: `MCw1Mzc5NjU5MWQ2MzIxM2NlY2JkMjk1YjlkYWVjYTY2Y2FjYjFhMDU4`
+Snapshot ID: `MCxjMGJlMjRlNjE4MTA0YzkyN2RkNzcwOWMxODJhNTNhZWZjODI2MzU2`

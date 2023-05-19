@@ -4,7 +4,7 @@
 
 > Sheer joy for sunny days in 50 old and new African jams.
 
-111 songs - 10 hr 3 min
+112 songs - 10 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -110,7 +110,8 @@
 | [Sweet Fanta Diallo](https://open.spotify.com/track/12AzpzVW0p7gyMwCZbfN5L) | [Alpha Blondy](https://open.spotify.com/artist/41ekW4MXG59xJMXR8dX1OG) | [Revolution \- Remastered Edition](https://open.spotify.com/album/39rctsy2wAHsayxov0fvEH) | 5:19 | 2018-07-02 |  |
 | [Sweet Fanta Diallo](https://open.spotify.com/track/2js85SD3LHxyeNsoqQRq9H) | [Alpha Blondy](https://open.spotify.com/artist/41ekW4MXG59xJMXR8dX1OG) | [Revolution \- Remastered Edition](https://open.spotify.com/album/3U9cfJhS8H9AsuOtc9WMGT) | 5:19 | 2018-07-02 | 2022-07-29 |
 | [Sweet Fanta Diallo](https://open.spotify.com/track/2OvInx8L79Tf6ECNmhf1f2) | [Alpha Blondy](https://open.spotify.com/artist/41ekW4MXG59xJMXR8dX1OG) | [Sweet Fanta Diallo \(Original Version\) \- Single](https://open.spotify.com/album/0tSxsaDFFSokEqBQwdcXJe) | 5:19 | 2018-07-02 | 2022-11-14 |
-| [The Coffee Cola Song](https://open.spotify.com/track/3Y9XSINHLe5C8XI5kNmCZI) | [Francis Bebey](https://open.spotify.com/artist/0mdmrbu5UZ32uRcRp2z6mr) | [Afro Exotique \- Adventures In The Leftfield, Africa 1972\-82](https://open.spotify.com/album/06l60JOH4AVnCVX4UeIhXi) | 5:06 | 2018-07-02 |  |
+| [The Coffee Cola Song](https://open.spotify.com/track/6qBkgf34enQ1CdaXDy46yr) | [Francis Bebey](https://open.spotify.com/artist/0mdmrbu5UZ32uRcRp2z6mr) | [African Electronic Music 1975 \- 1982](https://open.spotify.com/album/0tfoSJVUJaLlua6IEJZJjz) | 5:05 | 2018-07-02 |  |
+| [The Coffee Cola Song](https://open.spotify.com/track/3Y9XSINHLe5C8XI5kNmCZI) | [Francis Bebey](https://open.spotify.com/artist/0mdmrbu5UZ32uRcRp2z6mr) | [Afro Exotique \- Adventures In The Leftfield, Africa 1972\-82](https://open.spotify.com/album/06l60JOH4AVnCVX4UeIhXi) | 5:06 | 2018-07-02 | 2023-05-19 |
 | [The Coffee Cola Song](https://open.spotify.com/track/3GYBtgclotwzSnd3u21VY7) | [Francis Bebey](https://open.spotify.com/artist/0mdmrbu5UZ32uRcRp2z6mr) | [African Electronic Music \(1975\-1982\)](https://open.spotify.com/album/7w99Aae1tYSTSb1OiDnxYY) | 5:06 | 2018-07-02 | 2023-03-25 |
 | [The Coffee Cola Song](https://open.spotify.com/track/6pJiQvl1KtkEoveSS9HTKz) | [Francis Bebey](https://open.spotify.com/artist/0mdmrbu5UZ32uRcRp2z6mr) | [African Electronic Music 1975 \- 1982](https://open.spotify.com/album/6JdOxflkC4cFpSzZAAJ46D) | 5:06 | 2018-07-02 | 2022-07-29 |
 | [The Talking Fish](https://open.spotify.com/track/1sGYDYE8dg47jnGFfM089j) | [Ibibio Sound Machine](https://open.spotify.com/artist/4J6CnIqPEtWYn3la2YYj2c) | [Ibibio Sound Machine](https://open.spotify.com/album/2X8EHo2qYg6L5SsYcF4Iy3) | 4:40 | 2018-07-02 |  |

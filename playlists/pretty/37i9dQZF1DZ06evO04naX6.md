@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO04naX6.md) - [plain]
 
 > This is Yandel\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 167,377 likes - 50 songs - 3 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 167,406 likes - 50 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO04naX6.md) - [plain]
 | 49 | [Ponme al Dia](https://open.spotify.com/track/2pPUUM4NPWT4KV7Jf0Mnmb) | [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD), [Jhayco](https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1) | [Quien Contra Mi 2](https://open.spotify.com/album/1UqfVKRwKsOqyxIbgA4iAy) | 4:14 |
 | 50 | [Invencible](https://open.spotify.com/track/70iFZwMfjDJBlObBLWFywd) | [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD) | [Resistencia](https://open.spotify.com/album/5xefnzEqKIWnmTWYFzekGZ) | 2:14 |
 
-Snapshot ID: `MjgwNzIyMDUsMDAwMDAwMDBmZWFlM2FkYjQyZDcwYTNjNmIwMjI1OWU3OTE0YzYxNA==`
+Snapshot ID: `MjgwNzM1MzIsMDAwMDAwMDAyM2JjNjEyYWE4Mjg2MTZiMGU2NjRiNWYyMzI4NGFlMg==`

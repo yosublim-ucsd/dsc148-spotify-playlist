@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1L8JuK0yhgO.md) - [plain]
 
 > 音楽メディア<a href="http://spincoaster.com/">Spincoaster</a>が厳選したホットな新曲を毎週月曜日にお届け！
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,954 likes - 60 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,958 likes - 60 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1L8JuK0yhgO.md) - [plain]
 | 35 | [Sayonara, Science Fiction](https://open.spotify.com/track/02fVrxKTqEXTYoHj6ohNyN) | [Mom](https://open.spotify.com/artist/7LuHX3X7qR5K8ft7ilZKUj) | [Sayonara, Science Fiction](https://open.spotify.com/album/3xi7tThfVCD9ly3SYQOFpk) | 3:27 |
 | 36 | [Aitoie](https://open.spotify.com/track/0qJvLyWkdMlu7OlMseLzKL) | [Keiichi Sokabe](https://open.spotify.com/artist/5L2Y03AcUOXCgvRMTy2Gwq) | [Aitoie](https://open.spotify.com/album/494y9ucbHu9x0taUuUOCKo) | 3:25 |
 | 37 | [Life of the Party](https://open.spotify.com/track/7jKspZp3u7mIqO2navtJVP) | [MoMo](https://open.spotify.com/artist/5gwaQTfKLp93WjE9qllzRW), [Mao Sone](https://open.spotify.com/artist/674ZhINhNClUw6elVb96BG) | [Life of the Party](https://open.spotify.com/album/0a2toNkR3BmJcRUWnVXWfE) | 3:24 |
-| 38 | [Something in Morning Rain](https://open.spotify.com/track/7cpqOWd3kKHcPL0IzGmNUz) | [Maya Ongaku](https://open.spotify.com/artist/5lVVOY2g3vHmkkHoDdZUmA) | [Something in Morning Rain](https://open.spotify.com/album/3f7DZuUfcxsb1D0lUY0bWs) | 5:28 |
+| 38 | [Something in Morning Rain](https://open.spotify.com/track/7cpqOWd3kKHcPL0IzGmNUz) | [maya ongaku](https://open.spotify.com/artist/2dYBechVJjAf6bTo5se1N5) | [Something in Morning Rain](https://open.spotify.com/album/3f7DZuUfcxsb1D0lUY0bWs) | 5:28 |
 | 39 | [omoi](https://open.spotify.com/track/5wB55aaglhpppu609wlJEY) | [soma](https://open.spotify.com/artist/6dNAZOcDVPSzljRFMIwwE0) | [Farewell](https://open.spotify.com/album/5HdnbzWFAAXEvjc5okVjdE) | 2:41 |
 | 40 | [Repair](https://open.spotify.com/track/2XUt5TSQMSvCbTcL9lCx4O) | [Kogane](https://open.spotify.com/artist/6d9pWmFd3oZE3tKQVfgkmM), [Park Bird](https://open.spotify.com/artist/7bVJIMenC0rlgot8O60qpF) | [Repair](https://open.spotify.com/album/60q7mHEvtino1BW02siNb6) | 3:38 |
 | 41 | [Mr\. Taxi Driver](https://open.spotify.com/track/0FdpgvEYDLBt9nZeFL3krA) | [Munan](https://open.spotify.com/artist/3ua99a1Zgdi8qY3Cpv92gE) | [Mr\. Taxi Driver](https://open.spotify.com/album/0x0lFRnJAg1S7kqnXeef06) | 3:31 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1L8JuK0yhgO.md) - [plain]
 | 59 | [last order \- Takashi Ichi’s House Remix](https://open.spotify.com/track/3ARdcxgVnuXmRX5sO2aVM5) | [ゆっきゅん](https://open.spotify.com/artist/5Y9FO0DbxGApgPFNh4HBNA), [壱タカシ](https://open.spotify.com/artist/75w4lawNVJ0Kfp4JnJn5KQ) | [隕石でごめんなさい](https://open.spotify.com/album/43fcVYCIZPWJ0gGv1nixs0) | 5:43 |
 | 60 | [Lifetime \- Dimitri From Paris 'Cruising Attitude' Remix](https://open.spotify.com/track/3UG6kDGptSoj8JMavdvZbc) | [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG), [Dimitri From Paris](https://open.spotify.com/artist/5Il27M5JXuQLgwDgVrQMgo) | [Call On Me & Lifetime \(Remixes\)](https://open.spotify.com/album/1CRH8YfN1l16GxyuuFQn18) | 3:13 |
 
-Snapshot ID: `MCxhMWVhYjUwMGQzMTc2MGE0NTI0MThlYzQ0NjU2YzkzY2I1Y2E4ZTZl`
+Snapshot ID: `MCw0ODFjYmFiZjg3MjdhYjk0YmFiMzg4ZTFlODc5ZDNhNGU1YmIzYWQ2`

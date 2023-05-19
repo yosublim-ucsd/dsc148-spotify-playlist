@@ -1,12 +1,12 @@
 {
   "description": "Acoustic rock and pop that makes you feel good.",
-  "num_followers": 491889,
+  "num_followers": 492067,
   "original_name": "Feel Good Acoustic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4MjMyYmI3ZDEwNmMwYmVmZmFkZmI3NWU4MThmNGRiYTFiNmM4MTVj",
+  "snapshot_id": "MCw4NmVhOWVmNzBmYjhhNWY4ZjgzMjdmOTcwNTc5OGE4ZjcyMTAxNjli",
   "tracks": [
     {
       "added_at": "2023-03-31 04:00:00",
@@ -595,22 +595,6 @@
     {
       "added_at": "2023-03-31 04:00:00",
       "album": {
-        "name": "Ain't Nobody (Loves Me Better) [Acoustic] [Acoustic Version]",
-        "url": "https://open.spotify.com/album/6PqlQy6kppsKtw3vqy3r0m"
-      },
-      "artists": [
-        {
-          "name": "Jasmine Thompson",
-          "url": "https://open.spotify.com/artist/2TL8gYTNgD6nXkyuUdDrMg"
-        }
-      ],
-      "duration_ms": 178355,
-      "name": "Ain't Nobody (Loves Me Better) - Acoustic",
-      "url": "https://open.spotify.com/track/1OozJMmjaGAgX8WPTTMpcG"
-    },
-    {
-      "added_at": "2023-03-31 04:00:00",
-      "album": {
         "name": "In My Blood (Acoustic)",
         "url": "https://open.spotify.com/album/7Hj0BDJ7shYnMRlzEpvVW7"
       },
@@ -627,18 +611,18 @@
     {
       "added_at": "2023-03-31 04:00:00",
       "album": {
-        "name": "MTV Unplugged",
-        "url": "https://open.spotify.com/album/081klksuaEwHIzuHGCks5p"
+        "name": "Ain't Nobody (Loves Me Better) [Acoustic] [Acoustic Version]",
+        "url": "https://open.spotify.com/album/6PqlQy6kppsKtw3vqy3r0m"
       },
       "artists": [
         {
-          "name": "Bryan Adams",
-          "url": "https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc"
+          "name": "Jasmine Thompson",
+          "url": "https://open.spotify.com/artist/2TL8gYTNgD6nXkyuUdDrMg"
         }
       ],
-      "duration_ms": 241760,
-      "name": "Summer Of '69 - MTV Unplugged Version",
-      "url": "https://open.spotify.com/track/1OQpTtcuAauAqp5Okxtbs2"
+      "duration_ms": 178355,
+      "name": "Ain't Nobody (Loves Me Better) - Acoustic",
+      "url": "https://open.spotify.com/track/1OozJMmjaGAgX8WPTTMpcG"
     },
     {
       "added_at": "2023-03-31 04:00:00",
@@ -655,6 +639,22 @@
       "duration_ms": 255510,
       "name": "What About Us - Acoustic",
       "url": "https://open.spotify.com/track/7e4Pftu2tzDeY0W0690OKQ"
+    },
+    {
+      "added_at": "2023-03-31 04:00:00",
+      "album": {
+        "name": "MTV Unplugged",
+        "url": "https://open.spotify.com/album/081klksuaEwHIzuHGCks5p"
+      },
+      "artists": [
+        {
+          "name": "Bryan Adams",
+          "url": "https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc"
+        }
+      ],
+      "duration_ms": 241760,
+      "name": "Summer Of '69 - MTV Unplugged Version",
+      "url": "https://open.spotify.com/track/1OQpTtcuAauAqp5Okxtbs2"
     },
     {
       "added_at": "2023-03-31 04:00:00",
@@ -691,22 +691,6 @@
     {
       "added_at": "2023-03-31 04:00:00",
       "album": {
-        "name": "Castle on the Hill (Acoustic)",
-        "url": "https://open.spotify.com/album/3Zq8gpa3P0UM8H6XIY39Sn"
-      },
-      "artists": [
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        }
-      ],
-      "duration_ms": 226226,
-      "name": "Castle on the Hill - Acoustic",
-      "url": "https://open.spotify.com/track/5X6TnKT37TaSDkFm0598Uo"
-    },
-    {
-      "added_at": "2023-03-31 04:00:00",
-      "album": {
         "name": "Another Bundle of Tantrums",
         "url": "https://open.spotify.com/album/2xAp7TBI2GrWTaaBD2a39J"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 247816,
       "name": "Rather Be",
       "url": "https://open.spotify.com/track/3jk4SgyAUOcXbA78btwgZA"
+    },
+    {
+      "added_at": "2023-03-31 04:00:00",
+      "album": {
+        "name": "Castle on the Hill (Acoustic)",
+        "url": "https://open.spotify.com/album/3Zq8gpa3P0UM8H6XIY39Sn"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "duration_ms": 226226,
+      "name": "Castle on the Hill - Acoustic",
+      "url": "https://open.spotify.com/track/5X6TnKT37TaSDkFm0598Uo"
     },
     {
       "added_at": "2023-03-31 04:00:00",
@@ -1291,18 +1291,18 @@
     {
       "added_at": "2023-03-31 04:00:00",
       "album": {
-        "name": "T-Shirts (Acoustic)",
-        "url": "https://open.spotify.com/album/5E2YTBO09Sujc2cwNunLkF"
+        "name": "Starboy (Acoustic)",
+        "url": "https://open.spotify.com/album/5Bh0yujzOhMqly3ONkprWR"
       },
       "artists": [
         {
-          "name": "James Smith",
-          "url": "https://open.spotify.com/artist/543ccHFPnZfJMD8tRGPtu7"
+          "name": "Simon Samaeng",
+          "url": "https://open.spotify.com/artist/7n4yZSvg16XY22sxvZzKfw"
         }
       ],
-      "duration_ms": 195480,
-      "name": "T-Shirts - Acoustic",
-      "url": "https://open.spotify.com/track/27hauwRp0G2YflSJfkmD3o"
+      "duration_ms": 225790,
+      "name": "Starboy - Acoustic",
+      "url": "https://open.spotify.com/track/2QoyYV4YAuw9T9UgsDoam2"
     },
     {
       "added_at": "2023-03-31 04:00:00",
@@ -1323,18 +1323,18 @@
     {
       "added_at": "2023-03-31 04:00:00",
       "album": {
-        "name": "Starboy (Acoustic)",
-        "url": "https://open.spotify.com/album/5Bh0yujzOhMqly3ONkprWR"
+        "name": "T-Shirts (Acoustic)",
+        "url": "https://open.spotify.com/album/5E2YTBO09Sujc2cwNunLkF"
       },
       "artists": [
         {
-          "name": "Simon Samaeng",
-          "url": "https://open.spotify.com/artist/7n4yZSvg16XY22sxvZzKfw"
+          "name": "James Smith",
+          "url": "https://open.spotify.com/artist/543ccHFPnZfJMD8tRGPtu7"
         }
       ],
-      "duration_ms": 225790,
-      "name": "Starboy - Acoustic",
-      "url": "https://open.spotify.com/track/2QoyYV4YAuw9T9UgsDoam2"
+      "duration_ms": 195480,
+      "name": "T-Shirts - Acoustic",
+      "url": "https://open.spotify.com/track/27hauwRp0G2YflSJfkmD3o"
     },
     {
       "added_at": "2023-03-31 04:00:00",
@@ -1403,22 +1403,6 @@
     {
       "added_at": "2023-03-31 04:00:00",
       "album": {
-        "name": "There's Nothing Holdin Me Back",
-        "url": "https://open.spotify.com/album/2ZqnrSm19aYSPblI4hnnaU"
-      },
-      "artists": [
-        {
-          "name": "Q.Z.B",
-          "url": "https://open.spotify.com/artist/2bM99ltifHeWqA8pxQ5RdG"
-        }
-      ],
-      "duration_ms": 199419,
-      "name": "There's Nothing Holdin Me Back",
-      "url": "https://open.spotify.com/track/2PX6WAoHC307PEUBMkWkE3"
-    },
-    {
-      "added_at": "2023-03-31 04:00:00",
-      "album": {
         "name": "R.E.V.O.",
         "url": "https://open.spotify.com/album/4E2tpJR1a6bsKNrAZcXGvP"
       },
@@ -1431,6 +1415,22 @@
       "duration_ms": 248240,
       "name": "Somebody That I Used to Know",
       "url": "https://open.spotify.com/track/6mLufFjkRHCHaV1KJAOcte"
+    },
+    {
+      "added_at": "2023-03-31 04:00:00",
+      "album": {
+        "name": "There's Nothing Holdin Me Back",
+        "url": "https://open.spotify.com/album/2ZqnrSm19aYSPblI4hnnaU"
+      },
+      "artists": [
+        {
+          "name": "Q.Z.B",
+          "url": "https://open.spotify.com/artist/2bM99ltifHeWqA8pxQ5RdG"
+        }
+      ],
+      "duration_ms": 199419,
+      "name": "There's Nothing Holdin Me Back",
+      "url": "https://open.spotify.com/track/2PX6WAoHC307PEUBMkWkE3"
     },
     {
       "added_at": "2023-03-31 04:00:00",
@@ -2007,22 +2007,6 @@
     {
       "added_at": "2023-03-31 04:00:00",
       "album": {
-        "name": "Sitting at the Kids Table (Acoustic)",
-        "url": "https://open.spotify.com/album/0DDEbEiu1vOYTFW0jGfoFA"
-      },
-      "artists": [
-        {
-          "name": "OSTON",
-          "url": "https://open.spotify.com/artist/4PR77KtW5drJXCsqcyfuzJ"
-        }
-      ],
-      "duration_ms": 221484,
-      "name": "leading me on - acoustic",
-      "url": "https://open.spotify.com/track/3xqp5SEEiOtQymJmhdk9tz"
-    },
-    {
-      "added_at": "2023-03-31 04:00:00",
-      "album": {
         "name": "Happy Now (Acoustic Version)",
         "url": "https://open.spotify.com/album/3NQLd4nYN0KfiZsU6M3xlm"
       },
@@ -2039,18 +2023,18 @@
     {
       "added_at": "2023-03-31 04:00:00",
       "album": {
-        "name": "Human Nature",
-        "url": "https://open.spotify.com/album/6RSFXvmUQDPhC6YFFOWPIB"
+        "name": "Sitting at the Kids Table (Acoustic)",
+        "url": "https://open.spotify.com/album/0DDEbEiu1vOYTFW0jGfoFA"
       },
       "artists": [
         {
-          "name": "Justin Morgan",
-          "url": "https://open.spotify.com/artist/3IISF9rnh262yHTqtzf6fw"
+          "name": "OSTON",
+          "url": "https://open.spotify.com/artist/4PR77KtW5drJXCsqcyfuzJ"
         }
       ],
-      "duration_ms": 236952,
-      "name": "Human Nature",
-      "url": "https://open.spotify.com/track/6OtBIOTGkUT3ok8YXxs0Wl"
+      "duration_ms": 221484,
+      "name": "leading me on - acoustic",
+      "url": "https://open.spotify.com/track/3xqp5SEEiOtQymJmhdk9tz"
     },
     {
       "added_at": "2023-03-31 04:00:00",
@@ -2067,6 +2051,22 @@
       "duration_ms": 154990,
       "name": "Sorry Not Sorry",
       "url": "https://open.spotify.com/track/3pDK9i2PUW4EF8h8Sevexs"
+    },
+    {
+      "added_at": "2023-03-31 04:00:00",
+      "album": {
+        "name": "Human Nature",
+        "url": "https://open.spotify.com/album/6RSFXvmUQDPhC6YFFOWPIB"
+      },
+      "artists": [
+        {
+          "name": "Justin Morgan",
+          "url": "https://open.spotify.com/artist/3IISF9rnh262yHTqtzf6fw"
+        }
+      ],
+      "duration_ms": 236952,
+      "name": "Human Nature",
+      "url": "https://open.spotify.com/track/6OtBIOTGkUT3ok8YXxs0Wl"
     },
     {
       "added_at": "2023-03-31 04:00:00",
@@ -2303,22 +2303,6 @@
     {
       "added_at": "2023-03-31 04:00:00",
       "album": {
-        "name": "Rely On Me",
-        "url": "https://open.spotify.com/album/1AD4aREnRdDu0hhUqzVRUu"
-      },
-      "artists": [
-        {
-          "name": "James Smith",
-          "url": "https://open.spotify.com/artist/543ccHFPnZfJMD8tRGPtu7"
-        }
-      ],
-      "duration_ms": 219834,
-      "name": "Rely On Me",
-      "url": "https://open.spotify.com/track/2amrY1Qly3pMNfqVPsAbBo"
-    },
-    {
-      "added_at": "2023-03-31 04:00:00",
-      "album": {
         "name": "Stack It Up (Acoustic)",
         "url": "https://open.spotify.com/album/1Y46HfQXfRfi4hSt91WQFE"
       },
@@ -2331,6 +2315,22 @@
       "duration_ms": 162129,
       "name": "Stack It Up - Acoustic",
       "url": "https://open.spotify.com/track/26pc0rVJ8Ca8N03RDxT0rp"
+    },
+    {
+      "added_at": "2023-03-31 04:00:00",
+      "album": {
+        "name": "Rely On Me",
+        "url": "https://open.spotify.com/album/1AD4aREnRdDu0hhUqzVRUu"
+      },
+      "artists": [
+        {
+          "name": "James Smith",
+          "url": "https://open.spotify.com/artist/543ccHFPnZfJMD8tRGPtu7"
+        }
+      ],
+      "duration_ms": 219834,
+      "name": "Rely On Me",
+      "url": "https://open.spotify.com/track/2amrY1Qly3pMNfqVPsAbBo"
     },
     {
       "added_at": "2023-03-31 04:00:00",
@@ -2435,22 +2435,6 @@
     {
       "added_at": "2023-03-31 04:00:00",
       "album": {
-        "name": "Most Girls",
-        "url": "https://open.spotify.com/album/2FymLjpzDVWD3BYrf33UHg"
-      },
-      "artists": [
-        {
-          "name": "Clementine Duo",
-          "url": "https://open.spotify.com/artist/4s6YWKUwngB7oxE6CPWsW2"
-        }
-      ],
-      "duration_ms": 237394,
-      "name": "Most Girls - Acoustic",
-      "url": "https://open.spotify.com/track/2gPJ00vC3WKoAja0rNk0F1"
-    },
-    {
-      "added_at": "2023-03-31 04:00:00",
-      "album": {
         "name": "Boy & Bear at Golden Retriever Studio",
         "url": "https://open.spotify.com/album/6RrsqCPJLgyTX5LG8UBbgr"
       },
@@ -2463,6 +2447,22 @@
       "duration_ms": 187186,
       "name": "Telescope - Acoustic",
       "url": "https://open.spotify.com/track/538NuUdDJkBjumWei86WVH"
+    },
+    {
+      "added_at": "2023-03-31 04:00:00",
+      "album": {
+        "name": "Most Girls",
+        "url": "https://open.spotify.com/album/2FymLjpzDVWD3BYrf33UHg"
+      },
+      "artists": [
+        {
+          "name": "Clementine Duo",
+          "url": "https://open.spotify.com/artist/4s6YWKUwngB7oxE6CPWsW2"
+        }
+      ],
+      "duration_ms": 237394,
+      "name": "Most Girls - Acoustic",
+      "url": "https://open.spotify.com/track/2gPJ00vC3WKoAja0rNk0F1"
     },
     {
       "added_at": "2023-03-31 04:00:00",
@@ -2603,22 +2603,6 @@
     {
       "added_at": "2023-03-31 04:00:00",
       "album": {
-        "name": "Circles (Acoustic)",
-        "url": "https://open.spotify.com/album/5yIR9qGQWDNr5WZlStLxru"
-      },
-      "artists": [
-        {
-          "name": "Adam Christopher",
-          "url": "https://open.spotify.com/artist/22QkuOmdRnasuuVgUjhrVw"
-        }
-      ],
-      "duration_ms": 204000,
-      "name": "Circles - Acoustic",
-      "url": "https://open.spotify.com/track/6sh4pUTeKKXr1RcIBe0AhS"
-    },
-    {
-      "added_at": "2023-03-31 04:00:00",
-      "album": {
         "name": "Fast Car",
         "url": "https://open.spotify.com/album/7BhVUDlkSYf0WO2xBAHneM"
       },
@@ -2631,6 +2615,22 @@
       "duration_ms": 277785,
       "name": "Fast Car - Acoustic Version",
       "url": "https://open.spotify.com/track/6lc0tqItTGdpz9kagpvG9v"
+    },
+    {
+      "added_at": "2023-03-31 04:00:00",
+      "album": {
+        "name": "Circles (Acoustic)",
+        "url": "https://open.spotify.com/album/5yIR9qGQWDNr5WZlStLxru"
+      },
+      "artists": [
+        {
+          "name": "Adam Christopher",
+          "url": "https://open.spotify.com/artist/22QkuOmdRnasuuVgUjhrVw"
+        }
+      ],
+      "duration_ms": 204000,
+      "name": "Circles - Acoustic",
+      "url": "https://open.spotify.com/track/6sh4pUTeKKXr1RcIBe0AhS"
     },
     {
       "added_at": "2023-03-31 04:00:00",
@@ -2683,26 +2683,6 @@
     {
       "added_at": "2023-03-31 04:00:00",
       "album": {
-        "name": "Paradise (with Olivia Holt) [Acoustic]",
-        "url": "https://open.spotify.com/album/1yjHr8ZFLc0fZ7XhGlOnUQ"
-      },
-      "artists": [
-        {
-          "name": "Brandon Beal",
-          "url": "https://open.spotify.com/artist/7p2aOXY5bfHyjujI3fCWTu"
-        },
-        {
-          "name": "Olivia Holt",
-          "url": "https://open.spotify.com/artist/188VINPQh5dyNfLUkevKqf"
-        }
-      ],
-      "duration_ms": 229267,
-      "name": "Paradise (with Olivia Holt) - Acoustic",
-      "url": "https://open.spotify.com/track/6HJLwdHd1JJ2CkfJfPxX98"
-    },
-    {
-      "added_at": "2023-03-31 04:00:00",
-      "album": {
         "name": "Acoustic Dance Sessions",
         "url": "https://open.spotify.com/album/5ra1FnP7de0jb5q47esf8u"
       },
@@ -2747,6 +2727,26 @@
       "duration_ms": 194874,
       "name": "All That Matters - Acoustic",
       "url": "https://open.spotify.com/track/5tAkpRX2FCx8XWQOzb0zBL"
+    },
+    {
+      "added_at": "2023-03-31 04:00:00",
+      "album": {
+        "name": "Paradise (with Olivia Holt) [Acoustic]",
+        "url": "https://open.spotify.com/album/1yjHr8ZFLc0fZ7XhGlOnUQ"
+      },
+      "artists": [
+        {
+          "name": "Brandon Beal",
+          "url": "https://open.spotify.com/artist/7p2aOXY5bfHyjujI3fCWTu"
+        },
+        {
+          "name": "Olivia Holt",
+          "url": "https://open.spotify.com/artist/188VINPQh5dyNfLUkevKqf"
+        }
+      ],
+      "duration_ms": 229267,
+      "name": "Paradise (with Olivia Holt) - Acoustic",
+      "url": "https://open.spotify.com/track/6HJLwdHd1JJ2CkfJfPxX98"
     },
     {
       "added_at": "2023-03-31 04:00:00",
@@ -3463,22 +3463,6 @@
     {
       "added_at": "2023-03-31 04:00:00",
       "album": {
-        "name": "Cool (Acoustic)",
-        "url": "https://open.spotify.com/album/1cW2o4hTXG4rczS46mynJM"
-      },
-      "artists": [
-        {
-          "name": "Tiffany Alvord",
-          "url": "https://open.spotify.com/artist/2wNlZ2Vp23Sbv1DHgizbCb"
-        }
-      ],
-      "duration_ms": 171200,
-      "name": "Cool - Acoustic",
-      "url": "https://open.spotify.com/track/6F4nOE5Z6Il1fM8h3zkAlW"
-    },
-    {
-      "added_at": "2023-03-31 04:00:00",
-      "album": {
         "name": "Novocaine (Acoustic)",
         "url": "https://open.spotify.com/album/3YeIPHSRWUD5hDEJaB7oOZ"
       },
@@ -3491,6 +3475,22 @@
       "duration_ms": 172100,
       "name": "Novocaine - Acoustic",
       "url": "https://open.spotify.com/track/1KZu4lCJJ4eCBUm9GgqHIL"
+    },
+    {
+      "added_at": "2023-03-31 04:00:00",
+      "album": {
+        "name": "Cool (Acoustic)",
+        "url": "https://open.spotify.com/album/1cW2o4hTXG4rczS46mynJM"
+      },
+      "artists": [
+        {
+          "name": "Tiffany Alvord",
+          "url": "https://open.spotify.com/artist/2wNlZ2Vp23Sbv1DHgizbCb"
+        }
+      ],
+      "duration_ms": 171200,
+      "name": "Cool - Acoustic",
+      "url": "https://open.spotify.com/track/6F4nOE5Z6Il1fM8h3zkAlW"
     },
     {
       "added_at": "2023-03-31 04:00:00",
@@ -3591,18 +3591,22 @@
     {
       "added_at": "2023-03-31 04:00:00",
       "album": {
-        "name": "The Keeper (Acoustic)",
-        "url": "https://open.spotify.com/album/1PCXqiOCPS0EpqDhqBUX6s"
+        "name": "Treasure",
+        "url": "https://open.spotify.com/album/0tjjpAzSDFMtBJlEXgFMeL"
       },
       "artists": [
         {
-          "name": "Blossoms",
-          "url": "https://open.spotify.com/artist/22RISwgVJyZu9lpqAcv1F5"
+          "name": "Alyssa Bernal",
+          "url": "https://open.spotify.com/artist/1ekwJGDxnfBFXcSLSgmNj8"
+        },
+        {
+          "name": "Andy Lange",
+          "url": "https://open.spotify.com/artist/5wfWWoLIdI5DBXds0eNKzJ"
         }
       ],
-      "duration_ms": 189546,
-      "name": "The Keeper - Acoustic",
-      "url": "https://open.spotify.com/track/7utqggka2396GeGAjJzVkQ"
+      "duration_ms": 179304,
+      "name": "Treasure",
+      "url": "https://open.spotify.com/track/0PtrSBrpgoKpC3aHxW4VNW"
     },
     {
       "added_at": "2023-03-31 04:00:00",
@@ -3623,22 +3627,18 @@
     {
       "added_at": "2023-03-31 04:00:00",
       "album": {
-        "name": "Treasure",
-        "url": "https://open.spotify.com/album/0tjjpAzSDFMtBJlEXgFMeL"
+        "name": "The Keeper (Acoustic)",
+        "url": "https://open.spotify.com/album/1PCXqiOCPS0EpqDhqBUX6s"
       },
       "artists": [
         {
-          "name": "Alyssa Bernal",
-          "url": "https://open.spotify.com/artist/1ekwJGDxnfBFXcSLSgmNj8"
-        },
-        {
-          "name": "Andy Lange",
-          "url": "https://open.spotify.com/artist/5wfWWoLIdI5DBXds0eNKzJ"
+          "name": "Blossoms",
+          "url": "https://open.spotify.com/artist/22RISwgVJyZu9lpqAcv1F5"
         }
       ],
-      "duration_ms": 179304,
-      "name": "Treasure",
-      "url": "https://open.spotify.com/track/0PtrSBrpgoKpC3aHxW4VNW"
+      "duration_ms": 189546,
+      "name": "The Keeper - Acoustic",
+      "url": "https://open.spotify.com/track/7utqggka2396GeGAjJzVkQ"
     },
     {
       "added_at": "2023-03-31 04:00:00",

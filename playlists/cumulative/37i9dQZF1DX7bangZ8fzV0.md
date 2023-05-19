@@ -2,9 +2,9 @@
 
 ### [Afrikaanse Hits](https://open.spotify.com/playlist/37i9dQZF1DX7bangZ8fzV0)
 
-> Net die beste Afrikaanse musiek\. Cover: <a href="https://open.spotify.com/artist/0okTBoelHkR40Mr69hmzkR?si=UfX3Lz5qT5SJYzyiCj\_9SQ">Eloff</a>
+> Net die beste Afrikaanse musiek\. Cover: <a href="https://open.spotify.com/artist/69q4xfNrz04VhJdTQHGUjd?si=kPyhyM8FQw\-UEEmnnqhdGg">Appel</a>
 
-139 songs - 7 hr 45 min
+141 songs - 7 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,6 +30,7 @@
 | [Brannewynlippe](https://open.spotify.com/track/1gdBisAst3pplEuOS4xUhP) | [Wikus Botma](https://open.spotify.com/artist/099AZ9nM47Fy3VJ7aLN2Io) | [Brannewynlippe](https://open.spotify.com/album/68c0WhoFBICaOlNDVh3pvk) | 3:06 | 2021-10-14 | 2023-01-21 |
 | [Bring Dit](https://open.spotify.com/track/0CFG2doHcEGyIIlK7Qq0Oz) | [Franja Du Plessis](https://open.spotify.com/artist/3GsEM7KApCMtRdlUrj1V41) | [Bring Dit](https://open.spotify.com/album/2iRdazzYsOBztAR5V2aiku) | 2:52 | 2021-09-09 | 2023-02-03 |
 | [Bring Dit](https://open.spotify.com/track/7F0TVSAgDWcn7d2t6sfgiJ) | [Franja Du Plessis](https://open.spotify.com/artist/3GsEM7KApCMtRdlUrj1V41) | [Groot Afrikaans Treffers](https://open.spotify.com/album/7tIHjz5g4qfELNLTxO0xm8) | 2:52 | 2023-03-09 |  |
+| [Chocolate Sigarette](https://open.spotify.com/track/0185cQUYmXRbiVDJiGAXHU) | [Christia Visser](https://open.spotify.com/artist/0AVwVUxhRdEKiuLNGAxmtu) | [Chocolate Sigarette](https://open.spotify.com/album/3mC8IJz4TXi2iEMMYNytOU) | 3:18 | 2023-05-18 |  |
 | [Coco Pops en Kaas](https://open.spotify.com/track/47a7yKmqL4y49StvHnrT0Y) | [Nicholis Louw](https://open.spotify.com/artist/7bia2GuWoBGpV5eV4gizJI) | [Coco Pops en Kaas](https://open.spotify.com/album/7eX7oEbmqlgWrMeWP4CAA1) | 4:02 | 2023-03-30 | 2023-05-12 |
 | [Dagdrome in Suburbia](https://open.spotify.com/track/1K9B9JRjtUe6bVVOv8Bw1X) | [Francois van Coke](https://open.spotify.com/artist/7pJtnZQLPJmqzVfdIz7eFF), [Spoegwolf](https://open.spotify.com/artist/6o4TnAxiqaQfZMLl55NFdn) | [Dagdrome in Suburbia](https://open.spotify.com/album/7HUBQlGEE0eQ77zIT6Yz40) | 3:11 | 2023-03-09 | 2023-04-14 |
 | [Dans Met Gevaar](https://open.spotify.com/track/4EPTBSsuBCIiIjl4Dt4Aof) | [Juan Boucher](https://open.spotify.com/artist/1XyiWEHBHDPuVDaxajN1ZH) | [Dans Met Gevaar](https://open.spotify.com/album/1QDF3wxfhwDJIYrXf4vMEV) | 4:09 | 2022-12-22 | 2023-03-31 |
@@ -47,6 +48,7 @@
 | [Erika Way](https://open.spotify.com/track/1smrGKf89mWioxRiWHLtV7) | [Spoegwolf](https://open.spotify.com/artist/6o4TnAxiqaQfZMLl55NFdn), [Jodi Jantjies](https://open.spotify.com/artist/7bO5j58JFaj207CPYThbpG) | [Dryf](https://open.spotify.com/album/445kxPtDxdYm3AMBJpKxLt) | 4:33 | 2022-12-08 | 2022-12-30 |
 | [Fairway Lyf](https://open.spotify.com/track/3DLeotilho45LEdwKPYb49) | [Arno Jordaan](https://open.spotify.com/artist/1BqYfwv0S0mnUZzGp4PfPE) | [Fairway Lyf](https://open.spotify.com/album/4gIcGlEcuNiBtT7IcB56DV) | 3:09 | 2023-04-20 |  |
 | [Foto's](https://open.spotify.com/track/6qXoZby29Lp0QmA4NsSE0J) | [Dodo Nyoka](https://open.spotify.com/artist/4ikALYd62or9IJXnjYwcXa) | [Foto's](https://open.spotify.com/album/4hpljUB91UU8TtYSGrRTwU) | 3:14 | 2022-10-28 |  |
+| [Foute](https://open.spotify.com/track/6K6L2DgKgeREDJ8c0HxLZI) | [Appel](https://open.spotify.com/artist/69q4xfNrz04VhJdTQHGUjd) | [Foute](https://open.spotify.com/album/0JWQvljztDBVPOUmpqW07l) | 3:22 | 2023-05-18 |  |
 | [Gee My ‘n Boerseun](https://open.spotify.com/track/2oBfcnyvgX6cajJgIFeqY2) | [Franja Du Plessis](https://open.spotify.com/artist/3GsEM7KApCMtRdlUrj1V41) | [Gee My ‘n Boerseun](https://open.spotify.com/album/7x9ZKftmTxAmr4uto3piBr) | 3:24 | 2022-04-14 | 2022-11-11 |
 | [Geheueverlies](https://open.spotify.com/track/6uj9EblCmjH3mD68hXYd1J) | [Eloff](https://open.spotify.com/artist/0okTBoelHkR40Mr69hmzkR) | [Geheueverlies](https://open.spotify.com/album/7uxR1ditZkvT9RO8brR8hL) | 3:26 | 2022-02-17 |  |
 | [Glo](https://open.spotify.com/track/0fQ5MOq8VDkLmOmXj9nfGZ) | [Jacques Leonard](https://open.spotify.com/artist/6vZo5K5MApUmC0oT6g5262) | [Glo](https://open.spotify.com/album/50ehh8dDKeB8qjwLboZ2ez) | 3:28 | 2022-09-29 | 2022-10-29 |
@@ -95,7 +97,7 @@
 | [My Volgende Fout](https://open.spotify.com/track/1kHQzqhGImGF9kPlgq7Yzh) | [Jay](https://open.spotify.com/artist/4KZEdNPtF2AdijUD02qPoj), [Irene\-Louise Van Wyk](https://open.spotify.com/artist/1PwYXOqnII5oWshOTTClma) | [My Volgende Fout](https://open.spotify.com/album/1FUttDOfsKL1aZw7fcsqAc) | 3:33 | 2021-11-08 |  |
 | [Nee of Ja](https://open.spotify.com/track/6R80KkMcEbBasMSQGFBiHB) | [Brendan Peyper](https://open.spotify.com/artist/4K2VQvyBnfU7La65rShI0v) | [Nee of Ja](https://open.spotify.com/album/1ISXpP9dS92U0oqGCWjVjb) | 3:19 | 2023-02-23 |  |
 | [Nes Ons Kan](https://open.spotify.com/track/552ct0DgK65AjtFjXwnakh) | [Corné Louw](https://open.spotify.com/artist/3dna8d6MSlgBgIbtjD9MgJ) | [Nes Ons Kan](https://open.spotify.com/album/0HqO7AZMzelaMrtdKCNhOB) | 3:44 | 2022-10-13 | 2022-10-21 |
-| [Net Een Keer](https://open.spotify.com/track/71tkxqyBp1FnQYMI9R2NQY) | [Samantha Leonard](https://open.spotify.com/artist/0t70FT0xcfRAuHAM8C9Tgw) | [Net Een Keer](https://open.spotify.com/album/1NPoFcEaJg6MkRsHVPeN0M) | 2:53 | 2022-10-28 |  |
+| [Net Een Keer](https://open.spotify.com/track/71tkxqyBp1FnQYMI9R2NQY) | [Samantha Leonard](https://open.spotify.com/artist/0t70FT0xcfRAuHAM8C9Tgw) | [Net Een Keer](https://open.spotify.com/album/1NPoFcEaJg6MkRsHVPeN0M) | 2:53 | 2022-10-28 | 2023-05-19 |
 | [Nie Alleen Nie](https://open.spotify.com/track/0yXCVcqwnZdM2GVGtSMRS3) | [Francois van Coke](https://open.spotify.com/artist/7pJtnZQLPJmqzVfdIz7eFF) | [Kanniedood](https://open.spotify.com/album/2sAn67LpCat3XJqDuMmtTh) | 2:39 | 2022-09-22 | 2022-10-21 |
 | [Nonna](https://open.spotify.com/track/3MF7ewY2kS9QMx3fysTD6g) | [Appel](https://open.spotify.com/artist/69q4xfNrz04VhJdTQHGUjd) | [Patriot](https://open.spotify.com/album/4F98wQqGeijl8nnda2yUaM) | 3:23 | 2023-03-09 |  |
 | [Nora Vlok](https://open.spotify.com/track/6TVcrV4TEhQiuKjU5Tactz) | [Die Heuwels Fantasties](https://open.spotify.com/artist/0FrkoXLOCHCWfMXw10Apxb), [Appel](https://open.spotify.com/artist/69q4xfNrz04VhJdTQHGUjd) | [Nora Vlok](https://open.spotify.com/album/28mbGMQoZuM1kwHrKpgLfs) | 3:07 | 2022-12-08 |  |
@@ -107,7 +109,7 @@
 | [Opstaan](https://open.spotify.com/track/1n27zP11I3ZAq1ElZYEPtO) | [Karlien Van Jaarsveld](https://open.spotify.com/artist/25SUuR1e32ukcdYldmAyp5) | [Opstaan](https://open.spotify.com/album/24rkKZ0UUz70PKK0tHvFsu) | 3:32 | 2023-03-09 | 2023-04-07 |
 | [Partykiehonde](https://open.spotify.com/track/5GZJ8J9tBVTT6HArRAwK6V) | [Gerhard Steyn](https://open.spotify.com/artist/6Ie5sDOdJ9iEUbtjUSaH2t), [Loufi](https://open.spotify.com/artist/389tNFyrtFfDUOStmWjwOl) | [Partykiehonde](https://open.spotify.com/album/3ggZuVpYhIaycDqIRaIv2U) | 2:40 | 2023-05-11 |  |
 | [Plaashond](https://open.spotify.com/track/1eiR8emxoRf3vNz84uY08i) | [Jakkie Louw](https://open.spotify.com/artist/6nNrfFTYVccic4ORzpmdLG) | [Plaashond](https://open.spotify.com/album/6ZuvN3qGOlt1MUkNiqLOgn) | 2:45 | 2022-12-15 |  |
-| [Plaaslewe](https://open.spotify.com/track/45dV2UvbpsG4pvWqzNLHOL) | [Anlia Star](https://open.spotify.com/artist/0ijtg0i2JHKpiiQnyZofqm) | [Plaaslewe](https://open.spotify.com/album/6TO27C8sqynfu2ymExD6Kf) | 3:03 | 2022-10-13 |  |
+| [Plaaslewe](https://open.spotify.com/track/45dV2UvbpsG4pvWqzNLHOL) | [Anlia Star](https://open.spotify.com/artist/0ijtg0i2JHKpiiQnyZofqm) | [Plaaslewe](https://open.spotify.com/album/6TO27C8sqynfu2ymExD6Kf) | 3:03 | 2022-10-13 | 2023-05-19 |
 | [Plathond](https://open.spotify.com/track/4lVzLsiJSMVeEzd94JSjRk) | [Robbie Wessels](https://open.spotify.com/artist/05RbDB13aoIZwFzHqe8ehO) | [Plathond](https://open.spotify.com/album/3yYGQg48xSnd5jTpYA8hcD) | 2:50 | 2022-08-04 | 2023-02-03 |
 | [Plett My Net](https://open.spotify.com/track/1PGWHOYPHxed0rl9JAWk5v) | [Mionette](https://open.spotify.com/artist/2IATFOSnfbxrL3bL0cxCOu) | [Plett My Net](https://open.spotify.com/album/0LhQ4Tkw4D4GzcmrbPa66Z) | 3:23 | 2022-11-17 | 2023-01-28 |
 | [Ploeg Jy?](https://open.spotify.com/track/2rLRZ848llZCkbxLV0VhUo) | [Ricus Nel](https://open.spotify.com/artist/7Mhp3513Ydxqu2u1JMiQFg) | [Ploeg Jy](https://open.spotify.com/album/4ab69ZYCFbLWrmDCmDFkyK) | 3:37 | 2021-09-23 |  |

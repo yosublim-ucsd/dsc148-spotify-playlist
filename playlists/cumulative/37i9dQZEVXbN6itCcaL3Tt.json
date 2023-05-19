@@ -4940,7 +4940,7 @@
       ],
       "date_added": "2022-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-18",
+      "date_removed": null,
       "duration_ms": 221520,
       "name": "Creepin' (with The Weeknd & 21 Savage)",
       "url": "https://open.spotify.com/track/2dHHgzDwk4BJdRwy9uXhTO"
@@ -5334,7 +5334,7 @@
       ],
       "date_added": "2023-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 149508,
       "name": "Dach",
       "url": "https://open.spotify.com/track/1ryBtjEDxoMI1YsHzJ3zRw"
@@ -9396,7 +9396,7 @@
       ],
       "date_added": "2022-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 175238,
       "name": "I'm Good (Blue)",
       "url": "https://open.spotify.com/track/4uUG5RXrOk84mYEfFvj3cK"
@@ -13873,6 +13873,24 @@
     },
     {
       "album": {
+        "name": "Millie Walky",
+        "url": "https://open.spotify.com/album/6Aauo290kVpir6h8Tu8Cse"
+      },
+      "artists": [
+        {
+          "name": "bambi",
+          "url": "https://open.spotify.com/artist/5ic8bWWvZHWf0dDBi9ThNk"
+        }
+      ],
+      "date_added": "2023-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134025,
+      "name": "Millie Walky",
+      "url": "https://open.spotify.com/track/2aVHbey5IovZh4mnKN2AcT"
+    },
+    {
+      "album": {
         "name": "Milord",
         "url": "https://open.spotify.com/album/00vfJoOOPrJv7GRS1qcB6j"
       },
@@ -13936,7 +13954,7 @@
       ],
       "date_added": "2023-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 186496,
       "name": "Miracle (with Ellie Goulding)",
       "url": "https://open.spotify.com/track/5eTaQYBE1yrActixMAeLcZ"
@@ -21435,6 +21453,36 @@
     },
     {
       "album": {
+        "name": "Supermoce (feat. Igo, Mrozu & Vito Bambino)",
+        "url": "https://open.spotify.com/album/2YFcnjTF7TTF8hHPlYo2mQ"
+      },
+      "artists": [
+        {
+          "name": "M\u0119skie Granie Orkiestra 2023",
+          "url": "https://open.spotify.com/artist/2qzUKhz7PXTFMdcUO8cA6q"
+        },
+        {
+          "name": "Igo",
+          "url": "https://open.spotify.com/artist/6I5JdHLVup9pIjn9g5K20N"
+        },
+        {
+          "name": "Mrozu",
+          "url": "https://open.spotify.com/artist/5QWz0kPELXKHSiINe7mFjX"
+        },
+        {
+          "name": "Vito Bambino",
+          "url": "https://open.spotify.com/artist/5XGkLMcwitYFdwroktQs7o"
+        }
+      ],
+      "date_added": "2023-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195701,
+      "name": "Supermoce (feat. Igo, Mrozu & Vito Bambino)",
+      "url": "https://open.spotify.com/track/4EqPIm07a55pJQRSZw2Z4X"
+    },
+    {
+      "album": {
         "name": "SUPERMODEL",
         "url": "https://open.spotify.com/album/5jhbLeXH1a3SRSOg84GSUn"
       },
@@ -23286,10 +23334,6 @@
         {
           "name": "Noa Kirel",
           "url": "https://open.spotify.com/artist/1wak0ZG1LUrZPYx8RDTQoD"
-        },
-        {
-          "name": "\u05db\u05d0\u05df - \u05ea\u05d0\u05d2\u05d9\u05d3 \u05d4\u05e9\u05d9\u05d3\u05d5\u05e8 \u05d4\u05d9\u05e9\u05e8\u05d0\u05dc\u05d9",
-          "url": "https://open.spotify.com/artist/2N9Cvh536WBOePrevGKIlj"
         }
       ],
       "date_added": "2023-05-15",
@@ -24102,7 +24146,7 @@
       ],
       "date_added": "2023-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 159417,
       "name": "Who the Hell Is Edgar?",
       "url": "https://open.spotify.com/track/3gUC7tGDPVLOq42vvTUVdI"
@@ -24346,6 +24390,24 @@
       "duration_ms": 187769,
       "name": "Wi\u0119cej \u017bycia",
       "url": "https://open.spotify.com/track/7jfzIhYB7SedhNUtdsaXhl"
+    },
+    {
+      "album": {
+        "name": "Wi\u0119zie\u0144 Wizerunku",
+        "url": "https://open.spotify.com/album/0HMZ3M14Mh61bX2DBHsl06"
+      },
+      "artists": [
+        {
+          "name": "Zeamsone",
+          "url": "https://open.spotify.com/artist/1FdfWn1DrRwWDtRK8faYKY"
+        }
+      ],
+      "date_added": "2023-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154421,
+      "name": "Wi\u0119zie\u0144 Wizerunku",
+      "url": "https://open.spotify.com/track/1zEbSgHXsGtXPgDOVDTZ5u"
     },
     {
       "album": {

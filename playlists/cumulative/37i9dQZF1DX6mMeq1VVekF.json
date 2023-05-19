@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-10",
-  "description": "No tags, no labels - just free form. Cover: SamRecks",
+  "description": "No tags, no labels - just free form. Cover: Ragz Originale",
   "name": "Free Form",
   "tracks": [
     {
@@ -16,7 +16,7 @@
       ],
       "date_added": "2023-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 154285,
       "name": "007",
       "url": "https://open.spotify.com/track/50F6zhUzxdscOw0CYWXKU5"
@@ -790,7 +790,7 @@
       ],
       "date_added": "2023-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 146616,
       "name": "Bobbing For Apples",
       "url": "https://open.spotify.com/track/6j3ngNFljCbXwpNm7735BC"
@@ -1292,7 +1292,7 @@
       ],
       "date_added": "2023-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 153725,
       "name": "Different",
       "url": "https://open.spotify.com/track/0a4s5QRpKF0sDDM2reNq60"
@@ -1862,7 +1862,7 @@
       ],
       "date_added": "2022-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 173152,
       "name": "Get Inspired",
       "url": "https://open.spotify.com/track/4Og0uXMYqouN7xOQ7u8jiW"
@@ -2224,7 +2224,7 @@
       ],
       "date_added": "2023-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 112941,
       "name": "Humble Beginnings",
       "url": "https://open.spotify.com/track/0aJugbUSMF6djSVl3KK2w6"
@@ -2690,7 +2690,7 @@
       ],
       "date_added": "2023-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 220253,
       "name": "Keep Your Distance",
       "url": "https://open.spotify.com/track/5SuMCTQBfHdEDdGuJPQv0a"
@@ -3408,7 +3408,7 @@
       ],
       "date_added": "2023-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 149456,
       "name": "new life",
       "url": "https://open.spotify.com/track/43VNPmKZ7NPWqwB2BSO1LY"
@@ -3674,7 +3674,7 @@
       ],
       "date_added": "2023-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 152842,
       "name": "Nuisance",
       "url": "https://open.spotify.com/track/3zzWP6dp2Ib2LY9W2syakI"
@@ -3714,6 +3714,24 @@
       "duration_ms": 136560,
       "name": "OG lullaby",
       "url": "https://open.spotify.com/track/0IuObXV5COFvZJjELSYLoi"
+    },
+    {
+      "album": {
+        "name": "OK THEN",
+        "url": "https://open.spotify.com/album/7l8ClBpZUPT3hQOU865QFb"
+      },
+      "artists": [
+        {
+          "name": "Jordeaux",
+          "url": "https://open.spotify.com/artist/0L5fGGag32mZi2G91oUoPz"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184616,
+      "name": "OK THEN",
+      "url": "https://open.spotify.com/track/1NdXF2SJrcqfPhCR059DuR"
     },
     {
       "album": {
@@ -4153,6 +4171,24 @@
     },
     {
       "album": {
+        "name": "radio silence",
+        "url": "https://open.spotify.com/album/3nXkQxkAvtVVoTuERk0bGs"
+      },
+      "artists": [
+        {
+          "name": "Ragz Originale",
+          "url": "https://open.spotify.com/artist/0yw2O9rh7YQd5MqEHOFGzW"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131932,
+      "name": "radio silence",
+      "url": "https://open.spotify.com/track/2bn8pNyHOK0rzna5FfDhbO"
+    },
+    {
+      "album": {
         "name": "Rainforest",
         "url": "https://open.spotify.com/album/1uJKy8wbLr4yuzm1mRLxkb"
       },
@@ -4281,6 +4317,28 @@
     },
     {
       "album": {
+        "name": "Rise",
+        "url": "https://open.spotify.com/album/3dyiC25i2f5CL3vjiIQ58b"
+      },
+      "artists": [
+        {
+          "name": "Jelani Blackman",
+          "url": "https://open.spotify.com/artist/0fjaIHFhiW9vWX8bncZCOo"
+        },
+        {
+          "name": "Biig Piig",
+          "url": "https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152073,
+      "name": "Rise",
+      "url": "https://open.spotify.com/track/7G2dxQAjgNt0cQ68g7s1Ly"
+    },
+    {
+      "album": {
         "name": "Roots",
         "url": "https://open.spotify.com/album/6w5GyZcHfKNS6I18vVYvNJ"
       },
@@ -4362,6 +4420,32 @@
       "duration_ms": 204763,
       "name": "SAD GIRLZ LUV MONEY Remix (feat. Kali Uchis and Moliy)",
       "url": "https://open.spotify.com/track/09gysnJpfQ3ublBmJDfcEC"
+    },
+    {
+      "album": {
+        "name": "Salute",
+        "url": "https://open.spotify.com/album/5O0HtpMI4ME919zkRqwRQ1"
+      },
+      "artists": [
+        {
+          "name": "Tay Jordan",
+          "url": "https://open.spotify.com/artist/13WFAXpgT5EchE1bdPG8ct"
+        },
+        {
+          "name": "Ashbeck",
+          "url": "https://open.spotify.com/artist/6W2nR7dEexKxsrLc4C4Xb9"
+        },
+        {
+          "name": "Lowfades",
+          "url": "https://open.spotify.com/artist/5tQDf3f7QrnrP3bv8rI77A"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214827,
+      "name": "Salute",
+      "url": "https://open.spotify.com/track/5DYHrzFAkN2oEm3F4zMyGL"
     },
     {
       "album": {
@@ -4609,6 +4693,36 @@
     },
     {
       "album": {
+        "name": "KAYTRAMIN\u00c9",
+        "url": "https://open.spotify.com/album/1plAqF2W8hwAhcpBAfGNsW"
+      },
+      "artists": [
+        {
+          "name": "KAYTRAMIN\u00c9",
+          "url": "https://open.spotify.com/artist/5oifjQw72WO7Jut07fVWMy"
+        },
+        {
+          "name": "Amin\u00e9",
+          "url": "https://open.spotify.com/artist/3Gm5F95VdRxW3mqCn8RPBJ"
+        },
+        {
+          "name": "KAYTRANADA",
+          "url": "https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu"
+        },
+        {
+          "name": "Amaarae",
+          "url": "https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156000,
+      "name": "Sossaup",
+      "url": "https://open.spotify.com/track/6y5UMIVVJDsULZwfZ0bNRX"
+    },
+    {
+      "album": {
         "name": "4inARow",
         "url": "https://open.spotify.com/album/6RKo0k7ZcKcAzO04ED4h98"
       },
@@ -4781,6 +4895,28 @@
     },
     {
       "album": {
+        "name": "SUPERINTENDENT",
+        "url": "https://open.spotify.com/album/5Qh5QiCIGUrtV1rUZwR3lz"
+      },
+      "artists": [
+        {
+          "name": "Damzys",
+          "url": "https://open.spotify.com/artist/2hCN4Ef27UsZ5gSSPJXRhr"
+        },
+        {
+          "name": "scruz",
+          "url": "https://open.spotify.com/artist/13ARh4lBiewhrfLrBq7oDn"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158285,
+      "name": "SUPERINTENDENT",
+      "url": "https://open.spotify.com/track/5yWdiueO4zRccYrlfuEMvV"
+    },
+    {
+      "album": {
         "name": "Take a Trip",
         "url": "https://open.spotify.com/album/1M2cYEp1MdaWmuEz2OHFsG"
       },
@@ -4892,6 +5028,28 @@
       "duration_ms": 153600,
       "name": "The Gang",
       "url": "https://open.spotify.com/track/2pKvxpetsBNnGK2L4H64Rf"
+    },
+    {
+      "album": {
+        "name": "The Long Way",
+        "url": "https://open.spotify.com/album/0ohQJ1H0tN3bMfccSNpk9M"
+      },
+      "artists": [
+        {
+          "name": "Blanco",
+          "url": "https://open.spotify.com/artist/5FxsPS1K61fHEVB3FNZw6Y"
+        },
+        {
+          "name": "Kojey Radical",
+          "url": "https://open.spotify.com/artist/1HMhQzj2QXxR40zGDdaK6y"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194666,
+      "name": "The Long Way",
+      "url": "https://open.spotify.com/track/3nM8FrfQwX4kMUNygWZicg"
     },
     {
       "album": {
@@ -5240,7 +5398,7 @@
       ],
       "date_added": "2023-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 145234,
       "name": "troublin",
       "url": "https://open.spotify.com/track/6RDIrs0VD7gCUvcWZLAcJv"
@@ -5490,6 +5648,24 @@
       "duration_ms": 225423,
       "name": "White Ash",
       "url": "https://open.spotify.com/track/2sngouSS4sot4DR4qkX4Ef"
+    },
+    {
+      "album": {
+        "name": "White Peach Sangria",
+        "url": "https://open.spotify.com/album/4y80BlorpM3fplK7C8G8Ip"
+      },
+      "artists": [
+        {
+          "name": "re'mi",
+          "url": "https://open.spotify.com/artist/3b9VVrJfw8sLw7Qok1Ja5Y"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116739,
+      "name": "White Peach Sangria",
+      "url": "https://open.spotify.com/track/12UqNOESUMgvJu7Radn2xl"
     },
     {
       "album": {

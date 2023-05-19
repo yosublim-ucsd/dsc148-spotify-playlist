@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXattPCMpISJh.md) - [plain]
 
 > A new take on a classic sound\. Cover: Jessie Ware
 
-[Spotify](https://open.spotify.com/user/spotify) - 87,222 likes - 100 songs - 6 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 87,325 likes - 100 songs - 6 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [MOVE](https://open.spotify.com/track/6RemYyY2mxu0N8qjjrShnQ) | [Idina Menzel](https://open.spotify.com/artist/73Np75Wv2tju61Eo9Zw4IR) | [MOVE](https://open.spotify.com/album/4nMAiQTGaqm3fKz1e2Vw7p) | 2:44 |
+| 1 | [Move](https://open.spotify.com/track/6RemYyY2mxu0N8qjjrShnQ) | [Idina Menzel](https://open.spotify.com/artist/73Np75Wv2tju61Eo9Zw4IR) | [MOVE](https://open.spotify.com/album/4nMAiQTGaqm3fKz1e2Vw7p) | 2:44 |
 | 2 | [Freak Me Now](https://open.spotify.com/track/2WMlWvN0y7xoOEtftxdHvz) | [Jessie Ware](https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc) | [That! Feels Good!](https://open.spotify.com/album/17g3sAeWfpHSJlqMHuRAr6) | 3:28 |
 | 3 | [Missing You \- Michael Gray Remix](https://open.spotify.com/track/0siT9iz6YIO3GlQbvzZEet) | [Artful](https://open.spotify.com/artist/1VFA40Lt5TiFr0qWoWNQfw), [Ridney](https://open.spotify.com/artist/5UmoeWk7RM3v9w1DUL4XUD), [Terri Walker](https://open.spotify.com/artist/0x8TJV6fy1BwsZUpHJC13S), [Michael Gray](https://open.spotify.com/artist/2aM5jpQ0WTcQDeHsil8Ihz) | [Missing You \(Michael Gray Remix\)](https://open.spotify.com/album/10SDSrrDUmK3dDpmMXa1Gi) | 2:59 |
 | 4 | [Muscle Memory](https://open.spotify.com/track/2Yc4A9Ds0Y4TwX2wQc4FVl) | [KAMILLE](https://open.spotify.com/artist/0XSz7OqyhKBKRq4ZU8WpAo), [Nile Rodgers](https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz) | [Muscle Memory](https://open.spotify.com/album/3F9BiYMpa8CzpaEf8gAByj) | 3:31 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXattPCMpISJh.md) - [plain]
 | 99 | [Uh Oh](https://open.spotify.com/track/3H22B0hgj1YTiqalHYmlcd) | [Maggie Szabo](https://open.spotify.com/artist/1V5IVmwHG2veT0CUw3kb48) | [Uh Oh](https://open.spotify.com/album/01uvUQQX7kHhylGcUxviGD) | 3:01 |
 | 100 | [Alegría \(Franc Moody Remix\)](https://open.spotify.com/track/4pXlg4wiARIhv0CHx0pFMd) | [RELATIN](https://open.spotify.com/artist/0t3hsCFzCFOP4Zev9DOIw8), [Elia y Elizabeth](https://open.spotify.com/artist/6R6PqKFwzVPIePSH8BCKvf), [Franc Moody](https://open.spotify.com/artist/10GT4yz8c6xjjnPGtGPI1l) | [Alegría \(Franc Moody Remix\)](https://open.spotify.com/album/2Txxw56PHJcWihrTHjFubI) | 3:48 |
 
-Snapshot ID: `MCxjYjMzNzkwODYwNWVmMjJhYjBkZGU1ZTE5ZTcxNjQ2MjUyNzExMjQy`
+Snapshot ID: `MCwxY2M0MjNhNWFhYTcwYjk4OGNlNDdhYzBjY2U2ZDE5NDdlOTkxZGQz`

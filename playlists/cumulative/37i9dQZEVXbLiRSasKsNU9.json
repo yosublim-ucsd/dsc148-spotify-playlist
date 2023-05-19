@@ -7488,7 +7488,7 @@
       ],
       "date_added": "2023-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 179680,
       "name": "EAEA",
       "url": "https://open.spotify.com/track/1NzoDUn5bLqpS36GD00Smi"
@@ -24627,6 +24627,24 @@
     },
     {
       "album": {
+        "name": "Stay",
+        "url": "https://open.spotify.com/album/2HBUhieiceu40d9dvyJ7fY"
+      },
+      "artists": [
+        {
+          "name": "Monika Linkyte",
+          "url": "https://open.spotify.com/artist/5MRYARxlS1hlWFYXGHMztL"
+        }
+      ],
+      "date_added": "2023-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184285,
+      "name": "Stay",
+      "url": "https://open.spotify.com/track/6ouoSKOsxFa7wV6wMJHAOy"
+    },
+    {
+      "album": {
         "name": "Stay Alive (Prod. SUGA of BTS)",
         "url": "https://open.spotify.com/album/6nvSZLAsbg56fGSCVm8fL9"
       },
@@ -27556,10 +27574,6 @@
         {
           "name": "Noa Kirel",
           "url": "https://open.spotify.com/artist/1wak0ZG1LUrZPYx8RDTQoD"
-        },
-        {
-          "name": "\u05db\u05d0\u05df - \u05ea\u05d0\u05d2\u05d9\u05d3 \u05d4\u05e9\u05d9\u05d3\u05d5\u05e8 \u05d4\u05d9\u05e9\u05e8\u05d0\u05dc\u05d9",
-          "url": "https://open.spotify.com/artist/2N9Cvh536WBOePrevGKIlj"
         }
       ],
       "date_added": "2023-05-15",

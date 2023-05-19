@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9uKvEw7Rwtq.md) - [plain]
 
 > Soaring soundscapes from the most epic Post\-Rock artists.
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,766 likes - 100 songs - 8 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 68,882 likes - 100 songs - 8 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,15 +77,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9uKvEw7Rwtq.md) - [plain]
 | 67 | [My Courtesan](https://open.spotify.com/track/3Mpwsnfe7Q6AspY7aM7qvF) | [Robin Guthrie](https://open.spotify.com/artist/3ZqRIzadY4WYQEg4Hj2vGC) | [Mockingbird Love](https://open.spotify.com/album/78iqh8E1w21f5RxVUNXPuq) | 2:53 |
 | 68 | [Those Winter Sundays](https://open.spotify.com/track/5SwqHpKZdlWOBGsAUdg1me) | [Have a Cigar](https://open.spotify.com/artist/3UN9aDpa6YerR53G9MB73H) | [Those Winter Sundays](https://open.spotify.com/album/70WVA0g1iS6nFjOk7KSGNP) | 3:49 |
 | 69 | [Farewell, Stars \- The American Dollar Rework](https://open.spotify.com/track/7oEKxSpVRJo4SgBMl6DAhR) | [Message To Bears](https://open.spotify.com/artist/6MmQrV24zUeieNf027zkh3), [The American Dollar](https://open.spotify.com/artist/5r4OqYJL7JrtZlffx7FJlb) | [Farewell, Stars \(The American Dollar Rework\)](https://open.spotify.com/album/7MNXIkzZJo7oNOezVyDTXW) | 3:48 |
-| 70 | [An Absolute Living Hell, Pt\. 1](https://open.spotify.com/track/4wMM0j73CI2PwLQn0HjUEl) | [Worriedaboutsatan](https://open.spotify.com/artist/2C1P3ThaFeWtrpLNwWzpTT) | [Bloodsport](https://open.spotify.com/album/2EmIqtCm4czU2Kc6YbVE3J) | 3:41 |
-| 71 | [Sleeper](https://open.spotify.com/track/6BaIyArPOHgL2tvLFJ2mws) | [Pray for Sound](https://open.spotify.com/artist/3pmb6EnakP15oTPwkUndJx) | [Dreamer](https://open.spotify.com/album/1faB36WLHliVa6xqjzTtcu) | 5:32 |
+| 70 | [Sleeper](https://open.spotify.com/track/6BaIyArPOHgL2tvLFJ2mws) | [Pray for Sound](https://open.spotify.com/artist/3pmb6EnakP15oTPwkUndJx) | [Dreamer](https://open.spotify.com/album/1faB36WLHliVa6xqjzTtcu) | 5:32 |
+| 71 | [An Absolute Living Hell, Pt\. 1](https://open.spotify.com/track/4wMM0j73CI2PwLQn0HjUEl) | [Worriedaboutsatan](https://open.spotify.com/artist/2C1P3ThaFeWtrpLNwWzpTT) | [Bloodsport](https://open.spotify.com/album/2EmIqtCm4czU2Kc6YbVE3J) | 3:41 |
 | 72 | [Leaking Light](https://open.spotify.com/track/1u03aPhHVE5JM8U16842xB) | [Lachlan R\. Dale](https://open.spotify.com/artist/2RSfekOwEazZ2AzL0HB0t9) | [Leaking Light](https://open.spotify.com/album/5tqUNXVJ9xo3ygoSsmCBbG) | 2:54 |
 | 73 | [Les Amourettes](https://open.spotify.com/track/6eOmK8yn18IqGAHrNpXf9b) | [Robin Guthrie](https://open.spotify.com/artist/3ZqRIzadY4WYQEg4Hj2vGC) | [Pearldiving](https://open.spotify.com/album/3qeHLQq8W62NOm4SH9Yya6) | 2:32 |
 | 74 | [Monastic](https://open.spotify.com/track/6hZtYl0fhKYJ3ptc6DiLnL) | [Seefeel](https://open.spotify.com/artist/0jyH4jtanxaysaxwDVhR6f) | [Succour \(Redux\)](https://open.spotify.com/album/0ZFh0hss22TukAygB7LufU) | 6:33 |
 | 75 | [Abschied](https://open.spotify.com/track/5l0a62AwHR4Im5HZ7uhMAy) | [Ausklang](https://open.spotify.com/artist/1ZcJinECNbDAgjHi91jf8Z) | [Chronos](https://open.spotify.com/album/4w6Khg9vi5Dsw9Si0M8fxn) | 5:55 |
 | 76 | [Enfold](https://open.spotify.com/track/28NPBeo0MgVDYCJnu2C5Hq) | [Soars](https://open.spotify.com/artist/7iLGqGUSoPQtj8OH61HFwZ) | [Enfold](https://open.spotify.com/album/3URn9GW2uXY7mTXLXs89oS) | 3:46 |
-| 77 | [A Letter from the Past](https://open.spotify.com/track/2Da5dLkBzADcZ0qcTOuiYk) | [Carlos Ferreira](https://open.spotify.com/artist/7J6KXAg6cV2B2BKGYZJhEB), [bu.re\_](https://open.spotify.com/artist/6CJUEvrgdk2Qy2M8M8ucy0) | [Momentary Ghosts](https://open.spotify.com/album/7sAHthUnnbu2lpLkzDdqiI) | 4:43 |
-| 78 | [Dark Awakening](https://open.spotify.com/track/4kT3wvtV8P40nwbw5vRGlk) | [Lustmord](https://open.spotify.com/artist/3FpCFpdoJOrGuR3G7UBgC7), [Ihsahn](https://open.spotify.com/artist/2E1jLcUfqd9w2XtybNB2Za) | [Dark Awakening](https://open.spotify.com/album/23tATsqQ7WTsGCMByB3PBh) | 4:41 |
+| 77 | [Dark Awakening](https://open.spotify.com/track/4kT3wvtV8P40nwbw5vRGlk) | [Lustmord](https://open.spotify.com/artist/3FpCFpdoJOrGuR3G7UBgC7), [Ihsahn](https://open.spotify.com/artist/2E1jLcUfqd9w2XtybNB2Za) | [Dark Awakening](https://open.spotify.com/album/23tATsqQ7WTsGCMByB3PBh) | 4:41 |
+| 78 | [A Letter from the Past](https://open.spotify.com/track/2Da5dLkBzADcZ0qcTOuiYk) | [Carlos Ferreira](https://open.spotify.com/artist/7J6KXAg6cV2B2BKGYZJhEB), [bu.re\_](https://open.spotify.com/artist/6CJUEvrgdk2Qy2M8M8ucy0) | [Momentary Ghosts](https://open.spotify.com/album/7sAHthUnnbu2lpLkzDdqiI) | 4:43 |
 | 79 | [Astronomer](https://open.spotify.com/track/19XzE3XTdm2wwA6Y5OnK5L) | [From Overseas](https://open.spotify.com/artist/31PP2XORcCMGHAa8vzJEUV) | [Home](https://open.spotify.com/album/0qYTcGFEUHoPldbtmQS7Ig) | 3:50 |
 | 80 | [Dusk](https://open.spotify.com/track/3iGE1kGYpyDTHVSVTS55os) | [Sleepsleeprepeat](https://open.spotify.com/artist/5y1SFoys6rcYo6dj6rmGPR), [Perry Frank](https://open.spotify.com/artist/55vXnVPAEwec4swGa4P1GN) | [Dusk](https://open.spotify.com/album/3AKrk1nvaTNAxwb17DEheV) | 4:22 |
 | 81 | [Peterson](https://open.spotify.com/track/7gfMja30N1mYv2P0RWRXyE) | [The American Dollar](https://open.spotify.com/artist/5r4OqYJL7JrtZlffx7FJlb) | [The American Dollar](https://open.spotify.com/album/3t9U8bBmsP58lh36ujoweF) | 3:19 |
@@ -94,8 +94,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9uKvEw7Rwtq.md) - [plain]
 | 84 | [\(not\) alone](https://open.spotify.com/track/5H160uvDJVx2e0kfVu4s9u) | [Johannes Baumer](https://open.spotify.com/artist/2UKaC09K4X0OpVUUAergSt) | [\(not\) alone](https://open.spotify.com/album/51dQuuCnhq9ofFbktytfSx) | 4:39 |
 | 85 | [Floating Above Saturn](https://open.spotify.com/track/1EWBehRAUyHUnYeKhsvDA6) | [Framed By Stars](https://open.spotify.com/artist/0EQefCt8p1d8k4CDIl3Hwf) | [Floating Above Saturn](https://open.spotify.com/album/5Ni74Rnarwg2biw5nSIrnW) | 2:17 |
 | 86 | [10](https://open.spotify.com/track/5URbMHeFpOmRGUDZHs01po) | [Sleepsleeprepeat](https://open.spotify.com/artist/5y1SFoys6rcYo6dj6rmGPR) | [10](https://open.spotify.com/album/48zXekl1P8gRk1QQNa88MP) | 2:51 |
-| 87 | [Pavan II](https://open.spotify.com/track/3GyMswLMHlC5bAEnqWA5qr) | [Cahill Costello](https://open.spotify.com/artist/2Hx8lclV6wl5gP4ronSGWm) | [Offworld](https://open.spotify.com/album/4uytwEGcmllVKV0xEBMM2h) | 8:01 |
-| 88 | [The Station](https://open.spotify.com/track/2jmpCznCIvcbgMsfG58Y7k) | [Thurston Moore](https://open.spotify.com/artist/1J4ACYB6yMqd79q3rjskqs) | [Screen Time](https://open.spotify.com/album/5JjJ2cviD6DcyIWRqXX4x3) | 2:44 |
+| 87 | [The Station](https://open.spotify.com/track/2jmpCznCIvcbgMsfG58Y7k) | [Thurston Moore](https://open.spotify.com/artist/1J4ACYB6yMqd79q3rjskqs) | [Screen Time](https://open.spotify.com/album/5JjJ2cviD6DcyIWRqXX4x3) | 2:44 |
+| 88 | [Pavan II](https://open.spotify.com/track/3GyMswLMHlC5bAEnqWA5qr) | [Cahill Costello](https://open.spotify.com/artist/2Hx8lclV6wl5gP4ronSGWm) | [Offworld](https://open.spotify.com/album/4uytwEGcmllVKV0xEBMM2h) | 8:01 |
 | 89 | [Love is a Shelter](https://open.spotify.com/track/1uPfdyNjqHB46zGj7CWoyk) | [All Stars Dying](https://open.spotify.com/artist/28J3Xc87YW3bb8e5iWptNP), [Make Like A Tree](https://open.spotify.com/artist/2FcYVCAttLCTrobIOwkxsk) | [Love is a Shelter](https://open.spotify.com/album/3fXswSDp0atec4RaaQxfwX) | 6:00 |
 | 90 | [No Clearings, No Wide Open Fields](https://open.spotify.com/track/6Axyi6GyT3ukOI1bDKEF9W) | [Floor Overhead](https://open.spotify.com/artist/2m5lxVt2oor2tORE10W6z9) | [No Clearings, No Wide Open Fields](https://open.spotify.com/album/68m22xnDemzoiTQwnsQNM4) | 6:07 |
 | 91 | [The Biting Air, the Howling Wind](https://open.spotify.com/track/3uVEwa1M8LSuDd6kR845SW) | [Cursebitten](https://open.spotify.com/artist/77advwCNdJgfdi3QR8BF38) | [Northwarder](https://open.spotify.com/album/43p0klhjyFgB5XOWqwsmku) | 3:31 |
@@ -103,10 +103,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9uKvEw7Rwtq.md) - [plain]
 | 93 | [Back To Dangerous](https://open.spotify.com/track/60E5CKMclWgAFxcqKVz0rg) | [Zelienople](https://open.spotify.com/artist/7JoqPuWVcwttLMTT0jgSgY) | [Pajama Avenue](https://open.spotify.com/album/3qAEUZXgpWwJSt9YxyAB7E) | 3:52 |
 | 94 | [Lakeshore](https://open.spotify.com/track/3HGFKsehiopbAKGrzWVjGc) | [Lost Horse Mine](https://open.spotify.com/artist/6IAXzJ1w04k1y0IoDujIBV) | [Lakeshore](https://open.spotify.com/album/1YgvjkUsjMJbJGxcvun4RM) | 2:44 |
 | 95 | [Deliveries](https://open.spotify.com/track/2fwzxX1uakYBKc5cT0kFN3) | [From Overseas](https://open.spotify.com/artist/31PP2XORcCMGHAa8vzJEUV) | [Volcan](https://open.spotify.com/album/1oeoW3Ucs6A2zSMMgMS0UW) | 4:44 |
-| 96 | [Old Moon](https://open.spotify.com/track/2nbmmiicbkivIF0olzk7JJ) | [McLarnan](https://open.spotify.com/artist/0SQZ2Dcu8oLoNZs6Pwqrwt) | [Songs to Disappear to](https://open.spotify.com/album/3aLsCurarCN5BSpLQtz5uz) | 4:17 |
-| 97 | [Samadhi](https://open.spotify.com/track/1RDmSWTi4ga2alUBcojyXz) | [Ben Reneer](https://open.spotify.com/artist/7asvd9rr7RZ56r10uKWd73) | [Samadhi](https://open.spotify.com/album/0pdogBpTf4tVZv3AxKIThW) | 4:25 |
+| 96 | [Samadhi](https://open.spotify.com/track/1RDmSWTi4ga2alUBcojyXz) | [Ben Reneer](https://open.spotify.com/artist/7asvd9rr7RZ56r10uKWd73) | [Samadhi](https://open.spotify.com/album/0pdogBpTf4tVZv3AxKIThW) | 4:25 |
+| 97 | [Old Moon](https://open.spotify.com/track/2nbmmiicbkivIF0olzk7JJ) | [McLarnan](https://open.spotify.com/artist/0SQZ2Dcu8oLoNZs6Pwqrwt) | [Songs to Disappear to](https://open.spotify.com/album/3aLsCurarCN5BSpLQtz5uz) | 4:17 |
 | 98 | [Cura](https://open.spotify.com/track/2jxIRC8w0dO8jfEVMs37On) | [Call the Ocean](https://open.spotify.com/artist/4EKrAbJrw0NND9p13uhYAr) | [Cura](https://open.spotify.com/album/2Eln7i165wjr38KNPIrzSU) | 7:19 |
 | 99 | [Open Hill](https://open.spotify.com/track/5z8WzfZK6sapGFHOUYxbHW) | [Broken Peak](https://open.spotify.com/artist/1BpFMGgHOZ6pGHrby548Os), [Dear Gravity](https://open.spotify.com/artist/28MEj0HGdwvJYdbMAVpXU6) | [Horizon](https://open.spotify.com/album/2FnyPVqxMi3DhDL9Ms53we) | 4:16 |
-| 100 | [Nightfall](https://open.spotify.com/track/2FNfyF9i5CcnnxCERfAlU1) | [Aatom](https://open.spotify.com/artist/3jZNP1cGIr9jG32lxHUezh) | [Nightfall](https://open.spotify.com/album/4AiU1Zx8RwfwrQvgblweFy) | 4:06 |
+| 100 | [Secret Colours](https://open.spotify.com/track/1NMCxRadb4KO7Kjosst5lA) | [Carlos Ferreira](https://open.spotify.com/artist/7J6KXAg6cV2B2BKGYZJhEB), [deer meadow](https://open.spotify.com/artist/7IjTtPufpIvS5zpffa9FXr) | [In a Sad Red Dusk, We Were Finally Leaving](https://open.spotify.com/album/5kaGO4pw3kdASdMgve60vR) | 5:18 |
 
-Snapshot ID: `MCxmODBhMjZkZjFlNmE4MjhjNDUwZWU2OTExN2I2OGM0ZjEyM2I1ZDJj`
+Snapshot ID: `MCxjMjFhOWVjNTUyMTYzNGMzZTU1YjRmOWQ4N2IzZGU4YTQ0MmI0MmY4`

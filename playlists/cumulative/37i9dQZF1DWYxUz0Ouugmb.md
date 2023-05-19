@@ -2,9 +2,9 @@
 
 ### [RADAR Indonesia](https://open.spotify.com/playlist/37i9dQZF1DWYxUz0Ouugmb)
 
-> Deretan musisi dalam negeri yang patut diantisipasi\. Cover: Bernadya
+> Deretan musisi dalam negeri yang patut diantisipasi\. Cover: Stereo Wall
 
-150 songs - 9 hr 25 min
+151 songs - 9 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,6 +49,7 @@
 | [HANDSOME](https://open.spotify.com/track/79deaUtPDHb03XPGbw9vkn) | [Warren Hue](https://open.spotify.com/artist/4qcKNkdxUidhvUByB2eQ6g) | [HANDSOME](https://open.spotify.com/album/4cFVHMqi4KvkOrb6zlhdvT) | 2:06 | 2022-06-23 | 2023-04-14 |
 | [Happy Birthday](https://open.spotify.com/track/5Hs4s5CLgXlFEFe1M3cdKg) | [Basboi](https://open.spotify.com/artist/0mmlthXmJKSeIhvmXso3z9) | [Happy Birthday](https://open.spotify.com/album/7yeVTWzr0IeAso9hQSZ5LQ) | 2:54 | 2021-11-25 | 2022-03-25 |
 | [Heartbeat](https://open.spotify.com/track/4pGGz0mCKGyORnYXIxcmd1) | [Mawar de Jongh](https://open.spotify.com/artist/6RoZip1Hn7ahR6MjzBKKLK), [Julian Jacob](https://open.spotify.com/artist/3hF7qPC3gzhtfaKANEhKB9) | [Heartbeat](https://open.spotify.com/album/7hez8uQfAf80j8KI1oj2Bb) | 3:47 | 2021-11-25 | 2022-03-25 |
+| [Home](https://open.spotify.com/track/3qe11lCOsFOHseZBUAxbzY) | [Stereo Wall](https://open.spotify.com/artist/0kw7tMniMnrp9Pcr7vgDAm) | [Prologue](https://open.spotify.com/album/5xGgVRebfE9c1LkYPdK21s) | 4:02 | 2023-05-18 |  |
 | [hometonone](https://open.spotify.com/track/2r3QRuErB1Lgck5CqI2KH4) | [noui](https://open.spotify.com/artist/3NNLu9Wli3fbZW22xzN08B) | [hometonone](https://open.spotify.com/album/1uadeW46GYVBfUsqtK45in) | 2:58 | 2022-03-24 | 2023-04-14 |
 | [I Beg](https://open.spotify.com/track/48r2oRtw3RSOZHnuQFWZWb) | [Mezzaluna](https://open.spotify.com/artist/2B8y0aE3IZYSeyKYj34W6a) | [I Beg](https://open.spotify.com/album/4GskNwqLX1y2uHhL73JH9j) | 2:52 | 2022-03-24 | 2023-04-14 |
 | [i don’t need u](https://open.spotify.com/track/3nrNlNub0uPSexmYXrbhHh) | [GANGGA](https://open.spotify.com/artist/4nd1IvFkUoQinjvYdUmOBI) | [It's Never Easy](https://open.spotify.com/album/6GC6ht6osWTttTsnFXNc8L) | 1:48 | 2022-01-27 | 2022-03-25 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "The best in current indie rock. Cover: Gengahr",
+  "description": "The best in current indie rock. Cover: Hak Baker",
   "name": "pulp",
   "tracks": [
     {
@@ -1813,6 +1813,24 @@
     },
     {
       "album": {
+        "name": "DOOLALLY",
+        "url": "https://open.spotify.com/album/3TZLSPVmWjBqmwqXn1Xal5"
+      },
+      "artists": [
+        {
+          "name": "Hak Baker",
+          "url": "https://open.spotify.com/artist/5QsqiLFA5Z2gmpKBbxQB2j"
+        }
+      ],
+      "date_added": "2023-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202493,
+      "name": "Doolally",
+      "url": "https://open.spotify.com/track/5KiOQH7AdJMxAo6LtgkQHg"
+    },
+    {
+      "album": {
         "name": "Dreamer",
         "url": "https://open.spotify.com/album/1U0eun2BDlw7RyLomRJv0V"
       },
@@ -2148,7 +2166,7 @@
       ],
       "date_added": "2022-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 199328,
       "name": "Famous",
       "url": "https://open.spotify.com/track/5yqJYw5xgVn46fc0IZ55Mz"
@@ -3084,7 +3102,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 177173,
       "name": "how would you know",
       "url": "https://open.spotify.com/track/6kH4hgCLFiVuP9JVQnAucy"
@@ -5115,6 +5133,24 @@
     },
     {
       "album": {
+        "name": "Wake Up & It's Over",
+        "url": "https://open.spotify.com/album/5LHuQr88XpvvuGpqgsu2gr"
+      },
+      "artists": [
+        {
+          "name": "Lovejoy",
+          "url": "https://open.spotify.com/artist/33tFkBLsl6f8TjKkV0uF0C"
+        }
+      ],
+      "date_added": "2023-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227546,
+      "name": "Portrait of a Blank Slate",
+      "url": "https://open.spotify.com/track/7505qe0xzCuDPaILCURnOC"
+    },
+    {
+      "album": {
         "name": "Praise You",
         "url": "https://open.spotify.com/album/0FLyhyx0Ui5m8esZnPE6Qi"
       },
@@ -5511,6 +5547,24 @@
     },
     {
       "album": {
+        "name": "Seconds",
+        "url": "https://open.spotify.com/album/5lNnIDwtLluGqbDmgD62Nn"
+      },
+      "artists": [
+        {
+          "name": "Beach Fossils",
+          "url": "https://open.spotify.com/artist/1bwUhKRmEkOZ1wuTnV9XjC"
+        }
+      ],
+      "date_added": "2023-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187925,
+      "name": "Seconds",
+      "url": "https://open.spotify.com/track/1tObJybm96JPKfR56vTh7m"
+    },
+    {
+      "album": {
         "name": "Security",
         "url": "https://open.spotify.com/album/7BbLKYoBNvPRnHnFQq1Fkt"
       },
@@ -5724,6 +5778,24 @@
       "duration_ms": 231774,
       "name": "Shitshow",
       "url": "https://open.spotify.com/track/1PX8nxFjgtuKgANbNNmYcJ"
+    },
+    {
+      "album": {
+        "name": "Should I",
+        "url": "https://open.spotify.com/album/17tq1FC1vDQJkTRNCNYcXc"
+      },
+      "artists": [
+        {
+          "name": "Sir Chloe",
+          "url": "https://open.spotify.com/artist/6rniTPs9zN26kYnkPdFl1U"
+        }
+      ],
+      "date_added": "2023-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148301,
+      "name": "Should I",
+      "url": "https://open.spotify.com/track/5n2SP6R5k7LS3GdJEirPeM"
     },
     {
       "album": {
@@ -6387,6 +6459,24 @@
     },
     {
       "album": {
+        "name": "The Deep End",
+        "url": "https://open.spotify.com/album/5rpid48frWQDEjW1vrxgk8"
+      },
+      "artists": [
+        {
+          "name": "The Royston Club",
+          "url": "https://open.spotify.com/artist/5N5jf98OOEf3uAIJpi1deD"
+        }
+      ],
+      "date_added": "2023-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197013,
+      "name": "The Deep End",
+      "url": "https://open.spotify.com/track/46vIG0pxtuxyLEnJgAzm3R"
+    },
+    {
+      "album": {
         "name": "The Drop",
         "url": "https://open.spotify.com/album/2L87oM02UDSd6H2VixIuOa"
       },
@@ -6596,7 +6686,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 137000,
       "name": "Thick of the Honey",
       "url": "https://open.spotify.com/track/4o4LGrbQuSeJZEoLxIOVSx"
@@ -6758,7 +6848,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 231684,
       "name": "Trouble",
       "url": "https://open.spotify.com/track/2NZyf2jJaf0PntMfTe5fPf"
@@ -7046,7 +7136,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 202786,
       "name": "What\u2019s Wrong With Me",
       "url": "https://open.spotify.com/track/4T7MuEyOso6rFFp3Ouvpse"

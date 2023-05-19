@@ -4,7 +4,7 @@
 
 > Les femmes montent le son\. Photo : Kim
 
-801 songs - 1 day 17 hr 48 min
+802 songs - 1 day 17 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,7 +52,8 @@
 | [Au voleur](https://open.spotify.com/track/7sRrhdGXx8CCsB8PxqwBzH) | [Maud Lübeck](https://open.spotify.com/artist/4IBVixLpdQQyQjvB1PIAoj) | [Au voleur](https://open.spotify.com/album/2NkPm7eyv8qom6IIEjen2e) | 3:03 | 2022-02-01 | 2022-03-08 |
 | [Aura](https://open.spotify.com/track/5KlrAjhvGGi4hcsaxagCfj) | [Nell Widmer](https://open.spotify.com/artist/3Wt1O2klP0ptRHnUwBjQx2) | [Aura](https://open.spotify.com/album/7uTr0JAZXBRXQ3UY8jQce6) | 1:54 | 2023-01-31 | 2023-03-01 |
 | [Aussi fou](https://open.spotify.com/track/44KgBXNkTTeoUOxdIMx8Df) | [Charlie Motto](https://open.spotify.com/artist/6zdCsWv5dvlyaJhk0nMmfb) | [Aussi fou](https://open.spotify.com/album/62oW0RbQHKayXG1sYDkoI6) | 2:27 | 2023-02-28 | 2023-04-05 |
-| [Autour de toi](https://open.spotify.com/track/4Hqku4GYlVDyXhpb6LnFbC) | [Elia](https://open.spotify.com/artist/5KbznS5SUZOb7skpdIO9J6) | [Autour de toi](https://open.spotify.com/album/59LLEdXEcyErIKoUP71tEQ) | 2:47 | 2023-05-02 |  |
+| [Autour de toi](https://open.spotify.com/track/4Hqku4GYlVDyXhpb6LnFbC) | [Elia](https://open.spotify.com/artist/5KbznS5SUZOb7skpdIO9J6) | [Autour de toi](https://open.spotify.com/album/59LLEdXEcyErIKoUP71tEQ) | 2:47 | 2023-05-02 | 2023-05-19 |
+| [Autour de toi](https://open.spotify.com/track/5C7YiNSgYMW4taGKFyXXfp) | [Elia](https://open.spotify.com/artist/5KbznS5SUZOb7skpdIO9J6) | [Autour de toi](https://open.spotify.com/album/2RTmyUhJZeAC3MpHr39Iup) | 2:48 | 2023-05-02 |  |
 | [Autour de toi](https://open.spotify.com/track/38xSxOPW6mqqosiWxttId3) | [Linh](https://open.spotify.com/artist/15h1AB4jpLCdXLZNT7glWj) | [Autour de toi](https://open.spotify.com/album/5EWc1VBeB0UTxyOJwVhSe7) | 2:40 | 2022-06-01 | 2022-07-06 |
 | [Avalanche](https://open.spotify.com/track/03xPGqhzSxcTGtWQYdE0RG) | [Mathilda](https://open.spotify.com/artist/3G3kiaWiTm0mUdzujLRuji) | [Avalanche](https://open.spotify.com/album/78D5bJfpIQi6bEUM0ev4Nw) | 3:26 | 2022-05-03 | 2022-06-01 |
 | [Avant ou après](https://open.spotify.com/track/6hA8rl7PJa05qrYwGP2gsd) | [Julia Jean\-Baptiste](https://open.spotify.com/artist/6YJvTbBj1vgz35rqWrhv81) | [Cinérama](https://open.spotify.com/album/5P2ENyl9oYsqKXVdyhJkcc) | 2:24 | 2023-01-31 | 2023-03-01 |

@@ -1,12 +1,12 @@
 {
   "description": "Descubre la escena del jazz en M\u00e9xico en la curadur\u00eda de los expertos Mariana P\u00e9rez,  Juan Carlos Reyes, Erik Montenegro y Jos\u00e9 Enrique Fern\u00e1ndez.",
-  "num_followers": 55773,
+  "num_followers": 55783,
   "original_name": "Jazz en M\u00e9xico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0MTBkMzZlZmIyM2FhNGNhZDc3YzNmYzQ5ODEzM2ZlYzNhZTQ0OTAz",
+  "snapshot_id": "MCw5NTNmMmJiZTFhMDc3ZjdjNDU5YWZjZmJmY2RmODg5MTIxMjI1MzAw",
   "tracks": [
     {
       "added_at": "2021-07-28 16:44:28",
@@ -255,22 +255,6 @@
     {
       "added_at": "2021-07-28 16:44:28",
       "album": {
-        "name": "...un poco mas.",
-        "url": "https://open.spotify.com/album/5lAACEe8qGeTZhrzlCr8wM"
-      },
-      "artists": [
-        {
-          "name": "Na'rimbo",
-          "url": "https://open.spotify.com/artist/3WM7lsbcWyFWHFYmwTQKLt"
-        }
-      ],
-      "duration_ms": 303893,
-      "name": "Naila",
-      "url": "https://open.spotify.com/track/28V7R9TGxz2Nn6mhZXwHGh"
-    },
-    {
-      "added_at": "2021-07-28 16:44:28",
-      "album": {
         "name": "15 \u00c9xitos Mundiales para Bailar Con Luis Arcaraz y Su Orquesta",
         "url": "https://open.spotify.com/album/0a5X9Zd8FOXPw8BntaLYL1"
       },
@@ -283,6 +267,22 @@
       "duration_ms": 148786,
       "name": "Charleston",
       "url": "https://open.spotify.com/track/2uaO2cX3D7kbbTnt1zEo43"
+    },
+    {
+      "added_at": "2021-07-28 16:44:28",
+      "album": {
+        "name": "...un poco mas.",
+        "url": "https://open.spotify.com/album/5lAACEe8qGeTZhrzlCr8wM"
+      },
+      "artists": [
+        {
+          "name": "Na'rimbo",
+          "url": "https://open.spotify.com/artist/3WM7lsbcWyFWHFYmwTQKLt"
+        }
+      ],
+      "duration_ms": 303893,
+      "name": "Naila",
+      "url": "https://open.spotify.com/track/28V7R9TGxz2Nn6mhZXwHGh"
     },
     {
       "added_at": "2021-07-28 16:44:28",
@@ -307,18 +307,22 @@
     {
       "added_at": "2021-07-28 16:44:28",
       "album": {
-        "name": "Guidum",
-        "url": "https://open.spotify.com/album/6h5iqyzf6ibooXoRWRoPcx"
+        "name": "2 Cartas",
+        "url": "https://open.spotify.com/album/63hYNPwrWjNuTj9uxazvW3"
       },
       "artists": [
         {
-          "name": "Abraham Laboriel",
-          "url": "https://open.spotify.com/artist/2KOqNGzvxHWkz3e18NkgVW"
+          "name": "Daniel, Me Est\u00e1s Matando",
+          "url": "https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE"
+        },
+        {
+          "name": "Antonio S\u00e1nchez",
+          "url": "https://open.spotify.com/artist/19KpCg8O15A2eZ416EyFdw"
         }
       ],
-      "duration_ms": 167026,
-      "name": "Breakfast At Tiffany's",
-      "url": "https://open.spotify.com/track/3oqKQoJnijk3Tu97MEtgcd"
+      "duration_ms": 285386,
+      "name": "2 Cartas",
+      "url": "https://open.spotify.com/track/1BKByJotqMPplXpnaovvr5"
     },
     {
       "added_at": "2023-04-13 19:45:15",
@@ -343,22 +347,34 @@
     {
       "added_at": "2021-07-28 16:44:28",
       "album": {
-        "name": "2 Cartas",
-        "url": "https://open.spotify.com/album/63hYNPwrWjNuTj9uxazvW3"
+        "name": "Guidum",
+        "url": "https://open.spotify.com/album/6h5iqyzf6ibooXoRWRoPcx"
       },
       "artists": [
         {
-          "name": "Daniel, Me Est\u00e1s Matando",
-          "url": "https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE"
-        },
-        {
-          "name": "Antonio S\u00e1nchez",
-          "url": "https://open.spotify.com/artist/19KpCg8O15A2eZ416EyFdw"
+          "name": "Abraham Laboriel",
+          "url": "https://open.spotify.com/artist/2KOqNGzvxHWkz3e18NkgVW"
         }
       ],
-      "duration_ms": 285386,
-      "name": "2 Cartas",
-      "url": "https://open.spotify.com/track/1BKByJotqMPplXpnaovvr5"
+      "duration_ms": 167026,
+      "name": "Breakfast At Tiffany's",
+      "url": "https://open.spotify.com/track/3oqKQoJnijk3Tu97MEtgcd"
+    },
+    {
+      "added_at": "2021-07-28 16:44:28",
+      "album": {
+        "name": "...un poco mas.",
+        "url": "https://open.spotify.com/album/5lAACEe8qGeTZhrzlCr8wM"
+      },
+      "artists": [
+        {
+          "name": "Na'rimbo",
+          "url": "https://open.spotify.com/artist/3WM7lsbcWyFWHFYmwTQKLt"
+        }
+      ],
+      "duration_ms": 370613,
+      "name": "Al son de la marimba",
+      "url": "https://open.spotify.com/track/2ASMYuPSrYkM3zk3E8uBWh"
     },
     {
       "added_at": "2021-07-28 16:44:28",
@@ -391,22 +407,6 @@
       "duration_ms": 523748,
       "name": "Bad Hombres Y Mujeres",
       "url": "https://open.spotify.com/track/4NGb4Tkvgzqz58SA3NNl8W"
-    },
-    {
-      "added_at": "2021-07-28 16:44:28",
-      "album": {
-        "name": "...un poco mas.",
-        "url": "https://open.spotify.com/album/5lAACEe8qGeTZhrzlCr8wM"
-      },
-      "artists": [
-        {
-          "name": "Na'rimbo",
-          "url": "https://open.spotify.com/artist/3WM7lsbcWyFWHFYmwTQKLt"
-        }
-      ],
-      "duration_ms": 370613,
-      "name": "Al son de la marimba",
-      "url": "https://open.spotify.com/track/2ASMYuPSrYkM3zk3E8uBWh"
     },
     {
       "added_at": "2022-08-16 16:23:25",
@@ -451,18 +451,18 @@
     {
       "added_at": "2021-07-28 16:44:28",
       "album": {
-        "name": "Bonita",
-        "url": "https://open.spotify.com/album/633ctwpYwbwNrsVOWVANrb"
+        "name": "Jazz Vinil",
+        "url": "https://open.spotify.com/album/52WJbxe0xZuqq4UAChFNXX"
       },
       "artists": [
         {
-          "name": "Cuco Valtierra",
-          "url": "https://open.spotify.com/artist/2b973rD0RqYzSz9161lGIa"
+          "name": "Troker",
+          "url": "https://open.spotify.com/artist/4R8SN8dnDbzGwi5LvMjK8G"
         }
       ],
-      "duration_ms": 160031,
-      "name": "El Hombre Del Brazo De Oro",
-      "url": "https://open.spotify.com/track/5tkkYOcwmoql7pWZC8JXhr"
+      "duration_ms": 251586,
+      "name": "Fijate Que Suave",
+      "url": "https://open.spotify.com/track/1PwJUleR5YVeNBckjSXDTg"
     },
     {
       "added_at": "2021-07-28 16:44:28",
@@ -483,34 +483,18 @@
     {
       "added_at": "2021-07-28 16:44:28",
       "album": {
-        "name": "Jazz Vinil",
-        "url": "https://open.spotify.com/album/52WJbxe0xZuqq4UAChFNXX"
+        "name": "Bonita",
+        "url": "https://open.spotify.com/album/633ctwpYwbwNrsVOWVANrb"
       },
       "artists": [
         {
-          "name": "Troker",
-          "url": "https://open.spotify.com/artist/4R8SN8dnDbzGwi5LvMjK8G"
+          "name": "Cuco Valtierra",
+          "url": "https://open.spotify.com/artist/2b973rD0RqYzSz9161lGIa"
         }
       ],
-      "duration_ms": 251586,
-      "name": "Fijate Que Suave",
-      "url": "https://open.spotify.com/track/1PwJUleR5YVeNBckjSXDTg"
-    },
-    {
-      "added_at": "2021-07-28 16:44:28",
-      "album": {
-        "name": "Ventana espacial",
-        "url": "https://open.spotify.com/album/0sbaxSNpm7Fje9gOx6FhxG"
-      },
-      "artists": [
-        {
-          "name": "Filip y Woppe",
-          "url": "https://open.spotify.com/artist/0M9WmsqRszIYOTIxPfZLgC"
-        }
-      ],
-      "duration_ms": 254720,
-      "name": "Ventana espacial",
-      "url": "https://open.spotify.com/track/3HTcmAbqboUt0io2WCuI34"
+      "duration_ms": 160031,
+      "name": "El Hombre Del Brazo De Oro",
+      "url": "https://open.spotify.com/track/5tkkYOcwmoql7pWZC8JXhr"
     },
     {
       "added_at": "2021-07-28 16:44:28",
@@ -527,6 +511,22 @@
       "duration_ms": 113613,
       "name": "Dej\u00e9 mi amor en San Francisco (I Left My Heart in San Francisco)",
       "url": "https://open.spotify.com/track/0cPLgRRnadBPngTCXW8IQp"
+    },
+    {
+      "added_at": "2021-07-28 16:44:28",
+      "album": {
+        "name": "Ventana espacial",
+        "url": "https://open.spotify.com/album/0sbaxSNpm7Fje9gOx6FhxG"
+      },
+      "artists": [
+        {
+          "name": "Filip y Woppe",
+          "url": "https://open.spotify.com/artist/0M9WmsqRszIYOTIxPfZLgC"
+        }
+      ],
+      "duration_ms": 254720,
+      "name": "Ventana espacial",
+      "url": "https://open.spotify.com/track/3HTcmAbqboUt0io2WCuI34"
     },
     {
       "added_at": "2022-03-30 03:01:09",
@@ -567,6 +567,30 @@
     {
       "added_at": "2021-07-28 16:44:28",
       "album": {
+        "name": "Qui\u00e9n Eres T\u00fa?",
+        "url": "https://open.spotify.com/album/6627kcDKivQe10EdHUDmok"
+      },
+      "artists": [
+        {
+          "name": "Iraida Noriega",
+          "url": "https://open.spotify.com/artist/5nOZrHmLp5IoE7ZzJYZOfi"
+        },
+        {
+          "name": "Enrique Nery",
+          "url": "https://open.spotify.com/artist/5lOnG3d2nIvI20objBklwi"
+        },
+        {
+          "name": "Aar\u00f3n Cruz",
+          "url": "https://open.spotify.com/artist/6km6DCmnVWUSAzNEccF8yv"
+        }
+      ],
+      "duration_ms": 350746,
+      "name": "Qui\u00e9n Eres T\u00fa?",
+      "url": "https://open.spotify.com/track/19V9sBVJLuMEVWiqTMiU4N"
+    },
+    {
+      "added_at": "2021-07-28 16:44:28",
+      "album": {
         "name": "Dream Maker (Guitar Smooth Jazz)",
         "url": "https://open.spotify.com/album/3lU5UO8Orf9biP3BjftPWc"
       },
@@ -595,30 +619,6 @@
       "duration_ms": 233306,
       "name": "The Pink Panther",
       "url": "https://open.spotify.com/track/7MBf3mXChOZJW5ZZ8CI9at"
-    },
-    {
-      "added_at": "2021-07-28 16:44:28",
-      "album": {
-        "name": "Qui\u00e9n Eres T\u00fa?",
-        "url": "https://open.spotify.com/album/6627kcDKivQe10EdHUDmok"
-      },
-      "artists": [
-        {
-          "name": "Iraida Noriega",
-          "url": "https://open.spotify.com/artist/5nOZrHmLp5IoE7ZzJYZOfi"
-        },
-        {
-          "name": "Enrique Nery",
-          "url": "https://open.spotify.com/artist/5lOnG3d2nIvI20objBklwi"
-        },
-        {
-          "name": "Aar\u00f3n Cruz",
-          "url": "https://open.spotify.com/artist/6km6DCmnVWUSAzNEccF8yv"
-        }
-      ],
-      "duration_ms": 350746,
-      "name": "Qui\u00e9n Eres T\u00fa?",
-      "url": "https://open.spotify.com/track/19V9sBVJLuMEVWiqTMiU4N"
     },
     {
       "added_at": "2021-07-28 16:44:28",
@@ -735,22 +735,6 @@
     {
       "added_at": "2021-07-28 16:44:28",
       "album": {
-        "name": "Your Voice",
-        "url": "https://open.spotify.com/album/3vjzePmyNJgJTTQ870nU20"
-      },
-      "artists": [
-        {
-          "name": "Daniela Escalante",
-          "url": "https://open.spotify.com/artist/00YbcwdtRDXKGvdpBsUfkd"
-        }
-      ],
-      "duration_ms": 175776,
-      "name": "Your Voice",
-      "url": "https://open.spotify.com/track/4LITQHkDdxWwLnnBpBb4AT"
-    },
-    {
-      "added_at": "2021-07-28 16:44:28",
-      "album": {
         "name": "\u00a1Oh! Mi Amor",
         "url": "https://open.spotify.com/album/7soG2hYnOKk4TyyueaUv7u"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 318122,
       "name": "Trato De Asimilar",
       "url": "https://open.spotify.com/track/69xoMlSZEOEZzoc8yDXe6h"
+    },
+    {
+      "added_at": "2021-07-28 16:44:28",
+      "album": {
+        "name": "Your Voice",
+        "url": "https://open.spotify.com/album/3vjzePmyNJgJTTQ870nU20"
+      },
+      "artists": [
+        {
+          "name": "Daniela Escalante",
+          "url": "https://open.spotify.com/artist/00YbcwdtRDXKGvdpBsUfkd"
+        }
+      ],
+      "duration_ms": 175776,
+      "name": "Your Voice",
+      "url": "https://open.spotify.com/track/4LITQHkDdxWwLnnBpBb4AT"
     },
     {
       "added_at": "2021-07-28 16:44:28",

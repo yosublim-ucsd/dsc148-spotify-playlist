@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1DeZkoLBQuv.md) - [plain]
 
 > Celebre o nascimento de Jesus com louvores natalinos!
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,020 likes - 50 songs - 3 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,019 likes - 50 songs - 3 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1DeZkoLBQuv.md) - [plain]
 | 25 | [Ó Noite Santa](https://open.spotify.com/track/5yhQjZ8DUS5SrPI5WNUYFi) | [Pedras Vivas](https://open.spotify.com/artist/2vk7Xg1PFNhLuqJlXTRy8F) | [Ó Noite Santa](https://open.spotify.com/album/0vXRWz90LTIjiXKcoorBfl) | 5:10 |
 | 26 | [Apaixonado](https://open.spotify.com/track/0X7p8fytxMhvzzxaPJcDJk) | [Patricia Romania](https://open.spotify.com/artist/0ffURL6H2AXKNqc2yvTN5K), [Daniel Lüdtke](https://open.spotify.com/artist/3f0bV2cF70GNSrGlv7i2Wa) | [Apaixonado](https://open.spotify.com/album/1MCml2KLtS3X9Ld3ACxMMp) | 5:37 |
 | 27 | [É Natal](https://open.spotify.com/track/2j3cFOpGzxVBvwDlhWkXHt) | [Arautos Do Rei](https://open.spotify.com/artist/7HMkkJU8KMSMpEZ1RA8gvK), [Patricia Romania](https://open.spotify.com/artist/0ffURL6H2AXKNqc2yvTN5K), [Gabriel Tavela](https://open.spotify.com/artist/2oKH8ULbVEfOGrquTeOgh3), [Rayre Mota](https://open.spotify.com/artist/7KpvZgmCQas8vKbQvh0hMo), [Weslley Fonseca](https://open.spotify.com/artist/44tt6vxqg3vYCiTm8p8Rg9) | [É Natal](https://open.spotify.com/album/7FjU2uBOba0eaYi5NsuMkn) | 2:48 |
-| 28 | [Glória e Aleluia \- Christmas](https://open.spotify.com/track/5lNAIysz4Ca2y06ge7I7rF) | [Gabriel Guedes de Almeida](https://open.spotify.com/artist/5ETTRSAa5g5uIMNOgqnJPB) | [Glória e Aleluia \(Christmas\)](https://open.spotify.com/album/3yKAc435PtmccjTcqmoWRl) | 3:54 |
-| 29 | [Busquem a Jesus](https://open.spotify.com/track/6Dhjqku6LpMOMzYJHMiwkl) | [Matheus Rizzo](https://open.spotify.com/artist/6UHIabLGNVJuFaEODpWoPP) | [Busquem a Jesus](https://open.spotify.com/album/3X38B5YfsA0lGcY4BEOj3i) | 5:22 |
+| 28 | [Busquem a Jesus](https://open.spotify.com/track/6Dhjqku6LpMOMzYJHMiwkl) | [Matheus Rizzo](https://open.spotify.com/artist/6UHIabLGNVJuFaEODpWoPP) | [Busquem a Jesus](https://open.spotify.com/album/3X38B5YfsA0lGcY4BEOj3i) | 5:22 |
+| 29 | [Glória e Aleluia \- Christmas](https://open.spotify.com/track/5lNAIysz4Ca2y06ge7I7rF) | [Gabriel Guedes de Almeida](https://open.spotify.com/artist/5ETTRSAa5g5uIMNOgqnJPB) | [Glória e Aleluia \(Christmas\)](https://open.spotify.com/album/3yKAc435PtmccjTcqmoWRl) | 3:54 |
 | 30 | [Glória a Deus nas Alturas](https://open.spotify.com/track/7AblmQzKpVtPTvbMznVBvA) | [Laura Morena](https://open.spotify.com/artist/09BDr1YTa7t1YaOg3kg8QU), [Sullivan Dutra](https://open.spotify.com/artist/1hK8THIFG97c43aae8gLki) | [Glória a Deus nas Alturas](https://open.spotify.com/album/3oNhHQUS1PmE0LM5Pyf3Pk) | 4:02 |
 | 31 | [Medley de Natal: Num Berço de Palha / Noite de Paz](https://open.spotify.com/track/5rNPvuwcj2vdeLSgF8e8gI) | [Prisma Brasil](https://open.spotify.com/artist/1DFpmKLluE3dgqLgZSMFeW), [Coral Jovem do Unasp \- HT](https://open.spotify.com/artist/5Uudt8rtEFaTFRMHzXfVqj), [Coral Canto Livre](https://open.spotify.com/artist/7JjQo8WBfiIiJCG2oDPV3F) | [A Canção de Natal](https://open.spotify.com/album/7MFHWfAfMt5Ueioziy2y8O) | 5:45 |
 | 32 | [Natal Real](https://open.spotify.com/track/7gx0SQWgU3PoLNPW02oRzW) | [Novo Tom](https://open.spotify.com/artist/45y2879LBmuzrx4krY6vQh), [Vitrine UNASP](https://open.spotify.com/artist/0PLADEHVEWTRR5fuaK2FFK) | [Natal Real](https://open.spotify.com/album/2m49nalJlB2nQHMjZaeIDK) | 4:16 |
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1DeZkoLBQuv.md) - [plain]
 | 43 | [Deus Emanuel](https://open.spotify.com/track/00Wx6Gd3jm6N26zgch4Y7M) | [Adoração Central](https://open.spotify.com/artist/3eAdvab03DC4n3jZ18HYP4) | [Deus Emanuel](https://open.spotify.com/album/1p7afgoQGyBtbXhhsYwLFi) | 5:13 |
 | 44 | [Natal](https://open.spotify.com/track/5JqMJ3rqFdyPjlzCEHrRnF) | [Voices](https://open.spotify.com/artist/0MIuvybztu95QtdglGYTBD) | [Natal](https://open.spotify.com/album/62FdkxTeWXyDwBCEI8oqSR) | 3:24 |
 | 45 | [O Melhor Presente](https://open.spotify.com/track/5CFywKhIB9izXEO3PzboZO) | [Jozyanne](https://open.spotify.com/artist/4oJ2DIfW0G5XQ9embSbIyh) | [Celebrando o Natal](https://open.spotify.com/album/7sYvSBmi0geLSPMv3p0eHq) | 4:27 |
-| 46 | [O Primeiro Natal](https://open.spotify.com/track/6dN0kIqTHthn6kdt4YaNXA) | [Matheus Rizzo](https://open.spotify.com/artist/6UHIabLGNVJuFaEODpWoPP) | [O Novo Natal](https://open.spotify.com/album/5fva3ZEne4UOuOtXo5CSdq) | 3:50 |
-| 47 | [Seu Nome](https://open.spotify.com/track/1UaBscnZA9dJU7c2QKgKRr) | [Alexandre Magnani](https://open.spotify.com/artist/6mTGdkHV5pKO7VHGMuiKGu) | [Seu Nome](https://open.spotify.com/album/2BdxFlDtguIZhK5bySnryJ) | 3:11 |
+| 46 | [Seu Nome](https://open.spotify.com/track/1UaBscnZA9dJU7c2QKgKRr) | [Alexandre Magnani](https://open.spotify.com/artist/6mTGdkHV5pKO7VHGMuiKGu) | [Seu Nome](https://open.spotify.com/album/2BdxFlDtguIZhK5bySnryJ) | 3:11 |
+| 47 | [O Primeiro Natal](https://open.spotify.com/track/6dN0kIqTHthn6kdt4YaNXA) | [Matheus Rizzo](https://open.spotify.com/artist/6UHIabLGNVJuFaEODpWoPP) | [O Novo Natal](https://open.spotify.com/album/5fva3ZEne4UOuOtXo5CSdq) | 3:50 |
 | 48 | [O Milagre do Natal](https://open.spotify.com/track/0CmiLc9AYVBz18brWHIStv) | [Alex Gonzaga, Marcus Salles e Wilian Nascimento](https://open.spotify.com/artist/42IbPCXTETX76KEm5oW2hh) | [Celebrando o Natal](https://open.spotify.com/album/7sYvSBmi0geLSPMv3p0eHq) | 4:19 |
 | 49 | [Noite de Paz](https://open.spotify.com/track/2wiRFWjjmgzWRjmg4qUdS1) | [Cristina Mel](https://open.spotify.com/artist/0vKtp60PHfEnBSLJU9uHgP), [Jeanne Mascarenhas](https://open.spotify.com/artist/1yGmI1ZztrHtndLgHTnz9J) | [Noite de Paz](https://open.spotify.com/album/385673vVXabsOzy5GjDQzn) | 4:01 |
 | 50 | [Por Amor a Nós](https://open.spotify.com/track/5gvwPdd3q0sw1yKmUNEHTw) | [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW) | [Celebrando o Natal](https://open.spotify.com/album/7sYvSBmi0geLSPMv3p0eHq) | 4:43 |
 
-Snapshot ID: `MCwwNzc4YTQxMTEwZmJkNzljZGFmMDIyZTYxNTFkYTgxNDBkMzU1ODQ2`
+Snapshot ID: `MCxkZDBmMmQzODc4Y2RiYzFiZGMxNzdhMjk1N2Q2NGM4YmE4NTZhMWNk`

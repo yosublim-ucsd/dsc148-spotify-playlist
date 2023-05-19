@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX31KQt69Gaqf.md) - [plain]
 
 > Let us take care of your workday soundtrack.
 
-[Spotify](https://open.spotify.com/user/spotify) - 182,804 likes - 100 songs - 5 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 182,808 likes - 100 songs - 5 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX31KQt69Gaqf.md) - [plain]
 | 37 | [Long Grass](https://open.spotify.com/track/6iCQRdDf05QOU4bxIvDPYu) | [Just Jack](https://open.spotify.com/artist/2KT0mSAPvd9PreXYCiVfVO), [The Easy Access Orchestra](https://open.spotify.com/artist/5fiNdr2wm70EaUTLwrDbh2) | [Long Grass](https://open.spotify.com/album/7s5qWzC22jdTiaZR488pje) | 3:58 |
 | 38 | [Black Dog](https://open.spotify.com/track/1NGPZKzplieiPc5g6lAJ49) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Black Dog](https://open.spotify.com/album/7g57U9ugd9ObC65ecCeEHy) | 3:45 |
 | 39 | [Scream Drive Faster](https://open.spotify.com/track/4CBfY6tYGrm6o5wluoPKaT) | [LAUREL](https://open.spotify.com/artist/6y6iXD929Jqq0xc6lgwhl1) | [Scream Drive Faster](https://open.spotify.com/album/2Sr4PjxeH0SrquSDMPZF7m) | 4:00 |
-| 40 | [Undecided \(with Marie Dahlstrom\)](https://open.spotify.com/track/1TyStc858QNwSpXtDdxSly) | [Conor Albert](https://open.spotify.com/artist/0zJjil03QRbxSliMkw230M), [Marie Dahlstrom](https://open.spotify.com/artist/49NfOTfSPhrb0sJBVYS1iM) | [Undecided \(with Marie Dahlstrom\)](https://open.spotify.com/album/3JfLwZQDIGfCtsUXJpiFcG) | 2:56 |
-| 41 | [Control](https://open.spotify.com/track/1C26HwnwtIwLlSHJdB2iZw) | [Moods](https://open.spotify.com/artist/14uVJsPC4DByeuD0cq36ez), [Two Another](https://open.spotify.com/artist/35RvGPQ1OxbEZknWyiaAcs) | [Control](https://open.spotify.com/album/3o3OAEZXFVzDavifKXa1aV) | 3:07 |
+| 40 | [Control](https://open.spotify.com/track/1C26HwnwtIwLlSHJdB2iZw) | [Moods](https://open.spotify.com/artist/14uVJsPC4DByeuD0cq36ez), [Two Another](https://open.spotify.com/artist/35RvGPQ1OxbEZknWyiaAcs) | [Control](https://open.spotify.com/album/3o3OAEZXFVzDavifKXa1aV) | 3:07 |
+| 41 | [Undecided \(with Marie Dahlstrom\)](https://open.spotify.com/track/1TyStc858QNwSpXtDdxSly) | [Conor Albert](https://open.spotify.com/artist/0zJjil03QRbxSliMkw230M), [Marie Dahlstrom](https://open.spotify.com/artist/49NfOTfSPhrb0sJBVYS1iM) | [Undecided \(with Marie Dahlstrom\)](https://open.spotify.com/album/3JfLwZQDIGfCtsUXJpiFcG) | 2:56 |
 | 42 | [Don't Turn Around](https://open.spotify.com/track/1eYKJWV1eK85T5AZwvwOuH) | [Biig Piig](https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M) | [Don't Turn Around](https://open.spotify.com/album/1nJ6X5PejqyhbHpG9Ycf5N) | 2:51 |
 | 43 | [bon iver](https://open.spotify.com/track/46O72y5JshKPtCI8ExSPGu) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [dusk](https://open.spotify.com/album/1GEoF1i1vxlstUnr2jPeFp) | 3:16 |
 | 44 | [Caroline](https://open.spotify.com/track/21aQ9GdgEXK6qeovX0YaKb) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Caroline](https://open.spotify.com/album/75p2ynuvcTWcFIFs4OyDkQ) | 3:36 |
@@ -79,8 +79,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX31KQt69Gaqf.md) - [plain]
 | 69 | [Confirmation \(SSBD\)](https://open.spotify.com/track/3Pqy5RRW33bhxYXN0ZZNXG) | [Westerman](https://open.spotify.com/artist/09s6bLEw45wioK9ytf3nsA) | [Your Hero Is Not Dead](https://open.spotify.com/album/6zSzwpkKgNJfQWwCEQTQDv) | 4:18 |
 | 70 | [How Can I Make It Ok?](https://open.spotify.com/track/4g0yqS7sBgZGA3VWBOj1Kk) | [Wolf Alice](https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV) | [Blue Weekend](https://open.spotify.com/album/1VCTWaze9kuY5IDlbtR5p0) | 4:47 |
 | 71 | [Greener](https://open.spotify.com/track/3y51IDTIvdRJAwzZOhYHqB) | [Jade Emperor](https://open.spotify.com/artist/22x4ObzsgLRlFkoqsZ00Lo) | [Greener](https://open.spotify.com/album/6pEe6ykp15A2SRDqWm5PKK) | 3:32 |
-| 72 | [Like Sand](https://open.spotify.com/track/3zRd3xkdmZZSzBHgGo4mAl) | [Marie Dahlstrom](https://open.spotify.com/artist/49NfOTfSPhrb0sJBVYS1iM), [Beau Diako](https://open.spotify.com/artist/3W02sTifN8tW1bapAkS1hu) | [Like Sand](https://open.spotify.com/album/25DRkwsnYG06w8ExeR7xx6) | 4:31 |
-| 73 | [Taurus](https://open.spotify.com/track/2qAZTSoZL0tNEw2RX0MpMw) | [Aby Coulibaly](https://open.spotify.com/artist/1ZjJVQsxUHP7MKnZg8yE33) | [Taurus](https://open.spotify.com/album/0IaxrgQd3Q2z66CE02UyC0) | 3:06 |
+| 72 | [Taurus](https://open.spotify.com/track/2qAZTSoZL0tNEw2RX0MpMw) | [Aby Coulibaly](https://open.spotify.com/artist/1ZjJVQsxUHP7MKnZg8yE33) | [Taurus](https://open.spotify.com/album/0IaxrgQd3Q2z66CE02UyC0) | 3:06 |
+| 73 | [Like Sand](https://open.spotify.com/track/3zRd3xkdmZZSzBHgGo4mAl) | [Marie Dahlstrom](https://open.spotify.com/artist/49NfOTfSPhrb0sJBVYS1iM), [Beau Diako](https://open.spotify.com/artist/3W02sTifN8tW1bapAkS1hu) | [Like Sand](https://open.spotify.com/album/25DRkwsnYG06w8ExeR7xx6) | 4:31 |
 | 74 | [Beaches on the Thames](https://open.spotify.com/track/0wn1K6Yh5ixdIsuMqg6aaU) | [Sarah Carton](https://open.spotify.com/artist/5XcYz8deAP70UIQyS1WtRS) | [Beaches on the Thames](https://open.spotify.com/album/4c2WcJgvgco3szXYxFTMLc) | 3:50 |
 | 75 | [California Screaming](https://open.spotify.com/track/7aoQKm7L9RGg5VxYitUkEG) | [Liz Lawrence](https://open.spotify.com/artist/5v4XGACPGcMZs2ANXBzVmC) | [California Screaming](https://open.spotify.com/album/61Xno5oEO3TchKwEpmYyvw) | 3:17 |
 | 76 | [Astronaut](https://open.spotify.com/track/7phnXD1tItFiVKsOK2icnH) | [Uma](https://open.spotify.com/artist/0RZewmdiKrFtejSJ3jfmGs) | [Bel•li](https://open.spotify.com/album/7toAAFcowWW8pH2KY96EBO) | 2:52 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX31KQt69Gaqf.md) - [plain]
 | 99 | [Beautiful Disaster](https://open.spotify.com/track/5TFS4aXfVOXxodj19Wq5AG) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP), [Sam Dotia](https://open.spotify.com/artist/7lHuH8figeMAA7pEWJCMHD) | [Four° In Winter](https://open.spotify.com/album/1CCZQvQ4cSUY9mXOlJYHC3) | 2:18 |
 | 100 | [Same as You](https://open.spotify.com/track/7mwEqaU0jRjS3sGvIxFhps) | [Eliza Shaddad](https://open.spotify.com/artist/3B63aIfra43Vs4F33ecM9E) | [Sept \~ Dec](https://open.spotify.com/album/6tYUyBo0cIL8dCSBsBjKnx) | 2:30 |
 
-Snapshot ID: `MCw2M2Y3NGVmNTc1YTMwYTkzNGZmYjIzM2VlOTQzOTZhMTgwMjlhOTZk`
+Snapshot ID: `MCw5ZGQ5MDUzNDhjNGFhYTMxMmQ5M2QyMWFlZjhhNjc2MjI3ZDg4ODFm`

@@ -1877,6 +1877,24 @@
     },
     {
       "album": {
+        "name": "Singing Saw",
+        "url": "https://open.spotify.com/album/4tpcSqb2cKUDviwpwTr8L9"
+      },
+      "artists": [
+        {
+          "name": "Kevin Morby",
+          "url": "https://open.spotify.com/artist/6fxk3UXHTFYET8qCT9WlBF"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194186,
+      "name": "I Have Been to the Mountain",
+      "url": "https://open.spotify.com/track/2umTklGNx0IiiTFFVNZNlC"
+    },
+    {
+      "album": {
         "name": "Terms of Surrender",
         "url": "https://open.spotify.com/album/4eKRqA554vK2k4khe190Yu"
       },
@@ -4618,7 +4636,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 318423,
       "name": "Yet Again",
       "url": "https://open.spotify.com/track/6zc0b2JM2M9DKMuLQ1XCRK"

@@ -1,12 +1,12 @@
 {
   "description": "Un playlist que te llena de esperanza.  \u00a1Con fe!",
-  "num_followers": 226142,
+  "num_followers": 226323,
   "original_name": "Con Fe",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3ODUzMTUxNzIzMjc0OTQ3MzAyYmI1MGJhNmQ0ODNhOWExMjJkNDJh",
+  "snapshot_id": "MCxmZGE0NGIyM2E4Y2ZiMGQzZDA4ZDhmZmYzMzU2YWUzMTA4NjU4Y2Ew",
   "tracks": [
     {
       "added_at": "2020-11-24 13:23:38",
@@ -127,22 +127,18 @@
     {
       "added_at": "2020-11-24 13:23:38",
       "album": {
-        "name": "Como En El Cielo (En Vivo)",
-        "url": "https://open.spotify.com/album/1UtIEB5mwdQ9IG6Q7Ds2n5"
+        "name": "Listo Para Nuestro Encuentro",
+        "url": "https://open.spotify.com/album/2gnGnvNJzXxlwy837iHs7O"
       },
       "artists": [
         {
-          "name": "Miel San Marcos",
-          "url": "https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE"
-        },
-        {
-          "name": "Christine D'Clario",
-          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
+          "name": "Abel Zavala",
+          "url": "https://open.spotify.com/artist/0UH4eoqwQgADwRoaKtEKc1"
         }
       ],
-      "duration_ms": 488333,
-      "name": "No Hay Lugar M\u00e1s Alto (En Vivo) [feat. Christine D'clario]",
-      "url": "https://open.spotify.com/track/0yzKJqFTXsbzWjUHaiOxD9"
+      "duration_ms": 204493,
+      "name": "El Padre Que Siempre So\u00f1\u00e9",
+      "url": "https://open.spotify.com/track/1mjyjgatJGw8DtNTejtztn"
     },
     {
       "added_at": "2020-11-24 13:23:38",
@@ -179,18 +175,22 @@
     {
       "added_at": "2020-11-24 13:23:38",
       "album": {
-        "name": "Listo Para Nuestro Encuentro",
-        "url": "https://open.spotify.com/album/2gnGnvNJzXxlwy837iHs7O"
+        "name": "Como En El Cielo (En Vivo)",
+        "url": "https://open.spotify.com/album/1UtIEB5mwdQ9IG6Q7Ds2n5"
       },
       "artists": [
         {
-          "name": "Abel Zavala",
-          "url": "https://open.spotify.com/artist/0UH4eoqwQgADwRoaKtEKc1"
+          "name": "Miel San Marcos",
+          "url": "https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE"
+        },
+        {
+          "name": "Christine D'Clario",
+          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
         }
       ],
-      "duration_ms": 204493,
-      "name": "El Padre Que Siempre So\u00f1\u00e9",
-      "url": "https://open.spotify.com/track/1mjyjgatJGw8DtNTejtztn"
+      "duration_ms": 488333,
+      "name": "No Hay Lugar M\u00e1s Alto (En Vivo) [feat. Christine D'clario]",
+      "url": "https://open.spotify.com/track/0yzKJqFTXsbzWjUHaiOxD9"
     },
     {
       "added_at": "2020-11-24 13:23:38",
@@ -267,6 +267,22 @@
     {
       "added_at": "2020-11-24 13:23:38",
       "album": {
+        "name": "Gente Comun Sue\u00f1os Extraordinarios",
+        "url": "https://open.spotify.com/album/5Yj2mPciYoTKNEP3WadauI"
+      },
+      "artists": [
+        {
+          "name": "Tercer Cielo",
+          "url": "https://open.spotify.com/artist/2bimgkRmsxRhhuWsOnd5rz"
+        }
+      ],
+      "duration_ms": 215040,
+      "name": "Mi Ultimo Dia",
+      "url": "https://open.spotify.com/track/7fFufce5eI7CGGX5aeN07r"
+    },
+    {
+      "added_at": "2020-11-24 13:23:38",
+      "album": {
         "name": "Proezas",
         "url": "https://open.spotify.com/album/3tGDxfvq1cBSlBFr302jMU"
       },
@@ -283,22 +299,6 @@
       "duration_ms": 99093,
       "name": "El Se\u00f1or Es Mi Rey (feat. Tony Perez)",
       "url": "https://open.spotify.com/track/7APlp9ZOXPuv9CzONC68T8"
-    },
-    {
-      "added_at": "2020-11-24 13:23:38",
-      "album": {
-        "name": "Gente Comun Sue\u00f1os Extraordinarios",
-        "url": "https://open.spotify.com/album/5Yj2mPciYoTKNEP3WadauI"
-      },
-      "artists": [
-        {
-          "name": "Tercer Cielo",
-          "url": "https://open.spotify.com/artist/2bimgkRmsxRhhuWsOnd5rz"
-        }
-      ],
-      "duration_ms": 215040,
-      "name": "Mi Ultimo Dia",
-      "url": "https://open.spotify.com/track/7fFufce5eI7CGGX5aeN07r"
     },
     {
       "added_at": "2020-11-24 13:23:38",

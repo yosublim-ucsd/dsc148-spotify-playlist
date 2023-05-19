@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11Ia2xt6mrG.md) - [plain]
 
 > Descubre lo más fresco de la electrónica mexicana\. Mr\. Pig en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,371 likes - 75 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,372 likes - 75 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,13 +75,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11Ia2xt6mrG.md) - [plain]
 | 65 | [Galactic Feelings](https://open.spotify.com/track/5UdlBVNbiLgSYJs0mVka5R) | [Valentina Moretti](https://open.spotify.com/artist/1smi39GfJBKzbFCPwogmRS) | [Galactic Feelings](https://open.spotify.com/album/0DOKHmbh2GwQ0Xq6G7uo0X) | 4:10 |
 | 66 | [DiabloTeam \(The Night After\)](https://open.spotify.com/track/5EWYl7g5Kr1dMY6fpRApbh) | [Dapuntobeat](https://open.spotify.com/artist/1V45Te1AQmLsqtRGylNLKs) | [DiabloTeam \(The Night After\)](https://open.spotify.com/album/5sJ3mPiyNF1H8H0wMCRf2Y) | 4:50 |
 | 67 | [I Saw You](https://open.spotify.com/track/0S7Z61F0tievPImUOKNnXy) | [Fortu & Mendoza](https://open.spotify.com/artist/1Hxlo5vn0d4y63L6C0kxex), [A\-Dyad](https://open.spotify.com/artist/11HbXAUaPyevfyRYnmHpX6) | [I Saw You](https://open.spotify.com/album/4gxbyW1dpyW55B5YxRzw8w) | 3:48 |
-| 68 | [Eunoia](https://open.spotify.com/track/2ki07Ir7ZDaQdJWnmYopFy) | [Leimantour](https://open.spotify.com/artist/23dJcrY31UxUxew6zHi02N) | [Eunoia](https://open.spotify.com/album/6vvIKaVVvt3qHX94edFmmj) | 7:08 |
-| 69 | [Need You](https://open.spotify.com/track/6pnXRraVe1b0ytJ7R147Ln) | [Bzars](https://open.spotify.com/artist/4lS9Yg5DF4h5zDAMrSJwU9) | [Need You](https://open.spotify.com/album/3ilpQiBwLygEQgzZXA1t0d) | 3:30 |
+| 68 | [Need You](https://open.spotify.com/track/6pnXRraVe1b0ytJ7R147Ln) | [Bzars](https://open.spotify.com/artist/4lS9Yg5DF4h5zDAMrSJwU9) | [Need You](https://open.spotify.com/album/3ilpQiBwLygEQgzZXA1t0d) | 3:30 |
+| 69 | [Eunoia](https://open.spotify.com/track/2ki07Ir7ZDaQdJWnmYopFy) | [Leimantour](https://open.spotify.com/artist/23dJcrY31UxUxew6zHi02N) | [Eunoia](https://open.spotify.com/album/6vvIKaVVvt3qHX94edFmmj) | 7:08 |
 | 70 | [Paradise](https://open.spotify.com/track/5OQDF6iHKv6yxZZmu666E3) | [Artelax](https://open.spotify.com/artist/1cmngJeHHZi2ZWodpFOLv3) | [Paradise](https://open.spotify.com/album/6sZBlc5iZcFpFE0c7z6cMx) | 1:52 |
 | 71 | [killed love](https://open.spotify.com/track/3q4CXbWktB6TgKRQIPWkzU) | [Valentina Moretti](https://open.spotify.com/artist/1smi39GfJBKzbFCPwogmRS) | [killed love](https://open.spotify.com/album/51Hkt6nyQlaPiRYu0j2YjP) | 3:52 |
 | 72 | [KARMA](https://open.spotify.com/track/7mmwYkMjErRJrMxemmm2zk) | [Clara Floc](https://open.spotify.com/artist/0e16Li9kILC0goZoA7WR5f), [Light Reaction](https://open.spotify.com/artist/4ImPMY6kcAHp54Zfvc035x), [Gabo Versus](https://open.spotify.com/artist/1N4FEl0zyRocPbZBiWPzJN) | [KARMA](https://open.spotify.com/album/7s7so5vu0eAwu8ArWkKmDr) | 3:34 |
-| 73 | [Take It](https://open.spotify.com/track/6wHjctWbG9IUDo96rUbT9F) | [XIX](https://open.spotify.com/artist/4kujTclzOfCLEztutiKfRR) | [Take It](https://open.spotify.com/album/00pXCpxTg1iRi8VH6LG5SH) | 2:42 |
-| 74 | [Mistake](https://open.spotify.com/track/7l636KtnTBB2UvAPzAKEWs) | [JOKA](https://open.spotify.com/artist/0hqZ4OJ9p2YC3xnxYnE3SV) | [Mistake](https://open.spotify.com/album/0dch9Ac7ijGh5uGL3Q5p0T) | 3:12 |
-| 75 | [Like a Dream](https://open.spotify.com/track/6OzGgO8T0XrttBzJoqKFlC) | [Bzars](https://open.spotify.com/artist/4lS9Yg5DF4h5zDAMrSJwU9), [Bandido Brothers](https://open.spotify.com/artist/7zII5beG1WhlaoAjvamnmJ) | [Like a Dream](https://open.spotify.com/album/1QdqBtNNk968yDFAhXC3Nu) | 3:30 |
+| 73 | [Like a Dream](https://open.spotify.com/track/6OzGgO8T0XrttBzJoqKFlC) | [Bzars](https://open.spotify.com/artist/4lS9Yg5DF4h5zDAMrSJwU9), [Bandido Brothers](https://open.spotify.com/artist/7zII5beG1WhlaoAjvamnmJ) | [Like a Dream](https://open.spotify.com/album/1QdqBtNNk968yDFAhXC3Nu) | 3:30 |
+| 74 | [Take It](https://open.spotify.com/track/6wHjctWbG9IUDo96rUbT9F) | [XIX](https://open.spotify.com/artist/4kujTclzOfCLEztutiKfRR) | [Take It](https://open.spotify.com/album/00pXCpxTg1iRi8VH6LG5SH) | 2:42 |
+| 75 | [Mistake](https://open.spotify.com/track/7l636KtnTBB2UvAPzAKEWs) | [JOKA](https://open.spotify.com/artist/0hqZ4OJ9p2YC3xnxYnE3SV) | [Mistake](https://open.spotify.com/album/0dch9Ac7ijGh5uGL3Q5p0T) | 3:12 |
 
-Snapshot ID: `MCxiODM3NWEyNGZiNzc3MGY3Mzc1MGNmNzQyNmYxMzEyNDBkNmRmNzEx`
+Snapshot ID: `MCw1ODgwNTBlYmYwNjg1YzgxNTQ2MjU4MDg1MTJiZGQ0YjNhM2Q2NTk4`

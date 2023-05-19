@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWVA31rZqC4w.md) - [plain]
 
 > Hello you...Listen to music from and inspired by You, new episodes now streaming on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,125 likes - 153 songs - 9 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,240 likes - 153 songs - 9 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWVA31rZqC4w.md) - [plain]
 | 26 | [I Like It](https://open.spotify.com/track/3bsycjdQtbcJeR6822SBvd) | [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [Invasion of Privacy](https://open.spotify.com/album/4sDAyYEMhD2YyREWKxj3aD) | 4:13 |
 | 27 | [Killer](https://open.spotify.com/track/65Kx5KhN6EiKyOpZa67ikj) | [Valerie Broussard](https://open.spotify.com/artist/6eVWXmKBW7Iltub01D9R1c) | [Killer](https://open.spotify.com/album/1vtlN8df30JpDJhvy7e3Yy) | 2:30 |
 | 28 | [Shy Guy](https://open.spotify.com/track/4Yk4Jb86DmSvIBO2FXpDol) | [Brijean](https://open.spotify.com/artist/2TRNyrjoKJnqSc9G8jCZfb) | [Angelo](https://open.spotify.com/album/04VXufc9BMWupjoSYjpErm) | 3:12 |
-| 29 | [Are You All Good?](https://open.spotify.com/track/7I5tV3ZQVLRav2PADoFbb9) | [breathe.](https://open.spotify.com/artist/6XrEYPg6rrQMV4GKabTxbE) | [Breathe.](https://open.spotify.com/album/5w5bwL9qRsIQn58XqVhzO5) | 3:11 |
+| 29 | [Are You All Good?](https://open.spotify.com/track/6bmoA5by5aXQp5hG8cRbyW) | [breathe.](https://open.spotify.com/artist/6XrEYPg6rrQMV4GKabTxbE) | [Breathe.](https://open.spotify.com/album/60GlIPJZ9E9mvH1SJCFCaa) | 3:11 |
 | 30 | [A Walk](https://open.spotify.com/track/0sQNqu37YQQSI3K0ueswyA) | [Tycho](https://open.spotify.com/artist/5oOhM2DFWab8XhSdQiITry) | [Dive](https://open.spotify.com/album/4CBUbnGFz2iKFJjYqRIwst) | 5:16 |
 | 31 | [Diamond Cut](https://open.spotify.com/track/6iuVUXwvvDCzSSVMrpMQp4) | [Overmono](https://open.spotify.com/artist/01PnN11ovfen6xUOHfNpn3) | [Diamond Cut / Bby](https://open.spotify.com/album/3PdVumj52Y91JGimjtAy8k) | 6:10 |
 | 32 | [Emergency](https://open.spotify.com/track/0iQd47VJs14l8EA00PlI71) | [Sofi Tukker](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q), [Novak](https://open.spotify.com/artist/4RqAxYmN6sJO2Ty0tJ2RMy), [YAX.X](https://open.spotify.com/artist/0dPvgsYtDUI9Wcr0WREIJK) | [Emergency](https://open.spotify.com/album/4xeOgbxFCERSTBCaxuKSqY) | 3:12 |
@@ -162,4 +162,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWVA31rZqC4w.md) - [plain]
 | 152 | [Roller](https://open.spotify.com/track/0zFqjimE0Q6wk0OQVGu3rY) | [Quilt](https://open.spotify.com/artist/0S4yEUTvpxWhfXux925405) | [Plaza](https://open.spotify.com/album/0NEF1hzL7820zUVOU7n9Kj) | 4:14 |
 | 153 | [I Need My Girl](https://open.spotify.com/track/50M7nY1oQuNHecs0ahWAtI) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB) | [Trouble Will Find Me](https://open.spotify.com/album/4OI9hKTm1QMRQunqHCfSSL) | 4:05 |
 
-Snapshot ID: `MCwyM2NkZGM2ZDAyYjU4YTdmOWZhYzU0MGFmZWZmNjFmNGNhYmNkNDIx`
+Snapshot ID: `MCwxNzljNmM0ZWYyOGIyYzBhMWEzMmQzZjNkZDU3ODQ4MTRkMDM2MWY2`

@@ -4,7 +4,7 @@
 
 > Ideale muziek voor de werkdag
 
-301 songs - 17 hr 37 min
+303 songs - 17 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -189,6 +189,7 @@
 | [On My Way](https://open.spotify.com/track/4AodD9thKrnGrdIJkmNaXA) | [Giovanca](https://open.spotify.com/artist/1GHgheljbmRBI1NgiDkQ98) | [Subway Silence \(Special Edition\)](https://open.spotify.com/album/2ZseAOSVskydVAP9eJdJ51) | 3:24 | 2023-04-25 |  |
 | [On My Way](https://open.spotify.com/track/525quKjX8KEnj2fmKdZy3z) | [Giovanca](https://open.spotify.com/artist/1GHgheljbmRBI1NgiDkQ98) | [Subway Silence](https://open.spotify.com/album/34GPJpmCoILZKAds4eNefL) | 3:25 | 2023-02-23 | 2023-03-02 |
 | [One Last Chance \(I Won't Let You Down\) \- Acoustic](https://open.spotify.com/track/1TE4d1HGXHnkSo2vA4ZV5n) | [FRIDAY](https://open.spotify.com/artist/1nzhkCvUySFs0Fsj57qXYX) | [One Last Chance \(I Won't Let You Down\)](https://open.spotify.com/album/0O04QO41IgvIAV7GIy1Ai2) | 3:19 | 2023-04-25 |  |
+| [One Life](https://open.spotify.com/track/4H6huybuIXixEEvEFBiltj) | [Bunch Of Grapes](https://open.spotify.com/artist/4mreXDeA7Qv8DrGNKfOsdK) | [One Life](https://open.spotify.com/album/7d3jCuEQ8pXtg0bjxtcTsC) | 2:30 | 2023-05-18 |  |
 | [Only Love](https://open.spotify.com/track/2uhEKg8kIzpdvz4gyy6x8W) | [Ben Howard](https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc) | [Every Kingdom](https://open.spotify.com/album/57PgT4iuDurzlJnkYjrpce) | 4:09 | 2023-02-23 |  |
 | [Only You](https://open.spotify.com/track/2ZaYFNn1YQuLSVdHhanr4Q) | [Joshua Radin](https://open.spotify.com/artist/7omzannyG2lfDqP5xyZo34) | [We Were Here](https://open.spotify.com/album/3kJxji4lJkuzZJSTWFbNnG) | 2:29 | 2023-02-23 |  |
 | [Paradise \- Guitar Acoustic](https://open.spotify.com/track/6ehKqIkVCkz9chGBwk3alc) | [MEDUZA](https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu), [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Paradise \(Guitar Acoustic\)](https://open.spotify.com/album/5VSseS7GXXtGFIhEun2z47) | 3:05 | 2023-02-23 |  |
@@ -264,6 +265,7 @@
 | [The Poetry Man](https://open.spotify.com/track/0BLMTt0ufk4vqgKUU6T3MP) | [Stevie Ann](https://open.spotify.com/artist/0BLtgRpARRInhUuj2RnpBJ) | [Away From Here](https://open.spotify.com/album/2sU6VJXNO21g8i55eZY9f7) | 4:44 | 2023-02-23 |  |
 | [The Reason](https://open.spotify.com/track/77loZpT5Y5PRP1S451P9Yz) | [Hoobastank](https://open.spotify.com/artist/2MqhkhX4npxDZ62ObR5ELO) | [The Reason \(15th Anniversary Deluxe\)](https://open.spotify.com/album/2zE1YKY7Okj10Tjl09jjth) | 3:52 | 2023-04-06 |  |
 | [The Wait Is Over!](https://open.spotify.com/track/71ngUdvQfCsmK6pVWv9twa) | [Matthew Crosby](https://open.spotify.com/artist/6USf974SHTa6CJBaXcHO4r) | [The Wait Is Over!](https://open.spotify.com/album/30aDWY29De1BweSR5kEZoY) | 3:55 | 2023-04-25 |  |
+| [Theatre of Life](https://open.spotify.com/track/0TELVigVXQUi3BvEMUSA4v) | [LVDS](https://open.spotify.com/artist/1bchORmrFrz4QUD9JhVm8s), [Iolanda Boban](https://open.spotify.com/artist/6Cij3Lukc7JSSOoQWe6Da4) | [Theatre of Life](https://open.spotify.com/album/34R9rtDKVV76KGIqoOYLTV) | 2:58 | 2023-05-18 |  |
 | [This Is For The Ones](https://open.spotify.com/track/2ROYTksKBDPlBzI5JEKKF7) | [Pineapple Kid](https://open.spotify.com/artist/5zHT9PaNk6vjos9Xu44dqG) | [This Is For The Ones](https://open.spotify.com/album/49vhTXDSj6b0zXzJiFEkPg) | 3:17 | 2023-05-01 |  |
 | [This Is What It Feels Like \- John Ewbank Classical Remix](https://open.spotify.com/track/1MTHcjq2LmrQDYDuLentyu) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [John Ewbank](https://open.spotify.com/artist/0P8SMwZkYqLW4ts4BNlP79), [Trevor Guthrie](https://open.spotify.com/artist/6NXk2pLFocS2OkNdT7ncBt) | [Armada Acoustic 2017](https://open.spotify.com/album/1vaZZiBeoQO0QvzcDyxfHr) | 3:12 | 2023-02-23 |  |
 | [This Town](https://open.spotify.com/track/0qvzXomUDJVaUboy2wMfiS) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Flicker \(Deluxe\)](https://open.spotify.com/album/7ahctQBwcSxDdP0fRAPo2p) | 3:52 | 2023-02-23 |  |

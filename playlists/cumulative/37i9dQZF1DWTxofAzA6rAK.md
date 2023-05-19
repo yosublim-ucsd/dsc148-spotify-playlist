@@ -4,7 +4,7 @@
 
 > Latest and biggest tracks from Jamaica's Dancehall scene\. Cover: Amarnii
 
-180 songs - 8 hr 54 min
+181 songs - 8 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -159,7 +159,8 @@
 | [Suffering Days](https://open.spotify.com/track/72dpxZuTHoyVqt6CUBgSog) | [Charly Black](https://open.spotify.com/artist/5sK8BsvyDl4TFA6KaBf8or), [Pop Style](https://open.spotify.com/artist/5pzWFizoqhuhkImntBH12H) | [Suffering Days](https://open.spotify.com/album/3kdctcGAqj1STmWJfEqgmw) | 2:15 | 2021-10-20 |  |
 | [Sweepstake Life](https://open.spotify.com/track/58NHF2OvW3GG6YPaeJxKHh) | [Squash](https://open.spotify.com/artist/1HXkVBU6RwIxxN6xuI6b00) | [Sweepstake Life](https://open.spotify.com/album/5CgSQKBs32x5ZTOgc7uYSn) | 3:00 | 2023-05-15 |  |
 | [Sweet Love](https://open.spotify.com/track/16CHus0S5w9MgesfKLfBkB) | [Fully Top Dolla](https://open.spotify.com/artist/6AnWpywaiF1GoTWpimixVf), [Youngy Nevabummy](https://open.spotify.com/artist/2ov896wVgIC4nWoYh9asd9) | [Sweet Love](https://open.spotify.com/album/1M5Q0iEFC8jCgQaCg8ehM6) | 3:13 | 2021-10-20 |  |
-| [Talibans](https://open.spotify.com/track/0in4JBEFmQVtyNJCN9UeXU) | [Byron Messia](https://open.spotify.com/artist/3IDfJpj4YVkaBl7Dd52Pxv) | [No Love](https://open.spotify.com/album/2AR2cNQcrYLK8vAxTZe8ai) | 3:08 | 2023-05-15 |  |
+| [Talibans](https://open.spotify.com/track/0TTOsyDKykWhCh3qDd9wMY) | [Byron Messia](https://open.spotify.com/artist/3IDfJpj4YVkaBl7Dd52Pxv) | [No Love](https://open.spotify.com/album/6Ds8n0PlFxomLOtEHFwBeo) | 3:08 | 2023-05-15 |  |
+| [Talibans](https://open.spotify.com/track/0in4JBEFmQVtyNJCN9UeXU) | [Byron Messia](https://open.spotify.com/artist/3IDfJpj4YVkaBl7Dd52Pxv) | [No Love](https://open.spotify.com/album/2AR2cNQcrYLK8vAxTZe8ai) | 3:08 | 2023-05-15 | 2023-05-19 |
 | [Three Little Birds](https://open.spotify.com/track/4bfAZUN7Y2yxxrANVpcErC) | [Vybz Kartel](https://open.spotify.com/artist/2NUz5P42WqkxilbI8ocN76) | [Three Little Birds](https://open.spotify.com/album/5hnQr1o6d92rF3xQ78xngP) | 3:28 | 2022-08-05 |  |
 | [Three Little Birds](https://open.spotify.com/track/6sp0O9fvW24AlPX2NzFk0G) | [Vybz Kartel](https://open.spotify.com/artist/2NUz5P42WqkxilbI8ocN76) | [Three Little Birds](https://open.spotify.com/album/5EITrZvdxDsCYsztF4LlHA) | 3:28 | 2021-10-20 | 2022-11-12 |
 | [Tic Tac Toe](https://open.spotify.com/track/0kmhY9fQ1p1w4ui1e28FHW) | [Rvssian](https://open.spotify.com/artist/1fctva4kpRbg2k3v7kwRuS), [Valiant](https://open.spotify.com/artist/7dvG18F378r7HRxmiHn3ti), [Tommy Lee Sparta](https://open.spotify.com/artist/2yHxc12dEUiLXNeqUadxBh) | [Tic Tac Toe](https://open.spotify.com/album/1L67y3BRIGj7VrT9yGT7is) | 2:21 | 2023-05-15 |  |

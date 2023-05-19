@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2DiIDykg1Rd.md) - [plain]
 
 > Sophisticated palates only\. Curated by: <a href="https://www.instagram.com/jujubballin/">Juju Watkins</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 289 likes - 43 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 290 likes - 43 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,4 +52,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2DiIDykg1Rd.md) - [plain]
 | 42 | [Gotta Love It \(feat\. Ty Dolla $ign\)](https://open.spotify.com/track/2IcejIU06Q74pu5aQExfMK) | [Symba](https://open.spotify.com/artist/06S3fr7xEES7e3QPXhu3ay), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [Don't Run From R.A.P.](https://open.spotify.com/album/795r6PaeATNF4GMaVE8Bgd) | 3:44 |
 | 43 | [We Should \(feat\. Young Thug\)](https://open.spotify.com/track/5ixKkLQSriCQakDWbdW8qD) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [My Turn](https://open.spotify.com/album/1ynyQdPQiXdYJNQEDL1S3d) | 2:56 |
 
-Snapshot ID: `MCxkZTA2MTI4ZWFhYTc3MzJlNGQ0ZTIwNjMxNTY3OGJiZjE0MDJkODY3`
+Snapshot ID: `MCxkYmNlZmQyZWRiMjk2ZTY5NDI1OTNkYzRhYjIyN2EyMTIwZTVhYjk3`

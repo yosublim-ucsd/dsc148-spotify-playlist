@@ -1,12 +1,12 @@
 {
   "description": "Real nasty house. Cover: Habstrakt",
-  "num_followers": 422299,
+  "num_followers": 422392,
   "original_name": "Nasty Bits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4MzU0OWRmZWZiMWFmOTYzMWVmYzI2NTllYzAzNDZkMTliMTZkYzAw",
+  "snapshot_id": "MCwxYTM5N2EwODk4YzkyY2Y3OTE4MzcxYmEyOWE3ZDgyMzE5NjAxMDQz",
   "tracks": [
     {
       "added_at": "2023-04-28 04:00:00",
@@ -783,6 +783,26 @@
     {
       "added_at": "2023-04-28 04:00:00",
       "album": {
+        "name": "Set The Tempo (feat. HQA)",
+        "url": "https://open.spotify.com/album/5zPcj2i8Xt2JFA5zuK3NiN"
+      },
+      "artists": [
+        {
+          "name": "PBH & JACK",
+          "url": "https://open.spotify.com/artist/5WzFz4sQSN1HgSZLmIgHBl"
+        },
+        {
+          "name": "HQA",
+          "url": "https://open.spotify.com/artist/3odmSlXHTSCIZsSmB6XnCw"
+        }
+      ],
+      "duration_ms": 183434,
+      "name": "Set The Tempo (feat. HQA)",
+      "url": "https://open.spotify.com/track/4Fw9pEVsvkpwyIHoVKJ6yI"
+    },
+    {
+      "added_at": "2023-04-28 04:00:00",
+      "album": {
         "name": "Molotov",
         "url": "https://open.spotify.com/album/1EdnERTVSGKrVPNq7tb44e"
       },
@@ -799,26 +819,6 @@
       "duration_ms": 178065,
       "name": "Molotov",
       "url": "https://open.spotify.com/track/6FggaqcdwsE4pocJ5GaWxr"
-    },
-    {
-      "added_at": "2023-04-28 04:00:00",
-      "album": {
-        "name": "Supah Fly",
-        "url": "https://open.spotify.com/album/4nSrZEL44ATq5YnzHkiPj0"
-      },
-      "artists": [
-        {
-          "name": "Nostalgix",
-          "url": "https://open.spotify.com/artist/6CarTAUaWnQb6bp7yjP0Zz"
-        },
-        {
-          "name": "Chi City",
-          "url": "https://open.spotify.com/artist/2ipMJ7CDYbsqysSF15uVpF"
-        }
-      ],
-      "duration_ms": 145777,
-      "name": "Party All Night",
-      "url": "https://open.spotify.com/track/6MCsbkXWaDDa408N1pUky7"
     },
     {
       "added_at": "2023-04-28 04:00:00",
@@ -843,22 +843,22 @@
     {
       "added_at": "2023-04-28 04:00:00",
       "album": {
-        "name": "Set The Tempo (feat. HQA)",
-        "url": "https://open.spotify.com/album/5zPcj2i8Xt2JFA5zuK3NiN"
+        "name": "Supah Fly",
+        "url": "https://open.spotify.com/album/4nSrZEL44ATq5YnzHkiPj0"
       },
       "artists": [
         {
-          "name": "PBH & JACK",
-          "url": "https://open.spotify.com/artist/5WzFz4sQSN1HgSZLmIgHBl"
+          "name": "Nostalgix",
+          "url": "https://open.spotify.com/artist/6CarTAUaWnQb6bp7yjP0Zz"
         },
         {
-          "name": "HQA",
-          "url": "https://open.spotify.com/artist/3odmSlXHTSCIZsSmB6XnCw"
+          "name": "Chi City",
+          "url": "https://open.spotify.com/artist/2ipMJ7CDYbsqysSF15uVpF"
         }
       ],
-      "duration_ms": 183434,
-      "name": "Set The Tempo (feat. HQA)",
-      "url": "https://open.spotify.com/track/4Fw9pEVsvkpwyIHoVKJ6yI"
+      "duration_ms": 145777,
+      "name": "Party All Night",
+      "url": "https://open.spotify.com/track/6MCsbkXWaDDa408N1pUky7"
     },
     {
       "added_at": "2023-04-28 04:00:00",
@@ -1303,22 +1303,22 @@
     {
       "added_at": "2023-04-28 04:00:00",
       "album": {
-        "name": "You Only Die Once (feat. Snoop Dogg)",
-        "url": "https://open.spotify.com/album/5gDO2SvkjN3WGEUtnisuYX"
+        "name": "Don Malaa",
+        "url": "https://open.spotify.com/album/6241SeUdcPm2i4ZFIqqCUP"
       },
       "artists": [
         {
-          "name": "Destructo",
-          "url": "https://open.spotify.com/artist/0BEYTctVmnYa5yStp4Jpab"
+          "name": "Malaa",
+          "url": "https://open.spotify.com/artist/7w1eTNePApzDk8XtgykCPS"
         },
         {
-          "name": "Snoop Dogg",
-          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
+          "name": "Tchami",
+          "url": "https://open.spotify.com/artist/1KpCi9BOfviCVhmpI4G2sY"
         }
       ],
-      "duration_ms": 249677,
-      "name": "You Only Die Once (feat. Snoop Dogg)",
-      "url": "https://open.spotify.com/track/1zSROLwDPEvO58gt28VKfW"
+      "duration_ms": 240000,
+      "name": "Discipline (with Tchami)",
+      "url": "https://open.spotify.com/track/75V8CXNNjs25k0LiQXVD2H"
     },
     {
       "added_at": "2023-04-28 04:00:00",
@@ -1343,22 +1343,22 @@
     {
       "added_at": "2023-04-28 04:00:00",
       "album": {
-        "name": "Don Malaa",
-        "url": "https://open.spotify.com/album/6241SeUdcPm2i4ZFIqqCUP"
+        "name": "You Only Die Once (feat. Snoop Dogg)",
+        "url": "https://open.spotify.com/album/5gDO2SvkjN3WGEUtnisuYX"
       },
       "artists": [
         {
-          "name": "Malaa",
-          "url": "https://open.spotify.com/artist/7w1eTNePApzDk8XtgykCPS"
+          "name": "Destructo",
+          "url": "https://open.spotify.com/artist/0BEYTctVmnYa5yStp4Jpab"
         },
         {
-          "name": "Tchami",
-          "url": "https://open.spotify.com/artist/1KpCi9BOfviCVhmpI4G2sY"
+          "name": "Snoop Dogg",
+          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
         }
       ],
-      "duration_ms": 240000,
-      "name": "Discipline (with Tchami)",
-      "url": "https://open.spotify.com/track/75V8CXNNjs25k0LiQXVD2H"
+      "duration_ms": 249677,
+      "name": "You Only Die Once (feat. Snoop Dogg)",
+      "url": "https://open.spotify.com/track/1zSROLwDPEvO58gt28VKfW"
     },
     {
       "added_at": "2023-04-28 04:00:00",
@@ -1375,30 +1375,6 @@
       "duration_ms": 236129,
       "name": "All Eyez On Me",
       "url": "https://open.spotify.com/track/7dHK4l02w2KojtTJJeqnUP"
-    },
-    {
-      "added_at": "2023-04-28 04:00:00",
-      "album": {
-        "name": "Tune",
-        "url": "https://open.spotify.com/album/0wN5zaRkX38Eh8U8myFobq"
-      },
-      "artists": [
-        {
-          "name": "Dread MC",
-          "url": "https://open.spotify.com/artist/2U5JmM5bTJuARrzQYnDAKn"
-        },
-        {
-          "name": "DJ Q",
-          "url": "https://open.spotify.com/artist/7dDPt2xIGymSDddx80OfF1"
-        },
-        {
-          "name": "Gentlemens Club",
-          "url": "https://open.spotify.com/artist/58MEqEE2029jp6KTWTt1hO"
-        }
-      ],
-      "duration_ms": 188160,
-      "name": "Tune",
-      "url": "https://open.spotify.com/track/7ske1qDeuRwD933vcnD3OS"
     },
     {
       "added_at": "2023-05-05 04:00:00",
@@ -1495,26 +1471,6 @@
     {
       "added_at": "2023-04-28 04:00:00",
       "album": {
-        "name": "Let You Down",
-        "url": "https://open.spotify.com/album/2aEj6LRGNbbqzdW9SVIrqp"
-      },
-      "artists": [
-        {
-          "name": "Morgan Page",
-          "url": "https://open.spotify.com/artist/1N9n8MSxrr4Emhb566493b"
-        },
-        {
-          "name": "BVRNOUT",
-          "url": "https://open.spotify.com/artist/5oREZfPeedk4nyo1GpqKfU"
-        }
-      ],
-      "duration_ms": 157538,
-      "name": "Let You Down",
-      "url": "https://open.spotify.com/track/2RPv6BPciODv2BRBdodEDK"
-    },
-    {
-      "added_at": "2023-04-28 04:00:00",
-      "album": {
         "name": "La Guitarra",
         "url": "https://open.spotify.com/album/4KBdjN4l1BQ54gd5m9MM9L"
       },
@@ -1551,6 +1507,26 @@
       "duration_ms": 162901,
       "name": "DROP 'EM",
       "url": "https://open.spotify.com/track/0ia4JRneHZ67w3sgTA3fL5"
+    },
+    {
+      "added_at": "2023-04-28 04:00:00",
+      "album": {
+        "name": "Let You Down",
+        "url": "https://open.spotify.com/album/2aEj6LRGNbbqzdW9SVIrqp"
+      },
+      "artists": [
+        {
+          "name": "Morgan Page",
+          "url": "https://open.spotify.com/artist/1N9n8MSxrr4Emhb566493b"
+        },
+        {
+          "name": "BVRNOUT",
+          "url": "https://open.spotify.com/artist/5oREZfPeedk4nyo1GpqKfU"
+        }
+      ],
+      "duration_ms": 157538,
+      "name": "Let You Down",
+      "url": "https://open.spotify.com/track/2RPv6BPciODv2BRBdodEDK"
     },
     {
       "added_at": "2023-04-28 04:00:00",
@@ -1595,22 +1571,6 @@
     {
       "added_at": "2023-04-28 04:00:00",
       "album": {
-        "name": "Set Me Free",
-        "url": "https://open.spotify.com/album/5Mu6N2Oep0WOSgXVRp1LVo"
-      },
-      "artists": [
-        {
-          "name": "Holy Goof",
-          "url": "https://open.spotify.com/artist/2gNmFyBanPG1slh2pHnCtU"
-        }
-      ],
-      "duration_ms": 187675,
-      "name": "Set Me Free",
-      "url": "https://open.spotify.com/track/5SVv1fiaB8maWIQxVYC9PI"
-    },
-    {
-      "added_at": "2023-04-28 04:00:00",
-      "album": {
         "name": "Lies",
         "url": "https://open.spotify.com/album/1c0Uiksf8eCx8QeRh4WhPC"
       },
@@ -1623,6 +1583,22 @@
       "duration_ms": 167619,
       "name": "Lies",
       "url": "https://open.spotify.com/track/6Il5epZuJzpHVNVjYXrYIT"
+    },
+    {
+      "added_at": "2023-04-28 04:00:00",
+      "album": {
+        "name": "Set Me Free",
+        "url": "https://open.spotify.com/album/5Mu6N2Oep0WOSgXVRp1LVo"
+      },
+      "artists": [
+        {
+          "name": "Holy Goof",
+          "url": "https://open.spotify.com/artist/2gNmFyBanPG1slh2pHnCtU"
+        }
+      ],
+      "duration_ms": 187675,
+      "name": "Set Me Free",
+      "url": "https://open.spotify.com/track/5SVv1fiaB8maWIQxVYC9PI"
     },
     {
       "added_at": "2023-04-28 04:00:00",
@@ -1651,22 +1627,6 @@
     {
       "added_at": "2023-04-28 04:00:00",
       "album": {
-        "name": "Rockin'",
-        "url": "https://open.spotify.com/album/6if9QVmVeAA9xHqWi0tlG7"
-      },
-      "artists": [
-        {
-          "name": "John Dahlb\u00e4ck",
-          "url": "https://open.spotify.com/artist/15xvsJMf8phaNa1LYvL9Qv"
-        }
-      ],
-      "duration_ms": 155520,
-      "name": "Rockin'",
-      "url": "https://open.spotify.com/track/3nW9Q0MB4r617xHgenkqRm"
-    },
-    {
-      "added_at": "2023-04-28 04:00:00",
-      "album": {
         "name": "Funky Sound",
         "url": "https://open.spotify.com/album/49PKyqHw17jBNcTUaLlafR"
       },
@@ -1683,26 +1643,6 @@
       "duration_ms": 139921,
       "name": "Funky Sound",
       "url": "https://open.spotify.com/track/6uKA5VNApuHQoWnSRH1jlc"
-    },
-    {
-      "added_at": "2023-04-28 04:00:00",
-      "album": {
-        "name": "MoneyBag (feat. Emida)",
-        "url": "https://open.spotify.com/album/3e5LragLBaOUUdACdtmxj2"
-      },
-      "artists": [
-        {
-          "name": "BIJOU",
-          "url": "https://open.spotify.com/artist/3abRKajGbb3kLMy9AWzfMA"
-        },
-        {
-          "name": "Emida",
-          "url": "https://open.spotify.com/artist/5qRPvk1z9F31rWTmAN8tnL"
-        }
-      ],
-      "duration_ms": 260625,
-      "name": "MoneyBag (feat. Emida)",
-      "url": "https://open.spotify.com/track/2UAYm3HBPNalktzCgWavda"
     },
     {
       "added_at": "2023-04-28 04:00:00",
@@ -1727,6 +1667,22 @@
     {
       "added_at": "2023-04-28 04:00:00",
       "album": {
+        "name": "Rockin'",
+        "url": "https://open.spotify.com/album/6if9QVmVeAA9xHqWi0tlG7"
+      },
+      "artists": [
+        {
+          "name": "John Dahlb\u00e4ck",
+          "url": "https://open.spotify.com/artist/15xvsJMf8phaNa1LYvL9Qv"
+        }
+      ],
+      "duration_ms": 155520,
+      "name": "Rockin'",
+      "url": "https://open.spotify.com/track/3nW9Q0MB4r617xHgenkqRm"
+    },
+    {
+      "added_at": "2023-04-28 04:00:00",
+      "album": {
         "name": "Techno",
         "url": "https://open.spotify.com/album/78pp5cZjGZ3HsONFmbn7bE"
       },
@@ -1743,6 +1699,26 @@
       "duration_ms": 222260,
       "name": "Techno",
       "url": "https://open.spotify.com/track/2CcQBQomdpTg3q97rj2Gp7"
+    },
+    {
+      "added_at": "2023-04-28 04:00:00",
+      "album": {
+        "name": "MoneyBag (feat. Emida)",
+        "url": "https://open.spotify.com/album/3e5LragLBaOUUdACdtmxj2"
+      },
+      "artists": [
+        {
+          "name": "BIJOU",
+          "url": "https://open.spotify.com/artist/3abRKajGbb3kLMy9AWzfMA"
+        },
+        {
+          "name": "Emida",
+          "url": "https://open.spotify.com/artist/5qRPvk1z9F31rWTmAN8tnL"
+        }
+      ],
+      "duration_ms": 260625,
+      "name": "MoneyBag (feat. Emida)",
+      "url": "https://open.spotify.com/track/2UAYm3HBPNalktzCgWavda"
     },
     {
       "added_at": "2023-04-28 04:00:00",
@@ -2085,26 +2061,6 @@
       "url": "https://open.spotify.com/track/3rcqrxKzMgfmJGUCDRYrgO"
     },
     {
-      "added_at": "2023-04-28 04:00:00",
-      "album": {
-        "name": "Dynamit",
-        "url": "https://open.spotify.com/album/79sO4cnYpPkleEdkRO6gE6"
-      },
-      "artists": [
-        {
-          "name": "MVDNES",
-          "url": "https://open.spotify.com/artist/0jo4MaRxUP72Rou02fgmi7"
-        },
-        {
-          "name": "Jet Crown",
-          "url": "https://open.spotify.com/artist/0fhdgJmaNnwr1TjeElwSRp"
-        }
-      ],
-      "duration_ms": 103548,
-      "name": "Dynamit",
-      "url": "https://open.spotify.com/track/6fYeZjIYG7Fzf6zOP7FTyW"
-    },
-    {
       "added_at": "2023-05-05 04:00:00",
       "album": {
         "name": "Big & Bad Riddim",
@@ -2127,6 +2083,26 @@
     {
       "added_at": "2023-04-28 04:00:00",
       "album": {
+        "name": "Dynamit",
+        "url": "https://open.spotify.com/album/79sO4cnYpPkleEdkRO6gE6"
+      },
+      "artists": [
+        {
+          "name": "MVDNES",
+          "url": "https://open.spotify.com/artist/0jo4MaRxUP72Rou02fgmi7"
+        },
+        {
+          "name": "Jet Crown",
+          "url": "https://open.spotify.com/artist/0fhdgJmaNnwr1TjeElwSRp"
+        }
+      ],
+      "duration_ms": 103548,
+      "name": "Dynamit",
+      "url": "https://open.spotify.com/track/6fYeZjIYG7Fzf6zOP7FTyW"
+    },
+    {
+      "added_at": "2023-04-28 04:00:00",
+      "album": {
         "name": "Get Twisted",
         "url": "https://open.spotify.com/album/7Lqz9CLtfqIc4ZmubT1uMR"
       },
@@ -2139,6 +2115,22 @@
       "duration_ms": 225000,
       "name": "Get Twisted",
       "url": "https://open.spotify.com/track/1bp9JRk8v2Y6EoRvoPTnig"
+    },
+    {
+      "added_at": "2023-04-28 04:00:00",
+      "album": {
+        "name": "Rock Like This",
+        "url": "https://open.spotify.com/album/4SrH18eWR1ImisdGB6gRRY"
+      },
+      "artists": [
+        {
+          "name": "MASTERIA",
+          "url": "https://open.spotify.com/artist/1cI5bP7j48xbopq0T3PRZO"
+        }
+      ],
+      "duration_ms": 157862,
+      "name": "Rock Like This",
+      "url": "https://open.spotify.com/track/1eexYaSkMUFc7c20wCzmH2"
     },
     {
       "added_at": "2023-04-28 04:00:00",
@@ -2159,22 +2151,6 @@
       "duration_ms": 144035,
       "name": "Wat U Want",
       "url": "https://open.spotify.com/track/06mJKi1dNqdCOSz89Z8wNv"
-    },
-    {
-      "added_at": "2023-04-28 04:00:00",
-      "album": {
-        "name": "Rock Like This",
-        "url": "https://open.spotify.com/album/4SrH18eWR1ImisdGB6gRRY"
-      },
-      "artists": [
-        {
-          "name": "MASTERIA",
-          "url": "https://open.spotify.com/artist/1cI5bP7j48xbopq0T3PRZO"
-        }
-      ],
-      "duration_ms": 157862,
-      "name": "Rock Like This",
-      "url": "https://open.spotify.com/track/1eexYaSkMUFc7c20wCzmH2"
     },
     {
       "added_at": "2023-04-28 04:00:00",
@@ -2211,6 +2187,22 @@
       "duration_ms": 186023,
       "name": "Easy",
       "url": "https://open.spotify.com/track/1izmlATFynbKSBxHjHo4Us"
+    },
+    {
+      "added_at": "2023-04-28 04:00:00",
+      "album": {
+        "name": "Feeling under Pressure",
+        "url": "https://open.spotify.com/album/1OW3rBusYWKe9oWJ5BRccS"
+      },
+      "artists": [
+        {
+          "name": "NIGHTCAP",
+          "url": "https://open.spotify.com/artist/6zQzf5rafx9QyRokaqO4qH"
+        }
+      ],
+      "duration_ms": 173208,
+      "name": "Feeling Under Pressure",
+      "url": "https://open.spotify.com/track/3DX8LKpJpOXEyNsS2NICrO"
     },
     {
       "added_at": "2023-04-28 04:00:00",
@@ -2255,22 +2247,6 @@
     {
       "added_at": "2023-04-28 04:00:00",
       "album": {
-        "name": "Blow / Moving",
-        "url": "https://open.spotify.com/album/3C6IMkUGDNmTkmgnBzABrV"
-      },
-      "artists": [
-        {
-          "name": "Skepsis",
-          "url": "https://open.spotify.com/artist/6DnQYUjtYusK9QJts9HqSC"
-        }
-      ],
-      "duration_ms": 220000,
-      "name": "Blow",
-      "url": "https://open.spotify.com/track/05oGtv3kNxsX8zTejIrO1u"
-    },
-    {
-      "added_at": "2023-04-28 04:00:00",
-      "album": {
         "name": "4 The Love",
         "url": "https://open.spotify.com/album/1VVeContseVgaxemdjoSDM"
       },
@@ -2283,22 +2259,6 @@
       "duration_ms": 188571,
       "name": "4 The Love",
       "url": "https://open.spotify.com/track/3CQmrKyNKHknCGUnEpm7Al"
-    },
-    {
-      "added_at": "2023-04-28 04:00:00",
-      "album": {
-        "name": "Feeling under Pressure",
-        "url": "https://open.spotify.com/album/1OW3rBusYWKe9oWJ5BRccS"
-      },
-      "artists": [
-        {
-          "name": "NIGHTCAP",
-          "url": "https://open.spotify.com/artist/6zQzf5rafx9QyRokaqO4qH"
-        }
-      ],
-      "duration_ms": 173208,
-      "name": "Feeling Under Pressure",
-      "url": "https://open.spotify.com/track/3DX8LKpJpOXEyNsS2NICrO"
     },
     {
       "added_at": "2023-04-28 04:00:00",
@@ -2359,6 +2319,46 @@
       "duration_ms": 129373,
       "name": "Blow",
       "url": "https://open.spotify.com/track/4gCFPxvdS84KFwSsprB12K"
+    },
+    {
+      "added_at": "2023-04-28 04:00:00",
+      "album": {
+        "name": "Badder",
+        "url": "https://open.spotify.com/album/6bn2OYT6wzSlegYgLW1RuB"
+      },
+      "artists": [
+        {
+          "name": "SLVR",
+          "url": "https://open.spotify.com/artist/4nKvbonPefiFmshjpHENVU"
+        },
+        {
+          "name": "offrami",
+          "url": "https://open.spotify.com/artist/733pYGuQ9xwCh15uK2VWT1"
+        },
+        {
+          "name": "Flirta D",
+          "url": "https://open.spotify.com/artist/2G9VTaPA12WZVovEImUtsR"
+        }
+      ],
+      "duration_ms": 208000,
+      "name": "Badder",
+      "url": "https://open.spotify.com/track/4ZrPmCZRTkZSWYeH3KD7Uh"
+    },
+    {
+      "added_at": "2023-04-28 04:00:00",
+      "album": {
+        "name": "DBL Park",
+        "url": "https://open.spotify.com/album/6LhckcJg7vMmV6rB0f1mwt"
+      },
+      "artists": [
+        {
+          "name": "Good Times Ahead",
+          "url": "https://open.spotify.com/artist/6M7RdR9ZP52h2mfNLmiHtU"
+        }
+      ],
+      "duration_ms": 204759,
+      "name": "DBL Park",
+      "url": "https://open.spotify.com/track/0V5bYmG3gwmt6zPCg3GcM5"
     }
   ],
   "unique_name": "Nasty Bits",

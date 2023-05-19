@@ -1,12 +1,12 @@
 {
   "description": "sparkling, shimmery synth pop \u2728",
-  "num_followers": 192418,
+  "num_followers": 192523,
   "original_name": "night pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjNmY1YjM5MWI2ZWRmN2E2NzY2NWUzNzZlMzU1NTEzNzJkMWFiNzQz",
+  "snapshot_id": "MCwxOTE2ZmU0NGJhNDZmOWYwNjg4OTU3OTdmOWQxMGZhNzg0MGI1MWY1",
   "tracks": [
     {
       "added_at": "2023-05-05 04:00:00",
@@ -431,22 +431,6 @@
     {
       "added_at": "2023-05-05 04:00:00",
       "album": {
-        "name": "CRASH",
-        "url": "https://open.spotify.com/album/1QqipMXWzJhr6yfcNKTp8B"
-      },
-      "artists": [
-        {
-          "name": "Charli XCX",
-          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
-        }
-      ],
-      "duration_ms": 138800,
-      "name": "Yuck",
-      "url": "https://open.spotify.com/track/5cYEuFqzITZlZzpoR1sHvu"
-    },
-    {
-      "added_at": "2023-05-05 04:00:00",
-      "album": {
         "name": "HAUNTED",
         "url": "https://open.spotify.com/album/4QhZwVQuNbbXtMgjp2Ngp2"
       },
@@ -459,6 +443,22 @@
       "duration_ms": 137851,
       "name": "HAUNTED",
       "url": "https://open.spotify.com/track/5ff77CZZUpY8Gvu5GuA6vb"
+    },
+    {
+      "added_at": "2023-05-05 04:00:00",
+      "album": {
+        "name": "CRASH",
+        "url": "https://open.spotify.com/album/1QqipMXWzJhr6yfcNKTp8B"
+      },
+      "artists": [
+        {
+          "name": "Charli XCX",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        }
+      ],
+      "duration_ms": 138800,
+      "name": "Yuck",
+      "url": "https://open.spotify.com/track/5cYEuFqzITZlZzpoR1sHvu"
     },
     {
       "added_at": "2023-05-05 04:00:00",
@@ -551,6 +551,22 @@
     {
       "added_at": "2023-05-05 04:00:00",
       "album": {
+        "name": "YOU FEAR THE GOD THAT LOVES YOU",
+        "url": "https://open.spotify.com/album/3O0sAN2kHcVQ5QqfQL8cyB"
+      },
+      "artists": [
+        {
+          "name": "Isabel LaRosa",
+          "url": "https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4"
+        }
+      ],
+      "duration_ms": 147568,
+      "name": "more than friends",
+      "url": "https://open.spotify.com/track/3QwlKiTMoOzXvOpzvCMUH6"
+    },
+    {
+      "added_at": "2023-05-05 04:00:00",
+      "album": {
         "name": "SATURNO",
         "url": "https://open.spotify.com/album/5AcRssiG0Zqu3lqYW7hMoM"
       },
@@ -595,22 +611,6 @@
       "duration_ms": 217125,
       "name": "Over",
       "url": "https://open.spotify.com/track/56kItkqB3oSsLrXK4p3ja4"
-    },
-    {
-      "added_at": "2023-05-05 04:00:00",
-      "album": {
-        "name": "YOU FEAR THE GOD THAT LOVES YOU",
-        "url": "https://open.spotify.com/album/3O0sAN2kHcVQ5QqfQL8cyB"
-      },
-      "artists": [
-        {
-          "name": "Isabel LaRosa",
-          "url": "https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4"
-        }
-      ],
-      "duration_ms": 147568,
-      "name": "more than friends",
-      "url": "https://open.spotify.com/track/3QwlKiTMoOzXvOpzvCMUH6"
     },
     {
       "added_at": "2023-05-05 04:00:00",
@@ -663,6 +663,22 @@
     {
       "added_at": "2023-05-05 04:00:00",
       "album": {
+        "name": "PIECES",
+        "url": "https://open.spotify.com/album/49oqAXVpNnPGyucWw91Eyo"
+      },
+      "artists": [
+        {
+          "name": "Elley Duh\u00e9",
+          "url": "https://open.spotify.com/artist/67MNhiAICFY6Pwc2YxCO0K"
+        }
+      ],
+      "duration_ms": 166680,
+      "name": "PIECES",
+      "url": "https://open.spotify.com/track/07IMjyn9gW77cR7APem5g6"
+    },
+    {
+      "added_at": "2023-05-05 04:00:00",
+      "album": {
         "name": "True love (feat. 070 Shake)",
         "url": "https://open.spotify.com/album/21ZlnuYMvzSLNOAYWH318k"
       },
@@ -683,22 +699,6 @@
     {
       "added_at": "2023-05-05 04:00:00",
       "album": {
-        "name": "PIECES",
-        "url": "https://open.spotify.com/album/49oqAXVpNnPGyucWw91Eyo"
-      },
-      "artists": [
-        {
-          "name": "Elley Duh\u00e9",
-          "url": "https://open.spotify.com/artist/67MNhiAICFY6Pwc2YxCO0K"
-        }
-      ],
-      "duration_ms": 166680,
-      "name": "PIECES",
-      "url": "https://open.spotify.com/track/07IMjyn9gW77cR7APem5g6"
-    },
-    {
-      "added_at": "2023-05-05 04:00:00",
-      "album": {
         "name": "Weightless",
         "url": "https://open.spotify.com/album/6XscVw482npx8U4x0aXXyp"
       },
@@ -711,22 +711,6 @@
       "duration_ms": 242922,
       "name": "Weightless",
       "url": "https://open.spotify.com/track/4syzriQO4gEZR61pU5FBFd"
-    },
-    {
-      "added_at": "2023-05-05 04:00:00",
-      "album": {
-        "name": "THE ONE",
-        "url": "https://open.spotify.com/album/70XMWmygOBc9zAC2MuGa0n"
-      },
-      "artists": [
-        {
-          "name": "INJI",
-          "url": "https://open.spotify.com/artist/0Z4Ir8usNVcAdCSQl0fQki"
-        }
-      ],
-      "duration_ms": 160661,
-      "name": "THE ONE",
-      "url": "https://open.spotify.com/track/0NHMIpUN5tk0zbHNvkIiav"
     },
     {
       "added_at": "2023-05-05 04:00:00",
@@ -755,6 +739,22 @@
     {
       "added_at": "2023-05-05 04:00:00",
       "album": {
+        "name": "THE ONE",
+        "url": "https://open.spotify.com/album/70XMWmygOBc9zAC2MuGa0n"
+      },
+      "artists": [
+        {
+          "name": "INJI",
+          "url": "https://open.spotify.com/artist/0Z4Ir8usNVcAdCSQl0fQki"
+        }
+      ],
+      "duration_ms": 160661,
+      "name": "THE ONE",
+      "url": "https://open.spotify.com/track/0NHMIpUN5tk0zbHNvkIiav"
+    },
+    {
+      "added_at": "2023-05-05 04:00:00",
+      "album": {
         "name": "No One Dies From Love",
         "url": "https://open.spotify.com/album/2oKzwmlJS888dI16InbxCv"
       },
@@ -771,18 +771,18 @@
     {
       "added_at": "2023-05-05 04:00:00",
       "album": {
-        "name": "To be honest",
-        "url": "https://open.spotify.com/album/2zqbBftrJpAiOeHwhO9W6X"
+        "name": "MUNA",
+        "url": "https://open.spotify.com/album/4ndTvTrNwgUfRw4g1R2B4l"
       },
       "artists": [
         {
-          "name": "Christine and the Queens",
-          "url": "https://open.spotify.com/artist/04vj3iPUiVh5melWr0w3xT"
+          "name": "MUNA",
+          "url": "https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn"
         }
       ],
-      "duration_ms": 221823,
-      "name": "To be honest",
-      "url": "https://open.spotify.com/track/3G1rPeSTMK5MNno47y1Ll0"
+      "duration_ms": 243236,
+      "name": "What I Want",
+      "url": "https://open.spotify.com/track/7uvxkcv7FWVh4wE91I8Bi2"
     },
     {
       "added_at": "2023-05-05 04:00:00",
@@ -799,22 +799,6 @@
       "duration_ms": 172940,
       "name": "Better Man",
       "url": "https://open.spotify.com/track/2BHbnX2TI08CyUa9gWFeqK"
-    },
-    {
-      "added_at": "2023-05-05 04:00:00",
-      "album": {
-        "name": "MUNA",
-        "url": "https://open.spotify.com/album/4ndTvTrNwgUfRw4g1R2B4l"
-      },
-      "artists": [
-        {
-          "name": "MUNA",
-          "url": "https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn"
-        }
-      ],
-      "duration_ms": 243236,
-      "name": "What I Want",
-      "url": "https://open.spotify.com/track/7uvxkcv7FWVh4wE91I8Bi2"
     },
     {
       "added_at": "2023-05-05 04:00:00",
@@ -851,6 +835,22 @@
       "duration_ms": 196760,
       "name": "tears in the club (feat. the weeknd)",
       "url": "https://open.spotify.com/track/1GsSM1Fju5J1Fsu51jEsTg"
+    },
+    {
+      "added_at": "2023-05-05 04:00:00",
+      "album": {
+        "name": "To be honest",
+        "url": "https://open.spotify.com/album/2zqbBftrJpAiOeHwhO9W6X"
+      },
+      "artists": [
+        {
+          "name": "Christine and the Queens",
+          "url": "https://open.spotify.com/artist/04vj3iPUiVh5melWr0w3xT"
+        }
+      ],
+      "duration_ms": 221823,
+      "name": "To be honest",
+      "url": "https://open.spotify.com/track/3G1rPeSTMK5MNno47y1Ll0"
     },
     {
       "added_at": "2023-05-05 04:00:00",
@@ -1019,6 +1019,22 @@
     {
       "added_at": "2023-05-05 04:00:00",
       "album": {
+        "name": "Naked In Manhattan",
+        "url": "https://open.spotify.com/album/6nMbaV420wdCbTqJNU6Dnp"
+      },
+      "artists": [
+        {
+          "name": "Chappell Roan",
+          "url": "https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN"
+        }
+      ],
+      "duration_ms": 211057,
+      "name": "Naked In Manhattan",
+      "url": "https://open.spotify.com/track/1IfgSUsltB1wGK9SzK7SDa"
+    },
+    {
+      "added_at": "2023-05-05 04:00:00",
+      "album": {
         "name": "NOT ALONE",
         "url": "https://open.spotify.com/album/06osQucbdoBctWgXgdFblC"
       },
@@ -1047,22 +1063,6 @@
       "duration_ms": 195257,
       "name": "CGI",
       "url": "https://open.spotify.com/track/0yinijG2Ju2VOeLLB8BgVe"
-    },
-    {
-      "added_at": "2023-05-05 04:00:00",
-      "album": {
-        "name": "Naked In Manhattan",
-        "url": "https://open.spotify.com/album/6nMbaV420wdCbTqJNU6Dnp"
-      },
-      "artists": [
-        {
-          "name": "Chappell Roan",
-          "url": "https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN"
-        }
-      ],
-      "duration_ms": 211057,
-      "name": "Naked In Manhattan",
-      "url": "https://open.spotify.com/track/1IfgSUsltB1wGK9SzK7SDa"
     },
     {
       "added_at": "2023-05-05 04:00:00",
@@ -1167,22 +1167,6 @@
     {
       "added_at": "2023-05-05 04:00:00",
       "album": {
-        "name": "Heaven",
-        "url": "https://open.spotify.com/album/7EnO0GjNIxwIIu6RTkA27W"
-      },
-      "artists": [
-        {
-          "name": "Maude Latour",
-          "url": "https://open.spotify.com/artist/3MNLhvqJkWsO6tcjY9ps62"
-        }
-      ],
-      "duration_ms": 180907,
-      "name": "Heaven",
-      "url": "https://open.spotify.com/track/5GyTokby3eulIdnD6fc0va"
-    },
-    {
-      "added_at": "2023-05-05 04:00:00",
-      "album": {
         "name": "Purple Sun",
         "url": "https://open.spotify.com/album/0RRuVdfrNyEnD59MzmVIE1"
       },
@@ -1199,6 +1183,22 @@
     {
       "added_at": "2023-05-05 04:00:00",
       "album": {
+        "name": "Heaven",
+        "url": "https://open.spotify.com/album/7EnO0GjNIxwIIu6RTkA27W"
+      },
+      "artists": [
+        {
+          "name": "Maude Latour",
+          "url": "https://open.spotify.com/artist/3MNLhvqJkWsO6tcjY9ps62"
+        }
+      ],
+      "duration_ms": 180907,
+      "name": "Heaven",
+      "url": "https://open.spotify.com/track/5GyTokby3eulIdnD6fc0va"
+    },
+    {
+      "added_at": "2023-05-05 04:00:00",
+      "album": {
         "name": "Easy / Where Do We Go From Here?",
         "url": "https://open.spotify.com/album/1paYV647AAPnlKgpFJVtLa"
       },
@@ -1211,22 +1211,6 @@
       "duration_ms": 231670,
       "name": "Where Do We Go From Here?",
       "url": "https://open.spotify.com/track/5DObWDHfwHE2mIdZGgRnzE"
-    },
-    {
-      "added_at": "2023-05-05 04:00:00",
-      "album": {
-        "name": "Lost",
-        "url": "https://open.spotify.com/album/19iU0Zz3hNQwWCSjJaR5LI"
-      },
-      "artists": [
-        {
-          "name": "Pet Shop Boys",
-          "url": "https://open.spotify.com/artist/2ycnb8Er79LoH2AsR5ldjh"
-        }
-      ],
-      "duration_ms": 278866,
-      "name": "I will fall",
-      "url": "https://open.spotify.com/track/7BTtFGSWdfpj4bMPWBlQzH"
     },
     {
       "added_at": "2023-05-05 04:00:00",
@@ -1259,6 +1243,22 @@
       "duration_ms": 212660,
       "name": "Love Me More",
       "url": "https://open.spotify.com/track/2OnrjKShafw7qtoyLkKNR2"
+    },
+    {
+      "added_at": "2023-05-05 04:00:00",
+      "album": {
+        "name": "Lost",
+        "url": "https://open.spotify.com/album/19iU0Zz3hNQwWCSjJaR5LI"
+      },
+      "artists": [
+        {
+          "name": "Pet Shop Boys",
+          "url": "https://open.spotify.com/artist/2ycnb8Er79LoH2AsR5ldjh"
+        }
+      ],
+      "duration_ms": 278866,
+      "name": "I will fall",
+      "url": "https://open.spotify.com/track/7BTtFGSWdfpj4bMPWBlQzH"
     }
   ],
   "unique_name": "night pop",

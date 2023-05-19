@@ -1,12 +1,12 @@
 {
   "description": "Moody electronica for the night time hours",
-  "num_followers": 104111,
+  "num_followers": 104123,
   "original_name": "Night Shift",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlZjFhOGE5NTEwYzRmMzdiY2IzNmU2MzA2M2ViMzNkMzg0NWQ5NDIy",
+  "snapshot_id": "MCxiYWI0NjlmYTVkYmI4M2FjODU4NzA4ZmY0MzRjZDIwMWZkYzM5N2Vl",
   "tracks": [
     {
       "added_at": "2023-05-05 02:04:51",
@@ -139,6 +139,22 @@
     {
       "added_at": "2023-05-05 02:04:51",
       "album": {
+        "name": "OnlyL",
+        "url": "https://open.spotify.com/album/3S0Bc7ND7GBGyBUElLAXqU"
+      },
+      "artists": [
+        {
+          "name": "TSHA",
+          "url": "https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh"
+        }
+      ],
+      "duration_ms": 288038,
+      "name": "I Know",
+      "url": "https://open.spotify.com/track/4oV37nYkVu3IZ64ZGxghT7"
+    },
+    {
+      "added_at": "2023-05-05 02:04:51",
+      "album": {
         "name": "Keep On",
         "url": "https://open.spotify.com/album/1H43fXF8GpLEXaWk2raqxO"
       },
@@ -155,22 +171,6 @@
       "duration_ms": 218308,
       "name": "Keep On",
       "url": "https://open.spotify.com/track/5Zm8huZ4tzDm7eLKFScrE8"
-    },
-    {
-      "added_at": "2023-05-05 02:04:51",
-      "album": {
-        "name": "OnlyL",
-        "url": "https://open.spotify.com/album/3S0Bc7ND7GBGyBUElLAXqU"
-      },
-      "artists": [
-        {
-          "name": "TSHA",
-          "url": "https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh"
-        }
-      ],
-      "duration_ms": 288038,
-      "name": "I Know",
-      "url": "https://open.spotify.com/track/4oV37nYkVu3IZ64ZGxghT7"
     },
     {
       "added_at": "2023-05-05 02:04:51",
@@ -303,22 +303,6 @@
     {
       "added_at": "2023-05-05 02:04:51",
       "album": {
-        "name": "Whatever Happens, Happens",
-        "url": "https://open.spotify.com/album/1WJ9gGJIFiHEcAgTMMwtD8"
-      },
-      "artists": [
-        {
-          "name": "Loverground",
-          "url": "https://open.spotify.com/artist/3SvoerawAn5RAZ2N9osc3z"
-        }
-      ],
-      "duration_ms": 227304,
-      "name": "Whatever Happens, Happens",
-      "url": "https://open.spotify.com/track/7JCDUpvqoOsUI80cQezG7M"
-    },
-    {
-      "added_at": "2023-05-05 02:04:51",
-      "album": {
         "name": "All Good",
         "url": "https://open.spotify.com/album/4KyYJbYmodLczcw5HLkkzI"
       },
@@ -331,6 +315,22 @@
       "duration_ms": 271742,
       "name": "All Good",
       "url": "https://open.spotify.com/track/0E1R3RC1YxQ6nIJ2ZDbDjF"
+    },
+    {
+      "added_at": "2023-05-05 02:04:51",
+      "album": {
+        "name": "Whatever Happens, Happens",
+        "url": "https://open.spotify.com/album/1WJ9gGJIFiHEcAgTMMwtD8"
+      },
+      "artists": [
+        {
+          "name": "Loverground",
+          "url": "https://open.spotify.com/artist/3SvoerawAn5RAZ2N9osc3z"
+        }
+      ],
+      "duration_ms": 227304,
+      "name": "Whatever Happens, Happens",
+      "url": "https://open.spotify.com/track/7JCDUpvqoOsUI80cQezG7M"
     },
     {
       "added_at": "2023-05-05 02:04:51",
@@ -543,6 +543,26 @@
     {
       "added_at": "2023-05-05 02:04:51",
       "album": {
+        "name": "Is It Me",
+        "url": "https://open.spotify.com/album/2gOyFVfaBrD3C3mHgKUl7E"
+      },
+      "artists": [
+        {
+          "name": "Achingdrum",
+          "url": "https://open.spotify.com/artist/7JYSNyL7lYRsQHAfxQkIie"
+        },
+        {
+          "name": "Tim Shiel",
+          "url": "https://open.spotify.com/artist/4s4HQb53CQx8x9GlWJ5Ocy"
+        }
+      ],
+      "duration_ms": 256000,
+      "name": "Is It Me",
+      "url": "https://open.spotify.com/track/16mtgdA4xzXkDewenuZ45D"
+    },
+    {
+      "added_at": "2023-05-05 02:04:51",
+      "album": {
         "name": "meserole",
         "url": "https://open.spotify.com/album/6IAjQJTXRLi7MdiE1KptlD"
       },
@@ -599,26 +619,6 @@
     {
       "added_at": "2023-05-05 02:04:51",
       "album": {
-        "name": "Is It Me",
-        "url": "https://open.spotify.com/album/2gOyFVfaBrD3C3mHgKUl7E"
-      },
-      "artists": [
-        {
-          "name": "Achingdrum",
-          "url": "https://open.spotify.com/artist/7JYSNyL7lYRsQHAfxQkIie"
-        },
-        {
-          "name": "Tim Shiel",
-          "url": "https://open.spotify.com/artist/4s4HQb53CQx8x9GlWJ5Ocy"
-        }
-      ],
-      "duration_ms": 256000,
-      "name": "Is It Me",
-      "url": "https://open.spotify.com/track/16mtgdA4xzXkDewenuZ45D"
-    },
-    {
-      "added_at": "2023-05-05 02:04:51",
-      "album": {
         "name": "Coasting",
         "url": "https://open.spotify.com/album/54DYqYdimIsZdIvxzQEtAJ"
       },
@@ -667,22 +667,6 @@
     {
       "added_at": "2023-05-05 02:04:51",
       "album": {
-        "name": "Inperspect",
-        "url": "https://open.spotify.com/album/0nui0D7kNm21Gcy2KH5fAR"
-      },
-      "artists": [
-        {
-          "name": "2XM",
-          "url": "https://open.spotify.com/artist/3mvWwdMf9ypJJKRXg6eL32"
-        }
-      ],
-      "duration_ms": 498001,
-      "name": "Inperspect",
-      "url": "https://open.spotify.com/track/3D4ci48ii0VN38xqo5Qw7E"
-    },
-    {
-      "added_at": "2023-05-05 02:04:51",
-      "album": {
         "name": "Boo's Mood",
         "url": "https://open.spotify.com/album/37XnGed9rFSMci9ljdWSOQ"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 263348,
       "name": "Boo's Mood",
       "url": "https://open.spotify.com/track/3NpY3kZ5NDJVZZDjzAlBaz"
+    },
+    {
+      "added_at": "2023-05-05 02:04:51",
+      "album": {
+        "name": "Inperspect",
+        "url": "https://open.spotify.com/album/0nui0D7kNm21Gcy2KH5fAR"
+      },
+      "artists": [
+        {
+          "name": "2XM",
+          "url": "https://open.spotify.com/artist/3mvWwdMf9ypJJKRXg6eL32"
+        }
+      ],
+      "duration_ms": 498001,
+      "name": "Inperspect",
+      "url": "https://open.spotify.com/track/3D4ci48ii0VN38xqo5Qw7E"
     },
     {
       "added_at": "2023-05-05 02:04:51",
@@ -747,22 +747,6 @@
     {
       "added_at": "2023-05-05 02:04:51",
       "album": {
-        "name": "From The Ashes EP",
-        "url": "https://open.spotify.com/album/4QTuY78vkmEXqpDDae2856"
-      },
-      "artists": [
-        {
-          "name": "Oliver Henry",
-          "url": "https://open.spotify.com/artist/5rrIGWOBnDYdcRz9FqdvfD"
-        }
-      ],
-      "duration_ms": 138337,
-      "name": "Moving Still - Reprise",
-      "url": "https://open.spotify.com/track/6Bb95rf8ewBdgcArC0iEJf"
-    },
-    {
-      "added_at": "2023-05-05 02:04:51",
-      "album": {
         "name": "Floating",
         "url": "https://open.spotify.com/album/5ZDfdoj6YtnOhPGwPKTTr8"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 349000,
       "name": "Floating",
       "url": "https://open.spotify.com/track/0sfY8uUKQxPqnK8sqvvKO2"
+    },
+    {
+      "added_at": "2023-05-05 02:04:51",
+      "album": {
+        "name": "From The Ashes EP",
+        "url": "https://open.spotify.com/album/4QTuY78vkmEXqpDDae2856"
+      },
+      "artists": [
+        {
+          "name": "Oliver Henry",
+          "url": "https://open.spotify.com/artist/5rrIGWOBnDYdcRz9FqdvfD"
+        }
+      ],
+      "duration_ms": 138337,
+      "name": "Moving Still - Reprise",
+      "url": "https://open.spotify.com/track/6Bb95rf8ewBdgcArC0iEJf"
     },
     {
       "added_at": "2023-05-05 02:04:51",
@@ -1135,22 +1135,6 @@
     {
       "added_at": "2023-05-05 02:04:51",
       "album": {
-        "name": "ENCLOSURE",
-        "url": "https://open.spotify.com/album/1hcGDnuOuufMcUn2QfmrQ0"
-      },
-      "artists": [
-        {
-          "name": "2XM",
-          "url": "https://open.spotify.com/artist/3mvWwdMf9ypJJKRXg6eL32"
-        }
-      ],
-      "duration_ms": 259805,
-      "name": "ENCLOSURE",
-      "url": "https://open.spotify.com/track/4izuPtp0dTuJF9xoqQR4W3"
-    },
-    {
-      "added_at": "2023-05-05 02:04:51",
-      "album": {
         "name": "Higher Elevation",
         "url": "https://open.spotify.com/album/3H0AaXwg0UfCbIluZool04"
       },
@@ -1163,22 +1147,6 @@
       "duration_ms": 373453,
       "name": "Higher Elevation",
       "url": "https://open.spotify.com/track/1lb1LQdKk2W265fIggX4SV"
-    },
-    {
-      "added_at": "2023-05-05 02:04:51",
-      "album": {
-        "name": "Desert",
-        "url": "https://open.spotify.com/album/3J55fcmO15upttdki07D9U"
-      },
-      "artists": [
-        {
-          "name": "WaTa",
-          "url": "https://open.spotify.com/artist/0y4UlAL3MRNRaPWGzZrmT0"
-        }
-      ],
-      "duration_ms": 242177,
-      "name": "Desert",
-      "url": "https://open.spotify.com/track/0a8LoorG8xRgwHltPh4iMT"
     },
     {
       "added_at": "2023-05-05 02:04:51",
@@ -1199,6 +1167,22 @@
     {
       "added_at": "2023-05-05 02:04:51",
       "album": {
+        "name": "ENCLOSURE",
+        "url": "https://open.spotify.com/album/1hcGDnuOuufMcUn2QfmrQ0"
+      },
+      "artists": [
+        {
+          "name": "2XM",
+          "url": "https://open.spotify.com/artist/3mvWwdMf9ypJJKRXg6eL32"
+        }
+      ],
+      "duration_ms": 259805,
+      "name": "ENCLOSURE",
+      "url": "https://open.spotify.com/track/4izuPtp0dTuJF9xoqQR4W3"
+    },
+    {
+      "added_at": "2023-05-05 02:04:51",
+      "album": {
         "name": "To You EP",
         "url": "https://open.spotify.com/album/3Anf3lNMU7cCesmckx62wI"
       },
@@ -1211,6 +1195,22 @@
       "duration_ms": 306589,
       "name": "To You",
       "url": "https://open.spotify.com/track/38GS3GcRxHE9YXuIk21eaC"
+    },
+    {
+      "added_at": "2023-05-05 02:04:51",
+      "album": {
+        "name": "Desert",
+        "url": "https://open.spotify.com/album/3J55fcmO15upttdki07D9U"
+      },
+      "artists": [
+        {
+          "name": "WaTa",
+          "url": "https://open.spotify.com/artist/0y4UlAL3MRNRaPWGzZrmT0"
+        }
+      ],
+      "duration_ms": 242177,
+      "name": "Desert",
+      "url": "https://open.spotify.com/track/0a8LoorG8xRgwHltPh4iMT"
     }
   ],
   "unique_name": "Night Shift",

@@ -4,7 +4,7 @@
 
 > The biggest crossover songs from the islands all in one place\. Cover: Shaggy
 
-135 songs - 6 hr 49 min
+136 songs - 6 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -117,7 +117,8 @@
 | [Super Soca](https://open.spotify.com/track/4hPtBML94zR8CdFx0JuUDU) | [Machel Montano](https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ), [Vybz Kartel](https://open.spotify.com/artist/2NUz5P42WqkxilbI8ocN76) | [The Wedding Album](https://open.spotify.com/album/1yt5cxkSS043TURuvnA9mZ) | 3:06 | 2021-12-20 | 2022-08-19 |
 | [Sweepstake Life](https://open.spotify.com/track/58NHF2OvW3GG6YPaeJxKHh) | [Squash](https://open.spotify.com/artist/1HXkVBU6RwIxxN6xuI6b00) | [Sweepstake Life](https://open.spotify.com/album/5CgSQKBs32x5ZTOgc7uYSn) | 3:00 | 2022-08-18 | 2023-05-16 |
 | [Switch](https://open.spotify.com/track/0RSoY4ecJzEgtJVX2XSHsE) | [Zerimar](https://open.spotify.com/artist/7IbkKTNpBj7MORRdt3oge3) | [Switch](https://open.spotify.com/album/1xhNZycPsboRP33kJiXwuh) | 4:22 | 2021-12-20 | 2022-08-19 |
-| [Talibans](https://open.spotify.com/track/0in4JBEFmQVtyNJCN9UeXU) | [Byron Messia](https://open.spotify.com/artist/3IDfJpj4YVkaBl7Dd52Pxv) | [No Love](https://open.spotify.com/album/2AR2cNQcrYLK8vAxTZe8ai) | 3:08 | 2023-05-15 |  |
+| [Talibans](https://open.spotify.com/track/0TTOsyDKykWhCh3qDd9wMY) | [Byron Messia](https://open.spotify.com/artist/3IDfJpj4YVkaBl7Dd52Pxv) | [No Love](https://open.spotify.com/album/6Ds8n0PlFxomLOtEHFwBeo) | 3:08 | 2023-05-16 |  |
+| [Talibans](https://open.spotify.com/track/0in4JBEFmQVtyNJCN9UeXU) | [Byron Messia](https://open.spotify.com/artist/3IDfJpj4YVkaBl7Dd52Pxv) | [No Love](https://open.spotify.com/album/2AR2cNQcrYLK8vAxTZe8ai) | 3:08 | 2023-05-15 | 2023-05-19 |
 | [Talibhan](https://open.spotify.com/track/2fZIqtkyJAEvrrriiCGXNc) | [Skeng](https://open.spotify.com/artist/4SGo67MJz6DdsjzaRZ4OD7), [Stalk Ashley](https://open.spotify.com/artist/6VCt6Dh7TaZF330ZFeNHv5) | [Talibhan](https://open.spotify.com/album/2ii7mUCpSxXp3pWnjP6lPa) | 3:03 | 2022-08-18 | 2023-05-16 |
 | [Ten Cane Row \(feat\. Jorja Smith\)](https://open.spotify.com/track/5Zzh3jIDIvCb6bllZjfuL4) | [Protoje](https://open.spotify.com/artist/7BGR8y1VZAWK2oR4zD9COr), [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Third Time's The Charm](https://open.spotify.com/album/2twm4yeL6jW6SqZ2S0YaS7) | 3:29 | 2023-05-15 |  |
 | [The Harder They Fall](https://open.spotify.com/track/6AxSYAHq0U6fKykB7uScPl) | [Koffee](https://open.spotify.com/artist/1gWjcmBsveEYMxOZ0VRi32) | [The Harder They Fall \(The Motion Picture Soundtrack\)](https://open.spotify.com/album/3whjvbBxG7j2FfTImRdqBw) | 2:48 | 2021-12-20 | 2022-08-19 |

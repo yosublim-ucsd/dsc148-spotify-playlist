@@ -2,9 +2,9 @@
 
 ### [+852 Rising](https://open.spotify.com/playlist/37i9dQZF1DX5JZ2TewQjUr)
 
-> 香港獨立樂隊及音樂人新浪潮集合晒喺度！記得聽真啲！Cover: KALAI 家麗
+> 香港獨立樂隊及音樂人新浪潮集合晒喺度！記得聽真啲！Cover: 惡夢扭蛋
 
-522 songs - 1 day 5 hr 41 min
+528 songs - 1 day 5 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -130,6 +130,7 @@
 | [Here's Hopin'](https://open.spotify.com/track/7bZ8q4lFrzHkkY92VA4smb) | [Ryan Cheung](https://open.spotify.com/artist/3Pr8ZuTkrQknmsRH5XAhZV) | [Here's Hopin'](https://open.spotify.com/album/4Ypsn5fDUlXdoxRXMi3iZ8) | 3:53 | 2022-06-02 | 2022-09-09 |
 | [hibernate \(draft\)](https://open.spotify.com/track/6fiIyM18sV5beMMf9eaQ3C) | [kan](https://open.spotify.com/artist/1lBTgx2dax8DTyeZ4URvzZ) | [hibernate \(draft\)](https://open.spotify.com/album/03fBYQPyVcvYBp9ysYvN5s) | 1:30 | 2022-12-29 | 2023-03-18 |
 | [hold on](https://open.spotify.com/track/1tOoCgu8aSXnB7eJxrKulV) | [jøno](https://open.spotify.com/artist/3oWQ3rSeKMRuEmbud3qBI4) | [hold on](https://open.spotify.com/album/0g4lKZRyv4ulV6HgVuaxKo) | 3:01 | 2022-09-01 | 2023-01-06 |
+| [HOMEBODY](https://open.spotify.com/track/4oEDQ1HvhZcLNsf1IYwLPB) | [Dessy](https://open.spotify.com/artist/1GSKqQSEbAGUjWXceR0VTy) | [ODDESSY](https://open.spotify.com/album/2YbralF8avxuxNeV8UhLwK) | 2:33 | 2023-05-18 |  |
 | [honest \(feat\. moon tang\)](https://open.spotify.com/track/6kEzWfX8TilHN8FenwdxCE) | [Gareth.T](https://open.spotify.com/artist/6R57JlNKlnNrYaji0vw8xx), [moon tang](https://open.spotify.com/artist/51ZhiTtynrHq7tD4xfGZV7) | [honest \(feat\. moon tang\)](https://open.spotify.com/album/1zOZUQUEjtGprPtvKq6nk7) | 2:57 | 2022-05-26 | 2022-06-10 |
 | [Hot Cocoa](https://open.spotify.com/track/0P860fWaQufIrjYPRbUKoc) | [RUMBU](https://open.spotify.com/artist/0KxIN3aA64bE2qIRJwLL3Z) | [Hot Cocoa](https://open.spotify.com/album/7GdOPwDjLRIX9OOXpxAp6t) | 3:02 | 2022-10-13 | 2023-02-03 |
 | [Hotel V](https://open.spotify.com/track/1WhCMZuYVLqRoSHFTYkYCi) | [Distant Vega](https://open.spotify.com/artist/3nj7zqPOrLe1f2lPZN3W0U) | [Hotel V](https://open.spotify.com/album/4iLFOuFjU5pQfxjnNdHcki) | 3:23 | 2022-05-26 | 2022-09-09 |
@@ -147,6 +148,7 @@
 | [I'm not the one](https://open.spotify.com/track/3xqhWlBXXGrIYi1ayfYCqB) | [Ethan Tong](https://open.spotify.com/artist/6ism2YHCPqfxz6Rja13RUb) | [I'm not the one](https://open.spotify.com/album/0Vr2ZGzGQlXjQNvLAKbuL9) | 4:29 | 2022-05-26 | 2022-07-29 |
 | [If I Can Be You](https://open.spotify.com/track/4D8ROLAVQZ4MMNDvXxIWXa) | [Gordon Ho](https://open.spotify.com/artist/1k0HqYv6UVaBu3spRZcSTn) | [If I Can Be You](https://open.spotify.com/album/2toJPghMs49FkCDeYnRIT7) | 3:19 | 2022-06-30 | 2022-11-04 |
 | [If I Would Have Known](https://open.spotify.com/track/6jn9lZE9wlNVap68nbYJ9Y) | [Chancharlie](https://open.spotify.com/artist/43ibupoLM6nWMGBh14Og4T) | [If I Would Have Known](https://open.spotify.com/album/1ER0gWPRaKzCcC9o7BGhta) | 3:21 | 2022-06-24 | 2022-09-09 |
+| [iLover](https://open.spotify.com/track/5zgXVEsgg2ymnKLPEhNaqr) | [KINKI 盧芷韻](https://open.spotify.com/artist/2AZx3MrH8U956HSprsyTCQ) | [iLover \- 電影《全個世界都有電話》插曲](https://open.spotify.com/album/3iEEmKuyZGsYSHALDkuEvx) | 3:06 | 2023-05-18 |  |
 | [In Another Life](https://open.spotify.com/track/1jpgacTEqXNNhTLTQTeUcl) | [BCHOY](https://open.spotify.com/artist/62kYN1r4Go0yN3cT4kwopF) | [In Another Life](https://open.spotify.com/album/4KDL14uRiNvUfIhVhkJfKx) | 2:27 | 2022-10-06 | 2023-02-03 |
 | [INFINITY](https://open.spotify.com/track/18YVgGscS1ILP2vSQwFtOJ) | [J Jelly](https://open.spotify.com/artist/6P03BlZWRPQGNSyiauTllj) | [INFINITY](https://open.spotify.com/album/6lLBRkAWPxhufoe5ySQMMo) | 3:36 | 2022-12-15 | 2023-03-18 |
 | [INSECURE](https://open.spotify.com/track/1QmXQ90HCMe9jCM0xrCdI4) | [Gordon Flanders](https://open.spotify.com/artist/2yMjXqAPoOehNikcWBRdfD) | [INSECURE](https://open.spotify.com/album/4ct723N4CptKNkpDF8mls8) | 3:01 | 2022-09-22 | 2023-03-18 |
@@ -293,6 +295,7 @@
 | [The World Kills a Girl](https://open.spotify.com/track/2josvKor08XNPnvlQNONeq) | [Gordon Ho](https://open.spotify.com/artist/1k0HqYv6UVaBu3spRZcSTn) | [To the Passed, Passing, and Yet to Pass](https://open.spotify.com/album/1qrItkwGmtom9t4NacrNwg) | 4:00 | 2022-08-11 | 2022-11-04 |
 | [Think I'm In Love](https://open.spotify.com/track/4Ip4uvrIqnxGM8RB9rsCrt) | [kayan9896](https://open.spotify.com/artist/0SkORhzzdXwG4cIoEgiodt) | [Think I'm In Love](https://open.spotify.com/album/5lfI2lfNkgMpCpfSxsNdje) | 2:21 | 2023-02-23 |  |
 | [This Is Our Time](https://open.spotify.com/track/53gylyBSKjTAlYQx2OBMol) | [KALAI 家麗](https://open.spotify.com/artist/1TwAmYMVhBwnBdNVKCHsOT) | [This Is Our Time](https://open.spotify.com/album/43glLAVF68qBfkxbGn6LRZ) | 3:12 | 2022-09-08 | 2023-03-18 |
+| [Tie Dye](https://open.spotify.com/track/6un3YXxJWnu0l7qRgkuuOJ) | [Joséay](https://open.spotify.com/artist/3wADT5yU8enVjNSW9BoMxt) | [Tie Dye](https://open.spotify.com/album/2ncI47qvFgRCeyRXKS6O99) | 2:10 | 2023-05-18 |  |
 | [Time To Fly](https://open.spotify.com/track/7M500AQktvYa9JGDp4IcZG) | [Natalie Ho](https://open.spotify.com/artist/7zhpwTqTMnxpH4d2cUGdnB) | [Time To Fly](https://open.spotify.com/album/50Vdrx6lOmaXe0RyBeankB) | 3:23 | 2023-04-13 |  |
 | [Time to Fly](https://open.spotify.com/track/6FdZaquX1YGX7pPShsNxoz) | [Natalie Ho](https://open.spotify.com/artist/7zhpwTqTMnxpH4d2cUGdnB) | [Time to Fly](https://open.spotify.com/album/1i2JYcDM4sDkQlcydwVSHG) | 3:23 | 2023-03-24 | 2023-04-19 |
 | [Time Travel To The Past](https://open.spotify.com/track/4Zrh9tdKD89hS4vBtQynn6) | [Nj Ho](https://open.spotify.com/artist/25GIEfY5XJejZgXcfvtj7m) | [Time Travel To The Past](https://open.spotify.com/album/3EYe76GzcTuIlPIujo7WaE) | 2:19 | 2022-12-29 | 2023-03-18 |
@@ -320,6 +323,7 @@
 | [we know it's not, babe](https://open.spotify.com/track/73EcV0W0GZG2o8FjiRdEZ3) | [melatonin boy](https://open.spotify.com/artist/66vheDPkCTxEfvcqxPZR19) | [we know it's not, babe](https://open.spotify.com/album/4I3AjlGjqinI8xpkuQCVDw) | 3:33 | 2023-03-02 |  |
 | [we'll meet again someday](https://open.spotify.com/track/2MhmZKLUVGIeR5isxJBIqF) | [Crlsyiu](https://open.spotify.com/artist/3QCcg3sxycinU9J2khknoK) | [NIRVANA](https://open.spotify.com/album/14qA3m1Opr9rumuMx6ZJ9x) | 0:53 | 2022-06-16 | 2022-09-09 |
 | [welcome to my humble abode](https://open.spotify.com/track/1iIbrUq0rka8fwNFC7O7rO) | [loegunn](https://open.spotify.com/artist/4RjEsC8wfSLI9V86HJsLQn) | [heart is a home](https://open.spotify.com/album/3RcwzyErDjclY6lAuZzdlw) | 3:13 | 2023-02-16 | 2023-03-18 |
+| [WHAT DID YOU SAY](https://open.spotify.com/track/4UQ7Ycg36lTG5OVqwSaszG) | [Lushroom](https://open.spotify.com/artist/148CIiPmaCUhmHddOFWzSu), [sanjay.](https://open.spotify.com/artist/3gWt5GuzFWCmAHwWVvs4rw) | [ULTRA UNTITLED](https://open.spotify.com/album/5zUuAOxJQyyICxgYfgh8MB) | 2:42 | 2023-05-18 |  |
 | [what would you say to your lost self](https://open.spotify.com/track/07jgeBRRxIA2FICXUouW5v) | [Thomas Ng](https://open.spotify.com/artist/2ZeeJPDvqzQ7c8iG3rRsyc), [DVRLENE](https://open.spotify.com/artist/1Rc0NV88mREBY1ZOP2lYq1) | [what would you say to your lost self](https://open.spotify.com/album/6qOGpqm3j0NzEhtHCJ9Law) | 2:50 | 2022-08-25 | 2022-11-04 |
 | [When I Dream of Grapes Turning Blue](https://open.spotify.com/track/1kBZCCJpZGooNNALj2LcKt) | [So It Goes H.K](https://open.spotify.com/artist/20CPqsSBGSEECOrIakaBQT) | [Three](https://open.spotify.com/album/7vuIX2SrGXFpDAccHaFW8g) | 4:20 | 2022-06-16 | 2022-09-09 |
 | [when the lights are out](https://open.spotify.com/track/2hMK2gJTcXQA1I0101FCsz) | [Gwyn](https://open.spotify.com/artist/1vqrJaMnLPeWiRp1oabfxR) | [slow walks to the movies](https://open.spotify.com/album/4C1WlzyM8JttiUJt537bxI) | 3:02 | 2022-05-26 | 2022-07-29 |
@@ -365,6 +369,7 @@
 | [借夢](https://open.spotify.com/track/2OypHetAmUaCOzqHwSUGGn) | [Anna hisbbuR](https://open.spotify.com/artist/1aGiVSaZQoVVgMOLYF5yVR) | [借夢](https://open.spotify.com/album/217H0K4lcncewRCzm1AXME) | 4:44 | 2022-11-17 | 2023-03-18 |
 | [做人一定要養貓](https://open.spotify.com/track/7xws2xMDZivp8H4Vezqx1W) | [陳祖](https://open.spotify.com/artist/0OQ3SXHIjoWmRAEX2qwRog) | [做人一定要養貓](https://open.spotify.com/album/4NJ2bVCzDjV8zTFQQUTGz5) | 2:43 | 2022-05-26 | 2022-07-29 |
 | [健康 HEALTHY](https://open.spotify.com/track/2Btcaum5kNbqbmEeNXL1mj) | [SINK!](https://open.spotify.com/artist/3SO5eXhcmQ6XIrblMK20si) | [健康 HEALTHY](https://open.spotify.com/album/4n3a4YvzpSLPwJUacZjLJ4) | 1:51 | 2022-12-22 | 2023-03-18 |
+| [偶爾\(也有想你的時候\) ft\. EAGLE](https://open.spotify.com/track/3cuVZGMgaQM9g3t4xcRbL2) | [惡夢扭蛋](https://open.spotify.com/artist/3ncvp8T5o3rj75jezVG2lt), [Eagle Chan](https://open.spotify.com/artist/3ju0S8W62sR1NS6lawysLk) | [偶爾\(也有想你的時候\) ft\. EAGLE](https://open.spotify.com/album/2qrLuryUZyhBiWqzBfvF8d) | 3:39 | 2023-05-18 |  |
 | [光](https://open.spotify.com/track/1FaWHaqHzNag0AGkM2lPXO) | [Arches](https://open.spotify.com/artist/5ngnmnu2W3UT2C1SEMkIqR) | [Callous Room](https://open.spotify.com/album/6f7w2CEVF64paCqtEtXsOe) | 2:45 | 2022-12-08 | 2023-03-18 |
 | [光 \(Light\)](https://open.spotify.com/track/3mr0cK1G4Y2Fc22nFKfh9o) | [handwash](https://open.spotify.com/artist/752lc6wrZTHlw74HVfAAva) | [光 \(Light\)](https://open.spotify.com/album/0J4CPHtaqgrEEHpoMkVJVL) | 3:22 | 2023-03-24 |  |
 | [兜圈](https://open.spotify.com/track/73KXQMlVcoMASo3U6kXpyA) | [Joséay](https://open.spotify.com/artist/3wADT5yU8enVjNSW9BoMxt) | [EARTHQUAKE MIXTAPE](https://open.spotify.com/album/4n2uv69cSINmVZl019A3uV) | 2:44 | 2022-09-08 | 2023-02-03 |
@@ -388,6 +393,7 @@
 | [回到自己](https://open.spotify.com/track/1MLnyqRlbDal3gL3QmHcHK) | [Winter Bagels](https://open.spotify.com/artist/5greJ5P16QGOFlMTnDH8F0) | [回到自己](https://open.spotify.com/album/6aYvUkvwZcH5grv9Sa8WAW) | 5:24 | 2022-05-26 | 2022-07-29 |
 | [土撥鼠之日](https://open.spotify.com/track/1WOGWWiU4vw88sjuw6TYxy) | [吳林峰](https://open.spotify.com/artist/7vUVBbfIykXkc668JoZI5P) | [土撥鼠之日](https://open.spotify.com/album/0menm8q2ZCWDw6eK6qhAul) | 3:18 | 2022-06-30 | 2022-11-04 |
 | [在離境大堂告別...](https://open.spotify.com/track/2Nfk9kagAJJctveTSRWd5h) | [未能接通](https://open.spotify.com/artist/1hmX3srvf3H7T95DCUAF8S) | [在離境大堂告別...](https://open.spotify.com/album/4EUQZWlJHWNXGon1CeP6Hl) | 3:27 | 2022-05-26 | 2022-07-29 |
+| [夜晚飲咖啡](https://open.spotify.com/track/73K6ShUsyjBTbPl3Qrag8Z) | [kiwiseed](https://open.spotify.com/artist/1S13YkJMlcNKAB5QUbJPxZ) | [夜晚飲咖啡](https://open.spotify.com/album/4ZsLhfsiBKNZZl92Zuf6Db) | 3:15 | 2023-05-18 |  |
 | [夜闌人靜 That's It](https://open.spotify.com/track/6FjCNupk9xizYWMigQn0nx) | [姜穎芝 Gigi](https://open.spotify.com/artist/7xbRsyQgjHiM8EYHuMEK0p) | [夜闌人靜 That's It](https://open.spotify.com/album/2dRaudMcZgqIcrJ14oDwLV) | 4:36 | 2023-01-12 |  |
 | [夠鐘 Time's Up](https://open.spotify.com/track/4ua8rMZzLG9ii73SKOiHiq) | [Billy Choi](https://open.spotify.com/artist/1tHLv9kMiqAZhpMEGZ4rFw) | [夠鐘 Time's Up](https://open.spotify.com/album/0OsYyEFoWdYb8wAIkktlbW) | 3:24 | 2022-09-08 | 2023-02-03 |
 | [奇妙偶遇](https://open.spotify.com/track/4LkABtTRxZ4uxJ9UlZ7KY4) | [J Ho](https://open.spotify.com/artist/3hLoyLpu0vKQwSQ63c3xcy), [Taotao](https://open.spotify.com/artist/3nZ6CYSRqJCHL37Dng4NlX) | [奇妙偶遇](https://open.spotify.com/album/7n2KcZ0qZHHAvQXTD26uZ4) | 3:18 | 2022-06-02 | 2022-09-09 |

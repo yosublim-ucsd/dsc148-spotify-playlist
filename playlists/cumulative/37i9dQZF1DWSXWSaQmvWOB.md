@@ -4,7 +4,7 @@
 
 > Your daily dose of soul\-infused music! Cover: The Teskey Brothers
 
-668 songs - 1 day 16 hr 57 min
+669 songs - 1 day 17 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -394,7 +394,7 @@
 | [New Guru](https://open.spotify.com/track/1iDxNtb7jleE8GqD4m81dA) | [Vulfpeck](https://open.spotify.com/artist/7pXu47GoqSYRajmBCjxdD6), [Vulf](https://open.spotify.com/artist/1kkjXmcMmibTegsw0JtDwv), [Antwaun Stanley](https://open.spotify.com/artist/7vWFpgyWJ9CXisL0x6vYJN) | [Schvitz](https://open.spotify.com/album/3TcGOgTAOLfRN69R74hxmI) | 3:24 | 2022-12-29 | 2023-03-31 |
 | [New Guru](https://open.spotify.com/track/7MV4NBFotO3y7Bpo9S6I2Y) | [Vulfpeck](https://open.spotify.com/artist/7pXu47GoqSYRajmBCjxdD6), [Vulf](https://open.spotify.com/artist/1kkjXmcMmibTegsw0JtDwv), [Antwaun Stanley](https://open.spotify.com/artist/7vWFpgyWJ9CXisL0x6vYJN) | [New Guru](https://open.spotify.com/album/3GcUSJfHkUDGlrN94sC5CF) | 3:24 | 2022-12-08 | 2023-01-01 |
 | [Next To You](https://open.spotify.com/track/3iMJbAaMEEAuq6IyTffTz8) | [Ben L'Oncle Soul](https://open.spotify.com/artist/2dJTa3mUidZAO9sKcY72tK), [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1) | [Next To You](https://open.spotify.com/album/4e1HlR812DhUkqoKJtjwoQ) | 3:35 | 2020-03-25\* | 2020-07-03 |
-| [No Expectations](https://open.spotify.com/track/2JI4L5N7qckQcBTjGpa4B6) | [Abby Simone](https://open.spotify.com/artist/1OtlDAlLQBcV1FpHZJNJAN) | [No Expectations](https://open.spotify.com/album/2fgZgqz3lF2s6VInAWqQdQ) | 3:20 | 2023-04-27 |  |
+| [No Expectations](https://open.spotify.com/track/2JI4L5N7qckQcBTjGpa4B6) | [Abby Simone](https://open.spotify.com/artist/1OtlDAlLQBcV1FpHZJNJAN) | [No Expectations](https://open.spotify.com/album/2fgZgqz3lF2s6VInAWqQdQ) | 3:20 | 2023-04-27 | 2023-05-19 |
 | [No More You And I](https://open.spotify.com/track/2KnncJKBh0I3AgzhLRWNvn) | [Lorrèn](https://open.spotify.com/artist/6VL1YDd4vftDH5vkCbufxG) | [No More You And I](https://open.spotify.com/album/1efl69CoDyrQoo9oiM90SD) | 3:44 | 2021-12-01 | 2022-01-14 |
 | [No Reply](https://open.spotify.com/track/2VbNBhOi7n7WX1yCVfy77I) | [Joshua J](https://open.spotify.com/artist/2AZupS7RiLA0sh5uzwsr2l) | [No Reply](https://open.spotify.com/album/5yMxPV2nkSUlpzLfm2q0VJ) | 2:57 | 2021-02-24 | 2021-08-03 |
 | [No Reply](https://open.spotify.com/track/4i1s3lKM6OAS8ilMNeo9Gq) | [Joshua J](https://open.spotify.com/artist/2AZupS7RiLA0sh5uzwsr2l) | [No Reply](https://open.spotify.com/album/5Qv9B38upc7RdFq8J08mnV) | 2:57 | 2021-08-03 | 2021-09-24 |
@@ -413,6 +413,7 @@
 | [Oh Honey](https://open.spotify.com/track/2BFZeaXr1mWCQkC4I3ZKvc) | [L.A.B.](https://open.spotify.com/artist/3eAOH2az3fQIfX2UAw0FfC) | [L.A.B V](https://open.spotify.com/album/5QNjmWuzmbjl0I27zqdFJ7) | 4:05 | 2021-12-16 | 2022-09-20 |
 | [Old Fashioned](https://open.spotify.com/track/4mxXRjQGi8BPRlsjHyWmw4) | [Steffen Morrison](https://open.spotify.com/artist/2KV4sKhTlyrtxaJWZTPj8r) | [Old Fashioned](https://open.spotify.com/album/2LOPInFEsUMJjs6Rev8zOP) | 3:20 | 2020-04-24 | 2020-10-09 |
 | [On It](https://open.spotify.com/track/4Xr6BbSSu5HhImp8vfxMbg) | [Jazmine Sullivan](https://open.spotify.com/artist/7gSjFKpVmDgC2MMsnN8CYq), [Ari Lennox](https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom) | [Heaux Tales](https://open.spotify.com/album/5g9YhHW8tE7Tcslgxsk5u9) | 3:25 | 2021-01-09 | 2021-04-23 |
+| [On Read](https://open.spotify.com/track/5Dz8KovSvRxL6AfkbQXAig) | [Deva Mahal](https://open.spotify.com/artist/74kTlA5KHbgVuvqOEeKON0) | [Future Classic, Vol\. 1: Classic](https://open.spotify.com/album/346aNEGf6GqQlUK4NPAn2o) | 4:11 | 2023-05-12 |  |
 | [One Time](https://open.spotify.com/track/7ceW0Xrhik2PTkW7L3Wk0C) | [Otis Junior](https://open.spotify.com/artist/3JWTfcIZq4OUdC6oBunofK), [Dr\. Dundiff](https://open.spotify.com/artist/6T2NShr7SAArhtegdIpHHN) | [Rising With It](https://open.spotify.com/album/1JDQaafV4hYNP8K5tuK6r4) | 3:30 | 2020-11-06 | 2021-12-01 |
 | [One Time](https://open.spotify.com/track/5Wx4KebInnrSMUiMFwIFvj) | [TheColorGrey](https://open.spotify.com/artist/7nG93Qrraq1TbXn8SqlzTd) | [One Time](https://open.spotify.com/album/4X5ozoY7L9RyMIpZjPWPOI) | 3:15 | 2020-04-12 | 2020-07-03 |
 | [ooeeooeeoo](https://open.spotify.com/track/2MNeT5RzegP7L6yyzodOVs) | [CAPYAC](https://open.spotify.com/artist/5QP5fl1l4e9NmKmkMUOTF5) | [ooeeooeeoo](https://open.spotify.com/album/1AuujKU1n0lGYRp0fCUuGl) | 4:14 | 2021-07-30 | 2021-10-29 |

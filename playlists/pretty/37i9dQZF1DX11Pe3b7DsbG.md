@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11Pe3b7DsbG.md) - [plain]
 
 > Um bom sambinha para acompanhar cada gole.
 
-[Spotify](https://open.spotify.com/user/spotify) - 227,371 likes - 50 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 227,390 likes - 50 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11Pe3b7DsbG.md) - [plain]
 | 31 | [Caciqueando \- Ao Vivo](https://open.spotify.com/track/0QRctW6iyXZIVML10fCIsT) | [Grupo Fundo De Quintal](https://open.spotify.com/artist/1WkZvxuA4zCcFF9GChK6Vr), [Péricles](https://open.spotify.com/artist/1MZbqhtvsnD5ik9BofnTow) | [Roda de Samba do Fundo de Quintal no Cacique de Ramos \(Ao Vivo\)](https://open.spotify.com/album/7t8nVY3TatDEUVFRMSkEA5) | 2:26 |
 | 32 | [O Mar Serenou](https://open.spotify.com/track/5rsdJ481oIM9OYyrqcEwWt) | [Clara Nunes](https://open.spotify.com/artist/6UKz2oYWzE0ZBnciztCown) | [Meus Momentos](https://open.spotify.com/album/7aGsQAH1uvanvleHoNZtrk) | 2:59 |
 | 33 | [Mulheres \- Ao Vivo No Rio De Janeiro / 2007](https://open.spotify.com/track/5oMUdUhM7kbUnQmxG2AK6j) | [Zeca Pagodinho](https://open.spotify.com/artist/3qZ2n5keOAat1SoF6bHwmb), [Martinho Da Vila](https://open.spotify.com/artist/6rM2yY0GnVcOHMU5GD3y9E) | [Ao Vivo Com Os Amigos](https://open.spotify.com/album/5CPyXPaL9Qzv5Mpi2HQBug) | 3:23 |
-| 34 | [Chove e Não Molha](https://open.spotify.com/track/0DLLQHCiMG1HMljBqFU8KF) | [Elton Medeiros](https://open.spotify.com/artist/4kJdvLeXdVp1o5WjnrehLV) | [Quatro Grandes Do Samba](https://open.spotify.com/album/6qmP5pJpulEEaQK9YQtvI2) | 2:24 |
-| 35 | [Nas Asas da Canção](https://open.spotify.com/track/7gW3883SbE306v3X4pKTWN) | [Nelson Sargento](https://open.spotify.com/artist/0Ij2lGitwYszblscnFtglL) | [Versátil](https://open.spotify.com/album/6QLdS0DHJp6v493GZr9KOM) | 4:06 |
+| 34 | [Nas Asas da Canção](https://open.spotify.com/track/7gW3883SbE306v3X4pKTWN) | [Nelson Sargento](https://open.spotify.com/artist/0Ij2lGitwYszblscnFtglL) | [Versátil](https://open.spotify.com/album/6QLdS0DHJp6v493GZr9KOM) | 4:06 |
+| 35 | [Chove e Não Molha](https://open.spotify.com/track/0DLLQHCiMG1HMljBqFU8KF) | [Elton Medeiros](https://open.spotify.com/artist/4kJdvLeXdVp1o5WjnrehLV) | [Quatro Grandes Do Samba](https://open.spotify.com/album/6qmP5pJpulEEaQK9YQtvI2) | 2:24 |
 | 36 | [Bota Pra Tocar Tim Maia](https://open.spotify.com/track/60a5kYlSisLg8291QSfsh4) | [Diogo Nogueira](https://open.spotify.com/artist/57xRtfFlssbpntpRQOBodd) | [Bota Pra Tocar Tim Maia](https://open.spotify.com/album/2EAtqaRZeyW3V4U5FNOWzs) | 3:42 |
 | 37 | [Faz uma loucura por mim \- Recorded At Mosh Studios, São Paulo](https://open.spotify.com/track/7jYmFjZ8l40WFNVf9mhX9P) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi) | [Spotify Singles](https://open.spotify.com/album/12khkvFs0A8wiIYYmRIQgk) | 3:14 |
 | 38 | [Menina Você Bebeu](https://open.spotify.com/track/2Co2GQ3XPmFEYpQJnOTNPX) | [Jovelina Perola Negra](https://open.spotify.com/artist/7AicXtLi5qHsZLArE6V9EP) | [Jovelina Pérola Negra](https://open.spotify.com/album/2QWtUqNmlr3PVU9qPANbPf) | 3:36 |
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11Pe3b7DsbG.md) - [plain]
 | 44 | [Volta, Meu Amor](https://open.spotify.com/track/1izDPzew6TdIcAJVN4XIyj) | [VELHA GUARDA DA PORTELA](https://open.spotify.com/artist/5NZP1TAmVDd3fzmi4X29Jn), [Marisa Monte](https://open.spotify.com/artist/0rSTXALHu0EKAawPLBdODH) | [Tudo Azul](https://open.spotify.com/album/6POI5YwQbVMnplbryMA4VT) | 4:23 |
 | 45 | [É Corpo, É Alma, É Religião \- Ao Vivo Na Lapa](https://open.spotify.com/track/1Titm76tFsIqqjjITUYRfx) | [Maria Rita](https://open.spotify.com/artist/1C8UBSZs5rOPfxuxTMS6OI) | [O Samba Em Mim \(Ao Vivo Na Lapa\)](https://open.spotify.com/album/2wv5WDVgqmtwqCcVok5eyr) | 3:46 |
 | 46 | [Spc](https://open.spotify.com/track/0IEbtavzyWh3EHchvR5Jjt) | [Zeca Pagodinho](https://open.spotify.com/artist/3qZ2n5keOAat1SoF6bHwmb) | [Zeca Pagodinho](https://open.spotify.com/album/2enLS4TGDR3l4FtvpqswEs) | 3:23 |
-| 47 | [Boteco do Arlindo](https://open.spotify.com/track/0zRnv0rsYvYNdt9as7kHmm) | [João Nogueira](https://open.spotify.com/artist/5gcpKqNGPhEtKW5G1ZUZPK) | [Focus \- O Essencial de João Nogueira](https://open.spotify.com/album/1V4HN6xdGBhu4u6wB2pNsI) | 2:48 |
-| 48 | [Exaltação à mangueira](https://open.spotify.com/track/1LUL95mWeAqJExfFImkub9) | [Jamelão](https://open.spotify.com/artist/4PirWL5JYf8HerMVvmwuD0) | [A Voz Do Samba \(Disco 03\)](https://open.spotify.com/album/5YhN39hwkvR7TLaFJihcsR) | 3:09 |
+| 47 | [Exaltação à mangueira](https://open.spotify.com/track/1LUL95mWeAqJExfFImkub9) | [Jamelão](https://open.spotify.com/artist/4PirWL5JYf8HerMVvmwuD0) | [A Voz Do Samba \(Disco 03\)](https://open.spotify.com/album/5YhN39hwkvR7TLaFJihcsR) | 3:09 |
+| 48 | [Boteco do Arlindo](https://open.spotify.com/track/0zRnv0rsYvYNdt9as7kHmm) | [João Nogueira](https://open.spotify.com/artist/5gcpKqNGPhEtKW5G1ZUZPK) | [Focus \- O Essencial de João Nogueira](https://open.spotify.com/album/1V4HN6xdGBhu4u6wB2pNsI) | 2:48 |
 | 49 | [Partideiro Sem Nó Na Garganta](https://open.spotify.com/track/4vrcEe4iwNrGJi0ODXljvx) | [Marcelo D2](https://open.spotify.com/artist/1vEN3d3dJbmdHQpXD6AIkL) | [Marcelo D2 \- Canta Bezerra Da Silva](https://open.spotify.com/album/3I564AuHICCCnWEBHbvtoP) | 3:42 |
 | 50 | [Eu e Você Sempre \- Ao Vivo](https://open.spotify.com/track/2XXa3wavj9vwz353ezqLUx) | [Jorge Aragão](https://open.spotify.com/artist/2cAooeeHKk2UvzUgIxpS0y) | [Jorge 70: Ao Vivo em São Paulo, Pt\. 1](https://open.spotify.com/album/2E1JGC6suXlgoQQqGYgqQ8) | 4:11 |
 
-Snapshot ID: `MCxhNGI5N2U5MjA4NDZmMDVhNWI3MTBhNWNjODY2N2NkZjlkYTY0NmFi`
+Snapshot ID: `MCxjZDQ5MmY1ZDk2MmY2YzMxZTYwOTJmM2IwMDVhMzUzZWM5ZGY1Yzg0`

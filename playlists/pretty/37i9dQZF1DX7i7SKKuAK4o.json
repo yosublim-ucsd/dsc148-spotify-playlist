@@ -1,15 +1,31 @@
 {
-  "description": "Kumpulan lagu Hits hingga beberapa tahun lalu. Cover: Charlie Puth",
-  "num_followers": 570333,
+  "description": "Kumpulan lagu Hits hingga beberapa tahun lalu. Cover: Coldplay\n",
+  "num_followers": 570558,
   "original_name": "Hits Banget",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkNjkxZDI0OWU4NjVjZjQ1OWY3NTIwOGY4NDEyMzYwNjg2YTZjYzk0",
+  "snapshot_id": "MCxlODViMTk2ZDlhOWRmNDUxOGMyYzc2YTM5NTZjZTIxNzBlNzc2NjUz",
   "tracks": [
     {
-      "added_at": "2023-05-04 17:00:00",
+      "added_at": "2023-05-18 17:20:22",
+      "album": {
+        "name": "Parachutes",
+        "url": "https://open.spotify.com/album/6ZG5lRT77aJ3btmArcykra"
+      },
+      "artists": [
+        {
+          "name": "Coldplay",
+          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+        }
+      ],
+      "duration_ms": 266773,
+      "name": "Yellow",
+      "url": "https://open.spotify.com/track/3AJwUDP919kvQ9QcozQPxg"
+    },
+    {
+      "added_at": "2023-05-18 17:20:22",
       "album": {
         "name": "Nine Track Mind",
         "url": "https://open.spotify.com/album/3kndSWeE2IYOrZEToZrHEV"
@@ -25,7 +41,7 @@
       "url": "https://open.spotify.com/track/6GBMbvX7sqyOxT5wWK4hgN"
     },
     {
-      "added_at": "2023-05-04 17:00:00",
+      "added_at": "2023-05-18 17:20:22",
       "album": {
         "name": "Hingga Tua Bersama",
         "url": "https://open.spotify.com/album/0pLC2EIZV2q4Ds7L7qbZaR"
@@ -41,7 +57,7 @@
       "url": "https://open.spotify.com/track/5b0NpyYAwW2dUGL08ir7Bg"
     },
     {
-      "added_at": "2023-05-04 17:00:00",
+      "added_at": "2023-05-18 17:20:22",
       "album": {
         "name": "Selamat Ulang Tahun",
         "url": "https://open.spotify.com/album/75KyCmWatZRvlMcMRed9BG"
@@ -57,7 +73,7 @@
       "url": "https://open.spotify.com/track/630DpnzdfjdVqv2yLfPbAX"
     },
     {
-      "added_at": "2023-05-04 17:00:00",
+      "added_at": "2023-05-18 17:20:22",
       "album": {
         "name": "High School in Jakarta",
         "url": "https://open.spotify.com/album/34zREEtZQOmQbqFU4cIQuT"
@@ -73,23 +89,7 @@
       "url": "https://open.spotify.com/track/5rbuv6zso7QSaKt265H3M3"
     },
     {
-      "added_at": "2023-05-04 17:00:00",
-      "album": {
-        "name": "Cahaya Hati",
-        "url": "https://open.spotify.com/album/6B5IzuaCS1U1RVLEmq0ewQ"
-      },
-      "artists": [
-        {
-          "name": "Opick",
-          "url": "https://open.spotify.com/artist/5KN9rEUWrzshrf0FU2n3Iz"
-        }
-      ],
-      "duration_ms": 208693,
-      "name": "Ramadhan Tiba",
-      "url": "https://open.spotify.com/track/06tjI6ZyMgSwISedNcldUw"
-    },
-    {
-      "added_at": "2023-05-04 17:00:00",
+      "added_at": "2023-05-18 17:20:22",
       "album": {
         "name": "Glimpse of Us",
         "url": "https://open.spotify.com/album/6ZZvx0aefZV3LKa053fn71"
@@ -105,23 +105,23 @@
       "url": "https://open.spotify.com/track/6xGruZOHLs39ZbVccQTuPZ"
     },
     {
-      "added_at": "2023-05-04 17:00:00",
+      "added_at": "2023-05-18 17:20:22",
       "album": {
-        "name": "Wallflower",
-        "url": "https://open.spotify.com/album/5LFH7fj2hCEPCGh7Ojsne3"
+        "name": "A Rush of Blood to the Head",
+        "url": "https://open.spotify.com/album/0RHX9XECH8IVI3LNgWDpmQ"
       },
       "artists": [
         {
-          "name": "Afgan",
-          "url": "https://open.spotify.com/artist/4cgBCGxtlfap2g6jveB7du"
+          "name": "Coldplay",
+          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
         }
       ],
-      "duration_ms": 175635,
-      "name": "say i'm sorry",
-      "url": "https://open.spotify.com/track/1fZOLWE0Oy4mZ6lOx65mXt"
+      "duration_ms": 309600,
+      "name": "The Scientist",
+      "url": "https://open.spotify.com/track/75JFxkI2RXiU7L9VXzMkle"
     },
     {
-      "added_at": "2023-05-04 17:00:00",
+      "added_at": "2023-05-18 17:20:22",
       "album": {
         "name": "WHO CARES?",
         "url": "https://open.spotify.com/album/2yI4m5Yu2tl8v0It5P9WVz"
@@ -137,7 +137,7 @@
       "url": "https://open.spotify.com/track/1gH1h30wkQdd9zhY3j7a8T"
     },
     {
-      "added_at": "2023-05-04 17:00:00",
+      "added_at": "2023-05-18 17:20:22",
       "album": {
         "name": "Kau Rumahku",
         "url": "https://open.spotify.com/album/7vPQboGZn7eLlwwyOeCTQO"
@@ -153,7 +153,7 @@
       "url": "https://open.spotify.com/track/7nQoDLkzCcoIpKPQt3eCdN"
     },
     {
-      "added_at": "2023-05-04 17:00:00",
+      "added_at": "2023-05-18 17:20:22",
       "album": {
         "name": "SNAP",
         "url": "https://open.spotify.com/album/4fb1QzgTJpTk9TBjFzjmlR"
@@ -169,7 +169,23 @@
       "url": "https://open.spotify.com/track/76OGwb5RA9h4FxQPT33ekc"
     },
     {
-      "added_at": "2023-05-04 17:00:00",
+      "added_at": "2023-05-18 17:20:22",
+      "album": {
+        "name": "X&Y",
+        "url": "https://open.spotify.com/album/4E7bV0pzG0LciBSWTszra6"
+      },
+      "artists": [
+        {
+          "name": "Coldplay",
+          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+        }
+      ],
+      "duration_ms": 295533,
+      "name": "Fix You",
+      "url": "https://open.spotify.com/track/7LVHVU3tWfcxj5aiPFEW4Q"
+    },
+    {
+      "added_at": "2023-05-18 17:20:22",
       "album": {
         "name": "I Ain\u2019t Worried (Music From The Motion Picture \"Top Gun: Maverick\")",
         "url": "https://open.spotify.com/album/04PEOM6kIEeq9lRp1asNP2"
@@ -185,23 +201,7 @@
       "url": "https://open.spotify.com/track/4h9wh7iOZ0GGn8QVp4RAOB"
     },
     {
-      "added_at": "2023-05-04 17:00:00",
-      "album": {
-        "name": "Suatu Saat Nanti",
-        "url": "https://open.spotify.com/album/2PzKsJJj27NZHCEnXPLAxO"
-      },
-      "artists": [
-        {
-          "name": "Hanin Dhiya",
-          "url": "https://open.spotify.com/artist/3Fw8q9sZ1t7diLxoQFS8hW"
-        }
-      ],
-      "duration_ms": 244557,
-      "name": "Suatu Saat Nanti",
-      "url": "https://open.spotify.com/track/11nApQrr7tfBNYzBOmHWCc"
-    },
-    {
-      "added_at": "2023-05-04 17:00:00",
+      "added_at": "2023-05-18 17:20:22",
       "album": {
         "name": "Safe Haven",
         "url": "https://open.spotify.com/album/6FgtuX3PtiB5civjHYhc52"
@@ -217,23 +217,23 @@
       "url": "https://open.spotify.com/track/2eAvDnpXP5W0cVtiI0PUxV"
     },
     {
-      "added_at": "2023-05-04 17:00:00",
+      "added_at": "2023-05-18 17:20:22",
       "album": {
-        "name": "Pelangi Di Malam Hari",
-        "url": "https://open.spotify.com/album/1q7BTaL7UkX5o3uoV73vMO"
+        "name": "Viva La Vida or Death and All His Friends",
+        "url": "https://open.spotify.com/album/1CEODgTmTwLyabvwd7HBty"
       },
       "artists": [
         {
-          "name": "Vidi Aldiano",
-          "url": "https://open.spotify.com/artist/4crs55NFrnArSpE78rohLS"
+          "name": "Coldplay",
+          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
         }
       ],
-      "duration_ms": 248173,
-      "name": "Status Palsu",
-      "url": "https://open.spotify.com/track/0rI7ABPkFghouxwfnVZXHD"
+      "duration_ms": 242373,
+      "name": "Viva La Vida",
+      "url": "https://open.spotify.com/track/1mea3bSkSGXuIRvnydlB5b"
     },
     {
-      "added_at": "2023-05-04 17:00:00",
+      "added_at": "2023-05-18 17:20:22",
       "album": {
         "name": "Harry's House",
         "url": "https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h"
@@ -249,7 +249,7 @@
       "url": "https://open.spotify.com/track/4Dvkj6JhhA12EX05fT7y2e"
     },
     {
-      "added_at": "2023-05-04 17:00:00",
+      "added_at": "2023-05-18 17:20:22",
       "album": {
         "name": "After Hours",
         "url": "https://open.spotify.com/album/4yP0hdKOZPNshxUOjY0cZj"
@@ -265,7 +265,7 @@
       "url": "https://open.spotify.com/track/0VjIjW4GlUZAMYd2vXMi3b"
     },
     {
-      "added_at": "2023-05-04 17:00:00",
+      "added_at": "2023-05-18 17:20:22",
       "album": {
         "name": "\u00f7 (Deluxe)",
         "url": "https://open.spotify.com/album/3T4tUhGYeRNVUGevb0wThu"
@@ -281,7 +281,7 @@
       "url": "https://open.spotify.com/track/0tgVpDi06FyKpA1z0VMD4v"
     },
     {
-      "added_at": "2023-05-04 17:00:00",
+      "added_at": "2023-05-18 17:20:22",
       "album": {
         "name": "lovely (with Khalid)",
         "url": "https://open.spotify.com/album/2sBB17RXTamvj7Ncps15AK"
@@ -301,7 +301,7 @@
       "url": "https://open.spotify.com/track/0u2P5u6lvoDfwTYjAADbn4"
     },
     {
-      "added_at": "2023-05-04 17:00:00",
+      "added_at": "2023-05-18 17:20:22",
       "album": {
         "name": "Dreamland",
         "url": "https://open.spotify.com/album/5bfpRtBW7RNRdsm3tRyl3R"
@@ -317,7 +317,7 @@
       "url": "https://open.spotify.com/track/3USxtqRwSYz57Ewm6wWRMp"
     },
     {
-      "added_at": "2023-05-04 17:00:00",
+      "added_at": "2023-05-18 17:20:22",
       "album": {
         "name": "Fine Line",
         "url": "https://open.spotify.com/album/7xV2TzoaVc0ycW7fwBwAml"
@@ -333,7 +333,7 @@
       "url": "https://open.spotify.com/track/6UelLqGlWMcVH1E5c4H7lY"
     },
     {
-      "added_at": "2023-05-04 17:00:00",
+      "added_at": "2023-05-18 17:20:22",
       "album": {
         "name": "emails i can't send",
         "url": "https://open.spotify.com/album/5kDmlA2g9Y1YCbNo2Ufxlz"
@@ -349,7 +349,7 @@
       "url": "https://open.spotify.com/track/6dgUya35uo964z7GZXM07g"
     },
     {
-      "added_at": "2023-05-04 17:00:00",
+      "added_at": "2023-05-18 17:20:22",
       "album": {
         "name": "Divinely Uninspired To A Hellish Extent",
         "url": "https://open.spotify.com/album/5658aM19fA3JVwTK6eQX70"
@@ -365,7 +365,7 @@
       "url": "https://open.spotify.com/track/7qEHsqek33rTcFNT9PFqLf"
     },
     {
-      "added_at": "2023-05-04 17:00:00",
+      "added_at": "2023-05-18 17:20:22",
       "album": {
         "name": "Justice",
         "url": "https://open.spotify.com/album/5dGWwsZ9iB2Xc3UKR0gif2"
@@ -381,7 +381,7 @@
       "url": "https://open.spotify.com/track/6I3mqTwhRpn34SLVafSH7G"
     },
     {
-      "added_at": "2023-05-04 17:00:00",
+      "added_at": "2023-05-18 17:20:22",
       "album": {
         "name": "\u00f7 (Deluxe)",
         "url": "https://open.spotify.com/album/3T4tUhGYeRNVUGevb0wThu"
@@ -397,7 +397,27 @@
       "url": "https://open.spotify.com/track/7qiZfU4dY1lWllzX7mPBI3"
     },
     {
-      "added_at": "2023-05-04 17:00:00",
+      "added_at": "2023-05-18 17:20:22",
+      "album": {
+        "name": "My Universe",
+        "url": "https://open.spotify.com/album/39McjovZ3M6n5SFtNmWTdp"
+      },
+      "artists": [
+        {
+          "name": "Coldplay",
+          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+        },
+        {
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+        }
+      ],
+      "duration_ms": 228000,
+      "name": "My Universe",
+      "url": "https://open.spotify.com/track/3FeVmId7tL5YN8B7R3imoM"
+    },
+    {
+      "added_at": "2023-05-18 17:20:22",
       "album": {
         "name": "I Love You So",
         "url": "https://open.spotify.com/album/7ucm85tRsWk6EyVHaYAxe9"
@@ -413,7 +433,7 @@
       "url": "https://open.spotify.com/track/4SqWKzw0CbA05TGszDgMlc"
     },
     {
-      "added_at": "2023-05-04 17:00:00",
+      "added_at": "2023-05-18 17:20:22",
       "album": {
         "name": "Kid Krow",
         "url": "https://open.spotify.com/album/2CMlkzFI2oDAy5MbyV7OV5"
@@ -429,7 +449,7 @@
       "url": "https://open.spotify.com/track/4xqrdfXkTW4T0RauPLv3WA"
     },
     {
-      "added_at": "2023-05-04 17:00:00",
+      "added_at": "2023-05-18 17:20:22",
       "album": {
         "name": "Hollywood's Bleeding",
         "url": "https://open.spotify.com/album/4g1ZRSobMefqF6nelkgibi"
@@ -445,23 +465,7 @@
       "url": "https://open.spotify.com/track/21jGcNKet2qwijlDFuPiPb"
     },
     {
-      "added_at": "2023-05-04 17:00:00",
-      "album": {
-        "name": "Starboy",
-        "url": "https://open.spotify.com/album/2ODvWsOgouMbaA5xf0RkJe"
-      },
-      "artists": [
-        {
-          "name": "The Weeknd",
-          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
-        }
-      ],
-      "duration_ms": 260252,
-      "name": "Die For You",
-      "url": "https://open.spotify.com/track/2Ch7LmS7r2Gy2kc64wv3Bz"
-    },
-    {
-      "added_at": "2023-05-04 17:00:00",
+      "added_at": "2023-05-18 17:20:22",
       "album": {
         "name": "Back from the Edge",
         "url": "https://open.spotify.com/album/7oiJYvEJHsmYtrgviAVIBD"
@@ -477,7 +481,7 @@
       "url": "https://open.spotify.com/track/5uCax9HTNlzGybIStD3vDh"
     },
     {
-      "added_at": "2023-05-04 17:00:00",
+      "added_at": "2023-05-18 17:20:22",
       "album": {
         "name": "Illuminate (Deluxe)",
         "url": "https://open.spotify.com/album/3wBabo4pmzsYjALMSKY7Iq"
@@ -493,7 +497,23 @@
       "url": "https://open.spotify.com/track/7JJmb5XwzOO8jgpou264Ml"
     },
     {
-      "added_at": "2023-05-04 17:00:00",
+      "added_at": "2023-05-18 17:20:22",
+      "album": {
+        "name": "Starboy",
+        "url": "https://open.spotify.com/album/2ODvWsOgouMbaA5xf0RkJe"
+      },
+      "artists": [
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        }
+      ],
+      "duration_ms": 260252,
+      "name": "Die For You",
+      "url": "https://open.spotify.com/track/2Ch7LmS7r2Gy2kc64wv3Bz"
+    },
+    {
+      "added_at": "2023-05-18 17:20:22",
       "album": {
         "name": "STAY (with Justin Bieber)",
         "url": "https://open.spotify.com/album/4QLAtpLNUsHEYrcHXmMIZZ"
@@ -513,7 +533,7 @@
       "url": "https://open.spotify.com/track/5HCyWlXZPP0y6Gqq8TgA20"
     },
     {
-      "added_at": "2023-05-04 17:00:00",
+      "added_at": "2023-05-18 17:20:22",
       "album": {
         "name": "=",
         "url": "https://open.spotify.com/album/32iAEBstCjauDhyKpGjTuq"
@@ -529,7 +549,7 @@
       "url": "https://open.spotify.com/track/3rmo8F54jFF8OgYsqTxm5d"
     },
     {
-      "added_at": "2023-05-04 17:00:00",
+      "added_at": "2023-05-18 17:20:22",
       "album": {
         "name": "SOUR",
         "url": "https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j"
@@ -545,7 +565,7 @@
       "url": "https://open.spotify.com/track/5wANPM4fQCJwkGd4rN57mH"
     },
     {
-      "added_at": "2023-05-04 17:00:00",
+      "added_at": "2023-05-18 17:20:22",
       "album": {
         "name": "Dreamers [Music from the FIFA World Cup Qatar 2022 Official Soundtrack]",
         "url": "https://open.spotify.com/album/0gr5OmB74UhoANEXwYT3gE"
@@ -569,7 +589,7 @@
       "url": "https://open.spotify.com/track/1RDvyOk4WtPCtoqciJwVn8"
     },
     {
-      "added_at": "2023-05-04 17:00:00",
+      "added_at": "2023-05-18 17:20:22",
       "album": {
         "name": "DAMN.",
         "url": "https://open.spotify.com/album/4eLPsYPBmXABThSJ821sqY"
@@ -585,7 +605,7 @@
       "url": "https://open.spotify.com/track/7KXjTSCq5nL1LoYtL7XAwS"
     },
     {
-      "added_at": "2023-05-04 17:00:00",
+      "added_at": "2023-05-18 17:20:22",
       "album": {
         "name": "Closer",
         "url": "https://open.spotify.com/album/0rSLgV8p5FzfnqlEk4GzxE"
@@ -605,7 +625,7 @@
       "url": "https://open.spotify.com/track/7BKLCZ1jbUBVqRi2FVlTVw"
     },
     {
-      "added_at": "2023-05-04 17:00:00",
+      "added_at": "2023-05-18 17:20:22",
       "album": {
         "name": "24K Magic",
         "url": "https://open.spotify.com/album/4PgleR09JVnm3zY1fW3XBA"
@@ -621,7 +641,23 @@
       "url": "https://open.spotify.com/track/0KKkJNfGyhkQ5aFogxQAPU"
     },
     {
-      "added_at": "2023-05-04 17:00:00",
+      "added_at": "2023-05-18 17:20:22",
+      "album": {
+        "name": "SOUR",
+        "url": "https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j"
+      },
+      "artists": [
+        {
+          "name": "Olivia Rodrigo",
+          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+        }
+      ],
+      "duration_ms": 178146,
+      "name": "good 4 u",
+      "url": "https://open.spotify.com/track/4ZtFanR9U6ndgddUvNcjcG"
+    },
+    {
+      "added_at": "2023-05-18 17:20:22",
       "album": {
         "name": "thank u, next",
         "url": "https://open.spotify.com/album/2fYhqwDWXjbpjaIJPEfKFw"
@@ -637,7 +673,7 @@
       "url": "https://open.spotify.com/track/6ocbgoVGwYJhOv1GgI9NsF"
     },
     {
-      "added_at": "2023-05-04 17:00:00",
+      "added_at": "2023-05-18 17:20:22",
       "album": {
         "name": "A Star Is Born Soundtrack",
         "url": "https://open.spotify.com/album/4sLtOBOzn4s3GDUv3c5oJD"
@@ -657,7 +693,7 @@
       "url": "https://open.spotify.com/track/2VxeLyX666F8uXCJ0dZF8B"
     },
     {
-      "added_at": "2023-05-04 17:00:00",
+      "added_at": "2023-05-18 17:20:22",
       "album": {
         "name": "Purpose (Deluxe)",
         "url": "https://open.spotify.com/album/6Fr2rQkZ383FcMqFyT7yPr"
@@ -673,7 +709,7 @@
       "url": "https://open.spotify.com/track/50kpGaPAhYJ3sGmk6vplg0"
     },
     {
-      "added_at": "2023-05-04 17:00:00",
+      "added_at": "2023-05-18 17:20:22",
       "album": {
         "name": "Voicenotes",
         "url": "https://open.spotify.com/album/0mZIUXje90JtHxPNzWsJNR"
@@ -689,23 +725,7 @@
       "url": "https://open.spotify.com/track/5cF0dROlMOK5uNZtivgu50"
     },
     {
-      "added_at": "2023-05-04 17:00:00",
-      "album": {
-        "name": "SOUR",
-        "url": "https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j"
-      },
-      "artists": [
-        {
-          "name": "Olivia Rodrigo",
-          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
-        }
-      ],
-      "duration_ms": 178146,
-      "name": "good 4 u",
-      "url": "https://open.spotify.com/track/4ZtFanR9U6ndgddUvNcjcG"
-    },
-    {
-      "added_at": "2023-05-04 17:00:00",
+      "added_at": "2023-05-18 17:20:22",
       "album": {
         "name": "WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?",
         "url": "https://open.spotify.com/album/0S0KGZnfBGSIssfF54WSJh"
@@ -721,23 +741,7 @@
       "url": "https://open.spotify.com/track/2Fxmhks0bxGSBdJ92vM42m"
     },
     {
-      "added_at": "2023-05-04 17:00:00",
-      "album": {
-        "name": "Doo-Wops & Hooligans",
-        "url": "https://open.spotify.com/album/1uyf3l2d4XYwiEqAb7t7fX"
-      },
-      "artists": [
-        {
-          "name": "Bruno Mars",
-          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
-        }
-      ],
-      "duration_ms": 220734,
-      "name": "Just the Way You Are",
-      "url": "https://open.spotify.com/track/7BqBn9nzAq8spo5e7cZ0dJ"
-    },
-    {
-      "added_at": "2023-05-04 17:00:00",
+      "added_at": "2023-05-18 17:20:22",
       "album": {
         "name": "Spider-Man: Into the Spider-Verse (Soundtrack From & Inspired by the Motion Picture)",
         "url": "https://open.spotify.com/album/35s58BRTGAEWztPo9WqCIs"
@@ -757,7 +761,7 @@
       "url": "https://open.spotify.com/track/3KkXRkHbMCARz0aVfEt68P"
     },
     {
-      "added_at": "2023-05-04 17:00:00",
+      "added_at": "2023-05-18 17:20:22",
       "album": {
         "name": "Future Nostalgia",
         "url": "https://open.spotify.com/album/7fJJK56U9fHixgO0HQkhtI"
@@ -773,7 +777,39 @@
       "url": "https://open.spotify.com/track/39LLxExYz6ewLAcYrzQQyP"
     },
     {
-      "added_at": "2023-05-04 17:00:00",
+      "added_at": "2023-05-18 17:20:22",
+      "album": {
+        "name": "Doo-Wops & Hooligans",
+        "url": "https://open.spotify.com/album/1uyf3l2d4XYwiEqAb7t7fX"
+      },
+      "artists": [
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        }
+      ],
+      "duration_ms": 220734,
+      "name": "Just the Way You Are",
+      "url": "https://open.spotify.com/track/7BqBn9nzAq8spo5e7cZ0dJ"
+    },
+    {
+      "added_at": "2023-05-18 17:20:22",
+      "album": {
+        "name": "SOUR",
+        "url": "https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j"
+      },
+      "artists": [
+        {
+          "name": "Olivia Rodrigo",
+          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+        }
+      ],
+      "duration_ms": 215506,
+      "name": "deja vu",
+      "url": "https://open.spotify.com/track/6HU7h9RYOaPRFeh0R3UeAr"
+    },
+    {
+      "added_at": "2023-05-18 17:20:22",
       "album": {
         "name": "Midnight Memories (Deluxe)",
         "url": "https://open.spotify.com/album/7p1fX8aUySrBdx4WSYspOu"
@@ -789,7 +825,7 @@
       "url": "https://open.spotify.com/track/1dQQ2QlnvXUehsRUrukKmf"
     },
     {
-      "added_at": "2023-05-04 17:00:00",
+      "added_at": "2023-05-18 17:20:22",
       "album": {
         "name": "BE",
         "url": "https://open.spotify.com/album/6nYfHQnvkvOTNHnOhDT3sr"
@@ -803,38 +839,6 @@
       "duration_ms": 199053,
       "name": "Dynamite",
       "url": "https://open.spotify.com/track/5QDLhrAOJJdNAmCTJ8xMyW"
-    },
-    {
-      "added_at": "2023-05-04 17:00:00",
-      "album": {
-        "name": "TAKE TIME",
-        "url": "https://open.spotify.com/album/1zHR48K6XtWYm6bhrw4J6C"
-      },
-      "artists": [
-        {
-          "name": "Giveon",
-          "url": "https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP"
-        }
-      ],
-      "duration_ms": 198370,
-      "name": "Heartbreak Anniversary",
-      "url": "https://open.spotify.com/track/3FAJ6O0NOHQV8Mc5Ri6ENp"
-    },
-    {
-      "added_at": "2023-05-04 17:00:00",
-      "album": {
-        "name": "SOUR",
-        "url": "https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j"
-      },
-      "artists": [
-        {
-          "name": "Olivia Rodrigo",
-          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
-        }
-      ],
-      "duration_ms": 215506,
-      "name": "deja vu",
-      "url": "https://open.spotify.com/track/6HU7h9RYOaPRFeh0R3UeAr"
     }
   ],
   "unique_name": "Hits Banget",

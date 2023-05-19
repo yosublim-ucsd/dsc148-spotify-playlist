@@ -2,9 +2,9 @@
 
 ### [shockwave](https://open.spotify.com/playlist/37i9dQZF1DWYlpoS0u7ZOs)
 
-> The new wave of rock from the UK & Ireland\. Cover: Delilah Bon
+> The new wave of rock from the UK & Ireland\. Cover: HotWax
 
-158 songs - 8 hr 22 min
+168 songs - 8 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,8 +21,10 @@
 | [Back and Forth](https://open.spotify.com/track/5dn10JRAyRJQ4CwChvH36u) | [Bronnie](https://open.spotify.com/artist/6xAfmpNG113QC08DHcQgv6) | [Back and Forth](https://open.spotify.com/album/2JZWI0ofeqQi0JNaLIGaW5) | 3:01 | 2023-01-13 | 2023-03-03 |
 | [Bigger Than Anything Ever](https://open.spotify.com/track/7uXUsR8O6RFjPnjehfNyYO) | [South Arcade](https://open.spotify.com/artist/3vEL65ycUboLH76pgdtqlF) | [Bigger Than Anything Ever](https://open.spotify.com/album/588h8kBL4MeG3M0vanSbAm) | 3:00 | 2023-03-24 |  |
 | [Bite](https://open.spotify.com/track/7L0QRXk8Yr1QUHruF10TWJ) | [Shelf Lives](https://open.spotify.com/artist/2RgHe4GuLjWoJmgdAOVubr) | [Bite](https://open.spotify.com/album/4CTR4308FLv0J234RjREIl) | 3:10 | 2023-02-17 |  |
-| [BLOOD DEBT](https://open.spotify.com/track/6PCpMc9Pz72sbU4VWjGcu0) | [Punkband](https://open.spotify.com/artist/1jtoo2GBoFsIqCqyyzFLos) | [BLOOD DEBT](https://open.spotify.com/album/4iImv3ptpL3hxCnR8gIjDI) | 2:11 | 2023-04-21 |  |
+| [Bleachers Yard](https://open.spotify.com/track/0f62033IA2CQh9Y5t4zMJt) | [Cucamaras](https://open.spotify.com/artist/2Zy8a1P2tEwHdQK56s0v8T) | [Buck Rogers Time](https://open.spotify.com/album/1omvo1hvCG4XzDRmreWjLJ) | 4:34 | 2023-05-18 |  |
+| [BLOOD DEBT](https://open.spotify.com/track/6PCpMc9Pz72sbU4VWjGcu0) | [Punkband](https://open.spotify.com/artist/1jtoo2GBoFsIqCqyyzFLos) | [BLOOD DEBT](https://open.spotify.com/album/4iImv3ptpL3hxCnR8gIjDI) | 2:11 | 2023-04-21 | 2023-05-19 |
 | [Boots](https://open.spotify.com/track/1NuBaXmaY9sbyPZ1EwwlIw) | [Pretty Happy](https://open.spotify.com/artist/55ID3BZCEsvwergEvrvd0I) | [Boots](https://open.spotify.com/album/0KUAvupvxFSmOAttRQ4nY8) | 3:39 | 2023-01-13 |  |
+| [Boys in the Band](https://open.spotify.com/track/3BtMOmGUe3VEFz4uXGzqlT) | [Lambrini Girls](https://open.spotify.com/artist/6VR4TJ20WGiho2xZWMuuWb) | [You're Welcome](https://open.spotify.com/album/0mmHl5Z8DhJvbtQVQ3Irc9) | 2:35 | 2023-05-18 |  |
 | [Brat](https://open.spotify.com/track/6RBoDti7RDKjA3HQadiLDy) | [Delilah Bon](https://open.spotify.com/artist/5JUFYlgwsbqpLcU9TMlsve) | [Brat](https://open.spotify.com/album/06LFLzsI6HOJU1E0Lbcgv3) | 3:06 | 2023-04-21 |  |
 | [Buck](https://open.spotify.com/track/2yE7012fgUjyzzmbWL8yS6) | [SNAYX](https://open.spotify.com/artist/4kQgsrHUSc9IjuwWP30gf0) | [Buck](https://open.spotify.com/album/5Ac4lXopdeGd0IztFzEZ13) | 3:59 | 2023-02-10 |  |
 | [Candy](https://open.spotify.com/track/0p5xMjlOc6Rpm8Y974Kn6H) | [The Gulps](https://open.spotify.com/artist/62HCZvFY4HgJLQb7x6fdLD) | [Candy](https://open.spotify.com/album/69TTf5gGOmechxuZ4AEjsG) | 3:16 | 2023-01-13 |  |
@@ -38,16 +40,20 @@
 | [Detrimental](https://open.spotify.com/track/2NzPodb1SiSHLK5ycVywb4) | [Suga Knuckle](https://open.spotify.com/artist/6q05UMnrAwdqUuKj5OWGDZ) | [Detrimental](https://open.spotify.com/album/4nNme6bRCBvRxyYy8Vl7UY) | 3:25 | 2023-02-10 |  |
 | [Didn't Even Know What I Was Looking For](https://open.spotify.com/track/7hdk9RNXMsXmoASR7TktzG) | [Jaws the Shark](https://open.spotify.com/artist/4aroFthfrYQXH0QJdLUH3S) | [Jaws the Shark](https://open.spotify.com/album/5Qs7fZsUxaY5PqClldAPA5) | 3:09 | 2023-01-13 | 2023-03-11 |
 | [die too](https://open.spotify.com/track/3QMtUdoPW6mTsBO4QJ2E2m) | [Noah Wu](https://open.spotify.com/artist/3PJ4eAFMJf98I6dFgeSiQK) | [die too](https://open.spotify.com/album/7Ii8lnvDafBOYK0sv5999g) | 3:57 | 2023-01-13 | 2023-02-10 |
+| [Easy](https://open.spotify.com/track/0vTqXQs6CMIMPDKGC7NldB) | [Tung in Cheek](https://open.spotify.com/artist/2vbZVMUMzbJRZHRmYIjith) | [Knockoffs & Dummies](https://open.spotify.com/album/6R58sdlUiciF4uVrCu0Fyy) | 2:42 | 2023-05-18 |  |
 | [Egregore](https://open.spotify.com/track/2l7yet2WjW2JbQi9mVvuOG) | [Bambie Thug](https://open.spotify.com/artist/6g3orasGcMPn0gwcE3JMAC) | [Egregore](https://open.spotify.com/album/06p7KNMP9DaSOQgJKtbItt) | 3:03 | 2023-04-21 |  |
+| [escalate](https://open.spotify.com/track/2hBalflQk2epPYW7GwdQb2) | [pieces](https://open.spotify.com/artist/35uZwCzQKuv1zHalrRkikr) | [escalate](https://open.spotify.com/album/3fpsNJU44c7Jp69qvTqpAM) | 3:22 | 2023-05-18 |  |
 | [Eye to Eye](https://open.spotify.com/track/1ue2tBH6KZnVy3VprM5BDI) | [Gallus](https://open.spotify.com/artist/3DTAfcWpBw0deOabOAtNVC) | [Eye to Eye](https://open.spotify.com/album/03lP3ArkPaSSF3Wk0DqDoK) | 2:59 | 2023-03-10 |  |
 | [EYELIDS](https://open.spotify.com/track/1iGKMqKV0GBLX9Q6yXTDER) | [POLICE CAR COLLECTIVE](https://open.spotify.com/artist/4FaTP0DGcGHdaTAcUIFTQ2) | [EYELIDS](https://open.spotify.com/album/0NNdMw7RTuQpUZ6fU1zZcM) | 2:06 | 2023-03-24 |  |
 | [Faded](https://open.spotify.com/track/754aVVHqjB1LywcCLaRoZP) | [happydaze](https://open.spotify.com/artist/572WK6qt9zpRCcN7iS1NMR) | [Faded](https://open.spotify.com/album/37E7LCPfCt35D3pmJzSwIR) | 3:10 | 2023-03-03 |  |
 | [fall out](https://open.spotify.com/track/5tgqhVEHiEocYQy5paevD7) | [tmdistant](https://open.spotify.com/artist/6BJvojHlWWAV9cbJouYPUi) | [fall out](https://open.spotify.com/album/6TR6863vKfyOFsbiKjQtkG) | 2:46 | 2023-01-13 | 2023-03-11 |
 | [FANG DUMMY](https://open.spotify.com/track/1l7f2QP8JcJDP0jAyxxjA7) | [KNIFE BRIDE](https://open.spotify.com/artist/34THm21WWzzr69EetTmnVG) | [FANG DUMMY](https://open.spotify.com/album/4qkuZszjUTkx0bVhtiGwMy) | 3:50 | 2023-01-13 | 2023-03-25 |
 | [Fast Cars \(and Movie Stars\)](https://open.spotify.com/track/6euhZEz9DZVQMMGvVd7BL0) | [Tina Sandwich](https://open.spotify.com/artist/02OtGA9A0NKICOB9QZ4zc9) | [Fast Cars \(and Movie Stars\)](https://open.spotify.com/album/6CcN98WZ9dueLWi694Nw7K) | 3:18 | 2023-01-13 |  |
+| [fasterthanyourthoughts](https://open.spotify.com/track/3snoKKCrXliBRAPmKlJQiK) | [North Atlas](https://open.spotify.com/artist/3Ro0E3uacXuCx3iJoa8jua) | [fasterthanyourthoughts](https://open.spotify.com/album/1IASmWiXkPu2lfxNFqCiVv) | 3:10 | 2023-05-18 |  |
 | [Fed Rock](https://open.spotify.com/track/5N9WqVbPaNU6HqS4Z5as5r) | [Island of Love](https://open.spotify.com/artist/6Owu7hgXQkNtgcVMo7UYqn) | [Fed Rock](https://open.spotify.com/album/2jMOIQCfCluYqndppMEU4Z) | 2:47 | 2023-03-24 |  |
 | [Fever](https://open.spotify.com/track/2OyBO7x26a0J92gicUgie5) | [TOVA](https://open.spotify.com/artist/6xjivjGafHAQaOLI463ZpC) | [Fever](https://open.spotify.com/album/7AIA9j3BcSt4uI3n7uZuQa) | 3:53 | 2023-01-13 |  |
 | [For You](https://open.spotify.com/track/0yUymvlfxHWxE62ys8VtbM) | [Love Is Noise](https://open.spotify.com/artist/4qY6XGFQwZubu0oKBJeVki) | [Euphoria, Where Were You?](https://open.spotify.com/album/5F3s345rSD0UJe8IWo3imC) | 4:28 | 2023-01-13 |  |
+| [foreverend](https://open.spotify.com/track/5gJ8xmfZ3yzMh9pjY0hszN) | [newshapes](https://open.spotify.com/artist/6UuFVFmfZLUQy5blahNWDZ), [Rebekah Kirk](https://open.spotify.com/artist/4sXZl444aSiekh4f2TPCbU), [Sixth Wonder](https://open.spotify.com/artist/44UPyJOf07339zZv2Imz2m) | [foreverend](https://open.spotify.com/album/2dkKkirYZB5GXBr52Z08j5) | 3:10 | 2023-05-18 |  |
 | [Freakshow](https://open.spotify.com/track/4qG7VJzZS75eZVv6LFnLbM) | [JAXN](https://open.spotify.com/artist/7DwbU77epeOXvBO9xfOmh7) | [Freakshow](https://open.spotify.com/album/2DzI2RSNz6HxgmHJCzwCK6) | 2:24 | 2023-01-13 | 2023-03-11 |
 | [fuzz](https://open.spotify.com/track/2ctn0r5FOaCMKNC3JPojaG) | [re6ce](https://open.spotify.com/artist/4ULUpM5hJYKWhWdIViYrGK) | [fuzz](https://open.spotify.com/album/45jK0xCxf13uNLUKfpPMyR) | 2:46 | 2023-03-03 |  |
 | [Gaslighter](https://open.spotify.com/track/0CvJWXoFSiPHYpLiQK1PBf) | [Skinner](https://open.spotify.com/artist/2Se7imfs8bxem8G6oVNABJ) | [Commander Trainwreck](https://open.spotify.com/album/3pgkvZHrpEawDd8GKrG1xu) | 3:44 | 2023-01-13 | 2023-03-25 |
@@ -79,7 +85,7 @@
 | [Joking](https://open.spotify.com/track/35BYpnQaIjTxdNmDlj27QD) | [Ben Kidson](https://open.spotify.com/artist/0byPxKkZ5TBvzQKL6NjqOq) | [Joking](https://open.spotify.com/album/7Mwt5rqTBTIl6qZSOAvK0N) | 3:21 | 2023-03-24 |  |
 | [K.K.O](https://open.spotify.com/track/3c7HwgYVv6d3kxOQGrYk0G) | [Piers James](https://open.spotify.com/artist/1M5jchd0rXJneek1xALRFW) | [K.K.O](https://open.spotify.com/album/6QMZWUgeNUjAqwaxgFsPFm) | 1:56 | 2023-02-03 |  |
 | [Killer](https://open.spotify.com/track/1j1vwLJRvEgsfI8mgKg1p7) | [Lizzie Esau](https://open.spotify.com/artist/3E2PKHxfpNa2R6N3RIpa8S) | [Killer](https://open.spotify.com/album/0aExcH80EthqzTCLDlv7n6) | 3:31 | 2023-04-21 |  |
-| [Lads Lads Lads](https://open.spotify.com/track/3QL6ySMAq85DunV286RBVS) | [Lambrini Girls](https://open.spotify.com/artist/6VR4TJ20WGiho2xZWMuuWb) | [Lads Lads Lads](https://open.spotify.com/album/5OM5zbbebLrPQpr3JC1b7o) | 3:11 | 2023-04-21 |  |
+| [Lads Lads Lads](https://open.spotify.com/track/3QL6ySMAq85DunV286RBVS) | [Lambrini Girls](https://open.spotify.com/artist/6VR4TJ20WGiho2xZWMuuWb) | [Lads Lads Lads](https://open.spotify.com/album/5OM5zbbebLrPQpr3JC1b7o) | 3:11 | 2023-04-21 | 2023-05-19 |
 | [Leash](https://open.spotify.com/track/2Ev8YPIWMPVcBuMWXN7G75) | [Berry Galazka](https://open.spotify.com/artist/7mFqFwW9MO8lR3c28qLUFI) | [Leash](https://open.spotify.com/album/64AMVMXHrAas7rK3PDaayQ) | 2:42 | 2023-02-03 | 2023-03-11 |
 | [Leather](https://open.spotify.com/track/4lj9sAmb00T1JloLEsQaGl) | [Talk Show](https://open.spotify.com/artist/6maphvdwLWb9tIeiFAAaE3) | [Leather](https://open.spotify.com/album/1zomrGI2LeCPKzxfS5eN4x) | 4:20 | 2023-01-13 | 2023-02-17 |
 | [leicester](https://open.spotify.com/track/6C4rKvQkoyayJYKEOzzEYr) | [takenbymarshall](https://open.spotify.com/artist/0GZXOWGXr9hXvwsbtFmAOV) | [leicester](https://open.spotify.com/album/3TXPpN3KHl3147ERSJvZLH) | 2:25 | 2023-01-13 |  |
@@ -121,6 +127,7 @@
 | [Reno](https://open.spotify.com/track/6NFQr0WZWtlYWm8S45MGkB) | [Jaws the Shark](https://open.spotify.com/artist/4aroFthfrYQXH0QJdLUH3S) | [Reno](https://open.spotify.com/album/4f4MrietRuMCzW9qPw00j3) | 2:52 | 2023-01-13 |  |
 | [Ride or Die](https://open.spotify.com/track/4GvJcJ8DMdiIZGv07rticR) | [I Know I Know](https://open.spotify.com/artist/2h1bH6yGBBd68pHNoOrPCx) | [Ride or Die](https://open.spotify.com/album/1x1rQfGHANkoaceBGUGb8h) | 3:27 | 2023-01-13 | 2023-02-03 |
 | [Right Time](https://open.spotify.com/track/6ShMhtk1om88amkkiUrpS9) | [overpass](https://open.spotify.com/artist/2y3PEaAgTdxYfbyeSXORv8) | [Right Time](https://open.spotify.com/album/1VsVEFWRQdn1MtFcjrTUXW) | 4:00 | 2023-03-24 |  |
+| [Rip It Out](https://open.spotify.com/track/6FPIh5TqPtYNFUbNN4aJ4R) | [HotWax](https://open.spotify.com/artist/237mvWGlQNJJhc9b8pSawZ) | [Rip It Out](https://open.spotify.com/album/5jJ05vdKJTQCd6QMsevIEg) | 3:15 | 2023-05-18 |  |
 | [Rip My Calendar](https://open.spotify.com/track/2iREiP77hQ4oR5eS3HpIMN) | [Valerie Rose](https://open.spotify.com/artist/07ti3q3QcT6Xe8eCFNlZlZ) | [Rip My Calendar](https://open.spotify.com/album/6Zpc6socD4ELy4hwiB6kac) | 2:30 | 2023-02-03 |  |
 | [Rockstar](https://open.spotify.com/track/1hiUjws67EtIOAIRVJgrlW) | [ALT BLK ERA](https://open.spotify.com/artist/4FNR2qdCVKGAep4alfgt25) | [Rockstar](https://open.spotify.com/album/4ccThge1HXXsxIKGuXCMlN) | 2:28 | 2023-01-13 |  |
 | [Rohmeresse](https://open.spotify.com/track/1fhdNRoxgELg1nTqC4O011) | [ĠENN](https://open.spotify.com/artist/5mZ836Fy59tOJEcqWfN771) | [Rohmeresse](https://open.spotify.com/album/2LyFQ90jBJrIL5A6tElzLW) | 4:51 | 2023-01-13 | 2023-02-10 |
@@ -136,7 +143,9 @@
 | [SNAKE](https://open.spotify.com/track/17urJ2489co5uLZRxhqas1) | [TRAILS](https://open.spotify.com/artist/4CSX0R9KLs9HkyqLfiraPQ) | [DIAMOND MIND](https://open.spotify.com/album/7rC7pmjIfcoPAH7llevI69) | 2:36 | 2023-01-13 | 2023-02-17 |
 | [Some Things Never Change](https://open.spotify.com/track/4clBv8sHZ7gqyH7xhlmCCC) | [Priestgate](https://open.spotify.com/artist/0mhU2f9YqeYcnEW6ynit0i) | [Some Things Never Change](https://open.spotify.com/album/1UQqxMCjWrWBm5oIk79sV4) | 3:37 | 2023-01-13 | 2023-03-25 |
 | [Something Good](https://open.spotify.com/track/5t1MLxm9vWYxK3m13QoHts) | [Superlove](https://open.spotify.com/artist/33esp5UFKcRpxcR4Xo0Sne) | [Something Good](https://open.spotify.com/album/5TXmQygkvgmQyWOZbAaZuq) | 3:45 | 2023-03-24 |  |
+| [Stick Dat](https://open.spotify.com/track/7qcif4D117Sy0S4HvT6FPp) | [Frozemode](https://open.spotify.com/artist/2BhOQjsvbHRatFkBLkjmu5) | [Stick Dat](https://open.spotify.com/album/5LKYJ3Eu0kLz5511Ie4sBh) | 1:57 | 2023-05-18 |  |
 | [stockholme syndrome](https://open.spotify.com/track/3vBgnkGxNvflZGsNSE2d57) | [Hayden J Barlow](https://open.spotify.com/artist/54QKgqIuwIximWz6A6ZQG2) | [CAUSTIC](https://open.spotify.com/album/6d305ez1t5HUZjXsNUWQRf) | 2:38 | 2023-01-13 |  |
+| [Stones](https://open.spotify.com/track/6JfTPst2t6yiGpn65UxPG8) | [Anolah](https://open.spotify.com/artist/1DxdPWT4AD81ET3HtqPZOK) | [Stones](https://open.spotify.com/album/5d3mW19I4ltX082FItNAYu) | 2:06 | 2023-05-18 |  |
 | [Stop Living & Don't Dream](https://open.spotify.com/track/6IoAdJtGzeZc4ulFe1MeUR) | [WALWIN](https://open.spotify.com/artist/25I3ONjJhbX1mE62i57djG) | [Stop Living & Don't Dream](https://open.spotify.com/album/2PWbNB64S8z7ntcCBgIJgy) | 2:22 | 2023-03-24 |  |
 | [Swallow](https://open.spotify.com/track/0bDFmPqNCXQcfAc3njZszA) | [Harpy](https://open.spotify.com/artist/0fLFfyc0914STFxEyQHZhX) | [Swallow](https://open.spotify.com/album/7hXMo6KNd71w3y7Zd4r134) | 3:09 | 2023-01-13 |  |
 | [Sweet One](https://open.spotify.com/track/2keqxI0IrJUrdBbXpswQpI) | [Deijuvhs](https://open.spotify.com/artist/1pdiVBF8SDDpleSjlNhP8C) | [Perpetual States of Boredom](https://open.spotify.com/album/0d3mjWzH04Ggs8aS2dfZOl) | 2:13 | 2023-01-13 |  |
@@ -147,9 +156,10 @@
 | [The Old School Way](https://open.spotify.com/track/2s03Z86G09dg3K0ogdwcjR) | [Hundred Reasons](https://open.spotify.com/artist/5jcIIICg01zIq8InYieJ5w) | [The Old School Way](https://open.spotify.com/album/0cpDwmTqLL5iqiSCofJb1d) | 3:31 | 2023-01-13 | 2023-02-17 |
 | [The Sound](https://open.spotify.com/track/5wO1dqc1lSpQFFut9auHQC) | [The Manatees](https://open.spotify.com/artist/2cWGltn2fZoaAiIhuQyw5h) | [The Sound](https://open.spotify.com/album/3GJzkSgCqNsm1kiVqwo5SY) | 2:38 | 2023-01-13 |  |
 | [The Weight of It All](https://open.spotify.com/track/6E7trHVQxQsH6Ve3spYZyv) | [Forlorn](https://open.spotify.com/artist/4aOGVF2gQb9TY4raTPjLWf) | [The Weight of It All](https://open.spotify.com/album/3eRxuVGr0PVyugK1L7MXa5) | 3:40 | 2023-03-24 |  |
+| [Think Straight](https://open.spotify.com/track/79mgVQAJLh22SZvEe6dfZZ) | [Tinesha Kinley](https://open.spotify.com/artist/2kqT8IX1ozWlsMRSx8WSWm) | [Think Straight](https://open.spotify.com/album/4PK7RCjF5LADU2c5EEdYk6) | 3:15 | 2023-05-18 |  |
 | [This Part of Me](https://open.spotify.com/track/1aEoyo49oGyAv47gVqvvSe) | [7xvn](https://open.spotify.com/artist/1B6XpURxZFBE9B2BT5JI7h), [ZANDV](https://open.spotify.com/artist/3MCb4hKg6bu2Ivg6ZBM4B0) | [This Part of Me](https://open.spotify.com/album/6t3pu0a7OPjjiMKvPGSEtQ) | 3:43 | 2023-02-10 |  |
 | [Tramlines](https://open.spotify.com/track/2TeHRE4Rl4YvuhlNuBXJVM) | [Beach Riot](https://open.spotify.com/artist/55bBJNuY224tmQf4odUqXV) | [Tramlines](https://open.spotify.com/album/0PUA4ZxX3CkJCeryebqYzo) | 3:16 | 2023-02-10 |  |
-| [Treasure](https://open.spotify.com/track/7vcgqskkBA3n2aykT0AjUJ) | [HotWax](https://open.spotify.com/artist/237mvWGlQNJJhc9b8pSawZ) | [Treasure](https://open.spotify.com/album/0V99dg4bfGbJV0s3giFxlO) | 3:11 | 2023-03-24 |  |
+| [Treasure](https://open.spotify.com/track/7vcgqskkBA3n2aykT0AjUJ) | [HotWax](https://open.spotify.com/artist/237mvWGlQNJJhc9b8pSawZ) | [Treasure](https://open.spotify.com/album/0V99dg4bfGbJV0s3giFxlO) | 3:11 | 2023-03-24 | 2023-05-19 |
 | [Tsunami \(11:11\)](https://open.spotify.com/track/0u4SRuld2zPAnyImNdfMAo) | [Bambie Thug](https://open.spotify.com/artist/6g3orasGcMPn0gwcE3JMAC) | [Tsunami \(11:11\)](https://open.spotify.com/album/1mQwEcEkEfQ5EFW9Q4PpsE) | 3:08 | 2023-01-13 | 2023-04-22 |
 | [Unchained](https://open.spotify.com/track/2CBvjn9Nqxb2zjhKFz6cEV) | [whenyoung](https://open.spotify.com/artist/6IcfYALmhjyW2kJwRNXHJp) | [Unchained](https://open.spotify.com/album/0BelpsRp8VUFESM1zUbq6c) | 3:29 | 2023-01-13 | 2023-02-17 |
 | [Voice in Your Head](https://open.spotify.com/track/7z60kiKN6OTVTCXinnnXUD) | [Shit Present](https://open.spotify.com/artist/29HZSUDm7U6n2QNMKQY73k) | [Voice in Your Head](https://open.spotify.com/album/0vnaNn4Yw8gTH8nwhUOreU) | 3:33 | 2023-03-03 |  |

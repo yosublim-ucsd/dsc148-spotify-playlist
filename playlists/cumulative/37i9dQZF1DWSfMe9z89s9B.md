@@ -4,7 +4,7 @@
 
 > Leaders of the new school...Alternative R&B\. Cover: Q
 
-825 songs - 1 day 20 hr 38 min
+826 songs - 1 day 20 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -225,7 +225,7 @@
 | [Eternal Sunshine](https://open.spotify.com/track/5FChOu6NfR5w7YLgDmXXnC) | [Lou Val](https://open.spotify.com/artist/6u3PN3PCsWLGsw1OffKQ2F) | [Eternal Sunshine](https://open.spotify.com/album/28BpYRhmt39k7JYAviNf9n) | 4:01 | 2021-05-14 | 2022-07-23 |
 | [Eternal Sunshine \(Fire Pit\)](https://open.spotify.com/track/39AkkoGAl2ILUDU2u9g9En) | [Masego](https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig) | [Masego](https://open.spotify.com/album/2Og05vfN0U9RcT4mLeOW9S) | 4:16 | 2023-03-03 |  |
 | [Eternity](https://open.spotify.com/track/7jrbOhDHb5bvvcmzEPbRWw) | [KUČKA](https://open.spotify.com/artist/6JcD2YKEhgimweLpUI0NEw) | [Eternity](https://open.spotify.com/album/5SXIbnJOOXC2z3gpj3u1U1) | 3:34 | 2022-04-01 | 2022-04-09 |
-| [Everytime the Night Starts Calling](https://open.spotify.com/track/5UY8NELLyxYeziwciKIhJQ) | [Michl](https://open.spotify.com/artist/0qG3lxHmrUeKzL1BJJ7IBN), [Brandon](https://open.spotify.com/artist/08HpiyWkp2Z7gFTkVae265) | [Form Follows Function](https://open.spotify.com/album/55Rfi4oaFbYuWbZuQw5Qxr) | 2:40 | 2023-04-14 |  |
+| [Everytime the Night Starts Calling](https://open.spotify.com/track/5UY8NELLyxYeziwciKIhJQ) | [Michl](https://open.spotify.com/artist/0qG3lxHmrUeKzL1BJJ7IBN), [Brandon](https://open.spotify.com/artist/08HpiyWkp2Z7gFTkVae265) | [Form Follows Function](https://open.spotify.com/album/55Rfi4oaFbYuWbZuQw5Qxr) | 2:40 | 2023-04-14 | 2023-05-19 |
 | [exodus the north star](https://open.spotify.com/track/6P1X3qgDqlkjf8XmJS9Xiw) | [Yaya Bey](https://open.spotify.com/artist/6tpaMMCs8X6o8j9H5OmWmT) | [exodus the north star](https://open.spotify.com/album/31prAWzIqlD3D7R4qPZlfr) | 3:25 | 2023-02-10 | 2023-04-15 |
 | [Exposure](https://open.spotify.com/track/0tHWsBI54oBishkTwMwd9Y) | [Shelley FKA DRAM](https://open.spotify.com/artist/5M0lbkGluOPXLeFjApw8r8) | [Exposure](https://open.spotify.com/album/1K1Dv8UvUhejxrbAMPCFu7) | 3:44 | 2021-04-02 | 2022-07-27 |
 | [Exscape](https://open.spotify.com/track/5L1WMbYfNFkmlyG407ke6S) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [Exscape](https://open.spotify.com/album/1vSELIji55iJOeDXNHng2b) | 2:22 | 2022-10-28 | 2023-02-18 |
@@ -654,6 +654,7 @@
 | [Sleep Well](https://open.spotify.com/track/4qwKWGKzuq8mgIunO6EaA1) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Sleep Well](https://open.spotify.com/album/7l7D7PZUCYo2JJsFFxlwYO) | 2:55 | 2023-04-14 |  |
 | [slideshow](https://open.spotify.com/track/1NxCtk7ybnoLfNBBnMg5oM) | [Amindi](https://open.spotify.com/artist/1xQIR56DxgWYZPUvOLRIua) | [nice](https://open.spotify.com/album/6AOKgHrEw5Z37EFrhRHVYV) | 1:41 | 2021-09-17 | 2022-09-10 |
 | [Slow Jam](https://open.spotify.com/track/6lRVYHkmpifUVyEKIkgAub) | [Grimm Lynn](https://open.spotify.com/artist/0JkfcKhoGCGKSBxSRGaRDh) | [Sweet Heat](https://open.spotify.com/album/63Csm69FYFtiXnzwagzsmd) | 3:28 | 2022-08-19 | 2022-11-12 |
+| [Smear Campaign](https://open.spotify.com/track/02f4QgR69r033tjAy6hyit) | [Tanerélle](https://open.spotify.com/artist/1r1n66Rkx4fzNCIUQhS6OH) | [Smear Campaign](https://open.spotify.com/album/7hLmfpbp7Ep5yXpDWG0TjW) | 3:28 | 2023-05-05 |  |
 | [Sneaky](https://open.spotify.com/track/6XkG4MmrybBwPUm2d4wD0c) | [Duckwrth](https://open.spotify.com/artist/6I3MElirhT5t6Kf7p0hGk9), [Juls](https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic) | [Chrome Bull](https://open.spotify.com/album/3IJE33ruLyvq3yCiJubw4g) | 3:07 | 2022-10-21 | 2023-04-01 |
 | [So Bad](https://open.spotify.com/track/0PBfcu5ehGtLsECI40GWEg) | [St\. Panther](https://open.spotify.com/artist/5rvubrGTRPAX7N3RZZ9wS0) | [So Bad](https://open.spotify.com/album/5Wpa2iEON1wIPox3tQauTq) | 3:33 | 2022-08-19 | 2023-04-09 |
 | [So Gone \(feat\. Naomi Wild\)](https://open.spotify.com/track/3wQTTzuD1SkXaKqpZmC0tQ) | [Tempest](https://open.spotify.com/artist/2FBvlvG5TL6SPA2tCLiusa), [Naomi Wild](https://open.spotify.com/artist/5EBlHXi71tDXnFtroEh7Rg) | [So Gone \(feat\. Naomi Wild\)](https://open.spotify.com/album/2C9mU98Ty3lPbQPne7wcse) | 3:44 | 2022-08-26 | 2022-09-10 |

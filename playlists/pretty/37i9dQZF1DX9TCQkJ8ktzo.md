@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9TCQkJ8ktzo.md) - [plain]
 
 > This is the Latin soundtrack of the 60s! Cover: Rocío Dúrcal
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,865 likes - 50 songs - 2 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,896 likes - 50 songs - 2 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9TCQkJ8ktzo.md) - [plain]
 | 49 | [Eres Diferente](https://open.spotify.com/track/5kdj2yC3I0uqohVuTAvrkf) | [Los Cinco Latinos](https://open.spotify.com/artist/5T5Xw3jmM98NH8KMFB6qrX) | [22 Grandes Exitos](https://open.spotify.com/album/245rgwEnRg54XD7xQSCLOM) | 2:03 |
 | 50 | [Agujetas de Color de Rosa](https://open.spotify.com/track/2okE1tDAMhTVDEC7QrF47h) | [Los Hermanos Carrion](https://open.spotify.com/artist/6s99lPSFFrlxBfk14DUNyz) | [Rock de los 60's](https://open.spotify.com/album/5nabTO3L92Il0r8FHVPL7J) | 2:48 |
 
-Snapshot ID: `MCw5ZmQ4MWVkOGNlY2QxOTBhY2RkN2M5ZjE3MzQwZDZhYjczNzEzZDQy`
+Snapshot ID: `MCwxODY5MzFjOTVlYTcyNzcxM2IzMjRiNWQwNGFmZTcyYTA2NWJjMzUz`

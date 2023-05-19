@@ -4,7 +4,7 @@
 
 > It's Hits – största och bästa hitsen just nu!
 
-458 songs - 23 hr 1 min
+460 songs - 23 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -85,7 +85,7 @@
 | [Crazy What Love Can Do](https://open.spotify.com/track/1WCEAGGRD066z2Q89ObXTq) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK), [Ella Henderson](https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1) | [Crazy What Love Can Do](https://open.spotify.com/album/0GnxssqYa2RU9EdWHhZ707) | 2:49 | 2022-04-07 | 2022-06-10 |
 | [Creepin' \(with The Weeknd & 21 Savage\)](https://open.spotify.com/track/2dHHgzDwk4BJdRwy9uXhTO) | [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [HEROES & VILLAINS](https://open.spotify.com/album/7txGsnDSqVMoRl6RQ9XyZP) | 3:41 | 2022-12-05 | 2023-04-07 |
 | [CUFF IT](https://open.spotify.com/track/1xzi1Jcr7mEi9K2RfzLOqS) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [RENAISSANCE](https://open.spotify.com/album/6FJxoadUE4JNVwWHghBwnb) | 3:45 | 2022-07-28 | 2022-11-04 |
-| [Cupid \- Twin Ver.](https://open.spotify.com/track/7FbrGaHYVDmfr7KoLIZnQ7) | [FIFTY FIFTY](https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6) | [The Beginning: Cupid](https://open.spotify.com/album/5letLUZIFsQikJYShfGNs4) | 2:54 | 2023-05-04 |  |
+| [Cupid \- Twin Ver.](https://open.spotify.com/track/7FbrGaHYVDmfr7KoLIZnQ7) | [FIFTY FIFTY](https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6) | [The Beginning: Cupid](https://open.spotify.com/album/5letLUZIFsQikJYShfGNs4) | 2:54 | 2023-05-04 | 2023-05-19 |
 | [Curtains](https://open.spotify.com/track/6ZZf5a8oiInHDkBe9zXfLP) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [\- \(Deluxe\)](https://open.spotify.com/album/2WFFcvzM0CgLaSq4MSkyZk) | 3:44 | 2023-05-04 |  |
 | [Damn \(You’ve Got Me Saying\)](https://open.spotify.com/track/5RVjB86R02f47lCZSPFOzj) | [Galantis](https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G) | [Damn \(You’ve Got Me Saying\)](https://open.spotify.com/album/53i5TggV9rLa7XBaDbD8Hp) | 3:15 | 2022-11-10 | 2022-12-09 |
 | [Dancing Feet \(feat\. DNCE\)](https://open.spotify.com/track/4RAR8g8fZNB106ezUurnE0) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [DNCE](https://open.spotify.com/artist/6T5tfhQCknKG4UnH90qGnz) | [Dancing Feet \(feat\. DNCE\)](https://open.spotify.com/album/2ox5UMCeda9P21urAcoXdt) | 3:35 | 2022-02-24 | 2022-05-20 |
@@ -223,6 +223,7 @@
 | [Internet \- Spotify Studio 100 Recording](https://open.spotify.com/track/1gnCpBKizZd2w23fb0eOS2) | [VC Barre](https://open.spotify.com/artist/5QcMPl2wzC4KqivjfcyBIU), [23](https://open.spotify.com/artist/2Dor6diK1zw9BEluKBOdoA) | [Internet \(Spotify Studio 100 Recording\)](https://open.spotify.com/album/4U1ARXYplRDpLRth2YBocA) | 2:31 | 2022-02-17 | 2022-04-01 |
 | [It Takes a Fool to Remain Sane \- Spotify Singles](https://open.spotify.com/track/4k7JHq7EL9CPPs7AJlVgrZ) | [Cornelia Jakobs](https://open.spotify.com/artist/7cYZ8F0N2jby95FsxU9hh4) | [It Takes a Fool to Remain Sane \(Spotify Singles\)](https://open.spotify.com/album/3bL5S50blEY31RLDenDPpf) | 3:48 | 2023-04-27 |  |
 | [It'll Be Okay](https://open.spotify.com/track/2KnLkZ3z7PO3kgVGHGqDpD) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [It'll Be Okay](https://open.spotify.com/album/3sDud6BapENewYxlL8VH8r) | 3:42 | 2021-12-28 | 2022-03-18 |
+| [JA HOPPAS](https://open.spotify.com/track/367OEGavo6GRpELfLi4QQB) | [LOAM](https://open.spotify.com/artist/6yAKbgaSH283c7eAZVgk3P) | [JA HOPPAS](https://open.spotify.com/album/5LnAgqISItXMdOn2y3dlGM) | 2:43 | 2023-05-18 |  |
 | [Jag Lovar](https://open.spotify.com/track/7jKcsAaF79FqhuY9505G0i) | [Norlie & KKV](https://open.spotify.com/artist/2u8P7EawurNYoIzRtr5Knk) | [Jag Lovar](https://open.spotify.com/album/3iJQtcdLiYcD5R6bsQTVRm) | 2:48 | 2022-01-27 | 2022-04-01 |
 | [Jag vill bara va med dej](https://open.spotify.com/track/7EIhW2IWOEuOyvl1aFTCaj) | [Håkan Hellström](https://open.spotify.com/artist/3H7Ez7cwaYw4L3ELy4v3Lc), [Noonie Bao](https://open.spotify.com/artist/1vIuPjtFhqIPE2n9W2ePgO) | [Jag vill bara va med dej](https://open.spotify.com/album/10JTOhisVeDfvxsNSQsD8E) | 3:37 | 2022-05-13 | 2022-07-22 |
 | [John Daly](https://open.spotify.com/track/2bHkxIrKmodno557Z4BJBK) | [Tjuvjakt](https://open.spotify.com/artist/0XDfNJsQy7B3q0GfsMHSkp) | [John Daly](https://open.spotify.com/album/410yZGA5oklqvmUXCEJeVu) | 2:49 | 2023-03-30 | 2023-05-14 |
@@ -338,6 +339,7 @@
 | [Räkna dagar](https://open.spotify.com/track/7GWtRLE1ZeFat9k9iauEef) | [Hov1](https://open.spotify.com/artist/68dW5BU6sdVNf099EylxEt) | [Barn av vår tid](https://open.spotify.com/album/1StOdefPDHrQiwQLm3teNm) | 2:55 | 2021-12-16 | 2022-01-21 |
 | [Sacrifice](https://open.spotify.com/track/1nH2PkJL1XoUq8oE6tBZoU) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Dawn FM](https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC) | 3:08 | 2022-01-07 | 2022-03-18 |
 | [SANTORINI](https://open.spotify.com/track/19NOk119jgj751CxrWsvOl) | [Jireel](https://open.spotify.com/artist/2EWsHDexsSInArfFkhA2i6) | [MOTY](https://open.spotify.com/album/5P0fVGNFuCNtFzkKI0i7ij) | 2:54 | 2022-05-06 | 2022-06-10 |
+| [Satellite](https://open.spotify.com/track/0rzaRSujxA0bKyjJl6vHYq) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry's House](https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h) | 3:38 | 2023-05-18 |  |
 | [Satisfaction](https://open.spotify.com/track/54DtVqFHH5KalNbgPE8Rok) | [Darin](https://open.spotify.com/artist/1rKFeRryEci6cxNkdvHzNr) | [Satisfaction](https://open.spotify.com/album/2ymwX023ejRk9oIW34aMk1) | 3:07 | 2022-11-03 | 2022-11-18 |
 | [Say Say Say \(feat\. Paul McCartney & Michael Jackson\)](https://open.spotify.com/track/16vUeW77F6Xiz1irHBvTAM) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Paul McCartney](https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB), [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [Say Say Say \(feat\. Paul McCartney & Michael Jackson\)](https://open.spotify.com/album/1oIy8CYApH9VUB73DqUvPT) | 2:55 | 2023-03-31 |  |
 | [Search & Rescue](https://open.spotify.com/track/7aRCf5cLOFN1U7kvtChY1G) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Search & Rescue](https://open.spotify.com/album/67WUCOjyl44d8fAFzHONjW) | 4:32 | 2023-04-06 | 2023-05-05 |
@@ -465,6 +467,6 @@
 | [Återvändsgränd](https://open.spotify.com/track/2glvJpNPCnuhAKLq1lIdWz) | [Daniela Rathana](https://open.spotify.com/artist/5U2TzkbKD84n8gHhZtL3Ui) | [Så mycket bättre 2022 \- Tolkningarna](https://open.spotify.com/album/20TlyZgpi1xGo3C4ECtG7h) | 3:15 | 2023-01-19 | 2023-01-27 |
 | [Återvändsgränd](https://open.spotify.com/track/3y6qyXYv3C0BaYehuAQTLv) | [Daniela Rathana](https://open.spotify.com/artist/5U2TzkbKD84n8gHhZtL3Ui) | [Återvändsgränd](https://open.spotify.com/album/0HcXNRFN67R6c7uFKLSQxA) | 3:15 | 2022-11-24 | 2023-01-25 |
 | [åtta shots](https://open.spotify.com/track/6fdZ0dGYPVMgwlextDDJDs) | [Broiler](https://open.spotify.com/artist/3836OTICMPjhTMMcpPw4EC), [ODZ](https://open.spotify.com/artist/295SPRt7YTtIPdYoMkkF7K) | [åtta shots](https://open.spotify.com/album/6noUcSo95FnWv2yUGH8H42) | 2:28 | 2023-01-26 | 2023-03-03 |
-| [Över](https://open.spotify.com/track/1enxBOSOQnVVHMNI6BBv8q) | [Lucas Sunday](https://open.spotify.com/artist/5gZVR3l4ocV9kU4xE9hoRr) | [Över](https://open.spotify.com/album/0jbr13J0q4bxhSCiqjYQwR) | 2:10 | 2023-04-20 |  |
+| [Över](https://open.spotify.com/track/1enxBOSOQnVVHMNI6BBv8q) | [Lucas Sunday](https://open.spotify.com/artist/5gZVR3l4ocV9kU4xE9hoRr) | [Över](https://open.spotify.com/album/0jbr13J0q4bxhSCiqjYQwR) | 2:10 | 2023-04-20 | 2023-05-19 |
 
 \*This playlist was first scraped on 2021-12-21. Prior content cannot be recovered.

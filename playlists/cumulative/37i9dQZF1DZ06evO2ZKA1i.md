@@ -4,7 +4,7 @@
 
 > This is Deep Purple\. The essential tracks, all in one playlist.
 
-84 songs - 7 hr 2 min
+85 songs - 7 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,8 +40,8 @@
 | [Help \- 2000 Remaster](https://open.spotify.com/track/1Xn1zGitnNwuVuBbY1naBx) | [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) | [Shades of Deep Purple](https://open.spotify.com/album/5qxy4Qf0ug4rV9YVYGQRn2) | 6:01 | 2022-09-17 | 2022-10-13 |
 | [Highway Star \- Remastered 2012](https://open.spotify.com/track/3uMmllZo1AfoEnVT4ENCD3) | [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) | [Machine Head \(Remastered\)](https://open.spotify.com/album/32NQ56VZDTXSH3SMv4XSGN) | 6:06 | 2022-09-17 |  |
 | [Hip Boots \- Rehearsal, Ian Paice Recording](https://open.spotify.com/track/0BE8oMxHZ91FWCoUzFH96d) | [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) | [Extras: The Infinite B\-Sides and Bonus Songs](https://open.spotify.com/album/1tk2fJEkbes3rEw36iY5Cc) | 4:00 | 2022-10-09 | 2022-10-13 |
-| [Hungry Daze](https://open.spotify.com/track/4ozxYj7YYkQJFgd4qO5e0Y) | [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) | [Perfect Strangers](https://open.spotify.com/album/1FOmatanDRxS9EGcxjXKuO) | 4:58 | 2022-10-24 | 2023-05-05 |
-| [Hush \- 1998 Remaster](https://open.spotify.com/track/2Vim06YsRb4uJRpbeq6NR6) | [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) | [Shades of Deep Purple](https://open.spotify.com/album/5qxy4Qf0ug4rV9YVYGQRn2) | 4:26 | 2022-09-17 |  |
+| [Hungry Daze](https://open.spotify.com/track/4ozxYj7YYkQJFgd4qO5e0Y) | [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) | [Perfect Strangers](https://open.spotify.com/album/1FOmatanDRxS9EGcxjXKuO) | 4:58 | 2022-10-24 |  |
+| [Hush \- 1998 Remaster](https://open.spotify.com/track/2Vim06YsRb4uJRpbeq6NR6) | [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) | [Shades of Deep Purple](https://open.spotify.com/album/5qxy4Qf0ug4rV9YVYGQRn2) | 4:26 | 2022-09-17 | 2023-05-19 |
 | [Into the Fire \- 1995 Remaster](https://open.spotify.com/track/2nCRjFVNNfpedJevLrMBLI) | [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) | [Deep Purple in Rock \(Anniversary Edition\)](https://open.spotify.com/album/2bjTVISSsvwia7uxrrEsuQ) | 3:29 | 2022-10-12 |  |
 | [Kentucky Woman \- 1998 Remaster](https://open.spotify.com/track/3rI5e4tFTlWEwJi4TjLeGT) | [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) | [The Book of Taliesyn](https://open.spotify.com/album/4pFFGEuoEmxtOTbp22tva9) | 4:43 | 2022-09-17 | 2023-04-21 |
 | [King of Dreams](https://open.spotify.com/track/4HomPKDsqVz9xAtW2zyMO2) | [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) | [Slaves and Masters \(Bonus Track Version\)](https://open.spotify.com/album/5SKeGHkVddRpKf0pqVBJAR) | 5:26 | 2022-09-17 |  |
@@ -61,7 +61,7 @@
 | [Never Before \- Remastered 2012](https://open.spotify.com/track/7Hak5ai4Zs9BR4OMrPZbgH) | [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) | [Machine Head \(Remastered\)](https://open.spotify.com/album/32NQ56VZDTXSH3SMv4XSGN) | 3:58 | 2022-09-17 | 2022-10-11 |
 | [No Need to Shout](https://open.spotify.com/track/2MVHkX7EmjtIOXLRO7ibNU) | [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) | [Whoosh!](https://open.spotify.com/album/2TFJQM2nlH4zIA5yuqKHQU) | 3:30 | 2023-04-20 | 2023-04-29 |
 | [No Need to Shout](https://open.spotify.com/track/4ctOXWzCBVNvoZFHeeQapU) | [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) | [Whoosh!](https://open.spotify.com/album/392MAwI1VwplUzLrz8R5p2) | 3:30 | 2022-09-17 | 2022-12-19 |
-| [Nobody's Home](https://open.spotify.com/track/6x8GeAremuPbjgKJw5ao4D) | [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) | [Perfect Strangers](https://open.spotify.com/album/1FOmatanDRxS9EGcxjXKuO) | 4:00 | 2022-09-17 |  |
+| [Nobody's Home](https://open.spotify.com/track/6x8GeAremuPbjgKJw5ao4D) | [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) | [Perfect Strangers](https://open.spotify.com/album/1FOmatanDRxS9EGcxjXKuO) | 4:00 | 2022-09-17 | 2023-05-19 |
 | [Nothing at All](https://open.spotify.com/track/7xUqaTSHMxEOYrRclylN1j) | [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) | [Whoosh!](https://open.spotify.com/album/392MAwI1VwplUzLrz8R5p2) | 4:42 | 2022-09-17 |  |
 | [Oh Well](https://open.spotify.com/track/1EcrjxVZRILxaa4pCkoZvy) | [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) | [Turning to Crime](https://open.spotify.com/album/4rsA0I5GWl2bnrQLI4ODVm) | 4:31 | 2022-09-17 |  |
 | [Paradise Bar](https://open.spotify.com/track/31LJFeE8dgwGEesPZry7DD) | [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) | [Extras: The Infinite B\-Sides and Bonus Songs](https://open.spotify.com/album/1tk2fJEkbes3rEw36iY5Cc) | 4:10 | 2022-09-25 | 2022-10-13 |
@@ -86,6 +86,7 @@
 | [Throw My Bones](https://open.spotify.com/track/4W1SllpK1wf1I2YeW3tG0D) | [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) | [Throw My Bones](https://open.spotify.com/album/2AcI2wEIIt2J8f8m0gEV2b) | 3:38 | 2022-09-17 |  |
 | [Uncommon Man \- Instrumental Version](https://open.spotify.com/track/2qMrO5n4RgUpHA17HlUPt9) | [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) | [Extras: The Now What?! B\-Sides and Bonus Songs](https://open.spotify.com/album/6PvYfkFYRsFsXx3IbTmSf3) | 6:58 | 2022-09-25 | 2022-09-29 |
 | [Under The Gun](https://open.spotify.com/track/3tWcr1XvZumZ8a6MenaEq3) | [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) | [Perfect Strangers](https://open.spotify.com/album/1FOmatanDRxS9EGcxjXKuO) | 4:38 | 2022-09-17 |  |
+| [Vavoom: Ted The Mechanic](https://open.spotify.com/track/1ALrWvDxlsHoMnyyTk77DJ) | [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) | [Purpendicular](https://open.spotify.com/album/3bErA9aFZyGiD9j5ntYe5v) | 4:16 | 2023-05-18 |  |
 | [Wasted Sunsets](https://open.spotify.com/track/07W9HcJyjXPnKQSMbUcWZU) | [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) | [Perfect Strangers](https://open.spotify.com/album/1FOmatanDRxS9EGcxjXKuO) | 3:55 | 2022-09-18 | 2023-05-18 |
 | [When A Blind Man Cries \- Remastered](https://open.spotify.com/track/0JtcFIgrkSagrM5JdFakeO) | [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) | [Machine Head \(Remastered\)](https://open.spotify.com/album/32NQ56VZDTXSH3SMv4XSGN) | 3:29 | 2022-09-17 |  |
 | [White Room](https://open.spotify.com/track/2RMp39cxDzwxu9ITM8HVB7) | [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) | [Turning to Crime](https://open.spotify.com/album/0PSAOfLIqsdfWbwWkF1Hu2) | 4:53 | 2022-09-17 |  |

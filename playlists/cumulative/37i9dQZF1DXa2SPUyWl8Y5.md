@@ -4,7 +4,7 @@
 
 > Focus with deep techno and tech house.
 
-346 songs - 1 day 14 hr 30 min
+347 songs - 1 day 14 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -310,7 +310,8 @@
 | [Sunday](https://open.spotify.com/track/3ZqCO6acHqEwsanRjE7OXK) | [Oliver Schories](https://open.spotify.com/artist/0iTjLBepeGaLgZS18kxgRq) | [Herzensangelegenheit](https://open.spotify.com/album/5nlqi0XbTK64XzAwE0U796) | 6:06 | 2019-06-21 | 2019-11-09 |
 | [Supercycle](https://open.spotify.com/track/2NlMxXyjJimm3OSjQDwKOX) | [Jack Back](https://open.spotify.com/artist/4bXUaTjc7TQTvLqqCAlfYt), [Citizen Kain](https://open.spotify.com/artist/4WRWFxbK0DKYIpHcScsnAE), [Kiko](https://open.spotify.com/artist/4vQwRCAEjGlq5szn3MyG2N) | [Supercycle](https://open.spotify.com/album/3ksLevpCQvoed0nlc0CMiZ) | 4:02 | 2022-02-18 | 2022-11-26 |
 | [Surge](https://open.spotify.com/track/2ZFDodttdecE9U07EZvbgc) | [Patrice Bäumel](https://open.spotify.com/artist/5OvpF1A65DXs93M9NfPIjT) | [Speicher 89](https://open.spotify.com/album/467CM3Py8qTmA66eyAaGOp) | 7:47 | 2019-06-22 | 2019-11-09 |
-| [Suvi](https://open.spotify.com/track/3hB45uxnbEjhGJHQZKOpFL) | [Pretty Pink](https://open.spotify.com/artist/78GHS9zWXcj8tBke222g5N) | [Suvi](https://open.spotify.com/album/6OYVQ5iCKjq6jIddKMJBds) | 3:11 | 2020-09-09 |  |
+| [Suvi](https://open.spotify.com/track/3hB45uxnbEjhGJHQZKOpFL) | [Pretty Pink](https://open.spotify.com/artist/78GHS9zWXcj8tBke222g5N) | [Suvi](https://open.spotify.com/album/6OYVQ5iCKjq6jIddKMJBds) | 3:11 | 2020-09-09 | 2023-05-19 |
+| [Suvi](https://open.spotify.com/track/5EwMoEspweyiYHBpOrPTml) | [Pretty Pink](https://open.spotify.com/artist/78GHS9zWXcj8tBke222g5N) | [Born Digital](https://open.spotify.com/album/7xrjXYPCUgsNAGronmovK2) | 3:11 | 2023-04-28 |  |
 | [Symbiotic Nature](https://open.spotify.com/track/0FUUkCK8Mw51Bgq4in85Qp) | [Brendon Moeller](https://open.spotify.com/artist/3V3T5haMWZGfFxqVsAB9oB) | [Symbiotic Nature](https://open.spotify.com/album/6mWG3m1bPkfF60InOJvQ1l) | 6:14 | 2019-09-29 | 2022-11-26 |
 | [Symphony From Outer Space \- Stan Kolev Remix](https://open.spotify.com/track/2WdXZ6uFRhGssQurNPIOYJ) | [Fran&co](https://open.spotify.com/artist/6GLpNI3XjDnspncxnnrSpX), [Stan Kolev](https://open.spotify.com/artist/5wuzbpB9QpUs0azZ17yBZE) | [Symphony From Outer Space Remixes](https://open.spotify.com/album/5lNwmMw2E3ikJGIoCkDLoF) | 7:09 | 2019-05-26\* | 2019-07-05 |
 | [Tainted](https://open.spotify.com/track/03noobdJp6S95MRoYDXNQF) | [Einmusik](https://open.spotify.com/artist/1LXTXZjheh25pXMEUT9iC1) | [Pristine](https://open.spotify.com/album/2p4sYEu5d0IBHeYdTKoSYZ) | 8:18 | 2019-05-26\* | 2019-07-05 |

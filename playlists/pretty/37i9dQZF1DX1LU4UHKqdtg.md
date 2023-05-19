@@ -2,14 +2,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1LU4UHKqdtg.md) - [plain]
 
 ### [K\-Pop Fresh](https://open.spotify.com/playlist/37i9dQZF1DX1LU4UHKqdtg)
 
-> The freshest K\-Pop of today!  //最先端のK\-Popをピックアップ！ Cover: aespa
+> The freshest K\-Pop of today!  //最先端のK\-Popをピックアップ！ Cover: Billlie
 
-[Spotify](https://open.spotify.com/user/spotify) - 318,330 likes - 79 songs - 4 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 318,605 likes - 79 songs - 4 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Spicy](https://open.spotify.com/track/1ULdASrNy5rurl1TZfFaMP) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [MY WORLD \- The 3rd Mini Album](https://open.spotify.com/album/69xF8jTd0c4Zoo7DT3Rwrn) | 3:17 |
-| 2 | [GingaMingaYo \(the strange world\) \- Japanese ver\. \-](https://open.spotify.com/track/2eRWDUDiv61PuDt0mtF7mV) | [Billlie](https://open.spotify.com/artist/2GQxKDojobwBjZMPf7aoh0) | [GingaMingaYo \(the strange world\) \- Japanese ver\. \-](https://open.spotify.com/album/05iDC0HO6QfCmceh6V0HJY) | 3:37 |
+| 1 | [GingaMingaYo \(the strange world\) \- Japanese ver\. \-](https://open.spotify.com/track/2eRWDUDiv61PuDt0mtF7mV) | [Billlie](https://open.spotify.com/artist/2GQxKDojobwBjZMPf7aoh0) | [GingaMingaYo \(the strange world\) \- Japanese ver\. \-](https://open.spotify.com/album/05iDC0HO6QfCmceh6V0HJY) | 3:37 |
+| 2 | [Spicy](https://open.spotify.com/track/1ULdASrNy5rurl1TZfFaMP) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [MY WORLD \- The 3rd Mini Album](https://open.spotify.com/album/69xF8jTd0c4Zoo7DT3Rwrn) | 3:17 |
 | 3 | [Hare Hare](https://open.spotify.com/track/0h3dJV8JA5oxPzSF4tkz2t) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Hare Hare](https://open.spotify.com/album/0ymqvaOiilJa797C3Y2mZh) | 3:23 |
 | 4 | [WAVE](https://open.spotify.com/track/2FNgoGLkE4AAOtYkQfiVL4) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [WAVE](https://open.spotify.com/album/0ygvUJDV0PK3Sz3f7njaaA) | 2:55 |
 | 5 | [The Planet](https://open.spotify.com/track/4IJsVXbSeGPUrgwpVoHmlg) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [The Planet](https://open.spotify.com/album/7uaI73cqw8YC2ViewZAai5) | 2:58 |
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1LU4UHKqdtg.md) - [plain]
 | 11 | [Crazy Like That](https://open.spotify.com/track/3YKVnTgamsTa6zzimeaJXc) | [VERIVERY](https://open.spotify.com/artist/1fWUcRSok57yRm8gPKj1Fc) | [Liminality \- EP.DREAM](https://open.spotify.com/album/0G24S1Jv4NSKhPuDXVtiU6) | 3:11 |
 | 12 | [I AM](https://open.spotify.com/track/70t7Q6AYG6ZgTYmJWcnkUM) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [I've IVE](https://open.spotify.com/album/38VzP4yWfHdHafITKKRHEB) | 3:03 |
 | 13 | [Welcome To MY World \(feat\. nævis\)](https://open.spotify.com/track/6qVqWJxIpsabUKBILG7d6N) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE), [nævis](https://open.spotify.com/artist/2067CjQ2nC56cRZX8goeHg) | [Welcome To MY World \(feat\. nævis\)](https://open.spotify.com/album/2o35lokKrBVG73xWFDEVsX) | 3:26 |
-| 14 | [Angel Pt\. 1 \(feat\. Jimin of BTS, JVKE & Muni Long\) \- Trailer Version](https://open.spotify.com/track/5qyjy0xfsHNzWxvXkHVB85) | [Jimin](https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY), [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7), [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ), [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [Angel Pt\. 1 \(feat\. Jimin of BTS, JVKE & Muni Long\) \[Trailer Version\]](https://open.spotify.com/album/6aHHJHhyAt6fBWwc7baiCw) | 1:02 |
+| 14 | [Angel Pt 1 \(feat\. Jimin of BTS, JVKE & Muni Long\)](https://open.spotify.com/track/4g1Ant3Me43Cm5Lx91bV8e) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7), [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ), [Jimin](https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY), [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK), [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [Angel Pt 1 \(feat\. Jimin of BTS, JVKE & Muni Long / FAST X Soundtrack\)](https://open.spotify.com/album/0zPSvQqWCWIjuzvn29GhUK) | 2:55 |
 | 15 | [Giddy](https://open.spotify.com/track/6blIAzkMKENKqAfMwj5cZQ) | [Kep1er](https://open.spotify.com/artist/5R7AMwDeroq6Ls0COQYpS4) | [LOVESTRUCK!](https://open.spotify.com/album/06qoehc4xjI7IW9J8jQFEX) | 3:04 |
 | 16 | [Shoong! \(feat\. LISA of BLACKPINK\)](https://open.spotify.com/track/5HrIcZOo1DysX53qDRlRnt) | [TAEYANG](https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV), [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT) | [Down to Earth](https://open.spotify.com/album/6uMu4poce5OdMd1HYglZux) | 3:25 |
 | 17 | [Freakin' Bad](https://open.spotify.com/track/3wntBaOJD8AZrJ8ix97Lwg) | [Xdinary Heroes](https://open.spotify.com/artist/1khChLj7REGqjM043PlYyn) | [Deadlock](https://open.spotify.com/album/6nePUewVYxSkvIbG9nkB0M) | 3:03 |
@@ -88,4 +88,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1LU4UHKqdtg.md) - [plain]
 | 78 | [Pink Venom](https://open.spotify.com/track/5zwwW9Oq7ubSxoCGyW1nbY) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [BORN PINK](https://open.spotify.com/album/0kbZ4ZNRs76sSFeGUEErFM) | 3:06 |
 | 79 | [Celebrate](https://open.spotify.com/track/5ZwlnR8yGofZ0669mEh8Xm) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Celebrate](https://open.spotify.com/album/3JWwlQso9kjpJ7q7aw8C2F) | 3:08 |
 
-Snapshot ID: `MCw5MzQ2OWJmNDQ3ZGIzNDZmMGRiM2NmZmNiNDkyMTdlMjFhYzRmYTgz`
+Snapshot ID: `MCxkM2YwNTJhNjEzM2FiZWYzZDY1ZWI5ZWE2ZjY1NjVmMDdlODA3Mjhj`

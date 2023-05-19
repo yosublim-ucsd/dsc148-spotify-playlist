@@ -1,12 +1,12 @@
 {
   "description": "Top country hits you know and love! Cover: Sam Hunt",
-  "num_followers": 501792,
+  "num_followers": 501919,
   "original_name": "Big Country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4ZmEzNjczNGY4NjQ1ZTViMzAwM2Q2ZWQ4MmViYzk0NDQ5YzNmOWYx",
+  "snapshot_id": "MCwzMTZkYjE4N2YwMTJhMTY3Y2Y5NWRhM2Q3OTQxNmI1MDY5ZjM1M2Yy",
   "tracks": [
     {
       "added_at": "2023-05-12 04:00:00",
@@ -331,22 +331,6 @@
     {
       "added_at": "2023-05-12 04:00:00",
       "album": {
-        "name": "Fall In Love",
-        "url": "https://open.spotify.com/album/532HZrT6uAekC4urDonoXa"
-      },
-      "artists": [
-        {
-          "name": "Bailey Zimmerman",
-          "url": "https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf"
-        }
-      ],
-      "duration_ms": 232058,
-      "name": "Fall In Love",
-      "url": "https://open.spotify.com/track/5gVCfYmQRPy1QJifP8f5gg"
-    },
-    {
-      "added_at": "2023-05-12 04:00:00",
-      "album": {
         "name": "Growin' Up",
         "url": "https://open.spotify.com/album/1m9DVgV0kEBiVZ4ElhJEte"
       },
@@ -359,6 +343,22 @@
       "duration_ms": 177266,
       "name": "Going, Going, Gone",
       "url": "https://open.spotify.com/track/67AdiJcurlf6gocGobfaXs"
+    },
+    {
+      "added_at": "2023-05-12 04:00:00",
+      "album": {
+        "name": "Fall In Love",
+        "url": "https://open.spotify.com/album/532HZrT6uAekC4urDonoXa"
+      },
+      "artists": [
+        {
+          "name": "Bailey Zimmerman",
+          "url": "https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf"
+        }
+      ],
+      "duration_ms": 232058,
+      "name": "Fall In Love",
+      "url": "https://open.spotify.com/track/5gVCfYmQRPy1QJifP8f5gg"
     },
     {
       "added_at": "2023-05-12 04:00:00",
@@ -771,26 +771,6 @@
     {
       "added_at": "2023-05-12 04:00:00",
       "album": {
-        "name": "wait in the truck (feat. Lainey Wilson)",
-        "url": "https://open.spotify.com/album/2WEFdKzGuoE8eVWCqeC5SA"
-      },
-      "artists": [
-        {
-          "name": "HARDY",
-          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
-        },
-        {
-          "name": "Lainey Wilson",
-          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
-        }
-      ],
-      "duration_ms": 277659,
-      "name": "wait in the truck (feat. Lainey Wilson)",
-      "url": "https://open.spotify.com/track/7trjNYF5ek7zX4GKSHQZbP"
-    },
-    {
-      "added_at": "2023-05-12 04:00:00",
-      "album": {
         "name": "5 Foot 9",
         "url": "https://open.spotify.com/album/5CTNA7y4WYhLcCd8ijsnRr"
       },
@@ -819,6 +799,26 @@
       "duration_ms": 203373,
       "name": "Things A Man Oughta Know",
       "url": "https://open.spotify.com/track/5QS8PNEWbqTEZyQ6e9ZbJf"
+    },
+    {
+      "added_at": "2023-05-12 04:00:00",
+      "album": {
+        "name": "wait in the truck (feat. Lainey Wilson)",
+        "url": "https://open.spotify.com/album/2WEFdKzGuoE8eVWCqeC5SA"
+      },
+      "artists": [
+        {
+          "name": "HARDY",
+          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
+        },
+        {
+          "name": "Lainey Wilson",
+          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
+        }
+      ],
+      "duration_ms": 277659,
+      "name": "wait in the truck (feat. Lainey Wilson)",
+      "url": "https://open.spotify.com/track/7trjNYF5ek7zX4GKSHQZbP"
     },
     {
       "added_at": "2023-05-12 04:00:00",
@@ -871,6 +871,22 @@
     {
       "added_at": "2023-05-12 04:00:00",
       "album": {
+        "name": "Angels (Don\u2019t Always Have Wings)",
+        "url": "https://open.spotify.com/album/1Ih8oq6GfJWVMQtIdOqthf"
+      },
+      "artists": [
+        {
+          "name": "Thomas Rhett",
+          "url": "https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8"
+        }
+      ],
+      "duration_ms": 200426,
+      "name": "Angels (Don\u2019t Always Have Wings)",
+      "url": "https://open.spotify.com/track/5vZoQQ1hH5L2s4Y8G86ksg"
+    },
+    {
+      "added_at": "2023-05-12 04:00:00",
+      "album": {
         "name": "Brown Eyes Baby",
         "url": "https://open.spotify.com/album/16epea6WNW5vPhusDbw3xp"
       },
@@ -887,18 +903,18 @@
     {
       "added_at": "2023-05-12 04:00:00",
       "album": {
-        "name": "Angels (Don\u2019t Always Have Wings)",
-        "url": "https://open.spotify.com/album/1Ih8oq6GfJWVMQtIdOqthf"
+        "name": "Looking for You + All Dogs Go to Heaven",
+        "url": "https://open.spotify.com/album/1Z9asNGoCrbamQYIoR9Q6j"
       },
       "artists": [
         {
-          "name": "Thomas Rhett",
-          "url": "https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8"
+          "name": "Chris Young",
+          "url": "https://open.spotify.com/artist/4BYxqVkZyFjtik7crYLg5Q"
         }
       ],
-      "duration_ms": 200426,
-      "name": "Angels (Don\u2019t Always Have Wings)",
-      "url": "https://open.spotify.com/track/5vZoQQ1hH5L2s4Y8G86ksg"
+      "duration_ms": 179973,
+      "name": "Looking for You",
+      "url": "https://open.spotify.com/track/67IfTiMwPNN0wQE7Scfzu9"
     },
     {
       "added_at": "2023-05-12 04:00:00",
@@ -919,22 +935,6 @@
       "duration_ms": 187941,
       "name": "You, Me, And Whiskey",
       "url": "https://open.spotify.com/track/2BLlpdGCv0IErmH3OBGHYJ"
-    },
-    {
-      "added_at": "2023-05-12 04:00:00",
-      "album": {
-        "name": "Looking for You + All Dogs Go to Heaven",
-        "url": "https://open.spotify.com/album/1Z9asNGoCrbamQYIoR9Q6j"
-      },
-      "artists": [
-        {
-          "name": "Chris Young",
-          "url": "https://open.spotify.com/artist/4BYxqVkZyFjtik7crYLg5Q"
-        }
-      ],
-      "duration_ms": 179973,
-      "name": "Looking for You",
-      "url": "https://open.spotify.com/track/67IfTiMwPNN0wQE7Scfzu9"
     },
     {
       "added_at": "2023-05-12 04:00:00",
@@ -1647,22 +1647,6 @@
     {
       "added_at": "2023-05-12 04:00:00",
       "album": {
-        "name": "Denim & Rhinestones",
-        "url": "https://open.spotify.com/album/2owWAe2Sg7kh14s1JzR67u"
-      },
-      "artists": [
-        {
-          "name": "Carrie Underwood",
-          "url": "https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj"
-        }
-      ],
-      "duration_ms": 183573,
-      "name": "Hate My Heart",
-      "url": "https://open.spotify.com/track/4oGCfTHN1hmXGy5mqmJVc3"
-    },
-    {
-      "added_at": "2023-05-12 04:00:00",
-      "album": {
         "name": "If I Was a Cowboy",
         "url": "https://open.spotify.com/album/30ECcjA3lMZPRpdJDyHAnT"
       },
@@ -1675,6 +1659,22 @@
       "duration_ms": 195013,
       "name": "If I Was a Cowboy",
       "url": "https://open.spotify.com/track/6F7UOC6fPWOkPqybOWBHSv"
+    },
+    {
+      "added_at": "2023-05-12 04:00:00",
+      "album": {
+        "name": "Denim & Rhinestones",
+        "url": "https://open.spotify.com/album/2owWAe2Sg7kh14s1JzR67u"
+      },
+      "artists": [
+        {
+          "name": "Carrie Underwood",
+          "url": "https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj"
+        }
+      ],
+      "duration_ms": 183573,
+      "name": "Hate My Heart",
+      "url": "https://open.spotify.com/track/4oGCfTHN1hmXGy5mqmJVc3"
     },
     {
       "added_at": "2023-05-12 04:00:00",

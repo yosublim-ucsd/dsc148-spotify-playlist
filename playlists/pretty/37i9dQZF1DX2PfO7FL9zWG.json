@@ -1,12 +1,12 @@
 {
   "description": "Revisit stand out songs from these singer/songwriters. Cover: Noah Kahan",
-  "num_followers": 49792,
+  "num_followers": 49840,
   "original_name": "Folk Favourites",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1NmY2ZWJjZDU1OGE5YWUxZGIzZjlhNzc1MGViMzVlYjgyNzc4MTBm",
+  "snapshot_id": "MCw4NmZjZDU5MjU5YzA2OTk5Njk3MjJjYjYwYzRhYzU1ZTZlYzVkM2Jj",
   "tracks": [
     {
       "added_at": "2023-04-21 14:07:22",
@@ -427,22 +427,6 @@
     {
       "added_at": "2023-04-21 14:07:22",
       "album": {
-        "name": "Sob Rock",
-        "url": "https://open.spotify.com/album/2JmfwvRDitJlTUoLCkp61z"
-      },
-      "artists": [
-        {
-          "name": "John Mayer",
-          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
-        }
-      ],
-      "duration_ms": 286386,
-      "name": "I Guess I Just Feel Like",
-      "url": "https://open.spotify.com/track/4Im6GRj17qa7NW76OsJh1s"
-    },
-    {
-      "added_at": "2023-04-21 14:07:22",
-      "album": {
         "name": "Wild Rivers",
         "url": "https://open.spotify.com/album/4SMbqvJenspMXbcPROZsVK"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 173604,
       "name": "Speak Too Soon",
       "url": "https://open.spotify.com/track/0AUURXuRvLPKEH6KaJZSXy"
+    },
+    {
+      "added_at": "2023-04-21 14:07:22",
+      "album": {
+        "name": "Sob Rock",
+        "url": "https://open.spotify.com/album/2JmfwvRDitJlTUoLCkp61z"
+      },
+      "artists": [
+        {
+          "name": "John Mayer",
+          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
+        }
+      ],
+      "duration_ms": 286386,
+      "name": "I Guess I Just Feel Like",
+      "url": "https://open.spotify.com/track/4Im6GRj17qa7NW76OsJh1s"
     },
     {
       "added_at": "2023-04-21 14:07:22",
@@ -875,22 +875,6 @@
     {
       "added_at": "2023-04-21 14:07:22",
       "album": {
-        "name": "in defense of my own happiness",
-        "url": "https://open.spotify.com/album/3dzxXQLyHYrhKYWcKrnFAZ"
-      },
-      "artists": [
-        {
-          "name": "Joy Oladokun",
-          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
-        }
-      ],
-      "duration_ms": 241200,
-      "name": "jordan",
-      "url": "https://open.spotify.com/track/2BGyfq5k9xGO9019bUsYFk"
-    },
-    {
-      "added_at": "2023-04-21 14:07:22",
-      "album": {
         "name": "Wait for You",
         "url": "https://open.spotify.com/album/5gwPi5CboubcqSV8pFQfDj"
       },
@@ -903,6 +887,22 @@
       "duration_ms": 193935,
       "name": "Wait for You",
       "url": "https://open.spotify.com/track/4du1sHf5pUhdEEwqtmOAi2"
+    },
+    {
+      "added_at": "2023-04-21 14:07:22",
+      "album": {
+        "name": "in defense of my own happiness",
+        "url": "https://open.spotify.com/album/3dzxXQLyHYrhKYWcKrnFAZ"
+      },
+      "artists": [
+        {
+          "name": "Joy Oladokun",
+          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
+        }
+      ],
+      "duration_ms": 241200,
+      "name": "jordan",
+      "url": "https://open.spotify.com/track/2BGyfq5k9xGO9019bUsYFk"
     },
     {
       "added_at": "2023-04-21 14:07:22",
@@ -987,22 +987,6 @@
     {
       "added_at": "2023-04-21 14:07:22",
       "album": {
-        "name": "Slow Tide",
-        "url": "https://open.spotify.com/album/1OUc76NQYG5Fb9gXH6G8TA"
-      },
-      "artists": [
-        {
-          "name": "Ocie Elliott",
-          "url": "https://open.spotify.com/artist/5jbk18C7YXRcEZxUWPJCyT"
-        }
-      ],
-      "duration_ms": 191916,
-      "name": "Now You Don't",
-      "url": "https://open.spotify.com/track/2pWEUd5k9xIeMn4AMKM5CK"
-    },
-    {
-      "added_at": "2023-04-21 14:07:22",
-      "album": {
         "name": "Wilder Mind (Deluxe)",
         "url": "https://open.spotify.com/album/2okzRzTuOsFTUNsJZRhqsi"
       },
@@ -1031,6 +1015,22 @@
       "duration_ms": 200133,
       "name": "The Open Road",
       "url": "https://open.spotify.com/track/2Dj9OOoQHG5f0jlL5vt7Ve"
+    },
+    {
+      "added_at": "2023-04-21 14:07:22",
+      "album": {
+        "name": "Slow Tide",
+        "url": "https://open.spotify.com/album/1OUc76NQYG5Fb9gXH6G8TA"
+      },
+      "artists": [
+        {
+          "name": "Ocie Elliott",
+          "url": "https://open.spotify.com/artist/5jbk18C7YXRcEZxUWPJCyT"
+        }
+      ],
+      "duration_ms": 191916,
+      "name": "Now You Don't",
+      "url": "https://open.spotify.com/track/2pWEUd5k9xIeMn4AMKM5CK"
     },
     {
       "added_at": "2023-04-21 14:07:22",
@@ -1087,22 +1087,6 @@
     {
       "added_at": "2023-04-21 14:07:22",
       "album": {
-        "name": "Like a River",
-        "url": "https://open.spotify.com/album/3o8nivVQguilisc4zKinYI"
-      },
-      "artists": [
-        {
-          "name": "Ocie Elliott",
-          "url": "https://open.spotify.com/artist/5jbk18C7YXRcEZxUWPJCyT"
-        }
-      ],
-      "duration_ms": 215164,
-      "name": "Like a River",
-      "url": "https://open.spotify.com/track/0LqcdN6104AK55dUCiYF1a"
-    },
-    {
-      "added_at": "2023-04-21 14:07:22",
-      "album": {
         "name": "Cape Elizabeth",
         "url": "https://open.spotify.com/album/7rAXvbNQSxnAnVl3taoMLj"
       },
@@ -1115,6 +1099,22 @@
       "duration_ms": 181750,
       "name": "A Troubled Mind",
       "url": "https://open.spotify.com/track/3onPL6KjCPM0K8wZkDeU7y"
+    },
+    {
+      "added_at": "2023-04-21 14:07:22",
+      "album": {
+        "name": "Like a River",
+        "url": "https://open.spotify.com/album/3o8nivVQguilisc4zKinYI"
+      },
+      "artists": [
+        {
+          "name": "Ocie Elliott",
+          "url": "https://open.spotify.com/artist/5jbk18C7YXRcEZxUWPJCyT"
+        }
+      ],
+      "duration_ms": 215164,
+      "name": "Like a River",
+      "url": "https://open.spotify.com/track/0LqcdN6104AK55dUCiYF1a"
     },
     {
       "added_at": "2023-04-21 14:07:22",
@@ -1283,6 +1283,22 @@
     {
       "added_at": "2023-04-21 14:07:22",
       "album": {
+        "name": "Crack-Up",
+        "url": "https://open.spotify.com/album/0xtTojp4zfartyGtbFKN3v"
+      },
+      "artists": [
+        {
+          "name": "Fleet Foxes",
+          "url": "https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb"
+        }
+      ],
+      "duration_ms": 210506,
+      "name": "If You Need To, Keep Time on Me",
+      "url": "https://open.spotify.com/track/7d0XkI4iJ32nxeFAHFXbLQ"
+    },
+    {
+      "added_at": "2023-04-21 14:07:22",
+      "album": {
         "name": "How Lucky",
         "url": "https://open.spotify.com/album/0SK5oInVnam28qyBA3acWm"
       },
@@ -1299,22 +1315,6 @@
       "duration_ms": 203117,
       "name": "How Lucky",
       "url": "https://open.spotify.com/track/4iK3yOQKoby2b9gvCmUwsR"
-    },
-    {
-      "added_at": "2023-04-21 14:07:22",
-      "album": {
-        "name": "Crack-Up",
-        "url": "https://open.spotify.com/album/0xtTojp4zfartyGtbFKN3v"
-      },
-      "artists": [
-        {
-          "name": "Fleet Foxes",
-          "url": "https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb"
-        }
-      ],
-      "duration_ms": 210506,
-      "name": "If You Need To, Keep Time on Me",
-      "url": "https://open.spotify.com/track/7d0XkI4iJ32nxeFAHFXbLQ"
     },
     {
       "added_at": "2023-04-21 14:07:22",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2zhLcnFr1qI.md) - [plain]
 
 > Dance and Electronic tracks for the season <3
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,942 likes - 37 songs - 1 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,932 likes - 37 songs - 1 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,4 +46,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2zhLcnFr1qI.md) - [plain]
 | 36 | [It's Christmas Time](https://open.spotify.com/track/6pFXCkYAwiSHTP2Z9E4U74) | [Azteck](https://open.spotify.com/artist/13NpuESz6tlK819yBs0PuS), [Angemi](https://open.spotify.com/artist/3q5DAsSH8efMqNxjxbdpGx) | [It's Christmas Time](https://open.spotify.com/album/02VL7bEf1C11Q4h7lc2X6q) | 2:43 |
 | 37 | [Frosty Bounce](https://open.spotify.com/track/0pi9cfkCshIvp7HH43JzIj) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Angger Dimas](https://open.spotify.com/artist/5tuOpj3ofDA06hxQjvjdGZ), [Nicky Da B](https://open.spotify.com/artist/3wWXYbMxREh97Te2ZN92Wi) | [A Very Decent Christmas](https://open.spotify.com/album/2IjH5xDghPPF4tXn1Mgkph) | 1:44 |
 
-Snapshot ID: `MCxlMGQ3NzU5YWQyN2M1MDY2MTNiNzBkY2FjOWVlYWIwZjBiZTg4OWI5`
+Snapshot ID: `MCw2NWIxZTFiYTNhM2I0NjY3YzQwNWExZjU1ODIxNjQ1NDQxMjhhMDAx`

@@ -2113,6 +2113,32 @@
     },
     {
       "album": {
+        "name": "Stick Talk",
+        "url": "https://open.spotify.com/album/776yBgdEdhEUPmyErZuIu0"
+      },
+      "artists": [
+        {
+          "name": "Shooter Kahlon",
+          "url": "https://open.spotify.com/artist/5oL0GAI8fKD0Wgbr4Em9AS"
+        },
+        {
+          "name": "Gurlez Akhtar",
+          "url": "https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ"
+        },
+        {
+          "name": "Shevv",
+          "url": "https://open.spotify.com/artist/2EQoFz6owAP4ATr5hGFRok"
+        }
+      ],
+      "date_added": "2023-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159014,
+      "name": "Stick Talk",
+      "url": "https://open.spotify.com/track/61sbacNWadHqNi8U0ew7rt"
+    },
+    {
+      "album": {
         "name": "TALK LESS",
         "url": "https://open.spotify.com/album/0GPjytkpi73o0Uuz8J5yjz"
       },

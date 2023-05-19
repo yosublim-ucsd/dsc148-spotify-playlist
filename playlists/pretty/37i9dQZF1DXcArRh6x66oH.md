@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcArRh6x66oH.md) - [plain]
 
 > The new sounds of Appalachia, red dirt and everything in between.
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,489 likes - 118 songs - 7 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,064 likes - 118 songs - 7 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -127,4 +127,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcArRh6x66oH.md) - [plain]
 | 117 | [The Jealous Kind \(Live From The Church\)](https://open.spotify.com/track/4kVZzwAjL8y73Oc7qsNG0p) | [Charles Wesley Godwin](https://open.spotify.com/artist/2ErsJAz6qJ5cqjoVAvfvaC) | [The Jealous Kind \(Live From The Church\)](https://open.spotify.com/album/6cZwwQJr7F9hTcrvSWx3rJ) | 3:35 |
 | 118 | [Van Gogh](https://open.spotify.com/track/6mlqBATFPrEcg3EC9GYcm8) | [Pony Bradshaw](https://open.spotify.com/artist/0ATGYvt8HyUK8ydaxJybSi) | [Sudden Opera](https://open.spotify.com/album/5mczfTrIuyQboTG7frLuUE) | 2:52 |
 
-Snapshot ID: `MCw3NThjODNlY2Q5NjQzODNlMmI2MjY2ZDdiYjJmZDlhNGNkODNkN2I2`
+Snapshot ID: `MCxmMTIxMjkyMzcwY2VkNWZiY2NjNjFhYTdlOWI1NzYzNjhkNGI2ZDky`

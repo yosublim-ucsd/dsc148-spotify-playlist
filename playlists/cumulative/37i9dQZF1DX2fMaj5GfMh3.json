@@ -504,7 +504,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 161469,
       "name": "Bruises",
       "url": "https://open.spotify.com/track/5kUqU9uLc98ndpJiqieN8K"
@@ -1954,7 +1954,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 142758,
       "name": "If We Ever Broke Up",
       "url": "https://open.spotify.com/track/6maTPqynTmrkWIralgGaoP"
@@ -2210,7 +2210,7 @@
       ],
       "date_added": "2023-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 146666,
       "name": "Lose My Mind",
       "url": "https://open.spotify.com/track/4f7Snac8ZzHh59KmTOszil"
@@ -2343,6 +2343,24 @@
     },
     {
       "album": {
+        "name": "Middle Ground",
+        "url": "https://open.spotify.com/album/5jmEjw5krglNmuEy45URZT"
+      },
+      "artists": [
+        {
+          "name": "Maroon 5",
+          "url": "https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP"
+        }
+      ],
+      "date_added": "2023-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219800,
+      "name": "Middle Ground",
+      "url": "https://open.spotify.com/track/3xiccJ9jlTVwC8Yl66eGv5"
+    },
+    {
+      "album": {
         "name": "Midnight",
         "url": "https://open.spotify.com/album/453z5Es9h6XsvPCZWKzYdf"
       },
@@ -2433,6 +2451,24 @@
     },
     {
       "album": {
+        "name": "Never Ending Song",
+        "url": "https://open.spotify.com/album/3W1oy5zLsQU5GD68AIM8HI"
+      },
+      "artists": [
+        {
+          "name": "Conan Gray",
+          "url": "https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea"
+        }
+      ],
+      "date_added": "2023-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155202,
+      "name": "Never Ending Song",
+      "url": "https://open.spotify.com/track/5BI0zQZciyoQfJxsu8CIn9"
+    },
+    {
+      "album": {
         "name": "Never Gonna Not Dance Again",
         "url": "https://open.spotify.com/album/6MCHSjoEVriUjWE6LERAaR"
       },
@@ -2506,6 +2542,24 @@
       "duration_ms": 175648,
       "name": "Nonsense (with Coi Leray) - Remix",
       "url": "https://open.spotify.com/track/0DD4vkP9qDiej99eUCG4jC"
+    },
+    {
+      "album": {
+        "name": "Nooit Meer Regen",
+        "url": "https://open.spotify.com/album/3XcPhaReL0pIPbdgGdL7gj"
+      },
+      "artists": [
+        {
+          "name": "Suzan & Freek",
+          "url": "https://open.spotify.com/artist/77IW5ZK1smDQYYKDCQugXh"
+        }
+      ],
+      "date_added": "2023-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200717,
+      "name": "Nooit Meer Regen",
+      "url": "https://open.spotify.com/track/5vj6nqh3LGX4lrpGOkHFU3"
     },
     {
       "album": {
@@ -2888,7 +2942,7 @@
       ],
       "date_added": "2023-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 129938,
       "name": "Scatterbrain",
       "url": "https://open.spotify.com/track/5DKcc3WxMwE7JB1IxCrdrs"
@@ -3438,6 +3492,24 @@
       "duration_ms": 152053,
       "name": "Ugly Crier",
       "url": "https://open.spotify.com/track/6duh2S2a8bVSzoFXJoJUFR"
+    },
+    {
+      "album": {
+        "name": "Unicorn",
+        "url": "https://open.spotify.com/album/14wVxL1PbK2bJuoGjxHrCR"
+      },
+      "artists": [
+        {
+          "name": "Noa Kirel",
+          "url": "https://open.spotify.com/artist/1wak0ZG1LUrZPYx8RDTQoD"
+        }
+      ],
+      "date_added": "2023-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170900,
+      "name": "Unicorn",
+      "url": "https://open.spotify.com/track/6dUregFbvUNqHP5nphqesK"
     },
     {
       "album": {

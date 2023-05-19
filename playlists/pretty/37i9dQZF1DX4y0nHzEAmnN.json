@@ -1,12 +1,12 @@
 {
   "description": "Las partes aburridas del d\u00eda pueden ser divertidas con m\u00fasica. \u00a1En Ingl\u00e9s y Espa\u00f1ol!",
-  "num_followers": 1331,
+  "num_followers": 1330,
   "original_name": "Daily Rutina",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhM2RlNDM0OTA3MzAyMmUzMzBiNzk4ZjY1NDdlNGI3NmVlOWE4YWM5",
+  "snapshot_id": "MCw1NmI5OTZiMDg5M2E1MzgyOTI0YTlmYWU4NDAyMjg4MzE0ZDAzZDA2",
   "tracks": [
     {
       "added_at": "2023-03-17 09:43:03",
@@ -123,22 +123,6 @@
     {
       "added_at": "2023-03-17 09:43:03",
       "album": {
-        "name": "Las 100 Cl\u00e1sicas de Cri Cri Vol. 1",
-        "url": "https://open.spotify.com/album/4fY0mv7l1rEmuBHOeLGq13"
-      },
-      "artists": [
-        {
-          "name": "Cri-Cri",
-          "url": "https://open.spotify.com/artist/4vM6clYXqkZbQv4O2OT5P4"
-        }
-      ],
-      "duration_ms": 163786,
-      "name": "La Merienda - Remasterizado",
-      "url": "https://open.spotify.com/track/2tvxS6fcbjWTSdFyOIdQqR"
-    },
-    {
-      "added_at": "2023-03-17 09:43:03",
-      "album": {
         "name": "My First Album",
         "url": "https://open.spotify.com/album/3A3N9hChYmsWPd3px8eF5u"
       },
@@ -151,6 +135,22 @@
       "duration_ms": 125904,
       "name": "Let's Get Ready!",
       "url": "https://open.spotify.com/track/3OYHw99STxBfqoBEov2M5F"
+    },
+    {
+      "added_at": "2023-03-17 09:43:03",
+      "album": {
+        "name": "Las 100 Cl\u00e1sicas de Cri Cri Vol. 1",
+        "url": "https://open.spotify.com/album/4fY0mv7l1rEmuBHOeLGq13"
+      },
+      "artists": [
+        {
+          "name": "Cri-Cri",
+          "url": "https://open.spotify.com/artist/4vM6clYXqkZbQv4O2OT5P4"
+        }
+      ],
+      "duration_ms": 163786,
+      "name": "La Merienda - Remasterizado",
+      "url": "https://open.spotify.com/track/2tvxS6fcbjWTSdFyOIdQqR"
     },
     {
       "added_at": "2023-03-17 09:43:03",
@@ -663,18 +663,18 @@
     {
       "added_at": "2023-03-17 09:43:03",
       "album": {
-        "name": "Life Lessons for Children from LittleBabyBum",
-        "url": "https://open.spotify.com/album/1g9tg76IleuNteUpi6bhd8"
+        "name": "Adelante",
+        "url": "https://open.spotify.com/album/0npmHTuGBf093p6kFgZKam"
       },
       "artists": [
         {
-          "name": "Little Baby Bum Nursery Rhyme Friends",
-          "url": "https://open.spotify.com/artist/0lFDQOEK5OwsyPXb1aWJzY"
+          "name": "Lucky Diaz and the Family Jam Band",
+          "url": "https://open.spotify.com/artist/5rsiLbN9VsVXTfgpSGf6po"
         }
       ],
-      "duration_ms": 90900,
-      "name": "Going Back to School Today",
-      "url": "https://open.spotify.com/track/796sb0EwG3wdXsBqOAnpiP"
+      "duration_ms": 174511,
+      "name": "Cuantos Tacos (The Taco Song)",
+      "url": "https://open.spotify.com/track/4gwBN4pGzuwvn5uoKe9JCS"
     },
     {
       "added_at": "2023-03-17 09:43:03",
@@ -695,18 +695,18 @@
     {
       "added_at": "2023-03-17 09:43:03",
       "album": {
-        "name": "Adelante",
-        "url": "https://open.spotify.com/album/0npmHTuGBf093p6kFgZKam"
+        "name": "Life Lessons for Children from LittleBabyBum",
+        "url": "https://open.spotify.com/album/1g9tg76IleuNteUpi6bhd8"
       },
       "artists": [
         {
-          "name": "Lucky Diaz and the Family Jam Band",
-          "url": "https://open.spotify.com/artist/5rsiLbN9VsVXTfgpSGf6po"
+          "name": "Little Baby Bum Nursery Rhyme Friends",
+          "url": "https://open.spotify.com/artist/0lFDQOEK5OwsyPXb1aWJzY"
         }
       ],
-      "duration_ms": 174511,
-      "name": "Cuantos Tacos (The Taco Song)",
-      "url": "https://open.spotify.com/track/4gwBN4pGzuwvn5uoKe9JCS"
+      "duration_ms": 90900,
+      "name": "Going Back to School Today",
+      "url": "https://open.spotify.com/track/796sb0EwG3wdXsBqOAnpiP"
     },
     {
       "added_at": "2023-03-17 09:43:03",
@@ -751,22 +751,6 @@
     {
       "added_at": "2023-03-17 09:43:03",
       "album": {
-        "name": "Rocknoceros",
-        "url": "https://open.spotify.com/album/4eub8hBkToROharOKy0U6s"
-      },
-      "artists": [
-        {
-          "name": "Rocknoceros",
-          "url": "https://open.spotify.com/artist/6vEKt6eIx5Cnd0KzbNlwyD"
-        }
-      ],
-      "duration_ms": 201946,
-      "name": "Washing My Hands",
-      "url": "https://open.spotify.com/track/0QUoJpzAzY9Rgw0C9T1U3B"
-    },
-    {
-      "added_at": "2023-03-17 09:43:03",
-      "album": {
         "name": "Las 4 Estaciones, vol. 11",
         "url": "https://open.spotify.com/album/1cnYXeqwMikaACiCdX8tI2"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 58644,
       "name": "Sonidos al Comer",
       "url": "https://open.spotify.com/track/1KxnLbLVUYYdKlCF2uYezh"
+    },
+    {
+      "added_at": "2023-03-17 09:43:03",
+      "album": {
+        "name": "Rocknoceros",
+        "url": "https://open.spotify.com/album/4eub8hBkToROharOKy0U6s"
+      },
+      "artists": [
+        {
+          "name": "Rocknoceros",
+          "url": "https://open.spotify.com/artist/6vEKt6eIx5Cnd0KzbNlwyD"
+        }
+      ],
+      "duration_ms": 201946,
+      "name": "Washing My Hands",
+      "url": "https://open.spotify.com/track/0QUoJpzAzY9Rgw0C9T1U3B"
     },
     {
       "added_at": "2023-03-17 09:43:03",
@@ -835,18 +835,18 @@
     {
       "added_at": "2023-03-17 09:43:03",
       "album": {
-        "name": "Children's Songs for Family, Friends & Siblings from LittleBabyBum",
-        "url": "https://open.spotify.com/album/65UY1CG353OTiv4JHrDKrV"
+        "name": "Las Mejores Canciones para Ni\u00f1os",
+        "url": "https://open.spotify.com/album/7spQnMoIypXmqWN3wiC29b"
       },
       "artists": [
         {
-          "name": "Little Baby Bum Nursery Rhyme Friends",
-          "url": "https://open.spotify.com/artist/0lFDQOEK5OwsyPXb1aWJzY"
+          "name": "HooplaKidz En Espa\u00f1ol",
+          "url": "https://open.spotify.com/artist/69v01YbcC6xhBi04cpaPlu"
         }
       ],
-      "duration_ms": 91874,
-      "name": "Please and Thank You Song",
-      "url": "https://open.spotify.com/track/1SVQdK7xD2Zy1MypHyNzVZ"
+      "duration_ms": 129536,
+      "name": "La Canci\u00f3n del Ba\u00f1o",
+      "url": "https://open.spotify.com/track/6ac3pwL3vip7nu9DVL2tyc"
     }
   ],
   "unique_name": "Daily Rutina",

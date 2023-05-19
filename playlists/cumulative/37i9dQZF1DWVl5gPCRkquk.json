@@ -244,7 +244,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 248853,
       "name": "April",
       "url": "https://open.spotify.com/track/6J0OvmRxVmiRyLeJ0aBryf"
@@ -2554,6 +2554,24 @@
       "duration_ms": 275395,
       "name": "Keep On",
       "url": "https://open.spotify.com/track/4Bekc318sVRVNqy2HoXON7"
+    },
+    {
+      "album": {
+        "name": "Kid (Acoustic)",
+        "url": "https://open.spotify.com/album/4XcxA1QI4KB8XBKz9SRcyS"
+      },
+      "artists": [
+        {
+          "name": "The Revivalists",
+          "url": "https://open.spotify.com/artist/5kuJibJcwOC53s3OkoGMRA"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246824,
+      "name": "Kid - Acoustic",
+      "url": "https://open.spotify.com/track/1n15CYNOGJqq87jdRHVO0P"
     },
     {
       "album": {

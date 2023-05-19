@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWlW7KLhEhCZ.md) - [plain]
 
 > Lançamentos e novos nomes do trap nacional\. Foto: Ryu, the Runner
 
-[Spotify](https://open.spotify.com/user/spotify) - 82,783 likes - 74 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 82,817 likes - 74 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,4 +83,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWlW7KLhEhCZ.md) - [plain]
 | 73 | [Tô Mudado](https://open.spotify.com/track/2rM4PoRWLhbqRaPnqvi9i3) | [Max Único](https://open.spotify.com/artist/3BBE6ygahYvS36yLUe6Lhh), [Fahel](https://open.spotify.com/artist/6eBQDBWq5rlP76s4TpOHCC) | [Versátil](https://open.spotify.com/album/74KJcP4LVjg2E3X8yoFX6o) | 2:16 |
 | 74 | [Jovens do Reggae](https://open.spotify.com/track/3HdEOUNuFuoWj06rXpQQ4o) | [Kawe](https://open.spotify.com/artist/1TYJOhNSxMOODWiDVhuyZb), [WIU](https://open.spotify.com/artist/3MrDVzg7ZXaYMyQmbDInr7), [Original Quality](https://open.spotify.com/artist/5ZTnWo7IY6rdIxm6aTSR84) | [Jovens do Reggae](https://open.spotify.com/album/1GJLb6DW0nVTH9rcaCzKgp) | 3:03 |
 
-Snapshot ID: `MCw4Y2UzMjY0NzNhMjk2ZGQ1YWZjZTQ5YjRiNDY1NzM3OWUzNzM1NjIy`
+Snapshot ID: `MCw5NmJiNmVjMDQyNzJlODM2YTljZjhmZTc2MGFlN2NlMDQxZTg4N2M4`

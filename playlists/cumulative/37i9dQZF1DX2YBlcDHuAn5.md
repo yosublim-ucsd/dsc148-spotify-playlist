@@ -4,13 +4,14 @@
 
 > De mooiste muziek: Americana \| Country
 
-71 songs - 4 hr 14 min
+72 songs - 4 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [All The Good Times](https://open.spotify.com/track/6Tv21RLLA1Dt6OtPNz8QDq) | [Angel Olsen](https://open.spotify.com/artist/6mKqFxGMS5TGDZI3XkT5Rt) | [Big Time](https://open.spotify.com/album/02R7PREL8nCr02CEYLy7YH) | 4:36 | 2023-02-23 |  |
 | [Babe I'm Gonna Leave You \- Extended Version](https://open.spotify.com/track/66DmPZHPwXz5VO2Mse5FAj) | [Beth Hart](https://open.spotify.com/artist/30TrHDLNCKQVTYWOn9QqOC) | [Babe I'm Gonna Leave You \(Extended Version\)](https://open.spotify.com/album/5U5FRaYp8B23WI7BvIGcfL) | 4:54 | 2023-02-23 |  |
 | [Ballad Of Easy Rider](https://open.spotify.com/track/5Nn8SPmzJUV3xUZFBdFjcV) | [Mell & Vintage Future](https://open.spotify.com/artist/0gP5wSp6he2gUcPa5gunV8) | [Ballad Of Easy Rider](https://open.spotify.com/album/0QQxEoiKi7sgUjlAzjTQCS) | 2:05 | 2023-02-23 |  |
+| [Before The Storm](https://open.spotify.com/track/3Rul7xOVvLysGVak1Qu9N8) | [Bertolf](https://open.spotify.com/artist/6cs3EabebGIu559XRIpQty), [Ilse DeLange](https://open.spotify.com/artist/3FTKP1k9VbOng3m1rgnsqx) | [Before The Storm](https://open.spotify.com/album/1ketSreRN3Qq5OTzgqPOcP) | 3:11 | 2023-05-18 |  |
 | [Big Grey Boxes](https://open.spotify.com/track/59xbc8TCvpkgVoo9ldOpLz) | [Timo de Jong](https://open.spotify.com/artist/0T34mF36A6mzLMqC0uoz7x) | [Big Grey Boxes](https://open.spotify.com/album/3yRIBEQNXCCikZuuHSYprK) | 4:19 | 2023-02-23 |  |
 | [Big Time](https://open.spotify.com/track/3RZ5VvBcCQgrRl8XaKZLa4) | [Angel Olsen](https://open.spotify.com/artist/6mKqFxGMS5TGDZI3XkT5Rt), [Sturgill Simpson](https://open.spotify.com/artist/3vDpQbGnzRbRVirXlfQagB) | [Big Time](https://open.spotify.com/album/5UsuKQY3qOMAYyuwaxH4Lx) | 4:07 | 2023-02-23 |  |
 | [Bittersweet](https://open.spotify.com/track/4gitlSJ8ksxAMhmHxNKjNl) | [Rich McFeather](https://open.spotify.com/artist/1DGm9DpMlUDYqSYAbvfpqm) | [Bittersweet](https://open.spotify.com/album/3l4OdclVUWDKoS3G3qT1Rb) | 3:35 | 2023-03-16 |  |
@@ -31,7 +32,7 @@
 | [Eyes On The Road](https://open.spotify.com/track/3EMW8uImDU4SfrtNMleX7v) | [Marcel Kapteijn](https://open.spotify.com/artist/6VTUhYONG3oqq10TWNLswp) | [Eyes On The Road](https://open.spotify.com/album/59ZMGrtibbHBmCM1QnFhue) | 3:10 | 2023-04-27 | 2023-05-01 |
 | [Feel Alright](https://open.spotify.com/track/7fF6Af2M3vL4IUtE8cMy6G) | [Steve Earle](https://open.spotify.com/artist/2UBTfUoLI07iRqGeUrwhZh) | [I Feel Alright](https://open.spotify.com/album/1CEAVKLVVaCoKyEoVVr8Bh) | 2:56 | 2023-02-23 |  |
 | [Feel Like Going Home \(feat\. The Southern Aces & Jw Roy\)](https://open.spotify.com/track/5vJxxRPswssA0WWHzd1g6s) | [Malford Milligan](https://open.spotify.com/artist/2QJLuDh3Dcw0RrNMusUMHz), [The Southern Aces](https://open.spotify.com/artist/3mwhEzwbXlTrbVojkG9LVI), [JW Roy](https://open.spotify.com/artist/3i31y6LSpJEgV5ny8fw66d) | [Life Will Humble You](https://open.spotify.com/album/4RhJ3rxqGdeYwyOy2GLQdZ) | 4:48 | 2023-04-27 | 2023-04-30 |
-| [For The Better Of Me](https://open.spotify.com/track/4p1auAjWQJyV3cLJ7pqmpZ) | [Yentl](https://open.spotify.com/artist/6M2IE7XTPYn2pzfhpnDyWE) | [For The Better Of Me](https://open.spotify.com/album/7kl4zINXzUgsaYpPNj61Jg) | 3:50 | 2023-03-30 |  |
+| [For The Better Of Me](https://open.spotify.com/track/4p1auAjWQJyV3cLJ7pqmpZ) | [Yentl](https://open.spotify.com/artist/6M2IE7XTPYn2pzfhpnDyWE) | [For The Better Of Me](https://open.spotify.com/album/7kl4zINXzUgsaYpPNj61Jg) | 3:50 | 2023-03-30 | 2023-05-19 |
 | [Going Home](https://open.spotify.com/track/79Y9I1GYMaNEfVwEDmWh28) | [Robbert Duijf](https://open.spotify.com/artist/479RX3LATApuM30lH2cemD), [Maud Knubben](https://open.spotify.com/artist/109tzSrdsNx4IQJvJBTRXV) | [Dangers Mood](https://open.spotify.com/album/2vwbTmsYqcMqePxrfPRV4z) | 3:12 | 2023-04-27 | 2023-05-12 |
 | [Hear My Dear](https://open.spotify.com/track/7znaTjqonnsPcuQpOcQ7nT) | [Tedeschi Trucks Band](https://open.spotify.com/artist/2gFsmDBM0hkoZPmrO5EdyO) | [I Am The Moon: I\. Crescent](https://open.spotify.com/album/7tiugISIhitNyFnMRQBhIq) | 5:34 | 2023-02-23 |  |
 | [High Heels](https://open.spotify.com/track/4M3uKxjhfTLfQidMDgEEgC) | [Paul Cauthen](https://open.spotify.com/artist/6yHM0XQEdu9sIlbILMaKBp) | [Country Coming Down](https://open.spotify.com/album/3hYtvhC4TBoNfoWgtioNMR) | 3:22 | 2023-02-23 | 2023-04-28 |

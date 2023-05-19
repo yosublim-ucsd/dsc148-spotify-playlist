@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWBHeXOYZf74.md) - [plain]
 
 > Genre\-less\. Quality first always\. Cover: Overmono
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,327,256 likes - 101 songs - 5 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,327,278 likes - 101 songs - 5 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWBHeXOYZf74.md) - [plain]
 | 100 | [We Might Even Be Falling In Love \(Duet\) \- Spotify Singles](https://open.spotify.com/track/0wOtc2nY3NOohp4xSwOyTN) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv), [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs) | [We Might Even Be Falling In Love \(Duet\) \- Spotify Singles](https://open.spotify.com/album/05gJU1eQhBHXYUXrGSFBWG) | 1:30 |
 | 101 | [WYD](https://open.spotify.com/track/2tFTUUlBZeHGeI2Ys0nkci) | [Planet Giza](https://open.spotify.com/artist/332mFY6yBda91AsIOSKirG), [Saba](https://open.spotify.com/artist/7Hjbimq43OgxaBRpFXic4x) | [WYD](https://open.spotify.com/album/08PRxcK4bHMKg6PVObT6r9) | 3:21 |
 
-Snapshot ID: `MCwwYjE4YjI3NDc5MTMyM2E3MWQyMDUwMzY5NTU1MmExZjYwYTU4NjNh`
+Snapshot ID: `MCxkMDc5MDBiM2ZjNjg1MGRmOWVhMWZmNTRiMjUwZTU2MzU3YThlNzFj`

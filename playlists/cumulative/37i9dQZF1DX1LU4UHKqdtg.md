@@ -2,9 +2,9 @@
 
 ### [K\-Pop Fresh](https://open.spotify.com/playlist/37i9dQZF1DX1LU4UHKqdtg)
 
-> The freshest K\-Pop of today!  //最先端のK\-Popをピックアップ！ Cover: aespa
+> The freshest K\-Pop of today!  //最先端のK\-Popをピックアップ！ Cover: Billlie
 
-589 songs - 1 day 8 hr 25 min
+590 songs - 1 day 8 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,7 +33,8 @@
 | [AMAZON](https://open.spotify.com/track/52duVlQdX7yyZ98WygiPrH) | [TFN](https://open.spotify.com/artist/3uT0R5PsjP0k7NJ565Nqs4) | [BEFORE SUNRISE Part\. 4](https://open.spotify.com/album/21QlwJM8El7dXWi16woW0G) | 3:22 | 2023-04-25 | 2023-04-27 |
 | [AMAZON \- Japanese ver.](https://open.spotify.com/track/1IGILagGIHTdb2lh62Bhol) | [TFN](https://open.spotify.com/artist/3uT0R5PsjP0k7NJ565Nqs4) | [OUR TEEN:YELLOW SIDE](https://open.spotify.com/album/6gsIP7jOiuPiCT2bqPlJCd) | 3:21 | 2023-04-25 |  |
 | [angel \(Prod\. GRAY\) \(Japanese ver.\)](https://open.spotify.com/track/63qTCzek2KaXkg7x1Y3ax9) | [OnlyOneOf](https://open.spotify.com/artist/0iQGSzpJ0G0lsugv8jsJHd) | [OnlyOneOf JAPAN BEST ALBUM](https://open.spotify.com/album/3XZCzoFsBYFSGxW4Wil9GA) | 3:32 | 2022-01-18 | 2022-02-09 |
-| [Angel Pt\. 1 \(feat\. Jimin of BTS, JVKE & Muni Long\) \- Trailer Version](https://open.spotify.com/track/5qyjy0xfsHNzWxvXkHVB85) | [Jimin](https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY), [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7), [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ), [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [Angel Pt\. 1 \(feat\. Jimin of BTS, JVKE & Muni Long\) \[Trailer Version\]](https://open.spotify.com/album/6aHHJHhyAt6fBWwc7baiCw) | 1:02 | 2023-05-11 |  |
+| [Angel Pt 1 \(feat\. Jimin of BTS, JVKE & Muni Long\)](https://open.spotify.com/track/4g1Ant3Me43Cm5Lx91bV8e) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7), [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ), [Jimin](https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY), [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK), [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [Angel Pt 1 \(feat\. Jimin of BTS, JVKE & Muni Long / FAST X Soundtrack\)](https://open.spotify.com/album/0zPSvQqWCWIjuzvn29GhUK) | 2:55 | 2023-05-18 |  |
+| [Angel Pt\. 1 \(feat\. Jimin of BTS, JVKE & Muni Long\) \- Trailer Version](https://open.spotify.com/track/5qyjy0xfsHNzWxvXkHVB85) | [Jimin](https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY), [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7), [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ), [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [Angel Pt\. 1 \(feat\. Jimin of BTS, JVKE & Muni Long\) \[Trailer Version\]](https://open.spotify.com/album/6aHHJHhyAt6fBWwc7baiCw) | 1:02 | 2023-05-11 | 2023-05-19 |
 | [ANTIFRAGILE](https://open.spotify.com/track/4fsQ0K37TOXa3hEQfjEic1) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [ANTIFRAGILE](https://open.spotify.com/album/3u0ggfmK0vjuHMNdUbtaa9) | 3:04 | 2022-10-27 | 2023-02-22 |
 | [Any Other Way](https://open.spotify.com/track/0GLeMtCBYkh98BqwO5BN7b) | [Eric Nam](https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM) | [Any Other Way](https://open.spotify.com/album/7C5Y9bh4Y8G5sw3bB2bquM) | 2:48 | 2021-12-23 | 2022-03-21 |
 | [Arson](https://open.spotify.com/track/2QWEMqQMJR1KDf6hDjJOs6) | [j\-hope](https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy) | [Jack In The Box](https://open.spotify.com/album/0FrC9lzgVhziJenigsrXdl) | 2:39 | 2022-07-15 | 2022-10-05 |

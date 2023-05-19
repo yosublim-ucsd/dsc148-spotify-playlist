@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0jCZIphUeEF.md) - [plain]
 
 > <a href="spotify:artist:4Jh6PxSFH7CrZrQpDivlYf">Amine K</a>'s favorite tracks\. Updated regularly\. Curated by Amine K\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,110 likes - 73 songs - 7 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,137 likes - 73 songs - 7 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,7 +55,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0jCZIphUeEF.md) - [plain]
 | 45 | [Through Your Love \(feat\. Mr.id & Kawtar Sadik\)](https://open.spotify.com/track/3NSX3EgcyuXsqexv09SO5M) | [Kaz James](https://open.spotify.com/artist/1XGHs7YFtpCbDGKaNdPPtA), [Kawtar Sadik](https://open.spotify.com/artist/76hWhGu3o57UxXrt5BLljb), [Mr.id](https://open.spotify.com/artist/6OEYeOGJNuHVhukFpLY49F) | [Through Your Love \(feat\. Mr.id & Kawtar Sadik\)](https://open.spotify.com/album/47LbnqAz2CQ7fJ4NtBDvv7) | 4:12 |
 | 46 | [Midas Touch](https://open.spotify.com/track/4nadecqEmEIuLovLrOUF9A) | [Midnight Star](https://open.spotify.com/artist/0KMLfCXYb3Dhf1hLpu8cVd) | [Soul Hits of the 80s](https://open.spotify.com/album/1t9cBcn6XLBwjdZGrqRa8y) | 3:53 |
 | 47 | [Believe \- Mark Knight Remix](https://open.spotify.com/track/0s4VfdRQyeUClxcAlXBsvf) | [Ministers de la Funk](https://open.spotify.com/artist/7y5eIukvu4CGjwUJpdLi2H), [Jocelyn Brown](https://open.spotify.com/artist/2ga5ADaBpljQ3YrCh99ZMq), [Mark Knight](https://open.spotify.com/artist/3h11MHQeCrcsUgRRijI1zL) | [Believe \(Mark Knight Remix\)](https://open.spotify.com/album/6T40eZuCRbrxjEZsOgz4CQ) | 3:29 |
-| 48 | [Hecate \- Original Mix](https://open.spotify.com/track/4dbAmImPbQ8CKtvbopT5ls) | [Amine K](https://open.spotify.com/artist/2sCOxaGZEmaDPlTLDboMnh) | [10 Years Hive Audio, Pt\. 3](https://open.spotify.com/album/5PmgOg1nXO0o0x2BjzVCw1) | 6:34 |
+| 48 | [Hecate \- Original Mix](https://open.spotify.com/track/4dbAmImPbQ8CKtvbopT5ls) | [Amine K \(Moroko Loko\)](https://open.spotify.com/artist/4Jh6PxSFH7CrZrQpDivlYf) | [10 Years Hive Audio, Pt\. 3](https://open.spotify.com/album/5PmgOg1nXO0o0x2BjzVCw1) | 6:34 |
 | 49 | [Freedom](https://open.spotify.com/track/4z1S6RlmOuIBePkUbItbl2) | [Goom Gum](https://open.spotify.com/artist/6D36JCiONtO40ykvT5RBec), [Gaidukova](https://open.spotify.com/artist/0vKVCGPgk1Eb7kYlPrYxGJ) | [Selected Works 2021](https://open.spotify.com/album/3tQ0sDxohfVuAKgQJHEXeu) | 6:20 |
 | 50 | [Apollo \- Vocal Mix](https://open.spotify.com/track/6fwHxYss3CrEH7n7t1b36v) | [Amine K \(Moroko Loko\)](https://open.spotify.com/artist/4Jh6PxSFH7CrZrQpDivlYf) | [Apollo](https://open.spotify.com/album/5Pe52AonLSVhw6M7n7hH30) | 4:38 |
 | 51 | [Free](https://open.spotify.com/track/5cLaBI9yBgzcxSf950CcW7) | [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts), [Fancy Inc](https://open.spotify.com/artist/4Eoddnw0pOewmCHQYofuwh), [Roland Clark](https://open.spotify.com/artist/4OGlp2UdUQGPJVbvJ82Cz5) | [Free](https://open.spotify.com/album/2Wui1uFvsOcUfacighQEWo) | 3:57 |
@@ -82,4 +82,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0jCZIphUeEF.md) - [plain]
 | 72 | [Blinding Lights \- Joris Voorn Remix](https://open.spotify.com/track/0fZ19tHX4FSslZn8EeKCpo) | [Alex Kennon](https://open.spotify.com/artist/1HMBuicB5RnpHxRDR51oMS), [Joris Voorn](https://open.spotify.com/artist/4jGpKAmwvU263l0tUh4xKU) | [Blinding Lights \(Joris Voorn Remix\)](https://open.spotify.com/album/2bZXQG0WrPR1LcrJ01Of7J) | 5:13 |
 | 73 | [Rapture \(John Creamer & Stephane K\. Remix\) \[feat\. Nadia Ali\]](https://open.spotify.com/track/21s9uaVLfdKb1xEyiy0MBM) | [iio](https://open.spotify.com/artist/5WVf5DCSYmK4JYD6vIcttw), [Nadia Ali](https://open.spotify.com/artist/1C60viSZv6BoYtrnkZ44g5) | [Rapture Reconstruction, Platinum Edition \(feat\. Nadia Ali\)](https://open.spotify.com/album/4bOu5bLJpRBNfD0fb5apQf) | 9:58 |
 
-Snapshot ID: `MCw2MzI5MDgyM2E0NTRjYWY5NDQzMjBlODExNmRmMjJjMTZjMDEyYWZk`
+Snapshot ID: `MCxlMTIzNDE3N2Q2YWZmM2UyOGZlZjZhNGJiMjFjMTFiM2RlOGM5Mjc5`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT59aKliWtId.md) - [plain]
 
 > The highest quality blend ft\. Bethany Cosentino
 
-[Spotify](https://open.spotify.com/user/spotify) - 96,266 likes - 101 songs - 6 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 96,289 likes - 101 songs - 6 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT59aKliWtId.md) - [plain]
 | 100 | [Fucked It Up](https://open.spotify.com/track/5Cn9nBZh530Vei9dOeKUGs) | [City and Colour](https://open.spotify.com/artist/74gcBzlQza1bSfob90yRhR) | [The Love Still Held Me Near](https://open.spotify.com/album/57arSTDRPVYZRm6uIuR1ym) | 3:58 |
 | 101 | [Nobody](https://open.spotify.com/track/2hU16xaNHHOKNUIADaIdpe) | [Black Belt Eagle Scout](https://open.spotify.com/artist/1CUUXdvZE6UzwQyBUm5YVD) | [Nobody](https://open.spotify.com/album/22uCaua7BUok7dpF9OUJuV) | 4:46 |
 
-Snapshot ID: `MCw0YzYwY2M2Y2FhN2Q0NzNjZTg3YWFlYjQyMzEzM2E2MTdmMzlkNjE5`
+Snapshot ID: `MCxiMzBiMDU1ZGYwZDc3MzUwMTI4ZmFiNWY0NzBhMGRiYjZlYmM2YjA2`

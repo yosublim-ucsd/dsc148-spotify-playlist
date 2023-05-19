@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6GwdWRQMQpq.md) - [plain]
 
 > The hip\-hop playlist that's a whole mood\. Art By Laci Jordan; Cover: Kali
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,832,242 likes - 50 songs - 2 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,832,920 likes - 50 songs - 2 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6GwdWRQMQpq.md) - [plain]
 | 6 | [Bops](https://open.spotify.com/track/72vMwCjJuRRa1r0bhFBbE1) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [Bops](https://open.spotify.com/album/2wVIh2YkTMZgjQf64sbPFM) | 2:08 |
 | 7 | [Keep Dat Nigga](https://open.spotify.com/track/06eobTXs90ICbtbxhmgviZ) | [Icandy](https://open.spotify.com/artist/1I0tv3cE1cDIJvQpHyuCYN) | [Keep Dat Nigga](https://open.spotify.com/album/4EqXw4bTD5XpdI16CSlWng) | 2:18 |
 | 8 | [Conceited \(feat\. Lola Brooke & Maiya The Don\)](https://open.spotify.com/track/53acd3PVcgGCux58YABBr5) | [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd), [Lola Brooke](https://open.spotify.com/artist/2Ggj5XNlIb4Lnbqe307FyB), [Maiya The Don](https://open.spotify.com/artist/6S6u5pS5ywg7rv50rhpobQ) | [Conceited \(feat\. Lola Brooke & Maiya The Don\)](https://open.spotify.com/album/1RJ4oGkndLQuhu4EfVTKk5) | 3:15 |
-| 9 | [Boy's a liar Pt\. 2](https://open.spotify.com/track/6AQbmUe0Qwf5PZnt4HmTXv) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t), [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf) | [Boy's a liar Pt\. 2](https://open.spotify.com/album/6cVfHBcp3AdpYY0bBglkLN) | 2:11 |
+| 9 | [Boy's a Liar Pt\. 2](https://open.spotify.com/track/6AQbmUe0Qwf5PZnt4HmTXv) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t), [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf) | [Boy's a liar Pt\. 2](https://open.spotify.com/album/6cVfHBcp3AdpYY0bBglkLN) | 2:11 |
 | 10 | [Keep It Cute](https://open.spotify.com/track/4wEI2bW0thTqJFukEaeXJs) | [Maiya The Don](https://open.spotify.com/artist/6S6u5pS5ywg7rv50rhpobQ) | [Keep It Cute](https://open.spotify.com/album/0SUZ6sHqYkNLI7C4Js5LwW) | 2:51 |
 | 11 | [Put It On Da Floor](https://open.spotify.com/track/1HYfsZnq3EXwK7SV8tYPoT) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [Put It On Da Floor](https://open.spotify.com/album/6t8NaWyCTONzie6RKcK7TS) | 3:01 |
 | 12 | [BO$$ CHICK](https://open.spotify.com/track/0FAKS4dY2MADctcsPbmUvm) | [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl) | [THE SINGLE LIFE](https://open.spotify.com/album/0kyPJmOde43w1nWzd79OU8) | 2:14 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6GwdWRQMQpq.md) - [plain]
 | 49 | [Budget \(feat\. Latto\)](https://open.spotify.com/track/3BFxkzhkESwALQxjxOVFgJ) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [Traumazine](https://open.spotify.com/album/4YP0h2KGDb20eJuStnBvim) | 3:21 |
 | 50 | [Another Nasty Song](https://open.spotify.com/track/6lABMzDz2QUqZXRPvQIkuJ) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [Another Nasty Song](https://open.spotify.com/album/6lFb5yNr5P8oniP9OfDuNb) | 2:24 |
 
-Snapshot ID: `MCxlYzU1YTNiYmUwYzk3NGNhZWQyZDkzZGVlZGRjOTU1YjMyYjBjY2Ey`
+Snapshot ID: `MCwxYzI1NDg4MDkwYjNlMzIxZGZjMmZmZDIxMWNiYjk2NDliYzUzNjg1`

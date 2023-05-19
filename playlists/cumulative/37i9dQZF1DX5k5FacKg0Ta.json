@@ -5,6 +5,24 @@
   "tracks": [
     {
       "album": {
+        "name": "Songs From Suspended Times",
+        "url": "https://open.spotify.com/album/1yrS6PV6y0ke5h1hqjbg7D"
+      },
+      "artists": [
+        {
+          "name": "Tuomo Uusitalo",
+          "url": "https://open.spotify.com/artist/7mflOXPX8B2ZqrNUBf38uo"
+        }
+      ],
+      "date_added": "2023-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192800,
+      "name": "...And He Whistled A Folk Song",
+      "url": "https://open.spotify.com/track/22JUahfpObguJJ71Pool8M"
+    },
+    {
+      "album": {
         "name": "What Will We Leave Behind",
         "url": "https://open.spotify.com/album/7cfIfqeymxfXyvt69grQaO"
       },
@@ -1200,6 +1218,36 @@
       "duration_ms": 307845,
       "name": "Like Steel",
       "url": "https://open.spotify.com/track/0zvp0m468qwkERmjMPnVfB"
+    },
+    {
+      "album": {
+        "name": "Ultralum",
+        "url": "https://open.spotify.com/album/6rF08IvdvgQymJVPQ8f9Cb"
+      },
+      "artists": [
+        {
+          "name": "Ultralum",
+          "url": "https://open.spotify.com/artist/5y9zJGBHzsE8hDGGLO8FQV"
+        },
+        {
+          "name": "Tuomo",
+          "url": "https://open.spotify.com/artist/3cZ3iH61r1E6iuupRwaGRL"
+        },
+        {
+          "name": "Timo Lassy",
+          "url": "https://open.spotify.com/artist/12DkoR4cqoY6osVYHmsrAq"
+        },
+        {
+          "name": "Lauri Porra",
+          "url": "https://open.spotify.com/artist/6PcS0mIfMV5JOY3NX2bkTn"
+        }
+      ],
+      "date_added": "2023-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 548634,
+      "name": "Little Rabbit",
+      "url": "https://open.spotify.com/track/21fpqfJHEbFfndoFzCBAz0"
     },
     {
       "album": {

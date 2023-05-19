@@ -1,12 +1,12 @@
 {
   "description": "Le plus beau, le plus triste. Photo: Alexandra Streliski",
-  "num_followers": 3427,
+  "num_followers": 3430,
   "original_name": "Tout doux",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4MWM2NmNhOGZmYjk4MjBmNmU5NDI4MmIyYWFmNDU3ODNhYTIwOTE1",
+  "snapshot_id": "MCxmMGJlN2UxYWFlYWYxYTg1NWIzOGRlYTEwMzc4MzNiZTExMTNiOGU3",
   "tracks": [
     {
       "added_at": "2021-02-06 03:12:40",
@@ -863,22 +863,6 @@
     {
       "added_at": "2021-02-06 03:12:40",
       "album": {
-        "name": "La Voix III",
-        "url": "https://open.spotify.com/album/5xfz4BxH9zxcCD42K0GpgK"
-      },
-      "artists": [
-        {
-          "name": "Mathieu Holubowski",
-          "url": "https://open.spotify.com/artist/3eNjAR5L6dFBT9YMI1mYcT"
-        }
-      ],
-      "duration_ms": 158280,
-      "name": "Feuille d'argent et feuille d'or",
-      "url": "https://open.spotify.com/track/43yPS3BdegZwA2x47ux291"
-    },
-    {
-      "added_at": "2021-02-06 03:12:40",
-      "album": {
         "name": "Ubiquit\u00e9",
         "url": "https://open.spotify.com/album/5SC0ot9Pkx2U33PD0VCBT8"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 189000,
       "name": "Un Autre \u00c9t\u00e9",
       "url": "https://open.spotify.com/track/22sQRY8rd7fIbIgMHRc3eO"
+    },
+    {
+      "added_at": "2021-02-06 03:12:40",
+      "album": {
+        "name": "La Voix III",
+        "url": "https://open.spotify.com/album/5xfz4BxH9zxcCD42K0GpgK"
+      },
+      "artists": [
+        {
+          "name": "Mathieu Holubowski",
+          "url": "https://open.spotify.com/artist/3eNjAR5L6dFBT9YMI1mYcT"
+        }
+      ],
+      "duration_ms": 158280,
+      "name": "Feuille d'argent et feuille d'or",
+      "url": "https://open.spotify.com/track/43yPS3BdegZwA2x47ux291"
     },
     {
       "added_at": "2021-02-06 03:12:40",
@@ -1043,18 +1043,18 @@
     {
       "added_at": "2021-02-06 03:12:40",
       "album": {
-        "name": "Hisser haut",
-        "url": "https://open.spotify.com/album/19GytsXYQogaXM5Yxh9iu8"
+        "name": "A Wider Space, B-Sides",
+        "url": "https://open.spotify.com/album/5mUBEzLAxef1iGhMFIEcLx"
       },
       "artists": [
         {
-          "name": "David Gigu\u00e8re",
-          "url": "https://open.spotify.com/artist/5p1R7oow69gd6tiEypZG3B"
+          "name": "Groenland",
+          "url": "https://open.spotify.com/artist/5jf8dqTo3zaKS16FmTFxWC"
         }
       ],
-      "duration_ms": 202333,
-      "name": "L'atelier",
-      "url": "https://open.spotify.com/track/1bfhchdMYgx3kbieRtemH2"
+      "duration_ms": 222720,
+      "name": "Cabin (VF)",
+      "url": "https://open.spotify.com/track/1LEB7rebJJrztPAKKa8zay"
     },
     {
       "added_at": "2021-02-06 03:12:40",
@@ -1071,22 +1071,6 @@
       "duration_ms": 257546,
       "name": "Ciel",
       "url": "https://open.spotify.com/track/4RzXLiXCQTPi84oxicyNtV"
-    },
-    {
-      "added_at": "2021-02-06 03:12:40",
-      "album": {
-        "name": "A Wider Space, B-Sides",
-        "url": "https://open.spotify.com/album/5mUBEzLAxef1iGhMFIEcLx"
-      },
-      "artists": [
-        {
-          "name": "Groenland",
-          "url": "https://open.spotify.com/artist/5jf8dqTo3zaKS16FmTFxWC"
-        }
-      ],
-      "duration_ms": 222720,
-      "name": "Cabin (VF)",
-      "url": "https://open.spotify.com/track/1LEB7rebJJrztPAKKa8zay"
     },
     {
       "added_at": "2021-02-06 03:12:40",
@@ -1119,6 +1103,22 @@
       "duration_ms": 196613,
       "name": "Trop tard",
       "url": "https://open.spotify.com/track/0kGlndxcDA7drOZwgt4eOd"
+    },
+    {
+      "added_at": "2021-02-06 03:12:40",
+      "album": {
+        "name": "Hisser haut",
+        "url": "https://open.spotify.com/album/19GytsXYQogaXM5Yxh9iu8"
+      },
+      "artists": [
+        {
+          "name": "David Gigu\u00e8re",
+          "url": "https://open.spotify.com/artist/5p1R7oow69gd6tiEypZG3B"
+        }
+      ],
+      "duration_ms": 202333,
+      "name": "L'atelier",
+      "url": "https://open.spotify.com/track/1bfhchdMYgx3kbieRtemH2"
     },
     {
       "added_at": "2021-02-06 03:12:40",
@@ -1319,22 +1319,6 @@
     {
       "added_at": "2021-02-06 03:12:40",
       "album": {
-        "name": "Le plein de r\u00e9confort",
-        "url": "https://open.spotify.com/album/1KTXKn0b9CCX1jrK1fJ96Z"
-      },
-      "artists": [
-        {
-          "name": "Marie-Ange",
-          "url": "https://open.spotify.com/artist/2t76M9H9KJ4XazdAuVGaOR"
-        }
-      ],
-      "duration_ms": 215295,
-      "name": "Le plein de r\u00e9confort",
-      "url": "https://open.spotify.com/track/0zIxFGUFxSX6bsvi5rGpso"
-    },
-    {
-      "added_at": "2021-02-06 03:12:40",
-      "album": {
         "name": "Volcano",
         "url": "https://open.spotify.com/album/73oXR17DzYPHanskHxY0Tj"
       },
@@ -1347,6 +1331,22 @@
       "duration_ms": 285026,
       "name": "Pour Le Reste De Ma Vie",
       "url": "https://open.spotify.com/track/1PcEPxGGLAVS1kAmt548Zi"
+    },
+    {
+      "added_at": "2021-02-06 03:12:40",
+      "album": {
+        "name": "Le plein de r\u00e9confort",
+        "url": "https://open.spotify.com/album/1KTXKn0b9CCX1jrK1fJ96Z"
+      },
+      "artists": [
+        {
+          "name": "Marie-Ange",
+          "url": "https://open.spotify.com/artist/2t76M9H9KJ4XazdAuVGaOR"
+        }
+      ],
+      "duration_ms": 215295,
+      "name": "Le plein de r\u00e9confort",
+      "url": "https://open.spotify.com/track/0zIxFGUFxSX6bsvi5rGpso"
     },
     {
       "added_at": "2021-02-06 03:12:40",
@@ -1415,22 +1415,6 @@
     {
       "added_at": "2021-02-06 03:12:40",
       "album": {
-        "name": "Une Version Am\u00e9lior\u00e9e De La Tristesse",
-        "url": "https://open.spotify.com/album/6LEzxNkoWFGGDEOErpG8jr"
-      },
-      "artists": [
-        {
-          "name": "Peter Peter",
-          "url": "https://open.spotify.com/artist/52NQGJWKvdWMbKxThs2fNC"
-        }
-      ],
-      "duration_ms": 186215,
-      "name": "Rien ne se perd, rien ne se cr\u00e9e",
-      "url": "https://open.spotify.com/track/18uxjumWJUkZqYYisV2smH"
-    },
-    {
-      "added_at": "2021-02-06 03:12:40",
-      "album": {
         "name": "Nord-est",
         "url": "https://open.spotify.com/album/1l1GSsXQb11ulgo6p9iac0"
       },
@@ -1443,6 +1427,22 @@
       "duration_ms": 243977,
       "name": "Nord-est",
       "url": "https://open.spotify.com/track/4lSwzA2MyNUa85ZMpq3Z5e"
+    },
+    {
+      "added_at": "2021-02-06 03:12:40",
+      "album": {
+        "name": "Une Version Am\u00e9lior\u00e9e De La Tristesse",
+        "url": "https://open.spotify.com/album/6LEzxNkoWFGGDEOErpG8jr"
+      },
+      "artists": [
+        {
+          "name": "Peter Peter",
+          "url": "https://open.spotify.com/artist/52NQGJWKvdWMbKxThs2fNC"
+        }
+      ],
+      "duration_ms": 186215,
+      "name": "Rien ne se perd, rien ne se cr\u00e9e",
+      "url": "https://open.spotify.com/track/18uxjumWJUkZqYYisV2smH"
     },
     {
       "added_at": "2021-02-06 03:12:40",
@@ -1515,22 +1515,6 @@
     {
       "added_at": "2021-02-06 03:12:40",
       "album": {
-        "name": "Voix de No\u00ebl",
-        "url": "https://open.spotify.com/album/6cujgoDp3cVsrrynpXHWsc"
-      },
-      "artists": [
-        {
-          "name": "May Wells",
-          "url": "https://open.spotify.com/artist/0HNGulVqHBZ6r9jIwqizZM"
-        }
-      ],
-      "duration_ms": 211915,
-      "name": "Je ne t'oublie pas - Bonus",
-      "url": "https://open.spotify.com/track/0pBBihR3AHR6AFNkroS1pJ"
-    },
-    {
-      "added_at": "2021-02-06 03:12:40",
-      "album": {
         "name": "T\u00f6lt",
         "url": "https://open.spotify.com/album/59i042u1vXAmvrBJplD8pX"
       },
@@ -1543,6 +1527,22 @@
       "duration_ms": 344346,
       "name": "Oubliette",
       "url": "https://open.spotify.com/track/4HZmL7TId2VQ2SD4cgLnsU"
+    },
+    {
+      "added_at": "2021-02-06 03:12:40",
+      "album": {
+        "name": "Voix de No\u00ebl",
+        "url": "https://open.spotify.com/album/6cujgoDp3cVsrrynpXHWsc"
+      },
+      "artists": [
+        {
+          "name": "May Wells",
+          "url": "https://open.spotify.com/artist/0HNGulVqHBZ6r9jIwqizZM"
+        }
+      ],
+      "duration_ms": 211915,
+      "name": "Je ne t'oublie pas - Bonus",
+      "url": "https://open.spotify.com/track/0pBBihR3AHR6AFNkroS1pJ"
     },
     {
       "added_at": "2021-02-06 03:12:40",

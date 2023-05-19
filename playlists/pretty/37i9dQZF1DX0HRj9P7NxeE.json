@@ -1,12 +1,12 @@
 {
   "description": "Get your body right with this workout twerkout",
-  "num_followers": 1763536,
+  "num_followers": 1763611,
   "original_name": "Workout Twerkout",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwYzQ3M2NiNzEzZjA4OTQ4MGJkNjJkM2QwNzIxYzU2OGUzOTQ3YWE5",
+  "snapshot_id": "MCxkYmEwZjBhMjYyOTZiNDdmNTNiMjlmZGU1Zjk4YTE2MGI4YTdhNWZl",
   "tracks": [
     {
       "added_at": "2023-05-12 04:00:00",
@@ -25,7 +25,7 @@
         }
       ],
       "duration_ms": 131013,
-      "name": "Boy's a liar Pt. 2",
+      "name": "Boy's a Liar Pt. 2",
       "url": "https://open.spotify.com/track/6AQbmUe0Qwf5PZnt4HmTXv"
     },
     {
@@ -123,6 +123,22 @@
     {
       "added_at": "2023-05-12 04:00:00",
       "album": {
+        "name": "Have Mercy",
+        "url": "https://open.spotify.com/album/4N8qhDeqx8AHoEhMnYEC2Y"
+      },
+      "artists": [
+        {
+          "name": "Chl\u00f6e",
+          "url": "https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR"
+        }
+      ],
+      "duration_ms": 148778,
+      "name": "Have Mercy",
+      "url": "https://open.spotify.com/track/5SixeLvPsYpk7qq9lo5xYg"
+    },
+    {
+      "added_at": "2023-05-12 04:00:00",
+      "album": {
         "name": "AIN'T GONNA ANSWER",
         "url": "https://open.spotify.com/album/55HRw5hcRFhf3uSljPqZqA"
       },
@@ -139,22 +155,6 @@
       "duration_ms": 187453,
       "name": "AIN'T GONNA ANSWER",
       "url": "https://open.spotify.com/track/2NV0mpU5YbyJXydzYPgw5O"
-    },
-    {
-      "added_at": "2023-05-12 04:00:00",
-      "album": {
-        "name": "Have Mercy",
-        "url": "https://open.spotify.com/album/4N8qhDeqx8AHoEhMnYEC2Y"
-      },
-      "artists": [
-        {
-          "name": "Chl\u00f6e",
-          "url": "https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR"
-        }
-      ],
-      "duration_ms": 148778,
-      "name": "Have Mercy",
-      "url": "https://open.spotify.com/track/5SixeLvPsYpk7qq9lo5xYg"
     },
     {
       "added_at": "2023-05-12 04:00:00",
@@ -679,6 +679,30 @@
     {
       "added_at": "2023-05-12 04:00:00",
       "album": {
+        "name": "They Got Amnesia",
+        "url": "https://open.spotify.com/album/0dMCnf42bF5BSLhDr2EMyl"
+      },
+      "artists": [
+        {
+          "name": "French Montana",
+          "url": "https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv"
+        },
+        {
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+        },
+        {
+          "name": "Saweetie",
+          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
+        }
+      ],
+      "duration_ms": 170057,
+      "name": "Handstand (with Doja Cat feat. Saweetie)",
+      "url": "https://open.spotify.com/track/0JcgIOrlZ0CNUOPxyudnrK"
+    },
+    {
+      "added_at": "2023-05-12 04:00:00",
+      "album": {
         "name": "Snatched (Remix)",
         "url": "https://open.spotify.com/album/1FT1bJftmXeooNZqBUANZG"
       },
@@ -715,30 +739,6 @@
       "duration_ms": 187376,
       "name": "Telfy",
       "url": "https://open.spotify.com/track/4vj1VHAC9n8ZodCqdnauS7"
-    },
-    {
-      "added_at": "2023-05-12 04:00:00",
-      "album": {
-        "name": "They Got Amnesia",
-        "url": "https://open.spotify.com/album/0dMCnf42bF5BSLhDr2EMyl"
-      },
-      "artists": [
-        {
-          "name": "French Montana",
-          "url": "https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv"
-        },
-        {
-          "name": "Doja Cat",
-          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
-        },
-        {
-          "name": "Saweetie",
-          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
-        }
-      ],
-      "duration_ms": 170057,
-      "name": "Handstand (with Doja Cat feat. Saweetie)",
-      "url": "https://open.spotify.com/track/0JcgIOrlZ0CNUOPxyudnrK"
     },
     {
       "added_at": "2023-05-12 04:00:00",

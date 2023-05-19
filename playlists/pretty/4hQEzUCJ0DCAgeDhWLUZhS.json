@@ -6,8 +6,40 @@
     "name": "Topsify Australia",
     "url": "https://open.spotify.com/user/popmob"
   },
-  "snapshot_id": "MTcwMCw5Y2ZiODY4MGZlMjg3ZWM1ZmQ2MzI2OWNhMDA5N2Q2MDk2ZTlmY2Iy",
+  "snapshot_id": "MTcwNyw4YWYxZmE1Nzk5NmQxMzI4ODQ3ZjI5OTA1ZjYxYTExNjQ1MDg4Y2Yx",
   "tracks": [
+    {
+      "added_at": "2023-05-19 01:17:06",
+      "album": {
+        "name": "Read The Room",
+        "url": "https://open.spotify.com/album/5NqfV2apntQO69Pri6b5xU"
+      },
+      "artists": [
+        {
+          "name": "Great Gable",
+          "url": "https://open.spotify.com/artist/1jZfA0AdL9iA5PPLwoVvy1"
+        }
+      ],
+      "duration_ms": 185070,
+      "name": "So Cool",
+      "url": "https://open.spotify.com/track/3LOWhH3yqYRd37EbYKIXL1"
+    },
+    {
+      "added_at": "2023-05-19 01:25:55",
+      "album": {
+        "name": "The Narcissist",
+        "url": "https://open.spotify.com/album/2BfpnbY3M0oc9NyW87NKGz"
+      },
+      "artists": [
+        {
+          "name": "Blur",
+          "url": "https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS"
+        }
+      ],
+      "duration_ms": 245225,
+      "name": "The Narcissist",
+      "url": "https://open.spotify.com/track/35d93v9AXADp8Wc0qJ3mIo"
+    },
     {
       "added_at": "2023-05-12 00:44:41",
       "album": {
@@ -45,6 +77,38 @@
       "url": "https://open.spotify.com/track/386DEQx94L5LVXKw4HtSdN"
     },
     {
+      "added_at": "2023-05-19 01:41:13",
+      "album": {
+        "name": "Never The One",
+        "url": "https://open.spotify.com/album/11TI3AJR7ghonSEu94YsLm"
+      },
+      "artists": [
+        {
+          "name": "Ocean Sleeper",
+          "url": "https://open.spotify.com/artist/04LbaB3D3XOMbfPnWmObAi"
+        }
+      ],
+      "duration_ms": 253204,
+      "name": "Never The One",
+      "url": "https://open.spotify.com/track/5RoJWqg54tmuiIuw2aJmrE"
+    },
+    {
+      "added_at": "2023-05-05 01:18:01",
+      "album": {
+        "name": "Flowers",
+        "url": "https://open.spotify.com/album/1jO18Vw412aDlvPgKn91eS"
+      },
+      "artists": [
+        {
+          "name": "Pacific Avenue",
+          "url": "https://open.spotify.com/artist/0I31FkQFn7gxEVAsWGNjvZ"
+        }
+      ],
+      "duration_ms": 187228,
+      "name": "Strawberry Daydream",
+      "url": "https://open.spotify.com/track/19OPH0JC2d7ZCxCK0l1xVE"
+    },
+    {
       "added_at": "2023-04-21 02:04:06",
       "album": {
         "name": "Not Without My Ghosts (feat. phem)",
@@ -65,20 +129,52 @@
       "url": "https://open.spotify.com/track/2rlkdPZr9BmPEMC7wlg11e"
     },
     {
-      "added_at": "2023-05-05 01:18:01",
+      "added_at": "2023-05-19 01:35:10",
       "album": {
-        "name": "Flowers",
-        "url": "https://open.spotify.com/album/1jO18Vw412aDlvPgKn91eS"
+        "name": "I Am The Dog",
+        "url": "https://open.spotify.com/album/0RjsbmAOQzWOq3fxQ002rX"
       },
       "artists": [
         {
-          "name": "Pacific Avenue",
-          "url": "https://open.spotify.com/artist/0I31FkQFn7gxEVAsWGNjvZ"
+          "name": "Sir Chloe",
+          "url": "https://open.spotify.com/artist/6rniTPs9zN26kYnkPdFl1U"
         }
       ],
-      "duration_ms": 187228,
-      "name": "Strawberry Daydream",
-      "url": "https://open.spotify.com/track/19OPH0JC2d7ZCxCK0l1xVE"
+      "duration_ms": 148301,
+      "name": "Should I",
+      "url": "https://open.spotify.com/track/7pB8DoQuLCT6IbgSCXAmhG"
+    },
+    {
+      "added_at": "2023-05-19 01:41:35",
+      "album": {
+        "name": "Beyond",
+        "url": "https://open.spotify.com/album/2kSlibngBZgGOUGIdcuSg5"
+      },
+      "artists": [
+        {
+          "name": "Corey Taylor",
+          "url": "https://open.spotify.com/artist/0nhDd1RWjZ6SDV1Vg1Ku2Q"
+        }
+      ],
+      "duration_ms": 257969,
+      "name": "Beyond",
+      "url": "https://open.spotify.com/track/3d06hZGFolrTyh6b0CNmlT"
+    },
+    {
+      "added_at": "2023-05-19 01:48:29",
+      "album": {
+        "name": "HOO HA!",
+        "url": "https://open.spotify.com/album/4STUIFltg49FBI3Glq7flx"
+      },
+      "artists": [
+        {
+          "name": "Bad//Dreems",
+          "url": "https://open.spotify.com/artist/54f24706ua34STMhWSzPV7"
+        }
+      ],
+      "duration_ms": 260972,
+      "name": "Mallee",
+      "url": "https://open.spotify.com/track/1nNvzRI2E2JfziIGr7OrOZ"
     },
     {
       "added_at": "2023-05-05 00:45:10",

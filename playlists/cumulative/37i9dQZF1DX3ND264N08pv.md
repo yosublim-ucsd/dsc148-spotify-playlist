@@ -4,7 +4,7 @@
 
 > Hardcore and uptempo to get you pumped
 
-155 songs - 8 hr 55 min
+156 songs - 8 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,7 +43,7 @@
 | [Dirty Thoughts](https://open.spotify.com/track/3IxNbTPp5F97s6zxD3Ty0M) | [Unproven](https://open.spotify.com/artist/5WPHwuzXyFyIheuZKM42lI) | [Dirty Thoughts](https://open.spotify.com/album/3INDi6HHqprOeYmhoiiU7U) | 2:38 | 2023-04-20 |  |
 | [Dope Sh!t](https://open.spotify.com/track/3NXA25q68QQgGVKPx4SIhs) | [Miss K8](https://open.spotify.com/artist/776uRsooWrGiVZkVWtvfgO), [D\-Sturb](https://open.spotify.com/artist/7E6DrjKJieOdJKO8mbwCMO) | [Eclipse](https://open.spotify.com/album/1YnDpDHRlgSwkwZaqmAVy8) | 3:41 | 2022-12-08 |  |
 | [Double D](https://open.spotify.com/track/7izn5XTRDSyaari83OE4XM) | [Barber](https://open.spotify.com/artist/55yd56lRrN815OEFUOrC1W), [Major Conspiracy](https://open.spotify.com/artist/0WjzjRwo3dcv6HCPs70Rnc) | [Double D](https://open.spotify.com/album/1Es6YZUlA57Wq9qu6YkCsK) | 3:28 | 2022-12-08 |  |
-| [Drifting Away](https://open.spotify.com/track/7wifmfW5ncGJJe04KwZQvl) | [Hyperverb](https://open.spotify.com/artist/6wBNWFHe0PIG1p867KLihx) | [Drifting Away](https://open.spotify.com/album/07KH8tjrh8pnmDE1YNQkBi) | 3:03 | 2023-01-19 |  |
+| [Drifting Away](https://open.spotify.com/track/7wifmfW5ncGJJe04KwZQvl) | [Hyperverb](https://open.spotify.com/artist/6wBNWFHe0PIG1p867KLihx) | [Drifting Away](https://open.spotify.com/album/07KH8tjrh8pnmDE1YNQkBi) | 3:03 | 2023-01-19 | 2023-05-19 |
 | [DROP IT \- Better With Condom Remix](https://open.spotify.com/track/3yTdymL1rPChfLBzoyXqFG) | [Andy the Core](https://open.spotify.com/artist/3GEDzLFDpKR3tsq72ZRTP7), [Better With Condom](https://open.spotify.com/artist/3Yqrqs7Yrt8pdHP8yeLDJc) | [DROP IT \(Better With Condom Remix\)](https://open.spotify.com/album/0zxr64RdCk9YN6AIbNLpad) | 3:23 | 2023-02-16 | 2023-03-07 |
 | [Endemic](https://open.spotify.com/track/2DKjuZbjeIQezwYNSZXQZX) | [D\-Ceptor](https://open.spotify.com/artist/5s7xFwsoYphyICMHiXSJ0L) | [Endemic](https://open.spotify.com/album/7MKxiJfjNuA6iB4SVErluc) | 4:00 | 2022-12-08 |  |
 | [Energy 1996](https://open.spotify.com/track/3ngAQDc6SRdDaM9RbaSZ2H) | [Dj Mad Dog](https://open.spotify.com/artist/7oX7rzli18XsB2WFd88oW4) | [Downtempo EP II](https://open.spotify.com/album/1TMyUd1APaQ3RCO2jWmCAE) | 4:18 | 2022-12-08 | 2023-04-14 |
@@ -158,6 +158,7 @@
 | [Underrated](https://open.spotify.com/track/0j6lCCFLzJWdNeNoRZhCa7) | [Remzcore](https://open.spotify.com/artist/0mv06HWAJhV6nK7zd2eZwp), [Keat](https://open.spotify.com/artist/74CWae8PWHg7hHgt8mAkzF) | [Underrated](https://open.spotify.com/album/0U6P6vlGhcsJdag0XFwcgx) | 3:11 | 2022-12-08 | 2023-03-07 |
 | [Vida Loca](https://open.spotify.com/track/7gVm5cBMqXahUkz3Dvlwrv) | [DRS](https://open.spotify.com/artist/3ipAwQsSahvSht3Bb8SpLs), [Andy the Core](https://open.spotify.com/artist/3GEDzLFDpKR3tsq72ZRTP7), [MC Robs](https://open.spotify.com/artist/4uKen0MeTvWMQgWLYJcfJ8) | [Vida Loca](https://open.spotify.com/album/0vMsQ7wShHQP57T33VmuCn) | 2:59 | 2022-12-08 |  |
 | [Wake Up Now](https://open.spotify.com/track/6yY0KTwtGv0F8xmKLsRXsk) | [Lem\-X](https://open.spotify.com/artist/0fL3nn53Jlg7RK0cuciX6n) | [Wake Up Now](https://open.spotify.com/album/1q5IWgHlrOuGIaoRYokll7) | 3:22 | 2023-03-30 |  |
+| [Walking Dead](https://open.spotify.com/track/0pQWBa5bpSe36ziEsHIKGy) | [Potato](https://open.spotify.com/artist/6qMNbZcFG1ibrUM4QhUsQV) | [Walking Dead](https://open.spotify.com/album/7r4C5A5LB6uNLsgA7lgU7z) | 2:46 | 2023-05-18 |  |
 | [Warriors](https://open.spotify.com/track/3CcUsyvCZbEzisnQItM7XX) | [DRS](https://open.spotify.com/artist/3ipAwQsSahvSht3Bb8SpLs), [Irradiate](https://open.spotify.com/artist/3iVpZjQNb6mpiV5KY2xY9I), [Tha Watcher](https://open.spotify.com/artist/2oBkcL8umXpnsriHLaxLBD) | [Warriors](https://open.spotify.com/album/07GpeolPTgwFsrV04i37Pl) | 3:20 | 2022-12-08 | 2023-04-14 |
 | [Warriors \(2022 Refix\)](https://open.spotify.com/track/7rSv6TtMaamxdoG3fzhKQ8) | [Tyfon](https://open.spotify.com/artist/2BD8kvs6Ti7uGecILeVgqs), [The Fuze](https://open.spotify.com/artist/0DNLQ8dkmODxzWGL83rPtY) | [Runes of Retribution](https://open.spotify.com/album/6lsiqiLTNIBZwha12kaqM5) | 4:12 | 2022-12-08 |  |
 | [We are Frenchcore](https://open.spotify.com/track/2m2R5CO0YORG5OWchqgjgf) | [Billx](https://open.spotify.com/artist/0Ldjd0Z66CJ0rChWXx0jzB), [Da Mouth of Madness](https://open.spotify.com/artist/3QUpjXKcTee8KscFqpkSfv) | [We are Frenchcore](https://open.spotify.com/album/5RYJtjJ2BCCWg5SwMSbQkz) | 3:24 | 2023-05-15 |  |

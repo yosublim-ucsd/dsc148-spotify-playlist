@@ -1,12 +1,12 @@
 {
   "description": "Relaxe com hinos ac\u00fasticos. Foto: Eli Soares",
-  "num_followers": 246187,
+  "num_followers": 246376,
   "original_name": "Gospel Ac\u00fastico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhNjA3ZmQ0NzUzYjU0MDVmYTQzZDNmNGM1MmM4YTAyNmM1YTBiMzc1",
+  "snapshot_id": "MCxhZTZlYjVmZTdhZDczMTg0NzIzNWEzYTU2ZmJjZjZiZWMyYWFmNjAx",
   "tracks": [
     {
       "added_at": "2023-05-12 18:22:59",
@@ -31,22 +31,6 @@
     {
       "added_at": "2023-05-12 18:22:59",
       "album": {
-        "name": "Al\u00edvio",
-        "url": "https://open.spotify.com/album/2hOdw9Pcm4J5ROCiQKm9Nr"
-      },
-      "artists": [
-        {
-          "name": "Jess\u00e9 Aguiar",
-          "url": "https://open.spotify.com/artist/0g4xsygciHCrujQzdXUudC"
-        }
-      ],
-      "duration_ms": 285098,
-      "name": "Al\u00edvio",
-      "url": "https://open.spotify.com/track/40KZgKCIvRVIoZqv9lNBoP"
-    },
-    {
-      "added_at": "2023-05-12 18:22:59",
-      "album": {
         "name": "Cuido dos Detalhes",
         "url": "https://open.spotify.com/album/4bxXWOi7jCnUEbeZ5SVUPp"
       },
@@ -63,6 +47,22 @@
       "duration_ms": 213420,
       "name": "Cuido dos Detalhes",
       "url": "https://open.spotify.com/track/1otGRpxjSNjSg5lmjaviNB"
+    },
+    {
+      "added_at": "2023-05-12 18:22:59",
+      "album": {
+        "name": "Al\u00edvio",
+        "url": "https://open.spotify.com/album/2hOdw9Pcm4J5ROCiQKm9Nr"
+      },
+      "artists": [
+        {
+          "name": "Jess\u00e9 Aguiar",
+          "url": "https://open.spotify.com/artist/0g4xsygciHCrujQzdXUudC"
+        }
+      ],
+      "duration_ms": 285098,
+      "name": "Al\u00edvio",
+      "url": "https://open.spotify.com/track/40KZgKCIvRVIoZqv9lNBoP"
     },
     {
       "added_at": "2023-05-12 18:22:59",
@@ -139,22 +139,6 @@
     {
       "added_at": "2023-05-12 18:22:59",
       "album": {
-        "name": "A Reforma",
-        "url": "https://open.spotify.com/album/4KBIEVDd3ir9rPT0R7NpZJ"
-      },
-      "artists": [
-        {
-          "name": "Jess\u00e9 Aguiar",
-          "url": "https://open.spotify.com/artist/0g4xsygciHCrujQzdXUudC"
-        }
-      ],
-      "duration_ms": 320361,
-      "name": "A Reforma",
-      "url": "https://open.spotify.com/track/2SoMuOk34QwKEfn3RsA60R"
-    },
-    {
-      "added_at": "2023-05-12 18:22:59",
-      "album": {
         "name": "Lukas Agustinho (Ac\u00fastico)",
         "url": "https://open.spotify.com/album/5APvOGecNpXVX7A147Nj2b"
       },
@@ -183,6 +167,22 @@
       "duration_ms": 372144,
       "name": "Nos Bra\u00e7os do Pai",
       "url": "https://open.spotify.com/track/7sSwgBxIAbYfijM34gTxOw"
+    },
+    {
+      "added_at": "2023-05-12 18:22:59",
+      "album": {
+        "name": "A Reforma",
+        "url": "https://open.spotify.com/album/4KBIEVDd3ir9rPT0R7NpZJ"
+      },
+      "artists": [
+        {
+          "name": "Jess\u00e9 Aguiar",
+          "url": "https://open.spotify.com/artist/0g4xsygciHCrujQzdXUudC"
+        }
+      ],
+      "duration_ms": 320361,
+      "name": "A Reforma",
+      "url": "https://open.spotify.com/track/2SoMuOk34QwKEfn3RsA60R"
     },
     {
       "added_at": "2023-05-12 18:22:59",
@@ -287,22 +287,6 @@
     {
       "added_at": "2023-05-12 18:22:59",
       "album": {
-        "name": "Paz da Minha Alma",
-        "url": "https://open.spotify.com/album/73dZVCXiDBA0fLQCOdxM4l"
-      },
-      "artists": [
-        {
-          "name": "Jess\u00e9 Aguiar",
-          "url": "https://open.spotify.com/artist/0g4xsygciHCrujQzdXUudC"
-        }
-      ],
-      "duration_ms": 278031,
-      "name": "Paz da Minha Alma",
-      "url": "https://open.spotify.com/track/4vsYsMvuNNl8CRhxVqz9z7"
-    },
-    {
-      "added_at": "2023-05-12 18:22:59",
-      "album": {
         "name": "Ecoar",
         "url": "https://open.spotify.com/album/7l4U3R2gcIAEIWDuiqEg06"
       },
@@ -315,6 +299,22 @@
       "duration_ms": 314861,
       "name": "Nenhuma Condena\u00e7\u00e3o H\u00e1",
       "url": "https://open.spotify.com/track/0ykHRYx1naTjHMDOajzjcA"
+    },
+    {
+      "added_at": "2023-05-12 18:22:59",
+      "album": {
+        "name": "Ac\u00fastico Mergulhar",
+        "url": "https://open.spotify.com/album/7koQFV6RTpkbuiSUubuxSl"
+      },
+      "artists": [
+        {
+          "name": "Minist\u00e9rio Mergulhar",
+          "url": "https://open.spotify.com/artist/1fSxRBeYGW7w0EtU9L6Gaf"
+        }
+      ],
+      "duration_ms": 374096,
+      "name": "Eu Me Rendo (I Surrender) - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/0e4Ae3r1i8FsEDxVLyP8LB"
     },
     {
       "added_at": "2023-05-12 18:22:59",
@@ -335,6 +335,22 @@
     {
       "added_at": "2023-05-12 18:22:59",
       "album": {
+        "name": "Paz da Minha Alma",
+        "url": "https://open.spotify.com/album/73dZVCXiDBA0fLQCOdxM4l"
+      },
+      "artists": [
+        {
+          "name": "Jess\u00e9 Aguiar",
+          "url": "https://open.spotify.com/artist/0g4xsygciHCrujQzdXUudC"
+        }
+      ],
+      "duration_ms": 278031,
+      "name": "Paz da Minha Alma",
+      "url": "https://open.spotify.com/track/4vsYsMvuNNl8CRhxVqz9z7"
+    },
+    {
+      "added_at": "2023-05-12 18:22:59",
+      "album": {
         "name": "Ac\u00fastico",
         "url": "https://open.spotify.com/album/5WSufwHXuerKqxUiLZQ5To"
       },
@@ -351,22 +367,6 @@
       "duration_ms": 331920,
       "name": "Pra Sempre - Ac\u00fastico",
       "url": "https://open.spotify.com/track/3uLESUUCo5sq0c03Q0WxFr"
-    },
-    {
-      "added_at": "2023-05-12 18:22:59",
-      "album": {
-        "name": "Ac\u00fastico Mergulhar",
-        "url": "https://open.spotify.com/album/7koQFV6RTpkbuiSUubuxSl"
-      },
-      "artists": [
-        {
-          "name": "Minist\u00e9rio Mergulhar",
-          "url": "https://open.spotify.com/artist/1fSxRBeYGW7w0EtU9L6Gaf"
-        }
-      ],
-      "duration_ms": 374096,
-      "name": "Eu Me Rendo (I Surrender) - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/0e4Ae3r1i8FsEDxVLyP8LB"
     },
     {
       "added_at": "2023-05-12 18:22:59",
@@ -423,22 +423,18 @@
     {
       "added_at": "2023-05-12 18:22:59",
       "album": {
-        "name": "Deus Cuida de Mim",
-        "url": "https://open.spotify.com/album/29l7yrLpvUqFzbtq6us7Jn"
+        "name": "Ton Canta",
+        "url": "https://open.spotify.com/album/2Ps1GhrLccx7ufkWB2UCvm"
       },
       "artists": [
         {
-          "name": "Caetano Veloso",
-          "url": "https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ"
-        },
-        {
-          "name": "Kleber Lucas",
-          "url": "https://open.spotify.com/artist/1giin6byO7ehdqZBBmbI1N"
+          "name": "Ton Carfi",
+          "url": "https://open.spotify.com/artist/4IefiwlkKHUFoRdBsGj756"
         }
       ],
-      "duration_ms": 224485,
-      "name": "Deus Cuida de Mim",
-      "url": "https://open.spotify.com/track/1oA2BvYw6lWg4MxM4ALmyG"
+      "duration_ms": 316055,
+      "name": "Algo Novo",
+      "url": "https://open.spotify.com/track/2JI4EXMfT59uUWjLrJVvhj"
     },
     {
       "added_at": "2023-05-12 18:22:59",
@@ -459,18 +455,22 @@
     {
       "added_at": "2023-05-12 18:22:59",
       "album": {
-        "name": "Ton Canta",
-        "url": "https://open.spotify.com/album/2Ps1GhrLccx7ufkWB2UCvm"
+        "name": "Deus Cuida de Mim",
+        "url": "https://open.spotify.com/album/29l7yrLpvUqFzbtq6us7Jn"
       },
       "artists": [
         {
-          "name": "Ton Carfi",
-          "url": "https://open.spotify.com/artist/4IefiwlkKHUFoRdBsGj756"
+          "name": "Caetano Veloso",
+          "url": "https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ"
+        },
+        {
+          "name": "Kleber Lucas",
+          "url": "https://open.spotify.com/artist/1giin6byO7ehdqZBBmbI1N"
         }
       ],
-      "duration_ms": 316055,
-      "name": "Algo Novo",
-      "url": "https://open.spotify.com/track/2JI4EXMfT59uUWjLrJVvhj"
+      "duration_ms": 224485,
+      "name": "Deus Cuida de Mim",
+      "url": "https://open.spotify.com/track/1oA2BvYw6lWg4MxM4ALmyG"
     },
     {
       "added_at": "2023-05-12 18:22:59",
@@ -543,6 +543,22 @@
     {
       "added_at": "2023-05-12 18:22:59",
       "album": {
+        "name": "Confiar em Deus - Spotify Singles",
+        "url": "https://open.spotify.com/album/44LijlMAyaGINUQkTYg5xs"
+      },
+      "artists": [
+        {
+          "name": "Anderson Freire",
+          "url": "https://open.spotify.com/artist/1HxtfSGL8pWUwAyVgpbU5B"
+        }
+      ],
+      "duration_ms": 223422,
+      "name": "Confiar em Deus - Spotify Singles",
+      "url": "https://open.spotify.com/track/1C9SmYGyTZdb3xCR1SQ9xR"
+    },
+    {
+      "added_at": "2023-05-12 18:22:59",
+      "album": {
         "name": "Preciso de Ti",
         "url": "https://open.spotify.com/album/34KTvYx7zsEo7boa55RrIc"
       },
@@ -559,18 +575,18 @@
     {
       "added_at": "2023-05-12 18:22:59",
       "album": {
-        "name": "Confiar em Deus - Spotify Singles",
-        "url": "https://open.spotify.com/album/44LijlMAyaGINUQkTYg5xs"
+        "name": "Espera S\u00f3 Mais um Pouquinho",
+        "url": "https://open.spotify.com/album/4XuNKNOhFdHsjtAGyrz9mu"
       },
       "artists": [
         {
-          "name": "Anderson Freire",
-          "url": "https://open.spotify.com/artist/1HxtfSGL8pWUwAyVgpbU5B"
+          "name": "Ton Carfi",
+          "url": "https://open.spotify.com/artist/4IefiwlkKHUFoRdBsGj756"
         }
       ],
-      "duration_ms": 223422,
-      "name": "Confiar em Deus - Spotify Singles",
-      "url": "https://open.spotify.com/track/1C9SmYGyTZdb3xCR1SQ9xR"
+      "duration_ms": 229759,
+      "name": "Espera S\u00f3 Mais um Pouquinho",
+      "url": "https://open.spotify.com/track/41NtlFmWQgIDWXv6mSgNrf"
     },
     {
       "added_at": "2023-05-12 18:22:59",
@@ -591,26 +607,6 @@
     {
       "added_at": "2023-05-12 18:22:59",
       "album": {
-        "name": "Promessa (Ao Vivo)",
-        "url": "https://open.spotify.com/album/4exZVjNV5GZpCJa8iMVSgT"
-      },
-      "artists": [
-        {
-          "name": "Eli Soares",
-          "url": "https://open.spotify.com/artist/5zblJYkCzvB51Jh29FB07V"
-        },
-        {
-          "name": "Ton Carfi",
-          "url": "https://open.spotify.com/artist/4IefiwlkKHUFoRdBsGj756"
-        }
-      ],
-      "duration_ms": 256756,
-      "name": "Promessa - Ao Vivo",
-      "url": "https://open.spotify.com/track/1FOrlR1cxL3edaOIoH4uVn"
-    },
-    {
-      "added_at": "2023-05-12 18:22:59",
-      "album": {
         "name": "N\u00e3o Mais Escravos (Ac\u00fastico)",
         "url": "https://open.spotify.com/album/1LC96GSyEYHJaKg6314wB3"
       },
@@ -627,18 +623,22 @@
     {
       "added_at": "2023-05-12 18:22:59",
       "album": {
-        "name": "Espera S\u00f3 Mais um Pouquinho",
-        "url": "https://open.spotify.com/album/4XuNKNOhFdHsjtAGyrz9mu"
+        "name": "Promessa (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4exZVjNV5GZpCJa8iMVSgT"
       },
       "artists": [
+        {
+          "name": "Eli Soares",
+          "url": "https://open.spotify.com/artist/5zblJYkCzvB51Jh29FB07V"
+        },
         {
           "name": "Ton Carfi",
           "url": "https://open.spotify.com/artist/4IefiwlkKHUFoRdBsGj756"
         }
       ],
-      "duration_ms": 229759,
-      "name": "Espera S\u00f3 Mais um Pouquinho",
-      "url": "https://open.spotify.com/track/41NtlFmWQgIDWXv6mSgNrf"
+      "duration_ms": 256756,
+      "name": "Promessa - Ao Vivo",
+      "url": "https://open.spotify.com/track/1FOrlR1cxL3edaOIoH4uVn"
     },
     {
       "added_at": "2023-05-12 18:22:59",
@@ -1339,22 +1339,6 @@
     {
       "added_at": "2023-05-12 18:22:59",
       "album": {
-        "name": "Ao \u00danico",
-        "url": "https://open.spotify.com/album/2bCRgPS1wXx55YedHQGtBL"
-      },
-      "artists": [
-        {
-          "name": "Leidy Murilho",
-          "url": "https://open.spotify.com/artist/4tld50GNxSiqbzRGRi5nwv"
-        }
-      ],
-      "duration_ms": 257155,
-      "name": "Ao \u00danico",
-      "url": "https://open.spotify.com/track/1erz8uoekvfFbo5jJmEZ9w"
-    },
-    {
-      "added_at": "2023-05-12 18:22:59",
-      "album": {
         "name": "Pai",
         "url": "https://open.spotify.com/album/2U65qCgWMTyJCfwABYbfnT"
       },
@@ -1367,6 +1351,22 @@
       "duration_ms": 321381,
       "name": "Pai",
       "url": "https://open.spotify.com/track/518dbOPcDV45Zi2u1VEITp"
+    },
+    {
+      "added_at": "2023-05-12 18:22:59",
+      "album": {
+        "name": "Ao \u00danico",
+        "url": "https://open.spotify.com/album/2bCRgPS1wXx55YedHQGtBL"
+      },
+      "artists": [
+        {
+          "name": "Leidy Murilho",
+          "url": "https://open.spotify.com/artist/4tld50GNxSiqbzRGRi5nwv"
+        }
+      ],
+      "duration_ms": 257155,
+      "name": "Ao \u00danico",
+      "url": "https://open.spotify.com/track/1erz8uoekvfFbo5jJmEZ9w"
     },
     {
       "added_at": "2023-05-12 18:22:59",

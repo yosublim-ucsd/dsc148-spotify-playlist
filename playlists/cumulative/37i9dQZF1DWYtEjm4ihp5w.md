@@ -2,9 +2,9 @@
 
 ### [ABAT∑RA](https://open.spotify.com/playlist/37i9dQZF1DWYtEjm4ihp5w)
 
-> Playlist dial a7sen w akher ma kayn f rap mghribi\. Cover: Tagne
+> Playlist dial a7sen w akher ma kayn f rap mghribi\. Cover: Ouenza
 
-107 songs - 5 hr 41 min
+109 songs - 5 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,10 +44,11 @@
 | [Hallelujah](https://open.spotify.com/track/79ywMZ4XzXmwfL9NM1QQSz) | [7liwa](https://open.spotify.com/artist/7fmcLXdUj5tVr806b7Uzt3) | [Hallelujah](https://open.spotify.com/album/5MNIwq83vbfgdOvQTMfRAM) | 2:58 | 2022-11-14 | 2022-12-22 |
 | [Haram \(Pablo II\)](https://open.spotify.com/track/1h7zX37KNW2NbL2EeyplVo) | [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [Haram \(Pablo II\)](https://open.spotify.com/album/5Q2rEOjMrKzSMXMOMIIrrl) | 4:26 | 2022-11-14 |  |
 | [Helma](https://open.spotify.com/track/0xCOet5hB68wGPL66JrUGZ) | [Tagne](https://open.spotify.com/artist/3977Z9BZCFbJQYwdIdVwgc) | [Helma](https://open.spotify.com/album/4ffyUt1pfPhGhPytnYaEcx) | 2:43 | 2023-05-12 |  |
-| [Hiphop is dead](https://open.spotify.com/track/08FKkdkbm4FXA0fWLscjJh) | [Fat Mizzo](https://open.spotify.com/artist/4sGgnHfL5rjJqK5WxQl9bU) | [Hiphop is dead](https://open.spotify.com/album/2nPyvcEJof1Xg70FmEOYp2) | 2:47 | 2022-11-28 |  |
+| [Hiphop is dead](https://open.spotify.com/track/08FKkdkbm4FXA0fWLscjJh) | [Fat Mizzo](https://open.spotify.com/artist/4sGgnHfL5rjJqK5WxQl9bU) | [Hiphop is dead](https://open.spotify.com/album/2nPyvcEJof1Xg70FmEOYp2) | 2:47 | 2022-11-28 | 2023-05-19 |
 | [INARA](https://open.spotify.com/track/5WDpxxOIYliyYQ4HSHwKvv) | [SCOOL BOY](https://open.spotify.com/artist/5suJPIX3Y4r4hEIrz60szV) | [INARA](https://open.spotify.com/album/5M63aDrFG28FQFYrAAcwEq) | 3:06 | 2022-11-14 |  |
 | [Iori 4](https://open.spotify.com/track/2947MtC8aKk9mwbw4bjC6A) | [Mons](https://open.spotify.com/artist/7douYKOyzk9ZRvGFu9UOnm) | [Iori 4](https://open.spotify.com/album/4ptNJwxaU4mzYHjzOtdjV0) | 4:14 | 2022-11-14 | 2022-12-13 |
 | [Iori 5](https://open.spotify.com/track/40jfMLYNI2KujchwoPwc0a) | [Mons](https://open.spotify.com/artist/7douYKOyzk9ZRvGFu9UOnm) | [Iori 5](https://open.spotify.com/album/4Bb3u06qDPeQ5zzj0X3HPb) | 3:10 | 2022-12-22 |  |
+| [Jouj Ft.kasso](https://open.spotify.com/track/5Ywo6LwAcgwzEa38bZ0u3Q) | [OUENZA](https://open.spotify.com/artist/7x2hBF3bNPwW9PnKxg9Zf8), [kasso](https://open.spotify.com/artist/7ut4C0DkTA34VaO0xAjJA3) | [Alam](https://open.spotify.com/album/0pioP7AB4b3Eb2SKZu90lX) | 3:02 | 2023-05-18 |  |
 | [KADAWINI](https://open.spotify.com/track/4x2OMxe81I4HoJjGsq5SC4) | [Flack](https://open.spotify.com/artist/3Fi4gBbVvIHrqEG9TGwRTC), [Hassa1](https://open.spotify.com/artist/6g4L5CJkiMINgAzUQsb7fr) | [FOCUS](https://open.spotify.com/album/2qBj6E8oRE6GBRt6PBtGpx) | 2:36 | 2023-01-17 |  |
 | [Kasseta](https://open.spotify.com/track/3UWPJ8utIHpn6xiC7T4rdw) | [Snor](https://open.spotify.com/artist/7LC7LQ1f1CzaRLobFcblZN) | [Kasseta](https://open.spotify.com/album/5MsNlq9T81Vfp09uabHCTj) | 4:02 | 2022-11-14 | 2022-11-26 |
 | [Ken Sasaki](https://open.spotify.com/track/2ZGyInkLMjVOVFJEjVH6sS) | [7ari](https://open.spotify.com/artist/292jMVlKq180yzi8WRaVU6) | [Ken Sasaki](https://open.spotify.com/album/7ntxY7I51IOCNC2POHNGTe) | 3:36 | 2022-11-25 | 2023-01-27 |
@@ -56,6 +57,7 @@
 | [KOUN RAJEL](https://open.spotify.com/track/4SxZyjZiFdlSW5YTUhMU7t) | [Smallx](https://open.spotify.com/artist/4PgPJfNYhFaHAV5C5dFhYS) | [KOUN RAJEL](https://open.spotify.com/album/0oRaXdhsMKLj3h0BPQBuxK) | 3:23 | 2022-11-25 | 2023-02-14 |
 | [L'appel](https://open.spotify.com/track/7ckLKPOdCIcW0ZixYYw91a) | [Dollypran](https://open.spotify.com/artist/16S0vhZYtrfR4kksycV4NS), [LFERDA](https://open.spotify.com/artist/0bmKQDkU4J3gUykZS8tb6v) | [MIXDEEP](https://open.spotify.com/album/1I9BiYmRSw2HXXi8RtKBym) | 3:27 | 2022-11-14 | 2023-01-05 |
 | [La Bandera](https://open.spotify.com/track/1qXF28As0TDqYhmerGNqQR) | [Hassa1](https://open.spotify.com/artist/6g4L5CJkiMINgAzUQsb7fr), [Flack](https://open.spotify.com/artist/3Fi4gBbVvIHrqEG9TGwRTC) | [Promise](https://open.spotify.com/album/0g1YqG7Hn9RmZ96Q3GGOpq) | 3:29 | 2022-11-14 | 2023-01-01 |
+| [La Tete](https://open.spotify.com/track/5XXOa4ih4ELmoeY5G48Axk) | [OUENZA](https://open.spotify.com/artist/7x2hBF3bNPwW9PnKxg9Zf8) | [Alam](https://open.spotify.com/album/0pioP7AB4b3Eb2SKZu90lX) | 2:57 | 2023-05-18 |  |
 | [La Weed](https://open.spotify.com/track/3Qe4g2M8lld0lmyE2LLRNk) | [LFERDA](https://open.spotify.com/artist/0bmKQDkU4J3gUykZS8tb6v) | [Cagoulé](https://open.spotify.com/album/1qD0LUxHxbr5UPw7Rz99C0) | 3:10 | 2022-11-14 |  |
 | [Laisse Tomber](https://open.spotify.com/track/5VpkGOSBwYh0ikxPxmR2ld) | [Tagne](https://open.spotify.com/artist/3977Z9BZCFbJQYwdIdVwgc), [7liwa](https://open.spotify.com/artist/7fmcLXdUj5tVr806b7Uzt3) | [Laisse Tomber](https://open.spotify.com/album/6ZhgW4To5S7eY08c0wMPPO) | 3:17 | 2022-11-14 |  |
 | [Lawal \(3reft Trap\)](https://open.spotify.com/track/7hQXhzatw5gy7E0wfoDfyc) | [Don Bigg](https://open.spotify.com/artist/4h4gnapBHEWZMVzjeZ2Ywl) | [٤in \(Act 1\)](https://open.spotify.com/album/0q5xkDt5Eb3KUPMRjUiIJW) | 3:44 | 2022-11-14 | 2022-11-18 |
@@ -100,7 +102,7 @@
 | [Sucré Salé](https://open.spotify.com/track/7scditB0ba2LS1MI2tH5J2) | [L'morphine](https://open.spotify.com/artist/4vyibjuGePnrB7BzbHkA6u) | [Sucré Salé](https://open.spotify.com/album/75mFVbvIfN96IFsX2TbJvT) | 2:20 | 2023-04-03 |  |
 | [SUPER NANA](https://open.spotify.com/track/5lNiW5yNPQnjWe9CHAMhoe) | [YEAH HUSS!](https://open.spotify.com/artist/0EHwmNauSVSrWCuOrtSocl), [Snor](https://open.spotify.com/artist/7LC7LQ1f1CzaRLobFcblZN) | [SUPER NANA](https://open.spotify.com/album/6OctgQC5OPss9hNieHZ2lb) | 2:17 | 2022-11-14 | 2023-02-11 |
 | [Sur la selle](https://open.spotify.com/track/0J0yMKOrsxzD7okus8TEQ4) | [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy), [Abduh](https://open.spotify.com/artist/3Urq8zrlV3dLnLnL40xqWk) | [Sur la selle](https://open.spotify.com/album/1mGq7FkXTO8q0hhkk2xojY) | 2:48 | 2022-12-13 |  |
-| [Ta7t Jna7i](https://open.spotify.com/track/5aOWc0G39X0CAZejwoD3TQ) | [Abduh](https://open.spotify.com/artist/3Urq8zrlV3dLnLnL40xqWk) | [Ta7t Jna7i](https://open.spotify.com/album/2Ea77e8dqrYZZtJELNzGfN) | 3:19 | 2022-11-14 |  |
+| [Ta7t Jna7i](https://open.spotify.com/track/5aOWc0G39X0CAZejwoD3TQ) | [Abduh](https://open.spotify.com/artist/3Urq8zrlV3dLnLnL40xqWk) | [Ta7t Jna7i](https://open.spotify.com/album/2Ea77e8dqrYZZtJELNzGfN) | 3:19 | 2022-11-14 | 2023-05-19 |
 | [Taline](https://open.spotify.com/track/0tfrAZsEOELEAcjCs46TJ5) | [Draganov](https://open.spotify.com/artist/2g8Pu5gVtDpkYGsP3RLepJ) | [Taline](https://open.spotify.com/album/01ayDcY70kcoS3HYBH1jvm) | 2:56 | 2022-11-14 | 2023-04-01 |
 | [Taline](https://open.spotify.com/track/5z6UUvFwwyJn0k0vGp2anB) | [Draganov](https://open.spotify.com/artist/2g8Pu5gVtDpkYGsP3RLepJ) | [Taline](https://open.spotify.com/album/575AzM9dZ3RdvhlVvurHOX) | 2:56 | 2023-03-29 |  |
 | [Tchin Tchin](https://open.spotify.com/track/48Xx8tDQ2yNp3aHbGrKXxc) | [Stormy](https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh), [Tagne](https://open.spotify.com/artist/3977Z9BZCFbJQYwdIdVwgc), [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [Jackpot](https://open.spotify.com/album/7rMHyH52FqtVSeMmBRUXDd) | 3:31 | 2022-11-14 |  |

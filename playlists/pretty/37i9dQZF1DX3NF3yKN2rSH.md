@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3NF3yKN2rSH.md) - [plain]
 
 > New and classic Gospel songs to celebrate the Easter season.
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,097 likes - 100 songs - 9 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,094 likes - 100 songs - 9 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3NF3yKN2rSH.md) - [plain]
 | 24 | [He Turned It \- Live](https://open.spotify.com/track/7Fte0ZlZByZwdmiOBfTWxr) | [Tye Tribbett](https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32) | [Greater Than \(Live\)](https://open.spotify.com/album/4PbHCckGALCndisP6NsETF) | 9:24 |
 | 25 | [It Wasn't Easy](https://open.spotify.com/track/2ZxY2iNJs1rPWw1PrzHmKy) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [Alabaster Box](https://open.spotify.com/album/1MVEzZd7FgqYLwIBFAwyVK) | 4:48 |
 | 26 | [Risen](https://open.spotify.com/track/3cJS8RMzPnNsr2Fp30Imwh) | [Israel & New Breed](https://open.spotify.com/artist/77HU1Zb1VDIFvWKteJii0E) | [Covered: Alive In Asia \(Deluxe Version\)](https://open.spotify.com/album/2XHkWEJaHIrMfpKTMGr4wb) | 5:38 |
-| 27 | [Don't Cry](https://open.spotify.com/track/5eRNt1CDHfiTsKwEIQ87vA) | [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu), [Richard Smallwood](https://open.spotify.com/artist/4WIRlLxuzmZciQ8JS2b3jP) | [The Rebirth of Kirk Franklin](https://open.spotify.com/album/6ktPwwY2ua7HG3ZkEvci4d) | 6:08 |
-| 28 | [You Brought The Sunshine \- Live](https://open.spotify.com/track/2yK4879j9Q1XnJio6ETqJV) | [The Clark Sisters](https://open.spotify.com/artist/6VUdDU44uo3KwSHc9lAEFE) | [Live: One Last Time](https://open.spotify.com/album/4q02ycz7FsngzsYDtjaIMc) | 4:18 |
+| 27 | [You Brought The Sunshine \- Live](https://open.spotify.com/track/2yK4879j9Q1XnJio6ETqJV) | [The Clark Sisters](https://open.spotify.com/artist/6VUdDU44uo3KwSHc9lAEFE) | [Live: One Last Time](https://open.spotify.com/album/4q02ycz7FsngzsYDtjaIMc) | 4:18 |
+| 28 | [Don't Cry](https://open.spotify.com/track/5eRNt1CDHfiTsKwEIQ87vA) | [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu), [Richard Smallwood](https://open.spotify.com/artist/4WIRlLxuzmZciQ8JS2b3jP) | [The Rebirth of Kirk Franklin](https://open.spotify.com/album/6ktPwwY2ua7HG3ZkEvci4d) | 6:08 |
 | 29 | [This Is The Day](https://open.spotify.com/track/0LniKzo1ZyVzqbBecrkmXe) | [Fred Hammond](https://open.spotify.com/artist/2ndyVAdV9UqF1XjyTJt484) | [Free To Worship](https://open.spotify.com/album/50pXzic1y0A1fLXp8ktvkr) | 4:49 |
 | 30 | [Speak the Name \(feat\. Natalie Grant\)](https://open.spotify.com/track/6ERUhKp4ECxlnmJvKQZpu1) | [Koryn Hawthorne](https://open.spotify.com/artist/03qM4LmPCrR7CuHTE0WAIW), [Natalie Grant](https://open.spotify.com/artist/6KVnMm856M8CHHBCw53Ihh) | [Unstoppable](https://open.spotify.com/album/5ZyTkx6rT1LnFXvZhpEang) | 4:52 |
 | 31 | [Your Spirit](https://open.spotify.com/track/7qqfOOpaznhA6ufItfYovr) | [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx), [Kierra Sheard](https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y) | [Heart\. Passion\. Pursuit.](https://open.spotify.com/album/39UpQWkYwByspw53CTZDis) | 7:51 |
@@ -94,8 +94,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3NF3yKN2rSH.md) - [plain]
 | 84 | [Redeemed](https://open.spotify.com/track/49cFSBvl7J2okNWwK2uqxb) | [The Winans](https://open.spotify.com/artist/7EQrc1Kz56jCHgJ895CZJ8) | [Let My People Go](https://open.spotify.com/album/1atLcMxQ38OHicDxpEYR2t) | 4:57 |
 | 85 | [Worthy Is The Lamb Slain](https://open.spotify.com/track/0kBssWQicwNaU5jJ547luQ) | [Marvin Winans And The Perfected Praise Choir](https://open.spotify.com/artist/5bacVzt9GLSZEEjHKXwaEo) | [Introducing Perfected Praise](https://open.spotify.com/album/5Y3JhsPmHYR31DRQOe4o96) | 6:11 |
 | 86 | [He Lives \- Live](https://open.spotify.com/track/3H0xO1g8BdlmZKXgnqiNzA) | [Carlton Pearson](https://open.spotify.com/artist/34lEZF8ruBmrfX93YZCE9P), [Beverly Crawford](https://open.spotify.com/artist/68qvLA55vYTJrGUvVHOb4M) | [Live At Azusa 3](https://open.spotify.com/album/46cM0cBjpgC6Rwa3jD2DBj) | 7:16 |
-| 87 | [The Blood](https://open.spotify.com/track/46Iicv5lT8Z752kFlrQVWF) | [James Hall Worship & Praise](https://open.spotify.com/artist/4NjzfMUK1vMQUvY15RBFYB) | [Trip Down Memory Lane](https://open.spotify.com/album/11OQ0AT4RDHJq8DqVQST9h) | 7:23 |
-| 88 | [Nothing But the Blood v1.1](https://open.spotify.com/track/7EozkjVGGgfKvsShP3p5vz) | [Sandra Crouch](https://open.spotify.com/artist/2bE0f7DSV3s415TDqMypaW) | [Classic Gold: We're Waiting](https://open.spotify.com/album/2UqMA74qWsJARd4OKMEgCt) | 4:26 |
+| 87 | [Nothing But the Blood v1.1](https://open.spotify.com/track/7EozkjVGGgfKvsShP3p5vz) | [Sandra Crouch](https://open.spotify.com/artist/2bE0f7DSV3s415TDqMypaW) | [Classic Gold: We're Waiting](https://open.spotify.com/album/2UqMA74qWsJARd4OKMEgCt) | 4:26 |
+| 88 | [The Blood](https://open.spotify.com/track/46Iicv5lT8Z752kFlrQVWF) | [James Hall Worship & Praise](https://open.spotify.com/artist/4NjzfMUK1vMQUvY15RBFYB) | [Trip Down Memory Lane](https://open.spotify.com/album/11OQ0AT4RDHJq8DqVQST9h) | 7:23 |
 | 89 | [Calvary](https://open.spotify.com/track/02z20oTwSuEa4EBx8Q47Dj) | [Kim Burrell](https://open.spotify.com/artist/0fW7wYpfi0yzlc8JPP12jA) | [Live in Concert](https://open.spotify.com/album/1DwIkkDUYWYgslR1McB65B) | 9:33 |
 | 90 | [Oh Happy Day \(feat\. Shirley Miller\)](https://open.spotify.com/track/6PH0etRGVIaYBpKmXYCHYo) | [Edwin Hawkins](https://open.spotify.com/artist/3IuP2fe32xEYp0GqLxWgmj), [Shirley Miller](https://open.spotify.com/artist/2ADbsiNz0Jv8tMN22OCOyb) | [Oh Happy Day](https://open.spotify.com/album/3v3LltsNgPWSou5ja6Ofjk) | 2:10 |
 | 91 | [God Is Not Dead](https://open.spotify.com/track/64u71Ii45f6Pa3BPwIvYul) | [Joshua's Troop](https://open.spotify.com/artist/4ejvtrRzhIaqGb7YhTLUsV) | [Joshua's Troop](https://open.spotify.com/album/3XYaQRnY5ha54xB4x2gbgT) | 5:11 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3NF3yKN2rSH.md) - [plain]
 | 99 | [He Proved His Love](https://open.spotify.com/track/4OMAO6F57zBkgyakZjscTl) | [Ron Winans](https://open.spotify.com/artist/67B5eSkw1ckwkAVi278b2s) | [Family & Friends Choir III](https://open.spotify.com/album/2HqJpxkdEf5FRDJsxkkZrj) | 5:25 |
 | 100 | [He Carried The Cross For Me](https://open.spotify.com/track/5v2ObK3yVL3XUEwxYIqlcr) | [Deitrick Haddon](https://open.spotify.com/artist/7tlQrRh6jNY1c95poJvBe9) | [He Carried The Cross For Me](https://open.spotify.com/album/1bX7rKDrzP6RUTC1w2FhWN) | 3:50 |
 
-Snapshot ID: `MCxhZDg1MWM2NGRkNzhiOTViNzRjODM2YWFjNzkwMTA5ZWJkYTY2MWJk`
+Snapshot ID: `MCw3NTFlOWIwMWU3NTZlYjI5ODA4ODE5YjNlZTYyYWIwZGUwN2MzZmI2`

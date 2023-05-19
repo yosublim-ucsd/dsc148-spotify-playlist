@@ -1,12 +1,12 @@
 {
   "description": "A collection of Grieg's finest songs, symphonies and suites.",
-  "num_followers": 30758,
+  "num_followers": 30792,
   "original_name": "This Is Grieg",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0OGUxMzNjMDVmNTQ4N2I2NDAyNmZhYjQwYzg3ZmVmMGE3ZGI4NGFj",
+  "snapshot_id": "MCxmZTA3OTQxZmY4OTU5ZmFhYmVhZWUyMGYzMDcwNzk0Yzk0ODk0N2U3",
   "tracks": [
     {
       "added_at": "2022-09-30 04:01:00",
@@ -295,6 +295,26 @@
     {
       "added_at": "2022-09-30 04:01:00",
       "album": {
+        "name": "Wonderland - Edvard Grieg: Piano Concerto, Lyric Pieces",
+        "url": "https://open.spotify.com/album/675zFvCNg3trc61Wm3YRW1"
+      },
+      "artists": [
+        {
+          "name": "Edvard Grieg",
+          "url": "https://open.spotify.com/artist/5ihY290YPGc3aY2xTyx7Gy"
+        },
+        {
+          "name": "Alice Sara Ott",
+          "url": "https://open.spotify.com/artist/0d6alfZHUx3xoRnPjkTL7Q"
+        }
+      ],
+      "duration_ms": 176200,
+      "name": "Lyric Pieces Book V, Op. 54: No. 3 March Of The Trolls",
+      "url": "https://open.spotify.com/track/0aVVfGJTyANYRvi22Kn7x1"
+    },
+    {
+      "added_at": "2022-09-30 04:01:00",
+      "album": {
         "name": "Grieg: Complete Music with Orchestra",
         "url": "https://open.spotify.com/album/6Wg6lJX2OA5kF0oEIN0EUK"
       },
@@ -315,26 +335,6 @@
       "duration_ms": 195000,
       "name": "Holberg Suite, Op. 40: II. Sarabande (Andante)",
       "url": "https://open.spotify.com/track/4S72MXacL9WLiliNLxEtnd"
-    },
-    {
-      "added_at": "2022-09-30 04:01:00",
-      "album": {
-        "name": "Wonderland - Edvard Grieg: Piano Concerto, Lyric Pieces",
-        "url": "https://open.spotify.com/album/675zFvCNg3trc61Wm3YRW1"
-      },
-      "artists": [
-        {
-          "name": "Edvard Grieg",
-          "url": "https://open.spotify.com/artist/5ihY290YPGc3aY2xTyx7Gy"
-        },
-        {
-          "name": "Alice Sara Ott",
-          "url": "https://open.spotify.com/artist/0d6alfZHUx3xoRnPjkTL7Q"
-        }
-      ],
-      "duration_ms": 176200,
-      "name": "Lyric Pieces Book V, Op. 54: No. 3 March Of The Trolls",
-      "url": "https://open.spotify.com/track/0aVVfGJTyANYRvi22Kn7x1"
     },
     {
       "added_at": "2022-09-30 04:01:00",
@@ -383,6 +383,34 @@
     {
       "added_at": "2022-09-30 04:01:00",
       "album": {
+        "name": "Grieg: Piano Concerto / Chopin: Piano Concerto No.2",
+        "url": "https://open.spotify.com/album/2bTPenOgCU40rKBhyembmt"
+      },
+      "artists": [
+        {
+          "name": "Edvard Grieg",
+          "url": "https://open.spotify.com/artist/5ihY290YPGc3aY2xTyx7Gy"
+        },
+        {
+          "name": "Jean-Yves Thibaudet",
+          "url": "https://open.spotify.com/artist/1Dot4uMsJMx8n1Xi7gAdV6"
+        },
+        {
+          "name": "Rotterdam Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/79xQdsSFyN4cmMsxtWrvUc"
+        },
+        {
+          "name": "Valery Gergiev",
+          "url": "https://open.spotify.com/artist/2LxnoYPOe0FCLC82R3xgO2"
+        }
+      ],
+      "duration_ms": 395066,
+      "name": "Piano Concerto in A minor, Op. 16: 2. Adagio",
+      "url": "https://open.spotify.com/track/2l5QI1DtARBAeI9A7vG9dh"
+    },
+    {
+      "added_at": "2022-09-30 04:01:00",
+      "album": {
         "name": "Grieg: Piano Sonata, Op. 7 / Stimmungen / 4 Piano Pieces, Op. 1",
         "url": "https://open.spotify.com/album/0YsAMGxpqI8BnX0H2cYSh5"
       },
@@ -424,9 +452,9 @@
           "url": "https://open.spotify.com/artist/2LxnoYPOe0FCLC82R3xgO2"
         }
       ],
-      "duration_ms": 395066,
-      "name": "Piano Concerto in A minor, Op. 16: 2. Adagio",
-      "url": "https://open.spotify.com/track/2l5QI1DtARBAeI9A7vG9dh"
+      "duration_ms": 754160,
+      "name": "Piano Concerto in A minor, Op. 16: 1. Allegro molto moderato",
+      "url": "https://open.spotify.com/track/4HliprEFTBVNsf8spybkm2"
     },
     {
       "added_at": "2022-09-30 04:01:00",
@@ -451,34 +479,6 @@
       "duration_ms": 362716,
       "name": "Grieg: Violin Sonata No. 3 in C Minor, Op. 45: II. Allegretto espressivo alla romanza",
       "url": "https://open.spotify.com/track/26IsOkbxM5eh9CTS2FvxTm"
-    },
-    {
-      "added_at": "2022-09-30 04:01:00",
-      "album": {
-        "name": "Grieg: Piano Concerto / Chopin: Piano Concerto No.2",
-        "url": "https://open.spotify.com/album/2bTPenOgCU40rKBhyembmt"
-      },
-      "artists": [
-        {
-          "name": "Edvard Grieg",
-          "url": "https://open.spotify.com/artist/5ihY290YPGc3aY2xTyx7Gy"
-        },
-        {
-          "name": "Jean-Yves Thibaudet",
-          "url": "https://open.spotify.com/artist/1Dot4uMsJMx8n1Xi7gAdV6"
-        },
-        {
-          "name": "Rotterdam Philharmonic Orchestra",
-          "url": "https://open.spotify.com/artist/79xQdsSFyN4cmMsxtWrvUc"
-        },
-        {
-          "name": "Valery Gergiev",
-          "url": "https://open.spotify.com/artist/2LxnoYPOe0FCLC82R3xgO2"
-        }
-      ],
-      "duration_ms": 754160,
-      "name": "Piano Concerto in A minor, Op. 16: 1. Allegro molto moderato",
-      "url": "https://open.spotify.com/track/4HliprEFTBVNsf8spybkm2"
     },
     {
       "added_at": "2022-09-30 04:01:00",
@@ -635,6 +635,26 @@
     {
       "added_at": "2022-09-30 04:01:00",
       "album": {
+        "name": "Grieg: Lyric Pieces",
+        "url": "https://open.spotify.com/album/09HVxdeBom5icaAZMD0HcB"
+      },
+      "artists": [
+        {
+          "name": "Edvard Grieg",
+          "url": "https://open.spotify.com/artist/5ihY290YPGc3aY2xTyx7Gy"
+        },
+        {
+          "name": "Leif Ove Andsnes",
+          "url": "https://open.spotify.com/artist/7J9Fo9dMjGNYY8usNMietL"
+        }
+      ],
+      "duration_ms": 90800,
+      "name": "Grieg: Lyric Pieces, Book 1, Op. 12: No. 5, Popular Melody",
+      "url": "https://open.spotify.com/track/4Hzok2BRQl1SGHHbMLJTuH"
+    },
+    {
+      "added_at": "2022-09-30 04:01:00",
+      "album": {
         "name": "Sibelius: Karelia Suite; Swan of Tuonela/Grieg: Holberg Suite",
         "url": "https://open.spotify.com/album/0UEtCD7OMAWij6pzFxjbz8"
       },
@@ -699,26 +719,6 @@
     {
       "added_at": "2022-09-30 04:01:00",
       "album": {
-        "name": "Grieg: Lyric Pieces",
-        "url": "https://open.spotify.com/album/09HVxdeBom5icaAZMD0HcB"
-      },
-      "artists": [
-        {
-          "name": "Edvard Grieg",
-          "url": "https://open.spotify.com/artist/5ihY290YPGc3aY2xTyx7Gy"
-        },
-        {
-          "name": "Leif Ove Andsnes",
-          "url": "https://open.spotify.com/artist/7J9Fo9dMjGNYY8usNMietL"
-        }
-      ],
-      "duration_ms": 90800,
-      "name": "Grieg: Lyric Pieces, Book 1, Op. 12: No. 5, Popular Melody",
-      "url": "https://open.spotify.com/track/4Hzok2BRQl1SGHHbMLJTuH"
-    },
-    {
-      "added_at": "2022-09-30 04:01:00",
-      "album": {
         "name": "Grieg: Orchestral Music, Vol. 3: Symphony in C Minor - Old Norwegian Romance With Variations",
         "url": "https://open.spotify.com/album/4AeO1xXgVbFN0wSiO6awht"
       },
@@ -739,34 +739,6 @@
       "duration_ms": 460053,
       "name": "Symphony in C Minor, EG 119: IV. Finale: Allegro molto vivace",
       "url": "https://open.spotify.com/track/4laNVdT2pxMOOcVyh4F2I8"
-    },
-    {
-      "added_at": "2022-09-30 04:01:00",
-      "album": {
-        "name": "Sibelius: Karelia Suite; Swan of Tuonela/Grieg: Holberg Suite",
-        "url": "https://open.spotify.com/album/0UEtCD7OMAWij6pzFxjbz8"
-      },
-      "artists": [
-        {
-          "name": "Edvard Grieg",
-          "url": "https://open.spotify.com/artist/5ihY290YPGc3aY2xTyx7Gy"
-        },
-        {
-          "name": "Academy of St. Martin in the Fields",
-          "url": "https://open.spotify.com/artist/77CaCn32H4mOMQA7UElzfF"
-        },
-        {
-          "name": "Sir Neville Marriner",
-          "url": "https://open.spotify.com/artist/6NUhQz7eAEsZvjEHTKHux9"
-        },
-        {
-          "name": "Stephen Shingles",
-          "url": "https://open.spotify.com/artist/0j2P4TtJ6MuqncwEHeRvUN"
-        }
-      ],
-      "duration_ms": 243000,
-      "name": "Holberg Suite, Op. 40: 5. Rigaudon (Allegro con brio)",
-      "url": "https://open.spotify.com/track/2fPsJT9Q1d5ferqW3brhQP"
     },
     {
       "added_at": "2022-09-30 04:01:00",
@@ -839,8 +811,8 @@
     {
       "added_at": "2022-09-30 04:01:00",
       "album": {
-        "name": "Grieg: Piano Sonata, Op. 7 / Stimmungen / 4 Piano Pieces, Op. 1",
-        "url": "https://open.spotify.com/album/0YsAMGxpqI8BnX0H2cYSh5"
+        "name": "Sibelius: Karelia Suite; Swan of Tuonela/Grieg: Holberg Suite",
+        "url": "https://open.spotify.com/album/0UEtCD7OMAWij6pzFxjbz8"
       },
       "artists": [
         {
@@ -848,13 +820,21 @@
           "url": "https://open.spotify.com/artist/5ihY290YPGc3aY2xTyx7Gy"
         },
         {
-          "name": "Einar Steen-N\u00f8kleberg",
-          "url": "https://open.spotify.com/artist/417bLc6SGbykzJLkFLD9HZ"
+          "name": "Academy of St. Martin in the Fields",
+          "url": "https://open.spotify.com/artist/77CaCn32H4mOMQA7UElzfF"
+        },
+        {
+          "name": "Sir Neville Marriner",
+          "url": "https://open.spotify.com/artist/6NUhQz7eAEsZvjEHTKHux9"
+        },
+        {
+          "name": "Stephen Shingles",
+          "url": "https://open.spotify.com/artist/0j2P4TtJ6MuqncwEHeRvUN"
         }
       ],
-      "duration_ms": 205400,
-      "name": "Piano Sonata in E Minor, Op. 7: III. Alla Menuetto, ma poco piu lento",
-      "url": "https://open.spotify.com/track/5Kao71AsrMSlMo8L123Vk2"
+      "duration_ms": 243000,
+      "name": "Holberg Suite, Op. 40: 5. Rigaudon (Allegro con brio)",
+      "url": "https://open.spotify.com/track/2fPsJT9Q1d5ferqW3brhQP"
     },
     {
       "added_at": "2022-09-30 04:01:00",
@@ -887,6 +867,26 @@
       "duration_ms": 233946,
       "name": "6 Orchestral Songs, EG 177: No. 2, Solveig's Cradle Song",
       "url": "https://open.spotify.com/track/1cn9lxwu0DlFrQrnhWrrs8"
+    },
+    {
+      "added_at": "2022-09-30 04:01:00",
+      "album": {
+        "name": "Grieg: Piano Sonata, Op. 7 / Stimmungen / 4 Piano Pieces, Op. 1",
+        "url": "https://open.spotify.com/album/0YsAMGxpqI8BnX0H2cYSh5"
+      },
+      "artists": [
+        {
+          "name": "Edvard Grieg",
+          "url": "https://open.spotify.com/artist/5ihY290YPGc3aY2xTyx7Gy"
+        },
+        {
+          "name": "Einar Steen-N\u00f8kleberg",
+          "url": "https://open.spotify.com/artist/417bLc6SGbykzJLkFLD9HZ"
+        }
+      ],
+      "duration_ms": 205400,
+      "name": "Piano Sonata in E Minor, Op. 7: III. Alla Menuetto, ma poco piu lento",
+      "url": "https://open.spotify.com/track/5Kao71AsrMSlMo8L123Vk2"
     },
     {
       "added_at": "2022-09-30 04:01:00",
@@ -1007,6 +1007,30 @@
     {
       "added_at": "2022-09-30 04:01:00",
       "album": {
+        "name": "Grieg: Songs",
+        "url": "https://open.spotify.com/album/3IDSSBfofnbrAPkNcusD6x"
+      },
+      "artists": [
+        {
+          "name": "Edvard Grieg",
+          "url": "https://open.spotify.com/artist/5ihY290YPGc3aY2xTyx7Gy"
+        },
+        {
+          "name": "Anne Sofie von Otter",
+          "url": "https://open.spotify.com/artist/4pFlv4QVInj7bAo0MqHpwW"
+        },
+        {
+          "name": "Bengt Forsberg",
+          "url": "https://open.spotify.com/artist/2GoPcJyOyFijJa1tbuOx5N"
+        }
+      ],
+      "duration_ms": 377000,
+      "name": "Haugtussa - Song Cycle, Op. 67: Ved gjaetle - bekken",
+      "url": "https://open.spotify.com/track/3vMgfdV9xU8UzyivVYDyzc"
+    },
+    {
+      "added_at": "2022-09-30 04:01:00",
+      "album": {
         "name": "Grieg : Peer Gynt Suites 1, 2 & Symphonic Dances",
         "url": "https://open.spotify.com/album/0jDwimSa57C39bletgnvSa"
       },
@@ -1051,30 +1075,6 @@
       "duration_ms": 251653,
       "name": "2 Melodies, Op. 53 (version for orchestra): No. 2. Det forste mode (The First Meeting)",
       "url": "https://open.spotify.com/track/43fd9XWup3L9E2PtH3k5EK"
-    },
-    {
-      "added_at": "2022-09-30 04:01:00",
-      "album": {
-        "name": "Grieg: Songs",
-        "url": "https://open.spotify.com/album/3IDSSBfofnbrAPkNcusD6x"
-      },
-      "artists": [
-        {
-          "name": "Edvard Grieg",
-          "url": "https://open.spotify.com/artist/5ihY290YPGc3aY2xTyx7Gy"
-        },
-        {
-          "name": "Anne Sofie von Otter",
-          "url": "https://open.spotify.com/artist/4pFlv4QVInj7bAo0MqHpwW"
-        },
-        {
-          "name": "Bengt Forsberg",
-          "url": "https://open.spotify.com/artist/2GoPcJyOyFijJa1tbuOx5N"
-        }
-      ],
-      "duration_ms": 377000,
-      "name": "Haugtussa - Song Cycle, Op. 67: Ved gjaetle - bekken",
-      "url": "https://open.spotify.com/track/3vMgfdV9xU8UzyivVYDyzc"
     },
     {
       "added_at": "2022-09-30 04:01:00",
@@ -1143,6 +1143,30 @@
     {
       "added_at": "2022-09-30 04:01:00",
       "album": {
+        "name": "Grieg: Piano, Orchestral & Vocal Works, Chamber Music",
+        "url": "https://open.spotify.com/album/37zUluscLmlk6u8RqrO6Cl"
+      },
+      "artists": [
+        {
+          "name": "Edvard Grieg",
+          "url": "https://open.spotify.com/artist/5ihY290YPGc3aY2xTyx7Gy"
+        },
+        {
+          "name": "Truls M\u00f8rk",
+          "url": "https://open.spotify.com/artist/2ookZjNsAvPdiaGWn86ub1"
+        },
+        {
+          "name": "H\u00e5vard Gimse",
+          "url": "https://open.spotify.com/artist/1dk8ZJIE1IET4n4LrxzD6I"
+        }
+      ],
+      "duration_ms": 390200,
+      "name": "Grieg: Cello Sonata in A Minor, Op. 36: II. Andante molto tranquillo",
+      "url": "https://open.spotify.com/track/1dQcZRGntODNgU5Pj7tgHO"
+    },
+    {
+      "added_at": "2022-09-30 04:01:00",
+      "album": {
         "name": "Grieg : Peer Gynt Suites 1, 2 & Symphonic Dances",
         "url": "https://open.spotify.com/album/0jDwimSa57C39bletgnvSa"
       },
@@ -1187,30 +1211,6 @@
       "duration_ms": 211000,
       "name": "Holberg Suite, Op. 40: III. Gavotte (Allegretto) - Musette (poco pi\u00f9 mosso) - Gavotte",
       "url": "https://open.spotify.com/track/6LneKcb0FT0xwU4RhFjmcs"
-    },
-    {
-      "added_at": "2022-09-30 04:01:00",
-      "album": {
-        "name": "Grieg: Piano, Orchestral & Vocal Works, Chamber Music",
-        "url": "https://open.spotify.com/album/37zUluscLmlk6u8RqrO6Cl"
-      },
-      "artists": [
-        {
-          "name": "Edvard Grieg",
-          "url": "https://open.spotify.com/artist/5ihY290YPGc3aY2xTyx7Gy"
-        },
-        {
-          "name": "Truls M\u00f8rk",
-          "url": "https://open.spotify.com/artist/2ookZjNsAvPdiaGWn86ub1"
-        },
-        {
-          "name": "H\u00e5vard Gimse",
-          "url": "https://open.spotify.com/artist/1dk8ZJIE1IET4n4LrxzD6I"
-        }
-      ],
-      "duration_ms": 390200,
-      "name": "Grieg: Cello Sonata in A Minor, Op. 36: II. Andante molto tranquillo",
-      "url": "https://open.spotify.com/track/1dQcZRGntODNgU5Pj7tgHO"
     },
     {
       "added_at": "2022-09-30 04:01:00",

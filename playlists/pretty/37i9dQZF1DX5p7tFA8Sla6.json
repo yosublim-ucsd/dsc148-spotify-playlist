@@ -1,12 +1,12 @@
 {
   "description": "Funk - new and old - to accompany your drive.",
-  "num_followers": 48012,
+  "num_followers": 48047,
   "original_name": "Funk Drive",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxZjNjZTNhMjE3NDZmYzNmZTRiZWVhOGVkZTk0OWU1NTU4ODUxNzQw",
+  "snapshot_id": "MCwzOGFiYjhlN2MwMjM5OThhNzM4ZjllN2MxMGUxOWMxNmRhZmNkMTUz",
   "tracks": [
     {
       "added_at": "2019-08-22 14:26:16",
@@ -751,22 +751,18 @@
     {
       "added_at": "2019-08-22 14:26:16",
       "album": {
-        "name": "Mount Pleasant",
-        "url": "https://open.spotify.com/album/080iszZgRFPqymcbo1qlOK"
+        "name": "Sign \"O\" the Times",
+        "url": "https://open.spotify.com/album/1XsXHctYSQNyAd9BANCk2B"
       },
       "artists": [
         {
-          "name": "Smoove & Turrell",
-          "url": "https://open.spotify.com/artist/2H1QvrzVgcOKPRpYF8xDUn"
-        },
-        {
-          "name": "Izo FitzRoy",
-          "url": "https://open.spotify.com/artist/50gPQYV9WREGkWM53dNb9r"
+          "name": "Prince",
+          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
         }
       ],
-      "duration_ms": 222957,
-      "name": "You're Gone",
-      "url": "https://open.spotify.com/track/2auIQ3gf99I7wFz2DbZKWk"
+      "duration_ms": 282106,
+      "name": "Housequake",
+      "url": "https://open.spotify.com/track/5xP9clzYBKZ6F3u2VZUaBJ"
     },
     {
       "added_at": "2019-08-22 14:26:16",
@@ -787,18 +783,22 @@
     {
       "added_at": "2019-08-22 14:26:16",
       "album": {
-        "name": "Sign \"O\" the Times",
-        "url": "https://open.spotify.com/album/1XsXHctYSQNyAd9BANCk2B"
+        "name": "Mount Pleasant",
+        "url": "https://open.spotify.com/album/080iszZgRFPqymcbo1qlOK"
       },
       "artists": [
         {
-          "name": "Prince",
-          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
+          "name": "Smoove & Turrell",
+          "url": "https://open.spotify.com/artist/2H1QvrzVgcOKPRpYF8xDUn"
+        },
+        {
+          "name": "Izo FitzRoy",
+          "url": "https://open.spotify.com/artist/50gPQYV9WREGkWM53dNb9r"
         }
       ],
-      "duration_ms": 282106,
-      "name": "Housequake",
-      "url": "https://open.spotify.com/track/5xP9clzYBKZ6F3u2VZUaBJ"
+      "duration_ms": 222957,
+      "name": "You're Gone",
+      "url": "https://open.spotify.com/track/2auIQ3gf99I7wFz2DbZKWk"
     },
     {
       "added_at": "2019-08-22 14:26:16",
@@ -1219,22 +1219,6 @@
     {
       "added_at": "2019-08-22 14:26:16",
       "album": {
-        "name": "Dirty Word",
-        "url": "https://open.spotify.com/album/79Wa68FKzsDAJp4GJdbreF"
-      },
-      "artists": [
-        {
-          "name": "Dumpstaphunk",
-          "url": "https://open.spotify.com/artist/6LvO4vaTTJhCAdpITMpDvC"
-        }
-      ],
-      "duration_ms": 249973,
-      "name": "Dancin' To The Truth",
-      "url": "https://open.spotify.com/track/0Y5QEWwXP3awk97M830OBo"
-    },
-    {
-      "added_at": "2019-08-22 14:26:16",
-      "album": {
         "name": "Soul Side of Town",
         "url": "https://open.spotify.com/album/6meVai9RNunLTuXrz5IcVJ"
       },
@@ -1247,6 +1231,22 @@
       "duration_ms": 328479,
       "name": "Hangin' with My Baby",
       "url": "https://open.spotify.com/track/3ZoLqDFPHCyq4jeIMHBODq"
+    },
+    {
+      "added_at": "2019-08-22 14:26:16",
+      "album": {
+        "name": "Dirty Word",
+        "url": "https://open.spotify.com/album/79Wa68FKzsDAJp4GJdbreF"
+      },
+      "artists": [
+        {
+          "name": "Dumpstaphunk",
+          "url": "https://open.spotify.com/artist/6LvO4vaTTJhCAdpITMpDvC"
+        }
+      ],
+      "duration_ms": 249973,
+      "name": "Dancin' To The Truth",
+      "url": "https://open.spotify.com/track/0Y5QEWwXP3awk97M830OBo"
     },
     {
       "added_at": "2019-08-22 14:26:16",
@@ -1307,22 +1307,6 @@
     {
       "added_at": "2019-08-22 14:26:16",
       "album": {
-        "name": "Shake Your Money",
-        "url": "https://open.spotify.com/album/64RZY2yiVERrJRZuW9IO5r"
-      },
-      "artists": [
-        {
-          "name": "Brother Strut",
-          "url": "https://open.spotify.com/artist/3Z1RXhBBhcyVcry5HAcVRg"
-        }
-      ],
-      "duration_ms": 200190,
-      "name": "Shake Your Money",
-      "url": "https://open.spotify.com/track/6EpT9STInmudS2JOVd9f1S"
-    },
-    {
-      "added_at": "2019-08-22 14:26:16",
-      "album": {
         "name": "Afterlife Vol. 2 - EP",
         "url": "https://open.spotify.com/album/6fYiUXcG04ykfJcT9X75Al"
       },
@@ -1335,6 +1319,22 @@
       "duration_ms": 226345,
       "name": "Mister Man",
       "url": "https://open.spotify.com/track/2eoDZsvrMKU7Hh9qZhkpsD"
+    },
+    {
+      "added_at": "2019-08-22 14:26:16",
+      "album": {
+        "name": "Shake Your Money",
+        "url": "https://open.spotify.com/album/64RZY2yiVERrJRZuW9IO5r"
+      },
+      "artists": [
+        {
+          "name": "Brother Strut",
+          "url": "https://open.spotify.com/artist/3Z1RXhBBhcyVcry5HAcVRg"
+        }
+      ],
+      "duration_ms": 200190,
+      "name": "Shake Your Money",
+      "url": "https://open.spotify.com/track/6EpT9STInmudS2JOVd9f1S"
     },
     {
       "added_at": "2019-08-22 14:26:16",
@@ -1355,22 +1355,6 @@
       "duration_ms": 402851,
       "name": "Night Time",
       "url": "https://open.spotify.com/track/7tjRXebutOf50Ks2cRzv9d"
-    },
-    {
-      "added_at": "2019-08-22 14:26:16",
-      "album": {
-        "name": "Jukestone Paradise",
-        "url": "https://open.spotify.com/album/7iffpPqDJH74f03Eu6HZ2y"
-      },
-      "artists": [
-        {
-          "name": "Pimps of Joytime",
-          "url": "https://open.spotify.com/artist/6NPWjCsZUtFRognZKJm5N4"
-        }
-      ],
-      "duration_ms": 242840,
-      "name": "Body Party",
-      "url": "https://open.spotify.com/track/5H8ClXF0WMHASLLmqMyuLq"
     },
     {
       "added_at": "2019-08-22 14:26:16",
@@ -1407,6 +1391,22 @@
     {
       "added_at": "2019-08-22 14:26:16",
       "album": {
+        "name": "Jukestone Paradise",
+        "url": "https://open.spotify.com/album/7iffpPqDJH74f03Eu6HZ2y"
+      },
+      "artists": [
+        {
+          "name": "Pimps of Joytime",
+          "url": "https://open.spotify.com/artist/6NPWjCsZUtFRognZKJm5N4"
+        }
+      ],
+      "duration_ms": 242840,
+      "name": "Body Party",
+      "url": "https://open.spotify.com/track/5H8ClXF0WMHASLLmqMyuLq"
+    },
+    {
+      "added_at": "2019-08-22 14:26:16",
+      "album": {
         "name": "Circle",
         "url": "https://open.spotify.com/album/5Vo5j4UDMxrxvrM5shPoAl"
       },
@@ -1419,6 +1419,22 @@
       "duration_ms": 271054,
       "name": "Liar",
       "url": "https://open.spotify.com/track/3lMcxADyU7bEM8y0ktXHJB"
+    },
+    {
+      "added_at": "2019-08-22 14:26:16",
+      "album": {
+        "name": "Life In The City",
+        "url": "https://open.spotify.com/album/1s5qOtWNafsjfEl9NlmWio"
+      },
+      "artists": [
+        {
+          "name": "Turkuaz",
+          "url": "https://open.spotify.com/artist/699X8OLj9lpNg8rqFdQsA7"
+        }
+      ],
+      "duration_ms": 245413,
+      "name": "Superstatic",
+      "url": "https://open.spotify.com/track/7DmAKZ07s3e2IYrqUVtUWF"
     },
     {
       "added_at": "2019-08-22 14:26:16",
@@ -1515,22 +1531,6 @@
     {
       "added_at": "2019-08-22 14:26:16",
       "album": {
-        "name": "Life In The City",
-        "url": "https://open.spotify.com/album/1s5qOtWNafsjfEl9NlmWio"
-      },
-      "artists": [
-        {
-          "name": "Turkuaz",
-          "url": "https://open.spotify.com/artist/699X8OLj9lpNg8rqFdQsA7"
-        }
-      ],
-      "duration_ms": 245413,
-      "name": "Superstatic",
-      "url": "https://open.spotify.com/track/7DmAKZ07s3e2IYrqUVtUWF"
-    },
-    {
-      "added_at": "2019-08-22 14:26:16",
-      "album": {
         "name": "Gnomes & Badgers",
         "url": "https://open.spotify.com/album/56MQoYzvGvaaECXTN9rUFY"
       },
@@ -1559,26 +1559,6 @@
       "duration_ms": 233491,
       "name": "Do It with Soul",
       "url": "https://open.spotify.com/track/4U3pzSGJKpi3JwAOZygvwX"
-    },
-    {
-      "added_at": "2019-08-22 14:26:16",
-      "album": {
-        "name": "Lab Experiments, Vol. 2",
-        "url": "https://open.spotify.com/album/6j0BOlgrf1L0rBfI6fqxmA"
-      },
-      "artists": [
-        {
-          "name": "Cookin' On 3 Burners",
-          "url": "https://open.spotify.com/artist/726MxZBpkxnnoKl6aN7mmj"
-        },
-        {
-          "name": "Kaiit",
-          "url": "https://open.spotify.com/artist/05GTlMes7SkTlE9JcIvYB2"
-        }
-      ],
-      "duration_ms": 211615,
-      "name": "Warning",
-      "url": "https://open.spotify.com/track/3EQOwmp82jHkPtSUnG3aPn"
     },
     {
       "added_at": "2019-08-22 14:26:16",
@@ -1635,6 +1615,26 @@
       "duration_ms": 274237,
       "name": "Word Is Out",
       "url": "https://open.spotify.com/track/3irXL694Levp0Uzrnq5yva"
+    },
+    {
+      "added_at": "2019-08-22 14:26:16",
+      "album": {
+        "name": "Lab Experiments, Vol. 2",
+        "url": "https://open.spotify.com/album/6j0BOlgrf1L0rBfI6fqxmA"
+      },
+      "artists": [
+        {
+          "name": "Cookin' On 3 Burners",
+          "url": "https://open.spotify.com/artist/726MxZBpkxnnoKl6aN7mmj"
+        },
+        {
+          "name": "Kaiit",
+          "url": "https://open.spotify.com/artist/05GTlMes7SkTlE9JcIvYB2"
+        }
+      ],
+      "duration_ms": 211615,
+      "name": "Warning",
+      "url": "https://open.spotify.com/track/3EQOwmp82jHkPtSUnG3aPn"
     },
     {
       "added_at": "2019-08-22 14:26:16",

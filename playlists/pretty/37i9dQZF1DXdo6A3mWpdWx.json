@@ -1,12 +1,12 @@
 {
   "description": "The biggest party hits of the 1990s. Cover: Jennifer Lopez.",
-  "num_followers": 545139,
+  "num_followers": 546278,
   "original_name": "90s Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlOTQ5YjE0YWZjMTk4MGY3MjJhY2RiYzE0NzhlMjg3YmQ2MGMxZmNl",
+  "snapshot_id": "MCxkZTE5ZjlmMjQxMTY2YjVjZThmM2E5ODkwNzk5OTQzNzNiOGM5MDE1",
   "tracks": [
     {
       "added_at": "2022-10-11 00:00:00",
@@ -731,6 +731,22 @@
     {
       "added_at": "2022-10-11 00:00:00",
       "album": {
+        "name": "Mack Daddy",
+        "url": "https://open.spotify.com/album/6c62jxWCe2aisIudaDRcaP"
+      },
+      "artists": [
+        {
+          "name": "Sir Mix-A-Lot",
+          "url": "https://open.spotify.com/artist/3TQ9JTBI2n2hfo7aRONEYV"
+        }
+      ],
+      "duration_ms": 262826,
+      "name": "Baby Got Back",
+      "url": "https://open.spotify.com/track/1SAkL1mYNJlaqnBQxVZrRl"
+    },
+    {
+      "added_at": "2022-10-11 00:00:00",
+      "album": {
         "name": "Supernatural (Remastered)",
         "url": "https://open.spotify.com/album/10aiDpdFGyfCFEcqpx6XTq"
       },
@@ -747,22 +763,6 @@
       "duration_ms": 294986,
       "name": "Smooth (feat. Rob Thomas)",
       "url": "https://open.spotify.com/track/0n2SEXB2qoRQg171q7XqeW"
-    },
-    {
-      "added_at": "2022-10-11 00:00:00",
-      "album": {
-        "name": "Mack Daddy",
-        "url": "https://open.spotify.com/album/6c62jxWCe2aisIudaDRcaP"
-      },
-      "artists": [
-        {
-          "name": "Sir Mix-A-Lot",
-          "url": "https://open.spotify.com/artist/3TQ9JTBI2n2hfo7aRONEYV"
-        }
-      ],
-      "duration_ms": 262826,
-      "name": "Baby Got Back",
-      "url": "https://open.spotify.com/track/1SAkL1mYNJlaqnBQxVZrRl"
     },
     {
       "added_at": "2022-10-11 00:00:00",
@@ -983,26 +983,6 @@
     {
       "added_at": "2022-10-11 00:00:00",
       "album": {
-        "name": "Here Comes The Hotstepper",
-        "url": "https://open.spotify.com/album/1fSD1yTlcwVUWdpK7Nr7v5"
-      },
-      "artists": [
-        {
-          "name": "Ini Kamoze",
-          "url": "https://open.spotify.com/artist/1VJspRsoC6c0bvqhnSiFCs"
-        },
-        {
-          "name": "Salaam Remi",
-          "url": "https://open.spotify.com/artist/0rlS0SzVFk8BoiAW0fGBbN"
-        }
-      ],
-      "duration_ms": 250466,
-      "name": "Here Comes the Hotstepper - Heartical Mix",
-      "url": "https://open.spotify.com/track/3QRM0qZB7oMYavveH0iEqx"
-    },
-    {
-      "added_at": "2022-10-11 00:00:00",
-      "album": {
         "name": "Duophonic",
         "url": "https://open.spotify.com/album/2qSjYxNL8dN8QCTTQyuNOA"
       },
@@ -1019,22 +999,22 @@
     {
       "added_at": "2022-10-11 00:00:00",
       "album": {
-        "name": "Surprise",
-        "url": "https://open.spotify.com/album/7MtJHdiKmt3Gbus6oyXhy1"
+        "name": "Here Comes The Hotstepper",
+        "url": "https://open.spotify.com/album/1fSD1yTlcwVUWdpK7Nr7v5"
       },
       "artists": [
         {
-          "name": "Crystal Waters",
-          "url": "https://open.spotify.com/artist/2sd9Q3r0Jhqpe3w9WVuG43"
+          "name": "Ini Kamoze",
+          "url": "https://open.spotify.com/artist/1VJspRsoC6c0bvqhnSiFCs"
         },
         {
-          "name": "The Basement Boys",
-          "url": "https://open.spotify.com/artist/4zs2Vybqo9ktD8QORpnHfI"
+          "name": "Salaam Remi",
+          "url": "https://open.spotify.com/artist/0rlS0SzVFk8BoiAW0fGBbN"
         }
       ],
-      "duration_ms": 451826,
-      "name": "Gypsy Woman (She's Homeless) (La Da Dee La Da Da) - Basement Boy Strip To The Bone Mix",
-      "url": "https://open.spotify.com/track/1SShxVVBeZBCY7WddnksPz"
+      "duration_ms": 250466,
+      "name": "Here Comes the Hotstepper - Heartical Mix",
+      "url": "https://open.spotify.com/track/3QRM0qZB7oMYavveH0iEqx"
     },
     {
       "added_at": "2022-10-11 00:00:00",
@@ -1067,6 +1047,26 @@
       "duration_ms": 224000,
       "name": "Strong Enough",
       "url": "https://open.spotify.com/track/144JMbvbR5txNzoZ112wo4"
+    },
+    {
+      "added_at": "2022-10-11 00:00:00",
+      "album": {
+        "name": "Surprise",
+        "url": "https://open.spotify.com/album/7MtJHdiKmt3Gbus6oyXhy1"
+      },
+      "artists": [
+        {
+          "name": "Crystal Waters",
+          "url": "https://open.spotify.com/artist/2sd9Q3r0Jhqpe3w9WVuG43"
+        },
+        {
+          "name": "The Basement Boys",
+          "url": "https://open.spotify.com/artist/4zs2Vybqo9ktD8QORpnHfI"
+        }
+      ],
+      "duration_ms": 451826,
+      "name": "Gypsy Woman (She's Homeless) (La Da Dee La Da Da) - Basement Boy Strip To The Bone Mix",
+      "url": "https://open.spotify.com/track/1SShxVVBeZBCY7WddnksPz"
     },
     {
       "added_at": "2022-10-11 00:00:00",
@@ -1451,22 +1451,6 @@
     {
       "added_at": "2022-10-11 00:00:00",
       "album": {
-        "name": "Finally",
-        "url": "https://open.spotify.com/album/3REpPYjJhtaeJc4Mo1v4Ip"
-      },
-      "artists": [
-        {
-          "name": "CeCe Peniston",
-          "url": "https://open.spotify.com/artist/5UoVLCWzOKMIJ9iioof9OD"
-        }
-      ],
-      "duration_ms": 245000,
-      "name": "Finally",
-      "url": "https://open.spotify.com/track/0uqvSVhGgQTIdj9G51vhvv"
-    },
-    {
-      "added_at": "2022-10-11 00:00:00",
-      "album": {
         "name": "2 Times (Full Package)",
         "url": "https://open.spotify.com/album/0pAY6od68ZZOgxNWwSOHlv"
       },
@@ -1479,6 +1463,22 @@
       "duration_ms": 230933,
       "name": "2 Times - Original",
       "url": "https://open.spotify.com/track/4IiKITgHYaHrF1zUlcTyVH"
+    },
+    {
+      "added_at": "2022-10-11 00:00:00",
+      "album": {
+        "name": "Finally",
+        "url": "https://open.spotify.com/album/3REpPYjJhtaeJc4Mo1v4Ip"
+      },
+      "artists": [
+        {
+          "name": "CeCe Peniston",
+          "url": "https://open.spotify.com/artist/5UoVLCWzOKMIJ9iioof9OD"
+        }
+      ],
+      "duration_ms": 245000,
+      "name": "Finally",
+      "url": "https://open.spotify.com/track/0uqvSVhGgQTIdj9G51vhvv"
     },
     {
       "added_at": "2022-10-11 00:00:00",
@@ -1515,6 +1515,22 @@
     {
       "added_at": "2022-10-11 00:00:00",
       "album": {
+        "name": "Serenity",
+        "url": "https://open.spotify.com/album/4WiN45TcjcmOnnk8ZPzIIO"
+      },
+      "artists": [
+        {
+          "name": "Culture Beat",
+          "url": "https://open.spotify.com/artist/0BZ3BHzfYwpd3k5TDnvAz8"
+        }
+      ],
+      "duration_ms": 336840,
+      "name": "Mr. Vain",
+      "url": "https://open.spotify.com/track/2rTYgHxgcndkUrRoU7x0Sv"
+    },
+    {
+      "added_at": "2022-10-11 00:00:00",
+      "album": {
         "name": "12 Inches Of Snow",
         "url": "https://open.spotify.com/album/6bNWz7bHK8M0xPfAPmFSRW"
       },
@@ -1543,22 +1559,6 @@
       "duration_ms": 236933,
       "name": "Another Night",
       "url": "https://open.spotify.com/track/3pEuO9J2MTEmec8kUfYYvl"
-    },
-    {
-      "added_at": "2022-10-11 00:00:00",
-      "album": {
-        "name": "Serenity",
-        "url": "https://open.spotify.com/album/4WiN45TcjcmOnnk8ZPzIIO"
-      },
-      "artists": [
-        {
-          "name": "Culture Beat",
-          "url": "https://open.spotify.com/artist/0BZ3BHzfYwpd3k5TDnvAz8"
-        }
-      ],
-      "duration_ms": 336840,
-      "name": "Mr. Vain",
-      "url": "https://open.spotify.com/track/2rTYgHxgcndkUrRoU7x0Sv"
     },
     {
       "added_at": "2022-10-11 00:00:00",
@@ -1791,22 +1791,6 @@
     {
       "added_at": "2022-10-11 00:00:00",
       "album": {
-        "name": "Love Is Not Sex",
-        "url": "https://open.spotify.com/album/01ChjoiBlN7bBmsvrzuzlo"
-      },
-      "artists": [
-        {
-          "name": "Captain Hollywood Project",
-          "url": "https://open.spotify.com/artist/3El2sJgqTWkg1kkyHHAEu4"
-        }
-      ],
-      "duration_ms": 253573,
-      "name": "More And More - Single Version",
-      "url": "https://open.spotify.com/track/0JXXm3RqxU8EKzX4P8M0n3"
-    },
-    {
-      "added_at": "2022-10-11 00:00:00",
-      "album": {
         "name": "It's My Life",
         "url": "https://open.spotify.com/album/2YBkamwn6VqpPO2wOfDVjS"
       },
@@ -1823,6 +1807,22 @@
       "duration_ms": 221160,
       "name": "Encore Une Fois - Future Breeze Edit",
       "url": "https://open.spotify.com/track/3UPBOL5UtCZmJRwioMkfLD"
+    },
+    {
+      "added_at": "2022-10-11 00:00:00",
+      "album": {
+        "name": "Love Is Not Sex",
+        "url": "https://open.spotify.com/album/01ChjoiBlN7bBmsvrzuzlo"
+      },
+      "artists": [
+        {
+          "name": "Captain Hollywood Project",
+          "url": "https://open.spotify.com/artist/3El2sJgqTWkg1kkyHHAEu4"
+        }
+      ],
+      "duration_ms": 253573,
+      "name": "More And More - Single Version",
+      "url": "https://open.spotify.com/track/0JXXm3RqxU8EKzX4P8M0n3"
     },
     {
       "added_at": "2022-10-11 00:00:00",
@@ -2055,22 +2055,6 @@
     {
       "added_at": "2022-10-11 00:00:00",
       "album": {
-        "name": "Step By Step",
-        "url": "https://open.spotify.com/album/4dCdnfD0shXGuHtyTOtx8q"
-      },
-      "artists": [
-        {
-          "name": "New Kids On The Block",
-          "url": "https://open.spotify.com/artist/55qiaow2sDYtjqu1mwRua6"
-        }
-      ],
-      "duration_ms": 267293,
-      "name": "Step by Step",
-      "url": "https://open.spotify.com/track/6J6RWKCPN5RFKHUKEUFjxS"
-    },
-    {
-      "added_at": "2022-10-11 00:00:00",
-      "album": {
         "name": "You Got the Love",
         "url": "https://open.spotify.com/album/2FkSbzjwgmF6KvU2tQCOgs"
       },
@@ -2095,6 +2079,22 @@
       "duration_ms": 193600,
       "name": "You Got The Love - New Voyager Radio Edit",
       "url": "https://open.spotify.com/track/1otmOO4ilwTSIUDBnR6wCF"
+    },
+    {
+      "added_at": "2022-10-11 00:00:00",
+      "album": {
+        "name": "Step By Step",
+        "url": "https://open.spotify.com/album/4dCdnfD0shXGuHtyTOtx8q"
+      },
+      "artists": [
+        {
+          "name": "New Kids On The Block",
+          "url": "https://open.spotify.com/artist/55qiaow2sDYtjqu1mwRua6"
+        }
+      ],
+      "duration_ms": 267293,
+      "name": "Step by Step",
+      "url": "https://open.spotify.com/track/6J6RWKCPN5RFKHUKEUFjxS"
     },
     {
       "added_at": "2022-10-11 00:00:00",
@@ -2147,6 +2147,22 @@
     {
       "added_at": "2022-10-11 00:00:00",
       "album": {
+        "name": "Casino",
+        "url": "https://open.spotify.com/album/5FWRzWPvOHCxOoo0ibUfI5"
+      },
+      "artists": [
+        {
+          "name": "Alcazar",
+          "url": "https://open.spotify.com/artist/5HnkAAaf0MCIxMWzsJNrdg"
+        }
+      ],
+      "duration_ms": 231533,
+      "name": "Crying at the Discoteque - Radio Edit",
+      "url": "https://open.spotify.com/track/7gQAFGUyHPcY0cQNPsjMf0"
+    },
+    {
+      "added_at": "2022-10-11 00:00:00",
+      "album": {
         "name": "This Is How We Do It",
         "url": "https://open.spotify.com/album/6VTrm81s50qmidaYI6EjiQ"
       },
@@ -2163,22 +2179,6 @@
       "duration_ms": 277293,
       "name": "This Is How We Do It",
       "url": "https://open.spotify.com/track/1poBO3pO6fkqPYG6n8J5cX"
-    },
-    {
-      "added_at": "2022-10-11 00:00:00",
-      "album": {
-        "name": "Casino",
-        "url": "https://open.spotify.com/album/5FWRzWPvOHCxOoo0ibUfI5"
-      },
-      "artists": [
-        {
-          "name": "Alcazar",
-          "url": "https://open.spotify.com/artist/5HnkAAaf0MCIxMWzsJNrdg"
-        }
-      ],
-      "duration_ms": 231533,
-      "name": "Crying at the Discoteque - Radio Edit",
-      "url": "https://open.spotify.com/track/7gQAFGUyHPcY0cQNPsjMf0"
     },
     {
       "added_at": "2022-10-11 00:00:00",
@@ -2303,22 +2303,6 @@
     {
       "added_at": "2022-10-11 00:00:00",
       "album": {
-        "name": "Robyn Is Here",
-        "url": "https://open.spotify.com/album/5OvepfQiCFMCzML6fTgrBW"
-      },
-      "artists": [
-        {
-          "name": "Robyn",
-          "url": "https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2"
-        }
-      ],
-      "duration_ms": 229226,
-      "name": "Show Me Love - Radio Version",
-      "url": "https://open.spotify.com/track/6SluaPiV04KOaRTOIScoff"
-    },
-    {
-      "added_at": "2022-10-11 00:00:00",
-      "album": {
         "name": "Greatest Hits",
         "url": "https://open.spotify.com/album/67hY4NBs0UfhpthNqrgGsO"
       },
@@ -2331,6 +2315,22 @@
       "duration_ms": 229893,
       "name": "Everybody",
       "url": "https://open.spotify.com/track/4Kc0S6bWVeO7Q4SoMPAyX1"
+    },
+    {
+      "added_at": "2022-10-11 00:00:00",
+      "album": {
+        "name": "Robyn Is Here",
+        "url": "https://open.spotify.com/album/5OvepfQiCFMCzML6fTgrBW"
+      },
+      "artists": [
+        {
+          "name": "Robyn",
+          "url": "https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2"
+        }
+      ],
+      "duration_ms": 229226,
+      "name": "Show Me Love - Radio Version",
+      "url": "https://open.spotify.com/track/6SluaPiV04KOaRTOIScoff"
     },
     {
       "added_at": "2022-10-11 00:00:00",
@@ -2367,6 +2367,22 @@
     {
       "added_at": "2022-10-11 00:00:00",
       "album": {
+        "name": "Situation:Critical",
+        "url": "https://open.spotify.com/album/5k8evXM0YJNZpCQ0dMXGCJ"
+      },
+      "artists": [
+        {
+          "name": "Ultra Nat\u00e9",
+          "url": "https://open.spotify.com/artist/1cK2Abwkni7m51wJCSGllN"
+        }
+      ],
+      "duration_ms": 353360,
+      "name": "Free",
+      "url": "https://open.spotify.com/track/5RC9olve1FVs1bnIneatm8"
+    },
+    {
+      "added_at": "2022-10-11 00:00:00",
+      "album": {
         "name": "Boombastic",
         "url": "https://open.spotify.com/album/40rtksAqnwebfPKWzSL6Iv"
       },
@@ -2383,22 +2399,6 @@
       "duration_ms": 238360,
       "name": "In The Summertime",
       "url": "https://open.spotify.com/track/726KAdf3k8Ce8W95O38XNI"
-    },
-    {
-      "added_at": "2022-10-11 00:00:00",
-      "album": {
-        "name": "Situation:Critical",
-        "url": "https://open.spotify.com/album/5k8evXM0YJNZpCQ0dMXGCJ"
-      },
-      "artists": [
-        {
-          "name": "Ultra Nat\u00e9",
-          "url": "https://open.spotify.com/artist/1cK2Abwkni7m51wJCSGllN"
-        }
-      ],
-      "duration_ms": 353360,
-      "name": "Free",
-      "url": "https://open.spotify.com/track/5RC9olve1FVs1bnIneatm8"
     },
     {
       "added_at": "2022-10-11 00:00:00",
@@ -2471,22 +2471,6 @@
     {
       "added_at": "2022-10-11 00:00:00",
       "album": {
-        "name": "On Vol.1",
-        "url": "https://open.spotify.com/album/1xo1nQrV2vHnZB3CSkcaIj"
-      },
-      "artists": [
-        {
-          "name": "D:Ream",
-          "url": "https://open.spotify.com/artist/2dCQKsTjB762AhtIACbAQA"
-        }
-      ],
-      "duration_ms": 258000,
-      "name": "Things Can Only Get Better",
-      "url": "https://open.spotify.com/track/5HmwYfynpGAjgrj4bp9eMy"
-    },
-    {
-      "added_at": "2022-10-11 00:00:00",
-      "album": {
         "name": "Invincible",
         "url": "https://open.spotify.com/album/72qAXkZ8keSUHe55hhEVQG"
       },
@@ -2503,6 +2487,22 @@
       "duration_ms": 197400,
       "name": "Keep On Movin'",
       "url": "https://open.spotify.com/track/0mrU1w2UMIZnR2I6oguwGz"
+    },
+    {
+      "added_at": "2022-10-11 00:00:00",
+      "album": {
+        "name": "On Vol.1",
+        "url": "https://open.spotify.com/album/1xo1nQrV2vHnZB3CSkcaIj"
+      },
+      "artists": [
+        {
+          "name": "D:Ream",
+          "url": "https://open.spotify.com/artist/2dCQKsTjB762AhtIACbAQA"
+        }
+      ],
+      "duration_ms": 258000,
+      "name": "Things Can Only Get Better",
+      "url": "https://open.spotify.com/track/5HmwYfynpGAjgrj4bp9eMy"
     }
   ],
   "unique_name": "90s Party",

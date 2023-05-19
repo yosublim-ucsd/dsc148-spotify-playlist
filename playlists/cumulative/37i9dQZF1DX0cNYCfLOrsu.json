@@ -3082,7 +3082,7 @@
       ],
       "date_added": "2023-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 188737,
       "name": "Talibans",
       "url": "https://open.spotify.com/track/0in4JBEFmQVtyNJCN9UeXU"
@@ -3606,6 +3606,24 @@
       "duration_ms": 243049,
       "name": "Where I'm Coming From",
       "url": "https://open.spotify.com/track/2jQENRPVxXb8TcTAXW6wpQ"
+    },
+    {
+      "album": {
+        "name": "Where We Come From",
+        "url": "https://open.spotify.com/album/3iZe5yKemYO68gNG9hQ33C"
+      },
+      "artists": [
+        {
+          "name": "Popcaan",
+          "url": "https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR"
+        }
+      ],
+      "date_added": "2023-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242243,
+      "name": "Where We Come From",
+      "url": "https://open.spotify.com/track/1UXBxulT5ezQKMk99DZ602"
     },
     {
       "album": {

@@ -4,10 +4,11 @@
 
 > Valikoima tuoreita ja hieman vanhempiakin suomalaisia jazz\-helmiä.
 
-119 songs - 10 hr 36 min
+121 songs - 10 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [...And He Whistled A Folk Song](https://open.spotify.com/track/22JUahfpObguJJ71Pool8M) | [Tuomo Uusitalo](https://open.spotify.com/artist/7mflOXPX8B2ZqrNUBf38uo) | [Songs From Suspended Times](https://open.spotify.com/album/1yrS6PV6y0ke5h1hqjbg7D) | 3:12 | 2023-05-18 |  |
 | [A Song We Loaned From Our Children](https://open.spotify.com/track/746oExBG42IBd7Q3ifotmM) | [Iro Haarla Electric Ensemble](https://open.spotify.com/artist/2ox7NvapOauh4QfGYJKDe8) | [What Will We Leave Behind](https://open.spotify.com/album/7cfIfqeymxfXyvt69grQaO) | 3:02 | 2022-09-02 |  |
 | [A Thing With Feathers](https://open.spotify.com/track/25patDyUz6247RVEzsEOpx) | [Aleksi Kinnunen](https://open.spotify.com/artist/7ve7ftb93CWjXayVAlVCaU), [Aki Himanen](https://open.spotify.com/artist/36Z14fQoEOxfHsvlbwYBUS), [Iiro Rantala](https://open.spotify.com/artist/5dP0K6UFJq6UOewk4qIKmL) | [A Thing With Feathers](https://open.spotify.com/album/3Rsf8oDjs8aR2yI6G5lUGH) | 7:45 | 2022-09-02 |  |
 | [Aava](https://open.spotify.com/track/0ujS9nCJPQaGjzsvaIK7Fx) | [Sami Jaakkola Quartet](https://open.spotify.com/artist/0cmKg90nLDc7vf2fPngnnr) | [Aava](https://open.spotify.com/album/06WNFAzaNDrz4Hrv4sd5iH) | 4:20 | 2022-09-02 | 2023-03-04 |
@@ -67,6 +68,7 @@
 | [Kullankaivaja](https://open.spotify.com/track/0SW6Bq46YRsVDzn3MtXc1u) | [Sofia Perhomaa](https://open.spotify.com/artist/7I6tcN1kF9cD5sqOLuqgAW) | [Kullankaivaja](https://open.spotify.com/album/512ObtUfgxYWN5pAqgK572) | 3:51 | 2022-09-02 |  |
 | [Liar](https://open.spotify.com/track/7HSKioNnSt9EDYJSrUrxX4) | [Peela](https://open.spotify.com/artist/5vgx2GUNPPiJ7tyE9xtVZA) | [Liar](https://open.spotify.com/album/1kbcdOfwC0dFUOK2DmAWzj) | 4:57 | 2023-03-03 | 2023-05-13 |
 | [Like Steel](https://open.spotify.com/track/0zvp0m468qwkERmjMPnVfB) | [Esa Pethman](https://open.spotify.com/artist/19tCGRoeUzAegnBcvMfLZg) | [In Belgium 1967](https://open.spotify.com/album/7K7ZPq67v0pdmlyQXhr4ph) | 5:07 | 2022-09-22 |  |
+| [Little Rabbit](https://open.spotify.com/track/21fpqfJHEbFfndoFzCBAz0) | [Ultralum](https://open.spotify.com/artist/5y9zJGBHzsE8hDGGLO8FQV), [Tuomo](https://open.spotify.com/artist/3cZ3iH61r1E6iuupRwaGRL), [Timo Lassy](https://open.spotify.com/artist/12DkoR4cqoY6osVYHmsrAq), [Lauri Porra](https://open.spotify.com/artist/6PcS0mIfMV5JOY3NX2bkTn) | [Ultralum](https://open.spotify.com/album/6rF08IvdvgQymJVPQ8f9Cb) | 9:08 | 2023-05-18 |  |
 | [Lost in Marrakech Souk](https://open.spotify.com/track/5upMlh6OdTk0aG5x3OeYnA) | [Janne Huttunen](https://open.spotify.com/artist/2vnmi19CBiKUjsjyrLfyhA) | [Lost in Marrakech Souk](https://open.spotify.com/album/4sCJR6VSHWfVD7nnwInL0B) | 6:23 | 2023-03-29 | 2023-04-29 |
 | [Love and Maladies](https://open.spotify.com/track/5kHdEAX0zIB3DV2Yg8AsSy) | [Alder Ego](https://open.spotify.com/artist/5lnac6VXp2oB9RSmUFV67V), [Joonas Leppänen](https://open.spotify.com/artist/7tssiqMSglLWZRKPMFW3Fg), [Tomi Nikku](https://open.spotify.com/artist/4PePBixKLlpOaotcULtg7o), [Jarno Tikka](https://open.spotify.com/artist/5xFUZqOD0dGWFwF7cDdIzL), [Nathan Francis](https://open.spotify.com/artist/5jf2gBULW0kRu9YXQ0L6oL) | [III](https://open.spotify.com/album/2GmTfaTiwX055jsxaiKPuE) | 8:16 | 2022-09-02 | 2022-09-23 |
 | [Löyly](https://open.spotify.com/track/5PajsYtW5p4Ouut9qxesuZ) | [Teea Aarnio](https://open.spotify.com/artist/4OOpIlBLL7ldq83P15jkQM) | [Löyly](https://open.spotify.com/album/4rlRsxnaAZusRH6DtiLrQc) | 5:22 | 2023-03-29 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3jWba5xiDhV.md) - [plain]
 
 > When the dance floor calls your name, that's amore.
 
-[Spotify](https://open.spotify.com/user/spotify) - 119,360 likes - 75 songs - 6 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 119,776 likes - 75 songs - 6 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3jWba5xiDhV.md) - [plain]
 | 34 | [Dancer](https://open.spotify.com/track/4lteGaLzU5veJOe6wnOvz4) | [Gino Soccio](https://open.spotify.com/artist/3q2AjYY7FmiMh29bKki4EE) | [Outline](https://open.spotify.com/album/71NzsQgmjQ5rIm33Hpjv2V) | 8:28 |
 | 35 | [Testa](https://open.spotify.com/track/56HURNYEgiEE4g4Dnh4Zh0) | [Lorenzo\_BITW](https://open.spotify.com/artist/3Za28S9hIyeyGQmAk8d4FV) | [Testa / Caracalla Dub](https://open.spotify.com/album/1shKBzBkcXLzJcJszjI2fp) | 3:20 |
 | 36 | [Il veliero](https://open.spotify.com/track/1nAu4E9hsyhIDf8S192m68) | [Lucio Battisti](https://open.spotify.com/artist/2caOYPej26UoQOyFnzXW3G) | [Lucio Battisti, la batteria, il contrabbasso, eccetera](https://open.spotify.com/album/4Zegl0FIvsJD0nG7yJyHqd) | 5:59 |
-| 37 | [Tonight](https://open.spotify.com/track/6CTv5qKVvkxsvSRQfC6SjO) | [Suzy Q](https://open.spotify.com/artist/4chxVeRqRTbEAi1VtJa6vA) | [I Need You Tonight / Tonight](https://open.spotify.com/album/25RZ0JqMukSLQhdYsFpJ67) | 6:30 |
-| 38 | [Visitors](https://open.spotify.com/track/05ny0VoHFBDeqAxDRj77jn) | [Koto](https://open.spotify.com/artist/03Qx8J2OxTAGgZqZ4rnaB0) | [Greatest Hits &amp; Remixes](https://open.spotify.com/album/5Hpk5wBQIX2ClSSv7yLAfo) | 3:32 |
+| 37 | [Visitors](https://open.spotify.com/track/05ny0VoHFBDeqAxDRj77jn) | [Koto](https://open.spotify.com/artist/03Qx8J2OxTAGgZqZ4rnaB0) | [Greatest Hits &amp; Remixes](https://open.spotify.com/album/5Hpk5wBQIX2ClSSv7yLAfo) | 3:32 |
+| 38 | [Tonight](https://open.spotify.com/track/6CTv5qKVvkxsvSRQfC6SjO) | [Suzy Q](https://open.spotify.com/artist/4chxVeRqRTbEAi1VtJa6vA) | [I Need You Tonight / Tonight](https://open.spotify.com/album/25RZ0JqMukSLQhdYsFpJ67) | 6:30 |
 | 39 | [Pantalón](https://open.spotify.com/track/0eOUXa1w5m7roVWO0nj1ZF) | [Kornél Kovács](https://open.spotify.com/artist/0Ij7th9uWcDVYNAIOn5W22) | [Radio Koko](https://open.spotify.com/album/669LnrL7wSJOhiwQxRM8gT) | 4:21 |
 | 40 | [Barbara](https://open.spotify.com/track/7vJs8fgxF2ONlzaIApPadv) | [Enzo Carella](https://open.spotify.com/artist/5OJ0DNeHpHq7b6fHWRaPp9) | [Barbara e altri Carella](https://open.spotify.com/album/21F0EWtwLcajf9MFKn1Tdo) | 4:06 |
 | 41 | [The Voice of Q \- 12" Mix](https://open.spotify.com/track/4DoxBUKSlnZwe30Y23mGbH) | [Q](https://open.spotify.com/artist/1na8Q5qKP8amvDCoLkvhLD) | [The Voice of Q](https://open.spotify.com/album/6tKNLeKZ8UJyO7A5QG2wjF) | 5:16 |
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3jWba5xiDhV.md) - [plain]
 | 43 | [Take A Chance \- Original Mix](https://open.spotify.com/track/0lLqS6XnoLYJJXHj57h4jz) | [Mr\. Flagio](https://open.spotify.com/artist/1arUaR84JlrYFPAjZaBKSq) | [Take A Chance](https://open.spotify.com/album/0jFg1pE1m0257KL4hpzq2m) | 7:52 |
 | 44 | [Masterpiece](https://open.spotify.com/track/7vOs0UNehTDMera8uv6fXh) | [Gazebo](https://open.spotify.com/artist/1Tzu45aHnn0Xz4msfhHRW1) | [Viewpoint](https://open.spotify.com/album/2hGI6J931bSqHmpirIY9Fb) | 4:14 |
 | 45 | [For You \- Original Album](https://open.spotify.com/track/5if1vlzBKrpoE1hZ6bxw2C) | [Ago](https://open.spotify.com/artist/3tr79XZgYXoRoI5G49Zqbx) | [For You \(LP\)](https://open.spotify.com/album/3HaUzrq7HVsuVTmIIcsZ8n) | 5:53 |
-| 46 | [I Want You](https://open.spotify.com/track/34yg2BvpUtDP6VPmZYCP9x) | [Gary Low](https://open.spotify.com/artist/4MntnRuXrTyjMGt1RF0k8b) | [Gary Low: The Best of](https://open.spotify.com/album/4TS52eFZYJNOkRKnQ37Vt9) | 8:29 |
-| 47 | [Happy Song\(Clap Your Hands\) \(Remix\)](https://open.spotify.com/track/55QIoPBxFXVUydOz1OzB9B) | [Babys Gang](https://open.spotify.com/artist/3py6y6epZngSnsCHnCwQ7O) | [Challenger](https://open.spotify.com/album/6EnJDtzIBJPRrlk0bn4QT1) | 5:37 |
+| 46 | [Happy Song\(Clap Your Hands\) \(Remix\)](https://open.spotify.com/track/55QIoPBxFXVUydOz1OzB9B) | [Babys Gang](https://open.spotify.com/artist/3py6y6epZngSnsCHnCwQ7O) | [Challenger](https://open.spotify.com/album/6EnJDtzIBJPRrlk0bn4QT1) | 5:37 |
+| 47 | [I Want You](https://open.spotify.com/track/34yg2BvpUtDP6VPmZYCP9x) | [Gary Low](https://open.spotify.com/artist/4MntnRuXrTyjMGt1RF0k8b) | [Gary Low: The Best of](https://open.spotify.com/album/4TS52eFZYJNOkRKnQ37Vt9) | 8:29 |
 | 48 | [La vita nuova \- Daniele Baldelli & Marco Dionigi Remix](https://open.spotify.com/track/74U9pNsCSdKGwvDIKbG4FO) | [Christine and the Queens](https://open.spotify.com/artist/04vj3iPUiVh5melWr0w3xT), [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a), [Daniele Baldelli](https://open.spotify.com/artist/3NZuWa2TqpeGPWGISzX8E7), [Marco Dionigi](https://open.spotify.com/artist/4pUlhZQZrakwDmAbKNIb19) | [La vita nuova \(Remixes\)](https://open.spotify.com/album/0niVkAtTbU8eq1zpy3HzcT) | 6:25 |
 | 49 | [Morirò Per Te \- 2001 Remaster](https://open.spotify.com/track/6Q2gYxDdz165RwZXHCcyIy) | [Mina](https://open.spotify.com/artist/3HL1CyOnDLFJo1Rr8YBlKy) | [Italiana Vol\. 1](https://open.spotify.com/album/3v0KSycOqTxmNwyMhhrNOD) | 4:19 |
 | 50 | [Summer Time](https://open.spotify.com/track/62WcZBFubVa0rPqHwvFZ6K) | [Plastic Mode](https://open.spotify.com/artist/22bwmgMrfLg3IMcPs7vNMa) | [Plastic Mode](https://open.spotify.com/album/5ParFAecXuBEXXZOjtxOHx) | 3:55 |
@@ -80,8 +80,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3jWba5xiDhV.md) - [plain]
 | 70 | [Italo Amore \(Musumeci Edit\)](https://open.spotify.com/track/1xgwRZnFMa0JfV9m0qMAao) | [Lifelike](https://open.spotify.com/artist/3sa5sqxJqYjDZhGxmo4Ko5), [Alex Rossi](https://open.spotify.com/artist/080yEA10cGjDwnuXHFy1SU), [Musumeci](https://open.spotify.com/artist/5AezOTggHnFTiQ5AiowFBf) | [Future Disco: Visions of Love](https://open.spotify.com/album/2d2vxkPozwy5AIjqLnslJ4) | 7:27 |
 | 71 | [African Love Song](https://open.spotify.com/track/6fAKxZoefMTrnWEiBasNhJ) | [Gepy](https://open.spotify.com/artist/1BDX9PXYrNeqP1gJPhZmZB) | [Disco Italia EP](https://open.spotify.com/album/2BXanfr9DTGseIlsNTBXMj) | 6:44 |
 | 72 | [Automatic Dub](https://open.spotify.com/track/1vu5RVntahCOW5bdwdJRTV) | [Wolfram](https://open.spotify.com/artist/1oBQPdm35NiPSEWIx8Yl24) | [Automatic Dub 2](https://open.spotify.com/album/2gALEQAxbisVObFd0dfwwG) | 6:36 |
-| 73 | [I'm Going to Go \- Instrumental Plant Mix](https://open.spotify.com/track/0Y1s5ojSKEEgPeuGLo2yIO) | [Jago](https://open.spotify.com/artist/3ZepWYJPVpM1bTypDMG71K), [Frankye Knuckles](https://open.spotify.com/artist/6PHeBl4OsgdHhLd3WMwooH) | [I'm Going to Go](https://open.spotify.com/album/6X1BZaLm8zmZLN3JRRIh3v) | 8:35 |
-| 74 | [When I Let You Down \- Extended Mix](https://open.spotify.com/track/40DxZa2JmoJAHW45EJ15ju) | [M & G](https://open.spotify.com/artist/6Btez2XSYafSPd6FHi1oEe) | [When I Let You Down / Boogie Tonight](https://open.spotify.com/album/3rC5gRgxvzwScP6CbpURsb) | 6:06 |
-| 75 | [Baila Bolero \- Marc Hartman Remix](https://open.spotify.com/track/35FPjkNAkXdp8cXgh6gBfH) | [Fun Fun](https://open.spotify.com/artist/44NpcgfV0tBVBVNzmtUBhZ), [Marc Hartman](https://open.spotify.com/artist/2ACJgAEcjpSAqR2TyGluyS) | [Baila Bolero \(Marc Hartman Remix\)](https://open.spotify.com/album/0xC161DAv1bnh3s2zYTFo4) | 5:00 |
+| 73 | [Baila Bolero \- Marc Hartman Remix](https://open.spotify.com/track/35FPjkNAkXdp8cXgh6gBfH) | [Fun Fun](https://open.spotify.com/artist/44NpcgfV0tBVBVNzmtUBhZ), [Marc Hartman](https://open.spotify.com/artist/2ACJgAEcjpSAqR2TyGluyS) | [Baila Bolero \(Marc Hartman Remix\)](https://open.spotify.com/album/0xC161DAv1bnh3s2zYTFo4) | 5:00 |
+| 74 | [I'm Going to Go \- Instrumental Plant Mix](https://open.spotify.com/track/0Y1s5ojSKEEgPeuGLo2yIO) | [Jago](https://open.spotify.com/artist/3ZepWYJPVpM1bTypDMG71K), [Frankye Knuckles](https://open.spotify.com/artist/6PHeBl4OsgdHhLd3WMwooH) | [I'm Going to Go](https://open.spotify.com/album/6X1BZaLm8zmZLN3JRRIh3v) | 8:35 |
+| 75 | [When I Let You Down \- Extended Mix](https://open.spotify.com/track/40DxZa2JmoJAHW45EJ15ju) | [M & G](https://open.spotify.com/artist/6Btez2XSYafSPd6FHi1oEe) | [When I Let You Down / Boogie Tonight](https://open.spotify.com/album/3rC5gRgxvzwScP6CbpURsb) | 6:06 |
 
-Snapshot ID: `MCw5ZWY2YTQ2NzQ2MGY2NTdlN2ZjMzZjOWQ0MDAzOTg2MTAyYjlkYWQ5`
+Snapshot ID: `MCxkMjZmMzc2ZmQxNmQxNTk4Y2Y2ZGRmYzg3M2Q3NzIxY2U0YjkyZDYw`

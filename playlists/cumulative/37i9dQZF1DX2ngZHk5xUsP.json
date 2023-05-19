@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-26",
-  "description": "Ragam musik IDentitasku dari berbagai penjuru Jawa Barat. Cover: Noah",
+  "description": "Ragam musik IDentitasku dari berbagai penjuru Jawa Barat. Cover: Voice of Baceprot",
   "name": "Suara Dari Jawa Barat",
   "tracks": [
     {
@@ -1056,6 +1056,24 @@
       "duration_ms": 89065,
       "name": "Terlalu Bodoh Untuk Bandung",
       "url": "https://open.spotify.com/track/128R9AyKcPSkVn5oxt5L0M"
+    },
+    {
+      "album": {
+        "name": "The Enemy of Earth is You",
+        "url": "https://open.spotify.com/album/54hOsIViJLffkjUq8llfVB"
+      },
+      "artists": [
+        {
+          "name": "Voice of Baceprot",
+          "url": "https://open.spotify.com/artist/32rI2a65NqHEnTAewmPNEC"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215287,
+      "name": "The Enemy of Earth is You",
+      "url": "https://open.spotify.com/track/74eQ6hDcu2HB07q57aYvnm"
     },
     {
       "album": {

@@ -1,18 +1,18 @@
 {
   "description": "our favorite emo cowgirl Megan Moroney is taking over to celebrate her new album \"Lucky\" \ud83e\udd72",
-  "num_followers": 89838,
+  "num_followers": 90124,
   "original_name": "sad girl country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0ZGI2YWMzMDc5ZTk5NWMzYTAxMzJjNjkyYTJjMmI0NWJiNDNjNTY1",
+  "snapshot_id": "MCxmNmEwOTY3NTUxOTNiODJhMWE5MDE1NmY0MzQ4ZjVjNzE4NDgyYzdk",
   "tracks": [
     {
       "added_at": "2023-05-05 04:00:00",
       "album": {
-        "name": "Girl in the Mirror",
-        "url": "https://open.spotify.com/album/3pvp1aMU2i1lF6sFlsXV5J"
+        "name": "Lucky",
+        "url": "https://open.spotify.com/album/5DFed53ADZwnPOYuqoZJHK"
       },
       "artists": [
         {
@@ -22,7 +22,7 @@
       ],
       "duration_ms": 165099,
       "name": "Girl in the Mirror",
-      "url": "https://open.spotify.com/track/0qwSPLH0QyaMZlmJtsxNZ5"
+      "url": "https://open.spotify.com/track/6t0PM7tXvdqEHKYHtEDl5H"
     },
     {
       "added_at": "2023-05-05 04:00:00",
@@ -759,6 +759,22 @@
     {
       "added_at": "2023-05-05 04:00:00",
       "album": {
+        "name": "Love, Heartbreak, & Everything in Between",
+        "url": "https://open.spotify.com/album/1H7PmO9d4fsHghlYXDRlWG"
+      },
+      "artists": [
+        {
+          "name": "Tenille Arts",
+          "url": "https://open.spotify.com/artist/0gSAxSvAApQc71cTpoXDFu"
+        }
+      ],
+      "duration_ms": 188853,
+      "name": "I Hate This",
+      "url": "https://open.spotify.com/track/0VsDzurvIUoRNT4fIactL3"
+    },
+    {
+      "added_at": "2023-05-05 04:00:00",
+      "album": {
         "name": "Stronger",
         "url": "https://open.spotify.com/album/03WjhytqhNAvfJI5DeNZUO"
       },
@@ -787,22 +803,6 @@
       "duration_ms": 172586,
       "name": "Want It Again",
       "url": "https://open.spotify.com/track/3VvPREisNL7yBoePVbLbyZ"
-    },
-    {
-      "added_at": "2023-05-05 04:00:00",
-      "album": {
-        "name": "Love, Heartbreak, & Everything in Between",
-        "url": "https://open.spotify.com/album/1H7PmO9d4fsHghlYXDRlWG"
-      },
-      "artists": [
-        {
-          "name": "Tenille Arts",
-          "url": "https://open.spotify.com/artist/0gSAxSvAApQc71cTpoXDFu"
-        }
-      ],
-      "duration_ms": 188853,
-      "name": "I Hate This",
-      "url": "https://open.spotify.com/track/0VsDzurvIUoRNT4fIactL3"
     },
     {
       "added_at": "2023-05-05 04:00:00",

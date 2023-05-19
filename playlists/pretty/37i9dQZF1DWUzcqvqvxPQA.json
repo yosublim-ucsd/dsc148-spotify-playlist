@@ -1,12 +1,12 @@
 {
   "description": "Check out these inspired hits to keep your Summer fun and upbeat!",
-  "num_followers": 25368,
+  "num_followers": 25382,
   "original_name": "Rejoice for Summer",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwYzBmMjExOTdkMjk5ZWI1N2ZmNTMxYjlhZWUzMjk5ZjBhZTZjZDJh",
+  "snapshot_id": "MCw5YzI0NTkxYWE3YjIwNTcwNWJkMGUzODFjMWU0N2YyMmVlYzc1ZTFk",
   "tracks": [
     {
       "added_at": "2020-08-13 14:39:00",
@@ -1587,22 +1587,6 @@
     {
       "added_at": "2020-08-13 14:39:00",
       "album": {
-        "name": "Fearless",
-        "url": "https://open.spotify.com/album/3Da7uQ0supGljmcN9WERGY"
-      },
-      "artists": [
-        {
-          "name": "Jasmine Murray",
-          "url": "https://open.spotify.com/artist/3RsGHkHYZW0WkXcEf0CRdR"
-        }
-      ],
-      "duration_ms": 207893,
-      "name": "No Other Love",
-      "url": "https://open.spotify.com/track/6S6gRg1USprs9773Ew66ff"
-    },
-    {
-      "added_at": "2020-08-13 14:39:00",
-      "album": {
         "name": "Shattered",
         "url": "https://open.spotify.com/album/5rrpgUyAmIR68i3pSv5Uhm"
       },
@@ -1623,6 +1607,22 @@
     {
       "added_at": "2020-08-13 14:39:00",
       "album": {
+        "name": "Fearless",
+        "url": "https://open.spotify.com/album/3Da7uQ0supGljmcN9WERGY"
+      },
+      "artists": [
+        {
+          "name": "Jasmine Murray",
+          "url": "https://open.spotify.com/artist/3RsGHkHYZW0WkXcEf0CRdR"
+        }
+      ],
+      "duration_ms": 207893,
+      "name": "No Other Love",
+      "url": "https://open.spotify.com/track/6S6gRg1USprs9773Ew66ff"
+    },
+    {
+      "added_at": "2020-08-13 14:39:00",
+      "album": {
         "name": "Light of Your Grace",
         "url": "https://open.spotify.com/album/5sxF80CaSq5Y2buTMXx3eD"
       },
@@ -1635,6 +1635,26 @@
       "duration_ms": 189307,
       "name": "Light of Your Grace",
       "url": "https://open.spotify.com/track/0VjZsR8TQBaUn9f4tND4J6"
+    },
+    {
+      "added_at": "2020-08-13 14:39:00",
+      "album": {
+        "name": "The One",
+        "url": "https://open.spotify.com/album/0gj39YFZRHyyle5Z19z5bx"
+      },
+      "artists": [
+        {
+          "name": "Sajan Nauriyal",
+          "url": "https://open.spotify.com/artist/2gJudBgAFdkmKegrBl0yT6"
+        },
+        {
+          "name": "Licy-Be",
+          "url": "https://open.spotify.com/artist/7m7GQd520oNXZWZzcYDdVA"
+        }
+      ],
+      "duration_ms": 164832,
+      "name": "The One",
+      "url": "https://open.spotify.com/track/0YohiWDcWliS7bDrnjlXHp"
     },
     {
       "added_at": "2020-08-13 14:39:00",
@@ -1659,26 +1679,6 @@
       "duration_ms": 181446,
       "name": "Paid For It",
       "url": "https://open.spotify.com/track/012SkEI8fzg3pKAKNygn5c"
-    },
-    {
-      "added_at": "2020-08-13 14:39:00",
-      "album": {
-        "name": "The One",
-        "url": "https://open.spotify.com/album/0gj39YFZRHyyle5Z19z5bx"
-      },
-      "artists": [
-        {
-          "name": "Sajan Nauriyal",
-          "url": "https://open.spotify.com/artist/2gJudBgAFdkmKegrBl0yT6"
-        },
-        {
-          "name": "Licy-Be",
-          "url": "https://open.spotify.com/artist/7m7GQd520oNXZWZzcYDdVA"
-        }
-      ],
-      "duration_ms": 164832,
-      "name": "The One",
-      "url": "https://open.spotify.com/track/0YohiWDcWliS7bDrnjlXHp"
     },
     {
       "added_at": "2020-08-13 14:39:00",

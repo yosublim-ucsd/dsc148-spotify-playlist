@@ -4,7 +4,7 @@
 
 > Unwind to the best Indian classical sounds out there.
 
-162 songs - 15 hr 17 min
+163 songs - 15 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -105,6 +105,7 @@
 | [Night](https://open.spotify.com/track/5ucLyBlhHzKn2ZiAQwLOl7) | [Midival Punditz](https://open.spotify.com/artist/7GmnD2XZleQw8PPzRJV7FY) | [MIDIval PunditZ](https://open.spotify.com/album/4rSbNYZdPsBDGBK7Qrat7X) | 5:55 | 2022-07-12 |  |
 | [Nindiya Na Aaye](https://open.spotify.com/track/7ioAQhNCKwt4JyXLDQVLH1) | [Prathama Dey](https://open.spotify.com/artist/5EnfdD46Y3dkuPg30FQt5B), [Prajna Dutta](https://open.spotify.com/artist/4CFjungEFZLSKaGjl9su8I) | [Nindiya Na Aaye](https://open.spotify.com/album/0dO7G9X3n7psqVAmWjy8Hw) | 3:45 | 2022-05-17 |  |
 | [Nirvana](https://open.spotify.com/track/6AIMkgFs253hoN9dLa5NA6) | [SoundGuySam](https://open.spotify.com/artist/46kwfZuv8Zp5s1lmeOvjTw), [Vāhaka](https://open.spotify.com/artist/2fNCMrjJFeeQVLhdS4tE8m) | [Nirvana](https://open.spotify.com/album/0JqNvIfu12IkoCUVBWn9iN) | 3:00 | 2022-05-17 |  |
+| [O Saawariya](https://open.spotify.com/track/3wxmhcKTOnkBGTqZIeK40N) | [Mahimma Bhardwaj](https://open.spotify.com/artist/6dAjKwptPcekFHZXyPPZ8j), [Pamela Jain](https://open.spotify.com/artist/4BBdp811wrWrr1zk9dENUE), [Munawwar Ali](https://open.spotify.com/artist/7HWhz8vrvqKS77FjmXYmPY) | [O Saawariya](https://open.spotify.com/album/2WUjEIjJ2LZihGXmA1V6v8) | 3:29 | 2023-05-18 |  |
 | [One Family](https://open.spotify.com/track/6U4MqwWt8qkyLAZREUN2YN) | [Ricky Kej](https://open.spotify.com/artist/2pG6h1xYYv5j7fuxackcfl), [Siddhartha Belmannu](https://open.spotify.com/artist/0M0qOys6eONaDvSRKNwKWc), [Lonnie Park](https://open.spotify.com/artist/34fDpfsOWv8Z8r7A1goy8N), [Alexis D'souza](https://open.spotify.com/artist/33vRHKiT2D7oiHPwOeJLT5) | [One Family](https://open.spotify.com/album/783ROhokY1Rxp2LOiV5V71) | 4:00 | 2022-09-23 | 2022-11-13 |
 | [One Family \(Live\)](https://open.spotify.com/track/1jDSX9yXzRyvkZSlwsOBbg) | [Ricky Kej](https://open.spotify.com/artist/2pG6h1xYYv5j7fuxackcfl) | [Shiva \- Ricky Kej Live in India](https://open.spotify.com/album/6Pex7upO82T6FsWCXMBac6) | 4:00 | 2022-05-17 | 2022-09-04 |
 | [One Family \(Live\)](https://open.spotify.com/track/5H5BQEnXcHV349qCuwm5Gy) | [Ricky Kej](https://open.spotify.com/artist/2pG6h1xYYv5j7fuxackcfl) | [Shiva \- Ricky Kej Live in India](https://open.spotify.com/album/2nLzw4gKPSvjuubgf4NyaG) | 4:00 | 2022-07-12 | 2022-12-14 |
@@ -131,7 +132,7 @@
 | [Rasiya](https://open.spotify.com/track/3HFJPw9sU2Ks2290Rlt3tU) | [Advaita](https://open.spotify.com/artist/4FMduZvsMYM69TKN3i0YRp) | [World Music By Indian Maestros](https://open.spotify.com/album/4PBgCpCGwiiLE8xZrOdXH2) | 5:38 | 2022-05-17 | 2022-07-29 |
 | [Rasiya](https://open.spotify.com/track/4GdSydpo68O9XnTnnmSntO) | [Advaita](https://open.spotify.com/artist/4FMduZvsMYM69TKN3i0YRp) | [Grounded in Space](https://open.spotify.com/album/1yK7ntJYhALEey1VQTTrMw) | 5:38 | 2022-07-12 |  |
 | [Raske Bhare](https://open.spotify.com/track/6X0Hd6LY1qRcQB6zLlOnS4) | [Ivy Banerjee](https://open.spotify.com/artist/5s0Lihq2sOZmt9A39boaqC), [Anindita Ganguli](https://open.spotify.com/artist/71dORDZecKOG3BAexq2mgt) | [Raske Bhare](https://open.spotify.com/album/5Vyru5YcUnyFVX9wyopz1m) | 4:35 | 2022-12-09 | 2023-04-25 |
-| [Ratiya](https://open.spotify.com/track/6FPylA81QCbV7wxCZidFqs) | [Apratim Tripathi](https://open.spotify.com/artist/05T6fQJ1Zn4EtE8Jcn1RlY), [Rishav Tushar](https://open.spotify.com/artist/3SFMwegvRhEllDcmoe2GTl) | [Ratiya](https://open.spotify.com/album/7pQTz2ppS7KvmcZlAwOC3y) | 3:13 | 2023-03-15 |  |
+| [Ratiya](https://open.spotify.com/track/6FPylA81QCbV7wxCZidFqs) | [Apratim Tripathi](https://open.spotify.com/artist/05T6fQJ1Zn4EtE8Jcn1RlY), [Rishav Tushar](https://open.spotify.com/artist/3SFMwegvRhEllDcmoe2GTl) | [Ratiya](https://open.spotify.com/album/7pQTz2ppS7KvmcZlAwOC3y) | 3:13 | 2023-03-15 | 2023-05-19 |
 | [Ret Bhari](https://open.spotify.com/track/5vWcAAeT5OaAQqaBDB9IV9) | [Iman Chakraborty](https://open.spotify.com/artist/7gjiYwM6O5sNuYBaCdpCXA) | [Ret Bhari](https://open.spotify.com/album/48dyY2SbO1kwSeV5r1KFEy) | 4:38 | 2022-05-17 | 2022-12-10 |
 | [Rutho Na](https://open.spotify.com/track/7qELZM6FhIlVAXDY95fwCv) | [Aditya Anand](https://open.spotify.com/artist/6hc1L9rHE2P8j5pIss5sQz), [Priyani Vani Panditt](https://open.spotify.com/artist/3ZjqqgZQ6iRWu3YZYISLB8) | [Rutho Na](https://open.spotify.com/album/4RXQdMCTlB5HEw589BzYHy) | 3:20 | 2023-03-03 |  |
 | [Saanware](https://open.spotify.com/track/2RLpjKjWsT52aZ6VejuI1A) | [Santanu Ghatak](https://open.spotify.com/artist/0jlIoFaWiB1oBsWQ5ynbOF), [Aditi Paul](https://open.spotify.com/artist/0Es0q6Ck6CyyDjrWBqWkRc) | [Saanware](https://open.spotify.com/album/0hToTtwlTo3fbYCd1aE95L) | 3:48 | 2022-05-17 |  |

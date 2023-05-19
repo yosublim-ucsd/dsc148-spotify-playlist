@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX9UWDWb55Kk.md) - [plain]
 
 > Escucha la música de las seis temporadas de Élite.
 
-[Spotify](https://open.spotify.com/user/spotify) - 240,207 likes - 354 songs - 22 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 240,249 likes - 354 songs - 22 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -287,7 +287,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX9UWDWb55Kk.md) - [plain]
 | 277 | [Poison Lips](https://open.spotify.com/track/1NJ1jm3uNRrF4JZHpaX1CD) | [Vitalic](https://open.spotify.com/artist/4M84umUNRbZy1mJleyyRM9) | [Flashmob](https://open.spotify.com/album/2RlP2H89edcTGhVcpGPINj) | 3:54 |
 | 278 | [You Are Gold \(A Song for Pretty in Pink\)](https://open.spotify.com/track/5ugp0EWSi2V3Jhc3x2cVsg) | [Oblique](https://open.spotify.com/artist/4MpqCI0OBdO3g5kM9jbsOX), [Carlos Bayona](https://open.spotify.com/artist/1C131DlMXvTN7zLMkSheld) | [Stop the World \(A Song for Pretty in Pink\) \- EP](https://open.spotify.com/album/1GNYGnNd2p6EJS1gMPDfId) | 5:56 |
 | 279 | [Que Me Siga \(Malo\)](https://open.spotify.com/track/3tp88MGqFKSLfoieHOfbNC) | [Tom & Collins](https://open.spotify.com/artist/1XU5MjR4kex9BGyY4UMtta), [Elsa y Elmar](https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy) | [Que Me Siga \(Malo\)](https://open.spotify.com/album/6Bs9kozUMUa2Y6YAPgQ9XO) | 3:15 |
-| 280 | [Are You All Good?](https://open.spotify.com/track/7I5tV3ZQVLRav2PADoFbb9) | [breathe.](https://open.spotify.com/artist/6XrEYPg6rrQMV4GKabTxbE) | [Breathe.](https://open.spotify.com/album/5w5bwL9qRsIQn58XqVhzO5) | 3:11 |
+| 280 | [Are You All Good?](https://open.spotify.com/track/6bmoA5by5aXQp5hG8cRbyW) | [breathe.](https://open.spotify.com/artist/6XrEYPg6rrQMV4GKabTxbE) | [Breathe.](https://open.spotify.com/album/60GlIPJZ9E9mvH1SJCFCaa) | 3:11 |
 | 281 | [I'll Make It Worth Your While](https://open.spotify.com/track/1wGo4tlrH2cetJTDAJ42cu) | [Artificial Pleasure](https://open.spotify.com/artist/2cH1cbvFnoaO9xdYfVC7cc) | [The Bitter End](https://open.spotify.com/album/1DB8EkmT9xXa1vJD0xuiJl) | 3:16 |
 | 282 | [Drive Fast](https://open.spotify.com/track/2U64Suq6X37SGmb71QBu9c) | [Ed is Dead](https://open.spotify.com/artist/0OJDBEVyVuIvXG8rV0nw4w) | [Your Last 48 Hours](https://open.spotify.com/album/7e9EMgzQKVyC8eK4QC96d5) | 3:30 |
 | 283 | [Asking For Space](https://open.spotify.com/track/24MQ9ZoBuzh1C7NH6oZdDw) | [Galaxy Fingers](https://open.spotify.com/artist/6uyULpB0HuQu9Mb6mhzGEx) | [The Last Bastion Of Fox Quality](https://open.spotify.com/album/3ssLFkOUwL05HxuSJp4lAn) | 3:42 |
@@ -363,4 +363,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX9UWDWb55Kk.md) - [plain]
 | 353 | [Out Of Touch](https://open.spotify.com/track/3DgjbN7e2gppallutVbat6) | [CUT\_](https://open.spotify.com/artist/7HPVAGjCVDzP7xcNrkwgxL) | [A Small Group Of Individuals](https://open.spotify.com/album/5QQRlQ7JnXy6c7HNDWVibk) | 4:01 |
 | 354 | [Witch Hunt](https://open.spotify.com/track/5nTCnGR4NtI3yyOp66NuOI) | [HXXS](https://open.spotify.com/artist/4zBSDjtYyrLC99ot3LV8hF) | [MKDRONE](https://open.spotify.com/album/2NtylLjjafbzfoAOPOMsO1) | 3:57 |
 
-Snapshot ID: `MCxiM2E1NzA2M2I5YmY2Y2YwMDliZDkxYjBkYjRhNjUyNjY1OWRhYWJk`
+Snapshot ID: `MCwxNTVjODljYWJkMzE1MGY3NjI4MTYzZDRmNzYzYzgzODJjMDg3MzE0`

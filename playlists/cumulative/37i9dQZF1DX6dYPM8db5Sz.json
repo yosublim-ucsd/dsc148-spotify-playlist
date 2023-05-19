@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-10-01",
-  "description": "The best new indie music from South Africa and beyond. Cover: <a href=\"https://open.spotify.com/artist/5J9s2Y6roGagMAipTa5XqV?si=tZ_C8agGQ7iZ6D4-j0AOPw\">HONEYMOAN</a> ",
+  "description": "The best new indie music from South Africa and beyond. Cover: <a href=\"https://open.spotify.com/artist/4DCRHW4ITYEaA0qmW3PYJj?si=bjSNatAfS8iLzllFqCEkcw\">aboynamedblu</a> ",
   "name": "SAlt",
   "tracks": [
     {
@@ -612,7 +612,7 @@
       ],
       "date_added": "2023-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 245281,
       "name": "Borrow Trouble",
       "url": "https://open.spotify.com/track/461JI71P8eY2zUWAkyKs7b"
@@ -988,7 +988,7 @@
       ],
       "date_added": "2023-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 247280,
       "name": "Come In",
       "url": "https://open.spotify.com/track/34miboJFpjvXcByUVTWGpC"
@@ -1165,6 +1165,24 @@
     },
     {
       "album": {
+        "name": "Desert Boy",
+        "url": "https://open.spotify.com/album/2N3osDQPHUwz2okZCd2jPp"
+      },
+      "artists": [
+        {
+          "name": "Hugo Veldsman",
+          "url": "https://open.spotify.com/artist/6D6FPxaIzVMHVJULx2sa4z"
+        }
+      ],
+      "date_added": "2023-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224000,
+      "name": "Desert Boy",
+      "url": "https://open.spotify.com/track/3r41h1354JW7ObdWIAF53y"
+    },
+    {
+      "album": {
         "name": "Desert in your eyes",
         "url": "https://open.spotify.com/album/1Vmb5FuW6WzrdWQrKpMQiw"
       },
@@ -1252,7 +1270,7 @@
       ],
       "date_added": "2023-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 200270,
       "name": "Dizzy",
       "url": "https://open.spotify.com/track/3K2iZ52YBqQz2f2srcAixn"
@@ -1594,7 +1612,7 @@
       ],
       "date_added": "2023-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 215722,
       "name": "Finding Paradise",
       "url": "https://open.spotify.com/track/0fmegVXiAaQ2pGgKsZUEZB"
@@ -2164,7 +2182,7 @@
       ],
       "date_added": "2023-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 294189,
       "name": "House Song",
       "url": "https://open.spotify.com/track/1kr0XkYcWe2HTuCFN3BuGA"
@@ -2363,6 +2381,24 @@
     },
     {
       "album": {
+        "name": "Imposter Syndrome",
+        "url": "https://open.spotify.com/album/5BDhBY7tzqolWWrerYEWyC"
+      },
+      "artists": [
+        {
+          "name": "Alexis Silvestra",
+          "url": "https://open.spotify.com/artist/6H199k00mZXpsUzJI6yKdu"
+        }
+      ],
+      "date_added": "2023-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206564,
+      "name": "Imposter Syndrome",
+      "url": "https://open.spotify.com/track/2gx29KY6La3XADxsxnnOfR"
+    },
+    {
+      "album": {
         "name": "In My Dreams",
         "url": "https://open.spotify.com/album/2bE6cQW9HoGmHSX6MlxCDY"
       },
@@ -2536,7 +2572,7 @@
       ],
       "date_added": "2023-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 179191,
       "name": "Kaleidoscope",
       "url": "https://open.spotify.com/track/0kJqmEL3UbprAkBSFBdZY4"
@@ -2934,7 +2970,7 @@
       ],
       "date_added": "2023-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 125187,
       "name": "Meet Me There",
       "url": "https://open.spotify.com/track/6AyEEfEKvqUp54XyFsL70I"
@@ -2988,7 +3024,7 @@
       ],
       "date_added": "2023-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 281103,
       "name": "Midnight Fox",
       "url": "https://open.spotify.com/track/6fot9PD8atqMvbeeOhwamA"
@@ -3369,6 +3405,24 @@
     },
     {
       "album": {
+        "name": "Nothing Matters",
+        "url": "https://open.spotify.com/album/2YSFu2hX0S6fnXlaeqLhP3"
+      },
+      "artists": [
+        {
+          "name": "The Last Dinner Party",
+          "url": "https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s"
+        }
+      ],
+      "date_added": "2023-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181750,
+      "name": "Nothing Matters",
+      "url": "https://open.spotify.com/track/3p84R45PM75ngq8XRoe45o"
+    },
+    {
+      "album": {
         "name": "numb myself~",
         "url": "https://open.spotify.com/album/3VAgzyX2TMgS7TaofPtVKE"
       },
@@ -3423,6 +3477,24 @@
     },
     {
       "album": {
+        "name": "oh, him",
+        "url": "https://open.spotify.com/album/37kTqKCc62bTQo2SExnljj"
+      },
+      "artists": [
+        {
+          "name": "Wishpig",
+          "url": "https://open.spotify.com/artist/68ybmAQpXyAzHXOkexjYj3"
+        }
+      ],
+      "date_added": "2023-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235750,
+      "name": "oh, him",
+      "url": "https://open.spotify.com/track/1kGfsJh77SYUEU5UuE0NvW"
+    },
+    {
+      "album": {
         "name": "Meet me in the middle",
         "url": "https://open.spotify.com/album/2lAuCRSEVMgTmdlHFJKlEq"
       },
@@ -3434,7 +3506,7 @@
       ],
       "date_added": "2023-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 186367,
       "name": "Old Man",
       "url": "https://open.spotify.com/track/77krcHfId85O4se7W5HpTY"
@@ -3932,7 +4004,7 @@
       ],
       "date_added": "2023-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 216853,
       "name": "Rose-tinted",
       "url": "https://open.spotify.com/track/6etwIyuLOsMobfxRdCWuru"
@@ -4004,10 +4076,32 @@
       ],
       "date_added": "2023-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 181111,
       "name": "Run Run Run",
       "url": "https://open.spotify.com/track/73Qj3FlA796dDuekSjPu1V"
+    },
+    {
+      "album": {
+        "name": "Running out of Space",
+        "url": "https://open.spotify.com/album/5YRnzdrjCLYC7t401gZtN2"
+      },
+      "artists": [
+        {
+          "name": "Steve Umculo",
+          "url": "https://open.spotify.com/artist/5rnqlstQORnxg0odyfLw0B"
+        },
+        {
+          "name": "Kh\u00e0i",
+          "url": "https://open.spotify.com/artist/2vyvrgGf5M6a694OxTl2Em"
+        }
+      ],
+      "date_added": "2023-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185201,
+      "name": "Running out of Space",
+      "url": "https://open.spotify.com/track/64uhivFXf1iQQdqrwg10VD"
     },
     {
       "album": {
@@ -4058,7 +4152,7 @@
       ],
       "date_added": "2023-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 273935,
       "name": "Sally",
       "url": "https://open.spotify.com/track/0qFZubf0FS0xxropyslwYJ"
@@ -4130,7 +4224,7 @@
       ],
       "date_added": "2023-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 197779,
       "name": "Shelter",
       "url": "https://open.spotify.com/track/0hyTH8NRRQeaFjbfoktfnc"
@@ -4170,6 +4264,42 @@
       "duration_ms": 173800,
       "name": "Shortcuts",
       "url": "https://open.spotify.com/track/2JMysPffCAEIQd56mmYvBg"
+    },
+    {
+      "album": {
+        "name": "sierra",
+        "url": "https://open.spotify.com/album/2GRP5REBr7XdV9Tmj9IQ9C"
+      },
+      "artists": [
+        {
+          "name": "aboynamedblu",
+          "url": "https://open.spotify.com/artist/4DCRHW4ITYEaA0qmW3PYJj"
+        }
+      ],
+      "date_added": "2023-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198708,
+      "name": "sierra",
+      "url": "https://open.spotify.com/track/7L375GdPBSMwQvkcczGjvF"
+    },
+    {
+      "album": {
+        "name": "Bloom (Deluxe)",
+        "url": "https://open.spotify.com/album/3gMD4FPCdtg1fevIPwA5wP"
+      },
+      "artists": [
+        {
+          "name": "emerger",
+          "url": "https://open.spotify.com/artist/6RyGTscMqtqj8eP4mhxoY7"
+        }
+      ],
+      "date_added": "2023-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226000,
+      "name": "Silent Road",
+      "url": "https://open.spotify.com/track/6N7KuAAfu8XoR8mrCDDvSv"
     },
     {
       "album": {
@@ -4405,6 +4535,24 @@
     },
     {
       "album": {
+        "name": "Stay Strong",
+        "url": "https://open.spotify.com/album/67GYBpTEgbmXgtO6sATjBH"
+      },
+      "artists": [
+        {
+          "name": "Moahi",
+          "url": "https://open.spotify.com/artist/1cEbEpwes9nZ08ydjkdQh4"
+        }
+      ],
+      "date_added": "2023-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223673,
+      "name": "Stay Strong",
+      "url": "https://open.spotify.com/track/6ECc4KeITr0ck2IIQWpdkM"
+    },
+    {
+      "album": {
         "name": "Stereoscope",
         "url": "https://open.spotify.com/album/0e7E2Z3qltALEjHohVyJgC"
       },
@@ -4446,6 +4594,24 @@
       "duration_ms": 185546,
       "name": "streetlights",
       "url": "https://open.spotify.com/track/17QqOrzmlENNS0PFCyASiE"
+    },
+    {
+      "album": {
+        "name": "Sugar Candy Mountain",
+        "url": "https://open.spotify.com/album/7bBUURLyPlP61Ncy2EJMan"
+      },
+      "artists": [
+        {
+          "name": "BINX",
+          "url": "https://open.spotify.com/artist/1m6WCZzMnbe46bBTvbERQ0"
+        }
+      ],
+      "date_added": "2023-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147690,
+      "name": "Sugar Candy Mountain",
+      "url": "https://open.spotify.com/track/1eCvXu2HZcDCGexOOaqFpP"
     },
     {
       "album": {
@@ -4522,6 +4688,24 @@
       "duration_ms": 274337,
       "name": "Swim Back",
       "url": "https://open.spotify.com/track/5jOKm7AO3CYs79nRi03BIj"
+    },
+    {
+      "album": {
+        "name": "Take A Moment",
+        "url": "https://open.spotify.com/album/094V806M9aCaRlIRMAtBvD"
+      },
+      "artists": [
+        {
+          "name": "Jamie-Lee Sexton",
+          "url": "https://open.spotify.com/artist/07eoBavD6fEwbWUaHTcO3h"
+        }
+      ],
+      "date_added": "2023-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206013,
+      "name": "Take A Moment",
+      "url": "https://open.spotify.com/track/19EExmi6LOkYeR7NTqgGBD"
     },
     {
       "album": {
@@ -5019,6 +5203,24 @@
     },
     {
       "album": {
+        "name": "vibe again",
+        "url": "https://open.spotify.com/album/0UMQ4LF9e8BhSGXqOhSZ5x"
+      },
+      "artists": [
+        {
+          "name": "Ashwin Smith",
+          "url": "https://open.spotify.com/artist/21O1GLm7iw8np86CJ4hNtO"
+        }
+      ],
+      "date_added": "2023-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204922,
+      "name": "vibe again",
+      "url": "https://open.spotify.com/track/7FMAEHQZVoNetHntq0Rfbv"
+    },
+    {
+      "album": {
         "name": "Vonkel",
         "url": "https://open.spotify.com/album/0to1EOGNGl5DDev4nldVPX"
       },
@@ -5330,6 +5532,24 @@
       "duration_ms": 186456,
       "name": "Won't Let Me Go",
       "url": "https://open.spotify.com/track/1XTdnp2dFXtqZsVcCvR4vU"
+    },
+    {
+      "album": {
+        "name": "wonder eye",
+        "url": "https://open.spotify.com/album/0yz8JGvJBudW1KiQ392Tqa"
+      },
+      "artists": [
+        {
+          "name": "Little Moon",
+          "url": "https://open.spotify.com/artist/1sjo4z4OsaxPPsPiVnM0Jp"
+        }
+      ],
+      "date_added": "2023-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244531,
+      "name": "wonder eye",
+      "url": "https://open.spotify.com/track/37N7VOw3uyycrCbiB8cDIa"
     },
     {
       "album": {

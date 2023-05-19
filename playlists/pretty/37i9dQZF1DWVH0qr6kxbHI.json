@@ -1,12 +1,12 @@
 {
   "description": "Canciones inmortales, sentimientos a flor de piel y figuras gigantescas de nuestra m\u00fasica. Foto: Roc\u00edo Jurado",
-  "num_followers": 56329,
+  "num_followers": 56405,
   "original_name": "Reinas de la Canci\u00f3n Espa\u00f1ola",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4OWMwMjc1MTZhZmUzMzU2NmViYTY2N2I2ZTQxOWUxMTBlZWY0MTcy",
+  "snapshot_id": "MCw0MzljODcyMGYzZWE0OTQ0MmI1MDBmNjRhN2EzOTZhNjhhNDViY2Mx",
   "tracks": [
     {
       "added_at": "2022-11-03 23:00:00",
@@ -687,22 +687,6 @@
     {
       "added_at": "2022-11-03 23:00:00",
       "album": {
-        "name": "De siempre - Antolog\u00eda de las sevillanas Vol. 1",
-        "url": "https://open.spotify.com/album/28m2JE16jXiHf6z2Rqlj2R"
-      },
-      "artists": [
-        {
-          "name": "Maria Del Monte",
-          "url": "https://open.spotify.com/artist/1WUrbWXyKy3FNdiLuRhlwW"
-        }
-      ],
-      "duration_ms": 215626,
-      "name": "Y se amaron dos caballos",
-      "url": "https://open.spotify.com/track/2VD2r9lDh1FgaoBI0H2K5Z"
-    },
-    {
-      "added_at": "2022-11-03 23:00:00",
-      "album": {
         "name": "Grandes exitos",
         "url": "https://open.spotify.com/album/5QUmSZfBRoQbxCgGKCkTEP"
       },
@@ -715,6 +699,22 @@
       "duration_ms": 240200,
       "name": "Sarandonga",
       "url": "https://open.spotify.com/track/5zyYWk0NT25VIpcvg1OJ53"
+    },
+    {
+      "added_at": "2022-11-03 23:00:00",
+      "album": {
+        "name": "De siempre - Antolog\u00eda de las sevillanas Vol. 1",
+        "url": "https://open.spotify.com/album/28m2JE16jXiHf6z2Rqlj2R"
+      },
+      "artists": [
+        {
+          "name": "Maria Del Monte",
+          "url": "https://open.spotify.com/artist/1WUrbWXyKy3FNdiLuRhlwW"
+        }
+      ],
+      "duration_ms": 215626,
+      "name": "Y se amaron dos caballos",
+      "url": "https://open.spotify.com/track/2VD2r9lDh1FgaoBI0H2K5Z"
     },
     {
       "added_at": "2022-11-03 23:00:00",
@@ -955,8 +955,8 @@
     {
       "added_at": "2022-11-03 23:00:00",
       "album": {
-        "name": "La Violetera (Remastered)",
-        "url": "https://open.spotify.com/album/47V6DnBwIyOfoGKJRmfEMJ"
+        "name": "The Ultimate Collection",
+        "url": "https://open.spotify.com/album/3Sw6xkIaBH2eZtU727ONHX"
       },
       "artists": [
         {
@@ -964,9 +964,9 @@
           "url": "https://open.spotify.com/artist/4wQ4PEx8pDp2f0wpsvaSDF"
         }
       ],
-      "duration_ms": 222125,
-      "name": "La Violetera - Remastered",
-      "url": "https://open.spotify.com/track/7cUYlqeqJRM8OepKCQIRmL"
+      "duration_ms": 163693,
+      "name": "Quizas, Quizas, Quizas",
+      "url": "https://open.spotify.com/track/1dbVT7RwxBekrWJ0UrPDZb"
     },
     {
       "added_at": "2022-11-03 23:00:00",
@@ -1111,8 +1111,8 @@
     {
       "added_at": "2022-11-03 23:00:00",
       "album": {
-        "name": "The Ultimate Collection",
-        "url": "https://open.spotify.com/album/3Sw6xkIaBH2eZtU727ONHX"
+        "name": "La Violetera (Remastered)",
+        "url": "https://open.spotify.com/album/47V6DnBwIyOfoGKJRmfEMJ"
       },
       "artists": [
         {
@@ -1120,9 +1120,9 @@
           "url": "https://open.spotify.com/artist/4wQ4PEx8pDp2f0wpsvaSDF"
         }
       ],
-      "duration_ms": 163693,
-      "name": "Quizas, Quizas, Quizas",
-      "url": "https://open.spotify.com/track/1dbVT7RwxBekrWJ0UrPDZb"
+      "duration_ms": 222125,
+      "name": "La Violetera - Remastered",
+      "url": "https://open.spotify.com/track/7cUYlqeqJRM8OepKCQIRmL"
     },
     {
       "added_at": "2022-11-03 23:00:00",

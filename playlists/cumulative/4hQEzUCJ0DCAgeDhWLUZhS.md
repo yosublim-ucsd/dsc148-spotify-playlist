@@ -4,7 +4,7 @@
 
 > GUITARS\. BASS\. DRUMS\. That's all you need really\. Plugged In featured the latest and greatest rock, alternative, and metal coming out of Australia and around the world\. Cover: All Time Low
 
-368 songs - 21 hr 53 min
+374 songs - 22 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,6 +35,7 @@
 | [Berrara](https://open.spotify.com/track/30N0hxlLlqc7DR6lqbcXUC) | [TOTTY](https://open.spotify.com/artist/5tOshqnaM41LBDj4eqANGf) | [Berrara](https://open.spotify.com/album/4FxznnLU3L7sjFH2K4eqOX) | 3:04 | 2020-11-03 | 2022-03-18 |
 | [Better](https://open.spotify.com/track/4JUMmZMufX0kLRMzRPi4Qv) | [Pandamic](https://open.spotify.com/artist/6Pz9ks8oUASukNF4ZzMWKX) | [How To Be Happy](https://open.spotify.com/album/0BuV0XxIG1VOQQYkc7ksZz) | 4:15 | 2021-10-29 |  |
 | [Better Days](https://open.spotify.com/track/5tarIM9VB3BpdIkNrZ3rt1) | [Liam Gallagher](https://open.spotify.com/artist/6sN51vEARnAAdBw1IKZ8Q9) | [Better Days](https://open.spotify.com/album/69pEA76PQuoWNb3GQyixD9) | 4:19 | 2022-04-22 |  |
+| [Beyond](https://open.spotify.com/track/3d06hZGFolrTyh6b0CNmlT) | [Corey Taylor](https://open.spotify.com/artist/0nhDd1RWjZ6SDV1Vg1Ku2Q) | [Beyond](https://open.spotify.com/album/2kSlibngBZgGOUGIdcuSg5) | 4:17 | 2023-05-19 |  |
 | [Big Legged Woman](https://open.spotify.com/track/6Z56jgvXSif8xOjqsSdlaR) | [Black Stone Cherry](https://open.spotify.com/artist/6WMo39FU3nrpSz3qMgRKug) | [Black to Blues, Vol\. 2](https://open.spotify.com/album/20b2c8edlkYwXezzTl96Vn) | 4:39 | 2020-10-10\* | 2021-02-25 |
 | [Black Bull](https://open.spotify.com/track/14PVSmvbws1BrJynbTCJB7) | [Foals](https://open.spotify.com/artist/6FQqZYVfTNQ1pCqfkwVFEa) | [Black Bull](https://open.spotify.com/album/5jnW68gaF2SWL27bRIkq0I) | 3:07 | 2020-10-10\* | 2021-02-25 |
 | [Black Chandelier](https://open.spotify.com/track/1Lilehka5GXo4nt7LrH0Ae) | [Biffy Clyro](https://open.spotify.com/artist/1km0R7wy712AzLkA1WjKET) | [Opposites](https://open.spotify.com/album/3oGG66OOobRoldGzZjI31P) | 4:04 | 2020-10-10\* | 2021-02-25 |
@@ -201,6 +202,7 @@
 | [Love It When You Hate Me \(feat\. blackbear\)](https://open.spotify.com/track/4jUAn4mBt4LBsRREJkeCSr) | [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j), [blackbear](https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM) | [Love It When You Hate Me \(feat\. blackbear\)](https://open.spotify.com/album/3cuSVzKoXVeinRaL2RAXH0) | 2:25 | 2022-01-14 |  |
 | [Love's Gone Bad](https://open.spotify.com/track/2e5eb5o3p22fvSE2NPVK9c) | [The Jaded Hearts Club](https://open.spotify.com/artist/7qZ3cinlwpZtJpylqOLFCA), [Miles Kane](https://open.spotify.com/artist/3M0H4efyA5YcijrKlaKbYn) | [Love's Gone Bad](https://open.spotify.com/album/2xHkm2OzBEhf3tq8SdollZ) | 3:10 | 2020-10-10\* | 2022-03-18 |
 | [Low Season](https://open.spotify.com/track/2tH3benptXyVroFD3ePCcO) | [Higher Power](https://open.spotify.com/artist/6yv0Vd63iiAaW4665Cs9vT) | [Low Season](https://open.spotify.com/album/4WdJnzEmF2VOuT9eGb2EVX) | 2:37 | 2020-10-10\* | 2021-02-25 |
+| [Mallee](https://open.spotify.com/track/1nNvzRI2E2JfziIGr7OrOZ) | [Bad//Dreems](https://open.spotify.com/artist/54f24706ua34STMhWSzPV7) | [HOO HA!](https://open.spotify.com/album/4STUIFltg49FBI3Glq7flx) | 4:20 | 2023-05-19 |  |
 | [Mansfield 6.0](https://open.spotify.com/track/5lBloZxmRMfkZT8BA7i4CG) | [Bad//Dreems](https://open.spotify.com/artist/54f24706ua34STMhWSzPV7) | [Mansfield 6.0](https://open.spotify.com/album/4r9gSmwn17jFSZcqcnCyXJ) | 3:18 | 2022-08-05 |  |
 | [Many of Horror](https://open.spotify.com/track/1auUyL63z3sWnBhooTnz31) | [Biffy Clyro](https://open.spotify.com/artist/1km0R7wy712AzLkA1WjKET) | [Only Revolutions](https://open.spotify.com/album/6Ch5ZsoMxpy5Ef2i4mGILh) | 4:18 | 2020-10-10\* | 2021-02-25 |
 | [Meet Me on the Roof](https://open.spotify.com/track/3YCUPKddcFr4s6iL4mj6Xy) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Father of All...](https://open.spotify.com/album/7ij8wQxCAexZiXZbMOHcxE) | 2:39 | 2020-10-10\* | 2021-05-13 |
@@ -222,6 +224,7 @@
 | [My Way](https://open.spotify.com/track/7mtnay1VGQQbtOM70HYsV0) | [PVRIS](https://open.spotify.com/artist/6oFs3qk4VepIVFdoD4jmsy) | [My Way](https://open.spotify.com/album/3n33udd6pKEdrzahdYzii0) | 2:44 | 2021-10-22 |  |
 | [Nerve 2 Reverse](https://open.spotify.com/track/6763lJFLsIJOppwlzL7p7J) | [These New South Whales](https://open.spotify.com/artist/0srVTNI2U8J7vytCTprEk4) | [Nerve 2 Reverse](https://open.spotify.com/album/4capxiC9Eii5mA9tdmrcfP) | 2:06 | 2020-10-10\* | 2021-02-25 |
 | [Never Ending Game](https://open.spotify.com/track/6vs9JxGlmVZb2OKMpKTkMc) | [Angel Du$t](https://open.spotify.com/artist/2ynylCO9SRPTKjgNEH0Y2a) | [Lil House](https://open.spotify.com/album/3ScexrVTPWJiGP8rCAGccD) | 2:47 | 2021-02-25 | 2022-03-18 |
+| [Never The One](https://open.spotify.com/track/5RoJWqg54tmuiIuw2aJmrE) | [Ocean Sleeper](https://open.spotify.com/artist/04LbaB3D3XOMbfPnWmObAi) | [Never The One](https://open.spotify.com/album/11TI3AJR7ghonSEu94YsLm) | 4:13 | 2023-05-19 |  |
 | [New Breeze](https://open.spotify.com/track/6M4hZYuvsYSndZq2xsugPW) | [Bad//Dreems](https://open.spotify.com/artist/54f24706ua34STMhWSzPV7) | [New Breeze](https://open.spotify.com/album/1eCcspXtHzkUc7AQEJHESe) | 3:04 | 2023-04-14 |  |
 | [nightmare](https://open.spotify.com/track/6xMTyQjHmwrufXT6W7VyCr) | [nothing,nowhere.](https://open.spotify.com/artist/7FngGIEGgN3Iwauw1MvO4P) | [nightmare](https://open.spotify.com/album/5b0b5rlf8IaXxGuUrxiFn2) | 2:54 | 2020-10-10\* | 2021-05-13 |
 | [No Eyes](https://open.spotify.com/track/32ABbnhfN5EYv24raxYXBg) | [AFI](https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz) | [Bodies](https://open.spotify.com/album/4yDfXqB2zuv6bcGYgXBUzP) | 3:33 | 2021-06-12 |  |
@@ -275,6 +278,7 @@
 | [Shadowland](https://open.spotify.com/track/1l3elIbQWyMArfxbIXM6uB) | [Tumbleweed](https://open.spotify.com/artist/2w4WMdg6Y7KE43OebGxO1r) | [Shadowland](https://open.spotify.com/album/5scdC0iQINKXXSwqwHTyVi) | 5:21 | 2020-10-16 | 2022-03-18 |
 | [She Couldn't](https://open.spotify.com/track/11LguGpEjOklkNQr70nrHQ) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [She Couldn't](https://open.spotify.com/album/43tjeef8lVwnRffkZY0uQp) | 5:05 | 2020-10-10\* | 2022-03-18 |
 | [Shockwave](https://open.spotify.com/track/2UnqgtIfVMfZOvCDGZuUMI) | [Liam Gallagher](https://open.spotify.com/artist/6sN51vEARnAAdBw1IKZ8Q9) | [Shockwave](https://open.spotify.com/album/7hK48vJsNdxAT9hLwpWsAd) | 3:31 | 2020-10-10\* | 2021-02-25 |
+| [Should I](https://open.spotify.com/track/7pB8DoQuLCT6IbgSCXAmhG) | [Sir Chloe](https://open.spotify.com/artist/6rniTPs9zN26kYnkPdFl1U) | [I Am The Dog](https://open.spotify.com/album/0RjsbmAOQzWOq3fxQ002rX) | 2:28 | 2023-05-19 |  |
 | [Show Me Your God](https://open.spotify.com/track/049eMbPucZ3Acq6r3aQkvz) | [The Amity Affliction](https://open.spotify.com/artist/6kNKUYGn6VNGsRoXmyoDPK) | [Show Me Your God](https://open.spotify.com/album/3AM7lcG3bkYL8FPtXlhReq) | 3:37 | 2022-12-09 |  |
 | [Shut It Down](https://open.spotify.com/track/4tRR0oqkIFjs39wC5cAuK6) | [Neil Young](https://open.spotify.com/artist/6v8FB84lnmJs434UJf2Mrm), [Crazy Horse](https://open.spotify.com/artist/0oi7g8NUnlLh5tJvg2y5e3) | [Colorado](https://open.spotify.com/album/47EbZp22zR6rGhKJJsuZBv) | 3:44 | 2020-10-10\* | 2021-02-25 |
 | [Shy Away](https://open.spotify.com/track/2z0IupRlVRlDN5r2IVqHyN) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [Shy Away](https://open.spotify.com/album/4JFHfIYCtka66G0izGrJhz) | 2:55 | 2021-04-13 | 2022-03-18 |
@@ -286,6 +290,7 @@
 | [Skinny](https://open.spotify.com/track/08CVVZ9HYOXzPRAIV0w8nq) | [KALEO](https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc) | [Skinny](https://open.spotify.com/album/4B4UxXtd4JaYNtaAN6ZNEQ) | 3:42 | 2021-04-06 | 2022-03-18 |
 | [Sleeping In](https://open.spotify.com/track/402Ecma69MRxeQK6ml6YbI) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [Wake Up, Sunshine](https://open.spotify.com/album/1kwAv74rVTTGMpawGsXtiE) | 3:00 | 2021-02-25 | 2022-03-18 |
 | [Sleepwalking](https://open.spotify.com/track/4SOtTsuFYYlkOOvXMbroUv) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [Sleepwalking](https://open.spotify.com/album/4bI5LF5zauGsBIL9z8mLyl) | 3:07 | 2022-10-07 |  |
+| [So Cool](https://open.spotify.com/track/3LOWhH3yqYRd37EbYKIXL1) | [Great Gable](https://open.spotify.com/artist/1jZfA0AdL9iA5PPLwoVvy1) | [Read The Room](https://open.spotify.com/album/5NqfV2apntQO69Pri6b5xU) | 3:05 | 2023-05-19 |  |
 | [So Far, So Close](https://open.spotify.com/track/3GfoE5xAQx8QnUHEtxbMy7) | [Weta](https://open.spotify.com/artist/2AsaDvs6UY4MJ4X3UQeUbu) | [So Far, So Close](https://open.spotify.com/album/3kjBRkDsQxLSIDjmEG9pXD) | 4:32 | 2020-11-27 | 2022-03-18 |
 | [So Happy It Hurts](https://open.spotify.com/track/13rKI4xThtXQtlTBnuIXPj) | [Bryan Adams](https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc) | [So Happy It Hurts](https://open.spotify.com/album/6kTdIgZ2K6qbXZALyrO88K) | 3:35 | 2021-10-15 |  |
 | [Soak Me In Bleach](https://open.spotify.com/track/4927jsYJiZcGouh4sRZaTn) | [The Amity Affliction](https://open.spotify.com/artist/6kNKUYGn6VNGsRoXmyoDPK) | [Soak Me In Bleach](https://open.spotify.com/album/6fqIdYnvXHJ4fpy6YRVRkI) | 3:45 | 2020-10-10\* | 2021-05-13 |
@@ -319,6 +324,7 @@
 | [The Girls Are Fighting \- Edit](https://open.spotify.com/track/7F1dxj9sEAHy4SsGIHARGq) | [Bloc Party](https://open.spotify.com/artist/3MM8mtgFzaEJsqbjZBSsHJ) | [The Girls Are Fighting](https://open.spotify.com/album/3xt9SJ3g3ieRV3C2Om8Mws) | 3:01 | 2022-02-04 |  |
 | [The Knack](https://open.spotify.com/track/46NgqjSNoXMZEtmJyoeA97) | [Mother Mother](https://open.spotify.com/artist/0e86yPdC41PGRkLp2Q1Bph) | [Inside](https://open.spotify.com/album/4v0i8VJOxYxngmADCFvi6o) | 2:59 | 2021-07-01 |  |
 | [The Loneliest Girl In The World](https://open.spotify.com/track/4KllPRafNDAYc3c3UHzj0u) | [PG Roxette](https://open.spotify.com/artist/3k87PFuum7Sv7zzjw7BMIg), [Roxette](https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY), [Per Gessle](https://open.spotify.com/artist/5pFJ8lLOUnyEaNrrf7D1KK) | [The Loneliest Girl In The World](https://open.spotify.com/album/7mxXN1jc04KAdUiGEU3l1E) | 3:01 | 2022-06-03 |  |
+| [The Narcissist](https://open.spotify.com/track/35d93v9AXADp8Wc0qJ3mIo) | [Blur](https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS) | [The Narcissist](https://open.spotify.com/album/2BfpnbY3M0oc9NyW87NKGz) | 4:05 | 2023-05-19 |  |
 | [The News](https://open.spotify.com/track/02oTRx0v3GloOe5VJZgjC7) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [The News](https://open.spotify.com/album/6Qc7G45dQ8rA91IbPrTUFR) | 3:07 | 2022-12-09 |  |
 | [The Pot](https://open.spotify.com/track/1lATXTBJDHwawvT1UfxWu3) | [TOOL](https://open.spotify.com/artist/2yEwvVSSSUkcLeSTNyHKh8) | [10,000 Days](https://open.spotify.com/album/1fvWYcbjuycyHpzNPH1Vfk) | 6:21 | 2020-10-10\* | 2021-02-25 |
 | [The Present is a Foreign Land](https://open.spotify.com/track/41By7rJLga2kJTkHA9CDIq) | [Deaf Havana](https://open.spotify.com/artist/0exhrQcReCdr11oPbOh22M) | [The Present is a Foreign Land](https://open.spotify.com/album/4KFSqMqYLlO8PVW32PO5rS) | 4:14 | 2022-07-15 |  |

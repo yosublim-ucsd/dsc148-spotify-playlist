@@ -1,12 +1,12 @@
 {
   "description": "The softer side of dance.",
-  "num_followers": 450042,
+  "num_followers": 450695,
   "original_name": "Chilled Dance Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlMGQxYzAwNDQ0NDU0ZTQ2NWU3NjUyZDhmMDc4NmY0OGU3OGY0NmU0",
+  "snapshot_id": "MCw4MTRiMmU4OGM0M2MyMDI5M2ZlZDE0YmJhZmRiYTQ5MzkwMzBhZDcx",
   "tracks": [
     {
       "added_at": "2022-01-18 14:54:04",
@@ -275,26 +275,6 @@
     {
       "added_at": "2022-01-18 14:54:04",
       "album": {
-        "name": "When The Lights Go Down",
-        "url": "https://open.spotify.com/album/58QMygeIUrtywKMkasnDUk"
-      },
-      "artists": [
-        {
-          "name": "Matt Simons",
-          "url": "https://open.spotify.com/artist/1g0fXhQMHAxlRyIBkCbuE7"
-        },
-        {
-          "name": "Deepend",
-          "url": "https://open.spotify.com/artist/0uGApGjjFXKwUOAqYBeX7B"
-        }
-      ],
-      "duration_ms": 195173,
-      "name": "Catch & Release - Deepend Remix",
-      "url": "https://open.spotify.com/track/11BAVEGi1ivJ6JWLqKUNrZ"
-    },
-    {
-      "added_at": "2022-01-18 14:54:04",
-      "album": {
         "name": "Faded",
         "url": "https://open.spotify.com/album/5HMjpBO0v78ayq5lreAyDd"
       },
@@ -327,6 +307,26 @@
       "duration_ms": 241874,
       "name": "Tuesday (feat. Danelle Sandoval)",
       "url": "https://open.spotify.com/track/7EVk9tRb6beJLTHrg6AkY9"
+    },
+    {
+      "added_at": "2022-01-18 14:54:04",
+      "album": {
+        "name": "When The Lights Go Down",
+        "url": "https://open.spotify.com/album/58QMygeIUrtywKMkasnDUk"
+      },
+      "artists": [
+        {
+          "name": "Matt Simons",
+          "url": "https://open.spotify.com/artist/1g0fXhQMHAxlRyIBkCbuE7"
+        },
+        {
+          "name": "Deepend",
+          "url": "https://open.spotify.com/artist/0uGApGjjFXKwUOAqYBeX7B"
+        }
+      ],
+      "duration_ms": 195173,
+      "name": "Catch & Release - Deepend Remix",
+      "url": "https://open.spotify.com/track/11BAVEGi1ivJ6JWLqKUNrZ"
     },
     {
       "added_at": "2022-01-18 14:54:04",
@@ -979,22 +979,18 @@
     {
       "added_at": "2022-01-18 14:54:04",
       "album": {
-        "name": "Talk About It",
-        "url": "https://open.spotify.com/album/1FpT2UrL4Fa69ORtdGqEfW"
+        "name": "GALLERY",
+        "url": "https://open.spotify.com/album/2FNk380jCQyICbwtkOdEHE"
       },
       "artists": [
         {
-          "name": "Mike Perry",
-          "url": "https://open.spotify.com/artist/6lB8vOoI4DRrrVxXwuV19c"
-        },
-        {
-          "name": "Hot Shade",
-          "url": "https://open.spotify.com/artist/3GtCKJA4SkOxN65MWjm82R"
+          "name": "A R I Z O N A",
+          "url": "https://open.spotify.com/artist/7hOGhpa8RMSuDOWntGIAJt"
         }
       ],
-      "duration_ms": 164536,
-      "name": "Talk About It",
-      "url": "https://open.spotify.com/track/68CwDQwKXMYLBLWI8ZfRMG"
+      "duration_ms": 194013,
+      "name": "Oceans Away",
+      "url": "https://open.spotify.com/track/6A8dnC0xkiuWN4BshmTB2I"
     },
     {
       "added_at": "2022-01-18 14:54:04",
@@ -1015,18 +1011,22 @@
     {
       "added_at": "2022-01-18 14:54:04",
       "album": {
-        "name": "GALLERY",
-        "url": "https://open.spotify.com/album/2FNk380jCQyICbwtkOdEHE"
+        "name": "Talk About It",
+        "url": "https://open.spotify.com/album/1FpT2UrL4Fa69ORtdGqEfW"
       },
       "artists": [
         {
-          "name": "A R I Z O N A",
-          "url": "https://open.spotify.com/artist/7hOGhpa8RMSuDOWntGIAJt"
+          "name": "Mike Perry",
+          "url": "https://open.spotify.com/artist/6lB8vOoI4DRrrVxXwuV19c"
+        },
+        {
+          "name": "Hot Shade",
+          "url": "https://open.spotify.com/artist/3GtCKJA4SkOxN65MWjm82R"
         }
       ],
-      "duration_ms": 194013,
-      "name": "Oceans Away",
-      "url": "https://open.spotify.com/track/6A8dnC0xkiuWN4BshmTB2I"
+      "duration_ms": 164536,
+      "name": "Talk About It",
+      "url": "https://open.spotify.com/track/68CwDQwKXMYLBLWI8ZfRMG"
     },
     {
       "added_at": "2022-01-18 14:54:04",
@@ -2035,26 +2035,6 @@
     {
       "added_at": "2022-01-18 14:54:04",
       "album": {
-        "name": "Cloud Nine",
-        "url": "https://open.spotify.com/album/0uMIzWh1uEpHEBell4rlF8"
-      },
-      "artists": [
-        {
-          "name": "Kygo",
-          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
-        },
-        {
-          "name": "Maty Noyes",
-          "url": "https://open.spotify.com/artist/5JSXWmQO8csVUy6hSRu8TA"
-        }
-      ],
-      "duration_ms": 239465,
-      "name": "Stay (feat. Maty Noyes)",
-      "url": "https://open.spotify.com/track/2FiSTH0GYpIioUgjfzMIja"
-    },
-    {
-      "added_at": "2022-01-18 14:54:04",
-      "album": {
         "name": "Here for You (feat. Ella Henderson)",
         "url": "https://open.spotify.com/album/6HnspnDTGO0iGliX6OuCTd"
       },
@@ -2071,6 +2051,26 @@
       "duration_ms": 244510,
       "name": "Here for You (feat. Ella Henderson)",
       "url": "https://open.spotify.com/track/7vqUr6K2Js9Paq4kdNSOm6"
+    },
+    {
+      "added_at": "2022-01-18 14:54:04",
+      "album": {
+        "name": "Cloud Nine",
+        "url": "https://open.spotify.com/album/0uMIzWh1uEpHEBell4rlF8"
+      },
+      "artists": [
+        {
+          "name": "Kygo",
+          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
+        },
+        {
+          "name": "Maty Noyes",
+          "url": "https://open.spotify.com/artist/5JSXWmQO8csVUy6hSRu8TA"
+        }
+      ],
+      "duration_ms": 239465,
+      "name": "Stay (feat. Maty Noyes)",
+      "url": "https://open.spotify.com/track/2FiSTH0GYpIioUgjfzMIja"
     },
     {
       "added_at": "2022-01-18 14:54:04",

@@ -1,12 +1,12 @@
 {
   "description": "Male artists singing about love.",
-  "num_followers": 719848,
+  "num_followers": 720156,
   "original_name": "In the Arms of a Woman",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyNDhiMmQ0ZDhjMmVkMWYzOWU3MDM5NGFjMjAzNjlkODcyMWU5OTMy",
+  "snapshot_id": "MCw0MjA0MmQ0YWZmYzhlZDIxYzcxMDRjYWE3ZGE5OTdjNjYxYWNiYWZm",
   "tracks": [
     {
       "added_at": "2022-08-26 12:00:00",
@@ -229,7 +229,7 @@
         }
       ],
       "duration_ms": 295515,
-      "name": "With Or Without You - Remastered",
+      "name": "With Or Without You",
       "url": "https://open.spotify.com/track/6ADSaE87h8Y3lccZlBJdXH"
     },
     {
@@ -667,22 +667,6 @@
     {
       "added_at": "2022-08-26 12:00:00",
       "album": {
-        "name": "Sweet Baby James (2019 Remaster)",
-        "url": "https://open.spotify.com/album/1HiG0ukRmFPN13EVcf98Jx"
-      },
-      "artists": [
-        {
-          "name": "James Taylor",
-          "url": "https://open.spotify.com/artist/0vn7UBvSQECKJm2817Yf1P"
-        }
-      ],
-      "duration_ms": 203613,
-      "name": "Fire and Rain - 2019 Remaster",
-      "url": "https://open.spotify.com/track/1oht5GevPN9t1T3kG1m1GO"
-    },
-    {
-      "added_at": "2022-08-26 12:00:00",
-      "album": {
         "name": "Greatest",
         "url": "https://open.spotify.com/album/5YHZaCxCuuK81h4Fimb9rT"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 245200,
       "name": "How Deep Is Your Love",
       "url": "https://open.spotify.com/track/2JoZzpdeP2G6Csfdq5aLXP"
+    },
+    {
+      "added_at": "2022-08-26 12:00:00",
+      "album": {
+        "name": "Sweet Baby James (2019 Remaster)",
+        "url": "https://open.spotify.com/album/1HiG0ukRmFPN13EVcf98Jx"
+      },
+      "artists": [
+        {
+          "name": "James Taylor",
+          "url": "https://open.spotify.com/artist/0vn7UBvSQECKJm2817Yf1P"
+        }
+      ],
+      "duration_ms": 203613,
+      "name": "Fire and Rain - 2019 Remaster",
+      "url": "https://open.spotify.com/track/1oht5GevPN9t1T3kG1m1GO"
     },
     {
       "added_at": "2022-08-26 12:00:00",
@@ -939,22 +939,6 @@
     {
       "added_at": "2022-08-26 12:00:00",
       "album": {
-        "name": "Welcome To The Real World",
-        "url": "https://open.spotify.com/album/682sQ449vmcJXS2AGIMrsl"
-      },
-      "artists": [
-        {
-          "name": "Mr. Mister",
-          "url": "https://open.spotify.com/artist/7Bah8E0kCETqEpAHI6CPzQ"
-        }
-      ],
-      "duration_ms": 343933,
-      "name": "Broken Wings",
-      "url": "https://open.spotify.com/track/78FHUZRbFDCG6VkRAQdFLm"
-    },
-    {
-      "added_at": "2022-08-26 12:00:00",
-      "album": {
         "name": "Soul Provider",
         "url": "https://open.spotify.com/album/5g9LXOhTPW9Iow6GZPRg2D"
       },
@@ -983,6 +967,22 @@
       "duration_ms": 213626,
       "name": "XO",
       "url": "https://open.spotify.com/track/7cpCU3Denug5NGZsSpQl8v"
+    },
+    {
+      "added_at": "2022-08-26 12:00:00",
+      "album": {
+        "name": "Welcome To The Real World",
+        "url": "https://open.spotify.com/album/682sQ449vmcJXS2AGIMrsl"
+      },
+      "artists": [
+        {
+          "name": "Mr. Mister",
+          "url": "https://open.spotify.com/artist/7Bah8E0kCETqEpAHI6CPzQ"
+        }
+      ],
+      "duration_ms": 343933,
+      "name": "Broken Wings",
+      "url": "https://open.spotify.com/track/78FHUZRbFDCG6VkRAQdFLm"
     },
     {
       "added_at": "2022-08-26 12:00:00",
@@ -1683,22 +1683,6 @@
     {
       "added_at": "2022-08-26 12:00:00",
       "album": {
-        "name": "II",
-        "url": "https://open.spotify.com/album/1IWhZEOwEoXbOB4a40XaR3"
-      },
-      "artists": [
-        {
-          "name": "Boyz II Men",
-          "url": "https://open.spotify.com/artist/6O74knDqdv3XaWtkII7Xjp"
-        }
-      ],
-      "duration_ms": 236773,
-      "name": "I'll Make Love To You",
-      "url": "https://open.spotify.com/track/61sQYdFNS6sEBYCyr1q5gn"
-    },
-    {
-      "added_at": "2022-08-26 12:00:00",
-      "album": {
         "name": "Never Forget: The Ultimate Collection",
         "url": "https://open.spotify.com/album/7jzGCK8GdjuWEAe1lZ71xI"
       },
@@ -1711,6 +1695,22 @@
       "duration_ms": 220813,
       "name": "How Deep Is Your Love",
       "url": "https://open.spotify.com/track/0pO9wem4wi61QD2PWFpIJQ"
+    },
+    {
+      "added_at": "2022-08-26 12:00:00",
+      "album": {
+        "name": "II",
+        "url": "https://open.spotify.com/album/1IWhZEOwEoXbOB4a40XaR3"
+      },
+      "artists": [
+        {
+          "name": "Boyz II Men",
+          "url": "https://open.spotify.com/artist/6O74knDqdv3XaWtkII7Xjp"
+        }
+      ],
+      "duration_ms": 236773,
+      "name": "I'll Make Love To You",
+      "url": "https://open.spotify.com/track/61sQYdFNS6sEBYCyr1q5gn"
     },
     {
       "added_at": "2022-08-26 12:00:00",
@@ -2033,22 +2033,6 @@
       "url": "https://open.spotify.com/track/6Nq8YtPAHuL1outooeiFde"
     },
     {
-      "added_at": "2022-11-16 10:20:08",
-      "album": {
-        "name": "Return To Sender",
-        "url": "https://open.spotify.com/album/3jOzdF8WPsqwUp9OznStfw"
-      },
-      "artists": [
-        {
-          "name": "KAIRO",
-          "url": "https://open.spotify.com/artist/74fcIBekHLf4hucCT3My0v"
-        }
-      ],
-      "duration_ms": 172786,
-      "name": "Movie Star",
-      "url": "https://open.spotify.com/track/4a7Z10eGGg3th4H5jqFScX"
-    },
-    {
       "added_at": "2022-08-26 12:00:00",
       "album": {
         "name": "Acoustic Sessions",
@@ -2063,6 +2047,22 @@
       "duration_ms": 228146,
       "name": "Never Seen Anything \"Quite Like You\" - Acoustic",
       "url": "https://open.spotify.com/track/018Idkvf82hi44UZmIXiGB"
+    },
+    {
+      "added_at": "2022-11-16 10:20:08",
+      "album": {
+        "name": "Return To Sender",
+        "url": "https://open.spotify.com/album/3jOzdF8WPsqwUp9OznStfw"
+      },
+      "artists": [
+        {
+          "name": "KAIRO",
+          "url": "https://open.spotify.com/artist/74fcIBekHLf4hucCT3My0v"
+        }
+      ],
+      "duration_ms": 172786,
+      "name": "Movie Star",
+      "url": "https://open.spotify.com/track/4a7Z10eGGg3th4H5jqFScX"
     },
     {
       "added_at": "2022-08-26 12:00:00",
@@ -2243,22 +2243,6 @@
     {
       "added_at": "2022-08-26 12:00:00",
       "album": {
-        "name": "Richard Marx",
-        "url": "https://open.spotify.com/album/3C2cO3wo4f2bLzOpFypgmZ"
-      },
-      "artists": [
-        {
-          "name": "Richard Marx",
-          "url": "https://open.spotify.com/artist/0grdhNhiRLFBaFVyybqsj6"
-        }
-      ],
-      "duration_ms": 316040,
-      "name": "Hold On To The Nights",
-      "url": "https://open.spotify.com/track/3F2YXxSOC9dPmxXdrh6mYl"
-    },
-    {
-      "added_at": "2022-08-26 12:00:00",
-      "album": {
         "name": "Love Story",
         "url": "https://open.spotify.com/album/3iZ02t8Wkhp51QxieO0ErJ"
       },
@@ -2271,6 +2255,22 @@
       "duration_ms": 189066,
       "name": "Where Do I Begin - Love Theme from \"Love Story\"",
       "url": "https://open.spotify.com/track/45FLu3nL1iMYXYPzhqLdko"
+    },
+    {
+      "added_at": "2022-08-26 12:00:00",
+      "album": {
+        "name": "Richard Marx",
+        "url": "https://open.spotify.com/album/3C2cO3wo4f2bLzOpFypgmZ"
+      },
+      "artists": [
+        {
+          "name": "Richard Marx",
+          "url": "https://open.spotify.com/artist/0grdhNhiRLFBaFVyybqsj6"
+        }
+      ],
+      "duration_ms": 316040,
+      "name": "Hold On To The Nights",
+      "url": "https://open.spotify.com/track/3F2YXxSOC9dPmxXdrh6mYl"
     },
     {
       "added_at": "2022-08-26 12:00:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvGEj20FfCp.md) - [plain]
 
 > Where music meets fashion\. Soundtrack for designer Christopher John Rogers' Collection 012 Runway Show.
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,005 likes - 58 songs - 4 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,097 likes - 58 songs - 4 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvGEj20FfCp.md) - [plain]
 | 19 | [Say the Word](https://open.spotify.com/track/3N1JkmT4XAFE3xYZTi2MhY) | [Kraak & Smaak](https://open.spotify.com/artist/7c5qu1gNlg8jWDzzmlp89O), [Nic Hanson](https://open.spotify.com/artist/1NrFTpkB0RvbVLYl0p5Xvc) | [Pleasure Centre](https://open.spotify.com/album/4bL8pnVu9iQILCQlK9L7V4) | 5:46 |
 | 20 | [Walk Dance Talk Sing](https://open.spotify.com/track/5TJErkXPI6J3wre7eKlfPA) | [Crazy P](https://open.spotify.com/artist/6jOz2B9qeID4dLP1o8bFGf) | [Walk Dance Talk Sing](https://open.spotify.com/album/2xHHmfzza35KfhlgOOc3y4) | 5:41 |
 | 21 | [Paris](https://open.spotify.com/track/6d15UEB74JSsEL9frcH3UU) | [Little Dragon](https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps) | [Nabuma Rubberband](https://open.spotify.com/album/7cRFJj0IQqDZZ3Gm03aGbb) | 3:24 |
-| 22 | [Billie \(loving arms\)](https://open.spotify.com/track/1vW12BfxjOQKYElBm9ttW9) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Actual Life 2 \(February 2 \- October 15 2021\)](https://open.spotify.com/album/0SFtIrRytNI4kcf93Tbhdf) | 3:37 |
+| 22 | [Billie \(Loving Arms\)](https://open.spotify.com/track/1vW12BfxjOQKYElBm9ttW9) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Actual Life 2 \(February 2 \- October 15 2021\)](https://open.spotify.com/album/0SFtIrRytNI4kcf93Tbhdf) | 3:37 |
 | 23 | [Iced Tea](https://open.spotify.com/track/6kmXHLDDK7RQXTjHooTCzH) | [Joyce Wrice](https://open.spotify.com/artist/24Cf1irKt7kcewb9OOkPum), [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu) | [Iced Tea](https://open.spotify.com/album/56Z5er1cgYmXDuG49B953d) | 3:25 |
 | 24 | [When I'm in Your Arms](https://open.spotify.com/track/47s5hKfwGXliAAB8wKMiNo) | [Cleo Sol](https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq) | [Rose in the Dark](https://open.spotify.com/album/4o5dzQHDzmBBc4Z3jSWVR9) | 5:35 |
 | 25 | [Take Me](https://open.spotify.com/track/0f79jvmLKeLpHbNXIywWSa) | [Kingdom](https://open.spotify.com/artist/1ofhNTFMyFVSs62cJWG0oj), [Naomi Allen](https://open.spotify.com/artist/6LiJR7s5NW2bDD43DNS5eI) | [Take Me](https://open.spotify.com/album/1rUUCTwKWW7FX6kdBJJrfD) | 3:59 |
@@ -65,6 +65,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvGEj20FfCp.md) - [plain]
 | 55 | [Son Shine](https://open.spotify.com/track/2Ohu1ERZnAuaCzi7N5ngRK) | [SAULT](https://open.spotify.com/artist/1uRxRKC7d9zwYGSRflTKDR) | [Untitled \(Rise\)](https://open.spotify.com/album/0K8jX7CLwxJaML5iXdxveF) | 3:16 |
 | 56 | [GOOD TIMES](https://open.spotify.com/track/6I6QkE2UVSj9YX48oRrD6e) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [GOOD TIMES / PROBLEMZ](https://open.spotify.com/album/0nBijXgCvIu7T9AlF9P1Te) | 3:01 |
 | 57 | [Impact \(feat\. Robyn & Channel Tres\)](https://open.spotify.com/track/7I1oIGR5bcMR4dBFZOtaUi) | [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG), [Robyn](https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2), [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp) | [times](https://open.spotify.com/album/6WlRyrfOBZGYA5u5TmloKY) | 4:44 |
-| 58 | [Kyle \(i found you\)](https://open.spotify.com/track/0v1g5U1OAb0XBjKyA8R36i) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Kyle \(i found you\)](https://open.spotify.com/album/2myK0q2FH45JQRUxepp4en) | 3:16 |
+| 58 | [Kyle \(I Found You\)](https://open.spotify.com/track/0v1g5U1OAb0XBjKyA8R36i) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Kyle \(i found you\)](https://open.spotify.com/album/2myK0q2FH45JQRUxepp4en) | 3:16 |
 
-Snapshot ID: `MCxjZTVjODI2MWViMmZhZWRiZjg5ZGJhYjRiYjk4OTk5ZjUxYTRkNjNk`
+Snapshot ID: `MCw2MjhlMzU1YjViNTk1MWQxMjQ3MmRhMzk4YmU4NWFiMTk2NzQ0YzAz`

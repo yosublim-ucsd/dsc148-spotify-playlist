@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCJRVvilN81F.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1Q4GnDtPDjnD2xTWVQgErL">KAYTRANADA</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,105 likes - 111 songs - 6 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,112 likes - 111 songs - 6 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -98,13 +98,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCJRVvilN81F.md) - [plain]
 | 88 | [Day To Day](https://open.spotify.com/track/4yBdOhdoRDGKGgMEsDAyq1) | [Robert Glasper](https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn) | [ArtScience](https://open.spotify.com/album/3Bn4x1v0uRbt2JwkxVg7Wu) | 5:24 |
 | 89 | [Heard This One Before \(feat\. BOSCO & KAYTRANADA\)](https://open.spotify.com/track/0MPWtvb5xSdQlzGSnm0hCh) | [Phonte](https://open.spotify.com/artist/5SyCTZ8X8YQCI0J1VRp4iC), [BOSCO](https://open.spotify.com/artist/1A4fV156Nn6rWIE8jk5ZpT), [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu) | [Pacific Time \- EP](https://open.spotify.com/album/4JInVfKuLTpdDNdPZ3qAyK) | 2:37 |
 | 90 | [Best Rapper in the Fuckin World](https://open.spotify.com/track/2higrBnP8m4gSBBKs5VKZZ) | [GoldLink](https://open.spotify.com/artist/5XenQ7XfcvQdfIbpLEFaKQ) | [Best Rapper in the Fuckin World](https://open.spotify.com/album/3sPNnS9LL1YXzKPPLHDUit) | 2:28 |
-| 91 | [My Crew \(Woooo\)](https://open.spotify.com/track/76fyjZT556J5tydoOTbwUA) | [Cadence Weapon](https://open.spotify.com/artist/179CHqJZlZwKBQhjcOeAOS) | [Cadence Weapon](https://open.spotify.com/album/4Yx4gbcfNWPYOtNc1cKFP7) | 3:13 |
-| 92 | [Thinkin Bout You](https://open.spotify.com/track/2OGES71yUPyUcaMf3ZM6nR) | [Robert Glasper](https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn) | [ArtScience](https://open.spotify.com/album/3Bn4x1v0uRbt2JwkxVg7Wu) | 3:12 |
-| 93 | [HIGH GRADE](https://open.spotify.com/track/0baHaeu6MrW4GriFSsF9XK) | [Lancey Foux](https://open.spotify.com/artist/2LakckgvXEtJlKOYP6BO11), [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu) | [LIFE IN HELL](https://open.spotify.com/album/7A6MutudrSxcDa47a6HHOM) | 2:46 |
+| 91 | [HIGH GRADE](https://open.spotify.com/track/0baHaeu6MrW4GriFSsF9XK) | [Lancey Foux](https://open.spotify.com/artist/2LakckgvXEtJlKOYP6BO11), [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu) | [LIFE IN HELL](https://open.spotify.com/album/7A6MutudrSxcDa47a6HHOM) | 2:46 |
+| 92 | [My Crew \(Woooo\)](https://open.spotify.com/track/76fyjZT556J5tydoOTbwUA) | [Cadence Weapon](https://open.spotify.com/artist/179CHqJZlZwKBQhjcOeAOS) | [Cadence Weapon](https://open.spotify.com/album/4Yx4gbcfNWPYOtNc1cKFP7) | 3:13 |
+| 93 | [Thinkin Bout You](https://open.spotify.com/track/2OGES71yUPyUcaMf3ZM6nR) | [Robert Glasper](https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn) | [ArtScience](https://open.spotify.com/album/3Bn4x1v0uRbt2JwkxVg7Wu) | 3:12 |
 | 94 | [Love Or Something](https://open.spotify.com/track/7oARln7vvm7pxWXvJmiVxH) | [Buddy](https://open.spotify.com/artist/6PDLwWvgYNMfBRLqC1h5cJ) | [Ocean & Montana](https://open.spotify.com/album/6wQHjKlxXujDKgkUXJ4NIv) | 2:57 |
 | 95 | [I Know It](https://open.spotify.com/track/5kduduW8Olk6uGC62Bclux) | [Muzi](https://open.spotify.com/artist/4fd3n8zcAmsG2up1QWDNj5) | [Interblaktic](https://open.spotify.com/album/1Qsju0bafv0Hz3magn1fQN) | 2:32 |
-| 96 | [Don't Touch!](https://open.spotify.com/track/5Ra9YCYlPeW050TLtkkOZF) | [TOBi](https://open.spotify.com/artist/0P54cVemq1DCHUfUMlWAoN) | [Don't Touch!](https://open.spotify.com/album/5SQTz1po86w7yd86CeciGR) | 2:22 |
-| 97 | [2 O'Clock](https://open.spotify.com/track/2J6jie0GZHJ9wZ7AzpMrig) | [Ella Mai](https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap) | [Heart On My Sleeve \(Deluxe Edition\)](https://open.spotify.com/album/4a1RnC5ioi77nDnOJXvTKs) | 3:50 |
+| 96 | [2 O'Clock](https://open.spotify.com/track/2J6jie0GZHJ9wZ7AzpMrig) | [Ella Mai](https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap) | [Heart On My Sleeve \(Deluxe Edition\)](https://open.spotify.com/album/4a1RnC5ioi77nDnOJXvTKs) | 3:50 |
+| 97 | [Don't Touch!](https://open.spotify.com/track/5Ra9YCYlPeW050TLtkkOZF) | [TOBi](https://open.spotify.com/artist/0P54cVemq1DCHUfUMlWAoN) | [Don't Touch!](https://open.spotify.com/album/5SQTz1po86w7yd86CeciGR) | 2:22 |
 | 98 | [No One Like You](https://open.spotify.com/track/0IeM0wphilRFSDEVSRrQ23) | [Robert Glasper](https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn) | [ArtScience](https://open.spotify.com/album/3Bn4x1v0uRbt2JwkxVg7Wu) | 9:18 |
 | 99 | [SMILING](https://open.spotify.com/track/28xRKT60WwfDDb5pHtJT2N) | [Lou Phelps](https://open.spotify.com/artist/74EhQOxqIuZSj1wsMLQabN) | [EXTRA EXTRA!](https://open.spotify.com/album/2e6cYARtMKZUhYqD7WXXa1) | 2:49 |
 | 100 | [LIES WILL SET YOU FREE](https://open.spotify.com/track/1ntp9QhwKYmikKLiOKrARR) | [Lancey Foux](https://open.spotify.com/artist/2LakckgvXEtJlKOYP6BO11), [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu) | [LIFE IN HELL](https://open.spotify.com/album/7A6MutudrSxcDa47a6HHOM) | 4:44 |
@@ -120,4 +120,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCJRVvilN81F.md) - [plain]
 | 110 | [NEW FRIENDS](https://open.spotify.com/track/2K2HS7k6TikCQ0ErmZK4BM) | [Lou Phelps](https://open.spotify.com/artist/74EhQOxqIuZSj1wsMLQabN) | [EXTRA EXTRA!](https://open.spotify.com/album/2e6cYARtMKZUhYqD7WXXa1) | 3:06 |
 | 111 | [FIRE](https://open.spotify.com/track/5h7V109OsJIa9zsfU8vEey) | [Lou Phelps](https://open.spotify.com/artist/74EhQOxqIuZSj1wsMLQabN) | [EXTRA EXTRA!](https://open.spotify.com/album/2e6cYARtMKZUhYqD7WXXa1) | 3:13 |
 
-Snapshot ID: `MjgwNzI4NjAsMDAwMDAwMDBiMjIxNDdjNzlkODRkYWRhMzNkNDllYjEyNTIxMjYwZQ==`
+Snapshot ID: `MjgwNzQzMDAsMDAwMDAwMDAwMzY3YzQ3MzM1MTE0NTVmOGJmYTdhYWViMjNkMTY2NQ==`

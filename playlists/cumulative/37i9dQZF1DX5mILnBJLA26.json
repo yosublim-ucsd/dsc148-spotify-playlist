@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "The biggest Amapiano singles making waves in South Africa and the world. Cover: <a href=\"https://open.spotify.com/artist/6egY1uh8HjHy6TrD0qmQNN?si=4k9MtP1ARD-dYt-6PrSzVw\">Myztro</a>.",
+  "description": "The biggest Amapiano singles making waves in South Africa and the world. Cover: <a href=\"https://open.spotify.com/artist/6EG9v86LsCoq5HS4Jj1zCQ?si=SCNu_PX7QxqrQWCmsv88cQ\">Pabi Cooper</a>, <a href=\"https://open.spotify.com/artist/5kwZB1xNLgB3lln1JGS2B9?si=UxzfFP3dRjG2pK0PgT8T9w\">MaWhoo</a> and <a href=\"https://open.spotify.com/artist/4AnNB3lPD0Sv7ziKVHqI66?si=-8DsErXqRZOlrjOMZcA_EA\">Nkosazana Daughter</a>. ",
   "name": "AMAPIANO grooves",
   "tracks": [
     {
@@ -1030,7 +1030,7 @@
       ],
       "date_added": "2023-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 360027,
       "name": "Ama Supa",
       "url": "https://open.spotify.com/track/3SAl12qeJwSgkGpavtwTFZ"
@@ -4681,6 +4681,36 @@
     },
     {
       "album": {
+        "name": "Dali Wam",
+        "url": "https://open.spotify.com/album/13IinhpDPNSfEjMI8j9dHK"
+      },
+      "artists": [
+        {
+          "name": "Pabi Cooper",
+          "url": "https://open.spotify.com/artist/6EG9v86LsCoq5HS4Jj1zCQ"
+        },
+        {
+          "name": "Yumbs",
+          "url": "https://open.spotify.com/artist/2HLr9NzCqd6XRnpUSM6CvH"
+        },
+        {
+          "name": "MaWhoo",
+          "url": "https://open.spotify.com/artist/5kwZB1xNLgB3lln1JGS2B9"
+        },
+        {
+          "name": "Nkosazana Daughter",
+          "url": "https://open.spotify.com/artist/4AnNB3lPD0Sv7ziKVHqI66"
+        }
+      ],
+      "date_added": "2023-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287142,
+      "name": "Dali Wam",
+      "url": "https://open.spotify.com/track/4HrTGHLIffBYPFan9QaAjg"
+    },
+    {
+      "album": {
         "name": "Agape",
         "url": "https://open.spotify.com/album/7Bcr8pOctXSlKR4Ah0jgmp"
       },
@@ -6908,7 +6938,7 @@
       ],
       "date_added": "2023-04-06",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-05",
+      "date_removed": null,
       "duration_ms": 350309,
       "name": "Gangnam Style (feat. DJ Maphorisa & Kabza De Small)",
       "url": "https://open.spotify.com/track/5m6AedvemL6Oz8GVwAOTF3"
@@ -7148,7 +7178,7 @@
       ],
       "date_added": "2023-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 361017,
       "name": "GHOSTS",
       "url": "https://open.spotify.com/track/5BVdwYjEi95h7kY5GgROh3"
@@ -7720,7 +7750,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 374848,
       "name": "Hamba Wena",
       "url": "https://open.spotify.com/track/1hsFJ92y0FU2cFOOLkEFVr"
@@ -10253,6 +10283,28 @@
     },
     {
       "album": {
+        "name": "For Your Soul",
+        "url": "https://open.spotify.com/album/0CkxbhxCJPO0Zlu3U3PNg3"
+      },
+      "artists": [
+        {
+          "name": "Megadrumz",
+          "url": "https://open.spotify.com/artist/5L2aXzIstvqMsXHQVXptbX"
+        },
+        {
+          "name": "Babii",
+          "url": "https://open.spotify.com/artist/1MIPGjDU4EDTo2YaejJZTP"
+        }
+      ],
+      "date_added": "2023-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 334280,
+      "name": "Izinto Zami",
+      "url": "https://open.spotify.com/track/4cCSuXtIDtKjbZG3j9pKvr"
+    },
+    {
+      "album": {
         "name": "Izinto Zimane Zijike",
         "url": "https://open.spotify.com/album/06z4bLapiCdwCzE5HLF53T"
       },
@@ -11752,7 +11804,7 @@
       ],
       "date_added": "2023-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 422763,
       "name": "Kumanzi Phansi",
       "url": "https://open.spotify.com/track/4jTZSobUnKjFv8puwpaD2T"
@@ -11898,6 +11950,36 @@
       "duration_ms": 483478,
       "name": "Kuyabanda",
       "url": "https://open.spotify.com/track/7lhJegtIGdBTO7quzsfhpe"
+    },
+    {
+      "album": {
+        "name": "Kwalula",
+        "url": "https://open.spotify.com/album/4hzFndyQNNHjVFahIgx7wj"
+      },
+      "artists": [
+        {
+          "name": "Mashudu",
+          "url": "https://open.spotify.com/artist/0vZNKz7Pn611D2LBHsSo3R"
+        },
+        {
+          "name": "Soa Mattrix",
+          "url": "https://open.spotify.com/artist/1GH6EGidwzL60gzvHscBHH"
+        },
+        {
+          "name": "Happy Jazzman",
+          "url": "https://open.spotify.com/artist/2n6s9O552nTm98ThzFjB9C"
+        },
+        {
+          "name": "Faith Strings",
+          "url": "https://open.spotify.com/artist/39ejxavrkdkHXj6yCGJugx"
+        }
+      ],
+      "date_added": "2023-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 348003,
+      "name": "Kwalula",
+      "url": "https://open.spotify.com/track/2Mp6GpcInQatvScYGmqfi7"
     },
     {
       "album": {
@@ -12642,7 +12724,7 @@
       ],
       "date_added": "2022-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 351360,
       "name": "M'nike - Radio Edit",
       "url": "https://open.spotify.com/track/0BgE0FNQzUrkXQvL0bPzka"
@@ -15181,6 +15263,36 @@
     },
     {
       "album": {
+        "name": "Ngenza ngama bomu (feat. Mr JazziQ, Umthakathi Kush & Sizwe Alakine)",
+        "url": "https://open.spotify.com/album/5AwpRVOz64cm5p48hhsvm7"
+      },
+      "artists": [
+        {
+          "name": "Pcee",
+          "url": "https://open.spotify.com/artist/22Bl1QCNEZvpqVwRPYscE4"
+        },
+        {
+          "name": "Mr JazziQ",
+          "url": "https://open.spotify.com/artist/1nVEvn7RMNxj27rn0WE13E"
+        },
+        {
+          "name": "Umthakathi Kush",
+          "url": "https://open.spotify.com/artist/4DFFwNev2bjj7QGVTxzuwM"
+        },
+        {
+          "name": "Sizwe Alakine",
+          "url": "https://open.spotify.com/artist/7Hb7ZlUE4ByWsV1Rkc4Uo2"
+        }
+      ],
+      "date_added": "2023-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 367567,
+      "name": "Ngenza ngama bomu (feat. Mr JazziQ, Umthakathi Kush & Sizwe Alakine)",
+      "url": "https://open.spotify.com/track/3RKYDNNXnrgW73Ivu0cJdB"
+    },
+    {
+      "album": {
         "name": "Till Today",
         "url": "https://open.spotify.com/album/4YXj3bzTS4yfslo28aAwHv"
       },
@@ -16342,7 +16454,7 @@
       ],
       "date_added": "2023-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 445943,
       "name": "Ntabezimnyama",
       "url": "https://open.spotify.com/track/7hdyGkyMEmTSy0ShXqnWiZ"
@@ -16852,7 +16964,7 @@
       ],
       "date_added": "2023-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 448000,
       "name": "Phezulu",
       "url": "https://open.spotify.com/track/4yMOidhi9KNOYgqJxTHmR7"
@@ -17454,7 +17566,7 @@
       ],
       "date_added": "2023-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 289332,
       "name": "Quantum Sounds",
       "url": "https://open.spotify.com/track/1wRVZ49rN1urWuFgkHRyuF"
@@ -18304,6 +18416,36 @@
       "duration_ms": 349454,
       "name": "Sgija VS Bacardi",
       "url": "https://open.spotify.com/track/6lLKm4slUAUyy7VeWx3Bnk"
+    },
+    {
+      "album": {
+        "name": "Sgudi Snyc",
+        "url": "https://open.spotify.com/album/3MOD8aita13JIDWrLsqQoe"
+      },
+      "artists": [
+        {
+          "name": "De Mthuda",
+          "url": "https://open.spotify.com/artist/1w2P5nNsO5W7FYq2Oui0cM"
+        },
+        {
+          "name": "Da Muziqal Chef",
+          "url": "https://open.spotify.com/artist/25uuaH9QdKIygoWTDzKuve"
+        },
+        {
+          "name": "Eemoh",
+          "url": "https://open.spotify.com/artist/4k3Qot5J7igrWE9JUP3Wza"
+        },
+        {
+          "name": "Sipho Magudulela",
+          "url": "https://open.spotify.com/artist/34gZK9MCSnKzdcGbG74cXb"
+        }
+      ],
+      "date_added": "2023-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 331377,
+      "name": "Sgudi Snyc",
+      "url": "https://open.spotify.com/track/0XSYoJ0MJpMB2tddyRcBEC"
     },
     {
       "album": {
@@ -20865,6 +21007,32 @@
     },
     {
       "album": {
+        "name": "SLANT",
+        "url": "https://open.spotify.com/album/17SO3H2tR6XgdAQeSJoBWm"
+      },
+      "artists": [
+        {
+          "name": "Junior De Rocka",
+          "url": "https://open.spotify.com/artist/71lldVkx3POgVXXTe5Pqoa"
+        },
+        {
+          "name": "Maline Aura",
+          "url": "https://open.spotify.com/artist/1LcX3ZFNBeGKxkpfCIr4cP"
+        },
+        {
+          "name": "Ntwana_R",
+          "url": "https://open.spotify.com/artist/2MYAT2rstTLHX0f3EellwS"
+        }
+      ],
+      "date_added": "2023-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 415898,
+      "name": "Thanda Wena",
+      "url": "https://open.spotify.com/track/113g59nN6vT6dlzZJGneVj"
+    },
+    {
+      "album": {
         "name": "Thandaza",
         "url": "https://open.spotify.com/album/5ty0HoYx6BKCYeLGiBh4vu"
       },
@@ -21466,6 +21634,28 @@
       "duration_ms": 480351,
       "name": "Thesha (feat. LeeMckrazy, TyroneDee & TitoM)",
       "url": "https://open.spotify.com/track/2iVtgTMwkEGe4kBP39F9Tu"
+    },
+    {
+      "album": {
+        "name": "Thethelele",
+        "url": "https://open.spotify.com/album/5lAfJw0t9F5jR1RIMV6w7f"
+      },
+      "artists": [
+        {
+          "name": "Mac lopez",
+          "url": "https://open.spotify.com/artist/5pgbTIhgrcYCoj6OxvHXju"
+        },
+        {
+          "name": "Soulful G",
+          "url": "https://open.spotify.com/artist/5dm8xFmBSjeQdGIfnikEtz"
+        }
+      ],
+      "date_added": "2023-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 373866,
+      "name": "Thethelele",
+      "url": "https://open.spotify.com/track/2uvDKAavv4U1nDHuJZIUMw"
     },
     {
       "album": {

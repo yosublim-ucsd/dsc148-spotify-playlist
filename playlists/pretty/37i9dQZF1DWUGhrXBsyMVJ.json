@@ -1,12 +1,12 @@
 {
   "description": "Unforgettable love songs from the 1950s.",
-  "num_followers": 171685,
+  "num_followers": 171929,
   "original_name": "50s Love Songs",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2ZGQ0ZDFlNWZjMTU5ZDg3OWI0Y2I2YTdhZTM3M2Q3MDgxMjI2NDNk",
+  "snapshot_id": "MCw0NDFhMDIwYjc4MWExYzI3ZmQxYjc0NjRiNTA3ODBjNjBhNTkxN2Iy",
   "tracks": [
     {
       "added_at": "2022-01-10 11:46:31",
@@ -311,22 +311,6 @@
     {
       "added_at": "2022-01-10 11:46:31",
       "album": {
-        "name": "Chet Baker Sings",
-        "url": "https://open.spotify.com/album/5JJ779nrbHx0KB2lBrMMa4"
-      },
-      "artists": [
-        {
-          "name": "Chet Baker",
-          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
-        }
-      ],
-      "duration_ms": 215466,
-      "name": "It's Always You - Vocal Version",
-      "url": "https://open.spotify.com/track/06UkYE0SZ3Y8zGRFOuWGAe"
-    },
-    {
-      "added_at": "2022-01-10 11:46:31",
-      "album": {
         "name": "Best Of The Everly Brothers - Rare Solo Classics",
         "url": "https://open.spotify.com/album/4rnq9VLTICIlomeKZ1N3mB"
       },
@@ -339,6 +323,22 @@
       "duration_ms": 146733,
       "name": "Let It Be Me",
       "url": "https://open.spotify.com/track/0Tjdbd83LEAWrA0atsXMDJ"
+    },
+    {
+      "added_at": "2022-01-10 11:46:31",
+      "album": {
+        "name": "Chet Baker Sings",
+        "url": "https://open.spotify.com/album/5JJ779nrbHx0KB2lBrMMa4"
+      },
+      "artists": [
+        {
+          "name": "Chet Baker",
+          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
+        }
+      ],
+      "duration_ms": 215466,
+      "name": "It's Always You - Vocal Version",
+      "url": "https://open.spotify.com/track/06UkYE0SZ3Y8zGRFOuWGAe"
     },
     {
       "added_at": "2022-01-10 11:46:31",

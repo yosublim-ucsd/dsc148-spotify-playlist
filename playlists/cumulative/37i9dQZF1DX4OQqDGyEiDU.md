@@ -2,9 +2,9 @@
 
 ### [君が生きてなくてよかった](https://open.spotify.com/playlist/37i9dQZF1DX4OQqDGyEiDU)
 
-> 人気ボカロ曲をプレイリストで。命を持たないVOCALOIDの魅力を特集。
+> 人気ボカロ曲をプレイリストで。命を持たないVOCALOIDの魅力を特集。Biggest hits & fresh tracks of VOCALOID.
 
-489 songs - 1 day 4 hr 6 min
+490 songs - 1 day 4 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,6 +60,7 @@
 | [Good\-bye Declaration](https://open.spotify.com/track/6TJnkjQL9Ar8JQVrGiBhVf) | [Chinozo](https://open.spotify.com/artist/205dGSmCjnFA0Mjptshdsx) | [Good\-bye Declaration](https://open.spotify.com/album/0HdeiaHzPCeF543SeBwL7q) | 2:52 | 2022-11-08 | 2022-11-13 |
 | [good\-bye declaration](https://open.spotify.com/track/6SYj9vjjVTwKn08iKZR11m) | [Chinozo](https://open.spotify.com/artist/205dGSmCjnFA0Mjptshdsx) | [The Deluge](https://open.spotify.com/album/0XVzhmnx7nQ1TYxUGKBmXx) | 2:52 | 2023-01-12 | 2023-01-25 |
 | [GURU](https://open.spotify.com/track/44bhs2HUL9FLVB3hdYCF2x) | [Jin](https://open.spotify.com/artist/7to1UlTpu40h7CpjRPkGqA) | [GURU](https://open.spotify.com/album/7yd2EeJwKUL5mdU3B3DLVe) | 3:10 | 2022-08-16 | 2022-08-24 |
+| [Hanataba](https://open.spotify.com/track/6H42G7PmewVxTBQv7ruF3P) | [MIMI](https://open.spotify.com/artist/0nwGsQzwVqdlBAg0eSNxmd), [可不](https://open.spotify.com/artist/3VxmIoSoAMfL0xAAQ7jHqE) | [Hanataba](https://open.spotify.com/album/4OW2aF9K7CREPKQscfW6m3) | 2:30 | 2023-05-18 |  |
 | [Hand in Hand](https://open.spotify.com/track/7kgTu64wW8N6s4GTk0ksNO) | [livetune](https://open.spotify.com/artist/6dFG0zTOaowuOignddONDP), [Miku Hatsune](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl) | [Hand in Hand](https://open.spotify.com/album/6Cu3utCV4ysD3RjaeIWE6d) | 5:12 | 2022-07-19 | 2022-07-24 |
 | [HappyCoaster](https://open.spotify.com/track/5iyY8j4qo5k9Yjdj68YmmT) | [emon\(Tes.\)](https://open.spotify.com/artist/4gSRXG5tamMDAxsswktQKG) | [HappyCoaster](https://open.spotify.com/album/3KH8WAYRAyNd40Yiu8nRss) | 4:32 | 2022-07-05 | 2022-07-07 |
 | [Henceforth](https://open.spotify.com/track/4gLC5fds3QR3w7f5TmuNjh) | [Orangestar](https://open.spotify.com/artist/420aixNZr4paRQmuRXz3DS), [IA](https://open.spotify.com/artist/1oz1HYOyJhjshPi5Nvs3MX) | [Henceforth](https://open.spotify.com/album/1rlYATigfdlT3euu2Lgniz) | 3:55 | 2022-06-09 | 2022-07-29 |
@@ -92,7 +93,7 @@
 | [Mikansei egoizumu](https://open.spotify.com/track/18CPQqeQvpwvzgfurOwEbR) | [Yukino ito](https://open.spotify.com/artist/6AVpVZNEeBihxUCWVPdMnu) | [Mikansei egoizumu](https://open.spotify.com/album/3q3ClObPLKRhC0xaH8sxqd) | 3:26 | 2023-03-29 | 2023-04-12 |
 | [Miku](https://open.spotify.com/track/2wxeIeofgy4AHaOhtePamJ) | [Anamanaguchi](https://open.spotify.com/artist/2UwJRAgSOi1zcLkvUNc8XL), [Hatsune Miku](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl) | [Miku](https://open.spotify.com/album/45jD7ltxM60Arhm5FWF49p) | 3:43 | 2022-07-26 | 2022-10-14 |
 | [Mind brand](https://open.spotify.com/track/2KvhjbZPPtNXTB6wib1rXB) | [Maretu](https://open.spotify.com/artist/7p1fL0cAuCPDMG6oBswFhM) | [Coin locker Baby](https://open.spotify.com/album/5oPvIsJd6pzjmpvmiSVbjg) | 4:19 | 2022-07-26 | 2022-10-14 |
-| [Monmon\_Fanmoran](https://open.spotify.com/track/3nJT0Q2IVWOjTTanvyC0Td) | [mochiutsune](https://open.spotify.com/artist/2OBVcvCW9d2vT13kVvHYwM) | [Monmon\_Fanmoran](https://open.spotify.com/album/7hJH9h4ibJ7Q4MyVnhDeQA) | 2:50 | 2023-03-29 |  |
+| [Monmon\_Fanmoran](https://open.spotify.com/track/3nJT0Q2IVWOjTTanvyC0Td) | [mochiutsune](https://open.spotify.com/artist/2OBVcvCW9d2vT13kVvHYwM) | [Monmon\_Fanmoran](https://open.spotify.com/album/7hJH9h4ibJ7Q4MyVnhDeQA) | 2:50 | 2023-03-29 | 2023-05-19 |
 | [Mr.シャーデンフロイデ](https://open.spotify.com/track/1dxIMbG3CBsplAvrwQduOQ) | [Hitoshizuku and Yama](https://open.spotify.com/artist/5XWv1p8oOhKmviB5vovWg1) | [Mr.シャーデンフロイデ](https://open.spotify.com/album/2dRacon7WbNwU5Ow94dOrG) | 4:06 | 2022-06-14 | 2022-07-17 |
 | [Nakakapagpabagabag](https://open.spotify.com/track/2wJ0w427Y3TPy4yQQ0igJF) | [Dasu](https://open.spotify.com/artist/6f4PGW1oaG5rWGgDqljLgZ), [Len Kagamine](https://open.spotify.com/artist/2GXfF7OsKmE87OBfZ69cFY) | [NAKAKAPAGPABAGABAG](https://open.spotify.com/album/3eCABPADaXoUs8BqycIrIU) | 2:58 | 2022-07-19 | 2022-07-29 |
 | [NEXT NEST](https://open.spotify.com/track/4pMpj2VgkKVzMSC9dB46me) | [satuki ga tenkomori](https://open.spotify.com/artist/3sXACuwBSj6GE8XUbYff9J) | [NEXT NEST](https://open.spotify.com/album/3vycT4TPayRb7x3kxkYhB5) | 3:55 | 2022-06-09 | 2022-07-19 |

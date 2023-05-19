@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX43r3DlKEVpO.md) - [plain]
 
 > Uma seleção para as mães e os pais cantarem junto com os filhos e vice\-versa.
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,782 likes - 100 songs - 5 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,793 likes - 100 songs - 5 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Ain't No Mountain High Enough](https://open.spotify.com/track/7tqhbajSfrz2F7E1Z75ASX) | [Marvin Gaye](https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA), [Tammi Terrell](https://open.spotify.com/artist/75jNCko3SnEMI5gwGqrbb8) | [United](https://open.spotify.com/album/5LqviduT0g0J0ypFrFSwCE) | 2:31 |
 | 2 | [Rocket Man \(I Think It's Going To Be A Long, Long Time\)](https://open.spotify.com/track/3gdewACMIVMEWVbyb8O9sY) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Honky Chateau](https://open.spotify.com/album/2ei2X6ghPnw7YRwQtAH075) | 4:41 |
-| 3 | [Happy \- From "Despicable Me 2"](https://open.spotify.com/track/60nZcImufyMA1MKQY3dcCH) | [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [G I R L](https://open.spotify.com/album/0lrmy4pJINsFzycJvttX2W) | 3:52 |
-| 4 | [Ain't No Sunshine](https://open.spotify.com/track/1k1Bqnv2R0uJXQN4u6LKYt) | [Bill Withers](https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj) | [Just As I Am](https://open.spotify.com/album/6N8uPmDqbgXD3ztkCCfxoo) | 2:05 |
+| 3 | [Ain't No Sunshine](https://open.spotify.com/track/1k1Bqnv2R0uJXQN4u6LKYt) | [Bill Withers](https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj) | [Just As I Am](https://open.spotify.com/album/6N8uPmDqbgXD3ztkCCfxoo) | 2:05 |
+| 4 | [Happy \- From "Despicable Me 2"](https://open.spotify.com/track/60nZcImufyMA1MKQY3dcCH) | [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [G I R L](https://open.spotify.com/album/0lrmy4pJINsFzycJvttX2W) | 3:52 |
 | 5 | [My Girl](https://open.spotify.com/track/745H5CctFr12Mo7cqa1BMH) | [The Temptations](https://open.spotify.com/artist/3RwQ26hR2tJtA8F9p2n7jG) | [The Temptations Sing Smokey](https://open.spotify.com/album/45tweuKI0zdh8zgKo05cTw) | 2:45 |
 | 6 | [California Dreamin' \- Single Version](https://open.spotify.com/track/4s6LhHAV5SEsOV0lC2tjvJ) | [The Mamas & The Papas](https://open.spotify.com/artist/1bs7HoMkSyQwcobCpE9KpN) | [If You Can Believe Your Eyes & Ears](https://open.spotify.com/album/76oMr4Y2pOtcrvZLc2ZikF) | 2:42 |
 | 7 | [Can't Help Falling in Love](https://open.spotify.com/track/44AyOl4qVkzS48vBsbNXaC) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [Blue Hawaii](https://open.spotify.com/album/7xe8VI48TxUpU1IIo0RfGi) | 3:02 |
@@ -88,8 +88,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX43r3DlKEVpO.md) - [plain]
 | 78 | [Sorte](https://open.spotify.com/track/6yHqnquTGEC6ABIRfrBp6x) | [Ney Matogrosso](https://open.spotify.com/artist/2SFIMUkCdZowbeisskDdhn) | [Sorte](https://open.spotify.com/album/6zjlLpKWlTOedQcBlJbuNh) | 3:04 |
 | 79 | [Fever](https://open.spotify.com/track/4Ke1CYcm2wYDFlOhziFFjK) | [Peggy Lee](https://open.spotify.com/artist/602DnpaSXJB4b9DZrvxbDc) | [All Aglow Again!](https://open.spotify.com/album/3RXdzJHsQSxpucVGBcsgOP) | 3:22 |
 | 80 | [You're The First, The Last, My Everything](https://open.spotify.com/track/6kOjNVGh1Gapc7224d20Ym) | [Barry White](https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt) | [Number Ones](https://open.spotify.com/album/4jATpIchd56XOWEHVsd8ky) | 3:32 |
-| 81 | [Olhos Nos Olhos](https://open.spotify.com/track/1UBJvypv5W1GNoplpc2EYl) | [Maria Bethânia](https://open.spotify.com/artist/3f5VCwd57gZsqMad28jyLV) | [Pássaro Proibido](https://open.spotify.com/album/1tF6qjWpG4gMIfzFBzgI4Y) | 4:35 |
-| 82 | [O Xote das Meninas](https://open.spotify.com/track/0V7iPl67ctA3MioAzO2ae5) | [Luiz Gonzaga](https://open.spotify.com/artist/2ZofT7n9AlTKf7KDCoHGgD) | [Luiz Gonzaga Canta Seus Sucessos Com Zé Dantas](https://open.spotify.com/album/7gQBkiyV2o2NPEHhafVVGw) | 2:51 |
+| 81 | [O Xote das Meninas](https://open.spotify.com/track/0V7iPl67ctA3MioAzO2ae5) | [Luiz Gonzaga](https://open.spotify.com/artist/2ZofT7n9AlTKf7KDCoHGgD) | [Luiz Gonzaga Canta Seus Sucessos Com Zé Dantas](https://open.spotify.com/album/7gQBkiyV2o2NPEHhafVVGw) | 2:51 |
+| 82 | [Olhos Nos Olhos](https://open.spotify.com/track/1UBJvypv5W1GNoplpc2EYl) | [Maria Bethânia](https://open.spotify.com/artist/3f5VCwd57gZsqMad28jyLV) | [Pássaro Proibido](https://open.spotify.com/album/1tF6qjWpG4gMIfzFBzgI4Y) | 4:35 |
 | 83 | [Divino Maravilhoso](https://open.spotify.com/track/7J42bT9SnqnVJH4e4CMA8u) | [Gal Costa](https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD) | [Gal Costa](https://open.spotify.com/album/5ZVLLME05cmciSZz4IGcZu) | 4:20 |
 | 84 | [Bicycle Race](https://open.spotify.com/track/5rQKjP9forn7JVuiZBj6eZ) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Jazz](https://open.spotify.com/album/5X3rA8To5GDOeIWdQyMEcE) | 3:02 |
 | 85 | [Não Dá Pra Não Pensar \- Ao Vivo](https://open.spotify.com/track/1bWJPIOQXBcIl5GKuElFap) | [Sandy e Junior](https://open.spotify.com/artist/05mFGgWzooDQMWGNcNsM05) | [Nossa História \(Ao Vivo\)](https://open.spotify.com/album/4qEeyIC0z30gL0se5SxBYx) | 3:19 |
@@ -97,8 +97,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX43r3DlKEVpO.md) - [plain]
 | 87 | [Vai \(Menina Amanhã de Manhã\)](https://open.spotify.com/track/5tt394udRU89Pn2s3qPGaQ) | [Tom Zé](https://open.spotify.com/artist/1gIa65d5ICT2xVWiUJ3u27) | [Brazil Classics 4: The Best of Tom Zé](https://open.spotify.com/album/5EatIo50si8CoN3ARke59W) | 2:22 |
 | 88 | [O Leãozinho \- Remixed Original Album](https://open.spotify.com/track/0by19mYM0du6rkzugAogN9) | [Caetano Veloso](https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ) | [Bicho](https://open.spotify.com/album/2rXCY07TM8KFD4af2u6eaV) | 3:04 |
 | 89 | [A Grande Família](https://open.spotify.com/track/1JtxEMmDhKzA7QRZE1ISNP) | [Dudu Nobre](https://open.spotify.com/artist/4Mw0vJsDXTZF7kn7EsdNoD) | [Moleque Dudu](https://open.spotify.com/album/7qbifdalLtBeQvvuMupelk) | 2:48 |
-| 90 | [O Mar Serenou](https://open.spotify.com/track/5rsdJ481oIM9OYyrqcEwWt) | [Clara Nunes](https://open.spotify.com/artist/6UKz2oYWzE0ZBnciztCown) | [Meus Momentos](https://open.spotify.com/album/7aGsQAH1uvanvleHoNZtrk) | 2:59 |
-| 91 | [Azul](https://open.spotify.com/track/6G9ZBD209DRFToSC8AEW1d) | [Melim](https://open.spotify.com/artist/6uYrXgVHctAJtIdSODcyLJ) | [Deixa Vir Do Coração](https://open.spotify.com/album/4IlVpTe4eaaIvMBmyMCT9y) | 3:43 |
+| 90 | [Azul](https://open.spotify.com/track/6G9ZBD209DRFToSC8AEW1d) | [Melim](https://open.spotify.com/artist/6uYrXgVHctAJtIdSODcyLJ) | [Deixa Vir Do Coração](https://open.spotify.com/album/4IlVpTe4eaaIvMBmyMCT9y) | 3:43 |
+| 91 | [O Mar Serenou](https://open.spotify.com/track/5rsdJ481oIM9OYyrqcEwWt) | [Clara Nunes](https://open.spotify.com/artist/6UKz2oYWzE0ZBnciztCown) | [Meus Momentos](https://open.spotify.com/album/7aGsQAH1uvanvleHoNZtrk) | 2:59 |
 | 92 | [Quem Sabe Isso Quer Dizer Amor](https://open.spotify.com/track/05Cm3WMV0Bald8zi0oSptv) | [Maria Gadú](https://open.spotify.com/artist/3uCu2WgyG0Iw50ylOYDSpH) | [Quem Sabe Isso Quer Dizer Amor](https://open.spotify.com/album/6Wc2o1xDaL2a1PTL9etznU) | 3:36 |
 | 93 | [Quando Você Passa \(Turu Turu\) \- Ao Vivo](https://open.spotify.com/track/59otIBHIQRlIQdo41EwQIi) | [Sandy e Junior](https://open.spotify.com/artist/05mFGgWzooDQMWGNcNsM05) | [Nossa História \(Ao Vivo\)](https://open.spotify.com/album/4qEeyIC0z30gL0se5SxBYx) | 3:42 |
 | 94 | [Nao Identificado](https://open.spotify.com/track/1eqUenDSQsy87cpoogbKvi) | [Gal Costa](https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD) | [Gal Costa](https://open.spotify.com/album/5ZVLLME05cmciSZz4IGcZu) | 3:18 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX43r3DlKEVpO.md) - [plain]
 | 99 | [Sá Marina](https://open.spotify.com/track/6087zQEvQopjLV4Nzau43H) | [Wilson Simonal](https://open.spotify.com/artist/6DqFCzjARUV3xH9meu3Bya) | [Retratos](https://open.spotify.com/album/68kHh9D4A3LyfEV0JACNpA) | 3:21 |
 | 100 | [Negro Gato](https://open.spotify.com/track/5xde0qUR1uUmH8ZVOqoPRo) | [Erasmo Carlos](https://open.spotify.com/artist/6cHQUDAPGKRE2NbVjBlOcz), [Leo Jaime](https://open.spotify.com/artist/2TjzEhCBd9s3YPWKPwKZYo), [Renato e Seus Blue Caps](https://open.spotify.com/artist/27hFv7JqcDVyqgaCvLHpy7), [Fagner](https://open.spotify.com/artist/5j3htXVskZF0u8qWY5zcF8), [Leno](https://open.spotify.com/artist/68xhplUZZ18723PccI3i1G), [Golden Boys](https://open.spotify.com/artist/6e90eYChXG3b8PbkAPcPcn), [Jerry Adriani](https://open.spotify.com/artist/5OBXrPtAgpRVJgua6rgbs6), [Almir](https://open.spotify.com/artist/73Op2gKQknruMmIuzlJoc3) | [Jovem Guarda \- O Pulo Do Negro Gato](https://open.spotify.com/album/1qb6cq2hah9dAMraqTqGcF) | 4:11 |
 
-Snapshot ID: `MCw3ZmVhNTBhNmY0ZDM1YjJkMjkzOWRkMzIyNDc1N2VhYzk5MzI5YWYy`
+Snapshot ID: `MCxhYmQyZGRiNGRiZTdiMzUzMjc4M2E3ZGQwMzU2YjRmYjc3MDJiNjNk`

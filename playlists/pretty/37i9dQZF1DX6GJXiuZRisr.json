@@ -1,12 +1,12 @@
 {
   "description": "Progressive <a href=\"spotify:genre:edm_dance\">house</a> music for the late night highway.",
-  "num_followers": 1480848,
+  "num_followers": 1481253,
   "original_name": "Night Rider",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjYjk0ZjBhMWFmZTU5M2FjNjlhNGRkZTZjOTUwNTk5MDQwYjYyNDI1",
+  "snapshot_id": "MCwyZmJhNWNiYjM5MzU2ZGVjZGMxMmE1NWU3ZjVhODczMWI1NjFmM2Fh",
   "tracks": [
     {
       "added_at": "2023-05-05 04:00:00",
@@ -407,18 +407,22 @@
     {
       "added_at": "2023-05-05 04:00:00",
       "album": {
-        "name": "Oblivion",
-        "url": "https://open.spotify.com/album/1Uzmw6EppTymkjxp4toRza"
+        "name": "Invisible (Paul Kalkbrenner Remix)",
+        "url": "https://open.spotify.com/album/4cqsB6UXqiauyUjNFxh8yf"
       },
       "artists": [
         {
-          "name": "Camden Cox",
-          "url": "https://open.spotify.com/artist/5mNpMP01Co4vXZ3U0fWP3C"
+          "name": "NTO",
+          "url": "https://open.spotify.com/artist/7ry8L53T4oJtSIogGYuioq"
+        },
+        {
+          "name": "Paul Kalkbrenner",
+          "url": "https://open.spotify.com/artist/0rasA5Z5h1ITtHelCpfu9R"
         }
       ],
-      "duration_ms": 194160,
-      "name": "Oblivion",
-      "url": "https://open.spotify.com/track/2eIyg8yc98jIX7g3tsbRcI"
+      "duration_ms": 457036,
+      "name": "Invisible - Paul Kalkbrenner Remix",
+      "url": "https://open.spotify.com/track/2xUsXYIiK18wSnv2SXFGtj"
     },
     {
       "added_at": "2023-05-05 04:00:00",
@@ -439,22 +443,18 @@
     {
       "added_at": "2023-05-05 04:00:00",
       "album": {
-        "name": "Invisible (Paul Kalkbrenner Remix)",
-        "url": "https://open.spotify.com/album/4cqsB6UXqiauyUjNFxh8yf"
+        "name": "Oblivion",
+        "url": "https://open.spotify.com/album/1Uzmw6EppTymkjxp4toRza"
       },
       "artists": [
         {
-          "name": "NTO",
-          "url": "https://open.spotify.com/artist/7ry8L53T4oJtSIogGYuioq"
-        },
-        {
-          "name": "Paul Kalkbrenner",
-          "url": "https://open.spotify.com/artist/0rasA5Z5h1ITtHelCpfu9R"
+          "name": "Camden Cox",
+          "url": "https://open.spotify.com/artist/5mNpMP01Co4vXZ3U0fWP3C"
         }
       ],
-      "duration_ms": 457036,
-      "name": "Invisible - Paul Kalkbrenner Remix",
-      "url": "https://open.spotify.com/track/2xUsXYIiK18wSnv2SXFGtj"
+      "duration_ms": 194160,
+      "name": "Oblivion",
+      "url": "https://open.spotify.com/track/2eIyg8yc98jIX7g3tsbRcI"
     },
     {
       "added_at": "2023-05-05 04:00:00",
@@ -485,22 +485,6 @@
       "url": "https://open.spotify.com/track/1SETgPENHVzsWoD9g79LYI"
     },
     {
-      "added_at": "2023-05-05 04:00:00",
-      "album": {
-        "name": "Breathe Me In",
-        "url": "https://open.spotify.com/album/0Ez7Txv5ziazJVEVZq41Rc"
-      },
-      "artists": [
-        {
-          "name": "Harrison",
-          "url": "https://open.spotify.com/artist/58O8UPrTdl4u2buM0skj94"
-        }
-      ],
-      "duration_ms": 178420,
-      "name": "Breathe Me In",
-      "url": "https://open.spotify.com/track/0eiLudweyosA5c7EUJ6y0c"
-    },
-    {
       "added_at": "2023-05-12 04:00:00",
       "album": {
         "name": "Fire With Fire",
@@ -523,6 +507,22 @@
       "duration_ms": 188799,
       "name": "Fire With Fire",
       "url": "https://open.spotify.com/track/7fpkRq8mT8uwspimOK6zH5"
+    },
+    {
+      "added_at": "2023-05-05 04:00:00",
+      "album": {
+        "name": "Breathe Me In",
+        "url": "https://open.spotify.com/album/0Ez7Txv5ziazJVEVZq41Rc"
+      },
+      "artists": [
+        {
+          "name": "Harrison",
+          "url": "https://open.spotify.com/artist/58O8UPrTdl4u2buM0skj94"
+        }
+      ],
+      "duration_ms": 178420,
+      "name": "Breathe Me In",
+      "url": "https://open.spotify.com/track/0eiLudweyosA5c7EUJ6y0c"
     },
     {
       "added_at": "2023-05-05 04:00:00",
@@ -627,6 +627,26 @@
     {
       "added_at": "2023-05-05 04:00:00",
       "album": {
+        "name": "The Maker",
+        "url": "https://open.spotify.com/album/3iXFPnNVizKfo1pUerR7Md"
+      },
+      "artists": [
+        {
+          "name": "Harrison",
+          "url": "https://open.spotify.com/artist/58O8UPrTdl4u2buM0skj94"
+        },
+        {
+          "name": "Notelle",
+          "url": "https://open.spotify.com/artist/2QH237xSFhmfZJHrRulT7U"
+        }
+      ],
+      "duration_ms": 156795,
+      "name": "The Maker",
+      "url": "https://open.spotify.com/track/4EKzntRiyE131lB2swX5TU"
+    },
+    {
+      "added_at": "2023-05-05 04:00:00",
+      "album": {
         "name": "Cappadocia",
         "url": "https://open.spotify.com/album/0reS9m5prtXtDFetcKIr9C"
       },
@@ -687,26 +707,6 @@
       "duration_ms": 237865,
       "name": "Numb - Joris Voorn Remix, Edit",
       "url": "https://open.spotify.com/track/4WuxGJdcbN9SPrNn3UFLFy"
-    },
-    {
-      "added_at": "2023-05-05 04:00:00",
-      "album": {
-        "name": "The Maker",
-        "url": "https://open.spotify.com/album/3iXFPnNVizKfo1pUerR7Md"
-      },
-      "artists": [
-        {
-          "name": "Harrison",
-          "url": "https://open.spotify.com/artist/58O8UPrTdl4u2buM0skj94"
-        },
-        {
-          "name": "Notelle",
-          "url": "https://open.spotify.com/artist/2QH237xSFhmfZJHrRulT7U"
-        }
-      ],
-      "duration_ms": 156795,
-      "name": "The Maker",
-      "url": "https://open.spotify.com/track/4EKzntRiyE131lB2swX5TU"
     },
     {
       "added_at": "2023-05-05 04:00:00",
@@ -857,6 +857,26 @@
       "url": "https://open.spotify.com/track/2sUkEAXJBIvh9EvuuOOKuW"
     },
     {
+      "added_at": "2023-05-12 04:00:00",
+      "album": {
+        "name": "Alok Club Series 2023",
+        "url": "https://open.spotify.com/album/5gdnagxUxbz8mIbb7DVdLT"
+      },
+      "artists": [
+        {
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        },
+        {
+          "name": "Steve Aoki",
+          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
+        }
+      ],
+      "duration_ms": 188226,
+      "name": "2 Much 2 Handle",
+      "url": "https://open.spotify.com/track/2ivy0p2Ib5acN3D9Dfio8K"
+    },
+    {
       "added_at": "2023-05-05 04:00:00",
       "album": {
         "name": "About Us (feat. EMME)",
@@ -975,6 +995,26 @@
     {
       "added_at": "2023-05-05 04:00:00",
       "album": {
+        "name": "Made Of Gold",
+        "url": "https://open.spotify.com/album/0awdtPEuXKHw6mJDrvxjR7"
+      },
+      "artists": [
+        {
+          "name": "Korolova",
+          "url": "https://open.spotify.com/artist/0I6oCyQQ1Q50q97y9B9gAx"
+        },
+        {
+          "name": "Goodboys",
+          "url": "https://open.spotify.com/artist/2nm38smINjms1LtczR0Cei"
+        }
+      ],
+      "duration_ms": 198750,
+      "name": "Made Of Gold",
+      "url": "https://open.spotify.com/track/6vykEbbae3Z5LnEMgXUsSg"
+    },
+    {
+      "added_at": "2023-05-05 04:00:00",
+      "album": {
         "name": "Age of Love (ARTBAT Rave Mix)",
         "url": "https://open.spotify.com/album/52vmOsY6n8BvRJqkD9Y5LK"
       },
@@ -995,22 +1035,22 @@
     {
       "added_at": "2023-05-05 04:00:00",
       "album": {
-        "name": "Made Of Gold",
-        "url": "https://open.spotify.com/album/0awdtPEuXKHw6mJDrvxjR7"
+        "name": "Turning Away",
+        "url": "https://open.spotify.com/album/5AbK8i6n3jcVRAdjeFQS2c"
       },
       "artists": [
         {
-          "name": "Korolova",
-          "url": "https://open.spotify.com/artist/0I6oCyQQ1Q50q97y9B9gAx"
+          "name": "Cristoph",
+          "url": "https://open.spotify.com/artist/532SqCIYmJyXEdEiCJLgYG"
         },
         {
-          "name": "Goodboys",
-          "url": "https://open.spotify.com/artist/2nm38smINjms1LtczR0Cei"
+          "name": "Ross Quinn",
+          "url": "https://open.spotify.com/artist/7zaRAbRhvbrGObP8CjdTsr"
         }
       ],
-      "duration_ms": 198750,
-      "name": "Made Of Gold",
-      "url": "https://open.spotify.com/track/6vykEbbae3Z5LnEMgXUsSg"
+      "duration_ms": 244543,
+      "name": "Turning Away",
+      "url": "https://open.spotify.com/track/5CAcrDVbEhc64A5sHqO5Md"
     },
     {
       "added_at": "2023-05-05 04:00:00",
@@ -1035,46 +1075,6 @@
       "duration_ms": 207334,
       "name": "Greece 2000",
       "url": "https://open.spotify.com/track/44xPqYQFzpMVhpcDRzaBG5"
-    },
-    {
-      "added_at": "2023-05-12 04:00:00",
-      "album": {
-        "name": "Alok Club Series 2023",
-        "url": "https://open.spotify.com/album/5gdnagxUxbz8mIbb7DVdLT"
-      },
-      "artists": [
-        {
-          "name": "Alok",
-          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
-        },
-        {
-          "name": "Steve Aoki",
-          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
-        }
-      ],
-      "duration_ms": 188226,
-      "name": "2 Much 2 Handle",
-      "url": "https://open.spotify.com/track/2ivy0p2Ib5acN3D9Dfio8K"
-    },
-    {
-      "added_at": "2023-05-05 04:00:00",
-      "album": {
-        "name": "Turning Away",
-        "url": "https://open.spotify.com/album/5AbK8i6n3jcVRAdjeFQS2c"
-      },
-      "artists": [
-        {
-          "name": "Cristoph",
-          "url": "https://open.spotify.com/artist/532SqCIYmJyXEdEiCJLgYG"
-        },
-        {
-          "name": "Ross Quinn",
-          "url": "https://open.spotify.com/artist/7zaRAbRhvbrGObP8CjdTsr"
-        }
-      ],
-      "duration_ms": 244543,
-      "name": "Turning Away",
-      "url": "https://open.spotify.com/track/5CAcrDVbEhc64A5sHqO5Md"
     },
     {
       "added_at": "2023-05-05 04:00:00",
@@ -1147,6 +1147,22 @@
     {
       "added_at": "2023-05-05 04:00:00",
       "album": {
+        "name": "Love Run Out",
+        "url": "https://open.spotify.com/album/1mFUcbjiAdsL62jdyMkEeV"
+      },
+      "artists": [
+        {
+          "name": "Nora Van Elken",
+          "url": "https://open.spotify.com/artist/04m3oUGzjO3EJTQidFzTgM"
+        }
+      ],
+      "duration_ms": 158192,
+      "name": "Love Run Out",
+      "url": "https://open.spotify.com/track/1w7YDOf9iWyupxYPWtaXSw"
+    },
+    {
+      "added_at": "2023-05-05 04:00:00",
+      "album": {
         "name": "Hide and Seek (Le Youth Remix)",
         "url": "https://open.spotify.com/album/0scTzt9c9pgTQJM5jPthaO"
       },
@@ -1163,46 +1179,6 @@
       "duration_ms": 231288,
       "name": "Hide and Seek - Le Youth Remix",
       "url": "https://open.spotify.com/track/6uSLLJJ5r936DO1SASSViy"
-    },
-    {
-      "added_at": "2023-05-05 04:00:00",
-      "album": {
-        "name": "It's Ours",
-        "url": "https://open.spotify.com/album/11Z7v788eMOAVcWvsKAMG8"
-      },
-      "artists": [
-        {
-          "name": "ARTBAT",
-          "url": "https://open.spotify.com/artist/3BkRu2TGd2I1uBxZKddfg1"
-        },
-        {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
-        },
-        {
-          "name": "Idris Elba",
-          "url": "https://open.spotify.com/artist/0Dc2rdPzleezxhvQhQbXuS"
-        }
-      ],
-      "duration_ms": 483779,
-      "name": "It's Ours",
-      "url": "https://open.spotify.com/track/19Oh5hnq89a94Upp66mOoy"
-    },
-    {
-      "added_at": "2023-05-05 04:00:00",
-      "album": {
-        "name": "Love Run Out",
-        "url": "https://open.spotify.com/album/1mFUcbjiAdsL62jdyMkEeV"
-      },
-      "artists": [
-        {
-          "name": "Nora Van Elken",
-          "url": "https://open.spotify.com/artist/04m3oUGzjO3EJTQidFzTgM"
-        }
-      ],
-      "duration_ms": 158192,
-      "name": "Love Run Out",
-      "url": "https://open.spotify.com/track/1w7YDOf9iWyupxYPWtaXSw"
     },
     {
       "added_at": "2023-05-05 04:00:00",
@@ -1243,6 +1219,30 @@
       "duration_ms": 258536,
       "name": "Reminiscing",
       "url": "https://open.spotify.com/track/1jCfoQwzEeIuawlCbhM1Kp"
+    },
+    {
+      "added_at": "2023-05-05 04:00:00",
+      "album": {
+        "name": "It's Ours",
+        "url": "https://open.spotify.com/album/11Z7v788eMOAVcWvsKAMG8"
+      },
+      "artists": [
+        {
+          "name": "ARTBAT",
+          "url": "https://open.spotify.com/artist/3BkRu2TGd2I1uBxZKddfg1"
+        },
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "Idris Elba",
+          "url": "https://open.spotify.com/artist/0Dc2rdPzleezxhvQhQbXuS"
+        }
+      ],
+      "duration_ms": 483779,
+      "name": "It's Ours",
+      "url": "https://open.spotify.com/track/19Oh5hnq89a94Upp66mOoy"
     },
     {
       "added_at": "2023-05-05 04:00:00",
@@ -1323,26 +1323,6 @@
     {
       "added_at": "2023-05-05 04:00:00",
       "album": {
-        "name": "Hear Me Out",
-        "url": "https://open.spotify.com/album/7pQOGTptMRIC2DI3pZTz3F"
-      },
-      "artists": [
-        {
-          "name": "Cosmic Gate",
-          "url": "https://open.spotify.com/artist/6ySxYu68zTsO5ghsThpGtS"
-        },
-        {
-          "name": "Diana Miro",
-          "url": "https://open.spotify.com/artist/7HKB2dr6EceAJM8xRlXYlK"
-        }
-      ],
-      "duration_ms": 279555,
-      "name": "Hear Me Out",
-      "url": "https://open.spotify.com/track/2zpIU1OroZ3mUzrnYqoLBa"
-    },
-    {
-      "added_at": "2023-05-05 04:00:00",
-      "album": {
         "name": "Dreamers",
         "url": "https://open.spotify.com/album/4d9XNWcx3CXxvVnrRfkZrO"
       },
@@ -1359,6 +1339,26 @@
       "duration_ms": 403902,
       "name": "Dreamers",
       "url": "https://open.spotify.com/track/0iANTai9oZfdFzmrGnMQ3Y"
+    },
+    {
+      "added_at": "2023-05-05 04:00:00",
+      "album": {
+        "name": "Hear Me Out",
+        "url": "https://open.spotify.com/album/7pQOGTptMRIC2DI3pZTz3F"
+      },
+      "artists": [
+        {
+          "name": "Cosmic Gate",
+          "url": "https://open.spotify.com/artist/6ySxYu68zTsO5ghsThpGtS"
+        },
+        {
+          "name": "Diana Miro",
+          "url": "https://open.spotify.com/artist/7HKB2dr6EceAJM8xRlXYlK"
+        }
+      ],
+      "duration_ms": 279555,
+      "name": "Hear Me Out",
+      "url": "https://open.spotify.com/track/2zpIU1OroZ3mUzrnYqoLBa"
     },
     {
       "added_at": "2023-05-05 04:00:00",
@@ -1759,22 +1759,6 @@
     {
       "added_at": "2023-05-05 04:00:00",
       "album": {
-        "name": "Club Vibes Part 02",
-        "url": "https://open.spotify.com/album/2wdfP8ZepuYBjNC3mDBb73"
-      },
-      "artists": [
-        {
-          "name": "Boris Brejcha",
-          "url": "https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy"
-        }
-      ],
-      "duration_ms": 470400,
-      "name": "Bumblebee",
-      "url": "https://open.spotify.com/track/10twrq4TUN6ThYX8fHTlab"
-    },
-    {
-      "added_at": "2023-05-05 04:00:00",
-      "album": {
         "name": "Haunt Me",
         "url": "https://open.spotify.com/album/4CHaFVB6995taaDGXqrBA3"
       },
@@ -1795,22 +1779,18 @@
     {
       "added_at": "2023-05-05 04:00:00",
       "album": {
-        "name": "Show Me A Sign",
-        "url": "https://open.spotify.com/album/2YhDLveyepgvgfnV8BBMOL"
+        "name": "Club Vibes Part 02",
+        "url": "https://open.spotify.com/album/2wdfP8ZepuYBjNC3mDBb73"
       },
       "artists": [
         {
-          "name": "Ship Wrek",
-          "url": "https://open.spotify.com/artist/1ic0FHNGIjXZAWH6O6Reif"
-        },
-        {
-          "name": "MKLA",
-          "url": "https://open.spotify.com/artist/57Vnemieu10x71jR2UWc4o"
+          "name": "Boris Brejcha",
+          "url": "https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy"
         }
       ],
-      "duration_ms": 223283,
-      "name": "Show Me A Sign (with MKLA)",
-      "url": "https://open.spotify.com/track/49yvk8qS9L7I5aDeIMSutb"
+      "duration_ms": 470400,
+      "name": "Bumblebee",
+      "url": "https://open.spotify.com/track/10twrq4TUN6ThYX8fHTlab"
     },
     {
       "added_at": "2023-05-05 04:00:00",
@@ -1855,6 +1835,26 @@
     {
       "added_at": "2023-05-05 04:00:00",
       "album": {
+        "name": "Show Me A Sign",
+        "url": "https://open.spotify.com/album/2YhDLveyepgvgfnV8BBMOL"
+      },
+      "artists": [
+        {
+          "name": "Ship Wrek",
+          "url": "https://open.spotify.com/artist/1ic0FHNGIjXZAWH6O6Reif"
+        },
+        {
+          "name": "MKLA",
+          "url": "https://open.spotify.com/artist/57Vnemieu10x71jR2UWc4o"
+        }
+      ],
+      "duration_ms": 223283,
+      "name": "Show Me A Sign (with MKLA)",
+      "url": "https://open.spotify.com/track/49yvk8qS9L7I5aDeIMSutb"
+    },
+    {
+      "added_at": "2023-05-05 04:00:00",
+      "album": {
         "name": "Golden (feat. Blondfire)",
         "url": "https://open.spotify.com/album/3lUeNPdccSYi4LK4pLvBiv"
       },
@@ -1895,26 +1895,6 @@
     {
       "added_at": "2023-05-05 04:00:00",
       "album": {
-        "name": "Artefact",
-        "url": "https://open.spotify.com/album/3JygQ7vwR0sa8OEXEN1Rj3"
-      },
-      "artists": [
-        {
-          "name": "Paul van Dyk",
-          "url": "https://open.spotify.com/artist/7wU1naftD3lNq7rNsiDvOR"
-        },
-        {
-          "name": "Fuenka",
-          "url": "https://open.spotify.com/artist/20LsNbfhofBFByG5kuRKvK"
-        }
-      ],
-      "duration_ms": 220649,
-      "name": "Artefact",
-      "url": "https://open.spotify.com/track/4s5YiAfgPWyq37WukmceRI"
-    },
-    {
-      "added_at": "2023-05-05 04:00:00",
-      "album": {
         "name": "Discopolis 2.0 (MEDUZA Remix)",
         "url": "https://open.spotify.com/album/69RPZXcg3PGWRsWWiP4Mds"
       },
@@ -1939,6 +1919,26 @@
     {
       "added_at": "2023-05-05 04:00:00",
       "album": {
+        "name": "Artefact",
+        "url": "https://open.spotify.com/album/3JygQ7vwR0sa8OEXEN1Rj3"
+      },
+      "artists": [
+        {
+          "name": "Paul van Dyk",
+          "url": "https://open.spotify.com/artist/7wU1naftD3lNq7rNsiDvOR"
+        },
+        {
+          "name": "Fuenka",
+          "url": "https://open.spotify.com/artist/20LsNbfhofBFByG5kuRKvK"
+        }
+      ],
+      "duration_ms": 220649,
+      "name": "Artefact",
+      "url": "https://open.spotify.com/track/4s5YiAfgPWyq37WukmceRI"
+    },
+    {
+      "added_at": "2023-05-05 04:00:00",
+      "album": {
         "name": "Bridges In The Sky",
         "url": "https://open.spotify.com/album/1aPCc1XkP3hSE21HfdAVWD"
       },
@@ -1955,26 +1955,6 @@
       "duration_ms": 345365,
       "name": "Bridges In The Sky (feat. Maurits Colijn)",
       "url": "https://open.spotify.com/track/7qmj6GXCoataBL3kBYBrII"
-    },
-    {
-      "added_at": "2023-05-05 04:00:00",
-      "album": {
-        "name": "Lose Your Head (CamelPhat Remix)",
-        "url": "https://open.spotify.com/album/4WTLAbwOs4ev2nneLA9DrH"
-      },
-      "artists": [
-        {
-          "name": "London Grammar",
-          "url": "https://open.spotify.com/artist/3Bd1cgCjtCI32PYvDC3ynO"
-        },
-        {
-          "name": "CamelPhat",
-          "url": "https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W"
-        }
-      ],
-      "duration_ms": 216200,
-      "name": "Lose Your Head - CamelPhat Remix",
-      "url": "https://open.spotify.com/track/7aggzqfbAW7LnkJUy9UAdJ"
     },
     {
       "added_at": "2023-05-05 04:00:00",
@@ -1999,18 +1979,22 @@
     {
       "added_at": "2023-05-05 04:00:00",
       "album": {
-        "name": "Tantrum",
-        "url": "https://open.spotify.com/album/2xnR6OX1P3XleZQUbT7MCF"
+        "name": "Lose Your Head (CamelPhat Remix)",
+        "url": "https://open.spotify.com/album/4WTLAbwOs4ev2nneLA9DrH"
       },
       "artists": [
         {
-          "name": "Nora En Pure",
-          "url": "https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs"
+          "name": "London Grammar",
+          "url": "https://open.spotify.com/artist/3Bd1cgCjtCI32PYvDC3ynO"
+        },
+        {
+          "name": "CamelPhat",
+          "url": "https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W"
         }
       ],
-      "duration_ms": 229512,
-      "name": "Tantrum",
-      "url": "https://open.spotify.com/track/4CMsK9RIEcJEUwUkSvmBxQ"
+      "duration_ms": 216200,
+      "name": "Lose Your Head - CamelPhat Remix",
+      "url": "https://open.spotify.com/track/7aggzqfbAW7LnkJUy9UAdJ"
     },
     {
       "added_at": "2023-05-05 04:00:00",
@@ -2027,6 +2011,22 @@
       "duration_ms": 311280,
       "name": "False Reactions",
       "url": "https://open.spotify.com/track/40bOS5DkpMM7UJB3xZkHoq"
+    },
+    {
+      "added_at": "2023-05-05 04:00:00",
+      "album": {
+        "name": "Tantrum",
+        "url": "https://open.spotify.com/album/2xnR6OX1P3XleZQUbT7MCF"
+      },
+      "artists": [
+        {
+          "name": "Nora En Pure",
+          "url": "https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs"
+        }
+      ],
+      "duration_ms": 229512,
+      "name": "Tantrum",
+      "url": "https://open.spotify.com/track/4CMsK9RIEcJEUwUkSvmBxQ"
     }
   ],
   "unique_name": "Night Rider",

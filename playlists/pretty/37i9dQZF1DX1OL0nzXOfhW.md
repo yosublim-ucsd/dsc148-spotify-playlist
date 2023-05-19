@@ -2,25 +2,25 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OL0nzXOfhW.md) - [plain]
 
 ### [RADAR HK](https://open.spotify.com/playlist/37i9dQZF1DX1OL0nzXOfhW)
 
-> 持續發掘世一超新聲，2023年香港RADAR超新聲正式上場！Cover: Gordon Flanders
+> 持續發掘世一超新聲，2023年香港RADAR超新聲正式上場！Cover: KALAI嘉麗
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,318 likes - 43 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,321 likes - 43 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [歌手職訓101](https://open.spotify.com/track/2tM6ukbTDeDLHPpdPCe3oC) | [Gordon Flanders](https://open.spotify.com/artist/2yMjXqAPoOehNikcWBRdfD) | [歌手職訓101](https://open.spotify.com/album/7HrKG5OOMmKIjMur9xHlDF) | 2:54 |
-| 2 | [ANEMONE](https://open.spotify.com/track/2G9sF8GTzTSlPs4KpWffrx) | [Gordon Flanders](https://open.spotify.com/artist/2yMjXqAPoOehNikcWBRdfD) | [ANEMONE](https://open.spotify.com/album/36mXO36uWWSuTjDIb5K9Hq) | 3:32 |
-| 3 | [1234](https://open.spotify.com/track/0sa1tVoQiF5aCpWh7BYQTH) | [Gordon Flanders](https://open.spotify.com/artist/2yMjXqAPoOehNikcWBRdfD), [SMY](https://open.spotify.com/artist/5bysmCOhvkQFNDDX9hpLJU) | [1234](https://open.spotify.com/album/3Nx0YNuzkEUGblTjsK2Tv8) | 3:52 |
-| 4 | [Never Meant to Hurt You](https://open.spotify.com/track/0ouOoGE1snaFzozJwFwokn) | [Gordon Flanders](https://open.spotify.com/artist/2yMjXqAPoOehNikcWBRdfD) | [Never Meant to Hurt You](https://open.spotify.com/album/2CPfE2n9b4XbtLUQXT7HJs) | 3:16 |
-| 5 | [GO UP](https://open.spotify.com/track/1WLjBAS287dg6jaYdYjdpn) | [KALAI 家麗](https://open.spotify.com/artist/1TwAmYMVhBwnBdNVKCHsOT) | [GO UP](https://open.spotify.com/album/55ShbiXKTKwGmHpb78dz5V) | 3:07 |
-| 6 | [This Is Our Time](https://open.spotify.com/track/53gylyBSKjTAlYQx2OBMol) | [KALAI 家麗](https://open.spotify.com/artist/1TwAmYMVhBwnBdNVKCHsOT) | [This Is Our Time](https://open.spotify.com/album/43glLAVF68qBfkxbGn6LRZ) | 3:12 |
-| 7 | [FIREFLY](https://open.spotify.com/track/2BCiUbp91GsIFGJ5STNJb5) | [KALAI 家麗](https://open.spotify.com/artist/1TwAmYMVhBwnBdNVKCHsOT) | [FIREFLY](https://open.spotify.com/album/47RtToMA85gdb9x5weDMLy) | 3:37 |
-| 8 | [LOOK AT ME](https://open.spotify.com/track/0q0J04NigVLzVEtTJ43Gtx) | [KALAI 家麗](https://open.spotify.com/artist/1TwAmYMVhBwnBdNVKCHsOT), [JOCELINE](https://open.spotify.com/artist/7JpBZy4NUF2irqBCpIg1N3), [J Jelly](https://open.spotify.com/artist/6P03BlZWRPQGNSyiauTllj) | [LOOK AT ME](https://open.spotify.com/album/4W86QzHSltzRLWcXnWkgjC) | 3:13 |
-| 9 | [Dancing in Delirium](https://open.spotify.com/track/6VPECBUXUyqaHNdwJTRaYs) | [LilithQueenB](https://open.spotify.com/artist/63omHXed38Mlx1DyIlSP3m) | [Dancing in Delirium](https://open.spotify.com/album/072k6yfPLKbZG2iz7cBL51) | 2:40 |
-| 10 | [Main blanche](https://open.spotify.com/track/70c3xsQzUtUljpiPHbT8NG) | [LilithQueenB](https://open.spotify.com/artist/63omHXed38Mlx1DyIlSP3m), [Micol](https://open.spotify.com/artist/6sjrXwjrI7oTl73bClCKER) | [Main blanche](https://open.spotify.com/album/4X1XI4sACBsLxyYQqQaXeg) | 3:31 |
-| 11 | [LILITH](https://open.spotify.com/track/0dkgpByFaFUSMbr7k8PqXn) | [LilithQueenB](https://open.spotify.com/artist/63omHXed38Mlx1DyIlSP3m) | [LILITH](https://open.spotify.com/album/1E4Hklni81g0ec5DSoR14j) | 3:15 |
-| 12 | [Count to Three](https://open.spotify.com/track/7GRKbr2Pb4B2bm4LC6NRb2) | [Nancy Kwai](https://open.spotify.com/artist/4HvRVZWV98NPY0IwqVJroy) | [Count to Three](https://open.spotify.com/album/57HV84AdSQXLWEdBYYkArT) | 2:55 |
-| 13 | [Teaser](https://open.spotify.com/track/6cVTmFLm9hhu5KIKvlThQX) | [Nancy Kwai](https://open.spotify.com/artist/4HvRVZWV98NPY0IwqVJroy) | [Teaser](https://open.spotify.com/album/67BgP8ggs4tkB0hR90ehXA) | 2:52 |
+| 1 | [GO UP](https://open.spotify.com/track/1WLjBAS287dg6jaYdYjdpn) | [KALAI 家麗](https://open.spotify.com/artist/1TwAmYMVhBwnBdNVKCHsOT) | [GO UP](https://open.spotify.com/album/55ShbiXKTKwGmHpb78dz5V) | 3:07 |
+| 2 | [This Is Our Time](https://open.spotify.com/track/53gylyBSKjTAlYQx2OBMol) | [KALAI 家麗](https://open.spotify.com/artist/1TwAmYMVhBwnBdNVKCHsOT) | [This Is Our Time](https://open.spotify.com/album/43glLAVF68qBfkxbGn6LRZ) | 3:12 |
+| 3 | [FIREFLY](https://open.spotify.com/track/2BCiUbp91GsIFGJ5STNJb5) | [KALAI 家麗](https://open.spotify.com/artist/1TwAmYMVhBwnBdNVKCHsOT) | [FIREFLY](https://open.spotify.com/album/47RtToMA85gdb9x5weDMLy) | 3:37 |
+| 4 | [LOOK AT ME](https://open.spotify.com/track/0q0J04NigVLzVEtTJ43Gtx) | [KALAI 家麗](https://open.spotify.com/artist/1TwAmYMVhBwnBdNVKCHsOT), [JOCELINE](https://open.spotify.com/artist/7JpBZy4NUF2irqBCpIg1N3), [J Jelly](https://open.spotify.com/artist/6P03BlZWRPQGNSyiauTllj) | [LOOK AT ME](https://open.spotify.com/album/4W86QzHSltzRLWcXnWkgjC) | 3:13 |
+| 5 | [Count to Three](https://open.spotify.com/track/7GRKbr2Pb4B2bm4LC6NRb2) | [Nancy Kwai](https://open.spotify.com/artist/4HvRVZWV98NPY0IwqVJroy) | [Count to Three](https://open.spotify.com/album/57HV84AdSQXLWEdBYYkArT) | 2:55 |
+| 6 | [Teaser](https://open.spotify.com/track/6cVTmFLm9hhu5KIKvlThQX) | [Nancy Kwai](https://open.spotify.com/artist/4HvRVZWV98NPY0IwqVJroy) | [Teaser](https://open.spotify.com/album/67BgP8ggs4tkB0hR90ehXA) | 2:52 |
+| 7 | [歌手職訓101](https://open.spotify.com/track/2tM6ukbTDeDLHPpdPCe3oC) | [Gordon Flanders](https://open.spotify.com/artist/2yMjXqAPoOehNikcWBRdfD) | [歌手職訓101](https://open.spotify.com/album/7HrKG5OOMmKIjMur9xHlDF) | 2:54 |
+| 8 | [ANEMONE](https://open.spotify.com/track/2G9sF8GTzTSlPs4KpWffrx) | [Gordon Flanders](https://open.spotify.com/artist/2yMjXqAPoOehNikcWBRdfD) | [ANEMONE](https://open.spotify.com/album/36mXO36uWWSuTjDIb5K9Hq) | 3:32 |
+| 9 | [1234](https://open.spotify.com/track/0sa1tVoQiF5aCpWh7BYQTH) | [Gordon Flanders](https://open.spotify.com/artist/2yMjXqAPoOehNikcWBRdfD), [SMY](https://open.spotify.com/artist/5bysmCOhvkQFNDDX9hpLJU) | [1234](https://open.spotify.com/album/3Nx0YNuzkEUGblTjsK2Tv8) | 3:52 |
+| 10 | [Never Meant to Hurt You](https://open.spotify.com/track/0ouOoGE1snaFzozJwFwokn) | [Gordon Flanders](https://open.spotify.com/artist/2yMjXqAPoOehNikcWBRdfD) | [Never Meant to Hurt You](https://open.spotify.com/album/2CPfE2n9b4XbtLUQXT7HJs) | 3:16 |
+| 11 | [Dancing in Delirium](https://open.spotify.com/track/6VPECBUXUyqaHNdwJTRaYs) | [LilithQueenB](https://open.spotify.com/artist/63omHXed38Mlx1DyIlSP3m) | [Dancing in Delirium](https://open.spotify.com/album/072k6yfPLKbZG2iz7cBL51) | 2:40 |
+| 12 | [Main blanche](https://open.spotify.com/track/70c3xsQzUtUljpiPHbT8NG) | [LilithQueenB](https://open.spotify.com/artist/63omHXed38Mlx1DyIlSP3m), [Micol](https://open.spotify.com/artist/6sjrXwjrI7oTl73bClCKER) | [Main blanche](https://open.spotify.com/album/4X1XI4sACBsLxyYQqQaXeg) | 3:31 |
+| 13 | [LILITH](https://open.spotify.com/track/0dkgpByFaFUSMbr7k8PqXn) | [LilithQueenB](https://open.spotify.com/artist/63omHXed38Mlx1DyIlSP3m) | [LILITH](https://open.spotify.com/album/1E4Hklni81g0ec5DSoR14j) | 3:15 |
 | 14 | [七姊妹星團](https://open.spotify.com/track/46ijStQoqmP8sHxF4oC10x) | [Lolly Talk](https://open.spotify.com/artist/58mVHcSF3eyFFKomq28iRr) | [七姊妹星團](https://open.spotify.com/album/0KUeT2hHz8GFbLXT4Yfd5F) | 3:20 |
 | 15 | [五種愛的密語](https://open.spotify.com/track/3bUjOhILvle7j4yBLfxoYx) | [Lolly Talk](https://open.spotify.com/artist/58mVHcSF3eyFFKomq28iRr) | [五種愛的密語](https://open.spotify.com/album/2jwrFQsFUNjLYwBeNKgMAG) | 3:06 |
 | 16 | [三分甜](https://open.spotify.com/track/2KAUjZ3n3UmaRveXMvzgUu) | [Lolly Talk](https://open.spotify.com/artist/58mVHcSF3eyFFKomq28iRr) | [三分甜](https://open.spotify.com/album/68v7jR4cAvUiyzK7oL7HnI) | 3:53 |
@@ -52,4 +52,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OL0nzXOfhW.md) - [plain]
 | 42 | [Letter](https://open.spotify.com/track/2lbvrvkQz9KBViH9DqIHh3) | [盧華](https://open.spotify.com/artist/02bKj9c6JChnTRQN6vy6YQ) | [Letter](https://open.spotify.com/album/4FHTXsdIaOURNZksJ5OduD) | 2:52 |
 | 43 | [Hidey](https://open.spotify.com/track/2gxqb9SIEdO2GNsXMGy6RA) | [Fds/4eva](https://open.spotify.com/artist/6BAS4CMtL9MbsriwI4SL0Z) | [Greatest Hits](https://open.spotify.com/album/5X2G9WeSFy9EADzx7bT0b1) | 5:18 |
 
-Snapshot ID: `MCw1YzZhMjdhYTA0OTI5MGMxMDM2ZjIxOWNmYjBmYjRiZTM5YWZlOTQ2`
+Snapshot ID: `MCxhNDRkNWZiYTJmZmU4MmYzNTYxNDY5MGY3MTIxNjMxNWJiYzg0YjQ0`

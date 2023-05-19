@@ -4,7 +4,7 @@
 
 > Hot & new K\-Drama OSTs are here! \(Cover: Doctor Cha\) \(인기 있는 화제의 OST곡들을 즐겨보세요!\) \(커버: 닥터 차정숙\)
 
-603 songs - 1 day 12 hr 35 min
+604 songs - 1 day 12 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -400,6 +400,7 @@
 | [Our love was pain \(Nth Romance X Baek Z Young\)](https://open.spotify.com/track/4HdQsMtjNUqknNh5V0fGpE) | [Baek Ji Young](https://open.spotify.com/artist/3l0MJ9LCiBlMyOMaz485Q5) | [Our love was pain \(Nth Romance X Baek Z Young\)](https://open.spotify.com/album/4vmJ55oDItdV87QWV1gRCP) | 3:39 | 2021-12-19 | 2022-03-23 |
 | [Our Season](https://open.spotify.com/track/0AZS7hgLM2Iv69X1ZfKebV) | [JAECHAN](https://open.spotify.com/artist/2ggXDRbe4d24r7MD54kVbE) | [SPRING \(Original Soundtrack from Watcha's original show 'Our Season: Spring with Park Jae Chan'\)](https://open.spotify.com/album/0FHf6xPUIGsnYwxOhCuhzP) | 3:50 | 2022-08-02 | 2022-11-17 |
 | [Our Story](https://open.spotify.com/track/7LWqeNEnmepvdQ6uotkQOj) | [MeloMance](https://open.spotify.com/artist/6k4r73Wq8nhkCDoUsECL1e) | [YUMI's Cells, Pt\. 8 \(Original Television Soundtrack\)](https://open.spotify.com/album/3Runhy6ygiQdkSfH49ezKB) | 3:59 | 2021-12-19 | 2022-02-04 |
+| [Part of Your World \- From "The Little Mermaid"/Korean Soundtrack Version](https://open.spotify.com/track/2ouYvmVxhKfNR1LHrMLHqM) | [Danielle](https://open.spotify.com/artist/3BNhPTiKBExlE45mYeC9YY) | [Part of Your World \(From "The Little Mermaid"/Korean Soundtrack Version\)](https://open.spotify.com/album/29U7Nu19hGHuNYDSBuhNgN) | 3:34 | 2023-05-18 |  |
 | [Pick up your phone](https://open.spotify.com/track/4JDgsbLSsxlNa7pESK5Vqt) | [Mirani](https://open.spotify.com/artist/6N7b9mUVwn885jI7RRg8no) | [비밀:리에 Vol\. 5 "Pick up your phone"](https://open.spotify.com/album/3mKRbS65znpQtwRkFlSiLN) | 2:52 | 2022-04-12 | 2022-06-21 |
 | [Picture](https://open.spotify.com/track/6DanOFoU6LbNUwoNF8chl0) | [HYUNGWON](https://open.spotify.com/artist/2X7BGapA7C4ELFcpFWNNTx) | [Picture \(Fly Again X HYUNGWON\(MONSTA X\)\)](https://open.spotify.com/album/2yjWnI16HqIN9RKbNuYYod) | 3:27 | 2021-12-19 | 2022-03-30 |
 | [Pit a Pat](https://open.spotify.com/track/5bmr4XB9X2QQPpnrY6PwwZ) | [SEUNGKWAN](https://open.spotify.com/artist/0Vb2DjojEYsasFpc3aTZb6) | [Link: Eat, Love, Kill \(Original Television Soundtrack\), Pt\. 4](https://open.spotify.com/album/2Hp9GqzPYOzPV4nkJ0iKVr) | 3:32 | 2022-06-28 | 2022-11-04 |

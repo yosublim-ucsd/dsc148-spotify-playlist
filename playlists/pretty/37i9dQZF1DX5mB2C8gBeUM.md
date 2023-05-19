@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5mB2C8gBeUM.md) - [plain]
 
 > Country gone wild! You never know what you're gonna get\. Cover: Diplo & Lily Rose
 
-[Spotify](https://open.spotify.com/user/spotify) - 916,836 likes - 124 songs - 6 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 916,955 likes - 124 songs - 6 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5mB2C8gBeUM.md) - [plain]
 | 29 | [Country Boy Do \(feat\. Tyler Hubbard\)](https://open.spotify.com/track/24MH7MzHl5XAYlmMdn85CF) | [Nelly](https://open.spotify.com/artist/2gBjLmx6zQnFGQJCAQpRgw), [Tyler Hubbard](https://open.spotify.com/artist/3BEV5FcxOtkQJ7lLRKMh3V) | [Heartland](https://open.spotify.com/album/1a7BlXLCqjTxQh6X8L9JBL) | 2:56 |
 | 30 | [The Only Problem Is](https://open.spotify.com/track/41Q02iK1KtjflVNuUBXPsq) | [Abby Anderson](https://open.spotify.com/artist/0WicR9iYAPd0Bi7i3bz9MB) | [Sugar Spice](https://open.spotify.com/album/0Ugvwj0WVE8HUBFHTzihME) | 3:41 |
 | 31 | [be alright](https://open.spotify.com/track/3dpkmgWLr1g3rckqY4Vdrk) | [Jimmie Allen](https://open.spotify.com/artist/147nKr9upHZSSxqCzh9j7c) | [Tulip Drive](https://open.spotify.com/album/4j5QWQbCjApOfP5howYsZX) | 2:54 |
-| 32 | [Here For It \(feat\. Ingrid Andress\)](https://open.spotify.com/track/539AfK6L46AlSeQLKerleq) | [BRELAND](https://open.spotify.com/artist/0C86lmpnwiyLDUiyo4d0P1), [Ingrid Andress](https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii) | [Cross Country](https://open.spotify.com/album/3I72c7nfxXdDDSPF04opm0) | 3:03 |
+| 32 | [Here for It \(feat\. Ingrid Andress\)](https://open.spotify.com/track/539AfK6L46AlSeQLKerleq) | [BRELAND](https://open.spotify.com/artist/0C86lmpnwiyLDUiyo4d0P1), [Ingrid Andress](https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii) | [Cross Country](https://open.spotify.com/album/3I72c7nfxXdDDSPF04opm0) | 3:03 |
 | 33 | [Haw Yee](https://open.spotify.com/track/6b9TY1cfPnJKGjedkYMRIQ) | [El Ray](https://open.spotify.com/artist/32pa3a2Tu9C4TmrAtN6cyO), [Confetti](https://open.spotify.com/artist/1oyUjl52ohRrCv3EL1UdpM) | [Haw Yee](https://open.spotify.com/album/1hSBCYMhXhQwaZom8bpHBr) | 2:46 |
 | 34 | [I Don't Go Back](https://open.spotify.com/track/55Y4hbXnw8DZDGxwVFr6Xp) | [Kassi Ashton](https://open.spotify.com/artist/1LCsAfmP4l13EYtzDaLMAg) | [I Don't Go Back](https://open.spotify.com/album/0Rh8EYAlpUkvonGJoBMudV) | 3:20 |
 | 35 | [Water Under The Bridge](https://open.spotify.com/track/4viFAHmivkYQKkwLvwKOgg) | [Sam Hunt](https://open.spotify.com/artist/2kucQ9jQwuD8jWdtR9Ef38) | [Water Under The Bridge](https://open.spotify.com/album/1utmiav7Az868fJjhPCeeA) | 2:49 |
@@ -133,4 +133,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5mB2C8gBeUM.md) - [plain]
 | 123 | [Dutton Ranch Freestyle](https://open.spotify.com/track/5GUBtgwJqu5YYRlH9UmsEh) | [David Morris](https://open.spotify.com/artist/23Pb3oXBOQj9WEziS6laUW) | [Dutton Ranch Freestyle](https://open.spotify.com/album/12ucndqZaX2jUTEGxWMjDk) | 2:23 |
 | 124 | [Young and Stupid](https://open.spotify.com/track/07Eq4v5xtaWJ8l4X2qzSiB) | [Pillbox Patti](https://open.spotify.com/artist/1tAy2qZQdjG9ulfI9btLoO) | [Young and Stupid](https://open.spotify.com/album/5xl2oTEoecXlwCVQ6waF89) | 3:58 |
 
-Snapshot ID: `MCw2N2M1YWE1YmIyMjY3YjcwMzhiN2YxMDMyNmQxMzE4ZDI0ZDAyNTUy`
+Snapshot ID: `MCxiMWI0NzIzYzg3MmUyNWFmNmYwYzlmODc4NTY4NmNhNzZjMDk2YWQy`

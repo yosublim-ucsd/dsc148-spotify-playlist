@@ -4,7 +4,7 @@
 
 > our favorite emo cowgirl Megan Moroney is taking over to celebrate her new album "Lucky" 🥲
 
-128 songs - 7 hr 55 min
+129 songs - 7 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,7 +41,8 @@
 | [Forgetting You](https://open.spotify.com/track/56DsYXpdqkl3t2G3xM8MtA) | [Cam](https://open.spotify.com/artist/5WRElKaZsn1tGnrgmJVAeO) | [The Otherside](https://open.spotify.com/album/5MVSCE7VkkqDA6TS9Ug1rW) | 3:04 | 2022-04-26 | 2022-07-29 |
 | [Gave It Back Broken](https://open.spotify.com/track/6r4PlTnpyf6AlGWyJMb1wx) | [Callista Clark](https://open.spotify.com/artist/5aizOVB0aFinBgezLPkhnm) | [Gave It Back Broken](https://open.spotify.com/album/5ivndE0YVTnHp0yKAZ1Ux0) | 4:05 | 2022-05-20 | 2022-07-17 |
 | [Girl Crush](https://open.spotify.com/track/11qh54D0PKkBwelpDxxiEU) | [Little Big Town](https://open.spotify.com/artist/3CygdxquGHurS7f9LjNLkv) | [Pain Killer](https://open.spotify.com/album/49lwR8y1i51wrQRnhw5C3H) | 3:13 | 2022-04-26 |  |
-| [Girl in the Mirror](https://open.spotify.com/track/0qwSPLH0QyaMZlmJtsxNZ5) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [Girl in the Mirror](https://open.spotify.com/album/3pvp1aMU2i1lF6sFlsXV5J) | 2:45 | 2023-04-14 |  |
+| [Girl in the Mirror](https://open.spotify.com/track/0qwSPLH0QyaMZlmJtsxNZ5) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [Girl in the Mirror](https://open.spotify.com/album/3pvp1aMU2i1lF6sFlsXV5J) | 2:45 | 2023-04-14 | 2023-05-19 |
+| [Girl in the Mirror](https://open.spotify.com/track/6t0PM7tXvdqEHKYHtEDl5H) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [Lucky](https://open.spotify.com/album/5DFed53ADZwnPOYuqoZJHK) | 2:45 | 2023-05-05 |  |
 | [Girls In My Hometown](https://open.spotify.com/track/79Mc3PPC4D5TxqyTt6KRbU) | [Danielle Bradbery](https://open.spotify.com/artist/5iqStkZi6QmG8sgQZQrfGN) | [Girls In My Hometown](https://open.spotify.com/album/2530bzCnHW2iPU9egcQJUP) | 3:13 | 2022-04-26 | 2022-07-27 |
 | [GIVE HEAVEN SOME HELL](https://open.spotify.com/track/2bVeUlOC5JjTpkQXuUUoYm) | [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy) | [A ROCK](https://open.spotify.com/album/6j6uNK4vsfLXqVwWXwvqYQ) | 3:37 | 2022-08-26 | 2022-12-06 |
 | [Giving You Up \- Acoustic](https://open.spotify.com/track/5NIGKX5at9iO87OyOHmoiV) | [Kameron Marlowe](https://open.spotify.com/artist/31n3CN1jSC5ALUJ9dwT8UI) | [Giving You Up \(Acoustic\)](https://open.spotify.com/album/7MQzvFfSyYioQwB6r98dwD) | 3:52 | 2022-04-26 |  |

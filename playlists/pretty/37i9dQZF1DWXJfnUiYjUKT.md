@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJfnUiYjUKT.md) - [plain]
 
 > The very best in new music from around the world\. Cover: Jonas Brothers
 
-[Spotify](https://open.spotify.com/user/spotify) - 371,457 likes - 100 songs - 5 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 371,183 likes - 100 songs - 5 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -96,7 +96,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJfnUiYjUKT.md) - [plain]
 | 86 | [RUNWAY](https://open.spotify.com/track/6RgHP2GxcBKzm5lvcTeoIP) | [little image](https://open.spotify.com/artist/5Ljgq0b8I3YkUwp3gtB1wm) | [SELF TITLED](https://open.spotify.com/album/6o0YwojO6M7VuoXkyuEKW2) | 3:16 |
 | 87 | [Killing Me \(feat\. Hillary Lindsey\)](https://open.spotify.com/track/3fAZ38PiyZaozDD6zZcNyN) | [Lori McKenna](https://open.spotify.com/artist/1OV5mEATxtVma7fleFaUyl), [Hillary Lindsey](https://open.spotify.com/artist/5mX9Z6qHTTHHFCreShrFIA) | [Killing Me \(feat\. Hillary Lindsey\)](https://open.spotify.com/album/0mzoK1Yw7i92QboRvlRcWo) | 2:47 |
 | 88 | [You Shine](https://open.spotify.com/track/7xErthsNR0N0Q6jCfTrgF0) | [The Young Escape](https://open.spotify.com/artist/39ZuGmOP3orNn5Pf8S13VW) | [You Shine](https://open.spotify.com/album/72jFirpOEYhHfEPNC0kpQt) | 3:24 |
-| 89 | [MOVE](https://open.spotify.com/track/6RemYyY2mxu0N8qjjrShnQ) | [Idina Menzel](https://open.spotify.com/artist/73Np75Wv2tju61Eo9Zw4IR) | [MOVE](https://open.spotify.com/album/4nMAiQTGaqm3fKz1e2Vw7p) | 2:44 |
+| 89 | [Move](https://open.spotify.com/track/6RemYyY2mxu0N8qjjrShnQ) | [Idina Menzel](https://open.spotify.com/artist/73Np75Wv2tju61Eo9Zw4IR) | [MOVE](https://open.spotify.com/album/4nMAiQTGaqm3fKz1e2Vw7p) | 2:44 |
 | 90 | [Drown](https://open.spotify.com/track/1V5y0xMb0syKomJH0jSLdf) | [Will Paquin](https://open.spotify.com/artist/0oouuXi8tdasgUgk520Jy6) | [Drown](https://open.spotify.com/album/7kPbGx2SpdAATE9m3WX3Bo) | 2:44 |
 | 91 | [Old Man](https://open.spotify.com/track/0twq6M40aU5NBb76xdhyJa) | [Albert Hammond Jr](https://open.spotify.com/artist/1Li0eIWeMeWcOOWpImcG9H) | [Melodies on Hiatus \- Part 1](https://open.spotify.com/album/06NbI8mRE1dqOm2zP99kBe) | 3:33 |
 | 92 | [Bubble Wrap](https://open.spotify.com/track/18FE77kJAwPMcuCnBLUciS) | [Precious Pepala](https://open.spotify.com/artist/2i6GoBzXmwxdD44bUM26M1) | [Bubble Wrap](https://open.spotify.com/album/78WrvGD9hVnhpcNGp0GTuP) | 2:51 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJfnUiYjUKT.md) - [plain]
 | 99 | [Just Cool](https://open.spotify.com/track/553yNvwJjHlHwDF4fA9ZUP) | [Obongjayar](https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h) | [Just Cool](https://open.spotify.com/album/1pD1bZq3gntKVyJOiESfQJ) | 3:40 |
 | 100 | [The World to Come](https://open.spotify.com/track/3kRm4aprusJnK7baeXzcsF) | [Zusha](https://open.spotify.com/artist/0VXG44vdmNhcTCipc2Iz3Z) | [The World to Come](https://open.spotify.com/album/46woSsdEBn20ygi6rQOu9r) | 3:13 |
 
-Snapshot ID: `MCxjMTI3NmQyMWZiZjJjNmI4ZTk4ZTk5NmFiMWVhNjAxNjQ4MWY4ZmM1`
+Snapshot ID: `MCxlOWRlNTVkZmRiNmRiOGVkMTUxZDA0NTJkM2Q5OTQ3ZWU1YjMyYzQ1`

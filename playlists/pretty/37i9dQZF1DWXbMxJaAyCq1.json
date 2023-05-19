@@ -1,12 +1,12 @@
 {
   "description": "This is the remix... esc\u00fachalos ac\u00e1. Foto: Justin Quiles, Myke Towers, Ozuna",
-  "num_followers": 393783,
+  "num_followers": 394315,
   "original_name": "Remixes Urbanos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2NDBjOTQ5YWMyZDZhNjYwMDNmZTE0ZmYxODQzNDRmYzg1YTUxYzEz",
+  "snapshot_id": "MCxlZDY1NjMxNTljNmQwZjQ5YzQ1MjBkOWQ3NTNmNDJiODQzZjg0ZWYy",
   "tracks": [
     {
       "added_at": "2023-05-05 19:11:41",
@@ -567,6 +567,50 @@
     {
       "added_at": "2023-05-05 19:11:41",
       "album": {
+        "name": "Calma (Remix)",
+        "url": "https://open.spotify.com/album/1tFnP9PwIMeMIuj92mfswZ"
+      },
+      "artists": [
+        {
+          "name": "Pedro Cap\u00f3",
+          "url": "https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy"
+        },
+        {
+          "name": "Farruko",
+          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
+        }
+      ],
+      "duration_ms": 238200,
+      "name": "Calma - Remix",
+      "url": "https://open.spotify.com/track/5iwz1NiezX7WWjnCgY5TH4"
+    },
+    {
+      "added_at": "2023-05-05 19:11:41",
+      "album": {
+        "name": "AM Remix",
+        "url": "https://open.spotify.com/album/1jTRS4KS666BesH1GUHyEV"
+      },
+      "artists": [
+        {
+          "name": "Nio Garcia",
+          "url": "https://open.spotify.com/artist/5hdhHgpxyniooUiQVaPxQ0"
+        },
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        },
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "duration_ms": 261334,
+      "name": "AM Remix",
+      "url": "https://open.spotify.com/track/05bfbizlM5AX6Mf1RRyMho"
+    },
+    {
+      "added_at": "2023-05-05 19:11:41",
+      "album": {
         "name": "Te Extra\u00f1o a Lo Vio (feat. Balbi El Chamako, Bayron Fire, Bayriton, Tommy Boysen, Gringuitos Records, El Rey) [Remix]",
         "url": "https://open.spotify.com/album/4BbheII9RPkXhHCae8AoM0"
       },
@@ -611,50 +655,6 @@
       "duration_ms": 483683,
       "name": "Te Extra\u00f1o a Lo Vio (feat. Balbi El Chamako, Bayron Fire, Bayriton, Tommy Boysen, Gringuitos Records, El Rey) - Remix",
       "url": "https://open.spotify.com/track/6YNzvCsLwAJ4xZjdK9qk3r"
-    },
-    {
-      "added_at": "2023-05-05 19:11:41",
-      "album": {
-        "name": "AM Remix",
-        "url": "https://open.spotify.com/album/1jTRS4KS666BesH1GUHyEV"
-      },
-      "artists": [
-        {
-          "name": "Nio Garcia",
-          "url": "https://open.spotify.com/artist/5hdhHgpxyniooUiQVaPxQ0"
-        },
-        {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
-        },
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        }
-      ],
-      "duration_ms": 261334,
-      "name": "AM Remix",
-      "url": "https://open.spotify.com/track/05bfbizlM5AX6Mf1RRyMho"
-    },
-    {
-      "added_at": "2023-05-05 19:11:41",
-      "album": {
-        "name": "Calma (Remix)",
-        "url": "https://open.spotify.com/album/1tFnP9PwIMeMIuj92mfswZ"
-      },
-      "artists": [
-        {
-          "name": "Pedro Cap\u00f3",
-          "url": "https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy"
-        },
-        {
-          "name": "Farruko",
-          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
-        }
-      ],
-      "duration_ms": 238200,
-      "name": "Calma - Remix",
-      "url": "https://open.spotify.com/track/5iwz1NiezX7WWjnCgY5TH4"
     },
     {
       "added_at": "2023-05-05 19:11:41",
@@ -851,26 +851,34 @@
     {
       "added_at": "2023-05-05 19:11:41",
       "album": {
-        "name": "Desde Mis Ojos (Remix)",
-        "url": "https://open.spotify.com/album/7eJGJIPw6kPngdBin2b3iL"
+        "name": "No Fue (feat. Brray, Feid) [Remix]",
+        "url": "https://open.spotify.com/album/41KfceWx13z7stHEFrgPxt"
       },
       "artists": [
         {
-          "name": "Chris Lebron",
-          "url": "https://open.spotify.com/artist/3GPTvhZ8XfH7WkHXidvELk"
+          "name": "Leebrian",
+          "url": "https://open.spotify.com/artist/40lro6xpFS9TxV2uC7yvs4"
         },
         {
-          "name": "Sech",
-          "url": "https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht"
+          "name": "Cauty",
+          "url": "https://open.spotify.com/artist/2QUvtLq6oQaX0LNsYY2fas"
         },
         {
-          "name": "Jay Wheeler",
-          "url": "https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g"
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        },
+        {
+          "name": "Brray",
+          "url": "https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ"
+        },
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
         }
       ],
-      "duration_ms": 223563,
-      "name": "Desde Mis Ojos - Remix",
-      "url": "https://open.spotify.com/track/0hzC5kZ6qKZJ9ybyW75VV8"
+      "duration_ms": 317789,
+      "name": "No Fue - Remix",
+      "url": "https://open.spotify.com/track/3b2STpVG1wHiZJ7u6hvmoR"
     },
     {
       "added_at": "2023-05-05 19:11:41",
@@ -939,34 +947,26 @@
     {
       "added_at": "2023-05-05 19:11:41",
       "album": {
-        "name": "No Fue (feat. Brray, Feid) [Remix]",
-        "url": "https://open.spotify.com/album/41KfceWx13z7stHEFrgPxt"
+        "name": "Desde Mis Ojos (Remix)",
+        "url": "https://open.spotify.com/album/7eJGJIPw6kPngdBin2b3iL"
       },
       "artists": [
         {
-          "name": "Leebrian",
-          "url": "https://open.spotify.com/artist/40lro6xpFS9TxV2uC7yvs4"
+          "name": "Chris Lebron",
+          "url": "https://open.spotify.com/artist/3GPTvhZ8XfH7WkHXidvELk"
         },
         {
-          "name": "Cauty",
-          "url": "https://open.spotify.com/artist/2QUvtLq6oQaX0LNsYY2fas"
+          "name": "Sech",
+          "url": "https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht"
         },
         {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
-        },
-        {
-          "name": "Brray",
-          "url": "https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ"
-        },
-        {
-          "name": "Feid",
-          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+          "name": "Jay Wheeler",
+          "url": "https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g"
         }
       ],
-      "duration_ms": 317789,
-      "name": "No Fue - Remix",
-      "url": "https://open.spotify.com/track/3b2STpVG1wHiZJ7u6hvmoR"
+      "duration_ms": 223563,
+      "name": "Desde Mis Ojos - Remix",
+      "url": "https://open.spotify.com/track/0hzC5kZ6qKZJ9ybyW75VV8"
     },
     {
       "added_at": "2023-05-05 19:11:41",
@@ -1267,26 +1267,6 @@
     {
       "added_at": "2023-05-05 19:11:41",
       "album": {
-        "name": "El Farsante (Remix)",
-        "url": "https://open.spotify.com/album/5lCXXIhQu0sY2M6BEROMu3"
-      },
-      "artists": [
-        {
-          "name": "Ozuna",
-          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
-        },
-        {
-          "name": "Romeo Santos",
-          "url": "https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP"
-        }
-      ],
-      "duration_ms": 258000,
-      "name": "El Farsante - Remix",
-      "url": "https://open.spotify.com/track/7uYgVgRSgqluZclLS7wpp4"
-    },
-    {
-      "added_at": "2023-05-05 19:11:41",
-      "album": {
         "name": "Dream Girl (Remix)",
         "url": "https://open.spotify.com/album/0BeosbWOaMfZ5itwYQfw86"
       },
@@ -1303,6 +1283,26 @@
       "duration_ms": 192452,
       "name": "Dream Girl - Remix",
       "url": "https://open.spotify.com/track/099tjv6oy2opbpCOA3nBwX"
+    },
+    {
+      "added_at": "2023-05-05 19:11:41",
+      "album": {
+        "name": "El Farsante (Remix)",
+        "url": "https://open.spotify.com/album/5lCXXIhQu0sY2M6BEROMu3"
+      },
+      "artists": [
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        },
+        {
+          "name": "Romeo Santos",
+          "url": "https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP"
+        }
+      ],
+      "duration_ms": 258000,
+      "name": "El Farsante - Remix",
+      "url": "https://open.spotify.com/track/7uYgVgRSgqluZclLS7wpp4"
     },
     {
       "added_at": "2023-05-05 19:11:41",
@@ -1543,26 +1543,6 @@
     {
       "added_at": "2023-05-05 19:11:41",
       "album": {
-        "name": "Quien TV Remix",
-        "url": "https://open.spotify.com/album/1jUjEXT01RukxK6RfABeYL"
-      },
-      "artists": [
-        {
-          "name": "Blessd",
-          "url": "https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX"
-        },
-        {
-          "name": "Ryan Castro",
-          "url": "https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz"
-        }
-      ],
-      "duration_ms": 163708,
-      "name": "Quien TV Remix",
-      "url": "https://open.spotify.com/track/58h5RuCMWCkstuXckWuRpp"
-    },
-    {
-      "added_at": "2023-05-05 19:11:41",
-      "album": {
         "name": "Persia (Remix)",
         "url": "https://open.spotify.com/album/4ELBi3Egy3cub0EzlJAN4W"
       },
@@ -1583,6 +1563,26 @@
       "duration_ms": 250906,
       "name": "Persia - Remix",
       "url": "https://open.spotify.com/track/3SgybTfx3GWHAcjhK9iPmz"
+    },
+    {
+      "added_at": "2023-05-05 19:11:41",
+      "album": {
+        "name": "Quien TV Remix",
+        "url": "https://open.spotify.com/album/1jUjEXT01RukxK6RfABeYL"
+      },
+      "artists": [
+        {
+          "name": "Blessd",
+          "url": "https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX"
+        },
+        {
+          "name": "Ryan Castro",
+          "url": "https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz"
+        }
+      ],
+      "duration_ms": 163708,
+      "name": "Quien TV Remix",
+      "url": "https://open.spotify.com/track/58h5RuCMWCkstuXckWuRpp"
     },
     {
       "added_at": "2023-05-05 19:11:41",

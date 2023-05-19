@@ -4,7 +4,7 @@
 
 > Fresh Latin Indie\. Cover: Giorgio Siladi
 
-360 songs - 20 hr 9 min
+361 songs - 20 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -221,9 +221,10 @@
 | [NO TE ALEJES](https://open.spotify.com/track/4Nx5BIyMer4DjxbE5aJh1v) | [Ainda](https://open.spotify.com/artist/3eZXi1et2XpXPD7PoUDDzE), [El Zar](https://open.spotify.com/artist/1cj1ov4uZ0Htsx9PWDpNvi) | [TE QUIERO](https://open.spotify.com/album/65EzIW9HRqb0a7v8gY3oXJ) | 3:30 | 2023-03-10 |  |
 | [Nostalgia](https://open.spotify.com/track/1IQqaM7FsAPlTIxYlfGnHw) | [Technicolor Fabrics](https://open.spotify.com/artist/2GtdjV9W8RmiI4W2AUl4Pl) | [Nostalgia](https://open.spotify.com/album/00dV6GBZJoLj9OdhYlIsnh) | 3:39 | 2022-11-24 | 2022-12-17 |
 | [Nostalgic Vibrations](https://open.spotify.com/track/7s0enDMJqctv0FNPo655ib) | [Los Retros](https://open.spotify.com/artist/0qraFJK6boYSp4ZMMX4PzG) | [Retrospect](https://open.spotify.com/album/0neNDIEwGKX8TIYRrJ8yMW) | 3:54 | 2022-01-10 | 2022-05-03 |
+| [Nube Negra](https://open.spotify.com/track/3ZeKDpDvthhspRGiosXkIQ) | [Juan Wauters](https://open.spotify.com/artist/7CKkZZW3XtnPmqlwaElmoV), [Y La Bamba](https://open.spotify.com/artist/6eb2gxfoBSQhmDYkQKz93b) | [Nube Negra](https://open.spotify.com/album/1hfFHStwTqvGuaERkgjyka) | 3:05 | 2023-05-15 |  |
 | [Nublado](https://open.spotify.com/track/1JhzXJFe4rvHFVHmRb3bQS) | [Mitú](https://open.spotify.com/artist/3OlI3HjAc1LQUmd7wozF6k), [Loyal Lobos](https://open.spotify.com/artist/26BPVK55HCqiBNb32TXfBf) | [Nublado](https://open.spotify.com/album/1bqvDiNrpVCeI8RbsgayEb) | 3:50 | 2023-03-31 |  |
 | [Nunca Es Tarde](https://open.spotify.com/track/4FHBc6Z61kNSrXVYFYDEwb) | [Technicolor Fabrics](https://open.spotify.com/artist/2GtdjV9W8RmiI4W2AUl4Pl) | [Querer Querer](https://open.spotify.com/album/60DFkAltGtzAmoSgfyU9J3) | 3:03 | 2021-11-18 | 2022-11-25 |
-| [Nunca Nunca](https://open.spotify.com/track/6Y0hEZqVjgkrP8VqWYcGvM) | [La Máquina Camaleón](https://open.spotify.com/artist/6NIyDDyPBRTyPZ6ggjE8Rj), [Neoma](https://open.spotify.com/artist/1rS9ZvNEWqnKY19g6uiqip) | [Blanca](https://open.spotify.com/album/7duIH01tOo9sohniGvpX7y) | 2:51 | 2023-05-15 |  |
+| [Nunca Nunca](https://open.spotify.com/track/6Y0hEZqVjgkrP8VqWYcGvM) | [La Máquina Camaleón](https://open.spotify.com/artist/6NIyDDyPBRTyPZ6ggjE8Rj), [Neoma](https://open.spotify.com/artist/1rS9ZvNEWqnKY19g6uiqip) | [Blanca](https://open.spotify.com/album/7duIH01tOo9sohniGvpX7y) | 2:51 | 2023-05-15 | 2023-05-19 |
 | [Nunca Tristes \(Me Vale Madre\)](https://open.spotify.com/track/3LWay44eeYFEh27Gf1UA7J) | [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [Nunca Tristes \(Me Vale Madre\)](https://open.spotify.com/album/5YoNvYemEqvFVdWicpjPe8) | 3:24 | 2022-12-16 | 2023-04-09 |
 | [Obra de Arte](https://open.spotify.com/track/35Bd5CL2ZxmseJleM0mpiu) | [Carla Morrison](https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe) | [Obra de Arte](https://open.spotify.com/album/5QxvKLDBwSqfaAIazJszfC) | 2:50 | 2021-11-18 | 2022-07-29 |
 | [Obra de Arte](https://open.spotify.com/track/3kJPCWZAOSi7Rxa4UR1bjv) | [Carla Morrison](https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe) | [El Renacimiento](https://open.spotify.com/album/7zQtZ4vMqrLoXe0pWxAExt) | 2:50 | 2022-06-29 | 2022-11-25 |
@@ -233,7 +234,7 @@
 | [odio esta casa \(cuando te vas\)](https://open.spotify.com/track/2gz0jf6QA7EhF8P29AUYbE) | [Carlos Colosio](https://open.spotify.com/artist/2kAfu4SJeTLKbvAnjbT2Au) | [odio esta casa \(cuando te vas\)](https://open.spotify.com/album/13BfMjOrCPVMQsaz89js8b) | 3:14 | 2023-05-15 |  |
 | [OJALA](https://open.spotify.com/track/3yd7sPPW1X7jYBlyuN6QKd) | [YADAM](https://open.spotify.com/artist/6JTZ3lKjLYsw1h5jDkwDhf) | [OJALA](https://open.spotify.com/album/3Ux3Zepw6rUNYiXh1n1m0v) | 3:38 | 2023-04-14 |  |
 | [ojitos caramelo \- Remix](https://open.spotify.com/track/3IQY6p8CS54KVq1Od2ZrQZ) | [Gala Nell](https://open.spotify.com/artist/4CVNESQIOFNvurriZVBarY), [Charlie Rodd](https://open.spotify.com/artist/2vylKAxeoJ2dAwIi9ck762), [Ivana](https://open.spotify.com/artist/5AXxk4cxkMNsTb4TtwLAQJ) | [ojitos caramelo \(Remix\)](https://open.spotify.com/album/0TSnNs3JqtmICglBkojDID) | 2:24 | 2023-03-10 |  |
-| [Olvidar De Ti](https://open.spotify.com/track/4FAyJudwDRGLZyXsYPxRRI) | [Niko Rubio](https://open.spotify.com/artist/6XdCL1kwMFNqPim2JwXjKa) | [Olvidar De Ti](https://open.spotify.com/album/2pQx1F9ehl2E8V88HuHhlb) | 2:13 | 2023-05-05 |  |
+| [olvidar de ti](https://open.spotify.com/track/4FAyJudwDRGLZyXsYPxRRI) | [Niko Rubio](https://open.spotify.com/artist/6XdCL1kwMFNqPim2JwXjKa) | [Olvidar De Ti](https://open.spotify.com/album/2pQx1F9ehl2E8V88HuHhlb) | 2:13 | 2023-05-05 |  |
 | [Olvidarte](https://open.spotify.com/track/77t0JVEA0Y8jvdSk2m6rUr) | [Jacinto](https://open.spotify.com/artist/1JYd1ixkJMTMLZ64Byk2uj) | [Olvidarte](https://open.spotify.com/album/5Kf3lNPZC50JcbEd8X6HWB) | 2:53 | 2022-09-06 | 2023-01-27 |
 | [Oscuridad](https://open.spotify.com/track/5i9XNqv8ay4PXRBNxfwdfZ) | [Jasper](https://open.spotify.com/artist/5H9fLAWx4MHfn3fHeczaAm) | [Oscuridad](https://open.spotify.com/album/1ArGHztaWAQKgVKivQdAyG) | 3:29 | 2021-11-18 | 2022-09-07 |
 | [OTRAS MUJERES](https://open.spotify.com/track/3TPyzaMVYGZq6PV1J4kXBV) | [YADAM](https://open.spotify.com/artist/6JTZ3lKjLYsw1h5jDkwDhf) | [OTRAS MUJERES](https://open.spotify.com/album/7kjsiTEu2hzDx0ioEPhWkF) | 3:00 | 2022-12-16 | 2023-04-15 |
@@ -286,7 +287,7 @@
 | [Se Acaba Todo](https://open.spotify.com/track/0uvY2zXHjplNTvfZMFXMYH) | [Vale](https://open.spotify.com/artist/22p8vOZwMABvl5qt2nZHWD) | [Se Acaba Todo](https://open.spotify.com/album/3rYMUeFGP3oUm4xfPWyugB) | 3:16 | 2022-08-11 | 2022-11-25 |
 | [Searching](https://open.spotify.com/track/7v1OGLqtQ7PtKt5IpibDUY) | [RARRI BLANCO](https://open.spotify.com/artist/1n4e1x8i4mKDSYWBiOtm6U) | [Searching](https://open.spotify.com/album/1RGJZLh0NYnWX2cqMaZnmz) | 3:20 | 2022-01-10 | 2022-07-28 |
 | [Sed](https://open.spotify.com/track/5qwBGh8rMY4jEdszbxXA0Z) | [Xavier Martinex](https://open.spotify.com/artist/1XLR7wR5X9EWHrL5BYV8oY), [Mauro Samaniego](https://open.spotify.com/artist/1mV80wU5C7aFDPn7GYRw9L) | [Sed](https://open.spotify.com/album/6taEnbo5tcuo1hY11NeZEK) | 3:08 | 2023-04-14 | 2023-05-15 |
-| [See Me Now](https://open.spotify.com/track/6zC9BpkTlnxeLkC2x9aQyb) | [Niko Rubio](https://open.spotify.com/artist/6XdCL1kwMFNqPim2JwXjKa) | [See Me Now](https://open.spotify.com/album/3YkfTFbfEgyprP6jtX4Ozi) | 3:29 | 2023-04-28 |  |
+| [see me now](https://open.spotify.com/track/6zC9BpkTlnxeLkC2x9aQyb) | [Niko Rubio](https://open.spotify.com/artist/6XdCL1kwMFNqPim2JwXjKa) | [See Me Now](https://open.spotify.com/album/3YkfTFbfEgyprP6jtX4Ozi) | 3:29 | 2023-04-28 |  |
 | [Será Mañana](https://open.spotify.com/track/4XVtPm10XFxXrpNjgUaL6C) | [Giorgio Siladi](https://open.spotify.com/artist/70yXUWs47Ej8wyiChPutgj) | [Será Mañana](https://open.spotify.com/album/6F0PzGcHo4zpd8YLbXcpBY) | 4:05 | 2023-03-10 | 2023-03-14 |
 | [Si Fui Yo](https://open.spotify.com/track/3xVDIiVKzx815eNVkPKT1J) | [Dstance](https://open.spotify.com/artist/1NxTfbylQiyMQ8yOFxG3x2) | [Si Fui Yo](https://open.spotify.com/album/3ystJXvxwN8aVGO3gSzzzs) | 2:26 | 2023-04-14 |  |
 | [Si Me Voy \(with The Marías\)](https://open.spotify.com/track/6GiCszfL4D2GlCU8tFU3sR) | [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP), [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Si Me Voy \(with The Marías\)](https://open.spotify.com/album/5TZm9qi0223t20ypmJevEq) | 3:23 | 2023-03-10 |  |

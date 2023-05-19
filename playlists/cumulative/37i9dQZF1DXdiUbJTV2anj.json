@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-08-08",
-  "description": "Heavy new bands you need to have an eye on. Cover: Heriot",
+  "description": "Heavy new bands you need to have an eye on. Cover: HotWax",
   "name": "New Blood",
   "tracks": [
     {
@@ -88,7 +88,7 @@
       ],
       "date_added": "2023-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 201500,
       "name": "Anathema",
       "url": "https://open.spotify.com/track/1oLHIkHzNipzkouaBClSdl"
@@ -330,6 +330,24 @@
       "duration_ms": 183211,
       "name": "Blow",
       "url": "https://open.spotify.com/track/6d6WNysquy9upPZPxKRTQF"
+    },
+    {
+      "album": {
+        "name": "You're Welcome",
+        "url": "https://open.spotify.com/album/0mmHl5Z8DhJvbtQVQ3Irc9"
+      },
+      "artists": [
+        {
+          "name": "Lambrini Girls",
+          "url": "https://open.spotify.com/artist/6VR4TJ20WGiho2xZWMuuWb"
+        }
+      ],
+      "date_added": "2023-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155788,
+      "name": "Boys in the Band",
+      "url": "https://open.spotify.com/track/3BtMOmGUe3VEFz4uXGzqlT"
     },
     {
       "album": {
@@ -590,6 +608,28 @@
       "duration_ms": 183500,
       "name": "Counterfeit",
       "url": "https://open.spotify.com/track/5o04G6JWxQAQGW572GHTNP"
+    },
+    {
+      "album": {
+        "name": "Rouge Carpet Disaster (Redux)",
+        "url": "https://open.spotify.com/album/4KNlsuhwErf5tjp1qh3iCn"
+      },
+      "artists": [
+        {
+          "name": "Static Dress",
+          "url": "https://open.spotify.com/artist/1Lqdsv7Ff4GNq9PM3Yd0vi"
+        },
+        {
+          "name": "World Of Pleasure",
+          "url": "https://open.spotify.com/artist/7kcqk3e5BlCUw41fctDQax"
+        }
+      ],
+      "date_added": "2023-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175101,
+      "name": "Courtney, just relax (feat. World Of Pleasure)",
+      "url": "https://open.spotify.com/track/5tX8mfhO1TJ0ItMtswEYNO"
     },
     {
       "album": {
@@ -986,7 +1026,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 263333,
       "name": "Find You Soon",
       "url": "https://open.spotify.com/track/07SZ1RaS0OaCa5qs97zVOI"
@@ -1202,7 +1242,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 213475,
       "name": "I Sing Alone",
       "url": "https://open.spotify.com/track/7oq8Qz5Y5hcgLlk9Nl30Ed"
@@ -1263,6 +1303,24 @@
     },
     {
       "album": {
+        "name": "In the shadow of your former self.",
+        "url": "https://open.spotify.com/album/2L3ASLYdsXsrombwNJVyAG"
+      },
+      "artists": [
+        {
+          "name": "Love Is Noise",
+          "url": "https://open.spotify.com/artist/4qY6XGFQwZubu0oKBJeVki"
+        }
+      ],
+      "date_added": "2023-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261920,
+      "name": "In the shadow of your former self.",
+      "url": "https://open.spotify.com/track/7icAw1EcEfXRpOxkhB3HZw"
+    },
+    {
+      "album": {
         "name": "In the Way",
         "url": "https://open.spotify.com/album/0OQPHI8H2ET6FkX69ioanM"
       },
@@ -1310,7 +1368,7 @@
       ],
       "date_added": "2023-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 235636,
       "name": "Into My Ignorance",
       "url": "https://open.spotify.com/track/4jw0Zicq5fdRoPFHwg3Cog"
@@ -1382,7 +1440,7 @@
       ],
       "date_added": "2023-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 171480,
       "name": "Koaitra",
       "url": "https://open.spotify.com/track/3uEGLg1TsIVvyzDQpuNkje"
@@ -1400,7 +1458,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 146969,
       "name": "Lice",
       "url": "https://open.spotify.com/track/7i7eU2wx577tHLW2Vt1EWI"
@@ -1659,6 +1717,24 @@
     },
     {
       "album": {
+        "name": "Momentary Actuality",
+        "url": "https://open.spotify.com/album/2yRYLNFgp9CTtnJjTfs2Vf"
+      },
+      "artists": [
+        {
+          "name": "Pupil Slicer",
+          "url": "https://open.spotify.com/artist/4CKJ5MS6jkSIRsReeyCNjk"
+        }
+      ],
+      "date_added": "2023-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218042,
+      "name": "Momentary Actuality",
+      "url": "https://open.spotify.com/track/6DpSTa40eNVfGR4KLlBVlq"
+    },
+    {
+      "album": {
         "name": "Mr Medicine",
         "url": "https://open.spotify.com/album/61YA2rZJLN30UgkVRlHwZM"
       },
@@ -1830,7 +1906,7 @@
       ],
       "date_added": "2023-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 188544,
       "name": "Paint It In Blood",
       "url": "https://open.spotify.com/track/1njkMdwveFsnqghHpiBGvd"
@@ -1927,6 +2003,24 @@
     },
     {
       "album": {
+        "name": "Rap Rock Jesus",
+        "url": "https://open.spotify.com/album/0BiFxOJxNjN9OCNxVRM17m"
+      },
+      "artists": [
+        {
+          "name": "Silly Goose",
+          "url": "https://open.spotify.com/artist/0GicbfMtwhn3Ch0PdwkADQ"
+        }
+      ],
+      "date_added": "2023-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189653,
+      "name": "Rap Rock Jesus",
+      "url": "https://open.spotify.com/track/10eYvXs1Lv8eiUXIdztnuV"
+    },
+    {
+      "album": {
         "name": "RATATATA",
         "url": "https://open.spotify.com/album/4lvR3TmGeAdG6CesUqaPBd"
       },
@@ -1978,6 +2072,24 @@
       "duration_ms": 105386,
       "name": "Reign of Error",
       "url": "https://open.spotify.com/track/6NLD3NrIUFALVqIK5VZgP6"
+    },
+    {
+      "album": {
+        "name": "Rip It Out",
+        "url": "https://open.spotify.com/album/5jJ05vdKJTQCd6QMsevIEg"
+      },
+      "artists": [
+        {
+          "name": "HotWax",
+          "url": "https://open.spotify.com/artist/237mvWGlQNJJhc9b8pSawZ"
+        }
+      ],
+      "date_added": "2023-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195373,
+      "name": "Rip It Out",
+      "url": "https://open.spotify.com/track/6FPIh5TqPtYNFUbNN4aJ4R"
     },
     {
       "album": {
@@ -2310,6 +2422,24 @@
       "duration_ms": 217615,
       "name": "Stardust",
       "url": "https://open.spotify.com/track/4ABR3zMxUzZMWFbHaf1SIq"
+    },
+    {
+      "album": {
+        "name": "START AGAIN",
+        "url": "https://open.spotify.com/album/2blJUAX8ujjwOHR657iEXP"
+      },
+      "artists": [
+        {
+          "name": "Florence Black",
+          "url": "https://open.spotify.com/artist/7ubhUvkY7FB68rfzz7DmW4"
+        }
+      ],
+      "date_added": "2023-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163567,
+      "name": "START AGAIN",
+      "url": "https://open.spotify.com/track/4XLk8KXgCCnXf5cCXnAyUh"
     },
     {
       "album": {
@@ -2688,7 +2818,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 91975,
       "name": "Thinking About The Immortality Of The Crab",
       "url": "https://open.spotify.com/track/0xQPg3JWj1Sb5FFzeVvPDc"
@@ -2764,6 +2894,24 @@
       "duration_ms": 188823,
       "name": "Tsunami (11:11)",
       "url": "https://open.spotify.com/track/0u4SRuld2zPAnyImNdfMAo"
+    },
+    {
+      "album": {
+        "name": "Typecast",
+        "url": "https://open.spotify.com/album/4NKXhPVhqIGHFtDPRjC0fQ"
+      },
+      "artists": [
+        {
+          "name": "Cinnamon Babe",
+          "url": "https://open.spotify.com/artist/0U2rJW6ug1KAvcegC2E004"
+        }
+      ],
+      "date_added": "2023-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200026,
+      "name": "Typecast",
+      "url": "https://open.spotify.com/track/2nhnehRSB4y6TnNwseM8cE"
     },
     {
       "album": {

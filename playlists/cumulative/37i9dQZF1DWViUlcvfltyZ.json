@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-11",
-  "description": "La playlist che \u00e8 come andare ai concerti. New Candys e Bugo in cover!",
+  "description": "La playlist che \u00e8 come andare ai concerti. Aggiornata ogni venerd\u00ec. Studio Murena in cover. ",
   "name": "Rock Italia",
   "tracks": [
     {
@@ -373,6 +373,24 @@
     },
     {
       "album": {
+        "name": "Fammi Male",
+        "url": "https://open.spotify.com/album/3rFKldXb0LIqgcY0TNxVAi"
+      },
+      "artists": [
+        {
+          "name": "Alemoa",
+          "url": "https://open.spotify.com/artist/0lswjSfiPA2bKp6PHlJISF"
+        }
+      ],
+      "date_added": "2023-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190073,
+      "name": "Animali in cattivit\u00e0",
+      "url": "https://open.spotify.com/track/7okou2nIEXf8Mj32uo0cc0"
+    },
+    {
+      "album": {
         "name": "ANITA",
         "url": "https://open.spotify.com/album/2WwGx8eZEI31EEaqAlpqyP"
       },
@@ -708,7 +726,7 @@
       ],
       "date_added": "2023-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 263273,
       "name": "Benda",
       "url": "https://open.spotify.com/track/01ngmXxVlCiS8PoBKoJzSL"
@@ -1062,6 +1080,32 @@
       "duration_ms": 137853,
       "name": "CALMI",
       "url": "https://open.spotify.com/track/11e830eTMrExk20UCGtLr2"
+    },
+    {
+      "album": {
+        "name": "Candles / Candles (Version)",
+        "url": "https://open.spotify.com/album/64Hz6EpcFYvqvFxWYJiqXe"
+      },
+      "artists": [
+        {
+          "name": "V/Z",
+          "url": "https://open.spotify.com/artist/1JFG0sOdzCS6jTopfu5331"
+        },
+        {
+          "name": "Valentina Magaletti",
+          "url": "https://open.spotify.com/artist/0jPLDwuZUzb6qZdfi5XPHz"
+        },
+        {
+          "name": "Zongamin",
+          "url": "https://open.spotify.com/artist/3GpAL7oEFD37IJDOOiirqy"
+        }
+      ],
+      "date_added": "2023-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151327,
+      "name": "Candles",
+      "url": "https://open.spotify.com/track/6ofXiQnzy0h8HvOs3P8zdy"
     },
     {
       "album": {
@@ -1545,6 +1589,24 @@
     },
     {
       "album": {
+        "name": "Come se tu",
+        "url": "https://open.spotify.com/album/3cpuDgTfc4m2aLKRC5hIae"
+      },
+      "artists": [
+        {
+          "name": "Adelasia",
+          "url": "https://open.spotify.com/artist/7AGxQIsvUzqpdMl1aW1usw"
+        }
+      ],
+      "date_added": "2023-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208863,
+      "name": "Come se tu",
+      "url": "https://open.spotify.com/track/1gm14I6ZhJt2nZBLVv1slR"
+    },
+    {
+      "album": {
         "name": "Consciousness Equals Energy",
         "url": "https://open.spotify.com/album/63IDyBGpBpDqEVYhzLiFfI"
       },
@@ -1874,6 +1936,24 @@
       "duration_ms": 130030,
       "name": "Destroy",
       "url": "https://open.spotify.com/track/1qyC24XBRS8gCtgHdogqSZ"
+    },
+    {
+      "album": {
+        "name": "Diluvio Universale",
+        "url": "https://open.spotify.com/album/7mynV1n5ZhS8tLO1IiNBrK"
+      },
+      "artists": [
+        {
+          "name": "Omar Pedrini",
+          "url": "https://open.spotify.com/artist/61qOS3wPz5dNeycrYEzfbb"
+        }
+      ],
+      "date_added": "2023-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215856,
+      "name": "Diluvio Universale",
+      "url": "https://open.spotify.com/track/11FZRHGkeRZl1Nyf7zlulX"
     },
     {
       "album": {
@@ -2210,6 +2290,24 @@
       "duration_ms": 296306,
       "name": "Elena's Beauty Theme",
       "url": "https://open.spotify.com/track/2SOdY5uljAC0Nf0ij678ER"
+    },
+    {
+      "album": {
+        "name": "Equinox Fall",
+        "url": "https://open.spotify.com/album/1sREiONOGG50UdW0E3Mhj1"
+      },
+      "artists": [
+        {
+          "name": "Sunmei",
+          "url": "https://open.spotify.com/artist/4cRFw0VPFmwucWCPXoJ36M"
+        }
+      ],
+      "date_added": "2023-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194874,
+      "name": "Equinox Fall",
+      "url": "https://open.spotify.com/track/7idhTgLH1JA6n5rVwSCt9P"
     },
     {
       "album": {
@@ -2846,6 +2944,24 @@
       "duration_ms": 235519,
       "name": "Ghibli",
       "url": "https://open.spotify.com/track/034Z4bIOzqWhWaQNxOZMDU"
+    },
+    {
+      "album": {
+        "name": "Ghicci ghicci",
+        "url": "https://open.spotify.com/album/2YYvugvmBJXu5fD8fr2Jy7"
+      },
+      "artists": [
+        {
+          "name": "Brucher\u00f2 nei pascoli",
+          "url": "https://open.spotify.com/artist/39tpK31mZUPajAHF86AHsg"
+        }
+      ],
+      "date_added": "2023-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149706,
+      "name": "Ghicci ghicci",
+      "url": "https://open.spotify.com/track/5QHlPJcnobVjeh4JkeGoBf"
     },
     {
       "album": {
@@ -3818,7 +3934,7 @@
       ],
       "date_added": "2023-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 199286,
       "name": "LA PESTE",
       "url": "https://open.spotify.com/track/1Yn1JtWWc7193IHkHe9kUV"
@@ -3962,7 +4078,7 @@
       ],
       "date_added": "2023-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 179773,
       "name": "Like an Animal",
       "url": "https://open.spotify.com/track/7nHxIAj5achKMZnYNcbzfe"
@@ -4183,6 +4299,50 @@
     },
     {
       "album": {
+        "name": "Luned\u00ec",
+        "url": "https://open.spotify.com/album/3JYGzrFXAyc8LMmnsnDllw"
+      },
+      "artists": [
+        {
+          "name": "gazza",
+          "url": "https://open.spotify.com/artist/0oXxCYKdNM9cxQkezMlIG7"
+        }
+      ],
+      "date_added": "2023-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138954,
+      "name": "Luned\u00ec",
+      "url": "https://open.spotify.com/track/0Bf4E2cdRegFDLUEqn43Yb"
+    },
+    {
+      "album": {
+        "name": "MADE OF CLAY (CE CASCO DENTRO)",
+        "url": "https://open.spotify.com/album/2ouE8GAFrGZiAXBJSDUyg6"
+      },
+      "artists": [
+        {
+          "name": "72-HOUR POST FIGHT",
+          "url": "https://open.spotify.com/artist/0QywAgoqmactggMU0Vfwf0"
+        },
+        {
+          "name": "clauscalmo",
+          "url": "https://open.spotify.com/artist/0JYnmJcNn4DnQkJfHFjLnR"
+        },
+        {
+          "name": "F4",
+          "url": "https://open.spotify.com/artist/7eM8i1h5JXPmPP9uJaMAva"
+        }
+      ],
+      "date_added": "2023-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184695,
+      "name": "MADE OF CLAY - CE CASCO DENTRO",
+      "url": "https://open.spotify.com/track/4NpflKmBSPPQ7YlfMirUFR"
+    },
+    {
+      "album": {
         "name": "Magic Youth",
         "url": "https://open.spotify.com/album/6VtzGcYiDa1TpNJPRI6HaY"
       },
@@ -4346,7 +4506,7 @@
       ],
       "date_added": "2023-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 154766,
       "name": "MI FAI VENIRE",
       "url": "https://open.spotify.com/track/268VnTQdISBVKmKhplrCUS"
@@ -4927,6 +5087,24 @@
     },
     {
       "album": {
+        "name": "Notti stanche",
+        "url": "https://open.spotify.com/album/0eW2UviOWY5GbOF8Wdw8qs"
+      },
+      "artists": [
+        {
+          "name": "Gli Occhi Degli Altri",
+          "url": "https://open.spotify.com/artist/7kPPa8qlBCZrMKMRhUHxxZ"
+        }
+      ],
+      "date_added": "2023-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207317,
+      "name": "Notti stanche",
+      "url": "https://open.spotify.com/track/1cucGywqY07G5uIpzY0mz4"
+    },
+    {
+      "album": {
         "name": "Nubifragio",
         "url": "https://open.spotify.com/album/5L9oWRa76veQN7AFo0KQhX"
       },
@@ -5198,6 +5376,24 @@
       "duration_ms": 232307,
       "name": "Parlami",
       "url": "https://open.spotify.com/track/6EgGe4PI3Y9EWPD5Wpv6iE"
+    },
+    {
+      "album": {
+        "name": "Parlarti Male",
+        "url": "https://open.spotify.com/album/5Xc8pxJSfJ8N4OJgDLyW2e"
+      },
+      "artists": [
+        {
+          "name": "Alibi",
+          "url": "https://open.spotify.com/artist/3s7S0D0ZVdpaWn2lPsMVDa"
+        }
+      ],
+      "date_added": "2023-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187575,
+      "name": "Parlarti Male",
+      "url": "https://open.spotify.com/track/4IGuX25K5IVaUOaBmg3IfQ"
     },
     {
       "album": {
@@ -5852,7 +6048,7 @@
       ],
       "date_added": "2023-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 215978,
       "name": "Rosso",
       "url": "https://open.spotify.com/track/1dCoLitotcRABlWlOOZcTs"
@@ -6022,6 +6218,24 @@
       "duration_ms": 182253,
       "name": "Schifo",
       "url": "https://open.spotify.com/track/7faEMnYmpiNWxQoGcIDIbf"
+    },
+    {
+      "album": {
+        "name": "ESSERI UMANI PERFETTI",
+        "url": "https://open.spotify.com/album/6lw56QZZjB8bRaGFNTLUCI"
+      },
+      "artists": [
+        {
+          "name": "\u2044handlogic",
+          "url": "https://open.spotify.com/artist/0Fke9julMOJ0HZ1UhCoe9Z"
+        }
+      ],
+      "date_added": "2023-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 310624,
+      "name": "Scogli",
+      "url": "https://open.spotify.com/track/3FlpXM5vd7waXBXHoKs3qJ"
     },
     {
       "album": {
@@ -6668,10 +6882,28 @@
       ],
       "date_added": "2023-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 91560,
       "name": "STRANA PUZZA",
       "url": "https://open.spotify.com/track/6vjMt1zbeLDJWULnRlVagD"
+    },
+    {
+      "album": {
+        "name": "Vandali / Stranidei",
+        "url": "https://open.spotify.com/album/7mxKYjIXX1kGlV5RRDGvpI"
+      },
+      "artists": [
+        {
+          "name": "Bud Spencer Blues Explosion",
+          "url": "https://open.spotify.com/artist/1bfWecjdxJOuN7f42oIH5S"
+        }
+      ],
+      "date_added": "2023-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245520,
+      "name": "Stranidei",
+      "url": "https://open.spotify.com/track/233ArIuVyP9GNBlfNavB4W"
     },
     {
       "album": {
@@ -6744,7 +6976,7 @@
       ],
       "date_added": "2023-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 207600,
       "name": "SULL'AMORE E ALTRE OSCURE QUESTIONI (feat. Ghemon)",
       "url": "https://open.spotify.com/track/6afdBu5WuSgxKD2nVEJ8CM"
@@ -6914,7 +7146,7 @@
       ],
       "date_added": "2023-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 193760,
       "name": "Terra bruciata",
       "url": "https://open.spotify.com/track/1yHJnusWqo8BF3UHLKqsCa"
@@ -6972,6 +7204,24 @@
       "duration_ms": 247067,
       "name": "THE LONELIEST",
       "url": "https://open.spotify.com/track/1Ame8XTX6QHY0l0ahqUhgv"
+    },
+    {
+      "album": {
+        "name": "Just Fade Away",
+        "url": "https://open.spotify.com/album/63bqZkUPl7zD8FFyFE7lzh"
+      },
+      "artists": [
+        {
+          "name": "Glazyhaze",
+          "url": "https://open.spotify.com/artist/1NW0PMLRu2jVBWHhkMu0Y5"
+        }
+      ],
+      "date_added": "2023-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 305893,
+      "name": "The Other Side",
+      "url": "https://open.spotify.com/track/6rZ9NSU1sZFY2SjCJ2Zjb2"
     },
     {
       "album": {
@@ -7274,7 +7524,7 @@
       ],
       "date_added": "2023-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 161744,
       "name": "Tropea",
       "url": "https://open.spotify.com/track/5VguwzuBH9qWhVTmF02MgN"
@@ -7426,7 +7676,7 @@
       ],
       "date_added": "2023-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 176346,
       "name": "UN FIGLIO",
       "url": "https://open.spotify.com/track/5xFvuYKHf6PqQ7M7hLzRs1"
@@ -7722,6 +7972,24 @@
       "duration_ms": 259440,
       "name": "Voglio invecchiare male (feat. Management)",
       "url": "https://open.spotify.com/track/1UioMVlhDjrjJ3o6HP2Vhr"
+    },
+    {
+      "album": {
+        "name": "Voglio morire",
+        "url": "https://open.spotify.com/album/0it4yOCwu5UuFnxodembzB"
+      },
+      "artists": [
+        {
+          "name": "Giancane",
+          "url": "https://open.spotify.com/artist/5SHRnc9Tl14jqVV0CTr49B"
+        }
+      ],
+      "date_added": "2023-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261972,
+      "name": "Voglio morire",
+      "url": "https://open.spotify.com/track/0rieKIGnvsuGsaT1NGG9Ho"
     },
     {
       "album": {

@@ -59,6 +59,28 @@
     },
     {
       "album": {
+        "name": "Apart Of Me (feat. Devault)",
+        "url": "https://open.spotify.com/album/3PYBio81S8I34o8qhInL5Y"
+      },
+      "artists": [
+        {
+          "name": "OTR",
+          "url": "https://open.spotify.com/artist/0oeUdHJ3cy1oveb8WguJJt"
+        },
+        {
+          "name": "Devault",
+          "url": "https://open.spotify.com/artist/1VBAKMui4zm5MnBWNn3NbL"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198750,
+      "name": "Apart Of Me (feat. Devault)",
+      "url": "https://open.spotify.com/track/00xf3YI4zSlumejNs1HDiM"
+    },
+    {
+      "album": {
         "name": "BADDER",
         "url": "https://open.spotify.com/album/2pxk9vwolPXy353Ru36cIe"
       },
@@ -114,7 +136,7 @@
       ],
       "date_added": "2023-04-13",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-08",
+      "date_removed": null,
       "duration_ms": 200788,
       "name": "Better When You're Here",
       "url": "https://open.spotify.com/track/6qcuf0AmQmrjPPc10Ovhax"
@@ -132,7 +154,7 @@
       ],
       "date_added": "2023-04-13",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-28",
+      "date_removed": null,
       "duration_ms": 145454,
       "name": "Bounce",
       "url": "https://open.spotify.com/track/1WFHGHJcGJuzvAybmU5oQ0"
@@ -158,6 +180,32 @@
       "duration_ms": 275958,
       "name": "Breaking Apart",
       "url": "https://open.spotify.com/track/6QSgJaGAs7EhyCXTYehkZd"
+    },
+    {
+      "album": {
+        "name": "Call On Me & Lifetime (Remixes)",
+        "url": "https://open.spotify.com/album/1CRH8YfN1l16GxyuuFQn18"
+      },
+      "artists": [
+        {
+          "name": "SG Lewis",
+          "url": "https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG"
+        },
+        {
+          "name": "Tove Lo",
+          "url": "https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK"
+        },
+        {
+          "name": "SILK",
+          "url": "https://open.spotify.com/artist/01epL9hgF4G7guGkrnzR8a"
+        }
+      ],
+      "date_added": "2023-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209767,
+      "name": "Call On Me (with Tove Lo) - SILK \"2am\" Remix",
+      "url": "https://open.spotify.com/track/1FOB0dyeUM2iOLMNnX8dKE"
     },
     {
       "album": {
@@ -214,7 +262,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 201230,
-      "name": "Danielle (smile on my face)",
+      "name": "Danielle (Smile on My Face)",
       "url": "https://open.spotify.com/track/2sLVs5iX0osogh4jcsAJkv"
     },
     {
@@ -230,7 +278,7 @@
       ],
       "date_added": "2023-04-13",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-16",
+      "date_removed": null,
       "duration_ms": 242250,
       "name": "Deny It",
       "url": "https://open.spotify.com/track/2G0pIL19syX70AXLc9ykPj"
@@ -252,10 +300,28 @@
       ],
       "date_added": "2023-04-13",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-23",
+      "date_removed": null,
       "duration_ms": 183440,
       "name": "Esther - Duskus Romantic Edit",
       "url": "https://open.spotify.com/track/3VgWp5x2nvvP9XFCs6UBQs"
+    },
+    {
+      "album": {
+        "name": "Fading",
+        "url": "https://open.spotify.com/album/4bUlfYprHew2m5NsyzD84I"
+      },
+      "artists": [
+        {
+          "name": "Swimming Paul",
+          "url": "https://open.spotify.com/artist/5rEwPEAHq2q1yW3wF4av5s"
+        }
+      ],
+      "date_added": "2023-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267842,
+      "name": "Fading",
+      "url": "https://open.spotify.com/track/6a6ukMkLFXcWvqP0fdlDfZ"
     },
     {
       "album": {
@@ -350,7 +416,7 @@
       ],
       "date_added": "2023-04-13",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-22",
+      "date_removed": null,
       "duration_ms": 123488,
       "name": "Gold",
       "url": "https://open.spotify.com/track/4y7P4oG7MNei0CmcuwdfZe"
@@ -386,7 +452,7 @@
       ],
       "date_added": "2023-04-13",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-05",
+      "date_removed": null,
       "duration_ms": 211024,
       "name": "Her",
       "url": "https://open.spotify.com/track/2EMLyx9QTYPDa9GNCxhAqz"
@@ -498,7 +564,7 @@
       ],
       "date_added": "2023-04-13",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-22",
+      "date_removed": null,
       "duration_ms": 186700,
       "name": "Insomnia",
       "url": "https://open.spotify.com/track/3GE9ogfnPuuc2YkdCHsqHF"
@@ -578,7 +644,7 @@
       ],
       "date_added": "2023-04-27",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-17",
+      "date_removed": null,
       "duration_ms": 181681,
       "name": "Live You Down",
       "url": "https://open.spotify.com/track/6EkOxvS3VutQvy6MsTrrwh"
@@ -634,6 +700,24 @@
       "duration_ms": 147673,
       "name": "Lost My Mind (Wake Up)",
       "url": "https://open.spotify.com/track/0fdfXWcW9BFBGsdk7fh0B5"
+    },
+    {
+      "album": {
+        "name": "Loved Ones",
+        "url": "https://open.spotify.com/album/3mYZPtQSXcS3DnzsZhTGHu"
+      },
+      "artists": [
+        {
+          "name": "Alex Adair",
+          "url": "https://open.spotify.com/artist/1mrrvBvbrm28iYaPlJ9mG5"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198000,
+      "name": "Loved Ones",
+      "url": "https://open.spotify.com/track/1xdL8Se8SeSSRr0dJxcaJH"
     },
     {
       "album": {
@@ -732,7 +816,7 @@
       ],
       "date_added": "2023-04-13",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-28",
+      "date_removed": null,
       "duration_ms": 284003,
       "name": "Need Somebody (Icarus Remix)",
       "url": "https://open.spotify.com/track/42Axq8KVKQLestbSsQG1Qe"
@@ -772,7 +856,7 @@
       ],
       "date_added": "2023-04-13",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-21",
+      "date_removed": null,
       "duration_ms": 214527,
       "name": "Need You",
       "url": "https://open.spotify.com/track/5HWybXhMxw8W8t0sUPysxf"
@@ -794,7 +878,7 @@
       ],
       "date_added": "2023-04-13",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-26",
+      "date_removed": null,
       "duration_ms": 151273,
       "name": "No Nein",
       "url": "https://open.spotify.com/track/4qeIlzP0Z1JFXh0AckDcX8"
@@ -870,7 +954,7 @@
       ],
       "date_added": "2023-04-13",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-28",
+      "date_removed": null,
       "duration_ms": 246718,
       "name": "Pearls - SILK Remix",
       "url": "https://open.spotify.com/track/3COoBjp98dAjysxl5ksTsV"
@@ -939,6 +1023,32 @@
     },
     {
       "album": {
+        "name": "Right Before Our Eyes",
+        "url": "https://open.spotify.com/album/0485X59JRJJIQSRiH22WGd"
+      },
+      "artists": [
+        {
+          "name": "Elephante",
+          "url": "https://open.spotify.com/artist/3fjs4zbBFxEFFe8Wyojo0G"
+        },
+        {
+          "name": "BEAUZ",
+          "url": "https://open.spotify.com/artist/2Wzb0u138rgoZQTK3ytknT"
+        },
+        {
+          "name": "Mark Tuan",
+          "url": "https://open.spotify.com/artist/4l1q0z9xeJcJw73Gxc6gCB"
+        }
+      ],
+      "date_added": "2023-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184335,
+      "name": "Right Before Our Eyes",
+      "url": "https://open.spotify.com/track/5xmQy57y7FuyUQxpeNlUbT"
+    },
+    {
+      "album": {
         "name": "Rosa",
         "url": "https://open.spotify.com/album/01f7LtCEJXug2iAI1wkmTf"
       },
@@ -950,10 +1060,28 @@
       ],
       "date_added": "2023-04-13",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-12",
+      "date_removed": null,
       "duration_ms": 232846,
       "name": "Rosa",
       "url": "https://open.spotify.com/track/6K3TfsDV3CPDnVmsv1dkqb"
+    },
+    {
+      "album": {
+        "name": "BLEACH [Hi-Fi]",
+        "url": "https://open.spotify.com/album/0V3wvkznjsm1LFyKiO0x7l"
+      },
+      "artists": [
+        {
+          "name": "pluko",
+          "url": "https://open.spotify.com/artist/01qbSocTDAe2DmKayS89A5"
+        }
+      ],
+      "date_added": "2023-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180668,
+      "name": "RUN INTO MY ARMS",
+      "url": "https://open.spotify.com/track/0RTHKL6kDu7gCQf4qnCfRV"
     },
     {
       "album": {
@@ -1055,6 +1183,24 @@
     },
     {
       "album": {
+        "name": "Silence In The Hollow",
+        "url": "https://open.spotify.com/album/6Vdy9cA047Y1a0AbDSQjGQ"
+      },
+      "artists": [
+        {
+          "name": "John Dahlb\u00e4ck",
+          "url": "https://open.spotify.com/artist/15xvsJMf8phaNa1LYvL9Qv"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204878,
+      "name": "Silence In The Hollow",
+      "url": "https://open.spotify.com/track/3NGe0uPXUFfutwKaskELsQ"
+    },
+    {
+      "album": {
         "name": "There's Another Life 4 U / So Long",
         "url": "https://open.spotify.com/album/5VwbMyHjQ1hPcIHnEEvTKa"
       },
@@ -1070,7 +1216,7 @@
       ],
       "date_added": "2023-04-13",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-28",
+      "date_removed": null,
       "duration_ms": 227624,
       "name": "So Long",
       "url": "https://open.spotify.com/track/0PFqyFI62E0nTjIcBdhHPD"
@@ -1139,6 +1285,24 @@
     },
     {
       "album": {
+        "name": "talk",
+        "url": "https://open.spotify.com/album/6JtweGxznTHck5hZ4MIipF"
+      },
+      "artists": [
+        {
+          "name": "henri",
+          "url": "https://open.spotify.com/artist/7nJ5r6Up446alyOTy7Umsf"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190281,
+      "name": "talk",
+      "url": "https://open.spotify.com/track/0ar3UqRjJEwYfx2SBlefnF"
+    },
+    {
+      "album": {
         "name": "Tell Me",
         "url": "https://open.spotify.com/album/1jPgrvTG7bG5VLWTxIaUDd"
       },
@@ -1150,7 +1314,7 @@
       ],
       "date_added": "2023-04-13",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-28",
+      "date_removed": null,
       "duration_ms": 181000,
       "name": "Tell Me",
       "url": "https://open.spotify.com/track/5o5tFFa10RqTWPsGXnL6uj"
@@ -1270,7 +1434,7 @@
       ],
       "date_added": "2023-04-13",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-05",
+      "date_removed": null,
       "duration_ms": 263891,
       "name": "Wasted On You",
       "url": "https://open.spotify.com/track/3HSf2e7s5Q9WQO16biu4U4"
@@ -1398,7 +1562,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 255047,
       "name": "Yes 2 Heaven",
       "url": "https://open.spotify.com/track/7lhxChF5caswo1nHxcIgyp"
@@ -1416,11 +1580,15 @@
         {
           "name": "simOne",
           "url": "https://open.spotify.com/artist/0THaJJT8yNpEdMs4vpJEYR"
+        },
+        {
+          "name": "Melo Nada",
+          "url": "https://open.spotify.com/artist/3dSDscTTyLXCuoav0Tr14p"
         }
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-18",
+      "date_removed": null,
       "duration_ms": 255047,
       "name": "yes 2 heaven",
       "url": "https://open.spotify.com/track/2SFvNyfzLs7sv40WLqn5xE"
@@ -1442,6 +1610,24 @@
       "duration_ms": 179844,
       "name": "Youthful Kids",
       "url": "https://open.spotify.com/track/1YBvhB1094Q5Niw1GDSRY3"
+    },
+    {
+      "album": {
+        "name": "\u00e9xtasis",
+        "url": "https://open.spotify.com/album/5KAlqgQaRa6qRoUBkFfUhk"
+      },
+      "artists": [
+        {
+          "name": "Alaina Castillo",
+          "url": "https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp"
+        }
+      ],
+      "date_added": "2023-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185054,
+      "name": "\u00e9xtasis",
+      "url": "https://open.spotify.com/track/79wvg55yhD3jSwA3vrRBUV"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWU5hC93Ey99S"

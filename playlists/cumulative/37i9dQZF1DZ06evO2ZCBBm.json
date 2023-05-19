@@ -489,6 +489,24 @@
     },
     {
       "album": {
+        "name": "Giving Up",
+        "url": "https://open.spotify.com/album/7KAXNNp4vIagjF5vA2vaEr"
+      },
+      "artists": [
+        {
+          "name": "The Used",
+          "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
+        }
+      ],
+      "date_added": "2023-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190222,
+      "name": "Giving Up",
+      "url": "https://open.spotify.com/track/3JErllOXtQ1u1a78JocVlW"
+    },
+    {
+      "album": {
         "name": "Heartwork (Deluxe)",
         "url": "https://open.spotify.com/album/4J2liOk0lc7aLArgpZE1So"
       },

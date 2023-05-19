@@ -59,6 +59,28 @@
     },
     {
       "album": {
+        "name": "Before The Storm",
+        "url": "https://open.spotify.com/album/1ketSreRN3Qq5OTzgqPOcP"
+      },
+      "artists": [
+        {
+          "name": "Bertolf",
+          "url": "https://open.spotify.com/artist/6cs3EabebGIu559XRIpQty"
+        },
+        {
+          "name": "Ilse DeLange",
+          "url": "https://open.spotify.com/artist/3FTKP1k9VbOng3m1rgnsqx"
+        }
+      ],
+      "date_added": "2023-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191760,
+      "name": "Before The Storm",
+      "url": "https://open.spotify.com/track/3Rul7xOVvLysGVak1Qu9N8"
+    },
+    {
+      "album": {
         "name": "Big Grey Boxes",
         "url": "https://open.spotify.com/album/3yRIBEQNXCCikZuuHSYprK"
       },
@@ -446,7 +468,7 @@
       ],
       "date_added": "2023-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 230431,
       "name": "For The Better Of Me",
       "url": "https://open.spotify.com/track/4p1auAjWQJyV3cLJ7pqmpZ"

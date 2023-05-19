@@ -38,7 +38,7 @@
       ],
       "date_added": "2022-03-30",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-16",
+      "date_removed": null,
       "duration_ms": 195472,
       "name": "10-20-40",
       "url": "https://open.spotify.com/track/56YbKSljGEtc3kYD53PsKZ"
@@ -136,7 +136,7 @@
       ],
       "date_added": "2022-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 244133,
       "name": "24 Hours",
       "url": "https://open.spotify.com/track/2XPxacir3WoMtJ2pbTd240"
@@ -650,7 +650,7 @@
       ],
       "date_added": "2022-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 201946,
       "name": "Ain\u2019t Your Right",
       "url": "https://open.spotify.com/track/2bunWQerOZ16R4iWR4PGMt"
@@ -960,7 +960,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 217855,
       "name": "Am I A Girl?",
       "url": "https://open.spotify.com/track/6v3b2lQADc1ugsXvrqYZIB"
@@ -1660,7 +1660,7 @@
       ],
       "date_added": "2023-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-18",
+      "date_removed": null,
       "duration_ms": 277080,
       "name": "Autonomy (feat. Cooper B. Handy)",
       "url": "https://open.spotify.com/track/0Pz21tEIrYH2teQMqffWN5"
@@ -2976,7 +2976,7 @@
       ],
       "date_added": "2022-04-07",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-16",
+      "date_removed": null,
       "duration_ms": 212041,
       "name": "Bitch Bites Dog",
       "url": "https://open.spotify.com/track/78xCI7hkmeiveXBP4uhYww"
@@ -3334,7 +3334,7 @@
       ],
       "date_added": "2022-10-26",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-18",
+      "date_removed": null,
       "duration_ms": 147441,
       "name": "Bloom For Me",
       "url": "https://open.spotify.com/track/5C25UbDGoB9pgvqFlGfS9A"
@@ -6736,7 +6736,7 @@
       ],
       "date_added": "2022-11-04",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-18",
+      "date_removed": null,
       "duration_ms": 230640,
       "name": "Discotraxx",
       "url": "https://open.spotify.com/track/5nqwr7XXW7miMBvLtrWjHx"
@@ -8036,7 +8036,7 @@
       ],
       "date_added": "2022-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 236937,
       "name": "Faceshopping",
       "url": "https://open.spotify.com/track/0y4YmA9UGpQnWdIFbWBHu0"
@@ -8530,7 +8530,7 @@
       ],
       "date_added": "2022-07-20",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-12",
+      "date_removed": null,
       "duration_ms": 177428,
       "name": "Final Form",
       "url": "https://open.spotify.com/track/1qSNm5br36JmvwKDbxjZeI"
@@ -8566,7 +8566,7 @@
       ],
       "date_added": "2020-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 209760,
       "name": "fineshrine",
       "url": "https://open.spotify.com/track/5aJmSzmuhLI6fr1Rm0EnkS"
@@ -10516,7 +10516,7 @@
       ],
       "date_added": "2022-10-10",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-12",
+      "date_removed": null,
       "duration_ms": 196880,
       "name": "HATEFUCK",
       "url": "https://open.spotify.com/track/0chjcPcuTvGS7ujrx0zvT5"
@@ -11035,6 +11035,28 @@
     },
     {
       "album": {
+        "name": "Trinity (Deluxe)",
+        "url": "https://open.spotify.com/album/0RGxQa2UeQJxEDYcGUV3lr"
+      },
+      "artists": [
+        {
+          "name": "Eartheater",
+          "url": "https://open.spotify.com/artist/18ca9d5EU5R1AhVKPR1cm0"
+        },
+        {
+          "name": "Doss",
+          "url": "https://open.spotify.com/artist/7bQLFALIEawxhkyFiiLVhM"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223414,
+      "name": "High Tide - Doss Remix",
+      "url": "https://open.spotify.com/track/2rKxYaMk3I5aZhatJQfHZP"
+    },
+    {
+      "album": {
         "name": "Hillside Boys",
         "url": "https://open.spotify.com/album/4caElIJ5zBdpS4JU1KMvah"
       },
@@ -11082,7 +11104,7 @@
       ],
       "date_added": "2020-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 184132,
       "name": "Hit Me Where It Hurts",
       "url": "https://open.spotify.com/track/2wcrQZ7ZJolYEfIaPP9yL4"
@@ -11840,7 +11862,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-17",
+      "date_removed": null,
       "duration_ms": 198106,
       "name": "I Will",
       "url": "https://open.spotify.com/track/5HEeBCUDho3uQVNu98CvsS"
@@ -12006,7 +12028,7 @@
       ],
       "date_added": "2022-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 105506,
       "name": "I'm Your Empress Of",
       "url": "https://open.spotify.com/track/5QBDPkDWZBynCBLqxzUObG"
@@ -13252,7 +13274,7 @@
       ],
       "date_added": "2022-06-23",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-18",
+      "date_removed": null,
       "duration_ms": 335232,
       "name": "LA",
       "url": "https://open.spotify.com/track/4EbIloEgZsTdA9mUxAyk9p"
@@ -14044,7 +14066,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-16",
+      "date_removed": null,
       "duration_ms": 206266,
       "name": "Lips Apart",
       "url": "https://open.spotify.com/track/4aoUEEatDORAXJfJ33ipyD"
@@ -14152,7 +14174,7 @@
       ],
       "date_added": "2022-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 273426,
       "name": "Little Bit",
       "url": "https://open.spotify.com/track/0Ps4Eh6SQjeLnubbCsQTDD"
@@ -14426,7 +14448,7 @@
       ],
       "date_added": "2022-03-13",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-18",
+      "date_removed": null,
       "duration_ms": 194586,
       "name": "Lost In My Bedroom",
       "url": "https://open.spotify.com/track/5wiBvOZezmmN6IOZT7dVbt"
@@ -14592,7 +14614,7 @@
       ],
       "date_added": "2023-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 140526,
       "name": "Love Me",
       "url": "https://open.spotify.com/track/6uQlgKdPaBpSRRLyCFEQj8"
@@ -14968,7 +14990,7 @@
       ],
       "date_added": "2023-04-18",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-13",
+      "date_removed": null,
       "duration_ms": 141065,
       "name": "Mansion",
       "url": "https://open.spotify.com/track/3GaYGS8foNAIC7j2hdi6tD"
@@ -15352,7 +15374,7 @@
       ],
       "date_added": "2023-05-04",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-18",
+      "date_removed": null,
       "duration_ms": 155376,
       "name": "Mentally Not Here",
       "url": "https://open.spotify.com/track/4F0Tzpl5dPK7lalFCDChdg"
@@ -16218,7 +16240,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-16",
+      "date_removed": null,
       "duration_ms": 187506,
       "name": "Navy Light",
       "url": "https://open.spotify.com/track/6o43Gi1cX7Nyi6koSkwIBc"
@@ -18830,7 +18852,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 220639,
       "name": "Preservation",
       "url": "https://open.spotify.com/track/1DfBgQB0sYiVA818nXTDol"
@@ -19028,7 +19050,7 @@
       ],
       "date_added": "2023-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 300720,
       "name": "Pumpkin Attack on Mommy and Daddy",
       "url": "https://open.spotify.com/track/5qZgel15EFnyCrJKsNI7Mj"
@@ -20186,7 +20208,7 @@
       ],
       "date_added": "2022-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 183423,
       "name": "Satanic Slumber Party",
       "url": "https://open.spotify.com/track/5TRDXiHPikN83orTXSmZBz"
@@ -20762,7 +20784,7 @@
       ],
       "date_added": "2022-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 213610,
       "name": "Sheesh (feat. Grimes)",
       "url": "https://open.spotify.com/track/56Y6V54T1d4ywfZMfk8DUS"
@@ -21116,7 +21138,7 @@
       ],
       "date_added": "2022-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 194622,
       "name": "Sims 2",
       "url": "https://open.spotify.com/track/6tmDStLldmvokhIyjdj7LI"
@@ -21924,7 +21946,7 @@
       ],
       "date_added": "2022-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 244442,
       "name": "Solid Liquid Gas",
       "url": "https://open.spotify.com/track/6LNHqxLC3cnbL0X1Q7KXPC"
@@ -22480,7 +22502,7 @@
       ],
       "date_added": "2022-03-10",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-13",
+      "date_removed": null,
       "duration_ms": 149090,
       "name": "Stay Ugly",
       "url": "https://open.spotify.com/track/1s6WVdrN6kz1ly1blsO4d3"
@@ -22698,7 +22720,7 @@
       ],
       "date_added": "2022-05-19",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-18",
+      "date_removed": null,
       "duration_ms": 166374,
       "name": "Stress",
       "url": "https://open.spotify.com/track/6KpazZd2nACE5cwsjAP2x2"
@@ -23754,7 +23776,7 @@
       ],
       "date_added": "2022-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 258053,
       "name": "The Medicine Does Not Control Me",
       "url": "https://open.spotify.com/track/4Ftp4QhY6lFqBEk2F22PEa"
@@ -24108,7 +24130,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 209445,
       "name": "Time Is Up",
       "url": "https://open.spotify.com/track/1a4CA0tFvzwUrx8UxwoU64"

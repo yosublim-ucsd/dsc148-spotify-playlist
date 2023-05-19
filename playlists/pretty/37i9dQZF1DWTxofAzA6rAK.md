@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTxofAzA6rAK.md) - [plain]
 
 > Latest and biggest tracks from Jamaica's Dancehall scene\. Cover: Amarnii
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,197 likes - 150 songs - 7 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,250 likes - 150 songs - 7 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [DUNCE BARBIE](https://open.spotify.com/track/2I1fpOTZmVr6ATXe6fCTXI) | [Armanii](https://open.spotify.com/artist/48ZXHIYtqeBiklzhu3lAey), [DJ MAC](https://open.spotify.com/artist/3EC3CDEkhHY70vYFBVasZc) | [Dunce Barbie](https://open.spotify.com/album/6jwIFkOJ1blyCR0hzsY0MP) | 2:45 |
-| 2 | [Talibans](https://open.spotify.com/track/0in4JBEFmQVtyNJCN9UeXU) | [Byron Messia](https://open.spotify.com/artist/3IDfJpj4YVkaBl7Dd52Pxv) | [No Love](https://open.spotify.com/album/2AR2cNQcrYLK8vAxTZe8ai) | 3:08 |
+| 2 | [Talibans](https://open.spotify.com/track/0TTOsyDKykWhCh3qDd9wMY) | [Byron Messia](https://open.spotify.com/artist/3IDfJpj4YVkaBl7Dd52Pxv) | [No Love](https://open.spotify.com/album/6Ds8n0PlFxomLOtEHFwBeo) | 3:08 |
 | 3 | [Dark Room](https://open.spotify.com/track/5zD3d3m97Ferk4pgkUPEmb) | [Shane O](https://open.spotify.com/artist/3ZOaLn1Bn5j7Cb7fC2BLzF) | [Dark Room](https://open.spotify.com/album/5YIVlPFxJJq4xZhDUzd8Eb) | 3:13 |
 | 4 | [Gvnman Session](https://open.spotify.com/track/1jNNRFedRvdncFQpogCxUH) | [Skeng](https://open.spotify.com/artist/4SGo67MJz6DdsjzaRZ4OD7), [John Coop](https://open.spotify.com/artist/3L2ENBfz08H3T8ndKRiQUG), [Shacko DiTruth](https://open.spotify.com/artist/0NxpDomdSH00FtYUrYsSo0) | [Gvnman Session](https://open.spotify.com/album/1CVOatmiqxOWd2rKM7wYv8) | 2:32 |
 | 5 | [Update](https://open.spotify.com/track/1Vso1T5aUUflMhgijuG4SZ) | [Masicka](https://open.spotify.com/artist/2Gzy8TYJ5xrEMDyUjZuDsK) | [Update](https://open.spotify.com/album/0PaM6uUQDeF2SSv3o4noRe) | 3:24 |
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTxofAzA6rAK.md) - [plain]
 | 149 | [Three Little Birds](https://open.spotify.com/track/4bfAZUN7Y2yxxrANVpcErC) | [Vybz Kartel](https://open.spotify.com/artist/2NUz5P42WqkxilbI8ocN76) | [Three Little Birds](https://open.spotify.com/album/5hnQr1o6d92rF3xQ78xngP) | 3:28 |
 | 150 | [Perfect Timing](https://open.spotify.com/track/3sP88foDNpoLlkpsaEUDJL) | [Jada Kingdom](https://open.spotify.com/artist/2FgooFaZzZy6PUyJImk0kG) | [Perfect Timing](https://open.spotify.com/album/4hkk8DkNZdTRHdlbkHZ37B) | 2:58 |
 
-Snapshot ID: `MCxhMjgwMWE3OGRiMDNkNzM0NDkwZDk0MjE1ZjdkZDZiYmZlYzk1NjA0`
+Snapshot ID: `MCw1YzFkNWMxODBmODg4YmQ0YTQ5ODYxNjFlNGViYjc1OWVmMjcxMjRl`

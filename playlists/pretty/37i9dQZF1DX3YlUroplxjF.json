@@ -1,12 +1,12 @@
 {
   "description": "A heavy collision of punk, hardcore and everything in between. Cover: Jesus Piece ",
-  "num_followers": 453919,
+  "num_followers": 454053,
   "original_name": "Crash Course",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzMjkxZTI1NTFiNWZlOWQwODk4MjUyMjQ1ZjNmZWVkNWEzN2U2N2Zj",
+  "snapshot_id": "MCw4MjU2ZjY2MjYwZjMzYWFjNzM2YzkyYTk3MmNmMWRhMGE5YTIwOTA4",
   "tracks": [
     {
       "added_at": "2023-03-17 17:52:49",
@@ -471,22 +471,6 @@
     {
       "added_at": "2023-03-17 17:52:49",
       "album": {
-        "name": "Carry the Weight / From the First Note",
-        "url": "https://open.spotify.com/album/1LWKl74lrLudXEtmIUDr3o"
-      },
-      "artists": [
-        {
-          "name": "We Came As Romans",
-          "url": "https://open.spotify.com/artist/6qO6LhD6FuXK5e2PtfAIMz"
-        }
-      ],
-      "duration_ms": 229266,
-      "name": "Carry the Weight",
-      "url": "https://open.spotify.com/track/17aUTUaDHrwv49PViccjy9"
-    },
-    {
-      "added_at": "2023-03-17 17:52:49",
-      "album": {
         "name": "Call Me Little Sunshine",
         "url": "https://open.spotify.com/album/0K1mTbmQQ6pcVLoxgk6WMq"
       },
@@ -499,6 +483,22 @@
       "duration_ms": 284266,
       "name": "Call Me Little Sunshine",
       "url": "https://open.spotify.com/track/4W6MuwB3D4fjc0kLlUKZEl"
+    },
+    {
+      "added_at": "2023-03-17 17:52:49",
+      "album": {
+        "name": "Carry the Weight / From the First Note",
+        "url": "https://open.spotify.com/album/1LWKl74lrLudXEtmIUDr3o"
+      },
+      "artists": [
+        {
+          "name": "We Came As Romans",
+          "url": "https://open.spotify.com/artist/6qO6LhD6FuXK5e2PtfAIMz"
+        }
+      ],
+      "duration_ms": 229266,
+      "name": "Carry the Weight",
+      "url": "https://open.spotify.com/track/17aUTUaDHrwv49PViccjy9"
     },
     {
       "added_at": "2023-03-17 17:52:49",
@@ -587,22 +587,6 @@
     {
       "added_at": "2023-03-17 17:52:49",
       "album": {
-        "name": "Beautiful Death",
-        "url": "https://open.spotify.com/album/5ApcJSkkS6Xh3ylQNRDNyE"
-      },
-      "artists": [
-        {
-          "name": "SLAVES",
-          "url": "https://open.spotify.com/artist/0QF3SelvOph6yRhKH8jRxU"
-        }
-      ],
-      "duration_ms": 225493,
-      "name": "Let This Haunt You",
-      "url": "https://open.spotify.com/track/4VVvShZBwoCWhx0p9Bcq11"
-    },
-    {
-      "added_at": "2023-03-17 17:52:49",
-      "album": {
         "name": "How It Feels to Be Lost (Deluxe)",
         "url": "https://open.spotify.com/album/3L0vJbE2mnyvXbixErax8B"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 182679,
       "name": "Agree to Disagree",
       "url": "https://open.spotify.com/track/47rnEcnCJ89jrL3yzQygEw"
+    },
+    {
+      "added_at": "2023-03-17 17:52:49",
+      "album": {
+        "name": "Beautiful Death",
+        "url": "https://open.spotify.com/album/5ApcJSkkS6Xh3ylQNRDNyE"
+      },
+      "artists": [
+        {
+          "name": "SLAVES",
+          "url": "https://open.spotify.com/artist/0QF3SelvOph6yRhKH8jRxU"
+        }
+      ],
+      "duration_ms": 225493,
+      "name": "Let This Haunt You",
+      "url": "https://open.spotify.com/track/4VVvShZBwoCWhx0p9Bcq11"
     },
     {
       "added_at": "2023-03-17 17:52:49",
@@ -1155,22 +1155,6 @@
     {
       "added_at": "2023-03-17 17:52:49",
       "album": {
-        "name": "Holding Absence",
-        "url": "https://open.spotify.com/album/6xEQWs9XbaJBGAy4Jv7piM"
-      },
-      "artists": [
-        {
-          "name": "Holding Absence",
-          "url": "https://open.spotify.com/artist/2tl280wIokrLjabzrSKTgU"
-        }
-      ],
-      "duration_ms": 218466,
-      "name": "Monochrome",
-      "url": "https://open.spotify.com/track/7Df5RKFErXf8Pq6e7mgJTM"
-    },
-    {
-      "added_at": "2023-03-17 17:52:49",
-      "album": {
         "name": "Nocturnal Future",
         "url": "https://open.spotify.com/album/254aZpGZSlWr87DmiD1zyb"
       },
@@ -1183,6 +1167,22 @@
       "duration_ms": 272725,
       "name": "Nocturnal Future",
       "url": "https://open.spotify.com/track/1Y5jDuVd6djgjTn5UetTxm"
+    },
+    {
+      "added_at": "2023-03-17 17:52:49",
+      "album": {
+        "name": "Holding Absence",
+        "url": "https://open.spotify.com/album/6xEQWs9XbaJBGAy4Jv7piM"
+      },
+      "artists": [
+        {
+          "name": "Holding Absence",
+          "url": "https://open.spotify.com/artist/2tl280wIokrLjabzrSKTgU"
+        }
+      ],
+      "duration_ms": 218466,
+      "name": "Monochrome",
+      "url": "https://open.spotify.com/track/7Df5RKFErXf8Pq6e7mgJTM"
     },
     {
       "added_at": "2023-03-17 17:52:49",
@@ -1315,22 +1315,6 @@
     {
       "added_at": "2023-03-17 17:52:49",
       "album": {
-        "name": "Night Terrors",
-        "url": "https://open.spotify.com/album/4hAHQH6gtwj1eEN49xhpe5"
-      },
-      "artists": [
-        {
-          "name": "Driveways",
-          "url": "https://open.spotify.com/artist/4OuSiJSnuRsK0dTM0dtm1R"
-        }
-      ],
-      "duration_ms": 213144,
-      "name": "Drop Dead",
-      "url": "https://open.spotify.com/track/1tUcwqSoPi1b9xDxietEjy"
-    },
-    {
-      "added_at": "2023-03-17 17:52:49",
-      "album": {
         "name": "How It Feels to Be Lost (Deluxe)",
         "url": "https://open.spotify.com/album/3L0vJbE2mnyvXbixErax8B"
       },
@@ -1347,18 +1331,18 @@
     {
       "added_at": "2023-03-17 17:52:49",
       "album": {
-        "name": "11 Minutes",
-        "url": "https://open.spotify.com/album/35BbA1D0ehsQOYWZCjcAsO"
+        "name": "Night Terrors",
+        "url": "https://open.spotify.com/album/4hAHQH6gtwj1eEN49xhpe5"
       },
       "artists": [
         {
-          "name": "Picturesque",
-          "url": "https://open.spotify.com/artist/412BedlPBwXH6Dz6xetzGI"
+          "name": "Driveways",
+          "url": "https://open.spotify.com/artist/4OuSiJSnuRsK0dTM0dtm1R"
         }
       ],
-      "duration_ms": 184000,
-      "name": "11 Minutes",
-      "url": "https://open.spotify.com/track/3fU5UTgRMz50UEJGA7WJHa"
+      "duration_ms": 213144,
+      "name": "Drop Dead",
+      "url": "https://open.spotify.com/track/1tUcwqSoPi1b9xDxietEjy"
     },
     {
       "added_at": "2023-03-17 17:52:49",
@@ -1383,18 +1367,18 @@
     {
       "added_at": "2023-03-17 17:52:49",
       "album": {
-        "name": "Misery Made Me",
-        "url": "https://open.spotify.com/album/3Dc0NWGnXDqRsf4sjV8JpX"
+        "name": "11 Minutes",
+        "url": "https://open.spotify.com/album/35BbA1D0ehsQOYWZCjcAsO"
       },
       "artists": [
         {
-          "name": "Silverstein",
-          "url": "https://open.spotify.com/artist/1Tsag5J854qxeOo2apszug"
+          "name": "Picturesque",
+          "url": "https://open.spotify.com/artist/412BedlPBwXH6Dz6xetzGI"
         }
       ],
-      "duration_ms": 201600,
-      "name": "Bankrupt",
-      "url": "https://open.spotify.com/track/5yUG0jhJLyYeWlpjG9AcZ1"
+      "duration_ms": 184000,
+      "name": "11 Minutes",
+      "url": "https://open.spotify.com/track/3fU5UTgRMz50UEJGA7WJHa"
     },
     {
       "added_at": "2023-03-17 17:52:49",
@@ -1415,6 +1399,22 @@
     {
       "added_at": "2023-03-17 17:52:49",
       "album": {
+        "name": "Misery Made Me",
+        "url": "https://open.spotify.com/album/3Dc0NWGnXDqRsf4sjV8JpX"
+      },
+      "artists": [
+        {
+          "name": "Silverstein",
+          "url": "https://open.spotify.com/artist/1Tsag5J854qxeOo2apszug"
+        }
+      ],
+      "duration_ms": 201600,
+      "name": "Bankrupt",
+      "url": "https://open.spotify.com/track/5yUG0jhJLyYeWlpjG9AcZ1"
+    },
+    {
+      "added_at": "2023-03-17 17:52:49",
+      "album": {
         "name": "Sick Day",
         "url": "https://open.spotify.com/album/0XIVrYRLXzwTuGXZdEzVw6"
       },
@@ -1431,22 +1431,6 @@
     {
       "added_at": "2023-03-17 17:52:49",
       "album": {
-        "name": "Low Budget Horror",
-        "url": "https://open.spotify.com/album/1mfUf7rjQRTRGbMIc7vucK"
-      },
-      "artists": [
-        {
-          "name": "RedHook",
-          "url": "https://open.spotify.com/artist/6OVWDN6Ty6RfnhUJlrYBlI"
-        }
-      ],
-      "duration_ms": 181631,
-      "name": "Low Budget Horror",
-      "url": "https://open.spotify.com/track/2jY2PFrpUfA43XcQtDbSdz"
-    },
-    {
-      "added_at": "2023-03-17 17:52:49",
-      "album": {
         "name": "Bad Idea",
         "url": "https://open.spotify.com/album/3bSDSG9KxAS9zZq9UzJi7K"
       },
@@ -1459,6 +1443,22 @@
       "duration_ms": 192504,
       "name": "Bad Idea",
       "url": "https://open.spotify.com/track/6IzFw4xL5deADLM0NDkljV"
+    },
+    {
+      "added_at": "2023-03-17 17:52:49",
+      "album": {
+        "name": "Low Budget Horror",
+        "url": "https://open.spotify.com/album/1mfUf7rjQRTRGbMIc7vucK"
+      },
+      "artists": [
+        {
+          "name": "RedHook",
+          "url": "https://open.spotify.com/artist/6OVWDN6Ty6RfnhUJlrYBlI"
+        }
+      ],
+      "duration_ms": 181631,
+      "name": "Low Budget Horror",
+      "url": "https://open.spotify.com/track/2jY2PFrpUfA43XcQtDbSdz"
     },
     {
       "added_at": "2023-03-17 17:52:49",
@@ -1511,6 +1511,22 @@
     {
       "added_at": "2023-03-17 17:52:49",
       "album": {
+        "name": "Disease (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0W1v4PxSlD1gMIbUlejqr8"
+      },
+      "artists": [
+        {
+          "name": "Beartooth",
+          "url": "https://open.spotify.com/artist/6vwjIs0tbIiseJMR3pqwiL"
+        }
+      ],
+      "duration_ms": 178154,
+      "name": "Takeover",
+      "url": "https://open.spotify.com/track/5TcpsBCqICDWlk2kT3ieFg"
+    },
+    {
+      "added_at": "2023-03-17 17:52:49",
+      "album": {
         "name": "Familiar Drugs",
         "url": "https://open.spotify.com/album/6Cvt8vsgpxQ5DRG0nqW25B"
       },
@@ -1555,22 +1571,6 @@
       "duration_ms": 158444,
       "name": "Drive Me Home",
       "url": "https://open.spotify.com/track/36dmS2axjtjqO7MIIfx6WU"
-    },
-    {
-      "added_at": "2023-03-17 17:52:49",
-      "album": {
-        "name": "Disease (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/0W1v4PxSlD1gMIbUlejqr8"
-      },
-      "artists": [
-        {
-          "name": "Beartooth",
-          "url": "https://open.spotify.com/artist/6vwjIs0tbIiseJMR3pqwiL"
-        }
-      ],
-      "duration_ms": 178154,
-      "name": "Takeover",
-      "url": "https://open.spotify.com/track/5TcpsBCqICDWlk2kT3ieFg"
     },
     {
       "added_at": "2023-03-17 17:52:49",

@@ -1,12 +1,12 @@
 {
   "description": "Let us take care of your workday soundtrack.",
-  "num_followers": 182804,
+  "num_followers": 182808,
   "original_name": "Your Office Stereo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2M2Y3NGVmNTc1YTMwYTkzNGZmYjIzM2VlOTQzOTZhMTgwMjlhOTZk",
+  "snapshot_id": "MCw5ZGQ5MDUzNDhjNGFhYTMxMmQ5M2QyMWFlZjhhNjc2MjI3ZDg4ODFm",
   "tracks": [
     {
       "added_at": "2021-08-12 14:57:38",
@@ -659,26 +659,6 @@
     {
       "added_at": "2021-08-12 14:57:38",
       "album": {
-        "name": "Undecided (with Marie Dahlstrom)",
-        "url": "https://open.spotify.com/album/3JfLwZQDIGfCtsUXJpiFcG"
-      },
-      "artists": [
-        {
-          "name": "Conor Albert",
-          "url": "https://open.spotify.com/artist/0zJjil03QRbxSliMkw230M"
-        },
-        {
-          "name": "Marie Dahlstrom",
-          "url": "https://open.spotify.com/artist/49NfOTfSPhrb0sJBVYS1iM"
-        }
-      ],
-      "duration_ms": 176373,
-      "name": "Undecided (with Marie Dahlstrom)",
-      "url": "https://open.spotify.com/track/1TyStc858QNwSpXtDdxSly"
-    },
-    {
-      "added_at": "2021-08-12 14:57:38",
-      "album": {
         "name": "Control",
         "url": "https://open.spotify.com/album/3o3OAEZXFVzDavifKXa1aV"
       },
@@ -695,6 +675,26 @@
       "duration_ms": 187364,
       "name": "Control",
       "url": "https://open.spotify.com/track/1C26HwnwtIwLlSHJdB2iZw"
+    },
+    {
+      "added_at": "2021-08-12 14:57:38",
+      "album": {
+        "name": "Undecided (with Marie Dahlstrom)",
+        "url": "https://open.spotify.com/album/3JfLwZQDIGfCtsUXJpiFcG"
+      },
+      "artists": [
+        {
+          "name": "Conor Albert",
+          "url": "https://open.spotify.com/artist/0zJjil03QRbxSliMkw230M"
+        },
+        {
+          "name": "Marie Dahlstrom",
+          "url": "https://open.spotify.com/artist/49NfOTfSPhrb0sJBVYS1iM"
+        }
+      ],
+      "duration_ms": 176373,
+      "name": "Undecided (with Marie Dahlstrom)",
+      "url": "https://open.spotify.com/track/1TyStc858QNwSpXtDdxSly"
     },
     {
       "added_at": "2021-08-12 14:57:38",
@@ -1199,6 +1199,22 @@
     {
       "added_at": "2021-08-12 14:57:38",
       "album": {
+        "name": "Taurus",
+        "url": "https://open.spotify.com/album/0IaxrgQd3Q2z66CE02UyC0"
+      },
+      "artists": [
+        {
+          "name": "Aby Coulibaly",
+          "url": "https://open.spotify.com/artist/1ZjJVQsxUHP7MKnZg8yE33"
+        }
+      ],
+      "duration_ms": 186000,
+      "name": "Taurus",
+      "url": "https://open.spotify.com/track/2qAZTSoZL0tNEw2RX0MpMw"
+    },
+    {
+      "added_at": "2021-08-12 14:57:38",
+      "album": {
         "name": "Like Sand",
         "url": "https://open.spotify.com/album/25DRkwsnYG06w8ExeR7xx6"
       },
@@ -1215,22 +1231,6 @@
       "duration_ms": 271201,
       "name": "Like Sand",
       "url": "https://open.spotify.com/track/3zRd3xkdmZZSzBHgGo4mAl"
-    },
-    {
-      "added_at": "2021-08-12 14:57:38",
-      "album": {
-        "name": "Taurus",
-        "url": "https://open.spotify.com/album/0IaxrgQd3Q2z66CE02UyC0"
-      },
-      "artists": [
-        {
-          "name": "Aby Coulibaly",
-          "url": "https://open.spotify.com/artist/1ZjJVQsxUHP7MKnZg8yE33"
-        }
-      ],
-      "duration_ms": 186000,
-      "name": "Taurus",
-      "url": "https://open.spotify.com/track/2qAZTSoZL0tNEw2RX0MpMw"
     },
     {
       "added_at": "2021-08-12 14:57:38",

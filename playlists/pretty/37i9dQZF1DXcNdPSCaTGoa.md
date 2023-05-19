@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcNdPSCaTGoa.md) - [plain]
 
 > Mzansi's musical wealth and heritage in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,572 likes - 60 songs - 5 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,622 likes - 60 songs - 5 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcNdPSCaTGoa.md) - [plain]
 | 38 | [Sana Luma \(That's The Way Love Is\)](https://open.spotify.com/track/6UiuOhWSurVn1DUcpdA6Vf) | [Zola](https://open.spotify.com/artist/2ymJS3hSwX5yiNdYroipCW) | [Khokhovula](https://open.spotify.com/album/5xmeO5jAS6KCMByzQD8Fdg) | 5:17 |
 | 39 | [Nomvula \(After the Rain\)](https://open.spotify.com/track/6S1cd5F5cpflZq6bAXQmg1) | [Freshlyground](https://open.spotify.com/artist/7AcV1lk8Zrgo1691PDWEle) | [Nomvula](https://open.spotify.com/album/2kKXMbWFVcqYms0Y5WsjFx) | 4:43 |
 | 40 | [It's About Time](https://open.spotify.com/track/4LG9ZVvPKP4jjaDOsH6ePO) | [Boom Shaka](https://open.spotify.com/artist/3YkvS9iecT6huS2Rk4NIwL) | [Boom Shaka](https://open.spotify.com/album/6CjjtWnXWUzMif0RqEv3k8) | 5:39 |
-| 41 | [Heavenly Sent](https://open.spotify.com/track/4IHHoEIPtje2WsYhIeHKD2) | [Mi Casa](https://open.spotify.com/artist/6c7bGIcrxaMdYSn6htbHj0) | [Mi Casa](https://open.spotify.com/album/3CiboCqyKx1jSZAAChiQyu) | 6:27 |
-| 42 | [Vuli Ndlela](https://open.spotify.com/track/0KF3mTRj26O3xdfCNqEviW) | [Brenda Fassie](https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl) | [Memeza](https://open.spotify.com/album/0IvfrpuZ1uq9JGuWrImJqQ) | 4:25 |
+| 41 | [Vuli Ndlela](https://open.spotify.com/track/0KF3mTRj26O3xdfCNqEviW) | [Brenda Fassie](https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl) | [Memeza](https://open.spotify.com/album/0IvfrpuZ1uq9JGuWrImJqQ) | 4:25 |
+| 42 | [Heavenly Sent](https://open.spotify.com/track/4IHHoEIPtje2WsYhIeHKD2) | [Mi Casa](https://open.spotify.com/artist/6c7bGIcrxaMdYSn6htbHj0) | [Mi Casa](https://open.spotify.com/album/3CiboCqyKx1jSZAAChiQyu) | 6:27 |
 | 43 | [Dlala Mapantsula](https://open.spotify.com/track/0DaGK6Zlg0lr2QknjZAgh4) | [TKZEE](https://open.spotify.com/artist/0dOZQGyxb6MGkTnRAxKmmi) | [Guz Hits](https://open.spotify.com/album/305izURXDMmcRRwR8INvWY) | 5:32 |
 | 44 | [Township Funk](https://open.spotify.com/track/0EN8KF256ZGQOctxVVwA20) | [Dj Mujava](https://open.spotify.com/artist/5lwkumgV9KuPaGGRKxgdVu) | [Township Funk](https://open.spotify.com/album/4gC4cguZXOXejKR4ANCovR) | 5:49 |
 | 45 | [Groovers Prayer](https://open.spotify.com/track/7qkpkpKOCr6vIuJrLbtBzT) | [Thebe](https://open.spotify.com/artist/1aAwAVypEAUVCgMy67bprS) | [Lenyora](https://open.spotify.com/album/4O8DBlsMzrukb209docL0j) | 5:41 |
@@ -66,7 +66,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcNdPSCaTGoa.md) - [plain]
 | 56 | [Nizalwa Ngobani?](https://open.spotify.com/track/4jGKKHOG8MwTn1iWJYf6hC) | [Thandiswa](https://open.spotify.com/artist/6Y5DNQAHBjLtlb7xPOmk3N) | [Zabalaza](https://open.spotify.com/album/3SEMoWOREyDMSWGFzrfb0O) | 6:44 |
 | 57 | [The Way Kungakhona](https://open.spotify.com/track/4Qb1yjYcKZQoey63oXOnO7) | [Bongo Maffin](https://open.spotify.com/artist/2eIjpwW853WkGtvIMukeRZ) | [Kalawa Jazmee Classics: Bongo Maffin](https://open.spotify.com/album/6OT33ayLWEbU1Gl6woOV7c) | 6:24 |
 | 58 | [I'd Like](https://open.spotify.com/track/15lW7MKcnprhsReAmQ2E95) | [Freshlyground](https://open.spotify.com/artist/7AcV1lk8Zrgo1691PDWEle) | [Nomvula](https://open.spotify.com/album/2kKXMbWFVcqYms0Y5WsjFx) | 6:22 |
-| 59 | [Umoya](https://open.spotify.com/track/6bCvf4kAFEUUCKheEZfDVF) | [Skwatta Kamp](https://open.spotify.com/artist/5Y0pKQ51nrT0IBnd6zDRqk) | [Mkhukhu Funkshen](https://open.spotify.com/album/4nb42BsvE1J91pzixpk10T) | 4:35 |
+| 59 | [Umoya](https://open.spotify.com/track/6bCvf4kAFEUUCKheEZfDVF) | [Skwatta kamp](https://open.spotify.com/artist/6PzSxetFOE72bmEObwo8rl) | [Mkhukhu Funkshen](https://open.spotify.com/album/4nb42BsvE1J91pzixpk10T) | 4:35 |
 | 60 | [Bengim'ngaka](https://open.spotify.com/track/1NXjMuNzN1wV6IUsn5arhg) | [Trompies](https://open.spotify.com/artist/4xrsK22CWDEPYIrreVE018), [Tzozo](https://open.spotify.com/artist/3u1EqktOzAt4oYfRbpGji2) | [Respect Toasted Gona' Ganati](https://open.spotify.com/album/3FgfVMYu1bCieTLoyx3rpE) | 5:15 |
 
-Snapshot ID: `MCw3YTQwYTk0NzM3YmFkZGVmMTRkZjQyZGJkOTk4YTU0MWFlOTI3ZGM3`
+Snapshot ID: `MCwzZGZjNmFmNzBjMTRjNTQ1MTY1ZTE1NGQ5ODUxMzdkZTgyNGEwYjcy`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/74glIVP7azlpKA77RCgyDL.md) - [plain]
 
 > Every week badass heavy\-music artists drop badass new cuts, and every week we&\#x27;ll add those tracks to this evolving list for your headbanging pleasure\. Cover artist: Queens of the Stone Age
 
-[revolvermagazine](https://open.spotify.com/user/revolvermagazine) - 7,773 likes - 406 songs - 1 day 2 hr 8 min
+[revolvermagazine](https://open.spotify.com/user/revolvermagazine) - 7,771 likes - 406 songs - 1 day 2 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/74glIVP7azlpKA77RCgyDL.md) - [plain]
 | 10 | [You Are the Beginning](https://open.spotify.com/track/4z1hGpOWBgFPa1AUND2P7X) | [Boris](https://open.spotify.com/artist/3EgMK920cIH5aLxFnJ6zSi), [Uniform](https://open.spotify.com/artist/3TaLdYu9rA6H364ROYMmvF) | [You Are the Beginning](https://open.spotify.com/album/4Jupeun3ZXE7DsAb3nv7ZG) | 3:44 |
 | 11 | [Artificial Anatomy](https://open.spotify.com/track/44kqDJc7BNWH1zGDwN8egF) | [Left to Suffer](https://open.spotify.com/artist/36d1uVy1ZuZWqfnsPxCUOk), [Kim Dracula](https://open.spotify.com/artist/526TMJFuJibm9j2p9td9Yp) | [Artificial Anatomy](https://open.spotify.com/album/1lbdiiIaSeYY6uS1LtSeyD) | 3:50 |
 | 12 | [Spit](https://open.spotify.com/track/35UePqF4pjXRtIsF7jLBFi) | [Poppy](https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv) | [Spit](https://open.spotify.com/album/1A1imsxjEk8FxR6w31vjdh) | 2:30 |
-| 13 | [HATEFUL](https://open.spotify.com/track/6QtiPaRRcSIne26CN4zNla) | [HEALTH](https://open.spotify.com/artist/6FfjnGXMhxSsJTuGLWBDth) | [HATEFUL](https://open.spotify.com/album/5bNClD13l1fc6BosE5EKoN) | 4:08 |
+| 13 | [HATEFUL](https://open.spotify.com/track/6QtiPaRRcSIne26CN4zNla) | [HEALTH](https://open.spotify.com/artist/6FfjnGXMhxSsJTuGLWBDth), [SIERRA](https://open.spotify.com/artist/25WCO5tS4sXMxIfe3nIXL4) | [HATEFUL](https://open.spotify.com/album/5bNClD13l1fc6BosE5EKoN) | 4:08 |
 | 14 | [Anti\-Fetish](https://open.spotify.com/track/2fc6YX69npgSxNM1pBHBgf) | [VEXED](https://open.spotify.com/artist/4ZwENj9UHL3ujCD3k7DfNH) | [Anti\-Fetish](https://open.spotify.com/album/1GsWn1EFJa6DdETJcCLytU) | 3:58 |
 | 15 | [Fatal Reality](https://open.spotify.com/track/5t7EVml5qN27lkRhv4NibM) | [200 Stab Wounds](https://open.spotify.com/artist/6DH6xC3RoN7L7sGlJ60LKv) | [Masters of Morbidity](https://open.spotify.com/album/2qOeSLz1t8ht0MQaLOGzEC) | 2:40 |
 | 16 | [Pearl](https://open.spotify.com/track/1Ki7u6kfylNZlKVHNsZ54U) | [Anklebiter](https://open.spotify.com/artist/3RyxShZKZfWVtCaAxmgEDg) | [Pearl](https://open.spotify.com/album/2pdE3vNWf94N1aXijKwL3G) | 1:22 |

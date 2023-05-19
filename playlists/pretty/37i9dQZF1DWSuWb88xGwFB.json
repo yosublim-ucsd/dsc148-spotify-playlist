@@ -1,12 +1,12 @@
 {
   "description": "Releases from the legendary label.",
-  "num_followers": 26942,
+  "num_followers": 26965,
   "original_name": "Crate Diggin' Strictly Rhythm",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjOGYzNDc5ZWNiYjYyYmYwMThiOGE0MjYxM2MwZWZlYzY0MTgzYmZh",
+  "snapshot_id": "MCxiMWI0YjNiMzQ3MDNjMDZjNWIzNTVlZmNlYjQ3MzJjNzM1YTllODlh",
   "tracks": [
     {
       "added_at": "2022-03-03 13:59:16",
@@ -183,26 +183,6 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
-        "name": "What You Need (feat. Duane Harden)",
-        "url": "https://open.spotify.com/album/0PHSjWhb9VxzPTvGVE80PR"
-      },
-      "artists": [
-        {
-          "name": "Powerhouse",
-          "url": "https://open.spotify.com/artist/2FbCA5ewgyGeuNV90qpZUS"
-        },
-        {
-          "name": "Duane Harden",
-          "url": "https://open.spotify.com/artist/6t8VAB5OTHKxi4p1I5aqn0"
-        }
-      ],
-      "duration_ms": 202698,
-      "name": "What You Need (feat. Duane Harden) - Full Intention Radio Edit",
-      "url": "https://open.spotify.com/track/7inuLUpKsCnlh4gxrsOe3i"
-    },
-    {
-      "added_at": "2022-03-03 13:59:16",
-      "album": {
         "name": "Get Down (feat. Kenny Dope, DJ Sneak, Terry Hunter, Tara McDonald) [Pt. 1]",
         "url": "https://open.spotify.com/album/46AATm4VBOMkOoljqYBQl0"
       },
@@ -231,6 +211,26 @@
       "duration_ms": 356440,
       "name": "Get Down (feat. Kenny Dope & DJ Sneak & Terry Hunter & Tara McDonald) - Kenny Dope Mix",
       "url": "https://open.spotify.com/track/0xP5kC9fdXfKrgY2Dyp0sx"
+    },
+    {
+      "added_at": "2022-03-03 13:59:16",
+      "album": {
+        "name": "What You Need (feat. Duane Harden)",
+        "url": "https://open.spotify.com/album/0PHSjWhb9VxzPTvGVE80PR"
+      },
+      "artists": [
+        {
+          "name": "Powerhouse",
+          "url": "https://open.spotify.com/artist/2FbCA5ewgyGeuNV90qpZUS"
+        },
+        {
+          "name": "Duane Harden",
+          "url": "https://open.spotify.com/artist/6t8VAB5OTHKxi4p1I5aqn0"
+        }
+      ],
+      "duration_ms": 202698,
+      "name": "What You Need (feat. Duane Harden) - Full Intention Radio Edit",
+      "url": "https://open.spotify.com/track/7inuLUpKsCnlh4gxrsOe3i"
     },
     {
       "added_at": "2022-03-03 13:59:16",
@@ -667,22 +667,6 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
-        "name": "Indonesia",
-        "url": "https://open.spotify.com/album/4Uucb977IOqbwV2aNURxll"
-      },
-      "artists": [
-        {
-          "name": "Circle Children",
-          "url": "https://open.spotify.com/artist/6HC1x1EziZeSZubcuNLMOP"
-        }
-      ],
-      "duration_ms": 362666,
-      "name": "Indonesia - Sambal Badjak Mix",
-      "url": "https://open.spotify.com/track/5hux2aFTJbGZHuN0LtGQeN"
-    },
-    {
-      "added_at": "2022-03-03 13:59:16",
-      "album": {
         "name": "So Deep, So Good",
         "url": "https://open.spotify.com/album/2xonk5dLrJacZPzlNlAmHG"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 456240,
       "name": "So Deep, So Good - Ndako Gboya Mix",
       "url": "https://open.spotify.com/track/5gfCRpLTpke9OLVTpWgbax"
+    },
+    {
+      "added_at": "2022-03-03 13:59:16",
+      "album": {
+        "name": "Indonesia",
+        "url": "https://open.spotify.com/album/4Uucb977IOqbwV2aNURxll"
+      },
+      "artists": [
+        {
+          "name": "Circle Children",
+          "url": "https://open.spotify.com/artist/6HC1x1EziZeSZubcuNLMOP"
+        }
+      ],
+      "duration_ms": 362666,
+      "name": "Indonesia - Sambal Badjak Mix",
+      "url": "https://open.spotify.com/track/5hux2aFTJbGZHuN0LtGQeN"
     },
     {
       "added_at": "2022-03-03 13:59:16",
@@ -763,18 +763,18 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
-        "name": "The Swing Doctor",
-        "url": "https://open.spotify.com/album/114F2eqOw7x3kYZUgcvktB"
+        "name": "Strictly Rhythm Est. 1989: 20 Years of Classics",
+        "url": "https://open.spotify.com/album/2dVYsrHXFekyramy50OdGn"
       },
       "artists": [
         {
-          "name": "The Untouchables",
-          "url": "https://open.spotify.com/artist/56T2velmlNdZj0izQHv0HF"
+          "name": "Barbara Tucker",
+          "url": "https://open.spotify.com/artist/6txh5tFMJyxSwT0iE7wX2w"
         }
       ],
-      "duration_ms": 343720,
-      "name": "Dance To The Rhythm",
-      "url": "https://open.spotify.com/track/7AkcVsqsvievz23Gc3bRyE"
+      "duration_ms": 433373,
+      "name": "I Get Lifted - The Underground Network Mix",
+      "url": "https://open.spotify.com/track/5wH0Jg5a4WOL5elQhOPSDc"
     },
     {
       "added_at": "2022-03-03 13:59:16",
@@ -795,18 +795,18 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
-        "name": "Strictly Rhythm Est. 1989: 20 Years of Classics",
-        "url": "https://open.spotify.com/album/2dVYsrHXFekyramy50OdGn"
+        "name": "The Swing Doctor",
+        "url": "https://open.spotify.com/album/114F2eqOw7x3kYZUgcvktB"
       },
       "artists": [
         {
-          "name": "Barbara Tucker",
-          "url": "https://open.spotify.com/artist/6txh5tFMJyxSwT0iE7wX2w"
+          "name": "The Untouchables",
+          "url": "https://open.spotify.com/artist/56T2velmlNdZj0izQHv0HF"
         }
       ],
-      "duration_ms": 433373,
-      "name": "I Get Lifted - The Underground Network Mix",
-      "url": "https://open.spotify.com/track/5wH0Jg5a4WOL5elQhOPSDc"
+      "duration_ms": 343720,
+      "name": "Dance To The Rhythm",
+      "url": "https://open.spotify.com/track/7AkcVsqsvievz23Gc3bRyE"
     },
     {
       "added_at": "2022-03-03 13:59:16",
@@ -827,22 +827,6 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
-        "name": "Choices",
-        "url": "https://open.spotify.com/album/2c68ZizXWS5lDng75WLwIE"
-      },
-      "artists": [
-        {
-          "name": "Full Swing",
-          "url": "https://open.spotify.com/artist/61u5dnJOUnu9mddENoTJeQ"
-        }
-      ],
-      "duration_ms": 472984,
-      "name": "Choices - Choices Vocal Mix",
-      "url": "https://open.spotify.com/track/0snpiWB9x2GdHbaTzmutHa"
-    },
-    {
-      "added_at": "2022-03-03 13:59:16",
-      "album": {
         "name": "Justify",
         "url": "https://open.spotify.com/album/4uGfxR9WiHiGYWE6pFDKL9"
       },
@@ -859,18 +843,34 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
-        "name": "The Lost Tapes: 'Little' Louie Vega at the Underground Network NYC (Unmixed)",
-        "url": "https://open.spotify.com/album/5S1HpMDosKRTlP4F7Ftssr"
+        "name": "Stay Together",
+        "url": "https://open.spotify.com/album/6wuP78U4t60sCYOvA4kqUt"
       },
       "artists": [
         {
-          "name": "Raw Power",
-          "url": "https://open.spotify.com/artist/5xhTAnkK8Pxq3XHGitPztd"
+          "name": "Barbara Tucker",
+          "url": "https://open.spotify.com/artist/6txh5tFMJyxSwT0iE7wX2w"
         }
       ],
-      "duration_ms": 297037,
-      "name": "Wanna Be Your Girl - A 'G' Thang Mix",
-      "url": "https://open.spotify.com/track/1kTbLVpJoP0QzMhf4ZoUfH"
+      "duration_ms": 777626,
+      "name": "Stay Together - Armand's ''Crazy'' Trauma Mix",
+      "url": "https://open.spotify.com/track/20WvAQIQW714BqsdLScIIs"
+    },
+    {
+      "added_at": "2022-03-03 13:59:16",
+      "album": {
+        "name": "Choices",
+        "url": "https://open.spotify.com/album/2c68ZizXWS5lDng75WLwIE"
+      },
+      "artists": [
+        {
+          "name": "Full Swing",
+          "url": "https://open.spotify.com/artist/61u5dnJOUnu9mddENoTJeQ"
+        }
+      ],
+      "duration_ms": 472984,
+      "name": "Choices - Choices Vocal Mix",
+      "url": "https://open.spotify.com/track/0snpiWB9x2GdHbaTzmutHa"
     },
     {
       "added_at": "2022-03-03 13:59:16",
@@ -891,6 +891,22 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
+        "name": "The Lost Tapes: 'Little' Louie Vega at the Underground Network NYC (Unmixed)",
+        "url": "https://open.spotify.com/album/5S1HpMDosKRTlP4F7Ftssr"
+      },
+      "artists": [
+        {
+          "name": "Raw Power",
+          "url": "https://open.spotify.com/artist/5xhTAnkK8Pxq3XHGitPztd"
+        }
+      ],
+      "duration_ms": 297037,
+      "name": "Wanna Be Your Girl - A 'G' Thang Mix",
+      "url": "https://open.spotify.com/track/1kTbLVpJoP0QzMhf4ZoUfH"
+    },
+    {
+      "added_at": "2022-03-03 13:59:16",
+      "album": {
         "name": "Love Trax",
         "url": "https://open.spotify.com/album/1VyhBbnfZeiB5d5YGcxVU9"
       },
@@ -903,22 +919,6 @@
       "duration_ms": 406131,
       "name": "Love Trax - Love Izz",
       "url": "https://open.spotify.com/track/6Aiahrv9IoKgTb7OqOaqp5"
-    },
-    {
-      "added_at": "2022-03-03 13:59:16",
-      "album": {
-        "name": "Stay Together",
-        "url": "https://open.spotify.com/album/6wuP78U4t60sCYOvA4kqUt"
-      },
-      "artists": [
-        {
-          "name": "Barbara Tucker",
-          "url": "https://open.spotify.com/artist/6txh5tFMJyxSwT0iE7wX2w"
-        }
-      ],
-      "duration_ms": 777626,
-      "name": "Stay Together - Armand's ''Crazy'' Trauma Mix",
-      "url": "https://open.spotify.com/track/20WvAQIQW714BqsdLScIIs"
     },
     {
       "added_at": "2022-03-03 13:59:16",
@@ -1071,6 +1071,22 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
+        "name": "Strictly Rhythm Est. 1989: 20 Years of Classics",
+        "url": "https://open.spotify.com/album/2dVYsrHXFekyramy50OdGn"
+      },
+      "artists": [
+        {
+          "name": "SuSu Bobien",
+          "url": "https://open.spotify.com/artist/0VkVSvzkH6JPRTLDJjmpvn"
+        }
+      ],
+      "duration_ms": 483750,
+      "name": "You Don't Know - MuthaFunkaz Tribute Mix",
+      "url": "https://open.spotify.com/track/1wKS5SSnWnCFSX5irtyF17"
+    },
+    {
+      "added_at": "2022-03-03 13:59:16",
+      "album": {
         "name": "Set My Spirit Free (feat. Sandy Rivera)",
         "url": "https://open.spotify.com/album/2rFxKv5g2o34oZEYcCpzvN"
       },
@@ -1087,22 +1103,6 @@
       "duration_ms": 468520,
       "name": "Set My Spirit Free (feat. Sandy Rivera)",
       "url": "https://open.spotify.com/track/1waCufNVr5c5kfOBzUEEPM"
-    },
-    {
-      "added_at": "2022-03-03 13:59:16",
-      "album": {
-        "name": "Strictly Rhythm Est. 1989: 20 Years of Classics",
-        "url": "https://open.spotify.com/album/2dVYsrHXFekyramy50OdGn"
-      },
-      "artists": [
-        {
-          "name": "SuSu Bobien",
-          "url": "https://open.spotify.com/artist/0VkVSvzkH6JPRTLDJjmpvn"
-        }
-      ],
-      "duration_ms": 483750,
-      "name": "You Don't Know - MuthaFunkaz Tribute Mix",
-      "url": "https://open.spotify.com/track/1wKS5SSnWnCFSX5irtyF17"
     },
     {
       "added_at": "2022-03-03 13:59:16",
@@ -1139,22 +1139,6 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
-        "name": "Everybody Dance",
-        "url": "https://open.spotify.com/album/3F5UONXKw1at69QdBsLnwr"
-      },
-      "artists": [
-        {
-          "name": "Barbara Tucker",
-          "url": "https://open.spotify.com/artist/6txh5tFMJyxSwT0iE7wX2w"
-        }
-      ],
-      "duration_ms": 479440,
-      "name": "Everybody Dance - M.A.S. Club Vocal",
-      "url": "https://open.spotify.com/track/71ccVLki17DA8sVO74XoSG"
-    },
-    {
-      "added_at": "2022-03-03 13:59:16",
-      "album": {
         "name": "Just Us",
         "url": "https://open.spotify.com/album/5hdwOlTkUYKkPaaiZ7d47r"
       },
@@ -1171,6 +1155,22 @@
       "duration_ms": 227173,
       "name": "Just Us - B.O.P. Radio Joint",
       "url": "https://open.spotify.com/track/1hfX4Y0u3MqizJdjnnjHdZ"
+    },
+    {
+      "added_at": "2022-03-03 13:59:16",
+      "album": {
+        "name": "Everybody Dance",
+        "url": "https://open.spotify.com/album/3F5UONXKw1at69QdBsLnwr"
+      },
+      "artists": [
+        {
+          "name": "Barbara Tucker",
+          "url": "https://open.spotify.com/artist/6txh5tFMJyxSwT0iE7wX2w"
+        }
+      ],
+      "duration_ms": 479440,
+      "name": "Everybody Dance - M.A.S. Club Vocal",
+      "url": "https://open.spotify.com/track/71ccVLki17DA8sVO74XoSG"
     },
     {
       "added_at": "2022-03-03 13:59:16",

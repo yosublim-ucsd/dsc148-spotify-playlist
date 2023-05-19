@@ -1,12 +1,12 @@
 {
   "description": "The very best acoustic songs from singer-songwriters making waves. Cover: Madi Diaz",
-  "num_followers": 146522,
+  "num_followers": 146591,
   "original_name": "Women of Acoustic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiZTBhNjhjOTJjMmFjOTgzNDJhYzdmNGZmYTQzNjIyM2YzYzkzMzI3",
+  "snapshot_id": "MCwyNWQzNzllZWUzMjg0MjEyYjE3YmIwYjA4NDNlNjFhNzMzMDA4Zjkx",
   "tracks": [
     {
       "added_at": "2023-03-08 05:00:00",
@@ -1191,22 +1191,6 @@
     {
       "added_at": "2023-03-08 05:00:00",
       "album": {
-        "name": "untitled",
-        "url": "https://open.spotify.com/album/4Xweu1d5gXbscOXhIRMLUT"
-      },
-      "artists": [
-        {
-          "name": "Rachael Jenkins",
-          "url": "https://open.spotify.com/artist/5j0GrXECgqyWvysNyBN0CP"
-        }
-      ],
-      "duration_ms": 225640,
-      "name": "untitled",
-      "url": "https://open.spotify.com/track/4foKnVvnAHmQYbONUcbgkK"
-    },
-    {
-      "added_at": "2023-03-08 05:00:00",
-      "album": {
         "name": "In the Magic Hour Solo Sessions",
         "url": "https://open.spotify.com/album/1XxOQRUB7eOOQWryZM3YZM"
       },
@@ -1219,6 +1203,22 @@
       "duration_ms": 228626,
       "name": "Nebraska - Acoustic",
       "url": "https://open.spotify.com/track/5H3hNv8kLr15zQxFUiuIqT"
+    },
+    {
+      "added_at": "2023-03-08 05:00:00",
+      "album": {
+        "name": "untitled",
+        "url": "https://open.spotify.com/album/4Xweu1d5gXbscOXhIRMLUT"
+      },
+      "artists": [
+        {
+          "name": "Rachael Jenkins",
+          "url": "https://open.spotify.com/artist/5j0GrXECgqyWvysNyBN0CP"
+        }
+      ],
+      "duration_ms": 225640,
+      "name": "untitled",
+      "url": "https://open.spotify.com/track/4foKnVvnAHmQYbONUcbgkK"
     },
     {
       "added_at": "2023-03-08 05:00:00",
@@ -1367,6 +1367,22 @@
     {
       "added_at": "2023-03-08 05:00:00",
       "album": {
+        "name": "Crying in Cars",
+        "url": "https://open.spotify.com/album/4uJrophYlBcAfwQXI6uDlf"
+      },
+      "artists": [
+        {
+          "name": "Emily Rowed",
+          "url": "https://open.spotify.com/artist/0f1BcubFYDkGOTA0bJ0u1w"
+        }
+      ],
+      "duration_ms": 222024,
+      "name": "Let Me Hurt (Acoustic)",
+      "url": "https://open.spotify.com/track/5lCYavZeZIbkVMyiukdTJx"
+    },
+    {
+      "added_at": "2023-03-08 05:00:00",
+      "album": {
         "name": "The Hardest Part",
         "url": "https://open.spotify.com/album/3dlzxTH49iYilF7cLV1LK3"
       },
@@ -1387,22 +1403,6 @@
     {
       "added_at": "2023-03-08 05:00:00",
       "album": {
-        "name": "Crying in Cars",
-        "url": "https://open.spotify.com/album/4uJrophYlBcAfwQXI6uDlf"
-      },
-      "artists": [
-        {
-          "name": "Emily Rowed",
-          "url": "https://open.spotify.com/artist/0f1BcubFYDkGOTA0bJ0u1w"
-        }
-      ],
-      "duration_ms": 222024,
-      "name": "Let Me Hurt (Acoustic)",
-      "url": "https://open.spotify.com/track/5lCYavZeZIbkVMyiukdTJx"
-    },
-    {
-      "added_at": "2023-03-08 05:00:00",
-      "album": {
         "name": "Quiet (Stripped)",
         "url": "https://open.spotify.com/album/4dqLW8pQA05EoWHZtrlWPi"
       },
@@ -1415,22 +1415,6 @@
       "duration_ms": 208587,
       "name": "Quiet - Stripped",
       "url": "https://open.spotify.com/track/60oCAd3gei66GObniGX4wV"
-    },
-    {
-      "added_at": "2023-03-08 05:00:00",
-      "album": {
-        "name": "Memories Are Now",
-        "url": "https://open.spotify.com/album/3kDXlfIujTkCsbgmjy0Jwo"
-      },
-      "artists": [
-        {
-          "name": "Jesca Hoop",
-          "url": "https://open.spotify.com/artist/0fqE57gXXTTqxXlFYVNG2u"
-        }
-      ],
-      "duration_ms": 213503,
-      "name": "Pegasi",
-      "url": "https://open.spotify.com/track/2meI5rJH6LtLQ5cuNdje5g"
     },
     {
       "added_at": "2023-03-08 05:00:00",
@@ -1451,6 +1435,22 @@
     {
       "added_at": "2023-03-08 05:00:00",
       "album": {
+        "name": "Memories Are Now",
+        "url": "https://open.spotify.com/album/3kDXlfIujTkCsbgmjy0Jwo"
+      },
+      "artists": [
+        {
+          "name": "Jesca Hoop",
+          "url": "https://open.spotify.com/artist/0fqE57gXXTTqxXlFYVNG2u"
+        }
+      ],
+      "duration_ms": 213503,
+      "name": "Pegasi",
+      "url": "https://open.spotify.com/track/2meI5rJH6LtLQ5cuNdje5g"
+    },
+    {
+      "added_at": "2023-03-08 05:00:00",
+      "album": {
         "name": "Best Days (Acoustic)",
         "url": "https://open.spotify.com/album/0Hg3xaDMtD4heeBIutwMSV"
       },
@@ -1463,6 +1463,22 @@
       "duration_ms": 179063,
       "name": "Best Days - Acoustic",
       "url": "https://open.spotify.com/track/38sCPCcv3QjWl0NslC5KtW"
+    },
+    {
+      "added_at": "2023-03-08 05:00:00",
+      "album": {
+        "name": "You Never Met Me",
+        "url": "https://open.spotify.com/album/4rVsCVbWLQWEUXsOfPRzEg"
+      },
+      "artists": [
+        {
+          "name": "Sydney Rose",
+          "url": "https://open.spotify.com/artist/5vx4pDmiFDyKMhuOIgpiRv"
+        }
+      ],
+      "duration_ms": 236583,
+      "name": "Phoebe Told Me",
+      "url": "https://open.spotify.com/track/6DQFgZEqTX5suz4luBta0M"
     },
     {
       "added_at": "2023-03-08 05:00:00",
@@ -1483,22 +1499,6 @@
       "duration_ms": 221599,
       "name": "August (feat. Adam Melchor)",
       "url": "https://open.spotify.com/track/2i650Qa2Mw4brCjxulbacC"
-    },
-    {
-      "added_at": "2023-03-08 05:00:00",
-      "album": {
-        "name": "You Never Met Me",
-        "url": "https://open.spotify.com/album/4rVsCVbWLQWEUXsOfPRzEg"
-      },
-      "artists": [
-        {
-          "name": "Sydney Rose",
-          "url": "https://open.spotify.com/artist/5vx4pDmiFDyKMhuOIgpiRv"
-        }
-      ],
-      "duration_ms": 236583,
-      "name": "Phoebe Told Me",
-      "url": "https://open.spotify.com/track/6DQFgZEqTX5suz4luBta0M"
     },
     {
       "added_at": "2023-03-08 05:00:00",

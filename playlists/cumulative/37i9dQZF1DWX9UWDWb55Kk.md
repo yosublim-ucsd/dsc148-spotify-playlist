@@ -4,7 +4,7 @@
 
 > Escucha la música de las seis temporadas de Élite.
 
-362 songs - 23 hr 7 min
+363 songs - 23 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,7 +35,8 @@
 | [Alright](https://open.spotify.com/track/4twn74u477hG5PlKmwl2hO) | [Alpines](https://open.spotify.com/artist/5Rja2iSIMNhzHMRoKzHKNX) | [Alright](https://open.spotify.com/album/5kS03UfZL4mr602XkFiEBN) | 3:58 | 2021-09-01 |  |
 | [Alta tensión](https://open.spotify.com/track/15n6UWbqyAVftmrl2Qfy99) | [Alaska Y Los Pegamoides](https://open.spotify.com/artist/60LKzdjqtmposRWQbVnGAI) | [Grandes Éxitos \- Edición Para Coleccionistas](https://open.spotify.com/album/3MHA0IRha04GHJwFHGFxdP) | 2:52 | 2022-04-08 |  |
 | [Antes de Morirme \(feat\. ROSALÍA\)](https://open.spotify.com/track/4Dl8bEzhAEGbcwkQawS1XG) | [C\. Tangana](https://open.spotify.com/artist/5TYxZTjIPqKM8K8NuP9woO), [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [Antes de Morirme \(feat\. ROSALÍA\)](https://open.spotify.com/album/1thajvxcfKux4QBwgM9Ac5) | 3:19 | 2021-09-01 |  |
-| [Are You All Good?](https://open.spotify.com/track/7I5tV3ZQVLRav2PADoFbb9) | [breathe.](https://open.spotify.com/artist/6XrEYPg6rrQMV4GKabTxbE) | [Breathe.](https://open.spotify.com/album/5w5bwL9qRsIQn58XqVhzO5) | 3:11 | 2021-09-01 |  |
+| [Are You All Good?](https://open.spotify.com/track/6bmoA5by5aXQp5hG8cRbyW) | [breathe.](https://open.spotify.com/artist/6XrEYPg6rrQMV4GKabTxbE) | [Breathe.](https://open.spotify.com/album/60GlIPJZ9E9mvH1SJCFCaa) | 3:11 | 2021-09-01 |  |
+| [Are You All Good?](https://open.spotify.com/track/7I5tV3ZQVLRav2PADoFbb9) | [breathe.](https://open.spotify.com/artist/6XrEYPg6rrQMV4GKabTxbE) | [Breathe.](https://open.spotify.com/album/5w5bwL9qRsIQn58XqVhzO5) | 3:11 | 2021-09-01 | 2023-05-19 |
 | [Arena](https://open.spotify.com/track/6ale6gl5ZL8CkLg6vv6N2X) | [SUUNS](https://open.spotify.com/artist/3UkN1XeK2D4wD4uhtJx4vb) | [Zeroes QC](https://open.spotify.com/album/4u3DR7kACs2BSegDxoq3GL) | 5:11 | 2022-11-24 |  |
 | [Armenia](https://open.spotify.com/track/7BYBFXptGL6IPWMN2fy0bL) | [Joan Thiele](https://open.spotify.com/artist/2X1CuKIwl9B7zMjXi41bi5) | [Armenia](https://open.spotify.com/album/0FOga9rHdMOkftGDmSnkcQ) | 2:57 | 2021-09-01 |  |
 | [AS Going \(feat\. LYZZA\)](https://open.spotify.com/track/792m8FCo4o4ZO1cMuZUlid) | [Amnesia Scanner](https://open.spotify.com/artist/2J3LwjEkmryU6BSAubwbMF), [LYZZA](https://open.spotify.com/artist/57xaBKepmdqQ6BjXkiHa4B) | [Tearless](https://open.spotify.com/album/4oJgRPOIIRAIYprWRhKohZ) | 3:19 | 2022-04-08 |  |

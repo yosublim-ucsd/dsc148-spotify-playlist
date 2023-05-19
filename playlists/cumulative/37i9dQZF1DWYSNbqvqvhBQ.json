@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-25",
-  "description": "Luister naar de fijnste nieuwe songs en hits van dit moment! Cover: Ed Sheeran",
+  "description": "Luister naar de fijnste nieuwe songs en hits van dit moment! Cover: Lewis Capaldi",
   "name": "Stay Tuned!",
   "tracks": [
     {
@@ -290,6 +290,24 @@
       "duration_ms": 192133,
       "name": "Best Damn Day",
       "url": "https://open.spotify.com/track/0MgfP0e6VkyQXSvjfNZ7bM"
+    },
+    {
+      "album": {
+        "name": "Better Man",
+        "url": "https://open.spotify.com/album/1hfIWkFQJnxCtCTWshLEX7"
+      },
+      "artists": [
+        {
+          "name": "Sekou",
+          "url": "https://open.spotify.com/artist/1mYgKcXdbklH5RwjU6XA8c"
+        }
+      ],
+      "date_added": "2023-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192130,
+      "name": "Better Man",
+      "url": "https://open.spotify.com/track/7qqOrc0Uvpvl5NvoAPRGLE"
     },
     {
       "album": {
@@ -1061,6 +1079,24 @@
     },
     {
       "album": {
+        "name": "Broken By Desire To Be Heavenly Sent",
+        "url": "https://open.spotify.com/album/0ECSyPejfD7oL95dD3jgoi"
+      },
+      "artists": [
+        {
+          "name": "Lewis Capaldi",
+          "url": "https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB"
+        }
+      ],
+      "date_added": "2023-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230533,
+      "name": "Haven't You Ever Been In Love Before?",
+      "url": "https://open.spotify.com/track/7136zBuda3024ZQUTBB1Vg"
+    },
+    {
+      "album": {
         "name": "Head Held High",
         "url": "https://open.spotify.com/album/31USChxDJRBNE8iNlf7Nre"
       },
@@ -1559,6 +1595,24 @@
     },
     {
       "album": {
+        "name": "JUMP!",
+        "url": "https://open.spotify.com/album/6IJQx7e2CdRtZ4VN5QvoSD"
+      },
+      "artists": [
+        {
+          "name": "Only The Poets",
+          "url": "https://open.spotify.com/artist/3Z40kLBFU7C8532e2YLE9t"
+        }
+      ],
+      "date_added": "2023-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194928,
+      "name": "JUMP!",
+      "url": "https://open.spotify.com/track/3XfqHrrVnG4BI2XAOaYiim"
+    },
+    {
+      "album": {
         "name": "3 Songs At A Time Sampler",
         "url": "https://open.spotify.com/album/7fOmdhRrRohTzToL617xkk"
       },
@@ -1862,7 +1916,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 211333,
       "name": "Never Had To Know",
       "url": "https://open.spotify.com/track/0wVrS0Jg01HNeJcs5TyUBK"
@@ -2100,7 +2154,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 228988,
       "name": "Pointless",
       "url": "https://open.spotify.com/track/4JBiO7wRnE6ueszEUpo347"
@@ -2332,7 +2386,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 243119,
       "name": "Still Got It Goin' On - Radio Edit",
       "url": "https://open.spotify.com/track/0s29NsEfTyZQ5FFeQbVWWs"

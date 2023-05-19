@@ -12591,6 +12591,24 @@
     },
     {
       "album": {
+        "name": "Swimmy",
+        "url": "https://open.spotify.com/album/0lh6RdtUpsCMn8Ci3LpQvU"
+      },
+      "artists": [
+        {
+          "name": "YU-KA",
+          "url": "https://open.spotify.com/artist/1mnAFQLFTaUbccNqvK5pqX"
+        }
+      ],
+      "date_added": "2023-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208100,
+      "name": "Swimmy",
+      "url": "https://open.spotify.com/track/3reOxGqUCxSFziVFnVkT1S"
+    },
+    {
+      "album": {
         "name": "Hikare Inochi",
         "url": "https://open.spotify.com/album/6UoFSfFtSDp97egQC3Vnas"
       },
@@ -20210,7 +20228,7 @@
       ],
       "date_added": "2023-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 274000,
       "name": "\u5148\u99c6\u8005",
       "url": "https://open.spotify.com/track/2z39kvnOiBa0DBbtsCRNA0"

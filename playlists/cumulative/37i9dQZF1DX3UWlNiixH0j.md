@@ -4,7 +4,7 @@
 
 > The freshest indie sounds from Japan\. 日本のインディー・サウンドを特集。Cover: どんぐりず + Neibiss
 
-457 songs - 1 day 4 hr 44 min
+459 songs - 1 day 4 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -177,7 +177,7 @@
 | [life on the run](https://open.spotify.com/track/5DyTRTEBWGANlW8tHHclp5) | [Fennel](https://open.spotify.com/artist/1D0gxH3t0FQjWqryWmhjnq) | [Mixed up](https://open.spotify.com/album/7vTpvDx5hHj2Bu77bHFhK0) | 4:28 | 2023-04-04 | 2023-04-12 |
 | [Lifetime](https://open.spotify.com/track/19ifncpKx4A8IDEEFHCCZC) | [松木美定](https://open.spotify.com/artist/4VytANV5Kt1OqJpzkkc6wA) | [Lifetime](https://open.spotify.com/album/3biCMPJLQKjynlXeJBZcDg) | 3:23 | 2023-01-12 |  |
 | [Life’s A Game](https://open.spotify.com/track/5PHqslBNMYjZGjAa2VEAP6) | [Wez Atlas](https://open.spotify.com/artist/6fDdl8sluLiRg4fbrqMoeQ) | [This Too Shall Pass](https://open.spotify.com/album/22VtQWVPaMtZXlwKc82rxz) | 2:34 | 2023-03-14 |  |
-| [Lost](https://open.spotify.com/track/4gcA5iPJh6mPAJ0rHkBgpV) | [Okada Takuro](https://open.spotify.com/artist/4d4VL0LIBWkVXAq4YZ07wm) | [Morning Sun](https://open.spotify.com/album/0YbataSydU54bA7P2wnwYx) | 2:35 | 2023-03-30 |  |
+| [Lost](https://open.spotify.com/track/4gcA5iPJh6mPAJ0rHkBgpV) | [Okada Takuro](https://open.spotify.com/artist/4d4VL0LIBWkVXAq4YZ07wm) | [Morning Sun](https://open.spotify.com/album/0YbataSydU54bA7P2wnwYx) | 2:35 | 2023-03-30 | 2023-05-19 |
 | [Love in vein](https://open.spotify.com/track/2tG5vFDMQKphCWaqffQ0uF) | [黄鶯睍睆\(uguisu\-naku\)](https://open.spotify.com/artist/6XUG7F74W7f7j36VzVPlSl) | [Love in vein](https://open.spotify.com/album/6KBu9JKbwD2e4XiTvHJhQe) | 3:00 | 2023-02-07 | 2023-02-15 |
 | [Love Is Money?](https://open.spotify.com/track/7ayKVdG43NcU47ux8db0Md) | [ODD Foot Works](https://open.spotify.com/artist/4QBaxNPLrpxn48GQpBvNgn) | [Love Is Money?](https://open.spotify.com/album/372fVRnoUdCMcyGqt26so4) | 3:19 | 2023-05-09 |  |
 | [Lucky Boy](https://open.spotify.com/track/1rGTt1WmULpnVd1OJYy3C8) | [Ewoks](https://open.spotify.com/artist/6445mZFWCQZeCmwi6hB4wl) | [ep2](https://open.spotify.com/album/4JFAmcIyNGWvwL9IPJmd0Q) | 3:45 | 2023-03-07 | 2023-03-29 |
@@ -238,6 +238,7 @@
 | [Sakura super love \- Cover](https://open.spotify.com/track/7i4GnN5sHOylBh08r1FjZ1) | [猫戦](https://open.spotify.com/artist/7FpGOw2bG8j5OUBBAfVkR1) | [Sakura super love \(Cover\)](https://open.spotify.com/album/03gR3zCL3SjNYkDtyLhpiT) | 4:50 | 2023-03-21 | 2023-03-29 |
 | [Sashiiro](https://open.spotify.com/track/2WEDTNH2nR7aN6RP2tzxh5) | [Bialystocks](https://open.spotify.com/artist/3y24PAHjsJ3rWvMWERM7Oe) | [Quicksand](https://open.spotify.com/album/2Lb2A5WI9ti7WlJG8f1Gte) | 3:05 | 2023-03-30 |  |
 | [Saṃsāra](https://open.spotify.com/track/3ZzYexiaE8Py8cbpG4Y8Ft) | [RiL](https://open.spotify.com/artist/5nT4QCGLJJmkpt8RrniCqe) | [HERO](https://open.spotify.com/album/72JpHj3i11LfEfRGtq25DI) | 3:20 | 2023-01-31 | 2023-02-17 |
+| [SCENE!](https://open.spotify.com/track/56WASWOmOq6PGDA0NWuZOO) | [Skaai](https://open.spotify.com/artist/4L05lOQs0iZSVhrnnqS66E), [Bonbero](https://open.spotify.com/artist/4XOzeKvdkxm12dE22GJrpM) | [SCENE!](https://open.spotify.com/album/08O2jixS5hkpjsI0KZUzP2) | 2:26 | 2023-05-18 |  |
 | [Seatango](https://open.spotify.com/track/51nYN6ODdXsTytciNYX4qy) | [バスクのスポーツ](https://open.spotify.com/artist/0yaofYMMvhsv6741FK76zU) | [AVATAMA](https://open.spotify.com/album/1ypjmNYyWhCys668wvRqX6) | 2:54 | 2023-01-12 | 2023-01-25 |
 | [Seed](https://open.spotify.com/track/57oVY3KrjM7DNiMwMcPCDl) | [Mime](https://open.spotify.com/artist/57eMezj5cRrIJreMdbecEh), [ZIN](https://open.spotify.com/artist/2W8tmumOv76P22QElkqPCS) | [Bloom](https://open.spotify.com/album/7q37XpOyHaEbmsmGJpFrCi) | 4:08 | 2023-01-12 | 2023-02-03 |
 | [Sense of Wonder](https://open.spotify.com/track/2sWANzUTKXFzd6PuoNT16b) | [KONCOS](https://open.spotify.com/artist/2DLMFZ9TlwJwyGzzodWpXv) | [Waltz for April](https://open.spotify.com/album/2ktDs0e3dtfhsaRQk1nOcz) | 2:24 | 2023-01-12 | 2023-01-18 |
@@ -413,7 +414,7 @@
 | [惑星数珠つなぎ](https://open.spotify.com/track/4pGBhMzvWVCb4QU4EfjNJ5) | [カラコルムの山々](https://open.spotify.com/artist/3W8L2rrvTRtowpTBvPYDix) | [惑星数珠つなぎ](https://open.spotify.com/album/2ylCmkp17XjprjJSMoQvcE) | 4:27 | 2023-02-14 | 2023-03-15 |
 | [愛の二段階右折](https://open.spotify.com/track/5SJZu4LpEywFR6ijjGeCg5) | [Guiba](https://open.spotify.com/artist/2sQDtRUhEQYV97PR2EWESN) | [愛の二段階右折](https://open.spotify.com/album/3AYlpm999fttRquPhhg18W) | 4:03 | 2023-03-23 |  |
 | [愛の宇宙語](https://open.spotify.com/track/6dOweKZMfhzPCCRvNUouZD) | [森永陽実](https://open.spotify.com/artist/0JuRTfLYC3IG0mGokEksFh) | [愛の宇宙語](https://open.spotify.com/album/2n8BTJEsUOpxQe893tvosF) | 3:22 | 2023-03-07 | 2023-03-29 |
-| [愛を感じればいい](https://open.spotify.com/track/1KHCPvkC7Xtab5Wq15FhAY) | [BBHF](https://open.spotify.com/artist/5gEQL7osnggthis6rBwYoY) | [4PIES](https://open.spotify.com/album/0Varj37mIYsQjzlphyyWRO) | 4:00 | 2023-03-28 |  |
+| [愛を感じればいい](https://open.spotify.com/track/1KHCPvkC7Xtab5Wq15FhAY) | [BBHF](https://open.spotify.com/artist/5gEQL7osnggthis6rBwYoY) | [4PIES](https://open.spotify.com/album/0Varj37mIYsQjzlphyyWRO) | 4:00 | 2023-03-28 | 2023-05-19 |
 | [我愛你](https://open.spotify.com/track/7jXoUqjqJVQGHDBs9ZGy08) | [Cody・Lee\(李\)](https://open.spotify.com/artist/6ccfWQCLB9Gu3caY9gR5dX) | [生活のニュース](https://open.spotify.com/album/2pccOr7xk2EmlL2FAid7Gz) | 4:56 | 2023-03-28 |  |
 | [春の匂いに誘われて](https://open.spotify.com/track/6eBoTEaIcF7lZQE3GBE3Kl) | [Merlion](https://open.spotify.com/artist/0DetD9qvM9Qiokxzo3Srmq) | [春の匂いに誘われて](https://open.spotify.com/album/7KJG0imdCMwHBnyloMglft) | 1:37 | 2023-04-20 | 2023-05-14 |
 | [春よ、恋](https://open.spotify.com/track/5apcXZd7pDhlHYM3fpLIK7) | [the shes gone](https://open.spotify.com/artist/689D5sYXTKmpBXqAkAu0H7) | [春よ、恋](https://open.spotify.com/album/158n63trUTwgLxptMqxA7h) | 5:01 | 2023-01-24 | 2023-02-08 |
@@ -434,6 +435,7 @@
 | [流浪](https://open.spotify.com/track/2M78Sf5BnRWZFQCiLbbTYA) | [YAJICO GIRL](https://open.spotify.com/artist/0Tf7tr107S3YnHo2BIOPX4) | [流浪](https://open.spotify.com/album/7yJSa3B3S8j06vodDbGvAD) | 4:02 | 2023-02-14 | 2023-03-01 |
 | [海がきこえる](https://open.spotify.com/track/6SDLJ9Rv5EF91UogxwRvRj) | [THE TREES](https://open.spotify.com/artist/3T2vPCbSCuXduryVIIi2GY) | [海がきこえる](https://open.spotify.com/album/2N7nCxZj9sNB8eTo5ZOj31) | 4:16 | 2023-01-31 | 2023-02-15 |
 | [涙](https://open.spotify.com/track/1HaBsSHSuY94emnUEuLDot) | [Guiba](https://open.spotify.com/artist/2sQDtRUhEQYV97PR2EWESN), [Mashinomi](https://open.spotify.com/artist/38ekEKl28kPuKUoQqSFlKi) | [涙](https://open.spotify.com/album/1kzUbAwv2BjK5ucekGZqmZ) | 3:22 | 2023-05-04 |  |
+| [火花](https://open.spotify.com/track/05WKrnPYwjdG0Mj9kcoMe3) | [Cornelius](https://open.spotify.com/artist/2vJObElaIZWYDLpiXiJMo9) | [火花](https://open.spotify.com/album/34vNCbkf9QMHciPKAbTN7s) | 4:23 | 2023-05-18 |  |
 | [灯り](https://open.spotify.com/track/6KFq8QrhFWxquhE4Kz0SjS) | [眞名子 新](https://open.spotify.com/artist/5LwF68vjoBv2DWlUZNGa0G) | [灯り](https://open.spotify.com/album/5FOzwzqAslUU7oX5HitDW7) | 4:46 | 2023-03-07 | 2023-04-20 |
 | [灯火](https://open.spotify.com/track/03kdTvI72t9uFwrcgKHgON) | [Yuga](https://open.spotify.com/artist/2QPqMxppznwSxghh3R8WrT) | [灯火](https://open.spotify.com/album/23A0oqlZ1VCZd7PrVwTcDM) | 3:39 | 2023-03-28 |  |
 | [王墓](https://open.spotify.com/track/4jfsKNlHaOB8yOJnmYByyX) | [Dos Monos](https://open.spotify.com/artist/5Zg5lgH9GmkewONPMJlhbv) | [王墓](https://open.spotify.com/album/38h1IyAAmHKyOgAtDJ1vQv) | 2:50 | 2023-03-28 | 2023-04-05 |

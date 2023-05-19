@@ -4,7 +4,7 @@
 
 > Its time to relish the Best Themes of Kollywood!<br/>Cover : Jailer
 
-122 songs - 3 hr 38 min
+123 songs - 3 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,8 +48,9 @@
 | [Kaala \(Tamil\) Teaser Theme](https://open.spotify.com/track/5qn6YDWxmMbW31AOzts8aF) | [Santhosh Narayanan](https://open.spotify.com/artist/5FVBduYaeVBb6JIghza7v6), [Yogi B](https://open.spotify.com/artist/614RN5ndeqpLlqg1yDbjtm) | [Kaala \(Tamil\) \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7ypfdQ9KvJb9NizV0dqh8y) | 1:10 | 2021-11-01 |  |
 | [Kaali Theme \- From "Petta"](https://open.spotify.com/track/61uPaVyWRi1HykhNR5Ldtw) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Petta \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3NAMtgP845mM6cJjYDYy1g) | 1:05 | 2021-11-01 |  |
 | [Kabadi](https://open.spotify.com/track/5TLFiGnxajzsG9aSdkFzep) | [Vidyasagar](https://open.spotify.com/artist/5TB837uKG65w8Jnz5D0bS5), [Jayamoorthy](https://open.spotify.com/artist/1d0FDTTmRwnzgSTDLx0pEX), [Maran](https://open.spotify.com/artist/6H929oSANZnlbUZMcv9lCZ) | [Ghilli](https://open.spotify.com/album/7Bdcd9jHBes2xdvxuzto28) | 1:44 | 2021-11-01 | 2023-03-11 |
+| [Kabadi](https://open.spotify.com/track/0RVwHo27QrxbC7i6ed6OCq) | [Vidyasagar](https://open.spotify.com/artist/5TB837uKG65w8Jnz5D0bS5), [Maran](https://open.spotify.com/artist/6H929oSANZnlbUZMcv9lCZ), [Jayamoorthy](https://open.spotify.com/artist/1d0FDTTmRwnzgSTDLx0pEX) | [Ghilli \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3mg9ASfIe2gsUbL1JK18JL) | 1:44 | 2021-11-01 |  |
 | [Kabadi](https://open.spotify.com/track/0jxmBpNYgkyy50CGQjH9a1) | [Vidyasagar](https://open.spotify.com/artist/5TB837uKG65w8Jnz5D0bS5), [Maran](https://open.spotify.com/artist/6H929oSANZnlbUZMcv9lCZ), [Jayamoorthy](https://open.spotify.com/artist/1d0FDTTmRwnzgSTDLx0pEX) | [Ghilli \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4z4Lj02JTAgMGTATtnVwWY) | 1:44 | 2021-11-01 | 2023-05-14 |
-| [Kabadi \(From "Gilli"\)](https://open.spotify.com/track/7yQIczg03l615JDNRfirj1) | [Maran](https://open.spotify.com/artist/6H929oSANZnlbUZMcv9lCZ), [Jayamoorthy](https://open.spotify.com/artist/1d0FDTTmRwnzgSTDLx0pEX) | [Hits of Vidyasagar, Vol.2](https://open.spotify.com/album/4OfIlSpH8igO4cgLpxfauy) | 1:42 | 2021-11-01 |  |
+| [Kabadi \(From "Gilli"\)](https://open.spotify.com/track/7yQIczg03l615JDNRfirj1) | [Maran](https://open.spotify.com/artist/6H929oSANZnlbUZMcv9lCZ), [Jayamoorthy](https://open.spotify.com/artist/1d0FDTTmRwnzgSTDLx0pEX) | [Hits of Vidyasagar, Vol.2](https://open.spotify.com/album/4OfIlSpH8igO4cgLpxfauy) | 1:42 | 2021-11-01 | 2023-05-19 |
 | [Kabali Whistle Theme](https://open.spotify.com/track/3mLMlgG8XqaGiIUxAzRipy) | [Santhosh Narayanan](https://open.spotify.com/artist/5FVBduYaeVBb6JIghza7v6) | [Kabali \(Original Background Score\) \[Original Motion Picture Soundtrack\]](https://open.spotify.com/album/0H3C0x1ubGV1p9T2qTnPML) | 0:43 | 2021-11-01 |  |
 | [Kanguva Title Announcement \(From "Kanguva"\)](https://open.spotify.com/track/35LgeXDvSIKmrMN2Ii69WN) | [Devi Sri Prasad](https://open.spotify.com/artist/5sSzCxHtgL82pYDvx2QyEU) | [Kanguva Title Announcement \(From "Kanguva"\) \- Single](https://open.spotify.com/album/4YXLYwgTE6wN7k3vWrfLxy) | 1:13 | 2023-04-24 |  |
 | [Kanguva Title Announcement \(From "Kanguva"\)](https://open.spotify.com/track/5ZkKUoBOXWbGfhZLxlSJMV) | [Devi Sri Prasad](https://open.spotify.com/artist/5sSzCxHtgL82pYDvx2QyEU) | [Kanguva Title Announcement \(From "Kanguva"\)](https://open.spotify.com/album/6gZxjKsHDZMkcKzXARtGa5) | 1:13 | 2023-04-24 | 2023-04-26 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXwi9yXPDI9y.md) - [plain]
 
 > Have a drink and relax to the Jazz played in the background in the bar.
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,138 likes - 100 songs - 7 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,224 likes - 100 songs - 7 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,9 +48,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXwi9yXPDI9y.md) - [plain]
 | 38 | [They Didn't Believe Me](https://open.spotify.com/track/0KUSWy4fXCufHpuvvzAsuH) | [Johnny Hartman](https://open.spotify.com/artist/7qVvIFc9DktkAc0HKzRhNo) | [Songs from the Heart \(Remastered 2013\)](https://open.spotify.com/album/48BrV5YcWquBv6KltXu8GW) | 2:35 |
 | 39 | [There Is No Greater Love](https://open.spotify.com/track/372QbYnp7oUWhRCplHNlUN) | [Gene Ammons](https://open.spotify.com/artist/338mC0yGyX0C9of8QMJ5hK), [Sonny Stitt](https://open.spotify.com/artist/217b0uqAzsOOhGcnoANZqj) | [Boss Tenors: Straight Ahead From Chicago August 1961](https://open.spotify.com/album/3roiMTcjRTDTqyDTc29Pjv) | 6:34 |
 | 40 | [Love For Sale](https://open.spotify.com/track/3dxAt1su013e3GZyBUL9bP) | [Shirley Horn](https://open.spotify.com/artist/0x9L9ChXVAf3hFOb0CbRmd) | [Loads Of Love](https://open.spotify.com/album/4Wb8zemQ91ofj5B74Y82IY) | 3:51 |
-| 41 | [Mood Indigo](https://open.spotify.com/track/3Rj7kRvHalEVPPNDc9SeY3) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz), [Oscar Peterson](https://open.spotify.com/artist/6zkX5fhrSD4tdVOmimR9wB) | [Ella Fitzgerald Sings The Duke Ellington Song Book](https://open.spotify.com/album/2VgS17fUEsUer5nCbM2juj) | 3:27 |
-| 42 | [I'm Through With Love](https://open.spotify.com/track/53vXsAvHqCO6Q6aFRacLaT) | [Lorez Alexandria](https://open.spotify.com/artist/5FxVAiCRSETyMMPV8MDaHY) | [Alexandria The Great](https://open.spotify.com/album/0mr9wOHzf0Pygckr8Mk0Q9) | 5:25 |
-| 43 | [Things Ain't What They Used To Be](https://open.spotify.com/track/69enZcR3Rr9Bg3fNzHEp9y) | [Oscar Peterson Trio](https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A) | [Night Train \(Expanded Edition\)](https://open.spotify.com/album/3gPOWmWT0q7Ygp95Xiuw1v) | 4:36 |
+| 41 | [I'm Through With Love](https://open.spotify.com/track/53vXsAvHqCO6Q6aFRacLaT) | [Lorez Alexandria](https://open.spotify.com/artist/5FxVAiCRSETyMMPV8MDaHY) | [Alexandria The Great](https://open.spotify.com/album/0mr9wOHzf0Pygckr8Mk0Q9) | 5:25 |
+| 42 | [Things Ain't What They Used To Be](https://open.spotify.com/track/69enZcR3Rr9Bg3fNzHEp9y) | [Oscar Peterson Trio](https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A) | [Night Train \(Expanded Edition\)](https://open.spotify.com/album/3gPOWmWT0q7Ygp95Xiuw1v) | 4:36 |
+| 43 | [Mood Indigo](https://open.spotify.com/track/3Rj7kRvHalEVPPNDc9SeY3) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz), [Oscar Peterson](https://open.spotify.com/artist/6zkX5fhrSD4tdVOmimR9wB) | [Ella Fitzgerald Sings The Duke Ellington Song Book](https://open.spotify.com/album/2VgS17fUEsUer5nCbM2juj) | 3:27 |
 | 44 | [Waiter, Make Mine Blues](https://open.spotify.com/track/41mub0g6KnqXhOcmggtjWK) | [Anita O'Day](https://open.spotify.com/artist/5QGnprJtpZmk3OiDqspPlB) | [Waiter, Make Mine The Blues](https://open.spotify.com/album/77FW8dZ0Jrg54fKNl8fxA7) | 3:20 |
 | 45 | [How Deep Is The Ocean?](https://open.spotify.com/track/1yKDFWPxCzB2Kg3ic2bQ1k) | [Billie Holiday](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp) | [Recital](https://open.spotify.com/album/2YliGLupRmayvY7eC6Es7r) | 2:59 |
 | 46 | [Your Love Has Faded](https://open.spotify.com/track/1X5DC9OMRJ2O7F9uJzlVqO) | [Johnny Hodges](https://open.spotify.com/artist/7lRFrrINQTY35g8hq0kXY5) | [Johnny Hodges With Billy Strayhorn And The Orchestra](https://open.spotify.com/album/5CGVW3S012Wp5KteaW61kG) | 3:00 |
@@ -90,8 +90,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXwi9yXPDI9y.md) - [plain]
 | 80 | [Our Love Is Here To Stay](https://open.spotify.com/track/5cxRemrNoI9DUqQxqd2sir) | [Dinah Washington](https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa) | [The Imperious Dinah Washington](https://open.spotify.com/album/0vHivwpqcKaKn3CmXY7SvK) | 2:34 |
 | 81 | [When Day Is Done](https://open.spotify.com/track/77fv87hNviECO3uWrKKKCM) | [Coleman Hawkins](https://open.spotify.com/artist/0JM134st8VY7Ld9T2wQiH0) | [The Hawk Relaxes](https://open.spotify.com/album/3fRgp7LyVaJow0lcZ9dZyH) | 4:25 |
 | 82 | [Everything Happens To Me](https://open.spotify.com/track/1PTO7kJi8AhIdZURGnM1Zj) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8) | [Stan Getz In Stockholm](https://open.spotify.com/album/40L2TDzoeqXSTaNEIRJs0z) | 7:07 |
-| 83 | [Bounce Blues](https://open.spotify.com/track/0okDPCmxPLULCyLZM8fxI7) | [Ben Webster](https://open.spotify.com/artist/34W7ZCX0LZeJd8q6boKGOk) | [King Of The Tenors](https://open.spotify.com/album/2Lqk81OEcLDPxcY5ZGmB4v) | 4:31 |
-| 84 | [My Funny Valentine](https://open.spotify.com/track/1IZc3qoaLTUY5pGiygza3h) | [Carmen McRae](https://open.spotify.com/artist/2E3nXyfocf7qfHAIFNbBuj) | [After Glow](https://open.spotify.com/album/6ip7LJNKry1lGgpfklpxFC) | 4:20 |
+| 83 | [My Funny Valentine](https://open.spotify.com/track/1IZc3qoaLTUY5pGiygza3h) | [Carmen McRae](https://open.spotify.com/artist/2E3nXyfocf7qfHAIFNbBuj) | [After Glow](https://open.spotify.com/album/6ip7LJNKry1lGgpfklpxFC) | 4:20 |
+| 84 | [Bounce Blues](https://open.spotify.com/track/0okDPCmxPLULCyLZM8fxI7) | [Ben Webster](https://open.spotify.com/artist/34W7ZCX0LZeJd8q6boKGOk) | [King Of The Tenors](https://open.spotify.com/album/2Lqk81OEcLDPxcY5ZGmB4v) | 4:31 |
 | 85 | [If I Had You \- Bonus Track](https://open.spotify.com/track/54U0BdTlsSah7SI6bxJeF6) | [Dinah Washington](https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa) | [For Those In Love \(Expanded Edition\)](https://open.spotify.com/album/79co4mGqrQdDK93j5ZuqH2) | 4:45 |
 | 86 | [Trav'lin Light](https://open.spotify.com/track/6ZgX2bh1R61zOcGIntTC7e) | [Gerry Mulligan](https://open.spotify.com/artist/6l40OFJhuTbHQ9V12evc9K), [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [Reunion With Chet Baker](https://open.spotify.com/album/25FnmQMWGTGiwTGK8IKFGs) | 3:44 |
 | 87 | [Mad About The Boy](https://open.spotify.com/track/3NkClracCPfY6IZohBqWuT) | [Benny Golson](https://open.spotify.com/artist/78NDaMzmcDKjt7mkXs7AuG) | [Free](https://open.spotify.com/album/5vVtjYoUtsC1Pp106Gnrec) | 7:16 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXwi9yXPDI9y.md) - [plain]
 | 99 | [Everything Depends On You](https://open.spotify.com/track/7GsqpMfeEg024UNF8aQfDF) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [Baby Breeze \(Expanded Edition\)](https://open.spotify.com/album/4FwmVb94KamiFQNi2uslNM) | 3:25 |
 | 100 | [You Go To My Head](https://open.spotify.com/track/34eW5SfpLNKTODUhE4LSCm) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [Chet In Paris: Everything Happens To Me \- The Complete Barclay Recording Vol\. 2](https://open.spotify.com/album/1YYIF3D8z28wRfTTXwvkUD) | 5:52 |
 
-Snapshot ID: `MCw4ZWUwN2RjMDM0ZmIxMWIzMjdiNTkxOWI4NjE4ZTVmZTU3MDQxODkx`
+Snapshot ID: `MCw5NWFlODRhZmJlNWNiMGEyY2Q1MzdmNjdmODRjMjQxNmM4MzIzMGRl`

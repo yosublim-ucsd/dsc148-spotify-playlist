@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX89XXHpIgTCJ.md) - [plain]
 
 > When Rock meets Rap: covers, collabs, mashups and everything that rhymes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 214,305 likes - 60 songs - 3 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 214,922 likes - 60 songs - 3 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,10 +63,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX89XXHpIgTCJ.md) - [plain]
 | 53 | [The Mighty Fall](https://open.spotify.com/track/4rNOFJdwQq0ulVDKOF447L) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX), [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh) | [Save Rock And Roll](https://open.spotify.com/album/5jKMfS57mHTHzlSFGfPFxU) | 3:32 |
 | 54 | [Unfuck The World](https://open.spotify.com/track/5wFZTk08YJme74WYjauDzp) | [Prophets Of Rage](https://open.spotify.com/artist/1fSzW5cXBmquli5laFnoGY) | [Prophets Of Rage](https://open.spotify.com/album/2tdK7VRcq6ATSgnxdYV17X) | 4:10 |
 | 55 | [Bring Tha Noize](https://open.spotify.com/track/0goVj3eJV1oD5yqXzkjqLA) | [Public Enemy](https://open.spotify.com/artist/6Mo9PoU6svvhgEum7wh2Nd), [Anthrax](https://open.spotify.com/artist/3JysSUOyfVs1UQ0UaESheP) | [Apocalypse 91… The Enemy Strikes Black](https://open.spotify.com/album/2UqKqZofb9pdapHk4HzRUo) | 3:47 |
-| 56 | [Rockstar](https://open.spotify.com/track/2OQfyddAKv4FyelDJjGNHH) | [N.E.R.D](https://open.spotify.com/artist/5wPoxI5si3eJsYYwyXV4Wi) | [In Search Of...](https://open.spotify.com/album/5u8ri4s76Ew14IwGOJf5hI) | 4:19 |
-| 57 | [This Means War!! \(feat\. Ozzy Osbourne\)](https://open.spotify.com/track/2wIujxyI75Z6HQuq0NmJiR) | [Busta Rhymes](https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK), [Ozzy Osbourne](https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY) | [Extinction Level Event: The Final World Front](https://open.spotify.com/album/4zb4gmGzDYtlWMjmc1NZWW) | 4:35 |
+| 56 | [This Means War!! \(feat\. Ozzy Osbourne\)](https://open.spotify.com/track/2wIujxyI75Z6HQuq0NmJiR) | [Busta Rhymes](https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK), [Ozzy Osbourne](https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY) | [Extinction Level Event: The Final World Front](https://open.spotify.com/album/4zb4gmGzDYtlWMjmc1NZWW) | 4:35 |
+| 57 | [Rockstar](https://open.spotify.com/track/2OQfyddAKv4FyelDJjGNHH) | [N.E.R.D](https://open.spotify.com/artist/5wPoxI5si3eJsYYwyXV4Wi) | [In Search Of...](https://open.spotify.com/album/5u8ri4s76Ew14IwGOJf5hI) | 4:19 |
 | 58 | [GERONIMO \(feat\. Chino Moreno\)](https://open.spotify.com/track/3VAwH0vRDwvKl8jRVnQU0w) | [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax), [Travis Barker](https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX), [Chino Moreno](https://open.spotify.com/artist/0Wfo0pd0KC47vx7uUEVOQ9) | [Pegasus: Neon Shark vs Pegasus Presented By Travis Barker \(Deluxe\)](https://open.spotify.com/album/4Sj1MJMO2jaIZyr00ipCkl) | 2:59 |
 | 59 | [King of Rock](https://open.spotify.com/track/7112WRQXlBGe4Os43yw8gV) | [Run–D.M.C.](https://open.spotify.com/artist/3CQIn7N5CuRDP8wEI7FiDA) | [King Of Rock \(Expanded Edition\)](https://open.spotify.com/album/57FQTvThrTFPrGPAvZCjw6) | 5:14 |
 | 60 | [Body Count's in the House](https://open.spotify.com/track/0ei5rAVjRCUQATivnVwkLN) | [Body Count](https://open.spotify.com/artist/5KCph1z3jaSwhtwPzoYp6i) | [Body Count](https://open.spotify.com/album/2J5Lf1s0Q42e31xjSwVd8J) | 3:24 |
 
-Snapshot ID: `MCxlMTBkNDNmM2U5NjQ0OWNjODJlMzZlMTU5Yjc3NjM5OTFmZDFlMWVj`
+Snapshot ID: `MCxlNjU2MzkyYWZjNjE5YjliZGU4MzRmMzRhZTlkMjFjMTU5ZDc2YzZh`

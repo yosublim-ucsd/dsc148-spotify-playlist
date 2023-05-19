@@ -1,12 +1,12 @@
 {
   "description": "Son los 90 y prendes la radio.",
-  "num_followers": 17399,
+  "num_followers": 17467,
   "original_name": "noventeras",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwNzU3M2JlMjY5NTM4YzBiMGE2NzU3ZmQ0YzdhNzg0OTkwNTRiYzYy",
+  "snapshot_id": "MCw0OTA1ZTM3YzhiMTVmMjVmZjgyZjBkYmY2NWZhNTU5NjYxYTE4MjM0",
   "tracks": [
     {
       "added_at": "2021-12-26 17:51:11",
@@ -863,22 +863,6 @@
     {
       "added_at": "2021-12-26 17:51:11",
       "album": {
-        "name": "Tarpeia",
-        "url": "https://open.spotify.com/album/2ckPp0V20I5lKZ6pKWuhpf"
-      },
-      "artists": [
-        {
-          "name": "Paradisio",
-          "url": "https://open.spotify.com/artist/0FfjCldzckJBQNsnQyMJmb"
-        }
-      ],
-      "duration_ms": 229333,
-      "name": "Bailando",
-      "url": "https://open.spotify.com/track/6PwbVXIomkvk4YcafiOc6i"
-    },
-    {
-      "added_at": "2021-12-26 17:51:11",
-      "album": {
         "name": "Savage Garden",
         "url": "https://open.spotify.com/album/64peTvbTLBDeSBu0GsCRE4"
       },
@@ -891,6 +875,22 @@
       "duration_ms": 232066,
       "name": "I Want You",
       "url": "https://open.spotify.com/track/3XorCFmcupSm5QS6hA9g4N"
+    },
+    {
+      "added_at": "2021-12-26 17:51:11",
+      "album": {
+        "name": "Tarpeia",
+        "url": "https://open.spotify.com/album/2ckPp0V20I5lKZ6pKWuhpf"
+      },
+      "artists": [
+        {
+          "name": "Paradisio",
+          "url": "https://open.spotify.com/artist/0FfjCldzckJBQNsnQyMJmb"
+        }
+      ],
+      "duration_ms": 229333,
+      "name": "Bailando",
+      "url": "https://open.spotify.com/track/6PwbVXIomkvk4YcafiOc6i"
     },
     {
       "added_at": "2021-12-26 17:51:11",
@@ -1231,22 +1231,6 @@
     {
       "added_at": "2021-12-26 17:51:11",
       "album": {
-        "name": "Viento A Favor",
-        "url": "https://open.spotify.com/album/4z89Bcubl2hpYkaDe17Apz"
-      },
-      "artists": [
-        {
-          "name": "Sentidos Opuestos",
-          "url": "https://open.spotify.com/artist/1xJAOe5igcfHGUbMHxsTBq"
-        }
-      ],
-      "duration_ms": 248226,
-      "name": "Amor De Papel",
-      "url": "https://open.spotify.com/track/6RTlokHIiobtIsthCLm3as"
-    },
-    {
-      "added_at": "2021-12-26 17:51:11",
-      "album": {
         "name": "20 A\u00f1os",
         "url": "https://open.spotify.com/album/3D9NENGfg4DFmYJrEaxRHd"
       },
@@ -1259,6 +1243,22 @@
       "duration_ms": 249000,
       "name": "Ser\u00e1 Que No Me Amas (Blame It on the Boogie)",
       "url": "https://open.spotify.com/track/0ULXIAoxSZBcOwygC3PA0i"
+    },
+    {
+      "added_at": "2021-12-26 17:51:11",
+      "album": {
+        "name": "Viento A Favor",
+        "url": "https://open.spotify.com/album/4z89Bcubl2hpYkaDe17Apz"
+      },
+      "artists": [
+        {
+          "name": "Sentidos Opuestos",
+          "url": "https://open.spotify.com/artist/1xJAOe5igcfHGUbMHxsTBq"
+        }
+      ],
+      "duration_ms": 248226,
+      "name": "Amor De Papel",
+      "url": "https://open.spotify.com/track/6RTlokHIiobtIsthCLm3as"
     },
     {
       "added_at": "2021-12-26 17:51:11",

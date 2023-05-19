@@ -748,7 +748,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 234773,
       "name": "Escribe Una Canci\u00f3n",
       "url": "https://open.spotify.com/track/4Yrn59SQBNUiWywYLERLw2"
@@ -1510,6 +1510,24 @@
       "duration_ms": 191043,
       "name": "Nunca Estara\u0301 Bien",
       "url": "https://open.spotify.com/track/31obbmT1YI5tvy0Rrx22WI"
+    },
+    {
+      "album": {
+        "name": "Un Poco de Ti",
+        "url": "https://open.spotify.com/album/5rlV10enxQTX6glKaLgRei"
+      },
+      "artists": [
+        {
+          "name": "Abril 88",
+          "url": "https://open.spotify.com/artist/0vAYt4d53Aqk5zqJ764Y9l"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191043,
+      "name": "Nunca Estar\u00e1 Bien",
+      "url": "https://open.spotify.com/track/1Ify2EL1uHvYRuA6yXzVEV"
     },
     {
       "album": {

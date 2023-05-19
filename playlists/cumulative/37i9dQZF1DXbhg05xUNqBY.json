@@ -23,6 +23,28 @@
     },
     {
       "album": {
+        "name": "Battle Is the Lord's",
+        "url": "https://open.spotify.com/album/2tuiNFjJyMb9lbhcjz4j6g"
+      },
+      "artists": [
+        {
+          "name": "Rebecca St. James",
+          "url": "https://open.spotify.com/artist/1SaELUYn7deVoQ9kGDGUD9"
+        },
+        {
+          "name": "Brandon Lake",
+          "url": "https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v"
+        }
+      ],
+      "date_added": "2023-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235360,
+      "name": "Battle Is the Lord's",
+      "url": "https://open.spotify.com/track/2kj7BxMb1pUQOFK2tDE8gi"
+    },
+    {
+      "album": {
         "name": "Be My Shalom",
         "url": "https://open.spotify.com/album/5Q3pr1K8HU2taEjuQavQac"
       },
@@ -256,7 +278,7 @@
       ],
       "date_added": "2023-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 297546,
       "name": "Dawn",
       "url": "https://open.spotify.com/track/5rKbWEBYZNIR3ep6pBOK0t"

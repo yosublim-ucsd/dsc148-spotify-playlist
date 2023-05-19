@@ -2,9 +2,9 @@
 
 ### [Suara Dari Jawa Barat](https://open.spotify.com/playlist/37i9dQZF1DX2ngZHk5xUsP)
 
-> Ragam musik IDentitasku dari berbagai penjuru Jawa Barat\. Cover: Noah
+> Ragam musik IDentitasku dari berbagai penjuru Jawa Barat\. Cover: Voice of Baceprot
 
-64 songs - 4 hr 2 min
+65 songs - 4 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,6 +65,7 @@
 | [Tarik Ulur](https://open.spotify.com/track/7HBnW7E26egSo7p7DWs9XH) | [Shakira Jasmine](https://open.spotify.com/artist/18nKUAfNnowoqfqDhwI3X3) | [Tarik Ulur](https://open.spotify.com/album/3nOtvP5lymtIrN6UT4M3kC) | 3:41 | 2023-03-16 |  |
 | [Terdekap](https://open.spotify.com/track/5S6cVtlp3coBjEpjPnoi1A) | [Vhal Rasyid](https://open.spotify.com/artist/5eob7yaLtq4uMma1mJWVjk) | [Terdekap](https://open.spotify.com/album/10iZrxVkJJYwQ21NCumMGG) | 4:54 | 2023-03-16 |  |
 | [Terlalu Bodoh Untuk Bandung](https://open.spotify.com/track/128R9AyKcPSkVn5oxt5L0M) | [Dongker](https://open.spotify.com/artist/6sf1OnuDZM48bgFQvPkbYm) | [Upaya Memaki](https://open.spotify.com/album/48pEKNlOxW5oHF6bpk5EbT) | 1:29 | 2023-03-16 |  |
+| [The Enemy of Earth is You](https://open.spotify.com/track/74eQ6hDcu2HB07q57aYvnm) | [Voice of Baceprot](https://open.spotify.com/artist/32rI2a65NqHEnTAewmPNEC) | [The Enemy of Earth is You](https://open.spotify.com/album/54hOsIViJLffkjUq8llfVB) | 3:35 | 2023-05-19 |  |
 | [This Feeling](https://open.spotify.com/track/6FHN0E5hcHumoaqy73JMsJ) | [White Chorus](https://open.spotify.com/artist/5L3RqiyBaI1VDhbNkzhdjc) | [This Feeling](https://open.spotify.com/album/5CJ8Mf6SebY8tEgZuafyNV) | 2:40 | 2023-03-16 |  |
 | [Tiga Titik Hitam](https://open.spotify.com/track/7Fi3EyFExj8iIumylN29ne) | [Burgerkill](https://open.spotify.com/artist/77X41f0zoHXGhC3a3UvdJk) | [Berkarat](https://open.spotify.com/album/20Lby8PRGQSqfo7kJCz81W) | 5:32 | 2023-03-16 |  |
 | [Tujuh Belas](https://open.spotify.com/track/5TReP8XK4aTOe2m44ZjQqz) | [Tulus](https://open.spotify.com/artist/2iDVt6mFbtbDEZG5ax0dTi) | [Manusia](https://open.spotify.com/album/3R4IAF9ApqYeUQrv1ddyoR) | 4:14 | 2023-03-16 |  |

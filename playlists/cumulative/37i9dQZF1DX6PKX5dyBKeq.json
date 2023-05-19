@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2020-05-22",
-  "description": "The Best of Hip-Hop, Rap and Drill from the UK. Cover: Nafe Smallz",
+  "description": "The Best of Hip-Hop, Rap and Drill from the UK. Cover: Nemzzz",
   "name": "Rap UK",
   "tracks": [
     {
@@ -6602,7 +6602,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 169285,
       "name": "Corner Boy",
       "url": "https://open.spotify.com/track/6qpmjlIm1LaR0xiP8HzZyP"
@@ -8927,6 +8927,40 @@
     },
     {
       "album": {
+        "name": "Drip Drip (feat. Nines, MIST, MoStack & Mastermind)",
+        "url": "https://open.spotify.com/album/7fUtypbLBNV8VKAumKgolJ"
+      },
+      "artists": [
+        {
+          "name": "Steel Banglez",
+          "url": "https://open.spotify.com/artist/6k970rXaWAWVfWMjqWtFNI"
+        },
+        {
+          "name": "Nines",
+          "url": "https://open.spotify.com/artist/0tPKcpC8yXpfdWXFcN7Vwr"
+        },
+        {
+          "name": "MIST",
+          "url": "https://open.spotify.com/artist/63X1WKthLQidtqxxO2sgeq"
+        },
+        {
+          "name": "MoStack",
+          "url": "https://open.spotify.com/artist/14H15rElxdGClICOZXEYHP"
+        },
+        {
+          "name": "Mastermind",
+          "url": "https://open.spotify.com/artist/7cebmXLpLp4Rk2eFI00ppV"
+        }
+      ],
+      "date_added": "2023-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220002,
+      "name": "Drip Drip (feat. Nines, MIST, MoStack & Mastermind)",
+      "url": "https://open.spotify.com/track/18QiUd2m9ZWAs7CoQ9Aj2d"
+    },
+    {
+      "album": {
         "name": "Drippers",
         "url": "https://open.spotify.com/album/4UARlJ8YCDCUqruzqfPxIs"
       },
@@ -10086,6 +10120,24 @@
       "duration_ms": 198904,
       "name": "Female Plugged In Special",
       "url": "https://open.spotify.com/track/6lg7cwdu29FWYuEbN16fjk"
+    },
+    {
+      "album": {
+        "name": "FENTY BEAUTY",
+        "url": "https://open.spotify.com/album/3mHOOasFoKzYHFsoFFWovl"
+      },
+      "artists": [
+        {
+          "name": "Nemzzz",
+          "url": "https://open.spotify.com/artist/3DHtfeD4PsmR9YGhCP4VF7"
+        }
+      ],
+      "date_added": "2023-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161666,
+      "name": "FENTY BEAUTY",
+      "url": "https://open.spotify.com/track/5v8VvbkeXkA9fLc1ZjeJwE"
     },
     {
       "album": {
@@ -11922,7 +11974,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 145306,
       "name": "Heart On Ice",
       "url": "https://open.spotify.com/track/3EyUyo7yyRXAvkK30ivfkH"
@@ -13580,7 +13632,7 @@
       ],
       "date_added": "2023-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 193792,
       "name": "Jordans",
       "url": "https://open.spotify.com/track/65ieRUsNtOnobKFCBZbepm"
@@ -14916,7 +14968,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 171000,
       "name": "Live",
       "url": "https://open.spotify.com/track/1psTcgIcjntUtw8PbunwwA"
@@ -15300,6 +15352,24 @@
       "duration_ms": 167172,
       "name": "Louis Vuitton/Lost Hope",
       "url": "https://open.spotify.com/track/2UVVeXn59BIiBtgnYeygG7"
+    },
+    {
+      "album": {
+        "name": "Love Or Lust",
+        "url": "https://open.spotify.com/album/78WMRbJzewjAVBSC62LI6H"
+      },
+      "artists": [
+        {
+          "name": "cr0bb",
+          "url": "https://open.spotify.com/artist/2gN6yO4atQDRg4hdqw3o6P"
+        }
+      ],
+      "date_added": "2023-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150334,
+      "name": "Love Or Lust",
+      "url": "https://open.spotify.com/track/246fXCzdDcJRFqPWZP05CQ"
     },
     {
       "album": {
@@ -16378,7 +16448,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 218920,
       "name": "Misty",
       "url": "https://open.spotify.com/track/0U7sCk6TIauNE7Jey4Eclp"
@@ -17112,6 +17182,28 @@
       "duration_ms": 141473,
       "name": "Mud",
       "url": "https://open.spotify.com/track/7GGc58gHpuCdBbZSA55Qcb"
+    },
+    {
+      "album": {
+        "name": "The Playlist",
+        "url": "https://open.spotify.com/album/7BRaZkcF8gOp8YRKdBXvNz"
+      },
+      "artists": [
+        {
+          "name": "Steel Banglez",
+          "url": "https://open.spotify.com/artist/6k970rXaWAWVfWMjqWtFNI"
+        },
+        {
+          "name": "Squeeks",
+          "url": "https://open.spotify.com/artist/52jwaLGrYTCFAEwDW0rI52"
+        }
+      ],
+      "date_added": "2023-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179343,
+      "name": "Multi-Mill Plans (feat. Squeeks)",
+      "url": "https://open.spotify.com/track/1FPa57YsG8aNqL1krD650Z"
     },
     {
       "album": {
@@ -21024,7 +21116,7 @@
       ],
       "date_added": "2023-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 174545,
       "name": "Quiet Kid",
       "url": "https://open.spotify.com/track/3L77EvaCkfwavHByDVZQiq"
@@ -22211,6 +22303,24 @@
     },
     {
       "album": {
+        "name": "Rotation",
+        "url": "https://open.spotify.com/album/6JpFSRdCPkEfZrEdKoPHD7"
+      },
+      "artists": [
+        {
+          "name": "Jimmy",
+          "url": "https://open.spotify.com/artist/06w8gYYjCLGIK8Cp4ltMJo"
+        }
+      ],
+      "date_added": "2023-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195735,
+      "name": "Rotation",
+      "url": "https://open.spotify.com/track/7vNpYNJCqBgPA85xylPIsK"
+    },
+    {
+      "album": {
         "name": "Round 2",
         "url": "https://open.spotify.com/album/4KprDOfUTn4yf1f3AMKnab"
       },
@@ -23240,7 +23350,7 @@
       ],
       "date_added": "2023-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 137158,
       "name": "Side By Side",
       "url": "https://open.spotify.com/track/0RuOpp6b4Jcvpm0HK4Z8YT"
@@ -23288,7 +23398,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 168126,
       "name": "SIN CITY (FEAT. WRETCH 32)",
       "url": "https://open.spotify.com/track/6n9FXwIQSUxzfVx94EwInm"
@@ -26028,7 +26138,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 133475,
       "name": "Thinking Out Loud",
       "url": "https://open.spotify.com/track/6z91h6qwo4uac0pBwtAxYH"
@@ -26614,7 +26724,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 173658,
       "name": "Toronto",
       "url": "https://open.spotify.com/track/5MFqv1AH7qzncAeEJ9ZCeH"
@@ -26742,7 +26852,7 @@
       ],
       "date_added": "2023-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 148965,
       "name": "Triple Threat",
       "url": "https://open.spotify.com/track/0lTJgAfLs8aKBCobjtmrY0"
@@ -28123,6 +28233,24 @@
     },
     {
       "album": {
+        "name": "Leave This City",
+        "url": "https://open.spotify.com/album/3rEyaw515ovA4tF0Qq2Qq8"
+      },
+      "artists": [
+        {
+          "name": "Idi Akz",
+          "url": "https://open.spotify.com/artist/7cmvUpGGozT8si6UDR0YHf"
+        }
+      ],
+      "date_added": "2023-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202594,
+      "name": "What If?",
+      "url": "https://open.spotify.com/track/2mdszIpAeBCmV0EkufJPrs"
+    },
+    {
+      "album": {
         "name": "What You Reckon",
         "url": "https://open.spotify.com/album/4MzTVKTElVi4mDdVSDsMEF"
       },
@@ -29102,6 +29230,24 @@
       "duration_ms": 135322,
       "name": "you should call mum",
       "url": "https://open.spotify.com/track/2SVIkGkmY9ZPZFniCwa7ar"
+    },
+    {
+      "album": {
+        "name": "Young Money",
+        "url": "https://open.spotify.com/album/0bku7gNEEIxqpMeJWPJVs9"
+      },
+      "artists": [
+        {
+          "name": "LZee",
+          "url": "https://open.spotify.com/artist/3HnjTikMlwQmZt88pd5ONe"
+        }
+      ],
+      "date_added": "2023-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188088,
+      "name": "Young Money",
+      "url": "https://open.spotify.com/track/30NkpbETKakYZd1coFgkwy"
     },
     {
       "album": {

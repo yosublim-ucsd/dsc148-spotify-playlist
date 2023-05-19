@@ -4,7 +4,7 @@
 
 > Os maiores hits do rap português dos últimos anos\. Foto: Mizzy Miles, Deejay Telio, Gson e Teto.
 
-148 songs - 8 hr 50 min
+149 songs - 8 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -103,7 +103,8 @@
 | [Não há impossíveis](https://open.spotify.com/track/0KXCN5DoYmiPvP4JmoVYEP) | [Sippinpurpp](https://open.spotify.com/artist/6ngR2kHxjibH7bdDUBqL3z) | [Não há impossíveis](https://open.spotify.com/album/6H9LuYNh2URdrGk6IgajbI) | 2:34 | 2022-09-30 | 2022-10-28 |
 | [Nós](https://open.spotify.com/track/14PBWx7Rw87WXVzXarDqiX) | [Myles 6ix](https://open.spotify.com/artist/2PGHvstK1cEjR9AX2ERq9l) | [Nós](https://open.spotify.com/album/3Nhv7u22lQ4LieQlR7l4Lz) | 4:38 | 2022-07-05 | 2023-04-14 |
 | [O que é que tens feito?](https://open.spotify.com/track/5cGy4NKlMprapxERb9AZk6) | [Chyna](https://open.spotify.com/artist/3xytrTXgH7SQTEjMZewnWF), [Mizzy Miles](https://open.spotify.com/artist/0QoKkMC6uy7fUng96fab1I) | [O que é que tens feito?](https://open.spotify.com/album/7o3GVre0rpEWG7309P7q6v) | 3:11 | 2023-04-21 |  |
-| [O Re$To](https://open.spotify.com/track/6Esm2XoX3JwEkCQLybx03R) | [X\-Tense](https://open.spotify.com/artist/7JajP35zM35gnAvTZbwxDF), [DJ HYPE MYKE](https://open.spotify.com/artist/1QJNTcEVJfb5qVsMvtA5ch) | [O Re$To](https://open.spotify.com/album/6iXe2Fi1uFGc06A2LFEjGg) | 5:04 | 2022-07-05 |  |
+| [O Re$To](https://open.spotify.com/track/6Esm2XoX3JwEkCQLybx03R) | [X\-Tense](https://open.spotify.com/artist/7JajP35zM35gnAvTZbwxDF), [DJ HYPE MYKE](https://open.spotify.com/artist/1QJNTcEVJfb5qVsMvtA5ch) | [O Re$To](https://open.spotify.com/album/6iXe2Fi1uFGc06A2LFEjGg) | 5:04 | 2022-07-05 | 2023-05-19 |
+| [Overdose](https://open.spotify.com/track/24q8cZ35Z6ISOcnlLVlU5w) | [Waze](https://open.spotify.com/artist/0CHentDviLeOrlfyu96uVm) | [Overdose](https://open.spotify.com/album/43ghXAl52nmndKZZdlvf90) | 3:56 | 2023-05-18 |  |
 | [Oxigénio \(feat\. LON3R JOHNY & Piri\_bxd\)](https://open.spotify.com/track/1xZAXX6f4odgAXtd1zLvmo) | [Bispo](https://open.spotify.com/artist/3LZCMaZWwvhYyQeEfWgVdY), [D'ay](https://open.spotify.com/artist/65pBw5z7QlvhAGZvlzjmWA), [LON3R JOHNY](https://open.spotify.com/artist/1fV7Au7ymGP3uhDV1TfjSd), [Piri\_bxd](https://open.spotify.com/artist/3ZS6P4TT29hji0nd1UM8pR) | [Oxigénio \(feat\. LON3R JOHNY & Piri\_bxd\)](https://open.spotify.com/album/1S0YjdOZZYAgwCz66yMQ8N) | 4:39 | 2022-11-25 | 2023-01-20 |
 | [P de Pablito](https://open.spotify.com/track/5iZdN7FwGMBBaYsPP5DO8l) | [X\-Tense](https://open.spotify.com/artist/7JajP35zM35gnAvTZbwxDF) | [P de Pablito](https://open.spotify.com/album/7BkBkdAwb0X7pbIBjP9zzF) | 3:02 | 2022-07-05 |  |
 | [Papaia](https://open.spotify.com/track/17MPtgaJHgr2WlJVyhA6kw) | [Dillaz](https://open.spotify.com/artist/15p1isN7VcGsjeSq8s9YeP) | [Oitavo Céu](https://open.spotify.com/album/0Hm4SvANwPDIBdDPnN97rf) | 3:02 | 2023-04-21 |  |

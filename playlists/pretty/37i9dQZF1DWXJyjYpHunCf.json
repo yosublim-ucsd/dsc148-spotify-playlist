@@ -1,12 +1,12 @@
 {
   "description": "The best of folk-infused pop and singer-songwriter. Cover: Brenn!",
-  "num_followers": 820982,
+  "num_followers": 821244,
   "original_name": "Folk Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhOWNiNWRmZGI5ZGEzNjlmZmMzODIwMjExMWNkZTBjZDYzMzY0MzVh",
+  "snapshot_id": "MCw0Yjg0OTA3ZGIwZjM1ZjdiYzMxOWMxODhhYWYyMmM4NGMwMGEzZTll",
   "tracks": [
     {
       "added_at": "2023-04-28 04:00:00",
@@ -931,18 +931,18 @@
     {
       "added_at": "2023-04-28 04:00:00",
       "album": {
-        "name": "Bored",
-        "url": "https://open.spotify.com/album/4cGUztBrBh5uep9lBJYzP3"
+        "name": "Waves",
+        "url": "https://open.spotify.com/album/5ZO7Yhx5k8r4513DjUb0GO"
       },
       "artists": [
         {
-          "name": "Sara Kays",
-          "url": "https://open.spotify.com/artist/7Lk9V7E1u5gqSHmtcKlOqH"
+          "name": "The 502s",
+          "url": "https://open.spotify.com/artist/4sIuoDOzSlBqeiNJl631zX"
         }
       ],
-      "duration_ms": 166875,
-      "name": "Bored",
-      "url": "https://open.spotify.com/track/3YQtnh00LIhMqimMUjbS6l"
+      "duration_ms": 136378,
+      "name": "Waves",
+      "url": "https://open.spotify.com/track/5luLMIQajTbWm2Zz4EsO9D"
     },
     {
       "added_at": "2023-04-28 04:00:00",
@@ -963,22 +963,6 @@
     {
       "added_at": "2023-04-28 04:00:00",
       "album": {
-        "name": "Waves",
-        "url": "https://open.spotify.com/album/5ZO7Yhx5k8r4513DjUb0GO"
-      },
-      "artists": [
-        {
-          "name": "The 502s",
-          "url": "https://open.spotify.com/artist/4sIuoDOzSlBqeiNJl631zX"
-        }
-      ],
-      "duration_ms": 136378,
-      "name": "Waves",
-      "url": "https://open.spotify.com/track/5luLMIQajTbWm2Zz4EsO9D"
-    },
-    {
-      "added_at": "2023-04-28 04:00:00",
-      "album": {
         "name": "Songs for the Drunk and Broken Hearted",
         "url": "https://open.spotify.com/album/6OGJr5I1SVTn9cla4JPiO1"
       },
@@ -991,6 +975,22 @@
       "duration_ms": 201720,
       "name": "Sword from the Stone",
       "url": "https://open.spotify.com/track/1Fc2Gqn9bTuoeSHfhl1net"
+    },
+    {
+      "added_at": "2023-04-28 04:00:00",
+      "album": {
+        "name": "Bored",
+        "url": "https://open.spotify.com/album/4cGUztBrBh5uep9lBJYzP3"
+      },
+      "artists": [
+        {
+          "name": "Sara Kays",
+          "url": "https://open.spotify.com/artist/7Lk9V7E1u5gqSHmtcKlOqH"
+        }
+      ],
+      "duration_ms": 166875,
+      "name": "Bored",
+      "url": "https://open.spotify.com/track/3YQtnh00LIhMqimMUjbS6l"
     },
     {
       "added_at": "2023-04-28 04:00:00",
@@ -1075,22 +1075,6 @@
     {
       "added_at": "2023-04-28 04:00:00",
       "album": {
-        "name": "I Know the Way Home",
-        "url": "https://open.spotify.com/album/028PxoVXaGF8zlD3wxfraR"
-      },
-      "artists": [
-        {
-          "name": "Andrew Galucki",
-          "url": "https://open.spotify.com/artist/0Z00sSHBoJ9wsqTY5hT3mP"
-        }
-      ],
-      "duration_ms": 201875,
-      "name": "I Know the Way Home",
-      "url": "https://open.spotify.com/track/7mZedsGVcUJOl6hSy17ykh"
-    },
-    {
-      "added_at": "2023-04-28 04:00:00",
-      "album": {
         "name": "18",
         "url": "https://open.spotify.com/album/0rfFKuEbn9Ez9qPGJQfFzf"
       },
@@ -1103,6 +1087,22 @@
       "duration_ms": 171157,
       "name": "18",
       "url": "https://open.spotify.com/track/0xMDAZkHccTgIi87Tdd1An"
+    },
+    {
+      "added_at": "2023-04-28 04:00:00",
+      "album": {
+        "name": "I Know the Way Home",
+        "url": "https://open.spotify.com/album/028PxoVXaGF8zlD3wxfraR"
+      },
+      "artists": [
+        {
+          "name": "Andrew Galucki",
+          "url": "https://open.spotify.com/artist/0Z00sSHBoJ9wsqTY5hT3mP"
+        }
+      ],
+      "duration_ms": 201875,
+      "name": "I Know the Way Home",
+      "url": "https://open.spotify.com/track/7mZedsGVcUJOl6hSy17ykh"
     },
     {
       "added_at": "2023-04-28 04:00:00",
@@ -1271,22 +1271,6 @@
     {
       "added_at": "2023-04-28 04:00:00",
       "album": {
-        "name": "Better Together",
-        "url": "https://open.spotify.com/album/6iPltWDB2BeiopAigyQG3g"
-      },
-      "artists": [
-        {
-          "name": "Jeremy Loops",
-          "url": "https://open.spotify.com/artist/0Dct2Gu0qEbgGRjfaxew8g"
-        }
-      ],
-      "duration_ms": 178271,
-      "name": "Better Together",
-      "url": "https://open.spotify.com/track/3xPrdaCplbZRvgJiOBmGs4"
-    },
-    {
-      "added_at": "2023-04-28 04:00:00",
-      "album": {
         "name": "All Day Long",
         "url": "https://open.spotify.com/album/2HktzXlF3iNo6C0uQ3vP9Z"
       },
@@ -1299,6 +1283,22 @@
       "duration_ms": 169433,
       "name": "All Day Long",
       "url": "https://open.spotify.com/track/2D3JB5Bs5ut4czq9Xt3PA3"
+    },
+    {
+      "added_at": "2023-04-28 04:00:00",
+      "album": {
+        "name": "Better Together",
+        "url": "https://open.spotify.com/album/6iPltWDB2BeiopAigyQG3g"
+      },
+      "artists": [
+        {
+          "name": "Jeremy Loops",
+          "url": "https://open.spotify.com/artist/0Dct2Gu0qEbgGRjfaxew8g"
+        }
+      ],
+      "duration_ms": 178271,
+      "name": "Better Together",
+      "url": "https://open.spotify.com/track/3xPrdaCplbZRvgJiOBmGs4"
     },
     {
       "added_at": "2023-04-28 04:00:00",
@@ -1399,22 +1399,6 @@
     {
       "added_at": "2023-04-28 04:00:00",
       "album": {
-        "name": "Into The Mystery",
-        "url": "https://open.spotify.com/album/3VJ6mi9zBjEeDOTW167lMF"
-      },
-      "artists": [
-        {
-          "name": "NEEDTOBREATHE",
-          "url": "https://open.spotify.com/artist/610EjgFatGvVPtib97jQ8G"
-        }
-      ],
-      "duration_ms": 234677,
-      "name": "Into The Mystery",
-      "url": "https://open.spotify.com/track/7zUgIo1qgHuJ3LmeFxmqiN"
-    },
-    {
-      "added_at": "2023-04-28 04:00:00",
-      "album": {
         "name": "Backstage in Glasgow",
         "url": "https://open.spotify.com/album/2LbmNfBamXEj7SLzpvNY4S"
       },
@@ -1431,18 +1415,18 @@
     {
       "added_at": "2023-04-28 04:00:00",
       "album": {
-        "name": "Friends With Benefits",
-        "url": "https://open.spotify.com/album/68f7El7waXgxTTn6zlFsNV"
+        "name": "Into The Mystery",
+        "url": "https://open.spotify.com/album/3VJ6mi9zBjEeDOTW167lMF"
       },
       "artists": [
         {
-          "name": "BL\u00dc EYES",
-          "url": "https://open.spotify.com/artist/2gI1WfmpFmmgSRojy4Jup2"
+          "name": "NEEDTOBREATHE",
+          "url": "https://open.spotify.com/artist/610EjgFatGvVPtib97jQ8G"
         }
       ],
-      "duration_ms": 170224,
-      "name": "Friends With Benefits",
-      "url": "https://open.spotify.com/track/2WbwjvE4L7WTsPhDwET5Ui"
+      "duration_ms": 234677,
+      "name": "Into The Mystery",
+      "url": "https://open.spotify.com/track/7zUgIo1qgHuJ3LmeFxmqiN"
     },
     {
       "added_at": "2023-04-28 04:00:00",
@@ -1463,6 +1447,22 @@
       "duration_ms": 147337,
       "name": "Frightening Fishes - Main Title Theme from \"Shrinking\"",
       "url": "https://open.spotify.com/track/51RsJySU0hYlm2AGDsnmWZ"
+    },
+    {
+      "added_at": "2023-04-28 04:00:00",
+      "album": {
+        "name": "Friends With Benefits",
+        "url": "https://open.spotify.com/album/68f7El7waXgxTTn6zlFsNV"
+      },
+      "artists": [
+        {
+          "name": "BL\u00dc EYES",
+          "url": "https://open.spotify.com/artist/2gI1WfmpFmmgSRojy4Jup2"
+        }
+      ],
+      "duration_ms": 170224,
+      "name": "Friends With Benefits",
+      "url": "https://open.spotify.com/track/2WbwjvE4L7WTsPhDwET5Ui"
     },
     {
       "added_at": "2023-04-28 04:00:00",

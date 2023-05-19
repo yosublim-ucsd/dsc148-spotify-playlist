@@ -89,6 +89,28 @@
     },
     {
       "album": {
+        "name": "Effetto notte",
+        "url": "https://open.spotify.com/album/39wuRno08Rl0Jsse2kCHga"
+      },
+      "artists": [
+        {
+          "name": "Emis Killa",
+          "url": "https://open.spotify.com/artist/6FtwCmLY6L1sqvjaQ2lV6G"
+        },
+        {
+          "name": "Gu\u00e8",
+          "url": "https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27"
+        }
+      ],
+      "date_added": "2023-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162733,
+      "name": "ALBICOCCA - lolita",
+      "url": "https://open.spotify.com/track/1Bkq1PP6QZrZcpAyEnIKDy"
+    },
+    {
+      "album": {
         "name": "SIRIO",
         "url": "https://open.spotify.com/album/2v7KXdLrb81rGL9G7jwcjF"
       },
@@ -2452,6 +2474,28 @@
       "duration_ms": 154778,
       "name": "Vida Mala (feat. Medy)",
       "url": "https://open.spotify.com/track/0ejEtuL3QsV1xvnHysuoVp"
+    },
+    {
+      "album": {
+        "name": "Effetto notte",
+        "url": "https://open.spotify.com/album/39wuRno08Rl0Jsse2kCHga"
+      },
+      "artists": [
+        {
+          "name": "Emis Killa",
+          "url": "https://open.spotify.com/artist/6FtwCmLY6L1sqvjaQ2lV6G"
+        },
+        {
+          "name": "Rizzo",
+          "url": "https://open.spotify.com/artist/2ALJBMyhbGODOEpstHfEqN"
+        }
+      ],
+      "date_added": "2023-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184160,
+      "name": "VISCERALE - closer",
+      "url": "https://open.spotify.com/track/7bgJm5Z7EpvXRMdysiUjCj"
     },
     {
       "album": {

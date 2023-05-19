@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY8GmMJbmnsS.md) - [plain]
 
 > All of your classic soul ballads, right here\. Cover: Percy Sledge
 
-[Spotify](https://open.spotify.com/user/spotify) - 327,558 likes - 50 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 327,625 likes - 50 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY8GmMJbmnsS.md) - [plain]
 | 35 | [Do Right Woman, Do Right Man](https://open.spotify.com/track/6cLEpgDcEldV1n9gusHQUX) | [Aretha Franklin](https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok) | [I Never Loved a Man the Way I Love You](https://open.spotify.com/album/5WndWfzGwCkHzAbQXVkg2V) | 3:16 |
 | 36 | [Drown in My Own Tears](https://open.spotify.com/track/0oQtjAjUeksVd9gHE5fl02) | [Ray Charles](https://open.spotify.com/artist/1eYhYunlNJlDoQhtYBvPsi) | [Ray Charles \(aka: Hallelujah, I Love Her So\)](https://open.spotify.com/album/0cw6Sv7IwZ87aLPPvNPSd0) | 3:21 |
 | 37 | [Wholy Holy](https://open.spotify.com/track/4KyyKvKDgVYiwoGJOa0xVd) | [Marvin Gaye](https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA) | [What's Going On](https://open.spotify.com/album/2v6ANhWhZBUKkg6pJJBs3B) | 3:07 |
-| 38 | [Love on a Two Way Street](https://open.spotify.com/track/2gImbBWvXQWQ9ZDSQUWvNI) | [The Moments](https://open.spotify.com/artist/6avGAzQTmqu8mfSmZrN7gT) | [Love On A Two\-Way Street \(US Release\)](https://open.spotify.com/album/2fCREhUDXAPsGzkRMU6cI9) | 3:37 |
-| 39 | [In the Still of the Night](https://open.spotify.com/track/3Dd3FK9DSaoMoUKA5ZPVgw) | [The Five Satins](https://open.spotify.com/artist/2YP02JRa1JLejrg3XTssJS) | [Presenting The 5 Satins](https://open.spotify.com/album/6cCH55Vq1UpCfHOFaVKegT) | 3:02 |
+| 38 | [In the Still of the Night](https://open.spotify.com/track/3Dd3FK9DSaoMoUKA5ZPVgw) | [The Five Satins](https://open.spotify.com/artist/2YP02JRa1JLejrg3XTssJS) | [Presenting The 5 Satins](https://open.spotify.com/album/6cCH55Vq1UpCfHOFaVKegT) | 3:02 |
+| 39 | [Love on a Two Way Street](https://open.spotify.com/track/2gImbBWvXQWQ9ZDSQUWvNI) | [The Moments](https://open.spotify.com/artist/6avGAzQTmqu8mfSmZrN7gT) | [Love On A Two\-Way Street \(US Release\)](https://open.spotify.com/album/2fCREhUDXAPsGzkRMU6cI9) | 3:37 |
 | 40 | [Just To Be Close To You](https://open.spotify.com/track/60ijzJRo70XLwAEaX6y0eZ) | [Commodores](https://open.spotify.com/artist/6twIAGnYuIT1pncMAsXnEm) | [Hot On The Tracks](https://open.spotify.com/album/1WDTvBAEVrdz5oxfRahzEi) | 6:21 |
 | 41 | [When Something Is Wrong with My Baby](https://open.spotify.com/track/056rtilqF4cqLOgDQGqYqv) | [Sam & Dave](https://open.spotify.com/artist/2BVYdY4PyfCF9z4NrkhEB2) | [The Best of Sam & Dave](https://open.spotify.com/album/4IDa38FYTYlqHFbZM6rb5I) | 3:14 |
 | 42 | [Be My Girl](https://open.spotify.com/track/34nT7RkrF1bimYlQUFEpkq) | [The Dramatics](https://open.spotify.com/artist/2W8UTum7bU7ue6m0r14H97) | [Joy Ride](https://open.spotify.com/album/2wJt6u240XneVkyLc0ixla) | 4:31 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY8GmMJbmnsS.md) - [plain]
 | 49 | [Betcha By Golly, Wow](https://open.spotify.com/track/0g8A6lSYXCbVtEtGhvHEhb) | [The Stylistics](https://open.spotify.com/artist/2O0Hw1WSMbskB5tD9aWah3) | [The Best Of The Stylistics and More 30th Anniversary Edition](https://open.spotify.com/album/0XCFf2EGPTZuIrDJeu7dPW) | 3:18 |
 | 50 | [Crying in the Chapel](https://open.spotify.com/track/1MdtXzJLuRoC1qZe1OxyPq) | [The Orioles](https://open.spotify.com/artist/4Am5deuAhDuKUJgXmoCQzj) | [Presenting the Orioles](https://open.spotify.com/album/3ilxDZ0GVsoDyHcHgYTBJv) | 3:08 |
 
-Snapshot ID: `MCw0MmNmODY5NTM2MDI5ODg5OGZjNTMyOTVkMGI4MTAwNWRkM2E1OWZk`
+Snapshot ID: `MCxkNWM0OTAxM2RlODJhZjIwNjFjYmIyN2UxZmMzYWE1MGY0ODNkYzkw`

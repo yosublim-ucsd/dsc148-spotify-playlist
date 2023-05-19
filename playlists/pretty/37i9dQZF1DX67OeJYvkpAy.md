@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX67OeJYvkpAy.md) - [plain]
 
 > the best of the deep end\. cover: Kay9ine
 
-[Spotify](https://open.spotify.com/user/spotify) - 86,028 likes - 100 songs - 4 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 86,054 likes - 100 songs - 4 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,8 +23,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX67OeJYvkpAy.md) - [plain]
 | 13 | [Mad About Bars \- S5\-E8 Pt2](https://open.spotify.com/track/0m1822OsmlmD20BaTpaqDZ) | [French The Kid](https://open.spotify.com/artist/4k1cMkJjG3UCRptckbpAnC), [Mixtape Madness](https://open.spotify.com/artist/4ocdD0Bi1syVqLs1GiHqQ9), [Kenny Allstar](https://open.spotify.com/artist/2abTBfFq5PSoASI2PSysLV) | [Mad About Bars \- S5\-E8](https://open.spotify.com/album/0uVBlEvlqTYAK0axKwsgvd) | 2:05 |
 | 14 | [On My Mind](https://open.spotify.com/track/1eqIZ2Aki8uty86Qy4bk4N) | [Alex1](https://open.spotify.com/artist/0FDzmUEXdafn3kIB3cWrF3) | [On My Mind](https://open.spotify.com/album/2hMB4Uz4vN84A8Za27VX4k) | 1:20 |
 | 15 | [Missing You](https://open.spotify.com/track/0fD871BU8pWNuulBNpHYFt) | [Mboogz](https://open.spotify.com/artist/6pFQmtinlfDnu3ifn7KQtB) | [Missing You](https://open.spotify.com/album/4GBGxGBSpQPwDkpVAjrTb1) | 3:33 |
-| 16 | [Hoods Hottest](https://open.spotify.com/track/2S3H7E5e3AWrMQPj8bsac5) | [COMFY](https://open.spotify.com/artist/5c9aPejSDesU9OyZsdpj28), [Shiloh Dynasty](https://open.spotify.com/artist/1wxPItEzr7U7rGSMPqZ25r) | [Hoods Hottest](https://open.spotify.com/album/7jfU23U2RFLjYQVLq7PDN2) | 3:07 |
-| 17 | [Why you gotta lie?](https://open.spotify.com/track/492G9mKNRkoTJFybP2BItb) | [K1](https://open.spotify.com/artist/5WUPK2bOwlRrSeoC87ygC4) | [Why you gotta lie?](https://open.spotify.com/album/7HFZ5BPoa353YG5EOGXVLE) | 2:36 |
+| 16 | [Why you gotta lie?](https://open.spotify.com/track/492G9mKNRkoTJFybP2BItb) | [K1](https://open.spotify.com/artist/5WUPK2bOwlRrSeoC87ygC4) | [Why you gotta lie?](https://open.spotify.com/album/7HFZ5BPoa353YG5EOGXVLE) | 2:36 |
+| 17 | [Hoods Hottest](https://open.spotify.com/track/2S3H7E5e3AWrMQPj8bsac5) | [COMFY](https://open.spotify.com/artist/5c9aPejSDesU9OyZsdpj28), [Shiloh Dynasty](https://open.spotify.com/artist/1wxPItEzr7U7rGSMPqZ25r) | [Hoods Hottest](https://open.spotify.com/album/7jfU23U2RFLjYQVLq7PDN2) | 3:07 |
 | 18 | [Next Up \- S3\-E47, Pt.1](https://open.spotify.com/track/3TWFT3Z8CXHuPqNmNa1heK) | [Idi Akz](https://open.spotify.com/artist/7cmvUpGGozT8si6UDR0YHf), [Mixtape Madness](https://open.spotify.com/artist/4ocdD0Bi1syVqLs1GiHqQ9) | [Next Up \- S3\-E47](https://open.spotify.com/album/7sJztsK2IXWXzhpqiXSqBA) | 2:21 |
 | 19 | [Talking Stage](https://open.spotify.com/track/3Kim4tV3HTnpaELmIh56lI) | [JBEE](https://open.spotify.com/artist/3LIh5lV3zpZkgmO0K6R6bq) | [Talking Stage](https://open.spotify.com/album/7dNdmqTyrNfjKOr8aOg3rX) | 2:57 |
 | 20 | [Endlessly](https://open.spotify.com/track/1a3n05oJgk0KiAmdQwbGVb) | [Songer](https://open.spotify.com/artist/1iW3b73XWPQSknLyH5kDrd) | [The Sunrise Project](https://open.spotify.com/album/2IoZRvALz6CryCOaCPnR8q) | 3:14 |
@@ -78,8 +78,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX67OeJYvkpAy.md) - [plain]
 | 68 | [Venting](https://open.spotify.com/track/2a2kgyw5bskOcTEOpQQFQw) | [Kay9ine](https://open.spotify.com/artist/0SJsXjUcebfEVuPf3zQ8QJ), [MiSTah Kye](https://open.spotify.com/artist/06Mk5DnNoZL6Hzmzpfra5M) | [Love, Eternity & Faith](https://open.spotify.com/album/4vc27sJyxvNCRFCVwXAo6a) | 2:40 |
 | 69 | [Lowkey '](https://open.spotify.com/track/5lx1xGuMvgzCz9pn1eyjWN) | [Sleepy Halllow](https://open.spotify.com/artist/2PHitDAVzXAH0FxjKH9U6P), [Nyc Drill Rap](https://open.spotify.com/artist/3mVrbnVGm8lWIFFb7VUWrA) | [Lowkey '](https://open.spotify.com/album/3ylVS3PBeyLUtxX3icOv1X) | 2:34 |
 | 70 | [She Comes & Goes](https://open.spotify.com/track/1OfoIbhQT9AjGe9WF8qQae) | [MiSTah Kye](https://open.spotify.com/artist/06Mk5DnNoZL6Hzmzpfra5M) | [Retrogress \(Season 1\)](https://open.spotify.com/album/6AX4iSMeS5jefTcnEpZm2E) | 3:19 |
-| 71 | [Lies](https://open.spotify.com/track/0DZ2oAxxLtD76a5gxGj92k) | [AMB](https://open.spotify.com/artist/75m92kcvwKBpXtBnqrJiB7) | [Lies](https://open.spotify.com/album/7bI6MVn2einWQk8mvuKdVe) | 3:23 |
-| 72 | [Take The Risk](https://open.spotify.com/track/0tIBTDYETBi6OZ2lyI0tGX) | [Svaroda](https://open.spotify.com/artist/1YUK10AQJ4lPfRd9LOnEpz), [Hasan Ceddi](https://open.spotify.com/artist/7zbjgtGBKbRKNyr8EzWCbH) | [Take The Risk](https://open.spotify.com/album/3qOLL1W6GfXoWBzkeizrT3) | 3:20 |
+| 71 | [Take The Risk](https://open.spotify.com/track/0tIBTDYETBi6OZ2lyI0tGX) | [Svaroda](https://open.spotify.com/artist/1YUK10AQJ4lPfRd9LOnEpz), [Hasan Ceddi](https://open.spotify.com/artist/7zbjgtGBKbRKNyr8EzWCbH) | [Take The Risk](https://open.spotify.com/album/3qOLL1W6GfXoWBzkeizrT3) | 3:20 |
+| 72 | [Lies](https://open.spotify.com/track/0DZ2oAxxLtD76a5gxGj92k) | [AMB](https://open.spotify.com/artist/75m92kcvwKBpXtBnqrJiB7) | [Lies](https://open.spotify.com/album/7bI6MVn2einWQk8mvuKdVe) | 3:23 |
 | 73 | [Novacane](https://open.spotify.com/track/3y9xXHSdn7mWGHG7mTyh9x) | [Anubis](https://open.spotify.com/artist/0a1wP4Ft70WP79YdfIDGg6) | [Novacane](https://open.spotify.com/album/3MNDKlPEwapuZ5tvy2NlIA) | 3:12 |
 | 74 | [High \(All The Time\)](https://open.spotify.com/track/6dQQEf0syaKQkG3qGUwsU5) | [RhyRab](https://open.spotify.com/artist/4EXmCLyMavmdNi3JTmbvSS) | [High \(All The Time\)](https://open.spotify.com/album/5oEDFjrZMu10f4e7g50UXr) | 2:40 |
 | 75 | [Voices](https://open.spotify.com/track/6HfHA59NuCFzWWLOZ8WHzv) | [Alex1](https://open.spotify.com/artist/0FDzmUEXdafn3kIB3cWrF3), [Beri Mayah](https://open.spotify.com/artist/3157DyzsGdoNMghW23WShx) | [Voices](https://open.spotify.com/album/21I5Lnj2L2hXDvHGr1AiMR) | 2:15 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX67OeJYvkpAy.md) - [plain]
 | 99 | [Who Am I?\(I Dont Know\)](https://open.spotify.com/track/7dZBAEndXGOczb5O3QJWE4) | [Kay9ine](https://open.spotify.com/artist/0SJsXjUcebfEVuPf3zQ8QJ) | [Who Am I?\(I Dont Know\)](https://open.spotify.com/album/2m5EhBsAarjhNd77FAGQch) | 2:42 |
 | 100 | [Angels Fly High](https://open.spotify.com/track/2HKtJCinY7r5wnqXMvtDHW) | [Kay9ine](https://open.spotify.com/artist/0SJsXjUcebfEVuPf3zQ8QJ) | [Angels Fly High](https://open.spotify.com/album/3YB7TrvCwgnepJig20lYhT) | 3:01 |
 
-Snapshot ID: `MCwxMDc1ODhiNWI2ZGM4MGViNzg3MjQwZThlNDcwZWRjN2Y2YzJmNGQx`
+Snapshot ID: `MCxiYjkyNjg0MjkwMGMxMTNmZmNjNzA5MzQ5MGYyYjRjYjA5YTExYjE4`

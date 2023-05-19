@@ -23,6 +23,24 @@
     },
     {
       "album": {
+        "name": "Neighborhoods (Deluxe)",
+        "url": "https://open.spotify.com/album/2xSmzzqWM6cqaC92Hf7Dyv"
+      },
+      "artists": [
+        {
+          "name": "blink-182",
+          "url": "https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP"
+        }
+      ],
+      "date_added": "2023-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206866,
+      "name": "After Midnight",
+      "url": "https://open.spotify.com/track/27H8WsrkD5catdc3a2fCLV"
+    },
+    {
+      "album": {
         "name": "Neighborhoods (Deluxe Explicit Version)",
         "url": "https://open.spotify.com/album/0KjLbdlJYvtzXjGTwPy3lv"
       },
@@ -34,7 +52,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 206866,
       "name": "After Midnight",
       "url": "https://open.spotify.com/track/29bWDkf8qtCmsvDWOW55CJ"

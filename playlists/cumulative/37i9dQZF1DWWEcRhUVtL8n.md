@@ -4,7 +4,7 @@
 
 > New and approved indie pop\. Cover: Magdalena Bay
 
-1,559 songs - 3 day 10 hr 17 min
+1,560 songs - 3 day 10 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -193,7 +193,7 @@
 | [Boxes](https://open.spotify.com/track/3OWi7ov1nFXhjnf1wvegcZ) | [GRAE](https://open.spotify.com/artist/0H307pF74X7H7kXOmDyYGU) | [Boxes](https://open.spotify.com/album/4cZg53uayQfgOH5wcUisBN) | 2:50 | 2022-04-15 | 2022-07-29 |
 | [Boy Bi](https://open.spotify.com/track/3OWK4KWwpo7prKUk8ytwCp) | [Mad Tsai](https://open.spotify.com/artist/5C2iFRY2UldL2hv9THw4aB) | [Boy Bi](https://open.spotify.com/album/1l2hi6hUws5BHtf7ILgdsm) | 2:22 | 2022-03-18 | 2022-04-21 |
 | [Boy U R The Only One](https://open.spotify.com/track/1yXAsmil8kwEI5OEzwtCOE) | [Life in Sweatpants](https://open.spotify.com/artist/1gz7b6h7Jmh8Ixn8byJmCQ) | [Boy U R The Only One](https://open.spotify.com/album/2CUIKGi1ngqHIVCQ28xmAY) | 2:54 | 2021-12-04 | 2021-12-06 |
-| [Boy's a liar](https://open.spotify.com/track/3NanY0K4okhIQzL33U5Ad8) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [Boy's a liar](https://open.spotify.com/album/5Kdlc7Kds94W7UFFg6Me0N) | 2:11 | 2022-12-07 |  |
+| [Boy's a Liar](https://open.spotify.com/track/3NanY0K4okhIQzL33U5Ad8) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [Boy's a liar](https://open.spotify.com/album/5Kdlc7Kds94W7UFFg6Me0N) | 2:11 | 2022-12-07 |  |
 | [Boys](https://open.spotify.com/track/7yfLvK7r1w5bql3G0Uha5w) | [Hippo Campus](https://open.spotify.com/artist/1btWGBz4Uu1HozTwb2Lm8A) | [Boys](https://open.spotify.com/album/6GekJIWdpmASWvY6maRfHH) | 4:13 | 2021-10-22 | 2022-08-06 |
 | [Boys Cry](https://open.spotify.com/track/3N9wM13u8XFj8mqGPZ2Vwc) | [Oscar Scheller](https://open.spotify.com/artist/6BToM88XrzNI6VL5GxazUq) | [Boys Cry](https://open.spotify.com/album/4dXFKvaVqrjEqp5wE7cBjp) | 3:37 | 2021-02-28 | 2021-10-14 |
 | [Boys Who Kiss You In Their Car](https://open.spotify.com/track/0mFM1XxrkVkKTmuzwwa2IO) | [Ber](https://open.spotify.com/artist/3yojdgzMmWK3m7QABkOr7x) | [Boys Who Kiss You In Their Car](https://open.spotify.com/album/3gqu6hSCAet5nUZWhkwAi1) | 2:44 | 2022-09-30 | 2022-10-15 |
@@ -864,6 +864,7 @@
 | [Love You For A Long Time](https://open.spotify.com/track/6QTPacyXkZWG9FMwq6L1hJ) | [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) | [Love You For A Long Time](https://open.spotify.com/album/47SKepdJ0B5cquxtKrgFUI) | 3:43 | 2020-10-20 | 2020-10-21 |
 | [love, or the lack thereof](https://open.spotify.com/track/07s5wOe2qlyWWsf5I5gRxd) | [Isaac Dunbar](https://open.spotify.com/artist/2sBVpvpeQxK01FqIt5t816) | [love, or the lack thereof](https://open.spotify.com/album/4TDZ6koiaFEdZhMvuWqyDk) | 3:07 | 2020-11-23 | 2022-07-29 |
 | [Loved By U](https://open.spotify.com/track/1SldN7GTd0ADTjspv96wCl) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI), [morgxn](https://open.spotify.com/artist/034u8Qcs47NHkRQXaWkLXW) | [Loved By U](https://open.spotify.com/album/3ZWTn4QQX16aHY64yVeC1D) | 3:27 | 2022-04-15 |  |
+| [Lovegod](https://open.spotify.com/track/2hKnW3SMsVWhXoSYLXn01G) | [Sarah Kinsley](https://open.spotify.com/artist/34A8vV1MCxGpA14KspqQuC) | [Lovegod](https://open.spotify.com/album/2KEC2u2Q3nhAeXeZb6Ptq7) | 3:08 | 2023-05-12 |  |
 | [Loverboy](https://open.spotify.com/track/3jB55bujusQsAK5EYXcgnX) | [Sir Sly](https://open.spotify.com/artist/3DFoVPonoAAt4EZ1FEI8ue) | [The Rise & Fall of Loverboy \- Singles](https://open.spotify.com/album/5jRBOmCGZWOmLdrw1sOWzy) | 2:43 | 2021-02-23 | 2021-10-13 |
 | [Low Blow](https://open.spotify.com/track/49ranIZODSj8YQASSeJlAV) | [Nate Traveller](https://open.spotify.com/artist/34qyuX5yO72yzL8Z4JclBc) | [Low Blow](https://open.spotify.com/album/3SHiSIQhccEbvunWnsI7uv) | 2:26 | 2020-10-13\* | 2021-05-18 |
 | [Lucky](https://open.spotify.com/track/78rFhTXf81WtRS7Ubl2f4V) | [Chelsea Cutler](https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp), [Alexander 23](https://open.spotify.com/artist/6sFHvCyqklnJpXC9Nh1aag) | [Lucky](https://open.spotify.com/album/6esPAZhJiXGKhByoXAHSEG) | 2:28 | 2020-10-20 | 2020-10-21 |
@@ -900,7 +901,7 @@
 | [Matty Healy](https://open.spotify.com/track/20Do7D6tZkclXfNBa9z45X) | [Georgia Twinn](https://open.spotify.com/artist/2O0h682EGdSff234pcv201) | [Matty Healy](https://open.spotify.com/album/6dBjAT41RnXZcYvdU4NpGI) | 2:30 | 2021-05-04 | 2021-05-28 |
 | [Maybe Could Have Loved \(feat\. Nightly\)](https://open.spotify.com/track/0PDMJ5XPiUc006Th2t04q8) | [Charli Adams](https://open.spotify.com/artist/2RzQznPCFWvnq3wBh0zzD2), [Nightly](https://open.spotify.com/artist/3qDMrpZHtZEtVl5i1l7hP3) | [Maybe Could Have Loved \(feat\. Nightly\)](https://open.spotify.com/album/1UeVCqanippU9jszS3D4Ny) | 3:41 | 2021-02-24 | 2022-04-12 |
 | [Maybe Don't \(feat\. JP Saxe\) \- HONNE Remix](https://open.spotify.com/track/11MUf3KmUWkwGGT0nHgv7g) | [Maisie Peters](https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs), [JP Saxe](https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe), [HONNE](https://open.spotify.com/artist/0Vw76uk7P8yVtTClWyOhac) | [Maybe Don't \(feat\. JP Saxe\) \[HONNE Remix\]](https://open.spotify.com/album/1wxjjTywtdnvsa1GCNUy1M) | 2:55 | 2020-10-24 | 2021-01-15 |
-| [Maybe I’m Lonely](https://open.spotify.com/track/3X3cftpXwcSXQM4fC5ihdo) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP) | [Maybe I’m Lonely](https://open.spotify.com/album/7cGahzr5hx2AfLnrd0aoKM) | 2:32 | 2023-02-04 |  |
+| [Maybe I’m Lonely](https://open.spotify.com/track/3X3cftpXwcSXQM4fC5ihdo) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP) | [Maybe I’m Lonely](https://open.spotify.com/album/7cGahzr5hx2AfLnrd0aoKM) | 2:32 | 2023-02-04 | 2023-05-19 |
 | [Maybe My Soulmate Died](https://open.spotify.com/track/6ppqoeLXfffALBPks5Z2D6) | [iamnotshane](https://open.spotify.com/artist/3jN7f9X0EmFnsbRS6nl6as) | [Maybe My Soulmate Died](https://open.spotify.com/album/4oCV0f6GDAiQqzRETfHipi) | 1:54 | 2022-11-11 | 2022-12-22 |
 | [Maybe My Soulmate Died](https://open.spotify.com/track/7N1bEUVuQo8HHuikDgJ10c) | [iamnotshane](https://open.spotify.com/artist/3jN7f9X0EmFnsbRS6nl6as) | [Maybe My Soulmate Died](https://open.spotify.com/album/0sCKHcwHvwtLYuaBNfE6BL) | 1:54 | 2022-06-17 | 2022-12-01 |
 | [Me & You Together Song](https://open.spotify.com/track/4AQzk2yNWKs6sYhZi6NzVN) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [Me & You Together Song](https://open.spotify.com/album/6RicVnt1SB39xCjG81RUDo) | 3:29 | 2020-10-20 | 2022-04-15 |

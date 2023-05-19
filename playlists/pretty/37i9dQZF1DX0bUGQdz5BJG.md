@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0bUGQdz5BJG.md) - [plain]
 
 > Music City must\-hears\. Cover: Meghan Patrick
 
-[Spotify](https://open.spotify.com/user/spotify) - 156,990 likes - 197 songs - 10 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 157,117 likes - 197 songs - 10 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,7 +66,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0bUGQdz5BJG.md) - [plain]
 | 56 | [Worse Than Gone](https://open.spotify.com/track/7a0PMim6XfCz44p9CXGMef) | [Rayne Johnson](https://open.spotify.com/artist/3Zo19GTbgk9V6yCLrIfsxt) | [Worse Than Gone](https://open.spotify.com/album/19On2Q8HRB5G727kA8FNh2) | 3:32 |
 | 57 | [Ain't No Cowboy](https://open.spotify.com/track/1v8eMSe3OZjK1u9lqrJFkp) | [Jon Langston](https://open.spotify.com/artist/4BANbHDs1IluagTx5eRW2P) | [Ain't No Cowboy](https://open.spotify.com/album/13tclAeF1gXE9GfBCyFfnT) | 3:19 |
 | 58 | [twenty something](https://open.spotify.com/track/3qBvuUilp4ETbeE12DKPxG) | [Alana Springsteen](https://open.spotify.com/artist/4TPT9nwjRvEV49q7f8p4fy) | [twenty something](https://open.spotify.com/album/23BOmuBnzXuFfz0jC1QQTx) | 2:40 |
-| 59 | [Girl in the Mirror](https://open.spotify.com/track/0qwSPLH0QyaMZlmJtsxNZ5) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [Girl in the Mirror](https://open.spotify.com/album/3pvp1aMU2i1lF6sFlsXV5J) | 2:45 |
+| 59 | [Girl in the Mirror](https://open.spotify.com/track/6t0PM7tXvdqEHKYHtEDl5H) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [Lucky](https://open.spotify.com/album/5DFed53ADZwnPOYuqoZJHK) | 2:45 |
 | 60 | [Till The Day I Die](https://open.spotify.com/track/0vw4joKnhKIPtsXs49pZMY) | [Chayce Beckham](https://open.spotify.com/artist/5ujvZU2thXjZgFKPUt1rDt) | [Till The Day I Die](https://open.spotify.com/album/6bdHj1fSswKrWorhERLB3h) | 3:58 |
 | 61 | [Sugar Daddy](https://open.spotify.com/track/1rMShleQMWaIV4rWyjAIBj) | [Kylie Morgan](https://open.spotify.com/artist/3g2yaL04Uapb5fxmwsUZgV) | [Sugar Daddy](https://open.spotify.com/album/3MCdV4atrsRTKXAtBaThKv) | 2:30 |
 | 62 | [Heart to Break](https://open.spotify.com/track/3cjXpD1y4R8YPMIMcPir3p) | [Ryan Griffin](https://open.spotify.com/artist/7dMEBGtGI6O7PoTEucAaBT) | [Heart to Break](https://open.spotify.com/album/0TMjCBtovYgd7OXnBwMbIL) | 3:17 |
@@ -206,4 +206,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0bUGQdz5BJG.md) - [plain]
 | 196 | [Missed the Boat](https://open.spotify.com/track/3DQi4r0z82AD5cQgVQYkTP) | [Payton Smith](https://open.spotify.com/artist/4ZLKYFbf4KJWJR0MeQWLEt) | [Missed the Boat](https://open.spotify.com/album/358todtduHcbUf6KOKzvma) | 3:19 |
 | 197 | [Stoned](https://open.spotify.com/track/1E0MQXTmFHJnaOGIMqq5LF) | [Derek Austin](https://open.spotify.com/artist/0uNsoq1EVnteLuHRwzvYfZ) | [Stoned](https://open.spotify.com/album/7fzDWt3ZsttqHdjr0bugrz) | 2:42 |
 
-Snapshot ID: `MCwwZmM5OWNlNTM2NWEwMDg0NmQ4ZjBiMGU2Y2ZmMGFkOWI5MzQ1Y2Yy`
+Snapshot ID: `MCw1MWJjNTYxOTYzNzBiNWFlZDg0ZWJjNzMwZDAyZDczMjFkMzcxMzI3`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ujZpAN0v9r.md) - [plain]
 
 > The essential beautiful noise: sweet and sour fuzz to warm your heart\. my bloody valentine on cover
 
-[Spotify](https://open.spotify.com/user/spotify) - 511,002 likes - 143 songs - 11 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 511,191 likes - 143 songs - 11 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ujZpAN0v9r.md) - [plain]
 | 21 | [Sometimes](https://open.spotify.com/track/5KBKqxYY263Tr0haAu3fMz) | [my bloody valentine](https://open.spotify.com/artist/3G3Gdm0ZRAOxLrbyjfhii5) | [Loveless](https://open.spotify.com/album/3GH4IiI6jQAIvnHVdb5FB6) | 5:19 |
 | 22 | [Dark Spring](https://open.spotify.com/track/4FskS1jBEsv5hPC0VJgqmm) | [Beach House](https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY) | [7](https://open.spotify.com/album/1zN85Ep8w2JORfCe0RHLDP) | 3:24 |
 | 23 | [Taker](https://open.spotify.com/track/1RlstRnDWwqLhOWtL16Iqy) | [DIIV](https://open.spotify.com/artist/4OrizGCKhOrW6iDDJHN9xd) | [Deceiver](https://open.spotify.com/album/5FFuado5azIt5lxMLQjCPS) | 4:28 |
-| 24 | [Gauze](https://open.spotify.com/track/0wBVIJrD6tvVnBIQTEQpBt) | [Gleemer](https://open.spotify.com/artist/4UjrcYERvCDC44O0uBSOFa) | [Moving Away](https://open.spotify.com/album/6mAz78FbXsb54tfopJLcDi) | 4:57 |
-| 25 | [Staring At The Sun](https://open.spotify.com/track/0Ku9zP02uHYS4HH6jNLxV0) | [Wooden Shjips](https://open.spotify.com/artist/35rFgnhlSSYflP4HpC3JM0) | [V.](https://open.spotify.com/album/5KjpFRvPpExlRIuDQqwhNk) | 7:27 |
+| 24 | [Staring At The Sun](https://open.spotify.com/track/0Ku9zP02uHYS4HH6jNLxV0) | [Wooden Shjips](https://open.spotify.com/artist/35rFgnhlSSYflP4HpC3JM0) | [V.](https://open.spotify.com/album/5KjpFRvPpExlRIuDQqwhNk) | 7:27 |
+| 25 | [Gauze](https://open.spotify.com/track/0wBVIJrD6tvVnBIQTEQpBt) | [Gleemer](https://open.spotify.com/artist/4UjrcYERvCDC44O0uBSOFa) | [Moving Away](https://open.spotify.com/album/6mAz78FbXsb54tfopJLcDi) | 4:57 |
 | 26 | [Leave Them All Behind \- 2001 Remaster](https://open.spotify.com/track/0t4JQeO8qLKzQFcXuTitgk) | [Ride](https://open.spotify.com/artist/0WPY9nnBy01s5QOt4o4oQX) | [Going Blank Again \(Expanded\)](https://open.spotify.com/album/5l70cCHX1QzN680J68rblF) | 8:17 |
 | 27 | [Autre temps](https://open.spotify.com/track/50dpeks48j0zMECIKVAGUG) | [Alcest](https://open.spotify.com/artist/0d5ZwMtCer8dQdOPAgWhe7) | [Les voyages de l'âme](https://open.spotify.com/album/1yENAh14y99tcC6No2mXWl) | 5:50 |
 | 28 | [Souvlaki Space Station](https://open.spotify.com/track/76JhicgPtW4zbN72tpnMyA) | [Slowdive](https://open.spotify.com/artist/72X6FHxaShda0XeQw3vbeF) | [Souvlaki](https://open.spotify.com/album/53eHm1f3sFiSzWMaKOl98Z) | 5:57 |
@@ -74,8 +74,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ujZpAN0v9r.md) - [plain]
 | 64 | [Molten Young Lovers](https://open.spotify.com/track/5m7HN7LZW6r2IzYYTKVyw9) | [Airiel](https://open.spotify.com/artist/1WOhabhnnH1k6KcD81xGD1) | [Molten Young Lovers](https://open.spotify.com/album/0KeUr8fbOh5vPUsVN6SQ8Z) | 4:39 |
 | 65 | [Superbike](https://open.spotify.com/track/0vKV3DiHbzFYzPynsi7eFO) | [Jay Som](https://open.spotify.com/artist/1wmiQ6ytATiGnJs6uFluKO) | [Anak Ko](https://open.spotify.com/album/4bENinkpmJmwKz0CL1ZZQ8) | 3:53 |
 | 66 | [May](https://open.spotify.com/track/3hVlV66Z3PfvXwIYOTeZdi) | [Life On Venus](https://open.spotify.com/artist/72cBWuYjXkWxEXqZcoH5kE) | [Encounters](https://open.spotify.com/album/0xeUhrPDwkyFJzOAADD6Bf) | 3:40 |
-| 67 | [On My Own \- 2019 remaster](https://open.spotify.com/track/4Dr5E6cgmQ484OQMDCZ7z0) | [Ulrich Schnauss](https://open.spotify.com/artist/4znPt0HV6Ik0iR8sR4GAJE) | [A Strangely Isolated Place](https://open.spotify.com/album/4FhQ1P2yfmyo1axATOCfR9) | 6:39 |
-| 68 | [Now I Know You Could Never Be The One](https://open.spotify.com/track/5ilQ6xjKxxGDTrQQNDp6Tw) | [The Meeting Places](https://open.spotify.com/artist/1hckZSGJsMebst22D7laUL) | [Find Yourself Along The Way](https://open.spotify.com/album/4VHuHYgCnMW1lsLQQZd0Gl) | 4:02 |
+| 67 | [Now I Know You Could Never Be The One](https://open.spotify.com/track/5ilQ6xjKxxGDTrQQNDp6Tw) | [The Meeting Places](https://open.spotify.com/artist/1hckZSGJsMebst22D7laUL) | [Find Yourself Along The Way](https://open.spotify.com/album/4VHuHYgCnMW1lsLQQZd0Gl) | 4:02 |
+| 68 | [On My Own \- 2019 remaster](https://open.spotify.com/track/4Dr5E6cgmQ484OQMDCZ7z0) | [Ulrich Schnauss](https://open.spotify.com/artist/4znPt0HV6Ik0iR8sR4GAJE) | [A Strangely Isolated Place](https://open.spotify.com/album/4FhQ1P2yfmyo1axATOCfR9) | 6:39 |
 | 69 | [Taste of Cindy](https://open.spotify.com/track/7hyvnzr9Vba4tlvIs9ZHlg) | [The Jesus and Mary Chain](https://open.spotify.com/artist/4rjlerN21ygkIhmUv55irs) | [Psychocandy](https://open.spotify.com/album/0PnzJO3D4i85ALVJPaDpru) | 1:42 |
 | 70 | [Wax and Wane \- 2005 Remaster](https://open.spotify.com/track/4SkKv1DdU52DJHLNZHZB4t) | [Deftones](https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH) | [B\-Sides & Rarities](https://open.spotify.com/album/3hBCkMqaYnCmJciEUKqyfC) | 4:09 |
 | 71 | [Everybody Knows](https://open.spotify.com/track/2YrVbzr33wiGcoKODWOLJI) | [Wooden Shjips](https://open.spotify.com/artist/35rFgnhlSSYflP4HpC3JM0) | [Back to Land](https://open.spotify.com/album/5ucGsqmWnXrx69gHS3ldOV) | 5:18 |
@@ -98,13 +98,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ujZpAN0v9r.md) - [plain]
 | 88 | [Elizabeth Colour Wheel](https://open.spotify.com/track/3CAuQjMgfYJrqSehDwP0nl) | [Lilys](https://open.spotify.com/artist/2IG2KZZiXaYygnWGCC7uEj) | [In the Presence of Nothing](https://open.spotify.com/album/2RWhRlMW0F8urFf7yRLXNP) | 6:58 |
 | 89 | [Runner](https://open.spotify.com/track/0RQxFgbBERaBh9S2GEzXrk) | [Young Prisms](https://open.spotify.com/artist/62Xs9S1gahH6vGEJ24qdkK) | [In Between](https://open.spotify.com/album/01wXcpwki6IvQo0ViDDig1) | 4:33 |
 | 90 | [When I Tried](https://open.spotify.com/track/7h6UX36ASyGiBGq3eUSmi8) | [Widowspeak](https://open.spotify.com/artist/5ZW7HlSuZz8ng2X21cXbdP) | [Expect the Best](https://open.spotify.com/album/085CKONaBN60Vkfpg0cNRM) | 4:42 |
-| 91 | [Silver](https://open.spotify.com/track/21uRZLJ6ro4GOuPtTLAKUi) | [Jesu](https://open.spotify.com/artist/1binm59tmJzoZLvLETVYBP) | [Silver](https://open.spotify.com/album/6uFSBE7OH1GzlMzbfp2MbN) | 6:46 |
-| 92 | [Rave Down](https://open.spotify.com/track/11MgD2LnjAig9KtK0ePJtj) | [Swervedriver](https://open.spotify.com/artist/0Sd7X8SxWV0AyDLbvd4uEu) | [Raise](https://open.spotify.com/album/6dl2WtJnjCL69XLQuMwSJw) | 5:06 |
+| 91 | [Rave Down](https://open.spotify.com/track/11MgD2LnjAig9KtK0ePJtj) | [Swervedriver](https://open.spotify.com/artist/0Sd7X8SxWV0AyDLbvd4uEu) | [Raise](https://open.spotify.com/album/6dl2WtJnjCL69XLQuMwSJw) | 5:06 |
+| 92 | [Silver](https://open.spotify.com/track/21uRZLJ6ro4GOuPtTLAKUi) | [Jesu](https://open.spotify.com/artist/1binm59tmJzoZLvLETVYBP) | [Silver](https://open.spotify.com/album/6uFSBE7OH1GzlMzbfp2MbN) | 6:46 |
 | 93 | [Sword In the Stone](https://open.spotify.com/track/6D4NvZPy1uPdjoPhh1CQMz) | [Gnoomes](https://open.spotify.com/artist/3a4IiCnFeozUcEPbCREbII) | [MU!](https://open.spotify.com/album/3Rgbbvxh8XdL32bJhyQqOY) | 3:28 |
 | 94 | [Ordeal](https://open.spotify.com/track/2ve1LxvPazqDfcr92eL9UL) | [Pale Saints](https://open.spotify.com/artist/0WY2ddzQUF9eh16GiqrElA) | [In Ribbons](https://open.spotify.com/album/0VmunE358t7BiH4hOint6k) | 3:58 |
-| 95 | [The Perfect Needle](https://open.spotify.com/track/17dCSc5Vq1riorH10dNqAS) | [The Telescopes](https://open.spotify.com/artist/5MTQzge85m3QSefD2LdS1J) | [Altered Perception](https://open.spotify.com/album/35FaV3DMDOI7LplP3GDFWo) | 3:28 |
+| 95 | [Our Goal to Realise](https://open.spotify.com/track/6msavmTdvB1jthlRJRGuwZ) | [Amusement Parks On Fire](https://open.spotify.com/artist/6l2cddhlFnBmaLiUM4TyTx) | [Our Goal to Realise](https://open.spotify.com/album/4DXAO9RDzvfI2t5j8URSr1) | 3:17 |
 | 96 | [Something More](https://open.spotify.com/track/1YzjtXhCBByJhUYDK6Vc1P) | [Chapterhouse](https://open.spotify.com/artist/3r94PF71LWRI5K6wqclNjQ) | [Whirlpool \(Expanded Edition\)](https://open.spotify.com/album/5Sc59oKieHPFvruoxBgmSp) | 3:18 |
-| 97 | [Our Goal to Realise](https://open.spotify.com/track/6msavmTdvB1jthlRJRGuwZ) | [Amusement Parks On Fire](https://open.spotify.com/artist/6l2cddhlFnBmaLiUM4TyTx) | [Our Goal to Realise](https://open.spotify.com/album/4DXAO9RDzvfI2t5j8URSr1) | 3:17 |
+| 97 | [The Perfect Needle](https://open.spotify.com/track/17dCSc5Vq1riorH10dNqAS) | [The Telescopes](https://open.spotify.com/artist/5MTQzge85m3QSefD2LdS1J) | [Altered Perception](https://open.spotify.com/album/35FaV3DMDOI7LplP3GDFWo) | 3:28 |
 | 98 | [Not The Time](https://open.spotify.com/track/2kz4JUPAQLcaViOVgYxzfF) | [SASAMI](https://open.spotify.com/artist/4pdoRs7yHNXakMobf8M9Oz) | [Not The Time / Callous](https://open.spotify.com/album/1uXHnCnyJxEXUc8znM3gLU) | 2:50 |
 | 99 | [Love Comes In Waves](https://open.spotify.com/track/2boEyOYahQ5kYuAQnr05B9) | [Andy Bell](https://open.spotify.com/artist/0DCLBHSfbqLoGK3ikLGPxc) | [Love Comes In Waves](https://open.spotify.com/album/6H1YKdZQvIuOVQkKUpOHtR) | 4:48 |
 | 100 | [Chlorine Dream](https://open.spotify.com/track/1XfydTBaDChT4J9K4bng5L) | [Spirea X](https://open.spotify.com/artist/05x3cffNhKts722Xv2WQWb) | [Chlorine Dream](https://open.spotify.com/album/2NzL8CkuLaV683ItjSIKZ1) | 4:24 |
@@ -116,10 +116,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ujZpAN0v9r.md) - [plain]
 | 106 | [A House Wife Love Song](https://open.spotify.com/track/57oNds15RN6allNb0YIPSD) | [Starflyer 59](https://open.spotify.com/artist/3OyC0tKaejLvZHB4s78zED) | [Gold](https://open.spotify.com/album/4IlB3r32E8AFwHcpFko7ks) | 4:13 |
 | 107 | [Vapour](https://open.spotify.com/track/1PsqU9ouv5JaRpdygiv6eu) | [Loop](https://open.spotify.com/artist/0ReGrqp2iQLy9fySkDCIDh) | [A Gilded Eternity](https://open.spotify.com/album/6EnYB0SzDQeAUN7qLgCIPs) | 6:07 |
 | 108 | [Dive](https://open.spotify.com/track/3fBK91aUmHgoPavxj1Zgw7) | [The Soft Cavalry](https://open.spotify.com/artist/4e9FOKctNAC68ii4bR9ucZ) | [The Soft Cavalry](https://open.spotify.com/album/6Psa9gTLJgpYfoxw2XVOXJ) | 4:15 |
-| 109 | [It's Tomorrow Now](https://open.spotify.com/track/1Irzaug5sXyEihpgib5I6e) | [Flyying Colours](https://open.spotify.com/artist/3gsBHfj2Ps8IiXEPSexY0Z) | [Mindfullness](https://open.spotify.com/album/2ceiJap2OkHmYT4CNjHrJz) | 3:43 |
-| 110 | [Reverence](https://open.spotify.com/track/2ox2saGAHVx9mhjk8WH50K) | [The Jesus and Mary Chain](https://open.spotify.com/artist/4rjlerN21ygkIhmUv55irs) | [Honey's Dead](https://open.spotify.com/album/1hsluRV3WUPpeSXSdSL5HF) | 3:40 |
-| 111 | [Landing](https://open.spotify.com/track/6HFea6OugOVC4BPgCkDF2d) | [Fragile Animals](https://open.spotify.com/artist/3gyJTWjf5CdT9tuQVAcwq7) | [Landing](https://open.spotify.com/album/2dsjW7n8LYL2i0IcZQ1zN8) | 3:52 |
-| 112 | [Boyfriend](https://open.spotify.com/track/4TRvZ3a6QTEKbq1CsUePJp) | [Majesty Crush](https://open.spotify.com/artist/0qRadykocaVqX7C4WM8b4t) | [No\. 1 Fan](https://open.spotify.com/album/7plmL8rLmskhVCJ4uXWjXG) | 4:22 |
+| 109 | [Reverence](https://open.spotify.com/track/2ox2saGAHVx9mhjk8WH50K) | [The Jesus and Mary Chain](https://open.spotify.com/artist/4rjlerN21ygkIhmUv55irs) | [Honey's Dead](https://open.spotify.com/album/1hsluRV3WUPpeSXSdSL5HF) | 3:40 |
+| 110 | [It's Tomorrow Now](https://open.spotify.com/track/1Irzaug5sXyEihpgib5I6e) | [Flyying Colours](https://open.spotify.com/artist/3gsBHfj2Ps8IiXEPSexY0Z) | [Mindfullness](https://open.spotify.com/album/2ceiJap2OkHmYT4CNjHrJz) | 3:43 |
+| 111 | [Boyfriend](https://open.spotify.com/track/4TRvZ3a6QTEKbq1CsUePJp) | [Majesty Crush](https://open.spotify.com/artist/0qRadykocaVqX7C4WM8b4t) | [No\. 1 Fan](https://open.spotify.com/album/7plmL8rLmskhVCJ4uXWjXG) | 4:22 |
+| 112 | [Landing](https://open.spotify.com/track/6HFea6OugOVC4BPgCkDF2d) | [Fragile Animals](https://open.spotify.com/artist/3gyJTWjf5CdT9tuQVAcwq7) | [Landing](https://open.spotify.com/album/2dsjW7n8LYL2i0IcZQ1zN8) | 3:52 |
 | 113 | [We’re Not Done \(End Title\)](https://open.spotify.com/track/1RBGSieBtIBvojx80RwOfZ) | [Mogwai](https://open.spotify.com/artist/34UhPkLbtFKRq3nmfFgejG) | [KIN](https://open.spotify.com/album/20VOMBfnJraeZ0BQ4aPuqd) | 4:14 |
 | 114 | [Heavy Water / I'd Rather Be Sleeping](https://open.spotify.com/track/2lKvOmRdGrctk2AMPcKhjn) | [Nothing](https://open.spotify.com/artist/6wgWGtoBlNofKC6Z1i4yyW) | [Heavy Water / I'd Rather Be Sleeping](https://open.spotify.com/album/5vMsogprlxHsjreQ57Zz8d) | 4:08 |
 | 115 | [A Fading Smile](https://open.spotify.com/track/4zV1IR8ZGLMWgBbVNGnYgd) | [Alcian Blue](https://open.spotify.com/artist/3hIgKWB9U0IMNJsBLfixET) | [Years Too Late](https://open.spotify.com/album/3HEEpQxUXRB7GX9HUcwu6v) | 4:20 |
@@ -152,4 +152,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ujZpAN0v9r.md) - [plain]
 | 142 | [Solar Song](https://open.spotify.com/track/02TfEK4pbzgVlrB5mSMTCP) | [Alcest](https://open.spotify.com/artist/0d5ZwMtCer8dQdOPAgWhe7) | [Écailles de lune](https://open.spotify.com/album/6b9NZDM5QhD2FViyXKwBRT) | 5:24 |
 | 143 | [Tastes Like Honey](https://open.spotify.com/track/7801eWQNK09cfzQ5By5n8T) | [Swallow](https://open.spotify.com/artist/6HXzAVwfQyS92X8UN6JVAu) | [Blow](https://open.spotify.com/album/1Zy8fVIXPCW8Y0K0xpd7Cz) | 4:41 |
 
-Snapshot ID: `MCxhM2FhNDcxOTMyYmRmODQxYTNhYmZlOTY1ZDNhMjljNTkyZjdjMDhl`
+Snapshot ID: `MCwxMmFiNjVkMTY0ODc5ZThlOTFmYjAyNTUyNmI0Nzc5ODQzNzJmNmQ1`

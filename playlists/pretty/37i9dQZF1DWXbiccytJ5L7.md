@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXbiccytJ5L7.md) - [plain]
 
 > Country rap hits of today and tomorrow.
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,065 likes - 74 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,356 likes - 74 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXbiccytJ5L7.md) - [plain]
 | 27 | [Great Minds Drink Alike \(feat\. Craig Campbell\)](https://open.spotify.com/track/6MIHb0TCLHc9vKvYjCFpGX) | [The Lacs](https://open.spotify.com/artist/23OFz99wX0NDBBwrxthLWU), [Craig Campbell](https://open.spotify.com/artist/7tkwiWhGKSuQV8LwPWceWN) | [Great Minds Drink Alike \(feat\. Craig Campbell\)](https://open.spotify.com/album/1RdK3jKTZ82qiT8ikSMQad) | 3:28 |
 | 28 | [If That Ain't Country](https://open.spotify.com/track/2bWaQyC68Bt7FSXCACY2aN) | [Jessta James](https://open.spotify.com/artist/35Gl3ugDwfqKvwOrlHcQqK) | [Time to Get Right](https://open.spotify.com/album/5DULWTKKsU4R7aXFOfo3OB) | 4:15 |
 | 29 | [Escape](https://open.spotify.com/track/3dqB7rcjQOck6MbWfV4Nhd) | [Chevy Woods](https://open.spotify.com/artist/6hSbppor1AmH9RGzyxOcGT) | [Since Birth](https://open.spotify.com/album/00TQLFYMVs0VjBsHLiASzh) | 2:30 |
-| 30 | [Confetti](https://open.spotify.com/track/3YP3VB9FEdbAzoC9RZ5frW) | [Shelbykay](https://open.spotify.com/artist/6VlMPSbIYyHng6Xx1JmnXD) | [Confetti](https://open.spotify.com/album/57UcRsgqFNbrjUa1iDmAbv) | 2:03 |
+| 30 | [Confetti](https://open.spotify.com/track/1xnC3VLI8sHm3nh60q4Hzo) | [Shelbykay](https://open.spotify.com/artist/6VlMPSbIYyHng6Xx1JmnXD) | [Confetti](https://open.spotify.com/album/3CZ9ox5C5n3dWT4OIX9aTg) | 2:03 |
 | 31 | [Country Hustlas](https://open.spotify.com/track/6zTa0edMoxQoTvyCxVU9Rs) | [Bezz Believe](https://open.spotify.com/artist/0J7ABQoXv0zSACmQXz8nqq), [Colt Ford](https://open.spotify.com/artist/0OpWIlokQeE7BNQMhuu2Nx) | [Country Hustlas](https://open.spotify.com/album/62NS1EdORVN8R347I5nJIW) | 3:06 |
 | 32 | [Country Boy Swag](https://open.spotify.com/track/3rbRSCT3RPBl5J1o1ihANo) | [Cypress Spring](https://open.spotify.com/artist/23PFGrmuqJvklNT9ikqXaC) | [Denim](https://open.spotify.com/album/3gTeJEis7kNTvgExDq4GVT) | 3:30 |
 | 33 | [Square Body](https://open.spotify.com/track/4O5q0TmgkMxvf7ksLINGCW) | [Shotgun Shane](https://open.spotify.com/artist/0t4OC45mZTJBIjcIJmu4xw) | [The Reload 2.0](https://open.spotify.com/album/1vqjfnMlzdUQ3TaVLD7Rsk) | 3:47 |
@@ -83,4 +83,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXbiccytJ5L7.md) - [plain]
 | 73 | [B.Y.O.B.](https://open.spotify.com/track/0eV8jHjIz5mC4hrDcARzur) | [Norman North](https://open.spotify.com/artist/3qKHegS8r4Q08xagEIJwez) | [B.Y.O.B.](https://open.spotify.com/album/5ax0ni9GqPz5ClUlFGw3bR) | 1:48 |
 | 74 | [Kickin It In Tennessee](https://open.spotify.com/track/00tjbaCO1fXTdFdCrQH09L) | [SMO](https://open.spotify.com/artist/06zS0fTnfMX9Bg3UTfKbD9) | [American Made](https://open.spotify.com/album/1etK14fl8H9iwvaaEBobXU) | 4:28 |
 
-Snapshot ID: `MCw3MDIzZjM1NjNhNGQ3OGQyYTBjZmM0Nzg4MjlhMzk1YmE5MDhlZDUx`
+Snapshot ID: `MCxlMjFlZDNiNDc4ZDNmNWMwMTlkYmEyMjIzMGFiNDM2NmZkN2E5Mjc3`

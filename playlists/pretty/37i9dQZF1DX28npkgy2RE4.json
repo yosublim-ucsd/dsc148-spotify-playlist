@@ -1,12 +1,12 @@
 {
   "description": "New styles, deep sounds. Cover: Scott McMicken and THE EVER-EXPANDING",
-  "num_followers": 403956,
+  "num_followers": 404113,
   "original_name": "Modern Eclectic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmNWM4NDNmMmU5M2YyOGJmMzMzNThjYmEzM2MyZTlmZTVmMDQ4Mjky",
+  "snapshot_id": "MCw4MmM5ZmUzN2ExNDg5NmE3OTViMmQzZDM5YjUzNzM3YjkyNGFjZjZm",
   "tracks": [
     {
       "added_at": "2023-05-12 04:00:00",
@@ -891,22 +891,6 @@
     {
       "added_at": "2023-05-12 04:00:00",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/2cWqFyCDTBXrTx5hy86qK5"
-      },
-      "artists": [
-        {
-          "name": "Father John Misty",
-          "url": "https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT"
-        }
-      ],
-      "duration_ms": 265687,
-      "name": "Everything Is Free - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/0mZdT3W9e1UyJlSXMV6xL0"
-    },
-    {
-      "added_at": "2023-05-12 04:00:00",
-      "album": {
         "name": "songs",
         "url": "https://open.spotify.com/album/2Qt8Z1LB3Fsrf6nhBNsvUJ"
       },
@@ -919,6 +903,22 @@
       "duration_ms": 164224,
       "name": "zombie girl",
       "url": "https://open.spotify.com/track/3v2OxIsGWJXWfLuRkB59Q6"
+    },
+    {
+      "added_at": "2023-05-12 04:00:00",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/2cWqFyCDTBXrTx5hy86qK5"
+      },
+      "artists": [
+        {
+          "name": "Father John Misty",
+          "url": "https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT"
+        }
+      ],
+      "duration_ms": 265687,
+      "name": "Everything Is Free - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/0mZdT3W9e1UyJlSXMV6xL0"
     },
     {
       "added_at": "2023-05-12 04:00:00",
@@ -939,22 +939,6 @@
     {
       "added_at": "2023-05-12 04:00:00",
       "album": {
-        "name": "The Pool",
-        "url": "https://open.spotify.com/album/7FEdabAF4tVaiXTCmykn2t"
-      },
-      "artists": [
-        {
-          "name": "River Whyless",
-          "url": "https://open.spotify.com/artist/7gRGh8w4G9zaFJSaIYp8HH"
-        }
-      ],
-      "duration_ms": 242562,
-      "name": "The Pool",
-      "url": "https://open.spotify.com/track/3I8Y491lACYzJTM8fmIWdI"
-    },
-    {
-      "added_at": "2023-05-12 04:00:00",
-      "album": {
         "name": "U.F.O.F.",
         "url": "https://open.spotify.com/album/0sLnNGW4PzCYFQ4Pn7aVCP"
       },
@@ -967,6 +951,22 @@
       "duration_ms": 188413,
       "name": "UFOF",
       "url": "https://open.spotify.com/track/3Hbwbuk3ChdUf7M6Cn7uQB"
+    },
+    {
+      "added_at": "2023-05-12 04:00:00",
+      "album": {
+        "name": "The Pool",
+        "url": "https://open.spotify.com/album/7FEdabAF4tVaiXTCmykn2t"
+      },
+      "artists": [
+        {
+          "name": "River Whyless",
+          "url": "https://open.spotify.com/artist/7gRGh8w4G9zaFJSaIYp8HH"
+        }
+      ],
+      "duration_ms": 242562,
+      "name": "The Pool",
+      "url": "https://open.spotify.com/track/3I8Y491lACYzJTM8fmIWdI"
     },
     {
       "added_at": "2023-05-12 04:00:00",
@@ -1003,22 +1003,6 @@
     {
       "added_at": "2023-05-12 04:00:00",
       "album": {
-        "name": "Terms of Surrender",
-        "url": "https://open.spotify.com/album/4eKRqA554vK2k4khe190Yu"
-      },
-      "artists": [
-        {
-          "name": "Hiss Golden Messenger",
-          "url": "https://open.spotify.com/artist/37eqxl8DyLd5sQN54wYJbE"
-        }
-      ],
-      "duration_ms": 197596,
-      "name": "I Need a Teacher",
-      "url": "https://open.spotify.com/track/7nvAdiuXhFeHICyy2OzOcS"
-    },
-    {
-      "added_at": "2023-05-12 04:00:00",
-      "album": {
         "name": "Good Luck, Kid",
         "url": "https://open.spotify.com/album/4Nz2TKH4snc8EZMhsMDjgi"
       },
@@ -1031,6 +1015,22 @@
       "duration_ms": 223453,
       "name": "Side Effects",
       "url": "https://open.spotify.com/track/7l1JgKKbTh8n0o1ya4j67k"
+    },
+    {
+      "added_at": "2023-05-12 04:00:00",
+      "album": {
+        "name": "Terms of Surrender",
+        "url": "https://open.spotify.com/album/4eKRqA554vK2k4khe190Yu"
+      },
+      "artists": [
+        {
+          "name": "Hiss Golden Messenger",
+          "url": "https://open.spotify.com/artist/37eqxl8DyLd5sQN54wYJbE"
+        }
+      ],
+      "duration_ms": 197596,
+      "name": "I Need a Teacher",
+      "url": "https://open.spotify.com/track/7nvAdiuXhFeHICyy2OzOcS"
     },
     {
       "added_at": "2023-05-12 04:00:00",
@@ -1343,22 +1343,6 @@
     {
       "added_at": "2023-05-12 04:00:00",
       "album": {
-        "name": "Mermaid Salt",
-        "url": "https://open.spotify.com/album/4cHIQEuXoRCoeIZZ8mmjdD"
-      },
-      "artists": [
-        {
-          "name": "John Craigie",
-          "url": "https://open.spotify.com/artist/7ytgyYmtUPfxXHsXEvgObK"
-        }
-      ],
-      "duration_ms": 335859,
-      "name": "Microdose",
-      "url": "https://open.spotify.com/track/1EdPgv2qJv1wu1zHsFfR1v"
-    },
-    {
-      "added_at": "2023-05-12 04:00:00",
-      "album": {
         "name": "Tides of a Teardrop",
         "url": "https://open.spotify.com/album/2SWy4Nbpw77DzLkwXba7Hk"
       },
@@ -1371,6 +1355,22 @@
       "duration_ms": 245653,
       "name": "The Wolves",
       "url": "https://open.spotify.com/track/0n7eIgN6SqXohLpAEd27Jr"
+    },
+    {
+      "added_at": "2023-05-12 04:00:00",
+      "album": {
+        "name": "Mermaid Salt",
+        "url": "https://open.spotify.com/album/4cHIQEuXoRCoeIZZ8mmjdD"
+      },
+      "artists": [
+        {
+          "name": "John Craigie",
+          "url": "https://open.spotify.com/artist/7ytgyYmtUPfxXHsXEvgObK"
+        }
+      ],
+      "duration_ms": 335859,
+      "name": "Microdose",
+      "url": "https://open.spotify.com/track/1EdPgv2qJv1wu1zHsFfR1v"
     },
     {
       "added_at": "2023-05-12 04:00:00",
@@ -1423,6 +1423,22 @@
     {
       "added_at": "2023-05-12 04:00:00",
       "album": {
+        "name": "In The Blossom of Their Shade",
+        "url": "https://open.spotify.com/album/34QLCed0oGYCeSJLSNQmuf"
+      },
+      "artists": [
+        {
+          "name": "Pokey LaFarge",
+          "url": "https://open.spotify.com/artist/6hAUCkzZpoYGObd8qFW5TT"
+        }
+      ],
+      "duration_ms": 214747,
+      "name": "Get It \u2018Fore It\u2019s Gone",
+      "url": "https://open.spotify.com/track/6bFQTxFd9QCL8te5fbjt8i"
+    },
+    {
+      "added_at": "2023-05-12 04:00:00",
+      "album": {
         "name": "I Know You Know Me (With Matt Berninger)",
         "url": "https://open.spotify.com/album/1nwWS8W1o0Q0CE4SL7m8tW"
       },
@@ -1439,22 +1455,6 @@
       "duration_ms": 199123,
       "name": "I Know You Know Me (With Matt Berninger)",
       "url": "https://open.spotify.com/track/3nQbf8wfMOkKeLRe45kNFc"
-    },
-    {
-      "added_at": "2023-05-12 04:00:00",
-      "album": {
-        "name": "In The Blossom of Their Shade",
-        "url": "https://open.spotify.com/album/34QLCed0oGYCeSJLSNQmuf"
-      },
-      "artists": [
-        {
-          "name": "Pokey LaFarge",
-          "url": "https://open.spotify.com/artist/6hAUCkzZpoYGObd8qFW5TT"
-        }
-      ],
-      "duration_ms": 214747,
-      "name": "Get It \u2018Fore It\u2019s Gone",
-      "url": "https://open.spotify.com/track/6bFQTxFd9QCL8te5fbjt8i"
     },
     {
       "added_at": "2023-05-12 04:00:00",
@@ -1611,22 +1611,6 @@
     {
       "added_at": "2023-05-12 04:00:00",
       "album": {
-        "name": "Different Kinds of Light",
-        "url": "https://open.spotify.com/album/1f1u0MpV823YGBjQBb8JJ9"
-      },
-      "artists": [
-        {
-          "name": "Jade Bird",
-          "url": "https://open.spotify.com/artist/7D8LuVnlyu91ndcPe70j7S"
-        }
-      ],
-      "duration_ms": 215493,
-      "name": "Now is the Time",
-      "url": "https://open.spotify.com/track/5PiY6q31Ps3st88R3wNLhE"
-    },
-    {
-      "added_at": "2023-05-12 04:00:00",
-      "album": {
         "name": "Still Life (feat. Joseph)",
         "url": "https://open.spotify.com/album/3Xk3lT15u68kn5kxyCdGGs"
       },
@@ -1643,6 +1627,22 @@
       "duration_ms": 228866,
       "name": "Still Life (feat. Joseph)",
       "url": "https://open.spotify.com/track/1Lp6ewfK7ABZWemResfRyK"
+    },
+    {
+      "added_at": "2023-05-12 04:00:00",
+      "album": {
+        "name": "Different Kinds of Light",
+        "url": "https://open.spotify.com/album/1f1u0MpV823YGBjQBb8JJ9"
+      },
+      "artists": [
+        {
+          "name": "Jade Bird",
+          "url": "https://open.spotify.com/artist/7D8LuVnlyu91ndcPe70j7S"
+        }
+      ],
+      "duration_ms": 215493,
+      "name": "Now is the Time",
+      "url": "https://open.spotify.com/track/5PiY6q31Ps3st88R3wNLhE"
     },
     {
       "added_at": "2023-05-12 04:00:00",
@@ -1811,22 +1811,6 @@
     {
       "added_at": "2023-05-12 04:00:00",
       "album": {
-        "name": "San Isabel",
-        "url": "https://open.spotify.com/album/0ujviO24y6WGV1KQwkcwIv"
-      },
-      "artists": [
-        {
-          "name": "Jamestown Revival",
-          "url": "https://open.spotify.com/artist/4w1ZBtHF0HxrGqQdB7i1it"
-        }
-      ],
-      "duration_ms": 280813,
-      "name": "Crazy World (Judgement Day)",
-      "url": "https://open.spotify.com/track/0ZLvbkO8VwaNhV9aS1yi6T"
-    },
-    {
-      "added_at": "2023-05-12 04:00:00",
-      "album": {
         "name": "Blue Over Blue",
         "url": "https://open.spotify.com/album/4MdmtxBC2ByJnRWWsYXzw7"
       },
@@ -1839,6 +1823,22 @@
       "duration_ms": 196666,
       "name": "Blue Over Blue",
       "url": "https://open.spotify.com/track/3GHxQ1rlb8nvZEYRrB7eB2"
+    },
+    {
+      "added_at": "2023-05-12 04:00:00",
+      "album": {
+        "name": "San Isabel",
+        "url": "https://open.spotify.com/album/0ujviO24y6WGV1KQwkcwIv"
+      },
+      "artists": [
+        {
+          "name": "Jamestown Revival",
+          "url": "https://open.spotify.com/artist/4w1ZBtHF0HxrGqQdB7i1it"
+        }
+      ],
+      "duration_ms": 280813,
+      "name": "Crazy World (Judgement Day)",
+      "url": "https://open.spotify.com/track/0ZLvbkO8VwaNhV9aS1yi6T"
     },
     {
       "added_at": "2023-05-12 04:00:00",
@@ -1875,22 +1875,6 @@
     {
       "added_at": "2023-05-12 04:00:00",
       "album": {
-        "name": "Turn Off The News (Build A Garden)",
-        "url": "https://open.spotify.com/album/4pq1gNWh38JQfazZqxjH5m"
-      },
-      "artists": [
-        {
-          "name": "Lukas Nelson and Promise of the Real",
-          "url": "https://open.spotify.com/artist/5iXYJYmMcjlTFL1qA8UfgY"
-        }
-      ],
-      "duration_ms": 181349,
-      "name": "Turn Off The News (Build A Garden) - Acoustic",
-      "url": "https://open.spotify.com/track/2MveWLaASfY6eQb0IpSxzq"
-    },
-    {
-      "added_at": "2023-05-12 04:00:00",
-      "album": {
         "name": "I (motsi)",
         "url": "https://open.spotify.com/album/5MMU5axa9ADuQuhoeoah4G"
       },
@@ -1903,6 +1887,22 @@
       "duration_ms": 197437,
       "name": "It's a good day (to fight the system)",
       "url": "https://open.spotify.com/track/0NB9wJK1drissTXrrgj63w"
+    },
+    {
+      "added_at": "2023-05-12 04:00:00",
+      "album": {
+        "name": "Turn Off The News (Build A Garden)",
+        "url": "https://open.spotify.com/album/4pq1gNWh38JQfazZqxjH5m"
+      },
+      "artists": [
+        {
+          "name": "Lukas Nelson and Promise of the Real",
+          "url": "https://open.spotify.com/artist/5iXYJYmMcjlTFL1qA8UfgY"
+        }
+      ],
+      "duration_ms": 181349,
+      "name": "Turn Off The News (Build A Garden) - Acoustic",
+      "url": "https://open.spotify.com/track/2MveWLaASfY6eQb0IpSxzq"
     },
     {
       "added_at": "2023-05-12 04:00:00",
@@ -1927,22 +1927,22 @@
     {
       "added_at": "2023-05-12 04:00:00",
       "album": {
-        "name": "Snowplow",
-        "url": "https://open.spotify.com/album/2pvt0zp6tTBZdF1HZ50LsQ"
+        "name": "Boleros Psicod\u00e9licos",
+        "url": "https://open.spotify.com/album/2IjLewGcgMJMEAO5gHWwlG"
       },
       "artists": [
         {
-          "name": "Runnner",
-          "url": "https://open.spotify.com/artist/7adlRX57hqe6Pc4YHrSGG0"
+          "name": "Adrian Quesada",
+          "url": "https://open.spotify.com/artist/07YivsJVCrmhhjzBcBtMGv"
         },
         {
-          "name": "Skullcrusher",
-          "url": "https://open.spotify.com/artist/1GUaQ6GpaxFPKZ0SCSsnwD"
+          "name": "iLe",
+          "url": "https://open.spotify.com/artist/1CztIa6fCQ0WmVPidXuwSs"
         }
       ],
-      "duration_ms": 161776,
-      "name": "Snowplow",
-      "url": "https://open.spotify.com/track/6LvRXtQfbvMF7m0hNQu5eF"
+      "duration_ms": 228693,
+      "name": "Mentiras Con Cari\u00f1o",
+      "url": "https://open.spotify.com/track/7H7c9Ih5yj4158AM8BF49z"
     },
     {
       "added_at": "2023-05-12 04:00:00",
@@ -1967,22 +1967,22 @@
     {
       "added_at": "2023-05-12 04:00:00",
       "album": {
-        "name": "Boleros Psicod\u00e9licos",
-        "url": "https://open.spotify.com/album/2IjLewGcgMJMEAO5gHWwlG"
+        "name": "Snowplow",
+        "url": "https://open.spotify.com/album/2pvt0zp6tTBZdF1HZ50LsQ"
       },
       "artists": [
         {
-          "name": "Adrian Quesada",
-          "url": "https://open.spotify.com/artist/07YivsJVCrmhhjzBcBtMGv"
+          "name": "Runnner",
+          "url": "https://open.spotify.com/artist/7adlRX57hqe6Pc4YHrSGG0"
         },
         {
-          "name": "iLe",
-          "url": "https://open.spotify.com/artist/1CztIa6fCQ0WmVPidXuwSs"
+          "name": "Skullcrusher",
+          "url": "https://open.spotify.com/artist/1GUaQ6GpaxFPKZ0SCSsnwD"
         }
       ],
-      "duration_ms": 228693,
-      "name": "Mentiras Con Cari\u00f1o",
-      "url": "https://open.spotify.com/track/7H7c9Ih5yj4158AM8BF49z"
+      "duration_ms": 161776,
+      "name": "Snowplow",
+      "url": "https://open.spotify.com/track/6LvRXtQfbvMF7m0hNQu5eF"
     },
     {
       "added_at": "2023-05-12 04:00:00",
@@ -2003,22 +2003,18 @@
     {
       "added_at": "2023-05-12 04:00:00",
       "album": {
-        "name": "Seventeen Again (feat. Novo Amor)",
-        "url": "https://open.spotify.com/album/5f60fAxPrT39rjbmNssvvR"
+        "name": "Easy Way",
+        "url": "https://open.spotify.com/album/28RycHmG72yoKVXZ7X3PEg"
       },
       "artists": [
         {
-          "name": "Charli Adams",
-          "url": "https://open.spotify.com/artist/2RzQznPCFWvnq3wBh0zzD2"
-        },
-        {
-          "name": "Novo Amor",
-          "url": "https://open.spotify.com/artist/0rZp7G3gIH6WkyeXbrZnGi"
+          "name": "The Cactus Blossoms",
+          "url": "https://open.spotify.com/artist/7kWwQAe9JnYNMk4kuEe73S"
         }
       ],
-      "duration_ms": 204520,
-      "name": "Seventeen Again (feat. Novo Amor)",
-      "url": "https://open.spotify.com/track/1Qcx39jI9pjoTrURXuk3QY"
+      "duration_ms": 182826,
+      "name": "Got a Lotta Love",
+      "url": "https://open.spotify.com/track/0MIFQg8ak1p21EeHK2JrJg"
     },
     {
       "added_at": "2023-05-12 04:00:00",
@@ -2039,18 +2035,22 @@
     {
       "added_at": "2023-05-12 04:00:00",
       "album": {
-        "name": "Easy Way",
-        "url": "https://open.spotify.com/album/28RycHmG72yoKVXZ7X3PEg"
+        "name": "Seventeen Again (feat. Novo Amor)",
+        "url": "https://open.spotify.com/album/5f60fAxPrT39rjbmNssvvR"
       },
       "artists": [
         {
-          "name": "The Cactus Blossoms",
-          "url": "https://open.spotify.com/artist/7kWwQAe9JnYNMk4kuEe73S"
+          "name": "Charli Adams",
+          "url": "https://open.spotify.com/artist/2RzQznPCFWvnq3wBh0zzD2"
+        },
+        {
+          "name": "Novo Amor",
+          "url": "https://open.spotify.com/artist/0rZp7G3gIH6WkyeXbrZnGi"
         }
       ],
-      "duration_ms": 182826,
-      "name": "Got a Lotta Love",
-      "url": "https://open.spotify.com/track/0MIFQg8ak1p21EeHK2JrJg"
+      "duration_ms": 204520,
+      "name": "Seventeen Again (feat. Novo Amor)",
+      "url": "https://open.spotify.com/track/1Qcx39jI9pjoTrURXuk3QY"
     },
     {
       "added_at": "2023-05-12 04:00:00",
@@ -2103,22 +2103,6 @@
     {
       "added_at": "2023-05-12 04:00:00",
       "album": {
-        "name": "Yard Sale",
-        "url": "https://open.spotify.com/album/64RqRL8VVYKW7wsh3KY7Oa"
-      },
-      "artists": [
-        {
-          "name": "The Brook & The Bluff",
-          "url": "https://open.spotify.com/artist/4dWtsQvuME6tCWFycaTvO7"
-        }
-      ],
-      "duration_ms": 203547,
-      "name": "Doobie Bronson",
-      "url": "https://open.spotify.com/track/4c57bsRSaFavDqPKxYW2nR"
-    },
-    {
-      "added_at": "2023-05-12 04:00:00",
-      "album": {
         "name": "True Love",
         "url": "https://open.spotify.com/album/1rUuIrTj6F1PHo3v9Vlbl6"
       },
@@ -2131,6 +2115,22 @@
       "duration_ms": 222586,
       "name": "Blindsided",
       "url": "https://open.spotify.com/track/0lPCROErEeqqqzwRMMXJHR"
+    },
+    {
+      "added_at": "2023-05-12 04:00:00",
+      "album": {
+        "name": "Yard Sale",
+        "url": "https://open.spotify.com/album/64RqRL8VVYKW7wsh3KY7Oa"
+      },
+      "artists": [
+        {
+          "name": "The Brook & The Bluff",
+          "url": "https://open.spotify.com/artist/4dWtsQvuME6tCWFycaTvO7"
+        }
+      ],
+      "duration_ms": 203547,
+      "name": "Doobie Bronson",
+      "url": "https://open.spotify.com/track/4c57bsRSaFavDqPKxYW2nR"
     },
     {
       "added_at": "2023-05-12 04:00:00",
@@ -2203,22 +2203,6 @@
     {
       "added_at": "2023-05-12 04:00:00",
       "album": {
-        "name": "LIFE ON EARTH",
-        "url": "https://open.spotify.com/album/5oHaiGt9cgATxsrv409jP3"
-      },
-      "artists": [
-        {
-          "name": "Hurray For The Riff Raff",
-          "url": "https://open.spotify.com/artist/2xLEV2jDreAOcpJXFNoXyt"
-        }
-      ],
-      "duration_ms": 242053,
-      "name": "PIERCED ARROWS",
-      "url": "https://open.spotify.com/track/2wEYO3Vg0gv5xK4iAMfHBz"
-    },
-    {
-      "added_at": "2023-05-12 04:00:00",
-      "album": {
         "name": "Into the Depths of Hell",
         "url": "https://open.spotify.com/album/7BMZsEBUvcUTxTjnhXbl9c"
       },
@@ -2231,6 +2215,22 @@
       "duration_ms": 205875,
       "name": "Under the Concrete",
       "url": "https://open.spotify.com/track/0P3tGih9Q0WCRZObKwCujT"
+    },
+    {
+      "added_at": "2023-05-12 04:00:00",
+      "album": {
+        "name": "LIFE ON EARTH",
+        "url": "https://open.spotify.com/album/5oHaiGt9cgATxsrv409jP3"
+      },
+      "artists": [
+        {
+          "name": "Hurray For The Riff Raff",
+          "url": "https://open.spotify.com/artist/2xLEV2jDreAOcpJXFNoXyt"
+        }
+      ],
+      "duration_ms": 242053,
+      "name": "PIERCED ARROWS",
+      "url": "https://open.spotify.com/track/2wEYO3Vg0gv5xK4iAMfHBz"
     },
     {
       "added_at": "2023-05-12 04:00:00",
@@ -2315,22 +2315,6 @@
     {
       "added_at": "2023-05-12 04:00:00",
       "album": {
-        "name": "Speaking With Trees",
-        "url": "https://open.spotify.com/album/7Am6XsfbP9x6yxCxtnKSAB"
-      },
-      "artists": [
-        {
-          "name": "Tori Amos",
-          "url": "https://open.spotify.com/artist/1KsASRNugxU85T0u6zSg32"
-        }
-      ],
-      "duration_ms": 235413,
-      "name": "Speaking With Trees",
-      "url": "https://open.spotify.com/track/4g7Jknv7dTQ1IDoqsBTg8N"
-    },
-    {
-      "added_at": "2023-05-12 04:00:00",
-      "album": {
         "name": "Requiem",
         "url": "https://open.spotify.com/album/4Xr1qkaJY6ICHp7nh1rzec"
       },
@@ -2347,18 +2331,18 @@
     {
       "added_at": "2023-05-12 04:00:00",
       "album": {
-        "name": "Filming School",
-        "url": "https://open.spotify.com/album/3t5QsHVDqA1HCLWCZBHdLl"
+        "name": "Speaking With Trees",
+        "url": "https://open.spotify.com/album/7Am6XsfbP9x6yxCxtnKSAB"
       },
       "artists": [
         {
-          "name": "Sidney Gish",
-          "url": "https://open.spotify.com/artist/2orBKFyc84jo9AZH5jarhI"
+          "name": "Tori Amos",
+          "url": "https://open.spotify.com/artist/1KsASRNugxU85T0u6zSg32"
         }
       ],
-      "duration_ms": 190746,
-      "name": "Filming School",
-      "url": "https://open.spotify.com/track/5Wk8ShrY6d6d43wHrAdIJr"
+      "duration_ms": 235413,
+      "name": "Speaking With Trees",
+      "url": "https://open.spotify.com/track/4g7Jknv7dTQ1IDoqsBTg8N"
     },
     {
       "added_at": "2023-05-12 04:00:00",
@@ -2379,18 +2363,34 @@
     {
       "added_at": "2023-05-12 04:00:00",
       "album": {
-        "name": "Mariachi Static",
-        "url": "https://open.spotify.com/album/1f7tVn8Ff2Nr3PesnIi9HE"
+        "name": "Practice Magic and Seek Professional Help When Necessary",
+        "url": "https://open.spotify.com/album/2f5KpUAT9lDedlKG3PQLQz"
       },
       "artists": [
         {
-          "name": "Izaak Opatz",
-          "url": "https://open.spotify.com/artist/0ISWBim1mBiZ7bw6tXad3G"
+          "name": "T\u014dth",
+          "url": "https://open.spotify.com/artist/02nqs3YdfX7Th3gYTYFrqc"
         }
       ],
-      "duration_ms": 238680,
-      "name": "Not Yet",
-      "url": "https://open.spotify.com/track/3kVWSiAW7f42Lk7csxJ1VN"
+      "duration_ms": 161972,
+      "name": "Song to Make You Fall in Love With Me",
+      "url": "https://open.spotify.com/track/6uamXLhBaOLWaDkaftKTzr"
+    },
+    {
+      "added_at": "2023-05-12 04:00:00",
+      "album": {
+        "name": "Filming School",
+        "url": "https://open.spotify.com/album/3t5QsHVDqA1HCLWCZBHdLl"
+      },
+      "artists": [
+        {
+          "name": "Sidney Gish",
+          "url": "https://open.spotify.com/artist/2orBKFyc84jo9AZH5jarhI"
+        }
+      ],
+      "duration_ms": 190746,
+      "name": "Filming School",
+      "url": "https://open.spotify.com/track/5Wk8ShrY6d6d43wHrAdIJr"
     },
     {
       "added_at": "2023-05-12 04:00:00",
@@ -2411,18 +2411,18 @@
     {
       "added_at": "2023-05-12 04:00:00",
       "album": {
-        "name": "Practice Magic and Seek Professional Help When Necessary",
-        "url": "https://open.spotify.com/album/2f5KpUAT9lDedlKG3PQLQz"
+        "name": "Mariachi Static",
+        "url": "https://open.spotify.com/album/1f7tVn8Ff2Nr3PesnIi9HE"
       },
       "artists": [
         {
-          "name": "T\u014dth",
-          "url": "https://open.spotify.com/artist/02nqs3YdfX7Th3gYTYFrqc"
+          "name": "Izaak Opatz",
+          "url": "https://open.spotify.com/artist/0ISWBim1mBiZ7bw6tXad3G"
         }
       ],
-      "duration_ms": 161972,
-      "name": "Song to Make You Fall in Love With Me",
-      "url": "https://open.spotify.com/track/6uamXLhBaOLWaDkaftKTzr"
+      "duration_ms": 238680,
+      "name": "Not Yet",
+      "url": "https://open.spotify.com/track/3kVWSiAW7f42Lk7csxJ1VN"
     },
     {
       "added_at": "2023-05-12 04:00:00",
@@ -2503,6 +2503,22 @@
     {
       "added_at": "2023-05-12 04:00:00",
       "album": {
+        "name": "Quiet Signs",
+        "url": "https://open.spotify.com/album/6gfh7DsfwxpZkRcPZo75M1"
+      },
+      "artists": [
+        {
+          "name": "Jessica Pratt",
+          "url": "https://open.spotify.com/artist/5KTykbPcDB4GYS49jcHbWh"
+        }
+      ],
+      "duration_ms": 217360,
+      "name": "This Time Around",
+      "url": "https://open.spotify.com/track/5KFa7aO49TOsH8zfMarw6N"
+    },
+    {
+      "added_at": "2023-05-12 04:00:00",
+      "album": {
         "name": "Marika Hackman (7 Layers Session)",
         "url": "https://open.spotify.com/album/2k2FmxjLCxOp5bTZoPRVlm"
       },
@@ -2515,22 +2531,6 @@
       "duration_ms": 116040,
       "name": "Cigarette - 7 Layers Session",
       "url": "https://open.spotify.com/track/6bOq0IV8aehkfePJOnqUK2"
-    },
-    {
-      "added_at": "2023-05-12 04:00:00",
-      "album": {
-        "name": "Welcome Home",
-        "url": "https://open.spotify.com/album/0b4TocuPShTGNAFy5tZx73"
-      },
-      "artists": [
-        {
-          "name": "Hannah Cohen",
-          "url": "https://open.spotify.com/artist/7ovXNdlB2DNSC16TbKgros"
-        }
-      ],
-      "duration_ms": 253928,
-      "name": "This Is Your Life",
-      "url": "https://open.spotify.com/track/3zaFz69Xfh3EnN9f1S0Nd3"
     }
   ],
   "unique_name": "Modern Eclectic",

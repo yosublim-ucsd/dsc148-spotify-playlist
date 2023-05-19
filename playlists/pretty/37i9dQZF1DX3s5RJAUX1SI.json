@@ -1,12 +1,12 @@
 {
   "description": "despacito que no llevamos prisa",
-  "num_followers": 47932,
+  "num_followers": 47972,
   "original_name": "tranquilito",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxZWVlZTY5ZTk1NTJkN2E3YjFmZTgyOWM3NWVjYThhMGFlOGIxNjVk",
+  "snapshot_id": "MCwwM2RhYmM1OGQ4OTY5ZGI2OTE4MzliYTVjMTExMGZhNTkwZDhmODNk",
   "tracks": [
     {
       "added_at": "2022-08-03 16:09:42",
@@ -259,26 +259,6 @@
     {
       "added_at": "2022-08-03 16:09:42",
       "album": {
-        "name": "\u00bfY Qu\u00e9 Tal Si Funciona?",
-        "url": "https://open.spotify.com/album/1XLUXguw1oUNDVAvzMl4rq"
-      },
-      "artists": [
-        {
-          "name": "Yuridia",
-          "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
-        },
-        {
-          "name": "Banda MS de Sergio Liz\u00e1rraga",
-          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
-        }
-      ],
-      "duration_ms": 185038,
-      "name": "\u00bfY Qu\u00e9 Tal Si Funciona?",
-      "url": "https://open.spotify.com/track/6yKoIv4jJSb7trcphSZofT"
-    },
-    {
-      "added_at": "2022-08-03 16:09:42",
-      "album": {
         "name": "As\u00ed de Enamorados",
         "url": "https://open.spotify.com/album/6cjoz33o9RqcKCgo7zDXxK"
       },
@@ -295,6 +275,26 @@
       "duration_ms": 177062,
       "name": "Como Lo Hice Yo",
       "url": "https://open.spotify.com/track/6YNTL320OEMAg4ORqGYt1v"
+    },
+    {
+      "added_at": "2022-08-03 16:09:42",
+      "album": {
+        "name": "\u00bfY Qu\u00e9 Tal Si Funciona?",
+        "url": "https://open.spotify.com/album/1XLUXguw1oUNDVAvzMl4rq"
+      },
+      "artists": [
+        {
+          "name": "Yuridia",
+          "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
+        },
+        {
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+        }
+      ],
+      "duration_ms": 185038,
+      "name": "\u00bfY Qu\u00e9 Tal Si Funciona?",
+      "url": "https://open.spotify.com/track/6yKoIv4jJSb7trcphSZofT"
     },
     {
       "added_at": "2022-08-03 16:09:42",
@@ -411,22 +411,22 @@
     {
       "added_at": "2022-08-03 16:09:42",
       "album": {
-        "name": "Me Hace Tanto Bien",
-        "url": "https://open.spotify.com/album/40IOas3f9rXV6CfpHZ6PjV"
+        "name": "M\u00e1s Muerto Que Vivo",
+        "url": "https://open.spotify.com/album/4LwHkby3HSNOaz6NH2buDg"
       },
       "artists": [
         {
-          "name": "Yuridia",
-          "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
+          "name": "Matisse",
+          "url": "https://open.spotify.com/artist/77aLk6J8ofnVxa1eXK9jiU"
         },
         {
-          "name": "Eden Mu\u00f1oz",
-          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
+          "name": "Intocable",
+          "url": "https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02"
         }
       ],
-      "duration_ms": 231304,
-      "name": "Me Hace Tanto Bien",
-      "url": "https://open.spotify.com/track/21D2EZmXoJYccfgeZndtOg"
+      "duration_ms": 213221,
+      "name": "M\u00e1s Muerto Que Vivo",
+      "url": "https://open.spotify.com/track/6FkIjhuEDMc3mUFZZKxQlE"
     },
     {
       "added_at": "2022-08-03 16:09:42",
@@ -447,22 +447,22 @@
     {
       "added_at": "2022-08-03 16:09:42",
       "album": {
-        "name": "M\u00e1s Muerto Que Vivo",
-        "url": "https://open.spotify.com/album/4LwHkby3HSNOaz6NH2buDg"
+        "name": "Me Hace Tanto Bien",
+        "url": "https://open.spotify.com/album/40IOas3f9rXV6CfpHZ6PjV"
       },
       "artists": [
         {
-          "name": "Matisse",
-          "url": "https://open.spotify.com/artist/77aLk6J8ofnVxa1eXK9jiU"
+          "name": "Yuridia",
+          "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
         },
         {
-          "name": "Intocable",
-          "url": "https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02"
+          "name": "Eden Mu\u00f1oz",
+          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
         }
       ],
-      "duration_ms": 213221,
-      "name": "M\u00e1s Muerto Que Vivo",
-      "url": "https://open.spotify.com/track/6FkIjhuEDMc3mUFZZKxQlE"
+      "duration_ms": 231304,
+      "name": "Me Hace Tanto Bien",
+      "url": "https://open.spotify.com/track/21D2EZmXoJYccfgeZndtOg"
     },
     {
       "added_at": "2022-08-03 16:09:42",
@@ -979,8 +979,8 @@
     {
       "added_at": "2022-08-03 16:09:42",
       "album": {
-        "name": "En Vivo CDMX",
-        "url": "https://open.spotify.com/album/1x7UM1LXYNvVuWhZbZf9uT"
+        "name": "Positivo",
+        "url": "https://open.spotify.com/album/24eUqyJPZ39GNoQsvc7ffM"
       },
       "artists": [
         {
@@ -988,9 +988,9 @@
           "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
         }
       ],
-      "duration_ms": 629026,
-      "name": "Popurr\u00ed Acustico - En Vivo",
-      "url": "https://open.spotify.com/track/70ze28E0ye7nGsaj7yXvh7"
+      "duration_ms": 187440,
+      "name": "Positivo - Versi\u00f3n Ac\u00fastica",
+      "url": "https://open.spotify.com/track/1YcV3zr7FTJUcoUH3H5fWT"
     },
     {
       "added_at": "2022-08-03 16:09:42",
@@ -1083,8 +1083,8 @@
     {
       "added_at": "2022-08-03 16:09:42",
       "album": {
-        "name": "Positivo",
-        "url": "https://open.spotify.com/album/24eUqyJPZ39GNoQsvc7ffM"
+        "name": "En Vivo CDMX",
+        "url": "https://open.spotify.com/album/1x7UM1LXYNvVuWhZbZf9uT"
       },
       "artists": [
         {
@@ -1092,9 +1092,9 @@
           "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
         }
       ],
-      "duration_ms": 187440,
-      "name": "Positivo - Versi\u00f3n Ac\u00fastica",
-      "url": "https://open.spotify.com/track/1YcV3zr7FTJUcoUH3H5fWT"
+      "duration_ms": 629026,
+      "name": "Popurr\u00ed Acustico - En Vivo",
+      "url": "https://open.spotify.com/track/70ze28E0ye7nGsaj7yXvh7"
     },
     {
       "added_at": "2022-08-03 16:09:42",
@@ -1543,22 +1543,6 @@
     {
       "added_at": "2022-08-03 16:09:42",
       "album": {
-        "name": "El Triste",
-        "url": "https://open.spotify.com/album/5lZFOwckQKRGJltW9B7oHM"
-      },
-      "artists": [
-        {
-          "name": "Pepe Aguilar",
-          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
-        }
-      ],
-      "duration_ms": 252093,
-      "name": "El Triste",
-      "url": "https://open.spotify.com/track/5bC9coSW5PggQN2HefYSk2"
-    },
-    {
-      "added_at": "2022-08-03 16:09:42",
-      "album": {
         "name": "Canciones",
         "url": "https://open.spotify.com/album/3H8ikFbr1ryvnOHKX4qm9X"
       },
@@ -1571,6 +1555,22 @@
       "duration_ms": 216064,
       "name": "Desvelado",
       "url": "https://open.spotify.com/track/36eepHhoFbb1arI7eXzjGl"
+    },
+    {
+      "added_at": "2022-08-03 16:09:42",
+      "album": {
+        "name": "El Triste",
+        "url": "https://open.spotify.com/album/5lZFOwckQKRGJltW9B7oHM"
+      },
+      "artists": [
+        {
+          "name": "Pepe Aguilar",
+          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
+        }
+      ],
+      "duration_ms": 252093,
+      "name": "El Triste",
+      "url": "https://open.spotify.com/track/5bC9coSW5PggQN2HefYSk2"
     },
     {
       "added_at": "2022-08-03 16:09:42",
@@ -1627,22 +1627,6 @@
     {
       "added_at": "2022-08-03 16:09:42",
       "album": {
-        "name": "Mis Versiones Vol. 9",
-        "url": "https://open.spotify.com/album/4Qrz2HwRFKpmhC31fPJea0"
-      },
-      "artists": [
-        {
-          "name": "Mari\u00e1n Oviedo",
-          "url": "https://open.spotify.com/artist/2hZUx50u5WartzUyQcEGci"
-        }
-      ],
-      "duration_ms": 215909,
-      "name": "La Mejor Versi\u00f3n De Mi",
-      "url": "https://open.spotify.com/track/1VcB8GhQbRap0lLEaNYDzI"
-    },
-    {
-      "added_at": "2022-08-03 16:09:42",
-      "album": {
         "name": "Si Te Pudiera Mentir",
         "url": "https://open.spotify.com/album/2h07qjmYJBW1GZUN5DUYeW"
       },
@@ -1655,6 +1639,22 @@
       "duration_ms": 289565,
       "name": "Si Te Pudiera Mentir",
       "url": "https://open.spotify.com/track/3kET1UwTaKPpOZI8DyioyE"
+    },
+    {
+      "added_at": "2022-08-03 16:09:42",
+      "album": {
+        "name": "Mis Versiones Vol. 9",
+        "url": "https://open.spotify.com/album/4Qrz2HwRFKpmhC31fPJea0"
+      },
+      "artists": [
+        {
+          "name": "Mari\u00e1n Oviedo",
+          "url": "https://open.spotify.com/artist/2hZUx50u5WartzUyQcEGci"
+        }
+      ],
+      "duration_ms": 215909,
+      "name": "La Mejor Versi\u00f3n De Mi",
+      "url": "https://open.spotify.com/track/1VcB8GhQbRap0lLEaNYDzI"
     },
     {
       "added_at": "2022-08-03 16:09:42",

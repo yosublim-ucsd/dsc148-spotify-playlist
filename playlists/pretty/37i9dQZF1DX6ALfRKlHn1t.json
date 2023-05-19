@@ -1,12 +1,12 @@
 {
   "description": "the soundtrack for your vitamin d fix. ",
-  "num_followers": 1040841,
+  "num_followers": 1041052,
   "original_name": "Soak Up the Sun",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjYTQxYjI2MWU5ZDc0MjNlNjJlODMzNTkxYTFlMWYwYjg2YzNlMjZi",
+  "snapshot_id": "MCxkZTc1MzI5NGQzNmNlZjA5ZDAzN2UzZDA1OTM4MTM0Mzk4MDRlZWJj",
   "tracks": [
     {
       "added_at": "2023-05-05 04:00:00",
@@ -435,22 +435,6 @@
     {
       "added_at": "2023-05-05 04:00:00",
       "album": {
-        "name": "Greatest Hits '93 - '03",
-        "url": "https://open.spotify.com/album/0OsjlbBaSZFbZnXGAUysMG"
-      },
-      "artists": [
-        {
-          "name": "311",
-          "url": "https://open.spotify.com/artist/41Q0HrwWBtuUkJc7C1Rp6K"
-        }
-      ],
-      "duration_ms": 211080,
-      "name": "Amber",
-      "url": "https://open.spotify.com/track/51UtgWS4z1eMPuLQOzPtNH"
-    },
-    {
-      "added_at": "2023-05-05 04:00:00",
-      "album": {
         "name": "Nation of Two",
         "url": "https://open.spotify.com/album/5f6Eu9QtujgGggq5qbbycV"
       },
@@ -463,6 +447,22 @@
       "duration_ms": 214720,
       "name": "Saturday Sun",
       "url": "https://open.spotify.com/track/2RiBogNRfulkNf7fVbPOrJ"
+    },
+    {
+      "added_at": "2023-05-05 04:00:00",
+      "album": {
+        "name": "Greatest Hits '93 - '03",
+        "url": "https://open.spotify.com/album/0OsjlbBaSZFbZnXGAUysMG"
+      },
+      "artists": [
+        {
+          "name": "311",
+          "url": "https://open.spotify.com/artist/41Q0HrwWBtuUkJc7C1Rp6K"
+        }
+      ],
+      "duration_ms": 211080,
+      "name": "Amber",
+      "url": "https://open.spotify.com/track/51UtgWS4z1eMPuLQOzPtNH"
     },
     {
       "added_at": "2023-05-05 04:00:00",
@@ -911,22 +911,6 @@
     {
       "added_at": "2023-05-05 04:00:00",
       "album": {
-        "name": "Coast Modern",
-        "url": "https://open.spotify.com/album/4jdtl0zpleiD135aYrg9D2"
-      },
-      "artists": [
-        {
-          "name": "Coast Modern",
-          "url": "https://open.spotify.com/artist/4wYk01oPJNfaEssVFL46oQ"
-        }
-      ],
-      "duration_ms": 204066,
-      "name": "Guru",
-      "url": "https://open.spotify.com/track/5M7IGym8CgSVOMNvDAGheL"
-    },
-    {
-      "added_at": "2023-05-05 04:00:00",
-      "album": {
         "name": "INTELLECTUAL PROPERTY",
         "url": "https://open.spotify.com/album/6FxkiRw25b3z8CqqFE8pSm"
       },
@@ -943,18 +927,18 @@
     {
       "added_at": "2023-05-05 04:00:00",
       "album": {
-        "name": "Horizons",
-        "url": "https://open.spotify.com/album/0TNoEusEuT3DfGVhuc3j9D"
+        "name": "Coast Modern",
+        "url": "https://open.spotify.com/album/4jdtl0zpleiD135aYrg9D2"
       },
       "artists": [
         {
-          "name": "Gus Dapperton",
-          "url": "https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4"
+          "name": "Coast Modern",
+          "url": "https://open.spotify.com/artist/4wYk01oPJNfaEssVFL46oQ"
         }
       ],
-      "duration_ms": 183852,
-      "name": "Horizons",
-      "url": "https://open.spotify.com/track/3lHh76erVVIK364LN7KBRr"
+      "duration_ms": 204066,
+      "name": "Guru",
+      "url": "https://open.spotify.com/track/5M7IGym8CgSVOMNvDAGheL"
     },
     {
       "added_at": "2023-05-05 04:00:00",
@@ -971,6 +955,22 @@
       "duration_ms": 172280,
       "name": "Rescue Me",
       "url": "https://open.spotify.com/track/7j4xf3LLFtAupXBAxgIde2"
+    },
+    {
+      "added_at": "2023-05-05 04:00:00",
+      "album": {
+        "name": "Horizons",
+        "url": "https://open.spotify.com/album/0TNoEusEuT3DfGVhuc3j9D"
+      },
+      "artists": [
+        {
+          "name": "Gus Dapperton",
+          "url": "https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4"
+        }
+      ],
+      "duration_ms": 183852,
+      "name": "Horizons",
+      "url": "https://open.spotify.com/track/3lHh76erVVIK364LN7KBRr"
     },
     {
       "added_at": "2023-05-05 04:00:00",
@@ -1107,22 +1107,6 @@
     {
       "added_at": "2023-05-05 04:00:00",
       "album": {
-        "name": "Talk",
-        "url": "https://open.spotify.com/album/2UqdKTiPEdLx7IqEeZ7CWV"
-      },
-      "artists": [
-        {
-          "name": "beabadoobee",
-          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
-        }
-      ],
-      "duration_ms": 158293,
-      "name": "Talk",
-      "url": "https://open.spotify.com/track/1upVvXlWQUwAPuLN3oh8lk"
-    },
-    {
-      "added_at": "2023-05-05 04:00:00",
-      "album": {
         "name": "Uncanny Valley",
         "url": "https://open.spotify.com/album/0Ysl8PFnCzqyvjbAhaCMvf"
       },
@@ -1135,6 +1119,22 @@
       "duration_ms": 193299,
       "name": "Chapstick",
       "url": "https://open.spotify.com/track/1w91afusaBA7N1Hf6ApAXF"
+    },
+    {
+      "added_at": "2023-05-05 04:00:00",
+      "album": {
+        "name": "Talk",
+        "url": "https://open.spotify.com/album/2UqdKTiPEdLx7IqEeZ7CWV"
+      },
+      "artists": [
+        {
+          "name": "beabadoobee",
+          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
+        }
+      ],
+      "duration_ms": 158293,
+      "name": "Talk",
+      "url": "https://open.spotify.com/track/1upVvXlWQUwAPuLN3oh8lk"
     },
     {
       "added_at": "2023-05-05 04:00:00",
@@ -1203,22 +1203,6 @@
     {
       "added_at": "2023-05-05 04:00:00",
       "album": {
-        "name": "Bags",
-        "url": "https://open.spotify.com/album/5YwYhMFzSWG8i7NEuwnIzs"
-      },
-      "artists": [
-        {
-          "name": "Clairo",
-          "url": "https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag"
-        }
-      ],
-      "duration_ms": 260519,
-      "name": "Bags",
-      "url": "https://open.spotify.com/track/6X3FZtz4cKU2MKSQlGG9ZG"
-    },
-    {
-      "added_at": "2023-05-05 04:00:00",
-      "album": {
         "name": "James Dean",
         "url": "https://open.spotify.com/album/61YMV5YCWzd4FmQAeBmraP"
       },
@@ -1231,6 +1215,22 @@
       "duration_ms": 266400,
       "name": "James Dean",
       "url": "https://open.spotify.com/track/2MVt6GD9AVbmniOIng0rVz"
+    },
+    {
+      "added_at": "2023-05-05 04:00:00",
+      "album": {
+        "name": "Bags",
+        "url": "https://open.spotify.com/album/5YwYhMFzSWG8i7NEuwnIzs"
+      },
+      "artists": [
+        {
+          "name": "Clairo",
+          "url": "https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag"
+        }
+      ],
+      "duration_ms": 260519,
+      "name": "Bags",
+      "url": "https://open.spotify.com/track/6X3FZtz4cKU2MKSQlGG9ZG"
     }
   ],
   "unique_name": "Soak Up the Sun",

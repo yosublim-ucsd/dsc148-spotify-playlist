@@ -4,7 +4,7 @@
 
 > An uplifting yet tasteful dinner playlist with a guaranteed feel good vibe.
 
-503 songs - 1 day 6 hr 23 min
+504 songs - 1 day 6 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -225,13 +225,14 @@
 | [It Takes a Lot](https://open.spotify.com/track/13AYQK0HEtYCMGo0yKebeD) | [Hush Moss](https://open.spotify.com/artist/1GHJ2yDZhTLodOfqimd6ZK) | [It Takes a Lot](https://open.spotify.com/album/4lGwQlZzNfkdP1A3JUbENH) | 3:58 | 2021-12-16 | 2022-04-21 |
 | [It'll All Be Over](https://open.spotify.com/track/1KFtR58Hn1nQ9fR0DRnC9n) | [Supreme Jubilees](https://open.spotify.com/artist/5XduRGfkKVRVqyEJ0D9trw) | [It'll All Be Over](https://open.spotify.com/album/3CLdAhzRYwIIf06iDSvlPA) | 3:05 | 2022-03-30 | 2023-03-25 |
 | [It'll Be Ok](https://open.spotify.com/track/2YO6ZDPdQFkrOa6YYceEN4) | [Yoandri](https://open.spotify.com/artist/7uCNYKOeuyGcoxaP1Y095d) | [It'll Be Ok](https://open.spotify.com/album/3wksTuCjoVEmmD87tOc8QJ) | 2:34 | 2023-03-10 | 2023-05-14 |
-| [It's Not Easy](https://open.spotify.com/track/1AJpZtYHY7MD21Tkcg9wlE) | [Ofege](https://open.spotify.com/artist/05LK9pT8ScfWNT0UbDsyqe) | [Try and Love](https://open.spotify.com/album/27xu9zZKCUm7mCoZlMkQpC) | 4:23 | 2023-02-10 |  |
+| [It's Not Easy](https://open.spotify.com/track/1AJpZtYHY7MD21Tkcg9wlE) | [Ofege](https://open.spotify.com/artist/05LK9pT8ScfWNT0UbDsyqe) | [Try and Love](https://open.spotify.com/album/27xu9zZKCUm7mCoZlMkQpC) | 4:23 | 2023-02-10 | 2023-05-19 |
 | [Juicy](https://open.spotify.com/track/3VEdzfUk5q70JDmBH0F0Wa) | [Emmett Kai](https://open.spotify.com/artist/3iFMfPvVhkPDaR6uCaBV9q) | [Midnight](https://open.spotify.com/album/04q89UZFZgoHq13VI8Etar) | 3:22 | 2021-12-16 | 2022-07-28 |
 | [Jumping Fences](https://open.spotify.com/track/36Us7iQfslxRe1sOqUDmyt) | [The Olivia Tremor Control](https://open.spotify.com/artist/4a2nAPF15Gv8V65Ba3IJSB) | [Dusk at Cubist Castle](https://open.spotify.com/album/7IBuhzVZPhSqMDMIP60Ehh) | 1:52 | 2022-10-14 |  |
 | [Just Ain't Gonna Work Out](https://open.spotify.com/track/2jJulR1CTEuHsXpS6bGDou) | [Mayer Hawthorne](https://open.spotify.com/artist/4d53BMrRlQkrQMz5d59f2O) | [A Strange Arrangement](https://open.spotify.com/album/7JfH5D3XhtWJiAQHweJ4cX) | 2:30 | 2022-03-30 | 2022-04-20 |
 | [Just Another Honky](https://open.spotify.com/track/0VBNUr0tXN3GaxOjBoB0Es) | [Faces](https://open.spotify.com/artist/3v4feUQnU3VEUqFrjmtekL) | [Ooh La La](https://open.spotify.com/album/4eTVgxB6wm5eGvesA4cUN5) | 3:34 | 2022-03-30 |  |
 | [Just Go](https://open.spotify.com/track/2szxIrlLVWJ7JRxDAGdzzc) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Collapsed In Sunbeams](https://open.spotify.com/album/42joEEymK7EIHODfNB4yug) | 3:06 | 2021-12-16 |  |
 | [Just Like You Used To](https://open.spotify.com/track/4zi12vnfemTW9sYo3XoJ2y) | [Jalen Ngonda](https://open.spotify.com/artist/2kEDso93O2hDgCbnuiSkkZ) | [Just Like You Used To](https://open.spotify.com/album/1k5qKVZeuywgn3a00Khg1Q) | 3:08 | 2022-12-28 | 2023-04-30 |
+| [Just Like You Used To](https://open.spotify.com/track/7muZRuzw9GrlftSblA5Bkf) | [Jalen Ngonda](https://open.spotify.com/artist/2kEDso93O2hDgCbnuiSkkZ) | [Just Like You Used To](https://open.spotify.com/album/1KL7kl1XBGuAd5Z3xij3Mg) | 3:08 | 2023-04-25 |  |
 | [Keep Your Faith to the Sky](https://open.spotify.com/track/3EvsbWc8SXFKp03SS2B9Ok) | [Willie Scott & The Birmingham Spirituals](https://open.spotify.com/artist/2MLCA5LxOACoZRdTn8ThmI) | [Keep Your Faith to the Sky](https://open.spotify.com/album/49LpwpMHPPNni1Vi7IM6oV) | 5:09 | 2021-12-16 | 2022-07-29 |
 | [Keeping Me Under](https://open.spotify.com/track/1N5zNjjaie1MpYW4oTPqVZ) | [Two Another](https://open.spotify.com/artist/35RvGPQ1OxbEZknWyiaAcs) | [Keeping Me Under](https://open.spotify.com/album/5GgzoCTpVmmxGoETRWBa4l) | 3:38 | 2022-03-30 | 2022-04-21 |
 | [Keeping Me Under](https://open.spotify.com/track/79ZQoLroAAQYHM9sJ1kbGh) | [Two Another](https://open.spotify.com/artist/35RvGPQ1OxbEZknWyiaAcs) | [Keeping Me Under](https://open.spotify.com/album/0pim63nTKBI42Cm7FVeCMu) | 3:38 | 2022-07-26 | 2023-02-14 |

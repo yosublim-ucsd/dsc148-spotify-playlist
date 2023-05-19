@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU65QzegR429.md) - [plain]
 
 > Latin music making waves.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,144 likes - 59 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,166 likes - 59 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,11 +61,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU65QzegR429.md) - [plain]
 | 51 | [Diferente](https://open.spotify.com/track/0n3jrfZNBxQXAezu2WwrTd) | [Lennis Rodriguez](https://open.spotify.com/artist/4Rzu63KnqMsThOdfkrJk1Z) | [Colores](https://open.spotify.com/album/2D4OJpTUpKLIyVHi1upoUj) | 2:52 |
 | 52 | [94](https://open.spotify.com/track/6vsAfEwT8L9xsiSfXNnHpN) | [Menor Menor](https://open.spotify.com/artist/2663St0NB1IsbMnlF69AeW) | [94](https://open.spotify.com/album/67g5mVEDHMS25aITr7hjGf) | 2:33 |
 | 53 | [KLK TE PASA A TI](https://open.spotify.com/track/4XSO2ESu4JENljsN2irGWz) | [Rosaly Rubio](https://open.spotify.com/artist/1RDmz5jLTAyj9onvIA4qv8) | [KLK TE PASA A TI](https://open.spotify.com/album/6BLCH4XUfASbKUCIZ5Zko3) | 2:46 |
-| 54 | [Deja Que Te Lleve](https://open.spotify.com/track/1cOCvJSFjmdvh4ByUGZf2V) | [Sessi](https://open.spotify.com/artist/6aPCzcaD2zGsu387By8SZX) | [Deja Que Te Lleve](https://open.spotify.com/album/36mgrUsQbHrpFcR7gA914n) | 3:23 |
-| 55 | [Solita](https://open.spotify.com/track/3gV9Ru9Kdkq5RcF0A2WjZj) | [Nino Augustine](https://open.spotify.com/artist/56bt9xaV44RJf7KqqgMxsU), [Mystro](https://open.spotify.com/artist/7GUayRAp1ClL94DXIwMmD4) | [Champion Ninz](https://open.spotify.com/album/4jRjuppvJlqiNdlxcl3Z31) | 2:19 |
+| 54 | [Solita](https://open.spotify.com/track/3gV9Ru9Kdkq5RcF0A2WjZj) | [Nino Augustine](https://open.spotify.com/artist/56bt9xaV44RJf7KqqgMxsU), [Mystro](https://open.spotify.com/artist/7GUayRAp1ClL94DXIwMmD4) | [Champion Ninz](https://open.spotify.com/album/4jRjuppvJlqiNdlxcl3Z31) | 2:19 |
+| 55 | [Deja Que Te Lleve](https://open.spotify.com/track/1cOCvJSFjmdvh4ByUGZf2V) | [Sessi](https://open.spotify.com/artist/6aPCzcaD2zGsu387By8SZX) | [Deja Que Te Lleve](https://open.spotify.com/album/36mgrUsQbHrpFcR7gA914n) | 3:23 |
 | 56 | [Noches X Madrid](https://open.spotify.com/track/5sWZqNtHppp5FdxPEIJnIn) | [Sara Deop](https://open.spotify.com/artist/3Wb3zC9MU5MF0xdvaB8too) | [Noches X Madrid](https://open.spotify.com/album/0y7pSZ8Z8CyuM2HhtEh1Zx) | 3:37 |
 | 57 | [Dime La Verdad](https://open.spotify.com/track/2ksfEETsqZ0La3QnJcfxbV) | [Luchy DR](https://open.spotify.com/artist/0SbiXy5hZuC7ZjOXNXygql), [Alcover](https://open.spotify.com/artist/2PctE0f82UrDM9CR3SXXGo) | [Lucky 7](https://open.spotify.com/album/3b2Zck8DtLyhMYxUgVDyho) | 3:15 |
 | 58 | [Peligroso](https://open.spotify.com/track/2WRCmqSUVWpVZNeZ1u7njt) | [Joelii](https://open.spotify.com/artist/0wSQpwa2cKXukzGMH7WooV) | [Peligroso](https://open.spotify.com/album/6QIrGcDvMIooPaTOXLXk1Q) | 2:48 |
 | 59 | [Yo Soy De PR](https://open.spotify.com/track/2YDcWtjC6zKfx3NYHR5SKW) | [Jey Blessing](https://open.spotify.com/artist/1MVP5iQH6wMKZuOn41UHOB), [Los Fantastikos](https://open.spotify.com/artist/0jaakjO6cMB5cJLeoa5aV2) | [Yo Soy De PR](https://open.spotify.com/album/4S35csP0ALLI8p1aNlqSj5) | 3:21 |
 
-Snapshot ID: `MCxlODE5MWViOTg2N2EzNWNmMDE3ZDU5NjZmZDdjYjM1YTc1NjhkZTQ3`
+Snapshot ID: `MCwzMWViYmVkYmI4MTc0YjlmNDUzNDllY2MyZGE3NGE3NDM5OGYwNGVh`

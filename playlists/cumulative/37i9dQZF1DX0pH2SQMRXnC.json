@@ -3076,7 +3076,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-19",
+      "date_removed": null,
       "duration_ms": 254884,
       "name": "Evergreen",
       "url": "https://open.spotify.com/track/4nKnHBrOZOqzvUdq34B5ik"
@@ -4292,7 +4292,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 211593,
       "name": "Ghetto Bass",
       "url": "https://open.spotify.com/track/1pWi8h7181YBrF7s9pzR1u"
@@ -9745,6 +9745,28 @@
     },
     {
       "album": {
+        "name": "Somebody to Love",
+        "url": "https://open.spotify.com/album/66EPs3ZWUIRSNxer3yqIyS"
+      },
+      "artists": [
+        {
+          "name": "DJ Gollum",
+          "url": "https://open.spotify.com/artist/1wNmJCRRNn8WpJrRSTKKqT"
+        },
+        {
+          "name": "Maxtreme",
+          "url": "https://open.spotify.com/artist/3skGwvTX8jbm2EKf0Whe1j"
+        }
+      ],
+      "date_added": "2023-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188076,
+      "name": "Somebody to Love",
+      "url": "https://open.spotify.com/track/14oLZpSIlMYf62kUthUTLL"
+    },
+    {
+      "album": {
         "name": "Sovereign",
         "url": "https://open.spotify.com/album/2GGvTjOL9lfhS2GP1nlVU1"
       },
@@ -9756,7 +9778,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 246580,
       "name": "Sovereign",
       "url": "https://open.spotify.com/track/40GSkhPzazW2eKTynjMPcg"

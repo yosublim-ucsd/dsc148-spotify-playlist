@@ -1,12 +1,12 @@
 {
   "description": "Classic songs from the Blues songbook. Cover: Muddy Waters.",
-  "num_followers": 50870,
+  "num_followers": 50966,
   "original_name": "Blues Standards",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwODI2YjBmOTg1MjYwNDQ2YmFlNzk1MjliMjQ4NjI2NTQyOTBmYWJl",
+  "snapshot_id": "MCwyYmM4ZDE4N2VjYmRlMTFjOTA3NDkyZmU3N2M5ZjkxNTU5YmU1MGI4",
   "tracks": [
     {
       "added_at": "2023-03-03 18:12:25",
@@ -339,22 +339,6 @@
     {
       "added_at": "2023-03-03 18:12:25",
       "album": {
-        "name": "The Essential Stevie Ray Vaughan And Double Trouble",
-        "url": "https://open.spotify.com/album/4dShhtGUjPunYS95jHOm3r"
-      },
-      "artists": [
-        {
-          "name": "Stevie Ray Vaughan",
-          "url": "https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1"
-        }
-      ],
-      "duration_ms": 294373,
-      "name": "The Things (That) I Used to Do",
-      "url": "https://open.spotify.com/track/4YAtqSH9gdzlNhVMUVmZMy"
-    },
-    {
-      "added_at": "2023-03-03 18:12:25",
-      "album": {
         "name": "1956-1958 Cobra Recordings",
         "url": "https://open.spotify.com/album/2qmdzBnhgSKueas63F83g7"
       },
@@ -367,6 +351,22 @@
       "duration_ms": 158200,
       "name": "All Your Love",
       "url": "https://open.spotify.com/track/3dTKNQxas5m4cuunpHiVpi"
+    },
+    {
+      "added_at": "2023-03-03 18:12:25",
+      "album": {
+        "name": "The Essential Stevie Ray Vaughan And Double Trouble",
+        "url": "https://open.spotify.com/album/4dShhtGUjPunYS95jHOm3r"
+      },
+      "artists": [
+        {
+          "name": "Stevie Ray Vaughan",
+          "url": "https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1"
+        }
+      ],
+      "duration_ms": 294373,
+      "name": "The Things (That) I Used to Do",
+      "url": "https://open.spotify.com/track/4YAtqSH9gdzlNhVMUVmZMy"
     },
     {
       "added_at": "2023-03-03 18:12:25",
@@ -847,26 +847,6 @@
     {
       "added_at": "2023-03-03 18:12:25",
       "album": {
-        "name": "Good Things Don't Happen Every Day",
-        "url": "https://open.spotify.com/album/4dJatMxgiZaFlZdRxQnHPE"
-      },
-      "artists": [
-        {
-          "name": "Jimmy McGriff",
-          "url": "https://open.spotify.com/artist/1A0QR12gcj2L5hYh1WWDeh"
-        },
-        {
-          "name": "Junior Parker",
-          "url": "https://open.spotify.com/artist/6XYy5PbBFvsABSY2ZS6R8u"
-        }
-      ],
-      "duration_ms": 183800,
-      "name": "(I Think) Drowning on Dry Land",
-      "url": "https://open.spotify.com/track/4QdQM3OufepusXfhtPL26z"
-    },
-    {
-      "added_at": "2023-03-03 18:12:25",
-      "album": {
         "name": "The Best In Blues",
         "url": "https://open.spotify.com/album/0IzjqAWaM8TMApaEsHK3ap"
       },
@@ -883,6 +863,26 @@
       "duration_ms": 173160,
       "name": "Trouble In Mind",
       "url": "https://open.spotify.com/track/5PQAAHui3NDnxW1wm7blIz"
+    },
+    {
+      "added_at": "2023-03-03 18:12:25",
+      "album": {
+        "name": "Good Things Don't Happen Every Day",
+        "url": "https://open.spotify.com/album/4dJatMxgiZaFlZdRxQnHPE"
+      },
+      "artists": [
+        {
+          "name": "Jimmy McGriff",
+          "url": "https://open.spotify.com/artist/1A0QR12gcj2L5hYh1WWDeh"
+        },
+        {
+          "name": "Junior Parker",
+          "url": "https://open.spotify.com/artist/6XYy5PbBFvsABSY2ZS6R8u"
+        }
+      ],
+      "duration_ms": 183800,
+      "name": "(I Think) Drowning on Dry Land",
+      "url": "https://open.spotify.com/track/4QdQM3OufepusXfhtPL26z"
     },
     {
       "added_at": "2023-03-03 18:12:25",
@@ -965,7 +965,7 @@
       "url": "https://open.spotify.com/track/56eLEV7mKEetelkzEZBXrE"
     },
     {
-      "added_at": "2023-05-18 01:06:52",
+      "added_at": "2023-05-19 01:15:46",
       "album": {
         "name": "Poet Of The Blues",
         "url": "https://open.spotify.com/album/7oD8K0s2rvJ53vjLurRLNf"

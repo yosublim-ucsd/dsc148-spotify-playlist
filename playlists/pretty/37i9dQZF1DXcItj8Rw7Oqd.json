@@ -1,32 +1,44 @@
 {
-  "description": "Pop x Rock. Cover: Busted ",
-  "num_followers": 11926,
+  "description": "Pop x Rock. Cover: PVRIS",
+  "num_followers": 11940,
   "original_name": "X",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxMjFjYTNhOGVkNTVlYjUyMTZjNzdhZDgzN2ExMmU0ZWU3NGQ4MTI2",
+  "snapshot_id": "MCwzYzg4NGZkMjU3YjAyZWIxYzViOTYwODljNTdjYjg5YzJjODVlMjQw",
   "tracks": [
     {
-      "added_at": "2023-04-13 23:00:00",
+      "added_at": "2023-05-18 19:26:13",
       "album": {
-        "name": "Loser Kid 2.0",
-        "url": "https://open.spotify.com/album/3SBe4YU8D2PVgKZopdMKny"
+        "name": "Stuck",
+        "url": "https://open.spotify.com/album/2kcNcoLI7IeK9GJepoA2lq"
       },
       "artists": [
         {
-          "name": "Busted",
-          "url": "https://open.spotify.com/artist/3Z6IRCo7umuk8K2XQy0ZDj"
-        },
-        {
-          "name": "Simple Plan",
-          "url": "https://open.spotify.com/artist/2p4FqHnazRucYQHyDCdBrJ"
+          "name": "Thirty Seconds To Mars",
+          "url": "https://open.spotify.com/artist/0RqtSIYZmd4fiBKVFqyIqD"
         }
       ],
-      "duration_ms": 223269,
-      "name": "Loser Kid 2.0",
-      "url": "https://open.spotify.com/track/3SVjnYq17hnR82HSnfzSjV"
+      "duration_ms": 182746,
+      "name": "Stuck",
+      "url": "https://open.spotify.com/track/1PYG9Akj0LAZZUDXzV9m1S"
+    },
+    {
+      "added_at": "2023-05-18 19:21:48",
+      "album": {
+        "name": "LOVE IS A...",
+        "url": "https://open.spotify.com/album/4t2uQMc6hW16fiIAY1Cx2K"
+      },
+      "artists": [
+        {
+          "name": "PVRIS",
+          "url": "https://open.spotify.com/artist/6oFs3qk4VepIVFdoD4jmsy"
+        }
+      ],
+      "duration_ms": 221440,
+      "name": "LOVE IS A...",
+      "url": "https://open.spotify.com/track/26KB6jZEqehXJNpguKRomC"
     },
     {
       "added_at": "2023-04-13 23:00:00",
@@ -63,18 +75,18 @@
     {
       "added_at": "2023-04-13 23:00:00",
       "album": {
-        "name": "Where Did All the Guitars Go?",
-        "url": "https://open.spotify.com/album/5aSEMoRkXZLZs4A6OoUm0r"
+        "name": "Pls Cheat On Me",
+        "url": "https://open.spotify.com/album/2IVYAk73nM0NqoJUC5GVrI"
       },
       "artists": [
         {
-          "name": "McFly",
-          "url": "https://open.spotify.com/artist/47izDDvtOxxz3FzHYuUptd"
+          "name": "Precious Pepala",
+          "url": "https://open.spotify.com/artist/2i6GoBzXmwxdD44bUM26M1"
         }
       ],
-      "duration_ms": 240853,
-      "name": "Where Did All the Guitars Go?",
-      "url": "https://open.spotify.com/track/0mSyc3nkVCKYMcm6L2OpST"
+      "duration_ms": 171022,
+      "name": "Pls Cheat On Me",
+      "url": "https://open.spotify.com/track/3UtwN7svr9Bonq7faI4FOJ"
     },
     {
       "added_at": "2023-04-13 23:00:00",
@@ -111,22 +123,6 @@
     {
       "added_at": "2023-04-13 23:00:00",
       "album": {
-        "name": "Pls Cheat On Me",
-        "url": "https://open.spotify.com/album/2IVYAk73nM0NqoJUC5GVrI"
-      },
-      "artists": [
-        {
-          "name": "Precious Pepala",
-          "url": "https://open.spotify.com/artist/2i6GoBzXmwxdD44bUM26M1"
-        }
-      ],
-      "duration_ms": 171022,
-      "name": "Pls Cheat On Me",
-      "url": "https://open.spotify.com/track/3UtwN7svr9Bonq7faI4FOJ"
-    },
-    {
-      "added_at": "2023-04-13 23:00:00",
-      "album": {
         "name": "Not Another Rockstar",
         "url": "https://open.spotify.com/album/1kiowmIzvFyO1hXi1Wyqkn"
       },
@@ -139,6 +135,22 @@
       "duration_ms": 149053,
       "name": "Not Another Rockstar",
       "url": "https://open.spotify.com/track/43pulC9QdGwabXUtVHYnjY"
+    },
+    {
+      "added_at": "2023-05-18 19:21:48",
+      "album": {
+        "name": "Push It Down",
+        "url": "https://open.spotify.com/album/05lq41261H9CLH9viIgTUG"
+      },
+      "artists": [
+        {
+          "name": "L Devine",
+          "url": "https://open.spotify.com/artist/5dhyUSoGhz79WTzP39vKs4"
+        }
+      ],
+      "duration_ms": 177494,
+      "name": "Push It Down",
+      "url": "https://open.spotify.com/track/77IcomUbuyMqn52R5CbhrM"
     },
     {
       "added_at": "2023-04-13 23:00:00",
@@ -219,6 +231,26 @@
       "duration_ms": 198986,
       "name": "Checkered Vans",
       "url": "https://open.spotify.com/track/2L6OCsfX3WT1Vt7Pc5ID0b"
+    },
+    {
+      "added_at": "2023-04-13 23:00:00",
+      "album": {
+        "name": "Loser Kid 2.0",
+        "url": "https://open.spotify.com/album/3SBe4YU8D2PVgKZopdMKny"
+      },
+      "artists": [
+        {
+          "name": "Busted",
+          "url": "https://open.spotify.com/artist/3Z6IRCo7umuk8K2XQy0ZDj"
+        },
+        {
+          "name": "Simple Plan",
+          "url": "https://open.spotify.com/artist/2p4FqHnazRucYQHyDCdBrJ"
+        }
+      ],
+      "duration_ms": 223269,
+      "name": "Loser Kid 2.0",
+      "url": "https://open.spotify.com/track/3SVjnYq17hnR82HSnfzSjV"
     },
     {
       "added_at": "2023-04-13 23:00:00",
@@ -475,6 +507,22 @@
       "duration_ms": 150676,
       "name": "Hurt Somebody",
       "url": "https://open.spotify.com/track/58IKtThXa8F87oupRcIMSu"
+    },
+    {
+      "added_at": "2023-04-13 23:00:00",
+      "album": {
+        "name": "Where Did All the Guitars Go?",
+        "url": "https://open.spotify.com/album/5aSEMoRkXZLZs4A6OoUm0r"
+      },
+      "artists": [
+        {
+          "name": "McFly",
+          "url": "https://open.spotify.com/artist/47izDDvtOxxz3FzHYuUptd"
+        }
+      ],
+      "duration_ms": 240853,
+      "name": "Where Did All the Guitars Go?",
+      "url": "https://open.spotify.com/track/0mSyc3nkVCKYMcm6L2OpST"
     },
     {
       "added_at": "2023-04-13 23:00:00",

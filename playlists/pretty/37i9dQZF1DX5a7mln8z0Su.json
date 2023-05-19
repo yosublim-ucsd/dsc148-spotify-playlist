@@ -1,12 +1,12 @@
 {
   "description": "\ubb34\uc5b8\uac00 \uc774\uc0c1\ud55c \ub9c8\uc74c \uc18d \uc77c\ub801\uc784\uc744 \ub178\ub798\ub85c \ub290\uaef4\ubcf4\uc138\uc694.",
-  "num_followers": 5751,
+  "num_followers": 5754,
   "original_name": "\uad1c\ud788 \uc13c\uce58\ud574",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxYmJiNzZiYjYxYjg0NDEzMzFkZTkwNmZiMjFkYmI5NjNmYmQ4NTQ1",
+  "snapshot_id": "MCw0MzNlMjY2NTg2ZWU4MzJjZmJkZGFmMWIzZjg4MGM4YzA2ZDA1YmVk",
   "tracks": [
     {
       "added_at": "2023-05-05 08:16:27",
@@ -247,6 +247,22 @@
     {
       "added_at": "2023-05-05 08:16:27",
       "album": {
+        "name": "Track 03",
+        "url": "https://open.spotify.com/album/6wM6tfBfVgG1eLDlDXw5Fg"
+      },
+      "artists": [
+        {
+          "name": "KLANG",
+          "url": "https://open.spotify.com/artist/3lxXfdGXe8k188bUZgKqgF"
+        }
+      ],
+      "duration_ms": 171866,
+      "name": "Airplane Mode",
+      "url": "https://open.spotify.com/track/4gKR1sPHFoHfHMescK6axE"
+    },
+    {
+      "added_at": "2023-05-05 08:16:27",
+      "album": {
         "name": "because I'm stupid?",
         "url": "https://open.spotify.com/album/7J2sWecxwHLRhtiLtFDVWk"
       },
@@ -279,22 +295,6 @@
       "duration_ms": 236703,
       "name": "Tictoc Tictoc Tictoc (with Beenzino)",
       "url": "https://open.spotify.com/track/69XHRP8AyobIbFELKSdOHp"
-    },
-    {
-      "added_at": "2023-05-05 08:16:27",
-      "album": {
-        "name": "Track 03",
-        "url": "https://open.spotify.com/album/6wM6tfBfVgG1eLDlDXw5Fg"
-      },
-      "artists": [
-        {
-          "name": "KLANG",
-          "url": "https://open.spotify.com/artist/3lxXfdGXe8k188bUZgKqgF"
-        }
-      ],
-      "duration_ms": 171866,
-      "name": "Airplane Mode",
-      "url": "https://open.spotify.com/track/4gKR1sPHFoHfHMescK6axE"
     },
     {
       "added_at": "2023-05-05 08:16:27",
@@ -595,6 +595,22 @@
     {
       "added_at": "2023-05-05 08:16:27",
       "album": {
+        "name": "#mood",
+        "url": "https://open.spotify.com/album/5d5K0Jmy6346yBH2WGBatk"
+      },
+      "artists": [
+        {
+          "name": "CIKI",
+          "url": "https://open.spotify.com/artist/39EEmUKhvMcVn8icCyQlg5"
+        }
+      ],
+      "duration_ms": 181120,
+      "name": "#mood",
+      "url": "https://open.spotify.com/track/4e1Fkgr0liTavbc4ReUJF4"
+    },
+    {
+      "added_at": "2023-05-05 08:16:27",
+      "album": {
         "name": "Mondegreen",
         "url": "https://open.spotify.com/album/4KlisFMPuKdK0lWRjtxLhw"
       },
@@ -611,18 +627,18 @@
     {
       "added_at": "2023-05-05 08:16:27",
       "album": {
-        "name": "#mood",
-        "url": "https://open.spotify.com/album/5d5K0Jmy6346yBH2WGBatk"
+        "name": "Je N\u2032aime Que Toi",
+        "url": "https://open.spotify.com/album/7uVRKea8NWn4gkMSEyQjcX"
       },
       "artists": [
         {
-          "name": "CIKI",
-          "url": "https://open.spotify.com/artist/39EEmUKhvMcVn8icCyQlg5"
+          "name": "oftn",
+          "url": "https://open.spotify.com/artist/2uVkd9g6fvjvPnCQ6zkrhf"
         }
       ],
-      "duration_ms": 181120,
-      "name": "#mood",
-      "url": "https://open.spotify.com/track/4e1Fkgr0liTavbc4ReUJF4"
+      "duration_ms": 196666,
+      "name": "Je N\u2032aime Que Toi",
+      "url": "https://open.spotify.com/track/5ziZpT9la4h3sjfvitLc1A"
     },
     {
       "added_at": "2023-05-05 08:16:27",
@@ -663,22 +679,6 @@
     {
       "added_at": "2023-05-05 08:16:27",
       "album": {
-        "name": "Je N\u2032aime Que Toi",
-        "url": "https://open.spotify.com/album/7uVRKea8NWn4gkMSEyQjcX"
-      },
-      "artists": [
-        {
-          "name": "oftn",
-          "url": "https://open.spotify.com/artist/2uVkd9g6fvjvPnCQ6zkrhf"
-        }
-      ],
-      "duration_ms": 196666,
-      "name": "Je N\u2032aime Que Toi",
-      "url": "https://open.spotify.com/track/5ziZpT9la4h3sjfvitLc1A"
-    },
-    {
-      "added_at": "2023-05-05 08:16:27",
-      "album": {
         "name": "bimil:ier vol.6 \"Cloudy\"",
         "url": "https://open.spotify.com/album/3EO7FdK1ZK2Pb7TfIZGqhX"
       },
@@ -707,6 +707,26 @@
       "duration_ms": 183281,
       "name": "Alone",
       "url": "https://open.spotify.com/track/0tkR9qJXzuUoI9sKW08ZGM"
+    },
+    {
+      "added_at": "2023-05-05 08:16:27",
+      "album": {
+        "name": "BOKE (Remix) (feat. kojikoji)",
+        "url": "https://open.spotify.com/album/5P7rM2lWFsXTnWAU4kNgBV"
+      },
+      "artists": [
+        {
+          "name": "CIKI",
+          "url": "https://open.spotify.com/artist/39EEmUKhvMcVn8icCyQlg5"
+        },
+        {
+          "name": "kojikoji",
+          "url": "https://open.spotify.com/artist/13lFKnH7sS9T35uPQmxaOs"
+        }
+      ],
+      "duration_ms": 184510,
+      "name": "BOKE (Remix) (feat. kojikoji)",
+      "url": "https://open.spotify.com/track/7He1dYoaMiB90dQQvN1vlJ"
     },
     {
       "added_at": "2023-05-05 08:16:27",
@@ -743,22 +763,18 @@
     {
       "added_at": "2023-05-05 08:16:27",
       "album": {
-        "name": "BOKE (Remix) (feat. kojikoji)",
-        "url": "https://open.spotify.com/album/5P7rM2lWFsXTnWAU4kNgBV"
+        "name": "PAGE",
+        "url": "https://open.spotify.com/album/65UY7ED1QGhIlQ63pucq8g"
       },
       "artists": [
         {
-          "name": "CIKI",
-          "url": "https://open.spotify.com/artist/39EEmUKhvMcVn8icCyQlg5"
-        },
-        {
-          "name": "kojikoji",
-          "url": "https://open.spotify.com/artist/13lFKnH7sS9T35uPQmxaOs"
+          "name": "Kang Seung Yoon",
+          "url": "https://open.spotify.com/artist/2Ip3x4XtEEhlGg8qI146jL"
         }
       ],
-      "duration_ms": 184510,
-      "name": "BOKE (Remix) (feat. kojikoji)",
-      "url": "https://open.spotify.com/track/7He1dYoaMiB90dQQvN1vlJ"
+      "duration_ms": 221369,
+      "name": "BETTER (with MINO)",
+      "url": "https://open.spotify.com/track/4xE1oTctITcdrkddbVafGT"
     },
     {
       "added_at": "2023-05-05 08:16:27",
@@ -787,18 +803,22 @@
     {
       "added_at": "2023-05-05 08:16:27",
       "album": {
-        "name": "PAGE",
-        "url": "https://open.spotify.com/album/65UY7ED1QGhIlQ63pucq8g"
+        "name": "kibun (feat. vntermude)",
+        "url": "https://open.spotify.com/album/0RZSABD3IX7QvPT3WlOsK8"
       },
       "artists": [
         {
-          "name": "Kang Seung Yoon",
-          "url": "https://open.spotify.com/artist/2Ip3x4XtEEhlGg8qI146jL"
+          "name": "CIKI",
+          "url": "https://open.spotify.com/artist/39EEmUKhvMcVn8icCyQlg5"
+        },
+        {
+          "name": "vntermude",
+          "url": "https://open.spotify.com/artist/1TjkORUlqsQ5bxtFdY98lA"
         }
       ],
-      "duration_ms": 221369,
-      "name": "BETTER (with MINO)",
-      "url": "https://open.spotify.com/track/4xE1oTctITcdrkddbVafGT"
+      "duration_ms": 168498,
+      "name": "kibun (feat. vntermude)",
+      "url": "https://open.spotify.com/track/6DSVy5frOGBAxPgJwJWpvD"
     },
     {
       "added_at": "2023-05-05 08:16:27",
@@ -867,26 +887,6 @@
       "duration_ms": 225903,
       "name": "Kangaroo",
       "url": "https://open.spotify.com/track/1Oi9J5OpJmnZusVBbt2cjo"
-    },
-    {
-      "added_at": "2023-05-05 08:16:27",
-      "album": {
-        "name": "kibun (feat. vntermude)",
-        "url": "https://open.spotify.com/album/0RZSABD3IX7QvPT3WlOsK8"
-      },
-      "artists": [
-        {
-          "name": "CIKI",
-          "url": "https://open.spotify.com/artist/39EEmUKhvMcVn8icCyQlg5"
-        },
-        {
-          "name": "vntermude",
-          "url": "https://open.spotify.com/artist/1TjkORUlqsQ5bxtFdY98lA"
-        }
-      ],
-      "duration_ms": 168498,
-      "name": "kibun (feat. vntermude)",
-      "url": "https://open.spotify.com/track/6DSVy5frOGBAxPgJwJWpvD"
     }
   ],
   "unique_name": "\uad1c\ud788 \uc13c\uce58\ud574",

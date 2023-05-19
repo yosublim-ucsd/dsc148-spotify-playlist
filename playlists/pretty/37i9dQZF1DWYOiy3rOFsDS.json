@@ -1,12 +1,12 @@
 {
   "description": "Romance antig\u00fcito en voz de tus artistas pop con Luis Miguel en portada.",
-  "num_followers": 522532,
+  "num_followers": 522653,
   "original_name": "Boleros Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmZDBmZjZhMzdhNTNjZTZlNzk2M2Q5MDZhMjFlYTUxNGViYTAwNGEw",
+  "snapshot_id": "MCw5YTI0Y2FjYjg3NWMyYjZkNDA2NTZmNjQ2MWNhZmIzMjg3ZmU5NmM1",
   "tracks": [
     {
       "added_at": "2023-03-17 06:00:00",
@@ -511,6 +511,22 @@
     {
       "added_at": "2023-03-17 06:00:00",
       "album": {
+        "name": "Como Antes",
+        "url": "https://open.spotify.com/album/0jXsX7bYf7FQE0CLGug86V"
+      },
+      "artists": [
+        {
+          "name": "Llane",
+          "url": "https://open.spotify.com/artist/7A02nc5WKMBLqSKXxGZ4o8"
+        }
+      ],
+      "duration_ms": 196614,
+      "name": "Como Antes",
+      "url": "https://open.spotify.com/track/1rgTPhfIsygO4HjDafOVzR"
+    },
+    {
+      "added_at": "2023-03-17 06:00:00",
+      "album": {
         "name": "La Sonora Santanera en Su 60 Aniversario",
         "url": "https://open.spotify.com/album/3xgFRfjD0wkntTxiSa7c8U"
       },
@@ -527,22 +543,6 @@
       "duration_ms": 182200,
       "name": "Fruto Robado (with Cristian Castro)",
       "url": "https://open.spotify.com/track/3UtyEX1laEeTjcq6m6H0zd"
-    },
-    {
-      "added_at": "2023-03-17 06:00:00",
-      "album": {
-        "name": "Como Antes",
-        "url": "https://open.spotify.com/album/0jXsX7bYf7FQE0CLGug86V"
-      },
-      "artists": [
-        {
-          "name": "Llane",
-          "url": "https://open.spotify.com/artist/7A02nc5WKMBLqSKXxGZ4o8"
-        }
-      ],
-      "duration_ms": 196614,
-      "name": "Como Antes",
-      "url": "https://open.spotify.com/track/1rgTPhfIsygO4HjDafOVzR"
     },
     {
       "added_at": "2023-03-17 06:00:00",
@@ -843,22 +843,6 @@
     {
       "added_at": "2023-03-17 06:00:00",
       "album": {
-        "name": "Latin & Love Studies",
-        "url": "https://open.spotify.com/album/771YlZnyW3Dhj8n9X4wMWM"
-      },
-      "artists": [
-        {
-          "name": "Isaac et Nora",
-          "url": "https://open.spotify.com/artist/0RtgAasyC15Sf1DXhtORls"
-        }
-      ],
-      "duration_ms": 212949,
-      "name": "Veinte A\u00f1os",
-      "url": "https://open.spotify.com/track/7idoiWKligF3jmM8FMf6c6"
-    },
-    {
-      "added_at": "2023-03-17 06:00:00",
-      "album": {
         "name": "Saudade (Ac\u00fastica)",
         "url": "https://open.spotify.com/album/5msxr0FMU7qHRbpUdAEWCg"
       },
@@ -883,6 +867,22 @@
       "duration_ms": 296671,
       "name": "Saudade - Ac\u00fastica",
       "url": "https://open.spotify.com/track/0hMDCdTgDI01LKtiMjPdAV"
+    },
+    {
+      "added_at": "2023-03-17 06:00:00",
+      "album": {
+        "name": "Latin & Love Studies",
+        "url": "https://open.spotify.com/album/771YlZnyW3Dhj8n9X4wMWM"
+      },
+      "artists": [
+        {
+          "name": "Isaac et Nora",
+          "url": "https://open.spotify.com/artist/0RtgAasyC15Sf1DXhtORls"
+        }
+      ],
+      "duration_ms": 212949,
+      "name": "Veinte A\u00f1os",
+      "url": "https://open.spotify.com/track/7idoiWKligF3jmM8FMf6c6"
     },
     {
       "added_at": "2023-03-17 06:00:00",
@@ -1071,6 +1071,26 @@
     {
       "added_at": "2023-03-17 06:00:00",
       "album": {
+        "name": "Castigo",
+        "url": "https://open.spotify.com/album/1sT251K5WVSKOGpUtG4Kli"
+      },
+      "artists": [
+        {
+          "name": "Los Rivera Destino",
+          "url": "https://open.spotify.com/artist/7LQaY9LGXHzoJY8DvwpSid"
+        },
+        {
+          "name": "Pedro Cap\u00f3",
+          "url": "https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy"
+        }
+      ],
+      "duration_ms": 218804,
+      "name": "Castigo",
+      "url": "https://open.spotify.com/track/5P0QmeChDF8KtzHa1Tw0xf"
+    },
+    {
+      "added_at": "2023-03-17 06:00:00",
+      "album": {
         "name": "Luna",
         "url": "https://open.spotify.com/album/6ZHdi4JlCmpElsIvtWCXrm"
       },
@@ -1107,26 +1127,6 @@
     {
       "added_at": "2023-03-17 06:00:00",
       "album": {
-        "name": "Castigo",
-        "url": "https://open.spotify.com/album/1sT251K5WVSKOGpUtG4Kli"
-      },
-      "artists": [
-        {
-          "name": "Los Rivera Destino",
-          "url": "https://open.spotify.com/artist/7LQaY9LGXHzoJY8DvwpSid"
-        },
-        {
-          "name": "Pedro Cap\u00f3",
-          "url": "https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy"
-        }
-      ],
-      "duration_ms": 218804,
-      "name": "Castigo",
-      "url": "https://open.spotify.com/track/5P0QmeChDF8KtzHa1Tw0xf"
-    },
-    {
-      "added_at": "2023-03-17 06:00:00",
-      "album": {
         "name": "25 Exitos",
         "url": "https://open.spotify.com/album/6rmBa08mpIj55kcE4AdSBS"
       },
@@ -1139,6 +1139,26 @@
       "duration_ms": 233000,
       "name": "Secreto de Amor",
       "url": "https://open.spotify.com/track/6zUaoRAegPui4OsVE1AANi"
+    },
+    {
+      "added_at": "2023-03-17 06:00:00",
+      "album": {
+        "name": "Boleros Psicod\u00e9licos",
+        "url": "https://open.spotify.com/album/2IjLewGcgMJMEAO5gHWwlG"
+      },
+      "artists": [
+        {
+          "name": "Adrian Quesada",
+          "url": "https://open.spotify.com/artist/07YivsJVCrmhhjzBcBtMGv"
+        },
+        {
+          "name": "iLe",
+          "url": "https://open.spotify.com/artist/1CztIa6fCQ0WmVPidXuwSs"
+        }
+      ],
+      "duration_ms": 228693,
+      "name": "Mentiras Con Cari\u00f1o",
+      "url": "https://open.spotify.com/track/7H7c9Ih5yj4158AM8BF49z"
     },
     {
       "added_at": "2023-03-17 06:00:00",
@@ -1171,26 +1191,6 @@
       "duration_ms": 204506,
       "name": "Adi\u00f3s Amor",
       "url": "https://open.spotify.com/track/23KAto4gDqUxFqTtpqtH9m"
-    },
-    {
-      "added_at": "2023-03-17 06:00:00",
-      "album": {
-        "name": "Boleros Psicod\u00e9licos",
-        "url": "https://open.spotify.com/album/2IjLewGcgMJMEAO5gHWwlG"
-      },
-      "artists": [
-        {
-          "name": "Adrian Quesada",
-          "url": "https://open.spotify.com/artist/07YivsJVCrmhhjzBcBtMGv"
-        },
-        {
-          "name": "iLe",
-          "url": "https://open.spotify.com/artist/1CztIa6fCQ0WmVPidXuwSs"
-        }
-      ],
-      "duration_ms": 228693,
-      "name": "Mentiras Con Cari\u00f1o",
-      "url": "https://open.spotify.com/track/7H7c9Ih5yj4158AM8BF49z"
     },
     {
       "added_at": "2023-03-17 06:00:00",
@@ -1651,22 +1651,6 @@
     {
       "added_at": "2023-03-17 06:00:00",
       "album": {
-        "name": "Apasionadamente",
-        "url": "https://open.spotify.com/album/0xgN5G0w8qGlw1onYHHdks"
-      },
-      "artists": [
-        {
-          "name": "Mel Mu\u00f1iz",
-          "url": "https://open.spotify.com/artist/05NEGCiyDYaJtcPiagl46Y"
-        }
-      ],
-      "duration_ms": 180588,
-      "name": "Apasionadamente",
-      "url": "https://open.spotify.com/track/7a1Ftd97mqW58rBQmqwPel"
-    },
-    {
-      "added_at": "2023-03-17 06:00:00",
-      "album": {
         "name": "Solo Boleros",
         "url": "https://open.spotify.com/album/4Pfgh3WJiJH1FUtwiI3oxD"
       },
@@ -1679,6 +1663,22 @@
       "duration_ms": 178925,
       "name": "Cuando Vuelva a Tu Lado",
       "url": "https://open.spotify.com/track/1TtvU2uSTwTaqloJwGItk7"
+    },
+    {
+      "added_at": "2023-03-17 06:00:00",
+      "album": {
+        "name": "Apasionadamente",
+        "url": "https://open.spotify.com/album/0xgN5G0w8qGlw1onYHHdks"
+      },
+      "artists": [
+        {
+          "name": "Mel Mu\u00f1iz",
+          "url": "https://open.spotify.com/artist/05NEGCiyDYaJtcPiagl46Y"
+        }
+      ],
+      "duration_ms": 180588,
+      "name": "Apasionadamente",
+      "url": "https://open.spotify.com/track/7a1Ftd97mqW58rBQmqwPel"
     },
     {
       "added_at": "2023-03-17 06:00:00",
@@ -1783,18 +1783,22 @@
     {
       "added_at": "2023-03-17 06:00:00",
       "album": {
-        "name": "Laura Itandehui",
-        "url": "https://open.spotify.com/album/4LS3jrPzt2givh5P1n98Ot"
+        "name": "Volver a Ti",
+        "url": "https://open.spotify.com/album/0HsazH0VuWelGUY4BNhj0b"
       },
       "artists": [
         {
-          "name": "Laura Itandehui",
-          "url": "https://open.spotify.com/artist/3uxDXFazxpQa87VTMJAdcK"
+          "name": "Feten Feten",
+          "url": "https://open.spotify.com/artist/2jA6wEXprTZysvomP2krp8"
+        },
+        {
+          "name": "Daniel, Me Est\u00e1s Matando",
+          "url": "https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE"
         }
       ],
-      "duration_ms": 264440,
-      "name": "Tiempo al Tiempo",
-      "url": "https://open.spotify.com/track/3NItdQWWv3UkO0DPHrgFDl"
+      "duration_ms": 236501,
+      "name": "Volver a Ti",
+      "url": "https://open.spotify.com/track/68yyY1AqaMfKuGSRTCNrUN"
     }
   ],
   "unique_name": "Boleros Pop",

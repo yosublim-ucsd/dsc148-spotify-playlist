@@ -4,7 +4,7 @@
 
 > Sweet gems to help you slow down and savor your day.
 
-306 songs - 19 hr 32 min
+307 songs - 19 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,7 +55,7 @@
 | [Drivin'](https://open.spotify.com/track/6VSkzQqDG7trbQfiU0JxDM) | [Robert Ellis](https://open.spotify.com/artist/6XtG9W2KkPiQ6n1rlIvTJE) | [Robert Ellis](https://open.spotify.com/album/1cOWI3gTpBWdPp9Rhv4Ezt) | 2:46 | 2022-05-27 |  |
 | [Dust to Dust](https://open.spotify.com/track/5P6ZBMWS66FVo6deJaDdHy) | [The Civil Wars](https://open.spotify.com/artist/6J7rw7NELJUCThPbAfyLIE) | [The Civil Wars](https://open.spotify.com/album/5r0Xd2wqRkTE0BqbeYlnFN) | 3:49 | 2021-10-22 | 2022-06-29 |
 | [Dust to Dust](https://open.spotify.com/track/0vwRHdpyDLRchRBtMjjjBH) | [The Civil Wars](https://open.spotify.com/artist/6J7rw7NELJUCThPbAfyLIE) | [The Civil Wars](https://open.spotify.com/album/79FSQez4eiOFA4Kx8Bxgyy) | 3:49 | 2022-05-27 |  |
-| [Dusty Eyes](https://open.spotify.com/track/3InUgSk89qd5gs6Yv20070) | [Bedouine](https://open.spotify.com/artist/6IiZemRMna678qNhiRkYI5) | [Bedouine \(Deluxe\)](https://open.spotify.com/album/5xkDtosZAm6qiGyRFc6ocB) | 4:37 | 2022-05-27 |  |
+| [Dusty Eyes](https://open.spotify.com/track/3InUgSk89qd5gs6Yv20070) | [Bedouine](https://open.spotify.com/artist/6IiZemRMna678qNhiRkYI5) | [Bedouine \(Deluxe\)](https://open.spotify.com/album/5xkDtosZAm6qiGyRFc6ocB) | 4:37 | 2022-05-27 | 2023-05-19 |
 | [Dusty Eyes](https://open.spotify.com/track/5CUheBak6sa2bFq8LEpMsR) | [Bedouine](https://open.spotify.com/artist/6IiZemRMna678qNhiRkYI5) | [Bedouine](https://open.spotify.com/album/48LoTRKcLWxQiDVCPUhW05) | 4:37 | 2021-10-22 | 2022-07-29 |
 | [Easier](https://open.spotify.com/track/51ly3W8LifaVReT1NAgaH2) | [Sons Of Bill](https://open.spotify.com/artist/52oqBs3nTaZ3K3PcGpjCgw), [Molly Parden](https://open.spotify.com/artist/5dUUxJQg27XaHdKyLYwNg5) | [Easier](https://open.spotify.com/album/0fbWJKB2zNtByinjMa7oi6) | 3:59 | 2021-10-22 | 2022-07-21 |
 | [Easy Rider](https://open.spotify.com/track/12AZ6nSJdq3bYgVeza8nSE) | [Eddie Berman](https://open.spotify.com/artist/7FfxvcUIbQ1VxrApeoq8ql) | [Easy Rider](https://open.spotify.com/album/0ttq5m5vbcZNkRm85wDXh7) | 3:49 | 2021-10-22 | 2022-07-29 |
@@ -251,6 +251,7 @@
 | [The Sky is Painted Gray Today](https://open.spotify.com/track/0WOz7oU6zfuUvDzWHmIdMK) | [Ásgeir](https://open.spotify.com/artist/7xUZ4069zcyBM4Bn10NQ1c) | [The Sky is Painted Gray Today](https://open.spotify.com/album/4iEFEhFxzgr7VKpuo4rjUT) | 3:41 | 2022-05-27 | 2023-03-18 |
 | [The Sky Is Painted Gray Today](https://open.spotify.com/track/7h9g3oV864VnKtug5dDx5o) | [Ásgeir](https://open.spotify.com/artist/7xUZ4069zcyBM4Bn10NQ1c) | [The Sky Is Painted Gray Today](https://open.spotify.com/album/0VNAaIDRRZd6ZEtcD72r1r) | 3:41 | 2021-10-22 | 2022-07-29 |
 | [The Swimmer \(To Be an Old Man\)](https://open.spotify.com/track/4nlDcud1pcNcvWEbPH4it1) | [Rose Cousins](https://open.spotify.com/artist/3DIk8KcmVKTr4uGw3AuCtJ) | [Bravado](https://open.spotify.com/album/3ZkPIFsMYL7cALJr2LPohi) | 4:07 | 2023-04-28 | 2023-05-13 |
+| [The Swimmer \(To Be an Old Man\)](https://open.spotify.com/track/5YebJFFiYKBXYQYASFUuoD) | [Rose Cousins](https://open.spotify.com/artist/3DIk8KcmVKTr4uGw3AuCtJ) | [Bravado](https://open.spotify.com/album/1OOpLsjYm20UGottxYTusF) | 4:07 | 2023-04-28 |  |
 | [The Swimmer \(To Be an Old Man\)](https://open.spotify.com/track/7LEGwwvRtilCPvNrHxxRGw) | [Rose Cousins](https://open.spotify.com/artist/3DIk8KcmVKTr4uGw3AuCtJ) | [Bravado](https://open.spotify.com/album/6HG6bnPHDDW3R6RBlJBFGq) | 4:07 | 2021-10-22 | 2023-05-01 |
 | [The Trouble with Wanting](https://open.spotify.com/track/0a1Jael2mnrkLTyPetixjh) | [Joy Williams](https://open.spotify.com/artist/4TCXgdDPm10ensLNCVnIYa) | [Canary / The Trouble with Wanting](https://open.spotify.com/album/20bxQ8Jv6hHhc53KFApRuL) | 3:55 | 2021-10-22 | 2022-07-29 |
 | [The Trouble with Wanting](https://open.spotify.com/track/5ZUObJNpVt2l9GogUSfALc) | [Joy Williams](https://open.spotify.com/artist/4TCXgdDPm10ensLNCVnIYa) | [Front Porch](https://open.spotify.com/album/0vK1POb7cjZdlZkShnqEDu) | 3:55 | 2022-05-27 |  |

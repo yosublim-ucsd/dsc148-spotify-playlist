@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-09",
-  "description": "Aqu\u00ed vive el hip-hop mexicano. ",
+  "description": "Aqu\u00ed vive el hip-hop mexicano. MC Davo, TREN LOKOTE y Kodigo est\u00e1n en la casa. ",
   "name": "Arena Hip-Hop",
   "tracks": [
     {
@@ -5278,6 +5278,32 @@
       "duration_ms": 199531,
       "name": "Por Qu\u00e9 Ser\u00e1?",
       "url": "https://open.spotify.com/track/3ZOy45DDnJ5DrRyROqUgLL"
+    },
+    {
+      "album": {
+        "name": "Por Si Pego",
+        "url": "https://open.spotify.com/album/6dQluBGGicYXtzTmzj0j8c"
+      },
+      "artists": [
+        {
+          "name": "MC Davo",
+          "url": "https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I"
+        },
+        {
+          "name": "Kodigo",
+          "url": "https://open.spotify.com/artist/3hwgckfLtTHdnkf694c7HS"
+        },
+        {
+          "name": "TREN LOKOTE",
+          "url": "https://open.spotify.com/artist/6DjBv6gyR1HLsvwGUOD5V9"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206500,
+      "name": "Por Si Pego",
+      "url": "https://open.spotify.com/track/1y6gxADhtRpNq3V8xpYHJb"
     },
     {
       "album": {

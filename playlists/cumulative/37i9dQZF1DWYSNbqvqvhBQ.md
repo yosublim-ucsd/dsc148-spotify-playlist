@@ -2,9 +2,9 @@
 
 ### [Stay Tuned!](https://open.spotify.com/playlist/37i9dQZF1DWYSNbqvqvhBQ)
 
-> Luister naar de fijnste nieuwe songs en hits van dit moment! Cover: Ed Sheeran
+> Luister naar de fijnste nieuwe songs en hits van dit moment! Cover: Lewis Capaldi
 
-167 songs - 9 hr 38 min
+170 songs - 9 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,6 +24,7 @@
 | [Ballad Of Easy Rider](https://open.spotify.com/track/5Nn8SPmzJUV3xUZFBdFjcV) | [Mell & Vintage Future](https://open.spotify.com/artist/0gP5wSp6he2gUcPa5gunV8) | [Ballad Of Easy Rider](https://open.spotify.com/album/0QQxEoiKi7sgUjlAzjTQCS) | 2:05 | 2023-02-23 |  |
 | [Believer](https://open.spotify.com/track/4QthYp34wrGAPQEvbz9QNS) | [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0) | [Believer](https://open.spotify.com/album/0h77eG0HVYZ2ki4T9qIHou) | 4:23 | 2023-02-23 | 2023-04-29 |
 | [Best Damn Day](https://open.spotify.com/track/0MgfP0e6VkyQXSvjfNZ7bM) | [The Jordan](https://open.spotify.com/artist/7uV6WztwBfEmbGrVPANEaW) | [Best Damn Day](https://open.spotify.com/album/2a1m48rQO8BWkeIApM0Iu5) | 3:12 | 2023-02-23 | 2023-03-03 |
+| [Better Man](https://open.spotify.com/track/7qqOrc0Uvpvl5NvoAPRGLE) | [Sekou](https://open.spotify.com/artist/1mYgKcXdbklH5RwjU6XA8c) | [Better Man](https://open.spotify.com/album/1hfIWkFQJnxCtCTWshLEX7) | 3:12 | 2023-05-18 |  |
 | [Big Smoke](https://open.spotify.com/track/1uxjRXDM6VHF5TSinQvErE) | [Matt Corby](https://open.spotify.com/artist/7CIW23FQUXPc1zebnO1TDG) | [Everything's Fine](https://open.spotify.com/album/2OOTl13Kx9KxMF1ESG2u58) | 3:38 | 2023-03-24 |  |
 | [Big Smoke](https://open.spotify.com/track/66miBbiy913lgyKOCdFta0) | [Matt Corby](https://open.spotify.com/artist/7CIW23FQUXPc1zebnO1TDG) | [Big Smoke](https://open.spotify.com/album/55jejAjtHUgzIbF2Lde861) | 3:38 | 2023-02-23 | 2023-03-27 |
 | [Bliss](https://open.spotify.com/track/1v0PrbGuumgytx0OTUbE06) | [Billy Raffoul](https://open.spotify.com/artist/5gw5ANPCVcxU0maLiGRzzP) | [Bliss](https://open.spotify.com/album/3AC9w8ZS4iERfDJ0JmG2zh) | 2:24 | 2023-02-23 |  |
@@ -66,6 +67,7 @@
 | [GOSSIP \(feat\. Tom Morello\)](https://open.spotify.com/track/4GvPlSOKfN7aXEuGW8zKUx) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr), [Tom Morello](https://open.spotify.com/artist/74NBPbyyftqJ4SpDZ4c1Ed) | [GOSSIP \(feat\. Tom Morello\)](https://open.spotify.com/album/6kHJE5xnpA6zncKOD70bS8) | 2:48 | 2023-02-23 | 2023-05-12 |
 | [Hang On](https://open.spotify.com/track/28PvEJuegs01Cs1zElNScW) | [SIX60](https://open.spotify.com/artist/1caoBfXJrbKCwIaTzGkyHn) | [Castle St](https://open.spotify.com/album/4xsF8vbA01OKUvapkElizI) | 2:42 | 2023-02-23 | 2023-03-03 |
 | [Hard Days Love](https://open.spotify.com/track/4OHWSZO1Y2tfE1i1jkQRcO) | [Lily Moore](https://open.spotify.com/artist/1SQeTDXO492WB6aFvrntSS) | [Hard Days Love](https://open.spotify.com/album/7cnKO4UgV9NnJz098ZlG4X) | 3:43 | 2023-02-23 |  |
+| [Haven't You Ever Been In Love Before?](https://open.spotify.com/track/7136zBuda3024ZQUTBB1Vg) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Broken By Desire To Be Heavenly Sent](https://open.spotify.com/album/0ECSyPejfD7oL95dD3jgoi) | 3:50 | 2023-05-18 |  |
 | [Head Held High](https://open.spotify.com/track/1MnTcyXc7vcPVgstIWAQCd) | [SERA](https://open.spotify.com/artist/3Anj5rCWtYTgRvV7pdq6GE) | [Head Held High](https://open.spotify.com/album/31USChxDJRBNE8iNlf7Nre) | 3:16 | 2023-02-23 | 2023-05-07 |
 | [Head Held High](https://open.spotify.com/track/60sCCPmAff8HfYWpaXQQ9e) | [SERA](https://open.spotify.com/artist/3Anj5rCWtYTgRvV7pdq6GE) | [Head Held High](https://open.spotify.com/album/7w5yY2cw3KJqRoVnlNzmrt) | 3:16 | 2023-05-04 |  |
 | [Heart And Soul](https://open.spotify.com/track/2qsxxtgNo91XMsz6fZjFYs) | [Niels Geusebroek](https://open.spotify.com/artist/7D22FhEGzT4jxbjWryB63l) | [Heart And Soul](https://open.spotify.com/album/2BgRGjEHjI4mCsBtIir7Up) | 2:54 | 2023-04-06 |  |
@@ -93,6 +95,7 @@
 | [Jaded](https://open.spotify.com/track/3AAY8YicetRPlDAkibHLiS) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Endless Summer Vacation](https://open.spotify.com/album/0HiZ8fNXwJOQcrf5iflrdz) | 3:05 | 2023-03-30 |  |
 | [James Dean](https://open.spotify.com/track/2MVt6GD9AVbmniOIng0rVz) | [Tash Sultana](https://open.spotify.com/artist/6zVFRTB0Y1whWyH7ZNmywf) | [James Dean](https://open.spotify.com/album/61YMV5YCWzd4FmQAeBmraP) | 4:26 | 2023-05-09 |  |
 | [James Dean](https://open.spotify.com/track/77Gdk4vNjXNxQ3fTBu3Nbq) | [Tash Sultana](https://open.spotify.com/artist/6zVFRTB0Y1whWyH7ZNmywf) | [James Dean](https://open.spotify.com/album/2oLPnNQQIreeFE4csdq5An) | 4:26 | 2023-03-17 | 2023-05-11 |
+| [JUMP!](https://open.spotify.com/track/3XfqHrrVnG4BI2XAOaYiim) | [Only The Poets](https://open.spotify.com/artist/3Z40kLBFU7C8532e2YLE9t) | [JUMP!](https://open.spotify.com/album/6IJQx7e2CdRtZ4VN5QvoSD) | 3:14 | 2023-05-18 |  |
 | [Last Night](https://open.spotify.com/track/59uQI0PADDKeE6UZDTJEe8) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [3 Songs At A Time Sampler](https://open.spotify.com/album/7fOmdhRrRohTzToL617xkk) | 2:43 | 2023-03-09 |  |
 | [Leap Of Faith](https://open.spotify.com/track/01a7LTYpdceGcfRbOI2aN7) | [Savine](https://open.spotify.com/artist/7n0hWtsxPEDc5ZjuKvbybc) | [Leap Of Faith](https://open.spotify.com/album/7b8MzBFxoAU3NlJcMAggJc) | 3:26 | 2023-02-23 |  |
 | [Let Me Go](https://open.spotify.com/track/4AwJSk491AvHk2AAJReGzZ) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [Let Me Go](https://open.spotify.com/album/3jQtxhyRMPYcYcHvFhI05D) | 3:36 | 2023-02-23 |  |
@@ -109,7 +112,7 @@
 | [Met Jou Kan Ik Het Aan](https://open.spotify.com/track/6Zdqcxtwx0TwkXhs7LwIru) | [Anouk](https://open.spotify.com/artist/6ltVunYjAAD70YtVO6rxvX), [Emma Heesters](https://open.spotify.com/artist/3898xesz6JuQkpz7Kiu4uM) | [Met Jou Kan Ik Het Aan](https://open.spotify.com/album/1h0e3xS9fYiZ3v1zx2HLU2) | 4:03 | 2023-02-23 | 2023-05-05 |
 | [Morgen Wordt Fantastisch](https://open.spotify.com/track/2UI9rmmINuXVWeOrprjWBy) | [Acda en de Munnik](https://open.spotify.com/artist/040Fqhc0l7a4MPeDx6cneh) | [Morgen Wordt Fantastisch](https://open.spotify.com/album/2gwvQ8E4bcZbua78zLrj61) | 2:38 | 2023-03-24 |  |
 | [Never Gonna Not Dance Again](https://open.spotify.com/track/6sZo5nJIsFWXefRCCexpx0) | [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR) | [Never Gonna Not Dance Again](https://open.spotify.com/album/6MCHSjoEVriUjWE6LERAaR) | 3:45 | 2023-02-23 |  |
-| [Never Had To Know](https://open.spotify.com/track/0wVrS0Jg01HNeJcs5TyUBK) | [The Vices](https://open.spotify.com/artist/6TSjJlhB2taxea58rCkMkj) | [Never Had To Know](https://open.spotify.com/album/4Zxmi8lD3dGz5OuRS5qvtU) | 3:31 | 2023-02-23 |  |
+| [Never Had To Know](https://open.spotify.com/track/0wVrS0Jg01HNeJcs5TyUBK) | [The Vices](https://open.spotify.com/artist/6TSjJlhB2taxea58rCkMkj) | [Never Had To Know](https://open.spotify.com/album/4Zxmi8lD3dGz5OuRS5qvtU) | 3:31 | 2023-02-23 | 2023-05-19 |
 | [Never Look Back](https://open.spotify.com/track/3K3bZDkHev8R7Clcqs2u8M) | [Tom Gregory](https://open.spotify.com/artist/6Rmg5JiRphFMlhkwGNl9Fu) | [Never Look Back](https://open.spotify.com/album/4GVxVTIaQg7zEEQ2Fqsu0q) | 2:42 | 2023-04-21 |  |
 | [Night Moves](https://open.spotify.com/track/6HOqWQFDKYvZp28ujtEuVu) | [Lissie](https://open.spotify.com/artist/3j4FHbC5zwmYGJ7r0ZgaMt) | [Carving Canyons](https://open.spotify.com/album/0keDX0kFNMMZtGWK3YP5GO) | 3:08 | 2023-02-23 | 2023-03-18 |
 | [Nothing Left To Lose](https://open.spotify.com/track/02zPsXmSUP6Rr1Z2w5KMpf) | [Everything But The Girl](https://open.spotify.com/artist/13ccXrK7AmXb4TddMkE7jy) | [Nothing Left To Lose](https://open.spotify.com/album/2NQLpA0EfQtDIMViTywa69) | 3:44 | 2023-02-23 |  |
@@ -122,7 +125,7 @@
 | [Pennies From Heaven](https://open.spotify.com/track/3lctgxC0qiFwW20NCQn8Oe) | [Josh Island](https://open.spotify.com/artist/5VJxJ1utvXvjDV14FzaeN4) | [Pennies From Heaven](https://open.spotify.com/album/0FJpIBzbo2EQGGCqUFQMx2) | 4:15 | 2023-02-23 | 2023-03-18 |
 | [People \(feat\. Cian Ducrot\)](https://open.spotify.com/track/0SCOKZU2gpsrvLa4T1VStt) | [Libianca](https://open.spotify.com/artist/7kjSuFGKhLm8b5qXoMhRkJ), [Cian Ducrot](https://open.spotify.com/artist/49jTY62Cpw3RYo4dLuG43W) | [People \(Remixes\)](https://open.spotify.com/album/2Ebc4HsLcB4fXrTA5oNE5G) | 3:04 | 2023-04-20 |  |
 | [Plan B](https://open.spotify.com/track/5VznAumfWkTREKil1KIr2Z) | [Tim Dawn](https://open.spotify.com/artist/55VC7UDCmceodks4rbHgHe) | [Plan B](https://open.spotify.com/album/6oRNdc43yuhj9QC0IJgmzd) | 3:05 | 2023-02-23 | 2023-04-14 |
-| [Pointless](https://open.spotify.com/track/4JBiO7wRnE6ueszEUpo347) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Pointless](https://open.spotify.com/album/7DA9v7969Er1YXEb0z41E7) | 3:48 | 2023-02-23 |  |
+| [Pointless](https://open.spotify.com/track/4JBiO7wRnE6ueszEUpo347) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Pointless](https://open.spotify.com/album/7DA9v7969Er1YXEb0z41E7) | 3:48 | 2023-02-23 | 2023-05-19 |
 | [Pride \(In The Name Of Love\) \- Songs Of Surrender](https://open.spotify.com/track/6CKAooQEn3KvEqJjTqCeMI) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [Pride \(In The Name Of Love\) \[Songs Of Surrender\]](https://open.spotify.com/album/6A7Gfg1fPBLrbRxQdya0vK) | 3:57 | 2023-02-23 |  |
 | [Put A Light On Me](https://open.spotify.com/track/3oCgJ0B0aba0X09OtdI8Fc) | [Sam Ryder](https://open.spotify.com/artist/1rvnJJghrxl1xakJZct08m) | [There’s Nothing But Space, Man!](https://open.spotify.com/album/2n0ez0hSIrItwkVxDKXHlO) | 3:05 | 2023-02-23 |  |
 | [Running Backwards Into The Future](https://open.spotify.com/track/6roWUYJAxJW0o5Khr1sU9F) | [De Staat](https://open.spotify.com/artist/4rZJKub3qA5t1yYcT3qmm4) | [blue](https://open.spotify.com/album/26sG7sfbd4Omstr01DGf16) | 3:54 | 2023-03-09 |  |
@@ -134,7 +137,7 @@
 | [Sooner Or Later](https://open.spotify.com/track/2G3IHfidz4PpQ5OBw405y4) | [Sabrina Starke](https://open.spotify.com/artist/1wTUsxee6HtnB6Z6QiUCub), [Tasha's World](https://open.spotify.com/artist/0s826k2Yy9FVmxhFsOAQoF) | [Our Time Our Music](https://open.spotify.com/album/6Us1exWgXEYOBrmKGacJwi) | 5:20 | 2023-02-23 | 2023-03-11 |
 | [Special \(feat\. SZA\)](https://open.spotify.com/track/0rc1HCVoReqzzXF9jssqZk) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Special \(feat\. SZA\)](https://open.spotify.com/album/5Qw3usvS6dDOE0ErN6tl7O) | 2:54 | 2023-02-23 |  |
 | [Spoiler Alert](https://open.spotify.com/track/14p2o2hh7wJuSoosGZsljx) | [Cosmic Crooner](https://open.spotify.com/artist/3dsyPsXzfTDfXC3dUOw3xq) | [Spoiler Alert](https://open.spotify.com/album/1IAHly3YU8Z1i9BOQyJPyA) | 3:46 | 2023-03-02 |  |
-| [Still Got It Goin' On \- Radio Edit](https://open.spotify.com/track/0s29NsEfTyZQ5FFeQbVWWs) | [Young Gun Silver Fox](https://open.spotify.com/artist/3qQloBz05T6e0rKubNCmjG) | [Still Got It Goin' On \(Radio Edit\)](https://open.spotify.com/album/70IIzf8VDiLTvmKIVFQjzz) | 4:03 | 2023-02-23 |  |
+| [Still Got It Goin' On \- Radio Edit](https://open.spotify.com/track/0s29NsEfTyZQ5FFeQbVWWs) | [Young Gun Silver Fox](https://open.spotify.com/artist/3qQloBz05T6e0rKubNCmjG) | [Still Got It Goin' On \(Radio Edit\)](https://open.spotify.com/album/70IIzf8VDiLTvmKIVFQjzz) | 4:03 | 2023-02-23 | 2023-05-19 |
 | [Stolen Moments](https://open.spotify.com/track/01A4youwmsFnrTMXd1r3uV) | [Lucinda Williams](https://open.spotify.com/artist/60ht0hWRy1yjUDfNsLuHuP) | [Stolen Moments](https://open.spotify.com/album/6QtTNlxnp9AAadwv4qIFGw) | 4:48 | 2023-04-20 |  |
 | [Stop The Clock](https://open.spotify.com/track/02glDG5euIeWyzBV2b0MgW) | [Blanko](https://open.spotify.com/artist/2Dk2jkQQYILtFAG09Vjvux) | [Stop The Clock](https://open.spotify.com/album/0scrK1CNaESEDSXhOeLfUX) | 3:46 | 2023-02-23 | 2023-05-10 |
 | [Stranger](https://open.spotify.com/track/5KwNUpElQKHRdWdeevn9ed) | [Cookhouse](https://open.spotify.com/artist/2WgdUdSR8xudGOXLzSMJ4g) | [Stranger](https://open.spotify.com/album/301gR98Ztmx5lOhZLAE8WI) | 3:23 | 2023-02-23 | 2023-03-25 |

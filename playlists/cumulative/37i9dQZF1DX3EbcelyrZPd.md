@@ -2,9 +2,9 @@
 
 ### [Bongo Flava](https://open.spotify.com/playlist/37i9dQZF1DX3EbcelyrZPd)
 
-> Get your fill of vibes straight out of Tanzania\. Cover: Rayvanny
+> Get your fill of vibes straight out of Tanzania\. Cover: Alikiba
 
-236 songs - 13 hr 24 min
+238 songs - 13 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,7 +15,7 @@
 | [Anaconda](https://open.spotify.com/track/5z4TYCJddMV0BNBauAv8XF) | [Ommy Dimpoz](https://open.spotify.com/artist/3xf0XXmoiUgVVyZBYYjpt6), [Blaq Diamond](https://open.spotify.com/artist/7hdf9DSpgCpqVh03Ql1LKe) | [Dedication](https://open.spotify.com/album/2POxnPAwIL0Lq9QKszh9Qg) | 4:06 | 2022-10-27 | 2023-02-03 |
 | [Anaconda](https://open.spotify.com/track/71UeIOgkpbPG13l2lyHAAW) | [Ommy Dimpoz](https://open.spotify.com/artist/3xf0XXmoiUgVVyZBYYjpt6), [Blaq Diamond](https://open.spotify.com/artist/7hdf9DSpgCpqVh03Ql1LKe) | [Anaconda](https://open.spotify.com/album/3HEpRngOWlMvGzjLPWeWhD) | 4:06 | 2022-10-27 | 2022-11-17 |
 | [As Long As You Know](https://open.spotify.com/track/7r5Qp6eZKc4xzLQAgVF9C2) | [Jux](https://open.spotify.com/artist/2ZLAPSgdMTOcovno5mGBZW) | [As Long As You Know](https://open.spotify.com/album/3BpM5KGAB2WAbMMVOvQYnk) | 3:17 | 2022-01-27 | 2022-08-19 |
-| [Asali](https://open.spotify.com/track/6zOkUcfqRYE6vc1iIa2KtB) | [Alikiba](https://open.spotify.com/artist/2nGoKcLdXktxEXvMdTDsIT) | [Asali](https://open.spotify.com/album/1949QLHsnthywLL5n79tAz) | 3:41 | 2022-09-29 |  |
+| [Asali](https://open.spotify.com/track/6zOkUcfqRYE6vc1iIa2KtB) | [Alikiba](https://open.spotify.com/artist/2nGoKcLdXktxEXvMdTDsIT) | [Asali](https://open.spotify.com/album/1949QLHsnthywLL5n79tAz) | 3:41 | 2022-09-29 | 2023-05-19 |
 | [Atakuoa Nani](https://open.spotify.com/track/3QvqMNOkzolUbbhFx8aFro) | [Nay Wa Mitego](https://open.spotify.com/artist/3P97oGJM0vr8VZEz1HX1aq), [Stamina](https://open.spotify.com/artist/1lNZxLtB9UxI8jMSabmSX7), [MABANTU](https://open.spotify.com/artist/41d5wDbsNkjpFaRI7jUHl8) | [Atakuoa Nani](https://open.spotify.com/album/0lXqNUGMmDkVrttr2HPbUk) | 3:11 | 2022-06-09 | 2022-09-23 |
 | [Attitude \(feat\. H Baba & Awilo Longomba\)](https://open.spotify.com/track/0g0hP1iIE9wndu2QySOnLj) | [Harmonize](https://open.spotify.com/artist/1eCaedusgydlcn69blHOvL), [Awilo Longomba](https://open.spotify.com/artist/0WDUZIWwoxCyAfT7NFFSFT), [H Baba](https://open.spotify.com/artist/2noAGWWAoNCEw8WdKhXx8D) | [Attitude \(feat\. H Baba & Awilo Longomba\)](https://open.spotify.com/album/3e5jWuAM4Tmfsz287xT5wE) | 4:44 | 2021-08-26 | 2022-02-05 |
 | [Bado Natafuta](https://open.spotify.com/track/4zXLZzQDLpPgNGCKd2ZTfZ) | [Nino Tz](https://open.spotify.com/artist/3LTyFY0h2skH9h7Us2kGEn) | [Bado Natafuta](https://open.spotify.com/album/3OPs7PQYNDanBf77wX9KxV) | 3:45 | 2022-04-07 | 2022-07-23 |
@@ -52,6 +52,7 @@
 | [For You](https://open.spotify.com/track/4xu63atX4wbJ5puwlzu2vW) | [Marioo](https://open.spotify.com/artist/4ZTqTkO2kj1doQrbqQ5KEe) | [Yale](https://open.spotify.com/album/6pfvSkYxXAJCvnL7zT8ueO) | 3:24 | 2021-09-09 | 2022-07-29 |
 | [For Your Love \(feat\. Zuchu\)](https://open.spotify.com/track/1J6P9Dt1Ab8ZQTzWbDW8es) | [Mbosso](https://open.spotify.com/artist/2aD5NzVGvpZmoMKu07M6Sa), [Zuchu](https://open.spotify.com/artist/6LzSS8yBk2YQpAvQxzOu0M) | [For Your Love \(feat\. Zuchu\)](https://open.spotify.com/album/0HD9bj3s370MOajfNWvzvx) | 3:53 | 2021-11-11 | 2023-01-20 |
 | [Forever](https://open.spotify.com/track/2mIBy2thG7ZiECOf7tkUuG) | [Rayvanny](https://open.spotify.com/artist/7G9dCn1mqomAa0ucJoBm6J) | [Forever](https://open.spotify.com/album/1LRJODu1aDERRG75QiCpwH) | 4:22 | 2023-02-09 |  |
+| [Funga Kazi](https://open.spotify.com/track/34opJEgUasCJmsFKp2CVjY) | [Manengo](https://open.spotify.com/artist/340oRLVQms0ZR6ijh6mFGS), [Darassa](https://open.spotify.com/artist/34iDTihXiyRsnPa8dCF05a) | [Funga Kazi](https://open.spotify.com/album/5Rwo0KZZrd0Dy4tSyhvE7j) | 3:06 | 2023-05-18 |  |
 | [Gidi](https://open.spotify.com/track/06bEwGenmg6cgbfDj6Jw7F) | [Diamond Platnumz](https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod) | [Gidi](https://open.spotify.com/album/5sN7Aqocqc5gQ3p3vYVYQt) | 2:47 | 2022-02-24 | 2023-01-27 |
 | [Gimmie \(feat\. Rema\)](https://open.spotify.com/track/6s5wglU27mZ8yTjbEJXFRV) | [Diamond Platnumz](https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod), [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Gimmie \(feat\. Rema\)](https://open.spotify.com/album/7smV0L7kT4G5UBvk7jfLWC) | 2:42 | 2021-10-21 | 2022-06-03 |
 | [Hadithi \(feat\. Diamond Platnumz\)](https://open.spotify.com/track/5TrEBfukZOp890EY750Ktn) | [Barnaba](https://open.spotify.com/artist/3ICwBdKVyEdVqFqZX0BAks), [Diamond Platnumz](https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod) | [Love Sounds Different](https://open.spotify.com/album/7uUGjipQKNBau0C3KASL56) | 2:38 | 2022-08-19 |  |
@@ -145,7 +146,7 @@
 | [Naogopa](https://open.spotify.com/track/7dpCzGxbcTzSL3j6mKdSuG) | [Marioo](https://open.spotify.com/artist/4ZTqTkO2kj1doQrbqQ5KEe), [Harmonize](https://open.spotify.com/artist/1eCaedusgydlcn69blHOvL) | [Naogopa](https://open.spotify.com/album/0YkcJmRaaQwGjs5BPoQaP5) | 4:00 | 2022-04-14 | 2023-03-03 |
 | [Napambana](https://open.spotify.com/track/6ARSJuBT3AHST84dvdKyZW) | [Zuchu](https://open.spotify.com/artist/6LzSS8yBk2YQpAvQxzOu0M) | [Napambana](https://open.spotify.com/album/4TyVZ4X2oEFC9xav9nUaLA) | 2:58 | 2023-03-02 |  |
 | [Napendwa](https://open.spotify.com/track/3u6R15tCAq3raSJlIuTorR) | [Mocco Genius](https://open.spotify.com/artist/0qR7Js4rYymyutq0Sh8Fz9) | [Napendwa](https://open.spotify.com/album/5xrpONTifEME2SshnJEjkZ) | 3:32 | 2022-09-01 | 2023-03-10 |
-| [Napona](https://open.spotify.com/track/0vqWa6py4X96uFeaue6DKv) | [Nandy](https://open.spotify.com/artist/2YfO4GV7JrFSXyfEoa5id3), [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT) | [Napona](https://open.spotify.com/album/2g6WReKqmaMix2XTl58AI6) | 2:49 | 2022-07-07 |  |
+| [Napona](https://open.spotify.com/track/0vqWa6py4X96uFeaue6DKv) | [Nandy](https://open.spotify.com/artist/2YfO4GV7JrFSXyfEoa5id3), [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT) | [Napona](https://open.spotify.com/album/2g6WReKqmaMix2XTl58AI6) | 2:49 | 2022-07-07 | 2023-05-19 |
 | [Natamani](https://open.spotify.com/track/66e3PI32YFAtjWS6JckXW7) | [Brown Mauzo](https://open.spotify.com/artist/2ee8EQ0K7tAYVxHT9suKdf) | [Nitulize](https://open.spotify.com/album/1ewr5cJO5MHYhYhM6aj6Jj) | 3:45 | 2021-10-21 | 2022-02-11 |
 | [Ndombolo \(feat\. AbduKiba, K2ga & Tommy Flavour\)](https://open.spotify.com/track/0LS9OwMeG8F46UbnXprQSK) | [Alikiba](https://open.spotify.com/artist/2nGoKcLdXktxEXvMdTDsIT), [Abdukiba](https://open.spotify.com/artist/3x8WCqlqNZRdGrZ7lbEzJk), [K2ga](https://open.spotify.com/artist/1Tg2IP8iwTQwYyoggU9ZAW), [Tommy Flavour](https://open.spotify.com/artist/71Jz2mbUErvv3YnRSLJTAu) | [Ndombolo \(feat\. AbduKiba, K2ga & Tommy Flavour\)](https://open.spotify.com/album/43FwegLk89Afrx8IlgYVtI) | 2:59 | 2021-08-26 | 2022-07-09 |
 | [Ng'ari Ng'ari](https://open.spotify.com/track/6a2bPw2tY0yTAsFUQqdccf) | [Lava Lava](https://open.spotify.com/artist/2cL2c9xC1XYPHP9HkToTkd) | [Ng'ari Ng'ari](https://open.spotify.com/album/2OkhAnQxJPqgebWQwFHdC4) | 4:29 | 2021-12-16 | 2023-01-20 |
@@ -173,6 +174,7 @@
 | [Nyumba Ndogo](https://open.spotify.com/track/1GAmhYpbEPorhkSOecnVqj) | [Zuchu](https://open.spotify.com/artist/6LzSS8yBk2YQpAvQxzOu0M) | [Nyumba Ndogo](https://open.spotify.com/album/3X3LJtY2Y3FVpZfWxTGbGb) | 4:01 | 2021-09-09 | 2022-04-08 |
 | [ODG \- Remix](https://open.spotify.com/track/3BqDMZ9MxSaoXe3zuVIKuR) | [Eltee Skhillz](https://open.spotify.com/artist/2TaztBC0I5tyAKvuFvVoTT), [Rayvanny](https://open.spotify.com/artist/7G9dCn1mqomAa0ucJoBm6J) | [ODG \(Remix\)](https://open.spotify.com/album/6vh28C9UkOKgW8K1KQ5Q2M) | 3:15 | 2022-08-11 | 2023-02-10 |
 | [Okay](https://open.spotify.com/track/5Jgw4HpMpnetmRxc7P8Fm9) | [Beka Flavour](https://open.spotify.com/artist/6jETz99dtLj1EgPF1C3xvU) | [Okay](https://open.spotify.com/album/3h3wSoFadNAYHiEF0XpRGj) | 3:33 | 2023-05-04 |  |
+| [On Fire](https://open.spotify.com/track/1RzREeP3SPfTd4qMSTTUtg) | [Alikiba](https://open.spotify.com/artist/2nGoKcLdXktxEXvMdTDsIT) | [On Fire](https://open.spotify.com/album/3UQRnsR6Ie8yozVIOoTHK8) | 3:27 | 2023-05-18 |  |
 | [Outside](https://open.spotify.com/track/0Gbt8huGfNeXD0qFjsBkl1) | [Harmonize](https://open.spotify.com/artist/1eCaedusgydlcn69blHOvL) | [High School](https://open.spotify.com/album/3z6kTovG8bmftnLzrmCLWu) | 3:06 | 2021-11-11 | 2022-05-06 |
 | [Oya Oya](https://open.spotify.com/track/5l1j75XxjCKV82YQRnfCNl) | [Alikiba](https://open.spotify.com/artist/2nGoKcLdXktxEXvMdTDsIT) | [ONLY ONE KING](https://open.spotify.com/album/0u649Gff5qgywplGmwA74P) | 3:27 | 2021-10-07 | 2022-06-03 |
 | [Papaa](https://open.spotify.com/track/06MXbcZxZqPJPcFHaQLmkL) | [B Gway](https://open.spotify.com/artist/2McpxRWbFB0yp0zsh38XOZ) | [Papaa](https://open.spotify.com/album/77qytTZiJTwHdJTfANVsrk) | 2:13 | 2022-07-07 | 2022-10-08 |

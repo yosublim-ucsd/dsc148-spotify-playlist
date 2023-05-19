@@ -1,12 +1,12 @@
 {
   "description": "Why so serious? Get through your workday with K-Pop. (\ub0b4\uc801\ub304\uc2a4 \uc720\ubc1c \ub178\ub3d9\uc694\uc640 \ud568\uaed8 \uc2e0\ub098\ub294 \uc5c5\ubb34\uc2dc\uac04\uc744 \ubcf4\ub0b4\uc138\uc694!)",
-  "num_followers": 109598,
+  "num_followers": 109634,
   "original_name": "Workday K-Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2Y2JjN2I1YmNlNzJhYzc2NzhiYTAwYjg1NDA2ZmQ3N2I3ODhhNDlm",
+  "snapshot_id": "MCxjZWYyYzBhNDRkOTNlNGNmMmM3N2RmNzJiMzdjMDE5OGZjYjk5YjQ3",
   "tracks": [
     {
       "added_at": "2023-03-28 12:30:30",
@@ -191,18 +191,18 @@
     {
       "added_at": "2023-03-28 12:30:30",
       "album": {
-        "name": "BETWEEN 1&2",
-        "url": "https://open.spotify.com/album/3NZ94nQbqimcu2i71qhc4f"
+        "name": "DIMENSION : ANSWER",
+        "url": "https://open.spotify.com/album/3nOj9hsnptBEDt9ie2lra5"
       },
       "artists": [
         {
-          "name": "TWICE",
-          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
+          "name": "ENHYPEN",
+          "url": "https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9"
         }
       ],
-      "duration_ms": 177466,
-      "name": "Talk that Talk",
-      "url": "https://open.spotify.com/track/0RDqNCRBGrSegk16Avfzuq"
+      "duration_ms": 184601,
+      "name": "Polaroid Love",
+      "url": "https://open.spotify.com/track/5elW2CKSoqjYoJ32AGDxf1"
     },
     {
       "added_at": "2023-03-28 12:30:30",
@@ -255,18 +255,18 @@
     {
       "added_at": "2023-03-28 12:30:30",
       "album": {
-        "name": "DIMENSION : ANSWER",
-        "url": "https://open.spotify.com/album/3nOj9hsnptBEDt9ie2lra5"
+        "name": "BETWEEN 1&2",
+        "url": "https://open.spotify.com/album/3NZ94nQbqimcu2i71qhc4f"
       },
       "artists": [
         {
-          "name": "ENHYPEN",
-          "url": "https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9"
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
         }
       ],
-      "duration_ms": 184601,
-      "name": "Polaroid Love",
-      "url": "https://open.spotify.com/track/5elW2CKSoqjYoJ32AGDxf1"
+      "duration_ms": 177466,
+      "name": "Talk that Talk",
+      "url": "https://open.spotify.com/track/0RDqNCRBGrSegk16Avfzuq"
     },
     {
       "added_at": "2023-03-28 12:30:30",
@@ -423,22 +423,18 @@
     {
       "added_at": "2023-03-28 12:30:30",
       "album": {
-        "name": "PSY 9th",
-        "url": "https://open.spotify.com/album/7hbSWdxliNs551GXtflIZB"
+        "name": "BORDER : CARNIVAL",
+        "url": "https://open.spotify.com/album/4LGYBcRsteiXjcPD4QQvxv"
       },
       "artists": [
         {
-          "name": "PSY",
-          "url": "https://open.spotify.com/artist/2dd5mrQZvg6SmahdgVKDzh"
-        },
-        {
-          "name": "SUGA",
-          "url": "https://open.spotify.com/artist/0ebNdVaOfp6N0oZ1guIxM8"
+          "name": "ENHYPEN",
+          "url": "https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9"
         }
       ],
-      "duration_ms": 174646,
-      "name": "That That (prod. & feat. SUGA of BTS)",
-      "url": "https://open.spotify.com/track/7GNRUsU3M4XNDDB9xle5Dz"
+      "duration_ms": 172106,
+      "name": "FEVER",
+      "url": "https://open.spotify.com/track/0UzymivvUH5s8z4PeWZJaK"
     },
     {
       "added_at": "2023-03-28 12:30:30",
@@ -475,18 +471,22 @@
     {
       "added_at": "2023-03-28 12:30:30",
       "album": {
-        "name": "BORDER : CARNIVAL",
-        "url": "https://open.spotify.com/album/4LGYBcRsteiXjcPD4QQvxv"
+        "name": "PSY 9th",
+        "url": "https://open.spotify.com/album/7hbSWdxliNs551GXtflIZB"
       },
       "artists": [
         {
-          "name": "ENHYPEN",
-          "url": "https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9"
+          "name": "PSY",
+          "url": "https://open.spotify.com/artist/2dd5mrQZvg6SmahdgVKDzh"
+        },
+        {
+          "name": "SUGA",
+          "url": "https://open.spotify.com/artist/0ebNdVaOfp6N0oZ1guIxM8"
         }
       ],
-      "duration_ms": 172106,
-      "name": "FEVER",
-      "url": "https://open.spotify.com/track/0UzymivvUH5s8z4PeWZJaK"
+      "duration_ms": 174646,
+      "name": "That That (prod. & feat. SUGA of BTS)",
+      "url": "https://open.spotify.com/track/7GNRUsU3M4XNDDB9xle5Dz"
     },
     {
       "added_at": "2023-03-28 12:30:30",
@@ -817,7 +817,7 @@
       "url": "https://open.spotify.com/track/56Yxkm62GtEpnPyG7TvwLY"
     },
     {
-      "added_at": "2023-05-18 01:23:54",
+      "added_at": "2023-05-19 01:23:20",
       "album": {
         "name": "Sour & Sweet",
         "url": "https://open.spotify.com/album/7kLnuncjYJPmSHM2aLjyET"
@@ -1147,22 +1147,6 @@
     {
       "added_at": "2023-03-28 12:30:30",
       "album": {
-        "name": "THE SECOND STEP : CHAPTER TWO",
-        "url": "https://open.spotify.com/album/4l5YvRcmno5RMKZCZp1j0g"
-      },
-      "artists": [
-        {
-          "name": "TREASURE",
-          "url": "https://open.spotify.com/artist/3KonOYiLsU53m4yT7gNotP"
-        }
-      ],
-      "duration_ms": 181432,
-      "name": "HELLO",
-      "url": "https://open.spotify.com/track/1ex8euBuzVyqjThnYfwY2k"
-    },
-    {
-      "added_at": "2023-03-28 12:30:30",
-      "album": {
         "name": "GUESS WHO",
         "url": "https://open.spotify.com/album/4lS8nhX8cplsYPzKjvhw6G"
       },
@@ -1175,6 +1159,22 @@
       "duration_ms": 172373,
       "name": "In the morning",
       "url": "https://open.spotify.com/track/1Wcr8zrKqbUX0zwN8Dbr16"
+    },
+    {
+      "added_at": "2023-03-28 12:30:30",
+      "album": {
+        "name": "THE SECOND STEP : CHAPTER TWO",
+        "url": "https://open.spotify.com/album/4l5YvRcmno5RMKZCZp1j0g"
+      },
+      "artists": [
+        {
+          "name": "TREASURE",
+          "url": "https://open.spotify.com/artist/3KonOYiLsU53m4yT7gNotP"
+        }
+      ],
+      "duration_ms": 181432,
+      "name": "HELLO",
+      "url": "https://open.spotify.com/track/1ex8euBuzVyqjThnYfwY2k"
     },
     {
       "added_at": "2023-03-28 12:30:30",
@@ -1243,6 +1243,22 @@
     {
       "added_at": "2023-03-28 12:30:30",
       "album": {
+        "name": "Not Shy",
+        "url": "https://open.spotify.com/album/5NN55LKbjzX16a7Uf8u7Os"
+      },
+      "artists": [
+        {
+          "name": "ITZY",
+          "url": "https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3"
+        }
+      ],
+      "duration_ms": 177728,
+      "name": "Not Shy",
+      "url": "https://open.spotify.com/track/1ehags7lQMM1qX94VJkoaf"
+    },
+    {
+      "added_at": "2023-03-28 12:30:30",
+      "album": {
         "name": "Illusion",
         "url": "https://open.spotify.com/album/4r815m6eq8OXYzfqtk3FST"
       },
@@ -1271,22 +1287,6 @@
       "duration_ms": 202533,
       "name": "FOREVER 1",
       "url": "https://open.spotify.com/track/1oen3GpTcA486fTHaT7neg"
-    },
-    {
-      "added_at": "2023-03-28 12:30:30",
-      "album": {
-        "name": "Not Shy",
-        "url": "https://open.spotify.com/album/5NN55LKbjzX16a7Uf8u7Os"
-      },
-      "artists": [
-        {
-          "name": "ITZY",
-          "url": "https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3"
-        }
-      ],
-      "duration_ms": 177728,
-      "name": "Not Shy",
-      "url": "https://open.spotify.com/track/1ehags7lQMM1qX94VJkoaf"
     },
     {
       "added_at": "2023-03-28 12:30:30",
@@ -1327,54 +1327,6 @@
     {
       "added_at": "2023-03-28 12:30:30",
       "album": {
-        "name": "One-reeler / Act IV",
-        "url": "https://open.spotify.com/album/3gfl9D7cMW3K87YiMbqsWK"
-      },
-      "artists": [
-        {
-          "name": "IZ*ONE",
-          "url": "https://open.spotify.com/artist/5r1tUTxVSgvBHnoDuDODPH"
-        }
-      ],
-      "duration_ms": 222853,
-      "name": "Panorama",
-      "url": "https://open.spotify.com/track/0CnpSTdL9l5vQM4YnzXtyo"
-    },
-    {
-      "added_at": "2023-03-28 12:30:30",
-      "album": {
-        "name": "SEVENTEEN 1ST ALBUM [FIRST \u2018LOVE&LETTER\u2019]",
-        "url": "https://open.spotify.com/album/50BrkBakrLWufmTLjCVBwn"
-      },
-      "artists": [
-        {
-          "name": "SEVENTEEN",
-          "url": "https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH"
-        }
-      ],
-      "duration_ms": 207299,
-      "name": "Pretty U",
-      "url": "https://open.spotify.com/track/1117juaaAkSIUsQxTmmcKM"
-    },
-    {
-      "added_at": "2023-03-28 12:30:30",
-      "album": {
-        "name": "\u56de:Walpurgis Night",
-        "url": "https://open.spotify.com/album/6keRNtq7CnhNrD2EIKOA6h"
-      },
-      "artists": [
-        {
-          "name": "GFRIEND",
-          "url": "https://open.spotify.com/artist/0qlWcS66ohOIi0M8JZwPft"
-        }
-      ],
-      "duration_ms": 199133,
-      "name": "MAGO",
-      "url": "https://open.spotify.com/track/46WaBBaEHzgbN88Ew0nh50"
-    },
-    {
-      "added_at": "2023-03-28 12:30:30",
-      "album": {
         "name": "THE BADDEST",
         "url": "https://open.spotify.com/album/7C8nskYbHG7N0LDrNVvt7x"
       },
@@ -1403,6 +1355,54 @@
       "duration_ms": 162600,
       "name": "THE BADDEST",
       "url": "https://open.spotify.com/track/2V4Fx72svQRxrFvNT1eq5f"
+    },
+    {
+      "added_at": "2023-03-28 12:30:30",
+      "album": {
+        "name": "SEVENTEEN 1ST ALBUM [FIRST \u2018LOVE&LETTER\u2019]",
+        "url": "https://open.spotify.com/album/50BrkBakrLWufmTLjCVBwn"
+      },
+      "artists": [
+        {
+          "name": "SEVENTEEN",
+          "url": "https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH"
+        }
+      ],
+      "duration_ms": 207299,
+      "name": "Pretty U",
+      "url": "https://open.spotify.com/track/1117juaaAkSIUsQxTmmcKM"
+    },
+    {
+      "added_at": "2023-03-28 12:30:30",
+      "album": {
+        "name": "One-reeler / Act IV",
+        "url": "https://open.spotify.com/album/3gfl9D7cMW3K87YiMbqsWK"
+      },
+      "artists": [
+        {
+          "name": "IZ*ONE",
+          "url": "https://open.spotify.com/artist/5r1tUTxVSgvBHnoDuDODPH"
+        }
+      ],
+      "duration_ms": 222853,
+      "name": "Panorama",
+      "url": "https://open.spotify.com/track/0CnpSTdL9l5vQM4YnzXtyo"
+    },
+    {
+      "added_at": "2023-03-28 12:30:30",
+      "album": {
+        "name": "\u56de:Walpurgis Night",
+        "url": "https://open.spotify.com/album/6keRNtq7CnhNrD2EIKOA6h"
+      },
+      "artists": [
+        {
+          "name": "GFRIEND",
+          "url": "https://open.spotify.com/artist/0qlWcS66ohOIi0M8JZwPft"
+        }
+      ],
+      "duration_ms": 199133,
+      "name": "MAGO",
+      "url": "https://open.spotify.com/track/46WaBBaEHzgbN88Ew0nh50"
     },
     {
       "added_at": "2023-03-28 12:30:30",
@@ -1487,18 +1487,18 @@
     {
       "added_at": "2023-03-28 12:30:30",
       "album": {
-        "name": "COLOR*IZ",
-        "url": "https://open.spotify.com/album/5Fl13rfH2DRRTo6OV4ecJY"
+        "name": "SUNMI SPECIAL EDITION [Gashina]",
+        "url": "https://open.spotify.com/album/3TSX6AxLdCP4E5o3F5jCdN"
       },
       "artists": [
         {
-          "name": "IZ*ONE",
-          "url": "https://open.spotify.com/artist/5r1tUTxVSgvBHnoDuDODPH"
+          "name": "SUNMI",
+          "url": "https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6"
         }
       ],
-      "duration_ms": 218993,
-      "name": "La Vie en Rose",
-      "url": "https://open.spotify.com/track/3WfaJhCL4p2JbdffJjV6Va"
+      "duration_ms": 180000,
+      "name": "Gashina",
+      "url": "https://open.spotify.com/track/0jFHMDRXxKaREor3hBEEST"
     },
     {
       "added_at": "2023-03-28 12:30:30",
@@ -1519,34 +1519,18 @@
     {
       "added_at": "2023-03-28 12:30:30",
       "album": {
-        "name": "SUNMI SPECIAL EDITION [Gashina]",
-        "url": "https://open.spotify.com/album/3TSX6AxLdCP4E5o3F5jCdN"
+        "name": "COLOR*IZ",
+        "url": "https://open.spotify.com/album/5Fl13rfH2DRRTo6OV4ecJY"
       },
       "artists": [
         {
-          "name": "SUNMI",
-          "url": "https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6"
+          "name": "IZ*ONE",
+          "url": "https://open.spotify.com/artist/5r1tUTxVSgvBHnoDuDODPH"
         }
       ],
-      "duration_ms": 180000,
-      "name": "Gashina",
-      "url": "https://open.spotify.com/track/0jFHMDRXxKaREor3hBEEST"
-    },
-    {
-      "added_at": "2023-03-28 12:30:30",
-      "album": {
-        "name": "mono.",
-        "url": "https://open.spotify.com/album/1vsTrL1h2bRHP1kUPvlIyb"
-      },
-      "artists": [
-        {
-          "name": "RM",
-          "url": "https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs"
-        }
-      ],
-      "duration_ms": 275954,
-      "name": "seoul (prod. HONNE)",
-      "url": "https://open.spotify.com/track/1sKsYTGy8XfHjCYqcudqG5"
+      "duration_ms": 218993,
+      "name": "La Vie en Rose",
+      "url": "https://open.spotify.com/track/3WfaJhCL4p2JbdffJjV6Va"
     },
     {
       "added_at": "2023-03-28 12:30:30",
@@ -1567,6 +1551,22 @@
       "duration_ms": 175775,
       "name": "VIBE (feat. Jimin of BTS)",
       "url": "https://open.spotify.com/track/4NIe9Is7bN5JWyTeCW2ahK"
+    },
+    {
+      "added_at": "2023-03-28 12:30:30",
+      "album": {
+        "name": "mono.",
+        "url": "https://open.spotify.com/album/1vsTrL1h2bRHP1kUPvlIyb"
+      },
+      "artists": [
+        {
+          "name": "RM",
+          "url": "https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs"
+        }
+      ],
+      "duration_ms": 275954,
+      "name": "seoul (prod. HONNE)",
+      "url": "https://open.spotify.com/track/1sKsYTGy8XfHjCYqcudqG5"
     },
     {
       "added_at": "2023-03-28 12:30:30",
@@ -1815,22 +1815,6 @@
     {
       "added_at": "2023-03-28 12:30:30",
       "album": {
-        "name": "TREASURE EPILOGUE : Action To Answer",
-        "url": "https://open.spotify.com/album/3TTkDOcSzRQCvGMT7VmmPE"
-      },
-      "artists": [
-        {
-          "name": "ATEEZ",
-          "url": "https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L"
-        }
-      ],
-      "duration_ms": 219760,
-      "name": "Answer",
-      "url": "https://open.spotify.com/track/3IdPtyJHB1WVPM4eCiCAKM"
-    },
-    {
-      "added_at": "2023-03-28 12:30:30",
-      "album": {
         "name": "FATE NUMBER FOR",
         "url": "https://open.spotify.com/album/7aUSYOs4iSl0qx28lelrs0"
       },
@@ -1843,6 +1827,22 @@
       "duration_ms": 203056,
       "name": "REALLY REALLY",
       "url": "https://open.spotify.com/track/4iJyTp1KwCeBKhf7h0SwsD"
+    },
+    {
+      "added_at": "2023-03-28 12:30:30",
+      "album": {
+        "name": "TREASURE EPILOGUE : Action To Answer",
+        "url": "https://open.spotify.com/album/3TTkDOcSzRQCvGMT7VmmPE"
+      },
+      "artists": [
+        {
+          "name": "ATEEZ",
+          "url": "https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L"
+        }
+      ],
+      "duration_ms": 219760,
+      "name": "Answer",
+      "url": "https://open.spotify.com/track/3IdPtyJHB1WVPM4eCiCAKM"
     },
     {
       "added_at": "2023-03-28 12:30:30",
@@ -1983,22 +1983,6 @@
     {
       "added_at": "2023-03-28 12:30:30",
       "album": {
-        "name": "Guilty Pleasure",
-        "url": "https://open.spotify.com/album/7jke1vYOze3jdyTiWhtFnz"
-      },
-      "artists": [
-        {
-          "name": "Hwa Sa",
-          "url": "https://open.spotify.com/artist/7bmYpVgQub656uNTu6qGNQ"
-        }
-      ],
-      "duration_ms": 167333,
-      "name": "I`m a B",
-      "url": "https://open.spotify.com/track/1AToLLvWghQgiBFef1iGuR"
-    },
-    {
-      "added_at": "2023-03-28 12:30:30",
-      "album": {
         "name": "White Wind",
         "url": "https://open.spotify.com/album/60m09rutmwj5ewOJoFIAVY"
       },
@@ -2011,6 +1995,22 @@
       "duration_ms": 195855,
       "name": "gogobebe",
       "url": "https://open.spotify.com/track/6E7jAJN2e3znSHyPCdQqx8"
+    },
+    {
+      "added_at": "2023-03-28 12:30:30",
+      "album": {
+        "name": "Guilty Pleasure",
+        "url": "https://open.spotify.com/album/7jke1vYOze3jdyTiWhtFnz"
+      },
+      "artists": [
+        {
+          "name": "Hwa Sa",
+          "url": "https://open.spotify.com/artist/7bmYpVgQub656uNTu6qGNQ"
+        }
+      ],
+      "duration_ms": 167333,
+      "name": "I`m a B",
+      "url": "https://open.spotify.com/track/1AToLLvWghQgiBFef1iGuR"
     },
     {
       "added_at": "2023-03-28 12:30:30",
@@ -2139,6 +2139,22 @@
     {
       "added_at": "2023-03-28 12:30:30",
       "album": {
+        "name": "NOEASY",
+        "url": "https://open.spotify.com/album/558tpdCejjVQNFAumRAeQj"
+      },
+      "artists": [
+        {
+          "name": "Stray Kids",
+          "url": "https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE"
+        }
+      ],
+      "duration_ms": 212480,
+      "name": "Mixtape : OH",
+      "url": "https://open.spotify.com/track/2afx8zfrOsN3QVEWSx5IPp"
+    },
+    {
+      "added_at": "2023-03-28 12:30:30",
+      "album": {
         "name": "Love War",
         "url": "https://open.spotify.com/album/3gWIe0cTPYqrI8xIYHjten"
       },
@@ -2155,22 +2171,6 @@
       "duration_ms": 188280,
       "name": "Love War (Feat. BE'O)",
       "url": "https://open.spotify.com/track/1UjN1QVbHnzJiqjkqzWmZK"
-    },
-    {
-      "added_at": "2023-03-28 12:30:30",
-      "album": {
-        "name": "NOEASY",
-        "url": "https://open.spotify.com/album/558tpdCejjVQNFAumRAeQj"
-      },
-      "artists": [
-        {
-          "name": "Stray Kids",
-          "url": "https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE"
-        }
-      ],
-      "duration_ms": 212480,
-      "name": "Mixtape : OH",
-      "url": "https://open.spotify.com/track/2afx8zfrOsN3QVEWSx5IPp"
     },
     {
       "added_at": "2023-03-28 12:30:30",
@@ -2375,22 +2375,6 @@
     {
       "added_at": "2023-03-28 12:30:30",
       "album": {
-        "name": "DON'T FIGHT THE FEELING - Special Album",
-        "url": "https://open.spotify.com/album/7Jw48lPmYuYftfQv5LmAzI"
-      },
-      "artists": [
-        {
-          "name": "EXO",
-          "url": "https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O"
-        }
-      ],
-      "duration_ms": 176546,
-      "name": "Don't fight the feeling",
-      "url": "https://open.spotify.com/track/42fR3oINF3KfXCDtheoNiY"
-    },
-    {
-      "added_at": "2023-03-28 12:30:30",
-      "album": {
         "name": "AH YEAH",
         "url": "https://open.spotify.com/album/54r8xseUAz0c9ORidjAKmZ"
       },
@@ -2403,6 +2387,22 @@
       "duration_ms": 189882,
       "name": "Up & Down",
       "url": "https://open.spotify.com/track/6BKOhvRPY54uvfqWwg7MKi"
+    },
+    {
+      "added_at": "2023-03-28 12:30:30",
+      "album": {
+        "name": "DON'T FIGHT THE FEELING - Special Album",
+        "url": "https://open.spotify.com/album/7Jw48lPmYuYftfQv5LmAzI"
+      },
+      "artists": [
+        {
+          "name": "EXO",
+          "url": "https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O"
+        }
+      ],
+      "duration_ms": 176546,
+      "name": "Don't fight the feeling",
+      "url": "https://open.spotify.com/track/42fR3oINF3KfXCDtheoNiY"
     },
     {
       "added_at": "2023-03-28 12:30:30",
@@ -2455,22 +2455,6 @@
     {
       "added_at": "2023-03-28 12:30:30",
       "album": {
-        "name": "MOVE AGAIN",
-        "url": "https://open.spotify.com/album/6VxGMuJlJzQgxUca7zRqGk"
-      },
-      "artists": [
-        {
-          "name": "KARA",
-          "url": "https://open.spotify.com/artist/7aZ221EQfonNG2lO9Hh192"
-        }
-      ],
-      "duration_ms": 178360,
-      "name": "WHEN I MOVE",
-      "url": "https://open.spotify.com/track/7gjNxZa0eOEFLY1So9s3fC"
-    },
-    {
-      "added_at": "2023-03-28 12:30:30",
-      "album": {
         "name": "Savage - The 1st Mini Album",
         "url": "https://open.spotify.com/album/3vyyDkvYWC36DwgZCYd3Wu"
       },
@@ -2483,6 +2467,22 @@
       "duration_ms": 214853,
       "name": "I'll Make You Cry",
       "url": "https://open.spotify.com/track/6l1dTAhX7P6EKvA11NLNuW"
+    },
+    {
+      "added_at": "2023-03-28 12:30:30",
+      "album": {
+        "name": "MOVE AGAIN",
+        "url": "https://open.spotify.com/album/6VxGMuJlJzQgxUca7zRqGk"
+      },
+      "artists": [
+        {
+          "name": "KARA",
+          "url": "https://open.spotify.com/artist/7aZ221EQfonNG2lO9Hh192"
+        }
+      ],
+      "duration_ms": 178360,
+      "name": "WHEN I MOVE",
+      "url": "https://open.spotify.com/track/7gjNxZa0eOEFLY1So9s3fC"
     },
     {
       "added_at": "2023-03-28 12:30:30",
@@ -2607,22 +2607,6 @@
     {
       "added_at": "2023-03-28 12:30:30",
       "album": {
-        "name": "H1-KEY 1st Mini Album [Rose Blossom]",
-        "url": "https://open.spotify.com/album/6SiQfUj2qhO7kg66BwvY9L"
-      },
-      "artists": [
-        {
-          "name": "H1-KEY",
-          "url": "https://open.spotify.com/artist/5GwQwY63I9hrUUFlQB8FYU"
-        }
-      ],
-      "duration_ms": 195480,
-      "name": "Rose Blossom",
-      "url": "https://open.spotify.com/track/29j6SXQOmfSbiemMriO25W"
-    },
-    {
-      "added_at": "2023-03-28 12:30:30",
-      "album": {
         "name": "Puberty Book\u2160 Bom",
         "url": "https://open.spotify.com/album/0JkeId5EsudMnCK3UHe7cg"
       },
@@ -2639,18 +2623,34 @@
     {
       "added_at": "2023-03-28 12:30:30",
       "album": {
-        "name": "LOVE me",
-        "url": "https://open.spotify.com/album/47PYjiWlimZJ2QT1LOrtLK"
+        "name": "H1-KEY 1st Mini Album [Rose Blossom]",
+        "url": "https://open.spotify.com/album/6SiQfUj2qhO7kg66BwvY9L"
       },
       "artists": [
         {
-          "name": "BE'O",
-          "url": "https://open.spotify.com/artist/5NUVwRESNqYBUTRbiATjy7"
+          "name": "H1-KEY",
+          "url": "https://open.spotify.com/artist/5GwQwY63I9hrUUFlQB8FYU"
         }
       ],
-      "duration_ms": 173440,
-      "name": "LOVE me",
-      "url": "https://open.spotify.com/track/3oiMjDZ1bShIpFfOQf55IW"
+      "duration_ms": 195480,
+      "name": "Rose Blossom",
+      "url": "https://open.spotify.com/track/29j6SXQOmfSbiemMriO25W"
+    },
+    {
+      "added_at": "2023-03-28 12:30:30",
+      "album": {
+        "name": "MEMORY",
+        "url": "https://open.spotify.com/album/3Q34hV5fBbMpRpADmlptr7"
+      },
+      "artists": [
+        {
+          "name": "MAMAMOO",
+          "url": "https://open.spotify.com/artist/0XATRDCYuuGhk0oE7C0o5G"
+        }
+      ],
+      "duration_ms": 215997,
+      "name": "D\u00e9calcomanie",
+      "url": "https://open.spotify.com/track/5WitNasXEIRptoLIQUcXMx"
     },
     {
       "added_at": "2023-03-28 12:30:30",
@@ -2671,18 +2671,18 @@
     {
       "added_at": "2023-03-28 12:30:30",
       "album": {
-        "name": "MEMORY",
-        "url": "https://open.spotify.com/album/3Q34hV5fBbMpRpADmlptr7"
+        "name": "LOVE me",
+        "url": "https://open.spotify.com/album/47PYjiWlimZJ2QT1LOrtLK"
       },
       "artists": [
         {
-          "name": "MAMAMOO",
-          "url": "https://open.spotify.com/artist/0XATRDCYuuGhk0oE7C0o5G"
+          "name": "BE'O",
+          "url": "https://open.spotify.com/artist/5NUVwRESNqYBUTRbiATjy7"
         }
       ],
-      "duration_ms": 215997,
-      "name": "D\u00e9calcomanie",
-      "url": "https://open.spotify.com/track/5WitNasXEIRptoLIQUcXMx"
+      "duration_ms": 173440,
+      "name": "LOVE me",
+      "url": "https://open.spotify.com/track/3oiMjDZ1bShIpFfOQf55IW"
     },
     {
       "added_at": "2023-03-28 12:30:30",
@@ -3303,22 +3303,6 @@
     {
       "added_at": "2023-03-28 12:30:30",
       "album": {
-        "name": "HORN",
-        "url": "https://open.spotify.com/album/6GeYzOIumBxJ4iF41J3KXM"
-      },
-      "artists": [
-        {
-          "name": "Apink",
-          "url": "https://open.spotify.com/artist/2uWcrwgWmZcQc3IPBs3tfU"
-        }
-      ],
-      "duration_ms": 209207,
-      "name": "Dilemma",
-      "url": "https://open.spotify.com/track/3j0x2BUUtm2obQXS1lZuN3"
-    },
-    {
-      "added_at": "2023-03-28 12:30:30",
-      "album": {
         "name": "EVERYD4Y",
         "url": "https://open.spotify.com/album/0PT0APCmw2DVgX4JJYtrzU"
       },
@@ -3331,6 +3315,22 @@
       "duration_ms": 206350,
       "name": "EVERYDAY",
       "url": "https://open.spotify.com/track/7nSbcCwzzF7WUjNU9h9uGE"
+    },
+    {
+      "added_at": "2023-03-28 12:30:30",
+      "album": {
+        "name": "HORN",
+        "url": "https://open.spotify.com/album/6GeYzOIumBxJ4iF41J3KXM"
+      },
+      "artists": [
+        {
+          "name": "Apink",
+          "url": "https://open.spotify.com/artist/2uWcrwgWmZcQc3IPBs3tfU"
+        }
+      ],
+      "duration_ms": 209207,
+      "name": "Dilemma",
+      "url": "https://open.spotify.com/track/3j0x2BUUtm2obQXS1lZuN3"
     },
     {
       "added_at": "2023-03-28 12:30:30",

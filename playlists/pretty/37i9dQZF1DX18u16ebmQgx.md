@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX18u16ebmQgx.md) - [plain]
 
 > ¡Brillando baldosa! Foto: Grupo Niche
 
-[Spotify](https://open.spotify.com/user/spotify) - 120,720 likes - 65 songs - 4 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 120,782 likes - 65 songs - 4 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [En Barranquilla Me Quedo](https://open.spotify.com/track/3WXfQDsASfXrSojk9WB3aR) | [Joe Arroyo](https://open.spotify.com/artist/7BFnoFhJjLWcsqmN3Hizqg), [La Verdad](https://open.spotify.com/artist/54h3j85gGrqCsfK8D0RuUM) | [32 Cañonazos](https://open.spotify.com/album/6ubTK1qVLWQSblspjFxtZn) | 5:12 |
+| 1 | [En Barranquilla Me Quedo](https://open.spotify.com/track/4Agimk8dKdPJD7M6HBCK42) | [El Sonero de América](https://open.spotify.com/artist/4DcQLuuhUHDw7YiQRa8JCQ) | [35 Años de Exitos](https://open.spotify.com/album/4nfjoOl3eiSXqHulPYSAja) | 5:11 |
 | 2 | [Ese Día \- Versión Sinfónica](https://open.spotify.com/track/5FmxyYJlL2VA2Bc0lN6xrG) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8), [Orquesta Sinfónica Nacional de Colombia](https://open.spotify.com/artist/7sUl9zCp7EkwUAnAEaH26W) | [Niche Sinfónico](https://open.spotify.com/album/7F3HcqByo2nroGMBTzdb7w) | 6:16 |
 | 3 | [Hagamos Lo Que Diga el Corazón \- Versión Sinfónica](https://open.spotify.com/track/4hylk17Bo5u7qK7FfjNz7v) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8), [Orquesta Sinfónica Nacional de Colombia](https://open.spotify.com/artist/7sUl9zCp7EkwUAnAEaH26W) | [Hagamos Lo Que Diga el Corazón \(Versión Sinfónica\)](https://open.spotify.com/album/4oQHXfUffQUYqRgb6zc4A2) | 5:38 |
 | 4 | [Logré Olvidar](https://open.spotify.com/track/6jH9HbI5VQAhHT9Srddivo) | [Manyoma Brothers](https://open.spotify.com/artist/1jriNjegHWOysnyACg9Qe3) | [Soy la Generación](https://open.spotify.com/album/68OC8H6MlIrTIrOdTqO2tt) | 4:27 |
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX18u16ebmQgx.md) - [plain]
 | 25 | [Devórame Otra Vez](https://open.spotify.com/track/1JOaoxY1MAPUg41HvDW2vu) | [Maía](https://open.spotify.com/artist/1IKP8dm7pmlkZS4V4MzKkI) | [Tributo 7 / 80](https://open.spotify.com/album/0BOyJjTxR09DlNQxIV292R) | 4:16 |
 | 26 | [Manyoma](https://open.spotify.com/track/3TA9nq749Dfq7VwirwPuiJ) | [Fruko Y Sus Tesos](https://open.spotify.com/artist/5aAlzehdUM14I4ppq24Xob) | [The Afrosound Of Colombia Volume 1](https://open.spotify.com/album/7GuPa60Lh3Wlls5rMGpOJf) | 4:08 |
 | 27 | [El Amor de Mi Vida "Se Fue"](https://open.spotify.com/track/3iPlRUr1BKFQVlVM6zxFWl) | [Grupo Galé](https://open.spotify.com/artist/4152ZUds7gXsqYQexUonDP) | [Auténtico](https://open.spotify.com/album/2Nfgyq7smkbHjmz5Rnz7zD) | 4:39 |
-| 28 | [La Noche](https://open.spotify.com/track/2uyCcoHiRGttV0uXaNXGB1) | [Joe Arroyo](https://open.spotify.com/artist/7BFnoFhJjLWcsqmN3Hizqg), [La Verdad](https://open.spotify.com/artist/54h3j85gGrqCsfK8D0RuUM) | [Milenario, Vol\. 3](https://open.spotify.com/album/3OKmxN48BfZ9AaQwQXVlW2) | 4:25 |
+| 28 | [La Noche](https://open.spotify.com/track/5PZSJ82pbleLjUcxbSBp6R) | [El Sonero de América](https://open.spotify.com/artist/4DcQLuuhUHDw7YiQRa8JCQ) | [35 Años de Exitos](https://open.spotify.com/album/4nfjoOl3eiSXqHulPYSAja) | 4:23 |
 | 29 | [La Semilla](https://open.spotify.com/track/2AiboEBJGdThK0EiQwmvT7) | [Manteca Blue & the Latin Corner](https://open.spotify.com/artist/1lMoNvClPMQzDJ0vZK8Fys), [Marcial Istúriz](https://open.spotify.com/artist/3g4HfF9u5onPeMymTTPUNx) | [La Semilla](https://open.spotify.com/album/1nUMlgzPbxhdjGXOnm4r7K) | 4:53 |
 | 30 | [Curao en Salsa](https://open.spotify.com/track/1I70lW77TO4TbXAyAofPYy) | [Curao En Salsa](https://open.spotify.com/artist/6olL7cjgBRwpBZIphKCV5b) | [Salsa para el Bailador, Vol\. 1](https://open.spotify.com/album/7vqBHVKimf5ggc7PghVgMv) | 4:50 |
 | 31 | [Juan](https://open.spotify.com/track/4cou0fuQJ6O64pgPp5liuR) | [La\-33](https://open.spotify.com/artist/1Y2yzHPbBWZouNYTOGFq7u) | [Si Tú Quieres Salsa Lado B](https://open.spotify.com/album/7CcqaYJ0cit9w1z66pXcbn) | 3:51 |
@@ -57,7 +57,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX18u16ebmQgx.md) - [plain]
 | 47 | [Raquel](https://open.spotify.com/track/6V4l36LmwN0ZicPwC7SSsG) | [La Misma Gente](https://open.spotify.com/artist/4q3sKRFsDPs82sKriW34mJ) | [Sencillamente Genial Perfume de Paris](https://open.spotify.com/album/2TvA9Vz1RRAEUrgGvTWOyL) | 5:04 |
 | 48 | [Vendedora de Amor](https://open.spotify.com/track/3uzuhX2qGvWN1XbqXWsx1v) | [Moncho Santana](https://open.spotify.com/artist/2JqEiy0aIziuAupest70fk) | [Aqui Estoy](https://open.spotify.com/album/17PeYAzeVDjmS3mP121grU) | 4:35 |
 | 49 | [Sobredosis](https://open.spotify.com/track/0Ncmfi9ff3wTC87zGHAAKE) | [Los Titanes](https://open.spotify.com/artist/4dboOLuCgBpq31GG6xov2S) | [Grandes Exitos de Salsa](https://open.spotify.com/album/5YrlCDihTCk8ubcTapuc8E) | 4:12 |
-| 50 | [Pa'l Bailador](https://open.spotify.com/track/6rsAqgBNLooUcpO060WSv4) | [Joe Arroyo](https://open.spotify.com/artist/7BFnoFhJjLWcsqmN3Hizqg), [La Verdad](https://open.spotify.com/artist/54h3j85gGrqCsfK8D0RuUM) | [32 Cañonazos](https://open.spotify.com/album/6ubTK1qVLWQSblspjFxtZn) | 4:31 |
+| 50 | [Pa'l Bailador](https://open.spotify.com/track/3ZCANlHFDZ0mdDQotsKlxi) | [El Sonero de América](https://open.spotify.com/artist/4DcQLuuhUHDw7YiQRa8JCQ) | [35 Años de Exitos](https://open.spotify.com/album/4nfjoOl3eiSXqHulPYSAja) | 4:30 |
 | 51 | [Castigala](https://open.spotify.com/track/033vO3yfYViqWIKo8BdrTK) | [Los Nemus Del Pacifico](https://open.spotify.com/artist/58JENxULlTFsqJb5l2Nb50) | [14 Cañonazos Bailables 2001](https://open.spotify.com/album/6qv4XGcL5YzbSpAgmzYSfS) | 4:36 |
 | 52 | [La Salsa la Traigo Yo](https://open.spotify.com/track/5ljVAksVW3T7BUN3VvAxzB) | [Sonora Carruseles](https://open.spotify.com/artist/34qU0b0yRjEzRJtknerEDS), [Harold Pelaez](https://open.spotify.com/artist/7dSzgAh9oy23FLoZQtjaH7) | [Al Son de los Cueros](https://open.spotify.com/album/54c38xGI5RK6XolTmY2RFD) | 4:19 |
 | 53 | [Sentimiento Caleño](https://open.spotify.com/track/0Sv9GZus14o4AwvXb8CeYs) | [Tromboranga](https://open.spotify.com/artist/1d8flZp4PgQ17KR7RjtlJP) | [Salsa Pa Rato](https://open.spotify.com/album/6PiAJKP3eTFzCa0Bni784i) | 5:32 |
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX18u16ebmQgx.md) - [plain]
 | 64 | [Maria Canela](https://open.spotify.com/track/2AzJDIs4hDFvARTcTRGj0a) | [Cesar Mora](https://open.spotify.com/artist/0xR68AyQA5b3scD6PB8RPS) | [Hacerlo Bien](https://open.spotify.com/album/2hBVT5RuHoYHdfBAhxhPdd) | 5:02 |
 | 65 | [Barranquillero Arrebatao](https://open.spotify.com/track/1sRY0Zez8RbxqsxzEWjNLg) | [Fruko Y Sus Tesos](https://open.spotify.com/artist/5aAlzehdUM14I4ppq24Xob), [Wilson "Saoko" Manyoma](https://open.spotify.com/artist/43zrpWYGTWyHmRAmhE07u0) | [Grandes Exitos de Salsa, Vol\. 2](https://open.spotify.com/album/2htqg9e6AGwnIoVc0kceDU) | 4:20 |
 
-Snapshot ID: `MCw4YjMxNjExZDc5ODU1YzMyMzY1OWQzOTFmZjdmMjg3NjUxNjMyMTgw`
+Snapshot ID: `MCwxNzE4NDU0Y2ViNmJlNWE3NmQ3ODM2MWNmOTM0NzdkY2JiOWY0YmU1`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXecqWg9vXl0U.md) - [plain]
 
 > como en una nube\. Bedroom pop vibes featuring Cuco y The Marias.
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,953 likes - 75 songs - 3 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 44,003 likes - 75 songs - 3 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,14 +40,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXecqWg9vXl0U.md) - [plain]
 | 30 | [Volver A Empezar](https://open.spotify.com/track/2UuR56kahTzNGArpn3PWEF) | [Kaia Lana](https://open.spotify.com/artist/2w1kIJBDjYnpHHVLiTn3FJ) | [Volver A Empezar](https://open.spotify.com/album/2u7Y1Qyval9xBgqWo26ivN) | 2:55 |
 | 31 | [DE REVERSA](https://open.spotify.com/track/0q6JxbQUTLb1MVE3ucpDFW) | [Rubytates](https://open.spotify.com/artist/2Mk7yrY8Dt93tvVhyxh8Zj), [Solo Fernández](https://open.spotify.com/artist/0bvP91QlkYvAFP71Cw6PkM) | [DE REVERSA](https://open.spotify.com/album/37gbLafAooDbpx7AqX9O2B) | 3:04 |
 | 32 | [Nada Más](https://open.spotify.com/track/2zGgmBG8ARyxzFQWwZR1aF) | [Los Eclipses](https://open.spotify.com/artist/21EtvnD59JJJiUP0qZP7WY), [Eva de Marce](https://open.spotify.com/artist/1UgwU7ChXfMkwH9t6ivW2E), [Dan Solo](https://open.spotify.com/artist/7E1ZwNnXreZgJpmTNUJva7) | [Nada Más](https://open.spotify.com/album/4CmNOJ4aObpDo3bUSIq8Hz) | 3:23 |
-| 33 | [Dónde Se Fue](https://open.spotify.com/track/32ACpno0pKll8JsMywSpsG) | [Mike Soto](https://open.spotify.com/artist/0QuTRSu03o1Z4rmnyme9YV), [Exale](https://open.spotify.com/artist/476zvM4wDdcOOrDWKP9Wu7) | [Dónde Se Fue](https://open.spotify.com/album/5hyqHil6N94D39opduIeCB) | 2:46 |
-| 34 | [Cielo](https://open.spotify.com/track/24s5zi3ZFqtahbQTXCvG4k) | [Roy Borland](https://open.spotify.com/artist/5Vr2AKX7BHkLTslxmuSMF7) | [Cielo](https://open.spotify.com/album/7swaqGSBmLxQ2ebm1CUs6K) | 2:49 |
-| 35 | [Pensándote](https://open.spotify.com/track/27t3JKhBGtztVLquHwn6NX) | [RPLK](https://open.spotify.com/artist/1tuzO0TeRF6KAKsSbHD46g) | [Pensándote](https://open.spotify.com/album/6wygbshVymM5s9O72bQoXv) | 2:27 |
+| 33 | [Cielo](https://open.spotify.com/track/24s5zi3ZFqtahbQTXCvG4k) | [Roy Borland](https://open.spotify.com/artist/5Vr2AKX7BHkLTslxmuSMF7) | [Cielo](https://open.spotify.com/album/7swaqGSBmLxQ2ebm1CUs6K) | 2:49 |
+| 34 | [Pensándote](https://open.spotify.com/track/27t3JKhBGtztVLquHwn6NX) | [RPLK](https://open.spotify.com/artist/1tuzO0TeRF6KAKsSbHD46g) | [Pensándote](https://open.spotify.com/album/6wygbshVymM5s9O72bQoXv) | 2:27 |
+| 35 | [Dónde Se Fue](https://open.spotify.com/track/32ACpno0pKll8JsMywSpsG) | [Mike Soto](https://open.spotify.com/artist/0QuTRSu03o1Z4rmnyme9YV), [Exale](https://open.spotify.com/artist/476zvM4wDdcOOrDWKP9Wu7) | [Dónde Se Fue](https://open.spotify.com/album/5hyqHil6N94D39opduIeCB) | 2:46 |
 | 36 | [Instintos](https://open.spotify.com/track/4j8t4hyR1Q9SO3oQlgoam6) | [Mecánico](https://open.spotify.com/artist/2oUsBhAi9Mac4BjHxt55ct), [Surfistas Del Sistema](https://open.spotify.com/artist/5lB9hKk7gAgG5tkb9N1LaJ) | [Instintos](https://open.spotify.com/album/7sQaOy9wPUgiq2KM94RbES) | 3:28 |
 | 37 | [Muchas Cosas](https://open.spotify.com/track/5fLlj9hOTOQ7kMjLn6Fk1R) | [Natalia Lacunza](https://open.spotify.com/artist/3Zs59sqZJ6fWQqWbRC8bOP) | [Muchas Cosas](https://open.spotify.com/album/5NFXi4eXZPVT8eP0o1dxdT) | 2:32 |
-| 38 | [Rester](https://open.spotify.com/track/0vRnV2qupCciz74lZSHSos) | [Petite Amie](https://open.spotify.com/artist/79C3hxvHZM7O041gO8YQmw) | [Rester](https://open.spotify.com/album/58DM6YnsR26DX7PG8GA04M) | 4:57 |
-| 39 | [Idiota](https://open.spotify.com/track/3bHZsUnYWWjDgAbBK9KuKa) | [Manu Beker](https://open.spotify.com/artist/2MrcyIp9eo5ksKDkyeX6KH) | [Idiota](https://open.spotify.com/album/3LCaWH5lNjftW6IHgxV4sT) | 2:59 |
-| 40 | [me pongo un poco sad](https://open.spotify.com/track/2DNIlO8K5KAmyTuLuaNBFe) | [tomásss](https://open.spotify.com/artist/1nOrtxkuKfkyRj34uW9bsw) | [me pongo un poco sad](https://open.spotify.com/album/3SWWEY1GChVLNY4be0j37U) | 3:19 |
+| 38 | [Idiota](https://open.spotify.com/track/3bHZsUnYWWjDgAbBK9KuKa) | [Manu Beker](https://open.spotify.com/artist/2MrcyIp9eo5ksKDkyeX6KH) | [Idiota](https://open.spotify.com/album/3LCaWH5lNjftW6IHgxV4sT) | 2:59 |
+| 39 | [me pongo un poco sad](https://open.spotify.com/track/2DNIlO8K5KAmyTuLuaNBFe) | [tomásss](https://open.spotify.com/artist/1nOrtxkuKfkyRj34uW9bsw) | [me pongo un poco sad](https://open.spotify.com/album/3SWWEY1GChVLNY4be0j37U) | 3:19 |
+| 40 | [Rester](https://open.spotify.com/track/0vRnV2qupCciz74lZSHSos) | [Petite Amie](https://open.spotify.com/artist/79C3hxvHZM7O041gO8YQmw) | [Rester](https://open.spotify.com/album/58DM6YnsR26DX7PG8GA04M) | 4:57 |
 | 41 | [El After](https://open.spotify.com/track/1m2KS0EUn9XVzOg5i7gSa8) | [Clara Yolks](https://open.spotify.com/artist/7EGQpkwkyAgaJSgnRGHJ59) | [Lo Que Siento](https://open.spotify.com/album/7g3d9jGbhx6AAulszHztyM) | 3:19 |
 | 42 | [Chill](https://open.spotify.com/track/2m0v4ZdHJQuSnmq5zWmVdf) | [Miranda Santizo](https://open.spotify.com/artist/0vnFLa5I5bovwTOiCebuCT) | [Chill](https://open.spotify.com/album/7wa4ARFBWocpk28s1GA0v0) | 2:43 |
 | 43 | [Ojos](https://open.spotify.com/track/15WodMbVgXo5jVuGtYztjp) | [Montufar](https://open.spotify.com/artist/6BuzxLQYLRoxxjuD8iSx1t) | [Ojos](https://open.spotify.com/album/1aubTSnt8NNqx2mYBLNhsX) | 3:42 |
@@ -59,8 +59,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXecqWg9vXl0U.md) - [plain]
 | 49 | [Unstoppable](https://open.spotify.com/track/47pbvBtWtt7aMHENsw8ehQ) | [Sexy Pigeon](https://open.spotify.com/artist/4gnQSPui3dzrkaFdf18P6U) | [Polaroid Paradise](https://open.spotify.com/album/10NBQIh2ZteCveetOTwx01) | 2:00 |
 | 50 | [He comprado ❁](https://open.spotify.com/track/6z1PKqF3jdLP24olrQnCbE) | [Ganges](https://open.spotify.com/artist/7gtqMRAdH6DvPm2gdoI17Q) | [He comprado ❁](https://open.spotify.com/album/4g8gmnPaXz8l59vmKLGPML) | 2:36 |
 | 51 | [Deriva](https://open.spotify.com/track/4mq5Fc0p42DxzI05nF7DBE) | [Kimberley Tell](https://open.spotify.com/artist/1NTTlLcsHvqOZFC6CQp6Ka) | [Error 404](https://open.spotify.com/album/0dJ3IRwbv8qfIBsk3MxnBp) | 1:54 |
-| 52 | [A Veces](https://open.spotify.com/track/2cKXMsSXJZp5eAlxGejt8V) | [MOSBI](https://open.spotify.com/artist/6kvoEVPUc4pJ6w8QO4DHef) | [A Veces](https://open.spotify.com/album/2FTVypZbrNE91J7ChtirLQ) | 3:59 |
-| 53 | [Siempre Hago Lo Que Quiero](https://open.spotify.com/track/1vplR8zbm1rQWYskepMvtb) | [Clara Yolks](https://open.spotify.com/artist/7EGQpkwkyAgaJSgnRGHJ59), [Duplat](https://open.spotify.com/artist/74Bgwc5zD9KyNHiMqy2QJO) | [Siempre Hago Lo Que Quiero](https://open.spotify.com/album/0FOVQGRKiBAXNRc0nPg2Tt) | 3:44 |
+| 52 | [Siempre Hago Lo Que Quiero](https://open.spotify.com/track/1vplR8zbm1rQWYskepMvtb) | [Clara Yolks](https://open.spotify.com/artist/7EGQpkwkyAgaJSgnRGHJ59), [Duplat](https://open.spotify.com/artist/74Bgwc5zD9KyNHiMqy2QJO) | [Siempre Hago Lo Que Quiero](https://open.spotify.com/album/0FOVQGRKiBAXNRc0nPg2Tt) | 3:44 |
+| 53 | [A Veces](https://open.spotify.com/track/2cKXMsSXJZp5eAlxGejt8V) | [MOSBI](https://open.spotify.com/artist/6kvoEVPUc4pJ6w8QO4DHef) | [A Veces](https://open.spotify.com/album/2FTVypZbrNE91J7ChtirLQ) | 3:59 |
 | 54 | [Especial](https://open.spotify.com/track/6M0iMWjgLJi6ndo5n0fCI8) | [sailawway](https://open.spotify.com/artist/7tg2hHygz0gM2dq5PrNH2q) | [Especial](https://open.spotify.com/album/4FSNPjZJIRazbypUcTzIH3) | 4:02 |
 | 55 | [Como Antes](https://open.spotify.com/track/6PpeVjbkQh759WPQVvieZU) | [Noa Sainz](https://open.spotify.com/artist/3kN2uYBnEM2IqRxa69sxkr), [Glass Cristina](https://open.spotify.com/artist/53g48F3bGMRlungRoVZ7FH) | [Como Antes](https://open.spotify.com/album/3PKLQmB3kl3OubFIdkV01O) | 3:52 |
 | 56 | [Origami](https://open.spotify.com/track/6OwCDKci5J0HlQfpYlKe9f) | [Mi$HNRZ](https://open.spotify.com/artist/1pnscOsCDX2GTRnmxT1l1C) | [Origami](https://open.spotify.com/album/5tWgfnBjbkKhn7j7Q23SgD) | 3:01 |
@@ -79,9 +79,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXecqWg9vXl0U.md) - [plain]
 | 69 | [Prometimos No Hablar](https://open.spotify.com/track/1aTHKQ5x0tBFmN9yW8jtLF) | [Cancamusa](https://open.spotify.com/artist/6GSnSFc0O2JMkPkGcBFsNc) | [Prometimos No Hablar](https://open.spotify.com/album/40jASBMnpbRBj7O8QfLUEU) | 4:19 |
 | 70 | [Curriculum Completo](https://open.spotify.com/track/2hsCy9vR1eAswd4Iuo7qAy) | [Clara Cava](https://open.spotify.com/artist/5bOm9wAui94GDhPOCKgmhY), [Lautaro Lopez](https://open.spotify.com/artist/4nD4jJ7anYuvuMtM8Wrspz) | [Curriculum Completo](https://open.spotify.com/album/5k20Vj3lG8aoiFjkuX8NiC) | 2:25 |
 | 71 | [Me Gustas Tanto](https://open.spotify.com/track/7fMshHtynGehLu7eVQj1hO) | [KNYA](https://open.spotify.com/artist/5OOwdQqnYQSdypLCSQ3Kvz) | [Me Gustas Tanto](https://open.spotify.com/album/6mLXxtHQXzFn7GPowncu1N) | 3:02 |
-| 72 | [ya no me quieres](https://open.spotify.com/track/7D4FD2YZTEeRGt33QJQ0Qq) | [Claudia Bain](https://open.spotify.com/artist/0HpMnoBW5aeXNr9tWZyPWt), [Karma C](https://open.spotify.com/artist/0o5CzIkmDyHMF4yG4CrAxh) | [serpiente](https://open.spotify.com/album/7ElzcGBp1I4fyWP9VfRaSz) | 2:00 |
-| 73 | [Hola Lola](https://open.spotify.com/track/5IfspIqcWREksXTijVm3M9) | [Andru](https://open.spotify.com/artist/3oOQ670Uw0UyVnmj9XM58W) | [Hola Lola](https://open.spotify.com/album/5QMxRYcUld2N5Oe75ePcge) | 3:57 |
-| 74 | [Animal](https://open.spotify.com/track/0oj0QRfjA5WsLvZkoOQk6f) | [Norwayy](https://open.spotify.com/artist/2Oco3IVZNWcII3kGXRaNaU) | [Animal](https://open.spotify.com/album/1YeMVUEEBUcehIKC8PQkK5) | 4:15 |
-| 75 | [deja de estudiar](https://open.spotify.com/track/5s4fyhzcUH7BJvONjNap6B) | [Greta Ela](https://open.spotify.com/artist/5c8L3nGznkMGwbmyMKVIl8), [Palmasur](https://open.spotify.com/artist/3H1jLGJzOPn3WbEv6fvJ3M) | [deja de estudiar](https://open.spotify.com/album/5F6c6rMQktJjbB1s06xZCI) | 2:37 |
+| 72 | [Hola Lola](https://open.spotify.com/track/5IfspIqcWREksXTijVm3M9) | [Andru](https://open.spotify.com/artist/3oOQ670Uw0UyVnmj9XM58W) | [Hola Lola](https://open.spotify.com/album/5QMxRYcUld2N5Oe75ePcge) | 3:57 |
+| 73 | [ya no me quieres](https://open.spotify.com/track/7D4FD2YZTEeRGt33QJQ0Qq) | [Claudia Bain](https://open.spotify.com/artist/0HpMnoBW5aeXNr9tWZyPWt), [Karma C](https://open.spotify.com/artist/0o5CzIkmDyHMF4yG4CrAxh) | [serpiente](https://open.spotify.com/album/7ElzcGBp1I4fyWP9VfRaSz) | 2:00 |
+| 74 | [deja de estudiar](https://open.spotify.com/track/5s4fyhzcUH7BJvONjNap6B) | [Greta Ela](https://open.spotify.com/artist/5c8L3nGznkMGwbmyMKVIl8), [Palmasur](https://open.spotify.com/artist/3H1jLGJzOPn3WbEv6fvJ3M) | [deja de estudiar](https://open.spotify.com/album/5F6c6rMQktJjbB1s06xZCI) | 2:37 |
+| 75 | [Animal](https://open.spotify.com/track/0oj0QRfjA5WsLvZkoOQk6f) | [Norwayy](https://open.spotify.com/artist/2Oco3IVZNWcII3kGXRaNaU) | [Animal](https://open.spotify.com/album/1YeMVUEEBUcehIKC8PQkK5) | 4:15 |
 
-Snapshot ID: `MCwyMjU3N2FmMDdkNjJmNDk5NTYyYTg2YzFiMzlmMjM1MDY1ODhlMGFl`
+Snapshot ID: `MCwwNTdhYTRmOWM2ZWU0ZTViNjExOGVlNjJjNTdlMTg0NzdkYTAwMjZi`

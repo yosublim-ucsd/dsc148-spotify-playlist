@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-10-01",
-  "description": "Net die nuutste in Afrikaanse musiek. Cover: <a href=\"spotify:artist:1z3Cykt3bMtNbrY9SPGSI2\">Werner Van Der Hoven</a>",
+  "description": "Net die nuutste in Afrikaanse musiek. Cover: <a href=\"https://open.spotify.com/artist/4UCQCvz4wTboXTeYxfyvhR?si=15ZKEepeQBaNnbH2QuRv4g\">Marno van der Merwe</a>",
   "name": "Nuwe Afrikaans",
   "tracks": [
     {
@@ -370,6 +370,24 @@
       "duration_ms": 149267,
       "name": "Babbelas \u00b2 Kwadraat",
       "url": "https://open.spotify.com/track/1AOMZtWjYu7CMm0lmJuV40"
+    },
+    {
+      "album": {
+        "name": "Babel",
+        "url": "https://open.spotify.com/album/785ia4mmKv63pCkh6Nv9pq"
+      },
+      "artists": [
+        {
+          "name": "Almero",
+          "url": "https://open.spotify.com/artist/7dPungKhZV77MeaGRZwTNR"
+        }
+      ],
+      "date_added": "2023-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175071,
+      "name": "Babel",
+      "url": "https://open.spotify.com/track/1wCeEH5OsNOnj9MpmKBVR2"
     },
     {
       "album": {
@@ -1795,6 +1813,24 @@
     },
     {
       "album": {
+        "name": "Foute",
+        "url": "https://open.spotify.com/album/0JWQvljztDBVPOUmpqW07l"
+      },
+      "artists": [
+        {
+          "name": "Appel",
+          "url": "https://open.spotify.com/artist/69q4xfNrz04VhJdTQHGUjd"
+        }
+      ],
+      "date_added": "2023-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202917,
+      "name": "Foute",
+      "url": "https://open.spotify.com/track/6K6L2DgKgeREDJ8c0HxLZI"
+    },
+    {
+      "album": {
         "name": "Loufi Flippen Loufi",
         "url": "https://open.spotify.com/album/32nDgPOF75LUn7GoCpewjK"
       },
@@ -1810,7 +1846,7 @@
       ],
       "date_added": "2023-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 176612,
       "name": "Freaky Bra",
       "url": "https://open.spotify.com/track/1dCz3LcKE2cBA7TKZTi56M"
@@ -2324,7 +2360,7 @@
       ],
       "date_added": "2022-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 183317,
       "name": "Impulsief",
       "url": "https://open.spotify.com/track/3AN96mijpWgIeUEJpvCNaO"
@@ -3048,7 +3084,7 @@
       ],
       "date_added": "2023-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 240640,
       "name": "K\u00f4mm\u00f4s\u00eadies\u00ea",
       "url": "https://open.spotify.com/track/74dfMfJHslWCxnJc4tV5yY"
@@ -3070,6 +3106,24 @@
       "duration_ms": 208038,
       "name": "Laaste Sigaret",
       "url": "https://open.spotify.com/track/5gSordoFX5gjscFFdiqKVS"
+    },
+    {
+      "album": {
+        "name": "Laat Dit Re\u00ebn",
+        "url": "https://open.spotify.com/album/6KNYHfnr44scLF38TXZkHm"
+      },
+      "artists": [
+        {
+          "name": "Synth Peter",
+          "url": "https://open.spotify.com/artist/2RM9HCgLmhIkn8ZYxCbswc"
+        }
+      ],
+      "date_added": "2023-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156190,
+      "name": "Laat Dit Re\u00ebn",
+      "url": "https://open.spotify.com/track/6epAsPCU7z2GKxFwdkHPOR"
     },
     {
       "album": {
@@ -4545,6 +4599,28 @@
     },
     {
       "album": {
+        "name": "Rondry, Fliek en die Buitelewe",
+        "url": "https://open.spotify.com/album/0efPfJkq7OwgRykVmZ2HoB"
+      },
+      "artists": [
+        {
+          "name": "Valiant Swart",
+          "url": "https://open.spotify.com/artist/6cnnXUEWR7vQZfL0eQuYZl"
+        },
+        {
+          "name": "Danie Re\u00ebnwolf",
+          "url": "https://open.spotify.com/artist/7vvYumgXzUPBNnwXtajb08"
+        }
+      ],
+      "date_added": "2023-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251746,
+      "name": "Rock 'n Roll Engel",
+      "url": "https://open.spotify.com/track/3dBwHHI3ED1qDwU6lL9798"
+    },
+    {
+      "album": {
         "name": "Roeper",
         "url": "https://open.spotify.com/album/2QJ44nnWK5IL1BzxKncvZz"
       },
@@ -5398,7 +5474,7 @@
       ],
       "date_added": "2023-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 176857,
       "name": "Te Sexy",
       "url": "https://open.spotify.com/track/7EsvvQB8OuT95DOodwgo4I"
@@ -5695,6 +5771,24 @@
     },
     {
       "album": {
+        "name": "Uit My Lyf",
+        "url": "https://open.spotify.com/album/6hqxmaWjxWCbCJR5kokCVi"
+      },
+      "artists": [
+        {
+          "name": "Marno van der Merwe",
+          "url": "https://open.spotify.com/artist/4UCQCvz4wTboXTeYxfyvhR"
+        }
+      ],
+      "date_added": "2023-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212720,
+      "name": "Uit My Lyf",
+      "url": "https://open.spotify.com/track/7iayMipigAHh8cY216RxPL"
+    },
+    {
+      "album": {
         "name": "Vanaand",
         "url": "https://open.spotify.com/album/0iwYj6LKFLhSUVDXF5vygz"
       },
@@ -5768,7 +5862,7 @@
       ],
       "date_added": "2022-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 180182,
       "name": "Vat Die Cruiser",
       "url": "https://open.spotify.com/track/1PIvpkHqj84KC0En6LosWH"

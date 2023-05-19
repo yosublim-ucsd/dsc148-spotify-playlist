@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc7RvXTzD4rW.md) - [plain]
 
 > A collection of music from voice actors/ actresses in Japan./ 様々な感情を自在に表現し、登場人物に命を吹き込む声優たち。声のプロフェッショナルである彼らが紡ぐ歌の世界。Cover: 岬なこ\(Misaki Nako\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,184 likes - 50 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,192 likes - 50 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc7RvXTzD4rW.md) - [plain]
 | 49 | [ドラム式探査機](https://open.spotify.com/track/2qW7HHuuwlahgLsZcSpKca) | [田所あずさ](https://open.spotify.com/artist/6QA62pTldn4AF8DeKsKW0h) | [ドラム式探査機](https://open.spotify.com/album/1hmjufGe7sXt8LfQifBJZs) | 3:52 |
 | 50 | [Dear Doze Days](https://open.spotify.com/track/5yBKXF9lRmyispie9cWrrB) | [Akari Kito](https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S) | [Dear Doze Days](https://open.spotify.com/album/674QP8fOfl3LYuwsMHlmtr) | 4:21 |
 
-Snapshot ID: `MCxjOGUxYzJjOTgwNjY2OGQxZTk2MWQ3MjhlNGExYzczMWUzOWQ5NGZl`
+Snapshot ID: `MCxkYzg4MGZhNzYzZWJiOWY2NTg4NjM3MWQxOGU5NDAzYjYxODFjODg5`

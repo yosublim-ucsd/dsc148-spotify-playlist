@@ -4,7 +4,7 @@
 
 > Sitting in a cozy café studying while the rain is pouring down outside.
 
-83 songs - 4 hr 37 min
+85 songs - 4 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,7 +16,9 @@
 | [Ain't Misbehavin' \- With Rain](https://open.spotify.com/track/3CLqFFKx3u8sYRfjcw5YKg) | [David Jenau](https://open.spotify.com/artist/5gmiFRkogpc9krRQuJsjlN) | [Ain't Misbehavin'](https://open.spotify.com/album/2PVnJTZBmjYKxzazZAwhxr) | 2:29 | 2023-04-27 |  |
 | [Almost Being in Love](https://open.spotify.com/track/2omqysIJo9PIwSMcMCz3cu) | [Damian Syslo](https://open.spotify.com/artist/16zAiqqDsHkJ3UPqS9vQiu) | [Almost Being in Love](https://open.spotify.com/album/3MVho0RdwGmZa3Nr3efad5) | 3:29 | 2023-04-27 |  |
 | [And All Is Well Now](https://open.spotify.com/track/0T2metNGLcq41M0OsIZNRu) | [Gillian Spencer Trio](https://open.spotify.com/artist/4NopJ2j5J608OXktrn5IAM) | [Jazz Lovin in the Rain](https://open.spotify.com/album/4XxldlvH0UopYK6GQpeoGJ) | 3:14 | 2023-04-27 |  |
+| [Another Day](https://open.spotify.com/track/7KtOVix4R67aOkCcsFzSsM) | [Stockholm Whereabouts](https://open.spotify.com/artist/7xGUX1jozTRuHMgjmRuK18) | [Another Day](https://open.spotify.com/album/5Dps681nM2oHCn6EIW6oaE) | 3:48 | 2023-05-18 |  |
 | [Between The Rain](https://open.spotify.com/track/5FagKEeBcZDoXo5AxEpcMg) | [Tyree](https://open.spotify.com/artist/2iLuAUEEOAfWQr83WzyCof) | [Between The Rain](https://open.spotify.com/album/7ijwsTk1qpmF3k5FIoT9cP) | 4:26 | 2023-05-11 |  |
+| [Blame It On My Youth \- Rain](https://open.spotify.com/track/1kcqIlIk0Tked5nm7sAQDW) | [Long Island Quartet](https://open.spotify.com/artist/2fmPgnUqExSLjXIwIyigPR) | [Blame It On My Youth \- Rain](https://open.spotify.com/album/1xHh3zVBbPvTMxxxZPl7Dx) | 4:58 | 2023-05-18 |  |
 | [Blue Moon](https://open.spotify.com/track/6xEHmGdGA9ZnjwuHUD9EFm) | [Ray Wilshire](https://open.spotify.com/artist/7LuCANGo1IuYQvcOWPywMZ) | [Blue Moon](https://open.spotify.com/album/655YlNnJaQaflqOYHRUogN) | 3:37 | 2023-04-27 |  |
 | [Blue Tennessee](https://open.spotify.com/track/65xukQJeGh8BMUAPIGldf3) | [Dorothy Lee](https://open.spotify.com/artist/3o48LBxfAf2DslosQYX6Ud) | [Broken Promises](https://open.spotify.com/album/3PXGuFuHhepsRkdiMEeksR) | 3:46 | 2023-04-27 |  |
 | [Bring Some Lovin'](https://open.spotify.com/track/4kY4TFMLtGkbr3yclyHCeN) | [Flatland Park](https://open.spotify.com/artist/6xOql32xqR0X46QkNLCzPd) | [Jazz Lovin in the Rain](https://open.spotify.com/album/4XxldlvH0UopYK6GQpeoGJ) | 3:11 | 2023-04-27 |  |
@@ -40,7 +42,7 @@
 | [Hudson Square](https://open.spotify.com/track/4vdbfxd6ds6YeOHb5ZD6r2) | [Eric Merlino](https://open.spotify.com/artist/1vL7K80AJZnr8Y10olI96q) | [Hudson Square](https://open.spotify.com/album/3FqzYXSENE2fCy1bm78FVC) | 3:35 | 2023-05-04 |  |
 | [I Can't Get Started](https://open.spotify.com/track/6CJ14vzBSBk0C3FsfdkOtj) | [Bruce Douglas](https://open.spotify.com/artist/4xwGJE9zR35fPIbbe8uSiH) | [I Can't Get Started](https://open.spotify.com/album/2w15Chr6cX4ReS1qmZZO5e) | 2:25 | 2023-04-27 |  |
 | [I Get Along Without You Very Well \(Except Sometimes\)](https://open.spotify.com/track/0PcZFOrXlv0nJugncqh4za) | [Whitby Snell](https://open.spotify.com/artist/3OTOWvIOtIuWDCLStPVCKi) | [Whiskey, Jazz and the Storm](https://open.spotify.com/album/0mxC4rzCQSQXS4I4US98XQ) | 4:20 | 2023-04-27 | 2023-05-12 |
-| [I've Never Been in Love Before](https://open.spotify.com/track/4k7mJbTrcpwGlcwBMYlgmW) | [Whitby Snell](https://open.spotify.com/artist/3OTOWvIOtIuWDCLStPVCKi) | [Whiskey, Jazz and the Storm](https://open.spotify.com/album/0mxC4rzCQSQXS4I4US98XQ) | 4:07 | 2023-04-27 |  |
+| [I've Never Been in Love Before](https://open.spotify.com/track/4k7mJbTrcpwGlcwBMYlgmW) | [Whitby Snell](https://open.spotify.com/artist/3OTOWvIOtIuWDCLStPVCKi) | [Whiskey, Jazz and the Storm](https://open.spotify.com/album/0mxC4rzCQSQXS4I4US98XQ) | 4:07 | 2023-04-27 | 2023-05-19 |
 | [If I Were You](https://open.spotify.com/track/0wlTJUbii03xcQIbf6fHSa) | [Kingsbury Station](https://open.spotify.com/artist/0yaQHG0mUFfPP4QerRD3zD) | [Night Songs](https://open.spotify.com/album/1PUymjohkZif5MR150o773) | 3:39 | 2023-04-27 |  |
 | [In Bloom \- With Rain](https://open.spotify.com/track/05ZPyRm6eqKI0V2EZ9O2XJ) | [High North Trio](https://open.spotify.com/artist/4ecpTLtCqe62hwHasUcfUY) | [A Sunday Kind Of Love \- Rain version](https://open.spotify.com/album/2QzjNSEubnLtlAT4LdYmQs) | 2:56 | 2023-04-27 |  |
 | [In The Blue Of The Evening](https://open.spotify.com/track/2A6wgA8leuZORbnlvhMpfj) | [Ada Harley](https://open.spotify.com/artist/6XKPk2juB56BoKgZ3oUhh9) | [In The Blue Of The Evening](https://open.spotify.com/album/7wIBBKIHTByNurtRezdOlM) | 2:24 | 2023-04-27 |  |

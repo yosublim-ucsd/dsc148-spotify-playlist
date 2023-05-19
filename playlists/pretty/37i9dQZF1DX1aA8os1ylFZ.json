@@ -1,12 +1,12 @@
 {
   "description": "get into your feels with some r&b magic",
-  "num_followers": 230670,
+  "num_followers": 230742,
   "original_name": "R&B Magic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjOGVlOGEzMWFlNDYzMDA1ZDQxNjFjMjBjZDc3YjgyMThmZjdkYmYx",
+  "snapshot_id": "MCxjYjdhYmY0OTgzZjc4OTM1ZTQ0NWZiZGE2ZTJlZDYxMmVmN2QwN2Q2",
   "tracks": [
     {
       "added_at": "2023-05-12 07:52:47",
@@ -111,22 +111,6 @@
     {
       "added_at": "2023-05-12 07:52:47",
       "album": {
-        "name": "What I Didn't Tell You",
-        "url": "https://open.spotify.com/album/0ZXTkMwilEQdz3KHe0dEPA"
-      },
-      "artists": [
-        {
-          "name": "Coco Jones",
-          "url": "https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd"
-        }
-      ],
-      "duration_ms": 241624,
-      "name": "ICU",
-      "url": "https://open.spotify.com/track/58cMDjQSUdWJUgFmHxRhjt"
-    },
-    {
-      "added_at": "2023-05-12 07:52:47",
-      "album": {
         "name": "CUFF IT",
         "url": "https://open.spotify.com/album/7BJjZgzGzpll0t8CEzjILs"
       },
@@ -139,6 +123,22 @@
       "duration_ms": 249406,
       "name": "CUFF IT - WETTER REMIX",
       "url": "https://open.spotify.com/track/7eQpbVg3tjHmtdOlAHxaTr"
+    },
+    {
+      "added_at": "2023-05-12 07:52:47",
+      "album": {
+        "name": "What I Didn't Tell You",
+        "url": "https://open.spotify.com/album/0ZXTkMwilEQdz3KHe0dEPA"
+      },
+      "artists": [
+        {
+          "name": "Coco Jones",
+          "url": "https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd"
+        }
+      ],
+      "duration_ms": 241624,
+      "name": "ICU",
+      "url": "https://open.spotify.com/track/58cMDjQSUdWJUgFmHxRhjt"
     },
     {
       "added_at": "2023-05-12 07:52:47",
@@ -447,22 +447,6 @@
     {
       "added_at": "2023-05-12 07:52:47",
       "album": {
-        "name": "Since I Have A Lover",
-        "url": "https://open.spotify.com/album/39JZhYotu5zFYJ8jw1D8bF"
-      },
-      "artists": [
-        {
-          "name": "6LACK",
-          "url": "https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83"
-        }
-      ],
-      "duration_ms": 196933,
-      "name": "Fatal Attraction",
-      "url": "https://open.spotify.com/track/3y9JbvYZAhVeQsAECrKAgt"
-    },
-    {
-      "added_at": "2023-05-12 07:52:47",
-      "album": {
         "name": "Tasty",
         "url": "https://open.spotify.com/album/44aLFnq6Fjpb3JBPKsEpaK"
       },
@@ -475,6 +459,22 @@
       "duration_ms": 150799,
       "name": "Tasty",
       "url": "https://open.spotify.com/track/6lSwB0f2MN7uhJT7q4dRvS"
+    },
+    {
+      "added_at": "2023-05-12 07:52:47",
+      "album": {
+        "name": "Since I Have A Lover",
+        "url": "https://open.spotify.com/album/39JZhYotu5zFYJ8jw1D8bF"
+      },
+      "artists": [
+        {
+          "name": "6LACK",
+          "url": "https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83"
+        }
+      ],
+      "duration_ms": 196933,
+      "name": "Fatal Attraction",
+      "url": "https://open.spotify.com/track/3y9JbvYZAhVeQsAECrKAgt"
     },
     {
       "added_at": "2023-05-12 07:52:47",
@@ -523,6 +523,22 @@
       "duration_ms": 164706,
       "name": "Heartless",
       "url": "https://open.spotify.com/track/1q4F4KfUNY4nDkuHDVLQya"
+    },
+    {
+      "added_at": "2023-05-12 07:52:47",
+      "album": {
+        "name": "Deeper",
+        "url": "https://open.spotify.com/album/7EYqiOzMfAuyPVtNwGHXQR"
+      },
+      "artists": [
+        {
+          "name": "Kiana Led\u00e9",
+          "url": "https://open.spotify.com/artist/7jZMxhsB8djyIbYmoiJSTs"
+        }
+      ],
+      "duration_ms": 214455,
+      "name": "Deeper",
+      "url": "https://open.spotify.com/track/4NfGgVjYu5xqBLYAFdw7F0"
     },
     {
       "added_at": "2023-05-12 07:52:47",
@@ -603,22 +619,6 @@
       "duration_ms": 225882,
       "name": "Curious (feat. Fabolous)",
       "url": "https://open.spotify.com/track/3ED40EjXiD4plW6UMteKGx"
-    },
-    {
-      "added_at": "2023-05-12 07:52:47",
-      "album": {
-        "name": "Deeper",
-        "url": "https://open.spotify.com/album/7EYqiOzMfAuyPVtNwGHXQR"
-      },
-      "artists": [
-        {
-          "name": "Kiana Led\u00e9",
-          "url": "https://open.spotify.com/artist/7jZMxhsB8djyIbYmoiJSTs"
-        }
-      ],
-      "duration_ms": 214455,
-      "name": "Deeper",
-      "url": "https://open.spotify.com/track/4NfGgVjYu5xqBLYAFdw7F0"
     },
     {
       "added_at": "2023-05-12 07:52:47",
@@ -1139,22 +1139,6 @@
     {
       "added_at": "2023-05-12 07:52:47",
       "album": {
-        "name": "Three Dimensions Deep",
-        "url": "https://open.spotify.com/album/1S8KMYJE7raT6e6hfPRLUU"
-      },
-      "artists": [
-        {
-          "name": "Amber Mark",
-          "url": "https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu"
-        }
-      ],
-      "duration_ms": 173968,
-      "name": "Softly",
-      "url": "https://open.spotify.com/track/2drDZnirL0TSVp8pOA756W"
-    },
-    {
-      "added_at": "2023-05-12 07:52:47",
-      "album": {
         "name": "Y4",
         "url": "https://open.spotify.com/album/2OF3O1Dl0IAuCwg6OaFzNR"
       },
@@ -1167,6 +1151,22 @@
       "duration_ms": 179000,
       "name": "Fool 4 U",
       "url": "https://open.spotify.com/track/0UFthA0qo3JDLxqfG25kgP"
+    },
+    {
+      "added_at": "2023-05-12 07:52:47",
+      "album": {
+        "name": "Three Dimensions Deep",
+        "url": "https://open.spotify.com/album/1S8KMYJE7raT6e6hfPRLUU"
+      },
+      "artists": [
+        {
+          "name": "Amber Mark",
+          "url": "https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu"
+        }
+      ],
+      "duration_ms": 173968,
+      "name": "Softly",
+      "url": "https://open.spotify.com/track/2drDZnirL0TSVp8pOA756W"
     },
     {
       "added_at": "2023-05-12 07:52:47",
@@ -1203,26 +1203,6 @@
     {
       "added_at": "2023-05-12 07:52:47",
       "album": {
-        "name": "Out of Touch",
-        "url": "https://open.spotify.com/album/6vIwR0j1Ya3UJeuFTQPcdr"
-      },
-      "artists": [
-        {
-          "name": "PHABO",
-          "url": "https://open.spotify.com/artist/5FdZDr2bMbEcnsEKRgO3rn"
-        },
-        {
-          "name": "Sha\u00e9 Universe",
-          "url": "https://open.spotify.com/artist/5gaElx30yTGGiOCVnml29N"
-        }
-      ],
-      "duration_ms": 212574,
-      "name": "Out of Touch",
-      "url": "https://open.spotify.com/track/10fdgkGHCbjVIbNBfTSmfx"
-    },
-    {
-      "added_at": "2023-05-12 07:52:47",
-      "album": {
         "name": "I WANT YOU BUT YOU'LL NEVER KNOW...",
         "url": "https://open.spotify.com/album/4NEN5cCWBvREzE5LA7huDD"
       },
@@ -1243,6 +1223,26 @@
       "duration_ms": 230680,
       "name": "I WANT YOU BUT YOU'LL NEVER KNOW...",
       "url": "https://open.spotify.com/track/6GkzW1afOfnnNGhEMrA5ct"
+    },
+    {
+      "added_at": "2023-05-12 07:52:47",
+      "album": {
+        "name": "Out of Touch",
+        "url": "https://open.spotify.com/album/6vIwR0j1Ya3UJeuFTQPcdr"
+      },
+      "artists": [
+        {
+          "name": "PHABO",
+          "url": "https://open.spotify.com/artist/5FdZDr2bMbEcnsEKRgO3rn"
+        },
+        {
+          "name": "Sha\u00e9 Universe",
+          "url": "https://open.spotify.com/artist/5gaElx30yTGGiOCVnml29N"
+        }
+      ],
+      "duration_ms": 212574,
+      "name": "Out of Touch",
+      "url": "https://open.spotify.com/track/10fdgkGHCbjVIbNBfTSmfx"
     },
     {
       "added_at": "2023-05-12 07:52:47",
@@ -1487,6 +1487,26 @@
     {
       "added_at": "2023-05-12 07:52:47",
       "album": {
+        "name": "I Love You And Its Getting Worse",
+        "url": "https://open.spotify.com/album/4EveH7LTJ6mTkxXWK6y2Vu"
+      },
+      "artists": [
+        {
+          "name": "Larissa Lambert",
+          "url": "https://open.spotify.com/artist/1tM4ox3QsSpl3R2VwLjJ47"
+        },
+        {
+          "name": "Jeremih",
+          "url": "https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg"
+        }
+      ],
+      "duration_ms": 179112,
+      "name": "Heartbreaker",
+      "url": "https://open.spotify.com/track/4eLFb0Ygy59SEisCWsa85h"
+    },
+    {
+      "added_at": "2023-05-12 07:52:47",
+      "album": {
         "name": "Face Down",
         "url": "https://open.spotify.com/album/4HHcIQeI1O1QouiYCzROZN"
       },
@@ -1535,26 +1555,6 @@
       "duration_ms": 284893,
       "name": "Magic",
       "url": "https://open.spotify.com/track/3WCVRAaJUfXg6Cxf4FhfvQ"
-    },
-    {
-      "added_at": "2023-05-12 07:52:47",
-      "album": {
-        "name": "I Love You And Its Getting Worse",
-        "url": "https://open.spotify.com/album/4EveH7LTJ6mTkxXWK6y2Vu"
-      },
-      "artists": [
-        {
-          "name": "Larissa Lambert",
-          "url": "https://open.spotify.com/artist/1tM4ox3QsSpl3R2VwLjJ47"
-        },
-        {
-          "name": "Jeremih",
-          "url": "https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg"
-        }
-      ],
-      "duration_ms": 179112,
-      "name": "Heartbreaker",
-      "url": "https://open.spotify.com/track/4eLFb0Ygy59SEisCWsa85h"
     },
     {
       "added_at": "2023-05-12 07:52:47",

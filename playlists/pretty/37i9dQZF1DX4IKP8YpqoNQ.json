@@ -1,12 +1,12 @@
 {
   "description": "Experience the best live performances. Check out live soul albums <a href=\"spotify:genre:0JQ5IMCbQBLzm5vQYyTJnY\">here</a>.",
-  "num_followers": 23872,
+  "num_followers": 23883,
   "original_name": "Soul Live",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkZWJjZjliMjI0MGMxYmM2NzBmYTY4NzZiODNiNGMxZjBkYzJlNWJk",
+  "snapshot_id": "MCxhNTEzM2NiYmIzMzJmYjc5NDZjNTUyMzk0NzY4MTZlMjc5ZDhjODEz",
   "tracks": [
     {
       "added_at": "2023-05-15 07:15:38",
@@ -907,22 +907,6 @@
     {
       "added_at": "2023-05-15 07:15:38",
       "album": {
-        "name": "Spotify Sessions",
-        "url": "https://open.spotify.com/album/0wBCYSK8mkAdwh5JJMe3C2"
-      },
-      "artists": [
-        {
-          "name": "Leon Bridges",
-          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
-        }
-      ],
-      "duration_ms": 228133,
-      "name": "Coming Home - Live at SXSW 2015",
-      "url": "https://open.spotify.com/track/6KgfC7SPNby1wdzkB6EgTJ"
-    },
-    {
-      "added_at": "2023-05-15 07:15:38",
-      "album": {
         "name": "'Live' At The Apollo (Vol. II)",
         "url": "https://open.spotify.com/album/3jbnkGDaYChChu5Cs8LEvD"
       },
@@ -935,6 +919,22 @@
       "duration_ms": 247106,
       "name": "That's Life - Live At The Apollo Theater, 1967",
       "url": "https://open.spotify.com/track/0jA9aoNAGU3J9YX0fEUZXO"
+    },
+    {
+      "added_at": "2023-05-15 07:15:38",
+      "album": {
+        "name": "Spotify Sessions",
+        "url": "https://open.spotify.com/album/0wBCYSK8mkAdwh5JJMe3C2"
+      },
+      "artists": [
+        {
+          "name": "Leon Bridges",
+          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
+        }
+      ],
+      "duration_ms": 228133,
+      "name": "Coming Home - Live at SXSW 2015",
+      "url": "https://open.spotify.com/track/6KgfC7SPNby1wdzkB6EgTJ"
     },
     {
       "added_at": "2023-05-15 07:15:38",
@@ -1055,18 +1055,18 @@
     {
       "added_at": "2023-05-15 07:15:38",
       "album": {
-        "name": "Natural Wonder",
-        "url": "https://open.spotify.com/album/6hu9W3TWiCF5sETB1pvrHl"
+        "name": "The Tour",
+        "url": "https://open.spotify.com/album/5V0EoaXr2iR8rWsV0Bbr1S"
       },
       "artists": [
         {
-          "name": "Stevie Wonder",
-          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
+          "name": "Mary J. Blige",
+          "url": "https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr"
         }
       ],
-      "duration_ms": 246866,
-      "name": "I Wish - Live/1995",
-      "url": "https://open.spotify.com/track/4hBflEfqEBbZyEqR0RKFiT"
+      "duration_ms": 308066,
+      "name": "Misty Blue - Live",
+      "url": "https://open.spotify.com/track/7JF7x0QgaE2exhkcAsT1a4"
     },
     {
       "added_at": "2023-05-15 07:15:38",
@@ -1087,34 +1087,34 @@
     {
       "added_at": "2023-05-15 07:15:38",
       "album": {
-        "name": "The Tour",
-        "url": "https://open.spotify.com/album/5V0EoaXr2iR8rWsV0Bbr1S"
+        "name": "Natural Wonder",
+        "url": "https://open.spotify.com/album/6hu9W3TWiCF5sETB1pvrHl"
       },
       "artists": [
         {
-          "name": "Mary J. Blige",
-          "url": "https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr"
+          "name": "Stevie Wonder",
+          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
         }
       ],
-      "duration_ms": 308066,
-      "name": "Misty Blue - Live",
-      "url": "https://open.spotify.com/track/7JF7x0QgaE2exhkcAsT1a4"
+      "duration_ms": 246866,
+      "name": "I Wish - Live/1995",
+      "url": "https://open.spotify.com/track/4hBflEfqEBbZyEqR0RKFiT"
     },
     {
       "added_at": "2023-05-15 07:15:38",
       "album": {
-        "name": "Live",
-        "url": "https://open.spotify.com/album/0PXkuzPmkBgVNn26f3Q9gC"
+        "name": "Lalah Hathaway Live!",
+        "url": "https://open.spotify.com/album/2g2JY5M0fG0TJeE3Q6iL71"
       },
       "artists": [
         {
-          "name": "Lou Rawls",
-          "url": "https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od"
+          "name": "Lalah Hathaway",
+          "url": "https://open.spotify.com/artist/0uNEy4544VZq2KOl7BsLuo"
         }
       ],
-      "duration_ms": 274306,
-      "name": "St. James Infirmary - Live/Remastered",
-      "url": "https://open.spotify.com/track/57X3uXujf41DbutXVqsZQS"
+      "duration_ms": 236933,
+      "name": "Little Ghetto Boy (Radio Edit)",
+      "url": "https://open.spotify.com/track/6vtr9TyGFmEtooMPRamYWb"
     },
     {
       "added_at": "2023-05-15 07:15:38",
@@ -1135,18 +1135,18 @@
     {
       "added_at": "2023-05-15 07:15:38",
       "album": {
-        "name": "Lalah Hathaway Live!",
-        "url": "https://open.spotify.com/album/2g2JY5M0fG0TJeE3Q6iL71"
+        "name": "Live",
+        "url": "https://open.spotify.com/album/0PXkuzPmkBgVNn26f3Q9gC"
       },
       "artists": [
         {
-          "name": "Lalah Hathaway",
-          "url": "https://open.spotify.com/artist/0uNEy4544VZq2KOl7BsLuo"
+          "name": "Lou Rawls",
+          "url": "https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od"
         }
       ],
-      "duration_ms": 236933,
-      "name": "Little Ghetto Boy (Radio Edit)",
-      "url": "https://open.spotify.com/track/6vtr9TyGFmEtooMPRamYWb"
+      "duration_ms": 274306,
+      "name": "St. James Infirmary - Live/Remastered",
+      "url": "https://open.spotify.com/track/57X3uXujf41DbutXVqsZQS"
     },
     {
       "added_at": "2023-05-15 07:15:38",
@@ -1199,22 +1199,6 @@
     {
       "added_at": "2023-05-15 07:15:38",
       "album": {
-        "name": "Live on Soundstage",
-        "url": "https://open.spotify.com/album/13WZzcE9qqYGIGYwY8fFFE"
-      },
-      "artists": [
-        {
-          "name": "Michael McDonald",
-          "url": "https://open.spotify.com/artist/24hJWbo98sH84tb0nkeaqy"
-        }
-      ],
-      "duration_ms": 273933,
-      "name": "I Keep Forgettin' - Live",
-      "url": "https://open.spotify.com/track/3lLdweMPFav5srRwselDyG"
-    },
-    {
-      "added_at": "2023-05-15 07:15:38",
-      "album": {
         "name": "Grow (Live)",
         "url": "https://open.spotify.com/album/6FzSw4Dgm0W32Fl9kqJ2iL"
       },
@@ -1227,6 +1211,22 @@
       "duration_ms": 182117,
       "name": "Grow - Live",
       "url": "https://open.spotify.com/track/781fdksygYiSUmabvlqKQQ"
+    },
+    {
+      "added_at": "2023-05-15 07:15:38",
+      "album": {
+        "name": "Live on Soundstage",
+        "url": "https://open.spotify.com/album/13WZzcE9qqYGIGYwY8fFFE"
+      },
+      "artists": [
+        {
+          "name": "Michael McDonald",
+          "url": "https://open.spotify.com/artist/24hJWbo98sH84tb0nkeaqy"
+        }
+      ],
+      "duration_ms": 273933,
+      "name": "I Keep Forgettin' - Live",
+      "url": "https://open.spotify.com/track/3lLdweMPFav5srRwselDyG"
     },
     {
       "added_at": "2023-05-15 07:15:38",
@@ -1331,18 +1331,18 @@
     {
       "added_at": "2023-05-15 07:15:38",
       "album": {
-        "name": "Live At Montreux 2006 (Live At The Montreux Jazz Festival, Montreux,Switzerland / 2006)",
-        "url": "https://open.spotify.com/album/3ym1tVL5rgSYN7o8SuzD45"
+        "name": "Live From San Francisco",
+        "url": "https://open.spotify.com/album/5AcqbIgJL2xHdmQqYM5TKn"
       },
       "artists": [
         {
-          "name": "Solomon Burke",
-          "url": "https://open.spotify.com/artist/4nts0oxMT67lVUoi5Kjxrb"
+          "name": "Etta James",
+          "url": "https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb"
         }
       ],
-      "duration_ms": 135253,
-      "name": "(Sitting On) The Dock Of The Bay - Live",
-      "url": "https://open.spotify.com/track/4XOJzE3eTUpuwinBoKZVOO"
+      "duration_ms": 295306,
+      "name": "I'd Rather Go Blind",
+      "url": "https://open.spotify.com/track/42iYnuwyoPHCV04u6WImDW"
     },
     {
       "added_at": "2023-05-15 07:15:38",
@@ -1363,18 +1363,18 @@
     {
       "added_at": "2023-05-15 07:15:38",
       "album": {
-        "name": "Live From San Francisco",
-        "url": "https://open.spotify.com/album/5AcqbIgJL2xHdmQqYM5TKn"
+        "name": "Live At Montreux 2006 (Live At The Montreux Jazz Festival, Montreux,Switzerland / 2006)",
+        "url": "https://open.spotify.com/album/3ym1tVL5rgSYN7o8SuzD45"
       },
       "artists": [
         {
-          "name": "Etta James",
-          "url": "https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb"
+          "name": "Solomon Burke",
+          "url": "https://open.spotify.com/artist/4nts0oxMT67lVUoi5Kjxrb"
         }
       ],
-      "duration_ms": 295306,
-      "name": "I'd Rather Go Blind",
-      "url": "https://open.spotify.com/track/42iYnuwyoPHCV04u6WImDW"
+      "duration_ms": 135253,
+      "name": "(Sitting On) The Dock Of The Bay - Live",
+      "url": "https://open.spotify.com/track/4XOJzE3eTUpuwinBoKZVOO"
     },
     {
       "added_at": "2023-05-15 07:15:38",
@@ -1395,6 +1395,22 @@
     {
       "added_at": "2023-05-15 07:15:38",
       "album": {
+        "name": "Spotify Sessions",
+        "url": "https://open.spotify.com/album/13FOULXj0WhEf5Zn4ETHS0"
+      },
+      "artists": [
+        {
+          "name": "Charles Bradley",
+          "url": "https://open.spotify.com/artist/462T0buQ5ScBUQCRpodDRf"
+        }
+      ],
+      "duration_ms": 191611,
+      "name": "The World (Is Going Up in Flames) - Live From Spotify House SXSW '16",
+      "url": "https://open.spotify.com/track/3bQo8cXqDZ2F9QWEaLindv"
+    },
+    {
+      "added_at": "2023-05-15 07:15:38",
+      "album": {
         "name": "Stompin' At The Savoy",
         "url": "https://open.spotify.com/album/3j0kxKahatiR5d0sPPtTjP"
       },
@@ -1411,22 +1427,6 @@
       "duration_ms": 336440,
       "name": "You Got the Love - Live Version",
       "url": "https://open.spotify.com/track/5QVr1U4qIpdYIWOzAjbXfr"
-    },
-    {
-      "added_at": "2023-05-15 07:15:38",
-      "album": {
-        "name": "Spotify Sessions",
-        "url": "https://open.spotify.com/album/13FOULXj0WhEf5Zn4ETHS0"
-      },
-      "artists": [
-        {
-          "name": "Charles Bradley",
-          "url": "https://open.spotify.com/artist/462T0buQ5ScBUQCRpodDRf"
-        }
-      ],
-      "duration_ms": 191611,
-      "name": "The World (Is Going Up in Flames) - Live From Spotify House SXSW '16",
-      "url": "https://open.spotify.com/track/3bQo8cXqDZ2F9QWEaLindv"
     },
     {
       "added_at": "2023-05-15 07:15:38",
@@ -1527,18 +1527,18 @@
     {
       "added_at": "2023-05-15 07:15:38",
       "album": {
-        "name": "With A Lot O' Soul",
-        "url": "https://open.spotify.com/album/1nklkfuUUujG5s3wL6mfuL"
+        "name": "Live (Expanded Edition)",
+        "url": "https://open.spotify.com/album/1e2wF72vtLQkH6jTvYvFQV"
       },
       "artists": [
         {
-          "name": "The Temptations",
-          "url": "https://open.spotify.com/artist/3RwQ26hR2tJtA8F9p2n7jG"
+          "name": "Marvin Gaye",
+          "url": "https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA"
         }
       ],
-      "duration_ms": 182866,
-      "name": "Ain't No Sun Since You've Been Gone",
-      "url": "https://open.spotify.com/track/1yBN1LvoUu6yR7m5ZsmwAa"
+      "duration_ms": 289600,
+      "name": "What's Going On - Live At Oakland Coliseum, CA / 1974",
+      "url": "https://open.spotify.com/track/5HKeylrH9lOy90PXK3KmAn"
     },
     {
       "added_at": "2023-05-15 07:15:38",
@@ -1559,22 +1559,6 @@
     {
       "added_at": "2023-05-15 07:15:38",
       "album": {
-        "name": "Live (Expanded Edition)",
-        "url": "https://open.spotify.com/album/1e2wF72vtLQkH6jTvYvFQV"
-      },
-      "artists": [
-        {
-          "name": "Marvin Gaye",
-          "url": "https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA"
-        }
-      ],
-      "duration_ms": 289600,
-      "name": "What's Going On - Live At Oakland Coliseum, CA / 1974",
-      "url": "https://open.spotify.com/track/5HKeylrH9lOy90PXK3KmAn"
-    },
-    {
-      "added_at": "2023-05-15 07:15:38",
-      "album": {
         "name": "Spotify Sessions",
         "url": "https://open.spotify.com/album/5PEUftcwX57OcS8vMFfdSw"
       },
@@ -1587,6 +1571,22 @@
       "duration_ms": 296809,
       "name": "Nakamarra - Live from Spotify Sydney",
       "url": "https://open.spotify.com/track/1LDc3rGLwvsstN5m7IG8SV"
+    },
+    {
+      "added_at": "2023-05-15 07:15:38",
+      "album": {
+        "name": "With A Lot O' Soul",
+        "url": "https://open.spotify.com/album/1nklkfuUUujG5s3wL6mfuL"
+      },
+      "artists": [
+        {
+          "name": "The Temptations",
+          "url": "https://open.spotify.com/artist/3RwQ26hR2tJtA8F9p2n7jG"
+        }
+      ],
+      "duration_ms": 182866,
+      "name": "Ain't No Sun Since You've Been Gone",
+      "url": "https://open.spotify.com/track/1yBN1LvoUu6yR7m5ZsmwAa"
     },
     {
       "added_at": "2023-05-15 07:15:38",

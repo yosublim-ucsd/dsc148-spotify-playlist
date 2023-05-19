@@ -4,7 +4,7 @@
 
 > A música certa para o seu momento de adoração\. Foto: AMÉM
 
-168 songs - 16 hr 33 min
+169 songs - 16 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -126,7 +126,8 @@
 | [Quero Voltar Pra Casa \- Ao Vivo](https://open.spotify.com/track/1Tox82hir9fKOLRl70XeD3) | [Sarah Beatriz](https://open.spotify.com/artist/5eo3eRvCHJhgMDL6K1cbMT) | [Quero Voltar Pra Casa \(Ao Vivo\)](https://open.spotify.com/album/6FIiRvqyMBVUwM5M0H5Bh4) | 6:05 | 2022-09-09 |  |
 | [Redentor](https://open.spotify.com/track/2YOZHcypOnfbG5cfsSpW4N) | [Marcelo Markes](https://open.spotify.com/artist/6SuvEQMnKI1I4rfErcOdi2), [Sarah Beatriz](https://open.spotify.com/artist/5eo3eRvCHJhgMDL6K1cbMT) | [Redentor](https://open.spotify.com/album/4yNYug0DEgvDuYMT3qXGjG) | 6:22 | 2022-09-09 | 2022-11-05 |
 | [Refinador \(Refiner\)](https://open.spotify.com/track/2zMg5jNFn6cv6imFPrYuBR) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Minha Oração](https://open.spotify.com/album/389BcZL9PPZK0m4sSkIDH5) | 5:07 | 2022-09-09 | 2023-03-25 |
-| [Rei da Glória \- Ao Vivo](https://open.spotify.com/track/7xJTjQuvpicM3FsnbaoDb6) | [Juliano Son](https://open.spotify.com/artist/1eKT4nyBWQbYdHm19DrV2P), [Isaias Saad](https://open.spotify.com/artist/1THj0JI7zld7YDsWERcSUz) | [Rei da Glória \(Ao Vivo\)](https://open.spotify.com/album/3KbdZIKpJM32CHylgpB851) | 8:33 | 2023-03-11 |  |
+| [Rei da Glória \- Ao Vivo](https://open.spotify.com/track/5FK5HvpJF3m4q8TRJufWTG) | [Juliano Son](https://open.spotify.com/artist/1eKT4nyBWQbYdHm19DrV2P), [Isaias Saad](https://open.spotify.com/artist/1THj0JI7zld7YDsWERcSUz) | [Noite de Adoração II \(Ao Vivo\)](https://open.spotify.com/album/18XBdKux9vjLSs5x0p6r81) | 8:33 | 2023-05-12 |  |
+| [Rei da Glória \- Ao Vivo](https://open.spotify.com/track/7xJTjQuvpicM3FsnbaoDb6) | [Juliano Son](https://open.spotify.com/artist/1eKT4nyBWQbYdHm19DrV2P), [Isaias Saad](https://open.spotify.com/artist/1THj0JI7zld7YDsWERcSUz) | [Rei da Glória \(Ao Vivo\)](https://open.spotify.com/album/3KbdZIKpJM32CHylgpB851) | 8:33 | 2023-03-11 | 2023-05-19 |
 | [Romanos 8:26 \(Ao Vivo\)](https://open.spotify.com/track/4eEB1CdGj3I7kv3QNykRnG) | [Fernanda Brum](https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8) | [Romanos 8:26 \(Ao Vivo\)](https://open.spotify.com/album/4la129Bk0w8ubbxMwwHzkC) | 4:29 | 2023-03-04 | 2023-04-29 |
 | [Ruja o Leão / Que Se Abram Os Céus \- Ao Vivo](https://open.spotify.com/track/36OnXKUU9pAKRYs9jfusbl) | [Isaias Saad](https://open.spotify.com/artist/1THj0JI7zld7YDsWERcSUz), [Nívea Soares](https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk) | [Ruja o Leão / Que Se Abram Os Céus \(Ao Vivo\)](https://open.spotify.com/album/4PSU1YDNjWdpb4xErJpQRt) | 7:34 | 2022-09-09 |  |
 | [Sangue de Jesus](https://open.spotify.com/track/7DxTA3yeeE2X3OVBcvai5m) | [Nívea Soares](https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk) | [Sangue de Jesus](https://open.spotify.com/album/62eXklHALW2DjHQSVVWiKe) | 4:35 | 2023-03-24 | 2023-04-16 |

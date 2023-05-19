@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-12-01",
-  "description": "100% British - 100% R&B. Cover: Mnelia",
+  "description": "100% British - 100% R&B. Cover: Aby Coulibaly",
   "name": "R&B UK",
   "tracks": [
     {
@@ -488,7 +488,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 179238,
       "name": "Endless No Mores - A COLORS SHOW",
       "url": "https://open.spotify.com/track/0UpZJ1hUK4q1yzjQzXI32B"
@@ -604,7 +604,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 147652,
       "name": "Fool's Gold",
       "url": "https://open.spotify.com/track/2xGyP9WuKLJc3zQ395OVPo"
@@ -684,10 +684,40 @@
       ],
       "date_added": "2023-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 186136,
       "name": "Genesis",
       "url": "https://open.spotify.com/track/3agzxnRGyaHEK5KyMeRpRX"
+    },
+    {
+      "album": {
+        "name": "Closure Tapes",
+        "url": "https://open.spotify.com/album/4rAj2yXfbuhHxR5ibpopF5"
+      },
+      "artists": [
+        {
+          "name": "Mnelia",
+          "url": "https://open.spotify.com/artist/4DDsQzXhKIC2F70cjMP7ec"
+        },
+        {
+          "name": "Miraa May",
+          "url": "https://open.spotify.com/artist/2fOvE1l01YyORhYzwoaLCM"
+        },
+        {
+          "name": "Joyce Wrice",
+          "url": "https://open.spotify.com/artist/24Cf1irKt7kcewb9OOkPum"
+        },
+        {
+          "name": "Bellah",
+          "url": "https://open.spotify.com/artist/6UZk0TOb0uZ1JWa3BW81FQ"
+        }
+      ],
+      "date_added": "2023-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206875,
+      "name": "Genesis (Remix) [feat. Miraa May, Joyce Wrice & Bellah]",
+      "url": "https://open.spotify.com/track/7moQCUT1UbndHCC2H6xYVs"
     },
     {
       "album": {
@@ -785,6 +815,24 @@
     },
     {
       "album": {
+        "name": "& what else?",
+        "url": "https://open.spotify.com/album/4p5YlAC56HCZOSDBNzqm8A"
+      },
+      "artists": [
+        {
+          "name": "Tora-i",
+          "url": "https://open.spotify.com/artist/4oJsWKOJCNMfUbIpR2jk8Z"
+        }
+      ],
+      "date_added": "2023-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 86429,
+      "name": "Hip Dips",
+      "url": "https://open.spotify.com/track/2DRBmze6Xcwi5VZt8XBNZh"
+    },
+    {
+      "album": {
         "name": "Hold Me",
         "url": "https://open.spotify.com/album/1lPP40l172ZtM0JK0wrfbC"
       },
@@ -814,7 +862,7 @@
       ],
       "date_added": "2022-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 217718,
       "name": "I Might Be In Love With You",
       "url": "https://open.spotify.com/track/1JXuz7eSjrpkI5FCdruZuN"
@@ -832,7 +880,7 @@
       ],
       "date_added": "2022-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 246144,
       "name": "I'll Be Loving You",
       "url": "https://open.spotify.com/track/1LqUHH9yacnl8xMBO3dx4d"
@@ -904,7 +952,7 @@
       ],
       "date_added": "2022-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 193291,
       "name": "In The Moment",
       "url": "https://open.spotify.com/track/2Xc0ucl20Cf0gOnbsxlOAU"
@@ -944,7 +992,7 @@
       ],
       "date_added": "2023-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 214000,
       "name": "Insensitive",
       "url": "https://open.spotify.com/track/3c1cNtcW4R8X54QOz86Lwi"
@@ -962,7 +1010,7 @@
       ],
       "date_added": "2022-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 180024,
       "name": "Is This Real Love?",
       "url": "https://open.spotify.com/track/2STIbgjW6oD4qc1odTNrqT"
@@ -988,6 +1036,24 @@
       "duration_ms": 179579,
       "name": "Is This Real Love? (feat. Lucky Daye) - Remix",
       "url": "https://open.spotify.com/track/2RNCC8Bn7umBNJKNbtDFgO"
+    },
+    {
+      "album": {
+        "name": "It Only Cost Everything",
+        "url": "https://open.spotify.com/album/3TkwUcPeKBeplsnWWxIMVS"
+      },
+      "artists": [
+        {
+          "name": "Victor Ray",
+          "url": "https://open.spotify.com/artist/3vABvmPywI2fV90bnpkpsJ"
+        }
+      ],
+      "date_added": "2023-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148146,
+      "name": "It Only Cost Everything",
+      "url": "https://open.spotify.com/track/563mYWqUDLRkdguuPd8erQ"
     },
     {
       "album": {
@@ -1044,6 +1110,28 @@
       "duration_ms": 236933,
       "name": "June's Cry",
       "url": "https://open.spotify.com/track/72NynuHPtVPMyeJq1y4eBT"
+    },
+    {
+      "album": {
+        "name": "Kaalam",
+        "url": "https://open.spotify.com/album/2yo3EtFKQoQ3Gv1QpQxTfD"
+      },
+      "artists": [
+        {
+          "name": "Pritt",
+          "url": "https://open.spotify.com/artist/5UBfs4W6ckxE7jCcqapRPn"
+        },
+        {
+          "name": "dilushselva",
+          "url": "https://open.spotify.com/artist/0kmN7hZGqNtmFNgJz4YvKZ"
+        }
+      ],
+      "date_added": "2023-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165333,
+      "name": "Kaalam",
+      "url": "https://open.spotify.com/track/2DGWtU9bU2D4yMuMaI2H3Y"
     },
     {
       "album": {
@@ -1283,6 +1371,24 @@
     },
     {
       "album": {
+        "name": "NIGHTTIME",
+        "url": "https://open.spotify.com/album/6f8vl4nEXcYJahLiV0V69W"
+      },
+      "artists": [
+        {
+          "name": "CLAVIS 7EVEN",
+          "url": "https://open.spotify.com/artist/3PDQTV8PvwYMsbPXzndDQF"
+        }
+      ],
+      "date_added": "2023-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150000,
+      "name": "NIGHTTIME",
+      "url": "https://open.spotify.com/track/6hybNTJZlwbL8Uk9PyWxYL"
+    },
+    {
+      "album": {
         "name": "No Regrets",
         "url": "https://open.spotify.com/album/4aRr37KCSr88qfFrnJYCZx"
       },
@@ -1402,7 +1508,7 @@
       ],
       "date_added": "2022-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 180149,
       "name": "OPTION",
       "url": "https://open.spotify.com/track/1zgSO8kt39pgiC47IdSvzD"
@@ -1489,6 +1595,24 @@
     },
     {
       "album": {
+        "name": "Patience",
+        "url": "https://open.spotify.com/album/3m2l1MTpR221QpO9RByKrp"
+      },
+      "artists": [
+        {
+          "name": "Aby Coulibaly",
+          "url": "https://open.spotify.com/artist/1ZjJVQsxUHP7MKnZg8yE33"
+        }
+      ],
+      "date_added": "2023-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184258,
+      "name": "Patience",
+      "url": "https://open.spotify.com/track/2cvOJldcBkXgHfoXz5o8Ia"
+    },
+    {
+      "album": {
         "name": "Pressure",
         "url": "https://open.spotify.com/album/0rs6VQv68DHwRGCkN1DlPO"
       },
@@ -1504,6 +1628,24 @@
       "duration_ms": 158681,
       "name": "Pressure",
       "url": "https://open.spotify.com/track/4DixBDzCcjzWHICnRw4FGy"
+    },
+    {
+      "album": {
+        "name": "radio silence",
+        "url": "https://open.spotify.com/album/3nXkQxkAvtVVoTuERk0bGs"
+      },
+      "artists": [
+        {
+          "name": "Ragz Originale",
+          "url": "https://open.spotify.com/artist/0yw2O9rh7YQd5MqEHOFGzW"
+        }
+      ],
+      "date_added": "2023-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131932,
+      "name": "radio silence",
+      "url": "https://open.spotify.com/track/2bn8pNyHOK0rzna5FfDhbO"
     },
     {
       "album": {
@@ -1721,6 +1863,32 @@
     },
     {
       "album": {
+        "name": "Subtle Games",
+        "url": "https://open.spotify.com/album/3aMR26kSe8rzHjj7VXLk1R"
+      },
+      "artists": [
+        {
+          "name": "Mezraa",
+          "url": "https://open.spotify.com/artist/6oT0L9KXaIDDW38IpYuvRs"
+        },
+        {
+          "name": "jjad",
+          "url": "https://open.spotify.com/artist/245muEmgdPNuYVuvtnykJF"
+        },
+        {
+          "name": "Liv East",
+          "url": "https://open.spotify.com/artist/12Yeojvul63OHxXXI6Z5x7"
+        }
+      ],
+      "date_added": "2023-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154615,
+      "name": "Subtle Games",
+      "url": "https://open.spotify.com/track/6PF4h4F2wkskBlO4XbqT5U"
+    },
+    {
+      "album": {
         "name": "Summer In December",
         "url": "https://open.spotify.com/album/0xKdmcCJcz5ByeOvRedaQO"
       },
@@ -1874,6 +2042,32 @@
       "duration_ms": 206429,
       "name": "This Is",
       "url": "https://open.spotify.com/track/2zuDMKJ2rSgCMtJknUJBZ9"
+    },
+    {
+      "album": {
+        "name": "The Playlist",
+        "url": "https://open.spotify.com/album/7BRaZkcF8gOp8YRKdBXvNz"
+      },
+      "artists": [
+        {
+          "name": "Steel Banglez",
+          "url": "https://open.spotify.com/artist/6k970rXaWAWVfWMjqWtFNI"
+        },
+        {
+          "name": "Tamera",
+          "url": "https://open.spotify.com/artist/4S68J6bchvHhqHO1Kp8W9X"
+        },
+        {
+          "name": "Mowgs",
+          "url": "https://open.spotify.com/artist/5B6fjdBghQykaZm20DtDP9"
+        }
+      ],
+      "date_added": "2023-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179717,
+      "name": "Wanna Be With You (feat. Tamera & Mowgs)",
+      "url": "https://open.spotify.com/track/0GFmF62FeWHM3OYYtAhcxq"
     },
     {
       "album": {

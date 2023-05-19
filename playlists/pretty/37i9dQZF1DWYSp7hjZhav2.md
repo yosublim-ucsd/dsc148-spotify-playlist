@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYSp7hjZhav2.md) - [plain]
 
 > <a href="spotify:artist:1UL813H5aj3e8ekE5RqWqc">Tale Of Us</a>'s favorite tracks\. Updated regularly\. Curated by Tale Of Us\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,910 likes - 85 songs - 8 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,113 likes - 85 songs - 8 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,7 +69,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYSp7hjZhav2.md) - [plain]
 | 59 | [Origin](https://open.spotify.com/track/5MmDAFQa8SP9bA5J3f5vYc) | [ARTBAT](https://open.spotify.com/artist/3BkRu2TGd2I1uBxZKddfg1), [Shall Ocin](https://open.spotify.com/artist/6OP6u8D2Icl5qmrCbyTY7M), [braev](https://open.spotify.com/artist/7mGCESDlw5ChfZQTQ3eUIS) | [Origin](https://open.spotify.com/album/5Z6mUYSbLGMoRyLq8JAuj1) | 7:40 |
 | 60 | [Nostalgia](https://open.spotify.com/track/2LoMz4ATefJEQjtS03wDHu) | [Marino Canal](https://open.spotify.com/artist/6qdVbTc8Uvy0VJyDZbYTd8) | [Nostalgia](https://open.spotify.com/album/7DS09pXwf2q17wOBN7cJ8z) | 4:42 |
 | 61 | [Nova](https://open.spotify.com/track/7dYjEwbLJ1B5reoz3lWra0) | [Burial](https://open.spotify.com/artist/0uCCBpmg6MrPb1KY2msceF), [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [Nova / Moth](https://open.spotify.com/album/17nT2QOQmMPEETOsNDK1Bp) | 5:42 |
-| 62 | [Danielle \(smile on my face\)](https://open.spotify.com/track/2sLVs5iX0osogh4jcsAJkv) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Danielle \(smile on my face\)](https://open.spotify.com/album/7xni0tZQ8q2rTHkIeBYr1Y) | 3:21 |
+| 62 | [Danielle \(Smile on My Face\)](https://open.spotify.com/track/2sLVs5iX0osogh4jcsAJkv) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Danielle \(smile on my face\)](https://open.spotify.com/album/7xni0tZQ8q2rTHkIeBYr1Y) | 3:21 |
 | 63 | [Your Voice \- Adam Port Remix](https://open.spotify.com/track/1Rv6Lfdcny3Avjmpm4W4YM) | [Caiiro](https://open.spotify.com/artist/0fs9otT9TtwXUOcFXZomZY), [AWEN](https://open.spotify.com/artist/5uOaNXrr4qGx9YXbo9HaUl), [Adam Port](https://open.spotify.com/artist/2loEsOijJ6XiGzWYFXMIRk) | [Your Voice \(Adam Port Remix\)](https://open.spotify.com/album/7i97hHLFqXAVFIIsUGw2Da) | 4:20 |
 | 64 | [Impossible \- &ME Remix](https://open.spotify.com/track/0TVcPTk3MMkT6WqkuatPSr) | [Röyksopp](https://open.spotify.com/artist/5nPOO9iTcrs9k6yFffPxjH), [Alison Goldfrapp](https://open.spotify.com/artist/72f5AR6hMeL3BwtcO7HqhS), [&ME](https://open.spotify.com/artist/5mIowAJMp7RKNheelruV5z) | [Impossible \(&ME Remix\)](https://open.spotify.com/album/4HmgIUcdgMfWDJYQdxhy6o) | 9:15 |
 | 65 | [Veridis Quo](https://open.spotify.com/track/2LD2gT7gwAurzdQDQtILds) | [Daft Punk](https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi) | [Discovery](https://open.spotify.com/album/2noRn2Aes5aoNVsU6iWThc) | 5:45 |
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYSp7hjZhav2.md) - [plain]
 | 84 | [Closed Doors](https://open.spotify.com/track/0UNbGjrR3WQgekwcTagh44) | [Final Request](https://open.spotify.com/artist/3NVOeVf2oPolFbXeTjdb3x) | [Closed Doors](https://open.spotify.com/album/3pH6GlrVlPuxjs5Aulu93A) | 5:43 |
 | 85 | [At Your Gamut](https://open.spotify.com/track/2uJJfL2Yp7dcXTh2zdVQkN) | [Caterina Barbieri](https://open.spotify.com/artist/61WgG5fz5ilJrMne7tE1zu) | [Spirit Exit](https://open.spotify.com/album/5KHpUME9BlHi5Dhf3thJoH) | 7:06 |
 
-Snapshot ID: `MCwwMzYwMzgyOTU1ODU5Y2ExMjcyNGE4YmE1YTc2NWFkNWZlM2E1MTU0`
+Snapshot ID: `MCw1MzBiOWY5ZGVlMjA3MWE0OTQ0Y2RjYjgzZTUxOTU2YjFiYWY0Y2Iz`

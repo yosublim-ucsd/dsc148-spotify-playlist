@@ -1,12 +1,12 @@
 {
   "description": "A collection of the best Deathcore tracks, mixing recent and fresh new tracks. Cover: The Acacia Strain",
-  "num_followers": 117022,
+  "num_followers": 117350,
   "original_name": "Deathcore",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5NDVkZDY4NmNmYmEzMjViNzU2MTM2YTZiYjE5OWVjZTU0ZTI2NmIz",
+  "snapshot_id": "MCxiMDQxYWNmNmQxODI3MWM5YmQwMWEzNGE5OWI2NjVmODE5NGVjZGJi",
   "tracks": [
     {
       "added_at": "2023-04-28 04:00:00",
@@ -503,22 +503,6 @@
     {
       "added_at": "2023-04-28 04:00:00",
       "album": {
-        "name": "Outrun",
-        "url": "https://open.spotify.com/album/2MxaRRkncFrg3v422FUHxN"
-      },
-      "artists": [
-        {
-          "name": "Veil Of Maya",
-          "url": "https://open.spotify.com/artist/2i7CQcVBh2K6uOR3CH09M1"
-        }
-      ],
-      "duration_ms": 225768,
-      "name": "Outrun",
-      "url": "https://open.spotify.com/track/2CruovQVFC9NdqOM40tObf"
-    },
-    {
-      "added_at": "2023-04-28 04:00:00",
-      "album": {
         "name": "Human Target",
         "url": "https://open.spotify.com/album/45oaK6XdF8aZ9tIF6aPQCM"
       },
@@ -531,6 +515,22 @@
       "duration_ms": 194120,
       "name": "Make America Hate Again",
       "url": "https://open.spotify.com/track/2HzQnBbzfJIUYIub2UlccS"
+    },
+    {
+      "added_at": "2023-04-28 04:00:00",
+      "album": {
+        "name": "Outrun",
+        "url": "https://open.spotify.com/album/2MxaRRkncFrg3v422FUHxN"
+      },
+      "artists": [
+        {
+          "name": "Veil Of Maya",
+          "url": "https://open.spotify.com/artist/2i7CQcVBh2K6uOR3CH09M1"
+        }
+      ],
+      "duration_ms": 225768,
+      "name": "Outrun",
+      "url": "https://open.spotify.com/track/2CruovQVFC9NdqOM40tObf"
     },
     {
       "added_at": "2023-04-28 04:00:00",
@@ -683,22 +683,6 @@
     {
       "added_at": "2023-04-28 04:00:00",
       "album": {
-        "name": "Deathmask Divine",
-        "url": "https://open.spotify.com/album/6F8ZKgYv9MLtTbw8g885JT"
-      },
-      "artists": [
-        {
-          "name": "Angelmaker",
-          "url": "https://open.spotify.com/artist/1AdrYGYDz4oa9dvW2jfFrG"
-        }
-      ],
-      "duration_ms": 262120,
-      "name": "Deathmask Divine",
-      "url": "https://open.spotify.com/track/22RdGoI0UEZjckg2VX70WC"
-    },
-    {
-      "added_at": "2023-04-28 04:00:00",
-      "album": {
         "name": "Walk With Me In Hell",
         "url": "https://open.spotify.com/album/7bAqjOAUci57f6be2isPZh"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 316599,
       "name": "Walk With Me In Hell",
       "url": "https://open.spotify.com/track/4bwp2R1oJxwNwoc28T7iy7"
+    },
+    {
+      "added_at": "2023-04-28 04:00:00",
+      "album": {
+        "name": "Deathmask Divine",
+        "url": "https://open.spotify.com/album/6F8ZKgYv9MLtTbw8g885JT"
+      },
+      "artists": [
+        {
+          "name": "Angelmaker",
+          "url": "https://open.spotify.com/artist/1AdrYGYDz4oa9dvW2jfFrG"
+        }
+      ],
+      "duration_ms": 262120,
+      "name": "Deathmask Divine",
+      "url": "https://open.spotify.com/track/22RdGoI0UEZjckg2VX70WC"
     },
     {
       "added_at": "2023-04-28 04:00:00",
@@ -863,22 +863,6 @@
     {
       "added_at": "2023-04-28 04:00:00",
       "album": {
-        "name": "In Dying Days",
-        "url": "https://open.spotify.com/album/3sCRkXKFnu5rvkB4LYmVGC"
-      },
-      "artists": [
-        {
-          "name": "Angelmaker",
-          "url": "https://open.spotify.com/artist/1AdrYGYDz4oa9dvW2jfFrG"
-        }
-      ],
-      "duration_ms": 231493,
-      "name": "In Dying Days",
-      "url": "https://open.spotify.com/track/19Xnb13zRC2leMWlT6lHhV"
-    },
-    {
-      "added_at": "2023-04-28 04:00:00",
-      "album": {
         "name": "The Orphan",
         "url": "https://open.spotify.com/album/6Ht4AEKGQHhDst26WlWy62"
       },
@@ -891,6 +875,22 @@
       "duration_ms": 383037,
       "name": "The Orphan",
       "url": "https://open.spotify.com/track/33gtSwgOxlxHLqAQftK3IW"
+    },
+    {
+      "added_at": "2023-04-28 04:00:00",
+      "album": {
+        "name": "In Dying Days",
+        "url": "https://open.spotify.com/album/3sCRkXKFnu5rvkB4LYmVGC"
+      },
+      "artists": [
+        {
+          "name": "Angelmaker",
+          "url": "https://open.spotify.com/artist/1AdrYGYDz4oa9dvW2jfFrG"
+        }
+      ],
+      "duration_ms": 231493,
+      "name": "In Dying Days",
+      "url": "https://open.spotify.com/track/19Xnb13zRC2leMWlT6lHhV"
     },
     {
       "added_at": "2023-04-28 04:00:00",
@@ -911,18 +911,18 @@
     {
       "added_at": "2023-04-28 04:00:00",
       "album": {
-        "name": "FRESH BONES",
-        "url": "https://open.spotify.com/album/7kPz7t2SmzZfcpvkCXQSAW"
+        "name": "Remember... You Must Die",
+        "url": "https://open.spotify.com/album/3mwVBK8eS1JkOoCs2fYiAr"
       },
       "artists": [
         {
-          "name": "The Acacia Strain",
-          "url": "https://open.spotify.com/artist/4tDkeVxH0CSkNiLVrsYmQs"
+          "name": "Suicide Silence",
+          "url": "https://open.spotify.com/artist/6HZr7Fs2VfV1PYHIwo8Ylc"
         }
       ],
-      "duration_ms": 148560,
-      "name": "FRESH BONES",
-      "url": "https://open.spotify.com/track/052ENxuzyaucDQqiAAxuo6"
+      "duration_ms": 162894,
+      "name": "You Must Die",
+      "url": "https://open.spotify.com/track/68gyFtYJzoe6rI7elhTNpc"
     },
     {
       "added_at": "2023-04-28 04:00:00",
@@ -943,18 +943,18 @@
     {
       "added_at": "2023-04-28 04:00:00",
       "album": {
-        "name": "Remember... You Must Die",
-        "url": "https://open.spotify.com/album/3mwVBK8eS1JkOoCs2fYiAr"
+        "name": "Pernicious",
+        "url": "https://open.spotify.com/album/41B7Vg1Vsc0W4bIFswKKOk"
       },
       "artists": [
         {
-          "name": "Suicide Silence",
-          "url": "https://open.spotify.com/artist/6HZr7Fs2VfV1PYHIwo8Ylc"
+          "name": "Signs of the Swarm",
+          "url": "https://open.spotify.com/artist/0yxJx8OEyDfd7dzLsFuNrS"
         }
       ],
-      "duration_ms": 162894,
-      "name": "You Must Die",
-      "url": "https://open.spotify.com/track/68gyFtYJzoe6rI7elhTNpc"
+      "duration_ms": 315178,
+      "name": "Pernicious",
+      "url": "https://open.spotify.com/track/7uDhTPFdGnIXGUWIlCoQl8"
     },
     {
       "added_at": "2023-04-28 04:00:00",
@@ -975,18 +975,18 @@
     {
       "added_at": "2023-04-28 04:00:00",
       "album": {
-        "name": "Pernicious",
-        "url": "https://open.spotify.com/album/41B7Vg1Vsc0W4bIFswKKOk"
+        "name": "FRESH BONES",
+        "url": "https://open.spotify.com/album/7kPz7t2SmzZfcpvkCXQSAW"
       },
       "artists": [
         {
-          "name": "Signs of the Swarm",
-          "url": "https://open.spotify.com/artist/0yxJx8OEyDfd7dzLsFuNrS"
+          "name": "The Acacia Strain",
+          "url": "https://open.spotify.com/artist/4tDkeVxH0CSkNiLVrsYmQs"
         }
       ],
-      "duration_ms": 315178,
-      "name": "Pernicious",
-      "url": "https://open.spotify.com/track/7uDhTPFdGnIXGUWIlCoQl8"
+      "duration_ms": 148560,
+      "name": "FRESH BONES",
+      "url": "https://open.spotify.com/track/052ENxuzyaucDQqiAAxuo6"
     },
     {
       "added_at": "2023-04-28 04:00:00",
@@ -1023,6 +1023,22 @@
       "duration_ms": 190485,
       "name": "Gaslight",
       "url": "https://open.spotify.com/track/4CtFvQhdhJoBcgkSuaA0D9"
+    },
+    {
+      "added_at": "2023-04-28 04:00:00",
+      "album": {
+        "name": "Dying Life",
+        "url": "https://open.spotify.com/album/6Pc86g10o2mM7OSFl5HfLX"
+      },
+      "artists": [
+        {
+          "name": "Suicide Silence",
+          "url": "https://open.spotify.com/artist/6HZr7Fs2VfV1PYHIwo8Ylc"
+        }
+      ],
+      "duration_ms": 200629,
+      "name": "Dying Life",
+      "url": "https://open.spotify.com/track/5nm3w9H0Cc24qR7in5Tvph"
     },
     {
       "added_at": "2023-04-28 04:00:00",
@@ -1071,22 +1087,6 @@
       "duration_ms": 216400,
       "name": "Rage",
       "url": "https://open.spotify.com/track/013gFBH6Qqs79Zbj7WOdsu"
-    },
-    {
-      "added_at": "2023-04-28 04:00:00",
-      "album": {
-        "name": "Dying Life",
-        "url": "https://open.spotify.com/album/6Pc86g10o2mM7OSFl5HfLX"
-      },
-      "artists": [
-        {
-          "name": "Suicide Silence",
-          "url": "https://open.spotify.com/artist/6HZr7Fs2VfV1PYHIwo8Ylc"
-        }
-      ],
-      "duration_ms": 200629,
-      "name": "Dying Life",
-      "url": "https://open.spotify.com/track/5nm3w9H0Cc24qR7in5Tvph"
     },
     {
       "added_at": "2023-04-28 04:00:00",
@@ -1175,22 +1175,6 @@
     {
       "added_at": "2023-04-28 04:00:00",
       "album": {
-        "name": "Choky",
-        "url": "https://open.spotify.com/album/0daRza8EZVJvUaTC9JYkVl"
-      },
-      "artists": [
-        {
-          "name": "ten56.",
-          "url": "https://open.spotify.com/artist/28dpy0DQotTkBXcTlniQii"
-        }
-      ],
-      "duration_ms": 179876,
-      "name": "Choky",
-      "url": "https://open.spotify.com/track/5VIqmAis57fVSZ66761QHn"
-    },
-    {
-      "added_at": "2023-04-28 04:00:00",
-      "album": {
         "name": "Nu World Order",
         "url": "https://open.spotify.com/album/5SncXjPlJcoEXn40vPgHR6"
       },
@@ -1203,6 +1187,22 @@
       "duration_ms": 175723,
       "name": "Nu World Order",
       "url": "https://open.spotify.com/track/60haWdj7cWgEzmEljnRZKV"
+    },
+    {
+      "added_at": "2023-04-28 04:00:00",
+      "album": {
+        "name": "Choky",
+        "url": "https://open.spotify.com/album/0daRza8EZVJvUaTC9JYkVl"
+      },
+      "artists": [
+        {
+          "name": "ten56.",
+          "url": "https://open.spotify.com/artist/28dpy0DQotTkBXcTlniQii"
+        }
+      ],
+      "duration_ms": 179876,
+      "name": "Choky",
+      "url": "https://open.spotify.com/track/5VIqmAis57fVSZ66761QHn"
     },
     {
       "added_at": "2023-04-28 04:00:00",
@@ -1447,18 +1447,18 @@
     {
       "added_at": "2023-04-28 04:00:00",
       "album": {
-        "name": "Caved In",
-        "url": "https://open.spotify.com/album/0pI5Rz0PX9eo0CxUulTOaG"
+        "name": "End Of Existence",
+        "url": "https://open.spotify.com/album/69OWwAT3a244xtQhmHn16e"
       },
       "artists": [
         {
-          "name": "Spite",
-          "url": "https://open.spotify.com/artist/2DynE7m1BMVl4hQMvCXXq0"
+          "name": "The Browning",
+          "url": "https://open.spotify.com/artist/4DSNcg40nf6T3eNAObq1Lo"
         }
       ],
-      "duration_ms": 178279,
-      "name": "Caved In",
-      "url": "https://open.spotify.com/track/2BAuNSD3o86LargMzbXNrQ"
+      "duration_ms": 240823,
+      "name": "End Of Existence",
+      "url": "https://open.spotify.com/track/4PsJwwJP7I7rpK1dOnZeAQ"
     },
     {
       "added_at": "2023-04-28 04:00:00",
@@ -1479,18 +1479,18 @@
     {
       "added_at": "2023-04-28 04:00:00",
       "album": {
-        "name": "Axe Of Kindness",
-        "url": "https://open.spotify.com/album/4zr1Sv0QdzOidHBxuStPh6"
+        "name": "Caved In",
+        "url": "https://open.spotify.com/album/0pI5Rz0PX9eo0CxUulTOaG"
       },
       "artists": [
         {
-          "name": "To The Grave",
-          "url": "https://open.spotify.com/artist/3jr9qsKWQjf3iMNQ3rWVDQ"
+          "name": "Spite",
+          "url": "https://open.spotify.com/artist/2DynE7m1BMVl4hQMvCXXq0"
         }
       ],
-      "duration_ms": 248600,
-      "name": "Axe of Kindness",
-      "url": "https://open.spotify.com/track/3Fg5ZDrV66DlNLAh2LO8vL"
+      "duration_ms": 178279,
+      "name": "Caved In",
+      "url": "https://open.spotify.com/track/2BAuNSD3o86LargMzbXNrQ"
     },
     {
       "added_at": "2023-04-28 04:00:00",
@@ -1511,18 +1511,18 @@
     {
       "added_at": "2023-04-28 04:00:00",
       "album": {
-        "name": "End Of Existence",
-        "url": "https://open.spotify.com/album/69OWwAT3a244xtQhmHn16e"
+        "name": "Axe Of Kindness",
+        "url": "https://open.spotify.com/album/4zr1Sv0QdzOidHBxuStPh6"
       },
       "artists": [
         {
-          "name": "The Browning",
-          "url": "https://open.spotify.com/artist/4DSNcg40nf6T3eNAObq1Lo"
+          "name": "To The Grave",
+          "url": "https://open.spotify.com/artist/3jr9qsKWQjf3iMNQ3rWVDQ"
         }
       ],
-      "duration_ms": 240823,
-      "name": "End Of Existence",
-      "url": "https://open.spotify.com/track/4PsJwwJP7I7rpK1dOnZeAQ"
+      "duration_ms": 248600,
+      "name": "Axe of Kindness",
+      "url": "https://open.spotify.com/track/3Fg5ZDrV66DlNLAh2LO8vL"
     },
     {
       "added_at": "2023-04-28 04:00:00",
@@ -1575,22 +1575,6 @@
     {
       "added_at": "2023-04-28 04:00:00",
       "album": {
-        "name": "OKKULT III",
-        "url": "https://open.spotify.com/album/0P9FUacYwUhFVLWE9MFZZy"
-      },
-      "artists": [
-        {
-          "name": "Atrocity",
-          "url": "https://open.spotify.com/artist/050NpEYZ5xFUS1BOAZjVmX"
-        }
-      ],
-      "duration_ms": 234253,
-      "name": "Fire Ignites",
-      "url": "https://open.spotify.com/track/4JltaBp7RZYoDeNYQGbyiM"
-    },
-    {
-      "added_at": "2023-04-28 04:00:00",
-      "album": {
         "name": "Gypsy Disco",
         "url": "https://open.spotify.com/album/6XlxptF7rFq2zqEX9aFhgg"
       },
@@ -1603,6 +1587,22 @@
       "duration_ms": 121864,
       "name": "Gypsy Disco",
       "url": "https://open.spotify.com/track/3md0vbPVjAthmi7NgQYvcR"
+    },
+    {
+      "added_at": "2023-04-28 04:00:00",
+      "album": {
+        "name": "OKKULT III",
+        "url": "https://open.spotify.com/album/0P9FUacYwUhFVLWE9MFZZy"
+      },
+      "artists": [
+        {
+          "name": "Atrocity",
+          "url": "https://open.spotify.com/artist/050NpEYZ5xFUS1BOAZjVmX"
+        }
+      ],
+      "duration_ms": 234253,
+      "name": "Fire Ignites",
+      "url": "https://open.spotify.com/track/4JltaBp7RZYoDeNYQGbyiM"
     },
     {
       "added_at": "2023-04-28 04:00:00",
@@ -1639,22 +1639,6 @@
     {
       "added_at": "2023-04-28 04:00:00",
       "album": {
-        "name": "Survival",
-        "url": "https://open.spotify.com/album/1yQX87mmZgUC1CH8R7EbLr"
-      },
-      "artists": [
-        {
-          "name": "Within Destruction",
-          "url": "https://open.spotify.com/artist/1kAX4yFdmR0hJe2tPu1785"
-        }
-      ],
-      "duration_ms": 199741,
-      "name": "Survival",
-      "url": "https://open.spotify.com/track/5cV5z3OWpzyvLmpZQiJhuA"
-    },
-    {
-      "added_at": "2023-04-28 04:00:00",
-      "album": {
         "name": "A Hill to Die Upon",
         "url": "https://open.spotify.com/album/79VMfL0k3LZFy95k6xTM5m"
       },
@@ -1671,18 +1655,18 @@
     {
       "added_at": "2023-04-28 04:00:00",
       "album": {
-        "name": "Rot With Me",
-        "url": "https://open.spotify.com/album/3Su8dMEvhQi0XpOjiesqOz"
+        "name": "Survival",
+        "url": "https://open.spotify.com/album/1yQX87mmZgUC1CH8R7EbLr"
       },
       "artists": [
         {
-          "name": "For the Likes of You",
-          "url": "https://open.spotify.com/artist/1IeBTpaPY7xQtxqbxXa9qC"
+          "name": "Within Destruction",
+          "url": "https://open.spotify.com/artist/1kAX4yFdmR0hJe2tPu1785"
         }
       ],
-      "duration_ms": 286735,
-      "name": "Rot With Me",
-      "url": "https://open.spotify.com/track/19yntuiQGoYkKvhPTEPDf1"
+      "duration_ms": 199741,
+      "name": "Survival",
+      "url": "https://open.spotify.com/track/5cV5z3OWpzyvLmpZQiJhuA"
     },
     {
       "added_at": "2023-04-28 04:00:00",
@@ -1703,18 +1687,18 @@
     {
       "added_at": "2023-04-28 04:00:00",
       "album": {
-        "name": "World War X",
-        "url": "https://open.spotify.com/album/5OiCqo3u7tuY74x5ShFOO1"
+        "name": "Rot With Me",
+        "url": "https://open.spotify.com/album/3Su8dMEvhQi0XpOjiesqOz"
       },
       "artists": [
         {
-          "name": "Carnifex",
-          "url": "https://open.spotify.com/artist/4nqY8hkQNkHaDq4fdVxdYr"
+          "name": "For the Likes of You",
+          "url": "https://open.spotify.com/artist/1IeBTpaPY7xQtxqbxXa9qC"
         }
       ],
-      "duration_ms": 268331,
-      "name": "World War X",
-      "url": "https://open.spotify.com/track/49PBZfQrzFeU5VNlUNl52j"
+      "duration_ms": 286735,
+      "name": "Rot With Me",
+      "url": "https://open.spotify.com/track/19yntuiQGoYkKvhPTEPDf1"
     },
     {
       "added_at": "2023-04-28 04:00:00",
@@ -1735,54 +1719,18 @@
     {
       "added_at": "2023-04-28 04:00:00",
       "album": {
-        "name": "I Hope We Make It Out of This Alive",
-        "url": "https://open.spotify.com/album/46V8n8Ws2mYTRFqVXc7IMx"
+        "name": "World War X",
+        "url": "https://open.spotify.com/album/5OiCqo3u7tuY74x5ShFOO1"
       },
       "artists": [
         {
-          "name": "Sold Soul",
-          "url": "https://open.spotify.com/artist/2X2KBI2OrNMci6TDQAXCA6"
-        },
-        {
-          "name": "Brittney Slayes",
-          "url": "https://open.spotify.com/artist/47gDQfHce3BxdKGzAbI9v0"
+          "name": "Carnifex",
+          "url": "https://open.spotify.com/artist/4nqY8hkQNkHaDq4fdVxdYr"
         }
       ],
-      "duration_ms": 384285,
-      "name": "For Whom the Banshee Cries",
-      "url": "https://open.spotify.com/track/2wwbK9hDUHFaZO13XG5N5n"
-    },
-    {
-      "added_at": "2023-04-28 04:00:00",
-      "album": {
-        "name": "Nightmare",
-        "url": "https://open.spotify.com/album/7F1rW2vvNThPFpUtlxc0l5"
-      },
-      "artists": [
-        {
-          "name": "Within Destruction",
-          "url": "https://open.spotify.com/artist/1kAX4yFdmR0hJe2tPu1785"
-        }
-      ],
-      "duration_ms": 228304,
-      "name": "Nightmare",
-      "url": "https://open.spotify.com/track/16COWH18tMTErphM5E58XH"
-    },
-    {
-      "added_at": "2023-04-28 04:00:00",
-      "album": {
-        "name": "The Cycle Of Violence: Chapter 1",
-        "url": "https://open.spotify.com/album/54Dzy1tTjwERCoPDRZm3zR"
-      },
-      "artists": [
-        {
-          "name": "Varials",
-          "url": "https://open.spotify.com/artist/6EFV3PmaXblKwNbvpkGv9l"
-        }
-      ],
-      "duration_ms": 158365,
-      "name": "The Cycle Of Violence : Chapter 1",
-      "url": "https://open.spotify.com/track/1pWTBX4TPLMxfQGi9E4uYt"
+      "duration_ms": 268331,
+      "name": "World War X",
+      "url": "https://open.spotify.com/track/49PBZfQrzFeU5VNlUNl52j"
     },
     {
       "added_at": "2023-04-28 04:00:00",
@@ -1807,6 +1755,58 @@
     {
       "added_at": "2023-04-28 04:00:00",
       "album": {
+        "name": "Nightmare",
+        "url": "https://open.spotify.com/album/7F1rW2vvNThPFpUtlxc0l5"
+      },
+      "artists": [
+        {
+          "name": "Within Destruction",
+          "url": "https://open.spotify.com/artist/1kAX4yFdmR0hJe2tPu1785"
+        }
+      ],
+      "duration_ms": 228304,
+      "name": "Nightmare",
+      "url": "https://open.spotify.com/track/16COWH18tMTErphM5E58XH"
+    },
+    {
+      "added_at": "2023-04-28 04:00:00",
+      "album": {
+        "name": "I Hope We Make It Out of This Alive",
+        "url": "https://open.spotify.com/album/46V8n8Ws2mYTRFqVXc7IMx"
+      },
+      "artists": [
+        {
+          "name": "Sold Soul",
+          "url": "https://open.spotify.com/artist/2X2KBI2OrNMci6TDQAXCA6"
+        },
+        {
+          "name": "Brittney Slayes",
+          "url": "https://open.spotify.com/artist/47gDQfHce3BxdKGzAbI9v0"
+        }
+      ],
+      "duration_ms": 384285,
+      "name": "For Whom the Banshee Cries",
+      "url": "https://open.spotify.com/track/2wwbK9hDUHFaZO13XG5N5n"
+    },
+    {
+      "added_at": "2023-04-28 04:00:00",
+      "album": {
+        "name": "The Cycle Of Violence: Chapter 1",
+        "url": "https://open.spotify.com/album/54Dzy1tTjwERCoPDRZm3zR"
+      },
+      "artists": [
+        {
+          "name": "Varials",
+          "url": "https://open.spotify.com/artist/6EFV3PmaXblKwNbvpkGv9l"
+        }
+      ],
+      "duration_ms": 158365,
+      "name": "The Cycle Of Violence : Chapter 1",
+      "url": "https://open.spotify.com/track/1pWTBX4TPLMxfQGi9E4uYt"
+    },
+    {
+      "added_at": "2023-04-28 04:00:00",
+      "album": {
         "name": "Paranoid Skizoid",
         "url": "https://open.spotify.com/album/3HX4nigXg6PaUMBhDgAFXO"
       },
@@ -1823,22 +1823,6 @@
     {
       "added_at": "2023-04-28 04:00:00",
       "album": {
-        "name": "Hangman",
-        "url": "https://open.spotify.com/album/4qBDLiXoLpGSWJmMvOO98l"
-      },
-      "artists": [
-        {
-          "name": "Spite",
-          "url": "https://open.spotify.com/artist/2DynE7m1BMVl4hQMvCXXq0"
-        }
-      ],
-      "duration_ms": 176120,
-      "name": "Hangman",
-      "url": "https://open.spotify.com/track/3ERQKYFcOKIu3VDzCMm7DY"
-    },
-    {
-      "added_at": "2023-04-28 04:00:00",
-      "album": {
         "name": "Days Before the World Wept",
         "url": "https://open.spotify.com/album/29uEQ1RoGjYPBXrZCUb6Ms"
       },
@@ -1851,6 +1835,22 @@
       "duration_ms": 293308,
       "name": "Remnants in Time",
       "url": "https://open.spotify.com/track/4QrLsP1ZpVLdEVpdS1AnXm"
+    },
+    {
+      "added_at": "2023-04-28 04:00:00",
+      "album": {
+        "name": "Hangman",
+        "url": "https://open.spotify.com/album/4qBDLiXoLpGSWJmMvOO98l"
+      },
+      "artists": [
+        {
+          "name": "Spite",
+          "url": "https://open.spotify.com/artist/2DynE7m1BMVl4hQMvCXXq0"
+        }
+      ],
+      "duration_ms": 176120,
+      "name": "Hangman",
+      "url": "https://open.spotify.com/track/3ERQKYFcOKIu3VDzCMm7DY"
     },
     {
       "added_at": "2023-04-28 04:00:00",

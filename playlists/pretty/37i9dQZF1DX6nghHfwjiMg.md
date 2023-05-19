@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6nghHfwjiMg.md) - [plain]
 
 > Descubre los nuevos talentos de Argentina, Chile y Uruguay\. <br/>Foto: Zoe Gotusso.
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,354 likes - 70 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,352 likes - 70 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6nghHfwjiMg.md) - [plain]
 | 69 | [ME QUIERO QUEDAR \- morko remix](https://open.spotify.com/track/6sHrSoKOTHwlZTJ9Pewwej) | [Clara Cava](https://open.spotify.com/artist/5bOm9wAui94GDhPOCKgmhY), [Morko](https://open.spotify.com/artist/7ECK6zVWsnoTS1k3kH7mzt) | [NO VAYA A LA FIESTA REMIX](https://open.spotify.com/album/4rUFwIVoRO3shvDEs5N7ek) | 2:29 |
 | 70 | [malo](https://open.spotify.com/track/76U4q9ZuZAtk1BPN96H6Zz) | [SOULFIA](https://open.spotify.com/artist/1Q9Sx5tOmwems0qwLJZ5Cy) | [GÉNESIS](https://open.spotify.com/album/4blQHdDuBVjZRVdLzwcVl5) | 3:03 |
 
-Snapshot ID: `MCxkOWRjZGE5N2NkNzU5NTg4NjU1ODUyNmE1ZWMyODUzMWFhNTQyMGJk`
+Snapshot ID: `MCwxYzhjZjRiOWI0MjI5YjYxYzY5NTI1YzMzMTMxYzE2MDZhODY2Mzg1`

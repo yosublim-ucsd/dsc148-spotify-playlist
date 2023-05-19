@@ -1,12 +1,12 @@
 {
   "description": "Lyrical, lo-fi, and lowlife raps. Cover: Conway The Machine",
-  "num_followers": 1615159,
+  "num_followers": 1615350,
   "original_name": "Spilled Ink",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiYTZhNjIwNTM5OGJkZTBmYmE3MDdiYmE5ZGE4ZDI3MzQyOWIxYWU4",
+  "snapshot_id": "MCw5ZDBkMzUzYWI2NzIzMGZiYmExMDYwM2IwYTQ0MTU0ZGFiNDhmZTM4",
   "tracks": [
     {
       "added_at": "2023-05-12 04:00:00",
@@ -315,6 +315,22 @@
     {
       "added_at": "2023-05-12 04:00:00",
       "album": {
+        "name": "CHOMP 2.5 (EP)",
+        "url": "https://open.spotify.com/album/5HjOggAz73pO4Q0JBRCL13"
+      },
+      "artists": [
+        {
+          "name": "Russ",
+          "url": "https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS"
+        }
+      ],
+      "duration_ms": 132219,
+      "name": "Reflection",
+      "url": "https://open.spotify.com/track/2gCfINwRf5H9rE6YXxF8Fo"
+    },
+    {
+      "added_at": "2023-05-12 04:00:00",
+      "album": {
         "name": "Just Like You",
         "url": "https://open.spotify.com/album/0ukYZ27VvCGcvfcAi48HWB"
       },
@@ -339,22 +355,6 @@
     {
       "added_at": "2023-05-12 04:00:00",
       "album": {
-        "name": "I Still Don't Cry",
-        "url": "https://open.spotify.com/album/1tvHEgMEd2E0MMay214y9G"
-      },
-      "artists": [
-        {
-          "name": "Marlon Craft",
-          "url": "https://open.spotify.com/artist/7MigDh04CCntQbsBvugEmb"
-        }
-      ],
-      "duration_ms": 150000,
-      "name": "I Still Don't Cry",
-      "url": "https://open.spotify.com/track/0FOD0Km83V9o5SZTbbVmzL"
-    },
-    {
-      "added_at": "2023-05-12 04:00:00",
-      "album": {
         "name": "Days Like This",
         "url": "https://open.spotify.com/album/3BFFAxUqAbi9hMoYPMZWdq"
       },
@@ -367,6 +367,22 @@
       "duration_ms": 161927,
       "name": "Days Like This",
       "url": "https://open.spotify.com/track/7dbgtABmOcuNsdNY5b6GXt"
+    },
+    {
+      "added_at": "2023-05-12 04:00:00",
+      "album": {
+        "name": "I Still Don't Cry",
+        "url": "https://open.spotify.com/album/1tvHEgMEd2E0MMay214y9G"
+      },
+      "artists": [
+        {
+          "name": "Marlon Craft",
+          "url": "https://open.spotify.com/artist/7MigDh04CCntQbsBvugEmb"
+        }
+      ],
+      "duration_ms": 150000,
+      "name": "I Still Don't Cry",
+      "url": "https://open.spotify.com/track/0FOD0Km83V9o5SZTbbVmzL"
     },
     {
       "added_at": "2023-05-12 04:00:00",
@@ -391,22 +407,6 @@
       "duration_ms": 216521,
       "name": "Game 6",
       "url": "https://open.spotify.com/track/2NpAwkhQZDFD1kWR1ZxuWM"
-    },
-    {
-      "added_at": "2023-05-12 04:00:00",
-      "album": {
-        "name": "CHOMP 2.5 (EP)",
-        "url": "https://open.spotify.com/album/5HjOggAz73pO4Q0JBRCL13"
-      },
-      "artists": [
-        {
-          "name": "Russ",
-          "url": "https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS"
-        }
-      ],
-      "duration_ms": 132219,
-      "name": "Reflection",
-      "url": "https://open.spotify.com/track/2gCfINwRf5H9rE6YXxF8Fo"
     },
     {
       "added_at": "2023-05-12 04:00:00",
@@ -455,26 +455,18 @@
     {
       "added_at": "2023-05-12 04:00:00",
       "album": {
-        "name": "The Game",
-        "url": "https://open.spotify.com/album/1iFw5aFJCIV4xLrvWdSdoH"
+        "name": "SentRock",
+        "url": "https://open.spotify.com/album/6FS38anvDEjBwNAOKfFPro"
       },
       "artists": [
         {
-          "name": "Rick Ross",
-          "url": "https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a"
-        },
-        {
-          "name": "Fat Joe",
-          "url": "https://open.spotify.com/artist/3ScY9CQxNLQei8Umvpx5g6"
-        },
-        {
-          "name": "The LOX",
-          "url": "https://open.spotify.com/artist/0A7g2YbCA9FlyZvAG6VmKP"
+          "name": "Lupe Fiasco",
+          "url": "https://open.spotify.com/artist/01QTIT5P1pFP3QnnFSdsJf"
         }
       ],
-      "duration_ms": 233845,
-      "name": "The Game",
-      "url": "https://open.spotify.com/track/1FTQhbMT3Wl7CoRS4jA2LK"
+      "duration_ms": 170000,
+      "name": "SentRock",
+      "url": "https://open.spotify.com/track/2WDEt2vKpQ3hUOeRFVRxQc"
     },
     {
       "added_at": "2023-05-12 04:00:00",
@@ -503,18 +495,26 @@
     {
       "added_at": "2023-05-12 04:00:00",
       "album": {
-        "name": "SentRock",
-        "url": "https://open.spotify.com/album/6FS38anvDEjBwNAOKfFPro"
+        "name": "The Game",
+        "url": "https://open.spotify.com/album/1iFw5aFJCIV4xLrvWdSdoH"
       },
       "artists": [
         {
-          "name": "Lupe Fiasco",
-          "url": "https://open.spotify.com/artist/01QTIT5P1pFP3QnnFSdsJf"
+          "name": "Rick Ross",
+          "url": "https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a"
+        },
+        {
+          "name": "Fat Joe",
+          "url": "https://open.spotify.com/artist/3ScY9CQxNLQei8Umvpx5g6"
+        },
+        {
+          "name": "The LOX",
+          "url": "https://open.spotify.com/artist/0A7g2YbCA9FlyZvAG6VmKP"
         }
       ],
-      "duration_ms": 170000,
-      "name": "SentRock",
-      "url": "https://open.spotify.com/track/2WDEt2vKpQ3hUOeRFVRxQc"
+      "duration_ms": 233845,
+      "name": "The Game",
+      "url": "https://open.spotify.com/track/1FTQhbMT3Wl7CoRS4jA2LK"
     },
     {
       "added_at": "2023-05-12 04:00:00",
@@ -543,22 +543,22 @@
     {
       "added_at": "2023-05-12 04:00:00",
       "album": {
-        "name": "Paradise II (feat. Norah Jones)",
-        "url": "https://open.spotify.com/album/2z5KrQ5Kidw5K3zLeMs1gL"
+        "name": "Road to CASABLANCO.",
+        "url": "https://open.spotify.com/album/6xwrN7rxXUYGogRCLlYhvv"
       },
       "artists": [
         {
-          "name": "Logic",
-          "url": "https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L"
+          "name": "Armani White",
+          "url": "https://open.spotify.com/artist/2qAwMsiIjTzlmfAkXKvhVA"
         },
         {
-          "name": "Norah Jones",
-          "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N"
+          "name": "Fridayy",
+          "url": "https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i"
         }
       ],
-      "duration_ms": 207386,
-      "name": "Paradise II (feat. Norah Jones) - Single Version",
-      "url": "https://open.spotify.com/track/4HBYReb8ynLCDpLWvMHJ5d"
+      "duration_ms": 282066,
+      "name": "PROUD OF ME. (feat. Fridayy)",
+      "url": "https://open.spotify.com/track/3aKtmuC5ihp2DWCjqBboY3"
     },
     {
       "added_at": "2023-05-12 04:00:00",
@@ -587,22 +587,42 @@
     {
       "added_at": "2023-05-12 04:00:00",
       "album": {
-        "name": "Road to CASABLANCO.",
-        "url": "https://open.spotify.com/album/6xwrN7rxXUYGogRCLlYhvv"
+        "name": "WON'T HE DO IT",
+        "url": "https://open.spotify.com/album/2neNj1lj4R6QgEyqwIrXLc"
       },
       "artists": [
         {
-          "name": "Armani White",
-          "url": "https://open.spotify.com/artist/2qAwMsiIjTzlmfAkXKvhVA"
+          "name": "Conway the Machine",
+          "url": "https://open.spotify.com/artist/67gqUXxHedeUGDTxwBzdjS"
         },
         {
-          "name": "Fridayy",
-          "url": "https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i"
+          "name": "Westside Gunn",
+          "url": "https://open.spotify.com/artist/0ABk515kENDyATUdpCKVfW"
         }
       ],
-      "duration_ms": 282066,
-      "name": "PROUD OF ME. (feat. Fridayy)",
-      "url": "https://open.spotify.com/track/3aKtmuC5ihp2DWCjqBboY3"
+      "duration_ms": 190310,
+      "name": "Brucifix",
+      "url": "https://open.spotify.com/track/46mU5vw10PGn5yT9jVopns"
+    },
+    {
+      "added_at": "2023-05-12 04:00:00",
+      "album": {
+        "name": "Paradise II (feat. Norah Jones)",
+        "url": "https://open.spotify.com/album/2z5KrQ5Kidw5K3zLeMs1gL"
+      },
+      "artists": [
+        {
+          "name": "Logic",
+          "url": "https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L"
+        },
+        {
+          "name": "Norah Jones",
+          "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N"
+        }
+      ],
+      "duration_ms": 207386,
+      "name": "Paradise II (feat. Norah Jones) - Single Version",
+      "url": "https://open.spotify.com/track/4HBYReb8ynLCDpLWvMHJ5d"
     },
     {
       "added_at": "2023-05-12 04:00:00",
@@ -627,42 +647,18 @@
     {
       "added_at": "2023-05-12 04:00:00",
       "album": {
-        "name": "WON'T HE DO IT",
-        "url": "https://open.spotify.com/album/2neNj1lj4R6QgEyqwIrXLc"
+        "name": "King's Disease III",
+        "url": "https://open.spotify.com/album/3vQuGKQJMfdXmkjRKqUesk"
       },
       "artists": [
         {
-          "name": "Conway the Machine",
-          "url": "https://open.spotify.com/artist/67gqUXxHedeUGDTxwBzdjS"
-        },
-        {
-          "name": "Westside Gunn",
-          "url": "https://open.spotify.com/artist/0ABk515kENDyATUdpCKVfW"
+          "name": "Nas",
+          "url": "https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q"
         }
       ],
-      "duration_ms": 190310,
-      "name": "Brucifix",
-      "url": "https://open.spotify.com/track/46mU5vw10PGn5yT9jVopns"
-    },
-    {
-      "added_at": "2023-05-12 04:00:00",
-      "album": {
-        "name": "Back In Office",
-        "url": "https://open.spotify.com/album/3ytxE6VpY5QAeqWQBeI4eg"
-      },
-      "artists": [
-        {
-          "name": "Saba",
-          "url": "https://open.spotify.com/artist/7Hjbimq43OgxaBRpFXic4x"
-        },
-        {
-          "name": "No I.D.",
-          "url": "https://open.spotify.com/artist/4TNLCgKNImRbj2bb7g52wH"
-        }
-      ],
-      "duration_ms": 173146,
-      "name": "Back In Office",
-      "url": "https://open.spotify.com/track/5rrtDWbFizKTZ7GcsHYHh7"
+      "duration_ms": 167724,
+      "name": "Michael & Quincy",
+      "url": "https://open.spotify.com/track/5MfCvL6jCTkxPCBQf3OkYH"
     },
     {
       "added_at": "2023-05-12 04:00:00",
@@ -687,18 +683,22 @@
     {
       "added_at": "2023-05-12 04:00:00",
       "album": {
-        "name": "King's Disease III",
-        "url": "https://open.spotify.com/album/3vQuGKQJMfdXmkjRKqUesk"
+        "name": "Back In Office",
+        "url": "https://open.spotify.com/album/3ytxE6VpY5QAeqWQBeI4eg"
       },
       "artists": [
         {
-          "name": "Nas",
-          "url": "https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q"
+          "name": "Saba",
+          "url": "https://open.spotify.com/artist/7Hjbimq43OgxaBRpFXic4x"
+        },
+        {
+          "name": "No I.D.",
+          "url": "https://open.spotify.com/artist/4TNLCgKNImRbj2bb7g52wH"
         }
       ],
-      "duration_ms": 167724,
-      "name": "Michael & Quincy",
-      "url": "https://open.spotify.com/track/5MfCvL6jCTkxPCBQf3OkYH"
+      "duration_ms": 173146,
+      "name": "Back In Office",
+      "url": "https://open.spotify.com/track/5rrtDWbFizKTZ7GcsHYHh7"
     },
     {
       "added_at": "2023-05-12 04:00:00",
@@ -719,46 +719,6 @@
       "duration_ms": 182201,
       "name": "Flowers (feat. MAVI)",
       "url": "https://open.spotify.com/track/2e8OPXNNk9onHe4pknBZhD"
-    },
-    {
-      "added_at": "2023-05-12 04:00:00",
-      "album": {
-        "name": "Slipping Into Darkness",
-        "url": "https://open.spotify.com/album/05HfppEroQ2s6h4CkBbr6N"
-      },
-      "artists": [
-        {
-          "name": "Hit-Boy",
-          "url": "https://open.spotify.com/artist/6q3p11nP1p80Ey6LrOOSed"
-        },
-        {
-          "name": "The Alchemist",
-          "url": "https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu"
-        }
-      ],
-      "duration_ms": 256926,
-      "name": "Slipping Into Darkness",
-      "url": "https://open.spotify.com/track/7oTTYjFN9TksJwsj55r2hb"
-    },
-    {
-      "added_at": "2023-05-12 04:00:00",
-      "album": {
-        "name": "Wake Up (feat. Lucy Rose)",
-        "url": "https://open.spotify.com/album/15lStGFq624eLO5FMmLp2j"
-      },
-      "artists": [
-        {
-          "name": "Logic",
-          "url": "https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L"
-        },
-        {
-          "name": "Lucy Rose",
-          "url": "https://open.spotify.com/artist/2uvY5pgdD9t1CZ5zMNw1rl"
-        }
-      ],
-      "duration_ms": 178181,
-      "name": "Wake Up (feat. Lucy Rose)",
-      "url": "https://open.spotify.com/track/1wea451SlpJfqRy4YVK867"
     },
     {
       "added_at": "2023-05-12 04:00:00",
@@ -787,22 +747,22 @@
     {
       "added_at": "2023-05-12 04:00:00",
       "album": {
-        "name": "pg baby (Remix)",
-        "url": "https://open.spotify.com/album/34GpzNXTbGfHWsCJ3vfa0R"
+        "name": "Wake Up (feat. Lucy Rose)",
+        "url": "https://open.spotify.com/album/15lStGFq624eLO5FMmLp2j"
       },
       "artists": [
         {
-          "name": "redveil",
-          "url": "https://open.spotify.com/artist/5BwsX8bXOFC1YnqSlyfOKM"
+          "name": "Logic",
+          "url": "https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L"
         },
         {
-          "name": "Denzel Curry",
-          "url": "https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV"
+          "name": "Lucy Rose",
+          "url": "https://open.spotify.com/artist/2uvY5pgdD9t1CZ5zMNw1rl"
         }
       ],
-      "duration_ms": 249675,
-      "name": "pg baby - Remix",
-      "url": "https://open.spotify.com/track/4PHAHCAJJx997egFWiqx0P"
+      "duration_ms": 178181,
+      "name": "Wake Up (feat. Lucy Rose)",
+      "url": "https://open.spotify.com/track/1wea451SlpJfqRy4YVK867"
     },
     {
       "added_at": "2023-05-12 04:00:00",
@@ -823,6 +783,46 @@
       "duration_ms": 173647,
       "name": "Soft Landing",
       "url": "https://open.spotify.com/track/0TFzKqmZl7HjklWP0KWqXt"
+    },
+    {
+      "added_at": "2023-05-12 04:00:00",
+      "album": {
+        "name": "Slipping Into Darkness",
+        "url": "https://open.spotify.com/album/05HfppEroQ2s6h4CkBbr6N"
+      },
+      "artists": [
+        {
+          "name": "Hit-Boy",
+          "url": "https://open.spotify.com/artist/6q3p11nP1p80Ey6LrOOSed"
+        },
+        {
+          "name": "The Alchemist",
+          "url": "https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu"
+        }
+      ],
+      "duration_ms": 256926,
+      "name": "Slipping Into Darkness",
+      "url": "https://open.spotify.com/track/7oTTYjFN9TksJwsj55r2hb"
+    },
+    {
+      "added_at": "2023-05-12 04:00:00",
+      "album": {
+        "name": "pg baby (Remix)",
+        "url": "https://open.spotify.com/album/34GpzNXTbGfHWsCJ3vfa0R"
+      },
+      "artists": [
+        {
+          "name": "redveil",
+          "url": "https://open.spotify.com/artist/5BwsX8bXOFC1YnqSlyfOKM"
+        },
+        {
+          "name": "Denzel Curry",
+          "url": "https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV"
+        }
+      ],
+      "duration_ms": 249675,
+      "name": "pg baby - Remix",
+      "url": "https://open.spotify.com/track/4PHAHCAJJx997egFWiqx0P"
     },
     {
       "added_at": "2023-05-12 04:00:00",
@@ -947,26 +947,6 @@
     {
       "added_at": "2023-05-12 04:00:00",
       "album": {
-        "name": "Hip Hop 50: Vol. 2",
-        "url": "https://open.spotify.com/album/2fMYrpzJCtJNhVTBQybhoz"
-      },
-      "artists": [
-        {
-          "name": "Swizz Beatz",
-          "url": "https://open.spotify.com/artist/2cADQgiLMjNhbsfeN52Bf3"
-        },
-        {
-          "name": "Nas",
-          "url": "https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q"
-        }
-      ],
-      "duration_ms": 180340,
-      "name": "Runaway (feat. Nas)",
-      "url": "https://open.spotify.com/track/2DiX9oeghV7lv1mxnRnO6L"
-    },
-    {
-      "added_at": "2023-05-12 04:00:00",
-      "album": {
         "name": "$oul $old $eparately",
         "url": "https://open.spotify.com/album/3PZx4Vntcp5T7UgdfjnFDa"
       },
@@ -983,6 +963,26 @@
       "duration_ms": 222776,
       "name": "Gold Rings (feat. Pusha T)",
       "url": "https://open.spotify.com/track/2L5FjwGluXOyaeqn775Va0"
+    },
+    {
+      "added_at": "2023-05-12 04:00:00",
+      "album": {
+        "name": "Hip Hop 50: Vol. 2",
+        "url": "https://open.spotify.com/album/2fMYrpzJCtJNhVTBQybhoz"
+      },
+      "artists": [
+        {
+          "name": "Swizz Beatz",
+          "url": "https://open.spotify.com/artist/2cADQgiLMjNhbsfeN52Bf3"
+        },
+        {
+          "name": "Nas",
+          "url": "https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q"
+        }
+      ],
+      "duration_ms": 180340,
+      "name": "Runaway (feat. Nas)",
+      "url": "https://open.spotify.com/track/2DiX9oeghV7lv1mxnRnO6L"
     }
   ],
   "unique_name": "Spilled Ink",

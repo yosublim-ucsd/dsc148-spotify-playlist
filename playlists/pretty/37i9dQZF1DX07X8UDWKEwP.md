@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07X8UDWKEwP.md) - [plain]
 
 > Lo nuevo del mundo tropical\. Cover: Denise Rosenthal
 
-[Spotify](https://open.spotify.com/user/spotify) - 252,005 likes - 50 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 252,093 likes - 50 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07X8UDWKEwP.md) - [plain]
 | 21 | [Copacabana \- Remix](https://open.spotify.com/track/5QNPsYAr31UzNJ0NlsYPVQ) | [ECKO](https://open.spotify.com/artist/2Jb9jVnCpWkXtoGznFJ6bF), [La T y La M](https://open.spotify.com/artist/1FxPMQ9A0882eNDx3ZkD6B) | [Copacabana \(Remix\)](https://open.spotify.com/album/3FBdw6cz2xafwzvukIVtuy) | 2:33 |
 | 22 | [AMNESIA](https://open.spotify.com/track/6KjbyUdtrLdlBJx6883aO0) | [Ingratax](https://open.spotify.com/artist/62YF0FglEltB3CnVIjoko8) | [KITSUNE](https://open.spotify.com/album/3XAOgyv86vI7q0vVnDeOY8) | 2:49 |
 | 23 | [El camino](https://open.spotify.com/track/6x5gl9msgjsqub1hy7Iq3k) | [DELLAFUENTE](https://open.spotify.com/artist/4bJh7sMPcVRiqe5jlnsWQV), [Ralphie Choo](https://open.spotify.com/artist/5qjnPRE33rMgYAxIjGUrI7), [rusowsky](https://open.spotify.com/artist/1XEVu7gdRFfzEFqsPrancH) | [Lágrimas pa otro día](https://open.spotify.com/album/3cPRpK8yUQV5T6QTt7XGfp) | 2:16 |
-| 24 | [Herrera](https://open.spotify.com/track/6iYurd8rUYCoQTAi1V9XUn) | [YEИDRY](https://open.spotify.com/artist/3Lk9AWrpD4bminO5LwmBOw) | [Herrera](https://open.spotify.com/album/2doRgShYH9yjuDKMi050AL) | 2:37 |
-| 25 | [El Que Ama Sufre](https://open.spotify.com/track/0FLKPJQtOzb0Xw1qKWXuzm) | [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6) | [Contigo](https://open.spotify.com/album/3j09eak04YqZqOY1md4lp2) | 2:49 |
+| 24 | [El Que Ama Sufre](https://open.spotify.com/track/0FLKPJQtOzb0Xw1qKWXuzm) | [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6) | [Contigo](https://open.spotify.com/album/3j09eak04YqZqOY1md4lp2) | 2:49 |
+| 25 | [Herrera](https://open.spotify.com/track/6iYurd8rUYCoQTAi1V9XUn) | [YEИDRY](https://open.spotify.com/artist/3Lk9AWrpD4bminO5LwmBOw) | [Herrera](https://open.spotify.com/album/2doRgShYH9yjuDKMi050AL) | 2:37 |
 | 26 | [Lotería](https://open.spotify.com/track/0R5yCZ5xBbZV0nyPO9qM9d) | [Luis Vazquez](https://open.spotify.com/artist/00zeZxu1UPkn8DKqNxgnyw), [Rafa Pabön](https://open.spotify.com/artist/11YLRSsZA3YVuQQtHXKTlz) | [Lotería](https://open.spotify.com/album/7qjUgwcrdAbhAjF5gYAyn4) | 4:10 |
 | 27 | [Noche Primavera](https://open.spotify.com/track/2k27NZDlbYUf2Dfh7C2CQg) | [Manú](https://open.spotify.com/artist/3iyr6xJPyHx8ptqqzMHDVE), [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7), [Andrés Cepeda](https://open.spotify.com/artist/49Z1AvGeUaBSanPaOmplK6) | [Noche Primavera](https://open.spotify.com/album/6lI8JL80iNP4A8qzlGNqTG) | 3:19 |
 | 28 | [Romántica Champeta](https://open.spotify.com/track/3G6dSSbZvaBUVgXcvmXjKF) | [Bomba Estéreo](https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2), [Kevin Florez](https://open.spotify.com/artist/01RWu7yf1vE3eZvtxcRxkf), [The Busy Twist](https://open.spotify.com/artist/0jPcvO2Jz1kkvANItu53jI) | [Romántica Champeta](https://open.spotify.com/album/1eEgcFThThSorfmePy4VvO) | 3:22 |
@@ -45,10 +45,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07X8UDWKEwP.md) - [plain]
 | 35 | [Regrésame Mi Corazón](https://open.spotify.com/track/0d2qta4WaYv5x7idIIVxPq) | [Moa Rivera](https://open.spotify.com/artist/3SVGxBlWR0Cnamj9e2Ybmz) | [Regrésame Mi Corazón](https://open.spotify.com/album/2Qi49Wydfvou0IAwsx9RPy) | 4:30 |
 | 36 | [La Historia \- Escalona Nunca Se Había Grabado Así](https://open.spotify.com/track/7gzuhDzLBcR0O1QXskLAdt) | [Carlos Vives](https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr) | [La Historia \(Escalona Nunca Se Había Grabado Así\)](https://open.spotify.com/album/2wcgOo4KxX9mWenJ4PeuUu) | 4:31 |
 | 37 | [Sin Tu Amor](https://open.spotify.com/track/3fWAe3mBB6PfCMGocEiwbl) | [Johnny Sky](https://open.spotify.com/artist/3EVZsBWq5KqdtS6eVNHN8d) | [Sin Tu Amor](https://open.spotify.com/album/6yjjKUSBZeIOfJCuSHmPla) | 2:41 |
-| 38 | [Soltemos al Mundo](https://open.spotify.com/track/66irfMtLkQh7H2F5zLclp8) | [Daniel Santacruz](https://open.spotify.com/artist/4tLUnrSgMM7tT0zVs3wX61), [Olga Tañón](https://open.spotify.com/artist/4pv1Jo4PbYI8LMADJoTWjE) | [Soltemos al Mundo](https://open.spotify.com/album/70dAQDFwSbXPOWWYyEjagm) | 3:33 |
+| 38 | [No Pasa De Moda](https://open.spotify.com/track/2yAU2njV0eS9iVJKf22Eoc) | [Gabriel Pagan](https://open.spotify.com/artist/3InfS9TeNQro4bp9EWtuyP) | [No Pasa De Moda](https://open.spotify.com/album/48vQQD0fnP8eE3EPYai0qm) | 2:47 |
 | 39 | [Mi Otra Mitad](https://open.spotify.com/track/0xCANaLk8F91mIUdOm3ljG) | [Raymix](https://open.spotify.com/artist/0hHT2BH7XTm3ZdZb6CX064) | [Mi Otra Mitad](https://open.spotify.com/album/0gtkL0OqqDGkXlqqDDk2JM) | 4:14 |
-| 40 | [Desnúdate](https://open.spotify.com/track/3lAPRVmezONEzjHgzOvh5m) | [Zion & Lennox](https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1) | [Desnúdate](https://open.spotify.com/album/5uLpJ330k49clXLzxyhHrf) | 3:51 |
-| 41 | [No Pasa De Moda](https://open.spotify.com/track/2yAU2njV0eS9iVJKf22Eoc) | [Gabriel Pagan](https://open.spotify.com/artist/3InfS9TeNQro4bp9EWtuyP) | [No Pasa De Moda](https://open.spotify.com/album/48vQQD0fnP8eE3EPYai0qm) | 2:47 |
+| 40 | [Soltemos al Mundo](https://open.spotify.com/track/66irfMtLkQh7H2F5zLclp8) | [Daniel Santacruz](https://open.spotify.com/artist/4tLUnrSgMM7tT0zVs3wX61), [Olga Tañón](https://open.spotify.com/artist/4pv1Jo4PbYI8LMADJoTWjE) | [Soltemos al Mundo](https://open.spotify.com/album/70dAQDFwSbXPOWWYyEjagm) | 3:33 |
+| 41 | [Desnúdate](https://open.spotify.com/track/3lAPRVmezONEzjHgzOvh5m) | [Zion & Lennox](https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1) | [Desnúdate](https://open.spotify.com/album/5uLpJ330k49clXLzxyhHrf) | 3:51 |
 | 42 | [La Luz](https://open.spotify.com/track/1nW7z9bBdVApMNrgvrqYMF) | [Luis Figueroa](https://open.spotify.com/artist/7waNCUQ1Ne7OoNHgqpgMZ7) | [La Luz](https://open.spotify.com/album/0BCkK4DlEhdJtoYNzWLMb0) | 3:05 |
 | 43 | [La Vida Da Vuelta](https://open.spotify.com/track/2sJkbRybtcw6nq9sN4fpad) | [Olga Tañón](https://open.spotify.com/artist/4pv1Jo4PbYI8LMADJoTWjE) | [La Vida Da Vuelta](https://open.spotify.com/album/1U5Ulw5MM2Qv5BafWrF4h1) | 2:42 |
 | 44 | [Fronteo](https://open.spotify.com/track/3OUAwkS8ZabaD8k8gSG7YP) | [Pinto Picasso](https://open.spotify.com/artist/40DtWCtcmCd6GH8vKrDaJs), [sP Polanco](https://open.spotify.com/artist/3ZK68DhfWiJTIUZySAywPS) | [Fronteo](https://open.spotify.com/album/2P3hVbpOt0li6W0rolPeZC) | 2:32 |
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07X8UDWKEwP.md) - [plain]
 | 47 | [Narices Frías](https://open.spotify.com/track/5SqOzL7GvRCJWTBmY7Kvvz) | [Juliana](https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY) | [Narices Frías](https://open.spotify.com/album/6y3zWGWXhoSPtMWC7b3C7Q) | 5:03 |
 | 48 | [Caprichito](https://open.spotify.com/track/1NzUt0zLVo47HzFXymc53v) | [Dani J](https://open.spotify.com/artist/3TEhIeweC59okLmqFu6LWv) | [Caprichito](https://open.spotify.com/album/0sI8xJ3Um4Bx7YECYOXNpH) | 3:46 |
 | 49 | [Volver a Casa](https://open.spotify.com/track/7DgLzDFLp5GcsYuZWJSmNL) | [Tito Nieves](https://open.spotify.com/artist/4vOycwLXdkMMzpZW04VW5m) | [Volver a Casa](https://open.spotify.com/album/60bE7gawbgeAnOsbeCAMaX) | 3:44 |
-| 50 | [Mala Suerte \(Escalona Nunca Se Había Grabado Así\)](https://open.spotify.com/track/0IqUC1k9LmVfQ6KIftfW0D) | [Carlos Vives](https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr) | [Mala Suerte \(Escalona Nunca Se Había Grabado Así\)](https://open.spotify.com/album/4bJWAafvax13jJC0XiOcPe) | 3:33 |
+| 50 | [Corazón Roto](https://open.spotify.com/track/64NCHXiLhpgX0n9bgAnAaE) | [Leoni Torres](https://open.spotify.com/artist/1XXUv8GRyRqOXVuDwB5QaS) | [Corazón Roto](https://open.spotify.com/album/4tf4JOp2NMGrOFTje7rg2A) | 3:28 |
 
-Snapshot ID: `MCxiMTBlMmMzN2VkM2FlZmUzOGFjZTYwNGIwMWJhY2ViNTgxYjdjZGQ1`
+Snapshot ID: `MCwyZTBlMDliOWUyYmFkZjRkZGJiM2Y1MTk1ZDdhNWUwOGI5YjkxZjJj`

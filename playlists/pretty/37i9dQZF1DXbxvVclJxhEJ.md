@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbxvVclJxhEJ.md) - [plain]
 
 > Iconic women from the history of the Blues\. Cover: Bessie Smith
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,360 likes - 75 songs - 3 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,398 likes - 75 songs - 3 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,16 +33,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbxvVclJxhEJ.md) - [plain]
 | 23 | [Gimme a Pigfoot \- Mono](https://open.spotify.com/track/0xhxIYLDAAKjaLN6X012bc) | [LaVern Baker](https://open.spotify.com/artist/0V6zo2mJw9FdwWLClKC9yw) | [Sings Bessie Smith](https://open.spotify.com/album/2Em2NnnKeKydoEMzlcSHr4) | 3:07 |
 | 24 | [I Want To Know](https://open.spotify.com/track/47pZYMmD7HBV6WWI5qK6zb) | [Sugar Pie DeSanto](https://open.spotify.com/artist/3xIkJAnwLy7NwZpPwvaSPc) | [In The Basement: The Chess Recordings](https://open.spotify.com/album/0LH0ZJuhr4TJMWud6K6qdy) | 3:00 |
 | 25 | [Little Red Rooster](https://open.spotify.com/track/0zIJi6fLCA0e11rBZ20Z2X) | [Big Mama Thornton](https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO) | [Ball n' Chain](https://open.spotify.com/album/6U60FpmscwzTJjc9gmZcKl) | 4:28 |
-| 26 | [My Daddy Rocks Me](https://open.spotify.com/track/4cputOB2WH8qeKRVafoopX) | [Trixie Smith](https://open.spotify.com/artist/2PZOCtYZ3hDMpMVN8yIHc9) | [Trixie Smith Vol\. 2 1925\-1929](https://open.spotify.com/album/2qHLqftCshlkkR8ydCXPGI) | 2:54 |
-| 27 | [Summertime](https://open.spotify.com/track/5HH7KwGKmtfpnkdgdRiapw) | [Billie Holiday](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp) | [The Essential Billie Holiday](https://open.spotify.com/album/43CdmtAd6dQuMvBdHJ8F6x) | 2:53 |
+| 26 | [Summertime](https://open.spotify.com/track/5HH7KwGKmtfpnkdgdRiapw) | [Billie Holiday](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp) | [The Essential Billie Holiday](https://open.spotify.com/album/43CdmtAd6dQuMvBdHJ8F6x) | 2:53 |
+| 27 | [My Daddy Rocks Me](https://open.spotify.com/track/4cputOB2WH8qeKRVafoopX) | [Trixie Smith](https://open.spotify.com/artist/2PZOCtYZ3hDMpMVN8yIHc9) | [Trixie Smith Vol\. 2 1925\-1929](https://open.spotify.com/album/2qHLqftCshlkkR8ydCXPGI) | 2:54 |
 | 28 | [Rock The Bop](https://open.spotify.com/track/7h1AT1bKAy5dX2Nj8itIcA) | [Brenda Lee](https://open.spotify.com/artist/4cPHsZM98sKzmV26wlwD2W) | [Love You!](https://open.spotify.com/album/3eI35uCed555J4UWJwGKUp) | 2:13 |
 | 29 | [Didn't It Rain](https://open.spotify.com/track/41UXxCtdRFYQMVbMi40Fi8) | [Mahalia Jackson](https://open.spotify.com/artist/6QBUIuGCAJSAtefEY1EEdB) | [Gospels, Spirituals, & Hymns](https://open.spotify.com/album/3HLro5JgcU0df3rnJ4FXlV) | 2:38 |
-| 30 | [Evil Gal Blues](https://open.spotify.com/track/32Rewuvfprf0VC5PX3ax3P) | [Dinah Washington](https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa) | [The Best In Blues](https://open.spotify.com/album/0IzjqAWaM8TMApaEsHK3ap) | 2:54 |
-| 31 | [Sloppy Drunk Blues](https://open.spotify.com/track/5EFrtsQf7xh2Tdjlp1nYgx) | [Lucille Bogan](https://open.spotify.com/artist/2cDKW2JF97WZ5ruG9Obfdf) | [Barrelhouse Mamas: Born In The Alley, Raised Up In The Slum](https://open.spotify.com/album/1jQF6oxXe5QodlJwRfwOV3) | 3:15 |
+| 30 | [Sloppy Drunk Blues](https://open.spotify.com/track/5EFrtsQf7xh2Tdjlp1nYgx) | [Lucille Bogan](https://open.spotify.com/artist/2cDKW2JF97WZ5ruG9Obfdf) | [Barrelhouse Mamas: Born In The Alley, Raised Up In The Slum](https://open.spotify.com/album/1jQF6oxXe5QodlJwRfwOV3) | 3:15 |
+| 31 | [Evil Gal Blues](https://open.spotify.com/track/32Rewuvfprf0VC5PX3ax3P) | [Dinah Washington](https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa) | [The Best In Blues](https://open.spotify.com/album/0IzjqAWaM8TMApaEsHK3ap) | 2:54 |
 | 32 | [When The Levee Breaks](https://open.spotify.com/track/4xBdBFqfdZAeCRLmQpXTYb) | [Memphis Minnie & Kansas Joe](https://open.spotify.com/artist/2Dp1cq7ozeGAHEPlFVDksl) | [Queen Of The Blues](https://open.spotify.com/album/6DgLR9u6il9EhtkKEx4AiY) | 3:08 |
 | 33 | [A Little Bird Told Me](https://open.spotify.com/track/3Glgih28u8fdw7cac5Kv2j) | [Blue Lu Barker](https://open.spotify.com/artist/3VkdiA1x4W2ISeJPWHswtQ) | [Capitol Records From The Vaults: "Vine Street Divas"](https://open.spotify.com/album/5zgbJkwtiJlKxBRkuRzIrw) | 2:14 |
-| 34 | [I'm Feeling Alright](https://open.spotify.com/track/2oBuD0bsCutoNh1gbVuBPn) | [Big Mama Thornton](https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO) | [Ball n' Chain](https://open.spotify.com/album/6U60FpmscwzTJjc9gmZcKl) | 3:00 |
-| 35 | [Billie's Blues](https://open.spotify.com/track/0ABtCIHJudiNuykVHk0eug) | [Billie Holiday](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp) | [The Definitive Collection](https://open.spotify.com/album/08dcy2id7A5FGQXzBoG4cC) | 3:07 |
+| 34 | [Billie's Blues](https://open.spotify.com/track/0ABtCIHJudiNuykVHk0eug) | [Billie Holiday](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp) | [The Definitive Collection](https://open.spotify.com/album/08dcy2id7A5FGQXzBoG4cC) | 3:07 |
+| 35 | [I'm Feeling Alright](https://open.spotify.com/track/2oBuD0bsCutoNh1gbVuBPn) | [Big Mama Thornton](https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO) | [Ball n' Chain](https://open.spotify.com/album/6U60FpmscwzTJjc9gmZcKl) | 3:00 |
 | 36 | [B.D\. Woman's Blues](https://open.spotify.com/track/4xDfDNIn7RW19nZJQsTcp3) | [Lucille Bogan](https://open.spotify.com/artist/2cDKW2JF97WZ5ruG9Obfdf) | [Shave 'Em Dry: The Best Of Lucille Bogan](https://open.spotify.com/album/6lt3PCrLIoE3ozSlq9QuMw) | 2:57 |
 | 37 | [I Used to Be Your Sweet Mama](https://open.spotify.com/track/7EXLOCF4QW35UJrHeyEgIX) | [Bessie Smith](https://open.spotify.com/artist/5ESobCkc6JI4tIMxQttqeg) | [The Complete Recordings, Vol\. 3](https://open.spotify.com/album/7x1eFt9zjyqvhscJu8CcjY) | 2:48 |
 | 38 | [I'm a Mighty Tight Woman](https://open.spotify.com/track/5DFa43O7ulUb7m093PAQH9) | [Sippie Wallace](https://open.spotify.com/artist/1MzNMhcJhkG0pCk2sg3PTR) | [First Time I Met the Blues \(When the Sun Goes Down series\)](https://open.spotify.com/album/1uaBcAlIjRVuNcsx1zLayL) | 2:50 |
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbxvVclJxhEJ.md) - [plain]
 | 55 | [Rock Me \- Remastered](https://open.spotify.com/track/7kjSEttzgU84VTgh6zI9s0) | [Sister Rosetta Tharpe](https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7) | [Anthology: The Deluxe Collection \(Remastered\)](https://open.spotify.com/album/29YtW2554LjHMRYR8ZPTQp) | 2:36 |
 | 56 | [I'm Getting 'Long Alright](https://open.spotify.com/track/7xhxXOiHwzKEcwQuTQgD9P) | [Big Maybelle](https://open.spotify.com/artist/7yJXicqUOMPY5Iofua29C0) | [The Complete Okeh Sessions 1952\-1955](https://open.spotify.com/album/4ENn66pgc12XTse3zDQAxZ) | 3:34 |
 | 57 | [Honey Dripper Blues](https://open.spotify.com/track/1Os8Vy3lPy5jV1pvbWhVb1) | [Hattie North & Roosevelt Sykes](https://open.spotify.com/artist/7sD5sKsFCqEVKUIluXkIpx) | [Those Dirty Blues, Vol\. 2](https://open.spotify.com/album/0zDMxkrHTiWACsChYUqCNl) | 3:25 |
-| 58 | [Every Night \(a.k.a\. Baby Baby Every Night\)](https://open.spotify.com/track/1IGDi02X5YvVMuY9NSynH5) | [Etta James](https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb) | [Heart & Soul: A Retrospective](https://open.spotify.com/album/6s1DWmUCmFjzD09SRdnfVH) | 2:22 |
-| 59 | [Boogie'n My Woogie](https://open.spotify.com/track/2Psc3t5okX2ss8oUDi3lZl) | [Gladys Bentley](https://open.spotify.com/artist/5byQk5bPDb10356SOJJeU9) | [Boogie Woogie Gals](https://open.spotify.com/album/0MIfIVZV7t0zPMaSiiJnQJ) | 2:35 |
+| 58 | [Boogie'n My Woogie](https://open.spotify.com/track/2Psc3t5okX2ss8oUDi3lZl) | [Gladys Bentley](https://open.spotify.com/artist/5byQk5bPDb10356SOJJeU9) | [Boogie Woogie Gals](https://open.spotify.com/album/0MIfIVZV7t0zPMaSiiJnQJ) | 2:35 |
+| 59 | [Every Night \(a.k.a\. Baby Baby Every Night\)](https://open.spotify.com/track/1IGDi02X5YvVMuY9NSynH5) | [Etta James](https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb) | [Heart & Soul: A Retrospective](https://open.spotify.com/album/6s1DWmUCmFjzD09SRdnfVH) | 2:22 |
 | 60 | [Crazy Blues \(Alternate Take\)](https://open.spotify.com/track/1ligDVAloDQL9v7vQzGN6p) | [Mamie Smith](https://open.spotify.com/artist/2HS2wQTJXpA65XWOKlAVxk) | [Presenting Mamie Smith](https://open.spotify.com/album/5uHc3ZtdzPgRH4Jea9Yo7F) | 3:24 |
 | 61 | [Don't Worry 'Bout Strangers](https://open.spotify.com/track/1ZgAzwDAC6AtgA4CbztYir) | [Mildred Bailey](https://open.spotify.com/artist/0LyTHMstvqKiSoqdnnjqix) | [Sings..\. Me And The Blues](https://open.spotify.com/album/5vc8CnGTsboRWY5ckBUt7u) | 3:00 |
 | 62 | [Evil Mama Blues](https://open.spotify.com/track/22ytr8Lkn7HH7DDSIt80Ee) | [Ada Brown](https://open.spotify.com/artist/5GiCHhSywK8JwLeR149WAI) | [Territory Singers Vol\. 1 \(1922\-1928\)](https://open.spotify.com/album/3LupTSTBpB0MDBKDgCbyae) | 3:04 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbxvVclJxhEJ.md) - [plain]
 | 74 | [Any Woman's Blues](https://open.spotify.com/track/3FJtZTsF3e7gWmaWXjfkvZ) | [Bessie Smith](https://open.spotify.com/artist/5ESobCkc6JI4tIMxQttqeg) | [The Complete Recordings, Vol\. 1](https://open.spotify.com/album/3A3NisOqKWuird6mnMtPU7) | 3:25 |
 | 75 | [Jack I'm Mellow \(Alternate Take 2\)](https://open.spotify.com/track/5d72jeEFlnQLM8crLgRPX3) | [Trixie Smith](https://open.spotify.com/artist/2PZOCtYZ3hDMpMVN8yIHc9) | [Presenting Trixie Smith](https://open.spotify.com/album/0PA8ZMSJS3KJuwaogi90lu) | 2:45 |
 
-Snapshot ID: `MCwzMTNhMDIyZTg1YzQ1MmEzMDM0MTAwYmM5NWUxZDM5NGJmNGViYzVi`
+Snapshot ID: `MCxkNjhjNjc2ZjZjMjkwNjc5N2VjZDdjODE5NzIzYWZmNWQ4ZTFkZTY5`

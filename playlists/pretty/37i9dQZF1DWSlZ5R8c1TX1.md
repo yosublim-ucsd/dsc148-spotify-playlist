@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSlZ5R8c1TX1.md) - [plain]
 
 > This Is Roddy Ricch\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 248,567 likes - 50 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 248,663 likes - 50 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSlZ5R8c1TX1.md) - [plain]
 | 49 | [Feed Tha Streets 2 \(Intro\)](https://open.spotify.com/track/3kgQ1kJC1WkuYVJuNJHPGA) | [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB) | [Feed Tha Streets II](https://open.spotify.com/album/1jlIU9p7PChTK3AeqNpnsX) | 2:49 |
 | 50 | [bibi's interlude](https://open.spotify.com/track/6d2Z6mJZE9KJaa8iZRJIG1) | [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB) | [LIVE LIFE FAST](https://open.spotify.com/album/1eVrpJbHRLBbioB9sb5b94) | 0:50 |
 
-Snapshot ID: `MCwwZDJiOTJhZjI5MDRlYTU2MTliZjAxNTMxYTkxMzczNjI4NWEwMTJh`
+Snapshot ID: `MCw4MDU2ZTk3MTU0MDFiM2FkMmExNTFmYjE1NDgzZTBjN2ZkZTE4NWFh`

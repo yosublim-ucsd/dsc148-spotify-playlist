@@ -4,7 +4,7 @@
 
 > A relaxing atmosphere of Jazz piano sounds.
 
-407 songs - 1 day 2 hr 42 min
+408 songs - 1 day 2 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -197,7 +197,7 @@
 | [I’m Sentimental, After All](https://open.spotify.com/track/529n27BE2TPAhHMHfmlE2B) | [The Headliner Trio](https://open.spotify.com/artist/79XAL1YXeOMQ2ksDQjvFa7) | [I’m Sentimental, After All](https://open.spotify.com/album/7j9lWOy0juahXQyS0k8ELB) | 2:28 | 2021-10-01 | 2023-05-04 |
 | [Jazzanooga](https://open.spotify.com/track/3itQmY3qDISKklo9IYsVsq) | [Chattanooga Trio](https://open.spotify.com/artist/3ZXld6SkmayTEPuJygbwy6) | [Jazzanooga](https://open.spotify.com/album/61nhEXYkNaUn6wgJQzNJeO) | 2:47 | 2020-12-02 | 2022-11-27 |
 | [je vivrai sans toi](https://open.spotify.com/track/1U7yoZQ8k0wFyyp43HU4Nf) | [Carla Moses](https://open.spotify.com/artist/1j2urkthF3dcGi8RVFlyuI) | [I Will Say Goodbye](https://open.spotify.com/album/7FLkgY12vVuv2fjVisxn7f) | 2:18 | 2020-10-20\* | 2022-09-26 |
-| [Johnny Come Lately](https://open.spotify.com/track/7g1qq3AN0siIENRddNSloR) | [John B\. Stewart](https://open.spotify.com/artist/0hdiMvtIodxDuDN6Wq9Ibe) | [Johnny Come Lately](https://open.spotify.com/album/0zr4z6oCxAOyJ64x1iBuvi) | 2:55 | 2022-02-15 |  |
+| [Johnny Come Lately](https://open.spotify.com/track/7g1qq3AN0siIENRddNSloR) | [John B\. Stewart](https://open.spotify.com/artist/0hdiMvtIodxDuDN6Wq9Ibe) | [Johnny Come Lately](https://open.spotify.com/album/0zr4z6oCxAOyJ64x1iBuvi) | 2:55 | 2022-02-15 | 2023-05-19 |
 | [Journeying](https://open.spotify.com/track/0rxrNlowteTww0qD51gmJC) | [The Don Mason Trio](https://open.spotify.com/artist/0lKn6bgPn1MwQE2L2OGjUf) | [Journeying](https://open.spotify.com/album/3P9JiFggKtxEEdi9l67JRp) | 3:51 | 2023-04-20 |  |
 | [Just A Piece of My Heart](https://open.spotify.com/track/2XYa5MJShUKZ8wjnrVa2z6) | [6th Street Jazz](https://open.spotify.com/artist/1EQvOf7PPTDB3s0q1y9eD1) | [Romeo's Mood](https://open.spotify.com/album/2KVvscZOAVN4PwSo76HyjI) | 2:53 | 2022-10-07 | 2023-01-20 |
 | [Just For Tonight](https://open.spotify.com/track/1vwtIkZtFqmekoyuHH5jxO) | [CMC 3](https://open.spotify.com/artist/6GtEW3IyxraJqKi2h86JqC) | [Just For Tonight](https://open.spotify.com/album/2Rnh8BfeFA5RkUdiHyP3MH) | 2:44 | 2023-03-23 |  |
@@ -295,6 +295,7 @@
 | [Send In the Clowns](https://open.spotify.com/track/6GiLNoFv4qkFEuqKpRWPgI) | [Michael Soriano Trio](https://open.spotify.com/artist/5vKwY2dJOzJUHjAZnL1D9F) | [Ain't Misbehavin'](https://open.spotify.com/album/5HcHDFMug9VdhA1bYXQiXe) | 3:26 | 2020-11-18 | 2020-12-09 |
 | [September in the Rain](https://open.spotify.com/track/7u21y9GiZwaBvqtOeNqh3t) | [Francesca Marr](https://open.spotify.com/artist/1eq350rdehuYyP5bQCAoEd) | [Peace](https://open.spotify.com/album/6KUjUDDb3AEXXFPeXyzy6b) | 3:22 | 2020-10-20\* | 2021-01-21 |
 | [September Song](https://open.spotify.com/track/5K9W2clr01zZZVu80avRLA) | [Meadow Park](https://open.spotify.com/artist/3xgSoGgPQpQvOK5XOyoOAm) | [September Song](https://open.spotify.com/album/2FSt6Jj7xms6x5g0gwA77K) | 4:21 | 2022-04-11 | 2023-03-18 |
+| [Silent Streets](https://open.spotify.com/track/0FrtYU16g7KDBnG9F5tCHe) | [Tannenbaum Trio](https://open.spotify.com/artist/5o0nK5sGCqA1E4MTOCgpSn) | [Silent Streets](https://open.spotify.com/album/1vQAltisCxDsgosm4JeRjf) | 3:15 | 2023-05-11 |  |
 | [Silky Smooth](https://open.spotify.com/track/71m0kBDhVhtjFcBCJLFTKc) | [Eira Eld](https://open.spotify.com/artist/1Ry53E1vatWPQYpL9DXlQn) | [Silky Smooth](https://open.spotify.com/album/1yvVjaJnkvezldKwO31Y5C) | 2:44 | 2023-04-20 |  |
 | [Skating](https://open.spotify.com/track/21kViWinMdNo8mcWLuqTk3) | [We Three Trio](https://open.spotify.com/artist/1T5DJ6QCdj86XsYXSCF5kj) | [Skating](https://open.spotify.com/album/2TQ3EtEnMcVqwItpCMsYOY) | 3:17 | 2020-10-20\* | 2021-01-21 |
 | [Skylark](https://open.spotify.com/track/3ilMz69okJyTAY82LklywC) | [Ron Fields](https://open.spotify.com/artist/1x5zKG8Bhm8RW3LuKUMcRF) | [When I Fall In Love](https://open.spotify.com/album/7x9nV3lH3nuUo9r1h3pt8N) | 3:36 | 2020-10-20\* | 2022-04-12 |

@@ -1,12 +1,12 @@
 {
   "description": "Estas damas s\u00ed que tienen car\u00e1cter. Yuridia en portada.",
-  "num_followers": 111795,
+  "num_followers": 111906,
   "original_name": "Reinas del Mariachi",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0Zjc0NzJlNWY2NTQ5YmYxOTcwN2IwMWM5N2I3MDgxNTVkZmEwMTJh",
+  "snapshot_id": "MCw2MDE3OTBiOGVjMGQxNDc5ZTEzNTA2ZWE0ZDZjMjI5NGMxMmEzYzgz",
   "tracks": [
     {
       "added_at": "2023-02-17 06:00:00",
@@ -263,22 +263,6 @@
     {
       "added_at": "2023-02-17 06:00:00",
       "album": {
-        "name": "Mexico Gran Colecci\u00f3n Ranchera: Lola Beltr\u00e1n",
-        "url": "https://open.spotify.com/album/3gLs7v0umUTDKBwdZj2Bgm"
-      },
-      "artists": [
-        {
-          "name": "Lola Beltr\u00e1n",
-          "url": "https://open.spotify.com/artist/0qZlB7IX5lWPhlxsayt31p"
-        }
-      ],
-      "duration_ms": 231418,
-      "name": "Cucurrucucu Paloma",
-      "url": "https://open.spotify.com/track/5WFjPmHYdqguwGXm8SZ2Mg"
-    },
-    {
-      "added_at": "2023-02-17 06:00:00",
-      "album": {
         "name": "La Hija De Nadie",
         "url": "https://open.spotify.com/album/0aOOYEl1uxLRX0x6uX2moJ"
       },
@@ -291,6 +275,22 @@
       "duration_ms": 169413,
       "name": "La Hija de Nadie",
       "url": "https://open.spotify.com/track/1TXIr8k01UXF0v6ckLVMUX"
+    },
+    {
+      "added_at": "2023-02-17 06:00:00",
+      "album": {
+        "name": "Mexico Gran Colecci\u00f3n Ranchera: Lola Beltr\u00e1n",
+        "url": "https://open.spotify.com/album/3gLs7v0umUTDKBwdZj2Bgm"
+      },
+      "artists": [
+        {
+          "name": "Lola Beltr\u00e1n",
+          "url": "https://open.spotify.com/artist/0qZlB7IX5lWPhlxsayt31p"
+        }
+      ],
+      "duration_ms": 231418,
+      "name": "Cucurrucucu Paloma",
+      "url": "https://open.spotify.com/track/5WFjPmHYdqguwGXm8SZ2Mg"
     },
     {
       "added_at": "2023-02-17 06:00:00",
@@ -557,22 +557,6 @@
       "url": "https://open.spotify.com/track/1seKHgwXPVAK9o6bh7IzlF"
     },
     {
-      "added_at": "2023-05-18 01:06:25",
-      "album": {
-        "name": "Te Mereces Un Amor",
-        "url": "https://open.spotify.com/album/13BDfUfLPGTsDVP8Yue8nl"
-      },
-      "artists": [
-        {
-          "name": "Vivir Quintana",
-          "url": "https://open.spotify.com/artist/3Z3OTfxYdBnJKMXFbRjmU2"
-        }
-      ],
-      "duration_ms": 226400,
-      "name": "Te Mereces Un Amor",
-      "url": "https://open.spotify.com/track/4BNzwsumpNIXB3t8boMsdD"
-    },
-    {
       "added_at": "2023-02-17 06:00:00",
       "album": {
         "name": "Alborada Ranchera",
@@ -603,6 +587,22 @@
       "duration_ms": 194066,
       "name": "Volver, Volver",
       "url": "https://open.spotify.com/track/4Hs73YfAFeRmnLondZLt63"
+    },
+    {
+      "added_at": "2023-05-19 01:42:31",
+      "album": {
+        "name": "Te Mereces Un Amor",
+        "url": "https://open.spotify.com/album/13BDfUfLPGTsDVP8Yue8nl"
+      },
+      "artists": [
+        {
+          "name": "Vivir Quintana",
+          "url": "https://open.spotify.com/artist/3Z3OTfxYdBnJKMXFbRjmU2"
+        }
+      ],
+      "duration_ms": 226400,
+      "name": "Te Mereces Un Amor",
+      "url": "https://open.spotify.com/track/4BNzwsumpNIXB3t8boMsdD"
     },
     {
       "added_at": "2023-02-17 06:00:00",
@@ -1259,22 +1259,6 @@
     {
       "added_at": "2023-02-17 06:00:00",
       "album": {
-        "name": "La Gran Colecci\u00f3n del 60 Aniversario CBS - Irma Serrano",
-        "url": "https://open.spotify.com/album/6RpmQdyqrhvwJJD4rIVMXP"
-      },
-      "artists": [
-        {
-          "name": "Irma Serrano",
-          "url": "https://open.spotify.com/artist/7b3e0cQmBGnt2RP2IEYfd6"
-        }
-      ],
-      "duration_ms": 157000,
-      "name": "El Puente Roto - Tema Remasterizado",
-      "url": "https://open.spotify.com/track/6wnDVV9h7318nHps7MVsd1"
-    },
-    {
-      "added_at": "2023-02-17 06:00:00",
-      "album": {
         "name": "Los Exitos De Amalia Mendoza",
         "url": "https://open.spotify.com/album/6nryFiduM55GeJxDc7dzNl"
       },
@@ -1291,18 +1275,18 @@
     {
       "added_at": "2023-02-17 06:00:00",
       "album": {
-        "name": "Lola Beltr\u00e1n en Concierto: 15 Aniversario, En Vivo en el Palacio de Bellas Artes 1976 y en el Teatro Olympia de Paris",
-        "url": "https://open.spotify.com/album/094POuqSlcB4gYOwnw4N9K"
+        "name": "La Gran Colecci\u00f3n del 60 Aniversario CBS - Irma Serrano",
+        "url": "https://open.spotify.com/album/6RpmQdyqrhvwJJD4rIVMXP"
       },
       "artists": [
         {
-          "name": "Lola Beltr\u00e1n",
-          "url": "https://open.spotify.com/artist/0qZlB7IX5lWPhlxsayt31p"
+          "name": "Irma Serrano",
+          "url": "https://open.spotify.com/artist/7b3e0cQmBGnt2RP2IEYfd6"
         }
       ],
-      "duration_ms": 228000,
-      "name": "Cielito Lindo",
-      "url": "https://open.spotify.com/track/7Fg1CbNLNXDflPrr0Byxhx"
+      "duration_ms": 157000,
+      "name": "El Puente Roto - Tema Remasterizado",
+      "url": "https://open.spotify.com/track/6wnDVV9h7318nHps7MVsd1"
     },
     {
       "added_at": "2023-02-17 06:00:00",
@@ -1319,6 +1303,22 @@
       "duration_ms": 233879,
       "name": "Uno Y Uno",
       "url": "https://open.spotify.com/track/0icE6mNTDgKULNLMZuLebj"
+    },
+    {
+      "added_at": "2023-02-17 06:00:00",
+      "album": {
+        "name": "Lola Beltr\u00e1n en Concierto: 15 Aniversario, En Vivo en el Palacio de Bellas Artes 1976 y en el Teatro Olympia de Paris",
+        "url": "https://open.spotify.com/album/094POuqSlcB4gYOwnw4N9K"
+      },
+      "artists": [
+        {
+          "name": "Lola Beltr\u00e1n",
+          "url": "https://open.spotify.com/artist/0qZlB7IX5lWPhlxsayt31p"
+        }
+      ],
+      "duration_ms": 228000,
+      "name": "Cielito Lindo",
+      "url": "https://open.spotify.com/track/7Fg1CbNLNXDflPrr0Byxhx"
     },
     {
       "added_at": "2023-02-17 06:00:00",
@@ -1411,22 +1411,6 @@
     {
       "added_at": "2023-02-17 06:00:00",
       "album": {
-        "name": "Desaf\u00edo De Divas",
-        "url": "https://open.spotify.com/album/0AtvVJ8iAYBi0drA2wqDU2"
-      },
-      "artists": [
-        {
-          "name": "Lucero",
-          "url": "https://open.spotify.com/artist/3SNKhPPfra7g7Crq1QA330"
-        }
-      ],
-      "duration_ms": 197080,
-      "name": "Y Volvere",
-      "url": "https://open.spotify.com/track/0BKQcXaeCmqhGv72P4Fo25"
-    },
-    {
-      "added_at": "2023-02-17 06:00:00",
-      "album": {
         "name": "La Reina de la Canci\u00f3n Mexicana",
         "url": "https://open.spotify.com/album/5Vr2JTbPM5X0OC2k2O3ocd"
       },
@@ -1455,6 +1439,22 @@
       "duration_ms": 176013,
       "name": "Paloma Sin Nido",
       "url": "https://open.spotify.com/track/6u3NpKIbHU7MgFPTIeKGIZ"
+    },
+    {
+      "added_at": "2023-02-17 06:00:00",
+      "album": {
+        "name": "Desaf\u00edo De Divas",
+        "url": "https://open.spotify.com/album/0AtvVJ8iAYBi0drA2wqDU2"
+      },
+      "artists": [
+        {
+          "name": "Lucero",
+          "url": "https://open.spotify.com/artist/3SNKhPPfra7g7Crq1QA330"
+        }
+      ],
+      "duration_ms": 197080,
+      "name": "Y Volvere",
+      "url": "https://open.spotify.com/track/0BKQcXaeCmqhGv72P4Fo25"
     },
     {
       "added_at": "2023-02-17 06:00:00",

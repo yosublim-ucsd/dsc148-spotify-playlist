@@ -1,12 +1,12 @@
 {
   "description": "Canzoni rap per party fino al mattino! Cover: Tony Effe",
-  "num_followers": 79276,
+  "num_followers": 79370,
   "original_name": "Club Rap ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxZTI5MjZhNDI5YWIyMDY3ZTYzY2UyNzI1NGY3OTk1NmQ5Y2VlYjI3",
+  "snapshot_id": "MCw0Y2IxYTA5NGEzZmZhMmU3OTY5YzZmMTk2MWY3NWJmMzUzYmUzYWE0",
   "tracks": [
     {
       "added_at": "2023-04-19 19:49:54",
@@ -103,22 +103,6 @@
     {
       "added_at": "2023-04-19 19:49:54",
       "album": {
-        "name": "FUTURE",
-        "url": "https://open.spotify.com/album/17FBoXK1NU2rvJBbzdzw0r"
-      },
-      "artists": [
-        {
-          "name": "Future",
-          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
-        }
-      ],
-      "duration_ms": 204600,
-      "name": "Mask Off",
-      "url": "https://open.spotify.com/track/0VgkVdmE4gld66l8iyGjgx"
-    },
-    {
-      "added_at": "2023-04-19 19:49:54",
-      "album": {
         "name": "Hollywood's Bleeding",
         "url": "https://open.spotify.com/album/4g1ZRSobMefqF6nelkgibi"
       },
@@ -131,6 +115,22 @@
       "duration_ms": 149546,
       "name": "Wow.",
       "url": "https://open.spotify.com/track/7xQAfvXzm3AkraOtGPWIZg"
+    },
+    {
+      "added_at": "2023-04-19 19:49:54",
+      "album": {
+        "name": "FUTURE",
+        "url": "https://open.spotify.com/album/17FBoXK1NU2rvJBbzdzw0r"
+      },
+      "artists": [
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        }
+      ],
+      "duration_ms": 204600,
+      "name": "Mask Off",
+      "url": "https://open.spotify.com/track/0VgkVdmE4gld66l8iyGjgx"
     },
     {
       "added_at": "2023-04-19 19:49:54",
@@ -231,6 +231,26 @@
     {
       "added_at": "2023-04-19 19:49:54",
       "album": {
+        "name": "Life Is Good (feat. Drake)",
+        "url": "https://open.spotify.com/album/5uCEoLCj3ZZZ1EtzQdQWVl"
+      },
+      "artists": [
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "duration_ms": 237735,
+      "name": "Life Is Good (feat. Drake)",
+      "url": "https://open.spotify.com/track/5yY9lUy8nbvjM1Uyo1Uqoc"
+    },
+    {
+      "added_at": "2023-04-19 19:49:54",
+      "album": {
         "name": "Pel\u00e9",
         "url": "https://open.spotify.com/album/329aNexZnIOYq7GaNHCxSC"
       },
@@ -247,22 +267,6 @@
       "duration_ms": 133858,
       "name": "Pel\u00e9",
       "url": "https://open.spotify.com/track/3UYr4TdhtCthMH9ujhx0BA"
-    },
-    {
-      "added_at": "2023-04-19 19:49:54",
-      "album": {
-        "name": "KIRK",
-        "url": "https://open.spotify.com/album/1NsTSXjVNE7XmZ8PmyW0wl"
-      },
-      "artists": [
-        {
-          "name": "DaBaby",
-          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
-        }
-      ],
-      "duration_ms": 159714,
-      "name": "BOP",
-      "url": "https://open.spotify.com/track/6Ozh9Ok6h4Oi1wUSLtBseN"
     },
     {
       "added_at": "2023-04-19 19:49:54",
@@ -311,22 +315,18 @@
     {
       "added_at": "2023-04-19 19:49:54",
       "album": {
-        "name": "Life Is Good (feat. Drake)",
-        "url": "https://open.spotify.com/album/5uCEoLCj3ZZZ1EtzQdQWVl"
+        "name": "KIRK",
+        "url": "https://open.spotify.com/album/1NsTSXjVNE7XmZ8PmyW0wl"
       },
       "artists": [
         {
-          "name": "Future",
-          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
-        },
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+          "name": "DaBaby",
+          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
         }
       ],
-      "duration_ms": 237735,
-      "name": "Life Is Good (feat. Drake)",
-      "url": "https://open.spotify.com/track/5yY9lUy8nbvjM1Uyo1Uqoc"
+      "duration_ms": 159714,
+      "name": "BOP",
+      "url": "https://open.spotify.com/track/6Ozh9Ok6h4Oi1wUSLtBseN"
     },
     {
       "added_at": "2023-04-19 19:49:54",
@@ -819,30 +819,6 @@
     {
       "added_at": "2023-04-19 19:49:54",
       "album": {
-        "name": "MACHETE MIXTAPE 4",
-        "url": "https://open.spotify.com/album/5OOd2aAkgZJlYRqYlT1Axz"
-      },
-      "artists": [
-        {
-          "name": "MACHETE",
-          "url": "https://open.spotify.com/artist/7Do8se3ZoaVqUt3woqqSrD"
-        },
-        {
-          "name": "Salmo",
-          "url": "https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW"
-        },
-        {
-          "name": "Lazza",
-          "url": "https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM"
-        }
-      ],
-      "duration_ms": 177036,
-      "name": "HO PAURA DI USCIRE 2 - prod. Mace",
-      "url": "https://open.spotify.com/track/0nFCpnM7nistUWXRZpzOWM"
-    },
-    {
-      "added_at": "2023-04-19 19:49:54",
-      "album": {
         "name": "Mr. Fini",
         "url": "https://open.spotify.com/album/5W43G0FSXOgTFCSfnnwxcf"
       },
@@ -863,6 +839,30 @@
       "duration_ms": 201931,
       "name": "Chico (feat. Rose Villain & Luch\u00e8)",
       "url": "https://open.spotify.com/track/3sUzeeqRtfBfJAkk8qb8Pd"
+    },
+    {
+      "added_at": "2023-04-19 19:49:54",
+      "album": {
+        "name": "MACHETE MIXTAPE 4",
+        "url": "https://open.spotify.com/album/5OOd2aAkgZJlYRqYlT1Axz"
+      },
+      "artists": [
+        {
+          "name": "MACHETE",
+          "url": "https://open.spotify.com/artist/7Do8se3ZoaVqUt3woqqSrD"
+        },
+        {
+          "name": "Salmo",
+          "url": "https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW"
+        },
+        {
+          "name": "Lazza",
+          "url": "https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM"
+        }
+      ],
+      "duration_ms": 177036,
+      "name": "HO PAURA DI USCIRE 2 - prod. Mace",
+      "url": "https://open.spotify.com/track/0nFCpnM7nistUWXRZpzOWM"
     },
     {
       "added_at": "2023-04-19 19:49:54",
@@ -1163,22 +1163,18 @@
     {
       "added_at": "2023-04-19 19:49:54",
       "album": {
-        "name": "Adrenalina",
-        "url": "https://open.spotify.com/album/5cXeDgXDMcSMb3tH6EnCaB"
+        "name": "FSK TRAPSHIT REVENGE",
+        "url": "https://open.spotify.com/album/4z4zCeqiEjTTBI0a8Uyl0S"
       },
       "artists": [
         {
-          "name": "Fred De Palma",
-          "url": "https://open.spotify.com/artist/0QrUbsrL5imqntAfDl8i7q"
-        },
-        {
-          "name": "JVLI",
-          "url": "https://open.spotify.com/artist/4rj3KWaLAnuxgtMMkypZhf"
+          "name": "FSK SATELLITE",
+          "url": "https://open.spotify.com/artist/4UikIA2yhd0jVJSXD9IOJH"
         }
       ],
-      "duration_ms": 180000,
-      "name": "Adrenalina",
-      "url": "https://open.spotify.com/track/44r0DNbRcHU8KyM1K2AJ0y"
+      "duration_ms": 148500,
+      "name": "ANSIA NO",
+      "url": "https://open.spotify.com/track/2yuYI5NFhevxa05se7Qht9"
     },
     {
       "added_at": "2023-04-19 19:49:54",
@@ -1207,18 +1203,22 @@
     {
       "added_at": "2023-04-19 19:49:54",
       "album": {
-        "name": "FSK TRAPSHIT REVENGE",
-        "url": "https://open.spotify.com/album/4z4zCeqiEjTTBI0a8Uyl0S"
+        "name": "Adrenalina",
+        "url": "https://open.spotify.com/album/5cXeDgXDMcSMb3tH6EnCaB"
       },
       "artists": [
         {
-          "name": "FSK SATELLITE",
-          "url": "https://open.spotify.com/artist/4UikIA2yhd0jVJSXD9IOJH"
+          "name": "Fred De Palma",
+          "url": "https://open.spotify.com/artist/0QrUbsrL5imqntAfDl8i7q"
+        },
+        {
+          "name": "JVLI",
+          "url": "https://open.spotify.com/artist/4rj3KWaLAnuxgtMMkypZhf"
         }
       ],
-      "duration_ms": 148500,
-      "name": "ANSIA NO",
-      "url": "https://open.spotify.com/track/2yuYI5NFhevxa05se7Qht9"
+      "duration_ms": 180000,
+      "name": "Adrenalina",
+      "url": "https://open.spotify.com/track/44r0DNbRcHU8KyM1K2AJ0y"
     },
     {
       "added_at": "2023-04-19 19:49:54",
@@ -1343,30 +1343,6 @@
     {
       "added_at": "2023-04-19 19:49:54",
       "album": {
-        "name": "IL MINORENNE + BASTARDO",
-        "url": "https://open.spotify.com/album/3n3PO1QkNmGftt01Cz1LyE"
-      },
-      "artists": [
-        {
-          "name": "Touch\u00e9",
-          "url": "https://open.spotify.com/artist/3sRTjuam7GJ4lA7ewD2sfb"
-        },
-        {
-          "name": "BIG P",
-          "url": "https://open.spotify.com/artist/1a0E2OojvY4bOw0SfYN768"
-        },
-        {
-          "name": "Miller",
-          "url": "https://open.spotify.com/artist/5Zac830Rf5D42X4G5lIzqs"
-        }
-      ],
-      "duration_ms": 166522,
-      "name": "PULL UP (feat. Big P)",
-      "url": "https://open.spotify.com/track/5rGNMvZh5oLw20vjMaf8VW"
-    },
-    {
-      "added_at": "2023-04-19 19:49:54",
-      "album": {
         "name": "SHAWTY (feat. Sacky)",
         "url": "https://open.spotify.com/album/6FtMPLKEmsz2BsnJuCYrKQ"
       },
@@ -1403,6 +1379,30 @@
       "duration_ms": 235425,
       "name": "Porto Cervo",
       "url": "https://open.spotify.com/track/0TAt3c8KXb1D3sWT8ENar8"
+    },
+    {
+      "added_at": "2023-04-19 19:49:54",
+      "album": {
+        "name": "IL MINORENNE + BASTARDO",
+        "url": "https://open.spotify.com/album/3n3PO1QkNmGftt01Cz1LyE"
+      },
+      "artists": [
+        {
+          "name": "Touch\u00e9",
+          "url": "https://open.spotify.com/artist/3sRTjuam7GJ4lA7ewD2sfb"
+        },
+        {
+          "name": "BIG P",
+          "url": "https://open.spotify.com/artist/1a0E2OojvY4bOw0SfYN768"
+        },
+        {
+          "name": "Miller",
+          "url": "https://open.spotify.com/artist/5Zac830Rf5D42X4G5lIzqs"
+        }
+      ],
+      "duration_ms": 166522,
+      "name": "PULL UP (feat. Big P)",
+      "url": "https://open.spotify.com/track/5rGNMvZh5oLw20vjMaf8VW"
     },
     {
       "added_at": "2023-04-19 19:49:54",

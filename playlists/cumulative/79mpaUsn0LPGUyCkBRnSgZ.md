@@ -4,12 +4,13 @@
 
 > albums i plan to listen to eventually
 
-219 songs - 13 hr 36 min
+224 songs - 13 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [!Ed Buys Houses!](https://open.spotify.com/track/7C93fnd8BwNdDj5YIEZsKX) | [Sidney Gish](https://open.spotify.com/artist/2orBKFyc84jo9AZH5jarhI) | [Ed Buys Houses](https://open.spotify.com/album/64DjJ6ym4wzWt2HzwpZ6jO) | 0:57 | 2023-05-02 | 2023-05-15 |
 | [100](https://open.spotify.com/track/6e6zTZH1PIyXRI6PTByfW6) | [Lute](https://open.spotify.com/artist/75WcpJKWXBV3o3cfluWapK) | [Gold Mouf \(Deluxe\)](https://open.spotify.com/album/5O5tzddmtxljqz3WOwFK00) | 3:50 | 2022-09-06 |  |
+| [100 Degrees](https://open.spotify.com/track/1DPIqXc2BfJWWgCy0Tc2lr) | [tobi lou](https://open.spotify.com/artist/4T8NIfZmVY6TJFqVzN6X49) | [Live on Ice](https://open.spotify.com/album/6K7SjlIebufubxXGf4uA7a) | 4:25 | 2023-05-18 |  |
 | [123](https://open.spotify.com/track/2QrMuaZUACwUpmIzmqRE9l) | [Girlpool](https://open.spotify.com/artist/3BYXi96LqI8TwNljFKE0DZ) | [Powerplant](https://open.spotify.com/album/120bhi2kgHiYc2FwI7nghO) | 2:50 | 2022-08-25 |  |
 | [15 Step](https://open.spotify.com/track/4oXg7xT4ksBxHTx8PcmSXw) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [In Rainbows](https://open.spotify.com/album/5vkqYmiPBYLaalcmjujWxK) | 3:57 | 2023-01-19 |  |
 | [3rd Planet](https://open.spotify.com/track/7Gi8kaILAUgjYqgdee9410) | [Modest Mouse](https://open.spotify.com/artist/1yAwtBaoHLEDWAnWR87hBT) | [The Moon & Antarctica](https://open.spotify.com/album/5SbcupirEParczvqqyUPXL) | 3:58 | 2022-09-20 |  |
@@ -44,6 +45,7 @@
 | [Blister In The Sun](https://open.spotify.com/track/7jIAttgQTpLDoNtykIQXjH) | [Violent Femmes](https://open.spotify.com/artist/0rpMdBzQXf7aYRnu5fDBJy) | [Violent Femmes](https://open.spotify.com/album/0Ojio25IPzIrw1rUmgrhrG) | 2:25 | 2023-04-07 | 2023-04-19 |
 | [Blue](https://open.spotify.com/track/6lp6YWBzpPj1oaGZiTD5x2) | [Blu & Exile](https://open.spotify.com/artist/567CChDKZrtF4rnk2r5JeP), [Blu](https://open.spotify.com/artist/1KeJhR0ENFviw187pD4LPT), [Exile](https://open.spotify.com/artist/4r4XYZJUeeKCcrkvi7voDP) | [Miles](https://open.spotify.com/album/7J3XAN9vV4smAoiz1TQwHB) | 2:18 | 2022-01-13 |  |
 | [Body](https://open.spotify.com/track/2l7JlYeniNFfIzfj3dOUjb) | [Julia Jacklin](https://open.spotify.com/artist/12fRkVfO2fUsz1QHgDAG3g) | [Crushing](https://open.spotify.com/album/50G6NiGQgtYNiwNK018q8v) | 5:07 | 2023-04-30 |  |
+| [Bonito Intro](https://open.spotify.com/track/5b1S06C3AuUOelyne3OJEw) | [Kero Kero Bonito](https://open.spotify.com/artist/6OqhFYFJDnBBHas02HopPT) | [Intro Bonito](https://open.spotify.com/album/3s3PEd50fVx2qXMNgPy0uD) | 0:50 | 2023-05-18 |  |
 | [Born](https://open.spotify.com/track/0BiEG7SI1LyBjwKJIjew4q) | [STRFKR](https://open.spotify.com/artist/2Tz1DTzVJ5Gyh8ZwVr6ekU) | [Reptilians](https://open.spotify.com/album/5pfqk4oFycMVynOD8S2Cqs) | 3:23 | 2022-12-18 |  |
 | [BUSY / SIRENS](https://open.spotify.com/track/4YdRnTnXYwgI48kkzWy6uk) | [Saba](https://open.spotify.com/artist/7Hjbimq43OgxaBRpFXic4x), [theMIND](https://open.spotify.com/artist/5ZK5YGazICLXEXlaNnEBqP) | [CARE FOR ME](https://open.spotify.com/album/6Te111t5gDZ7W94myHRqUt) | 5:29 | 2023-01-13 |  |
 | [Can't Get Enough \- 2015 Remaster](https://open.spotify.com/track/51pAliCZ3Mm7jiqgk12O5R) | [Bad Company](https://open.spotify.com/artist/5AEG63ajney2BoDXi0Vb84) | [Bad Company \(Remastered\)](https://open.spotify.com/album/5VknaZWiywvQJMpPOfB6tA) | 4:16 | 2022-05-18 |  |
@@ -98,6 +100,7 @@
 | [Holy Ghost \(feat\. Joe Fox\)](https://open.spotify.com/track/6AHNkRbVzkh95xilnYzDT7) | [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca), [Joe Fox](https://open.spotify.com/artist/2Dbnk0YRTPpKu46XzMf9nu) | [AT.LONG.LAST.A$AP](https://open.spotify.com/album/3arNdjotCvtiiLFfjKngMc) | 3:11 | 2022-08-11 |  |
 | [Honey](https://open.spotify.com/track/3olYZQTYOLYNImERBnZZqm) | [Robyn](https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2) | [Honey](https://open.spotify.com/album/6WZjFvrzwq8SOGe0r8R3qk) | 4:54 | 2022-03-19 |  |
 | [Honky Cat](https://open.spotify.com/track/1plcM0XlbKdjND7Ufokuzb) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Honky Chateau](https://open.spotify.com/album/2ei2X6ghPnw7YRwQtAH075) | 5:13 | 2022-05-18 |  |
+| [Hopeless Romantic](https://open.spotify.com/track/545SZZYmeuSlM9biS7uZjf) | [tobi lou](https://open.spotify.com/artist/4T8NIfZmVY6TJFqVzN6X49) | [Non\-Perishable](https://open.spotify.com/album/4g1NDArjCjyWXEWIbOhG8M) | 2:56 | 2023-05-18 |  |
 | [Horn Intro](https://open.spotify.com/track/5nKe9PgCtEhqdnvXAQIBhF) | [Modest Mouse](https://open.spotify.com/artist/1yAwtBaoHLEDWAnWR87hBT) | [Good News For People Who Love Bad News](https://open.spotify.com/album/0TGTGuc2vXv6ZECoAf52N0) | 0:09 | 2022-09-20 |  |
 | [Hot Rotten Grass Smell](https://open.spotify.com/track/16weYq1yI3d7pyjkRLYlrY) | [Wednesday](https://open.spotify.com/artist/4j7DrazfBZLLD0OrVoAtEe) | [Rat Saw God](https://open.spotify.com/album/1oTR3aC0jYmwUlr9duBi05) | 1:35 | 2023-04-19 |  |
 | [I Believe \(When I Fall In Love It Will Be Forever\)](https://open.spotify.com/track/1fdQg2yrTYCMOviVCw1Xdh) | [Art Garfunkel](https://open.spotify.com/artist/6kEsKkXuE4olX7m3mNLZkS) | [Breakaway](https://open.spotify.com/album/1XrVWVKKfRlD0waskKj5uy) | 3:51 | 2022-07-27 |  |
@@ -205,6 +208,7 @@
 | [The Plan](https://open.spotify.com/track/5nrIEQ6ZmVwt9Pfr3ydvbn) | [Built To Spill](https://open.spotify.com/artist/3kbBWco9PZ5eSQsNScwG6U) | [Keep It like a Secret](https://open.spotify.com/album/2PKZhfPrgMmK5zug2pqdHA) | 3:29 | 2022-09-20 |  |
 | [The Song Remains the Same \- Remaster](https://open.spotify.com/track/2e61kmae4HhbuS9hYONQ0A) | [Led Zeppelin](https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp) | [Houses of the Holy \(Remaster\)](https://open.spotify.com/album/0GqpoHJREPp0iuXK3HzrHk) | 5:29 | 2023-02-11 |  |
 | [The State I'm In](https://open.spotify.com/track/6EVioebGhehJKoNrpn4WK3) | [Belle and Sebastian](https://open.spotify.com/artist/4I2BJf80C0skQpp1sQmA0h) | [Tigermilk](https://open.spotify.com/album/3MSxGvwpiKePFsygmWT3G9) | 4:57 | 2023-02-19 |  |
+| [The View From The Afternoon](https://open.spotify.com/track/4wSWZjWH7a5eVxskGxO13w) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [Whatever People Say I Am, That's What I'm Not](https://open.spotify.com/album/0ndGMh4twJNzPpr5XtHTR2) | 3:42 | 2023-05-19 |  |
 | [There's a Rugged Road \- Remastered](https://open.spotify.com/track/5rIjJkNIY3sRtjPJVOctRE) | [Judee Sill](https://open.spotify.com/artist/2IkwqvwEnXFlZEq6eFP1wL) | [Heart Food](https://open.spotify.com/album/40epQ5uLIK1k7mGL0ESpUn) | 3:44 | 2022-12-17 | 2023-04-20 |
 | [This Is Why](https://open.spotify.com/track/7HdXRMw14roDx2a0COWk3M) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [This Is Why](https://open.spotify.com/album/6tG8sCK4htJOLjlWwb7gZB) | 3:26 | 2023-03-11 |  |
 | [thousand eyes](https://open.spotify.com/track/1xsb4ZIwzSi5dacBz9oMdA) | [FKA twigs](https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH) | [MAGDALENE](https://open.spotify.com/album/3DMR3yM5crnt1dG9lLaMTZ) | 5:00 | 2022-01-19 |  |
@@ -215,6 +219,7 @@
 | [Under The Sun \(with J\. Cole & Lute feat\. DaBaby\)](https://open.spotify.com/track/6MF4tRr5lU8qok8IKaFOBE) | [Dreamville](https://open.spotify.com/artist/1iNqsUDUraNWrj00bqssQG), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5), [Lute](https://open.spotify.com/artist/75WcpJKWXBV3o3cfluWapK), [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) | [Revenge Of The Dreamers III](https://open.spotify.com/album/2n3quCZ0anEa46j2IveacI) | 3:22 | 2023-04-24 |  |
 | [Untitled](https://open.spotify.com/track/2Ndz0uCpTqsDvJtARKTDpS) | [Burial](https://open.spotify.com/artist/0uCCBpmg6MrPb1KY2msceF) | [Untrue](https://open.spotify.com/album/1CI5OW60s9W41YLI80Jjdr) | 0:46 | 2022-12-18 |  |
 | [Wakin On A Pretty Day](https://open.spotify.com/track/4cCoZML1dPIQxNjOwDmJGf) | [Kurt Vile](https://open.spotify.com/artist/5gspAQIAH8nJUrMYgXjCJ2) | [Wakin On A Pretty Daze](https://open.spotify.com/album/3BSEZLnzVW6QEX12wcKdFi) | 9:30 | 2023-01-11 |  |
+| [Waking Up](https://open.spotify.com/track/6d5KjyeBSbzh6bbczubWko) | [Kero Kero Bonito](https://open.spotify.com/artist/6OqhFYFJDnBBHas02HopPT) | [Bonito Generation](https://open.spotify.com/album/0dAMC0nNikIjhD8LeRZfhH) | 2:57 | 2023-05-18 |  |
 | [We Got It For Cheap \(Intro\)](https://open.spotify.com/track/3YKR7Wglf9JvWg5O7xdA5g) | [Clipse](https://open.spotify.com/artist/2J257euzcjnDLipsyJH3F2) | [Hell Hath No Fury](https://open.spotify.com/album/1HftQWyKWoGsrmG5lRkJDE) | 3:41 | 2022-04-29 |  |
 | [Welcome to \(Drifter\)](https://open.spotify.com/track/5ZjaSKUMpSaXVwwFJrGL4O) | [Mouseatouille](https://open.spotify.com/artist/1RCFAywt6h42PGjgTOBNfa) | [Out of the Hospital and Into the Morgue](https://open.spotify.com/album/5HiftUDco0SH7jJmTFCvGm) | 2:04 | 2023-05-13 | 2023-05-15 |
 | [Welcome To My Island](https://open.spotify.com/track/4bp2wYweUPvsBrQfntdYcr) | [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a) | [Desire, I Want To Turn Into You](https://open.spotify.com/album/22PkV1Le9P3X4RY4xtmK0q) | 3:52 | 2023-02-15 |  |

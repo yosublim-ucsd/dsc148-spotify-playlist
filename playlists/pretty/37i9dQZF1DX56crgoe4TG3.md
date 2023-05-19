@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX56crgoe4TG3.md) - [plain]
 
 > A mix of folk and bluegrass covers of pop, rock, hip\-hop, folk, and indie songs\. Cover: The Brother Brothers
 
-[Spotify](https://open.spotify.com/user/spotify) - 247,773 likes - 129 songs - 8 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 247,840 likes - 129 songs - 8 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,7 +84,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX56crgoe4TG3.md) - [plain]
 | 74 | [Africa](https://open.spotify.com/track/4XRQgH9uA2hNcphAjSoPUs) | [Love Canon](https://open.spotify.com/artist/6g4kxAF2OVE5eZh2aMMNjJ) | [Greatest Hits, Vol\. 1](https://open.spotify.com/album/0uUGpBzLNyLbbHLiKkJcTk) | 4:03 |
 | 75 | [Walking on Sunshine](https://open.spotify.com/track/5yGs5BtZC9uN1VW0lKfgwz) | [Sam Amidon](https://open.spotify.com/artist/6TTJ0xLPPNDyv4bXyukzU4) | [BrooklynVegan Presents Sun Salute: A Tribute to Katrina & The Waves and Walking on Sunshine](https://open.spotify.com/album/56YoLMVeXAAziNRbN3EF9B) | 3:07 |
 | 76 | [Get Rhythm](https://open.spotify.com/track/2YWW57cKksZfnnHQM8SznN) | [James Hand](https://open.spotify.com/artist/0LhTZWBL8vvxZhJxYBWUmi) | [Get Rhythm](https://open.spotify.com/album/64rKgbviWFaX8dNH9tv5Gu) | 1:42 |
-| 77 | [Loser](https://open.spotify.com/track/4QMKLsoxyY9UvLSrGFkkir) | [The Cleverlys](https://open.spotify.com/artist/6FcC7osOicG2aEqb2VrbhS) | [Cash Crop](https://open.spotify.com/album/094kzj8kwxRHZNSCfc0RLg) | 4:19 |
+| 77 | [Loser](https://open.spotify.com/track/5jVxMJfoWF0l7EgTjIiBzr) | [The Cleverlys](https://open.spotify.com/artist/6FcC7osOicG2aEqb2VrbhS) | [Cash Crop](https://open.spotify.com/album/0tDKZRvMt5Ek8ejQrnd4OU) | 4:19 |
 | 78 | [Don't You Want Me](https://open.spotify.com/track/0bmDpMruiJpzV5eQ92W0Lq) | [Bahamas](https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt), [The Weather Station](https://open.spotify.com/artist/39ZEMGRv3pIYTYKEhr4Abu) | [The Secret Life Of Walter Mitty \(Music From And Inspired By The Motion Picture\)](https://open.spotify.com/album/4zSB5nqKVh9jQcRByMUcMG) | 3:19 |
 | 79 | [For The Turnstiles](https://open.spotify.com/track/7kpGyXljXAINZnybcsNRkn) | [The Be Good Tanyas](https://open.spotify.com/artist/37PywjKNsxHji5F9eFODF2) | [Hello Love](https://open.spotify.com/album/7vmiUDLIp6w1s4NYDAWjej) | 4:26 |
 | 80 | [Eye Of The Tiger](https://open.spotify.com/track/6qNuZL98ZSFOzIuG5zJrAj) | [The Rural Alberta Advantage](https://open.spotify.com/artist/0v6gOfGBclTSGu6agfXb23) | [Drain The Blood](https://open.spotify.com/album/2IpHSccHdJGTncaiuSKBjI) | 3:00 |
@@ -134,8 +134,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX56crgoe4TG3.md) - [plain]
 | 124 | [Gentle On My Mind](https://open.spotify.com/track/2uZXypPpmXiGHFtvQOn50W) | [John Mailander](https://open.spotify.com/artist/4MYqkPU4l4Gpohaub6mGFr) | [Walking Distance](https://open.spotify.com/album/0SUBhrbVZ1IiDtCsSkoTIb) | 3:32 |
 | 125 | [Little Piece of My Heart](https://open.spotify.com/track/4MhBFMMibAWuJv8zMQWrKA) | [John Hartford](https://open.spotify.com/artist/0NAr5zThPfMx26ISgooQK6) | [Gum Tree Canoe](https://open.spotify.com/album/13BUiVlKesdaWPgQqozhYv) | 3:10 |
 | 126 | [Stairway to Heaven](https://open.spotify.com/track/6y9VXK7MuqlCzu7OvVGHTs) | [Rodrigo y Gabriela](https://open.spotify.com/artist/7vX3cMVyW8gtDA4y855ynF) | [Rodrigo y Gabriela](https://open.spotify.com/album/3iqyQHFVWrmx4rjWRJXCNg) | 4:44 |
-| 127 | [No Diggity](https://open.spotify.com/track/7wSkLQdIlCBDUPFPkwLICU) | [The Cleverlys](https://open.spotify.com/artist/6FcC7osOicG2aEqb2VrbhS) | [Cash Crop](https://open.spotify.com/album/094kzj8kwxRHZNSCfc0RLg) | 5:51 |
+| 127 | [No Diggity](https://open.spotify.com/track/2X2mue7uhDOCEgA3ewrB2l) | [The Cleverlys](https://open.spotify.com/artist/6FcC7osOicG2aEqb2VrbhS) | [Cash Crop](https://open.spotify.com/album/0tDKZRvMt5Ek8ejQrnd4OU) | 5:51 |
 | 128 | [Billie Jean](https://open.spotify.com/track/4YKhIH7BhFErLoV9dgHupm) | [The Civil Wars](https://open.spotify.com/artist/6J7rw7NELJUCThPbAfyLIE) | [Between the Bars](https://open.spotify.com/album/64Z8bWSUBB1Vhox2K5EdBe) | 4:20 |
 | 129 | [Game of Thrones \(Main Theme\)](https://open.spotify.com/track/58KlChZMUnuITA871NPyls) | [Flatt Lonesome](https://open.spotify.com/artist/5m7v6OS8omwyHvXARri5Zh) | [Game of Thrones \(Main Theme\)](https://open.spotify.com/album/4scGLabYRn5ZGwv7ult8jN) | 5:01 |
 
-Snapshot ID: `MCxlNDRlYjhjYTcyY2NlNzBiZjg0ZmY2NTI2NGVmNzQ0YmRmMTI5ZmI4`
+Snapshot ID: `MCw4NDMwMGQyMjYyOWVhZmQ5YmY5YzEzOGExOThjNzIwZTJhODUyYmQ0`

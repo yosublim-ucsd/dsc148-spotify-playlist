@@ -1,13 +1,29 @@
 {
-  "description": "\u2694\ufe0f\ud83d\udc51 battle of the north \ud83d\udc51\u2694\ufe0f",
-  "num_followers": 182364,
+  "description": "pretty face and a real nice figure \u2728\ud83d\ude0c\ud83d\udc44",
+  "num_followers": 182523,
   "original_name": "pov",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyMzkzNzI1ZmZkODk2ZDFhNWY1ZmQ0NmUzZTZhN2EwOGRlNzUyMWM5",
+  "snapshot_id": "MCwyNDg3ZDFkN2I2MGU5ZjUyMGFlOWZhMTBkNGRhYjYzMzY3OTdhMzMz",
   "tracks": [
+    {
+      "added_at": "2023-05-11 22:00:00",
+      "album": {
+        "name": "Keep Dat Nigga",
+        "url": "https://open.spotify.com/album/4EqXw4bTD5XpdI16CSlWng"
+      },
+      "artists": [
+        {
+          "name": "Icandy",
+          "url": "https://open.spotify.com/artist/1I0tv3cE1cDIJvQpHyuCYN"
+        }
+      ],
+      "duration_ms": 138945,
+      "name": "Keep Dat Nigga",
+      "url": "https://open.spotify.com/track/06eobTXs90ICbtbxhmgviZ"
+    },
     {
       "added_at": "2023-05-11 22:00:00",
       "album": {
@@ -25,36 +41,20 @@
       "url": "https://open.spotify.com/track/5RX8T3EoTuXcybAxe6oPAw"
     },
     {
-      "added_at": "2023-05-11 22:00:00",
+      "added_at": "2023-05-18 22:01:00",
       "album": {
-        "name": "Tattoo",
-        "url": "https://open.spotify.com/album/0LRTS7FyYLppkDLOZT02Xp"
+        "name": "Say Yes To Heaven",
+        "url": "https://open.spotify.com/album/6jVg0POvGYH1Pt6lISl3ok"
       },
       "artists": [
         {
-          "name": "Loreen",
-          "url": "https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl"
+          "name": "Lana Del Rey",
+          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
         }
       ],
-      "duration_ms": 183374,
-      "name": "Tattoo",
-      "url": "https://open.spotify.com/track/1DmW5Ep6ywYwxc2HMT5BG6"
-    },
-    {
-      "added_at": "2023-05-11 22:00:00",
-      "album": {
-        "name": "Queen of Kings",
-        "url": "https://open.spotify.com/album/6Fkp68IAnNvIRJ8rm1MxhB"
-      },
-      "artists": [
-        {
-          "name": "Alessandra",
-          "url": "https://open.spotify.com/artist/35HMF6Y8dSzNfeJs3X65fw"
-        }
-      ],
-      "duration_ms": 147979,
-      "name": "Queen of Kings",
-      "url": "https://open.spotify.com/track/14LdhxElpZS0rKVV4nxtdA"
+      "duration_ms": 156116,
+      "name": "Say Yes To Heaven - Sped Up",
+      "url": "https://open.spotify.com/track/2f5WkystuejnBzgV18GTGa"
     },
     {
       "added_at": "2023-05-11 22:00:00",
@@ -77,6 +77,26 @@
       "url": "https://open.spotify.com/track/3XKIUb7HzIF1Vu9usunMzc"
     },
     {
+      "added_at": "2023-05-18 22:01:00",
+      "album": {
+        "name": "Ms. Kelly",
+        "url": "https://open.spotify.com/album/2aBdyOINaz4J1aap1eoLPW"
+      },
+      "artists": [
+        {
+          "name": "Kelly Rowland",
+          "url": "https://open.spotify.com/artist/3AuMNF8rQAKOzjYppFNAoB"
+        },
+        {
+          "name": "Eve",
+          "url": "https://open.spotify.com/artist/4d3yvTptO48nOYTPBcPFZC"
+        }
+      ],
+      "duration_ms": 215853,
+      "name": "Like This (feat. Eve)",
+      "url": "https://open.spotify.com/track/3sfydNh0QQAdnIAtDVG16H"
+    },
+    {
       "added_at": "2023-05-11 22:00:00",
       "album": {
         "name": "Flower Boy",
@@ -95,22 +115,6 @@
       "duration_ms": 180386,
       "name": "See You Again (feat. Kali Uchis)",
       "url": "https://open.spotify.com/track/7KA4W4McWYRpgf0fWsJZWB"
-    },
-    {
-      "added_at": "2023-05-11 22:00:00",
-      "album": {
-        "name": "Keep Dat Nigga",
-        "url": "https://open.spotify.com/album/4EqXw4bTD5XpdI16CSlWng"
-      },
-      "artists": [
-        {
-          "name": "Icandy",
-          "url": "https://open.spotify.com/artist/1I0tv3cE1cDIJvQpHyuCYN"
-        }
-      ],
-      "duration_ms": 138945,
-      "name": "Keep Dat Nigga",
-      "url": "https://open.spotify.com/track/06eobTXs90ICbtbxhmgviZ"
     },
     {
       "added_at": "2023-05-11 22:00:00",
@@ -163,6 +167,38 @@
     {
       "added_at": "2023-05-11 22:00:00",
       "album": {
+        "name": "Tattoo",
+        "url": "https://open.spotify.com/album/0LRTS7FyYLppkDLOZT02Xp"
+      },
+      "artists": [
+        {
+          "name": "Loreen",
+          "url": "https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl"
+        }
+      ],
+      "duration_ms": 183374,
+      "name": "Tattoo",
+      "url": "https://open.spotify.com/track/1DmW5Ep6ywYwxc2HMT5BG6"
+    },
+    {
+      "added_at": "2023-05-11 22:00:00",
+      "album": {
+        "name": "Queen of Kings",
+        "url": "https://open.spotify.com/album/6Fkp68IAnNvIRJ8rm1MxhB"
+      },
+      "artists": [
+        {
+          "name": "Alessandra",
+          "url": "https://open.spotify.com/artist/35HMF6Y8dSzNfeJs3X65fw"
+        }
+      ],
+      "duration_ms": 147979,
+      "name": "Queen of Kings",
+      "url": "https://open.spotify.com/track/14LdhxElpZS0rKVV4nxtdA"
+    },
+    {
+      "added_at": "2023-05-11 22:00:00",
+      "album": {
         "name": "Daylight",
         "url": "https://open.spotify.com/album/6NcI39WPu4kY6Tul11nhSv"
       },
@@ -195,34 +231,18 @@
     {
       "added_at": "2023-05-11 22:00:00",
       "album": {
-        "name": "Laundry Service",
-        "url": "https://open.spotify.com/album/4DyMK9x2gnmRkRa16zHaEV"
+        "name": "GOOD LOYAL THOTS",
+        "url": "https://open.spotify.com/album/0x4bB3gflkfs2teiVIJ5t5"
       },
       "artists": [
         {
-          "name": "Shakira",
-          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+          "name": "Odetari",
+          "url": "https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc"
         }
       ],
-      "duration_ms": 196160,
-      "name": "Whenever, Wherever",
-      "url": "https://open.spotify.com/track/2lnzGkdtDj5mtlcOW2yRtG"
-    },
-    {
-      "added_at": "2023-05-11 22:00:00",
-      "album": {
-        "name": "The Beginning: Cupid",
-        "url": "https://open.spotify.com/album/5letLUZIFsQikJYShfGNs4"
-      },
-      "artists": [
-        {
-          "name": "FIFTY FIFTY",
-          "url": "https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6"
-        }
-      ],
-      "duration_ms": 174253,
-      "name": "Cupid - Twin Ver.",
-      "url": "https://open.spotify.com/track/7FbrGaHYVDmfr7KoLIZnQ7"
+      "duration_ms": 102556,
+      "name": "GOOD LOYAL THOTS",
+      "url": "https://open.spotify.com/track/6PadQidABni2peo3kYKW0M"
     },
     {
       "added_at": "2023-05-11 22:00:00",
@@ -295,6 +315,22 @@
     {
       "added_at": "2023-05-11 22:00:00",
       "album": {
+        "name": "The Beginning: Cupid",
+        "url": "https://open.spotify.com/album/5letLUZIFsQikJYShfGNs4"
+      },
+      "artists": [
+        {
+          "name": "FIFTY FIFTY",
+          "url": "https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6"
+        }
+      ],
+      "duration_ms": 174253,
+      "name": "Cupid - Twin Ver.",
+      "url": "https://open.spotify.com/track/7FbrGaHYVDmfr7KoLIZnQ7"
+    },
+    {
+      "added_at": "2023-05-11 22:00:00",
+      "album": {
         "name": "Ends & Begins",
         "url": "https://open.spotify.com/album/5kGUy2eONqGocT26fvKo9v"
       },
@@ -339,6 +375,22 @@
       "duration_ms": 144353,
       "name": "Clouds - Sped Up",
       "url": "https://open.spotify.com/track/1Y3mJh7oVvOaDomsnpw8P1"
+    },
+    {
+      "added_at": "2023-05-11 22:00:00",
+      "album": {
+        "name": "Laundry Service",
+        "url": "https://open.spotify.com/album/4DyMK9x2gnmRkRa16zHaEV"
+      },
+      "artists": [
+        {
+          "name": "Shakira",
+          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+        }
+      ],
+      "duration_ms": 196160,
+      "name": "Whenever, Wherever",
+      "url": "https://open.spotify.com/track/2lnzGkdtDj5mtlcOW2yRtG"
     },
     {
       "added_at": "2023-05-11 22:00:00",
@@ -495,22 +547,6 @@
       "duration_ms": 169911,
       "name": "UNAVAILABLE (feat. Musa Keys)",
       "url": "https://open.spotify.com/track/2kaH2Z8ezDUKf6fNw250rZ"
-    },
-    {
-      "added_at": "2023-05-11 22:00:00",
-      "album": {
-        "name": "GOOD LOYAL THOTS",
-        "url": "https://open.spotify.com/album/0x4bB3gflkfs2teiVIJ5t5"
-      },
-      "artists": [
-        {
-          "name": "Odetari",
-          "url": "https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc"
-        }
-      ],
-      "duration_ms": 102556,
-      "name": "GOOD LOYAL THOTS",
-      "url": "https://open.spotify.com/track/6PadQidABni2peo3kYKW0M"
     },
     {
       "added_at": "2023-05-11 22:00:00",
@@ -945,7 +981,7 @@
         }
       ],
       "duration_ms": 131013,
-      "name": "Boy's a liar Pt. 2",
+      "name": "Boy's a Liar Pt. 2",
       "url": "https://open.spotify.com/track/6AQbmUe0Qwf5PZnt4HmTXv"
     },
     {
@@ -2393,7 +2429,7 @@
         }
       ],
       "duration_ms": 131253,
-      "name": "Boy's a liar",
+      "name": "Boy's a Liar",
       "url": "https://open.spotify.com/track/3NanY0K4okhIQzL33U5Ad8"
     },
     {
@@ -8249,7 +8285,7 @@
         }
       ],
       "duration_ms": 153706,
-      "name": "Where you are (feat. WILLOW)",
+      "name": "Where You Are (feat. WILLOW)",
       "url": "https://open.spotify.com/track/4icnlpI5IbZcRO9mpixVVW"
     },
     {

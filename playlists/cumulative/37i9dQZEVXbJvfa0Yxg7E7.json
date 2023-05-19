@@ -369,6 +369,24 @@
     },
     {
       "album": {
+        "name": "5 fine fr\u00f8kner",
+        "url": "https://open.spotify.com/album/32CUxd1Ihq7Ww5ayv8IirO"
+      },
+      "artists": [
+        {
+          "name": "Gabrielle",
+          "url": "https://open.spotify.com/artist/4OovmAu23KrDlDQI2UbneL"
+        }
+      ],
+      "date_added": "2023-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216346,
+      "name": "5 fine fr\u00f8kner",
+      "url": "https://open.spotify.com/track/49lGGqlyEnlRQfc69I8ajk"
+    },
+    {
+      "album": {
         "name": "5 SHOTS",
         "url": "https://open.spotify.com/album/5TXQMV2n7TjC64TNQDmzln"
       },
@@ -2058,7 +2076,7 @@
       ],
       "date_added": "2023-02-25",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-09",
+      "date_removed": null,
       "duration_ms": 160868,
       "name": "Best p\u00e5 fest",
       "url": "https://open.spotify.com/track/3qeetNg8dmL3KwYXT9R7wT"
@@ -2454,7 +2472,7 @@
       ],
       "date_added": "2022-03-26",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-07",
+      "date_removed": null,
       "duration_ms": 138750,
       "name": "Bonanza (feat. Greekazo)",
       "url": "https://open.spotify.com/track/70KdADbxWK0MAVXj0YvWDi"
@@ -2962,7 +2980,7 @@
       ],
       "date_added": "2023-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 239317,
       "name": "Calm Down (with Selena Gomez)",
       "url": "https://open.spotify.com/track/1s7oOCT8vauUh01PbJD6ps"
@@ -3244,7 +3262,7 @@
       ],
       "date_added": "2023-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 184013,
       "name": "Chemical",
       "url": "https://open.spotify.com/track/5w40ZYhbBMAlHYNDaVJIUu"
@@ -3766,7 +3784,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 174253,
       "name": "Cupid - Twin Ver.",
       "url": "https://open.spotify.com/track/7FbrGaHYVDmfr7KoLIZnQ7"
@@ -3824,7 +3842,7 @@
       ],
       "date_added": "2023-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 151800,
       "name": "Damn Girl",
       "url": "https://open.spotify.com/track/2nUlmWTApV6PdzUUATOawa"
@@ -5882,7 +5900,7 @@
       ],
       "date_added": "2023-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 214133,
       "name": "Euphoria",
       "url": "https://open.spotify.com/track/2knr7ikPt4l7bk92qS4ZXW"
@@ -5944,7 +5962,7 @@
       ],
       "date_added": "2023-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 184453,
       "name": "evig og alltid (med Emma Steinbakken)",
       "url": "https://open.spotify.com/track/7BUb5sLSVC8xIE54NN8Vx1"
@@ -6038,7 +6056,7 @@
       ],
       "date_added": "2023-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 158836,
       "name": "F.H.D.S!",
       "url": "https://open.spotify.com/track/0accAkIfqV6MxWMBCzk97y"
@@ -6878,7 +6896,7 @@
       ],
       "date_added": "2022-09-24",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-26",
+      "date_removed": null,
       "duration_ms": 167040,
       "name": "Frida Kahlo",
       "url": "https://open.spotify.com/track/4v8yhLDEcRQ6BynXcCrGMo"
@@ -7068,7 +7086,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 162105,
       "name": "G63",
       "url": "https://open.spotify.com/track/3pBTElvw1OK7pDDI3MR4qC"
@@ -7130,7 +7148,7 @@
       ],
       "date_added": "2023-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-16",
+      "date_removed": null,
       "duration_ms": 137816,
       "name": "Gamleveien",
       "url": "https://open.spotify.com/track/5qS9HY1sq4Zuyzm7Mpgjir"
@@ -7148,7 +7166,7 @@
       ],
       "date_added": "2021-05-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-20",
+      "date_removed": null,
       "duration_ms": 122800,
       "name": "Gammel Jegermarsj",
       "url": "https://open.spotify.com/track/7vXIiUiKTw8j6Kct59ZARV"
@@ -8958,7 +8976,7 @@
       ],
       "date_added": "2021-05-19",
       "date_added_asterisk": false,
-      "date_removed": "2021-05-20",
+      "date_removed": null,
       "duration_ms": 140600,
       "name": "Holmenkollmarsj",
       "url": "https://open.spotify.com/track/1f5O1jq4V2pB2Xi1cXImsj"
@@ -8998,7 +9016,7 @@
       ],
       "date_added": "2023-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 155418,
       "name": "Home",
       "url": "https://open.spotify.com/track/2sozHYsnyu73izwt9BoSa5"
@@ -10562,7 +10580,7 @@
       ],
       "date_added": "2021-05-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-20",
+      "date_removed": null,
       "duration_ms": 191268,
       "name": "Ja, Vi Elsker Dette Landet",
       "url": "https://open.spotify.com/track/0GEeVI8Wa1KXGTStgBUerG"
@@ -10608,6 +10626,46 @@
       "duration_ms": 519200,
       "name": "Ja, vi elsker dette landet - alle 8 vers",
       "url": "https://open.spotify.com/track/4y9ul73wG14TMt3lCeosQE"
+    },
+    {
+      "album": {
+        "name": "Satan i gatan (Bonus Version)",
+        "url": "https://open.spotify.com/album/2fOs6I0CgvaZj9agU8EAlH"
+      },
+      "artists": [
+        {
+          "name": "Veronica Maggio",
+          "url": "https://open.spotify.com/artist/2OIWxN9xUhgUHkeUCWCaNs"
+        }
+      ],
+      "date_added": "2023-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202746,
+      "name": "Jag kommer",
+      "url": "https://open.spotify.com/track/5M2y8QdDepGYMsWyxhoxQU"
+    },
+    {
+      "album": {
+        "name": "Jag Vill Vara Din Margareta",
+        "url": "https://open.spotify.com/album/6QJVx7H5M4barKMggXATqm"
+      },
+      "artists": [
+        {
+          "name": "The Pineapple Squad",
+          "url": "https://open.spotify.com/artist/3jpZXETVBoKjnKifaSswEi"
+        },
+        {
+          "name": "Henrik S\u00e6ter",
+          "url": "https://open.spotify.com/artist/7rfOOHTdW80Vbs3nVdWZVl"
+        }
+      ],
+      "date_added": "2023-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167543,
+      "name": "Jag Vill Vara Din Margareta",
+      "url": "https://open.spotify.com/track/35oDGwwEB9Xnz5tmr1tjVN"
     },
     {
       "album": {
@@ -14780,7 +14838,7 @@
       ],
       "date_added": "2021-05-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-20",
+      "date_removed": null,
       "duration_ms": 148653,
       "name": "Norge I R\u00f8dt Hvitt Og Bl\u00e5tt",
       "url": "https://open.spotify.com/track/7w75F85oAXsdaTrCoREONt"
@@ -15580,7 +15638,7 @@
       ],
       "date_added": "2022-01-29",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-16",
+      "date_removed": null,
       "duration_ms": 226706,
       "name": "PAF.no",
       "url": "https://open.spotify.com/track/2coLAzVouJE4BC8lrKbDLk"
@@ -16682,7 +16740,7 @@
       ],
       "date_added": "2023-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 180126,
       "name": "Rekk opp h\u00e5nda",
       "url": "https://open.spotify.com/track/0cnyiYBUwlP64AtIN5FrRI"
@@ -18382,7 +18440,7 @@
       ],
       "date_added": "2023-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 154710,
       "name": "Solo",
       "url": "https://open.spotify.com/track/3xxjYOFR1y7By2wNDS51XV"
@@ -18676,7 +18734,7 @@
       ],
       "date_added": "2023-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 204694,
       "name": "Spiller (Spellermann)",
       "url": "https://open.spotify.com/track/6B6u0z4J07JIirdCeRJO78"
@@ -18916,7 +18974,7 @@
       ],
       "date_added": "2022-04-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-23",
+      "date_removed": null,
       "duration_ms": 146313,
       "name": "STAY KEEG",
       "url": "https://open.spotify.com/track/25DxQM0bG7kbj2js8NCO9v"
@@ -20774,7 +20832,7 @@
       ],
       "date_added": "2023-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 170900,
       "name": "Unicorn",
       "url": "https://open.spotify.com/track/6dUregFbvUNqHP5nphqesK"
@@ -20988,6 +21046,24 @@
       "duration_ms": 223826,
       "name": "Vi ere en nasjon, vi med",
       "url": "https://open.spotify.com/track/61je9UpMImSy3O4D1Rmdag"
+    },
+    {
+      "album": {
+        "name": "Vi Lever",
+        "url": "https://open.spotify.com/album/7cRY1586pwz7xQmwnJ4zjk"
+      },
+      "artists": [
+        {
+          "name": "Wenche Myhre",
+          "url": "https://open.spotify.com/artist/4C3ZoiafZ1vOv09kAKHLSf"
+        }
+      ],
+      "date_added": "2023-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250600,
+      "name": "Vi Lever",
+      "url": "https://open.spotify.com/track/44Sh6sBYjwRQKRV9AbxNHm"
     },
     {
       "album": {
@@ -21470,7 +21546,7 @@
       ],
       "date_added": "2023-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 210880,
       "name": "Wish You The Best",
       "url": "https://open.spotify.com/track/3W5KHP0Yr56ejVDns9vci3"

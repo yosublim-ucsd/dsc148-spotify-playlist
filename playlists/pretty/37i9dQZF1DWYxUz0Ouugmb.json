@@ -1,15 +1,31 @@
 {
-  "description": "Deretan musisi dalam negeri yang patut diantisipasi. Cover: Bernadya",
-  "num_followers": 32068,
+  "description": "Deretan musisi dalam negeri yang patut diantisipasi. Cover: Stereo Wall",
+  "num_followers": 32114,
   "original_name": "RADAR Indonesia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjM2VlZTFhNjQ4ZGMyYTkxY2M0OWJmMzYwMDFhODNkNmE4ZjM3YTEx",
+  "snapshot_id": "MCw3ZmViNTk4MWI4OWY5ZDQyZTdkY2Q5NGFjMjkzNzM3NTA5NzQ3Y2Zi",
   "tracks": [
     {
-      "added_at": "2023-05-11 17:00:00",
+      "added_at": "2023-05-18 17:00:00",
+      "album": {
+        "name": "Prologue",
+        "url": "https://open.spotify.com/album/5xGgVRebfE9c1LkYPdK21s"
+      },
+      "artists": [
+        {
+          "name": "Stereo Wall",
+          "url": "https://open.spotify.com/artist/0kw7tMniMnrp9Pcr7vgDAm"
+        }
+      ],
+      "duration_ms": 219445,
+      "name": "Waktu Yang Hilang",
+      "url": "https://open.spotify.com/track/0Vk3H9BNPmaa6Be1RGpy4V"
+    },
+    {
+      "added_at": "2023-05-18 17:00:00",
       "album": {
         "name": "Apa Mungkin",
         "url": "https://open.spotify.com/album/26VYaukDjQn7rwT4ummk31"
@@ -25,7 +41,7 @@
       "url": "https://open.spotify.com/track/5KYUrBgdbIcqwaGSIgfXPl"
     },
     {
-      "added_at": "2023-05-11 17:00:00",
+      "added_at": "2023-05-18 17:00:00",
       "album": {
         "name": "Tak Ingin Kau Terluka",
         "url": "https://open.spotify.com/album/0uFlzYLmvdkLOffbpapdPW"
@@ -45,7 +61,7 @@
       "url": "https://open.spotify.com/track/3HQgtw9EiCBPXsTQPrO2ZF"
     },
     {
-      "added_at": "2023-05-11 17:00:00",
+      "added_at": "2023-05-18 17:00:00",
       "album": {
         "name": "Masa Sepi",
         "url": "https://open.spotify.com/album/264G53YN0qa679J5JEDtkg"
@@ -61,7 +77,7 @@
       "url": "https://open.spotify.com/track/41OYCdZjfncCUWhcLzLAGo"
     },
     {
-      "added_at": "2023-05-11 17:00:00",
+      "added_at": "2023-05-18 17:00:00",
       "album": {
         "name": "Perspektif",
         "url": "https://open.spotify.com/album/7BkrdnCB2PqOANRu14EKEA"
@@ -77,7 +93,7 @@
       "url": "https://open.spotify.com/track/5zsVcDTZEKISPTCLYiTdwb"
     },
     {
-      "added_at": "2023-05-11 17:00:00",
+      "added_at": "2023-05-18 17:00:00",
       "album": {
         "name": "Somebody's Pleasure",
         "url": "https://open.spotify.com/album/5S5vnFRSXVua5SbdoY9S8y"
@@ -93,7 +109,7 @@
       "url": "https://open.spotify.com/track/3e1rs346dsDDwpqTRGlRZR"
     },
     {
-      "added_at": "2023-05-11 17:00:00",
+      "added_at": "2023-05-18 17:00:00",
       "album": {
         "name": "Pergi",
         "url": "https://open.spotify.com/album/5QA8BDu7U9tNe0AnOMXTfu"
@@ -109,7 +125,7 @@
       "url": "https://open.spotify.com/track/3HdO5YJpavQSC3pZybEqGb"
     },
     {
-      "added_at": "2023-05-11 17:00:00",
+      "added_at": "2023-05-18 17:00:00",
       "album": {
         "name": "Orang Ketiga (Live)",
         "url": "https://open.spotify.com/album/44GfoYKSmyCt1I1zFeeneU"
@@ -129,7 +145,7 @@
       "url": "https://open.spotify.com/track/7HHzjPjeUwslBNr2Ga4fVx"
     },
     {
-      "added_at": "2023-05-11 17:00:00",
+      "added_at": "2023-05-18 17:00:00",
       "album": {
         "name": "Tertawan Hati",
         "url": "https://open.spotify.com/album/3Je4P8ARv9FvEIcOJJXIKl"
@@ -145,7 +161,7 @@
       "url": "https://open.spotify.com/track/3i0h88q1HBtbdIg2bPxs54"
     },
     {
-      "added_at": "2023-05-11 17:00:00",
+      "added_at": "2023-05-18 17:00:00",
       "album": {
         "name": "Jalan Tengah",
         "url": "https://open.spotify.com/album/6WqoW3CKWU3lPyBDhcDzgn"
@@ -161,7 +177,7 @@
       "url": "https://open.spotify.com/track/4QgumLhe9bOEiyKwazYNer"
     },
     {
-      "added_at": "2023-05-11 17:00:00",
+      "added_at": "2023-05-18 17:00:00",
       "album": {
         "name": "After School Sad Session",
         "url": "https://open.spotify.com/album/547GIcLRF21KNd9SnoBWfQ"
@@ -177,7 +193,7 @@
       "url": "https://open.spotify.com/track/6TXFjtfLV3HvMna0mSoGEL"
     },
     {
-      "added_at": "2023-05-11 17:00:00",
+      "added_at": "2023-05-18 17:00:00",
       "album": {
         "name": "Engkaulah Satu Satunya",
         "url": "https://open.spotify.com/album/0giR3EIZHM5fkbLHLKTcXg"
@@ -193,7 +209,7 @@
       "url": "https://open.spotify.com/track/3X97NvosSuHgjrAfEfSsuh"
     },
     {
-      "added_at": "2023-05-11 17:00:00",
+      "added_at": "2023-05-18 17:00:00",
       "album": {
         "name": "Tak Segampang Itu",
         "url": "https://open.spotify.com/album/6gO5mDyNTqiIqHItRil4OG"
@@ -209,7 +225,7 @@
       "url": "https://open.spotify.com/track/26cvTWJq2E1QqN4jyH2OTU"
     },
     {
-      "added_at": "2023-05-11 17:00:00",
+      "added_at": "2023-05-18 17:00:00",
       "album": {
         "name": "MR.MARIPOSA (feat. Kinder Bloomen)",
         "url": "https://open.spotify.com/album/3IuTpdxmQvltSh2DEYFRXn"
@@ -229,7 +245,7 @@
       "url": "https://open.spotify.com/track/4oo3ypLKPl3deKmVkPdqpx"
     },
     {
-      "added_at": "2023-05-11 17:00:00",
+      "added_at": "2023-05-18 17:00:00",
       "album": {
         "name": "Prologue",
         "url": "https://open.spotify.com/album/5xGgVRebfE9c1LkYPdK21s"
@@ -240,12 +256,12 @@
           "url": "https://open.spotify.com/artist/0kw7tMniMnrp9Pcr7vgDAm"
         }
       ],
-      "duration_ms": 219445,
-      "name": "Waktu Yang Hilang",
-      "url": "https://open.spotify.com/track/0Vk3H9BNPmaa6Be1RGpy4V"
+      "duration_ms": 242676,
+      "name": "Home",
+      "url": "https://open.spotify.com/track/3qe11lCOsFOHseZBUAxbzY"
     },
     {
-      "added_at": "2023-05-11 17:00:00",
+      "added_at": "2023-05-18 17:00:00",
       "album": {
         "name": "wonder in time",
         "url": "https://open.spotify.com/album/4rp85WPCI7BXYvDzEU5AgB"
@@ -261,7 +277,7 @@
       "url": "https://open.spotify.com/track/53CpvxwErRmB830L8BrpUL"
     },
     {
-      "added_at": "2023-05-11 17:00:00",
+      "added_at": "2023-05-18 17:00:00",
       "album": {
         "name": "Kamu Kurang Usaha",
         "url": "https://open.spotify.com/album/5eCGhOfeKF3PGDutfImNQd"
@@ -277,7 +293,7 @@
       "url": "https://open.spotify.com/track/2SmryvmzCMHQ4fjAf1mzmA"
     },
     {
-      "added_at": "2023-05-11 17:00:00",
+      "added_at": "2023-05-18 17:00:00",
       "album": {
         "name": "The Folk: Side A",
         "url": "https://open.spotify.com/album/2VyQdTnx5nwU97ZGb9J1qn"
@@ -293,7 +309,7 @@
       "url": "https://open.spotify.com/track/3T4FKXFkBOfohf1nrekWmX"
     },
     {
-      "added_at": "2023-05-11 17:00:00",
+      "added_at": "2023-05-18 17:00:00",
       "album": {
         "name": "KAWASAKI",
         "url": "https://open.spotify.com/album/44SgcdObjod1zClkfe5NoL"
@@ -309,159 +325,7 @@
       "url": "https://open.spotify.com/track/1E5gT3cRA3WuH9XDgVIPau"
     },
     {
-      "added_at": "2023-05-11 17:00:00",
-      "album": {
-        "name": "Cinta",
-        "url": "https://open.spotify.com/album/2YxMCx1GU7Mrhp4e3qaQgc"
-      },
-      "artists": [
-        {
-          "name": "Naura Ayu",
-          "url": "https://open.spotify.com/artist/319m3CeBHBZzYpVprhURJ2"
-        }
-      ],
-      "duration_ms": 174318,
-      "name": "Cinta",
-      "url": "https://open.spotify.com/track/3mvISqUBTqdxV0EYVCxpii"
-    },
-    {
-      "added_at": "2023-05-11 17:00:00",
-      "album": {
-        "name": "Terbuai Cinta Palsu",
-        "url": "https://open.spotify.com/album/0HLmj3fM9wlsqzNutT2AcP"
-      },
-      "artists": [
-        {
-          "name": "Maulana Ardiansyah",
-          "url": "https://open.spotify.com/artist/5slzK5PyXf1nxwlrlSj2La"
-        }
-      ],
-      "duration_ms": 296298,
-      "name": "Terbuai Cinta Palsu",
-      "url": "https://open.spotify.com/track/0Lp52eUNJAfjMVz7jzKOHp"
-    },
-    {
-      "added_at": "2023-05-11 17:00:00",
-      "album": {
-        "name": "Cara Mencintaimu",
-        "url": "https://open.spotify.com/album/5wmdiXrcZzB9frQXrzpuAF"
-      },
-      "artists": [
-        {
-          "name": "Anggi Marito",
-          "url": "https://open.spotify.com/artist/1JvbNeV9zG9Sew1JyaWsyx"
-        }
-      ],
-      "duration_ms": 272400,
-      "name": "Cara Mencintaimu",
-      "url": "https://open.spotify.com/track/4MrfQarlWb9JspRGRVki2x"
-    },
-    {
-      "added_at": "2023-05-11 17:00:00",
-      "album": {
-        "name": "Get Closer with For Revenge",
-        "url": "https://open.spotify.com/album/6S5wissFJVU7kyPv6O4sqd"
-      },
-      "artists": [
-        {
-          "name": "For Revenge",
-          "url": "https://open.spotify.com/artist/0f6TyESD8E1mD2oLJ4TGv1"
-        },
-        {
-          "name": "Stereo Wall",
-          "url": "https://open.spotify.com/artist/0kw7tMniMnrp9Pcr7vgDAm"
-        }
-      ],
-      "duration_ms": 217758,
-      "name": "Jakarta Hari Ini",
-      "url": "https://open.spotify.com/track/3OarBmsAVPJG42EVPWkTwh"
-    },
-    {
-      "added_at": "2023-05-11 17:00:00",
-      "album": {
-        "name": "wonder in time",
-        "url": "https://open.spotify.com/album/4rp85WPCI7BXYvDzEU5AgB"
-      },
-      "artists": [
-        {
-          "name": "Nadhif Basalamah",
-          "url": "https://open.spotify.com/artist/6UgERnTHmjk3qXM9x5vzyO"
-        }
-      ],
-      "duration_ms": 219246,
-      "name": "to be with me",
-      "url": "https://open.spotify.com/track/5OB6BoRXGsHSLxS6SOWSB5"
-    },
-    {
-      "added_at": "2023-05-11 17:00:00",
-      "album": {
-        "name": "terima kasih",
-        "url": "https://open.spotify.com/album/3YfSbSFwpbxxGb1wGl1H20"
-      },
-      "artists": [
-        {
-          "name": "Hal",
-          "url": "https://open.spotify.com/artist/5vTG3EyFrsARtIGDWZNRzu"
-        }
-      ],
-      "duration_ms": 204137,
-      "name": "terima kasih",
-      "url": "https://open.spotify.com/track/0JtEuERxvGfXYcg0ALOwPu"
-    },
-    {
-      "added_at": "2023-05-11 17:00:00",
-      "album": {
-        "name": "Prologue",
-        "url": "https://open.spotify.com/album/5xGgVRebfE9c1LkYPdK21s"
-      },
-      "artists": [
-        {
-          "name": "Stereo Wall",
-          "url": "https://open.spotify.com/artist/0kw7tMniMnrp9Pcr7vgDAm"
-        },
-        {
-          "name": "For Revenge",
-          "url": "https://open.spotify.com/artist/0f6TyESD8E1mD2oLJ4TGv1"
-        }
-      ],
-      "duration_ms": 197829,
-      "name": "Jaga Hati Ini",
-      "url": "https://open.spotify.com/track/1RV4ibzfQKOYisbT5GY3Mg"
-    },
-    {
-      "added_at": "2023-05-11 17:00:00",
-      "album": {
-        "name": "Menikmati Sedih",
-        "url": "https://open.spotify.com/album/6YvHggy1I85hyUcPw2uXpZ"
-      },
-      "artists": [
-        {
-          "name": "Naura Ayu",
-          "url": "https://open.spotify.com/artist/319m3CeBHBZzYpVprhURJ2"
-        }
-      ],
-      "duration_ms": 246511,
-      "name": "Menikmati Sedih",
-      "url": "https://open.spotify.com/track/2heuYHKwBHBPlZXwBzgPKR"
-    },
-    {
-      "added_at": "2023-05-11 17:00:00",
-      "album": {
-        "name": "Amin Kita Beda",
-        "url": "https://open.spotify.com/album/6U2e0q8eld9ufm7hQ9z6FL"
-      },
-      "artists": [
-        {
-          "name": "Awdella",
-          "url": "https://open.spotify.com/artist/2A7XpBQ8X227lVi5BphdPw"
-        }
-      ],
-      "duration_ms": 248096,
-      "name": "Amin Kita Beda",
-      "url": "https://open.spotify.com/track/4p1KGLLCWRPd83EMds7APR"
-    },
-    {
-      "added_at": "2023-05-11 17:00:00",
+      "added_at": "2023-05-18 17:00:00",
       "album": {
         "name": "MY FIRST FRIEND",
         "url": "https://open.spotify.com/album/3J2gpoA7AOnOOIMbNqMhBQ"
@@ -481,7 +345,159 @@
       "url": "https://open.spotify.com/track/3boTwjX5FdJerg6Il8MJ2E"
     },
     {
-      "added_at": "2023-05-11 17:00:00",
+      "added_at": "2023-05-18 17:00:00",
+      "album": {
+        "name": "Cinta",
+        "url": "https://open.spotify.com/album/2YxMCx1GU7Mrhp4e3qaQgc"
+      },
+      "artists": [
+        {
+          "name": "Naura Ayu",
+          "url": "https://open.spotify.com/artist/319m3CeBHBZzYpVprhURJ2"
+        }
+      ],
+      "duration_ms": 174318,
+      "name": "Cinta",
+      "url": "https://open.spotify.com/track/3mvISqUBTqdxV0EYVCxpii"
+    },
+    {
+      "added_at": "2023-05-18 17:00:00",
+      "album": {
+        "name": "Terbuai Cinta Palsu",
+        "url": "https://open.spotify.com/album/0HLmj3fM9wlsqzNutT2AcP"
+      },
+      "artists": [
+        {
+          "name": "Maulana Ardiansyah",
+          "url": "https://open.spotify.com/artist/5slzK5PyXf1nxwlrlSj2La"
+        }
+      ],
+      "duration_ms": 296298,
+      "name": "Terbuai Cinta Palsu",
+      "url": "https://open.spotify.com/track/0Lp52eUNJAfjMVz7jzKOHp"
+    },
+    {
+      "added_at": "2023-05-18 17:00:00",
+      "album": {
+        "name": "Cara Mencintaimu",
+        "url": "https://open.spotify.com/album/5wmdiXrcZzB9frQXrzpuAF"
+      },
+      "artists": [
+        {
+          "name": "Anggi Marito",
+          "url": "https://open.spotify.com/artist/1JvbNeV9zG9Sew1JyaWsyx"
+        }
+      ],
+      "duration_ms": 272400,
+      "name": "Cara Mencintaimu",
+      "url": "https://open.spotify.com/track/4MrfQarlWb9JspRGRVki2x"
+    },
+    {
+      "added_at": "2023-05-18 17:00:00",
+      "album": {
+        "name": "Get Closer with For Revenge",
+        "url": "https://open.spotify.com/album/6S5wissFJVU7kyPv6O4sqd"
+      },
+      "artists": [
+        {
+          "name": "For Revenge",
+          "url": "https://open.spotify.com/artist/0f6TyESD8E1mD2oLJ4TGv1"
+        },
+        {
+          "name": "Stereo Wall",
+          "url": "https://open.spotify.com/artist/0kw7tMniMnrp9Pcr7vgDAm"
+        }
+      ],
+      "duration_ms": 217758,
+      "name": "Jakarta Hari Ini",
+      "url": "https://open.spotify.com/track/3OarBmsAVPJG42EVPWkTwh"
+    },
+    {
+      "added_at": "2023-05-18 17:00:00",
+      "album": {
+        "name": "wonder in time",
+        "url": "https://open.spotify.com/album/4rp85WPCI7BXYvDzEU5AgB"
+      },
+      "artists": [
+        {
+          "name": "Nadhif Basalamah",
+          "url": "https://open.spotify.com/artist/6UgERnTHmjk3qXM9x5vzyO"
+        }
+      ],
+      "duration_ms": 219246,
+      "name": "to be with me",
+      "url": "https://open.spotify.com/track/5OB6BoRXGsHSLxS6SOWSB5"
+    },
+    {
+      "added_at": "2023-05-18 17:00:00",
+      "album": {
+        "name": "terima kasih",
+        "url": "https://open.spotify.com/album/3YfSbSFwpbxxGb1wGl1H20"
+      },
+      "artists": [
+        {
+          "name": "Hal",
+          "url": "https://open.spotify.com/artist/5vTG3EyFrsARtIGDWZNRzu"
+        }
+      ],
+      "duration_ms": 204137,
+      "name": "terima kasih",
+      "url": "https://open.spotify.com/track/0JtEuERxvGfXYcg0ALOwPu"
+    },
+    {
+      "added_at": "2023-05-18 17:00:00",
+      "album": {
+        "name": "Prologue",
+        "url": "https://open.spotify.com/album/5xGgVRebfE9c1LkYPdK21s"
+      },
+      "artists": [
+        {
+          "name": "Stereo Wall",
+          "url": "https://open.spotify.com/artist/0kw7tMniMnrp9Pcr7vgDAm"
+        },
+        {
+          "name": "For Revenge",
+          "url": "https://open.spotify.com/artist/0f6TyESD8E1mD2oLJ4TGv1"
+        }
+      ],
+      "duration_ms": 197829,
+      "name": "Jaga Hati Ini",
+      "url": "https://open.spotify.com/track/1RV4ibzfQKOYisbT5GY3Mg"
+    },
+    {
+      "added_at": "2023-05-18 17:00:00",
+      "album": {
+        "name": "Menikmati Sedih",
+        "url": "https://open.spotify.com/album/6YvHggy1I85hyUcPw2uXpZ"
+      },
+      "artists": [
+        {
+          "name": "Naura Ayu",
+          "url": "https://open.spotify.com/artist/319m3CeBHBZzYpVprhURJ2"
+        }
+      ],
+      "duration_ms": 246511,
+      "name": "Menikmati Sedih",
+      "url": "https://open.spotify.com/track/2heuYHKwBHBPlZXwBzgPKR"
+    },
+    {
+      "added_at": "2023-05-18 17:00:00",
+      "album": {
+        "name": "Amin Kita Beda",
+        "url": "https://open.spotify.com/album/6U2e0q8eld9ufm7hQ9z6FL"
+      },
+      "artists": [
+        {
+          "name": "Awdella",
+          "url": "https://open.spotify.com/artist/2A7XpBQ8X227lVi5BphdPw"
+        }
+      ],
+      "duration_ms": 248096,
+      "name": "Amin Kita Beda",
+      "url": "https://open.spotify.com/track/4p1KGLLCWRPd83EMds7APR"
+    },
+    {
+      "added_at": "2023-05-18 17:00:00",
       "album": {
         "name": "Cinta Air Mata",
         "url": "https://open.spotify.com/album/7LdARvPk1Wms5pKXqP5UUp"

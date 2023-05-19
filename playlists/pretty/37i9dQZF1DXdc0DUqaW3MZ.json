@@ -1,12 +1,12 @@
 {
   "description": "Soul, R'n'B all with a tinge of electronic goodness. Cover: Jitwam",
-  "num_followers": 304632,
+  "num_followers": 304790,
   "original_name": "Soultronic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyMDQ1NDcxYzlhMmZlZmYyZjRiYWRjOWNmZTJmNGRjYWY2NzYyNDdk",
+  "snapshot_id": "MCw2ZDkzOGI3NTlkNGMyZjliNmM3NTMxNjk2ZjM2MGRhNzEwNmMwNGY5",
   "tracks": [
     {
       "added_at": "2022-06-20 14:19:42",
@@ -739,6 +739,22 @@
     {
       "added_at": "2022-06-20 14:19:42",
       "album": {
+        "name": "Be Patient",
+        "url": "https://open.spotify.com/album/1308SRdLd2pP79I3DBnr4a"
+      },
+      "artists": [
+        {
+          "name": "Loverground",
+          "url": "https://open.spotify.com/artist/3SvoerawAn5RAZ2N9osc3z"
+        }
+      ],
+      "duration_ms": 216793,
+      "name": "Be Patient",
+      "url": "https://open.spotify.com/track/0HWtI9cjfnVzU0q3hHc0ph"
+    },
+    {
+      "added_at": "2022-06-20 14:19:42",
+      "album": {
         "name": "You Could Be",
         "url": "https://open.spotify.com/album/32bdwKmh9xPoBmYlCjNNZI"
       },
@@ -755,22 +771,6 @@
       "duration_ms": 218024,
       "name": "You Could Be",
       "url": "https://open.spotify.com/track/56tNMHvbcFPvYiDxA7xROH"
-    },
-    {
-      "added_at": "2022-06-20 14:19:42",
-      "album": {
-        "name": "Be Patient",
-        "url": "https://open.spotify.com/album/1308SRdLd2pP79I3DBnr4a"
-      },
-      "artists": [
-        {
-          "name": "Loverground",
-          "url": "https://open.spotify.com/artist/3SvoerawAn5RAZ2N9osc3z"
-        }
-      ],
-      "duration_ms": 216793,
-      "name": "Be Patient",
-      "url": "https://open.spotify.com/track/0HWtI9cjfnVzU0q3hHc0ph"
     },
     {
       "added_at": "2022-06-20 14:19:42",
@@ -807,26 +807,6 @@
     {
       "added_at": "2022-06-20 14:19:42",
       "album": {
-        "name": "We Are",
-        "url": "https://open.spotify.com/album/15Q6QHhdfU3q7hFLVPqMps"
-      },
-      "artists": [
-        {
-          "name": "2fox",
-          "url": "https://open.spotify.com/artist/4E9diB5Z272adMK6Hnn5c0"
-        },
-        {
-          "name": "Afronaut Zu",
-          "url": "https://open.spotify.com/artist/7bToOjUrX6hknJQDN9NSsJ"
-        }
-      ],
-      "duration_ms": 255500,
-      "name": "We Are",
-      "url": "https://open.spotify.com/track/6s5AiGzj0il15KrBOlOKp6"
-    },
-    {
-      "added_at": "2022-06-20 14:19:42",
-      "album": {
         "name": "Rendezvous (with Miraa May)",
         "url": "https://open.spotify.com/album/4eAgNJFr1l00Lmm0CyPios"
       },
@@ -843,6 +823,26 @@
       "duration_ms": 150783,
       "name": "Rendezvous (with Miraa May)",
       "url": "https://open.spotify.com/track/5JPF1NwO99YaxEF7AYFa0Z"
+    },
+    {
+      "added_at": "2022-06-20 14:19:42",
+      "album": {
+        "name": "We Are",
+        "url": "https://open.spotify.com/album/15Q6QHhdfU3q7hFLVPqMps"
+      },
+      "artists": [
+        {
+          "name": "2fox",
+          "url": "https://open.spotify.com/artist/4E9diB5Z272adMK6Hnn5c0"
+        },
+        {
+          "name": "Afronaut Zu",
+          "url": "https://open.spotify.com/artist/7bToOjUrX6hknJQDN9NSsJ"
+        }
+      ],
+      "duration_ms": 255500,
+      "name": "We Are",
+      "url": "https://open.spotify.com/track/6s5AiGzj0il15KrBOlOKp6"
     },
     {
       "added_at": "2022-06-20 14:19:42",
@@ -1155,6 +1155,22 @@
     {
       "added_at": "2022-06-20 14:19:42",
       "album": {
+        "name": "Only Diamonds Cut Diamonds",
+        "url": "https://open.spotify.com/album/3UlMZUzswHGJKzPigY936g"
+      },
+      "artists": [
+        {
+          "name": "Vegyn",
+          "url": "https://open.spotify.com/artist/5iUnvXddCpOrbWKm7QMr6o"
+        }
+      ],
+      "duration_ms": 163973,
+      "name": "Debold",
+      "url": "https://open.spotify.com/track/249L7XvMpl08wN5vhivz1j"
+    },
+    {
+      "added_at": "2022-06-20 14:19:42",
+      "album": {
         "name": "All Mine",
         "url": "https://open.spotify.com/album/5f8K5fNhOZA4vngAQFLxLO"
       },
@@ -1171,22 +1187,6 @@
       "duration_ms": 148529,
       "name": "All Mine",
       "url": "https://open.spotify.com/track/6kZxHggJRCkFFaaf8p5KKt"
-    },
-    {
-      "added_at": "2022-06-20 14:19:42",
-      "album": {
-        "name": "Only Diamonds Cut Diamonds",
-        "url": "https://open.spotify.com/album/3UlMZUzswHGJKzPigY936g"
-      },
-      "artists": [
-        {
-          "name": "Vegyn",
-          "url": "https://open.spotify.com/artist/5iUnvXddCpOrbWKm7QMr6o"
-        }
-      ],
-      "duration_ms": 163973,
-      "name": "Debold",
-      "url": "https://open.spotify.com/track/249L7XvMpl08wN5vhivz1j"
     },
     {
       "added_at": "2022-06-20 14:19:42",

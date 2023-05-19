@@ -1,29 +1,13 @@
 {
   "description": "Get the chill vibes going and flowing \u2728 Las vibras tranqui que ocupas en tu vida.",
-  "num_followers": 656218,
+  "num_followers": 656308,
   "original_name": "Chill Latino",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmMDI3ZGU1ZGVlMmNkMDUwN2NhM2I3NzZlZWQ1NTY3NTkxMzgxMTNj",
+  "snapshot_id": "MCxmMDM4NThlODNlMjM0MjlhZjdjNWM2ZjcwODE4MGQyNDVlMzRiODZk",
   "tracks": [
-    {
-      "added_at": "2023-05-12 04:01:00",
-      "album": {
-        "name": "Plegarias (Ac\u00fastico Premios Gardel 2020)",
-        "url": "https://open.spotify.com/album/63FCLdOda9dZy1SzHVYwAS"
-      },
-      "artists": [
-        {
-          "name": "Nicki Nicole",
-          "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
-        }
-      ],
-      "duration_ms": 179393,
-      "name": "Plegarias - Ac\u00fastico Premios Gardel 2020",
-      "url": "https://open.spotify.com/track/7L9iiGbLG2zyjS8KR74MoC"
-    },
     {
       "added_at": "2023-05-12 04:01:00",
       "album": {
@@ -39,6 +23,22 @@
       "duration_ms": 160399,
       "name": "Bomb\u00f3n",
       "url": "https://open.spotify.com/track/0nhckEPANmrYlBOPCB0pxT"
+    },
+    {
+      "added_at": "2023-05-12 04:01:00",
+      "album": {
+        "name": "Plegarias (Ac\u00fastico Premios Gardel 2020)",
+        "url": "https://open.spotify.com/album/63FCLdOda9dZy1SzHVYwAS"
+      },
+      "artists": [
+        {
+          "name": "Nicki Nicole",
+          "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
+        }
+      ],
+      "duration_ms": 179393,
+      "name": "Plegarias - Ac\u00fastico Premios Gardel 2020",
+      "url": "https://open.spotify.com/track/7L9iiGbLG2zyjS8KR74MoC"
     },
     {
       "added_at": "2023-05-12 04:01:00",
@@ -727,22 +727,6 @@
     {
       "added_at": "2023-05-12 04:01:00",
       "album": {
-        "name": "Handful of Water",
-        "url": "https://open.spotify.com/album/5gKo806XuvISRGyMoNlR3N"
-      },
-      "artists": [
-        {
-          "name": "Sof\u00eda Vald\u00e9s",
-          "url": "https://open.spotify.com/artist/0caswMNVJ7vPNC1Z7NOeCT"
-        }
-      ],
-      "duration_ms": 151746,
-      "name": "Handful of Water",
-      "url": "https://open.spotify.com/track/4jyiop97KBE8cDN5HwvKnB"
-    },
-    {
-      "added_at": "2023-05-12 04:01:00",
-      "album": {
         "name": "Canciones Que Hice en Mi Habitaci\u00f3n",
         "url": "https://open.spotify.com/album/0RszZKHUVrUvtiaJZIVLcn"
       },
@@ -755,6 +739,22 @@
       "duration_ms": 183000,
       "name": "Solo Me Quieres Cuando Est\u00e1s Triste",
       "url": "https://open.spotify.com/track/3g8vUQKuz1k5FIxxASjyS1"
+    },
+    {
+      "added_at": "2023-05-12 04:01:00",
+      "album": {
+        "name": "Handful of Water",
+        "url": "https://open.spotify.com/album/5gKo806XuvISRGyMoNlR3N"
+      },
+      "artists": [
+        {
+          "name": "Sof\u00eda Vald\u00e9s",
+          "url": "https://open.spotify.com/artist/0caswMNVJ7vPNC1Z7NOeCT"
+        }
+      ],
+      "duration_ms": 151746,
+      "name": "Handful of Water",
+      "url": "https://open.spotify.com/track/4jyiop97KBE8cDN5HwvKnB"
     },
     {
       "added_at": "2023-05-12 04:01:00",
@@ -1037,7 +1037,7 @@
         }
       ],
       "duration_ms": 209464,
-      "name": "See Me Now",
+      "name": "see me now",
       "url": "https://open.spotify.com/track/6zC9BpkTlnxeLkC2x9aQyb"
     },
     {
@@ -1107,6 +1107,22 @@
     {
       "added_at": "2023-05-12 04:01:00",
       "album": {
+        "name": "Visa",
+        "url": "https://open.spotify.com/album/3d77pCQ3luC9ZkqQZhE45o"
+      },
+      "artists": [
+        {
+          "name": "Noreh",
+          "url": "https://open.spotify.com/artist/1JHgX0v8Dx86wpfQkZuJFg"
+        }
+      ],
+      "duration_ms": 187386,
+      "name": "Visa",
+      "url": "https://open.spotify.com/track/0LpaAAP3MhLIX28nJGKAvd"
+    },
+    {
+      "added_at": "2023-05-12 04:01:00",
+      "album": {
         "name": "Soy capaz",
         "url": "https://open.spotify.com/album/0iRDEkUzhawgH0wKfIW5iT"
       },
@@ -1155,38 +1171,6 @@
       "duration_ms": 231936,
       "name": "Hablo Con Vos (feat. Nahuel Barbero)",
       "url": "https://open.spotify.com/track/54HUyDF7rL85evFE2PLYKu"
-    },
-    {
-      "added_at": "2023-05-12 04:01:00",
-      "album": {
-        "name": "Visa",
-        "url": "https://open.spotify.com/album/3d77pCQ3luC9ZkqQZhE45o"
-      },
-      "artists": [
-        {
-          "name": "Noreh",
-          "url": "https://open.spotify.com/artist/1JHgX0v8Dx86wpfQkZuJFg"
-        }
-      ],
-      "duration_ms": 187386,
-      "name": "Visa",
-      "url": "https://open.spotify.com/track/0LpaAAP3MhLIX28nJGKAvd"
-    },
-    {
-      "added_at": "2023-05-12 04:01:00",
-      "album": {
-        "name": "VELOZzzz",
-        "url": "https://open.spotify.com/album/2VMx5vYoiUwABFtxhXmqFN"
-      },
-      "artists": [
-        {
-          "name": "Ingratax",
-          "url": "https://open.spotify.com/artist/62YF0FglEltB3CnVIjoko8"
-        }
-      ],
-      "duration_ms": 184888,
-      "name": "VELOZzzz",
-      "url": "https://open.spotify.com/track/7lGrtzbEsxfKyBW1El2l97"
     },
     {
       "added_at": "2023-05-12 04:01:00",
@@ -1243,6 +1227,22 @@
     {
       "added_at": "2023-05-12 04:01:00",
       "album": {
+        "name": "VELOZzzz",
+        "url": "https://open.spotify.com/album/2VMx5vYoiUwABFtxhXmqFN"
+      },
+      "artists": [
+        {
+          "name": "Ingratax",
+          "url": "https://open.spotify.com/artist/62YF0FglEltB3CnVIjoko8"
+        }
+      ],
+      "duration_ms": 184888,
+      "name": "VELOZzzz",
+      "url": "https://open.spotify.com/track/7lGrtzbEsxfKyBW1El2l97"
+    },
+    {
+      "added_at": "2023-05-12 04:01:00",
+      "album": {
         "name": "Paralizado",
         "url": "https://open.spotify.com/album/2MdDdIH9TlOkMeQztj5rLa"
       },
@@ -1291,6 +1291,26 @@
     {
       "added_at": "2023-05-12 04:01:00",
       "album": {
+        "name": "Qu\u00e9 Dulce",
+        "url": "https://open.spotify.com/album/0ne8odvK5xWK613ruve7X5"
+      },
+      "artists": [
+        {
+          "name": "Jorge Caj\u00edas",
+          "url": "https://open.spotify.com/artist/2z2C1fMK0nlrWR2pGqfdNe"
+        },
+        {
+          "name": "Claudia Prieto",
+          "url": "https://open.spotify.com/artist/3sjhqldeYK5lqWkyefb1jG"
+        }
+      ],
+      "duration_ms": 133666,
+      "name": "Qu\u00e9 Dulce",
+      "url": "https://open.spotify.com/track/6xrBdJISdw3WTMtJVxll7W"
+    },
+    {
+      "added_at": "2023-05-12 04:01:00",
+      "album": {
         "name": "la vida viene y va",
         "url": "https://open.spotify.com/album/1q1rdMR7YiHXBP4ccFfLIW"
       },
@@ -1311,26 +1331,6 @@
       "duration_ms": 215872,
       "name": "la vida viene y va",
       "url": "https://open.spotify.com/track/7DJr2YQild4RF5EEJTVoMN"
-    },
-    {
-      "added_at": "2023-05-12 04:01:00",
-      "album": {
-        "name": "Qu\u00e9 Dulce",
-        "url": "https://open.spotify.com/album/0ne8odvK5xWK613ruve7X5"
-      },
-      "artists": [
-        {
-          "name": "Jorge Caj\u00edas",
-          "url": "https://open.spotify.com/artist/2z2C1fMK0nlrWR2pGqfdNe"
-        },
-        {
-          "name": "Claudia Prieto",
-          "url": "https://open.spotify.com/artist/3sjhqldeYK5lqWkyefb1jG"
-        }
-      ],
-      "duration_ms": 133666,
-      "name": "Qu\u00e9 Dulce",
-      "url": "https://open.spotify.com/track/6xrBdJISdw3WTMtJVxll7W"
     },
     {
       "added_at": "2023-05-12 04:01:00",
@@ -1491,22 +1491,6 @@
     {
       "added_at": "2023-05-12 04:01:00",
       "album": {
-        "name": "no est\u00e1s",
-        "url": "https://open.spotify.com/album/7CBHvoGmfRDfC9lqFUIeFc"
-      },
-      "artists": [
-        {
-          "name": "daniel sabater",
-          "url": "https://open.spotify.com/artist/5yTNm3JFNfBa79zLIRKVwN"
-        }
-      ],
-      "duration_ms": 164369,
-      "name": "no est\u00e1s",
-      "url": "https://open.spotify.com/track/7itgLKp7i4CmGi0FglXcbP"
-    },
-    {
-      "added_at": "2023-05-12 04:01:00",
-      "album": {
         "name": "GOTEO",
         "url": "https://open.spotify.com/album/5ItnrdKLPrJzahQHZwjmYy"
       },
@@ -1519,6 +1503,22 @@
       "duration_ms": 230540,
       "name": "MI TODO",
       "url": "https://open.spotify.com/track/7tpc8frJ3Kcm5Epq6VHeeP"
+    },
+    {
+      "added_at": "2023-05-12 04:01:00",
+      "album": {
+        "name": "no est\u00e1s",
+        "url": "https://open.spotify.com/album/7CBHvoGmfRDfC9lqFUIeFc"
+      },
+      "artists": [
+        {
+          "name": "daniel sabater",
+          "url": "https://open.spotify.com/artist/5yTNm3JFNfBa79zLIRKVwN"
+        }
+      ],
+      "duration_ms": 164369,
+      "name": "no est\u00e1s",
+      "url": "https://open.spotify.com/track/7itgLKp7i4CmGi0FglXcbP"
     },
     {
       "added_at": "2023-05-12 04:01:00",
@@ -1639,6 +1639,22 @@
     {
       "added_at": "2023-05-12 04:01:00",
       "album": {
+        "name": "LOS FELIZ",
+        "url": "https://open.spotify.com/album/390uWKDSYJdCxX0dYebMyJ"
+      },
+      "artists": [
+        {
+          "name": "Marco Mares",
+          "url": "https://open.spotify.com/artist/5Eg5ZoZgXAa1Eit48sxoKQ"
+        }
+      ],
+      "duration_ms": 93106,
+      "name": "superman",
+      "url": "https://open.spotify.com/track/3mK0PbFWTRg6lJrrFoF93t"
+    },
+    {
+      "added_at": "2023-05-12 04:01:00",
+      "album": {
         "name": "Somos Nada",
         "url": "https://open.spotify.com/album/5m1jCoLncBreQFQOaUK3Zl"
       },
@@ -1699,22 +1715,6 @@
       "duration_ms": 169400,
       "name": "Reconciliados",
       "url": "https://open.spotify.com/track/1udMSoGRgHpRvPMqCuc4m2"
-    },
-    {
-      "added_at": "2023-05-12 04:01:00",
-      "album": {
-        "name": "LOS FELIZ",
-        "url": "https://open.spotify.com/album/390uWKDSYJdCxX0dYebMyJ"
-      },
-      "artists": [
-        {
-          "name": "Marco Mares",
-          "url": "https://open.spotify.com/artist/5Eg5ZoZgXAa1Eit48sxoKQ"
-        }
-      ],
-      "duration_ms": 93106,
-      "name": "superman",
-      "url": "https://open.spotify.com/track/3mK0PbFWTRg6lJrrFoF93t"
     },
     {
       "added_at": "2023-05-12 04:01:00",

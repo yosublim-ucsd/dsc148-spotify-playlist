@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX10A9MXc7csF.md) - [plain]
 
 > The new school of Música Mexicana\. Cover: ERRE
 
-[Spotify](https://open.spotify.com/user/spotify) - 98,960 likes - 80 songs - 4 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 98,983 likes - 80 songs - 4 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,8 +52,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX10A9MXc7csF.md) - [plain]
 | 42 | [NO SE VA](https://open.spotify.com/track/15zTvIhkmoEiCJU1dcagkd) | [juanitoo2x](https://open.spotify.com/artist/73URHaZxYQMyyiVqxKfBDf) | [NO SE VA](https://open.spotify.com/album/5z76Ks0UDPdGBXNwDbd3X4) | 4:11 |
 | 43 | [Blanco Y Negro](https://open.spotify.com/track/3h5BJzVXakNbLvKY3oqNKd) | [Dano Arias](https://open.spotify.com/artist/1AiUJjP4nxM9KIqsFjxMVT), [ERRE](https://open.spotify.com/artist/5OugQZ3PqgRofo9mtzVYN3) | [Blanco Y Negro](https://open.spotify.com/album/4tjuJwbsp4c8zMFUErJpqR) | 3:04 |
 | 44 | [En La Silverado](https://open.spotify.com/track/3PIW7q3bP7X7v1MklN8OyZ) | [Ruben Figueroa](https://open.spotify.com/artist/39sUQ6z3CTsNB4BhBecLOg) | [En La Silverado](https://open.spotify.com/album/1x92lDuGuSiZ4tsSXbIaMi) | 2:50 |
-| 45 | [Si No Te Hubieras Ido](https://open.spotify.com/track/6R5QRhLTTk2KetYpu6H5O7) | [Porte Diferente](https://open.spotify.com/artist/1OZhgL2E9qx49PhVzWRcuf) | [Si No Te Hubieras Ido](https://open.spotify.com/album/2ZOR1A4L2hCEiyXnx6DImD) | 4:52 |
-| 46 | [El E](https://open.spotify.com/track/6AgCihW2mcPi2zKx4jqnW0) | [Miguel Gonzalez](https://open.spotify.com/artist/52rF45lF0ha4SpTpMR2VDT), [Javier Olguin](https://open.spotify.com/artist/0J1tT084sFNdnKD6nW11Xt) | [El E](https://open.spotify.com/album/53IaApkElVU8RnqPwFFxF1) | 3:03 |
+| 45 | [El E](https://open.spotify.com/track/6AgCihW2mcPi2zKx4jqnW0) | [Miguel Gonzalez](https://open.spotify.com/artist/52rF45lF0ha4SpTpMR2VDT), [Javier Olguin](https://open.spotify.com/artist/0J1tT084sFNdnKD6nW11Xt) | [El E](https://open.spotify.com/album/53IaApkElVU8RnqPwFFxF1) | 3:03 |
+| 46 | [Si No Te Hubieras Ido](https://open.spotify.com/track/6R5QRhLTTk2KetYpu6H5O7) | [Porte Diferente](https://open.spotify.com/artist/1OZhgL2E9qx49PhVzWRcuf) | [Si No Te Hubieras Ido](https://open.spotify.com/album/2ZOR1A4L2hCEiyXnx6DImD) | 4:52 |
 | 47 | [En El Refuego \- En Vivo](https://open.spotify.com/track/1fJQRPzVVLNQZBYWelnL94) | [Cuatro De Oro](https://open.spotify.com/artist/5jY3TOEPLD2fIt4hipYCU9) | [Paso A Paso \(En Vivo\)](https://open.spotify.com/album/14BlR5eufuicsQW8uDZD4n) | 1:57 |
 | 48 | [Tu Labial](https://open.spotify.com/track/3vz0ZD15RxM2HNCGgrVrVc) | [Los Aptos](https://open.spotify.com/artist/4tenlYn9MG8Fda3OyDtPRO) | [Tu Labial](https://open.spotify.com/album/6kXbu3L1IVJZhGqsogGTWx) | 3:47 |
 | 49 | [Tiempos de Guerra 2](https://open.spotify.com/track/4kJRKCLMTxH7So06NCw4lc) | [Yerai R](https://open.spotify.com/artist/1d9KyLzLJGWNVuWjNH4WmY) | [Tiempos de Guerra 2](https://open.spotify.com/album/0YoXahIgRgGAhJmIN6kfIa) | 2:51 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX10A9MXc7csF.md) - [plain]
 | 79 | [Roll It](https://open.spotify.com/track/1rmkdRN6cMTLEgVlrl2fVK) | [Jay Sánchez](https://open.spotify.com/artist/3KWXqSfNmUT0fdjBmTisCJ) | [Roll It](https://open.spotify.com/album/3oLDxDpjzpNPOU8KdzUjx4) | 2:56 |
 | 80 | [Tus Fotos](https://open.spotify.com/track/4C4USvr4GemqacUhUZ3Km9) | [Ehlyan Chacon](https://open.spotify.com/artist/2D2fre4AIeXh7bw4oo2A5V) | [Tus Fotos](https://open.spotify.com/album/6pWbGCNM2ebZP0Ja7xWAhu) | 2:36 |
 
-Snapshot ID: `MCxlYmIwNWM3MzkzZGE1MTgxNmYxZGY2ZTNlMDM2MjViMTNjMTRkMWQw`
+Snapshot ID: `MCw5NmIwNDMxOTM0NmQ0NDQ0OWI1MmU1MjQyZjZkNDc3OTk0ZTZlZjBh`

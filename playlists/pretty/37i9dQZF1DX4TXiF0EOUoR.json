@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Los reyes del jaripeo!",
-  "num_followers": 127678,
+  "num_followers": 127811,
   "original_name": "Jaripeo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4Y2JkOTRjZTM5MjQ5YzlhZTQzN2UxMWRkNDgxMTBlM2FhYjA3ZmUw",
+  "snapshot_id": "MCxmOTcxNjViMmQyY2RiNGFkMWIyNzMwNDE5ZDE0NzhmNjQ5YmIzNjNh",
   "tracks": [
     {
       "added_at": "2022-12-30 18:59:47",
@@ -319,22 +319,6 @@
     {
       "added_at": "2022-12-30 18:59:47",
       "album": {
-        "name": "Ra\u00edces",
-        "url": "https://open.spotify.com/album/3P0x6Hb7bQmv3mAHZ3M4Pl"
-      },
-      "artists": [
-        {
-          "name": "Banda El Recodo",
-          "url": "https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC"
-        }
-      ],
-      "duration_ms": 113306,
-      "name": "El Sinaloense",
-      "url": "https://open.spotify.com/track/57qATI59zt97GfYpac1FoS"
-    },
-    {
-      "added_at": "2022-12-30 18:59:47",
-      "album": {
         "name": "Vencedor",
         "url": "https://open.spotify.com/album/4cPRux21b3M1X668qR5lZ3"
       },
@@ -347,6 +331,22 @@
       "duration_ms": 219480,
       "name": "C\u00f3mo Me Duele",
       "url": "https://open.spotify.com/track/50GRxHQ3cW2yBmlPIF9urf"
+    },
+    {
+      "added_at": "2022-12-30 18:59:47",
+      "album": {
+        "name": "Ra\u00edces",
+        "url": "https://open.spotify.com/album/3P0x6Hb7bQmv3mAHZ3M4Pl"
+      },
+      "artists": [
+        {
+          "name": "Banda El Recodo",
+          "url": "https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC"
+        }
+      ],
+      "duration_ms": 113306,
+      "name": "El Sinaloense",
+      "url": "https://open.spotify.com/track/57qATI59zt97GfYpac1FoS"
     },
     {
       "added_at": "2022-12-30 18:59:47",
@@ -435,18 +435,18 @@
     {
       "added_at": "2022-12-30 18:59:47",
       "album": {
-        "name": "Que Bonito Es Lo Bonito",
-        "url": "https://open.spotify.com/album/1Bnb8merB3783bs12XA2Fl"
+        "name": "Banda La Jaripera Vol.1",
+        "url": "https://open.spotify.com/album/0GAamZXoKD58SatXppxSSn"
       },
       "artists": [
         {
-          "name": "Banda El Recodo",
-          "url": "https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC"
+          "name": "Banda La Jaripera",
+          "url": "https://open.spotify.com/artist/5uZqerP5PYAlfakWKAU5DX"
         }
       ],
-      "duration_ms": 166093,
-      "name": "El Ahualulco",
-      "url": "https://open.spotify.com/track/1tcHkEZH1FoYEFmEpDIJp1"
+      "duration_ms": 145520,
+      "name": "Arriba Pichataro",
+      "url": "https://open.spotify.com/track/2LlavtI2ZyzTEEgPwOXrLg"
     },
     {
       "added_at": "2022-12-30 18:59:47",
@@ -467,22 +467,6 @@
     {
       "added_at": "2022-12-30 18:59:47",
       "album": {
-        "name": "Banda La Jaripera Vol.1",
-        "url": "https://open.spotify.com/album/0GAamZXoKD58SatXppxSSn"
-      },
-      "artists": [
-        {
-          "name": "Banda La Jaripera",
-          "url": "https://open.spotify.com/artist/5uZqerP5PYAlfakWKAU5DX"
-        }
-      ],
-      "duration_ms": 145520,
-      "name": "Arriba Pichataro",
-      "url": "https://open.spotify.com/track/2LlavtI2ZyzTEEgPwOXrLg"
-    },
-    {
-      "added_at": "2022-12-30 18:59:47",
-      "album": {
         "name": "Carnavaleando con la Tierra Mojada",
         "url": "https://open.spotify.com/album/5znsyujVo3YajOYUiSUdnQ"
       },
@@ -495,6 +479,22 @@
       "duration_ms": 224722,
       "name": "Flor de Pi\u00f1a",
       "url": "https://open.spotify.com/track/4j9dUECjcbldf719yKz3LO"
+    },
+    {
+      "added_at": "2022-12-30 18:59:47",
+      "album": {
+        "name": "Que Bonito Es Lo Bonito",
+        "url": "https://open.spotify.com/album/1Bnb8merB3783bs12XA2Fl"
+      },
+      "artists": [
+        {
+          "name": "Banda El Recodo",
+          "url": "https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC"
+        }
+      ],
+      "duration_ms": 166093,
+      "name": "El Ahualulco",
+      "url": "https://open.spotify.com/track/1tcHkEZH1FoYEFmEpDIJp1"
     },
     {
       "added_at": "2022-12-30 18:59:47",
@@ -567,6 +567,22 @@
     {
       "added_at": "2022-12-30 18:59:47",
       "album": {
+        "name": "Esta...Si! Es Banda! Pegando Con Tubo",
+        "url": "https://open.spotify.com/album/3tDLvbl80Ocw30ZSAJZBP5"
+      },
+      "artists": [
+        {
+          "name": "Banda El Recodo",
+          "url": "https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC"
+        }
+      ],
+      "duration_ms": 159706,
+      "name": "El Jaripeo",
+      "url": "https://open.spotify.com/track/121OuFnnXX59x9wgf3pFyU"
+    },
+    {
+      "added_at": "2022-12-30 18:59:47",
+      "album": {
         "name": "Puras Pa'levantar la Polvadera",
         "url": "https://open.spotify.com/album/6acbGb816Kw2vWjPL5uC2F"
       },
@@ -595,22 +611,6 @@
       "duration_ms": 129560,
       "name": "El Son de los Aguacates",
       "url": "https://open.spotify.com/track/4HMxfNzokt7s7zPFN0LdI1"
-    },
-    {
-      "added_at": "2022-12-30 18:59:47",
-      "album": {
-        "name": "Esta...Si! Es Banda! Pegando Con Tubo",
-        "url": "https://open.spotify.com/album/3tDLvbl80Ocw30ZSAJZBP5"
-      },
-      "artists": [
-        {
-          "name": "Banda El Recodo",
-          "url": "https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC"
-        }
-      ],
-      "duration_ms": 159706,
-      "name": "El Jaripeo",
-      "url": "https://open.spotify.com/track/121OuFnnXX59x9wgf3pFyU"
     },
     {
       "added_at": "2022-12-30 18:59:47",
@@ -647,22 +647,6 @@
     {
       "added_at": "2022-12-30 18:59:47",
       "album": {
-        "name": "La Parranda De Los Amigos (Vol. 1 / En Vivo)",
-        "url": "https://open.spotify.com/album/4KU1Pj7yeo1eH0edQFuSlB"
-      },
-      "artists": [
-        {
-          "name": "Chuy Lizarraga y Su Banda Tierra Sinaloense",
-          "url": "https://open.spotify.com/artist/1DA8SLXtp8MMVpgaOWzMQr"
-        }
-      ],
-      "duration_ms": 441000,
-      "name": "Medley: El Olotito / El Toro Viejo / El Sinaloense / La Imagen De Malverde - En Vivo",
-      "url": "https://open.spotify.com/track/4QaZC2yYRWx60342ibZBsT"
-    },
-    {
-      "added_at": "2022-12-30 18:59:47",
-      "album": {
         "name": "Una No Es Ninguna",
         "url": "https://open.spotify.com/album/2EeImPwr3AOR36TWNECKAw"
       },
@@ -675,6 +659,22 @@
       "duration_ms": 251933,
       "name": "Popurri Fregon: Carnaval, El Buey De La Barranca, Serian Las Dos, La Mariguana",
       "url": "https://open.spotify.com/track/5Kv8b5skMVvucgC4Ca6lHD"
+    },
+    {
+      "added_at": "2022-12-30 18:59:47",
+      "album": {
+        "name": "La Parranda De Los Amigos (Vol. 1 / En Vivo)",
+        "url": "https://open.spotify.com/album/4KU1Pj7yeo1eH0edQFuSlB"
+      },
+      "artists": [
+        {
+          "name": "Chuy Lizarraga y Su Banda Tierra Sinaloense",
+          "url": "https://open.spotify.com/artist/1DA8SLXtp8MMVpgaOWzMQr"
+        }
+      ],
+      "duration_ms": 441000,
+      "name": "Medley: El Olotito / El Toro Viejo / El Sinaloense / La Imagen De Malverde - En Vivo",
+      "url": "https://open.spotify.com/track/4QaZC2yYRWx60342ibZBsT"
     },
     {
       "added_at": "2022-12-30 18:59:47",
@@ -695,22 +695,6 @@
     {
       "added_at": "2022-12-30 18:59:47",
       "album": {
-        "name": "Con La No. 1: Del Pueblo...y Para El Pueblo",
-        "url": "https://open.spotify.com/album/67KfLdhQa8X7kI1XM8eJaw"
-      },
-      "artists": [
-        {
-          "name": "Banda El Recodo",
-          "url": "https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC"
-        }
-      ],
-      "duration_ms": 145600,
-      "name": "Los Viejitos",
-      "url": "https://open.spotify.com/track/5vPs4SzqY50SpASVQ8Ez9s"
-    },
-    {
-      "added_at": "2022-12-30 18:59:47",
-      "album": {
         "name": "Puras Carnavaleras, Vol. 2",
         "url": "https://open.spotify.com/album/332rbeyvixuVxaVsNoS02G"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 226306,
       "name": "Chinelo Carnavalero",
       "url": "https://open.spotify.com/track/03RZNxQS4tgclnqCpRf3uv"
+    },
+    {
+      "added_at": "2022-12-30 18:59:47",
+      "album": {
+        "name": "Con La No. 1: Del Pueblo...y Para El Pueblo",
+        "url": "https://open.spotify.com/album/67KfLdhQa8X7kI1XM8eJaw"
+      },
+      "artists": [
+        {
+          "name": "Banda El Recodo",
+          "url": "https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC"
+        }
+      ],
+      "duration_ms": 145600,
+      "name": "Los Viejitos",
+      "url": "https://open.spotify.com/track/5vPs4SzqY50SpASVQ8Ez9s"
     },
     {
       "added_at": "2022-12-30 18:59:47",
@@ -795,38 +795,6 @@
     {
       "added_at": "2022-12-30 18:59:47",
       "album": {
-        "name": "La Parranda De Los Amigos (Vol. 2 / En Vivo)",
-        "url": "https://open.spotify.com/album/6zAsjRleHzUXZxCI2XEDWX"
-      },
-      "artists": [
-        {
-          "name": "Chuy Lizarraga y Su Banda Tierra Sinaloense",
-          "url": "https://open.spotify.com/artist/1DA8SLXtp8MMVpgaOWzMQr"
-        }
-      ],
-      "duration_ms": 220453,
-      "name": "Cinco De T\u00e9 - En Vivo",
-      "url": "https://open.spotify.com/track/5z00b6yYj7hKiE2MCVgeZM"
-    },
-    {
-      "added_at": "2022-12-30 18:59:47",
-      "album": {
-        "name": "El Son Del Tlacololero",
-        "url": "https://open.spotify.com/album/4kCpFVESyvACBa2tQdGm4B"
-      },
-      "artists": [
-        {
-          "name": "Banda Bucanera",
-          "url": "https://open.spotify.com/artist/2sudy981RKHBlYmb5ByWSy"
-        }
-      ],
-      "duration_ms": 219500,
-      "name": "El Son Del Tlacololero",
-      "url": "https://open.spotify.com/track/1NYzgJlrTeZspmrCEoAHjf"
-    },
-    {
-      "added_at": "2022-12-30 18:59:47",
-      "album": {
         "name": "De la Ciudad pal' Rancho (Puro A\u00f1uuu Weiii)",
         "url": "https://open.spotify.com/album/2JN6smXOqkzHF0dXAtCFcJ"
       },
@@ -843,6 +811,22 @@
     {
       "added_at": "2022-12-30 18:59:47",
       "album": {
+        "name": "La Parranda De Los Amigos (Vol. 2 / En Vivo)",
+        "url": "https://open.spotify.com/album/6zAsjRleHzUXZxCI2XEDWX"
+      },
+      "artists": [
+        {
+          "name": "Chuy Lizarraga y Su Banda Tierra Sinaloense",
+          "url": "https://open.spotify.com/artist/1DA8SLXtp8MMVpgaOWzMQr"
+        }
+      ],
+      "duration_ms": 220453,
+      "name": "Cinco De T\u00e9 - En Vivo",
+      "url": "https://open.spotify.com/track/5z00b6yYj7hKiE2MCVgeZM"
+    },
+    {
+      "added_at": "2022-12-30 18:59:47",
+      "album": {
         "name": "El Guapo",
         "url": "https://open.spotify.com/album/1pSk7ehWJhdmJYaU8JobaP"
       },
@@ -855,6 +839,22 @@
       "duration_ms": 188696,
       "name": "El Guapo",
       "url": "https://open.spotify.com/track/51zDKkKUFMpKtT40t80lpq"
+    },
+    {
+      "added_at": "2022-12-30 18:59:47",
+      "album": {
+        "name": "El Son Del Tlacololero",
+        "url": "https://open.spotify.com/album/4kCpFVESyvACBa2tQdGm4B"
+      },
+      "artists": [
+        {
+          "name": "Banda Bucanera",
+          "url": "https://open.spotify.com/artist/2sudy981RKHBlYmb5ByWSy"
+        }
+      ],
+      "duration_ms": 219500,
+      "name": "El Son Del Tlacololero",
+      "url": "https://open.spotify.com/track/1NYzgJlrTeZspmrCEoAHjf"
     },
     {
       "added_at": "2022-12-30 18:59:47",
@@ -939,22 +939,6 @@
     {
       "added_at": "2022-12-30 18:59:47",
       "album": {
-        "name": "Homenaje a un Grande",
-        "url": "https://open.spotify.com/album/7Bai5sq5asXPXxSYRcAYQ1"
-      },
-      "artists": [
-        {
-          "name": "Banda la Sinaloense de Alex Ojeda",
-          "url": "https://open.spotify.com/artist/6ucSqPKWD0QdphhjNrVnUf"
-        }
-      ],
-      "duration_ms": 167133,
-      "name": "Sangoloteadito",
-      "url": "https://open.spotify.com/track/1TGxZRm9X1ErxpGSvTrCoJ"
-    },
-    {
-      "added_at": "2022-12-30 18:59:47",
-      "album": {
         "name": "De la Ciudad pal' Rancho (Puro A\u00f1uuu Weiii)",
         "url": "https://open.spotify.com/album/2JN6smXOqkzHF0dXAtCFcJ"
       },
@@ -967,6 +951,22 @@
       "duration_ms": 165146,
       "name": "El Son de los Ocampo",
       "url": "https://open.spotify.com/track/1SbZqxZoxZKuJTQzEDwV2M"
+    },
+    {
+      "added_at": "2022-12-30 18:59:47",
+      "album": {
+        "name": "Homenaje a un Grande",
+        "url": "https://open.spotify.com/album/7Bai5sq5asXPXxSYRcAYQ1"
+      },
+      "artists": [
+        {
+          "name": "Banda la Sinaloense de Alex Ojeda",
+          "url": "https://open.spotify.com/artist/6ucSqPKWD0QdphhjNrVnUf"
+        }
+      ],
+      "duration_ms": 167133,
+      "name": "Sangoloteadito",
+      "url": "https://open.spotify.com/track/1TGxZRm9X1ErxpGSvTrCoJ"
     },
     {
       "added_at": "2022-12-30 18:59:47",
@@ -1395,22 +1395,6 @@
     {
       "added_at": "2022-12-30 18:59:47",
       "album": {
-        "name": "El Chavo del Ocho (The Elephant Never Forgets)",
-        "url": "https://open.spotify.com/album/3cGKC5MjiEJiCpG3InChD9"
-      },
-      "artists": [
-        {
-          "name": "Banda Perla De Michoac\u00e1n",
-          "url": "https://open.spotify.com/artist/2ensvIDANP7J8Y81kmno84"
-        }
-      ],
-      "duration_ms": 166876,
-      "name": "El Chavo del Ocho (The Elephant Never Forgets)",
-      "url": "https://open.spotify.com/track/5cFY7DAekksn0hroUe8K02"
-    },
-    {
-      "added_at": "2022-12-30 18:59:47",
-      "album": {
         "name": "En Vivo Desde Colima, Vol. 2",
         "url": "https://open.spotify.com/album/79T7IMva98HwHfjvygeY6n"
       },
@@ -1423,6 +1407,22 @@
       "duration_ms": 207621,
       "name": "Arriba Pichantaro (En Vivo)",
       "url": "https://open.spotify.com/track/0uJZHtY7QhTXWdoJemOwHl"
+    },
+    {
+      "added_at": "2022-12-30 18:59:47",
+      "album": {
+        "name": "El Chavo del Ocho (The Elephant Never Forgets)",
+        "url": "https://open.spotify.com/album/3cGKC5MjiEJiCpG3InChD9"
+      },
+      "artists": [
+        {
+          "name": "Banda Perla De Michoac\u00e1n",
+          "url": "https://open.spotify.com/artist/2ensvIDANP7J8Y81kmno84"
+        }
+      ],
+      "duration_ms": 166876,
+      "name": "El Chavo del Ocho (The Elephant Never Forgets)",
+      "url": "https://open.spotify.com/track/5cFY7DAekksn0hroUe8K02"
     },
     {
       "added_at": "2022-12-30 18:59:47",

@@ -4,13 +4,14 @@
 
 > Thế hệ nghệ sĩ mới.
 
-61 songs - 3 hr 39 min
+62 songs - 3 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [7711 \(bảy bảy một một\) \[Acoustic Ver\]](https://open.spotify.com/track/57oEOsLQGQto9vUvMVB3Vy) | [Minh Đinh](https://open.spotify.com/artist/4NfuHLESitkh66LOZeyzsu) | [7711 \(bảy bảy một một\) \[Acoustic Ver\]](https://open.spotify.com/album/703wXKqIsuE8ltDw4p112m) | 3:13 | 2023-04-13 |  |
 | [Bad Performance](https://open.spotify.com/track/3zama7xcVNrWj6nLCw9a2x) | [Coldzy](https://open.spotify.com/artist/401ikVSob52311M6Fwnunt) | [Bad Performance](https://open.spotify.com/album/2CKrFtn7APctaOCi10UZ4S) | 3:42 | 2023-04-13 |  |
 | [Biết Sao Được](https://open.spotify.com/track/5oksT9bmSgHN9gaKvmpgXp) | [Pixel Neko](https://open.spotify.com/artist/6lKBdKySIpWUb4tA7hYzU7), [Coldzy](https://open.spotify.com/artist/401ikVSob52311M6Fwnunt), [Lý Bực](https://open.spotify.com/artist/1pqC3oSnMeSmehSgahdji5) | [Biết Sao Được](https://open.spotify.com/album/5Pl9ObSp8EPfkdehTqrTel) | 3:01 | 2022-09-09 |  |
+| [Break The Rules \(feat\. Touliver\)](https://open.spotify.com/track/7gbS7lXaFX2gez4v9Vmi4g) | [$A Milo](https://open.spotify.com/artist/55YrB6LSt3ZShzAiBXTEcA), [Coldzy](https://open.spotify.com/artist/401ikVSob52311M6Fwnunt), [Touliver](https://open.spotify.com/artist/5UNWQJdUbO8Gbg9Qn3r52M) | [Break The Rules \(feat\. Touliver\)](https://open.spotify.com/album/6vv6TaimaMnI6N2jjPTEyV) | 4:10 | 2023-05-18 |  |
 | [Butterfly](https://open.spotify.com/track/5nTjso2cw2TWW25Xe9xzfG) | [Kim Kunni](https://open.spotify.com/artist/2OONhLKGZlcgaA9PQ2e64g) | [Butterfly](https://open.spotify.com/album/30gGngxwhY7usmY8E6uILz) | 4:04 | 2022-09-09 |  |
 | [CHẮC LÀ SAY ÒI](https://open.spotify.com/track/798WQMqGeOrfTFepsCF3r7) | [Right](https://open.spotify.com/artist/0hUr8xEtATxbq2OTiJFAP0), [Max Benderz](https://open.spotify.com/artist/0ZDirTwCdmoL4RpbXxiRvj) | [CHẮC LÀ SAY ÒI](https://open.spotify.com/album/6BJ9LUWp8AqbKahQ0TnUZk) | 3:24 | 2022-09-09 |  |
 | [Chờ](https://open.spotify.com/track/4fSCE4KsyubWKT2hvSXmcn) | [Kim Kunni](https://open.spotify.com/artist/2OONhLKGZlcgaA9PQ2e64g) | [Chờ](https://open.spotify.com/album/1t24UniR5p7Pp1iAs0jmo0) | 3:18 | 2022-09-09 |  |
@@ -33,7 +34,7 @@
 | [GPS](https://open.spotify.com/track/7mSXu1Q76JGPLYolCKp3Xw) | [Pixel Neko](https://open.spotify.com/artist/6lKBdKySIpWUb4tA7hYzU7), [My Anh](https://open.spotify.com/artist/3C9BZr3AmjZ89zzcOdkA4i), [LostOwl](https://open.spotify.com/artist/2nO3NsrkKhV3cBI7X1wYbb), [Nam Ngo](https://open.spotify.com/artist/5rEpvWrgw0tvax27frKVlH) | [GPS](https://open.spotify.com/album/1dabh9kedSOCHQSXE1cYsN) | 3:59 | 2022-09-09 |  |
 | [Hennesy \- Acoustic Version](https://open.spotify.com/track/5eEBWObr9qNmFoPs2t8ifh) | [Haisam](https://open.spotify.com/artist/5h0cBKxBX54CqPaQU6tJhk) | [Sâmflowers](https://open.spotify.com/album/4r2sh8ZMxq8yc3qT19bM3m) | 3:27 | 2022-09-09 |  |
 | [Hoàng Hôn](https://open.spotify.com/track/0AFGP6yJiakwce0evtrbxd) | [Cheung](https://open.spotify.com/artist/2CYz62cthPQ03xzOFpq683) | [Hoàng Hôn](https://open.spotify.com/album/3Q7A5892DvFaMdONpVhc9k) | 4:10 | 2022-09-09 | 2023-01-01 |
-| [Hoàng Hôn](https://open.spotify.com/track/0GdrFeLGWjlEcAfoQEMXH5) | [Cheung](https://open.spotify.com/artist/2CYz62cthPQ03xzOFpq683) | [Hoàng Hôn](https://open.spotify.com/album/20l0aOMxX0YDZq1bBCuoU6) | 4:10 | 2022-11-25 |  |
+| [Hoàng Hôn](https://open.spotify.com/track/0GdrFeLGWjlEcAfoQEMXH5) | [Cheung](https://open.spotify.com/artist/2CYz62cthPQ03xzOFpq683) | [Hoàng Hôn](https://open.spotify.com/album/20l0aOMxX0YDZq1bBCuoU6) | 4:10 | 2022-11-25 | 2023-05-19 |
 | [HUNGOVER \(feat\. Vũ Cát Tường\)](https://open.spotify.com/track/5cxX6mL978HKzOMcGqKD8v) | [MINH](https://open.spotify.com/artist/0RzxSfLRSQmRJ3fFabRMsT), [Vu Cat Tuong](https://open.spotify.com/artist/7yquVKfxBuNFJbG9cy2R8A) | [Hungover \(feat\. Vũ Cát Tường\)](https://open.spotify.com/album/4y3eau8LhHk8VDoDWB7HWQ) | 5:29 | 2022-10-14 |  |
 | [Hãy Để Chúng Ta Được Có Thêm Thời Gian](https://open.spotify.com/track/1BL5MlpmXKaFrK04HaCw3d) | [Haisam](https://open.spotify.com/artist/5h0cBKxBX54CqPaQU6tJhk), [Tez](https://open.spotify.com/artist/1yWLf9thhwjqScDt6Az4Z9) | [Hãy Để Chúng Ta Được Có Thêm Thời Gian](https://open.spotify.com/album/4tjAKvxiGK7nv1TfDz9aIi) | 3:43 | 2022-09-09 |  |
 | [Hãy Để Chúng Ta Được Có Thêm Thời Gian \- Acoustic Version](https://open.spotify.com/track/1IuQ1QnMRuISpiS7BMjpS7) | [Haisam](https://open.spotify.com/artist/5h0cBKxBX54CqPaQU6tJhk) | [Sâmflowers](https://open.spotify.com/album/4r2sh8ZMxq8yc3qT19bM3m) | 3:51 | 2022-09-09 |  |

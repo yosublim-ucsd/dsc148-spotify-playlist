@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hHfOi73rY3.md) - [plain]
 
 > Classic party anthems from the club to your ears!
 
-[Spotify](https://open.spotify.com/user/spotify) - 260,962 likes - 50 songs - 3 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 261,094 likes - 50 songs - 3 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [My Head Is A Jungle](https://open.spotify.com/track/2aoShPqc0QRhzDVrNoKB1h) | [sysx1337](https://open.spotify.com/artist/7o1sl0E7S8pf7E8YETeBZD), [bexter](https://open.spotify.com/artist/2nb1xGx7gKOs9Yu5g1sJ8n), [Shamoryo](https://open.spotify.com/artist/5ypoEsxvCfwoM8dWqpRQhq) | [My Head Is A Jungle](https://open.spotify.com/album/4vm22Z5zpdFdcn3E1AxC9f) | 3:26 |
+| 1 | [My Head Is A Jungle](https://open.spotify.com/track/2aoShPqc0QRhzDVrNoKB1h) | [sysx1337](https://open.spotify.com/artist/7o1sl0E7S8pf7E8YETeBZD), [Shamoryo](https://open.spotify.com/artist/5ypoEsxvCfwoM8dWqpRQhq) | [My Head Is A Jungle](https://open.spotify.com/album/4vm22Z5zpdFdcn3E1AxC9f) | 3:26 |
 | 2 | [Get Out My Head](https://open.spotify.com/track/3EGbEEe2M6CNFpF8vf8dgW) | [Redlight](https://open.spotify.com/artist/4ly0VtIYiDYVA4q6ry0NUk) | [New Year's Eve Party 2022](https://open.spotify.com/album/4SKjR5h4bkN68UlkdSnF6j) | 3:44 |
 | 3 | [Losing It](https://open.spotify.com/track/6ho0GyrWZN3mhi9zVRW7xi) | [FISHER](https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt) | [Losing It](https://open.spotify.com/album/143cxYCazoiNfviHRmxkdv) | 4:08 |
 | 4 | [What They Say](https://open.spotify.com/track/5S7Y5HgQ2HPqiCVkKylT2r) | [Maya Jane Coles](https://open.spotify.com/artist/6TshTCYwh9ySzOO6Jy4Ux2) | [What They Say EP](https://open.spotify.com/album/0DECxh5mdTBhB2Rw9qE7UI) | 6:40 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hHfOi73rY3.md) - [plain]
 | 49 | [Control](https://open.spotify.com/track/3aE4H40sir4lVzMG7MxYBj) | [Matrix & Futurebound](https://open.spotify.com/artist/41iVQ05he8SrfIWbZQ58N7), [Max Marshall](https://open.spotify.com/artist/7ppllgzNRgrnOjYbsyDzO6) | [Mystery Machine](https://open.spotify.com/album/7tIUXWWbdUtPvzZRWrn7zj) | 3:48 |
 | 50 | [The Jam](https://open.spotify.com/track/3eEStD7Va1vlaN5NBEbQmf) | [Kideko](https://open.spotify.com/artist/0ZwQMCRqfyh1OGQkBh9Cnj) | [The Jam](https://open.spotify.com/album/6wpCBPI0iVsZFycthRIXSH) | 3:12 |
 
-Snapshot ID: `MCwwMjFlZWI1YzM0MDQyYjcwYjM4NzI5OGQ3OTQ3ZWQ2NTUwMmZiYTJj`
+Snapshot ID: `MCxmODc4ZDJlOTA3OWZjOGRjMDhiODQ4MjFiNzBhNGJlMmMwMWI2Njcw`

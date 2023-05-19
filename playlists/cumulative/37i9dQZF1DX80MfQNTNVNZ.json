@@ -1445,6 +1445,24 @@
     },
     {
       "album": {
+        "name": "Don't Forget About Me",
+        "url": "https://open.spotify.com/album/73RqlYh6EX1aDBC0oz765j"
+      },
+      "artists": [
+        {
+          "name": "d4vd",
+          "url": "https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149324,
+      "name": "Don't Forget About Me",
+      "url": "https://open.spotify.com/track/43rGLaawHXspfnWtBCoAQg"
+    },
+    {
+      "album": {
         "name": "Dreaming",
         "url": "https://open.spotify.com/album/5mmYZsn0lgTumtVLbr70y1"
       },
@@ -1878,7 +1896,7 @@
       ],
       "date_added": "2022-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 166956,
       "name": "Found Our Way",
       "url": "https://open.spotify.com/track/5gxp6faiQPafYh77V4BZC4"
@@ -2773,6 +2791,24 @@
     },
     {
       "album": {
+        "name": "Inbox",
+        "url": "https://open.spotify.com/album/4DvivU4pOhMpRMP8rFgmxf"
+      },
+      "artists": [
+        {
+          "name": "Fieh",
+          "url": "https://open.spotify.com/artist/0KmBIwN1qmQbXpR4wtJX88"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211840,
+      "name": "Inbox",
+      "url": "https://open.spotify.com/track/2w4TYnlQOYSb8p5VQO6YVC"
+    },
+    {
+      "album": {
         "name": "Velvet",
         "url": "https://open.spotify.com/album/2wN3fuTXmj387DO7wxNjz8"
       },
@@ -3538,7 +3574,7 @@
       ],
       "date_added": "2023-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 166736,
       "name": "Magical",
       "url": "https://open.spotify.com/track/3vwd499tfp2HSDJ7HN7ZHt"
@@ -3622,6 +3658,24 @@
       "duration_ms": 200000,
       "name": "meals first",
       "url": "https://open.spotify.com/track/4znCUfG6G6PuF9npVCKVHC"
+    },
+    {
+      "album": {
+        "name": "Meant To Be",
+        "url": "https://open.spotify.com/album/1Wn3OmksyMkgzvzE7dEIhc"
+      },
+      "artists": [
+        {
+          "name": "Jayda G",
+          "url": "https://open.spotify.com/artist/3NKVm2Jedcf6ibJr6pMUVx"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224287,
+      "name": "Meant To Be",
+      "url": "https://open.spotify.com/track/4YRw7jcTBGAUHWktyn0msf"
     },
     {
       "album": {
@@ -4460,7 +4514,7 @@
       ],
       "date_added": "2023-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 152396,
       "name": "Palace",
       "url": "https://open.spotify.com/track/3vkgn6CpM3UHEjyCrFj73C"
@@ -6058,7 +6112,7 @@
       ],
       "date_added": "2023-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 186678,
       "name": "The Lava Is Calm",
       "url": "https://open.spotify.com/track/3g1uQN86mg2yLHnJCuN2fR"

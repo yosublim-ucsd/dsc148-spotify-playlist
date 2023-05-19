@@ -4,7 +4,7 @@
 
 > Enjoy the romantic side of Ani
 
-55 songs - 3 hr 38 min
+56 songs - 3 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,7 +29,8 @@
 | [Idhayane](https://open.spotify.com/track/0If3UxapVCA0NUKgpJkpaj) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Neeti Mohan](https://open.spotify.com/artist/3ZxZ03fj3tXBZHZWzvaLSM) | [Velaikkaran \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3WkCzwLSjWxVm2NU9t6aCM) | 3:42 | 2021-08-02 |  |
 | [Idhazhin Oram \- The Innocence of Love](https://open.spotify.com/track/6NwEpX2JUWHVKWfDDfcqC4) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Ajesh](https://open.spotify.com/artist/7zneCNzf0wfXcjCOvirRlX) | [3 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3KxiTZwnVuot6XVWRqh4PZ) | 3:24 | 2021-08-02 |  |
 | [Ilamai Thirumbudhe \- From "Petta"](https://open.spotify.com/track/4IUGuoJ41g5fLIqsO1MJoU) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Petta \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3NAMtgP845mM6cJjYDYy1g) | 3:37 | 2021-08-02 |  |
-| [Im So Cool](https://open.spotify.com/track/5HuK3MFhBiXrjA02XtkgmT) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Sivakarthikeyan](https://open.spotify.com/artist/0jwbpxdhhQamNo79fFPVcr) | [Kaaki Sattai \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5IWE32AlR5LdGTO2Z01wox) | 3:49 | 2021-08-02 |  |
+| [Im so cool](https://open.spotify.com/track/28wDqq0vY7vMpYWOzXUrn5) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Sivakarthikeyan](https://open.spotify.com/artist/0jwbpxdhhQamNo79fFPVcr) | [Kaaki Sattai \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5KGAGGVgUYDjkwydIXOjEY) | 3:49 | 2021-08-02 |  |
+| [Im So Cool](https://open.spotify.com/track/5HuK3MFhBiXrjA02XtkgmT) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Sivakarthikeyan](https://open.spotify.com/artist/0jwbpxdhhQamNo79fFPVcr) | [Kaaki Sattai \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5IWE32AlR5LdGTO2Z01wox) | 3:49 | 2021-08-02 | 2023-05-19 |
 | [Jigidi Killaadi \(From "Pattas"\)](https://open.spotify.com/track/0OgazYID6CUlSeiAoeuf5B) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Vivek \- Mervin](https://open.spotify.com/artist/4hBCDHUWTljP6BDl5AekgW) | [Jigidi Killaadi \(From "Pattas"\)](https://open.spotify.com/album/5hoVfWGxDJhhqJHdooUJkh) | 3:38 | 2021-08-02 |  |
 | [Kadhal Kan Kattudhe](https://open.spotify.com/track/5W5vPvu6DkmqdvJXfjvSvO) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Shakthisree Gopalan](https://open.spotify.com/artist/7zAp0JbkavFg2rcMGvANtP) | [Kaaki Sattai \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5IWE32AlR5LdGTO2Z01wox) | 4:16 | 2021-08-02 |  |
 | [Kadhalaada](https://open.spotify.com/track/4zvwpmnKudoMEVpl0h2JKE) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Pradeep Kumar](https://open.spotify.com/artist/15ClyGUe5g2vllncIC4tp6), [Shashaa Tirupati](https://open.spotify.com/artist/12CpR4SNDzVIlDoPSeNFeW) | [Vivegam \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6zXvWxQ8vSbI44dQdPp4P0) | 4:16 | 2021-08-02 |  |

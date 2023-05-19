@@ -1,7 +1,7 @@
 {
   "date_first_scraped": "2022-06-02",
-  "description": "Classic tunes to soundtrack your weekend. Cover: The Tragically Hip",
-  "name": "Canadian Weekend",
+  "description": "Classic tunes for the open road.",
+  "name": "Canadian Road Trip",
   "tracks": [
     {
       "album": {
@@ -147,6 +147,24 @@
     },
     {
       "album": {
+        "name": "Jagged Little Pill (2015 Remaster)",
+        "url": "https://open.spotify.com/album/5Ap3F8CxjjsQKZGASDcHNA"
+      },
+      "artists": [
+        {
+          "name": "Alanis Morissette",
+          "url": "https://open.spotify.com/artist/6ogn9necmbUdCppmNnGOdi"
+        }
+      ],
+      "date_added": "2023-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284093,
+      "name": "All I Really Want - 2015 Remaster",
+      "url": "https://open.spotify.com/track/6rRIRMEhVclbTleCJQsrPm"
+    },
+    {
+      "album": {
         "name": "Wide Awake Bored",
         "url": "https://open.spotify.com/album/5WZLwoDpwywF00FzAhJGQC"
       },
@@ -194,10 +212,28 @@
       ],
       "date_added": "2022-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 307493,
       "name": "American Woman",
       "url": "https://open.spotify.com/track/3LQPTJEqOfljGBxmpgUnoC"
+    },
+    {
+      "album": {
+        "name": "Platinum & Gold Collection",
+        "url": "https://open.spotify.com/album/049pDJuLOtgEpo1buRzScg"
+      },
+      "artists": [
+        {
+          "name": "The Guess Who",
+          "url": "https://open.spotify.com/artist/0cQuYRSzlItquYxsQKDvVc"
+        }
+      ],
+      "date_added": "2023-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231640,
+      "name": "American Woman - 7\" Single Version",
+      "url": "https://open.spotify.com/track/5LPGZnsy07YNxeuTI1X3RT"
     },
     {
       "album": {
@@ -216,6 +252,24 @@
       "duration_ms": 275693,
       "name": "Anthems For A Seventeen Year-Old Girl",
       "url": "https://open.spotify.com/track/0VXp4zDspR993l2hIKW17g"
+    },
+    {
+      "album": {
+        "name": "The Woman In Me",
+        "url": "https://open.spotify.com/album/3wDeIA9tJU0uNlsroUdcYK"
+      },
+      "artists": [
+        {
+          "name": "Shania Twain",
+          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
+        }
+      ],
+      "date_added": "2023-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246760,
+      "name": "Any Man Of Mine",
+      "url": "https://open.spotify.com/track/0pdfN7nOHMYmKykzu1cyfm"
     },
     {
       "album": {
@@ -540,7 +594,7 @@
       ],
       "date_added": "2022-09-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-15",
+      "date_removed": null,
       "duration_ms": 247306,
       "name": "Building a Mystery",
       "url": "https://open.spotify.com/track/3ozomn4PrGEKEuusxX2HpC"
@@ -616,7 +670,7 @@
       ],
       "date_added": "2022-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 171960,
       "name": "Closer To The Heart",
       "url": "https://open.spotify.com/track/4u3oXuVeOGoByIMz9pnOKf"
@@ -714,6 +768,24 @@
     {
       "album": {
         "name": "Matt Mays & El Torpedo",
+        "url": "https://open.spotify.com/album/5TNLRd0U6x8FMp9nh3dFmr"
+      },
+      "artists": [
+        {
+          "name": "Matt Mays",
+          "url": "https://open.spotify.com/artist/0VlFTYaJsPHdN3Vb3EvBsn"
+        }
+      ],
+      "date_added": "2023-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264133,
+      "name": "Cocaine Cowgirl",
+      "url": "https://open.spotify.com/track/5omNkjgQWA5U6iIYVPfdx0"
+    },
+    {
+      "album": {
+        "name": "Matt Mays & El Torpedo",
         "url": "https://open.spotify.com/album/3mFkPXzTljdfMWgeXiX8qP"
       },
       "artists": [
@@ -764,7 +836,7 @@
       ],
       "date_added": "2022-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 305413,
       "name": "Comin' Home",
       "url": "https://open.spotify.com/track/0SwUDplbBp66rM5sMC0eD7"
@@ -1124,7 +1196,7 @@
       ],
       "date_added": "2022-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 198066,
       "name": "Early Morning Rain",
       "url": "https://open.spotify.com/track/5M1gX3DQvgc7GI6dBWX9FL"
@@ -1160,7 +1232,7 @@
       ],
       "date_added": "2022-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 214933,
       "name": "Echo Beach",
       "url": "https://open.spotify.com/track/08gcSzRD66Dc7z3x6yigol"
@@ -1232,7 +1304,7 @@
       ],
       "date_added": "2022-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 334866,
       "name": "Everybody Knows",
       "url": "https://open.spotify.com/track/60s0QWaOZ2UTzqdIHBCt3x"
@@ -1383,6 +1455,24 @@
     },
     {
       "album": {
+        "name": "A Blemish in the Great Light",
+        "url": "https://open.spotify.com/album/0mW3Hyde2wbKVTSYPhYF2Q"
+      },
+      "artists": [
+        {
+          "name": "Half Moon Run",
+          "url": "https://open.spotify.com/artist/3ceQN2NVlLg1hgTzljDE4n"
+        }
+      ],
+      "date_added": "2023-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 297573,
+      "name": "Flesh and Blood",
+      "url": "https://open.spotify.com/track/5JNQ5leQ1NEZFHQxlojjBt"
+    },
+    {
+      "album": {
         "name": "Dreams, Dreams, Dreams",
         "url": "https://open.spotify.com/album/0HFcnY7LMUaE0PsCg9W1KI"
       },
@@ -1502,7 +1592,7 @@
       ],
       "date_added": "2022-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 205600,
       "name": "Go For Soda",
       "url": "https://open.spotify.com/track/36iHMTOAr9S4y0WvuWQtvm"
@@ -1581,6 +1671,24 @@
     },
     {
       "album": {
+        "name": "Harvest Moon",
+        "url": "https://open.spotify.com/album/0tdm853TNWjVVChbJRbu3Q"
+      },
+      "artists": [
+        {
+          "name": "Neil Young",
+          "url": "https://open.spotify.com/artist/6v8FB84lnmJs434UJf2Mrm"
+        }
+      ],
+      "date_added": "2023-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 303213,
+      "name": "Harvest Moon",
+      "url": "https://open.spotify.com/track/5l9c6bJmzvftumhz4TMPgk"
+    },
+    {
+      "album": {
         "name": "Five Days in July",
         "url": "https://open.spotify.com/album/38xKbwxuitwGAgjTPoEnWm"
       },
@@ -1646,7 +1754,7 @@
       ],
       "date_added": "2022-05-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 241293,
       "name": "Heaven Coming Down",
       "url": "https://open.spotify.com/track/6lOvhkSYAU6xde5BvtWNbB"
@@ -1682,7 +1790,7 @@
       ],
       "date_added": "2022-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 345013,
       "name": "Hello, I'm In Delaware",
       "url": "https://open.spotify.com/track/1PUh1GENlvlgu0dW28I6tY"
@@ -1851,6 +1959,24 @@
     },
     {
       "album": {
+        "name": "Five Easy Pieces",
+        "url": "https://open.spotify.com/album/7nTSvte842Pv7j5x5pyyqr"
+      },
+      "artists": [
+        {
+          "name": "The Sheepdogs",
+          "url": "https://open.spotify.com/artist/4U33udokhmKATsu8UoqUEN"
+        }
+      ],
+      "date_added": "2023-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190946,
+      "name": "I Don't Know - EP Version",
+      "url": "https://open.spotify.com/track/4A4DPAyhXSTzehnBstdAnt"
+    },
+    {
+      "album": {
         "name": "54.40",
         "url": "https://open.spotify.com/album/3VGp455Jdig99Vojxy2H5H"
       },
@@ -1977,6 +2103,24 @@
     },
     {
       "album": {
+        "name": "Whoa, Nelly! (Expanded Edition)",
+        "url": "https://open.spotify.com/album/0emt7fmxNjW3lb37nTOXR0"
+      },
+      "artists": [
+        {
+          "name": "Nelly Furtado",
+          "url": "https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc"
+        }
+      ],
+      "date_added": "2023-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243160,
+      "name": "I'm Like A Bird",
+      "url": "https://open.spotify.com/track/2aGw77pZqli064JiPuXYRi"
+    },
+    {
+      "album": {
         "name": "Born In The U.S.A.",
         "url": "https://open.spotify.com/album/0PMasrHdpaoIRuHuhHp72O"
       },
@@ -2042,7 +2186,7 @@
       ],
       "date_added": "2022-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 228840,
       "name": "If You Could Read My Mind",
       "url": "https://open.spotify.com/track/57ct8jKi6trntXiRV0NnXi"
@@ -2078,7 +2222,7 @@
       ],
       "date_added": "2022-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 207093,
       "name": "In Too Deep",
       "url": "https://open.spotify.com/track/1HNE2PX70ztbEl6MLxrpNL"
@@ -2096,7 +2240,7 @@
       ],
       "date_added": "2022-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 222466,
       "name": "Innocent",
       "url": "https://open.spotify.com/track/5mFyCVEII6mp5YPPYQfTck"
@@ -2132,7 +2276,7 @@
       ],
       "date_added": "2022-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 228573,
       "name": "Ironic",
       "url": "https://open.spotify.com/track/29YBihzQOmat0U74k4ukdx"
@@ -2258,7 +2402,7 @@
       ],
       "date_added": "2022-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 222720,
       "name": "Knocking At The Door",
       "url": "https://open.spotify.com/track/01afuV689RNz1MKDhGuwWG"
@@ -2294,7 +2438,7 @@
       ],
       "date_added": "2022-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 246026,
       "name": "Lay It on the Line",
       "url": "https://open.spotify.com/track/4QwcuKjGjtl5fZe7kDdULV"
@@ -2330,7 +2474,7 @@
       ],
       "date_added": "2022-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 210840,
       "name": "Leader of Men",
       "url": "https://open.spotify.com/track/4Vf9v7ohVz5i8PeZBliwb5"
@@ -2370,6 +2514,24 @@
       "duration_ms": 236453,
       "name": "Leather Jacket",
       "url": "https://open.spotify.com/track/7iDPOnnIRfhsau33KevZ2r"
+    },
+    {
+      "album": {
+        "name": "Since We Met: The Best of 1996-2006",
+        "url": "https://open.spotify.com/album/67QWVDS41ddKIKYhlsJjJt"
+      },
+      "artists": [
+        {
+          "name": "Chantal Kreviazuk",
+          "url": "https://open.spotify.com/artist/1x1NsoNPyVy6FlgSLSovSk"
+        }
+      ],
+      "date_added": "2023-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280146,
+      "name": "Leaving On A Jet Plane",
+      "url": "https://open.spotify.com/track/2tFYV2RZGwRLCmfDqfI3OT"
     },
     {
       "album": {
@@ -2438,7 +2600,7 @@
       ],
       "date_added": "2022-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 220573,
       "name": "Load Me Up",
       "url": "https://open.spotify.com/track/63PN42ugudZf4DDhXeWQ2M"
@@ -2622,10 +2784,28 @@
       ],
       "date_added": "2022-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 181786,
       "name": "Mama",
       "url": "https://open.spotify.com/track/6q9aea43X2EpPGCT5QFDat"
+    },
+    {
+      "album": {
+        "name": "Come On Over",
+        "url": "https://open.spotify.com/album/4UMe0Ods7kygK6OISasZe9"
+      },
+      "artists": [
+        {
+          "name": "Shania Twain",
+          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
+        }
+      ],
+      "date_added": "2023-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234493,
+      "name": "Man! I Feel Like A Woman!",
+      "url": "https://open.spotify.com/track/6sxptembJVty4sNtcPMAVz"
     },
     {
       "album": {
@@ -2676,7 +2856,7 @@
       ],
       "date_added": "2022-05-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 233916,
       "name": "Money City Maniacs",
       "url": "https://open.spotify.com/track/0B6Xcr7eu0nsGOiXuLI5NH"
@@ -2698,6 +2878,24 @@
       "duration_ms": 256880,
       "name": "Monkey Bars",
       "url": "https://open.spotify.com/track/3hkXBT0vqoXzxmLRzBYAZl"
+    },
+    {
+      "album": {
+        "name": "Live It Out",
+        "url": "https://open.spotify.com/album/5HxOvmgzLJJfN3B6ecuYSi"
+      },
+      "artists": [
+        {
+          "name": "Metric",
+          "url": "https://open.spotify.com/artist/1rCIEwPp5OnXW0ornlSsRl"
+        }
+      ],
+      "date_added": "2023-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210466,
+      "name": "Monster Hospital",
+      "url": "https://open.spotify.com/track/3cFumR9mKXUyQutmdLELqb"
     },
     {
       "album": {
@@ -2802,7 +3000,7 @@
       ],
       "date_added": "2022-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 295000,
       "name": "Never Surrender",
       "url": "https://open.spotify.com/track/5U5p472hgeXUKvh0d8RL4K"
@@ -2820,7 +3018,7 @@
       ],
       "date_added": "2022-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 216693,
       "name": "New Girl Now",
       "url": "https://open.spotify.com/track/1grnSNpTAe14gjtqfArZan"
@@ -2917,6 +3115,40 @@
     },
     {
       "album": {
+        "name": "Cash Crop + Bonus Track",
+        "url": "https://open.spotify.com/album/5mJHJ4ycYgFtNK5mEF68MM"
+      },
+      "artists": [
+        {
+          "name": "Rascalz",
+          "url": "https://open.spotify.com/artist/74LVRFFZZEDYha9qZXsPHF"
+        },
+        {
+          "name": "Kardinal Offishall",
+          "url": "https://open.spotify.com/artist/5P2rwRBgIN450RaJxdjYdA"
+        },
+        {
+          "name": "Thrust",
+          "url": "https://open.spotify.com/artist/38tN2aiWTtY8lhwXPKbIYk"
+        },
+        {
+          "name": "Choclair",
+          "url": "https://open.spotify.com/artist/6Ku2nSbcjRann6nTPimcFS"
+        },
+        {
+          "name": "Checkmate",
+          "url": "https://open.spotify.com/artist/6nfguy4Wxd0sQ8Bq7O3zYT"
+        }
+      ],
+      "date_added": "2023-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247706,
+      "name": "Northern Touch (feat. Kardinal Offishall, Thrust, Choclair & Checkmate)",
+      "url": "https://open.spotify.com/track/4IfK0yQdVsWVoQO44DedEG"
+    },
+    {
+      "album": {
         "name": "Saskadelphia",
         "url": "https://open.spotify.com/album/4K4TmKxqAJLQfsIuwb7per"
       },
@@ -2946,7 +3178,7 @@
       ],
       "date_added": "2022-05-02",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-20",
+      "date_removed": null,
       "duration_ms": 183853,
       "name": "Not Ready to Go",
       "url": "https://open.spotify.com/track/1NGH22lTbPAkuj7gLdCcJW"
@@ -2986,6 +3218,24 @@
       "duration_ms": 208320,
       "name": "Nothing Special",
       "url": "https://open.spotify.com/track/50fi5G747RJ6vKmX886eX1"
+    },
+    {
+      "album": {
+        "name": "Make A Little Noise DVD",
+        "url": "https://open.spotify.com/album/65T0ZdRN1SKeBu6MmsQhTU"
+      },
+      "artists": [
+        {
+          "name": "Joel Plaskett Emergency",
+          "url": "https://open.spotify.com/artist/64WWINLIAzJ2CgzZWkywB3"
+        }
+      ],
+      "date_added": "2023-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181613,
+      "name": "Nowhere With You",
+      "url": "https://open.spotify.com/track/7JUGIQLHiPvCUBKp3988fR"
     },
     {
       "album": {
@@ -3198,7 +3448,7 @@
       ],
       "date_added": "2022-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 196106,
       "name": "Paint It Black",
       "url": "https://open.spotify.com/track/7ybIcMrSGMNBlZk0FLkvls"
@@ -3462,7 +3712,7 @@
       ],
       "date_added": "2022-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 222426,
       "name": "Raise A Little Hell",
       "url": "https://open.spotify.com/track/1yNz3A4ubmE5IEvpNFkjdc"
@@ -3631,6 +3881,24 @@
     },
     {
       "album": {
+        "name": "All the Right Reasons (Special Edition)",
+        "url": "https://open.spotify.com/album/69ny9Y7VrjVP7JNK0xhYke"
+      },
+      "artists": [
+        {
+          "name": "Nickelback",
+          "url": "https://open.spotify.com/artist/6deZN1bslXzeGvOLaLMOIF"
+        }
+      ],
+      "date_added": "2023-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252040,
+      "name": "Rockstar",
+      "url": "https://open.spotify.com/track/6n9yCXvLhnYMgJIiIcMu7D"
+    },
+    {
+      "album": {
         "name": "Reckless (30th Anniversary / Deluxe Edition)",
         "url": "https://open.spotify.com/album/2o2G49EPi4lua5zgxUKhLL"
       },
@@ -3646,6 +3914,24 @@
       "duration_ms": 233270,
       "name": "Run To You",
       "url": "https://open.spotify.com/track/2RWFncSWZEhSRRifqiDNVV"
+    },
+    {
+      "album": {
+        "name": "Young Beauties and Fools",
+        "url": "https://open.spotify.com/album/7bauAaXGIb5m0O5zliJKwE"
+      },
+      "artists": [
+        {
+          "name": "The Glorious Sons",
+          "url": "https://open.spotify.com/artist/5CPxrqCStgt6AfI4fLiedH"
+        }
+      ],
+      "date_added": "2023-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195173,
+      "name": "S.O.S. (Sawed Off Shotgun)",
+      "url": "https://open.spotify.com/track/3NyovXfcpc8PDWWKH7xEDs"
     },
     {
       "album": {
@@ -3696,7 +3982,7 @@
       ],
       "date_added": "2022-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 235600,
       "name": "Share the Land",
       "url": "https://open.spotify.com/track/51krF0CyHT5AEuh81K0t0z"
@@ -3714,7 +4000,7 @@
       ],
       "date_added": "2022-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 163773,
       "name": "She Ain't Pretty",
       "url": "https://open.spotify.com/track/3lQl6N5vnASpox2hdHpH2w"
@@ -3786,7 +4072,7 @@
       ],
       "date_added": "2022-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 241693,
       "name": "Signs",
       "url": "https://open.spotify.com/track/5KWXi2eCYsC6ofIILjvG4V"
@@ -4067,6 +4353,24 @@
     },
     {
       "album": {
+        "name": "Urban Landmarks 1989-2005 (Explicit Version)",
+        "url": "https://open.spotify.com/album/4AZ2GSuFmIqdlJDq5yGQp6"
+      },
+      "artists": [
+        {
+          "name": "Maestro",
+          "url": "https://open.spotify.com/artist/6XyhnscgzT0F0ZBvYuSXat"
+        }
+      ],
+      "date_added": "2023-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 302186,
+      "name": "Stick To Your Vision",
+      "url": "https://open.spotify.com/track/2zpD2N5khGmkk8Owxwxay8"
+    },
+    {
+      "album": {
         "name": "Sadnecessary",
         "url": "https://open.spotify.com/album/5D20ZzsNB377xbshIFP9Nb"
       },
@@ -4096,7 +4400,7 @@
       ],
       "date_added": "2022-05-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 221746,
       "name": "Stompa",
       "url": "https://open.spotify.com/track/3zIEvMYvCM0jiszho8jaFH"
@@ -4211,6 +4515,24 @@
     },
     {
       "album": {
+        "name": "Broken Social Scene",
+        "url": "https://open.spotify.com/album/0y7KfUbof07yf2bHFYdPJZ"
+      },
+      "artists": [
+        {
+          "name": "Broken Social Scene",
+          "url": "https://open.spotify.com/artist/7lOJ7WXyopaxri0dbOiZkd"
+        }
+      ],
+      "date_added": "2023-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 339760,
+      "name": "Superconnected",
+      "url": "https://open.spotify.com/track/2bxBLUIJhTHavO2FKP23Qb"
+    },
+    {
+      "album": {
         "name": "Clumsy",
         "url": "https://open.spotify.com/album/4qR92pgYZPRNV6GA9gC7OC"
       },
@@ -4301,6 +4623,42 @@
     },
     {
       "album": {
+        "name": "Almost Naked",
+        "url": "https://open.spotify.com/album/4rE15VDZytTzb0139CTBdm"
+      },
+      "artists": [
+        {
+          "name": "Ruby Waters",
+          "url": "https://open.spotify.com/artist/5ybU1P0ufoGH5CMclUKebd"
+        }
+      ],
+      "date_added": "2023-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200251,
+      "name": "Sweet Sublime",
+      "url": "https://open.spotify.com/track/5S4R8KlTV0yWk25RgYIivV"
+    },
+    {
+      "album": {
+        "name": "Surfacing",
+        "url": "https://open.spotify.com/album/5qC5YqtLMlsm5Pyl6GtfpP"
+      },
+      "artists": [
+        {
+          "name": "Sarah McLachlan",
+          "url": "https://open.spotify.com/artist/4NgNsOXSwIzXlUIJcpnNUp"
+        }
+      ],
+      "date_added": "2023-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240613,
+      "name": "Sweet Surrender",
+      "url": "https://open.spotify.com/track/46ShsS3tyqJAJdxUjPezdI"
+    },
+    {
+      "album": {
         "name": "Forgiveness Rock Record",
         "url": "https://open.spotify.com/album/5hzEg6FhiOIXHufj0EithW"
       },
@@ -4312,7 +4670,7 @@
       ],
       "date_added": "2022-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 309306,
       "name": "Sweetest Kill",
       "url": "https://open.spotify.com/track/488u1IbVEsaC7fxjABWjHx"
@@ -4514,7 +4872,7 @@
       ],
       "date_added": "2022-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 198493,
       "name": "The Hell Song",
       "url": "https://open.spotify.com/track/17XgxMFNzBYv38TEJRC18D"
@@ -4611,6 +4969,24 @@
     },
     {
       "album": {
+        "name": "Born on a Pirate Ship (Enhanced Edition)",
+        "url": "https://open.spotify.com/album/0ZhGG0DUBuvVNyICBnHlpZ"
+      },
+      "artists": [
+        {
+          "name": "Barenaked Ladies",
+          "url": "https://open.spotify.com/artist/0dEvJpkqhrcn64d3oI8v79"
+        }
+      ],
+      "date_added": "2023-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209960,
+      "name": "The Old Apartment",
+      "url": "https://open.spotify.com/track/5HjviQMuDBIvcyNXJtka23"
+    },
+    {
+      "album": {
         "name": "Action Pact",
         "url": "https://open.spotify.com/album/24EuU7oPexZlKBmnlUHaND"
       },
@@ -4676,7 +5052,7 @@
       ],
       "date_added": "2022-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 296466,
       "name": "The Spirit Of Radio",
       "url": "https://open.spotify.com/track/4e9hUiLsN4mx61ARosFi7p"
@@ -4820,7 +5196,7 @@
       ],
       "date_added": "2022-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 337933,
       "name": "Turn Me Loose",
       "url": "https://open.spotify.com/track/2Z81PDDYNMTxZKiU2XIuFx"
@@ -4896,6 +5272,24 @@
       "duration_ms": 140000,
       "name": "Universal Soldier",
       "url": "https://open.spotify.com/track/4MCI71gpCGwHsK2rv7c8pv"
+    },
+    {
+      "album": {
+        "name": "Little Machines",
+        "url": "https://open.spotify.com/album/1u8OmwItT46Y1gD2xKAK9D"
+      },
+      "artists": [
+        {
+          "name": "Lights",
+          "url": "https://open.spotify.com/artist/5pdyjBIaY5o1yOyexGIUc6"
+        }
+      ],
+      "date_added": "2023-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171293,
+      "name": "Up We Go",
+      "url": "https://open.spotify.com/track/2u6CBCGo8outw3ThHk4c4l"
     },
     {
       "album": {
@@ -5166,7 +5560,7 @@
       ],
       "date_added": "2022-05-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-11",
+      "date_removed": null,
       "duration_ms": 187786,
       "name": "When the Night Feels My Song",
       "url": "https://open.spotify.com/track/5qMc9XB0lALs9VnQmY5qFv"
@@ -5188,6 +5582,24 @@
       "duration_ms": 262026,
       "name": "Where Have All The Good People Gone?",
       "url": "https://open.spotify.com/track/2eLkQvmXz51UKmBIKlFPWb"
+    },
+    {
+      "album": {
+        "name": "We Were Born In A Flame",
+        "url": "https://open.spotify.com/album/7iyRJ3WSW2y2LbIPUYJhgS"
+      },
+      "artists": [
+        {
+          "name": "Sam Roberts Band",
+          "url": "https://open.spotify.com/artist/09XH90DXG8hru6NN96GbA0"
+        }
+      ],
+      "date_added": "2023-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264640,
+      "name": "Where Have All The Good People Gone?",
+      "url": "https://open.spotify.com/track/0T4TdNQ93GEXKtfkCx9zYF"
     },
     {
       "album": {

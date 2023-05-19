@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPCIWxzZwR1.md) - [plain]
 
 > next gen pop Cover: Nessa Barrett
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,260,015 likes - 105 songs - 5 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,260,272 likes - 105 songs - 5 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,7 +83,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPCIWxzZwR1.md) - [plain]
 | 73 | [Sleep Well](https://open.spotify.com/track/4qwKWGKzuq8mgIunO6EaA1) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Sleep Well](https://open.spotify.com/album/7l7D7PZUCYo2JJsFFxlwYO) | 2:55 |
 | 74 | [Watch Me](https://open.spotify.com/track/6319BpXP42QAaXeELaPLmU) | [bludnymph](https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX) | [Watch Me](https://open.spotify.com/album/5qcM2sHUlFeaZh6bvNEw7B) | 2:17 |
 | 75 | [this call is coming from inside the house](https://open.spotify.com/track/4uxvvYZZ1mIQnLw1DPrmKS) | [Bea Miller](https://open.spotify.com/artist/1o2NpYGqHiCq7FoiYdyd1x) | [this call is coming from inside the house](https://open.spotify.com/album/5ULsggYcVoFVPLU8diOcFF) | 2:41 |
-| 76 | [Boy's a liar Pt\. 2](https://open.spotify.com/track/6AQbmUe0Qwf5PZnt4HmTXv) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t), [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf) | [Boy's a liar Pt\. 2](https://open.spotify.com/album/6cVfHBcp3AdpYY0bBglkLN) | 2:11 |
+| 76 | [Boy's a Liar Pt\. 2](https://open.spotify.com/track/6AQbmUe0Qwf5PZnt4HmTXv) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t), [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf) | [Boy's a liar Pt\. 2](https://open.spotify.com/album/6cVfHBcp3AdpYY0bBglkLN) | 2:11 |
 | 77 | [Good Not Great](https://open.spotify.com/track/5K6VtWfjGkk1ahcVmPKbL9) | [JORDY](https://open.spotify.com/artist/0p9SPN0Vhv6aDRZCz4W13E) | [BOY](https://open.spotify.com/album/75Cps520layAjj3UTUMC9v) | 2:12 |
 | 78 | [We Go Down Together \(with Khalid\)](https://open.spotify.com/track/2Y67qsABsPKMrvCxPCzL6r) | [Dove Cameron](https://open.spotify.com/artist/2W8yFh0Ga6Yf3jiayVxwkE), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [We Go Down Together \(with Khalid\)](https://open.spotify.com/album/3ja0XiK9ABd3vSbLNHlna3) | 3:04 |
 | 79 | [Collide \(feat\. Tyga\)](https://open.spotify.com/track/22I3h5AOENlH4CqXJsEbFR) | [Justine Skye](https://open.spotify.com/artist/0jUQSUOcM7lxVn5eVGTkzQ), [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [Collide \(feat\. Tyga\)](https://open.spotify.com/album/2LbrGt2oc08xV8IDJvLzYi) | 4:20 |
@@ -114,4 +114,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPCIWxzZwR1.md) - [plain]
 | 104 | [I Raised Your Boyfriend](https://open.spotify.com/track/7u5VlSd8HxCNjeB4txesJ6) | [LOVA](https://open.spotify.com/artist/1l2NYhptmHjo64MDOcej1x) | [I Raised Your Boyfriend](https://open.spotify.com/album/0Apz8ymj3oeGthfJz2RAo9) | 2:42 |
 | 105 | [Memories](https://open.spotify.com/track/7AYP21Q4qnxw2WxETEvSRb) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Memories](https://open.spotify.com/album/2W5QlcRZ0zCwFk3pSK6PZd) | 4:08 |
 
-Snapshot ID: `MCw1ZDEyMWU3Y2FmNjM5NjgxM2ViNGE1YmNiZGYyM2NmYmE4NjU2OWU1`
+Snapshot ID: `MCw5ODFiNTI5Mzc4MGIxMTYwMDEwOGIyMzYzOTUyZjU1MDJjMTBhZDlh`

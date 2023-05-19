@@ -1,12 +1,12 @@
 {
   "description": "The best new music by independent artists and labels, featuring Human Lemonade. Updates every Wednesday.",
-  "num_followers": 170031,
+  "num_followers": 170050,
   "original_name": "Fresh Finds Latin",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjODA3ZGQzOTIxMmVkOTgzNTA5NDZmZTgyYjljNWMwZTFiZmFjMDEx",
+  "snapshot_id": "MCwyN2MzYmMxYTg2YzJiYzA2OThkNjY1YjA1NzYwY2M0ZGExNjIzMTQz",
   "tracks": [
     {
       "added_at": "2023-05-17 14:10:09",
@@ -295,22 +295,18 @@
     {
       "added_at": "2023-05-17 14:10:09",
       "album": {
-        "name": "My Way",
-        "url": "https://open.spotify.com/album/5pPhjLZrcujOBLjiKkFDyJ"
+        "name": "Dime Algo",
+        "url": "https://open.spotify.com/album/0dGRi74nyRIa7BXINyMsPU"
       },
       "artists": [
         {
-          "name": "Augusto Yepes",
-          "url": "https://open.spotify.com/artist/4Fii6zdHW1hbQw0LS4qeTs"
-        },
-        {
-          "name": "Sounds Of Rituals",
-          "url": "https://open.spotify.com/artist/1s7o0js6ITLMl4EN2m9YvK"
+          "name": "Remers",
+          "url": "https://open.spotify.com/artist/5bVgn8ImAnQDIB1NjxfSvb"
         }
       ],
-      "duration_ms": 213506,
-      "name": "My Way",
-      "url": "https://open.spotify.com/track/2VqqW1hLIvtYblXcSpZXlp"
+      "duration_ms": 143639,
+      "name": "Dime Algo",
+      "url": "https://open.spotify.com/track/2gW0EWh9uJC1O2zUDRJcZv"
     },
     {
       "added_at": "2023-05-17 14:10:09",
@@ -331,18 +327,22 @@
     {
       "added_at": "2023-05-17 14:10:09",
       "album": {
-        "name": "Dime Algo",
-        "url": "https://open.spotify.com/album/0dGRi74nyRIa7BXINyMsPU"
+        "name": "My Way",
+        "url": "https://open.spotify.com/album/5pPhjLZrcujOBLjiKkFDyJ"
       },
       "artists": [
         {
-          "name": "Remers",
-          "url": "https://open.spotify.com/artist/5bVgn8ImAnQDIB1NjxfSvb"
+          "name": "Augusto Yepes",
+          "url": "https://open.spotify.com/artist/4Fii6zdHW1hbQw0LS4qeTs"
+        },
+        {
+          "name": "Sounds Of Rituals",
+          "url": "https://open.spotify.com/artist/1s7o0js6ITLMl4EN2m9YvK"
         }
       ],
-      "duration_ms": 143639,
-      "name": "Dime Algo",
-      "url": "https://open.spotify.com/track/2gW0EWh9uJC1O2zUDRJcZv"
+      "duration_ms": 213506,
+      "name": "My Way",
+      "url": "https://open.spotify.com/track/2VqqW1hLIvtYblXcSpZXlp"
     },
     {
       "added_at": "2023-05-17 14:10:09",
@@ -499,6 +499,26 @@
     {
       "added_at": "2023-05-17 14:10:09",
       "album": {
+        "name": "Que Ven\u00eds",
+        "url": "https://open.spotify.com/album/6jeqQDrGjxTVopq6uogTo2"
+      },
+      "artists": [
+        {
+          "name": "Juli Gervasoni",
+          "url": "https://open.spotify.com/artist/70QkZI7RFWVIDcRG69SdYb"
+        },
+        {
+          "name": "La Chica del Cumplea\u00f1os",
+          "url": "https://open.spotify.com/artist/7uzpdZFWUYCLQnqpq0MP1V"
+        }
+      ],
+      "duration_ms": 230252,
+      "name": "Que Ven\u00eds",
+      "url": "https://open.spotify.com/track/36dGTeVvWIwxOdXsYPrz5u"
+    },
+    {
+      "added_at": "2023-05-17 14:10:09",
+      "album": {
         "name": "Cuando Te Veo",
         "url": "https://open.spotify.com/album/7tG2kTpjBjfR1EO2ESCI56"
       },
@@ -527,26 +547,6 @@
       "duration_ms": 228923,
       "name": "Casualidad",
       "url": "https://open.spotify.com/track/65xafocysy0HnCoKNo4n1q"
-    },
-    {
-      "added_at": "2023-05-17 14:10:09",
-      "album": {
-        "name": "Que Ven\u00eds",
-        "url": "https://open.spotify.com/album/6jeqQDrGjxTVopq6uogTo2"
-      },
-      "artists": [
-        {
-          "name": "Juli Gervasoni",
-          "url": "https://open.spotify.com/artist/70QkZI7RFWVIDcRG69SdYb"
-        },
-        {
-          "name": "La Chica del Cumplea\u00f1os",
-          "url": "https://open.spotify.com/artist/7uzpdZFWUYCLQnqpq0MP1V"
-        }
-      ],
-      "duration_ms": 230252,
-      "name": "Que Ven\u00eds",
-      "url": "https://open.spotify.com/track/36dGTeVvWIwxOdXsYPrz5u"
     },
     {
       "added_at": "2023-05-17 14:10:09",
@@ -619,6 +619,22 @@
     {
       "added_at": "2023-05-17 14:10:09",
       "album": {
+        "name": "Quieto mal",
+        "url": "https://open.spotify.com/album/7AaH4JHkPvwr5Rn0QEJWzp"
+      },
+      "artists": [
+        {
+          "name": "TORO",
+          "url": "https://open.spotify.com/artist/6uX4tGhWrgAzr8UtRnK96Y"
+        }
+      ],
+      "duration_ms": 159500,
+      "name": "Quieto mal",
+      "url": "https://open.spotify.com/track/30YagZwIh0Iiy3G0DM0HIp"
+    },
+    {
+      "added_at": "2023-05-17 14:10:09",
+      "album": {
         "name": "Bah\u00eda Conejo",
         "url": "https://open.spotify.com/album/5Vfp7Pf7oj7wQGlzjw0l8M"
       },
@@ -651,18 +667,18 @@
     {
       "added_at": "2023-05-17 14:10:09",
       "album": {
-        "name": "Quieto mal",
-        "url": "https://open.spotify.com/album/7AaH4JHkPvwr5Rn0QEJWzp"
+        "name": "Divina Seducci\u00f3n",
+        "url": "https://open.spotify.com/album/6y9yqbRjgQa7NwiPcCqF8O"
       },
       "artists": [
         {
-          "name": "TORO",
-          "url": "https://open.spotify.com/artist/6uX4tGhWrgAzr8UtRnK96Y"
+          "name": "Saturno y la Melancol\u00eda",
+          "url": "https://open.spotify.com/artist/7v8JacKhFWsgGZGgdSRliT"
         }
       ],
-      "duration_ms": 159500,
-      "name": "Quieto mal",
-      "url": "https://open.spotify.com/track/30YagZwIh0Iiy3G0DM0HIp"
+      "duration_ms": 210616,
+      "name": "Divina Seducci\u00f3n",
+      "url": "https://open.spotify.com/track/3CjyLMFWTcdUrHHIbn3m4v"
     },
     {
       "added_at": "2023-05-17 14:10:09",
@@ -683,18 +699,18 @@
     {
       "added_at": "2023-05-17 14:10:09",
       "album": {
-        "name": "Divina Seducci\u00f3n",
-        "url": "https://open.spotify.com/album/6y9yqbRjgQa7NwiPcCqF8O"
+        "name": "Quiero una Bici Pero No Tengo Plata Porque No S\u00e9 Ahorrar",
+        "url": "https://open.spotify.com/album/4Djif46DvmAXEU06NsrVfS"
       },
       "artists": [
         {
-          "name": "Saturno y la Melancol\u00eda",
-          "url": "https://open.spotify.com/artist/7v8JacKhFWsgGZGgdSRliT"
+          "name": "Buenas Noches Sol",
+          "url": "https://open.spotify.com/artist/2TjUatTe9jfp879dbFrno1"
         }
       ],
-      "duration_ms": 210616,
-      "name": "Divina Seducci\u00f3n",
-      "url": "https://open.spotify.com/track/3CjyLMFWTcdUrHHIbn3m4v"
+      "duration_ms": 250170,
+      "name": "Quiero una Bici Pero No Tengo Plata Porque No S\u00e9 Ahorrar",
+      "url": "https://open.spotify.com/track/557TVWI4FYr2fUcgSca3hV"
     },
     {
       "added_at": "2023-05-17 14:10:09",
@@ -711,22 +727,6 @@
       "duration_ms": 185305,
       "name": "D\u00edas En Casa",
       "url": "https://open.spotify.com/track/2psoGV7y4CIpqdqjTCL6jK"
-    },
-    {
-      "added_at": "2023-05-17 14:10:09",
-      "album": {
-        "name": "Quiero una Bici Pero No Tengo Plata Porque No S\u00e9 Ahorrar",
-        "url": "https://open.spotify.com/album/4Djif46DvmAXEU06NsrVfS"
-      },
-      "artists": [
-        {
-          "name": "Buenas Noches Sol",
-          "url": "https://open.spotify.com/artist/2TjUatTe9jfp879dbFrno1"
-        }
-      ],
-      "duration_ms": 250170,
-      "name": "Quiero una Bici Pero No Tengo Plata Porque No S\u00e9 Ahorrar",
-      "url": "https://open.spotify.com/track/557TVWI4FYr2fUcgSca3hV"
     },
     {
       "added_at": "2023-05-17 14:10:09",

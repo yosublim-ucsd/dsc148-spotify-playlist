@@ -1,12 +1,12 @@
 {
   "description": "The most essential R&B songs from the 2000s. Cover: Usher",
-  "num_followers": 4381413,
+  "num_followers": 4382868,
   "original_name": "I Love My '00s R&B",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzYTUyOWVlMjZkYmUzZDhjZWFiZGY3ODk1NjNlYTFlNTJmMzAyZDVk",
+  "snapshot_id": "MCxkYmNmYzY2MjBmMzc5MDY0MmYxNDkzYzY1YTk5ZGNkZGU2ZWU4YzAy",
   "tracks": [
     {
       "added_at": "2022-02-11 05:00:00",
@@ -883,22 +883,22 @@
     {
       "added_at": "2022-02-11 05:00:00",
       "album": {
-        "name": "Ready (Deluxe)",
-        "url": "https://open.spotify.com/album/44jrX3SThj7pFjOzUTLm85"
+        "name": "Goodies",
+        "url": "https://open.spotify.com/album/71gUhKYZIWmmjqAHlY4Br3"
       },
       "artists": [
         {
-          "name": "Trey Songz",
-          "url": "https://open.spotify.com/artist/2iojnBLj0qIMiKPvVhLnsH"
+          "name": "Ciara",
+          "url": "https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX"
         },
         {
-          "name": "Fabolous",
-          "url": "https://open.spotify.com/artist/0YWxKQj2Go9CGHCp77UOyy"
+          "name": "Ludacris",
+          "url": "https://open.spotify.com/artist/3ipn9JLAPI5GUEo4y4jcoi"
         }
       ],
-      "duration_ms": 207546,
-      "name": "Say Aah (feat. Fabolous)",
-      "url": "https://open.spotify.com/track/2fQ6sBFWaLv2Gxos4igHLy"
+      "duration_ms": 256346,
+      "name": "Oh (feat. Ludacris)",
+      "url": "https://open.spotify.com/track/7i7UIbm5E0DD7aSOYvwp2v"
     },
     {
       "added_at": "2022-08-21 11:22:08",
@@ -919,22 +919,22 @@
     {
       "added_at": "2022-02-11 05:00:00",
       "album": {
-        "name": "Goodies",
-        "url": "https://open.spotify.com/album/71gUhKYZIWmmjqAHlY4Br3"
+        "name": "Ready (Deluxe)",
+        "url": "https://open.spotify.com/album/44jrX3SThj7pFjOzUTLm85"
       },
       "artists": [
         {
-          "name": "Ciara",
-          "url": "https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX"
+          "name": "Trey Songz",
+          "url": "https://open.spotify.com/artist/2iojnBLj0qIMiKPvVhLnsH"
         },
         {
-          "name": "Ludacris",
-          "url": "https://open.spotify.com/artist/3ipn9JLAPI5GUEo4y4jcoi"
+          "name": "Fabolous",
+          "url": "https://open.spotify.com/artist/0YWxKQj2Go9CGHCp77UOyy"
         }
       ],
-      "duration_ms": 256346,
-      "name": "Oh (feat. Ludacris)",
-      "url": "https://open.spotify.com/track/7i7UIbm5E0DD7aSOYvwp2v"
+      "duration_ms": 207546,
+      "name": "Say Aah (feat. Fabolous)",
+      "url": "https://open.spotify.com/track/2fQ6sBFWaLv2Gxos4igHLy"
     },
     {
       "added_at": "2022-08-21 20:37:58",
@@ -1039,6 +1039,22 @@
     {
       "added_at": "2022-08-21 11:22:08",
       "album": {
+        "name": "The Evolution",
+        "url": "https://open.spotify.com/album/0hfJ35SzCkWesdUpLKXLto"
+      },
+      "artists": [
+        {
+          "name": "Ciara",
+          "url": "https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX"
+        }
+      ],
+      "duration_ms": 267413,
+      "name": "Promise",
+      "url": "https://open.spotify.com/track/1pLdjo3lOBbMaoR4ZpybFH"
+    },
+    {
+      "added_at": "2022-08-21 11:22:08",
+      "album": {
         "name": "Aaliyah",
         "url": "https://open.spotify.com/album/0cNaDPtbHC1PMJMRTY2GFc"
       },
@@ -1069,26 +1085,6 @@
       "url": "https://open.spotify.com/track/5jgEJXjECdlhzNgfITSTVm"
     },
     {
-      "added_at": "2022-02-11 05:00:00",
-      "album": {
-        "name": "Southern Hummingbird",
-        "url": "https://open.spotify.com/album/7uAkY4ERL5Y0BopRxmd3AX"
-      },
-      "artists": [
-        {
-          "name": "Tweet",
-          "url": "https://open.spotify.com/artist/6zDBeei6hHRiZdAJ6zoTCo"
-        },
-        {
-          "name": "Missy Elliott",
-          "url": "https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk"
-        }
-      ],
-      "duration_ms": 237800,
-      "name": "Oops (Oh My) [feat. Missy Elliott]",
-      "url": "https://open.spotify.com/track/5Y0E3dOeynKuLDAXu0t0Bg"
-    },
-    {
       "added_at": "2022-08-21 11:22:08",
       "album": {
         "name": "Love/Hate",
@@ -1109,20 +1105,24 @@
       "url": "https://open.spotify.com/track/5RC9YDHON0nXKmcQrL6WV6"
     },
     {
-      "added_at": "2022-08-21 11:22:08",
+      "added_at": "2022-02-11 05:00:00",
       "album": {
-        "name": "The Evolution",
-        "url": "https://open.spotify.com/album/0hfJ35SzCkWesdUpLKXLto"
+        "name": "Southern Hummingbird",
+        "url": "https://open.spotify.com/album/7uAkY4ERL5Y0BopRxmd3AX"
       },
       "artists": [
         {
-          "name": "Ciara",
-          "url": "https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX"
+          "name": "Tweet",
+          "url": "https://open.spotify.com/artist/6zDBeei6hHRiZdAJ6zoTCo"
+        },
+        {
+          "name": "Missy Elliott",
+          "url": "https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk"
         }
       ],
-      "duration_ms": 267413,
-      "name": "Promise",
-      "url": "https://open.spotify.com/track/1pLdjo3lOBbMaoR4ZpybFH"
+      "duration_ms": 237800,
+      "name": "Oops (Oh My) [feat. Missy Elliott]",
+      "url": "https://open.spotify.com/track/5Y0E3dOeynKuLDAXu0t0Bg"
     },
     {
       "added_at": "2022-02-11 05:00:00",
@@ -1179,6 +1179,22 @@
     {
       "added_at": "2022-08-21 11:22:08",
       "album": {
+        "name": "Juslisen",
+        "url": "https://open.spotify.com/album/070dWVyJIxcKQmxPRov0Y5"
+      },
+      "artists": [
+        {
+          "name": "Musiq Soulchild",
+          "url": "https://open.spotify.com/artist/3UVRliakQfa1pMWIsNuiZ8"
+        }
+      ],
+      "duration_ms": 254493,
+      "name": "Halfcrazy",
+      "url": "https://open.spotify.com/track/3oXNIpoUMdk8qGkwCeXqGv"
+    },
+    {
+      "added_at": "2022-08-21 11:22:08",
+      "album": {
         "name": "Invincible",
         "url": "https://open.spotify.com/album/52E4RP7XDzalpIrOgSTgiQ"
       },
@@ -1215,22 +1231,6 @@
     {
       "added_at": "2022-08-21 11:22:08",
       "album": {
-        "name": "Juslisen",
-        "url": "https://open.spotify.com/album/070dWVyJIxcKQmxPRov0Y5"
-      },
-      "artists": [
-        {
-          "name": "Musiq Soulchild",
-          "url": "https://open.spotify.com/artist/3UVRliakQfa1pMWIsNuiZ8"
-        }
-      ],
-      "duration_ms": 254493,
-      "name": "Halfcrazy",
-      "url": "https://open.spotify.com/track/3oXNIpoUMdk8qGkwCeXqGv"
-    },
-    {
-      "added_at": "2022-08-21 11:22:08",
-      "album": {
         "name": "Floetic",
         "url": "https://open.spotify.com/album/37dLqaW3KP18Aeqesq0Exi"
       },
@@ -1243,6 +1243,22 @@
       "duration_ms": 268373,
       "name": "Say Yes",
       "url": "https://open.spotify.com/track/2fE4MbwX3QGMzNaMjGVhtw"
+    },
+    {
+      "added_at": "2022-02-11 05:00:00",
+      "album": {
+        "name": "Destiny Fulfilled",
+        "url": "https://open.spotify.com/album/0b6ivSFfDs38MG7aLn9rvO"
+      },
+      "artists": [
+        {
+          "name": "Destiny's Child",
+          "url": "https://open.spotify.com/artist/1Y8cdNmUJH7yBTd9yOvr5i"
+        }
+      ],
+      "duration_ms": 224146,
+      "name": "Girl",
+      "url": "https://open.spotify.com/track/3s2MyU2YCwNNwcSokt0jXD"
     },
     {
       "added_at": "2022-08-21 11:22:08",
@@ -1267,22 +1283,6 @@
       "duration_ms": 284160,
       "name": "Diary (feat. Tony! Toni! Tone! & Jermaine Paul)",
       "url": "https://open.spotify.com/track/5dxHF4lrDimKqnI3GaZUmC"
-    },
-    {
-      "added_at": "2022-02-11 05:00:00",
-      "album": {
-        "name": "Destiny Fulfilled",
-        "url": "https://open.spotify.com/album/0b6ivSFfDs38MG7aLn9rvO"
-      },
-      "artists": [
-        {
-          "name": "Destiny's Child",
-          "url": "https://open.spotify.com/artist/1Y8cdNmUJH7yBTd9yOvr5i"
-        }
-      ],
-      "duration_ms": 224146,
-      "name": "Girl",
-      "url": "https://open.spotify.com/track/3s2MyU2YCwNNwcSokt0jXD"
     },
     {
       "added_at": "2022-02-11 05:00:00",
@@ -1641,20 +1641,20 @@
       "url": "https://open.spotify.com/track/2E90KUsor4U2abOJGFKtfx"
     },
     {
-      "added_at": "2022-02-11 05:00:00",
+      "added_at": "2022-08-21 11:22:08",
       "album": {
-        "name": "Fearless",
-        "url": "https://open.spotify.com/album/2V99Z0aZgSK6XTbh19UYTU"
+        "name": "Fear Of Flying",
+        "url": "https://open.spotify.com/album/4LPScJnCr71D6oXB1MfQJ7"
       },
       "artists": [
         {
-          "name": "Jazmine Sullivan",
-          "url": "https://open.spotify.com/artist/7gSjFKpVmDgC2MMsnN8CYq"
+          "name": "M\u00fda",
+          "url": "https://open.spotify.com/artist/6lHL3ubAMgSasKjNqKb8HF"
         }
       ],
-      "duration_ms": 257426,
-      "name": "Need U Bad",
-      "url": "https://open.spotify.com/track/0Ri0LzOMJmqi9HGZE5cRYV"
+      "duration_ms": 236826,
+      "name": "Case Of The Ex (Whatcha Gonna Do)",
+      "url": "https://open.spotify.com/track/1ak0S3NhwWrUgNlQhJ1412"
     },
     {
       "added_at": "2022-02-11 05:00:00",
@@ -1673,20 +1673,20 @@
       "url": "https://open.spotify.com/track/769geiA8btidGHda4BBDOJ"
     },
     {
-      "added_at": "2022-08-21 11:22:08",
+      "added_at": "2022-02-11 05:00:00",
       "album": {
-        "name": "Fear Of Flying",
-        "url": "https://open.spotify.com/album/4LPScJnCr71D6oXB1MfQJ7"
+        "name": "Fearless",
+        "url": "https://open.spotify.com/album/2V99Z0aZgSK6XTbh19UYTU"
       },
       "artists": [
         {
-          "name": "M\u00fda",
-          "url": "https://open.spotify.com/artist/6lHL3ubAMgSasKjNqKb8HF"
+          "name": "Jazmine Sullivan",
+          "url": "https://open.spotify.com/artist/7gSjFKpVmDgC2MMsnN8CYq"
         }
       ],
-      "duration_ms": 236826,
-      "name": "Case Of The Ex (Whatcha Gonna Do)",
-      "url": "https://open.spotify.com/track/1ak0S3NhwWrUgNlQhJ1412"
+      "duration_ms": 257426,
+      "name": "Need U Bad",
+      "url": "https://open.spotify.com/track/0Ri0LzOMJmqi9HGZE5cRYV"
     },
     {
       "added_at": "2022-08-21 11:22:08",

@@ -1,12 +1,12 @@
 {
   "description": "when you decide societal constructs just aren\u2019t the vibe anymore. \n",
-  "num_followers": 354281,
+  "num_followers": 354681,
   "original_name": "wanderlust",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyYTRlYTAzZmViNmJkMWJlMWQ4MDAwZDc5ZWIwMjhlZmVmNTUwNWJj",
+  "snapshot_id": "MCwwMWNhYzIxYjdjOGVmZTU3MDM5NjVjMGVkZGRjZmFhZTlkNDY2YTI0",
   "tracks": [
     {
       "added_at": "2023-04-28 04:00:00",
@@ -411,6 +411,22 @@
     {
       "added_at": "2023-04-28 04:00:00",
       "album": {
+        "name": "Stick Season",
+        "url": "https://open.spotify.com/album/50ZenUP4O2Q5eCy2NRNvuz"
+      },
+      "artists": [
+        {
+          "name": "Noah Kahan",
+          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
+        }
+      ],
+      "duration_ms": 267256,
+      "name": "Northern Attitude",
+      "url": "https://open.spotify.com/track/4O2rRsoSPb5aN7N3tG6Y3v"
+    },
+    {
+      "added_at": "2023-04-28 04:00:00",
+      "album": {
         "name": "the record",
         "url": "https://open.spotify.com/album/0e9GjrztzBw8oMC6n2CDeI"
       },
@@ -435,22 +451,6 @@
       "duration_ms": 214866,
       "name": "Emily I'm Sorry",
       "url": "https://open.spotify.com/track/693xmBAOD4xwkS4W71W1Jn"
-    },
-    {
-      "added_at": "2023-04-28 04:00:00",
-      "album": {
-        "name": "Stick Season",
-        "url": "https://open.spotify.com/album/50ZenUP4O2Q5eCy2NRNvuz"
-      },
-      "artists": [
-        {
-          "name": "Noah Kahan",
-          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
-        }
-      ],
-      "duration_ms": 267256,
-      "name": "Northern Attitude",
-      "url": "https://open.spotify.com/track/4O2rRsoSPb5aN7N3tG6Y3v"
     },
     {
       "added_at": "2023-04-28 04:00:00",
@@ -923,22 +923,6 @@
     {
       "added_at": "2023-04-28 04:00:00",
       "album": {
-        "name": "London's Song",
-        "url": "https://open.spotify.com/album/7znWNtOhMKIQiYUldh2Rmr"
-      },
-      "artists": [
-        {
-          "name": "Matt Hartke",
-          "url": "https://open.spotify.com/artist/6OkqAt7MtIDPOadHr1gEkz"
-        }
-      ],
-      "duration_ms": 178573,
-      "name": "London's Song",
-      "url": "https://open.spotify.com/track/1Mk9ou2m6hsEZJYuNRJFpO"
-    },
-    {
-      "added_at": "2023-04-28 04:00:00",
-      "album": {
         "name": "Lonesome Dreams (Bonus Track Version)",
         "url": "https://open.spotify.com/album/0AG1T3Wbq7TnYMItBqXp2c"
       },
@@ -951,6 +935,22 @@
       "duration_ms": 284146,
       "name": "Ends of the Earth",
       "url": "https://open.spotify.com/track/1KQsrNv2vEW7AXKTrFz0Ah"
+    },
+    {
+      "added_at": "2023-04-28 04:00:00",
+      "album": {
+        "name": "London's Song",
+        "url": "https://open.spotify.com/album/7znWNtOhMKIQiYUldh2Rmr"
+      },
+      "artists": [
+        {
+          "name": "Matt Hartke",
+          "url": "https://open.spotify.com/artist/6OkqAt7MtIDPOadHr1gEkz"
+        }
+      ],
+      "duration_ms": 178573,
+      "name": "London's Song",
+      "url": "https://open.spotify.com/track/1Mk9ou2m6hsEZJYuNRJFpO"
     },
     {
       "added_at": "2023-04-28 04:00:00",
@@ -1263,22 +1263,6 @@
     {
       "added_at": "2023-04-28 04:00:00",
       "album": {
-        "name": "When The World Stopped Moving: The Live EP",
-        "url": "https://open.spotify.com/album/5BCeqdaoRcRj9E1gxPLpLG"
-      },
-      "artists": [
-        {
-          "name": "Lizzy McAlpine",
-          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
-        }
-      ],
-      "duration_ms": 225500,
-      "name": "Angelina",
-      "url": "https://open.spotify.com/track/7epHo3miOIJ3fYEPAdCAf9"
-    },
-    {
-      "added_at": "2023-04-28 04:00:00",
-      "album": {
         "name": "untitled",
         "url": "https://open.spotify.com/album/1lcAeYHgVLtY1vuIJ8zawx"
       },
@@ -1291,6 +1275,22 @@
       "duration_ms": 101086,
       "name": "untitled",
       "url": "https://open.spotify.com/track/0slJ3lfslgd5qk2ev9b6ol"
+    },
+    {
+      "added_at": "2023-04-28 04:00:00",
+      "album": {
+        "name": "When The World Stopped Moving: The Live EP",
+        "url": "https://open.spotify.com/album/5BCeqdaoRcRj9E1gxPLpLG"
+      },
+      "artists": [
+        {
+          "name": "Lizzy McAlpine",
+          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
+        }
+      ],
+      "duration_ms": 225500,
+      "name": "Angelina",
+      "url": "https://open.spotify.com/track/7epHo3miOIJ3fYEPAdCAf9"
     },
     {
       "added_at": "2023-04-28 04:00:00",
@@ -1703,6 +1703,22 @@
     {
       "added_at": "2023-04-28 04:00:00",
       "album": {
+        "name": "Nightshade",
+        "url": "https://open.spotify.com/album/0UlhdB1GPfs4WozhZBlGdL"
+      },
+      "artists": [
+        {
+          "name": "Andrew Belle",
+          "url": "https://open.spotify.com/artist/3UAk61T8PItbpgEi9u7ofY"
+        }
+      ],
+      "duration_ms": 265506,
+      "name": "Spectrum",
+      "url": "https://open.spotify.com/track/5pEmeoMUW38w1oU3kPelvR"
+    },
+    {
+      "added_at": "2023-04-28 04:00:00",
+      "album": {
         "name": "Fatal Line",
         "url": "https://open.spotify.com/album/02389joKGpQeSgbeMocOI2"
       },
@@ -1719,22 +1735,6 @@
       "duration_ms": 181933,
       "name": "Fatal Line",
       "url": "https://open.spotify.com/track/60TzCPjii0JKAQtQTENYpn"
-    },
-    {
-      "added_at": "2023-04-28 04:00:00",
-      "album": {
-        "name": "Nightshade",
-        "url": "https://open.spotify.com/album/0UlhdB1GPfs4WozhZBlGdL"
-      },
-      "artists": [
-        {
-          "name": "Andrew Belle",
-          "url": "https://open.spotify.com/artist/3UAk61T8PItbpgEi9u7ofY"
-        }
-      ],
-      "duration_ms": 265506,
-      "name": "Spectrum",
-      "url": "https://open.spotify.com/track/5pEmeoMUW38w1oU3kPelvR"
     },
     {
       "added_at": "2023-04-28 04:00:00",
@@ -1835,22 +1835,6 @@
     {
       "added_at": "2023-04-28 04:00:00",
       "album": {
-        "name": "The Way That Lovers Do",
-        "url": "https://open.spotify.com/album/4WLh56ZjwINYBNhaxLvEhA"
-      },
-      "artists": [
-        {
-          "name": "Prateek Kuhad",
-          "url": "https://open.spotify.com/artist/0tC995Rfn9k2l7nqgCZsV7"
-        }
-      ],
-      "duration_ms": 193733,
-      "name": "Favorite Peeps",
-      "url": "https://open.spotify.com/track/0SHa9XHwYYB1UUmgbgHuhQ"
-    },
-    {
-      "added_at": "2023-04-28 04:00:00",
-      "album": {
         "name": "I Won't Be Your Foe",
         "url": "https://open.spotify.com/album/6OhfRDchySkjM7GEUtrBFV"
       },
@@ -1863,6 +1847,22 @@
       "duration_ms": 170363,
       "name": "I Only Hope to Feel Love",
       "url": "https://open.spotify.com/track/1IdozL1GhMN6w0gjAdPLqb"
+    },
+    {
+      "added_at": "2023-04-28 04:00:00",
+      "album": {
+        "name": "The Way That Lovers Do",
+        "url": "https://open.spotify.com/album/4WLh56ZjwINYBNhaxLvEhA"
+      },
+      "artists": [
+        {
+          "name": "Prateek Kuhad",
+          "url": "https://open.spotify.com/artist/0tC995Rfn9k2l7nqgCZsV7"
+        }
+      ],
+      "duration_ms": 193733,
+      "name": "Favorite Peeps",
+      "url": "https://open.spotify.com/track/0SHa9XHwYYB1UUmgbgHuhQ"
     },
     {
       "added_at": "2023-04-28 04:00:00",

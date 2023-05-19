@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 
 > Música nueva de toda la región\. Esta semana en portada: Sebastián Yatra, Manuel Turizo y Beéle
 
-[Spotify](https://open.spotify.com/user/spotify) - 931,736 likes - 72 songs - 3 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 931,787 likes - 72 songs - 3 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,4 +81,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 | 71 | [Esquece de Mim \(Rap\) \- Ao Vivo](https://open.spotify.com/track/4EyYjb6RGev9qvgh2Eld00) | [Dilsinho](https://open.spotify.com/artist/4NUePmzDvCYqilXBFa91Hg), [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu), [Chris MC](https://open.spotify.com/artist/0obu7Om4zu9ahul5DI4JtY) | [Diferentão \(Ao Vivo\) \[Deluxe\]](https://open.spotify.com/album/6dLbMoAtDmX8XHZQPAFKUK) | 3:29 |
 | 72 | [Posição de Ataque](https://open.spotify.com/track/1MgO3fAl4ODVQweg5GR0Lk) | [Papatinho](https://open.spotify.com/artist/0iZz25uH5PLaShpqq84uYv), [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d), [DJ Biel do Furduncinho](https://open.spotify.com/artist/6Us5Zsn5MAHBk7SHBUsG5X) | [Posição de Ataque](https://open.spotify.com/album/3koR16KYlMIRIzWUxNREXs) | 2:29 |
 
-Snapshot ID: `MCw1YjcyZmQzNjFmODViYTcyZTMzYWI1YTQxYjM4MWQzZjNjNGMyYjRh`
+Snapshot ID: `MCwwNjJmYTY4OTljMDlhMmI4NGQyZGEyZTY3MjFmNTc0ZDkwNjExZjE0`

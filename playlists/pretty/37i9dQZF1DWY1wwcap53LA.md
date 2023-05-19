@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY1wwcap53LA.md) - [plain]
 
 > Country music making waves\. Cover: Willie Jones
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,793 likes - 104 songs - 5 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,814 likes - 104 songs - 5 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY1wwcap53LA.md) - [plain]
 | 15 | [Giving Up On That](https://open.spotify.com/track/2Iu5OBDudGv5B0qfKKKbGm) | [Dalton Dover](https://open.spotify.com/artist/5xF3SekjB3b2VO0FKN3K0A) | [Giving Up On That](https://open.spotify.com/album/38V4J5JSybT2xPJ3pGtibK) | 3:31 |
 | 16 | [The Road](https://open.spotify.com/track/6IsIpPApmefLa6dfop4xYX) | [Madeline Edwards](https://open.spotify.com/artist/3eJCIS7ytlYvT3pgReuWWa) | [The Road](https://open.spotify.com/album/4wXPYoDHriG75HyGDPtXiq) | 4:28 |
 | 17 | [Never Change](https://open.spotify.com/track/6PuM7qkapYCJsN45KMMOwR) | [Rvshvd](https://open.spotify.com/artist/4YTk2H7LWeoCgdoQ5umieQ) | [Never Change](https://open.spotify.com/album/0c4zjlkdnOEYt5sfrLuJee) | 3:10 |
-| 18 | [Praise The Lord \(feat\. Thomas Rhett\)](https://open.spotify.com/track/4ELynSlkV4OHcBCFenFJ7U) | [BRELAND](https://open.spotify.com/artist/0C86lmpnwiyLDUiyo4d0P1), [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8) | [Praise The Lord \(feat\. Thomas Rhett\)](https://open.spotify.com/album/19IBYeeXLti2wekxA8913l) | 2:40 |
+| 18 | [Praise the Lord \(feat\. Thomas Rhett\)](https://open.spotify.com/track/4ELynSlkV4OHcBCFenFJ7U) | [BRELAND](https://open.spotify.com/artist/0C86lmpnwiyLDUiyo4d0P1), [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8) | [Praise The Lord \(feat\. Thomas Rhett\)](https://open.spotify.com/album/19IBYeeXLti2wekxA8913l) | 2:40 |
 | 19 | [Rodeo](https://open.spotify.com/track/1vatH00GQmecBevlKY5ztN) | [Norman North](https://open.spotify.com/artist/3qKHegS8r4Q08xagEIJwez) | [Rodeo](https://open.spotify.com/album/7onB4ESplhXRNbxMJrg1z1) | 2:25 |
 | 20 | [RUNNIN'](https://open.spotify.com/track/0oizb3QaqA45EQ7Isq85Ly) | [Ashlie Amber](https://open.spotify.com/artist/10uZfqpZrD77s8GhJyEaEA) | [RUNNIN'](https://open.spotify.com/album/0KlPRSFsYdaBgzREzE8Vla) | 3:36 |
 | 21 | [Country Music Kinda Night](https://open.spotify.com/track/4Wf8kPwQBV8cHnsqL5pv6S) | [Tebey](https://open.spotify.com/artist/2S0WpGRnEPyS5OuMp3KOEo) | [Country Music Kinda Night](https://open.spotify.com/album/2pe1UpOt2v11m1ZhsDH47S) | 2:51 |
@@ -88,7 +88,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY1wwcap53LA.md) - [plain]
 | 78 | [Slow Cookin'](https://open.spotify.com/track/32Eh7vvmKgkPpycVxrRaiX) | [Willie Jones](https://open.spotify.com/artist/5OCZWZ399lBKgxBxE8cjRM) | [Slow Cookin' & Soul Food: The 2 Piece Combo](https://open.spotify.com/album/6OuoEHblnMuNFPsQLv24FC) | 3:28 |
 | 79 | [Old Porch Swing](https://open.spotify.com/track/424tTFNRNvXVbOpmD0V3D8) | [Tony Jackson](https://open.spotify.com/artist/0jNzk1w9xrAevFLpLtJnCR) | [Tony Jackson](https://open.spotify.com/album/5kRHqz0vKYcg1dzPogMRLK) | 3:40 |
 | 80 | [Southern Curls](https://open.spotify.com/track/2PXlqCswcJk7DHm605QFoP) | [Julie Williams](https://open.spotify.com/artist/4sRUZFWl0hDJg6MW9lHKR9) | [Southern Curls](https://open.spotify.com/album/0xea2CsAsnZK4JljMCXcJ5) | 4:38 |
-| 81 | [Afraid of Forever](https://open.spotify.com/track/1pC8BBv7zhS1wr2nf7CxPx) | [Hatcher](https://open.spotify.com/artist/0BMn0H7HCxdzlwJ91FvCkg) | [Afraid of Forever](https://open.spotify.com/album/0aIZsHJt4yXaBnNbFqec71) | 2:56 |
+| 81 | [Afraid of Forever](https://open.spotify.com/track/33Sra0ZInaSU7fgLefkgnU) | [Hatcher](https://open.spotify.com/artist/0BMn0H7HCxdzlwJ91FvCkg) | [Afraid of Forever](https://open.spotify.com/album/6JG2ccg7NMJMQgeAvDjkgb) | 2:56 |
 | 82 | [Cabin Fever](https://open.spotify.com/track/3tKVfUEpy8ll3GtC3uYfAA) | [Aaron Vance](https://open.spotify.com/artist/2BdvOgZdYNtGAzVEfg5jci) | [Cabin Fever](https://open.spotify.com/album/28TxK5Wufy1F037e5TENu1) | 2:53 |
 | 83 | [Sober & Skinny](https://open.spotify.com/track/4HQesVjCWOSKvzqirkvuP9) | [Brittney Spencer](https://open.spotify.com/artist/6YM5gRpMJkP0kUWRcvlHT3) | [Sober & Skinny](https://open.spotify.com/album/59FsWHitAiywqK2AFSqci0) | 3:18 |
 | 84 | [Guilty](https://open.spotify.com/track/1lGb5arfGbuaf3x8WItW47) | [O.N.E The Duo](https://open.spotify.com/artist/4sIPNUYiz7FcZBx1oHuMHe) | [Guilty](https://open.spotify.com/album/16IHuRaNklgTjUc3NnJ3kW) | 3:02 |
@@ -113,4 +113,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY1wwcap53LA.md) - [plain]
 | 103 | [Good Love](https://open.spotify.com/track/7sMoGNd6xOM7CD1WdFRWBQ) | [Shy Carter](https://open.spotify.com/artist/7JZafQsN8syJ9agEtcyP4V) | [Good Love](https://open.spotify.com/album/3lpdLJbh71M7f7YezuOEww) | 2:59 |
 | 104 | [Small Town](https://open.spotify.com/track/2AQNauizjgSmFeUIdtlNqS) | [Warrick McZeke](https://open.spotify.com/artist/49r2zkItXkIJc5tDfnVCIi) | [Small Town](https://open.spotify.com/album/7ESdUin17RB1cW22mGntRb) | 3:42 |
 
-Snapshot ID: `MCxkYWQxMjg3ZmVmNzNmZmNjZmJlZTU2NWU3Y2QzMzFkNzJiYTk0Njhm`
+Snapshot ID: `MCwzNjY0NzBjYmMxZjk3ZDEyY2M4MjhiOGRlZDBhODM4MmJmNDU1ZWM0`

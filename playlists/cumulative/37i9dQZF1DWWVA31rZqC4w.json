@@ -72,6 +72,24 @@
     {
       "album": {
         "name": "Breathe.",
+        "url": "https://open.spotify.com/album/60GlIPJZ9E9mvH1SJCFCaa"
+      },
+      "artists": [
+        {
+          "name": "breathe.",
+          "url": "https://open.spotify.com/artist/6XrEYPg6rrQMV4GKabTxbE"
+        }
+      ],
+      "date_added": "2023-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191974,
+      "name": "Are You All Good?",
+      "url": "https://open.spotify.com/track/6bmoA5by5aXQp5hG8cRbyW"
+    },
+    {
+      "album": {
+        "name": "Breathe.",
         "url": "https://open.spotify.com/album/5w5bwL9qRsIQn58XqVhzO5"
       },
       "artists": [
@@ -82,7 +100,7 @@
       ],
       "date_added": "2023-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 191974,
       "name": "Are You All Good?",
       "url": "https://open.spotify.com/track/7I5tV3ZQVLRav2PADoFbb9"

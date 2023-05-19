@@ -4,11 +4,12 @@
 
 > Meet Joe Hisaishi, a one\-of\-a\-kind composer/musician known for his world famous "Studio Ghibli" film scores, as well as countless other classics.
 
-62 songs - 4 hr 42 min
+63 songs - 4 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [6番目の駅](https://open.spotify.com/track/21KGv1YczcrXZWbcRPvBRG) | [Joe Hisaishi](https://open.spotify.com/artist/7nzSoJISlVJsn7O0yTeMOB) | [ENCORE](https://open.spotify.com/album/5pSXHB3YxpvayU1byEzKTZ) | 3:48 | 2021-08-19 |  |
+| [A Town with an Ocean View \- from 'Kiki's Delivery Service'](https://open.spotify.com/track/3Cc3gM7VhwZI7KkAobM8ei) | [Joe Hisaishi](https://open.spotify.com/artist/7nzSoJISlVJsn7O0yTeMOB), [ロイヤル・フィルハーモニー管弦楽団](https://open.spotify.com/artist/7Ah35lhlp7p3HOVmmzJh2I) | [A Town with an Ocean View \(from 'Kiki's Delivery Service'\)](https://open.spotify.com/album/3gbbWw3D2YPXxN4pGLbQ2H) | 3:58 | 2023-05-18 |  |
 | [a Wish to the Moon](https://open.spotify.com/track/4OaocdhjiMZ149ZnJYYgyD) | [Joe Hisaishi](https://open.spotify.com/artist/7nzSoJISlVJsn7O0yTeMOB) | [ETUDE \~a Wish to the Moon\~](https://open.spotify.com/album/40yhQ9lfcanVVJkHTvSd0q) | 3:57 | 2021-08-19 |  |
 | [ANGEL DOLL](https://open.spotify.com/track/7KFxjEHFT3KHLeD5hbohIk) | [Joe Hisaishi](https://open.spotify.com/artist/7nzSoJISlVJsn7O0yTeMOB) | [Kids Return \(オリジナル・サウンドトラック\)](https://open.spotify.com/album/32TaUR88QyqMkXT4h7ffm0) | 2:17 | 2021-08-19 |  |
 | [Angel Springs](https://open.spotify.com/track/3G6sE7Du0lMIv8UWx4Xahs) | [Joe Hisaishi](https://open.spotify.com/artist/7nzSoJISlVJsn7O0yTeMOB), [Pan Strings](https://open.spotify.com/artist/2FRsJ3vZp5ElXXF8NAiMOr) | [PIANO STORIES II \~The Wind of Life\~](https://open.spotify.com/album/1QDFS0uYL7jEmBoM92uxQi) | 3:12 | 2021-08-19 |  |

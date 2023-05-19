@@ -1,12 +1,12 @@
 {
   "description": "\u00a1El mejor condimento para tus comidas!",
-  "num_followers": 143614,
+  "num_followers": 143697,
   "original_name": "Cocina con Cumbia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwYzcyYTViYjRlNmMzODg4NTkyN2Y5NmUxODMyZTYwOTYzZWUyYTli",
+  "snapshot_id": "MCwyNDJjZTkyZjQ5MTI3YTUxZWI5MTY1YTQwNTBlYTI5MGNlZjJkMDY0",
   "tracks": [
     {
       "added_at": "2023-05-05 03:00:00",
@@ -427,18 +427,18 @@
     {
       "added_at": "2023-05-05 03:00:00",
       "album": {
-        "name": "Dreaming Of You",
-        "url": "https://open.spotify.com/album/2IevUWpkZ9KUcr6ZhtklE0"
+        "name": "El Poder De La Cumbia",
+        "url": "https://open.spotify.com/album/2S6Dh7t8W9Uwc2ux3mP39m"
       },
       "artists": [
         {
-          "name": "Selena",
-          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
+          "name": "Grupo Kual?",
+          "url": "https://open.spotify.com/artist/4r880LQXdnpTflv3uqV4kX"
         }
       ],
-      "duration_ms": 184733,
-      "name": "Como La Flor",
-      "url": "https://open.spotify.com/track/5ubqSAc9LxUS2CsMHcA4kF"
+      "duration_ms": 283240,
+      "name": "Rumba Cha-Cha-Cha",
+      "url": "https://open.spotify.com/track/6Y0Z4tAyI5JwBPVbxKQpXe"
     },
     {
       "added_at": "2023-05-05 03:00:00",
@@ -459,18 +459,18 @@
     {
       "added_at": "2023-05-05 03:00:00",
       "album": {
-        "name": "El Poder De La Cumbia",
-        "url": "https://open.spotify.com/album/2S6Dh7t8W9Uwc2ux3mP39m"
+        "name": "Dreaming Of You",
+        "url": "https://open.spotify.com/album/2IevUWpkZ9KUcr6ZhtklE0"
       },
       "artists": [
         {
-          "name": "Grupo Kual?",
-          "url": "https://open.spotify.com/artist/4r880LQXdnpTflv3uqV4kX"
+          "name": "Selena",
+          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
         }
       ],
-      "duration_ms": 283240,
-      "name": "Rumba Cha-Cha-Cha",
-      "url": "https://open.spotify.com/track/6Y0Z4tAyI5JwBPVbxKQpXe"
+      "duration_ms": 184733,
+      "name": "Como La Flor",
+      "url": "https://open.spotify.com/track/5ubqSAc9LxUS2CsMHcA4kF"
     },
     {
       "added_at": "2023-05-05 03:00:00",
@@ -799,6 +799,22 @@
     {
       "added_at": "2023-05-05 03:00:00",
       "album": {
+        "name": "Alg\u00fan D\u00eda Volver\u00e1s",
+        "url": "https://open.spotify.com/album/6KrxfZdEyAbE1rYJfuoH0i"
+      },
+      "artists": [
+        {
+          "name": "Santaferia",
+          "url": "https://open.spotify.com/artist/22QaKKmBIH3QiotuG30W3o"
+        }
+      ],
+      "duration_ms": 253822,
+      "name": "Alg\u00fan D\u00eda Volver\u00e1s",
+      "url": "https://open.spotify.com/track/5Py45FF8phNy49BaehU3PC"
+    },
+    {
+      "added_at": "2023-05-05 03:00:00",
+      "album": {
         "name": "No Se Va",
         "url": "https://open.spotify.com/album/1qYntEy4y4mTAisca3zseT"
       },
@@ -819,22 +835,6 @@
       "duration_ms": 201804,
       "name": "No Se Va",
       "url": "https://open.spotify.com/track/0kS31L4yk4ZpSCvvwyZ6T3"
-    },
-    {
-      "added_at": "2023-05-05 03:00:00",
-      "album": {
-        "name": "Alg\u00fan D\u00eda Volver\u00e1s",
-        "url": "https://open.spotify.com/album/6KrxfZdEyAbE1rYJfuoH0i"
-      },
-      "artists": [
-        {
-          "name": "Santaferia",
-          "url": "https://open.spotify.com/artist/22QaKKmBIH3QiotuG30W3o"
-        }
-      ],
-      "duration_ms": 253822,
-      "name": "Alg\u00fan D\u00eda Volver\u00e1s",
-      "url": "https://open.spotify.com/track/5Py45FF8phNy49BaehU3PC"
     },
     {
       "added_at": "2023-05-05 03:00:00",
@@ -927,22 +927,6 @@
     {
       "added_at": "2023-05-05 03:00:00",
       "album": {
-        "name": "Si Tu Supieras",
-        "url": "https://open.spotify.com/album/5SYW3HfQPkp7vIglyaF0Uv"
-      },
-      "artists": [
-        {
-          "name": "Ke Personajes",
-          "url": "https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM"
-        }
-      ],
-      "duration_ms": 182599,
-      "name": "Si Tu Supieras",
-      "url": "https://open.spotify.com/track/1lyJIjlGdT429sZpukV0Ih"
-    },
-    {
-      "added_at": "2023-05-05 03:00:00",
-      "album": {
         "name": "En El Ojo Del Hurac\u00e1n",
         "url": "https://open.spotify.com/album/6BvsB3GWe7LlRBZyK5nBAQ"
       },
@@ -955,6 +939,22 @@
       "duration_ms": 193826,
       "name": "EL Gil De Tu Ex",
       "url": "https://open.spotify.com/track/5hMadRUTp4S3ewaJIaI7Qo"
+    },
+    {
+      "added_at": "2023-05-05 03:00:00",
+      "album": {
+        "name": "Si Tu Supieras",
+        "url": "https://open.spotify.com/album/5SYW3HfQPkp7vIglyaF0Uv"
+      },
+      "artists": [
+        {
+          "name": "Ke Personajes",
+          "url": "https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM"
+        }
+      ],
+      "duration_ms": 182599,
+      "name": "Si Tu Supieras",
+      "url": "https://open.spotify.com/track/1lyJIjlGdT429sZpukV0Ih"
     },
     {
       "added_at": "2023-05-05 03:00:00",
@@ -1055,22 +1055,6 @@
     {
       "added_at": "2023-05-05 03:00:00",
       "album": {
-        "name": "Los M\u00e1s Queridos",
-        "url": "https://open.spotify.com/album/6I4Hfrp7oGAXRmPjcfCAW4"
-      },
-      "artists": [
-        {
-          "name": "La Nueva Luna",
-          "url": "https://open.spotify.com/artist/6pVmT18pd1QaofDegZUEKX"
-        }
-      ],
-      "duration_ms": 203600,
-      "name": "Te Vas a Arrepentir",
-      "url": "https://open.spotify.com/track/5XjusjnRecmB48YdD9BEIJ"
-    },
-    {
-      "added_at": "2023-05-05 03:00:00",
-      "album": {
         "name": "Flasheaste Amor",
         "url": "https://open.spotify.com/album/34AlPTtBDL5H8B1Dl2DgoO"
       },
@@ -1095,18 +1079,18 @@
     {
       "added_at": "2023-05-05 03:00:00",
       "album": {
-        "name": "Un Homenaje al Cielo",
-        "url": "https://open.spotify.com/album/1ZlJYrZ68YhJevmEAaQBdL"
+        "name": "Los M\u00e1s Queridos",
+        "url": "https://open.spotify.com/album/6I4Hfrp7oGAXRmPjcfCAW4"
       },
       "artists": [
         {
-          "name": "Leo Mattioli",
-          "url": "https://open.spotify.com/artist/2Mu8h5sFkOziL0Rfn7FXIA"
+          "name": "La Nueva Luna",
+          "url": "https://open.spotify.com/artist/6pVmT18pd1QaofDegZUEKX"
         }
       ],
-      "duration_ms": 212533,
-      "name": "Tramposa y Mentirosa",
-      "url": "https://open.spotify.com/track/6QmChI3qnlVSMHihZPzCTf"
+      "duration_ms": 203600,
+      "name": "Te Vas a Arrepentir",
+      "url": "https://open.spotify.com/track/5XjusjnRecmB48YdD9BEIJ"
     },
     {
       "added_at": "2023-05-05 03:00:00",
@@ -1127,6 +1111,22 @@
     {
       "added_at": "2023-05-05 03:00:00",
       "album": {
+        "name": "Un Homenaje al Cielo",
+        "url": "https://open.spotify.com/album/1ZlJYrZ68YhJevmEAaQBdL"
+      },
+      "artists": [
+        {
+          "name": "Leo Mattioli",
+          "url": "https://open.spotify.com/artist/2Mu8h5sFkOziL0Rfn7FXIA"
+        }
+      ],
+      "duration_ms": 212533,
+      "name": "Tramposa y Mentirosa",
+      "url": "https://open.spotify.com/track/6QmChI3qnlVSMHihZPzCTf"
+    },
+    {
+      "added_at": "2023-05-05 03:00:00",
+      "album": {
         "name": "B\u00e9same",
         "url": "https://open.spotify.com/album/2gdXeh9icSTRQp71pxmTP6"
       },
@@ -1143,6 +1143,22 @@
       "duration_ms": 142410,
       "name": "B\u00e9same",
       "url": "https://open.spotify.com/track/5uD4fcXch2qE5LYeyDipA1"
+    },
+    {
+      "added_at": "2023-05-05 03:00:00",
+      "album": {
+        "name": "Cumbia Pa' seguir Bailando",
+        "url": "https://open.spotify.com/album/6StHl9h5jusxFp10JAKmZu"
+      },
+      "artists": [
+        {
+          "name": "Cumbias Poblanas",
+          "url": "https://open.spotify.com/artist/5yfgm29nhL4CSbKZSPORu4"
+        }
+      ],
+      "duration_ms": 289802,
+      "name": "Las Amo a Las Dos",
+      "url": "https://open.spotify.com/track/4XqXGdhCvH9GL7DWeqUrWm"
     },
     {
       "added_at": "2023-05-05 03:00:00",
@@ -1183,22 +1199,6 @@
     {
       "added_at": "2023-05-05 03:00:00",
       "album": {
-        "name": "Cumbia Pa' seguir Bailando",
-        "url": "https://open.spotify.com/album/6StHl9h5jusxFp10JAKmZu"
-      },
-      "artists": [
-        {
-          "name": "Cumbias Poblanas",
-          "url": "https://open.spotify.com/artist/5yfgm29nhL4CSbKZSPORu4"
-        }
-      ],
-      "duration_ms": 289802,
-      "name": "Las Amo a Las Dos",
-      "url": "https://open.spotify.com/track/4XqXGdhCvH9GL7DWeqUrWm"
-    },
-    {
-      "added_at": "2023-05-05 03:00:00",
-      "album": {
         "name": "Lo Nuevo Y\u2026Lo Mejor",
         "url": "https://open.spotify.com/album/7qIY0P5qM0LzI1SYx9r8dZ"
       },
@@ -1211,42 +1211,6 @@
       "duration_ms": 169640,
       "name": "La Cumbia De La Cerveza",
       "url": "https://open.spotify.com/track/2J0QDG9aKp41dl3nT9d9IQ"
-    },
-    {
-      "added_at": "2023-05-05 03:00:00",
-      "album": {
-        "name": "A\u00fan Sigue La Lecci\u00f3n",
-        "url": "https://open.spotify.com/album/1DJVooNQQTQFyPMJIMQxtG"
-      },
-      "artists": [
-        {
-          "name": "Leo Mattioli",
-          "url": "https://open.spotify.com/artist/2Mu8h5sFkOziL0Rfn7FXIA"
-        },
-        {
-          "name": "Carolina Antiman",
-          "url": "https://open.spotify.com/artist/290gGqoqPQYcOCD3mvL76T"
-        }
-      ],
-      "duration_ms": 211213,
-      "name": "Llorar\u00e1s M\u00e1s de Diez Veces",
-      "url": "https://open.spotify.com/track/46kxzCwAMxrneUFJJT1njt"
-    },
-    {
-      "added_at": "2023-05-05 03:00:00",
-      "album": {
-        "name": "Soplando Fuerte / Un Fen\u00f3meno Natural",
-        "url": "https://open.spotify.com/album/2heClZNeae75Z0bcYKSKZC"
-      },
-      "artists": [
-        {
-          "name": "Rafaga",
-          "url": "https://open.spotify.com/artist/0CBKUzrf6yGdTgxAQbUUHS"
-        }
-      ],
-      "duration_ms": 182293,
-      "name": "Una R\u00e1faga De Amor",
-      "url": "https://open.spotify.com/track/5C9UraxYO3LXkq7Py5NKcN"
     },
     {
       "added_at": "2023-05-05 03:00:00",
@@ -1267,6 +1231,22 @@
     {
       "added_at": "2023-05-05 03:00:00",
       "album": {
+        "name": "Soplando Fuerte / Un Fen\u00f3meno Natural",
+        "url": "https://open.spotify.com/album/2heClZNeae75Z0bcYKSKZC"
+      },
+      "artists": [
+        {
+          "name": "Rafaga",
+          "url": "https://open.spotify.com/artist/0CBKUzrf6yGdTgxAQbUUHS"
+        }
+      ],
+      "duration_ms": 182293,
+      "name": "Una R\u00e1faga De Amor",
+      "url": "https://open.spotify.com/track/5C9UraxYO3LXkq7Py5NKcN"
+    },
+    {
+      "added_at": "2023-05-05 03:00:00",
+      "album": {
         "name": "Los Exitos Mas Calientes",
         "url": "https://open.spotify.com/album/0CFZMKonWgHqhJ1jFipGDt"
       },
@@ -1279,6 +1259,26 @@
       "duration_ms": 233717,
       "name": "Cumbia Sampuesana",
       "url": "https://open.spotify.com/track/4AwgFDiynuu52p5xtpRlNG"
+    },
+    {
+      "added_at": "2023-05-05 03:00:00",
+      "album": {
+        "name": "A\u00fan Sigue La Lecci\u00f3n",
+        "url": "https://open.spotify.com/album/1DJVooNQQTQFyPMJIMQxtG"
+      },
+      "artists": [
+        {
+          "name": "Leo Mattioli",
+          "url": "https://open.spotify.com/artist/2Mu8h5sFkOziL0Rfn7FXIA"
+        },
+        {
+          "name": "Carolina Antiman",
+          "url": "https://open.spotify.com/artist/290gGqoqPQYcOCD3mvL76T"
+        }
+      ],
+      "duration_ms": 211213,
+      "name": "Llorar\u00e1s M\u00e1s de Diez Veces",
+      "url": "https://open.spotify.com/track/46kxzCwAMxrneUFJJT1njt"
     },
     {
       "added_at": "2023-05-05 03:00:00",
@@ -1367,22 +1367,6 @@
     {
       "added_at": "2023-05-05 03:00:00",
       "album": {
-        "name": "Coraz\u00f3n Valiente",
-        "url": "https://open.spotify.com/album/1qeqv8V5qkNHRmhcBD5QnD"
-      },
-      "artists": [
-        {
-          "name": "Gilda",
-          "url": "https://open.spotify.com/artist/6Q6qTNC2rAegcR5QjzcRgE"
-        }
-      ],
-      "duration_ms": 184893,
-      "name": "Fuiste",
-      "url": "https://open.spotify.com/track/4fLd1pIpGwV4IEbQNyQMLh"
-    },
-    {
-      "added_at": "2023-05-05 03:00:00",
-      "album": {
         "name": "30 Aniversario (Edici\u00f3n Limitada)",
         "url": "https://open.spotify.com/album/4xxnGwPDaWB4OUmhoGIBCG"
       },
@@ -1395,22 +1379,6 @@
       "duration_ms": 193760,
       "name": "El Santo Del Amor",
       "url": "https://open.spotify.com/track/79uzaKuR1gvIAzTkOkkkq8"
-    },
-    {
-      "added_at": "2023-05-05 03:00:00",
-      "album": {
-        "name": "No Est\u00e1 en la Flecha Sino en el Indio",
-        "url": "https://open.spotify.com/album/0c5AlFdcK0Tv073nYxrOBA"
-      },
-      "artists": [
-        {
-          "name": "Nene Malo",
-          "url": "https://open.spotify.com/artist/58UPAlQ4MRWEDLhfdP4VcN"
-        }
-      ],
-      "duration_ms": 185453,
-      "name": "Esc\u00e1pate Conmigo",
-      "url": "https://open.spotify.com/track/408q39K0rnY815TF5x52tb"
     },
     {
       "added_at": "2023-05-05 03:00:00",
@@ -1431,18 +1399,34 @@
     {
       "added_at": "2023-05-05 03:00:00",
       "album": {
-        "name": "Boquita de Caramelo",
-        "url": "https://open.spotify.com/album/0zXEyFkwoxht6Bqd3SgnOm"
+        "name": "Coraz\u00f3n Valiente",
+        "url": "https://open.spotify.com/album/1qeqv8V5qkNHRmhcBD5QnD"
       },
       "artists": [
         {
-          "name": "Grupo Sombras",
-          "url": "https://open.spotify.com/artist/2t5LZnlhZW4ctjLQE9qoae"
+          "name": "Gilda",
+          "url": "https://open.spotify.com/artist/6Q6qTNC2rAegcR5QjzcRgE"
         }
       ],
-      "duration_ms": 243920,
-      "name": "La Ventanita",
-      "url": "https://open.spotify.com/track/2dfnK7rHRibkQR93iZn7Z2"
+      "duration_ms": 184893,
+      "name": "Fuiste",
+      "url": "https://open.spotify.com/track/4fLd1pIpGwV4IEbQNyQMLh"
+    },
+    {
+      "added_at": "2023-05-05 03:00:00",
+      "album": {
+        "name": "No Est\u00e1 en la Flecha Sino en el Indio",
+        "url": "https://open.spotify.com/album/0c5AlFdcK0Tv073nYxrOBA"
+      },
+      "artists": [
+        {
+          "name": "Nene Malo",
+          "url": "https://open.spotify.com/artist/58UPAlQ4MRWEDLhfdP4VcN"
+        }
+      ],
+      "duration_ms": 185453,
+      "name": "Esc\u00e1pate Conmigo",
+      "url": "https://open.spotify.com/track/408q39K0rnY815TF5x52tb"
     },
     {
       "added_at": "2023-05-05 03:00:00",
@@ -1459,6 +1443,22 @@
       "duration_ms": 195586,
       "name": "No Podre Olvidarme",
       "url": "https://open.spotify.com/track/3tl8h7FZbALLLTGk5MPeHL"
+    },
+    {
+      "added_at": "2023-05-05 03:00:00",
+      "album": {
+        "name": "Boquita de Caramelo",
+        "url": "https://open.spotify.com/album/0zXEyFkwoxht6Bqd3SgnOm"
+      },
+      "artists": [
+        {
+          "name": "Grupo Sombras",
+          "url": "https://open.spotify.com/artist/2t5LZnlhZW4ctjLQE9qoae"
+        }
+      ],
+      "duration_ms": 243920,
+      "name": "La Ventanita",
+      "url": "https://open.spotify.com/track/2dfnK7rHRibkQR93iZn7Z2"
     },
     {
       "added_at": "2023-05-05 03:00:00",
@@ -1611,22 +1611,6 @@
     {
       "added_at": "2023-05-05 03:00:00",
       "album": {
-        "name": "Grandes \u00c9xitos Regrabados",
-        "url": "https://open.spotify.com/album/7Hui8LAkH3zKpZMIztPYLr"
-      },
-      "artists": [
-        {
-          "name": "La Nueva Luna",
-          "url": "https://open.spotify.com/artist/6pVmT18pd1QaofDegZUEKX"
-        }
-      ],
-      "duration_ms": 242242,
-      "name": "Iluminar\u00e1",
-      "url": "https://open.spotify.com/track/76BnEV7y0FIyDodcCt9sxC"
-    },
-    {
-      "added_at": "2023-05-05 03:00:00",
-      "album": {
         "name": "Pero La Recuerdo",
         "url": "https://open.spotify.com/album/1rZTUDYyxdMYExoSiMa9kC"
       },
@@ -1643,6 +1627,22 @@
       "duration_ms": 242906,
       "name": "Pero La Recuerdo",
       "url": "https://open.spotify.com/track/3mtThJNrqACi4f6GJeduAR"
+    },
+    {
+      "added_at": "2023-05-05 03:00:00",
+      "album": {
+        "name": "Grandes \u00c9xitos Regrabados",
+        "url": "https://open.spotify.com/album/7Hui8LAkH3zKpZMIztPYLr"
+      },
+      "artists": [
+        {
+          "name": "La Nueva Luna",
+          "url": "https://open.spotify.com/artist/6pVmT18pd1QaofDegZUEKX"
+        }
+      ],
+      "duration_ms": 242242,
+      "name": "Iluminar\u00e1",
+      "url": "https://open.spotify.com/track/76BnEV7y0FIyDodcCt9sxC"
     },
     {
       "added_at": "2023-05-05 03:00:00",

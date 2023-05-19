@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXblsWWYXYYVu.md) - [plain]
 
 > Relax and take it slow today
 
-[Spotify](https://open.spotify.com/user/spotify) - 73,961 likes - 100 songs - 5 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 73,974 likes - 100 songs - 5 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXblsWWYXYYVu.md) - [plain]
 | 99 | [War](https://open.spotify.com/track/1UxeYs0x9oyJtCpmH0QbvL) | [The Dryes](https://open.spotify.com/artist/0npnqS0C9n5uuuBQC4oEWE) | [War](https://open.spotify.com/album/5BGimDYo0GQML8zT2gTeJK) | 3:47 |
 | 100 | [I Can't \(Acoustic\)](https://open.spotify.com/track/7jjeVkCrL7K9ej9Pxt76bb) | [Caitlyn Smith](https://open.spotify.com/artist/3uikSah4dwqwuk0EidFI4R) | [Supernova Acoustic](https://open.spotify.com/album/6osrioku931TjO8ybo7oGX) | 3:32 |
 
-Snapshot ID: `MCw1YTE5ZTgwNzcwYzYwNzU0ZDVhMDMzZWZlYzQ4ZjZiODk3ZmVhMWUz`
+Snapshot ID: `MCwwMDQ1OGYzNTdlZWI3YjgzOTczMjZhYzQ2MTMzZGFjODMxZGRjYWQx`

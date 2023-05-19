@@ -4,7 +4,7 @@
 
 > Best blends of Electronic music Across East Africa
 
-86 songs - 6 hr 58 min
+87 songs - 7 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,6 +19,7 @@
 | [Chuki](https://open.spotify.com/track/1i9pxVfeE7JLJRIgvWIIJp) | [Euggy](https://open.spotify.com/artist/0YptteJXaFS7w41fz81gsn), [TekniQ](https://open.spotify.com/artist/2bStEVhFVPtYOzOxP58xeq), [Idd Aziz](https://open.spotify.com/artist/0LC3HTEh3afI3UfpmSdShk) | [Chuki](https://open.spotify.com/album/5IzLQJEynAMDV6DGfzfkr6) | 6:26 | 2023-01-12 |  |
 | [Crystal Castles](https://open.spotify.com/track/03ECbB4w8kzV5AuQZIAcQk) | [Anigmus](https://open.spotify.com/artist/3SGoaGg7W9nMfX8bUc32rG), [Magic Music Record](https://open.spotify.com/artist/52i91BwNbmPpqL4KVlFeIG) | [Crystal Castles](https://open.spotify.com/album/5Bbumee8E2JyV57k17861e) | 3:18 | 2023-01-26 |  |
 | [Don't Let Them Scatter Your Angels](https://open.spotify.com/track/750gJj34fEhpcoKw5FY9iG) | [Jus](https://open.spotify.com/artist/2WKwwGJ7L0RN5xNV3ljhkq), [Jabali Afrika](https://open.spotify.com/artist/5qF9WAxB1C3SxPdE1xp0wC), [Samaki Mkuu](https://open.spotify.com/artist/6DUSQDYQbsaKtEISmpWIou), [Achieng Guyo](https://open.spotify.com/artist/1KUhMhMHoNksFpM9L5zrRv) | [Don't Let Them Scatter Your Angels](https://open.spotify.com/album/2C9TLDQAXf9uPvwE8t1UEf) | 4:22 | 2022-08-01 |  |
+| [Dunguni feat Idd Aziz](https://open.spotify.com/track/3vIah0m7Mxv4BSk0LVpX6M) | [SIL3NTKILL](https://open.spotify.com/artist/4FB27lfrCEGXTjrgs3zeFC), [Idd Aziz](https://open.spotify.com/artist/0LC3HTEh3afI3UfpmSdShk) | [Dunguni feat Idd Aziz](https://open.spotify.com/album/0wtiHPGJQpCbcAUA4xfhGF) | 5:25 | 2023-05-18 |  |
 | [Fire](https://open.spotify.com/track/4ubZszrzbW32EIfQlfwBgW) | [Sun\-El Musician](https://open.spotify.com/artist/0W8WpLB5WoXLgiA193LXk6), [Sauti Sol](https://open.spotify.com/artist/4Rj9lQm9oSiMlirgpsM6eo) | [Fire](https://open.spotify.com/album/4X68mxc76NPAd7Bch56JWl) | 3:47 | 2022-08-01 |  |
 | [Flames](https://open.spotify.com/track/6X0p3vgL8JMyUTLHDm8taS) | [Lucien](https://open.spotify.com/artist/5qmHB3aI1CfoYudcfOdgod) | [Flames](https://open.spotify.com/album/6CXfE7vb0Nl5ZFthPzdn2U) | 2:21 | 2023-03-31 |  |
 | [Gongo](https://open.spotify.com/track/55UCq8K2C8Tf1zJ4CIhta0) | [Anrey](https://open.spotify.com/artist/7a2a36QkRDDOhyHWkDXYGw), [Idd Aziz](https://open.spotify.com/artist/0LC3HTEh3afI3UfpmSdShk) | [Gongo](https://open.spotify.com/album/2dqi90Af77LxU3O88JY7F9) | 3:13 | 2023-03-03 |  |
@@ -45,7 +46,7 @@
 | [Mbesha Fari Fari](https://open.spotify.com/track/7eJCWj0y3C1zOYtC9MJjts) | [Nelmo Newsong](https://open.spotify.com/artist/0jQAdAzjIh6BrZEShGb95v) | [Mbesha Fari Fari](https://open.spotify.com/album/5w052vFIxbeK6F2P4DGyuY) | 3:05 | 2022-08-01 |  |
 | [Meremeta \- Original Mix](https://open.spotify.com/track/1RtNC1Fzwk82d0agNBbxu5) | [DJ IC](https://open.spotify.com/artist/5m0mPka5wvWns733bGWIHz), [Dj Jim Mastershine](https://open.spotify.com/artist/63xZCjmz39rg3enEgZ5A6u), [Idd Aziz](https://open.spotify.com/artist/0LC3HTEh3afI3UfpmSdShk) | [Meremeta](https://open.spotify.com/album/4kF0kWybn8DTeASl6Dt27G) | 5:48 | 2022-08-01 | 2023-01-13 |
 | [Mezdeke](https://open.spotify.com/track/4bo8D47IbBsbG3UQ0wSO7t) | [Bákayan](https://open.spotify.com/artist/3PqC2FtvZWEUrUExbBcGRt), [Idd Aziz](https://open.spotify.com/artist/0LC3HTEh3afI3UfpmSdShk) | [Mezdeke](https://open.spotify.com/album/0KNgzeBHr2gBFJTJGiwjNv) | 7:44 | 2023-01-12 |  |
-| [Mipango](https://open.spotify.com/track/0db4aR1MFcOKxeb6EG2T8P) | [PROFF](https://open.spotify.com/artist/3jAosRBCdrybxqTnrI4Sld), [Idd Aziz](https://open.spotify.com/artist/0LC3HTEh3afI3UfpmSdShk) | [Mipango](https://open.spotify.com/album/33kMA9mbcyCOFDLq9ms5Bz) | 4:16 | 2023-02-10 |  |
+| [Mipango](https://open.spotify.com/track/0db4aR1MFcOKxeb6EG2T8P) | [PROFF](https://open.spotify.com/artist/3jAosRBCdrybxqTnrI4Sld), [Idd Aziz](https://open.spotify.com/artist/0LC3HTEh3afI3UfpmSdShk) | [Mipango](https://open.spotify.com/album/33kMA9mbcyCOFDLq9ms5Bz) | 4:16 | 2023-02-10 | 2023-05-19 |
 | [Mohawk Man](https://open.spotify.com/track/3E0T81r9gsMNNdX4BKSRM5) | [Mtsepisto](https://open.spotify.com/artist/7GKJKoCggjyP6C6xclndbF), [Saint Evo](https://open.spotify.com/artist/08dNTAMCiCM61JnSslHFCE) | [Mohawk Man](https://open.spotify.com/album/6qsPYcaf7KJNgZ4Lk7KldH) | 8:00 | 2022-08-01 |  |
 | [Money](https://open.spotify.com/track/2ZPKXWhtR5xfONqBdSgBiO) | [Dj McKenzie](https://open.spotify.com/artist/7biowjIK645MQ9tsK3OW45) | [Money](https://open.spotify.com/album/4jvIzo5bnxPmkyhe1P3DQ0) | 2:55 | 2023-03-03 |  |
 | [Moonlight](https://open.spotify.com/track/6rrATKJB6UFjwK3CGvoRqK) | [JOSHUA LAZER](https://open.spotify.com/artist/2CtZZgLqDy4tgYKMLHdpO0), [N@OM1](https://open.spotify.com/artist/1mCXXd6kgTl6zLQ20KRFn8) | [Moonlight](https://open.spotify.com/album/1oGWt4uKWXHx6kR9gQPLB1) | 2:41 | 2022-08-19 | 2023-02-18 |

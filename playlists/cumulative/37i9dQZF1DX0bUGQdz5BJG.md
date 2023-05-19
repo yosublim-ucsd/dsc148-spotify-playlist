@@ -4,7 +4,7 @@
 
 > Music City must\-hears\. Cover: Meghan Patrick
 
-1,326 songs - 2 day 23 hr 1 min
+1,327 songs - 2 day 23 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -389,7 +389,8 @@
 | [Ghost Story](https://open.spotify.com/track/2FGOg7uYBfnspkPOISXTFY) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Ghost Story](https://open.spotify.com/album/7jiRQ5lBRvqoqSsPldfHjc) | 3:01 | 2022-03-18 | 2022-03-26 |
 | [Girl Back](https://open.spotify.com/track/3y5TlW1wRXvEMRHiiu4ImN) | [Filmore](https://open.spotify.com/artist/0FvJm0y2eHw0aPkLLU3sIG) | [Girl Back](https://open.spotify.com/album/4NhBl12HJmeNGm4DZqnoZ9) | 2:58 | 2022-03-18 | 2022-04-02 |
 | [Girl in Love](https://open.spotify.com/track/0XlbzugAOq7MectvIaOfZ4) | [Adam Doleac](https://open.spotify.com/artist/4NsVVzuaZGk4aya8Pyacew) | [Girl in Love](https://open.spotify.com/album/0vOGXcKTQEXmhVB7nMTHYy) | 3:18 | 2022-07-15 | 2022-08-20 |
-| [Girl in the Mirror](https://open.spotify.com/track/0qwSPLH0QyaMZlmJtsxNZ5) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [Girl in the Mirror](https://open.spotify.com/album/3pvp1aMU2i1lF6sFlsXV5J) | 2:45 | 2023-04-14 |  |
+| [Girl in the Mirror](https://open.spotify.com/track/0qwSPLH0QyaMZlmJtsxNZ5) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [Girl in the Mirror](https://open.spotify.com/album/3pvp1aMU2i1lF6sFlsXV5J) | 2:45 | 2023-04-14 | 2023-05-19 |
+| [Girl in the Mirror](https://open.spotify.com/track/6t0PM7tXvdqEHKYHtEDl5H) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [Lucky](https://open.spotify.com/album/5DFed53ADZwnPOYuqoZJHK) | 2:45 | 2023-05-16 |  |
 | [Girl On Fire](https://open.spotify.com/track/3DUVwg2lfRKphwNtYE7S85) | [Kameron Marlowe](https://open.spotify.com/artist/31n3CN1jSC5ALUJ9dwT8UI) | [Girl On Fire](https://open.spotify.com/album/1a9TtIPjYqfXrFMhAq8xBM) | 2:53 | 2022-06-10 | 2022-07-09 |
 | [Girl That Got Away Comes Back](https://open.spotify.com/track/5VNt2tPn5RCa25icl4hiMJ) | [Eric Van Houten](https://open.spotify.com/artist/4FQ4J66lTV5bpVtEKjiGeK) | [Dreamers](https://open.spotify.com/album/6T9I7BtWTwPIJQwbmE6sel) | 3:06 | 2022-03-04 | 2022-05-07 |
 | [Girl Wonder](https://open.spotify.com/track/2g3vOIC3J9uYfSu6yi74rI) | [Taylor Edwards](https://open.spotify.com/artist/2LMvoFcHZ0G38iO4Jra8ki) | [Girl Wonder](https://open.spotify.com/album/4kUyEMsQ4Ho1TkwPln0h6w) | 3:02 | 2022-07-01 | 2022-09-10 |

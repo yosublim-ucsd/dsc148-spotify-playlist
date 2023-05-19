@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-17",
-  "description": "Le meilleur du rap fran\u00e7ais version cloud. Photo : Moha MMZ",
+  "description": "Le meilleur du rap fran\u00e7ais version cloud. Photo : So La Lune",
   "name": "Cloud Rap",
   "tracks": [
     {
@@ -452,6 +452,24 @@
       "duration_ms": 154280,
       "name": "Bataille (Affam\u00e9 #18)",
       "url": "https://open.spotify.com/track/61b4BnxFsR4RrhHBv1KZqz"
+    },
+    {
+      "album": {
+        "name": "BB APPREND-MOI \u00c0 FERMER LES YEUX",
+        "url": "https://open.spotify.com/album/0DV620FQXLPrwCuCq7S1Oy"
+      },
+      "artists": [
+        {
+          "name": "Sovajon",
+          "url": "https://open.spotify.com/artist/41XEyClazvR6Ao77iD8qex"
+        }
+      ],
+      "date_added": "2023-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190000,
+      "name": "BB APPREND-MOI \u00c0 FERMER LES YEUX",
+      "url": "https://open.spotify.com/track/2fMsWuZwPOHzQubX1otzO2"
     },
     {
       "album": {
@@ -1060,7 +1078,7 @@
       ],
       "date_added": "2023-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 162857,
       "name": "En bas de chez moi",
       "url": "https://open.spotify.com/track/3OzkuO27kVWHxiQESqVvmw"
@@ -1280,7 +1298,7 @@
       ],
       "date_added": "2022-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 196245,
       "name": "FLOKI - Dysphoria",
       "url": "https://open.spotify.com/track/3vnQXpeuOqmRmYGqX7coFy"
@@ -1320,6 +1338,24 @@
       "duration_ms": 168000,
       "name": "Follow me",
       "url": "https://open.spotify.com/track/4e31rlOaeBSQ4lHj3kFzeM"
+    },
+    {
+      "album": {
+        "name": "Formidable (Affam\u00e9 #21)",
+        "url": "https://open.spotify.com/album/28eS3axRMn3LjcAgNL7mI2"
+      },
+      "artists": [
+        {
+          "name": "Zamdane",
+          "url": "https://open.spotify.com/artist/5CtPAGoxpJ4yLJLx6CSrO8"
+        }
+      ],
+      "date_added": "2023-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210000,
+      "name": "Formidable (Affam\u00e9 #21)",
+      "url": "https://open.spotify.com/track/6MPI2k0lQSbk2tPc3Zu28s"
     },
     {
       "album": {
@@ -1935,6 +1971,24 @@
     },
     {
       "album": {
+        "name": "La Villa",
+        "url": "https://open.spotify.com/album/3RmdxbQoyDJcGJYMUUsf54"
+      },
+      "artists": [
+        {
+          "name": "Rouge Carmin",
+          "url": "https://open.spotify.com/artist/4cj80pU5lKUZDMsCfyajyS"
+        }
+      ],
+      "date_added": "2023-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146101,
+      "name": "La Villa",
+      "url": "https://open.spotify.com/track/0bgaPlh35VreN2tIWPQph4"
+    },
+    {
+      "album": {
         "name": "Larmes",
         "url": "https://open.spotify.com/album/1YGUXrZ9U4pLtke6ZQPVW1"
       },
@@ -1950,6 +2004,28 @@
       "duration_ms": 222713,
       "name": "Larmes",
       "url": "https://open.spotify.com/track/278IRNfCKsIEDlXgZCLWZ6"
+    },
+    {
+      "album": {
+        "name": "Le jour se l\u00e8ve",
+        "url": "https://open.spotify.com/album/52dNCdNsbhSOd4LBBFbQp7"
+      },
+      "artists": [
+        {
+          "name": "Linton",
+          "url": "https://open.spotify.com/artist/2E2fqJpbXphODsOLkdI8U7"
+        },
+        {
+          "name": "Eline",
+          "url": "https://open.spotify.com/artist/5bGFc6JdtR529TQfHSmMYF"
+        }
+      ],
+      "date_added": "2023-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206608,
+      "name": "Le jour se l\u00e8ve",
+      "url": "https://open.spotify.com/track/4xYzugCwM1DXu24t6UO5Z8"
     },
     {
       "album": {
@@ -2754,7 +2830,7 @@
       ],
       "date_added": "2023-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 170001,
       "name": "Para\u00eet-il",
       "url": "https://open.spotify.com/track/5VJerGXFJYqUsV63tvUYlb"
@@ -3054,10 +3130,32 @@
       ],
       "date_added": "2023-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 157837,
       "name": "QLT",
       "url": "https://open.spotify.com/track/1b19yvM3Q1PzDEcLYrx6TT"
+    },
+    {
+      "album": {
+        "name": "LETS GO",
+        "url": "https://open.spotify.com/album/07JcrUKjzCDu3fkEtiW1XP"
+      },
+      "artists": [
+        {
+          "name": "LETS GO",
+          "url": "https://open.spotify.com/artist/1dsDes6AhaezAMdHIEQbAr"
+        },
+        {
+          "name": "Bekar",
+          "url": "https://open.spotify.com/artist/6wjkiUBMMYSIx5UBTp7eKC"
+        }
+      ],
+      "date_added": "2023-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167982,
+      "name": "REFLET",
+      "url": "https://open.spotify.com/track/6WVQNv6OfbKtZ5GIVsmWCu"
     },
     {
       "album": {
@@ -3094,7 +3192,7 @@
       ],
       "date_added": "2023-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 240000,
       "name": "Rem\u00e8de",
       "url": "https://open.spotify.com/track/7faltIY2L3Vce9l569cltM"
@@ -3449,6 +3547,28 @@
     },
     {
       "album": {
+        "name": "LETS GO",
+        "url": "https://open.spotify.com/album/07JcrUKjzCDu3fkEtiW1XP"
+      },
+      "artists": [
+        {
+          "name": "LETS GO",
+          "url": "https://open.spotify.com/artist/1dsDes6AhaezAMdHIEQbAr"
+        },
+        {
+          "name": "So La Lune",
+          "url": "https://open.spotify.com/artist/4ZW7BptOWzjNFLEqRiNCT7"
+        }
+      ],
+      "date_added": "2023-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189757,
+      "name": "SOLIDE",
+      "url": "https://open.spotify.com/track/6bHjkSacCGQ558e2VPHBL2"
+    },
+    {
+      "album": {
         "name": "Solitaire",
         "url": "https://open.spotify.com/album/1w91fuTe3zAPvcSyGlZdvE"
       },
@@ -3694,7 +3814,7 @@
       ],
       "date_added": "2022-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 160000,
       "name": "UBER",
       "url": "https://open.spotify.com/track/08QiWwcnUHZXsyIk0BXlcD"
@@ -3716,6 +3836,24 @@
       "duration_ms": 197093,
       "name": "Ulyss",
       "url": "https://open.spotify.com/track/6SLrsf0RoSwEWo6jp8fF7P"
+    },
+    {
+      "album": {
+        "name": "UN PEU PLUS SIMPLE",
+        "url": "https://open.spotify.com/album/1NXvyGiIFq3rIc0SZpcyGU"
+      },
+      "artists": [
+        {
+          "name": "Karmen",
+          "url": "https://open.spotify.com/artist/1EIQvc0qBhTAnZAcf5REtq"
+        }
+      ],
+      "date_added": "2023-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147692,
+      "name": "UN PEU PLUS SIMPLE",
+      "url": "https://open.spotify.com/track/1r5arJxSXv04aIhiIwlbkL"
     },
     {
       "album": {

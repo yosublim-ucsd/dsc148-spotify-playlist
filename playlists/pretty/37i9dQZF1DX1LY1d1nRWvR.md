@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1LY1d1nRWvR.md) - [plain]
 
 > Kick back  and soak up the warm and soothing tones of jazz and electronic.
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,582 likes - 50 songs - 4 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,602 likes - 50 songs - 4 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,16 +47,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1LY1d1nRWvR.md) - [plain]
 | 37 | [Eye Mo K](https://open.spotify.com/track/6o5bke7Cp481elgM8eTenO) | [Andrew Ashong](https://open.spotify.com/artist/2SJ3xpG9fseCPIqePAGp6o), [Kaidi Tatham](https://open.spotify.com/artist/1x2aM48UiN5WoQL6ISEPvz) | [Sankofa Season](https://open.spotify.com/album/4GsqSUelegSf0jTJyloIqz) | 5:42 |
 | 38 | [Aletheia](https://open.spotify.com/track/1SMLoRfenhQJjL4fbimctZ) | [O'Flynn](https://open.spotify.com/artist/7LTSTQkL7iK7zndjFQgHQo) | [Aletheia](https://open.spotify.com/album/0RVj8aaUuoTOZ7pyGjll6b) | 5:46 |
 | 39 | [See\-Line Woman \- Main Mix](https://open.spotify.com/track/7hbcgPOAPdrub7ht2quP04) | [Atjazz](https://open.spotify.com/artist/5E1HWPplEsztsh2zh1c9mH), [Dominique Fils\-Aimé](https://open.spotify.com/artist/10tvYvaoSO32hlvu3NrrPC) | [See\-Line Woman](https://open.spotify.com/album/1tFCA00rZrSeGHA208PfVY) | 3:46 |
-| 40 | [Tanto Tiempo \- Village Cuts Remix](https://open.spotify.com/track/7opvEv3xPJsMIiPrvq4S5e) | [Scrimshire](https://open.spotify.com/artist/5iVIpHSJD1uKtL3impLoKL), [Penya](https://open.spotify.com/artist/33E3A9UvKfjQno9m6S5xwU), [Village Cuts](https://open.spotify.com/artist/1a3m42fKHHR2MsiBQK3GVU) | [Tanto Tiempo](https://open.spotify.com/album/37idrhwVE8BaAIw4uJ7klK) | 4:55 |
-| 41 | [Been A Long Night](https://open.spotify.com/track/6R1iUygNnqOmUBmMUsDM7I) | [Galcher Lustwerk](https://open.spotify.com/artist/1c7bxvBwJrMuZKwx4EDPHf) | [Information](https://open.spotify.com/album/5qMjQBgXiEDIoNFHatsaNA) | 4:32 |
-| 42 | [Nyiri](https://open.spotify.com/track/6Yyyghn9wTZNL8RZ3Es0HF) | [Tunnelvisions](https://open.spotify.com/artist/0IhfJZiFjHqE9mJ9INjp7x) | [Midnight Voyage](https://open.spotify.com/album/5uaAVhppungH8fzCbBc6ji) | 4:05 |
+| 40 | [Nyiri](https://open.spotify.com/track/6Yyyghn9wTZNL8RZ3Es0HF) | [Tunnelvisions](https://open.spotify.com/artist/0IhfJZiFjHqE9mJ9INjp7x) | [Midnight Voyage](https://open.spotify.com/album/5uaAVhppungH8fzCbBc6ji) | 4:05 |
+| 41 | [Tanto Tiempo \- Village Cuts Remix](https://open.spotify.com/track/7opvEv3xPJsMIiPrvq4S5e) | [Scrimshire](https://open.spotify.com/artist/5iVIpHSJD1uKtL3impLoKL), [Penya](https://open.spotify.com/artist/33E3A9UvKfjQno9m6S5xwU), [Village Cuts](https://open.spotify.com/artist/1a3m42fKHHR2MsiBQK3GVU) | [Tanto Tiempo](https://open.spotify.com/album/37idrhwVE8BaAIw4uJ7klK) | 4:55 |
+| 42 | [Been A Long Night](https://open.spotify.com/track/6R1iUygNnqOmUBmMUsDM7I) | [Galcher Lustwerk](https://open.spotify.com/artist/1c7bxvBwJrMuZKwx4EDPHf) | [Information](https://open.spotify.com/album/5qMjQBgXiEDIoNFHatsaNA) | 4:32 |
 | 43 | [Theme from Selva](https://open.spotify.com/track/7oTPUMeartrRlIDGKpgIa3) | [Quantic](https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8) | [Theme from Selva](https://open.spotify.com/album/6ht7LwHxyNVk8gkqGaK6mM) | 3:25 |
-| 44 | [Night Of Desirable Objects](https://open.spotify.com/track/6aO19OZDf9v2mwDDAiwGvB) | [Folamour](https://open.spotify.com/artist/6pJY5At9SiMpAOBrw9YosS) | [Umami](https://open.spotify.com/album/6om5wLwMEeQcY1Uwlh7Oel) | 6:56 |
-| 45 | [A Place With A View \- Edit](https://open.spotify.com/track/1IhvRUOUbCK3RAyj2zCgYM) | [Affelaye](https://open.spotify.com/artist/08Xoy5Glpl7MyzzZsRfRPJ) | [Clockwork Visit](https://open.spotify.com/album/7xAFnEq15WA1cPCGOUIWJE) | 3:44 |
-| 46 | [Fate](https://open.spotify.com/track/41FTrubQViaFrV6wNgf7M9) | [Mark Hawkins](https://open.spotify.com/artist/6BDLwOIauGwERNYxaOciyq) | [Fate](https://open.spotify.com/album/5Q7sdzeTeHALXAD82aPs0G) | 5:31 |
-| 47 | [Salaam](https://open.spotify.com/track/6Z6lYo8cyciwEU6goSrM0L) | [Kamaal Williams](https://open.spotify.com/artist/01mXk9IDlVczWwZvVHAiIS) | [The Return](https://open.spotify.com/album/0XKj7L2flZPg2i7efBZT2N) | 8:33 |
-| 48 | [Waiting 4 You](https://open.spotify.com/track/0dKpH9fPOWbH2q58WaluKI) | [Steve Spacek](https://open.spotify.com/artist/5IcRvSiReLydKCr56ObWuX) | [Houses](https://open.spotify.com/album/23X1T8RFr7C8sHbaVeNLDw) | 7:30 |
-| 49 | [Side Street](https://open.spotify.com/track/0kAp4TveJqWs5F0zmzjDhy) | [daniel hayn](https://open.spotify.com/artist/2E54rBy4UeaSYijZiWlNpO), [Anatole Muster](https://open.spotify.com/artist/3wfxadqnYdgo7M31acbDVK), [Nicole McCabe](https://open.spotify.com/artist/00yDWlggrS34V03oLFjMbl), [Israel Strom](https://open.spotify.com/artist/07Z6BmMLQSWERbqmg4T8XL), [Tom Walsh](https://open.spotify.com/artist/4f619ZfS7lnjuCMukdcXxB) | [Side Street](https://open.spotify.com/album/07uKQeZ31FGZVbWXMIqeIU) | 3:37 |
+| 44 | [A Place With A View \- Edit](https://open.spotify.com/track/1IhvRUOUbCK3RAyj2zCgYM) | [Affelaye](https://open.spotify.com/artist/08Xoy5Glpl7MyzzZsRfRPJ) | [Clockwork Visit](https://open.spotify.com/album/7xAFnEq15WA1cPCGOUIWJE) | 3:44 |
+| 45 | [Night Of Desirable Objects](https://open.spotify.com/track/6aO19OZDf9v2mwDDAiwGvB) | [Folamour](https://open.spotify.com/artist/6pJY5At9SiMpAOBrw9YosS) | [Umami](https://open.spotify.com/album/6om5wLwMEeQcY1Uwlh7Oel) | 6:56 |
+| 46 | [Salaam](https://open.spotify.com/track/6Z6lYo8cyciwEU6goSrM0L) | [Kamaal Williams](https://open.spotify.com/artist/01mXk9IDlVczWwZvVHAiIS) | [The Return](https://open.spotify.com/album/0XKj7L2flZPg2i7efBZT2N) | 8:33 |
+| 47 | [Fate](https://open.spotify.com/track/41FTrubQViaFrV6wNgf7M9) | [Mark Hawkins](https://open.spotify.com/artist/6BDLwOIauGwERNYxaOciyq) | [Fate](https://open.spotify.com/album/5Q7sdzeTeHALXAD82aPs0G) | 5:31 |
+| 48 | [Side Street](https://open.spotify.com/track/0kAp4TveJqWs5F0zmzjDhy) | [daniel hayn](https://open.spotify.com/artist/2E54rBy4UeaSYijZiWlNpO), [Anatole Muster](https://open.spotify.com/artist/3wfxadqnYdgo7M31acbDVK), [Nicole McCabe](https://open.spotify.com/artist/00yDWlggrS34V03oLFjMbl), [Israel Strom](https://open.spotify.com/artist/07Z6BmMLQSWERbqmg4T8XL), [Tom Walsh](https://open.spotify.com/artist/4f619ZfS7lnjuCMukdcXxB) | [Side Street](https://open.spotify.com/album/07uKQeZ31FGZVbWXMIqeIU) | 3:37 |
+| 49 | [Waiting 4 You](https://open.spotify.com/track/0dKpH9fPOWbH2q58WaluKI) | [Steve Spacek](https://open.spotify.com/artist/5IcRvSiReLydKCr56ObWuX) | [Houses](https://open.spotify.com/album/23X1T8RFr7C8sHbaVeNLDw) | 7:30 |
 | 50 | [Piña Colada](https://open.spotify.com/track/5wt62HFSYWz87H5dztBufJ) | [Blue Lab Beats](https://open.spotify.com/artist/4YLUMAgNyttwx4hUHgtBtR), [Nubya Garcia](https://open.spotify.com/artist/6O5k8LLRfDK8v9jj1GazAQ), [Richie Seivwright](https://open.spotify.com/artist/1iyQnonWJYO8XSOkWQITUH) | [Xover](https://open.spotify.com/album/08OWYxVuGW8F7Ne2TdNMUp) | 3:59 |
 
-Snapshot ID: `MCxmMThiYzFjZDIzYTIxN2UyMjA5ODgwNWJiMjY0MzUzZjc1NWNiZGY1`
+Snapshot ID: `MCwxYTllYTUzOGNhMDM2OWNjOThiZTc0NTViNGUxMGY0MGE0NzRlN2Mz`

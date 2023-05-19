@@ -1,12 +1,12 @@
 {
   "description": "el amor es <3",
-  "num_followers": 49116,
+  "num_followers": 49209,
   "original_name": "cursi",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkZDQ5MGRhM2Q5ZjFiNTcyY2M1OTE0OWY2MDhlODNiY2E1MjZjNmE4",
+  "snapshot_id": "MCw4YzU5MmNmZjI4YzViNjE3YWRjNjNkZDRmYjcxYjFiNmEwZWJmMmI4",
   "tracks": [
     {
       "added_at": "2023-05-05 23:20:48",
@@ -1119,26 +1119,6 @@
     {
       "added_at": "2023-05-05 23:20:48",
       "album": {
-        "name": "Hubo Algo",
-        "url": "https://open.spotify.com/album/5pJYHPBXmibLJSFDSUYeaM"
-      },
-      "artists": [
-        {
-          "name": "Alex Ferreira",
-          "url": "https://open.spotify.com/artist/3COVuPWvshbsdm0kdMMTr7"
-        },
-        {
-          "name": "Vanessa Zamora",
-          "url": "https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC"
-        }
-      ],
-      "duration_ms": 311618,
-      "name": "Hubo Algo",
-      "url": "https://open.spotify.com/track/2mjfefMcjK9w6cN6oE5xV4"
-    },
-    {
-      "added_at": "2023-05-05 23:20:48",
-      "album": {
         "name": "En Vivo Desde Tu Nostalgia",
         "url": "https://open.spotify.com/album/56mFqd2JHQKSnOhiS6qVed"
       },
@@ -1159,6 +1139,26 @@
     {
       "added_at": "2023-05-05 23:20:48",
       "album": {
+        "name": "Hubo Algo",
+        "url": "https://open.spotify.com/album/5pJYHPBXmibLJSFDSUYeaM"
+      },
+      "artists": [
+        {
+          "name": "Alex Ferreira",
+          "url": "https://open.spotify.com/artist/3COVuPWvshbsdm0kdMMTr7"
+        },
+        {
+          "name": "Vanessa Zamora",
+          "url": "https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC"
+        }
+      ],
+      "duration_ms": 311618,
+      "name": "Hubo Algo",
+      "url": "https://open.spotify.com/track/2mjfefMcjK9w6cN6oE5xV4"
+    },
+    {
+      "added_at": "2023-05-05 23:20:48",
+      "album": {
         "name": "Querernos Bien",
         "url": "https://open.spotify.com/album/1A1bcSRZLXJBWbr9uzD8G2"
       },
@@ -1175,18 +1175,18 @@
     {
       "added_at": "2023-05-05 23:20:48",
       "album": {
-        "name": "L\u00ednea Bonita",
-        "url": "https://open.spotify.com/album/0HTsBpLOhXNyjKl3Urt4Sb"
+        "name": "Algo Bien",
+        "url": "https://open.spotify.com/album/1aKgmFYfBumxu4Idks5XAd"
       },
       "artists": [
         {
-          "name": "Dali Mata",
-          "url": "https://open.spotify.com/artist/5UeFBoZ5aFWt6MtINvwwxL"
+          "name": "Kirnbauer",
+          "url": "https://open.spotify.com/artist/76KihzDzdR7li8RPVY50EA"
         }
       ],
-      "duration_ms": 247428,
-      "name": "L\u00ednea Bonita",
-      "url": "https://open.spotify.com/track/3SklsfsyuCjp4Ncn6llxdN"
+      "duration_ms": 209596,
+      "name": "nu love",
+      "url": "https://open.spotify.com/track/0wNcVSZaQVTqSnx8i9FiZy"
     },
     {
       "added_at": "2023-05-05 23:20:48",
@@ -1207,18 +1207,18 @@
     {
       "added_at": "2023-05-05 23:20:48",
       "album": {
-        "name": "Algo Bien",
-        "url": "https://open.spotify.com/album/1aKgmFYfBumxu4Idks5XAd"
+        "name": "L\u00ednea Bonita",
+        "url": "https://open.spotify.com/album/0HTsBpLOhXNyjKl3Urt4Sb"
       },
       "artists": [
         {
-          "name": "Kirnbauer",
-          "url": "https://open.spotify.com/artist/76KihzDzdR7li8RPVY50EA"
+          "name": "Dali Mata",
+          "url": "https://open.spotify.com/artist/5UeFBoZ5aFWt6MtINvwwxL"
         }
       ],
-      "duration_ms": 209596,
-      "name": "nu love",
-      "url": "https://open.spotify.com/track/0wNcVSZaQVTqSnx8i9FiZy"
+      "duration_ms": 247428,
+      "name": "L\u00ednea Bonita",
+      "url": "https://open.spotify.com/track/3SklsfsyuCjp4Ncn6llxdN"
     },
     {
       "added_at": "2023-05-05 23:20:48",

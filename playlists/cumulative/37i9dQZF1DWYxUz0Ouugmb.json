@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "Deretan musisi dalam negeri yang patut diantisipasi. Cover: Bernadya",
+  "description": "Deretan musisi dalam negeri yang patut diantisipasi. Cover: Stereo Wall",
   "name": "RADAR Indonesia",
   "tracks": [
     {
@@ -780,6 +780,24 @@
       "duration_ms": 227067,
       "name": "Heartbeat",
       "url": "https://open.spotify.com/track/4pGGz0mCKGyORnYXIxcmd1"
+    },
+    {
+      "album": {
+        "name": "Prologue",
+        "url": "https://open.spotify.com/album/5xGgVRebfE9c1LkYPdK21s"
+      },
+      "artists": [
+        {
+          "name": "Stereo Wall",
+          "url": "https://open.spotify.com/artist/0kw7tMniMnrp9Pcr7vgDAm"
+        }
+      ],
+      "date_added": "2023-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242676,
+      "name": "Home",
+      "url": "https://open.spotify.com/track/3qe11lCOsFOHseZBUAxbzY"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZvuOKNcLsjv.md) - [plain]
 
 > 前週大きく注目を浴びた楽曲。ネクスト・ヒットをいち早く。 cover: TWICE
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,752 likes - 100 songs - 5 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,786 likes - 100 songs - 5 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZvuOKNcLsjv.md) - [plain]
 | 99 | [Girl Next Door](https://open.spotify.com/track/000N4CJL8IjQ0f2I4grgBO) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Girl Next Door](https://open.spotify.com/album/1FLS0YAOPY3Mcb0o5n5fl4) | 3:00 |
 | 100 | [Tall Boi](https://open.spotify.com/track/1pZIZ2XwQufUYv7hQoT8QZ) | [salem ilese](https://open.spotify.com/artist/3QJUFtGBGL05vo0kCJZsmT) | [Tall Boi](https://open.spotify.com/album/2VQQWGLQb4mNHAyD5hQrOl) | 2:30 |
 
-Snapshot ID: `MCxlNDE3MzViZDljYjcxNzMzOTlmMDJjY2VlNjQxMTE3NzM1NTdhNWVm`
+Snapshot ID: `MCwwNDMwYTVkNmM4NjI4NThkNWFkNThhMzg5ZmRkMzQyYTVkNzc5NzY0`

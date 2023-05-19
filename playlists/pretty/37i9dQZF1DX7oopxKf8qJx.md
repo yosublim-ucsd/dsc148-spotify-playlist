@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7oopxKf8qJx.md) - [plain]
 
 > The moody sound of easy listening from the 50's and 60's\. Cover: Percy Faith
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,962 likes - 75 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,079 likes - 75 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,16 +41,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7oopxKf8qJx.md) - [plain]
 | 31 | [Cycles](https://open.spotify.com/track/2ODXYxVCuRtoM2F2094y6h) | [Henry Mancini](https://open.spotify.com/artist/2EExdpjU4SK3xnJHO5paJf) | [A Warm Shade of Ivory](https://open.spotify.com/album/1IsqBLmLMj3DmSQFqRzDa8) | 3:05 |
 | 32 | [Georgy Girl](https://open.spotify.com/track/09WMsGVawZQr61lzFrLcMz) | [Ronnie Aldrich and his 2 pianos](https://open.spotify.com/artist/0Dh1BicC7OimxTazI2iffT), [London Festival Orchestra](https://open.spotify.com/artist/3akUqAy3Q1WqRZqceC4jW9) | [Two Pianos Today](https://open.spotify.com/album/5furh3F91CSI9ELQIZpoCY) | 3:08 |
 | 33 | [Our Love](https://open.spotify.com/track/1GWSHN7cCSTdX1kULdoVPh) | [Percy Faith](https://open.spotify.com/artist/6unIK8JFrGemCge3NIUDKE) | [Corazón](https://open.spotify.com/album/2NGgziFUMP8Hs3S7WysJi1) | 2:28 |
-| 34 | [Carnival](https://open.spotify.com/track/6KdYxXMJpJn6UlfzD2w8Z8) | [Edmundo Ros & His Orchestra](https://open.spotify.com/artist/3CbSEqhKsYhEVQBj1tF1Kv) | [Latin Hits I Missed](https://open.spotify.com/album/59ykUEGD13BeMV0qi700U6) | 2:13 |
+| 34 | [The Days Of Wine And Roses](https://open.spotify.com/track/40WZ6K3o6X3wsAbh3b41wG) | [Hugo Winterhalter](https://open.spotify.com/artist/5WVQxyLSWuV7XpjDlgNY53) | [28 Big Ones](https://open.spotify.com/album/75C2nKf5frcYnRI8tSqXOM) | 2:36 |
 | 35 | [Danke Schoen](https://open.spotify.com/track/6CBGOKLkewXVfQQEiV0xZY) | [Bert Kaempfert](https://open.spotify.com/artist/2s6JabvZdqVQhfOsaxCSFX) | [Let's Go Bowling \(Remastered\)](https://open.spotify.com/album/1PMG61oCm4gzNPMYlqPRVq) | 2:42 |
-| 36 | [The Days Of Wine And Roses](https://open.spotify.com/track/40WZ6K3o6X3wsAbh3b41wG) | [Hugo Winterhalter](https://open.spotify.com/artist/5WVQxyLSWuV7XpjDlgNY53) | [28 Big Ones](https://open.spotify.com/album/75C2nKf5frcYnRI8tSqXOM) | 2:36 |
+| 36 | [Carnival](https://open.spotify.com/track/6KdYxXMJpJn6UlfzD2w8Z8) | [Edmundo Ros & His Orchestra](https://open.spotify.com/artist/3CbSEqhKsYhEVQBj1tF1Kv) | [Latin Hits I Missed](https://open.spotify.com/album/59ykUEGD13BeMV0qi700U6) | 2:13 |
 | 37 | [I Wish You Love](https://open.spotify.com/track/1I91gDn5YvCtwG7WL6Nwar) | [Andre Kostelanetz & His Orchestra](https://open.spotify.com/artist/0O834tNw0PiiuYgj24yq0b) | [I Wish You Love](https://open.spotify.com/album/3XkGjWU5IniYrxLyTyr5EE) | 2:48 |
 | 38 | [Gabrielle](https://open.spotify.com/track/0XVdFtfj6N7JRvw78tlia1) | [Nelson Riddle](https://open.spotify.com/artist/6PyGlGbMoNqkofF14K4BWb) | [Paris When It Sizzles](https://open.spotify.com/album/5lAGUlrq75JPt2DrtfESeK) | 2:46 |
 | 39 | [My Funny Valentine](https://open.spotify.com/track/33haaDXqwsd7wOk75ov0NL) | [Jackie Gleason](https://open.spotify.com/artist/2F0kPpQ5mtta1ORIyO2xex) | [Music For Lovers Only](https://open.spotify.com/album/1yDWpowWTfhII9O0S9k2hs) | 3:22 |
 | 40 | [Early Evening](https://open.spotify.com/track/5JHgfrc1OgnfOBasDLf4rD) | [Ray Conniff](https://open.spotify.com/artist/7LfRnzGM0wRSyS5mmAwJbv) | [Concert In Rhythm](https://open.spotify.com/album/4eBac1T2uZzeAQIU8DbBk1) | 2:30 |
-| 41 | [Over the Rainbow](https://open.spotify.com/track/1Ddu0OlbuSq2DEXQWUHbpE) | [Liberace](https://open.spotify.com/artist/695gNCDVviH3s5ZYVs2VNK) | [My Parade of Golden Favorites](https://open.spotify.com/album/7tE485LJM6J9FgJgxBpfVs) | 2:52 |
+| 41 | [A Felicidade](https://open.spotify.com/track/2eSQzpWTDk8JqzKRZpEtPH) | [Edmundo Ros & His Orchestra](https://open.spotify.com/artist/3CbSEqhKsYhEVQBj1tF1Kv) | [Strings Latino](https://open.spotify.com/album/0dcD0Xc9CCmt5JfnbYGAfn) | 3:12 |
 | 42 | [Lonely Nightingale](https://open.spotify.com/track/4WG40Rn4T2tRxNF8rLj3pa) | [Bert Kaempfert](https://open.spotify.com/artist/2s6JabvZdqVQhfOsaxCSFX) | [Blue Midnight \(Remastered\)](https://open.spotify.com/album/4cXY2pebOf073jBBH7zoza) | 2:57 |
-| 43 | [A Felicidade](https://open.spotify.com/track/2eSQzpWTDk8JqzKRZpEtPH) | [Edmundo Ros & His Orchestra](https://open.spotify.com/artist/3CbSEqhKsYhEVQBj1tF1Kv) | [Strings Latino](https://open.spotify.com/album/0dcD0Xc9CCmt5JfnbYGAfn) | 3:12 |
+| 43 | [Over the Rainbow](https://open.spotify.com/track/1Ddu0OlbuSq2DEXQWUHbpE) | [Liberace](https://open.spotify.com/artist/695gNCDVviH3s5ZYVs2VNK) | [My Parade of Golden Favorites](https://open.spotify.com/album/7tE485LJM6J9FgJgxBpfVs) | 2:52 |
 | 44 | [Theme from Picnic \- Remastered](https://open.spotify.com/track/7C2cDPLUfDxfxq5u7vIWF0) | [Russ Conway](https://open.spotify.com/artist/3CH93c2rBMyBq9eeWBCQ60) | [The Piano Legend \(Remastered\)](https://open.spotify.com/album/7AZxS7684aRvvnJZ7fC2ZV) | 3:23 |
 | 45 | [Forget Domani](https://open.spotify.com/track/1d8xNh44oCpohmdiz38qCO) | [Andre Kostelanetz & His Orchestra](https://open.spotify.com/artist/0O834tNw0PiiuYgj24yq0b) | [The Shadow of Your Smile & Other Great Themes](https://open.spotify.com/album/6YJJl88Mthfe24Wuf5bl2V) | 2:57 |
 | 46 | [How Insensitive](https://open.spotify.com/track/0Hm8nvg2mibkKlJJJ0SFOB) | [Percy Faith](https://open.spotify.com/artist/6unIK8JFrGemCge3NIUDKE) | [Plays Latin Themes For Young Lovers](https://open.spotify.com/album/2ybHNlJ6rpRTCVrrQs56Qa) | 2:38 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7oopxKf8qJx.md) - [plain]
 | 74 | [Moonlight Serenade \- Remastered](https://open.spotify.com/track/2x2cFD5A2vNYIOYHkj9Wet) | [Henry Mancini](https://open.spotify.com/artist/2EExdpjU4SK3xnJHO5paJf) | [Days of Wine and Roses \(Remastered\)](https://open.spotify.com/album/6dVb74L9KFX18IZ7kI7zj4) | 3:41 |
 | 75 | [The Song From "Moulin Rouge"](https://open.spotify.com/track/7GtpZ01gEJDxrXfH2ayvuc) | [Percy Faith](https://open.spotify.com/artist/6unIK8JFrGemCge3NIUDKE) | [The Essential Percy Faith \- The Instrumental Recordings](https://open.spotify.com/album/205gksgDHwJUOuJ7GV4MKu) | 5:46 |
 
-Snapshot ID: `MCwwZjIwOWI2NDM1NzJlY2QzYzNhNDZhMjhkNmU3NTFmN2FkYmRmNThi`
+Snapshot ID: `MCxkZTc4NWY4MGEzNzg4NWU1NDJhZTdlMDIwNDJkMDNhMTA5NzNhMGZk`

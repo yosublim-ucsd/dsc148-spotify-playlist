@@ -4,7 +4,7 @@
 
 > Take down the tempo but keep the party going with the biggest tropical house jams.
 
-599 songs - 1 day 6 hr 47 min
+600 songs - 1 day 6 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -293,7 +293,7 @@
 | [Lights](https://open.spotify.com/track/7xePs11BrC1ZITTZ9koW62) | [Tobias Bergson](https://open.spotify.com/artist/0OaBO8SytZzvzAO3NOWiv3) | [Lights](https://open.spotify.com/album/3O25WKfP6mQLHiBMzlnRyC) | 2:53 | 2022-04-01 | 2022-07-12 |
 | [Like a Mystery](https://open.spotify.com/track/74E2muWug3WOPjKkw2hpq5) | [Eneko Artola](https://open.spotify.com/artist/3Q3pmaIKRKXh2e0g4A4Xpc) | [Like a Mystery](https://open.spotify.com/album/2A56tnGbitndWfuakU2QKU) | 2:18 | 2022-07-15 |  |
 | [Like Heaven](https://open.spotify.com/track/1OtFo3W1yim0a67MlEkTEt) | [oomiee](https://open.spotify.com/artist/5kiu9L1QtCQJCIwQrqzsDG) | [Smores](https://open.spotify.com/album/468YF7QLxDGJYUG4OFL43q) | 2:46 | 2022-04-01 | 2022-07-29 |
-| [Like Paradise](https://open.spotify.com/track/2N5yhfoSUOBL8Yx87YlAZN) | [Steve Kroeger](https://open.spotify.com/artist/3RuKMixE6jnuXqEx1Jy1om), [Skye Holland](https://open.spotify.com/artist/2v7q6g8FLhc74i4gBBdruy) | [Like Paradise](https://open.spotify.com/album/2qdyDBfmYdCjhnBN8YZP0N) | 3:09 | 2023-05-12 |  |
+| [Like Paradise](https://open.spotify.com/track/2N5yhfoSUOBL8Yx87YlAZN) | [Steve Kroeger](https://open.spotify.com/artist/3RuKMixE6jnuXqEx1Jy1om), [Skye Holland](https://open.spotify.com/artist/2v7q6g8FLhc74i4gBBdruy) | [Like Paradise](https://open.spotify.com/album/2qdyDBfmYdCjhnBN8YZP0N) | 3:09 | 2023-05-12 | 2023-05-19 |
 | [Like This](https://open.spotify.com/track/7zIWzMjIQGMqg0fal19JBo) | [Syn Cole](https://open.spotify.com/artist/6i1GVNJCyyssRwXmnaeEFH) | [Like This](https://open.spotify.com/album/45Hs7PqCNnzhLjxBM3KTeY) | 2:46 | 2022-02-04 |  |
 | [Like You](https://open.spotify.com/track/2J6CSxD2YE6DCB1JvalFIi) | [Ehrling](https://open.spotify.com/artist/5wo7dlNLNdFmaaU7NTtdoT) | [Like You](https://open.spotify.com/album/7kIQWyo1s4wsgG6xYDbOhx) | 2:58 | 2022-12-23 |  |
 | [Little Do You Know](https://open.spotify.com/track/5lIat5pyge2yKkV20FlgQ7) | [Campsite Dream](https://open.spotify.com/artist/69VkQLf4DH7GJ68BCDOPKL) | [Little Do You Know](https://open.spotify.com/album/5do9Fx2lflBZzxgup2xbTQ) | 2:48 | 2022-02-18 | 2022-04-21 |
@@ -352,6 +352,7 @@
 | [more than love \- Sofi Tukker remix](https://open.spotify.com/track/0CICivRwFKqLs5oiBLYicx) | [Trevor Hall](https://open.spotify.com/artist/3RMHexittaAZkf8zukkZB8), [Sofi Tukker](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q) | [more than love \(Sofi Tukker remix\)](https://open.spotify.com/album/79Ef4CPEwN61hMhqvm9Y3c) | 5:33 | 2022-01-14 |  |
 | [Morning Sun](https://open.spotify.com/track/4FBsQTjkURcX5p9eMliVx9) | [NSH](https://open.spotify.com/artist/13FBdMZnPKuU6QYIgagrcS), [Atch](https://open.spotify.com/artist/1RXmgjI1slIFaZZHN0Q22V), [Hobes](https://open.spotify.com/artist/4oJwnrOedR0fQkD9NlbrMl) | [Morning Sun](https://open.spotify.com/album/0wiKQOncV2Bl2mDqNGjNUd) | 3:06 | 2022-11-11 |  |
 | [Music In You](https://open.spotify.com/track/0t3uSTVVYGVYVKJUlOMqfk) | [Sebastien](https://open.spotify.com/artist/173M6tvnbPT1Wp5ucD0uAS), [Boy Tedson](https://open.spotify.com/artist/3QGj0gM2w35fH3gx2ZBoXk) | [Music In You](https://open.spotify.com/album/2XvXKXxsvh1OKl2KPkf1r8) | 3:05 | 2022-02-04 | 2022-09-24 |
+| [My California Dream](https://open.spotify.com/track/2wnxrNECnWUT8Z8peldD8z) | [Richill](https://open.spotify.com/artist/3LPmZauf3fUMOzH9bfrr7r), [Ladina Viva](https://open.spotify.com/artist/6KIl9XHyJDDXbQLnbTf5wm) | [My California Dream](https://open.spotify.com/album/2XKJpd6zQuHacrwxexFWXP) | 2:34 | 2023-05-12 |  |
 | [My Head Is a Jungle \- \(Radio Edit\) \[Live\]](https://open.spotify.com/track/5479RIes0OUXZkCDsWg7Mc) | [Wankelmut](https://open.spotify.com/artist/01e2lCvLZ4fLUIRy68nptH), [Emma Louise](https://open.spotify.com/artist/1A96iePIMNFBjLrjXEl718) | [My Head is a Jungle](https://open.spotify.com/album/4wO8WVjaBfiE2a3ebBKk69) | 3:33 | 2022-02-18 | 2022-04-02 |
 | [My Love](https://open.spotify.com/track/398CKeawsPHfonnxsimsPe) | [MVCA](https://open.spotify.com/artist/73C7eV9oN6yGgLSu8vIO4R), [Avi Snow](https://open.spotify.com/artist/5pW2lVGlbVSVWi9086Xjfu), [Cairo](https://open.spotify.com/artist/4vNlfhvPPRLOvmveTD7uQ0), [Fake ID](https://open.spotify.com/artist/3O6FybT51NR578KVOXe5b3) | [My Love](https://open.spotify.com/album/2jTldfzmnGTfwNKQqJ1Wgb) | 2:40 | 2022-01-14 | 2023-05-13 |
 | [Nalu](https://open.spotify.com/track/2oUSxhTzXlYyM7D31ohQok) | [Deep Chills](https://open.spotify.com/artist/12rBrcOPP50qIan8ew4iTP), [Brendan Mills](https://open.spotify.com/artist/3TjFefusAoJFMiB3hrsRDE) | [Nalu](https://open.spotify.com/album/093knXiKztuaCLp6QL9H96) | 2:29 | 2022-07-08 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSsQxABZdOtf.md) - [plain]
 
 > <a href="spotify:artist:3L2tOP2vRYfjXVW4W1tKEJ">Nina Las Vegas'</a> favourite tracks\. Updated regularly\. Curated by Nina Las Vegas\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,913 likes - 70 songs - 3 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,926 likes - 70 songs - 3 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSsQxABZdOtf.md) - [plain]
 | 39 | [Ancestors \(feat\. Blackout J.A\)](https://open.spotify.com/track/6hlTh8yYEpeJhMgFbNVq9P) | [Sentinel 793](https://open.spotify.com/artist/7DcbgLtzRiniDgbNmOf4rg), [Blackout J.A](https://open.spotify.com/artist/0hnwFCW4DxGkFw8bbpE5AN) | [Solar returns](https://open.spotify.com/album/0dOFZ5vfXTX15g4YVzb8Vd) | 4:49 |
 | 40 | [DO WHAT I LIKE](https://open.spotify.com/track/1w7gDQluRmhXqDi2jjqM1K) | [Kasien](https://open.spotify.com/artist/5VFbrnGdINL3hcSOluMsCj) | [DON'T LET THE DEVIL IN](https://open.spotify.com/album/4442PIQn9b3i9UQtPlejAE) | 2:16 |
 | 41 | [Chaotic NRG](https://open.spotify.com/track/5FKmQG3seap8bwPjbmQc5a) | [Panteros666](https://open.spotify.com/artist/7DYEJjAIWCn1DNttRqVomt), [Chippy Nonstop](https://open.spotify.com/artist/3cIWQsZd5aYZDk9DGy64wS) | [Chaotic NRG](https://open.spotify.com/album/4FCtpzPYcNWouVVI3crsdV) | 4:40 |
-| 42 | [Boy's a liar](https://open.spotify.com/track/3NanY0K4okhIQzL33U5Ad8) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [Boy's a liar](https://open.spotify.com/album/5Kdlc7Kds94W7UFFg6Me0N) | 2:11 |
+| 42 | [Boy's a Liar](https://open.spotify.com/track/3NanY0K4okhIQzL33U5Ad8) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [Boy's a liar](https://open.spotify.com/album/5Kdlc7Kds94W7UFFg6Me0N) | 2:11 |
 | 43 | [For Granted](https://open.spotify.com/track/61h5rJ790Vov9ks2Vut5mo) | [Yaeji](https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt) | [For Granted](https://open.spotify.com/album/451l9odp6JqepvnwoFRqtQ) | 2:41 |
 | 44 | [Nowhere To Hide](https://open.spotify.com/track/6GnIaawrUwU0Agm7BM1wFu) | [Aluna](https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE), [Prettyboy D\-O](https://open.spotify.com/artist/76qtJqxLY1aXEPHxAJui7y), [Kooldrink](https://open.spotify.com/artist/1XQiB7Gp309l4aHhzgGIlY) | [Nowhere To Hide](https://open.spotify.com/album/2wRqnd7i4JjVkvqypSCIeH) | 3:15 |
 | 45 | [Aboboyaa \(feat\. Burna Boy\)](https://open.spotify.com/track/2KEMHoK7Tz7rlTUalQXMUk) | [Popcaan](https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Great Is He](https://open.spotify.com/album/5DVnzAiFpPirUnh3QPv1ZR) | 2:46 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSsQxABZdOtf.md) - [plain]
 | 69 | [F.I.A.S.O.M\. Pt\. 2](https://open.spotify.com/track/7vy5cKebs6nFSpvAzzWKoP) | [M.I.A.](https://open.spotify.com/artist/0QJIPDAEDILuo8AIq3pMuU) | [MATA](https://open.spotify.com/album/2fexyU9sHdXHmI1jvPqrxX) | 2:49 |
 | 70 | [Immaterial](https://open.spotify.com/track/6GoLARmR2OZl2EldehFrsA) | [SOPHIE](https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu) | [OIL OF EVERY PEARL'S UN\-INSIDES](https://open.spotify.com/album/4z3YbEkKWwiIMSJTWUQbTH) | 3:52 |
 
-Snapshot ID: `MCxiYWE2NmVlYjNhNWQ2Mzk5NDhiZThlYmIzMmU2ZDc0MjU3M2JmN2I3`
+Snapshot ID: `MCxiNGFlYTEyMDJlMzVmZmI4NzQ1M2M3Nzk5ZjE1Y2U0NmJiZjg3YzRl`

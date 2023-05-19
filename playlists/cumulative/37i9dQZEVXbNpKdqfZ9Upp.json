@@ -1112,7 +1112,7 @@
       ],
       "date_added": "2023-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 251533,
       "name": "AMYGDALA",
       "url": "https://open.spotify.com/track/5fj32MKLHkut2Vod1UodcU"
@@ -2962,7 +2962,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-10",
+      "date_removed": null,
       "duration_ms": 239560,
       "name": "cardigan",
       "url": "https://open.spotify.com/track/4R2kfaDFhslZEMJqAFNpdd"
@@ -10067,6 +10067,24 @@
     },
     {
       "album": {
+        "name": "Grandes \u00c9xitos del Boleroglam, Vol. 2",
+        "url": "https://open.spotify.com/album/49k8bx6FKOeKocIRppwnYE"
+      },
+      "artists": [
+        {
+          "name": "Daniel, Me Est\u00e1s Matando",
+          "url": "https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE"
+        }
+      ],
+      "date_added": "2023-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186549,
+      "name": "Lo Hice, Te Dej\u00e9",
+      "url": "https://open.spotify.com/track/3PKhRDUCDckxRypmC5RhO6"
+    },
+    {
+      "album": {
         "name": "lo que hay x aqu\u00ed",
         "url": "https://open.spotify.com/album/28MEC53zcdE731x6FX3Hsm"
       },
@@ -16738,7 +16756,7 @@
       ],
       "date_added": "2023-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 242200,
       "name": "Smoke Sprite (feat. RM of BTS)",
       "url": "https://open.spotify.com/track/5YSkDxmHvzSDWTu4MaEtfa"
@@ -18608,6 +18626,24 @@
       "duration_ms": 154047,
       "name": "Tocarte",
       "url": "https://open.spotify.com/track/3V4u7Eo0uJKSmoSvxR1r70"
+    },
+    {
+      "album": {
+        "name": "Todo Fue Por Amor (de la pel\u00edcula \u201cCon Esta Luz\u201d)",
+        "url": "https://open.spotify.com/album/0X3ypNwDzwYW7iEPQ4MWrl"
+      },
+      "artists": [
+        {
+          "name": "Carla Morrison",
+          "url": "https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe"
+        }
+      ],
+      "date_added": "2023-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226481,
+      "name": "Todo Fue Por Amor (de la pel\u00edcula \u201cCon Esta Luz\u201d)",
+      "url": "https://open.spotify.com/track/6X6wECGLnBIMDsAjgOR5Di"
     },
     {
       "album": {
@@ -21090,7 +21126,7 @@
       ],
       "date_added": "2023-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 213233,
       "name": "\u30a2\u30a4\u30c9\u30eb",
       "url": "https://open.spotify.com/track/7ovUcF5uHTBRzUpB6ZOmvt"

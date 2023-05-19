@@ -4,7 +4,7 @@
 
 > New music from Lil Durk, Lil Tecca and A Boogie Wit da Hoodie.
 
-1,611 songs - 3 day 11 hr 5 min
+1,612 songs - 3 day 11 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -948,6 +948,7 @@
 | [Not Friendly](https://open.spotify.com/track/2le8xbpMJ1aA0SpJZRMbRw) | [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [Ho, why is you here ?](https://open.spotify.com/album/49FIsErcdC5rfTFhRpPZ7P) | 3:54 | 2020-07-25 | 2020-07-31 |
 | [Not In The Mood \(feat\. Fivio Foreign & Kay Flock\)](https://open.spotify.com/track/25GyyK9CyZRiDCsPY51fIT) | [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR), [Fivio Foreign](https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM), [Kay Flock](https://open.spotify.com/artist/2AMeiDbfU2vonrTkpXDKUu) | [Not In The Mood \(feat\. Fivio Foreign & Kay Flock\)](https://open.spotify.com/album/5x8HOMCMbODsMSJtMtNXF7) | 2:30 | 2021-10-22 | 2022-01-15 |
 | [NOT SOBER \(feat\. Polo G & Stunna Gambino\)](https://open.spotify.com/track/1JXBNvlDEl2epKSJ9EOgKX) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J), [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49), [Stunna Gambino](https://open.spotify.com/artist/15ZjD8Gus20Miqw3fdOaXX) | [F\*CK LOVE 3: OVER YOU](https://open.spotify.com/album/4bZJWQhHKJckFLJuYdvyX2) | 3:36 | 2021-07-24 | 2021-10-16 |
+| [Nothin'](https://open.spotify.com/track/5ZKVNTG7yu7gbX4vryqS2X) | [N.O.R.E.](https://open.spotify.com/artist/4GMgdB3vwbBOc42hbXEi9p) | [God's Favorite](https://open.spotify.com/album/4Gb8Xs87uYNhBwh5wfG7qt) | 4:24 | 2023-05-18 |  |
 | [Nothing Changed](https://open.spotify.com/track/48qgXl0CQUVYJVn6xv0rsP) | [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5), [Takeoff](https://open.spotify.com/artist/3EW0kQ1skZiK1NHg3Spt9J) | [Nothing Changed](https://open.spotify.com/album/4Lo6GJMW4ctfhtuCqMkn1O) | 3:19 | 2022-09-30 | 2022-12-10 |
 | [Notorious Thugs \- 2014 Remaster](https://open.spotify.com/track/19FsxX4RthRMZGfXkImdCb) | [The Notorious B.I.G.](https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb) | [Life After Death \(2014 Remastered Edition\)](https://open.spotify.com/album/7dRdaGSxgcBdJnrOviQRuB) | 6:06 | 2023-03-09 | 2023-03-11 |
 | [Numbers \(feat\. Roddy Ricch, Gunna and London On Da Track\)](https://open.spotify.com/track/733c1CWmIGymoQXdp7Us88) | [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I), [London On Da Track](https://open.spotify.com/artist/5Nf5yishRW9Ye174sJISkg), [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [Artist 2.0](https://open.spotify.com/album/0cZAE6guibfcYmTZD7hiae) | 3:08 | 2020-02-14 | 2020-05-29 |

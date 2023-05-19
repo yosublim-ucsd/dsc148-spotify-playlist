@@ -4,7 +4,7 @@
 
 > New styles, deep sounds\. Cover: Scott McMicken and THE EVER\-EXPANDING
 
-397 songs - 1 day 0 hr 27 min
+398 songs - 1 day 0 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -370,8 +370,9 @@
 | [This Is A Photograph](https://open.spotify.com/track/1hj8os1Xxiuo95atpJzfCp) | [Kevin Morby](https://open.spotify.com/artist/6fxk3UXHTFYET8qCT9WlBF) | [This Is A Photograph](https://open.spotify.com/album/6NMzokKOYpPO9VXDjmc5y6) | 3:30 | 2022-07-11 |  |
 | [This Is A Photograph](https://open.spotify.com/track/6R3eECv1wptTUHATHSogu7) | [Kevin Morby](https://open.spotify.com/artist/6fxk3UXHTFYET8qCT9WlBF) | [This Is A Photograph](https://open.spotify.com/album/1OKW5mdYIJ2gqDMIHCzpRE) | 3:30 | 2022-03-11 | 2022-07-29 |
 | [This Is Your Life](https://open.spotify.com/track/3sLCoDAaG4QfO6PZtxxcBi) | [Hannah Cohen](https://open.spotify.com/artist/7ovXNdlB2DNSC16TbKgros) | [This Is Your Life](https://open.spotify.com/album/09PFcBz51Avs9kkBOjHAzH) | 4:13 | 2021-11-12 | 2022-07-29 |
-| [This Is Your Life](https://open.spotify.com/track/3zaFz69Xfh3EnN9f1S0Nd3) | [Hannah Cohen](https://open.spotify.com/artist/7ovXNdlB2DNSC16TbKgros) | [Welcome Home](https://open.spotify.com/album/0b4TocuPShTGNAFy5tZx73) | 4:13 | 2022-07-11 |  |
+| [This Is Your Life](https://open.spotify.com/track/3zaFz69Xfh3EnN9f1S0Nd3) | [Hannah Cohen](https://open.spotify.com/artist/7ovXNdlB2DNSC16TbKgros) | [Welcome Home](https://open.spotify.com/album/0b4TocuPShTGNAFy5tZx73) | 4:13 | 2022-07-11 | 2023-05-19 |
 | [This Time Around](https://open.spotify.com/track/295AV2PI6PUduX585IekdQ) | [Jessica Pratt](https://open.spotify.com/artist/5KTykbPcDB4GYS49jcHbWh) | [Quiet Signs](https://open.spotify.com/album/3mLMUWalbsEodpw0cRLQnl) | 3:37 | 2022-07-11 | 2023-04-30 |
+| [This Time Around](https://open.spotify.com/track/5KFa7aO49TOsH8zfMarw6N) | [Jessica Pratt](https://open.spotify.com/artist/5KTykbPcDB4GYS49jcHbWh) | [Quiet Signs](https://open.spotify.com/album/6gfh7DsfwxpZkRcPZo75M1) | 3:37 | 2023-05-12 |  |
 | [This Time Around](https://open.spotify.com/track/75rUliprhl9tf4MjPyWBKJ) | [Jessica Pratt](https://open.spotify.com/artist/5KTykbPcDB4GYS49jcHbWh) | [This Time Around](https://open.spotify.com/album/4TxcNQ4VmH64tuS6uvWPeV) | 3:37 | 2021-11-12 | 2022-07-04 |
 | [Through The Echoes](https://open.spotify.com/track/13KhcUWu9WucFw0h5jB88R) | [Paolo Nutini](https://open.spotify.com/artist/7x5rK9BClDQ8wmCkYAGsQp) | [Through The Echoes / Lose It](https://open.spotify.com/album/6MyKaxAWINJVX8IeTrQxPC) | 3:41 | 2022-05-25 | 2022-10-28 |
 | [Through The Echoes](https://open.spotify.com/track/78NogwkqVC4GBQMxOwOQrC) | [Paolo Nutini](https://open.spotify.com/artist/7x5rK9BClDQ8wmCkYAGsQp) | [Last Night In The Bittersweet](https://open.spotify.com/album/0dp4Cl0ZqJYJJXIeH6dH1x) | 3:41 | 2022-10-14 |  |

@@ -1,12 +1,12 @@
 {
   "description": "The best in new punk rock music. Cover: Lambrini Girls",
-  "num_followers": 48829,
+  "num_followers": 48840,
   "original_name": "The Punk List",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyYmI4NWZlZDdkODU1M2I0ZTY0OTRhMWQ4ZWFiMDM4OWRjZDM1Mjhj",
+  "snapshot_id": "MCw2YmZlZGIwM2VlYjRkYWVjZDRkN2ExN2I5ZjU1ZjU2MDU2YWVmNDFh",
   "tracks": [
     {
       "added_at": "2023-04-21 15:17:44",
@@ -275,22 +275,6 @@
     {
       "added_at": "2023-03-03 00:00:00",
       "album": {
-        "name": "cherry cigarettes",
-        "url": "https://open.spotify.com/album/20tQ55dryYRoJ7M8DmKWti"
-      },
-      "artists": [
-        {
-          "name": "44phantom",
-          "url": "https://open.spotify.com/artist/1vwwjIPFeYoRfAUCqqO6cZ"
-        }
-      ],
-      "duration_ms": 138133,
-      "name": "cherry cigarettes",
-      "url": "https://open.spotify.com/track/6Fsz5G1vKPZjQ3OIeFm50v"
-    },
-    {
-      "added_at": "2023-03-03 00:00:00",
-      "album": {
         "name": "Sweet Tooth",
         "url": "https://open.spotify.com/album/2vMWoMKeyq9m1xIghMKkaL"
       },
@@ -303,6 +287,22 @@
       "duration_ms": 158853,
       "name": "White Trash Millionaire",
       "url": "https://open.spotify.com/track/4Vt4vfcqBtOT9MT9GtWiXP"
+    },
+    {
+      "added_at": "2023-03-03 00:00:00",
+      "album": {
+        "name": "cherry cigarettes",
+        "url": "https://open.spotify.com/album/20tQ55dryYRoJ7M8DmKWti"
+      },
+      "artists": [
+        {
+          "name": "44phantom",
+          "url": "https://open.spotify.com/artist/1vwwjIPFeYoRfAUCqqO6cZ"
+        }
+      ],
+      "duration_ms": 138133,
+      "name": "cherry cigarettes",
+      "url": "https://open.spotify.com/track/6Fsz5G1vKPZjQ3OIeFm50v"
     },
     {
       "added_at": "2023-03-03 00:00:00",
@@ -353,22 +353,6 @@
       "url": "https://open.spotify.com/track/0n26pelcG2JrPeIhuA7YNh"
     },
     {
-      "added_at": "2023-03-20 13:21:43",
-      "album": {
-        "name": "UK GRIM",
-        "url": "https://open.spotify.com/album/5CsLGo6H7h3de8VoSCiaD0"
-      },
-      "artists": [
-        {
-          "name": "Sleaford Mods",
-          "url": "https://open.spotify.com/artist/0otAqZw8htTsGHfqR491Yh"
-        }
-      ],
-      "duration_ms": 198542,
-      "name": "UK GRIM",
-      "url": "https://open.spotify.com/track/60wO5lvhLRTJnPfV3r3rMR"
-    },
-    {
       "added_at": "2023-03-03 00:00:00",
       "album": {
         "name": "Groundhog Day",
@@ -383,6 +367,22 @@
       "duration_ms": 217989,
       "name": "Groundhog Day",
       "url": "https://open.spotify.com/track/3ji7KFn4mhQ0BGHqFkwRdI"
+    },
+    {
+      "added_at": "2023-03-20 13:21:43",
+      "album": {
+        "name": "UK GRIM",
+        "url": "https://open.spotify.com/album/5CsLGo6H7h3de8VoSCiaD0"
+      },
+      "artists": [
+        {
+          "name": "Sleaford Mods",
+          "url": "https://open.spotify.com/artist/0otAqZw8htTsGHfqR491Yh"
+        }
+      ],
+      "duration_ms": 198542,
+      "name": "UK GRIM",
+      "url": "https://open.spotify.com/track/60wO5lvhLRTJnPfV3r3rMR"
     },
     {
       "added_at": "2023-03-20 13:21:43",
@@ -539,22 +539,6 @@
     {
       "added_at": "2023-03-03 00:00:00",
       "album": {
-        "name": "Carousel",
-        "url": "https://open.spotify.com/album/5elvn4fS1S65dAaMSR3V9o"
-      },
-      "artists": [
-        {
-          "name": "As December Falls",
-          "url": "https://open.spotify.com/artist/7Atp614yT56v9XrlqZryzX"
-        }
-      ],
-      "duration_ms": 185294,
-      "name": "Carousel",
-      "url": "https://open.spotify.com/track/3ye4K0Wa24jqnSCPDY1OzT"
-    },
-    {
-      "added_at": "2023-03-03 00:00:00",
-      "album": {
         "name": "THE UNRAVELING OF PUPTHEBAND",
         "url": "https://open.spotify.com/album/2bRpK0BpzYUQZYIzri35n6"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 223986,
       "name": "Totally Fine",
       "url": "https://open.spotify.com/track/0kneNB0JvNLyBqkxGdyvna"
+    },
+    {
+      "added_at": "2023-03-03 00:00:00",
+      "album": {
+        "name": "Carousel",
+        "url": "https://open.spotify.com/album/5elvn4fS1S65dAaMSR3V9o"
+      },
+      "artists": [
+        {
+          "name": "As December Falls",
+          "url": "https://open.spotify.com/artist/7Atp614yT56v9XrlqZryzX"
+        }
+      ],
+      "duration_ms": 185294,
+      "name": "Carousel",
+      "url": "https://open.spotify.com/track/3ye4K0Wa24jqnSCPDY1OzT"
     },
     {
       "added_at": "2023-03-03 00:00:00",
@@ -659,6 +659,22 @@
     {
       "added_at": "2023-03-03 00:00:00",
       "album": {
+        "name": "Night Gnomes",
+        "url": "https://open.spotify.com/album/58wdGQU1dFL9gzRqG08Isw"
+      },
+      "artists": [
+        {
+          "name": "Psychedelic Porn Crumpets",
+          "url": "https://open.spotify.com/artist/7GRrLcUxwtQLvOpO7OHO80"
+        }
+      ],
+      "duration_ms": 190543,
+      "name": "Bubblegum Infinity",
+      "url": "https://open.spotify.com/track/0L5j4aIZqzGweVoLGKNqNB"
+    },
+    {
+      "added_at": "2023-03-03 00:00:00",
+      "album": {
         "name": "catastrophe",
         "url": "https://open.spotify.com/album/2jEt25RLXZn6gtav3jtven"
       },
@@ -691,22 +707,6 @@
       "duration_ms": 150143,
       "name": "Wicked & Bad",
       "url": "https://open.spotify.com/track/5TIFTm6spva9cGIeJujqee"
-    },
-    {
-      "added_at": "2023-03-03 00:00:00",
-      "album": {
-        "name": "Night Gnomes",
-        "url": "https://open.spotify.com/album/58wdGQU1dFL9gzRqG08Isw"
-      },
-      "artists": [
-        {
-          "name": "Psychedelic Porn Crumpets",
-          "url": "https://open.spotify.com/artist/7GRrLcUxwtQLvOpO7OHO80"
-        }
-      ],
-      "duration_ms": 190543,
-      "name": "Bubblegum Infinity",
-      "url": "https://open.spotify.com/track/0L5j4aIZqzGweVoLGKNqNB"
     },
     {
       "added_at": "2023-03-03 00:00:00",
@@ -961,22 +961,6 @@
       "url": "https://open.spotify.com/track/52K4NbHU3E2KvVxwKpAGUm"
     },
     {
-      "added_at": "2023-04-21 15:17:44",
-      "album": {
-        "name": "Left Right Forward",
-        "url": "https://open.spotify.com/album/6dtoYJEmC42TD7s322YBrE"
-      },
-      "artists": [
-        {
-          "name": "STONE",
-          "url": "https://open.spotify.com/artist/1br1PqvafIUOis4rBUvv1H"
-        }
-      ],
-      "duration_ms": 175116,
-      "name": "Left Right Forward",
-      "url": "https://open.spotify.com/track/1asg5gvlIxDNECNn1GeaN5"
-    },
-    {
       "added_at": "2023-03-20 13:21:43",
       "album": {
         "name": "Daylight Robbery",
@@ -991,6 +975,22 @@
       "duration_ms": 170200,
       "name": "Daylight Robbery",
       "url": "https://open.spotify.com/track/4nlP649wAY4jW7HwfJABWT"
+    },
+    {
+      "added_at": "2023-04-21 15:17:44",
+      "album": {
+        "name": "Left Right Forward",
+        "url": "https://open.spotify.com/album/6dtoYJEmC42TD7s322YBrE"
+      },
+      "artists": [
+        {
+          "name": "STONE",
+          "url": "https://open.spotify.com/artist/1br1PqvafIUOis4rBUvv1H"
+        }
+      ],
+      "duration_ms": 175116,
+      "name": "Left Right Forward",
+      "url": "https://open.spotify.com/track/1asg5gvlIxDNECNn1GeaN5"
     },
     {
       "added_at": "2023-03-03 00:00:00",
@@ -1059,6 +1059,26 @@
     {
       "added_at": "2023-03-03 00:00:00",
       "album": {
+        "name": "LIES THEY TELL OUR CHILDREN",
+        "url": "https://open.spotify.com/album/0y6Yl2xeyimgGJvIt2aNbk"
+      },
+      "artists": [
+        {
+          "name": "Anti-Flag",
+          "url": "https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT"
+        },
+        {
+          "name": "Shane Told",
+          "url": "https://open.spotify.com/artist/04Pv8STObLiJIKEm72YDPY"
+        }
+      ],
+      "duration_ms": 184626,
+      "name": "LAUGH. CRY. SMILE. DIE. (feat. Shane Told of Silverstein)",
+      "url": "https://open.spotify.com/track/6AmR0jgVwt26PqY3FJL8zk"
+    },
+    {
+      "added_at": "2023-03-03 00:00:00",
+      "album": {
         "name": "Force 10 From Navarone",
         "url": "https://open.spotify.com/album/5hizabIxOkefLOuQgi61fM"
       },
@@ -1079,22 +1099,6 @@
     {
       "added_at": "2023-03-03 00:00:00",
       "album": {
-        "name": "Waste",
-        "url": "https://open.spotify.com/album/01sJMqpfqlYFMvVF1H0FBj"
-      },
-      "artists": [
-        {
-          "name": "STONE",
-          "url": "https://open.spotify.com/artist/1br1PqvafIUOis4rBUvv1H"
-        }
-      ],
-      "duration_ms": 186996,
-      "name": "Waste",
-      "url": "https://open.spotify.com/track/1jDVf3LzkHI2rz5BGveizV"
-    },
-    {
-      "added_at": "2023-03-03 00:00:00",
-      "album": {
         "name": "Growing Up",
         "url": "https://open.spotify.com/album/6BkAzZNlSz80Iz3oTlKHet"
       },
@@ -1111,38 +1115,18 @@
     {
       "added_at": "2023-03-03 00:00:00",
       "album": {
-        "name": "LIES THEY TELL OUR CHILDREN",
-        "url": "https://open.spotify.com/album/0y6Yl2xeyimgGJvIt2aNbk"
+        "name": "Demolition Row",
+        "url": "https://open.spotify.com/album/1gVt5YHXoBNEXCUzgkJDlk"
       },
       "artists": [
         {
-          "name": "Anti-Flag",
-          "url": "https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT"
-        },
-        {
-          "name": "Shane Told",
-          "url": "https://open.spotify.com/artist/04Pv8STObLiJIKEm72YDPY"
+          "name": "Metz",
+          "url": "https://open.spotify.com/artist/18TNVFTJ6WfeicsMRrdJHI"
         }
       ],
-      "duration_ms": 184626,
-      "name": "LAUGH. CRY. SMILE. DIE. (feat. Shane Told of Silverstein)",
-      "url": "https://open.spotify.com/track/6AmR0jgVwt26PqY3FJL8zk"
-    },
-    {
-      "added_at": "2023-03-20 13:21:43",
-      "album": {
-        "name": "Alive",
-        "url": "https://open.spotify.com/album/4GDScUQlslGqyxqFV4KlqF"
-      },
-      "artists": [
-        {
-          "name": "As December Falls",
-          "url": "https://open.spotify.com/artist/7Atp614yT56v9XrlqZryzX"
-        }
-      ],
-      "duration_ms": 197660,
-      "name": "Alive",
-      "url": "https://open.spotify.com/track/3GUQHwDdoziJz9wTcBC1TZ"
+      "duration_ms": 258250,
+      "name": "Demolition Row",
+      "url": "https://open.spotify.com/track/2bOTDi5fEHrr14bYIDUbwV"
     },
     {
       "added_at": "2023-03-03 00:00:00",
@@ -1163,18 +1147,34 @@
     {
       "added_at": "2023-03-03 00:00:00",
       "album": {
-        "name": "Demolition Row",
-        "url": "https://open.spotify.com/album/1gVt5YHXoBNEXCUzgkJDlk"
+        "name": "Waste",
+        "url": "https://open.spotify.com/album/01sJMqpfqlYFMvVF1H0FBj"
       },
       "artists": [
         {
-          "name": "Metz",
-          "url": "https://open.spotify.com/artist/18TNVFTJ6WfeicsMRrdJHI"
+          "name": "STONE",
+          "url": "https://open.spotify.com/artist/1br1PqvafIUOis4rBUvv1H"
         }
       ],
-      "duration_ms": 258250,
-      "name": "Demolition Row",
-      "url": "https://open.spotify.com/track/2bOTDi5fEHrr14bYIDUbwV"
+      "duration_ms": 186996,
+      "name": "Waste",
+      "url": "https://open.spotify.com/track/1jDVf3LzkHI2rz5BGveizV"
+    },
+    {
+      "added_at": "2023-03-20 13:21:43",
+      "album": {
+        "name": "Alive",
+        "url": "https://open.spotify.com/album/4GDScUQlslGqyxqFV4KlqF"
+      },
+      "artists": [
+        {
+          "name": "As December Falls",
+          "url": "https://open.spotify.com/artist/7Atp614yT56v9XrlqZryzX"
+        }
+      ],
+      "duration_ms": 197660,
+      "name": "Alive",
+      "url": "https://open.spotify.com/track/3GUQHwDdoziJz9wTcBC1TZ"
     },
     {
       "added_at": "2023-03-03 00:00:00",
@@ -1227,22 +1227,6 @@
     {
       "added_at": "2023-03-03 00:00:00",
       "album": {
-        "name": "Bye Bye Big Bear",
-        "url": "https://open.spotify.com/album/79PfNXhYhRSo8mLST2gSti"
-      },
-      "artists": [
-        {
-          "name": "The Dirty Nil",
-          "url": "https://open.spotify.com/artist/2mGENPk4M4jtaf5D7fDi98"
-        }
-      ],
-      "duration_ms": 176902,
-      "name": "Bye Bye Big Bear",
-      "url": "https://open.spotify.com/track/6nSd7gG3KWFqG7Za17Jna2"
-    },
-    {
-      "added_at": "2023-03-03 00:00:00",
-      "album": {
         "name": "Choose Your Fighter",
         "url": "https://open.spotify.com/album/3HoyLFKUF2HKmYJjjFhd5s"
       },
@@ -1255,6 +1239,22 @@
       "duration_ms": 135466,
       "name": "Choose Your Fighter",
       "url": "https://open.spotify.com/track/5GJgz8jChM8AA7cSStOqjU"
+    },
+    {
+      "added_at": "2023-03-03 00:00:00",
+      "album": {
+        "name": "Bye Bye Big Bear",
+        "url": "https://open.spotify.com/album/79PfNXhYhRSo8mLST2gSti"
+      },
+      "artists": [
+        {
+          "name": "The Dirty Nil",
+          "url": "https://open.spotify.com/artist/2mGENPk4M4jtaf5D7fDi98"
+        }
+      ],
+      "duration_ms": 176902,
+      "name": "Bye Bye Big Bear",
+      "url": "https://open.spotify.com/track/6nSd7gG3KWFqG7Za17Jna2"
     },
     {
       "added_at": "2023-03-03 00:00:00",

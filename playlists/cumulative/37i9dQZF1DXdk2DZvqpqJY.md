@@ -4,7 +4,7 @@
 
 > Swinging jazz for relaxing and unwinding.
 
-360 songs - 22 hr 25 min
+361 songs - 22 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -91,6 +91,7 @@
 | [Dream you're chasing](https://open.spotify.com/track/5sd1XD2YCFDhJDpbPwF9Ua) | [Pimm's Trio](https://open.spotify.com/artist/0vlyMzroosYUjkAfHLx6kF) | [Dream you're chasing](https://open.spotify.com/album/4AZUlUpHp3ALkxRKaPYBHL) | 2:30 | 2023-05-11 |  |
 | [Dreams](https://open.spotify.com/track/5AjqLBpXtIzR1xE2DWljnC) | [Paul Grant](https://open.spotify.com/artist/69FGWeFKaCyCjiDU2afEUl), [Morgan Burrs](https://open.spotify.com/artist/6VnotTNnq01QuFIPjL81gW) | [Reflections](https://open.spotify.com/album/63vYZUCuZYZhXQrxaztR0M) | 2:55 | 2022-06-02 | 2023-03-21 |
 | [Dribble](https://open.spotify.com/track/3HEJptfJ3taABLi2klHspp) | [Anomalie](https://open.spotify.com/artist/2ev6Cd0yJVCcpf2zezEQ8Z) | [Dribble](https://open.spotify.com/album/6oTehHEgaJ9YXQcKH0miuc) | 3:30 | 2022-02-17 | 2022-06-03 |
+| [Ducks for cover](https://open.spotify.com/track/4oECG5mUxW51Nh3U6iOdrc) | [Reuben Plays](https://open.spotify.com/artist/5RktRZOHbkKduKINbyTHNC) | [Ducks for cover](https://open.spotify.com/album/4sbUuCDayRl0uaF92eUquz) | 2:40 | 2023-05-11 |  |
 | [earthly things](https://open.spotify.com/track/7GZhgahlOC3GgZiTnQOHOL) | [Kiefer](https://open.spotify.com/artist/5lDtfHPqWN6MG9tFywnW8J) | [When There's Love Around](https://open.spotify.com/album/1ht1VvaJRHg2JxEAUpl9A3) | 5:04 | 2022-06-02 | 2023-03-21 |
 | [El Neo Songo](https://open.spotify.com/track/66sBJ6wPujSHWh4ce0F00s) | [Kansado](https://open.spotify.com/artist/40is4UfaphbysAcimFzUDW) | [El Neo Songo](https://open.spotify.com/album/0s2ZyzyDljq9WXdwo1IgUR) | 3:07 | 2022-02-17 | 2023-03-21 |
 | [EL\-JO](https://open.spotify.com/track/4aL0EnsQkY3DvzJ2ZjRIr5) | [Otis McDonald](https://open.spotify.com/artist/4Ps1M3A9ck9G3gbPjllg7T) | [EL\-JO](https://open.spotify.com/album/32Bv56MOZIWuknJR8mOIhA) | 3:53 | 2022-02-17 | 2022-02-22 |
@@ -354,7 +355,7 @@
 | [What's the Matter](https://open.spotify.com/track/2t4Jta1l1mONdzyMAhjvYf) | [Otis McDonald](https://open.spotify.com/artist/4Ps1M3A9ck9G3gbPjllg7T) | [What's the Matter](https://open.spotify.com/album/5sqBcX9zowe2A8la0IdQkC) | 2:21 | 2022-02-17 | 2022-02-21 |
 | [when there's love around](https://open.spotify.com/track/4TM2biU9mX2XG3MiSTcH4b) | [Kiefer](https://open.spotify.com/artist/5lDtfHPqWN6MG9tFywnW8J) | [When There's Love Around](https://open.spotify.com/album/1ht1VvaJRHg2JxEAUpl9A3) | 5:03 | 2022-04-22 | 2023-03-21 |
 | [When Your Lover Has Gone](https://open.spotify.com/track/6AS9fqmJHJinba1tremx4a) | [Makaya McCraven](https://open.spotify.com/artist/5FnpXrrMdJVZCK54oHWqUa) | [Deciphering The Message](https://open.spotify.com/album/3yrDdyKK5WdYFAHUNmradZ) | 2:11 | 2022-02-17 | 2023-02-02 |
-| [Where is Jack?](https://open.spotify.com/track/1eFaguvJh03AF3XOUAlWR4) | [Reuben Plays](https://open.spotify.com/artist/5RktRZOHbkKduKINbyTHNC) | [Where is Jack?](https://open.spotify.com/album/6IAwrExHAogD5ayPqjQc1S) | 3:35 | 2023-05-04 |  |
+| [Where is Jack?](https://open.spotify.com/track/1eFaguvJh03AF3XOUAlWR4) | [Reuben Plays](https://open.spotify.com/artist/5RktRZOHbkKduKINbyTHNC) | [Where is Jack?](https://open.spotify.com/album/6IAwrExHAogD5ayPqjQc1S) | 3:35 | 2023-05-04 | 2023-05-19 |
 | [Wichita Lineman](https://open.spotify.com/track/60R7wUAF8IQsVZkyCLN5Sf) | [Gottfried Barber Trio](https://open.spotify.com/artist/1QO8UVy5AHBqOWgHWEYywf) | [Wichita Lineman](https://open.spotify.com/album/7b9qEu6B0zrQUc8wexkYC0) | 5:07 | 2023-05-04 |  |
 | [Widest Possible Aperture](https://open.spotify.com/track/7xRIniTEZ6rSosznsSrY7a) | [Slowly Rolling Camera](https://open.spotify.com/artist/5kH36nIamlV0iSe6ESDWvb) | [Where the Streets Lead](https://open.spotify.com/album/1AHYZ7pgGuiq1t7YFScrzL) | 5:55 | 2022-02-17 | 2023-02-16 |
 | [Without A Song](https://open.spotify.com/track/1nsMASRDWwUwlBMmOuh80d) | [Meadow Park](https://open.spotify.com/artist/3xgSoGgPQpQvOK5XOyoOAm) | [Without A Song](https://open.spotify.com/album/7KckOMQ11H9HTjolar2ch7) | 3:56 | 2023-03-20 | 2023-04-14 |

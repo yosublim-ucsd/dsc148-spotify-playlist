@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXG4Kg5rawni.md) - [plain]
 
 > Adoradores cantando sobre o amor\. Foto: Paulo Cesar Baruk
 
-[Spotify](https://open.spotify.com/user/spotify) - 83,367 likes - 68 songs - 4 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 83,390 likes - 68 songs - 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,8 +17,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXG4Kg5rawni.md) - [plain]
 | 7 | [Oração do Amor](https://open.spotify.com/track/136WFxJJfu6TOG213942Cz) | [Arianne](https://open.spotify.com/artist/49gy3r9VM6fxS16a9R8eE1) | [Amo Você Vol\. 19](https://open.spotify.com/album/37nPPwQsZvOT0uqT3Dyglu) | 3:49 |
 | 8 | [Metade de Mim](https://open.spotify.com/track/2aI59xoodYm6cB8JIPube0) | [Elaine de Jesus](https://open.spotify.com/artist/6bGbc8Wuk79kOzhCDWmeQQ), [Alexandre Silva](https://open.spotify.com/artist/4pv3YsIBMfpGMQgGXLZmFo) | [Sem Comparação](https://open.spotify.com/album/0wp8qH6qDd18GNJnGNwtHY) | 4:08 |
 | 9 | [Mais \- Studio Session](https://open.spotify.com/track/0o6nEehnkqsyy1J4pMvoEZ) | [Amanda Rodrigues](https://open.spotify.com/artist/02UTfx9pxLYkiuMENQe2IW), [Pedro Mariano](https://open.spotify.com/artist/3flF2SJ6De8yPikxEI5bpY) | [Mais \(Studio Session\)](https://open.spotify.com/album/4jSX0OJw7dzgzvT3GSWleW) | 4:10 |
-| 10 | [Sonho](https://open.spotify.com/track/0go1ERmjFYbI2Z6pwF0Qse) | [Khorus](https://open.spotify.com/artist/1IfrK0U13F4WRtoKMhnXQx) | [Mãos Vazias](https://open.spotify.com/album/05B5n1uemv9gLwwJOeKrWl) | 4:36 |
-| 11 | [Desde o Primeiro Momento](https://open.spotify.com/track/1pv5bRc2G6ZbiBkKpCDT1K) | [Pamela](https://open.spotify.com/artist/2utzgF5vzJfGqZPHBGFtrG) | [Tempo de Sorrir](https://open.spotify.com/album/1GBGOqtdXd3Oup24fJ6B1B) | 4:04 |
+| 10 | [Desde o Primeiro Momento](https://open.spotify.com/track/1pv5bRc2G6ZbiBkKpCDT1K) | [Pamela](https://open.spotify.com/artist/2utzgF5vzJfGqZPHBGFtrG) | [Tempo de Sorrir](https://open.spotify.com/album/1GBGOqtdXd3Oup24fJ6B1B) | 4:04 |
+| 11 | [Sonho](https://open.spotify.com/track/0go1ERmjFYbI2Z6pwF0Qse) | [Khorus](https://open.spotify.com/artist/1IfrK0U13F4WRtoKMhnXQx) | [Mãos Vazias](https://open.spotify.com/album/05B5n1uemv9gLwwJOeKrWl) | 4:36 |
 | 12 | [A Bênção do Senhor](https://open.spotify.com/track/483Dxv8LdL4Ink5r6g8ZB9) | [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [A Bênção do Senhor](https://open.spotify.com/album/6JYB97cfmq5wOBa2u0ZvY9) | 4:10 |
 | 13 | [Doce Amor](https://open.spotify.com/track/4vC4IQZOBRPcdaxunvEvA1) | [Ton Carfi](https://open.spotify.com/artist/4IefiwlkKHUFoRdBsGj756), [Jefferson Moraes](https://open.spotify.com/artist/40t5KmKTi2ajyJmerMYY4C) | [Doce Amor](https://open.spotify.com/album/4NF2hCRfnHDwTnRZa5cQtK) | 3:56 |
 | 14 | [Era Você](https://open.spotify.com/track/2pBNf05NfW1nrQqblf8VO0) | [Wilian Nascimento](https://open.spotify.com/artist/4PjjeofQKolTepWdilslSR) | [Lugar Mais Alto](https://open.spotify.com/album/4MwD9JVQ5rjY79jrO2ak9G) | 4:36 |
@@ -56,9 +56,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXG4Kg5rawni.md) - [plain]
 | 46 | [Onde Está Você](https://open.spotify.com/track/0bk0A00Y3pw4u0oQPpkrQL) | [Alexandre Magnani](https://open.spotify.com/artist/6mTGdkHV5pKO7VHGMuiKGu), [Sarah Renata](https://open.spotify.com/artist/03KBnCXOAIMKBJhpadTkNY) | [Onde Está Você](https://open.spotify.com/album/7BXoXN8TRG0pZf9Q5FmtrW) | 4:06 |
 | 47 | [Nosso Castelo](https://open.spotify.com/track/3cwe5HZqAhygCVPPVcwsit) | [Wilian Nascimento](https://open.spotify.com/artist/4PjjeofQKolTepWdilslSR) | [Nosso Castelo](https://open.spotify.com/album/20HqyoxH3L4OAL9J8rElVd) | 4:12 |
 | 48 | [Amar Você](https://open.spotify.com/track/1H9K7yHUop3Y1W9u2Df9ke) | [Fernanda Brum](https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8) | [Fernanda Brum \- Falando de Amor](https://open.spotify.com/album/3FKNtBneKWOHMAr7GyuPeE) | 5:51 |
-| 49 | [Prometo](https://open.spotify.com/track/3r0V2eKyPsWZgr7Q8M5QHx) | [Arianne](https://open.spotify.com/artist/49gy3r9VM6fxS16a9R8eE1) | [Sobre o Amor](https://open.spotify.com/album/3nPc8pneqzRqYV8mqjPikn) | 2:52 |
-| 50 | [Não Há Limites](https://open.spotify.com/track/18sk6Gy3SYclFYSSVK7Fqs) | [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [Não Há Limites](https://open.spotify.com/album/7GGCEqbIutMDDgGBzTlgxB) | 4:14 |
-| 51 | [Por Toda Vida](https://open.spotify.com/track/5UY0gdOjr8lRMUCqSCpsi9) | [Voices](https://open.spotify.com/artist/0MIuvybztu95QtdglGYTBD) | [Amo Você Vol\. 6](https://open.spotify.com/album/3v5Geo1sU3EbNrecHH8aYE) | 4:15 |
+| 49 | [Por Toda Vida](https://open.spotify.com/track/5UY0gdOjr8lRMUCqSCpsi9) | [Voices](https://open.spotify.com/artist/0MIuvybztu95QtdglGYTBD) | [Amo Você Vol\. 6](https://open.spotify.com/album/3v5Geo1sU3EbNrecHH8aYE) | 4:15 |
+| 50 | [Prometo](https://open.spotify.com/track/3r0V2eKyPsWZgr7Q8M5QHx) | [Arianne](https://open.spotify.com/artist/49gy3r9VM6fxS16a9R8eE1) | [Sobre o Amor](https://open.spotify.com/album/3nPc8pneqzRqYV8mqjPikn) | 2:52 |
+| 51 | [Não Há Limites](https://open.spotify.com/track/18sk6Gy3SYclFYSSVK7Fqs) | [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [Não Há Limites](https://open.spotify.com/album/7GGCEqbIutMDDgGBzTlgxB) | 4:14 |
 | 52 | [Como da Primeira Vez](https://open.spotify.com/track/5LtLJOxgWzpbt633NCrYTG) | [Wilian Nascimento](https://open.spotify.com/artist/4PjjeofQKolTepWdilslSR) | [Como da Primeira Vez](https://open.spotify.com/album/1l251cpn8Zq7lddCDv6ek4) | 3:46 |
 | 53 | [Bem Maior Que o Céu](https://open.spotify.com/track/06XuWs8tYpf4Onbw48FF0u) | [Pr\. Lucas](https://open.spotify.com/artist/5uBdPagL8e7AwfIzrM8zuS) | [Amo Você Vol\. 21](https://open.spotify.com/album/2qLkUabUou3EiP9wsV4vrj) | 5:03 |
 | 54 | [Deus Me Deu Você](https://open.spotify.com/track/2UfgNRxseC9S9Hmf8sW7tm) | [Thiago e Jéssica](https://open.spotify.com/artist/47Avc96OLqdMeyZldOlIhF) | [Deus Me Deu Você](https://open.spotify.com/album/27QzsDGSDFsnEQMqf6CyOl) | 4:23 |
@@ -69,12 +69,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXG4Kg5rawni.md) - [plain]
 | 59 | [Canção do Amor](https://open.spotify.com/track/45yVIwLnEmGrLSK0xqr5Cs) | [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW) | [Canção do Amor](https://open.spotify.com/album/0yaKi8TPRzEJKKQH1jm7BD) | 3:28 |
 | 60 | [Canção pra Você](https://open.spotify.com/track/54UbRXxLJ1UoV9bs6mjjBF) | [Bruna Olly](https://open.spotify.com/artist/4SqgfSueCwdjxbmRbROHbZ) | [Românticos](https://open.spotify.com/album/3DUbxHNfFLDGKZcHYmcbs8) | 3:48 |
 | 61 | [Por Favor](https://open.spotify.com/track/0DEV0GiQpOWptidS9t7WNY) | [Duo Franco](https://open.spotify.com/artist/0rnMMhoMmFkyFZe4dNY29b) | [D.R\. Desfrutando a Relação](https://open.spotify.com/album/2nvHgivR5Eufk3rDQbpuX3) | 3:47 |
-| 62 | [Chave do Amor](https://open.spotify.com/track/3GEOh17iDZzP9ieATkdtlL) | [Kelwin Ramos](https://open.spotify.com/artist/2IKXmBcW5YsoNGGFVnQ1X4), [Michely Manuely](https://open.spotify.com/artist/4B4yCfTafHBS4VsFDWjCeV) | [Chave do Amor](https://open.spotify.com/album/6gT3f9ABhudAeet0qTQmFp) | 3:10 |
-| 63 | [Um Pedacinho do Céu](https://open.spotify.com/track/1TBMTBW0724e5bWeCpO3YJ) | [Suellen Lima](https://open.spotify.com/artist/4SqxTYV3Tdwo2JshGLlH6P) | [Um Pedacinho do Céu](https://open.spotify.com/album/4IopoSZsKYrVAV3F4rwjoG) | 3:53 |
+| 62 | [Um Pedacinho do Céu](https://open.spotify.com/track/1TBMTBW0724e5bWeCpO3YJ) | [Suellen Lima](https://open.spotify.com/artist/4SqxTYV3Tdwo2JshGLlH6P) | [Um Pedacinho do Céu](https://open.spotify.com/album/4IopoSZsKYrVAV3F4rwjoG) | 3:53 |
+| 63 | [Chave do Amor](https://open.spotify.com/track/3GEOh17iDZzP9ieATkdtlL) | [Kelwin Ramos](https://open.spotify.com/artist/2IKXmBcW5YsoNGGFVnQ1X4), [Michely Manuely](https://open.spotify.com/artist/4B4yCfTafHBS4VsFDWjCeV) | [Chave do Amor](https://open.spotify.com/album/6gT3f9ABhudAeet0qTQmFp) | 3:10 |
 | 64 | [Deus Você e Eu](https://open.spotify.com/track/2IhDivniBs1oALzgMIoP2G) | [Hellen Caroline](https://open.spotify.com/artist/6sf7SuzRBzEQDFbmY2WarY) | [Deus Você e Eu](https://open.spotify.com/album/4inEuKybNiqEcL2loSpBZU) | 3:39 |
 | 65 | [Amor é Flor](https://open.spotify.com/track/2xHj61bOgsrBQ6kU7UYphq) | [Leidy Murilho](https://open.spotify.com/artist/4tld50GNxSiqbzRGRi5nwv), [Luan Murilho](https://open.spotify.com/artist/6waZBPIGgR7C355nmsI2eX) | [Amor é Flor](https://open.spotify.com/album/7dZluOqo9R8tqUKoSPhqT1) | 2:15 |
 | 66 | [Perto de Mim](https://open.spotify.com/track/5N5c9pE8W7KFfV3C9kOLdt) | [Áquila](https://open.spotify.com/artist/4z6EQDJNZwMQ6uHmjL87nQ) | [Perto de Mim](https://open.spotify.com/album/5tkfbVIirsXOLrEOD5C58y) | 2:48 |
 | 67 | [Minha Jóia Rara](https://open.spotify.com/track/1PbHuaCO9IrBt51mwcV93I) | [Michelle Nascimento](https://open.spotify.com/artist/2UBlQ9pjsNtW0uSCWkKmHq) | [Amo Você Vol\. 18](https://open.spotify.com/album/6ZtjVbQ1Fo4d5xn47KfF11) | 3:58 |
 | 68 | [Passa o Tempo](https://open.spotify.com/track/5voPV6PLExZZzOjJENG8qW) | [Áquila](https://open.spotify.com/artist/4z6EQDJNZwMQ6uHmjL87nQ) | [Passa o Tempo](https://open.spotify.com/album/0ap67cOHhkz7DbvTIesBvG) | 3:31 |
 
-Snapshot ID: `MCw1MGYxZjNjMjVjNjEzOTRjOTE5MGQ3YmI4ZGE0ZDg3NTgxNDE4Mzdh`
+Snapshot ID: `MCxkZTNiZThjNjVhMzhmMDEyMzU5MmYxZmMyOTU0OGUxYjY2ZjNhOWVh`

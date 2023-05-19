@@ -1,12 +1,12 @@
 {
   "description": "Disco forever. Deeper cuts, forgotten gems and 8 minute versions.",
-  "num_followers": 42236,
+  "num_followers": 42283,
   "original_name": "Disco Decadence",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhMTUxZGIyMTMzZjdlMWU2YWVlZTM2OTViOTY0YmIzZjExZjhhY2Zi",
+  "snapshot_id": "MCxiMTA5ZWE0YjQ3MjVkNDcwMTU4OGFiM2Y2Zjg5ZTFhNDcxNWU3MDlh",
   "tracks": [
     {
       "added_at": "2022-12-31 00:39:45",
@@ -391,26 +391,6 @@
     {
       "added_at": "2022-12-31 00:39:45",
       "album": {
-        "name": "The Best Of Cheryl Lynn: Got To Be Real",
-        "url": "https://open.spotify.com/album/4iHg9LCYV1ajkqyFjl3sXy"
-      },
-      "artists": [
-        {
-          "name": "TOTO",
-          "url": "https://open.spotify.com/artist/0PFtn5NtBbbUNbU9EAmIWF"
-        },
-        {
-          "name": "Cheryl Lynn",
-          "url": "https://open.spotify.com/artist/6UfoTQXaV3DuqtDVjZIxwZ"
-        }
-      ],
-      "duration_ms": 305893,
-      "name": "Georgy Porgy (feat. Cheryl Lynn) - Disco Version",
-      "url": "https://open.spotify.com/track/2zgVJFC1zMX552Ein72J81"
-    },
-    {
-      "added_at": "2022-12-31 00:39:45",
-      "album": {
         "name": "Love Is The Message",
         "url": "https://open.spotify.com/album/6x6beV2H3fTTL2ovxA3iVQ"
       },
@@ -427,6 +407,26 @@
       "duration_ms": 222346,
       "name": "T.S.O.P. (The Sound of Philadelphia) (feat. The Three Degrees)",
       "url": "https://open.spotify.com/track/7kllQQPam6HumbUCIPSvHJ"
+    },
+    {
+      "added_at": "2022-12-31 00:39:45",
+      "album": {
+        "name": "The Best Of Cheryl Lynn: Got To Be Real",
+        "url": "https://open.spotify.com/album/4iHg9LCYV1ajkqyFjl3sXy"
+      },
+      "artists": [
+        {
+          "name": "TOTO",
+          "url": "https://open.spotify.com/artist/0PFtn5NtBbbUNbU9EAmIWF"
+        },
+        {
+          "name": "Cheryl Lynn",
+          "url": "https://open.spotify.com/artist/6UfoTQXaV3DuqtDVjZIxwZ"
+        }
+      ],
+      "duration_ms": 305893,
+      "name": "Georgy Porgy (feat. Cheryl Lynn) - Disco Version",
+      "url": "https://open.spotify.com/track/2zgVJFC1zMX552Ein72J81"
     },
     {
       "added_at": "2022-12-31 00:39:45",
@@ -463,6 +463,22 @@
     {
       "added_at": "2022-12-31 00:39:45",
       "album": {
+        "name": "Love is Back",
+        "url": "https://open.spotify.com/album/32wRTbL7yLNAYOU2olmIh8"
+      },
+      "artists": [
+        {
+          "name": "Love Unlimited",
+          "url": "https://open.spotify.com/artist/2M4KXzgedR4EKG4qgTeDKa"
+        }
+      ],
+      "duration_ms": 241000,
+      "name": "I'm So Glad That I'm a Woman",
+      "url": "https://open.spotify.com/track/2jQhMqaTes0RCSVECpGCUD"
+    },
+    {
+      "added_at": "2022-12-31 00:39:45",
+      "album": {
         "name": "Xanadu",
         "url": "https://open.spotify.com/album/0dWzFLXRM8F1IsEYdKopAa"
       },
@@ -479,22 +495,6 @@
       "duration_ms": 208506,
       "name": "Xanadu",
       "url": "https://open.spotify.com/track/4zdspHPxpExPiU8RolxBUH"
-    },
-    {
-      "added_at": "2022-12-31 00:39:45",
-      "album": {
-        "name": "Love is Back",
-        "url": "https://open.spotify.com/album/32wRTbL7yLNAYOU2olmIh8"
-      },
-      "artists": [
-        {
-          "name": "Love Unlimited",
-          "url": "https://open.spotify.com/artist/2M4KXzgedR4EKG4qgTeDKa"
-        }
-      ],
-      "duration_ms": 241000,
-      "name": "I'm So Glad That I'm a Woman",
-      "url": "https://open.spotify.com/track/2jQhMqaTes0RCSVECpGCUD"
     },
     {
       "added_at": "2022-12-31 00:39:45",

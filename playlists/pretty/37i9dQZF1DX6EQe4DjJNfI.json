@@ -1,12 +1,12 @@
 {
   "description": "O R&B com tempero e gostinho brasileiro para voc\u00ea ouvir. Foto: Yas Werneck",
-  "num_followers": 160085,
+  "num_followers": 160108,
   "original_name": "R&B Brasil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjZjdiZGY3ZjZiYTIwNDQ4NzE4ODQyOTI5NTQ4YjA4MzEwN2I4YzA2",
+  "snapshot_id": "MCxkZmI3MjAzMmM4NWJiZWU2MzE3Y2U4MjlhNjU3NDdmM2E5YjQ3ZmIz",
   "tracks": [
     {
       "added_at": "2023-05-12 03:01:00",
@@ -351,26 +351,6 @@
     {
       "added_at": "2023-05-12 03:01:00",
       "album": {
-        "name": "Amar D\u00f3i",
-        "url": "https://open.spotify.com/album/0dMizKYVd3kyaOe2VJkPTn"
-      },
-      "artists": [
-        {
-          "name": "Iza Sabino",
-          "url": "https://open.spotify.com/artist/3bgFgu57tkJSn1ONpK9Gs3"
-        },
-        {
-          "name": "Rapaz do Dread",
-          "url": "https://open.spotify.com/artist/4AUugyBbC7wnwh6zF2kg5B"
-        }
-      ],
-      "duration_ms": 168063,
-      "name": "N\u00f3s",
-      "url": "https://open.spotify.com/track/2rzuk1zS2HbFTn4aLDoBEm"
-    },
-    {
-      "added_at": "2023-05-12 03:01:00",
-      "album": {
         "name": "Aquelas Coisas",
         "url": "https://open.spotify.com/album/5pVKXPYLNnDPSQYl5yNrmm"
       },
@@ -387,6 +367,26 @@
       "duration_ms": 196363,
       "name": "Aquelas Coisas",
       "url": "https://open.spotify.com/track/68H3yFyKdAuYuxQ7ekQKWw"
+    },
+    {
+      "added_at": "2023-05-12 03:01:00",
+      "album": {
+        "name": "Amar D\u00f3i",
+        "url": "https://open.spotify.com/album/0dMizKYVd3kyaOe2VJkPTn"
+      },
+      "artists": [
+        {
+          "name": "Iza Sabino",
+          "url": "https://open.spotify.com/artist/3bgFgu57tkJSn1ONpK9Gs3"
+        },
+        {
+          "name": "Rapaz do Dread",
+          "url": "https://open.spotify.com/artist/4AUugyBbC7wnwh6zF2kg5B"
+        }
+      ],
+      "duration_ms": 168063,
+      "name": "N\u00f3s",
+      "url": "https://open.spotify.com/track/2rzuk1zS2HbFTn4aLDoBEm"
     },
     {
       "added_at": "2023-05-12 03:01:00",
@@ -547,26 +547,6 @@
     {
       "added_at": "2023-05-12 03:01:00",
       "album": {
-        "name": "Nessa Vida",
-        "url": "https://open.spotify.com/album/1ZoVkAPWCNgOCpRhZH1LgE"
-      },
-      "artists": [
-        {
-          "name": "IGOR",
-          "url": "https://open.spotify.com/artist/4zCVTLvRnKYmkVyCxfV2ny"
-        },
-        {
-          "name": "Budah",
-          "url": "https://open.spotify.com/artist/08zSkHjCY3ypH4gdBVHWgO"
-        }
-      ],
-      "duration_ms": 189233,
-      "name": "Nessa Vida",
-      "url": "https://open.spotify.com/track/78eJoR6E6kNzjxol1AqWPH"
-    },
-    {
-      "added_at": "2023-05-12 03:01:00",
-      "album": {
         "name": "Sinal de Fuma\u00e7a",
         "url": "https://open.spotify.com/album/5OkI6zKfhKzl1w3CjpvnOi"
       },
@@ -583,6 +563,26 @@
       "duration_ms": 150833,
       "name": "Sinal de Fuma\u00e7a",
       "url": "https://open.spotify.com/track/76M93slEhL9Q9MEvbxycbe"
+    },
+    {
+      "added_at": "2023-05-12 03:01:00",
+      "album": {
+        "name": "Nessa Vida",
+        "url": "https://open.spotify.com/album/1ZoVkAPWCNgOCpRhZH1LgE"
+      },
+      "artists": [
+        {
+          "name": "IGOR",
+          "url": "https://open.spotify.com/artist/4zCVTLvRnKYmkVyCxfV2ny"
+        },
+        {
+          "name": "Budah",
+          "url": "https://open.spotify.com/artist/08zSkHjCY3ypH4gdBVHWgO"
+        }
+      ],
+      "duration_ms": 189233,
+      "name": "Nessa Vida",
+      "url": "https://open.spotify.com/track/78eJoR6E6kNzjxol1AqWPH"
     },
     {
       "added_at": "2023-05-12 03:01:00",
@@ -611,6 +611,22 @@
     {
       "added_at": "2023-05-12 03:01:00",
       "album": {
+        "name": "MENTIROSO",
+        "url": "https://open.spotify.com/album/4M1ABS74NBYnrsXMSEQIRV"
+      },
+      "artists": [
+        {
+          "name": "Doug O.",
+          "url": "https://open.spotify.com/artist/1mj6W331lVCliU08OYyMg0"
+        }
+      ],
+      "duration_ms": 167936,
+      "name": "MENTIROSO",
+      "url": "https://open.spotify.com/track/2pWh0qXT9466a6HwMf9I1W"
+    },
+    {
+      "added_at": "2023-05-12 03:01:00",
+      "album": {
         "name": "\u00c1gua (Dj Nyack Remix)",
         "url": "https://open.spotify.com/album/0RqBQ7jwjFzVVLt0Tsrrpx"
       },
@@ -631,22 +647,6 @@
       "duration_ms": 233142,
       "name": "\u00c1gua - Dj Nyack Remix",
       "url": "https://open.spotify.com/track/4GPV2BdcXmOWArbqlwwAgX"
-    },
-    {
-      "added_at": "2023-05-12 03:01:00",
-      "album": {
-        "name": "MENTIROSO",
-        "url": "https://open.spotify.com/album/4M1ABS74NBYnrsXMSEQIRV"
-      },
-      "artists": [
-        {
-          "name": "Doug O.",
-          "url": "https://open.spotify.com/artist/1mj6W331lVCliU08OYyMg0"
-        }
-      ],
-      "duration_ms": 167936,
-      "name": "MENTIROSO",
-      "url": "https://open.spotify.com/track/2pWh0qXT9466a6HwMf9I1W"
     },
     {
       "added_at": "2023-05-12 03:01:00",
@@ -1179,22 +1179,6 @@
     {
       "added_at": "2023-05-12 03:01:00",
       "album": {
-        "name": "Roupa de Ontem",
-        "url": "https://open.spotify.com/album/7eIK3jKOyfdsnj1PaalMVa"
-      },
-      "artists": [
-        {
-          "name": "Krupinsk",
-          "url": "https://open.spotify.com/artist/5gLgoNI5QB6Osvi7aQwe5S"
-        }
-      ],
-      "duration_ms": 278000,
-      "name": "Roupa de Ontem",
-      "url": "https://open.spotify.com/track/5DNmIznDtyTJrkmAXdeFnl"
-    },
-    {
-      "added_at": "2023-05-12 03:01:00",
-      "album": {
         "name": "Estou Aqui",
         "url": "https://open.spotify.com/album/2DpZXcJODNkdKOVxrmyXgr"
       },
@@ -1207,6 +1191,22 @@
       "duration_ms": 227234,
       "name": "Del\u00edrio",
       "url": "https://open.spotify.com/track/3XzYdM3XYfrdWInWct8moG"
+    },
+    {
+      "added_at": "2023-05-12 03:01:00",
+      "album": {
+        "name": "Roupa de Ontem",
+        "url": "https://open.spotify.com/album/7eIK3jKOyfdsnj1PaalMVa"
+      },
+      "artists": [
+        {
+          "name": "Krupinsk",
+          "url": "https://open.spotify.com/artist/5gLgoNI5QB6Osvi7aQwe5S"
+        }
+      ],
+      "duration_ms": 278000,
+      "name": "Roupa de Ontem",
+      "url": "https://open.spotify.com/track/5DNmIznDtyTJrkmAXdeFnl"
     },
     {
       "added_at": "2023-05-12 03:01:00",
@@ -1231,6 +1231,22 @@
     {
       "added_at": "2023-05-12 03:01:00",
       "album": {
+        "name": "Uma Chance Pra Ficar Tudo bem",
+        "url": "https://open.spotify.com/album/3E7fL2Muf5c8OvC8A54Mp3"
+      },
+      "artists": [
+        {
+          "name": "Crod",
+          "url": "https://open.spotify.com/artist/1VI8uzUXTMpjdIvM6Rsh0j"
+        }
+      ],
+      "duration_ms": 154290,
+      "name": "Uma Chance",
+      "url": "https://open.spotify.com/track/2QPZQP2MDGC5ePtfSI9ihO"
+    },
+    {
+      "added_at": "2023-05-12 03:01:00",
+      "album": {
         "name": "Marcas",
         "url": "https://open.spotify.com/album/0o45SHCsgRZeFg0MYhhtMh"
       },
@@ -1251,38 +1267,6 @@
       "duration_ms": 226206,
       "name": "Marcas",
       "url": "https://open.spotify.com/track/29uluLs7czmA7gFCyyjxkS"
-    },
-    {
-      "added_at": "2023-05-12 03:01:00",
-      "album": {
-        "name": "Uma Chance Pra Ficar Tudo bem",
-        "url": "https://open.spotify.com/album/3E7fL2Muf5c8OvC8A54Mp3"
-      },
-      "artists": [
-        {
-          "name": "Crod",
-          "url": "https://open.spotify.com/artist/1VI8uzUXTMpjdIvM6Rsh0j"
-        }
-      ],
-      "duration_ms": 154290,
-      "name": "Uma Chance",
-      "url": "https://open.spotify.com/track/2QPZQP2MDGC5ePtfSI9ihO"
-    },
-    {
-      "added_at": "2023-05-12 03:01:00",
-      "album": {
-        "name": "Ventilador",
-        "url": "https://open.spotify.com/album/53ARAS1GKpLQYtHusiYkUs"
-      },
-      "artists": [
-        {
-          "name": "Nagy",
-          "url": "https://open.spotify.com/artist/2QX3kFP9WdmGPeFKPfd9Mv"
-        }
-      ],
-      "duration_ms": 179076,
-      "name": "Ventilador",
-      "url": "https://open.spotify.com/track/5pks7N1kfqxMjh44BktzGM"
     },
     {
       "added_at": "2023-05-12 03:01:00",
@@ -1315,6 +1299,22 @@
       "duration_ms": 211524,
       "name": "Mergulhei",
       "url": "https://open.spotify.com/track/58H4xYSRZ65vvmZPEAZ91H"
+    },
+    {
+      "added_at": "2023-05-12 03:01:00",
+      "album": {
+        "name": "Ventilador",
+        "url": "https://open.spotify.com/album/53ARAS1GKpLQYtHusiYkUs"
+      },
+      "artists": [
+        {
+          "name": "Nagy",
+          "url": "https://open.spotify.com/artist/2QX3kFP9WdmGPeFKPfd9Mv"
+        }
+      ],
+      "duration_ms": 179076,
+      "name": "Ventilador",
+      "url": "https://open.spotify.com/track/5pks7N1kfqxMjh44BktzGM"
     },
     {
       "added_at": "2023-05-12 03:01:00",
@@ -1487,22 +1487,6 @@
     {
       "added_at": "2023-05-12 03:01:00",
       "album": {
-        "name": "intui\u00e7\u00e3o",
-        "url": "https://open.spotify.com/album/2kZeL29Ega4qnw1XeXrlo9"
-      },
-      "artists": [
-        {
-          "name": "Luiza Nis",
-          "url": "https://open.spotify.com/artist/21qRf5gB503sjxsJWyEeBD"
-        }
-      ],
-      "duration_ms": 194750,
-      "name": "intui\u00e7\u00e3o",
-      "url": "https://open.spotify.com/track/6US2Fx8OJoj0AViposgfwo"
-    },
-    {
-      "added_at": "2023-05-12 03:01:00",
-      "album": {
         "name": "Ponto de Equil\u00edbrio",
         "url": "https://open.spotify.com/album/4qGNPs1xnmEbRXEF4DAQqH"
       },
@@ -1523,6 +1507,22 @@
       "duration_ms": 193014,
       "name": "Ponto de Equil\u00edbrio",
       "url": "https://open.spotify.com/track/7c4JagpZuj0wWkJmYMubyV"
+    },
+    {
+      "added_at": "2023-05-12 03:01:00",
+      "album": {
+        "name": "intui\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/2kZeL29Ega4qnw1XeXrlo9"
+      },
+      "artists": [
+        {
+          "name": "Luiza Nis",
+          "url": "https://open.spotify.com/artist/21qRf5gB503sjxsJWyEeBD"
+        }
+      ],
+      "duration_ms": 194750,
+      "name": "intui\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/6US2Fx8OJoj0AViposgfwo"
     }
   ],
   "unique_name": "R&B Brasil",

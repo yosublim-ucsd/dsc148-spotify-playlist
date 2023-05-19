@@ -1,12 +1,12 @@
 {
   "description": "The summer needs dance hits \ud83d\ude0e\u2600\ufe0f",
-  "num_followers": 131639,
+  "num_followers": 131873,
   "original_name": "Summer Dance Hits 2023",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3NjRhYzc0ZDM2NWRkODNmZjQxOTU1M2Y5OGQzZDYzZjZlZDA0NjEx",
+  "snapshot_id": "MCxhNzBjMGNkYmZmNTU5MWM3M2RjMzZiN2Q0NDkxYzczM2NiMTE4YWUy",
   "tracks": [
     {
       "added_at": "2023-05-15 06:59:41",
@@ -427,26 +427,6 @@
     {
       "added_at": "2023-05-15 06:59:41",
       "album": {
-        "name": "Don't Be Shy",
-        "url": "https://open.spotify.com/album/2TvfE8CY37OQIPVGcWYpEA"
-      },
-      "artists": [
-        {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
-        },
-        {
-          "name": "KAROL G",
-          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
-        }
-      ],
-      "duration_ms": 140500,
-      "name": "Don't Be Shy",
-      "url": "https://open.spotify.com/track/0bI7K9Becu2dtXK1Q3cZNB"
-    },
-    {
-      "added_at": "2023-05-15 06:59:41",
-      "album": {
         "name": "Head & Heart (feat. MNEK)",
         "url": "https://open.spotify.com/album/5glfCPECXSHzidU6exW8wO"
       },
@@ -463,6 +443,26 @@
       "duration_ms": 166028,
       "name": "Head & Heart (feat. MNEK)",
       "url": "https://open.spotify.com/track/6cx06DFPPHchuUAcTxznu9"
+    },
+    {
+      "added_at": "2023-05-15 06:59:41",
+      "album": {
+        "name": "Don't Be Shy",
+        "url": "https://open.spotify.com/album/2TvfE8CY37OQIPVGcWYpEA"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        },
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        }
+      ],
+      "duration_ms": 140500,
+      "name": "Don't Be Shy",
+      "url": "https://open.spotify.com/track/0bI7K9Becu2dtXK1Q3cZNB"
     },
     {
       "added_at": "2023-05-15 06:59:41",
@@ -507,6 +507,26 @@
     {
       "added_at": "2023-05-15 06:59:41",
       "album": {
+        "name": "Weekends",
+        "url": "https://open.spotify.com/album/68Ph2nuIeP3e0vzRxrUmkh"
+      },
+      "artists": [
+        {
+          "name": "Jonas Blue",
+          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
+        },
+        {
+          "name": "Felix Jaehn",
+          "url": "https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG"
+        }
+      ],
+      "duration_ms": 127003,
+      "name": "Weekends",
+      "url": "https://open.spotify.com/track/3JlHRjPt2TNB9h7VFf0im2"
+    },
+    {
+      "added_at": "2023-05-15 06:59:41",
+      "album": {
         "name": "All By Myself",
         "url": "https://open.spotify.com/album/3lAmnw0gNntYuTltwETnSn"
       },
@@ -527,26 +547,6 @@
       "duration_ms": 171747,
       "name": "All By Myself",
       "url": "https://open.spotify.com/track/5Hp4xFihdOE2dmDzxWcBFb"
-    },
-    {
-      "added_at": "2023-05-15 06:59:41",
-      "album": {
-        "name": "Weekends",
-        "url": "https://open.spotify.com/album/68Ph2nuIeP3e0vzRxrUmkh"
-      },
-      "artists": [
-        {
-          "name": "Jonas Blue",
-          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
-        },
-        {
-          "name": "Felix Jaehn",
-          "url": "https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG"
-        }
-      ],
-      "duration_ms": 127003,
-      "name": "Weekends",
-      "url": "https://open.spotify.com/track/3JlHRjPt2TNB9h7VFf0im2"
     },
     {
       "added_at": "2023-05-15 06:59:41",
@@ -623,26 +623,18 @@
     {
       "added_at": "2023-05-15 06:59:41",
       "album": {
-        "name": "Your Love (9PM)",
-        "url": "https://open.spotify.com/album/7F9yYqHRtIZnEGF2tANI4b"
+        "name": "Push Up (Main Edit)",
+        "url": "https://open.spotify.com/album/3v5BP6gPT1nNU9rjs57fF0"
       },
       "artists": [
         {
-          "name": "ATB",
-          "url": "https://open.spotify.com/artist/7jZM5w05mGhw6wTB1okhD9"
-        },
-        {
-          "name": "Topic",
-          "url": "https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ"
-        },
-        {
-          "name": "A7S",
-          "url": "https://open.spotify.com/artist/5Wg2b4Mp42gicxEeDNawf7"
+          "name": "Creeds",
+          "url": "https://open.spotify.com/artist/2gW0M5fn2r7Lo4Hn1r8HZ5"
         }
       ],
-      "duration_ms": 150052,
-      "name": "Your Love (9PM)",
-      "url": "https://open.spotify.com/track/5YaskwnGDZFDRipaqzbwQx"
+      "duration_ms": 139300,
+      "name": "Push Up - Main Edit",
+      "url": "https://open.spotify.com/track/3AjSfp5FDvwtMU9XBsbS8j"
     },
     {
       "added_at": "2023-05-15 06:59:41",
@@ -675,6 +667,30 @@
     {
       "added_at": "2023-05-15 06:59:41",
       "album": {
+        "name": "Your Love (9PM)",
+        "url": "https://open.spotify.com/album/7F9yYqHRtIZnEGF2tANI4b"
+      },
+      "artists": [
+        {
+          "name": "ATB",
+          "url": "https://open.spotify.com/artist/7jZM5w05mGhw6wTB1okhD9"
+        },
+        {
+          "name": "Topic",
+          "url": "https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ"
+        },
+        {
+          "name": "A7S",
+          "url": "https://open.spotify.com/artist/5Wg2b4Mp42gicxEeDNawf7"
+        }
+      ],
+      "duration_ms": 150052,
+      "name": "Your Love (9PM)",
+      "url": "https://open.spotify.com/track/5YaskwnGDZFDRipaqzbwQx"
+    },
+    {
+      "added_at": "2023-05-15 06:59:41",
+      "album": {
         "name": "Remember",
         "url": "https://open.spotify.com/album/6DHfD3rZapWFmEKX1FNNZF"
       },
@@ -691,22 +707,6 @@
       "duration_ms": 160766,
       "name": "Remember",
       "url": "https://open.spotify.com/track/4laAKIq9ZxBCwf99rauPYb"
-    },
-    {
-      "added_at": "2023-05-15 06:59:41",
-      "album": {
-        "name": "Push Up (Main Edit)",
-        "url": "https://open.spotify.com/album/3v5BP6gPT1nNU9rjs57fF0"
-      },
-      "artists": [
-        {
-          "name": "Creeds",
-          "url": "https://open.spotify.com/artist/2gW0M5fn2r7Lo4Hn1r8HZ5"
-        }
-      ],
-      "duration_ms": 139300,
-      "name": "Push Up - Main Edit",
-      "url": "https://open.spotify.com/track/3AjSfp5FDvwtMU9XBsbS8j"
     },
     {
       "added_at": "2023-05-15 06:59:41",
@@ -811,22 +811,6 @@
     {
       "added_at": "2023-05-15 06:59:41",
       "album": {
-        "name": "Rainfall (Praise You)",
-        "url": "https://open.spotify.com/album/4VanY5i4E59Mhz52qznJ95"
-      },
-      "artists": [
-        {
-          "name": "Tom Santa",
-          "url": "https://open.spotify.com/artist/1dTEPvUhxpFzL7UMKHWFfZ"
-        }
-      ],
-      "duration_ms": 166569,
-      "name": "Rainfall (Praise You)",
-      "url": "https://open.spotify.com/track/1M8t1j3Kv2qp97bdq5q4Vl"
-    },
-    {
-      "added_at": "2023-05-15 06:59:41",
-      "album": {
         "name": "Giving Me",
         "url": "https://open.spotify.com/album/0wTaLHasxRWB2VBwh9maAc"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 169000,
       "name": "Giving Me",
       "url": "https://open.spotify.com/track/1ACFweuuvf6MHtptObgreR"
+    },
+    {
+      "added_at": "2023-05-15 06:59:41",
+      "album": {
+        "name": "Rainfall (Praise You)",
+        "url": "https://open.spotify.com/album/4VanY5i4E59Mhz52qznJ95"
+      },
+      "artists": [
+        {
+          "name": "Tom Santa",
+          "url": "https://open.spotify.com/artist/1dTEPvUhxpFzL7UMKHWFfZ"
+        }
+      ],
+      "duration_ms": 166569,
+      "name": "Rainfall (Praise You)",
+      "url": "https://open.spotify.com/track/1M8t1j3Kv2qp97bdq5q4Vl"
     },
     {
       "added_at": "2023-05-15 06:59:41",
@@ -1359,22 +1359,6 @@
     {
       "added_at": "2023-05-15 06:59:41",
       "album": {
-        "name": "I Want More",
-        "url": "https://open.spotify.com/album/5QbPK8Zabj8ynFuJ6IbK0r"
-      },
-      "artists": [
-        {
-          "name": "Marc Benjamin",
-          "url": "https://open.spotify.com/artist/05KjvP5zdwtEIgEazqblZw"
-        }
-      ],
-      "duration_ms": 129600,
-      "name": "I Want More",
-      "url": "https://open.spotify.com/track/4ZWyj5whGZ3nNLwOtOLrMt"
-    },
-    {
-      "added_at": "2023-05-15 06:59:41",
-      "album": {
         "name": "Good Feeling (feat. Rhys Lewis)",
         "url": "https://open.spotify.com/album/4Jx380oGmnaf6mbEgH4rSu"
       },
@@ -1419,22 +1403,18 @@
     {
       "added_at": "2023-05-15 06:59:41",
       "album": {
-        "name": "AEIOU",
-        "url": "https://open.spotify.com/album/4J8uihMqMcLWlhz6DsGdJK"
+        "name": "I Want More",
+        "url": "https://open.spotify.com/album/5QbPK8Zabj8ynFuJ6IbK0r"
       },
       "artists": [
         {
-          "name": "Justin Quiles",
-          "url": "https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP"
-        },
-        {
-          "name": "Robin Schulz",
-          "url": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
+          "name": "Marc Benjamin",
+          "url": "https://open.spotify.com/artist/05KjvP5zdwtEIgEazqblZw"
         }
       ],
-      "duration_ms": 161880,
-      "name": "AEIOU",
-      "url": "https://open.spotify.com/track/1c2vVx6knoiZHXbJJ9Mk8L"
+      "duration_ms": 129600,
+      "name": "I Want More",
+      "url": "https://open.spotify.com/track/4ZWyj5whGZ3nNLwOtOLrMt"
     },
     {
       "added_at": "2023-05-15 06:59:41",
@@ -1455,6 +1435,26 @@
       "duration_ms": 161040,
       "name": "Talk About",
       "url": "https://open.spotify.com/track/1olCzMxaeiQKNO64ssWVGr"
+    },
+    {
+      "added_at": "2023-05-15 06:59:41",
+      "album": {
+        "name": "AEIOU",
+        "url": "https://open.spotify.com/album/4J8uihMqMcLWlhz6DsGdJK"
+      },
+      "artists": [
+        {
+          "name": "Justin Quiles",
+          "url": "https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP"
+        },
+        {
+          "name": "Robin Schulz",
+          "url": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
+        }
+      ],
+      "duration_ms": 161880,
+      "name": "AEIOU",
+      "url": "https://open.spotify.com/track/1c2vVx6knoiZHXbJJ9Mk8L"
     },
     {
       "added_at": "2023-05-15 06:59:41",
@@ -1615,26 +1615,6 @@
     {
       "added_at": "2023-05-15 06:59:41",
       "album": {
-        "name": "Temptation",
-        "url": "https://open.spotify.com/album/0vUxIesFmxzHzv8LmdYlKJ"
-      },
-      "artists": [
-        {
-          "name": "Bakermat",
-          "url": "https://open.spotify.com/artist/3MyFDtqB80WZvbtCZRsekM"
-        },
-        {
-          "name": "Elise LeGrow",
-          "url": "https://open.spotify.com/artist/20biSVcaiwFyvcseOzYKo8"
-        }
-      ],
-      "duration_ms": 192614,
-      "name": "Temptation",
-      "url": "https://open.spotify.com/track/67uiBfnqH39zmGWU63NxhS"
-    },
-    {
-      "added_at": "2023-05-15 06:59:41",
-      "album": {
         "name": "Everybody Wants To Party",
         "url": "https://open.spotify.com/album/5gQsKvFQiPKop7tVdbvNSj"
       },
@@ -1651,6 +1631,26 @@
       "duration_ms": 184838,
       "name": "Everybody Wants To Party",
       "url": "https://open.spotify.com/track/3hbi5zXAgQt0Z9V5JSOnCe"
+    },
+    {
+      "added_at": "2023-05-15 06:59:41",
+      "album": {
+        "name": "Temptation",
+        "url": "https://open.spotify.com/album/0vUxIesFmxzHzv8LmdYlKJ"
+      },
+      "artists": [
+        {
+          "name": "Bakermat",
+          "url": "https://open.spotify.com/artist/3MyFDtqB80WZvbtCZRsekM"
+        },
+        {
+          "name": "Elise LeGrow",
+          "url": "https://open.spotify.com/artist/20biSVcaiwFyvcseOzYKo8"
+        }
+      ],
+      "duration_ms": 192614,
+      "name": "Temptation",
+      "url": "https://open.spotify.com/track/67uiBfnqH39zmGWU63NxhS"
     },
     {
       "added_at": "2023-05-15 06:59:41",
@@ -1747,26 +1747,6 @@
     {
       "added_at": "2023-05-15 06:59:41",
       "album": {
-        "name": "My Head & My Heart (Jonas Blue Remix)",
-        "url": "https://open.spotify.com/album/3OdtkwvY57hITlhQvON5oe"
-      },
-      "artists": [
-        {
-          "name": "Ava Max",
-          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
-        },
-        {
-          "name": "Jonas Blue",
-          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
-        }
-      ],
-      "duration_ms": 179512,
-      "name": "My Head & My Heart - Jonas Blue Remix",
-      "url": "https://open.spotify.com/track/7x74XLYJqptDCmY4y3FaVh"
-    },
-    {
-      "added_at": "2023-05-15 06:59:41",
-      "album": {
         "name": "Thunder",
         "url": "https://open.spotify.com/album/0lnPUG1O0J3zTNgLa6B5Nj"
       },
@@ -1795,18 +1775,22 @@
     {
       "added_at": "2023-05-15 06:59:41",
       "album": {
-        "name": "Adore",
-        "url": "https://open.spotify.com/album/2YNKQr2HhFMF6qLUu3JQUJ"
+        "name": "My Head & My Heart (Jonas Blue Remix)",
+        "url": "https://open.spotify.com/album/3OdtkwvY57hITlhQvON5oe"
       },
       "artists": [
         {
-          "name": "Bob Sinclar",
-          "url": "https://open.spotify.com/artist/5YFS41yoX0YuFY39fq21oN"
+          "name": "Ava Max",
+          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
+        },
+        {
+          "name": "Jonas Blue",
+          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
         }
       ],
-      "duration_ms": 209032,
-      "name": "Adore",
-      "url": "https://open.spotify.com/track/0oBUOlD8XPyRNmVOqkv7QA"
+      "duration_ms": 179512,
+      "name": "My Head & My Heart - Jonas Blue Remix",
+      "url": "https://open.spotify.com/track/7x74XLYJqptDCmY4y3FaVh"
     },
     {
       "added_at": "2023-05-15 06:59:41",
@@ -1823,6 +1807,22 @@
       "duration_ms": 183609,
       "name": "Madan (King)",
       "url": "https://open.spotify.com/track/5EGAY1Txvi5A3hFkYYGsXx"
+    },
+    {
+      "added_at": "2023-05-15 06:59:41",
+      "album": {
+        "name": "Adore",
+        "url": "https://open.spotify.com/album/2YNKQr2HhFMF6qLUu3JQUJ"
+      },
+      "artists": [
+        {
+          "name": "Bob Sinclar",
+          "url": "https://open.spotify.com/artist/5YFS41yoX0YuFY39fq21oN"
+        }
+      ],
+      "duration_ms": 209032,
+      "name": "Adore",
+      "url": "https://open.spotify.com/track/0oBUOlD8XPyRNmVOqkv7QA"
     },
     {
       "added_at": "2023-05-15 06:59:41",
@@ -2075,6 +2075,22 @@
     {
       "added_at": "2023-05-15 06:59:41",
       "album": {
+        "name": "Euphoria",
+        "url": "https://open.spotify.com/album/4dtA4QUlcF3fsOcWYkXiLB"
+      },
+      "artists": [
+        {
+          "name": "Claptone",
+          "url": "https://open.spotify.com/artist/4mncDFjVLUa3s025Tct3Ry"
+        }
+      ],
+      "duration_ms": 158399,
+      "name": "Euphoria",
+      "url": "https://open.spotify.com/track/5QjfEMyFm4YTyYTbHvriGT"
+    },
+    {
+      "added_at": "2023-05-15 06:59:41",
+      "album": {
         "name": "Okay",
         "url": "https://open.spotify.com/album/7d5FKzrSPqpKczy9IP5zOE"
       },
@@ -2095,22 +2111,6 @@
       "duration_ms": 151312,
       "name": "Okay",
       "url": "https://open.spotify.com/track/71H8k9qe7DersxR6KyhUnI"
-    },
-    {
-      "added_at": "2023-05-15 06:59:41",
-      "album": {
-        "name": "Euphoria",
-        "url": "https://open.spotify.com/album/4dtA4QUlcF3fsOcWYkXiLB"
-      },
-      "artists": [
-        {
-          "name": "Claptone",
-          "url": "https://open.spotify.com/artist/4mncDFjVLUa3s025Tct3Ry"
-        }
-      ],
-      "duration_ms": 158399,
-      "name": "Euphoria",
-      "url": "https://open.spotify.com/track/5QjfEMyFm4YTyYTbHvriGT"
     },
     {
       "added_at": "2023-05-15 06:59:41",
@@ -2147,6 +2147,26 @@
       "duration_ms": 220744,
       "name": "Sunsleeper",
       "url": "https://open.spotify.com/track/7yWd93ZTbCuhaH2QCsTHKc"
+    },
+    {
+      "added_at": "2023-05-15 06:59:41",
+      "album": {
+        "name": "Electric Love",
+        "url": "https://open.spotify.com/album/0REnSVgLIRN89uekm2TwJl"
+      },
+      "artists": [
+        {
+          "name": "LUM!X",
+          "url": "https://open.spotify.com/artist/0TKFPt9w0AAEnhB9bd0pLy"
+        },
+        {
+          "name": "LAWRENT",
+          "url": "https://open.spotify.com/artist/0O9m6ZuAAvUOhT6OgbtAmI"
+        }
+      ],
+      "duration_ms": 144037,
+      "name": "Electric Love",
+      "url": "https://open.spotify.com/track/02RIHCcIRIrFgRYzUizHlJ"
     },
     {
       "added_at": "2023-05-15 06:59:41",
@@ -2251,26 +2271,6 @@
     {
       "added_at": "2023-05-15 06:59:41",
       "album": {
-        "name": "Electric Love",
-        "url": "https://open.spotify.com/album/0REnSVgLIRN89uekm2TwJl"
-      },
-      "artists": [
-        {
-          "name": "LUM!X",
-          "url": "https://open.spotify.com/artist/0TKFPt9w0AAEnhB9bd0pLy"
-        },
-        {
-          "name": "LAWRENT",
-          "url": "https://open.spotify.com/artist/0O9m6ZuAAvUOhT6OgbtAmI"
-        }
-      ],
-      "duration_ms": 144037,
-      "name": "Electric Love",
-      "url": "https://open.spotify.com/track/02RIHCcIRIrFgRYzUizHlJ"
-    },
-    {
-      "added_at": "2023-05-15 06:59:41",
-      "album": {
         "name": "Come Around Again",
         "url": "https://open.spotify.com/album/312M1zzN7C2Vqd0VeORTMC"
       },
@@ -2323,22 +2323,6 @@
     {
       "added_at": "2023-05-15 06:59:41",
       "album": {
-        "name": "Summer In Love",
-        "url": "https://open.spotify.com/album/0Fql9ZWdNUR1knRYsUjPcp"
-      },
-      "artists": [
-        {
-          "name": "THAT KIND",
-          "url": "https://open.spotify.com/artist/4zxtCQ4mwZH38FVCSbpqlZ"
-        }
-      ],
-      "duration_ms": 195330,
-      "name": "Summer In Love",
-      "url": "https://open.spotify.com/track/3mUN3ODbYMtF34rk68aAuX"
-    },
-    {
-      "added_at": "2023-05-15 06:59:41",
-      "album": {
         "name": "Rich In Love",
         "url": "https://open.spotify.com/album/1ZJuNaxvUtHns8WCpIaAh9"
       },
@@ -2355,6 +2339,22 @@
       "duration_ms": 205186,
       "name": "Rich In Love",
       "url": "https://open.spotify.com/track/424bdPXDmsR1WgZoCUwxt4"
+    },
+    {
+      "added_at": "2023-05-15 06:59:41",
+      "album": {
+        "name": "Summer In Love",
+        "url": "https://open.spotify.com/album/0Fql9ZWdNUR1knRYsUjPcp"
+      },
+      "artists": [
+        {
+          "name": "THAT KIND",
+          "url": "https://open.spotify.com/artist/4zxtCQ4mwZH38FVCSbpqlZ"
+        }
+      ],
+      "duration_ms": 195330,
+      "name": "Summer In Love",
+      "url": "https://open.spotify.com/track/3mUN3ODbYMtF34rk68aAuX"
     },
     {
       "added_at": "2023-05-15 06:59:41",
@@ -2403,22 +2403,6 @@
     {
       "added_at": "2023-05-15 06:59:41",
       "album": {
-        "name": "Trompeta",
-        "url": "https://open.spotify.com/album/3h4iogzC5VXCozVCzgVWns"
-      },
-      "artists": [
-        {
-          "name": "Willy William",
-          "url": "https://open.spotify.com/artist/4RSyJzf7ef6Iu2rnLdabNq"
-        }
-      ],
-      "duration_ms": 168704,
-      "name": "Trompeta",
-      "url": "https://open.spotify.com/track/1tpl2fUDbrPAcbPufthvQe"
-    },
-    {
-      "added_at": "2023-05-15 06:59:41",
-      "album": {
         "name": "Exotica",
         "url": "https://open.spotify.com/album/4LIWp0dSuFmtNJrxdegyOG"
       },
@@ -2439,6 +2423,22 @@
       "duration_ms": 200015,
       "name": "Fireworks (feat. Moss Kena & The Knocks)",
       "url": "https://open.spotify.com/track/154YAkNQuFHLV3LbP7gP1f"
+    },
+    {
+      "added_at": "2023-05-15 06:59:41",
+      "album": {
+        "name": "Trompeta",
+        "url": "https://open.spotify.com/album/3h4iogzC5VXCozVCzgVWns"
+      },
+      "artists": [
+        {
+          "name": "Willy William",
+          "url": "https://open.spotify.com/artist/4RSyJzf7ef6Iu2rnLdabNq"
+        }
+      ],
+      "duration_ms": 168704,
+      "name": "Trompeta",
+      "url": "https://open.spotify.com/track/1tpl2fUDbrPAcbPufthvQe"
     },
     {
       "added_at": "2023-05-15 06:59:41",

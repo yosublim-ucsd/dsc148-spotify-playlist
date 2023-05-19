@@ -2434,7 +2434,7 @@
       ],
       "date_added": "2021-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 209645,
       "name": "Say It",
       "url": "https://open.spotify.com/track/6KFpDUBxj4dQRiBcdpSQvT"
@@ -2742,6 +2742,24 @@
       "duration_ms": 278266,
       "name": "Strength",
       "url": "https://open.spotify.com/track/4MTmD97M3KIAWLnwJbVwbp"
+    },
+    {
+      "album": {
+        "name": "SUNLIGHT",
+        "url": "https://open.spotify.com/album/1ndKXr9Z4VPa6Ji7lwxfIe"
+      },
+      "artists": [
+        {
+          "name": "Otis McDonald",
+          "url": "https://open.spotify.com/artist/4Ps1M3A9ck9G3gbPjllg7T"
+        }
+      ],
+      "date_added": "2023-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194727,
+      "name": "SUNLIGHT",
+      "url": "https://open.spotify.com/track/5YsdarH0He9NVsoATnLxII"
     },
     {
       "album": {
@@ -3334,7 +3352,7 @@
       ],
       "date_added": "2022-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 301026,
       "name": "What if We Stopped Paying Taxes? - Sharon Jones and The Dap King",
       "url": "https://open.spotify.com/track/74Bl3upesDTzzkqRNZXAeI"

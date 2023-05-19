@@ -1,12 +1,12 @@
 {
   "description": "why is this game so hard goddamnit #SpotifyWrapped",
-  "num_followers": 10155,
+  "num_followers": 10199,
   "original_name": "dance tracks we smashed our controllers to in 2022",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhNTczNjM1Y2NkNzYzNzJiMDU5ZTgxMDRhMmQxYjhhZjc1ZGY0NzRj",
+  "snapshot_id": "MCxlYWVlOTE3NDUxNzc3MzY0NTkwNDljYWVkODQ1NWFkZTU2ZDI1YzM5",
   "tracks": [
     {
       "added_at": "2022-11-30 13:46:00",
@@ -575,6 +575,26 @@
     {
       "added_at": "2022-11-30 13:46:00",
       "album": {
+        "name": "FUNKONAUT",
+        "url": "https://open.spotify.com/album/4Y2TV476edG8lB3h6vIKYZ"
+      },
+      "artists": [
+        {
+          "name": "GRiZ",
+          "url": "https://open.spotify.com/artist/25oLRSUjJk4YHNUsQXk7Ut"
+        },
+        {
+          "name": "LSDREAM",
+          "url": "https://open.spotify.com/artist/3Hrqjumb6WHg2aAUHJHLND"
+        }
+      ],
+      "duration_ms": 210666,
+      "name": "FUNKONAUT",
+      "url": "https://open.spotify.com/track/0fy3MozJBrM858gEIo3Yec"
+    },
+    {
+      "added_at": "2022-11-30 13:46:00",
+      "album": {
         "name": "Lay Me Down",
         "url": "https://open.spotify.com/album/3WKRpjVkajtN99InvxdLwX"
       },
@@ -595,26 +615,6 @@
       "duration_ms": 210652,
       "name": "Lay Me Down",
       "url": "https://open.spotify.com/track/3GKN5PYjlS7baPtrbdLtev"
-    },
-    {
-      "added_at": "2022-11-30 13:46:00",
-      "album": {
-        "name": "FUNKONAUT",
-        "url": "https://open.spotify.com/album/4Y2TV476edG8lB3h6vIKYZ"
-      },
-      "artists": [
-        {
-          "name": "GRiZ",
-          "url": "https://open.spotify.com/artist/25oLRSUjJk4YHNUsQXk7Ut"
-        },
-        {
-          "name": "LSDREAM",
-          "url": "https://open.spotify.com/artist/3Hrqjumb6WHg2aAUHJHLND"
-        }
-      ],
-      "duration_ms": 210666,
-      "name": "FUNKONAUT",
-      "url": "https://open.spotify.com/track/0fy3MozJBrM858gEIo3Yec"
     },
     {
       "added_at": "2022-11-30 13:46:00",
@@ -715,26 +715,6 @@
     {
       "added_at": "2022-11-30 13:46:00",
       "album": {
-        "name": "SKINS",
-        "url": "https://open.spotify.com/album/6MQeqXw9V1TmwvQRmZCSfP"
-      },
-      "artists": [
-        {
-          "name": "Kai Wachi",
-          "url": "https://open.spotify.com/artist/2fNr4ldujwq97v1jWeqs8K"
-        },
-        {
-          "name": "YMIR",
-          "url": "https://open.spotify.com/artist/7MxaflmSZI1igZLk7Rg2LD"
-        }
-      ],
-      "duration_ms": 310607,
-      "name": "Skins",
-      "url": "https://open.spotify.com/track/54zrIs7UXX7kp3sFj7mlvG"
-    },
-    {
-      "added_at": "2022-11-30 13:46:00",
-      "album": {
         "name": "Color Of Your Soul",
         "url": "https://open.spotify.com/album/6o6palGHy3IqwNGXPQDYXn"
       },
@@ -751,6 +731,26 @@
       "duration_ms": 202285,
       "name": "Color Of Your Soul",
       "url": "https://open.spotify.com/track/4rhooL7Cj0YkvIC4wGL7Jo"
+    },
+    {
+      "added_at": "2022-11-30 13:46:00",
+      "album": {
+        "name": "SKINS",
+        "url": "https://open.spotify.com/album/6MQeqXw9V1TmwvQRmZCSfP"
+      },
+      "artists": [
+        {
+          "name": "Kai Wachi",
+          "url": "https://open.spotify.com/artist/2fNr4ldujwq97v1jWeqs8K"
+        },
+        {
+          "name": "YMIR",
+          "url": "https://open.spotify.com/artist/7MxaflmSZI1igZLk7Rg2LD"
+        }
+      ],
+      "duration_ms": 310607,
+      "name": "Skins",
+      "url": "https://open.spotify.com/track/54zrIs7UXX7kp3sFj7mlvG"
     },
     {
       "added_at": "2022-11-30 13:46:00",
@@ -855,6 +855,26 @@
     {
       "added_at": "2022-11-30 13:46:00",
       "album": {
+        "name": "EMBRACE",
+        "url": "https://open.spotify.com/album/3QnqZrz7k2KCutkHSzfV4M"
+      },
+      "artists": [
+        {
+          "name": "Kill The Noise",
+          "url": "https://open.spotify.com/artist/3qnMl4DHT4gndzFAcG4FlM"
+        },
+        {
+          "name": "Mija",
+          "url": "https://open.spotify.com/artist/1NpKmfDYMhw1KJIIUCsX4O"
+        }
+      ],
+      "duration_ms": 196800,
+      "name": "Within The Boundaries",
+      "url": "https://open.spotify.com/track/7K4zLYMA1snaoHKUpMCRTe"
+    },
+    {
+      "added_at": "2022-11-30 13:46:00",
+      "album": {
         "name": "fuck ya go us",
         "url": "https://open.spotify.com/album/3nD84oMa7zffmYcLEPkWZT"
       },
@@ -875,26 +895,6 @@
     {
       "added_at": "2022-11-30 13:46:00",
       "album": {
-        "name": "Sleep (with Calcium)",
-        "url": "https://open.spotify.com/album/3U2klaDh13JHc5jP2uW4Y6"
-      },
-      "artists": [
-        {
-          "name": "Sullivan King",
-          "url": "https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e"
-        },
-        {
-          "name": "Calcium",
-          "url": "https://open.spotify.com/artist/1s6bMklFjSRcrMy2FtobWM"
-        }
-      ],
-      "duration_ms": 214631,
-      "name": "Sleep (with Calcium)",
-      "url": "https://open.spotify.com/track/091NiGWv2nTM8pnOEXZR6T"
-    },
-    {
-      "added_at": "2022-11-30 13:46:00",
-      "album": {
         "name": "Revive EP",
         "url": "https://open.spotify.com/album/2DcvIKn3wfkVAsGVwePr0r"
       },
@@ -911,22 +911,22 @@
     {
       "added_at": "2022-11-30 13:46:00",
       "album": {
-        "name": "EMBRACE",
-        "url": "https://open.spotify.com/album/3QnqZrz7k2KCutkHSzfV4M"
+        "name": "Sleep (with Calcium)",
+        "url": "https://open.spotify.com/album/3U2klaDh13JHc5jP2uW4Y6"
       },
       "artists": [
         {
-          "name": "Kill The Noise",
-          "url": "https://open.spotify.com/artist/3qnMl4DHT4gndzFAcG4FlM"
+          "name": "Sullivan King",
+          "url": "https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e"
         },
         {
-          "name": "Mija",
-          "url": "https://open.spotify.com/artist/1NpKmfDYMhw1KJIIUCsX4O"
+          "name": "Calcium",
+          "url": "https://open.spotify.com/artist/1s6bMklFjSRcrMy2FtobWM"
         }
       ],
-      "duration_ms": 196800,
-      "name": "Within The Boundaries",
-      "url": "https://open.spotify.com/track/7K4zLYMA1snaoHKUpMCRTe"
+      "duration_ms": 214631,
+      "name": "Sleep (with Calcium)",
+      "url": "https://open.spotify.com/track/091NiGWv2nTM8pnOEXZR6T"
     },
     {
       "added_at": "2022-11-30 13:46:00",

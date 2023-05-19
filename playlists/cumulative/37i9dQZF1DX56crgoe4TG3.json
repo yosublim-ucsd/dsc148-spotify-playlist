@@ -2194,10 +2194,28 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 259389,
       "name": "Loser",
       "url": "https://open.spotify.com/track/4QMKLsoxyY9UvLSrGFkkir"
+    },
+    {
+      "album": {
+        "name": "Cash Crop",
+        "url": "https://open.spotify.com/album/0tDKZRvMt5Ek8ejQrnd4OU"
+      },
+      "artists": [
+        {
+          "name": "The Cleverlys",
+          "url": "https://open.spotify.com/artist/6FcC7osOicG2aEqb2VrbhS"
+        }
+      ],
+      "date_added": "2023-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259389,
+      "name": "Loser",
+      "url": "https://open.spotify.com/track/5jVxMJfoWF0l7EgTjIiBzr"
     },
     {
       "album": {
@@ -2420,6 +2438,24 @@
     {
       "album": {
         "name": "Cash Crop",
+        "url": "https://open.spotify.com/album/0tDKZRvMt5Ek8ejQrnd4OU"
+      },
+      "artists": [
+        {
+          "name": "The Cleverlys",
+          "url": "https://open.spotify.com/artist/6FcC7osOicG2aEqb2VrbhS"
+        }
+      ],
+      "date_added": "2023-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 351418,
+      "name": "No Diggity",
+      "url": "https://open.spotify.com/track/2X2mue7uhDOCEgA3ewrB2l"
+    },
+    {
+      "album": {
+        "name": "Cash Crop",
         "url": "https://open.spotify.com/album/0QFHkBhfM6u3tGxdsVitev"
       },
       "artists": [
@@ -2448,7 +2484,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 351418,
       "name": "No Diggity",
       "url": "https://open.spotify.com/track/7wSkLQdIlCBDUPFPkwLICU"

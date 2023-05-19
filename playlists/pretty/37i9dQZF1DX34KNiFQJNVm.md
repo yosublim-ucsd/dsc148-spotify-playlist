@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 
 > Os lançamentos dessa semana incluem Ferrugem, Guilherme & Benuto com Simone Mendes, Shakira, Papatinho com Luiza Sonza e DJ Biel do Furduncinho, Alexandre Pires com Maiara & Maraísa e muito mais!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,870,133 likes - 100 songs - 5 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,870,337 likes - 100 songs - 5 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 | 99 | [CENA DE CRIME](https://open.spotify.com/track/7Dqq9FMpcTZ9PFRIcoQtCB) | [IZRRA](https://open.spotify.com/artist/38m0QxjrBKOOEymSd33GzV) | [CENA DE CRIME](https://open.spotify.com/album/1tOPXu6JWqZ8eoAczxWAob) | 2:56 |
 | 100 | [Alô Mãe](https://open.spotify.com/track/2MhUz4FlePwbAQN8mTQZXa) | [LT](https://open.spotify.com/artist/27EsaYcDfQ1XhSx08LJCNR) | [Alô Mãe](https://open.spotify.com/album/21us8PfHTrtENnQvL9QFnr) | 2:32 |
 
-Snapshot ID: `MCxjOTM3Zjc2ODkwOTNkNTY0MjFiOGJhN2FjZDUwNjkyZDZhOWI2NWE1`
+Snapshot ID: `MCxmYmJhM2M5NzZhMWU5YjUyYjFkMmE0YzUzZmZlOWUyNTZiMGM0MDhh`

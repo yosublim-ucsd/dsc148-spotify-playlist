@@ -1624,7 +1624,7 @@
       ],
       "date_added": "2023-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 208750,
       "name": "Ay Mam\u00e1 (feat. Dillom) - Remix",
       "url": "https://open.spotify.com/track/6z1ptmvVhtzrRA2nSX49Qc"
@@ -8535,6 +8535,24 @@
     },
     {
       "album": {
+        "name": "\"Classicaloid\" Chopin Musik",
+        "url": "https://open.spotify.com/album/0Q7zeUnaYrjTi3am2ceK4N"
+      },
+      "artists": [
+        {
+          "name": "EHAMIC",
+          "url": "https://open.spotify.com/artist/2MyhU8E2SRCcHIN6FtagQR"
+        }
+      ],
+      "date_added": "2023-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190460,
+      "name": "Koinu no Carnival -From \"Minute Waltz\"-",
+      "url": "https://open.spotify.com/track/3OP9la2QTA5artehqjFJCp"
+    },
+    {
+      "album": {
         "name": "KU LO SA - A COLORS SHOW",
         "url": "https://open.spotify.com/album/36bNKiiUjxUCaAO7QtUVfi"
       },
@@ -14425,6 +14443,24 @@
     },
     {
       "album": {
+        "name": "Primera Cita",
+        "url": "https://open.spotify.com/album/4BeF1IA1ufJtzgOgqx3a9Z"
+      },
+      "artists": [
+        {
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        }
+      ],
+      "date_added": "2023-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186455,
+      "name": "Primera Cita",
+      "url": "https://open.spotify.com/track/4mGrWfDISjNjgeQnH1B8IE"
+    },
+    {
+      "album": {
         "name": "FELIZ CUMPLEA\u00d1OS FERXXO TE PIRATEAMOS EL \u00c1LBUM",
         "url": "https://open.spotify.com/album/7pijRxgRaBirPz6wDaJIp9"
       },
@@ -14834,7 +14870,7 @@
       ],
       "date_added": "2023-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 167251,
       "name": "qu\u00e9 le pasa conmigo?",
       "url": "https://open.spotify.com/track/4TrYGTVgWOe2s3ZPn5qFTa"
@@ -16920,7 +16956,7 @@
       ],
       "date_added": "2023-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 190909,
       "name": "Supernova",
       "url": "https://open.spotify.com/track/0zY2rypOdM8xmsf4tUyafF"
@@ -17266,29 +17302,29 @@
           "url": "https://open.spotify.com/artist/3k090bKo2iSqNdowffKHrt"
         },
         {
-          "name": "Bayriton",
-          "url": "https://open.spotify.com/artist/29fcEFHRcOhfTYXvS8POPV"
-        },
-        {
           "name": "Bayron Fire",
           "url": "https://open.spotify.com/artist/2IAxPmQzx2NuutHe7ta7gs"
         },
         {
-          "name": "El Rey",
-          "url": "https://open.spotify.com/artist/5Hhbu5PnHYAkO5LOVeEsmx"
+          "name": "Bayriton",
+          "url": "https://open.spotify.com/artist/29fcEFHRcOhfTYXvS8POPV"
+        },
+        {
+          "name": "Tommy Boysen",
+          "url": "https://open.spotify.com/artist/0wWmUneAuhQn9L3qibj5UO"
         },
         {
           "name": "Gringuitos Records",
           "url": "https://open.spotify.com/artist/5AYSnRNynWULTIDjzAbgxV"
         },
         {
-          "name": "Tommy Boysen",
-          "url": "https://open.spotify.com/artist/0wWmUneAuhQn9L3qibj5UO"
+          "name": "El Rey",
+          "url": "https://open.spotify.com/artist/5Hhbu5PnHYAkO5LOVeEsmx"
         }
       ],
       "date_added": "2023-03-14",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-18",
+      "date_removed": null,
       "duration_ms": 483683,
       "name": "Te Extra\u00f1o a Lo Vio (feat. Balbi El Chamako, Bayron Fire, Bayriton, Tommy Boysen, Gringuitos Records, El Rey) - Remix",
       "url": "https://open.spotify.com/track/6YNzvCsLwAJ4xZjdK9qk3r"

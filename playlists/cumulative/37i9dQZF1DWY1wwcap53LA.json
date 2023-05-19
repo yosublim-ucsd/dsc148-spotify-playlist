@@ -16,10 +16,28 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 176474,
       "name": "Afraid of Forever",
       "url": "https://open.spotify.com/track/1pC8BBv7zhS1wr2nf7CxPx"
+    },
+    {
+      "album": {
+        "name": "Afraid of Forever",
+        "url": "https://open.spotify.com/album/6JG2ccg7NMJMQgeAvDjkgb"
+      },
+      "artists": [
+        {
+          "name": "Hatcher",
+          "url": "https://open.spotify.com/artist/0BMn0H7HCxdzlwJ91FvCkg"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176474,
+      "name": "Afraid of Forever",
+      "url": "https://open.spotify.com/track/33Sra0ZInaSU7fgLefkgnU"
     },
     {
       "album": {
@@ -1632,7 +1650,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 160289,
-      "name": "Praise The Lord (feat. Thomas Rhett)",
+      "name": "Praise the Lord (feat. Thomas Rhett)",
       "url": "https://open.spotify.com/track/4ELynSlkV4OHcBCFenFJ7U"
     },
     {

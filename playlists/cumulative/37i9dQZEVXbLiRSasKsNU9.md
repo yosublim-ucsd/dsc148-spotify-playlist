@@ -4,7 +4,7 @@
 
 > Your daily update of the most viral tracks right now \- Global.
 
-1,509 songs - 3 day 8 hr 13 min
+1,510 songs - 3 day 8 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -384,7 +384,7 @@
 | [Dünyanın En Güzel Kızı](https://open.spotify.com/track/16wVY2lWuqBjjPrpTa6KSN) | [Mavi Gri](https://open.spotify.com/artist/4otJVkrLLqDF8OxFJOigme) | [Dünyanın En Güzel Kızı](https://open.spotify.com/album/1YQAyudXp8VWtwrC9Rl7jx) | 3:37 | 2022-01-18 | 2022-02-09 |
 | [Dünyaya Bedel](https://open.spotify.com/track/7EkTXLhxIusS6lSKlSymbA) | [mor ve ötesi](https://open.spotify.com/artist/5ixQSDvAMa5O758xG8MWXT) | [Sirenler](https://open.spotify.com/album/1bN6NwrpjgzYH01Fy5gagf) | 5:48 | 2022-01-27 | 2022-01-30 |
 | [Düşer Aklıma](https://open.spotify.com/track/5Qf8dlJ2zZTfztx7o7kbDN) | [Semicenk](https://open.spotify.com/artist/1CcZoULzFHa8Uhwo6OlQcp) | [Düşer Aklıma](https://open.spotify.com/album/2OwUIyWE9jUyI5YQPgD5xo) | 2:40 | 2022-02-16 | 2022-03-16 |
-| [EAEA](https://open.spotify.com/track/1NzoDUn5bLqpS36GD00Smi) | [Blanca Paloma](https://open.spotify.com/artist/4wm4mhiGnYPzCerFg3venQ) | [EAEA](https://open.spotify.com/album/713ABLvroU275mKkUgr6ZJ) | 2:59 | 2023-05-17 |  |
+| [EAEA](https://open.spotify.com/track/1NzoDUn5bLqpS36GD00Smi) | [Blanca Paloma](https://open.spotify.com/artist/4wm4mhiGnYPzCerFg3venQ) | [EAEA](https://open.spotify.com/album/713ABLvroU275mKkUgr6ZJ) | 2:59 | 2023-05-17 | 2023-05-19 |
 | [Eat Your Salad](https://open.spotify.com/track/1ShAVm7yacVov9jHpxvazy) | [Citi Zēni](https://open.spotify.com/artist/0kJje6gpjclOrCsPxZtoAW) | [Eat Your Salad](https://open.spotify.com/album/4K58jhE9eNiuD0uqEzhLVW) | 3:01 | 2022-05-21 | 2022-05-26 |
 | [Eat Your Salad](https://open.spotify.com/track/0rNIEBlBuo5108lnHyGbqJ) | [Citi Zēni](https://open.spotify.com/artist/0kJje6gpjclOrCsPxZtoAW) | [Eat Your Salad](https://open.spotify.com/album/6W0RNAULq6QYSf6cjPl7U2) | 3:01 | 2022-05-14 | 2022-05-29 |
 | [Efecto](https://open.spotify.com/track/5Eax0qFko2dh7Rl2lYs3bx) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Un Verano Sin Ti](https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5) | 3:33 | 2022-06-01 | 2022-06-08 |
@@ -1249,6 +1249,7 @@
 | [Srivalli \(From "Pushpa The Rise Part \- 01"\)](https://open.spotify.com/track/7sVEoPc5ZUUQerRkgTypUZ) | [Javed Ali](https://open.spotify.com/artist/4W91bbPB2CTSsHwt7eqNl7), [Devi Sri Prasad](https://open.spotify.com/artist/5sSzCxHtgL82pYDvx2QyEU) | [Srivalli \(From "Pushpa The Rise Part \- 01"\)](https://open.spotify.com/album/0o80h7hMTz2wjzJSvckOcr) | 3:44 | 2022-02-01 | 2022-02-06 |
 | [Stan Smith](https://open.spotify.com/track/0nCgsAki7e7I243CUblGxU) | [Alcemist](https://open.spotify.com/artist/6WzWO3A5YAYxLVD224S9P0), [Coco](https://open.spotify.com/artist/7q33wxvdJ95u6w3fY2q5ai) | [Stan Smith](https://open.spotify.com/album/2s7f4Qihh5MV7D6lKLPBjB) | 3:55 | 2022-03-06 | 2022-03-23 |
 | [Starlight](https://open.spotify.com/track/531KGXtBroSrOX9LVmiIgc) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK) | [Starlight](https://open.spotify.com/album/1WLS1NrOlbDIl760hVeeUi) | 3:31 | 2022-03-29 | 2022-04-18 |
+| [Stay](https://open.spotify.com/track/6ouoSKOsxFa7wV6wMJHAOy) | [Monika Linkyte](https://open.spotify.com/artist/5MRYARxlS1hlWFYXGHMztL) | [Stay](https://open.spotify.com/album/2HBUhieiceu40d9dvyJ7fY) | 3:04 | 2023-05-18 |  |
 | [Stay Alive \(Prod\. SUGA of BTS\)](https://open.spotify.com/track/7CAdT0HdiQNlt1C7xk2hep) | [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc) | [Stay Alive \(Prod\. SUGA of BTS\)](https://open.spotify.com/album/6nvSZLAsbg56fGSCVm8fL9) | 3:30 | 2022-03-08 | 2022-03-19 |
 | [Stefania \(Kalush Orchestra\)](https://open.spotify.com/track/2vHzOWRKYPLu8umRPIFuOq) | [KALUSH](https://open.spotify.com/artist/46rVVJwHWNS7C7MaWXd842) | [Stefania \(Kalush Orchestra\)](https://open.spotify.com/album/4JPeuLHGm9g78QS2aRao3D) | 2:59 | 2022-05-12 | 2022-06-05 |
 | [Step Back](https://open.spotify.com/track/3LCwQoTrdQgHsGJE5gGVqx) | [GOT the beat](https://open.spotify.com/artist/6uNxlIP5lzPFf0BHuELOuX) | [Step Back](https://open.spotify.com/album/3gwL04bGAX4Kc2D5Wd7NMk) | 3:48 | 2022-01-25 | 2022-02-23 |
@@ -1388,7 +1389,7 @@
 | [Under The Influence](https://open.spotify.com/track/5IgjP7X4th6nMNDh4akUHb) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Indigo \(Extended\)](https://open.spotify.com/album/3okhA6w5uau6ZNhnVpwVww) | 3:04 | 2022-08-06 | 2022-10-12 |
 | [UNDERSTAND](https://open.spotify.com/track/72sfmdpuO5r8cBDgs7MqZZ) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [GABRIEL](https://open.spotify.com/album/1WVIJaAboRSwJOe4u0n0Q7) | 2:30 | 2023-04-21 | 2023-05-16 |
 | [Unholy \(feat\. Kim Petras\)](https://open.spotify.com/track/3nqQXoyQOWXiESFLlDF1hG) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI), [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Unholy \(feat\. Kim Petras\)](https://open.spotify.com/album/0gX9tkL5njRax8ymWcXARi) | 2:36 | 2022-10-18 | 2022-11-20 |
-| [Unicorn](https://open.spotify.com/track/6dUregFbvUNqHP5nphqesK) | [Noa Kirel](https://open.spotify.com/artist/1wak0ZG1LUrZPYx8RDTQoD), [כאן \- תאגיד השידור הישראלי](https://open.spotify.com/artist/2N9Cvh536WBOePrevGKIlj) | [Unicorn](https://open.spotify.com/album/14wVxL1PbK2bJuoGjxHrCR) | 2:50 | 2023-05-15 |  |
+| [Unicorn](https://open.spotify.com/track/6dUregFbvUNqHP5nphqesK) | [Noa Kirel](https://open.spotify.com/artist/1wak0ZG1LUrZPYx8RDTQoD) | [Unicorn](https://open.spotify.com/album/14wVxL1PbK2bJuoGjxHrCR) | 2:50 | 2023-05-15 |  |
 | [Uno mas Uno Igual a Zero](https://open.spotify.com/track/3TrePR8cFXMlMvlLD9lapD) | [Abraham Vazquez](https://open.spotify.com/artist/063Vp9es6lLAbFUDtIAkFD), [Tony Aguirre](https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh) | [Uno Mas Uno Igual A Zero](https://open.spotify.com/album/4Kn4jPceGT1pgHDjMk9WQL) | 2:39 | 2023-04-04 | 2023-04-09 |
 | [Until I Found You](https://open.spotify.com/track/6VhuP99TE6gYNQRJIlAWFD) | [Stephen Sanchez](https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT) | [Easy On My Eyes](https://open.spotify.com/album/6BUPtXbb2tspYnkVdg5Ef7) | 2:56 | 2022-08-20 | 2022-08-24 |
 | [Until I Found You](https://open.spotify.com/track/0T5iIrXA4p5GsubkhuBIKV) | [Stephen Sanchez](https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT) | [Until I Found You](https://open.spotify.com/album/18CtLoAMTr7F8ngtuM6D8i) | 2:57 | 2022-02-24 | 2022-07-27 |

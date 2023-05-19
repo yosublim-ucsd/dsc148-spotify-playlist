@@ -1,12 +1,12 @@
 {
   "description": "Se acab\u00f3 el amor. La m\u00fasica contin\u00faa.",
-  "num_followers": 1742361,
+  "num_followers": 1742531,
   "original_name": "Sin Ti",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2NTJiMTVkNjY0NjkxZTYwZTEyMzFkMTc5NGVjNjBkYzIyOGYwNTQ2",
+  "snapshot_id": "MCxlZDEzZmY4NjVkZTcwZjc5MGM4ZGVkMzE0ZWUxYWI2MjM4YjJhYmQ4",
   "tracks": [
     {
       "added_at": "2023-05-05 03:22:13",
@@ -699,22 +699,6 @@
     {
       "added_at": "2023-05-05 03:22:13",
       "album": {
-        "name": "De M\u00e9xico",
-        "url": "https://open.spotify.com/album/52R4l0OYnS6DBSeiJ4KnBV"
-      },
-      "artists": [
-        {
-          "name": "Reik",
-          "url": "https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2"
-        }
-      ],
-      "duration_ms": 199140,
-      "name": "Te Hubieras Ido Antes",
-      "url": "https://open.spotify.com/track/20S5GpuTDgnx9nwBFp5Lpb"
-    },
-    {
-      "added_at": "2023-05-05 03:22:13",
-      "album": {
         "name": "Terral",
         "url": "https://open.spotify.com/album/1cWvezm4YsxlvvOSRUXLmS"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 287733,
       "name": "Recu\u00e9rdame",
       "url": "https://open.spotify.com/track/5UEtsmhfAtUb1KmPGougtO"
+    },
+    {
+      "added_at": "2023-05-05 03:22:13",
+      "album": {
+        "name": "De M\u00e9xico",
+        "url": "https://open.spotify.com/album/52R4l0OYnS6DBSeiJ4KnBV"
+      },
+      "artists": [
+        {
+          "name": "Reik",
+          "url": "https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2"
+        }
+      ],
+      "duration_ms": 199140,
+      "name": "Te Hubieras Ido Antes",
+      "url": "https://open.spotify.com/track/20S5GpuTDgnx9nwBFp5Lpb"
     },
     {
       "added_at": "2023-05-05 03:22:13",
@@ -895,18 +895,18 @@
     {
       "added_at": "2023-05-05 03:22:13",
       "album": {
-        "name": "Te La Dedico",
-        "url": "https://open.spotify.com/album/7KGERR76ARYMU0z9AO1Z3Y"
+        "name": "Si Fuera M\u00eda - EP",
+        "url": "https://open.spotify.com/album/0Blo1xKwN9GKOUgCBBWvmx"
       },
       "artists": [
         {
-          "name": "Jay Wheeler",
-          "url": "https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g"
+          "name": "Carlos Rivera",
+          "url": "https://open.spotify.com/artist/39yVoqm6sYFvvqF1RciUVf"
         }
       ],
-      "duration_ms": 231724,
-      "name": "Te La Dedico",
-      "url": "https://open.spotify.com/track/6z3IrUfL5HxmpH0Xt84Es8"
+      "duration_ms": 227373,
+      "name": "Recuerdos de Amor (Lembran\u00e7as de Amor) - Si Fuera M\u00eda",
+      "url": "https://open.spotify.com/track/3rmG6egiqYCmA1v2sEQUpT"
     },
     {
       "added_at": "2023-05-05 03:22:13",
@@ -927,34 +927,18 @@
     {
       "added_at": "2023-05-05 03:22:13",
       "album": {
-        "name": "Si Fuera M\u00eda - EP",
-        "url": "https://open.spotify.com/album/0Blo1xKwN9GKOUgCBBWvmx"
+        "name": "Te La Dedico",
+        "url": "https://open.spotify.com/album/7KGERR76ARYMU0z9AO1Z3Y"
       },
       "artists": [
         {
-          "name": "Carlos Rivera",
-          "url": "https://open.spotify.com/artist/39yVoqm6sYFvvqF1RciUVf"
+          "name": "Jay Wheeler",
+          "url": "https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g"
         }
       ],
-      "duration_ms": 227373,
-      "name": "Recuerdos de Amor (Lembran\u00e7as de Amor) - Si Fuera M\u00eda",
-      "url": "https://open.spotify.com/track/3rmG6egiqYCmA1v2sEQUpT"
-    },
-    {
-      "added_at": "2023-05-05 03:22:13",
-      "album": {
-        "name": "TINI TINI TINI",
-        "url": "https://open.spotify.com/album/7LP6bUlMdnuqeP2etuw7wI"
-      },
-      "artists": [
-        {
-          "name": "TINI",
-          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
-        }
-      ],
-      "duration_ms": 194836,
-      "name": "Te Olvidar\u00e9",
-      "url": "https://open.spotify.com/track/3mCsFR4vkkg6az76rXMZu6"
+      "duration_ms": 231724,
+      "name": "Te La Dedico",
+      "url": "https://open.spotify.com/track/6z3IrUfL5HxmpH0Xt84Es8"
     },
     {
       "added_at": "2023-05-05 03:22:13",
@@ -975,6 +959,22 @@
       "duration_ms": 181978,
       "name": "Coraz\u00f3n Sin Vida",
       "url": "https://open.spotify.com/track/3OL6rKs4tpYCdPZ9SEx50p"
+    },
+    {
+      "added_at": "2023-05-05 03:22:13",
+      "album": {
+        "name": "TINI TINI TINI",
+        "url": "https://open.spotify.com/album/7LP6bUlMdnuqeP2etuw7wI"
+      },
+      "artists": [
+        {
+          "name": "TINI",
+          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
+        }
+      ],
+      "duration_ms": 194836,
+      "name": "Te Olvidar\u00e9",
+      "url": "https://open.spotify.com/track/3mCsFR4vkkg6az76rXMZu6"
     },
     {
       "added_at": "2023-05-05 03:22:13",
@@ -1643,6 +1643,26 @@
     {
       "added_at": "2023-05-05 03:22:13",
       "album": {
+        "name": "D\u00e9jame Llorarte",
+        "url": "https://open.spotify.com/album/1fjpRVL4FeqSEH4fcW9dxf"
+      },
+      "artists": [
+        {
+          "name": "Paula Arenas",
+          "url": "https://open.spotify.com/artist/4ay2pQwnYqa44OAnWCGix2"
+        },
+        {
+          "name": "Jes\u00fas Navarro",
+          "url": "https://open.spotify.com/artist/177dG4gTPSBg2F2KXZdPMW"
+        }
+      ],
+      "duration_ms": 189506,
+      "name": "D\u00e9jame Llorarte",
+      "url": "https://open.spotify.com/track/2wOFY8X0MhVjoHQpa41hFq"
+    },
+    {
+      "added_at": "2023-05-05 03:22:13",
+      "album": {
         "name": "Cristian Castro En Primera Fila - D\u00eda 1",
         "url": "https://open.spotify.com/album/79S9eRBE4zhXybavIRwAv0"
       },
@@ -1691,26 +1711,6 @@
       "duration_ms": 195929,
       "name": "Te Necesito (Live Acoustic)",
       "url": "https://open.spotify.com/track/79uVK69HCjcVEKsVcl4DAB"
-    },
-    {
-      "added_at": "2023-05-05 03:22:13",
-      "album": {
-        "name": "D\u00e9jame Llorarte",
-        "url": "https://open.spotify.com/album/1fjpRVL4FeqSEH4fcW9dxf"
-      },
-      "artists": [
-        {
-          "name": "Paula Arenas",
-          "url": "https://open.spotify.com/artist/4ay2pQwnYqa44OAnWCGix2"
-        },
-        {
-          "name": "Jes\u00fas Navarro",
-          "url": "https://open.spotify.com/artist/177dG4gTPSBg2F2KXZdPMW"
-        }
-      ],
-      "duration_ms": 189506,
-      "name": "D\u00e9jame Llorarte",
-      "url": "https://open.spotify.com/track/2wOFY8X0MhVjoHQpa41hFq"
     },
     {
       "added_at": "2023-05-05 03:22:13",

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "The cream of today's Country crop. Cover: Taylor Moss",
+  "description": "The cream of today's Country crop. Cover: James Johnston",
   "name": "Fresh Country",
   "tracks": [
     {
@@ -747,6 +747,24 @@
     },
     {
       "album": {
+        "name": "Blue Eyes",
+        "url": "https://open.spotify.com/album/1EXlMdfR3WjiZUeQMwfkzL"
+      },
+      "artists": [
+        {
+          "name": "Brook Chivell",
+          "url": "https://open.spotify.com/artist/6LnqkQnFsNP3bdPLzQ8rYQ"
+        }
+      ],
+      "date_added": "2023-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246000,
+      "name": "Blue Eyes",
+      "url": "https://open.spotify.com/track/5xU2wb69VYgwBPgq19Pu21"
+    },
+    {
+      "album": {
         "name": "Blue Guitar",
         "url": "https://open.spotify.com/album/7p8eJUdGjDoKuwDNGAu1Wn"
       },
@@ -870,6 +888,24 @@
       "duration_ms": 224985,
       "name": "Brown Eyes Baby",
       "url": "https://open.spotify.com/track/5JLf54f83nJrxD4IhFaLl7"
+    },
+    {
+      "album": {
+        "name": "Never Enough",
+        "url": "https://open.spotify.com/album/4i3ay5RKpdmJok8zazCdlf"
+      },
+      "artists": [
+        {
+          "name": "Parker McCollum",
+          "url": "https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ"
+        }
+      ],
+      "date_added": "2023-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233869,
+      "name": "Burn It Down",
+      "url": "https://open.spotify.com/track/09hVlIVHtEE1nLUv6YGZiW"
     },
     {
       "album": {
@@ -1196,7 +1232,7 @@
       ],
       "date_added": "2023-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 213041,
       "name": "Country Music, You And Beer",
       "url": "https://open.spotify.com/track/2QcjWuVKNa5IsWJOfAfXBT"
@@ -2423,6 +2459,24 @@
     },
     {
       "album": {
+        "name": "Heading South",
+        "url": "https://open.spotify.com/album/3Ca58JR3vDDMl5i8QKkWzP"
+      },
+      "artists": [
+        {
+          "name": "Zach Bryan",
+          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+        }
+      ],
+      "date_added": "2023-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171692,
+      "name": "Heading South",
+      "url": "https://open.spotify.com/track/2Dct3GykKZ58hpWRFfe2Qd"
+    },
+    {
+      "album": {
         "name": "HEARTFIRST",
         "url": "https://open.spotify.com/album/34lEWEkrMZmB2WTzMXsk2s"
       },
@@ -2798,7 +2852,7 @@
       ],
       "date_added": "2022-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 206493,
       "name": "I Wonder",
       "url": "https://open.spotify.com/track/19Sf2YrUN9ohsdBk8BWJTF"
@@ -3463,6 +3517,24 @@
     },
     {
       "album": {
+        "name": "Mama's Eyes",
+        "url": "https://open.spotify.com/album/2OUWJQrzQJNk3Oeew9oN0T"
+      },
+      "artists": [
+        {
+          "name": "Tenille Arts",
+          "url": "https://open.spotify.com/artist/0gSAxSvAApQc71cTpoXDFu"
+        }
+      ],
+      "date_added": "2023-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190955,
+      "name": "Mama's Eyes",
+      "url": "https://open.spotify.com/track/3vDIOac07rO5yGTvNeNSh7"
+    },
+    {
+      "album": {
         "name": "Me On You",
         "url": "https://open.spotify.com/album/5bfDm08pB2zZmL50whoiBm"
       },
@@ -3928,7 +4000,7 @@
       ],
       "date_added": "2023-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 161122,
       "name": "Old Skoolin'",
       "url": "https://open.spotify.com/track/2ucaoYoZxD8wrsAHofdEe1"
@@ -4199,6 +4271,24 @@
     },
     {
       "album": {
+        "name": "Pretty Doesn't Make You Good",
+        "url": "https://open.spotify.com/album/2CCgH95QT9QgkKSU1HdZyN"
+      },
+      "artists": [
+        {
+          "name": "Darlinghurst",
+          "url": "https://open.spotify.com/artist/3OjwjBrXRtZtqqmrjc9RYA"
+        }
+      ],
+      "date_added": "2023-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173861,
+      "name": "Pretty Doesn't Make You Good",
+      "url": "https://open.spotify.com/track/6HAMVck4qqyaEvvO35FoLi"
+    },
+    {
+      "album": {
         "name": "Queen of Daytona Beach",
         "url": "https://open.spotify.com/album/77zuiu0p8DHfQQvABLJhA6"
       },
@@ -4218,6 +4308,24 @@
       "duration_ms": 214333,
       "name": "Queen of Daytona Beach",
       "url": "https://open.spotify.com/track/2M2g0K7kzi2dcXdtjbI5Nz"
+    },
+    {
+      "album": {
+        "name": "Raise Me",
+        "url": "https://open.spotify.com/album/70bvuJAIvacEXoOVcZSvmQ"
+      },
+      "artists": [
+        {
+          "name": "Travis Collins",
+          "url": "https://open.spotify.com/artist/1hB4sZ49ocIuwxPEBIV35m"
+        }
+      ],
+      "date_added": "2023-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231044,
+      "name": "Raise Me",
+      "url": "https://open.spotify.com/track/4TazvOlJBRopmxCN0aTiEA"
     },
     {
       "album": {
@@ -4510,7 +4618,7 @@
       ],
       "date_added": "2022-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 167547,
       "name": "SAME SONGS",
       "url": "https://open.spotify.com/track/0nEWAK1WHWThcDJJOxwwWb"
@@ -5458,7 +5566,7 @@
       ],
       "date_added": "2022-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 211315,
       "name": "The Good I'll Do",
       "url": "https://open.spotify.com/track/53zCCom4uEoIBaOAEJtjUL"
@@ -5982,6 +6090,24 @@
       "duration_ms": 196236,
       "name": "WE GREW UP ON",
       "url": "https://open.spotify.com/track/4L6WubWBzCxf385jtUQmvw"
+    },
+    {
+      "album": {
+        "name": "Poets & Old Souls",
+        "url": "https://open.spotify.com/album/19X9Ts9AYIRrqthSTf3qss"
+      },
+      "artists": [
+        {
+          "name": "Bryan Martin",
+          "url": "https://open.spotify.com/artist/0ChjBYedhZTQnWZWQYg15U"
+        }
+      ],
+      "date_added": "2023-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188482,
+      "name": "We Ride",
+      "url": "https://open.spotify.com/track/72kGuWpRiuA149Bn5lDkIO"
     },
     {
       "album": {

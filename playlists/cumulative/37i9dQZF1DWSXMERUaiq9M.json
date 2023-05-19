@@ -139,6 +139,24 @@
     },
     {
       "album": {
+        "name": "Call Me",
+        "url": "https://open.spotify.com/album/2NlSt0ZVPsx3dblkIoamuo"
+      },
+      "artists": [
+        {
+          "name": "Marlon Hoffstadt",
+          "url": "https://open.spotify.com/artist/0HHa7ZJZxUQlg5l2mB0N0f"
+        }
+      ],
+      "date_added": "2023-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139000,
+      "name": "Call Me",
+      "url": "https://open.spotify.com/track/4iqtDvbICWuBERMTz9cz41"
+    },
+    {
+      "album": {
         "name": "Can't Stop The Night",
         "url": "https://open.spotify.com/album/79YdrZXt6tBDj4i0Y4gCJS"
       },
@@ -572,7 +590,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 241750,
       "name": "I've Been Meaning To Tell You",
       "url": "https://open.spotify.com/track/5n3ukwahCHdDfgDN4Vs4V0"
@@ -735,6 +753,24 @@
     },
     {
       "album": {
+        "name": "slash 004 - Leave it to the vibe",
+        "url": "https://open.spotify.com/album/2TEGnFtUygzOSU3o9thNhs"
+      },
+      "artists": [
+        {
+          "name": "KI/KI",
+          "url": "https://open.spotify.com/artist/0UMs6dTf23FC2fHc40fXNS"
+        }
+      ],
+      "date_added": "2023-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 418003,
+      "name": "Leave it to the vibe",
+      "url": "https://open.spotify.com/track/3lYjpF9y8rLpDjKtPVIg7P"
+    },
+    {
+      "album": {
         "name": "Love & Peace",
         "url": "https://open.spotify.com/album/5dGc4CtONI8OtIrt1X12tK"
       },
@@ -758,6 +794,24 @@
       "duration_ms": 360025,
       "name": "Love & Peace",
       "url": "https://open.spotify.com/track/5UJegVmminlxe2u9dz6jBH"
+    },
+    {
+      "album": {
+        "name": "Dunes",
+        "url": "https://open.spotify.com/album/5OraR3Y7Ccd990r66pBWUB"
+      },
+      "artists": [
+        {
+          "name": "southstar",
+          "url": "https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi"
+        }
+      ],
+      "date_added": "2023-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161282,
+      "name": "Love Express",
+      "url": "https://open.spotify.com/track/6xsnEg4g2Z9rqRlewkENhP"
     },
     {
       "album": {
@@ -838,7 +892,7 @@
       ],
       "date_added": "2023-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 138546,
       "name": "Magic",
       "url": "https://open.spotify.com/track/7wzMbipfjq1bv39UZYOQQ9"
@@ -1402,7 +1456,7 @@
       ],
       "date_added": "2023-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 346339,
       "name": "Take That",
       "url": "https://open.spotify.com/track/1rRBOQnG1Y86iszGf4J7Px"
@@ -1551,6 +1605,24 @@
     },
     {
       "album": {
+        "name": "Dunes",
+        "url": "https://open.spotify.com/album/5OraR3Y7Ccd990r66pBWUB"
+      },
+      "artists": [
+        {
+          "name": "southstar",
+          "url": "https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi"
+        }
+      ],
+      "date_added": "2023-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184752,
+      "name": "Typa Girl",
+      "url": "https://open.spotify.com/track/16SKOkyJsJNeJkHUFTcDUm"
+    },
+    {
+      "album": {
         "name": "Unity (Original Mix)",
         "url": "https://open.spotify.com/album/5W3X60uJ524fwrtijDUcAy"
       },
@@ -1588,7 +1660,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 349393,
       "name": "Vigour - Julian Muller Remix",
       "url": "https://open.spotify.com/track/0Wh4YlbUtNSrgHq6HnfD0c"

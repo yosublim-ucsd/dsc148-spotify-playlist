@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-11-24",
-  "description": "The home for alternative electronic music. Cover: Overmono",
+  "description": "The home for alternative electronic music. Cover: Model Man",
   "name": "Altar",
   "tracks": [
     {
@@ -1159,6 +1159,28 @@
     },
     {
       "album": {
+        "name": "Space & Time",
+        "url": "https://open.spotify.com/album/3ZHNZwse8WUFP35u72NnpH"
+      },
+      "artists": [
+        {
+          "name": "Alex Metric",
+          "url": "https://open.spotify.com/artist/6RDNTAgm2s6ae71nXWGnJD"
+        },
+        {
+          "name": "L\u00e5psley",
+          "url": "https://open.spotify.com/artist/27ze6hCgfr3HcDZAHY60pg"
+        }
+      ],
+      "date_added": "2023-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156018,
+      "name": "Back Again",
+      "url": "https://open.spotify.com/track/2k2xKWFpwZ2OU3q5hBEccK"
+    },
+    {
+      "album": {
         "name": "Back Tae Ayr",
         "url": "https://open.spotify.com/album/6YGqlfu2U6aUkzPSViek27"
       },
@@ -1584,7 +1606,7 @@
       ],
       "date_added": "2023-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 221323,
       "name": "Blue Lights",
       "url": "https://open.spotify.com/track/1HaFNaN0DEaKCOrQ7AIpxx"
@@ -1882,7 +1904,7 @@
       ],
       "date_added": "2023-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 368706,
       "name": "Bubble Up",
       "url": "https://open.spotify.com/track/6OfDPAofhAqf4hxLoOGDLM"
@@ -2114,7 +2136,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 225230,
       "name": "Can't Stop Thinking About You",
       "url": "https://open.spotify.com/track/4tJpauHivqhPUDrjFHDFMm"
@@ -2312,7 +2334,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 202388,
       "name": "Cherubim",
       "url": "https://open.spotify.com/track/6JzQKtrCAh7riHwJYMNPtM"
@@ -2722,7 +2744,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 126857,
       "name": "COZ I'M THAT MOTHERF*CKIN",
       "url": "https://open.spotify.com/track/2yjfNNjUEWLsnIp7N21PNt"
@@ -2776,7 +2798,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 196615,
       "name": "Dagobah",
       "url": "https://open.spotify.com/track/7JDjw5R8GuEgJW7jcGDvwb"
@@ -3513,6 +3535,24 @@
     },
     {
       "album": {
+        "name": "Automat Kingsland",
+        "url": "https://open.spotify.com/album/49IpdxELxTRk78VZn4Xxir"
+      },
+      "artists": [
+        {
+          "name": "Krystal Klear",
+          "url": "https://open.spotify.com/artist/0jqr8aeeHSn5pMEVD4aTrI"
+        }
+      ],
+      "date_added": "2023-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238384,
+      "name": "Endeavour",
+      "url": "https://open.spotify.com/track/4sg1fqkeGMnbgxzXw5ppEw"
+    },
+    {
+      "album": {
         "name": "Endless",
         "url": "https://open.spotify.com/album/02nX4zYqENF8utvigcyHJ3"
       },
@@ -3706,7 +3746,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 217500,
       "name": "Essentia",
       "url": "https://open.spotify.com/track/4QreGo9Ivksjv4c3Bnk5f3"
@@ -5198,6 +5238,24 @@
       "duration_ms": 138484,
       "name": "Heaven (feat. Tinashe)",
       "url": "https://open.spotify.com/track/2DocffKfDso8efpWPOYTvI"
+    },
+    {
+      "album": {
+        "name": "Heaven Hanging Low",
+        "url": "https://open.spotify.com/album/0C15Fq2phrRsuF38ny28Hk"
+      },
+      "artists": [
+        {
+          "name": "Art School Girlfriend",
+          "url": "https://open.spotify.com/artist/3rtvvt1kuQ4luEWq8epaHD"
+        }
+      ],
+      "date_added": "2023-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220306,
+      "name": "Heaven Hanging Low",
+      "url": "https://open.spotify.com/track/0XyBzQ0hOpfmXSjG2CwIqk"
     },
     {
       "album": {
@@ -7525,6 +7583,24 @@
     },
     {
       "album": {
+        "name": "Meant To Be",
+        "url": "https://open.spotify.com/album/1Wn3OmksyMkgzvzE7dEIhc"
+      },
+      "artists": [
+        {
+          "name": "Jayda G",
+          "url": "https://open.spotify.com/artist/3NKVm2Jedcf6ibJr6pMUVx"
+        }
+      ],
+      "date_added": "2023-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224287,
+      "name": "Meant To Be",
+      "url": "https://open.spotify.com/track/4YRw7jcTBGAUHWktyn0msf"
+    },
+    {
+      "album": {
         "name": "Connect EP (Edits)",
         "url": "https://open.spotify.com/album/12r5I2u4n4Fq3dCdwEZUug"
       },
@@ -8384,7 +8460,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 317677,
       "name": "Night Safari",
       "url": "https://open.spotify.com/track/1ess3AYGD2HtKbmSHLD8pJ"
@@ -8604,7 +8680,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 219936,
       "name": "Not Puzzled",
       "url": "https://open.spotify.com/track/2nlxCjjmE46CRKlan1zWmv"
@@ -8979,6 +9055,28 @@
     },
     {
       "album": {
+        "name": "Oxyg\u00e8ne (Are You Alive?) [feat. Clou]",
+        "url": "https://open.spotify.com/album/5HzOgRI9rnqNSpXOec0sBv"
+      },
+      "artists": [
+        {
+          "name": "Orbital",
+          "url": "https://open.spotify.com/artist/3csPCeXsj2wezyvkRFzvmV"
+        },
+        {
+          "name": "Clou",
+          "url": "https://open.spotify.com/artist/7DPzuksj4fnGIb4F9dVswN"
+        }
+      ],
+      "date_added": "2023-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233803,
+      "name": "Oxyg\u00e8ne (Are You Alive?) [feat. Clou] - Edit",
+      "url": "https://open.spotify.com/track/04Cf6Fc3VFfk0r3x806E4u"
+    },
+    {
+      "album": {
         "name": "Paroch\u00e9",
         "url": "https://open.spotify.com/album/6TmJO11FZQKK5PLY9CKm96"
       },
@@ -9318,6 +9416,24 @@
       "duration_ms": 201142,
       "name": "Play",
       "url": "https://open.spotify.com/track/5oiTnaEHK3OFDZIL8AIYwu"
+    },
+    {
+      "album": {
+        "name": "PLAY",
+        "url": "https://open.spotify.com/album/3ZyxwnxqSbSdYpuUHFyP13"
+      },
+      "artists": [
+        {
+          "name": "Mysie",
+          "url": "https://open.spotify.com/artist/3rf7cB2o79L2LEcl9HIjAf"
+        }
+      ],
+      "date_added": "2023-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142624,
+      "name": "PLAY",
+      "url": "https://open.spotify.com/track/4FuIICqqCqELB9TxsxLqNv"
     },
     {
       "album": {
@@ -9698,7 +9814,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 298736,
       "name": "re-location.zip",
       "url": "https://open.spotify.com/track/6feXynMqVk5bDRbGoaVc76"
@@ -11459,6 +11575,24 @@
     },
     {
       "album": {
+        "name": "Sun Goes Down",
+        "url": "https://open.spotify.com/album/1ZdI9s84Xv8qL6W48XKOoq"
+      },
+      "artists": [
+        {
+          "name": "Kiimi",
+          "url": "https://open.spotify.com/artist/3EMzfV9nhsrQWF7Ww8M74S"
+        }
+      ],
+      "date_added": "2023-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222798,
+      "name": "Sun Goes Down - Edit",
+      "url": "https://open.spotify.com/track/0AtyKIBLrzjoW4rfQEjjwv"
+    },
+    {
+      "album": {
         "name": "Sunlight",
         "url": "https://open.spotify.com/album/1QutN3qqbIejNNSCLw18ix"
       },
@@ -12096,7 +12230,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 203666,
       "name": "Time",
       "url": "https://open.spotify.com/track/0TM0ZhX3ue9P3vj26MHeVd"
@@ -12700,6 +12834,24 @@
       "duration_ms": 367775,
       "name": "Upstairs Flat",
       "url": "https://open.spotify.com/track/6VOiyOngpEqCw17OdUfSQj"
+    },
+    {
+      "album": {
+        "name": "Venera",
+        "url": "https://open.spotify.com/album/73tJXZqhpawO8j29HGtqA9"
+      },
+      "artists": [
+        {
+          "name": "George FitzGerald",
+          "url": "https://open.spotify.com/artist/3KOHpygRuo1ruQAbEneR3t"
+        }
+      ],
+      "date_added": "2023-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227804,
+      "name": "Venera",
+      "url": "https://open.spotify.com/track/6U9rAS28uOHyf5NZCYyt0J"
     },
     {
       "album": {

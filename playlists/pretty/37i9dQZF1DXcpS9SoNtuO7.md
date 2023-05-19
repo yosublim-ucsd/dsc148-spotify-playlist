@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcpS9SoNtuO7.md) - [plain]
 
 > The hottest Japanese anime song playlist curated by<a href="https://www.lisani.jp/"> LisAni</a>！ アニメ音楽メディア「<a href="https://www.lisani.jp/">リスアニ！</a>」が贈る最強のアニソンプレイリストです。新旧の名曲を随時更新！
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,561 likes - 100 songs - 6 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,588 likes - 100 songs - 6 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcpS9SoNtuO7.md) - [plain]
 | 99 | [コネクト \-2017\-](https://open.spotify.com/track/0Yvh6rUn42qYGxNBHeQXo6) | [ClariS](https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3) | [ClariS 10th Anniversary BEST \- Green Star \-](https://open.spotify.com/album/52g9iztdfy5tL8hMeFi7Xe) | 4:30 |
 | 100 | [Clear Sky](https://open.spotify.com/track/4hyUMlOse5Cs037QohpGFM) | [ClariS](https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3) | [ClariS 10th Anniversary BEST \- Green Star \-](https://open.spotify.com/album/52g9iztdfy5tL8hMeFi7Xe) | 4:22 |
 
-Snapshot ID: `MCwyNDJkZmUwMzE0OWM5NTQyMGUyM2M4ZWVhZDQzNGQwYmQyM2QxZWVh`
+Snapshot ID: `MCxlZTlkNjU4Y2NlOTZkZjg1OTEzNzNmMDAyYjA1YzE3ZDkxNzM1N2Fi`

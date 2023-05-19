@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5uNkdw9Pw3U.md) - [plain]
 
 > Tough crowd.
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,244 likes - 94 songs - 5 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,296 likes - 94 songs - 5 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,13 +94,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5uNkdw9Pw3U.md) - [plain]
 | 84 | [21](https://open.spotify.com/track/1u59LusHrE1Z3NgR0bJuHb) | [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [21](https://open.spotify.com/album/3edgSD1nfi5GKSNnHw6Ltf) | 3:15 |
 | 85 | [HER Love \[Feat\. Daniel Caesar with special guest Dwele\]](https://open.spotify.com/track/4ZLVxybMljzL77dCA443Ob) | [Common](https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc), [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [HER Love \[Feat\. Daniel Caesar with special guest Dwele\]](https://open.spotify.com/album/5ASnPqVkvU50cwNlC6OoX6) | 6:17 |
 | 86 | [Compromise \(feat\. Sabrina Claudio\)](https://open.spotify.com/track/4A96scbB368L3h1Hg7vVRn) | [Gallant](https://open.spotify.com/artist/7wFDo161xYdeaiLz3KIHoM), [Sabrina Claudio](https://open.spotify.com/artist/30DhU7BDmF4PH0JVhu8ZRg) | [Sweet Insomnia](https://open.spotify.com/album/36BnoniDx1oKdMWm7ProqG) | 3:05 |
-| 87 | [Booty](https://open.spotify.com/track/0LGrFyVEM5qc9W5BOTEJ5z) | [Lil Halima](https://open.spotify.com/artist/1vOh8jgNLFHFxMY8i0lEKr), [Canto](https://open.spotify.com/artist/0IfFGR3deyYYoBzXsz3dWN) | [Booty](https://open.spotify.com/album/1wZUA48qppx695AaNY97a4) | 2:20 |
-| 88 | [My Brother](https://open.spotify.com/track/2GZolwLhttPdstcBXqKXyW) | [Sam Tompkins](https://open.spotify.com/artist/04uu8U3I1h26Fp2NBkPTRZ) | [Who Do You Pray To?](https://open.spotify.com/album/5gJbs8y4oJD0hJESKi1E5z) | 3:09 |
+| 87 | [My Brother](https://open.spotify.com/track/2GZolwLhttPdstcBXqKXyW) | [Sam Tompkins](https://open.spotify.com/artist/04uu8U3I1h26Fp2NBkPTRZ) | [Who Do You Pray To?](https://open.spotify.com/album/5gJbs8y4oJD0hJESKi1E5z) | 3:09 |
+| 88 | [Booty](https://open.spotify.com/track/0LGrFyVEM5qc9W5BOTEJ5z) | [Lil Halima](https://open.spotify.com/artist/1vOh8jgNLFHFxMY8i0lEKr), [Canto](https://open.spotify.com/artist/0IfFGR3deyYYoBzXsz3dWN) | [Booty](https://open.spotify.com/album/1wZUA48qppx695AaNY97a4) | 2:20 |
 | 89 | [Burn Out](https://open.spotify.com/track/2KpJM6DS8TaUOTWt0GbB19) | [Nao](https://open.spotify.com/artist/7aFTOGFDEqDtJUCziLVsVC) | [And Then Life Was Beautiful](https://open.spotify.com/album/0mlSanObCAti0PvharqR1u) | 3:19 |
 | 90 | [Stardust](https://open.spotify.com/track/4JRrncVqFfwoAQbNJb5cTT) | [Dan Bravo](https://open.spotify.com/artist/0NRKyezW2cOBJs7DEIPk5F), [J.O.Y](https://open.spotify.com/artist/1oB65aeaC4Cql0h6VvX0mm) | [Stardust](https://open.spotify.com/album/2qh479COvEcTzyitfMUW5O) | 2:53 |
 | 91 | [Lost & Found](https://open.spotify.com/track/5e28Opuxq5CZ9AkcJUFVos) | [Gotts Street Park](https://open.spotify.com/artist/2hwy5DELim1AxB1sHPqn4y), [Charlotte Dos Santos](https://open.spotify.com/artist/0INatsTiEOX0EJimNTQjSM) | [Lost & Found](https://open.spotify.com/album/76CdMSgIfOG6BfFsz97z5X) | 3:46 |
 | 92 | [Worst Way](https://open.spotify.com/track/4dFd9I7wVuNJuFaU1De0Hn) | [Ayelle](https://open.spotify.com/artist/5aNJpeK3hUdPY9orfExdOF), [themes](https://open.spotify.com/artist/7DLvUg0aKwnnUVY8m233DI), [Naji](https://open.spotify.com/artist/31QM5dBtewZL65p9hCnXKK) | [Worst Way](https://open.spotify.com/album/5UFZy1cSlNoyFTvJFaWnQz) | 2:52 |
-| 93 | [I Blodet \(feat\. Natnael\)](https://open.spotify.com/track/1AIEsEzpYiRA12cqdwLz2R) | [Tyr](https://open.spotify.com/artist/3PgCoKtxkxF046P2FM7SFE), [Natnael](https://open.spotify.com/artist/58u4YsJTsPL0qWmYsnRoLM) | [TyrTape \(Deluxe\)](https://open.spotify.com/album/5SWXZdPOFLyQWrQU6cb8zN) | 3:20 |
-| 94 | [Sympati For Djevelen](https://open.spotify.com/track/4k6UZA0n0cQHcsz5Q1UP1W) | [L.U:N.A](https://open.spotify.com/artist/69m0BPeWJi5xH4BDvcyewk) | [Sympati For Djevelen](https://open.spotify.com/album/0Hdb0MziTQXfHUDTAzWf1r) | 3:03 |
+| 93 | [Swim Home \- From 13 Reasons Why \- Season 3 Soundtrack](https://open.spotify.com/track/2zEHO1wAn5bpuVal7duRmj) | [Cautious Clay](https://open.spotify.com/artist/6iWuBN32BqCJAeXW6o3nil) | [Swim Home \(From 13 Reasons Why \- Season 3 Soundtrack\)](https://open.spotify.com/album/3sResZsuA2eMUvNdc4HHiO) | 3:06 |
+| 94 | [I Blodet \(feat\. Natnael\)](https://open.spotify.com/track/1AIEsEzpYiRA12cqdwLz2R) | [Tyr](https://open.spotify.com/artist/3PgCoKtxkxF046P2FM7SFE), [Natnael](https://open.spotify.com/artist/58u4YsJTsPL0qWmYsnRoLM) | [TyrTape \(Deluxe\)](https://open.spotify.com/album/5SWXZdPOFLyQWrQU6cb8zN) | 3:20 |
 
-Snapshot ID: `MCw3OWUxNzYyOGYxYmEzNTAwNDI1Nzc0YzAzYzViYTNhNjVjMTM4NGIx`
+Snapshot ID: `MCxjM2UwYmRjMmQwOTQ1MmMxOGRmN2EzMDEyYzE5MTFhZWExZjJmODUx`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXarlH9zHuV0v.md) - [plain]
 
 > A playlist of spooky songs to get you ready for fright night!
 
-[Spotify](https://open.spotify.com/user/spotify) - 233,473 likes - 60 songs - 4 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 233,453 likes - 60 songs - 4 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXarlH9zHuV0v.md) - [plain]
 | 59 | [Yes, I'm A Witch](https://open.spotify.com/track/1ZEsbgte9LRHyOypNTitnP) | [Yoko Ono](https://open.spotify.com/artist/2s4tjL6W3qrblOe0raIzwJ), [Palumbo Of The Brothers Brothers](https://open.spotify.com/artist/51rPFkrSpx9TrlbKBnwK2b), [John Palumbo](https://open.spotify.com/artist/56m537t8BiQfTMEQ7gx7RM) | [Yes, I'm A Witch](https://open.spotify.com/album/749IRZj6CenDO9zLuqhiE7) | 3:48 |
 | 60 | [Halloween](https://open.spotify.com/track/3DN3nPW5VDyGa48ELeXPU0) | [Sonic Youth](https://open.spotify.com/artist/5UqTO8smerMvxHYA5xsXb6) | [Bad Moon Rising](https://open.spotify.com/album/5qZwFWvjfQF6uqrtMaCbO6) | 5:11 |
 
-Snapshot ID: `MCxlNzM5YzA4NmRlMjVmM2JkMThmM2FkMWY3N2FmYjE2N2Y2YWUxZGVk`
+Snapshot ID: `MCxjMGQ5ODBiYjU5MGI1OGVhYTFhZDgwMjU2NDQzMDQxMWY5MTJkZGVk`

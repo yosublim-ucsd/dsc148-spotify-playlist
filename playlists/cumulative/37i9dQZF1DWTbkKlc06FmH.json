@@ -720,7 +720,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 131013,
-      "name": "Boy's a liar Pt. 2",
+      "name": "Boy's a Liar Pt. 2",
       "url": "https://open.spotify.com/track/6AQbmUe0Qwf5PZnt4HmTXv"
     },
     {
@@ -2092,7 +2092,7 @@
       ],
       "date_added": "2022-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 157678,
       "name": "Good Company",
       "url": "https://open.spotify.com/track/0bs4c6mFxhNMqQvOjv4vR3"
@@ -2562,7 +2562,7 @@
       ],
       "date_added": "2022-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 205384,
       "name": "Iced Tea",
       "url": "https://open.spotify.com/track/6kmXHLDDK7RQXTjHooTCzH"
@@ -2584,6 +2584,24 @@
       "duration_ms": 229203,
       "name": "Impurities",
       "url": "https://open.spotify.com/track/0yUpBx2Y5KwzENVCshSy3M"
+    },
+    {
+      "album": {
+        "name": "Inbox",
+        "url": "https://open.spotify.com/album/4DvivU4pOhMpRMP8rFgmxf"
+      },
+      "artists": [
+        {
+          "name": "Fieh",
+          "url": "https://open.spotify.com/artist/0KmBIwN1qmQbXpR4wtJX88"
+        }
+      ],
+      "date_added": "2023-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211840,
+      "name": "Inbox",
+      "url": "https://open.spotify.com/track/2w4TYnlQOYSb8p5VQO6YVC"
     },
     {
       "album": {
@@ -4566,7 +4584,7 @@
       ],
       "date_added": "2023-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 229960,
       "name": "Replacements (feat. La Roux)",
       "url": "https://open.spotify.com/track/067mO4njSpF7qUEE96lbpH"
@@ -5453,6 +5471,24 @@
     },
     {
       "album": {
+        "name": "Sunshine Baby",
+        "url": "https://open.spotify.com/album/2ibWUZ1bIkVbwqCUV7ULtI"
+      },
+      "artists": [
+        {
+          "name": "The Japanese House",
+          "url": "https://open.spotify.com/artist/3IunaFjvNKj98JW89JYv9u"
+        }
+      ],
+      "date_added": "2023-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219813,
+      "name": "Sunshine Baby",
+      "url": "https://open.spotify.com/track/3vYv97XoLzoVhOhGCfs0lF"
+    },
+    {
+      "album": {
         "name": "Super Star",
         "url": "https://open.spotify.com/album/12wAKwJC0xf2cfTCZXlxpF"
       },
@@ -5546,7 +5582,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 200653,
-      "name": "Take me home",
+      "name": "Take Me Home",
       "url": "https://open.spotify.com/track/26AmP3ukYC4Zs9lSGlh55I"
     },
     {
@@ -5694,6 +5730,28 @@
       "duration_ms": 224739,
       "name": "The Sun Is Up Forever",
       "url": "https://open.spotify.com/track/4i17ViZoevssgUvRifo0V5"
+    },
+    {
+      "album": {
+        "name": "The Universe",
+        "url": "https://open.spotify.com/album/2JKrj31ZTIjy8voQ7azDzC"
+      },
+      "artists": [
+        {
+          "name": "R\u00f3is\u00edn Murphy",
+          "url": "https://open.spotify.com/artist/3qwabfaWewpfli7hMNM3O8"
+        },
+        {
+          "name": "DJ Koze",
+          "url": "https://open.spotify.com/artist/1kR99O4MgSTasyeJh8UFCg"
+        }
+      ],
+      "date_added": "2023-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245823,
+      "name": "The Universe",
+      "url": "https://open.spotify.com/track/2GnGCPgB2ufQqvSuCBedwA"
     },
     {
       "album": {

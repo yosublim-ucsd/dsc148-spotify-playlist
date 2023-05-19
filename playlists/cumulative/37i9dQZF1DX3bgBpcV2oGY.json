@@ -95,6 +95,24 @@
     },
     {
       "album": {
+        "name": "After the Rain",
+        "url": "https://open.spotify.com/album/68kVm95bJvp3yYwLvkQwnF"
+      },
+      "artists": [
+        {
+          "name": "Andreas Horschel",
+          "url": "https://open.spotify.com/artist/7jtXTNxn8Q0LVzvSjIlldV"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124412,
+      "name": "After the Rain",
+      "url": "https://open.spotify.com/track/2aG0red2pPM6Jywl3ugaDp"
+    },
+    {
+      "album": {
         "name": "Caleufu",
         "url": "https://open.spotify.com/album/3g2oqlTFYSmPwRPPRlyL12"
       },
@@ -182,6 +200,24 @@
       "duration_ms": 124086,
       "name": "As I Moved On",
       "url": "https://open.spotify.com/track/6mJ5wnRsW5aunBg0VwczZE"
+    },
+    {
+      "album": {
+        "name": "Auriga",
+        "url": "https://open.spotify.com/album/5lfLmZ0cDZkLuuuxcYmAHX"
+      },
+      "artists": [
+        {
+          "name": "J\u00f3natan Tinek",
+          "url": "https://open.spotify.com/artist/3m1CHyq4P8IYZyEn4A2qVF"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126804,
+      "name": "Auriga",
+      "url": "https://open.spotify.com/track/2zsdrxxu5MPUkI6Iin4LUd"
     },
     {
       "album": {
@@ -563,6 +599,24 @@
     },
     {
       "album": {
+        "name": "Confessions",
+        "url": "https://open.spotify.com/album/2qQ6MYfy2gstVqqgJC8HfC"
+      },
+      "artists": [
+        {
+          "name": "Maria Isabel Ferrer",
+          "url": "https://open.spotify.com/artist/2O25jw9AGamJtHPzUnCSz9"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145868,
+      "name": "Confessions",
+      "url": "https://open.spotify.com/track/2G3iLZLTl1MKp1k8ZXqYzi"
+    },
+    {
+      "album": {
         "name": "Contemplation",
         "url": "https://open.spotify.com/album/5q0V9WTTDKaQ6YR8TT07WQ"
       },
@@ -844,7 +898,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 138037,
       "name": "Dr\u00f8mmefanger",
       "url": "https://open.spotify.com/track/0T6bYCFzm1OZQYaKgpJw0e"
@@ -1064,7 +1118,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 150443,
       "name": "Figments Of My Story",
       "url": "https://open.spotify.com/track/0uUlq3jirKmXqaYeKqKj0k"
@@ -1665,6 +1719,24 @@
     },
     {
       "album": {
+        "name": "Lacrime",
+        "url": "https://open.spotify.com/album/0xh6Z1tnwWL1H79Lapk4AG"
+      },
+      "artists": [
+        {
+          "name": "DeLand",
+          "url": "https://open.spotify.com/artist/1Aop9zFg2iGOHdCIIbCWZ0"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111098,
+      "name": "Lacrime",
+      "url": "https://open.spotify.com/track/4kkylod0jvQnK7Ognj9OUP"
+    },
+    {
+      "album": {
         "name": "Laguna Blanca",
         "url": "https://open.spotify.com/album/6jQ90op173u5KInBVXVLCl"
       },
@@ -1806,6 +1878,42 @@
       "duration_ms": 162307,
       "name": "Lighthouse",
       "url": "https://open.spotify.com/track/527HRQnZDhhXM4fWV3iTga"
+    },
+    {
+      "album": {
+        "name": "Like my mother",
+        "url": "https://open.spotify.com/album/1cvNj7kgZNbD62upsVl8G7"
+      },
+      "artists": [
+        {
+          "name": "Constance Timon",
+          "url": "https://open.spotify.com/artist/5svEYMmK1IFN983jkqrG7f"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114709,
+      "name": "Like my mother",
+      "url": "https://open.spotify.com/track/4sMxXlkfWDBZvQ1C8hp27C"
+    },
+    {
+      "album": {
+        "name": "Lingering Bloom",
+        "url": "https://open.spotify.com/album/5uj7kIeWilrFDclzjtKMuR"
+      },
+      "artists": [
+        {
+          "name": "Toledo Heights",
+          "url": "https://open.spotify.com/artist/1nxXdVa0LIKGjk0eLLRM6q"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 104756,
+      "name": "Lingering Bloom",
+      "url": "https://open.spotify.com/track/4ZAvg7HUOB3jH9e5niRKgQ"
     },
     {
       "album": {
@@ -2324,7 +2432,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 162693,
       "name": "My Heart In Your Hands",
       "url": "https://open.spotify.com/track/5MxdTIHlQxvk9qMAcuLp7e"
@@ -2403,6 +2511,42 @@
     },
     {
       "album": {
+        "name": "Noonshine",
+        "url": "https://open.spotify.com/album/24FjqpHVdBuMyrYS49b8Ho"
+      },
+      "artists": [
+        {
+          "name": "Celia Cloten",
+          "url": "https://open.spotify.com/artist/43K8HrRsXFfNZqCjavPbsa"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129470,
+      "name": "Noonshine",
+      "url": "https://open.spotify.com/track/3WQo0KrZjjBNMYMcmQt0dU"
+    },
+    {
+      "album": {
+        "name": "northbound",
+        "url": "https://open.spotify.com/album/0OlobwdD3J8cVZ3z16eLJ4"
+      },
+      "artists": [
+        {
+          "name": "Leandra Costa",
+          "url": "https://open.spotify.com/artist/4pan7mPpKbyrhcNLveAiKr"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123870,
+      "name": "northbound",
+      "url": "https://open.spotify.com/track/0wel6YUiZGtGag0OfeAfCy"
+    },
+    {
+      "album": {
         "name": "Nuages",
         "url": "https://open.spotify.com/album/1PlJ20AoHnT8YM3upB3ViZ"
       },
@@ -2414,7 +2558,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 125820,
       "name": "Nuages",
       "url": "https://open.spotify.com/track/6fut7UQn4zwKRMnPvsS0mJ"
@@ -2558,7 +2702,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 176000,
       "name": "Pastime Paradise",
       "url": "https://open.spotify.com/track/32XwdgtZKcRtpDu0rt3z34"
@@ -3080,7 +3224,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 160589,
       "name": "Sphinx",
       "url": "https://open.spotify.com/track/740LzA4Z4ArwYZGSU61X6S"
@@ -3098,7 +3242,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 163366,
       "name": "Stairway to Heaven",
       "url": "https://open.spotify.com/track/52MugsFISb5ACXi5d8Z2kG"
@@ -3321,6 +3465,24 @@
     },
     {
       "album": {
+        "name": "To Relieve",
+        "url": "https://open.spotify.com/album/0JjFDlcSy6p5uTSAhfuaIv"
+      },
+      "artists": [
+        {
+          "name": "Elsa Pelling",
+          "url": "https://open.spotify.com/artist/6m3MUFzflTDG8M0r7Isk9U"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126432,
+      "name": "To Relieve",
+      "url": "https://open.spotify.com/track/0490op4KRBVJ7Gls9dU367"
+    },
+    {
+      "album": {
         "name": "Somewhere Ahead",
         "url": "https://open.spotify.com/album/5qoSYzAjuuMXA6AaIn5YJT"
       },
@@ -3354,6 +3516,24 @@
       "duration_ms": 140704,
       "name": "Toledo",
       "url": "https://open.spotify.com/track/4XLaUN06QecA0DDPHFmXBu"
+    },
+    {
+      "album": {
+        "name": "Tread Softly On My Dreams",
+        "url": "https://open.spotify.com/album/5qIRnWJbgxliOjXL1nolYx"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Sellier",
+          "url": "https://open.spotify.com/artist/68bFmMmumjz0ig4CCNeoLZ"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165310,
+      "name": "Tread Softly On My Dreams",
+      "url": "https://open.spotify.com/track/1qElJ8GKytO6U5IG7Adf9b"
     },
     {
       "album": {
@@ -3404,10 +3584,28 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 171857,
       "name": "Una nueva luz",
       "url": "https://open.spotify.com/track/5rkoE3Fp4n1WHPFqH0RGm1"
+    },
+    {
+      "album": {
+        "name": "Vals para Esperanza",
+        "url": "https://open.spotify.com/album/60JkvMUFyYye3IgxhecqA2"
+      },
+      "artists": [
+        {
+          "name": "Esteban Delano",
+          "url": "https://open.spotify.com/artist/1L2SxyOV2Cl8bHGXKDZOrN"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114056,
+      "name": "Vals para Esperanza",
+      "url": "https://open.spotify.com/track/1dqdIkrp2HJoYqVIvZIVXA"
     },
     {
       "album": {
@@ -3620,7 +3818,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 230452,
       "name": "Zauberblume",
       "url": "https://open.spotify.com/track/0FwDRIMPR7TRC0FQwd7yRQ"

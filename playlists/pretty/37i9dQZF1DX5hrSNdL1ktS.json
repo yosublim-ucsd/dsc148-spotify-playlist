@@ -1,12 +1,12 @@
 {
   "description": "Lo nuevo del popet\u00f3n y reggaet\u00f3n emergente en MX, con Yubeili y Karen M\u00e9ndez ",
-  "num_followers": 57139,
+  "num_followers": 57165,
   "original_name": "Urbano Fresh",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjMmJmZDY5ZWZiOGIzMjlhOGU4MmQ5ZTg1YTNmMmM3YWI3OWY0ZGZj",
+  "snapshot_id": "MCwyZjIxMzRjOWM2Yzg3NGY0MjBjMzM2MjI0MjU5MTdjMGY5OWFiNWM5",
   "tracks": [
     {
       "added_at": "2023-04-28 06:00:00",
@@ -1267,6 +1267,42 @@
     {
       "added_at": "2023-04-28 06:00:00",
       "album": {
+        "name": "Una Fresa",
+        "url": "https://open.spotify.com/album/4wI5wYLCNe0HamNt0YAoZs"
+      },
+      "artists": [
+        {
+          "name": "ATL",
+          "url": "https://open.spotify.com/artist/7moaTmrKrxOnFYW07pMEpg"
+        },
+        {
+          "name": "Domino Saints",
+          "url": "https://open.spotify.com/artist/4me3aAjTrjTDsSUnLcIXfZ"
+        }
+      ],
+      "duration_ms": 185000,
+      "name": "Locura Contigo",
+      "url": "https://open.spotify.com/track/6EJhvB66HavCJYtVDuS5yo"
+    },
+    {
+      "added_at": "2023-04-28 06:00:00",
+      "album": {
+        "name": "Dime",
+        "url": "https://open.spotify.com/album/7AqEjgf07HPFdnsC9mxNIz"
+      },
+      "artists": [
+        {
+          "name": "Santa Musa",
+          "url": "https://open.spotify.com/artist/2YQAd2AhnUBACG81W5DxNg"
+        }
+      ],
+      "duration_ms": 166666,
+      "name": "Dime",
+      "url": "https://open.spotify.com/track/6MEQ0MaLs5Na66Tsc8Fq7l"
+    },
+    {
+      "added_at": "2023-04-28 06:00:00",
+      "album": {
         "name": "Como Ni\u00f1os",
         "url": "https://open.spotify.com/album/5Sdp54VP8kKWdijOyAsGRV"
       },
@@ -1295,22 +1331,6 @@
       "duration_ms": 202560,
       "name": "Te vas",
       "url": "https://open.spotify.com/track/2X4YMUlzehFWJWV4AGLCdl"
-    },
-    {
-      "added_at": "2023-04-28 06:00:00",
-      "album": {
-        "name": "Dime",
-        "url": "https://open.spotify.com/album/7AqEjgf07HPFdnsC9mxNIz"
-      },
-      "artists": [
-        {
-          "name": "Santa Musa",
-          "url": "https://open.spotify.com/artist/2YQAd2AhnUBACG81W5DxNg"
-        }
-      ],
-      "duration_ms": 166666,
-      "name": "Dime",
-      "url": "https://open.spotify.com/track/6MEQ0MaLs5Na66Tsc8Fq7l"
     },
     {
       "added_at": "2023-04-28 06:00:00",
@@ -1427,22 +1447,18 @@
     {
       "added_at": "2023-04-28 06:00:00",
       "album": {
-        "name": "Pasajero",
-        "url": "https://open.spotify.com/album/1l81wYbC6bLJN8HjzERVNf"
+        "name": "C\u00f3mo Har\u00e9",
+        "url": "https://open.spotify.com/album/3122VI6TccbqMLfCWJF69y"
       },
       "artists": [
         {
-          "name": "Manni Martinez",
-          "url": "https://open.spotify.com/artist/3ofYRHc7Ceggkp7CqLAsLK"
-        },
-        {
-          "name": "Nando Produce",
-          "url": "https://open.spotify.com/artist/1w4C4n43HhI5bgubu3iIsI"
+          "name": "Panea",
+          "url": "https://open.spotify.com/artist/5knDqp1Rt5PCmJF46vWLC4"
         }
       ],
-      "duration_ms": 180645,
-      "name": "Pasajero",
-      "url": "https://open.spotify.com/track/1vKcQKhFjl7QxiFUAim1Bf"
+      "duration_ms": 182526,
+      "name": "C\u00f3mo Har\u00e9?",
+      "url": "https://open.spotify.com/track/2zh2oQk6qMKYx7NYwWTGHx"
     },
     {
       "added_at": "2023-04-28 06:00:00",
@@ -1471,22 +1487,22 @@
     {
       "added_at": "2023-04-28 06:00:00",
       "album": {
-        "name": "Una Fresa",
-        "url": "https://open.spotify.com/album/4wI5wYLCNe0HamNt0YAoZs"
+        "name": "Pasajero",
+        "url": "https://open.spotify.com/album/1l81wYbC6bLJN8HjzERVNf"
       },
       "artists": [
         {
-          "name": "ATL",
-          "url": "https://open.spotify.com/artist/7moaTmrKrxOnFYW07pMEpg"
+          "name": "Manni Martinez",
+          "url": "https://open.spotify.com/artist/3ofYRHc7Ceggkp7CqLAsLK"
         },
         {
-          "name": "Domino Saints",
-          "url": "https://open.spotify.com/artist/4me3aAjTrjTDsSUnLcIXfZ"
+          "name": "Nando Produce",
+          "url": "https://open.spotify.com/artist/1w4C4n43HhI5bgubu3iIsI"
         }
       ],
-      "duration_ms": 185000,
-      "name": "Locura Contigo",
-      "url": "https://open.spotify.com/track/6EJhvB66HavCJYtVDuS5yo"
+      "duration_ms": 180645,
+      "name": "Pasajero",
+      "url": "https://open.spotify.com/track/1vKcQKhFjl7QxiFUAim1Bf"
     },
     {
       "added_at": "2023-04-28 06:00:00",
@@ -1519,6 +1535,26 @@
       "duration_ms": 168000,
       "name": "Hawaii",
       "url": "https://open.spotify.com/track/6dJTU6YbvAM5uIGsbhbAuk"
+    },
+    {
+      "added_at": "2023-04-28 06:00:00",
+      "album": {
+        "name": "Par de Gente",
+        "url": "https://open.spotify.com/album/1FzuiWEtaWtMuvj61qatPq"
+      },
+      "artists": [
+        {
+          "name": "Christopher Rafael",
+          "url": "https://open.spotify.com/artist/0UzqLxUiIgatEfQfxEN26K"
+        },
+        {
+          "name": "Erick Joel",
+          "url": "https://open.spotify.com/artist/6NZX7uR97qxDVDU1EOD8x9"
+        }
+      ],
+      "duration_ms": 218096,
+      "name": "Par de Gente",
+      "url": "https://open.spotify.com/track/327Pw4I4Q9kkTSEhIkJwva"
     },
     {
       "added_at": "2023-04-28 06:00:00",
@@ -1563,26 +1599,6 @@
     {
       "added_at": "2023-04-28 06:00:00",
       "album": {
-        "name": "Par de Gente",
-        "url": "https://open.spotify.com/album/1FzuiWEtaWtMuvj61qatPq"
-      },
-      "artists": [
-        {
-          "name": "Christopher Rafael",
-          "url": "https://open.spotify.com/artist/0UzqLxUiIgatEfQfxEN26K"
-        },
-        {
-          "name": "Erick Joel",
-          "url": "https://open.spotify.com/artist/6NZX7uR97qxDVDU1EOD8x9"
-        }
-      ],
-      "duration_ms": 218096,
-      "name": "Par de Gente",
-      "url": "https://open.spotify.com/track/327Pw4I4Q9kkTSEhIkJwva"
-    },
-    {
-      "added_at": "2023-04-28 06:00:00",
-      "album": {
         "name": "REGGAETON SAD",
         "url": "https://open.spotify.com/album/6hDzYcv7Uyy0SOxTVrkdeW"
       },
@@ -1595,22 +1611,6 @@
       "duration_ms": 198120,
       "name": "REGGAETON SAD",
       "url": "https://open.spotify.com/track/6MUdaMmlboGccKv9Fm5Ze3"
-    },
-    {
-      "added_at": "2023-04-28 06:00:00",
-      "album": {
-        "name": "C\u00f3mo Har\u00e9",
-        "url": "https://open.spotify.com/album/3122VI6TccbqMLfCWJF69y"
-      },
-      "artists": [
-        {
-          "name": "Panea",
-          "url": "https://open.spotify.com/artist/5knDqp1Rt5PCmJF46vWLC4"
-        }
-      ],
-      "duration_ms": 182526,
-      "name": "C\u00f3mo Har\u00e9?",
-      "url": "https://open.spotify.com/track/2zh2oQk6qMKYx7NYwWTGHx"
     },
     {
       "added_at": "2023-04-28 06:00:00",
@@ -1707,22 +1707,6 @@
     {
       "added_at": "2023-04-28 06:00:00",
       "album": {
-        "name": "La Disco",
-        "url": "https://open.spotify.com/album/1RzGYq972n3kPfwuUOC0Xa"
-      },
-      "artists": [
-        {
-          "name": "TipoSierraBros",
-          "url": "https://open.spotify.com/artist/5Hn6UFrZhAUTSFvAnB7Jk1"
-        }
-      ],
-      "duration_ms": 134974,
-      "name": "La Disco",
-      "url": "https://open.spotify.com/track/0NfrMeZPXFKZs2gEWCxEDx"
-    },
-    {
-      "added_at": "2023-04-28 06:00:00",
-      "album": {
         "name": "Aventura",
         "url": "https://open.spotify.com/album/1ljsucPW8utDwpUPS2ebA1"
       },
@@ -1739,6 +1723,22 @@
       "duration_ms": 133889,
       "name": "Aventura",
       "url": "https://open.spotify.com/track/6i6QIwPqUNWHXqrp3UWcab"
+    },
+    {
+      "added_at": "2023-04-28 06:00:00",
+      "album": {
+        "name": "La Disco",
+        "url": "https://open.spotify.com/album/1RzGYq972n3kPfwuUOC0Xa"
+      },
+      "artists": [
+        {
+          "name": "TipoSierraBros",
+          "url": "https://open.spotify.com/artist/5Hn6UFrZhAUTSFvAnB7Jk1"
+        }
+      ],
+      "duration_ms": 134974,
+      "name": "La Disco",
+      "url": "https://open.spotify.com/track/0NfrMeZPXFKZs2gEWCxEDx"
     },
     {
       "added_at": "2023-04-28 06:00:00",
@@ -1819,22 +1819,6 @@
     {
       "added_at": "2023-04-28 06:00:00",
       "album": {
-        "name": "Madura",
-        "url": "https://open.spotify.com/album/2QFDZHqOJrED4xW4dyZjWa"
-      },
-      "artists": [
-        {
-          "name": "Cristian Herrera",
-          "url": "https://open.spotify.com/artist/6o0meKKVcm1s4uEZhhKjyD"
-        }
-      ],
-      "duration_ms": 167369,
-      "name": "Madura",
-      "url": "https://open.spotify.com/track/6pWcPQqZId57tTc0WCBkjS"
-    },
-    {
-      "added_at": "2023-04-28 06:00:00",
-      "album": {
         "name": "Te Acuerdas",
         "url": "https://open.spotify.com/album/6iFApmwM9WTGmGHDs8mjtH"
       },
@@ -1855,6 +1839,22 @@
       "duration_ms": 160574,
       "name": "Te Acuerdas",
       "url": "https://open.spotify.com/track/4JoDK5TniOJXdraIz25yV7"
+    },
+    {
+      "added_at": "2023-04-28 06:00:00",
+      "album": {
+        "name": "Madura",
+        "url": "https://open.spotify.com/album/2QFDZHqOJrED4xW4dyZjWa"
+      },
+      "artists": [
+        {
+          "name": "Cristian Herrera",
+          "url": "https://open.spotify.com/artist/6o0meKKVcm1s4uEZhhKjyD"
+        }
+      ],
+      "duration_ms": 167369,
+      "name": "Madura",
+      "url": "https://open.spotify.com/track/6pWcPQqZId57tTc0WCBkjS"
     },
     {
       "added_at": "2023-04-28 06:00:00",
@@ -1943,6 +1943,26 @@
     {
       "added_at": "2023-04-28 06:00:00",
       "album": {
+        "name": "Calle pero Elegante",
+        "url": "https://open.spotify.com/album/4HbAFBuOTirqALcQzPIJL7"
+      },
+      "artists": [
+        {
+          "name": "Charly Gynn",
+          "url": "https://open.spotify.com/artist/3ozO2Uj1PEP2h2SzFVTgYT"
+        },
+        {
+          "name": "Jace Kimura",
+          "url": "https://open.spotify.com/artist/1dpESFMBHdUhFSGOXlcutO"
+        }
+      ],
+      "duration_ms": 197930,
+      "name": "Calle pero Elegante",
+      "url": "https://open.spotify.com/track/6aofSgbaXPW7vxxYs6vHB6"
+    },
+    {
+      "added_at": "2023-04-28 06:00:00",
+      "album": {
         "name": "Ponte Puti",
         "url": "https://open.spotify.com/album/1QQv0eRIX26yJKH6AijxOT"
       },
@@ -1963,26 +1983,6 @@
       "duration_ms": 186122,
       "name": "Ponte Puti",
       "url": "https://open.spotify.com/track/6mNKWF3vmMDmYu0dWyqNT9"
-    },
-    {
-      "added_at": "2023-04-28 06:00:00",
-      "album": {
-        "name": "Calle pero Elegante",
-        "url": "https://open.spotify.com/album/4HbAFBuOTirqALcQzPIJL7"
-      },
-      "artists": [
-        {
-          "name": "Charly Gynn",
-          "url": "https://open.spotify.com/artist/3ozO2Uj1PEP2h2SzFVTgYT"
-        },
-        {
-          "name": "Jace Kimura",
-          "url": "https://open.spotify.com/artist/1dpESFMBHdUhFSGOXlcutO"
-        }
-      ],
-      "duration_ms": 197930,
-      "name": "Calle pero Elegante",
-      "url": "https://open.spotify.com/track/6aofSgbaXPW7vxxYs6vHB6"
     },
     {
       "added_at": "2023-04-28 06:00:00",

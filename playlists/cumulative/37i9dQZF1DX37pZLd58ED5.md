@@ -4,7 +4,7 @@
 
 > Solo beat e rime avvolgenti\. Cover: Tedua
 
-109 songs - 6 hr 0 min
+111 songs - 6 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,6 +68,7 @@
 | [Lei È...](https://open.spotify.com/track/6VJCsvAbFi0webNvv8zzWZ) | [Silent Bob](https://open.spotify.com/artist/4oEO6Ud3efrjTNSR9SMleI), [Sick Budd](https://open.spotify.com/artist/5h8RF4h6OhX1zIssiLPndr) | [Habitat Cielo](https://open.spotify.com/album/7sBtYYq0pLiMncQC7NxlKc) | 2:44 | 2023-04-13 |  |
 | [Lo\-fi For U](https://open.spotify.com/track/7GtexZT8gVCDExYIeUWnl9) | [Tedua](https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7), [SHUNE](https://open.spotify.com/artist/5YV5crRpcdknHgEzystZHr) | [Lo\-fi For U](https://open.spotify.com/album/0qQy8Go8njStQdH92jsSrb) | 3:23 | 2022-12-05 |  |
 | [LOCO](https://open.spotify.com/track/3lN2jXIlpMJETk3zzFkoAy) | [Salmo](https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW), [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27), [Sixpm](https://open.spotify.com/artist/1DqxHZcNsyQouEIgARx6Zx) | [BLOCCO 181 – ORIGINAL SOUNDTRACK](https://open.spotify.com/album/7jfOGP1vsNecfYTcwN3AyH) | 2:17 | 2022-05-31 | 2022-06-20 |
+| [LONTANO \- carlito's way](https://open.spotify.com/track/2t1dculU2L9HxEIzB00Xpk) | [Emis Killa](https://open.spotify.com/artist/6FtwCmLY6L1sqvjaQ2lV6G), [Neima Ezza](https://open.spotify.com/artist/754BUADwzMYecBgOoBaetK) | [Effetto notte](https://open.spotify.com/album/39wuRno08Rl0Jsse2kCHga) | 2:46 | 2023-05-18 |  |
 | [Lontano Dai Guai \(feat\. Mahmood\)](https://open.spotify.com/track/2CeXk2ZsTwmJFBWXUSXPzf) | [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27), [Mahmood](https://open.spotify.com/artist/06nvjg4wBANK6DCHjqtPNd) | [Madreperla](https://open.spotify.com/album/5FnVg6RBrEFUIEpHRw8EB1) | 3:40 | 2023-01-13 | 2023-03-18 |
 | [LUNEDI'](https://open.spotify.com/track/1VNARx6Sm6ZYAsDMCGiU1B) | [Salmo](https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW) | [Playlist](https://open.spotify.com/album/5F6r4JU7TdqI8YOWzj6Fyn) | 3:25 | 2022-04-28 |  |
 | [m12ano \- feat\. Mara Sattei](https://open.spotify.com/track/0LfMuWu6FKNSDHEoxHu9iK) | [thasup](https://open.spotify.com/artist/19i93sA0D7yS9dYoVNBqAA), [Mara Sattei](https://open.spotify.com/artist/0zoMmzmyi8N8LwzhyXPvtk) | [23 6451](https://open.spotify.com/album/42wflBbrb9OchJfd3qiGRO) | 3:08 | 2022-04-28 | 2022-11-25 |
@@ -117,5 +118,6 @@
 | [Univers](https://open.spotify.com/track/2hL3IwpnKgRkM2M1yGiLmA) | [Clementino](https://open.spotify.com/artist/0ba6wsfB7G2rhdHMebCdO3), [2nd Roof](https://open.spotify.com/artist/1eznSku2RY9VSvkhWxXdmx) | [Black Pulcinella](https://open.spotify.com/album/44BqX1Kc6bSgUb3SvWF0k6) | 3:32 | 2022-04-28 | 2022-05-20 |
 | [Vertigini](https://open.spotify.com/track/1Oou7m2VuxCDSOdqsu07TU) | [Tedua](https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7), [Chris Nolan](https://open.spotify.com/artist/1xsYReh7zhty26wD4tprKh) | [Mowgli](https://open.spotify.com/album/2F4YVNFy52kTEGDXdeYiZX) | 3:23 | 2022-04-28 |  |
 | [Vestiti D’Odio \(con PSICOLOGI\)](https://open.spotify.com/track/3NLE4ioQE8aWxoJjk2IQTC) | [Tredici Pietro](https://open.spotify.com/artist/0RENwV6Phsp2y8nnFJ54UC), [PSICOLOGI](https://open.spotify.com/artist/0fskdccy6fvnWMNMNPqEro), [Mr\. Monkey](https://open.spotify.com/artist/1sHljqzdPCaYRcFrkHW8if) | [Vestiti D’Odio \(con PSICOLOGI\)](https://open.spotify.com/album/00yrlb5Oun1DVBxkAwthTx) | 2:51 | 2022-04-28 |  |
+| [VISCERALE \- closer](https://open.spotify.com/track/7bgJm5Z7EpvXRMdysiUjCj) | [Emis Killa](https://open.spotify.com/artist/6FtwCmLY6L1sqvjaQ2lV6G), [Rizzo](https://open.spotify.com/artist/2ALJBMyhbGODOEpstHfEqN) | [Effetto notte](https://open.spotify.com/album/39wuRno08Rl0Jsse2kCHga) | 3:04 | 2023-05-18 |  |
 
 \*This playlist was first scraped on 2022-05-12. Prior content cannot be recovered.

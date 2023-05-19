@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-12-01",
-  "description": "Le R&B fran\u00e7ais, nouvelle \u00e8re. Photo : Lynda",
+  "description": "Le R&B fran\u00e7ais, nouvelle \u00e8re. Photo : Franglish",
   "name": "R&Bae",
   "tracks": [
     {
@@ -150,7 +150,7 @@
       ],
       "date_added": "2023-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 190951,
       "name": "Au revoir",
       "url": "https://open.spotify.com/track/23wU0bMRU5wdIivfygtfIE"
@@ -197,6 +197,28 @@
     },
     {
       "album": {
+        "name": "DATA",
+        "url": "https://open.spotify.com/album/4HD7rLQRk7IoYpBE93aW6f"
+      },
+      "artists": [
+        {
+          "name": "Kenyon",
+          "url": "https://open.spotify.com/artist/3ef02ttcTCxK0cQ68glIQ6"
+        },
+        {
+          "name": "Pix'L",
+          "url": "https://open.spotify.com/artist/3cDIf3HM6LGZYUKQJZbHFA"
+        }
+      ],
+      "date_added": "2023-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167500,
+      "name": "BABYMAMA",
+      "url": "https://open.spotify.com/track/6oEDg2yw9M0NtWAWtPxEca"
+    },
+    {
+      "album": {
         "name": "BB",
         "url": "https://open.spotify.com/album/1aJnsqQzrqxCvcTxXxM50M"
       },
@@ -212,6 +234,28 @@
       "duration_ms": 125574,
       "name": "BB",
       "url": "https://open.spotify.com/track/1LuYLVEVdXwHpgnEM7BNeq"
+    },
+    {
+      "album": {
+        "name": "BBM",
+        "url": "https://open.spotify.com/album/5KUSAHvsFggDzuRk4uzvyZ"
+      },
+      "artists": [
+        {
+          "name": "Fresh",
+          "url": "https://open.spotify.com/artist/3W9AQyaIGdR8htZXVGwl1X"
+        },
+        {
+          "name": "Naza",
+          "url": "https://open.spotify.com/artist/7xNYY1Zkb1vks5m9ATlJok"
+        }
+      ],
+      "date_added": "2023-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179164,
+      "name": "BBM",
+      "url": "https://open.spotify.com/track/7dMVHcxpbKHHLESDNvHtlf"
     },
     {
       "album": {
@@ -422,7 +466,7 @@
       ],
       "date_added": "2023-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 160053,
       "name": "Comme mon ex",
       "url": "https://open.spotify.com/track/1PxBGLSGiK7X5RmmoDVaPr"
@@ -835,6 +879,24 @@
     },
     {
       "album": {
+        "name": "Go",
+        "url": "https://open.spotify.com/album/7rO6wNrH5Q2tfGtaUdT4Ef"
+      },
+      "artists": [
+        {
+          "name": "Franglish",
+          "url": "https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw"
+        }
+      ],
+      "date_added": "2023-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179902,
+      "name": "Go",
+      "url": "https://open.spotify.com/track/5AtFjz8lwWRKdMePvihCsT"
+    },
+    {
+      "album": {
         "name": "Go\u00fbter",
         "url": "https://open.spotify.com/album/7pVuxI7Jz8aQa5rIOCcMcI"
       },
@@ -846,7 +908,7 @@
       ],
       "date_added": "2023-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 152064,
       "name": "Go\u00fbter",
       "url": "https://open.spotify.com/track/5Ub4lK3WGGm0HtkDid7ZRH"
@@ -1388,7 +1450,7 @@
       ],
       "date_added": "2023-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 146066,
       "name": "Ma Lova",
       "url": "https://open.spotify.com/track/55kqm5pv3oQcZpClUEHo1C"
@@ -1496,7 +1558,7 @@
       ],
       "date_added": "2023-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 156706,
       "name": "Manico",
       "url": "https://open.spotify.com/track/1hdUgNBjhrZrHHq8shkOPE"
@@ -2357,6 +2419,24 @@
     },
     {
       "album": {
+        "name": "WAVYSHAWTY",
+        "url": "https://open.spotify.com/album/1hKUNPmRzykqlZLmRBzG7c"
+      },
+      "artists": [
+        {
+          "name": "HARON",
+          "url": "https://open.spotify.com/artist/7z43TluM9EYBKS5io7OYVr"
+        }
+      ],
+      "date_added": "2023-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182325,
+      "name": "WAVYSHAWTY",
+      "url": "https://open.spotify.com/track/0E1scA58vjVFBHQEzrlXZC"
+    },
+    {
+      "album": {
         "name": "Yoyo",
         "url": "https://open.spotify.com/album/37x2aZDoCSpJUtaEfdfw4V"
       },
@@ -2372,6 +2452,24 @@
       "duration_ms": 204175,
       "name": "Yoyo",
       "url": "https://open.spotify.com/track/72dTIgAVI6vZQI4B0GhcYr"
+    },
+    {
+      "album": {
+        "name": "Zina",
+        "url": "https://open.spotify.com/album/2ctn0Isyb0sySJ8tLoxb8X"
+      },
+      "artists": [
+        {
+          "name": "Emkal",
+          "url": "https://open.spotify.com/artist/4ZPLdCBeYJBAjsLTWRcZEs"
+        }
+      ],
+      "date_added": "2023-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136471,
+      "name": "Zina",
+      "url": "https://open.spotify.com/track/3EhZJlhHrDOamXhXSoZbL0"
     },
     {
       "album": {

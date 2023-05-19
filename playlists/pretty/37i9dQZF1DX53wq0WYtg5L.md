@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX53wq0WYtg5L.md) - [plain]
 
 > Celebremos el orgullo mexicano con estas alegres canciones.
 
-[Spotify](https://open.spotify.com/user/spotify) - 538,440 likes - 100 songs - 5 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 538,501 likes - 100 songs - 5 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,12 +66,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX53wq0WYtg5L.md) - [plain]
 | 56 | [Virgencita de Zapopan](https://open.spotify.com/track/3aKGVttskmuUXIvewY5Tca) | [José Alfredo Jimenez](https://open.spotify.com/artist/2T06whb4s6UiufL1j5Qtz9) | [Las 100 Clasicas Vol\. 1](https://open.spotify.com/album/1i8CmdQ0aYkeP9nlNuyQ1Y) | 3:35 |
 | 57 | [Mi Zacatecas Querido](https://open.spotify.com/track/7HkXxQLscUki9gCeMMMwPM) | [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit) | [A la Medida](https://open.spotify.com/album/6efOKRzidSTHQXjUyHmCM4) | 3:21 |
 | 58 | [La Adelita](https://open.spotify.com/track/2GQUkQXwOgt3ZaQHLEuCfx) | [Mariachi Azteca](https://open.spotify.com/artist/2uQSnz6JKQynX8x4BigTTW) | [Mariachi Azteca](https://open.spotify.com/album/224xkKynDgFfWPQXnTTgMo) | 1:57 |
-| 59 | [El Pajaro Carpintero](https://open.spotify.com/track/2iSHhdoHxagu8wQZcLn8N0) | [Mariachi Sol](https://open.spotify.com/artist/07CAFCz1O4aIpqgXZjdQHC) | [Mariachi Sol: Viva Mexico](https://open.spotify.com/album/3aoj6ws1N6ePqf9H4uG4OS) | 2:54 |
-| 60 | [Puro Cachanilla](https://open.spotify.com/track/6Ahpr5bhGJMHu0QTy4yoky) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Por Tu Maldito Amor](https://open.spotify.com/album/0l6LuLWe4X9EqsPSoU7CE7) | 3:21 |
+| 59 | [Puro Cachanilla](https://open.spotify.com/track/6Ahpr5bhGJMHu0QTy4yoky) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Por Tu Maldito Amor](https://open.spotify.com/album/0l6LuLWe4X9EqsPSoU7CE7) | 3:21 |
+| 60 | [El Pajaro Carpintero](https://open.spotify.com/track/2iSHhdoHxagu8wQZcLn8N0) | [Mariachi Sol](https://open.spotify.com/artist/07CAFCz1O4aIpqgXZjdQHC) | [Mariachi Sol: Viva Mexico](https://open.spotify.com/album/3aoj6ws1N6ePqf9H4uG4OS) | 2:54 |
 | 61 | [Fiesta Charra](https://open.spotify.com/track/17Y6WieNYdlMAC5QKyzFOT) | [Mariachi Nuevo Tecalitlan](https://open.spotify.com/artist/3KtTHCjZygtJHbR1yI2ugS) | [Sones](https://open.spotify.com/album/56QWjizDkOz0LQcwacfNYn) | 3:24 |
 | 62 | [Esos Altos de Jalisco \- Remastered](https://open.spotify.com/track/6n0nFNFmYsPV277I0D4z2F) | [Jorge Negrete](https://open.spotify.com/artist/4W5RbLZybsLfAzE7QqdibE) | [Viva México \(Remastered\)](https://open.spotify.com/album/5Vvkijcd0ytPuVRv6CMjJz) | 2:39 |
-| 63 | [La Petenera \(Medley\)](https://open.spotify.com/track/3P0TvGizbuE8uZvIUwjGKo) | [Mariachi Los Camperos](https://open.spotify.com/artist/7vPYT79nMovLYmO2M3nTe5) | [Tradición, Arte y Pasión](https://open.spotify.com/album/3UeGxT4MIkqxp1kJxvOS2f) | 6:16 |
-| 64 | [Toro Relajo](https://open.spotify.com/track/6bbGtzZoVj815f56H51uJR) | [Mariachi Nuevo Ordaz de Purépero](https://open.spotify.com/artist/17L3NKBruc70djZG4gKVIs) | [Cuando México Canta](https://open.spotify.com/album/5XU80uT7Z4FEcMoIyonTIW) | 2:29 |
+| 63 | [Toro Relajo](https://open.spotify.com/track/6bbGtzZoVj815f56H51uJR) | [Mariachi Nuevo Ordaz de Purépero](https://open.spotify.com/artist/17L3NKBruc70djZG4gKVIs) | [Cuando México Canta](https://open.spotify.com/album/5XU80uT7Z4FEcMoIyonTIW) | 2:29 |
+| 64 | [La Petenera \(Medley\)](https://open.spotify.com/track/3P0TvGizbuE8uZvIUwjGKo) | [Mariachi Los Camperos](https://open.spotify.com/artist/7vPYT79nMovLYmO2M3nTe5) | [Tradición, Arte y Pasión](https://open.spotify.com/album/3UeGxT4MIkqxp1kJxvOS2f) | 6:16 |
 | 65 | [El Herradero \- Remastered](https://open.spotify.com/track/6ymFvQN3Tfd3CXpyJvIok3) | [Lola Beltrán](https://open.spotify.com/artist/0qZlB7IX5lWPhlxsayt31p) | [La Voz de México \(Remastered\)](https://open.spotify.com/album/54UWox3ZbHcH8mREa1uJdE) | 3:13 |
 | 66 | [El Jarabe Jalisciense](https://open.spotify.com/track/61hQy77rFr00EAYstdsMCK) | [Estampas De Mexico](https://open.spotify.com/artist/3lkD5FY5TNDAToUDSPds3m) | [Estampas De Mexico: Traditional Music From Mexico](https://open.spotify.com/album/2PqVWEcZDden0DKQ1o05hm) | 4:22 |
 | 67 | [Las Abajenas](https://open.spotify.com/track/2lUFQMUDXVtga7AeuSagzK) | [Mariachi Cobre](https://open.spotify.com/artist/0BlBCNf7s8Ua8CeX1VKXZQ) | [Mariachi Cobre: Este Es Mi Mariachi](https://open.spotify.com/album/3nvfqq53rJB9lzBKVQQC2z) | 2:24 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX53wq0WYtg5L.md) - [plain]
 | 99 | [La Verdolaga \(Huapango\)](https://open.spotify.com/track/3sZHqEOkquQLgcKddk2UfQ) | [Mariachi Vargas De Tecalitlán](https://open.spotify.com/artist/0JTujDbHVqhWAGl06aaW78) | [Rubén Fuentes, Miguel Martínez, Silvestre Vargas](https://open.spotify.com/album/4Zraph4xdA7evbLQbwT7In) | 3:10 |
 | 100 | [El Hidalguense](https://open.spotify.com/track/5vozBkZkjmew8kVuPxWOnY) | [Mariachi Vargas De Tecalitlán](https://open.spotify.com/artist/0JTujDbHVqhWAGl06aaW78) | [RCA 100 Anos De Musica \- Segunda Parte](https://open.spotify.com/album/2uJqbXKxHtQHoeU6CK0RvY) | 3:17 |
 
-Snapshot ID: `MCwwZTY0ZWUwNjQ3NTk4MGRjYjU1MWRlYTI0MTNhMGE3Y2ExNDM2YmNm`
+Snapshot ID: `MCwzOTMwZWQ3NmRjM2Q2MTQ3NGI5MWYwNjhjNjBiOGU0ZmRjMThmY2Rj`

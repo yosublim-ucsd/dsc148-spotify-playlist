@@ -1132,7 +1132,7 @@
       ],
       "date_added": "2021-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 244360,
       "name": "Another Love",
       "url": "https://open.spotify.com/track/7jtQIBanIiJOMS6RyCx6jZ"
@@ -1634,7 +1634,7 @@
       ],
       "date_added": "2023-01-21",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-12",
+      "date_removed": null,
       "duration_ms": 164682,
       "name": "BABY SAID",
       "url": "https://open.spotify.com/track/2KReCz1L5XkGIBhDncQ5VZ"
@@ -2746,7 +2746,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 131013,
-      "name": "Boy's a liar Pt. 2",
+      "name": "Boy's a Liar Pt. 2",
       "url": "https://open.spotify.com/track/6AQbmUe0Qwf5PZnt4HmTXv"
     },
     {
@@ -6690,7 +6690,7 @@
       ],
       "date_added": "2023-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 214133,
       "name": "Euphoria",
       "url": "https://open.spotify.com/track/2knr7ikPt4l7bk92qS4ZXW"
@@ -11074,7 +11074,7 @@
       ],
       "date_added": "2022-12-13",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-18",
+      "date_removed": null,
       "duration_ms": 153946,
       "name": "Kill Bill",
       "url": "https://open.spotify.com/track/1Qrg8KqiBpW07V7PNxwwwL"
@@ -20946,7 +20946,7 @@
       ],
       "date_added": "2022-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 179545,
       "name": "Stefania (Kalush Orchestra)",
       "url": "https://open.spotify.com/track/2vHzOWRKYPLu8umRPIFuOq"
@@ -21322,6 +21322,24 @@
       "duration_ms": 193680,
       "name": "Superkangekaelne",
       "url": "https://open.spotify.com/track/2CDeZce964TrswJRrhwYXX"
+    },
+    {
+      "album": {
+        "name": "RUSH!",
+        "url": "https://open.spotify.com/album/2KUaR4K36tSliwAoUA1gcs"
+      },
+      "artists": [
+        {
+          "name": "M\u00e5neskin",
+          "url": "https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr"
+        }
+      ],
+      "date_added": "2023-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148064,
+      "name": "SUPERMODEL",
+      "url": "https://open.spotify.com/track/0eJmsdfbAOM1KD0w50EhlD"
     },
     {
       "album": {
@@ -23194,10 +23212,6 @@
         {
           "name": "Noa Kirel",
           "url": "https://open.spotify.com/artist/1wak0ZG1LUrZPYx8RDTQoD"
-        },
-        {
-          "name": "\u05db\u05d0\u05df - \u05ea\u05d0\u05d2\u05d9\u05d3 \u05d4\u05e9\u05d9\u05d3\u05d5\u05e8 \u05d4\u05d9\u05e9\u05e8\u05d0\u05dc\u05d9",
-          "url": "https://open.spotify.com/artist/2N9Cvh536WBOePrevGKIlj"
         }
       ],
       "date_added": "2023-05-11",

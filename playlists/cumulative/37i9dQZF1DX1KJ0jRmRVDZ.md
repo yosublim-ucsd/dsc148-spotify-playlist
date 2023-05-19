@@ -4,7 +4,7 @@
 
 > インターネット・カルチャーから次々と出現するアーティストを特集。Check out artists of the new Internet age! Illustration by <a href="https://twitter.com/hoshieri7">北村英理</a>\(Eri Kitamura\)
 
-721 songs - 1 day 17 hr 14 min
+722 songs - 1 day 17 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -504,8 +504,9 @@
 | [冬海 feat\. 須田景凪](https://open.spotify.com/track/6P6PQhUqR6pxq133y0DRPk) | [Lanndo](https://open.spotify.com/artist/1UQu3kQBRro86Vj6naqhQk), [須田景凪](https://open.spotify.com/artist/5dWE3G7COO82G6vRy2Hpum) | [冬海 feat\. 須田景凪](https://open.spotify.com/album/2ZpIQ7k0EiYeeYyO9mKUtg) | 4:39 | 2022-11-22 | 2022-11-24 |
 | [凡人様](https://open.spotify.com/track/7HAHK002tQfVc9M8n6C7je) | [紫 今](https://open.spotify.com/artist/0iWST9kIo1KHBRQ5mYAqmY) | [Gallery](https://open.spotify.com/album/5hLfzMZGHXrYAHA9UTxi1U) | 4:11 | 2023-05-09 |  |
 | [分身](https://open.spotify.com/track/3hmCw7M1KL5tXnI0RksmJK) | [Wolpis Carter](https://open.spotify.com/artist/5gBtcJIa6ZLJB1HUwfik4J) | [分身 \-Bunshin\-](https://open.spotify.com/album/3OmklSJp60FTTw1mogR6Yk) | 2:54 | 2022-06-16 | 2022-07-14 |
+| [別れ花](https://open.spotify.com/track/3daBPaEPPBxpUpDFTYRiw7) | [すりぃ](https://open.spotify.com/artist/29XdcKZcwr9ikcmxud5UEa) | [別れ花](https://open.spotify.com/album/4xCe2G83LCOPH6U61vfozT) | 4:42 | 2023-05-18 |  |
 | [前夜](https://open.spotify.com/track/57M5gx8YCxENPqSgNFoi8c) | [4na](https://open.spotify.com/artist/4oFbU35Y1ezMvUlB6B5MTF) | [余白にいたら、](https://open.spotify.com/album/7FRSMhZwqwmU1kmmqyljCW) | 2:49 | 2023-03-08 | 2023-03-25 |
-| [化け猫](https://open.spotify.com/track/7wag9tAwUdqyfQMDUgY1g9) | [キタニタツヤ](https://open.spotify.com/artist/7mvhRvEAHiCTQHUnH7fgnv) | [化け猫](https://open.spotify.com/album/4nDK96OK3zDeE3rZkvG9E7) | 2:47 | 2022-12-13 |  |
+| [化け猫](https://open.spotify.com/track/7wag9tAwUdqyfQMDUgY1g9) | [キタニタツヤ](https://open.spotify.com/artist/7mvhRvEAHiCTQHUnH7fgnv) | [化け猫](https://open.spotify.com/album/4nDK96OK3zDeE3rZkvG9E7) | 2:47 | 2022-12-13 | 2023-05-19 |
 | [化け猫 \- Leaks From His Laptop](https://open.spotify.com/track/3Wnba0vkxR4nmXbaRF9foE) | [キタニタツヤ](https://open.spotify.com/artist/7mvhRvEAHiCTQHUnH7fgnv) | [化け猫 \(Leaks From His Laptop\)](https://open.spotify.com/album/5g9QalFqw7go87CtbuBbdK) | 0:56 | 2022-06-09 | 2023-01-11 |
 | [半端者](https://open.spotify.com/track/0jtfoVtew7OYQZSo1vGmr9) | [ケダルイ / Kedarui](https://open.spotify.com/artist/7gHZpr2PBTuIMu3zf3KAiO) | [半端者](https://open.spotify.com/album/6VcUHJAsWtRQCct2IgvEeO) | 3:15 | 2022-06-21 | 2022-07-21 |
 | [原罪と踊る](https://open.spotify.com/track/6Eo9ipFfhBKebfGa49NwTm) | [memex](https://open.spotify.com/artist/2qv0pPCrKMJjFIxkyEUMlE) | [原罪と踊る](https://open.spotify.com/album/270nCUHb0eiHvRIH3wzPmq) | 3:22 | 2022-10-13 | 2022-10-15 |

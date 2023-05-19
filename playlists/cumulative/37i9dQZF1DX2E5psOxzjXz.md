@@ -4,7 +4,7 @@
 
 > Explore Pakistan's thriving independent scene\. Discover more on <a href="https://open.spotify.com/playlist/37i9dQZF1DX30DGof92rQX?si=b3603f2de11c43a7">Pakistani Indie Rising</a>.
 
-186 songs - 10 hr 41 min
+187 songs - 10 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,6 +38,7 @@
 | [Bum Twirl](https://open.spotify.com/track/1B559YkhUtsMNWXlFsDuFJ) | [Rozeo](https://open.spotify.com/artist/0mojEh0eM7WmhBI4WBCmE0), [Talal Qureshi](https://open.spotify.com/artist/7aB58YJLqV4FXTMq9lZcm0) | [Bum Twirl](https://open.spotify.com/album/1PKJPVYQ4LFz6L6xuKvbLc) | 3:28 | 2021-12-06 | 2022-06-17 |
 | [Chad Gayi](https://open.spotify.com/track/4YLD5sgxNXXhDrb0Jltp01) | [Danny Zee](https://open.spotify.com/artist/70qZujn9S3knvDBUOJBYXP), [Alistair Alvin](https://open.spotify.com/artist/6oVcou7NADA31wfWBtZchF) | [Chad Gayi](https://open.spotify.com/album/7J3VIh1bQTiYvM8yO72l8Z) | 3:39 | 2022-01-18 | 2023-04-09 |
 | [Chalein Hum](https://open.spotify.com/track/7HzQwSosjSaKWdF3qze5ds) | [Taha G](https://open.spotify.com/artist/4sqyi6AnMdNtF5H0UD1Nv5), [Aashir Wajahat](https://open.spotify.com/artist/2BKraIhQwfQ5bdDkMVtAHc) | [Chalein Hum](https://open.spotify.com/album/5eHd9Uy6En0mwaSP0LroTc) | 3:06 | 2021-12-06 | 2023-04-09 |
+| [CHAMKEELA](https://open.spotify.com/track/7BRB830qcAMXktLRnH9Lle) | [Natasha Noorani](https://open.spotify.com/artist/1nGL9DljVpkRcayU8Wi285) | [Chamkeela](https://open.spotify.com/album/0UBowUDsgsONLykfLOV824) | 3:08 | 2023-05-18 |  |
 | [Chasing Blessings](https://open.spotify.com/track/3lhlSM1iVog6l9g5NxqVkE) | [Waqas](https://open.spotify.com/artist/3bnpn31sQbuTzqdBscYqyL) | [Chasing Blessings](https://open.spotify.com/album/2SkT1iTVd83rgDkcilL9h6) | 3:02 | 2021-12-06 | 2022-03-13 |
 | [Cheese](https://open.spotify.com/track/2BvnZRo7CyFo0JcMhmnBUA) | [ChillBazaar](https://open.spotify.com/artist/2NAjKl5QHznzsMfHy6cGOJ), [Marshall Ahmad](https://open.spotify.com/artist/3c7YStlXDTZyJjiIcsJDJP), [Izzchughtai](https://open.spotify.com/artist/211ei6ZiUeBMIXUZGBaJ4S) | [Cheese](https://open.spotify.com/album/7mCUKPoOkeiT2F1REIVjYG) | 3:15 | 2022-01-18 |  |
 | [Choro](https://open.spotify.com/track/13GkX2Jop4q9FxtGvwb3MH) | [Natasha Noorani](https://open.spotify.com/artist/1nGL9DljVpkRcayU8Wi285) | [Choro](https://open.spotify.com/album/47LlbY7qhYsG5aPXflzG69) | 3:52 | 2021-12-06 |  |

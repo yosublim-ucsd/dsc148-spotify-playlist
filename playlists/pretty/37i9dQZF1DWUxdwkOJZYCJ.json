@@ -1,12 +1,12 @@
 {
   "description": "Energetic tracks from the 1990s to boost your running session.",
-  "num_followers": 490827,
+  "num_followers": 491108,
   "original_name": "90s Pop Run",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3MzhhNzQ5N2MxODU4Yjc0NTk2ZDM2NjY4NDc1M2FjMGVkMjYwZmFk",
+  "snapshot_id": "MCxlOTZiYjJmZGRjOWZiZjk5ZWRlMjUyYjhhZDgzYzVmYWY3OGVkNWFm",
   "tracks": [
     {
       "added_at": "2023-01-03 14:53:32",
@@ -25,6 +25,54 @@
       "url": "https://open.spotify.com/track/1Je1IMUlBXcx1Fz0WE7oPT"
     },
     {
+      "added_at": "2023-05-18 19:03:21",
+      "album": {
+        "name": "...Baby One More Time (Digital Deluxe Version)",
+        "url": "https://open.spotify.com/album/3WNxdumkSMGMJRhEgK80qx"
+      },
+      "artists": [
+        {
+          "name": "Britney Spears",
+          "url": "https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4"
+        }
+      ],
+      "duration_ms": 211066,
+      "name": "...Baby One More Time",
+      "url": "https://open.spotify.com/track/3MjUtNVVq3C8Fn0MP3zhXa"
+    },
+    {
+      "added_at": "2023-05-18 19:03:21",
+      "album": {
+        "name": "Astro Lounge",
+        "url": "https://open.spotify.com/album/2kyTLcEZe6nc1s6ve0zW9P"
+      },
+      "artists": [
+        {
+          "name": "Smash Mouth",
+          "url": "https://open.spotify.com/artist/2iEvnFsWxR0Syqu2JNopAd"
+        }
+      ],
+      "duration_ms": 200373,
+      "name": "All Star",
+      "url": "https://open.spotify.com/track/3cfOd4CMv2snFaKAnMdnvK"
+    },
+    {
+      "added_at": "2023-05-18 19:07:10",
+      "album": {
+        "name": "August And Everything After",
+        "url": "https://open.spotify.com/album/4nKfZbCALT9H9LfedtDwnZ"
+      },
+      "artists": [
+        {
+          "name": "Counting Crows",
+          "url": "https://open.spotify.com/artist/0vEsuISMWAKNctLlUAhSZC"
+        }
+      ],
+      "duration_ms": 272293,
+      "name": "Mr. Jones",
+      "url": "https://open.spotify.com/track/5DiXcVovI0FcY2s0icWWUu"
+    },
+    {
       "added_at": "2023-01-03 14:53:32",
       "album": {
         "name": "Come On Over",
@@ -39,6 +87,22 @@
       "duration_ms": 234493,
       "name": "Man! I Feel Like A Woman!",
       "url": "https://open.spotify.com/track/6sxptembJVty4sNtcPMAVz"
+    },
+    {
+      "added_at": "2023-05-18 19:03:21",
+      "album": {
+        "name": "The Writing's On The Wall",
+        "url": "https://open.spotify.com/album/283NWqNsCA9GwVHrJk59CG"
+      },
+      "artists": [
+        {
+          "name": "Destiny's Child",
+          "url": "https://open.spotify.com/artist/1Y8cdNmUJH7yBTd9yOvr5i"
+        }
+      ],
+      "duration_ms": 271333,
+      "name": "Say My Name",
+      "url": "https://open.spotify.com/track/7H6ev70Weq6DdpZyyTmUXk"
     },
     {
       "added_at": "2023-01-03 14:53:32",
@@ -125,6 +189,22 @@
       "url": "https://open.spotify.com/track/0Ph6L4l8dYUuXFmb71Ajnd"
     },
     {
+      "added_at": "2023-05-18 19:03:21",
+      "album": {
+        "name": "Christina Aguilera (Expanded Edition)",
+        "url": "https://open.spotify.com/album/6fpPZS13ImRVpr7Tqs6yP9"
+      },
+      "artists": [
+        {
+          "name": "Christina Aguilera",
+          "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
+        }
+      ],
+      "duration_ms": 217573,
+      "name": "Genie In a Bottle",
+      "url": "https://open.spotify.com/track/11mwFrKvLXCbcVGNxffGyP"
+    },
+    {
       "added_at": "2023-01-03 14:53:32",
       "album": {
         "name": "The Sign",
@@ -141,7 +221,7 @@
       "url": "https://open.spotify.com/track/0hrBpAOgrt8RXigk83LLNE"
     },
     {
-      "added_at": "2023-01-03 14:53:32",
+      "added_at": "2023-05-18 19:07:10",
       "album": {
         "name": "Big Willie Style",
         "url": "https://open.spotify.com/album/2esWeP8Ln1sXA0jbDmi3Zq"
@@ -152,9 +232,9 @@
           "url": "https://open.spotify.com/artist/41qil2VaGbD194gaEcmmyx"
         }
       ],
-      "duration_ms": 227933,
-      "name": "Gettin' Jiggy Wit It",
-      "url": "https://open.spotify.com/track/0weAUscowxeqDtpCgtbpgp"
+      "duration_ms": 197560,
+      "name": "Miami",
+      "url": "https://open.spotify.com/track/6e8Ou0wiqAzIpWb2eSxll8"
     },
     {
       "added_at": "2023-01-03 14:53:32",
@@ -187,6 +267,42 @@
       "duration_ms": 239933,
       "name": "It's My Life",
       "url": "https://open.spotify.com/track/4539Tbm6Rt5BaNKXJJj9RH"
+    },
+    {
+      "added_at": "2023-05-18 19:03:21",
+      "album": {
+        "name": "Supernatural (Remastered)",
+        "url": "https://open.spotify.com/album/10aiDpdFGyfCFEcqpx6XTq"
+      },
+      "artists": [
+        {
+          "name": "Santana",
+          "url": "https://open.spotify.com/artist/6GI52t8N5F02MxU0g5U69P"
+        },
+        {
+          "name": "Rob Thomas",
+          "url": "https://open.spotify.com/artist/3aBkeBhwadnWMWoVJ2CxJC"
+        }
+      ],
+      "duration_ms": 294986,
+      "name": "Smooth (feat. Rob Thomas)",
+      "url": "https://open.spotify.com/track/0n2SEXB2qoRQg171q7XqeW"
+    },
+    {
+      "added_at": "2023-05-18 19:03:21",
+      "album": {
+        "name": "Middle Of Nowhere",
+        "url": "https://open.spotify.com/album/3StpQT9Qd87FSeWeQAdg1h"
+      },
+      "artists": [
+        {
+          "name": "Hanson",
+          "url": "https://open.spotify.com/artist/0SdiiPkr02EUdekHZJkt58"
+        }
+      ],
+      "duration_ms": 268653,
+      "name": "MMMBop",
+      "url": "https://open.spotify.com/track/0lnxrQAd9ZxbhBBe7d8FO8"
     },
     {
       "added_at": "2023-01-03 14:53:32",
@@ -255,18 +371,18 @@
     {
       "added_at": "2023-01-03 14:53:32",
       "album": {
-        "name": "One Love",
-        "url": "https://open.spotify.com/album/2f0OIKkTy3gT89i2N7BaHJ"
+        "name": "Big Willie Style",
+        "url": "https://open.spotify.com/album/2esWeP8Ln1sXA0jbDmi3Zq"
       },
       "artists": [
         {
-          "name": "Dr. Alban",
-          "url": "https://open.spotify.com/artist/6BkcAbUkfIBM4XudxieMq8"
+          "name": "Will Smith",
+          "url": "https://open.spotify.com/artist/41qil2VaGbD194gaEcmmyx"
         }
       ],
-      "duration_ms": 240933,
-      "name": "Sing Hallelujah!",
-      "url": "https://open.spotify.com/track/01kVVoJQuWVqaOvRgRztJD"
+      "duration_ms": 227933,
+      "name": "Gettin' Jiggy Wit It",
+      "url": "https://open.spotify.com/track/0weAUscowxeqDtpCgtbpgp"
     },
     {
       "added_at": "2023-01-03 14:53:32",
@@ -283,6 +399,38 @@
       "duration_ms": 188359,
       "name": "I'll Be There for You - Theme From \"Friends\"",
       "url": "https://open.spotify.com/track/15tHagkk8z306XkyOHqiip"
+    },
+    {
+      "added_at": "2023-05-18 19:07:10",
+      "album": {
+        "name": "Diva",
+        "url": "https://open.spotify.com/album/33ImEB9taJ3Tie4APfTL7B"
+      },
+      "artists": [
+        {
+          "name": "Annie Lennox",
+          "url": "https://open.spotify.com/artist/5MspMQqdVbdwP6ax3GXqum"
+        }
+      ],
+      "duration_ms": 253295,
+      "name": "Walking on Broken Glass",
+      "url": "https://open.spotify.com/track/4CcSw8wQAHYf4XNckayPoc"
+    },
+    {
+      "added_at": "2023-01-03 14:53:32",
+      "album": {
+        "name": "One Love",
+        "url": "https://open.spotify.com/album/2f0OIKkTy3gT89i2N7BaHJ"
+      },
+      "artists": [
+        {
+          "name": "Dr. Alban",
+          "url": "https://open.spotify.com/artist/6BkcAbUkfIBM4XudxieMq8"
+        }
+      ],
+      "duration_ms": 240933,
+      "name": "Sing Hallelujah!",
+      "url": "https://open.spotify.com/track/01kVVoJQuWVqaOvRgRztJD"
     },
     {
       "added_at": "2023-01-03 14:53:32",
@@ -303,6 +451,38 @@
       "duration_ms": 250466,
       "name": "Here Comes the Hotstepper - Heartical Mix",
       "url": "https://open.spotify.com/track/3QRM0qZB7oMYavveH0iEqx"
+    },
+    {
+      "added_at": "2023-05-18 19:07:10",
+      "album": {
+        "name": "Floored",
+        "url": "https://open.spotify.com/album/3jMUfZpBUTZOl91khbj4ic"
+      },
+      "artists": [
+        {
+          "name": "Sugar Ray",
+          "url": "https://open.spotify.com/artist/4uN3DsfENc7dp0OLO0FEIb"
+        }
+      ],
+      "duration_ms": 244640,
+      "name": "Fly",
+      "url": "https://open.spotify.com/track/3uPfVXcjnpOjyzI3jb3js4"
+    },
+    {
+      "added_at": "2023-05-18 19:07:10",
+      "album": {
+        "name": "Desireless",
+        "url": "https://open.spotify.com/album/3P2WRy9eBoBbSTCZWGQOoO"
+      },
+      "artists": [
+        {
+          "name": "Eagle-Eye Cherry",
+          "url": "https://open.spotify.com/artist/3ngKsDXZAssmljeXCvEgOe"
+        }
+      ],
+      "duration_ms": 239226,
+      "name": "Save Tonight",
+      "url": "https://open.spotify.com/track/1t2Hq2WIBcZINOEnK6mdJG"
     },
     {
       "added_at": "2023-01-03 14:53:32",
@@ -355,22 +535,6 @@
     {
       "added_at": "2023-01-03 14:53:32",
       "album": {
-        "name": "Spiceworld",
-        "url": "https://open.spotify.com/album/3sr6lAuO3nmB1u8ZuQgpiX"
-      },
-      "artists": [
-        {
-          "name": "Spice Girls",
-          "url": "https://open.spotify.com/artist/0uq5PttqEjj3IH1bzwcrXF"
-        }
-      ],
-      "duration_ms": 173666,
-      "name": "Spice Up Your Life",
-      "url": "https://open.spotify.com/track/5qGwqO0lkbBXw4xNfzT7SF"
-    },
-    {
-      "added_at": "2023-01-03 14:53:32",
-      "album": {
         "name": "Number Ones",
         "url": "https://open.spotify.com/album/1jcYwZsN7JEve9xsq9BuUX"
       },
@@ -383,6 +547,22 @@
       "duration_ms": 198506,
       "name": "Black or White - Single Version",
       "url": "https://open.spotify.com/track/6wdviVWctiZnY6tVn6bh6A"
+    },
+    {
+      "added_at": "2023-01-03 14:53:32",
+      "album": {
+        "name": "Spiceworld",
+        "url": "https://open.spotify.com/album/3sr6lAuO3nmB1u8ZuQgpiX"
+      },
+      "artists": [
+        {
+          "name": "Spice Girls",
+          "url": "https://open.spotify.com/artist/0uq5PttqEjj3IH1bzwcrXF"
+        }
+      ],
+      "duration_ms": 173666,
+      "name": "Spice Up Your Life",
+      "url": "https://open.spotify.com/track/5qGwqO0lkbBXw4xNfzT7SF"
     },
     {
       "added_at": "2023-01-03 14:53:32",
@@ -451,22 +631,6 @@
     {
       "added_at": "2023-01-03 14:53:32",
       "album": {
-        "name": "Big Willie Style",
-        "url": "https://open.spotify.com/album/2esWeP8Ln1sXA0jbDmi3Zq"
-      },
-      "artists": [
-        {
-          "name": "Will Smith",
-          "url": "https://open.spotify.com/artist/41qil2VaGbD194gaEcmmyx"
-        }
-      ],
-      "duration_ms": 227266,
-      "name": "Men In Black - From \"Men In Black\" Soundtrack",
-      "url": "https://open.spotify.com/track/2FK7fxjzQEXD7Z32HSF0Hl"
-    },
-    {
-      "added_at": "2023-01-03 14:53:32",
-      "album": {
         "name": "On The 6",
         "url": "https://open.spotify.com/album/3Gby5NNeNYkMgAnrtEA3lc"
       },
@@ -499,22 +663,6 @@
     {
       "added_at": "2023-01-03 14:53:32",
       "album": {
-        "name": "Finally",
-        "url": "https://open.spotify.com/album/3REpPYjJhtaeJc4Mo1v4Ip"
-      },
-      "artists": [
-        {
-          "name": "CeCe Peniston",
-          "url": "https://open.spotify.com/artist/5UoVLCWzOKMIJ9iioof9OD"
-        }
-      ],
-      "duration_ms": 245000,
-      "name": "Finally",
-      "url": "https://open.spotify.com/track/0uqvSVhGgQTIdj9G51vhvv"
-    },
-    {
-      "added_at": "2023-01-03 14:53:32",
-      "album": {
         "name": "2 Times (Full Package)",
         "url": "https://open.spotify.com/album/0pAY6od68ZZOgxNWwSOHlv"
       },
@@ -527,6 +675,22 @@
       "duration_ms": 230933,
       "name": "2 Times - Original",
       "url": "https://open.spotify.com/track/4IiKITgHYaHrF1zUlcTyVH"
+    },
+    {
+      "added_at": "2023-01-03 14:53:32",
+      "album": {
+        "name": "Finally",
+        "url": "https://open.spotify.com/album/3REpPYjJhtaeJc4Mo1v4Ip"
+      },
+      "artists": [
+        {
+          "name": "CeCe Peniston",
+          "url": "https://open.spotify.com/artist/5UoVLCWzOKMIJ9iioof9OD"
+        }
+      ],
+      "duration_ms": 245000,
+      "name": "Finally",
+      "url": "https://open.spotify.com/track/0uqvSVhGgQTIdj9G51vhvv"
     },
     {
       "added_at": "2023-01-03 14:53:32",
@@ -611,42 +775,6 @@
     {
       "added_at": "2023-01-03 14:53:32",
       "album": {
-        "name": "Peaceful Journey",
-        "url": "https://open.spotify.com/album/4bAwnTaD8QcruiVdb1zzzY"
-      },
-      "artists": [
-        {
-          "name": "Heavy D & The Boyz",
-          "url": "https://open.spotify.com/artist/4KHdmkq99PXA6QEJ2lKpA3"
-        },
-        {
-          "name": "Aaron Hall",
-          "url": "https://open.spotify.com/artist/772SIFJQiXTCfxncTK1UMn"
-        }
-      ],
-      "duration_ms": 258200,
-      "name": "Now That We Found Love",
-      "url": "https://open.spotify.com/track/1KONmY3enP3r3nIPQidWAy"
-    },
-    {
-      "added_at": "2023-01-03 14:53:32",
-      "album": {
-        "name": "Buddy's Song",
-        "url": "https://open.spotify.com/album/7METUyd4PkKZTuen6UqeQz"
-      },
-      "artists": [
-        {
-          "name": "Chesney Hawkes",
-          "url": "https://open.spotify.com/artist/3dipm6p2uAgitwQsOZU5oY"
-        }
-      ],
-      "duration_ms": 223666,
-      "name": "The One and Only",
-      "url": "https://open.spotify.com/track/5o5U2r5F3ojvkhLSqRbY1Y"
-    },
-    {
-      "added_at": "2023-01-03 14:53:32",
-      "album": {
         "name": "Blacks' Magic",
         "url": "https://open.spotify.com/album/4iCiqnufcdAdTyKrkKGwqR"
       },
@@ -691,138 +819,6 @@
       "duration_ms": 258560,
       "name": "Shy Guy",
       "url": "https://open.spotify.com/track/3ldG6XCLDXxWg1N6XhrSKo"
-    },
-    {
-      "added_at": "2023-01-03 14:53:32",
-      "album": {
-        "name": "Up",
-        "url": "https://open.spotify.com/album/1qgGxfnTXeBOkBNnLzDi36"
-      },
-      "artists": [
-        {
-          "name": "Right Said Fred",
-          "url": "https://open.spotify.com/artist/15ajdFAi5bjj5pS9laBfBL"
-        }
-      ],
-      "duration_ms": 170466,
-      "name": "I'm Too Sexy",
-      "url": "https://open.spotify.com/track/2WElktskrNJEwgpp5Vouxk"
-    },
-    {
-      "added_at": "2023-01-03 14:53:32",
-      "album": {
-        "name": "We All Need Love",
-        "url": "https://open.spotify.com/album/61jMz9gG0UkpTGeVI2x26L"
-      },
-      "artists": [
-        {
-          "name": "Double You",
-          "url": "https://open.spotify.com/artist/2x0mCNdW4P27f3WE0iuQTV"
-        }
-      ],
-      "duration_ms": 200000,
-      "name": "Please Don't Go",
-      "url": "https://open.spotify.com/track/0bwNb4KRkhzahJJMFsGoPR"
-    },
-    {
-      "added_at": "2023-01-03 14:53:32",
-      "album": {
-        "name": "Affirmation",
-        "url": "https://open.spotify.com/album/3w69KK7uEA8OsKuW3OeQcC"
-      },
-      "artists": [
-        {
-          "name": "Savage Garden",
-          "url": "https://open.spotify.com/artist/3NRFinRTEqUCfaTTZmk8ek"
-        }
-      ],
-      "duration_ms": 295800,
-      "name": "Affirmation",
-      "url": "https://open.spotify.com/track/6lWY4ji9T0tpFU2xbnRC1p"
-    },
-    {
-      "added_at": "2023-01-03 14:53:32",
-      "album": {
-        "name": "Joyride (Extended Version)",
-        "url": "https://open.spotify.com/album/5WVNP6IBwMSULc0wehXW8N"
-      },
-      "artists": [
-        {
-          "name": "Roxette",
-          "url": "https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY"
-        }
-      ],
-      "duration_ms": 263093,
-      "name": "Joyride",
-      "url": "https://open.spotify.com/track/1ILbD4eWKWvg8ub5qJyBTP"
-    },
-    {
-      "added_at": "2023-01-03 14:53:32",
-      "album": {
-        "name": "Flowers",
-        "url": "https://open.spotify.com/album/4oXtR5JbdA9PLwbR49zx9Q"
-      },
-      "artists": [
-        {
-          "name": "Ace of Base",
-          "url": "https://open.spotify.com/artist/5ksRONqssB7BR161NTtJAm"
-        }
-      ],
-      "duration_ms": 227040,
-      "name": "Life Is a Flower",
-      "url": "https://open.spotify.com/track/7hQgwzBCXsdIRsaFonrS3P"
-    },
-    {
-      "added_at": "2023-01-03 14:53:32",
-      "album": {
-        "name": "Nightlife: Further Listening 1996 - 2000 (2017 Remaster)",
-        "url": "https://open.spotify.com/album/4XyL4Vum37Wh3vKu4DhRek"
-      },
-      "artists": [
-        {
-          "name": "Pet Shop Boys",
-          "url": "https://open.spotify.com/artist/2ycnb8Er79LoH2AsR5ldjh"
-        }
-      ],
-      "duration_ms": 315280,
-      "name": "New York City Boy - 2017 Remaster",
-      "url": "https://open.spotify.com/track/7KeoeLwqtTIIgeHkvgxkeT"
-    },
-    {
-      "added_at": "2023-01-03 14:53:32",
-      "album": {
-        "name": "On Vol.1",
-        "url": "https://open.spotify.com/album/1xo1nQrV2vHnZB3CSkcaIj"
-      },
-      "artists": [
-        {
-          "name": "D:Ream",
-          "url": "https://open.spotify.com/artist/2dCQKsTjB762AhtIACbAQA"
-        }
-      ],
-      "duration_ms": 258000,
-      "name": "Things Can Only Get Better",
-      "url": "https://open.spotify.com/track/5HmwYfynpGAjgrj4bp9eMy"
-    },
-    {
-      "added_at": "2023-01-03 14:53:32",
-      "album": {
-        "name": "Invincible",
-        "url": "https://open.spotify.com/album/72qAXkZ8keSUHe55hhEVQG"
-      },
-      "artists": [
-        {
-          "name": "Five",
-          "url": "https://open.spotify.com/artist/6rEzedK7cKWjeQWdAYvWVG"
-        },
-        {
-          "name": "Steve Mac",
-          "url": "https://open.spotify.com/artist/78E5Zx38dgv90Q7VN2AplD"
-        }
-      ],
-      "duration_ms": 197400,
-      "name": "Keep On Movin'",
-      "url": "https://open.spotify.com/track/0mrU1w2UMIZnR2I6oguwGz"
     }
   ],
   "unique_name": "90s Pop Run",

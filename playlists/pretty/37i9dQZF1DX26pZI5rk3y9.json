@@ -1,12 +1,12 @@
 {
   "description": "Classic music for cooking and eating with friends. ",
-  "num_followers": 4747,
+  "num_followers": 4762,
   "original_name": "Blues BBQ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxNjFjMmQ0NGRjYzhjZDNhOTViMGY2ZGQzMDg2YWYxYTAxNjBhYTRk",
+  "snapshot_id": "MCw0N2Y2ODQ0ZDE5YTdjNzlhNWUzODAwZWIwZTdlNzE1Mzc3MDc3NTll",
   "tracks": [
     {
       "added_at": "2022-12-02 14:28:08",
@@ -235,22 +235,6 @@
     {
       "added_at": "2022-12-02 14:28:08",
       "album": {
-        "name": "New Orleans Ladies: Rhythm And Blues From The Vaults Of Ric And Ron",
-        "url": "https://open.spotify.com/album/2pbjXy9Oen6U5ZoeSrxcYM"
-      },
-      "artists": [
-        {
-          "name": "Irma Thomas",
-          "url": "https://open.spotify.com/artist/01Z8Z9K54zewyP04ZfGLSv"
-        }
-      ],
-      "duration_ms": 139000,
-      "name": "Don't Mess With My Man",
-      "url": "https://open.spotify.com/track/5fAWSK7rw20ilX3N1XmZjP"
-    },
-    {
-      "added_at": "2022-12-02 14:28:08",
-      "album": {
         "name": "Groove Juice: The Norman Granz Recordings + More",
         "url": "https://open.spotify.com/album/2Ub4bz8I5jMPQ4HuH9uhBc"
       },
@@ -263,6 +247,22 @@
       "duration_ms": 185693,
       "name": "Potato Chips",
       "url": "https://open.spotify.com/track/1p0txitWUzsbb9scGmL2wl"
+    },
+    {
+      "added_at": "2022-12-02 14:28:08",
+      "album": {
+        "name": "New Orleans Ladies: Rhythm And Blues From The Vaults Of Ric And Ron",
+        "url": "https://open.spotify.com/album/2pbjXy9Oen6U5ZoeSrxcYM"
+      },
+      "artists": [
+        {
+          "name": "Irma Thomas",
+          "url": "https://open.spotify.com/artist/01Z8Z9K54zewyP04ZfGLSv"
+        }
+      ],
+      "duration_ms": 139000,
+      "name": "Don't Mess With My Man",
+      "url": "https://open.spotify.com/track/5fAWSK7rw20ilX3N1XmZjP"
     },
     {
       "added_at": "2022-12-02 14:28:08",
@@ -495,6 +495,22 @@
     {
       "added_at": "2022-12-02 14:28:08",
       "album": {
+        "name": "Freddy King Sings",
+        "url": "https://open.spotify.com/album/6Y8ECXmI1sZ10MKFZ3Grgs"
+      },
+      "artists": [
+        {
+          "name": "Freddie King",
+          "url": "https://open.spotify.com/artist/5dCuFngSPyOOnTAvrC7v2s"
+        }
+      ],
+      "duration_ms": 168241,
+      "name": "I Love The Woman",
+      "url": "https://open.spotify.com/track/215sDs9PQ99hynGtGtFg85"
+    },
+    {
+      "added_at": "2022-12-02 14:28:08",
+      "album": {
         "name": "Super Blues",
         "url": "https://open.spotify.com/album/2lal1dUF4SNuSwYwJHat6s"
       },
@@ -519,22 +535,6 @@
     {
       "added_at": "2022-12-02 14:28:08",
       "album": {
-        "name": "The Soul Queen Of New Orleans: 50th Anniversary Celebration",
-        "url": "https://open.spotify.com/album/00XIOYTGN9xBXxQw9rHSvs"
-      },
-      "artists": [
-        {
-          "name": "Irma Thomas",
-          "url": "https://open.spotify.com/artist/01Z8Z9K54zewyP04ZfGLSv"
-        }
-      ],
-      "duration_ms": 210866,
-      "name": "Back Water Blues",
-      "url": "https://open.spotify.com/track/0JjxpW2i161phUkLc3zTxh"
-    },
-    {
-      "added_at": "2022-12-02 14:28:08",
-      "album": {
         "name": "Too Bad Jim",
         "url": "https://open.spotify.com/album/30AT3tYydbsfhO5EDu5UKp"
       },
@@ -551,18 +551,18 @@
     {
       "added_at": "2022-12-02 14:28:08",
       "album": {
-        "name": "Freddy King Sings",
-        "url": "https://open.spotify.com/album/6Y8ECXmI1sZ10MKFZ3Grgs"
+        "name": "The Soul Queen Of New Orleans: 50th Anniversary Celebration",
+        "url": "https://open.spotify.com/album/00XIOYTGN9xBXxQw9rHSvs"
       },
       "artists": [
         {
-          "name": "Freddie King",
-          "url": "https://open.spotify.com/artist/5dCuFngSPyOOnTAvrC7v2s"
+          "name": "Irma Thomas",
+          "url": "https://open.spotify.com/artist/01Z8Z9K54zewyP04ZfGLSv"
         }
       ],
-      "duration_ms": 168241,
-      "name": "I Love The Woman",
-      "url": "https://open.spotify.com/track/215sDs9PQ99hynGtGtFg85"
+      "duration_ms": 210866,
+      "name": "Back Water Blues",
+      "url": "https://open.spotify.com/track/0JjxpW2i161phUkLc3zTxh"
     },
     {
       "added_at": "2022-12-02 14:28:08",
@@ -583,18 +583,18 @@
     {
       "added_at": "2022-12-02 14:28:08",
       "album": {
-        "name": "Calling All Blues - The Chief, Profile & USA Recordings 1957-1963",
-        "url": "https://open.spotify.com/album/3WqFy7VvZvKmyFRGgAp6WZ"
+        "name": "Black Midnight Sun (feat. Bill Laswell & Jerome \"Bigfoot\" Brailey)",
+        "url": "https://open.spotify.com/album/4oWAVhy2gLn1ZCUFotz1qo"
       },
       "artists": [
         {
-          "name": "Junior Wells",
-          "url": "https://open.spotify.com/artist/78CBFzwo7wwNaaTYVP5btK"
+          "name": "Lucky Peterson",
+          "url": "https://open.spotify.com/artist/3OxsMm9KHw2FRJLGHtILl5"
         }
       ],
-      "duration_ms": 153759,
-      "name": "Little By Little (I'm Losing You)",
-      "url": "https://open.spotify.com/track/25vYkkypWmtzS88Podza8X"
+      "duration_ms": 322760,
+      "name": "Herbert Harper's Free Press News",
+      "url": "https://open.spotify.com/track/6BovRqCr1P46Vsi4awI0m1"
     },
     {
       "added_at": "2022-12-02 14:28:08",
@@ -615,18 +615,18 @@
     {
       "added_at": "2022-12-02 14:28:08",
       "album": {
-        "name": "Black Midnight Sun (feat. Bill Laswell & Jerome \"Bigfoot\" Brailey)",
-        "url": "https://open.spotify.com/album/4oWAVhy2gLn1ZCUFotz1qo"
+        "name": "Calling All Blues - The Chief, Profile & USA Recordings 1957-1963",
+        "url": "https://open.spotify.com/album/3WqFy7VvZvKmyFRGgAp6WZ"
       },
       "artists": [
         {
-          "name": "Lucky Peterson",
-          "url": "https://open.spotify.com/artist/3OxsMm9KHw2FRJLGHtILl5"
+          "name": "Junior Wells",
+          "url": "https://open.spotify.com/artist/78CBFzwo7wwNaaTYVP5btK"
         }
       ],
-      "duration_ms": 322760,
-      "name": "Herbert Harper's Free Press News",
-      "url": "https://open.spotify.com/track/6BovRqCr1P46Vsi4awI0m1"
+      "duration_ms": 153759,
+      "name": "Little By Little (I'm Losing You)",
+      "url": "https://open.spotify.com/track/25vYkkypWmtzS88Podza8X"
     },
     {
       "added_at": "2022-12-02 14:28:08",
@@ -697,7 +697,7 @@
       "url": "https://open.spotify.com/track/6855kD5Pfhw6QkZhQEWB5S"
     },
     {
-      "added_at": "2023-05-18 01:06:10",
+      "added_at": "2023-05-19 01:23:00",
       "album": {
         "name": "Ridin'",
         "url": "https://open.spotify.com/album/1a6ae4VcrzwUEOCJ1lDZpq"
@@ -731,22 +731,6 @@
     {
       "added_at": "2022-12-02 14:28:08",
       "album": {
-        "name": "Next Time You See Me",
-        "url": "https://open.spotify.com/album/47tUqkIpGOM1Mpn8dkCzmx"
-      },
-      "artists": [
-        {
-          "name": "Junior Parker",
-          "url": "https://open.spotify.com/artist/6XYy5PbBFvsABSY2ZS6R8u"
-        }
-      ],
-      "duration_ms": 191906,
-      "name": "These Kind of Blues",
-      "url": "https://open.spotify.com/track/6Tol0gzzgXshMaiBkvLoWc"
-    },
-    {
-      "added_at": "2022-12-02 14:28:08",
-      "album": {
         "name": "Barbecue Bob Vol. 1 (1927 - 1928)",
         "url": "https://open.spotify.com/album/4qi0icQEhM64kJQwYZtx31"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 627893,
       "name": "Blues For The Barbecue",
       "url": "https://open.spotify.com/track/1OkKAb7CzQ8NcjIyMbD5sm"
+    },
+    {
+      "added_at": "2022-12-02 14:28:08",
+      "album": {
+        "name": "Next Time You See Me",
+        "url": "https://open.spotify.com/album/47tUqkIpGOM1Mpn8dkCzmx"
+      },
+      "artists": [
+        {
+          "name": "Junior Parker",
+          "url": "https://open.spotify.com/artist/6XYy5PbBFvsABSY2ZS6R8u"
+        }
+      ],
+      "duration_ms": 191906,
+      "name": "These Kind of Blues",
+      "url": "https://open.spotify.com/track/6Tol0gzzgXshMaiBkvLoWc"
     },
     {
       "added_at": "2022-12-02 14:28:08",

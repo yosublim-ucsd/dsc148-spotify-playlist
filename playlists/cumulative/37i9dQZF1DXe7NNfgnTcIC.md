@@ -79,7 +79,7 @@
 | [We've Only Just Begun](https://open.spotify.com/track/3m167vBQI5YLK0a1m6L6Y1) | [Carpenters](https://open.spotify.com/artist/1eEfMU2AhEo7XnKgL7c304) | [Close To You](https://open.spotify.com/album/1CsuCA05y9r7ftG9bGGtWV) | 3:05 | 2021-05-26 |  |
 | [Whispering My Love](https://open.spotify.com/track/62In7nf1a7vIuR2mEdatxy) | [キャロル&チューズデイ\(Vo.Nai Br.XX&Celeina Ann\)](https://open.spotify.com/artist/3tggmwr8QhWUTVdZ6br4na) | [TVアニメ「キャロル&チューズデイ」VOCAL COLLECTION Vol.1](https://open.spotify.com/album/54hb2cgal71xCmoC9EB4IW) | 3:11 | 2021-05-26 |  |
 | [With Or Without You](https://open.spotify.com/track/0S7xoZjcE35i0w9cpikMKK) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [The Best Of 1980\-1990 & B\-Sides](https://open.spotify.com/album/205bQLiKXCiUIt3HKlcBUb) | 4:55 | 2021-05-26 | 2022-11-13 |
-| [With Or Without You \- Remastered](https://open.spotify.com/track/6ADSaE87h8Y3lccZlBJdXH) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [The Joshua Tree \(Super Deluxe\)](https://open.spotify.com/album/5y6wlw1LnqFnQFruMeiwGU) | 4:55 | 2021-05-26 |  |
+| [With Or Without You](https://open.spotify.com/track/6ADSaE87h8Y3lccZlBJdXH) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [The Joshua Tree \(Super Deluxe\)](https://open.spotify.com/album/5y6wlw1LnqFnQFruMeiwGU) | 4:55 | 2021-05-26 |  |
 | [With Or Without You \- Remastered](https://open.spotify.com/track/6FlSRjNfbyHoZZGfsMwItH) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [The Joshua Tree \(Super Deluxe\)](https://open.spotify.com/album/0VhBqdWCPCvkUAqtNhmOd6) | 4:55 | 2021-05-26 | 2022-07-29 |
 
 \*This playlist was first scraped on 2022-06-12. Prior content cannot be recovered.

@@ -4,7 +4,7 @@
 
 > Concéntrate al máximo, sin distracciones.
 
-528 songs - 22 hr 36 min
+529 songs - 22 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -464,6 +464,7 @@
 | [Tinamou](https://open.spotify.com/track/5YlLdGZVzIJq2XLa4NbrZT) | [Hayden Cargile](https://open.spotify.com/artist/6QrTfzchTKSeDGSBqLbk1o) | [Tinamou](https://open.spotify.com/album/5OjbY0PN6lQmDdaXWMiPJM) | 2:35 | 2022-06-07 |  |
 | [Tiny Ballerina](https://open.spotify.com/track/6VRfUvTQZGK8C3lkHwXJzl) | [Little Florence](https://open.spotify.com/artist/2GpEugU55XENAxQST64ZPn) | [Small and Alone](https://open.spotify.com/album/4vLhgEWo4HzZmAMnIwLaBk) | 2:25 | 2022-06-07 |  |
 | [Toruń](https://open.spotify.com/track/1Qc0WMGqchtXtdWTAfDUGm) | [Juliusz Borkowska](https://open.spotify.com/artist/6jwKQMPX4P5iKJCjhMSD1z) | [Toruń](https://open.spotify.com/album/0To9frFAZTVtsAxx2smerL) | 2:35 | 2022-06-07 | 2023-01-05 |
+| [Tout a un sens](https://open.spotify.com/track/5VOhUrpLELS03TrEJsnL7X) | [Claire Pinette](https://open.spotify.com/artist/4cmV4jq8K9fFMqXdYQrtRP) | [Tout a un sens](https://open.spotify.com/album/76RPqIq2w4iW7G0NiWeouE) | 2:15 | 2023-05-03 |  |
 | [Traces](https://open.spotify.com/track/5F9n6BJytzN6kqEQR2wv05) | [Ever So Blue](https://open.spotify.com/artist/6LwcYWG1molG0KW2xwnPd2) | [Traces](https://open.spotify.com/album/06LJIRUxKqN78v72GCeEuW) | 2:01 | 2022-06-07 |  |
 | [Traces](https://open.spotify.com/track/0JdJYYA2fjAGplb5VLYL07) | [Leyland Moore](https://open.spotify.com/artist/6B68z24fHjW2BFiwzthkzO) | [Traces](https://open.spotify.com/album/4lzXcaZXKBzk0aaX6fFzlE) | 3:13 | 2022-06-07 |  |
 | [Tracing the Sky](https://open.spotify.com/track/7DuRtVOXIo2EKXUmcMMKgx) | [Ren Lockhart](https://open.spotify.com/artist/2o6Pj478mXZrEZbEFnAbXp) | [Without Words](https://open.spotify.com/album/57pvjTiZ2itUqiYHMg9cUq) | 3:50 | 2022-09-14 |  |
@@ -482,7 +483,7 @@
 | [Unconditional](https://open.spotify.com/track/7eriWSdbkuFHBM6qiHIEq8) | [Michael Frankenberger](https://open.spotify.com/artist/4LKXdZFgLqP1Yozo8I28jJ) | [Unconditional](https://open.spotify.com/album/1uy7xtQ94KNqMtQnr2KNCO) | 2:24 | 2022-06-07 | 2022-09-15 |
 | [Under the Willow Tree](https://open.spotify.com/track/3qto6LgDhFq9FGrAORDBzX) | [Rebecca Mayer](https://open.spotify.com/artist/1N9hJSBYCDRgetd57dZukY) | [Summer Breeze](https://open.spotify.com/album/4u92wdvS8QrFikLjgPBsZa) | 2:06 | 2022-06-07 |  |
 | [Une Danse](https://open.spotify.com/track/3rOhuafK8dRIjf2iDnn6yX) | [Anton Lebedev](https://open.spotify.com/artist/1QCX4RcJeAWUjciKRD7bug) | [Une Danse](https://open.spotify.com/album/2NI1xUFgeWBEjbNrjVCsbP) | 3:03 | 2022-06-07 |  |
-| [une nouvelle année](https://open.spotify.com/track/2TyI8OZl0IOU18BId7MNKv) | [Sabine Paulet](https://open.spotify.com/artist/5IM9wakFCctJnILFe5eL30) | [une nouvelle année](https://open.spotify.com/album/3JWAvL7oBeOX8V0zx4v8kd) | 2:22 | 2022-06-07 | 2022-09-24 |
+| [une nouvelle année](https://open.spotify.com/track/2TyI8OZl0IOU18BId7MNKv) | [Sabine Paulet](https://open.spotify.com/artist/5IM9wakFCctJnILFe5eL30) | [une nouvelle année](https://open.spotify.com/album/3JWAvL7oBeOX8V0zx4v8kd) | 2:22 | 2022-06-07 |  |
 | [Unfinished Story](https://open.spotify.com/track/0pdWIu5FMVfPECxtZIV1Py) | [Dexter Mills](https://open.spotify.com/artist/3ChW1Y1eF6w0fq0yvMQnS6) | [Unfinished Story](https://open.spotify.com/album/6L3cz0Uc70mGVYDoEcmCLc) | 2:17 | 2022-06-07 |  |
 | [Unsaid](https://open.spotify.com/track/6DOjomPB7sCFUSx96x6bSc) | [Amity Fall](https://open.spotify.com/artist/6cGxRgjUNOdLJ1dJby1GmS) | [Unsaid](https://open.spotify.com/album/0jjcbJZ3TJUtcumgWefAhD) | 2:16 | 2022-06-07 |  |
 | [Unspoken Declarations](https://open.spotify.com/track/7CnmcN4DEFQzrZZIlwGqoC) | [Agnes Klein](https://open.spotify.com/artist/5ZxksGDvjeNLxyy7t4NSpV) | [Unspoken Declarations](https://open.spotify.com/album/5n8PoAzYh537L5XWWGvfz8) | 3:08 | 2022-06-07 | 2022-09-24 |
@@ -502,7 +503,7 @@
 | [Vogeltrek](https://open.spotify.com/track/3JRe26tZFIC2y3suUKrJiu) | [Doeke](https://open.spotify.com/artist/4bN7b5U92da8peYJPefNu1) | [Vogeltrek](https://open.spotify.com/album/3TVFgNfg0OLSd5FNP305CH) | 2:14 | 2022-06-07 | 2022-07-29 |
 | [Vogeltrek](https://open.spotify.com/track/4Otyz87ttyTeKK45vlO28b) | [Doeke](https://open.spotify.com/artist/4bN7b5U92da8peYJPefNu1) | [Naar Huis](https://open.spotify.com/album/5GCcOcKxh1IyCvSvMQKkzv) | 2:14 | 2022-07-19 | 2022-09-15 |
 | [Volga](https://open.spotify.com/track/5GVo7iQPoQUDOX1xUadS1p) | [Ivan Vladusic](https://open.spotify.com/artist/6RIbBV3sHhVlLi2mPPMjbN) | [Volga](https://open.spotify.com/album/4E7hFmTDF1eyBIxdXyREiF) | 2:49 | 2022-06-07 |  |
-| [Voyage mélatonine](https://open.spotify.com/track/1qzF59VZ86OUV11slBwY7J) | [Jordane Tumarinson](https://open.spotify.com/artist/3MmklYESte8IJHUjXEqypw) | [Voyage mélatonine](https://open.spotify.com/album/29ZPBMyCGtYyqXEwiqHj6t) | 2:10 | 2022-06-07 |  |
+| [Voyage mélatonine](https://open.spotify.com/track/1qzF59VZ86OUV11slBwY7J) | [Jordane Tumarinson](https://open.spotify.com/artist/3MmklYESte8IJHUjXEqypw) | [Voyage mélatonine](https://open.spotify.com/album/29ZPBMyCGtYyqXEwiqHj6t) | 2:10 | 2022-06-07 | 2023-05-19 |
 | [Voyager](https://open.spotify.com/track/6zplwArWlq8WOjRGVZIPii) | [Kristoffer Wallin](https://open.spotify.com/artist/0mn754DaAJCH4nYkvB3IzT) | [Voyager](https://open.spotify.com/album/2XnDUF444KioNZsTWIxBWX) | 2:12 | 2022-06-07 |  |
 | [Waiting](https://open.spotify.com/track/6bt1Qb3CCzQkXkXu3FzEeX) | [Damien Jeunet](https://open.spotify.com/artist/4PLGZc5uRGoXxjzjVDzlPs) | [Waiting](https://open.spotify.com/album/5z2LHBhaATswQNRQWioTXJ) | 2:44 | 2022-06-07 |  |
 | [Walking home](https://open.spotify.com/track/73tOHXLo3XDQgdGo9leE5J) | [Kelli Carswell](https://open.spotify.com/artist/1EYt9z9E0wab4f22IvFAJ4) | [Walking home](https://open.spotify.com/album/005YMfiHDbwZi6p1hvPhLI) | 2:52 | 2022-06-07 | 2022-09-24 |
@@ -516,7 +517,7 @@
 | [Where Are You Now](https://open.spotify.com/track/3evKJGk8medQPPcA38Y3Tb) | [Ole\-Bjørn Talstad](https://open.spotify.com/artist/1RRY8KBuZYuhAAJRgdDlP9) | [Where Are You Now](https://open.spotify.com/album/65JGL9v0jvQqAWUqolwr2E) | 2:38 | 2022-07-19 | 2022-09-15 |
 | [Where Are You Now](https://open.spotify.com/track/4fmG6hh126lwv3IKzXM1gD) | [Ole\-Bjørn Talstad](https://open.spotify.com/artist/1RRY8KBuZYuhAAJRgdDlP9) | [Where Are You Now](https://open.spotify.com/album/3QokS25Je7Ms9rbghdVHts) | 2:38 | 2022-06-07 | 2022-07-29 |
 | [Wherever I go](https://open.spotify.com/track/5W8M1dSQQTfbbP8wCIDxBn) | [Ellie\-May Robertson](https://open.spotify.com/artist/7Ce1uDyyat0uJpzu7CDaEI) | [Infinity](https://open.spotify.com/album/6ASghZd5aW2oNTjorscSaN) | 2:15 | 2022-07-19 |  |
-| [Whisper Trail](https://open.spotify.com/track/2pEF97eTTTNC8pbpAVu8SB) | [Peter Mandel](https://open.spotify.com/artist/7pcKNsR8Kj7AIXtJT7u46g) | [Whisper Trail](https://open.spotify.com/album/6zalqhvd0efWVXZI4z6VyU) | 2:35 | 2022-06-07 |  |
+| [Whisper Trail](https://open.spotify.com/track/2pEF97eTTTNC8pbpAVu8SB) | [Peter Mandel](https://open.spotify.com/artist/7pcKNsR8Kj7AIXtJT7u46g) | [Whisper Trail](https://open.spotify.com/album/6zalqhvd0efWVXZI4z6VyU) | 2:35 | 2022-06-07 | 2023-05-19 |
 | [Why Do We Change?](https://open.spotify.com/track/4UJ9CeB5TeQfHdhGvwYKnH) | [Ellen Wince](https://open.spotify.com/artist/7siQWN6rSf13atgycy7zhP) | [Why Do We Change?](https://open.spotify.com/album/6UgPmbtXd16KezvPEqgILh) | 2:46 | 2022-06-07 | 2022-09-24 |
 | [Windows](https://open.spotify.com/track/2mfV2cjYcEnBmqjT1qih83) | [Donald Kutcher](https://open.spotify.com/artist/5UvqlmBYi8RQyIyNZPiHTh) | [Windows](https://open.spotify.com/album/4SiQ4V6EHnYTjvE5tcaN0j) | 2:21 | 2022-06-07 | 2022-09-24 |
 | [Winged Melancholy](https://open.spotify.com/track/5zz75ole7gzWU3YhOHgx4P) | [Patrick Hamilton](https://open.spotify.com/artist/5gxCZXXCHpwrqcCJxq0VhJ) | [Winged Melancholy](https://open.spotify.com/album/4XXfes67gExeafFINOtoPL) | 2:19 | 2022-06-07 | 2022-09-15 |

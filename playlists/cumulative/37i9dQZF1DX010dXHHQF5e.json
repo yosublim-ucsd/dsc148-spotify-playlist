@@ -3213,6 +3213,24 @@
     },
     {
       "album": {
+        "name": "Sweet Or Sweeter",
+        "url": "https://open.spotify.com/album/3ukwljFKcXQugyW40NvzSZ"
+      },
+      "artists": [
+        {
+          "name": "Lenard Lovito",
+          "url": "https://open.spotify.com/artist/6r8kUR60ouPwLjn42RFgPT"
+        }
+      ],
+      "date_added": "2023-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119350,
+      "name": "Sweet Or Sweeter",
+      "url": "https://open.spotify.com/track/3kBBNUhkrZjBarERXoJTzt"
+    },
+    {
+      "album": {
         "name": "Tangerine",
         "url": "https://open.spotify.com/album/1jRoIrwrLAZlY7quAk5GUJ"
       },
@@ -3512,7 +3530,7 @@
       ],
       "date_added": "2023-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 199124,
       "name": "They Say It's Wonderful",
       "url": "https://open.spotify.com/track/70XPtCtNGP1SoHfAq0Wjdv"

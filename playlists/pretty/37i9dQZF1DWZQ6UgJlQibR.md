@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZQ6UgJlQibR.md) - [plain]
 
 > Where music and emotions meet\. Cover: <a href="spotify:artist:7Ddov9nbJDbpgzvBVb7cU1">George Wassouf</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,494 likes - 38 songs - 4 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,569 likes - 38 songs - 4 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,8 +18,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZQ6UgJlQibR.md) - [plain]
 | 8 | [Ya Habebty Ya Masr](https://open.spotify.com/track/66Ol2298fi5ca4KWcCVsOD) | [Shadia](https://open.spotify.com/artist/5Yoha5TJ90eyPB9xWadI06) | [Sahra Maa Shadya](https://open.spotify.com/album/1CeCerIXXHVOkRFIKGOynN) | 5:45 |
 | 9 | [Haramt Ahebak](https://open.spotify.com/track/14XBdaGIR0iIaLHquiUWr5) | [Warda](https://open.spotify.com/artist/3myefQO8upDe4aNxjTFddr) | [Haramt Ahebak](https://open.spotify.com/album/47QmEHiw3P8huVwZ0jHeUo) | 7:56 |
 | 10 | [Maliket Gamal El Rouh](https://open.spotify.com/track/0g8dUzQS5hkB2FxmZA4CCv) | [George Wassouf](https://open.spotify.com/artist/7Ddov9nbJDbpgzvBVb7cU1) | [Maliket Gamal El Rouh](https://open.spotify.com/album/4bzpxq9uHStQAUOJiFEuuR) | 3:47 |
-| 11 | [Ya Tera Tiri](https://open.spotify.com/track/2jhP3W3ihZZ5VqBtYWtAoJ) | [Sabah Fakhri](https://open.spotify.com/artist/2rm6vleqjlsZRsxQm3umpg) | [Master of Andalusian Folklore: Traditional Syrian Songs](https://open.spotify.com/album/3vnpDLv3yONaJBcs3Du2HN) | 2:40 |
-| 12 | [Wehyaty Andak](https://open.spotify.com/track/3kCYgb4QmZGVJld5ItMC2u) | [Zekra](https://open.spotify.com/artist/7nlEIiYTOqregHVLnu6cL3) | [Wehyaty Andak](https://open.spotify.com/album/5I3L2UwUkFOdXIz3a8nRUP) | 7:07 |
+| 11 | [Wehyaty Andak](https://open.spotify.com/track/3kCYgb4QmZGVJld5ItMC2u) | [Zekra](https://open.spotify.com/artist/7nlEIiYTOqregHVLnu6cL3) | [Wehyaty Andak](https://open.spotify.com/album/5I3L2UwUkFOdXIz3a8nRUP) | 7:07 |
+| 12 | [Ya Tera Tiri](https://open.spotify.com/track/2jhP3W3ihZZ5VqBtYWtAoJ) | [Sabah Fakhri](https://open.spotify.com/artist/2rm6vleqjlsZRsxQm3umpg) | [Master of Andalusian Folklore: Traditional Syrian Songs](https://open.spotify.com/album/3vnpDLv3yONaJBcs3Du2HN) | 2:40 |
 | 13 | [Midri](https://open.spotify.com/track/1yOlhO1ejjlNSyV83ImGLW) | [Malek El Yaman](https://open.spotify.com/artist/10bHG6pbiXXIT63inPNyCI), [Carole Aoun](https://open.spotify.com/artist/5eo1Obe1OnCuklPbWBIMMM) | [Midri](https://open.spotify.com/album/5dkJWG1lsaGl03VaivzqIs) | 4:35 |
 | 14 | [Ala Babee Waqef Qamaren](https://open.spotify.com/track/5AmP3h3zhDQcte3kz4z2Ts) | [Melhem Barakat](https://open.spotify.com/artist/5fv3EVYW9U0DYDaAInC4fS) | [Badak Maleoun Seneh](https://open.spotify.com/album/3eKEfWOZfH5PcwMFvSW7Va) | 15:54 |
 | 15 | [Law Fina](https://open.spotify.com/track/0K8PqycedBtxFhNmknWF6s) | [Mais Harb](https://open.spotify.com/artist/4QanuerHBNrfWoC9x0ojk5) | [Law Fina](https://open.spotify.com/album/6i64TppqvGbIw0feHLRgNB) | 6:11 |
@@ -47,4 +47,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZQ6UgJlQibR.md) - [plain]
 | 37 | [Tair ya hawa \- Live](https://open.spotify.com/track/2IRfMCKGYuZdymA6fEfRie) | [Fadel Chaker](https://open.spotify.com/artist/1LljnS3oumQ36wdBhkPKrs) | [Sahra \(Live Rare Concert Recording\)](https://open.spotify.com/album/7hsND1sb0FyP41zUE7GSMl) | 4:53 |
 | 38 | [Mali \- Live](https://open.spotify.com/track/6jmz2f0MQGvQMbFoWejFtH) | [Fadel Chaker](https://open.spotify.com/artist/1LljnS3oumQ36wdBhkPKrs) | [Sahra \(Live Rare Concert Recording\)](https://open.spotify.com/album/7hsND1sb0FyP41zUE7GSMl) | 3:54 |
 
-Snapshot ID: `MCw3ODc1NmM4NWRkZDk1OGI1NDMxMjllMmU4N2YzNjYxZDA1MjA4ZGU1`
+Snapshot ID: `MCw3NTUzMzU2YzZlNzViNDAwZDYwYTRiMDRkM2IwYzAyNDY5MDJhZmUz`

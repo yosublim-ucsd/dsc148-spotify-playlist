@@ -1321,6 +1321,28 @@
     },
     {
       "album": {
+        "name": "Effetto notte",
+        "url": "https://open.spotify.com/album/39wuRno08Rl0Jsse2kCHga"
+      },
+      "artists": [
+        {
+          "name": "Emis Killa",
+          "url": "https://open.spotify.com/artist/6FtwCmLY6L1sqvjaQ2lV6G"
+        },
+        {
+          "name": "Neima Ezza",
+          "url": "https://open.spotify.com/artist/754BUADwzMYecBgOoBaetK"
+        }
+      ],
+      "date_added": "2023-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166946,
+      "name": "LONTANO - carlito's way",
+      "url": "https://open.spotify.com/track/2t1dculU2L9HxEIzB00Xpk"
+    },
+    {
+      "album": {
         "name": "Madreperla",
         "url": "https://open.spotify.com/album/5FnVg6RBrEFUIEpHRw8EB1"
       },
@@ -2408,6 +2430,28 @@
       "duration_ms": 171093,
       "name": "Vestiti D\u2019Odio (con PSICOLOGI)",
       "url": "https://open.spotify.com/track/3NLE4ioQE8aWxoJjk2IQTC"
+    },
+    {
+      "album": {
+        "name": "Effetto notte",
+        "url": "https://open.spotify.com/album/39wuRno08Rl0Jsse2kCHga"
+      },
+      "artists": [
+        {
+          "name": "Emis Killa",
+          "url": "https://open.spotify.com/artist/6FtwCmLY6L1sqvjaQ2lV6G"
+        },
+        {
+          "name": "Rizzo",
+          "url": "https://open.spotify.com/artist/2ALJBMyhbGODOEpstHfEqN"
+        }
+      ],
+      "date_added": "2023-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184160,
+      "name": "VISCERALE - closer",
+      "url": "https://open.spotify.com/track/7bgJm5Z7EpvXRMdysiUjCj"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX37pZLd58ED5"

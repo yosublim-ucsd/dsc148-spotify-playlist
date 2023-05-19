@@ -1,12 +1,12 @@
 {
   "description": "You are sipping on your coffee in a caf\u00e9 in Paris while a Jazz band plays somewhere in the background. ",
-  "num_followers": 288451,
+  "num_followers": 288935,
   "original_name": "French Jazz Caf\u00e9",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3YTY0NThmM2U0YzFjNjMwODNhZjcwZjc2N2VmZDNlMjY4Mzg0N2Jm",
+  "snapshot_id": "MCxjMTQ1ZTdkYjhhNjIwYTE4NjQxYjZjNGUyMmVhZGJkYjUwYWI2NDNj",
   "tracks": [
     {
       "added_at": "2023-05-09 09:26:49",
@@ -339,22 +339,6 @@
     {
       "added_at": "2023-05-09 09:26:49",
       "album": {
-        "name": "Bubble Gum",
-        "url": "https://open.spotify.com/album/1Rvk3tavC4U97f1UObfsnb"
-      },
-      "artists": [
-        {
-          "name": "Brigitte Bardot",
-          "url": "https://open.spotify.com/artist/1q24xIsAD7JZuVkTLR9TJy"
-        }
-      ],
-      "duration_ms": 140826,
-      "name": "Un jour comme un autre",
-      "url": "https://open.spotify.com/track/5cMZLL8DVg2TRgdb407LrF"
-    },
-    {
-      "added_at": "2023-05-09 09:26:49",
-      "album": {
         "name": "Fran\u00e7oise Hardy (Le premier bonheur du jour)",
         "url": "https://open.spotify.com/album/3oz5l8VzwwnFxIQTuD6WdM"
       },
@@ -367,6 +351,22 @@
       "duration_ms": 112693,
       "name": "Le premier bonheur du jour",
       "url": "https://open.spotify.com/track/4Z1SQ54lhPoTqrdquQp9V9"
+    },
+    {
+      "added_at": "2023-05-09 09:26:49",
+      "album": {
+        "name": "Bubble Gum",
+        "url": "https://open.spotify.com/album/1Rvk3tavC4U97f1UObfsnb"
+      },
+      "artists": [
+        {
+          "name": "Brigitte Bardot",
+          "url": "https://open.spotify.com/artist/1q24xIsAD7JZuVkTLR9TJy"
+        }
+      ],
+      "duration_ms": 140826,
+      "name": "Un jour comme un autre",
+      "url": "https://open.spotify.com/track/5cMZLL8DVg2TRgdb407LrF"
     },
     {
       "added_at": "2023-05-09 09:26:49",
@@ -799,22 +799,6 @@
     {
       "added_at": "2023-05-09 09:26:49",
       "album": {
-        "name": "Rendez Vous",
-        "url": "https://open.spotify.com/album/5u7sQwDpqDmhOj72qdLi3Y"
-      },
-      "artists": [
-        {
-          "name": "Laura Fygi",
-          "url": "https://open.spotify.com/artist/5ETqbIZYRoPMQbly4iVfuB"
-        }
-      ],
-      "duration_ms": 217880,
-      "name": "Le Temps Qui Passe",
-      "url": "https://open.spotify.com/track/3FwNKZkn50tXoEaXKtvKXw"
-    },
-    {
-      "added_at": "2023-05-09 09:26:49",
-      "album": {
         "name": "Chansons",
         "url": "https://open.spotify.com/album/2BbY1j3Omk7pQsDKjl3r7w"
       },
@@ -827,6 +811,22 @@
       "duration_ms": 229226,
       "name": "J'attendrai",
       "url": "https://open.spotify.com/track/1MllJS2dPDoVBuWVMoLujP"
+    },
+    {
+      "added_at": "2023-05-09 09:26:49",
+      "album": {
+        "name": "Rendez Vous",
+        "url": "https://open.spotify.com/album/5u7sQwDpqDmhOj72qdLi3Y"
+      },
+      "artists": [
+        {
+          "name": "Laura Fygi",
+          "url": "https://open.spotify.com/artist/5ETqbIZYRoPMQbly4iVfuB"
+        }
+      ],
+      "duration_ms": 217880,
+      "name": "Le Temps Qui Passe",
+      "url": "https://open.spotify.com/track/3FwNKZkn50tXoEaXKtvKXw"
     },
     {
       "added_at": "2023-05-09 09:26:49",
@@ -1084,9 +1084,9 @@
           "url": "https://open.spotify.com/artist/3mG2QgBwWdWbHNjnFC6pu4"
         }
       ],
-      "duration_ms": 172293,
-      "name": "Salle des pas perdus",
-      "url": "https://open.spotify.com/track/1yi77TrGsSLuR0rKY6TXsq"
+      "duration_ms": 111626,
+      "name": "\u00c7a valait la peine",
+      "url": "https://open.spotify.com/track/4jKicslpJyPfeJRSxbUPQV"
     },
     {
       "added_at": "2023-05-09 09:26:49",
@@ -1164,9 +1164,9 @@
           "url": "https://open.spotify.com/artist/3mG2QgBwWdWbHNjnFC6pu4"
         }
       ],
-      "duration_ms": 111626,
-      "name": "\u00c7a valait la peine",
-      "url": "https://open.spotify.com/track/4jKicslpJyPfeJRSxbUPQV"
+      "duration_ms": 172293,
+      "name": "Salle des pas perdus",
+      "url": "https://open.spotify.com/track/1yi77TrGsSLuR0rKY6TXsq"
     },
     {
       "added_at": "2023-05-09 09:26:49",
@@ -1183,6 +1183,22 @@
       "duration_ms": 169143,
       "name": "Quand on s'balade",
       "url": "https://open.spotify.com/track/0Qo7NdtGc2pEVCmvJWhW9H"
+    },
+    {
+      "added_at": "2023-05-09 09:26:49",
+      "album": {
+        "name": "Chansons",
+        "url": "https://open.spotify.com/album/2BbY1j3Omk7pQsDKjl3r7w"
+      },
+      "artists": [
+        {
+          "name": "Jill Barber",
+          "url": "https://open.spotify.com/artist/0Geq9Y20DjOlUjvmFZtzGx"
+        }
+      ],
+      "duration_ms": 203840,
+      "name": "Plus bleu que tes yeux",
+      "url": "https://open.spotify.com/track/7kZZqvxiakch8uyU9fY7hC"
     },
     {
       "added_at": "2023-05-09 09:26:49",
@@ -1215,22 +1231,6 @@
       "duration_ms": 187280,
       "name": "Aim\u00e9",
       "url": "https://open.spotify.com/track/7unsDj1BtTJMsRvkXMCktQ"
-    },
-    {
-      "added_at": "2023-05-09 09:26:49",
-      "album": {
-        "name": "Chansons",
-        "url": "https://open.spotify.com/album/2BbY1j3Omk7pQsDKjl3r7w"
-      },
-      "artists": [
-        {
-          "name": "Jill Barber",
-          "url": "https://open.spotify.com/artist/0Geq9Y20DjOlUjvmFZtzGx"
-        }
-      ],
-      "duration_ms": 203840,
-      "name": "Plus bleu que tes yeux",
-      "url": "https://open.spotify.com/track/7kZZqvxiakch8uyU9fY7hC"
     },
     {
       "added_at": "2023-05-09 09:26:49",
@@ -1383,22 +1383,6 @@
     {
       "added_at": "2023-05-09 09:26:49",
       "album": {
-        "name": "Balade \u00e0 Saint-Germain, vol 6. Rue Saint Benoit: Nouvelle Vague",
-        "url": "https://open.spotify.com/album/1bPLkervGXS2QbjvSbEvoS"
-      },
-      "artists": [
-        {
-          "name": "Marie Lafor\u00eat",
-          "url": "https://open.spotify.com/artist/37ZQmqZrhmCCZebZF3Cvwx"
-        }
-      ],
-      "duration_ms": 139548,
-      "name": "Saint-tropez blues",
-      "url": "https://open.spotify.com/track/1AHRCyqA0oTITwSx5k6006"
-    },
-    {
-      "added_at": "2023-05-09 09:26:49",
-      "album": {
         "name": "Chante Vian et Higelin",
         "url": "https://open.spotify.com/album/3HeAWCVAleqYP5Vvdc8jdy"
       },
@@ -1415,6 +1399,22 @@
       "duration_ms": 141306,
       "name": "La Grippe",
       "url": "https://open.spotify.com/track/7kcRZ2mqIYx1y3LNiOd6lM"
+    },
+    {
+      "added_at": "2023-05-09 09:26:49",
+      "album": {
+        "name": "Balade \u00e0 Saint-Germain, vol 6. Rue Saint Benoit: Nouvelle Vague",
+        "url": "https://open.spotify.com/album/1bPLkervGXS2QbjvSbEvoS"
+      },
+      "artists": [
+        {
+          "name": "Marie Lafor\u00eat",
+          "url": "https://open.spotify.com/artist/37ZQmqZrhmCCZebZF3Cvwx"
+        }
+      ],
+      "duration_ms": 139548,
+      "name": "Saint-tropez blues",
+      "url": "https://open.spotify.com/track/1AHRCyqA0oTITwSx5k6006"
     },
     {
       "added_at": "2023-05-09 09:26:49",
@@ -1519,22 +1519,6 @@
     {
       "added_at": "2023-05-09 09:26:49",
       "album": {
-        "name": "Dans la peau",
-        "url": "https://open.spotify.com/album/4tPSoyEzxWxVbXcM3sUYdG"
-      },
-      "artists": [
-        {
-          "name": "Cam\u00e9lia Jordana",
-          "url": "https://open.spotify.com/artist/2XkCa3HcntokIgOP5N3QO7"
-        }
-      ],
-      "duration_ms": 132280,
-      "name": "Brigitte dit vrai",
-      "url": "https://open.spotify.com/track/4qhmktfBtfXGqb7G0GSjW3"
-    },
-    {
-      "added_at": "2023-05-09 09:26:49",
-      "album": {
         "name": "Chambre Avec Vue",
         "url": "https://open.spotify.com/album/1EE8dKVd22YHhZT2LoiEOB"
       },
@@ -1547,6 +1531,22 @@
       "duration_ms": 234066,
       "name": "Aime moi",
       "url": "https://open.spotify.com/track/2reLiqBW2EfejTe7OixGmT"
+    },
+    {
+      "added_at": "2023-05-09 09:26:49",
+      "album": {
+        "name": "Dans la peau",
+        "url": "https://open.spotify.com/album/4tPSoyEzxWxVbXcM3sUYdG"
+      },
+      "artists": [
+        {
+          "name": "Cam\u00e9lia Jordana",
+          "url": "https://open.spotify.com/artist/2XkCa3HcntokIgOP5N3QO7"
+        }
+      ],
+      "duration_ms": 132280,
+      "name": "Brigitte dit vrai",
+      "url": "https://open.spotify.com/track/4qhmktfBtfXGqb7G0GSjW3"
     },
     {
       "added_at": "2023-05-09 09:26:49",
@@ -1615,22 +1615,6 @@
     {
       "added_at": "2023-05-09 09:26:49",
       "album": {
-        "name": "Fourteen",
-        "url": "https://open.spotify.com/album/62VsGN7VqFAOxSkFyy6v8X"
-      },
-      "artists": [
-        {
-          "name": "Carol Welsman",
-          "url": "https://open.spotify.com/artist/5nw4wMgfImhoebM0e2MzSR"
-        }
-      ],
-      "duration_ms": 302773,
-      "name": "C'est le printemps",
-      "url": "https://open.spotify.com/track/4FpziZDBquIx4pkYxDTwdz"
-    },
-    {
-      "added_at": "2023-05-09 09:26:49",
-      "album": {
         "name": "Chambre Avec Vue",
         "url": "https://open.spotify.com/album/1EE8dKVd22YHhZT2LoiEOB"
       },
@@ -1643,6 +1627,22 @@
       "duration_ms": 168800,
       "name": "Faire des ronds dans l'eau",
       "url": "https://open.spotify.com/track/7JFT6vfzNI3Qtyyza6J55R"
+    },
+    {
+      "added_at": "2023-05-09 09:26:49",
+      "album": {
+        "name": "Fourteen",
+        "url": "https://open.spotify.com/album/62VsGN7VqFAOxSkFyy6v8X"
+      },
+      "artists": [
+        {
+          "name": "Carol Welsman",
+          "url": "https://open.spotify.com/artist/5nw4wMgfImhoebM0e2MzSR"
+        }
+      ],
+      "duration_ms": 302773,
+      "name": "C'est le printemps",
+      "url": "https://open.spotify.com/track/4FpziZDBquIx4pkYxDTwdz"
     },
     {
       "added_at": "2023-05-09 09:26:49",

@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdWMJMjqz9bm.md) - [plain]
 
 > A little bit of pop, a little bit of rap\. Cover: Felly
 
-[Spotify](https://open.spotify.com/user/spotify) - 192,335 likes - 94 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 192,408 likes - 94 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Vroom](https://open.spotify.com/track/4moXJ0WFWXTDg4EcmIUttM) | [Hoodie Allen](https://open.spotify.com/artist/382aq8Pij5V2nE2JMHMoxl), [Connor Price](https://open.spotify.com/artist/5zixe6AbgXPqt4c1uSl94L) | [Vroom](https://open.spotify.com/album/4WbqzxKS4rlALgUOMrKJtL) | 2:17 |
 | 2 | [harvey dent](https://open.spotify.com/track/6jxHaObnplne9KFRWV3eUo) | [PmBata](https://open.spotify.com/artist/3jeXY6LJU0ZiKhXoXa9rRw), [Rxseboy](https://open.spotify.com/artist/1ScHz7wPPxVTEKsc9g3Z0c) | [harvey dent](https://open.spotify.com/album/3eYDrexE20vyIhz4kPlATc) | 2:31 |
-| 3 | [fvcked up](https://open.spotify.com/track/2UDId466CGX4BuZGwW0uiJ) | [Arden Jones](https://open.spotify.com/artist/3mMogqf2JyBUQZxFZlC79w) | [fvcked up](https://open.spotify.com/album/5UWUE2F3kGOZmsMB3w6fjU) | 1:52 |
+| 3 | [fvcked up](https://open.spotify.com/track/08oZlYytwsxbfeCuRm17oF) | [Arden Jones](https://open.spotify.com/artist/3mMogqf2JyBUQZxFZlC79w) | [fvcked up](https://open.spotify.com/album/6Gt5V1Es9aUa6VUfObR1K0) | 1:52 |
 | 4 | [Nothing Last Forever](https://open.spotify.com/track/6qMt0E05ZeHbinh3SlJkTX) | [Felly](https://open.spotify.com/artist/2848adRcxvgWNRcz1g1tQD) | [Nothing Last Forever](https://open.spotify.com/album/1KBW5j3M9VEKbfgUCMvV0C) | 2:58 |
 | 5 | [just friends](https://open.spotify.com/track/0lyQfWU4187x4YKopYsxua) | [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ) | [just friends](https://open.spotify.com/album/5T6znI9GDd2LiMkTq2oK6z) | 2:59 |
 | 6 | [moving on \(feat\. Khary\)](https://open.spotify.com/track/3YNUrsQihHuKSE1xQs6MdG) | [SEB](https://open.spotify.com/artist/7oPxPZSk7y5q0fhzpmX5Gi), [Khary](https://open.spotify.com/artist/4489Zgs4RNq2ZtSh3UnOxZ) | [moving on / sugarhoneyiceicetea](https://open.spotify.com/album/6bKEgno07WC8rhuhSwMb8n) | 2:59 |
@@ -103,4 +103,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdWMJMjqz9bm.md) - [plain]
 | 93 | [DITTO](https://open.spotify.com/track/3MrZcAFdNmtPVbob9QYvs4) | [Aries](https://open.spotify.com/artist/3hOdow4ZPmrby7Q1wfPLEy) | [BELIEVE IN ME, WHO BELIEVES IN YOU](https://open.spotify.com/album/1eLp5qe0nJkOb3rzqnbme0) | 2:30 |
 | 94 | [FIDDLE LEAF](https://open.spotify.com/track/6iaeHs0FXbwHIFpOa9QZ03) | [Kota the Friend](https://open.spotify.com/artist/2AfU5LYBVCiCtuCCfM7uVX) | [Lyrics to GO, Vol\. 4](https://open.spotify.com/album/0E6Fb92KU7h8jRdHfZxNm3) | 1:47 |
 
-Snapshot ID: `MCwzYzJkZjJhMGMwMTlmZjBkYmUzN2YzZmNmOWY0MDM4ZWU5NmNmYWQy`
+Snapshot ID: `MCw5MTUyNDNmNDUwN2Q1N2Q5OGM0MDk4MzZlY2E3NjM1NTFhM2Q4NmE0`

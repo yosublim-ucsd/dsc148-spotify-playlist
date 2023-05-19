@@ -1,12 +1,12 @@
 {
   "description": "slow burners for late nights",
-  "num_followers": 923683,
+  "num_followers": 923876,
   "original_name": "late night vibes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzNWQ2ZmY1NTk5ZjlkM2NjYzA2NDhhYjg5Nzc4OWI2NGE1MGQyYzY5",
+  "snapshot_id": "MCw5MjZlMGE5YmNmNGE3ZGI3MzRjNzhkMGY5NzljYTEyOGIzMmRjZmMw",
   "tracks": [
     {
       "added_at": "2023-04-25 20:43:50",
@@ -407,6 +407,26 @@
     {
       "added_at": "2023-04-25 20:43:50",
       "album": {
+        "name": "Instrumental Relics",
+        "url": "https://open.spotify.com/album/66eXLlqksAwNndmHaHWtCq"
+      },
+      "artists": [
+        {
+          "name": "Clams Casino",
+          "url": "https://open.spotify.com/artist/5vSQUyT33qxr1xAX2Tkf3A"
+        },
+        {
+          "name": "Imogen Heap",
+          "url": "https://open.spotify.com/artist/6Xb4ezwoAQC4516kI89nWz"
+        }
+      ],
+      "duration_ms": 277710,
+      "name": "I'm God",
+      "url": "https://open.spotify.com/track/0FVuyC9RP5MACjp4lgU3qZ"
+    },
+    {
+      "added_at": "2023-04-25 20:43:50",
+      "album": {
         "name": "boygenius",
         "url": "https://open.spotify.com/album/6RjlLIuDFC8Dw91yRAdPz9"
       },
@@ -431,26 +451,6 @@
       "duration_ms": 212467,
       "name": "Souvenir",
       "url": "https://open.spotify.com/track/21JL0gpeAYgbSUmzhgSPJz"
-    },
-    {
-      "added_at": "2023-04-25 20:43:50",
-      "album": {
-        "name": "Instrumental Relics",
-        "url": "https://open.spotify.com/album/66eXLlqksAwNndmHaHWtCq"
-      },
-      "artists": [
-        {
-          "name": "Clams Casino",
-          "url": "https://open.spotify.com/artist/5vSQUyT33qxr1xAX2Tkf3A"
-        },
-        {
-          "name": "Imogen Heap",
-          "url": "https://open.spotify.com/artist/6Xb4ezwoAQC4516kI89nWz"
-        }
-      ],
-      "duration_ms": 277710,
-      "name": "I'm God",
-      "url": "https://open.spotify.com/track/0FVuyC9RP5MACjp4lgU3qZ"
     },
     {
       "added_at": "2023-04-25 20:43:50",
@@ -677,7 +677,7 @@
         }
       ],
       "duration_ms": 183230,
-      "name": "Me (heavy)",
+      "name": "Me (Heavy)",
       "url": "https://open.spotify.com/track/3MhbnxA1JnksiATu9xyB2c"
     },
     {
@@ -1191,22 +1191,6 @@
     {
       "added_at": "2023-04-25 20:43:50",
       "album": {
-        "name": "Eve",
-        "url": "https://open.spotify.com/album/1O056siKSsHdDjlvIO0pJ5"
-      },
-      "artists": [
-        {
-          "name": "Avenoir",
-          "url": "https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb"
-        }
-      ],
-      "duration_ms": 163728,
-      "name": "Eve",
-      "url": "https://open.spotify.com/track/4nwSwALkSaxA26bEANsi20"
-    },
-    {
-      "added_at": "2023-04-25 20:43:50",
-      "album": {
         "name": "January",
         "url": "https://open.spotify.com/album/0e3TGReFAa5Hatq0CDT0Tk"
       },
@@ -1219,6 +1203,22 @@
       "duration_ms": 196363,
       "name": "January",
       "url": "https://open.spotify.com/track/4ufN2o3Rf6LN5Z0XaqJXIz"
+    },
+    {
+      "added_at": "2023-04-25 20:43:50",
+      "album": {
+        "name": "Eve",
+        "url": "https://open.spotify.com/album/1O056siKSsHdDjlvIO0pJ5"
+      },
+      "artists": [
+        {
+          "name": "Avenoir",
+          "url": "https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb"
+        }
+      ],
+      "duration_ms": 163728,
+      "name": "Eve",
+      "url": "https://open.spotify.com/track/4nwSwALkSaxA26bEANsi20"
     },
     {
       "added_at": "2023-04-25 20:43:50",
@@ -1287,6 +1287,22 @@
     {
       "added_at": "2023-04-25 20:43:50",
       "album": {
+        "name": "D4U - Spotify Singles",
+        "url": "https://open.spotify.com/album/0NzuHS5ImrOevPOkWYQoZj"
+      },
+      "artists": [
+        {
+          "name": "Avenoir",
+          "url": "https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb"
+        }
+      ],
+      "duration_ms": 160487,
+      "name": "D4U - Spotify Singles",
+      "url": "https://open.spotify.com/track/4ATldz2t0zMGWtFK3uqDL4"
+    },
+    {
+      "added_at": "2023-04-25 20:43:50",
+      "album": {
         "name": "Hope For Sale",
         "url": "https://open.spotify.com/album/2opiJIrYClkW7qD2vM6vSi"
       },
@@ -1319,22 +1335,6 @@
       "duration_ms": 236853,
       "name": "Rivers",
       "url": "https://open.spotify.com/track/1dBje6EOpDBLdoKGo94DEa"
-    },
-    {
-      "added_at": "2023-04-25 20:43:50",
-      "album": {
-        "name": "D4U - Spotify Singles",
-        "url": "https://open.spotify.com/album/0NzuHS5ImrOevPOkWYQoZj"
-      },
-      "artists": [
-        {
-          "name": "Avenoir",
-          "url": "https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb"
-        }
-      ],
-      "duration_ms": 160487,
-      "name": "D4U - Spotify Singles",
-      "url": "https://open.spotify.com/track/4ATldz2t0zMGWtFK3uqDL4"
     },
     {
       "added_at": "2023-04-25 20:43:50",
@@ -1487,22 +1487,6 @@
     {
       "added_at": "2023-04-25 20:43:50",
       "album": {
-        "name": "A Violent Dichotomy",
-        "url": "https://open.spotify.com/album/5kKivJoHCGybHPa0HZRqQt"
-      },
-      "artists": [
-        {
-          "name": "LUCIUS ARTHUR",
-          "url": "https://open.spotify.com/artist/67vICzj4HQ8LayBYXqF5YD"
-        }
-      ],
-      "duration_ms": 255113,
-      "name": "Bad Habit",
-      "url": "https://open.spotify.com/track/6gRdiHPSPWUfzqlY3AIxcO"
-    },
-    {
-      "added_at": "2023-04-25 20:43:50",
-      "album": {
         "name": "Spider",
         "url": "https://open.spotify.com/album/4w42UNeqts8JN3uSW6O2A9"
       },
@@ -1583,6 +1567,22 @@
     {
       "added_at": "2023-04-25 20:43:50",
       "album": {
+        "name": "A Violent Dichotomy",
+        "url": "https://open.spotify.com/album/5kKivJoHCGybHPa0HZRqQt"
+      },
+      "artists": [
+        {
+          "name": "LUCIUS ARTHUR",
+          "url": "https://open.spotify.com/artist/67vICzj4HQ8LayBYXqF5YD"
+        }
+      ],
+      "duration_ms": 255113,
+      "name": "Bad Habit",
+      "url": "https://open.spotify.com/track/6gRdiHPSPWUfzqlY3AIxcO"
+    },
+    {
+      "added_at": "2023-04-25 20:43:50",
+      "album": {
         "name": "Up and Away",
         "url": "https://open.spotify.com/album/4i2Cb9v7g9ieShCgf1gakk"
       },
@@ -1603,22 +1603,6 @@
     {
       "added_at": "2023-04-25 20:43:50",
       "album": {
-        "name": "Beige",
-        "url": "https://open.spotify.com/album/1rqc8pT4NhDpx1ikfeadCW"
-      },
-      "artists": [
-        {
-          "name": "Flozigg",
-          "url": "https://open.spotify.com/artist/0pTI6gG0UHQjylvV6mPuHv"
-        }
-      ],
-      "duration_ms": 169846,
-      "name": "MUTUAL",
-      "url": "https://open.spotify.com/track/34dEWnWlThEqkHiASAy0ks"
-    },
-    {
-      "added_at": "2023-04-25 20:43:50",
-      "album": {
         "name": "Are We There",
         "url": "https://open.spotify.com/album/6EQWzHbd3EYO8J4EAIJst4"
       },
@@ -1631,6 +1615,22 @@
       "duration_ms": 232760,
       "name": "Our Love",
       "url": "https://open.spotify.com/track/2WCCyU7CazujWXYOqNjsLW"
+    },
+    {
+      "added_at": "2023-04-25 20:43:50",
+      "album": {
+        "name": "Beige",
+        "url": "https://open.spotify.com/album/1rqc8pT4NhDpx1ikfeadCW"
+      },
+      "artists": [
+        {
+          "name": "Flozigg",
+          "url": "https://open.spotify.com/artist/0pTI6gG0UHQjylvV6mPuHv"
+        }
+      ],
+      "duration_ms": 169846,
+      "name": "MUTUAL",
+      "url": "https://open.spotify.com/track/34dEWnWlThEqkHiASAy0ks"
     },
     {
       "added_at": "2023-04-25 20:43:50",
@@ -1651,6 +1651,22 @@
     {
       "added_at": "2023-04-25 20:43:50",
       "album": {
+        "name": "Views/Octopus EP",
+        "url": "https://open.spotify.com/album/3L4wUhGelZ8wyJ13O1jerU"
+      },
+      "artists": [
+        {
+          "name": "Nosaj Thing",
+          "url": "https://open.spotify.com/artist/0IVapwlnM3dEOiMsHXsghT"
+        }
+      ],
+      "duration_ms": 184000,
+      "name": "Aquarium",
+      "url": "https://open.spotify.com/track/4ZOv9mx6Lz7RRaBFi5UNaE"
+    },
+    {
+      "added_at": "2023-04-25 20:43:50",
+      "album": {
         "name": "Process",
         "url": "https://open.spotify.com/album/4fRcYn1zNOHY5LJXuRmJHI"
       },
@@ -1663,22 +1679,6 @@
       "duration_ms": 218160,
       "name": "(No One Knows Me) Like the Piano",
       "url": "https://open.spotify.com/track/3D1VUmjj0IlhdHqGConc7C"
-    },
-    {
-      "added_at": "2023-04-25 20:43:50",
-      "album": {
-        "name": "cz",
-        "url": "https://open.spotify.com/album/4ReGYpr1tyZy8nscdJCxjf"
-      },
-      "artists": [
-        {
-          "name": "Mk.gee",
-          "url": "https://open.spotify.com/artist/7tr9pbgNEKtG0GQTKe08Tz"
-        }
-      ],
-      "duration_ms": 228946,
-      "name": "cz",
-      "url": "https://open.spotify.com/track/0tdA3tsJ4n6rJuiId3KrOP"
     }
   ],
   "unique_name": "late night vibes",

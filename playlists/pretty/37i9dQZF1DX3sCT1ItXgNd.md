@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3sCT1ItXgNd.md) - [plain]
 
 > Lo mejor y lo último del pop en español\. Foto: Abraham Mateo, Chanel
 
-[Spotify](https://open.spotify.com/user/spotify) - 977,743 likes - 75 songs - 3 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 977,848 likes - 75 songs - 3 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3sCT1ItXgNd.md) - [plain]
 | 74 | [SI TÚ SUPIERAS](https://open.spotify.com/track/2h9dTYIe6GxmuK0nQvfj6C) | [Funzo & Baby Loud](https://open.spotify.com/artist/1nwjHzOUQZsNYX8xoWiGVC) | [SI TÚ SUPIERAS](https://open.spotify.com/album/11ZSWjcfUSFULN9YHHxX7i) | 2:49 |
 | 75 | [NADIE ME HA PREGUNTADO](https://open.spotify.com/track/1Z2WPWbT7TVKIwIz0lll8f) | [Belén Aguilera](https://open.spotify.com/artist/5fmYDIdgEkSgLdL6esxgfp) | [NADIE ME HA PREGUNTADO](https://open.spotify.com/album/15Z0uBEHEw1huJlm0mHQro) | 2:42 |
 
-Snapshot ID: `MCw3YmU4MDQ2YzAyYWMwMjQ2NmEyMTc3NTJmYjcyMTViYzY5N2MxZDli`
+Snapshot ID: `MCwwZjg0NjY5MzU4YTdjZDdlY2VkMWQyZmMyNjUwMWQ2NjJjNDY2Zjlm`

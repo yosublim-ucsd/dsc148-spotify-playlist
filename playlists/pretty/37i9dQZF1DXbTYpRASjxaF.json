@@ -1,12 +1,12 @@
 {
   "description": "Pega o gelo de coco, chama o bonde e vem pra festa. Foto: Ryu, the Runner, Mateca",
-  "num_followers": 108166,
+  "num_followers": 108390,
   "original_name": "Cop\u00e3o na m\u00e3o",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxMmM2MzFiYzIzOTFkZmZjODA4NjAxZjJjNmMwY2ZjZWZiNjFmYWY5",
+  "snapshot_id": "MCwyOTk1YjFhOTIyNDc2NmU1ODZjNWNkNzRmNDU3YTYzZmMwZDZiYTAz",
   "tracks": [
     {
       "added_at": "2023-05-15 19:59:10",
@@ -683,8 +683,8 @@
     {
       "added_at": "2023-05-15 19:59:10",
       "album": {
-        "name": "O S\u00e1bio",
-        "url": "https://open.spotify.com/album/6aONODz5AYfzrNESWC9n4W"
+        "name": "A Cara do Crime (N\u00f3s Incomoda)",
+        "url": "https://open.spotify.com/album/75IYhNYhWnTAgVYyaHGzga"
       },
       "artists": [
         {
@@ -692,21 +692,29 @@
           "url": "https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M"
         },
         {
-          "name": "Vulgo FK",
-          "url": "https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0"
+          "name": "Bielzin",
+          "url": "https://open.spotify.com/artist/2vWGxqWbGgmgxVDZ5CBvBP"
         },
         {
-          "name": "Galdino",
-          "url": "https://open.spotify.com/artist/0WvTL8PecsD3VxRGuHdSxj"
+          "name": "Mainstreet",
+          "url": "https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd"
         },
         {
-          "name": "Portugal No Beat",
-          "url": "https://open.spotify.com/artist/71LRKKvAjoc6LyNmob269Q"
+          "name": "MC Cabelinho",
+          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
+        },
+        {
+          "name": "PL Quest",
+          "url": "https://open.spotify.com/artist/6J6U2JAv7LUF0cSQ98gpjM"
+        },
+        {
+          "name": "Neo Beats",
+          "url": "https://open.spotify.com/artist/6PERJZF7wohA034PAxDK0b"
         }
       ],
-      "duration_ms": 186947,
-      "name": "Ai Calica",
-      "url": "https://open.spotify.com/track/65CB461aKF5FvIuuzqUgXu"
+      "duration_ms": 302117,
+      "name": "A Cara do Crime (N\u00f3s Incomoda)",
+      "url": "https://open.spotify.com/track/0wRn3ggAY1fIupTaVigdza"
     },
     {
       "added_at": "2023-05-15 19:59:10",
@@ -823,6 +831,26 @@
     {
       "added_at": "2023-05-15 19:59:10",
       "album": {
+        "name": "Passado & Presente",
+        "url": "https://open.spotify.com/album/5hwK2P6q7pjxahdDEobHIb"
+      },
+      "artists": [
+        {
+          "name": "Mc Kevin",
+          "url": "https://open.spotify.com/artist/5pBMkZNIlbGTH3hrsQJqAa"
+        },
+        {
+          "name": "MC Hariel",
+          "url": "https://open.spotify.com/artist/0pcoadNMmvrUyab1RxWBoV"
+        }
+      ],
+      "duration_ms": 205714,
+      "name": "Jun\u00e7\u00e3o Venenosa",
+      "url": "https://open.spotify.com/track/2FSuhtOSQo1MUn8bNZmxYq"
+    },
+    {
+      "added_at": "2023-05-15 19:59:10",
+      "album": {
         "name": "Debochando da M\u00eddia",
         "url": "https://open.spotify.com/album/12PFddiRwZQ5GQ3p24jZTo"
       },
@@ -843,26 +871,6 @@
       "duration_ms": 201600,
       "name": "Debochando da M\u00eddia",
       "url": "https://open.spotify.com/track/24cOHkrtGGQmKvA8R9BNin"
-    },
-    {
-      "added_at": "2023-05-15 19:59:10",
-      "album": {
-        "name": "Passado & Presente",
-        "url": "https://open.spotify.com/album/5hwK2P6q7pjxahdDEobHIb"
-      },
-      "artists": [
-        {
-          "name": "Mc Kevin",
-          "url": "https://open.spotify.com/artist/5pBMkZNIlbGTH3hrsQJqAa"
-        },
-        {
-          "name": "MC Hariel",
-          "url": "https://open.spotify.com/artist/0pcoadNMmvrUyab1RxWBoV"
-        }
-      ],
-      "duration_ms": 205714,
-      "name": "Jun\u00e7\u00e3o Venenosa",
-      "url": "https://open.spotify.com/track/2FSuhtOSQo1MUn8bNZmxYq"
     },
     {
       "added_at": "2023-05-15 19:59:10",
@@ -891,32 +899,40 @@
     {
       "added_at": "2023-05-15 19:59:10",
       "album": {
-        "name": "Privil\u00e9gio",
-        "url": "https://open.spotify.com/album/46UPYnlqTunDKOjpogfIyb"
+        "name": "Vida Cara",
+        "url": "https://open.spotify.com/album/05O0Z1S7MeE49h8krhErzy"
       },
       "artists": [
         {
-          "name": "MC Luan da BS",
-          "url": "https://open.spotify.com/artist/1BrFcFtIp3ZqvuI5C0VcK3"
+          "name": "Orochi",
+          "url": "https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx"
         },
         {
-          "name": "Mc Vitin do LJ",
-          "url": "https://open.spotify.com/artist/4NYa9HEvARX9LXU4LRoGny"
+          "name": "Dfideliz",
+          "url": "https://open.spotify.com/artist/0oNOkdVXXFaWC9tPb7Ol10"
         },
         {
-          "name": "MC Marley",
-          "url": "https://open.spotify.com/artist/0f6Q3bpuXN7TfNxeJJBd3m"
+          "name": "Caio Luccas",
+          "url": "https://open.spotify.com/artist/1a3fr7NdeBT4JlGj6YlbDL"
+        },
+        {
+          "name": "RUXN",
+          "url": "https://open.spotify.com/artist/30Hiyu8fW3upjYdoXoXy8i"
+        },
+        {
+          "name": "TkN",
+          "url": "https://open.spotify.com/artist/3SB4jbHhsv6NQTh7ZT5GzS"
         }
       ],
-      "duration_ms": 151384,
-      "name": "Privil\u00e9gio",
-      "url": "https://open.spotify.com/track/2ASs0n7ukfyxAxDtdir4vF"
+      "duration_ms": 194198,
+      "name": "Droga e Festa",
+      "url": "https://open.spotify.com/track/2PwxSh4DECcdJyUuMkAovC"
     },
     {
       "added_at": "2023-05-15 19:59:10",
       "album": {
-        "name": "A Cara do Crime (N\u00f3s Incomoda)",
-        "url": "https://open.spotify.com/album/75IYhNYhWnTAgVYyaHGzga"
+        "name": "O S\u00e1bio",
+        "url": "https://open.spotify.com/album/6aONODz5AYfzrNESWC9n4W"
       },
       "artists": [
         {
@@ -924,29 +940,21 @@
           "url": "https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M"
         },
         {
-          "name": "Bielzin",
-          "url": "https://open.spotify.com/artist/2vWGxqWbGgmgxVDZ5CBvBP"
+          "name": "Vulgo FK",
+          "url": "https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0"
         },
         {
-          "name": "Mainstreet",
-          "url": "https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd"
+          "name": "Galdino",
+          "url": "https://open.spotify.com/artist/0WvTL8PecsD3VxRGuHdSxj"
         },
         {
-          "name": "MC Cabelinho",
-          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
-        },
-        {
-          "name": "PL Quest",
-          "url": "https://open.spotify.com/artist/6J6U2JAv7LUF0cSQ98gpjM"
-        },
-        {
-          "name": "Neo Beats",
-          "url": "https://open.spotify.com/artist/6PERJZF7wohA034PAxDK0b"
+          "name": "Portugal No Beat",
+          "url": "https://open.spotify.com/artist/71LRKKvAjoc6LyNmob269Q"
         }
       ],
-      "duration_ms": 302117,
-      "name": "A Cara do Crime (N\u00f3s Incomoda)",
-      "url": "https://open.spotify.com/track/0wRn3ggAY1fIupTaVigdza"
+      "duration_ms": 186947,
+      "name": "Ai Calica",
+      "url": "https://open.spotify.com/track/65CB461aKF5FvIuuzqUgXu"
     },
     {
       "added_at": "2023-05-15 19:59:10",
@@ -999,34 +1007,26 @@
     {
       "added_at": "2023-05-15 19:59:10",
       "album": {
-        "name": "Vida Cara",
-        "url": "https://open.spotify.com/album/05O0Z1S7MeE49h8krhErzy"
+        "name": "Privil\u00e9gio",
+        "url": "https://open.spotify.com/album/46UPYnlqTunDKOjpogfIyb"
       },
       "artists": [
         {
-          "name": "Orochi",
-          "url": "https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx"
+          "name": "MC Luan da BS",
+          "url": "https://open.spotify.com/artist/1BrFcFtIp3ZqvuI5C0VcK3"
         },
         {
-          "name": "Dfideliz",
-          "url": "https://open.spotify.com/artist/0oNOkdVXXFaWC9tPb7Ol10"
+          "name": "Mc Vitin do LJ",
+          "url": "https://open.spotify.com/artist/4NYa9HEvARX9LXU4LRoGny"
         },
         {
-          "name": "Caio Luccas",
-          "url": "https://open.spotify.com/artist/1a3fr7NdeBT4JlGj6YlbDL"
-        },
-        {
-          "name": "RUXN",
-          "url": "https://open.spotify.com/artist/30Hiyu8fW3upjYdoXoXy8i"
-        },
-        {
-          "name": "TkN",
-          "url": "https://open.spotify.com/artist/3SB4jbHhsv6NQTh7ZT5GzS"
+          "name": "MC Marley",
+          "url": "https://open.spotify.com/artist/0f6Q3bpuXN7TfNxeJJBd3m"
         }
       ],
-      "duration_ms": 194198,
-      "name": "Droga e Festa",
-      "url": "https://open.spotify.com/track/2PwxSh4DECcdJyUuMkAovC"
+      "duration_ms": 151384,
+      "name": "Privil\u00e9gio",
+      "url": "https://open.spotify.com/track/2ASs0n7ukfyxAxDtdir4vF"
     },
     {
       "added_at": "2023-05-15 19:59:10",
@@ -1243,6 +1243,38 @@
     {
       "added_at": "2023-05-15 19:59:10",
       "album": {
+        "name": "Pixad\u00e3o",
+        "url": "https://open.spotify.com/album/11XLoSzIKieX8A4zC9mNcq"
+      },
+      "artists": [
+        {
+          "name": "Orochi",
+          "url": "https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx"
+        },
+        {
+          "name": "L7NNON",
+          "url": "https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C"
+        },
+        {
+          "name": "MC Paulin da Capital",
+          "url": "https://open.spotify.com/artist/592JnViQ2tot63c1SbtgK2"
+        },
+        {
+          "name": "Mainstreet",
+          "url": "https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd"
+        },
+        {
+          "name": "RUXN",
+          "url": "https://open.spotify.com/artist/30Hiyu8fW3upjYdoXoXy8i"
+        }
+      ],
+      "duration_ms": 310344,
+      "name": "Pixad\u00e3o",
+      "url": "https://open.spotify.com/track/06VHFg61ePkcCQfYFEuz5c"
+    },
+    {
+      "added_at": "2023-05-15 19:59:10",
+      "album": {
         "name": "Para\u00edso Tropical",
         "url": "https://open.spotify.com/album/6dQ1cpSICVmtZlvulFbkjy"
       },
@@ -1331,38 +1363,6 @@
       "duration_ms": 475200,
       "name": "SET DJ GM 2.0",
       "url": "https://open.spotify.com/track/38BuaDkieTqCDqaawXsf78"
-    },
-    {
-      "added_at": "2023-05-15 19:59:10",
-      "album": {
-        "name": "Pixad\u00e3o",
-        "url": "https://open.spotify.com/album/11XLoSzIKieX8A4zC9mNcq"
-      },
-      "artists": [
-        {
-          "name": "Orochi",
-          "url": "https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx"
-        },
-        {
-          "name": "L7NNON",
-          "url": "https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C"
-        },
-        {
-          "name": "MC Paulin da Capital",
-          "url": "https://open.spotify.com/artist/592JnViQ2tot63c1SbtgK2"
-        },
-        {
-          "name": "Mainstreet",
-          "url": "https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd"
-        },
-        {
-          "name": "RUXN",
-          "url": "https://open.spotify.com/artist/30Hiyu8fW3upjYdoXoXy8i"
-        }
-      ],
-      "duration_ms": 310344,
-      "name": "Pixad\u00e3o",
-      "url": "https://open.spotify.com/track/06VHFg61ePkcCQfYFEuz5c"
     },
     {
       "added_at": "2023-05-15 19:59:10",

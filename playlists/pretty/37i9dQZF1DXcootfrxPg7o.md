@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcootfrxPg7o.md) - [plain]
 
 > Music from and inspired by Neflix's Malcolm & Marie.
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,021 likes - 36 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,141 likes - 36 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,4 +45,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcootfrxPg7o.md) - [plain]
 | 35 | [Yum Yum \(Gimme Some\)](https://open.spotify.com/track/3cxfUgWIrj0is6kZBED65i) | [Fatback Band](https://open.spotify.com/artist/6PWU6JQvvYv5sz5FOODHg6) | [Yum Yum](https://open.spotify.com/album/4Oe5MlkhpHuFmE98mPOKGD) | 3:18 |
 | 36 | [Wasted](https://open.spotify.com/track/5RP8iEkPFR3GyjaAdswIiH) | [NNAMDÏ](https://open.spotify.com/artist/6gACF5PEinqx3AzMLjiH90) | [BRAT](https://open.spotify.com/album/5yi3uqaTijrp5KVbvk6BIA) | 4:24 |
 
-Snapshot ID: `MCw3OThlMGRiZTFmNzhjZjc2Y2I2MGUwZGMyMWUwMWY0YmEyNDI4YmI4`
+Snapshot ID: `MCwxODVmOWMwYzUyOWUzYzBhMzcwM2NmNTU0MTQ2YzY4YTdjYTBkMzYx`

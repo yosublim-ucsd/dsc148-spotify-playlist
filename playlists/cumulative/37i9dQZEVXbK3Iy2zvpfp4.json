@@ -1895,6 +1895,24 @@
     },
     {
       "album": {
+        "name": "Because Of You",
+        "url": "https://open.spotify.com/album/4Pbi89jb8k56Qh8hrwwbGu"
+      },
+      "artists": [
+        {
+          "name": "Gustaph",
+          "url": "https://open.spotify.com/artist/55L5ivgJXuhhrPw3pdEph7"
+        }
+      ],
+      "date_added": "2023-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179908,
+      "name": "Because Of You",
+      "url": "https://open.spotify.com/track/320jqrATpl9762bCQkmLDf"
+    },
+    {
+      "album": {
         "name": "Bel Mercy",
         "url": "https://open.spotify.com/album/7kJhB3zZiALyIaWRGO3rwE"
       },
@@ -2712,6 +2730,24 @@
       "duration_ms": 278281,
       "name": "BREAK MY SOUL",
       "url": "https://open.spotify.com/track/5pyoxDZ1PX0KxBxiRVxA4U"
+    },
+    {
+      "album": {
+        "name": "Bridges",
+        "url": "https://open.spotify.com/album/0MpZN5tjvlgGGooZISXYki"
+      },
+      "artists": [
+        {
+          "name": "ALIKA",
+          "url": "https://open.spotify.com/artist/0k7PxyzK6aIWSzmC3522c4"
+        }
+      ],
+      "date_added": "2023-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185610,
+      "name": "Bridges",
+      "url": "https://open.spotify.com/track/3pvzk44kwy8u46wtglCKzd"
     },
     {
       "album": {
@@ -8620,7 +8656,7 @@
       ],
       "date_added": "2023-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 156000,
       "name": "Jednou nohou tam",
       "url": "https://open.spotify.com/track/2EQ3fUf1zjUXmGAg5pnaWK"
@@ -13496,7 +13532,7 @@
       ],
       "date_added": "2023-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 95440,
       "name": "Peaches",
       "url": "https://open.spotify.com/track/4w9soAM7IrmYDhSXLp14p6"
@@ -18718,10 +18754,6 @@
         {
           "name": "Noa Kirel",
           "url": "https://open.spotify.com/artist/1wak0ZG1LUrZPYx8RDTQoD"
-        },
-        {
-          "name": "\u05db\u05d0\u05df - \u05ea\u05d0\u05d2\u05d9\u05d3 \u05d4\u05e9\u05d9\u05d3\u05d5\u05e8 \u05d4\u05d9\u05e9\u05e8\u05d0\u05dc\u05d9",
-          "url": "https://open.spotify.com/artist/2N9Cvh536WBOePrevGKIlj"
         }
       ],
       "date_added": "2023-05-14",
@@ -18922,7 +18954,7 @@
       ],
       "date_added": "2023-02-28",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-12",
+      "date_removed": null,
       "duration_ms": 120827,
       "name": "Valeriya",
       "url": "https://open.spotify.com/track/09MbMeMVENgLv6Z9ogzkuG"
@@ -20716,7 +20748,7 @@
       ],
       "date_added": "2023-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 171251,
       "name": "\u041f\u043e\u043c\u043d\u044e \u0442\u0432\u043e\u0451 \u0442\u0435\u043b\u043e",
       "url": "https://open.spotify.com/track/5fjvFWBdu0DDNwTKd8bkys"

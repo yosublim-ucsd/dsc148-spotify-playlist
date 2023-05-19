@@ -4,7 +4,7 @@
 
 > Keep it Punjabi, Keep it Real\. Cover: Wazir Patar
 
-114 songs - 5 hr 34 min
+115 songs - 5 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -108,6 +108,7 @@
 | [Silicone](https://open.spotify.com/track/0qLjHFymEO1R7JSCeqomqQ) | [Prem Dhillon](https://open.spotify.com/artist/6IP4VnqS1pOiQcPVP4zx0H), [Prodgk](https://open.spotify.com/artist/2E6ODN4Dna1vkh6s8sxHC0) | [Silicone](https://open.spotify.com/album/1RqwEmbCknatOwhjzxRMLV) | 3:26 | 2023-04-20 |  |
 | [Small Circle](https://open.spotify.com/track/1PrLCrX3eY1gs7Bytw71qg) | [Ekam Sudhar](https://open.spotify.com/artist/30QXHMkDM1bkVffpzvrZEy), [Manni Sandhu](https://open.spotify.com/artist/3IzepIGEFUSFFnuIVGwZDS), [Rav Hanjra](https://open.spotify.com/artist/2iWspbujhMADVaxwZAwrmd) | [Small Circle](https://open.spotify.com/album/6vaip7iNjz4dElaxbsq9yu) | 2:32 | 2023-03-29 |  |
 | [Sorry Dad](https://open.spotify.com/track/68OVeyL8exUytFImXPS0pn) | [Jassi X](https://open.spotify.com/artist/3rJlJIcCjbAyj4X08YQqsS) | [Sorry Dad](https://open.spotify.com/album/6ZtYRa1Xryr6FzKFD36mba) | 2:33 | 2023-03-29 |  |
+| [Stick Talk](https://open.spotify.com/track/61sbacNWadHqNi8U0ew7rt) | [Shooter Kahlon](https://open.spotify.com/artist/5oL0GAI8fKD0Wgbr4Em9AS), [Gurlez Akhtar](https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ), [Shevv](https://open.spotify.com/artist/2EQoFz6owAP4ATr5hGFRok) | [Stick Talk](https://open.spotify.com/album/776yBgdEdhEUPmyErZuIu0) | 2:39 | 2023-05-18 |  |
 | [TALK LESS](https://open.spotify.com/track/2FdHYqak0QNYVvvvYfTKLN) | [Ranjit Bawa](https://open.spotify.com/artist/6pU5oz09VUYtnFTd4P1Mxn) | [TALK LESS](https://open.spotify.com/album/0GPjytkpi73o0Uuz8J5yjz) | 2:21 | 2023-03-29 | 2023-04-21 |
 | [Taur Jattan Di](https://open.spotify.com/track/71cVODnoVVC86J0r4VGEjT) | [Dilpreet Dhillon](https://open.spotify.com/artist/5CGQa62CAweD76eHlDmp1m), [Kulbir Jhinjer](https://open.spotify.com/artist/5xeLNyuZaJBjLpyjopm22n) | [Taur Jattan Di](https://open.spotify.com/album/2bc7sswbaQOshk7bppuP4K) | 2:52 | 2023-03-29 |  |
 | [Thaa](https://open.spotify.com/track/2NmBCDkjvJVvEZkH5QDOeb) | [Varinder Brar](https://open.spotify.com/artist/4C19flKmMm12gRxmBJWMCV), [Rav Dhaliwal](https://open.spotify.com/artist/3quojFCZjKk1j5zIv0HX2P), [Ultra Beats](https://open.spotify.com/artist/2YzXsQoI3rqYNEVd4nac7g) | [Thaa](https://open.spotify.com/album/6u5RdRVp5HBStyPRWvHcgm) | 3:01 | 2023-03-29 |  |

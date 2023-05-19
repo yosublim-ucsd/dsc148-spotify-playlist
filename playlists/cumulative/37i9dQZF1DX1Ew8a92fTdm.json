@@ -16,7 +16,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 61500,
       "name": "A Day At The Market",
       "url": "https://open.spotify.com/track/2NKjjb7cH2GjenaS4NZSc9"
@@ -88,7 +88,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 93500,
       "name": "A Ram Sam Sam",
       "url": "https://open.spotify.com/track/56QKL1S0CywvdIjp0vHtjh"
@@ -419,6 +419,42 @@
     },
     {
       "album": {
+        "name": "The Stars Are Wonderful",
+        "url": "https://open.spotify.com/album/1n3MMITwDgyGQMSmsf98Jd"
+      },
+      "artists": [
+        {
+          "name": "Piers Lancaster",
+          "url": "https://open.spotify.com/artist/5JTYz3CN60YGOCeXTEgTyY"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123154,
+      "name": "Bedtime is Calling",
+      "url": "https://open.spotify.com/track/4tdN7pUus2sf1CiiSyurSV"
+    },
+    {
+      "album": {
+        "name": "Bedtime-MusicBox",
+        "url": "https://open.spotify.com/album/1ksNBh0f2WMsY2b0kpXdLL"
+      },
+      "artists": [
+        {
+          "name": "Mollis",
+          "url": "https://open.spotify.com/artist/1QT9mxEShl9BmYBUhnr1DG"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 85846,
+      "name": "Bedtime-MusicBox",
+      "url": "https://open.spotify.com/track/72NTpDLAgOgCKtZjm5sqWq"
+    },
+    {
+      "album": {
         "name": "Best Friends",
         "url": "https://open.spotify.com/album/4fDYMmIasSWc1nomKrrskZ"
       },
@@ -545,6 +581,24 @@
     },
     {
       "album": {
+        "name": "Blue Eyes",
+        "url": "https://open.spotify.com/album/3pLT5NbVIPt430AqAUSzrm"
+      },
+      "artists": [
+        {
+          "name": "Fiona Kwinn",
+          "url": "https://open.spotify.com/artist/6XbGfIFgEv0UY8G7PMpqTH"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 75000,
+      "name": "Blue Eyes",
+      "url": "https://open.spotify.com/track/1OfwkOgzfXGTEXgzqUmgs0"
+    },
+    {
+      "album": {
         "name": "Musix Box Lullabies",
         "url": "https://open.spotify.com/album/1u4RVkv7lRBGdiujfpOVxd"
       },
@@ -574,7 +628,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 95560,
       "name": "Brahms Lullaby",
       "url": "https://open.spotify.com/track/4aTYnK3QB1PLbwsb11OsBu"
@@ -754,7 +808,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 74144,
       "name": "Cuddle",
       "url": "https://open.spotify.com/track/5QYMcm9d8vixNQcj2uM88O"
@@ -790,10 +844,28 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 88000,
       "name": "Dans notre jardin",
       "url": "https://open.spotify.com/track/0Q3wPSFh2tmOTeMe1yAFQM"
+    },
+    {
+      "album": {
+        "name": "Dear buddy",
+        "url": "https://open.spotify.com/album/5Z0IS48eAdA3SwecrqVNMT"
+      },
+      "artists": [
+        {
+          "name": "Tony Delvin",
+          "url": "https://open.spotify.com/artist/2PeMIKslHDxZGDTOlOoCIh"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 101538,
+      "name": "Dear buddy",
+      "url": "https://open.spotify.com/track/4QL90SubKWbeN6GQLu7p0c"
     },
     {
       "album": {
@@ -1096,7 +1168,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 107508,
       "name": "Evening Hugging",
       "url": "https://open.spotify.com/track/2atBnRDYHZEr8FOqzPRfHC"
@@ -1150,7 +1222,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 99309,
       "name": "Fields of Gold",
       "url": "https://open.spotify.com/track/0co79KitoGgWocyVuQE4xI"
@@ -1265,6 +1337,24 @@
     },
     {
       "album": {
+        "name": "Golden Dust-Musicbox",
+        "url": "https://open.spotify.com/album/2C3fi67CKFnsULT2136KI1"
+      },
+      "artists": [
+        {
+          "name": "Florence Sunday",
+          "url": "https://open.spotify.com/artist/4KjQulEjM6UKCV5nJMp4Jc"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119361,
+      "name": "Golden Dust-Musicbox",
+      "url": "https://open.spotify.com/track/0uifpcR1fyjLRYOSTbZoM4"
+    },
+    {
+      "album": {
         "name": "Head, Shoulders, Knees & Toes",
         "url": "https://open.spotify.com/album/5aUwS3bg7Nv1dBctV0Us09"
       },
@@ -1348,7 +1438,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 91324,
       "name": "Hickory Dickory Dock",
       "url": "https://open.spotify.com/track/56evNyWznxLsCF6ZuWKTC7"
@@ -1427,6 +1517,24 @@
     },
     {
       "album": {
+        "name": "Ding Dong Song-MusicBox",
+        "url": "https://open.spotify.com/album/29YbyfLUPrNzyup3w3U5Ww"
+      },
+      "artists": [
+        {
+          "name": "Vinga",
+          "url": "https://open.spotify.com/artist/0tUQaRAVEBx927JquVwztK"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127200,
+      "name": "How I Miss You-MusicBox",
+      "url": "https://open.spotify.com/track/1e8qUb4z8NujcZQGXPctVq"
+    },
+    {
+      "album": {
         "name": "Lullabies on Music Box Vol 2",
         "url": "https://open.spotify.com/album/6i60rEg1H3MI6LG4c2lUHF"
       },
@@ -1496,6 +1604,24 @@
       "duration_ms": 106393,
       "name": "I Can't Help Falling In Love - Music Box",
       "url": "https://open.spotify.com/track/2tBDvIzbmWvy4fvzcwBdq3"
+    },
+    {
+      "album": {
+        "name": "I Wish Tonight",
+        "url": "https://open.spotify.com/album/002OxlIUUNY9hL1kwRJACs"
+      },
+      "artists": [
+        {
+          "name": "Lill Bosse",
+          "url": "https://open.spotify.com/artist/5XkrVYETboDRX3VM6cmPxK"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 65015,
+      "name": "I Wish Tonight",
+      "url": "https://open.spotify.com/track/3147ndjVf8Tm2rCmS07gjN"
     },
     {
       "album": {
@@ -1636,7 +1762,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 79226,
       "name": "Joyful Dreams",
       "url": "https://open.spotify.com/track/34vSdcmFgbjKihXgDumzZ2"
@@ -1895,6 +2021,24 @@
     },
     {
       "album": {
+        "name": "My Beautiful Angel",
+        "url": "https://open.spotify.com/album/1NtyYirkKFHiSZAdOKvIUO"
+      },
+      "artists": [
+        {
+          "name": "Un Rose",
+          "url": "https://open.spotify.com/artist/2L7wQxWHlSVom2T0r5h45G"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 86467,
+      "name": "My Beautiful Angel",
+      "url": "https://open.spotify.com/track/6Qn9XmS9eJuCUiSe18BDTO"
+    },
+    {
+      "album": {
         "name": "A Goodnight Lullaby",
         "url": "https://open.spotify.com/album/5bUFergE5isqK0EzbLnVQk"
       },
@@ -1942,7 +2086,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 113409,
       "name": "My Bonnie Lies Over The Ocean",
       "url": "https://open.spotify.com/track/55fdCHjMrDwp7a016z4zC7"
@@ -2122,7 +2266,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 71732,
       "name": "On The Field Of Dreams",
       "url": "https://open.spotify.com/track/2h4Iktht8vvC9DQDFbHQcV"
@@ -2212,7 +2356,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 126109,
       "name": "Over The River And Through The Woods",
       "url": "https://open.spotify.com/track/0CfnbUhyr8xvEcfvfL119I"
@@ -2590,7 +2734,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 95850,
       "name": "Sleeping Otters",
       "url": "https://open.spotify.com/track/5LH9wtbdbuFtNVfo6eag1x"
@@ -3094,7 +3238,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 92637,
       "name": "The Sleeping Waltz",
       "url": "https://open.spotify.com/track/3gV7QZL2TLxcqczvp3Mi6D"
@@ -3112,7 +3256,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 110500,
       "name": "The Spider And The Funny Fly",
       "url": "https://open.spotify.com/track/3Y3MfthU9xFXlO19WHAuSh"
@@ -3148,7 +3292,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 60624,
       "name": "The wheels on the bus",
       "url": "https://open.spotify.com/track/45L6WQc1TZ6OmXPw6eaCSn"
@@ -3497,6 +3641,42 @@
     },
     {
       "album": {
+        "name": "When the sun goes down-Musicbox",
+        "url": "https://open.spotify.com/album/6muRFgQiouYeOIpt5w3bp5"
+      },
+      "artists": [
+        {
+          "name": "Sunflower Field",
+          "url": "https://open.spotify.com/artist/7Gtec1QxUIERMANJeaEQNg"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141038,
+      "name": "When the sun goes down-Musicbox",
+      "url": "https://open.spotify.com/track/6jeAelbhR6SbbPVf4Fut4S"
+    },
+    {
+      "album": {
+        "name": "Amazing Grace",
+        "url": "https://open.spotify.com/album/1KTpocfKEQcYtKUSAtGZnX"
+      },
+      "artists": [
+        {
+          "name": "Dreams belong to the universe",
+          "url": "https://open.spotify.com/artist/1eNfOur15xhEKbWIXZq4kM"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140147,
+      "name": "When You Wish Upon A Star",
+      "url": "https://open.spotify.com/track/0oXBXHMU16QK8bvO4aJcZv"
+    },
+    {
+      "album": {
         "name": "Somewhere over the rainbow",
         "url": "https://open.spotify.com/album/6OmptZeMhscTHVBeReXTz1"
       },
@@ -3512,6 +3692,24 @@
       "duration_ms": 97000,
       "name": "When you wish upon a star",
       "url": "https://open.spotify.com/track/4yT4xev2ymB9x0SCahcLlV"
+    },
+    {
+      "album": {
+        "name": "While you are sleeping",
+        "url": "https://open.spotify.com/album/1XoU21Cs3NsHizZw9iR0YG"
+      },
+      "artists": [
+        {
+          "name": "Jim WInce",
+          "url": "https://open.spotify.com/artist/7Jr1tryBYAsWD0LeTwr1LF"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 81769,
+      "name": "While you are sleeping",
+      "url": "https://open.spotify.com/track/3R1aA8Uf8jPp8bp3NWt7c6"
     },
     {
       "album": {

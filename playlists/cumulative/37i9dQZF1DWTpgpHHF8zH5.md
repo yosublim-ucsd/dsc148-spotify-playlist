@@ -4,7 +4,7 @@
 
 > Musica per sorridere, darti la carica e affrontare la giornata!
 
-287 songs - 14 hr 44 min
+288 songs - 14 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -97,6 +97,7 @@
 | [Fly Away](https://open.spotify.com/track/1jgu8MFTEGdL1wjw9gZj5y) | [Tones And I](https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY) | [Fly Away](https://open.spotify.com/album/4SWYpB2IBlwzeyLEroUxso) | 2:58 | 2022-05-06 | 2022-07-29 |
 | [Fly Away](https://open.spotify.com/track/2zBDKzqa6sdxeI0fC6OWIC) | [Tones And I](https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY) | [Welcome To The Madhouse](https://open.spotify.com/album/5DVaT8HXcp9bbJh7p4dSpf) | 2:58 | 2022-07-22 |  |
 | [Follow Me](https://open.spotify.com/track/2Xy1UIVfOlukyye6Fd0wrI) | [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf), [Rita Ora](https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr) | [Follow Me](https://open.spotify.com/album/63P6lbTxTP2OpbC7SOrIfK) | 2:49 | 2022-05-06 |  |
+| [Fool 4 U \(feat\. Enisa\)](https://open.spotify.com/track/41aBRoaTTz9qq8UGIlykiZ) | [Galantis](https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu), [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK), [Enisa](https://open.spotify.com/artist/19mMHUyLK5uYyg9D14yJP6) | [Fool 4 U \(feat\. Enisa\)](https://open.spotify.com/album/0ClMJUgs13v8GUyc40tpqT) | 2:26 | 2023-05-16 |  |
 | [Forget Me](https://open.spotify.com/track/5uSFGgIfHMT3osrAd9n9ym) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Forget Me](https://open.spotify.com/album/50IWCes196EP2nWO6i4I67) | 3:23 | 2022-10-05 |  |
 | [Forgive Me \(feat\. Izzy Bizu\)](https://open.spotify.com/track/3IUiA6msgyFl3f8kzbdgQP) | [ODESZA](https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw), [Izzy Bizu](https://open.spotify.com/artist/6b5YOgXIliAozdo49vUCJQ) | [The Last Goodbye](https://open.spotify.com/album/0xVucRYJf5luWLekMGYh3i) | 3:28 | 2022-07-22 | 2022-10-28 |
 | [Freezing](https://open.spotify.com/track/7reh67rES37v1n9grDX6HO) | [Mimi Webb](https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz) | [Amelia](https://open.spotify.com/album/0tqx2yq6GywrCBUMSfev3D) | 2:56 | 2023-03-24 |  |
@@ -280,7 +281,7 @@
 | [What Does It Matter](https://open.spotify.com/track/5hZJBAewYu2J5YNcuZZ3sx) | [Maxiz](https://open.spotify.com/artist/0tPvS7MPWR6z5WTN1dDqN3) | [What Does It Matter](https://open.spotify.com/album/52Vd6fMrwJv7Ew4mZe1sx6) | 2:21 | 2022-05-06 | 2022-05-25 |
 | [What Love Is](https://open.spotify.com/track/39pr29s4Nv7V6DqFwmjrQg) | [Tom Gregory](https://open.spotify.com/artist/6Rmg5JiRphFMlhkwGNl9Fu) | [Heaven in a World so Cold](https://open.spotify.com/album/75UdpT0U3k3qfxq5p68UTY) | 3:14 | 2022-05-06 | 2022-07-14 |
 | [What Other People Say](https://open.spotify.com/track/2h9TDNEXRhcDIV3fsoEVq9) | [Sam Fischer](https://open.spotify.com/artist/6L1XC7NrmgWRlwAeLJvVtA), [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [What Other People Say](https://open.spotify.com/album/0VzqGKZQDQLSse6W0hgABW) | 3:14 | 2022-07-22 | 2023-01-11 |
-| [What's Love Got to Do with It](https://open.spotify.com/track/3Be7CLdHZpyzsVijme39cW) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Tina Turner](https://open.spotify.com/artist/1zuJe6b1roixEKMOtyrEak) | [What's Love Got to Do with It](https://open.spotify.com/album/1JFKchcdu3ewuhA5PIHWno) | 3:28 | 2022-07-22 |  |
+| [What's Love Got to Do with It](https://open.spotify.com/track/3Be7CLdHZpyzsVijme39cW) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Tina Turner](https://open.spotify.com/artist/1zuJe6b1roixEKMOtyrEak) | [What's Love Got to Do with It](https://open.spotify.com/album/1JFKchcdu3ewuhA5PIHWno) | 3:28 | 2022-07-22 | 2023-05-19 |
 | [Where Are You Now](https://open.spotify.com/track/3uUuGVFu1V7jTQL60S1r8z) | [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7), [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [Where Are You Now](https://open.spotify.com/album/5YrOK7zze6egKg9a8WRcnD) | 2:28 | 2022-05-06 | 2022-10-28 |
 | [Wherever You Go \(feat\. John Martin\)](https://open.spotify.com/track/2tsArM8er9gkqiN4XiaW3r) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [John Martin](https://open.spotify.com/artist/2auikkNYqigWStoHWK1Grq) | [Wherever You Go \(feat\. John Martin\)](https://open.spotify.com/album/1mkiHxOjzK6O2WxQgyO4Hd) | 3:20 | 2022-05-06 | 2022-07-29 |
 | [Who's In Your Head](https://open.spotify.com/track/5nhW8I46uDE5sc5ouEbzao) | [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [Who's In Your Head](https://open.spotify.com/album/3olWRKG2KFhJoWsSRpCpja) | 3:03 | 2022-05-06 | 2022-07-29 |

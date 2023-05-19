@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8bff1BCeZx.md) - [plain]
 
 > African Praise music taking you all the way up!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,406 likes - 50 songs - 5 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,438 likes - 50 songs - 5 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8bff1BCeZx.md) - [plain]
 | 35 | [Iwo Nikan L'ogo Ye / Too Much for Me](https://open.spotify.com/track/6DSnwdMQOB62cFCG3EOySO) | [Wale Adenuga](https://open.spotify.com/artist/0s7YJetebaV73NYYtMx1E2) | [Songs for Generations](https://open.spotify.com/album/3OD5WwFzklKlShbCRfVJYD) | 7:09 |
 | 36 | [This Far by Grace](https://open.spotify.com/track/05xiEBsG74Ws6oBYgIkImD) | [Pastor Edwin Dadson](https://open.spotify.com/artist/1k6vJ1rdPoMT0L57JcmfRH) | [This Far by Grace](https://open.spotify.com/album/0sApgQ8rsNT5dtKSVhMKWR) | 4:53 |
 | 37 | [Turn Me Around](https://open.spotify.com/track/0pvx4EQPY5ag9KKQzTYTNu) | [Samsong](https://open.spotify.com/artist/2vPVXxqaSgF7s5U5PrXNUS) | [On Top of the World](https://open.spotify.com/album/27L74fWY70e6BpJV85QPYn) | 4:49 |
-| 38 | [Ghana Praise Medley: Aye / Ayeyi / Se Nea me te / Onyameba / Yesu Anaa / W'aka Nea maye nyinaa / Glory Be to God / Who Has the Final Day](https://open.spotify.com/track/42nQ9vfTQsw4JCG2UOSnl5) | [Joyful Way Incorporated](https://open.spotify.com/artist/5DdIfWrYhLhQCi2jusXZnM) | [Grateful Hearts](https://open.spotify.com/album/2FgtNPBfKJVBq4nc4qjCxq) | 14:10 |
-| 39 | [Praise Medley](https://open.spotify.com/track/4QUYIjKArUfMlssMMVpp1f) | [Ronke Adesokan](https://open.spotify.com/artist/6RDJ0S6zPBDwxTMOawmhR2) | [Celebrating Jesus](https://open.spotify.com/album/02Yl0lBAqxEcUTrIircQbU) | 22:58 |
+| 38 | [Praise Medley](https://open.spotify.com/track/4QUYIjKArUfMlssMMVpp1f) | [Ronke Adesokan](https://open.spotify.com/artist/6RDJ0S6zPBDwxTMOawmhR2) | [Celebrating Jesus](https://open.spotify.com/album/02Yl0lBAqxEcUTrIircQbU) | 22:58 |
+| 39 | [Ghana Praise Medley: Aye / Ayeyi / Se Nea me te / Onyameba / Yesu Anaa / W'aka Nea maye nyinaa / Glory Be to God / Who Has the Final Day](https://open.spotify.com/track/42nQ9vfTQsw4JCG2UOSnl5) | [Joyful Way Incorporated](https://open.spotify.com/artist/5DdIfWrYhLhQCi2jusXZnM) | [Grateful Hearts](https://open.spotify.com/album/2FgtNPBfKJVBq4nc4qjCxq) | 14:10 |
 | 40 | [Amen](https://open.spotify.com/track/0xzJ4tttj4yidyKPgnXdYY) | [KODA](https://open.spotify.com/artist/5nCnnoitr6BO4g5sEIEDkB) | [Amen](https://open.spotify.com/album/5RTLtWTO9qyUzwn0Eps3cY) | 4:14 |
 | 41 | [Omeriwo](https://open.spotify.com/track/65tGleT9TqETxPXyjLf6Es) | [Sammie Okposo](https://open.spotify.com/artist/4qygDDItX42LbfJLQUedIJ), [Henrisoul](https://open.spotify.com/artist/29nYQAtysT9en4qYsRuNTL), [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [Omeriwo](https://open.spotify.com/album/76sBUYUu76JYwbMZ8K1dwP) | 3:38 |
 | 42 | [Jehovah Praise](https://open.spotify.com/track/0cY0ylpZTnazJcEuGTxnhf) | [Joe Mettle](https://open.spotify.com/artist/1An6gOOlZ9NITlQs2ZtBCb) | [The Encounter](https://open.spotify.com/album/1fTYtYwjX4neKImb9Xle2x) | 2:19 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8bff1BCeZx.md) - [plain]
 | 49 | [African Praise Medley: Everybody Looko Looko / Ojasope / Baba Mimo Mowasope / Wamilele / Awesome Mighty God / Odiaga / Hallelujah / Jehovah Jireh](https://open.spotify.com/track/4RW6Po4zZi5TiHX6yXvnha) | [Dayo Bello](https://open.spotify.com/artist/2rsakqcHwgb4tSOP6UFaMA) | [Resurrection Praise Project \(Live\)](https://open.spotify.com/album/7zW9ri7brioqtdyJvgcbqT) | 16:08 |
 | 50 | [Nkwa Abodoo \(feat\. Nacy\)](https://open.spotify.com/track/6Uwiv3r9XfvyBAQqTtngNb) | [KODA](https://open.spotify.com/artist/5nCnnoitr6BO4g5sEIEDkB), [Nacy](https://open.spotify.com/artist/4XEY7lCzPxqpq90xzRaJ96) | [Nkwa Abodoo \(feat\. Nacy\)](https://open.spotify.com/album/4EbIet3CbVqMRyW3BlZ9kk) | 6:49 |
 
-Snapshot ID: `MCwwNWQ4MjgwMjkyM2EyZjM1NTZlYjM5MmYyMjJkNTk5ZjRmMDhlMjA2`
+Snapshot ID: `MCw5YjllYWViZWExYTVjODhmNzg3NGNlZjQ4MmY0ZmEyYjZjNTcyMThh`

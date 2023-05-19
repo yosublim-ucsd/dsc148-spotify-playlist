@@ -4,7 +4,7 @@
 
 > Fourth quarter, two minutes left .\. get locked in
 
-475 songs - 1 day 0 hr 14 min
+477 songs - 1 day 0 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -270,6 +270,7 @@
 | [Mood Swings \(feat\. Lil Tjay\)](https://open.spotify.com/track/5rZlwNFl01HqLWBQGryKSm) | [Pop Smoke](https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj), [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR) | [Shoot For The Stars Aim For The Moon](https://open.spotify.com/album/7e7t0MCrNDcJZsPwUKjmOc) | 3:33 | 2021-09-02 | 2023-03-14 |
 | [Moonwalking in Calabasas \- YG Remix](https://open.spotify.com/track/0Ho6FZYMzklqIlRaa9LRR3) | [DDG](https://open.spotify.com/artist/0WK3H9OErSn5zKOkOV5egm), [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY) | [Moonwalking in Calabasas \(YG Remix\)](https://open.spotify.com/album/1gaTBBgYUTU0mSzJtMzYdo) | 3:02 | 2021-09-02 | 2022-06-25 |
 | [Mopstick \(feat\. Kodak Black\)](https://open.spotify.com/track/5FAQb7Cfps6JCYl2ZjtWHO) | [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Mopstick \(feat\. Kodak Black\)](https://open.spotify.com/album/1RuIdS69hrZ6ToCFOIRjYK) | 3:36 | 2022-06-24 |  |
+| [Motion God](https://open.spotify.com/track/75ZoVrZ4mXEsDxv1bQbEAS) | [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [Motion God](https://open.spotify.com/album/1TwrnBDlShNlNIn20c5h31) | 2:23 | 2023-05-18 |  |
 | [Murder On My Mind](https://open.spotify.com/track/7eBqSVxrzQZtK2mmgRG6lC) | [YNW Melly](https://open.spotify.com/artist/1cNDP5yjU5vjeR8qMf4grg) | [I AM YOU](https://open.spotify.com/album/7naY6j4wcgUxfHB98G79CW) | 4:28 | 2021-09-02 | 2022-06-25 |
 | [MVP \(feat\. G\-Eazy\)](https://open.spotify.com/track/3iRCr53b2ZOvoKMTNvBn5d) | [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I), [G\-Eazy](https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z) | [MVP \(feat\. G\-Eazy\)](https://open.spotify.com/album/4pyhYSKl4jBqkemyG94DSG) | 2:53 | 2023-05-12 |  |
 | [My Type](https://open.spotify.com/track/5KBARWIxeMGkvUax9VtVC9) | [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl) | [ICY](https://open.spotify.com/album/7mdpibDh6Sec6o6zItcSEH) | 2:06 | 2021-09-02 | 2022-03-16 |
@@ -313,6 +314,7 @@
 | [Pape Talk](https://open.spotify.com/track/1fInVZhQmpopTKTkZnLvwG) | [Icewear Vezzo](https://open.spotify.com/artist/1ZbmerOthZbxz5eR3c9Mn1), [DJ Drama](https://open.spotify.com/artist/5oNgAs7j5XcBMzWv3HAnHG) | [Paint the City \(Gangsta Grillz\)](https://open.spotify.com/album/3M1RUPna1fFjxNd9I0Vo0l) | 2:09 | 2022-12-30 | 2023-02-18 |
 | [Paper Route \(ft\. Young Dolph\)](https://open.spotify.com/track/5A5XZ49RusDpRHlltXB4f5) | [Tafia](https://open.spotify.com/artist/75s3jBhtUyWmQLLqzhIub4), [Young Dolph](https://open.spotify.com/artist/3HiuzBlSW7pGDXlSFMhO2g) | [Mention My Name](https://open.spotify.com/album/2yepLQw2fOxkEMfU3gbsWB) | 3:23 | 2022-07-29 |  |
 | [Patek](https://open.spotify.com/track/76MjtLfZoTNc3BDqUVjuRH) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [Patek](https://open.spotify.com/album/3A5i5WurRyY0fytprSDsKH) | 4:40 | 2021-09-02 | 2023-03-15 |
+| [Peaches & Eggplants \(feat\. 21 Savage\)](https://open.spotify.com/track/2KcQ0PbPj0O3P48B9YX7iN) | [Young Nudy](https://open.spotify.com/artist/5yPzzu25VzEk8qrGTLIrE1), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [Gumbo](https://open.spotify.com/album/1UbeEAPS49eulB659XSU9g) | 3:23 | 2023-05-18 |  |
 | [Peta \(feat\. Meek Mill\)](https://open.spotify.com/track/4bl1HBZliBuYpFZjWgefE4) | [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB), [Meek Mill](https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc) | [Please Excuse Me for Being Antisocial](https://open.spotify.com/album/52u4anZbHd6UInnmHRFzba) | 3:18 | 2021-09-02 | 2022-06-25 |
 | [PICK UP \(feat\. Quavo\)](https://open.spotify.com/track/5gNOINI5dXZVom2b36LMOd) | [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk), [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5) | [BLAME IT ON BABY](https://open.spotify.com/album/623PL2MBg50Br5dLXC9E9e) | 1:58 | 2021-09-02 | 2022-10-01 |
 | [Pink Toes \(Offset, DaBaby feat\. Gunna\)](https://open.spotify.com/track/0W1ZfgXpC23RYQPDq7RM5I) | [Quality Control](https://open.spotify.com/artist/6i392l38cR3uBPF0DbNs7S), [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW), [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [Quality Control: Control The Streets Volume 2](https://open.spotify.com/album/59zpaLOByFkJhc9D5Xqna9) | 3:37 | 2021-09-02 | 2023-03-03 |

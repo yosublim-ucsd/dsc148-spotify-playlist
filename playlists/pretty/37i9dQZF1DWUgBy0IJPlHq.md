@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUgBy0IJPlHq.md) - [plain]
 
 > A new shade of Country\. Cover: Sam Barber
 
-[Spotify](https://open.spotify.com/user/spotify) - 447,759 likes - 102 songs - 6 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 447,916 likes - 102 songs - 6 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -111,4 +111,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUgBy0IJPlHq.md) - [plain]
 | 101 | [Seasons Don't Change](https://open.spotify.com/track/08Z8EH23jtMqOjvlP0dUrR) | [Town Mountain](https://open.spotify.com/artist/5cudslRGWg0GsXaN79Wifs) | [Seasons Don't Change](https://open.spotify.com/album/0lH7Gzvl2yg8sEb1iWt8Sr) | 4:29 |
 | 102 | [Lyin' Low](https://open.spotify.com/track/3g8UrwhapPBLVUU6WX6MH0) | [Charles Wesley Godwin](https://open.spotify.com/artist/2ErsJAz6qJ5cqjoVAvfvaC) | [How the Mighty Fall](https://open.spotify.com/album/0xSyaaBZ3hrYf8rROAs125) | 4:18 |
 
-Snapshot ID: `MCxmMzdmNDQ5ZTE3ODFjNzZjYWI2ZjFjOGI2NTAxNDEwMjZkYmY3N2Rl`
+Snapshot ID: `MCw0ZmNiODY0MjA5OThkZTQxOGJlYzdhZmFjMzJkNjY2ZjQ5NjQxMmY4`

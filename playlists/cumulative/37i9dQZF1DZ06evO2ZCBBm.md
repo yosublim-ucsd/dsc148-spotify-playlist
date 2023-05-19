@@ -4,7 +4,7 @@
 
 > This is The Used\. The essential tracks, all in one playlist.
 
-76 songs - 4 hr 13 min
+77 songs - 4 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,6 +34,7 @@
 | [Fuck You](https://open.spotify.com/track/7fGGZSUU5Uja2A8dvmS9l9) | [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL) | [Fuck You](https://open.spotify.com/album/2Sdh5caZ8hEFIbQGXY4p6e) | 2:57 | 2022-10-22 |  |
 | [Generation Throwaway](https://open.spotify.com/track/3h7413CpAUx1ZhrI1zQizA) | [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL) | [Imaginary Enemy](https://open.spotify.com/album/2UMvo9uU74jGUArNX7C7qT) | 3:05 | 2022-03-01 | 2022-10-07 |
 | [Give Me Love](https://open.spotify.com/track/6taJ6bkT6aiy0cEO3bSfSd) | [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL) | [Vulnerable](https://open.spotify.com/album/4Onu4JUb8cK11LGvVOZ4N8) | 3:18 | 2022-01-17 |  |
+| [Giving Up](https://open.spotify.com/track/3JErllOXtQ1u1a78JocVlW) | [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL) | [Giving Up](https://open.spotify.com/album/7KAXNNp4vIagjF5vA2vaEr) | 3:10 | 2023-05-18 |  |
 | [Gravity's Rainbow](https://open.spotify.com/track/7Cva9HwdG6d7zEnqrCHfSJ) | [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL) | [Heartwork \(Deluxe\)](https://open.spotify.com/album/4J2liOk0lc7aLArgpZE1So) | 4:14 | 2022-01-17 |  |
 | [Hands and Faces](https://open.spotify.com/track/08ekG1d4iNye5Zpwb6s9fV) | [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL) | [Vulnerable](https://open.spotify.com/album/4Onu4JUb8cK11LGvVOZ4N8) | 3:25 | 2022-01-17 | 2022-10-23 |
 | [Hospital](https://open.spotify.com/track/6PSRgNVdVo7PeiDzOzzDsD) | [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL) | [Lies for the Liars](https://open.spotify.com/album/2UTLJA4Rxsth81uNh4Q6ox) | 2:56 | 2022-01-17 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0QNpebF7rcL.md) - [plain]
 
 > The best in blues right now\. Cover: Robert Finley
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,030 likes - 100 songs - 6 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,072 likes - 100 songs - 6 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0QNpebF7rcL.md) - [plain]
 | 99 | [I'm No Angel Myself](https://open.spotify.com/track/1HENXx512ScE18AYoJm45r) | [Melissa Etheridge](https://open.spotify.com/artist/01Ppu7N8uYJI8SAONo2YZA) | [One Way Out](https://open.spotify.com/album/19Qpt0zW5Rj8Z85T47YpUG) | 4:38 |
 | 100 | [Raisin' Kane](https://open.spotify.com/track/1OojhoKnIxYreWCblSWZ4R) | [Seth James](https://open.spotify.com/artist/6PB0R8akORJQtWUbL36aPg), [Lee Roy Parnell](https://open.spotify.com/artist/3bW6mQczkt1r8tnWIDeBVJ) | [Raisin' Kane](https://open.spotify.com/album/0KpC9zQSsxuNqiHXWhoWXA) | 2:58 |
 
-Snapshot ID: `MCw4ZmM2Mjg4MWI4MTJlMWY2ZmQxZjE2NTkyZWU2NzUyOWE4N2FiN2Fk`
+Snapshot ID: `MCxhMTFjYzQ2MDdhOTdlZmYzYjdhZGMyZTNiNmFmYTg3MzM4YzliYWM0`

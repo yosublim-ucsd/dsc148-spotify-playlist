@@ -1,12 +1,12 @@
 {
   "description": "Electrified jazz, complex beats and virtuoso playing. Cover: Chick Corea",
-  "num_followers": 180742,
+  "num_followers": 180831,
   "original_name": "Fusion Fest",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiMDI0OWEzYjgxOTEzZmRkYWZjYzI0MjE4ODVkYmU4MmU3YzZkYjE5",
+  "snapshot_id": "MCw4Y2Y0ODE4NWE4YzBmMjk1ZWE2NmU3MWNkMzVhNmM2MWEzYjM4ZDdl",
   "tracks": [
     {
       "added_at": "2023-01-06 05:00:00",
@@ -681,6 +681,26 @@
       "url": "https://open.spotify.com/track/2G6B9iQw6C0epZqTSpN79e"
     },
     {
+      "added_at": "2021-02-12 00:49:35",
+      "album": {
+        "name": "Jackets XL",
+        "url": "https://open.spotify.com/album/3OeeKfK9hNDe57rF9FVI7u"
+      },
+      "artists": [
+        {
+          "name": "Yellowjackets",
+          "url": "https://open.spotify.com/artist/1zHPRenzLeI2vhT7nlR6Mq"
+        },
+        {
+          "name": "WDR Big Band",
+          "url": "https://open.spotify.com/artist/5oldzkZrHypxJpr1ri05Fu"
+        }
+      ],
+      "duration_ms": 392960,
+      "name": "One Day",
+      "url": "https://open.spotify.com/track/1QJuEcbNibz1gw7YL96xwn"
+    },
+    {
       "added_at": "2021-04-09 04:01:00",
       "album": {
         "name": "Magnetar (feat. Adam Deitch & Shaun Martin)",
@@ -707,22 +727,18 @@
     {
       "added_at": "2021-02-12 00:49:35",
       "album": {
-        "name": "Jackets XL",
-        "url": "https://open.spotify.com/album/3OeeKfK9hNDe57rF9FVI7u"
+        "name": "Lifetime: The Collection",
+        "url": "https://open.spotify.com/album/0s5AIVzIpjmtKnuYgohnza"
       },
       "artists": [
         {
-          "name": "Yellowjackets",
-          "url": "https://open.spotify.com/artist/1zHPRenzLeI2vhT7nlR6Mq"
-        },
-        {
-          "name": "WDR Big Band",
-          "url": "https://open.spotify.com/artist/5oldzkZrHypxJpr1ri05Fu"
+          "name": "Tony Williams",
+          "url": "https://open.spotify.com/artist/1TW90GjShgkjySrxBxcwQe"
         }
       ],
-      "duration_ms": 392960,
-      "name": "One Day",
-      "url": "https://open.spotify.com/track/1QJuEcbNibz1gw7YL96xwn"
+      "duration_ms": 386066,
+      "name": "Snake Oil",
+      "url": "https://open.spotify.com/track/415dIGsxo24JgyqmAun697"
     },
     {
       "added_at": "2021-02-12 00:49:35",
@@ -739,22 +755,6 @@
       "duration_ms": 214333,
       "name": "Hell's Bells",
       "url": "https://open.spotify.com/track/0DKvzig7rwfWTZ0gvb0Zfx"
-    },
-    {
-      "added_at": "2021-02-12 00:49:35",
-      "album": {
-        "name": "Lifetime: The Collection",
-        "url": "https://open.spotify.com/album/0s5AIVzIpjmtKnuYgohnza"
-      },
-      "artists": [
-        {
-          "name": "Tony Williams",
-          "url": "https://open.spotify.com/artist/1TW90GjShgkjySrxBxcwQe"
-        }
-      ],
-      "duration_ms": 386066,
-      "name": "Snake Oil",
-      "url": "https://open.spotify.com/track/415dIGsxo24JgyqmAun697"
     },
     {
       "added_at": "2021-02-12 00:49:35",
@@ -895,6 +895,34 @@
     {
       "added_at": "2021-02-12 00:49:35",
       "album": {
+        "name": "Blues for Tony",
+        "url": "https://open.spotify.com/album/6qcxk9oihNAODxDkVBV8kS"
+      },
+      "artists": [
+        {
+          "name": "Allan Holdsworth",
+          "url": "https://open.spotify.com/artist/5CK3a77IzCSHjNqzRcbhuG"
+        },
+        {
+          "name": "Alan Pasqua",
+          "url": "https://open.spotify.com/artist/1QDou4hCker2eGblLzIq80"
+        },
+        {
+          "name": "Jimmy Haslip",
+          "url": "https://open.spotify.com/artist/5ngGllFz8UMTMeazVphrPb"
+        },
+        {
+          "name": "Chad Wackerman",
+          "url": "https://open.spotify.com/artist/3L0mpjwIigLw233miBhjEm"
+        }
+      ],
+      "duration_ms": 672106,
+      "name": "Blues for Tony",
+      "url": "https://open.spotify.com/track/4XUR0xfOMphdT9qnTb1iG3"
+    },
+    {
+      "added_at": "2021-02-12 00:49:35",
+      "album": {
         "name": "Borderline",
         "url": "https://open.spotify.com/album/2757IqIKvgQcKtAxzY3LKM"
       },
@@ -935,34 +963,6 @@
       "duration_ms": 145643,
       "name": "The New Heritage",
       "url": "https://open.spotify.com/track/58Hjh0cpp5V5cFTcQ15Wcr"
-    },
-    {
-      "added_at": "2021-02-12 00:49:35",
-      "album": {
-        "name": "Blues for Tony",
-        "url": "https://open.spotify.com/album/6qcxk9oihNAODxDkVBV8kS"
-      },
-      "artists": [
-        {
-          "name": "Allan Holdsworth",
-          "url": "https://open.spotify.com/artist/5CK3a77IzCSHjNqzRcbhuG"
-        },
-        {
-          "name": "Alan Pasqua",
-          "url": "https://open.spotify.com/artist/1QDou4hCker2eGblLzIq80"
-        },
-        {
-          "name": "Jimmy Haslip",
-          "url": "https://open.spotify.com/artist/5ngGllFz8UMTMeazVphrPb"
-        },
-        {
-          "name": "Chad Wackerman",
-          "url": "https://open.spotify.com/artist/3L0mpjwIigLw233miBhjEm"
-        }
-      ],
-      "duration_ms": 672106,
-      "name": "Blues for Tony",
-      "url": "https://open.spotify.com/track/4XUR0xfOMphdT9qnTb1iG3"
     },
     {
       "added_at": "2021-02-12 00:49:35",
@@ -1309,22 +1309,6 @@
       "url": "https://open.spotify.com/track/37hfrm3nKjMQuCXZXuDNYd"
     },
     {
-      "added_at": "2022-05-20 04:02:00",
-      "album": {
-        "name": "Dahaga",
-        "url": "https://open.spotify.com/album/50qzgwXtfVQE1ZrqjRszsD"
-      },
-      "artists": [
-        {
-          "name": "Erwin Gutawa",
-          "url": "https://open.spotify.com/artist/0WlOmBhUcwcMtzJd0GLwWN"
-        }
-      ],
-      "duration_ms": 289500,
-      "name": "Dahaga",
-      "url": "https://open.spotify.com/track/0KbqA51Q4NcxY1zym7VvuE"
-    },
-    {
       "added_at": "2021-07-23 04:01:00",
       "album": {
         "name": "Cousin Vinnie",
@@ -1351,6 +1335,22 @@
       "duration_ms": 378489,
       "name": "Prophecy Extended",
       "url": "https://open.spotify.com/track/4nUWF1v6lpyHertAUIrbSx"
+    },
+    {
+      "added_at": "2022-05-20 04:02:00",
+      "album": {
+        "name": "Dahaga",
+        "url": "https://open.spotify.com/album/50qzgwXtfVQE1ZrqjRszsD"
+      },
+      "artists": [
+        {
+          "name": "Erwin Gutawa",
+          "url": "https://open.spotify.com/artist/0WlOmBhUcwcMtzJd0GLwWN"
+        }
+      ],
+      "duration_ms": 289500,
+      "name": "Dahaga",
+      "url": "https://open.spotify.com/track/0KbqA51Q4NcxY1zym7VvuE"
     },
     {
       "added_at": "2021-02-12 00:49:35",

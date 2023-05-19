@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-21",
-  "description": "Discover your new favourite artists from UK&IE. Cover: Sekou",
+  "description": "Discover your new favourite artists from UK&IE. Cover: Aby Coulibaly",
   "name": "RADAR UK & Ireland",
   "tracks": [
     {
@@ -1480,7 +1480,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 108373,
-      "name": "I must apologise",
+      "name": "I Must Apologise",
       "url": "https://open.spotify.com/track/08g7wxW8iELmpxO0ppcwnI"
     },
     {
@@ -1568,10 +1568,28 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 258706,
       "name": "In My Head",
       "url": "https://open.spotify.com/track/1dlDzw8OCpS3TnPdw3nP2H"
+    },
+    {
+      "album": {
+        "name": "Redemption",
+        "url": "https://open.spotify.com/album/0JDV8B5FQ6vug0p9q8dV2h"
+      },
+      "artists": [
+        {
+          "name": "Tsuki",
+          "url": "https://open.spotify.com/artist/2yJbiseBZFvrCK5GueLnk7"
+        }
+      ],
+      "date_added": "2023-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258706,
+      "name": "In My Head",
+      "url": "https://open.spotify.com/track/4ibewEf7KkzWHTKcdOvFQS"
     },
     {
       "album": {
@@ -2430,6 +2448,24 @@
       "duration_ms": 172219,
       "name": "Passion Controller",
       "url": "https://open.spotify.com/track/5QoWB3fZCKdwWkKFagoFI4"
+    },
+    {
+      "album": {
+        "name": "Patience",
+        "url": "https://open.spotify.com/album/3m2l1MTpR221QpO9RByKrp"
+      },
+      "artists": [
+        {
+          "name": "Aby Coulibaly",
+          "url": "https://open.spotify.com/artist/1ZjJVQsxUHP7MKnZg8yE33"
+        }
+      ],
+      "date_added": "2023-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184258,
+      "name": "Patience",
+      "url": "https://open.spotify.com/track/2cvOJldcBkXgHfoXz5o8Ia"
     },
     {
       "album": {

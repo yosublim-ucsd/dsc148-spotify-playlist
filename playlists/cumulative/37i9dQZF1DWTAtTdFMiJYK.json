@@ -975,6 +975,24 @@
     },
     {
       "album": {
+        "name": "Dil Teri Raah",
+        "url": "https://open.spotify.com/album/1LNNBZeapnbYniiRj1BWuZ"
+      },
+      "artists": [
+        {
+          "name": "Akanksha Sethi",
+          "url": "https://open.spotify.com/artist/70gqhziA790XfoUL5FWD16"
+        }
+      ],
+      "date_added": "2023-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183636,
+      "name": "Dil Teri Raah",
+      "url": "https://open.spotify.com/track/5vVKNkvj6fXRAoE0St3KYm"
+    },
+    {
+      "album": {
         "name": "Dilbar",
         "url": "https://open.spotify.com/album/6oZ2HA0hRgJw2jsoW9bERD"
       },
@@ -2275,6 +2293,24 @@
     },
     {
       "album": {
+        "name": "Kho Ja",
+        "url": "https://open.spotify.com/album/7whhl16hNq2Pyh65Dh3Zvp"
+      },
+      "artists": [
+        {
+          "name": "Himonshu Parikh",
+          "url": "https://open.spotify.com/artist/0AHysaqWv1LHwqk5P5lTMX"
+        }
+      ],
+      "date_added": "2023-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184281,
+      "name": "Kho Ja",
+      "url": "https://open.spotify.com/track/3FASTk6GGeW0PtQ0oVLp9h"
+    },
+    {
+      "album": {
         "name": "Khoya",
         "url": "https://open.spotify.com/album/2D8X4Z53wmX6LNs0SpBFV1"
       },
@@ -2676,7 +2712,7 @@
       ],
       "date_added": "2022-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 197462,
       "name": "Makhmal (feat. BLUK)",
       "url": "https://open.spotify.com/track/46qCjuV2ydLZNdGxf2PSWB"
@@ -3048,7 +3084,7 @@
       ],
       "date_added": "2022-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 266024,
       "name": "Nusrat",
       "url": "https://open.spotify.com/track/1J8u6r4Iy1fT3xEil4p7VP"
@@ -3186,7 +3222,7 @@
       ],
       "date_added": "2022-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 174545,
       "name": "Pal Behta Jaaye",
       "url": "https://open.spotify.com/track/0fIbPMXnTdyuW2UirA9mWQ"
@@ -3654,6 +3690,24 @@
       "duration_ms": 234545,
       "name": "Safar",
       "url": "https://open.spotify.com/track/69o9DthSQrg5Dy50OJ3Ly0"
+    },
+    {
+      "album": {
+        "name": "Sahaare",
+        "url": "https://open.spotify.com/album/3QzEFXJSJmKvraUIjfvoWf"
+      },
+      "artists": [
+        {
+          "name": "Akshath",
+          "url": "https://open.spotify.com/artist/35XjIi7RK4ckjgBrE6CcQo"
+        }
+      ],
+      "date_added": "2023-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188860,
+      "name": "Sahaare",
+      "url": "https://open.spotify.com/track/0QPecwAlW2oX98JC0hGUV0"
     },
     {
       "album": {

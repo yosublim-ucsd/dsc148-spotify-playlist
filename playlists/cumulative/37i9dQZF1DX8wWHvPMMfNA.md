@@ -4,7 +4,7 @@
 
 > Soft instrumental Jazz for working or studying.
 
-345 songs - 23 hr 50 min
+346 songs - 23 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,7 +64,7 @@
 | [Clear Sight](https://open.spotify.com/track/6LLyyfz8BYrHtd3yPkrPad) | [Midtown Trio](https://open.spotify.com/artist/6WVEwzrXXaJ8JTk1KLkleT) | [Clear Sight](https://open.spotify.com/album/7HPrgW1TsSF5rZAUoGKX4S) | 2:47 | 2022-11-11 | 2023-04-02 |
 | [Closing Doors](https://open.spotify.com/track/5Bjhtzgcewszhdw5COwnIm) | [Jazmina Tozer Three](https://open.spotify.com/artist/469VzQ6JsfGQlFis6YQP0H) | [Closing Doors](https://open.spotify.com/album/1MKxoZMGkMo2lmubT8KwQM) | 3:00 | 2022-11-11 | 2022-11-13 |
 | [Come on..\. Lucky!](https://open.spotify.com/track/0gyjqALKXPICWiV5j7Bddn) | [The Three Queens](https://open.spotify.com/artist/0Rk4ZISv9eXs3Thg7rco7h) | [Come on..\. Lucky!](https://open.spotify.com/album/29N1R6VjY2ynfNJwAXROnX) | 2:44 | 2023-05-04 |  |
-| [Conceptions](https://open.spotify.com/track/1WmWY8MVCl3iPZ4u1k9sLa) | [Mitch Coleman](https://open.spotify.com/artist/5YyVZ8kxK9sRVEg1pBh1PV) | [Conceptions](https://open.spotify.com/album/2wjpd8DCfjtzzKxc9p2dvw) | 3:16 | 2023-01-19 |  |
+| [Conceptions](https://open.spotify.com/track/1WmWY8MVCl3iPZ4u1k9sLa) | [Mitch Coleman](https://open.spotify.com/artist/5YyVZ8kxK9sRVEg1pBh1PV) | [Conceptions](https://open.spotify.com/album/2wjpd8DCfjtzzKxc9p2dvw) | 3:16 | 2023-01-19 | 2023-05-19 |
 | [Corners of the Parlor](https://open.spotify.com/track/6aiLqhTcNWps6NmvXoi7zo) | [Garry Cooper Trio](https://open.spotify.com/artist/3cgKynIVkHB5ZWckvrDE3Q) | [Corners of the Parlor](https://open.spotify.com/album/3xY9cBUyiQdLr98m0CRntx) | 2:10 | 2022-12-08 | 2023-03-19 |
 | [Counting Stars](https://open.spotify.com/track/7FK06LQqeqciv3xJAu4pmg) | [Rainy Days Trio](https://open.spotify.com/artist/0ZiJ1fWX1eDMn7PA74GdLN) | [Lonesome Road](https://open.spotify.com/album/7hNrGtYQcUXkuBw4KPWu5C) | 4:14 | 2022-11-11 | 2022-12-08 |
 | [Creepin' In \- Remastered](https://open.spotify.com/track/6n4A5dnPzBFhE0aqLTOUCP) | [Horace Silver](https://open.spotify.com/artist/5ZATfKurLqflrBhv2FLht5) | [Horace Silver And The Jazz Messengers](https://open.spotify.com/album/6ChBNNT405wL5eQz8be9Q9) | 7:26 | 2021-12-16 | 2022-11-11 |
@@ -105,6 +105,7 @@
 | [For a While](https://open.spotify.com/track/4sNhuHtjf2TYXIzOMUQgWX) | [Dries Riesen](https://open.spotify.com/artist/2CBiYt7JDgmt7EYJEVmDdL) | [For a While](https://open.spotify.com/album/53p46AYlwyeYi7MRgf5GM6) | 2:54 | 2023-01-26 |  |
 | [For All We Know](https://open.spotify.com/track/086RZ0U22i29HR5bj0sWSB) | [Ahmad Jamal](https://open.spotify.com/artist/6gc6oo3u2f7SqTd4mhe81O) | [Happy Moods](https://open.spotify.com/album/0wulNVxoVugGBX7bwAAmGj) | 2:47 | 2021-12-16 | 2022-09-09 |
 | [For All We Know](https://open.spotify.com/track/6GE5NlqY4yH8IRNR9lI713) | [Hudson Harris & Haim](https://open.spotify.com/artist/29EE6iBb3i7sWjsz410xbV) | [For All We Know](https://open.spotify.com/album/5a4E0wrOuPoGYqTSDEktLQ) | 4:24 | 2022-11-11 | 2022-12-22 |
+| [Forever and Always](https://open.spotify.com/track/5SLaynsQunaaRIQ6uhCJu6) | [The Dox Band](https://open.spotify.com/artist/5nk8TLI3DoGV9Fyaa7V9JL) | [Forever and Always](https://open.spotify.com/album/4nglRTnyGlgMkRGJf35pzU) | 3:58 | 2023-05-11 |  |
 | [Forever Promises](https://open.spotify.com/track/4a1J9yup472zZW604BHbha) | [Magpie Jazz Trio](https://open.spotify.com/artist/4TOpL8dUMkZ1oydrBsfuWf) | [Forever Promises](https://open.spotify.com/album/3N6pPJE8XPhs4CtJTa2YYx) | 3:13 | 2022-11-24 |  |
 | [Forget About It, Al](https://open.spotify.com/track/53ITTs99tI13zcMBjdQpoB) | [Three Four Trio](https://open.spotify.com/artist/71RWScq7sSiOx08UQe37fv) | [Sally Waits](https://open.spotify.com/album/3RE35ZGRfHOijqNBtePVJz) | 2:38 | 2022-11-11 | 2023-05-02 |
 | [Gary's Theme \- Remastered](https://open.spotify.com/track/3f9KhpRN6mMYoVnpuozgHD) | [Bill Evans](https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF) | [You Must Believe In Spring \(Remastered Version\)](https://open.spotify.com/album/2B583jxnkHmIyBU6Z8VlmI) | 4:17 | 2022-01-13 | 2023-05-05 |

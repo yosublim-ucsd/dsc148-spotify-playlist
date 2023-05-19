@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "\u0623\u062c\u0645\u062f \u0627\u0644\u0645\u0647\u0631\u062c\u0627\u0646\u0627\u062a \u0641\u064a \u0645\u0635\u0631\ud83d\udd25 \n \u0643\u0648\u0641\u0631: \u0639\u0646\u0628\u0647 \u0648 \u0639\u0635\u0627\u0645 \u0635\u0627\u0635\u0627 \n\n",
+  "description": "\u0623\u062c\u0645\u062f \u0627\u0644\u0645\u0647\u0631\u062c\u0627\u0646\u0627\u062a \u0641\u064a \u0645\u0635\u0631\ud83d\udd25 \n \u0643\u0648\u0641\u0631: \u0633\u064a\u0641 \u0645\u062c\u062f\u064a \n\n",
   "name": "\u0623\u0642\u0648\u0649 \u0627\u0644\u0645\u0647\u0631\u062c\u0627\u0646\u0627\u062a",
   "tracks": [
     {
@@ -1237,6 +1237,32 @@
     },
     {
       "album": {
+        "name": "\u062d\u0645\u0635",
+        "url": "https://open.spotify.com/album/2X9ukkkitGJu5BSdRBDlDX"
+      },
+      "artists": [
+        {
+          "name": "Seif Magdy",
+          "url": "https://open.spotify.com/artist/36QfEZXB5iGSrD0SxwRNkE"
+        },
+        {
+          "name": "Omar El Karwan",
+          "url": "https://open.spotify.com/artist/2Ggdg8zHMqZpLyvlGS41Zr"
+        },
+        {
+          "name": "Mohamed Abdel Salam",
+          "url": "https://open.spotify.com/artist/2GniCLZUERdnooiq0zGlaz"
+        }
+      ],
+      "date_added": "2023-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "\u062d\u0645\u0635",
+      "url": "https://open.spotify.com/track/603yXldrQ8YFrTD0zgUK5B"
+    },
+    {
+      "album": {
         "name": "\u062e\u0635\u0645\u064a \u0628\u0643\u064a\u0641\u0647 \u0645\u0643\u062a\u0641\u0647 (\u0627\u0646\u0627 \u0645\u0634 \u0628\u062a\u0643\u0633\u0641 \u064a\u0627 \u0627\u0628\u0644\u062a\u064a)",
         "url": "https://open.spotify.com/album/369scONG77YROb5sy7AnTt"
       },
@@ -1522,7 +1548,7 @@
       ],
       "date_added": "2023-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 193802,
       "name": "\u0636\u062d\u0643\u062a\u0643 \u0648 \u0636\u062d\u0643\u062a\u064a \u0639\u0644\u064a\u0627 ( \u0644\u062d\u0638\u0647 \u0641\u0631\u0627\u0642\u0643 \u062c\u0631\u062d\u062a\u0646\u064a )",
       "url": "https://open.spotify.com/track/5WQ4GUTek3BUnjmcoxf4cU"
@@ -2128,7 +2154,7 @@
       ],
       "date_added": "2022-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 362292,
       "name": "\u0645\u0627\u062a\u062d\u0646 \u0627\u062c\u0646",
       "url": "https://open.spotify.com/track/42m5ObDoL7JoWfnO1tzQLg"
@@ -2150,10 +2176,28 @@
       ],
       "date_added": "2023-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 210666,
       "name": "\u0645\u0628\u0642\u0627\u0634 \u0641\u0649 \u062e\u064a\u0631 \u0641\u0649 \u0627\u0644\u0646\u0627\u0633",
       "url": "https://open.spotify.com/track/4GT37oFB2kTll36C5c8Ohl"
+    },
+    {
+      "album": {
+        "name": "\u0645\u0628\u0642\u062a\u0634 \u0641\u0627\u0647\u0645 \u062d\u0627\u062c\u0647 \u0641\u064a 2023",
+        "url": "https://open.spotify.com/album/2Yc45v5zD5kqiqxxGWNfks"
+      },
+      "artists": [
+        {
+          "name": "Hamo ElTikha",
+          "url": "https://open.spotify.com/artist/1j6Pf2MLM2G87CSAWK78V7"
+        }
+      ],
+      "date_added": "2023-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279353,
+      "name": "\u0645\u0628\u0642\u062a\u0634 \u0641\u0627\u0647\u0645 \u062d\u0627\u062c\u0647 \u0641\u064a 2023",
+      "url": "https://open.spotify.com/track/7iSoFV4cDPqItbiM5Iz1Os"
     },
     {
       "album": {
@@ -2288,6 +2332,24 @@
       "duration_ms": 225319,
       "name": "\u0645\u0638\u0628\u0648\u0637",
       "url": "https://open.spotify.com/track/7o0hlHMqHRDytYnYF7wYIa"
+    },
+    {
+      "album": {
+        "name": "\u0645\u0639 \u0627\u062d\u062a\u0631\u0627\u0645\u064a \u0644\u0644\u064a \u0645\u0642\u0648\u064a\u0643",
+        "url": "https://open.spotify.com/album/6NknLMAgbJe6umZBCYVDeV"
+      },
+      "artists": [
+        {
+          "name": "Karim Cristiano",
+          "url": "https://open.spotify.com/artist/6Ss3HQTUk6PeyD1a0IV6RB"
+        }
+      ],
+      "date_added": "2023-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275617,
+      "name": "\u0645\u0639 \u0627\u062d\u062a\u0631\u0627\u0645\u064a \u0644\u0644\u064a \u0645\u0642\u0648\u064a\u0643",
+      "url": "https://open.spotify.com/track/77wuWZwSiLXCfsRhpMTJxB"
     },
     {
       "album": {

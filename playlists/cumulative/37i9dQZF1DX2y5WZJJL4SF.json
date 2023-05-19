@@ -16,7 +16,7 @@
       ],
       "date_added": "2021-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 93259,
       "name": "A Child's Legend",
       "url": "https://open.spotify.com/track/6kiYpTu6ZPzJMxu5iHVSkN"
@@ -394,7 +394,7 @@
       ],
       "date_added": "2021-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 107552,
       "name": "Baby Bumblebee",
       "url": "https://open.spotify.com/track/7MuazUx9YHNGSbj3FZ4dja"
@@ -538,7 +538,7 @@
       ],
       "date_added": "2021-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 80000,
       "name": "Bill the Fox",
       "url": "https://open.spotify.com/track/5E75P0Ge6BoVxzACFQjxy9"
@@ -826,7 +826,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 100048,
       "name": "Danny Boy",
       "url": "https://open.spotify.com/track/4A5uk71KVLvImQcMPkDLzz"
@@ -1769,6 +1769,24 @@
     },
     {
       "album": {
+        "name": "I'm a Little Teapot",
+        "url": "https://open.spotify.com/album/0BMewxMGQIltyhtYgnqYRM"
+      },
+      "artists": [
+        {
+          "name": "Dawn Wonder",
+          "url": "https://open.spotify.com/artist/1zZrhVrd93wmWWrif1Pj0S"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 99606,
+      "name": "I'm a Little Teapot",
+      "url": "https://open.spotify.com/track/24PgJw1T78QajETxjt7vOM"
+    },
+    {
+      "album": {
         "name": "Idas sommarvisa",
         "url": "https://open.spotify.com/album/6QTrbS5qBgNVXmfXdllD2O"
       },
@@ -2147,6 +2165,24 @@
     },
     {
       "album": {
+        "name": "Love Me Tender",
+        "url": "https://open.spotify.com/album/4W6fKBHwkPIHwCrKaQq3qo"
+      },
+      "artists": [
+        {
+          "name": "Sasha Zimmerman",
+          "url": "https://open.spotify.com/artist/2vVsmDVIQNKLpwcYz0ZpwM"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119744,
+      "name": "Love Me Tender",
+      "url": "https://open.spotify.com/track/2HZxx9BjmtuvKtg2py0QYS"
+    },
+    {
+      "album": {
         "name": "Lullaby for You",
         "url": "https://open.spotify.com/album/35a1nBvmh8y0x31tak9GVJ"
       },
@@ -2255,6 +2291,24 @@
     },
     {
       "album": {
+        "name": "Miranda the Rabbit",
+        "url": "https://open.spotify.com/album/0PTuukWSvIbksDfQBzyia1"
+      },
+      "artists": [
+        {
+          "name": "Mrs. Nocturnal",
+          "url": "https://open.spotify.com/artist/2nfzidAexGJFhsh28Qp6dr"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 89907,
+      "name": "Miranda the Rabbit",
+      "url": "https://open.spotify.com/track/3x6c0C2XRrdDZtniz3TjD9"
+    },
+    {
+      "album": {
         "name": "Miss Polly Had a Dolly",
         "url": "https://open.spotify.com/album/3SFQ9xPKovYDlysI9yIdiU"
       },
@@ -2342,6 +2396,24 @@
       "duration_ms": 97500,
       "name": "Morning Ditty",
       "url": "https://open.spotify.com/track/6PiwFv0GoSJbUeXF57YtJv"
+    },
+    {
+      "album": {
+        "name": "Morning Has Broken",
+        "url": "https://open.spotify.com/album/6wSSK8A5xa7hsmF9IgKVJ1"
+      },
+      "artists": [
+        {
+          "name": "Mood Of Harps",
+          "url": "https://open.spotify.com/artist/0GvtayC9qA80kdronm7y5Q"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115729,
+      "name": "Morning Has Broken",
+      "url": "https://open.spotify.com/track/1o9wSgY433ioAFNZ8jU71C"
     },
     {
       "album": {
@@ -2759,6 +2831,24 @@
     },
     {
       "album": {
+        "name": "Promenons-nous dans les bois",
+        "url": "https://open.spotify.com/album/0HRzz8Sv0oQ6wzrD0ZZHZY"
+      },
+      "artists": [
+        {
+          "name": "Eva Bl\u00e1zquez",
+          "url": "https://open.spotify.com/artist/3uhc1JfzKzRdtm3L10LYjn"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124871,
+      "name": "Promenons-nous dans les bois",
+      "url": "https://open.spotify.com/track/6gpQ1i2GT6WZwSs2b2b3OQ"
+    },
+    {
+      "album": {
         "name": "Puff the magic dragon",
         "url": "https://open.spotify.com/album/14DKuczrbNj8joIyBOKrva"
       },
@@ -2810,6 +2900,24 @@
       "duration_ms": 75135,
       "name": "Rabbit Bestie",
       "url": "https://open.spotify.com/track/7zdGiflXDbXR5qR1HWVnl3"
+    },
+    {
+      "album": {
+        "name": "Treehouse",
+        "url": "https://open.spotify.com/album/5o7s0tWeRWvMgCaoOyVBaB"
+      },
+      "artists": [
+        {
+          "name": "Brian Garner",
+          "url": "https://open.spotify.com/artist/14PkQdstnMicAGULrm5aV9"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122592,
+      "name": "Rabbit In The Hat",
+      "url": "https://open.spotify.com/track/00rRb4G7YP7nppzamVFKA2"
     },
     {
       "album": {
@@ -3656,6 +3764,24 @@
       "duration_ms": 105263,
       "name": "Twinkle Twinkle Little Star - Harp Version",
       "url": "https://open.spotify.com/track/1eIrhzQamO84Evim5tWd3c"
+    },
+    {
+      "album": {
+        "name": "Un grand cerf",
+        "url": "https://open.spotify.com/album/7sc8g6ukjnvCbUP8jtWgOL"
+      },
+      "artists": [
+        {
+          "name": "Aya Poole",
+          "url": "https://open.spotify.com/artist/6RtV8jxgvNwEACODd5xsHK"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 101837,
+      "name": "Un grand cerf",
+      "url": "https://open.spotify.com/track/1QL7CCZvH3wa0K3IUzsadV"
     },
     {
       "album": {

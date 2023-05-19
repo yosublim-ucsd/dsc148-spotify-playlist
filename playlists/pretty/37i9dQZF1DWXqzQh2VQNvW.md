@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXqzQh2VQNvW.md) - [plain]
 
 > The latest and greatest music out now!
 
-[Spotify](https://open.spotify.com/user/spotify) - 101,247 likes - 100 songs - 5 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 101,231 likes - 100 songs - 5 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXqzQh2VQNvW.md) - [plain]
 | 15 | [Moderación \(Con Camilo\)](https://open.spotify.com/track/66eBZFnheqpOM16CCyA1HV) | [JP Saxe](https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe), [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N) | [Moderación \(Con Camilo\)](https://open.spotify.com/album/6MOmPtc8mFnVFjN8zDh6rD) | 3:19 |
 | 16 | [Applause \- From "Tell It Like a Woman"](https://open.spotify.com/track/4ZlWlBH5FEoFDKgthWtHRl) | [Sofia Carson](https://open.spotify.com/artist/7bp2lSdh12wcA8LyB1srfJ) | [Applause \(From "Tell It Like a Woman"\)](https://open.spotify.com/album/7tfweNIzqYmP7abrg3SR31) | 3:02 |
 | 17 | [So Special](https://open.spotify.com/track/2yYj4A83qox4a2SBAE6a3t) | [Citizen Queen](https://open.spotify.com/artist/2z7BqfKvVlkr8KVAOTBKcz) | [So Special](https://open.spotify.com/album/5CIv2KGq1JvtcuNI584N1i) | 2:41 |
-| 18 | [MOVE](https://open.spotify.com/track/6RemYyY2mxu0N8qjjrShnQ) | [Idina Menzel](https://open.spotify.com/artist/73Np75Wv2tju61Eo9Zw4IR) | [MOVE](https://open.spotify.com/album/4nMAiQTGaqm3fKz1e2Vw7p) | 2:44 |
+| 18 | [Move](https://open.spotify.com/track/6RemYyY2mxu0N8qjjrShnQ) | [Idina Menzel](https://open.spotify.com/artist/73Np75Wv2tju61Eo9Zw4IR) | [MOVE](https://open.spotify.com/album/4nMAiQTGaqm3fKz1e2Vw7p) | 2:44 |
 | 19 | [BIG](https://open.spotify.com/track/2m4Bk1tHjFEmtGStZBx8rF) | [Betty Who](https://open.spotify.com/artist/0t3QQl52F463sxGXb1ckhB) | [BIG!](https://open.spotify.com/album/4xrzNkHJXlkvwYyVipesug) | 3:36 |
 | 20 | [Don't Leave](https://open.spotify.com/track/3Uuobd2VLUX9E1ugsQv4wj) | [Josh Golden](https://open.spotify.com/artist/6wUAn24MOirNVNqQM47fda) | [Don't Leave](https://open.spotify.com/album/1qWusCEgXBfPcOBtEGoQhT) | 3:02 |
 | 21 | [Breakfast](https://open.spotify.com/track/6GUiIbJ834FcHewby3PwV0) | [Dove Cameron](https://open.spotify.com/artist/2W8yFh0Ga6Yf3jiayVxwkE) | [Breakfast](https://open.spotify.com/album/7HWnZ3HvfiVjEIyFWC4Qlf) | 2:28 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXqzQh2VQNvW.md) - [plain]
 | 99 | [Sah Sah](https://open.spotify.com/track/2O6kwqT9Hb38PhHwbCNfOh) | [Nancy Ajram](https://open.spotify.com/artist/0LnHdW6HMPoOlNdhG3DHjE), [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T) | [Sah Sah](https://open.spotify.com/album/1vMwkK7I0UWAyTHngnXvuU) | 2:51 |
 | 100 | [Piece Of Me \(with LOVA\)](https://open.spotify.com/track/5mlNLzIdl6Ae2a4YRphSI4) | [Gryffin](https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh), [LOVA](https://open.spotify.com/artist/1l2NYhptmHjo64MDOcej1x) | [Piece Of Me \(with LOVA\)](https://open.spotify.com/album/3L5V3sfPdsd1SoSWzcW5Xb) | 3:22 |
 
-Snapshot ID: `MCxmYWUxZjEyNWZmNTA0ZTIzZWM2N2Y4YmQ4ZTNiYTIxN2EzODgwNDJk`
+Snapshot ID: `MCxiNTc0MTJmN2QxNTAxMjFlNzdlNTBiZjQ3ZjgyZTEwYThmOTliMjFi`

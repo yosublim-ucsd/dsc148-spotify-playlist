@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcWL5K0oNHcG.md) - [plain]
 
 > Fresh jazz by independent artists every Wednesday\. Cover: Aja Monet Artwork: Joy Yamusangie
 
-[Spotify](https://open.spotify.com/user/spotify) - 186,973 likes - 75 songs - 5 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 187,059 likes - 75 songs - 5 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcWL5K0oNHcG.md) - [plain]
 | 74 | [Distracted](https://open.spotify.com/track/3DxZNgpKQvUFQ29s9soRUz) | [Madhi](https://open.spotify.com/artist/0rlSST73sjgmQfdXxB0vW0) | [A Place to Be](https://open.spotify.com/album/4XgtUwd8rlGlG0SljOdsX9) | 3:04 |
 | 75 | [If The Answer Isn't Love](https://open.spotify.com/track/0zTc1N45hxG1EV2s7WW7RA) | [Sen Morimoto](https://open.spotify.com/artist/3zlWvRPwLwGSi2v6ltrhOl) | [If The Answer Isn't Love](https://open.spotify.com/album/3kcI5UWYniiMpDO0P4T7a3) | 2:51 |
 
-Snapshot ID: `MCwxNjVhNjY4ZWEwNzg0Mjc5MDEyY2QxNTc4ZGQ3MmZlNGI4ZmI4M2Iy`
+Snapshot ID: `MCxkNTNkY2I1ZWUyNjRjMzM5MWY1NDlkNGEzNGQ3Yzg0YTBkNDM1MWY3`

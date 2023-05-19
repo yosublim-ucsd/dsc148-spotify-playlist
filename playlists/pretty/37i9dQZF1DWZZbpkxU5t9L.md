@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZbpkxU5t9L.md) - [plain]
 
 > いま話題の曲をまとめてチェック。Cover: ジョナス・ブラザーズ
 
-[Spotify](https://open.spotify.com/user/spotify) - 106,545 likes - 50 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 106,556 likes - 50 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZbpkxU5t9L.md) - [plain]
 | 49 | [PUMP! feat.chelmico](https://open.spotify.com/track/4qpy0cXQehWHQCNNpMvijC) | [パソコン音楽クラブ](https://open.spotify.com/artist/5FiN9o11xTdr071qwSHyye), [chelmico](https://open.spotify.com/artist/6sAONleCsmAyP87OHsVAPV) | [FINE LINE](https://open.spotify.com/album/37XJRNnSBngM8e8Ejp3oQ7) | 3:00 |
 | 50 | [ONE LOVE \-Pacific Harmony\- \- 2023 Ver.](https://open.spotify.com/track/519EyJm5Ezy4JQZzbZXxvM) | [HIRAIDAI](https://open.spotify.com/artist/7JthQ6zwNzfxRfIEjp6wUs) | [LOVE+PEACE](https://open.spotify.com/album/4nlLn9bbCipFARu5OcRyti) | 3:58 |
 
-Snapshot ID: `MCw1Y2Y3NDNiN2JlOGQ1ZjhkYTRiNGFmMTI3MGYyZTA1MTE2NTNmN2U1`
+Snapshot ID: `MCw3MGQ0YWU2Mzg1MjI4NGFjYjBiNTM1YWNkYjQyZjU5OTE4YTI3MGRj`

@@ -2137,6 +2137,24 @@
     },
     {
       "album": {
+        "name": "\u592a\u9633\u4e0e\u5730\u7403",
+        "url": "https://open.spotify.com/album/6nD2McHVXlAo9NUl96FjQk"
+      },
+      "artists": [
+        {
+          "name": "Jarrell \u9ec4\u4fca\u878d",
+          "url": "https://open.spotify.com/artist/5hFV5x9k9vxFmKFneJIVp5"
+        }
+      ],
+      "date_added": "2023-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262000,
+      "name": "\u592a\u9633\u4e0e\u5730\u7403",
+      "url": "https://open.spotify.com/track/2dyHXh5dfquUdH2ci30ZSI"
+    },
+    {
+      "album": {
         "name": "\u5979 \u672a\u77e5\u8005",
         "url": "https://open.spotify.com/album/6Us7swn83FTat0pc5CvgK8"
       },
@@ -3884,7 +3902,7 @@
       ],
       "date_added": "2022-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 282181,
       "name": "\u7121\u540d\u7684\u4eba(\u96fb\u5f71\u300a\u96c4\u7345\u5c11\u5e74\u300b\u4e3b\u984c\u66f2)",
       "url": "https://open.spotify.com/track/72kP6AJqsEeSLkO640Tu7F"

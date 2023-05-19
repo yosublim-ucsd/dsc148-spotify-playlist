@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWwGws5Po6YO.md) - [plain]
 
 > The women at the forefront of ambient and experimental music\. Cover: Mira Calix
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,940 likes - 59 songs - 5 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,956 likes - 59 songs - 5 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,12 +31,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWwGws5Po6YO.md) - [plain]
 | 21 | [Woodland Encounter](https://open.spotify.com/track/2bH1jLEt4LFtgkNSuWYvyR) | [Patricia Wolf](https://open.spotify.com/artist/5U2PKpLxoEwfOnPAwzPt5T) | [See\-Through](https://open.spotify.com/album/0fPwWqb47D2PPObYoAzVBF) | 6:08 |
 | 22 | [By The Sea \(Alexandra Hamilton\-Ayres Rework\)](https://open.spotify.com/track/2iXvCq72SsfRotGmvihphI) | [Anna Phoebe](https://open.spotify.com/artist/1838KFlgy3zBrQOqiwagod), [Alexandra Hamilton\-Ayres](https://open.spotify.com/artist/6o0pKKljrn7GYEZTQPFwKp) | [By The Sea \(Alexandra Hamilton\-Ayres Rework\)](https://open.spotify.com/album/4dsFX80koDAJYLRx6UwcE3) | 4:48 |
 | 23 | [Fantas Morbida](https://open.spotify.com/track/3EmimXCpHQ9PW6FN0ajDeU) | [Caterina Barbieri](https://open.spotify.com/artist/61WgG5fz5ilJrMne7tE1zu), [Kara\-Lis Coverdale](https://open.spotify.com/artist/5pHUdo5THDtmE9yu3iC2hA) | [Fantas Variations](https://open.spotify.com/album/7zytkfZ6AvjmCbvwqFgFWO) | 3:07 |
-| 24 | [My People Have Deep Roots](https://open.spotify.com/track/5taMzHf1NWTcjLxGAn3DhX) | [Arushi Jain](https://open.spotify.com/artist/7vQf39VMZhNhPo54R8hIzJ) | [My People Have Deep Roots](https://open.spotify.com/album/4zkFQ6mn79zECO6tQh3I5d) | 4:00 |
+| 24 | [The Trembling of Glass](https://open.spotify.com/track/3xcZhz8x7ZV2PrREmSav89) | [Rachika Nayar](https://open.spotify.com/artist/6afqNtQw2IUvXw6JeIRgQZ) | [Our Hands Against the Dusk](https://open.spotify.com/album/6mtOF3M7pLQTQZlPtAFwn9) | 3:28 |
 | 25 | [We Wave From Our Boats](https://open.spotify.com/track/0ax8Q0A3ejFqsLA7Gl7mH3) | [Mary Lattimore](https://open.spotify.com/artist/38MKhZmMRHAZRz8LqtKIBw) | [Collected Pieces: 2015\-2020](https://open.spotify.com/album/7fZYAQ9HtGNemdpr8xt3SP) | 3:50 |
 | 26 | [Mt Baker](https://open.spotify.com/track/79AGKN3gu22Wjz6y5gPLyH) | [Kaitlyn Aurelia Smith](https://open.spotify.com/artist/6P86FLVAK4sxu8OhyQJBvH) | [@0 EP1](https://open.spotify.com/album/1eEFnKUqaKC6pgzRKzS29k) | 5:12 |
 | 27 | [Being Her Shadow](https://open.spotify.com/track/2HeFT5Khue5e3vybIgRmUh) | [Grouper](https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i) | [The Man Who Died in His Boat](https://open.spotify.com/album/2arK6QEmfa25k2feNozs9e) | 4:45 |
-| 28 | [Morning Spring](https://open.spotify.com/track/0MBiVK0AHaR70AuD061Np7) | [Suzanne Ciani](https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr) | [@0 EP1](https://open.spotify.com/album/1eEFnKUqaKC6pgzRKzS29k) | 5:00 |
-| 29 | [The Trembling of Glass](https://open.spotify.com/track/3xcZhz8x7ZV2PrREmSav89) | [Rachika Nayar](https://open.spotify.com/artist/6afqNtQw2IUvXw6JeIRgQZ) | [Our Hands Against the Dusk](https://open.spotify.com/album/6mtOF3M7pLQTQZlPtAFwn9) | 3:28 |
+| 28 | [My People Have Deep Roots](https://open.spotify.com/track/5taMzHf1NWTcjLxGAn3DhX) | [Arushi Jain](https://open.spotify.com/artist/7vQf39VMZhNhPo54R8hIzJ) | [My People Have Deep Roots](https://open.spotify.com/album/4zkFQ6mn79zECO6tQh3I5d) | 4:00 |
+| 29 | [Morning Spring](https://open.spotify.com/track/0MBiVK0AHaR70AuD061Np7) | [Suzanne Ciani](https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr) | [@0 EP1](https://open.spotify.com/album/1eEFnKUqaKC6pgzRKzS29k) | 5:00 |
 | 30 | [Russian Snow](https://open.spotify.com/track/74DxOVwXdBdn1rrfK8SFCU) | [Lucette Bourdin](https://open.spotify.com/artist/1mLHAhpOa5hFC5ht47RrT3) | [Rising Fog](https://open.spotify.com/album/5UqAY7B1XX3QoFWgu7bfil) | 8:28 |
 | 31 | [Grafts](https://open.spotify.com/track/3MNKjPvkQnMNq8BU2GwYFq) | [Kara\-Lis Coverdale](https://open.spotify.com/artist/5pHUdo5THDtmE9yu3iC2hA) | [Grafts](https://open.spotify.com/album/6hT28oOwJbnRX9qvxbXbTw) | 22:31 |
 | 32 | [Wawa by the Ocean](https://open.spotify.com/track/7DqYDB4qI45OW8z8Hfw6Yn) | [Mary Lattimore](https://open.spotify.com/artist/38MKhZmMRHAZRz8LqtKIBw) | [Collected Pieces](https://open.spotify.com/album/3895niIXqzuC7o9NMmG7ao) | 10:28 |
@@ -44,13 +44,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWwGws5Po6YO.md) - [plain]
 | 34 | [Withdrawal](https://open.spotify.com/track/7LY0xEmkAWnwTh2QCeIqn6) | [Astrid Sonne](https://open.spotify.com/artist/7qiyPneI60DzZmxVxC7689) | [outside of your lifetime](https://open.spotify.com/album/6byELpoEiFADM1j4Zgv0WJ) | 2:01 |
 | 35 | [The Reckoning](https://open.spotify.com/track/4eq5135ivFfvHFtRHvjgHN) | [Ekin Fil](https://open.spotify.com/artist/2F9OXpPD8su7xGVgEtPrda), [Ella Zwietnig](https://open.spotify.com/artist/60cHgnfXVYiogMeM1K0zfa) | [Far Within Reach](https://open.spotify.com/album/3kdqtmyBQjtJSGR5n8dB7g) | 5:12 |
 | 36 | [Pale Interior](https://open.spotify.com/track/6nI1FAfYETS7qtrPpyg3d7) | [Grouper](https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i) | [Shade](https://open.spotify.com/album/1w3EOCPDwqWIiu2c1pHylJ) | 3:51 |
-| 37 | [is this nature escape](https://open.spotify.com/track/1WTrewwL2WSpRLzMHkliPk) | [Katharine Petkovski](https://open.spotify.com/artist/2oTL4l9yY0pzkWPAYiQdyA) | [is this nature escape](https://open.spotify.com/album/2QEtXA68cvKfb3Fxn2zO42) | 3:32 |
-| 38 | [Blue Shit](https://open.spotify.com/track/3ImFKblupPLY9oE5kMXhxJ) | [Mica Levi](https://open.spotify.com/artist/29LOCR81IrdEJjCAeCEOU3) | [Blue Alibi](https://open.spotify.com/album/2PPwihRPEkor4XCXlvEkc0) | 4:41 |
-| 39 | [The North Wind](https://open.spotify.com/track/4F3oKKJKOGZqiv5y82m6WR) | [Faten Kanaan](https://open.spotify.com/artist/6Jz6XSRQjWHHmdkR2myjjy) | [A Mythology of Circles](https://open.spotify.com/album/7ETwKNGObw9XeY0NFPwrfG) | 4:11 |
+| 37 | [Blue Shit](https://open.spotify.com/track/3ImFKblupPLY9oE5kMXhxJ) | [Mica Levi](https://open.spotify.com/artist/29LOCR81IrdEJjCAeCEOU3) | [Blue Alibi](https://open.spotify.com/album/2PPwihRPEkor4XCXlvEkc0) | 4:41 |
+| 38 | [is this nature escape](https://open.spotify.com/track/1WTrewwL2WSpRLzMHkliPk) | [Katharine Petkovski](https://open.spotify.com/artist/2oTL4l9yY0pzkWPAYiQdyA) | [is this nature escape](https://open.spotify.com/album/2QEtXA68cvKfb3Fxn2zO42) | 3:32 |
+| 39 | [Nana \(Like A Star Made For Me\) \- Julianna Barwick remix](https://open.spotify.com/track/7gfK7eKZ3aM4RqNstDEzcU) | [Malibu](https://open.spotify.com/artist/3gfV2LBMvIE9gjpvowt11B), [Julianna Barwick](https://open.spotify.com/artist/0HWfFWL4vVrbaBQqxVCwCi) | [One Life : four remixes](https://open.spotify.com/album/37cXPtsjdDJNR65haaZvx9) | 6:00 |
 | 40 | [Silver Ladders](https://open.spotify.com/track/0cWCoT7I1XOmpXAYG0C6QE) | [Mary Lattimore](https://open.spotify.com/artist/38MKhZmMRHAZRz8LqtKIBw) | [Silver Ladders](https://open.spotify.com/album/5Ykv18C5wYbOe3QsZX7kyy) | 3:45 |
-| 41 | [Nana \(Like A Star Made For Me\) \- Julianna Barwick remix](https://open.spotify.com/track/7gfK7eKZ3aM4RqNstDEzcU) | [Malibu](https://open.spotify.com/artist/3gfV2LBMvIE9gjpvowt11B), [Julianna Barwick](https://open.spotify.com/artist/0HWfFWL4vVrbaBQqxVCwCi) | [One Life : four remixes](https://open.spotify.com/album/37cXPtsjdDJNR65haaZvx9) | 6:00 |
-| 42 | [Night Journeys II](https://open.spotify.com/track/43uv8HHkDXbCi5JsjpPS0t) | [Courtesy](https://open.spotify.com/artist/0osYTSrOpW6YESEC1lClwN) | [Night Journeys II](https://open.spotify.com/album/5CAU2Xx0mL2PyKGOW8y1Pp) | 7:16 |
-| 43 | [Rushes Recede](https://open.spotify.com/track/6j2WzsvrDBUkyH08pO376N) | [Sarah Davachi](https://open.spotify.com/artist/2Swn6We5XXpyDz1YxRkprA) | [Antiphonals](https://open.spotify.com/album/3dztEmmGXTTLtKkfdepLka) | 6:34 |
+| 41 | [The North Wind](https://open.spotify.com/track/4F3oKKJKOGZqiv5y82m6WR) | [Faten Kanaan](https://open.spotify.com/artist/6Jz6XSRQjWHHmdkR2myjjy) | [A Mythology of Circles](https://open.spotify.com/album/7ETwKNGObw9XeY0NFPwrfG) | 4:11 |
+| 42 | [Rushes Recede](https://open.spotify.com/track/6j2WzsvrDBUkyH08pO376N) | [Sarah Davachi](https://open.spotify.com/artist/2Swn6We5XXpyDz1YxRkprA) | [Antiphonals](https://open.spotify.com/album/3dztEmmGXTTLtKkfdepLka) | 6:34 |
+| 43 | [Night Journeys II](https://open.spotify.com/track/43uv8HHkDXbCi5JsjpPS0t) | [Courtesy](https://open.spotify.com/artist/0osYTSrOpW6YESEC1lClwN) | [Night Journeys II](https://open.spotify.com/album/5CAU2Xx0mL2PyKGOW8y1Pp) | 7:16 |
 | 44 | [Billow](https://open.spotify.com/track/0ADpQhsJkrPFimoivWZYQt) | [Ulla Straus](https://open.spotify.com/artist/6cyU1HgdzdAaBqhyOGWsMp) | [Big Room](https://open.spotify.com/album/5Wl5NjNhzpZM13CAFMhHCE) | 4:27 |
 | 45 | [Zhao Hua](https://open.spotify.com/track/2Om39rrFtoMg6Rse1N7YWE) | [HVAD](https://open.spotify.com/artist/1QXjEEDCHutVkOzAD6g13J), [Pan Daijing](https://open.spotify.com/artist/2OA8e1A4qJVqDHbjnc86dR) | [Mono No Aware](https://open.spotify.com/album/1YbSlMGiAAaTfR9Kk9HNxk) | 6:46 |
 | 46 | [Long Dizzying Air Through A Balcony Door](https://open.spotify.com/track/6dzqvZkDtCNLw46Juiarvv) | [Perila](https://open.spotify.com/artist/5tWRKxz6TY4YfkdrMPGPPi) | [7.37/2.11](https://open.spotify.com/album/1oYDe8bwryHz91moudqL6X) | 7:48 |
@@ -68,4 +68,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWwGws5Po6YO.md) - [plain]
 | 58 | [In Her Hair](https://open.spotify.com/track/76cA2zwvP6oZXMEMrx7jRV) | [Lisa Lerkenfeldt](https://open.spotify.com/artist/3famB97koyRfo502IWQjFL) | [Collagen](https://open.spotify.com/album/5DCzCJxAkCrd011i8CgZgx) | 5:21 |
 | 59 | [Hyphae](https://open.spotify.com/track/2NOCvQQPWRz19g6cK4rR7g) | [Laurel Halo](https://open.spotify.com/artist/0sRVVDpgF2sKzPBkDszzUl) | [Possessed \(Original Score\)](https://open.spotify.com/album/3qFUz77lFTarOn9nSzSkAY) | 6:27 |
 
-Snapshot ID: `MCwzMzVlMDc2NDk2NmViNzJkMzdiOWQ2MmU5MzA4NTU5YjI1NTk0Njgz`
+Snapshot ID: `MCxiMDZhMTUxY2QzMzNiNDJlZmFmMDgzYzVmZmU2NTVhZjI5YjZhYzQ4`

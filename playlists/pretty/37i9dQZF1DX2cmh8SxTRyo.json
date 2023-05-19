@@ -1,12 +1,12 @@
 {
   "description": "A gaming playlist for the whole family.",
-  "num_followers": 3547,
+  "num_followers": 3550,
   "original_name": "Family Game Time",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzOWRmOWJiODMzODJmZTJjMDMyMmZjMDUzZWFmYzRhMjFhNmUzOWRi",
+  "snapshot_id": "MCxjODczMzhlZDBjM2I4MjdhNjNhMTM3ZGQ3NzM0NjY5YmVjYjBiMTU2",
   "tracks": [
     {
       "added_at": "2021-03-04 17:57:34",
@@ -971,22 +971,6 @@
     {
       "added_at": "2021-03-04 17:57:34",
       "album": {
-        "name": "Chromatica",
-        "url": "https://open.spotify.com/album/05c49JgPmL4Uz2ZeqRx5SP"
-      },
-      "artists": [
-        {
-          "name": "Lady Gaga",
-          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
-        }
-      ],
-      "duration_ms": 193533,
-      "name": "Stupid Love",
-      "url": "https://open.spotify.com/track/7yBbV2k2S2uhaQc24NF2xt"
-    },
-    {
-      "added_at": "2021-03-04 17:57:34",
-      "album": {
         "name": "Night Visions (Deluxe)",
         "url": "https://open.spotify.com/album/1rzDtYMpZDhRgKNigB467r"
       },
@@ -999,6 +983,22 @@
       "duration_ms": 189840,
       "name": "On Top Of The World",
       "url": "https://open.spotify.com/track/6KuHjfXHkfnIjdmcIvt9r0"
+    },
+    {
+      "added_at": "2021-03-04 17:57:34",
+      "album": {
+        "name": "Chromatica",
+        "url": "https://open.spotify.com/album/05c49JgPmL4Uz2ZeqRx5SP"
+      },
+      "artists": [
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        }
+      ],
+      "duration_ms": 193533,
+      "name": "Stupid Love",
+      "url": "https://open.spotify.com/track/7yBbV2k2S2uhaQc24NF2xt"
     },
     {
       "added_at": "2021-03-04 17:57:34",

@@ -1046,8 +1046,8 @@
           "url": "https://open.spotify.com/artist/6U3gCOvxVWKBxXItqp3mdr"
         },
         {
-          "name": "HennyBeLit",
-          "url": "https://open.spotify.com/artist/4W0PFiZptAwa8wZ3MsIINI"
+          "name": "HENNYBELIT",
+          "url": "https://open.spotify.com/artist/0w2p769eAX32IMb6u5v1eP"
         }
       ],
       "date_added": "2023-02-01",
@@ -5831,6 +5831,28 @@
     },
     {
       "album": {
+        "name": "Mawubuye",
+        "url": "https://open.spotify.com/album/5xmKLkETJUgEpFiOt69ssy"
+      },
+      "artists": [
+        {
+          "name": "Flow Jones Jr.",
+          "url": "https://open.spotify.com/artist/16lC2NTx9Dj12PsgOzraQa"
+        },
+        {
+          "name": "DJ Sliqe",
+          "url": "https://open.spotify.com/artist/1q4Av58diNwZtD01vPUoH5"
+        }
+      ],
+      "date_added": "2023-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178797,
+      "name": "Mawubuye",
+      "url": "https://open.spotify.com/track/26ZMcKyZVW1RIv8JsPlnOX"
+    },
+    {
+      "album": {
         "name": "Days Before The Heist",
         "url": "https://open.spotify.com/album/3AkBjY1dU3eNyIB3KTIRPx"
       },
@@ -7606,7 +7628,7 @@
       ],
       "date_added": "2023-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-19",
       "duration_ms": 156530,
       "name": "Rare",
       "url": "https://open.spotify.com/track/3ypCfyrl6joWlLjrpHQPwH"

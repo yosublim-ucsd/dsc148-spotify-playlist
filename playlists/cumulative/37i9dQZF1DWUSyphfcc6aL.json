@@ -3791,6 +3791,32 @@
     },
     {
       "album": {
+        "name": "Tarantella (feat. Sooshi Mango)",
+        "url": "https://open.spotify.com/album/7lzhyRWEY0qpldJzqr0vnG"
+      },
+      "artists": [
+        {
+          "name": "Joel Fletcher",
+          "url": "https://open.spotify.com/artist/2Z4QqhmV5Xw5vX2ZI70HOR"
+        },
+        {
+          "name": "Orkestrated",
+          "url": "https://open.spotify.com/artist/52VqIv9iDcmGRrg9tzsEF0"
+        },
+        {
+          "name": "Sooshi Mango",
+          "url": "https://open.spotify.com/artist/4oA9MUQZCm2OWojySIRpf5"
+        }
+      ],
+      "date_added": "2023-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177230,
+      "name": "Tarantella (feat. Sooshi Mango)",
+      "url": "https://open.spotify.com/track/30sWradYj7bNPtq3PQVd7B"
+    },
+    {
+      "album": {
         "name": "The Business",
         "url": "https://open.spotify.com/album/2adSO4KU3FDjeM1PXCRDZm"
       },
@@ -4008,6 +4034,28 @@
       "duration_ms": 188636,
       "name": "Too Many Nights",
       "url": "https://open.spotify.com/track/6xB0rPxU3ncmMPgGDaD24M"
+    },
+    {
+      "album": {
+        "name": "TROMPA",
+        "url": "https://open.spotify.com/album/6FIVgqW8RuPIqUrQtFfTkV"
+      },
+      "artists": [
+        {
+          "name": "Sofi Tukker",
+          "url": "https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q"
+        },
+        {
+          "name": "Sunnery James & Ryan Marciano",
+          "url": "https://open.spotify.com/artist/7kABWMhjA5GIl9PBEasBPt"
+        }
+      ],
+      "date_added": "2023-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163962,
+      "name": "TROMPA",
+      "url": "https://open.spotify.com/track/1h2igaPPB08Gwe4WZynsei"
     },
     {
       "album": {

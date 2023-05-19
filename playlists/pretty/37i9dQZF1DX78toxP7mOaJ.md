@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX78toxP7mOaJ.md) - [plain]
 
 > Fresh rock from independent artists every Wednesday\. Cover: ALEXSUCKS \| Artwork: Jim Klok
 
-[Spotify](https://open.spotify.com/user/spotify) - 117,418 likes - 100 songs - 5 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 117,544 likes - 100 songs - 5 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX78toxP7mOaJ.md) - [plain]
 | 99 | [Wait Around](https://open.spotify.com/track/4X03LNoWfzsT2PvFlJLHLH) | [The Great Leslie](https://open.spotify.com/artist/4nLnyYZc70ZItmWTW0oo9W) | [The End And The Beginning](https://open.spotify.com/album/2QR5agSF6xo5tMASsufvvE) | 3:50 |
 | 100 | [10 Minutes From Now](https://open.spotify.com/track/3XYM8w72L99Hb8uAhBofgt) | [People R Ugly](https://open.spotify.com/artist/1kXY7pco0sC6GEgJW9xxyI) | [10 Minutes From Now](https://open.spotify.com/album/2aepdjt22usv7kLzz6fp9K) | 2:53 |
 
-Snapshot ID: `MCxjZTIwYWNhZmNkNWYzMmRmZDNmNTdhODJkYWY1N2FlZjM4ZWM0NjIy`
+Snapshot ID: `MCwyN2NmNDExYTNmYThmMDZiNmU3NWZjMzA2NzRiMDMyOGZmOTc1YzVl`
