@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-01",
-  "description": "Experience the best of live worship here. This week we are featuring some of the favorite live worship tracks of our Guest Curator, Sadie Roberston. ",
+  "description": "Experience the best of live worship here. This week we are featuring some of the favorite live worship tracks of our Guest Curators, <a href=\"https://open.spotify.com/artist/6ruMOwHKTLjGkGxpG32RTM?si=EwHmkSyiQ0mQ2r3x1bE4dA\">Pastor Steven Furtick</a> and <a href=\"https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix?si=fExbtuHsTv2HzZgvB0XlCw\">Elevation Worship</a>",
   "name": "Best of Live Worship",
   "tracks": [
     {
@@ -20,7 +20,7 @@
       ],
       "date_added": "2022-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 429515,
       "name": "A Little Fire (Burn Brighter)",
       "url": "https://open.spotify.com/track/6ZX7RjHUnow6oFfJcCszjA"
@@ -60,6 +60,24 @@
       "duration_ms": 309329,
       "name": "A Thousand Hallelujahs - Live",
       "url": "https://open.spotify.com/track/0yQNofkmcY7exdnWvjTUHu"
+    },
+    {
+      "album": {
+        "name": "SEVEN (Live)",
+        "url": "https://open.spotify.com/album/6ZVXKVGiyL96L6pflgfWrt"
+      },
+      "artists": [
+        {
+          "name": "Brooke Ligertwood",
+          "url": "https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 309329,
+      "name": "A Thousand Hallelujahs - Live",
+      "url": "https://open.spotify.com/track/3iJpkw9KKdzMNZQVrdRzsl"
     },
     {
       "album": {
@@ -214,7 +232,7 @@
       ],
       "date_added": "2022-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 309360,
       "name": "Altogether Good - Live",
       "url": "https://open.spotify.com/track/5h2gWs1LegrggJao1uO3s7"
@@ -368,6 +386,24 @@
       "duration_ms": 460749,
       "name": "Awaken the Anthem - Live",
       "url": "https://open.spotify.com/track/6Mgbl51sXHWFuya4c0rkWJ"
+    },
+    {
+      "album": {
+        "name": "Be Glad",
+        "url": "https://open.spotify.com/album/3v1TixjGy5DAVj6K7zItcx"
+      },
+      "artists": [
+        {
+          "name": "Cody Carnes",
+          "url": "https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 299658,
+      "name": "Be Glad",
+      "url": "https://open.spotify.com/track/1EHOvHPTQeCNmsewnDuVN1"
     },
     {
       "album": {
@@ -532,7 +568,7 @@
       ],
       "date_added": "2022-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 502333,
       "name": "Believe For It - Live",
       "url": "https://open.spotify.com/track/2kSt5gqwUhufhV3mDP38JK"
@@ -630,7 +666,7 @@
       ],
       "date_added": "2023-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 582584,
       "name": "Bless His Name / To Him Who Sits On the Throne - Live",
       "url": "https://open.spotify.com/track/3wpiepnrK0D74xa4sFqv4a"
@@ -2090,7 +2126,7 @@
       ],
       "date_added": "2023-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 331786,
       "name": "Holy - Live",
       "url": "https://open.spotify.com/track/3gzb78asf6noEszQfOonE0"
@@ -2551,6 +2587,28 @@
     },
     {
       "album": {
+        "name": "The Stories I Tell Myself",
+        "url": "https://open.spotify.com/album/6Kv4VGIplIgRTTQodGfdt4"
+      },
+      "artists": [
+        {
+          "name": "Matt Maher",
+          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
+        },
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/03NN8FAKofZU6phsfHLKPw"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288706,
+      "name": "In the Room (feat. Chris Brown)",
+      "url": "https://open.spotify.com/track/68ENcNLZqN18ljpbNntTvV"
+    },
+    {
+      "album": {
         "name": "Sing! In Christ Alone - Live At The Getty Music Worship Conference",
         "url": "https://open.spotify.com/album/7LieYsVEC7GO1SoImXO4rr"
       },
@@ -2570,6 +2628,28 @@
       "duration_ms": 288303,
       "name": "Is He Worthy? - Live",
       "url": "https://open.spotify.com/track/0QXpQkyuEdNqJLOkzua7vf"
+    },
+    {
+      "album": {
+        "name": "CAN YOU IMAGINE?",
+        "url": "https://open.spotify.com/album/58ufb71YaU1PetJKQGqSd2"
+      },
+      "artists": [
+        {
+          "name": "Elevation Worship",
+          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
+        },
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/03NN8FAKofZU6phsfHLKPw"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 354885,
+      "name": "Jehovah (feat. Chris Brown)",
+      "url": "https://open.spotify.com/track/4moUecMb5PN5kDTQANggc3"
     },
     {
       "album": {
@@ -2695,6 +2775,28 @@
     },
     {
       "album": {
+        "name": "Joy In The Morning",
+        "url": "https://open.spotify.com/album/170FUziX94zYLzcV7arINC"
+      },
+      "artists": [
+        {
+          "name": "Tauren Wells",
+          "url": "https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4"
+        },
+        {
+          "name": "Elevation Worship",
+          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 528413,
+      "name": "Joy In The Morning",
+      "url": "https://open.spotify.com/track/6VorEVnu2fEEk6dcG9vb5v"
+    },
+    {
+      "album": {
         "name": "Foundations (Live)",
         "url": "https://open.spotify.com/album/0WDoGX80kl6qj0pUe9cUKi"
       },
@@ -2780,7 +2882,7 @@
       ],
       "date_added": "2022-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 413276,
       "name": "Lamb (feat. Tiffany Hudson) - Live",
       "url": "https://open.spotify.com/track/0RG4tDb9PCACXsbzxBcxUa"
@@ -2828,7 +2930,7 @@
       ],
       "date_added": "2023-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 335849,
       "name": "Lamb of God - Live",
       "url": "https://open.spotify.com/track/3Qh7WTXJYgxVG0lr2TUK6o"
@@ -2868,7 +2970,7 @@
       ],
       "date_added": "2022-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 476599,
       "name": "Leaning - Live",
       "url": "https://open.spotify.com/track/3ftY8vtaNvwIDBwbFDDFVH"
@@ -2894,7 +2996,7 @@
       ],
       "date_added": "2023-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 274666,
       "name": "Let Go - Live",
       "url": "https://open.spotify.com/track/18n9g4RuXRgrMQaNtU06iX"
@@ -2982,7 +3084,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 393010,
       "name": "LION (feat. Chris Brown & Brandon Lake) - Live",
       "url": "https://open.spotify.com/track/1yf10nEj6SqEUoyOuB7ywL"
@@ -3008,7 +3110,7 @@
       ],
       "date_added": "2023-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 522190,
       "name": "Live Again",
       "url": "https://open.spotify.com/track/1K2dxpyTXiR5xcwo0ZrjBI"
@@ -3139,6 +3241,32 @@
     },
     {
       "album": {
+        "name": "CAN YOU IMAGINE?",
+        "url": "https://open.spotify.com/album/58ufb71YaU1PetJKQGqSd2"
+      },
+      "artists": [
+        {
+          "name": "Elevation Worship",
+          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
+        },
+        {
+          "name": "Chandler Moore",
+          "url": "https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk"
+        },
+        {
+          "name": "Brandon Lake",
+          "url": "https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 512899,
+      "name": "Make A Way (feat. Chandler Moore & Brandon Lake)",
+      "url": "https://open.spotify.com/track/6zWWw5C05h7blvMcdel3uW"
+    },
+    {
+      "album": {
         "name": "Til the Day I Die (Live)",
         "url": "https://open.spotify.com/album/4vPRiVFCsGB2PkDYtvusZP"
       },
@@ -3154,6 +3282,24 @@
       "duration_ms": 296857,
       "name": "Man of Miracles - Live",
       "url": "https://open.spotify.com/track/4fG876rJEE1hMfqdzVAjSR"
+    },
+    {
+      "album": {
+        "name": "Miracle in Me",
+        "url": "https://open.spotify.com/album/5B2fXFqXOZ9lu1SY0JIIJp"
+      },
+      "artists": [
+        {
+          "name": "Red Rocks Worship",
+          "url": "https://open.spotify.com/artist/48AVv3cw03WdSB5b4qmNCr"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 308864,
+      "name": "Miracle in Me",
+      "url": "https://open.spotify.com/track/2oPoSdBoNR5jwSXsMzDz1b"
     },
     {
       "album": {
@@ -3179,6 +3325,32 @@
     },
     {
       "album": {
+        "name": "Trust In God / More Than Able",
+        "url": "https://open.spotify.com/album/0S5WweUHqJ4VLgXOfpmFZj"
+      },
+      "artists": [
+        {
+          "name": "Elevation Worship",
+          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
+        },
+        {
+          "name": "Chandler Moore",
+          "url": "https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk"
+        },
+        {
+          "name": "Tiffany Hudson",
+          "url": "https://open.spotify.com/artist/0F58iilfZWiLrxyhsVOdQV"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 598622,
+      "name": "More Than Able (feat. Chandler Moore & Tiffany Hudson)",
+      "url": "https://open.spotify.com/track/0Mqrd6fg80trlHLn4BcYBO"
+    },
+    {
+      "album": {
         "name": "More Than Able (feat. Chandler Moore & Tiffany Hudson)",
         "url": "https://open.spotify.com/album/6Vb59gcwclWzcY5iFkrTOV"
       },
@@ -3198,7 +3370,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 598622,
       "name": "More Than Able (feat. Chandler Moore & Tiffany Hudson)",
       "url": "https://open.spotify.com/track/0W8ibUIT6xe9LtWNJmyPim"
@@ -3280,6 +3452,24 @@
       "duration_ms": 793982,
       "name": "Never Lost (feat. Joe L Barnes, Lizzie Morgan & Melvin Crispell III)",
       "url": "https://open.spotify.com/track/0erjjRw2XQti6uQqxMs9n8"
+    },
+    {
+      "album": {
+        "name": "Believe For It",
+        "url": "https://open.spotify.com/album/2Wf09CJNp4sH4Oq9KZOzor"
+      },
+      "artists": [
+        {
+          "name": "CeCe Winans",
+          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 403920,
+      "name": "Never Lost - Live",
+      "url": "https://open.spotify.com/track/0kB28CdAxrYvMXrQB1iXor"
     },
     {
       "album": {
@@ -3718,7 +3908,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 628695,
       "name": "Paul & Silas (At Midnight) - Live",
       "url": "https://open.spotify.com/track/5ayC8O7yZHMjdIGUSomCZK"
@@ -3816,7 +4006,7 @@
       ],
       "date_added": "2022-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 378379,
       "name": "Providence",
       "url": "https://open.spotify.com/track/7G8ZEE8HmuPPfy5JE5PE8b"
@@ -3938,6 +4128,24 @@
       "duration_ms": 385574,
       "name": "Remain - Live",
       "url": "https://open.spotify.com/track/7MZSIyMGZlOe85SPoQIym7"
+    },
+    {
+      "album": {
+        "name": "Rest On Us",
+        "url": "https://open.spotify.com/album/5oijhJhsrP8CewlpbOpgiX"
+      },
+      "artists": [
+        {
+          "name": "Elle Limebear",
+          "url": "https://open.spotify.com/artist/7MCV4p3QmcYDMTfiE0ZWMD"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 325053,
+      "name": "Rest On Us",
+      "url": "https://open.spotify.com/track/103FnJqSB4INEN6kKntVtQ"
     },
     {
       "album": {
@@ -4306,6 +4514,24 @@
       "duration_ms": 511946,
       "name": "Such a Love - Live",
       "url": "https://open.spotify.com/track/5HSJdBHiLDj5VKJvoOiAU0"
+    },
+    {
+      "album": {
+        "name": "Sunday Is Coming",
+        "url": "https://open.spotify.com/album/4dkpEziADCqKpBvszDfPua"
+      },
+      "artists": [
+        {
+          "name": "Phil Wickham",
+          "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292266,
+      "name": "Sunday Is Coming",
+      "url": "https://open.spotify.com/track/08eMkrkp2sobR0zNs4kVtK"
     },
     {
       "album": {
@@ -4787,6 +5013,36 @@
     },
     {
       "album": {
+        "name": "Thanks",
+        "url": "https://open.spotify.com/album/3VKdWSElM9EjchBZaXZVML"
+      },
+      "artists": [
+        {
+          "name": "Mosaic MSC",
+          "url": "https://open.spotify.com/artist/4hAridhpYF50cbO6o7jB3b"
+        },
+        {
+          "name": "Cody Carnes",
+          "url": "https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0"
+        },
+        {
+          "name": "Amanda Cook",
+          "url": "https://open.spotify.com/artist/53Gnd3lGlcL8ua9Yyu9xDP"
+        },
+        {
+          "name": "Joe L Barnes",
+          "url": "https://open.spotify.com/artist/5nO7Yt0Jon48sqKR6VME4T"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221274,
+      "name": "This Is How I Thank The Lord (feat. Cody Carnes, Amanda Cook, Joe L Barnes)",
+      "url": "https://open.spotify.com/track/2t8f07knCNSY19avq19l1R"
+    },
+    {
+      "album": {
         "name": "Our God Will See Us Through (Live)",
         "url": "https://open.spotify.com/album/25NamvQ3sQ5SSG5kNTePx2"
       },
@@ -4802,6 +5058,24 @@
       "duration_ms": 253652,
       "name": "This Is My Song - Live",
       "url": "https://open.spotify.com/track/5VPQE4HJbsvTFZZ9xL4KOY"
+    },
+    {
+      "album": {
+        "name": "This Is Our God",
+        "url": "https://open.spotify.com/album/1AOGcBpy6CxShBK8Pu3wB5"
+      },
+      "artists": [
+        {
+          "name": "Phil Wickham",
+          "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265653,
+      "name": "This Is Our God",
+      "url": "https://open.spotify.com/track/6StHK5sgz9rjxVZv7CApW2"
     },
     {
       "album": {
@@ -5016,6 +5290,28 @@
       "duration_ms": 427546,
       "name": "Touch Of Heaven - Live",
       "url": "https://open.spotify.com/track/0pfm3xmeB1xNdTcKap5Jum"
+    },
+    {
+      "album": {
+        "name": "Trust In God / More Than Able",
+        "url": "https://open.spotify.com/album/0S5WweUHqJ4VLgXOfpmFZj"
+      },
+      "artists": [
+        {
+          "name": "Elevation Worship",
+          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
+        },
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/03NN8FAKofZU6phsfHLKPw"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 442264,
+      "name": "Trust In God (feat. Chris Brown)",
+      "url": "https://open.spotify.com/track/5EHMPGhsQY5o1pcjOejbMj"
     },
     {
       "album": {
@@ -5354,10 +5650,28 @@
       ],
       "date_added": "2022-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 382224,
       "name": "You Picked Me Up (So Good To Me) - Live",
       "url": "https://open.spotify.com/track/6Px8gSoHxBtBHIzLb964Q2"
+    },
+    {
+      "album": {
+        "name": "You Will Be Saved",
+        "url": "https://open.spotify.com/album/5vWSZtMuoAs4LImacMCKbk"
+      },
+      "artists": [
+        {
+          "name": "ELEVATION RHYTHM",
+          "url": "https://open.spotify.com/artist/0qZ8aSF0iMCQI99AAXikF8"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 374904,
+      "name": "You Will Be Saved",
+      "url": "https://open.spotify.com/track/5qZfyZ194ueTEHYTkGNA6f"
     },
     {
       "album": {

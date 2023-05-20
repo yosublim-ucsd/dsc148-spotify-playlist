@@ -1817,6 +1817,24 @@
     },
     {
       "album": {
+        "name": "Hold On",
+        "url": "https://open.spotify.com/album/5ElvHfrIkMQNgAOEqsW4Hx"
+      },
+      "artists": [
+        {
+          "name": "Laney Lou and the Bird Dogs",
+          "url": "https://open.spotify.com/artist/2X8vBRaS7l9JlOJS3uoz3T"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260400,
+      "name": "Hold On",
+      "url": "https://open.spotify.com/track/7BEBCMpNRIulT7AXPY6F5f"
+    },
+    {
+      "album": {
         "name": "Holding Pattern",
         "url": "https://open.spotify.com/album/54yXHow53RS0QZJWWjU38r"
       },

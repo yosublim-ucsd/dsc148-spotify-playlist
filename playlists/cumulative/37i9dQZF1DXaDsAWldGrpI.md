@@ -4,7 +4,7 @@
 
 > Your favorite artists, caught in the act! Recorded Live...just like you were there\. Cover: Cody Johnson
 
-118 songs - 8 hr 22 min
+120 songs - 8 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -75,6 +75,7 @@
 | [My Church \- Live from the Bluebird Café](https://open.spotify.com/track/1atcxTKmyUASYKQVNpBBQp) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [My Church \(Live from the Bluebird Café\)](https://open.spotify.com/album/24AOlassgS5YceHoqgwfAT) | 3:20 | 2021-07-22 |  |
 | [My Jesus \- Live From Kentucky](https://open.spotify.com/track/6n39kdFmrDM9HOmQQaeZ73) | [Anne Wilson](https://open.spotify.com/artist/75JvBeqW4BJ4xgnbMAq6MN) | [My Jesus \(Anniversary Deluxe\)](https://open.spotify.com/album/3ics5XSj02ZTkwmm3S2yrF) | 3:57 | 2023-04-21 |  |
 | [Need You Now \- Live](https://open.spotify.com/track/0B6xuiHFvxkiAtmGbbuSKB) | [Lady A](https://open.spotify.com/artist/32WkQRZEVKSzVAAYqukAEA) | [Spotify Live \(Live From Austin, TX\)](https://open.spotify.com/album/1uNyPWW6YzdIBWxwq5BiBE) | 5:42 | 2021-07-22 |  |
+| [Next Thing You Know \- Live From The O2 London](https://open.spotify.com/track/3iqGOpRkz4V4juMd7ccyIl) | [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI) | [Next Thing You Know \(Live From The O2 London\)](https://open.spotify.com/album/7eSlozbGidbOROgKxcNkOU) | 3:01 | 2023-05-19 |  |
 | [Nobody But You \(Duet with Gwen Stefani\) \- Live](https://open.spotify.com/track/3twoyaIBmqSyBkIxTQYl5m) | [Blake Shelton](https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw), [Gwen Stefani](https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP) | [Nobody But You \(Duet with Gwen Stefani\) \[Live\]](https://open.spotify.com/album/28JOBmOhSs9ssOBgbxGTrp) | 3:30 | 2021-07-22 |  |
 | [Oklahoma Smokeshow \- Live](https://open.spotify.com/track/38L9BdfJKkWGwot9GWIXMz) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [All My Homies Hate Ticketmaster \(Live from Red Rocks\)](https://open.spotify.com/album/5hVCiOPye3IDJG4rbO44UH) | 3:33 | 2022-12-25 |  |
 | [Ol' Red \- Live](https://open.spotify.com/track/1tCBOvBBXD61UUlkIVhcWu) | [Blake Shelton](https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw) | [Blake Shelton \(Live\)](https://open.spotify.com/album/2cOq8VHZtK23WbWfBeOZ2y) | 3:59 | 2021-07-22 |  |
@@ -116,6 +117,7 @@
 | [When You Say Nothing At All \- Live From The Louisville Palace, Kentucky / 2002](https://open.spotify.com/track/3QRwconsUHckZPZeZJqEf0) | [Alison Krauss & Union Station](https://open.spotify.com/artist/0OTnx2X2FDXeewcm72lavT) | [Live](https://open.spotify.com/album/1oqiAakWVX3wj3URQ1CaoO) | 4:21 | 2021-07-22 |  |
 | [Where I Find God \(Live\)](https://open.spotify.com/track/4ulpcN5xjehEx4MbF7uk81) | [Larry Fleet](https://open.spotify.com/artist/6MWr1SmTaCU5BJzOZxwJEw) | [Larry Fleet \- The Live Sessions \[Vol\. 1\]](https://open.spotify.com/album/5H95ZfDRml2PLOWKL1r9lM) | 4:15 | 2022-10-28 |  |
 | [Whiskey Rock\-A\-Roller \- Live](https://open.spotify.com/track/1ZuqcBtqvLKq0aQ7hRMSGa) | [Randy Houser](https://open.spotify.com/artist/56x8mYvS3cyDGAi8N2FxbB) | [One More For The Fans \(Live\)](https://open.spotify.com/album/2ozyyppkepXcWyxvdNbDmi) | 4:27 | 2021-07-22 |  |
+| [Wild as Her \- Live From Cain's Ballroom](https://open.spotify.com/track/68fBkpb1vyU4s3c4DyWVOg) | [Corey Kent](https://open.spotify.com/artist/3sUpZrkehiGBaMzs2h9Mmc) | [Wild as Her \(Live From Cain's Ballroom\)](https://open.spotify.com/album/0Pkas0sUrZrEcGBtzGGNtl) | 5:22 | 2023-05-19 |  |
 | [Wings \- Live at the Ryman](https://open.spotify.com/track/0vaCkZTsFBiWvjVHLFxuG2) | [Jackson Dean](https://open.spotify.com/artist/0VkWDV0Bfd0EkXvaKAXUTl) | [Wings \(Live at the Ryman\)](https://open.spotify.com/album/2gg3gSnirMHzSdZLvS1Fvs) | 6:03 | 2023-04-07 |  |
 | [Wish for the World \- Live from Nashville](https://open.spotify.com/track/1DjHk2vOAppja7eA95orn0) | [Ryan Hurd](https://open.spotify.com/artist/7lDVEkjIURPMyUYwoQRrpw) | [EOM \- EP](https://open.spotify.com/album/4vCbBPa24ANSy0MD8BGA8d) | 3:39 | 2021-07-22 |  |
 | [Woman, Amen \- Live](https://open.spotify.com/track/5BCuz73OvAxzOQp54vWo85) | [Dierks Bentley](https://open.spotify.com/artist/7x8nK0m0cP2ksQf0mjWdPS), [The War and Treaty](https://open.spotify.com/artist/6HhV0jtMMK5HYnYgG0xgtz) | [Live From Telluride](https://open.spotify.com/album/5kd8qvJn1qxuw6cUAuWa9Z) | 4:52 | 2021-07-22 |  |

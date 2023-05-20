@@ -4,7 +4,7 @@
 
 > Music wellness for your soul.
 
-271 songs - 14 hr 26 min
+273 songs - 14 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,6 +35,7 @@
 | [Awareness of the Call](https://open.spotify.com/track/6xQ26wLRgOWJDi6nrLwzNq) | [August D\. Valentine](https://open.spotify.com/artist/4MJYe0nbmZr7ty64T1VGoN) | [Secret Haven](https://open.spotify.com/album/6VjqiyIPItbntWdMsTH3DB) | 3:51 | 2021-12-08 |  |
 | [Away](https://open.spotify.com/track/1EVgWgzpE2PWs6BT3qxpKm) | [Eriao](https://open.spotify.com/artist/5liqyeSP9olMkSr5Zvo9YU) | [Away](https://open.spotify.com/album/0GX2UY2tn4q5ms2g6NlGRy) | 2:46 | 2022-06-16 |  |
 | [Before Sunrise](https://open.spotify.com/track/36ohYATGnjB8KVRhsglPDP) | [Aileen Morais](https://open.spotify.com/artist/6iFtTBfZ2YpYJ8YRQ7eCaf) | [Before Sunrise](https://open.spotify.com/album/43hmIuXmgNrRR39OzMHPpU) | 3:01 | 2021-12-08 |  |
+| [Begynnelse \(Ambient\)](https://open.spotify.com/track/2gWtkNe18gURimJZGJUT66) | [Ester Ackerman](https://open.spotify.com/artist/6SWO4ygLu9suL3HdG0DVFg) | [Begynnelse](https://open.spotify.com/album/7KOigj64SUkLXFyCkSVBlW) | 3:14 | 2023-05-19 |  |
 | [Binaural Emotions](https://open.spotify.com/track/03BMugsFnLx9uV5BKZA1WP) | [Astro Project](https://open.spotify.com/artist/3qKQCiBjuf4iR5T0krtcaG) | [Binaural Emotions](https://open.spotify.com/album/38g1MiG5DyDOnjDxxzwm0c) | 3:26 | 2021-12-08 |  |
 | [Bio\-Adoptions](https://open.spotify.com/track/0bnRIsBDDT2GyEozHCOcie) | [Binary One](https://open.spotify.com/artist/71mFIlyvSib2V4MnPKERi2) | [Other World](https://open.spotify.com/album/3b6v2XgqzzKZuYCGqueCUV) | 3:24 | 2021-12-08 |  |
 | [Blanket of Peace](https://open.spotify.com/track/2PvRoKLmB0Q211nKNw8vmS) | [Mr Pillow](https://open.spotify.com/artist/3LtL0LR8HOlRULZKHf9obA) | [Comfortable Night](https://open.spotify.com/album/3SBn1GyaNYMUUqIqWTlbjO) | 2:53 | 2021-12-08 | 2022-12-31 |
@@ -246,6 +247,7 @@
 | [Threads](https://open.spotify.com/track/5ASmAe7WcZaLVx6KcCqhW0) | [Ebb & Flod](https://open.spotify.com/artist/2thIq9dFmnfUClzXEjDIMr) | [Moonrise](https://open.spotify.com/album/217hUO8Iila5lozKvwmElh) | 3:12 | 2022-07-27 |  |
 | [Through The Mist](https://open.spotify.com/track/77J5YZNzyRlIfmfx1iYGRE) | [The Sleep Crew](https://open.spotify.com/artist/2cwhQMikUipIptLocoKOMn) | [Through The Mist](https://open.spotify.com/album/3PctoISWbdLaP1LLaK8K6C) | 2:42 | 2022-10-21 |  |
 | [Through the Night](https://open.spotify.com/track/6Npq5SfkDU4egsF19bzfEc) | [Lamb & Mountain](https://open.spotify.com/artist/2WMPnzmwca8VGFhFIDmXSJ) | [Hawk](https://open.spotify.com/album/3ipW8GhYONdAF0D1eIxmeS) | 3:15 | 2021-12-08 | 2023-02-10 |
+| [Tillsammans](https://open.spotify.com/track/3JsmfKDKcKjuQXxyTynOl5) | [Ester Ackerman](https://open.spotify.com/artist/6SWO4ygLu9suL3HdG0DVFg) | [Begynnelse](https://open.spotify.com/album/7KOigj64SUkLXFyCkSVBlW) | 3:10 | 2023-05-19 |  |
 | [Time \- Water Textures](https://open.spotify.com/track/1tf5kQZbSPjvLyewhaGEYM) | [Empty Space](https://open.spotify.com/artist/6VOBt4TWKchK9yAYqEwEqG) | [Darkened](https://open.spotify.com/album/3iM2G2OeCSwd9SPCInYw1Z) | 3:14 | 2021-12-08 |  |
 | [Time Travel](https://open.spotify.com/track/1aa3A3F6b5FZFtXAhtrybK) | [Antologie](https://open.spotify.com/artist/6T31mMEmlR4YDtVTQtpPyc) | [Time Travel](https://open.spotify.com/album/52vkIdfOyHog6vAGTru68z) | 3:04 | 2021-12-08 | 2022-02-19 |
 | [Tip Toe](https://open.spotify.com/track/0Y6HnPuRquhAHp0cY3IAgF) | [Sublime Harmonics](https://open.spotify.com/artist/2Bkb4UN9i1sAVcwnsmGsTU) | [Dream With Me](https://open.spotify.com/album/2r8eJJH51rqvJJHp23a3qe) | 6:02 | 2022-07-27 | 2023-02-10 |

@@ -2542,7 +2542,7 @@
       ],
       "date_added": "2022-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 212865,
       "name": "SOLO",
       "url": "https://open.spotify.com/track/4gljqD6LuRFDRylT2Xm764"
@@ -2756,6 +2756,24 @@
       "duration_ms": 140235,
       "name": "Te Deseo Lo Mejor",
       "url": "https://open.spotify.com/track/5ZyUe1pOBYblWLN2E3xJXu"
+    },
+    {
+      "album": {
+        "name": "TE FALL\u00c9",
+        "url": "https://open.spotify.com/album/523VR8HZeb6r9sgCVNnMxM"
+      },
+      "artists": [
+        {
+          "name": "DannyLux",
+          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197474,
+      "name": "TE FALL\u00c9",
+      "url": "https://open.spotify.com/track/72zlIdJhtXtlnORjUcpxMz"
     },
     {
       "album": {

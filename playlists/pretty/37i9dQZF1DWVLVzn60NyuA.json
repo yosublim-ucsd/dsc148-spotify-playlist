@@ -1,12 +1,12 @@
 {
   "description": "Afro, Caribbean & Latin sounds for that summer vibe",
-  "num_followers": 243772,
+  "num_followers": 244238,
   "original_name": "Summer Vibes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2MjBhNTM0ZjYxYjIyNTQzNmU1ODMwOGE4YzM0MTg2ZDIzZDljMGVj",
+  "snapshot_id": "MTY4NDQ0NzIwMCwwMDAwMDAwMDVjNTgxMGRlYjY3YmYzMDQ0ZDJkNmY4MDYwMjEyZTU4",
   "tracks": [
     {
       "added_at": "2023-05-18 22:00:00",
@@ -431,22 +431,6 @@
     {
       "added_at": "2023-05-18 22:00:00",
       "album": {
-        "name": "ZaZa Vibes",
-        "url": "https://open.spotify.com/album/18XSFBvoDjWRmApQZIDzkD"
-      },
-      "artists": [
-        {
-          "name": "L.A.X",
-          "url": "https://open.spotify.com/artist/6lNEt5LSOQRUFl43OnnHUL"
-        }
-      ],
-      "duration_ms": 171428,
-      "name": "Sempe",
-      "url": "https://open.spotify.com/track/7AbLGIOzFkx6jHq5en5xiH"
-    },
-    {
-      "added_at": "2023-05-18 22:00:00",
-      "album": {
         "name": "Tease Me",
         "url": "https://open.spotify.com/album/6GTzBIyPe32G2mXBaYSqYY"
       },
@@ -459,6 +443,22 @@
       "duration_ms": 245000,
       "name": "Murder She Wrote",
       "url": "https://open.spotify.com/track/1HGyhNaRUFEDBiVLbvtbL6"
+    },
+    {
+      "added_at": "2023-05-18 22:00:00",
+      "album": {
+        "name": "ZaZa Vibes",
+        "url": "https://open.spotify.com/album/18XSFBvoDjWRmApQZIDzkD"
+      },
+      "artists": [
+        {
+          "name": "L.A.X",
+          "url": "https://open.spotify.com/artist/6lNEt5LSOQRUFl43OnnHUL"
+        }
+      ],
+      "duration_ms": 171428,
+      "name": "Sempe",
+      "url": "https://open.spotify.com/track/7AbLGIOzFkx6jHq5en5xiH"
     },
     {
       "added_at": "2023-05-18 22:00:00",
@@ -771,22 +771,6 @@
     {
       "added_at": "2023-05-18 22:00:00",
       "album": {
-        "name": "Fleur froide (Donum Novae)",
-        "url": "https://open.spotify.com/album/1wfBteislDojq5pAYJufME"
-      },
-      "artists": [
-        {
-          "name": "Tayc",
-          "url": "https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60"
-        }
-      ],
-      "duration_ms": 197240,
-      "name": "Le temps",
-      "url": "https://open.spotify.com/track/6yIh43XrY4Mc5xOxeagVhp"
-    },
-    {
-      "added_at": "2023-05-18 22:00:00",
-      "album": {
         "name": "Baby Riddim",
         "url": "https://open.spotify.com/album/6dCmbmHyfCQpmJGZW9Am3b"
       },
@@ -799,6 +783,22 @@
       "duration_ms": 190677,
       "name": "Baby Riddim",
       "url": "https://open.spotify.com/track/77eZIuMTB9HrQ86L4ljqEX"
+    },
+    {
+      "added_at": "2023-05-18 22:00:00",
+      "album": {
+        "name": "Fleur froide (Donum Novae)",
+        "url": "https://open.spotify.com/album/1wfBteislDojq5pAYJufME"
+      },
+      "artists": [
+        {
+          "name": "Tayc",
+          "url": "https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60"
+        }
+      ],
+      "duration_ms": 197240,
+      "name": "Le temps",
+      "url": "https://open.spotify.com/track/6yIh43XrY4Mc5xOxeagVhp"
     },
     {
       "added_at": "2023-05-18 22:00:00",
@@ -1343,22 +1343,22 @@
     {
       "added_at": "2023-05-18 22:00:00",
       "album": {
-        "name": "Great Is He",
-        "url": "https://open.spotify.com/album/5DVnzAiFpPirUnh3QPv1ZR"
+        "name": "Touch It (Remix)",
+        "url": "https://open.spotify.com/album/05SVPz2eBi0EPhYJMNjbRu"
       },
       "artists": [
         {
-          "name": "Popcaan",
-          "url": "https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR"
+          "name": "KiDi",
+          "url": "https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V"
         },
         {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+          "name": "Tyga",
+          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
         }
       ],
-      "duration_ms": 166801,
-      "name": "Aboboyaa (feat. Burna Boy)",
-      "url": "https://open.spotify.com/track/2KEMHoK7Tz7rlTUalQXMUk"
+      "duration_ms": 181973,
+      "name": "Touch It - Remix",
+      "url": "https://open.spotify.com/track/3DvzYWNYYrixsXTXV2t8pA"
     },
     {
       "added_at": "2023-05-18 22:00:00",
@@ -1379,22 +1379,22 @@
     {
       "added_at": "2023-05-18 22:00:00",
       "album": {
-        "name": "Touch It (Remix)",
-        "url": "https://open.spotify.com/album/05SVPz2eBi0EPhYJMNjbRu"
+        "name": "Great Is He",
+        "url": "https://open.spotify.com/album/5DVnzAiFpPirUnh3QPv1ZR"
       },
       "artists": [
         {
-          "name": "KiDi",
-          "url": "https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V"
+          "name": "Popcaan",
+          "url": "https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR"
         },
         {
-          "name": "Tyga",
-          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
         }
       ],
-      "duration_ms": 181973,
-      "name": "Touch It - Remix",
-      "url": "https://open.spotify.com/track/3DvzYWNYYrixsXTXV2t8pA"
+      "duration_ms": 166801,
+      "name": "Aboboyaa (feat. Burna Boy)",
+      "url": "https://open.spotify.com/track/2KEMHoK7Tz7rlTUalQXMUk"
     },
     {
       "added_at": "2023-05-18 22:00:00",
@@ -1511,22 +1511,6 @@
     {
       "added_at": "2023-05-18 22:00:00",
       "album": {
-        "name": "Terminator",
-        "url": "https://open.spotify.com/album/6a3w9YAl8ZAloTczNVOwf3"
-      },
-      "artists": [
-        {
-          "name": "Asake",
-          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
-        }
-      ],
-      "duration_ms": 155897,
-      "name": "Terminator",
-      "url": "https://open.spotify.com/track/4vI2KCvXTAPR3vfiWg1J78"
-    },
-    {
-      "added_at": "2023-05-18 22:00:00",
-      "album": {
         "name": "SoundMan Vol. 1",
         "url": "https://open.spotify.com/album/5nhLODdncnkg3rVlzva3YY"
       },
@@ -1547,6 +1531,22 @@
       "duration_ms": 198678,
       "name": "Jam (feat. Wizkid)",
       "url": "https://open.spotify.com/track/6eHqU8ntHGzddACoxlfDX0"
+    },
+    {
+      "added_at": "2023-05-18 22:00:00",
+      "album": {
+        "name": "Terminator",
+        "url": "https://open.spotify.com/album/6a3w9YAl8ZAloTczNVOwf3"
+      },
+      "artists": [
+        {
+          "name": "Asake",
+          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
+        }
+      ],
+      "duration_ms": 155897,
+      "name": "Terminator",
+      "url": "https://open.spotify.com/track/4vI2KCvXTAPR3vfiWg1J78"
     },
     {
       "added_at": "2023-05-18 22:00:00",
@@ -1663,6 +1663,22 @@
     {
       "added_at": "2023-05-18 22:00:00",
       "album": {
+        "name": "Likkle Riddim",
+        "url": "https://open.spotify.com/album/7MqW36qjIreNVJ5Vf659uJ"
+      },
+      "artists": [
+        {
+          "name": "Joeboy",
+          "url": "https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF"
+        }
+      ],
+      "duration_ms": 164400,
+      "name": "Likkle Riddim",
+      "url": "https://open.spotify.com/track/3weAbRf5cn9SiCYxqZedot"
+    },
+    {
+      "added_at": "2023-05-18 22:00:00",
+      "album": {
         "name": "Wi Deh Yah",
         "url": "https://open.spotify.com/album/6VS3rD5JvrO6d7L9v1G7W1"
       },
@@ -1691,22 +1707,6 @@
       "duration_ms": 169413,
       "name": "Commando",
       "url": "https://open.spotify.com/track/4tAX2qe0TX7O69B65OQmCg"
-    },
-    {
-      "added_at": "2023-05-18 22:00:00",
-      "album": {
-        "name": "Likkle Riddim",
-        "url": "https://open.spotify.com/album/7MqW36qjIreNVJ5Vf659uJ"
-      },
-      "artists": [
-        {
-          "name": "Joeboy",
-          "url": "https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF"
-        }
-      ],
-      "duration_ms": 164400,
-      "name": "Likkle Riddim",
-      "url": "https://open.spotify.com/track/3weAbRf5cn9SiCYxqZedot"
     },
     {
       "added_at": "2023-05-18 22:00:00",
@@ -1963,26 +1963,22 @@
     {
       "added_at": "2023-05-18 22:00:00",
       "album": {
-        "name": "911",
-        "url": "https://open.spotify.com/album/2yO3CWfAipNz7L0jF9UFO3"
+        "name": "Truth Be Told",
+        "url": "https://open.spotify.com/album/5YZ4AHdhfiAtn3bhoF6Igs"
       },
       "artists": [
         {
-          "name": "Frenna",
-          "url": "https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5"
+          "name": "Young T & Bugsey",
+          "url": "https://open.spotify.com/artist/6M6XXCcO5gI68XpIlrUL3Z"
         },
         {
-          "name": "Franglish",
-          "url": "https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw"
-        },
-        {
-          "name": "Lafropop",
-          "url": "https://open.spotify.com/artist/0xUxEo49seH9MBR7rZpqsB"
+          "name": "Blxst",
+          "url": "https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL"
         }
       ],
-      "duration_ms": 169898,
-      "name": "911",
-      "url": "https://open.spotify.com/track/1wTrvERblqm1JV82GEKQ3D"
+      "duration_ms": 237480,
+      "name": "Nice (feat. Blxst)",
+      "url": "https://open.spotify.com/track/13ikSMNMyLUSqkzbqEHzdu"
     },
     {
       "added_at": "2023-05-18 22:00:00",
@@ -2003,22 +1999,26 @@
     {
       "added_at": "2023-05-18 22:00:00",
       "album": {
-        "name": "Truth Be Told",
-        "url": "https://open.spotify.com/album/5YZ4AHdhfiAtn3bhoF6Igs"
+        "name": "911",
+        "url": "https://open.spotify.com/album/2yO3CWfAipNz7L0jF9UFO3"
       },
       "artists": [
         {
-          "name": "Young T & Bugsey",
-          "url": "https://open.spotify.com/artist/6M6XXCcO5gI68XpIlrUL3Z"
+          "name": "Frenna",
+          "url": "https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5"
         },
         {
-          "name": "Blxst",
-          "url": "https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL"
+          "name": "Franglish",
+          "url": "https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw"
+        },
+        {
+          "name": "Lafropop",
+          "url": "https://open.spotify.com/artist/0xUxEo49seH9MBR7rZpqsB"
         }
       ],
-      "duration_ms": 237480,
-      "name": "Nice (feat. Blxst)",
-      "url": "https://open.spotify.com/track/13ikSMNMyLUSqkzbqEHzdu"
+      "duration_ms": 169898,
+      "name": "911",
+      "url": "https://open.spotify.com/track/1wTrvERblqm1JV82GEKQ3D"
     },
     {
       "added_at": "2023-05-18 22:00:00",
@@ -2219,26 +2219,6 @@
     {
       "added_at": "2023-05-18 22:00:00",
       "album": {
-        "name": "Big Chune",
-        "url": "https://open.spotify.com/album/5ioIjN8A0qVhfKvTUtWwOs"
-      },
-      "artists": [
-        {
-          "name": "Busy Signal",
-          "url": "https://open.spotify.com/artist/4RfTXjK9aiiIKDaKUHpL57"
-        },
-        {
-          "name": "IamNuhRush",
-          "url": "https://open.spotify.com/artist/6wU5HisymxJxU6ucvCwfOE"
-        }
-      ],
-      "duration_ms": 163352,
-      "name": "Big Chune",
-      "url": "https://open.spotify.com/track/1IjPlLjheWe899ounTjCby"
-    },
-    {
-      "added_at": "2023-05-18 22:00:00",
-      "album": {
         "name": "Gal Policy (Remix) [feat. Tiwa Savage]",
         "url": "https://open.spotify.com/album/7dnrc3yw8NH1xEW1Z2m8Xn"
       },
@@ -2255,6 +2235,26 @@
       "duration_ms": 155366,
       "name": "Gal Policy (Remix) [feat. Tiwa Savage]",
       "url": "https://open.spotify.com/track/215J5CUKtWGWMcq4RlS1Hd"
+    },
+    {
+      "added_at": "2023-05-18 22:00:00",
+      "album": {
+        "name": "Big Chune",
+        "url": "https://open.spotify.com/album/5ioIjN8A0qVhfKvTUtWwOs"
+      },
+      "artists": [
+        {
+          "name": "Busy Signal",
+          "url": "https://open.spotify.com/artist/4RfTXjK9aiiIKDaKUHpL57"
+        },
+        {
+          "name": "IamNuhRush",
+          "url": "https://open.spotify.com/artist/6wU5HisymxJxU6ucvCwfOE"
+        }
+      ],
+      "duration_ms": 163352,
+      "name": "Big Chune",
+      "url": "https://open.spotify.com/track/1IjPlLjheWe899ounTjCby"
     },
     {
       "added_at": "2023-05-18 22:00:00",
@@ -2411,22 +2411,6 @@
     {
       "added_at": "2023-05-18 22:00:00",
       "album": {
-        "name": "LEADER!",
-        "url": "https://open.spotify.com/album/5ECNF38ye7R9LlzZRgp9YC"
-      },
-      "artists": [
-        {
-          "name": "Lojay",
-          "url": "https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL"
-        }
-      ],
-      "duration_ms": 141711,
-      "name": "LEADER!",
-      "url": "https://open.spotify.com/track/60VJ0CZ1bV5Ln2n3H1Xo1F"
-    },
-    {
-      "added_at": "2023-05-18 22:00:00",
-      "album": {
         "name": "Meliza",
         "url": "https://open.spotify.com/album/0sF2YBWi7MTf3VTsKJKWi1"
       },
@@ -2439,6 +2423,22 @@
       "duration_ms": 212006,
       "name": "Meliza",
       "url": "https://open.spotify.com/track/6zvFe4L9dXSjpZvmcq7dmT"
+    },
+    {
+      "added_at": "2023-05-18 22:00:00",
+      "album": {
+        "name": "LEADER!",
+        "url": "https://open.spotify.com/album/5ECNF38ye7R9LlzZRgp9YC"
+      },
+      "artists": [
+        {
+          "name": "Lojay",
+          "url": "https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL"
+        }
+      ],
+      "duration_ms": 141711,
+      "name": "LEADER!",
+      "url": "https://open.spotify.com/track/60VJ0CZ1bV5Ln2n3H1Xo1F"
     },
     {
       "added_at": "2023-05-18 22:00:00",
@@ -2555,6 +2555,22 @@
     {
       "added_at": "2023-05-18 22:00:00",
       "album": {
+        "name": "Day 2 Day",
+        "url": "https://open.spotify.com/album/5AYFWRViUAg2jE07UQCoDf"
+      },
+      "artists": [
+        {
+          "name": "Sean Paul",
+          "url": "https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9"
+        }
+      ],
+      "duration_ms": 168750,
+      "name": "Day 2 Day",
+      "url": "https://open.spotify.com/track/7y4GHkYxPu0Jq57VTKvnlv"
+    },
+    {
+      "added_at": "2023-05-18 22:00:00",
+      "album": {
         "name": "Gonn Do",
         "url": "https://open.spotify.com/album/2D1tNgnOi8Xr6n76niPqPb"
       },
@@ -2571,18 +2587,46 @@
     {
       "added_at": "2023-05-18 22:00:00",
       "album": {
-        "name": "Day 2 Day",
-        "url": "https://open.spotify.com/album/5AYFWRViUAg2jE07UQCoDf"
+        "name": "The Highest Grade Vol. 2.0 - Caribbean Kush",
+        "url": "https://open.spotify.com/album/7DDlJpfsr80WHAnZvVfOO5"
       },
       "artists": [
         {
-          "name": "Sean Paul",
-          "url": "https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9"
+          "name": "The Partysquad",
+          "url": "https://open.spotify.com/artist/2dQgOfBP52UwjegY8FwJAY"
+        },
+        {
+          "name": "Bokoesam",
+          "url": "https://open.spotify.com/artist/2NFWbreVmIEJG0iqIvLDOI"
+        },
+        {
+          "name": "Konshens",
+          "url": "https://open.spotify.com/artist/3nwYsifpwrKmCIpw4i0HDW"
         }
       ],
-      "duration_ms": 168750,
-      "name": "Day 2 Day",
-      "url": "https://open.spotify.com/track/7y4GHkYxPu0Jq57VTKvnlv"
+      "duration_ms": 149369,
+      "name": "Tunup (feat. Konshens & Bokoesam)",
+      "url": "https://open.spotify.com/track/0Ho4fDQ3EKYkpCAQmUfwM6"
+    },
+    {
+      "added_at": "2023-05-18 22:00:00",
+      "album": {
+        "name": "Pelikula",
+        "url": "https://open.spotify.com/album/4uBGxgyGUu0Vf0ZYxCrKDr"
+      },
+      "artists": [
+        {
+          "name": "Ir Sais",
+          "url": "https://open.spotify.com/artist/4NEThNYJ3WyNcJWcmpjq88"
+        },
+        {
+          "name": "KILATE TESLA",
+          "url": "https://open.spotify.com/artist/3aO2Q4cXKGxsh87bX4Oavo"
+        }
+      ],
+      "duration_ms": 193543,
+      "name": "Juntos",
+      "url": "https://open.spotify.com/track/7nYG5KBe9rMuZ06Idhi2Rq"
     },
     {
       "added_at": "2023-05-18 22:00:00",
@@ -2611,50 +2655,6 @@
       "duration_ms": 156817,
       "name": "C'est Cuit (feat. Aya Nakamura & Swae Lee)",
       "url": "https://open.spotify.com/track/5JfbkEPTaqnAVy9ITdphCl"
-    },
-    {
-      "added_at": "2023-05-18 22:00:00",
-      "album": {
-        "name": "Pelikula",
-        "url": "https://open.spotify.com/album/4uBGxgyGUu0Vf0ZYxCrKDr"
-      },
-      "artists": [
-        {
-          "name": "Ir Sais",
-          "url": "https://open.spotify.com/artist/4NEThNYJ3WyNcJWcmpjq88"
-        },
-        {
-          "name": "KILATE TESLA",
-          "url": "https://open.spotify.com/artist/3aO2Q4cXKGxsh87bX4Oavo"
-        }
-      ],
-      "duration_ms": 193543,
-      "name": "Juntos",
-      "url": "https://open.spotify.com/track/7nYG5KBe9rMuZ06Idhi2Rq"
-    },
-    {
-      "added_at": "2023-05-18 22:00:00",
-      "album": {
-        "name": "The Highest Grade Vol. 2.0 - Caribbean Kush",
-        "url": "https://open.spotify.com/album/7DDlJpfsr80WHAnZvVfOO5"
-      },
-      "artists": [
-        {
-          "name": "The Partysquad",
-          "url": "https://open.spotify.com/artist/2dQgOfBP52UwjegY8FwJAY"
-        },
-        {
-          "name": "Bokoesam",
-          "url": "https://open.spotify.com/artist/2NFWbreVmIEJG0iqIvLDOI"
-        },
-        {
-          "name": "Konshens",
-          "url": "https://open.spotify.com/artist/3nwYsifpwrKmCIpw4i0HDW"
-        }
-      ],
-      "duration_ms": 149369,
-      "name": "Tunup (feat. Konshens & Bokoesam)",
-      "url": "https://open.spotify.com/track/0Ho4fDQ3EKYkpCAQmUfwM6"
     },
     {
       "added_at": "2023-05-18 22:00:00",

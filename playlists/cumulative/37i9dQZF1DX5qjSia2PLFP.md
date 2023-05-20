@@ -2,9 +2,9 @@
 
 ### [Ripple Effect](https://open.spotify.com/playlist/37i9dQZF1DX5qjSia2PLFP)
 
-> New music breaking waves\. Cover, Lola Brooke
+> New music breaking waves\. Cover, DJ SLIINK
 
-287 songs - 12 hr 56 min
+293 songs - 13 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,6 +54,7 @@
 | [Cemetery Freestyle](https://open.spotify.com/track/4bDgMYC4RfOrc3n1oVLXfX) | [JoeVille](https://open.spotify.com/artist/6Rf6w9LrInrRvLTh0sEzVW) | [Cemetery Freestyle](https://open.spotify.com/album/79j5iEvu1BVgQZlGuiQGKy) | 2:39 | 2022-03-04 | 2022-06-25 |
 | [Chardonnay](https://open.spotify.com/track/1ukGTynnAZik3zzdEbU3tY) | [Nova](https://open.spotify.com/artist/1OXLdL4Qs8rh3LzoqjaUUb), [Esquire](https://open.spotify.com/artist/41zs0yeWeQNNwSMp8yAKY7) | [Chardonnay](https://open.spotify.com/album/0KxMCnYlNr9YkKdP0JFctu) | 3:12 | 2021-09-24 | 2022-03-05 |
 | [Check](https://open.spotify.com/track/17LsSRsnpOJ5910GtSixaC) | [Gloss Up](https://open.spotify.com/artist/7eDFwYpqsAROCZibWYr5C1), [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [Check](https://open.spotify.com/album/0oUW916No7iVMeYUYDENIk) | 2:42 | 2023-04-28 |  |
+| [Chemical Warfare](https://open.spotify.com/track/7JUyQq0c85g1reS6tuXjDQ) | [A$AP ANT](https://open.spotify.com/artist/45m1IiS45uD1HcPlYkNWKj) | [The Postlude](https://open.spotify.com/album/4QX19K0eMkfCtrxRcbFpU0) | 2:06 | 2023-05-19 |  |
 | [Closure](https://open.spotify.com/track/1OcnAp6rB3ZbQbXw1ncAI3) | [Savannah Ré](https://open.spotify.com/artist/3qfqqDpGv4XNfa3G0EfP9s) | [Closure](https://open.spotify.com/album/1MqcGz8uF79zpVcH75JH19) | 2:57 | 2022-08-26 | 2022-12-31 |
 | [Co\-Star](https://open.spotify.com/track/2rYu4zr0jXGWAHmNdpQYsl) | [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS) | [Co\-Star](https://open.spotify.com/album/0FLajXxca41VLTunahQo9s) | 2:46 | 2023-05-12 |  |
 | [Coastin’](https://open.spotify.com/track/5dPUGqhZt7iJgbgPlx733p) | [Dave $tokes](https://open.spotify.com/artist/0mP6wa81SOzUJIaAnLg7a7) | [Coastin’](https://open.spotify.com/album/6Thwzs8LlD8INqTawRKD6I) | 1:18 | 2023-04-15 |  |
@@ -65,20 +66,24 @@
 | [Constellations](https://open.spotify.com/track/0L8bf6ph4kDnHtKRnY95aH) | [Malik Moses](https://open.spotify.com/artist/5I2ctAF4nrkZcdvZSETLOB) | [Constellations](https://open.spotify.com/album/3vEWvYAC6uedBaHV9bM2NM) | 2:52 | 2022-02-25 | 2022-06-08 |
 | [Control](https://open.spotify.com/track/29P1QyEgirfz0pJ31npUQx) | [Kenny](https://open.spotify.com/artist/4S4rq4o8gDqTqVKPA7zJmY) | [Control](https://open.spotify.com/album/3gbs7YXcIZ9LkZRa5tAuzn) | 2:03 | 2022-09-16 | 2023-01-06 |
 | [Conversations'](https://open.spotify.com/track/1m9pBF9THZQttjFWR9VKai) | [Skip Waiters](https://open.spotify.com/artist/4VarNqx7kH5tBCBQwtixav) | [Conversations'](https://open.spotify.com/album/00nLW5EdQN80khGmvFxStL) | 2:48 | 2022-03-04 | 2022-08-06 |
+| [Cracchead Chic](https://open.spotify.com/track/2Tur9NvjOAeunBuifKWIjX) | [Yoko Chanel](https://open.spotify.com/artist/4LJbGT2DlmVpmWMoznZ5AI) | [Cracchead Chic](https://open.spotify.com/album/6HsAs94REwKiOweSpC6W9n) | 3:16 | 2023-05-19 |  |
 | [Crayons](https://open.spotify.com/track/3o5ImZ1yj1FoV4nkuAsbe1) | [Preyé](https://open.spotify.com/artist/6dbTmlL5brq9B2fkUj2MQD) | [Crayons](https://open.spotify.com/album/6HZYUn33trHEZ78tFsFnCS) | 2:23 | 2022-08-12 | 2022-10-29 |
 | [Creme Brulee](https://open.spotify.com/track/3jvrZ6mIhVEH4XMpmqSTRI) | [Cochise](https://open.spotify.com/artist/46HzS7yz0c9udVwtbHk1sx) | [Creme Brulee](https://open.spotify.com/album/5zQXPoLBDFCFGN4IPu14VG) | 1:52 | 2022-11-18 | 2023-04-16 |
 | [Cruisin'](https://open.spotify.com/track/25O3Fn9xElhKKK5amnrrje) | [AMAKA](https://open.spotify.com/artist/37BQKlogkKqPt9nioMBLOa) | [Cruisin'](https://open.spotify.com/album/6MBKxiS8fFEw9V6nRoIeRm) | 3:27 | 2023-04-15 |  |
 | [CULT](https://open.spotify.com/track/1P5pnfWEcH0qUICxrCF4Kl) | [Van Buren Records](https://open.spotify.com/artist/2T6EOVQ5lAQc64poyLnXmj), [AzizTheShake](https://open.spotify.com/artist/7wSfJLfPWSahg3J5SeVr4z), [Jazz Cartier](https://open.spotify.com/artist/0sc5zYshOdiFD4ayqMrJbJ), [SAINT LYOR](https://open.spotify.com/artist/0pltaFx5l05YFrswlNEafU), [Luke Bar$](https://open.spotify.com/artist/6CGyB4PAg5rEyzeGumZrjr), [Invada](https://open.spotify.com/artist/3FBvF7C8P5IztMR7Mbxc3X), [FELIX!](https://open.spotify.com/artist/1DN9Pgv4fiAaRSSgiisj5G) | [BLACK WALL STREET](https://open.spotify.com/album/0hNK1V7xzigl41liZTk4XU) | 4:40 | 2022-02-18 | 2022-08-06 |
+| [Cuz We Did](https://open.spotify.com/track/24EJjIh58hDXgCvpLjMCWZ) | [41](https://open.spotify.com/artist/0yknvLWQZxwsMjhUhwWZQ8), [TaTa](https://open.spotify.com/artist/43s6uFZrdusv7ggmDSpO41), [Kyle Richh](https://open.spotify.com/artist/0hF6lbAjRsq4svrQUr5sgU) | [41 Ways](https://open.spotify.com/album/5EVyiRGDEhvaaPsvCBBkFT) | 2:27 | 2023-05-19 |  |
 | [CYCLOPS](https://open.spotify.com/track/08wrYXprFh9EkOQEpYOg4p) | [Amindi](https://open.spotify.com/artist/1xQIR56DxgWYZPUvOLRIua) | [CYCLOPS](https://open.spotify.com/album/0p2Ar5mzLge5fgL0bc0pDm) | 2:09 | 2022-08-19 | 2022-09-29 |
 | [CYCLOPS](https://open.spotify.com/track/78ndblGlkOiMHUrrWPgBoL) | [Amindi](https://open.spotify.com/artist/1xQIR56DxgWYZPUvOLRIua) | [C BOTH SIDES](https://open.spotify.com/album/4L0umpEJcMerCrqZmzbhHc) | 2:09 | 2022-08-19 | 2022-12-31 |
 | [Da Fuck](https://open.spotify.com/track/2PAj0RWVzQolTHLDEgpj4b) | [DonMonique](https://open.spotify.com/artist/2QcGQ2p4IU6Nyyg3gden98) | [Da Fuck](https://open.spotify.com/album/7lx5kDxQL1V4Rxa20nSYEB) | 2:22 | 2023-02-24 |  |
 | [Damn, Crazy](https://open.spotify.com/track/2OJQNNnEiXyXiNRfl9Q0a2) | [MFnMelo](https://open.spotify.com/artist/7auVoAwdrloWdyKULVOauu) | [Damn, Crazy](https://open.spotify.com/album/7obgy7wcL3CgpiJGthVxuT) | 1:35 | 2023-05-12 |  |
 | [Dance](https://open.spotify.com/track/3RshwpG2D2FtdpEWe6ItAK) | [Jay Safari](https://open.spotify.com/artist/1ZDLdMwbdm4AdfXZTqbVdT) | [Dance](https://open.spotify.com/album/0Rkl5rosO2RGnoKz5Cw6j5) | 2:45 | 2022-02-04 | 2022-03-26 |
+| [Day Ones](https://open.spotify.com/track/77oV9hbYmMtPGmVxk6qRqp) | [DJ Sliink](https://open.spotify.com/artist/0t9dGS12PMZmiJiZa9vpyk), [SAFE](https://open.spotify.com/artist/3bnpcWBcvlfq4hPFJjNPbz) | [Day Ones](https://open.spotify.com/album/4STghfPx4foktyWk2TCJWq) | 2:42 | 2023-05-19 |  |
 | [DAYS GO BY](https://open.spotify.com/track/0IngWDycujRx7MPYCqImO0) | [SBTRKT](https://open.spotify.com/artist/1O10apSOoAPjOu6UhUNmeI), [Toro y Moi](https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp) | [DAYS GO BY](https://open.spotify.com/album/0sFfaz3GhoFX0eHUDjXtbw) | 4:31 | 2023-04-15 |  |
 | [Deep End](https://open.spotify.com/track/6w2WWyBAOXQeP6waVT9s5O) | [BenjiFlow](https://open.spotify.com/artist/3NRpcByltnHx7oZxWbg8Lt) | [Deep End](https://open.spotify.com/album/5lxES27OgTtXmCDhsBrvKP) | 3:22 | 2021-09-01 | 2022-03-05 |
 | [Deeper](https://open.spotify.com/track/3a27I7639TaDdIbhUVErRt) | [JD Cliffe](https://open.spotify.com/artist/0GFUO56kQQG2kF4jQqw5De), [AYLØ](https://open.spotify.com/artist/3KIiecqeFZHnbLK2MeagZd) | [Deeper](https://open.spotify.com/album/5eTKY43lhSVZEW0cfkSfgR) | 2:41 | 2021-10-29 | 2022-03-05 |
 | [DIAMOND DALLAS.](https://open.spotify.com/track/0hZAwaGhANCzy84BJHtILG) | [Armani White](https://open.spotify.com/artist/2qAwMsiIjTzlmfAkXKvhVA) | [DIAMOND DALLAS.](https://open.spotify.com/album/5bWtO72zAGUbqaWOuK0zcl) | 2:48 | 2022-08-12 | 2022-12-31 |
 | [Die With Pride](https://open.spotify.com/track/4Nj0NamL8w2k2Ei5GKfGIx) | [Luke Bar$](https://open.spotify.com/artist/6CGyB4PAg5rEyzeGumZrjr) | [GoodEvil](https://open.spotify.com/album/0INdS3yzG2eFDZwX44rzGE) | 1:52 | 2021-12-01 | 2022-05-21 |
+| [DISS TRACK MAYBE](https://open.spotify.com/track/0Kv1056a877L5cWlQPhlRH) | [Chow Lee](https://open.spotify.com/artist/3yQMCDmPQPJlf6xJMzcnZL) | [DISS TRACK MAYBE](https://open.spotify.com/album/7vt4ZeKy7IXPNZ9urCqAmF) | 2:34 | 2023-05-19 |  |
 | [Disturb](https://open.spotify.com/track/2R3CNCOX4wqB1goYTh1h0U) | [Jaido P](https://open.spotify.com/artist/5xdkKmWYZOF6IlzJWcs97q) | [Disturb / Pablo Moves](https://open.spotify.com/album/1NM948f5uEGrjeYXXy5MkM) | 2:52 | 2022-09-09 | 2023-01-21 |
 | [Don Lemon](https://open.spotify.com/track/0CMynrZC5yzBNcx1yO2Whs) | [Yoza](https://open.spotify.com/artist/2kRAvabCuU4rJiV6Lw5SFT) | [Don Lemon](https://open.spotify.com/album/0xEgjYr2xDO6VYODAJkyfr) | 2:26 | 2023-02-24 |  |
 | [Dont Call Me Twin](https://open.spotify.com/track/3aJ4eDlQwc26G5oDg8rCW5) | [ICYTWAT](https://open.spotify.com/artist/6bVRNVg2f91pCAyKnrIOW0) | [G4ost 2](https://open.spotify.com/album/7xg2hqZuqwItr8hDEg8Avn) | 1:58 | 2023-01-20 |  |
@@ -104,6 +109,7 @@
 | [FN THE MIXTAPE COMING SOON](https://open.spotify.com/track/3yZLQBHWeZbvvvxJTBDmLM) | [Idontknowjeffery](https://open.spotify.com/artist/7Fx7ZCiOsh5eVpFuK25VD6) | [FN THE MIXTAPE COMING SOON](https://open.spotify.com/album/5jjbZqr3FBAMGhjrzGIxIa) | 2:42 | 2022-10-14 | 2023-02-25 |
 | [For Granted](https://open.spotify.com/track/6YmhApkbGfwiXlQ5tdyJbL) | [Yaeji](https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt) | [With A Hammer](https://open.spotify.com/album/2VYo0PSqdxVTMI0ydKUtoL) | 2:41 | 2023-04-15 |  |
 | [For Me](https://open.spotify.com/track/4fcWrSIWnXlsU4yNB9lJk4) | [Earlly Mac](https://open.spotify.com/artist/7MnzlETJZuQb3EcK8mugEQ) | [For Me](https://open.spotify.com/album/66M1yxhYoJ0iT7k36rOpid) | 2:14 | 2022-02-25 | 2022-06-08 |
+| [FORCE OF HABIT](https://open.spotify.com/track/5HxZVwYpdu1SgUvl411nZ6) | [Paris Texas](https://open.spotify.com/artist/1SCrMreNPJYSRZIlRe9SUq) | [BOY ANONYMOUS](https://open.spotify.com/album/3ErmhbEFnhCLRqKibj245w) | 4:04 | 2023-05-19 |  |
 | [Fortified](https://open.spotify.com/track/7cjpT290uAfIaQg2NB5Rko) | [Terrell Morris](https://open.spotify.com/artist/7C3agcqFXnteDagiWhaZdU) | [Fortified](https://open.spotify.com/album/4HjhhSHzL3jjhOQFgyY19w) | 3:17 | 2022-02-25 | 2022-06-08 |
 | [fresh air](https://open.spotify.com/track/5cnMcrmblGaBgR6ftd1UDS) | [kezia](https://open.spotify.com/artist/3Tyez015JVVZwhnF6YFVOI) | [fresh air](https://open.spotify.com/album/75PRuOynooy3NG62tMKEIL) | 3:06 | 2023-04-15 |  |
 | [Function](https://open.spotify.com/track/0DYcMa43MF2cFqNWoCkfYC) | [KTOE](https://open.spotify.com/artist/597u4DRndwoUDP5uJNOJ0L) | [Rebirth](https://open.spotify.com/album/7dZEbiYj7YziJFSJWTf6D8) | 2:40 | 2022-02-11 | 2022-05-13 |

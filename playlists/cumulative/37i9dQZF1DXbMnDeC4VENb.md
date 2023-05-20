@@ -4,7 +4,7 @@
 
 > Una eufórica dosis de urbano romántico en español.
 
-116 songs - 6 hr 51 min
+118 songs - 6 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -87,6 +87,7 @@
 | [Qué Bonita](https://open.spotify.com/track/6sKHf7XZWBHQlShNLNm73F) | [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf) | [Qué Bonita](https://open.spotify.com/album/3YwzuRRgvGIUKxNbbB2xP8) | 3:50 | 2022-10-17 |  |
 | [Quédate](https://open.spotify.com/track/5RBSfEU71gXJ7jxfqSbYiR) | [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp) | [Quédate](https://open.spotify.com/album/5PQ6Wuj8cc5FLh9Lk7RZ4o) | 3:20 | 2022-06-16 |  |
 | [Se Me Pasó](https://open.spotify.com/track/7q6uwjL8IQ4cTJplzwdqu6) | [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL), [BCN](https://open.spotify.com/artist/1M3oDOCXXZVkIlXPp5gAKd), [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4) | [Se Me Pasó](https://open.spotify.com/album/3JrWWDWTNdrsHX9QZf2ya3) | 3:59 | 2022-05-25 |  |
+| [Secreto de Dos](https://open.spotify.com/track/01bwAVAAZqqMpPWmHvbuNC) | [Gayo Valdez](https://open.spotify.com/artist/0uCVN0ZSViQ4xVwJsDqfVo), [Abu Barrett](https://open.spotify.com/artist/3upuqvUR0PdgTBAnB1ehyj) | [Secreto de Dos](https://open.spotify.com/album/4CiGeQYuRbwlSn1uzNWWOu) | 2:29 | 2023-05-19 |  |
 | [Seguro Te Pierdo](https://open.spotify.com/track/5FGE7nybrywkX6tDfRDf55) | [Sergi](https://open.spotify.com/artist/1YdO9GJZicIofAYHnFZSwv), [KID FLEX](https://open.spotify.com/artist/3MG0nEhYET2TCkegY1QBP6) | [Seguro Te Pierdo](https://open.spotify.com/album/7h3OzZVHw9pFcnmwuYVoKt) | 2:54 | 2022-05-25 |  |
 | [Sería Un Placer Remix](https://open.spotify.com/track/3DW7i5YILOqAINGTNcLv9K) | [McKlopedia](https://open.spotify.com/artist/1PNgAcUW6UgN59okEaTpvG), [Golden Ganga](https://open.spotify.com/artist/54P0u0BOmRdmtEVPgcoZy0), [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI) | [Sería Un Placer Remix](https://open.spotify.com/album/2XiFZMIjMpoclohZs0mpnQ) | 3:54 | 2022-05-25 |  |
 | [Si No Hay Mañana \- Spotify Singles](https://open.spotify.com/track/4KfT6tbE0Hq4GffrFJvCus) | [La Santa Grifa](https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A) | [Si No Hay Mañana \- Spotify Singles](https://open.spotify.com/album/2awsgyoW4ncnfyTHJsTiC6) | 3:42 | 2023-01-11 |  |
@@ -114,6 +115,7 @@
 | [Todo Va a Estar Bien](https://open.spotify.com/track/3XjRIN9vEt35lm1iStPcgq) | [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp), [Big Soto](https://open.spotify.com/artist/2TQ4CGgxxCWHqa9yYIGDoU), [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI) | [Todo Va a Estar Bien](https://open.spotify.com/album/6iwqcQcjkN9xVlhG840W9a) | 4:27 | 2022-05-25 | 2022-10-15 |
 | [Todo Va Estar Bien](https://open.spotify.com/track/1jDq5aazzoBFC06kBruPcE) | [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp), [Big Soto](https://open.spotify.com/artist/2TQ4CGgxxCWHqa9yYIGDoU), [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI) | [Todo Va a Estar Bien](https://open.spotify.com/album/1JDdSZw7yG6qOD5bVqOGvF) | 4:27 | 2022-09-05 |  |
 | [Toma Mi Mano](https://open.spotify.com/track/4D79UdvYGsjVxaiJmrbGeF) | [Matias Juarez](https://open.spotify.com/artist/0DTBJHXaPCzSHR5aa0ezZf), [Sharif](https://open.spotify.com/artist/5pIapcAHb6WV4fUjfQchMf) | [Toma Mi Mano](https://open.spotify.com/album/4RYwM9s2eKNtcj6ErnLirj) | 3:02 | 2023-02-01 |  |
+| [Tu Recuerdo](https://open.spotify.com/track/1wGwRpMNV0fC3s3hNURMaY) | [Turek Hem](https://open.spotify.com/artist/5HSROvpnFBzRENwjZ30RNx), [Dheltoro](https://open.spotify.com/artist/6d1XMAgHlRTGDhfMURKHBB) | [Tu Recuerdo](https://open.spotify.com/album/44cpqlHhTzyXBn9K47uPJj) | 3:33 | 2023-05-19 |  |
 | [Tu y Yo](https://open.spotify.com/track/3kyBuBaAiJrXG3gSRsF7MX) | [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp) | [Tu y Yo](https://open.spotify.com/album/2X2taEieve3Jv8UVYCpvhk) | 2:41 | 2022-05-25 | 2022-07-29 |
 | [Tu Y Yo](https://open.spotify.com/track/5PsPtFfCkmkROnhEW9piqR) | [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp) | [Tu Y Yo](https://open.spotify.com/album/2cgLHk1dyzjE2lQYTuYY8E) | 2:41 | 2022-06-27 |  |
 | [Tú Me Dejaste De Querer](https://open.spotify.com/track/0XinBYhf1X3kdvKQHOX971) | [C\. Tangana](https://open.spotify.com/artist/5TYxZTjIPqKM8K8NuP9woO), [Niño de Elche](https://open.spotify.com/artist/5IbUz6BcOu6IVY512oxavP), [La Húngara](https://open.spotify.com/artist/7xtnpHS34mLlxGZDVUBHSU) | [Tú Me Dejaste De Querer](https://open.spotify.com/album/7lRNtV18ZVeTYY2w5RhVf2) | 3:18 | 2022-05-25 |  |

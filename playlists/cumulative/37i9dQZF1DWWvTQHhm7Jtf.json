@@ -2204,6 +2204,24 @@
     {
       "album": {
         "name": "The Loss of Wilderness",
+        "url": "https://open.spotify.com/album/4BRp0FYalzuIdl2TBOQWB7"
+      },
+      "artists": [
+        {
+          "name": "ILUITEQ",
+          "url": "https://open.spotify.com/artist/1J6vVQgVSsWTwVhPz1wQmq"
+        }
+      ],
+      "date_added": "2022-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 357509,
+      "name": "The Loss of Wilderness",
+      "url": "https://open.spotify.com/track/04tFCehRHa8mbwhXu00StW"
+    },
+    {
+      "album": {
+        "name": "The Loss of Wilderness",
         "url": "https://open.spotify.com/album/7lMF8u1HdnWqwd1AaWVXzl"
       },
       "artists": [
@@ -2672,7 +2690,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 124792,
       "name": "Yamaha Birds 1",
       "url": "https://open.spotify.com/track/7t7taJQjwmd3NFdkjI6FIt"

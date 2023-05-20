@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8pdK1PVpBQz.md) - [plain]
 
 > Discover something new from local independent artists on the rise\. Cover: Chloe Parche Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,797 likes - 100 songs - 5 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,809 likes - 100 songs - 5 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8pdK1PVpBQz.md) - [plain]
 | 99 | [Work It Out](https://open.spotify.com/track/4MLMdVDbghOxCSoOgwQ7Og) | [Acopia](https://open.spotify.com/artist/276EHqxzrJ8QJKoluzYjFr) | [Work It Out](https://open.spotify.com/album/6e3hBCINZWL2rhBWKrrpqK) | 4:02 |
 | 100 | [What if it happens again?](https://open.spotify.com/track/1N0k7YMLlO97UhIbGsRdaY) | [Lily Bloom](https://open.spotify.com/artist/42XQtUQBwNYZvj1oJRrB1T) | [What if it happens again?](https://open.spotify.com/album/3Lj6NunwcuLRcLqL075iU1) | 3:33 |
 
-Snapshot ID: `MCxmMzYxMDRiNGU4MDE4NmIwNjYxZDBjNjdmMjI5NmEwNWZmYTFlYTI3`
+Snapshot ID: `MCw0ZWJhNTJkYzJmNTlmYjg3YWI1Y2U3MDI3ZjY2OTY2ODVkNDA3MWRj`

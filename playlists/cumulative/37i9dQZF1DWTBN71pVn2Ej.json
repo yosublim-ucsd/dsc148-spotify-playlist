@@ -582,7 +582,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 225806,
       "name": "Black Sky",
       "url": "https://open.spotify.com/track/3NGnjrnNzqOOEQ0sHV2KAp"
@@ -2675,6 +2675,24 @@
     },
     {
       "album": {
+        "name": "Haunted",
+        "url": "https://open.spotify.com/album/28IfOPBv7xdi0qW72LOFVc"
+      },
+      "artists": [
+        {
+          "name": "Spanish Love Songs",
+          "url": "https://open.spotify.com/artist/5DaZV3qmFT3aS57df8KPkV"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223238,
+      "name": "Haunted",
+      "url": "https://open.spotify.com/track/2gIgCnJIJxk8hqjyRzKV3d"
+    },
+    {
+      "album": {
         "name": "Head First",
         "url": "https://open.spotify.com/album/5Au7ooskCj2MPG0VTnDfV7"
       },
@@ -2776,7 +2794,7 @@
       ],
       "date_added": "2023-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 187693,
       "name": "Hollywood Baby",
       "url": "https://open.spotify.com/track/0oigSejhoNen2EdNAIFcm5"
@@ -3072,6 +3090,24 @@
       "duration_ms": 261186,
       "name": "Imaginary Fire - feat. Greg Puciato",
       "url": "https://open.spotify.com/track/1bqXa1m255ElnYj14xvzll"
+    },
+    {
+      "album": {
+        "name": "In the shadow of your former self.",
+        "url": "https://open.spotify.com/album/2L3ASLYdsXsrombwNJVyAG"
+      },
+      "artists": [
+        {
+          "name": "Love Is Noise",
+          "url": "https://open.spotify.com/artist/4qY6XGFQwZubu0oKBJeVki"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261920,
+      "name": "In the shadow of your former self.",
+      "url": "https://open.spotify.com/track/7icAw1EcEfXRpOxkhB3HZw"
     },
     {
       "album": {
@@ -3724,7 +3760,7 @@
       ],
       "date_added": "2023-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 157155,
       "name": "Micro Aggression",
       "url": "https://open.spotify.com/track/0AoVDlD4Da25HVGUpM0liK"
@@ -3850,7 +3886,7 @@
       ],
       "date_added": "2023-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 230935,
       "name": "Moments of Clarity",
       "url": "https://open.spotify.com/track/35abwQmAZvwCPBPzuXWob1"
@@ -3958,7 +3994,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 194026,
       "name": "My Fall",
       "url": "https://open.spotify.com/track/10AsKrxwwsXkMoPEN1qJx8"
@@ -4614,6 +4650,24 @@
       "duration_ms": 242320,
       "name": "Playback '99 (Burn the Cassette Deck)",
       "url": "https://open.spotify.com/track/42aJXANJRz2Prmz48ZGElE"
+    },
+    {
+      "album": {
+        "name": "Positive Charge",
+        "url": "https://open.spotify.com/album/65tqECce0kcEihRHm8QDmR"
+      },
+      "artists": [
+        {
+          "name": "The Gaslight Anthem",
+          "url": "https://open.spotify.com/artist/7If8DXZN7mlGdQkLE2FaMo"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245506,
+      "name": "Positive Charge",
+      "url": "https://open.spotify.com/track/0hfEJ8ls6bsD4mE1xLVaJO"
     },
     {
       "album": {
@@ -5474,7 +5528,7 @@
       ],
       "date_added": "2023-02-09",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-03",
+      "date_removed": null,
       "duration_ms": 198508,
       "name": "Sunday",
       "url": "https://open.spotify.com/track/3Xf7P2K1gXivN5KzULbNdU"

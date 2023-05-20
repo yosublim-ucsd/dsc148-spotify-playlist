@@ -1,12 +1,12 @@
 {
   "description": "Majestic and bold, these new and known worship songs are great for every day.  Cover artist: <a href=\"https://open.spotify.com/artist/4leTWyczsXYGlzUh8sFGSz?si=nomEqKq7SM6sx93LoxQChw\">Kim Walker-Smith</a>",
-  "num_followers": 498853,
+  "num_followers": 499116,
   "original_name": "Songs of Glory",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlZjhlNTQ0MjNjNDgxZjEzNzcyYzc3MzJhYmUyZTQyZDdkZjU2NzA0",
+  "snapshot_id": "MTY3NjY5MTUxMiwwMDAwMDAwMGJlOTNkYzZlYzQ5MzczM2NjYzNmODk0MGQ4ZTE1N2Jj",
   "tracks": [
     {
       "added_at": "2021-01-15 06:25:35",
@@ -883,22 +883,6 @@
     {
       "added_at": "2021-01-15 06:25:35",
       "album": {
-        "name": "spark. (Live)",
-        "url": "https://open.spotify.com/album/6ZncuYONBIPR4ZJjtXBehy"
-      },
-      "artists": [
-        {
-          "name": "Red Rocks Worship",
-          "url": "https://open.spotify.com/artist/48AVv3cw03WdSB5b4qmNCr"
-        }
-      ],
-      "duration_ms": 567093,
-      "name": "Breakthrough - Live",
-      "url": "https://open.spotify.com/track/2jU1OyF5MLOZzJp2FJVw83"
-    },
-    {
-      "added_at": "2021-01-15 06:25:35",
-      "album": {
         "name": "You Cannot Be Stopped",
         "url": "https://open.spotify.com/album/0py63SYLz4rdw2e7wj41fZ"
       },
@@ -919,22 +903,18 @@
     {
       "added_at": "2021-01-15 06:25:35",
       "album": {
-        "name": "You Keep Hope Alive",
-        "url": "https://open.spotify.com/album/1YEaHpw2muenEoVqQ4Wblp"
+        "name": "spark. (Live)",
+        "url": "https://open.spotify.com/album/6ZncuYONBIPR4ZJjtXBehy"
       },
       "artists": [
         {
-          "name": "Mandisa",
-          "url": "https://open.spotify.com/artist/0YPElKYjOD1sofFCtLdYj3"
-        },
-        {
-          "name": "Jon Reddick",
-          "url": "https://open.spotify.com/artist/7H0gjeKVq6IPXcAUZzzhD2"
+          "name": "Red Rocks Worship",
+          "url": "https://open.spotify.com/artist/48AVv3cw03WdSB5b4qmNCr"
         }
       ],
-      "duration_ms": 251200,
-      "name": "You Keep Hope Alive",
-      "url": "https://open.spotify.com/track/6Q997Jj1Z9yfmJV9248a2o"
+      "duration_ms": 567093,
+      "name": "Breakthrough - Live",
+      "url": "https://open.spotify.com/track/2jU1OyF5MLOZzJp2FJVw83"
     },
     {
       "added_at": "2021-01-15 06:25:35",
@@ -951,6 +931,26 @@
       "duration_ms": 211600,
       "name": "Christ In Me",
       "url": "https://open.spotify.com/track/04ZzbJOLBEhaf8PVQuH96u"
+    },
+    {
+      "added_at": "2021-01-15 06:25:35",
+      "album": {
+        "name": "You Keep Hope Alive",
+        "url": "https://open.spotify.com/album/1YEaHpw2muenEoVqQ4Wblp"
+      },
+      "artists": [
+        {
+          "name": "Mandisa",
+          "url": "https://open.spotify.com/artist/0YPElKYjOD1sofFCtLdYj3"
+        },
+        {
+          "name": "Jon Reddick",
+          "url": "https://open.spotify.com/artist/7H0gjeKVq6IPXcAUZzzhD2"
+        }
+      ],
+      "duration_ms": 251200,
+      "name": "You Keep Hope Alive",
+      "url": "https://open.spotify.com/track/6Q997Jj1Z9yfmJV9248a2o"
     },
     {
       "added_at": "2021-01-15 06:25:35",

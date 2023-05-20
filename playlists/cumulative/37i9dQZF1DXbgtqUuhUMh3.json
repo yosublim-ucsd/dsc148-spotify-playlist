@@ -2426,7 +2426,7 @@
       ],
       "date_added": "2023-05-04",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-19",
+      "date_removed": null,
       "duration_ms": 111000,
       "name": "Eshra W Meshwar",
       "url": "https://open.spotify.com/track/45IIm5FDdAVtyhStLAuKo7"
@@ -4836,7 +4836,7 @@
       ],
       "date_added": "2023-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 267241,
       "name": "Mosafer Anta",
       "url": "https://open.spotify.com/track/0BVpJSZrmysREiUbIMaDNC"
@@ -5298,7 +5298,7 @@
       ],
       "date_added": "2023-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 282473,
       "name": "Qadduka Al Mayyas",
       "url": "https://open.spotify.com/track/2l5norERJd8AKTAw0wF91c"
@@ -5622,6 +5622,24 @@
       "duration_ms": 285880,
       "name": "Schizophrenia",
       "url": "https://open.spotify.com/track/3ln6UpBipKV385C8gNExNE"
+    },
+    {
+      "album": {
+        "name": "Seebk Enta",
+        "url": "https://open.spotify.com/album/2L9QugHuAfWqw2rlG4CGPO"
+      },
+      "artists": [
+        {
+          "name": "Angham",
+          "url": "https://open.spotify.com/artist/0IiR4LJwslf6HBSdk9W3Dg"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240937,
+      "name": "Seebk Enta",
+      "url": "https://open.spotify.com/track/3PXha2Njo7liz76GW40Qqu"
     },
     {
       "album": {

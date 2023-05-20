@@ -473,6 +473,24 @@
     },
     {
       "album": {
+        "name": "Imaginaerum",
+        "url": "https://open.spotify.com/album/7lUxbRgHGomu4raRe59qTK"
+      },
+      "artists": [
+        {
+          "name": "Nightwish",
+          "url": "https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 324920,
+      "name": "Ghost River",
+      "url": "https://open.spotify.com/track/3sTZ4DxyZ4PcKxKj4MHLI8"
+    },
+    {
+      "album": {
         "name": "Showtime, Storytime (Live, at Wacken, 2013)",
         "url": "https://open.spotify.com/album/2EIvvMqgrCHORCpQBmJDjm"
       },
@@ -1320,6 +1338,24 @@
     {
       "album": {
         "name": "Wishmaster",
+        "url": "https://open.spotify.com/album/2St6O6fVAYqzKN4cCpFzuV"
+      },
+      "artists": [
+        {
+          "name": "Nightwish",
+          "url": "https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264026,
+      "name": "Wishmaster",
+      "url": "https://open.spotify.com/track/4mwiaj9c4V0pW5y8t9mYHa"
+    },
+    {
+      "album": {
+        "name": "Wishmaster",
         "url": "https://open.spotify.com/album/4u5Ik7NMYl3EITJngbMS4V"
       },
       "artists": [
@@ -1330,7 +1366,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 264026,
       "name": "Wishmaster",
       "url": "https://open.spotify.com/track/5soihaBWFEQqCYu0HOUVzK"

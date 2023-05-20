@@ -34,7 +34,7 @@
       ],
       "date_added": "2022-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 165280,
       "name": "[Untitled]",
       "url": "https://open.spotify.com/track/2qQjc7iFLNkyKm9GeetnDJ"
@@ -994,7 +994,7 @@
       ],
       "date_added": "2022-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 107949,
       "name": "Infinite Cloud",
       "url": "https://open.spotify.com/track/2uufSlJp3cSuv6hQXOs05B"
@@ -1034,6 +1034,24 @@
       "duration_ms": 107911,
       "name": "Infinite Cloud (Interlude)",
       "url": "https://open.spotify.com/track/3DLQxbucEeoRwwqnsQsVha"
+    },
+    {
+      "album": {
+        "name": "Infinite Cloud (Interlude)",
+        "url": "https://open.spotify.com/album/6eXOUQss9x9uGtfPpgohVm"
+      },
+      "artists": [
+        {
+          "name": "Psychrex",
+          "url": "https://open.spotify.com/artist/63xJDEUip5qjI1iCVmtkOZ"
+        }
+      ],
+      "date_added": "2022-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 107911,
+      "name": "Infinite Cloud (Interlude)",
+      "url": "https://open.spotify.com/track/7GTMpFBKXCiUCsZ6ZKoTOc"
     },
     {
       "album": {
@@ -1374,7 +1392,7 @@
       ],
       "date_added": "2023-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 132260,
       "name": "New World Pt. 3",
       "url": "https://open.spotify.com/track/0CXH4JqtK5MpoxjMrZkjZr"
@@ -1796,7 +1814,7 @@
       ],
       "date_added": "2022-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 327428,
       "name": "slow motion",
       "url": "https://open.spotify.com/track/7tcf3SrKUt9S9jxBgvEsMd"

@@ -2,9 +2,9 @@
 
 ### [Hits Urbanos](https://open.spotify.com/playlist/37i9dQZF1DWVskFRGurTfg)
 
-> Éxitos urbanos de Latinoamérica con Cazzu y Young Miko.
+> Éxitos urbanos de Latinoamérica con Bad Bunny.
 
-558 songs - 1 day 7 hr 13 min
+560 songs - 1 day 7 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -331,6 +331,7 @@
 | [Mi Nena Remix](https://open.spotify.com/track/7q1KFoWUNYudhKW8RYJFsZ) | [Maikel Delacalle](https://open.spotify.com/artist/2t7vyRN71qtQT18frElAnV), [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K) | [Mi Nena Remix](https://open.spotify.com/album/6N2xUWDyxIusQX9s71HWFW) | 3:40 | 2023-04-13 |  |
 | [Mi real lova](https://open.spotify.com/track/1A8CcPnmexGWEDrzoFwyoR) | [Akatumamy](https://open.spotify.com/artist/38DOU02BQmlcooCqxr3aSd), [Ovyze](https://open.spotify.com/artist/4jzpU8H3P6UJYFUWwwwCx4) | [Mi real lova](https://open.spotify.com/album/4QhzuSzmMkVQEqPSIC9Fnn) | 2:46 | 2023-04-20 |  |
 | [Milagrosa](https://open.spotify.com/track/4CVhywni3QwalKLZgwFi58) | [Milo j](https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3) | [Milagrosa](https://open.spotify.com/album/2Ri7SdWvj5PNtbVxrMDq3t) | 2:20 | 2023-02-24 |  |
+| [Millonarios Juntos](https://open.spotify.com/track/4g79mlIRCMtOvi1ZJVpq3t) | [ITHAN NY](https://open.spotify.com/artist/0LshXUmIub6xKvOq4QmtNs), [Jere Klein](https://open.spotify.com/artist/35oGZihZclGoTVuICPXRP9) | [Millonarios Juntos](https://open.spotify.com/album/7eIXPgbyRIyGMrEao8zsPU) | 3:02 | 2023-05-19 |  |
 | [Mini Mini](https://open.spotify.com/track/3KI4rfS7kRC58Dd4ToY7P3) | [Punto40](https://open.spotify.com/artist/2C1Pj5TMq8QjqbwQ4tmDtO), [Marcianeke](https://open.spotify.com/artist/5XQWXnMwsvuvCPMneXUbsy) | [Mini Mini](https://open.spotify.com/album/4zeYzXnl5RwCm4riSOuvOE) | 3:17 | 2022-11-03 |  |
 | [Minimo Esfuerzo \(feat\. Duki\)](https://open.spotify.com/track/4VOTF9Cnw0paixB9X0KUMh) | [Pablo Chill\-E](https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D), [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg) | [El Duende Verde](https://open.spotify.com/album/0IofEJkMDwGzX6Azp11wxl) | 3:11 | 2023-03-31 |  |
 | [MODELITO](https://open.spotify.com/track/559YUIWxUc8Mx4lsla13Ff) | [Mora](https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S), [YOVNGCHIMI](https://open.spotify.com/artist/4aSlfXDn9R60UlbZEboBUy) | [PARAÍSO](https://open.spotify.com/album/7b3PrkHcWx17AQwlI2M1Uc) | 3:10 | 2022-11-25 | 2023-04-14 |
@@ -553,6 +554,7 @@
 | [Viviendo El Proceso <3](https://open.spotify.com/track/6P3e7ieiYq8ZITkkmW2Uim) | [Gino Mella](https://open.spotify.com/artist/7HYJrA3HSTNDmkl5pylhaY), [Best](https://open.spotify.com/artist/4Ng3fh1nc5L04iXPL8vqc7) | [Viviendo El Proceso <3](https://open.spotify.com/album/3nsV4MTWKfJOiVfjZvnsMi) | 2:01 | 2023-04-13 |  |
 | [Volar](https://open.spotify.com/track/5pQGLii6TY6nUzuBM5KXhs) | [Boza](https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso), [Dalex](https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn) | [Volar](https://open.spotify.com/album/6mF5PHt6rr48cTh75pMx5W) | 3:26 | 2023-04-20 |  |
 | [Volví](https://open.spotify.com/track/2vmfvSoZBFAt9hhRoEByLi) | [Aventura](https://open.spotify.com/artist/1qto4hHid1P71emI6Fd8xi), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Volví](https://open.spotify.com/album/23zzZlUiABIg4ftZbJ7peK) | 3:50 | 2021-12-17 | 2022-03-12 |
+| [WHERE SHE GOES](https://open.spotify.com/track/7ro0hRteUMfnOioTFI5TG1) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [WHERE SHE GOES](https://open.spotify.com/album/5gCcb5fsSb6w5K8SyJrgtB) | 3:51 | 2023-05-19 |  |
 | [Whiskey y Coco \- Remix](https://open.spotify.com/track/3pUqOFuXETdcGRh8E587BE) | [Justin Quiles](https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [Whiskey y Coco \(Remix\)](https://open.spotify.com/album/4g71V57SAYujhaE1QcJUCF) | 3:41 | 2023-04-28 |  |
 | [WOW](https://open.spotify.com/track/7dnWwiWTF7JSEAXhmeUBpa) | [C.R.O](https://open.spotify.com/artist/4puAp107dCehraE47QXVQX), [Neo Pistea](https://open.spotify.com/artist/01m2XZ7m7rAz6KY3scTdaV), [Lucho SSJ](https://open.spotify.com/artist/1OBizG9nrnHJkrL9NjnWYN), [Obie Wanshot](https://open.spotify.com/artist/48vP5SxlTO6yOI7SLKIOQV) | [WOW](https://open.spotify.com/album/6vFeKKeRjOrndZ4OT80E7g) | 3:37 | 2023-03-27 | 2023-04-28 |
 | [WOW BB](https://open.spotify.com/track/4fQAjk5sPe6ay04m5slBlU) | [Natti Natasha](https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7), [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm), [Chimbala](https://open.spotify.com/artist/4VVEpEhC8NcR7AqNEds42U) | [WOW BB](https://open.spotify.com/album/09qDFWKi7sDxRV8l40osDR) | 3:11 | 2022-03-04 | 2022-03-26 |

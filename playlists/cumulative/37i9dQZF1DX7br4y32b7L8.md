@@ -2,9 +2,9 @@
 
 ### [Viral Hits NL](https://open.spotify.com/playlist/37i9dQZF1DX7br4y32b7L8)
 
-> Viraal gaan is ook gaan! Cover: Heuss L'enfoiré & Jul
+> Viraal gaan is ook gaan! Cover: Käärijä
 
-150 songs - 7 hr 32 min
+151 songs - 7 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -156,6 +156,7 @@
 | [We Are The People \- southstar Remix](https://open.spotify.com/track/3vLMN02wGnPBdjRVvewedS) | [Empire of the Sun](https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c), [southstar](https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi) | [We Are The People \(southstar Remix\)](https://open.spotify.com/album/28E0EqraSPvGhUQ0jNkUvb) | 3:56 | 2023-03-01 | 2023-05-02 |
 | [What You Say?](https://open.spotify.com/track/22quZFeltYbo325rn3ktTe) | [Young Marco](https://open.spotify.com/artist/7zpN81tVvPwlHcJSkSCyRa) | [What You Say?](https://open.spotify.com/album/2yRIzD4GpnSNlGw5gt0Y1o) | 3:23 | 2023-02-23 | 2023-04-12 |
 | [Whenever, Wherever](https://open.spotify.com/track/2lnzGkdtDj5mtlcOW2yRtG) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Laundry Service](https://open.spotify.com/album/4DyMK9x2gnmRkRa16zHaEV) | 3:16 | 2023-02-23 |  |
+| [Wil Je Weten](https://open.spotify.com/track/2Toz57Z50AtzmG1WJNynrC) | [OFFICIAL KALOUTJE](https://open.spotify.com/artist/4DelmsIXEfwweSJLOcfDQn) | [Wil Je Weten](https://open.spotify.com/album/6dms2PVjRmbmsvsU94Yu0D) | 2:33 | 2023-05-19 |  |
 | [Yahyuppiyah \(feat\. Pcee, EeQue & Chley\)](https://open.spotify.com/track/2qp7rTcFVz67fz88JSnbkU) | [Uncle Waffles](https://open.spotify.com/artist/68McnNC9twEtiynOAJRRgZ), [Tony Duardo](https://open.spotify.com/artist/6qF0eiWwQF073J1MuVFs5z), [Justin99](https://open.spotify.com/artist/2sMoqBE60rnLVDF6zhFKBI), [Pcee](https://open.spotify.com/artist/22Bl1QCNEZvpqVwRPYscE4), [EeQue](https://open.spotify.com/artist/4VqCBSJ9fvJ1XDQUd7K2Ft), [Chley](https://open.spotify.com/artist/7HpriU9gAJThxAfPfXpZ6N) | [ASYLUM](https://open.spotify.com/album/27W7QteTVMhSPzBDnjODP2) | 4:56 | 2023-05-01 |  |
 | [Zusje](https://open.spotify.com/track/0u3QDgpEwLLgXwnQgPPnfC) | [Cheryl Öztürk](https://open.spotify.com/artist/0vvWDHgxxfIJhGpNgCUfA9) | [Zusje](https://open.spotify.com/album/0SNid4vYygVVvwph9bueos) | 2:27 | 2023-05-09 |  |
 

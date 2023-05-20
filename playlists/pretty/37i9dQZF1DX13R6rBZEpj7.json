@@ -1,12 +1,12 @@
 {
   "description": "Turn up the volume for some filthy bassline! ft. Bushbaby",
-  "num_followers": 193456,
+  "num_followers": 193546,
   "original_name": "Bassline Bangers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5ZDVjODIwOTVmMjNhNzg5NTg5NGFkNjAyZmE4ODdiMjljNzBmODA1",
+  "snapshot_id": "MCxjMWJiMzRlZDIwYWMzYjVkYjFjNzhhZmU2NWM2MGE2ZGI4OWUwNWVl",
   "tracks": [
     {
       "added_at": "2023-04-04 13:33:05",
@@ -1147,6 +1147,22 @@
     {
       "added_at": "2023-04-04 13:33:05",
       "album": {
+        "name": "Get Mad",
+        "url": "https://open.spotify.com/album/2zBWo4P4UdZzkLrKQqlJ98"
+      },
+      "artists": [
+        {
+          "name": "Darkzy",
+          "url": "https://open.spotify.com/artist/7Ecng98JLorpsVdazNr0Ry"
+        }
+      ],
+      "duration_ms": 217344,
+      "name": "Get Mad",
+      "url": "https://open.spotify.com/track/51MfeTycH4Do5oH8APvph3"
+    },
+    {
+      "added_at": "2023-04-04 13:33:05",
+      "album": {
         "name": "Donny Don",
         "url": "https://open.spotify.com/album/3UusxCt7bhvh5aT6Lwbqwr"
       },
@@ -1211,22 +1227,6 @@
     {
       "added_at": "2023-04-04 13:33:05",
       "album": {
-        "name": "Get Mad",
-        "url": "https://open.spotify.com/album/2zBWo4P4UdZzkLrKQqlJ98"
-      },
-      "artists": [
-        {
-          "name": "Darkzy",
-          "url": "https://open.spotify.com/artist/7Ecng98JLorpsVdazNr0Ry"
-        }
-      ],
-      "duration_ms": 217344,
-      "name": "Get Mad",
-      "url": "https://open.spotify.com/track/51MfeTycH4Do5oH8APvph3"
-    },
-    {
-      "added_at": "2023-04-04 13:33:05",
-      "album": {
         "name": "Pure",
         "url": "https://open.spotify.com/album/1S8CHaPPbF68PW1Y8E1V2t"
       },
@@ -1275,6 +1275,22 @@
     {
       "added_at": "2023-04-04 13:33:05",
       "album": {
+        "name": "Chances",
+        "url": "https://open.spotify.com/album/5I2lhIqmWeAtsQD1kXtyC7"
+      },
+      "artists": [
+        {
+          "name": "Wittyboy",
+          "url": "https://open.spotify.com/artist/3SgLMH12f6V9dfSW2QPgAw"
+        }
+      ],
+      "duration_ms": 310909,
+      "name": "Chances",
+      "url": "https://open.spotify.com/track/59PTNOT9TYu7MFJ6pSrCNZ"
+    },
+    {
+      "added_at": "2023-04-04 13:33:05",
+      "album": {
         "name": "Night Bass Freshmen Vol 4",
         "url": "https://open.spotify.com/album/0MPdu2GZc6HZOQGzHcSPl2"
       },
@@ -1307,22 +1323,6 @@
     {
       "added_at": "2023-04-04 13:33:05",
       "album": {
-        "name": "Chances",
-        "url": "https://open.spotify.com/album/5I2lhIqmWeAtsQD1kXtyC7"
-      },
-      "artists": [
-        {
-          "name": "Wittyboy",
-          "url": "https://open.spotify.com/artist/3SgLMH12f6V9dfSW2QPgAw"
-        }
-      ],
-      "duration_ms": 310909,
-      "name": "Chances",
-      "url": "https://open.spotify.com/track/59PTNOT9TYu7MFJ6pSrCNZ"
-    },
-    {
-      "added_at": "2023-04-04 13:33:05",
-      "album": {
         "name": "The Wave",
         "url": "https://open.spotify.com/album/2mwDSMgWkuP8zX8CByskud"
       },
@@ -1343,18 +1343,22 @@
     {
       "added_at": "2023-04-04 13:33:05",
       "album": {
-        "name": "All Night",
-        "url": "https://open.spotify.com/album/6BGQEGytHSd4axFauI67A8"
+        "name": "Secure the Bag",
+        "url": "https://open.spotify.com/album/5rTDT905QMFyy0vrUMpaiO"
       },
       "artists": [
         {
-          "name": "Cooky",
-          "url": "https://open.spotify.com/artist/1gIG3PQXZfplVilbDBdzap"
+          "name": "Skepsis",
+          "url": "https://open.spotify.com/artist/6DnQYUjtYusK9QJts9HqSC"
+        },
+        {
+          "name": "Flava D",
+          "url": "https://open.spotify.com/artist/682SntJ7VKoFfssPfDAmDZ"
         }
       ],
-      "duration_ms": 228923,
-      "name": "All Night",
-      "url": "https://open.spotify.com/track/0J4ecx7h9B73ihSLT88YXm"
+      "duration_ms": 248841,
+      "name": "Secure the Bag",
+      "url": "https://open.spotify.com/track/7bT9PtLrGTCXGjjhgrvMfg"
     }
   ],
   "unique_name": "Bassline Bangers",

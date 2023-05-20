@@ -4,7 +4,7 @@
 
 > Your go to Christian playlist for every day listening \. Cover: Sadie Robertson Huff
 
-186 songs - 12 hr 6 min
+188 songs - 12 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -94,12 +94,14 @@
 | [In The House](https://open.spotify.com/track/1brFXt3k8dja9jXkiAY4ky) | [Crowder](https://open.spotify.com/artist/39xmI59WrIMyyJjSDq6WCu) | [Milk & Honey](https://open.spotify.com/album/44e1KWenGKSOldpOFS0OmD) | 2:59 | 2022-02-17 | 2022-08-27 |
 | [In Your Eyes](https://open.spotify.com/track/1mDuP7qIDNlE4CKJhotWyl) | [Futures](https://open.spotify.com/artist/6CZGjSCwsv967PAK4MfqC3) | [In Your Eyes](https://open.spotify.com/album/7woBjeGePAa8gugsNrDCqQ) | 4:44 | 2022-04-20 | 2022-07-02 |
 | [It's About Time](https://open.spotify.com/track/0aB914urPdqO2CNCMn5X8i) | [Kevin Quinn](https://open.spotify.com/artist/3HTHz4rj84gMMV8T3u81op) | [It's About Time](https://open.spotify.com/album/6YF6LnMttUrjDv1COLZahy) | 2:54 | 2022-02-17 |  |
+| [Jesus Does \- The Factory Sessions](https://open.spotify.com/track/5EeNglE2otsaAYdUmfjy0X) | [We The Kingdom](https://open.spotify.com/artist/5Ye2QWN2Wl9zTn947eaest) | [The Factory Sessions](https://open.spotify.com/album/1g0PJpr4raSJKzbMAuRV76) | 4:13 | 2023-05-19 |  |
 | [Jireh \(feat\. Lloyd Nicks & Vanessa Campagna\)](https://open.spotify.com/track/71YmBl6TseDCGA1DXfudvE) | [BRIGHT](https://open.spotify.com/artist/1skPwnCIyV2qwyA2E2YXNj), [Lloyd Nicks](https://open.spotify.com/artist/27PNOaBc3uYEgF3rrxeQjh), [Vanessa Campagna](https://open.spotify.com/artist/4a4KcYuu2DZrL8sTGyu5sM) | [Jireh \(feat\. Lloyd Nicks & Vanessa Campagna\)](https://open.spotify.com/album/1WMZnX8mYbI7Uzu3ZXwEKy) | 3:45 | 2022-09-09 |  |
 | [Joy In The Morning](https://open.spotify.com/track/3xOyi75MAC8yELVqWBFGKg) | [Tauren Wells](https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4) | [Joy In The Morning](https://open.spotify.com/album/2JuThVAsMXmUJpTmAouFax) | 3:36 | 2022-06-10 |  |
 | [Jump \- Neon Feather Remix](https://open.spotify.com/track/0jRoOmTvENHLkXQ1Ycm1OT) | [NONAH](https://open.spotify.com/artist/76SJxLztAMHPMieGTNZPeI), [Neon Feather](https://open.spotify.com/artist/2gKOyAK7jvza3CP58EcLKD) | [JUMP \(Neon Feather Remix\)](https://open.spotify.com/album/5fn3S9SYdWym1nn3Y77vvC) | 3:36 | 2022-03-18 |  |
 | [Just Like Jesus](https://open.spotify.com/track/7nLN2zONJYTPHPEcEv6ohq) | [ONE HOUSE](https://open.spotify.com/artist/6RC9lZOZqIxeg4g38SXNLn), [Roosevelt Stewart](https://open.spotify.com/artist/2KVpuzFwWhwa7oR6g5tvmk), [Chandler Moore](https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk) | [Just Like Jesus](https://open.spotify.com/album/62iTxtaHSSpIQhi0wCwBU0) | 9:43 | 2023-01-13 |  |
 | [Keep On Hoping](https://open.spotify.com/track/67Ggy7CFJGAaeFVXoZkVAE) | [Riley Clemmons](https://open.spotify.com/artist/7yZC6AEhvCD5NFR8yDUxCG) | [Keep On Hoping](https://open.spotify.com/album/7xSiollUHf1V98ulBd5Zzn) | 3:27 | 2022-02-17 | 2022-08-27 |
 | [Lay My Life Down](https://open.spotify.com/track/0TiZq0k9qa5ert1tToofZX) | [LUMINS](https://open.spotify.com/artist/0vl0q3Jy5VN0GXyNWdnOyC), [Austin Stone Worship](https://open.spotify.com/artist/5B0gcQCmHJR2VznrIGKh4x) | [Vol 1](https://open.spotify.com/album/0Dgm0ZiKnnlLTcaKOi3WBI) | 4:10 | 2022-02-17 | 2022-08-27 |
+| [Lean On Me](https://open.spotify.com/track/69MPX3JJo4rPSVxK1IsGLY) | [Evan Craft](https://open.spotify.com/artist/4vEpUOtKWtpotWkuv0Vlx4) | [Lean On Me](https://open.spotify.com/album/0KJwBIU3wFXO7K86A4AFOb) | 3:10 | 2023-05-19 |  |
 | [Left It In The Water \- Edit](https://open.spotify.com/track/60uRJX8t222gQYqiv3FgRn) | [We The Kingdom](https://open.spotify.com/artist/5Ye2QWN2Wl9zTn947eaest) | [Left It In The Water](https://open.spotify.com/album/55DXaaOhUleFBNezGL6PGM) | 3:34 | 2022-07-29 |  |
 | [Let It Roll](https://open.spotify.com/track/1MEGLK5SoM64SiTbp22Shx) | [Rend Collective](https://open.spotify.com/artist/11Y54BxlxC3UIAUkU2eadQ) | [Let It Roll](https://open.spotify.com/album/67Pd2ts72pip8iB0SSk0YL) | 3:48 | 2022-07-22 |  |
 | [Let The Light In](https://open.spotify.com/track/4CPJQmuCA7iyMEdefWhfl6) | [Joshua Micah](https://open.spotify.com/artist/6pLDSW3de0uRB6cP30krKv), [Owl City](https://open.spotify.com/artist/07QEuhtrNmmZ0zEcqE9SF6) | [Let The Light In](https://open.spotify.com/album/5GkRYLm7ju9tfrnYxfqJqL) | 3:24 | 2022-02-17 |  |

@@ -1,12 +1,12 @@
 {
   "description": "Kick back and relax with a collection of eclectic and unexpected reimaginings. Cover:  Joy Oladokun",
-  "num_followers": 433616,
+  "num_followers": 433712,
   "original_name": "Chill Covers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhOTZiY2Y1ZjMyOTdmMmMyZjEwNzhkZjY0NjI5NGQ5OGVjMGEzZjFi",
+  "snapshot_id": "MCwxOTNlZTY5MjIxYWM0YjY5Yjc3ZmZjNmNiMDRjM2VhNDRlMWJkZmYy",
   "tracks": [
     {
       "added_at": "2022-03-22 14:40:29",
@@ -827,22 +827,6 @@
     {
       "added_at": "2022-03-22 14:40:29",
       "album": {
-        "name": "Palace (Cover) / Diane",
-        "url": "https://open.spotify.com/album/3xEQ2CukZ34BtuhITSjMNS"
-      },
-      "artists": [
-        {
-          "name": "Cam",
-          "url": "https://open.spotify.com/artist/5WRElKaZsn1tGnrgmJVAeO"
-        }
-      ],
-      "duration_ms": 229496,
-      "name": "Palace - Cover",
-      "url": "https://open.spotify.com/track/3gkqjWvOpWpFQYX5AzqrY3"
-    },
-    {
-      "added_at": "2022-03-22 14:40:29",
-      "album": {
         "name": "Creep",
         "url": "https://open.spotify.com/album/3Gx0Yoem0yyteJnSZ9j77l"
       },
@@ -855,6 +839,22 @@
       "duration_ms": 177143,
       "name": "Creep",
       "url": "https://open.spotify.com/track/7fu3lFEf8dVfFuvKxhTPwP"
+    },
+    {
+      "added_at": "2022-03-22 14:40:29",
+      "album": {
+        "name": "Palace (Cover) / Diane",
+        "url": "https://open.spotify.com/album/3xEQ2CukZ34BtuhITSjMNS"
+      },
+      "artists": [
+        {
+          "name": "Cam",
+          "url": "https://open.spotify.com/artist/5WRElKaZsn1tGnrgmJVAeO"
+        }
+      ],
+      "duration_ms": 229496,
+      "name": "Palace - Cover",
+      "url": "https://open.spotify.com/track/3gkqjWvOpWpFQYX5AzqrY3"
     },
     {
       "added_at": "2022-03-22 14:40:29",
@@ -1159,22 +1159,6 @@
     {
       "added_at": "2022-03-22 14:40:29",
       "album": {
-        "name": "Nothing Else Matters",
-        "url": "https://open.spotify.com/album/5cGlNs3L4C2mzMQiAfox41"
-      },
-      "artists": [
-        {
-          "name": "Phoebe Bridgers",
-          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
-        }
-      ],
-      "duration_ms": 274506,
-      "name": "Nothing Else Matters",
-      "url": "https://open.spotify.com/track/1guCON9841cQwAlbNplLsY"
-    },
-    {
-      "added_at": "2022-03-22 14:40:29",
-      "album": {
         "name": "Whatever You Like [Digital 45]",
         "url": "https://open.spotify.com/album/16AnLWE6Js4hmXqumUFJjv"
       },
@@ -1187,6 +1171,22 @@
       "duration_ms": 228907,
       "name": "Whatever You Like - Single Version",
       "url": "https://open.spotify.com/track/5qX2ZJoLEyFCTAdaCqUo7s"
+    },
+    {
+      "added_at": "2022-03-22 14:40:29",
+      "album": {
+        "name": "Nothing Else Matters",
+        "url": "https://open.spotify.com/album/5cGlNs3L4C2mzMQiAfox41"
+      },
+      "artists": [
+        {
+          "name": "Phoebe Bridgers",
+          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
+        }
+      ],
+      "duration_ms": 274506,
+      "name": "Nothing Else Matters",
+      "url": "https://open.spotify.com/track/1guCON9841cQwAlbNplLsY"
     },
     {
       "added_at": "2022-03-22 14:40:29",
@@ -1371,22 +1371,6 @@
     {
       "added_at": "2022-03-22 14:40:29",
       "album": {
-        "name": "It Must Have Been Love",
-        "url": "https://open.spotify.com/album/7D04exNEkGPr1ciErDGijB"
-      },
-      "artists": [
-        {
-          "name": "Kathleen Edwards",
-          "url": "https://open.spotify.com/artist/7x4So74vIUx3DaLk93JCFf"
-        }
-      ],
-      "duration_ms": 247426,
-      "name": "It Must Have Been Love",
-      "url": "https://open.spotify.com/track/7fQ9Yffz8VAT0rVvo0h98b"
-    },
-    {
-      "added_at": "2022-03-22 14:40:29",
-      "album": {
         "name": "Nocturnes",
         "url": "https://open.spotify.com/album/6Jzq1Fi63BPj4aMhXLQ5yH"
       },
@@ -1399,6 +1383,22 @@
       "duration_ms": 227064,
       "name": "About You Now",
       "url": "https://open.spotify.com/track/0z4eTq4BtDiNN5IFQSUBau"
+    },
+    {
+      "added_at": "2022-03-22 14:40:29",
+      "album": {
+        "name": "It Must Have Been Love",
+        "url": "https://open.spotify.com/album/7D04exNEkGPr1ciErDGijB"
+      },
+      "artists": [
+        {
+          "name": "Kathleen Edwards",
+          "url": "https://open.spotify.com/artist/7x4So74vIUx3DaLk93JCFf"
+        }
+      ],
+      "duration_ms": 247426,
+      "name": "It Must Have Been Love",
+      "url": "https://open.spotify.com/track/7fQ9Yffz8VAT0rVvo0h98b"
     },
     {
       "added_at": "2022-03-22 14:40:29",
@@ -1503,22 +1503,6 @@
     {
       "added_at": "2022-03-22 14:40:29",
       "album": {
-        "name": "...but i'd rather be with you",
-        "url": "https://open.spotify.com/album/1Misn812Z5W216eNI7NuIy"
-      },
-      "artists": [
-        {
-          "name": "Molly Tuttle",
-          "url": "https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE"
-        }
-      ],
-      "duration_ms": 235418,
-      "name": "Sunflower, Vol. 6",
-      "url": "https://open.spotify.com/track/535qfjYWFpQBjvIpWNG1ZG"
-    },
-    {
-      "added_at": "2022-03-22 14:40:29",
-      "album": {
         "name": "Avant Gardener",
         "url": "https://open.spotify.com/album/6pGyMnVTSLITj39L7zDqj4"
       },
@@ -1531,6 +1515,22 @@
       "duration_ms": 259749,
       "name": "Avant Gardener",
       "url": "https://open.spotify.com/track/6JZH57Qi4g0DgdB8wTeDGS"
+    },
+    {
+      "added_at": "2022-03-22 14:40:29",
+      "album": {
+        "name": "...but i'd rather be with you",
+        "url": "https://open.spotify.com/album/1Misn812Z5W216eNI7NuIy"
+      },
+      "artists": [
+        {
+          "name": "Molly Tuttle",
+          "url": "https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE"
+        }
+      ],
+      "duration_ms": 235418,
+      "name": "Sunflower, Vol. 6",
+      "url": "https://open.spotify.com/track/535qfjYWFpQBjvIpWNG1ZG"
     },
     {
       "added_at": "2022-03-22 14:40:29",
@@ -1567,22 +1567,6 @@
     {
       "added_at": "2022-03-22 14:40:29",
       "album": {
-        "name": "Love on Top",
-        "url": "https://open.spotify.com/album/1uknqwvaj1ghvDnv9ic8Uv"
-      },
-      "artists": [
-        {
-          "name": "Sophie Rose",
-          "url": "https://open.spotify.com/artist/7zVoS1SW2Btj5qRbtlKuyp"
-        }
-      ],
-      "duration_ms": 228000,
-      "name": "Love on Top",
-      "url": "https://open.spotify.com/track/3enRbi2fzng1duViiUH9rh"
-    },
-    {
-      "added_at": "2022-03-22 14:40:29",
-      "album": {
         "name": "Feel Good Inc.",
         "url": "https://open.spotify.com/album/4FjHmmKcMhmwZJkUWnbSje"
       },
@@ -1599,6 +1583,22 @@
       "duration_ms": 236129,
       "name": "Feel Good Inc.",
       "url": "https://open.spotify.com/track/5qeuUnuxiYzdkXZkcWD5gb"
+    },
+    {
+      "added_at": "2022-03-22 14:40:29",
+      "album": {
+        "name": "Love on Top",
+        "url": "https://open.spotify.com/album/1uknqwvaj1ghvDnv9ic8Uv"
+      },
+      "artists": [
+        {
+          "name": "Sophie Rose",
+          "url": "https://open.spotify.com/artist/7zVoS1SW2Btj5qRbtlKuyp"
+        }
+      ],
+      "duration_ms": 228000,
+      "name": "Love on Top",
+      "url": "https://open.spotify.com/track/3enRbi2fzng1duViiUH9rh"
     },
     {
       "added_at": "2022-03-22 14:40:29",

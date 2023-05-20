@@ -1,12 +1,12 @@
 {
   "description": "un cuore cos\u00ec \ud83d\udc94  (in cover, sol\u00f8)",
-  "num_followers": 38563,
+  "num_followers": 38573,
   "original_name": "ragazzo triste",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlMGNmMjEzZWM1MTMyNmQ3NzQyYjcyZTgxY2M1Yzc1ZjA5MDFkOTll",
+  "snapshot_id": "MCwxZWM2M2FkOTExM2QwNjE0ZGE0OTdhZmMxOWU4ZDViNjZjODE2Y2Ix",
   "tracks": [
     {
       "added_at": "2023-04-18 07:22:02",
@@ -759,22 +759,6 @@
     {
       "added_at": "2023-04-18 07:22:02",
       "album": {
-        "name": "Autopsia",
-        "url": "https://open.spotify.com/album/01bwlYW15thIL49JrwibKC"
-      },
-      "artists": [
-        {
-          "name": "DOXX",
-          "url": "https://open.spotify.com/artist/1rlz0TbW8EjjvvOxPxoVsr"
-        }
-      ],
-      "duration_ms": 208504,
-      "name": "Autopsia",
-      "url": "https://open.spotify.com/track/5wEdC22OgyM7umwe6XeCms"
-    },
-    {
-      "added_at": "2023-04-18 07:22:02",
-      "album": {
         "name": "Hasta la Muerte",
         "url": "https://open.spotify.com/album/5NNcyVXkfTUP2Y9ddLfAE0"
       },
@@ -787,6 +771,22 @@
       "duration_ms": 120058,
       "name": "Hasta la Muerte",
       "url": "https://open.spotify.com/track/13ayZLGRDxX85NEG78hIjF"
+    },
+    {
+      "added_at": "2023-04-18 07:22:02",
+      "album": {
+        "name": "Autopsia",
+        "url": "https://open.spotify.com/album/01bwlYW15thIL49JrwibKC"
+      },
+      "artists": [
+        {
+          "name": "DOXX",
+          "url": "https://open.spotify.com/artist/1rlz0TbW8EjjvvOxPxoVsr"
+        }
+      ],
+      "duration_ms": 208504,
+      "name": "Autopsia",
+      "url": "https://open.spotify.com/track/5wEdC22OgyM7umwe6XeCms"
     },
     {
       "added_at": "2023-04-18 07:22:02",
@@ -911,22 +911,6 @@
     {
       "added_at": "2023-04-18 07:22:02",
       "album": {
-        "name": "L'effetto che mi fai",
-        "url": "https://open.spotify.com/album/3yShDUYPfX7h1HSK6Apecx"
-      },
-      "artists": [
-        {
-          "name": "DOXX",
-          "url": "https://open.spotify.com/artist/1rlz0TbW8EjjvvOxPxoVsr"
-        }
-      ],
-      "duration_ms": 174250,
-      "name": "L'effetto che mi fai",
-      "url": "https://open.spotify.com/track/3lxnYJ4tMPPYXL7vONxGRi"
-    },
-    {
-      "added_at": "2023-04-18 07:22:02",
-      "album": {
         "name": "OSIRIDE",
         "url": "https://open.spotify.com/album/6jmB6f0AiVAAYZRAISXHwq"
       },
@@ -939,6 +923,22 @@
       "duration_ms": 200571,
       "name": "Amsterdam",
       "url": "https://open.spotify.com/track/2BOzEweKLKbBdP6szSatP7"
+    },
+    {
+      "added_at": "2023-04-18 07:22:02",
+      "album": {
+        "name": "L'effetto che mi fai",
+        "url": "https://open.spotify.com/album/3yShDUYPfX7h1HSK6Apecx"
+      },
+      "artists": [
+        {
+          "name": "DOXX",
+          "url": "https://open.spotify.com/artist/1rlz0TbW8EjjvvOxPxoVsr"
+        }
+      ],
+      "duration_ms": 174250,
+      "name": "L'effetto che mi fai",
+      "url": "https://open.spotify.com/track/3lxnYJ4tMPPYXL7vONxGRi"
     },
     {
       "added_at": "2023-04-18 07:22:02",
@@ -1031,22 +1031,6 @@
     {
       "added_at": "2023-04-18 07:22:02",
       "album": {
-        "name": "Amor proprio",
-        "url": "https://open.spotify.com/album/6kk9gwIVQ26YpVgj1PbI08"
-      },
-      "artists": [
-        {
-          "name": "DOXX",
-          "url": "https://open.spotify.com/artist/1rlz0TbW8EjjvvOxPxoVsr"
-        }
-      ],
-      "duration_ms": 109357,
-      "name": "Ricordi",
-      "url": "https://open.spotify.com/track/6Zo9n6AT5BCQiwHNk0PaGE"
-    },
-    {
-      "added_at": "2023-04-18 07:22:02",
-      "album": {
         "name": "ME & YOU",
         "url": "https://open.spotify.com/album/1laFOBIGISoV3AtdDFTP9H"
       },
@@ -1079,6 +1063,22 @@
       "duration_ms": 145750,
       "name": "Attacco di Panico",
       "url": "https://open.spotify.com/track/16w3jEiUvbHNYtEajmzh86"
+    },
+    {
+      "added_at": "2023-04-18 07:22:02",
+      "album": {
+        "name": "Amor proprio",
+        "url": "https://open.spotify.com/album/6kk9gwIVQ26YpVgj1PbI08"
+      },
+      "artists": [
+        {
+          "name": "DOXX",
+          "url": "https://open.spotify.com/artist/1rlz0TbW8EjjvvOxPxoVsr"
+        }
+      ],
+      "duration_ms": 109357,
+      "name": "Ricordi",
+      "url": "https://open.spotify.com/track/6Zo9n6AT5BCQiwHNk0PaGE"
     },
     {
       "added_at": "2023-04-18 07:22:02",
@@ -1139,22 +1139,6 @@
     {
       "added_at": "2023-04-18 07:22:02",
       "album": {
-        "name": "Mille Pezzi",
-        "url": "https://open.spotify.com/album/6O9TdMLd0pOmHz8Sh690JF"
-      },
-      "artists": [
-        {
-          "name": "TB",
-          "url": "https://open.spotify.com/artist/1z2PiwIAFADDrAnR52LBkN"
-        }
-      ],
-      "duration_ms": 186474,
-      "name": "Mille Pezzi",
-      "url": "https://open.spotify.com/track/6t1XiG2eJ6MtchAdieG8Zn"
-    },
-    {
-      "added_at": "2023-04-18 07:22:02",
-      "album": {
         "name": "MOVIMENTO + THE DAY AFTER",
         "url": "https://open.spotify.com/album/6w8utzyBFKX2ynQyGMeWcG"
       },
@@ -1171,6 +1155,22 @@
       "duration_ms": 139773,
       "name": "I CAN FLY",
       "url": "https://open.spotify.com/track/2w16qcnjwjfBUvZRpGEC4b"
+    },
+    {
+      "added_at": "2023-04-18 07:22:02",
+      "album": {
+        "name": "Mille Pezzi",
+        "url": "https://open.spotify.com/album/6O9TdMLd0pOmHz8Sh690JF"
+      },
+      "artists": [
+        {
+          "name": "TB",
+          "url": "https://open.spotify.com/artist/1z2PiwIAFADDrAnR52LBkN"
+        }
+      ],
+      "duration_ms": 186474,
+      "name": "Mille Pezzi",
+      "url": "https://open.spotify.com/track/6t1XiG2eJ6MtchAdieG8Zn"
     },
     {
       "added_at": "2023-04-18 07:22:02",
@@ -1195,22 +1195,6 @@
     {
       "added_at": "2023-04-18 07:22:02",
       "album": {
-        "name": "Gemini",
-        "url": "https://open.spotify.com/album/3qPC7M1Bgd3yHvQi7PSzrK"
-      },
-      "artists": [
-        {
-          "name": "DOXX",
-          "url": "https://open.spotify.com/artist/1rlz0TbW8EjjvvOxPxoVsr"
-        }
-      ],
-      "duration_ms": 180763,
-      "name": "Backstage",
-      "url": "https://open.spotify.com/track/5V8XwjvqWbDB1B0r0aZ2Wi"
-    },
-    {
-      "added_at": "2023-04-18 07:22:02",
-      "album": {
         "name": "Dimmi se sbaglio",
         "url": "https://open.spotify.com/album/2NBmYkv65CNjS3n3ZCIirh"
       },
@@ -1227,6 +1211,22 @@
       "duration_ms": 135374,
       "name": "Dimmi se sbaglio",
       "url": "https://open.spotify.com/track/0fCl0Y3Ra4uwYXEBwYwcKT"
+    },
+    {
+      "added_at": "2023-04-18 07:22:02",
+      "album": {
+        "name": "Gemini",
+        "url": "https://open.spotify.com/album/3qPC7M1Bgd3yHvQi7PSzrK"
+      },
+      "artists": [
+        {
+          "name": "DOXX",
+          "url": "https://open.spotify.com/artist/1rlz0TbW8EjjvvOxPxoVsr"
+        }
+      ],
+      "duration_ms": 180763,
+      "name": "Backstage",
+      "url": "https://open.spotify.com/track/5V8XwjvqWbDB1B0r0aZ2Wi"
     },
     {
       "added_at": "2023-04-18 07:22:02",
@@ -1503,6 +1503,22 @@
     {
       "added_at": "2023-04-18 07:22:02",
       "album": {
+        "name": "Semiminime",
+        "url": "https://open.spotify.com/album/7FOxGawOinZ7qvpuCaxhdZ"
+      },
+      "artists": [
+        {
+          "name": "Rondine",
+          "url": "https://open.spotify.com/artist/0ybsH7NdFE3WlOIupTRm9l"
+        }
+      ],
+      "duration_ms": 129854,
+      "name": "Semiminime",
+      "url": "https://open.spotify.com/track/3gsiEFtWtn9juWtsYcDHXd"
+    },
+    {
+      "added_at": "2023-04-18 07:22:02",
+      "album": {
         "name": "LE PAROLE GIUSTE",
         "url": "https://open.spotify.com/album/224PJseyAs5K9VZTyuURcp"
       },
@@ -1519,22 +1535,6 @@
       "duration_ms": 167937,
       "name": "LE PAROLE GIUSTE",
       "url": "https://open.spotify.com/track/00lhPwTUbM0yZUmiHKCDNp"
-    },
-    {
-      "added_at": "2023-04-18 07:22:02",
-      "album": {
-        "name": "Semiminime",
-        "url": "https://open.spotify.com/album/7FOxGawOinZ7qvpuCaxhdZ"
-      },
-      "artists": [
-        {
-          "name": "Rondine",
-          "url": "https://open.spotify.com/artist/0ybsH7NdFE3WlOIupTRm9l"
-        }
-      ],
-      "duration_ms": 129854,
-      "name": "Semiminime",
-      "url": "https://open.spotify.com/track/3gsiEFtWtn9juWtsYcDHXd"
     },
     {
       "added_at": "2023-04-18 07:22:02",
@@ -1583,30 +1583,6 @@
     {
       "added_at": "2023-04-18 07:22:02",
       "album": {
-        "name": "Mille Gatti",
-        "url": "https://open.spotify.com/album/3lul0L0dQhpxFrgA4oudMB"
-      },
-      "artists": [
-        {
-          "name": "Lost Kids",
-          "url": "https://open.spotify.com/artist/5ly3ec0V7ETrC9fSvOX9G6"
-        },
-        {
-          "name": "Ayden Lau",
-          "url": "https://open.spotify.com/artist/3o7aFoRens3q0PemGHwM6X"
-        },
-        {
-          "name": "Close Listen",
-          "url": "https://open.spotify.com/artist/1nYewcxiLilP3ju14xOaov"
-        }
-      ],
-      "duration_ms": 164000,
-      "name": "Mille Gatti",
-      "url": "https://open.spotify.com/track/23hjyl5BiuPM5brnFrxIL5"
-    },
-    {
-      "added_at": "2023-04-18 07:22:02",
-      "album": {
         "name": "Io non voglio pi\u00f9 soffrire",
         "url": "https://open.spotify.com/album/4iNAV3bK4y8C9pyieAs4A1"
       },
@@ -1623,26 +1599,6 @@
       "duration_ms": 156378,
       "name": "Io non voglio pi\u00f9 soffrire",
       "url": "https://open.spotify.com/track/3SJLnQ1SAgXbxdyOp6oN6K"
-    },
-    {
-      "added_at": "2023-04-18 07:22:02",
-      "album": {
-        "name": "Non piover\u00e0 per sempre",
-        "url": "https://open.spotify.com/album/3frM2pLSKqH8CYoKXeKNXm"
-      },
-      "artists": [
-        {
-          "name": "Elteep",
-          "url": "https://open.spotify.com/artist/0eoUjdIgU7Heid0Mv3EjLB"
-        },
-        {
-          "name": "Lil Sanax",
-          "url": "https://open.spotify.com/artist/08kfcguo6aDqrugFck6JwI"
-        }
-      ],
-      "duration_ms": 189000,
-      "name": "Non piover\u00e0 per sempre",
-      "url": "https://open.spotify.com/track/2j6BQ5Q74ASnVFCWyDztTA"
     },
     {
       "added_at": "2023-04-18 07:22:02",
@@ -1671,6 +1627,26 @@
     {
       "added_at": "2023-04-18 07:22:02",
       "album": {
+        "name": "Non piover\u00e0 per sempre",
+        "url": "https://open.spotify.com/album/3frM2pLSKqH8CYoKXeKNXm"
+      },
+      "artists": [
+        {
+          "name": "Elteep",
+          "url": "https://open.spotify.com/artist/0eoUjdIgU7Heid0Mv3EjLB"
+        },
+        {
+          "name": "Lil Sanax",
+          "url": "https://open.spotify.com/artist/08kfcguo6aDqrugFck6JwI"
+        }
+      ],
+      "duration_ms": 189000,
+      "name": "Non piover\u00e0 per sempre",
+      "url": "https://open.spotify.com/track/2j6BQ5Q74ASnVFCWyDztTA"
+    },
+    {
+      "added_at": "2023-04-18 07:22:02",
+      "album": {
         "name": "Cosa Siamo Noi Ora",
         "url": "https://open.spotify.com/album/2FFF7L9KIYb1v5UtSuVhEJ"
       },
@@ -1683,6 +1659,30 @@
       "duration_ms": 149600,
       "name": "OPPOSTI",
       "url": "https://open.spotify.com/track/1x2Wwdt41BH7aCmMhH8ryv"
+    },
+    {
+      "added_at": "2023-04-18 07:22:02",
+      "album": {
+        "name": "Mille Gatti",
+        "url": "https://open.spotify.com/album/3lul0L0dQhpxFrgA4oudMB"
+      },
+      "artists": [
+        {
+          "name": "Lost Kids",
+          "url": "https://open.spotify.com/artist/5ly3ec0V7ETrC9fSvOX9G6"
+        },
+        {
+          "name": "Ayden Lau",
+          "url": "https://open.spotify.com/artist/3o7aFoRens3q0PemGHwM6X"
+        },
+        {
+          "name": "Close Listen",
+          "url": "https://open.spotify.com/artist/1nYewcxiLilP3ju14xOaov"
+        }
+      ],
+      "duration_ms": 164000,
+      "name": "Mille Gatti",
+      "url": "https://open.spotify.com/track/23hjyl5BiuPM5brnFrxIL5"
     },
     {
       "added_at": "2023-04-18 07:22:02",
@@ -1707,6 +1707,22 @@
     {
       "added_at": "2023-04-18 07:22:02",
       "album": {
+        "name": "nostalgia",
+        "url": "https://open.spotify.com/album/6MK8Grvo1obeWQThpRZ77E"
+      },
+      "artists": [
+        {
+          "name": "TB",
+          "url": "https://open.spotify.com/artist/1z2PiwIAFADDrAnR52LBkN"
+        }
+      ],
+      "duration_ms": 195638,
+      "name": "nostalgia",
+      "url": "https://open.spotify.com/track/0msorSiyF2W6XKAllxBYhX"
+    },
+    {
+      "added_at": "2023-04-18 07:22:02",
+      "album": {
         "name": "sai che...",
         "url": "https://open.spotify.com/album/6rSIRykSXswYGYZA0YFg9b"
       },
@@ -1723,22 +1739,6 @@
       "duration_ms": 160434,
       "name": "sai che...",
       "url": "https://open.spotify.com/track/4c6jiOliq2aRpdMW4RMKbH"
-    },
-    {
-      "added_at": "2023-04-18 07:22:02",
-      "album": {
-        "name": "nostalgia",
-        "url": "https://open.spotify.com/album/6MK8Grvo1obeWQThpRZ77E"
-      },
-      "artists": [
-        {
-          "name": "TB",
-          "url": "https://open.spotify.com/artist/1z2PiwIAFADDrAnR52LBkN"
-        }
-      ],
-      "duration_ms": 195638,
-      "name": "nostalgia",
-      "url": "https://open.spotify.com/track/0msorSiyF2W6XKAllxBYhX"
     },
     {
       "added_at": "2023-04-18 07:22:02",

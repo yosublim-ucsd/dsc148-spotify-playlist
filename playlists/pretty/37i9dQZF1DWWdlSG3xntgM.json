@@ -1,12 +1,12 @@
 {
   "description": "Nh\u1eefng nh\u1ea1c ph\u1ea9m \u0111i v\u00e0o l\u00f2ng ng\u01b0\u1eddi t\u1eeb nhi\u1ec1u th\u1ebf h\u1ec7. \u1ea2nh b\u00eca: Nh\u01b0 Qu\u1ef3nh",
-  "num_followers": 34262,
+  "num_followers": 34266,
   "original_name": "Bolero Tuy\u1ec7t Ph\u1ea9m",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkOGQ4NmEwZTFlYWFiNTg0NGE1ODA3NGNjMzYyMTU0ODVkNDE3NTVj",
+  "snapshot_id": "MTY3NDEwMDk2NywwMDAwMDAwMGU3ZWVmOTcyOTJiN2JkYThhYmI5NDYyZWJhMDNmMzk1",
   "tracks": [
     {
       "added_at": "2023-01-19 04:02:47",
@@ -611,38 +611,6 @@
     {
       "added_at": "2023-01-19 04:02:47",
       "album": {
-        "name": "\u0110\u1eafp M\u1ed9 Cu\u1ed9c T\u00ecnh",
-        "url": "https://open.spotify.com/album/06gVRXKGJdHRRWHq9acZH6"
-      },
-      "artists": [
-        {
-          "name": "Quang L\u1eadp",
-          "url": "https://open.spotify.com/artist/6PORUlK3pnUDFJi2tyYVsZ"
-        }
-      ],
-      "duration_ms": 335189,
-      "name": "\u0110\u1eafp m\u1ed9 cu\u1ed9c t\u00ecnh",
-      "url": "https://open.spotify.com/track/3T5ebvfNzgtvFzi1CuKKui"
-    },
-    {
-      "added_at": "2023-01-19 04:02:47",
-      "album": {
-        "name": "7000 \u0110\u00eam G\u00f3p L\u1ea1i",
-        "url": "https://open.spotify.com/album/04O1fXXjgeAolM0IrG9Bq8"
-      },
-      "artists": [
-        {
-          "name": "Quang Le",
-          "url": "https://open.spotify.com/artist/2PQLOJKDN5j1q0q3xltIk8"
-        }
-      ],
-      "duration_ms": 288925,
-      "name": "Xu\u00e2n N\u00e0y Con V\u1ec1 M\u1eb9 \u1ede \u0110\u00e2u?",
-      "url": "https://open.spotify.com/track/4WTxlwgBTqJ5dilU8zhfbj"
-    },
-    {
-      "added_at": "2023-01-19 04:02:47",
-      "album": {
         "name": "Best of Tr\u01b0\u1eddng V\u0169",
         "url": "https://open.spotify.com/album/2CkD43gESVfM5A3KmMtssU"
       },
@@ -663,6 +631,38 @@
       "duration_ms": 356240,
       "name": "Lk Ngh\u00e8o",
       "url": "https://open.spotify.com/track/3bUr4wVFdUUWcmqTDyqNXX"
+    },
+    {
+      "added_at": "2023-01-19 04:02:47",
+      "album": {
+        "name": "7000 \u0110\u00eam G\u00f3p L\u1ea1i",
+        "url": "https://open.spotify.com/album/04O1fXXjgeAolM0IrG9Bq8"
+      },
+      "artists": [
+        {
+          "name": "Quang Le",
+          "url": "https://open.spotify.com/artist/2PQLOJKDN5j1q0q3xltIk8"
+        }
+      ],
+      "duration_ms": 288925,
+      "name": "Xu\u00e2n N\u00e0y Con V\u1ec1 M\u1eb9 \u1ede \u0110\u00e2u?",
+      "url": "https://open.spotify.com/track/4WTxlwgBTqJ5dilU8zhfbj"
+    },
+    {
+      "added_at": "2023-01-19 04:02:47",
+      "album": {
+        "name": "\u0110\u1eafp M\u1ed9 Cu\u1ed9c T\u00ecnh",
+        "url": "https://open.spotify.com/album/06gVRXKGJdHRRWHq9acZH6"
+      },
+      "artists": [
+        {
+          "name": "Quang L\u1eadp",
+          "url": "https://open.spotify.com/artist/6PORUlK3pnUDFJi2tyYVsZ"
+        }
+      ],
+      "duration_ms": 335189,
+      "name": "\u0110\u1eafp m\u1ed9 cu\u1ed9c t\u00ecnh",
+      "url": "https://open.spotify.com/track/3T5ebvfNzgtvFzi1CuKKui"
     },
     {
       "added_at": "2023-01-19 04:02:47",

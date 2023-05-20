@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8yrIP4lAga8.md) - [plain]
 
 > The best Piano House tracks out now.
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,810 likes - 50 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,840 likes - 50 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,11 +14,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8yrIP4lAga8.md) - [plain]
 | 4 | [Pjanoo \- Radio Edit](https://open.spotify.com/track/0F2BxpbxH8Yc3pLub48hrb) | [Eric Prydz](https://open.spotify.com/artist/5sm0jQ1mq0dusiLtDJ2b4R) | [Pjanoo](https://open.spotify.com/album/7zlMxh1NR0Shklu48L4e7x) | 2:37 |
 | 5 | [Summer 91 \(Looking Back\)](https://open.spotify.com/track/4FEcEwbE2vsqhxbTPtiNTL) | [Noizu](https://open.spotify.com/artist/3VRyybsQu0MDG0F2LBxnv7) | [Summer 91 \(Looking Back\)](https://open.spotify.com/album/4QCh5emLRWuIg8CUzprNXm) | 3:00 |
 | 6 | [Switch It](https://open.spotify.com/track/2wOPoAiNCFiIWBKpUxyUUL) | [Robbie Rivera](https://open.spotify.com/artist/4bYwbb6k4ujHD2NXRxSwRP) | [Switch It](https://open.spotify.com/album/6CVpSsEWucJQ0bG9R9Px6f) | 3:18 |
-| 7 | [Mad Love \- Blinkie Remix](https://open.spotify.com/track/5qiQbOa6AFEO3P111y9Jry) | [Mabel](https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4), [Blinkie](https://open.spotify.com/artist/0nJcDqY6ox4kHB92AuRA8j) | [Mad Love \(Remixes\)](https://open.spotify.com/album/0o9d312clt8gVtz1uZZkBW) | 3:20 |
-| 8 | [Sleepless](https://open.spotify.com/track/0AQ1twwDGVlIVpcHDkGkXD) | [D.O.D](https://open.spotify.com/artist/0Cs47vvRsPgEfliBU9KDiB) | [Sleepless](https://open.spotify.com/album/4YnRwV3h9R5SrDyp3PYUYH) | 3:05 |
+| 7 | [Sleepless](https://open.spotify.com/track/0AQ1twwDGVlIVpcHDkGkXD) | [D.O.D](https://open.spotify.com/artist/0Cs47vvRsPgEfliBU9KDiB) | [Sleepless](https://open.spotify.com/album/4YnRwV3h9R5SrDyp3PYUYH) | 3:05 |
+| 8 | [Mad Love \- Blinkie Remix](https://open.spotify.com/track/5qiQbOa6AFEO3P111y9Jry) | [Mabel](https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4), [Blinkie](https://open.spotify.com/artist/0nJcDqY6ox4kHB92AuRA8j) | [Mad Love \(Remixes\)](https://open.spotify.com/album/0o9d312clt8gVtz1uZZkBW) | 3:20 |
 | 9 | [Mirrors \(feat\. Stee Downes\)](https://open.spotify.com/track/3PmclnSYRASSXiZrLLfnYy) | [System.Inc](https://open.spotify.com/artist/5CfCAv52QCxLv9bdlGIyUD), [Stee Downes](https://open.spotify.com/artist/1REIcVUKiv1NcVivFm1ufJ) | [Mirrors \(feat\. Stee Downes\)](https://open.spotify.com/album/138sW0b2HrKKwMG0QVyg8j) | 3:08 |
-| 10 | [17](https://open.spotify.com/track/15DwFznkBJir7AK9PyMyRR) | [MK](https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9) | [17](https://open.spotify.com/album/0K1826JxL1dViQBsEKApN5) | 3:16 |
-| 11 | [Ride on Time](https://open.spotify.com/track/3pgainA2dH9c7e8JVYGRCN) | [Black Box](https://open.spotify.com/artist/6tsRo8ErXzpHk3tQeH6GBW) | [Dreamland](https://open.spotify.com/album/6r4vIr4aUsK00mGHDiQkrl) | 4:32 |
+| 10 | [Ride on Time](https://open.spotify.com/track/3pgainA2dH9c7e8JVYGRCN) | [Black Box](https://open.spotify.com/artist/6tsRo8ErXzpHk3tQeH6GBW) | [Dreamland](https://open.spotify.com/album/6r4vIr4aUsK00mGHDiQkrl) | 4:32 |
+| 11 | [17](https://open.spotify.com/track/15DwFznkBJir7AK9PyMyRR) | [MK](https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9) | [17](https://open.spotify.com/album/0K1826JxL1dViQBsEKApN5) | 3:16 |
 | 12 | [Let Your Body Go \- Franky Rizardo Remix](https://open.spotify.com/track/7yog2qefQd2DhIQro3Z4kD) | [Look Out](https://open.spotify.com/artist/2MJ4YugDpZPS59bDyiudn8), [Franky Rizardo](https://open.spotify.com/artist/2UgphhGSlC9QWgaZWUOCkl) | [Nervous Records 30 Years](https://open.spotify.com/album/5zU0v0RiNqfbqyVUBKz0KH) | 5:33 |
 | 13 | [Feel My Needs \- Purple Disco Machine Remix](https://open.spotify.com/track/3RiRFyvasDtAv8n0AQUKFG) | [WEISS](https://open.spotify.com/artist/0FBRY66KVaAiddGVefikLB), [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4) | [Feel My Needs \(Purple Disco Machine Remix\)](https://open.spotify.com/album/6mNS1Ud3X58uDBksuGAlAQ) | 3:50 |
 | 14 | [Stop This Flame \- Celeste x MK](https://open.spotify.com/track/3FN7IJMnUMWZXDw08ix3ot) | [Celeste](https://open.spotify.com/artist/49HlOY4gkHqsYG9GCuhkcc), [MK](https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9) | [Stop This Flame \(Celeste x MK\)](https://open.spotify.com/album/1G6SH7CRZ5qtYVaGnUVhSK) | 3:23 |
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8yrIP4lAga8.md) - [plain]
 | 39 | [There For You](https://open.spotify.com/track/4Qv71lFPCObf7zol1uWCJb) | [Gorgon City](https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx), [MK](https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9) | [There For You](https://open.spotify.com/album/6NzQodogOTKSt76iDpZgpK) | 3:06 |
 | 40 | [Life Goes On \(feat\. Alex Hosking\)](https://open.spotify.com/track/4toYTJxK1Q7uNkzeFzKJuu) | [PS1](https://open.spotify.com/artist/7bZGP9ijvv55LOENT634Mj), [Alex Hosking](https://open.spotify.com/artist/5YCU9eHY4IYTyNa8XRFuw9) | [Life Goes On \(feat\. Alex Hosking\)](https://open.spotify.com/album/0WgBLUvAYN7cI1ioJtPKZR) | 2:49 |
 | 41 | [Both Of Us](https://open.spotify.com/track/7q584VOAZLMPaIQ9pedKFl) | [Jayda G](https://open.spotify.com/artist/3NKVm2Jedcf6ibJr6pMUVx) | [Both Of Us](https://open.spotify.com/album/6tKMQ3udmP1PErZYHKXnqA) | 5:53 |
-| 42 | [Closer \(feat\. Lilly Ahlberg\)](https://open.spotify.com/track/5FDdviWQzhw7NWH2TiDl9d) | [Sonny Fodera](https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP), [Just Kiddin](https://open.spotify.com/artist/4bazJLWIv8CuqmgxJRiGqo), [Lilly Ahlberg](https://open.spotify.com/artist/2s8bgT1CE6KOA0a2omeCDk) | [Closer \(feat\. Lilly Ahlberg\)](https://open.spotify.com/album/17qrrXvZu8TdkH4xrIjaRr) | 2:49 |
-| 43 | [Make Luv](https://open.spotify.com/track/0X0jMAZeR8xSlghtq5s4Ol) | [Jay Pryor](https://open.spotify.com/artist/1ZUpQr4VSnnP86WbaRRMpd) | [Make Luv](https://open.spotify.com/album/6B2CgdSfnLOJ07PRSLdYLy) | 2:48 |
+| 42 | [Make Luv](https://open.spotify.com/track/0X0jMAZeR8xSlghtq5s4Ol) | [Jay Pryor](https://open.spotify.com/artist/1ZUpQr4VSnnP86WbaRRMpd) | [Make Luv](https://open.spotify.com/album/6B2CgdSfnLOJ07PRSLdYLy) | 2:48 |
+| 43 | [Closer \(feat\. Lilly Ahlberg\)](https://open.spotify.com/track/5FDdviWQzhw7NWH2TiDl9d) | [Sonny Fodera](https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP), [Just Kiddin](https://open.spotify.com/artist/4bazJLWIv8CuqmgxJRiGqo), [Lilly Ahlberg](https://open.spotify.com/artist/2s8bgT1CE6KOA0a2omeCDk) | [Closer \(feat\. Lilly Ahlberg\)](https://open.spotify.com/album/17qrrXvZu8TdkH4xrIjaRr) | 2:49 |
 | 44 | [Simple Hit](https://open.spotify.com/track/1WRYsNOdajLvZ1qLP1op73) | [Dombresky](https://open.spotify.com/artist/2GVtgxcx7jg5xVCZsIHSGN) | [Simple Hit](https://open.spotify.com/album/69nHxXntI0fz61QeB9n4On) | 3:39 |
 | 45 | [Ngixolele](https://open.spotify.com/track/7jeXFt3u9o8PveE4CHSOs0) | [Busta 929](https://open.spotify.com/artist/2TcrjcSngRPpgZxmIlPdym), [Boohle](https://open.spotify.com/artist/6fHE8xZBCxzwer9DIbOmv4) | [Umsebenzi Wethu, Vol\. 2](https://open.spotify.com/album/3pA1oYHkNliSJVD7JxIIoV) | 6:17 |
 | 46 | [I Luv U Baby \- Edit](https://open.spotify.com/track/0g9OCw6sY9ZLRA5KxRkcIQ) | [The Original](https://open.spotify.com/artist/2IwjkUrnzXsfgXkvUtZYKH), [Walter Taieb](https://open.spotify.com/artist/67h9I9xLu9KPydQoldwCyL) | [I Luv U Baby](https://open.spotify.com/album/2hqKNctlSpTAdngdaU7lqf) | 3:33 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8yrIP4lAga8.md) - [plain]
 | 49 | [Passion \- Naked Edit](https://open.spotify.com/track/0ZBPWoRkfZ8SLcDJaFnkUu) | [Gat Decor](https://open.spotify.com/artist/6wbsiIvg0rsbL9JlLAH9GA) | [Passion](https://open.spotify.com/album/4F74H7yribKYcseNcUvgv5) | 4:22 |
 | 50 | [Sweet Harmony](https://open.spotify.com/track/2P79o8njc5X9NbgiGbRwpx) | [Liquid](https://open.spotify.com/artist/4wxJRtX2kEmKXtr0mMzHr9) | [Sweet Harmony](https://open.spotify.com/album/2SyBDNNhCrhgxQDBCvNcZ3) | 4:22 |
 
-Snapshot ID: `MCwwYTAxM2JjMjA5N2NkNWRjMzI4ODFlNzgyZjZlMGE0YzNiN2RiMzhm`
+Snapshot ID: `MCw4ZTZiZjZjMzVlYjJhOWVkMGRiZmM5ODhhNzU0MjgwMTY0MjZhMzU3`

@@ -4,7 +4,7 @@
 
 > For the pain, tears and heartbreak.
 
-122 songs - 6 hr 37 min
+123 songs - 6 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,10 +41,11 @@
 | [Efya\-Am In Luv With U\(prod\. By Killbeatz\) \(feat\. Efya\)](https://open.spotify.com/track/0pE5QY5MzbQZ4LxrBBnOny) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Efya](https://open.spotify.com/artist/1dlInrJwE0KSP9hZ0ALsI6) | [Rapperholic](https://open.spotify.com/album/2c6XAeiIU3sxO3aMvPy7SK) | 5:45 | 2022-02-11 | 2022-07-28 |
 | [Emotions](https://open.spotify.com/track/6Kh0SVrpJkEWbOGtFKAKFB) | [Dami Oniru](https://open.spotify.com/artist/0WwZMQoxKjgOOicFhd08yx) | [Matter of Time](https://open.spotify.com/album/0sVpDSPL1inRRowIw7YI6g) | 2:54 | 2022-11-04 | 2022-11-25 |
 | [End In Tears](https://open.spotify.com/track/3QWxg553C2BMCP3jIX8iLY) | [KiDi](https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V) | [Blue](https://open.spotify.com/album/3dHnvFaf3fJFPqCOjzWURD) | 2:51 | 2022-02-11 | 2022-07-29 |
-| [Everything \(feat\. Stonebwoy\)](https://open.spotify.com/track/4DQUYxDUePsa8ZGLQWYXc5) | [Jah Cure](https://open.spotify.com/artist/1bSn5aMcE83TXLlLDU9rTy), [Stonebwoy](https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq) | [Everything \(feat\. Stonebwoy\)](https://open.spotify.com/album/5SsU6nRNTKpbmMB2sCk6XC) | 2:48 | 2023-02-10 |  |
+| [Everything \(feat\. Stonebwoy\)](https://open.spotify.com/track/4DQUYxDUePsa8ZGLQWYXc5) | [Jah Cure](https://open.spotify.com/artist/1bSn5aMcE83TXLlLDU9rTy), [Stonebwoy](https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq) | [Everything \(feat\. Stonebwoy\)](https://open.spotify.com/album/5SsU6nRNTKpbmMB2sCk6XC) | 2:48 | 2023-02-10 | 2023-05-20 |
 | [EX BOYFRIEND](https://open.spotify.com/track/3pcITc6cPAvj5JtOnXiB1X) | [Raybekah](https://open.spotify.com/artist/0SwPkNmxB2YGHWVJMI8kpW) | [EX BOYFRIEND](https://open.spotify.com/album/1OVZQ2AGHb6fQM0CFAviQq) | 2:14 | 2022-06-30 |  |
 | [Fun for Love](https://open.spotify.com/track/3doWW3a8etr8hhVSJXYhFv) | [Davolee](https://open.spotify.com/artist/5sw96lcKm8tdmqudO4AJ8a), [Otega](https://open.spotify.com/artist/08Fcm7JKxT1qummaWUzavs) | [Fun for Love](https://open.spotify.com/album/3SHD5LOEnhMsJqwEoozkbQ) | 2:38 | 2023-03-17 |  |
 | [Gentility](https://open.spotify.com/track/3vXFxsPqMgw4SYP7fkWicM) | [melvitto](https://open.spotify.com/artist/4Xj0nxVO4r7PLEaw7LRiBa), [Wande Coal](https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla) | [Gentility \(feat\. Wande Coal\)](https://open.spotify.com/album/6v8LdWReU2z42hUXe7VdMg) | 3:45 | 2022-04-25 |  |
+| [Gone Back](https://open.spotify.com/track/1SfzUZfk6wiNqJNWv0dz9u) | [Raybekah](https://open.spotify.com/artist/0SwPkNmxB2YGHWVJMI8kpW) | [Gone Back](https://open.spotify.com/album/5TGbLOhXDrvgJhzSiobOSo) | 2:36 | 2023-05-19 |  |
 | [Goodbye](https://open.spotify.com/track/2GBVICsaRyuQ2RBmCXin9J) | [GoodGirl LA](https://open.spotify.com/artist/62HQP03xtoXexSY1Kp0cdS) | [Goodbye](https://open.spotify.com/album/7ghHUmv50N6eSegtCyCqnZ) | 3:44 | 2022-03-18 |  |
 | [Goodbye](https://open.spotify.com/track/6tFDS5LKWQbUFm0vZrhmvO) | [Shilexy](https://open.spotify.com/artist/7syExwVSn7jcM9VWQNU33d), [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM) | [Goodbye](https://open.spotify.com/album/11Um6mbX3Mi0syR6IpDKqm) | 3:06 | 2023-02-23 | 2023-03-18 |
 | [Hate That I Love](https://open.spotify.com/track/2mYrLsa22EXcfhGzhB4Wvu) | [Idahams](https://open.spotify.com/artist/6jPVueiSr0OHgVetuTuv5O), [Xenia Manasseh](https://open.spotify.com/artist/2J4IvVbi2h1wB2A0p5kd86) | [Truth, Love & Confessions \(TLC\)](https://open.spotify.com/album/2nOd8tXJrNXIFw96EqwLb5) | 2:45 | 2022-09-19 | 2022-11-19 |

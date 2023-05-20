@@ -1,12 +1,12 @@
 {
   "description": "Get pumped, feel the vibe and get ready for the swell coming in.",
-  "num_followers": 17300,
+  "num_followers": 17305,
   "original_name": "Sun & Surf",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmODczYzk1MzM4OTQ0MTMwN2Y5ZjY2Njk5OWY1MDczM2VhMmNjMzAy",
+  "snapshot_id": "MCw0ZTFkZjY0NDYzNDY5MzE5YTVjZTY2ZDNhMGZhYTU4ODA4ZjM5MzEz",
   "tracks": [
     {
       "added_at": "2021-04-09 06:19:31",
@@ -299,22 +299,6 @@
     {
       "added_at": "2021-04-09 06:19:31",
       "album": {
-        "name": "Sad Boys",
-        "url": "https://open.spotify.com/album/3BxuW4fI9ScjP9dr5BMd8C"
-      },
-      "artists": [
-        {
-          "name": "Surf Curse",
-          "url": "https://open.spotify.com/artist/1gl0S9pS0Zw0qfa14rDD3D"
-        }
-      ],
-      "duration_ms": 159198,
-      "name": "I'm Not Making out With You",
-      "url": "https://open.spotify.com/track/7k7LglMYwTTM6P7Bnqlu1N"
-    },
-    {
-      "added_at": "2021-04-09 06:19:31",
-      "album": {
         "name": "Allah-Las",
         "url": "https://open.spotify.com/album/38lCUdjREYv0ugODkoBif0"
       },
@@ -327,6 +311,22 @@
       "duration_ms": 212986,
       "name": "Catamaran",
       "url": "https://open.spotify.com/track/4H0KLsPpr5atperrHGfz3x"
+    },
+    {
+      "added_at": "2021-04-09 06:19:31",
+      "album": {
+        "name": "Sad Boys",
+        "url": "https://open.spotify.com/album/3BxuW4fI9ScjP9dr5BMd8C"
+      },
+      "artists": [
+        {
+          "name": "Surf Curse",
+          "url": "https://open.spotify.com/artist/1gl0S9pS0Zw0qfa14rDD3D"
+        }
+      ],
+      "duration_ms": 159198,
+      "name": "I'm Not Making out With You",
+      "url": "https://open.spotify.com/track/7k7LglMYwTTM6P7Bnqlu1N"
     },
     {
       "added_at": "2021-04-09 06:19:31",
@@ -555,18 +555,18 @@
     {
       "added_at": "2021-04-09 06:19:31",
       "album": {
-        "name": "FIDLAR",
-        "url": "https://open.spotify.com/album/33D9P5ywquFzDqx30JxCxs"
+        "name": "Evil Friends",
+        "url": "https://open.spotify.com/album/6VoOCCv0bXPrTHDncJyIgF"
       },
       "artists": [
         {
-          "name": "FIDLAR",
-          "url": "https://open.spotify.com/artist/3P6duIn7oHeiBACZfYeNud"
+          "name": "Portugal. The Man",
+          "url": "https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T"
         }
       ],
-      "duration_ms": 134026,
-      "name": "No Waves",
-      "url": "https://open.spotify.com/track/5vw6mb5UUdA3vVQfcFN8yA"
+      "duration_ms": 233146,
+      "name": "Creep in a T-Shirt",
+      "url": "https://open.spotify.com/track/1lpN3qsugqtMR49xwzHYnt"
     },
     {
       "added_at": "2021-04-09 06:19:31",
@@ -587,18 +587,18 @@
     {
       "added_at": "2021-04-09 06:19:31",
       "album": {
-        "name": "Evil Friends",
-        "url": "https://open.spotify.com/album/6VoOCCv0bXPrTHDncJyIgF"
+        "name": "FIDLAR",
+        "url": "https://open.spotify.com/album/33D9P5ywquFzDqx30JxCxs"
       },
       "artists": [
         {
-          "name": "Portugal. The Man",
-          "url": "https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T"
+          "name": "FIDLAR",
+          "url": "https://open.spotify.com/artist/3P6duIn7oHeiBACZfYeNud"
         }
       ],
-      "duration_ms": 233146,
-      "name": "Creep in a T-Shirt",
-      "url": "https://open.spotify.com/track/1lpN3qsugqtMR49xwzHYnt"
+      "duration_ms": 134026,
+      "name": "No Waves",
+      "url": "https://open.spotify.com/track/5vw6mb5UUdA3vVQfcFN8yA"
     },
     {
       "added_at": "2021-04-09 06:19:31",

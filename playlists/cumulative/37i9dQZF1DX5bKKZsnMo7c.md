@@ -4,7 +4,7 @@
 
 > All eyes on you\. Cover: Bo Burnham
 
-239 songs - 13 hr 3 min
+240 songs - 13 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -88,7 +88,7 @@
 | [Fictional Men](https://open.spotify.com/track/71TpZr9DjZqTMNMMSBYh8d) | [PEGGY](https://open.spotify.com/artist/1E6ADXoD9nUhFEwKgwjEdh) | [Fictional Men](https://open.spotify.com/album/25JqctJNXlVTfu1ciNY0gK) | 2:16 | 2023-04-28 |  |
 | [First Love / Late Spring](https://open.spotify.com/track/3sslYZcFKtUvIEWN9lADgr) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Bury Me At Makeout Creek](https://open.spotify.com/album/3I2KkX13lHXuYqfBjSOopo) | 4:38 | 2022-05-17 | 2022-12-10 |
 | [Flight of the Crows](https://open.spotify.com/track/0gW6KLC4W6vChWUHucb69N) | [Jhariah](https://open.spotify.com/artist/5iMYu8Sj8dZEDsWJxSFwPP) | [A BEGINNER'S GUIDE TO FAKING YOUR DEATH](https://open.spotify.com/album/6LLqwrFRS3rgwKVCRBYGYy) | 2:38 | 2022-05-17 | 2022-06-02 |
-| [Flying Fish](https://open.spotify.com/track/5DGHfcMOCzfxiJnhybJHov) | [Sion](https://open.spotify.com/artist/2dEBKqLtvdFTnPcwpWEw0r) | [Flying Fish](https://open.spotify.com/album/2Q5XpQhGIyRB5TUHTqkWQl) | 3:01 | 2023-02-02 |  |
+| [Flying Fish](https://open.spotify.com/track/5DGHfcMOCzfxiJnhybJHov) | [Sion](https://open.spotify.com/artist/2dEBKqLtvdFTnPcwpWEw0r) | [Flying Fish](https://open.spotify.com/album/2Q5XpQhGIyRB5TUHTqkWQl) | 3:01 | 2023-02-02 | 2023-05-20 |
 | [Fragile](https://open.spotify.com/track/1s4bn1Oi01ujaWZKL4DaRq) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Fragile](https://open.spotify.com/album/7CsiXsvAVntWacovB9G4uL) | 4:01 | 2022-06-03 | 2022-06-11 |
 | [Friends to Lovers](https://open.spotify.com/track/5ULZl3hedO1I4zMEjpZL3i) | [Melina KB](https://open.spotify.com/artist/2bFguwibp03RkAAuC9oYrP) | [Friends to Lovers](https://open.spotify.com/album/45lO8Bqhl9aA2AFWNuAg7e) | 2:23 | 2022-06-24 | 2022-07-12 |
 | [Fuck It](https://open.spotify.com/track/6n4dJjCThR7Gb9A5DXr1xj) | [Rio Romeo](https://open.spotify.com/artist/22y08IZx7u6SWpsfap1Cub) | [Fuck It](https://open.spotify.com/album/4JGzX9sAYsqg0mOp0pegoA) | 1:48 | 2022-05-17 | 2022-07-25 |
@@ -146,7 +146,7 @@
 | [Like or Like Like](https://open.spotify.com/track/1OrD9RkuBnoNrrURFap9wi) | [Miniature Tigers](https://open.spotify.com/artist/7xWU2A2lw1xf4zTjKhkrGK) | [Tell It to the Volcano](https://open.spotify.com/album/7JNBcWEv23JuyxNmDjR8ov) | 2:38 | 2022-10-21 | 2023-01-07 |
 | [Like or Like Like](https://open.spotify.com/track/2laAFvo3q3GIcXX7Ql8OeD) | [Miniature Tigers](https://open.spotify.com/artist/7xWU2A2lw1xf4zTjKhkrGK) | [Tell It to the Volcano](https://open.spotify.com/album/6LVXJslQ2aT7xyIBnDsXXj) | 2:38 | 2022-09-20 | 2022-12-04 |
 | [LOVE](https://open.spotify.com/track/45smSZnjWu1Btd1VJTeWB6) | [PEGGY](https://open.spotify.com/artist/1E6ADXoD9nUhFEwKgwjEdh) | [LOVE](https://open.spotify.com/album/0x93UKf60HK7bzVUlnTJP4) | 2:52 | 2022-11-16 | 2023-01-21 |
-| [LOVE](https://open.spotify.com/track/5bDO9izGDQj7bdaSgxEBGQ) | [PEGGY](https://open.spotify.com/artist/1E6ADXoD9nUhFEwKgwjEdh) | [LOVE](https://open.spotify.com/album/6JumRmPGOfqn16ilEmi9Ht) | 2:52 | 2022-11-16 |  |
+| [LOVE](https://open.spotify.com/track/5bDO9izGDQj7bdaSgxEBGQ) | [PEGGY](https://open.spotify.com/artist/1E6ADXoD9nUhFEwKgwjEdh) | [LOVE](https://open.spotify.com/album/6JumRmPGOfqn16ilEmi9Ht) | 2:52 | 2022-11-16 | 2023-05-20 |
 | [Love Letter From The Sea to The Shore](https://open.spotify.com/track/2uPFYzZXZSgIP6AHKneCLT) | [Delaney Bailey](https://open.spotify.com/artist/3Os4q49SgEN0Tv3fxKw3Sp) | [Love Letter From The Sea to The Shore](https://open.spotify.com/album/5OTyzmAOlaJviW3PhFsxz0) | 3:11 | 2022-09-02 | 2022-12-10 |
 | [Love of My Life](https://open.spotify.com/track/1NqfSrgNQxrsSVjza5vO9a) | [Leanna Firestone](https://open.spotify.com/artist/31431J9PD3bfNsPKkezt0d) | [Public Displays of Affection](https://open.spotify.com/album/1WaRQUZdZNe5BYyOxLFenk) | 2:55 | 2023-01-20 | 2023-02-04 |
 | [Love of My Life](https://open.spotify.com/track/7c8wJ1DIFvM9e7bHIpgP7a) | [Leanna Firestone](https://open.spotify.com/artist/31431J9PD3bfNsPKkezt0d) | [Public Displays of Affection](https://open.spotify.com/album/12yCH8wFhPPW0cUCFpC8DQ) | 2:55 | 2023-01-27 | 2023-03-16 |
@@ -165,6 +165,7 @@
 | [My Alcoholic Friends](https://open.spotify.com/track/2gvmxusSOe3vNjNDjQWaso) | [The Dresden Dolls](https://open.spotify.com/artist/5JqX1glXPg6428ubI1w72i) | [Yes, Virginia](https://open.spotify.com/album/1jcVHOTgDFDb5nLh2wTCaR) | 2:47 | 2022-05-17 |  |
 | [My R](https://open.spotify.com/track/4Li4x03VzGLRZW5B6hv0Xt) | [Lollia](https://open.spotify.com/artist/0TCuSgJzNaRyxjbvvLjBK3) | [My R](https://open.spotify.com/album/7HbKsuGxSH4WsAK3vIaPec) | 3:34 | 2022-06-07 | 2022-12-10 |
 | [My Time](https://open.spotify.com/track/0wZUJxxybEiafs0BIg9SAP) | [bo en](https://open.spotify.com/artist/1EotkJocwHvhFOAsoOj1jJ) | [Pale Machine](https://open.spotify.com/album/1a2UnYDnfK25QJKfgHNHnu) | 5:13 | 2022-05-17 | 2022-06-25 |
+| [Never Ending Song](https://open.spotify.com/track/5BI0zQZciyoQfJxsu8CIn9) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Never Ending Song](https://open.spotify.com/album/3W1oy5zLsQU5GD68AIM8HI) | 2:35 | 2023-05-19 |  |
 | [Never Felt So Alone](https://open.spotify.com/track/2NbsBSshscKIPRG3kwBbfo) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [Never Felt So Alone](https://open.spotify.com/album/33JqWTchq6piiQddrRIvJX) | 2:40 | 2023-04-12 | 2023-04-29 |
 | [News At 9](https://open.spotify.com/track/2ezY94QlqbDG0aYgKnpy9C) | [Peter McPoland](https://open.spotify.com/artist/23E65IfLBGQv0FBrMwCcG2) | [Slow Down](https://open.spotify.com/album/5DetXihzyXyvc9JDXaQsCU) | 3:13 | 2022-06-07 | 2022-12-10 |
 | [News At 9](https://open.spotify.com/track/4ve3XvrdiYbKeDZ1QdeBU7) | [Peter McPoland](https://open.spotify.com/artist/23E65IfLBGQv0FBrMwCcG2) | [News At 9](https://open.spotify.com/album/7xc9xUwYtVKNIA2DEx51ce) | 3:13 | 2022-05-17 | 2022-07-29 |
@@ -204,7 +205,7 @@
 | [She Wants Me \(To Be Loved\)](https://open.spotify.com/track/0owmJNkGcGNq4hb6qt3ufd) | [The Happy Fits](https://open.spotify.com/artist/73rPcaYEhBd0UuVZBqqyQJ) | [What Could Be Better](https://open.spotify.com/album/7FhH5nGululV6EAqwf6X0c) | 3:19 | 2022-07-07 | 2022-12-01 |
 | [She Wants Me \(To Be Loved\)](https://open.spotify.com/track/1yS9wpv8GW2c8tHC7P85JJ) | [The Happy Fits](https://open.spotify.com/artist/73rPcaYEhBd0UuVZBqqyQJ) | [What Could Be Better](https://open.spotify.com/album/4dsTxC7fUsAp3qjkf93QI1) | 3:19 | 2022-10-21 | 2023-02-17 |
 | [Should've Been Me](https://open.spotify.com/track/5FQ9NDyx3KZXhovWWq4Gxo) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Laurel Hell](https://open.spotify.com/album/4rcinMUHEWOxpIwJo2sf22) | 3:11 | 2022-05-17 |  |
-| [Sleeping in the Kitchen \(feat\. Addison Grace\)](https://open.spotify.com/track/0665FV7vuJskwGWIFIrFPB) | [Madilyn Mei](https://open.spotify.com/artist/3MHgwXo5vVzHqGMKWRoLer), [Addison Grace](https://open.spotify.com/artist/39EIRTZx1JjfeDLVdbj2ap) | [Sleeping in the Kitchen \(feat\. Addison Grace\)](https://open.spotify.com/album/4MFqzRvRBP8dPr1ffjT0J4) | 2:30 | 2023-04-28 | 2023-05-15 |
+| [Sleeping in the Kitchen \(feat\. Addison Grace\)](https://open.spotify.com/track/0665FV7vuJskwGWIFIrFPB) | [Madilyn Mei](https://open.spotify.com/artist/3MHgwXo5vVzHqGMKWRoLer), [Addison Grace](https://open.spotify.com/artist/39EIRTZx1JjfeDLVdbj2ap) | [Sleeping in the Kitchen \(feat\. Addison Grace\)](https://open.spotify.com/album/4MFqzRvRBP8dPr1ffjT0J4) | 2:30 | 2023-04-28 |  |
 | [Smitten](https://open.spotify.com/track/4ECcVxvtmcKyemj7GLu8V0) | [Leanna Firestone](https://open.spotify.com/artist/31431J9PD3bfNsPKkezt0d) | [Smitten](https://open.spotify.com/album/1nBm5rHMr2g9dqIU98OmcT) | 2:29 | 2022-05-17 | 2022-08-06 |
 | [Smitten / vulnerable](https://open.spotify.com/track/40BNw8gYwlfSp9eUsfzG8K) | [Leanna Firestone](https://open.spotify.com/artist/31431J9PD3bfNsPKkezt0d) | [Forward / Slash](https://open.spotify.com/album/2pBKpl9tmGPszEickvA8qi) | 3:52 | 2022-05-17 | 2022-12-10 |
 | [Soft Boy](https://open.spotify.com/track/1GqlrKuFFZwOKhULYTTeag) | [Wilbur Soot](https://open.spotify.com/artist/2XzXLjXRSeFtsic4ieyLJy) | [Soft Boy](https://open.spotify.com/album/7nTQSfMt2TSeUR0xOxjBG4) | 2:17 | 2022-10-06 |  |

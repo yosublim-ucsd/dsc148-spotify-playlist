@@ -1,28 +1,28 @@
 {
-  "description": "R&B of the moment by the artists of the future. Cover: Josh Levi",
-  "num_followers": 36698,
+  "description": "R&B of the moment by the artists of the future. Cover: Chxrry22",
+  "num_followers": 36752,
   "original_name": "R&B Rising",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2M2NkMTYxMmE5Y2Q3YjFjNjFjMmE1YjJmMzQ3OTgwMjM1MWQ3OGY1",
+  "snapshot_id": "MCxmMDhhNmZmMjE0YjNjMWQwZTljZTgyNDJjMjk2N2UwMmRiZTIzOTNk",
   "tracks": [
     {
-      "added_at": "2023-04-14 04:01:00",
+      "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "EGO",
-        "url": "https://open.spotify.com/album/2atwVyI6m16ix17vZKsCKc"
+        "name": "Worlds Away",
+        "url": "https://open.spotify.com/album/3PvGhm40m4E00G6hQiY4Q9"
       },
       "artists": [
         {
-          "name": "Josh Levi",
-          "url": "https://open.spotify.com/artist/6NvsNA4Ea62yJh7ePTS8gz"
+          "name": "Chxrry22",
+          "url": "https://open.spotify.com/artist/0SVd0yQpJ6xcZ3vTKXUaro"
         }
       ],
-      "duration_ms": 149743,
-      "name": "EGO",
-      "url": "https://open.spotify.com/track/7ACDlDGg8a9CsjrQk0OQov"
+      "duration_ms": 174077,
+      "name": "Worlds Away",
+      "url": "https://open.spotify.com/track/2PUsRFtW68RSwpNr4XjjKa"
     },
     {
       "added_at": "2023-05-05 05:18:45",
@@ -61,6 +61,38 @@
       "url": "https://open.spotify.com/track/40K5pLCfoUzZDWZwMFUZ7V"
     },
     {
+      "added_at": "2023-04-14 04:01:00",
+      "album": {
+        "name": "EGO",
+        "url": "https://open.spotify.com/album/2atwVyI6m16ix17vZKsCKc"
+      },
+      "artists": [
+        {
+          "name": "Josh Levi",
+          "url": "https://open.spotify.com/artist/6NvsNA4Ea62yJh7ePTS8gz"
+        }
+      ],
+      "duration_ms": 149743,
+      "name": "EGO",
+      "url": "https://open.spotify.com/track/7ACDlDGg8a9CsjrQk0OQov"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
+        "name": "Caught Me Running",
+        "url": "https://open.spotify.com/album/5uWKr1TIWN0m1i3JSDYBGP"
+      },
+      "artists": [
+        {
+          "name": "Ama Lou",
+          "url": "https://open.spotify.com/artist/2tAqnHDAgnGtjnlzyoa38L"
+        }
+      ],
+      "duration_ms": 194906,
+      "name": "Caught Me Running",
+      "url": "https://open.spotify.com/track/1uEkWNy4InUrjWZaIEJDwT"
+    },
+    {
       "added_at": "2023-03-24 04:00:00",
       "album": {
         "name": "SWITCH",
@@ -91,6 +123,26 @@
       "duration_ms": 130021,
       "name": "Sadboy",
       "url": "https://open.spotify.com/track/7I3ruC2uRcHSd5IYMkabSJ"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
+        "name": "Through The Night (feat. Free Nationals)",
+        "url": "https://open.spotify.com/album/1KUP4jLGY0Jil7j43w3dx8"
+      },
+      "artists": [
+        {
+          "name": "Maeta",
+          "url": "https://open.spotify.com/artist/2EwyKG76iX4Pp5HhAD6SKO"
+        },
+        {
+          "name": "Free Nationals",
+          "url": "https://open.spotify.com/artist/4596e2d3KmYzAeVenjCxfj"
+        }
+      ],
+      "duration_ms": 258023,
+      "name": "Through The Night (feat. Free Nationals)",
+      "url": "https://open.spotify.com/track/6rVomZSCiNuuJmVlpgfZkt"
     },
     {
       "added_at": "2023-05-12 04:54:08",
@@ -245,6 +297,22 @@
       "url": "https://open.spotify.com/track/1QxTmNDHFmgaxgAolqqgAD"
     },
     {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
+        "name": "Body Language",
+        "url": "https://open.spotify.com/album/6L1ekY8aBACrSliErW0bB3"
+      },
+      "artists": [
+        {
+          "name": "Chikoruss",
+          "url": "https://open.spotify.com/artist/3uZWq09EA6TKOR3wqJGVMx"
+        }
+      ],
+      "duration_ms": 203637,
+      "name": "Body Language",
+      "url": "https://open.spotify.com/track/0KTj4f42N812t5jfFto2CU"
+    },
+    {
       "added_at": "2023-03-24 04:00:00",
       "album": {
         "name": "Scorpio Moon",
@@ -259,6 +327,26 @@
       "duration_ms": 177371,
       "name": "Scorpio Moon",
       "url": "https://open.spotify.com/track/3IGuwQrpudC28e2gMgNjWj"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
+        "name": "Closure Tapes",
+        "url": "https://open.spotify.com/album/4rAj2yXfbuhHxR5ibpopF5"
+      },
+      "artists": [
+        {
+          "name": "Mnelia",
+          "url": "https://open.spotify.com/artist/4DDsQzXhKIC2F70cjMP7ec"
+        },
+        {
+          "name": "Jayla Darden",
+          "url": "https://open.spotify.com/artist/2FcXBEz4zZpJGNO8CSrchU"
+        }
+      ],
+      "duration_ms": 209385,
+      "name": "Lalala (feat. Jayla Darden)",
+      "url": "https://open.spotify.com/track/60H353jZUXCNj1ySTEDPdC"
     },
     {
       "added_at": "2023-05-12 04:54:08",
@@ -403,6 +491,38 @@
       "duration_ms": 163631,
       "name": "June 15th",
       "url": "https://open.spotify.com/track/6LikRE4RwaYvfm79UwEU3X"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
+        "name": "Why Not?",
+        "url": "https://open.spotify.com/album/16bPNUwUldGobpbBVylfKs"
+      },
+      "artists": [
+        {
+          "name": "Jastin Martin",
+          "url": "https://open.spotify.com/artist/44JW18XzNr86kKNWJq8eg1"
+        }
+      ],
+      "duration_ms": 164142,
+      "name": "Why Not?",
+      "url": "https://open.spotify.com/track/51e4HhSFWl3YZxsPTIfEJ4"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
+        "name": "Temporary Love",
+        "url": "https://open.spotify.com/album/7Ik6vXPyiM9jflElmt78cQ"
+      },
+      "artists": [
+        {
+          "name": "Xenia Manasseh",
+          "url": "https://open.spotify.com/artist/2J4IvVbi2h1wB2A0p5kd86"
+        }
+      ],
+      "duration_ms": 156213,
+      "name": "Temporary Love",
+      "url": "https://open.spotify.com/track/502fO9MaTL1FXQxilajwW8"
     },
     {
       "added_at": "2023-05-05 05:18:45",
@@ -555,22 +675,6 @@
       "duration_ms": 251501,
       "name": "Choose You",
       "url": "https://open.spotify.com/track/2aIG5oXcYSJPkmS1pybszQ"
-    },
-    {
-      "added_at": "2023-04-14 04:01:00",
-      "album": {
-        "name": "Hurt Before",
-        "url": "https://open.spotify.com/album/5Pp8b3ejvglrVW7D8EXOoV"
-      },
-      "artists": [
-        {
-          "name": "Jastin Martin",
-          "url": "https://open.spotify.com/artist/44JW18XzNr86kKNWJq8eg1"
-        }
-      ],
-      "duration_ms": 122086,
-      "name": "Hurt Before",
-      "url": "https://open.spotify.com/track/6uKF40bIepjLn6YajXpdw5"
     },
     {
       "added_at": "2023-04-07 04:00:00",
@@ -1263,22 +1367,6 @@
       "duration_ms": 183354,
       "name": "All For You",
       "url": "https://open.spotify.com/track/7rPWZTM7nnaySX8a6Pmeg7"
-    },
-    {
-      "added_at": "2022-12-02 05:00:00",
-      "album": {
-        "name": "Call Me",
-        "url": "https://open.spotify.com/album/07tCJvbsdpc1p38iHxcHyb"
-      },
-      "artists": [
-        {
-          "name": "Chxrry22",
-          "url": "https://open.spotify.com/artist/0SVd0yQpJ6xcZ3vTKXUaro"
-        }
-      ],
-      "duration_ms": 186685,
-      "name": "Call Me",
-      "url": "https://open.spotify.com/track/2zBTEnCCnHUn0MnxgqHWm3"
     },
     {
       "added_at": "2022-12-19 20:02:45",

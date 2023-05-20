@@ -1,12 +1,12 @@
 {
   "description": "The official 2020 VMAs playlist from MTV + Spotify. See more at <a href=\"http://www.mtv.com/vma\">vma.mtv.com</a> \ud83d\ude80",
-  "num_followers": 104996,
+  "num_followers": 104995,
   "original_name": "MTV VMAs",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjYWQ3MjAyZjkyZTgzMDQ2NGZjYzNiOGJjMmJjYWNlMTljNjIyYjQ3",
+  "snapshot_id": "MCxlMjFkMjAyZjZmMDJkZGY5NWVlNjYwMmRkZWQ2ZGY0MTFhZTNkZWRm",
   "tracks": [
     {
       "added_at": "2020-08-24 22:19:29",
@@ -735,22 +735,6 @@
     {
       "added_at": "2020-08-24 22:19:29",
       "album": {
-        "name": "Suga",
-        "url": "https://open.spotify.com/album/6Lo6ylJg4qbFfxicPEOzMI"
-      },
-      "artists": [
-        {
-          "name": "Megan Thee Stallion",
-          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
-        }
-      ],
-      "duration_ms": 155497,
-      "name": "Savage",
-      "url": "https://open.spotify.com/track/55CHeLEfn5iJ0IIkgaa4si"
-    },
-    {
-      "added_at": "2020-08-24 22:19:29",
-      "album": {
         "name": "I trust",
         "url": "https://open.spotify.com/album/57sl8AvqVqm4Fadre0z8FQ"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 195866,
       "name": "Oh my god",
       "url": "https://open.spotify.com/track/2DmRXiyn03tOqKgEJXlaiJ"
+    },
+    {
+      "added_at": "2020-08-24 22:19:29",
+      "album": {
+        "name": "Suga",
+        "url": "https://open.spotify.com/album/6Lo6ylJg4qbFfxicPEOzMI"
+      },
+      "artists": [
+        {
+          "name": "Megan Thee Stallion",
+          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
+        }
+      ],
+      "duration_ms": 155497,
+      "name": "Savage",
+      "url": "https://open.spotify.com/track/55CHeLEfn5iJ0IIkgaa4si"
     },
     {
       "added_at": "2020-08-24 22:19:29",

@@ -4,7 +4,7 @@
 
 > ✨giovane✨pop✨z✨ Cover: Rosa Chemical
 
-136 songs - 6 hr 24 min
+138 songs - 6 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,7 +61,8 @@
 | [Giovane e triste](https://open.spotify.com/track/56WecW5HnWstqg0GvhseEP) | [Nashley](https://open.spotify.com/artist/5RiGhrEoM1SBjZoY25lCfe) | [Giovane e triste](https://open.spotify.com/album/0ZfMM8FzMhHGffOGdew5R1) | 3:06 | 2023-03-23 |  |
 | [Goccia \(feat\. Sissi\)](https://open.spotify.com/track/4MYgRIZmue4SNzhMw0mxiE) | [Cyrus Yung](https://open.spotify.com/artist/5ntvgaFmaJr8rNJHOZMpNH), [Sissi](https://open.spotify.com/artist/6P7jNZ4DCs766yu5td601i) | [GLORIA](https://open.spotify.com/album/4oJn7mM9OaDqOaffvkW5PW) | 2:55 | 2023-04-27 | 2023-05-19 |
 | [Gran Finale](https://open.spotify.com/track/5elZw9mtjjPsXc4ukn3XeH) | [Drast](https://open.spotify.com/artist/4e250LmaRPGcp0rbUbJtJm) | [Indaco](https://open.spotify.com/album/00ALxUXwprONphiPixCN0l) | 2:42 | 2023-03-23 | 2023-03-31 |
-| [Grazie](https://open.spotify.com/track/0oqHbECCWrerfCCzxBWIIU) | [wax](https://open.spotify.com/artist/0UYKwcrTJkzFpp5ozPPlMS) | [Grazie](https://open.spotify.com/album/74sxU8T75KZXpiXz48acJo) | 2:30 | 2023-03-23 |  |
+| [Grazie](https://open.spotify.com/track/0oqHbECCWrerfCCzxBWIIU) | [wax](https://open.spotify.com/artist/0UYKwcrTJkzFpp5ozPPlMS) | [Grazie](https://open.spotify.com/album/74sxU8T75KZXpiXz48acJo) | 2:30 | 2023-03-23 | 2023-05-20 |
+| [Grazie](https://open.spotify.com/track/2AySyotmmvkN6mUH5aitwm) | [wax](https://open.spotify.com/artist/0UYKwcrTJkzFpp5ozPPlMS) | [Grazie](https://open.spotify.com/album/0d6lU09aksGooHDTSfvWB2) | 2:30 | 2023-05-18 |  |
 | [IL BENE NEL MALE](https://open.spotify.com/track/2j8E9m3kDHfxFnGhN4fXaC) | [Madame](https://open.spotify.com/artist/1vgQksyJ0IVz8y9XerEOy3) | [IL BENE NEL MALE](https://open.spotify.com/album/2rr30y9ialqckQrhkbb9DQ) | 3:33 | 2023-03-23 |  |
 | [Innamorato](https://open.spotify.com/track/1k3CKhRz8iK3GNfTQu32eH) | [BLANCO](https://open.spotify.com/artist/1MRiIeZbc0cRuxOafDUCtH) | [Innamorato](https://open.spotify.com/album/44iFvVtFduw0s4bPAk5skP) | 2:36 | 2023-04-13 |  |
 | [Io Non Lo So](https://open.spotify.com/track/2eHOxOoWWj0is98NlvUoqd) | [Romeo & Drill](https://open.spotify.com/artist/58R2c9Zopp6mfar9rKXbEm) | [Io Non Lo So](https://open.spotify.com/album/6idUEOKJZ3dkR1f1DrbNe1) | 2:29 | 2023-04-20 | 2023-05-19 |
@@ -87,7 +88,8 @@
 | [Mi dici no](https://open.spotify.com/track/5qsyzcSuPmtOsU42oYvl78) | [Astra](https://open.spotify.com/artist/6AJksxv4G7xtCRMyrYtZHQ) | [Mi dici no](https://open.spotify.com/album/7kucGDV4yLeypdoUrwmxDc) | 2:32 | 2023-05-18 |  |
 | [mi manca la vecchia te](https://open.spotify.com/track/1ngm13kPGndthBqF8AxTAb) | [Biondo](https://open.spotify.com/artist/7vlwS8BMw7yyothJwoY74p) | [mi manca la vecchia te](https://open.spotify.com/album/6CAfsx8D5duYwvMfxkardm) | 2:02 | 2023-03-23 | 2023-04-21 |
 | [MI ODIAVO](https://open.spotify.com/track/0nuek47aUtoaF65sNqKhD5) | [TETI](https://open.spotify.com/artist/61obQpNdnmE9dia8LmBah8) | [MI ODIAVO](https://open.spotify.com/album/7unERA8tM6z0Uob0it4eZI) | 3:02 | 2023-04-20 | 2023-04-28 |
-| [Mi prenderò cura di te](https://open.spotify.com/track/3ILLcjoGf6Yb43Zegavf8u) | [Aaron](https://open.spotify.com/artist/3ONAXWCJeNG7NwQulOI8e0) | [Mi prenderò cura di te](https://open.spotify.com/album/65ln0kOw6FDR63nVEmwBeQ) | 2:54 | 2023-03-23 |  |
+| [Mi prenderò cura di te](https://open.spotify.com/track/3ILLcjoGf6Yb43Zegavf8u) | [Aaron](https://open.spotify.com/artist/3ONAXWCJeNG7NwQulOI8e0) | [Mi prenderò cura di te](https://open.spotify.com/album/65ln0kOw6FDR63nVEmwBeQ) | 2:54 | 2023-03-23 | 2023-05-20 |
+| [Mi prenderò cura di te](https://open.spotify.com/track/69lNcHEZlBjYEZ2N4kI3QU) | [Aaron](https://open.spotify.com/artist/3ONAXWCJeNG7NwQulOI8e0) | [Mi prenderò cura di te](https://open.spotify.com/album/6xuSbljTKxMckE902CiYdO) | 2:54 | 2023-05-18 |  |
 | [Milano dannata](https://open.spotify.com/track/2cXh3ehVTlvWjcAb7aLELE) | [chiello](https://open.spotify.com/artist/5mjasIBQQPIqA9GV2Ys61h) | [Milano dannata](https://open.spotify.com/album/0FRJd1v1XYjnxqLD8CPjAL) | 3:15 | 2023-03-23 | 2023-04-28 |
 | [MISS](https://open.spotify.com/track/3vlTKfJa18JHBlzrrERz4u) | [TOMMY DALI](https://open.spotify.com/artist/0dus12DVjr0hoFaUDOz9B5), [NDG](https://open.spotify.com/artist/6VSx5Yd2AO0fhm0h6xxeGi) | [MISS](https://open.spotify.com/album/2qXQEILrMAiwH9IdcKJNCd) | 3:05 | 2023-05-18 |  |
 | [mon amie freestyle](https://open.spotify.com/track/5mC23FcCHeUWjsARR60Jqb) | [sangiovanni](https://open.spotify.com/artist/7dL0nOHwnSAsNAwpkPSGWP) | [mon amie freestyle](https://open.spotify.com/album/7KmLYmRPkDkkRsK8llzJuE) | 2:37 | 2023-03-23 |  |

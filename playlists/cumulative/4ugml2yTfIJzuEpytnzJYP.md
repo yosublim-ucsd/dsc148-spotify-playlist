@@ -4,7 +4,7 @@
 
 > Lovingly updated every week when possible \.  Make sure to click the heart 💓 to follow the playlist 140, deep bass,  glitch hop,  halftime, dubstep, DnB, Wave
 
-200 songs - 12 hr 36 min
+201 songs - 12 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,6 +58,7 @@
 | [Echolocation](https://open.spotify.com/track/3jsDLsL6d5VXyhLY98moJb) | [Perverse](https://open.spotify.com/artist/774sonWkC6CKx3KSMgUoq7) | [Echolocation](https://open.spotify.com/album/01XJE8K5FAvvoha2LsDAF0) | 6:03 | 2022-04-26 | 2022-09-17 |
 | [Elite](https://open.spotify.com/track/3At9iZJpHFkIsVFO4IKe4u) | [Abelation](https://open.spotify.com/artist/3ezpQc6XHKaha2SmkFsEfR), [Saka](https://open.spotify.com/artist/78JjBYPpCRwGwaZff4qQrv) | [Elite](https://open.spotify.com/album/3O6ivFNYkhrVLtEY82PRFM) | 3:53 | 2022-09-17 | 2022-10-17 |
 | [Error](https://open.spotify.com/track/2NrU98Z2W1rEvLRumC2DI9) | [ZEKE BEATS](https://open.spotify.com/artist/1XXHaDxpaVojtY2QKYaQzl) | [Digital Death EP](https://open.spotify.com/album/1jCTirgapx94wqkkHZR1rv) | 2:44 | 2022-02-07 | 2022-04-13 |
+| [Eternal](https://open.spotify.com/track/5YVzXBX3kZEPNprKeGw4Yq) | [An\-Ten\-Nae](https://open.spotify.com/artist/60WU0oNpF372dzVGDe4BcV), [Nahlith](https://open.spotify.com/artist/0gKRNAatXm1v7V34aoWyFJ) | [Eternal](https://open.spotify.com/album/3g2RMZ1bw8e50PCG5X01nY) | 3:39 | 2023-05-19 |  |
 | [Every Night](https://open.spotify.com/track/0RY3lBN9Xdm8AYNg2KpiVS) | [Jaenga](https://open.spotify.com/artist/6eANYjiwIF3p73lhirhxGI) | [Field Trip](https://open.spotify.com/album/0BUdDTNyrvWWHox3KUCMgd) | 4:51 | 2022-09-30 | 2022-10-17 |
 | [Everything in Motion](https://open.spotify.com/track/5AziuCyb4rubDsIM02uPLt) | [Maddy O'Neal](https://open.spotify.com/artist/2G4VZIbfdmr60dYUB0oIxF), [Homemade Spaceship](https://open.spotify.com/artist/5M586rTBkLFyhEOuKWtDk4) | [Everything in Motion](https://open.spotify.com/album/6pqooOc3ILxOSxe6QZzLy7) | 3:30 | 2022-04-26 | 2022-08-06 |
 | [Evolution](https://open.spotify.com/track/0tIBpcrapaemsTHXMrmeQY) | [Dreamers Delight](https://open.spotify.com/artist/1bDXdxSg3Ve7V7f3bteIyk) | [Evolution](https://open.spotify.com/album/4qAZS4OJjzLZ7M7epC2SRk) | 4:11 | 2022-01-07 | 2022-02-28 |

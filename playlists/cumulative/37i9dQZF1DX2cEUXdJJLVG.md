@@ -4,7 +4,7 @@
 
 > Funky & groovy tunes for poolside chilling.
 
-248 songs - 14 hr 56 min
+249 songs - 14 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -223,6 +223,7 @@
 | [Summer Blues](https://open.spotify.com/track/71mrqChmbDeuUARpuT3SdV) | [Martha Da'ro](https://open.spotify.com/artist/312xfcd1WbKDhBnqPxjXVl) | [Summer Blues](https://open.spotify.com/album/1G4CR3KeyYRrD16cWpXJF7) | 3:18 | 2022-10-30 | 2022-11-13 |
 | [Sunshine](https://open.spotify.com/track/1hCnHgozKGG5vTlaDG0GU1) | [Tensnake](https://open.spotify.com/artist/75nC6MXUalYZSOd7OfNkwq), [Panama](https://open.spotify.com/artist/3W9UldYu0xJcaOAw2SUTDI) | [Sunshine](https://open.spotify.com/album/215YLopesmMe6jOG0hPcMj) | 3:29 | 2023-03-17 |  |
 | [Sweet Harmony](https://open.spotify.com/track/5xu8FPfSTx6ntNts4LmHli) | [Sirens Of Lesbos](https://open.spotify.com/artist/18XyLuKeMMfkTNKTmc6yOU) | [Sweet Harmony](https://open.spotify.com/album/6Vggx6TgQ31vR9BwUPdoIQ) | 3:02 | 2023-02-16 |  |
+| [SWTH](https://open.spotify.com/track/5ruMKE615XscqaRJsdfgdo) | [J.A.D.E](https://open.spotify.com/artist/286YnD3iVn80KxG43TyBHH), [Noflik](https://open.spotify.com/artist/4adNSdgdmFQ1vVIebJxwVt), [Showyou](https://open.spotify.com/artist/7KbVIv3ToW5rD8qJNnypKO) | [SWTH](https://open.spotify.com/album/5z01oX1fk4jBWIAhLkLc5Y) | 2:13 | 2023-05-19 |  |
 | [Tasty Jam](https://open.spotify.com/track/5Sg9WLdEmhstS2cb3Cemm1) | [Engelwood](https://open.spotify.com/artist/7rgCh0Go1ezmcV75kXQM2T) | [Yacht World](https://open.spotify.com/album/4Lzf3MQuKBkG9goRNZ0XtX) | 2:10 | 2022-09-09 | 2022-09-16 |
 | [Tell Nobody](https://open.spotify.com/track/0QmsZHM9Pq98NB3IU9iQl8) | [Joshua J](https://open.spotify.com/artist/2AZupS7RiLA0sh5uzwsr2l) | [Tell Nobody](https://open.spotify.com/album/67qo0exWX8kCr2vnqPnp7d) | 1:43 | 2022-10-14 |  |
 | [TEOU](https://open.spotify.com/track/1EbHCTTWGsw3ZcAhp6sjSr) | [Dee Eye](https://open.spotify.com/artist/41teaBDiy6h89kyEPXB5Kw) | [TEOU](https://open.spotify.com/album/0ZNULJoAsJ3oUGy5viEhhp) | 3:11 | 2022-09-09 |  |
@@ -246,7 +247,7 @@
 | [Vida Delicia \- Edit](https://open.spotify.com/track/1LI47sRJcBDz1s91wpbAsf) | [Menesix](https://open.spotify.com/artist/4g6OmxrDFvrYD0PS9Ki0fQ), [Iara \(BR\)](https://open.spotify.com/artist/1nbBC07aGOuB6e6jlhqWSv) | [Jungle Trip \(Edit Versions\)](https://open.spotify.com/album/1MJMWMX98kLbXSoIZKxrCg) | 3:31 | 2022-09-09 | 2023-04-21 |
 | [Vlinders](https://open.spotify.com/track/3WpfdqGPPhII9v111aGYH9) | [KOFFIE](https://open.spotify.com/artist/1RVrNwHf4vDvBALBS2W5xA) | [Vlinders](https://open.spotify.com/album/3Vb3NvCS3zAw3blthDYl57) | 2:43 | 2023-03-07 |  |
 | [Wait Till The Morning](https://open.spotify.com/track/1MLF2YamXA1ELOgbQ6Ivtf) | [Muylike](https://open.spotify.com/artist/4HL9htdNiAsJHadqEBvb7T), [New Body Electric](https://open.spotify.com/artist/3h0OzibApOQzdvIGPEVavo), [Efraïm Trujillo](https://open.spotify.com/artist/6QMEYX8YSAruSN9r8EHgv5) | [I Wanna Go Home](https://open.spotify.com/album/15W0lTLQPOJWHnjR5c3RYS) | 2:45 | 2023-02-16 |  |
-| [Warrior](https://open.spotify.com/track/5CBCtk5EZfdz7X1Eb6xK1u) | [Aluna](https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE), [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG) | [Renaissance](https://open.spotify.com/album/0cFJfTwmx4KOM9zEy9i2nB) | 2:47 | 2022-09-09 |  |
+| [Warrior](https://open.spotify.com/track/5CBCtk5EZfdz7X1Eb6xK1u) | [Aluna](https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE), [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG) | [Renaissance](https://open.spotify.com/album/0cFJfTwmx4KOM9zEy9i2nB) | 2:47 | 2022-09-09 | 2023-05-20 |
 | [Water](https://open.spotify.com/track/2rd14gIDd5AKvY0p0lEIo1) | [Tim Atlas](https://open.spotify.com/artist/3CiuXDKttPUT0tWGHicFUH) | [QUOTA](https://open.spotify.com/album/1mZph3gZln4JRUoARWWRJW) | 3:29 | 2022-09-09 |  |
 | [Waterfall \- TOKiMONSTA Remix](https://open.spotify.com/track/6MnmCvMN8VXzCC39Bgw0Gk) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et), [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2), [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI) | [Waterfall](https://open.spotify.com/album/2GDxorOmiV0k1LnoAoiTIi) | 3:45 | 2022-10-12 |  |
 | [Waterfall \- TOKiMONSTA Remix](https://open.spotify.com/track/6NfofBHFZZjxXsPVPIXCYx) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et), [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2), [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI) | [Waterfall \(TOKiMONSTA Remix\)](https://open.spotify.com/album/7K06SCEOBuR8u4WDKPbuHh) | 3:45 | 2022-10-30 | 2022-11-13 |

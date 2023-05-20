@@ -1395,6 +1395,24 @@
     },
     {
       "album": {
+        "name": "Richest Opp",
+        "url": "https://open.spotify.com/album/1rBIdADJWSisiYXHRdw1v2"
+      },
+      "artists": [
+        {
+          "name": "YoungBoy Never Broke Again",
+          "url": "https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185117,
+      "name": "Bitch Let's Do It",
+      "url": "https://open.spotify.com/track/3EN9CgupFLmuwmHYUPq0ny"
+    },
+    {
+      "album": {
         "name": "Black",
         "url": "https://open.spotify.com/album/3Qtj7PJlxPZsdWLqIW1I8d"
       },
@@ -2188,7 +2206,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 162056,
       "name": "Check",
       "url": "https://open.spotify.com/track/17LsSRsnpOJ5910GtSixaC"
@@ -2984,7 +3002,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 199293,
       "name": "Dirt",
       "url": "https://open.spotify.com/track/1iQxvF3AQ7Bs3RTBuXqZOA"
@@ -3064,6 +3082,24 @@
       "duration_ms": 130021,
       "name": "DO IT AGAIN",
       "url": "https://open.spotify.com/track/2fvAP52y708KxkAOnI5LYa"
+    },
+    {
+      "album": {
+        "name": "Do It Again",
+        "url": "https://open.spotify.com/album/3vwGL87DCDLdXsYSlsTrA7"
+      },
+      "artists": [
+        {
+          "name": "Kevin Gates",
+          "url": "https://open.spotify.com/artist/1gPhS1zisyXr5dHTYZyiMe"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231780,
+      "name": "Do It Again",
+      "url": "https://open.spotify.com/track/5x4YAw8bHOuKdn5mSuYQg1"
     },
     {
       "album": {
@@ -3952,7 +3988,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 223708,
       "name": "Florida Water (feat. Luh Tyler)",
       "url": "https://open.spotify.com/track/1UFCw2ZU50ZXdjHUtKg9mp"
@@ -4957,6 +4993,24 @@
     },
     {
       "album": {
+        "name": "Head Over heels",
+        "url": "https://open.spotify.com/album/4dmFJHgXsQwM3Hny2227wq"
+      },
+      "artists": [
+        {
+          "name": "Pyrex Pryce",
+          "url": "https://open.spotify.com/artist/7HkRWn9KQavVjW2lCTGi3K"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158196,
+      "name": "Head Over heels",
+      "url": "https://open.spotify.com/track/37SSoPPsbqIdsFqVDff7Ax"
+    },
+    {
+      "album": {
         "name": "Heartaches",
         "url": "https://open.spotify.com/album/16PP7symx7pyBKDsLFkCDj"
       },
@@ -5336,6 +5390,28 @@
       "duration_ms": 142657,
       "name": "HOTEL LOBBY (Unc & Phew)",
       "url": "https://open.spotify.com/track/0QNNd0qMCDbraS1nQPg3aA"
+    },
+    {
+      "album": {
+        "name": "House Call",
+        "url": "https://open.spotify.com/album/4UTojRG6aHmoZoXvH3C4aV"
+      },
+      "artists": [
+        {
+          "name": "Quin Nfn",
+          "url": "https://open.spotify.com/artist/3M1quhETLChtt9NHKVaajX"
+        },
+        {
+          "name": "03 Greedo",
+          "url": "https://open.spotify.com/artist/0FtsMKmZEq8fBWqdSOWtqp"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238000,
+      "name": "House Call",
+      "url": "https://open.spotify.com/track/3vXeEuBfgF26n6W1l8ujac"
     },
     {
       "album": {
@@ -7912,7 +7988,7 @@
       ],
       "date_added": "2023-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 191160,
       "name": "Mr Gaulden",
       "url": "https://open.spotify.com/track/2gWvBbkutosMkcK7LGKUnl"
@@ -8422,7 +8498,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 176184,
       "name": "No Love",
       "url": "https://open.spotify.com/track/3ktZQRNnDBhioF14dWIjPH"
@@ -8466,6 +8542,36 @@
       "duration_ms": 305366,
       "name": "No Love For A Thug",
       "url": "https://open.spotify.com/track/2IyD3ugrNb0LIV4x2RyHIP"
+    },
+    {
+      "album": {
+        "name": "No Love Shemix",
+        "url": "https://open.spotify.com/album/6saKtO8TKk26WBZ7kSCrnD"
+      },
+      "artists": [
+        {
+          "name": "Flo Milli",
+          "url": "https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd"
+        },
+        {
+          "name": "Erica Banks",
+          "url": "https://open.spotify.com/artist/2SXhbucehn00OBVKhzxDyM"
+        },
+        {
+          "name": "Maiya The Don",
+          "url": "https://open.spotify.com/artist/6S6u5pS5ywg7rv50rhpobQ"
+        },
+        {
+          "name": "J.K. Mac",
+          "url": "https://open.spotify.com/artist/5kztDpSaIqaQ5nHdDoTIlq"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193057,
+      "name": "No Love Shemix",
+      "url": "https://open.spotify.com/track/0mhDXOkkkbHr9KtukR3nMH"
     },
     {
       "album": {
@@ -9750,7 +9856,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 238253,
       "name": "Private Landing (feat. Justin Bieber & Future)",
       "url": "https://open.spotify.com/track/52NGJPcLUzQq5w7uv4e5gf"
@@ -11148,7 +11254,7 @@
       ],
       "date_added": "2023-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 142277,
       "name": "SLAM DUNK (FEAT. YOUNG SCOOTER)",
       "url": "https://open.spotify.com/track/5BEIWP5orph1cJBuylbGK8"
@@ -11290,6 +11396,24 @@
       "duration_ms": 171123,
       "name": "SOCKS",
       "url": "https://open.spotify.com/track/060dZ7q9HN8nAS2zn2hwo5"
+    },
+    {
+      "album": {
+        "name": "Somebody can love you",
+        "url": "https://open.spotify.com/album/7075Xtgl90Y0YOkDOJKjj8"
+      },
+      "artists": [
+        {
+          "name": "Young Combo",
+          "url": "https://open.spotify.com/artist/6JhZlrppsNN0yuham54sjL"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165144,
+      "name": "Somebody can love you",
+      "url": "https://open.spotify.com/track/6uwZKOAeYxo0E1rNjuMowJ"
     },
     {
       "album": {
@@ -11898,10 +12022,36 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 175830,
       "name": "Supafly",
       "url": "https://open.spotify.com/track/6fPo9VRtXEGu6Jg1TRk7EX"
+    },
+    {
+      "album": {
+        "name": "Supafly (feat. BigXthaPlug / FAST X Soundtrack)",
+        "url": "https://open.spotify.com/album/2fIo1CPdRHVae7GbQdpi3b"
+      },
+      "artists": [
+        {
+          "name": "Cootie",
+          "url": "https://open.spotify.com/artist/7ECp9Ab69X334S1fo7jAp3"
+        },
+        {
+          "name": "BiC Fizzle",
+          "url": "https://open.spotify.com/artist/55zZKMiLQNwu6unkKc8J4y"
+        },
+        {
+          "name": "BigXthaPlug",
+          "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178189,
+      "name": "Supafly (feat. BigXthaPlug)",
+      "url": "https://open.spotify.com/track/0lkZ62PtOr82RFbVJVk8Yn"
     },
     {
       "album": {
@@ -12518,6 +12668,28 @@
       "duration_ms": 111000,
       "name": "Times Up",
       "url": "https://open.spotify.com/track/1J2uejzGKyOeak5jN4hdBV"
+    },
+    {
+      "album": {
+        "name": "CLEAR 2: SOFT LIFE EP",
+        "url": "https://open.spotify.com/album/034Q9kY3buGcizT3Xpj9Re"
+      },
+      "artists": [
+        {
+          "name": "Summer Walker",
+          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
+        },
+        {
+          "name": "J. Cole",
+          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147666,
+      "name": "To Summer, From Cole - Audio Hug",
+      "url": "https://open.spotify.com/track/2f86Ae3R4OKAu1lEIqouih"
     },
     {
       "album": {
@@ -14172,6 +14344,24 @@
       "duration_ms": 157768,
       "name": "Yak Flow",
       "url": "https://open.spotify.com/track/0PP7bQ2n8pnTrHT81t3GPd"
+    },
+    {
+      "album": {
+        "name": "Ye",
+        "url": "https://open.spotify.com/album/4xspYyXEsk2GuVr0yBEVql"
+      },
+      "artists": [
+        {
+          "name": "SoFaygo",
+          "url": "https://open.spotify.com/artist/2SJhf6rTOU53g8yBdAjPby"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131142,
+      "name": "Ye",
+      "url": "https://open.spotify.com/track/6X8EAUvhh5URYz04eYoKEW"
     },
     {
       "album": {

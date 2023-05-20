@@ -10506,8 +10506,12 @@
       },
       "artists": [
         {
-          "name": "Rhode & Brown, Kid Simius",
-          "url": "https://open.spotify.com/artist/480p1ctL0QIa6hdrFuGtgi"
+          "name": "Rhode & Brown",
+          "url": "https://open.spotify.com/artist/3tA0d4G3jC6CXf6MXEZE5T"
+        },
+        {
+          "name": "Kid Simius",
+          "url": "https://open.spotify.com/artist/36y7VzGBD47ymYb40a7JkE"
         }
       ],
       "date_added": "2023-05-11",
@@ -34912,6 +34916,24 @@
       "duration_ms": 353684,
       "name": "Vendetta",
       "url": "https://open.spotify.com/track/1TEqSkPkufFYmHYjzPzI7t"
+    },
+    {
+      "album": {
+        "name": "Venera",
+        "url": "https://open.spotify.com/album/73tJXZqhpawO8j29HGtqA9"
+      },
+      "artists": [
+        {
+          "name": "George FitzGerald",
+          "url": "https://open.spotify.com/artist/3KOHpygRuo1ruQAbEneR3t"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227804,
+      "name": "Venera",
+      "url": "https://open.spotify.com/track/6U9rAS28uOHyf5NZCYyt0J"
     },
     {
       "album": {

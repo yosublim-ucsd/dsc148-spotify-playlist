@@ -1,15 +1,107 @@
 {
   "description": "Listen to <a href=\"spotify:artist:3dE92yGWcrboP1kC5SWyqu\">Todd Terry</a>'s favorite tracks. Updated regularly. More track IDs <a href=\"spotify:genre:track_id\">here</a>.",
-  "num_followers": 39611,
+  "num_followers": 39665,
   "original_name": "Todd Terry's track IDs",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmZWU3ZjhhMTA2MjQ3NTQ4MjNkOTdhMzQ1ZjMyYjAzZDM5YWIwNzlm",
+  "snapshot_id": "MCw4YjYwMzdjODIyZjk2MWEwMTFhOTM1NTdmOWM0YjVjZTBkM2U4ZDcw",
   "tracks": [
     {
-      "added_at": "2023-04-28 15:00:02",
+      "added_at": "2023-05-19 16:10:56",
+      "album": {
+        "name": "I Want You",
+        "url": "https://open.spotify.com/album/3Dh81kJfGeinI3r7YMNX3E"
+      },
+      "artists": [
+        {
+          "name": "Butch",
+          "url": "https://open.spotify.com/artist/5kLzaeSHrmS7okc5XNE6lv"
+        },
+        {
+          "name": "Nic Fanciulli",
+          "url": "https://open.spotify.com/artist/7btR5VXutQv39SDEzcfXEk"
+        }
+      ],
+      "duration_ms": 187286,
+      "name": "I Want You",
+      "url": "https://open.spotify.com/track/5UM6P3y6794GYNOzZvj2zh"
+    },
+    {
+      "added_at": "2023-05-19 16:10:56",
+      "album": {
+        "name": "Bring The Heat",
+        "url": "https://open.spotify.com/album/48oAYz2T9Iesq20OIMXNBK"
+      },
+      "artists": [
+        {
+          "name": "Leftwing : Kody",
+          "url": "https://open.spotify.com/artist/7eYXtOjJGhrM16cK2hRmnR"
+        },
+        {
+          "name": "Hayley May",
+          "url": "https://open.spotify.com/artist/1WcwbtAnG5HWNbPPK84ued"
+        }
+      ],
+      "duration_ms": 157440,
+      "name": "Bring The Heat",
+      "url": "https://open.spotify.com/track/6jWloOddI8GE5qZXu7sir9"
+    },
+    {
+      "added_at": "2023-05-19 16:10:56",
+      "album": {
+        "name": "Check It Out",
+        "url": "https://open.spotify.com/album/7hCC9Z9GJKWrbpvA8jpGgX"
+      },
+      "artists": [
+        {
+          "name": "James Haskell",
+          "url": "https://open.spotify.com/artist/5ry5gHsT7l1X84yGPZeVIj"
+        }
+      ],
+      "duration_ms": 200000,
+      "name": "Check It Out",
+      "url": "https://open.spotify.com/track/473rDJHC4hwixJAPJROpFh"
+    },
+    {
+      "added_at": "2023-05-19 16:10:56",
+      "album": {
+        "name": "Feel Good",
+        "url": "https://open.spotify.com/album/6Asr9gAzTSVmwt5FyHjfzk"
+      },
+      "artists": [
+        {
+          "name": "Todd Terry",
+          "url": "https://open.spotify.com/artist/3dE92yGWcrboP1kC5SWyqu"
+        },
+        {
+          "name": "Jackson Jones",
+          "url": "https://open.spotify.com/artist/4Kji3MhEP8eoODw7Z3bxAq"
+        }
+      ],
+      "duration_ms": 186240,
+      "name": "Feel Good - Edit",
+      "url": "https://open.spotify.com/track/36wyHzi5LwXA1akofMPheL"
+    },
+    {
+      "added_at": "2023-05-19 16:10:56",
+      "album": {
+        "name": "Go With It",
+        "url": "https://open.spotify.com/album/0rQOM7PU9rgXt5wpzpppGx"
+      },
+      "artists": [
+        {
+          "name": "Kim Kaos",
+          "url": "https://open.spotify.com/artist/5gZ21jZBLA2iHh8oBTzmjB"
+        }
+      ],
+      "duration_ms": 176129,
+      "name": "Go With It - Edit",
+      "url": "https://open.spotify.com/track/6jHMhIdISBhDVt0SdzsenG"
+    },
+    {
+      "added_at": "2023-05-19 16:10:56",
       "album": {
         "name": "Lost In The Music",
         "url": "https://open.spotify.com/album/0w3VfrflmlU2PBY0tvlZAz"
@@ -29,27 +121,7 @@
       "url": "https://open.spotify.com/track/54gS6bVunGcyHEJAYWp41b"
     },
     {
-      "added_at": "2023-04-28 15:00:02",
-      "album": {
-        "name": "Get On Down",
-        "url": "https://open.spotify.com/album/09D39Cwhfq3VNYp9gw16cz"
-      },
-      "artists": [
-        {
-          "name": "Ferreck Dawn",
-          "url": "https://open.spotify.com/artist/3cnAJv9gydgm52KFIsdvO8"
-        },
-        {
-          "name": "Todd Terry",
-          "url": "https://open.spotify.com/artist/3dE92yGWcrboP1kC5SWyqu"
-        }
-      ],
-      "duration_ms": 185760,
-      "name": "Get On Down",
-      "url": "https://open.spotify.com/track/7exHHOSg7JZ7BSmkeP5HaY"
-    },
-    {
-      "added_at": "2023-04-28 15:00:02",
+      "added_at": "2023-05-19 16:10:56",
       "album": {
         "name": "The Sound",
         "url": "https://open.spotify.com/album/28B5eFQYYnRhYpqUkk7145"
@@ -69,7 +141,7 @@
       "url": "https://open.spotify.com/track/6Bl0ROqU636RO6UHMU1NVg"
     },
     {
-      "added_at": "2023-04-28 15:00:02",
+      "added_at": "2023-05-19 16:10:56",
       "album": {
         "name": "Colourblind",
         "url": "https://open.spotify.com/album/11GNGqeQLQTGUTn8AewzDy"
@@ -89,7 +161,7 @@
       "url": "https://open.spotify.com/track/1ZNaOGKAZKaZh7V87zDs1i"
     },
     {
-      "added_at": "2023-04-28 15:00:02",
+      "added_at": "2023-05-19 16:10:56",
       "album": {
         "name": "Beggin'",
         "url": "https://open.spotify.com/album/4PCf8xkYY6ZlrQh48AQP1V"
@@ -109,7 +181,7 @@
       "url": "https://open.spotify.com/track/74nEGIzIefJhJ5qX7NeIAz"
     },
     {
-      "added_at": "2023-04-28 15:00:02",
+      "added_at": "2023-05-19 16:10:56",
       "album": {
         "name": "Oshun",
         "url": "https://open.spotify.com/album/1JYpngK4SJ65s6HRA0fz2i"
@@ -125,7 +197,27 @@
       "url": "https://open.spotify.com/track/43fIZwn9Ix0J3oLZur21pD"
     },
     {
-      "added_at": "2023-04-28 15:00:02",
+      "added_at": "2023-05-19 16:10:56",
+      "album": {
+        "name": "Get On Down",
+        "url": "https://open.spotify.com/album/09D39Cwhfq3VNYp9gw16cz"
+      },
+      "artists": [
+        {
+          "name": "Ferreck Dawn",
+          "url": "https://open.spotify.com/artist/3cnAJv9gydgm52KFIsdvO8"
+        },
+        {
+          "name": "Todd Terry",
+          "url": "https://open.spotify.com/artist/3dE92yGWcrboP1kC5SWyqu"
+        }
+      ],
+      "duration_ms": 185760,
+      "name": "Get On Down",
+      "url": "https://open.spotify.com/track/7exHHOSg7JZ7BSmkeP5HaY"
+    },
+    {
+      "added_at": "2023-05-19 16:10:56",
       "album": {
         "name": "Out My Way",
         "url": "https://open.spotify.com/album/0WPkePMGxiycpMHKthno89"
@@ -141,23 +233,7 @@
       "url": "https://open.spotify.com/track/1W67Y84L9500hrERiRRgBB"
     },
     {
-      "added_at": "2023-04-28 15:00:02",
-      "album": {
-        "name": "Rider",
-        "url": "https://open.spotify.com/album/63D2yF1X4qE6nTenMMlEXg"
-      },
-      "artists": [
-        {
-          "name": "Todd Terry",
-          "url": "https://open.spotify.com/artist/3dE92yGWcrboP1kC5SWyqu"
-        }
-      ],
-      "duration_ms": 184761,
-      "name": "Rider - Edit",
-      "url": "https://open.spotify.com/track/1qmZSebyLneylQFhZ85Gt8"
-    },
-    {
-      "added_at": "2023-04-28 15:00:02",
+      "added_at": "2023-05-19 16:10:56",
       "album": {
         "name": "Lennon",
         "url": "https://open.spotify.com/album/4Whx04xrZZSzMWhKduRWFI"
@@ -173,7 +249,7 @@
       "url": "https://open.spotify.com/track/6KCmJ8VI6VYNRNubSqi0Ck"
     },
     {
-      "added_at": "2023-04-28 15:00:02",
+      "added_at": "2023-05-19 16:10:56",
       "album": {
         "name": "MYB",
         "url": "https://open.spotify.com/album/4d6ZTKxFTiNBdQYwCbXJVT"
@@ -189,7 +265,7 @@
       "url": "https://open.spotify.com/track/2tA7OipNGwIJCAOpGdfqP1"
     },
     {
-      "added_at": "2023-04-28 15:00:02",
+      "added_at": "2023-05-19 16:10:56",
       "album": {
         "name": "You Can't Stop Me",
         "url": "https://open.spotify.com/album/1IMWabPHigaYU8LKwQ0jjQ"
@@ -213,7 +289,7 @@
       "url": "https://open.spotify.com/track/6WurQwbDgwLHNdZgi1v7ZJ"
     },
     {
-      "added_at": "2023-04-28 15:00:02",
+      "added_at": "2023-05-19 16:10:56",
       "album": {
         "name": "The One (feat. ARA)",
         "url": "https://open.spotify.com/album/3sew2wh9h3aeNeVkrhZPAp"
@@ -233,7 +309,7 @@
       "url": "https://open.spotify.com/track/0W44iKwnweZAID1cCMw3B5"
     },
     {
-      "added_at": "2023-04-28 15:00:02",
+      "added_at": "2023-05-19 16:10:56",
       "album": {
         "name": "Moving All Around (Jumpin') (feat. Kim English) [John Summit Remix]",
         "url": "https://open.spotify.com/album/6MStv7RvNjGnx3OuGeuLOU"
@@ -257,7 +333,23 @@
       "url": "https://open.spotify.com/track/1rTBuBSEMuG2rsl5BPwP1M"
     },
     {
-      "added_at": "2023-04-28 15:00:02",
+      "added_at": "2023-05-19 16:10:56",
+      "album": {
+        "name": "Rider",
+        "url": "https://open.spotify.com/album/63D2yF1X4qE6nTenMMlEXg"
+      },
+      "artists": [
+        {
+          "name": "Todd Terry",
+          "url": "https://open.spotify.com/artist/3dE92yGWcrboP1kC5SWyqu"
+        }
+      ],
+      "duration_ms": 184761,
+      "name": "Rider - Edit",
+      "url": "https://open.spotify.com/track/1qmZSebyLneylQFhZ85Gt8"
+    },
+    {
+      "added_at": "2023-05-19 16:10:56",
       "album": {
         "name": "Cada Vez (CASSIMM Remix)",
         "url": "https://open.spotify.com/album/4Xb782UmglZDXRXeIoE663"
@@ -277,7 +369,7 @@
       "url": "https://open.spotify.com/track/2EkkTGKerIxiOSSrPwuV7z"
     },
     {
-      "added_at": "2023-04-28 15:00:02",
+      "added_at": "2023-05-19 16:10:56",
       "album": {
         "name": "Wasn't For The Music (Jay Vegas Remix)",
         "url": "https://open.spotify.com/album/2YUAACHcJzFip0ZVOKVdVc"
@@ -301,7 +393,67 @@
       "url": "https://open.spotify.com/track/2UtzdunVDu56vNvlxVwV4A"
     },
     {
-      "added_at": "2023-04-28 15:00:02",
+      "added_at": "2023-05-19 16:10:56",
+      "album": {
+        "name": "Coming On Strong",
+        "url": "https://open.spotify.com/album/19OmUu8Ejr9SuhVdM2M5ee"
+      },
+      "artists": [
+        {
+          "name": "Joe Ventura",
+          "url": "https://open.spotify.com/artist/38B08MDKPMbi7CvO2pTfSs"
+        },
+        {
+          "name": "Ceevox",
+          "url": "https://open.spotify.com/artist/47vEtL6AF1ke8QWxtQSzEY"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "Coming On Strong - 2023 Edit",
+      "url": "https://open.spotify.com/track/2AUDN3IN3SEDFi2diYW4ul"
+    },
+    {
+      "added_at": "2023-05-19 16:10:56",
+      "album": {
+        "name": "Get Together",
+        "url": "https://open.spotify.com/album/1ieRCC0ykBTwInYhHxXGew"
+      },
+      "artists": [
+        {
+          "name": "Pete Griffiths",
+          "url": "https://open.spotify.com/artist/5LSnGBSqhwvGjz1LWtEoLA"
+        },
+        {
+          "name": "Ebony Soul",
+          "url": "https://open.spotify.com/artist/3656hzR8xSBR3tJcyFbIzT"
+        },
+        {
+          "name": "Ann Nesby",
+          "url": "https://open.spotify.com/artist/6hIILipyNOmswy0IdWHx7b"
+        }
+      ],
+      "duration_ms": 210125,
+      "name": "Get Together",
+      "url": "https://open.spotify.com/track/3Ht8kUd6OnHxKNToHZXUsX"
+    },
+    {
+      "added_at": "2023-05-19 16:10:56",
+      "album": {
+        "name": "IRLY (I Really Love You)",
+        "url": "https://open.spotify.com/album/1ZaGCKsUUEhsfEbzTJeGrk"
+      },
+      "artists": [
+        {
+          "name": "Dombresky",
+          "url": "https://open.spotify.com/artist/2GVtgxcx7jg5xVCZsIHSGN"
+        }
+      ],
+      "duration_ms": 170569,
+      "name": "IRLY (I Really Love You)",
+      "url": "https://open.spotify.com/track/0TZmwiefBLRaNYtkRWH8Uh"
+    },
+    {
+      "added_at": "2023-05-19 16:10:56",
       "album": {
         "name": "Make You Happy",
         "url": "https://open.spotify.com/album/2eRJAVu552WFHPtGuorxQ0"
@@ -333,67 +485,7 @@
       "url": "https://open.spotify.com/track/5ZAtTAUvEz8jNJ5EPhsfJP"
     },
     {
-      "added_at": "2023-04-28 15:00:02",
-      "album": {
-        "name": "Coming On Strong",
-        "url": "https://open.spotify.com/album/19OmUu8Ejr9SuhVdM2M5ee"
-      },
-      "artists": [
-        {
-          "name": "Joe Ventura",
-          "url": "https://open.spotify.com/artist/38B08MDKPMbi7CvO2pTfSs"
-        },
-        {
-          "name": "Ceevox",
-          "url": "https://open.spotify.com/artist/47vEtL6AF1ke8QWxtQSzEY"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "Coming On Strong - 2023 Edit",
-      "url": "https://open.spotify.com/track/2AUDN3IN3SEDFi2diYW4ul"
-    },
-    {
-      "added_at": "2023-04-28 15:00:02",
-      "album": {
-        "name": "Get Together",
-        "url": "https://open.spotify.com/album/1ieRCC0ykBTwInYhHxXGew"
-      },
-      "artists": [
-        {
-          "name": "Pete Griffiths",
-          "url": "https://open.spotify.com/artist/5LSnGBSqhwvGjz1LWtEoLA"
-        },
-        {
-          "name": "Ebony Soul",
-          "url": "https://open.spotify.com/artist/3656hzR8xSBR3tJcyFbIzT"
-        },
-        {
-          "name": "Ann Nesby",
-          "url": "https://open.spotify.com/artist/6hIILipyNOmswy0IdWHx7b"
-        }
-      ],
-      "duration_ms": 210125,
-      "name": "Get Together",
-      "url": "https://open.spotify.com/track/3Ht8kUd6OnHxKNToHZXUsX"
-    },
-    {
-      "added_at": "2023-04-28 15:00:02",
-      "album": {
-        "name": "IRLY (I Really Love You)",
-        "url": "https://open.spotify.com/album/1ZaGCKsUUEhsfEbzTJeGrk"
-      },
-      "artists": [
-        {
-          "name": "Dombresky",
-          "url": "https://open.spotify.com/artist/2GVtgxcx7jg5xVCZsIHSGN"
-        }
-      ],
-      "duration_ms": 170569,
-      "name": "IRLY (I Really Love You)",
-      "url": "https://open.spotify.com/track/0TZmwiefBLRaNYtkRWH8Uh"
-    },
-    {
-      "added_at": "2023-04-28 15:00:02",
+      "added_at": "2023-05-19 16:10:56",
       "album": {
         "name": "Inside My Mind",
         "url": "https://open.spotify.com/album/0vE2iJeMSfo7Q3J2b4esej"
@@ -413,31 +505,7 @@
       "url": "https://open.spotify.com/track/3vl8JYvFMneZNXSGvMjrZI"
     },
     {
-      "added_at": "2023-04-28 15:00:02",
-      "album": {
-        "name": "I Give You Love",
-        "url": "https://open.spotify.com/album/2SHvjqCQ41qfFZpoy4tRYP"
-      },
-      "artists": [
-        {
-          "name": "Todd Terry",
-          "url": "https://open.spotify.com/artist/3dE92yGWcrboP1kC5SWyqu"
-        },
-        {
-          "name": "Janika Tenn",
-          "url": "https://open.spotify.com/artist/5JJ2mNTKFgulclDJxMIyOC"
-        },
-        {
-          "name": "Lee Wilson",
-          "url": "https://open.spotify.com/artist/0kgsfMP7coSEX8bwUQVivr"
-        }
-      ],
-      "duration_ms": 189268,
-      "name": "I Give You Love - Edit",
-      "url": "https://open.spotify.com/track/2QNzx3Cu2kzdL10uls5e5a"
-    },
-    {
-      "added_at": "2023-04-28 15:00:02",
+      "added_at": "2023-05-19 16:10:56",
       "album": {
         "name": "Jackin",
         "url": "https://open.spotify.com/album/45aDCsWhHX0dYMYBD1YZwi"
@@ -453,7 +521,7 @@
       "url": "https://open.spotify.com/track/5Ch37IZ373AdaU5f4pZ9MR"
     },
     {
-      "added_at": "2023-04-28 15:00:02",
+      "added_at": "2023-05-19 16:10:56",
       "album": {
         "name": "Vibe Like That (feat. Georgia Meek)",
         "url": "https://open.spotify.com/album/0ySlD1fI5g672A3RCGoViO"
@@ -477,7 +545,7 @@
       "url": "https://open.spotify.com/track/0dH0pegRa3TILf9wzvI7jQ"
     },
     {
-      "added_at": "2023-04-28 15:00:02",
+      "added_at": "2023-05-19 16:10:56",
       "album": {
         "name": "La Samba",
         "url": "https://open.spotify.com/album/2JurI8lOhpvZZQFwrNu4rH"
@@ -497,7 +565,7 @@
       "url": "https://open.spotify.com/track/6N8VWb3F4GPP3pwj1jaDNU"
     },
     {
-      "added_at": "2023-04-28 15:00:02",
+      "added_at": "2023-05-19 16:10:56",
       "album": {
         "name": "Hendrix Flow",
         "url": "https://open.spotify.com/album/5xX0bfn9ncd9Q3OBxqEJBx"
@@ -513,7 +581,7 @@
       "url": "https://open.spotify.com/track/2JK7amLLxtXYavB4DJeF0Y"
     },
     {
-      "added_at": "2023-04-28 15:00:02",
+      "added_at": "2023-05-19 16:10:56",
       "album": {
         "name": "Miracle Maker",
         "url": "https://open.spotify.com/album/3yQSxYbAj2jrwAx7W7MIAU"
@@ -533,7 +601,31 @@
       "url": "https://open.spotify.com/track/6txvQu0zUbiqG24A8XMLnK"
     },
     {
-      "added_at": "2023-04-28 15:00:02",
+      "added_at": "2023-05-19 16:10:56",
+      "album": {
+        "name": "I Give You Love",
+        "url": "https://open.spotify.com/album/2SHvjqCQ41qfFZpoy4tRYP"
+      },
+      "artists": [
+        {
+          "name": "Todd Terry",
+          "url": "https://open.spotify.com/artist/3dE92yGWcrboP1kC5SWyqu"
+        },
+        {
+          "name": "Janika Tenn",
+          "url": "https://open.spotify.com/artist/5JJ2mNTKFgulclDJxMIyOC"
+        },
+        {
+          "name": "Lee Wilson",
+          "url": "https://open.spotify.com/artist/0kgsfMP7coSEX8bwUQVivr"
+        }
+      ],
+      "duration_ms": 189268,
+      "name": "I Give You Love - Edit",
+      "url": "https://open.spotify.com/track/2QNzx3Cu2kzdL10uls5e5a"
+    },
+    {
+      "added_at": "2023-05-19 16:10:56",
       "album": {
         "name": "Jack Had A Groove (Glen Horsborough Remix)",
         "url": "https://open.spotify.com/album/00NoNHchpYhlQ9TIfjlfu1"
@@ -557,7 +649,7 @@
       "url": "https://open.spotify.com/track/68YRtsiy9LHICl8IPxhiif"
     },
     {
-      "added_at": "2023-04-28 15:00:02",
+      "added_at": "2023-05-19 16:10:56",
       "album": {
         "name": "Deep Down (feat. Never Dull)",
         "url": "https://open.spotify.com/album/3KpxpdySrMR2S7noneu1bI"
@@ -585,7 +677,7 @@
       "url": "https://open.spotify.com/track/7MIhUdNJtaOnDmC5nBC1fb"
     },
     {
-      "added_at": "2023-04-28 15:00:02",
+      "added_at": "2023-05-19 16:10:56",
       "album": {
         "name": "Set Me Free",
         "url": "https://open.spotify.com/album/2SR6UldibmBVT6te65lEuI"
@@ -601,7 +693,7 @@
       "url": "https://open.spotify.com/track/5zA3gMIFlgnhNQj39GcTqE"
     },
     {
-      "added_at": "2023-04-28 15:00:02",
+      "added_at": "2023-05-19 16:10:56",
       "album": {
         "name": "Come Back to Me",
         "url": "https://open.spotify.com/album/0eILQbXrlfdGPAWWmDAjM5"
@@ -617,23 +709,7 @@
       "url": "https://open.spotify.com/track/0wGFG26QzuMRH03ACmlyW7"
     },
     {
-      "added_at": "2023-04-28 15:00:02",
-      "album": {
-        "name": "Give Me Your Love",
-        "url": "https://open.spotify.com/album/0NilFp8hYbx3xbArZt2OY8"
-      },
-      "artists": [
-        {
-          "name": "Todd Terry",
-          "url": "https://open.spotify.com/artist/3dE92yGWcrboP1kC5SWyqu"
-        }
-      ],
-      "duration_ms": 142080,
-      "name": "Give Me Your Love - Edit",
-      "url": "https://open.spotify.com/track/28Ns3K9E0O8n1MO3aIVcOm"
-    },
-    {
-      "added_at": "2023-04-28 15:00:02",
+      "added_at": "2023-05-19 16:10:56",
       "album": {
         "name": "We Kept Dancing",
         "url": "https://open.spotify.com/album/0fRkPkffppY6DxRBEh6txA"
@@ -657,7 +733,7 @@
       "url": "https://open.spotify.com/track/6LQK9OcjeVgTjN8iLKPVhf"
     },
     {
-      "added_at": "2023-04-28 15:00:02",
+      "added_at": "2023-05-19 16:10:56",
       "album": {
         "name": "Nothing Left To Lose",
         "url": "https://open.spotify.com/album/2NQLpA0EfQtDIMViTywa69"
@@ -673,7 +749,7 @@
       "url": "https://open.spotify.com/track/02zPsXmSUP6Rr1Z2w5KMpf"
     },
     {
-      "added_at": "2023-04-28 15:00:02",
+      "added_at": "2023-05-19 16:10:56",
       "album": {
         "name": "It's Like This",
         "url": "https://open.spotify.com/album/7xdxxMGDWcQrLIgJEQq22Q"
@@ -693,31 +769,23 @@
       "url": "https://open.spotify.com/track/6hgbJDivrseU40c2G6WQaP"
     },
     {
-      "added_at": "2023-04-28 15:00:02",
+      "added_at": "2023-05-19 16:10:56",
       "album": {
-        "name": "I'll Wait (Todd Terry Remix)",
-        "url": "https://open.spotify.com/album/5XDRyRQqcwmpNEom3HZg6o"
+        "name": "Give Me Your Love",
+        "url": "https://open.spotify.com/album/0NilFp8hYbx3xbArZt2OY8"
       },
       "artists": [
         {
-          "name": "Joe Ventura",
-          "url": "https://open.spotify.com/artist/38B08MDKPMbi7CvO2pTfSs"
-        },
-        {
           "name": "Todd Terry",
           "url": "https://open.spotify.com/artist/3dE92yGWcrboP1kC5SWyqu"
-        },
-        {
-          "name": "Sulene Fleming",
-          "url": "https://open.spotify.com/artist/2bMyZamuaiELdLzke19cCG"
         }
       ],
-      "duration_ms": 193920,
-      "name": "I'll Wait - Todd Terry Edit",
-      "url": "https://open.spotify.com/track/6LMRj8igCpvgyMewvK8gaq"
+      "duration_ms": 142080,
+      "name": "Give Me Your Love - Edit",
+      "url": "https://open.spotify.com/track/28Ns3K9E0O8n1MO3aIVcOm"
     },
     {
-      "added_at": "2023-04-28 15:00:02",
+      "added_at": "2023-05-19 16:10:56",
       "album": {
         "name": "Get Up",
         "url": "https://open.spotify.com/album/2XahKuNpWDBxLlbD8eKCuc"
@@ -737,7 +805,7 @@
       "url": "https://open.spotify.com/track/3uO4nLDiJMH2DkixEFcHIN"
     },
     {
-      "added_at": "2023-04-28 15:00:02",
+      "added_at": "2023-05-19 16:10:56",
       "album": {
         "name": "In The Yuma (feat. Aatig)",
         "url": "https://open.spotify.com/album/0JjZ7kWBexlcQJMCpZ2MZF"
@@ -757,7 +825,7 @@
       "url": "https://open.spotify.com/track/2e2yKavdT6WQzzMHwNtPFa"
     },
     {
-      "added_at": "2023-04-28 15:00:02",
+      "added_at": "2023-05-19 16:10:56",
       "album": {
         "name": "Little Woman (feat. Tristan Henry)",
         "url": "https://open.spotify.com/album/5q7xui0sb5WxnQ6T8o3oI1"
@@ -785,23 +853,7 @@
       "url": "https://open.spotify.com/track/4QHRhcnKlhgsGrhGwlkjEy"
     },
     {
-      "added_at": "2023-04-28 15:00:02",
-      "album": {
-        "name": "Fly Like an Eagle",
-        "url": "https://open.spotify.com/album/3fxmtAYgHefEmvKLuL6Jft"
-      },
-      "artists": [
-        {
-          "name": "Todd Terry",
-          "url": "https://open.spotify.com/artist/3dE92yGWcrboP1kC5SWyqu"
-        }
-      ],
-      "duration_ms": 156097,
-      "name": "Fly Like an Eagle",
-      "url": "https://open.spotify.com/track/4uXUjefF7VdVfXz44ihvuh"
-    },
-    {
-      "added_at": "2023-04-28 15:00:02",
+      "added_at": "2023-05-19 16:10:56",
       "album": {
         "name": "Work",
         "url": "https://open.spotify.com/album/4uT5hURMpTckmBqEKs040D"
@@ -825,7 +877,7 @@
       "url": "https://open.spotify.com/track/0NFchYXJVNxHb693dpIs0t"
     },
     {
-      "added_at": "2023-04-28 15:00:02",
+      "added_at": "2023-05-19 16:10:56",
       "album": {
         "name": "House Masters - Harry Romero Sampler",
         "url": "https://open.spotify.com/album/1QhjW1oghJqWMiYzebJ5li"
@@ -841,27 +893,47 @@
       "url": "https://open.spotify.com/track/0mUNTG0barFNz6rVnFBLET"
     },
     {
-      "added_at": "2023-04-28 15:00:02",
+      "added_at": "2023-05-19 16:10:56",
       "album": {
-        "name": "I Need Some",
-        "url": "https://open.spotify.com/album/1VMj4op3upCissjO0BF163"
+        "name": "Fly Like an Eagle",
+        "url": "https://open.spotify.com/album/3fxmtAYgHefEmvKLuL6Jft"
       },
       "artists": [
         {
-          "name": "WEISS",
-          "url": "https://open.spotify.com/artist/0FBRY66KVaAiddGVefikLB"
-        },
-        {
-          "name": "The Jones Girls",
-          "url": "https://open.spotify.com/artist/7aHa6IZwZ13FoC5AXFkCSh"
+          "name": "Todd Terry",
+          "url": "https://open.spotify.com/artist/3dE92yGWcrboP1kC5SWyqu"
         }
       ],
-      "duration_ms": 142200,
-      "name": "I Need Some",
-      "url": "https://open.spotify.com/track/7blWEpws63flJYjkyNhGya"
+      "duration_ms": 156097,
+      "name": "Fly Like an Eagle",
+      "url": "https://open.spotify.com/track/4uXUjefF7VdVfXz44ihvuh"
     },
     {
-      "added_at": "2023-04-28 15:00:02",
+      "added_at": "2023-05-19 16:10:56",
+      "album": {
+        "name": "I'll Wait (Todd Terry Remix)",
+        "url": "https://open.spotify.com/album/5XDRyRQqcwmpNEom3HZg6o"
+      },
+      "artists": [
+        {
+          "name": "Joe Ventura",
+          "url": "https://open.spotify.com/artist/38B08MDKPMbi7CvO2pTfSs"
+        },
+        {
+          "name": "Todd Terry",
+          "url": "https://open.spotify.com/artist/3dE92yGWcrboP1kC5SWyqu"
+        },
+        {
+          "name": "Sulene Fleming",
+          "url": "https://open.spotify.com/artist/2bMyZamuaiELdLzke19cCG"
+        }
+      ],
+      "duration_ms": 193920,
+      "name": "I'll Wait - Todd Terry Edit",
+      "url": "https://open.spotify.com/track/6LMRj8igCpvgyMewvK8gaq"
+    },
+    {
+      "added_at": "2023-05-19 16:10:56",
       "album": {
         "name": "Drugs From Amsterdam",
         "url": "https://open.spotify.com/album/060SvgMzLKrNzpvVLK5gSo"
@@ -877,7 +949,7 @@
       "url": "https://open.spotify.com/track/0w7JPlp7eEQI2EKW3ayXrv"
     },
     {
-      "added_at": "2023-04-28 15:00:02",
+      "added_at": "2023-05-19 16:10:56",
       "album": {
         "name": "2B Luv Part 3",
         "url": "https://open.spotify.com/album/5YY0kjII0NQ2YoaC1jyLBD"
@@ -901,7 +973,27 @@
       "url": "https://open.spotify.com/track/5xwv4MS7fkr0lvMlWlwn2E"
     },
     {
-      "added_at": "2023-04-28 15:00:02",
+      "added_at": "2023-05-19 16:10:56",
+      "album": {
+        "name": "I Need Some",
+        "url": "https://open.spotify.com/album/1VMj4op3upCissjO0BF163"
+      },
+      "artists": [
+        {
+          "name": "WEISS",
+          "url": "https://open.spotify.com/artist/0FBRY66KVaAiddGVefikLB"
+        },
+        {
+          "name": "The Jones Girls",
+          "url": "https://open.spotify.com/artist/7aHa6IZwZ13FoC5AXFkCSh"
+        }
+      ],
+      "duration_ms": 142200,
+      "name": "I Need Some",
+      "url": "https://open.spotify.com/track/7blWEpws63flJYjkyNhGya"
+    },
+    {
+      "added_at": "2023-05-19 16:10:56",
       "album": {
         "name": "Better Than The Love I Know / Pull Up To The Bumper",
         "url": "https://open.spotify.com/album/0RcP8egKoAOG71UiiP1OOy"
@@ -917,27 +1009,7 @@
       "url": "https://open.spotify.com/track/7Jp6v5eRCGuQ1pW5tqOGlu"
     },
     {
-      "added_at": "2023-04-28 15:00:02",
-      "album": {
-        "name": "Talkin' Drums",
-        "url": "https://open.spotify.com/album/5k6TCxCvcSpWdBpEoXBa2W"
-      },
-      "artists": [
-        {
-          "name": "Mel\u00e9",
-          "url": "https://open.spotify.com/artist/6EZO7Baz0SIFskWTO1GHqX"
-        },
-        {
-          "name": "Tour\u00e9 Kunda",
-          "url": "https://open.spotify.com/artist/76ynyZUsg0vGxiQSWvQx5f"
-        }
-      ],
-      "duration_ms": 180952,
-      "name": "Talkin' Drums",
-      "url": "https://open.spotify.com/track/5qJm4xvRCOQ1zedunDnndW"
-    },
-    {
-      "added_at": "2023-04-28 15:00:02",
+      "added_at": "2023-05-19 16:10:56",
       "album": {
         "name": "Black Girl Magic",
         "url": "https://open.spotify.com/album/27hbmfsdUp1BKsCu2N4AFN"
@@ -957,7 +1029,7 @@
       "url": "https://open.spotify.com/track/1mpD4bXO4r3xilu12Kaf5Q"
     },
     {
-      "added_at": "2023-04-28 15:00:02",
+      "added_at": "2023-05-19 16:10:56",
       "album": {
         "name": "My Paradise",
         "url": "https://open.spotify.com/album/1dM4NGu8XRvlZx5CtXM8J2"
@@ -973,7 +1045,7 @@
       "url": "https://open.spotify.com/track/5erkBzi1uzfVzRotIEDevu"
     },
     {
-      "added_at": "2023-04-28 15:00:02",
+      "added_at": "2023-05-19 16:10:56",
       "album": {
         "name": "Oh Why",
         "url": "https://open.spotify.com/album/1gDXVMN35aeGp2kozkrWBG"
@@ -989,7 +1061,7 @@
       "url": "https://open.spotify.com/track/4kuvUV3BqWEkY3SWRFRG2K"
     },
     {
-      "added_at": "2023-04-28 15:00:02",
+      "added_at": "2023-05-19 16:10:56",
       "album": {
         "name": "Jumpin' (Wh0 Remix)",
         "url": "https://open.spotify.com/album/7uKSiaw9KnP0eOthc37p5P"

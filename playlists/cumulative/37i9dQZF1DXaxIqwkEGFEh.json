@@ -133,6 +133,24 @@
     },
     {
       "album": {
+        "name": "16DEM",
+        "url": "https://open.spotify.com/album/7hNt7tzOJGe3nv8Y3nA0Fr"
+      },
+      "artists": [
+        {
+          "name": "Skillibeng",
+          "url": "https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192821,
+      "name": "16DEM",
+      "url": "https://open.spotify.com/track/6acGurI3gpZ59hSO8mYb60"
+    },
+    {
+      "album": {
         "name": "ONLY BUILT 4 DIAMOND LINKS",
         "url": "https://open.spotify.com/album/3s4uzffoGode9dbtELaVEp"
       },
@@ -1475,6 +1493,28 @@
     },
     {
       "album": {
+        "name": "Bag On Em",
+        "url": "https://open.spotify.com/album/78vEBSj6bZf8H6pmJOdZTu"
+      },
+      "artists": [
+        {
+          "name": "Mini Boom",
+          "url": "https://open.spotify.com/artist/6TpjrFXS0EcrvyBt4pgmt5"
+        },
+        {
+          "name": "Fivio Foreign",
+          "url": "https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156666,
+      "name": "Bag On Em",
+      "url": "https://open.spotify.com/track/0C4BxhEQqZRcdlyKCS7F30"
+    },
+    {
+      "album": {
         "name": "Bag Talk",
         "url": "https://open.spotify.com/album/3jDmDOYQ3fN2XDqO9euRD5"
       },
@@ -1701,6 +1741,24 @@
     },
     {
       "album": {
+        "name": "Better Off Dead",
+        "url": "https://open.spotify.com/album/0ZpIZXMHRMBgNSlfseBb8q"
+      },
+      "artists": [
+        {
+          "name": "Sha Gz",
+          "url": "https://open.spotify.com/artist/5cZA9NpcHyvZjWldBitrR2"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 109369,
+      "name": "Better Off Dead",
+      "url": "https://open.spotify.com/track/08PwP3QCyqPRUn2D7Di8Ep"
+    },
+    {
+      "album": {
         "name": "Big Biznezz",
         "url": "https://open.spotify.com/album/4hukvvTtxPGBNqFZBopIP0"
       },
@@ -1852,6 +1910,24 @@
       "duration_ms": 225048,
       "name": "Bit W The Fangs (feat. Gunna & Nechie)",
       "url": "https://open.spotify.com/track/0GM5C22p1n4LH4vO1oPfTh"
+    },
+    {
+      "album": {
+        "name": "Richest Opp",
+        "url": "https://open.spotify.com/album/1rBIdADJWSisiYXHRdw1v2"
+      },
+      "artists": [
+        {
+          "name": "YoungBoy Never Broke Again",
+          "url": "https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185117,
+      "name": "Bitch Let's Do It",
+      "url": "https://open.spotify.com/track/3EN9CgupFLmuwmHYUPq0ny"
     },
     {
       "album": {
@@ -2892,7 +2968,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 189541,
       "name": "Close That Folder",
       "url": "https://open.spotify.com/track/3F43bMLmxHqirgKEi6D6tK"
@@ -4125,6 +4201,24 @@
     },
     {
       "album": {
+        "name": "Emergency Room",
+        "url": "https://open.spotify.com/album/6fc7bs6sOd9luTbKYz1KrW"
+      },
+      "artists": [
+        {
+          "name": "Lil Nuu",
+          "url": "https://open.spotify.com/artist/4BcULtFSsSVrAC5TbjPHWE"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186269,
+      "name": "Emergency Room",
+      "url": "https://open.spotify.com/track/24nPqDkHRkHgqCIeeEUiyv"
+    },
+    {
+      "album": {
         "name": "Ether",
         "url": "https://open.spotify.com/album/58vkERqWH5yzJ7aZKnKTVY"
       },
@@ -4136,7 +4230,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 124387,
       "name": "Ether",
       "url": "https://open.spotify.com/track/6n00j9f2moiyIb9UScm9W2"
@@ -4414,7 +4508,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 149958,
       "name": "Female Gucci Mane",
       "url": "https://open.spotify.com/track/6GfhoE4A0qgC3eO4WxKVBN"
@@ -4498,7 +4592,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 200130,
       "name": "Finsta (feat. Big Boogie)",
       "url": "https://open.spotify.com/track/549FVHJDMSppqOQYg0hvdt"
@@ -5845,6 +5939,28 @@
     },
     {
       "album": {
+        "name": "The Show Must Go On",
+        "url": "https://open.spotify.com/album/7KWSyQ1ebOczBVa3ExhmiF"
+      },
+      "artists": [
+        {
+          "name": "Saxkboy KD",
+          "url": "https://open.spotify.com/artist/2ZsCCOFHyJpgDTgyVdRYGT"
+        },
+        {
+          "name": "That Mexican OT",
+          "url": "https://open.spotify.com/artist/3BAgmPNIK5IJl7zMK1wvMA"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150973,
+      "name": "Gucci Rugs",
+      "url": "https://open.spotify.com/track/7BdNMr6ZAV0hv9Yx64j4OP"
+    },
+    {
+      "album": {
         "name": "Gun Class",
         "url": "https://open.spotify.com/album/0Lgo61nhUfuWO9f8dkKJRp"
       },
@@ -6541,6 +6657,28 @@
     },
     {
       "album": {
+        "name": "House Call",
+        "url": "https://open.spotify.com/album/4UTojRG6aHmoZoXvH3C4aV"
+      },
+      "artists": [
+        {
+          "name": "Quin Nfn",
+          "url": "https://open.spotify.com/artist/3M1quhETLChtt9NHKVaajX"
+        },
+        {
+          "name": "03 Greedo",
+          "url": "https://open.spotify.com/artist/0FtsMKmZEq8fBWqdSOWtqp"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238000,
+      "name": "House Call",
+      "url": "https://open.spotify.com/track/3vXeEuBfgF26n6W1l8ujac"
+    },
+    {
+      "album": {
         "name": "Houston Girls",
         "url": "https://open.spotify.com/album/4OumaO3iZmxeuYRE49s2wu"
       },
@@ -6614,7 +6752,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 179203,
       "name": "How to Act",
       "url": "https://open.spotify.com/track/14cO15gZdX5HuBGdLAm0pe"
@@ -7015,6 +7153,28 @@
     },
     {
       "album": {
+        "name": "I'm Geekin (feat. Luh Tyler)",
+        "url": "https://open.spotify.com/album/4hkUIlk30Vh9jsXz7dazhB"
+      },
+      "artists": [
+        {
+          "name": "DDG",
+          "url": "https://open.spotify.com/artist/0WK3H9OErSn5zKOkOV5egm"
+        },
+        {
+          "name": "Luh Tyler",
+          "url": "https://open.spotify.com/artist/1K15GRZZATsCJyGJ4bYiEz"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172035,
+      "name": "I'm Geekin (feat. Luh Tyler)",
+      "url": "https://open.spotify.com/track/2DBKeJkULv46sb1XaJKS8i"
+    },
+    {
+      "album": {
         "name": "I'm Hot (feat. Chi Chi & Nick Papz)",
         "url": "https://open.spotify.com/album/6VPco7KjnuEdqol2GoyRJw"
       },
@@ -7366,7 +7526,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 156000,
       "name": "It's About Time",
       "url": "https://open.spotify.com/track/50goo5mlh41T2TvgeDgztd"
@@ -7632,6 +7792,24 @@
       "duration_ms": 152213,
       "name": "Just Relax",
       "url": "https://open.spotify.com/track/4ZJ58LR9dwGJBFGC8RilBM"
+    },
+    {
+      "album": {
+        "name": "Kamehameha",
+        "url": "https://open.spotify.com/album/7k6oPE9ldtxmuJvtUs7pUZ"
+      },
+      "artists": [
+        {
+          "name": "Jdot Breezy",
+          "url": "https://open.spotify.com/artist/0VSM8D7ibtXjJgukfVR0eZ"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128052,
+      "name": "Kamehameha",
+      "url": "https://open.spotify.com/track/2guOg8fNpUrPDvoPaM0bye"
     },
     {
       "album": {
@@ -8956,7 +9134,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 146261,
       "name": "Meant 4 You",
       "url": "https://open.spotify.com/track/6mlW6aQ4SF29Nu5QGAAWIB"
@@ -10062,7 +10240,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 128457,
       "name": "Nicky Nine Door",
       "url": "https://open.spotify.com/track/0UMmJaSuRVNYlUv47XTZt8"
@@ -12006,7 +12184,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 160465,
       "name": "Quagen",
       "url": "https://open.spotify.com/track/4XzYDjSECJx8zxVwVPbn9t"
@@ -12516,6 +12694,24 @@
       "duration_ms": 179548,
       "name": "Richer Than My Opps",
       "url": "https://open.spotify.com/track/7reqlXtBk0OJLtRkUABUYa"
+    },
+    {
+      "album": {
+        "name": "Rick Owens",
+        "url": "https://open.spotify.com/album/5xJa0I4X0cfSRsuXup2hg6"
+      },
+      "artists": [
+        {
+          "name": "Baby Money",
+          "url": "https://open.spotify.com/artist/1AMm82jgWgkDpczxW5DMjn"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118200,
+      "name": "Rick Owens",
+      "url": "https://open.spotify.com/track/2CfLgQnyEx2GiIZnGuLJP8"
     },
     {
       "album": {
@@ -14203,6 +14399,28 @@
     },
     {
       "album": {
+        "name": "Spinnin' (feat. EST Gee / FAST X Soundtrack)",
+        "url": "https://open.spotify.com/album/5YjvUivNXjwSZFFKa4ffbb"
+      },
+      "artists": [
+        {
+          "name": "Lil Durk",
+          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
+        },
+        {
+          "name": "EST Gee",
+          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167812,
+      "name": "Spinnin' (feat. EST Gee)",
+      "url": "https://open.spotify.com/track/1jBSRWaJIQ0AaF0UQ91IbG"
+    },
+    {
+      "album": {
         "name": "Splash",
         "url": "https://open.spotify.com/album/72ETD7obHdM2Yjr4dFPZf0"
       },
@@ -14368,6 +14586,28 @@
       "duration_ms": 147878,
       "name": "Stepper (feat. Nardo Wick)",
       "url": "https://open.spotify.com/track/7Cc0nFTbzoNvRLo2CTAq66"
+    },
+    {
+      "album": {
+        "name": "Steppers (FAST X Soundtrack)",
+        "url": "https://open.spotify.com/album/3LienN5czKNZkOc15YJl0n"
+      },
+      "artists": [
+        {
+          "name": "NLE Choppa",
+          "url": "https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ"
+        },
+        {
+          "name": "Nardo Wick",
+          "url": "https://open.spotify.com/artist/0Njy6yR9LykNKYg9yE23QN"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164260,
+      "name": "Steppers",
+      "url": "https://open.spotify.com/track/5LEEhCD3GsPGlHAVk1JNda"
     },
     {
       "album": {
@@ -14802,10 +15042,36 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 175830,
       "name": "Supafly",
       "url": "https://open.spotify.com/track/6fPo9VRtXEGu6Jg1TRk7EX"
+    },
+    {
+      "album": {
+        "name": "Supafly (feat. BigXthaPlug / FAST X Soundtrack)",
+        "url": "https://open.spotify.com/album/2fIo1CPdRHVae7GbQdpi3b"
+      },
+      "artists": [
+        {
+          "name": "Cootie",
+          "url": "https://open.spotify.com/artist/7ECp9Ab69X334S1fo7jAp3"
+        },
+        {
+          "name": "BiC Fizzle",
+          "url": "https://open.spotify.com/artist/55zZKMiLQNwu6unkKc8J4y"
+        },
+        {
+          "name": "BigXthaPlug",
+          "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178189,
+      "name": "Supafly (feat. BigXthaPlug)",
+      "url": "https://open.spotify.com/track/0lkZ62PtOr82RFbVJVk8Yn"
     },
     {
       "album": {
@@ -15262,7 +15528,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 141314,
       "name": "They Forgot",
       "url": "https://open.spotify.com/track/3wi1eX69hrWTUXArhA5KeS"
@@ -16222,7 +16488,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 180705,
       "name": "Vision Blurry",
       "url": "https://open.spotify.com/track/2d88S13urqCz2WgWonX48Z"
@@ -17284,7 +17550,7 @@
       ],
       "date_added": "2023-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 122378,
       "name": "You Was Laughing",
       "url": "https://open.spotify.com/track/6SiaytZHmZ8TjfvGqAOG9m"

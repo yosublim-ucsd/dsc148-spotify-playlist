@@ -2,9 +2,9 @@
 
 ### [el nuevo indie](https://open.spotify.com/playlist/37i9dQZF1DWU6aakG7fctq)
 
-> Fresh Latin Indie\. Cover: Giorgio Siladi
+> Fresh Latin Indie\. Cover: Mola Mola
 
-361 songs - 20 hr 12 min
+363 songs - 20 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,6 +53,7 @@
 | [Break My Own Rules](https://open.spotify.com/track/7xWVF4qvxbD0OeJDI0pYaf) | [Michi](https://open.spotify.com/artist/3Wpco0QNxrTY1Gnqo06J6P) | [Sugarbaby](https://open.spotify.com/album/0DCFi1nMFtVjAoQX0yOlvQ) | 4:02 | 2022-08-11 | 2022-08-20 |
 | [Broken](https://open.spotify.com/track/3YLIRe9P2UreZ3XKv8DJKm) | [Sofía Valdés](https://open.spotify.com/artist/0caswMNVJ7vPNC1Z7NOeCT), [Pink Sweat$](https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t) | [Broken](https://open.spotify.com/album/12kWRxspXnd2ISMbXPMPcp) | 2:46 | 2022-11-24 |  |
 | [Broken Heart](https://open.spotify.com/track/6nUvMK1MawwoaRtSmrJL8h) | [HYRA](https://open.spotify.com/artist/2FuelQeDO3E7kIrTfkySKS) | [Broken Heart](https://open.spotify.com/album/5w2Tv48nWVpjJ4BjUwFrW2) | 3:22 | 2021-11-18 | 2022-07-26 |
+| [BROOKLYN](https://open.spotify.com/track/7hIrfMx9NNqoKx3Nok9O6g) | [Solo Fernández](https://open.spotify.com/artist/0bvP91QlkYvAFP71Cw6PkM) | [BROOKLYN](https://open.spotify.com/album/004QpFB05Jwt7N1gohK4l8) | 3:35 | 2023-05-19 |  |
 | [Café con Miel](https://open.spotify.com/track/5JeonPxXiD7yTHklwxNwiZ) | [Luz Pinos](https://open.spotify.com/artist/23D2NCgVNbve7gXb2AjOFM) | [Café con Miel](https://open.spotify.com/album/0ByY3EdpKPHzI5AaeUarUl) | 3:15 | 2023-04-14 |  |
 | [Canciones Tristes](https://open.spotify.com/track/5QNvwRbmGwmOU09DWSfCiA) | [Daniela Spalla](https://open.spotify.com/artist/2VSRhqonKsL7KRAIk8SMmt) | [Canciones Tristes](https://open.spotify.com/album/2wKs3Fz684CerCyUOhJOxP) | 3:06 | 2023-03-17 |  |
 | [capturas de pantalla](https://open.spotify.com/track/6HnW2csrZ7MKRoqnVJpjHR) | [Marco Mares](https://open.spotify.com/artist/5Eg5ZoZgXAa1Eit48sxoKQ) | [capturas de pantalla](https://open.spotify.com/album/0Tq8ZFYOAcHmAnnKn3kBNL) | 3:26 | 2023-02-10 | 2023-04-29 |
@@ -166,6 +167,7 @@
 | [Le hablo al agua](https://open.spotify.com/track/03tx7WIGxOlPt0TFLKKY6y) | [Andrea Cruz](https://open.spotify.com/artist/1CPyRfIuFga1dwN1PmQNn6) | [Le hablo al agua](https://open.spotify.com/album/4YaTl31aeIe2HUgftnmbh7) | 4:16 | 2023-03-10 | 2023-03-12 |
 | [Lento](https://open.spotify.com/track/5qy7TkqmSsuDarSz9Ogt5s) | [La Isla Centeno](https://open.spotify.com/artist/7EnLmrL4jTZKjeseaZyA0L) | [Fin de Semana Largo](https://open.spotify.com/album/0OilsQo54eWy2d9XHtt0d7) | 2:53 | 2023-03-10 | 2023-05-13 |
 | [Levitando Lento](https://open.spotify.com/track/2uQRhJo29IQVKiUUmYLqTm) | [Silvestre y La Naranja](https://open.spotify.com/artist/1hE5imhaIrCEKoHLHW9aCO) | [Levitando Lento](https://open.spotify.com/album/35erxSQT8lds419FlnC6WP) | 3:42 | 2022-10-27 | 2023-04-22 |
+| [Liberado por un sueño](https://open.spotify.com/track/0YiyRdU3egpWq0ULQxKAA4) | [Mola Mola](https://open.spotify.com/artist/0GvoilgXudnVgLkkxYCttN) | [Liberado](https://open.spotify.com/album/6oxa4q3xwgjHngcjVXUgbJ) | 3:28 | 2023-05-19 |  |
 | [Life](https://open.spotify.com/track/6mGhjylKtwyqiyaEhO5CB3) | [bearly](https://open.spotify.com/artist/4XKXIcyfPHauW8KznG2isn), [Christine Noel](https://open.spotify.com/artist/7K2Yw6RepVJb82r3mK93sB), [Ariza](https://open.spotify.com/artist/4hfAjEKTAFTmJvGQCGTED5) | [Life](https://open.spotify.com/album/5H3owcMi5LPfGvZUaD4ek3) | 4:00 | 2021-11-18 | 2022-07-29 |
 | [Lo Que Digan](https://open.spotify.com/track/1NNckOABiIsVrd0dJwRmLp) | [Daniela Spalla](https://open.spotify.com/artist/2VSRhqonKsL7KRAIk8SMmt) | [Lo Que Digan](https://open.spotify.com/album/1MdZ8tyZB75alme89VBOgt) | 3:10 | 2021-11-18 | 2022-11-25 |
 | [lo que el viento se llevó](https://open.spotify.com/track/2aBCMKMDskrazQZqb3JFzc) | [Sobrino](https://open.spotify.com/artist/0vEEYg1cJscAAw4sekHSOf) | [lo que el viento se llevó](https://open.spotify.com/album/2UIV5FHHm0n7L23lVQASnG) | 3:18 | 2022-12-30 | 2023-02-13 |
@@ -197,7 +199,7 @@
 | [Mi Fiesta](https://open.spotify.com/track/1h1ryRXPpMLgXeYdq9qylK) | [Bandalos Chinos](https://open.spotify.com/artist/0wn2qDKzeFlhjRUtJAwJjp) | [El Big Blue](https://open.spotify.com/album/1K6DMhbzgcx1T8e4HPnOX4) | 3:12 | 2022-11-24 | 2023-04-29 |
 | [Mi Tesoro](https://open.spotify.com/track/1V6Tp4pBAHByhlZrMTOYxd) | [Ramona](https://open.spotify.com/artist/3K8X4ZoPqijzc6QSP4eAQF) | [Mi Tesoro](https://open.spotify.com/album/1507DkjEBQqhE2xXHrOTOT) | 3:26 | 2022-12-16 | 2023-01-14 |
 | [Mi vida en llamas \(feat\. Buscabulla\)](https://open.spotify.com/track/79kbKtYtvrxWq2Zig0gtBK) | [Alex Anwandter](https://open.spotify.com/artist/0M8uC0u1YRUGCieOKmQF02), [Buscabulla](https://open.spotify.com/artist/0MoaBi6dSquXp6rrlqlF8R) | [Mi vida en llamas \(feat\. Buscabulla\)](https://open.spotify.com/album/7q70ajI1NZeBm8FIpLACy5) | 4:48 | 2023-04-28 |  |
-| [Miel](https://open.spotify.com/track/6AMHEaO84ovy8gyk9fMuvx) | [Isra y Vale](https://open.spotify.com/artist/6gv84Nihr8Dg93KuxArFxl) | [Aguadulce I](https://open.spotify.com/album/11eas3t2nurp1u7PRPFzGL) | 3:22 | 2023-03-24 |  |
+| [Miel](https://open.spotify.com/track/6AMHEaO84ovy8gyk9fMuvx) | [Isra y Vale](https://open.spotify.com/artist/6gv84Nihr8Dg93KuxArFxl) | [Aguadulce I](https://open.spotify.com/album/11eas3t2nurp1u7PRPFzGL) | 3:22 | 2023-03-24 | 2023-05-20 |
 | [Milanesa al Pan](https://open.spotify.com/track/6gE0pYDB5ndP0bSPeXktcL) | [Juan Wauters](https://open.spotify.com/artist/7CKkZZW3XtnPmqlwaElmoV), [Zoe Gotusso](https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS) | [Milanesa al Pan](https://open.spotify.com/album/405rypS7jhNdcqFTnIsVdL) | 2:49 | 2023-03-17 |  |
 | [Miracle](https://open.spotify.com/track/1qF69E9heZYJO3iBa8kOx1) | [RIZA](https://open.spotify.com/artist/710CMv31X4B1WF2nruibK1) | [Miracle](https://open.spotify.com/album/2v08BVmRilhppsPf5OBcER) | 4:20 | 2022-12-16 | 2023-01-07 |
 | [Mis Amantes](https://open.spotify.com/track/0Z02F4Jh582ZU59skYyXUD) | [Axel Fiks](https://open.spotify.com/artist/6GEaxHZNiogI175zUr4KvH), [Kastiello](https://open.spotify.com/artist/5OlTXiWZ4TqLMaqbyUsX6X) | [Mis Amantes](https://open.spotify.com/album/1clEtt82cNNqkh6YWU2fBc) | 3:49 | 2023-04-07 | 2023-05-12 |
@@ -358,7 +360,7 @@
 | [Want U Around \(feat\. Ruel\)](https://open.spotify.com/track/1Qu24vc8msUVLcMZWa4k1x) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO), [Ruel](https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn) | [Apolonio](https://open.spotify.com/album/7HlxxaJOHK0ArY4Ae4Qfc7) | 4:07 | 2021-11-18 | 2022-09-07 |
 | [Waterproof](https://open.spotify.com/track/3n9kLQTgbU3JIBEe44QyKm) | [Camila Orantes](https://open.spotify.com/artist/4SuUIMrRCRGq38QUiXCpuv), [Simon Grossmann](https://open.spotify.com/artist/6t38N9HASTn9ca0PIxfReQ) | [Waterproof](https://open.spotify.com/album/5C6qFvIfAku7LCBCd0z8ka) | 3:05 | 2023-04-07 |  |
 | [Where We Can't See](https://open.spotify.com/track/612UlRjogF7bkGgVamQhKT) | [HYRA](https://open.spotify.com/artist/2FuelQeDO3E7kIrTfkySKS) | [Where We Can't See](https://open.spotify.com/album/6WLlYL5Pd3H4tQBxcRhTOZ) | 2:45 | 2022-01-10 | 2022-08-20 |
-| [XO](https://open.spotify.com/track/7Hv1cgxfZs6pswYKvh0tDJ) | [Divino Niño](https://open.spotify.com/artist/2O2KJngZ80ZTK71HamDNYi) | [Last Spa on Earth](https://open.spotify.com/album/0Wcevqdyy01R4lGtAYoleB) | 3:05 | 2022-12-30 |  |
+| [XO](https://open.spotify.com/track/7Hv1cgxfZs6pswYKvh0tDJ) | [Divino Niño](https://open.spotify.com/artist/2O2KJngZ80ZTK71HamDNYi) | [Last Spa on Earth](https://open.spotify.com/album/0Wcevqdyy01R4lGtAYoleB) | 3:05 | 2022-12-30 | 2023-05-20 |
 | [you could at least say goodbye](https://open.spotify.com/track/6ntsguC2A1hOnhWL2Wg1M2) | [REYNA](https://open.spotify.com/artist/4AHhe1KXVCCoOdHQNjH5Zu) | [you could at least say goodbye](https://open.spotify.com/album/3cHfnOEZwfG00Y3F244NqA) | 3:39 | 2022-05-09 | 2022-08-30 |
 | [You're Thinking Of Me](https://open.spotify.com/track/7ohCuNTyH5vX9wz2aPGO1n) | [jame minogue](https://open.spotify.com/artist/0zzKHfNZYWeOjJpHdhT1Ck) | [Principe Azul](https://open.spotify.com/album/5OZV8awIYVFNjbxq0ucMIJ) | 2:41 | 2022-09-06 | 2022-10-28 |
 | [Yours](https://open.spotify.com/track/0gmStTUTuiU807EB4KafOX) | [maye](https://open.spotify.com/artist/5ti5FPHgtaSf15KcUisZMt) | [Yours](https://open.spotify.com/album/0aMCgryYtjpLrk4FhcTSU9) | 3:40 | 2021-11-18 | 2022-11-25 |

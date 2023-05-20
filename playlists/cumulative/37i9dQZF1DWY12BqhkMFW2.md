@@ -4,7 +4,7 @@
 
 > Revive your soul with this playlist, featuring updated takes on classic R&B and soul tunes.
 
-71 songs - 5 hr 21 min
+72 songs - 5 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,7 +16,8 @@
 | [As](https://open.spotify.com/track/750vuAyjSZGt53r570s8ML) | [Marsha Ambrosius](https://open.spotify.com/artist/46VWDbmWmzvPBTmkSr25gM), [Anthony Hamilton](https://open.spotify.com/artist/2DzRMyWgjuMbYvt5BLbpCo) | [The Best Man Holiday: Original Motion Picture Soundtrack](https://open.spotify.com/album/1oV4pg51THaPN4eJveWxHt) | 5:31 | 2021-01-15 | 2023-01-23 |
 | [Bag Lady / Split \- Live](https://open.spotify.com/track/6V3J9NK2BK2KbwmkGgTjip) | [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF) | [WILLOW: Live At Electric Lady](https://open.spotify.com/album/2yaCKbj7pFFEkXn3ixVr7w) | 2:03 | 2023-04-07 |  |
 | [Can't Hide Love \- Live At The Jazz Cafe, London/1995](https://open.spotify.com/track/3o9PU86yJAeojzW69KdLh6) | [D'Angelo](https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd) | [Ultimate D'Angelo](https://open.spotify.com/album/6kdaBN7lOYDLZfCAGiSecr) | 3:56 | 2021-01-15 | 2022-07-29 |
-| [Didn't Cha Know \[Feat\. Bilal\] \- Live At Electric Lady](https://open.spotify.com/track/33VfEqHmo459jipU1W7it1) | [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV), [Bilal](https://open.spotify.com/artist/4jCbgl5Dmt3uOh8WRQfpPs) | [Live At Electric Lady](https://open.spotify.com/album/1ZJIrjZ6OVtVC2TMAVlEQ4) | 4:23 | 2023-05-05 |  |
+| [Didn't Cha Know \- Live At Electric Lady](https://open.spotify.com/track/7dmgo44DhX2MOtaFV5a0HQ) | [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV), [Bilal](https://open.spotify.com/artist/4jCbgl5Dmt3uOh8WRQfpPs) | [Live At Electric Lady](https://open.spotify.com/album/29C15dlrrccQP32Cl60kjl) | 4:23 | 2023-05-05 |  |
+| [Didn't Cha Know \[Feat\. Bilal\] \- Live At Electric Lady](https://open.spotify.com/track/33VfEqHmo459jipU1W7it1) | [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV), [Bilal](https://open.spotify.com/artist/4jCbgl5Dmt3uOh8WRQfpPs) | [Live At Electric Lady](https://open.spotify.com/album/1ZJIrjZ6OVtVC2TMAVlEQ4) | 4:23 | 2023-05-05 | 2023-05-20 |
 | [Don't Disturb This Groove](https://open.spotify.com/track/7iAkNtFdZ07C7a7gFVDbRz) | [Meshell Ndegeocello](https://open.spotify.com/artist/0uZRjholJ0fVC2J9EvnYnj) | [Ventriloquism](https://open.spotify.com/album/31HcIpZ9GOo9aKUPYwV3kG) | 4:37 | 2021-01-15 | 2023-04-23 |
 | [Feel Like Makin' Love](https://open.spotify.com/track/5ZbY8J67Qsv6Kko2tZOf5Z) | [D'Angelo](https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd) | [Voodoo](https://open.spotify.com/album/1ecv8bJajqX9E0EOX2g3eI) | 6:22 | 2021-01-15 | 2022-07-25 |
 | [Feel Like Makin' Love](https://open.spotify.com/track/7hzgk557YLr0722EFkmp9Z) | [D'Angelo](https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd) | [Voodoo](https://open.spotify.com/album/2lO9yuuIDgBpSJzxTh3ai8) | 6:22 | 2021-01-15 |  |

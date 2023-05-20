@@ -4,7 +4,7 @@
 
 > 話題のロックヒットをVolume上げて爆音で。Cover: ブラー\(Blur\)
 
-260 songs - 14 hr 49 min
+263 songs - 15 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,7 +37,8 @@
 | [Bone Church](https://open.spotify.com/track/36sAFU68abNDrMOJI5QYZi) | [Slipknot](https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8) | [Bone Church](https://open.spotify.com/album/3YfWgkwUS52CmKJeOpBACz) | 5:27 | 2023-03-16 | 2023-04-11 |
 | [BOOM](https://open.spotify.com/track/2SKZ6fQDaSKo3IDYwRJxJI) | [Cassyette](https://open.spotify.com/artist/3X8VK5wNpLQCVEo4sWBH2A) | [BOOM](https://open.spotify.com/album/7FpdNGjJrRNSUx011p4Tp7) | 2:22 | 2023-03-16 | 2023-04-14 |
 | [boy](https://open.spotify.com/track/3Qw0WuniULBdYjXe2jsqCy) | [The Killers](https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu) | [boy](https://open.spotify.com/album/7ddxzwtg0QQj9kXYK29rpG) | 3:18 | 2023-03-16 | 2023-05-19 |
-| [Break Free](https://open.spotify.com/track/1a66WJh0z0NHWDnTfXtSTV) | [Dave Matthews Band](https://open.spotify.com/artist/2TI7qyDE0QfyOlnbtfDo7L) | [Walk Around The Moon](https://open.spotify.com/album/0LUQ4E3HJa0yiON6kbDVSX) | 4:08 | 2023-05-18 |  |
+| [Break Free](https://open.spotify.com/track/1a66WJh0z0NHWDnTfXtSTV) | [Dave Matthews Band](https://open.spotify.com/artist/2TI7qyDE0QfyOlnbtfDo7L) | [Walk Around The Moon](https://open.spotify.com/album/0LUQ4E3HJa0yiON6kbDVSX) | 4:08 | 2023-05-18 | 2023-05-20 |
+| [Break Free](https://open.spotify.com/track/3ZA77nqxbNNRFeuif1msHO) | [Dave Matthews Band](https://open.spotify.com/artist/2TI7qyDE0QfyOlnbtfDo7L) | [Walk Around The Moon](https://open.spotify.com/album/2hCtza1F54WPNrX8MC1jRM) | 4:08 | 2023-05-18 |  |
 | [Call Me What You Like](https://open.spotify.com/track/21rYCEejlfM0LYRlfzxGeM) | [Lovejoy](https://open.spotify.com/artist/33tFkBLsl6f8TjKkV0uF0C) | [Call Me What You Like](https://open.spotify.com/album/0hTfLMecWyjNUaxmk2OSuc) | 3:46 | 2023-03-16 |  |
 | [Calm Down](https://open.spotify.com/track/72zjYe2aysOkIR7l6KQIhR) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [Tell Me I'm Alive](https://open.spotify.com/album/0gPGmJSxuqrpvXiWdOLcRh) | 3:14 | 2023-03-16 | 2023-05-13 |
 | [Can't Have It All](https://open.spotify.com/track/1gENu5WicP0cgHaVEEIhza) | [Unlike Pluto](https://open.spotify.com/artist/4zjO8Jhi2pciJJzd8Q6rga) | [Can't Have It All](https://open.spotify.com/album/2bCdj53PszAxn5LSFzS39Q) | 3:33 | 2023-04-27 | 2023-05-05 |
@@ -88,7 +89,8 @@
 | [Fireflies](https://open.spotify.com/track/1BqsFNh9cUiZ5hxqtYyCNG) | [The Rasmus](https://open.spotify.com/artist/76ptJV8617638xrpeoUtzl), [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL) | [Fireflies](https://open.spotify.com/album/3u4HcEsvcPmzUrhLitt0y5) | 3:36 | 2023-03-30 | 2023-04-07 |
 | [Fireflies](https://open.spotify.com/track/2Pb1ekr2pXVYEMER3rNcIa) | [The Smashing Pumpkins](https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i) | [ATUM](https://open.spotify.com/album/4Sd50ORhLkyoddNHyLnr49) | 3:26 | 2023-05-04 | 2023-05-19 |
 | [Fish Bowl](https://open.spotify.com/track/1NpW5f28xLOyAhcJOCPcqI) | [Kate Davis](https://open.spotify.com/artist/4jXKRg7GZPm3mKGgKwUEco) | [Fish Bowl](https://open.spotify.com/album/1HxH0oH1wXSheea1tSj0Ne) | 2:49 | 2023-03-23 | 2023-03-31 |
-| [Francesca](https://open.spotify.com/track/6TSH6vh6KkSfExHM6evcbr) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Francesca](https://open.spotify.com/album/09gUFQ3fFjCHuhv1ab99Ce) | 4:30 | 2023-05-18 |  |
+| [Francesca](https://open.spotify.com/track/4LmOmWpjCQbC1VZvUuwPQu) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Francesca](https://open.spotify.com/album/2GS1K0RZ5SjtuT8bsX0xyv) | 4:30 | 2023-05-18 |  |
+| [Francesca](https://open.spotify.com/track/6TSH6vh6KkSfExHM6evcbr) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Francesca](https://open.spotify.com/album/09gUFQ3fFjCHuhv1ab99Ce) | 4:30 | 2023-05-18 | 2023-05-20 |
 | [Francine](https://open.spotify.com/track/5EkuuSlYhPOGw5u8fBZchr) | [GROUPLOVE](https://open.spotify.com/artist/3kVUvbeRdcrqQ3oHk5hPdx) | [Francine](https://open.spotify.com/album/3qbOr1Vxke04WmPswO4hRv) | 4:26 | 2023-05-11 |  |
 | [Friends With Benefits](https://open.spotify.com/track/3cubovyBMABNcWzSdbzMTP) | [jxdn](https://open.spotify.com/artist/6Y64EaNqpqcZYTgs4c76gF) | [Friends With Benefits](https://open.spotify.com/album/1V6UogSpYpLE8XYmCdjR5N) | 3:07 | 2023-03-16 | 2023-04-07 |
 | [Ghosts Again](https://open.spotify.com/track/3TiVl5igD6Z5Pw6R5sp8YV) | [Depeche Mode](https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX) | [Ghosts Again](https://open.spotify.com/album/71hI1kZm2fvpY19mlv38nF) | 3:58 | 2023-03-16 |  |
@@ -132,7 +134,8 @@
 | [Just Pretend](https://open.spotify.com/track/1H4Y9uW4N0LsxJUz0VnaPJ) | [Bad Omens](https://open.spotify.com/artist/3Ri4H12KFyu98LMjSoij5V) | [THE DEATH OF PEACE OF MIND](https://open.spotify.com/album/3p7m1Pmg6n3BlpL9Py7IUA) | 3:24 | 2023-03-16 |  |
 | [Kamikaze \(feat\. Jason Williamson\)](https://open.spotify.com/track/3GIfxO4nC66ctxemNbsnja) | [Connie Constance](https://open.spotify.com/artist/4RB2kk5dmocmMiHFBlmOEt), [Jason Williamson](https://open.spotify.com/artist/6FXpwZCAFTac1SZyvCXBeI) | [Kamikaze \(feat\. Jason Williamson\)](https://open.spotify.com/album/7sRIz0hKDDtZCzVNZmneuC) | 2:20 | 2023-03-30 | 2023-04-07 |
 | [Know Better](https://open.spotify.com/track/3qQGm2LA50Pr3ejJuIo56A) | [Sir Chloe](https://open.spotify.com/artist/6rniTPs9zN26kYnkPdFl1U) | [Know Better](https://open.spotify.com/album/091rITH4fXltYccZlmbrzw) | 3:11 | 2023-04-20 | 2023-04-28 |
-| [Ladybug](https://open.spotify.com/track/5dmp3KBV5pqFdQURMpUSb9) | [Jutes](https://open.spotify.com/artist/53fzjsJnjEKkA6TdncuIM4) | [Ladybug](https://open.spotify.com/album/77rk67trr9jAoRt8oy9yU2) | 2:45 | 2023-05-18 |  |
+| [Ladybug](https://open.spotify.com/track/3Xokw1dgXW1kAEPcMpVWoe) | [Jutes](https://open.spotify.com/artist/53fzjsJnjEKkA6TdncuIM4) | [Ladybug](https://open.spotify.com/album/0k3L1wx1gsIGQPcCJvAQMT) | 2:45 | 2023-05-18 |  |
+| [Ladybug](https://open.spotify.com/track/5dmp3KBV5pqFdQURMpUSb9) | [Jutes](https://open.spotify.com/artist/53fzjsJnjEKkA6TdncuIM4) | [Ladybug](https://open.spotify.com/album/77rk67trr9jAoRt8oy9yU2) | 2:45 | 2023-05-18 | 2023-05-20 |
 | [Lead Pipe](https://open.spotify.com/track/3tKtvdq8ljuxOsXvlhL0sc) | [Movements](https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac) | [Killing Time / Lead Pipe](https://open.spotify.com/album/2Kf6AR80jAmKRoaoTYVbV8) | 2:59 | 2023-04-27 | 2023-05-05 |
 | [Left Behind](https://open.spotify.com/track/5G6jZFDAFlpAA9v5LTV4NI) | [The Plot In You](https://open.spotify.com/artist/1cJ5tVoeAEFcZBAwSZ0CtF) | [Left Behind](https://open.spotify.com/album/2efABZ7jsJTkRkZALraqEM) | 3:26 | 2023-04-14 |  |
 | [life imitates life](https://open.spotify.com/track/5E9qBEUja2yAjUPhQO8Gx7) | [quannnic](https://open.spotify.com/artist/6X9yxRiccMK40GHKfUFZEu) | [kenopsia](https://open.spotify.com/album/72ilxCJIul1iivwSTAdoNp) | 3:23 | 2023-05-18 |  |

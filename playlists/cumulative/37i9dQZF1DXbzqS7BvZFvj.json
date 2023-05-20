@@ -1951,6 +1951,32 @@
     },
     {
       "album": {
+        "name": "On My Soul",
+        "url": "https://open.spotify.com/album/1I5QGY6wFJp0LjgDvbfV87"
+      },
+      "artists": [
+        {
+          "name": "Tobe Nwigwe",
+          "url": "https://open.spotify.com/artist/3Qh89pgJeZq6d8uM1bTot3"
+        },
+        {
+          "name": "Nas",
+          "url": "https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q"
+        },
+        {
+          "name": "Jacob Banks",
+          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
+        }
+      ],
+      "date_added": "2023-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "On My Soul",
+      "url": "https://open.spotify.com/track/2xLrkO5wPNzl5cNjLoPeNW"
+    },
+    {
+      "album": {
         "name": "One Mic, One Gun",
         "url": "https://open.spotify.com/album/2K2es8pRFX0kOaEdXZZgMl"
       },

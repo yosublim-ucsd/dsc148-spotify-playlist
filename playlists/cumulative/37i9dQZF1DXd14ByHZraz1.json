@@ -1957,6 +1957,24 @@
     },
     {
       "album": {
+        "name": "I Promise You - EP",
+        "url": "https://open.spotify.com/album/3GH8gnj3NOFOeP5ixZkRDA"
+      },
+      "artists": [
+        {
+          "name": "Rooftime",
+          "url": "https://open.spotify.com/artist/4QZjx3AfLqJhGYkmWAEUm7"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196000,
+      "name": "Piece of Mind",
+      "url": "https://open.spotify.com/track/077nlPyo66esQ7ZmcVxcbL"
+    },
+    {
+      "album": {
         "name": "Poison",
         "url": "https://open.spotify.com/album/1TPKLkMqhU8arg0gX9lA6n"
       },

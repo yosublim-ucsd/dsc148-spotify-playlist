@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1qPYE0fcNDF.md) - [plain]
 
 > Hip Hop and Happy Holidays! Cover: Gucci Mane
 
-[Spotify](https://open.spotify.com/user/spotify) - 103,905 likes - 50 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 103,897 likes - 50 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1qPYE0fcNDF.md) - [plain]
 | 49 | [Christmas At Swae’s](https://open.spotify.com/track/2uIJmDr8yFuq27JgZGAw7l) | [Swae Lee](https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX), [Rae Sremmurd](https://open.spotify.com/artist/7iZtZyCzp3LItcw1wtPI3D), [Ear Drummers](https://open.spotify.com/artist/16b0RUDQWdrU5HYFKuFW98) | [Christmas At Swae’s](https://open.spotify.com/album/6Qx4jA6F8xTrAypkeaVUSk) | 3:46 |
 | 50 | [Bungecord Christmas](https://open.spotify.com/track/1aeQUlT3fNViIUNtimzgeK) | [Trae Tha Truth](https://open.spotify.com/artist/49vCIUW46QY3L5vo1xVFoy) | [Bungecord Christmas](https://open.spotify.com/album/1TJY1i9QiyYIABj0cPN9po) | 2:09 |
 
-Snapshot ID: `MCxjNDYxZjVhNGY2NmZlMzA4NWE5YzJhOWE3NTk3M2JmNjQzZTE1ZDJi`
+Snapshot ID: `MCxhYjMwMTRhMjAwMjJmOTYyOTc4MjgwMzljYTg0OTg5YTc1MWZmMzhk`

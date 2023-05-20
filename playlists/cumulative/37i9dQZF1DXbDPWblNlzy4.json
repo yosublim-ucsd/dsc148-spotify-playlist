@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-20",
-  "description": "Los \u00e9xitos m\u00e1s POPulares en espa\u00f1ol los encuentras aqu\u00ed. Foto: Sebastian Yatra, Manuel Turizo, Be\u00e9le",
+  "description": "Los \u00e9xitos m\u00e1s POPulares en espa\u00f1ol los encuentras aqu\u00ed. Foto: Alex Campos",
   "name": "Frecuencia Pop",
   "tracks": [
     {
@@ -658,7 +658,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 237619,
       "name": "El Caudal",
       "url": "https://open.spotify.com/track/3Eofn5MhdnUYozRhcxGYLN"
@@ -1107,6 +1107,28 @@
     },
     {
       "album": {
+        "name": "Me Enter\u00e9",
+        "url": "https://open.spotify.com/album/6KBwgofbUBuXuFTuKmi9Js"
+      },
+      "artists": [
+        {
+          "name": "Tiago PZK",
+          "url": "https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1"
+        },
+        {
+          "name": "TINI",
+          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182075,
+      "name": "Me Enter\u00e9",
+      "url": "https://open.spotify.com/track/5FWQLEX0lavdxiWGBNkBQ4"
+    },
+    {
+      "album": {
         "name": "Me Gustas M\u00e1s Que Salir a Fumar",
         "url": "https://open.spotify.com/album/0D1v1FFqRnSxLhxbU93gvs"
       },
@@ -1227,6 +1249,24 @@
     },
     {
       "album": {
+        "name": "POP ANDINO",
+        "url": "https://open.spotify.com/album/1cQIL3GmWmjxqgTzER9FQh"
+      },
+      "artists": [
+        {
+          "name": "Milena Warthon",
+          "url": "https://open.spotify.com/artist/65vjAwgtLCwB1nQE7V5eMd"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201709,
+      "name": "M\u00c1S ALL\u00c1",
+      "url": "https://open.spotify.com/track/7oI4eP3pgPMuHOaf9OG2f0"
+    },
+    {
+      "album": {
         "name": "M\u00e1s Tuyo",
         "url": "https://open.spotify.com/album/1IFMubOxiwRWCKRzumj1i6"
       },
@@ -1278,6 +1318,24 @@
       "duration_ms": 164826,
       "name": "Netflix & Chill",
       "url": "https://open.spotify.com/track/0KPDkJ5UfDsGKw7gsieU54"
+    },
+    {
+      "album": {
+        "name": "VIDA",
+        "url": "https://open.spotify.com/album/3ocvapzDsPJrziwnlD7I82"
+      },
+      "artists": [
+        {
+          "name": "Alex Campos",
+          "url": "https://open.spotify.com/artist/6slyJwua5e5GuhuP82sTHR"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261739,
+      "name": "No Fue Un Tiro De Suerte",
+      "url": "https://open.spotify.com/track/3CXs1ePFimpOdhvU7je7i5"
     },
     {
       "album": {
@@ -1456,7 +1514,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 191863,
       "name": "Obsesi\u00f3n",
       "url": "https://open.spotify.com/track/5Dor1ZjCnBYmC136ytDzJp"
@@ -1566,7 +1624,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 192667,
       "name": "Pan Duro",
       "url": "https://open.spotify.com/track/1O40u9TDoeXhy1TWJbwf8A"

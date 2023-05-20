@@ -1,12 +1,12 @@
 {
   "description": "De beste norske l\u00e5tene fra noen av v\u00e5re aller beste artister.",
-  "num_followers": 68471,
+  "num_followers": 68498,
   "original_name": "Norske viser",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxZGJmZGE0ZWE4YTllNzk5MDM0NDRlNDFlMDM3NzhkMDFjMjZiYTk3",
+  "snapshot_id": "MCw3ZTYxNjUwZTBiMTA1NjcyZmQ2NDZkOWI5MTVmM2VlOTQzYjc1MGVm",
   "tracks": [
     {
       "added_at": "2023-05-11 22:00:00",
@@ -743,18 +743,22 @@
     {
       "added_at": "2023-05-11 22:00:00",
       "album": {
-        "name": "Ta Meg Med",
-        "url": "https://open.spotify.com/album/3pWcFE43bLCUJhpuziIvHP"
+        "name": "Imellom to Evigheter",
+        "url": "https://open.spotify.com/album/2INOoVCEg8h4xWkSyuYzya"
       },
       "artists": [
         {
-          "name": "Olav Stedje",
-          "url": "https://open.spotify.com/artist/4SM0aaZA4Gky48PLIlqFPA"
+          "name": "Finn Kalvik",
+          "url": "https://open.spotify.com/artist/4t5H7BynY6Et5nbYwjU3an"
+        },
+        {
+          "name": "Cajsa Stina \u00c5kerstr\u00f6m",
+          "url": "https://open.spotify.com/artist/0N98N0DiskOexjlZjJ6YZ7"
         }
       ],
-      "duration_ms": 194506,
-      "name": "Vi Vandrar Saman (Eg F\u00f8lgjer Der Du G\u00e5r)",
-      "url": "https://open.spotify.com/track/5b1AEdCpaCSNO8Z3i3SlFV"
+      "duration_ms": 254680,
+      "name": "Tr\u00f8stevise (Tr\u00f6stevisa)",
+      "url": "https://open.spotify.com/track/05MxJsc8F0G2u3IIz6g0b2"
     },
     {
       "added_at": "2023-05-11 22:00:00",
@@ -775,22 +779,18 @@
     {
       "added_at": "2023-05-11 22:00:00",
       "album": {
-        "name": "Imellom to Evigheter",
-        "url": "https://open.spotify.com/album/2INOoVCEg8h4xWkSyuYzya"
+        "name": "Ta Meg Med",
+        "url": "https://open.spotify.com/album/3pWcFE43bLCUJhpuziIvHP"
       },
       "artists": [
         {
-          "name": "Finn Kalvik",
-          "url": "https://open.spotify.com/artist/4t5H7BynY6Et5nbYwjU3an"
-        },
-        {
-          "name": "Cajsa Stina \u00c5kerstr\u00f6m",
-          "url": "https://open.spotify.com/artist/0N98N0DiskOexjlZjJ6YZ7"
+          "name": "Olav Stedje",
+          "url": "https://open.spotify.com/artist/4SM0aaZA4Gky48PLIlqFPA"
         }
       ],
-      "duration_ms": 254680,
-      "name": "Tr\u00f8stevise (Tr\u00f6stevisa)",
-      "url": "https://open.spotify.com/track/05MxJsc8F0G2u3IIz6g0b2"
+      "duration_ms": 194506,
+      "name": "Vi Vandrar Saman (Eg F\u00f8lgjer Der Du G\u00e5r)",
+      "url": "https://open.spotify.com/track/5b1AEdCpaCSNO8Z3i3SlFV"
     },
     {
       "added_at": "2023-05-11 22:00:00",
@@ -879,18 +879,18 @@
     {
       "added_at": "2023-05-11 22:00:00",
       "album": {
-        "name": "1988 EP",
-        "url": "https://open.spotify.com/album/74LpfW8LrYQp2PNRHfjgaU"
+        "name": "Paus synger Paus",
+        "url": "https://open.spotify.com/album/1DjWqnJPoObQzAbb8dPwts"
       },
       "artists": [
         {
-          "name": "Daniel Kvammen",
-          "url": "https://open.spotify.com/artist/1c9LVBvYq58ViD8qdLml7A"
+          "name": "Ole Paus",
+          "url": "https://open.spotify.com/artist/1ekYDgldjpqKSEzJftWKQB"
         }
       ],
-      "duration_ms": 257906,
-      "name": "Du fortenar ein som meg - klineversjon",
-      "url": "https://open.spotify.com/track/1v4hTCaKOr5qVothIsL9er"
+      "duration_ms": 202000,
+      "name": "Mitt lille land",
+      "url": "https://open.spotify.com/track/24bYCEcem3tzo3raOOwh01"
     }
   ],
   "unique_name": "Norske viser",

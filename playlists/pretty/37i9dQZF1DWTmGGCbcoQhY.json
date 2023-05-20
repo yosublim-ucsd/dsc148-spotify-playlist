@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Un sa-sa-saludo a todos los amantes de la cu-cu-cumbia!",
-  "num_followers": 1235056,
+  "num_followers": 1235455,
   "original_name": "Cumbia Sonidera",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3NTcwMTNiZTA2Y2E5NWZjYzlhZGVlZTgzYjIyYTJmMDIyMzhiNDQ4",
+  "snapshot_id": "MCw2ZGU0ZGIyYzA0MWI2ZDQ5MGY0ZGM0ZjBkMDM2ZTkwNjA5NzVkYWQ1",
   "tracks": [
     {
       "added_at": "2023-04-28 19:18:19",
@@ -759,22 +759,6 @@
     {
       "added_at": "2023-04-28 19:18:19",
       "album": {
-        "name": "Trayectoria",
-        "url": "https://open.spotify.com/album/0YtGKnOCOt9IYnHDsuJwQt"
-      },
-      "artists": [
-        {
-          "name": "Los Yes Yes",
-          "url": "https://open.spotify.com/artist/6h9B8wche8pbvJ0wiWKn8q"
-        }
-      ],
-      "duration_ms": 315680,
-      "name": "El Verde De Tus Ojos - Remix",
-      "url": "https://open.spotify.com/track/1Nl4EXAxSulKlbiro793i4"
-    },
-    {
-      "added_at": "2023-04-28 19:18:19",
-      "album": {
         "name": "Los Yaguaru",
         "url": "https://open.spotify.com/album/6zLHoo66ahzFaPgo7Sp3FA"
       },
@@ -787,6 +771,22 @@
       "duration_ms": 235128,
       "name": "Alma De Acero",
       "url": "https://open.spotify.com/track/3LgQlKNGiQiQhMiTU0ZKao"
+    },
+    {
+      "added_at": "2023-04-28 19:18:19",
+      "album": {
+        "name": "Trayectoria",
+        "url": "https://open.spotify.com/album/0YtGKnOCOt9IYnHDsuJwQt"
+      },
+      "artists": [
+        {
+          "name": "Los Yes Yes",
+          "url": "https://open.spotify.com/artist/6h9B8wche8pbvJ0wiWKn8q"
+        }
+      ],
+      "duration_ms": 315680,
+      "name": "El Verde De Tus Ojos - Remix",
+      "url": "https://open.spotify.com/track/1Nl4EXAxSulKlbiro793i4"
     },
     {
       "added_at": "2023-04-28 19:18:19",
@@ -839,30 +839,6 @@
     {
       "added_at": "2023-04-28 19:18:19",
       "album": {
-        "name": "Nuestra Historia Termino",
-        "url": "https://open.spotify.com/album/1iFOgtTfccrwup6iq06dvf"
-      },
-      "artists": [
-        {
-          "name": "ICC",
-          "url": "https://open.spotify.com/artist/66UyAOM9ECEDzsfUm9UXeF"
-        },
-        {
-          "name": "Grupo Quintanna",
-          "url": "https://open.spotify.com/artist/17jlmfAaFHbfrauHk2HiNc"
-        },
-        {
-          "name": "Los Tepoz",
-          "url": "https://open.spotify.com/artist/1yu6r3vgWWDpQLOVHtM8pW"
-        }
-      ],
-      "duration_ms": 234140,
-      "name": "Nuestra Historia Termino",
-      "url": "https://open.spotify.com/track/3BrU3r6HIJI9zmk1rZ7ucg"
-    },
-    {
-      "added_at": "2023-04-28 19:18:19",
-      "album": {
         "name": "No Me Enga\u00f1es Nunca",
         "url": "https://open.spotify.com/album/0tUwtwf1x9pnkZUM9tXrSX"
       },
@@ -887,18 +863,42 @@
     {
       "added_at": "2023-04-28 19:18:19",
       "album": {
-        "name": "La Monjita Voladora - Cumbia Sonidera",
-        "url": "https://open.spotify.com/album/7HxXxjI6VekYFOUtJL7n2V"
+        "name": "Nuestra Historia Termino",
+        "url": "https://open.spotify.com/album/1iFOgtTfccrwup6iq06dvf"
       },
       "artists": [
         {
-          "name": "Grupo Toca Recio",
-          "url": "https://open.spotify.com/artist/1j98coEFrGNwVfl7gGMO7u"
+          "name": "ICC",
+          "url": "https://open.spotify.com/artist/66UyAOM9ECEDzsfUm9UXeF"
+        },
+        {
+          "name": "Grupo Quintanna",
+          "url": "https://open.spotify.com/artist/17jlmfAaFHbfrauHk2HiNc"
+        },
+        {
+          "name": "Los Tepoz",
+          "url": "https://open.spotify.com/artist/1yu6r3vgWWDpQLOVHtM8pW"
         }
       ],
-      "duration_ms": 249768,
-      "name": "La Monjita Voladora - Cumbia Sonidera",
-      "url": "https://open.spotify.com/track/24zP7HDzOD078cjG0q61i3"
+      "duration_ms": 234140,
+      "name": "Nuestra Historia Termino",
+      "url": "https://open.spotify.com/track/3BrU3r6HIJI9zmk1rZ7ucg"
+    },
+    {
+      "added_at": "2023-04-28 19:18:19",
+      "album": {
+        "name": "Grito En Silencio",
+        "url": "https://open.spotify.com/album/5FXAiILW1gioBCuF7I39wS"
+      },
+      "artists": [
+        {
+          "name": "Grupo Carabo",
+          "url": "https://open.spotify.com/artist/0pY1OqclT7G3fojvX0dKdv"
+        }
+      ],
+      "duration_ms": 215973,
+      "name": "El Afilador",
+      "url": "https://open.spotify.com/track/7ob6SovekT6cESeyUHiFQn"
     },
     {
       "added_at": "2023-04-28 19:18:19",
@@ -919,18 +919,18 @@
     {
       "added_at": "2023-04-28 19:18:19",
       "album": {
-        "name": "Grito En Silencio",
-        "url": "https://open.spotify.com/album/5FXAiILW1gioBCuF7I39wS"
+        "name": "La Monjita Voladora - Cumbia Sonidera",
+        "url": "https://open.spotify.com/album/7HxXxjI6VekYFOUtJL7n2V"
       },
       "artists": [
         {
-          "name": "Grupo Carabo",
-          "url": "https://open.spotify.com/artist/0pY1OqclT7G3fojvX0dKdv"
+          "name": "Grupo Toca Recio",
+          "url": "https://open.spotify.com/artist/1j98coEFrGNwVfl7gGMO7u"
         }
       ],
-      "duration_ms": 215973,
-      "name": "El Afilador",
-      "url": "https://open.spotify.com/track/7ob6SovekT6cESeyUHiFQn"
+      "duration_ms": 249768,
+      "name": "La Monjita Voladora - Cumbia Sonidera",
+      "url": "https://open.spotify.com/track/24zP7HDzOD078cjG0q61i3"
     },
     {
       "added_at": "2023-04-28 19:18:19",
@@ -955,22 +955,6 @@
     {
       "added_at": "2023-04-28 19:18:19",
       "album": {
-        "name": "Tus Jefes No Me Quieren. Lleg\u00f3 la Cumbia",
-        "url": "https://open.spotify.com/album/59DJY70HuReCmWs6EzRoNA"
-      },
-      "artists": [
-        {
-          "name": "Grupo Ensamble",
-          "url": "https://open.spotify.com/artist/4qDQBPUMcJUH7BQ9dfJnfI"
-        }
-      ],
-      "duration_ms": 232546,
-      "name": "Me Enamor\u00e9 de una Sonidera",
-      "url": "https://open.spotify.com/track/6lApNS6zB7kkMd7MwuX6eO"
-    },
-    {
-      "added_at": "2023-04-28 19:18:19",
-      "album": {
         "name": "Del Barrio Para El Barrio (Vol. 1)",
         "url": "https://open.spotify.com/album/5An162eTQFVEdwwUnSmdFy"
       },
@@ -983,6 +967,22 @@
       "duration_ms": 199653,
       "name": "Enbrujo De Cumbia",
       "url": "https://open.spotify.com/track/38jOJMFVIwUYrYceAHN5Cb"
+    },
+    {
+      "added_at": "2023-04-28 19:18:19",
+      "album": {
+        "name": "Tus Jefes No Me Quieren. Lleg\u00f3 la Cumbia",
+        "url": "https://open.spotify.com/album/59DJY70HuReCmWs6EzRoNA"
+      },
+      "artists": [
+        {
+          "name": "Grupo Ensamble",
+          "url": "https://open.spotify.com/artist/4qDQBPUMcJUH7BQ9dfJnfI"
+        }
+      ],
+      "duration_ms": 232546,
+      "name": "Me Enamor\u00e9 de una Sonidera",
+      "url": "https://open.spotify.com/track/6lApNS6zB7kkMd7MwuX6eO"
     },
     {
       "added_at": "2023-04-28 19:18:19",
@@ -1463,22 +1463,6 @@
     {
       "added_at": "2023-04-28 19:18:19",
       "album": {
-        "name": "Acariciame",
-        "url": "https://open.spotify.com/album/21J5hwCVwPqhVw5FchorkD"
-      },
-      "artists": [
-        {
-          "name": "Del Recuerdo",
-          "url": "https://open.spotify.com/artist/4IO8qUf0r0GJh9K7fxmVPb"
-        }
-      ],
-      "duration_ms": 201862,
-      "name": "Acariciame",
-      "url": "https://open.spotify.com/track/5whpGnP7FAdfodcbZ2oqe5"
-    },
-    {
-      "added_at": "2023-04-28 19:18:19",
-      "album": {
         "name": "Enamoradas",
         "url": "https://open.spotify.com/album/3ZLUqvji6GFOP3sAw04gJA"
       },
@@ -1491,6 +1475,22 @@
       "duration_ms": 177213,
       "name": "Por Un Rato",
       "url": "https://open.spotify.com/track/1tuNezfWG1gxqSiyOOQhDt"
+    },
+    {
+      "added_at": "2023-04-28 19:18:19",
+      "album": {
+        "name": "Acariciame",
+        "url": "https://open.spotify.com/album/21J5hwCVwPqhVw5FchorkD"
+      },
+      "artists": [
+        {
+          "name": "Del Recuerdo",
+          "url": "https://open.spotify.com/artist/4IO8qUf0r0GJh9K7fxmVPb"
+        }
+      ],
+      "duration_ms": 201862,
+      "name": "Acariciame",
+      "url": "https://open.spotify.com/track/5whpGnP7FAdfodcbZ2oqe5"
     },
     {
       "added_at": "2023-04-28 19:18:19",
@@ -1935,18 +1935,18 @@
     {
       "added_at": "2023-04-28 19:18:19",
       "album": {
-        "name": "Y De Nuevo Otra Vez !!!",
-        "url": "https://open.spotify.com/album/04h1TCgDD9MFwQ63HZAD2A"
+        "name": "No Mientas Mas",
+        "url": "https://open.spotify.com/album/0QhW8Dh9oguR6NzoK2GmuB"
       },
       "artists": [
         {
-          "name": "El Grupo De Mayor Impacto Apasionadoz",
-          "url": "https://open.spotify.com/artist/3UoG37LDn0i3I43VIeS2J8"
+          "name": "Grupo Ca\u00f1averal De Humberto Pab\u00f3n",
+          "url": "https://open.spotify.com/artist/48zixAu4wMDZwpVbOenDU7"
         }
       ],
-      "duration_ms": 227108,
-      "name": "Solo una Noche",
-      "url": "https://open.spotify.com/track/2UBLFphvbPCnnau4kxBWOU"
+      "duration_ms": 234605,
+      "name": "No Mientas Mas",
+      "url": "https://open.spotify.com/track/2UPAAB37D9N0An9XJf18eY"
     },
     {
       "added_at": "2023-04-28 19:18:19",
@@ -1967,18 +1967,18 @@
     {
       "added_at": "2023-04-28 19:18:19",
       "album": {
-        "name": "No Mientas Mas",
-        "url": "https://open.spotify.com/album/0QhW8Dh9oguR6NzoK2GmuB"
+        "name": "Y De Nuevo Otra Vez !!!",
+        "url": "https://open.spotify.com/album/04h1TCgDD9MFwQ63HZAD2A"
       },
       "artists": [
         {
-          "name": "Grupo Ca\u00f1averal De Humberto Pab\u00f3n",
-          "url": "https://open.spotify.com/artist/48zixAu4wMDZwpVbOenDU7"
+          "name": "El Grupo De Mayor Impacto Apasionadoz",
+          "url": "https://open.spotify.com/artist/3UoG37LDn0i3I43VIeS2J8"
         }
       ],
-      "duration_ms": 234605,
-      "name": "No Mientas Mas",
-      "url": "https://open.spotify.com/track/2UPAAB37D9N0An9XJf18eY"
+      "duration_ms": 227108,
+      "name": "Solo una Noche",
+      "url": "https://open.spotify.com/track/2UBLFphvbPCnnau4kxBWOU"
     },
     {
       "added_at": "2023-04-28 19:18:19",
@@ -2015,22 +2015,6 @@
     {
       "added_at": "2023-04-28 19:18:19",
       "album": {
-        "name": "Solo Tu",
-        "url": "https://open.spotify.com/album/22IBF7b0Xvsdzo1VBdDTGG"
-      },
-      "artists": [
-        {
-          "name": "Los Piratas de Tony Mey",
-          "url": "https://open.spotify.com/artist/2Ilxa6TGuc2YwL3a1fp0hl"
-        }
-      ],
-      "duration_ms": 307855,
-      "name": "Solo Tu",
-      "url": "https://open.spotify.com/track/1PZOhTwLZSMkpXAWi7dUZR"
-    },
-    {
-      "added_at": "2023-04-28 19:18:19",
-      "album": {
         "name": "El Sonido Joven De La Cumbia",
         "url": "https://open.spotify.com/album/5JEU6bHi5pXsQwNMjOA5Hr"
       },
@@ -2043,6 +2027,22 @@
       "duration_ms": 211533,
       "name": "Fue En Diciembre",
       "url": "https://open.spotify.com/track/4WaMR6uG9JwxhVaO5nc5U9"
+    },
+    {
+      "added_at": "2023-04-28 19:18:19",
+      "album": {
+        "name": "Solo Tu",
+        "url": "https://open.spotify.com/album/22IBF7b0Xvsdzo1VBdDTGG"
+      },
+      "artists": [
+        {
+          "name": "Los Piratas de Tony Mey",
+          "url": "https://open.spotify.com/artist/2Ilxa6TGuc2YwL3a1fp0hl"
+        }
+      ],
+      "duration_ms": 307855,
+      "name": "Solo Tu",
+      "url": "https://open.spotify.com/track/1PZOhTwLZSMkpXAWi7dUZR"
     },
     {
       "added_at": "2023-04-28 19:18:19",

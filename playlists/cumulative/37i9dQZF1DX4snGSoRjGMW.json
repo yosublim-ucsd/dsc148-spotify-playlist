@@ -218,7 +218,7 @@
       ],
       "date_added": "2020-12-01",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-14",
+      "date_removed": null,
       "duration_ms": 207106,
       "name": "Chockin' Kind",
       "url": "https://open.spotify.com/track/0XhQIBdAhqSEqk7HIfwxtk"
@@ -272,7 +272,7 @@
       ],
       "date_added": "2020-12-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-20",
+      "date_removed": null,
       "duration_ms": 220333,
       "name": "Doing The Best That I Can",
       "url": "https://open.spotify.com/track/4ev5BVuQ2q9mc4kujCsLB0"
@@ -330,7 +330,7 @@
       ],
       "date_added": "2020-12-01",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-27",
+      "date_removed": null,
       "duration_ms": 213920,
       "name": "Earnestine",
       "url": "https://open.spotify.com/track/7Jxp79DHtduKJ7YPo4lDaC"
@@ -348,7 +348,7 @@
       ],
       "date_added": "2020-12-01",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-22",
+      "date_removed": null,
       "duration_ms": 256466,
       "name": "Engines And Wings",
       "url": "https://open.spotify.com/track/5DKD8QtRqQbCwIQ7mTXPpl"
@@ -446,6 +446,28 @@
     {
       "album": {
         "name": "This Time For Real",
+        "url": "https://open.spotify.com/album/1meZevHXaZSjtaDrDpQrLq"
+      },
+      "artists": [
+        {
+          "name": "Billy Price",
+          "url": "https://open.spotify.com/artist/509o7Fm0youPHjgcq5nCRI"
+        },
+        {
+          "name": "Otis Clay",
+          "url": "https://open.spotify.com/artist/2jV8AcZ8W3TfiqInUGWwlL"
+        }
+      ],
+      "date_added": "2020-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255693,
+      "name": "Going to the Shack",
+      "url": "https://open.spotify.com/track/1hpX0MfjBsfsva8S0AxemB"
+    },
+    {
+      "album": {
+        "name": "This Time For Real",
         "url": "https://open.spotify.com/album/749QhTw8T5oHNNZ3MigsLQ"
       },
       "artists": [
@@ -496,7 +518,7 @@
       ],
       "date_added": "2020-12-01",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-03",
+      "date_removed": null,
       "duration_ms": 330426,
       "name": "Hard Times",
       "url": "https://open.spotify.com/track/1mtfdthSTMezS4JvehViCT"
@@ -514,7 +536,7 @@
       ],
       "date_added": "2020-12-01",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-08",
+      "date_removed": null,
       "duration_ms": 264400,
       "name": "Hold On",
       "url": "https://open.spotify.com/track/6hvJliJvOMHiKSXjPyUoZf"
@@ -532,7 +554,7 @@
       ],
       "date_added": "2020-12-01",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-11",
+      "date_removed": null,
       "duration_ms": 332826,
       "name": "Honey It's Your Fault",
       "url": "https://open.spotify.com/track/5YpqRyGuBn5etkcVncz6fv"
@@ -554,6 +576,24 @@
       "duration_ms": 265133,
       "name": "I Can't Hold It",
       "url": "https://open.spotify.com/track/1YIEDMHFSa43AFA3fNtbk6"
+    },
+    {
+      "album": {
+        "name": "Keep On Believing",
+        "url": "https://open.spotify.com/album/43hMohTDeOQaAp6tML5G68"
+      },
+      "artists": [
+        {
+          "name": "Lou Pride",
+          "url": "https://open.spotify.com/artist/3AEOeIFNFooiCVzG5BD5kZ"
+        }
+      ],
+      "date_added": "2020-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265133,
+      "name": "I Can't Hold It",
+      "url": "https://open.spotify.com/track/1qXR67RYl9k6A4C3eUQU9P"
     },
     {
       "album": {
@@ -648,6 +688,24 @@
       "duration_ms": 319760,
       "name": "I'm Com'un Home in the Morn'un",
       "url": "https://open.spotify.com/track/2wB9CDJ3AlpGxau0KF3Xy7"
+    },
+    {
+      "album": {
+        "name": "Keep On Believing",
+        "url": "https://open.spotify.com/album/43hMohTDeOQaAp6tML5G68"
+      },
+      "artists": [
+        {
+          "name": "Lou Pride",
+          "url": "https://open.spotify.com/artist/3AEOeIFNFooiCVzG5BD5kZ"
+        }
+      ],
+      "date_added": "2020-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 319760,
+      "name": "I'm Com'un Home in the Morn'un",
+      "url": "https://open.spotify.com/track/4Qi6Ti50jiptl3D9yFLUqg"
     },
     {
       "album": {
@@ -752,7 +810,7 @@
       ],
       "date_added": "2020-12-01",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-15",
+      "date_removed": null,
       "duration_ms": 281200,
       "name": "Kick My Cheatin' Habits",
       "url": "https://open.spotify.com/track/64NtFAXA4Ko81zOpX5IYKA"
@@ -835,6 +893,28 @@
     },
     {
       "album": {
+        "name": "This Time For Real",
+        "url": "https://open.spotify.com/album/1meZevHXaZSjtaDrDpQrLq"
+      },
+      "artists": [
+        {
+          "name": "Billy Price",
+          "url": "https://open.spotify.com/artist/509o7Fm0youPHjgcq5nCRI"
+        },
+        {
+          "name": "Otis Clay",
+          "url": "https://open.spotify.com/artist/2jV8AcZ8W3TfiqInUGWwlL"
+        }
+      ],
+      "date_added": "2020-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 406706,
+      "name": "Love Don't Love Nobody",
+      "url": "https://open.spotify.com/track/5FOZiwDxRmhphoLto1VSOI"
+    },
+    {
+      "album": {
         "name": "Don't Hurt No More",
         "url": "https://open.spotify.com/album/7brSqEwvGV2X2JIQlDtR1F"
       },
@@ -900,7 +980,7 @@
       ],
       "date_added": "2020-12-01",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-13",
+      "date_removed": null,
       "duration_ms": 212093,
       "name": "Move Along",
       "url": "https://open.spotify.com/track/3FKioq3mvprZBi0bePWuuR"
@@ -1080,7 +1160,7 @@
       ],
       "date_added": "2020-12-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 261146,
       "name": "Say What You Mean",
       "url": "https://open.spotify.com/track/7moJNXUN9kWKhUYgE55pKG"
@@ -1195,6 +1275,36 @@
     },
     {
       "album": {
+        "name": "NO SOUL, NO BLUES",
+        "url": "https://open.spotify.com/album/6e9WzYKaq2qAsjJvC4zScE"
+      },
+      "artists": [
+        {
+          "name": "Stan Mosley",
+          "url": "https://open.spotify.com/artist/7kZrWqdHSrKq5Qg3UgtAQM"
+        },
+        {
+          "name": "The Texas Horns",
+          "url": "https://open.spotify.com/artist/6swhrKqY4WiZoJanmBNqsX"
+        },
+        {
+          "name": "The Moeller Brothers",
+          "url": "https://open.spotify.com/artist/6KrcvREWPq1WnbUQe8TUZi"
+        },
+        {
+          "name": "Crystal Thomas",
+          "url": "https://open.spotify.com/artist/61jsEIddFcj3iYVkLC88bn"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262764,
+      "name": "Stomp",
+      "url": "https://open.spotify.com/track/5sraRdhps6BIkOFFVaBpGS"
+    },
+    {
+      "album": {
         "name": "Today I Sing The Blues",
         "url": "https://open.spotify.com/album/2FETHI04M6eFdnKaDBaiqF"
       },
@@ -1206,7 +1316,7 @@
       ],
       "date_added": "2020-12-01",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-19",
+      "date_removed": null,
       "duration_ms": 275773,
       "name": "Stop Doggin Me Around",
       "url": "https://open.spotify.com/track/4CI56rOk5ClZPhxgnvRcP7"
@@ -1260,7 +1370,7 @@
       ],
       "date_added": "2020-12-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": null,
       "duration_ms": 254000,
       "name": "Thank God For Fools",
       "url": "https://open.spotify.com/track/691rJaC2NcDMjZCD636LcF"
@@ -1412,7 +1522,7 @@
       ],
       "date_added": "2020-12-01",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-09",
+      "date_removed": null,
       "duration_ms": 249893,
       "name": "What's It Take?",
       "url": "https://open.spotify.com/track/0DD4k4dwa8AzxphFMzC5xp"
@@ -1502,7 +1612,7 @@
       ],
       "date_added": "2020-12-01",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-25",
+      "date_removed": null,
       "duration_ms": 243044,
       "name": "You Got the Goods on You",
       "url": "https://open.spotify.com/track/5ad6BP0tSKEHMC2fOStbdj"
@@ -1520,7 +1630,7 @@
       ],
       "date_added": "2020-12-01",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-11",
+      "date_removed": null,
       "duration_ms": 196493,
       "name": "You Push Me to My Limit",
       "url": "https://open.spotify.com/track/30FExzMY0ImrM8Rt80b4jF"

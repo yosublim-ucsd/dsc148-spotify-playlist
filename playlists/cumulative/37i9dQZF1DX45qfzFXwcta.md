@@ -4,7 +4,7 @@
 
 > Instrumental beats from \(and influenced by\) Hip\-Hop's golden era; to help you study, work and vibe.
 
-96 songs - 5 hr 1 min
+97 songs - 5 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -77,6 +77,7 @@
 | [Skywalker OG](https://open.spotify.com/track/0nsy6CzRDmy51hOtNyri3F) | [Dooku](https://open.spotify.com/artist/7oUhwpoQZ8HkFl91jQtEoD) | [Fields of Green 2](https://open.spotify.com/album/2I2DTmcpsCJbC0cValamUf) | 1:54 | 2022-09-23 | 2022-11-20 |
 | [Skywalker OG](https://open.spotify.com/track/6oHUNQtaMKhVmQWhFoPdir) | [Dooku](https://open.spotify.com/artist/7oUhwpoQZ8HkFl91jQtEoD) | [Fields of Green 2](https://open.spotify.com/album/5cOC0HfuZKWDGaB8Oyz0PI) | 1:54 | 2022-10-14 |  |
 | [Soul Mates](https://open.spotify.com/track/5MnT6uiAJXOo58xdDVmbD2) | [Smoke Room Quartet](https://open.spotify.com/artist/3F3ToOCmZ54N8acZdcyziH) | [Soul Mates](https://open.spotify.com/album/22j1HNgICS8f7kN7wLB54T) | 3:21 | 2023-05-18 |  |
+| [Stages And Lights \- Instrumental](https://open.spotify.com/track/3LAnfrxSjShV7Y0nmWPLBo) | [Sadat X](https://open.spotify.com/artist/7fDLDq2weBagiAFD2j17Al) | [Hang 'Em High](https://open.spotify.com/album/7ATmXoNwLDE5J2w7y7ZrfA) | 4:16 | 2023-05-19 |  |
 | [Stressed Out](https://open.spotify.com/track/5sL1Ho2hWRpTe67DK7sFqA) | [Kixnare](https://open.spotify.com/artist/5ZsUI5kxyhL9rBIjBrzocs) | [Class of 90's, Vol.1 \(INSTRUMENTALS\)](https://open.spotify.com/album/3ZZuql91VoWIn8HT0gmevA) | 4:27 | 2023-01-31 |  |
 | [Summertime](https://open.spotify.com/track/79MSVviX2SqqLS6murFaYB) | [tape joe](https://open.spotify.com/artist/6t74VJqVmYEY5V2be6sz9K), [Kick a Dope Verse!](https://open.spotify.com/artist/1Wc42aAvPBQxi2CsAN2Q5z) | [Summertime](https://open.spotify.com/album/3QfHGlmwMjOtY78hmNcuhq) | 3:35 | 2022-10-14 |  |
 | [Summerwind](https://open.spotify.com/track/1YBb5s7JxiFQV9E7e4QThO) | [Slipp](https://open.spotify.com/artist/7b7ga2HzGIRsOJqorPSX1M), [Nick's chill factory](https://open.spotify.com/artist/3QJraihPHVrl3gSNaXLEr9) | [Summerwind](https://open.spotify.com/album/3uhMWZk6MPkw6Amk2zonai) | 2:26 | 2023-02-24 |  |

@@ -4,7 +4,7 @@
 
 > Whether you're lounging at home or out with your friends, let this playlist provide your soundtrack.
 
-121 songs - 7 hr 2 min
+124 songs - 7 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,6 +31,7 @@
 | [Chicken Wings \- Remix](https://open.spotify.com/track/0GwHL1n6fdRba5e5Vt5lnK) | [Samm Henshaw](https://open.spotify.com/artist/1Q2mS59tFYLm2KGFoCgWN4), [Mick Jenkins](https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx), [Bando.](https://open.spotify.com/artist/5kkpDTQbRC2UCCCUhF6j90) | [Chicken Wings \(Remix\)](https://open.spotify.com/album/5XKAwSs3UlIsnkMCbD83op) | 2:45 | 2022-02-18 | 2022-09-10 |
 | [Chocolate Love](https://open.spotify.com/track/50EwNNt7Xc3J7AVKLCcDiz) | [Sanura](https://open.spotify.com/artist/2KoEQq7EEpdOLErZi1K2eL), [Raheem DeVaughn](https://open.spotify.com/artist/59NO6KX7wQCG7jGdtH1NtL) | [Chocolate Love](https://open.spotify.com/album/2ugP6Pt70ut2Wq2OyzjWvq) | 3:10 | 2022-09-09 |  |
 | [Come And Get It](https://open.spotify.com/track/5EgtpehGDHJyNQQVesb2fw) | [NNAVY](https://open.spotify.com/artist/3X9xtTCJtryAoqsSMKCzXu) | [Come And Get It](https://open.spotify.com/album/17FivesjC4MXXd1QOCOxXQ) | 2:26 | 2023-03-24 |  |
+| [Daydreaming](https://open.spotify.com/track/6qqq5zPYV7U4UsKnGC82tw) | [NxWorries](https://open.spotify.com/artist/6PEMFpe3PTOksdV4ZXUpbE), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [Knxwledge](https://open.spotify.com/artist/17Zu03OgBVxgLxWmRUyNOJ) | [Daydreaming](https://open.spotify.com/album/2x7bjrZNDZ7hNcosj0dS39) | 3:06 | 2023-05-19 |  |
 | [dialtone.](https://open.spotify.com/track/6QSDAKIZetBwAyfrjVhuSo) | [Phony Ppl](https://open.spotify.com/artist/0oBsnAC3fzYkTHF3bkfNx6) | [dialtone.](https://open.spotify.com/album/51xVyHmgajtEEMJ8vt0jy9) | 3:12 | 2022-11-04 |  |
 | [Domesticated](https://open.spotify.com/track/4Hiedev8YWwuJKqshiMnCk) | [Sebastian Mikael](https://open.spotify.com/artist/4hknFHNFp3UMm2Rbc6Ansf), [Flwr Chyld](https://open.spotify.com/artist/33luNNaeHIJ5KfjW56aleZ), [$ean Wire](https://open.spotify.com/artist/6wmTMxyKDHCbnoxy4n66rb) | [PHILEO Deluxe](https://open.spotify.com/album/1k6aTE36jvyDr7QJLtgwKM) | 4:41 | 2023-03-10 |  |
 | [Don't Stop The Groove](https://open.spotify.com/track/15qljmrsinxDSec3Y0Hql2) | [Rudey Barnes](https://open.spotify.com/artist/5KAkUAFi7rYidNl4fJ7ufn), [Sweet Opus Sounds](https://open.spotify.com/artist/3ndCAGlWJSk2aYUTKSMZ0u) | [Don't Stop the Groove](https://open.spotify.com/album/6SZFlLR9zLwOY1JpmcOlta) | 3:34 | 2021-10-22 | 2022-02-19 |
@@ -48,6 +49,7 @@
 | [Good To Know \(feat\. Masego, Kp & Ambriia\)](https://open.spotify.com/track/42DZ6nBYhvyoLwmCUGz2T9) | [Ciscero](https://open.spotify.com/artist/5oSCIcpPdrO3UhTMATxkYL), [Masego](https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig), [Ambriia](https://open.spotify.com/artist/188wOiNLfaMrUoIGUbvq6q), [KP\_](https://open.spotify.com/artist/0oBxK7RWPdHdW1B9MFX3QI) | [Good To Know \(feat\. Masego, Kp & Ambriia\)](https://open.spotify.com/album/7rDIbwEbqPVRVFe4W0XPD4) | 4:01 | 2021-10-22 | 2022-11-12 |
 | [Head Rush \(feat\. Trinidad Jame$\)](https://open.spotify.com/track/4fjFcapaQFLdUghyyjXkN1) | [Morris Day](https://open.spotify.com/artist/1L56apXminRPJqnqBN0vhe), [Trinidad James](https://open.spotify.com/artist/0I5HubncQ8E1MFZOlPDY4J) | [Last Call](https://open.spotify.com/album/1UFTWoydZvElLrrkLheaL4) | 3:41 | 2022-11-11 |  |
 | [Heels](https://open.spotify.com/track/22cpDTzClbMx2W6kH8ec7N) | [Trip Carter](https://open.spotify.com/artist/2bNkF5WGgymQPAqsdyxGH1) | [Heels](https://open.spotify.com/album/3Vpeygcr02b9CUXP7Z2kiD) | 2:31 | 2023-03-10 |  |
+| [High](https://open.spotify.com/track/3AzYlyo9FhKyETJKQI84rm) | [Angie Stone](https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM) | [Love Language](https://open.spotify.com/album/5mBIU2o4sxDhbSfxuInbh7) | 3:47 | 2023-05-19 |  |
 | [High Up](https://open.spotify.com/track/3TcW4ih5EdzgMQd6tpfYEi) | [Shay Lia](https://open.spotify.com/artist/3sJQwG0SsGRyv5C5kh4o9a) | [Solaris](https://open.spotify.com/album/2iahJWQ2C6dwPj2oXG37FP) | 3:00 | 2022-02-18 |  |
 | [High Up](https://open.spotify.com/track/54pog56aKXKPjvSLNVpE61) | [Shay Lia](https://open.spotify.com/artist/3sJQwG0SsGRyv5C5kh4o9a) | [Solaris](https://open.spotify.com/album/6MH9mIU41lFyM7hw7EU17w) | 3:00 | 2021-10-22 | 2022-10-13 |
 | [Hit the Floor](https://open.spotify.com/track/1exaZpUIfmgdBstO3DhAY8) | [Rare Essence](https://open.spotify.com/artist/4vKZXZH0eDibGsDxMVzZDh), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [Hit the Floor](https://open.spotify.com/album/0PeJ3LjVw8IilrIQYBzN9Q) | 3:41 | 2021-10-22 | 2022-09-10 |
@@ -67,6 +69,7 @@
 | [Levitate](https://open.spotify.com/track/0TPXUxjcaisuLC5S8xZpcW) | [Ben L'Oncle Soul](https://open.spotify.com/artist/2dJTa3mUidZAO9sKcY72tK) | [IS IT YOU ?](https://open.spotify.com/album/0wRqGMoyq5WUUNu0ijOy7a) | 3:19 | 2022-11-04 |  |
 | [Levitate](https://open.spotify.com/track/7DXZXZ9O4Yo0RR3SLkiNVj) | [Ben L'Oncle Soul](https://open.spotify.com/artist/2dJTa3mUidZAO9sKcY72tK) | [Levitate](https://open.spotify.com/album/48bWqxfsOW5aT80Td5g8AF) | 3:19 | 2022-11-04 | 2023-02-21 |
 | [Lies](https://open.spotify.com/track/3tBOduABygszf71Q5e8Rpk) | [Terrace Martin](https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz) | [Lies](https://open.spotify.com/album/145XAsVnMuaRic6vrnu1Z4) | 2:48 | 2021-10-22 |  |
+| [Look At Me](https://open.spotify.com/track/3MmyrLEMNBwGicrY8x7jTs) | [Cory Wong](https://open.spotify.com/artist/6xt9sJmmyYwWkJv8A6ssiU), [Allen Stone](https://open.spotify.com/artist/536osqBGKzeozje8BfcGsa) | [Look At Me](https://open.spotify.com/album/4W0Gyfy905bzv92GLkyoat) | 3:53 | 2023-05-19 |  |
 | [Lost](https://open.spotify.com/track/2tMYysaFyOLXamjOxGTavY) | [Otis Kane](https://open.spotify.com/artist/2rp9zfs7yPrwCGVl4CjWAl) | [Lost](https://open.spotify.com/album/6W3wz6FGqzDlQ2Ab4CHvym) | 2:59 | 2021-10-22 |  |
 | [Louie Bag \(feat\. Smino\)](https://open.spotify.com/track/01foHKHazVkkbW9hcAY2X4) | [Yebba](https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F), [Smino](https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD) | [Louie Bag \(feat\. Smino\)](https://open.spotify.com/album/5YSsyOHQhrpqYW32YvGtMQ) | 3:47 | 2022-02-18 |  |
 | [Love Bomb](https://open.spotify.com/track/0WOlNsXvaVJsD2X5dE65HJ) | [Baby Rose](https://open.spotify.com/artist/6Z4JcgqrqgysyHIPRtDIHo) | [Through and Through](https://open.spotify.com/album/5K2v8D4FP0jc3tpIIuJwOt) | 3:01 | 2023-04-28 |  |

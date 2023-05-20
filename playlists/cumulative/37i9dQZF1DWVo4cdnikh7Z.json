@@ -11041,6 +11041,28 @@
     },
     {
       "album": {
+        "name": "Raasa Kannu (From \"Maamannan\")",
+        "url": "https://open.spotify.com/album/3LUHSIupWJT4QKxRNonzQ0"
+      },
+      "artists": [
+        {
+          "name": "A.R. Rahman",
+          "url": "https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG"
+        },
+        {
+          "name": "Vadivelu",
+          "url": "https://open.spotify.com/artist/4SlCFtxWUAnjCBqoq4zeS5"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 327058,
+      "name": "Raasa Kannu (From \"Maamannan\")",
+      "url": "https://open.spotify.com/track/2xm4sJxwgaeFsxc1cM1xQr"
+    },
+    {
+      "album": {
         "name": "Partner (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/4ImbNeAxzmYKi5JtcAhVEQ"
       },
@@ -12282,6 +12304,32 @@
       "duration_ms": 134204,
       "name": "Sol (From \"Ponniyin Selvan Part-1\")",
       "url": "https://open.spotify.com/track/0XosgadxA79fBBV6meKDAs"
+    },
+    {
+      "album": {
+        "name": "Sollaati (From \"Theera Kaadhal\")",
+        "url": "https://open.spotify.com/album/6MB4CwjrxjqcA5TKqL0Cmi"
+      },
+      "artists": [
+        {
+          "name": "Siddhu Kumar",
+          "url": "https://open.spotify.com/artist/652AxOhhHWM3oxqY82UhQ9"
+        },
+        {
+          "name": "Vignesh Ramakrishna",
+          "url": "https://open.spotify.com/artist/5hMqWI3uRKI3hVaSVjgBvu"
+        },
+        {
+          "name": "Shakthisree Gopalan",
+          "url": "https://open.spotify.com/artist/7zAp0JbkavFg2rcMGvANtP"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205195,
+      "name": "Sollaati - From \"Theera Kaadhal\"",
+      "url": "https://open.spotify.com/track/3W75RPDTvqlXiixFCl8NGX"
     },
     {
       "album": {

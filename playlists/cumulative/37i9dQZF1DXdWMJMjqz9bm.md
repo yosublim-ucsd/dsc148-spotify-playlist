@@ -4,7 +4,7 @@
 
 > A little bit of pop, a little bit of rap\. Cover: Felly
 
-517 songs - 23 hr 51 min
+518 songs - 23 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -505,6 +505,7 @@
 | [Weekend Millionaires](https://open.spotify.com/track/4CNAf3OB75dximfpqT52Lo) | [Skizzy Mars](https://open.spotify.com/artist/00Z3UDoAQwzvGu13HoAM7J), [Katelyn Tarver](https://open.spotify.com/artist/6i8Tae6takoQos2JZ4vdRn) | [Weekend Millionaires](https://open.spotify.com/album/3kI4t9Rd1LULukc8mhLn7R) | 3:53 | 2022-02-18 | 2022-07-07 |
 | [Westside Story \(with Duckwrth\)](https://open.spotify.com/track/11tIIx1IhWCa4CzMtKhvai) | [Barney Bones](https://open.spotify.com/artist/7rzyYETlkvNEdxdtSUXXTV), [Duckwrth](https://open.spotify.com/artist/6I3MElirhT5t6Kf7p0hGk9) | [ESCAPISM](https://open.spotify.com/album/5UnNsDfzwec5DDlSYKD03p) | 3:41 | 2023-04-07 |  |
 | [Whatchutrynado?](https://open.spotify.com/track/1ItdCvHpCr3WrCZpg46Dgw) | [Porsh Bet$](https://open.spotify.com/artist/6744gF2rjCRtqwbMb9ldk4) | [Whatchutrynado?](https://open.spotify.com/album/6dZrLile6gtUtSgghQCZnA) | 2:38 | 2023-02-03 | 2023-03-18 |
+| [whatever we are](https://open.spotify.com/track/4uqSCajR8HAp6duJUsDje3) | [raspy](https://open.spotify.com/artist/1trffosn0Alk3IlloOD5O8) | [whatever we are](https://open.spotify.com/album/3e0E6MbRPmXmuG6gqod4O9) | 2:28 | 2023-05-19 |  |
 | [When I Get Lonely](https://open.spotify.com/track/1d4c9HSOY8hy5krzdKxEyh) | [WizTheMc](https://open.spotify.com/artist/3ebS2RuCq8QeLyndUDmgB5) | [When I Get Lonely](https://open.spotify.com/album/13FMlTKRNL5akAlum5tc5O) | 2:21 | 2022-09-30 |  |
 | [When You’re Sober](https://open.spotify.com/track/0aJcuvNNJh9ncKBqqfLiIG) | [MILES](https://open.spotify.com/artist/5QqCSh9Ri3B7Tw6HNQkPQH) | [When You’re Sober](https://open.spotify.com/album/1mcGX0oGxfYzIWINPFKytq) | 2:22 | 2022-06-17 | 2022-11-30 |
 | [where did u go?](https://open.spotify.com/track/0feoAoDhBeSuBLAHuyWGq9) | [Kid Travis](https://open.spotify.com/artist/6UWui6Csqc1ywqnDzjOWnk) | [where did u go?](https://open.spotify.com/album/2IpxLRYidbeYmaonFzEU9y) | 3:46 | 2022-06-10 | 2022-10-15 |

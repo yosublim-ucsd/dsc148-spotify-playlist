@@ -1816,7 +1816,7 @@
       ],
       "date_added": "2022-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 197044,
       "name": "Over Drinkin' Under Thinkin'",
       "url": "https://open.spotify.com/track/2YrUpji5N9biuvxKgyO2OT"
@@ -2148,6 +2148,24 @@
       "duration_ms": 152186,
       "name": "Sold (The Grundy County Auction Incident)",
       "url": "https://open.spotify.com/track/0NLBwQBYJhEM9t3KAMPFVR"
+    },
+    {
+      "album": {
+        "name": "Drake Milligan - EP",
+        "url": "https://open.spotify.com/album/0Dwtk61QlV7qErBqsFTm8u"
+      },
+      "artists": [
+        {
+          "name": "Drake Milligan",
+          "url": "https://open.spotify.com/artist/4mskfuiHWZ3nX3qAdeaGiR"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146778,
+      "name": "Sounds Like Something I'd Do",
+      "url": "https://open.spotify.com/track/5QAwDaUIcFOEYfsepGk0Fd"
     },
     {
       "album": {

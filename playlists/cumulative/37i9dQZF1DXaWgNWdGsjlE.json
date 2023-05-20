@@ -350,7 +350,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 214520,
       "name": "Blood // Water",
       "url": "https://open.spotify.com/track/7clyJIrLkEbXUDwj1tC9zz"
@@ -514,6 +514,24 @@
       "duration_ms": 158081,
       "name": "CASUALTY",
       "url": "https://open.spotify.com/track/3OWxpc6Zguzep0XKWGxDyc"
+    },
+    {
+      "album": {
+        "name": "Cha Cha Cha",
+        "url": "https://open.spotify.com/album/5rBqeRlrrzR77MAkbgAmS6"
+      },
+      "artists": [
+        {
+          "name": "K\u00e4\u00e4rij\u00e4",
+          "url": "https://open.spotify.com/artist/6LkMGN0t3HDNL8hIvma70r"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175161,
+      "name": "Cha Cha Cha",
+      "url": "https://open.spotify.com/track/5RX8T3EoTuXcybAxe6oPAw"
     },
     {
       "album": {
@@ -1384,10 +1402,32 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 248273,
       "name": "HATEFUL",
       "url": "https://open.spotify.com/track/6QtiPaRRcSIne26CN4zNla"
+    },
+    {
+      "album": {
+        "name": "HATEFUL [Feat. SIERRA]",
+        "url": "https://open.spotify.com/album/1Pdzx7m7W6s9oWnleMRNg8"
+      },
+      "artists": [
+        {
+          "name": "HEALTH",
+          "url": "https://open.spotify.com/artist/6FfjnGXMhxSsJTuGLWBDth"
+        },
+        {
+          "name": "SIERRA",
+          "url": "https://open.spotify.com/artist/25WCO5tS4sXMxIfe3nIXL4"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248273,
+      "name": "HATEFUL [Feat. SIERRA]",
+      "url": "https://open.spotify.com/track/1s4ym7eC16ckglNEcPe2Lw"
     },
     {
       "album": {
@@ -2080,7 +2120,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 255773,
       "name": "Lights Out",
       "url": "https://open.spotify.com/track/0QVR1JB0Qmn3ACQlO4jmxH"
@@ -2675,6 +2715,24 @@
     },
     {
       "album": {
+        "name": "Pray To God",
+        "url": "https://open.spotify.com/album/72O4oA0n84svF9znwh2ody"
+      },
+      "artists": [
+        {
+          "name": "Gvllow",
+          "url": "https://open.spotify.com/artist/69a2ovTpqzQrzthSkARvGn"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179280,
+      "name": "Pray To God",
+      "url": "https://open.spotify.com/track/3tfnE0kI4HMcoGilCZGrwZ"
+    },
+    {
+      "album": {
         "name": "XFOREVER",
         "url": "https://open.spotify.com/album/6WJB3ie2QvOhlLj4sqcK1n"
       },
@@ -2751,6 +2809,24 @@
     },
     {
       "album": {
+        "name": "Puppets",
+        "url": "https://open.spotify.com/album/4EWOSGvnDl77YmTFLGOtUE"
+      },
+      "artists": [
+        {
+          "name": "Mike's Dead",
+          "url": "https://open.spotify.com/artist/6uLNznYVguXrwbIPj9qUb1"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171428,
+      "name": "Puppets",
+      "url": "https://open.spotify.com/track/6PEdlZSuOzr1wEPbfwJPf8"
+    },
+    {
+      "album": {
         "name": "Dogsbody",
         "url": "https://open.spotify.com/album/1DWLFwBZxTSBWw7G9uhpok"
       },
@@ -2820,7 +2896,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 253573,
       "name": "Save Yourself",
       "url": "https://open.spotify.com/track/561spezvXFVnAOYoSv4Bxy"

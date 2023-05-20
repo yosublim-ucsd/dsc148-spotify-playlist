@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2SvaUOnqS5LqjhwNsyWEJZ">Lucas Kastrup</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-48 songs - 3 hr 9 min
+49 songs - 3 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,7 +29,8 @@
 | [Introdução \- Ao Vivo](https://open.spotify.com/track/1YXw5eHJ7Q3VAYmZuWTjmv) | [Ponto De Equilíbrio](https://open.spotify.com/artist/6crUnfFtxFx7u9OGE1AHZo) | [Juntos Somos Fortes \(Ao Vivo\)](https://open.spotify.com/album/7ECKCoQYnQP3Rfqq9LQdsi) | 3:12 | 2022-06-04 |  |
 | [Jah Jah Me Leve](https://open.spotify.com/track/4ypqT6MRc3FmLWJXQ7XGNZ) | [Ponto De Equilíbrio](https://open.spotify.com/artist/6crUnfFtxFx7u9OGE1AHZo) | [Reggae a Vida Com Amor](https://open.spotify.com/album/1kN0AUafpsAzU1C49361bA) | 4:13 | 2022-06-04 |  |
 | [Love Is Freedom](https://open.spotify.com/track/6p9cYLrniQ4pAZ56OIhMyD) | [Kailash](https://open.spotify.com/artist/0g0QI0OyxvulGx6TZCRlU8), [Lucas Kastrup](https://open.spotify.com/artist/0M3bbKDlJTgoamzhhGcuEj) | [Now Generation](https://open.spotify.com/album/44c0hwLagKXQwphCoNvd4G) | 2:58 | 2022-06-04 |  |
-| [Martim de Sá](https://open.spotify.com/track/00UyeOFf1cfBE41C3JT6Yp) | [Ponto De Equilíbrio](https://open.spotify.com/artist/6crUnfFtxFx7u9OGE1AHZo), [3030](https://open.spotify.com/artist/3OHpci0ruhvaMv9F795LR5) | [Martim de Sá](https://open.spotify.com/album/778P3Kjrl77DxuhrJqDdo1) | 3:57 | 2022-12-02 |  |
+| [Martim de Sá](https://open.spotify.com/track/00UyeOFf1cfBE41C3JT6Yp) | [Ponto De Equilíbrio](https://open.spotify.com/artist/6crUnfFtxFx7u9OGE1AHZo), [3030](https://open.spotify.com/artist/3OHpci0ruhvaMv9F795LR5) | [Martim de Sá](https://open.spotify.com/album/778P3Kjrl77DxuhrJqDdo1) | 3:57 | 2022-12-02 | 2023-05-20 |
+| [Martim de Sá](https://open.spotify.com/track/5FASTworUcU7zslxYvJRWQ) | [Ponto De Equilíbrio](https://open.spotify.com/artist/6crUnfFtxFx7u9OGE1AHZo), [3030](https://open.spotify.com/artist/3OHpci0ruhvaMv9F795LR5) | [Toque de Amor](https://open.spotify.com/album/2QTsaPE1NTuSGiKYgLW4vU) | 3:57 | 2023-05-19 |  |
 | [Mundo Melhor](https://open.spotify.com/track/0p22eZo9otCwJtqC7RLmc9) | [Kailash](https://open.spotify.com/artist/0g0QI0OyxvulGx6TZCRlU8), [Lucas Kastrup](https://open.spotify.com/artist/7ItyZEmbOX87GJTDlkEqDO) | [Mundo Melhor](https://open.spotify.com/album/6IQkiElPhDcMES5AjifUcM) | 3:38 | 2022-06-04 |  |
 | [Mundo Melhor \- Dub Version](https://open.spotify.com/track/68v11S7cJx67YEnuPiQxpZ) | [Kailash](https://open.spotify.com/artist/0g0QI0OyxvulGx6TZCRlU8), [Lucas Kastrup](https://open.spotify.com/artist/7ItyZEmbOX87GJTDlkEqDO) | [Mundo Melhor](https://open.spotify.com/album/6IQkiElPhDcMES5AjifUcM) | 3:36 | 2022-06-04 |  |
 | [Mundo Populoso](https://open.spotify.com/track/1u8C46BhyaIiTWiAVPq68K) | [Ponto De Equilíbrio](https://open.spotify.com/artist/6crUnfFtxFx7u9OGE1AHZo) | [Toque de Amor](https://open.spotify.com/album/2QTsaPE1NTuSGiKYgLW4vU) | 3:08 | 2023-05-18 |  |

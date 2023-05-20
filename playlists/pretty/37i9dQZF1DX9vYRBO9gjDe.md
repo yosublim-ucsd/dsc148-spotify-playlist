@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9vYRBO9gjDe.md) - [plain]
 
 > Spotify Japanのデイリー急上昇チャート。5月16日付。
 
-[Spotify](https://open.spotify.com/user/spotify) - 274,760 likes - 50 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 274,855 likes - 50 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9vYRBO9gjDe.md) - [plain]
 | 49 | [LONGINESS REMIX](https://open.spotify.com/track/2ECrDpRYc2dV0xw0abViF8) | [SugLawd Familiar](https://open.spotify.com/artist/6xiT2jISLeWrj8udndxqW4), [CHICO CARLITO](https://open.spotify.com/artist/074tUrKhXVuH4s5Mfg0zWz), [Awich](https://open.spotify.com/artist/0FnDCrmcQT8qz5TEsZIYw5) | [LONGINESS REMIX](https://open.spotify.com/album/6f9LnhAUXUVf4zAS1uKgjd) | 4:14 |
 | 50 | [KICK BACK \-ANIME edit](https://open.spotify.com/track/5ktOhXvLj7mdQmAVdEA7OJ) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [KICK BACK](https://open.spotify.com/album/1T6osuQ4vFziPrA10uXOfs) | 1:27 |
 
-Snapshot ID: `MCw5YjQ5MTg1MzVlNzllNDNkNDJiYTEyNDMyMGE5NmE1ZjMzMTRiMjRh`
+Snapshot ID: `MCxkODc3ZjFlZjIwN2ZjZmU5OWNmN2E4Mjg3MzEzNTYxODNlYjBiYjQ5`

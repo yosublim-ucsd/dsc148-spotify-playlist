@@ -4,7 +4,7 @@
 
 > Relax and take it slow today
 
-178 songs - 9 hr 57 min
+179 songs - 10 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,7 +53,7 @@
 | [History](https://open.spotify.com/track/17PRPgnKH4flrbnZmgSGzJ) | [Kina Grannis](https://open.spotify.com/artist/7h4j9YTJJuAHzLCc3KCvYu) | [In the Waiting](https://open.spotify.com/album/0DTXDUMJhpH0dtHlvUGXVd) | 3:44 | 2021-04-19 | 2022-04-29 |
 | [Home To Me](https://open.spotify.com/track/0aE6UUxRrKXQPL4f24PhDL) | [Jeffrey East](https://open.spotify.com/artist/3f8yNgA4o9YVIq87Kv0O0S) | [Home To Me](https://open.spotify.com/album/3v3RaCDPgrUhjxQwqqcNMZ) | 3:06 | 2021-08-06 |  |
 | [I Built a Fire](https://open.spotify.com/track/5plnYnHtDhx07GQ7Y6U9x1) | [Michael Waite](https://open.spotify.com/artist/1zsZIdjHBdFZbc3o6cDg0n) | [I Built a Fire](https://open.spotify.com/album/2xHXt469EhlfjfWd15ZJTe) | 3:54 | 2022-09-23 |  |
-| [I Can't \(Acoustic\)](https://open.spotify.com/track/7jjeVkCrL7K9ej9Pxt76bb) | [Caitlyn Smith](https://open.spotify.com/artist/3uikSah4dwqwuk0EidFI4R) | [Supernova Acoustic](https://open.spotify.com/album/6osrioku931TjO8ybo7oGX) | 3:32 | 2021-04-19 |  |
+| [I Can't \(Acoustic\)](https://open.spotify.com/track/7jjeVkCrL7K9ej9Pxt76bb) | [Caitlyn Smith](https://open.spotify.com/artist/3uikSah4dwqwuk0EidFI4R) | [Supernova Acoustic](https://open.spotify.com/album/6osrioku931TjO8ybo7oGX) | 3:32 | 2021-04-19 | 2023-05-20 |
 | [I Don't Know \(w/ ELIO\)](https://open.spotify.com/track/79MW6Qm22GDnUJ3i2vttxp) | [Peter Fenn](https://open.spotify.com/artist/6gMyLqdBGrHjR8TdCutVIP), [ELIO](https://open.spotify.com/artist/6xgvgzXNv3ymcITXTrxRaA) | [I Don't Know \(w/ ELIO\)](https://open.spotify.com/album/6DtyHq5JfijIBqWvDdPtKw) | 2:26 | 2022-06-03 |  |
 | [I Don't Wanna See You Cryin' Anymore](https://open.spotify.com/track/75GzLKzGuCPSayNucAoSC6) | [Adam Melchor](https://open.spotify.com/artist/54tv11ndFfiqXiR03PwdlB) | [Plan On You](https://open.spotify.com/album/4W9M5fDfBHAPbq9ee8VLcW) | 3:43 | 2021-04-19 | 2022-04-29 |
 | [I Remember Everything](https://open.spotify.com/track/1eZAhlXyK6XMIQbrfgiGd5) | [Elles Bailey](https://open.spotify.com/artist/4NPMwh3kDwi6uVCNtmeUvU) | [I Remember Everything](https://open.spotify.com/album/4tpKYRzS2AZIB0N7s0Woms) | 2:41 | 2021-04-19 | 2022-08-13 |
@@ -80,6 +80,7 @@
 | [make believe](https://open.spotify.com/track/6btp8C9tzrkVPFzwIhOByv) | [anatu](https://open.spotify.com/artist/2ZI8Omfu8U4dVTmmTQ3gCw) | [make believe](https://open.spotify.com/album/4v5FIKvi2HgnjJxmsBzJl4) | 2:31 | 2021-04-19 | 2022-07-29 |
 | [make believe](https://open.spotify.com/track/7xPMgzG0gtBPBmaEDVhblh) | [anatu](https://open.spotify.com/artist/2ZI8Omfu8U4dVTmmTQ3gCw) | [can't say we didn't try](https://open.spotify.com/album/7nucvlUXMw1LYrgb5YFwtF) | 2:31 | 2021-04-19 |  |
 | [Me, My Old Man and Steely Dan](https://open.spotify.com/track/1P522La5BZVnPSLuPwya2M) | [Andrew Sevener](https://open.spotify.com/artist/0ZvCVJNGgjViL07mB8Xuxx) | [Me, My Old Man and Steely Dan](https://open.spotify.com/album/3lC8XBp5SC40kVFsXLMn5l) | 3:18 | 2021-04-19 |  |
+| [Meltdown \- Acoustic](https://open.spotify.com/track/73FSsylmR8pD3q4PVGmOqc) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Meltdown \(Acoustic\)](https://open.spotify.com/album/4WnJjgV05k7SlsFI4u7mEK) | 3:44 | 2023-05-19 |  |
 | [Milkman](https://open.spotify.com/track/31s3epLc7WpJvWJZyushyP) | [Pistol Annies](https://open.spotify.com/artist/2wSgVsgLUZeDJwoLcPO7ny), [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0), [Ashley Monroe](https://open.spotify.com/artist/37BiX28I6pF104F92U1hDP), [Angaleena Presley](https://open.spotify.com/artist/7hmwyQifkGl8GgOMVJZvW0) | [Interstate Gospel](https://open.spotify.com/album/0IXxmmlfSQxgJNWnNjHhgJ) | 3:22 | 2021-04-19 | 2022-04-29 |
 | [Money, Love & Death](https://open.spotify.com/track/6SNbZkTjHMCLninZRWTjbJ) | [gnash](https://open.spotify.com/artist/3iri9nBFs9e4wN7PLIetAw) | [Money, Love & Death](https://open.spotify.com/album/7oWB6Lfleo2iNyMXtYjBut) | 2:44 | 2022-07-08 |  |
 | [More Hearts Than Mine](https://open.spotify.com/track/0LcspVKJxhEQQSvVMiTPWz) | [Ingrid Andress](https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii) | [More Hearts Than Mine](https://open.spotify.com/album/4VMYwWFqX9vUv9otWLRRF5) | 3:34 | 2021-04-19 | 2022-07-29 |

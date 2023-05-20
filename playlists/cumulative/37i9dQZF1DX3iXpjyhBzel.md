@@ -4,7 +4,7 @@
 
 > A música certa para o seu momento de adoração\. Foto: AMÉM
 
-169 songs - 16 hr 42 min
+170 songs - 16 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -134,6 +134,7 @@
 | [Santidade \(Ao Vivo Na Suíça\)](https://open.spotify.com/track/1xHIGCspHfgpK36phGDXku) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Santidade \(Ao Vivo Na Suíça\)](https://open.spotify.com/album/0XnWhNtjH4e496qm9Ucbwo) | 4:18 | 2023-02-03 |  |
 | [Santo \- Acústico](https://open.spotify.com/track/240EAtaZRleOj2CVcW6cpA) | [Fernandinho](https://open.spotify.com/artist/6iAY2AyUZLSX3PWLIAfFZY) | [Santo \(Acústico\)](https://open.spotify.com/album/0SVVv1VaL4w98AqlcMIaAe) | 5:56 | 2023-02-24 |  |
 | [Santo Pra Sempre \- Ao Vivo](https://open.spotify.com/track/69sdOLKjgnwdA2smmct2a9) | [Gabriel Guedes de Almeida](https://open.spotify.com/artist/5ETTRSAa5g5uIMNOgqnJPB) | [Santo Pra Sempre \(Ao Vivo\)](https://open.spotify.com/album/5Zp6FYxblnPm0XQIr7BT5Y) | 5:12 | 2023-02-24 |  |
+| [Saudai o Rei Jesus \(All Hail King Jesus\) \- Ao Vivo](https://open.spotify.com/track/0rz7tMWZxsNEcSaVBZpWcU) | [Juliano Son](https://open.spotify.com/artist/1eKT4nyBWQbYdHm19DrV2P) | [Noite de Adoração II \(Ao Vivo\)](https://open.spotify.com/album/18XBdKux9vjLSs5x0p6r81) | 6:57 | 2023-05-19 |  |
 | [Sei Que Farás](https://open.spotify.com/track/4zLXnGwd6vGjualpYBrr7D) | [Hillsong Em Português](https://open.spotify.com/artist/711ulyrAkLHOuraqFr134y) | [Sei Que Farás](https://open.spotify.com/album/7t5fRx6LgC6siUNMulJrJy) | 3:38 | 2022-12-16 | 2023-01-14 |
 | [Seu Amor / Diante da Cruz](https://open.spotify.com/track/2OmZjKpXjbDWXEsw1JEy1x) | [Isaias Saad](https://open.spotify.com/artist/1THj0JI7zld7YDsWERcSUz), [LUDI](https://open.spotify.com/artist/5jaTnKaikL73O3eAQgtwde) | [Seu Amor / Diante da Cruz](https://open.spotify.com/album/416qFfcOtOGNzeWaCARGMS) | 8:17 | 2022-09-09 |  |
 | [Seu Amor Me Persegue \(Studio\)](https://open.spotify.com/track/6slb8IZD0bjmYLleaWEPNu) | [AMÉM](https://open.spotify.com/artist/6A2IF7XPAGiwRZAxXTKpYP), [Julliany Souza](https://open.spotify.com/artist/0d71FlLkqZzdpEQifcngQq) | [Seu Amor Me Persegue](https://open.spotify.com/album/3a72jnT08o12FlWkSzdHAO) | 7:25 | 2023-02-24 |  |
@@ -141,7 +142,7 @@
 | [Sinais](https://open.spotify.com/track/0XCP8xMjtUNh8ODfWt4nAP) | [Pr\. Lucas](https://open.spotify.com/artist/5uBdPagL8e7AwfIzrM8zuS) | [Sinais](https://open.spotify.com/album/3NSbgufpqPJdMOw4p9cQTs) | 4:42 | 2023-01-20 | 2023-03-04 |
 | [Sobre As Águas](https://open.spotify.com/track/0IHZgDHnehLfWTzMcR3szE) | [Davi Sacer](https://open.spotify.com/artist/6z6iovCkrGvBsRsLOrFbdx), [Trazendo a Arca](https://open.spotify.com/artist/1KJkhqZNLx1JY9vXkBhGV5) | [O Encontro](https://open.spotify.com/album/0lCGxilNnKFzm2zytbwx6q) | 9:12 | 2022-09-09 |  |
 | [Sol da Justiça](https://open.spotify.com/track/0M6CaZejftGPBvx9S0aQiD) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Sol da Justiça](https://open.spotify.com/album/2b0uRqyJN2B1Q0M4sUoi1w) | 5:41 | 2022-09-09 | 2023-04-16 |
-| [Só Existe Um Lugar \- Ao Vivo](https://open.spotify.com/track/3oVtUUirowVa9DEtjazJVq) | [Nívea Soares](https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk), [Isaias Saad](https://open.spotify.com/artist/1THj0JI7zld7YDsWERcSUz) | [Só Existe Um Lugar \(Ao Vivo\)](https://open.spotify.com/album/468Y9pHDkKf8u6oLHWrimN) | 7:07 | 2022-09-09 |  |
+| [Só Existe Um Lugar \- Ao Vivo](https://open.spotify.com/track/3oVtUUirowVa9DEtjazJVq) | [Nívea Soares](https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk), [Isaias Saad](https://open.spotify.com/artist/1THj0JI7zld7YDsWERcSUz) | [Só Existe Um Lugar \(Ao Vivo\)](https://open.spotify.com/album/468Y9pHDkKf8u6oLHWrimN) | 7:07 | 2022-09-09 | 2023-05-20 |
 | [Só Tenho a Ti](https://open.spotify.com/track/56qOzLVCi8D528rhdvVRqb) | [Leonardo Gonçalves](https://open.spotify.com/artist/6AyvSIi2EyLOaMJCc6J5fZ) | [Só Tenho a Ti](https://open.spotify.com/album/2c2UDN3jf4onnd4TfeqimJ) | 2:33 | 2023-04-28 |  |
 | [Te Adorar é meu Prazer \(Ao Vivo Em Portugal\)](https://open.spotify.com/track/1Oc5EFGrl6lHCVcrlxwEFG) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [30 Anos \(Vol\. I\)](https://open.spotify.com/album/6F7IItp4LykbpjRkBRB11l) | 4:55 | 2023-04-01 | 2023-05-13 |
 | [Te Desejamos \- Ao Vivo](https://open.spotify.com/track/720Xp00zXTdDfGtT0KBMPQ) | [Gabriel Guedes de Almeida](https://open.spotify.com/artist/5ETTRSAa5g5uIMNOgqnJPB) | [Te Desejamos \(Ao Vivo\)](https://open.spotify.com/album/1vxNS67P8ZEj4gmwncHi5c) | 5:20 | 2022-09-09 | 2022-11-26 |

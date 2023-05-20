@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4UeRg7G4h9gxqlonlifPEn.md) - [plain]
 
 > From working out to going out \- turnt mode means bangers only\. Featuring Nardo Wick, Lil Tjay, Rowdy Rebel, Polo G and more\. Cover: Lil Durk
 
-[Filtr US](https://open.spotify.com/user/myplay.com) - 40,475 likes - 122 songs - 5 hr 47 min
+[Filtr US](https://open.spotify.com/user/myplay.com) - 40,476 likes - 122 songs - 5 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -131,4 +131,4 @@ pretty - [cumulative](/playlists/cumulative/4UeRg7G4h9gxqlonlifPEn.md) - [plain]
 | 121 | [Ain't Going Back](https://open.spotify.com/track/1Iot1CYAcasgCDUxndVt7D) | [Rican Da Menace](https://open.spotify.com/artist/1JfDtCRGqUvGFKaevDPrHY) | [Ain't Going Back](https://open.spotify.com/album/4DaOVKUAir02h9JpD3ddVP) | 2:29 |
 | 122 | [Computer Murderers](https://open.spotify.com/track/4N9YvASsNimNYJmSAVHA9f) | [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [7220 \(Reloaded\)](https://open.spotify.com/album/42q2L3R0LUPv3tM1Mabvyl) | 2:19 |
 
-Snapshot ID: `MzQ0MSwyNTRkZjBmOWZhMzY3MWUxYzBlZjgxN2VlZGUxZTkyZDMzODRlZTMx`
+Snapshot ID: `MzQ0MyxmNzc5ZmQ1NWQxYzkwYjgxMjA3N2EzNzM1MjIwYzcxNGY2NzI5ZmM2`

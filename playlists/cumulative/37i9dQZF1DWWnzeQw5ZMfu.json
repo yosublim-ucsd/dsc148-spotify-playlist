@@ -1660,7 +1660,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 256866,
       "name": "I'm Alive - Live at The Colosseum at Caesars Palace, Las Vegas, Nevada - November 2003",
       "url": "https://open.spotify.com/track/63MwPDxQx06Ie7EoiAhw6l"
@@ -2404,6 +2404,24 @@
       "duration_ms": 275101,
       "name": "New Rules - Live",
       "url": "https://open.spotify.com/track/2NPqVa1uGpeplqt60ISgr9"
+    },
+    {
+      "album": {
+        "name": "Inesquecivel Sao Paulo Brazil (Live From Allianz Parque Sao Paulo Brazil)",
+        "url": "https://open.spotify.com/album/64WsylPFPhgaxQbG2FNrrp"
+      },
+      "artists": [
+        {
+          "name": "Alicia Keys",
+          "url": "https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa"
+        }
+      ],
+      "date_added": "2023-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 413776,
+      "name": "No One (Live From Allianz Parque Sao Paulo Brazil)",
+      "url": "https://open.spotify.com/track/4TMEyEc27XDWNGiZe4xhpo"
     },
     {
       "album": {

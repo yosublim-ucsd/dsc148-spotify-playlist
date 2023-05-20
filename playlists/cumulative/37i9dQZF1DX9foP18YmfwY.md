@@ -2,9 +2,9 @@
 
 ### [Música Católica ](https://open.spotify.com/playlist/37i9dQZF1DX9foP18YmfwY)
 
-> Os padres e nomes que movem multidões pelo país\. Foto: Flavio Vitor Jr.
+> Os padres e nomes que movem multidões pelo país\. Foto: Aline Brasil
 
-103 songs - 8 hr 11 min
+104 songs - 8 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,7 +56,7 @@
 | [Irresistivelmente](https://open.spotify.com/track/1mlClp0nXxSXV4iEOz5gPU) | [Comunidade Católica Shalom](https://open.spotify.com/artist/0t9f7kAQ1wKeHeLC25ZYin) | [Cantai a Deus Com Alegria 2022](https://open.spotify.com/album/5NfNDPV81OPmGHg0i3U5xv) | 5:49 | 2022-09-02 |  |
 | [Jardim](https://open.spotify.com/track/5g5w8pq89QLOz0psHs8nyW) | [Fraternidade São João Paulo II](https://open.spotify.com/artist/3P2GN1O0yI6n84aDFOcvVt), [Ir\. Samuel Maria](https://open.spotify.com/artist/4kpNrXcguMoec72kBgTD5b) | [Jardim](https://open.spotify.com/album/0Lk5fABYuwO8rdGIIMv4BR) | 8:14 | 2022-09-02 |  |
 | [Já Deu Certo](https://open.spotify.com/track/1pZJJiJC4CR9fMOhXP3Xm3) | [Padre Rodrigo Natal](https://open.spotify.com/artist/0GLzzNhSoCbwsXOCADMo07), [Canthares](https://open.spotify.com/artist/0lCYigvugHfAXSHGJHUtdr) | [Já Deu Certo](https://open.spotify.com/album/3XI0e2tIRvuxbMbHWvC7Ns) | 4:36 | 2022-09-02 |  |
-| [Longe de Deus, Tudo É Ilusão](https://open.spotify.com/track/6tFow5ytjJCSOIVngI2uNc) | [Cleiton Saraiva](https://open.spotify.com/artist/2xI0dIjtJhMNGA5NB8GgaO) | [Deus Anda Comigo](https://open.spotify.com/album/7jGddnQXi1xKn1RsXTuk1e) | 3:43 | 2022-09-02 |  |
+| [Longe de Deus, Tudo É Ilusão](https://open.spotify.com/track/6tFow5ytjJCSOIVngI2uNc) | [Cleiton Saraiva](https://open.spotify.com/artist/2xI0dIjtJhMNGA5NB8GgaO) | [Deus Anda Comigo](https://open.spotify.com/album/7jGddnQXi1xKn1RsXTuk1e) | 3:43 | 2022-09-02 | 2023-05-20 |
 | [Louvor dos Pequenos](https://open.spotify.com/track/34OpCyq1JuZoEajsedtbJv) | [Comunidade Católica Shalom](https://open.spotify.com/artist/0t9f7kAQ1wKeHeLC25ZYin) | [Cantai a Deus Com Alegria 2023](https://open.spotify.com/album/5tqJF42DVxyCtzLQ1Zho3q) | 5:08 | 2023-02-25 |  |
 | [Lugar da Promessa](https://open.spotify.com/track/1NLPPnEEQCbaoum7s54fBG) | [Padre Rodrigo Natal](https://open.spotify.com/artist/0GLzzNhSoCbwsXOCADMo07), [Canthares](https://open.spotify.com/artist/0lCYigvugHfAXSHGJHUtdr) | [Lugar da Promessa](https://open.spotify.com/album/0az8jmNkDgSooCY5M5SLIJ) | 4:43 | 2022-09-02 | 2023-04-29 |
 | [Lugar Seguro](https://open.spotify.com/track/0KOccOeboK6L7mbh3y7sKc) | [Ziza Fernandes](https://open.spotify.com/artist/1FpUYWktSYkpryKsKQFWiK), [Deise Jacinto](https://open.spotify.com/artist/4MKdB4n6ofqjgX4xsZo4ZA) | [Tempus](https://open.spotify.com/album/4GCaOR1DHhb8C2lEb3IeBZ) | 3:57 | 2022-09-02 | 2022-11-26 |
@@ -102,6 +102,7 @@
 | [Sobre o Tempo e o Coração](https://open.spotify.com/track/7jCgbgUhJrBM7D0XSihUKr) | [Padre Fábio De Melo](https://open.spotify.com/artist/72G62rG7kmq4GFOzyjJV4q) | [Sobre o Tempo e o Coração](https://open.spotify.com/album/02vMlXdOK7JMnhPvsCuCtV) | 4:51 | 2022-11-25 | 2023-02-11 |
 | [Somos do Céu](https://open.spotify.com/track/3aQzSGsSFu8BFhYfMPJP7v) | [Irmã Ana Paula, CMES](https://open.spotify.com/artist/1aEvJUVR7x8krnCk1wtrFv) | [Somos do Céu](https://open.spotify.com/album/7eTV7OBnuVeDB47FXCSMmF) | 4:54 | 2022-09-02 |  |
 | [Sopra em meu jardim](https://open.spotify.com/track/5cPJsQ7uwWG7exIM9AvXVY) | [Comunidade Católica Shalom](https://open.spotify.com/artist/0t9f7kAQ1wKeHeLC25ZYin) | [Banquete Eterno](https://open.spotify.com/album/4jnSnb99zjQcs5sjakBIyp) | 4:26 | 2022-09-02 | 2023-03-25 |
+| [Sopra Sobre os Ossos \- Ao Vivo](https://open.spotify.com/track/2rwQvgDFW0WojeTrTJXugO) | [Aline Brasil](https://open.spotify.com/artist/5hf4bo5iH59sca7oXhxKpS) | [Sopra Sobre os Ossos](https://open.spotify.com/album/0O1UMwwbAw04AdLYlfeNYR) | 4:33 | 2023-05-19 |  |
 | [Só por Ti, Jesus](https://open.spotify.com/track/258nDtlsgbuBNWuB1b9Sjy) | [GBA Stage](https://open.spotify.com/artist/6s7YSVBs6f9Asf9UZydQ4s), [Davidson Silva](https://open.spotify.com/artist/1sWAcwfPuIuEdS4dSTd3HR) | [Gba Stage, Vol\. 4](https://open.spotify.com/album/65FKnbmtBigHdsqLZx9L4f) | 3:55 | 2023-01-13 |  |
 | [Te Adorar](https://open.spotify.com/track/3blCCA06ECZDzJkfFzGRAJ) | [Padre Anderson Gomes](https://open.spotify.com/artist/7uu8kCXv4FlL0ZRJ013yw9) | [Te Adorar](https://open.spotify.com/album/7qAleP4Db2sgWmTM8x5O9Q) | 5:26 | 2022-09-02 |  |
 | [Todo Amor do Mundo](https://open.spotify.com/track/1lW5kpBZDeEnfLT12NGlVM) | [Comunidade Católica Shalom](https://open.spotify.com/artist/0t9f7kAQ1wKeHeLC25ZYin) | [Kyrios \(Shalom Brasília 20 Anos\)](https://open.spotify.com/album/6xnhBYPpmu2rOAD0wpteTU) | 4:50 | 2022-09-02 | 2023-05-13 |

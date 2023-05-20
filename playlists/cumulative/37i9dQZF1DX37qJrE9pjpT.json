@@ -78,7 +78,7 @@
       ],
       "date_added": "2022-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 128373,
       "name": "A.D.E (all Day Everyday)",
       "url": "https://open.spotify.com/track/4Pcl4qhYuyeZlAPNZWyOCO"
@@ -188,7 +188,7 @@
       ],
       "date_added": "2022-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 194609,
       "name": "Birthday - Radio Edit",
       "url": "https://open.spotify.com/track/0xBZyqY4wBWEXyj9iC5lXI"
@@ -374,6 +374,28 @@
       "duration_ms": 197000,
       "name": "FOREVER",
       "url": "https://open.spotify.com/track/1MCRjYXjDAR0KN8M53wEZF"
+    },
+    {
+      "album": {
+        "name": "Funga Kazi",
+        "url": "https://open.spotify.com/album/5Rwo0KZZrd0Dy4tSyhvE7j"
+      },
+      "artists": [
+        {
+          "name": "Manengo",
+          "url": "https://open.spotify.com/artist/340oRLVQms0ZR6ijh6mFGS"
+        },
+        {
+          "name": "Darassa",
+          "url": "https://open.spotify.com/artist/34iDTihXiyRsnPa8dCF05a"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186411,
+      "name": "Funga Kazi",
+      "url": "https://open.spotify.com/track/34opJEgUasCJmsFKp2CVjY"
     },
     {
       "album": {
@@ -858,7 +880,7 @@
       ],
       "date_added": "2022-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 224000,
       "name": "My Life",
       "url": "https://open.spotify.com/track/6qFBaQwUOkyPi4QeFls77X"
@@ -1098,6 +1120,28 @@
       "duration_ms": 190511,
       "name": "Respect",
       "url": "https://open.spotify.com/track/5CUGnryFUGZlgamALD3Byz"
+    },
+    {
+      "album": {
+        "name": "Rhythm of Love",
+        "url": "https://open.spotify.com/album/2sU58myd0MkQRdg6MX9cSc"
+      },
+      "artists": [
+        {
+          "name": "SAN AWARD",
+          "url": "https://open.spotify.com/artist/2XSFwx92IDcFxGBcKghxKe"
+        },
+        {
+          "name": "JaeWav",
+          "url": "https://open.spotify.com/artist/5yEr8KsUhOjCTkeu8KPD6J"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220259,
+      "name": "Rhythm of Love",
+      "url": "https://open.spotify.com/track/6JLvWeyCdrp5SY9s6nSEyG"
     },
     {
       "album": {
@@ -1518,6 +1562,28 @@
       "duration_ms": 227368,
       "name": "Tu Come",
       "url": "https://open.spotify.com/track/0jOTg1Ic8NwzqMim1tEl7R"
+    },
+    {
+      "album": {
+        "name": "Tujirushe",
+        "url": "https://open.spotify.com/album/448bK2eboESGeFB3QYqkkA"
+      },
+      "artists": [
+        {
+          "name": "Mwandu Star",
+          "url": "https://open.spotify.com/artist/1R88jVlJciHQCQyE2Xj6Pr"
+        },
+        {
+          "name": "Mr Blue",
+          "url": "https://open.spotify.com/artist/5oNEJIZyXIfzVhOV8TC9Ok"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163186,
+      "name": "Tujirushe",
+      "url": "https://open.spotify.com/track/0YQxyebbH1upzt6dxwVzPK"
     },
     {
       "album": {

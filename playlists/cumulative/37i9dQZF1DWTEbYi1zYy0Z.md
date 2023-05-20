@@ -4,7 +4,7 @@
 
 > So fresh, so smooth\. Cover: Jonathan Butler
 
-333 songs - 23 hr 28 min
+334 songs - 23 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,7 +20,7 @@
 | [After Party](https://open.spotify.com/track/4XBggYxUFhOLRvU5BpbSpI) | [David P Stevens](https://open.spotify.com/artist/50Q09II7EoYJdcgK3UJhBl) | [After Party](https://open.spotify.com/album/1k6SB7PIB74LEoAyeV7uf4) | 3:50 | 2022-09-23 |  |
 | [All Love](https://open.spotify.com/track/7jZ0n3hGirxUYCr8Zm3QFh) | [Candy Dulfer](https://open.spotify.com/artist/287jMoxHzjERgHI6ja8TKa) | [All Love](https://open.spotify.com/album/5BAHMxR5mzhEHy4WspShc8) | 3:12 | 2023-01-27 |  |
 | [All That Matters](https://open.spotify.com/track/2ZNUhtOKwuwK7Ec138C9Dk) | [Brian Simpson](https://open.spotify.com/artist/4uIdP3jwyR0xifCS2FYS3o) | [All That Matters](https://open.spotify.com/album/4EhyShIfNF7T6WKym6BzXN) | 4:37 | 2021-06-25 | 2022-09-17 |
-| [Amalfi](https://open.spotify.com/track/0Ge9juv7gNX6B3LaYICwk5) | [Mattari](https://open.spotify.com/artist/2vvyHDrc6kPcPXcTlIaumC) | [Amalfi](https://open.spotify.com/album/7Dj9allhfF0tvNel3UtS7U) | 3:51 | 2022-06-03 |  |
+| [Amalfi](https://open.spotify.com/track/0Ge9juv7gNX6B3LaYICwk5) | [Mattari](https://open.spotify.com/artist/2vvyHDrc6kPcPXcTlIaumC) | [Amalfi](https://open.spotify.com/album/7Dj9allhfF0tvNel3UtS7U) | 3:51 | 2022-06-03 | 2023-05-20 |
 | [Amends](https://open.spotify.com/track/31vcUe5c32tadhtQuZI91w) | [Jazmin Ghent](https://open.spotify.com/artist/1ObapCOA0O7mr2wXFKEDNY), [Jeff Lorber](https://open.spotify.com/artist/3JC3BBlfImI0p9y2na0bHK) | [Amends](https://open.spotify.com/album/0TZJiX50StX60yEIld5Qe2) | 3:24 | 2020-10-30 | 2022-03-18 |
 | [And Now This](https://open.spotify.com/track/3SpVmdLcEGAu5YSu7eq1IK) | [Paul Taylor](https://open.spotify.com/artist/3wBSOZFd5KLsEZ1yoVSICQ) | [And Now This](https://open.spotify.com/album/4WdiTN5Eqnyqb2YUsx2Dml) | 3:43 | 2021-11-05 | 2022-09-17 |
 | [Anema e core](https://open.spotify.com/track/6qXe4mxwjEHQ7tt1IiZ4XU) | [Giacomo Bondi](https://open.spotify.com/artist/0iQySX2DwuYtpRH2ZHHrCc), [Jason Sax](https://open.spotify.com/artist/43RlfI6WyAEmnBKsJLeldP) | [Anema e core](https://open.spotify.com/album/13iQXHEsrh2vW5jU15Ouwc) | 3:40 | 2021-07-16 | 2022-07-27 |
@@ -132,6 +132,7 @@
 | [Happy](https://open.spotify.com/track/6VutCMZ11XOzQMJENC6hUm) | [Jeffery Smith](https://open.spotify.com/artist/7CW9qPfjuZqNDJsJqT9iM2) | [Happy](https://open.spotify.com/album/5niIPoCZuJw83hBrj2dPKv) | 4:19 | 2023-03-10 | 2023-05-13 |
 | [Hear At Last](https://open.spotify.com/track/7nklnyVct8QNhGodPcjygu) | [Mark Jaimes](https://open.spotify.com/artist/2nhYg2H9CEvbgfDynTHK0E) | [Hear at Last](https://open.spotify.com/album/3QWI2FECarl04d4WF2COUe) | 3:56 | 2021-07-23 | 2022-07-24 |
 | [Heart To Heart](https://open.spotify.com/track/3BB10qk3KvJ5dfUYpIG3yU) | [Norman Brown](https://open.spotify.com/artist/79kOOyVKcrCOKDnzcDHsia) | [Heart To Heart](https://open.spotify.com/album/1gEIjtUpPwXR0VtbNONThq) | 4:11 | 2020-10-30 | 2022-03-18 |
+| [Heartwood](https://open.spotify.com/track/2v3nj34zNc1gt2cySA9992) | [Lawson Rollins](https://open.spotify.com/artist/3blOsom4oRo6dAN4TB7xpv) | [Heartwood](https://open.spotify.com/album/5v508FMhSlWdwqg5kUXqsX) | 5:14 | 2023-05-19 |  |
 | [Heat](https://open.spotify.com/track/3a7zmPCdfzu6JKwTpPPoNP) | [Ilya Serov](https://open.spotify.com/artist/1iffcHDU0oWJvEXhufA71G), [Dave Koz](https://open.spotify.com/artist/0ZcJXldoq09BRIMl0Qh1Vm) | [Heat](https://open.spotify.com/album/6rFoUDFCO3v0HqXUlxlsGB) | 3:53 | 2021-01-08 | 2022-03-18 |
 | [Heat of the Rhythm](https://open.spotify.com/track/7HCdFjqTKyxShTz58ohH8A) | [Stephen Duros](https://open.spotify.com/artist/6bMMVhovwIYA1yF1ZLHZwq) | [The Manhattan Sessions](https://open.spotify.com/album/1tM9EL2tWxTIG5t8PVOJUJ) | 3:33 | 2023-04-14 | 2023-05-06 |
 | [Hello Beautiful \- radio single](https://open.spotify.com/track/2uhzjs4LLyyQdhCbYWFyFp) | [Blair Bryant](https://open.spotify.com/artist/1bNvtqK9g0M2hDWRLdwpZq) | [Hello Beautiful](https://open.spotify.com/album/1NXp9ZbxAhtxyMrnIV7PoM) | 4:28 | 2022-09-09 |  |

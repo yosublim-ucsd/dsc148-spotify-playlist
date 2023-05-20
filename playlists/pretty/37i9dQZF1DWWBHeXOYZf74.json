@@ -1,12 +1,12 @@
 {
-  "description": "Genre-less. Quality first always. Cover: Overmono",
-  "num_followers": 1327278,
+  "description": "Genre-less. Quality first always. Cover: KAYTRAMIN\u00c9",
+  "num_followers": 1327418,
   "original_name": "POLLEN",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkMDc5MDBiM2ZjNjg1MGRmOWVhMWZmNTRiMjUwZTU2MzU3YThlNzFj",
+  "snapshot_id": "MTY4NDQ2ODgwMCwwMDAwMDAwMGY3NmYzMjEwZWYzYzQ4ODBmNTJlYzRjMWVkMTU0NmY5",
   "tracks": [
     {
       "added_at": "2023-05-17 19:51:07",
@@ -28,7 +28,7 @@
           "url": "https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu"
         }
       ],
-      "duration_ms": 123620,
+      "duration_ms": 118436,
       "name": "Rebuke",
       "url": "https://open.spotify.com/track/4XE1StBll9KcNa8nHa3nXG"
     },
@@ -85,6 +85,30 @@
       "url": "https://open.spotify.com/track/2oZH5jrlSr0sFWoiIymVHh"
     },
     {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
+        "name": "KAYTRAMIN\u00c9",
+        "url": "https://open.spotify.com/album/1plAqF2W8hwAhcpBAfGNsW"
+      },
+      "artists": [
+        {
+          "name": "KAYTRAMIN\u00c9",
+          "url": "https://open.spotify.com/artist/5oifjQw72WO7Jut07fVWMy"
+        },
+        {
+          "name": "Amin\u00e9",
+          "url": "https://open.spotify.com/artist/3Gm5F95VdRxW3mqCn8RPBJ"
+        },
+        {
+          "name": "KAYTRANADA",
+          "url": "https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu"
+        }
+      ],
+      "duration_ms": 181000,
+      "name": "Who He Iz",
+      "url": "https://open.spotify.com/track/02nhDSWvcXYALyVkth2oXd"
+    },
+    {
       "added_at": "2023-05-12 04:00:00",
       "album": {
         "name": "Strawberry Perfume",
@@ -99,6 +123,58 @@
       "duration_ms": 116736,
       "name": "Strawberry Perfume",
       "url": "https://open.spotify.com/track/4IbE8jxsczCxfGYJCE2T1x"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
+        "name": "Tears can be so soft",
+        "url": "https://open.spotify.com/album/1OdiuYoGwzTCuIiSu5v20O"
+      },
+      "artists": [
+        {
+          "name": "Christine and the Queens",
+          "url": "https://open.spotify.com/artist/04vj3iPUiVh5melWr0w3xT"
+        }
+      ],
+      "duration_ms": 311928,
+      "name": "Tears can be so soft",
+      "url": "https://open.spotify.com/track/47UhZ9fjTEIOjOe4gktZN9"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
+        "name": "It's Euphoric (Mura Masa Remix)",
+        "url": "https://open.spotify.com/album/2uxnyz1pomXCqsaJcBrVoJ"
+      },
+      "artists": [
+        {
+          "name": "Georgia",
+          "url": "https://open.spotify.com/artist/06knYh538h5SI7OAEF8ek3"
+        },
+        {
+          "name": "Mura Masa",
+          "url": "https://open.spotify.com/artist/5Q81rlcTFh3k6DQJXPdsot"
+        }
+      ],
+      "duration_ms": 193974,
+      "name": "It's Euphoric - Mura Masa Remix",
+      "url": "https://open.spotify.com/track/1xAGqmVj5Asg1g8nUhEoFs"
+    },
+    {
+      "added_at": "2023-04-14 06:16:21",
+      "album": {
+        "name": "We Go Again",
+        "url": "https://open.spotify.com/album/4vdQXcHcAGcVSBA7956EMq"
+      },
+      "artists": [
+        {
+          "name": "ENNY",
+          "url": "https://open.spotify.com/artist/3qEnCAnX23lvoxZYtBiPgL"
+        }
+      ],
+      "duration_ms": 185715,
+      "name": "Charge It",
+      "url": "https://open.spotify.com/track/2YIIDMcF9zWJ2xcFSA99lH"
     },
     {
       "added_at": "2023-05-12 04:00:00",
@@ -117,6 +193,22 @@
       "url": "https://open.spotify.com/track/4Z1olDl8aym5xZYZAat672"
     },
     {
+      "added_at": "2023-05-12 04:00:00",
+      "album": {
+        "name": "Sent From My Telephone",
+        "url": "https://open.spotify.com/album/4h9EUsDMvwsUdmXEvK449j"
+      },
+      "artists": [
+        {
+          "name": "Voice Actor",
+          "url": "https://open.spotify.com/artist/6PsuUa5ijopH2T8rVzHSZc"
+        }
+      ],
+      "duration_ms": 225354,
+      "name": "Battling Dust",
+      "url": "https://open.spotify.com/track/3oYleXsSv0X9GqN1oKyPYu"
+    },
+    {
       "added_at": "2023-03-29 21:15:15",
       "album": {
         "name": "DOGTOOTH",
@@ -131,6 +223,22 @@
       "duration_ms": 161041,
       "name": "DOGTOOTH",
       "url": "https://open.spotify.com/track/0judK8TqYfvwUohBngUxrE"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
+        "name": "Heaven Hanging Low",
+        "url": "https://open.spotify.com/album/0C15Fq2phrRsuF38ny28Hk"
+      },
+      "artists": [
+        {
+          "name": "Art School Girlfriend",
+          "url": "https://open.spotify.com/artist/3rtvvt1kuQ4luEWq8epaHD"
+        }
+      ],
+      "duration_ms": 220306,
+      "name": "Heaven Hanging Low",
+      "url": "https://open.spotify.com/track/0XyBzQ0hOpfmXSjG2CwIqk"
     },
     {
       "added_at": "2023-05-12 04:00:00",
@@ -179,6 +287,38 @@
     {
       "added_at": "2023-05-12 04:00:00",
       "album": {
+        "name": "Just Cool",
+        "url": "https://open.spotify.com/album/1pD1bZq3gntKVyJOiESfQJ"
+      },
+      "artists": [
+        {
+          "name": "Obongjayar",
+          "url": "https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h"
+        }
+      ],
+      "duration_ms": 220243,
+      "name": "Just Cool",
+      "url": "https://open.spotify.com/track/553yNvwJjHlHwDF4fA9ZUP"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
+        "name": "If Only It Was Warmth",
+        "url": "https://open.spotify.com/album/0s5NoPv7HcPo4TvbGwo8VB"
+      },
+      "artists": [
+        {
+          "name": "King Krule",
+          "url": "https://open.spotify.com/artist/4wyNyxs74Ux8UIDopNjIai"
+        }
+      ],
+      "duration_ms": 197979,
+      "name": "If Only It Was Warmth",
+      "url": "https://open.spotify.com/track/1wXbDJMiHEO9vfwVJPOBcH"
+    },
+    {
+      "added_at": "2023-05-12 04:00:00",
+      "album": {
         "name": "WOIIYOIE VOL. 2 - INTENSE CITY",
         "url": "https://open.spotify.com/album/4B4j3UpvXRF26Vj579bDfJ"
       },
@@ -215,38 +355,6 @@
       "duration_ms": 172198,
       "name": "911",
       "url": "https://open.spotify.com/track/6gvuOwQYMw0oz0oe6x7x9O"
-    },
-    {
-      "added_at": "2023-04-14 06:16:21",
-      "album": {
-        "name": "We Go Again",
-        "url": "https://open.spotify.com/album/4vdQXcHcAGcVSBA7956EMq"
-      },
-      "artists": [
-        {
-          "name": "ENNY",
-          "url": "https://open.spotify.com/artist/3qEnCAnX23lvoxZYtBiPgL"
-        }
-      ],
-      "duration_ms": 185715,
-      "name": "Charge It",
-      "url": "https://open.spotify.com/track/2YIIDMcF9zWJ2xcFSA99lH"
-    },
-    {
-      "added_at": "2023-05-12 04:00:00",
-      "album": {
-        "name": "Sent From My Telephone",
-        "url": "https://open.spotify.com/album/4h9EUsDMvwsUdmXEvK449j"
-      },
-      "artists": [
-        {
-          "name": "Voice Actor",
-          "url": "https://open.spotify.com/artist/6PsuUa5ijopH2T8rVzHSZc"
-        }
-      ],
-      "duration_ms": 225354,
-      "name": "Battling Dust",
-      "url": "https://open.spotify.com/track/3oYleXsSv0X9GqN1oKyPYu"
     },
     {
       "added_at": "2023-05-05 04:00:00",
@@ -287,22 +395,6 @@
       "duration_ms": 121283,
       "name": "Fell In Love",
       "url": "https://open.spotify.com/track/1N8klHEbZ0bFOHnMVs8C9S"
-    },
-    {
-      "added_at": "2023-05-12 04:00:00",
-      "album": {
-        "name": "Just Cool",
-        "url": "https://open.spotify.com/album/1pD1bZq3gntKVyJOiESfQJ"
-      },
-      "artists": [
-        {
-          "name": "Obongjayar",
-          "url": "https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h"
-        }
-      ],
-      "duration_ms": 220243,
-      "name": "Just Cool",
-      "url": "https://open.spotify.com/track/553yNvwJjHlHwDF4fA9ZUP"
     },
     {
       "added_at": "2023-04-28 04:00:00",
@@ -783,26 +875,6 @@
     {
       "added_at": "2023-04-21 04:00:00",
       "album": {
-        "name": "UNDERSTAND",
-        "url": "https://open.spotify.com/album/6DQ6LpJlvhoamE6Qg6plAX"
-      },
-      "artists": [
-        {
-          "name": "Q",
-          "url": "https://open.spotify.com/artist/22vqVhfPJab5kkU9txDGX3"
-        },
-        {
-          "name": "Baby Rose",
-          "url": "https://open.spotify.com/artist/6Z4JcgqrqgysyHIPRtDIHo"
-        }
-      ],
-      "duration_ms": 243866,
-      "name": "UNDERSTAND (feat. Baby Rose)",
-      "url": "https://open.spotify.com/track/1RHob2sw5X81Ukn4BYPbmF"
-    },
-    {
-      "added_at": "2023-04-21 04:00:00",
-      "album": {
         "name": "echo: dawn",
         "url": "https://open.spotify.com/album/0ZhR4JnbnSgxcNPq5jaHKF"
       },
@@ -1019,22 +1091,6 @@
       "duration_ms": 193102,
       "name": "love him",
       "url": "https://open.spotify.com/track/2jkgQozOVaiHaZAKfTaAl9"
-    },
-    {
-      "added_at": "2023-03-31 04:03:01",
-      "album": {
-        "name": "It's Euphoric",
-        "url": "https://open.spotify.com/album/4PO8IlUdTJpBbsUremuM69"
-      },
-      "artists": [
-        {
-          "name": "Georgia",
-          "url": "https://open.spotify.com/artist/06knYh538h5SI7OAEF8ek3"
-        }
-      ],
-      "duration_ms": 221493,
-      "name": "It\u2019s Euphoric",
-      "url": "https://open.spotify.com/track/3se5Q9CtQLv26cFWYOcExQ"
     },
     {
       "added_at": "2023-04-07 04:00:00",
@@ -1395,30 +1451,6 @@
     {
       "added_at": "2023-03-17 14:33:05",
       "album": {
-        "name": "Swarm",
-        "url": "https://open.spotify.com/album/7AXxq1n3X7JZbbEnGCfLAX"
-      },
-      "artists": [
-        {
-          "name": "Ni'jah",
-          "url": "https://open.spotify.com/artist/0RkeQU983gcehOYs7632vR"
-        },
-        {
-          "name": "Childish Gambino",
-          "url": "https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL"
-        },
-        {
-          "name": "KIRBY",
-          "url": "https://open.spotify.com/artist/5lcDGoJUr5WY5bCFAfYbCU"
-        }
-      ],
-      "duration_ms": 171706,
-      "name": "Sticky (feat. Childish Gambino & KIRBY)",
-      "url": "https://open.spotify.com/track/14adSLAL6WgvwH5snRF3gs"
-    },
-    {
-      "added_at": "2023-03-17 14:33:05",
-      "album": {
         "name": "what u like",
         "url": "https://open.spotify.com/album/1j0dMjslAqM7ThtxAlcZpo"
       },
@@ -1561,26 +1593,6 @@
       "url": "https://open.spotify.com/track/0hyTH8NRRQeaFjbfoktfnc"
     },
     {
-      "added_at": "2023-03-10 05:00:00",
-      "album": {
-        "name": "CooCool",
-        "url": "https://open.spotify.com/album/4oPrQ3KXGrzE2DxJVnAU7F"
-      },
-      "artists": [
-        {
-          "name": "R\u00f3is\u00edn Murphy",
-          "url": "https://open.spotify.com/artist/3qwabfaWewpfli7hMNM3O8"
-        },
-        {
-          "name": "DJ Koze",
-          "url": "https://open.spotify.com/artist/1kR99O4MgSTasyeJh8UFCg"
-        }
-      ],
-      "duration_ms": 271112,
-      "name": "CooCool",
-      "url": "https://open.spotify.com/track/0C8jkmcNV7VxyHemnI917F"
-    },
-    {
       "added_at": "2023-03-24 04:00:00",
       "album": {
         "name": "Exodus the North Star",
@@ -1649,22 +1661,6 @@
       "url": "https://open.spotify.com/track/5D1QJgn1rP8docnVY6MRJ9"
     },
     {
-      "added_at": "2023-03-03 05:00:00",
-      "album": {
-        "name": "Impurities",
-        "url": "https://open.spotify.com/album/4bN7xco6FT5lDwmBcZ18tP"
-      },
-      "artists": [
-        {
-          "name": "Arlo Parks",
-          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
-        }
-      ],
-      "duration_ms": 229203,
-      "name": "Impurities",
-      "url": "https://open.spotify.com/track/0yUpBx2Y5KwzENVCshSy3M"
-    },
-    {
       "added_at": "2023-03-06 19:28:07",
       "album": {
         "name": "Heaven Surrounds Us Like a Hood",
@@ -1699,22 +1695,6 @@
       "duration_ms": 150699,
       "name": "Worth the Wait (feat. Omar Apollo)",
       "url": "https://open.spotify.com/track/6V91Cctseyb8yz67YQMDw3"
-    },
-    {
-      "added_at": "2022-12-09 05:00:00",
-      "album": {
-        "name": "Fam Without Blood",
-        "url": "https://open.spotify.com/album/0BAZrp2yemAgUY2RiKQt3k"
-      },
-      "artists": [
-        {
-          "name": "Skiifall",
-          "url": "https://open.spotify.com/artist/1Dy2JqZmbXPTvJdDOyytcP"
-        }
-      ],
-      "duration_ms": 181293,
-      "name": "Fam Without Blood",
-      "url": "https://open.spotify.com/track/1J4VJFAnnb55HrCfglZmF0"
     },
     {
       "added_at": "2023-02-24 05:00:00",

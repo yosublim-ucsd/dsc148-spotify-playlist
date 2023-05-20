@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX0o6sD1a6P5.md) - [plain]
 
 > Feel\-good Afropop from Europe and Africa\. Cover: Kizz Daniel
 
-[Spotify](https://open.spotify.com/user/spotify) - 758,421 likes - 50 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 759,036 likes - 50 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX0o6sD1a6P5.md) - [plain]
 | 49 | [2:30](https://open.spotify.com/track/6upXA8xqJ5heoVw4nd5Zvs) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [2:30](https://open.spotify.com/album/7ASPbaFgWYjGlYIIOewA2L) | 2:18 |
 | 50 | [Sentiments](https://open.spotify.com/track/1lOsNJwmQ8IQHlADQnLoCL) | [Still Fresh](https://open.spotify.com/artist/3AGggQTwJaSofLcpDlYhV4) | [Sentiments](https://open.spotify.com/album/5TR28HTV1YVgMZqO0S89oH) | 2:36 |
 
-Snapshot ID: `MCw4ZGEwOWZkY2YxMGI3NzdkOTU3YWFkMGM5ZmM0NTc5OGEyYTdlYTM3`
+Snapshot ID: `MCxhZWE4MjA0ZDYwYmZmM2ZkMjI5MzY4YThiZWJjNTc2NzI2NDM4NDA4`

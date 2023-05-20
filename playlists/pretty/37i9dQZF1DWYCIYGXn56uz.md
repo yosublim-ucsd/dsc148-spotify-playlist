@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYCIYGXn56uz.md) - [plain]
 
 > ✨giovane✨pop✨z✨ Cover: Rosa Chemical
 
-[Spotify](https://open.spotify.com/user/spotify) - 383,986 likes - 65 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 384,013 likes - 65 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,12 +30,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYCIYGXn56uz.md) - [plain]
 | 20 | [Polvere](https://open.spotify.com/track/3llceZeLx6TjP8WDcluSIu) | [Olly](https://open.spotify.com/artist/25u1DN0MwQVSav4XoJS7hl), [JVLI](https://open.spotify.com/artist/4rj3KWaLAnuxgtMMkypZhf) | [Polvere](https://open.spotify.com/album/0lEwP61rmUmXbvskEQuTgM) | 2:46 |
 | 21 | [Cicatrice](https://open.spotify.com/track/0epSbGpKaNemoWZaVEjS9S) | [CLARA](https://open.spotify.com/artist/6FPxOArEPVZUDv925qq8IQ) | [Cicatrice](https://open.spotify.com/album/7fL67B6qXHYa4rRK1I2lsG) | 2:31 |
 | 22 | [SUPEREROI](https://open.spotify.com/track/1nND6VDerwJxLaUwVVCp28) | [Mr.Rain](https://open.spotify.com/artist/59MLbXG0jLVwJup3KAd6m1) | [SUPEREROI](https://open.spotify.com/album/54YVUZvEjuGMyVSyLwPPdn) | 3:15 |
-| 23 | [Mi prenderò cura di te](https://open.spotify.com/track/3ILLcjoGf6Yb43Zegavf8u) | [Aaron](https://open.spotify.com/artist/3ONAXWCJeNG7NwQulOI8e0) | [Mi prenderò cura di te](https://open.spotify.com/album/65ln0kOw6FDR63nVEmwBeQ) | 2:54 |
+| 23 | [Mi prenderò cura di te](https://open.spotify.com/track/69lNcHEZlBjYEZ2N4kI3QU) | [Aaron](https://open.spotify.com/artist/3ONAXWCJeNG7NwQulOI8e0) | [Mi prenderò cura di te](https://open.spotify.com/album/6xuSbljTKxMckE902CiYdO) | 2:54 |
 | 24 | [Ogni Volta Che Ti Penso](https://open.spotify.com/track/7rOLgYuO5vBxVCWITRTJyP) | [Ludwig](https://open.spotify.com/artist/5RXnKYBIxi8zcFNCz03T71) | [Ogni Volta Che Ti Penso](https://open.spotify.com/album/2GSCcTIlSByimd2Q3GVtJ6) | 3:15 |
 | 25 | [a Nessuno](https://open.spotify.com/track/5fU20jhQlPyoxuFwHEjA0a) | [NASKA](https://open.spotify.com/artist/4r1DHaB2yIhddOkTF92d1d) | [La mia stanza](https://open.spotify.com/album/2PyTVVc89tYsUmS5INdW4b) | 3:13 |
 | 26 | [CONCERTO](https://open.spotify.com/track/2ysCFTZocsMr672oxUUsAl) | [Calma](https://open.spotify.com/artist/56sJBZ0NubEJ6Y6QOldl1T), [Ascanio](https://open.spotify.com/artist/4OrY83Csdp97sYybqjZTzI) | [CONCERTO](https://open.spotify.com/album/0byn2frtBA5gvoiTGZQcfr) | 2:28 |
 | 27 | [Le Cose In Comune](https://open.spotify.com/track/1rVPV7us0kW0mXBgoNKAYK) | [Alfa](https://open.spotify.com/artist/7GacyaFUp0qkEJglERX9N7) | [Le Cose In Comune](https://open.spotify.com/album/1tFaJjfjNZCbc81buL2Um0) | 2:31 |
-| 28 | [Grazie](https://open.spotify.com/track/0oqHbECCWrerfCCzxBWIIU) | [wax](https://open.spotify.com/artist/0UYKwcrTJkzFpp5ozPPlMS) | [Grazie](https://open.spotify.com/album/74sxU8T75KZXpiXz48acJo) | 2:30 |
+| 28 | [Grazie](https://open.spotify.com/track/2AySyotmmvkN6mUH5aitwm) | [wax](https://open.spotify.com/artist/0UYKwcrTJkzFpp5ozPPlMS) | [Grazie](https://open.spotify.com/album/0d6lU09aksGooHDTSfvWB2) | 2:30 |
 | 29 | [Vita morte e miracoli](https://open.spotify.com/track/6lg1cQeODHXiQv5xAiLVT2) | [Angelina Mango](https://open.spotify.com/artist/1A6HBLulvBFzNtlMb7b08f) | [Voglia di vivere](https://open.spotify.com/album/6Tr2x4RP8M4ikPNrXQeFOS) | 2:40 |
 | 30 | [Adamo ed Eva](https://open.spotify.com/track/00LyduMgp60uZIvQXCQxr5) | [Luigi Strangis](https://open.spotify.com/artist/7kuB7tieHx2PaQwRTNFcnZ) | [Adamo ed Eva](https://open.spotify.com/album/13HHOcO46qy5QQGjPSphmv) | 2:33 |
 | 31 | [È normale](https://open.spotify.com/track/2cWbB9zkSCYeDlFuGmYWW8) | [Piccolo G](https://open.spotify.com/artist/5OIYMOg9lPLouzN3jIerv2) | [È normale](https://open.spotify.com/album/3zcnrpNCwmbzwYxwUdH1xU) | 3:04 |
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYCIYGXn56uz.md) - [plain]
 | 64 | [Giovane e triste](https://open.spotify.com/track/56WecW5HnWstqg0GvhseEP) | [Nashley](https://open.spotify.com/artist/5RiGhrEoM1SBjZoY25lCfe) | [Giovane e triste](https://open.spotify.com/album/0ZfMM8FzMhHGffOGdew5R1) | 3:06 |
 | 65 | [Pensando a lei](https://open.spotify.com/track/4Yi4RRhp3nfKR1FDbXlHBp) | [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS) | [Pensando a lei](https://open.spotify.com/album/16TddOdM2qRyKoyjy05nQn) | 2:56 |
 
-Snapshot ID: `MCxkYzMzOGZkYWYwMjNmZDhkNjU3ZDc2M2M2MDcyMTQ4MWFhZmRmN2Vh`
+Snapshot ID: `MCxkYjY1YWYxZWViNWE5OTg1Mjk3YmJjMzJlYzVkZjk3YTdkNDkyYzhm`

@@ -2036,10 +2036,32 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 248273,
       "name": "HATEFUL",
       "url": "https://open.spotify.com/track/6QtiPaRRcSIne26CN4zNla"
+    },
+    {
+      "album": {
+        "name": "HATEFUL [Feat. SIERRA]",
+        "url": "https://open.spotify.com/album/1Pdzx7m7W6s9oWnleMRNg8"
+      },
+      "artists": [
+        {
+          "name": "HEALTH",
+          "url": "https://open.spotify.com/artist/6FfjnGXMhxSsJTuGLWBDth"
+        },
+        {
+          "name": "SIERRA",
+          "url": "https://open.spotify.com/artist/25WCO5tS4sXMxIfe3nIXL4"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248273,
+      "name": "HATEFUL [Feat. SIERRA]",
+      "url": "https://open.spotify.com/track/1s4ym7eC16ckglNEcPe2Lw"
     },
     {
       "album": {

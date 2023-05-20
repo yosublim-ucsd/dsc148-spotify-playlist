@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV4u7VWM4nPt.md) - [plain]
 
 > The biggest songs in Latin America in 2000\. Cover: Joan Sebastian
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,899 likes - 50 songs - 3 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,966 likes - 50 songs - 3 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV4u7VWM4nPt.md) - [plain]
 | 43 | [Não Vá Embora \- 2004 Digital Remaster](https://open.spotify.com/track/7o5VPajBu55TxEjCQs05uw) | [Marisa Monte](https://open.spotify.com/artist/0rSTXALHu0EKAawPLBdODH) | [Memórias, Crônicas e Declarações de Amor](https://open.spotify.com/album/349Z96WB2lmLLATHQT2wyL) | 3:36 |
 | 44 | [Todo Me Gusta De Ti](https://open.spotify.com/track/4rh6NUKzdzOenErCBd9AJO) | [Aaron Y Su Grupo Ilusion](https://open.spotify.com/artist/1zVxAFV8uL5V816dzdHvYQ) | [Lo Más Escuchado De](https://open.spotify.com/album/6O1uu6IBrLPZqax4yCisSt) | 4:05 |
 | 45 | [Te Enamoraste de Ti](https://open.spotify.com/track/3gBzsI7YDTcvfTFCRHEuom) | [Ricardo Arjona](https://open.spotify.com/artist/0h1zs4CTlU9D2QtgPxptUD) | [Galeria Caribe](https://open.spotify.com/album/3Pido82I7SgITS8LDABA7y) | 4:27 |
-| 46 | [Pegame Tu Vicio](https://open.spotify.com/track/25ILWrCvXPpkUFU0R7znEv) | [Eddy Herrera](https://open.spotify.com/artist/4yNdrUaF54csrLixVTnqzC) | [Me Enamore](https://open.spotify.com/album/5yhEOwF6bRo08QhTGU9FQC) | 5:00 |
-| 47 | [Te Quise Olvidar](https://open.spotify.com/track/4UGv3IQYXPj9oR2RMkarWy) | [MDO](https://open.spotify.com/artist/08xFgTEmizKwzfDSbxvODp) | [Subir Al Cielo](https://open.spotify.com/album/6ghZXanM9ROEjqSDgKOmPq) | 4:22 |
+| 46 | [Te Quise Olvidar](https://open.spotify.com/track/4UGv3IQYXPj9oR2RMkarWy) | [MDO](https://open.spotify.com/artist/08xFgTEmizKwzfDSbxvODp) | [Subir Al Cielo](https://open.spotify.com/album/6ghZXanM9ROEjqSDgKOmPq) | 4:22 |
+| 47 | [Pegame Tu Vicio](https://open.spotify.com/track/25ILWrCvXPpkUFU0R7znEv) | [Eddy Herrera](https://open.spotify.com/artist/4yNdrUaF54csrLixVTnqzC) | [Me Enamore](https://open.spotify.com/album/5yhEOwF6bRo08QhTGU9FQC) | 5:00 |
 | 48 | [Imagina](https://open.spotify.com/track/5rTpWh5T1yPhIAV9mbmYEW) | [Genitallica](https://open.spotify.com/artist/5Bk3LL5WujH6UG9iqpDaxA) | [Originales \- 20 Exitos](https://open.spotify.com/album/3mHTWntPW5EGMkb54cn1PK) | 3:01 |
 | 49 | [El alma al aire](https://open.spotify.com/track/4Vp3RsQyxbZiIiVj3JSZkp) | [Alejandro Sanz](https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF) | [Coleccion definitiva \(Deluxe\)](https://open.spotify.com/album/2avjXzB9ndvLElhdXzKOBX) | 5:56 |
 | 50 | [Rubão, O Dono Do Mundo](https://open.spotify.com/track/201AtbXVYC48kdfzZVBMtn) | [Charlie Brown Jr.](https://open.spotify.com/artist/1on7ZQ2pvgeQF4vmIA09x5) | [Nadando Com Os Tubarões](https://open.spotify.com/album/5eF1HzO5mIQxs7bCwW9TJC) | 2:14 |
 
-Snapshot ID: `MCwxNzg3YTFiY2MyYTRiYzhlOWEzYTgzOWE2MTI1ZGU5OTU1NzNkNGMw`
+Snapshot ID: `MCw1NjdlYjYxZWZlM2E4ODlmMzQzMjBjYmY2Yzc0MmEwMWY3OTZiNmQ2`

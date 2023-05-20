@@ -4,7 +4,7 @@
 
 > Take a deep breath and relax.
 
-146 songs - 7 hr 43 min
+147 songs - 7 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -72,7 +72,7 @@
 | [Healing](https://open.spotify.com/track/64U5PLgNrdaQtuKqquCWaQ) | [Jan Sandgreen](https://open.spotify.com/artist/6XeZHtclFhsvU54hfesohF) | [Healing](https://open.spotify.com/album/4Ad5hqfM5jXUtJArpJZX0w) | 2:59 | 2022-05-25 |  |
 | [Healing Waves](https://open.spotify.com/track/2e0GYT1cwyJTcWy9hiN1xZ) | [Pax Soloman](https://open.spotify.com/artist/7lPIQjl1EboMXeIKVogpRg) | [Healing Waves](https://open.spotify.com/album/1XKOfSQ44K7AgVPgCubMbD) | 2:41 | 2022-05-25 |  |
 | [Heelen](https://open.spotify.com/track/0UDlSuqQciysci1WARAywP) | [Sohn Aelia](https://open.spotify.com/artist/58PoZ2UB30eX8jppZ6B87i) | [Heelen](https://open.spotify.com/album/4ZW0tZd8K849k6Ymuni1rp) | 2:49 | 2022-05-25 |  |
-| [Helleborus Orientalis](https://open.spotify.com/track/7KHpwN3iEUPfccUqeAKNR0) | [The Gods and I](https://open.spotify.com/artist/4O1p00pWzMaD9Vr7bm5sr7) | [The Modern Prometheus](https://open.spotify.com/album/6K3RHtl7uPCwHdkYDwFBjd) | 3:24 | 2022-05-25 |  |
+| [Helleborus Orientalis](https://open.spotify.com/track/7KHpwN3iEUPfccUqeAKNR0) | [The Gods and I](https://open.spotify.com/artist/4O1p00pWzMaD9Vr7bm5sr7) | [The Modern Prometheus](https://open.spotify.com/album/6K3RHtl7uPCwHdkYDwFBjd) | 3:24 | 2022-05-25 | 2023-05-20 |
 | [High Fly](https://open.spotify.com/track/4lpIocJWZ7ubpEi2WmXs6Z) | [Majestic Sleep](https://open.spotify.com/artist/0sQArsC8yyQYhH6mk7Myt0) | [Vast Surroundings](https://open.spotify.com/album/4TAjh8pw6XL9Vujx5tMm7U) | 3:46 | 2022-05-25 | 2022-09-07 |
 | [I Believe](https://open.spotify.com/track/0vK8tdh9HbtUcAm9g4CVDD) | [Xiaoming Chu](https://open.spotify.com/artist/3wWsMDO6XVcTyV9IvVhss9) | [Peace Of Mind](https://open.spotify.com/album/4C7Qoi3ymc44BakzPS07OJ) | 2:00 | 2022-05-25 | 2022-08-06 |
 | [Imagination](https://open.spotify.com/track/1wqc4mp6CKNGnDV3rOTb9M) | [Invertivo](https://open.spotify.com/artist/41SaKcYP2CTeAwnQPFS3YV) | [Imagination](https://open.spotify.com/album/4RbMri9MGtYClHNBOdDNVm) | 2:54 | 2022-05-25 |  |
@@ -151,6 +151,7 @@
 | [Tramonto](https://open.spotify.com/track/3smLYiUCcqOwOVmYroTDN7) | [Aamina Russo](https://open.spotify.com/artist/2tKHYULGYUqc688FyJRGxO) | [Tramonto](https://open.spotify.com/album/2pOZVs9uO37Uk63vlU7ZIG) | 2:13 | 2023-03-09 |  |
 | [Warm Embrace](https://open.spotify.com/track/4H7cke51KBunS0nfrjtu7Q) | [Aileen Morais](https://open.spotify.com/artist/6iFtTBfZ2YpYJ8YRQ7eCaf) | [Laze](https://open.spotify.com/album/5xP0MgMIDVlaTSFGpVtD0k) | 3:46 | 2022-12-02 |  |
 | [Westward](https://open.spotify.com/track/3a4QYzei9aAmBHtz3ElTPT) | [Western Tribulations](https://open.spotify.com/artist/2BqSkHnqXQZZSKr1EwgHno) | [Enschede](https://open.spotify.com/album/3twmOqQwvJBNQBq6oboMtD) | 3:48 | 2022-05-25 | 2022-09-07 |
+| [Winding Down](https://open.spotify.com/track/2YMF46jCQHWY5Cu34tAbyN) | [Atticus Laines](https://open.spotify.com/artist/5lvoIhUaKTZ5DPNElfgAu6) | [Winding Down](https://open.spotify.com/album/61vGKZ7BiUj71vTwOsySMI) | 2:45 | 2023-05-19 |  |
 | [Yalmi](https://open.spotify.com/track/4vbpZqfVsIz1lPEsMT0IkE) | [Merc La](https://open.spotify.com/artist/0bSzN4RWd1T5I0ICYR2LJS) | [Yalmi](https://open.spotify.com/album/5O6cASUJg7un5RD7kqO0UT) | 2:23 | 2022-05-25 |  |
 | [Yesterday](https://open.spotify.com/track/0F8rKbPUGxuyQ0JozqMsRo) | [Jake Slumber](https://open.spotify.com/artist/5zXzDGnSdx0XqjZzuKNNYx) | [Yesterday](https://open.spotify.com/album/53bkdqxJiaEZN5gtnSvpk7) | 2:16 | 2022-05-25 |  |
 | [Zeppelin See](https://open.spotify.com/track/5SxlRbsS4E5t0d76Cc0LHG) | [Montbretia](https://open.spotify.com/artist/7A9r37hE6RLqltWm7fgZOA) | [Zeppelin See](https://open.spotify.com/album/4x9XZ03dgMjcEjcxSm9aBa) | 2:59 | 2022-05-25 |  |

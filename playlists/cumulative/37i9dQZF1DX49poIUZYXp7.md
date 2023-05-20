@@ -4,7 +4,7 @@
 
 > The extraordinary women making great country music today\. Cover: Kimberly Perry
 
-320 songs - 17 hr 33 min
+321 songs - 17 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -96,7 +96,7 @@
 | [Good Friends](https://open.spotify.com/track/5HVc3YeNKDFomPhXBKE90U) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [Humble Quest](https://open.spotify.com/album/3BEDHGAd2zJh5dUL4dbmiw) | 3:28 | 2022-05-27 | 2023-04-27 |
 | [good on you](https://open.spotify.com/track/0Mn8Zougsau7RX2vMJJpwo) | [Lindsay Ell](https://open.spotify.com/artist/4lpA7MWpQpY7hKkwfLxw2Q) | [heart theory](https://open.spotify.com/album/4pTPkB7BSDqZboqQYbx7iF) | 3:17 | 2022-03-02 | 2022-07-26 |
 | [Got No Choice](https://open.spotify.com/track/0bZn83nTisBT1OCb7bA3rw) | [Brooke Eden](https://open.spotify.com/artist/6TFhESBLRTi95wmI1dRFVt) | [Got No Choice](https://open.spotify.com/album/1529CgDLI704QwWw5A5OFS) | 3:21 | 2021-12-01 | 2022-04-21 |
-| [Greener Pasture](https://open.spotify.com/track/3fA0FKdkPmBa62MSxwewKE) | [Carter Faith](https://open.spotify.com/artist/4X5CTYQmx1NNyz9S1IpNko) | [Greener Pasture](https://open.spotify.com/album/2ua2VjahAuE1LsjiGIQWu3) | 3:09 | 2022-03-01 |  |
+| [Greener Pasture](https://open.spotify.com/track/3fA0FKdkPmBa62MSxwewKE) | [Carter Faith](https://open.spotify.com/artist/4X5CTYQmx1NNyz9S1IpNko) | [Greener Pasture](https://open.spotify.com/album/2ua2VjahAuE1LsjiGIQWu3) | 3:09 | 2022-03-01 | 2023-05-20 |
 | [Growing Old Young](https://open.spotify.com/track/31gcyn6Mhb8JM26hcSyuk2) | [Tenille Arts](https://open.spotify.com/artist/0gSAxSvAApQc71cTpoXDFu) | [Girl to Girl](https://open.spotify.com/album/1GcSAAAr9e2zcZKucagy5A) | 3:26 | 2021-12-01 | 2022-07-29 |
 | [Growing Up](https://open.spotify.com/track/2qLlnVfkyIMtkViemtRtYb) | [Haley Mae Campbell](https://open.spotify.com/artist/2NDqx1z4TTkFr0QOnk8nX3) | [Growing Up](https://open.spotify.com/album/56Y7sj73J1tdMkXgRPSaMX) | 3:34 | 2021-12-01 | 2022-02-21 |
 | [Hair Salon](https://open.spotify.com/track/04jS8ttbCZdesbAhbOmMzG) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [Hair Salon](https://open.spotify.com/album/3R5YoSrkdqrE5tvYgfKl0E) | 3:44 | 2022-06-01 | 2023-01-06 |
@@ -140,7 +140,8 @@
 | [If I Was a Cowboy](https://open.spotify.com/track/6F7UOC6fPWOkPqybOWBHSv) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [If I Was a Cowboy](https://open.spotify.com/album/30ECcjA3lMZPRpdJDyHAnT) | 3:15 | 2021-12-01 |  |
 | [If You Have To](https://open.spotify.com/track/5aWxPjDd4ZfpsmDoeR1plq) | [Ella Langley](https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8) | [If You Have To](https://open.spotify.com/album/31jtMX7GvPB6gtQBCGA6xL) | 3:19 | 2022-03-01 | 2022-09-24 |
 | [If You Have To](https://open.spotify.com/track/6FxC6j3SQlVsnokxxhAxXN) | [Ella Langley](https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8) | [If You Have To](https://open.spotify.com/album/6G8k0Ah1l0Nr94WKyU8G7p) | 3:19 | 2022-09-30 |  |
-| [In the Name of Whiskey](https://open.spotify.com/track/1KmjglAHpwRyRrjQNSJ9hz) | [Tanner Adell](https://open.spotify.com/artist/5xKVALj2MSqOHmQhburCM8) | [Last Call \- EP](https://open.spotify.com/album/0rZ8EVQ6yTaf8RkTRnBtw5) | 3:03 | 2022-06-04 |  |
+| [In the Name of Whiskey](https://open.spotify.com/track/1KmjglAHpwRyRrjQNSJ9hz) | [Tanner Adell](https://open.spotify.com/artist/5xKVALj2MSqOHmQhburCM8) | [Last Call \- EP](https://open.spotify.com/album/0rZ8EVQ6yTaf8RkTRnBtw5) | 3:03 | 2022-06-04 | 2023-05-20 |
+| [In the Name of Whiskey](https://open.spotify.com/track/6MaEyJZOGpsG2aW2TOodJd) | [Tanner Adell](https://open.spotify.com/artist/5xKVALj2MSqOHmQhburCM8) | [Last Call](https://open.spotify.com/album/1rGKTqvXH0muLAbvZGH8Vo) | 3:03 | 2023-05-05 |  |
 | [Independent With You](https://open.spotify.com/track/3e90277REF5UJoUrZQPnIY) | [Kylie Morgan](https://open.spotify.com/artist/3g2yaL04Uapb5fxmwsUZgV) | [Independent With You](https://open.spotify.com/album/3KXIuxq6GgclGOfde5I0mK) | 2:42 | 2022-04-08 | 2023-03-02 |
 | [Influence](https://open.spotify.com/track/1Fm5W64ccdN74IWDY6vtrI) | [Megan Dawson](https://open.spotify.com/artist/3FuZQgYK8xR8diGiLTcGp4) | [Influence](https://open.spotify.com/album/1eVJxamChkUCQH5NHuZkG8) | 3:23 | 2022-03-11 | 2022-04-20 |
 | [It Didn't](https://open.spotify.com/track/3sJ8Vga9Whu7YiSHBLapy1) | [Madeline Merlo](https://open.spotify.com/artist/4KH3T3jZJtfFtNyfBqwUuu) | [It Didn't](https://open.spotify.com/album/5tKQuTGyTSQVLwDJWfM1kn) | 2:58 | 2022-03-02 | 2022-07-29 |
@@ -193,7 +194,7 @@
 | [Never Been in Love](https://open.spotify.com/track/4SACHtzLlcNaUKGYC9oX30) | [Haley Mae Campbell](https://open.spotify.com/artist/2NDqx1z4TTkFr0QOnk8nX3) | [Never Been in Love](https://open.spotify.com/album/25xDXodLiZRjEve55T9A8G) | 2:59 | 2021-12-01 | 2022-04-15 |
 | [Never Til Now](https://open.spotify.com/track/2t6lQWC69f2ybmd6VTO2vU) | [Ashley Cooke](https://open.spotify.com/artist/2qwXeRk8VBAegbUnf3xdyi) | [Already Drank That Beer \- Side A](https://open.spotify.com/album/1gH6cnZFuxGpRqv7R1da7r) | 2:53 | 2021-12-01 | 2022-07-29 |
 | [Never Til Now](https://open.spotify.com/track/6gCrHBlDZw3UkLSjzkLlGF) | [Ashley Cooke](https://open.spotify.com/artist/2qwXeRk8VBAegbUnf3xdyi) | [Already Drank That Beer](https://open.spotify.com/album/38kLDWmm1uaKAtvYTT3ZAI) | 2:53 | 2022-07-22 |  |
-| [Never Wanted To Be That Girl](https://open.spotify.com/track/3TuMOIzXkhKFDNHyQ7Mo8J) | [Carly Pearce](https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72), [Ashley McBryde](https://open.spotify.com/artist/371jpyGdoChzUASOIG2ECV) | [Never Wanted To Be That Girl](https://open.spotify.com/album/3dmVohUADaRH81z0AETGev) | 3:34 | 2021-12-01 | 2023-05-14 |
+| [Never Wanted To Be That Girl](https://open.spotify.com/track/3TuMOIzXkhKFDNHyQ7Mo8J) | [Carly Pearce](https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72), [Ashley McBryde](https://open.spotify.com/artist/371jpyGdoChzUASOIG2ECV) | [Never Wanted To Be That Girl](https://open.spotify.com/album/3dmVohUADaRH81z0AETGev) | 3:34 | 2021-12-01 |  |
 | [Next Girl](https://open.spotify.com/track/2nkKBegmLjGjCZ0cP9xA09) | [Carly Pearce](https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72) | [29](https://open.spotify.com/album/4d9k0jS5GUloTE0JRqncyn) | 2:44 | 2021-12-01 |  |
 | [Not My Business](https://open.spotify.com/track/7rc8zMNiVa7gFs5BHN4RNy) | [Brittany Brodie](https://open.spotify.com/artist/2SCMzOSOfJt3GwROmroua5) | [Not My Business](https://open.spotify.com/album/1AXvisFBjFJWEsbbDEKaa4) | 3:10 | 2022-03-25 | 2022-04-21 |
 | [Not Supposed To Know Each Other](https://open.spotify.com/track/2K52TQ4HqTz2ZbCrhkFw0p) | [Taylor Edwards](https://open.spotify.com/artist/2LMvoFcHZ0G38iO4Jra8ki) | [Born in July](https://open.spotify.com/album/3Y22F7f6OISIYwTirf2E6R) | 2:41 | 2022-08-05 | 2023-04-05 |

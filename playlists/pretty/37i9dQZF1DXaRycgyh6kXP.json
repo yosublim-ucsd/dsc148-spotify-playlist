@@ -1,12 +1,12 @@
 {
   "description": "Delicate digital expressions of the heart.",
-  "num_followers": 175600,
+  "num_followers": 175793,
   "original_name": "Electronica Romantica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmZGQ1MjU5OTZmNjZjM2FkMjFiM2Y1NmY5NjY5ZWZmOGI2NzcxMDA3",
+  "snapshot_id": "MCwzNTZkNzk0ZDQ3YjQwMjFlM2NiYzdhMjgyMjA4YjZjYmJkZGQ5NjI2",
   "tracks": [
     {
       "added_at": "2022-02-03 02:43:26",
@@ -479,22 +479,6 @@
     {
       "added_at": "2022-02-03 02:43:26",
       "album": {
-        "name": "Ardour",
-        "url": "https://open.spotify.com/album/7Ju0MUsGwfV6SxkKIsmyBY"
-      },
-      "artists": [
-        {
-          "name": "Teebs",
-          "url": "https://open.spotify.com/artist/2L2unNFaPbDxjg3NqzpqhJ"
-        }
-      ],
-      "duration_ms": 91010,
-      "name": "While You Doooo",
-      "url": "https://open.spotify.com/track/2y26A8ntk24DSH0cXe8zpB"
-    },
-    {
-      "added_at": "2022-02-03 02:43:26",
-      "album": {
         "name": "Soon It Will Be Cold Enough",
         "url": "https://open.spotify.com/album/6kL09DaURb7rAoqqaA51KU"
       },
@@ -507,6 +491,22 @@
       "duration_ms": 180520,
       "name": "Soon It Will Be Cold Enough to Build Fires",
       "url": "https://open.spotify.com/track/7cHRys0Lhk9642dLaPUMkm"
+    },
+    {
+      "added_at": "2022-02-03 02:43:26",
+      "album": {
+        "name": "Ardour",
+        "url": "https://open.spotify.com/album/7Ju0MUsGwfV6SxkKIsmyBY"
+      },
+      "artists": [
+        {
+          "name": "Teebs",
+          "url": "https://open.spotify.com/artist/2L2unNFaPbDxjg3NqzpqhJ"
+        }
+      ],
+      "duration_ms": 91010,
+      "name": "While You Doooo",
+      "url": "https://open.spotify.com/track/2y26A8ntk24DSH0cXe8zpB"
     },
     {
       "added_at": "2022-02-03 02:43:26",
@@ -563,22 +563,22 @@
     {
       "added_at": "2022-02-03 02:43:26",
       "album": {
-        "name": "Nostalchic",
-        "url": "https://open.spotify.com/album/7ulpsKEswNymVbOvsyK0yV"
+        "name": "(Pick Me Up) Euphoria [From \"Euphoria\" An HBO Original Series]",
+        "url": "https://open.spotify.com/album/1zSMkbRmwnGZ8s2IbRnTKT"
       },
       "artists": [
         {
-          "name": "Lapalux",
-          "url": "https://open.spotify.com/artist/46Ce0QmI1mE2bl5VQ4P9N8"
+          "name": "James Blake",
+          "url": "https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU"
         },
         {
-          "name": "Kerry Leatham",
-          "url": "https://open.spotify.com/artist/43xkjQKO2s2G5uXoxW1kHc"
+          "name": "Labrinth",
+          "url": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
         }
       ],
-      "duration_ms": 326439,
-      "name": "Without You",
-      "url": "https://open.spotify.com/track/32CFVYfYT4wE1MTNWj66Rt"
+      "duration_ms": 195384,
+      "name": "(Pick Me Up) Euphoria - From \"Euphoria\" An HBO Original Series",
+      "url": "https://open.spotify.com/track/6QFCgioM2ZDxCEadWUes2b"
     },
     {
       "added_at": "2022-02-03 02:43:26",
@@ -599,22 +599,22 @@
     {
       "added_at": "2022-02-03 02:43:26",
       "album": {
-        "name": "(Pick Me Up) Euphoria [From \"Euphoria\" An HBO Original Series]",
-        "url": "https://open.spotify.com/album/1zSMkbRmwnGZ8s2IbRnTKT"
+        "name": "Nostalchic",
+        "url": "https://open.spotify.com/album/7ulpsKEswNymVbOvsyK0yV"
       },
       "artists": [
         {
-          "name": "James Blake",
-          "url": "https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU"
+          "name": "Lapalux",
+          "url": "https://open.spotify.com/artist/46Ce0QmI1mE2bl5VQ4P9N8"
         },
         {
-          "name": "Labrinth",
-          "url": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
+          "name": "Kerry Leatham",
+          "url": "https://open.spotify.com/artist/43xkjQKO2s2G5uXoxW1kHc"
         }
       ],
-      "duration_ms": 195384,
-      "name": "(Pick Me Up) Euphoria - From \"Euphoria\" An HBO Original Series",
-      "url": "https://open.spotify.com/track/6QFCgioM2ZDxCEadWUes2b"
+      "duration_ms": 326439,
+      "name": "Without You",
+      "url": "https://open.spotify.com/track/32CFVYfYT4wE1MTNWj66Rt"
     },
     {
       "added_at": "2022-02-03 02:43:26",
@@ -843,22 +843,6 @@
     {
       "added_at": "2022-02-03 02:43:26",
       "album": {
-        "name": "Gone To Earth (Remastered 2003)",
-        "url": "https://open.spotify.com/album/3CRipGCmcoBTKdadiYIMOc"
-      },
-      "artists": [
-        {
-          "name": "David Sylvian",
-          "url": "https://open.spotify.com/artist/2oyWkw7sq99yqj12hVUHtw"
-        }
-      ],
-      "duration_ms": 141120,
-      "name": "Silver Moon Over Sleeping Steeples",
-      "url": "https://open.spotify.com/track/7h7wT4LgpdWMuR2t3kmQAI"
-    },
-    {
-      "added_at": "2022-02-03 02:43:26",
-      "album": {
         "name": "Solo Piano",
         "url": "https://open.spotify.com/album/79hPlit22yH2TfyeW1a32K"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 202840,
       "name": "Overnight",
       "url": "https://open.spotify.com/track/75Qzn03RmrNsY0ZEIwCLdj"
+    },
+    {
+      "added_at": "2022-02-03 02:43:26",
+      "album": {
+        "name": "Gone To Earth (Remastered 2003)",
+        "url": "https://open.spotify.com/album/3CRipGCmcoBTKdadiYIMOc"
+      },
+      "artists": [
+        {
+          "name": "David Sylvian",
+          "url": "https://open.spotify.com/artist/2oyWkw7sq99yqj12hVUHtw"
+        }
+      ],
+      "duration_ms": 141120,
+      "name": "Silver Moon Over Sleeping Steeples",
+      "url": "https://open.spotify.com/track/7h7wT4LgpdWMuR2t3kmQAI"
     },
     {
       "added_at": "2022-02-03 02:43:26",
@@ -907,22 +907,6 @@
     {
       "added_at": "2022-02-03 02:43:26",
       "album": {
-        "name": "I Become A Shade",
-        "url": "https://open.spotify.com/album/1zP69up0zPq8SsIx4lvCkg"
-      },
-      "artists": [
-        {
-          "name": "Seoul",
-          "url": "https://open.spotify.com/artist/3e69LorE0YSsEaYY6x9XuG"
-        }
-      ],
-      "duration_ms": 237945,
-      "name": "Stay With Us",
-      "url": "https://open.spotify.com/track/3Opk9C8pMgBCmbqXelH0I5"
-    },
-    {
-      "added_at": "2022-02-03 02:43:26",
-      "album": {
         "name": "Sabresonic",
         "url": "https://open.spotify.com/album/22UTF5k9TRZ1Mg2V0i0qLw"
       },
@@ -935,6 +919,22 @@
       "duration_ms": 256133,
       "name": "Smokebelch II - Beatless Mix",
       "url": "https://open.spotify.com/track/5Z8BtdkhEzHbb8QlYODMgM"
+    },
+    {
+      "added_at": "2022-02-03 02:43:26",
+      "album": {
+        "name": "I Become A Shade",
+        "url": "https://open.spotify.com/album/1zP69up0zPq8SsIx4lvCkg"
+      },
+      "artists": [
+        {
+          "name": "Seoul",
+          "url": "https://open.spotify.com/artist/3e69LorE0YSsEaYY6x9XuG"
+        }
+      ],
+      "duration_ms": 237945,
+      "name": "Stay With Us",
+      "url": "https://open.spotify.com/track/3Opk9C8pMgBCmbqXelH0I5"
     },
     {
       "added_at": "2022-02-03 02:43:26",
@@ -1039,22 +1039,6 @@
     {
       "added_at": "2022-02-03 02:43:26",
       "album": {
-        "name": "Healing Is A Miracle",
-        "url": "https://open.spotify.com/album/4GaLdSDDbRK0CoJKSnihbo"
-      },
-      "artists": [
-        {
-          "name": "Julianna Barwick",
-          "url": "https://open.spotify.com/artist/0HWfFWL4vVrbaBQqxVCwCi"
-        }
-      ],
-      "duration_ms": 252735,
-      "name": "Inspirit",
-      "url": "https://open.spotify.com/track/2ZrCLJz5UGbJCW2JK2OgkK"
-    },
-    {
-      "added_at": "2022-02-03 02:43:26",
-      "album": {
         "name": "still slipping vol. 1",
         "url": "https://open.spotify.com/album/5atrOg1aO4d5KEcYo4UBIA"
       },
@@ -1067,6 +1051,22 @@
       "duration_ms": 140226,
       "name": "runnersz",
       "url": "https://open.spotify.com/track/33ZGlpwOQ5Wc2u6n8Lq3iZ"
+    },
+    {
+      "added_at": "2022-02-03 02:43:26",
+      "album": {
+        "name": "Healing Is A Miracle",
+        "url": "https://open.spotify.com/album/4GaLdSDDbRK0CoJKSnihbo"
+      },
+      "artists": [
+        {
+          "name": "Julianna Barwick",
+          "url": "https://open.spotify.com/artist/0HWfFWL4vVrbaBQqxVCwCi"
+        }
+      ],
+      "duration_ms": 252735,
+      "name": "Inspirit",
+      "url": "https://open.spotify.com/track/2ZrCLJz5UGbJCW2JK2OgkK"
     },
     {
       "added_at": "2022-02-03 02:43:26",
@@ -1219,6 +1219,22 @@
     {
       "added_at": "2022-02-03 02:43:26",
       "album": {
+        "name": "Come To Canada You Will Like It",
+        "url": "https://open.spotify.com/album/5LjAEHX12P2fgWYMbVpVQ9"
+      },
+      "artists": [
+        {
+          "name": "Patrick Holland",
+          "url": "https://open.spotify.com/artist/0dns940bo2pILe1Flk0WH3"
+        }
+      ],
+      "duration_ms": 245510,
+      "name": "Fine Match",
+      "url": "https://open.spotify.com/track/0IJCYY1FqfnoTFUw31YBZ4"
+    },
+    {
+      "added_at": "2022-02-03 02:43:26",
+      "album": {
         "name": "still slipping vol. 1",
         "url": "https://open.spotify.com/album/5atrOg1aO4d5KEcYo4UBIA"
       },
@@ -1235,22 +1251,6 @@
       "duration_ms": 272093,
       "name": "born slipping",
       "url": "https://open.spotify.com/track/0QJ11tqN85By0nwwDJVoeP"
-    },
-    {
-      "added_at": "2022-02-03 02:43:26",
-      "album": {
-        "name": "Come To Canada You Will Like It",
-        "url": "https://open.spotify.com/album/5LjAEHX12P2fgWYMbVpVQ9"
-      },
-      "artists": [
-        {
-          "name": "Patrick Holland",
-          "url": "https://open.spotify.com/artist/0dns940bo2pILe1Flk0WH3"
-        }
-      ],
-      "duration_ms": 245510,
-      "name": "Fine Match",
-      "url": "https://open.spotify.com/track/0IJCYY1FqfnoTFUw31YBZ4"
     },
     {
       "added_at": "2022-02-03 02:43:26",
@@ -1355,6 +1355,22 @@
     {
       "added_at": "2022-02-03 02:43:26",
       "album": {
+        "name": "Tiny Reminders",
+        "url": "https://open.spotify.com/album/2V2qCQNcIwy6sqkEHmBERc"
+      },
+      "artists": [
+        {
+          "name": "Two Lone Swordsmen",
+          "url": "https://open.spotify.com/artist/33Ztukerf3He8FeKk5acn8"
+        }
+      ],
+      "duration_ms": 90133,
+      "name": "Constant Reminder",
+      "url": "https://open.spotify.com/track/0jbtAoiWy5saxeXoakNP2i"
+    },
+    {
+      "added_at": "2022-02-03 02:43:26",
+      "album": {
         "name": "Not For Threes",
         "url": "https://open.spotify.com/album/25HKkAZz1rpzQXkWSLpWZL"
       },
@@ -1371,22 +1387,6 @@
       "duration_ms": 278933,
       "name": "Lilith",
       "url": "https://open.spotify.com/track/4QcR7D7O1O7OUNVI2ICuwY"
-    },
-    {
-      "added_at": "2022-02-03 02:43:26",
-      "album": {
-        "name": "Tiny Reminders",
-        "url": "https://open.spotify.com/album/2V2qCQNcIwy6sqkEHmBERc"
-      },
-      "artists": [
-        {
-          "name": "Two Lone Swordsmen",
-          "url": "https://open.spotify.com/artist/33Ztukerf3He8FeKk5acn8"
-        }
-      ],
-      "duration_ms": 90133,
-      "name": "Constant Reminder",
-      "url": "https://open.spotify.com/track/0jbtAoiWy5saxeXoakNP2i"
     },
     {
       "added_at": "2022-02-03 02:43:26",
@@ -1479,22 +1479,6 @@
     {
       "added_at": "2022-02-03 02:43:26",
       "album": {
-        "name": "Holding Hands",
-        "url": "https://open.spotify.com/album/4KRFIkXsDR60MnQV5K9N4J"
-      },
-      "artists": [
-        {
-          "name": "Liam Mour",
-          "url": "https://open.spotify.com/artist/5XaT1otgH5hpyqjkDbt8d0"
-        }
-      ],
-      "duration_ms": 170420,
-      "name": "Holding Hands",
-      "url": "https://open.spotify.com/track/5Ai7N5FmqnQ8ZSP7uNz9sX"
-    },
-    {
-      "added_at": "2022-02-03 02:43:26",
-      "album": {
         "name": "Under The Sun (Expanded Vol. 1)",
         "url": "https://open.spotify.com/album/7oCVk3zWkNB6ByYbjkxYk2"
       },
@@ -1507,6 +1491,22 @@
       "duration_ms": 181440,
       "name": "Light Bodied",
       "url": "https://open.spotify.com/track/2ZItZwBUl47tieac2NBBcP"
+    },
+    {
+      "added_at": "2022-02-03 02:43:26",
+      "album": {
+        "name": "Holding Hands",
+        "url": "https://open.spotify.com/album/4KRFIkXsDR60MnQV5K9N4J"
+      },
+      "artists": [
+        {
+          "name": "Liam Mour",
+          "url": "https://open.spotify.com/artist/5XaT1otgH5hpyqjkDbt8d0"
+        }
+      ],
+      "duration_ms": 170420,
+      "name": "Holding Hands",
+      "url": "https://open.spotify.com/track/5Ai7N5FmqnQ8ZSP7uNz9sX"
     },
     {
       "added_at": "2022-02-03 02:43:26",
@@ -1547,22 +1547,6 @@
     {
       "added_at": "2022-02-03 02:43:26",
       "album": {
-        "name": "I Lost My Body (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/3Dp7SEi0Sx65fByb5JpCoG"
-      },
-      "artists": [
-        {
-          "name": "S+C+A+R+R",
-          "url": "https://open.spotify.com/artist/579T5fNgfbDetyamUTAetw"
-        }
-      ],
-      "duration_ms": 167986,
-      "name": "You're the One",
-      "url": "https://open.spotify.com/track/1BMLBURMMwAi4FBesaKVbG"
-    },
-    {
-      "added_at": "2022-02-03 02:43:26",
-      "album": {
         "name": "Cerulean",
         "url": "https://open.spotify.com/album/1jjUFDODxguSdb2hZLF2au"
       },
@@ -1575,6 +1559,22 @@
       "duration_ms": 197346,
       "name": "\u2665",
       "url": "https://open.spotify.com/track/49eZ5yVONl5o1O4UOdqKMQ"
+    },
+    {
+      "added_at": "2022-02-03 02:43:26",
+      "album": {
+        "name": "I Lost My Body (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3Dp7SEi0Sx65fByb5JpCoG"
+      },
+      "artists": [
+        {
+          "name": "S+C+A+R+R",
+          "url": "https://open.spotify.com/artist/579T5fNgfbDetyamUTAetw"
+        }
+      ],
+      "duration_ms": 167986,
+      "name": "You're the One",
+      "url": "https://open.spotify.com/track/1BMLBURMMwAi4FBesaKVbG"
     },
     {
       "added_at": "2022-02-03 02:43:26",

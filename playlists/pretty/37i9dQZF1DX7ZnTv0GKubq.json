@@ -1,12 +1,12 @@
 {
   "description": "Late night chilled vibes, for those intimate moments.",
-  "num_followers": 342695,
+  "num_followers": 342753,
   "original_name": "Spotify & Chill",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmYWYzYjRjMDdjZTdjMTFjOTEyZDYxMTI4MTQ3YTBmYTQ0Yjc0YWQ4",
+  "snapshot_id": "MCw1ZjIwYmY2ZWNjZWFiYzg1N2ZmZTk3MThiZjc1MDQzZmZkNTAwNTFj",
   "tracks": [
     {
       "added_at": "2023-05-15 13:37:09",
@@ -523,18 +523,18 @@
     {
       "added_at": "2023-05-15 13:37:09",
       "album": {
-        "name": "Ride for Me",
-        "url": "https://open.spotify.com/album/3buKj4qYFKO2qKMdgdv3rg"
+        "name": "The Art of Conversation",
+        "url": "https://open.spotify.com/album/1lYjBKBgG55DCxcqUSVr4J"
       },
       "artists": [
         {
-          "name": "B Young",
-          "url": "https://open.spotify.com/artist/7JMwO9tyFPMsb2KnsJqZlp"
+          "name": "Bellah",
+          "url": "https://open.spotify.com/artist/6UZk0TOb0uZ1JWa3BW81FQ"
         }
       ],
-      "duration_ms": 194542,
-      "name": "Ride for Me",
-      "url": "https://open.spotify.com/track/4SVvpjmHsFKmXBcdsG5B84"
+      "duration_ms": 116000,
+      "name": "Home",
+      "url": "https://open.spotify.com/track/4Ebpa8CRiGYyMtqTciqJEi"
     },
     {
       "added_at": "2023-05-15 13:37:09",
@@ -555,18 +555,18 @@
     {
       "added_at": "2023-05-15 13:37:09",
       "album": {
-        "name": "The Art of Conversation",
-        "url": "https://open.spotify.com/album/1lYjBKBgG55DCxcqUSVr4J"
+        "name": "Ride for Me",
+        "url": "https://open.spotify.com/album/3buKj4qYFKO2qKMdgdv3rg"
       },
       "artists": [
         {
-          "name": "Bellah",
-          "url": "https://open.spotify.com/artist/6UZk0TOb0uZ1JWa3BW81FQ"
+          "name": "B Young",
+          "url": "https://open.spotify.com/artist/7JMwO9tyFPMsb2KnsJqZlp"
         }
       ],
-      "duration_ms": 116000,
-      "name": "Home",
-      "url": "https://open.spotify.com/track/4Ebpa8CRiGYyMtqTciqJEi"
+      "duration_ms": 194542,
+      "name": "Ride for Me",
+      "url": "https://open.spotify.com/track/4SVvpjmHsFKmXBcdsG5B84"
     },
     {
       "added_at": "2023-05-15 13:37:09",
@@ -723,6 +723,26 @@
     {
       "added_at": "2023-05-15 13:37:09",
       "album": {
+        "name": "Lay Low",
+        "url": "https://open.spotify.com/album/1khrykFtUgs38Ba0QA0Lq4"
+      },
+      "artists": [
+        {
+          "name": "BLK ODYSSY",
+          "url": "https://open.spotify.com/artist/062tCT8GVioC9EMiI9jeOV"
+        },
+        {
+          "name": "BNXN fka Buju",
+          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
+        }
+      ],
+      "duration_ms": 139586,
+      "name": "Lay Low",
+      "url": "https://open.spotify.com/track/1QrRuByqSfCxYS0JdZMlIf"
+    },
+    {
+      "added_at": "2023-05-15 13:37:09",
+      "album": {
         "name": "Inside Friend (feat. John Mayer)",
         "url": "https://open.spotify.com/album/2zYmSJZxBTCvDYBAEcixyV"
       },
@@ -755,26 +775,6 @@
       "duration_ms": 246800,
       "name": "Morning Matters",
       "url": "https://open.spotify.com/track/1EeS8SQ0BAhNrLVLCNrxrj"
-    },
-    {
-      "added_at": "2023-05-15 13:37:09",
-      "album": {
-        "name": "Lay Low",
-        "url": "https://open.spotify.com/album/1khrykFtUgs38Ba0QA0Lq4"
-      },
-      "artists": [
-        {
-          "name": "BLK ODYSSY",
-          "url": "https://open.spotify.com/artist/062tCT8GVioC9EMiI9jeOV"
-        },
-        {
-          "name": "BNXN fka Buju",
-          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
-        }
-      ],
-      "duration_ms": 139586,
-      "name": "Lay Low",
-      "url": "https://open.spotify.com/track/1QrRuByqSfCxYS0JdZMlIf"
     },
     {
       "added_at": "2023-05-15 13:37:09",

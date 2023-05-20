@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-24",
-  "description": "This is R&B in Canada, elevate your aura with Sean Leon.",
+  "description": "This is R&B in Canada, elevate your aura with Aqyila.",
   "name": "Mood Ring ",
   "tracks": [
     {
@@ -630,6 +630,24 @@
       "duration_ms": 222402,
       "name": "Always (feat. Summer Walker) - Bonus",
       "url": "https://open.spotify.com/track/6537jhwnXegjdXhLqorbjE"
+    },
+    {
+      "album": {
+        "name": "Amnesia",
+        "url": "https://open.spotify.com/album/560adZ6I3nFZlZKGtN90Qp"
+      },
+      "artists": [
+        {
+          "name": "Maurice Moore",
+          "url": "https://open.spotify.com/artist/2r3A0lVppaYaTz2ttY1Jws"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170400,
+      "name": "Amnesia",
+      "url": "https://open.spotify.com/track/0qtEyHDZR52zOOdVCybDbu"
     },
     {
       "album": {
@@ -2258,7 +2276,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 232857,
       "name": "Die For You - Remix",
       "url": "https://open.spotify.com/track/7oDd86yk8itslrA9HRP2ki"
@@ -5124,7 +5142,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 225943,
       "name": "In My Bed",
       "url": "https://open.spotify.com/track/3AXPn6A34rJcdwl59Xor4g"
@@ -7812,7 +7830,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 199516,
       "name": "Out for the Night",
       "url": "https://open.spotify.com/track/1XyWCPjWZIddambxdfT8yU"
@@ -8831,6 +8849,24 @@
     },
     {
       "album": {
+        "name": "River",
+        "url": "https://open.spotify.com/album/40QSveX5LnrGmdiFZuVbyB"
+      },
+      "artists": [
+        {
+          "name": "Tendavillage",
+          "url": "https://open.spotify.com/artist/1nOm8sUi8M1dyIAJ8B5SRc"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 294940,
+      "name": "River",
+      "url": "https://open.spotify.com/track/3aRb3DdyPXf48WAY11I51p"
+    },
+    {
+      "album": {
         "name": "RN Interlude",
         "url": "https://open.spotify.com/album/3j73yMjikMWvu49l6TuAKP"
       },
@@ -9784,6 +9820,36 @@
       "duration_ms": 228357,
       "name": "Sorted",
       "url": "https://open.spotify.com/track/7rzI77KjJsJc4f0JS0HWZU"
+    },
+    {
+      "album": {
+        "name": "KAYTRAMIN\u00c9",
+        "url": "https://open.spotify.com/album/1plAqF2W8hwAhcpBAfGNsW"
+      },
+      "artists": [
+        {
+          "name": "KAYTRAMIN\u00c9",
+          "url": "https://open.spotify.com/artist/5oifjQw72WO7Jut07fVWMy"
+        },
+        {
+          "name": "Amin\u00e9",
+          "url": "https://open.spotify.com/artist/3Gm5F95VdRxW3mqCn8RPBJ"
+        },
+        {
+          "name": "KAYTRANADA",
+          "url": "https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu"
+        },
+        {
+          "name": "Amaarae",
+          "url": "https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156000,
+      "name": "Sossaup",
+      "url": "https://open.spotify.com/track/6y5UMIVVJDsULZwfZ0bNRX"
     },
     {
       "album": {
@@ -11465,6 +11531,24 @@
     },
     {
       "album": {
+        "name": "For the Better",
+        "url": "https://open.spotify.com/album/6AlZ1GbJS3uLy8m23EhTfE"
+      },
+      "artists": [
+        {
+          "name": "Aqyila",
+          "url": "https://open.spotify.com/artist/4cXLEhsZ1W4T6qBiDYVih4"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180949,
+      "name": "We Keep On",
+      "url": "https://open.spotify.com/track/1DLuBahdUB9VX7DJRtYl1v"
+    },
+    {
+      "album": {
         "name": "We Make Sense",
         "url": "https://open.spotify.com/album/7pD9IBIvAiHjT4nKKnA3D1"
       },
@@ -11860,6 +11944,24 @@
       "duration_ms": 198058,
       "name": "World In My Hands",
       "url": "https://open.spotify.com/track/5bYIDjsBb5mjKQdNfFj0fJ"
+    },
+    {
+      "album": {
+        "name": "Worlds Away",
+        "url": "https://open.spotify.com/album/3PvGhm40m4E00G6hQiY4Q9"
+      },
+      "artists": [
+        {
+          "name": "Chxrry22",
+          "url": "https://open.spotify.com/artist/0SVd0yQpJ6xcZ3vTKXUaro"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174077,
+      "name": "Worlds Away",
+      "url": "https://open.spotify.com/track/2PUsRFtW68RSwpNr4XjjKa"
     },
     {
       "album": {

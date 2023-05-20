@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6dANf8jNW4z.md) - [plain]
 
 > Ven a Spotify EQUAL Fest Madrid a celebrar el talento femenino\. Entradas <a href="https://www.ticketmaster.es/event/35863?subchannel\_id=67&brand=planetevents">aquí</a>\. Foto: Cariño.
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,816 likes - 50 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,824 likes - 50 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Locochona](https://open.spotify.com/track/63huxKkkuUPoMzOyYJnEkV) | [Cariño](https://open.spotify.com/artist/7fWD0BSDlixbj6YNQyHTLh), [Girl Ultra](https://open.spotify.com/artist/7i1CyQ1fogh4bkj3EPj3ls) | [Locochona](https://open.spotify.com/album/6BzRhIEFVhtaKekLzRnxlX) | 2:28 |
+| 1 | [Aún me acuerdo de todo](https://open.spotify.com/track/0gPaWexkeyQgZTqDU3r4Sc) | [Cariño](https://open.spotify.com/artist/7fWD0BSDlixbj6YNQyHTLh) | [Aún me acuerdo de todo](https://open.spotify.com/album/1qFxFtT79LrvdLhY5Denik) | 3:37 |
 | 2 | [Kalima](https://open.spotify.com/track/1Pf451Uehl1uMnKvqur9Qc) | [Bamboleira](https://open.spotify.com/artist/6r5phGP2tG8wycq7fRQRDa) | [Kalima](https://open.spotify.com/album/3fde3fMG0vOhsPyIWZLXiJ) | 3:28 |
 | 3 | [La Alhambra](https://open.spotify.com/track/3g3ANqKPb0qbPGG9levpox) | [La Prenda Roja](https://open.spotify.com/artist/0Onry2mWJZYxVw9qwUyfp8), [Ana Brenes](https://open.spotify.com/artist/02Zhla20bSEwt5JnZaCqs9), [Cristina López](https://open.spotify.com/artist/2OJ3hOxdBvwDl5LOtIuOeW), [Sara Sambola](https://open.spotify.com/artist/1ehvNiRauLbbfFDLLKTrsr) | [La Alhambra](https://open.spotify.com/album/3XcXfVam73diBpEm4sdDHb) | 2:57 |
 | 4 | [Te abandonaré \(poco a poco\)](https://open.spotify.com/track/06ufUSVZSf6ysluwM7tFer) | [yavy](https://open.spotify.com/artist/4Re41ipb4pHd1WkUKusnId) | [Te abandonaré \(poco a poco\)](https://open.spotify.com/album/7lk4skPPRzOBxKR8ZhE8rT) | 2:24 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6dANf8jNW4z.md) - [plain]
 | 49 | [AMARRE](https://open.spotify.com/track/1Lat4RoIBBxefYWeb0bV45) | [Messy Mess](https://open.spotify.com/artist/5IYG1hfBNirboLl5N9nYny), [Karma C](https://open.spotify.com/artist/0o5CzIkmDyHMF4yG4CrAxh) | [AMARRE](https://open.spotify.com/album/2vyMkggX8aV7h2F6DPWExL) | 2:45 |
 | 50 | [Nene, dime algo](https://open.spotify.com/track/3kTTsfHvjikrNgXuJ6p6nA) | [LYD](https://open.spotify.com/artist/6FxESoS5TUltKFAXd6R8z9) | [Nene, dime algo](https://open.spotify.com/album/2kJki4Movjj8ATfdBrzJEr) | 2:37 |
 
-Snapshot ID: `MCw5MjRmMzZlYjc1ODgxYjMyNWEwZjY3ZDJjOThhNjk5ZDk5M2NlNjQ0`
+Snapshot ID: `MCwwNWNlOTczMDQ3NTJhNmVhNjk2ZDU3NDg0YmVhMDEwNzlkZmE4NGM3`

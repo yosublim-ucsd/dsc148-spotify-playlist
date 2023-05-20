@@ -1957,6 +1957,24 @@
     },
     {
       "album": {
+        "name": "MHM",
+        "url": "https://open.spotify.com/album/36EeKYE6dFXKqtNdyye3xk"
+      },
+      "artists": [
+        {
+          "name": "Luh Kel",
+          "url": "https://open.spotify.com/artist/24CgJHK6T7C5OmUbiLLMjJ"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147730,
+      "name": "MHM",
+      "url": "https://open.spotify.com/track/1lDNSytOBbE1cbFFUc95Km"
+    },
+    {
+      "album": {
         "name": "MIDDLE CHILD",
         "url": "https://open.spotify.com/album/3XzSOIE6zGLliuqsVGLmUc"
       },
@@ -2306,6 +2324,24 @@
       "duration_ms": 207306,
       "name": "Niagara Falls (Foot or 2) [with Travis Scott & 21 Savage]",
       "url": "https://open.spotify.com/track/4WuOWVnAqvEQxgSRrspBgt"
+    },
+    {
+      "album": {
+        "name": "Goodbye & Good Riddance (5 Year Anniversary Edition)",
+        "url": "https://open.spotify.com/album/5v9IfhMyxAkE9CbLjfNChR"
+      },
+      "artists": [
+        {
+          "name": "Juice WRLD",
+          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252705,
+      "name": "No Good",
+      "url": "https://open.spotify.com/track/2zs3ErwfEyzI4K2H9vEnTD"
     },
     {
       "album": {
@@ -2718,6 +2754,28 @@
       "duration_ms": 106000,
       "name": "Skechers",
       "url": "https://open.spotify.com/track/2alc8VZAzDgdAsL2QMk3hu"
+    },
+    {
+      "album": {
+        "name": "Slangn KK",
+        "url": "https://open.spotify.com/album/5oK5N32z1FiNDucFj0C32t"
+      },
+      "artists": [
+        {
+          "name": "Hardo",
+          "url": "https://open.spotify.com/artist/3ohrdimoWGwbjGMOnTDoUJ"
+        },
+        {
+          "name": "Wiz Khalifa",
+          "url": "https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193295,
+      "name": "Slangn KK",
+      "url": "https://open.spotify.com/track/59W0iGCityApGKS1DlWcxo"
     },
     {
       "album": {

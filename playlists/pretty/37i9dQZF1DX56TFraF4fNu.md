@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX56TFraF4fNu.md) - [plain]
 
 > Dosis musical para disfrutar el momento\. Foto: Delfina Dib
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,278 likes - 60 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,302 likes - 60 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX56TFraF4fNu.md) - [plain]
 | 11 | [Que Vuelta](https://open.spotify.com/track/0o1MSPQCoDgRa6QNInsmM2) | [SOG](https://open.spotify.com/artist/18dspUI6gqabm5XCC2RcUD), [Andy Rivera](https://open.spotify.com/artist/7hIqJfRYGBWWT1Qxu6Cpd2), [Maxiolly](https://open.spotify.com/artist/6BYNqaolBRE6cHA707Sl0a) | [Que Vuelta](https://open.spotify.com/album/3ZBvfasRNMjMjy6b5RO0yx) | 3:26 |
 | 12 | [lo que hay x aquí](https://open.spotify.com/track/5IlLm20JXhKbMtsH20NblC) | [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8) | [lo que hay x aquí](https://open.spotify.com/album/28MEC53zcdE731x6FX3Hsm) | 2:35 |
 | 13 | [Zaza \(Chimbita\)](https://open.spotify.com/track/5oVdxjNUUjf9Q06LnPYYay) | [Reykon](https://open.spotify.com/artist/3PAwspMN27PDm81WwXDsMf), [Xantos](https://open.spotify.com/artist/3HPOnbuwLP2qlwWQ7cgxYW), [LATENIGHTJIGGY](https://open.spotify.com/artist/34OTRVwyaE8DkOrGMQa7Ah) | [Zaza \(Chimbita\)](https://open.spotify.com/album/7tZYg2RzA4NSNFACxWhy9Y) | 3:08 |
-| 14 | [Bad Bitch](https://open.spotify.com/track/7ee38maLm32TKcmcWQglD5) | [Lee Eye](https://open.spotify.com/artist/1XQ6We9YHmRoIoD9rE9KBX) | [Bad Bitch](https://open.spotify.com/album/3IlcNC5faMHH6gboTQ8XwQ) | 2:07 |
+| 14 | [BAD BITCH](https://open.spotify.com/track/7ee38maLm32TKcmcWQglD5) | [Lee Eye](https://open.spotify.com/artist/1XQ6We9YHmRoIoD9rE9KBX) | [BAD BITCH](https://open.spotify.com/album/3IlcNC5faMHH6gboTQ8XwQ) | 2:07 |
 | 15 | [PPF](https://open.spotify.com/track/2ymcOM99m8PUhze7FxpG1A) | [Jossman](https://open.spotify.com/artist/4nei2uq1QH20K0WitlHqvH) | [PPF](https://open.spotify.com/album/7JyeeHFwzbyMCRBMrf7hWO) | 3:18 |
 | 16 | [Migas](https://open.spotify.com/track/61CeB3Wd4hkun9MhuO0fES) | [Comida Para Llevar](https://open.spotify.com/artist/6ybUCb9uQ4fd6gtIptuaYO), [Tayko](https://open.spotify.com/artist/3TqicTPfXQLiPPZWKtHk0m), [Chuchú Bermudas](https://open.spotify.com/artist/6U7WIxAxxx1PLPfFH8AwHX), [Veztalone](https://open.spotify.com/artist/5KhJh3jJOH5EkZiplQLw5h) | [Migas](https://open.spotify.com/album/5lZC1pTFVb0b5rz6j86now) | 4:01 |
 | 17 | [Alma](https://open.spotify.com/track/3boLPeNmot5ubUXqqnh9l1) | [Frank Takuma](https://open.spotify.com/artist/30IozP2GkHKFl6U59F86lF) | [Plan Perfecto](https://open.spotify.com/album/0hvjGiKkoFYJaOwiWLTQ5o) | 3:28 |
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX56TFraF4fNu.md) - [plain]
 | 19 | [Pa' Que Mami No Llore](https://open.spotify.com/track/3l4ir792nfcHySkiAbKd3U) | [Sharif](https://open.spotify.com/artist/5pIapcAHb6WV4fUjfQchMf), [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG), [Gordo del Funk](https://open.spotify.com/artist/5cvgau68BWnLZcjeX7Pdf3) | [Pa' Que Mami No Llore](https://open.spotify.com/album/3ijLbYP8u0c4R2Vgjlziap) | 3:51 |
 | 20 | [Malibu](https://open.spotify.com/track/4TRlBMj8wXsIfEDgWOPyE2) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [Ak4:20](https://open.spotify.com/artist/1SiLK8gdECx2iEm2SSj0Bl), [Taiko](https://open.spotify.com/artist/7E8zK1i1TAXxBVRpeMfOqM) | [Malibu](https://open.spotify.com/album/3CmKeCe807h4wAPa0OhPqV) | 2:40 |
 | 21 | [T'as peur](https://open.spotify.com/track/35XF6veSvhoPdWy89zaeaj) | [Aya Nakamura](https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [DNK](https://open.spotify.com/album/2sDLGR5LQ1pRmyCOT0alhN) | 3:35 |
-| 22 | [Hate Boys](https://open.spotify.com/track/0jkCIZeZaasze05SoQooOC) | [Lee Eye](https://open.spotify.com/artist/1XQ6We9YHmRoIoD9rE9KBX) | [Hate Boys](https://open.spotify.com/album/6sehw4xcjTqmAXO2ZGTs7p) | 2:47 |
+| 22 | [HATE BOYS](https://open.spotify.com/track/0jkCIZeZaasze05SoQooOC) | [Lee Eye](https://open.spotify.com/artist/1XQ6We9YHmRoIoD9rE9KBX) | [HATE BOYS](https://open.spotify.com/album/6sehw4xcjTqmAXO2ZGTs7p) | 2:47 |
 | 23 | [CAPROVO](https://open.spotify.com/track/24QuWCLSXgVzv0oDXC03CC) | [Dawer X Damper](https://open.spotify.com/artist/4OGeO4jU4OMK0kWh69UhtY), [Branbel](https://open.spotify.com/artist/1VmUUb7wBfRQKnq1hgVaGS), [Modblack](https://open.spotify.com/artist/3I4F2sRhhXJLoUgnfnZKil) | [CAPROVO](https://open.spotify.com/album/053olGLgVl2r4IpZ5PeuUt) | 2:48 |
 | 24 | [Ignorantes](https://open.spotify.com/track/3wYRLYuO1M88d8woWUIxct) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht) | [Ignorantes](https://open.spotify.com/album/7Hw9RJbQPN0gUx4xjgFLhj) | 3:30 |
 | 25 | [algo así \(remix\)](https://open.spotify.com/track/0z0IEbMRvIEjj9Iif4doxD) | [paopao](https://open.spotify.com/artist/5AS4y4rlmbUYDCdg35qmI9), [Mora](https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S) | [algo así \(remix\)](https://open.spotify.com/album/38q60hmzuFy1xa8Dexc2eX) | 3:43 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX56TFraF4fNu.md) - [plain]
 | 59 | [badwine](https://open.spotify.com/track/2qfyOSgCVt8mdVVxxhp4tI) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [badwine](https://open.spotify.com/album/0DBQL19G6VKFlLXWlltmfl) | 2:19 |
 | 60 | [Mente Daña](https://open.spotify.com/track/2JrzG3ZKfeZX7TJGuMaWd8) | [ICON](https://open.spotify.com/artist/0SSbTivuMrvdqgCt7ln6jD), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [Lyanno](https://open.spotify.com/artist/1Ts9of7VPZElwPQnqnDSfW) | [Mente Daña](https://open.spotify.com/album/2oYLLwsCfOC9fvO9XRODIa) | 3:03 |
 
-Snapshot ID: `MCxhZmExZjc3MTIwNGQ1NDllNzE2M2U5MDVjODZiN2MwYTQwN2U3MmY2`
+Snapshot ID: `MCw3MjJjZmYwODVjMDViNjc2NmQwM2RjNzI5MTJkOTM4NjhmNWZiZTdi`

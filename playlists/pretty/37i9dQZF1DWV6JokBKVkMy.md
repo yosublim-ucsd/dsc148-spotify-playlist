@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV6JokBKVkMy.md) - [plain]
 
 > The sound and soul that keeps Mauritius jamming
 
-[Spotify](https://open.spotify.com/user/spotify) - 857 likes - 50 songs - 3 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 859 likes - 50 songs - 3 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV6JokBKVkMy.md) - [plain]
 | 43 | [Vandredi Sen](https://open.spotify.com/track/50I00m6vPtp372eCRKJ7ZB) | [Jean\-Marc Volcy](https://open.spotify.com/artist/5wLnu3r3e2M86e58aFW2Ot), [Jany Letourdi](https://open.spotify.com/artist/2UavPhDBdrlSVwUyZP4GJ3) | [The Best of Jean\-Marc Volcy](https://open.spotify.com/album/7E3SJyFvagSztOt0RxFcMh) | 4:38 |
 | 44 | [Séga Jacquot](https://open.spotify.com/track/4BjTvikquZufEHDjxJMBxm) | [Luc Donat](https://open.spotify.com/artist/6L1SxgKXrIel5yitflGBxm) | [Le Roi du séga](https://open.spotify.com/album/5yIOf6ROItIpkpc8f5Uo9h) | 3:12 |
 | 45 | [To Kontan Koze](https://open.spotify.com/track/1kJAI7Qd3v25lsfHWr5Lxr) | [Zotsa](https://open.spotify.com/artist/0vkxsGGUsyNJBxLQcavGr8) | [Revival](https://open.spotify.com/album/0BUWn7vu3qy8aaq3pyhqpd) | 3:33 |
-| 46 | [Janvier](https://open.spotify.com/track/7ghFwRDUHXJjYHS9dr0zJ2) | [Andy Janvier](https://open.spotify.com/artist/2BKTbLVNXHa47v0BjuQZvS) | [Coulèr Mélanzé](https://open.spotify.com/album/4BmxLIj92iDtmHAuOnAiiB) | 4:06 |
-| 47 | [Granper Sorti Diego](https://open.spotify.com/track/2AnLL8YXxuG0nfphsR5ZDv) | [Bigg Frankii](https://open.spotify.com/artist/2Xi6Sscx1ZPJ3opKWFm8ya) | [ZENFAN LAKAZ TOL](https://open.spotify.com/album/1GBg8Y6eqNGic3rLWVg5DR) | 5:01 |
+| 46 | [Granper Sorti Diego](https://open.spotify.com/track/2AnLL8YXxuG0nfphsR5ZDv) | [Bigg Frankii](https://open.spotify.com/artist/2Xi6Sscx1ZPJ3opKWFm8ya) | [ZENFAN LAKAZ TOL](https://open.spotify.com/album/1GBg8Y6eqNGic3rLWVg5DR) | 5:01 |
+| 47 | [Janvier](https://open.spotify.com/track/7ghFwRDUHXJjYHS9dr0zJ2) | [Andy Janvier](https://open.spotify.com/artist/2BKTbLVNXHa47v0BjuQZvS) | [Coulèr Mélanzé](https://open.spotify.com/album/4BmxLIj92iDtmHAuOnAiiB) | 4:06 |
 | 48 | [Anita\-Papa / Creole\-Barè](https://open.spotify.com/track/5j5DHnAYh4qN7r7wkocP7a) | [Denis Azor](https://open.spotify.com/artist/07p5q6fIWYLesAR39CJQDf) | [Music from Mauritius](https://open.spotify.com/album/1DRPsjliENVvsUKDZ469x3) | 6:10 |
 | 49 | [SA FAM LA](https://open.spotify.com/track/7klLrUyJHtye2IxxvD1Zv6) | [Demaiko](https://open.spotify.com/artist/1UyUSYFkEpupx2tFIatBHD) | [SA FAM LA](https://open.spotify.com/album/2hzpC1T8nikTIB6j0fJbzb) | 3:35 |
 | 50 | [Touletemp \(feat\. Sista Queen\)](https://open.spotify.com/track/1fx4MLYw7whk15f4dvhqpX) | [Jah Mike](https://open.spotify.com/artist/5feVIF1cBHjeTWCFFVivoH), [Sista Queen](https://open.spotify.com/artist/7cI26ISQuWm0h8rlYL1so8) | [Enn lot kouler](https://open.spotify.com/album/3j1W3VSJEYDOJIK4V8RQok) | 3:57 |
 
-Snapshot ID: `MCxiZmEwNjQ4YmE1ZWZiNjQwMWQ3ODFlOTViMzg0NDFkOTMxZjVlZjJj`
+Snapshot ID: `MCw2MzFiZDY1Nzc1OTIyZWQ4ODlmMDE4ZDhjYTkyNzQ1ZmEwNmY4MmFl`

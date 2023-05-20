@@ -211,6 +211,28 @@
     },
     {
       "album": {
+        "name": "Ahi voy",
+        "url": "https://open.spotify.com/album/42wP55l1oKBcJ3xx7P9bL4"
+      },
+      "artists": [
+        {
+          "name": "El Pinche Mara",
+          "url": "https://open.spotify.com/artist/3L7OHIT4kfdcDSnnGM0TKN"
+        },
+        {
+          "name": "Royal Religion",
+          "url": "https://open.spotify.com/artist/0l4wnZV8y2KyYdKHtlkMOX"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225621,
+      "name": "Ahi voy",
+      "url": "https://open.spotify.com/track/0ceKCaT9XNZJzkzEBO2zTy"
+    },
+    {
+      "album": {
         "name": "Ahog\u00e1ndome en Alcohol",
         "url": "https://open.spotify.com/album/2mzpFXzP8MMSCOp0YjpshS"
       },
@@ -350,7 +372,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 182666,
       "name": "Alzypher Vol. 10",
       "url": "https://open.spotify.com/track/1gnsY2TnziUSPAdTwScTtl"
@@ -1748,7 +1770,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 195121,
       "name": "De Por Vida",
       "url": "https://open.spotify.com/track/6T9LqHQOWTbkZomzvyUL3h"
@@ -2840,7 +2862,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 145875,
       "name": "Hoy Lo Decreto",
       "url": "https://open.spotify.com/track/1Ka9K4AXz0llC3Hn3fP3Ev"
@@ -3184,7 +3206,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 159653,
       "name": "La Familia (Episodio 3)",
       "url": "https://open.spotify.com/track/3My1xeYZKWoxQ1BL5FTBHK"
@@ -4146,7 +4168,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-06",
+      "date_removed": null,
       "duration_ms": 196243,
       "name": "Mitolo G's",
       "url": "https://open.spotify.com/track/1TSK9oQ4O9eltqaYDRaVJM"
@@ -4621,6 +4643,28 @@
     },
     {
       "album": {
+        "name": "No Te Metas",
+        "url": "https://open.spotify.com/album/5MHhCvivczCfxuhItlYgbS"
+      },
+      "artists": [
+        {
+          "name": "Santa Fe Klan",
+          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
+        },
+        {
+          "name": "Millonario",
+          "url": "https://open.spotify.com/artist/2N2aJ1SXQxMkhHD8C6fhYD"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219452,
+      "name": "No Te Metas",
+      "url": "https://open.spotify.com/track/341IhTrfJQujky7ovX3hlV"
+    },
+    {
+      "album": {
         "name": "No Te Quiero Ver",
         "url": "https://open.spotify.com/album/6lRInooWfvY9Loy5JG2xwF"
       },
@@ -4640,7 +4684,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 220890,
       "name": "No Te Quiero Ver",
       "url": "https://open.spotify.com/track/6ndPLT1H3KzD0BZQwRg3bY"
@@ -4666,6 +4710,28 @@
       "duration_ms": 219200,
       "name": "No Ten\u00eda Nada",
       "url": "https://open.spotify.com/track/4d1rvvp184TEMTMDFD9Uil"
+    },
+    {
+      "album": {
+        "name": "Nuevo Weedman",
+        "url": "https://open.spotify.com/album/0NZFV7VRxx2DQ6vdcnWQd2"
+      },
+      "artists": [
+        {
+          "name": "Doobie Free",
+          "url": "https://open.spotify.com/artist/0X4qLtC1UiO2g8bBI1Ghcz"
+        },
+        {
+          "name": "Flavor Dudes",
+          "url": "https://open.spotify.com/artist/1D6VT59kurnCfxoxZot88y"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195240,
+      "name": "Nuevo Weedman",
+      "url": "https://open.spotify.com/track/0eLs4HEb3I4MoAMcVZuzPS"
     },
     {
       "album": {
@@ -7007,6 +7073,32 @@
     },
     {
       "album": {
+        "name": "Toda la Semana",
+        "url": "https://open.spotify.com/album/7xlx25gpSbPocaRsD6voWi"
+      },
+      "artists": [
+        {
+          "name": "Toser One",
+          "url": "https://open.spotify.com/artist/1oHPSeQJBwNmpq0J52Wjn1"
+        },
+        {
+          "name": "Zimple",
+          "url": "https://open.spotify.com/artist/0l1OSQn6GtjfEE1Cb8LE1t"
+        },
+        {
+          "name": "\u00d1engo El Quetzal",
+          "url": "https://open.spotify.com/artist/6M7bd1arTLm5FJnNFYKzb6"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 320932,
+      "name": "Toda la Semana",
+      "url": "https://open.spotify.com/track/0zMgUj4oEj6VTImz3rrbKQ"
+    },
+    {
+      "album": {
         "name": "Todo Menso",
         "url": "https://open.spotify.com/album/3YlsvvJJGrV32DPTruOIyH"
       },
@@ -7106,7 +7198,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 125480,
       "name": "Top Rank",
       "url": "https://open.spotify.com/track/06Ikc0xyxc62eJ7LSIrZC3"
@@ -7264,6 +7356,28 @@
       "duration_ms": 270575,
       "name": "TUY",
       "url": "https://open.spotify.com/track/7IQB5Jkkf8bKW6BDdEu97N"
+    },
+    {
+      "album": {
+        "name": "T\u00f3tem",
+        "url": "https://open.spotify.com/album/3G3ktn73qmGgVeueICfQhN"
+      },
+      "artists": [
+        {
+          "name": "Mike Diaz",
+          "url": "https://open.spotify.com/artist/5pR3pEU0bCMZhhAzag3DUz"
+        },
+        {
+          "name": "Ferm\u00edn",
+          "url": "https://open.spotify.com/artist/0gtxCM2JXhYWzyiV0hDPw2"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188852,
+      "name": "T\u00f3tem",
+      "url": "https://open.spotify.com/track/6zqxCCofqxC6bABUMEut84"
     },
     {
       "album": {

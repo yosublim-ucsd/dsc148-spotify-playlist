@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX37T6O68lz4o.md) - [plain]
 
 > New England music breaking waves\. Cover, DTheFlyest
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,463 likes - 51 songs - 2 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,468 likes - 51 songs - 2 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX37T6O68lz4o.md) - [plain]
 | 3 | [I'M THAT BITCH](https://open.spotify.com/track/39uEuUEWsAZtozSQRPlf62) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER), [Timbaland](https://open.spotify.com/artist/5Y5TRrQiqgUO4S36tzjIRZ) | [I'M THAT BITCH](https://open.spotify.com/album/3XZmrh1D5RI5kvz5N6i6Lp) | 2:32 |
 | 4 | [Blackout](https://open.spotify.com/track/0B0Xu2ih8fWpcwyxAt1c7m) | [Joyner Lucas](https://open.spotify.com/artist/6C1ohJrd5VydigQtaGy5Wa), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Blackout](https://open.spotify.com/album/55ZLjifyJc6wpZ07D2DcLV) | 3:09 |
 | 5 | [Coat Hanger](https://open.spotify.com/track/5uZsVB4E34HdORdxFQ6QS5) | [Latrell James](https://open.spotify.com/artist/7zrWMnPOpwr5AEt670VKMc) | [Coat Hanger](https://open.spotify.com/album/1SGR3mh7RFvON6buXUTe7S) | 1:49 |
-| 6 | [Up](https://open.spotify.com/track/2unUeNBYu1vASmF5KLVDov) | [Lily Rayne](https://open.spotify.com/artist/04DqcxM5TVBjxdGwGlxACa) | [Up](https://open.spotify.com/album/7Mfr2IUcuhDgxPCrA1HFiq) | 1:53 |
+| 6 | [Up](https://open.spotify.com/track/4It8xzfiBFa0IiVhCqVoXo) | [Lily Rayne](https://open.spotify.com/artist/04DqcxM5TVBjxdGwGlxACa) | [Up](https://open.spotify.com/album/3YbIg8Dn7o6icYYKqA46p3) | 1:53 |
 | 7 | [Intro](https://open.spotify.com/track/1NYexiEf8tDojL9YF5TSId) | [DTheFlyest](https://open.spotify.com/artist/5k3KbrfdrZTfasGvrebyzr) | [B4 Tha Storm](https://open.spotify.com/album/19LQsFMfVfYW5xg5zpatr6) | 2:47 |
 | 8 | [Legend](https://open.spotify.com/track/5ojFOaVIedaZ5ECKhYxMFN) | [euro](https://open.spotify.com/artist/3d9x5nPJE3VL3ngxkZ6aUC) | [Legend](https://open.spotify.com/album/1rThDfSY5mqvWKMIGPSc6M) | 2:52 |
 | 9 | [Anoyd "On The Radar" Freestyle](https://open.spotify.com/track/1IZwxzUrKHnpHIXzhvnqcN) | [On The Radar](https://open.spotify.com/artist/24dIBlB22aVJyMNmLSEVZz), [Anoyd](https://open.spotify.com/artist/6zmyeByNsfskQHKnJT0F9L) | [Anoyd "On The Radar" Freestyle](https://open.spotify.com/album/7MswBlepIXl8IfF0oQDY5V) | 4:30 |
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX37T6O68lz4o.md) - [plain]
 | 19 | [Yeah Yeah](https://open.spotify.com/track/4uVIFUbUO4ZjmoTV2yVoB1) | [Luke Bar$](https://open.spotify.com/artist/6CGyB4PAg5rEyzeGumZrjr) | [Angels Never Die](https://open.spotify.com/album/1CzzDKZVAsxqjKtpNGAwtN) | 2:46 |
 | 20 | [government](https://open.spotify.com/track/011jrjBosFx7b68ipQpZoB) | [invada](https://open.spotify.com/artist/3FBvF7C8P5IztMR7Mbxc3X) | [blue moon](https://open.spotify.com/album/2gyhpzZQ4zUQCdTptbdV4I) | 1:42 |
 | 21 | [JOHN DOE](https://open.spotify.com/track/19Ew2zA1svbHK5m9aIu9pw) | [Caev](https://open.spotify.com/artist/0mkMBdJb4grjol3blckHxe) | [SMD](https://open.spotify.com/album/0GPmtU19FaBCAJYbOjcLWw) | 2:31 |
-| 22 | [Wouldn't Get Far](https://open.spotify.com/track/1xCb6UKAXdK7uesHhPdC2c) | [Lily Rayne](https://open.spotify.com/artist/04DqcxM5TVBjxdGwGlxACa) | [Wouldn't Get Far](https://open.spotify.com/album/5CBUjfA2E9wY0lBakooJs8) | 2:33 |
+| 22 | [Wouldn't Get Far](https://open.spotify.com/track/4p9Rma6SltCyrf9NTyRmMp) | [Lily Rayne](https://open.spotify.com/artist/04DqcxM5TVBjxdGwGlxACa) | [Wouldn't Get Far](https://open.spotify.com/album/6wiXUz2AjWyASK6D0374F6) | 2:33 |
 | 23 | [imnotgonnaWait](https://open.spotify.com/track/6Fh2nypB9mH8dJ5VxwYu5N) | [Aura](https://open.spotify.com/artist/5bfbqVepB9jL5gBANS74iU) | [imnotgonnaWait](https://open.spotify.com/album/4fDxgm8ieUv2ugnpaBnSy4) | 3:33 |
 | 24 | [Guava Rose](https://open.spotify.com/track/2sTIxJiG84ewMHTGrg1zBK) | [June Freedom](https://open.spotify.com/artist/7dYb5EKtRnRaWM0GQ12cKC), [Eva Ruiz](https://open.spotify.com/artist/0u2TFlIJZJiir8Oi7YkbwV) | [Guava Rose](https://open.spotify.com/album/5s6AYaudqnGc8v3OhscQvs) | 3:12 |
 | 25 | [Veinticuatro Siete](https://open.spotify.com/track/6tiuryY9tsG5OX8WUi7pbL) | [Nino Francis](https://open.spotify.com/artist/3V6C0b6qW61rD8dNhBgKdr) | [Veinticuatro Siete](https://open.spotify.com/album/1haPMmO6mjQHwz0dnLT1Pr) | 2:53 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX37T6O68lz4o.md) - [plain]
 | 50 | [BENDICIÓN](https://open.spotify.com/track/0krlBnHxaagenKS8CSin3l) | [BoriRock](https://open.spotify.com/artist/3KlJV8iotDsiPz2UGGHXeL), [Dusty Renoylds](https://open.spotify.com/artist/0kA5CkWPp7TKXQrOPO6Uah) | [DOGZTON TO HOOTYORK](https://open.spotify.com/album/4eqABhmfNwAHIsKF19xpY9) | 2:08 |
 | 51 | [ME AND MY MUSE](https://open.spotify.com/track/5A39A4kS505mQ8VSAAi6kn) | [Clark D](https://open.spotify.com/artist/7DruDtmm0jIP34WP7PeuF4) | [CAP PACK 2](https://open.spotify.com/album/1dD3bqHKXeipNtOZvcd2g0) | 3:18 |
 
-Snapshot ID: `MCwwODkxOWQ3MWI4OTk3YjZkMmQ2ZjYyM2RhNmRkYjdmZTU2NjJlMzgy`
+Snapshot ID: `MCw0YmMyOGJmNGRlOTE5N2M2MDI0ZWY1N2EwOGViNjIwMTVhZDRhNzUy`

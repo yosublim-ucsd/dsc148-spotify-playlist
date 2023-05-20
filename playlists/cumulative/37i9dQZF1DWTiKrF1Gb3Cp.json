@@ -23,6 +23,28 @@
     },
     {
       "album": {
+        "name": "16 Toneladas",
+        "url": "https://open.spotify.com/album/14byPF3w5ew4oSYoWdI3H2"
+      },
+      "artists": [
+        {
+          "name": "Tiro Loko",
+          "url": "https://open.spotify.com/artist/4Y5HJP3oFOJ8UVBXHYWBgx"
+        },
+        {
+          "name": "Dharius",
+          "url": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
+        }
+      ],
+      "date_added": "2023-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206726,
+      "name": "16 Toneladas",
+      "url": "https://open.spotify.com/track/2kKJNfeAez08ucgMMgrFX8"
+    },
+    {
+      "album": {
         "name": "7",
         "url": "https://open.spotify.com/album/4AcTenx2Op3VL7XJ4zRLjl"
       },
@@ -92,7 +114,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-09",
+      "date_removed": null,
       "duration_ms": 175186,
       "name": "Activados y Prendidos",
       "url": "https://open.spotify.com/track/4AvpUGiEn0d9HQEPuvC7gt"
@@ -140,7 +162,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-13",
+      "date_removed": null,
       "duration_ms": 138028,
       "name": "Al Mill\u00f3n",
       "url": "https://open.spotify.com/track/1ITxkijE0eZUgesUI4Lr3Z"
@@ -209,6 +231,28 @@
     },
     {
       "album": {
+        "name": "Bandido",
+        "url": "https://open.spotify.com/album/3qDY0aopQhxmECwnQOqPmR"
+      },
+      "artists": [
+        {
+          "name": "Beto Sierra",
+          "url": "https://open.spotify.com/artist/6kPf6aO5cAHU2RJUDN1UUy"
+        },
+        {
+          "name": "Homer El Mero Mero",
+          "url": "https://open.spotify.com/artist/0Xo4VFS3v07L0GwIVkZLfg"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204000,
+      "name": "Bandido",
+      "url": "https://open.spotify.com/track/5oWfTPK3ZFRuW82NsIXlEb"
+    },
+    {
+      "album": {
         "name": "Exitos",
         "url": "https://open.spotify.com/album/1zt7d4HabQ37eIZjnpkhpe"
       },
@@ -220,7 +264,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-22",
+      "date_removed": null,
       "duration_ms": 228995,
       "name": "Bendita Vida",
       "url": "https://open.spotify.com/track/5xZTPEfZTDS5AE3PGLyAYn"
@@ -318,7 +362,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-06",
+      "date_removed": null,
       "duration_ms": 238210,
       "name": "Corren Con Suerte",
       "url": "https://open.spotify.com/track/68q0aAYzOkB3q3ahb11cYx"
@@ -426,7 +470,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 186374,
       "name": "De La Calle Somos",
       "url": "https://open.spotify.com/track/4cK4tEGn12CaqYYMg5AtHF"
@@ -543,6 +587,28 @@
     },
     {
       "album": {
+        "name": "Ditroi (Detroit)",
+        "url": "https://open.spotify.com/album/4LLj8LC3qdPm4D5nCgEJ8V"
+      },
+      "artists": [
+        {
+          "name": "Nelly Nelz",
+          "url": "https://open.spotify.com/artist/7gPZtpMaLi5zBkroBdl6Su"
+        },
+        {
+          "name": "Braulio Fogon",
+          "url": "https://open.spotify.com/artist/0XXR1ghu7pFEcfdmhq52E9"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220595,
+      "name": "Ditroi (Detroit)",
+      "url": "https://open.spotify.com/track/6FxQzTDQJuMd5Sq80p4XMd"
+    },
+    {
+      "album": {
         "name": "El Vicio y la Fama",
         "url": "https://open.spotify.com/album/1jY2gqdDwbRbtwIIwmcxqI"
       },
@@ -576,7 +642,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-09",
+      "date_removed": null,
       "duration_ms": 183353,
       "name": "El Ni\u00f1o Malo",
       "url": "https://open.spotify.com/track/3IH0tYPSKOwcFnFwQ9t0iU"
@@ -678,7 +744,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-06",
+      "date_removed": null,
       "duration_ms": 246780,
       "name": "Equivocado",
       "url": "https://open.spotify.com/track/371Q3sLN68N4rwkw4ObnTp"
@@ -744,10 +810,28 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-13",
+      "date_removed": null,
       "duration_ms": 261186,
       "name": "FCK Love",
       "url": "https://open.spotify.com/track/19sA5Lb1Pq6tDOiITDNFAB"
+    },
+    {
+      "album": {
+        "name": "Fe",
+        "url": "https://open.spotify.com/album/0Roxdafecg5p3VQXUBfNkP"
+      },
+      "artists": [
+        {
+          "name": "Lefty Sm",
+          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
+        }
+      ],
+      "date_added": "2023-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254000,
+      "name": "Fe",
+      "url": "https://open.spotify.com/track/5E3DUwke6Or4h5rosrn5Z1"
     },
     {
       "album": {
@@ -1039,6 +1123,24 @@
     },
     {
       "album": {
+        "name": "Locofon\u00edas",
+        "url": "https://open.spotify.com/album/26zGsUDPf6YXszmHdi4aCT"
+      },
+      "artists": [
+        {
+          "name": "TREN LOKOTE",
+          "url": "https://open.spotify.com/artist/6DjBv6gyR1HLsvwGUOD5V9"
+        }
+      ],
+      "date_added": "2023-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166905,
+      "name": "Malandro",
+      "url": "https://open.spotify.com/track/1120swm4qMnIJMnBp5oFgo"
+    },
+    {
+      "album": {
         "name": "Robot Montana",
         "url": "https://open.spotify.com/album/0rEzNORhsOrbHxxZxUe67P"
       },
@@ -1054,7 +1156,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-13",
+      "date_removed": null,
       "duration_ms": 175730,
       "name": "Mariguana & Tequila",
       "url": "https://open.spotify.com/track/1Kxr5sQyw95And6SOt5hkY"
@@ -1141,6 +1243,24 @@
     },
     {
       "album": {
+        "name": "Canciones Mamalonas",
+        "url": "https://open.spotify.com/album/6OIteXjnMqe4RQT6QfWE3x"
+      },
+      "artists": [
+        {
+          "name": "MC Davo",
+          "url": "https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I"
+        }
+      ],
+      "date_added": "2023-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141904,
+      "name": "Modo Bestia",
+      "url": "https://open.spotify.com/track/6GWUyY1CXSVDLrszAJCZMh"
+    },
+    {
+      "album": {
         "name": "My Name",
         "url": "https://open.spotify.com/album/5VX1xk0uVSPBVUsD80v1ji"
       },
@@ -1156,6 +1276,32 @@
       "duration_ms": 182000,
       "name": "My Name",
       "url": "https://open.spotify.com/track/0O1AdqQhfLoWp0gNsG8ysy"
+    },
+    {
+      "album": {
+        "name": "Los Jefes (Banda Sonora de la Pel\u00edcula)",
+        "url": "https://open.spotify.com/album/2R4W5sM64HVW2Dqmb9Owck"
+      },
+      "artists": [
+        {
+          "name": "E. Davalos",
+          "url": "https://open.spotify.com/artist/12IZ7qlSBXBKqvxE6QYp70"
+        },
+        {
+          "name": "R. Rodriguez",
+          "url": "https://open.spotify.com/artist/3JNfocZPUOqSkazQBQKFCt"
+        },
+        {
+          "name": "M. Soria",
+          "url": "https://open.spotify.com/artist/5nZ7iv3dWZVqeRUDP4ty6I"
+        }
+      ],
+      "date_added": "2023-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247626,
+      "name": "M\u00e9xico Lindo y Bandido - Remix Dj Migue Soria (Banda Sonora de la Pel\u00edcula: \"Los Jefes\")",
+      "url": "https://open.spotify.com/track/5lqxSDQ03I3pUxCVZq50q4"
     },
     {
       "album": {
@@ -1217,6 +1363,24 @@
     },
     {
       "album": {
+        "name": "Mas Locos Que Simpaticos",
+        "url": "https://open.spotify.com/album/5vcuogPxCTR49tuq2W69eV"
+      },
+      "artists": [
+        {
+          "name": "El Pinche Mara",
+          "url": "https://open.spotify.com/artist/3L7OHIT4kfdcDSnnGM0TKN"
+        }
+      ],
+      "date_added": "2023-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230876,
+      "name": "No Dejo De Fumar",
+      "url": "https://open.spotify.com/track/1knLbqniGhyYMnnMZ0AzyY"
+    },
+    {
+      "album": {
         "name": "No Te La Sabes",
         "url": "https://open.spotify.com/album/4rXdXTHY6DTAiS6bP7xAcl"
       },
@@ -1236,6 +1400,28 @@
       "duration_ms": 215200,
       "name": "No Te La Sabes",
       "url": "https://open.spotify.com/track/2btkX75Lvqn68GoECFSAI9"
+    },
+    {
+      "album": {
+        "name": "No Te Metas",
+        "url": "https://open.spotify.com/album/5MHhCvivczCfxuhItlYgbS"
+      },
+      "artists": [
+        {
+          "name": "Santa Fe Klan",
+          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
+        },
+        {
+          "name": "Millonario",
+          "url": "https://open.spotify.com/artist/2N2aJ1SXQxMkhHD8C6fhYD"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219452,
+      "name": "No Te Metas",
+      "url": "https://open.spotify.com/track/341IhTrfJQujky7ovX3hlV"
     },
     {
       "album": {
@@ -1310,7 +1496,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-06",
+      "date_removed": null,
       "duration_ms": 227495,
       "name": "Pa Los Barrios Y Las Clikas",
       "url": "https://open.spotify.com/track/722FnPcAf2KnbXzdokciiz"
@@ -1590,7 +1776,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-06",
+      "date_removed": null,
       "duration_ms": 229251,
       "name": "Sabadrugs",
       "url": "https://open.spotify.com/track/5RuBHhtREoVI9t1YpdsJJ5"
@@ -1925,6 +2111,24 @@
     },
     {
       "album": {
+        "name": "Vamos a Beber",
+        "url": "https://open.spotify.com/album/2jv5642s9t09nUDQmbVPvN"
+      },
+      "artists": [
+        {
+          "name": "Neto Pe\u00f1a",
+          "url": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
+        }
+      ],
+      "date_added": "2023-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190625,
+      "name": "Vamos a Beber",
+      "url": "https://open.spotify.com/track/18cFdBJf22tG8LZtJwWVNP"
+    },
+    {
+      "album": {
         "name": "Vaya Vaya",
         "url": "https://open.spotify.com/album/26r1WFenx1zV0HT28AwLaE"
       },
@@ -1958,7 +2162,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-06",
+      "date_removed": null,
       "duration_ms": 196235,
       "name": "WARZONE FREESTYLE",
       "url": "https://open.spotify.com/track/3cXHViSCDDH5m4tWJa2VjI"

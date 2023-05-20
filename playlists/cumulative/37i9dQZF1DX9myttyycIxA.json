@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Underground indie rock gems. Cover: king isis",
+  "description": "Underground indie rock gems. Cover: Homeschool",
   "name": "undercurrents",
   "tracks": [
     {
@@ -366,7 +366,7 @@
       ],
       "date_added": "2022-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 205890,
       "name": "Aftershook",
       "url": "https://open.spotify.com/track/4AdD9JhtqFrMXrSXOQ2MGT"
@@ -1034,7 +1034,7 @@
       ],
       "date_added": "2022-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 231929,
       "name": "atonement",
       "url": "https://open.spotify.com/track/76XJ4MWK8ru7dJCG8GThdM"
@@ -4240,7 +4240,7 @@
       ],
       "date_added": "2022-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 169200,
       "name": "Dog Eat Dog",
       "url": "https://open.spotify.com/track/6JLcvLZP4N8MRhvjG6SGaL"
@@ -4478,6 +4478,24 @@
       "duration_ms": 186453,
       "name": "Dust Bunny",
       "url": "https://open.spotify.com/track/3c3GmgHZaHZf0DEhfooCsL"
+    },
+    {
+      "album": {
+        "name": "Forest People",
+        "url": "https://open.spotify.com/album/6hWXpfnGb3ZCoIBQm3yTAk"
+      },
+      "artists": [
+        {
+          "name": "psykhi",
+          "url": "https://open.spotify.com/artist/6Jv3pqZlwHy3RlsfdBGbRc"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219130,
+      "name": "Dyed in Wool",
+      "url": "https://open.spotify.com/track/3PUyH5cJPUOMzg2DA6rZfT"
     },
     {
       "album": {
@@ -6489,6 +6507,24 @@
     },
     {
       "album": {
+        "name": "Just Now",
+        "url": "https://open.spotify.com/album/4eyEhLGWV79klaEqDrHpfT"
+      },
+      "artists": [
+        {
+          "name": "Homeschool",
+          "url": "https://open.spotify.com/artist/3QSLQuaMerIfT2VHvqObG8"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208000,
+      "name": "Hanger-on",
+      "url": "https://open.spotify.com/track/3ZxPU3puN1OqItx1pwKZh4"
+    },
+    {
+      "album": {
         "name": "Hannah Sun",
         "url": "https://open.spotify.com/album/0tStaUHZtXWjzqZepPJ5eG"
       },
@@ -6727,6 +6763,24 @@
     },
     {
       "album": {
+        "name": "Heartbreak Rules",
+        "url": "https://open.spotify.com/album/4bPspFQjjplnW3564NNnxu"
+      },
+      "artists": [
+        {
+          "name": "Horse Jumper of Love",
+          "url": "https://open.spotify.com/artist/6U1lmwvy3I9dIYu9RalJi6"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126506,
+      "name": "Heartbreak Rules",
+      "url": "https://open.spotify.com/track/1LedFrOIttg8GidthtZJpF"
+    },
+    {
+      "album": {
         "name": "Heaven in Your Head",
         "url": "https://open.spotify.com/album/1ijAzqI3b0LJdS0fgWaDJ1"
       },
@@ -6774,7 +6828,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 231680,
       "name": "Her",
       "url": "https://open.spotify.com/track/3vOfOukwKoWE6AGRXscucS"
@@ -7774,6 +7828,24 @@
       "duration_ms": 177343,
       "name": "I Wanted the Real Thing",
       "url": "https://open.spotify.com/track/59sCcKFTV5pShKkjSrfMH2"
+    },
+    {
+      "album": {
+        "name": "I'll be your star",
+        "url": "https://open.spotify.com/album/4335JjYuXsLQiD08cLhRKJ"
+      },
+      "artists": [
+        {
+          "name": "Tyler Burkhart",
+          "url": "https://open.spotify.com/artist/6hNArc2Vya9KBBDhvIj1BM"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 299000,
+      "name": "I'll be your star",
+      "url": "https://open.spotify.com/track/0qokAYYFmEC3VwV4vrj5wc"
     },
     {
       "album": {
@@ -9063,6 +9135,24 @@
     },
     {
       "album": {
+        "name": "UNSAYABLE",
+        "url": "https://open.spotify.com/album/23jxgu7HSNoy35bjUVywYn"
+      },
+      "artists": [
+        {
+          "name": "beachtown",
+          "url": "https://open.spotify.com/artist/20Gn0QldnmvNFLYxsa9vMI"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220540,
+      "name": "Like Anyone",
+      "url": "https://open.spotify.com/track/1COlhSRKMWRUh33gYcM9QS"
+    },
+    {
+      "album": {
         "name": "Like Ice",
         "url": "https://open.spotify.com/album/4PatIt2ver4X597Sh6YwGu"
       },
@@ -9240,6 +9330,24 @@
       "duration_ms": 173062,
       "name": "Locket",
       "url": "https://open.spotify.com/track/0DKeB7jEvtKNoNgNhyJi81"
+    },
+    {
+      "album": {
+        "name": "Lonely",
+        "url": "https://open.spotify.com/album/5Rcadhergn7V5fLo9ejYoA"
+      },
+      "artists": [
+        {
+          "name": "PWNT",
+          "url": "https://open.spotify.com/artist/64ucpxkeLwoyiLViMhBR3v"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162218,
+      "name": "Lonely",
+      "url": "https://open.spotify.com/track/4AS90Bmd19h087YiA1xnv4"
     },
     {
       "album": {
@@ -11574,7 +11682,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 267208,
       "name": "Radial",
       "url": "https://open.spotify.com/track/1pO7WwR4PQUS4aCQRxCG4y"
@@ -12126,6 +12234,24 @@
       "duration_ms": 136374,
       "name": "SALTWATER SKY",
       "url": "https://open.spotify.com/track/1INfhBjuHFTkxRVIB2NMSC"
+    },
+    {
+      "album": {
+        "name": "Same Thing Every Day",
+        "url": "https://open.spotify.com/album/02H0yfRYPaeAJcnH4pklQl"
+      },
+      "artists": [
+        {
+          "name": "The Flints",
+          "url": "https://open.spotify.com/artist/4yJmzmjRodRbsqgOVpHD1v"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194056,
+      "name": "Same Thing Every Day",
+      "url": "https://open.spotify.com/track/4TonuDFhZeY5rrmkMFiiT5"
     },
     {
       "album": {
@@ -13216,7 +13342,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 246773,
       "name": "Space Cowboy",
       "url": "https://open.spotify.com/track/3039eQZmZy2PVsHyyOf78m"
@@ -13324,7 +13450,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 323300,
       "name": "Spiderweb",
       "url": "https://open.spotify.com/track/4jUA8bO0BppkejDTUVidVR"
@@ -14348,7 +14474,7 @@
       ],
       "date_added": "2022-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 228852,
       "name": "The Rift",
       "url": "https://open.spotify.com/track/3vUHrmHxjsngAXKvxRJ6nc"
@@ -14370,6 +14496,24 @@
       "duration_ms": 226824,
       "name": "The Right Thing Is Hard To Do",
       "url": "https://open.spotify.com/track/0V1zBWOzQ8Y1qKFgedja6N"
+    },
+    {
+      "album": {
+        "name": "The Sky Is Melting",
+        "url": "https://open.spotify.com/album/0YbYR3WvIXRdE7mNYBrpkf"
+      },
+      "artists": [
+        {
+          "name": "Alex Lahey",
+          "url": "https://open.spotify.com/artist/5kdYrM3h2sB1Eid5tDf6Hk"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246927,
+      "name": "The Sky Is Melting",
+      "url": "https://open.spotify.com/track/4xWCnmQlJN1xh4QDvRBuDi"
     },
     {
       "album": {
@@ -14720,6 +14864,24 @@
       "duration_ms": 93470,
       "name": "Time Walk",
       "url": "https://open.spotify.com/track/3sU3dsN3etkC0Teh3IZU9S"
+    },
+    {
+      "album": {
+        "name": "P Rock City",
+        "url": "https://open.spotify.com/album/6cqB2W2zmU4niYx7FhfgdY"
+      },
+      "artists": [
+        {
+          "name": "Buck Raines",
+          "url": "https://open.spotify.com/artist/0uhS2Dm4iv3qukaycmPbNF"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209607,
+      "name": "Tinnitus!",
+      "url": "https://open.spotify.com/track/1NHzkiDsQxBaKZ9IC6u0tz"
     },
     {
       "album": {
@@ -16068,7 +16230,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 248733,
       "name": "Wish",
       "url": "https://open.spotify.com/track/3BQnvX4XaBYmMDfAhtuoZ6"

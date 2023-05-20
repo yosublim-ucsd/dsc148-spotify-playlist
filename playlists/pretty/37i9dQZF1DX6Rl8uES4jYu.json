@@ -1,13 +1,37 @@
 {
   "description": "This fun, upbeat playlist will help get you up and ready to start your day! ",
-  "num_followers": 241027,
+  "num_followers": 241031,
   "original_name": "Ready for the Day",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0YTgwYTkwMzViYjU2MzZjNDk3OWVlZDRkMjAwMzY1YTZhNGRlMDgw",
+  "snapshot_id": "MCw1NDZlYWVkZDFiNDExMDMzYzE4ZDljNTY0NmNlMTdiMjg1MTBkNDJl",
   "tracks": [
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
+        "name": "Studio 54",
+        "url": "https://open.spotify.com/album/5eqNUuxFHel3GEUPeaaFbv"
+      },
+      "artists": [
+        {
+          "name": "Young Franco",
+          "url": "https://open.spotify.com/artist/6mK0vAO13gT8jWYANyoXAl"
+        },
+        {
+          "name": "Leyla Blue",
+          "url": "https://open.spotify.com/artist/6HpIVA13SPof8sYuXRUfxj"
+        },
+        {
+          "name": "Jafunk",
+          "url": "https://open.spotify.com/artist/5KtUig38eqxK2rOtHZnz0k"
+        }
+      ],
+      "duration_ms": 166289,
+      "name": "Studio 54",
+      "url": "https://open.spotify.com/track/20blT6R5DJhfrk9c16lQ4E"
+    },
     {
       "added_at": "2023-05-12 04:01:00",
       "album": {
@@ -1791,22 +1815,6 @@
       "duration_ms": 177014,
       "name": "Up",
       "url": "https://open.spotify.com/track/1WWRakZzeLuWPlfymWPSYf"
-    },
-    {
-      "added_at": "2023-02-17 05:01:00",
-      "album": {
-        "name": "My 21st Century Blues",
-        "url": "https://open.spotify.com/album/3U8n8LzBx2o9gYXvvNq4uH"
-      },
-      "artists": [
-        {
-          "name": "RAYE",
-          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
-        }
-      ],
-      "duration_ms": 199293,
-      "name": "The Thrill Is Gone.",
-      "url": "https://open.spotify.com/track/5eVG50IlyjSevPsWnSI76r"
     }
   ],
   "unique_name": "Ready for the Day",

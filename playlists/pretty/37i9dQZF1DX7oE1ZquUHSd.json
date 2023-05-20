@@ -1,12 +1,12 @@
 {
   "description": "El poder real del Hip Hop latinoamericano y espa\u00f1ol. Foto: Cartel de Santa",
-  "num_followers": 145160,
+  "num_followers": 145315,
   "original_name": "Cl\u00e1sicos del Hip Hop Latino",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwZjg4MTgwYTUwZjg3N2Q2Y2MyYzkwNjc0OWE0NTQxMzVmMTNiY2Nk",
+  "snapshot_id": "MCwzMzFkMGE0YmI5MzYwNTQwN2IxNjM2NTBiMTMyZDAwZjhmZjA3MWY3",
   "tracks": [
     {
       "added_at": "2021-11-16 20:18:05",
@@ -195,18 +195,22 @@
     {
       "added_at": "2021-11-16 20:18:05",
       "album": {
-        "name": "Eclipse",
-        "url": "https://open.spotify.com/album/58bkzXIuIabVia7LjAOpT3"
+        "name": "The Fast And The Furious: Tokyo Drift (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4SJhZBuuLYlwUJGxWf8Pj0"
       },
       "artists": [
         {
-          "name": "Aleman",
-          "url": "https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE"
+          "name": "Don Omar",
+          "url": "https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z"
+        },
+        {
+          "name": "Tego Calder\u00f3n",
+          "url": "https://open.spotify.com/artist/3SUT1jjM5hzZj9TLfLZGIP"
         }
       ],
-      "duration_ms": 168560,
-      "name": "Ruc\u00f3n",
-      "url": "https://open.spotify.com/track/78M7CiqTpJYoPQKkwjM48Z"
+      "duration_ms": 305280,
+      "name": "Bandoleros",
+      "url": "https://open.spotify.com/track/4BxzNZpcm1j3JczZzGNe2k"
     },
     {
       "added_at": "2021-11-16 20:18:05",
@@ -243,22 +247,18 @@
     {
       "added_at": "2021-11-16 20:18:05",
       "album": {
-        "name": "The Fast And The Furious: Tokyo Drift (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/4SJhZBuuLYlwUJGxWf8Pj0"
+        "name": "Eclipse",
+        "url": "https://open.spotify.com/album/58bkzXIuIabVia7LjAOpT3"
       },
       "artists": [
         {
-          "name": "Don Omar",
-          "url": "https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z"
-        },
-        {
-          "name": "Tego Calder\u00f3n",
-          "url": "https://open.spotify.com/artist/3SUT1jjM5hzZj9TLfLZGIP"
+          "name": "Aleman",
+          "url": "https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE"
         }
       ],
-      "duration_ms": 305280,
-      "name": "Bandoleros",
-      "url": "https://open.spotify.com/track/4BxzNZpcm1j3JczZzGNe2k"
+      "duration_ms": 168560,
+      "name": "Ruc\u00f3n",
+      "url": "https://open.spotify.com/track/78M7CiqTpJYoPQKkwjM48Z"
     },
     {
       "added_at": "2021-11-16 20:18:05",
@@ -759,6 +759,26 @@
     {
       "added_at": "2021-11-16 20:18:05",
       "album": {
+        "name": "Sincopa",
+        "url": "https://open.spotify.com/album/6XpSHxvcHf2VbRpDnMN091"
+      },
+      "artists": [
+        {
+          "name": "Cartel De Santa",
+          "url": "https://open.spotify.com/artist/07PdYoE4jVRF6Ut40GgVSP"
+        },
+        {
+          "name": "Patan",
+          "url": "https://open.spotify.com/artist/4jyw0sF3Ji2vZ74ZZIWYBz"
+        }
+      ],
+      "duration_ms": 293346,
+      "name": "Volar Volar",
+      "url": "https://open.spotify.com/track/4pxigeVSDmHxM2gLQmVVH0"
+    },
+    {
+      "added_at": "2021-11-16 20:18:05",
+      "album": {
         "name": "Cypher",
         "url": "https://open.spotify.com/album/74MnBAt8ADj9XZjmUiro9f"
       },
@@ -803,26 +823,6 @@
       "duration_ms": 482926,
       "name": "Cypher",
       "url": "https://open.spotify.com/track/0M8HCM6ztBgsF150J7oCBt"
-    },
-    {
-      "added_at": "2021-11-16 20:18:05",
-      "album": {
-        "name": "Sincopa",
-        "url": "https://open.spotify.com/album/6XpSHxvcHf2VbRpDnMN091"
-      },
-      "artists": [
-        {
-          "name": "Cartel De Santa",
-          "url": "https://open.spotify.com/artist/07PdYoE4jVRF6Ut40GgVSP"
-        },
-        {
-          "name": "Patan",
-          "url": "https://open.spotify.com/artist/4jyw0sF3Ji2vZ74ZZIWYBz"
-        }
-      ],
-      "duration_ms": 293346,
-      "name": "Volar Volar",
-      "url": "https://open.spotify.com/track/4pxigeVSDmHxM2gLQmVVH0"
     },
     {
       "added_at": "2021-11-16 20:18:05",
@@ -935,6 +935,22 @@
     {
       "added_at": "2021-11-16 20:18:05",
       "album": {
+        "name": "Los Aguacates De Jilquilpan",
+        "url": "https://open.spotify.com/album/1WjKGOdClpJdzlMAtdg8uF"
+      },
+      "artists": [
+        {
+          "name": "Akwid",
+          "url": "https://open.spotify.com/artist/3mYFuz6iY7D9X78rOXg5CG"
+        }
+      ],
+      "duration_ms": 292413,
+      "name": "Anda Y Ve",
+      "url": "https://open.spotify.com/track/21GrZqnug24ENdZ5e6seWN"
+    },
+    {
+      "added_at": "2021-11-16 20:18:05",
+      "album": {
         "name": "Mi T\u00edo Snoop",
         "url": "https://open.spotify.com/album/6ugE8dVzZdepHyyGxCt2kW"
       },
@@ -951,22 +967,6 @@
       "duration_ms": 203946,
       "name": "Mi T\u00edo Snoop",
       "url": "https://open.spotify.com/track/48XgkAh1fkcZqA2EZWCDX6"
-    },
-    {
-      "added_at": "2021-11-16 20:18:05",
-      "album": {
-        "name": "Los Aguacates De Jilquilpan",
-        "url": "https://open.spotify.com/album/1WjKGOdClpJdzlMAtdg8uF"
-      },
-      "artists": [
-        {
-          "name": "Akwid",
-          "url": "https://open.spotify.com/artist/3mYFuz6iY7D9X78rOXg5CG"
-        }
-      ],
-      "duration_ms": 292413,
-      "name": "Anda Y Ve",
-      "url": "https://open.spotify.com/track/21GrZqnug24ENdZ5e6seWN"
     },
     {
       "added_at": "2021-11-16 20:18:05",
@@ -1519,26 +1519,6 @@
     {
       "added_at": "2021-11-16 20:18:05",
       "album": {
-        "name": "ANIMAL",
-        "url": "https://open.spotify.com/album/4eBTljS2CAgzO8rfcwRTGp"
-      },
-      "artists": [
-        {
-          "name": "ACRU",
-          "url": "https://open.spotify.com/artist/0bYQe0JDIjxkSHQoXlfngl"
-        },
-        {
-          "name": "WOS",
-          "url": "https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK"
-        }
-      ],
-      "duration_ms": 170981,
-      "name": "ANIMAL",
-      "url": "https://open.spotify.com/track/06b0Au6pvZiO03eKTCvgWh"
-    },
-    {
-      "added_at": "2021-11-16 20:18:05",
-      "album": {
         "name": "Ozmlstayl",
         "url": "https://open.spotify.com/album/2gCfdIhyW4Sr2TYWUy2Rkc"
       },
@@ -1555,6 +1535,26 @@
       "duration_ms": 248600,
       "name": "Babilonia",
       "url": "https://open.spotify.com/track/6A3zrZTU4pe9oqDZgwajA0"
+    },
+    {
+      "added_at": "2021-11-16 20:18:05",
+      "album": {
+        "name": "ANIMAL",
+        "url": "https://open.spotify.com/album/4eBTljS2CAgzO8rfcwRTGp"
+      },
+      "artists": [
+        {
+          "name": "ACRU",
+          "url": "https://open.spotify.com/artist/0bYQe0JDIjxkSHQoXlfngl"
+        },
+        {
+          "name": "WOS",
+          "url": "https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK"
+        }
+      ],
+      "duration_ms": 170981,
+      "name": "ANIMAL",
+      "url": "https://open.spotify.com/track/06b0Au6pvZiO03eKTCvgWh"
     },
     {
       "added_at": "2021-11-16 20:18:05",
@@ -1643,22 +1643,6 @@
     {
       "added_at": "2021-11-16 20:18:05",
       "album": {
-        "name": "1977",
-        "url": "https://open.spotify.com/album/3ZhTbUZNobDXuzcYWGzxA3"
-      },
-      "artists": [
-        {
-          "name": "Ana Tijoux",
-          "url": "https://open.spotify.com/artist/40JMTpVRUw90SrN4pFA6Mz"
-        }
-      ],
-      "duration_ms": 201986,
-      "name": "1977",
-      "url": "https://open.spotify.com/track/7tOAN6w4a1LD0iqkRnIrhZ"
-    },
-    {
-      "added_at": "2021-11-16 20:18:05",
-      "album": {
         "name": "Rolemos Otro",
         "url": "https://open.spotify.com/album/01AooA3ywuIEk6EQaoWjh3"
       },
@@ -1671,6 +1655,22 @@
       "duration_ms": 194828,
       "name": "Rolemos Otro",
       "url": "https://open.spotify.com/track/75WXBeClIQQl6ql1nZbDF5"
+    },
+    {
+      "added_at": "2021-11-16 20:18:05",
+      "album": {
+        "name": "1977",
+        "url": "https://open.spotify.com/album/3ZhTbUZNobDXuzcYWGzxA3"
+      },
+      "artists": [
+        {
+          "name": "Ana Tijoux",
+          "url": "https://open.spotify.com/artist/40JMTpVRUw90SrN4pFA6Mz"
+        }
+      ],
+      "duration_ms": 201986,
+      "name": "1977",
+      "url": "https://open.spotify.com/track/7tOAN6w4a1LD0iqkRnIrhZ"
     },
     {
       "added_at": "2021-11-16 20:18:05",
@@ -1855,18 +1855,22 @@
     {
       "added_at": "2021-11-16 20:18:05",
       "album": {
-        "name": "Manos de Anillo",
-        "url": "https://open.spotify.com/album/2TWqwQ1OOfbI8D7g31SbQU"
+        "name": "La Familia, Cap. 1",
+        "url": "https://open.spotify.com/album/246c5sNjasakCN9bGXQZvZ"
       },
       "artists": [
         {
-          "name": "Simpson Ahuevo",
-          "url": "https://open.spotify.com/artist/6viZnVSHavFUcW0blu6Mvw"
+          "name": "Crack Family",
+          "url": "https://open.spotify.com/artist/7zXRgSpjJkQmB9SnPLq1Qk"
+        },
+        {
+          "name": "Aerophon",
+          "url": "https://open.spotify.com/artist/6nfNQvqechLUJaFHYAciep"
         }
       ],
-      "duration_ms": 225957,
-      "name": "Manos de Anillo",
-      "url": "https://open.spotify.com/track/7vbYVWDpMxZS97V5dPeflc"
+      "duration_ms": 309733,
+      "name": "Gaminart",
+      "url": "https://open.spotify.com/track/0KjEYmw0KaSg3uXS0GU7un"
     }
   ],
   "unique_name": "Cl\u00e1sicos del Hip Hop Latino",

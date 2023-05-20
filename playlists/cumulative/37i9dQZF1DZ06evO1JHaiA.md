@@ -4,7 +4,7 @@
 
 > This is The Intruders\. The essential tracks, all in one playlist.
 
-68 songs - 3 hr 42 min
+69 songs - 3 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,7 +53,7 @@
 | [Lonely Lonely](https://open.spotify.com/track/0RgjRcULI5LVchDNASRzEK) | [The Intruders](https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv) | [Energy of Love](https://open.spotify.com/album/56ppptQbKsmQMSSEMHyle5) | 3:18 | 2022-07-21 | 2023-04-04 |
 | [Me Tarzan, You Jane](https://open.spotify.com/track/0009Q7nGlWjFzSjQIo9PmK) | [The Intruders](https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv) | [Super Hits](https://open.spotify.com/album/0IpED0lu5CdYg4LXzJgK3h) | 2:19 | 2022-05-25 |  |
 | [Memories are Here to Stay](https://open.spotify.com/track/1zQNHD6d44LnYJtmo4joSW) | [The Intruders](https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv) | [Save the Children](https://open.spotify.com/album/0yfInwsqclQ8YAp1OipaVM) | 3:17 | 2022-05-25 |  |
-| [Mother and Child Reunion](https://open.spotify.com/track/6ztOb9W2NW1Z8jVC4gy8HA) | [The Intruders](https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv) | [Save the Children](https://open.spotify.com/album/0yfInwsqclQ8YAp1OipaVM) | 4:05 | 2022-05-25 |  |
+| [Mother and Child Reunion](https://open.spotify.com/track/6ztOb9W2NW1Z8jVC4gy8HA) | [The Intruders](https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv) | [Save the Children](https://open.spotify.com/album/0yfInwsqclQ8YAp1OipaVM) | 4:05 | 2022-05-25 | 2023-05-20 |
 | [One In a Million](https://open.spotify.com/track/5d8L74OY8ckIWzDL30RtHV) | [The Intruders](https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv) | [When We Get Married](https://open.spotify.com/album/06vixMex6zvkS4EB8RYFt7) | 3:13 | 2022-06-19 | 2022-08-12 |
 | [Only One](https://open.spotify.com/track/05uSb6kgHSKwZ5kCPOe9gh) | [The Intruders](https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv), [Tommy Brown](https://open.spotify.com/artist/1Y0QTvY4F05lXyxK6tg436) | [Only One](https://open.spotify.com/album/1XTgmFRZK856v5CXB20tN9) | 4:17 | 2022-05-25 |  |
 | [Rainy Days and Mondays](https://open.spotify.com/track/4d6PIzxfJN3PmduWIYz3by) | [The Intruders](https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv) | [Energy of Love](https://open.spotify.com/album/56ppptQbKsmQMSSEMHyle5) | 6:35 | 2022-05-25 |  |
@@ -69,7 +69,8 @@
 | [The Intruders Medley Introduction \- Live](https://open.spotify.com/track/1fmmjBUc9UHPl5x0YrtLBZ) | [The Intruders](https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv), [Harold Melvin & The Blue Notes](https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy), [Sharon Paige](https://open.spotify.com/artist/112QjqKDa4MQbs0FhOAgNk) | [The Intruders vs Harold Melvin's Blue Notes \(Live In Concert\)](https://open.spotify.com/album/1UWBEyPgg7GaXRAx2JV4QN) | 1:29 | 2022-05-25 |  |
 | [The Love I Lost \- Live](https://open.spotify.com/track/26SDi9fX3ujRlgfxqU2Th1) | [The Intruders](https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv), [Harold Melvin & The Blue Notes](https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy), [Sharon Paige](https://open.spotify.com/artist/112QjqKDa4MQbs0FhOAgNk) | [The Intruders vs Harold Melvin's Blue Notes \(Live In Concert\)](https://open.spotify.com/album/1UWBEyPgg7GaXRAx2JV4QN) | 5:12 | 2023-01-10 |  |
 | [This Is My Love Song](https://open.spotify.com/track/6mSL08tLN782o4iw4PR1Ou) | [The Intruders](https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv) | [When We Get Married](https://open.spotify.com/album/06vixMex6zvkS4EB8RYFt7) | 3:45 | 2022-05-25 |  |
-| [To Be Happy Is the Real Thing](https://open.spotify.com/track/5XmGIKx0TCwzPUkNxj8QY9) | [The Intruders](https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv) | [The Best Of The Intruders: Cowboys To Girls](https://open.spotify.com/album/3ByQcl2cmBljF8Ydu74Ry3) | 3:28 | 2022-05-25 |  |
+| [To Be Happy Is the Real Thing](https://open.spotify.com/track/1Qu6X3yXPTTljHybvPqxix) | [The Intruders](https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv) | [Save the Children](https://open.spotify.com/album/0yfInwsqclQ8YAp1OipaVM) | 3:28 | 2023-05-19 |  |
+| [To Be Happy Is the Real Thing](https://open.spotify.com/track/5XmGIKx0TCwzPUkNxj8QY9) | [The Intruders](https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv) | [The Best Of The Intruders: Cowboys To Girls](https://open.spotify.com/album/3ByQcl2cmBljF8Ydu74Ry3) | 3:28 | 2022-05-25 | 2023-05-20 |
 | [Together](https://open.spotify.com/track/10v7nPfuQaMGJQgpU21L4x) | [The Intruders](https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv) | [Super Hits](https://open.spotify.com/album/0IpED0lu5CdYg4LXzJgK3h) | 2:57 | 2022-05-25 |  |
 | [Traveling Home](https://open.spotify.com/track/5sctZYHwWK6YWCTEuRQICa) | [The Intruders](https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv) | [Save the Children \(Expanded Edition\)](https://open.spotify.com/album/7J3JudgjdcU1bwGa4XemAl) | 3:26 | 2022-05-25 |  |
 | [Turn the Hands of Time](https://open.spotify.com/track/2hVGNk2SveZLU1UhRQjTvf) | [The Intruders](https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv) | [Cowboys to Girls](https://open.spotify.com/album/4otscgqzgKPQZSdPhiC5fr) | 2:31 | 2022-05-25 |  |

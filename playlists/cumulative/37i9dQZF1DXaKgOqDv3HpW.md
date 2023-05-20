@@ -4,7 +4,7 @@
 
 > Respira, inspira..\. Uma seleção musical ideal para você relaxar.
 
-216 songs - 10 hr 36 min
+217 songs - 10 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,7 +59,7 @@
 | [Cloudy Mountains](https://open.spotify.com/track/5uDs595iEmAkqkNfzGB6cl) | [Wolf Keller](https://open.spotify.com/artist/0nL3okOqVl6PvsOmtzWwkb) | [Cloudy Mountains](https://open.spotify.com/album/1VWWZQ49IFtLX1iWWVK1p5) | 2:39 | 2022-02-18 | 2023-04-14 |
 | [Companion](https://open.spotify.com/track/1FgtKAO4lPSU7C83CLIOqu) | [Prescient Liquids](https://open.spotify.com/artist/7KoToKBUpived2ez8gxKT1) | [Snow Berries](https://open.spotify.com/album/13nTRdiXmI29GzOv0x0fJs) | 3:19 | 2022-10-14 |  |
 | [Consonance](https://open.spotify.com/track/6wumg3aZYgGbInRSN8S9g5) | [Blake Tyber](https://open.spotify.com/artist/4vbBZNG20uRReoBN64izRQ) | [Consonance](https://open.spotify.com/album/0yKguZ6t1oKjlFSDYkDuzF) | 3:02 | 2022-11-11 |  |
-| [Coral Reef](https://open.spotify.com/track/6BHSLFa3gVZQPYHcHsIWAY) | [Paradise Sunset](https://open.spotify.com/artist/0YvhzvrLHLXVPLQddmDj3m) | [Floating](https://open.spotify.com/album/3wffRTt5HgYmfdJV3gLFPM) | 3:45 | 2022-02-18 |  |
+| [Coral Reef](https://open.spotify.com/track/6BHSLFa3gVZQPYHcHsIWAY) | [Paradise Sunset](https://open.spotify.com/artist/0YvhzvrLHLXVPLQddmDj3m) | [Floating](https://open.spotify.com/album/3wffRTt5HgYmfdJV3gLFPM) | 3:45 | 2022-02-18 | 2023-05-20 |
 | [Cross A Line](https://open.spotify.com/track/1IkrL2wE6aWYzOmWjZmNO9) | [Sean Altar](https://open.spotify.com/artist/3Jo70Smt1IRBEAGBeXnczk) | [Cross A Line](https://open.spotify.com/album/32PoI04cGJfCgmH003knVN) | 2:18 | 2022-03-21 |  |
 | [Cíes](https://open.spotify.com/track/1JuU4qEEZgSZbXotwMRpQF) | [Huma](https://open.spotify.com/artist/518pvehpCn4yp3oJJbr6zA) | [Cíes](https://open.spotify.com/album/3Ls0VL9UNb0CaLsJrPcyaC) | 2:35 | 2022-02-18 |  |
 | [Descending](https://open.spotify.com/track/6i1azfJNXmsV9fNIA41tea) | [Mayol](https://open.spotify.com/artist/3cIlmB3JDBrJWUm3Un5Yia) | [Breathe Out](https://open.spotify.com/album/2CiiGCO5igDhPWapdqw2Ub) | 3:30 | 2022-02-18 | 2023-03-18 |
@@ -124,6 +124,7 @@
 | [Los ojos de Agua](https://open.spotify.com/track/31K0kVuLjlXbKXomkWwwlj) | [Sayulita](https://open.spotify.com/artist/1TZG0boEXBMRfxjj1nH6TM) | [Los ojos de Agua](https://open.spotify.com/album/59D5ijXzsJPmsnDLqENi38) | 2:45 | 2022-02-18 |  |
 | [Lux Mane](https://open.spotify.com/track/4k6GvMEtWF31ShIk24rLp3) | [Somnum Magnam](https://open.spotify.com/artist/5onmIZ1MD3z0KeVQ1gd5IP) | [Mane Fluctus](https://open.spotify.com/album/3J8JWYo4kC156FlaI3uc15) | 2:38 | 2022-02-18 |  |
 | [Mellowing](https://open.spotify.com/track/4bmEAG2pyu2h70Wu7ZamWn) | [Robin Laureli](https://open.spotify.com/artist/30nCX93T9DmENsEgm1tetr) | [Mellowing](https://open.spotify.com/album/5MeWH6c1ydvsTzSF1m63IM) | 2:52 | 2022-02-18 |  |
+| [Mindfulness](https://open.spotify.com/track/0flCZDZoSDZeKLvIDqYf9E) | [Iridaceae Fields](https://open.spotify.com/artist/6pmTFeAL5pQmrE3jZ3HMW1) | [Mindfulness](https://open.spotify.com/album/327NuLOFnlZTdMKdScvtiI) | 2:55 | 2023-05-19 |  |
 | [Miraculous](https://open.spotify.com/track/39klOrreaNPjsYeh1zTFjh) | [Muh Re](https://open.spotify.com/artist/4FimVNSfsYDIj9JdNq1gXe) | [Miraculous](https://open.spotify.com/album/5uiAQcotkaF94TIP8cIlR1) | 3:27 | 2022-02-18 |  |
 | [Mixture](https://open.spotify.com/track/0OXgaVgiSiuPYjPRiFSyiY) | [Matt Deep](https://open.spotify.com/artist/2MlHEEvx7sK4aeQyDnbgMm) | [Sonorous](https://open.spotify.com/album/23dHOKDvEMYX4C1ukHTULU) | 3:18 | 2022-02-18 |  |
 | [Mon Bateau Tranquille](https://open.spotify.com/track/5dqRiHMA7pnxi2Z1mGRn2e) | [Jerzy Elle](https://open.spotify.com/artist/0TD9evKWycQOcmLC7Q1baR) | [Mon Bateau Tranquille](https://open.spotify.com/album/5TmPx2OZszYODpOgglUWah) | 3:23 | 2022-02-18 | 2023-04-07 |

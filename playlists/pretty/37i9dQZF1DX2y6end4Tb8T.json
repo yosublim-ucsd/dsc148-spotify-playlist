@@ -1,12 +1,12 @@
 {
   "description": "Rap de alta gama. Foto: Juice WRLD",
-  "num_followers": 50978,
+  "num_followers": 51025,
   "original_name": "808.",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2ODAzYWIyY2YwMTc1ZjY2NmIwODg3MDVhNTFiOGEzYWFjYjIzM2Rm",
+  "snapshot_id": "MCw4NmM2MTM3NWE2Y2Y0MjEyOWY5Nzc3NDNiMTM0OGNmMmY2ZjQ1MmJl",
   "tracks": [
     {
       "added_at": "2021-11-12 16:22:17",
@@ -1559,6 +1559,22 @@
     {
       "added_at": "2021-11-12 16:22:17",
       "album": {
+        "name": "Yelo",
+        "url": "https://open.spotify.com/album/0l96KLiB5dthOyDYmNEwfi"
+      },
+      "artists": [
+        {
+          "name": "C. Tangana",
+          "url": "https://open.spotify.com/artist/5TYxZTjIPqKM8K8NuP9woO"
+        }
+      ],
+      "duration_ms": 189356,
+      "name": "Yelo",
+      "url": "https://open.spotify.com/track/3OUPJPD1OmFd8gL7ztY9v8"
+    },
+    {
+      "added_at": "2021-11-12 16:22:17",
+      "album": {
         "name": "B4 The Storm",
         "url": "https://open.spotify.com/album/6U5j597olXfdjtd6wHd3Cu"
       },
@@ -1583,22 +1599,6 @@
       "duration_ms": 195428,
       "name": "Lemonade (feat. Gunna, Don Toliver & NAV)",
       "url": "https://open.spotify.com/track/2DQNYMRjisN3KAPj1bEwOI"
-    },
-    {
-      "added_at": "2021-11-12 16:22:17",
-      "album": {
-        "name": "Yelo",
-        "url": "https://open.spotify.com/album/0l96KLiB5dthOyDYmNEwfi"
-      },
-      "artists": [
-        {
-          "name": "C. Tangana",
-          "url": "https://open.spotify.com/artist/5TYxZTjIPqKM8K8NuP9woO"
-        }
-      ],
-      "duration_ms": 189356,
-      "name": "Yelo",
-      "url": "https://open.spotify.com/track/3OUPJPD1OmFd8gL7ztY9v8"
     },
     {
       "added_at": "2021-11-12 16:22:17",

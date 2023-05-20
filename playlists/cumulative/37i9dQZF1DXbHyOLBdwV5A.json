@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-09-15",
-  "description": "A palavra do Senhor pra voc\u00ea dan\u00e7ar. Foto: Kennto, YoungJhow, JoyFull",
+  "description": "A palavra do Senhor pra voc\u00ea dan\u00e7ar.",
   "name": "Balada Gospel",
   "tracks": [
     {
@@ -544,6 +544,28 @@
       "duration_ms": 152857,
       "name": "Dire\u00e7\u00e3o",
       "url": "https://open.spotify.com/track/18iieT0WuYbFskBwZ3FLyx"
+    },
+    {
+      "album": {
+        "name": "Dono da Minha Vida (Remix)",
+        "url": "https://open.spotify.com/album/48ZsZjU6GUlRuhv3n7u6cJ"
+      },
+      "artists": [
+        {
+          "name": "Dj Del Mag",
+          "url": "https://open.spotify.com/artist/2xUpGkJ8TAdUcbULBEP2S4"
+        },
+        {
+          "name": "Filipe Souza",
+          "url": "https://open.spotify.com/artist/7iVidqBbem4kPayKzk4h9z"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205714,
+      "name": "Dono da Minha Vida - Remix",
+      "url": "https://open.spotify.com/track/58HYGCF00P5MGm7ZtYQlcP"
     },
     {
       "album": {
@@ -1652,7 +1674,7 @@
       ],
       "date_added": "2023-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 226798,
       "name": "O Sonho N\u00e3o Acabou (Remix)",
       "url": "https://open.spotify.com/track/1ntfplj7r38AbtS5LiSjMS"
@@ -1983,6 +2005,36 @@
     },
     {
       "album": {
+        "name": "Se Pecado Fosse Bom (Slap House) [Remix]",
+        "url": "https://open.spotify.com/album/1cjPwLz4Ee9CG2Y5qs6Vd1"
+      },
+      "artists": [
+        {
+          "name": "DJ Emerson MK",
+          "url": "https://open.spotify.com/artist/4sOeEoCv8yEKQ5jl6UoffX"
+        },
+        {
+          "name": "Jacobnew",
+          "url": "https://open.spotify.com/artist/4iYksQazRciVcfz7EKjkHI"
+        },
+        {
+          "name": "DJ Mois\u00e9s",
+          "url": "https://open.spotify.com/artist/34GTvNHuHtAOPbp2P6oy3X"
+        },
+        {
+          "name": "Daniel Magalh\u00e3es",
+          "url": "https://open.spotify.com/artist/2LFKyFEKNnie6leoxFkvTo"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152812,
+      "name": "Se Pecado Fosse Bom (Slap House) - Remix",
+      "url": "https://open.spotify.com/track/5lNRFC6GJLtNIyZzu4TrKm"
+    },
+    {
+      "album": {
         "name": "Sobre Todo Nome",
         "url": "https://open.spotify.com/album/0IN2rCcGJsnjar5072ylVh"
       },
@@ -2178,7 +2230,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 165418,
       "name": "Tropa de Jesus Eletro",
       "url": "https://open.spotify.com/track/46lNXSFqlJWN4kS3s79Vdw"

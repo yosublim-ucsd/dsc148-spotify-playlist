@@ -1,12 +1,12 @@
 {
   "description": "A collection of the best Deathcore tracks, mixing recent and fresh new tracks. Cover: The Acacia Strain",
-  "num_followers": 117350,
+  "num_followers": 117599,
   "original_name": "Deathcore",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiMDQxYWNmNmQxODI3MWM5YmQwMWEzNGE5OWI2NjVmODE5NGVjZGJi",
+  "snapshot_id": "MCxhNTE1MDhiNzBjZmJiNDZiZTU0NDg2YjhjMzZkM2FiYmE0MTUyZWQ1",
   "tracks": [
     {
       "added_at": "2023-04-28 04:00:00",
@@ -387,18 +387,18 @@
     {
       "added_at": "2023-04-28 04:00:00",
       "album": {
-        "name": "Become the Hunter",
-        "url": "https://open.spotify.com/album/0TKibOiHotsM6d36cyepoC"
+        "name": "Sanctum",
+        "url": "https://open.spotify.com/album/0RyQZ62ByBc3nAIOTJqqFE"
       },
       "artists": [
         {
-          "name": "Suicide Silence",
-          "url": "https://open.spotify.com/artist/6HZr7Fs2VfV1PYHIwo8Ylc"
+          "name": "Angelmaker",
+          "url": "https://open.spotify.com/artist/1AdrYGYDz4oa9dvW2jfFrG"
         }
       ],
-      "duration_ms": 255033,
-      "name": "Love Me to Death",
-      "url": "https://open.spotify.com/track/30xWVpvct6LewWIHFEWHdn"
+      "duration_ms": 117906,
+      "name": "Gutless",
+      "url": "https://open.spotify.com/track/4NxyQN1Jc59dNeGsqYfmEo"
     },
     {
       "added_at": "2023-04-28 04:00:00",
@@ -419,18 +419,18 @@
     {
       "added_at": "2023-04-28 04:00:00",
       "album": {
-        "name": "Sanctum",
-        "url": "https://open.spotify.com/album/0RyQZ62ByBc3nAIOTJqqFE"
+        "name": "Become the Hunter",
+        "url": "https://open.spotify.com/album/0TKibOiHotsM6d36cyepoC"
       },
       "artists": [
         {
-          "name": "Angelmaker",
-          "url": "https://open.spotify.com/artist/1AdrYGYDz4oa9dvW2jfFrG"
+          "name": "Suicide Silence",
+          "url": "https://open.spotify.com/artist/6HZr7Fs2VfV1PYHIwo8Ylc"
         }
       ],
-      "duration_ms": 117906,
-      "name": "Gutless",
-      "url": "https://open.spotify.com/track/4NxyQN1Jc59dNeGsqYfmEo"
+      "duration_ms": 255033,
+      "name": "Love Me to Death",
+      "url": "https://open.spotify.com/track/30xWVpvct6LewWIHFEWHdn"
     },
     {
       "added_at": "2023-04-28 04:00:00",
@@ -583,6 +583,22 @@
     {
       "added_at": "2023-04-28 04:00:00",
       "album": {
+        "name": "Helix",
+        "url": "https://open.spotify.com/album/6Z63V1YXcM6JG7XyWDmevd"
+      },
+      "artists": [
+        {
+          "name": "Crystal Lake",
+          "url": "https://open.spotify.com/artist/0A7d0PJxaLO7CGI94ht6PX"
+        }
+      ],
+      "duration_ms": 312468,
+      "name": "Apollo",
+      "url": "https://open.spotify.com/track/6qZthmNcaK0jlrkMZ3khmy"
+    },
+    {
+      "added_at": "2023-04-28 04:00:00",
+      "album": {
         "name": "Death Below",
         "url": "https://open.spotify.com/album/7sgJqz584wJNJfJaC7S88U"
       },
@@ -599,22 +615,6 @@
       "duration_ms": 274826,
       "name": "The Abyss",
       "url": "https://open.spotify.com/track/26wx3uhieXjiQtsvZjCf6f"
-    },
-    {
-      "added_at": "2023-04-28 04:00:00",
-      "album": {
-        "name": "Helix",
-        "url": "https://open.spotify.com/album/6Z63V1YXcM6JG7XyWDmevd"
-      },
-      "artists": [
-        {
-          "name": "Crystal Lake",
-          "url": "https://open.spotify.com/artist/0A7d0PJxaLO7CGI94ht6PX"
-        }
-      ],
-      "duration_ms": 312468,
-      "name": "Apollo",
-      "url": "https://open.spotify.com/track/6qZthmNcaK0jlrkMZ3khmy"
     },
     {
       "added_at": "2023-04-28 04:00:00",
@@ -1107,22 +1107,6 @@
     {
       "added_at": "2023-04-28 04:00:00",
       "album": {
-        "name": "Dead Rabbit",
-        "url": "https://open.spotify.com/album/3pR1R0B0l1WVieIcjzBIz0"
-      },
-      "artists": [
-        {
-          "name": "Bodysnatcher",
-          "url": "https://open.spotify.com/artist/2tCl0ipvwJJRJLAuIGf6tm"
-        }
-      ],
-      "duration_ms": 191023,
-      "name": "Dead Rabbit",
-      "url": "https://open.spotify.com/track/3YQHk5o9uDDIBvTQ5tEKVl"
-    },
-    {
-      "added_at": "2023-04-28 04:00:00",
-      "album": {
         "name": "When a Demon Defiles a Witch",
         "url": "https://open.spotify.com/album/6S5iL3cTuKV9r56qEIlI7I"
       },
@@ -1135,6 +1119,22 @@
       "duration_ms": 284635,
       "name": "When a Demon Defiles a Witch",
       "url": "https://open.spotify.com/track/5TxPQCs5RQ1340581L36NX"
+    },
+    {
+      "added_at": "2023-04-28 04:00:00",
+      "album": {
+        "name": "Behind The Crowd",
+        "url": "https://open.spotify.com/album/2vnONzlyg4ITtYh4H8Z5oM"
+      },
+      "artists": [
+        {
+          "name": "Bodysnatcher",
+          "url": "https://open.spotify.com/artist/2tCl0ipvwJJRJLAuIGf6tm"
+        }
+      ],
+      "duration_ms": 194208,
+      "name": "Behind the Crowd",
+      "url": "https://open.spotify.com/track/09vdbE9riiqUAnS8RNSZ0z"
     },
     {
       "added_at": "2023-04-28 04:00:00",
@@ -1159,22 +1159,6 @@
     {
       "added_at": "2023-04-28 04:00:00",
       "album": {
-        "name": "Eulogy of Ashes",
-        "url": "https://open.spotify.com/album/6ONX9NbHxKJMPIbflN7Kff"
-      },
-      "artists": [
-        {
-          "name": "Vulvodynia",
-          "url": "https://open.spotify.com/artist/3Gqp4F4hxnfH2txPKU5J2J"
-        }
-      ],
-      "duration_ms": 243029,
-      "name": "Eulogy of Ashes",
-      "url": "https://open.spotify.com/track/2vC5N2LWZS6tW3bi7NvhS7"
-    },
-    {
-      "added_at": "2023-04-28 04:00:00",
-      "album": {
         "name": "Nu World Order",
         "url": "https://open.spotify.com/album/5SncXjPlJcoEXn40vPgHR6"
       },
@@ -1191,18 +1175,18 @@
     {
       "added_at": "2023-04-28 04:00:00",
       "album": {
-        "name": "Choky",
-        "url": "https://open.spotify.com/album/0daRza8EZVJvUaTC9JYkVl"
+        "name": "Eulogy of Ashes",
+        "url": "https://open.spotify.com/album/6ONX9NbHxKJMPIbflN7Kff"
       },
       "artists": [
         {
-          "name": "ten56.",
-          "url": "https://open.spotify.com/artist/28dpy0DQotTkBXcTlniQii"
+          "name": "Vulvodynia",
+          "url": "https://open.spotify.com/artist/3Gqp4F4hxnfH2txPKU5J2J"
         }
       ],
-      "duration_ms": 179876,
-      "name": "Choky",
-      "url": "https://open.spotify.com/track/5VIqmAis57fVSZ66761QHn"
+      "duration_ms": 243029,
+      "name": "Eulogy of Ashes",
+      "url": "https://open.spotify.com/track/2vC5N2LWZS6tW3bi7NvhS7"
     },
     {
       "added_at": "2023-04-28 04:00:00",
@@ -1219,22 +1203,6 @@
       "duration_ms": 291923,
       "name": "Obsidian",
       "url": "https://open.spotify.com/track/6seM27tkVi4mpADMxar5iL"
-    },
-    {
-      "added_at": "2023-04-28 04:00:00",
-      "album": {
-        "name": "Behind The Crowd",
-        "url": "https://open.spotify.com/album/2vnONzlyg4ITtYh4H8Z5oM"
-      },
-      "artists": [
-        {
-          "name": "Bodysnatcher",
-          "url": "https://open.spotify.com/artist/2tCl0ipvwJJRJLAuIGf6tm"
-        }
-      ],
-      "duration_ms": 194208,
-      "name": "Behind the Crowd",
-      "url": "https://open.spotify.com/track/09vdbE9riiqUAnS8RNSZ0z"
     },
     {
       "added_at": "2023-04-28 04:00:00",
@@ -1259,6 +1227,38 @@
     {
       "added_at": "2023-04-28 04:00:00",
       "album": {
+        "name": "A Bloodsoaked Symphony",
+        "url": "https://open.spotify.com/album/7vuXhdZaR7E4FZMgLX7Z7X"
+      },
+      "artists": [
+        {
+          "name": "Whitechapel",
+          "url": "https://open.spotify.com/artist/5274obTQJjzjyycRyJlfml"
+        }
+      ],
+      "duration_ms": 268283,
+      "name": "A Bloodsoaked Symphony",
+      "url": "https://open.spotify.com/track/2sgZkQnJUdBEKUX1F5s745"
+    },
+    {
+      "added_at": "2023-04-28 04:00:00",
+      "album": {
+        "name": "Choky",
+        "url": "https://open.spotify.com/album/0daRza8EZVJvUaTC9JYkVl"
+      },
+      "artists": [
+        {
+          "name": "ten56.",
+          "url": "https://open.spotify.com/artist/28dpy0DQotTkBXcTlniQii"
+        }
+      ],
+      "duration_ms": 179876,
+      "name": "Choky",
+      "url": "https://open.spotify.com/track/5VIqmAis57fVSZ66761QHn"
+    },
+    {
+      "added_at": "2023-04-28 04:00:00",
+      "album": {
         "name": "The Isnis",
         "url": "https://open.spotify.com/album/66VAnDCxYlO2FfiC4stGtG"
       },
@@ -1275,18 +1275,18 @@
     {
       "added_at": "2023-04-28 04:00:00",
       "album": {
-        "name": "A Bloodsoaked Symphony",
-        "url": "https://open.spotify.com/album/7vuXhdZaR7E4FZMgLX7Z7X"
+        "name": "Dead Rabbit",
+        "url": "https://open.spotify.com/album/3pR1R0B0l1WVieIcjzBIz0"
       },
       "artists": [
         {
-          "name": "Whitechapel",
-          "url": "https://open.spotify.com/artist/5274obTQJjzjyycRyJlfml"
+          "name": "Bodysnatcher",
+          "url": "https://open.spotify.com/artist/2tCl0ipvwJJRJLAuIGf6tm"
         }
       ],
-      "duration_ms": 268283,
-      "name": "A Bloodsoaked Symphony",
-      "url": "https://open.spotify.com/track/2sgZkQnJUdBEKUX1F5s745"
+      "duration_ms": 191023,
+      "name": "Dead Rabbit",
+      "url": "https://open.spotify.com/track/3YQHk5o9uDDIBvTQ5tEKVl"
     },
     {
       "added_at": "2023-04-28 04:00:00",
@@ -1343,22 +1343,6 @@
     {
       "added_at": "2023-04-28 04:00:00",
       "album": {
-        "name": "Downer",
-        "url": "https://open.spotify.com/album/2dVB4fFhkEEsRA4hkqyez5"
-      },
-      "artists": [
-        {
-          "name": "ten56.",
-          "url": "https://open.spotify.com/artist/28dpy0DQotTkBXcTlniQii"
-        }
-      ],
-      "duration_ms": 149000,
-      "name": "Traumadoll - Withdrawal Edition",
-      "url": "https://open.spotify.com/track/3twv46z3wIFAG3sKbOi8SO"
-    },
-    {
-      "added_at": "2023-04-28 04:00:00",
-      "album": {
         "name": "Miserable Summer",
         "url": "https://open.spotify.com/album/7cdW7W8dJBUoUoHuarLsb2"
       },
@@ -1391,6 +1375,38 @@
       "duration_ms": 171739,
       "name": "Good People",
       "url": "https://open.spotify.com/track/2MnbndVuZCfdfr913Ex2HU"
+    },
+    {
+      "added_at": "2023-04-28 04:00:00",
+      "album": {
+        "name": "End Of Existence",
+        "url": "https://open.spotify.com/album/69OWwAT3a244xtQhmHn16e"
+      },
+      "artists": [
+        {
+          "name": "The Browning",
+          "url": "https://open.spotify.com/artist/4DSNcg40nf6T3eNAObq1Lo"
+        }
+      ],
+      "duration_ms": 240823,
+      "name": "End Of Existence",
+      "url": "https://open.spotify.com/track/4PsJwwJP7I7rpK1dOnZeAQ"
+    },
+    {
+      "added_at": "2023-04-28 04:00:00",
+      "album": {
+        "name": "Downer",
+        "url": "https://open.spotify.com/album/2dVB4fFhkEEsRA4hkqyez5"
+      },
+      "artists": [
+        {
+          "name": "ten56.",
+          "url": "https://open.spotify.com/artist/28dpy0DQotTkBXcTlniQii"
+        }
+      ],
+      "duration_ms": 230390,
+      "name": "Boy",
+      "url": "https://open.spotify.com/track/1w0ZidtOTM9Jx5WNuPLE42"
     },
     {
       "added_at": "2023-05-01 16:06:30",
@@ -1427,38 +1443,6 @@
       "duration_ms": 223190,
       "name": "Befouler (feat. Alex Terrible)",
       "url": "https://open.spotify.com/track/0Lr0MHPtvyM6pGlfGX6ch5"
-    },
-    {
-      "added_at": "2023-04-28 04:00:00",
-      "album": {
-        "name": "Downer",
-        "url": "https://open.spotify.com/album/2dVB4fFhkEEsRA4hkqyez5"
-      },
-      "artists": [
-        {
-          "name": "ten56.",
-          "url": "https://open.spotify.com/artist/28dpy0DQotTkBXcTlniQii"
-        }
-      ],
-      "duration_ms": 230390,
-      "name": "Boy",
-      "url": "https://open.spotify.com/track/1w0ZidtOTM9Jx5WNuPLE42"
-    },
-    {
-      "added_at": "2023-04-28 04:00:00",
-      "album": {
-        "name": "End Of Existence",
-        "url": "https://open.spotify.com/album/69OWwAT3a244xtQhmHn16e"
-      },
-      "artists": [
-        {
-          "name": "The Browning",
-          "url": "https://open.spotify.com/artist/4DSNcg40nf6T3eNAObq1Lo"
-        }
-      ],
-      "duration_ms": 240823,
-      "name": "End Of Existence",
-      "url": "https://open.spotify.com/track/4PsJwwJP7I7rpK1dOnZeAQ"
     },
     {
       "added_at": "2023-04-28 04:00:00",
@@ -1511,6 +1495,22 @@
     {
       "added_at": "2023-04-28 04:00:00",
       "album": {
+        "name": "Downer",
+        "url": "https://open.spotify.com/album/2dVB4fFhkEEsRA4hkqyez5"
+      },
+      "artists": [
+        {
+          "name": "ten56.",
+          "url": "https://open.spotify.com/artist/28dpy0DQotTkBXcTlniQii"
+        }
+      ],
+      "duration_ms": 149000,
+      "name": "Traumadoll - Withdrawal Edition",
+      "url": "https://open.spotify.com/track/3twv46z3wIFAG3sKbOi8SO"
+    },
+    {
+      "added_at": "2023-04-28 04:00:00",
+      "album": {
         "name": "Axe Of Kindness",
         "url": "https://open.spotify.com/album/4zr1Sv0QdzOidHBxuStPh6"
       },
@@ -1539,22 +1539,6 @@
       "duration_ms": 241767,
       "name": "Rebirth",
       "url": "https://open.spotify.com/track/4dIoimQas4pY5JkvDF88B0"
-    },
-    {
-      "added_at": "2023-04-28 04:00:00",
-      "album": {
-        "name": "Stained In Rot",
-        "url": "https://open.spotify.com/album/7KFFVBoluljAYYKEYdLqSu"
-      },
-      "artists": [
-        {
-          "name": "Ov Sulfur",
-          "url": "https://open.spotify.com/artist/7DZ58DvASCdGxYBdET8fbC"
-        }
-      ],
-      "duration_ms": 254500,
-      "name": "Stained In Rot",
-      "url": "https://open.spotify.com/track/5omTf1GVagsjkhr0m79auk"
     },
     {
       "added_at": "2023-04-28 04:00:00",
@@ -1591,18 +1575,18 @@
     {
       "added_at": "2023-04-28 04:00:00",
       "album": {
-        "name": "OKKULT III",
-        "url": "https://open.spotify.com/album/0P9FUacYwUhFVLWE9MFZZy"
+        "name": "Stained In Rot",
+        "url": "https://open.spotify.com/album/7KFFVBoluljAYYKEYdLqSu"
       },
       "artists": [
         {
-          "name": "Atrocity",
-          "url": "https://open.spotify.com/artist/050NpEYZ5xFUS1BOAZjVmX"
+          "name": "Ov Sulfur",
+          "url": "https://open.spotify.com/artist/7DZ58DvASCdGxYBdET8fbC"
         }
       ],
-      "duration_ms": 234253,
-      "name": "Fire Ignites",
-      "url": "https://open.spotify.com/track/4JltaBp7RZYoDeNYQGbyiM"
+      "duration_ms": 254500,
+      "name": "Stained In Rot",
+      "url": "https://open.spotify.com/track/5omTf1GVagsjkhr0m79auk"
     },
     {
       "added_at": "2023-04-28 04:00:00",
@@ -1619,6 +1603,22 @@
       "duration_ms": 221810,
       "name": "Hellmouth",
       "url": "https://open.spotify.com/track/1w73E5RFnn02GBW4iZHuD6"
+    },
+    {
+      "added_at": "2023-04-28 04:00:00",
+      "album": {
+        "name": "OKKULT III",
+        "url": "https://open.spotify.com/album/0P9FUacYwUhFVLWE9MFZZy"
+      },
+      "artists": [
+        {
+          "name": "Atrocity",
+          "url": "https://open.spotify.com/artist/050NpEYZ5xFUS1BOAZjVmX"
+        }
+      ],
+      "duration_ms": 234253,
+      "name": "Fire Ignites",
+      "url": "https://open.spotify.com/track/4JltaBp7RZYoDeNYQGbyiM"
     },
     {
       "added_at": "2023-04-28 04:00:00",
@@ -1687,22 +1687,6 @@
     {
       "added_at": "2023-04-28 04:00:00",
       "album": {
-        "name": "Rot With Me",
-        "url": "https://open.spotify.com/album/3Su8dMEvhQi0XpOjiesqOz"
-      },
-      "artists": [
-        {
-          "name": "For the Likes of You",
-          "url": "https://open.spotify.com/artist/1IeBTpaPY7xQtxqbxXa9qC"
-        }
-      ],
-      "duration_ms": 286735,
-      "name": "Rot With Me",
-      "url": "https://open.spotify.com/track/19yntuiQGoYkKvhPTEPDf1"
-    },
-    {
-      "added_at": "2023-04-28 04:00:00",
-      "album": {
         "name": "Chainbreaker",
         "url": "https://open.spotify.com/album/6z2fHbf7Wvy93ZO4YN4H2B"
       },
@@ -1715,6 +1699,22 @@
       "duration_ms": 275807,
       "name": "Chainbreaker",
       "url": "https://open.spotify.com/track/7KkrCCOoddB1w1UvGhOZrD"
+    },
+    {
+      "added_at": "2023-04-28 04:00:00",
+      "album": {
+        "name": "Rot With Me",
+        "url": "https://open.spotify.com/album/3Su8dMEvhQi0XpOjiesqOz"
+      },
+      "artists": [
+        {
+          "name": "For the Likes of You",
+          "url": "https://open.spotify.com/artist/1IeBTpaPY7xQtxqbxXa9qC"
+        }
+      ],
+      "duration_ms": 286735,
+      "name": "Rot With Me",
+      "url": "https://open.spotify.com/track/19yntuiQGoYkKvhPTEPDf1"
     },
     {
       "added_at": "2023-04-28 04:00:00",
@@ -2051,22 +2051,6 @@
     {
       "added_at": "2023-04-28 04:00:00",
       "album": {
-        "name": "The Last Ten Seconds of Life",
-        "url": "https://open.spotify.com/album/4lS0MNSLmDWM7Kv8wlnyEq"
-      },
-      "artists": [
-        {
-          "name": "The Last Ten Seconds of Life",
-          "url": "https://open.spotify.com/artist/3AESf0xMv9HSc3svVqypnY"
-        }
-      ],
-      "duration_ms": 304440,
-      "name": "Glory Be 2 Misery",
-      "url": "https://open.spotify.com/track/7a4Auzmlt3QDFZbkm1njFw"
-    },
-    {
-      "added_at": "2023-04-28 04:00:00",
-      "album": {
         "name": "In Tenebris",
         "url": "https://open.spotify.com/album/49jAEdf2aGWuzk4v0eNm4L"
       },
@@ -2079,6 +2063,22 @@
       "duration_ms": 256788,
       "name": "In Tenebris",
       "url": "https://open.spotify.com/track/0d0ECn7EN2uaczZyPSvbyx"
+    },
+    {
+      "added_at": "2023-04-28 04:00:00",
+      "album": {
+        "name": "The Last Ten Seconds of Life",
+        "url": "https://open.spotify.com/album/4lS0MNSLmDWM7Kv8wlnyEq"
+      },
+      "artists": [
+        {
+          "name": "The Last Ten Seconds of Life",
+          "url": "https://open.spotify.com/artist/3AESf0xMv9HSc3svVqypnY"
+        }
+      ],
+      "duration_ms": 304440,
+      "name": "Glory Be 2 Misery",
+      "url": "https://open.spotify.com/track/7a4Auzmlt3QDFZbkm1njFw"
     },
     {
       "added_at": "2023-04-28 04:00:00",

@@ -1,12 +1,12 @@
 {
   "description": "Para ahogar las penas en el fondo de una botella.",
-  "num_followers": 101489,
+  "num_followers": 101654,
   "original_name": "Rancheras, Despecho & Licor",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjM2U2OTZkZDk1YzFmZTk4OTEzOGQyOWRhOWY2NzU2Nzk1M2IzMGVi",
+  "snapshot_id": "MCxmODIzODNjMTk2YzU5MjU0OGNjMGI0ZDJlNGZkNjBmZjEzMWUzOGU4",
   "tracks": [
     {
       "added_at": "2023-04-14 06:00:00",
@@ -695,22 +695,6 @@
     {
       "added_at": "2023-04-14 06:00:00",
       "album": {
-        "name": "Mexicano Hasta Las Pampas",
-        "url": "https://open.spotify.com/album/7KIEEuRTgrJIFx6U1e0X3q"
-      },
-      "artists": [
-        {
-          "name": "Diego Verdaguer",
-          "url": "https://open.spotify.com/artist/2UFqwY8A3PLcx8pAkg9g5P"
-        }
-      ],
-      "duration_ms": 174157,
-      "name": "Voy A Conquistarte",
-      "url": "https://open.spotify.com/track/3ykJeceAqPKiwnFPpzUNUq"
-    },
-    {
-      "added_at": "2023-04-14 06:00:00",
-      "album": {
         "name": "Por Mujeres Como T\u00fa",
         "url": "https://open.spotify.com/album/1i8KV89uJq08T3MTNEELgL"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 200480,
       "name": "Directo Al Coraz\u00f3n",
       "url": "https://open.spotify.com/track/659B2PbbBVtPwJh5QkB1WB"
+    },
+    {
+      "added_at": "2023-04-14 06:00:00",
+      "album": {
+        "name": "Mexicano Hasta Las Pampas",
+        "url": "https://open.spotify.com/album/7KIEEuRTgrJIFx6U1e0X3q"
+      },
+      "artists": [
+        {
+          "name": "Diego Verdaguer",
+          "url": "https://open.spotify.com/artist/2UFqwY8A3PLcx8pAkg9g5P"
+        }
+      ],
+      "duration_ms": 174157,
+      "name": "Voy A Conquistarte",
+      "url": "https://open.spotify.com/track/3ykJeceAqPKiwnFPpzUNUq"
     },
     {
       "added_at": "2023-04-14 06:00:00",
@@ -831,22 +831,6 @@
     {
       "added_at": "2023-04-14 06:00:00",
       "album": {
-        "name": "Mexicano Hasta Las Pampas",
-        "url": "https://open.spotify.com/album/7KIEEuRTgrJIFx6U1e0X3q"
-      },
-      "artists": [
-        {
-          "name": "Diego Verdaguer",
-          "url": "https://open.spotify.com/artist/2UFqwY8A3PLcx8pAkg9g5P"
-        }
-      ],
-      "duration_ms": 213863,
-      "name": "Qui\u00e9n De Los Dos Ser\u00e1",
-      "url": "https://open.spotify.com/track/66veRqqrxhfa1Q9088RmPS"
-    },
-    {
-      "added_at": "2023-04-14 06:00:00",
-      "album": {
         "name": "Me Bebi Tu Recuerdo",
         "url": "https://open.spotify.com/album/3th8wWPqpBjw4pzGuf0OqS"
       },
@@ -931,6 +915,22 @@
       "duration_ms": 166920,
       "name": "En Este Amor",
       "url": "https://open.spotify.com/track/4f5oH6SMKbWnsxjznuuYAJ"
+    },
+    {
+      "added_at": "2023-04-14 06:00:00",
+      "album": {
+        "name": "Mexicano Hasta Las Pampas",
+        "url": "https://open.spotify.com/album/7KIEEuRTgrJIFx6U1e0X3q"
+      },
+      "artists": [
+        {
+          "name": "Diego Verdaguer",
+          "url": "https://open.spotify.com/artist/2UFqwY8A3PLcx8pAkg9g5P"
+        }
+      ],
+      "duration_ms": 213863,
+      "name": "Qui\u00e9n De Los Dos Ser\u00e1",
+      "url": "https://open.spotify.com/track/66veRqqrxhfa1Q9088RmPS"
     },
     {
       "added_at": "2023-04-14 06:00:00",
@@ -1631,6 +1631,22 @@
     {
       "added_at": "2023-04-14 06:00:00",
       "album": {
+        "name": "Grandes Exitos",
+        "url": "https://open.spotify.com/album/7fae9p1hEjCjUiY7P6VZBS"
+      },
+      "artists": [
+        {
+          "name": "Fernando Burbano",
+          "url": "https://open.spotify.com/artist/23nWkdjjAlopi1pF5KwrD6"
+        }
+      ],
+      "duration_ms": 211121,
+      "name": "Ahora Que Puedo",
+      "url": "https://open.spotify.com/track/5ydlSsuMpaqmEg2wKPBe9E"
+    },
+    {
+      "added_at": "2023-04-14 06:00:00",
+      "album": {
         "name": "Alquimia",
         "url": "https://open.spotify.com/album/3qjKFqjicRz4kDPbWb8QWq"
       },
@@ -1647,22 +1663,6 @@
       "duration_ms": 201200,
       "name": "Una Llamada Perdida",
       "url": "https://open.spotify.com/track/1seKHgwXPVAK9o6bh7IzlF"
-    },
-    {
-      "added_at": "2023-04-14 06:00:00",
-      "album": {
-        "name": "Grandes Exitos",
-        "url": "https://open.spotify.com/album/7fae9p1hEjCjUiY7P6VZBS"
-      },
-      "artists": [
-        {
-          "name": "Fernando Burbano",
-          "url": "https://open.spotify.com/artist/23nWkdjjAlopi1pF5KwrD6"
-        }
-      ],
-      "duration_ms": 211121,
-      "name": "Ahora Que Puedo",
-      "url": "https://open.spotify.com/track/5ydlSsuMpaqmEg2wKPBe9E"
     },
     {
       "added_at": "2023-04-14 06:00:00",

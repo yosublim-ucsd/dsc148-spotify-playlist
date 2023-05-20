@@ -1,12 +1,12 @@
 {
   "description": "M\u00edstico y amaz\u00f3nico... Este es el sonido de latinoam\u00e9rica. Foto: DNGDNGDNG",
-  "num_followers": 345612,
+  "num_followers": 345718,
   "original_name": "El\u00e9ctrica Selv\u00e1tica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1ZGZhOGQ4OTE1ZGQ3ODQ1Mjg0MTdlNWYyZjUxZTAwNDIzMmFmYTUx",
+  "snapshot_id": "MCwwYzRjYTg0NjBlMjM1ODcwMzViZjUxZTYzYjE0MTEwNTk0ZjJjYjc3",
   "tracks": [
     {
       "added_at": "2023-02-13 21:09:56",
@@ -103,22 +103,18 @@
     {
       "added_at": "2023-02-13 21:09:56",
       "album": {
-        "name": "6",
-        "url": "https://open.spotify.com/album/5T31xBzocjWeu9JDn4Sinj"
+        "name": "Cenotes (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2csqCLKSFPUCpQhL5i9YNr"
       },
       "artists": [
         {
-          "name": "CERO39",
-          "url": "https://open.spotify.com/artist/1B6UFfDLZPbLl1rpOmHmi0"
-        },
-        {
-          "name": "Mula",
-          "url": "https://open.spotify.com/artist/7bWZkUZ5drGDoGAFhGoYGE"
+          "name": "El B\u00faho",
+          "url": "https://open.spotify.com/artist/1I7FVmvisCtSFzmm87mbLR"
         }
       ],
-      "duration_ms": 219600,
-      "name": "Hipn\u00f3tico",
-      "url": "https://open.spotify.com/track/7kNUjyZQ1YWN1Nv4JvTaiD"
+      "duration_ms": 240000,
+      "name": "Ma\u00f1ana Tepotzlan",
+      "url": "https://open.spotify.com/track/0VusRPgveKAqVuCMKScGWp"
     },
     {
       "added_at": "2023-02-13 21:09:56",
@@ -143,18 +139,22 @@
     {
       "added_at": "2023-02-13 21:09:56",
       "album": {
-        "name": "Cenotes (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/2csqCLKSFPUCpQhL5i9YNr"
+        "name": "6",
+        "url": "https://open.spotify.com/album/5T31xBzocjWeu9JDn4Sinj"
       },
       "artists": [
         {
-          "name": "El B\u00faho",
-          "url": "https://open.spotify.com/artist/1I7FVmvisCtSFzmm87mbLR"
+          "name": "CERO39",
+          "url": "https://open.spotify.com/artist/1B6UFfDLZPbLl1rpOmHmi0"
+        },
+        {
+          "name": "Mula",
+          "url": "https://open.spotify.com/artist/7bWZkUZ5drGDoGAFhGoYGE"
         }
       ],
-      "duration_ms": 240000,
-      "name": "Ma\u00f1ana Tepotzlan",
-      "url": "https://open.spotify.com/track/0VusRPgveKAqVuCMKScGWp"
+      "duration_ms": 219600,
+      "name": "Hipn\u00f3tico",
+      "url": "https://open.spotify.com/track/7kNUjyZQ1YWN1Nv4JvTaiD"
     },
     {
       "added_at": "2023-02-13 21:09:56",
@@ -431,26 +431,6 @@
     {
       "added_at": "2023-02-13 21:09:56",
       "album": {
-        "name": "Aurora Remixed",
-        "url": "https://open.spotify.com/album/7rEvRh1tkLQSNDA4PvHDRb"
-      },
-      "artists": [
-        {
-          "name": "Minuk",
-          "url": "https://open.spotify.com/artist/5IIGsnZbpoR1ONGK1fRumn"
-        },
-        {
-          "name": "El B\u00faho",
-          "url": "https://open.spotify.com/artist/1I7FVmvisCtSFzmm87mbLR"
-        }
-      ],
-      "duration_ms": 254163,
-      "name": "Pura Flor (El B\u00faho Remix)",
-      "url": "https://open.spotify.com/track/3R5PROPl0zd9GsmCNYtZNv"
-    },
-    {
-      "added_at": "2023-02-13 21:09:56",
-      "album": {
         "name": "Azulejos",
         "url": "https://open.spotify.com/album/1hpTHSEosXRl8z47mcRL2J"
       },
@@ -471,38 +451,6 @@
     {
       "added_at": "2023-02-13 21:09:56",
       "album": {
-        "name": "Amansara",
-        "url": "https://open.spotify.com/album/7KJruqiZwhVmnfW3CfvIPu"
-      },
-      "artists": [
-        {
-          "name": "Chancha Via Circuito",
-          "url": "https://open.spotify.com/artist/6E8vZ5lkpXbXlkgHhbVJSl"
-        }
-      ],
-      "duration_ms": 286000,
-      "name": "Jardines",
-      "url": "https://open.spotify.com/track/55Y0gGl9GkNWcEMSLIQwFE"
-    },
-    {
-      "added_at": "2023-02-13 21:09:56",
-      "album": {
-        "name": "Tropic of Tulli",
-        "url": "https://open.spotify.com/album/7CAafJQeHEftsjYQmTkxS9"
-      },
-      "artists": [
-        {
-          "name": "Maajo",
-          "url": "https://open.spotify.com/artist/1CHnBSP2xS4bRyHRenc5aO"
-        }
-      ],
-      "duration_ms": 546282,
-      "name": "Maajo",
-      "url": "https://open.spotify.com/track/4P4dZe0rLvLIHZOCvRr67b"
-    },
-    {
-      "added_at": "2023-02-13 21:09:56",
-      "album": {
         "name": "Escape Plan",
         "url": "https://open.spotify.com/album/1rbwWcHllLmjWUjODSKV4Y"
       },
@@ -519,6 +467,58 @@
       "duration_ms": 221925,
       "name": "Mama Clo",
       "url": "https://open.spotify.com/track/1yOhCkYRiXZF8eB4JhJvx5"
+    },
+    {
+      "added_at": "2023-02-13 21:09:56",
+      "album": {
+        "name": "Amansara",
+        "url": "https://open.spotify.com/album/7KJruqiZwhVmnfW3CfvIPu"
+      },
+      "artists": [
+        {
+          "name": "Chancha Via Circuito",
+          "url": "https://open.spotify.com/artist/6E8vZ5lkpXbXlkgHhbVJSl"
+        }
+      ],
+      "duration_ms": 286000,
+      "name": "Jardines",
+      "url": "https://open.spotify.com/track/55Y0gGl9GkNWcEMSLIQwFE"
+    },
+    {
+      "added_at": "2023-02-13 21:09:56",
+      "album": {
+        "name": "Aurora Remixed",
+        "url": "https://open.spotify.com/album/7rEvRh1tkLQSNDA4PvHDRb"
+      },
+      "artists": [
+        {
+          "name": "Minuk",
+          "url": "https://open.spotify.com/artist/5IIGsnZbpoR1ONGK1fRumn"
+        },
+        {
+          "name": "El B\u00faho",
+          "url": "https://open.spotify.com/artist/1I7FVmvisCtSFzmm87mbLR"
+        }
+      ],
+      "duration_ms": 254163,
+      "name": "Pura Flor (El B\u00faho Remix)",
+      "url": "https://open.spotify.com/track/3R5PROPl0zd9GsmCNYtZNv"
+    },
+    {
+      "added_at": "2023-02-13 21:09:56",
+      "album": {
+        "name": "Tropic of Tulli",
+        "url": "https://open.spotify.com/album/7CAafJQeHEftsjYQmTkxS9"
+      },
+      "artists": [
+        {
+          "name": "Maajo",
+          "url": "https://open.spotify.com/artist/1CHnBSP2xS4bRyHRenc5aO"
+        }
+      ],
+      "duration_ms": 546282,
+      "name": "Maajo",
+      "url": "https://open.spotify.com/track/4P4dZe0rLvLIHZOCvRr67b"
     },
     {
       "added_at": "2023-02-13 21:09:56",
@@ -555,6 +555,22 @@
     {
       "added_at": "2023-02-13 21:09:56",
       "album": {
+        "name": "Shika Shika / Botanas, Vol. 15",
+        "url": "https://open.spotify.com/album/3j77K4QCAKPo65lXnbDBY6"
+      },
+      "artists": [
+        {
+          "name": "Karen y Los Remedios",
+          "url": "https://open.spotify.com/artist/6uSvvhlipeAh7lrqB9VTmv"
+        }
+      ],
+      "duration_ms": 249518,
+      "name": "Canario",
+      "url": "https://open.spotify.com/track/0hwT9RqvbkUH222D48PsxJ"
+    },
+    {
+      "added_at": "2023-02-13 21:09:56",
+      "album": {
         "name": "B\u00faho",
         "url": "https://open.spotify.com/album/5LNivPzS2smPjnunOBwKuX"
       },
@@ -583,42 +599,6 @@
       "duration_ms": 210731,
       "name": "Bogot\u00e1",
       "url": "https://open.spotify.com/track/0OUM4ALGSMsPcQB56RFpd9"
-    },
-    {
-      "added_at": "2023-02-13 21:09:56",
-      "album": {
-        "name": "Shika Shika / Botanas, Vol. 15",
-        "url": "https://open.spotify.com/album/3j77K4QCAKPo65lXnbDBY6"
-      },
-      "artists": [
-        {
-          "name": "Karen y Los Remedios",
-          "url": "https://open.spotify.com/artist/6uSvvhlipeAh7lrqB9VTmv"
-        }
-      ],
-      "duration_ms": 249518,
-      "name": "Canario",
-      "url": "https://open.spotify.com/track/0hwT9RqvbkUH222D48PsxJ"
-    },
-    {
-      "added_at": "2023-02-13 21:09:56",
-      "album": {
-        "name": "Astral",
-        "url": "https://open.spotify.com/album/11nP1vIstTbouhN9NoaTmh"
-      },
-      "artists": [
-        {
-          "name": "Landikhan",
-          "url": "https://open.spotify.com/artist/6kLrAuoxxTyDRY3k9Je0bp"
-        },
-        {
-          "name": "Ni\u00f1a indigo",
-          "url": "https://open.spotify.com/artist/1EdZzDjs8Eur5LonUz59s9"
-        }
-      ],
-      "duration_ms": 348887,
-      "name": "Astral",
-      "url": "https://open.spotify.com/track/1H6ul0f4lJyhON3QXzoWf4"
     },
     {
       "added_at": "2023-02-13 21:09:56",
@@ -667,6 +647,26 @@
       "duration_ms": 218626,
       "name": "Ghost Dance",
       "url": "https://open.spotify.com/track/4URufx3KgL7QH8RTYgGmzD"
+    },
+    {
+      "added_at": "2023-02-13 21:09:56",
+      "album": {
+        "name": "Astral",
+        "url": "https://open.spotify.com/album/11nP1vIstTbouhN9NoaTmh"
+      },
+      "artists": [
+        {
+          "name": "Landikhan",
+          "url": "https://open.spotify.com/artist/6kLrAuoxxTyDRY3k9Je0bp"
+        },
+        {
+          "name": "Ni\u00f1a indigo",
+          "url": "https://open.spotify.com/artist/1EdZzDjs8Eur5LonUz59s9"
+        }
+      ],
+      "duration_ms": 348887,
+      "name": "Astral",
+      "url": "https://open.spotify.com/track/1H6ul0f4lJyhON3QXzoWf4"
     },
     {
       "added_at": "2023-02-13 21:09:56",
@@ -907,26 +907,6 @@
     {
       "added_at": "2023-02-13 21:09:56",
       "album": {
-        "name": "Bleu de lune (El Buho Remix)",
-        "url": "https://open.spotify.com/album/1NB4UnMNf4SOXCY7iIIdyZ"
-      },
-      "artists": [
-        {
-          "name": "Zoufris Maracas",
-          "url": "https://open.spotify.com/artist/2aW5pvTZYAAZxbh75uVzZD"
-        },
-        {
-          "name": "El B\u00faho",
-          "url": "https://open.spotify.com/artist/1I7FVmvisCtSFzmm87mbLR"
-        }
-      ],
-      "duration_ms": 281100,
-      "name": "Bleu de lune (El Buho Remix)",
-      "url": "https://open.spotify.com/track/4FKT3e93KFlXf5KBh715EV"
-    },
-    {
-      "added_at": "2023-02-13 21:09:56",
-      "album": {
         "name": "Shika Shika Presents Eco",
         "url": "https://open.spotify.com/album/09Hnfjh6xV41cCJahc0PHG"
       },
@@ -943,6 +923,26 @@
       "duration_ms": 332830,
       "name": "Paso Por El Fuego",
       "url": "https://open.spotify.com/track/5h9Tbkweollk1sCg5lX3Vs"
+    },
+    {
+      "added_at": "2023-02-13 21:09:56",
+      "album": {
+        "name": "Bleu de lune (El Buho Remix)",
+        "url": "https://open.spotify.com/album/1NB4UnMNf4SOXCY7iIIdyZ"
+      },
+      "artists": [
+        {
+          "name": "Zoufris Maracas",
+          "url": "https://open.spotify.com/artist/2aW5pvTZYAAZxbh75uVzZD"
+        },
+        {
+          "name": "El B\u00faho",
+          "url": "https://open.spotify.com/artist/1I7FVmvisCtSFzmm87mbLR"
+        }
+      ],
+      "duration_ms": 281100,
+      "name": "Bleu de lune (El Buho Remix)",
+      "url": "https://open.spotify.com/track/4FKT3e93KFlXf5KBh715EV"
     },
     {
       "added_at": "2023-02-13 21:09:56",

@@ -1,12 +1,12 @@
 {
   "description": "dressing for in the desert. Cover: Rae Sremmurd",
-  "num_followers": 504045,
+  "num_followers": 504133,
   "original_name": "'fit check",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2ZjkyODUzZDRkMmU5MDdiMDg1ZWQ4OWZhNTk2YzlhMDczYmJjNjQz",
+  "snapshot_id": "MCwyNDNlNTBkMDA1Y2FkNThlZjBjZTA2MzRlNGE3ODkxZmY0MDM1MjJh",
   "tracks": [
     {
       "added_at": "2023-04-21 19:48:21",
@@ -43,6 +43,58 @@
     {
       "added_at": "2023-04-21 19:48:21",
       "album": {
+        "name": "Red Moon In Venus",
+        "url": "https://open.spotify.com/album/5OZ44LaqZbpP3m9B3oT8br"
+      },
+      "artists": [
+        {
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+        }
+      ],
+      "duration_ms": 219954,
+      "name": "I Wish you Roses",
+      "url": "https://open.spotify.com/track/35SbrfbaSpGUBX7e5BPega"
+    },
+    {
+      "added_at": "2023-04-21 19:48:21",
+      "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/5XqEf16OrHdmMoNS1b6WDg"
+      },
+      "artists": [
+        {
+          "name": "The Notorious B.I.G.",
+          "url": "https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb"
+        }
+      ],
+      "duration_ms": 230000,
+      "name": "Hypnotize - 2007 Remaster",
+      "url": "https://open.spotify.com/track/6Tsu3OsuMz4KEGKbOYd6A0"
+    },
+    {
+      "added_at": "2023-05-19 18:59:00",
+      "album": {
+        "name": "I Can't Wait",
+        "url": "https://open.spotify.com/album/2aWH1TBFvdbwGXXic7bqE7"
+      },
+      "artists": [
+        {
+          "name": "TiaCorine",
+          "url": "https://open.spotify.com/artist/39i5B6umzWzkfMe12JrMwW"
+        },
+        {
+          "name": "Tony Shhnow",
+          "url": "https://open.spotify.com/artist/6w1PsA3Lux2vlfaymj66w8"
+        }
+      ],
+      "duration_ms": 181170,
+      "name": "Boogie (feat. Tony Shhnow)",
+      "url": "https://open.spotify.com/track/6YtF0BZzddOW1P9seEJhrr"
+    },
+    {
+      "added_at": "2023-04-21 19:48:21",
+      "album": {
         "name": "4EVA (feat. Pharrell Williams)",
         "url": "https://open.spotify.com/album/3unS7dpXcZ0MmNBDkp5Hqx"
       },
@@ -67,22 +119,6 @@
       "duration_ms": 190373,
       "name": "4EVA (feat. Pharrell Williams)",
       "url": "https://open.spotify.com/track/3CblJq8QQQ0bb7vwJu8c3v"
-    },
-    {
-      "added_at": "2023-04-21 19:48:21",
-      "album": {
-        "name": "Red Moon In Venus",
-        "url": "https://open.spotify.com/album/5OZ44LaqZbpP3m9B3oT8br"
-      },
-      "artists": [
-        {
-          "name": "Kali Uchis",
-          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
-        }
-      ],
-      "duration_ms": 219954,
-      "name": "I Wish you Roses",
-      "url": "https://open.spotify.com/track/35SbrfbaSpGUBX7e5BPega"
     },
     {
       "added_at": "2023-04-21 19:48:21",
@@ -159,6 +195,34 @@
     {
       "added_at": "2023-04-21 19:48:21",
       "album": {
+        "name": "College Park",
+        "url": "https://open.spotify.com/album/57T1flhMpfjP4T4yW38qW0"
+      },
+      "artists": [
+        {
+          "name": "Logic",
+          "url": "https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L"
+        },
+        {
+          "name": "Seth MacFarlane",
+          "url": "https://open.spotify.com/artist/79D4dipwR6scV8AN3dm7gW"
+        },
+        {
+          "name": "Redman",
+          "url": "https://open.spotify.com/artist/7xTKLpo7UCzXSnlH7fOIoM"
+        },
+        {
+          "name": "Statik Selektah",
+          "url": "https://open.spotify.com/artist/5v0XTlB9FqNvfBfnw8n5b0"
+        }
+      ],
+      "duration_ms": 315102,
+      "name": "Self Medication (feat. Seth MacFarlane, Redman, & Statik Selektah)",
+      "url": "https://open.spotify.com/track/5E4mQ2mXblbeuI4tefnMZG"
+    },
+    {
+      "added_at": "2023-04-21 19:48:21",
+      "album": {
         "name": "bbq",
         "url": "https://open.spotify.com/album/0Vk3buSg00AcSP3vv0cBEG"
       },
@@ -175,18 +239,34 @@
     {
       "added_at": "2023-04-21 19:48:21",
       "album": {
-        "name": "FORWARD",
-        "url": "https://open.spotify.com/album/367frJ4GG9UMlXlMrVanYL"
+        "name": "An Evening With Silk Sonic",
+        "url": "https://open.spotify.com/album/4VZ7jhV0wHpoNPCB7Vmiml"
       },
       "artists": [
         {
-          "name": "Jordan Ward",
-          "url": "https://open.spotify.com/artist/3DGlTwdM5Dim9XQipb3jMf"
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        },
+        {
+          "name": "Anderson .Paak",
+          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
+        },
+        {
+          "name": "Silk Sonic",
+          "url": "https://open.spotify.com/artist/6PvvGcCY2XtUcSRld1Wilr"
+        },
+        {
+          "name": "Thundercat",
+          "url": "https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw"
+        },
+        {
+          "name": "Bootsy Collins",
+          "url": "https://open.spotify.com/artist/5K0rbdBrs2tNXe5LeWMATT"
         }
       ],
-      "duration_ms": 158133,
-      "name": "FAMJAM4000",
-      "url": "https://open.spotify.com/track/08vlprFBmwh9TQnjXUtZDG"
+      "duration_ms": 249444,
+      "name": "After Last Night (with Thundercat & Bootsy Collins)",
+      "url": "https://open.spotify.com/track/6jGAh1bFnXt1Muj9zeHveZ"
     },
     {
       "added_at": "2023-04-21 19:48:21",
@@ -263,6 +343,22 @@
     {
       "added_at": "2023-04-21 19:48:21",
       "album": {
+        "name": "BEST INTEREST",
+        "url": "https://open.spotify.com/album/5iUwaD3wFVwfaAfs9Z0eCh"
+      },
+      "artists": [
+        {
+          "name": "Tyler, The Creator",
+          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
+        }
+      ],
+      "duration_ms": 127921,
+      "name": "BEST INTEREST",
+      "url": "https://open.spotify.com/track/3jHdKaLCkuNEkWcLVmQPCX"
+    },
+    {
+      "added_at": "2023-04-21 19:48:21",
+      "album": {
         "name": "I Know",
         "url": "https://open.spotify.com/album/6MxC0Icp2DZi0jbzvD4M8Z"
       },
@@ -277,20 +373,24 @@
       "url": "https://open.spotify.com/track/2RkMSIqUdveO3p8KVpYBYI"
     },
     {
-      "added_at": "2023-04-21 19:48:21",
+      "added_at": "2023-05-19 18:59:00",
       "album": {
-        "name": "10,000 gecs",
-        "url": "https://open.spotify.com/album/2XS5McKf3zdJWpcZ4OkZPZ"
+        "name": "Big Steppa",
+        "url": "https://open.spotify.com/album/6KkO7DMw7kEmjD4sxi5Dyv"
       },
       "artists": [
         {
-          "name": "100 gecs",
-          "url": "https://open.spotify.com/artist/6PfSUFtkMVoDkx4MQkzOi3"
+          "name": "SWIM",
+          "url": "https://open.spotify.com/artist/6Dj8wAnffq2dTvObHVLIdB"
+        },
+        {
+          "name": "grouptherapy.",
+          "url": "https://open.spotify.com/artist/70KxgbZNsd9xOttXW67mh3"
         }
       ],
-      "duration_ms": 155800,
-      "name": "The Most Wanted Person In The United States",
-      "url": "https://open.spotify.com/track/3txrp0QdO0wiF4yqiofzJv"
+      "duration_ms": 205226,
+      "name": "Big Steppa",
+      "url": "https://open.spotify.com/track/0aZ8t7DIZisXGdRrLupGKB"
     },
     {
       "added_at": "2023-04-21 19:48:21",
@@ -319,26 +419,6 @@
     {
       "added_at": "2023-04-21 19:48:21",
       "album": {
-        "name": "Mess Around (feat. EARTHGANG)",
-        "url": "https://open.spotify.com/album/2uykIyf5aQOuwSfpfEo8zL"
-      },
-      "artists": [
-        {
-          "name": "Forest Claudette",
-          "url": "https://open.spotify.com/artist/4d26k6BPR9MhZyTj3g5yEM"
-        },
-        {
-          "name": "EARTHGANG",
-          "url": "https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V"
-        }
-      ],
-      "duration_ms": 230557,
-      "name": "Mess Around (feat. EARTHGANG)",
-      "url": "https://open.spotify.com/track/2ug9Wg4LgcyBDirbl6mgvP"
-    },
-    {
-      "added_at": "2023-04-21 19:48:21",
-      "album": {
         "name": "CALL ME IF YOU GET LOST: The Estate Sale",
         "url": "https://open.spotify.com/album/1GG6U2SSJPHO6XsFiBzxYv"
       },
@@ -351,34 +431,6 @@
       "duration_ms": 230554,
       "name": "HEAVEN TO ME",
       "url": "https://open.spotify.com/track/4Z1ZlABSKDlVByJL3y5OVs"
-    },
-    {
-      "added_at": "2023-04-21 19:48:21",
-      "album": {
-        "name": "College Park",
-        "url": "https://open.spotify.com/album/57T1flhMpfjP4T4yW38qW0"
-      },
-      "artists": [
-        {
-          "name": "Logic",
-          "url": "https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L"
-        },
-        {
-          "name": "Seth MacFarlane",
-          "url": "https://open.spotify.com/artist/79D4dipwR6scV8AN3dm7gW"
-        },
-        {
-          "name": "Redman",
-          "url": "https://open.spotify.com/artist/7xTKLpo7UCzXSnlH7fOIoM"
-        },
-        {
-          "name": "Statik Selektah",
-          "url": "https://open.spotify.com/artist/5v0XTlB9FqNvfBfnw8n5b0"
-        }
-      ],
-      "duration_ms": 315102,
-      "name": "Self Medication (feat. Seth MacFarlane, Redman, & Statik Selektah)",
-      "url": "https://open.spotify.com/track/5E4mQ2mXblbeuI4tefnMZG"
     },
     {
       "added_at": "2023-04-21 19:48:21",
@@ -449,6 +501,22 @@
       "url": "https://open.spotify.com/track/1Dt6sLHeMKlUY9BYbnsSmK"
     },
     {
+      "added_at": "2023-05-19 18:59:00",
+      "album": {
+        "name": "Hi-Fidelity",
+        "url": "https://open.spotify.com/album/2CmNKE3L1M7OiYmZLSLycB"
+      },
+      "artists": [
+        {
+          "name": "Lava La Rue",
+          "url": "https://open.spotify.com/artist/271bbpX3pdCi56ZJA1jQ43"
+        }
+      ],
+      "duration_ms": 219506,
+      "name": "Dont Trip",
+      "url": "https://open.spotify.com/track/4ptHmGn2R8D5nPDZcASfuQ"
+    },
+    {
       "added_at": "2023-04-21 19:48:21",
       "album": {
         "name": "channel ORANGE",
@@ -483,6 +551,22 @@
       "duration_ms": 142720,
       "name": "Conveniency",
       "url": "https://open.spotify.com/track/0hneE3CWTOFd9PC3qKfJcU"
+    },
+    {
+      "added_at": "2023-05-19 18:59:00",
+      "album": {
+        "name": "VF VOL II",
+        "url": "https://open.spotify.com/album/7AXixkDgPe0WxaVuwD4qT1"
+      },
+      "artists": [
+        {
+          "name": "Sam Gellaitry",
+          "url": "https://open.spotify.com/artist/07UJz804RJxqNvxFXC3h9H"
+        }
+      ],
+      "duration_ms": 212379,
+      "name": "INTERTWINE",
+      "url": "https://open.spotify.com/track/35tlXmLyuczxvxdLiQfpNu"
     },
     {
       "added_at": "2023-04-21 19:48:21",
@@ -523,22 +607,6 @@
     {
       "added_at": "2023-04-21 19:48:21",
       "album": {
-        "name": "BEST INTEREST",
-        "url": "https://open.spotify.com/album/5iUwaD3wFVwfaAfs9Z0eCh"
-      },
-      "artists": [
-        {
-          "name": "Tyler, The Creator",
-          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
-        }
-      ],
-      "duration_ms": 127921,
-      "name": "BEST INTEREST",
-      "url": "https://open.spotify.com/track/3jHdKaLCkuNEkWcLVmQPCX"
-    },
-    {
-      "added_at": "2023-04-21 19:48:21",
-      "album": {
         "name": "The Neptunes Present... Clones",
         "url": "https://open.spotify.com/album/0AO5ibcO686oWXf96D83pM"
       },
@@ -575,6 +643,22 @@
       "duration_ms": 158760,
       "name": "Clouds",
       "url": "https://open.spotify.com/track/5985LToyqbVWWNczsD9g5N"
+    },
+    {
+      "added_at": "2023-04-21 19:48:21",
+      "album": {
+        "name": "Beatopia",
+        "url": "https://open.spotify.com/album/2rhNQbqRNxiNQkDXTffe1V"
+      },
+      "artists": [
+        {
+          "name": "beabadoobee",
+          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
+        }
+      ],
+      "duration_ms": 177533,
+      "name": "the perfect pair",
+      "url": "https://open.spotify.com/track/41P6Tnd8KIHqON0QIydx6a"
     },
     {
       "added_at": "2023-04-21 19:48:21",
@@ -623,6 +707,42 @@
       "duration_ms": 149840,
       "name": "Kerosene",
       "url": "https://open.spotify.com/track/1uPRLmmA2YGNItLRp3BgFO"
+    },
+    {
+      "added_at": "2023-05-19 18:59:00",
+      "album": {
+        "name": "she / her / black bitch",
+        "url": "https://open.spotify.com/album/0MndM4dEwGOjtuKE1aP2Tb"
+      },
+      "artists": [
+        {
+          "name": "Doechii",
+          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
+        },
+        {
+          "name": "Jst Ray",
+          "url": "https://open.spotify.com/artist/4A2ptrgQSJtQrbfltEpoCR"
+        }
+      ],
+      "duration_ms": 204440,
+      "name": "Bitches Be (with Jst Ray)",
+      "url": "https://open.spotify.com/track/24CY4TWscXoyZRrmsQdiq1"
+    },
+    {
+      "added_at": "2023-04-21 19:48:21",
+      "album": {
+        "name": "FORWARD",
+        "url": "https://open.spotify.com/album/367frJ4GG9UMlXlMrVanYL"
+      },
+      "artists": [
+        {
+          "name": "Jordan Ward",
+          "url": "https://open.spotify.com/artist/3DGlTwdM5Dim9XQipb3jMf"
+        }
+      ],
+      "duration_ms": 158133,
+      "name": "FAMJAM4000",
+      "url": "https://open.spotify.com/track/08vlprFBmwh9TQnjXUtZDG"
     },
     {
       "added_at": "2023-04-21 19:48:21",
@@ -675,70 +795,6 @@
       "duration_ms": 153999,
       "name": "Ginseng Strip 2002",
       "url": "https://open.spotify.com/track/7v3rmoy5jcn4h5UqwQyCM3"
-    },
-    {
-      "added_at": "2023-04-21 19:48:21",
-      "album": {
-        "name": "An Evening With Silk Sonic",
-        "url": "https://open.spotify.com/album/4VZ7jhV0wHpoNPCB7Vmiml"
-      },
-      "artists": [
-        {
-          "name": "Bruno Mars",
-          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
-        },
-        {
-          "name": "Anderson .Paak",
-          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
-        },
-        {
-          "name": "Silk Sonic",
-          "url": "https://open.spotify.com/artist/6PvvGcCY2XtUcSRld1Wilr"
-        },
-        {
-          "name": "Thundercat",
-          "url": "https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw"
-        },
-        {
-          "name": "Bootsy Collins",
-          "url": "https://open.spotify.com/artist/5K0rbdBrs2tNXe5LeWMATT"
-        }
-      ],
-      "duration_ms": 249444,
-      "name": "After Last Night (with Thundercat & Bootsy Collins)",
-      "url": "https://open.spotify.com/track/6jGAh1bFnXt1Muj9zeHveZ"
-    },
-    {
-      "added_at": "2023-04-21 19:48:21",
-      "album": {
-        "name": "Faces",
-        "url": "https://open.spotify.com/album/5SKnXCvB4fcGSZu32o3LRY"
-      },
-      "artists": [
-        {
-          "name": "Mac Miller",
-          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
-        }
-      ],
-      "duration_ms": 198107,
-      "name": "Diablo",
-      "url": "https://open.spotify.com/track/3BDpkLMkgrtrM3HckrVIXr"
-    },
-    {
-      "added_at": "2023-04-21 19:48:21",
-      "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/5XqEf16OrHdmMoNS1b6WDg"
-      },
-      "artists": [
-        {
-          "name": "The Notorious B.I.G.",
-          "url": "https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb"
-        }
-      ],
-      "duration_ms": 230000,
-      "name": "Hypnotize - 2007 Remaster",
-      "url": "https://open.spotify.com/track/6Tsu3OsuMz4KEGKbOYd6A0"
     },
     {
       "added_at": "2023-04-21 19:48:21",
@@ -859,38 +915,6 @@
     {
       "added_at": "2023-04-21 19:48:21",
       "album": {
-        "name": "Beatopia",
-        "url": "https://open.spotify.com/album/2rhNQbqRNxiNQkDXTffe1V"
-      },
-      "artists": [
-        {
-          "name": "beabadoobee",
-          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
-        }
-      ],
-      "duration_ms": 177533,
-      "name": "the perfect pair",
-      "url": "https://open.spotify.com/track/41P6Tnd8KIHqON0QIydx6a"
-    },
-    {
-      "added_at": "2023-04-21 19:48:21",
-      "album": {
-        "name": "LP!",
-        "url": "https://open.spotify.com/album/4inXqcdjG79gV4m2mU8dQh"
-      },
-      "artists": [
-        {
-          "name": "JPEGMAFIA",
-          "url": "https://open.spotify.com/artist/6yJ6QQ3Y5l0s0tn7b0arrO"
-        }
-      ],
-      "duration_ms": 95070,
-      "name": "OG!",
-      "url": "https://open.spotify.com/track/5MelFaia7UyOxn3Xkhcunf"
-    },
-    {
-      "added_at": "2023-04-21 19:48:21",
-      "album": {
         "name": "Hitler Wears Hermes 7",
         "url": "https://open.spotify.com/album/4IpYr0pM7QsoHGBnNdrI3d"
       },
@@ -975,26 +999,6 @@
       "duration_ms": 267080,
       "name": "Greatest Hits",
       "url": "https://open.spotify.com/track/5eWKybWrLV0JyI2rU0NfA1"
-    },
-    {
-      "added_at": "2023-04-21 19:48:21",
-      "album": {
-        "name": "Her Loss",
-        "url": "https://open.spotify.com/album/5MS3MvWHJ3lOZPLiMxzOU6"
-      },
-      "artists": [
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        },
-        {
-          "name": "21 Savage",
-          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
-        }
-      ],
-      "duration_ms": 170501,
-      "name": "Major Distribution",
-      "url": "https://open.spotify.com/track/46s57QULU02Voy0Kup6UEb"
     },
     {
       "added_at": "2023-04-21 19:48:21",
@@ -1671,6 +1675,22 @@
     {
       "added_at": "2023-04-21 19:48:21",
       "album": {
+        "name": "Lil Uzi Vert vs. The World",
+        "url": "https://open.spotify.com/album/7mgdTKTCdfnLoa1HXHvLYM"
+      },
+      "artists": [
+        {
+          "name": "Lil Uzi Vert",
+          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
+        }
+      ],
+      "duration_ms": 163944,
+      "name": "You Was Right",
+      "url": "https://open.spotify.com/track/2ANLarE8yHVsLWW21nj79M"
+    },
+    {
+      "added_at": "2023-04-21 19:48:21",
+      "album": {
         "name": "NO STYLIST",
         "url": "https://open.spotify.com/album/4eofl3fkWPQWKpttvulret"
       },
@@ -1731,22 +1751,6 @@
       "duration_ms": 135069,
       "name": "Sad B!tch",
       "url": "https://open.spotify.com/track/6zWcEyrSS9gFtWaixDgp0q"
-    },
-    {
-      "added_at": "2023-04-21 19:48:21",
-      "album": {
-        "name": "Lil Uzi Vert vs. The World",
-        "url": "https://open.spotify.com/album/7mgdTKTCdfnLoa1HXHvLYM"
-      },
-      "artists": [
-        {
-          "name": "Lil Uzi Vert",
-          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
-        }
-      ],
-      "duration_ms": 163944,
-      "name": "You Was Right",
-      "url": "https://open.spotify.com/track/2ANLarE8yHVsLWW21nj79M"
     },
     {
       "added_at": "2023-04-21 19:48:21",

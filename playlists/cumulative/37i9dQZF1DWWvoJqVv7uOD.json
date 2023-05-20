@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-06",
-  "description": "Easy listening mix of recent hits, everyday favorites & some new songs you'll love. Cover: Lewis Capaldi",
+  "description": "Easy listening mix of recent hits, everyday favorites & some new songs you'll love. Cover: Hozier",
   "name": "Everyday Favorites ",
   "tracks": [
     {
@@ -2167,6 +2167,24 @@
     },
     {
       "album": {
+        "name": "favorite kind of high",
+        "url": "https://open.spotify.com/album/0ovV62VKM8ADN9BZIlrQMn"
+      },
+      "artists": [
+        {
+          "name": "Kelly Clarkson",
+          "url": "https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175247,
+      "name": "favorite kind of high",
+      "url": "https://open.spotify.com/track/3lxias37bJGSqIOLkQBJF9"
+    },
+    {
+      "album": {
         "name": "chapter of me",
         "url": "https://open.spotify.com/album/0PITbh2NtsYR1BTx0NU4Ol"
       },
@@ -2312,6 +2330,24 @@
       "duration_ms": 218164,
       "name": "Fortune Favors The Bold",
       "url": "https://open.spotify.com/track/3pfibYzsaexMHmLnmQ8iMH"
+    },
+    {
+      "album": {
+        "name": "Francesca",
+        "url": "https://open.spotify.com/album/2GS1K0RZ5SjtuT8bsX0xyv"
+      },
+      "artists": [
+        {
+          "name": "Hozier",
+          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270066,
+      "name": "Francesca",
+      "url": "https://open.spotify.com/track/4LmOmWpjCQbC1VZvUuwPQu"
     },
     {
       "album": {
@@ -2889,6 +2925,24 @@
     },
     {
       "album": {
+        "name": "Broken By Desire To Be Heavenly Sent",
+        "url": "https://open.spotify.com/album/0ECSyPejfD7oL95dD3jgoi"
+      },
+      "artists": [
+        {
+          "name": "Lewis Capaldi",
+          "url": "https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230533,
+      "name": "Haven't You Ever Been In Love Before?",
+      "url": "https://open.spotify.com/track/7136zBuda3024ZQUTBB1Vg"
+    },
+    {
+      "album": {
         "name": "Heard You Got Love",
         "url": "https://open.spotify.com/album/5HCNFLIFq5qLGN67vpKrff"
       },
@@ -3008,7 +3062,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 282666,
       "name": "Hello Love",
       "url": "https://open.spotify.com/track/40bgBzGrYBURVjiQ4itEkh"
@@ -5095,6 +5149,24 @@
     },
     {
       "album": {
+        "name": "Married Young",
+        "url": "https://open.spotify.com/album/2fQf4Fsxi4n7hcOzpy4ldx"
+      },
+      "artists": [
+        {
+          "name": "Jake Scott",
+          "url": "https://open.spotify.com/artist/0DxPHf2flBAcV2SnZPg3SV"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185482,
+      "name": "Married Young",
+      "url": "https://open.spotify.com/track/5VpScSThzAjVghCEDOcXS2"
+    },
+    {
+      "album": {
         "name": "Maybe Next Time",
         "url": "https://open.spotify.com/album/6oGzvyilFapjThmlJPJKiW"
       },
@@ -5218,6 +5290,24 @@
       "duration_ms": 225960,
       "name": "Message In A Bottle (Taylor's Version) (From The Vault)",
       "url": "https://open.spotify.com/track/3z6XUommYDWPHeFhmhhT6j"
+    },
+    {
+      "album": {
+        "name": "Middle Ground",
+        "url": "https://open.spotify.com/album/5jmEjw5krglNmuEy45URZT"
+      },
+      "artists": [
+        {
+          "name": "Maroon 5",
+          "url": "https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219800,
+      "name": "Middle Ground",
+      "url": "https://open.spotify.com/track/3xiccJ9jlTVwC8Yl66eGv5"
     },
     {
       "album": {
@@ -6087,6 +6177,24 @@
     },
     {
       "album": {
+        "name": "Rocketship",
+        "url": "https://open.spotify.com/album/4za3vqGRKS1vFTQAhYnLwQ"
+      },
+      "artists": [
+        {
+          "name": "Llunr",
+          "url": "https://open.spotify.com/artist/1r2EC1UsQXwtqVN9valnT2"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156194,
+      "name": "Rocketship",
+      "url": "https://open.spotify.com/track/5q2zRUEMUMh51Ipd97bmAa"
+    },
+    {
+      "album": {
         "name": "Roles Reversed",
         "url": "https://open.spotify.com/album/2RFdnVvLdNioN4fw42fPfr"
       },
@@ -6420,7 +6528,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 243180,
       "name": "Secondhand Smoke",
       "url": "https://open.spotify.com/track/6qkIHn2trQOSJJrzyD1ew9"
@@ -6850,6 +6958,24 @@
       "duration_ms": 228013,
       "name": "Something in the Orange",
       "url": "https://open.spotify.com/track/3WMj8moIAXJhHsyLaqIIHI"
+    },
+    {
+      "album": {
+        "name": "Gag Order",
+        "url": "https://open.spotify.com/album/5gJSC3H04ubhi6BTtdViqR"
+      },
+      "artists": [
+        {
+          "name": "Kesha",
+          "url": "https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209160,
+      "name": "Something To Believe In",
+      "url": "https://open.spotify.com/track/6aLB5BZFEUqmtGxTHXTgkT"
     },
     {
       "album": {
@@ -7547,6 +7673,28 @@
     },
     {
       "album": {
+        "name": "UNHEALTHY (feat. Shania Twain)",
+        "url": "https://open.spotify.com/album/6QEbEpz7fWR5N3HoIiSHFo"
+      },
+      "artists": [
+        {
+          "name": "Anne-Marie",
+          "url": "https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX"
+        },
+        {
+          "name": "Shania Twain",
+          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149653,
+      "name": "UNHEALTHY (feat. Shania Twain)",
+      "url": "https://open.spotify.com/track/2doTn2LWTKN1Z0lZJG2WQw"
+    },
+    {
+      "album": {
         "name": "Used To It",
         "url": "https://open.spotify.com/album/4QKovzPdcYflzE9Ooe2z8C"
       },
@@ -7822,7 +7970,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 153640,
       "name": "Whatever It Takes",
       "url": "https://open.spotify.com/track/2Bv3pU74afHFWdCAZ8irlT"

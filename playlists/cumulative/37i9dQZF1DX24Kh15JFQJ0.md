@@ -4,13 +4,14 @@
 
 > The latest music from our Country Heroes\. Cover: Tanya Tucker
 
-200 songs - 11 hr 43 min
+201 songs - 11 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [10\-4](https://open.spotify.com/track/13JH4T5Vwy9bZ9g2Yene4Y) | [Jordan Rowe](https://open.spotify.com/artist/2aWgB3AXREinyBrJHxJ3ji), [Tracy Lawrence](https://open.spotify.com/artist/2BQVRw9md4UKcGUrDXABCD), [Eddie Montgomery](https://open.spotify.com/artist/7GD3LkyvAOcPgtrXeFc73p), [Rhett Akins](https://open.spotify.com/artist/4qivGtDBIkQFLCeduRpi24) | [Bad Case of the Good Ole Boy](https://open.spotify.com/album/0Ns3824RcYOCJzq2VZdiVP) | 3:07 | 2021-10-15 |  |
 | [21 Forever](https://open.spotify.com/track/7aYzn6SP2JYi7Wx4Yk3TIN) | [Chris Janson](https://open.spotify.com/artist/60gmlHZmT16wiO9GiXKYK9), [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU), [Slash](https://open.spotify.com/artist/4Cqia9vrAbm7ANXbJGXsTE) | [21 Forever](https://open.spotify.com/album/015R3QaOLULmgl68tTxUXZ) | 5:19 | 2023-05-05 |  |
 | [9 to 5 \(FROM THE STILL WORKING 9 TO 5 DOCUMENTARY\)](https://open.spotify.com/track/32bfqEO7JcH2x0XFxVVVf0) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX), [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [9 to 5 \(FROM THE STILL WORKING 9 TO 5 DOCUMENTARY\)](https://open.spotify.com/album/6PH9FkIY5DVDh0JUktLlLR) | 3:36 | 2022-09-09 |  |
+| [A Friend Of Mine](https://open.spotify.com/track/3jy7ygy6XXKI4ssEXXQTbw) | [Marty Stuart And His Fabulous Superlatives](https://open.spotify.com/artist/559WWygoFrpAD58V0PqVwO), [Marty Stuart](https://open.spotify.com/artist/3OyGv7XUYQwQgECYSzJhyO) | [Altitude](https://open.spotify.com/album/0eDuHfqHlQ7UviN6KiYyev) | 3:47 | 2023-05-19 |  |
 | [A Million and One](https://open.spotify.com/track/6298i3fOw3l5rmtR462TFe) | [Connie Smith](https://open.spotify.com/artist/66Pq6HMX0YqsJgtUZrFwmo) | [A Million and One](https://open.spotify.com/album/2ITnWh4L3RKZdnQN0R6TcC) | 2:38 | 2021-10-15 |  |
 | [Ain't No Closing Me Down](https://open.spotify.com/track/4kqSHwiAg5Su68ifqjUPNm) | [Eddie Montgomery](https://open.spotify.com/artist/7GD3LkyvAOcPgtrXeFc73p) | [Ain't No Closing Me Down](https://open.spotify.com/album/5B0XkXMEc6pdzdoyaDjZM5) | 3:16 | 2021-11-05 | 2023-05-18 |
 | [Ain't No Closing Me Down](https://open.spotify.com/track/533NPX0rqjQOc7yUxRqqVi) | [Eddie Montgomery](https://open.spotify.com/artist/7GD3LkyvAOcPgtrXeFc73p) | [Ain't No Closing Me Down](https://open.spotify.com/album/5Ivo31OchF58n5liIvZrEd) | 3:16 | 2023-05-12 |  |

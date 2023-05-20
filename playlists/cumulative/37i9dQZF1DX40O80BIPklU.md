@@ -4,7 +4,7 @@
 
 > Nuestro hip\-hop se escribe con Ñ, aquí los que dominan el juego de las rimas\. Zxmyr y Sandro Malandro en portada.
 
-185 songs - 10 hr 24 min
+187 songs - 10 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,6 +57,7 @@
 | [DHARMA](https://open.spotify.com/track/1UAQ5fMPGXDzVZO9jojOUV) | [ACRU](https://open.spotify.com/artist/0bYQe0JDIjxkSHQoXlfngl) | [DHARMA](https://open.spotify.com/album/2XbXnRwQEPXLSusESfJl2J) | 4:31 | 2021-12-30 | 2022-01-14 |
 | [DIOS Y LA MUERTE](https://open.spotify.com/track/0aJQiBqEHjsbDVOGca0j6B) | [Bhavi](https://open.spotify.com/artist/7fT2Me47PQ8T7954PKrcwR), [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp) | [DIOS Y LA MUERTE](https://open.spotify.com/album/1R8MDUqb1IWHf8ilwNQRGe) | 2:52 | 2022-03-25 |  |
 | [DISCIPLINA](https://open.spotify.com/track/3BctNPt7HD1d2SoRteagym) | [Kodigo](https://open.spotify.com/artist/3hwgckfLtTHdnkf694c7HS) | [DISCIPLINA](https://open.spotify.com/album/1PecmtWamLOvWahwn4aFbX) | 3:40 | 2021-12-30 | 2023-03-04 |
+| [DISPARA \*\*\*](https://open.spotify.com/track/5y0zaOse4LHZ6ZowjpL0vW) | [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y), [Milo j](https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3) | [DISPARA \*\*\*](https://open.spotify.com/album/63MfXzzOiA4B31XnstirjX) | 2:23 | 2023-05-19 |  |
 | [DREAM TEAM](https://open.spotify.com/track/5TUnTeJbmCl0uExo9Frxrm) | [Rap Bang Club](https://open.spotify.com/artist/0cRHRB8jrBv74aDfyXQPrd) | [DREAM TEAM](https://open.spotify.com/album/300OH5pDtCASI7RNgZaCZ1) | 2:16 | 2023-03-31 |  |
 | [Duki: Bzrp Music Sessions, Vol\. 50](https://open.spotify.com/track/7MkylDYvKTSuWgrsBhHlsG) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg) | [Duki: Bzrp Music Sessions, Vol\. 50](https://open.spotify.com/album/1QUr29IDxeCaCpZOqwyvHW) | 3:41 | 2022-11-17 |  |
 | [El Mundo Es Tuyo](https://open.spotify.com/track/2XMLQxLX3FQZ7veKYIKumh) | [Homer El Mero Mero](https://open.spotify.com/artist/0Xo4VFS3v07L0GwIVkZLfg) | [El Mundo Es Tuyo](https://open.spotify.com/album/7CWLoC8Yw64f8vMJFV1AVh) | 3:02 | 2021-12-30 | 2022-07-29 |
@@ -125,6 +126,7 @@
 | [Mundo De Papel](https://open.spotify.com/track/5XZwPDh81lZP85iMkxZ9VO) | [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI), [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4), [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf) | [Mundo De Papel](https://open.spotify.com/album/4m0KAB42QxgsFT3RJ2QkvR) | 3:42 | 2021-12-30 | 2022-03-08 |
 | [NEVADA](https://open.spotify.com/track/0bHuCyPRZc5Pfx1Dm982ws) | [Chuchú Bermudas](https://open.spotify.com/artist/6U7WIxAxxx1PLPfFH8AwHX), [Willie DeVille](https://open.spotify.com/artist/18vnqu7XJRHPmua3tsejG5), [Drama Theme](https://open.spotify.com/artist/5UlItbkRcPTdmWC4AcKrk8) | [NEVADA](https://open.spotify.com/album/4BCGrlLcmFBeY0JN7nTx7E) | 2:06 | 2023-03-31 |  |
 | [Niple](https://open.spotify.com/track/7jeleRcyCUp5pusaGcioka) | [Apache](https://open.spotify.com/artist/2pvyE8W9RWESQxkyAWZqgY) | [Niple](https://open.spotify.com/album/34Ya8APZthEj4tO9SxeQEb) | 3:04 | 2021-12-30 | 2022-03-11 |
+| [Niñx](https://open.spotify.com/track/0lnuA5TgQErEvDsyujAYsE) | [Ana Tijoux](https://open.spotify.com/artist/40JMTpVRUw90SrN4pFA6Mz) | [Niñx](https://open.spotify.com/album/7456v3Q9ZExGfIl5r6H8N4) | 3:06 | 2023-05-19 |  |
 | [No Hay Fallo](https://open.spotify.com/track/6uX08Q1SKqYD5NqcpqbVZL) | [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT), [Musicologo The Libro](https://open.spotify.com/artist/0lIw3RIPiAC50dWNjJXe2Q) | [No Hay Fallo](https://open.spotify.com/album/6quIBjOBol9YtKVjJAQqQm) | 2:53 | 2021-12-30 | 2022-02-25 |
 | [No Me Pueden Parar](https://open.spotify.com/track/5NWqum4G4GsjHyU2D8UTt0) | [J Noa](https://open.spotify.com/artist/4gknAwZk7sfjge8Bho6xre) | [No Me Pueden Parar](https://open.spotify.com/album/7AZeHp1ggYt5RlupEJuoJK) | 3:28 | 2023-03-24 |  |
 | [No Que No Eras Fan](https://open.spotify.com/track/72KBDC6feOjHbiQ3x1jJ2N) | [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I), [La Santa Grifa](https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A), [Eirian Music](https://open.spotify.com/artist/4hMiTS2vx4r1mJbR4VUzn4) | [Canciones Mamalonas 2](https://open.spotify.com/album/5sXSM6uf1gKQa1VzLtKWlO) | 3:22 | 2021-12-30 |  |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-24",
-  "description": "tu\u00ea se vingou",
+  "description": "ele \u00e9 dos pr\u00e9dios, ele gosta de toy story, ele \u00e9 veigh baby",
   "name": "creme",
   "tracks": [
     {
@@ -1119,6 +1119,48 @@
     },
     {
       "album": {
+        "name": "Dos Pr\u00e9dios Deluxe",
+        "url": "https://open.spotify.com/album/0D59BFMmnA87oPyk1oSe1b"
+      },
+      "artists": [
+        {
+          "name": "Veigh",
+          "url": "https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse"
+        },
+        {
+          "name": "L7NNON",
+          "url": "https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C"
+        },
+        {
+          "name": "Luccas Carlos",
+          "url": "https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy"
+        },
+        {
+          "name": "Nagalli",
+          "url": "https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk"
+        },
+        {
+          "name": "Pedro Lotto",
+          "url": "https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm"
+        },
+        {
+          "name": "Bvga Beatz",
+          "url": "https://open.spotify.com/artist/7saGN6a32YNpiMPo2SWJxE"
+        },
+        {
+          "name": "Supernova Ent",
+          "url": "https://open.spotify.com/artist/3prRKGJz16RRMRSIM97nHw"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213222,
+      "name": "Detalhes",
+      "url": "https://open.spotify.com/track/5dkytCgrODAV4HzGy0Sl94"
+    },
+    {
+      "album": {
         "name": "Deus Perdoa",
         "url": "https://open.spotify.com/album/0qruvxQou6I8A0fmUiMsFv"
       },
@@ -1909,6 +1951,32 @@
     },
     {
       "album": {
+        "name": "Intensidade",
+        "url": "https://open.spotify.com/album/31EMHNGSQ7DmW139k12zWu"
+      },
+      "artists": [
+        {
+          "name": "WEY",
+          "url": "https://open.spotify.com/artist/6nZ39vMOOOgXQ471Jy5jhR"
+        },
+        {
+          "name": "Vulgo FK",
+          "url": "https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0"
+        },
+        {
+          "name": "KayBlack",
+          "url": "https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171434,
+      "name": "Intensidade",
+      "url": "https://open.spotify.com/track/48CeDpS7dUA6y56D8iZ6tp"
+    },
+    {
+      "album": {
         "name": "INVEJOSO",
         "url": "https://open.spotify.com/album/3EiBO5SSeSlDGKxLNqBCVy"
       },
@@ -2278,6 +2346,32 @@
       "duration_ms": 150285,
       "name": "M4ndr4k4",
       "url": "https://open.spotify.com/track/0dwr8PSsYkf0PaLbYIzRj4"
+    },
+    {
+      "album": {
+        "name": "Malandrex",
+        "url": "https://open.spotify.com/album/1ZaDOwrE3dtGmze7AIFQJw"
+      },
+      "artists": [
+        {
+          "name": "DomLaike",
+          "url": "https://open.spotify.com/artist/4PzPx1yc3kGVo4EgCiLqCQ"
+        },
+        {
+          "name": "Vinicin",
+          "url": "https://open.spotify.com/artist/5XEiZVyQHpIDjhkIBbpf2G"
+        },
+        {
+          "name": "Bielzin",
+          "url": "https://open.spotify.com/artist/2vWGxqWbGgmgxVDZ5CBvBP"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256000,
+      "name": "Malandrex",
+      "url": "https://open.spotify.com/track/0ZbPY7gyaPOFKw1rNwdDyi"
     },
     {
       "album": {
@@ -2860,7 +2954,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 198620,
       "name": "Movimento",
       "url": "https://open.spotify.com/track/0vGkHLjaNZiNBNmSBLhA7o"
@@ -2980,6 +3074,28 @@
     {
       "album": {
         "name": "No Love",
+        "url": "https://open.spotify.com/album/5IRcRuEihMES5gUZWVsGyo"
+      },
+      "artists": [
+        {
+          "name": "Tz da Coronel",
+          "url": "https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e"
+        },
+        {
+          "name": "Ariel Donato",
+          "url": "https://open.spotify.com/artist/7H3XEvrS2PsNzM76MczgHJ"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "No Love",
+      "url": "https://open.spotify.com/track/6ExnOUWNlAtsJCsqsa2GDB"
+    },
+    {
+      "album": {
+        "name": "No Love",
         "url": "https://open.spotify.com/album/50GSItNqYJip64TPybq3A4"
       },
       "artists": [
@@ -2998,7 +3114,7 @@
       ],
       "date_added": "2022-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 180000,
       "name": "No Love",
       "url": "https://open.spotify.com/track/3HjRNbYrOfKnbAav3fU5KL"
@@ -3046,6 +3162,36 @@
       "duration_ms": 107076,
       "name": "Novinha Malada do Insta",
       "url": "https://open.spotify.com/track/0VF2XFdgeID7448iU2Vyg9"
+    },
+    {
+      "album": {
+        "name": "Dos Pr\u00e9dios Deluxe",
+        "url": "https://open.spotify.com/album/0D59BFMmnA87oPyk1oSe1b"
+      },
+      "artists": [
+        {
+          "name": "Veigh",
+          "url": "https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse"
+        },
+        {
+          "name": "Bvga Beatz",
+          "url": "https://open.spotify.com/artist/7saGN6a32YNpiMPo2SWJxE"
+        },
+        {
+          "name": "Prod Malax",
+          "url": "https://open.spotify.com/artist/5X5jKBLJ88Ji6tzwfL0g4c"
+        },
+        {
+          "name": "Supernova Ent",
+          "url": "https://open.spotify.com/artist/3prRKGJz16RRMRSIM97nHw"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140322,
+      "name": "Novo Balan\u00e7o",
+      "url": "https://open.spotify.com/track/4hKLzFvNwHF6dPosGT30ed"
     },
     {
       "album": {
@@ -4201,6 +4347,36 @@
     },
     {
       "album": {
+        "name": "Se Acaba (feat. Mc Don Juan & MC Ryan SP)",
+        "url": "https://open.spotify.com/album/3rXDB8PJWiuVSfkqYIELlV"
+      },
+      "artists": [
+        {
+          "name": "Xam\u00e3",
+          "url": "https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf"
+        },
+        {
+          "name": "Vulgo FK",
+          "url": "https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0"
+        },
+        {
+          "name": "Mc Don Juan",
+          "url": "https://open.spotify.com/artist/7Lmrb6KcIzfkmgbtokjsAL"
+        },
+        {
+          "name": "MC Ryan SP",
+          "url": "https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218000,
+      "name": "Se Acaba (feat. Mc Don Juan & MC Ryan SP)",
+      "url": "https://open.spotify.com/track/4TmIkfVvu5LOE2JADl8Brp"
+    },
+    {
+      "album": {
         "name": "L\u00e1grimas do Tubar\u00e3o \"Contos e Fatos\"",
         "url": "https://open.spotify.com/album/4s1ThdjkZTWKLX38Q41D5Z"
       },
@@ -4246,6 +4422,28 @@
       "duration_ms": 175834,
       "name": "se voc\u00ea deixar",
       "url": "https://open.spotify.com/track/7orLIsrTqRdpxUtnAxIFYV"
+    },
+    {
+      "album": {
+        "name": "Se Voc\u00ea For Embora",
+        "url": "https://open.spotify.com/album/7IbQtUpNuUHQS2Cr8uNTRJ"
+      },
+      "artists": [
+        {
+          "name": "Tz da Coronel",
+          "url": "https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e"
+        },
+        {
+          "name": "Langris",
+          "url": "https://open.spotify.com/artist/2J4i3afJjXrqDGWRYn6sBI"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130496,
+      "name": "Se Voc\u00ea for Embora",
+      "url": "https://open.spotify.com/track/7haCn21tCWhVqg87x6tkRS"
     },
     {
       "album": {

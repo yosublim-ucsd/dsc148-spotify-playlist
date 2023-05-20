@@ -1,12 +1,12 @@
 {
   "description": "The classic recordings from Bossa Nova. Cover: Jo\u00e3o Gilberto",
-  "num_followers": 107137,
+  "num_followers": 107396,
   "original_name": "Bossa Nova Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjMDBhNjA0ZWUzNzc4Yzk1Zjk4ZWIxMDE0MDJkYmFmOTg0ZWMzZTk5",
+  "snapshot_id": "MCxhNThiNWFjMmVlZDJkN2ZiNGFiYzc3YWU0MTk4ZDJjNmE5MzQzMDg5",
   "tracks": [
     {
       "added_at": "2023-05-03 12:04:58",
@@ -355,6 +355,22 @@
     {
       "added_at": "2023-05-03 12:04:58",
       "album": {
+        "name": "Jo\u00e3o Gilberto Apresenta Chega de Saudade",
+        "url": "https://open.spotify.com/album/6eEhHeu8VTc5WemfyfgLY8"
+      },
+      "artists": [
+        {
+          "name": "Jo\u00e3o Gilberto",
+          "url": "https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy"
+        }
+      ],
+      "duration_ms": 123386,
+      "name": "Chega de Saudade",
+      "url": "https://open.spotify.com/track/7jcLeqojncPZAFh2VUO7mD"
+    },
+    {
+      "added_at": "2023-05-03 12:04:58",
+      "album": {
         "name": "The Brasil Project Vol. II",
         "url": "https://open.spotify.com/album/5UjRL6iqsJX1kRbuqQ43U7"
       },
@@ -371,22 +387,6 @@
       "duration_ms": 216360,
       "name": "Samba de Orfeu",
       "url": "https://open.spotify.com/track/0yO7Rg00ZJiMMb8pHiBojc"
-    },
-    {
-      "added_at": "2023-05-03 12:04:58",
-      "album": {
-        "name": "Jo\u00e3o Gilberto Apresenta Chega de Saudade",
-        "url": "https://open.spotify.com/album/6eEhHeu8VTc5WemfyfgLY8"
-      },
-      "artists": [
-        {
-          "name": "Jo\u00e3o Gilberto",
-          "url": "https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy"
-        }
-      ],
-      "duration_ms": 123386,
-      "name": "Chega de Saudade",
-      "url": "https://open.spotify.com/track/7jcLeqojncPZAFh2VUO7mD"
     },
     {
       "added_at": "2023-05-03 12:04:58",
@@ -503,18 +503,18 @@
     {
       "added_at": "2023-05-03 12:04:58",
       "album": {
-        "name": "Gilbertos Samba",
-        "url": "https://open.spotify.com/album/4CzqCaWsFEzNWWugq0EfUV"
+        "name": "Amoroso",
+        "url": "https://open.spotify.com/album/2SQ2YrWlVLAZ05jogsM5bH"
       },
       "artists": [
         {
-          "name": "Gilberto Gil",
-          "url": "https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr"
+          "name": "Jo\u00e3o Gilberto",
+          "url": "https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy"
         }
       ],
-      "duration_ms": 195200,
-      "name": "Aos P\u00e9s da Cruz",
-      "url": "https://open.spotify.com/track/1G3tT3xLodVLyZV7MQDXin"
+      "duration_ms": 220360,
+      "name": "Tin Tin Por Tin Tin",
+      "url": "https://open.spotify.com/track/54nMyXP7zFHWc2nrThkZ6v"
     },
     {
       "added_at": "2023-05-03 12:04:58",
@@ -559,18 +559,18 @@
     {
       "added_at": "2023-05-03 12:04:58",
       "album": {
-        "name": "Amoroso",
-        "url": "https://open.spotify.com/album/2SQ2YrWlVLAZ05jogsM5bH"
+        "name": "Gilbertos Samba",
+        "url": "https://open.spotify.com/album/4CzqCaWsFEzNWWugq0EfUV"
       },
       "artists": [
         {
-          "name": "Jo\u00e3o Gilberto",
-          "url": "https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy"
+          "name": "Gilberto Gil",
+          "url": "https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr"
         }
       ],
-      "duration_ms": 220360,
-      "name": "Tin Tin Por Tin Tin",
-      "url": "https://open.spotify.com/track/54nMyXP7zFHWc2nrThkZ6v"
+      "duration_ms": 195200,
+      "name": "Aos P\u00e9s da Cruz",
+      "url": "https://open.spotify.com/track/1G3tT3xLodVLyZV7MQDXin"
     },
     {
       "added_at": "2023-05-03 12:04:58",
@@ -587,6 +587,38 @@
       "duration_ms": 152933,
       "name": "Este Seu Olhar",
       "url": "https://open.spotify.com/track/7ws9U1clOAmsZmc0LAQxFt"
+    },
+    {
+      "added_at": "2023-05-03 12:04:58",
+      "album": {
+        "name": "Jo\u00e3o Gilberto Apresenta Chega de Saudade",
+        "url": "https://open.spotify.com/album/6eEhHeu8VTc5WemfyfgLY8"
+      },
+      "artists": [
+        {
+          "name": "Jo\u00e3o Gilberto",
+          "url": "https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy"
+        }
+      ],
+      "duration_ms": 118120,
+      "name": "Desafinado",
+      "url": "https://open.spotify.com/track/7dm2MG1cI9oo3kZgpjMLFz"
+    },
+    {
+      "added_at": "2023-05-03 12:04:58",
+      "album": {
+        "name": "Bluchanga",
+        "url": "https://open.spotify.com/album/2FVxlH0rwcQiNbdvF620Xo"
+      },
+      "artists": [
+        {
+          "name": "Jo\u00e3o Donato",
+          "url": "https://open.spotify.com/artist/17wDxPR2GcU3r1dpCoCiUi"
+        }
+      ],
+      "duration_ms": 266986,
+      "name": "Bluchanga",
+      "url": "https://open.spotify.com/track/2hJdrboSGU5cXyrYanuqza"
     },
     {
       "added_at": "2023-05-03 12:04:58",
@@ -611,22 +643,6 @@
     {
       "added_at": "2023-05-03 12:04:58",
       "album": {
-        "name": "Bluchanga",
-        "url": "https://open.spotify.com/album/2FVxlH0rwcQiNbdvF620Xo"
-      },
-      "artists": [
-        {
-          "name": "Jo\u00e3o Donato",
-          "url": "https://open.spotify.com/artist/17wDxPR2GcU3r1dpCoCiUi"
-        }
-      ],
-      "duration_ms": 266986,
-      "name": "Bluchanga",
-      "url": "https://open.spotify.com/track/2hJdrboSGU5cXyrYanuqza"
-    },
-    {
-      "added_at": "2023-05-03 12:04:58",
-      "album": {
         "name": "Chico Buarque De Hollanda N\u00ba4",
         "url": "https://open.spotify.com/album/3dbh9K8CNUq8BQcL0VxbZf"
       },
@@ -639,22 +655,6 @@
       "duration_ms": 147840,
       "name": "Gente Humilde",
       "url": "https://open.spotify.com/track/24OF9ihv97VwNXQZ2gGy8v"
-    },
-    {
-      "added_at": "2023-05-03 12:04:58",
-      "album": {
-        "name": "Jo\u00e3o Gilberto Apresenta Chega de Saudade",
-        "url": "https://open.spotify.com/album/6eEhHeu8VTc5WemfyfgLY8"
-      },
-      "artists": [
-        {
-          "name": "Jo\u00e3o Gilberto",
-          "url": "https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy"
-        }
-      ],
-      "duration_ms": 118120,
-      "name": "Desafinado",
-      "url": "https://open.spotify.com/track/7dm2MG1cI9oo3kZgpjMLFz"
     },
     {
       "added_at": "2023-05-03 12:04:58",
@@ -751,6 +751,22 @@
     {
       "added_at": "2023-05-03 12:04:58",
       "album": {
+        "name": "Nara Dez Anos Depois",
+        "url": "https://open.spotify.com/album/14vNVSBK4R5XpKUEUOTjvd"
+      },
+      "artists": [
+        {
+          "name": "Nara Le\u00e3o",
+          "url": "https://open.spotify.com/artist/64KVQ4YupSZYrGNLduVtj3"
+        }
+      ],
+      "duration_ms": 204093,
+      "name": "Outra Vez",
+      "url": "https://open.spotify.com/track/1H3vHQSD9528EfWpoXaQik"
+    },
+    {
+      "added_at": "2023-05-03 12:04:58",
+      "album": {
         "name": "Rio Revisited",
         "url": "https://open.spotify.com/album/1pvPrGENPU0yj9ocp0Zvpd"
       },
@@ -767,22 +783,6 @@
       "duration_ms": 203226,
       "name": "Samba Do Aviao - Live",
       "url": "https://open.spotify.com/track/3qhAqp4xBxqg8zEAFmcXmF"
-    },
-    {
-      "added_at": "2023-05-03 12:04:58",
-      "album": {
-        "name": "Nara Dez Anos Depois",
-        "url": "https://open.spotify.com/album/14vNVSBK4R5XpKUEUOTjvd"
-      },
-      "artists": [
-        {
-          "name": "Nara Le\u00e3o",
-          "url": "https://open.spotify.com/artist/64KVQ4YupSZYrGNLduVtj3"
-        }
-      ],
-      "duration_ms": 204093,
-      "name": "Outra Vez",
-      "url": "https://open.spotify.com/track/1H3vHQSD9528EfWpoXaQik"
     },
     {
       "added_at": "2023-05-03 12:04:58",
@@ -863,26 +863,6 @@
     {
       "added_at": "2023-05-03 12:04:58",
       "album": {
-        "name": "Rio Revisited",
-        "url": "https://open.spotify.com/album/1pvPrGENPU0yj9ocp0Zvpd"
-      },
-      "artists": [
-        {
-          "name": "Gal Costa",
-          "url": "https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD"
-        },
-        {
-          "name": "Ant\u00f4nio Carlos Jobim",
-          "url": "https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG"
-        }
-      ],
-      "duration_ms": 181453,
-      "name": "One Note Samba - Live",
-      "url": "https://open.spotify.com/track/1sIa27mKwinFFyXblq19ZQ"
-    },
-    {
-      "added_at": "2023-05-03 12:04:58",
-      "album": {
         "name": "A Bossa de Cauby Peixoto",
         "url": "https://open.spotify.com/album/5UQ4lXVHLjPV1u6KoyAkFg"
       },
@@ -915,6 +895,26 @@
     {
       "added_at": "2023-05-03 12:04:58",
       "album": {
+        "name": "O Poeta e o Viol\u00e3o",
+        "url": "https://open.spotify.com/album/4cOgC6zXMJwrgmIvC6GJfF"
+      },
+      "artists": [
+        {
+          "name": "Toquinho",
+          "url": "https://open.spotify.com/artist/7rPqFVgJYARiFsLDlN6W6y"
+        },
+        {
+          "name": "Vin\u00edcius de Moraes",
+          "url": "https://open.spotify.com/artist/5HlnN6xF2MD87KhGRmCRTd"
+        }
+      ],
+      "duration_ms": 246453,
+      "name": "Tristeza",
+      "url": "https://open.spotify.com/track/2TjjcQQWZlbY5Hy46zQvAU"
+    },
+    {
+      "added_at": "2023-05-03 12:04:58",
+      "album": {
         "name": "Composer Of Black Orpheus Plays And Sings Bossa Nova",
         "url": "https://open.spotify.com/album/0Mi7ijRGlYyIzdUB14FlbQ"
       },
@@ -939,22 +939,22 @@
     {
       "added_at": "2023-05-03 12:04:58",
       "album": {
-        "name": "O Poeta e o Viol\u00e3o",
-        "url": "https://open.spotify.com/album/4cOgC6zXMJwrgmIvC6GJfF"
+        "name": "Rio Revisited",
+        "url": "https://open.spotify.com/album/1pvPrGENPU0yj9ocp0Zvpd"
       },
       "artists": [
         {
-          "name": "Toquinho",
-          "url": "https://open.spotify.com/artist/7rPqFVgJYARiFsLDlN6W6y"
+          "name": "Gal Costa",
+          "url": "https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD"
         },
         {
-          "name": "Vin\u00edcius de Moraes",
-          "url": "https://open.spotify.com/artist/5HlnN6xF2MD87KhGRmCRTd"
+          "name": "Ant\u00f4nio Carlos Jobim",
+          "url": "https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG"
         }
       ],
-      "duration_ms": 246453,
-      "name": "Tristeza",
-      "url": "https://open.spotify.com/track/2TjjcQQWZlbY5Hy46zQvAU"
+      "duration_ms": 181453,
+      "name": "One Note Samba - Live",
+      "url": "https://open.spotify.com/track/1sIa27mKwinFFyXblq19ZQ"
     },
     {
       "added_at": "2023-05-03 12:04:58",
@@ -1007,6 +1007,26 @@
     {
       "added_at": "2023-05-03 12:04:58",
       "album": {
+        "name": "Personalidade",
+        "url": "https://open.spotify.com/album/10hZyN6wHBQ94xt8aoaq9o"
+      },
+      "artists": [
+        {
+          "name": "Toquinho",
+          "url": "https://open.spotify.com/artist/7rPqFVgJYARiFsLDlN6W6y"
+        },
+        {
+          "name": "Vin\u00edcius de Moraes",
+          "url": "https://open.spotify.com/artist/5HlnN6xF2MD87KhGRmCRTd"
+        }
+      ],
+      "duration_ms": 414200,
+      "name": "Samba Da Ben\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/6XMDSWv7ZwM0BM0i0YJPOn"
+    },
+    {
+      "added_at": "2023-05-03 12:04:58",
+      "album": {
         "name": "Pure Bossa Nova",
         "url": "https://open.spotify.com/album/52G6kzmnMumKmdJuL0Tim5"
       },
@@ -1051,26 +1071,6 @@
       "duration_ms": 129666,
       "name": "Diz Que Fui Por Ai",
       "url": "https://open.spotify.com/track/28BSCtSAR6HQmdrt823rg4"
-    },
-    {
-      "added_at": "2023-05-03 12:04:58",
-      "album": {
-        "name": "Personalidade",
-        "url": "https://open.spotify.com/album/10hZyN6wHBQ94xt8aoaq9o"
-      },
-      "artists": [
-        {
-          "name": "Toquinho",
-          "url": "https://open.spotify.com/artist/7rPqFVgJYARiFsLDlN6W6y"
-        },
-        {
-          "name": "Vin\u00edcius de Moraes",
-          "url": "https://open.spotify.com/artist/5HlnN6xF2MD87KhGRmCRTd"
-        }
-      ],
-      "duration_ms": 414200,
-      "name": "Samba Da Ben\u00e7\u00e3o",
-      "url": "https://open.spotify.com/track/6XMDSWv7ZwM0BM0i0YJPOn"
     },
     {
       "added_at": "2023-05-03 12:04:58",

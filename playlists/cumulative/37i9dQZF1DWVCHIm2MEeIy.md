@@ -4,7 +4,7 @@
 
 > The dancefloor is the place to be 🪩
 
-291 songs - 1 day 3 hr 25 min
+292 songs - 1 day 3 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -97,6 +97,7 @@
 | [Fall to the Call](https://open.spotify.com/track/4diYc4BmafdpQiixJ6zVBI) | [Maurice Lessing](https://open.spotify.com/artist/6Y4NTIEU6tHHoxM3s0FO4r), [Brialmont](https://open.spotify.com/artist/3dzz9iCVPDr0hGs8DlNMOb) | [Fall to the Call](https://open.spotify.com/album/4Sz3dvn14AvFdvb50AZMXM) | 4:08 | 2022-04-15 | 2022-06-23 |
 | [Fidale \(I Feel\) \- Vocal Version](https://open.spotify.com/track/7xrUhbMPCC6yBiok3Pb1Ej) | [Monolink](https://open.spotify.com/artist/2I4hRNCYkPKJQlkoEZKjYx), [Zigan Aldi](https://open.spotify.com/artist/5nNJbOr2phyzj0KvIv7HL1) | [Fidale \(I Feel\)](https://open.spotify.com/album/7slMAeG3JZAQKYO16H6ViD) | 4:44 | 2022-04-15 | 2022-07-29 |
 | [Filter Force](https://open.spotify.com/track/0ZauCDu6zhBfbqG7qgDvRg) | [Christian Smith](https://open.spotify.com/artist/0Z2EpubIhxnq4B6PV0I8n3) | [Rave the Planet: Supporter Series, Vol\. 008](https://open.spotify.com/album/1LJtdrIJGhXJp6Rz4Cn6lD) | 7:23 | 2022-04-15 | 2022-07-07 |
+| [Fino](https://open.spotify.com/track/7FuAVEMSHC6W20Y0agpEVc) | [Marek Hemmann](https://open.spotify.com/artist/7tL5UmgvPx6TqKyf0Sjjw6) | [Four](https://open.spotify.com/album/6bdpZUfLh2AnGveQIokC7X) | 5:28 | 2023-04-28 |  |
 | [Footprints](https://open.spotify.com/track/0pJFuImM8bxl1Oj9HW4oVt) | [Kaz James](https://open.spotify.com/artist/1XGHs7YFtpCbDGKaNdPPtA) | [Footprints](https://open.spotify.com/album/1r8Scfn2BamZqnc0wH72Ar) | 5:48 | 2022-08-12 |  |
 | [Free Ya Mind](https://open.spotify.com/track/0a9eOaiuQ0J1hB9rlxhEQo) | [Viktor Talking Machine](https://open.spotify.com/artist/0yVYxAypmpc6a7K8pjJX2t) | [Free Ya Mind](https://open.spotify.com/album/2tuQDwRFtMqw8izavWbQyM) | 6:49 | 2022-11-15 | 2022-11-26 |
 | [Freedom](https://open.spotify.com/track/2bHGHbsFmjQdmdE7hZSKr6) | [Stephan Jolk](https://open.spotify.com/artist/7w0ddx9rFndvpiqO1VOxJM) | [Freedom](https://open.spotify.com/album/4GPawXGx2GGTfN8dPKUBI9) | 4:00 | 2022-05-20 |  |
@@ -137,7 +138,7 @@
 | [Is This Our Earth?](https://open.spotify.com/track/4oDRXykJhBsUZJOODiQ18M) | [Lane 8](https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb) | [Is This Our Earth?](https://open.spotify.com/album/316bE5c2saBR5h40GBARwm) | 3:41 | 2022-06-24 | 2022-12-31 |
 | [KEEP ME IN YOUR MIND \- Einmusik Remix](https://open.spotify.com/track/1M3CJIRObczFPT529PyzMy) | [JOPLYN](https://open.spotify.com/artist/32Jt1AK733JbFR82hEZ0Ih), [Einmusik](https://open.spotify.com/artist/1LXTXZjheh25pXMEUT9iC1) | [KEEP ME IN YOUR MIND \(Einmusik Remix\)](https://open.spotify.com/album/7uJQ17FKSVFfty0wsa4AMb) | 6:29 | 2023-04-07 |  |
 | [Known](https://open.spotify.com/track/7HifJr6sXlPCtnfPnMC0Rg) | [Visual Impact](https://open.spotify.com/artist/4x6uqIBNtjpOK15euwKiVI) | [Known](https://open.spotify.com/album/2xnS4KlBwyc8sYKPJ5kmpk) | 4:26 | 2022-11-14 | 2022-12-27 |
-| [Lady Cherry](https://open.spotify.com/track/1FegqJzuhbp7XZY4gT5EoW) | [Whitesquare](https://open.spotify.com/artist/3bMbfexE8OmHIPigyIpROI) | [Discreet Moment Thing Pt\. 2](https://open.spotify.com/album/7FK2B1ZpjFe2JI5B3MXea0) | 5:42 | 2022-06-24 |  |
+| [Lady Cherry](https://open.spotify.com/track/1FegqJzuhbp7XZY4gT5EoW) | [Whitesquare](https://open.spotify.com/artist/3bMbfexE8OmHIPigyIpROI) | [Discreet Moment Thing Pt\. 2](https://open.spotify.com/album/7FK2B1ZpjFe2JI5B3MXea0) | 5:42 | 2022-06-24 | 2023-05-20 |
 | [Lady Cherry](https://open.spotify.com/track/5Aub2PCLAJi4QuMnN5g5d3) | [Whitesquare](https://open.spotify.com/artist/3bMbfexE8OmHIPigyIpROI) | [Discreet Moment Thing Pt\. 2](https://open.spotify.com/album/5eaviny1LfRUn4benBg9XD) | 5:42 | 2022-04-15 | 2022-07-27 |
 | [Landa](https://open.spotify.com/track/4QKgq7twx3wHL3fS73WKHo) | [Cassian](https://open.spotify.com/artist/1ChtRJ3f4rbv4vtz87i6CD) | [Unity Pt\. 3](https://open.spotify.com/album/6oQPnEVls3b5rYADbS1TvE) | 6:00 | 2022-08-12 |  |
 | [Let the Music Play! \- Original Mix](https://open.spotify.com/track/0f150GYVei3cniOzvZ3Q0i) | [Moonbootica](https://open.spotify.com/artist/1YkHCcMgZ6fTQMeEQyYKTf) | [Let the Music Play!](https://open.spotify.com/album/4JFYLtAVAUqLAs0M5QCglG) | 7:21 | 2022-04-15 | 2022-04-28 |

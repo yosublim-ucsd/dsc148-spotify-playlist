@@ -1,13 +1,53 @@
 {
   "description": "Your favorite a cappella music from Pentatonix, the Glee cast, Pitch Perfect, and more. Just sing it! Cover: Pentatonix",
-  "num_followers": 100164,
+  "num_followers": 100176,
   "original_name": "All A Cappella",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkYjc3YTRhNTdhNjU3ZDVhN2Q3YTY1Y2I4NmYwNjljODJkNzM2MjIw",
+  "snapshot_id": "MCwxOTJjZjE3MTY0MzgxZTQ0OGEyMmI5MDJkMWM4Y2I2NTlkMzFlMTE4",
   "tracks": [
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
+        "name": "Toto Medley (feat. David Paich)",
+        "url": "https://open.spotify.com/album/1AG03Bhd06Y5W9m4LZjlQZ"
+      },
+      "artists": [
+        {
+          "name": "Straight No Chaser",
+          "url": "https://open.spotify.com/artist/1yQ8S4xdGOGbUcpaPR6hCM"
+        },
+        {
+          "name": "David Paich",
+          "url": "https://open.spotify.com/artist/6zgKTqBOokh6IjLXOO5zfQ"
+        }
+      ],
+      "duration_ms": 261480,
+      "name": "Toto Medley (feat. David Paich)",
+      "url": "https://open.spotify.com/track/2PMnqvzEnv5FvLS9jsr5jT"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
+        "name": "Affiliations, Vol. 3",
+        "url": "https://open.spotify.com/album/3VLKGO8HKfqsnAS2XNOlTH"
+      },
+      "artists": [
+        {
+          "name": "The Filharmonic",
+          "url": "https://open.spotify.com/artist/63QppfTaQHZpb8VhSlsvZz"
+        },
+        {
+          "name": "Melissa Polinar",
+          "url": "https://open.spotify.com/artist/2O6S01fSY6YHfZT6qLAgxG"
+        }
+      ],
+      "duration_ms": 167532,
+      "name": "Meant to Be",
+      "url": "https://open.spotify.com/track/5oEQ49k6hTkwkaRZ0uKB2I"
+    },
     {
       "added_at": "2023-03-22 20:15:33",
       "album": {
@@ -27,58 +67,6 @@
       "duration_ms": 215764,
       "name": "Golden Hour",
       "url": "https://open.spotify.com/track/5UZhZYORv7FLXKIXC5HVNM"
-    },
-    {
-      "added_at": "2021-12-24 05:00:00",
-      "album": {
-        "name": "Six Pack",
-        "url": "https://open.spotify.com/album/1yMR5RmaJbRAKFAQ05k8Dj"
-      },
-      "artists": [
-        {
-          "name": "Straight No Chaser",
-          "url": "https://open.spotify.com/artist/1yQ8S4xdGOGbUcpaPR6hCM"
-        }
-      ],
-      "duration_ms": 214893,
-      "name": "I'm Yours / Somewhere over the Rainbow - EP Version",
-      "url": "https://open.spotify.com/track/4g1NXho7CDYnWzwvQISprj"
-    },
-    {
-      "added_at": "2023-03-10 05:01:00",
-      "album": {
-        "name": "Man in the Mirror",
-        "url": "https://open.spotify.com/album/5uQnVKzQubfaNoCEaALcf5"
-      },
-      "artists": [
-        {
-          "name": "The Swingles",
-          "url": "https://open.spotify.com/artist/5QvPTVBx6OlrUuPwC8W3uU"
-        },
-        {
-          "name": "Vad\u00e9",
-          "url": "https://open.spotify.com/artist/4WRmZFsekldnGI9cum10PD"
-        }
-      ],
-      "duration_ms": 303010,
-      "name": "Man in the Mirror",
-      "url": "https://open.spotify.com/track/5UuG19x0mUEFDWdF1LFAMy"
-    },
-    {
-      "added_at": "2021-12-24 05:00:00",
-      "album": {
-        "name": "United We Sing",
-        "url": "https://open.spotify.com/album/7oJCzq2s36F8PByLgaaYX6"
-      },
-      "artists": [
-        {
-          "name": "University of Rochester YellowJackets",
-          "url": "https://open.spotify.com/artist/5PdBpsZXvnEbbTe1589fMO"
-        }
-      ],
-      "duration_ms": 199801,
-      "name": "Waka Waka (This Time For Africa)",
-      "url": "https://open.spotify.com/track/1ZRXk2GjLeHu1Ojv4WDWs4"
     },
     {
       "added_at": "2023-05-03 13:16:53",
@@ -101,6 +89,58 @@
       "url": "https://open.spotify.com/track/1sBbXkYUzsTnWfuzG0zeaf"
     },
     {
+      "added_at": "2021-12-24 05:00:00",
+      "album": {
+        "name": "Six Pack",
+        "url": "https://open.spotify.com/album/1yMR5RmaJbRAKFAQ05k8Dj"
+      },
+      "artists": [
+        {
+          "name": "Straight No Chaser",
+          "url": "https://open.spotify.com/artist/1yQ8S4xdGOGbUcpaPR6hCM"
+        }
+      ],
+      "duration_ms": 214893,
+      "name": "I'm Yours / Somewhere over the Rainbow - EP Version",
+      "url": "https://open.spotify.com/track/4g1NXho7CDYnWzwvQISprj"
+    },
+    {
+      "added_at": "2021-12-24 05:00:00",
+      "album": {
+        "name": "United We Sing",
+        "url": "https://open.spotify.com/album/7oJCzq2s36F8PByLgaaYX6"
+      },
+      "artists": [
+        {
+          "name": "University of Rochester YellowJackets",
+          "url": "https://open.spotify.com/artist/5PdBpsZXvnEbbTe1589fMO"
+        }
+      ],
+      "duration_ms": 199801,
+      "name": "Waka Waka (This Time For Africa)",
+      "url": "https://open.spotify.com/track/1ZRXk2GjLeHu1Ojv4WDWs4"
+    },
+    {
+      "added_at": "2023-03-10 05:01:00",
+      "album": {
+        "name": "Man in the Mirror",
+        "url": "https://open.spotify.com/album/5uQnVKzQubfaNoCEaALcf5"
+      },
+      "artists": [
+        {
+          "name": "The Swingles",
+          "url": "https://open.spotify.com/artist/5QvPTVBx6OlrUuPwC8W3uU"
+        },
+        {
+          "name": "Vad\u00e9",
+          "url": "https://open.spotify.com/artist/4WRmZFsekldnGI9cum10PD"
+        }
+      ],
+      "duration_ms": 303010,
+      "name": "Man in the Mirror",
+      "url": "https://open.spotify.com/track/5UuG19x0mUEFDWdF1LFAMy"
+    },
+    {
       "added_at": "2023-01-13 05:01:00",
       "album": {
         "name": "The New Old Fashioned (Deluxe)",
@@ -115,6 +155,22 @@
       "duration_ms": 174720,
       "name": "All About That Bass (No Tenors)",
       "url": "https://open.spotify.com/track/5dPP4RkWKJIW7ituwdexB7"
+    },
+    {
+      "added_at": "2021-12-24 05:00:00",
+      "album": {
+        "name": "I Just Called To Say I Love You",
+        "url": "https://open.spotify.com/album/7bka3HXnE5PRXwFWN0plgw"
+      },
+      "artists": [
+        {
+          "name": "Pentatonix",
+          "url": "https://open.spotify.com/artist/26AHtbjWKiwYzsoGoUZq53"
+        }
+      ],
+      "duration_ms": 206880,
+      "name": "I Just Called To Say I Love You",
+      "url": "https://open.spotify.com/track/7zy16ikBD0yVQnp5raajLo"
     },
     {
       "added_at": "2023-05-03 13:16:53",
@@ -179,6 +235,26 @@
       "duration_ms": 246306,
       "name": "Africa",
       "url": "https://open.spotify.com/track/2R5YgpxcFEWGXM0HTAHDFJ"
+    },
+    {
+      "added_at": "2023-03-10 05:01:00",
+      "album": {
+        "name": "Takin' It Back",
+        "url": "https://open.spotify.com/album/4LVa9bljQRvLYpWr8qyaXs"
+      },
+      "artists": [
+        {
+          "name": "Meghan Trainor",
+          "url": "https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz"
+        },
+        {
+          "name": "Scott Hoying",
+          "url": "https://open.spotify.com/artist/72Q6lRKiVLErS4QjuZxsDG"
+        }
+      ],
+      "duration_ms": 178376,
+      "name": "Sensitive (feat. Scott Hoying)",
+      "url": "https://open.spotify.com/track/4HcqUkRTvrRAiFVjeOS3w4"
     },
     {
       "added_at": "2023-05-03 13:16:53",
@@ -259,22 +335,6 @@
       "duration_ms": 198946,
       "name": "Despacito x Shape Of You",
       "url": "https://open.spotify.com/track/5cj54CVe4pQZ9cUKgbsZrG"
-    },
-    {
-      "added_at": "2021-12-24 05:00:00",
-      "album": {
-        "name": "I Just Called To Say I Love You",
-        "url": "https://open.spotify.com/album/7bka3HXnE5PRXwFWN0plgw"
-      },
-      "artists": [
-        {
-          "name": "Pentatonix",
-          "url": "https://open.spotify.com/artist/26AHtbjWKiwYzsoGoUZq53"
-        }
-      ],
-      "duration_ms": 206880,
-      "name": "I Just Called To Say I Love You",
-      "url": "https://open.spotify.com/track/7zy16ikBD0yVQnp5raajLo"
     },
     {
       "added_at": "2023-05-03 13:16:53",
@@ -967,30 +1027,6 @@
     {
       "added_at": "2021-12-24 05:00:00",
       "album": {
-        "name": "Ultimate Pitch Perfect (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/3C81mDhWllB5q56pfvik3U"
-      },
-      "artists": [
-        {
-          "name": "The Barden Bellas",
-          "url": "https://open.spotify.com/artist/2BaKphge9AdjZIxQqv7WoQ"
-        },
-        {
-          "name": "The Treblemakers",
-          "url": "https://open.spotify.com/artist/1T81IFRFywCJW0SNWMv3T1"
-        },
-        {
-          "name": "The Bu Harmonics",
-          "url": "https://open.spotify.com/artist/3ZqvXNT2zEezA2VUT90CYy"
-        }
-      ],
-      "duration_ms": 224266,
-      "name": "Riff Off: Mickey/Like A Virgin/Hit Me With Your Best Shot/S&M/Let\u2019s Talk About Sex/I\u2019ll Make Love To You/Feels Like The First Time/No Diggity",
-      "url": "https://open.spotify.com/track/0phwM5a6TdLBDl0F9bk5fl"
-    },
-    {
-      "added_at": "2021-12-24 05:00:00",
-      "album": {
         "name": "PTX, Vol. 2",
         "url": "https://open.spotify.com/album/12dPqNFIdjiVFSHvtsDmzJ"
       },
@@ -1565,26 +1601,6 @@
       "url": "https://open.spotify.com/track/4Gq6u5nfls4ACzcUewvATu"
     },
     {
-      "added_at": "2023-03-10 05:01:00",
-      "album": {
-        "name": "Takin' It Back",
-        "url": "https://open.spotify.com/album/4LVa9bljQRvLYpWr8qyaXs"
-      },
-      "artists": [
-        {
-          "name": "Meghan Trainor",
-          "url": "https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz"
-        },
-        {
-          "name": "Scott Hoying",
-          "url": "https://open.spotify.com/artist/72Q6lRKiVLErS4QjuZxsDG"
-        }
-      ],
-      "duration_ms": 178376,
-      "name": "Sensitive (feat. Scott Hoying)",
-      "url": "https://open.spotify.com/track/4HcqUkRTvrRAiFVjeOS3w4"
-    },
-    {
       "added_at": "2021-12-24 05:00:00",
       "album": {
         "name": "With a Twist (Deluxe)",
@@ -1663,22 +1679,6 @@
       "duration_ms": 115706,
       "name": "Wavin' Flag",
       "url": "https://open.spotify.com/track/21i3JjSTPryzlVKNBiWjxE"
-    },
-    {
-      "added_at": "2021-12-24 05:00:00",
-      "album": {
-        "name": "Pitch Perfect 2 - Special Edition (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/2ZeHAc9olOJ70wqPjHXhZE"
-      },
-      "artists": [
-        {
-          "name": "The Barden Bellas",
-          "url": "https://open.spotify.com/artist/2BaKphge9AdjZIxQqv7WoQ"
-        }
-      ],
-      "duration_ms": 146346,
-      "name": "Kennedy Center Performance - From \"Pitch Perfect 2\" Soundtrack",
-      "url": "https://open.spotify.com/track/379pQhTWVBdSEe8cfUmlHy"
     },
     {
       "added_at": "2021-12-24 05:00:00",

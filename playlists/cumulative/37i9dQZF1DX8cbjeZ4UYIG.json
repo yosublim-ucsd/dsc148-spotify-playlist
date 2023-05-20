@@ -982,7 +982,7 @@
     {
       "album": {
         "name": "Deliverance",
-        "url": "https://open.spotify.com/album/2l6eqXAWTJD43002cCPiYn"
+        "url": "https://open.spotify.com/album/4IWn4hJRmgNCv1wY8JGBrS"
       },
       "artists": [
         {
@@ -993,6 +993,24 @@
       "date_added": "2020-10-06",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 470506,
+      "name": "Let Me Be Your Fantasy",
+      "url": "https://open.spotify.com/track/1rQMmMklXi7k1HreHdD9Tj"
+    },
+    {
+      "album": {
+        "name": "Deliverance",
+        "url": "https://open.spotify.com/album/2l6eqXAWTJD43002cCPiYn"
+      },
+      "artists": [
+        {
+          "name": "Baby D",
+          "url": "https://open.spotify.com/artist/33ZOI0WTjYkLh5WuwucLhc"
+        }
+      ],
+      "date_added": "2020-10-06",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-20",
       "duration_ms": 470506,
       "name": "Let Me Be Your Fantasy",
       "url": "https://open.spotify.com/track/5NrSz7dRurN8VjHpFuRgph"

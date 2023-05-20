@@ -292,7 +292,7 @@
       ],
       "date_added": "2020-10-13",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 130206,
       "name": "1:15",
       "url": "https://open.spotify.com/track/0TNFCRzOnlgu7W1K47sFnY"
@@ -716,7 +716,7 @@
       ],
       "date_added": "2023-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 139908,
       "name": "4get",
       "url": "https://open.spotify.com/track/2mlgFhBe2shVc1ITY0ri9B"
@@ -3814,7 +3814,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 221566,
       "name": "Black Ferrari",
       "url": "https://open.spotify.com/track/0ymnNE6Fyd8NILsBkwbqMk"
@@ -3968,7 +3968,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 154160,
       "name": "blank point",
       "url": "https://open.spotify.com/track/70qQK5Oi4Q4aCwmiC9aCsX"
@@ -6510,6 +6510,28 @@
       "duration_ms": 103105,
       "name": "cold & hot",
       "url": "https://open.spotify.com/track/64aqyJ93QNCy5Cce086rJt"
+    },
+    {
+      "album": {
+        "name": "Cold Touch",
+        "url": "https://open.spotify.com/album/2Y01Vf7C32AQw4ki2moXGj"
+      },
+      "artists": [
+        {
+          "name": "Kito",
+          "url": "https://open.spotify.com/artist/3FLUBwpAnaIlIKeaBfsxFe"
+        },
+        {
+          "name": "GrimesAI",
+          "url": "https://open.spotify.com/artist/7qiNgbnabvfRbA9lomTgEk"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130560,
+      "name": "Cold Touch",
+      "url": "https://open.spotify.com/track/7mGSXZwI5LlTqGARZH7JiM"
     },
     {
       "album": {
@@ -20191,6 +20213,28 @@
     },
     {
       "album": {
+        "name": "Most Viewed (Himera\u2019s Dream)",
+        "url": "https://open.spotify.com/album/6PA0ldKaakuuJHHkIX0pc5"
+      },
+      "artists": [
+        {
+          "name": "twst",
+          "url": "https://open.spotify.com/artist/5zEQC9Hbg0Sql7lQB466xD"
+        },
+        {
+          "name": "Himera",
+          "url": "https://open.spotify.com/artist/1Vi0Dq6hC56i3a6eVA9Y6g"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209777,
+      "name": "Most Viewed (Himera's Dream)",
+      "url": "https://open.spotify.com/track/2TrvMlffH5wuqAaU17t50K"
+    },
+    {
+      "album": {
         "name": "mothbulb",
         "url": "https://open.spotify.com/album/45iFMHKyccEJZQ4MwLLk3Z"
       },
@@ -21273,6 +21317,28 @@
     },
     {
       "album": {
+        "name": "NOTHING LEFT\\\\\\",
+        "url": "https://open.spotify.com/album/283qeb43YBQdLBVMAUtu8f"
+      },
+      "artists": [
+        {
+          "name": "Zaram",
+          "url": "https://open.spotify.com/artist/4PpjSdoBcpPXn59h9exd0b"
+        },
+        {
+          "name": "Nosgov",
+          "url": "https://open.spotify.com/artist/6FK0azeTwe5RwhUAkpkhnh"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111000,
+      "name": "NOTHING LEFT\\\\\\",
+      "url": "https://open.spotify.com/track/208z04AQA3GNNZYJZuOgBZ"
+    },
+    {
+      "album": {
         "name": "novocaine",
         "url": "https://open.spotify.com/album/3BcbpeWTqJrHWt9OsY2Lsf"
       },
@@ -22168,6 +22234,24 @@
       "duration_ms": 144294,
       "name": "orange",
       "url": "https://open.spotify.com/track/3Boce4mnHgoSvyIYwpLJDi"
+    },
+    {
+      "album": {
+        "name": "ORANGES",
+        "url": "https://open.spotify.com/album/0TPBV5t6GkkAPYu35zj8aV"
+      },
+      "artists": [
+        {
+          "name": "Jaron",
+          "url": "https://open.spotify.com/artist/4kerBatvaELCGJDnDqW5oq"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123272,
+      "name": "ORANGES",
+      "url": "https://open.spotify.com/track/3r9Cxh3C8aYaph5D8lT4cW"
     },
     {
       "album": {

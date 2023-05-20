@@ -1,13 +1,365 @@
 {
-  "description": "The best new R&B by independent artists and labels. Cover: TA Thomas. Updates every Wednesday.",
-  "num_followers": 194537,
+  "description": "The best new R&B by independent artists and labels. Cover: Chikoruss. Updates every Wednesday.",
+  "num_followers": 194653,
   "original_name": "Fresh Finds R&B",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1YmE4OWY3ODBhOGM3MDAwOGI5ZDNhMjI4MmY4ZDQyNDJmODY4NTFl",
+  "snapshot_id": "MCw4OWNhMjU3NjYzNWZjZDM3YTRiMTE0Yjc3NDE0NDljNjRjNzQzNjIw",
   "tracks": [
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
+        "name": "Body Language",
+        "url": "https://open.spotify.com/album/6L1ekY8aBACrSliErW0bB3"
+      },
+      "artists": [
+        {
+          "name": "Chikoruss",
+          "url": "https://open.spotify.com/artist/3uZWq09EA6TKOR3wqJGVMx"
+        }
+      ],
+      "duration_ms": 203637,
+      "name": "Body Language",
+      "url": "https://open.spotify.com/track/0KTj4f42N812t5jfFto2CU"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
+        "name": "Over Again",
+        "url": "https://open.spotify.com/album/5PevLWBw5ghdRIsADBJpEh"
+      },
+      "artists": [
+        {
+          "name": "L\u00c9A THE LEOX",
+          "url": "https://open.spotify.com/artist/76yn7CZJcpG479LvqWHh8O"
+        }
+      ],
+      "duration_ms": 177631,
+      "name": "Over Again",
+      "url": "https://open.spotify.com/track/5MxluVlMgSy1OaBDwUh825"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
+        "name": "Fetish",
+        "url": "https://open.spotify.com/album/6NJ7xeYsfNmfNTYvL1gm5N"
+      },
+      "artists": [
+        {
+          "name": "Josef Lamercier",
+          "url": "https://open.spotify.com/artist/3T7YH8Lq7GMkrYLiWvaXgc"
+        },
+        {
+          "name": "Niko Oroc",
+          "url": "https://open.spotify.com/artist/0hyAc4uL2daH73ehuYDLac"
+        },
+        {
+          "name": "PHABO",
+          "url": "https://open.spotify.com/artist/5FdZDr2bMbEcnsEKRgO3rn"
+        }
+      ],
+      "duration_ms": 182608,
+      "name": "Fetish",
+      "url": "https://open.spotify.com/track/5pfAGCLi2iva1TkooCFlPv"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
+        "name": "Temporary Love",
+        "url": "https://open.spotify.com/album/7Ik6vXPyiM9jflElmt78cQ"
+      },
+      "artists": [
+        {
+          "name": "Xenia Manasseh",
+          "url": "https://open.spotify.com/artist/2J4IvVbi2h1wB2A0p5kd86"
+        }
+      ],
+      "duration_ms": 156213,
+      "name": "Temporary Love",
+      "url": "https://open.spotify.com/track/502fO9MaTL1FXQxilajwW8"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
+        "name": "Westside",
+        "url": "https://open.spotify.com/album/3QJg2RbY18wsOOvOVG0GPo"
+      },
+      "artists": [
+        {
+          "name": "Nevi",
+          "url": "https://open.spotify.com/artist/3KYwV2yzftyYsJCKocAhbM"
+        }
+      ],
+      "duration_ms": 155454,
+      "name": "Westside",
+      "url": "https://open.spotify.com/track/1PVHaSqI9vECfbd5ac6xAS"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
+        "name": "Seance",
+        "url": "https://open.spotify.com/album/4apjc7VqYs67dC1j4AngB4"
+      },
+      "artists": [
+        {
+          "name": "Saleka",
+          "url": "https://open.spotify.com/artist/7ESkOK8bwqIEVwerMPuwI7"
+        }
+      ],
+      "duration_ms": 193457,
+      "name": "Samsara",
+      "url": "https://open.spotify.com/track/0FWao9iq2dA2PxiESAtHBE"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
+        "name": "Bloodlines",
+        "url": "https://open.spotify.com/album/3i0jkvrg2HK1OOwDfRRCMJ"
+      },
+      "artists": [
+        {
+          "name": "Raelle",
+          "url": "https://open.spotify.com/artist/6ryr8CPNOimXJHnbtyZKtc"
+        }
+      ],
+      "duration_ms": 235102,
+      "name": "(Oh) My Days",
+      "url": "https://open.spotify.com/track/6w7rmgjSppBXydCtHzfMMA"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
+        "name": "Silhouette Dreams",
+        "url": "https://open.spotify.com/album/7bS3ffbYah2XF7ViNbqpFW"
+      },
+      "artists": [
+        {
+          "name": "Halo Yagami",
+          "url": "https://open.spotify.com/artist/3boR2ULQR1CX6TUBboHctW"
+        },
+        {
+          "name": "Kemuel",
+          "url": "https://open.spotify.com/artist/0ixmjHuzMTxPyps7w28tnH"
+        }
+      ],
+      "duration_ms": 167471,
+      "name": "Toxic",
+      "url": "https://open.spotify.com/track/5ghsHV0ShfpLni5slc0BNi"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
+        "name": "Amnesia",
+        "url": "https://open.spotify.com/album/560adZ6I3nFZlZKGtN90Qp"
+      },
+      "artists": [
+        {
+          "name": "Maurice Moore",
+          "url": "https://open.spotify.com/artist/2r3A0lVppaYaTz2ttY1Jws"
+        }
+      ],
+      "duration_ms": 170400,
+      "name": "Amnesia",
+      "url": "https://open.spotify.com/track/0qtEyHDZR52zOOdVCybDbu"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
+        "name": "Closer",
+        "url": "https://open.spotify.com/album/2lxRRDXLJk1dKVEdAIt3My"
+      },
+      "artists": [
+        {
+          "name": "Caleb Taylor",
+          "url": "https://open.spotify.com/artist/2HlbEnU7PX3NEpeYlWwXTH"
+        }
+      ],
+      "duration_ms": 138000,
+      "name": "Closer",
+      "url": "https://open.spotify.com/track/587C4Aldzk9IotCYASrIoR"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
+        "name": "Persuade Me",
+        "url": "https://open.spotify.com/album/3WzmMpUhESBLc6R8Z5aM57"
+      },
+      "artists": [
+        {
+          "name": "Naesia",
+          "url": "https://open.spotify.com/artist/2InyKKvSXjsPZHDhAKrtZA"
+        }
+      ],
+      "duration_ms": 182680,
+      "name": "Persuade Me",
+      "url": "https://open.spotify.com/track/775RzkgZutFuIiqUttdo0Z"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
+        "name": "Purple Skies",
+        "url": "https://open.spotify.com/album/4JJjhiUJE60AAQJPLyX2W9"
+      },
+      "artists": [
+        {
+          "name": "Abrina",
+          "url": "https://open.spotify.com/artist/3FfeeQuvoeef4F19qixt58"
+        }
+      ],
+      "duration_ms": 168944,
+      "name": "Purple Skies",
+      "url": "https://open.spotify.com/track/0ToLN32qF8AChmMqRPkjlR"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
+        "name": "State Of Mind",
+        "url": "https://open.spotify.com/album/44x9FLjqOR4u3X08LJj0x2"
+      },
+      "artists": [
+        {
+          "name": "Henri Gaston",
+          "url": "https://open.spotify.com/artist/52y8QkoyGh5eYwpqU75fGa"
+        }
+      ],
+      "duration_ms": 193071,
+      "name": "State Of Mind",
+      "url": "https://open.spotify.com/track/6UwxMsqDA9qMjNXl3HCvHG"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
+        "name": "Libra Scale (Acoustic)",
+        "url": "https://open.spotify.com/album/3cKnZ69uhj7R4ZUcTNfRHX"
+      },
+      "artists": [
+        {
+          "name": "Love Moor",
+          "url": "https://open.spotify.com/artist/2YUbTUcCN7avxcXKrJGm71"
+        }
+      ],
+      "duration_ms": 204124,
+      "name": "Libra Scale - Acoustic",
+      "url": "https://open.spotify.com/track/2ItSrjTOMkxejPBTncfj5c"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
+        "name": "Girl Next Door",
+        "url": "https://open.spotify.com/album/299qXkDZ9FVknrT6DMESFw"
+      },
+      "artists": [
+        {
+          "name": "G.Ghost",
+          "url": "https://open.spotify.com/artist/5oCxNLRlQnE00uhytRYYXi"
+        },
+        {
+          "name": "Tay D",
+          "url": "https://open.spotify.com/artist/2xZVH2W4jaE7MJ6K04q43D"
+        }
+      ],
+      "duration_ms": 257426,
+      "name": "Girl Next Door",
+      "url": "https://open.spotify.com/track/0E5O7kDSbiK4Ke6m259joQ"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
+        "name": "Honest",
+        "url": "https://open.spotify.com/album/4cU9VcBtVf242uWoHaFnmZ"
+      },
+      "artists": [
+        {
+          "name": "Anika K",
+          "url": "https://open.spotify.com/artist/7vUSRs2K5Unym9Z7UyPwQh"
+        }
+      ],
+      "duration_ms": 168877,
+      "name": "Honest",
+      "url": "https://open.spotify.com/track/5CFHSn8YITO3ZAn2utxZd5"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
+        "name": "2 Step",
+        "url": "https://open.spotify.com/album/7vX9KUViMIpfLxDpMPyTr0"
+      },
+      "artists": [
+        {
+          "name": "INQ.",
+          "url": "https://open.spotify.com/artist/1c0sr0cvXzCt7Zmo70sZt8"
+        },
+        {
+          "name": "Rob Feher",
+          "url": "https://open.spotify.com/artist/4R1wbJawZcV7JXJau3WDzx"
+        },
+        {
+          "name": "Gabby Nacua",
+          "url": "https://open.spotify.com/artist/2qvbmHsVyNd9JzMWFe1jbK"
+        }
+      ],
+      "duration_ms": 132155,
+      "name": "Groove To, Pt. 2",
+      "url": "https://open.spotify.com/track/59fS4Nx95s7pYHKHeVdS7n"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
+        "name": "Sunny Days",
+        "url": "https://open.spotify.com/album/7fQrvuCGqLccjHRrRSKYHe"
+      },
+      "artists": [
+        {
+          "name": "Kennedy Ryon",
+          "url": "https://open.spotify.com/artist/02QGxgemaZGHvNZBDn53yH"
+        }
+      ],
+      "duration_ms": 262200,
+      "name": "Sunny Days",
+      "url": "https://open.spotify.com/track/3gXnOahT4VaUb6JyEjYEvz"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
+        "name": "Jokes On You",
+        "url": "https://open.spotify.com/album/2GKR2iEaCS1FlXaHEFh2dH"
+      },
+      "artists": [
+        {
+          "name": "Nemchel",
+          "url": "https://open.spotify.com/artist/7g0FhvYZY0xU9wklCVheEZ"
+        }
+      ],
+      "duration_ms": 116470,
+      "name": "Jokes On You",
+      "url": "https://open.spotify.com/track/7ddwKWHCEW4kLEbq7UCwAg"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
+        "name": "Subtle Games",
+        "url": "https://open.spotify.com/album/3aMR26kSe8rzHjj7VXLk1R"
+      },
+      "artists": [
+        {
+          "name": "Mezraa",
+          "url": "https://open.spotify.com/artist/6oT0L9KXaIDDW38IpYuvRs"
+        },
+        {
+          "name": "jjad",
+          "url": "https://open.spotify.com/artist/245muEmgdPNuYVuvtnykJF"
+        },
+        {
+          "name": "Liv East",
+          "url": "https://open.spotify.com/artist/12Yeojvul63OHxXXI6Z5x7"
+        }
+      ],
+      "duration_ms": 154615,
+      "name": "Subtle Games",
+      "url": "https://open.spotify.com/track/6PF4h4F2wkskBlO4XbqT5U"
+    },
     {
       "added_at": "2023-05-12 05:26:09",
       "album": {
@@ -39,22 +391,6 @@
       "duration_ms": 131541,
       "name": "Lonely",
       "url": "https://open.spotify.com/track/5vt7dvdHX7DFRKHAMKrRDs"
-    },
-    {
-      "added_at": "2023-05-12 05:26:09",
-      "album": {
-        "name": "Strawberry Perfume",
-        "url": "https://open.spotify.com/album/1JloybRxPNoSQRTxPqsGxU"
-      },
-      "artists": [
-        {
-          "name": "Chenayder",
-          "url": "https://open.spotify.com/artist/0BXnfQpsxFevtKePq6eX4y"
-        }
-      ],
-      "duration_ms": 116736,
-      "name": "Strawberry Perfume",
-      "url": "https://open.spotify.com/track/4IbE8jxsczCxfGYJCE2T1x"
     },
     {
       "added_at": "2023-05-12 05:26:09",
@@ -607,22 +943,6 @@
       "duration_ms": 197916,
       "name": "komplete riddim",
       "url": "https://open.spotify.com/track/1n4ddwMC0TWGuVSpA4XwK6"
-    },
-    {
-      "added_at": "2023-05-05 04:52:40",
-      "album": {
-        "name": "ACT 3",
-        "url": "https://open.spotify.com/album/4qcKBpbjvMZFJIZwDSs1ez"
-      },
-      "artists": [
-        {
-          "name": "SuperJazzClub",
-          "url": "https://open.spotify.com/artist/5CINjDZoikcuTmtw3wgPfp"
-        }
-      ],
-      "duration_ms": 220740,
-      "name": "Paradise",
-      "url": "https://open.spotify.com/track/6BOqdJL8QaAEZHY2EruTyb"
     },
     {
       "added_at": "2023-05-05 04:52:40",

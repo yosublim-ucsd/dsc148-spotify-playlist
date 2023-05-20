@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-24",
-  "description": "Pega o gelo de coco, chama o bonde e vem pra festa. Foto: Ryu, the Runner, Mateca",
+  "description": "Pega o gelo de coco, chama o bonde e vem pra festa. Foto: Xam\u00e3",
   "name": "Cop\u00e3o na m\u00e3o",
   "tracks": [
     {
@@ -618,7 +618,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 148363,
       "name": "Baw Baw",
       "url": "https://open.spotify.com/track/3WkQB4dC44RqD7P33z0Ck9"
@@ -1673,6 +1673,44 @@
     },
     {
       "album": {
+        "name": "Dos Pr\u00e9dios Deluxe",
+        "url": "https://open.spotify.com/album/0D59BFMmnA87oPyk1oSe1b"
+      },
+      "artists": [
+        {
+          "name": "Veigh",
+          "url": "https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse"
+        },
+        {
+          "name": "Tz da Coronel",
+          "url": "https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e"
+        },
+        {
+          "name": "Toledo",
+          "url": "https://open.spotify.com/artist/7I4OIWw3Zm4lUmt2QHnz30"
+        },
+        {
+          "name": "Nagalli",
+          "url": "https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk"
+        },
+        {
+          "name": "Bvga Beatz",
+          "url": "https://open.spotify.com/artist/7saGN6a32YNpiMPo2SWJxE"
+        },
+        {
+          "name": "Supernova Ent",
+          "url": "https://open.spotify.com/artist/3prRKGJz16RRMRSIM97nHw"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188497,
+      "name": "Engana Dizendo Que Ama",
+      "url": "https://open.spotify.com/track/39xOREhViooEYFpmnKTdrl"
+    },
+    {
+      "album": {
         "name": "Evoque Miami Blue",
         "url": "https://open.spotify.com/album/1CIU7JnfWM7DdXFdtx1Bap"
       },
@@ -2561,6 +2599,32 @@
     },
     {
       "album": {
+        "name": "Malandrex",
+        "url": "https://open.spotify.com/album/1ZaDOwrE3dtGmze7AIFQJw"
+      },
+      "artists": [
+        {
+          "name": "DomLaike",
+          "url": "https://open.spotify.com/artist/4PzPx1yc3kGVo4EgCiLqCQ"
+        },
+        {
+          "name": "Vinicin",
+          "url": "https://open.spotify.com/artist/5XEiZVyQHpIDjhkIBbpf2G"
+        },
+        {
+          "name": "Bielzin",
+          "url": "https://open.spotify.com/artist/2vWGxqWbGgmgxVDZ5CBvBP"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256000,
+      "name": "Malandrex",
+      "url": "https://open.spotify.com/track/0ZbPY7gyaPOFKw1rNwdDyi"
+    },
+    {
+      "album": {
         "name": "OSVALDO",
         "url": "https://open.spotify.com/album/6cFRh2K9EtmeRK3kHaUKng"
       },
@@ -2616,7 +2680,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 169043,
       "name": "Mandando na City",
       "url": "https://open.spotify.com/track/77O3HirXUSYyoEehMubAew"
@@ -2740,7 +2804,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 322622,
       "name": "Marid\u00e3o (feat. Borges & Feek)",
       "url": "https://open.spotify.com/track/66H84rhrbf31Tm8Mv9GAtJ"
@@ -3262,7 +3326,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 158076,
       "name": "Movimento - Spotify Singles",
       "url": "https://open.spotify.com/track/1U3oUPST65OhAz9PG4eAVv"
@@ -3544,6 +3608,24 @@
       "duration_ms": 177000,
       "name": "Pandora",
       "url": "https://open.spotify.com/track/0yL7K9MzC20uBesZTPY81r"
+    },
+    {
+      "album": {
+        "name": "Fala Isso pra Todas",
+        "url": "https://open.spotify.com/album/4HQER8pOnUmA7UiztEVatF"
+      },
+      "artists": [
+        {
+          "name": "Jotav",
+          "url": "https://open.spotify.com/artist/3VyPL4eS5O4AH8kCIl6WJ2"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143004,
+      "name": "Para o Baile",
+      "url": "https://open.spotify.com/track/5OwhyEznMGm4iJDpTTp1h8"
     },
     {
       "album": {
@@ -4301,6 +4383,36 @@
     },
     {
       "album": {
+        "name": "Se Acaba (feat. Mc Don Juan & MC Ryan SP)",
+        "url": "https://open.spotify.com/album/3rXDB8PJWiuVSfkqYIELlV"
+      },
+      "artists": [
+        {
+          "name": "Xam\u00e3",
+          "url": "https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf"
+        },
+        {
+          "name": "Vulgo FK",
+          "url": "https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0"
+        },
+        {
+          "name": "Mc Don Juan",
+          "url": "https://open.spotify.com/artist/7Lmrb6KcIzfkmgbtokjsAL"
+        },
+        {
+          "name": "MC Ryan SP",
+          "url": "https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218000,
+      "name": "Se Acaba (feat. Mc Don Juan & MC Ryan SP)",
+      "url": "https://open.spotify.com/track/4TmIkfVvu5LOE2JADl8Brp"
+    },
+    {
+      "album": {
         "name": "Se Ela Quer Me Dar",
         "url": "https://open.spotify.com/album/0P7VC9IarI4I1ECTJ50eci"
       },
@@ -4901,6 +5013,36 @@
     },
     {
       "album": {
+        "name": "Tap\u00e3o",
+        "url": "https://open.spotify.com/album/3wO7M9twzuDC3Dex095eal"
+      },
+      "artists": [
+        {
+          "name": "Mc Don Juan",
+          "url": "https://open.spotify.com/artist/7Lmrb6KcIzfkmgbtokjsAL"
+        },
+        {
+          "name": "Gaab",
+          "url": "https://open.spotify.com/artist/2iK1rsbYstkSVn57M4s8ut"
+        },
+        {
+          "name": "MC Jo\u00e3ozinho VT",
+          "url": "https://open.spotify.com/artist/6XFc29m1ptfUNmaa1UTuBT"
+        },
+        {
+          "name": "Mc Ericoty",
+          "url": "https://open.spotify.com/artist/06jNrdowsbJhfD6ckw1HwP"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 308936,
+      "name": "Tap\u00e3o",
+      "url": "https://open.spotify.com/track/1Mj1YhIR8RvhMWrqxPwJ5C"
+    },
+    {
+      "album": {
         "name": "TBT",
         "url": "https://open.spotify.com/album/46onHWvbIkATKhSuIMDgEO"
       },
@@ -4924,6 +5066,44 @@
       "duration_ms": 205200,
       "name": "TBT",
       "url": "https://open.spotify.com/track/3ByQx79Fhy7TV6MP5HeG1L"
+    },
+    {
+      "album": {
+        "name": "Dos Pr\u00e9dios Deluxe",
+        "url": "https://open.spotify.com/album/0D59BFMmnA87oPyk1oSe1b"
+      },
+      "artists": [
+        {
+          "name": "Veigh",
+          "url": "https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse"
+        },
+        {
+          "name": "Derek",
+          "url": "https://open.spotify.com/artist/4Y0VwRwAOyJutxoVpPX4td"
+        },
+        {
+          "name": "Nagalli",
+          "url": "https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk"
+        },
+        {
+          "name": "Honaiser",
+          "url": "https://open.spotify.com/artist/0PNcEYeVDBqbywI00Y3ANT"
+        },
+        {
+          "name": "Toledo",
+          "url": "https://open.spotify.com/artist/7I4OIWw3Zm4lUmt2QHnz30"
+        },
+        {
+          "name": "Supernova Ent",
+          "url": "https://open.spotify.com/artist/3prRKGJz16RRMRSIM97nHw"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195073,
+      "name": "Tendenciosa",
+      "url": "https://open.spotify.com/track/3hLoH18k4pP6eXEljzNHHr"
     },
     {
       "album": {
@@ -5158,7 +5338,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 155675,
       "name": "Vida Louca",
       "url": "https://open.spotify.com/track/7IG7laqVpcvIIULrwWP5SA"
@@ -5308,7 +5488,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 300000,
       "name": "Vou de Lala",
       "url": "https://open.spotify.com/track/6MQrN9fclpvR4nf0uJrG1x"

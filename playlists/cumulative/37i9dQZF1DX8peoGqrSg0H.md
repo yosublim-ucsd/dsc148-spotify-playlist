@@ -4,7 +4,7 @@
 
 > เพลงไทยป๊อปโดนใจ อัพเดตให้คุณฟังทุกสัปดาห์\. ศิลปิน: TIGGER, Aheye of 4EVE
 
-330 songs - 19 hr 54 min
+331 songs - 19 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,7 +21,7 @@
 | [Boutchya \- Thai Version](https://open.spotify.com/track/2HH3EYgwHjM8ama77pYtNu) | [4EVE](https://open.spotify.com/artist/3aBwCcP4CB8M6S7YV8QkOg) | [Boutchya \(Thai Version\)](https://open.spotify.com/album/7Elaz3IhrcFd3MGflDiSgt) | 3:20 | 2022-07-24 | 2022-08-12 |
 | [Boys Like You](https://open.spotify.com/track/1VyRhsi6GfBusI1Vb061s4) | [ALLY](https://open.spotify.com/artist/4dkCB7FJeRXK6OWpal7zpw) | [Boys Like You](https://open.spotify.com/album/1oslIjeU0faXGgimWvmL4l) | 3:43 | 2022-08-31 | 2022-09-24 |
 | [CATCH THE NIGHT](https://open.spotify.com/track/0KWD90TVkrA0kyKW9MewrZ) | [PERSES](https://open.spotify.com/artist/1rRs0oN28NPUQxO4TffpSY) | [CATCH THE NIGHT](https://open.spotify.com/album/0tdfeZTire8YkmYCBOTOJn) | 3:08 | 2023-03-09 | 2023-03-25 |
-| [Chemistry](https://open.spotify.com/track/1wcdlx2wRHr9v2dROco63B) | [THE7](https://open.spotify.com/artist/76P1bgqm0Ign9ZDfSjBSbc) | [Chemistry](https://open.spotify.com/album/56zGZcFnTyn8Vjxn4nY5Vm) | 3:28 | 2023-05-11 |  |
+| [Chemistry](https://open.spotify.com/track/1wcdlx2wRHr9v2dROco63B) | [THE7](https://open.spotify.com/artist/76P1bgqm0Ign9ZDfSjBSbc) | [Chemistry](https://open.spotify.com/album/56zGZcFnTyn8Vjxn4nY5Vm) | 3:28 | 2023-05-11 | 2023-05-20 |
 | [Chop Chop! \(รีบไปรีบมา\)](https://open.spotify.com/track/6M8nx5vDof89UySjbL8KPM) | [RedSpin](https://open.spotify.com/artist/3NM9LMFT0J6AhkQXov8Ck7) | [Chop Chop! \(รีบไปรีบมา\)](https://open.spotify.com/album/5cG51iqdsWcuZ5BGmEumN5) | 2:58 | 2022-09-02 | 2022-09-16 |
 | [Closer \(Clothes Off\)](https://open.spotify.com/track/23siAc5fhlQ0CnWeXDTdI2) | [Matcha](https://open.spotify.com/artist/0GZbuy9UUeALxPTa5GpRrf) | [Closer \(Clothes Off\)](https://open.spotify.com/album/6GBRwdee7lE4S0OLAwary7) | 3:15 | 2023-05-02 | 2023-05-11 |
 | [Complicated](https://open.spotify.com/track/127yslRWWqtCGIYlkb9es2) | [Matcha](https://open.spotify.com/artist/0GZbuy9UUeALxPTa5GpRrf) | [Complicated](https://open.spotify.com/album/1X4ePQhsh9fOOz3944bxuR) | 3:01 | 2022-09-08 | 2022-09-16 |
@@ -196,6 +196,7 @@
 | [รักกันวันเดียว \(ONE DAY\)](https://open.spotify.com/track/2ZnsdI3nTSDbiDEaKHHZ70) | [ATLAS](https://open.spotify.com/artist/2ARzYWm034BWgJNk2IZ2N9) | [รักกันวันเดียว \(ONE DAY\)](https://open.spotify.com/album/2ov9KIuf12vKhV80iuw3JN) | 3:01 | 2023-04-21 | 2023-05-12 |
 | [รักก็รักดิ \- From "Cutie Pie 2 You"](https://open.spotify.com/track/021DOGAOsU2WrJ5Gii9hFZ) | [NuNew](https://open.spotify.com/artist/5ZjDcrnjYCnD9G5nYKjGk5), [ZEE PRUK](https://open.spotify.com/artist/1NEvvo7hmaunNnGMny2Myg) | [รักก็รักดิ \(From "Cutie Pie 2 You"\)](https://open.spotify.com/album/0AyEXAG2tEss8ErlR2V62p) | 3:17 | 2023-01-09 | 2023-02-03 |
 | [รักข้างเดียว \(Falling in Love\)](https://open.spotify.com/track/2VP2WPjDzo3bPutWdIbwpe) | [Darran](https://open.spotify.com/artist/6njda9gVhFrDchBy33CAsh) | [รักข้างเดียว \(Falling in Love\)](https://open.spotify.com/album/5tCQ7kmjqVm4yWM6EahkZj) | 4:04 | 2022-06-02 | 2022-06-10 |
+| [รักหน้าตาเหมือนเธอไหม \(Love Love Love\) \- เพลงประกอบซีรีส์ Our Skyy แฟนผมเป็นประธานนักเรียน](https://open.spotify.com/track/39ivYIh4nEsGQmDLMiR84g) | [Gemini Norawit](https://open.spotify.com/artist/5rtw0EF6bxppwLA8XlxGei) | [เพลงประกอบซีรีส์ Our Skyy แฟนผมเป็นประธานนักเรียน](https://open.spotify.com/album/7yTnlgM2ATURRtS42XcefO) | 3:45 | 2023-05-19 |  |
 | [รักเธอ \(ONLY YOU\) \- From ค่อยๆรัก Step By Step](https://open.spotify.com/track/430P9zwgo2Nv56Znbzg3LB) | [ATLAS](https://open.spotify.com/artist/2ARzYWm034BWgJNk2IZ2N9) | [รักเธอ \(ONLY YOU\) \[From ค่อยๆรัก Step By Step\]](https://open.spotify.com/album/2wUwCV2FwZQAzmjMBNneM2) | 3:36 | 2023-03-31 | 2023-04-13 |
 | [รักแท้ \- True Love \(เพลงจากละคร คุณชาย\)](https://open.spotify.com/track/5m9iZ0wLgpbSBwVW62AZvf) | [NuNew](https://open.spotify.com/artist/5ZjDcrnjYCnD9G5nYKjGk5) | [รักแท้ \- True Love \(เพลงจากละคร คุณชาย\)](https://open.spotify.com/album/6MOTJiGfu8jW9yjSVBcwm3) | 3:35 | 2022-09-29 |  |
 | [รักในวันฝนมา \- เพลงจากละคร วิวาห์ฟ้าแลบ](https://open.spotify.com/track/34HpfHhOP7iajSuZHlexDa) | [CINCIN IRADA X DIAMOND LAZ1](https://open.spotify.com/artist/5rGodrPbDeEJti8no09ppe) | [เพลงจากละคร วิวาห์ฟ้าแลบ](https://open.spotify.com/album/7npbOU0f6TqTUmrRfy1Xsz) | 2:55 | 2022-08-18 | 2023-02-14 |

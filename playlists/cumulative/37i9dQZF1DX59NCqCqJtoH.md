@@ -4,7 +4,7 @@
 
 > We hear you.
 
-586 songs - 1 day 4 hr 58 min
+587 songs - 1 day 5 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -294,6 +294,7 @@
 | [just friends now](https://open.spotify.com/track/7s0rwBRkSicawdu4SV0X3v) | [Sally Boy](https://open.spotify.com/artist/0FizvTDN8BVHmV5j2fL9Hf) | [just friends now](https://open.spotify.com/album/2EE1T2DIcbq4fUWYFapSiv) | 1:38 | 2021-04-02 | 2022-07-29 |
 | [just wanna forget you](https://open.spotify.com/track/67sznBMSDKrj1zeFFNCQHo) | [MARO](https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn) | [hortelã](https://open.spotify.com/album/3oMdmDwmhLfCrP2Tmvg6DU) | 4:49 | 2023-04-26 |  |
 | [keep our love alive](https://open.spotify.com/track/3CW5bobIBa94caEAhkLQSu) | [Powfu](https://open.spotify.com/artist/6bmlMHgSheBauioMgKv2tn) | [keep our love alive](https://open.spotify.com/album/3p8XPhLmoX4DA69jj6kNMN) | 2:56 | 2023-03-10 | 2023-05-07 |
+| [keep our love alive](https://open.spotify.com/track/5Skpe6bbhoZqJMR6pfQLZr) | [Powfu](https://open.spotify.com/artist/6bmlMHgSheBauioMgKv2tn) | [tell me your feelings and i won't tell you mine pt\. 2](https://open.spotify.com/album/0hdZmnYgJaxpmZ6rLXTtO2) | 2:56 | 2023-04-26 |  |
 | [Kenny](https://open.spotify.com/track/6FmnMoph4yx7zjhuBcrHDv) | [Still Woozy](https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y) | [Kenny](https://open.spotify.com/album/33xwiZOclaWIDKouzuc32w) | 3:14 | 2021-06-25 |  |
 | [killmeinmysleep](https://open.spotify.com/track/77zViu7V0wRnzTafJE6HUH) | [Eli Moon](https://open.spotify.com/artist/7w9kwVf3KJfvBBfE4o6K56) | [killmeinmysleep](https://open.spotify.com/album/1i7rFneH6LmqeeAuy96u4U) | 3:20 | 2021-04-02 | 2022-04-15 |
 | [king of the nosebleeds](https://open.spotify.com/track/5CM1jEYAsLwhhQEUYwEBs7) | [gabriel black](https://open.spotify.com/artist/6lWQ8ff0y4b0fozjUcmvaJ) | [king of the nosebleeds](https://open.spotify.com/album/5SBNC9CXJt023DHcVAPUJH) | 2:42 | 2022-07-22 | 2022-07-26 |
@@ -442,7 +443,7 @@
 | [Selfish](https://open.spotify.com/track/3fTd1AN7VM33g7OElNPJGb) | [Jack Gray](https://open.spotify.com/artist/0LvfDU74rGXrEGVWqW9rCw) | [Selfish](https://open.spotify.com/album/3oM3S7CSJPRHjQxPoZs31a) | 2:57 | 2021-04-02 | 2022-07-29 |
 | [September 13th](https://open.spotify.com/track/5JzhtNahrk4YvntIa7jGNp) | [Jess Benko](https://open.spotify.com/artist/6U53xCCVXmyimAgsBjCS8P) | [Closure](https://open.spotify.com/album/3lLOJxYWfrolopz8MnKLIc) | 3:36 | 2021-04-02 | 2022-04-21 |
 | [sex money feelings die \- slowed version](https://open.spotify.com/track/0dkvbYmXYEPK7gGMdytmfI) | [Lykke Li](https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in) | [sex money feelings die \(slowed version\)](https://open.spotify.com/album/7bL1fTsGeOyxv29BNVtMb1) | 2:48 | 2022-01-25 | 2022-07-16 |
-| [shame](https://open.spotify.com/track/4UhUHDAxLcFb8E0e5J4H0k) | [guccihighwaters](https://open.spotify.com/artist/7EIOmfcBRSR63ZaUptkD09) | [shame](https://open.spotify.com/album/2EOpw6eAEYA0atOPS2Csei) | 2:52 | 2023-04-26 |  |
+| [shame](https://open.spotify.com/track/4UhUHDAxLcFb8E0e5J4H0k) | [guccihighwaters](https://open.spotify.com/artist/7EIOmfcBRSR63ZaUptkD09) | [shame](https://open.spotify.com/album/2EOpw6eAEYA0atOPS2Csei) | 2:52 | 2023-04-26 | 2023-05-20 |
 | [she took me to a place, Pt\. 3 \(the final chapter\)](https://open.spotify.com/track/7Hi6mb9U40gpkgnj4E8Xdr) | [chap](https://open.spotify.com/artist/2uoXWbG2hPTqTvdNhmd3Fd), [P.O.I](https://open.spotify.com/artist/04eH343JjbPvoDVSyuXAha) | [she took me to a place, Pt\. 3 \(the final chapter\)](https://open.spotify.com/album/2Gw4UhdskIkfJe8xWhq6CK) | 2:02 | 2021-04-02 | 2022-04-20 |
 | [Shoot](https://open.spotify.com/track/3gy65ZTYP90rbEhHsHzcM0) | [Tommy Lefroy](https://open.spotify.com/artist/3vldh5Ceynytj6Iglw4haP) | [Flight Risk EP](https://open.spotify.com/album/4aRnUT8j0PTjKKW7FJsrvb) | 2:37 | 2022-07-15 | 2022-10-13 |
 | [Shoot](https://open.spotify.com/track/6UoWQZQch4z3T1sLcvglrM) | [Tommy Lefroy](https://open.spotify.com/artist/3vldh5Ceynytj6Iglw4haP) | [Shoot](https://open.spotify.com/album/24tDJbgQSZNPZKKHKXV3Tj) | 2:37 | 2021-09-10 | 2022-07-29 |

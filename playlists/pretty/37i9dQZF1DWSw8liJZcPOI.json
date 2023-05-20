@@ -1,12 +1,12 @@
 {
   "description": "The composers and musicians bending genres, redefining rules, and bringing classical music into the 21st century.",
-  "num_followers": 22660,
+  "num_followers": 22876,
   "original_name": "Not Quite Classical",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1OGFlZTFjZjRkMmIxNTBlZDMyOTdkNWU3ZDRlYmNiYzQwYjIzNzNl",
+  "snapshot_id": "MCw3NmQ4NjA2ZDZiZmMwNmY4NTBhOTE2ZmVhMDhiNDE3ZmFiOTA3ZGI4",
   "tracks": [
     {
       "added_at": "2023-05-12 04:00:00",
@@ -327,26 +327,6 @@
     {
       "added_at": "2023-05-12 04:00:00",
       "album": {
-        "name": "Humming Bird Rework",
-        "url": "https://open.spotify.com/album/3KmLGgnFa1fUfudmtrAG3m"
-      },
-      "artists": [
-        {
-          "name": "Felix R\u00f6sch",
-          "url": "https://open.spotify.com/artist/5DN6qP3OzoKVYXF3o2KCXp"
-        },
-        {
-          "name": "mond\u00ebna quartet",
-          "url": "https://open.spotify.com/artist/1t66cANdsYEErfgZjzplzo"
-        }
-      ],
-      "duration_ms": 201774,
-      "name": "Humming Bird Rework",
-      "url": "https://open.spotify.com/track/0xTeFwl9WhyJ9grMLB1X8B"
-    },
-    {
-      "added_at": "2023-05-12 04:00:00",
-      "album": {
         "name": "The Turning Year",
         "url": "https://open.spotify.com/album/7qIBorzIVw58P2LWsSVqLX"
       },
@@ -363,6 +343,26 @@
       "duration_ms": 160089,
       "name": "The Turning Year",
       "url": "https://open.spotify.com/track/53sR7EKIy3Yc2a3xPXMz9h"
+    },
+    {
+      "added_at": "2023-05-12 04:00:00",
+      "album": {
+        "name": "Humming Bird Rework",
+        "url": "https://open.spotify.com/album/3KmLGgnFa1fUfudmtrAG3m"
+      },
+      "artists": [
+        {
+          "name": "Felix R\u00f6sch",
+          "url": "https://open.spotify.com/artist/5DN6qP3OzoKVYXF3o2KCXp"
+        },
+        {
+          "name": "mond\u00ebna quartet",
+          "url": "https://open.spotify.com/artist/1t66cANdsYEErfgZjzplzo"
+        }
+      ],
+      "duration_ms": 201774,
+      "name": "Humming Bird Rework",
+      "url": "https://open.spotify.com/track/0xTeFwl9WhyJ9grMLB1X8B"
     },
     {
       "added_at": "2023-05-12 04:00:00",
@@ -663,6 +663,22 @@
     {
       "added_at": "2023-05-12 04:00:00",
       "album": {
+        "name": "Triptych III for Piano",
+        "url": "https://open.spotify.com/album/5IoybgWtHAPjvcPTnM46T4"
+      },
+      "artists": [
+        {
+          "name": "P\u00eatr Aleks\u00e4nder",
+          "url": "https://open.spotify.com/artist/6NXrsSyjmxtUrYh3kaAexZ"
+        }
+      ],
+      "duration_ms": 201013,
+      "name": "Triptych III for Piano",
+      "url": "https://open.spotify.com/track/3HOFwcwtevRoYyYva6ZblI"
+    },
+    {
+      "added_at": "2023-05-12 04:00:00",
+      "album": {
         "name": "The Plover and the Raven",
         "url": "https://open.spotify.com/album/3iiQcVhNVKFhy5Um9LEpLN"
       },
@@ -687,18 +703,22 @@
     {
       "added_at": "2023-05-12 04:00:00",
       "album": {
-        "name": "Triptych III for Piano",
-        "url": "https://open.spotify.com/album/5IoybgWtHAPjvcPTnM46T4"
+        "name": "Coalescence",
+        "url": "https://open.spotify.com/album/06sSRqpl8c9lp3JHx03i0M"
       },
       "artists": [
         {
-          "name": "P\u00eatr Aleks\u00e4nder",
-          "url": "https://open.spotify.com/artist/6NXrsSyjmxtUrYh3kaAexZ"
+          "name": "Treman",
+          "url": "https://open.spotify.com/artist/7MnTSJ0nl9IdMRSq3vLdGP"
+        },
+        {
+          "name": "Gabe Saltman",
+          "url": "https://open.spotify.com/artist/7nkeYcy1PQ0DLtWmmh0Yjh"
         }
       ],
-      "duration_ms": 201013,
-      "name": "Triptych III for Piano",
-      "url": "https://open.spotify.com/track/3HOFwcwtevRoYyYva6ZblI"
+      "duration_ms": 146651,
+      "name": "Coalescence",
+      "url": "https://open.spotify.com/track/2VILtFKQp13gGUSHGM0INt"
     },
     {
       "added_at": "2023-05-12 04:00:00",
@@ -735,26 +755,6 @@
     {
       "added_at": "2023-05-12 04:00:00",
       "album": {
-        "name": "Coalescence",
-        "url": "https://open.spotify.com/album/06sSRqpl8c9lp3JHx03i0M"
-      },
-      "artists": [
-        {
-          "name": "Treman",
-          "url": "https://open.spotify.com/artist/7MnTSJ0nl9IdMRSq3vLdGP"
-        },
-        {
-          "name": "Gabe Saltman",
-          "url": "https://open.spotify.com/artist/7nkeYcy1PQ0DLtWmmh0Yjh"
-        }
-      ],
-      "duration_ms": 146651,
-      "name": "Coalescence",
-      "url": "https://open.spotify.com/track/2VILtFKQp13gGUSHGM0INt"
-    },
-    {
-      "added_at": "2023-05-12 04:00:00",
-      "album": {
         "name": "Take 5 - Solips (Klaus Sahm Rework)",
         "url": "https://open.spotify.com/album/5q6uytSRIIvNQdk9crGS96"
       },
@@ -775,6 +775,26 @@
       "duration_ms": 175346,
       "name": "Take 5 - Solips - Klaus Sahm Rework",
       "url": "https://open.spotify.com/track/6pcjJAP1f8RHRvfW5kLmEm"
+    },
+    {
+      "added_at": "2023-05-12 04:00:00",
+      "album": {
+        "name": "Under the Stars",
+        "url": "https://open.spotify.com/album/3aZRTplanzJ0a3TW9asCfI"
+      },
+      "artists": [
+        {
+          "name": "Javi Lobe",
+          "url": "https://open.spotify.com/artist/5HofhLeuf1dGJVLDdQ6DLT"
+        },
+        {
+          "name": "Francois Mathian",
+          "url": "https://open.spotify.com/artist/4193s4Szb8oYEv2pZ8lgSX"
+        }
+      ],
+      "duration_ms": 151402,
+      "name": "Under the Stars",
+      "url": "https://open.spotify.com/track/42QdAFbblfxSMMlzMFbVbx"
     },
     {
       "added_at": "2023-05-12 04:00:00",
@@ -807,26 +827,6 @@
       "duration_ms": 334506,
       "name": "Music For Growing Flowers - Pt. 4",
       "url": "https://open.spotify.com/track/0kY5iUcL7JGqGLz3t2hhCL"
-    },
-    {
-      "added_at": "2023-05-12 04:00:00",
-      "album": {
-        "name": "Under the Stars",
-        "url": "https://open.spotify.com/album/3aZRTplanzJ0a3TW9asCfI"
-      },
-      "artists": [
-        {
-          "name": "Javi Lobe",
-          "url": "https://open.spotify.com/artist/5HofhLeuf1dGJVLDdQ6DLT"
-        },
-        {
-          "name": "Francois Mathian",
-          "url": "https://open.spotify.com/artist/4193s4Szb8oYEv2pZ8lgSX"
-        }
-      ],
-      "duration_ms": 151402,
-      "name": "Under the Stars",
-      "url": "https://open.spotify.com/track/42QdAFbblfxSMMlzMFbVbx"
     },
     {
       "added_at": "2023-05-12 04:00:00",
@@ -887,22 +887,6 @@
     {
       "added_at": "2023-05-12 04:00:00",
       "album": {
-        "name": "The Drifter",
-        "url": "https://open.spotify.com/album/4WMp8Iz1dogRcM9XaOlkxU"
-      },
-      "artists": [
-        {
-          "name": "Gabr\u00edel \u00d3lafs",
-          "url": "https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB"
-        }
-      ],
-      "duration_ms": 168085,
-      "name": "The Drifter",
-      "url": "https://open.spotify.com/track/4u2Kn8DaYBEuB19AjWcMDn"
-    },
-    {
-      "added_at": "2023-05-12 04:00:00",
-      "album": {
         "name": "Svalbard",
         "url": "https://open.spotify.com/album/57bDNgzUtAvKaL2wSPnsiF"
       },
@@ -919,6 +903,22 @@
       "duration_ms": 175090,
       "name": "Little Orc",
       "url": "https://open.spotify.com/track/43SR37OKj3Dgc82aHXr6ql"
+    },
+    {
+      "added_at": "2023-05-12 04:00:00",
+      "album": {
+        "name": "The Drifter",
+        "url": "https://open.spotify.com/album/4WMp8Iz1dogRcM9XaOlkxU"
+      },
+      "artists": [
+        {
+          "name": "Gabr\u00edel \u00d3lafs",
+          "url": "https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB"
+        }
+      ],
+      "duration_ms": 168085,
+      "name": "The Drifter",
+      "url": "https://open.spotify.com/track/4u2Kn8DaYBEuB19AjWcMDn"
     },
     {
       "added_at": "2023-05-12 04:00:00",
@@ -1031,6 +1031,30 @@
     {
       "added_at": "2023-05-12 04:00:00",
       "album": {
+        "name": "New Conditions",
+        "url": "https://open.spotify.com/album/7dwe2ZZnn4oweINjajFYg2"
+      },
+      "artists": [
+        {
+          "name": "Balmorhea",
+          "url": "https://open.spotify.com/artist/1U0FaHAc4fcwQcYEJFgkm9"
+        },
+        {
+          "name": "Joseph Shabason",
+          "url": "https://open.spotify.com/artist/7xoTSPGUr9u8FWR4G8AWoS"
+        },
+        {
+          "name": "Jason Treuting",
+          "url": "https://open.spotify.com/artist/3vo9pILdfmYRxSiC21bMnT"
+        }
+      ],
+      "duration_ms": 234286,
+      "name": "New Conditions",
+      "url": "https://open.spotify.com/track/3bTSywwx3ShKyarKIP05sq"
+    },
+    {
+      "added_at": "2023-05-12 04:00:00",
+      "album": {
         "name": "Serenity",
         "url": "https://open.spotify.com/album/29s2OVJdWTn7eWIBPC7ikz"
       },
@@ -1043,6 +1067,38 @@
       "duration_ms": 159594,
       "name": "Serenity",
       "url": "https://open.spotify.com/track/0sys3zb0Gssvi2mQNky4tB"
+    },
+    {
+      "added_at": "2023-05-12 04:00:00",
+      "album": {
+        "name": "Sensibus",
+        "url": "https://open.spotify.com/album/6jTxjupC87AnzDsQm8o4s9"
+      },
+      "artists": [
+        {
+          "name": "Tom Ashbrook",
+          "url": "https://open.spotify.com/artist/481U7FXn2fSb0YXFqKdYtO"
+        }
+      ],
+      "duration_ms": 392791,
+      "name": "Klass",
+      "url": "https://open.spotify.com/track/7B4DTiga2xN0BtIDh45vyk"
+    },
+    {
+      "added_at": "2023-05-12 04:00:00",
+      "album": {
+        "name": "Beginnings",
+        "url": "https://open.spotify.com/album/6KOwv2I3BWLqaiEvjdtKOp"
+      },
+      "artists": [
+        {
+          "name": "James Heather",
+          "url": "https://open.spotify.com/artist/7GMpkbegUlL4UvUe5w47zu"
+        }
+      ],
+      "duration_ms": 238046,
+      "name": "Beginnings",
+      "url": "https://open.spotify.com/track/6v4WvtbAbm88SeS4etJMTH"
     },
     {
       "added_at": "2023-05-12 04:00:00",
@@ -1075,38 +1131,6 @@
       "duration_ms": 350974,
       "name": "Current",
       "url": "https://open.spotify.com/track/05J7mr2kIdHciLOO5ISSia"
-    },
-    {
-      "added_at": "2023-05-12 04:00:00",
-      "album": {
-        "name": "Beginnings",
-        "url": "https://open.spotify.com/album/6KOwv2I3BWLqaiEvjdtKOp"
-      },
-      "artists": [
-        {
-          "name": "James Heather",
-          "url": "https://open.spotify.com/artist/7GMpkbegUlL4UvUe5w47zu"
-        }
-      ],
-      "duration_ms": 238046,
-      "name": "Beginnings",
-      "url": "https://open.spotify.com/track/6v4WvtbAbm88SeS4etJMTH"
-    },
-    {
-      "added_at": "2023-05-12 04:00:00",
-      "album": {
-        "name": "Sensibus",
-        "url": "https://open.spotify.com/album/6jTxjupC87AnzDsQm8o4s9"
-      },
-      "artists": [
-        {
-          "name": "Tom Ashbrook",
-          "url": "https://open.spotify.com/artist/481U7FXn2fSb0YXFqKdYtO"
-        }
-      ],
-      "duration_ms": 392791,
-      "name": "Klass",
-      "url": "https://open.spotify.com/track/7B4DTiga2xN0BtIDh45vyk"
     },
     {
       "added_at": "2023-05-12 04:00:00",
@@ -1199,30 +1223,6 @@
       "duration_ms": 225400,
       "name": "New World",
       "url": "https://open.spotify.com/track/0ZYyAD3ZFssmqUrfBhjQst"
-    },
-    {
-      "added_at": "2023-05-12 04:00:00",
-      "album": {
-        "name": "New Conditions",
-        "url": "https://open.spotify.com/album/7dwe2ZZnn4oweINjajFYg2"
-      },
-      "artists": [
-        {
-          "name": "Balmorhea",
-          "url": "https://open.spotify.com/artist/1U0FaHAc4fcwQcYEJFgkm9"
-        },
-        {
-          "name": "Joseph Shabason",
-          "url": "https://open.spotify.com/artist/7xoTSPGUr9u8FWR4G8AWoS"
-        },
-        {
-          "name": "Jason Treuting",
-          "url": "https://open.spotify.com/artist/3vo9pILdfmYRxSiC21bMnT"
-        }
-      ],
-      "duration_ms": 234286,
-      "name": "New Conditions",
-      "url": "https://open.spotify.com/track/3bTSywwx3ShKyarKIP05sq"
     },
     {
       "added_at": "2023-05-12 04:00:00",
@@ -1423,22 +1423,18 @@
     {
       "added_at": "2023-05-12 04:00:00",
       "album": {
-        "name": "The Myth",
-        "url": "https://open.spotify.com/album/6sFyvR2lfdQqJwv0CIrfVt"
+        "name": "For You",
+        "url": "https://open.spotify.com/album/49jgXZPDfEu07LoN4hCS5O"
       },
       "artists": [
         {
-          "name": "Balmorhea",
-          "url": "https://open.spotify.com/artist/1U0FaHAc4fcwQcYEJFgkm9"
-        },
-        {
-          "name": "Lisa Morgenstern",
-          "url": "https://open.spotify.com/artist/6nMxYJRqJcmuOFtheuVChY"
+          "name": "Matteo de Grandis",
+          "url": "https://open.spotify.com/artist/7hI0mA1gOZrjxU2KZSCDce"
         }
       ],
-      "duration_ms": 221796,
-      "name": "The Myth",
-      "url": "https://open.spotify.com/track/3PFlF0czIchods0CEDOAr5"
+      "duration_ms": 201181,
+      "name": "For You",
+      "url": "https://open.spotify.com/track/3j7siGdElMQwOX1VPCWoW7"
     },
     {
       "added_at": "2023-05-12 04:00:00",
@@ -1455,6 +1451,26 @@
       "duration_ms": 286986,
       "name": "No Step on Wing",
       "url": "https://open.spotify.com/track/2DmIDwMhMA3V0KipI78nM1"
+    },
+    {
+      "added_at": "2023-05-12 04:00:00",
+      "album": {
+        "name": "The Myth",
+        "url": "https://open.spotify.com/album/6sFyvR2lfdQqJwv0CIrfVt"
+      },
+      "artists": [
+        {
+          "name": "Balmorhea",
+          "url": "https://open.spotify.com/artist/1U0FaHAc4fcwQcYEJFgkm9"
+        },
+        {
+          "name": "Lisa Morgenstern",
+          "url": "https://open.spotify.com/artist/6nMxYJRqJcmuOFtheuVChY"
+        }
+      ],
+      "duration_ms": 221796,
+      "name": "The Myth",
+      "url": "https://open.spotify.com/track/3PFlF0czIchods0CEDOAr5"
     },
     {
       "added_at": "2023-05-12 04:00:00",
@@ -1511,18 +1527,18 @@
     {
       "added_at": "2023-05-12 04:00:00",
       "album": {
-        "name": "For You",
-        "url": "https://open.spotify.com/album/49jgXZPDfEu07LoN4hCS5O"
+        "name": "Waterfelt",
+        "url": "https://open.spotify.com/album/6H5PZmSZzvTXLlt07qzNZk"
       },
       "artists": [
         {
-          "name": "Matteo de Grandis",
-          "url": "https://open.spotify.com/artist/7hI0mA1gOZrjxU2KZSCDce"
+          "name": "Joel Christian Goffin",
+          "url": "https://open.spotify.com/artist/658h552Ad4Rs9s9jwcWVuF"
         }
       ],
-      "duration_ms": 201181,
-      "name": "For You",
-      "url": "https://open.spotify.com/track/3j7siGdElMQwOX1VPCWoW7"
+      "duration_ms": 223326,
+      "name": "Waterfelt",
+      "url": "https://open.spotify.com/track/0lWBHo6UlkykeDpwAiwOv4"
     },
     {
       "added_at": "2023-05-12 04:00:00",
@@ -1559,18 +1575,18 @@
     {
       "added_at": "2023-05-12 04:00:00",
       "album": {
-        "name": "Waterfelt",
-        "url": "https://open.spotify.com/album/6H5PZmSZzvTXLlt07qzNZk"
+        "name": "\u00c9closion",
+        "url": "https://open.spotify.com/album/1OKNFl8PygWSvMfIWwI7D9"
       },
       "artists": [
         {
-          "name": "Joel Christian Goffin",
-          "url": "https://open.spotify.com/artist/658h552Ad4Rs9s9jwcWVuF"
+          "name": "Tony Anderson",
+          "url": "https://open.spotify.com/artist/3aRscMJRah0QrvGE5rkvZl"
         }
       ],
-      "duration_ms": 223326,
-      "name": "Waterfelt",
-      "url": "https://open.spotify.com/track/0lWBHo6UlkykeDpwAiwOv4"
+      "duration_ms": 295200,
+      "name": "\u00c9closion",
+      "url": "https://open.spotify.com/track/5OySktqTcVI9raXKmrdGNr"
     },
     {
       "added_at": "2023-05-12 04:00:00",
@@ -1591,24 +1607,8 @@
     {
       "added_at": "2023-05-12 04:00:00",
       "album": {
-        "name": "\u00c9closion",
-        "url": "https://open.spotify.com/album/1OKNFl8PygWSvMfIWwI7D9"
-      },
-      "artists": [
-        {
-          "name": "Tony Anderson",
-          "url": "https://open.spotify.com/artist/3aRscMJRah0QrvGE5rkvZl"
-        }
-      ],
-      "duration_ms": 295200,
-      "name": "\u00c9closion",
-      "url": "https://open.spotify.com/track/5OySktqTcVI9raXKmrdGNr"
-    },
-    {
-      "added_at": "2023-05-12 04:00:00",
-      "album": {
-        "name": "acceptances",
-        "url": "https://open.spotify.com/album/6LRafypd0VdYQ6uuFIxzxJ"
+        "name": "hundred00",
+        "url": "https://open.spotify.com/album/0kBZkLsisJMS1n2WgbGo4C"
       },
       "artists": [
         {
@@ -1616,9 +1616,9 @@
           "url": "https://open.spotify.com/artist/4vFvy7t3jlzAYrNYjW8uDo"
         }
       ],
-      "duration_ms": 198901,
-      "name": "acceptances",
-      "url": "https://open.spotify.com/track/49LE9nTYsPzk0ImQ26mZjD"
+      "duration_ms": 289210,
+      "name": "hundred00",
+      "url": "https://open.spotify.com/track/0QWKituzXIFotLHfRFyGJG"
     },
     {
       "added_at": "2023-05-12 04:00:00",
@@ -1755,8 +1755,8 @@
     {
       "added_at": "2023-05-12 04:00:00",
       "album": {
-        "name": "hundred00",
-        "url": "https://open.spotify.com/album/0kBZkLsisJMS1n2WgbGo4C"
+        "name": "acceptances",
+        "url": "https://open.spotify.com/album/6LRafypd0VdYQ6uuFIxzxJ"
       },
       "artists": [
         {
@@ -1764,9 +1764,9 @@
           "url": "https://open.spotify.com/artist/4vFvy7t3jlzAYrNYjW8uDo"
         }
       ],
-      "duration_ms": 289210,
-      "name": "hundred00",
-      "url": "https://open.spotify.com/track/0QWKituzXIFotLHfRFyGJG"
+      "duration_ms": 198901,
+      "name": "acceptances",
+      "url": "https://open.spotify.com/track/49LE9nTYsPzk0ImQ26mZjD"
     },
     {
       "added_at": "2023-05-12 04:00:00",

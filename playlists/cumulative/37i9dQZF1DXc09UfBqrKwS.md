@@ -4,7 +4,7 @@
 
 > hora d hacer la meme
 
-241 songs - 11 hr 46 min
+242 songs - 11 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -120,6 +120,7 @@
 | [Inevitability](https://open.spotify.com/track/0k5TnsKv68q20aE1sJYY7a) | [Fannie Shelton](https://open.spotify.com/artist/3IgG6CQo3mfhUsT1AgNWum) | [Inevitability](https://open.spotify.com/album/6nRr1olpoiH9pky8VQ1eZW) | 3:31 | 2023-03-31 |  |
 | [Inner Peace](https://open.spotify.com/track/7k59hF8Vc7Ob9HYO8fnbLF) | [Sabrina McGregor](https://open.spotify.com/artist/06r7F3mEYRJxjksrVsurYJ) | [Inner Peace](https://open.spotify.com/album/1UzLDrkqLbXxafCCog4pvF) | 2:59 | 2023-03-31 |  |
 | [Inside The Wave](https://open.spotify.com/track/7u6NFtytPfiVDK5txIpHvd) | [Eoforwine](https://open.spotify.com/artist/5nyQvoStR6vrrev0Ns7TWq) | [The Deep](https://open.spotify.com/album/7x78Dxtt8fpbFbLfSMM2bR) | 2:26 | 2023-03-31 |  |
+| [juu](https://open.spotify.com/track/55nogKh6Ns5mO0PaEpZPrv) | [Echoes and Frequencies](https://open.spotify.com/artist/4GiTtneqRxV5TqUD5KjgeJ) | [juu](https://open.spotify.com/album/5pmfLhKpvk8KmNqA5ayiUq) | 3:21 | 2023-05-19 |  |
 | [Karuna](https://open.spotify.com/track/2ju2Pcl8XLFZERPVsDBItG) | [Joseph Sai](https://open.spotify.com/artist/7tVx3YEKyoSaM7CcmlneBc) | [Karuna](https://open.spotify.com/album/18pYuIQyfxpeeqloiQtmXA) | 3:03 | 2023-03-31 |  |
 | [La Cascada](https://open.spotify.com/track/2WGKo3sflN4aUNtesZw4Py) | [Sayulita](https://open.spotify.com/artist/1TZG0boEXBMRfxjj1nH6TM) | [Bella Unión](https://open.spotify.com/album/2zfjHiF04uCEQEBMrrp6aX) | 3:01 | 2023-03-31 |  |
 | [Leticia](https://open.spotify.com/track/69zMzxv7BgdLXTauZvOCm3) | [Kaua Correia](https://open.spotify.com/artist/6PE8Ppk9H0TScbZEoLD0z1) | [Leticia](https://open.spotify.com/album/5dTHisxcHVT1yBlWVDUrpb) | 3:06 | 2023-03-31 |  |
@@ -237,7 +238,7 @@
 | [Veilless](https://open.spotify.com/track/23y3iLdIBGDsCmZ2W6R7LT) | [Adriana Milou](https://open.spotify.com/artist/1hdDs4wK0nVxEMPc1IXXRb) | [Veilless](https://open.spotify.com/album/5g3U1Y4eqaNcSffpD61Syy) | 2:18 | 2023-03-31 |  |
 | [Vettvangur](https://open.spotify.com/track/7ofIUuvWCuvoaFvlFYZ81d) | [V3rkefni 1](https://open.spotify.com/artist/5ri9bptYMMNYWNsdGs3g68) | [Vettvangur](https://open.spotify.com/album/1OcfeatynGjmEsWxcbVUoF) | 2:34 | 2023-03-31 |  |
 | [Vila](https://open.spotify.com/track/0jyK7saNqvRSHlp0HU00z3) | [Ström](https://open.spotify.com/artist/0GrHUOaxUA1EUn8UlzeHBS) | [Återhämtning](https://open.spotify.com/album/5JmOVXdiaiknwkK3JHyiev) | 3:48 | 2023-03-31 |  |
-| [vindur](https://open.spotify.com/track/6cJq37QktSAzv6bdUq0Bdc) | [Atli Þórirsson](https://open.spotify.com/artist/7JhDZrYjtUBmTG4j61iIr4) | [vindur](https://open.spotify.com/album/7Kq9BZt3SVPSMHYcIRkeKy) | 2:33 | 2023-03-31 |  |
+| [vindur](https://open.spotify.com/track/6cJq37QktSAzv6bdUq0Bdc) | [Atli Þórirsson](https://open.spotify.com/artist/7JhDZrYjtUBmTG4j61iIr4) | [vindur](https://open.spotify.com/album/7Kq9BZt3SVPSMHYcIRkeKy) | 2:33 | 2023-03-31 | 2023-05-20 |
 | [Vorsichtig](https://open.spotify.com/track/7li6Hcl94re5MW3TRMSGJi) | [Tilman Stoiber](https://open.spotify.com/artist/2X6QermT7aLMG5JIOmwXyT) | [Vorsichtig](https://open.spotify.com/album/71YZz16qh5yA50FQNp5mGs) | 3:16 | 2023-03-31 |  |
 | [Warszawa](https://open.spotify.com/track/7hwGHD71FJFBXu1iUDYTYf) | [Szymon Kowalczyk](https://open.spotify.com/artist/5mg190A9WO4TqbhL6GDer0) | [Warszawa](https://open.spotify.com/album/6PPYEFKKva6PMGl5XJWFIB) | 2:50 | 2023-03-31 |  |
 | [Wherever The Light Takes Me](https://open.spotify.com/track/0kQs60Eec9PnDAwvyS3iN1) | [Gual Levine](https://open.spotify.com/artist/1mhDm5AwhS5vAUIO91hHVU) | [Wherever The Light Takes Me](https://open.spotify.com/album/0EhwcIS4mOfZCech509hwA) | 2:51 | 2023-03-31 |  |

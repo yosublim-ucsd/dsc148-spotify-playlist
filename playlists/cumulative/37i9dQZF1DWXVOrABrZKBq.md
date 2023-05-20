@@ -4,7 +4,7 @@
 
 > Le rap francophone est en forme\. Photo: Lost x Loud
 
-67 songs - 3 hr 29 min
+68 songs - 3 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,7 +13,7 @@
 | [AMBER](https://open.spotify.com/track/5UPpgOKi0UQMMMSzWWgJJe) | [Zola](https://open.spotify.com/artist/54kCbQZaZWHnwwj9VP2hn4) | [AMBER](https://open.spotify.com/album/5WWOIsDogPoINEX7nEu6BD) | 3:02 | 2023-03-03 | 2023-05-06 |
 | [Belle](https://open.spotify.com/track/1GTwuwkt4hejBcymq849Cg) | [QCLTUR](https://open.spotify.com/artist/1MIeDvwSEypeVjyu3buPFx), [Rosalvo](https://open.spotify.com/artist/6AWsl1xDv2sVXnWjBPgR7q), [Boris levrai](https://open.spotify.com/artist/44MDXreyQDVfctriHR8TgN) | [QCLTUR](https://open.spotify.com/album/4bHZOMo5sjb7SrSvaevvKy) | 3:18 | 2023-03-03 |  |
 | [Black Card](https://open.spotify.com/track/5ejzQ4vFa8FQkHT6qcCBmd) | [Raccoon](https://open.spotify.com/artist/7nzgBxjw2Co88MGWjMnl4c) | [Black Card](https://open.spotify.com/album/20KFfsB3DWh2V2i2DHqvhc) | 3:46 | 2023-03-03 |  |
-| [BODIES \(feat\. Damso\)](https://open.spotify.com/track/1vhGzynTAXJ0MD0gkXPxzX) | [Gazo](https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I), [Damso](https://open.spotify.com/artist/2UwqpfQtNuhBwviIC0f2ie) | [BODIES \(feat\. Damso\)](https://open.spotify.com/album/61G5Kmh73wP41ZN0sBdlBB) | 2:46 | 2023-03-03 |  |
+| [BODIES \(feat\. Damso\)](https://open.spotify.com/track/1vhGzynTAXJ0MD0gkXPxzX) | [Gazo](https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I), [Damso](https://open.spotify.com/artist/2UwqpfQtNuhBwviIC0f2ie) | [BODIES \(feat\. Damso\)](https://open.spotify.com/album/61G5Kmh73wP41ZN0sBdlBB) | 2:46 | 2023-03-03 | 2023-05-20 |
 | [C'est carré le S](https://open.spotify.com/track/5v0MxVbfjFCBrEi3fQ9VHz) | [Naps](https://open.spotify.com/artist/6W5uA6CNMf3hd2j4a2XWCx), [Gazo](https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I), [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH) | [C'est carré le S](https://open.spotify.com/album/1qDBDmqDsBfiZeWToRTu3Y) | 3:21 | 2023-05-05 |  |
 | [CANADA](https://open.spotify.com/track/6sutxiq0dIw77z0rCB3Ekk) | [1PLIKÉ140](https://open.spotify.com/artist/4Ue6MAZqz18NlaOQomRXLU) | [ARRÊTEZ\-LE ! \(Vol.2\)](https://open.spotify.com/album/12LrwCesY8GRyGtm1cszvy) | 2:59 | 2023-03-03 |  |
 | [CC](https://open.spotify.com/track/2TOexWkJa99UYe6BdbxsjU) | [Enima](https://open.spotify.com/artist/47cHAE0NFwzGOlc3L4oszT) | [CC](https://open.spotify.com/album/2mmmfA38Smu5e5OquI0Vjc) | 3:47 | 2023-03-03 |  |
@@ -41,6 +41,7 @@
 | [Jefe](https://open.spotify.com/track/6HTJgY7iWWlVLSDHsfHePf) | [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH) | [Jefe](https://open.spotify.com/album/0RBanMMBVaRdM7SOwgAmaK) | 2:57 | 2023-03-03 |  |
 | [Jolie \(feat\. Ninho\)](https://open.spotify.com/track/3q1FxEzXmsNmJrxaoICXzW) | [GAULOIS](https://open.spotify.com/artist/7LmtogB01302Utf3C3R4GT), [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH) | [Jolie \(feat\. Ninho\)](https://open.spotify.com/album/0S78h6ZbLzlZjpprrx6LO2) | 2:39 | 2023-03-03 |  |
 | [Jolie Go](https://open.spotify.com/track/4QiJK3bjjI3mbzyKDjjGlg) | [Shay](https://open.spotify.com/artist/3MNnSV5hDd2UzZzgqD8xlU) | [Jolie Go](https://open.spotify.com/album/52zSoFhwybohJaFzHMI9CF) | 2:46 | 2023-03-03 |  |
+| [LA RUE](https://open.spotify.com/track/7EO5oDxrq2dvYDgBjFvFYY) | [No Limit](https://open.spotify.com/artist/2Ns3GuAU2LYllDr7z20d0e), [Gazo](https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I), [Damso](https://open.spotify.com/artist/2UwqpfQtNuhBwviIC0f2ie) | [LA RUE](https://open.spotify.com/album/7IaBlF8e6NvoKSiE0SXRP1) | 3:45 | 2023-05-19 |  |
 | [Le Game A Des Codes](https://open.spotify.com/track/60bJbhPsIsZhQqKKcFGkG1) | [Shreez](https://open.spotify.com/artist/0qNrNX9FKJM0ZJFbcbMlMp) | [Le Game A Des Codes](https://open.spotify.com/album/5JJjKKExk3HLXFBC1mgr8D) | 1:57 | 2023-03-24 |  |
 | [Leansy](https://open.spotify.com/track/0lV7WglmHuWvFMid5KlRPI) | [Cupidon](https://open.spotify.com/artist/5iLIhZFtUFijzNwplwZtlV), [Joey G](https://open.spotify.com/artist/6p9wdOS2uCLQqiYP1HYeJf) | [Le calme avant la tempête](https://open.spotify.com/album/4ITWZzzEkduCXSaIHb4Llp) | 3:53 | 2023-03-03 | 2023-03-25 |
 | [Leave Me Alone](https://open.spotify.com/track/6m9iOAk3qIfvpem4MQBOH8) | [Dj Weedim](https://open.spotify.com/artist/1k0mwo8CyFp0ZlAGcu4LA7), [Enima](https://open.spotify.com/artist/47cHAE0NFwzGOlc3L4oszT) | [Leave Me Alone](https://open.spotify.com/album/0R3iuvokmmnxNOFExxl9us) | 3:00 | 2023-03-03 | 2023-04-29 |

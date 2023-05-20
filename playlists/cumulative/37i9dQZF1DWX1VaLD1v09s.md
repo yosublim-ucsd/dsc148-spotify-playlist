@@ -4,7 +4,7 @@
 
 > The most incredible songs to celebrate the life, death and resurrection of our Lord Jesus are all here in one collection\.  Sit back and let it provide the praise for glorious day!
 
-468 songs - 1 day 14 hr 30 min
+469 songs - 1 day 14 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -75,7 +75,7 @@
 | [Catch Me](https://open.spotify.com/track/2yDWexKaX2plvcDbomivOK) | [Elyssa Smith](https://open.spotify.com/artist/0p7lJtfYpKXr9KClOkpRaF) | [Wearing a Blindfold and Running](https://open.spotify.com/album/5R45bo2kVxcZE0d1AdWeYZ) | 4:41 | 2021-04-04 | 2022-07-29 |
 | [Chain Breaker](https://open.spotify.com/track/17GmwQ9Q3MTAz05OokmNNB) | [Zach Williams](https://open.spotify.com/artist/6g10GEtmIVqIQBhPZh4ScQ) | [Chain Breaker \(Deluxe Edition\)](https://open.spotify.com/album/1SIDIEoYi0EAlRqa1J6J7N) | 3:16 | 2022-04-17 |  |
 | [Chain Breaker](https://open.spotify.com/track/0DzQLyfd1NYrplYZn96vco) | [Zach Williams](https://open.spotify.com/artist/6g10GEtmIVqIQBhPZh4ScQ) | [Chain Breaker](https://open.spotify.com/album/7yfDHNzZryigytcfhRrExR) | 3:16 | 2021-04-04 | 2022-07-29 |
-| [Champion](https://open.spotify.com/track/30btd8SJIAWHaRuOMa2yIc) | [Bryan & Katie Torwalt](https://open.spotify.com/artist/7bvAtcPT3evvSeHDyu2zBC) | [Champion](https://open.spotify.com/album/2eu8QKnnHfaLErUkQQChA4) | 4:43 | 2022-04-02 |  |
+| [Champion](https://open.spotify.com/track/30btd8SJIAWHaRuOMa2yIc) | [Bryan & Katie Torwalt](https://open.spotify.com/artist/7bvAtcPT3evvSeHDyu2zBC) | [Champion](https://open.spotify.com/album/2eu8QKnnHfaLErUkQQChA4) | 4:43 | 2022-04-02 | 2023-05-20 |
 | [Christ Be Magnified](https://open.spotify.com/track/0WfYGGL9NugwFZPWKLdz4N) | [Cody Carnes](https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0) | [Christ Be Magnified](https://open.spotify.com/album/1P4lxsRozxtjbdaOdvkbUP) | 5:02 | 2021-04-04 |  |
 | [Christ Is Risen](https://open.spotify.com/track/1GQsaKKI0ZJJPI5Zsop20u) | [Mack Brock](https://open.spotify.com/artist/5yCOPpDHEQxwSJJL2LAqLj) | [Greater Things](https://open.spotify.com/album/6zCU9zG1tIfA9V1UEfSPsz) | 5:07 | 2021-04-04 |  |
 | [Christ Is Risen](https://open.spotify.com/track/27q0d0DgZrcnUNr2K0kMPC) | [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [Alive Again](https://open.spotify.com/album/6Y07x7oqvxOt0oUiBBWaHX) | 4:54 | 2021-04-04 |  |
@@ -412,6 +412,7 @@
 | [This Is Amazing Grace](https://open.spotify.com/track/5C64H6dEsQ15bS9gp0D3Xr) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [The Ascension](https://open.spotify.com/album/4n00c0RLzY8dZiDnsNwHQf) | 4:39 | 2021-04-04 | 2022-07-29 |
 | [This Is My Father's World](https://open.spotify.com/track/6tHwEfq4JpewxJbxXhuMZb) | [Fernando Ortega](https://open.spotify.com/artist/6mGZXaZ4SWNh6IsJ57thCp) | [BEGINNINGS \- 2 CD Set](https://open.spotify.com/album/6b5XytCLYrxIjlxTQgcoz7) | 3:53 | 2021-04-04 | 2022-07-29 |
 | [This Is My Song \- Live](https://open.spotify.com/track/5VPQE4HJbsvTFZZ9xL4KOY) | [North Point Worship](https://open.spotify.com/artist/1IGGfstLsypGtdI55tT3Z1) | [Our God Will See Us Through \(Live\)](https://open.spotify.com/album/25NamvQ3sQ5SSG5kNTePx2) | 4:13 | 2022-04-17 | 2023-04-03 |
+| [This Is The Day](https://open.spotify.com/track/0LniKzo1ZyVzqbBecrkmXe) | [Fred Hammond](https://open.spotify.com/artist/2ndyVAdV9UqF1XjyTJt484) | [Free To Worship](https://open.spotify.com/album/50pXzic1y0A1fLXp8ktvkr) | 4:49 | 2023-05-20 |  |
 | [Three](https://open.spotify.com/track/1XE2AiPIecv5qDJvoajruU) | [Jackson Michelson](https://open.spotify.com/artist/75u3YWqj5cBc7lxxfctOqN) | [Three](https://open.spotify.com/album/4qBC2PWgHdkaec6uwBiKUh) | 3:30 | 2022-04-17 | 2023-04-03 |
 | [To Live Is Christ](https://open.spotify.com/track/2RQvdhnvPxxLBHkCPd1dnw) | [Sidewalk Prophets](https://open.spotify.com/artist/2SMYoM2Kbcj6rI6U3FRc4U) | [Something Different \(Deluxe Version\)](https://open.spotify.com/album/4S4lInmCZneeMgd2wUJAwr) | 3:48 | 2021-04-04 |  |
 | [To the One](https://open.spotify.com/track/4aViChUodEZJp9fqg718oZ) | [I AM THEY](https://open.spotify.com/artist/0XJ5RIvhlOL0harjI9jZvX) | [Trial & Triumph](https://open.spotify.com/album/4milDwwpzRI8oHNuaXmNNX) | 3:21 | 2021-04-04 | 2022-07-29 |

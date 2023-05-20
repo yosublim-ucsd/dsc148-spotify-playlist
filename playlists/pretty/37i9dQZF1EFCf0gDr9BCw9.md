@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCf0gDr9BCw9.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1F8iyK0PtpY1EAYBTssIaz">Billy Strayhorn</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 526 likes - 142 songs - 10 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 527 likes - 142 songs - 10 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCf0gDr9BCw9.md) - [plain]
 | 23 | [Blues In Orbit](https://open.spotify.com/track/1pCfOO0Zs5F5TRQxcTdQma) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A) | [Blues In Orbit](https://open.spotify.com/album/5nifIOxB4n4XLxgJDqGJUG) | 2:27 |
 | 24 | [Something To Live For](https://open.spotify.com/track/6vztWp5jzOaYM9HaCaZWvO) | [Carmen McRae](https://open.spotify.com/artist/2E3nXyfocf7qfHAIFNbBuj) | [By Special Request](https://open.spotify.com/album/5mRJwyqRM2bhb6VxiESoK0) | 3:11 |
 | 25 | [Hey Buddy Bolden \- 2004 Remaster](https://open.spotify.com/track/2TZkPrgr5iflrNaLPN6S4f) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [Nina Simone Sings Ellington](https://open.spotify.com/album/4O1uLlNwEIVbwUXrpKL7rB) | 2:27 |
-| 26 | [After All](https://open.spotify.com/track/17TOKPQ8GTh4u7Jov572By) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A) | [And His Mother Called Him Bill](https://open.spotify.com/album/1VFa3WWYDJJCmEIwU4Ee2g) | 3:47 |
-| 27 | [Rock Skippin'](https://open.spotify.com/track/1Q5UwFeo1DwCz2GelI5U6L) | [Jim Hall](https://open.spotify.com/artist/5pMmqpG3HsoJ6EDDoXGXEr) | [Concierto \(CTI Records 40th Anniversary Edition\)](https://open.spotify.com/album/7N3ZysMrLSuJAtPPCjCba0) | 6:10 |
+| 26 | [Rock Skippin'](https://open.spotify.com/track/1Q5UwFeo1DwCz2GelI5U6L) | [Jim Hall](https://open.spotify.com/artist/5pMmqpG3HsoJ6EDDoXGXEr) | [Concierto \(CTI Records 40th Anniversary Edition\)](https://open.spotify.com/album/7N3ZysMrLSuJAtPPCjCba0) | 6:10 |
+| 27 | [After All](https://open.spotify.com/track/17TOKPQ8GTh4u7Jov572By) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A) | [And His Mother Called Him Bill](https://open.spotify.com/album/1VFa3WWYDJJCmEIwU4Ee2g) | 3:47 |
 | 28 | [Northern Lights \- The Queen's Suite](https://open.spotify.com/track/39KaSaPlBMuQMM5lKML0VZ) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A) | [The Ellington Suites](https://open.spotify.com/album/2xjUTAmc4gI76Js8T6Aj0s) | 3:31 |
 | 29 | [Tonk](https://open.spotify.com/track/5CsQisDoqqLgOqHwHWjuBf) | [The Art Farmer Quartet](https://open.spotify.com/artist/017N2VIptuU1ZIehQyCzWM) | [Perception](https://open.spotify.com/album/7pTyS4yTFJhDBBe0ve3Vpc) | 4:34 |
 | 30 | [Pt\. II\-Blues to Be There \- Live](https://open.spotify.com/track/4aKm1xEQAaEF1tDuQ4YMuJ) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A) | [Ellington at Newport 1956 \(Complete\)](https://open.spotify.com/album/0t41BkcZayaAsa0FdRelfz) | 7:09 |
@@ -151,4 +151,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCf0gDr9BCw9.md) - [plain]
 | 141 | [Suite For The Duo](https://open.spotify.com/track/2LhGv7K7runCfDvvacEs9L) | [The Mitchell\-Ruff Duo](https://open.spotify.com/artist/6EuDBKUzhOpVFircumtEz6) | [Strayhorn: A Mitchell\-Ruff Interpretation](https://open.spotify.com/album/5ZAbG3O5SXsmw9U7szA1Sq) | 12:42 |
 | 142 | [Zajj's Dream](https://open.spotify.com/track/0GFIr9C7miDD3jxL7i54Ra) | [Claude Bolling Big Band](https://open.spotify.com/artist/3YxemJtRsk1WR4ikdnfy6L) | [A Drum Is a Woman, conte musical de Duke Ellington \(Live au Théâtre National de Chaillot en 1996\)](https://open.spotify.com/album/4sTOOHhshmGFyo6GvxHQRc) | 5:26 |
 
-Snapshot ID: `MjgwNzQzMDAsMDAwMDAwMDAxMmViOTBiY2E3NDZjOGRjYzEwZDkxODExYWNmNTdiNg==`
+Snapshot ID: `MjgwNzU3NDAsMDAwMDAwMDAxMjBjZjM2MDU2ZDYyMGUzMjU2ZmJlZmZhZTNkNzllMg==`

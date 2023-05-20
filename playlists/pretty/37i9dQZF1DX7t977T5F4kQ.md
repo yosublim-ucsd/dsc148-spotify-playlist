@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7t977T5F4kQ.md) - [plain]
 
 > The hottest hip\-life and highlife bangers from Ghana right now\.  Cover:  <a href="https://open.spotify.com/artist/1dlInrJwE0KSP9hZ0ALsI6?si=ZXDsekt9R9Kr7njkemAF\_w"> Efya</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,025 likes - 80 songs - 4 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,043 likes - 80 songs - 4 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,18 +23,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7t977T5F4kQ.md) - [plain]
 | 13 | [Gboza](https://open.spotify.com/track/6K9kZQF9mugqUJ47BWf1jL) | [DopeNation](https://open.spotify.com/artist/25vbw2Uw68Ny6ae7tekmky) | [Gboza](https://open.spotify.com/album/1xdEbTrHZcaRKs3gjLFVQ5) | 3:19 |
 | 14 | [Je M'appelle \(feat\. DaVido\)](https://open.spotify.com/track/45JfxtSUnkb9e4r0MBYqfK) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [DarkoVibes](https://open.spotify.com/artist/5a3kizlLAxR0P6qZEti8T8) | [Je M'appelle \(feat\. DaVido\)](https://open.spotify.com/album/56qzuXPxeJKnmmOlZFQeUo) | 2:44 |
 | 15 | [Ginger](https://open.spotify.com/track/45soZFnFJ0JBR1Ahx3hhCF) | [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf) | [Ginger](https://open.spotify.com/album/1URFu4auayefM9X1rSMOh5) | 3:33 |
-| 16 | [Akohwie](https://open.spotify.com/track/1d51OuwXfGfc6PwWezrwTS) | [Ypee](https://open.spotify.com/artist/73vIVPEHNYnSjvxwN5AX6P) | [Akohwie](https://open.spotify.com/album/5YHo8SQnebWXMA43Qoos51) | 2:54 |
-| 17 | [SOMETHING](https://open.spotify.com/track/1s2FsIDYlX6nhQ6UXF4V2w) | [Gyakie](https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ) | [SOMETHING](https://open.spotify.com/album/3Qmuuv3vABDE0tTJ1vUO8D) | 3:08 |
-| 18 | [I Lied](https://open.spotify.com/track/1qZUGjuBSXh5sJfjYqOXWo) | [KiDi](https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V) | [I Lied](https://open.spotify.com/album/1Fkg0HRPJ5NsY570H1KpsL) | 2:37 |
+| 16 | [SOMETHING](https://open.spotify.com/track/1s2FsIDYlX6nhQ6UXF4V2w) | [Gyakie](https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ) | [SOMETHING](https://open.spotify.com/album/3Qmuuv3vABDE0tTJ1vUO8D) | 3:08 |
+| 17 | [I Lied](https://open.spotify.com/track/1qZUGjuBSXh5sJfjYqOXWo) | [KiDi](https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V) | [I Lied](https://open.spotify.com/album/1Fkg0HRPJ5NsY570H1KpsL) | 2:37 |
+| 18 | [Chale Wote](https://open.spotify.com/track/0P3mEL2RyN1YLE5hdqWeux) | [FRA!](https://open.spotify.com/artist/07Bkdyq0lzTh2ayKwd40HN) | [Chale Wote](https://open.spotify.com/album/1xOvFbPk7T2edgj2TnVdvK) | 5:42 |
 | 19 | [Like Electricity](https://open.spotify.com/track/1rcAOj1TyavWMnfMGwRbMX) | [Shatta Wale](https://open.spotify.com/artist/42q0rYXtR561ypg1Fcw1PI) | [Like Electricity](https://open.spotify.com/album/58vZNlvKOQDhsAgkwSYVvq) | 3:02 |
 | 20 | [Non Living Thing \(feat\. Oxlade\)](https://open.spotify.com/track/5Ky8pIlNDaSQtxfY45dqMw) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT) | [No Pressure](https://open.spotify.com/album/3yg34MqlH23DzPdIGFNwQU) | 3:49 |
-| 21 | [Affairs](https://open.spotify.com/track/7jbLmF56d83iYzKZMnwP8a) | [Kirani Ayat](https://open.spotify.com/artist/1fFrD70weJrj1mnHPWiVx9), [Fameye](https://open.spotify.com/artist/3qzyWumjTf8agsBgNTkx7L), [Pure Akan](https://open.spotify.com/artist/7gokJukppUKeH1t6RBiclx) | [Affairs](https://open.spotify.com/album/4G7HCFjj6K39ELUmXSO49G) | 2:44 |
-| 22 | [Necessary](https://open.spotify.com/track/7smcI2O4mrVzrb9X1B2u26) | [D Jay](https://open.spotify.com/artist/1DETxFJht1YtCqi6EpmDxs) | [Necessary](https://open.spotify.com/album/6YgxiCboIdgym01sRlyGix) | 3:02 |
-| 23 | [Odo Nkoaa](https://open.spotify.com/track/1bBpce38RogIi9HneIooXP) | [Strongman](https://open.spotify.com/artist/4ISHXrztVcONj4mQCnwCs9), [Akwaboah](https://open.spotify.com/artist/6v01kW0IoqZBoLYu8ZS46Y) | [Odo Nkoaa](https://open.spotify.com/album/6do5C86UDDZnyq41YqDIsO) | 3:31 |
-| 24 | [Tornado](https://open.spotify.com/track/52L1OTjUe8Zmz8xQH9HENi) | [Tripcy](https://open.spotify.com/artist/5O7sGyn3CPojVAPQAtVApn), [Nektunez](https://open.spotify.com/artist/4n7aqhk0RIdeWKkBxvhN72) | [Tornado](https://open.spotify.com/album/339rnWvetNqZTAZzxrlv35) | 2:38 |
+| 21 | [Ashawo](https://open.spotify.com/track/25VXqB7xRiulkQAvL819Yb) | [Dayonthetrack](https://open.spotify.com/artist/7vsaQwuPAG2PSWPVitnXrc) | [Ashawo](https://open.spotify.com/album/56jazw4lgbAn1rEyperIPa) | 3:01 |
+| 22 | [Affairs](https://open.spotify.com/track/7jbLmF56d83iYzKZMnwP8a) | [Kirani Ayat](https://open.spotify.com/artist/1fFrD70weJrj1mnHPWiVx9), [Fameye](https://open.spotify.com/artist/3qzyWumjTf8agsBgNTkx7L), [Pure Akan](https://open.spotify.com/artist/7gokJukppUKeH1t6RBiclx) | [Affairs](https://open.spotify.com/album/4G7HCFjj6K39ELUmXSO49G) | 2:44 |
+| 23 | [Necessary](https://open.spotify.com/track/7smcI2O4mrVzrb9X1B2u26) | [D Jay](https://open.spotify.com/artist/1DETxFJht1YtCqi6EpmDxs) | [Necessary](https://open.spotify.com/album/6YgxiCboIdgym01sRlyGix) | 3:02 |
+| 24 | [Odo Nkoaa](https://open.spotify.com/track/1bBpce38RogIi9HneIooXP) | [Strongman](https://open.spotify.com/artist/4ISHXrztVcONj4mQCnwCs9), [Akwaboah](https://open.spotify.com/artist/6v01kW0IoqZBoLYu8ZS46Y) | [Odo Nkoaa](https://open.spotify.com/album/6do5C86UDDZnyq41YqDIsO) | 3:31 |
 | 25 | [GIDIGBA \(FIRM & STRONG\)](https://open.spotify.com/track/3UH3DZZNIuUZ78VE2jDsO7) | [Stonebwoy](https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq) | [GIDIGBA \(FIRM & STRONG\)](https://open.spotify.com/album/0S6gW0pMAIxyt7yRvw6Qnw) | 2:53 |
 | 26 | [Fine Wine \(feat\. King Promise & Joeboy\)](https://open.spotify.com/track/3E3WIVDBt4rX4N2kRrwSah) | [R2Bees](https://open.spotify.com/artist/0LFsP7WPfu5inz9a1amcE4), [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf), [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF) | [Fine Wine \(feat\. King Promise & Joeboy\)](https://open.spotify.com/album/3f6FbIilED8NakLgcWAhqi) | 3:50 |
-| 27 | [Promo](https://open.spotify.com/track/6KepFxtuNsCH8mGcpPuujz) | [ChuloWorldwide](https://open.spotify.com/artist/6WgEtQJUmNTVvypGsW3z6S) | [Promo](https://open.spotify.com/album/22Cx4gMihN09B7btRS0B5a) | 2:29 |
+| 27 | [KPONKPO](https://open.spotify.com/track/4E0zFXFHtn5qwHHNSOkK1k) | [Gasmilla](https://open.spotify.com/artist/1Wtzdgd5YfWe0WWm9WN3l3) | [KPONKPO](https://open.spotify.com/album/6WRZb4GyZBhtylB9aEe4d7) | 2:59 |
 | 28 | [Run AM](https://open.spotify.com/track/2lByANPWtcbcJJR9fETLNW) | [Stonebwoy](https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq), [Mereba](https://open.spotify.com/artist/294lNTPZfdqyzt8qnxmFiL) | [5th Dimension](https://open.spotify.com/album/6P09BN0UfWRJt4jCIaAGS4) | 3:18 |
 | 29 | [Far Away](https://open.spotify.com/track/6ytwuDs4xBbt0TllrIZi4C) | [Stonebwoy](https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq) | [Far Away](https://open.spotify.com/album/57oEI8ZsS1oPc6bYwgfNiT) | 2:19 |
 | 30 | [Olukeke \- A COLORS SHOW](https://open.spotify.com/track/1wLFBauKxbF4lAbJAc1AYo) | [Bryte](https://open.spotify.com/artist/4LFakjYAIBquTKsvvLNiGi) | [Olukeke \- A COLORS SHOW](https://open.spotify.com/album/0vt0Pkpe6X9c2s7YamCack) | 3:39 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7t977T5F4kQ.md) - [plain]
 | 79 | [Mood](https://open.spotify.com/track/6MxDZfKKNsiYwescOFGyY0) | [Mr Drew](https://open.spotify.com/artist/4pW48O5XBTgEEJWfr8btdK) | [Mood](https://open.spotify.com/album/5bonVIdxHsDgtdmzdLzVSp) | 2:36 |
 | 80 | [Odo Bi](https://open.spotify.com/track/5vGmaVJOOzntsf8KFFI6wf) | [Stonebwoy](https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq), [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8) | [Epistles of Mama](https://open.spotify.com/album/7nnkIiGBMhqnTqwEEqvTrr) | 3:27 |
 
-Snapshot ID: `MCw5NDZkZGNlZDIzODQzZWUzODJkYzJlYTE5YTJmOWFlZGJkMGM2NzM4`
+Snapshot ID: `MCw1ZDNhMTkxZDI2ODg0NzI5YzllOTI2YTgxYWM3YTFiMTM1ZWQwODVi`

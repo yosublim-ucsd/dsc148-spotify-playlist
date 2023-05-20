@@ -2,14 +2,14 @@
 
 ### [100% Cuarteto](https://open.spotify.com/playlist/37i9dQZF1DX490QbTioWDE)
 
-> Fuego y Pasión\. Pasión Cordobesa, pasión Argentina\. <br/>Foto: La K'onga & Luck Ra.
+> Fuego y Pasión\. Pasión Cordobesa, pasión Argentina\. <br/>Foto: AlanGomez & Luck Ra.
 
-328 songs - 21 hr 20 min
+329 songs - 21 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [200 Copas](https://open.spotify.com/track/0HgkRcmGDiza3KTjM3Ifnu) | [Q' Lokura](https://open.spotify.com/artist/7dlkBH23ERFXxuNoMHq94Y), [Banda Mix](https://open.spotify.com/artist/6D5yvbvtW8ogLKkNWFsDDv) | [200 Copas](https://open.spotify.com/album/7FIilN5RFkvF8Uwtv87N52) | 3:57 | 2021-12-24 |  |
-| [200 Copas \- En Vivo](https://open.spotify.com/track/4wwIQuF9nn3F9rNMcVDwYN) | [Banda Mix](https://open.spotify.com/artist/6D5yvbvtW8ogLKkNWFsDDv) | [200 Copas \(En Vivo\)](https://open.spotify.com/album/4FbQ8mj2sJWYTzZjWcBKAU) | 3:38 | 2021-12-24 |  |
+| [200 Copas \- En Vivo](https://open.spotify.com/track/4wwIQuF9nn3F9rNMcVDwYN) | [Banda Mix](https://open.spotify.com/artist/6D5yvbvtW8ogLKkNWFsDDv) | [200 Copas \(En Vivo\)](https://open.spotify.com/album/4FbQ8mj2sJWYTzZjWcBKAU) | 3:38 | 2021-12-24 | 2023-05-20 |
 | [A Cuánto Me Quedé](https://open.spotify.com/track/0UQZuEiQtoaNZqIoGhBWeR) | [Simon Aguirre](https://open.spotify.com/artist/3tkCQ0W9ITi32E2ddBdU0M) | [A Cuánto Me Quedé](https://open.spotify.com/album/0GwTvMjZgh63HJ1ReRw87g) | 3:16 | 2022-07-22 |  |
 | [A Cuánto Me Quedé](https://open.spotify.com/track/6nSdCunUQiGAnSMbdvt5Mw) | [Simon Aguirre](https://open.spotify.com/artist/3tkCQ0W9ITi32E2ddBdU0M) | [A Cuánto Me Quedé](https://open.spotify.com/album/62o1fvTFwdsdhONpu2SGYn) | 3:16 | 2022-01-10 | 2022-07-12 |
 | [A un Milimetro de Ti / Tan Natural](https://open.spotify.com/track/0b3ecgOYbtZpuxM45S7PVf) | [Q' Lokura](https://open.spotify.com/artist/7dlkBH23ERFXxuNoMHq94Y), [Sergio Torres](https://open.spotify.com/artist/20RFfhUr4ywekB37FCjaqW) | [A un Milimetro de Ti / Tan Natural](https://open.spotify.com/album/5aa9yk905wXc6nyZ6mMMLh) | 5:03 | 2022-08-12 | 2022-09-10 |
@@ -154,6 +154,7 @@
 | [Los Gatos No Ladran](https://open.spotify.com/track/2ECZISNOHLHKYEtl9oK8aF) | [Chipote](https://open.spotify.com/artist/6zuShqSKzYP7ZPGMkMFhbL) | [Atado a un Sentimiento](https://open.spotify.com/album/3hNqD2OaRuOpj9EWUw7pSS) | 3:58 | 2021-12-24 | 2022-07-07 |
 | [Los Infieles](https://open.spotify.com/track/7hIytqIz9AKgutgikzrQij) | [Ale Ceberio](https://open.spotify.com/artist/7fxj9VjDxGpHfOPEkgxm6e) | [Pleno](https://open.spotify.com/album/0ZSwCQoWXkBeDIGphjawWr) | 3:29 | 2021-12-24 | 2022-10-21 |
 | [Los Que Quieran Bailar / Hasta Volverme Loco / Eres Mí Condena \- En Vivo](https://open.spotify.com/track/2QE1uJUwGHsQPqJPgoMgsm) | [Dale Q' Va](https://open.spotify.com/artist/6jlVAg80czVPRFnLp05N0V) | [Aquí y Ahora \(En Vivo\)](https://open.spotify.com/album/3zURDmdkMgq7fWMwcX9u0d) | 5:29 | 2022-01-14 | 2022-05-29 |
+| [Luck Ra \| Mission 15](https://open.spotify.com/track/6CIMoDfTsvFVGhFi3v9Izn) | [Alan Gomez](https://open.spotify.com/artist/6oMRQ5H3A2XA5I3RG3leni), [Luck Ra](https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk) | [Luck Ra \| Mission 15](https://open.spotify.com/album/75ROUVsHe1IcWmeOBuFZtT) | 2:13 | 2023-05-19 |  |
 | [Luna En Capricornio](https://open.spotify.com/track/08gFXg5f9sbvI76AiXHquF) | [Monada](https://open.spotify.com/artist/5ts3iw277wUG2DUKnqktAD) | [Luna En Capricornio](https://open.spotify.com/album/34uPUL6FICdnyNOULxTuEe) | 2:59 | 2022-03-18 | 2023-04-28 |
 | [Maldito Coche Negro](https://open.spotify.com/track/3DVEkLep87N6TM6GffOwa8) | [El Turco Oliva](https://open.spotify.com/artist/0l3lrsagH8oE0CAkXdyNMI) | [Con Piel de Cuarteto](https://open.spotify.com/album/7wOjCagE0rrTQVMfvKcNbh) | 3:56 | 2021-12-24 |  |
 | [Manos de Tijera \- En Vivo](https://open.spotify.com/track/3p1VmY21fzMIYq29YVsjWo) | [Q' Lokura](https://open.spotify.com/artist/7dlkBH23ERFXxuNoMHq94Y) | [Manos de Tijera \(En Vivo\)](https://open.spotify.com/album/3Hl655PnrXY7j3hC35xN75) | 4:18 | 2021-12-24 | 2023-05-13 |

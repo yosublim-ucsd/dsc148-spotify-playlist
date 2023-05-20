@@ -793,6 +793,28 @@
     },
     {
       "album": {
+        "name": "Hee Hee Haa Haa",
+        "url": "https://open.spotify.com/album/3IoyNWIFpu6fTFjqEb8Rrb"
+      },
+      "artists": [
+        {
+          "name": "Bubba Sparxxx",
+          "url": "https://open.spotify.com/artist/3RPYHNSwe3w0mtfJwKIN9P"
+        },
+        {
+          "name": "Jcrews",
+          "url": "https://open.spotify.com/artist/5y2AgdbbFUpAXM8T7o8Fvb"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215183,
+      "name": "Hee Hee Haa Haa",
+      "url": "https://open.spotify.com/track/6iXPBv1ouAB8HkhJpIYjBP"
+    },
+    {
+      "album": {
         "name": "Hey Boy, Hey Girl",
         "url": "https://open.spotify.com/album/4YemyQre4YNNvLLM3huRrN"
       },

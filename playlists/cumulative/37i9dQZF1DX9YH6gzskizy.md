@@ -2,7 +2,7 @@
 
 ### [\#GRWM Indie](https://open.spotify.com/playlist/37i9dQZF1DX9YH6gzskizy)
 
-> You are a mood, so is this playlist\. ✨ Cover \- Kayan
+> You are a mood, so is this playlist\. ✨ Cover \- OAFF, Kayan
 
 50 songs - 2 hr 38 min
 

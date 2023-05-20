@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Tech house technicians, featuring Ship Wrek",
+  "description": "Tech house technicians, featuring Mau P",
   "name": "Operator",
   "tracks": [
     {
@@ -1410,7 +1410,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 180003,
       "name": "Bamboleo",
       "url": "https://open.spotify.com/track/3oV6BW7m5S4SDfWNC2okT5"
@@ -1500,7 +1500,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 153779,
       "name": "BASS GLIDE",
       "url": "https://open.spotify.com/track/2K9aKWIqTlv2tEsb4mptJj"
@@ -1770,7 +1770,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 160887,
       "name": "Big Talk",
       "url": "https://open.spotify.com/track/28wJwHEsUOnSDfoYi9OPkz"
@@ -2126,7 +2126,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-03",
+      "date_removed": null,
       "duration_ms": 156190,
       "name": "Bracadu",
       "url": "https://open.spotify.com/track/2jt1PRnEe1E96lGJoRBT8L"
@@ -2822,7 +2822,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 127699,
       "name": "Case Of The Ex (feat. Mya Francis)",
       "url": "https://open.spotify.com/track/0jwGDGBIyzdsNxYkj7vNUb"
@@ -3686,7 +3686,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-23",
+      "date_removed": null,
       "duration_ms": 159840,
       "name": "Cumbia Cinaguera",
       "url": "https://open.spotify.com/track/0yU2Esztng2HvcQlPmyCPU"
@@ -4016,7 +4016,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 155845,
       "name": "Deceiver - VIP",
       "url": "https://open.spotify.com/track/39aowVnxyzMDZOmrgsN4MU"
@@ -6490,7 +6490,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-19",
+      "date_removed": null,
       "duration_ms": 183625,
       "name": "Follow The Call",
       "url": "https://open.spotify.com/track/3hEp4tAxoZeRgFnL6rSgw0"
@@ -6765,6 +6765,32 @@
     },
     {
       "album": {
+        "name": "Gas Pedal (Kyle Watson Remix)",
+        "url": "https://open.spotify.com/album/6FlRWTqRzIsZNZdERYLlhg"
+      },
+      "artists": [
+        {
+          "name": "Sage The Gemini",
+          "url": "https://open.spotify.com/artist/6d47Z08T4snK50HgTEHo5Z"
+        },
+        {
+          "name": "Kyle Watson",
+          "url": "https://open.spotify.com/artist/7LJSAfWhO7jhjnewy6pKyZ"
+        },
+        {
+          "name": "Iamsu!",
+          "url": "https://open.spotify.com/artist/2ZavqCJe7uqkRpISes0NFi"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183318,
+      "name": "Gas Pedal - Kyle Watson Remix",
+      "url": "https://open.spotify.com/track/7gGF9H8WevuEJWe6QoMhJl"
+    },
+    {
+      "album": {
         "name": "Gelato Dream",
         "url": "https://open.spotify.com/album/4ORtIEkrRwL36U3dUB8GVj"
       },
@@ -6928,7 +6954,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-27",
+      "date_removed": null,
       "duration_ms": 225714,
       "name": "Get Mad",
       "url": "https://open.spotify.com/track/4KUu7UH2abla0DBdQF2lgj"
@@ -7034,7 +7060,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 217410,
       "name": "Gimme That Bounce",
       "url": "https://open.spotify.com/track/7jURkEKDVEm9sHueqUX0ko"
@@ -7140,6 +7166,28 @@
       "duration_ms": 151882,
       "name": "Goa",
       "url": "https://open.spotify.com/track/4gKkrfxd8FdKqIhiR0dmoF"
+    },
+    {
+      "album": {
+        "name": "Good Love",
+        "url": "https://open.spotify.com/album/4SCAkvXJmXuvoQTlQU7Q48"
+      },
+      "artists": [
+        {
+          "name": "Hannah Laing",
+          "url": "https://open.spotify.com/artist/1QEd635szhierW6gzRiS1o"
+        },
+        {
+          "name": "RoRo",
+          "url": "https://open.spotify.com/artist/4AuHHsxMRVg7bXSgvlrAff"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169534,
+      "name": "Good Love",
+      "url": "https://open.spotify.com/track/0ZVjgfaC2Ptrod9v6p9KFP"
     },
     {
       "album": {
@@ -7270,7 +7318,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 167097,
       "name": "Gotta Let You Go",
       "url": "https://open.spotify.com/track/7Ikf5qsW8GxJq0ZfpZUHsX"
@@ -7430,7 +7478,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 188709,
       "name": "Handle With Care",
       "url": "https://open.spotify.com/track/3N8gXAlk4IImC2gXQUkcUp"
@@ -7990,7 +8038,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 164000,
       "name": "House All The Time",
       "url": "https://open.spotify.com/track/3K3asUF88k0nKWtkm4eqLr"
@@ -9340,7 +9388,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-14",
+      "date_removed": null,
       "duration_ms": 210585,
       "name": "Junglist",
       "url": "https://open.spotify.com/track/40E2w7AGNUFx4roieo6ekh"
@@ -9950,7 +9998,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-14",
+      "date_removed": null,
       "duration_ms": 165600,
       "name": "Lento",
       "url": "https://open.spotify.com/track/1OMRAjaY0XN5MUxQ3p3KOY"
@@ -10258,6 +10306,24 @@
       "duration_ms": 226666,
       "name": "Lights Go Out",
       "url": "https://open.spotify.com/track/18KVIouF8klKE9HdqdpUxd"
+    },
+    {
+      "album": {
+        "name": "Like This",
+        "url": "https://open.spotify.com/album/5c2BKb5ZyD3H3h5tenKJSU"
+      },
+      "artists": [
+        {
+          "name": "Robert Falcon",
+          "url": "https://open.spotify.com/artist/5CVwY7MrkxGF1aM4f1u6Xk"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170551,
+      "name": "Like This",
+      "url": "https://open.spotify.com/track/0ivA7bMXyVNFaQOceVI8EX"
     },
     {
       "album": {
@@ -10805,6 +10871,24 @@
     },
     {
       "album": {
+        "name": "Love My House",
+        "url": "https://open.spotify.com/album/1DSAMWIcYeWOvVxzdZJ4Cw"
+      },
+      "artists": [
+        {
+          "name": "Kapuzen",
+          "url": "https://open.spotify.com/artist/33t6iueXWtstQC1Q0RdojN"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222720,
+      "name": "Love My House",
+      "url": "https://open.spotify.com/track/7muGDRh89CHmI2vuexyWK4"
+    },
+    {
+      "album": {
         "name": "Love On Time",
         "url": "https://open.spotify.com/album/6KZ9zbDkMoCizTAosnreCh"
       },
@@ -11154,7 +11238,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 172380,
       "name": "Mamacita (feat. LexBlaze)",
       "url": "https://open.spotify.com/track/3BDaQ8OZwJxRvnrMDJssCL"
@@ -11420,7 +11504,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-11",
+      "date_removed": null,
       "duration_ms": 437882,
       "name": "Memories",
       "url": "https://open.spotify.com/track/65f1SfKJb6bePOVUETxVQn"
@@ -12868,7 +12952,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 149583,
       "name": "Nikes",
       "url": "https://open.spotify.com/track/6Al4eNOERy6uxX8yieyPnl"
@@ -13698,7 +13782,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 204374,
       "name": "Oscill8",
       "url": "https://open.spotify.com/track/31Z3AuRnaj2ZLgZCWTqbLK"
@@ -13924,7 +14008,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 130123,
       "name": "Pa Lante",
       "url": "https://open.spotify.com/track/4BbgaqfPNjhW2gy6dSpsKG"
@@ -14033,6 +14117,28 @@
     },
     {
       "album": {
+        "name": "L.O.C.",
+        "url": "https://open.spotify.com/album/06tcSzwgaQTwOwmxIUcU9J"
+      },
+      "artists": [
+        {
+          "name": "Gian Varela",
+          "url": "https://open.spotify.com/artist/0vN342SOFAsCVGGZwLU9AF"
+        },
+        {
+          "name": "Chuwe",
+          "url": "https://open.spotify.com/artist/7rJzxhgAkMeLK3jKJ8qKhn"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212598,
+      "name": "Papi",
+      "url": "https://open.spotify.com/track/0SmL6t4DXfjEsTiGtTEUSV"
+    },
+    {
+      "album": {
         "name": "Papi",
         "url": "https://open.spotify.com/album/7FWsxMMsncsXOGM2inA8xY"
       },
@@ -14132,7 +14238,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 160476,
       "name": "Paralyzed By Your Eyes",
       "url": "https://open.spotify.com/track/5hEet4S4TiD6zw0C9ekzdt"
@@ -14718,7 +14824,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-28",
+      "date_removed": null,
       "duration_ms": 154285,
       "name": "Program",
       "url": "https://open.spotify.com/track/5RzgHp25FmEO0nYNMynuHE"
@@ -15690,7 +15796,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-30",
+      "date_removed": null,
       "duration_ms": 112380,
       "name": "Rollin'",
       "url": "https://open.spotify.com/track/1s73Nzd18edWcJzRJfKmRE"
@@ -16602,7 +16708,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 238275,
       "name": "Shine",
       "url": "https://open.spotify.com/track/1BZrovLZ6QTTFxn4Ng4v2m"
@@ -16862,7 +16968,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 255234,
       "name": "Six Figures",
       "url": "https://open.spotify.com/track/4I3G3oB4cfOiKN8q4fzXxQ"
@@ -16928,7 +17034,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-13",
+      "date_removed": null,
       "duration_ms": 218390,
       "name": "Sleep Walk (feat. Liz Cass)",
       "url": "https://open.spotify.com/track/5qZw8Y01dhAluWp6xdk4VV"
@@ -17018,7 +17124,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-15",
+      "date_removed": null,
       "duration_ms": 177162,
       "name": "Smoke",
       "url": "https://open.spotify.com/track/5oAdBATu5QbXvBrtpCe0Mk"
@@ -17040,6 +17146,24 @@
       "duration_ms": 258750,
       "name": "Snatch",
       "url": "https://open.spotify.com/track/2WnWl10jDfmFHFFsQNAiAD"
+    },
+    {
+      "album": {
+        "name": "Snatch",
+        "url": "https://open.spotify.com/album/6Dy1ty2vCJfdHnOjHPtAUr"
+      },
+      "artists": [
+        {
+          "name": "Malaa",
+          "url": "https://open.spotify.com/artist/7w1eTNePApzDk8XtgykCPS"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258750,
+      "name": "Snatch",
+      "url": "https://open.spotify.com/track/6D3te7baCj2jIfZAKyD3sN"
     },
     {
       "album": {
@@ -17490,7 +17614,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 194350,
       "name": "Start To Move",
       "url": "https://open.spotify.com/track/6RrFJA0UismbIBs3DDbT3g"
@@ -18214,7 +18338,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 179528,
       "name": "Take Me Away",
       "url": "https://open.spotify.com/track/1EXDjOpV3Lbiv8CzJ7caHs"
@@ -18436,6 +18560,24 @@
       "duration_ms": 230078,
       "name": "TALKIN",
       "url": "https://open.spotify.com/track/1F38GFyEHT0M7S5pl8IZ5U"
+    },
+    {
+      "album": {
+        "name": "Targa",
+        "url": "https://open.spotify.com/album/2gGsxnuv7r7POARudVVnw4"
+      },
+      "artists": [
+        {
+          "name": "Waterm\u00e4t",
+          "url": "https://open.spotify.com/artist/4a9sClW4YpYQE5jUMAWx5W"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186576,
+      "name": "Targa",
+      "url": "https://open.spotify.com/track/0QN7gdtDObMcnhWTKXqb2O"
     },
     {
       "album": {
@@ -18690,7 +18832,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 173333,
       "name": "The Blur",
       "url": "https://open.spotify.com/track/6v8hT0hPFKUP3qluEpsHXY"
@@ -18964,6 +19106,24 @@
       "duration_ms": 428170,
       "name": "The Future",
       "url": "https://open.spotify.com/track/3MZHllv4rhpBnoOSoD1Mqe"
+    },
+    {
+      "album": {
+        "name": "The House of House EP",
+        "url": "https://open.spotify.com/album/7wkd8RasRwQYJ07htKGEIN"
+      },
+      "artists": [
+        {
+          "name": "LOVRA",
+          "url": "https://open.spotify.com/artist/4fIPBdK4awAR1W14u3v1J5"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216000,
+      "name": "The House of House",
+      "url": "https://open.spotify.com/track/6cyctoQI5xU2ZI5MLslxPs"
     },
     {
       "album": {
@@ -19712,7 +19872,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-08",
+      "date_removed": null,
       "duration_ms": 204257,
       "name": "Tomalo",
       "url": "https://open.spotify.com/track/5D8dzgsXWhlPXt4p0IxwTS"
@@ -19856,6 +20016,28 @@
       "duration_ms": 239039,
       "name": "Traga ft. STO Cultr",
       "url": "https://open.spotify.com/track/6RZ4uwBqEF0o9R0htuTCZ7"
+    },
+    {
+      "album": {
+        "name": "Trankilo",
+        "url": "https://open.spotify.com/album/47NHp2yScKctstDmFbZyTt"
+      },
+      "artists": [
+        {
+          "name": "Chico Rose",
+          "url": "https://open.spotify.com/artist/5OdVywqKqyCWwfE2fZb7IX"
+        },
+        {
+          "name": "Dot N Life",
+          "url": "https://open.spotify.com/artist/38aKknRSzI7luo0LJWDwDS"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187500,
+      "name": "Trankilo",
+      "url": "https://open.spotify.com/track/27wNgv13AiJTkiMJVMY9Hs"
     },
     {
       "album": {
@@ -20450,7 +20632,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 203108,
       "name": "Vibe Like That (feat. Georgia Meek)",
       "url": "https://open.spotify.com/track/0dH0pegRa3TILf9wzvI7jQ"
@@ -20696,7 +20878,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 203096,
       "name": "Wanna Dance",
       "url": "https://open.spotify.com/track/6TFXABE6cy6UH9VK4MDI8u"
@@ -21172,7 +21354,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 277500,
       "name": "Whatchagonnado",
       "url": "https://open.spotify.com/track/0FuAZvxkjdLhEownrnITPY"
@@ -21810,6 +21992,24 @@
       "duration_ms": 222720,
       "name": "Your Love",
       "url": "https://open.spotify.com/track/7ddsmjp0uWE4I4l0PV5LJb"
+    },
+    {
+      "album": {
+        "name": "Your Mind Is Dirty",
+        "url": "https://open.spotify.com/album/2CAWKp11LNJGtt3ROH1XsR"
+      },
+      "artists": [
+        {
+          "name": "Mau P",
+          "url": "https://open.spotify.com/artist/0w1sbtZVQoK6GzV4A4OkCv"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198799,
+      "name": "Your Mind Is Dirty",
+      "url": "https://open.spotify.com/track/0Ykdq9BLJqxLmEGobCkaix"
     },
     {
       "album": {

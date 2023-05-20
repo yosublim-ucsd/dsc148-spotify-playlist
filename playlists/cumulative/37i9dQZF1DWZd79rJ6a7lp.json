@@ -8463,6 +8463,24 @@
     },
     {
       "album": {
+        "name": "Shut Eye",
+        "url": "https://open.spotify.com/album/16bciap4drqxWTRFiP4aM7"
+      },
+      "artists": [
+        {
+          "name": "Hatchlings Calm",
+          "url": "https://open.spotify.com/artist/2ADOcw9Ra8kN4CVAMhOqgw"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200000,
+      "name": "Nomad",
+      "url": "https://open.spotify.com/track/5I9nwDidj4Y6mVRYS7HuPS"
+    },
+    {
+      "album": {
         "name": "Noraezean",
         "url": "https://open.spotify.com/album/2cAQpN9wxcwyy63PQ1xQ61"
       },
@@ -9242,6 +9260,24 @@
       "duration_ms": 216250,
       "name": "Pendwmpian",
       "url": "https://open.spotify.com/track/0RJMCNCnzAePPYHcktJSFK"
+    },
+    {
+      "album": {
+        "name": "Perdonar",
+        "url": "https://open.spotify.com/album/14ss71Uq1aaIjvf2cAPCJu"
+      },
+      "artists": [
+        {
+          "name": "Salina Cardenas",
+          "url": "https://open.spotify.com/artist/3UJgE628TwNqsowj6m4m4k"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162000,
+      "name": "Perdonar",
+      "url": "https://open.spotify.com/track/4xjBcSiWiaDYVx8956zMy2"
     },
     {
       "album": {
@@ -10858,7 +10894,7 @@
       ],
       "date_added": "2021-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 141137,
       "name": "Sineway",
       "url": "https://open.spotify.com/track/5BuUke8soY1IIEeJK4eNkk"
@@ -13076,6 +13112,24 @@
       "duration_ms": 202000,
       "name": "Un r\u00eave merveilleux",
       "url": "https://open.spotify.com/track/2P05XZMM1Yg3ENIzCEanAj"
+    },
+    {
+      "album": {
+        "name": "Unavene",
+        "url": "https://open.spotify.com/album/6WBxC6LzfLMAZameTe9X6T"
+      },
+      "artists": [
+        {
+          "name": "Nova Kral",
+          "url": "https://open.spotify.com/artist/7uawp9f3qhlML7nNn4vB4B"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136666,
+      "name": "Unavene",
+      "url": "https://open.spotify.com/track/4dZYpUveESOpInSlQLCXVQ"
     },
     {
       "album": {

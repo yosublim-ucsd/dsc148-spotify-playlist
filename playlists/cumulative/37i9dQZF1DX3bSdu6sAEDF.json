@@ -1244,7 +1244,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 206636,
       "name": "Dance Around It (feat. Brandi Carlile & Sheryl Crow)",
       "url": "https://open.spotify.com/track/1jxRF1uyBtNLaq2NL5ISro"
@@ -1674,6 +1674,24 @@
       "duration_ms": 184905,
       "name": "Feelings",
       "url": "https://open.spotify.com/track/0PNijikiRzvpXqY6bpyrfZ"
+    },
+    {
+      "album": {
+        "name": "Find My Way",
+        "url": "https://open.spotify.com/album/2fsJgdAtuJx5hHt8YU6DuZ"
+      },
+      "artists": [
+        {
+          "name": "Shoffy",
+          "url": "https://open.spotify.com/artist/4wO0kHiOwf8l9VMJJN9HmG"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173045,
+      "name": "Find My Way",
+      "url": "https://open.spotify.com/track/5oP725PoN0QHZ0T8kDt8I4"
     },
     {
       "album": {
@@ -4338,7 +4356,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 170720,
       "name": "Smile",
       "url": "https://open.spotify.com/track/2AHGHX3SIsBUmSXAbBhWHb"
@@ -5314,6 +5332,24 @@
       "duration_ms": 172266,
       "name": "When You're Gone",
       "url": "https://open.spotify.com/track/0U1W2LZVUX7qTm7dDpqxh6"
+    },
+    {
+      "album": {
+        "name": "When You\u2019re Breaking My Heart",
+        "url": "https://open.spotify.com/album/2MlHzvufzqaNSzLwDJAeJw"
+      },
+      "artists": [
+        {
+          "name": "Gatlin",
+          "url": "https://open.spotify.com/artist/1KGcdM5KxCVydaHe29QAj9"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184005,
+      "name": "When You\u2019re Breaking My Heart",
+      "url": "https://open.spotify.com/track/0D0oMP3byoKW7vOcI51LlG"
     },
     {
       "album": {

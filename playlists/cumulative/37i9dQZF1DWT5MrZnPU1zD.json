@@ -1214,7 +1214,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 190902,
       "name": "Bad Bitches (Remix) [feat. Lola Brooke & Kali]",
       "url": "https://open.spotify.com/track/5uNg131mN22zZzQ9XjRQ5Q"
@@ -3476,7 +3476,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 161041,
       "name": "DOGTOOTH",
       "url": "https://open.spotify.com/track/0judK8TqYfvwUohBngUxrE"
@@ -3880,7 +3880,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-06",
+      "date_removed": null,
       "duration_ms": 190416,
       "name": "Energy - Latto Remix",
       "url": "https://open.spotify.com/track/02quWjvp0fchzqa8uUXDps"
@@ -4038,7 +4038,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 197011,
       "name": "Ex\u2019s (Phatnall Remix) (with Lil Durk)",
       "url": "https://open.spotify.com/track/7M3h8JeDhIQIsdQdMrWohi"
@@ -6137,6 +6137,28 @@
     },
     {
       "album": {
+        "name": "I'm Geekin (feat. Luh Tyler)",
+        "url": "https://open.spotify.com/album/4hkUIlk30Vh9jsXz7dazhB"
+      },
+      "artists": [
+        {
+          "name": "DDG",
+          "url": "https://open.spotify.com/artist/0WK3H9OErSn5zKOkOV5egm"
+        },
+        {
+          "name": "Luh Tyler",
+          "url": "https://open.spotify.com/artist/1K15GRZZATsCJyGJ4bYiEz"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172035,
+      "name": "I'm Geekin (feat. Luh Tyler)",
+      "url": "https://open.spotify.com/track/2DBKeJkULv46sb1XaJKS8i"
+    },
+    {
+      "album": {
         "name": "Unbothered (Deluxe)",
         "url": "https://open.spotify.com/album/66GLiXR40lPbFF3vPc8YXX"
       },
@@ -6606,7 +6628,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 152213,
       "name": "Just Relax",
       "url": "https://open.spotify.com/track/4ZJ58LR9dwGJBFGC8RilBM"
@@ -11968,7 +11990,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-13",
+      "date_removed": null,
       "duration_ms": 177731,
       "name": "Step 1 (with Offset)",
       "url": "https://open.spotify.com/track/5gcsJvWzuPMeJBQYdiO0RS"
@@ -14454,6 +14476,24 @@
       "duration_ms": 172800,
       "name": "YA YA YA",
       "url": "https://open.spotify.com/track/6WPH7wmoqgAy9b70XiP9mU"
+    },
+    {
+      "album": {
+        "name": "Ye",
+        "url": "https://open.spotify.com/album/4xspYyXEsk2GuVr0yBEVql"
+      },
+      "artists": [
+        {
+          "name": "SoFaygo",
+          "url": "https://open.spotify.com/artist/2SJhf6rTOU53g8yBdAjPby"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131142,
+      "name": "Ye",
+      "url": "https://open.spotify.com/track/6X8EAUvhh5URYz04eYoKEW"
     },
     {
       "album": {

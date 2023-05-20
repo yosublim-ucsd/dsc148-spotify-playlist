@@ -4,7 +4,7 @@
 
 > Heavy Metal forever \\m/ classics to brand new tracks, play it loud\. Cover: DevilDriver
 
-725 songs - 2 day 5 hr 56 min
+726 songs - 2 day 6 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -194,6 +194,7 @@
 | [Escape the Silence](https://open.spotify.com/track/7zcTurWu11xVY7MGfjPvaH) | [Brainstorm](https://open.spotify.com/artist/6IlOclSCHgJ9Aix6QEktkO), [Peavy Wagner](https://open.spotify.com/artist/4TUo5Xawcuzz69DKWl91v8) | [Escape the Silence](https://open.spotify.com/album/1iu2v0huz5qp6NVq8qdtza) | 4:23 | 2021-12-17 | 2022-07-26 |
 | [Eternal](https://open.spotify.com/track/3ArY0OnRj46Qb7UIpjrKKy) | [Bruce Dickinson](https://open.spotify.com/artist/7Iffw1nP3NjCWkRIx3Ily9) | [Eternal](https://open.spotify.com/album/3SryVsff2UEt9JfalPnhXJ) | 5:59 | 2022-03-22 | 2022-04-18 |
 | [Event Horizon](https://open.spotify.com/track/7zAy7zxQ3089UVtT8iopo1) | [New Horizon](https://open.spotify.com/artist/2Tx9qvXQEMGM4wIRald5uk) | [Event Horizon](https://open.spotify.com/album/4tcpxAECnvzKmINKJ44UYY) | 4:13 | 2022-02-11 | 2022-07-26 |
+| [Everything](https://open.spotify.com/track/6wDa7DH5iDhXDyStu628mQ) | [Sevendust](https://open.spotify.com/artist/35Uu85Pq33mK8x1jYqsHY2) | [Everything](https://open.spotify.com/album/62kBa2uLYvfnC0itlJtgo7) | 4:18 | 2023-05-19 |  |
 | [Eye of the Storm](https://open.spotify.com/track/4ngbdRQfneBbVGU4V7jjDg) | [Battle Beast](https://open.spotify.com/artist/7k5jeohQCF20a8foBD9ize) | [Eye of the Storm](https://open.spotify.com/album/4FFOt7eAbO95LO3DpunmMb) | 4:26 | 2021-12-17 | 2022-07-29 |
 | [Eye of the Storm](https://open.spotify.com/track/5GKkwG5vl13DHxcUxFBSTm) | [Battle Beast](https://open.spotify.com/artist/7k5jeohQCF20a8foBD9ize) | [Circus Of Doom](https://open.spotify.com/album/6Kuz73jchZKPe72PPi2s3C) | 4:26 | 2022-07-08 | 2023-03-11 |
 | [Eye to Eye](https://open.spotify.com/track/3ojlZUEkinb7XA4tZuvx3y) | [Mystic Prophecy](https://open.spotify.com/artist/5kUzPpkPyNpxRYd66c8nYG) | [Eye to Eye](https://open.spotify.com/album/1qzFtzzRawXfGTKHCgaCBG) | 4:15 | 2021-12-17 | 2022-07-29 |
@@ -660,7 +661,7 @@
 | [Twilight Of The Gods](https://open.spotify.com/track/06HNCfXJcMnKHmRrkue97s) | [Blind Guardian](https://open.spotify.com/artist/7jxJ25p0pPjk0MStloN6o6) | [Beyond The Red Mirror](https://open.spotify.com/album/5bH9q5EMi147oTykVETEZn) | 4:51 | 2022-03-22 | 2022-04-19 |
 | [Unbreakable](https://open.spotify.com/track/1IaQLINjiOCSv4INrrv0aS) | [Stratovarius](https://open.spotify.com/artist/1O8CSXsPwEqxcoBE360PPO) | [Nemesis](https://open.spotify.com/album/37qdr3nW8foSCx7SRHP5La) | 4:37 | 2021-12-17 | 2022-04-30 |
 | [Under Your Tattoos](https://open.spotify.com/track/6koYE3878OQT34mPMuGZ4X) | [Annisokay](https://open.spotify.com/artist/7lAi1Cv19DsukgGjbZQxFg) | [Aurora](https://open.spotify.com/album/27iMGsljLzEgyFU1rAR0bX) | 4:12 | 2022-07-13 | 2022-08-20 |
-| [UNHALLØWED](https://open.spotify.com/track/1vCZDcHV3VaL14O01iUQVQ) | [Machine Head](https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt) | [ØF KINGDØM AND CRØWN](https://open.spotify.com/album/6duwuU8xgK7ShKMCrUxfBi) | 6:29 | 2022-08-26 |  |
+| [UNHALLØWED](https://open.spotify.com/track/1vCZDcHV3VaL14O01iUQVQ) | [Machine Head](https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt) | [ØF KINGDØM AND CRØWN](https://open.spotify.com/album/6duwuU8xgK7ShKMCrUxfBi) | 6:29 | 2022-08-26 | 2023-05-20 |
 | [UNHALLØWED](https://open.spotify.com/track/7F50EgojtGvz0imM1Koix8) | [Machine Head](https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt) | [UNHALLØWED](https://open.spotify.com/album/59wKmvq4pGRszs2tKjDY7e) | 6:29 | 2022-06-24 | 2022-08-27 |
 | [Unstoppable](https://open.spotify.com/track/3GEt0KLFFxhX3LvF7JJtAV) | [Disconnected](https://open.spotify.com/artist/2r5XoOgWhsoHsAysRIyqIb) | [Unstoppable](https://open.spotify.com/album/5ZUQz4uaNKpoC3JY33bVkQ) | 3:42 | 2022-03-22 | 2022-04-16 |
 | [Unstoppable](https://open.spotify.com/track/6KrxqNJFgdSrJTnfDnPT82) | [Disturbed](https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa) | [Unstoppable](https://open.spotify.com/album/0ZgFPrROyBNPg4jx2a261Q) | 3:58 | 2022-09-23 |  |

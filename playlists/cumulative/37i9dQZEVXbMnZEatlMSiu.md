@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Taiwan.
 
-632 songs - 1 day 14 hr 9 min
+633 songs - 1 day 14 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -359,6 +359,7 @@
 | [Work](https://open.spotify.com/track/3N0srZgpRLSY2ziJ1FsJh9) | [高爾宣 OSN](https://open.spotify.com/artist/4TcOznbEZBqev21LzAH4KE), [sunkis](https://open.spotify.com/artist/4EKSBwzbRW2YnMP5JXnXYr) | [Work](https://open.spotify.com/album/3iFMz768dCGwpWGfzECGx9) | 2:46 | 2022-09-28 | 2022-10-13 |
 | [XOXO](https://open.spotify.com/track/4r34Yi0eltsu1tp6z4lq3x) | [JEON SOMI](https://open.spotify.com/artist/7zYj9S9SdIunYCfSm7vzAR) | [XOXO](https://open.spotify.com/album/63pvOn2B5pUUcUKUwIEg9m) | 3:27 | 2021-10-31 | 2021-11-23 |
 | [Yeah Yeah Yeah](https://open.spotify.com/track/5y4WmuvFX1t3NdSId0MFOh) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [BORN PINK](https://open.spotify.com/album/0kbZ4ZNRs76sSFeGUEErFM) | 2:58 | 2022-09-17 | 2023-03-26 |
+| [Yellow](https://open.spotify.com/track/3AJwUDP919kvQ9QcozQPxg) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Parachutes](https://open.spotify.com/album/6ZG5lRT77aJ3btmArcykra) | 4:26 | 2023-05-19 |  |
 | [Yet To Come](https://open.spotify.com/track/10SRMwb9EuVS1K9rYsBfHQ) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Proof](https://open.spotify.com/album/6al2VdKbb6FIz9d7lU7WRB) | 3:13 | 2022-06-11 | 2022-07-17 |
 | [You Like Me](https://open.spotify.com/track/7x6lPvge2DmUzODEWkYYam) | [Vicky Chen](https://open.spotify.com/artist/01u3qI3xMGFvktXyRSMGRZ) | [You Like Me](https://open.spotify.com/album/7gDEwYDkvHA7J2BOWnntBX) | 3:00 | 2021-12-11 | 2021-12-16 |
 | [You Right](https://open.spotify.com/track/0k4d5YPDr1r7FX77VdqWez) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Planet Her](https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW) | 3:06 | 2021-06-27 | 2021-07-20 |
@@ -578,7 +579,7 @@
 | [粉色海洋](https://open.spotify.com/track/0w8p2STLgLE2VIVYUzAszZ) | [Jay Chou](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql) | [最偉大的作品](https://open.spotify.com/album/1rBr9FeLlp5ueSKtE89FZa) | 3:06 | 2022-07-16 | 2022-07-26 |
 | [精神分裂](https://open.spotify.com/track/37f3lHvINSdzriJeBNTuJY) | [Julia Wu](https://open.spotify.com/artist/7pSH4sO2lXAxFKF6MkwORv) | [2622](https://open.spotify.com/album/4FsfJ4W3zxBFfkiBNUpdo6) | 2:37 | 2021-09-02 | 2021-10-16 |
 | [紅顏如霜](https://open.spotify.com/track/4z1785BRf6Rn5OjepmdUMQ) | [Jay Chou](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql) | [最偉大的作品](https://open.spotify.com/album/1rBr9FeLlp5ueSKtE89FZa) | 4:17 | 2022-07-15 | 2022-08-28 |
-| [終究還是因為愛](https://open.spotify.com/track/53yiHIP3ptxWtT4ambRcgb) | [TRASH](https://open.spotify.com/artist/3KZMUYrA5eIfgZdIFRmNe4) | [Holy Trip!](https://open.spotify.com/album/4xI5LoEWLxoTm4DNa4fSUn) | 4:45 | 2021-09-30 |  |
+| [終究還是因為愛](https://open.spotify.com/track/53yiHIP3ptxWtT4ambRcgb) | [TRASH](https://open.spotify.com/artist/3KZMUYrA5eIfgZdIFRmNe4) | [Holy Trip!](https://open.spotify.com/album/4xI5LoEWLxoTm4DNa4fSUn) | 4:45 | 2021-09-30 | 2023-05-20 |
 | [終究還是因為愛 \(REMIX\) \[feat\. 李浩瑋, PIZZALI, 陳忻玥, G5SH\]](https://open.spotify.com/track/6gmhokBDn6wPYNmlMdhIdw) | [TRASH](https://open.spotify.com/artist/3KZMUYrA5eIfgZdIFRmNe4), [李浩瑋 Howard Lee](https://open.spotify.com/artist/7EkkWNWPiWFQ0rA9IEmMXs), [PIZZALI](https://open.spotify.com/artist/5AIqzRLM5XgtjdCjnbvJx7), [Vicky Chen](https://open.spotify.com/artist/01u3qI3xMGFvktXyRSMGRZ), [G5SH](https://open.spotify.com/artist/0FQHLgDeg1QZGzkyRxAPRd) | [終究還是因為愛 \(REMIX\) \[feat\. 李浩瑋, PIZZALI, 陳忻玥, G5SH\]](https://open.spotify.com/album/7lShWVtu3VipTPnB4p4Itj) | 5:22 | 2022-05-04 | 2022-06-07 |
 | [終點起點](https://open.spotify.com/track/2rmsL9k7LneLszZFBo1H6f) | [魚丁糸](https://open.spotify.com/artist/4TGQEYGf6Pu4tpMNGQ4tOR) | [終點起點](https://open.spotify.com/album/4GxI9OZ4YRwDSca6X1AEAQ) | 5:02 | 2021-06-27 | 2021-07-16 |
 | [縱橫四海](https://open.spotify.com/track/46ALtWhiHtNpJVrr3pfcut) | [Ronghao Li](https://open.spotify.com/artist/0rTP0x4vRFSDbhtqcCqc8K) | [縱橫四海](https://open.spotify.com/album/3J7Fpv3maowZeSOcX3ZLju) | 4:01 | 2021-07-23 | 2021-08-12 |

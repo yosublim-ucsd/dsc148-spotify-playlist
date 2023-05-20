@@ -573,6 +573,28 @@
     },
     {
       "album": {
+        "name": "Hey, Mickey! (Sped Up and Slowed Down)",
+        "url": "https://open.spotify.com/album/7JqvSHDftF0CzrhD3Dt4V7"
+      },
+      "artists": [
+        {
+          "name": "Baby Tate",
+          "url": "https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4"
+        },
+        {
+          "name": "Saweetie",
+          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221060,
+      "name": "Hey, Mickey! - Slowed Down",
+      "url": "https://open.spotify.com/track/12Mx0oTNPyvG23wlLQzQYk"
+    },
+    {
+      "album": {
         "name": "High Maintenance",
         "url": "https://open.spotify.com/album/4Sz0PugCLKo0CEA7zgPplW"
       },
@@ -698,7 +720,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 110790,
       "name": "Icy Chain",
       "url": "https://open.spotify.com/track/5MkPZ9VprDSFTljruLxDEd"

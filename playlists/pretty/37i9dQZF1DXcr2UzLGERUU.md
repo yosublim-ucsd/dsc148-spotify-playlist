@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcr2UzLGERUU.md) - [plain]
 
 > Wind down in moments of stress with these chilled songs for the whole family.
 
-[Spotify](https://open.spotify.com/user/spotify) - 104,083 likes - 50 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 104,298 likes - 50 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcr2UzLGERUU.md) - [plain]
 | 45 | [You've Got a Friend in Me \- Acoustic](https://open.spotify.com/track/05ZcB9Cln3VRHYS7W3bLgo) | [Amber Leigh Irish](https://open.spotify.com/artist/1uuV1avDy9Eup5gYHXVG05) | [Simply Acoustic](https://open.spotify.com/album/5GkuY9Il0OakVEzNyX7mP4) | 2:11 |
 | 46 | [Just Be](https://open.spotify.com/track/4V7mzEF4UR4cN0UNt8XYGF) | [Kira Willey](https://open.spotify.com/artist/6GSLe8wDhKFqIPqsB1Ricg) | [Mindful Moments for Kids](https://open.spotify.com/album/7xjZAPE23hL7YzCtw7ST7s) | 4:20 |
 | 47 | [What My Body Needs](https://open.spotify.com/track/7bk9NCsLE8F5LhbaPo5pRD) | [Sara Rogers](https://open.spotify.com/artist/5fEiggZSfUYOhfBqyIC4cw) | [What My Body Needs](https://open.spotify.com/album/1HkRCTZXljbfIXGprYdUPT) | 3:08 |
-| 48 | [Catch the Moon](https://open.spotify.com/track/4VwFWEJKkpOOWkhOwy3STM) | [Lisa Loeb](https://open.spotify.com/artist/1TMMyiSsNzmRiZCAkVLVb2) | [Catch the Moon](https://open.spotify.com/album/1o79r8Ky7KJ0fRnyx6MOR9) | 3:06 |
-| 49 | [Honey](https://open.spotify.com/track/5lLdRp4GpGKAvltZCZ7KRZ) | [Frances England](https://open.spotify.com/artist/4JSWvkbDnumAidofuVTCrD) | [Honey](https://open.spotify.com/album/779oggvAt1GFSFJP3CYKMi) | 2:27 |
+| 48 | [Honey](https://open.spotify.com/track/5lLdRp4GpGKAvltZCZ7KRZ) | [Frances England](https://open.spotify.com/artist/4JSWvkbDnumAidofuVTCrD) | [Honey](https://open.spotify.com/album/779oggvAt1GFSFJP3CYKMi) | 2:27 |
+| 49 | [Catch the Moon](https://open.spotify.com/track/4VwFWEJKkpOOWkhOwy3STM) | [Lisa Loeb](https://open.spotify.com/artist/1TMMyiSsNzmRiZCAkVLVb2) | [Catch the Moon](https://open.spotify.com/album/1o79r8Ky7KJ0fRnyx6MOR9) | 3:06 |
 | 50 | [Full Moon](https://open.spotify.com/track/6hQ5AqKiyUjyM97tWzlo0v) | [Kath Bee](https://open.spotify.com/artist/5pYeD8r1vE9mMyA9qAs7qk) | [Full Moon](https://open.spotify.com/album/7p0izCAkCrkKpkJlDE47FI) | 3:02 |
 
-Snapshot ID: `MCxiZDQwMzEyMjJiMGIxNzE5M2Q5NzQ0NDU5YjU3ZTI3MTdmN2M3OGZl`
+Snapshot ID: `MCw1OWI2MThhMTBlYmY4ODk1MTVhYTIxMmVjN2RhY2YzMzRhZWNmNzM2`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX71sJP2OzuBP.md) - [plain]
 
 > 上班時間很長，就讓最新最動聽的國語歌陪你，舒服輕聽一起渡過吧！
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,767 likes - 100 songs - 6 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,777 likes - 100 songs - 6 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX71sJP2OzuBP.md) - [plain]
 | 99 | [親愛的朋友](https://open.spotify.com/track/4YFa1sSvE0ICKake8b6mMq) | [Queen Suitcase](https://open.spotify.com/artist/0UaZ2BhteWRHOjZo7lEDXj) | [親愛的朋友](https://open.spotify.com/album/5ZIzQbjxu09CZlXs86ORbL) | 6:12 |
 | 100 | [我還是為你哭了 \(影視劇《破事精英2》插曲\)](https://open.spotify.com/track/02MfvZCcsVUQcMgVOQ6lUu) | [李佳薇](https://open.spotify.com/artist/2cLZXI0xYG8HYdNXgnWNep) | [我還是為你哭了 \(影視劇《破事精英2》插曲\)](https://open.spotify.com/album/1iVpY8OUcbbyQ8PoX3Fgob) | 3:18 |
 
-Snapshot ID: `MCxmZTQyZWQ5YTc4MzNmNDRhNmY4M2VkYTE0YjRiZTA3ZmVjZWUwNzhm`
+Snapshot ID: `MCw5OWZkNDg4N2E1YmFiYTNkMGY3YzdmYzQzNzgyN2JlNmU0NTZmMmFk`

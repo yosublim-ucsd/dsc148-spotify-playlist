@@ -1,12 +1,12 @@
 {
   "description": "Enjoy trendy & chill Korean R&B music. (Cover: SOULBYSEL, Sion(\uc2dc\uc628))",
-  "num_followers": 853499,
+  "num_followers": 855168,
   "original_name": "TrenChill K-R&B",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4ZTc1MGExODFlM2JiMmI4NjY2ODM3NWM2ZmRiYmE4MWY4MWViZmZh",
+  "snapshot_id": "MCxkNzczN2I4NGI1ZDYwNDAxMWUzNzI2M2Q4MTEzNWU1NDY5OGU1ZGNi",
   "tracks": [
     {
       "added_at": "2023-05-15 09:32:16",
@@ -427,6 +427,26 @@
     {
       "added_at": "2023-05-15 09:32:16",
       "album": {
+        "name": "Down to Earth",
+        "url": "https://open.spotify.com/album/6uMu4poce5OdMd1HYglZux"
+      },
+      "artists": [
+        {
+          "name": "TAEYANG",
+          "url": "https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV"
+        },
+        {
+          "name": "Jimin",
+          "url": "https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY"
+        }
+      ],
+      "duration_ms": 175775,
+      "name": "VIBE (feat. Jimin of BTS)",
+      "url": "https://open.spotify.com/track/4NIe9Is7bN5JWyTeCW2ahK"
+    },
+    {
+      "added_at": "2023-05-15 09:32:16",
+      "album": {
         "name": "Bittersweet (feat. LeeHi)",
         "url": "https://open.spotify.com/album/6qVk855QPCh57noNeeHMXQ"
       },
@@ -447,26 +467,6 @@
       "duration_ms": 174773,
       "name": "Bittersweet (feat. LeeHi)",
       "url": "https://open.spotify.com/track/347PJwH4XqRbeaKaIW9sX3"
-    },
-    {
-      "added_at": "2023-05-15 09:32:16",
-      "album": {
-        "name": "Down to Earth",
-        "url": "https://open.spotify.com/album/6uMu4poce5OdMd1HYglZux"
-      },
-      "artists": [
-        {
-          "name": "TAEYANG",
-          "url": "https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV"
-        },
-        {
-          "name": "Jimin",
-          "url": "https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY"
-        }
-      ],
-      "duration_ms": 175775,
-      "name": "VIBE (feat. Jimin of BTS)",
-      "url": "https://open.spotify.com/track/4NIe9Is7bN5JWyTeCW2ahK"
     },
     {
       "added_at": "2023-05-15 09:32:16",
@@ -679,18 +679,18 @@
     {
       "added_at": "2023-05-15 09:32:16",
       "album": {
-        "name": "Know me",
-        "url": "https://open.spotify.com/album/4iV5wZtnTcuKrdhxb8wLVN"
+        "name": "you won't be there for me",
+        "url": "https://open.spotify.com/album/46b5idgTzsGq3urqSkbkEa"
       },
       "artists": [
         {
-          "name": "GEMINI",
-          "url": "https://open.spotify.com/artist/67IWlRdLy3UcfY3q968euj"
+          "name": "slchld",
+          "url": "https://open.spotify.com/artist/33crDRqANd3NQHJagZkQ7O"
         }
       ],
-      "duration_ms": 214613,
-      "name": "Know me",
-      "url": "https://open.spotify.com/track/5bvVA6idKl1R38C5G4tuxC"
+      "duration_ms": 182645,
+      "name": "you won't be there for me",
+      "url": "https://open.spotify.com/track/0jaHnvdrguukJipydAJWq2"
     },
     {
       "added_at": "2023-05-15 09:32:16",
@@ -711,18 +711,18 @@
     {
       "added_at": "2023-05-15 09:32:16",
       "album": {
-        "name": "you won't be there for me",
-        "url": "https://open.spotify.com/album/46b5idgTzsGq3urqSkbkEa"
+        "name": "Know me",
+        "url": "https://open.spotify.com/album/4iV5wZtnTcuKrdhxb8wLVN"
       },
       "artists": [
         {
-          "name": "slchld",
-          "url": "https://open.spotify.com/artist/33crDRqANd3NQHJagZkQ7O"
+          "name": "GEMINI",
+          "url": "https://open.spotify.com/artist/67IWlRdLy3UcfY3q968euj"
         }
       ],
-      "duration_ms": 182645,
-      "name": "you won't be there for me",
-      "url": "https://open.spotify.com/track/0jaHnvdrguukJipydAJWq2"
+      "duration_ms": 214613,
+      "name": "Know me",
+      "url": "https://open.spotify.com/track/5bvVA6idKl1R38C5G4tuxC"
     },
     {
       "added_at": "2023-05-15 09:32:16",
@@ -795,38 +795,6 @@
     {
       "added_at": "2023-05-15 09:32:16",
       "album": {
-        "name": "modern breakups",
-        "url": "https://open.spotify.com/album/59Dkfn6sD5usY9cwebxX60"
-      },
-      "artists": [
-        {
-          "name": "slchld",
-          "url": "https://open.spotify.com/artist/33crDRqANd3NQHJagZkQ7O"
-        }
-      ],
-      "duration_ms": 184833,
-      "name": "maybe we need a break",
-      "url": "https://open.spotify.com/track/4KnjQKwfL4kd1hD4jHZ7XT"
-    },
-    {
-      "added_at": "2023-05-15 09:32:16",
-      "album": {
-        "name": "Delight - The 2nd Mini Album",
-        "url": "https://open.spotify.com/album/75sPv82oaDKYjtuuS4l3Vc"
-      },
-      "artists": [
-        {
-          "name": "BAEKHYUN",
-          "url": "https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl"
-        }
-      ],
-      "duration_ms": 227173,
-      "name": "Candy",
-      "url": "https://open.spotify.com/track/6kKC35sKUh2FUx4M0qAL44"
-    },
-    {
-      "added_at": "2023-05-15 09:32:16",
-      "album": {
         "name": "WAYO",
         "url": "https://open.spotify.com/album/391Rvtlm88VGNp8ls7FVbB"
       },
@@ -843,18 +811,18 @@
     {
       "added_at": "2023-05-15 09:32:16",
       "album": {
-        "name": "HOLO",
-        "url": "https://open.spotify.com/album/5xq9sm0jGMMDu5LifpBBo1"
+        "name": "Delight - The 2nd Mini Album",
+        "url": "https://open.spotify.com/album/75sPv82oaDKYjtuuS4l3Vc"
       },
       "artists": [
         {
-          "name": "LeeHi",
-          "url": "https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu"
+          "name": "BAEKHYUN",
+          "url": "https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl"
         }
       ],
-      "duration_ms": 178520,
-      "name": "HOLO",
-      "url": "https://open.spotify.com/track/4BSluGpjdLQihMmKgHXMxp"
+      "duration_ms": 227173,
+      "name": "Candy",
+      "url": "https://open.spotify.com/track/6kKC35sKUh2FUx4M0qAL44"
     },
     {
       "added_at": "2023-05-15 09:32:16",
@@ -879,6 +847,38 @@
       "duration_ms": 224098,
       "name": "What 2 Do",
       "url": "https://open.spotify.com/track/6GS3lnAVy5w6AHWEKYzYeS"
+    },
+    {
+      "added_at": "2023-05-15 09:32:16",
+      "album": {
+        "name": "modern breakups",
+        "url": "https://open.spotify.com/album/59Dkfn6sD5usY9cwebxX60"
+      },
+      "artists": [
+        {
+          "name": "slchld",
+          "url": "https://open.spotify.com/artist/33crDRqANd3NQHJagZkQ7O"
+        }
+      ],
+      "duration_ms": 184833,
+      "name": "maybe we need a break",
+      "url": "https://open.spotify.com/track/4KnjQKwfL4kd1hD4jHZ7XT"
+    },
+    {
+      "added_at": "2023-05-15 09:32:16",
+      "album": {
+        "name": "HOLO",
+        "url": "https://open.spotify.com/album/5xq9sm0jGMMDu5LifpBBo1"
+      },
+      "artists": [
+        {
+          "name": "LeeHi",
+          "url": "https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu"
+        }
+      ],
+      "duration_ms": 178520,
+      "name": "HOLO",
+      "url": "https://open.spotify.com/track/4BSluGpjdLQihMmKgHXMxp"
     },
     {
       "added_at": "2023-05-15 09:32:16",
@@ -1047,22 +1047,6 @@
     {
       "added_at": "2023-05-15 09:32:16",
       "album": {
-        "name": "Sour & Sweet",
-        "url": "https://open.spotify.com/album/7kLnuncjYJPmSHM2aLjyET"
-      },
-      "artists": [
-        {
-          "name": "BamBam",
-          "url": "https://open.spotify.com/artist/2p48L95TwEaYkSdn6R7LOr"
-        }
-      ],
-      "duration_ms": 134933,
-      "name": "TIPPY TOE",
-      "url": "https://open.spotify.com/track/4QZ822qY72CrhhPaJAvQZ0"
-    },
-    {
-      "added_at": "2023-05-15 09:32:16",
-      "album": {
         "name": "Going",
         "url": "https://open.spotify.com/album/0JXdR9FB4e1Bb6eCPcC3rd"
       },
@@ -1075,6 +1059,22 @@
       "duration_ms": 173240,
       "name": "Broken Love",
       "url": "https://open.spotify.com/track/6GehOJs060WzAi78QArj7p"
+    },
+    {
+      "added_at": "2023-05-15 09:32:16",
+      "album": {
+        "name": "Sour & Sweet",
+        "url": "https://open.spotify.com/album/7kLnuncjYJPmSHM2aLjyET"
+      },
+      "artists": [
+        {
+          "name": "BamBam",
+          "url": "https://open.spotify.com/artist/2p48L95TwEaYkSdn6R7LOr"
+        }
+      ],
+      "duration_ms": 134933,
+      "name": "TIPPY TOE",
+      "url": "https://open.spotify.com/track/4QZ822qY72CrhhPaJAvQZ0"
     },
     {
       "added_at": "2023-05-15 09:32:16",
@@ -1123,18 +1123,22 @@
     {
       "added_at": "2023-05-15 09:32:16",
       "album": {
-        "name": "Lovers In The Night",
-        "url": "https://open.spotify.com/album/5qewqwnafgBx455s6LNcWv"
+        "name": "\uae34 \ubc24 (feat. GIRIBOY)",
+        "url": "https://open.spotify.com/album/3AuhCLxpvg4gWl2Oi8D043"
       },
       "artists": [
         {
           "name": "Seori",
           "url": "https://open.spotify.com/artist/2bWTIIQP9zaVc55RaMGu7e"
+        },
+        {
+          "name": "GIRIBOY",
+          "url": "https://open.spotify.com/artist/2MtHuR0W2idZdF7x4wddqq"
         }
       ],
-      "duration_ms": 210546,
-      "name": "Lovers In The Night",
-      "url": "https://open.spotify.com/track/2dX2W20qzwqM6G910woDKo"
+      "duration_ms": 210853,
+      "name": "\uae34 \ubc24 (feat. GIRIBOY)",
+      "url": "https://open.spotify.com/track/5YAO57ujV1cs5eubzyOL1E"
     },
     {
       "added_at": "2023-05-15 09:32:16",
@@ -1195,42 +1199,6 @@
     {
       "added_at": "2023-05-15 09:32:16",
       "album": {
-        "name": "Circle - The 1st Album",
-        "url": "https://open.spotify.com/album/0oJAypAuPQSssiLTvhNmxJ"
-      },
-      "artists": [
-        {
-          "name": "ONEW",
-          "url": "https://open.spotify.com/artist/7sZ5ipSoboWdqXkdj6AXHo"
-        }
-      ],
-      "duration_ms": 197226,
-      "name": "O (Circle)",
-      "url": "https://open.spotify.com/track/7qVWT4IvUK7xI82QmaPnwa"
-    },
-    {
-      "added_at": "2023-05-15 09:32:16",
-      "album": {
-        "name": "\uae34 \ubc24 (feat. GIRIBOY)",
-        "url": "https://open.spotify.com/album/3AuhCLxpvg4gWl2Oi8D043"
-      },
-      "artists": [
-        {
-          "name": "Seori",
-          "url": "https://open.spotify.com/artist/2bWTIIQP9zaVc55RaMGu7e"
-        },
-        {
-          "name": "GIRIBOY",
-          "url": "https://open.spotify.com/artist/2MtHuR0W2idZdF7x4wddqq"
-        }
-      ],
-      "duration_ms": 210853,
-      "name": "\uae34 \ubc24 (feat. GIRIBOY)",
-      "url": "https://open.spotify.com/track/5YAO57ujV1cs5eubzyOL1E"
-    },
-    {
-      "added_at": "2023-05-15 09:32:16",
-      "album": {
         "name": "Down to Earth",
         "url": "https://open.spotify.com/album/6uMu4poce5OdMd1HYglZux"
       },
@@ -1243,6 +1211,38 @@
       "duration_ms": 255253,
       "name": "Seed",
       "url": "https://open.spotify.com/track/49eleLPCqnwgBSICKgcL0z"
+    },
+    {
+      "added_at": "2023-05-15 09:32:16",
+      "album": {
+        "name": "Lovers In The Night",
+        "url": "https://open.spotify.com/album/5qewqwnafgBx455s6LNcWv"
+      },
+      "artists": [
+        {
+          "name": "Seori",
+          "url": "https://open.spotify.com/artist/2bWTIIQP9zaVc55RaMGu7e"
+        }
+      ],
+      "duration_ms": 210546,
+      "name": "Lovers In The Night",
+      "url": "https://open.spotify.com/track/2dX2W20qzwqM6G910woDKo"
+    },
+    {
+      "added_at": "2023-05-15 09:32:16",
+      "album": {
+        "name": "Circle - The 1st Album",
+        "url": "https://open.spotify.com/album/0oJAypAuPQSssiLTvhNmxJ"
+      },
+      "artists": [
+        {
+          "name": "ONEW",
+          "url": "https://open.spotify.com/artist/7sZ5ipSoboWdqXkdj6AXHo"
+        }
+      ],
+      "duration_ms": 197226,
+      "name": "O (Circle)",
+      "url": "https://open.spotify.com/track/7qVWT4IvUK7xI82QmaPnwa"
     },
     {
       "added_at": "2023-05-15 09:32:16",

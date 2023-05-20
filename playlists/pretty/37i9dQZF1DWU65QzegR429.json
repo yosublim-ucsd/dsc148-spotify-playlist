@@ -1,12 +1,12 @@
 {
   "description": "Latin music making waves. ",
-  "num_followers": 8166,
+  "num_followers": 8190,
   "original_name": "Latin Frequency",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzMWViYmVkYmI4MTc0YjlmNDUzNDllY2MyZGE3NGE3NDM5OGYwNGVh",
+  "snapshot_id": "MCw4MTBlYTVjMDA1ZjNjM2JiYTA4OWQ0NjE4MDcwNjYwMTM5M2Q0Yzkx",
   "tracks": [
     {
       "added_at": "2023-04-03 18:54:44",
@@ -391,18 +391,22 @@
     {
       "added_at": "2023-04-03 18:54:44",
       "album": {
-        "name": "Rosa Melo",
-        "url": "https://open.spotify.com/album/11sm82wbfZzdTvxTA5NsoX"
+        "name": "Miss Colombia",
+        "url": "https://open.spotify.com/album/6H6MZ54B5FLBLXXxWGEl7y"
       },
       "artists": [
         {
-          "name": "La Gabi",
-          "url": "https://open.spotify.com/artist/3WsE5ectfizV81CnVMkbbi"
+          "name": "Lido Pimienta",
+          "url": "https://open.spotify.com/artist/1IdkKQ9CM1i0wygfxYV4Z3"
+        },
+        {
+          "name": "Li Saumet",
+          "url": "https://open.spotify.com/artist/1hYzHxIYlfYgHXN9DVZaNw"
         }
       ],
-      "duration_ms": 164853,
-      "name": "Rosa Melo",
-      "url": "https://open.spotify.com/track/7cd4zZ97AjsD9AbU0zZQxI"
+      "duration_ms": 298809,
+      "name": "Nada",
+      "url": "https://open.spotify.com/track/5ihtr3hVJJ7GWgagDiyf1i"
     },
     {
       "added_at": "2023-04-03 18:54:44",
@@ -427,22 +431,18 @@
     {
       "added_at": "2023-04-03 18:54:44",
       "album": {
-        "name": "Miss Colombia",
-        "url": "https://open.spotify.com/album/6H6MZ54B5FLBLXXxWGEl7y"
+        "name": "Rosa Melo",
+        "url": "https://open.spotify.com/album/11sm82wbfZzdTvxTA5NsoX"
       },
       "artists": [
         {
-          "name": "Lido Pimienta",
-          "url": "https://open.spotify.com/artist/1IdkKQ9CM1i0wygfxYV4Z3"
-        },
-        {
-          "name": "Li Saumet",
-          "url": "https://open.spotify.com/artist/1hYzHxIYlfYgHXN9DVZaNw"
+          "name": "La Gabi",
+          "url": "https://open.spotify.com/artist/3WsE5ectfizV81CnVMkbbi"
         }
       ],
-      "duration_ms": 298809,
-      "name": "Nada",
-      "url": "https://open.spotify.com/track/5ihtr3hVJJ7GWgagDiyf1i"
+      "duration_ms": 164853,
+      "name": "Rosa Melo",
+      "url": "https://open.spotify.com/track/7cd4zZ97AjsD9AbU0zZQxI"
     },
     {
       "added_at": "2023-04-03 18:54:44",
@@ -943,6 +943,22 @@
     {
       "added_at": "2023-04-03 18:54:44",
       "album": {
+        "name": "Deja Que Te Lleve",
+        "url": "https://open.spotify.com/album/36mgrUsQbHrpFcR7gA914n"
+      },
+      "artists": [
+        {
+          "name": "Sessi",
+          "url": "https://open.spotify.com/artist/6aPCzcaD2zGsu387By8SZX"
+        }
+      ],
+      "duration_ms": 203202,
+      "name": "Deja Que Te Lleve",
+      "url": "https://open.spotify.com/track/1cOCvJSFjmdvh4ByUGZf2V"
+    },
+    {
+      "added_at": "2023-04-03 18:54:44",
+      "album": {
         "name": "Champion Ninz",
         "url": "https://open.spotify.com/album/4jRjuppvJlqiNdlxcl3Z31"
       },
@@ -959,22 +975,6 @@
       "duration_ms": 139603,
       "name": "Solita",
       "url": "https://open.spotify.com/track/3gV9Ru9Kdkq5RcF0A2WjZj"
-    },
-    {
-      "added_at": "2023-04-03 18:54:44",
-      "album": {
-        "name": "Deja Que Te Lleve",
-        "url": "https://open.spotify.com/album/36mgrUsQbHrpFcR7gA914n"
-      },
-      "artists": [
-        {
-          "name": "Sessi",
-          "url": "https://open.spotify.com/artist/6aPCzcaD2zGsu387By8SZX"
-        }
-      ],
-      "duration_ms": 203202,
-      "name": "Deja Que Te Lleve",
-      "url": "https://open.spotify.com/track/1cOCvJSFjmdvh4ByUGZf2V"
     },
     {
       "added_at": "2023-04-03 18:54:44",

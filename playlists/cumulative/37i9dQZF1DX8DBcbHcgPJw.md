@@ -2,9 +2,9 @@
 
 ### [Dame Más Cumbia](https://open.spotify.com/playlist/37i9dQZF1DX8DBcbHcgPJw)
 
-> ¡Lo mejor de la Cumbia Pop! <br/>Foto: Rei
+> ¡Lo mejor de la Cumbia Pop! <br/>Foto: Migrantes & La Joaqui, bebee
 
-374 songs - 18 hr 40 min
+376 songs - 18 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,7 +23,7 @@
 | [Ahora Te Puedes Marchar](https://open.spotify.com/track/3eaJ3AT7TTyNRy9h8HdNSD) | [Tachame la Doble](https://open.spotify.com/artist/2UBTW5IxC68BjDnf17zA3p) | [Ahora Te Puedes Marchar](https://open.spotify.com/album/6gQqMMMdBtC2pptUM3ke55) | 2:01 | 2022-01-07 | 2022-06-23 |
 | [Algo Tiene](https://open.spotify.com/track/1k4ldqe6XE6Q143GsBwhfc) | [Natalie Perez](https://open.spotify.com/artist/1Y99HOeRzRc27my6NJE3rE) | [Un Té de Tilo por Favor](https://open.spotify.com/album/5ihX5QpiBsawYdSBzzil9i) | 3:04 | 2022-07-22 | 2022-11-12 |
 | [Algo Tiene](https://open.spotify.com/track/5L5ct7rhZeYKLkb0qJn168) | [Natalie Perez](https://open.spotify.com/artist/1Y99HOeRzRc27my6NJE3rE) | [Un Té De Tilo Por Favor](https://open.spotify.com/album/7qE2hhKOnaMpBWv7XUnX4A) | 3:04 | 2021-12-23 | 2022-07-29 |
-| [Amar Pa Qué](https://open.spotify.com/track/0mCN53q934Szh0n2NGiemj) | [Dame 5](https://open.spotify.com/artist/0J65S0gB0D1gDEd0hK196k) | [La Despedida \(Parte B\)](https://open.spotify.com/album/5mhTIQ7HlxyVJ4L2BSxvNP) | 2:16 | 2023-05-05 |  |
+| [Amar Pa Qué](https://open.spotify.com/track/0mCN53q934Szh0n2NGiemj) | [Dame 5](https://open.spotify.com/artist/0J65S0gB0D1gDEd0hK196k) | [La Despedida \(Parte B\)](https://open.spotify.com/album/5mhTIQ7HlxyVJ4L2BSxvNP) | 2:16 | 2023-05-05 | 2023-05-20 |
 | [Amigos Con Derecho](https://open.spotify.com/track/6xqE4KsNVaBHXyVSnGOZjF) | [Los Amantes de Santa Fe](https://open.spotify.com/artist/26x7n1nOEcmcvEShGDRgQS) | [Dibujando Corazones](https://open.spotify.com/album/72uPiWO3kkkE1s8LcaxWOy) | 3:49 | 2022-01-03 | 2022-05-27 |
 | [Amigos Entre Comillas](https://open.spotify.com/track/5hTm204dhG8tTS3cOJcY2v) | [Talento de Barrio](https://open.spotify.com/artist/0HTe9EZNu88PPSaDDOPpdq), [La Comadre](https://open.spotify.com/artist/218Wn80Mgd5qjWijhMlthf) | [Amigos Entre Comillas](https://open.spotify.com/album/6edCtLJFrxm6I4EwMEvr7o) | 3:18 | 2022-02-18 | 2022-07-08 |
 | [Amor \(Ft\. Mon Laferte\) \- MTV Unplugged](https://open.spotify.com/track/1QjfU3jkGInap7Vm9lVJIQ) | [Los Auténticos Decadentes](https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj), [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [Fiesta Nacional \(Mtv Unplugged\)](https://open.spotify.com/album/72XWQY6SO3b4M01tHYsIM7) | 5:12 | 2021-12-23 |  |
@@ -77,7 +77,7 @@
 | [CUMBIA DE BARRIO](https://open.spotify.com/track/2Q60P16hfjLGb8SbQbDt16) | [Salastkbron](https://open.spotify.com/artist/3WMlRpW5JWuDI95TcEWt3r) | [CUMBIA DE BARRIO](https://open.spotify.com/album/3ULiklyFhamKh3S2B9zwbZ) | 3:01 | 2022-12-02 |  |
 | [Cumbia en Miami](https://open.spotify.com/track/3QO5QsOrOqFHUg4HAz3NDz) | [El Reja](https://open.spotify.com/artist/7HSeegdmjLYRJpkOYIaZIW) | [Cumbia en Miami](https://open.spotify.com/album/7GPHGBex8PVdkOKlxzXxSp) | 2:22 | 2021-12-23 | 2022-07-17 |
 | [Cumbia Pa Olvidarte](https://open.spotify.com/track/2cRPXNRi3zpY9ILOBHyVJ6) | [Mawi](https://open.spotify.com/artist/2oPc9LzQ7NP9DIqY70jubf) | [Cumbia Pa Olvidarte](https://open.spotify.com/album/4uCOGeZqpHGqbBvXJ5MUyI) | 2:50 | 2021-12-23 | 2022-06-22 |
-| [Cumbia Vieja](https://open.spotify.com/track/2rzFgjG5cRCTsQ83cKdmJK) | [Migrantes](https://open.spotify.com/artist/48R2gYdPKtfnfKAzhSVPUx), [Nico Valdi](https://open.spotify.com/artist/0uxYECT7XqHNccQAg5Uhe4) | [Cumbia Vieja](https://open.spotify.com/album/0M0ITbLB8ipsQOjw7Qkz3o) | 2:45 | 2022-08-19 |  |
+| [Cumbia Vieja](https://open.spotify.com/track/2rzFgjG5cRCTsQ83cKdmJK) | [Migrantes](https://open.spotify.com/artist/48R2gYdPKtfnfKAzhSVPUx), [Nico Valdi](https://open.spotify.com/artist/0uxYECT7XqHNccQAg5Uhe4) | [Cumbia Vieja](https://open.spotify.com/album/0M0ITbLB8ipsQOjw7Qkz3o) | 2:45 | 2022-08-19 | 2023-05-20 |
 | [Cuéntale](https://open.spotify.com/track/6T9FCkiIPtowqeSb5ePTeH) | [El Reja](https://open.spotify.com/artist/7HSeegdmjLYRJpkOYIaZIW), [The Sistars](https://open.spotify.com/artist/3aF1PR6CAzeVXwYKDlIkPa) | [Cuentale](https://open.spotify.com/album/1kf8oWvNE0SeDWowrkmVtC) | 2:21 | 2021-12-23 | 2022-07-29 |
 | [Cómo estás](https://open.spotify.com/track/6bLvfGI2XeU5DTl8feuNrk) | [Ke Personajes](https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM) | [Cómo estás](https://open.spotify.com/album/30wGCjJRi0wRjdKu12PQcd) | 3:47 | 2021-12-23 |  |
 | [Dame un Besito](https://open.spotify.com/track/2Vl1IkovKwtLBAVUdOqZ0a) | [Marama](https://open.spotify.com/artist/4GepMkTgrIZECoCC55vqjW), [Rodrigo Tapari](https://open.spotify.com/artist/1wkImvL5XLLhrNcmX7sVt4) | [Dame un Besito](https://open.spotify.com/album/2KephD8YhQRMfagIcLI7r8) | 3:15 | 2023-02-03 |  |
@@ -359,10 +359,12 @@
 | [Una y Otra Vez](https://open.spotify.com/track/3VSt7R9LHTomKGP1RhkvuT) | [Rombai](https://open.spotify.com/artist/5KQX0Ui06LVm6PApyicRFK) | [Una y Otra Vez](https://open.spotify.com/album/71mlOj56vndSW8GcB5Edfv) | 3:19 | 2022-03-25 | 2022-04-19 |
 | [Universo Paralelo](https://open.spotify.com/track/7wx4KZQ9SRMTldt5ayD1ul) | [The La Planta](https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS) | [Universo Paralelo](https://open.spotify.com/album/7yzR06l7GbsbtIoRKqqCwP) | 2:36 | 2022-03-25 |  |
 | [Universo Paralelo \- DJ Alex Remix](https://open.spotify.com/track/2GaBEJHDEo7752Ggvq1Z6j) | [El Tecla](https://open.spotify.com/artist/6TY0JuXMcvhCLtHYBJ4iXH), [DJ Alex](https://open.spotify.com/artist/7ygNQCdpQWW7iSWAxDhvhI) | [Universo Paralelo \(DJ Alex Remix\)](https://open.spotify.com/album/56cmp0jNbl5esgSyOV4Y0l) | 2:16 | 2022-06-17 | 2022-09-05 |
+| [Usted No Sabe / Me Dedique a Perderte](https://open.spotify.com/track/6QuN3DFuPuDwgVtU1WtRUB) | [18 Kilates](https://open.spotify.com/artist/2rqtqFiCGyzaRSYdgMiMNC) | [Usted No Sabe / Me Dedique a Perderte](https://open.spotify.com/album/1llNvkYgRo3WxyH3G7n06M) | 3:44 | 2023-05-19 |  |
 | [Vamo A Tomar Una](https://open.spotify.com/track/3sfGiBLYZMgepk2kaS8Zyx) | [Rombai](https://open.spotify.com/artist/5KQX0Ui06LVm6PApyicRFK) | [Vamo A Tomar Una](https://open.spotify.com/album/69k6xwyz8YkBgOPjrRpfl0) | 2:09 | 2022-05-06 | 2023-02-13 |
 | [Vas a Querer Regresar](https://open.spotify.com/track/7edrOJQGGvR09QnJ41xH1S) | [Sound De Barrio](https://open.spotify.com/artist/6jz0DkcaOtGlaNOA67rzIU), [Ke Personajes](https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM), [Maxi Tolosa](https://open.spotify.com/artist/0CTsAQUsaIlOzhY4wOaaEQ) | [Vas a Querer Regresar](https://open.spotify.com/album/1QIgsaiZmZ5cBfkMdc0yW9) | 3:19 | 2021-12-23 |  |
 | [Verano 2015](https://open.spotify.com/track/0qznQrLfR6rEMTms35VIQl) | [Rombai](https://open.spotify.com/artist/5KQX0Ui06LVm6PApyicRFK) | [Verano 2015](https://open.spotify.com/album/4LJviqH6Iy8rKo2fJF0qXh) | 2:46 | 2022-12-09 | 2023-01-25 |
 | [Vida de Rico](https://open.spotify.com/track/73nAK3HgQK8dak83Y2WQ8F) | [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N) | [Vida de Rico](https://open.spotify.com/album/0MmIH2uM4bUsF5VbEkCKzT) | 3:07 | 2021-12-23 |  |
+| [Vikingos](https://open.spotify.com/track/5xsB0fAhMLOjutwlPNsQls) | [Migrantes](https://open.spotify.com/artist/48R2gYdPKtfnfKAzhSVPUx), [La Joaqui](https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM) | [Vikingos](https://open.spotify.com/album/1yM8N3pWYI7LjWEvGbBkcQ) | 2:46 | 2023-05-19 |  |
 | [Vivir Asi Es Morir de Amor](https://open.spotify.com/track/0ywBGfsIHLkTxZcv6jCGha) | [Commanche](https://open.spotify.com/artist/7o6GWu8PprO89hxuS9OiPu), [Super Quinteto](https://open.spotify.com/artist/4ArkxyeBPg8alE9CcBf86X) | [Vivir Asi Es Morir de Amor](https://open.spotify.com/album/6HLaUd8u4FScMX7yzU8p4p) | 3:31 | 2022-04-22 | 2022-07-20 |
 | [Voy a Tomar](https://open.spotify.com/track/5nMuA51GB5tb5kr4vx6S5E) | [Brian Lanzelotta](https://open.spotify.com/artist/6SV6TCY7KVVWmAhnX5WnS3) | [Voy a Tomar](https://open.spotify.com/album/73o1CXsTOfDdYOvjiHbeDB) | 3:39 | 2023-01-20 | 2023-01-24 |
 | [Vuelvo Contigo \(Alex Dover Remix\)](https://open.spotify.com/track/13HpPm50x0EaZJSqFnHPkq) | [Chule](https://open.spotify.com/artist/09QoQi6E7GP5AePICzRcZe), [Alex Dover](https://open.spotify.com/artist/1mZ4z5FjhzO1nEVCsl3wUz) | [Vuelvo Contigo \(Alex Dover Remix\)](https://open.spotify.com/album/70XN8OmucQDJBJIa7nTLVD) | 3:50 | 2022-01-14 | 2022-06-18 |

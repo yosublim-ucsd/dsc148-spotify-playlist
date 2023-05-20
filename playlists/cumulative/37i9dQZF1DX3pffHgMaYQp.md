@@ -4,7 +4,7 @@
 
 > Música para insubordinados\. Dillom en portada.
 
-82 songs - 4 hr 33 min
+85 songs - 4 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,6 +26,7 @@
 | [Cumbia Feminista](https://open.spotify.com/track/7M2mgKUSxmjHumNkwpjN2d) | [Las Decapitadas](https://open.spotify.com/artist/0NEkSiH8k5fTu30jlK2UdQ) | [Cumbia Feminista](https://open.spotify.com/album/51CRWf9nKbj5OWlKLudBuZ) | 3:53 | 2022-03-25 |  |
 | [Danza de Sol](https://open.spotify.com/track/2IHswTTnpUppvV8jn7PHqH) | [Los Cogelones](https://open.spotify.com/artist/0E6wzL7Jdd5XiLjadvcpKS) | [Hijos del Sol](https://open.spotify.com/album/0syY8WEuVTi39vVHfrCbjq) | 3:10 | 2022-03-25 | 2023-04-29 |
 | [Danza de Sol](https://open.spotify.com/track/52pIvwmblgM5ZC34WQsmVW) | [Los Cogelones](https://open.spotify.com/artist/0E6wzL7Jdd5XiLjadvcpKS) | [Hijos del Sol](https://open.spotify.com/album/2eWUzFnTmSu12e9N88TJ9y) | 3:10 | 2022-03-25 |  |
+| [Desde Afuera](https://open.spotify.com/track/2S40OvSsD1hEK1tsuFz4CS) | [El Shirota](https://open.spotify.com/artist/2rxqnbRXqBvxVHqArr6fGk) | [Ni siquiera estamos listos para hablar](https://open.spotify.com/album/2g0CeaYZjdCRcRyG6dxCJH) | 2:16 | 2023-05-19 |  |
 | [Donde Está el Placer](https://open.spotify.com/track/4Y40q8tySl0cDdphb3aiYG) | [The Americojones Experience](https://open.spotify.com/artist/5nxmzG12WW5he5vDgnyQLf) | [Animal del Demonio](https://open.spotify.com/album/5JtQUYDabva1wB8OrNOmbs) | 3:52 | 2022-03-25 |  |
 | [Dron](https://open.spotify.com/track/4OVH5QRHEtL2j4bo0ATrjM) | [San Pedro el Cortez](https://open.spotify.com/artist/4qMybSJtpFeNmHYfJ1rXkl) | [Un Poco Más de Luz](https://open.spotify.com/album/1W2MjZPeWiwn5AZw3OPyKL) | 4:33 | 2022-03-25 |  |
 | [El Mamado](https://open.spotify.com/track/3XXqSjT0L6zNCZfZgIWyYB) | [NecroMorfo](https://open.spotify.com/artist/6YDoxyvY3LtbFAmafiPEz7) | [1 Soldado en cada Hijo te Dió](https://open.spotify.com/album/5dTcSCSkBzmcDaWENrbe3e) | 2:45 | 2022-03-25 |  |
@@ -57,9 +58,11 @@
 | [Manifiesto Surrealista](https://open.spotify.com/track/73vq8vT0gjbZTemuvOWeIn) | [Los Pao Paos](https://open.spotify.com/artist/45dDFxioswmm3vNx03oADJ) | [Los Pao Paos](https://open.spotify.com/album/6BDjbnIo1QsJUFweLCqwfl) | 4:00 | 2022-03-25 |  |
 | [Morir de Amor </3](https://open.spotify.com/track/6kRVdk5YVE7TH5yWDeCTcO) | [Melted Ice Cream](https://open.spotify.com/artist/5sM0rohMauU34KstMcmrw9) | [Morir de Amor </3](https://open.spotify.com/album/65ClgMHw387ScepCOtkoDN) | 2:42 | 2022-03-25 |  |
 | [Mosca Muerta](https://open.spotify.com/track/2XL2lxTKKJXYjGjaGN0Mea) | [Las Pijamas](https://open.spotify.com/artist/4YXs1wyOEwikSr8Vrz0sSz) | [Mosca Muerta / Pop Pop Hell](https://open.spotify.com/album/48uZ5PsEyMNdXdoDuObOMY) | 1:57 | 2022-03-25 |  |
+| [Muñeca](https://open.spotify.com/track/0oiz4s31QXy6Mremkst4Ux) | [Margaritas Podridas](https://open.spotify.com/artist/5O9NicFLG2F9Xr7OHxmrb7) | [Corazón de Muñeca](https://open.spotify.com/album/0U53bWMxR0v2DpWpfEzTEP) | 3:25 | 2023-05-19 |  |
 | [México Querétaro](https://open.spotify.com/track/0RwfQdF2pt8tfRyLxDpSs7) | [ACTY](https://open.spotify.com/artist/1w7oXNijoleZ4GIo7nij8b) | [México Querétaro](https://open.spotify.com/album/5vHR8RyrWgWdKkfXPhd6Rs) | 6:21 | 2022-03-25 |  |
 | [Niebla](https://open.spotify.com/track/5Nfs9PIPYo7nQTg08Li4iS) | [El Shirota](https://open.spotify.com/artist/2rxqnbRXqBvxVHqArr6fGk) | [Niebla](https://open.spotify.com/album/0hszGU5mN2Qj7EnOVZQJ8Z) | 2:43 | 2022-03-25 | 2022-12-13 |
 | [Niebla](https://open.spotify.com/track/6yWpmaYnTJYeRfnrwb0OCQ) | [El Shirota](https://open.spotify.com/artist/2rxqnbRXqBvxVHqArr6fGk) | [Niebla](https://open.spotify.com/album/0zh9o0s4qA7kfE7O2AEmMr) | 2:43 | 2022-03-25 |  |
+| [No Estoy](https://open.spotify.com/track/1kP5YGbeWnYLVlWbuX6rLG) | [Kinder Malo](https://open.spotify.com/artist/1Aoj8qX6kPfLTagb7qbKg0) | [No Estoy](https://open.spotify.com/album/1O776s0DpVKXrEvv2k5MVg) | 2:33 | 2023-05-19 |  |
 | [No Lo Tomes a Mal \- No Me Toques, Ando Chido](https://open.spotify.com/track/5msSzMdmacwuVhribYz5nG) | [Chingadazo de Kung Fu](https://open.spotify.com/artist/6xT6c42KpjrOlEhZK12rBL) | [No Lo Tomes a Mal \(No Me Toques, Ando Chido\)](https://open.spotify.com/album/2zVGlxmvIeDr4Ob8qItIQn) | 3:31 | 2022-03-25 |  |
 | [OLA DE SUICIDIOS](https://open.spotify.com/track/0v2ESDRpC6X8k82tOnY91N) | [Dillom](https://open.spotify.com/artist/4cJD9t5QBFTUQcd3xfbOb2) | [OLA DE SUICIDIOS](https://open.spotify.com/album/5cslTHbdAe79CyaKfAzYdM) | 2:34 | 2023-04-14 |  |
 | [Outro](https://open.spotify.com/track/0t1neSZWSIqtVHRxyYLWTO) | [Diles que no me maten](https://open.spotify.com/artist/22Gr8D6d3DlHfUYjbqtIev) | [Outro](https://open.spotify.com/album/6bIYRN7ORcgvVf1CZ4BMmt) | 3:08 | 2022-03-25 |  |

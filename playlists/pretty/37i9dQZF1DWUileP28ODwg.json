@@ -1,12 +1,12 @@
 {
   "description": "Tune in here for new and current hits in Contemporary Christian music!  Cover:  Big Daddy Weave",
-  "num_followers": 289300,
+  "num_followers": 289518,
   "original_name": "Top Christian Contemporary",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzY2E0NTk1NTVhYjIxNjUxZDMzMDI3NmM0MzJmODA0ZmM5NDNhZjdh",
+  "snapshot_id": "MCw0NWViMjhlOWQ0OWYxNWJjZDdiYjRmYTkyOGM3YjI0OTA0YjM4OWVi",
   "tracks": [
     {
       "added_at": "2023-03-10 08:53:36",
@@ -183,18 +183,22 @@
     {
       "added_at": "2023-03-10 08:53:36",
       "album": {
-        "name": "What Are We Waiting For?",
-        "url": "https://open.spotify.com/album/6h95CVsuRQt0SHA0MtjpWW"
+        "name": "Love Me Like I Am (with Jordin Sparks)",
+        "url": "https://open.spotify.com/album/7DK45xEeVMI7ul8rnNDddF"
       },
       "artists": [
         {
           "name": "for KING & COUNTRY",
           "url": "https://open.spotify.com/artist/3sDbKMebVH2VYcRSl7u1VC"
+        },
+        {
+          "name": "Jordin Sparks",
+          "url": "https://open.spotify.com/artist/2AQjGvtT0pFYfxR3neFcvz"
         }
       ],
-      "duration_ms": 196846,
-      "name": "For God Is With Us",
-      "url": "https://open.spotify.com/track/0CQPPHjPpG4kAzvfOcKvh8"
+      "duration_ms": 187306,
+      "name": "Love Me Like I Am (with Jordin Sparks)",
+      "url": "https://open.spotify.com/track/0Nxb56H6D3z2ZO9BniUcNj"
     },
     {
       "added_at": "2023-03-10 08:53:36",
@@ -323,22 +327,18 @@
     {
       "added_at": "2023-03-10 08:53:36",
       "album": {
-        "name": "Love Me Like I Am (with Jordin Sparks)",
-        "url": "https://open.spotify.com/album/7DK45xEeVMI7ul8rnNDddF"
+        "name": "What Are We Waiting For?",
+        "url": "https://open.spotify.com/album/6h95CVsuRQt0SHA0MtjpWW"
       },
       "artists": [
         {
           "name": "for KING & COUNTRY",
           "url": "https://open.spotify.com/artist/3sDbKMebVH2VYcRSl7u1VC"
-        },
-        {
-          "name": "Jordin Sparks",
-          "url": "https://open.spotify.com/artist/2AQjGvtT0pFYfxR3neFcvz"
         }
       ],
-      "duration_ms": 187306,
-      "name": "Love Me Like I Am (with Jordin Sparks)",
-      "url": "https://open.spotify.com/track/0Nxb56H6D3z2ZO9BniUcNj"
+      "duration_ms": 196846,
+      "name": "For God Is With Us",
+      "url": "https://open.spotify.com/track/0CQPPHjPpG4kAzvfOcKvh8"
     },
     {
       "added_at": "2023-03-10 08:53:36",
@@ -391,22 +391,6 @@
     {
       "added_at": "2023-03-10 08:53:36",
       "album": {
-        "name": "God Is Good",
-        "url": "https://open.spotify.com/album/2NjwP5E285YasIUIQ6LPl0"
-      },
-      "artists": [
-        {
-          "name": "Francesca Battistelli",
-          "url": "https://open.spotify.com/artist/29ywwKkxfoH7iWwNY1UezA"
-        }
-      ],
-      "duration_ms": 197800,
-      "name": "God Is Good",
-      "url": "https://open.spotify.com/track/55u3TOux7B6QdoOOQ4KCWa"
-    },
-    {
-      "added_at": "2023-03-10 08:53:36",
-      "album": {
         "name": "Jesus Changed My Life",
         "url": "https://open.spotify.com/album/3qvrVAm0dXvo6Uwn855H82"
       },
@@ -419,6 +403,22 @@
       "duration_ms": 235651,
       "name": "Hold On",
       "url": "https://open.spotify.com/track/27oqAdEmp480usR8hPV5Iq"
+    },
+    {
+      "added_at": "2023-03-10 08:53:36",
+      "album": {
+        "name": "God Is Good",
+        "url": "https://open.spotify.com/album/2NjwP5E285YasIUIQ6LPl0"
+      },
+      "artists": [
+        {
+          "name": "Francesca Battistelli",
+          "url": "https://open.spotify.com/artist/29ywwKkxfoH7iWwNY1UezA"
+        }
+      ],
+      "duration_ms": 197800,
+      "name": "God Is Good",
+      "url": "https://open.spotify.com/track/55u3TOux7B6QdoOOQ4KCWa"
     },
     {
       "added_at": "2023-03-10 08:53:36",
@@ -471,6 +471,22 @@
     {
       "added_at": "2023-03-10 08:53:36",
       "album": {
+        "name": "Into The Wild",
+        "url": "https://open.spotify.com/album/2hZfROCvTvSqmOpYJUeT1b"
+      },
+      "artists": [
+        {
+          "name": "Dan Bremnes",
+          "url": "https://open.spotify.com/artist/235ZVf4thM2FFfyE4ACwB3"
+        }
+      ],
+      "duration_ms": 175133,
+      "name": "Hold You Tight",
+      "url": "https://open.spotify.com/track/5Ra30hSwA5Q2kkYf4yidcq"
+    },
+    {
+      "added_at": "2023-03-10 08:53:36",
+      "album": {
         "name": "The Goodness",
         "url": "https://open.spotify.com/album/5XsasuGU1Zv69IRGIneakR"
       },
@@ -487,22 +503,6 @@
       "duration_ms": 225228,
       "name": "The Goodness (feat. Blessing Offor)",
       "url": "https://open.spotify.com/track/5DNwRUi8xJW6CWiqOBCVu7"
-    },
-    {
-      "added_at": "2023-03-10 08:53:36",
-      "album": {
-        "name": "Into The Wild",
-        "url": "https://open.spotify.com/album/2hZfROCvTvSqmOpYJUeT1b"
-      },
-      "artists": [
-        {
-          "name": "Dan Bremnes",
-          "url": "https://open.spotify.com/artist/235ZVf4thM2FFfyE4ACwB3"
-        }
-      ],
-      "duration_ms": 175133,
-      "name": "Hold You Tight",
-      "url": "https://open.spotify.com/track/5Ra30hSwA5Q2kkYf4yidcq"
     },
     {
       "added_at": "2023-03-10 08:53:36",
@@ -539,22 +539,6 @@
     {
       "added_at": "2023-03-10 08:53:36",
       "album": {
-        "name": "The Love Of Jesus",
-        "url": "https://open.spotify.com/album/6HDPuCrm65idSgMvJMIP6c"
-      },
-      "artists": [
-        {
-          "name": "Mack Brock",
-          "url": "https://open.spotify.com/artist/5yCOPpDHEQxwSJJL2LAqLj"
-        }
-      ],
-      "duration_ms": 184883,
-      "name": "The Love Of Jesus",
-      "url": "https://open.spotify.com/track/4k8bSAKFhD0yatglhMe83j"
-    },
-    {
-      "added_at": "2023-03-10 08:53:36",
-      "album": {
         "name": "We The Kingdom",
         "url": "https://open.spotify.com/album/0gkEJZHlqciximZV1b9Drp"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 222655,
       "name": "Sound Mind - Studio Version",
       "url": "https://open.spotify.com/track/06Bje3wAdtpotcf2JtYPET"
+    },
+    {
+      "added_at": "2023-03-10 08:53:36",
+      "album": {
+        "name": "The Love Of Jesus",
+        "url": "https://open.spotify.com/album/6HDPuCrm65idSgMvJMIP6c"
+      },
+      "artists": [
+        {
+          "name": "Mack Brock",
+          "url": "https://open.spotify.com/artist/5yCOPpDHEQxwSJJL2LAqLj"
+        }
+      ],
+      "duration_ms": 184883,
+      "name": "The Love Of Jesus",
+      "url": "https://open.spotify.com/track/4k8bSAKFhD0yatglhMe83j"
     },
     {
       "added_at": "2023-03-10 08:53:36",
@@ -635,22 +635,6 @@
     {
       "added_at": "2023-03-10 08:53:36",
       "album": {
-        "name": "Praise The Lord",
-        "url": "https://open.spotify.com/album/1AnJKH5NbCHe9oyVTjaVeN"
-      },
-      "artists": [
-        {
-          "name": "Micah Tyler",
-          "url": "https://open.spotify.com/artist/04XtgzagYQRpeZt1sJThKi"
-        }
-      ],
-      "duration_ms": 198745,
-      "name": "Praise The Lord",
-      "url": "https://open.spotify.com/track/6kewFKMdQ9pkCBuLvpfWXA"
-    },
-    {
-      "added_at": "2023-03-10 08:53:36",
-      "album": {
         "name": "This Is The Gospel",
         "url": "https://open.spotify.com/album/0cyL91vJpH6BgbY7zGwktn"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 168011,
       "name": "PRAISES",
       "url": "https://open.spotify.com/track/68KVmSqAOYem04YsC37U7B"
+    },
+    {
+      "added_at": "2023-03-10 08:53:36",
+      "album": {
+        "name": "Praise The Lord",
+        "url": "https://open.spotify.com/album/1AnJKH5NbCHe9oyVTjaVeN"
+      },
+      "artists": [
+        {
+          "name": "Micah Tyler",
+          "url": "https://open.spotify.com/artist/04XtgzagYQRpeZt1sJThKi"
+        }
+      ],
+      "duration_ms": 198745,
+      "name": "Praise The Lord",
+      "url": "https://open.spotify.com/track/6kewFKMdQ9pkCBuLvpfWXA"
     },
     {
       "added_at": "2023-03-10 08:53:36",
@@ -703,22 +703,6 @@
     {
       "added_at": "2023-03-10 08:53:36",
       "album": {
-        "name": "Things That I'm Afraid Of",
-        "url": "https://open.spotify.com/album/4pS49xmIEA8llYALhCUwop"
-      },
-      "artists": [
-        {
-          "name": "Josh Wilson",
-          "url": "https://open.spotify.com/artist/1SbnQl7KrIVnXhYcQcMjL2"
-        }
-      ],
-      "duration_ms": 166988,
-      "name": "Things That I'm Afraid Of",
-      "url": "https://open.spotify.com/track/5d73s6XEAQpkwve1elekBm"
-    },
-    {
-      "added_at": "2023-03-10 08:53:36",
-      "album": {
         "name": "Whosoever",
         "url": "https://open.spotify.com/album/7fSvOKp7nHDbiDoxhqirZZ"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 225755,
       "name": "Hallelujah Anyway",
       "url": "https://open.spotify.com/track/0uryoZxnSimQVSFnGhyqxU"
+    },
+    {
+      "added_at": "2023-03-10 08:53:36",
+      "album": {
+        "name": "Things That I'm Afraid Of",
+        "url": "https://open.spotify.com/album/4pS49xmIEA8llYALhCUwop"
+      },
+      "artists": [
+        {
+          "name": "Josh Wilson",
+          "url": "https://open.spotify.com/artist/1SbnQl7KrIVnXhYcQcMjL2"
+        }
+      ],
+      "duration_ms": 166988,
+      "name": "Things That I'm Afraid Of",
+      "url": "https://open.spotify.com/track/5d73s6XEAQpkwve1elekBm"
     },
     {
       "added_at": "2023-03-10 08:53:36",
@@ -1031,6 +1031,22 @@
     {
       "added_at": "2023-03-10 08:53:36",
       "album": {
+        "name": "For All My Life",
+        "url": "https://open.spotify.com/album/7pNIPNugChX2AXGBPAISXm"
+      },
+      "artists": [
+        {
+          "name": "TAYA",
+          "url": "https://open.spotify.com/artist/3D04fb59z3ANxVaeHBfxtW"
+        }
+      ],
+      "duration_ms": 210066,
+      "name": "For All My Life",
+      "url": "https://open.spotify.com/track/2nrdOrcmcHdVh8gz7WJ9Kh"
+    },
+    {
+      "added_at": "2023-03-10 08:53:36",
+      "album": {
         "name": "Jordan St. Cyr",
         "url": "https://open.spotify.com/album/0MCDpmEi7dRHtWtW9U4GXC"
       },
@@ -1047,18 +1063,18 @@
     {
       "added_at": "2023-03-10 08:53:36",
       "album": {
-        "name": "For All My Life",
-        "url": "https://open.spotify.com/album/7pNIPNugChX2AXGBPAISXm"
+        "name": "If The Lord Builds The House",
+        "url": "https://open.spotify.com/album/0fYeBYxodM5uCuM2MqGsk9"
       },
       "artists": [
         {
-          "name": "TAYA",
-          "url": "https://open.spotify.com/artist/3D04fb59z3ANxVaeHBfxtW"
+          "name": "Hope Darst",
+          "url": "https://open.spotify.com/artist/0B5924KrMyjdeYqZsPpw36"
         }
       ],
-      "duration_ms": 210066,
-      "name": "For All My Life",
-      "url": "https://open.spotify.com/track/2nrdOrcmcHdVh8gz7WJ9Kh"
+      "duration_ms": 235640,
+      "name": "If The Lord Builds The House",
+      "url": "https://open.spotify.com/track/1zpHt22QPmUe7q7MvXLovh"
     },
     {
       "added_at": "2023-03-10 08:53:36",
@@ -1079,22 +1095,6 @@
       "duration_ms": 190666,
       "name": "Good Morning Mercy",
       "url": "https://open.spotify.com/track/0nujijkZ0Msf6eJo1sZ0Mu"
-    },
-    {
-      "added_at": "2023-03-10 08:53:36",
-      "album": {
-        "name": "If The Lord Builds The House",
-        "url": "https://open.spotify.com/album/0fYeBYxodM5uCuM2MqGsk9"
-      },
-      "artists": [
-        {
-          "name": "Hope Darst",
-          "url": "https://open.spotify.com/artist/0B5924KrMyjdeYqZsPpw36"
-        }
-      ],
-      "duration_ms": 235640,
-      "name": "If The Lord Builds The House",
-      "url": "https://open.spotify.com/track/1zpHt22QPmUe7q7MvXLovh"
     },
     {
       "added_at": "2023-03-10 08:53:36",
@@ -1195,6 +1195,22 @@
     {
       "added_at": "2023-03-10 08:53:36",
       "album": {
+        "name": "Friend In Jesus (Live)",
+        "url": "https://open.spotify.com/album/2h2Lt5nJbH7muL3lIS7mch"
+      },
+      "artists": [
+        {
+          "name": "CAIN",
+          "url": "https://open.spotify.com/artist/2XDaX0gxzE4eCXjPPAREEq"
+        }
+      ],
+      "duration_ms": 348141,
+      "name": "Friend In Jesus - Live",
+      "url": "https://open.spotify.com/track/5mg7ppgQFoJAjq0fzfKRLX"
+    },
+    {
+      "added_at": "2023-03-10 08:53:36",
+      "album": {
         "name": "Teach Me to Dance (Acoustic Version)",
         "url": "https://open.spotify.com/album/3l7oVA41siMkyycG3akMAx"
       },
@@ -1211,22 +1227,6 @@
       "duration_ms": 218510,
       "name": "Teach Me to Dance (Acoustic Version)",
       "url": "https://open.spotify.com/track/1atx7ehkHqRARWRyhbC9Gi"
-    },
-    {
-      "added_at": "2023-03-10 08:53:36",
-      "album": {
-        "name": "Friend In Jesus (Live)",
-        "url": "https://open.spotify.com/album/2h2Lt5nJbH7muL3lIS7mch"
-      },
-      "artists": [
-        {
-          "name": "CAIN",
-          "url": "https://open.spotify.com/artist/2XDaX0gxzE4eCXjPPAREEq"
-        }
-      ],
-      "duration_ms": 348141,
-      "name": "Friend In Jesus - Live",
-      "url": "https://open.spotify.com/track/5mg7ppgQFoJAjq0fzfKRLX"
     },
     {
       "added_at": "2023-03-10 08:53:36",
@@ -1283,6 +1283,22 @@
     {
       "added_at": "2023-03-10 08:53:36",
       "album": {
+        "name": "My Light",
+        "url": "https://open.spotify.com/album/4pBtX6lfkeENkYIQ2vpus2"
+      },
+      "artists": [
+        {
+          "name": "Colton Dixon",
+          "url": "https://open.spotify.com/artist/52oVYHQ99ORZzeig2YGo4R"
+        }
+      ],
+      "duration_ms": 147390,
+      "name": "My Light",
+      "url": "https://open.spotify.com/track/2KD4v8UbJi44ZaPLeTm5t5"
+    },
+    {
+      "added_at": "2023-03-10 08:53:36",
+      "album": {
         "name": "Clarity",
         "url": "https://open.spotify.com/album/6KwtJ6Sxu6vO45Di4906m7"
       },
@@ -1311,22 +1327,6 @@
       "duration_ms": 221084,
       "name": "Morning By Morning (I Will Trust) - Radio Version",
       "url": "https://open.spotify.com/track/0L5KFZnYagllkmT5YwiVDa"
-    },
-    {
-      "added_at": "2023-03-10 08:53:36",
-      "album": {
-        "name": "My Light",
-        "url": "https://open.spotify.com/album/4pBtX6lfkeENkYIQ2vpus2"
-      },
-      "artists": [
-        {
-          "name": "Colton Dixon",
-          "url": "https://open.spotify.com/artist/52oVYHQ99ORZzeig2YGo4R"
-        }
-      ],
-      "duration_ms": 147390,
-      "name": "My Light",
-      "url": "https://open.spotify.com/track/2KD4v8UbJi44ZaPLeTm5t5"
     },
     {
       "added_at": "2023-03-10 08:53:36",
@@ -1475,6 +1475,22 @@
     {
       "added_at": "2023-03-10 08:53:36",
       "album": {
+        "name": "The Heat",
+        "url": "https://open.spotify.com/album/4AhkCXgAoORJ8k8CrlZ0tt"
+      },
+      "artists": [
+        {
+          "name": "Stephen Stanley",
+          "url": "https://open.spotify.com/artist/5uGLuPqfATGbvk6shtjDoX"
+        }
+      ],
+      "duration_ms": 213717,
+      "name": "The Heat",
+      "url": "https://open.spotify.com/track/0J8E3NeNAQK726HEuet8nM"
+    },
+    {
+      "added_at": "2023-03-10 08:53:36",
+      "album": {
         "name": "The Great Awakening",
         "url": "https://open.spotify.com/album/1tAM3RpCYj5vTAIcze5US7"
       },
@@ -1491,22 +1507,6 @@
       "duration_ms": 210118,
       "name": "The Great Awakening",
       "url": "https://open.spotify.com/track/3lbpIK3SgEl65snVIOLRyK"
-    },
-    {
-      "added_at": "2023-03-10 08:53:36",
-      "album": {
-        "name": "The Heat",
-        "url": "https://open.spotify.com/album/4AhkCXgAoORJ8k8CrlZ0tt"
-      },
-      "artists": [
-        {
-          "name": "Stephen Stanley",
-          "url": "https://open.spotify.com/artist/5uGLuPqfATGbvk6shtjDoX"
-        }
-      ],
-      "duration_ms": 213717,
-      "name": "The Heat",
-      "url": "https://open.spotify.com/track/0J8E3NeNAQK726HEuet8nM"
     },
     {
       "added_at": "2023-03-10 08:53:36",
@@ -1635,22 +1635,6 @@
     {
       "added_at": "2023-03-10 08:53:36",
       "album": {
-        "name": "The Church I Grew Up in (Live)",
-        "url": "https://open.spotify.com/album/0FD34ZXUqyDj3NQooEi5qi"
-      },
-      "artists": [
-        {
-          "name": "Tasha Cobbs Leonard",
-          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
-        }
-      ],
-      "duration_ms": 296715,
-      "name": "The Church I Grew Up In - Live",
-      "url": "https://open.spotify.com/track/1qbE7mV02uhmzGOTwcL6SM"
-    },
-    {
-      "added_at": "2023-03-10 08:53:36",
-      "album": {
         "name": "Always Will Be",
         "url": "https://open.spotify.com/album/5vX74Wne2jfdf4KjAaHT3x"
       },
@@ -1667,18 +1651,18 @@
     {
       "added_at": "2023-03-10 08:53:36",
       "album": {
-        "name": "Easy To Praise",
-        "url": "https://open.spotify.com/album/1wk7GREA9OrScHj3wEB2i8"
+        "name": "The Church I Grew Up in (Live)",
+        "url": "https://open.spotify.com/album/0FD34ZXUqyDj3NQooEi5qi"
       },
       "artists": [
         {
-          "name": "Patrick Mayberry",
-          "url": "https://open.spotify.com/artist/4ry1oelvTLzDwOKVxLpzwo"
+          "name": "Tasha Cobbs Leonard",
+          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
         }
       ],
-      "duration_ms": 208143,
-      "name": "Easy To Praise",
-      "url": "https://open.spotify.com/track/6Sc4wQtKhcWdTLNjqlVgur"
+      "duration_ms": 296715,
+      "name": "The Church I Grew Up In - Live",
+      "url": "https://open.spotify.com/track/1qbE7mV02uhmzGOTwcL6SM"
     },
     {
       "added_at": "2023-03-10 08:53:36",
@@ -1695,6 +1679,22 @@
       "duration_ms": 162903,
       "name": "Good God",
       "url": "https://open.spotify.com/track/60ZMTLmxEJP7FSivfMWW1O"
+    },
+    {
+      "added_at": "2023-03-10 08:53:36",
+      "album": {
+        "name": "Easy To Praise",
+        "url": "https://open.spotify.com/album/1wk7GREA9OrScHj3wEB2i8"
+      },
+      "artists": [
+        {
+          "name": "Patrick Mayberry",
+          "url": "https://open.spotify.com/artist/4ry1oelvTLzDwOKVxLpzwo"
+        }
+      ],
+      "duration_ms": 208143,
+      "name": "Easy To Praise",
+      "url": "https://open.spotify.com/track/6Sc4wQtKhcWdTLNjqlVgur"
     }
   ],
   "unique_name": "Top Christian Contemporary",

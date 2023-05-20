@@ -4,7 +4,7 @@
 
 > Country rap hits of today and tomorrow.
 
-84 songs - 4 hr 49 min
+85 songs - 4 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,6 +46,7 @@
 | [Good Times Roll](https://open.spotify.com/track/6iP3HRpbWj0iPd8gTSQgCn) | [Jimmie Allen](https://open.spotify.com/artist/147nKr9upHZSSxqCzh9j7c), [Nelly](https://open.spotify.com/artist/2gBjLmx6zQnFGQJCAQpRgw) | [Bettie James Gold Edition](https://open.spotify.com/album/7nkRtJr1dCHcQJHUvi2Dii) | 2:38 | 2023-03-17 |  |
 | [Great Minds Drink Alike \(feat\. Craig Campbell\)](https://open.spotify.com/track/6MIHb0TCLHc9vKvYjCFpGX) | [The Lacs](https://open.spotify.com/artist/23OFz99wX0NDBBwrxthLWU), [Craig Campbell](https://open.spotify.com/artist/7tkwiWhGKSuQV8LwPWceWN) | [Great Minds Drink Alike \(feat\. Craig Campbell\)](https://open.spotify.com/album/1RdK3jKTZ82qiT8ikSMQad) | 3:28 | 2023-04-21 |  |
 | [Heartland](https://open.spotify.com/track/0ZUs7kSj4AykrEwCBNiIAF) | [KillWill](https://open.spotify.com/artist/0y8l3VxQbtzQRplAjSPAOd), [Cowboy Troy](https://open.spotify.com/artist/3Rd3kr9QoBdHGjD1Hk0tkj) | [Heartland](https://open.spotify.com/album/1AkNJ6AxARKT5KlI4lPGcl) | 3:38 | 2023-04-07 |  |
+| [Hee Hee Haa Haa](https://open.spotify.com/track/6iXPBv1ouAB8HkhJpIYjBP) | [Bubba Sparxxx](https://open.spotify.com/artist/3RPYHNSwe3w0mtfJwKIN9P), [Jcrews](https://open.spotify.com/artist/5y2AgdbbFUpAXM8T7o8Fvb) | [Hee Hee Haa Haa](https://open.spotify.com/album/3IoyNWIFpu6fTFjqEb8Rrb) | 3:35 | 2023-05-19 |  |
 | [Hey Boy, Hey Girl](https://open.spotify.com/track/47f6eZgviwSZciXGv2iWYg) | [Upchurch](https://open.spotify.com/artist/2pSObt5Fk8izuX8ZfI3jRn), [Katie Noel](https://open.spotify.com/artist/4nreGSB7QWCSeYWKpcz3pt) | [Hey Boy, Hey Girl](https://open.spotify.com/album/4YemyQre4YNNvLLM3huRrN) | 3:20 | 2023-03-17 |  |
 | [Hick Hop Thang \(feat\. Jawga Boyz\)](https://open.spotify.com/track/7BQtrNgI3DoitGB1IE8gI9) | [Tennessee Shine](https://open.spotify.com/artist/2EMzEaCYBoIXBSAdyryi4l), [Jawga Boyz](https://open.spotify.com/artist/4rfTlSG4QNPCdjo57jAmMW) | [Tennessee Shine](https://open.spotify.com/album/4smxfavZtbma0XLdYiiMA0) | 3:57 | 2023-03-17 |  |
 | [Hill Billy](https://open.spotify.com/track/6cLtxcSqxHInbrgT1vobQT) | [Bubba Sparxxx](https://open.spotify.com/artist/3RPYHNSwe3w0mtfJwKIN9P), [Dusty Leigh](https://open.spotify.com/artist/78n0vEA36pwCD6Vzzg7Ynr), [Jcrews](https://open.spotify.com/artist/5y2AgdbbFUpAXM8T7o8Fvb) | [Hill Billy](https://open.spotify.com/album/6GeOVU4wnonE5clZuoqQGC) | 3:35 | 2023-04-21 |  |

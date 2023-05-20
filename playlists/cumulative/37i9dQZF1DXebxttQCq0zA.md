@@ -4,7 +4,7 @@
 
 > Soothing drones, ambient piano and new age music.
 
-341 songs - 17 hr 30 min
+342 songs - 17 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,6 +44,7 @@
 | [Aurore](https://open.spotify.com/track/0Qdj3Fw4Jn71PtIksAuEGD) | [Octave Rivière](https://open.spotify.com/artist/5ZeZs2oMxl3vROqHlYCKJy) | [Aurore](https://open.spotify.com/album/7fNUSTFRhIyxtH7nyBlBv1) | 3:00 | 2022-05-25 |  |
 | [Awakening](https://open.spotify.com/track/5db1SLjPimPV4jc5SkAZ2b) | [Alex Couture](https://open.spotify.com/artist/25G0894RyKrGyKDqdG1pGu) | [The Calm Sessions](https://open.spotify.com/album/7DZtrPv9CLOwvCuT7KSTdQ) | 2:37 | 2022-05-25 | 2022-09-28 |
 | [Becalming](https://open.spotify.com/track/5S3LrxbIBSqhf3tEGjNa8l) | [Thomas Barasimo](https://open.spotify.com/artist/4T3ci09iLFfbJJziNBWkvh) | [Majestic](https://open.spotify.com/album/09uh7HyYeJdAGy2ybhGvUS) | 3:11 | 2022-12-02 |  |
+| [Begynnelse \(Ambient\)](https://open.spotify.com/track/2gWtkNe18gURimJZGJUT66) | [Ester Ackerman](https://open.spotify.com/artist/6SWO4ygLu9suL3HdG0DVFg) | [Begynnelse](https://open.spotify.com/album/7KOigj64SUkLXFyCkSVBlW) | 3:14 | 2023-05-19 |  |
 | [Behind the Wall](https://open.spotify.com/track/4asYNMN8gnTvd24iUCbLvz) | [Momento](https://open.spotify.com/artist/2HD6u9F4pocPtFgmev72AK) | [Obsidian](https://open.spotify.com/album/2Dh5NJU1zhKK2hEUKpHWMU) | 3:28 | 2022-05-25 | 2022-09-28 |
 | [Believe](https://open.spotify.com/track/5v4H0KU4eFyE524xVMiRMp) | [Johann Eder](https://open.spotify.com/artist/0aCbxLi0ypSIj30oAT4T3o) | [Believe](https://open.spotify.com/album/4zXjC7evrMGsDYZSzUFut8) | 3:10 | 2022-05-25 | 2022-09-28 |
 | [Blankly Slept](https://open.spotify.com/track/0Z1OskWKPEpLniJPWVQjfL) | [Sheep Hurdle](https://open.spotify.com/artist/2EvRgp09ci3GA7yI7XE6C2) | [Blankly Slept](https://open.spotify.com/album/6P47YyI7GnT4kFh1J2e4Ak) | 3:35 | 2022-05-25 |  |
@@ -251,7 +252,7 @@
 | [Remembering](https://open.spotify.com/track/466TP56KLeLMOeUqe5KVnr) | [Koby Laver](https://open.spotify.com/artist/639xerhpqwPMYay6bkjz75) | [Remembering](https://open.spotify.com/album/3bAILbgsbNPeiiRKSTcmyT) | 3:03 | 2022-05-25 |  |
 | [Repouso](https://open.spotify.com/track/41Fp3VZmyloxKUUcWDUrH2) | [Polysomni](https://open.spotify.com/artist/3ULKIOVe2bR3iZF1jFqzMN) | [Repouso](https://open.spotify.com/album/0FOLb3AIWL91ig6CEQu09c) | 3:56 | 2022-05-25 |  |
 | [Rhythms](https://open.spotify.com/track/2ZvyrcGO1JLsfc2XqD7oio) | [Pascal Dirac](https://open.spotify.com/artist/55UOeJ9KXXCNAQ0b4REsiR) | [Rhythms](https://open.spotify.com/album/3r2nphYPieVtEcbWCfWMP3) | 2:28 | 2022-09-02 |  |
-| [Rymdresa](https://open.spotify.com/track/1xbfnRa7qVtoLWqr0xDljM) | [Juni Ros](https://open.spotify.com/artist/0lYxaLB1G0DginH83Meiw9) | [Rymdresa](https://open.spotify.com/album/2pg1D1oF92V1a8sJXZFBad) | 2:34 | 2023-02-17 |  |
+| [Rymdresa](https://open.spotify.com/track/1xbfnRa7qVtoLWqr0xDljM) | [Juni Ros](https://open.spotify.com/artist/0lYxaLB1G0DginH83Meiw9) | [Rymdresa](https://open.spotify.com/album/2pg1D1oF92V1a8sJXZFBad) | 2:34 | 2023-02-17 | 2023-05-20 |
 | [Rêver](https://open.spotify.com/track/75UEjnA7EJ4ztlMANBW1dX) | [Phiala](https://open.spotify.com/artist/6Ix7ocKRGZU8XnVX9FiXuL) | [Rêver](https://open.spotify.com/album/2NZgY14tBMc1cLMRCYMBn3) | 2:33 | 2022-12-06 |  |
 | [Saddleworth](https://open.spotify.com/track/2dqHZOXBMrkntSDYahuzfF) | [Tonal Blues](https://open.spotify.com/artist/4op9odiUcMauXLhmhuxU2m) | [Squares](https://open.spotify.com/album/5mjzHuXW8jh4dmN9dBkyAp) | 3:40 | 2022-05-25 |  |
 | [Safe](https://open.spotify.com/track/2sYLvR1t37NbXZqRI7KS5a) | [Deruinga](https://open.spotify.com/artist/4QdAxJ3cHi44C5QmSf1yeo) | [Safe](https://open.spotify.com/album/0kVhLQ5BXHeMplSKwtHzGg) | 2:39 | 2022-12-06 |  |

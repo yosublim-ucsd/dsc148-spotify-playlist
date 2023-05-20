@@ -162,7 +162,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 174400,
       "name": "Akohwie",
       "url": "https://open.spotify.com/track/1d51OuwXfGfc6PwWezrwTS"
@@ -242,6 +242,24 @@
       "duration_ms": 226527,
       "name": "ARIBA",
       "url": "https://open.spotify.com/track/6JP5zXwPYK7Bd3gOv3d4NH"
+    },
+    {
+      "album": {
+        "name": "Ashawo",
+        "url": "https://open.spotify.com/album/56jazw4lgbAn1rEyperIPa"
+      },
+      "artists": [
+        {
+          "name": "Dayonthetrack",
+          "url": "https://open.spotify.com/artist/7vsaQwuPAG2PSWPVitnXrc"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181700,
+      "name": "Ashawo",
+      "url": "https://open.spotify.com/track/25VXqB7xRiulkQAvL819Yb"
     },
     {
       "album": {
@@ -514,6 +532,24 @@
       "duration_ms": 148374,
       "name": "Celebrate",
       "url": "https://open.spotify.com/track/0UUczvIt4oAghLNuY8WSEA"
+    },
+    {
+      "album": {
+        "name": "Chale Wote",
+        "url": "https://open.spotify.com/album/1xOvFbPk7T2edgj2TnVdvK"
+      },
+      "artists": [
+        {
+          "name": "FRA!",
+          "url": "https://open.spotify.com/artist/07Bkdyq0lzTh2ayKwd40HN"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 342594,
+      "name": "Chale Wote",
+      "url": "https://open.spotify.com/track/0P3mEL2RyN1YLE5hdqWeux"
     },
     {
       "album": {
@@ -1565,6 +1601,24 @@
     },
     {
       "album": {
+        "name": "KPONKPO",
+        "url": "https://open.spotify.com/album/6WRZb4GyZBhtylB9aEe4d7"
+      },
+      "artists": [
+        {
+          "name": "Gasmilla",
+          "url": "https://open.spotify.com/artist/1Wtzdgd5YfWe0WWm9WN3l3"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179000,
+      "name": "KPONKPO",
+      "url": "https://open.spotify.com/track/4E0zFXFHtn5qwHHNSOkK1k"
+    },
+    {
+      "album": {
         "name": "Kuacha",
         "url": "https://open.spotify.com/album/3ZCBdU2KFy6VmvqAiS3bln"
       },
@@ -2514,7 +2568,7 @@
       ],
       "date_added": "2023-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 149173,
       "name": "Promo",
       "url": "https://open.spotify.com/track/6KepFxtuNsCH8mGcpPuujz"
@@ -3220,7 +3274,7 @@
       ],
       "date_added": "2023-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 158239,
       "name": "Tornado",
       "url": "https://open.spotify.com/track/52L1OTjUe8Zmz8xQH9HENi"

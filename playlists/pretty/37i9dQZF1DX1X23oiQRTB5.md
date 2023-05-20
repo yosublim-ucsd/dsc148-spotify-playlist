@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1X23oiQRTB5.md) - [plain]
 
 > Gazo x Damso au top de la première playlist de rap français !
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,383,978 likes - 40 songs - 1 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,384,601 likes - 40 songs - 1 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1X23oiQRTB5.md) - [plain]
 | 39 | [Quand tout s'enflamme](https://open.spotify.com/track/04M7hgJo8KgONKo4OL91jz) | [Georgio](https://open.spotify.com/artist/6Xc0KDqzw5u6EQLgdfeoKO), [PLK](https://open.spotify.com/artist/3DCWeG2J1fZeu0Oe6i5Q6m) | [Années Sauvages](https://open.spotify.com/album/3zsnpMh0K6pM1Rbo7btDtN) | 2:50 |
 | 40 | [Metaverse](https://open.spotify.com/track/7rzjdyHmqwloCA16UBdDgg) | [Rim'K](https://open.spotify.com/artist/2eh8cEKZk4VeruUrGq748D), [Freeze corleone](https://open.spotify.com/artist/76Pl0epAMXVXJspaSuz8im) | [Metaverse](https://open.spotify.com/album/4yb1lj6MdPuKHJuQlXs5O7) | 3:13 |
 
-Snapshot ID: `MCxmMWZhZDFhYzc0MzRmNTFiMWJmOGQzNDU2ZTA0YzgzZDYwZWNlNzQ4`
+Snapshot ID: `MCwxZGNhNGNmMmU0MTgwOWRlYzBmYzZhM2U4ZDlhODY3MzFhMmZmN2Zh`

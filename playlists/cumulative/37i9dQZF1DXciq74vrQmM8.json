@@ -374,7 +374,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 221757,
       "name": "anxiety",
       "url": "https://open.spotify.com/track/0uMfUX34De5IdFo8eGzXiI"
@@ -992,7 +992,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 183211,
       "name": "Blow",
       "url": "https://open.spotify.com/track/6d6WNysquy9upPZPxKRTQF"
@@ -1510,7 +1510,7 @@
       ],
       "date_added": "2023-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 185973,
       "name": "Cheap Love",
       "url": "https://open.spotify.com/track/6wXeopx3eNpkqZMNDR0B8P"
@@ -1546,7 +1546,7 @@
       ],
       "date_added": "2023-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 114351,
       "name": "Church Outfit",
       "url": "https://open.spotify.com/track/0R13zftuNe1WECTSBeT6ri"
@@ -2234,7 +2234,7 @@
       ],
       "date_added": "2023-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 188403,
       "name": "Devils",
       "url": "https://open.spotify.com/track/4IZ7GX68Kn5fvAnGXUf0GT"
@@ -3315,6 +3315,24 @@
     },
     {
       "album": {
+        "name": "Fuego",
+        "url": "https://open.spotify.com/album/1nfb9jmF67AWe7XMaJNAIM"
+      },
+      "artists": [
+        {
+          "name": "SWARM6IX",
+          "url": "https://open.spotify.com/artist/7DYdJ6bspShavDgUNiGAYp"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157241,
+      "name": "Fuego",
+      "url": "https://open.spotify.com/track/0Nn7NYekiEjWXWeX9ShW9u"
+    },
+    {
+      "album": {
         "name": "FUK IT",
         "url": "https://open.spotify.com/album/4vPicl65KHeEsVRyeS58U1"
       },
@@ -3705,6 +3723,28 @@
     },
     {
       "album": {
+        "name": "Grail",
+        "url": "https://open.spotify.com/album/5TH3X1bHH2YHqWua1F7uIV"
+      },
+      "artists": [
+        {
+          "name": "Typecode",
+          "url": "https://open.spotify.com/artist/4c6Z93WJel4oYh6PJFfurG"
+        },
+        {
+          "name": "Velsser",
+          "url": "https://open.spotify.com/artist/48i9gA9q6KrTtHt7HZt7IG"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172884,
+      "name": "Grail",
+      "url": "https://open.spotify.com/track/06PzkPjLzVkPnw0V98CufI"
+    },
+    {
+      "album": {
         "name": "GROWING INTO IT",
         "url": "https://open.spotify.com/album/3D7hmJmOmHh1Tp1UUO9K7U"
       },
@@ -3900,7 +3940,7 @@
       ],
       "date_added": "2022-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 162650,
       "name": "Headbang",
       "url": "https://open.spotify.com/track/4S0rDR22A6j4W5ESiVyShM"
@@ -4124,7 +4164,7 @@
       ],
       "date_added": "2023-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 187693,
       "name": "Hollywood Baby",
       "url": "https://open.spotify.com/track/0oigSejhoNen2EdNAIFcm5"
@@ -4562,7 +4602,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 206617,
       "name": "I Wish A Bitch Would",
       "url": "https://open.spotify.com/track/0gQYl1JVAzYrl2BDPStaIW"
@@ -5195,6 +5235,24 @@
     },
     {
       "album": {
+        "name": "KSALOL KRAZY",
+        "url": "https://open.spotify.com/album/4bojr9kRXvJ6tD3nVyIAA4"
+      },
+      "artists": [
+        {
+          "name": "Kid Trash",
+          "url": "https://open.spotify.com/artist/4etrehjW9pvA2SuBIt56Eh"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201000,
+      "name": "KSALOL KRAZY",
+      "url": "https://open.spotify.com/track/1mGLc2hq1aiGuuL9qed8WS"
+    },
+    {
+      "album": {
         "name": "Labyrinth",
         "url": "https://open.spotify.com/album/3v7JIKBV8gO8KNXxLqLPL0"
       },
@@ -5698,7 +5756,7 @@
       ],
       "date_added": "2023-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 87672,
       "name": "M'Lady",
       "url": "https://open.spotify.com/track/2i9yWmgHVqWW1vmXtxUaN9"
@@ -6072,7 +6130,7 @@
       ],
       "date_added": "2022-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 133548,
       "name": "MISS ME?",
       "url": "https://open.spotify.com/track/6b2wKkUUBCzHpbxxtJcl2w"
@@ -7790,10 +7848,32 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 199000,
       "name": "SADIST",
       "url": "https://open.spotify.com/track/0x2BBTnwlR3StGFVM7mZmr"
+    },
+    {
+      "album": {
+        "name": "sassy bitch",
+        "url": "https://open.spotify.com/album/226qRvcdSa9SNbdINeWOCl"
+      },
+      "artists": [
+        {
+          "name": "strgurrl",
+          "url": "https://open.spotify.com/artist/55b219e2HJlycpRI5CUOOp"
+        },
+        {
+          "name": "ashes.",
+          "url": "https://open.spotify.com/artist/5OE3Wlcw4QHvjj2vlt1rJd"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 83437,
+      "name": "sassy bitch",
+      "url": "https://open.spotify.com/track/1sPouNG3YxAXuK5yhLmmlj"
     },
     {
       "album": {
@@ -8758,7 +8838,7 @@
       ],
       "date_added": "2023-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 196773,
       "name": "The Fall",
       "url": "https://open.spotify.com/track/7v5A0exCAWlZBAPLvjFTri"
@@ -8870,7 +8950,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 148500,
       "name": "The Rapture (but it\u2019s Pink) [feat. Mothica]",
       "url": "https://open.spotify.com/track/1dxx2lYR9cBgd3ULMG3Pc9"
@@ -9236,7 +9316,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 177800,
       "name": "Unholy (feat. Kim Petras) - Nova Twins Remix",
       "url": "https://open.spotify.com/track/1G2tlG3tA7uBH5izFZpaGX"

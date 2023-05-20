@@ -1,13 +1,121 @@
 {
-  "description": "New music breaking waves. Cover, Lola Brooke\n",
-  "num_followers": 89961,
+  "description": "New music breaking waves. Cover, DJ SLIINK",
+  "num_followers": 89964,
   "original_name": "Ripple Effect",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlYzQzNWVjZmU1ZjVlYzY2MmM0ODg2MzI2OGNjNjdhMTg1MGFkMjI0",
+  "snapshot_id": "MCw5NGQzMTg4NWI4ZWU4YzJmOWE4N2Q3M2FjM2JjNDYyNzg3MTIzMmFk",
   "tracks": [
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
+        "name": "41 Ways",
+        "url": "https://open.spotify.com/album/5EVyiRGDEhvaaPsvCBBkFT"
+      },
+      "artists": [
+        {
+          "name": "41",
+          "url": "https://open.spotify.com/artist/0yknvLWQZxwsMjhUhwWZQ8"
+        },
+        {
+          "name": "TaTa",
+          "url": "https://open.spotify.com/artist/43s6uFZrdusv7ggmDSpO41"
+        },
+        {
+          "name": "Kyle Richh",
+          "url": "https://open.spotify.com/artist/0hF6lbAjRsq4svrQUr5sgU"
+        }
+      ],
+      "duration_ms": 147692,
+      "name": "Cuz We Did",
+      "url": "https://open.spotify.com/track/24EJjIh58hDXgCvpLjMCWZ"
+    },
+    {
+      "added_at": "2023-04-28 07:43:40",
+      "album": {
+        "name": "Just Relax",
+        "url": "https://open.spotify.com/album/0Su9sgYg2FJNn6tamiu7Lc"
+      },
+      "artists": [
+        {
+          "name": "Lola Brooke",
+          "url": "https://open.spotify.com/artist/2Ggj5XNlIb4Lnbqe307FyB"
+        }
+      ],
+      "duration_ms": 152213,
+      "name": "Just Relax",
+      "url": "https://open.spotify.com/track/4ZJ58LR9dwGJBFGC8RilBM"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
+        "name": "Day Ones",
+        "url": "https://open.spotify.com/album/4STghfPx4foktyWk2TCJWq"
+      },
+      "artists": [
+        {
+          "name": "DJ Sliink",
+          "url": "https://open.spotify.com/artist/0t9dGS12PMZmiJiZa9vpyk"
+        },
+        {
+          "name": "SAFE",
+          "url": "https://open.spotify.com/artist/3bnpcWBcvlfq4hPFJjNPbz"
+        }
+      ],
+      "duration_ms": 162089,
+      "name": "Day Ones",
+      "url": "https://open.spotify.com/track/77oV9hbYmMtPGmVxk6qRqp"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
+        "name": "DISS TRACK MAYBE",
+        "url": "https://open.spotify.com/album/7vt4ZeKy7IXPNZ9urCqAmF"
+      },
+      "artists": [
+        {
+          "name": "Chow Lee",
+          "url": "https://open.spotify.com/artist/3yQMCDmPQPJlf6xJMzcnZL"
+        }
+      ],
+      "duration_ms": 154459,
+      "name": "DISS TRACK MAYBE",
+      "url": "https://open.spotify.com/track/0Kv1056a877L5cWlQPhlRH"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
+        "name": "The Postlude",
+        "url": "https://open.spotify.com/album/4QX19K0eMkfCtrxRcbFpU0"
+      },
+      "artists": [
+        {
+          "name": "A$AP ANT",
+          "url": "https://open.spotify.com/artist/45m1IiS45uD1HcPlYkNWKj"
+        }
+      ],
+      "duration_ms": 126094,
+      "name": "Chemical Warfare",
+      "url": "https://open.spotify.com/track/7JUyQq0c85g1reS6tuXjDQ"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
+        "name": "BOY ANONYMOUS",
+        "url": "https://open.spotify.com/album/3ErmhbEFnhCLRqKibj245w"
+      },
+      "artists": [
+        {
+          "name": "Paris Texas",
+          "url": "https://open.spotify.com/artist/1SCrMreNPJYSRZIlRe9SUq"
+        }
+      ],
+      "duration_ms": 244000,
+      "name": "FORCE OF HABIT",
+      "url": "https://open.spotify.com/track/5HxZVwYpdu1SgUvl411nZ6"
+    },
     {
       "added_at": "2023-05-12 12:14:00",
       "album": {
@@ -25,20 +133,20 @@
       "url": "https://open.spotify.com/track/5y8q501o2YAvbK3V54yMc1"
     },
     {
-      "added_at": "2023-04-28 07:43:40",
+      "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "Just Relax",
-        "url": "https://open.spotify.com/album/0Su9sgYg2FJNn6tamiu7Lc"
+        "name": "Cracchead Chic",
+        "url": "https://open.spotify.com/album/6HsAs94REwKiOweSpC6W9n"
       },
       "artists": [
         {
-          "name": "Lola Brooke",
-          "url": "https://open.spotify.com/artist/2Ggj5XNlIb4Lnbqe307FyB"
+          "name": "Yoko Chanel",
+          "url": "https://open.spotify.com/artist/4LJbGT2DlmVpmWMoznZ5AI"
         }
       ],
-      "duration_ms": 152213,
-      "name": "Just Relax",
-      "url": "https://open.spotify.com/track/4ZJ58LR9dwGJBFGC8RilBM"
+      "duration_ms": 196384,
+      "name": "Cracchead Chic",
+      "url": "https://open.spotify.com/track/2Tur9NvjOAeunBuifKWIjX"
     },
     {
       "added_at": "2023-05-12 12:14:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdP7Xdr0y4p4.md) - [plain]
 
 > An essential list of recent hits of SoGo\.  Cover:  <a href="https://open.spotify.com/artist/2KqWwLQj9ShX6taqgheFxb?si=t4i4AV79QiSGjnj0F5J2cA">The Browns</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,952 likes - 80 songs - 5 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,968 likes - 80 songs - 5 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdP7Xdr0y4p4.md) - [plain]
 | 28 | [Peace in Trusting](https://open.spotify.com/track/0bRCxiCy7DKlaaa0cfZqc4) | [The Isaacs](https://open.spotify.com/artist/7Gr7Uulfyw9J9F74eQfBOp) | [Songs for the Times](https://open.spotify.com/album/37dXrupCMdsgBbOWlOy55U) | 3:44 |
 | 29 | [When God Ran](https://open.spotify.com/track/78bkWzaZ616DTt9HdkM0MN) | [Kingsmen](https://open.spotify.com/artist/1KqnnHm6UY5FW6UENrzSVX) | [When God Ran](https://open.spotify.com/album/49A6zoKKgvWWT8HGHPzXR9) | 5:12 |
 | 30 | [Scars In Heaven](https://open.spotify.com/track/0FjQGUbhPf6xxHEHnPians) | [The Nelons](https://open.spotify.com/artist/6qL6hgjCwgoC8VG7MuY7wn) | [Scars In Heaven](https://open.spotify.com/album/1mbbSaw8XRvdqO4o8T8ZNg) | 4:29 |
-| 31 | [Steppin' out in Faith](https://open.spotify.com/track/3oD8RRGLXHwk4vEMkbBo9k) | [Jim Brady Trio](https://open.spotify.com/artist/370fla8RwoHgAhGzUy56OB) | [A New Chapter](https://open.spotify.com/album/5uAhKPfP2Iy5lCgxLUQEpN) | 3:18 |
-| 32 | [Lift up His Name](https://open.spotify.com/track/23a025gnBl8S0b7Cb9Bz0S) | [The Browders](https://open.spotify.com/artist/4Ug1lA45bfmGwUx76BWWfW) | [Time Machine](https://open.spotify.com/album/0Sl1oCoNsDtCkSLTaTZzpP) | 3:25 |
+| 31 | [Lift up His Name](https://open.spotify.com/track/23a025gnBl8S0b7Cb9Bz0S) | [The Browders](https://open.spotify.com/artist/4Ug1lA45bfmGwUx76BWWfW) | [Time Machine](https://open.spotify.com/album/0Sl1oCoNsDtCkSLTaTZzpP) | 3:25 |
+| 32 | [Steppin' out in Faith](https://open.spotify.com/track/3oD8RRGLXHwk4vEMkbBo9k) | [Jim Brady Trio](https://open.spotify.com/artist/370fla8RwoHgAhGzUy56OB) | [A New Chapter](https://open.spotify.com/album/5uAhKPfP2Iy5lCgxLUQEpN) | 3:18 |
 | 33 | [Reckless Love](https://open.spotify.com/track/6LiW0vJVVrycjGFteSG7qm) | [Gaither Vocal Band](https://open.spotify.com/artist/0pjLiK5qb4Zr0PWRNkdd2o) | [Reckless Love](https://open.spotify.com/album/3jiITw0HxtYaZAOAuEOQ93) | 5:16 |
 | 34 | [Great Is His Faithfulness](https://open.spotify.com/track/5DQ1iZR8EKRFezKYiRxYaA) | [The Collingsworth Family](https://open.spotify.com/artist/4B43yyRlfQgDEhDPq35wUc), [Olivia Collingsworth](https://open.spotify.com/artist/0Kp8BEwvYuGMcuKu5aEuCC) | [Great Is His Faithfulness](https://open.spotify.com/album/7HfV6ry5U4qHaQlq6lSfzt) | 4:48 |
 | 35 | [Pray Now](https://open.spotify.com/track/6BT4eCTe1MiGwAGgf5ezpJ) | [Karen Peck & New River](https://open.spotify.com/artist/7F1556VoxW6M06EOc2AnA5) | [Pray Now](https://open.spotify.com/album/12uzTrOLpxr3j6zr0PLbC3) | 4:27 |
@@ -47,9 +47,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdP7Xdr0y4p4.md) - [plain]
 | 37 | [Everyday](https://open.spotify.com/track/3q0HpebwPnwOXkBJ17n0Fy) | [Triumphant Quartet](https://open.spotify.com/artist/60yKIk5WTQfPrkZPcdohVC) | [Everyday](https://open.spotify.com/album/5rI5TQVg0ZKN3bm2yDx2tA) | 3:45 |
 | 38 | [How Great Thou Art](https://open.spotify.com/track/51SwrmMlPDLYWsBD62rXb6) | [John Berry](https://open.spotify.com/artist/0l5OmkXhNcXtfa1W9dTon6) | [How Great Thou Art](https://open.spotify.com/album/6MzRNdhppIWTDn8DvZZLwU) | 3:30 |
 | 39 | [On Jordan's Stormy Banks](https://open.spotify.com/track/44R3QiC8sInYTpFB9TZegW) | [Keith & Kristyn Getty](https://open.spotify.com/artist/0I4Bk2s2BUJyykCwtxx8Xx) | [On Jordan's Stormy Banks](https://open.spotify.com/album/02nN1t9aMsxqJEa0ZJ4B8E) | 4:36 |
-| 40 | [I Have God to Thank for Everything](https://open.spotify.com/track/0ecJwqxF2KxcYHiwzi23Tk) | [The Inspirations](https://open.spotify.com/artist/5r3AH74NQJVPeRGmBfnNf3) | [I Have God to Thank for Everything](https://open.spotify.com/album/2GCDQ5nQ3FIhaQnGfzlpgJ) | 2:48 |
+| 40 | [Wake Up](https://open.spotify.com/track/1psN7GabVAeaBo0lTaDNUM) | [Ernie Haase & Signature Sound](https://open.spotify.com/artist/3Qp9Qtdb5G8QYHWfe5qxi0) | [Wake Up](https://open.spotify.com/album/2YUHflr83aTEzmqzpAWH57) | 3:38 |
 | 41 | [Future Glory](https://open.spotify.com/track/7GQc1aEfq2S1OLeDKsUPKr) | [Karen Peck & New River](https://open.spotify.com/artist/7F1556VoxW6M06EOc2AnA5) | [2: 22](https://open.spotify.com/album/1ZNaOaKQont8Mh7nIZlDN7) | 3:14 |
-| 42 | [Wake Up](https://open.spotify.com/track/1psN7GabVAeaBo0lTaDNUM) | [Ernie Haase & Signature Sound](https://open.spotify.com/artist/3Qp9Qtdb5G8QYHWfe5qxi0) | [Wake Up](https://open.spotify.com/album/2YUHflr83aTEzmqzpAWH57) | 3:38 |
+| 42 | [I Have God to Thank for Everything](https://open.spotify.com/track/0ecJwqxF2KxcYHiwzi23Tk) | [The Inspirations](https://open.spotify.com/artist/5r3AH74NQJVPeRGmBfnNf3) | [I Have God to Thank for Everything](https://open.spotify.com/album/2GCDQ5nQ3FIhaQnGfzlpgJ) | 2:48 |
 | 43 | [Favorite Song of All](https://open.spotify.com/track/1jqCZajfj6hAU1RHixoxbd) | [The Erwins](https://open.spotify.com/artist/6fP0zhB7y3p0SKO513H9DD) | [Favorites: On Repeat](https://open.spotify.com/album/7GnVw92Aav72gGVMpG0aXM) | 4:30 |
 | 44 | [Bring That Giant Down](https://open.spotify.com/track/1yQKThtFLWSoDv902wHktC) | [11th Hour](https://open.spotify.com/artist/1HtIwustFdmwPcgO3IuShY) | [Bring That Giant Down](https://open.spotify.com/album/05MoI6gUdmGsyNIWuVK1qE) | 3:28 |
 | 45 | [Shut Him Up](https://open.spotify.com/track/0aOUfA7at6UetkDDn75fdz) | [Lauren Talley](https://open.spotify.com/artist/3jbm4F4B8joagW1U4xiLRg) | [Shut Him Up](https://open.spotify.com/album/5jGJlGqQP8CNZhzx4ddMqU) | 3:10 |
@@ -76,8 +76,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdP7Xdr0y4p4.md) - [plain]
 | 66 | [How Great Thou Art](https://open.spotify.com/track/3otLzyxTwe5JoBKFA5K1r3) | [Kendra Kay](https://open.spotify.com/artist/55wvuImkFMHjZ1nYmhdXYJ), [Jason Benoit](https://open.spotify.com/artist/0Xi32ldFYxsc4g2vQ7b20w) | [How Great Thou Art](https://open.spotify.com/album/4Uok3QayvnnQUB8ob4J95S) | 3:28 |
 | 67 | [Give Me Jesus](https://open.spotify.com/track/41fDllXABcR51KZivo6uTx) | [The Talleys](https://open.spotify.com/artist/0xAHllnAJZX2DlM8z2A0hC) | [Give Me Jesus](https://open.spotify.com/album/4FAKPSnfJM5NuV5MzfyLpB) | 3:40 |
 | 68 | [I Bring You Jesus](https://open.spotify.com/track/6hOlJaU7E3SycdVXQN2taI) | [The Lore Family](https://open.spotify.com/artist/4LumramOIgEFgFyNkYeb94) | [The World Needs a Song](https://open.spotify.com/album/0GdNxipb3VVA8WDXQ3QMLb) | 3:42 |
-| 69 | [The Lighthouse \- 50 Year Celebration](https://open.spotify.com/track/2ZGDPgfa0rOiRezBCY56qk) | [Ronny Hinson](https://open.spotify.com/artist/6b5TbMekdEbb75ItLBOoRs) | [The Lighthouse \(50 Year Celebration\)](https://open.spotify.com/album/7DTKYFvwOP0q9jBz6OtclE) | 4:22 |
-| 70 | [God is Still Good](https://open.spotify.com/track/7M5ZQSYwPKpzlreNgzcyF7) | [McKamey Legacy](https://open.spotify.com/artist/4Zq7rp8K2P5ubqBF0mQZPI) | [McKamey Legacy](https://open.spotify.com/album/6N5d9pij1C406vQ91GptiS) | 2:37 |
+| 69 | [God is Still Good](https://open.spotify.com/track/7M5ZQSYwPKpzlreNgzcyF7) | [McKamey Legacy](https://open.spotify.com/artist/4Zq7rp8K2P5ubqBF0mQZPI) | [McKamey Legacy](https://open.spotify.com/album/6N5d9pij1C406vQ91GptiS) | 2:37 |
+| 70 | [The Lighthouse \- 50 Year Celebration](https://open.spotify.com/track/2ZGDPgfa0rOiRezBCY56qk) | [Ronny Hinson](https://open.spotify.com/artist/6b5TbMekdEbb75ItLBOoRs) | [The Lighthouse \(50 Year Celebration\)](https://open.spotify.com/album/7DTKYFvwOP0q9jBz6OtclE) | 4:22 |
 | 71 | [Grace Ain't Fair \- Acoustic Version](https://open.spotify.com/track/2CEBwToSll6HnKr0op8WQH) | [The Nelons](https://open.spotify.com/artist/6qL6hgjCwgoC8VG7MuY7wn) | [Grace Ain't Fair \(Acoustic Version\)](https://open.spotify.com/album/45ijAsVgyLl4kDnTAUeh17) | 3:34 |
 | 72 | [Like This](https://open.spotify.com/track/4njUGRSOV7yThJFoaw21NK) | [Wisecarvers](https://open.spotify.com/artist/4NFztqTXYlGy5RA52qNkit) | [Like This](https://open.spotify.com/album/0MnLy1oJMcbH4HWZztPiDz) | 3:39 |
 | 73 | [Lord's Prayer](https://open.spotify.com/track/3GprG1XzOUavCgzEqyj84v) | [Lauren Talley](https://open.spotify.com/artist/3jbm4F4B8joagW1U4xiLRg) | [Lord's Prayer](https://open.spotify.com/album/1GTIjIET5P7s2oXtT3sBcs) | 3:55 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdP7Xdr0y4p4.md) - [plain]
 | 79 | [In Your Hands](https://open.spotify.com/track/5jv8q8RMsCZLsLoughuYcK) | [Zane & Donna King](https://open.spotify.com/artist/49ez4RKPnnHvNyLPfIgcer) | [In Your Hands](https://open.spotify.com/album/6XEgkVMyUuHhAgs3Z9wh5d) | 3:19 |
 | 80 | [Praise Medley](https://open.spotify.com/track/01BfVuMUiP1df06GCvRb82) | [Legacy Five](https://open.spotify.com/artist/5Lp4dWpZlJJj3dhrgoeZYk) | [Heritage, Vol\. 3](https://open.spotify.com/album/4QmFZIOMbWcg6YEUGKjuQy) | 2:34 |
 
-Snapshot ID: `MCw2NTY2MGZmMTg2M2M2YjlmOTg5NGYwMmM0MDc0NzVhODRkZGExNTll`
+Snapshot ID: `MCw0YzVhYjc4ODA2ZWE2ZjQ2OWNjMDFmMjE1ODA5NzI3Y2FkM2E4ZTdm`

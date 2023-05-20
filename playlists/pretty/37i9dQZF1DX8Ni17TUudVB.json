@@ -1,12 +1,12 @@
 {
   "description": "En\u00e9rgicos beats para musicalizar tu rutina diaria de ejercicio.",
-  "num_followers": 136427,
+  "num_followers": 136469,
   "original_name": "Ejercicio Total",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0ZWFmZjA1NTlkMzNiMjA0YzNhODAxMWQxNzk5NzYxNjA4NDE0NjQz",
+  "snapshot_id": "MCxjMzU4ZjY4Mjk2M2M5ODZlZGNlMTU1ZWU5MzMxODI2MGFkMTU5M2My",
   "tracks": [
     {
       "added_at": "2023-05-15 15:50:08",
@@ -679,6 +679,22 @@
     {
       "added_at": "2023-05-15 15:50:08",
       "album": {
+        "name": "Amsterdam Twerk Music",
+        "url": "https://open.spotify.com/album/414ovELKpZtIZMlZTp39ce"
+      },
+      "artists": [
+        {
+          "name": "Yellow Claw",
+          "url": "https://open.spotify.com/artist/47z7ZrgFoBvVpCnElCE3Zh"
+        }
+      ],
+      "duration_ms": 211776,
+      "name": "DJ Turn It Up",
+      "url": "https://open.spotify.com/track/1ivuWgxFQb2xzxVNSlB1hF"
+    },
+    {
+      "added_at": "2023-05-15 15:50:08",
+      "album": {
         "name": "Say Nothing (feat. MAY-A)",
         "url": "https://open.spotify.com/album/3QMl37rC1ye7PKRFH7Bgz9"
       },
@@ -695,22 +711,6 @@
       "duration_ms": 232959,
       "name": "Say Nothing (feat. MAY-A)",
       "url": "https://open.spotify.com/track/424Uwmm1kNW07Ty1nOhSpl"
-    },
-    {
-      "added_at": "2023-05-15 15:50:08",
-      "album": {
-        "name": "Amsterdam Twerk Music",
-        "url": "https://open.spotify.com/album/414ovELKpZtIZMlZTp39ce"
-      },
-      "artists": [
-        {
-          "name": "Yellow Claw",
-          "url": "https://open.spotify.com/artist/47z7ZrgFoBvVpCnElCE3Zh"
-        }
-      ],
-      "duration_ms": 211776,
-      "name": "DJ Turn It Up",
-      "url": "https://open.spotify.com/track/1ivuWgxFQb2xzxVNSlB1hF"
     },
     {
       "added_at": "2023-05-15 15:50:08",
@@ -1719,6 +1719,26 @@
     {
       "added_at": "2023-05-15 15:50:08",
       "album": {
+        "name": "Balance",
+        "url": "https://open.spotify.com/album/5cqwXF2j9LkvFInBFlnQd3"
+      },
+      "artists": [
+        {
+          "name": "Armin van Buuren",
+          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
+        },
+        {
+          "name": "Ne-Yo",
+          "url": "https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj"
+        }
+      ],
+      "duration_ms": 150160,
+      "name": "Unlove You",
+      "url": "https://open.spotify.com/track/7CVG8gFuFM2OTkUVOkk4iX"
+    },
+    {
+      "added_at": "2023-05-15 15:50:08",
+      "album": {
         "name": "Emergency",
         "url": "https://open.spotify.com/album/4xeOgbxFCERSTBCaxuKSqY"
       },
@@ -1739,26 +1759,6 @@
       "duration_ms": 192760,
       "name": "Emergency",
       "url": "https://open.spotify.com/track/0iQd47VJs14l8EA00PlI71"
-    },
-    {
-      "added_at": "2023-05-15 15:50:08",
-      "album": {
-        "name": "Balance",
-        "url": "https://open.spotify.com/album/5cqwXF2j9LkvFInBFlnQd3"
-      },
-      "artists": [
-        {
-          "name": "Armin van Buuren",
-          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
-        },
-        {
-          "name": "Ne-Yo",
-          "url": "https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj"
-        }
-      ],
-      "duration_ms": 150160,
-      "name": "Unlove You",
-      "url": "https://open.spotify.com/track/7CVG8gFuFM2OTkUVOkk4iX"
     },
     {
       "added_at": "2023-05-15 15:50:08",

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-18",
-  "description": "Novidades e destaques do indie nacional. Foto: Marcelo Tofani ",
+  "description": "Novidades e destaques do indie nacional. Foto: Holger",
   "name": "Indie Brasil",
   "tracks": [
     {
@@ -366,7 +366,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 205818,
       "name": "Alice",
       "url": "https://open.spotify.com/track/1Mt9t8HeHtqXFktUYATbdS"
@@ -1017,6 +1017,28 @@
     },
     {
       "album": {
+        "name": "bossa nova",
+        "url": "https://open.spotify.com/album/02mynHvI2Ao5tAD89HT75B"
+      },
+      "artists": [
+        {
+          "name": "Fernanda Agah",
+          "url": "https://open.spotify.com/artist/3kPlUXfaZggBEvh7jt1VXk"
+        },
+        {
+          "name": "ant\u00f4nio",
+          "url": "https://open.spotify.com/artist/0gBzJRqpKs6se8l0coo7ue"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196363,
+      "name": "bossa nova",
+      "url": "https://open.spotify.com/track/2J7WwzjeZX1rS35WeWDxEm"
+    },
+    {
+      "album": {
         "name": "Breu",
         "url": "https://open.spotify.com/album/3PoYgoWLUmGblClRJ3IZjq"
       },
@@ -1246,6 +1268,24 @@
       "duration_ms": 160714,
       "name": "Cellphone",
       "url": "https://open.spotify.com/track/6TQlkmOgkdohZlICpVbNmc"
+    },
+    {
+      "album": {
+        "name": "Prometo-Lhe o C\u00e9u",
+        "url": "https://open.spotify.com/album/35JSm7B3l96RwbmYMJKBmv"
+      },
+      "artists": [
+        {
+          "name": "Nell",
+          "url": "https://open.spotify.com/artist/67tMd1qzcDqjsVF90amGX0"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185346,
+      "name": "Cenas de um Filme",
+      "url": "https://open.spotify.com/track/6ck3GDodsvOcI43Mn1pBjF"
     },
     {
       "album": {
@@ -1524,7 +1564,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 258986,
       "name": "Conven\u00e7\u00f5es Humanas",
       "url": "https://open.spotify.com/track/08MJeBwFr7XF74jSHVTrZv"
@@ -2025,6 +2065,24 @@
     },
     {
       "album": {
+        "name": "Domingo de Sol",
+        "url": "https://open.spotify.com/album/2WUiv785U0NmWRrdOn2ijY"
+      },
+      "artists": [
+        {
+          "name": "Holger",
+          "url": "https://open.spotify.com/artist/27euzsPUnsiX6SutdBXti0"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199102,
+      "name": "Domingo de Sol",
+      "url": "https://open.spotify.com/track/6gukKbG49ETpkHqwG3n4OD"
+    },
+    {
+      "album": {
         "name": "Door",
         "url": "https://open.spotify.com/album/0ypjYPdOJBi7Ed3njS6dSu"
       },
@@ -2184,6 +2242,24 @@
       "duration_ms": 309906,
       "name": "Errare Humanum Est",
       "url": "https://open.spotify.com/track/2v95wNLuJPSTlA77BzLgf5"
+    },
+    {
+      "album": {
+        "name": "Escorpi\u00e3o",
+        "url": "https://open.spotify.com/album/520X99we0leIKsZyGrwCVX"
+      },
+      "artists": [
+        {
+          "name": "Matheus de Bezerra",
+          "url": "https://open.spotify.com/artist/0D9P5Hj1eUHLaBRMykKzIm"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178322,
+      "name": "Escorpi\u00e3o",
+      "url": "https://open.spotify.com/track/7Cg0bIXGCR4oPRG9JJuR8M"
     },
     {
       "album": {
@@ -2387,6 +2463,28 @@
     },
     {
       "album": {
+        "name": "Eu N\u00e3o Vou Embora",
+        "url": "https://open.spotify.com/album/14RCRBM3i7efqqwxQrsgHj"
+      },
+      "artists": [
+        {
+          "name": "Thais Kiwi",
+          "url": "https://open.spotify.com/artist/7JNDN2kOvYlpV1Mw5WCelE"
+        },
+        {
+          "name": "Renato Enoch",
+          "url": "https://open.spotify.com/artist/6TV4EsauTqkvsZATrn2YBc"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227825,
+      "name": "Eu N\u00e3o Vou Embora",
+      "url": "https://open.spotify.com/track/1Jf2ajAR9tdCCVoVWc0hQY"
+    },
+    {
+      "album": {
         "name": "n\u00e3o fa\u00e7a o que eu fa\u00e7o",
         "url": "https://open.spotify.com/album/1POHK3zqVt06qXsF5HPfz1"
       },
@@ -2554,7 +2652,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 246186,
       "name": "Fala",
       "url": "https://open.spotify.com/track/6rInwAL5ZlG2T9ZK96Z5Ub"
@@ -2778,7 +2876,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 207446,
       "name": "Fragmentos",
       "url": "https://open.spotify.com/track/5RC7xO3f185S5s8qxlSt1h"
@@ -3722,7 +3820,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 198202,
       "name": "Meredith Monk",
       "url": "https://open.spotify.com/track/0pOFvKRvgFINBPNd7VLtCK"
@@ -3740,7 +3838,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 131129,
       "name": "Mergulho",
       "url": "https://open.spotify.com/track/2ii0SDHMxWns24dMAFItFC"
@@ -3762,7 +3860,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 241132,
       "name": "Mete Dance",
       "url": "https://open.spotify.com/track/2Jcxmw5dmWWYpzRVYahZ1D"
@@ -3864,7 +3962,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 169616,
       "name": "MIMI (SINTO SUA FALTA)",
       "url": "https://open.spotify.com/track/3rtYdRD1qmIzFCHf9zzyja"
@@ -4614,7 +4712,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 239635,
       "name": "O Que Eu Vou Levar Quando Eu For",
       "url": "https://open.spotify.com/track/6N1PV55RcI141zHTrRAxTp"
@@ -7044,7 +7142,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 182624,
       "name": "Velho",
       "url": "https://open.spotify.com/track/1yTbENAWVsV5pasctksZp7"
@@ -7322,7 +7420,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 256875,
       "name": "Volta",
       "url": "https://open.spotify.com/track/20TjtbWvLqfQIPth8gUvSB"
@@ -7526,6 +7624,24 @@
       "duration_ms": 187184,
       "name": "Zelo",
       "url": "https://open.spotify.com/track/3oMIke70o3excmdrw3e2g9"
+    },
+    {
+      "album": {
+        "name": "Buraco na Parede",
+        "url": "https://open.spotify.com/album/6Rv5kiHRjovHL5zrukSGn0"
+      },
+      "artists": [
+        {
+          "name": "Tiet\u00ea",
+          "url": "https://open.spotify.com/artist/3WuxvUe1aEhYU7ckJ1I9BP"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 320914,
+      "name": "Zig Zag",
+      "url": "https://open.spotify.com/track/3ulcqRaQcoSCw4TplOb0Vl"
     },
     {
       "album": {

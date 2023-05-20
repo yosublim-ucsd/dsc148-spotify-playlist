@@ -4,12 +4,13 @@
 
 > killer songs from badass artists\. Cover: Indigo De Souza
 
-349 songs - 21 hr 10 min
+350 songs - 21 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [$20](https://open.spotify.com/track/1yCpIUNj2Lastwc0NrrhGP) | [boygenius](https://open.spotify.com/artist/1hLiboQ98IQWhpKeP9vRFw), [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG), [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [the record](https://open.spotify.com/album/3ChFT9NdwI13XCF2Bs0aaq) | 3:20 | 2023-03-31 | 2023-04-04 |
 | [$20](https://open.spotify.com/track/38xXr3MkiKNzNDv4JDJagF) | [boygenius](https://open.spotify.com/artist/1hLiboQ98IQWhpKeP9vRFw), [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG), [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [the record](https://open.spotify.com/album/0e9GjrztzBw8oMC6n2CDeI) | 3:20 | 2023-03-31 |  |
+| [\(You\) On My Arm](https://open.spotify.com/track/5amHfOkbZVOopRkYqB4aqL) | [Leith Ross](https://open.spotify.com/artist/4nxKz1dRYXnsGzN1lUURtG) | [\(You\) On My Arm](https://open.spotify.com/album/4DOK0sUNU39awhzjWS3JL6) | 4:05 | 2023-05-19 |  |
 | [3 2 4 3](https://open.spotify.com/track/7andc0MirzCmIlkcCjjJmV) | [Ohmme](https://open.spotify.com/artist/1lGRK7KK1IuflIyNSE9R3M) | [3 2 4 3](https://open.spotify.com/album/7kFjHLW3eG86u87pUzCFIr) | 4:05 | 2021-11-14 | 2022-07-28 |
 | [4th of july](https://open.spotify.com/track/5U4u97LnLFFTKBAf9MaOdH) | [Hand Habits](https://open.spotify.com/artist/5poU7FPEYoBlwjzOEWMbX5) | [dirt](https://open.spotify.com/album/1cnrZ3t6GI4S6JIiiEkVuB) | 2:56 | 2022-05-20 | 2023-03-11 |
 | [4th of july](https://open.spotify.com/track/703z4Q7y8h8tkTkON7qdwZ) | [Hand Habits](https://open.spotify.com/artist/5poU7FPEYoBlwjzOEWMbX5) | [dirt](https://open.spotify.com/album/76sAkYMfB4nu07luXtqMe1) | 2:56 | 2021-11-14 | 2022-07-29 |
@@ -179,7 +180,7 @@
 | [Jersey](https://open.spotify.com/track/7cuXfrCsbCOfHIj6iZUn3P) | [Barrie](https://open.spotify.com/artist/1pHO6SCEw9tuRx0IVMFL0g) | [Barbara](https://open.spotify.com/album/5eieb3BvJUgPIzE5VkdyWL) | 2:46 | 2022-04-01 |  |
 | [Jump Rope Gazers](https://open.spotify.com/track/1awytjc79cueIqbstbKvDf) | [The Beths](https://open.spotify.com/artist/7DjwIxbe8kpw4pqnzAMoin) | [Jump Rope Gazers](https://open.spotify.com/album/4MJqiRxj9jMveL9TxyE3Ji) | 5:12 | 2022-05-20 | 2023-04-30 |
 | [Jump Rope Gazers](https://open.spotify.com/track/2w2WcIt1pfpoDcFLf46lHN) | [The Beths](https://open.spotify.com/artist/7DjwIxbe8kpw4pqnzAMoin) | [Jump Rope Gazers](https://open.spotify.com/album/5rwWTJEIAyzBbRjEU0BTfA) | 5:12 | 2021-11-14 | 2022-07-29 |
-| [Jump Rope Gazers](https://open.spotify.com/track/5oyrl5VF5W6vu5vDNW57Kp) | [The Beths](https://open.spotify.com/artist/7DjwIxbe8kpw4pqnzAMoin) | [Jump Rope Gazers](https://open.spotify.com/album/08RHgulG8GrXeC9Igz1Rcx) | 5:12 | 2023-04-28 |  |
+| [Jump Rope Gazers](https://open.spotify.com/track/5oyrl5VF5W6vu5vDNW57Kp) | [The Beths](https://open.spotify.com/artist/7DjwIxbe8kpw4pqnzAMoin) | [Jump Rope Gazers](https://open.spotify.com/album/08RHgulG8GrXeC9Igz1Rcx) | 5:12 | 2023-04-28 | 2023-05-20 |
 | [Jupiter 4](https://open.spotify.com/track/64BirkPW9F4XgzoLAiOBCP) | [Sharon Van Etten](https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe) | [Jupiter 4](https://open.spotify.com/album/0UkCoXyPVWTtMy0V20cZVo) | 5:14 | 2021-11-14 | 2022-07-26 |
 | [Jupiter 4](https://open.spotify.com/track/74n118P9h9Sz2AwDSc3f8N) | [Sharon Van Etten](https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe) | [Remind Me Tomorrow](https://open.spotify.com/album/4bfvR9TMwCm2tzXpboLH3t) | 5:14 | 2022-05-20 |  |
 | [Just For Love](https://open.spotify.com/track/6wQeNdJeBm6QCQQNIkQhd8) | [Bully](https://open.spotify.com/artist/34LdbFt5sVXKTJOzf1iExQ) | [Just For Love](https://open.spotify.com/album/3TEdTmkLHGGEpmpzbgV0Js) | 3:17 | 2021-12-10 | 2022-05-10 |

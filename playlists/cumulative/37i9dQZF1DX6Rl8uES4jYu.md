@@ -4,7 +4,7 @@
 
 > This fun, upbeat playlist will help get you up and ready to start your day!
 
-377 songs - 21 hr 23 min
+378 songs - 21 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -306,6 +306,7 @@
 | [Stuck In The Middle](https://open.spotify.com/track/51vIyYq0fS8oZbIX0jGwuX) | [Conor Albert](https://open.spotify.com/artist/0zJjil03QRbxSliMkw230M), [ELSAS](https://open.spotify.com/artist/3DXu8CSVepHWKsHHMMOuEo) | [Collage 2](https://open.spotify.com/album/2FTiYTP7AkfFehikQoGatR) | 3:12 | 2022-04-29 | 2022-07-29 |
 | [Stuck In The Middle](https://open.spotify.com/track/7zu4F2AtCvns6DINJCJ5AM) | [Conor Albert](https://open.spotify.com/artist/0zJjil03QRbxSliMkw230M), [ELSAS](https://open.spotify.com/artist/3DXu8CSVepHWKsHHMMOuEo) | [Collage 2](https://open.spotify.com/album/7wmtYbwBMDpk0ie1aSUdm4) | 3:12 | 2022-05-06 |  |
 | [Stuck!](https://open.spotify.com/track/2bCxs0Arx9MPoqtswwMTAB) | [Erez Zobary](https://open.spotify.com/artist/7CIDRraBIHz8BenhnkJGnz) | [Stuck!](https://open.spotify.com/album/26zrjITVdBdjA0B6NMordJ) | 2:57 | 2023-03-31 |  |
+| [Studio 54](https://open.spotify.com/track/20blT6R5DJhfrk9c16lQ4E) | [Young Franco](https://open.spotify.com/artist/6mK0vAO13gT8jWYANyoXAl), [Leyla Blue](https://open.spotify.com/artist/6HpIVA13SPof8sYuXRUfxj), [Jafunk](https://open.spotify.com/artist/5KtUig38eqxK2rOtHZnz0k) | [Studio 54](https://open.spotify.com/album/5eqNUuxFHel3GEUPeaaFbv) | 2:46 | 2023-05-19 |  |
 | [Sugar Sweet](https://open.spotify.com/track/5ZzaQW3InamKZ0KdJVQ1GO) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [Sugar Sweet](https://open.spotify.com/album/6h8eeLIwHI3VhP0GAorO3c) | 2:49 | 2023-03-03 |  |
 | [Summertime Shine](https://open.spotify.com/track/2sc6ybY6Y6tbKw5TQ89TUu) | [MIKNNA](https://open.spotify.com/artist/53htGvuREf9YT5LYk5HEvb) | [Summertime Shine](https://open.spotify.com/album/0UzT74w3LMM1fzf563H7c9) | 3:58 | 2020-11-13 | 2022-02-14 |
 | [Sunny Days](https://open.spotify.com/track/57sInFXtiUWZvj2oxtAf0A) | [Allen Stone](https://open.spotify.com/artist/536osqBGKzeozje8BfcGsa) | [Building Balance](https://open.spotify.com/album/2vExIljZtXXu7wRRENGGwy) | 3:10 | 2020-11-13 | 2022-03-23 |
@@ -326,7 +327,7 @@
 | [THE SUN SHINES SO BRIGHT WITH YOU](https://open.spotify.com/track/3jJF4tK7hDS5MBRHyVns0V) | [ROMderful](https://open.spotify.com/artist/3Aum3IcJEKuGsWVPBZnvyU) | [THE SUN SHINES SO BRIGHT WITH YOU](https://open.spotify.com/album/0NlU3SdIMDeuWXbxaxlBNu) | 2:52 | 2020-11-13 | 2022-03-19 |
 | [The Sweetest Thing](https://open.spotify.com/track/4jDAQRLExhzT6CEmo0nucu) | [PJ Morton](https://open.spotify.com/artist/2FMOHE79X98yptp4RpPrt7) | [The Sweetest Thing](https://open.spotify.com/album/5BIpgoq1dFvuTLcKRDbD09) | 4:35 | 2023-05-12 |  |
 | [The Thrill Is Gone.](https://open.spotify.com/track/0OY4O9PuW7A5fbI2o90WA8) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [Escapism\. / The Thrill Is Gone.](https://open.spotify.com/album/3omkMn8vbTKOebb9ABbqyb) | 3:19 | 2023-02-03 | 2023-04-16 |
-| [The Thrill Is Gone.](https://open.spotify.com/track/5eVG50IlyjSevPsWnSI76r) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [My 21st Century Blues](https://open.spotify.com/album/3U8n8LzBx2o9gYXvvNq4uH) | 3:19 | 2023-02-17 |  |
+| [The Thrill Is Gone.](https://open.spotify.com/track/5eVG50IlyjSevPsWnSI76r) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [My 21st Century Blues](https://open.spotify.com/album/3U8n8LzBx2o9gYXvvNq4uH) | 3:19 | 2023-02-17 | 2023-05-20 |
 | [The Two of Us](https://open.spotify.com/track/24i3ftE5sMEGsGtclPQPSc) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Apolonio](https://open.spotify.com/album/7HlxxaJOHK0ArY4Ae4Qfc7) | 2:32 | 2020-11-13 | 2022-01-15 |
 | [The Way](https://open.spotify.com/track/63fsY7TeTPnj71W1kRrzxc) | [Orgone](https://open.spotify.com/artist/4WmMnGO1nLIsE85XwcBAZE) | [The Way](https://open.spotify.com/album/69aZjluFIQ5I1QMm1mwOxx) | 4:25 | 2021-04-30 | 2022-04-21 |
 | [The Wheel](https://open.spotify.com/track/6Mm7nCTVVduH0uehfNfITB) | [Midas Hutch](https://open.spotify.com/artist/3sN7A6NULbpDrV5bAD9B6g), [Reva DeVito](https://open.spotify.com/artist/00jACgDWIBdPM4eH8nORwz) | [The Wheel](https://open.spotify.com/album/3YnQLqCzYIh8wJJtxYQit6) | 3:20 | 2021-09-21 | 2022-07-23 |

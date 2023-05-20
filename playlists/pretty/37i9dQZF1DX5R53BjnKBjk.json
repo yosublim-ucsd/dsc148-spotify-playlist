@@ -1,12 +1,12 @@
 {
   "description": "Uma sele\u00e7\u00e3o de novos artistas da cena brasileira que voc\u00ea precisa conhecer.  Foto: Dani-Vie / Arte: Isu Kim",
-  "num_followers": 16455,
+  "num_followers": 16469,
   "original_name": "Fresh Finds Brasil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwZjA5MjdjZTdjMDg1OTYyNGNlODkzNTNjZTVjZWU2ZGMxNTkwOTVk",
+  "snapshot_id": "MCxjZDJlNmJlODRkYzIyNzY1ZWQzNjRlNmMyMTFmNWVhN2EyOGRkOWQx",
   "tracks": [
     {
       "added_at": "2023-05-12 03:03:00",
@@ -231,22 +231,6 @@
     {
       "added_at": "2023-05-12 03:03:00",
       "album": {
-        "name": "Aquino e a Orquestra Invis\u00edvel",
-        "url": "https://open.spotify.com/album/39FjAAoFhZFSZhyl63dlqe"
-      },
-      "artists": [
-        {
-          "name": "Aquino e a Orquestra Invis\u00edvel",
-          "url": "https://open.spotify.com/artist/52fjZORhR21B9pR9kORRTA"
-        }
-      ],
-      "duration_ms": 173880,
-      "name": "MTV",
-      "url": "https://open.spotify.com/track/33fnVp55zYGLfhWBgl2j9O"
-    },
-    {
-      "added_at": "2023-05-12 03:03:00",
-      "album": {
         "name": "Foi Mal",
         "url": "https://open.spotify.com/album/1IjwOJro5gMK3gNIhbBTXD"
       },
@@ -259,6 +243,22 @@
       "duration_ms": 191826,
       "name": "foda que ela era linda",
       "url": "https://open.spotify.com/track/1pGKEGUMYsHhEdKnE6itcZ"
+    },
+    {
+      "added_at": "2023-05-12 03:03:00",
+      "album": {
+        "name": "Aquino e a Orquestra Invis\u00edvel",
+        "url": "https://open.spotify.com/album/39FjAAoFhZFSZhyl63dlqe"
+      },
+      "artists": [
+        {
+          "name": "Aquino e a Orquestra Invis\u00edvel",
+          "url": "https://open.spotify.com/artist/52fjZORhR21B9pR9kORRTA"
+        }
+      ],
+      "duration_ms": 173880,
+      "name": "MTV",
+      "url": "https://open.spotify.com/track/33fnVp55zYGLfhWBgl2j9O"
     },
     {
       "added_at": "2023-05-12 03:03:00",
@@ -359,6 +359,22 @@
     {
       "added_at": "2023-05-12 03:03:00",
       "album": {
+        "name": "Do Meu Lado",
+        "url": "https://open.spotify.com/album/45iKCg1I829ixWrJXdpHeX"
+      },
+      "artists": [
+        {
+          "name": "Veni",
+          "url": "https://open.spotify.com/artist/6NPLv8VA9rs9EEhGxHDmzl"
+        }
+      ],
+      "duration_ms": 151187,
+      "name": "Do Meu Lado",
+      "url": "https://open.spotify.com/track/2rUCHGrLFPALCz3jvmSj7p"
+    },
+    {
+      "added_at": "2023-05-12 03:03:00",
+      "album": {
         "name": "Noite Passada",
         "url": "https://open.spotify.com/album/44XRxT09VtGgaBQcIBHMiU"
       },
@@ -375,18 +391,18 @@
     {
       "added_at": "2023-05-12 03:03:00",
       "album": {
-        "name": "Do Meu Lado",
-        "url": "https://open.spotify.com/album/45iKCg1I829ixWrJXdpHeX"
+        "name": "Embalo",
+        "url": "https://open.spotify.com/album/624MHrTakiCB7vJ6hEFSnJ"
       },
       "artists": [
         {
-          "name": "Veni",
-          "url": "https://open.spotify.com/artist/6NPLv8VA9rs9EEhGxHDmzl"
+          "name": "TIRI",
+          "url": "https://open.spotify.com/artist/2biikdsPdw63klSogoB5Ab"
         }
       ],
-      "duration_ms": 151187,
-      "name": "Do Meu Lado",
-      "url": "https://open.spotify.com/track/2rUCHGrLFPALCz3jvmSj7p"
+      "duration_ms": 201231,
+      "name": "Embalo",
+      "url": "https://open.spotify.com/track/0v4oVq2rcPisPB7rVzl78c"
     },
     {
       "added_at": "2023-05-12 03:03:00",
@@ -419,22 +435,6 @@
       "duration_ms": 179076,
       "name": "Ventilador",
       "url": "https://open.spotify.com/track/5pks7N1kfqxMjh44BktzGM"
-    },
-    {
-      "added_at": "2023-05-12 03:03:00",
-      "album": {
-        "name": "Embalo",
-        "url": "https://open.spotify.com/album/624MHrTakiCB7vJ6hEFSnJ"
-      },
-      "artists": [
-        {
-          "name": "TIRI",
-          "url": "https://open.spotify.com/artist/2biikdsPdw63klSogoB5Ab"
-        }
-      ],
-      "duration_ms": 201231,
-      "name": "Embalo",
-      "url": "https://open.spotify.com/track/0v4oVq2rcPisPB7rVzl78c"
     },
     {
       "added_at": "2023-05-12 03:03:00",
@@ -591,6 +591,22 @@
     {
       "added_at": "2023-05-12 03:03:00",
       "album": {
+        "name": "Madrugada",
+        "url": "https://open.spotify.com/album/4zntUGntUiylFop68gZFiw"
+      },
+      "artists": [
+        {
+          "name": "K\u00e9sia",
+          "url": "https://open.spotify.com/artist/1gZaDWPWgzRhSQA0Aui2m2"
+        }
+      ],
+      "duration_ms": 158985,
+      "name": "Madrugada",
+      "url": "https://open.spotify.com/track/3nnTMeA0kY49f4monAnGSq"
+    },
+    {
+      "added_at": "2023-05-12 03:03:00",
+      "album": {
         "name": "Voc\u00ea Sabe",
         "url": "https://open.spotify.com/album/0a7kpNIwzEw2tSJYKLdpgF"
       },
@@ -607,18 +623,18 @@
     {
       "added_at": "2023-05-12 03:03:00",
       "album": {
-        "name": "Madrugada",
-        "url": "https://open.spotify.com/album/4zntUGntUiylFop68gZFiw"
+        "name": "Quartinho",
+        "url": "https://open.spotify.com/album/5PTPiLCDT2NkdfNk6jHoUV"
       },
       "artists": [
         {
-          "name": "K\u00e9sia",
-          "url": "https://open.spotify.com/artist/1gZaDWPWgzRhSQA0Aui2m2"
+          "name": "Casali",
+          "url": "https://open.spotify.com/artist/7sPl7zsOqdfq2yrXDirwBQ"
         }
       ],
-      "duration_ms": 158985,
-      "name": "Madrugada",
-      "url": "https://open.spotify.com/track/3nnTMeA0kY49f4monAnGSq"
+      "duration_ms": 133000,
+      "name": "Quartinho",
+      "url": "https://open.spotify.com/track/0dPM34hzGW7EBf7BTzE4xE"
     },
     {
       "added_at": "2023-05-12 03:03:00",
@@ -683,22 +699,6 @@
       "duration_ms": 168293,
       "name": "4 Da Tarde",
       "url": "https://open.spotify.com/track/4qnnh8MopXJCqj8doN5dok"
-    },
-    {
-      "added_at": "2023-05-12 03:03:00",
-      "album": {
-        "name": "Quartinho",
-        "url": "https://open.spotify.com/album/5PTPiLCDT2NkdfNk6jHoUV"
-      },
-      "artists": [
-        {
-          "name": "Casali",
-          "url": "https://open.spotify.com/artist/7sPl7zsOqdfq2yrXDirwBQ"
-        }
-      ],
-      "duration_ms": 133000,
-      "name": "Quartinho",
-      "url": "https://open.spotify.com/track/0dPM34hzGW7EBf7BTzE4xE"
     },
     {
       "added_at": "2023-05-12 03:03:00",
@@ -1031,22 +1031,6 @@
     {
       "added_at": "2023-05-12 03:03:00",
       "album": {
-        "name": "Me Liga",
-        "url": "https://open.spotify.com/album/1ZqRWkRBnhqLkZyqAd3WiM"
-      },
-      "artists": [
-        {
-          "name": "GAROU\u00c1",
-          "url": "https://open.spotify.com/artist/4Nr9nS7QaeP4BMCxM35aMN"
-        }
-      ],
-      "duration_ms": 176398,
-      "name": "Me Liga",
-      "url": "https://open.spotify.com/track/2MqmSd72GK1oHKJeELAsAk"
-    },
-    {
-      "added_at": "2023-05-12 03:03:00",
-      "album": {
         "name": "Escuro (Remix)",
         "url": "https://open.spotify.com/album/1tK3lj7wpTaB6oyoedNL7T"
       },
@@ -1063,6 +1047,58 @@
       "duration_ms": 184557,
       "name": "Escuro - Remix",
       "url": "https://open.spotify.com/track/7ltk9pGQEWI7DqqY10nF9d"
+    },
+    {
+      "added_at": "2023-05-12 03:03:00",
+      "album": {
+        "name": "Me Liga",
+        "url": "https://open.spotify.com/album/1ZqRWkRBnhqLkZyqAd3WiM"
+      },
+      "artists": [
+        {
+          "name": "GAROU\u00c1",
+          "url": "https://open.spotify.com/artist/4Nr9nS7QaeP4BMCxM35aMN"
+        }
+      ],
+      "duration_ms": 176398,
+      "name": "Me Liga",
+      "url": "https://open.spotify.com/track/2MqmSd72GK1oHKJeELAsAk"
+    },
+    {
+      "added_at": "2023-05-12 03:03:00",
+      "album": {
+        "name": "Devaneios",
+        "url": "https://open.spotify.com/album/0phS3hYLWXplAnJ6iEqTJh"
+      },
+      "artists": [
+        {
+          "name": "Fraterna Trip",
+          "url": "https://open.spotify.com/artist/2qJbdrwX5dlARkvyea6FfL"
+        },
+        {
+          "name": "John",
+          "url": "https://open.spotify.com/artist/5ZKMbk9PmY14dHKhIViFlF"
+        }
+      ],
+      "duration_ms": 201137,
+      "name": "Devaneios",
+      "url": "https://open.spotify.com/track/1plbDctYNoH59WBmSxgLtL"
+    },
+    {
+      "added_at": "2023-05-12 03:03:00",
+      "album": {
+        "name": "Esse Jogo",
+        "url": "https://open.spotify.com/album/37SKpaMjIQ218gvKu5LzPt"
+      },
+      "artists": [
+        {
+          "name": "Thifany Kauany",
+          "url": "https://open.spotify.com/artist/7mvtn0JGTySq12EYXxyWuL"
+        }
+      ],
+      "duration_ms": 144742,
+      "name": "Esse Jogo",
+      "url": "https://open.spotify.com/track/33c34e6kbE9MfiJVaqZpOI"
     },
     {
       "added_at": "2023-05-12 03:03:00",
@@ -1087,22 +1123,6 @@
     {
       "added_at": "2023-05-12 03:03:00",
       "album": {
-        "name": "Esse Jogo",
-        "url": "https://open.spotify.com/album/37SKpaMjIQ218gvKu5LzPt"
-      },
-      "artists": [
-        {
-          "name": "Thifany Kauany",
-          "url": "https://open.spotify.com/artist/7mvtn0JGTySq12EYXxyWuL"
-        }
-      ],
-      "duration_ms": 144742,
-      "name": "Esse Jogo",
-      "url": "https://open.spotify.com/track/33c34e6kbE9MfiJVaqZpOI"
-    },
-    {
-      "added_at": "2023-05-12 03:03:00",
-      "album": {
         "name": "Jacquemus",
         "url": "https://open.spotify.com/album/7pL7EHos5wHLJPChNacH45"
       },
@@ -1115,26 +1135,6 @@
       "duration_ms": 153559,
       "name": "Jacquemus",
       "url": "https://open.spotify.com/track/3tWYqTOPHZjOdj2BBJjVR6"
-    },
-    {
-      "added_at": "2023-05-12 03:03:00",
-      "album": {
-        "name": "Devaneios",
-        "url": "https://open.spotify.com/album/0phS3hYLWXplAnJ6iEqTJh"
-      },
-      "artists": [
-        {
-          "name": "Fraterna Trip",
-          "url": "https://open.spotify.com/artist/2qJbdrwX5dlARkvyea6FfL"
-        },
-        {
-          "name": "John",
-          "url": "https://open.spotify.com/artist/5ZKMbk9PmY14dHKhIViFlF"
-        }
-      ],
-      "duration_ms": 201137,
-      "name": "Devaneios",
-      "url": "https://open.spotify.com/track/1plbDctYNoH59WBmSxgLtL"
     },
     {
       "added_at": "2023-05-12 03:03:00",

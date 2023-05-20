@@ -16,7 +16,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 225053,
       "name": "Abajo y a la Izquierda",
       "url": "https://open.spotify.com/track/3AQbm1gIpyyqIV1MSyERkE"
@@ -472,7 +472,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 226760,
       "name": "Como Te Extra\u00f1o",
       "url": "https://open.spotify.com/track/0ObAdS3tZTk8rcutC67rlR"
@@ -544,7 +544,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 287066,
       "name": "Como Un Sol",
       "url": "https://open.spotify.com/track/0Zd2UPtm7sy0nQd2U6kRoz"
@@ -562,7 +562,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 209053,
       "name": "Condenado a Muerte",
       "url": "https://open.spotify.com/track/3p3NU6zPzsAxYSwDufIjWL"
@@ -638,7 +638,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 221640,
       "name": "C\u00farame",
       "url": "https://open.spotify.com/track/2X8Dc7hJwv3gb9cCbgu1zH"
@@ -732,7 +732,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 296355,
       "name": "El Dejado",
       "url": "https://open.spotify.com/track/1SLeMtVgr6TJMmuPjCPgxv"
@@ -956,7 +956,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 205933,
       "name": "Esta Noche",
       "url": "https://open.spotify.com/track/3k7QtSyXq3lbv51kaFwzMB"
@@ -1122,6 +1122,24 @@
       "duration_ms": 252272,
       "name": "Gata bajo la lluvia",
       "url": "https://open.spotify.com/track/0J2iP4xkhj6ZlQQ4mKndON"
+    },
+    {
+      "album": {
+        "name": "Humanidad",
+        "url": "https://open.spotify.com/album/1mPrv36x0YIpoMvOPq8KWx"
+      },
+      "artists": [
+        {
+          "name": "Delirio de Persecuci\u00f3n",
+          "url": "https://open.spotify.com/artist/6vqDz3oLUoF0HWhWoYWW6p"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155469,
+      "name": "Humanidad",
+      "url": "https://open.spotify.com/track/2rcV9YNXMA0LaVAOLA2aBq"
     },
     {
       "album": {
@@ -2076,7 +2094,7 @@
       ],
       "date_added": "2022-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 258853,
       "name": "Otra Vez",
       "url": "https://open.spotify.com/track/0nOtNlhNtInuUptmnjJtUs"
@@ -2192,7 +2210,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 246840,
       "name": "Peque\u00f1o Tratado de un Adi\u00f3s",
       "url": "https://open.spotify.com/track/2eAAwvxPdqDchQ1DBSdZNe"
@@ -2240,6 +2258,28 @@
       "duration_ms": 156820,
       "name": "Polic\u00eda",
       "url": "https://open.spotify.com/track/1p6i8vzd6P2UNtVsiyKKyo"
+    },
+    {
+      "album": {
+        "name": "Psic\u00f3tico",
+        "url": "https://open.spotify.com/album/1EqLEKvEuAyL0oZqYcBHVP"
+      },
+      "artists": [
+        {
+          "name": "Timo Pacheco",
+          "url": "https://open.spotify.com/artist/1MKcc3IUoKOJFhoJ59wKWl"
+        },
+        {
+          "name": "Dr. Shenka",
+          "url": "https://open.spotify.com/artist/1RmxwlZ0O7vosdy4GL9BHu"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176750,
+      "name": "Psic\u00f3tico",
+      "url": "https://open.spotify.com/track/2UIKtXDPfydvJTQunrum7H"
     },
     {
       "album": {
@@ -2488,7 +2528,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 203866,
       "name": "Ska Voovee Boobie Baby",
       "url": "https://open.spotify.com/track/5Eq47jirNdRQFGilmUJMVe"

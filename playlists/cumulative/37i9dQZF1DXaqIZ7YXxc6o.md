@@ -4,7 +4,7 @@
 
 > Future Dance hits\. Cover: Kinder
 
-758 songs - 1 day 17 hr 56 min
+760 songs - 1 day 18 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -521,6 +521,7 @@
 | [Promises](https://open.spotify.com/track/7khZGQavMcaIdzhBngeCsR) | [London Topaz](https://open.spotify.com/artist/2QNu1AjQAl2trTfbVMovyd), [Zoe A'dore](https://open.spotify.com/artist/3LGngRo9kg4ETVaiRQ0ZgY) | [Promises](https://open.spotify.com/album/5fijU3pd1HS8czWwuwJaaX) | 3:53 | 2023-03-23 | 2023-04-14 |
 | [Protocol](https://open.spotify.com/track/02owX0PUSKGXw4tMPaUw56) | [Le Youth](https://open.spotify.com/artist/1Zz6NBe8UIZjm88TvehFtx), [Hessian](https://open.spotify.com/artist/3LOXsWYvJPnBVnQzCquxAs), [Able Joseph](https://open.spotify.com/artist/0djvjweduXm6AxFgwcznq8) | [Protocol](https://open.spotify.com/album/63bCCxFIIh6Jczs5jAaM3m) | 4:15 | 2023-03-31 | 2023-04-21 |
 | [Proxy](https://open.spotify.com/track/50Ey3cTjasOfwAvWuIhIZZ) | [JaySounds](https://open.spotify.com/artist/7Cye4LP81AKTIKgABMgmUY), [Tim Light](https://open.spotify.com/artist/3B7gh63KbpVYSWUHRH3f1W) | [Proxy](https://open.spotify.com/album/5rjqvg4Xbn1Z0ILcv3GEDn) | 2:59 | 2023-04-27 | 2023-05-19 |
+| [Pub Marge \- Original Mix](https://open.spotify.com/track/140EwvWqRdWL3CO3Kt7W4l) | [Cut Snake](https://open.spotify.com/artist/5z7jsdhxqvsOxzZxfVF236) | [Pub Marge EP](https://open.spotify.com/album/5wyl0e0xiszpoYxxI2faQG) | 4:50 | 2023-05-18 |  |
 | [Push To Start \(feat\. No/Me\)](https://open.spotify.com/track/6t4VHEcJ7Kek9pgGHlDp6R) | [Noizu](https://open.spotify.com/artist/3VRyybsQu0MDG0F2LBxnv7), [Westend](https://open.spotify.com/artist/4epc3Bd0DOBA0kDywkRAsu), [No/Me](https://open.spotify.com/artist/4L0It80jhQQKMTU2r02nkL) | [Push To Start \(feat\. No/Me\)](https://open.spotify.com/album/5kbNGOCcd1B1nxU1y1Mizb) | 3:01 | 2023-02-23 | 2023-03-18 |
 | [Push Up \- Original Mix](https://open.spotify.com/track/0pfP5XgWsu3uDB6NygGBEq) | [Creeds](https://open.spotify.com/artist/2gW0M5fn2r7Lo4Hn1r8HZ5) | [Push Up EP](https://open.spotify.com/album/78XpOkI7hXvDvO0prSJJ4b) | 4:00 | 2023-01-23 | 2023-02-10 |
 | [Que Dolor](https://open.spotify.com/track/3MaJDRWkvX2SxNF1v8DoUR) | [INNA](https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8) | [Just Dance \#DQH2](https://open.spotify.com/album/5a4impdkoCNcyhc42qervc) | 2:24 | 2023-04-13 | 2023-05-05 |
@@ -615,7 +616,8 @@
 | [Spinning Around](https://open.spotify.com/track/3Td9NXZeaPCiyTHlAS7xuK) | [Jolyon Petch](https://open.spotify.com/artist/00Ja3YjvU4DYCHWt6cPs42) | [Spinning Around](https://open.spotify.com/album/2JDuYS1ljf3Hlf5aPrH8Eg) | 2:41 | 2023-02-09 | 2023-03-10 |
 | [Spinning Around \- PBH & JACK Remix](https://open.spotify.com/track/1kMDZ1a9DF7Fb3btINc004) | [Jolyon Petch](https://open.spotify.com/artist/00Ja3YjvU4DYCHWt6cPs42), [PBH & JACK](https://open.spotify.com/artist/5WzFz4sQSN1HgSZLmIgHBl) | [Spinning Around \(PBH & JACK Remix\)](https://open.spotify.com/album/7lXfDavGfCWlb7fHflGPAg) | 2:54 | 2023-03-16 | 2023-04-14 |
 | [Spiral](https://open.spotify.com/track/7vZljGVTICUWEsgCjwZBWW) | [Zaerd](https://open.spotify.com/artist/3FKsmekOtx5vmiE9lSbjLU) | [Spiral](https://open.spotify.com/album/7CK6fB1AXmH0aKv1UjM6qd) | 3:38 | 2023-01-05 | 2023-02-03 |
-| [Stars](https://open.spotify.com/track/2fNaMBJBFpv1PQ1zXkxIcO) | [PNAU](https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u), [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [Stars](https://open.spotify.com/album/2Ow9GPsc5afUdPrLZBT6Uo) | 2:51 | 2023-05-18 |  |
+| [Stars](https://open.spotify.com/track/2fNaMBJBFpv1PQ1zXkxIcO) | [PNAU](https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u), [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [Stars](https://open.spotify.com/album/2Ow9GPsc5afUdPrLZBT6Uo) | 2:51 | 2023-05-18 | 2023-05-20 |
+| [Stars](https://open.spotify.com/track/3mC64Smtz0xXvsa52ZM3Q9) | [PNAU](https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u), [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [Stars](https://open.spotify.com/album/05fkFs9DM4TpNGaDotqF8O) | 2:51 | 2023-05-18 |  |
 | [Start Again](https://open.spotify.com/track/4NFP9BisldiRsA0G0fknHN) | [Dual Manner](https://open.spotify.com/artist/5PwyPUA68oTVythcReHzXy) | [Start Again](https://open.spotify.com/album/6hRsRlRcF2Rk8mkDBmCYz4) | 3:28 | 2023-01-12 | 2023-02-03 |
 | [Stay A Little Longer](https://open.spotify.com/track/3r9RtXj216zntRikvgQdkK) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg), [DubVision](https://open.spotify.com/artist/3XINWZaloea97SIRiyTJxX), [Philip Strand](https://open.spotify.com/artist/1hII0FUxBvpT7bnuS7TQ6q) | [Stay A Little Longer](https://open.spotify.com/album/0auaYrAblTDxnAeU1Ggdav) | 3:31 | 2022-12-08 | 2023-01-13 |
 | [Step 1 \(feat\. Open Till L8\)](https://open.spotify.com/track/3ro78yagTWYllt0zgFfSxC) | [KAHUKX](https://open.spotify.com/artist/3OkbxDtag6zvVnAaa9YLLC), [Open Till L8](https://open.spotify.com/artist/6niasBrBbbzrUe7iWT6swJ) | [Step 1 \(feat\. Open Till L8\)](https://open.spotify.com/album/69uzhRvY6bEMIFl4j2SAce) | 2:06 | 2022-12-08 | 2023-01-13 |

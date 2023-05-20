@@ -1,12 +1,12 @@
 {
   "description": "the pearls of an oyster.",
-  "num_followers": 121550,
+  "num_followers": 121579,
   "original_name": "Oyster",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkNmVhZDg3Mzc4ODVkM2YyYzM1NWQ2ODg0NGI1Nzc4NDQ4NjZhZmE0",
+  "snapshot_id": "MCwzNmExZWRmMjU5MDc4M2NmZmU3MjI3ZTZlOGI3MzNhODY1MjIyMmU3",
   "tracks": [
     {
       "added_at": "2023-05-18 22:00:00",
@@ -23,6 +23,26 @@
       "duration_ms": 178454,
       "name": "Super 8",
       "url": "https://open.spotify.com/track/0PKtiwZX73i0TedkfDH7qs"
+    },
+    {
+      "added_at": "2023-05-18 22:00:00",
+      "album": {
+        "name": "CLEAR 2: SOFT LIFE EP",
+        "url": "https://open.spotify.com/album/034Q9kY3buGcizT3Xpj9Re"
+      },
+      "artists": [
+        {
+          "name": "Summer Walker",
+          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
+        },
+        {
+          "name": "Childish Gambino",
+          "url": "https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL"
+        }
+      ],
+      "duration_ms": 265906,
+      "name": "New Type (feat. Childish Gambino)",
+      "url": "https://open.spotify.com/track/35PofXWEoF8DnGTA1SIuyJ"
     },
     {
       "added_at": "2023-05-18 22:00:00",
@@ -60,7 +80,7 @@
           "url": "https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu"
         }
       ],
-      "duration_ms": 123620,
+      "duration_ms": 118436,
       "name": "Rebuke",
       "url": "https://open.spotify.com/track/4XE1StBll9KcNa8nHa3nXG"
     },

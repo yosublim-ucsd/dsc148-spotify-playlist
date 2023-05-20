@@ -1,12 +1,12 @@
 {
   "description": "Le meilleur du rap fran\u00e7ais version cloud. Photo : So La Lune",
-  "num_followers": 347737,
+  "num_followers": 347789,
   "original_name": "Cloud Rap",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzZWZlMzA3YmY0Y2JkYTc2NzcwNTVhYjgxNTYwYTk4OGJjODNkMDkx",
+  "snapshot_id": "MCw4Zjc1NWE5MGNhMDAxNzI2NGFhY2YxYWU5NjExZGUxMDNhMGI1MTEw",
   "tracks": [
     {
       "added_at": "2023-05-18 22:01:00",
@@ -319,17 +319,21 @@
     {
       "added_at": "2023-05-18 22:01:00",
       "album": {
-        "name": "BB APPREND-MOI \u00c0 FERMER LES YEUX",
+        "name": "BB APPRENDS-MOI \u00c0 FERMER LES YEUX",
         "url": "https://open.spotify.com/album/0DV620FQXLPrwCuCq7S1Oy"
       },
       "artists": [
         {
           "name": "Sovajon",
           "url": "https://open.spotify.com/artist/41XEyClazvR6Ao77iD8qex"
+        },
+        {
+          "name": "Isma",
+          "url": "https://open.spotify.com/artist/43HCKjfq0p8VwJo3LSs7H7"
         }
       ],
       "duration_ms": 190000,
-      "name": "BB APPREND-MOI \u00c0 FERMER LES YEUX",
+      "name": "BB APPRENDS-MOI \u00c0 FERMER LES YEUX",
       "url": "https://open.spotify.com/track/2fMsWuZwPOHzQubX1otzO2"
     },
     {

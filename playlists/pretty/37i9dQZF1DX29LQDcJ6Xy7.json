@@ -1,12 +1,12 @@
 {
   "description": "A collection of Industrial Metal \u2013 fresh and old tunes. Cover: Rammstein",
-  "num_followers": 278017,
+  "num_followers": 278316,
   "original_name": "Industrial Metal",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjMDA4YjQxZDc1ZTllYTJmNjQ4ZjYzN2JlZjQ4MjE5Y2U3ZDRmZjk3",
+  "snapshot_id": "MCxiOThlNWQ1ZGFjM2ExZjQ0NGM0ODk5NTJjMzI3NGI4MjI5ZGI1MGY1",
   "tracks": [
     {
       "added_at": "2023-05-05 05:09:11",
@@ -751,6 +751,22 @@
     {
       "added_at": "2023-05-05 05:09:11",
       "album": {
+        "name": "Angst",
+        "url": "https://open.spotify.com/album/6We2VFbkhbRCQNX7Vud8aY"
+      },
+      "artists": [
+        {
+          "name": "KMFDM",
+          "url": "https://open.spotify.com/artist/3V4IvzRQYP5mzuVtkcHgVa"
+        }
+      ],
+      "duration_ms": 215000,
+      "name": "A Drug Against War",
+      "url": "https://open.spotify.com/track/0jHmidMFTjOSkzuHrNepY7"
+    },
+    {
+      "added_at": "2023-05-05 05:09:11",
+      "album": {
         "name": "DISCO4 :: PART II",
         "url": "https://open.spotify.com/album/4pk3IXbfaU0cK7oHuEdbEJ"
       },
@@ -767,22 +783,6 @@
       "duration_ms": 314720,
       "name": "ISN\u2019T EVERYONE",
       "url": "https://open.spotify.com/track/7Kx1m2vb4QPgHKVKvpvrFv"
-    },
-    {
-      "added_at": "2023-05-05 05:09:11",
-      "album": {
-        "name": "Angst",
-        "url": "https://open.spotify.com/album/6We2VFbkhbRCQNX7Vud8aY"
-      },
-      "artists": [
-        {
-          "name": "KMFDM",
-          "url": "https://open.spotify.com/artist/3V4IvzRQYP5mzuVtkcHgVa"
-        }
-      ],
-      "duration_ms": 215000,
-      "name": "A Drug Against War",
-      "url": "https://open.spotify.com/track/0jHmidMFTjOSkzuHrNepY7"
     },
     {
       "added_at": "2023-05-05 05:09:11",
@@ -851,18 +851,18 @@
     {
       "added_at": "2023-05-05 05:09:11",
       "album": {
-        "name": "Lakes of Flame",
-        "url": "https://open.spotify.com/album/5A4ZdUmMA5vY0DAjvKWqHk"
+        "name": "HY\u00cbNA",
+        "url": "https://open.spotify.com/album/3S4k4I4hvcCiLExpGaSPUa"
       },
       "artists": [
         {
-          "name": "Blue Stahli",
-          "url": "https://open.spotify.com/artist/4DWnSG0RYPAds8EIKY26q3"
+          "name": "KMFDM",
+          "url": "https://open.spotify.com/artist/3V4IvzRQYP5mzuVtkcHgVa"
         }
       ],
-      "duration_ms": 218203,
-      "name": "Lakes of Flame",
-      "url": "https://open.spotify.com/track/0PAR95bj6egxPtdzMkgFEU"
+      "duration_ms": 302940,
+      "name": "HY\u00cbNA",
+      "url": "https://open.spotify.com/track/2mPYdoSr3T9VLi94oV7ob5"
     },
     {
       "added_at": "2023-05-05 05:09:11",
@@ -883,18 +883,18 @@
     {
       "added_at": "2023-05-05 05:09:11",
       "album": {
-        "name": "The Crow Original Motion Picture Soundtrack",
-        "url": "https://open.spotify.com/album/3y7Mwv7UqhABQqsGlzSL6n"
+        "name": "Lakes of Flame",
+        "url": "https://open.spotify.com/album/5A4ZdUmMA5vY0DAjvKWqHk"
       },
       "artists": [
         {
-          "name": "Machines Of Loving Grace",
-          "url": "https://open.spotify.com/artist/7p8Z7MmqMYCa7ZKQKxRBKO"
+          "name": "Blue Stahli",
+          "url": "https://open.spotify.com/artist/4DWnSG0RYPAds8EIKY26q3"
         }
       ],
-      "duration_ms": 240159,
-      "name": "Golgotha Tenement Blues",
-      "url": "https://open.spotify.com/track/20yvxFLMl0n4nvrDaqZ6ol"
+      "duration_ms": 218203,
+      "name": "Lakes of Flame",
+      "url": "https://open.spotify.com/track/0PAR95bj6egxPtdzMkgFEU"
     },
     {
       "added_at": "2023-05-05 05:09:11",
@@ -931,18 +931,18 @@
     {
       "added_at": "2023-05-05 05:09:11",
       "album": {
-        "name": "HY\u00cbNA",
-        "url": "https://open.spotify.com/album/3S4k4I4hvcCiLExpGaSPUa"
+        "name": "The Crow Original Motion Picture Soundtrack",
+        "url": "https://open.spotify.com/album/3y7Mwv7UqhABQqsGlzSL6n"
       },
       "artists": [
         {
-          "name": "KMFDM",
-          "url": "https://open.spotify.com/artist/3V4IvzRQYP5mzuVtkcHgVa"
+          "name": "Machines Of Loving Grace",
+          "url": "https://open.spotify.com/artist/7p8Z7MmqMYCa7ZKQKxRBKO"
         }
       ],
-      "duration_ms": 302940,
-      "name": "HY\u00cbNA",
-      "url": "https://open.spotify.com/track/2mPYdoSr3T9VLi94oV7ob5"
+      "duration_ms": 240159,
+      "name": "Golgotha Tenement Blues",
+      "url": "https://open.spotify.com/track/20yvxFLMl0n4nvrDaqZ6ol"
     },
     {
       "added_at": "2023-05-05 05:09:11",
@@ -1043,6 +1043,22 @@
     {
       "added_at": "2023-05-05 05:09:11",
       "album": {
+        "name": "Satellites",
+        "url": "https://open.spotify.com/album/4OgyvunD0wEwor26qFeXr0"
+      },
+      "artists": [
+        {
+          "name": "Celldweller",
+          "url": "https://open.spotify.com/artist/4BKyei61gtyDFxlKhcvBJJ"
+        }
+      ],
+      "duration_ms": 316701,
+      "name": "Into the Void",
+      "url": "https://open.spotify.com/track/2zAAXQbzIB5e2VpBiGI8SI"
+    },
+    {
+      "added_at": "2023-05-05 05:09:11",
+      "album": {
         "name": "Recoded",
         "url": "https://open.spotify.com/album/3vpzVxP7HSddMo2IOtgjLj"
       },
@@ -1059,22 +1075,6 @@
       "duration_ms": 344918,
       "name": "Hatred Will Prevail - Monolith Remix",
       "url": "https://open.spotify.com/track/7cborWFwmCpfEL1Qwnvwt0"
-    },
-    {
-      "added_at": "2023-05-05 05:09:11",
-      "album": {
-        "name": "Satellites",
-        "url": "https://open.spotify.com/album/4OgyvunD0wEwor26qFeXr0"
-      },
-      "artists": [
-        {
-          "name": "Celldweller",
-          "url": "https://open.spotify.com/artist/4BKyei61gtyDFxlKhcvBJJ"
-        }
-      ],
-      "duration_ms": 316701,
-      "name": "Into the Void",
-      "url": "https://open.spotify.com/track/2zAAXQbzIB5e2VpBiGI8SI"
     },
     {
       "added_at": "2023-05-05 05:09:11",
@@ -1343,22 +1343,6 @@
     {
       "added_at": "2023-05-05 05:09:11",
       "album": {
-        "name": "Fault Lines",
-        "url": "https://open.spotify.com/album/4lDCkCAcxuiQ3DNzoKVTu3"
-      },
-      "artists": [
-        {
-          "name": "IAMX",
-          "url": "https://open.spotify.com/artist/223iUzG0kb5V166FJP9ovD"
-        }
-      ],
-      "duration_ms": 263126,
-      "name": "Fault Lines",
-      "url": "https://open.spotify.com/track/18sPvpeqaxYwd8pZ5RNvDj"
-    },
-    {
-      "added_at": "2023-05-05 05:09:11",
-      "album": {
         "name": "Out For Blood",
         "url": "https://open.spotify.com/album/3x5nuvzBBCBsORW1Jrl0ZT"
       },
@@ -1371,22 +1355,6 @@
       "duration_ms": 220026,
       "name": "Out For Blood",
       "url": "https://open.spotify.com/track/3Lq6gNTGCu9SOChMq8ZZfY"
-    },
-    {
-      "added_at": "2023-05-05 05:09:11",
-      "album": {
-        "name": "Come Back to Life",
-        "url": "https://open.spotify.com/album/7auksAd2OUTBNWgYFTmHCx"
-      },
-      "artists": [
-        {
-          "name": "Lock The Basement",
-          "url": "https://open.spotify.com/artist/1zSnVk8QCuI5kAaNsfOQpi"
-        }
-      ],
-      "duration_ms": 208917,
-      "name": "Come Back to Life",
-      "url": "https://open.spotify.com/track/4D1ucjSLckZ74e0rUfdFMg"
     },
     {
       "added_at": "2023-05-05 05:09:11",
@@ -1407,6 +1375,22 @@
     {
       "added_at": "2023-05-05 05:09:11",
       "album": {
+        "name": "Fault Lines",
+        "url": "https://open.spotify.com/album/4lDCkCAcxuiQ3DNzoKVTu3"
+      },
+      "artists": [
+        {
+          "name": "IAMX",
+          "url": "https://open.spotify.com/artist/223iUzG0kb5V166FJP9ovD"
+        }
+      ],
+      "duration_ms": 263126,
+      "name": "Fault Lines",
+      "url": "https://open.spotify.com/track/18sPvpeqaxYwd8pZ5RNvDj"
+    },
+    {
+      "added_at": "2023-05-05 05:09:11",
+      "album": {
         "name": "A World Lit Only by Fire",
         "url": "https://open.spotify.com/album/1UbMFz1E6gcjrIvqohXoBk"
       },
@@ -1423,6 +1407,22 @@
     {
       "added_at": "2023-05-05 05:09:11",
       "album": {
+        "name": "Come Back to Life",
+        "url": "https://open.spotify.com/album/7auksAd2OUTBNWgYFTmHCx"
+      },
+      "artists": [
+        {
+          "name": "Lock The Basement",
+          "url": "https://open.spotify.com/artist/1zSnVk8QCuI5kAaNsfOQpi"
+        }
+      ],
+      "duration_ms": 208917,
+      "name": "Come Back to Life",
+      "url": "https://open.spotify.com/track/4D1ucjSLckZ74e0rUfdFMg"
+    },
+    {
+      "added_at": "2023-05-05 05:09:11",
+      "album": {
         "name": "Termination Bliss",
         "url": "https://open.spotify.com/album/4Ag57DqawdZcI8m6ns0zR7"
       },
@@ -1435,6 +1435,26 @@
       "duration_ms": 246160,
       "name": "Blitzkrieg",
       "url": "https://open.spotify.com/track/18JcWK7NWc3lNAt0H0UY28"
+    },
+    {
+      "added_at": "2023-05-05 05:09:11",
+      "album": {
+        "name": "Dirty Freddy (Remix)",
+        "url": "https://open.spotify.com/album/35Bpg8msjvP4B9vr5IayMy"
+      },
+      "artists": [
+        {
+          "name": "Extize",
+          "url": "https://open.spotify.com/artist/0P34y61dZnxYluCC6zLcmj"
+        },
+        {
+          "name": "Zardonic",
+          "url": "https://open.spotify.com/artist/7BqEidErPMNiUXCRE0dV2n"
+        }
+      ],
+      "duration_ms": 230400,
+      "name": "Dirty Freddy - Remix",
+      "url": "https://open.spotify.com/track/6UOjPbQUe9AArpIttGNFn2"
     },
     {
       "added_at": "2023-05-05 05:09:11",
@@ -1467,26 +1487,6 @@
       "duration_ms": 255133,
       "name": "Torpedoes",
       "url": "https://open.spotify.com/track/40Nz6mf4yuDeOW0sscIS63"
-    },
-    {
-      "added_at": "2023-05-05 05:09:11",
-      "album": {
-        "name": "Dirty Freddy (Remix)",
-        "url": "https://open.spotify.com/album/35Bpg8msjvP4B9vr5IayMy"
-      },
-      "artists": [
-        {
-          "name": "Extize",
-          "url": "https://open.spotify.com/artist/0P34y61dZnxYluCC6zLcmj"
-        },
-        {
-          "name": "Zardonic",
-          "url": "https://open.spotify.com/artist/7BqEidErPMNiUXCRE0dV2n"
-        }
-      ],
-      "duration_ms": 230400,
-      "name": "Dirty Freddy - Remix",
-      "url": "https://open.spotify.com/track/6UOjPbQUe9AArpIttGNFn2"
     },
     {
       "added_at": "2023-05-05 05:09:11",

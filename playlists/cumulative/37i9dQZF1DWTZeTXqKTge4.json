@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-10",
-  "description": "Le meilleur du hip-hop qu\u00e9b\u00e9cois. Photo: Souldia",
+  "description": "Le meilleur du hip-hop qu\u00e9b\u00e9cois. Photo: Alaclair Ensemble",
   "name": "Rap qu\u00e9b",
   "tracks": [
     {
@@ -3598,7 +3598,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 235328,
       "name": "Harry Potter",
       "url": "https://open.spotify.com/track/3eNknjtpGp0Su9Nx1VTvEE"
@@ -3624,6 +3624,24 @@
       "duration_ms": 216456,
       "name": "Highway",
       "url": "https://open.spotify.com/track/6sBWExHE8o9EPgl5qtouGf"
+    },
+    {
+      "album": {
+        "name": "Himalaya",
+        "url": "https://open.spotify.com/album/2vvmAj7sVdf02DxJ5hdcXW"
+      },
+      "artists": [
+        {
+          "name": "TJ DTS",
+          "url": "https://open.spotify.com/artist/5uns9i1LQsh6mxqXq1QeAe"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175500,
+      "name": "Himalaya",
+      "url": "https://open.spotify.com/track/51WRnt9Dazo5niBnnwSMTB"
     },
     {
       "album": {
@@ -3970,6 +3988,24 @@
       "duration_ms": 193175,
       "name": "IMPR\u00c9VU",
       "url": "https://open.spotify.com/track/1VzTSPhN4Rxxr0Snb6DeZp"
+    },
+    {
+      "album": {
+        "name": "Infr\u00e9quentable",
+        "url": "https://open.spotify.com/album/4nDCSy5NZBecRnBWr1LYiV"
+      },
+      "artists": [
+        {
+          "name": "DawaMafia",
+          "url": "https://open.spotify.com/artist/5yhoElw9gCKKsOAK1mmgHJ"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164078,
+      "name": "Infr\u00e9quentable",
+      "url": "https://open.spotify.com/track/0ia2udJLezbOmjorQpK6el"
     },
     {
       "album": {
@@ -5374,7 +5410,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 192800,
       "name": "No Lacking",
       "url": "https://open.spotify.com/track/2LccfY52m07v3pkxzHfxDM"
@@ -5772,7 +5808,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 171546,
       "name": "Pansements",
       "url": "https://open.spotify.com/track/744G65vSbCfEiibL52vfTP"
@@ -6891,6 +6927,24 @@
     },
     {
       "album": {
+        "name": "Sang Froid",
+        "url": "https://open.spotify.com/album/5ufrPxcD79aTPdpCwXClDz"
+      },
+      "artists": [
+        {
+          "name": "Joey G",
+          "url": "https://open.spotify.com/artist/6p9wdOS2uCLQqiYP1HYeJf"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161500,
+      "name": "Sang Froid",
+      "url": "https://open.spotify.com/track/7owsYlokP9KB5P5HuW5YlI"
+    },
+    {
+      "album": {
         "name": "Minuit sur le Quatre",
         "url": "https://open.spotify.com/album/3rLhtrpNtERjwS4SvkgBVL"
       },
@@ -6968,6 +7022,24 @@
       "duration_ms": 190849,
       "name": "Sans trembler",
       "url": "https://open.spotify.com/track/3HEdgzJeMkuX2MdVGqPRNK"
+    },
+    {
+      "album": {
+        "name": "Sauvetage",
+        "url": "https://open.spotify.com/album/1MAAoozfD8t7yMwJNlScOl"
+      },
+      "artists": [
+        {
+          "name": "Alaclair Ensemble",
+          "url": "https://open.spotify.com/artist/6qQ2if1od4FAg6ilAETwMG"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230953,
+      "name": "Sauvetage",
+      "url": "https://open.spotify.com/track/6yI6rMrzserdWx6h74mkf1"
     },
     {
       "album": {
@@ -7694,7 +7766,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 124459,
       "name": "Un seul roi",
       "url": "https://open.spotify.com/track/5DUEh6jFq13rek2tknux7u"
@@ -7821,6 +7893,24 @@
     },
     {
       "album": {
+        "name": "VIP",
+        "url": "https://open.spotify.com/album/4Z25aW3UYcbXW4KaWVPyP2"
+      },
+      "artists": [
+        {
+          "name": "Izuku",
+          "url": "https://open.spotify.com/artist/07nPO9PmOxJX3XXsCsVVW8"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151034,
+      "name": "VIP",
+      "url": "https://open.spotify.com/track/0XIsyR3ya9PkDvvB0y3gsP"
+    },
+    {
+      "album": {
         "name": "VISA",
         "url": "https://open.spotify.com/album/4d0dFmQM5ZYSQx0R7cUdxy"
       },
@@ -7886,7 +7976,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 177684,
       "name": "Voleur d'esprit",
       "url": "https://open.spotify.com/track/0joPetCA1uEmgBzkBjRVDQ"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4g8Gs5nUhpp.md) - [plain]
 
 > V\-Pop nở hoa trên những ca khúc này\. Ảnh bìa: HIEUTHUHAI
 
-[Spotify](https://open.spotify.com/user/spotify) - 151,320 likes - 55 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 151,409 likes - 55 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4g8Gs5nUhpp.md) - [plain]
 | 33 | [ThichThich](https://open.spotify.com/track/3wUp8eCTshIrJcYbjWaoyP) | [Phuong Ly](https://open.spotify.com/artist/5Kh0ta0UY4uJ4g2CIdq9V9) | [ThichThich](https://open.spotify.com/album/4AitP1QgqnYpEpx8KY07IA) | 4:01 |
 | 34 | [từ thích thích thành thương thương](https://open.spotify.com/track/1fh5Sf3fFESFOS8D82RQiI) | [AMEE](https://open.spotify.com/artist/2aQnC3DbZB9GbauvhAw7ve), [Hoàng Dũng](https://open.spotify.com/artist/6OzE2OdvV2tGAxSBsBuZ74) | [dreAMEE \(acoustic\)](https://open.spotify.com/album/7Aifj5a3xjW2k9E3sEREtV) | 3:24 |
 | 35 | [Thích Quá Rùi Nà](https://open.spotify.com/track/6jcG3yZ0e2CSI6omkYO1ut) | [tlinh](https://open.spotify.com/artist/3diftVOq7aEIebXKkC34oR), [Trung Trần](https://open.spotify.com/artist/2v14NO80QYditUms7sbEIZ) | [Thích Quá Rùi Nà](https://open.spotify.com/album/2Uejuvo8WwGMH3hUe8NGsO) | 2:58 |
-| 36 | [có hẹn với thanh xuân](https://open.spotify.com/track/0zCGKGZB5aySnQQSHWRGIT) | [MONSTAR](https://open.spotify.com/artist/2CLdtsyD2NsTOBBOVr7fi8) | [có hẹn với thanh xuân](https://open.spotify.com/album/6nhbul7dYBCe9NS0eGwN6L) | 3:38 |
+| 36 | [có hẹn với thanh xuân](https://open.spotify.com/track/0zCGKGZB5aySnQQSHWRGIT) | [MONSTAR](https://open.spotify.com/artist/2CLdtsyD2NsTOBBOVr7fi8), [GREY D](https://open.spotify.com/artist/6d0dLenjy5CnR5ZMn2agiV) | [có hẹn với thanh xuân](https://open.spotify.com/album/6nhbul7dYBCe9NS0eGwN6L) | 3:38 |
 | 37 | [Cà Phê](https://open.spotify.com/track/5cvW3PYJeQjRTnj9vHP5Va) | [MIN](https://open.spotify.com/artist/0IdAjS2LRieBR3gzoazdAw) | [50/50](https://open.spotify.com/album/2guZsP5qfBxYma8Y4mhVff) | 3:10 |
 | 38 | [Ngày Đầu Tiên](https://open.spotify.com/track/5Msoarj5hk9LguTtiIyqug) | [Đức Phúc](https://open.spotify.com/artist/5FWPIKz9czXWaiNtw45KQs) | [Ngày Đầu Tiên](https://open.spotify.com/album/2vki9hRAipW0SbK0A0c92W) | 3:28 |
 | 39 | [Cô Gái Này Là Của Ai? \(feat\. Rush & Nhi Nhi\)](https://open.spotify.com/track/5sIgSa5Q1GEGWF0lrCQ0N6) | [Krix](https://open.spotify.com/artist/0CFshi8xoCTnhggihTqoUL), [Nhi Nhi](https://open.spotify.com/artist/69WVr1fBDPGsMEMn3kbxZt), [Rush](https://open.spotify.com/artist/2Hkut4rAAyrQxRdof7FVJq) | [Cô Gái Này Là Của Ai? \(feat\. Rush & Nhi Nhi\)](https://open.spotify.com/album/2NGMT2aQkL96whD93DdNxo) | 2:46 |
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4g8Gs5nUhpp.md) - [plain]
 | 54 | [Vũ Trụ Có Anh](https://open.spotify.com/track/2fZ2YiLZWcRGugosefLKJH) | [Phuong My Chi](https://open.spotify.com/artist/1BcjfrXV4Oe3fK0c8dnxFF), [DTAP](https://open.spotify.com/artist/5L9ssI4l4DKU1za4ZwvKvG), [Pháo](https://open.spotify.com/artist/4en2ObzSYlIYbCGknXjgG9) | [Vũ Trụ Có Anh](https://open.spotify.com/album/4AB7jTEqKQICkM5DV4f5ZX) | 3:42 |
 | 55 | [Người Ôm Pháo Hoa](https://open.spotify.com/track/3keyZ8cXkQ57melgiAsJ5m) | [Đông Nhi](https://open.spotify.com/artist/6JTiPLdbZD2e0tDsN15U1s) | [Người Ôm Pháo Hoa](https://open.spotify.com/album/46D47ArgMXMIF13u0nFWTk) | 2:59 |
 
-Snapshot ID: `MCxmNGVjMTE0Yjg1OWVhMTZlNjllY2UwMTA1ZjUxYTNiNjc4YTRjYzM4`
+Snapshot ID: `MCwzNTgzODAxMTYzN2UxZjJkOGY0ZjhiMDJmYmI5YjFlNmYwNTgxOTg3`

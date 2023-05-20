@@ -4,7 +4,7 @@
 
 > The best of modern blues rock\. Cover: Tyler Bryant & the Shakedown
 
-220 songs - 13 hr 51 min
+221 songs - 13 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -121,7 +121,7 @@
 | [Love and Devotion](https://open.spotify.com/track/4VhujOlgo1NtVfXQkxwPaP) | [The Temperance Movement](https://open.spotify.com/artist/3SUI6pbPumjijbLHHY6vss) | [A Deeper Cut](https://open.spotify.com/album/081mWFWjZU1Dyl2RspScxV) | 3:23 | 2020-10-16 |  |
 | [Low Down Rolling Stone](https://open.spotify.com/track/59oXRNRnmmTbwgkZkV7l4g) | [Gary Clark Jr.](https://open.spotify.com/artist/01aC2ikO4Xgb2LUpf9JfKp) | [This Land](https://open.spotify.com/album/6pwdy6oQdwSQo8XOfpfAJJ) | 4:18 | 2020-10-16 |  |
 | [Lucky](https://open.spotify.com/track/4bmA9Hd5F2u9MvnewudhjB) | [Jane Lee Hooker](https://open.spotify.com/artist/1fFEQ9r3l2ApZ1EOEcwreH) | [Rollin'](https://open.spotify.com/album/3zv68B02yNlKFqlIbRDY0o) | 4:54 | 2022-04-29 |  |
-| [Make It Shake](https://open.spotify.com/track/57uYXpzoI7dOxdrOPWxZGT) | [Ghost Hounds](https://open.spotify.com/artist/69cpkpEaffiFjwcE19bvor) | [Make It Shake](https://open.spotify.com/album/165D6axZ9zq76cV1ip2qpo) | 3:14 | 2023-05-05 |  |
+| [Make It Shake](https://open.spotify.com/track/57uYXpzoI7dOxdrOPWxZGT) | [Ghost Hounds](https://open.spotify.com/artist/69cpkpEaffiFjwcE19bvor) | [Make It Shake](https://open.spotify.com/album/165D6axZ9zq76cV1ip2qpo) | 3:14 | 2023-05-05 | 2023-05-20 |
 | [Make Your Move](https://open.spotify.com/track/5uXlBb9vZ3ltzVpbVXAH5N) | [Beyond the Badlands](https://open.spotify.com/artist/5Od4vhwUDRjIKGCu7OrFsP) | [Make Your Move](https://open.spotify.com/album/5upDTjsYYm1tAU1CWHruPz) | 3:21 | 2021-04-16 |  |
 | [Meet Me in the Bottom](https://open.spotify.com/track/7iiHpRaetFtBweEMVnG1TH) | [Buffalo Nichols](https://open.spotify.com/artist/5dT9JLuBwGNiHJQsY29Qmh) | [Meet Me in the Bottom / Friends](https://open.spotify.com/album/2SWixsPxllhYc2iLEx6Yd5) | 3:08 | 2022-11-04 |  |
 | [Mercy](https://open.spotify.com/track/2krcU3B5QoN7aUw648THOk) | [The Karma Effect](https://open.spotify.com/artist/2D1hmJmCscHyl2PzaIu9J1) | [Mercy](https://open.spotify.com/album/1nfK9eJnGDD1FDXbRWLwT0) | 3:25 | 2022-02-25 |  |
@@ -214,6 +214,7 @@
 | [Waiting For Your Man](https://open.spotify.com/track/1WYzyPQIEAGd8pZU6RlGdK) | [Robert Jon & the Wreck](https://open.spotify.com/artist/4FXvPjJz57tIo23OpzHlYC) | [Waiting For Your Man](https://open.spotify.com/album/05WV45ZfdyQxM2cJ4NRgkd) | 3:35 | 2022-04-08 | 2023-04-15 |
 | [We Cry](https://open.spotify.com/track/35HnL14kTLJ0KdPoqcON3T) | [Xander and the Peace Pirates](https://open.spotify.com/artist/1fhcphVzvwgQduKI7OUDjy) | [We Cry](https://open.spotify.com/album/4ZgDYzqKszgekC7eS1Vlnh) | 4:51 | 2022-04-01 |  |
 | [Well Wasted](https://open.spotify.com/track/4S8WK43eMxManxzewCswet) | [Black Pistol Fire](https://open.spotify.com/artist/0Nrwy16xCPXG8AwkMbcVvo) | [Well Wasted](https://open.spotify.com/album/26rXDFayFu0pANaa174xu7) | 3:25 | 2020-10-16 | 2023-03-04 |
+| [Well Well Well](https://open.spotify.com/track/7K89YBfukxKcrm4hOVKQpk) | [Gráinne Duffy](https://open.spotify.com/artist/6Uz1iG3enjltFOqqwAhQ2Y) | [Dirt Woman Blues](https://open.spotify.com/album/3pEr5QdlF89ufMoOHASyum) | 4:07 | 2023-05-19 |  |
 | [Westbound](https://open.spotify.com/track/5UJTAeX6bJC9lKi7kgLI6y) | [Howlin' Sun](https://open.spotify.com/artist/4BH1zbJ2HjPh8g3yrUEcTw) | [Howlin' Sun](https://open.spotify.com/album/2lWyPYPhVuPEd0fOTRHUwS) | 2:12 | 2020-10-16 |  |
 | [What Goes Up](https://open.spotify.com/track/684zvrg5lfmqyu13C1eUlX) | [8 Ball Aitken](https://open.spotify.com/artist/1LLlMQFnYUd7M9H7dYLR78) | [What Goes Up](https://open.spotify.com/album/2CUVm4jQuudZXEb8Sm6Hbw) | 2:53 | 2021-04-09 |  |
 | [What's the Trick?](https://open.spotify.com/track/14FW5L81Px03LnnsXnB2LG) | [Jack White](https://open.spotify.com/artist/4FZ3j1oH43e7cukCALsCwf) | [Fear Of The Dawn](https://open.spotify.com/album/46qeiLBu3KwqFQpJBT7t6B) | 3:34 | 2022-04-08 |  |

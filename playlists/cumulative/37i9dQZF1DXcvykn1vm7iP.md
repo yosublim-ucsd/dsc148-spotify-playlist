@@ -4,7 +4,7 @@
 
 > Beautiful, uplifting Ambient for being in the moment.
 
-126 songs - 6 hr 12 min
+127 songs - 6 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -98,7 +98,7 @@
 | [Rilassato](https://open.spotify.com/track/1SWUsO1b7aqUkBBlDHuBNS) | [Victor Mancuso](https://open.spotify.com/artist/6zDJbYvzDKX6oBahti4LVB) | [Rilassato](https://open.spotify.com/album/6BCs0xXInKgZdnR2e5T9OE) | 2:48 | 2023-04-13 |  |
 | [Rugare](https://open.spotify.com/track/5569KJlvGen1T50aIJWEeC) | [Tendai Marwan](https://open.spotify.com/artist/6ERE1Moh0DyMuMUiCXE3cD) | [Rugare](https://open.spotify.com/album/1SIRnia8LqkQTglfIPVkbM) | 3:08 | 2023-01-20 |  |
 | [Sabaku](https://open.spotify.com/track/0z3GwhoT2D7ywKpjffpJJH) | [Phillipsburg](https://open.spotify.com/artist/2jzPSPZe2GbEpuaCJVvzbL) | [Direct Flight](https://open.spotify.com/album/7xVhHAltBelFy4Iy5i7zqM) | 3:12 | 2022-08-05 |  |
-| [Seraphic](https://open.spotify.com/track/6hEVztDYBzkGSEIcebdjiK) | [Logan Docherty](https://open.spotify.com/artist/7amQ98BuFYDzaxShGajJ1e) | [Seraphic](https://open.spotify.com/album/02qMMW9PBraKOzi3fYGrj5) | 3:32 | 2022-08-23 |  |
+| [Seraphic](https://open.spotify.com/track/6hEVztDYBzkGSEIcebdjiK) | [Logan Docherty](https://open.spotify.com/artist/7amQ98BuFYDzaxShGajJ1e) | [Seraphic](https://open.spotify.com/album/02qMMW9PBraKOzi3fYGrj5) | 3:32 | 2022-08-23 | 2023-05-20 |
 | [Silverhearts](https://open.spotify.com/track/20EmHh9TVgaZUZ9UvmlvUv) | [Taylor Stephens](https://open.spotify.com/artist/49Cmx1Yp6lQrseq3v712Kc) | [Silverhearts](https://open.spotify.com/album/763n56FRXMTLlU1RrWDvCD) | 3:04 | 2022-08-05 |  |
 | [Skymning](https://open.spotify.com/track/6Ywas6l9JyqXWDS1PKmzj6) | [Signe Golin](https://open.spotify.com/artist/3CBETDmJHF7pJ4ENoSfs3Z) | [Skymning](https://open.spotify.com/album/2OBSjVmSk1vvXn98hgfo70) | 2:34 | 2022-08-15 |  |
 | [Sleeping Moons](https://open.spotify.com/track/4xS39N1i2nOU0n57Tw5bcz) | [Atmospheric Lights](https://open.spotify.com/artist/65IYpN2ZX0vQzO3JRCpNHX) | [Sleeping Moons](https://open.spotify.com/album/35fjYF6bpmPk6cuFkTzQiv) | 3:11 | 2022-10-01 |  |
@@ -128,6 +128,7 @@
 | [Vishuddha](https://open.spotify.com/track/6GjahJca66YcsCV5tjSPiX) | [Zen Meditation Garden](https://open.spotify.com/artist/1GgMneSlBsLrozz7hymmjl), [Solfeggio Guru](https://open.spotify.com/artist/4Mbgj0OkWxMGznGr0HT31c) | [Chakra Spiritual Solfeggios](https://open.spotify.com/album/5MnRMGDXySMazhyyIkQrvL) | 5:58 | 2022-10-01 | 2022-12-03 |
 | [Vivid Imagination](https://open.spotify.com/track/4wV6irpJa9f21iaadadfrG) | [Heaven on Earth Instrumental Universe](https://open.spotify.com/artist/7aLueB60C95UX3TOvWgbAt) | [Psybient \(Psychedelic Ambient Music\)](https://open.spotify.com/album/0hXQHpXhx1EupvlaZC7tvM) | 3:16 | 2022-09-20 | 2023-01-10 |
 | [Water Shapes](https://open.spotify.com/track/2BXn2oEXL6XD2iXzuSzd0g) | [Calil](https://open.spotify.com/artist/0wZ9TiIXE76xXjZUUbVmN7) | [Water Shapes](https://open.spotify.com/album/4gRZeAvNFnIQZvhUEPbf2H) | 3:20 | 2022-08-05 |  |
+| [Weather The Storm](https://open.spotify.com/track/36uWwpFlhgjgCdefgC1Irp) | [Xiliah Roth](https://open.spotify.com/artist/47PP7w0Qi4HaeIQgWPEW25) | [Beyond The Dark Clouds](https://open.spotify.com/album/50riLI8PCz7iLWKgHFlOK7) | 2:49 | 2023-05-19 |  |
 | [Worry Not](https://open.spotify.com/track/7hS2ckejZtpQIompCdbczv) | [María Mojca](https://open.spotify.com/artist/39ZWSqegQ0BRppztA35wXU) | [Worry Not](https://open.spotify.com/album/79VOF59svdNCrRXatvtxNm) | 2:45 | 2022-11-11 |  |
 | [Y](https://open.spotify.com/track/2aO1Kx044UxkdUn9HMjsnY) | [Clip Aloe](https://open.spotify.com/artist/6CxgcvEFmR83qRXJmgZj67) | [Y](https://open.spotify.com/album/6HFV1kH4B3WPJWfhxF8CAF) | 3:29 | 2022-08-05 | 2023-03-31 |
 | [Yalmi](https://open.spotify.com/track/4vbpZqfVsIz1lPEsMT0IkE) | [Merc La](https://open.spotify.com/artist/0bSzN4RWd1T5I0ICYR2LJS) | [Yalmi](https://open.spotify.com/album/5O6cASUJg7un5RD7kqO0UT) | 2:23 | 2022-08-05 |  |

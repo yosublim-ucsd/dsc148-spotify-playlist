@@ -193,6 +193,28 @@
     },
     {
       "album": {
+        "name": "Bring The Heat",
+        "url": "https://open.spotify.com/album/48oAYz2T9Iesq20OIMXNBK"
+      },
+      "artists": [
+        {
+          "name": "Leftwing : Kody",
+          "url": "https://open.spotify.com/artist/7eYXtOjJGhrM16cK2hRmnR"
+        },
+        {
+          "name": "Hayley May",
+          "url": "https://open.spotify.com/artist/1WcwbtAnG5HWNbPPK84ued"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157440,
+      "name": "Bring The Heat",
+      "url": "https://open.spotify.com/track/6jWloOddI8GE5qZXu7sir9"
+    },
+    {
+      "album": {
         "name": "Cada Vez (CASSIMM Remix)",
         "url": "https://open.spotify.com/album/4Xb782UmglZDXRXeIoE663"
       },
@@ -212,6 +234,24 @@
       "duration_ms": 225640,
       "name": "Cada Vez - CASSIMM Remix",
       "url": "https://open.spotify.com/track/2EkkTGKerIxiOSSrPwuV7z"
+    },
+    {
+      "album": {
+        "name": "Check It Out",
+        "url": "https://open.spotify.com/album/7hCC9Z9GJKWrbpvA8jpGgX"
+      },
+      "artists": [
+        {
+          "name": "James Haskell",
+          "url": "https://open.spotify.com/artist/5ry5gHsT7l1X84yGPZeVIj"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200000,
+      "name": "Check It Out",
+      "url": "https://open.spotify.com/track/473rDJHC4hwixJAPJROpFh"
     },
     {
       "album": {
@@ -475,6 +515,28 @@
     },
     {
       "album": {
+        "name": "Feel Good",
+        "url": "https://open.spotify.com/album/6Asr9gAzTSVmwt5FyHjfzk"
+      },
+      "artists": [
+        {
+          "name": "Todd Terry",
+          "url": "https://open.spotify.com/artist/3dE92yGWcrboP1kC5SWyqu"
+        },
+        {
+          "name": "Jackson Jones",
+          "url": "https://open.spotify.com/artist/4Kji3MhEP8eoODw7Z3bxAq"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186240,
+      "name": "Feel Good - Edit",
+      "url": "https://open.spotify.com/track/36wyHzi5LwXA1akofMPheL"
+    },
+    {
+      "album": {
         "name": "Fly Like an Eagle",
         "url": "https://open.spotify.com/album/3fxmtAYgHefEmvKLuL6Jft"
       },
@@ -604,6 +666,24 @@
       "duration_ms": 288750,
       "name": "Givin My Love (Jerome Robins Remix)",
       "url": "https://open.spotify.com/track/0U3WJYeVdygyFgojRaBVNB"
+    },
+    {
+      "album": {
+        "name": "Go With It",
+        "url": "https://open.spotify.com/album/0rQOM7PU9rgXt5wpzpppGx"
+      },
+      "artists": [
+        {
+          "name": "Kim Kaos",
+          "url": "https://open.spotify.com/artist/5gZ21jZBLA2iHh8oBTzmjB"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176129,
+      "name": "Go With It - Edit",
+      "url": "https://open.spotify.com/track/6jHMhIdISBhDVt0SdzsenG"
     },
     {
       "album": {
@@ -780,6 +860,28 @@
       "duration_ms": 142200,
       "name": "I Need Some",
       "url": "https://open.spotify.com/track/7blWEpws63flJYjkyNhGya"
+    },
+    {
+      "album": {
+        "name": "I Want You",
+        "url": "https://open.spotify.com/album/3Dh81kJfGeinI3r7YMNX3E"
+      },
+      "artists": [
+        {
+          "name": "Butch",
+          "url": "https://open.spotify.com/artist/5kLzaeSHrmS7okc5XNE6lv"
+        },
+        {
+          "name": "Nic Fanciulli",
+          "url": "https://open.spotify.com/artist/7btR5VXutQv39SDEzcfXEk"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187286,
+      "name": "I Want You",
+      "url": "https://open.spotify.com/track/5UM6P3y6794GYNOzZvj2zh"
     },
     {
       "album": {
@@ -1916,7 +2018,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 180952,
       "name": "Talkin' Drums",
       "url": "https://open.spotify.com/track/5qJm4xvRCOQ1zedunDnndW"

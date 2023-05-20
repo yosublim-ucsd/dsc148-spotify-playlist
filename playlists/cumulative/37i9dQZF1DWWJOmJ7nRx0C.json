@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The hardest songs, loud. Very loud. Cover: Asking Alexandria",
+  "description": "The hardest songs, loud. Very loud. Cover: Avenged Sevenfold",
   "name": "Rock Hard",
   "tracks": [
     {
@@ -402,7 +402,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 200000,
       "name": "Agony",
       "url": "https://open.spotify.com/track/6TwbNA8sNXsKm2qXTs5Ogl"
@@ -882,7 +882,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 202379,
       "name": "Bad Man",
       "url": "https://open.spotify.com/track/0CGyintEvK6qL0BPvQWZ37"
@@ -1164,6 +1164,24 @@
       "duration_ms": 245516,
       "name": "Better Without You",
       "url": "https://open.spotify.com/track/6nFt6XgvvCRweKbD2B3aPa"
+    },
+    {
+      "album": {
+        "name": "Beyond",
+        "url": "https://open.spotify.com/album/2kSlibngBZgGOUGIdcuSg5"
+      },
+      "artists": [
+        {
+          "name": "Corey Taylor",
+          "url": "https://open.spotify.com/artist/0nhDd1RWjZ6SDV1Vg1Ku2Q"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257969,
+      "name": "Beyond",
+      "url": "https://open.spotify.com/track/3d06hZGFolrTyh6b0CNmlT"
     },
     {
       "album": {
@@ -1876,7 +1894,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 222361,
       "name": "By The Sound",
       "url": "https://open.spotify.com/track/7fUyorTZHGV2Nv7y6kU2b2"
@@ -2544,6 +2562,28 @@
       "duration_ms": 204747,
       "name": "Counting Sheep",
       "url": "https://open.spotify.com/track/54taP3hrKu5FOR6eg1Cupa"
+    },
+    {
+      "album": {
+        "name": "Courtney, just relax (feat. World Of Pleasure)",
+        "url": "https://open.spotify.com/album/0neLeILE6Ymhokv69gsI9L"
+      },
+      "artists": [
+        {
+          "name": "Static Dress",
+          "url": "https://open.spotify.com/artist/1Lqdsv7Ff4GNq9PM3Yd0vi"
+        },
+        {
+          "name": "World Of Pleasure",
+          "url": "https://open.spotify.com/artist/7kcqk3e5BlCUw41fctDQax"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175101,
+      "name": "Courtney, just relax (feat. World Of Pleasure)",
+      "url": "https://open.spotify.com/track/7z6oCwgcuR0NnziEKmu6Pi"
     },
     {
       "album": {
@@ -3428,6 +3468,24 @@
       "duration_ms": 195744,
       "name": "Devil That You Know",
       "url": "https://open.spotify.com/track/5Gq2lezOCHN5rIqIlUkvJ7"
+    },
+    {
+      "album": {
+        "name": "Dial Tone",
+        "url": "https://open.spotify.com/album/3TshwnXhNfppmFUrlP4BZV"
+      },
+      "artists": [
+        {
+          "name": "Catch Your Breath",
+          "url": "https://open.spotify.com/artist/2fqPOGxG12nEERj8YG7p22"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200495,
+      "name": "Dial Tone",
+      "url": "https://open.spotify.com/track/5tX5qGeEImk2CZYyGHrq9I"
     },
     {
       "album": {
@@ -5758,7 +5816,7 @@
       ],
       "date_added": "2022-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 204164,
       "name": "Hell Finds You Everywhere (feat. Noah Sebastian)",
       "url": "https://open.spotify.com/track/6EfGrYJ8Kw4xuNRd7UzQA3"
@@ -9232,7 +9290,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 132341,
       "name": "Out Of The Picture",
       "url": "https://open.spotify.com/track/5FMNruOhLrl7qMlmSZw96U"
@@ -9828,7 +9886,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 188732,
       "name": "Prizefighter",
       "url": "https://open.spotify.com/track/5GFoRsCqAO4876A4DlsFji"
@@ -10099,6 +10157,24 @@
     },
     {
       "album": {
+        "name": "Rap Rock Jesus",
+        "url": "https://open.spotify.com/album/0BiFxOJxNjN9OCNxVRM17m"
+      },
+      "artists": [
+        {
+          "name": "Silly Goose",
+          "url": "https://open.spotify.com/artist/0GicbfMtwhn3Ch0PdwkADQ"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189653,
+      "name": "Rap Rock Jesus",
+      "url": "https://open.spotify.com/track/10eYvXs1Lv8eiUXIdztnuV"
+    },
+    {
+      "album": {
         "name": "Re-Entry (feat. Mark Hoppus)",
         "url": "https://open.spotify.com/album/1HVOuAKPRBI8oBT76slmdv"
       },
@@ -10208,7 +10284,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 211200,
       "name": "Red Fur",
       "url": "https://open.spotify.com/track/1jj922BgyJexH19yoHd23L"
@@ -11749,6 +11825,24 @@
     },
     {
       "album": {
+        "name": "Strange Love",
+        "url": "https://open.spotify.com/album/4AkjlJeSydf04Xi3uwYwW3"
+      },
+      "artists": [
+        {
+          "name": "The Word Alive",
+          "url": "https://open.spotify.com/artist/1CF8aEN939swnuIZGFI7Hk"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238200,
+      "name": "Strange Love",
+      "url": "https://open.spotify.com/track/6YfmHEBb98Kw6C1dVj2dTY"
+    },
+    {
+      "album": {
         "name": "sTraNgeRs",
         "url": "https://open.spotify.com/album/55LIhZNcBHzrjNZ89I0IRc"
       },
@@ -11850,7 +11944,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 205078,
       "name": "Stupid Human",
       "url": "https://open.spotify.com/track/4OO3HzU2dgsmAIuZ6RVj5Z"
@@ -12396,7 +12490,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 129353,
       "name": "The Captains Sat",
       "url": "https://open.spotify.com/track/6v2mzvKpghhrJBtCoeFquM"
@@ -13571,6 +13665,24 @@
     },
     {
       "album": {
+        "name": "Under You",
+        "url": "https://open.spotify.com/album/2XD1xj7tbNEsiwmwyXAKu8"
+      },
+      "artists": [
+        {
+          "name": "Foo Fighters",
+          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219400,
+      "name": "Under You",
+      "url": "https://open.spotify.com/track/1x0NfY1A4q8eKN3k4X8sfE"
+    },
+    {
+      "album": {
         "name": "Unsaid",
         "url": "https://open.spotify.com/album/3vjslnHAw36HG80YWAhos1"
       },
@@ -13586,6 +13698,24 @@
       "duration_ms": 223746,
       "name": "Unsaid",
       "url": "https://open.spotify.com/track/5IE22PXeE1MvycfdOGX9dG"
+    },
+    {
+      "album": {
+        "name": "Divisive",
+        "url": "https://open.spotify.com/album/592wLCECATlzgwiEWTOPEa"
+      },
+      "artists": [
+        {
+          "name": "Disturbed",
+          "url": "https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238109,
+      "name": "Unstoppable",
+      "url": "https://open.spotify.com/track/6l769YojBjFfjOItRJQPCM"
     },
     {
       "album": {
@@ -14323,6 +14453,24 @@
     },
     {
       "album": {
+        "name": "What If..?",
+        "url": "https://open.spotify.com/album/6a450UyPiTRb90lVwOz0Pp"
+      },
+      "artists": [
+        {
+          "name": "L\u00f8 Spirit",
+          "url": "https://open.spotify.com/artist/7cImXesjInq0e25gQLHWoV"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197793,
+      "name": "What If..?",
+      "url": "https://open.spotify.com/track/4NT37ihhm4DdbW4HuZ3QWB"
+    },
+    {
+      "album": {
         "name": "What Would You Do?",
         "url": "https://open.spotify.com/album/4w2yJlTLXCQWtzQMo8kWxa"
       },
@@ -14628,6 +14776,24 @@
       "duration_ms": 205570,
       "name": "Winner Takes All (feat. Alice Cooper)",
       "url": "https://open.spotify.com/track/0zfjIcTc40MVFSGmGjHI9V"
+    },
+    {
+      "album": {
+        "name": "Wireless",
+        "url": "https://open.spotify.com/album/2XzK5f8ZxVwNgWBIopIQuB"
+      },
+      "artists": [
+        {
+          "name": "Within Temptation",
+          "url": "https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281380,
+      "name": "Wireless",
+      "url": "https://open.spotify.com/track/671W1lZGS9LcyzkMCRK3ve"
     },
     {
       "album": {

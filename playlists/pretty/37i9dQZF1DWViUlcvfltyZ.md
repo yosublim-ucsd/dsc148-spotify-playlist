@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViUlcvfltyZ.md) - [plain]
 
 > La playlist che è come andare ai concerti\. Aggiornata ogni venerdì\. Studio Murena in cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,948 likes - 60 songs - 3 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,954 likes - 60 songs - 3 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViUlcvfltyZ.md) - [plain]
 | 21 | [Animali in cattività](https://open.spotify.com/track/7okou2nIEXf8Mj32uo0cc0) | [Alemoa](https://open.spotify.com/artist/0lswjSfiPA2bKp6PHlJISF) | [Fammi Male](https://open.spotify.com/album/3rFKldXb0LIqgcY0TNxVAi) | 3:10 |
 | 22 | [The Other Side](https://open.spotify.com/track/6rZ9NSU1sZFY2SjCJ2Zjb2) | [Glazyhaze](https://open.spotify.com/artist/1NW0PMLRu2jVBWHhkMu0Y5) | [Just Fade Away](https://open.spotify.com/album/63bqZkUPl7zD8FFyFE7lzh) | 5:05 |
 | 23 | [Magic Youth](https://open.spotify.com/track/2jx79Kt60S82dYqXs71CYg) | [Novanta](https://open.spotify.com/artist/4R7cSzZwMv7sXEuf7kq61Z), [The Sensitive Club](https://open.spotify.com/artist/4RzCXrA5DWoXHdJDTeKkzN) | [Magic Youth](https://open.spotify.com/album/6VtzGcYiDa1TpNJPRI6HaY) | 4:10 |
-| 24 | [Parlarti Male](https://open.spotify.com/track/4IGuX25K5IVaUOaBmg3IfQ) | [Alibi](https://open.spotify.com/artist/3s7S0D0ZVdpaWn2lPsMVDa) | [Parlarti Male](https://open.spotify.com/album/5Xc8pxJSfJ8N4OJgDLyW2e) | 3:07 |
+| 24 | [Parlarti Male](https://open.spotify.com/track/4IGuX25K5IVaUOaBmg3IfQ) | [Alibi](https://open.spotify.com/artist/6vtDqOkppg14GMh5jq7tQv) | [Parlarti Male](https://open.spotify.com/album/5Xc8pxJSfJ8N4OJgDLyW2e) | 3:07 |
 | 25 | [A Lie Is A Lie](https://open.spotify.com/track/1nWqcFW8v8TOr5hHaU2va8) | [The Scurbats](https://open.spotify.com/artist/4d8AvpY3Yxd7OitgKNnqGw) | [A Lie Is A Lie](https://open.spotify.com/album/3gyUFMjyoLcco8QG1Hnxw8) | 2:22 |
 | 26 | [Lack Of Attention](https://open.spotify.com/track/4RAGyLQOh2pEbJESFCtQcp) | [PEAKS!](https://open.spotify.com/artist/6OmQ3QpipDrfFdHjtYNMp1) | [Lack Of Attention](https://open.spotify.com/album/3LScXcitw1L8DrzZIfbUzN) | 3:07 |
 | 27 | [Amico \(mani porte\)](https://open.spotify.com/track/3VyEF5SQaIwoOKH7dZ0lmZ) | [Ricche le Mura](https://open.spotify.com/artist/0Jejmdac0sG1anWKT8F1RB) | [INIZIO TURNO FINE](https://open.spotify.com/album/2OXOIh9VSnieWigqw9QUdD) | 3:20 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViUlcvfltyZ.md) - [plain]
 | 59 | [Pezzettino di fuoco](https://open.spotify.com/track/3dygYBnpoHRyGg1BXbISTC) | [montag](https://open.spotify.com/artist/3tace7aJONiUqExBPqfYb0) | [Pezzettino di fuoco](https://open.spotify.com/album/3cWOlZYIL3eExOmzb2UCtF) | 2:29 |
 | 60 | [Provare ancora](https://open.spotify.com/track/0iYojKItJ3j1RrKjcso0ia) | [Morgana](https://open.spotify.com/artist/3aiVVjTuv8e3GRBl8QYBeQ) | [Contemporaneità](https://open.spotify.com/album/2LiklOzR73i1RhJGYu3YqM) | 2:48 |
 
-Snapshot ID: `MCw2NWQwY2QzYmVmN2M4NzEzZWY4YmM2YTFmMDJhNzhhNGM2MmVlY2E5`
+Snapshot ID: `MTY4NDQ0NzI2MCwwMDAwMDAwMDBkNTY0NzFmNjU1MjNkYTc4NmQ4YzdjNTQ0ODcxZGQ0`

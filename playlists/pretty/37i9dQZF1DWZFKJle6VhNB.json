@@ -1,12 +1,12 @@
 {
   "description": "Grandes hits pra enfrentar toda lou\u00e7a suja que insiste em brotar na pia!",
-  "num_followers": 409747,
+  "num_followers": 410097,
   "original_name": "Lou\u00e7a Infinita",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkMDk2MmFlZjQ4MDA0ZmZmMGYyMTEyODVjYmQxMzM1MzdkMTVhMWUy",
+  "snapshot_id": "MCw3ZGFlMjliZTI4NGJkYjFhNTVkODNjY2I2MDU1MGZmNzE3NjcxYzc5",
   "tracks": [
     {
       "added_at": "2022-02-10 18:18:16",
@@ -403,18 +403,22 @@
     {
       "added_at": "2022-02-10 18:18:16",
       "album": {
-        "name": "Som No Talo",
-        "url": "https://open.spotify.com/album/7vmK77PL6WhlC2oIDJiFR2"
+        "name": "Prazer, eu sou Ferrugem (Ao vivo)",
+        "url": "https://open.spotify.com/album/3SkOXrdSri5EIpDpUvfdm3"
       },
       "artists": [
         {
-          "name": "Ra\u00ed Saia Rodada",
-          "url": "https://open.spotify.com/artist/0NiaKn55OzJswiYevvlKfz"
+          "name": "Ferrugem",
+          "url": "https://open.spotify.com/artist/5ZfBThYiIIhL7jHMG8gDB2"
+        },
+        {
+          "name": "Bruno Cardoso",
+          "url": "https://open.spotify.com/artist/34IKMjXZ3Qy0vjG82n97r6"
         }
       ],
-      "duration_ms": 175046,
-      "name": "Tap\u00e3o Na Raba",
-      "url": "https://open.spotify.com/track/58pgi1RpcU2fVJsxhm7BIr"
+      "duration_ms": 207093,
+      "name": "\u00c9 natural (Participa\u00e7\u00e3o especial de Bruno Cardoso) - Ao vivo",
+      "url": "https://open.spotify.com/track/0vT797IpZpF5o1XLCnWCUL"
     },
     {
       "added_at": "2022-02-10 18:18:16",
@@ -439,22 +443,18 @@
     {
       "added_at": "2022-02-10 18:18:16",
       "album": {
-        "name": "Prazer, eu sou Ferrugem (Ao vivo)",
-        "url": "https://open.spotify.com/album/3SkOXrdSri5EIpDpUvfdm3"
+        "name": "Som No Talo",
+        "url": "https://open.spotify.com/album/7vmK77PL6WhlC2oIDJiFR2"
       },
       "artists": [
         {
-          "name": "Ferrugem",
-          "url": "https://open.spotify.com/artist/5ZfBThYiIIhL7jHMG8gDB2"
-        },
-        {
-          "name": "Bruno Cardoso",
-          "url": "https://open.spotify.com/artist/34IKMjXZ3Qy0vjG82n97r6"
+          "name": "Ra\u00ed Saia Rodada",
+          "url": "https://open.spotify.com/artist/0NiaKn55OzJswiYevvlKfz"
         }
       ],
-      "duration_ms": 207093,
-      "name": "\u00c9 natural (Participa\u00e7\u00e3o especial de Bruno Cardoso) - Ao vivo",
-      "url": "https://open.spotify.com/track/0vT797IpZpF5o1XLCnWCUL"
+      "duration_ms": 175046,
+      "name": "Tap\u00e3o Na Raba",
+      "url": "https://open.spotify.com/track/58pgi1RpcU2fVJsxhm7BIr"
     },
     {
       "added_at": "2022-02-10 18:18:16",
@@ -731,6 +731,22 @@
     {
       "added_at": "2022-02-10 18:18:16",
       "album": {
+        "name": "Ai Se Eu Te Pego (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4AYFuW0Ke3eEnGFq66znnL"
+      },
+      "artists": [
+        {
+          "name": "Michel Tel\u00f3",
+          "url": "https://open.spotify.com/artist/1sDVuztNhGcetCLChkleDA"
+        }
+      ],
+      "duration_ms": 166439,
+      "name": "Ai Se Eu Te Pego - Ao Vivo",
+      "url": "https://open.spotify.com/track/2yd5ZA1q3w6jdE03eVrGHU"
+    },
+    {
+      "added_at": "2022-02-10 18:18:16",
+      "album": {
         "name": "Surtada (Remix Brega Funk)",
         "url": "https://open.spotify.com/album/2zFE4Ze2DjkeZBMbbT4Mgj"
       },
@@ -767,22 +783,6 @@
       "duration_ms": 122435,
       "name": "VAI MENINA",
       "url": "https://open.spotify.com/track/1oQppEGTHYN53xfEaTz4ua"
-    },
-    {
-      "added_at": "2022-02-10 18:18:16",
-      "album": {
-        "name": "Ai Se Eu Te Pego (Ao Vivo)",
-        "url": "https://open.spotify.com/album/4AYFuW0Ke3eEnGFq66znnL"
-      },
-      "artists": [
-        {
-          "name": "Michel Tel\u00f3",
-          "url": "https://open.spotify.com/artist/1sDVuztNhGcetCLChkleDA"
-        }
-      ],
-      "duration_ms": 166439,
-      "name": "Ai Se Eu Te Pego - Ao Vivo",
-      "url": "https://open.spotify.com/track/2yd5ZA1q3w6jdE03eVrGHU"
     },
     {
       "added_at": "2022-02-10 18:18:16",
@@ -1119,6 +1119,22 @@
     {
       "added_at": "2022-02-10 18:18:16",
       "album": {
+        "name": "10 Anos Na Praia (Ao Vivo / Vol. 1)",
+        "url": "https://open.spotify.com/album/6rtq152SsRhAcAvGmzoBWl"
+      },
+      "artists": [
+        {
+          "name": "Matheus & Kauan",
+          "url": "https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr"
+        }
+      ],
+      "duration_ms": 170197,
+      "name": "Litr\u00e3o - Ao Vivo Em Recife / 2020",
+      "url": "https://open.spotify.com/track/5W1kqz2l1lDX77DXBMeXZg"
+    },
+    {
+      "added_at": "2022-02-10 18:18:16",
+      "album": {
         "name": "Pa\u00eds do Futebol",
         "url": "https://open.spotify.com/album/7DAKbgEabUfwJwztyMp009"
       },
@@ -1135,22 +1151,6 @@
       "duration_ms": 149002,
       "name": "Pa\u00eds do Futebol",
       "url": "https://open.spotify.com/track/7AD7hNwGOOSRe33QtnyprD"
-    },
-    {
-      "added_at": "2022-02-10 18:18:16",
-      "album": {
-        "name": "10 Anos Na Praia (Ao Vivo / Vol. 1)",
-        "url": "https://open.spotify.com/album/6rtq152SsRhAcAvGmzoBWl"
-      },
-      "artists": [
-        {
-          "name": "Matheus & Kauan",
-          "url": "https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr"
-        }
-      ],
-      "duration_ms": 170197,
-      "name": "Litr\u00e3o - Ao Vivo Em Recife / 2020",
-      "url": "https://open.spotify.com/track/5W1kqz2l1lDX77DXBMeXZg"
     },
     {
       "added_at": "2022-02-10 18:18:16",
@@ -1183,22 +1183,6 @@
       "duration_ms": 234360,
       "name": "Inara\u00ed",
       "url": "https://open.spotify.com/track/56bWd9eEu5xsIWETPBIA8k"
-    },
-    {
-      "added_at": "2022-02-10 18:18:16",
-      "album": {
-        "name": "\u00c9 S\u00f3 Dizer Que Sim",
-        "url": "https://open.spotify.com/album/4KngrxmbT1fr7Tkdqo1Sei"
-      },
-      "artists": [
-        {
-          "name": "Pablo",
-          "url": "https://open.spotify.com/artist/2uOlKKhuUUWlTITCYYUuIK"
-        }
-      ],
-      "duration_ms": 167040,
-      "name": "Por Que Homem N\u00e3o Chora",
-      "url": "https://open.spotify.com/track/3JxOfiRJD9HqE38jODmAuW"
     },
     {
       "added_at": "2022-02-10 18:18:16",
@@ -1239,6 +1223,22 @@
       "duration_ms": 190280,
       "name": "Bang",
       "url": "https://open.spotify.com/track/1Cml3fnCNLZUC1EEtkcgVb"
+    },
+    {
+      "added_at": "2022-02-10 18:18:16",
+      "album": {
+        "name": "\u00c9 S\u00f3 Dizer Que Sim",
+        "url": "https://open.spotify.com/album/4KngrxmbT1fr7Tkdqo1Sei"
+      },
+      "artists": [
+        {
+          "name": "Pablo",
+          "url": "https://open.spotify.com/artist/2uOlKKhuUUWlTITCYYUuIK"
+        }
+      ],
+      "duration_ms": 167040,
+      "name": "Por Que Homem N\u00e3o Chora",
+      "url": "https://open.spotify.com/track/3JxOfiRJD9HqE38jODmAuW"
     },
     {
       "added_at": "2022-02-10 18:18:16",
@@ -1615,6 +1615,26 @@
     {
       "added_at": "2022-02-10 18:18:16",
       "album": {
+        "name": "Open House (Ao Vivo)",
+        "url": "https://open.spotify.com/album/69BEwRfwBeIpoene374tX2"
+      },
+      "artists": [
+        {
+          "name": "Dilsinho",
+          "url": "https://open.spotify.com/artist/4NUePmzDvCYqilXBFa91Hg"
+        },
+        {
+          "name": "Thiaguinho",
+          "url": "https://open.spotify.com/artist/1vppDmG3i5sXf3DJzrK4T1"
+        }
+      ],
+      "duration_ms": 183648,
+      "name": "Apaixonadin (feat. Thiaguinho) - Ao Vivo",
+      "url": "https://open.spotify.com/track/1yvkjXo7NT8SxiqkJmv1mf"
+    },
+    {
+      "added_at": "2022-02-10 18:18:16",
+      "album": {
         "name": "T\u00f3came (feat. Arcangel & De La Ghetto)",
         "url": "https://open.spotify.com/album/6OW0sjGhqQJKxjcBzyvpcq"
       },
@@ -1639,26 +1659,6 @@
     {
       "added_at": "2022-02-10 18:18:16",
       "album": {
-        "name": "Open House (Ao Vivo)",
-        "url": "https://open.spotify.com/album/69BEwRfwBeIpoene374tX2"
-      },
-      "artists": [
-        {
-          "name": "Dilsinho",
-          "url": "https://open.spotify.com/artist/4NUePmzDvCYqilXBFa91Hg"
-        },
-        {
-          "name": "Thiaguinho",
-          "url": "https://open.spotify.com/artist/1vppDmG3i5sXf3DJzrK4T1"
-        }
-      ],
-      "duration_ms": 183648,
-      "name": "Apaixonadin (feat. Thiaguinho) - Ao Vivo",
-      "url": "https://open.spotify.com/track/1yvkjXo7NT8SxiqkJmv1mf"
-    },
-    {
-      "added_at": "2022-02-10 18:18:16",
-      "album": {
         "name": "Fundamental - Naldo Benny",
         "url": "https://open.spotify.com/album/4yABgowbqRbG9jQLUxBxl8"
       },
@@ -1675,22 +1675,6 @@
     {
       "added_at": "2022-02-10 18:18:16",
       "album": {
-        "name": "Harmonia do Samba (Ao Vivo)",
-        "url": "https://open.spotify.com/album/16Vtcnbz7V3sh6Ix7Sfd76"
-      },
-      "artists": [
-        {
-          "name": "XANDDY HARMONIA",
-          "url": "https://open.spotify.com/artist/3VZXmYrB3MxMfTZKIVZA1J"
-        }
-      ],
-      "duration_ms": 169333,
-      "name": "Desafio - Ao Vivo",
-      "url": "https://open.spotify.com/track/59hKLIqy6OA39DNdF33U3B"
-    },
-    {
-      "added_at": "2022-02-10 18:18:16",
-      "album": {
         "name": "As Quatro Esta\u00e7\u00f5es",
         "url": "https://open.spotify.com/album/5Rbgk96ZERiqT0L9ypqgdS"
       },
@@ -1703,6 +1687,22 @@
       "duration_ms": 208733,
       "name": "Olha O Que O Amor Me Faz / Cita\u00e7\u00e3o: All By Myself - Medley",
       "url": "https://open.spotify.com/track/1rMcQF59UMomlc0HJy9j5W"
+    },
+    {
+      "added_at": "2022-02-10 18:18:16",
+      "album": {
+        "name": "Harmonia do Samba (Ao Vivo)",
+        "url": "https://open.spotify.com/album/16Vtcnbz7V3sh6Ix7Sfd76"
+      },
+      "artists": [
+        {
+          "name": "XANDDY HARMONIA",
+          "url": "https://open.spotify.com/artist/3VZXmYrB3MxMfTZKIVZA1J"
+        }
+      ],
+      "duration_ms": 169333,
+      "name": "Desafio - Ao Vivo",
+      "url": "https://open.spotify.com/track/59hKLIqy6OA39DNdF33U3B"
     },
     {
       "added_at": "2022-02-10 18:18:16",
@@ -1759,22 +1759,6 @@
     {
       "added_at": "2022-02-10 18:18:16",
       "album": {
-        "name": "Nossa Dan\u00e7a",
-        "url": "https://open.spotify.com/album/1q1YikfGe5sRLyppHKx0Rw"
-      },
-      "artists": [
-        {
-          "name": "Os Travessos",
-          "url": "https://open.spotify.com/artist/3RpJ23sQA3B70ZgSnT2Vxr"
-        }
-      ],
-      "duration_ms": 189466,
-      "name": "Maravilha Te Amar",
-      "url": "https://open.spotify.com/track/45PD1shJcUVckmslQycpEL"
-    },
-    {
-      "added_at": "2022-02-10 18:18:16",
-      "album": {
         "name": "Latino Apresenta as Aventuras de DJ L - Festa no Ap\u00ea",
         "url": "https://open.spotify.com/album/6gPlOUYW8fgYluWN0NCJEG"
       },
@@ -1787,6 +1771,22 @@
       "duration_ms": 251520,
       "name": "Festa no Ap\u00ea (Dragostea Din Tei)",
       "url": "https://open.spotify.com/track/4MhdkKwzXifgDrdtNvMvJJ"
+    },
+    {
+      "added_at": "2022-02-10 18:18:16",
+      "album": {
+        "name": "Nossa Dan\u00e7a",
+        "url": "https://open.spotify.com/album/1q1YikfGe5sRLyppHKx0Rw"
+      },
+      "artists": [
+        {
+          "name": "Os Travessos",
+          "url": "https://open.spotify.com/artist/3RpJ23sQA3B70ZgSnT2Vxr"
+        }
+      ],
+      "duration_ms": 189466,
+      "name": "Maravilha Te Amar",
+      "url": "https://open.spotify.com/track/45PD1shJcUVckmslQycpEL"
     },
     {
       "added_at": "2022-02-10 18:18:16",

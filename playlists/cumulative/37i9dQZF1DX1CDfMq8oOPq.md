@@ -4,7 +4,7 @@
 
 > só faixa rosa, tem disposição? 🎀 Foto: slipmami, Maru2D
 
-126 songs - 6 hr 8 min
+127 songs - 6 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,6 +51,7 @@
 | [Florescer](https://open.spotify.com/track/7k5SeF10dmOPbzxebfUc7F) | [Mayarah Magalhães](https://open.spotify.com/artist/2FmV8Y424XsncsEO9ztY3p), [Blood Beatz](https://open.spotify.com/artist/5MGHzEwXZ13izki8gsjrFc) | [Florescer](https://open.spotify.com/album/1NJsjzZ2AZBFCPCOeVyb7x) | 4:48 | 2022-08-26 | 2023-01-28 |
 | [FLOW](https://open.spotify.com/track/7AceiTQaFYXZhZddKx20qr) | [Malía](https://open.spotify.com/artist/06Ta0NqRjBW6qubwdyeb9u) | [FLOW](https://open.spotify.com/album/5Tigi6UMA7XovFt8mrKGx6) | 3:25 | 2022-03-11 | 2022-07-09 |
 | [Fogo](https://open.spotify.com/track/0z8LtG7fiK0EHwtNVudl8d) | [Tícia](https://open.spotify.com/artist/32sKApT6WxIehmBNyGLsXN) | [Fogo](https://open.spotify.com/album/30bN41Kha9wBELEX60Nvel) | 2:24 | 2023-01-20 | 2023-03-18 |
+| [Forasteiro](https://open.spotify.com/track/5DKHLJEuO3wcUksmcSV4fg) | [Cristal](https://open.spotify.com/artist/6i4nbGTS2gSP0e6emkTqdX), [MDN Beatz](https://open.spotify.com/artist/6EaIRN2UvHGu9EdeBvfPo1), [Paulo Dionísio](https://open.spotify.com/artist/6cP7jxtpk4EJWIKK7F2kxE) | [Forasteiro](https://open.spotify.com/album/7uN5MHZaKna9fvaSPtOck6) | 4:50 | 2023-05-19 |  |
 | [FREESTYLE DAS FAIXA ROSA](https://open.spotify.com/track/1lx5dn3ESLOPPhEQ0G6TgB) | [WillsBife](https://open.spotify.com/artist/3QlBuIqyonbRMU1yZIh7o3), [ONNiKA](https://open.spotify.com/artist/7h2qMFZKbjifWLpMhsQ988), [Ebony](https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb) | [FEBRE AMARELA \(Deluxe Edition\)](https://open.spotify.com/album/5JWjH3OtpyiD0iQ0SJoYLw) | 2:32 | 2022-03-11 | 2022-07-29 |
 | [FREESTYLE DAS FAIXA ROSA](https://open.spotify.com/track/5wmnvwl9CFEr2Td4xkJ1ZK) | [WillsBife](https://open.spotify.com/artist/3QlBuIqyonbRMU1yZIh7o3), [ONNiKA](https://open.spotify.com/artist/7h2qMFZKbjifWLpMhsQ988), [Ebony](https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb) | [FEBRE AMARELA \(Deluxe Edition\)](https://open.spotify.com/album/59JY68uudM8V2Xm26iIZBL) | 2:35 | 2022-07-08 | 2022-12-03 |
 | [Girlgang](https://open.spotify.com/track/6b9BbNiHZkmGCXkSzTls5I) | [Fenda](https://open.spotify.com/artist/2MOzAmZ3VnuQuUYD1slLSq), [Coyote Beatz](https://open.spotify.com/artist/2PhFsxtwCQLS3e9SJwDN3j) | [Girlgang](https://open.spotify.com/album/2YCY4UZq39Q6IXI1wJBrBJ) | 3:55 | 2022-03-11 |  |
@@ -116,7 +117,7 @@
 | [Shoota \(feat\. Lourena & Ebony\)](https://open.spotify.com/track/2Rm9BPm41nqS7e5Ahr66nh) | [Bianca Costa](https://open.spotify.com/artist/1DcL22xdIWcdNa4ZHaXZjT), [Ebony](https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb), [Lourena](https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh) | [Shoota \(feat\. Lourena & Ebony\)](https://open.spotify.com/album/57xOlXhPYfW4Vyjf6IasoE) | 3:32 | 2022-03-11 | 2022-10-29 |
 | [Sinal](https://open.spotify.com/track/22LwBcXDGHtydEh2nInF30) | [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw) | [Sinal](https://open.spotify.com/album/7kTIn9P8tgfA5fxxdvAcwh) | 2:53 | 2022-07-08 | 2022-10-01 |
 | [Sinal](https://open.spotify.com/track/3c61X2aLcCAVMMQV1YzSfH) | [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw) | [Affair](https://open.spotify.com/album/2hS0idBDjAAlWgY47HYA90) | 2:53 | 2022-03-11 | 2022-07-29 |
-| [Sistema](https://open.spotify.com/track/7v04AuDlQEaf6GTqDqo5GE) | [A Banca Records](https://open.spotify.com/artist/0Do6bAo2kcVLp7ekzypskJ), [Cold Jas](https://open.spotify.com/artist/4QpdIDbwY9wKmcobBWYy3b) | [Rap Jazz](https://open.spotify.com/album/0jLhKfh37Uq5M4Y4Sr3IiY) | 2:06 | 2023-04-21 |  |
+| [Sistema](https://open.spotify.com/track/7v04AuDlQEaf6GTqDqo5GE) | [A Banca Records](https://open.spotify.com/artist/0Do6bAo2kcVLp7ekzypskJ), [Cold Jas](https://open.spotify.com/artist/4QpdIDbwY9wKmcobBWYy3b) | [Rap Jazz](https://open.spotify.com/album/0jLhKfh37Uq5M4Y4Sr3IiY) | 2:06 | 2023-04-21 | 2023-05-20 |
 | [Sobrenome](https://open.spotify.com/track/7lfKqObVLqhJ8O5PF8UwtW) | [Dagrace](https://open.spotify.com/artist/5RWAfDPfPQklvfe40tNxWT), [Dodoin](https://open.spotify.com/artist/4I0iZ0003sCk7k5eHKzKh1) | [Sobrenome](https://open.spotify.com/album/5CXvCpwUJ9GdHjumehKIQ7) | 2:14 | 2022-06-24 | 2022-10-15 |
 | [Sofa, Breja e Netflix](https://open.spotify.com/track/6eIZaT9qNz9lVrhWbJOWls) | [Mac Júlia](https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF), [Pejota](https://open.spotify.com/artist/3W10YNoIzqgJymjc5ULDzu) | [$IMBIO$E](https://open.spotify.com/album/4yDTSQ6Iztp8kfmqv7HsUY) | 3:04 | 2022-03-11 |  |
 | [Start](https://open.spotify.com/track/1Ypz913IjKppWK1hxAIj9f) | [Cristal](https://open.spotify.com/artist/6i4nbGTS2gSP0e6emkTqdX), [MDN Beatz](https://open.spotify.com/artist/6EaIRN2UvHGu9EdeBvfPo1), [Cravo & Rosa](https://open.spotify.com/artist/7CZY4fkg3glgemUoc8fOcJ) | [Quartzo](https://open.spotify.com/album/3go0N6khdsiwn2msqeBno6) | 3:16 | 2022-03-11 | 2022-04-16 |

@@ -3704,7 +3704,7 @@
       ],
       "date_added": "2022-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 159000,
       "name": "Heavy lifting",
       "url": "https://open.spotify.com/track/6ZB05VtNtULcsYIwAzAYjS"
@@ -7413,6 +7413,24 @@
     },
     {
       "album": {
+        "name": "Seeing Sound",
+        "url": "https://open.spotify.com/album/3znO1C3grkfXLLy9teSFjA"
+      },
+      "artists": [
+        {
+          "name": "San Bernadino 5",
+          "url": "https://open.spotify.com/artist/26yFfCk0EZQxv7j2R4W3ae"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124285,
+      "name": "Seeing Sound",
+      "url": "https://open.spotify.com/track/1c9EcAZaZwvguJscnojXaR"
+    },
+    {
+      "album": {
         "name": "Veriditas",
         "url": "https://open.spotify.com/album/3QTsU264hhPO4cEOrHrZC0"
       },
@@ -7989,6 +8007,24 @@
     },
     {
       "album": {
+        "name": "Spaces",
+        "url": "https://open.spotify.com/album/44UlIseSRSr4N7AtOkiQb1"
+      },
+      "artists": [
+        {
+          "name": "William Reed",
+          "url": "https://open.spotify.com/artist/62TYFSmuHJr3QblYwgJq76"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136257,
+      "name": "Spaces",
+      "url": "https://open.spotify.com/track/72eV4iUZ0MHnx35ARmPwYY"
+    },
+    {
+      "album": {
         "name": "Distant Echo",
         "url": "https://open.spotify.com/album/7fFn2jrNGSSr8HFXHXzV8y"
       },
@@ -8076,6 +8112,24 @@
       "duration_ms": 313814,
       "name": "Starlights",
       "url": "https://open.spotify.com/track/2tSlohCLetwQRpA71jbnrB"
+    },
+    {
+      "album": {
+        "name": "Steady figures",
+        "url": "https://open.spotify.com/album/7sdReI2hp7HrdR9WtvURdq"
+      },
+      "artists": [
+        {
+          "name": "Imber Sun",
+          "url": "https://open.spotify.com/artist/2HyEvRdpjC6Ek9cLlLof0X"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161316,
+      "name": "Steady figures",
+      "url": "https://open.spotify.com/track/1sGdr8pFBYgx4ZHDLjcH5c"
     },
     {
       "album": {
@@ -9164,6 +9218,24 @@
       "duration_ms": 190820,
       "name": "Tidal Waves",
       "url": "https://open.spotify.com/track/3YTZyDywwVOWOXw2d970Dx"
+    },
+    {
+      "album": {
+        "name": "Tide",
+        "url": "https://open.spotify.com/album/0cgOt6Z0rOyNlCiI2v1NLF"
+      },
+      "artists": [
+        {
+          "name": "Nomad Spector",
+          "url": "https://open.spotify.com/artist/5UEm6zWB2OYaYE1y168uEV"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150717,
+      "name": "Tide",
+      "url": "https://open.spotify.com/track/2j7uOzdepAtKUnn8VcuNEV"
     },
     {
       "album": {
@@ -10266,6 +10338,24 @@
       "duration_ms": 142000,
       "name": "Winter Sun",
       "url": "https://open.spotify.com/track/6xcD8EbsvMep9ULtidHI2j"
+    },
+    {
+      "album": {
+        "name": "Wish I Knew",
+        "url": "https://open.spotify.com/album/4xAYeQmB9cufnyD226V6qs"
+      },
+      "artists": [
+        {
+          "name": "Spaced Out Dreams",
+          "url": "https://open.spotify.com/artist/7iGqNpmYWmkzGG6gwIVAha"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137364,
+      "name": "Wish I Knew",
+      "url": "https://open.spotify.com/track/753JsxMTj2sSrV3VBUzlmh"
     },
     {
       "album": {

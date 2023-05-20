@@ -1,12 +1,12 @@
 {
   "description": "An introduction to the music of Bartok, Hungary's greatest composer.",
-  "num_followers": 16969,
+  "num_followers": 16988,
   "original_name": "This Is Bart\u00f3k",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiOWUwYmVjYWIxYTZkMzVmZDkyNmVmNDVlMDBkYzgzZTZiMjNiNmRm",
+  "snapshot_id": "MCxjODU4NzVhYTQ3NTM4YWI1NzU3MzkzOWUyYjU5Y2Q1ZDIxYzg2NGFj",
   "tracks": [
     {
       "added_at": "2022-07-01 04:02:00",
@@ -715,26 +715,6 @@
     {
       "added_at": "2022-07-01 04:02:00",
       "album": {
-        "name": "Bart\u00f3k: Violin Sonatas",
-        "url": "https://open.spotify.com/album/4sKZELunuNVCa0ZJN7hY5X"
-      },
-      "artists": [
-        {
-          "name": "B\u00e9la Bart\u00f3k",
-          "url": "https://open.spotify.com/artist/5zyNXVd952fWOjkdGHCvPd"
-        },
-        {
-          "name": "Isabelle Faust",
-          "url": "https://open.spotify.com/artist/00q3HI6mnGUJqMlfwBJTco"
-        }
-      ],
-      "duration_ms": 702266,
-      "name": "Sonata for Solo Violin in G Minor, Sz. 117: I. Tempo di Ciaccona",
-      "url": "https://open.spotify.com/track/60q5F3eZAix0vodIamukbp"
-    },
-    {
-      "added_at": "2022-07-01 04:02:00",
-      "album": {
         "name": "Prokofiev & Bart\u00f3k: Piano Concertos",
         "url": "https://open.spotify.com/album/1iF9gU2gIbIvWZLUeAqILU"
       },
@@ -759,6 +739,26 @@
       "duration_ms": 793493,
       "name": "Piano Concerto No. 2, Sz. 95: II. Adagio - Presto - Pi\u00f9 adagio",
       "url": "https://open.spotify.com/track/0aDkmWo5wgxyKUsdvkbkqB"
+    },
+    {
+      "added_at": "2022-07-01 04:02:00",
+      "album": {
+        "name": "Bart\u00f3k: Violin Sonatas",
+        "url": "https://open.spotify.com/album/4sKZELunuNVCa0ZJN7hY5X"
+      },
+      "artists": [
+        {
+          "name": "B\u00e9la Bart\u00f3k",
+          "url": "https://open.spotify.com/artist/5zyNXVd952fWOjkdGHCvPd"
+        },
+        {
+          "name": "Isabelle Faust",
+          "url": "https://open.spotify.com/artist/00q3HI6mnGUJqMlfwBJTco"
+        }
+      ],
+      "duration_ms": 702266,
+      "name": "Sonata for Solo Violin in G Minor, Sz. 117: I. Tempo di Ciaccona",
+      "url": "https://open.spotify.com/track/60q5F3eZAix0vodIamukbp"
     },
     {
       "added_at": "2022-07-01 04:02:00",
@@ -1051,6 +1051,26 @@
     {
       "added_at": "2022-07-01 04:02:00",
       "album": {
+        "name": "Bart\u00f3k: Mikrokosmos Selections",
+        "url": "https://open.spotify.com/album/6D2ejPr7Ovv7VJxuKUgx5t"
+      },
+      "artists": [
+        {
+          "name": "B\u00e9la Bart\u00f3k",
+          "url": "https://open.spotify.com/artist/5zyNXVd952fWOjkdGHCvPd"
+        },
+        {
+          "name": "Georges Solchany",
+          "url": "https://open.spotify.com/artist/16U37rLAVgm1h8e0Q0pE0d"
+        }
+      ],
+      "duration_ms": 454880,
+      "name": "Bart\u00f3k: Mikrokosmos, Sz. 107, Book I: Nos. 1 - 23",
+      "url": "https://open.spotify.com/track/20KYbSayqXrYzGCTsGGlwi"
+    },
+    {
+      "added_at": "2022-07-01 04:02:00",
+      "album": {
         "name": "Bart\u00f3k: Concerto for Orchestra; Dance Suite; The Miraculous Mandarin",
         "url": "https://open.spotify.com/album/6eeTCx70gi5P31eM2O1pvI"
       },
@@ -1091,26 +1111,6 @@
       "duration_ms": 280000,
       "name": "Out Doors, BB 89, Sz. 81 - Volume 2: 4. The Night's Music",
       "url": "https://open.spotify.com/track/66to0qDs0qnH0m4I0VWDW0"
-    },
-    {
-      "added_at": "2022-07-01 04:02:00",
-      "album": {
-        "name": "Bart\u00f3k: Mikrokosmos Selections",
-        "url": "https://open.spotify.com/album/6D2ejPr7Ovv7VJxuKUgx5t"
-      },
-      "artists": [
-        {
-          "name": "B\u00e9la Bart\u00f3k",
-          "url": "https://open.spotify.com/artist/5zyNXVd952fWOjkdGHCvPd"
-        },
-        {
-          "name": "Georges Solchany",
-          "url": "https://open.spotify.com/artist/16U37rLAVgm1h8e0Q0pE0d"
-        }
-      ],
-      "duration_ms": 454880,
-      "name": "Bart\u00f3k: Mikrokosmos, Sz. 107, Book I: Nos. 1 - 23",
-      "url": "https://open.spotify.com/track/20KYbSayqXrYzGCTsGGlwi"
     },
     {
       "added_at": "2022-07-01 04:02:00",
@@ -1171,30 +1171,6 @@
     {
       "added_at": "2022-07-01 04:02:00",
       "album": {
-        "name": "Bart\u00f3k: 44 Violin Duos",
-        "url": "https://open.spotify.com/album/5Q7FzPEcV0ZTXlprkNEBZd"
-      },
-      "artists": [
-        {
-          "name": "B\u00e9la Bart\u00f3k",
-          "url": "https://open.spotify.com/artist/5zyNXVd952fWOjkdGHCvPd"
-        },
-        {
-          "name": "Angela Chun",
-          "url": "https://open.spotify.com/artist/0IaciBSS1GF5SuqWKzM5wA"
-        },
-        {
-          "name": "Jennifer Chun",
-          "url": "https://open.spotify.com/artist/72ZCIaI1TqwaGRbEvbGBih"
-        }
-      ],
-      "duration_ms": 50133,
-      "name": "Forgat\u00f3s",
-      "url": "https://open.spotify.com/track/0kEhYk7x9tux02gC86vGSZ"
-    },
-    {
-      "added_at": "2022-07-01 04:02:00",
-      "album": {
         "name": "Bart\u00f3k: Violin Concertos Nos. 1 & 2",
         "url": "https://open.spotify.com/album/4MXMGFOC1XpKD4q0rI63GO"
       },
@@ -1223,8 +1199,8 @@
     {
       "added_at": "2022-07-01 04:02:00",
       "album": {
-        "name": "Bart\u00f3k: Works for Violin and Piano, Vol. 2",
-        "url": "https://open.spotify.com/album/4MNzfvklS2GO6cCuG7OfPI"
+        "name": "Bart\u00f3k: 44 Violin Duos",
+        "url": "https://open.spotify.com/album/5Q7FzPEcV0ZTXlprkNEBZd"
       },
       "artists": [
         {
@@ -1232,13 +1208,17 @@
           "url": "https://open.spotify.com/artist/5zyNXVd952fWOjkdGHCvPd"
         },
         {
-          "name": "James Ehnes",
-          "url": "https://open.spotify.com/artist/0b7df8SeNFCgnJj5Wjg5c8"
+          "name": "Angela Chun",
+          "url": "https://open.spotify.com/artist/0IaciBSS1GF5SuqWKzM5wA"
+        },
+        {
+          "name": "Jennifer Chun",
+          "url": "https://open.spotify.com/artist/72ZCIaI1TqwaGRbEvbGBih"
         }
       ],
-      "duration_ms": 433626,
-      "name": "Sonata for Solo Violin, BB 124, Sz. 117: III. Melodia. Adagio",
-      "url": "https://open.spotify.com/track/4Vq0SIJFvdmHirrC9fv4Vb"
+      "duration_ms": 50133,
+      "name": "Forgat\u00f3s",
+      "url": "https://open.spotify.com/track/0kEhYk7x9tux02gC86vGSZ"
     },
     {
       "added_at": "2022-07-01 04:02:00",
@@ -1271,8 +1251,8 @@
     {
       "added_at": "2022-07-01 04:02:00",
       "album": {
-        "name": "Bart\u00f3k",
-        "url": "https://open.spotify.com/album/3H1H5H49IB1Xw8z6qX8lmt"
+        "name": "Bart\u00f3k: Works for Violin and Piano, Vol. 2",
+        "url": "https://open.spotify.com/album/4MNzfvklS2GO6cCuG7OfPI"
       },
       "artists": [
         {
@@ -1280,21 +1260,13 @@
           "url": "https://open.spotify.com/artist/5zyNXVd952fWOjkdGHCvPd"
         },
         {
-          "name": "Leif Ove Andsnes",
-          "url": "https://open.spotify.com/artist/7J9Fo9dMjGNYY8usNMietL"
-        },
-        {
-          "name": "Berliner Philharmoniker",
-          "url": "https://open.spotify.com/artist/6uRJnvQ3f8whVnmeoecv5Z"
-        },
-        {
-          "name": "Pierre Boulez",
-          "url": "https://open.spotify.com/artist/2prZJWfQMnIgwUKxKcBxH7"
+          "name": "James Ehnes",
+          "url": "https://open.spotify.com/artist/0b7df8SeNFCgnJj5Wjg5c8"
         }
       ],
-      "duration_ms": 373000,
-      "name": "Piano Concerto No. 2, BB 101, Sz. 95: III. Allegro molto",
-      "url": "https://open.spotify.com/track/7mnL1wVTvqWrQIrWVbPczg"
+      "duration_ms": 433626,
+      "name": "Sonata for Solo Violin, BB 124, Sz. 117: III. Melodia. Adagio",
+      "url": "https://open.spotify.com/track/4Vq0SIJFvdmHirrC9fv4Vb"
     },
     {
       "added_at": "2022-07-01 04:02:00",
@@ -1327,6 +1299,34 @@
       "duration_ms": 526186,
       "name": "Bluebeard's Castle, Op. 11, Sz. 48: L\u00e1sd a r\u00e9gi asszonyokat (7th Door)",
       "url": "https://open.spotify.com/track/2CiEsmgNchRGnvHMIioM7U"
+    },
+    {
+      "added_at": "2022-07-01 04:02:00",
+      "album": {
+        "name": "Bart\u00f3k",
+        "url": "https://open.spotify.com/album/3H1H5H49IB1Xw8z6qX8lmt"
+      },
+      "artists": [
+        {
+          "name": "B\u00e9la Bart\u00f3k",
+          "url": "https://open.spotify.com/artist/5zyNXVd952fWOjkdGHCvPd"
+        },
+        {
+          "name": "Leif Ove Andsnes",
+          "url": "https://open.spotify.com/artist/7J9Fo9dMjGNYY8usNMietL"
+        },
+        {
+          "name": "Berliner Philharmoniker",
+          "url": "https://open.spotify.com/artist/6uRJnvQ3f8whVnmeoecv5Z"
+        },
+        {
+          "name": "Pierre Boulez",
+          "url": "https://open.spotify.com/artist/2prZJWfQMnIgwUKxKcBxH7"
+        }
+      ],
+      "duration_ms": 373000,
+      "name": "Piano Concerto No. 2, BB 101, Sz. 95: III. Allegro molto",
+      "url": "https://open.spotify.com/track/7mnL1wVTvqWrQIrWVbPczg"
     },
     {
       "added_at": "2022-07-01 04:02:00",
@@ -1375,6 +1375,26 @@
     {
       "added_at": "2022-07-01 04:02:00",
       "album": {
+        "name": "Bart\u00f3k: The String Quartets",
+        "url": "https://open.spotify.com/album/5tHG8pljpG926DuvpxBwXc"
+      },
+      "artists": [
+        {
+          "name": "B\u00e9la Bart\u00f3k",
+          "url": "https://open.spotify.com/artist/5zyNXVd952fWOjkdGHCvPd"
+        },
+        {
+          "name": "Tokyo String Quartet",
+          "url": "https://open.spotify.com/artist/15G9RnBNBDCFUMANna2CvO"
+        }
+      ],
+      "duration_ms": 416000,
+      "name": "String Quartet No. 6, Sz. 114: 4. Mesto",
+      "url": "https://open.spotify.com/track/4wbvnvzu7hPtB7JNoMbsZE"
+    },
+    {
+      "added_at": "2022-07-01 04:02:00",
+      "album": {
         "name": "Bart\u00f3k: The Miraculous Mandarin - Dance Suite - Contrasts",
         "url": "https://open.spotify.com/album/3mxWy3mj34eO9atb70W91y"
       },
@@ -1395,26 +1415,6 @@
       "duration_ms": 194946,
       "name": "The Miraculous Mandarin, Sz. 73: Suddenly the Mandarin's Head Appears Between the Pillows",
       "url": "https://open.spotify.com/track/7185CFfPIA3hbfAjcC5fUO"
-    },
-    {
-      "added_at": "2022-07-01 04:02:00",
-      "album": {
-        "name": "Bart\u00f3k: The String Quartets",
-        "url": "https://open.spotify.com/album/5tHG8pljpG926DuvpxBwXc"
-      },
-      "artists": [
-        {
-          "name": "B\u00e9la Bart\u00f3k",
-          "url": "https://open.spotify.com/artist/5zyNXVd952fWOjkdGHCvPd"
-        },
-        {
-          "name": "Tokyo String Quartet",
-          "url": "https://open.spotify.com/artist/15G9RnBNBDCFUMANna2CvO"
-        }
-      ],
-      "duration_ms": 416000,
-      "name": "String Quartet No. 6, Sz. 114: 4. Mesto",
-      "url": "https://open.spotify.com/track/4wbvnvzu7hPtB7JNoMbsZE"
     },
     {
       "added_at": "2022-07-01 04:02:00",

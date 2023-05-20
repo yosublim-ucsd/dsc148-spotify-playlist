@@ -34,10 +34,28 @@
       ],
       "date_added": "2023-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 189020,
       "name": "Abuso De Autoridad",
       "url": "https://open.spotify.com/track/5CLK0hapjEXe0tMNnAOlcE"
+    },
+    {
+      "album": {
+        "name": "Medio Siglo Rocanroleando",
+        "url": "https://open.spotify.com/album/2PS3k3pl15sTtIPQ5zk7td"
+      },
+      "artists": [
+        {
+          "name": "El Tri",
+          "url": "https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne"
+        }
+      ],
+      "date_added": "2023-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189020,
+      "name": "Abuso De Autoridad",
+      "url": "https://open.spotify.com/track/7bZxJq0g8JlFboqzz9aWaI"
     },
     {
       "album": {
@@ -1498,7 +1516,7 @@
     {
       "album": {
         "name": "El Tri 4 Decadas",
-        "url": "https://open.spotify.com/album/2oUjxsCoulKvOVIlW6oklm"
+        "url": "https://open.spotify.com/album/62AqYKtHR4l6MZtBdA73xk"
       },
       "artists": [
         {
@@ -1509,6 +1527,24 @@
       "date_added": "2023-03-30",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 233146,
+      "name": "Perro Negro (En Vivo)",
+      "url": "https://open.spotify.com/track/44ZmiVyHYipSSThIPs37M6"
+    },
+    {
+      "album": {
+        "name": "El Tri 4 Decadas",
+        "url": "https://open.spotify.com/album/2oUjxsCoulKvOVIlW6oklm"
+      },
+      "artists": [
+        {
+          "name": "El Tri",
+          "url": "https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne"
+        }
+      ],
+      "date_added": "2023-03-30",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-20",
       "duration_ms": 233146,
       "name": "Perro Negro (En Vivo)",
       "url": "https://open.spotify.com/track/6ydmf4dML4JjK8RNBgQgh7"
@@ -1688,10 +1724,28 @@
       ],
       "date_added": "2023-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 164916,
       "name": "Que Viva El Rocanroll",
       "url": "https://open.spotify.com/track/0KfzpnkoGGblgg5e1P9r61"
+    },
+    {
+      "album": {
+        "name": "Medio Siglo Rocanroleando",
+        "url": "https://open.spotify.com/album/2PS3k3pl15sTtIPQ5zk7td"
+      },
+      "artists": [
+        {
+          "name": "El Tri",
+          "url": "https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne"
+        }
+      ],
+      "date_added": "2023-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164916,
+      "name": "Que Viva El Rocanroll",
+      "url": "https://open.spotify.com/track/1GdOWNWw5CFVgxBMSvv1lU"
     },
     {
       "album": {

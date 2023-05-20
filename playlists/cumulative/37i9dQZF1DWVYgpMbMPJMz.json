@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-01",
-  "description": "No need to wait!  Experience today's best Worship music right here, right now, on Spotify.  Cover:  <a href=\"https://open.spotify.com/artist/53Gnd3lGlcL8ua9Yyu9xDP?si=3d7f21346f7f410b\">Amanda Cook</a>",
+  "description": "No need to wait!  Experience today's best Worship music right here, right now, on Spotify.  Cover:  <a href=\"https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu?si=e87946bfcd9444b5\">Phil Wickham</a>",
   "name": "WorshipNow",
   "tracks": [
     {
@@ -3425,6 +3425,28 @@
     },
     {
       "album": {
+        "name": "CAN YOU IMAGINE?",
+        "url": "https://open.spotify.com/album/58ufb71YaU1PetJKQGqSd2"
+      },
+      "artists": [
+        {
+          "name": "Elevation Worship",
+          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
+        },
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/03NN8FAKofZU6phsfHLKPw"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 354885,
+      "name": "Jehovah (feat. Chris Brown)",
+      "url": "https://open.spotify.com/track/4moUecMb5PN5kDTQANggc3"
+    },
+    {
+      "album": {
         "name": "ages (Deluxe / Live)",
         "url": "https://open.spotify.com/album/0fqGvPL2KwVyif5k81ZjJo"
       },
@@ -4590,7 +4612,7 @@
       ],
       "date_added": "2022-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 213640,
       "name": "Never Walk Alone",
       "url": "https://open.spotify.com/track/47Vkl8aZBOe9PFYeg0Asf3"
@@ -4616,6 +4638,24 @@
       "duration_ms": 273245,
       "name": "Never Walk Alone - Live At Team Night",
       "url": "https://open.spotify.com/track/6i7YX1pSS23xCdfW1vzjBf"
+    },
+    {
+      "album": {
+        "name": "Never Walk Alone (Radio Edit)",
+        "url": "https://open.spotify.com/album/56mLUNn4lDWIX64W7qob6h"
+      },
+      "artists": [
+        {
+          "name": "Hope Darst",
+          "url": "https://open.spotify.com/artist/0B5924KrMyjdeYqZsPpw36"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216333,
+      "name": "Never Walk Alone - Radio Edit",
+      "url": "https://open.spotify.com/track/684KWncYCyW2o97ZeJmKbC"
     },
     {
       "album": {
@@ -6449,6 +6489,24 @@
     },
     {
       "album": {
+        "name": "The Jesus Way",
+        "url": "https://open.spotify.com/album/1LCIMDu3lz7kaTdJzivCR1"
+      },
+      "artists": [
+        {
+          "name": "Phil Wickham",
+          "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283986,
+      "name": "The Jesus Way",
+      "url": "https://open.spotify.com/track/4WfLrLmEdMURcgFnTXDaTh"
+    },
+    {
+      "album": {
         "name": "The Last Amen",
         "url": "https://open.spotify.com/album/2ZGaQ9maeazajWhbBUMt2V"
       },
@@ -6938,7 +6996,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 265653,
       "name": "This Is Our God",
       "url": "https://open.spotify.com/track/6StHK5sgz9rjxVZv7CApW2"
@@ -7208,7 +7266,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 442264,
       "name": "Trust In God (feat. Chris Brown)",
       "url": "https://open.spotify.com/track/5EHMPGhsQY5o1pcjOejbMj"

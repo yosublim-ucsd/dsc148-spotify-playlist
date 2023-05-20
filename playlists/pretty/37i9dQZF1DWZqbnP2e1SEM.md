@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqbnP2e1SEM.md) - [plain]
 
 > From Ayia Napa to Ibiza, the biggest anthems from your favourite holiday hotspots.
 
-[Spotify](https://open.spotify.com/user/spotify) - 320,580 likes - 100 songs - 5 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 320,610 likes - 100 songs - 5 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqbnP2e1SEM.md) - [plain]
 | 99 | [Never The Same](https://open.spotify.com/track/52V5wpCwxwzWgNZczk0xRB) | [Loods](https://open.spotify.com/artist/1uF7AFfGahplhiaHEy9NNl) | [Never The Same](https://open.spotify.com/album/3YFUnFp5vvJDmGuepYiTgj) | 3:32 |
 | 100 | [Love With You](https://open.spotify.com/track/6j5KqspWky4FruOBCowDRe) | [Spencer Ramsay](https://open.spotify.com/artist/1IgLSPF7mCbDA9rJmDzqji) | [Love With You](https://open.spotify.com/album/3cRBILOUA2Ag4X6Dn2DjZs) | 3:04 |
 
-Snapshot ID: `MCwyNzI2MThjMGY1YTBjMzgxMTUwZjM1ZWE4N2RiY2M5MzA0ZDE2ODdm`
+Snapshot ID: `MCxkOGFhYWNhNWE0ZDc2NDEzNWFkZTZhYjk2YTNkN2Q5NWY3MDIxYjRh`

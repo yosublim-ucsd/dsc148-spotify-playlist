@@ -1,13 +1,29 @@
 {
-  "description": "make it pop! cover: Jeremy Zucker",
-  "num_followers": 204891,
+  "description": "make it pop! cover: anees",
+  "num_followers": 204933,
   "original_name": "soda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmODkyMjhiNzI3NjZkY2VhMzQ0Njg3YmYyOGMxN2VkYzQ3YzgwNmMx",
+  "snapshot_id": "MCxlY2EyMTY2NTIyMjdkNzkxM2MzZWI1OGU5M2RlMDMwYjYyMjdlZWM4",
   "tracks": [
+    {
+      "added_at": "2023-05-19 04:01:00",
+      "album": {
+        "name": "summer camp",
+        "url": "https://open.spotify.com/album/4mO5hcuCZYh8TyVgUjkIvi"
+      },
+      "artists": [
+        {
+          "name": "anees",
+          "url": "https://open.spotify.com/artist/2HPqVfdPh9JkBSlFG5hK6h"
+        }
+      ],
+      "duration_ms": 172354,
+      "name": "sunny day",
+      "url": "https://open.spotify.com/track/7dA3NRsBnVKtQZgjR5Lzf8"
+    },
     {
       "added_at": "2023-05-12 04:01:00",
       "album": {
@@ -23,6 +39,22 @@
       "duration_ms": 263986,
       "name": "OK",
       "url": "https://open.spotify.com/track/2RSAu3AGDi2sPhYEjSZmzv"
+    },
+    {
+      "added_at": "2023-05-19 04:01:00",
+      "album": {
+        "name": "LOVE IS A...",
+        "url": "https://open.spotify.com/album/4t2uQMc6hW16fiIAY1Cx2K"
+      },
+      "artists": [
+        {
+          "name": "PVRIS",
+          "url": "https://open.spotify.com/artist/6oFs3qk4VepIVFdoD4jmsy"
+        }
+      ],
+      "duration_ms": 221440,
+      "name": "LOVE IS A...",
+      "url": "https://open.spotify.com/track/26KB6jZEqehXJNpguKRomC"
     },
     {
       "added_at": "2023-04-28 04:00:00",
@@ -41,6 +73,22 @@
       "url": "https://open.spotify.com/track/0j1AlYnUBAiYOuVBDwCT20"
     },
     {
+      "added_at": "2023-05-19 04:01:00",
+      "album": {
+        "name": "Mourning",
+        "url": "https://open.spotify.com/album/5mr7Zd2DiuChyMNQ5x76HX"
+      },
+      "artists": [
+        {
+          "name": "Post Malone",
+          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
+        }
+      ],
+      "duration_ms": 147819,
+      "name": "Mourning",
+      "url": "https://open.spotify.com/track/0gWrMbx6pbdH3n3nsLjE55"
+    },
+    {
       "added_at": "2023-05-14 16:30:51",
       "album": {
         "name": "Another Life",
@@ -55,6 +103,22 @@
       "duration_ms": 194880,
       "name": "Waves",
       "url": "https://open.spotify.com/track/3VAKlkSSrbEasm9WDDD9Jd"
+    },
+    {
+      "added_at": "2023-05-19 04:01:00",
+      "album": {
+        "name": "Married Young",
+        "url": "https://open.spotify.com/album/2fQf4Fsxi4n7hcOzpy4ldx"
+      },
+      "artists": [
+        {
+          "name": "Jake Scott",
+          "url": "https://open.spotify.com/artist/0DxPHf2flBAcV2SnZPg3SV"
+        }
+      ],
+      "duration_ms": 185482,
+      "name": "Married Young",
+      "url": "https://open.spotify.com/track/5VpScSThzAjVghCEDOcXS2"
     },
     {
       "added_at": "2023-05-05 04:00:00",
@@ -93,6 +157,22 @@
       "url": "https://open.spotify.com/track/55RszydvrfNlZ2BQdF1c4q"
     },
     {
+      "added_at": "2023-05-19 04:01:00",
+      "album": {
+        "name": "2009 TOYOTA",
+        "url": "https://open.spotify.com/album/1K5aIK5fyR6FuA69uSysJ9"
+      },
+      "artists": [
+        {
+          "name": "Thomas Headon",
+          "url": "https://open.spotify.com/artist/0dn62y7ayEAxcIcMcBWXIE"
+        }
+      ],
+      "duration_ms": 142003,
+      "name": "2009 TOYOTA",
+      "url": "https://open.spotify.com/track/0v0yfan1gz6Cznv0BLXp8Z"
+    },
+    {
       "added_at": "2023-05-12 04:01:00",
       "album": {
         "name": "Malibu",
@@ -123,6 +203,22 @@
       "duration_ms": 132726,
       "name": "Good Not Great",
       "url": "https://open.spotify.com/track/5K6VtWfjGkk1ahcVmPKbL9"
+    },
+    {
+      "added_at": "2023-05-19 04:01:00",
+      "album": {
+        "name": "Tears in the Moonlight",
+        "url": "https://open.spotify.com/album/5VMt4kmFV2RghvnTx9DCyu"
+      },
+      "artists": [
+        {
+          "name": "Kelechi",
+          "url": "https://open.spotify.com/artist/0c62xvYMgfzgFPOXg8uhEU"
+        }
+      ],
+      "duration_ms": 179222,
+      "name": "Tears in the Moonlight",
+      "url": "https://open.spotify.com/track/2MAz9mZH3n9nVGZWUC2VUh"
     },
     {
       "added_at": "2023-04-21 04:00:00",
@@ -571,22 +667,6 @@
       "duration_ms": 157563,
       "name": "Dancing In The Courthouse",
       "url": "https://open.spotify.com/track/4ZwgD4frTwoDdOUsjyoqAJ"
-    },
-    {
-      "added_at": "2023-04-07 18:36:54",
-      "album": {
-        "name": "Dark Skies",
-        "url": "https://open.spotify.com/album/02sx3jt3ifjyr8Yfq6XY0V"
-      },
-      "artists": [
-        {
-          "name": "A R I Z O N A",
-          "url": "https://open.spotify.com/artist/7hOGhpa8RMSuDOWntGIAJt"
-        }
-      ],
-      "duration_ms": 194798,
-      "name": "Dark Skies",
-      "url": "https://open.spotify.com/track/6md6TywIVmybRn604WiPdu"
     },
     {
       "added_at": "2023-04-07 04:00:00",

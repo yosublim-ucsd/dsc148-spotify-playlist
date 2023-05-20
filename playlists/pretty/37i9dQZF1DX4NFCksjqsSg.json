@@ -1,12 +1,12 @@
 {
   "description": "Pas mal \"tes tounes de karaok\u00e9 pr\u00e9f\u00e9r\u00e9es\".",
-  "num_followers": 26183,
+  "num_followers": 26192,
   "original_name": "Fromage",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1Y2E0ZmYyY2FhNTAwZTFmYmU3MWVhMjZkMzEyZTZlZDgxNjExMDA1",
+  "snapshot_id": "MCw0YzExNWM3NzE4ZWM3YzdlN2M1NDQ3YjAyOTFhY2U1YTMxMThiMjBj",
   "tracks": [
     {
       "added_at": "2020-04-07 15:18:18",
@@ -371,22 +371,6 @@
     {
       "added_at": "2020-04-07 15:18:18",
       "album": {
-        "name": "Snob",
-        "url": "https://open.spotify.com/album/1IDH1RaKNwTjqAcrFSIPOy"
-      },
-      "artists": [
-        {
-          "name": "Les BB",
-          "url": "https://open.spotify.com/artist/0zNC9bOB7Hje24yEnFWfAr"
-        }
-      ],
-      "duration_ms": 253160,
-      "name": "Donne-moi ma chance",
-      "url": "https://open.spotify.com/track/1ppfN5g0xqRlvNsy5n5Ib1"
-    },
-    {
-      "added_at": "2020-04-07 15:18:18",
-      "album": {
         "name": "Fruit de ma r\u00e9cente nuit blanche",
         "url": "https://open.spotify.com/album/5mVOHlvYe1tsXI7O46aRx5"
       },
@@ -403,18 +387,18 @@
     {
       "added_at": "2020-04-07 15:18:18",
       "album": {
-        "name": "Parlez-moi de lui - Single",
-        "url": "https://open.spotify.com/album/7wATrm3WRKT271Q2afBwqq"
+        "name": "Snob",
+        "url": "https://open.spotify.com/album/1IDH1RaKNwTjqAcrFSIPOy"
       },
       "artists": [
         {
-          "name": "Nicole Croisille",
-          "url": "https://open.spotify.com/artist/6nKiMtIgRJLOREJtl0eBfV"
+          "name": "Les BB",
+          "url": "https://open.spotify.com/artist/0zNC9bOB7Hje24yEnFWfAr"
         }
       ],
-      "duration_ms": 200760,
-      "name": "Parlez-moi de lui",
-      "url": "https://open.spotify.com/track/6dlwC1DhqGXRzTzJj2sEnW"
+      "duration_ms": 253160,
+      "name": "Donne-moi ma chance",
+      "url": "https://open.spotify.com/track/1ppfN5g0xqRlvNsy5n5Ib1"
     },
     {
       "added_at": "2020-04-07 15:18:18",
@@ -431,6 +415,22 @@
       "duration_ms": 202733,
       "name": "Le temps des cath\u00e9drales",
       "url": "https://open.spotify.com/track/6KoolqHOo79c4lTmAko7NQ"
+    },
+    {
+      "added_at": "2020-04-07 15:18:18",
+      "album": {
+        "name": "Parlez-moi de lui - Single",
+        "url": "https://open.spotify.com/album/7wATrm3WRKT271Q2afBwqq"
+      },
+      "artists": [
+        {
+          "name": "Nicole Croisille",
+          "url": "https://open.spotify.com/artist/6nKiMtIgRJLOREJtl0eBfV"
+        }
+      ],
+      "duration_ms": 200760,
+      "name": "Parlez-moi de lui",
+      "url": "https://open.spotify.com/track/6dlwC1DhqGXRzTzJj2sEnW"
     },
     {
       "added_at": "2020-04-07 15:18:18",
@@ -551,22 +551,6 @@
     {
       "added_at": "2020-04-07 15:18:18",
       "album": {
-        "name": "Une femme avec toi - Single",
-        "url": "https://open.spotify.com/album/76bKZd3b4fuLRTY446i1lc"
-      },
-      "artists": [
-        {
-          "name": "Nicole Croisille",
-          "url": "https://open.spotify.com/artist/6nKiMtIgRJLOREJtl0eBfV"
-        }
-      ],
-      "duration_ms": 263520,
-      "name": "Une femme avec toi",
-      "url": "https://open.spotify.com/track/3LIghH0HLWzawM5n5Vu8Cc"
-    },
-    {
-      "added_at": "2020-04-07 15:18:18",
-      "album": {
         "name": "1\u00e8re p\u00e9riode",
         "url": "https://open.spotify.com/album/7AukTabhSosvxYl4LvG62v"
       },
@@ -579,6 +563,22 @@
       "duration_ms": 230906,
       "name": "J't'aime comme un fou",
       "url": "https://open.spotify.com/track/17vt4SGpyI9ONYIuxDbWm7"
+    },
+    {
+      "added_at": "2020-04-07 15:18:18",
+      "album": {
+        "name": "Une femme avec toi - Single",
+        "url": "https://open.spotify.com/album/76bKZd3b4fuLRTY446i1lc"
+      },
+      "artists": [
+        {
+          "name": "Nicole Croisille",
+          "url": "https://open.spotify.com/artist/6nKiMtIgRJLOREJtl0eBfV"
+        }
+      ],
+      "duration_ms": 263520,
+      "name": "Une femme avec toi",
+      "url": "https://open.spotify.com/track/3LIghH0HLWzawM5n5Vu8Cc"
     },
     {
       "added_at": "2020-04-07 15:18:18",
@@ -743,22 +743,6 @@
     {
       "added_at": "2020-04-07 15:18:18",
       "album": {
-        "name": "Sans retour",
-        "url": "https://open.spotify.com/album/5NBZzXIoyqDUKlvPrdV3fq"
-      },
-      "artists": [
-        {
-          "name": "Marjo",
-          "url": "https://open.spotify.com/artist/3IYryWetzBVax8oJPkgXMk"
-        }
-      ],
-      "duration_ms": 435840,
-      "name": "Ailleurs",
-      "url": "https://open.spotify.com/track/423t7wuX8K01IcXZMzVbBW"
-    },
-    {
-      "added_at": "2020-04-07 15:18:18",
-      "album": {
         "name": "Tu trouveras... 10 Ans De Succ\u00e8s",
         "url": "https://open.spotify.com/album/5nRY7aAo34cFREm91rmzET"
       },
@@ -771,6 +755,22 @@
       "duration_ms": 298986,
       "name": "Tu trouveras",
       "url": "https://open.spotify.com/track/2mvv1eZ8tAlm1FkuxTdnL7"
+    },
+    {
+      "added_at": "2020-04-07 15:18:18",
+      "album": {
+        "name": "Sans retour",
+        "url": "https://open.spotify.com/album/5NBZzXIoyqDUKlvPrdV3fq"
+      },
+      "artists": [
+        {
+          "name": "Marjo",
+          "url": "https://open.spotify.com/artist/3IYryWetzBVax8oJPkgXMk"
+        }
+      ],
+      "duration_ms": 435840,
+      "name": "Ailleurs",
+      "url": "https://open.spotify.com/track/423t7wuX8K01IcXZMzVbBW"
     },
     {
       "added_at": "2020-04-07 15:18:18",
@@ -891,22 +891,6 @@
     {
       "added_at": "2020-04-07 15:18:18",
       "album": {
-        "name": "Tant qu'il y aura des enfants",
-        "url": "https://open.spotify.com/album/0hNRs8jqYmS5Ly74AXMfur"
-      },
-      "artists": [
-        {
-          "name": "Marjo",
-          "url": "https://open.spotify.com/artist/3IYryWetzBVax8oJPkgXMk"
-        }
-      ],
-      "duration_ms": 259906,
-      "name": "Je sais je sais",
-      "url": "https://open.spotify.com/track/13ZsSDfT1P3zmDEkq1eBrZ"
-    },
-    {
-      "added_at": "2020-04-07 15:18:18",
-      "album": {
         "name": "Marie-Chantal Toupin",
         "url": "https://open.spotify.com/album/0lNod135VW70QPPSXZEoZs"
       },
@@ -939,18 +923,18 @@
     {
       "added_at": "2020-04-07 15:18:18",
       "album": {
-        "name": "35th Anniversary Collection",
-        "url": "https://open.spotify.com/album/2YViwEGMIRU0HonwnkgTEE"
+        "name": "Tant qu'il y aura des enfants",
+        "url": "https://open.spotify.com/album/0hNRs8jqYmS5Ly74AXMfur"
       },
       "artists": [
         {
-          "name": "Beau Dommage",
-          "url": "https://open.spotify.com/artist/2cdnxq3gRcJudFLmWhDTQp"
+          "name": "Marjo",
+          "url": "https://open.spotify.com/artist/3IYryWetzBVax8oJPkgXMk"
         }
       ],
-      "duration_ms": 263786,
-      "name": "Echapp\u00e9 belle - 2008 Digital Remaster",
-      "url": "https://open.spotify.com/track/4SUoJetaqEiKRyiEh2HQG5"
+      "duration_ms": 259906,
+      "name": "Je sais je sais",
+      "url": "https://open.spotify.com/track/13ZsSDfT1P3zmDEkq1eBrZ"
     },
     {
       "added_at": "2020-04-07 15:18:18",
@@ -967,6 +951,22 @@
       "duration_ms": 287253,
       "name": "Si j'\u00e9tais un homme",
       "url": "https://open.spotify.com/track/3fX8Q1XVOKfkD5TpRSWGnF"
+    },
+    {
+      "added_at": "2020-04-07 15:18:18",
+      "album": {
+        "name": "35th Anniversary Collection",
+        "url": "https://open.spotify.com/album/2YViwEGMIRU0HonwnkgTEE"
+      },
+      "artists": [
+        {
+          "name": "Beau Dommage",
+          "url": "https://open.spotify.com/artist/2cdnxq3gRcJudFLmWhDTQp"
+        }
+      ],
+      "duration_ms": 263786,
+      "name": "Echapp\u00e9 belle - 2008 Digital Remaster",
+      "url": "https://open.spotify.com/track/4SUoJetaqEiKRyiEh2HQG5"
     },
     {
       "added_at": "2020-04-07 15:18:18",
@@ -1019,22 +1019,6 @@
     {
       "added_at": "2020-04-07 15:18:18",
       "album": {
-        "name": "Julie Masse",
-        "url": "https://open.spotify.com/album/533nyHsf7XYf0YYluQymVE"
-      },
-      "artists": [
-        {
-          "name": "Julie Masse",
-          "url": "https://open.spotify.com/artist/5psniKvOx6O0HkMSoY6RuC"
-        }
-      ],
-      "duration_ms": 224506,
-      "name": "Billy",
-      "url": "https://open.spotify.com/track/28yEUMWeyu4v6oPsVxF22x"
-    },
-    {
-      "added_at": "2020-04-07 15:18:18",
-      "album": {
         "name": "Les grands succ\u00e8s de Diane Dufresne",
         "url": "https://open.spotify.com/album/6WS4SEnixyqEIQHZ5TmmPV"
       },
@@ -1047,6 +1031,22 @@
       "duration_ms": 173080,
       "name": "Un souvenir heureux",
       "url": "https://open.spotify.com/track/0uenXaHPfVWwcKHEpLz6kn"
+    },
+    {
+      "added_at": "2020-04-07 15:18:18",
+      "album": {
+        "name": "Julie Masse",
+        "url": "https://open.spotify.com/album/533nyHsf7XYf0YYluQymVE"
+      },
+      "artists": [
+        {
+          "name": "Julie Masse",
+          "url": "https://open.spotify.com/artist/5psniKvOx6O0HkMSoY6RuC"
+        }
+      ],
+      "duration_ms": 224506,
+      "name": "Billy",
+      "url": "https://open.spotify.com/track/28yEUMWeyu4v6oPsVxF22x"
     },
     {
       "added_at": "2020-04-07 15:18:18",
@@ -1067,22 +1067,6 @@
     {
       "added_at": "2020-04-07 15:18:18",
       "album": {
-        "name": "Caribou",
-        "url": "https://open.spotify.com/album/43hrsuXAxYjK61wHmnS9KE"
-      },
-      "artists": [
-        {
-          "name": "Martine St Clair",
-          "url": "https://open.spotify.com/artist/7mj0ykOd4nU43TFvJobbyq"
-        }
-      ],
-      "duration_ms": 206893,
-      "name": "Lavez, lavez",
-      "url": "https://open.spotify.com/track/3AgSdVZqt0IC6p8MvkV88z"
-    },
-    {
-      "added_at": "2020-04-07 15:18:18",
-      "album": {
         "name": "Premi\u00e8res nuits",
         "url": "https://open.spotify.com/album/3xn5BcOySaPQDUzHweLI6y"
       },
@@ -1095,6 +1079,22 @@
       "duration_ms": 255666,
       "name": "Les bras de satan",
       "url": "https://open.spotify.com/track/3LQqPNWVEQt1NOJs5zJanY"
+    },
+    {
+      "added_at": "2020-04-07 15:18:18",
+      "album": {
+        "name": "Caribou",
+        "url": "https://open.spotify.com/album/43hrsuXAxYjK61wHmnS9KE"
+      },
+      "artists": [
+        {
+          "name": "Martine St Clair",
+          "url": "https://open.spotify.com/artist/7mj0ykOd4nU43TFvJobbyq"
+        }
+      ],
+      "duration_ms": 206893,
+      "name": "Lavez, lavez",
+      "url": "https://open.spotify.com/track/3AgSdVZqt0IC6p8MvkV88z"
     },
     {
       "added_at": "2020-04-07 15:18:18",

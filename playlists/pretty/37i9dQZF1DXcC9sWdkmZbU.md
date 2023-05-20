@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcC9sWdkmZbU.md) - [plain]
 
 > Worship songs for the whole family.
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,328 likes - 60 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,381 likes - 60 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,7 +60,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcC9sWdkmZbU.md) - [plain]
 | 50 | [No Greater Love](https://open.spotify.com/track/2AfFMm3DTsbQ1qvE61uZwM) | [Maranatha! Kids](https://open.spotify.com/artist/40JuNvEnk3vufsyLg9WX5n) | [Top 50 Kids' Praise! Company](https://open.spotify.com/album/76ydbYVdYIcrk0fvIykacg) | 3:50 |
 | 51 | [Power \(Acts 1:8 Esv\)](https://open.spotify.com/track/5TWNtcnXBFKOD6J6ZMH2Cm) | [Seeds Family Worship](https://open.spotify.com/artist/5kV2pC0biCYFh3y9HxgNkS) | [Power, Vol.15](https://open.spotify.com/album/0SsqF3EDjThol2LBiHEgTk) | 3:13 |
 | 52 | [\(Don't You Know\) It's Time To Praise The Lord](https://open.spotify.com/track/3jdRHx3dv2Rg4Ywdm3SGvj) | [Kids Praise Co.](https://open.spotify.com/artist/72GwlC9WENLKUaZiwixp5V) | [Top 50 Kids' Praise! Company](https://open.spotify.com/album/76ydbYVdYIcrk0fvIykacg) | 0:59 |
-| 53 | [Hes Got the Whole World in His Hands](https://open.spotify.com/track/3pihU0E5xgZ5JIAnsBdC71) | [Sunday School Songs](https://open.spotify.com/artist/6cd0NAKYLoAVLp6s3hUi2R), [Shout Praises Kids](https://open.spotify.com/artist/0SKVoWXola9WXgw3PwMYpE) | [Hes Got the Whole World in His Hands](https://open.spotify.com/album/0Xw01vBCWorR0ILodrB9TS) | 2:28 |
+| 53 | [Hes Got the Whole World in His Hands](https://open.spotify.com/track/3pihU0E5xgZ5JIAnsBdC71) | [Sunday School Songs](https://open.spotify.com/artist/6cd0NAKYLoAVLp6s3hUi2R), [Shout Praises Kids](https://open.spotify.com/artist/0lDtW3w1jcZ5GUGSdgkBNJ) | [Hes Got the Whole World in His Hands](https://open.spotify.com/album/0Xw01vBCWorR0ILodrB9TS) | 2:28 |
 | 54 | [Who Built The Ark?](https://open.spotify.com/track/0fShOGDZo8zR5IbxWzUPIZ) | [Kids Praise Co.](https://open.spotify.com/artist/72GwlC9WENLKUaZiwixp5V) | [Top 50 Kids' Praise! Company](https://open.spotify.com/album/76ydbYVdYIcrk0fvIykacg) | 2:26 |
 | 55 | [Wherever Whatever](https://open.spotify.com/track/5DVdqxQlrCtotYOwsro4aA) | [Amber Sky Records](https://open.spotify.com/artist/6cAxRZyhkM7NqvV2hSc7Wb) | [I Count on You](https://open.spotify.com/album/7mMVwfLd4OtTX1dfs5UQrY) | 2:30 |
 | 56 | [Oh We Love You \(John 3:16\) \- Live](https://open.spotify.com/track/5Qu9EXAsihlQvm0biIZT3d) | [Shane & Shane](https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied), [Kingdom Kids](https://open.spotify.com/artist/5ZEFkYy6VPMg1C4QssVKCZ) | [Worship in The Word \(Live\)](https://open.spotify.com/album/2r1bFBFghxJUoSmJe5eTIJ) | 4:33 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcC9sWdkmZbU.md) - [plain]
 | 59 | [Let Your Light Shine \(Matthew 5:14,16 Berean\)](https://open.spotify.com/track/6N1V1o6ZZ9aWJFn3r6wgfl) | [Slugs and Bugs](https://open.spotify.com/artist/5OqR2VGSqk60tMFN8eINMN) | [Let Your Light Shine](https://open.spotify.com/album/5z8Ma2gz6h4sIH4Rj2jwiw) | 3:06 |
 | 60 | [Blessed Be Your Name](https://open.spotify.com/track/3yJIV1U93Bpgw2cRZ6VUiw) | [Worship Together Kids](https://open.spotify.com/artist/6Fe9FE8NPBvABndkjAuQv4) | [Kids Worship](https://open.spotify.com/album/4UJ8RjRSXUu08DahKcivwc) | 3:42 |
 
-Snapshot ID: `MCw2ZWNjOTRiNzVmYTZiYjA0NjRmYzAyZWM5YWJkY2I2ZjRjYjdkMjBi`
+Snapshot ID: `MCxkY2M4ZTBhYzI5OWZmZTQzYWE2ZjQxMDBhYjU1ZWVlNDk0ZWQxMWMy`

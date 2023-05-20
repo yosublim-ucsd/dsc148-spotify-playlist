@@ -1,12 +1,12 @@
 {
   "description": "wru? OTW! Cover: Hindia",
-  "num_followers": 11060,
+  "num_followers": 11092,
   "original_name": "OTW ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmMTZjNDNjMzBmZjFjMmNjYjQ5N2I0MmIzNWM0YzM5YTU0ZTNmODE3",
+  "snapshot_id": "MCwxZjU4MmJiMmUyODE5ZTNjOWM0MjM4OWFlYTQyM2NlYjU2Yzk3ZDky",
   "tracks": [
     {
       "added_at": "2023-05-18 23:44:10",
@@ -363,22 +363,6 @@
     {
       "added_at": "2023-05-18 23:44:10",
       "album": {
-        "name": "Inilah JalanNya",
-        "url": "https://open.spotify.com/album/3ddYz2fYJB0jUPsyICvKYH"
-      },
-      "artists": [
-        {
-          "name": "Masdo",
-          "url": "https://open.spotify.com/artist/2r1WoyhX1FSc7AmcF8rkoO"
-        }
-      ],
-      "duration_ms": 160117,
-      "name": "Inilah JalanNya",
-      "url": "https://open.spotify.com/track/6u2B9FZFAEFKEQhSWhKg4z"
-    },
-    {
-      "added_at": "2023-05-18 23:44:10",
-      "album": {
         "name": "Live to Love",
         "url": "https://open.spotify.com/album/3eWu0wNs9ltvXghDHMhHQK"
       },
@@ -391,6 +375,22 @@
       "duration_ms": 248471,
       "name": "Untukmu Aku Bertahan",
       "url": "https://open.spotify.com/track/2BIqdq5nGdZRB6qCS4YHDD"
+    },
+    {
+      "added_at": "2023-05-18 23:44:10",
+      "album": {
+        "name": "Inilah JalanNya",
+        "url": "https://open.spotify.com/album/3ddYz2fYJB0jUPsyICvKYH"
+      },
+      "artists": [
+        {
+          "name": "Masdo",
+          "url": "https://open.spotify.com/artist/2r1WoyhX1FSc7AmcF8rkoO"
+        }
+      ],
+      "duration_ms": 160117,
+      "name": "Inilah JalanNya",
+      "url": "https://open.spotify.com/track/6u2B9FZFAEFKEQhSWhKg4z"
     },
     {
       "added_at": "2023-05-18 23:44:10",
@@ -427,54 +427,6 @@
     {
       "added_at": "2023-05-18 23:44:10",
       "album": {
-        "name": "Agterplaas",
-        "url": "https://open.spotify.com/album/6EjtRvsWa1wRYJgeJOROI3"
-      },
-      "artists": [
-        {
-          "name": "The Adams",
-          "url": "https://open.spotify.com/artist/0zuIBB0gRxp4i4E2gvrcoM"
-        }
-      ],
-      "duration_ms": 299093,
-      "name": "Timur",
-      "url": "https://open.spotify.com/track/2bEuh25NMtUEQGu6VqohPu"
-    },
-    {
-      "added_at": "2023-05-18 23:44:10",
-      "album": {
-        "name": "Ada Apa Dengan Cinta (Original Soundtrack)",
-        "url": "https://open.spotify.com/album/0CXcKhEEmqlMXPS5iPErte"
-      },
-      "artists": [
-        {
-          "name": "Melly Goeslaw",
-          "url": "https://open.spotify.com/artist/6oM1PyiV3LidEUIHKubg3W"
-        }
-      ],
-      "duration_ms": 179693,
-      "name": "Kubahagia",
-      "url": "https://open.spotify.com/track/1fmbs7VQlf1X55E99IYyzQ"
-    },
-    {
-      "added_at": "2023-05-18 23:44:10",
-      "album": {
-        "name": "Confession No.1",
-        "url": "https://open.spotify.com/album/1ahdxVWtqETWgYIuO4Uv8v"
-      },
-      "artists": [
-        {
-          "name": "Afgan",
-          "url": "https://open.spotify.com/artist/4cgBCGxtlfap2g6jveB7du"
-        }
-      ],
-      "duration_ms": 251454,
-      "name": "Terima Kasih Cinta",
-      "url": "https://open.spotify.com/track/3YNMHA6FqeqWzZyw0JVyIi"
-    },
-    {
-      "added_at": "2023-05-18 23:44:10",
-      "album": {
         "name": "Glorious (The Official Song of FIFA U-20 World Cup Argentina 2023\u2122)",
         "url": "https://open.spotify.com/album/2m15vzjiJstBHRoB8GqFZT"
       },
@@ -507,6 +459,22 @@
     {
       "added_at": "2023-05-18 23:44:10",
       "album": {
+        "name": "Agterplaas",
+        "url": "https://open.spotify.com/album/6EjtRvsWa1wRYJgeJOROI3"
+      },
+      "artists": [
+        {
+          "name": "The Adams",
+          "url": "https://open.spotify.com/artist/0zuIBB0gRxp4i4E2gvrcoM"
+        }
+      ],
+      "duration_ms": 299093,
+      "name": "Timur",
+      "url": "https://open.spotify.com/track/2bEuh25NMtUEQGu6VqohPu"
+    },
+    {
+      "added_at": "2023-05-18 23:44:10",
+      "album": {
         "name": "HOME IS WHO YOU ARE",
         "url": "https://open.spotify.com/album/6kCGFww4UHWgTffxZ9L8TJ"
       },
@@ -523,6 +491,22 @@
     {
       "added_at": "2023-05-18 23:44:10",
       "album": {
+        "name": "Confession No.1",
+        "url": "https://open.spotify.com/album/1ahdxVWtqETWgYIuO4Uv8v"
+      },
+      "artists": [
+        {
+          "name": "Afgan",
+          "url": "https://open.spotify.com/artist/4cgBCGxtlfap2g6jveB7du"
+        }
+      ],
+      "duration_ms": 251454,
+      "name": "Terima Kasih Cinta",
+      "url": "https://open.spotify.com/track/3YNMHA6FqeqWzZyw0JVyIi"
+    },
+    {
+      "added_at": "2023-05-18 23:44:10",
+      "album": {
         "name": "Dreamin' of You",
         "url": "https://open.spotify.com/album/4S8IoiTKXbkvnpGkSO6kZk"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 188131,
       "name": "Dreamin' of You",
       "url": "https://open.spotify.com/track/1f4N7JUd6dUHfZpfgOM72U"
+    },
+    {
+      "added_at": "2023-05-18 23:44:10",
+      "album": {
+        "name": "Ada Apa Dengan Cinta (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/0CXcKhEEmqlMXPS5iPErte"
+      },
+      "artists": [
+        {
+          "name": "Melly Goeslaw",
+          "url": "https://open.spotify.com/artist/6oM1PyiV3LidEUIHKubg3W"
+        }
+      ],
+      "duration_ms": 179693,
+      "name": "Kubahagia",
+      "url": "https://open.spotify.com/track/1fmbs7VQlf1X55E99IYyzQ"
     },
     {
       "added_at": "2023-05-18 23:44:10",
@@ -603,6 +603,22 @@
     {
       "added_at": "2023-05-18 23:44:10",
       "album": {
+        "name": "BEAUTiFUL",
+        "url": "https://open.spotify.com/album/2g4oO9W4k5oKtND4ctGzZy"
+      },
+      "artists": [
+        {
+          "name": "Paul Partohap",
+          "url": "https://open.spotify.com/artist/7JUNqSO2J7JcC76ShZ9DI9"
+        }
+      ],
+      "duration_ms": 212224,
+      "name": "BEAUTiFUL",
+      "url": "https://open.spotify.com/track/7nDp1GRUcGuwpxLFmL8CZN"
+    },
+    {
+      "added_at": "2023-05-18 23:44:10",
+      "album": {
         "name": "PadaMu Kubersujud (Religi Islam)",
         "url": "https://open.spotify.com/album/3WbSafPqolU1eH5O38cBuL"
       },
@@ -631,22 +647,6 @@
       "duration_ms": 183068,
       "name": "Bila Kemarin",
       "url": "https://open.spotify.com/track/50CsVpRhz7dhFPUWZs4rhS"
-    },
-    {
-      "added_at": "2023-05-18 23:44:10",
-      "album": {
-        "name": "BEAUTiFUL",
-        "url": "https://open.spotify.com/album/2g4oO9W4k5oKtND4ctGzZy"
-      },
-      "artists": [
-        {
-          "name": "Paul Partohap",
-          "url": "https://open.spotify.com/artist/7JUNqSO2J7JcC76ShZ9DI9"
-        }
-      ],
-      "duration_ms": 212224,
-      "name": "BEAUTiFUL",
-      "url": "https://open.spotify.com/track/7nDp1GRUcGuwpxLFmL8CZN"
     },
     {
       "added_at": "2023-05-18 23:44:10",
@@ -683,18 +683,18 @@
     {
       "added_at": "2023-05-18 23:44:10",
       "album": {
-        "name": "Santai",
-        "url": "https://open.spotify.com/album/6Kt66JYdEYoIEwLNidoGxO"
+        "name": "sulky baby",
+        "url": "https://open.spotify.com/album/3MvISUCBgt0rFXGhuxJ7IJ"
       },
       "artists": [
         {
-          "name": "Faizal Tahir",
-          "url": "https://open.spotify.com/artist/0CIHy5rV9yWHNaYa8U3KLk"
+          "name": "yeule",
+          "url": "https://open.spotify.com/artist/1WZarnZpWEv7dDtjAETt4X"
         }
       ],
-      "duration_ms": 194531,
-      "name": "Santai",
-      "url": "https://open.spotify.com/track/1M0m0moDfMuFHiTU87sUlB"
+      "duration_ms": 278998,
+      "name": "sulky baby",
+      "url": "https://open.spotify.com/track/3GnahtjoeFUWAu6vEYQnzH"
     },
     {
       "added_at": "2023-05-18 23:44:10",
@@ -711,6 +711,22 @@
       "duration_ms": 200453,
       "name": "Buka Hati",
       "url": "https://open.spotify.com/track/3TuqUJ3OXEc68FdhoE2kaU"
+    },
+    {
+      "added_at": "2023-05-18 23:44:10",
+      "album": {
+        "name": "Santai",
+        "url": "https://open.spotify.com/album/6Kt66JYdEYoIEwLNidoGxO"
+      },
+      "artists": [
+        {
+          "name": "Faizal Tahir",
+          "url": "https://open.spotify.com/artist/0CIHy5rV9yWHNaYa8U3KLk"
+        }
+      ],
+      "duration_ms": 194531,
+      "name": "Santai",
+      "url": "https://open.spotify.com/track/1M0m0moDfMuFHiTU87sUlB"
     },
     {
       "added_at": "2023-05-18 23:44:10",
@@ -743,22 +759,6 @@
       "duration_ms": 211160,
       "name": "Lagu Kita",
       "url": "https://open.spotify.com/track/1M3VWshwnG5op9B8UT0s5W"
-    },
-    {
-      "added_at": "2023-05-18 23:44:10",
-      "album": {
-        "name": "sulky baby",
-        "url": "https://open.spotify.com/album/3MvISUCBgt0rFXGhuxJ7IJ"
-      },
-      "artists": [
-        {
-          "name": "yeule",
-          "url": "https://open.spotify.com/artist/1WZarnZpWEv7dDtjAETt4X"
-        }
-      ],
-      "duration_ms": 278998,
-      "name": "sulky baby",
-      "url": "https://open.spotify.com/track/3GnahtjoeFUWAu6vEYQnzH"
     },
     {
       "added_at": "2023-05-18 23:44:10",

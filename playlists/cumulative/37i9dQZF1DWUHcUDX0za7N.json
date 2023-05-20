@@ -1890,7 +1890,7 @@
       ],
       "date_added": "2022-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 147428,
       "name": "Legendary",
       "url": "https://open.spotify.com/track/3SvMD6ePy6BrNmnNzBGdnD"
@@ -2105,6 +2105,28 @@
     },
     {
       "album": {
+        "name": "Money Takes Away the Pain.",
+        "url": "https://open.spotify.com/album/3lM6CqTPsvohn0BQ4ebPaP"
+      },
+      "artists": [
+        {
+          "name": "Sosa.ttw",
+          "url": "https://open.spotify.com/artist/5yh4KL43XecTrNwFmDF7Ko"
+        },
+        {
+          "name": "Beat$byladi",
+          "url": "https://open.spotify.com/artist/41o2VVzfcd8o5TzYZLPEos"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134813,
+      "name": "Money Takes Away the Pain.",
+      "url": "https://open.spotify.com/track/1lxuTgdKuS8bqDEKRUfDUJ"
+    },
+    {
+      "album": {
         "name": "Monica",
         "url": "https://open.spotify.com/album/1O3EkG2OtqBnxElNZVmazo"
       },
@@ -2284,6 +2306,28 @@
       "duration_ms": 145263,
       "name": "NI NIGERIA",
       "url": "https://open.spotify.com/track/4p92W0Op710L8WIzt6EQGf"
+    },
+    {
+      "album": {
+        "name": "RELOAD X NO CAP",
+        "url": "https://open.spotify.com/album/107Z1g0gYhZWLi2NFfhhVv"
+      },
+      "artists": [
+        {
+          "name": "Fasina",
+          "url": "https://open.spotify.com/artist/46A6IKsvzRN2Y6QHLkHvmw"
+        },
+        {
+          "name": "MOJO AF",
+          "url": "https://open.spotify.com/artist/0O0V4TRjySfTG6HugFLY92"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178285,
+      "name": "NO CAP",
+      "url": "https://open.spotify.com/track/2QH6xWPxHauaum2WJK6m6O"
     },
     {
       "album": {
@@ -3744,7 +3788,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 238857,
       "name": "Tycoon",
       "url": "https://open.spotify.com/track/6MzulmD5wofNSMmBTqNsba"

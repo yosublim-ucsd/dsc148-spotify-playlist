@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5WbJFtYTzv7.md) - [plain]
 
 > Listen to the brand new album 'Ignorance is Bliss' and all his biggest tracks, all in one place.
 
-[Spotify](https://open.spotify.com/user/spotify) - 110,819 likes - 62 songs - 3 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 110,860 likes - 62 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,4 +71,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5WbJFtYTzv7.md) - [plain]
 | 61 | [Coming Soon](https://open.spotify.com/track/7F52tArntesgjZT9t8rp6L) | [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN), [Makonnen & Ceon](https://open.spotify.com/artist/0r7BTt9apQmeFMiFM10CYn) | [Coming Soon](https://open.spotify.com/album/5SRuNtAVE7SZ0GgUHvbIQC) | 3:40 |
 | 62 | [Make Peace Not War](https://open.spotify.com/track/1YHC7vYpLhkUMftjYJFUat) | [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN) | [Make Peace Not War](https://open.spotify.com/album/1TMGC0h58KA11cE9yZfq9b) | 3:14 |
 
-Snapshot ID: `MCxmZjM0OWJjZWVmYzllOTI0YzNkYzRhYjA0MzU5MGUyMTRmNmY3ZmE2`
+Snapshot ID: `MCxkMWZlZTdkNzliNGY0ZmI1YTI0YWEyODNiN2E2ZDIyYmVkNWM5ODU4`

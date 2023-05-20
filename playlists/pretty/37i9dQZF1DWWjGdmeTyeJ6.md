@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWjGdmeTyeJ6.md) - [plain]
 
 > The <a href="spotify:genre:0JQ5DAqbMKFImHYGo3eTSg">best new music</a> by independent artists and labels\. Cover: Little Moon\. Artwork by Isu Kim\. Updates every Wednesday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,155,441 likes - 68 songs - 3 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,155,439 likes - 68 songs - 3 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,4 +77,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWjGdmeTyeJ6.md) - [plain]
 | 67 | [So Real](https://open.spotify.com/track/7Iy9nquGdO3knVC4PW9xKk) | [99 Nissan Patrol](https://open.spotify.com/artist/6NLwlRl1gc64NVdC4ZXxgw) | [So Real](https://open.spotify.com/album/0FYjmJ49n0NOXjijotrSdk) | 4:30 |
 | 68 | [La Pari](https://open.spotify.com/track/1Cx9EMrphjtHSxxoW7QTBa) | [MJ Nebreda](https://open.spotify.com/artist/1h6b4y2ObngnFpgEwry7Fy) | [La Pari](https://open.spotify.com/album/6XHFSppc35WaCBrPrTfIa8) | 2:47 |
 
-Snapshot ID: `MCw0OTljNWJkZjlhNzY0NWFlODZmMmFkNTYzZmE2MzkyMzg0ZTM3MmVm`
+Snapshot ID: `MCxhMDkxNjVmYjhmOWEyZjdhZmM2ODU4NjM5YzczZTkwMzc2ZWU4MjIx`

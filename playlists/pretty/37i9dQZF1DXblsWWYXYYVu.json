@@ -1,13 +1,29 @@
 {
   "description": "Relax and take it slow today",
-  "num_followers": 73974,
+  "num_followers": 73991,
   "original_name": "Take it Slow",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwMDQ1OGYzNTdlZWI3YjgzOTczMjZhYzQ2MTMzZGFjODMxZGRjYWQx",
+  "snapshot_id": "MCwxZDhlMzVmN2MzYjIwMzViODc5MDM0MGMzNWE1Y2ZkYWY2OTQ2Njlm",
   "tracks": [
+    {
+      "added_at": "2023-05-19 04:01:00",
+      "album": {
+        "name": "Meltdown (Acoustic)",
+        "url": "https://open.spotify.com/album/4WnJjgV05k7SlsFI4u7mEK"
+      },
+      "artists": [
+        {
+          "name": "Niall Horan",
+          "url": "https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4"
+        }
+      ],
+      "duration_ms": 224487,
+      "name": "Meltdown - Acoustic",
+      "url": "https://open.spotify.com/track/73FSsylmR8pD3q4PVGmOqc"
+    },
     {
       "added_at": "2023-04-28 04:01:00",
       "album": {
@@ -1619,22 +1635,6 @@
       "duration_ms": 227661,
       "name": "War",
       "url": "https://open.spotify.com/track/1UxeYs0x9oyJtCpmH0QbvL"
-    },
-    {
-      "added_at": "2021-04-19 17:11:28",
-      "album": {
-        "name": "Supernova Acoustic",
-        "url": "https://open.spotify.com/album/6osrioku931TjO8ybo7oGX"
-      },
-      "artists": [
-        {
-          "name": "Caitlyn Smith",
-          "url": "https://open.spotify.com/artist/3uikSah4dwqwuk0EidFI4R"
-        }
-      ],
-      "duration_ms": 212013,
-      "name": "I Can't (Acoustic)",
-      "url": "https://open.spotify.com/track/7jjeVkCrL7K9ej9Pxt76bb"
     }
   ],
   "unique_name": "Take it Slow",

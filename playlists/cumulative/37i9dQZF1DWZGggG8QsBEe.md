@@ -4,7 +4,7 @@
 
 > A flow of white water noise, let go to the soothing rush of cascading waterfall sounds.
 
-52 songs - 2 hr 31 min
+56 songs - 2 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,7 +19,7 @@
 | [focus water stream](https://open.spotify.com/track/1pEJlVzcCKCLV8JW0TYCB2) | [Sounds of Beauty](https://open.spotify.com/artist/0HVe7pR5Jimsjvw7NTNala) | [Water Sounds](https://open.spotify.com/album/1NEKfuhrHdM1r7hDVe01EK) | 3:39 | 2022-10-27 |  |
 | [Forest Waterfall](https://open.spotify.com/track/2JUydjXnVVXHCyYv4yeYN8) | [Vattenmannen](https://open.spotify.com/artist/0ZZMkuvAapZ9KEvxQ5XeYJ) | [Meditate To The Sound Of Water](https://open.spotify.com/album/1cAnbiwCT1ogtEhPI1cLtm) | 1:38 | 2022-10-27 | 2022-12-21 |
 | [Forest Waterfall \- Seamless](https://open.spotify.com/track/0NOpFrkdXNs8vI13WeS7F4) | [Vattenmannen](https://open.spotify.com/artist/0ZZMkuvAapZ9KEvxQ5XeYJ) | [Meditate To The Sound Of Water](https://open.spotify.com/album/1cAnbiwCT1ogtEhPI1cLtm) | 1:38 | 2022-10-27 |  |
-| [Glittering Falls](https://open.spotify.com/track/6OPibbuc7jJPIE1KJ7zlJk) | [Relax in Nature](https://open.spotify.com/artist/16fYHNLMoSN9nzztR8e2Sw) | [Tropical Waterfall](https://open.spotify.com/album/4j3KMcFMVPDyez6Ibai6dv) | 2:41 | 2022-10-27 |  |
+| [Glittering Falls](https://open.spotify.com/track/6OPibbuc7jJPIE1KJ7zlJk) | [Relax in Nature](https://open.spotify.com/artist/16fYHNLMoSN9nzztR8e2Sw) | [Tropical Waterfall](https://open.spotify.com/album/4j3KMcFMVPDyez6Ibai6dv) | 2:41 | 2022-10-27 | 2023-05-20 |
 | [Gurgelnder Bergbach](https://open.spotify.com/track/3t2wVzmrOEXa81UEyXFkHv) | [Wasser Freq](https://open.spotify.com/artist/5BSws4xXtmTrcvdacAMzjF) | [Beruhigender Wasserlauf](https://open.spotify.com/album/0xYC3jTemfxkmi8n7audKZ) | 2:21 | 2022-10-27 |  |
 | [Huge River \- Seamless](https://open.spotify.com/track/11NG99zOBCi53U8DsVTSyG) | [Floder](https://open.spotify.com/artist/57MZUPxjVvsMBiz5JzL3ii) | [Swedish Water Streams](https://open.spotify.com/album/0R1de3qcFqytuzgoRePMAF) | 1:42 | 2022-10-27 |  |
 | [Kauai Waterfall White Noise](https://open.spotify.com/track/0HoHr2DNEeCPfEzJ9ojlzE) | [Freq Molecule](https://open.spotify.com/artist/0p03OqcToOGwKxzUkJQJkO) | [Sleepy Waterfall White Noise](https://open.spotify.com/album/39W88WfbNmYpOqpeFNW1WO) | 4:04 | 2022-10-27 |  |
@@ -37,7 +37,9 @@
 | [Rocky Waterfall](https://open.spotify.com/track/2uIO6in0n9d4ijRgQ0JjZH) | [Sounds from Above](https://open.spotify.com/artist/17HGEQUIyMzUgtjvBh8rWc) | [Waterfalls, Waterfalls, Waterfalls](https://open.spotify.com/album/3lMBVWskjpk1Qm2fBhVz00) | 1:58 | 2022-10-27 |  |
 | [Rumbling Waterfall](https://open.spotify.com/track/2ZJNFbQikkhOn0Yod0dD0M) | [Nature Field Recordings](https://open.spotify.com/artist/3DTgZfug2RpZinxGiFR5FD) | [Waterfalls in Winter](https://open.spotify.com/album/4tOaz7j4Juvd82I4qa29Rz) | 3:22 | 2022-10-27 |  |
 | [Rushing River](https://open.spotify.com/track/4V7dNNQvwoGgC5DB6dTTro) | [Calming Water](https://open.spotify.com/artist/0BEeBDjTHbZ0SS6NVRNcUn) | [Flowing Water Sounds](https://open.spotify.com/album/1UQ0LjwnbWi1jxwpT6U1nn) | 2:35 | 2022-10-27 |  |
+| [Serene Waterfall \- Seamless](https://open.spotify.com/track/2cEZ7TKsBYpfbSpQKJh1T3) | [Chroma World](https://open.spotify.com/artist/3TIBtUQE47OmudD95MhKS2) | [Serene Waterfall](https://open.spotify.com/album/1chUKjNIU3dbDSPl9ny23T) | 2:55 | 2023-05-19 |  |
 | [Shallow Rapid Flow](https://open.spotify.com/track/14EgXws2q9leMgGCukpRXS) | [Outdoor Field Recorders](https://open.spotify.com/artist/71ep4LtjRagWcfM1rZ6lUr) | [Shallow River Sounds](https://open.spotify.com/album/34ZUViIS2YqDboeWQqTP00) | 3:00 | 2022-10-27 |  |
+| [Sleeping Waterfall](https://open.spotify.com/track/2210L8BNV1VdyCfz4C1DlP) | [The Nature Songs](https://open.spotify.com/artist/6lsjtEbWnSnZfl4uEG24vF) | [Meditation Waterfall](https://open.spotify.com/album/78efjczcIzHjNV12gdwgku) | 3:31 | 2023-05-19 |  |
 | [Smooth Waterfall White Noise](https://open.spotify.com/track/01INr4xIRYANKkfoDe6Beo) | [A.I.C 83](https://open.spotify.com/artist/0t1KwfnMwlE47iKx9g1c2V) | [White Noise](https://open.spotify.com/album/2EfzJjGa4VM6LVNgqWKZFS) | 2:06 | 2022-10-27 |  |
 | [Soft Waterfall](https://open.spotify.com/track/06H8N0D5WW10txUrCnwGZc) | [Surrounded by Sound](https://open.spotify.com/artist/0F7xvD7p2K3aCiXBZEZ90i) | [Relaxing Waterfalls](https://open.spotify.com/album/4yUvywqKl4dCSiCDf8RiOI) | 3:13 | 2022-10-27 |  |
 | [Soothing Deep River Flow](https://open.spotify.com/track/2oCTjuFVc4z5JAryMIRhQ5) | [Weather and Nature Recordings](https://open.spotify.com/artist/7zkEyvgDJYnVeTTsFaReKe) | [River & Waterfall Flow](https://open.spotify.com/album/170V5jgd4OGqMCCIPulFiR) | 4:45 | 2022-10-27 |  |
@@ -54,11 +56,13 @@
 | [Waterfall Flow](https://open.spotify.com/track/3vutaIPu6s4ylCPr5rwvAB) | [Weather and Nature Recordings](https://open.spotify.com/artist/7zkEyvgDJYnVeTTsFaReKe) | [River & Waterfall Flow](https://open.spotify.com/album/170V5jgd4OGqMCCIPulFiR) | 3:20 | 2022-10-27 |  |
 | [Waterfall for Deep Sleep](https://open.spotify.com/track/0F56cp7Le8p7iPydxUeTlJ) | [Waterfall in the distance](https://open.spotify.com/artist/4lcG2wz9oZuu1VdEcBG6Nj) | [Waterfall in the distance](https://open.spotify.com/album/2on28DnTVwyWX5gfG3G4dy) | 3:04 | 2022-10-27 |  |
 | [Waterfall Frequencies Part 2](https://open.spotify.com/track/20Mkd2DMoiyK7WCbnqL4aM) | [Asana Ventus](https://open.spotify.com/artist/3D8uKbNS9NX6q57gX9b08V) | [Waterfall Frequencies](https://open.spotify.com/album/4EAqpA6NyIVyO6ZJEbvmrz) | 2:30 | 2022-10-27 |  |
+| [Waterfall Green Noise](https://open.spotify.com/track/1rsxq3LyrtliUBAc51VIaI) | [Natsound](https://open.spotify.com/artist/1GJH8huKOcDNdAdgwExXnw) | [Green Noise Ambience](https://open.spotify.com/album/4C190h0pKa73fARygNIjFN) | 2:52 | 2023-05-19 |  |
 | [Waterfall in the distance](https://open.spotify.com/track/2zKLxe8kSgfPWDTyPdhxAx) | [Waterfall in the distance](https://open.spotify.com/artist/4lcG2wz9oZuu1VdEcBG6Nj) | [Waterfall in the distance](https://open.spotify.com/album/2on28DnTVwyWX5gfG3G4dy) | 3:36 | 2022-10-27 |  |
 | [Waterfall Noise](https://open.spotify.com/track/3OUrN6pqs0odLhgROLiGKR) | [BCCF](https://open.spotify.com/artist/3nom2q4wk6XDl2RN6xTs5f) | [White Noise](https://open.spotify.com/album/4mFFAzJgZ9886aTrcJC62R) | 4:06 | 2022-10-27 |  |
 | [Waterfall Stream](https://open.spotify.com/track/6C8eyK8mC1cmqaTx99v36x) | [Natural Waters](https://open.spotify.com/artist/0nIJ15ViXXRyCe6mRqPOaD) | [At the Waterfall](https://open.spotify.com/album/30bgRxzTaRDFcNnm8wdpaP) | 2:24 | 2022-10-27 |  |
 | [Waterfalls](https://open.spotify.com/track/0H4v2NFbdUvxysprwSgxHk) | [Dream Shard](https://open.spotify.com/artist/3EUg5IOxGnBPtjK0uzMxcJ) | [Baby Sleep Pink Noise](https://open.spotify.com/album/2Wv2eQ2Zs6bQm8DOC1Cxng) | 2:17 | 2022-10-27 |  |
 | [Waterfalls in the Distance \(No Fade\)](https://open.spotify.com/track/2Tfzr7lXi8B9zTcekESN7g) | [Textures of Nature](https://open.spotify.com/artist/1cHBh4M6X8d6UYnkh6geMs) | [Water, Rain and Rivers](https://open.spotify.com/album/4eAsgCIds4uzsQuSCzLkDh) | 2:48 | 2022-10-27 |  |
+| [Wet Symphony II \(Waterfall\)](https://open.spotify.com/track/3IFbSOeemtQgUIIpM8xxZ3) | [Bona Nochy](https://open.spotify.com/artist/7g1GgBFicHlx2TFzckGhfL) | [Wet Symphony](https://open.spotify.com/album/5gV67xpmzRxc695hpUHItV) | 2:34 | 2023-05-19 |  |
 | [White Noise Waterfall](https://open.spotify.com/track/3oHAizOmW93Q8eIZ3W0xg7) | [Noise Eternity](https://open.spotify.com/artist/0BMo2rAO5oSO9aSnjumKOD) | [White Noise Waterfall](https://open.spotify.com/album/2GDuZr3FnB4iuAx1SFdLB3) | 2:00 | 2022-10-27 |  |
 
 \*This playlist was first scraped on 2022-11-15. Prior content cannot be recovered.

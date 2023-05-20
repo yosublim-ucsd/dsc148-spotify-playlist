@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-14",
-  "description": "A laid-back trip in the folk scene. Cover: Rhiannon Giddens",
+  "description": "A laid-back trip in the folk scene. Cover: Leith Ross",
   "name": "Folk & Friends",
   "tracks": [
     {
@@ -366,6 +366,24 @@
       "duration_ms": 200583,
       "name": "Along for the Ride",
       "url": "https://open.spotify.com/track/6n5QC6I90spAvogzjP0K1f"
+    },
+    {
+      "album": {
+        "name": "Already There",
+        "url": "https://open.spotify.com/album/0bCJEYkhGu463eI5jGfEVn"
+      },
+      "artists": [
+        {
+          "name": "JJ Shiplett",
+          "url": "https://open.spotify.com/artist/0XgzaFjKPFJT7VziwGD6o5"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258105,
+      "name": "Already There",
+      "url": "https://open.spotify.com/track/4eQgIa4i3nr4ReoujolhCc"
     },
     {
       "album": {
@@ -950,7 +968,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 179773,
       "name": "Call Me",
       "url": "https://open.spotify.com/track/5WpWQSBUD3XWKk4Ic2ueAk"
@@ -3798,7 +3816,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 198274,
       "name": "Jersey Giant",
       "url": "https://open.spotify.com/track/1md6N1TV9uNH2VdiCcYEkM"
@@ -4406,7 +4424,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 130399,
       "name": "Little Bull Of Blithe",
       "url": "https://open.spotify.com/track/3BWlCKFFCDuiQoY4sKLKyI"
@@ -4604,7 +4622,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 191413,
       "name": "Make No Mistakes",
       "url": "https://open.spotify.com/track/0YT0OGtTkkYOlqVXfMOqE5"
@@ -4878,7 +4896,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 265772,
       "name": "Music Box",
       "url": "https://open.spotify.com/track/2h89x1ycsTH904Poc5COS4"
@@ -5148,7 +5166,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 267256,
       "name": "Northern Attitude",
       "url": "https://open.spotify.com/track/4O2rRsoSPb5aN7N3tG6Y3v"
@@ -5757,6 +5775,24 @@
     },
     {
       "album": {
+        "name": "Praying For Something Good",
+        "url": "https://open.spotify.com/album/3CmPQyoofzPXClBqCVVMzo"
+      },
+      "artists": [
+        {
+          "name": "Jay Feelbender",
+          "url": "https://open.spotify.com/artist/0Ty4IlR2mjFlt3dBdvlHlI"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145666,
+      "name": "Praying For Something Good",
+      "url": "https://open.spotify.com/track/5qpDDtkdATvsChnQPpi3iP"
+    },
+    {
+      "album": {
         "name": "Problem Child",
         "url": "https://open.spotify.com/album/7LNrFvPGv94exp02DZ14kC"
       },
@@ -6162,7 +6198,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 216118,
       "name": "See You Again",
       "url": "https://open.spotify.com/track/0DhhIQC1QXMbV5EfUwm04g"
@@ -6964,7 +7000,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 307248,
       "name": "The Crow",
       "url": "https://open.spotify.com/track/2ra96QX8uA7Gl74A3VYiwK"
@@ -7000,7 +7036,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 266346,
       "name": "The Dead",
       "url": "https://open.spotify.com/track/4kGRfWQu6c9MhXACKOVDUZ"
@@ -7371,6 +7407,24 @@
     },
     {
       "album": {
+        "name": "To Learn",
+        "url": "https://open.spotify.com/album/5k6lsjpZK4l4J9oMQmBR1l"
+      },
+      "artists": [
+        {
+          "name": "Leith Ross",
+          "url": "https://open.spotify.com/artist/4nxKz1dRYXnsGzN1lUURtG"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137060,
+      "name": "To Learn",
+      "url": "https://open.spotify.com/track/63a0svve0p3CIiGx9a9DTy"
+    },
+    {
+      "album": {
         "name": "Touch of Your Lips / Four White Walls",
         "url": "https://open.spotify.com/album/6ovRzoOjpfQcIHVYyMuQQp"
       },
@@ -7444,6 +7498,24 @@
       "duration_ms": 256070,
       "name": "Traveler Of Swords",
       "url": "https://open.spotify.com/track/5ThAnXfWPVc8IoCwsuj0r7"
+    },
+    {
+      "album": {
+        "name": "Treasure Hunt",
+        "url": "https://open.spotify.com/album/65NK7opW4tOfm9pDemKWN1"
+      },
+      "artists": [
+        {
+          "name": "Jeffrey Piton",
+          "url": "https://open.spotify.com/artist/5CXucMUUUbJWYoyY30JWK8"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202400,
+      "name": "Treasure Hunt",
+      "url": "https://open.spotify.com/track/2l8E8NGD1HycrJCvPRSuXP"
     },
     {
       "album": {
@@ -7772,7 +7844,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 224266,
       "name": "Waterfallin'",
       "url": "https://open.spotify.com/track/1YGmIUqyM926YEPBauYuVM"
@@ -8476,7 +8548,7 @@
       ],
       "date_added": "2022-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 216000,
       "name": "You're My Winter",
       "url": "https://open.spotify.com/track/5u6vKboXSgqGxh7dCWy6tQ"
@@ -8512,7 +8584,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 195539,
       "name": "You\u2019d Like to Believe",
       "url": "https://open.spotify.com/track/6yEMIk1gWqatcZm2bSGEeM"

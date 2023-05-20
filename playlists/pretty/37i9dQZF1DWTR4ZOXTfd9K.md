@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTR4ZOXTfd9K.md) - [plain]
 
 > The best music from one of the greatest jazz labels.
 
-[Spotify](https://open.spotify.com/user/spotify) - 415,734 likes - 100 songs - 10 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 415,871 likes - 100 songs - 10 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTR4ZOXTfd9K.md) - [plain]
 | 11 | [Book Of Slim](https://open.spotify.com/track/4qRyiKJFPLlaEma8BDaVML) | [Gene Harris & The Three Sounds](https://open.spotify.com/artist/7wpE9ePlaLVOdFrSs9BX8B) | [Elegant Soul \(Reissue\)](https://open.spotify.com/album/2HWvhHLaJg5WIcT7lWwdtX) | 3:23 |
 | 12 | [Shine It](https://open.spotify.com/track/69xdPh6CEOpwcP4ZpReWmH) | [Medeski, Martin & Wood](https://open.spotify.com/artist/2Hg4SUNDuIn8xIidz9GxFw) | [End Of The World Party \(Just In Case\)](https://open.spotify.com/album/1hCxbfoen4fGGbbrE3pfZX) | 4:59 |
 | 13 | [Let 'Em Roll](https://open.spotify.com/track/1f2hIPiAT870zgTAr7o1Jp) | [Big John Patton](https://open.spotify.com/artist/1N0ymPm6hUQbmzXDuERfeT) | [Let 'Em Roll](https://open.spotify.com/album/6GikhGod1ea9wJLMdX7Fk7) | 6:48 |
-| 14 | [Moanin' \- Remastered](https://open.spotify.com/track/4Vkk3iD1VrENHJEACNddvt) | [Art Blakey](https://open.spotify.com/artist/6QQuESLtKhAOcLW2TeWC2t) | [Moanin' \(Expanded Edition\)](https://open.spotify.com/album/5PzlTnVafjgt5RtjTdIKoC) | 9:30 |
+| 14 | [Moanin' \- Remastered 1998/Rudy Van Gelder Edition](https://open.spotify.com/track/4Vkk3iD1VrENHJEACNddvt) | [Art Blakey](https://open.spotify.com/artist/6QQuESLtKhAOcLW2TeWC2t) | [Moanin' \(Expanded Edition\)](https://open.spotify.com/album/5PzlTnVafjgt5RtjTdIKoC) | 9:30 |
 | 15 | [Blues Function \- Rudy Van Gelder Edition/2009 Digital Remaster](https://open.spotify.com/track/0JelnIVO4u5xO9PGLG6cOg) | [Jackie McLean](https://open.spotify.com/artist/1lB7KbOr9xdPK1CuasxmeA) | [Bluesnik \(Remastered/ Expanded Edition\)](https://open.spotify.com/album/0SDg271NTQpfxhWrDOv5MW) | 7:19 |
 | 16 | [Shadow](https://open.spotify.com/track/3PG7uGO1nNC89E3kXvpcQj) | [Immanuel Wilkins](https://open.spotify.com/artist/5szMuuBbDzULkagWIfI5LG) | [The 7th Hand](https://open.spotify.com/album/3OROcJURkOtf5sOitgchGD) | 4:44 |
 | 17 | [Search For Peace](https://open.spotify.com/track/4qRJ7ZJyfzchEd2fjle7Bz) | [McCoy Tyner](https://open.spotify.com/artist/2EsmKkHsXK0WMNGOtIhbxr) | [The Real McCoy \(Remastered / Rudy Van Gelder Edition\)](https://open.spotify.com/album/22HoIP0ai6Wikh4R8yM0AX) | 6:32 |
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTR4ZOXTfd9K.md) - [plain]
 | 22 | [Waltz for Hal Willner](https://open.spotify.com/track/5GiqJaoSZn8pMpYztkKeR1) | [Bill Frisell](https://open.spotify.com/artist/3SONlwqLIP2GtaMh9pLYe5) | [Waltz for Hal Willner](https://open.spotify.com/album/3UJN3LrJVHiPnAuneBgCSK) | 2:47 |
 | 23 | [One For 'Grew \(For Mulgrew Miller\)](https://open.spotify.com/track/55hyRqaAASnPhQEHK8ts9a) | [Robert Glasper](https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn) | [In My Element](https://open.spotify.com/album/7M4DuL9Z6JqcNapcOUTPNS) | 6:33 |
 | 24 | [Joshua Fit De Battle Of Jericho \- 2004 Remaster](https://open.spotify.com/track/451puYkPbLOzFNNET2qBZ8) | [Grant Green](https://open.spotify.com/artist/6dAtGAnHCQ1ujMUZ9Ep82k) | [Feelin' The Spirit \(Remastered\)](https://open.spotify.com/album/1yejkU8avlKZK3PuH3sjHC) | 8:02 |
-| 25 | [Cantaloupe Island \- Remastered](https://open.spotify.com/track/0sCeNwt8xRCMR4NhKpMyBe) | [Herbie Hancock](https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW) | [Empyrean Isles \(Expanded Edition\)](https://open.spotify.com/album/5HCi1WVOT9SGks2deeceFu) | 5:33 |
+| 25 | [Cantaloupe Island \- Remastered 1999/Rudy Van Gelder Edition](https://open.spotify.com/track/0sCeNwt8xRCMR4NhKpMyBe) | [Herbie Hancock](https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW) | [Empyrean Isles \(Expanded Edition\)](https://open.spotify.com/album/5HCi1WVOT9SGks2deeceFu) | 5:33 |
 | 26 | [MOON \(feat\. Herbie Hancock\)](https://open.spotify.com/track/10UmWJn4BXev5y6uj1VwMl) | [DOMi & JD BECK](https://open.spotify.com/artist/4UpA1KitN1RgIZVyWDbZ0U), [Herbie Hancock](https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW) | [NOT TiGHT](https://open.spotify.com/album/6cXQ0dxd2pWCTFhZ8RIg2j) | 4:31 |
 | 27 | [Rivers & Parks](https://open.spotify.com/track/2ytwkXNdpeew8OxQ0L5MDm) | [Johnathan Blake](https://open.spotify.com/artist/5FzOdzC3xUlGuFNNOQ4Xms) | [Homeward Bound](https://open.spotify.com/album/567r4Wqu7u5g1G7Jj3qpBj) | 7:59 |
 | 28 | [Little B's Poem \- Remastered 1994](https://open.spotify.com/track/1H6HqwUyRWW55IzH3k1ewz) | [Bobby Hutcherson](https://open.spotify.com/artist/3uO6HG2JwyP744sg4PMmg5) | [Components](https://open.spotify.com/album/3I384qOJvXmO8z1s3PqImP) | 5:11 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTR4ZOXTfd9K.md) - [plain]
 | 99 | [Maiden Voyage](https://open.spotify.com/track/7r1EOboFCZVUCPB6Cz42q9) | [Bob Belden Project](https://open.spotify.com/artist/5L086bNiOHKUwE9efaBQ1N), [Dianne Reeves](https://open.spotify.com/artist/7nwrblOf59ulOiB6djwPVh), [Geri Allen](https://open.spotify.com/artist/0jqAOYfo9ipclW7ATXPhHg) | [Shades Of Blue](https://open.spotify.com/album/2Z31ciU8s8Fxiuj5FCRdcS) | 6:58 |
 | 100 | [How Can I Tell You \- Live](https://open.spotify.com/track/4ZUlQw3KS7qiBrgJxSyel0) | [Charles Lloyd](https://open.spotify.com/artist/0GC1oqEWpiAjfE7jm5LQO5) | [Passin' Thru \(Live\)](https://open.spotify.com/album/2qiyL96vDeoFjWhRdJ4vL5) | 9:46 |
 
-Snapshot ID: `MCxhZWMyNWIxNWE3YmZiOTA4YTYyNTQxZTVmODNmNTNjODQ0ZDIxMjI3`
+Snapshot ID: `MCxjY2MyYzQzOGIyZWJkNTk3OGVmMTI1MjYyMmMxMTVlMjE3MWVlMDA0`

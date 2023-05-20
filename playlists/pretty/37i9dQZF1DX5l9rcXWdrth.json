@@ -1,12 +1,12 @@
 {
   "description": "Some of the most influential and innovative voices in hip-hop\u2014yesterday, today, tomorrow. Cover: Doja Cat",
-  "num_followers": 17842,
+  "num_followers": 18008,
   "original_name": "Women of Hip-Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiYzRjY2UyNWVkY2YxYjZiYjgzNDIxMzk4YWMzMWQ1YTkwNTRiYWQ4",
+  "snapshot_id": "MCxlNzUwZTVlMWI5NzMyMGU3OGUyOGNmNzI3NjM5YzFiNjBlM2RkNWVm",
   "tracks": [
     {
       "added_at": "2022-03-08 20:45:52",
@@ -455,6 +455,22 @@
     {
       "added_at": "2022-03-08 20:45:52",
       "album": {
+        "name": "Ungodly Hour",
+        "url": "https://open.spotify.com/album/1ReoUTt497nUg3u1ERgYwS"
+      },
+      "artists": [
+        {
+          "name": "Chloe x Halle",
+          "url": "https://open.spotify.com/artist/0AsThoR4KZSVktALiNcQwW"
+        }
+      ],
+      "duration_ms": 176786,
+      "name": "Do It",
+      "url": "https://open.spotify.com/track/35Dh5MnCUPLN3XyAVtQff3"
+    },
+    {
+      "added_at": "2022-03-08 20:45:52",
+      "album": {
         "name": "Girl Code",
         "url": "https://open.spotify.com/album/6zzs0HMzEPRotJaEJe8uwJ"
       },
@@ -471,22 +487,6 @@
       "duration_ms": 166476,
       "name": "Twerk (feat. Cardi B)",
       "url": "https://open.spotify.com/track/0RRm4OS5ymfZryXBuj0G2m"
-    },
-    {
-      "added_at": "2022-03-08 20:45:52",
-      "album": {
-        "name": "Ungodly Hour",
-        "url": "https://open.spotify.com/album/1ReoUTt497nUg3u1ERgYwS"
-      },
-      "artists": [
-        {
-          "name": "Chloe x Halle",
-          "url": "https://open.spotify.com/artist/0AsThoR4KZSVktALiNcQwW"
-        }
-      ],
-      "duration_ms": 176786,
-      "name": "Do It",
-      "url": "https://open.spotify.com/track/35Dh5MnCUPLN3XyAVtQff3"
     },
     {
       "added_at": "2022-03-08 20:45:52",
@@ -567,6 +567,22 @@
     {
       "added_at": "2022-03-08 20:45:52",
       "album": {
+        "name": "Queen",
+        "url": "https://open.spotify.com/album/2acDkDTWdNFie1HjcFa4Ny"
+      },
+      "artists": [
+        {
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+        }
+      ],
+      "duration_ms": 279866,
+      "name": "Barbie Dreams",
+      "url": "https://open.spotify.com/track/6Poyf51k7W3NKnsGwAI90B"
+    },
+    {
+      "added_at": "2022-03-08 20:45:52",
+      "album": {
         "name": "City On Lock",
         "url": "https://open.spotify.com/album/4VzVHSPoh9MP85THaTfYpN"
       },
@@ -583,22 +599,6 @@
       "duration_ms": 218332,
       "name": "Pussy Talk",
       "url": "https://open.spotify.com/track/5EzL7hGT9g2Tvqsy158Lu9"
-    },
-    {
-      "added_at": "2022-03-08 20:45:52",
-      "album": {
-        "name": "Queen",
-        "url": "https://open.spotify.com/album/2acDkDTWdNFie1HjcFa4Ny"
-      },
-      "artists": [
-        {
-          "name": "Nicki Minaj",
-          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
-        }
-      ],
-      "duration_ms": 279866,
-      "name": "Barbie Dreams",
-      "url": "https://open.spotify.com/track/6Poyf51k7W3NKnsGwAI90B"
     },
     {
       "added_at": "2022-03-08 20:45:52",

@@ -2,9 +2,9 @@
 
 ### [Arab X](https://open.spotify.com/playlist/37i9dQZF1DWWkrGNlIHxPl)
 
-> Global crossovers by/with Arab artists\. Cover: Zeina & Saint Levant
+> Global crossovers by/with Arab artists\. Cover: Llunr
 
-269 songs - 15 hr 9 min
+270 songs - 15 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -155,6 +155,7 @@
 | [Ma tabkiche](https://open.spotify.com/track/6I7G8W1Wvf6dXfbzYzTWea) | [Cheb Hasni](https://open.spotify.com/artist/6AqjzYRx9TeJDzKhkSSHFx) | [Hasni, 20 ans \- 50 titres originaux remasterisés](https://open.spotify.com/album/1sAYFuklk1hUcQqH0Z3KuR) | 5:46 | 2022-06-06 | 2022-06-24 |
 | [Male Hbibti Madjatch](https://open.spotify.com/track/1JrNnGXkmWeoXvzfTcHFp7) | [Khaled](https://open.spotify.com/artist/28ztjHIXceRRntmTUfnmUX) | [Cheb Khaled, Double Best, 25 titres originaux remasterisés](https://open.spotify.com/album/6aPxtI5Sxk0MANK9O8XsG0) | 9:57 | 2022-06-06 | 2022-06-24 |
 | [Manich Kima Bakri](https://open.spotify.com/track/5z8sSUJ09vXNNrpqxc0u0B) | [Cheb Bello](https://open.spotify.com/artist/11E9GHIAzJRKuECEUSEuqh) | [Manich Kima Bakri](https://open.spotify.com/album/5xB8IXMdACzciVvoujeLoO) | 5:40 | 2022-06-06 | 2022-06-24 |
+| [Maradona \(feat\. Freek\)](https://open.spotify.com/track/2MnoGHiqYlj38lzwfnuFy6) | [Rayan](https://open.spotify.com/artist/6doCr3greqY545Eo7IsY3m), [Intifaya](https://open.spotify.com/artist/1sSz8a84ezDX1LhXCIgt41), [Freek](https://open.spotify.com/artist/3mDNOQ147emFZ8WK7Fa2nI) | [Maradona \(feat\. Freek\)](https://open.spotify.com/album/3lxGjx9wuTvWMbHuGa6eep) | 2:57 | 2023-05-19 |  |
 | [MASHALLAH](https://open.spotify.com/track/195clrFhJoY0pdbgvY2Qg1) | [Fousey](https://open.spotify.com/artist/6GZUEdPWJRfQxTsgM9j120), [Adam Saleh](https://open.spotify.com/artist/4i9TNpZ5lQbPWmMX4zvnNq) | [MASHALLAH](https://open.spotify.com/album/7FQkB1MDucYaVEP2wnGc3X) | 2:34 | 2021-12-16 | 2022-02-23 |
 | [mental](https://open.spotify.com/track/7hIolwogISIKj8Lm9oG4Sn) | [Ss.hh.a.n.a](https://open.spotify.com/artist/7paUluJ7hvCKRvaz7JOppE) | [mental](https://open.spotify.com/album/5Uagk4gZB7mwf42EcFz9gX) | 3:28 | 2021-12-16 | 2022-12-16 |
 | [MIA](https://open.spotify.com/track/6BoweqoW4UzDuTdNTXSdiv) | [Adam Nabeel](https://open.spotify.com/artist/1Kfnrd9yf69MJpGLEsk7ZC), [Zirra](https://open.spotify.com/artist/3ygMZBYwEeR5Vd5Qze8IYl) | [MIA](https://open.spotify.com/album/1mRTMg98v92EJ2HMhOO3zv) | 3:33 | 2022-12-15 | 2023-04-01 |

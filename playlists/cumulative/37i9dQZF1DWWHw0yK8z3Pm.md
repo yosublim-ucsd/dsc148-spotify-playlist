@@ -2,9 +2,9 @@
 
 ### [Renegades](https://open.spotify.com/playlist/37i9dQZF1DWWHw0yK8z3Pm)
 
-> Fearless sounds at the crossroads of Country and Folk\. Cover: Colter Wall
+> Fearless sounds at the crossroads of Country and Folk\. Cover: Zach Bryan
 
-317 songs - 19 hr 23 min
+318 songs - 19 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -116,6 +116,7 @@
 | [Flowers On My Bedside](https://open.spotify.com/track/5ihEkOIEpylssy0dur6U6w) | [Bella White](https://open.spotify.com/artist/7Bk7ojRJfkv48w69JNF66V) | [Flowers On My Bedside](https://open.spotify.com/album/6GGxMlTRIwQOJV9TAooh0U) | 4:49 | 2023-03-17 | 2023-04-22 |
 | [Folk Song](https://open.spotify.com/track/0qCpY6SuVVY8vvIhflj93B) | [Logan Staats](https://open.spotify.com/artist/2vXJfRfKqdwDvqKL5tvJ7P) | [A Light in the Attic](https://open.spotify.com/album/5YivX6MADAUSfCEdDQpVk6) | 4:12 | 2023-03-24 |  |
 | [From Austin](https://open.spotify.com/track/3X0V4uEujns3TlpoDa2TvP) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [From Austin](https://open.spotify.com/album/2URKspvbbsk7oo4ISroxzG) | 3:27 | 2022-05-13 | 2022-08-27 |
+| [Ghost Town](https://open.spotify.com/track/2U8gE23QKFcJKNtOE39f50) | [Sam Barber](https://open.spotify.com/artist/08GfvCW09pv2QP4y9sle2a) | [Ghost Town](https://open.spotify.com/album/6h4kEmbmGNXFEADoyjwIaK) | 2:48 | 2023-05-19 |  |
 | [Give and Take](https://open.spotify.com/track/1m1yaWUGx0qQgl5bqGrcZm) | [Amy Blake](https://open.spotify.com/artist/3mgJBpa8Mp23JoxA1CWxol) | [Give and Take](https://open.spotify.com/album/6uiekTC9PgG5afPi4OWrNo) | 4:28 | 2022-05-13 | 2023-03-25 |
 | [Golden Embers](https://open.spotify.com/track/4OkKz8LhKo846kN3nncNZs) | [Watchhouse](https://open.spotify.com/artist/675tsBPpaZtqyiBwEf3ZEP) | [Tides of a Teardrop](https://open.spotify.com/album/2SWy4Nbpw77DzLkwXba7Hk) | 4:45 | 2023-04-28 |  |
 | [Golden Embers](https://open.spotify.com/track/7fdwZ9ShF56daUOBH02U7S) | [Watchhouse](https://open.spotify.com/artist/675tsBPpaZtqyiBwEf3ZEP) | [Tides of a Teardrop](https://open.spotify.com/album/09NM7gTdr3ij71aksxr4Qs) | 4:45 | 2023-04-21 | 2023-04-29 |
@@ -173,7 +174,7 @@
 | [Kingdom For A Fool](https://open.spotify.com/track/6WxeGuCYRAXijpeLGPGx62) | [The White Buffalo](https://open.spotify.com/artist/3ohcHMuUq1717s8AH17hfT) | [Year Of The Dark Horse](https://open.spotify.com/album/4cKn5nMheAisLgzM4gOwaA) | 3:28 | 2023-05-05 |  |
 | [Ko'jua](https://open.spotify.com/track/4C7Lj6dioL1CbzjYFls0R6) | [Morgan Toney](https://open.spotify.com/artist/6loCzBWfTzYSjwN6QoDFQv) | [Ko'jua](https://open.spotify.com/album/1sREECdv5BRRtA1qCpsiRE) | 3:30 | 2022-05-13 | 2022-10-01 |
 | [Lavender Girl](https://open.spotify.com/track/5IqPGPAeAru7g6ljnY0dPf) | [Caamp](https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix) | [Lavender Girl](https://open.spotify.com/album/5ChxDXf7pMg4QoVLUO9Lwz) | 3:23 | 2022-05-20 |  |
-| [Lay Down Girl](https://open.spotify.com/track/6lDKXJgl4oFSWOC6M5WFPE) | [Nora Kelly Band](https://open.spotify.com/artist/4xDHG9X8YzLa2CYMotaig3) | [Lay Down Girl](https://open.spotify.com/album/7nuY08rvLrKngeBpDrySQe) | 2:06 | 2023-05-05 |  |
+| [Lay Down Girl](https://open.spotify.com/track/6lDKXJgl4oFSWOC6M5WFPE) | [Nora Kelly Band](https://open.spotify.com/artist/4xDHG9X8YzLa2CYMotaig3) | [Lay Down Girl](https://open.spotify.com/album/7nuY08rvLrKngeBpDrySQe) | 2:06 | 2023-05-05 | 2023-05-20 |
 | [Let's All Help the Cowboys \(Sing the Blues\)](https://open.spotify.com/track/5TXtn8dOWu3E68OuLC6xLo) | [Colter Wall](https://open.spotify.com/artist/3xYXYzm9H3RzyQgBrYwIcx) | [Cypress Hills and the Big Country](https://open.spotify.com/album/0nWc01U49BnvDb00ViFU1h) | 3:04 | 2023-04-21 | 2023-04-29 |
 | [Lighthouse in Little Lorraine](https://open.spotify.com/track/5OoH1BWs8xVTvNNcARmP5R) | [Adam Baldwin](https://open.spotify.com/artist/0NSQUjhseRVGuBwjz6rWnY) | [Concertos & Serenades](https://open.spotify.com/album/1lnm1yLB86rkOcThRb0iRG) | 6:07 | 2022-09-23 | 2023-04-22 |
 | [Little Red](https://open.spotify.com/track/2VaWteuuiYb4spgqgMqvXq) | [Vikki Gilmore](https://open.spotify.com/artist/7dRZclXkaEE73U3Tx1u9qV) | [Little Red](https://open.spotify.com/album/19haDyx2HW3RUE3B51HUhQ) | 3:31 | 2022-05-13 | 2022-10-29 |

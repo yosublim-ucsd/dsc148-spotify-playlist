@@ -985,6 +985,28 @@
     },
     {
       "album": {
+        "name": "Eternal",
+        "url": "https://open.spotify.com/album/3g2RMZ1bw8e50PCG5X01nY"
+      },
+      "artists": [
+        {
+          "name": "An-Ten-Nae",
+          "url": "https://open.spotify.com/artist/60WU0oNpF372dzVGDe4BcV"
+        },
+        {
+          "name": "Nahlith",
+          "url": "https://open.spotify.com/artist/0gKRNAatXm1v7V34aoWyFJ"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219628,
+      "name": "Eternal",
+      "url": "https://open.spotify.com/track/5YVzXBX3kZEPNprKeGw4Yq"
+    },
+    {
+      "album": {
         "name": "Field Trip",
         "url": "https://open.spotify.com/album/0BUdDTNyrvWWHox3KUCMgd"
       },

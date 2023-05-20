@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Israel.
 
-708 songs - 1 day 15 hr 51 min
+709 songs - 1 day 15 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -152,7 +152,7 @@
 | [Hoodie \(Feat\. Mergui\)](https://open.spotify.com/track/4wUeFidlHm9N9BxwZNykBj) | [Anna Zak](https://open.spotify.com/artist/3lVXtKsFTJM8ecY8gqdoCo) | [Hoodie \(Feat\. Mergui\)](https://open.spotify.com/album/1x3pp8ixp71Jw3anQA0Y4w) | 3:16 | 2023-03-29 | 2023-04-19 |
 | [Hours In Silence](https://open.spotify.com/track/0sSRLXxknVTQDStgU1NqpY) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [Her Loss](https://open.spotify.com/album/5MS3MvWHJ3lOZPLiMxzOU6) | 6:39 | 2022-11-05 | 2022-11-07 |
 | [Hurricane](https://open.spotify.com/track/0RbW8kWozrVSIGb4V13o0o) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Donda](https://open.spotify.com/album/340MjPcVdiQRnMigrPybZA) | 4:03 | 2021-08-31 | 2021-09-24 |
-| [I Ain't Worried](https://open.spotify.com/track/4fYte8ZvTK14NEhAOZocBi) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [OneRepublic \(Japan Paradise Tour Edition\)](https://open.spotify.com/album/33inEak0hNKMDePhjGxE61) | 2:28 | 2023-02-16 |  |
+| [I Ain't Worried](https://open.spotify.com/track/4fYte8ZvTK14NEhAOZocBi) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [OneRepublic \(Japan Paradise Tour Edition\)](https://open.spotify.com/album/33inEak0hNKMDePhjGxE61) | 2:28 | 2023-02-16 | 2023-05-20 |
 | [I Ain't Worried](https://open.spotify.com/track/4h9wh7iOZ0GGn8QVp4RAOB) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [I Ain’t Worried \(Music From The Motion Picture "Top Gun: Maverick"\)](https://open.spotify.com/album/04PEOM6kIEeq9lRp1asNP2) | 2:28 | 2022-07-20 | 2023-02-17 |
 | [I Like You \(A Happier Song\) \(with Doja Cat\)](https://open.spotify.com/track/0O6u0VJ46W86TxN9wgyqDj) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60), [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Twelve Carat Toothache](https://open.spotify.com/album/3HHNR44YbP7XogMVwzbodx) | 3:12 | 2022-06-04 | 2022-06-24 |
 | [i n t e r l u d e](https://open.spotify.com/track/2gyYjQWXKxemhAyMPgctIx) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [i n t e r l u d e](https://open.spotify.com/album/0WvwihMfA5E29MrLyNpJYF) | 2:11 | 2021-05-09 | 2021-05-16 |
@@ -420,6 +420,7 @@
 | [בסוף נרקוד](https://open.spotify.com/track/1quBoxh2fvPsy4f0ZBLf46) | [Osher Cohen](https://open.spotify.com/artist/2LUB7PhWK2j2obgSTeD3GN), [שחר סאול](https://open.spotify.com/artist/46KxKVpK7XNqlkdi5oiMxE) | [בסוף נרקוד](https://open.spotify.com/album/0B08f7onZv05gu5kO9zymf) | 3:53 | 2022-08-31 | 2022-11-27 |
 | [בסיבוב](https://open.spotify.com/track/5RnhWaP5VD3eJN3J0chPmh) | [Tuna](https://open.spotify.com/artist/17pbOSPIn3lmY0vHhOlKGL), [Tzlil Danin](https://open.spotify.com/artist/3rzVtsul7Jt3BFcy0UhWgs) | [טונהפארק](https://open.spotify.com/album/3yXLuyV0G2op91XliCCRWv) | 5:13 | 2022-08-21 | 2022-10-08 |
 | [בעולם הזה](https://open.spotify.com/track/3htwhiORrRIXx4LxZRa7S5) | [Gil Vain](https://open.spotify.com/artist/7LYtqxi8Le9d8KvQhzpcjj), [Nathan Goshen](https://open.spotify.com/artist/5CXvT1JutlWVLJN8YEOf1h) | [בעולם הזה](https://open.spotify.com/album/5aSe8YD2EVpaBt3hGBPZRA) | 3:08 | 2022-12-12 | 2022-12-14 |
+| [בעולם הזה](https://open.spotify.com/track/725hyNaW6DtJIrUtkk5K8o) | [אליאן כהן](https://open.spotify.com/artist/39rKFi0P0m8hewgJtUZyqT) | [בעולם הזה](https://open.spotify.com/album/2Jwa3mBFVeya486fZ4UYPc) | 2:41 | 2023-05-19 |  |
 | [בראש השנה](https://open.spotify.com/track/336bQZpuJyMAYOxeXDGZy7) | [Naomi Shemer](https://open.spotify.com/artist/4V6wf2ynZAUYlG8WnyQrIz) | [כיצד שוברים חמסין](https://open.spotify.com/album/0vz5XZBx8h8MaLOFaGHkNQ) | 2:15 | 2021-09-08 | 2022-09-28 |
 | [ברחובות של תל אביב](https://open.spotify.com/track/4JSUFLR3Uo7FPCfNDRxIrx) | [Eden Ben Zaken](https://open.spotify.com/artist/2eUKkTNZsIuZzV95DM0cbt) | [מועבט](https://open.spotify.com/album/2ZgkEHTdjFkDHgM1yBpVf0) | 3:01 | 2021-05-21 | 2021-11-25 |
 | [ברקים ורעמים](https://open.spotify.com/track/6zu28NOvkZEhkB7vMM88Go) | [David Broza](https://open.spotify.com/artist/3BCJyAgxvYyeIjQyoBU8XL) | [המיטב \(לעכשיו\)](https://open.spotify.com/album/4YEgGMuzfPb7iuPjfDXqNl) | 3:14 | 2023-04-22 | 2023-04-25 |

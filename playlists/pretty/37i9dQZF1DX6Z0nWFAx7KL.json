@@ -1,12 +1,12 @@
 {
   "description": "You can dance or chill.",
-  "num_followers": 31933,
+  "num_followers": 31977,
   "original_name": "Dance Chill",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhMTlkYmIzMTQ5Nzg5MTZlNDJlMDQyNDA0MWExMTI2ZTdlODQwZGI0",
+  "snapshot_id": "MCxjMGM3YTcxMWQ4Njg1YzA4OWNhMzUxNzQ2OTBkYTcwYTE5NmU0M2Vj",
   "tracks": [
     {
       "added_at": "2023-05-18 22:01:00",
@@ -184,7 +184,7 @@
       "added_at": "2023-05-18 22:01:00",
       "album": {
         "name": "Is It All",
-        "url": "https://open.spotify.com/album/4fc5iBGvs6R2JP7JHZddS5"
+        "url": "https://open.spotify.com/album/3mS24Mj9B2t4VekyKjko2c"
       },
       "artists": [
         {
@@ -198,7 +198,7 @@
       ],
       "duration_ms": 175609,
       "name": "Is It All",
-      "url": "https://open.spotify.com/track/1x1x0iaQx8peMU7wYVxfXH"
+      "url": "https://open.spotify.com/track/010l3mhzEoYzVy1XuOJSPK"
     },
     {
       "added_at": "2023-05-18 22:01:00",
@@ -243,22 +243,6 @@
     {
       "added_at": "2023-05-18 22:01:00",
       "album": {
-        "name": "Thousand Lullabies",
-        "url": "https://open.spotify.com/album/2dItiBT8SSIoydzHmiIMBU"
-      },
-      "artists": [
-        {
-          "name": "Dynoro",
-          "url": "https://open.spotify.com/artist/3v6Ji4uoWtKRkhuDUaxi9n"
-        }
-      ],
-      "duration_ms": 129573,
-      "name": "Thousand Lullabies",
-      "url": "https://open.spotify.com/track/4WRtXqu9TmvvwZ3bzdcCVQ"
-    },
-    {
-      "added_at": "2023-05-18 22:01:00",
-      "album": {
         "name": "Found It With You",
         "url": "https://open.spotify.com/album/6jqi6Ii1B5N7rODfX2RtlJ"
       },
@@ -279,6 +263,22 @@
       "duration_ms": 163410,
       "name": "Found It With You",
       "url": "https://open.spotify.com/track/1ShSONF1T74kfTEakluK40"
+    },
+    {
+      "added_at": "2023-05-18 22:01:00",
+      "album": {
+        "name": "Thousand Lullabies",
+        "url": "https://open.spotify.com/album/2dItiBT8SSIoydzHmiIMBU"
+      },
+      "artists": [
+        {
+          "name": "Dynoro",
+          "url": "https://open.spotify.com/artist/3v6Ji4uoWtKRkhuDUaxi9n"
+        }
+      ],
+      "duration_ms": 129573,
+      "name": "Thousand Lullabies",
+      "url": "https://open.spotify.com/track/4WRtXqu9TmvvwZ3bzdcCVQ"
     },
     {
       "added_at": "2023-05-18 22:01:00",
@@ -867,6 +867,26 @@
     {
       "added_at": "2023-05-18 22:01:00",
       "album": {
+        "name": "Juno Love",
+        "url": "https://open.spotify.com/album/2sTtx0M9ePDqz3wpDX7L38"
+      },
+      "artists": [
+        {
+          "name": "Nico Morano",
+          "url": "https://open.spotify.com/artist/4tgKBxZIclHP0c2Tp8yyyz"
+        },
+        {
+          "name": "Mewhy",
+          "url": "https://open.spotify.com/artist/2haudpnLQ5Kjt6fplURp31"
+        }
+      ],
+      "duration_ms": 446585,
+      "name": "Juno Love",
+      "url": "https://open.spotify.com/track/7qC70bOUaH16OI6VXuiqGy"
+    },
+    {
+      "added_at": "2023-05-18 22:01:00",
+      "album": {
         "name": "Madness",
         "url": "https://open.spotify.com/album/2RKql48vI660saCrq2IHdQ"
       },
@@ -887,26 +907,6 @@
       "duration_ms": 178909,
       "name": "Madness",
       "url": "https://open.spotify.com/track/3Uh7yYNERtRGfCnxIajStW"
-    },
-    {
-      "added_at": "2023-05-18 22:01:00",
-      "album": {
-        "name": "Juno Love",
-        "url": "https://open.spotify.com/album/2sTtx0M9ePDqz3wpDX7L38"
-      },
-      "artists": [
-        {
-          "name": "Nico Morano",
-          "url": "https://open.spotify.com/artist/4tgKBxZIclHP0c2Tp8yyyz"
-        },
-        {
-          "name": "Mewhy",
-          "url": "https://open.spotify.com/artist/2haudpnLQ5Kjt6fplURp31"
-        }
-      ],
-      "duration_ms": 446585,
-      "name": "Juno Love",
-      "url": "https://open.spotify.com/track/7qC70bOUaH16OI6VXuiqGy"
     },
     {
       "added_at": "2023-05-18 22:01:00",
@@ -1103,6 +1103,26 @@
     {
       "added_at": "2023-05-18 22:01:00",
       "album": {
+        "name": "Inner Light",
+        "url": "https://open.spotify.com/album/3XT1pMVCQa1Hk7ndqO7r2z"
+      },
+      "artists": [
+        {
+          "name": "Autograf",
+          "url": "https://open.spotify.com/artist/0FVj4JuzTyudaXAwfqDQ20"
+        },
+        {
+          "name": "Dan Soleil",
+          "url": "https://open.spotify.com/artist/2z0mmxKTw0KpO7Qnb6aB2r"
+        }
+      ],
+      "duration_ms": 208995,
+      "name": "Inner Light",
+      "url": "https://open.spotify.com/track/1FXlxs2DGHGlDx5ggf00hn"
+    },
+    {
+      "added_at": "2023-05-18 22:01:00",
+      "album": {
         "name": "Feel Alive (feat. PollyAnna)",
         "url": "https://open.spotify.com/album/6DSWCfsRDuOTO6yKxO5YKM"
       },
@@ -1123,26 +1143,6 @@
       "duration_ms": 157401,
       "name": "Feel Alive (feat. PollyAnna)",
       "url": "https://open.spotify.com/track/47G4wvdU7hBOTxLyutkCSS"
-    },
-    {
-      "added_at": "2023-05-18 22:01:00",
-      "album": {
-        "name": "Inner Light",
-        "url": "https://open.spotify.com/album/3XT1pMVCQa1Hk7ndqO7r2z"
-      },
-      "artists": [
-        {
-          "name": "Autograf",
-          "url": "https://open.spotify.com/artist/0FVj4JuzTyudaXAwfqDQ20"
-        },
-        {
-          "name": "Dan Soleil",
-          "url": "https://open.spotify.com/artist/2z0mmxKTw0KpO7Qnb6aB2r"
-        }
-      ],
-      "duration_ms": 208995,
-      "name": "Inner Light",
-      "url": "https://open.spotify.com/track/1FXlxs2DGHGlDx5ggf00hn"
     },
     {
       "added_at": "2023-05-18 22:01:00",
@@ -1547,18 +1547,26 @@
     {
       "added_at": "2023-05-18 22:01:00",
       "album": {
-        "name": "High Life",
-        "url": "https://open.spotify.com/album/6eht4KegFCx2Lb4OM2wzZH"
+        "name": "Put Your Lips On Mine",
+        "url": "https://open.spotify.com/album/5OQhMEDQ5iKAZ5mUXtJCf8"
       },
       "artists": [
         {
-          "name": "Mahalo",
-          "url": "https://open.spotify.com/artist/1SeU8Y2rEUpEoeWmUCdQIR"
+          "name": "Twan Ray",
+          "url": "https://open.spotify.com/artist/2IrrH2ytG96HCP9dnM6mGr"
+        },
+        {
+          "name": "Kimotion",
+          "url": "https://open.spotify.com/artist/6X4zocbF8W6mPR9UFIvQ3z"
+        },
+        {
+          "name": "Solar State",
+          "url": "https://open.spotify.com/artist/6apP9Y1rUXNySghaBvyRzu"
         }
       ],
-      "duration_ms": 161335,
-      "name": "High Life",
-      "url": "https://open.spotify.com/track/11gK0X635BKiS9qN7ExWlw"
+      "duration_ms": 164453,
+      "name": "Put Your Lips On Mine",
+      "url": "https://open.spotify.com/track/3SN5Y2nOIyX8oY6HiFYsSm"
     }
   ],
   "unique_name": "Dance Chill",

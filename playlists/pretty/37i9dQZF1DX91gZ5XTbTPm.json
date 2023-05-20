@@ -1,76 +1,32 @@
 {
   "description": "The Midwest is always on time. Cover: G Herbo",
-  "num_followers": 106483,
+  "num_followers": 106571,
   "original_name": "CST",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmYjMxOGE0Y2ViOGVhMGRlOGIyNWM5NjZhZmNhZjljY2JlYWVmZmMz",
+  "snapshot_id": "MCwxMzk4MGEzM2ExZWUxZDZiNjdmZDE2MWJiMDI0ZTE3ZGE5NTJjYmRl",
   "tracks": [
     {
-      "added_at": "2023-05-12 04:00:00",
+      "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "All My Life (feat. J. Cole)",
-        "url": "https://open.spotify.com/album/0lZQagJ5r0crB35zphSD4A"
+        "name": "I'm Geekin (feat. Luh Tyler)",
+        "url": "https://open.spotify.com/album/4hkUIlk30Vh9jsXz7dazhB"
       },
       "artists": [
         {
-          "name": "Lil Durk",
-          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
+          "name": "DDG",
+          "url": "https://open.spotify.com/artist/0WK3H9OErSn5zKOkOV5egm"
         },
         {
-          "name": "J. Cole",
-          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
+          "name": "Luh Tyler",
+          "url": "https://open.spotify.com/artist/1K15GRZZATsCJyGJ4bYiEz"
         }
       ],
-      "duration_ms": 223878,
-      "name": "All My Life (feat. J. Cole)",
-      "url": "https://open.spotify.com/track/6HgWWaMu31KdOpEG5l28BG"
-    },
-    {
-      "added_at": "2023-05-12 04:00:00",
-      "album": {
-        "name": "GOMD (Remix) [feat. Lil Uzi Vert]",
-        "url": "https://open.spotify.com/album/1XTi2AYI6uOEonUfsLSm3s"
-      },
-      "artists": [
-        {
-          "name": "Veeze",
-          "url": "https://open.spotify.com/artist/0B3kMiB21aPQlKumGDr4c7"
-        },
-        {
-          "name": "Lil Uzi Vert",
-          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
-        }
-      ],
-      "duration_ms": 276986,
-      "name": "GOMD (Remix) [feat. Lil Uzi Vert]",
-      "url": "https://open.spotify.com/track/4ncoZ4PKxvyzVoSIJsOLo0"
-    },
-    {
-      "added_at": "2023-04-28 04:01:00",
-      "album": {
-        "name": "Strictly 4 My Fans 2",
-        "url": "https://open.spotify.com/album/5ujM8ZczJbszMvGoWeXmvW"
-      },
-      "artists": [
-        {
-          "name": "G Herbo",
-          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
-        },
-        {
-          "name": "GloRilla",
-          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
-        },
-        {
-          "name": "Mello Buckzz",
-          "url": "https://open.spotify.com/artist/4bAfAX9Zg9XdMKREfURqaw"
-        }
-      ],
-      "duration_ms": 188157,
-      "name": "Outside",
-      "url": "https://open.spotify.com/track/6YiDVrYuJk33GKKzsVUhRE"
+      "duration_ms": 172035,
+      "name": "I'm Geekin (feat. Luh Tyler)",
+      "url": "https://open.spotify.com/track/2DBKeJkULv46sb1XaJKS8i"
     },
     {
       "added_at": "2023-05-05 04:00:00",
@@ -97,6 +53,66 @@
       "url": "https://open.spotify.com/track/1o8NmBVhT1PeADJhmAi7vZ"
     },
     {
+      "added_at": "2023-05-12 04:00:00",
+      "album": {
+        "name": "All My Life (feat. J. Cole)",
+        "url": "https://open.spotify.com/album/0lZQagJ5r0crB35zphSD4A"
+      },
+      "artists": [
+        {
+          "name": "Lil Durk",
+          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
+        },
+        {
+          "name": "J. Cole",
+          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
+        }
+      ],
+      "duration_ms": 223878,
+      "name": "All My Life (feat. J. Cole)",
+      "url": "https://open.spotify.com/track/6HgWWaMu31KdOpEG5l28BG"
+    },
+    {
+      "added_at": "2023-04-28 04:01:00",
+      "album": {
+        "name": "Strictly 4 My Fans 2",
+        "url": "https://open.spotify.com/album/5ujM8ZczJbszMvGoWeXmvW"
+      },
+      "artists": [
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        },
+        {
+          "name": "GloRilla",
+          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
+        },
+        {
+          "name": "Mello Buckzz",
+          "url": "https://open.spotify.com/artist/4bAfAX9Zg9XdMKREfURqaw"
+        }
+      ],
+      "duration_ms": 188157,
+      "name": "Outside",
+      "url": "https://open.spotify.com/track/6YiDVrYuJk33GKKzsVUhRE"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
+        "name": "Goodbye & Good Riddance (5 Year Anniversary Edition)",
+        "url": "https://open.spotify.com/album/5v9IfhMyxAkE9CbLjfNChR"
+      },
+      "artists": [
+        {
+          "name": "Juice WRLD",
+          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
+        }
+      ],
+      "duration_ms": 252705,
+      "name": "No Good",
+      "url": "https://open.spotify.com/track/2zs3ErwfEyzI4K2H9vEnTD"
+    },
+    {
       "added_at": "2023-04-21 04:00:00",
       "album": {
         "name": "Wicked Inna RaQ 2",
@@ -119,38 +135,6 @@
     {
       "added_at": "2023-04-21 04:00:00",
       "album": {
-        "name": "I'm Geekin",
-        "url": "https://open.spotify.com/album/4tgQ15beC7oqscFBlSJWfo"
-      },
-      "artists": [
-        {
-          "name": "DDG",
-          "url": "https://open.spotify.com/artist/0WK3H9OErSn5zKOkOV5egm"
-        }
-      ],
-      "duration_ms": 101946,
-      "name": "I'm Geekin",
-      "url": "https://open.spotify.com/track/4jQF77FelHaw2u1CB0sIfp"
-    },
-    {
-      "added_at": "2023-04-28 04:01:00",
-      "album": {
-        "name": "Leave Her",
-        "url": "https://open.spotify.com/album/1kLl5rrXewZ0SP0wcNSWcc"
-      },
-      "artists": [
-        {
-          "name": "LUCKI",
-          "url": "https://open.spotify.com/artist/5tQMB0cuNXdCtzovGt55uD"
-        }
-      ],
-      "duration_ms": 137026,
-      "name": "Leave Her",
-      "url": "https://open.spotify.com/track/0MZGwYb5mTATbmoi671wEg"
-    },
-    {
-      "added_at": "2023-04-21 04:00:00",
-      "album": {
         "name": "B&E Pt. 1",
         "url": "https://open.spotify.com/album/6es9sQ9dDPmWNUx1kuoOQT"
       },
@@ -169,6 +153,86 @@
       "url": "https://open.spotify.com/track/3w172RIHWXdyTo8KjFyeTo"
     },
     {
+      "added_at": "2023-05-12 04:00:00",
+      "album": {
+        "name": "Talkin Crazy",
+        "url": "https://open.spotify.com/album/0bafwntACaSuNBO9wDnAfm"
+      },
+      "artists": [
+        {
+          "name": "Rio Da Yung Og",
+          "url": "https://open.spotify.com/artist/6O1vRHWVGKJTnWuJmItnsx"
+        }
+      ],
+      "duration_ms": 210050,
+      "name": "Talkin Crazy",
+      "url": "https://open.spotify.com/track/0ypgbUTj2YsP1JO3etqq1b"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
+        "name": "Reaper (feat. Babyface Ray / FAST X Soundtrack)",
+        "url": "https://open.spotify.com/album/3XHvDPaZi6SyJ7DWwtTEkL"
+      },
+      "artists": [
+        {
+          "name": "Peezy",
+          "url": "https://open.spotify.com/artist/6qQcyyo2dCSynZQCCTIWAK"
+        },
+        {
+          "name": "BabyTron",
+          "url": "https://open.spotify.com/artist/0sKsReKseslDlhxmbN6wLk"
+        },
+        {
+          "name": "Babyface Ray",
+          "url": "https://open.spotify.com/artist/3zZ88AwlTwfCJkowsFCvLA"
+        }
+      ],
+      "duration_ms": 168421,
+      "name": "Reaper (feat. Babyface Ray)",
+      "url": "https://open.spotify.com/track/0JJYlHPFJ9hCopWxY9nYPI"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
+        "name": "Spinnin' (feat. EST Gee / FAST X Soundtrack)",
+        "url": "https://open.spotify.com/album/5YjvUivNXjwSZFFKa4ffbb"
+      },
+      "artists": [
+        {
+          "name": "Lil Durk",
+          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
+        },
+        {
+          "name": "EST Gee",
+          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
+        }
+      ],
+      "duration_ms": 167812,
+      "name": "Spinnin' (feat. EST Gee)",
+      "url": "https://open.spotify.com/track/1jBSRWaJIQ0AaF0UQ91IbG"
+    },
+    {
+      "added_at": "2023-05-12 04:00:00",
+      "album": {
+        "name": "GOMD (Remix) [feat. Lil Uzi Vert]",
+        "url": "https://open.spotify.com/album/1XTi2AYI6uOEonUfsLSm3s"
+      },
+      "artists": [
+        {
+          "name": "Veeze",
+          "url": "https://open.spotify.com/artist/0B3kMiB21aPQlKumGDr4c7"
+        },
+        {
+          "name": "Lil Uzi Vert",
+          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
+        }
+      ],
+      "duration_ms": 276986,
+      "name": "GOMD (Remix) [feat. Lil Uzi Vert]",
+      "url": "https://open.spotify.com/track/4ncoZ4PKxvyzVoSIJsOLo0"
+    },
+    {
       "added_at": "2023-04-21 04:00:00",
       "album": {
         "name": "Likka Sto",
@@ -185,20 +249,36 @@
       "url": "https://open.spotify.com/track/69PUAWTgoHZihzmM0kwYpE"
     },
     {
-      "added_at": "2023-05-12 04:00:00",
+      "added_at": "2023-04-28 04:01:00",
       "album": {
-        "name": "Talkin Crazy",
-        "url": "https://open.spotify.com/album/0bafwntACaSuNBO9wDnAfm"
+        "name": "Leave Her",
+        "url": "https://open.spotify.com/album/1kLl5rrXewZ0SP0wcNSWcc"
       },
       "artists": [
         {
-          "name": "Rio Da Yung Og",
-          "url": "https://open.spotify.com/artist/6O1vRHWVGKJTnWuJmItnsx"
+          "name": "LUCKI",
+          "url": "https://open.spotify.com/artist/5tQMB0cuNXdCtzovGt55uD"
         }
       ],
-      "duration_ms": 210050,
-      "name": "Talkin Crazy",
-      "url": "https://open.spotify.com/track/0ypgbUTj2YsP1JO3etqq1b"
+      "duration_ms": 137026,
+      "name": "Leave Her",
+      "url": "https://open.spotify.com/track/0MZGwYb5mTATbmoi671wEg"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
+        "name": "Emergency Room",
+        "url": "https://open.spotify.com/album/6fc7bs6sOd9luTbKYz1KrW"
+      },
+      "artists": [
+        {
+          "name": "Lil Nuu",
+          "url": "https://open.spotify.com/artist/4BcULtFSsSVrAC5TbjPHWE"
+        }
+      ],
+      "duration_ms": 186269,
+      "name": "Emergency Room",
+      "url": "https://open.spotify.com/track/24nPqDkHRkHgqCIeeEUiyv"
     },
     {
       "added_at": "2023-04-28 04:01:00",
@@ -345,22 +425,6 @@
       "url": "https://open.spotify.com/track/6tXUGESOMRSdpYJIiPCeAl"
     },
     {
-      "added_at": "2023-04-28 04:01:00",
-      "album": {
-        "name": "Strictly 4 My Fans 2",
-        "url": "https://open.spotify.com/album/5ujM8ZczJbszMvGoWeXmvW"
-      },
-      "artists": [
-        {
-          "name": "G Herbo",
-          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
-        }
-      ],
-      "duration_ms": 196045,
-      "name": "We Don't Care",
-      "url": "https://open.spotify.com/track/6XwauVfp0v51OnRzZqBzVR"
-    },
-    {
       "added_at": "2023-04-21 04:00:00",
       "album": {
         "name": "Ron Artest",
@@ -395,6 +459,22 @@
       "duration_ms": 141387,
       "name": "This Summer",
       "url": "https://open.spotify.com/track/2PoV6mOIsOq6grbC4a0ZNz"
+    },
+    {
+      "added_at": "2023-04-28 04:01:00",
+      "album": {
+        "name": "Strictly 4 My Fans 2",
+        "url": "https://open.spotify.com/album/5ujM8ZczJbszMvGoWeXmvW"
+      },
+      "artists": [
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        }
+      ],
+      "duration_ms": 196045,
+      "name": "We Don't Care",
+      "url": "https://open.spotify.com/track/6XwauVfp0v51OnRzZqBzVR"
     },
     {
       "added_at": "2023-04-21 04:00:00",
@@ -461,20 +541,36 @@
       "url": "https://open.spotify.com/track/2xWTbOsDclkxRarvshyReu"
     },
     {
-      "added_at": "2023-04-21 04:00:00",
+      "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "The Next",
-        "url": "https://open.spotify.com/album/5NNwwuzgbWaaxTseHOweJm"
+        "name": "Rick Owens",
+        "url": "https://open.spotify.com/album/5xJa0I4X0cfSRsuXup2hg6"
       },
       "artists": [
         {
-          "name": "PGF Nuk",
-          "url": "https://open.spotify.com/artist/0PUh7TSiwhSf0xL0b6SLXH"
+          "name": "Baby Money",
+          "url": "https://open.spotify.com/artist/1AMm82jgWgkDpczxW5DMjn"
         }
       ],
-      "duration_ms": 96093,
-      "name": "The Next",
-      "url": "https://open.spotify.com/track/7hZfOP3gtRWagxuSwNG7du"
+      "duration_ms": 118200,
+      "name": "Rick Owens",
+      "url": "https://open.spotify.com/track/2CfLgQnyEx2GiIZnGuLJP8"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
+        "name": "Keep Going",
+        "url": "https://open.spotify.com/album/4PJqgGYqEcgE9Z5u7fjSCS"
+      },
+      "artists": [
+        {
+          "name": "Lil 50",
+          "url": "https://open.spotify.com/artist/0sHcYErCqRMKuFgW3ITQ7w"
+        }
+      ],
+      "duration_ms": 144065,
+      "name": "Keep Going",
+      "url": "https://open.spotify.com/track/1bN5FFPRdSDN0PM9XMpDGb"
     },
     {
       "added_at": "2023-04-21 04:00:00",
@@ -527,22 +623,6 @@
       "duration_ms": 205893,
       "name": "Hanging With Wolves",
       "url": "https://open.spotify.com/track/1a7tOEheXeaSNathZW4Gzk"
-    },
-    {
-      "added_at": "2023-04-21 04:00:00",
-      "album": {
-        "name": "S.M.P.",
-        "url": "https://open.spotify.com/album/6lo4OgP3TKKFHttZgP1OIp"
-      },
-      "artists": [
-        {
-          "name": "E the profit",
-          "url": "https://open.spotify.com/artist/55ZKRn4w3oNhBMV7sgG1PP"
-        }
-      ],
-      "duration_ms": 106849,
-      "name": "S.M.P.",
-      "url": "https://open.spotify.com/track/1aSvIlZK7bRfPO6GQIQxiz"
     },
     {
       "added_at": "2023-04-21 04:00:00",
@@ -729,46 +809,6 @@
       "url": "https://open.spotify.com/track/4lhinIXb37RqJRnbnTgOcg"
     },
     {
-      "added_at": "2023-04-21 04:00:00",
-      "album": {
-        "name": "Grown Man",
-        "url": "https://open.spotify.com/album/282shVOXRHSfBqexKhADTN"
-      },
-      "artists": [
-        {
-          "name": "Marshmello",
-          "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
-        },
-        {
-          "name": "Polo G",
-          "url": "https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49"
-        },
-        {
-          "name": "Southside",
-          "url": "https://open.spotify.com/artist/23DYJsw4uSCguIqiTIDtcN"
-        }
-      ],
-      "duration_ms": 106511,
-      "name": "Grown Man",
-      "url": "https://open.spotify.com/track/5VKG8ary0JW6iKemhmznzS"
-    },
-    {
-      "added_at": "2023-04-21 04:00:00",
-      "album": {
-        "name": "Female Gucci Mane",
-        "url": "https://open.spotify.com/album/5TXHSbMLqg6hgNbTAuDaJ9"
-      },
-      "artists": [
-        {
-          "name": "Sexyy Red",
-          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
-        }
-      ],
-      "duration_ms": 149958,
-      "name": "Female Gucci Mane",
-      "url": "https://open.spotify.com/track/6GfhoE4A0qgC3eO4WxKVBN"
-    },
-    {
       "added_at": "2023-04-26 06:23:54",
       "album": {
         "name": "12AM",
@@ -803,26 +843,6 @@
       "duration_ms": 133953,
       "name": "Wonderful Wayne & Jackie Boy",
       "url": "https://open.spotify.com/track/4E3BSxzGKQrDHBf9QfoewY"
-    },
-    {
-      "added_at": "2023-04-21 04:00:00",
-      "album": {
-        "name": "Pretty Girls Walk (Remix)",
-        "url": "https://open.spotify.com/album/3jmmKIPtYmaC8XsDmVIO1W"
-      },
-      "artists": [
-        {
-          "name": "Big Boss Vette",
-          "url": "https://open.spotify.com/artist/6fKiutMtRIcxi4zEau0BuI"
-        },
-        {
-          "name": "Coi Leray",
-          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
-        }
-      ],
-      "duration_ms": 140053,
-      "name": "Pretty Girls Walk (with Coi Leray) - Remix",
-      "url": "https://open.spotify.com/track/2g9dhCaJiK7D0FOgZ9vJlR"
     },
     {
       "added_at": "2023-04-21 04:00:00",
@@ -927,50 +947,6 @@
       "duration_ms": 132238,
       "name": "Way Too Petty",
       "url": "https://open.spotify.com/track/5ObUmPrfvyC7IEOe3n8Z3J"
-    },
-    {
-      "added_at": "2023-04-21 04:00:00",
-      "album": {
-        "name": "Paint the City (Gangsta Grillz)",
-        "url": "https://open.spotify.com/album/3M1RUPna1fFjxNd9I0Vo0l"
-      },
-      "artists": [
-        {
-          "name": "Icewear Vezzo",
-          "url": "https://open.spotify.com/artist/1ZbmerOthZbxz5eR3c9Mn1"
-        },
-        {
-          "name": "Future",
-          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
-        },
-        {
-          "name": "DJ Drama",
-          "url": "https://open.spotify.com/artist/5oNgAs7j5XcBMzWv3HAnHG"
-        }
-      ],
-      "duration_ms": 174654,
-      "name": "Certified (feat. Future)",
-      "url": "https://open.spotify.com/track/693A64f4CTONpjPPOZ4lp1"
-    },
-    {
-      "added_at": "2023-04-21 04:00:00",
-      "album": {
-        "name": "MOB",
-        "url": "https://open.spotify.com/album/5xbiYqy4rUt2sHWmwWnrOM"
-      },
-      "artists": [
-        {
-          "name": "Babyface Ray",
-          "url": "https://open.spotify.com/artist/3zZ88AwlTwfCJkowsFCvLA"
-        },
-        {
-          "name": "Doe Boy",
-          "url": "https://open.spotify.com/artist/6aLoJJxz7MV2iZ423S8tJC"
-        }
-      ],
-      "duration_ms": 147797,
-      "name": "Massacre (feat. Doe Boy)",
-      "url": "https://open.spotify.com/track/1hCPGZBub6bWkVppAnPVoH"
     }
   ],
   "unique_name": "CST",

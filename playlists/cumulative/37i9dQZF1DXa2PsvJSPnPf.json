@@ -1147,6 +1147,24 @@
     },
     {
       "album": {
+        "name": "Hurts so Good",
+        "url": "https://open.spotify.com/album/2vB7f35TC3FniOnMy3ohiQ"
+      },
+      "artists": [
+        {
+          "name": "The Paper Kites",
+          "url": "https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295813,
+      "name": "Hurts so Good",
+      "url": "https://open.spotify.com/track/24u02eXgpySwvPbC0Yac4T"
+    },
+    {
+      "album": {
         "name": "I Am Appalachia",
         "url": "https://open.spotify.com/album/63626Q1PaEAugYbB4xAIDn"
       },

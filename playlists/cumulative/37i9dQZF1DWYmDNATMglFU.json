@@ -168,7 +168,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 136508,
       "name": "5,6,7,8 (feat. girlfriends)",
       "url": "https://open.spotify.com/track/6YAngZqMTJyorUHoeOpaqy"
@@ -634,7 +634,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 186750,
       "name": "BARFIGHT!",
       "url": "https://open.spotify.com/track/4ph8md7OYogCINsOtY3YR6"
@@ -970,7 +970,7 @@
       ],
       "date_added": "2022-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 184543,
       "name": "boohoo",
       "url": "https://open.spotify.com/track/51kJeBoHeHcji1fNsSIHZV"
@@ -2064,7 +2064,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 170200,
       "name": "Daylight Robbery",
       "url": "https://open.spotify.com/track/4nlP649wAY4jW7HwfJABWT"
@@ -3862,7 +3862,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 239011,
       "name": "Heart Attack - Rock Version",
       "url": "https://open.spotify.com/track/6qgwX7o1fYLwbikNrddmFo"
@@ -3902,6 +3902,24 @@
       "duration_ms": 176798,
       "name": "Hearteater",
       "url": "https://open.spotify.com/track/0A67MlQCkvswYwi5kEK9Zi"
+    },
+    {
+      "album": {
+        "name": "Heaven Without You",
+        "url": "https://open.spotify.com/album/21vS3D6XnWr0L0QZwiJFI6"
+      },
+      "artists": [
+        {
+          "name": "KID BRUNSWICK",
+          "url": "https://open.spotify.com/artist/4QxIol1JzAa4ePmDytv0e4"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175240,
+      "name": "Heaven Without You",
+      "url": "https://open.spotify.com/track/4NardHbUoTLDH54bOBJ9T8"
     },
     {
       "album": {
@@ -4186,7 +4204,7 @@
       ],
       "date_added": "2023-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 195646,
       "name": "HORROR SHOW",
       "url": "https://open.spotify.com/track/1r4ZfCIM1soKE3oh7pPUQ1"
@@ -6960,7 +6978,7 @@
       ],
       "date_added": "2023-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 149194,
       "name": "REAL SUPER DARK",
       "url": "https://open.spotify.com/track/2YGfjeZvYJyy1BQrbsLmGr"
@@ -7639,6 +7657,24 @@
     },
     {
       "album": {
+        "name": "i love my dog",
+        "url": "https://open.spotify.com/album/50IiyPghwNtbBAds4Qkdr8"
+      },
+      "artists": [
+        {
+          "name": "phem",
+          "url": "https://open.spotify.com/artist/0MGJHTThvyAyqKuEAgPqDr"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139400,
+      "name": "slippery slope",
+      "url": "https://open.spotify.com/track/4phL2G8BkO2jiksWSgQjms"
+    },
+    {
+      "album": {
         "name": "Blue Weekend",
         "url": "https://open.spotify.com/album/1VCTWaze9kuY5IDlbtR5p0"
       },
@@ -8084,7 +8120,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 142538,
       "name": "Stop Living & Don't Dream",
       "url": "https://open.spotify.com/track/6IoAdJtGzeZc4ulFe1MeUR"
@@ -8922,6 +8958,24 @@
       "duration_ms": 206274,
       "name": "this might be our last december",
       "url": "https://open.spotify.com/track/0vKSOTSPy2SgcChNoBR77c"
+    },
+    {
+      "album": {
+        "name": "I'm Done",
+        "url": "https://open.spotify.com/album/1ekt1n1bweW302dZONnH5R"
+      },
+      "artists": [
+        {
+          "name": "The Haunt",
+          "url": "https://open.spotify.com/artist/45d8YG3R2DApOMnIZuyK8p"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204197,
+      "name": "This Won't Go Over Well",
+      "url": "https://open.spotify.com/track/5orscSJxQSOKAa76mp9xOJ"
     },
     {
       "album": {

@@ -2080,7 +2080,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 222493,
       "name": "Head in the Clouds",
       "url": "https://open.spotify.com/track/0q6gOQqr5KcC2RUmXlh2pl"
@@ -2132,6 +2132,24 @@
       "duration_ms": 242479,
       "name": "High Valley Roundhouse",
       "url": "https://open.spotify.com/track/11Wex1wGbh9ALFh8691E4i"
+    },
+    {
+      "album": {
+        "name": "Hizuru (Jazztronik Remix)",
+        "url": "https://open.spotify.com/album/4VEyGOgf7K0eNBnASVugmd"
+      },
+      "artists": [
+        {
+          "name": "Jazztronik",
+          "url": "https://open.spotify.com/artist/3TMLgJUsDIxI4CShGh8vYM"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241369,
+      "name": "Hizuru - Jazztronik Remix",
+      "url": "https://open.spotify.com/track/12ycPl7hDIiidFQYvDJHpU"
     },
     {
       "album": {
@@ -2594,7 +2612,7 @@
       ],
       "date_added": "2022-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 146010,
       "name": "London 1969",
       "url": "https://open.spotify.com/track/3nQvNXKbgLPcuZ3cLTZiJ7"
@@ -4045,6 +4063,28 @@
     },
     {
       "album": {
+        "name": "Rake Stepper",
+        "url": "https://open.spotify.com/album/775CFaTdkDsy2ywp3zhGVl"
+      },
+      "artists": [
+        {
+          "name": "Too Many Zooz",
+          "url": "https://open.spotify.com/artist/72rZmJbRFSY6IFJAysfOdr"
+        },
+        {
+          "name": "Michael Wilbur",
+          "url": "https://open.spotify.com/artist/4xa7ht9m5Uj0YhGWIm0K9n"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212000,
+      "name": "Rake Stepper",
+      "url": "https://open.spotify.com/track/4MKQjdR7rPwlxtn2SMosQ1"
+    },
+    {
+      "album": {
         "name": "Rat Trap",
         "url": "https://open.spotify.com/album/6Q4yXbSqgcqJwPul6zrBcr"
       },
@@ -4763,6 +4803,24 @@
     },
     {
       "album": {
+        "name": "Spiky Boi",
+        "url": "https://open.spotify.com/album/6nHsBviO84VJUBNsnfDy0t"
+      },
+      "artists": [
+        {
+          "name": "Surprise Chef",
+          "url": "https://open.spotify.com/artist/2Ks1Z1scmEDZfaYaCS7Osj"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119510,
+      "name": "Spiky Boi",
+      "url": "https://open.spotify.com/track/4PbJtMT8tfH4d2AblpVoqu"
+    },
+    {
+      "album": {
         "name": "Spoon (Mike Casey Remix)",
         "url": "https://open.spotify.com/album/2LmcUC52wK3UTfySCDKN33"
       },
@@ -5180,7 +5238,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 240352,
       "name": "Talent Stick",
       "url": "https://open.spotify.com/track/7yukuMCiNS57X6amD5MMwe"
@@ -5220,6 +5278,24 @@
       "duration_ms": 319693,
       "name": "Tell Me What To Do",
       "url": "https://open.spotify.com/track/4uMmOXFsZ1YJSTqTNifMhF"
+    },
+    {
+      "album": {
+        "name": "Melomazeando",
+        "url": "https://open.spotify.com/album/14Xe1tjzqLJ4FFVhASWQVl"
+      },
+      "artists": [
+        {
+          "name": "Daniel Maza",
+          "url": "https://open.spotify.com/artist/5TI8IZa6vgPAcb8wuMZfN7"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295038,
+      "name": "Tema de Benja",
+      "url": "https://open.spotify.com/track/4oo9BSpAnBeEaYV74GuAaV"
     },
     {
       "album": {
@@ -5564,7 +5640,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 287349,
       "name": "The Positive and the Negative",
       "url": "https://open.spotify.com/track/2vRidmUrgY8KWpVbs2eHAA"
@@ -6597,6 +6673,28 @@
     },
     {
       "album": {
+        "name": "yeah (ooh)",
+        "url": "https://open.spotify.com/album/5jJHiab8xHz0kA3bsBo3h3"
+      },
+      "artists": [
+        {
+          "name": "Unc D",
+          "url": "https://open.spotify.com/artist/4nYyzsmTazjKFqRPQCuBCO"
+        },
+        {
+          "name": "Thin Thicket",
+          "url": "https://open.spotify.com/artist/40Wb8U0vUhR1a7UQXCJ9Ng"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172584,
+      "name": "yeah (ooh)",
+      "url": "https://open.spotify.com/track/2h5rWu6hJ6qEEEQgml0QR2"
+    },
+    {
+      "album": {
         "name": "You Feel Me",
         "url": "https://open.spotify.com/album/51hZR2IsVsP2nI3D4fkkCK"
       },
@@ -6742,7 +6840,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 141818,
       "name": "Youngstown 4",
       "url": "https://open.spotify.com/track/0KYwUNSSE7Sm0rOzWRYrR1"

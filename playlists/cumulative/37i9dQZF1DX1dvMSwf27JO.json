@@ -801,6 +801,28 @@
     },
     {
       "album": {
+        "name": "Big Steppa",
+        "url": "https://open.spotify.com/album/6KkO7DMw7kEmjD4sxi5Dyv"
+      },
+      "artists": [
+        {
+          "name": "SWIM",
+          "url": "https://open.spotify.com/artist/6Dj8wAnffq2dTvObHVLIdB"
+        },
+        {
+          "name": "grouptherapy.",
+          "url": "https://open.spotify.com/artist/70KxgbZNsd9xOttXW67mh3"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205226,
+      "name": "Big Steppa",
+      "url": "https://open.spotify.com/track/0aZ8t7DIZisXGdRrLupGKB"
+    },
+    {
+      "album": {
         "name": "BILLIE EILISH.",
         "url": "https://open.spotify.com/album/4MajX5vPeY4cX5pv6rf0sA"
       },
@@ -852,6 +874,28 @@
       "duration_ms": 99282,
       "name": "BILLIE EILISH.",
       "url": "https://open.spotify.com/track/7GKd7FI7IcSoVNQIwYxAQI"
+    },
+    {
+      "album": {
+        "name": "she / her / black bitch",
+        "url": "https://open.spotify.com/album/0MndM4dEwGOjtuKE1aP2Tb"
+      },
+      "artists": [
+        {
+          "name": "Doechii",
+          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
+        },
+        {
+          "name": "Jst Ray",
+          "url": "https://open.spotify.com/artist/4A2ptrgQSJtQrbfltEpoCR"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204440,
+      "name": "Bitches Be (with Jst Ray)",
+      "url": "https://open.spotify.com/track/24CY4TWscXoyZRrmsQdiq1"
     },
     {
       "album": {
@@ -958,6 +1002,28 @@
       "duration_ms": 206168,
       "name": "BOMB (feat. Latto)",
       "url": "https://open.spotify.com/track/5chOWIOfUY9RwfmP4fYSOU"
+    },
+    {
+      "album": {
+        "name": "I Can't Wait",
+        "url": "https://open.spotify.com/album/2aWH1TBFvdbwGXXic7bqE7"
+      },
+      "artists": [
+        {
+          "name": "TiaCorine",
+          "url": "https://open.spotify.com/artist/39i5B6umzWzkfMe12JrMwW"
+        },
+        {
+          "name": "Tony Shhnow",
+          "url": "https://open.spotify.com/artist/6w1PsA3Lux2vlfaymj66w8"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181170,
+      "name": "Boogie (feat. Tony Shhnow)",
+      "url": "https://open.spotify.com/track/6YtF0BZzddOW1P9seEJhrr"
     },
     {
       "album": {
@@ -1690,7 +1756,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 198107,
       "name": "Diablo",
       "url": "https://open.spotify.com/track/3BDpkLMkgrtrM3HckrVIXr"
@@ -1836,6 +1902,24 @@
       "duration_ms": 157916,
       "name": "DOJA",
       "url": "https://open.spotify.com/track/2OcgucDdE5RffQXc5bLm1x"
+    },
+    {
+      "album": {
+        "name": "Hi-Fidelity",
+        "url": "https://open.spotify.com/album/2CmNKE3L1M7OiYmZLSLycB"
+      },
+      "artists": [
+        {
+          "name": "Lava La Rue",
+          "url": "https://open.spotify.com/artist/271bbpX3pdCi56ZJA1jQ43"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219506,
+      "name": "Dont Trip",
+      "url": "https://open.spotify.com/track/4ptHmGn2R8D5nPDZcASfuQ"
     },
     {
       "album": {
@@ -3137,6 +3221,24 @@
     },
     {
       "album": {
+        "name": "VF VOL II",
+        "url": "https://open.spotify.com/album/7AXixkDgPe0WxaVuwD4qT1"
+      },
+      "artists": [
+        {
+          "name": "Sam Gellaitry",
+          "url": "https://open.spotify.com/artist/07UJz804RJxqNvxFXC3h9H"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212379,
+      "name": "INTERTWINE",
+      "url": "https://open.spotify.com/track/35tlXmLyuczxvxdLiQfpNu"
+    },
+    {
+      "album": {
         "name": "its alright :)",
         "url": "https://open.spotify.com/album/4x8tDeytfMzIVZMrDwlF0Y"
       },
@@ -3868,7 +3970,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 170501,
       "name": "Major Distribution",
       "url": "https://open.spotify.com/track/46s57QULU02Voy0Kup6UEb"
@@ -4010,7 +4112,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 230557,
       "name": "Mess Around (feat. EARTHGANG)",
       "url": "https://open.spotify.com/track/2ug9Wg4LgcyBDirbl6mgvP"
@@ -4508,7 +4610,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 95070,
       "name": "OG!",
       "url": "https://open.spotify.com/track/5MelFaia7UyOxn3Xkhcunf"
@@ -6382,7 +6484,7 @@
       ],
       "date_added": "2023-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 155800,
       "name": "The Most Wanted Person In The United States",
       "url": "https://open.spotify.com/track/3txrp0QdO0wiF4yqiofzJv"

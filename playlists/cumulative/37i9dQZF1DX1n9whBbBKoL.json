@@ -1575,6 +1575,24 @@
     },
     {
       "album": {
+        "name": "Hovering Sunset",
+        "url": "https://open.spotify.com/album/0jhsxBqJRmTOJGlMu06CTh"
+      },
+      "artists": [
+        {
+          "name": "Finleigh",
+          "url": "https://open.spotify.com/artist/1KcMYDu3nBxDYlcYwrsEAA"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151764,
+      "name": "Hovering Sunset",
+      "url": "https://open.spotify.com/track/3dN1wWNoL9pwA2FPUYdI07"
+    },
+    {
+      "album": {
         "name": "Ideaci\u00f3n",
         "url": "https://open.spotify.com/album/3zgPW7E3jrx0xRXHYzOosw"
       },
@@ -3282,6 +3300,24 @@
       "duration_ms": 169412,
       "name": "Through Your Eyes",
       "url": "https://open.spotify.com/track/1DERFIlUdiUtFCoLQIGdLj"
+    },
+    {
+      "album": {
+        "name": "Begynnelse",
+        "url": "https://open.spotify.com/album/7KOigj64SUkLXFyCkSVBlW"
+      },
+      "artists": [
+        {
+          "name": "Ester Ackerman",
+          "url": "https://open.spotify.com/artist/6SWO4ygLu9suL3HdG0DVFg"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190777,
+      "name": "Tillsammans",
+      "url": "https://open.spotify.com/track/3JsmfKDKcKjuQXxyTynOl5"
     },
     {
       "album": {

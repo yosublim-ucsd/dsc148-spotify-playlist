@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdNL0ldoQCGi.md) - [plain]
 
 > aquela lá q viralizou na net
 
-[Spotify](https://open.spotify.com/user/spotify) - 173,534 likes - 85 songs - 3 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 173,925 likes - 85 songs - 3 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,7 +72,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdNL0ldoQCGi.md) - [plain]
 | 62 | [Eu Minto \(Ao Vivo\)](https://open.spotify.com/track/6tW23l5oRR8XyYJsF5si9G) | [US Agroboy](https://open.spotify.com/artist/7gXnv2nAoF9X0XJQ3AMp7d), [Ana Castela](https://open.spotify.com/artist/2CKOmarVWvWqkNWUatHCex) | [Eu Minto \(Ao Vivo\)](https://open.spotify.com/album/3ROWMQ6yXBXYGz2fCCuvse) | 2:40 |
 | 63 | [Eu Vou Tirar Você do Cabaré](https://open.spotify.com/track/1LRN7VyDgvvUMwYl0rSjBy) | [Murilo Costa](https://open.spotify.com/artist/0mdsT7zvqWl2LO4P43NQfk), [Israell Muniz](https://open.spotify.com/artist/1GEoj0CGGUFSqnDepUa3o9) | [Eu Vou Tirar Você do Cabaré](https://open.spotify.com/album/5ZcoF4QRiIWSZkFjr6hEUK) | 2:34 |
 | 64 | [Camisa de Time \(Desce Só de Label\)](https://open.spotify.com/track/5oF3fkS6ZVqmb3W5UJc0s8) | [Kotim](https://open.spotify.com/artist/210Sy1oGhvPu929TKoSVcN), [Love Funk](https://open.spotify.com/artist/64DTkZLH6KkkMwZEEZ5VWC), [Mc Paiva ZS](https://open.spotify.com/artist/0gHj4MPwwcZ8Zl9CY0hqT5) | [Camisa de Time \(Desce Só de Label\)](https://open.spotify.com/album/3jhqCIMpu2YIu6hq4dzhPw) | 2:39 |
-| 65 | [Se Você For Embora](https://open.spotify.com/track/13SWee2K1tLqE8rzgoIAzC) | [Tz da Coronel](https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e), [Langris](https://open.spotify.com/artist/2J4i3afJjXrqDGWRYn6sBI), [NADAMAL](https://open.spotify.com/artist/3YVxmhkewoRHu8WFgWlCb7) | [Se Você For Embora](https://open.spotify.com/album/74ieAYOF8EhRxQ4dIkhrN0) | 2:10 |
+| 65 | [Se Você for Embora](https://open.spotify.com/track/7haCn21tCWhVqg87x6tkRS) | [Tz da Coronel](https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e), [Langris](https://open.spotify.com/artist/2J4i3afJjXrqDGWRYn6sBI) | [Se Você For Embora](https://open.spotify.com/album/7IbQtUpNuUHQS2Cr8uNTRJ) | 2:10 |
 | 66 | [SOLTEIROU \- Ao Vivo](https://open.spotify.com/track/0AIA4KsMsyqur8FbTVhGNT) | [Luan Santana](https://open.spotify.com/artist/3qvcCP2J0fWi0m0uQDUf6r) | [LUAN CITY DELUXE \(Ao Vivo\)](https://open.spotify.com/album/2WQrUxdjUrDvtEuCrJYx1N) | 2:28 |
 | 67 | [Pé Na Areia](https://open.spotify.com/track/1b0qrz3GCfvlpo05Dso8Re) | [Diogo Nogueira](https://open.spotify.com/artist/57xRtfFlssbpntpRQOBodd) | [Pé Na Areia \(Ao Vivo\)](https://open.spotify.com/album/6j0eevSzWWuNeN9tkY5AZt) | 3:40 |
 | 68 | [Tá Querendo](https://open.spotify.com/track/5SHXAn3kfXh5fwJFUtzqZX) | [Gaab](https://open.spotify.com/artist/2iK1rsbYstkSVn57M4s8ut), [Gabb MC](https://open.spotify.com/artist/5qyPbwqvOEp7FvR1EeTQQ2) | [Tá Querendo](https://open.spotify.com/album/6ooXIxEHDhEAf5RNRfTPgW) | 2:37 |
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdNL0ldoQCGi.md) - [plain]
 | 84 | [Gostosinha é Ela](https://open.spotify.com/track/0XyPPyGes0omXppV5YE8gy) | [Felipe Amorim](https://open.spotify.com/artist/3CIIaeZuFYrAD6PRVyuO4U) | [Gostosinha é Ela](https://open.spotify.com/album/4mh9PwttztTnpvYlPFCPRZ) | 2:18 |
 | 85 | [Under The Influence](https://open.spotify.com/track/5IgjP7X4th6nMNDh4akUHb) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Indigo \(Extended\)](https://open.spotify.com/album/3okhA6w5uau6ZNhnVpwVww) | 3:04 |
 
-Snapshot ID: `MCxkNDFiYWFlMTM4NzEzMmYyZGFmYjY4NTlkNTE1NTlmYmJiMzAyNzNk`
+Snapshot ID: `MCw1YmZlZGU3YTEwNzU0ODc0ZDQxY2ZmMGNhMjNjNmEyNjlmN2Y2MTMx`

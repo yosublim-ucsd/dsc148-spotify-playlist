@@ -4,7 +4,7 @@
 
 > Os hits já consagrados e os novos nomes do Pop BR dividindo o mesmo palco!   / Foto: Thiago Pantaleão
 
-408 songs - 21 hr 43 min
+409 songs - 21 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -126,13 +126,14 @@
 | [Fire](https://open.spotify.com/track/5ounBh0Yphr8RStw0XO9XG) | [RUBY](https://open.spotify.com/artist/3R4UjDoXOwLdlSU1saSkx1) | [FIRE](https://open.spotify.com/album/18eg1F4YmIAVmOrZZUoXXj) | 3:11 | 2023-02-14 | 2023-04-09 |
 | [Fixação](https://open.spotify.com/track/6su9AZXjpyLYT9DptbsTE5) | [LUTHULY](https://open.spotify.com/artist/60FCr24uBUSiwk75v0vfVS), [Nave](https://open.spotify.com/artist/2Xpiwporhsl8LXdC96Xs8J) | [Fixação](https://open.spotify.com/album/68s6AonOD9d90Usohm6lQF) | 2:21 | 2023-03-31 | 2023-04-29 |
 | [Flash](https://open.spotify.com/track/3UEm2avDtIIaT3UvuvsxES) | [MC Caverinha](https://open.spotify.com/artist/7tojcuXcZ7eBlQjbAc65Ee) | [Flash](https://open.spotify.com/album/4tyQW6fElOfEGSeRGqrkIJ) | 2:35 | 2020-10-20 | 2022-07-28 |
-| [Flipada](https://open.spotify.com/track/42sJLxamwIgUwayWOshu65) | [ALVA](https://open.spotify.com/artist/5H48mmfpWMyzWSqFd4qy5s), [CHAMELEO](https://open.spotify.com/artist/2ZteSwWooU45Mec1C2EdA0) | [Flipada](https://open.spotify.com/album/0AN8BR7RcqsuALOMqc2K6j) | 1:58 | 2023-04-07 |  |
+| [Flipada](https://open.spotify.com/track/42sJLxamwIgUwayWOshu65) | [ALVA](https://open.spotify.com/artist/5H48mmfpWMyzWSqFd4qy5s), [CHAMELEO](https://open.spotify.com/artist/2ZteSwWooU45Mec1C2EdA0) | [Flipada](https://open.spotify.com/album/0AN8BR7RcqsuALOMqc2K6j) | 1:58 | 2023-04-07 | 2023-05-20 |
 | [flor da pele](https://open.spotify.com/track/529aT6nLTdg6KfnbHhi31E) | [ZOO](https://open.spotify.com/artist/4ovLfdf8gtbnb7OCwEQMvH), [Grag Queen](https://open.spotify.com/artist/6Q5YqxLl13ULqA5orHJotR) | [efeito borboleta](https://open.spotify.com/album/4cQpsjgyS4h2wDSJJf1LTs) | 2:21 | 2023-04-14 |  |
 | [FLOW](https://open.spotify.com/track/7AceiTQaFYXZhZddKx20qr) | [Malía](https://open.spotify.com/artist/06Ta0NqRjBW6qubwdyeb9u) | [FLOW](https://open.spotify.com/album/5Tigi6UMA7XovFt8mrKGx6) | 3:25 | 2023-02-14 | 2023-04-09 |
 | [Flutuo](https://open.spotify.com/track/2WEni6RxGtoWaask5A6Kok) | [Leozin](https://open.spotify.com/artist/7ALIMskSScecdJr78qvB9V) | [Flutuo](https://open.spotify.com/album/3DNnIZjJmrDNhwKhBJ35ed) | 3:25 | 2020-10-20 | 2022-07-28 |
 | [Foda Que Ela É Linda \- Ao Vivo](https://open.spotify.com/track/0FqxX09KVZLIPDKv5kjA1e) | [3030](https://open.spotify.com/artist/3OHpci0ruhvaMv9F795LR5), [Tifli](https://open.spotify.com/artist/0ldh1JBzb2SEDjaqFP5Y8h) | [Tropicalia, Pt\. 1 \(Ao Vivo\)](https://open.spotify.com/album/0q3IIJ0dg3D6PnVrVTcPTx) | 3:03 | 2020-10-20 | 2022-07-25 |
 | [Fofoca](https://open.spotify.com/track/5OEYspxTDLDJSn3x1Xfo4f) | [FBC](https://open.spotify.com/artist/29QKtXMaVczUBDiI3aPBWS), [VHOOR](https://open.spotify.com/artist/0aEDa47F4RWuk4Udm0SEoH), [Tuyo](https://open.spotify.com/artist/3Ujv6sa60JRiaxS8RVuNOj) | [Fofoca](https://open.spotify.com/album/4bgdTL3Uzg6ch39LWULulc) | 2:52 | 2023-02-17 | 2023-04-09 |
 | [Fofoca](https://open.spotify.com/track/2kelStlPdy4CDZgxJK9SHa) | [Tília](https://open.spotify.com/artist/0YaewQrKXrfODqVgpZDloo), [Gbzin](https://open.spotify.com/artist/4CVIvdHpdkuoolMGDDiEYV) | [Fofoca](https://open.spotify.com/album/7bR5AJ30nwlZHVfHFq6FEh) | 2:21 | 2023-02-14 | 2023-04-22 |
+| [Fofoca](https://open.spotify.com/track/6gwDzcSshgPVrSnixntvdz) | [Vic Brow](https://open.spotify.com/artist/1GoCvVwfqLj1J5DdnVS3ZI), [Grag Queen](https://open.spotify.com/artist/6Q5YqxLl13ULqA5orHJotR) | [Ninguém É Tão Ocupado Assim](https://open.spotify.com/album/1hOMxO2YneVESnXhcoUFNc) | 2:31 | 2023-05-19 |  |
 | [Follow God](https://open.spotify.com/track/2QpGZOhTCHHiKmpSO9FW4h) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [JESUS IS KING](https://open.spotify.com/album/0FgZKfoU2Br5sHOfvZKTI9) | 1:44 | 2020-10-20 | 2023-02-15 |
 | [For Real](https://open.spotify.com/track/5JbwgOUmX9GKWgk3wSrSpn) | [Derek](https://open.spotify.com/artist/4Y0VwRwAOyJutxoVpPX4td) | [Ícone](https://open.spotify.com/album/4AQFmyYck7Rf10CHW2w2Pr) | 2:01 | 2020-10-20 | 2022-07-16 |
 | [FRANCHISE \(feat\. Young Thug & M.I.A.\)](https://open.spotify.com/track/4jVBIpuOiMj1crqd8LoCrJ) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn), [M.I.A.](https://open.spotify.com/artist/0QJIPDAEDILuo8AIq3pMuU) | [FRANCHISE \(feat\. Young Thug & M.I.A.\)](https://open.spotify.com/album/4Bp7LKA5Afo1PRoXuQe8qZ) | 3:22 | 2020-10-20 | 2023-02-15 |

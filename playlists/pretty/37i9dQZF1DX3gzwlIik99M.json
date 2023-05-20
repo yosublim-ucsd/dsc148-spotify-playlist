@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5YWRkYjZjN2FjODIxN2JiMzBiOGM0MzVmNTBmMjA3MTRjZDMxMjEz",
+  "snapshot_id": "MCw1Y2VmMDRhODVlNWM2NzRlOTZiMDIzMzFlOGFkY2FiM2Y1MDk2MjNh",
   "tracks": [
     {
       "added_at": "2023-04-28 03:00:00",
@@ -319,22 +319,6 @@
     {
       "added_at": "2023-04-28 03:00:00",
       "album": {
-        "name": "De La Tierra",
-        "url": "https://open.spotify.com/album/77haZO4gSHSHWhjjdFg56k"
-      },
-      "artists": [
-        {
-          "name": "De La Tierra",
-          "url": "https://open.spotify.com/artist/765lwJRjITnyzWPOjM4Vc1"
-        }
-      ],
-      "duration_ms": 266800,
-      "name": "Maldita Historia",
-      "url": "https://open.spotify.com/track/1wws0f3qk1EUV7TrtbGmPw"
-    },
-    {
-      "added_at": "2023-04-28 03:00:00",
-      "album": {
         "name": "La Industria del Poder",
         "url": "https://open.spotify.com/album/6EzOsuKn38yWoNgpy9veNr"
       },
@@ -347,6 +331,22 @@
       "duration_ms": 300066,
       "name": "Como Rel\u00e1mpago en la Oscuridad",
       "url": "https://open.spotify.com/track/1f4XTlw5UXx9jIkl3rr0PA"
+    },
+    {
+      "added_at": "2023-04-28 03:00:00",
+      "album": {
+        "name": "De La Tierra",
+        "url": "https://open.spotify.com/album/77haZO4gSHSHWhjjdFg56k"
+      },
+      "artists": [
+        {
+          "name": "De La Tierra",
+          "url": "https://open.spotify.com/artist/765lwJRjITnyzWPOjM4Vc1"
+        }
+      ],
+      "duration_ms": 266800,
+      "name": "Maldita Historia",
+      "url": "https://open.spotify.com/track/1wws0f3qk1EUV7TrtbGmPw"
     },
     {
       "added_at": "2023-04-28 03:00:00",

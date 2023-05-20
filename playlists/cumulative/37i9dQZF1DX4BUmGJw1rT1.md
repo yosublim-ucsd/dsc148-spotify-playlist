@@ -4,7 +4,7 @@
 
 > Kick back and relax after a hard day.
 
-160 songs - 11 hr 16 min
+161 songs - 11 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,6 +27,7 @@
 | [Blues Deluxe](https://open.spotify.com/track/4kE0QjiD0IkeXGjmRaQtiO) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Blues Deluxe](https://open.spotify.com/album/2POTy8KiRigEg16A0cUDjx) | 7:20 | 2022-05-25 | 2022-07-29 |
 | [Blues Music](https://open.spotify.com/track/4fUyndBmTsfMmJdwQvf8bT) | [G\. Love & Special Sauce](https://open.spotify.com/artist/74fkl73HDlCXw0l6cemB89) | [G\. Love And Special Sauce](https://open.spotify.com/album/6K6iycuUPM1HT5sxnwp6Ek) | 4:15 | 2022-06-14 |  |
 | [Breadwinner](https://open.spotify.com/track/2nT0mY6172fHVa71weoplF) | [Ferris & Sylvester](https://open.spotify.com/artist/1LnhhjMNydIGawXsnfNhCf) | [Breadwinner](https://open.spotify.com/album/31rWdk9uDmDdhpMSSi8Ar2) | 3:50 | 2022-10-03 | 2022-10-14 |
+| [Breakaway](https://open.spotify.com/track/2DrANfSqbYgYqBXuB1CLNe) | [Eilen Jewell](https://open.spotify.com/artist/7caMdiwqwg1WefL7Jjm23M) | [Get Behind the Wheel](https://open.spotify.com/album/38uG2SenaORYitq26CJnh9) | 3:36 | 2023-05-05 |  |
 | [Bring It On Home To Me](https://open.spotify.com/track/4Vfgc4BdSKM2hRlkaRFc9C) | [B.B\. King](https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U), [Paul Carrack](https://open.spotify.com/artist/0FFuvdY7fuiuTmHN9unYoz) | [Deuces Wild](https://open.spotify.com/album/3fIftPnF4eb7gkg2lFS1TV) | 3:10 | 2022-05-25 |  |
 | [Bring It On Home To Me](https://open.spotify.com/track/68ixAqZIHxaLsyehgzknzz) | [B.B\. King](https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U), [Paul Carrack](https://open.spotify.com/artist/0FFuvdY7fuiuTmHN9unYoz) | [Deuces Wild](https://open.spotify.com/album/3qenNNOnGfbu4aZBQOy8hT) | 3:10 | 2022-05-25 | 2022-07-29 |
 | [Chained To The Rhythm](https://open.spotify.com/track/1KLyyQ9B4URptPsozR44l8) | [Amythyst Kiah](https://open.spotify.com/artist/1lhaaKpTyXOnjp79M3xYBl) | [Pensive Pop](https://open.spotify.com/album/1IzsXEGSZ0XlZtL4XANZqR) | 4:22 | 2022-08-18 |  |
@@ -100,7 +101,7 @@
 | [Let Me Down Easy](https://open.spotify.com/track/6X65vgFzYriCjpVWjm8J2w) | [Bettye LaVette](https://open.spotify.com/artist/55U998XxmxjicLMKDSz6R3) | [Let Me Down Easy](https://open.spotify.com/album/05yGqviixZlZrmRiLyz563) | 2:52 | 2022-05-25 | 2023-04-11 |
 | [London Bridge](https://open.spotify.com/track/1qjQcAWTxlglnGID55ZggL) | [The Teskey Brothers](https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh) | [London Bridge](https://open.spotify.com/album/3xPsEsaCmA1EFrl8TmGtPQ) | 5:27 | 2023-04-21 |  |
 | [Lonely Fool](https://open.spotify.com/track/0CcySM3v6xGWPdqkYFPZWZ) | [John Lyons](https://open.spotify.com/artist/7n0U6JSH12Ekv3XM5fADc2) | [John Lyons Band](https://open.spotify.com/album/2wpLg9E3kJhep1R6mL8Yxh) | 7:18 | 2022-10-03 |  |
-| [Love At First Sight](https://open.spotify.com/track/0I6iVnbnSri9baOqnjIeHQ) | [Luke Winslow\-King](https://open.spotify.com/artist/1VN3hs1Ra3vupNT3zN3baC) | [Love At First Sight](https://open.spotify.com/album/17mDEDwEP1Stx3Rf1BxuDF) | 3:28 | 2022-05-25 |  |
+| [Love At First Sight](https://open.spotify.com/track/0I6iVnbnSri9baOqnjIeHQ) | [Luke Winslow\-King](https://open.spotify.com/artist/1VN3hs1Ra3vupNT3zN3baC) | [Love At First Sight](https://open.spotify.com/album/17mDEDwEP1Stx3Rf1BxuDF) | 3:28 | 2022-05-25 | 2023-05-20 |
 | [Loving Arms \- \(radio edit\), Masterlink Sessions](https://open.spotify.com/track/1UtIIbGsCEuduj8ghzhIKG) | [Jo Harman](https://open.spotify.com/artist/6ydZgJ9WCRguM0ZZRG8thk), [Redtenbacher's Funkestra](https://open.spotify.com/artist/1oYScdotTIXO74h10l8ISA) | [Loving Arms \- \(Radio Edit\), Masterlink Sessions](https://open.spotify.com/album/1BaPCN6TG322ANCUq7C2RB) | 5:26 | 2022-10-03 |  |
 | [Loving You Is Sweeter Than Ever](https://open.spotify.com/track/5OwOfn0Ihle2WLudoH22wj) | [Susan Tedeschi](https://open.spotify.com/artist/5Ws3s6lSP4Un8kQf8CrAta) | [Hope And Desire](https://open.spotify.com/album/3i8UR9bri6o0FXLgMsGFeY) | 3:57 | 2022-05-25 |  |
 | [Made Up Mind](https://open.spotify.com/track/5XTDvPvCDO9lxrwkEE9aUF) | [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [Made Up Mind](https://open.spotify.com/album/7L64rhLRuHGIEqnWMMPPXh) | 3:40 | 2022-05-25 |  |

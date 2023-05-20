@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1L8JuK0yhgO.md) - [plain]
 
 > 音楽メディア<a href="http://spincoaster.com/">Spincoaster</a>が厳選したホットな新曲を毎週月曜日にお届け！
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,958 likes - 60 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,962 likes - 60 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1L8JuK0yhgO.md) - [plain]
 | 59 | [last order \- Takashi Ichi’s House Remix](https://open.spotify.com/track/3ARdcxgVnuXmRX5sO2aVM5) | [ゆっきゅん](https://open.spotify.com/artist/5Y9FO0DbxGApgPFNh4HBNA), [壱タカシ](https://open.spotify.com/artist/75w4lawNVJ0Kfp4JnJn5KQ) | [隕石でごめんなさい](https://open.spotify.com/album/43fcVYCIZPWJ0gGv1nixs0) | 5:43 |
 | 60 | [Lifetime \- Dimitri From Paris 'Cruising Attitude' Remix](https://open.spotify.com/track/3UG6kDGptSoj8JMavdvZbc) | [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG), [Dimitri From Paris](https://open.spotify.com/artist/5Il27M5JXuQLgwDgVrQMgo) | [Call On Me & Lifetime \(Remixes\)](https://open.spotify.com/album/1CRH8YfN1l16GxyuuFQn18) | 3:13 |
 
-Snapshot ID: `MCw0ODFjYmFiZjg3MjdhYjk0YmFiMzg4ZTFlODc5ZDNhNGU1YmIzYWQ2`
+Snapshot ID: `MCwwMTgxMzkxZjExYThlOTFmYzA5ZjJiNGM1MGQwY2I4YzQ5Njg3MWQw`

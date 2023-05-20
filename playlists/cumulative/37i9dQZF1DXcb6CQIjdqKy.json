@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The best mix of today's Christian music, all genres, worldwide.   Cover:  <a href=\"https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj?si=4e4f9dd412794ef5\">Lauren Daigle</a>",
+  "description": "The best mix of today's Christian music, all genres, worldwide.   Cover:  <a href=\"https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix?si=62017d09cd054d5c\">Elevation Worship</a>",
   "name": "Top Christian & Gospel",
   "tracks": [
     {
@@ -404,7 +404,7 @@
       ],
       "date_added": "2022-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 242275,
       "name": "Always Only Jesus",
       "url": "https://open.spotify.com/track/5A0cXHpFYgP4Hk5NLwmPQs"
@@ -636,7 +636,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 228426,
       "name": "Be There For You",
       "url": "https://open.spotify.com/track/7AWkRQoTPaqUrZpRvCH748"
@@ -3920,7 +3920,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 225941,
       "name": "I Believe It (The Life of Jesus)",
       "url": "https://open.spotify.com/track/2iym3PPUfaR5285b8iLfbq"
@@ -4363,6 +4363,24 @@
     },
     {
       "album": {
+        "name": "The Harvest",
+        "url": "https://open.spotify.com/album/60YVj0sHClGPNLYs3dXMei"
+      },
+      "artists": [
+        {
+          "name": "Northwest Stories",
+          "url": "https://open.spotify.com/artist/5w1g5MrRpY3zWraNx9HMXS"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200261,
+      "name": "If You Love Me",
+      "url": "https://open.spotify.com/track/19Mez2lwbJzTTp02yaYFPP"
+    },
+    {
+      "album": {
         "name": "Ifunanya",
         "url": "https://open.spotify.com/album/76QHVLQYinJCGAUeQS6d2e"
       },
@@ -4608,10 +4626,32 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 292276,
       "name": "It's Gonna Be Bigger (feat. Demarcus Kelly & JaNae Jones)",
       "url": "https://open.spotify.com/track/0on7qqzwI1ppecaLWbhSLX"
+    },
+    {
+      "album": {
+        "name": "CAN YOU IMAGINE?",
+        "url": "https://open.spotify.com/album/58ufb71YaU1PetJKQGqSd2"
+      },
+      "artists": [
+        {
+          "name": "Elevation Worship",
+          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
+        },
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/03NN8FAKofZU6phsfHLKPw"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 354885,
+      "name": "Jehovah (feat. Chris Brown)",
+      "url": "https://open.spotify.com/track/4moUecMb5PN5kDTQANggc3"
     },
     {
       "album": {
@@ -5606,6 +5646,24 @@
     {
       "album": {
         "name": "Loved By You",
+        "url": "https://open.spotify.com/album/1o8NK4Y2BhxYFcwnk76RSd"
+      },
+      "artists": [
+        {
+          "name": "Riley Clemmons",
+          "url": "https://open.spotify.com/artist/7yZC6AEhvCD5NFR8yDUxCG"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183520,
+      "name": "Loved By You",
+      "url": "https://open.spotify.com/track/3xXbmW2ONUQzlBG7WLmxI1"
+    },
+    {
+      "album": {
+        "name": "Loved By You",
         "url": "https://open.spotify.com/album/6LrvY8QbN1dDfvc68cGFtu"
       },
       "artists": [
@@ -6028,7 +6086,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 598622,
       "name": "More Than Able (feat. Chandler Moore & Tiffany Hudson)",
       "url": "https://open.spotify.com/track/0W8ibUIT6xe9LtWNJmyPim"
@@ -6786,7 +6844,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 203683,
       "name": "Perfectly Loved",
       "url": "https://open.spotify.com/track/6YNdJX3lhmo0u8j293HaAM"
@@ -7231,6 +7289,24 @@
     },
     {
       "album": {
+        "name": "Renown",
+        "url": "https://open.spotify.com/album/1ZDo0cHB13rmsNADYajGY2"
+      },
+      "artists": [
+        {
+          "name": "Jimi Cravity",
+          "url": "https://open.spotify.com/artist/3klvuxan8KcvysB5d9q7Ls"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270374,
+      "name": "Renown",
+      "url": "https://open.spotify.com/track/0zWrUnuH7OCjXEEJzefARV"
+    },
+    {
+      "album": {
         "name": "Rescue",
         "url": "https://open.spotify.com/album/49sgj5TsAza6TkXow8DQWa"
       },
@@ -7532,6 +7608,24 @@
       "duration_ms": 252093,
       "name": "Run",
       "url": "https://open.spotify.com/track/0YRMoVqvnAGzDlnYF2yIWq"
+    },
+    {
+      "album": {
+        "name": "Running Home",
+        "url": "https://open.spotify.com/album/0x7Hr6i67SAQ4Kd4rclmPB"
+      },
+      "artists": [
+        {
+          "name": "Cochren & Co.",
+          "url": "https://open.spotify.com/artist/50hkKRxo0g8Ck4JqlwoJr4"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222106,
+      "name": "Running Home",
+      "url": "https://open.spotify.com/track/3x3rh9ZI4rLvjyCg1MMZNu"
     },
     {
       "album": {
@@ -7968,6 +8062,28 @@
       "duration_ms": 191944,
       "name": "Somebody Loves You",
       "url": "https://open.spotify.com/track/6jOrsBdE4gzgnUuwKjhNdy"
+    },
+    {
+      "album": {
+        "name": "Somebody to You",
+        "url": "https://open.spotify.com/album/5CSCmth1QdipVm1AauVRut"
+      },
+      "artists": [
+        {
+          "name": "Rachael Lampa",
+          "url": "https://open.spotify.com/artist/0rAp8I6gq67AJEmzWEJ1ri"
+        },
+        {
+          "name": "Andrew Ripp",
+          "url": "https://open.spotify.com/artist/7oAskcd3mX9ZzxMPFHYqoN"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228690,
+      "name": "Somebody to You",
+      "url": "https://open.spotify.com/track/4TnXEn8UJaGqCa1cqWkX2z"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "The best new R&B by independent artists and labels. Cover: TA Thomas. Updates every Wednesday.",
+  "description": "The best new R&B by independent artists and labels. Cover: Chikoruss. Updates every Wednesday.",
   "name": "Fresh Finds R&B",
   "tracks": [
     {
@@ -46,6 +46,24 @@
       "duration_ms": 199503,
       "name": "#1",
       "url": "https://open.spotify.com/track/6MRz4hX6QShaHUXKY3hUiI"
+    },
+    {
+      "album": {
+        "name": "Bloodlines",
+        "url": "https://open.spotify.com/album/3i0jkvrg2HK1OOwDfRRCMJ"
+      },
+      "artists": [
+        {
+          "name": "Raelle",
+          "url": "https://open.spotify.com/artist/6ryr8CPNOimXJHnbtyZKtc"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235102,
+      "name": "(Oh) My Days",
+      "url": "https://open.spotify.com/track/6w7rmgjSppBXydCtHzfMMA"
     },
     {
       "album": {
@@ -1108,6 +1126,24 @@
       "duration_ms": 155250,
       "name": "American Dirt",
       "url": "https://open.spotify.com/track/6sX37XMyxy5emswaPxU3gl"
+    },
+    {
+      "album": {
+        "name": "Amnesia",
+        "url": "https://open.spotify.com/album/560adZ6I3nFZlZKGtN90Qp"
+      },
+      "artists": [
+        {
+          "name": "Maurice Moore",
+          "url": "https://open.spotify.com/artist/2r3A0lVppaYaTz2ttY1Jws"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170400,
+      "name": "Amnesia",
+      "url": "https://open.spotify.com/track/0qtEyHDZR52zOOdVCybDbu"
     },
     {
       "album": {
@@ -2825,6 +2861,24 @@
     },
     {
       "album": {
+        "name": "Body Language",
+        "url": "https://open.spotify.com/album/6L1ekY8aBACrSliErW0bB3"
+      },
+      "artists": [
+        {
+          "name": "Chikoruss",
+          "url": "https://open.spotify.com/artist/3uZWq09EA6TKOR3wqJGVMx"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203637,
+      "name": "Body Language",
+      "url": "https://open.spotify.com/track/0KTj4f42N812t5jfFto2CU"
+    },
+    {
+      "album": {
         "name": "BOK",
         "url": "https://open.spotify.com/album/1YXFKzeGTOo2GlGJC43VxF"
       },
@@ -4088,6 +4142,24 @@
       "duration_ms": 180960,
       "name": "Close 2 U",
       "url": "https://open.spotify.com/track/57dETS2BAZptpeGeg4BKec"
+    },
+    {
+      "album": {
+        "name": "Closer",
+        "url": "https://open.spotify.com/album/2lxRRDXLJk1dKVEdAIt3My"
+      },
+      "artists": [
+        {
+          "name": "Caleb Taylor",
+          "url": "https://open.spotify.com/artist/2HlbEnU7PX3NEpeYlWwXTH"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138000,
+      "name": "Closer",
+      "url": "https://open.spotify.com/track/587C4Aldzk9IotCYASrIoR"
     },
     {
       "album": {
@@ -7081,6 +7153,32 @@
     },
     {
       "album": {
+        "name": "Fetish",
+        "url": "https://open.spotify.com/album/6NJ7xeYsfNmfNTYvL1gm5N"
+      },
+      "artists": [
+        {
+          "name": "Josef Lamercier",
+          "url": "https://open.spotify.com/artist/3T7YH8Lq7GMkrYLiWvaXgc"
+        },
+        {
+          "name": "Niko Oroc",
+          "url": "https://open.spotify.com/artist/0hyAc4uL2daH73ehuYDLac"
+        },
+        {
+          "name": "PHABO",
+          "url": "https://open.spotify.com/artist/5FdZDr2bMbEcnsEKRgO3rn"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182608,
+      "name": "Fetish",
+      "url": "https://open.spotify.com/track/5pfAGCLi2iva1TkooCFlPv"
+    },
+    {
+      "album": {
         "name": "Fickle",
         "url": "https://open.spotify.com/album/0Qv2r7upfV3ypA63OVwAPA"
       },
@@ -8121,6 +8219,28 @@
     },
     {
       "album": {
+        "name": "Girl Next Door",
+        "url": "https://open.spotify.com/album/299qXkDZ9FVknrT6DMESFw"
+      },
+      "artists": [
+        {
+          "name": "G.Ghost",
+          "url": "https://open.spotify.com/artist/5oCxNLRlQnE00uhytRYYXi"
+        },
+        {
+          "name": "Tay D",
+          "url": "https://open.spotify.com/artist/2xZVH2W4jaE7MJ6K04q43D"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257426,
+      "name": "Girl Next Door",
+      "url": "https://open.spotify.com/track/0E5O7kDSbiK4Ke6m259joQ"
+    },
+    {
+      "album": {
         "name": "Girlfriend",
         "url": "https://open.spotify.com/album/2ErpM0RtcUDxoYFstmWJfy"
       },
@@ -8600,6 +8720,32 @@
       "duration_ms": 187826,
       "name": "Greedy",
       "url": "https://open.spotify.com/track/54wP5j8g1x1WUVpLKbxISY"
+    },
+    {
+      "album": {
+        "name": "2 Step",
+        "url": "https://open.spotify.com/album/7vX9KUViMIpfLxDpMPyTr0"
+      },
+      "artists": [
+        {
+          "name": "INQ.",
+          "url": "https://open.spotify.com/artist/1c0sr0cvXzCt7Zmo70sZt8"
+        },
+        {
+          "name": "Rob Feher",
+          "url": "https://open.spotify.com/artist/4R1wbJawZcV7JXJau3WDzx"
+        },
+        {
+          "name": "Gabby Nacua",
+          "url": "https://open.spotify.com/artist/2qvbmHsVyNd9JzMWFe1jbK"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132155,
+      "name": "Groove To, Pt. 2",
+      "url": "https://open.spotify.com/track/59fS4Nx95s7pYHKHeVdS7n"
     },
     {
       "album": {
@@ -9518,6 +9664,24 @@
       "duration_ms": 150055,
       "name": "Home Stu freestyle",
       "url": "https://open.spotify.com/track/2xSRynRiyPQW37j55OjvSb"
+    },
+    {
+      "album": {
+        "name": "Honest",
+        "url": "https://open.spotify.com/album/4cU9VcBtVf242uWoHaFnmZ"
+      },
+      "artists": [
+        {
+          "name": "Anika K",
+          "url": "https://open.spotify.com/artist/7vUSRs2K5Unym9Z7UyPwQh"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168877,
+      "name": "Honest",
+      "url": "https://open.spotify.com/track/5CFHSn8YITO3ZAn2utxZd5"
     },
     {
       "album": {
@@ -11019,6 +11183,24 @@
     },
     {
       "album": {
+        "name": "Jokes On You",
+        "url": "https://open.spotify.com/album/2GKR2iEaCS1FlXaHEFh2dH"
+      },
+      "artists": [
+        {
+          "name": "Nemchel",
+          "url": "https://open.spotify.com/artist/7g0FhvYZY0xU9wklCVheEZ"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116470,
+      "name": "Jokes On You",
+      "url": "https://open.spotify.com/track/7ddwKWHCEW4kLEbq7UCwAg"
+    },
+    {
+      "album": {
         "name": "Jorja",
         "url": "https://open.spotify.com/album/3etZdzWDwoWRVcnF28YCCZ"
       },
@@ -11968,6 +12150,24 @@
       "duration_ms": 163106,
       "name": "Letter To You",
       "url": "https://open.spotify.com/track/6oYzMc61a1jti0pDyHw2t9"
+    },
+    {
+      "album": {
+        "name": "Libra Scale (Acoustic)",
+        "url": "https://open.spotify.com/album/3cKnZ69uhj7R4ZUcTNfRHX"
+      },
+      "artists": [
+        {
+          "name": "Love Moor",
+          "url": "https://open.spotify.com/artist/2YUbTUcCN7avxcXKrJGm71"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204124,
+      "name": "Libra Scale - Acoustic",
+      "url": "https://open.spotify.com/track/2ItSrjTOMkxejPBTncfj5c"
     },
     {
       "album": {
@@ -15745,6 +15945,24 @@
     },
     {
       "album": {
+        "name": "Over Again",
+        "url": "https://open.spotify.com/album/5PevLWBw5ghdRIsADBJpEh"
+      },
+      "artists": [
+        {
+          "name": "L\u00c9A THE LEOX",
+          "url": "https://open.spotify.com/artist/76yn7CZJcpG479LvqWHh8O"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177631,
+      "name": "Over Again",
+      "url": "https://open.spotify.com/track/5MxluVlMgSy1OaBDwUh825"
+    },
+    {
+      "album": {
         "name": "Over and Done",
         "url": "https://open.spotify.com/album/0GeMb0aWc6goVvVNc5mE05"
       },
@@ -16012,7 +16230,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 220740,
       "name": "Paradise",
       "url": "https://open.spotify.com/track/6BOqdJL8QaAEZHY2EruTyb"
@@ -16234,6 +16452,24 @@
       "duration_ms": 181363,
       "name": "Perfect Timing [Remix]",
       "url": "https://open.spotify.com/track/2X3GZ67LDcCpHzqUSiXtSd"
+    },
+    {
+      "album": {
+        "name": "Persuade Me",
+        "url": "https://open.spotify.com/album/3WzmMpUhESBLc6R8Z5aM57"
+      },
+      "artists": [
+        {
+          "name": "Naesia",
+          "url": "https://open.spotify.com/artist/2InyKKvSXjsPZHDhAKrtZA"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182680,
+      "name": "Persuade Me",
+      "url": "https://open.spotify.com/track/775RzkgZutFuIiqUttdo0Z"
     },
     {
       "album": {
@@ -17094,6 +17330,24 @@
       "duration_ms": 181818,
       "name": "Purple",
       "url": "https://open.spotify.com/track/7ahZCzpwtN2TNhpJQbkuI6"
+    },
+    {
+      "album": {
+        "name": "Purple Skies",
+        "url": "https://open.spotify.com/album/4JJjhiUJE60AAQJPLyX2W9"
+      },
+      "artists": [
+        {
+          "name": "Abrina",
+          "url": "https://open.spotify.com/artist/3FfeeQuvoeef4F19qixt58"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168944,
+      "name": "Purple Skies",
+      "url": "https://open.spotify.com/track/0ToLN32qF8AChmMqRPkjlR"
     },
     {
       "album": {
@@ -18354,6 +18608,24 @@
       "duration_ms": 96802,
       "name": "Same Page",
       "url": "https://open.spotify.com/track/7DhYIiTV7OEPBxX7Qt6q9k"
+    },
+    {
+      "album": {
+        "name": "Seance",
+        "url": "https://open.spotify.com/album/4apjc7VqYs67dC1j4AngB4"
+      },
+      "artists": [
+        {
+          "name": "Saleka",
+          "url": "https://open.spotify.com/artist/7ESkOK8bwqIEVwerMPuwI7"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193457,
+      "name": "Samsara",
+      "url": "https://open.spotify.com/track/0FWao9iq2dA2PxiESAtHBE"
     },
     {
       "album": {
@@ -19933,6 +20205,24 @@
     },
     {
       "album": {
+        "name": "State Of Mind",
+        "url": "https://open.spotify.com/album/44x9FLjqOR4u3X08LJj0x2"
+      },
+      "artists": [
+        {
+          "name": "Henri Gaston",
+          "url": "https://open.spotify.com/artist/52y8QkoyGh5eYwpqU75fGa"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193071,
+      "name": "State Of Mind",
+      "url": "https://open.spotify.com/track/6UwxMsqDA9qMjNXl3HCvHG"
+    },
+    {
+      "album": {
         "name": "State of Mind",
         "url": "https://open.spotify.com/album/28OZ9yigKEWW29T8jOOS8F"
       },
@@ -20186,7 +20476,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 116736,
       "name": "Strawberry Perfume",
       "url": "https://open.spotify.com/track/4IbE8jxsczCxfGYJCE2T1x"
@@ -20288,6 +20578,32 @@
       "duration_ms": 190588,
       "name": "sub me in (feat. Maurice Moore)",
       "url": "https://open.spotify.com/track/66m6XgZHQfVrrXVfdVOHKG"
+    },
+    {
+      "album": {
+        "name": "Subtle Games",
+        "url": "https://open.spotify.com/album/3aMR26kSe8rzHjj7VXLk1R"
+      },
+      "artists": [
+        {
+          "name": "Mezraa",
+          "url": "https://open.spotify.com/artist/6oT0L9KXaIDDW38IpYuvRs"
+        },
+        {
+          "name": "jjad",
+          "url": "https://open.spotify.com/artist/245muEmgdPNuYVuvtnykJF"
+        },
+        {
+          "name": "Liv East",
+          "url": "https://open.spotify.com/artist/12Yeojvul63OHxXXI6Z5x7"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154615,
+      "name": "Subtle Games",
+      "url": "https://open.spotify.com/track/6PF4h4F2wkskBlO4XbqT5U"
     },
     {
       "album": {
@@ -20436,6 +20752,24 @@
       "duration_ms": 199186,
       "name": "Sundress",
       "url": "https://open.spotify.com/track/2PVIOPgiTf6w6RlEJxQdkg"
+    },
+    {
+      "album": {
+        "name": "Sunny Days",
+        "url": "https://open.spotify.com/album/7fQrvuCGqLccjHRrRSKYHe"
+      },
+      "artists": [
+        {
+          "name": "Kennedy Ryon",
+          "url": "https://open.spotify.com/artist/02QGxgemaZGHvNZBDn53yH"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262200,
+      "name": "Sunny Days",
+      "url": "https://open.spotify.com/track/3gXnOahT4VaUb6JyEjYEvz"
     },
     {
       "album": {
@@ -21044,6 +21378,24 @@
       "duration_ms": 256308,
       "name": "Tell Me",
       "url": "https://open.spotify.com/track/6HS2FQ2iVT12umo2L0mlgH"
+    },
+    {
+      "album": {
+        "name": "Temporary Love",
+        "url": "https://open.spotify.com/album/7Ik6vXPyiM9jflElmt78cQ"
+      },
+      "artists": [
+        {
+          "name": "Xenia Manasseh",
+          "url": "https://open.spotify.com/artist/2J4IvVbi2h1wB2A0p5kd86"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156213,
+      "name": "Temporary Love",
+      "url": "https://open.spotify.com/track/502fO9MaTL1FXQxilajwW8"
     },
     {
       "album": {
@@ -21982,6 +22334,28 @@
       "duration_ms": 189232,
       "name": "Touch Your Soul (feat. Merlyn Wood)",
       "url": "https://open.spotify.com/track/4PRdVFLaAPWXJvIVwKnLqa"
+    },
+    {
+      "album": {
+        "name": "Silhouette Dreams",
+        "url": "https://open.spotify.com/album/7bS3ffbYah2XF7ViNbqpFW"
+      },
+      "artists": [
+        {
+          "name": "Halo Yagami",
+          "url": "https://open.spotify.com/artist/3boR2ULQR1CX6TUBboHctW"
+        },
+        {
+          "name": "Kemuel",
+          "url": "https://open.spotify.com/artist/0ixmjHuzMTxPyps7w28tnH"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167471,
+      "name": "Toxic",
+      "url": "https://open.spotify.com/track/5ghsHV0ShfpLni5slc0BNi"
     },
     {
       "album": {
@@ -23176,6 +23550,24 @@
       "duration_ms": 204450,
       "name": "Weekend",
       "url": "https://open.spotify.com/track/64NqfamXqb6KDLc3qt8EF1"
+    },
+    {
+      "album": {
+        "name": "Westside",
+        "url": "https://open.spotify.com/album/3QJg2RbY18wsOOvOVG0GPo"
+      },
+      "artists": [
+        {
+          "name": "Nevi",
+          "url": "https://open.spotify.com/artist/3KYwV2yzftyYsJCKocAhbM"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155454,
+      "name": "Westside",
+      "url": "https://open.spotify.com/track/1PVHaSqI9vECfbd5ac6xAS"
     },
     {
       "album": {

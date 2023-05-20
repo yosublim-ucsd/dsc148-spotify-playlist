@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-10-01",
-  "description": "New and emerging R&B and Alternative tracks. Cover: <a href=\"https://open.spotify.com/artist/7MDpxR0Wzmqg7Ty7aJ77lu?si=lXygR8XNTOmWchcoEDKwcQ\"> Sut\u00e9 Iwar</a> ",
+  "description": "New and emerging R&B and Alternative tracks. Cover: <a href=\"https://open.spotify.com/artist/0seIm2Vmyh7V7oqRX2uZtC?si=10pD0PThQ6yCC55IWicwKQ\"> Kkeda</a> ",
   "name": "Sizzlers ",
   "tracks": [
     {
@@ -1472,7 +1472,7 @@
       ],
       "date_added": "2023-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 180000,
       "name": "Confession",
       "url": "https://open.spotify.com/track/4Kj7GW56rl5NkjE8eSfmyO"
@@ -2598,6 +2598,24 @@
       "duration_ms": 239999,
       "name": "Go - Acoustic",
       "url": "https://open.spotify.com/track/2E6noE7MLeGQBMk3nPEmxH"
+    },
+    {
+      "album": {
+        "name": "Gone Back",
+        "url": "https://open.spotify.com/album/5TGbLOhXDrvgJhzSiobOSo"
+      },
+      "artists": [
+        {
+          "name": "Raybekah",
+          "url": "https://open.spotify.com/artist/0SwPkNmxB2YGHWVJMI8kpW"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156226,
+      "name": "Gone Back",
+      "url": "https://open.spotify.com/track/1SfzUZfk6wiNqJNWv0dz9u"
     },
     {
       "album": {
@@ -3779,6 +3797,24 @@
     },
     {
       "album": {
+        "name": "Leave It Behind",
+        "url": "https://open.spotify.com/album/15OP5lGJB4ra76N5qGT9ua"
+      },
+      "artists": [
+        {
+          "name": "AMAKA",
+          "url": "https://open.spotify.com/artist/37BQKlogkKqPt9nioMBLOa"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171428,
+      "name": "Leave it Behind",
+      "url": "https://open.spotify.com/track/0AleScLkrP6aQcJPBBzPPK"
+    },
+    {
+      "album": {
         "name": "Let me go",
         "url": "https://open.spotify.com/album/1GLbCf7kN8GExrykwIXyYS"
       },
@@ -4528,7 +4564,7 @@
       ],
       "date_added": "2023-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 190000,
       "name": "My Baby",
       "url": "https://open.spotify.com/track/4QI32cLrF64ZTPfIHwIH5w"
@@ -5308,6 +5344,32 @@
       "duration_ms": 173793,
       "name": "Peace of Mind",
       "url": "https://open.spotify.com/track/3iSPa1byIatby865yq5GwD"
+    },
+    {
+      "album": {
+        "name": "Peace of Mind (Remix)",
+        "url": "https://open.spotify.com/album/2ubg4txvVWg2ExroKariVk"
+      },
+      "artists": [
+        {
+          "name": "Toby Grey",
+          "url": "https://open.spotify.com/artist/7eJwlZzlct7anXWaMKT3ww"
+        },
+        {
+          "name": "Kemuel",
+          "url": "https://open.spotify.com/artist/0ixmjHuzMTxPyps7w28tnH"
+        },
+        {
+          "name": "Mamba Sounds",
+          "url": "https://open.spotify.com/artist/1QATgeQhzBedfbzCpZLvtN"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161739,
+      "name": "Peace of Mind - Remix",
+      "url": "https://open.spotify.com/track/08raobDIp9txgKq6u9RbCV"
     },
     {
       "album": {
@@ -6554,7 +6616,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 173304,
       "name": "Spell - Remix",
       "url": "https://open.spotify.com/track/1rgpvUOxnI0Mno6OTsXTFh"
@@ -6902,7 +6964,7 @@
       ],
       "date_added": "2023-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 153600,
       "name": "These Dreams",
       "url": "https://open.spotify.com/track/6spzT5un4OG4OtxpsrpQIa"

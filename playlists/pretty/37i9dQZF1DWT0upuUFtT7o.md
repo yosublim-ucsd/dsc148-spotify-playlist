@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT0upuUFtT7o.md) - [plain]
 
 > The best new indie tracks from independent artists & labels\. Updates every Wednesday\. Cover: Waterbaby
 
-[Spotify](https://open.spotify.com/user/spotify) - 177,736 likes - 100 songs - 5 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 177,791 likes - 100 songs - 5 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT0upuUFtT7o.md) - [plain]
 | 99 | [Drown Me In Emotions](https://open.spotify.com/track/3mPFQwHIMIRLheTICb02YP) | [Carver Commodore](https://open.spotify.com/artist/0JYBvQbg4xyCfKy1S5YGpU) | [Drown Me In Emotions](https://open.spotify.com/album/3hcOGmFHcV1st3jsDqK0zg) | 3:38 |
 | 100 | [Wish I Knew](https://open.spotify.com/track/1Z11VyovU8QADpZMpUWd8w) | [The Bobo](https://open.spotify.com/artist/1dhQg6urYCnTQhYWG8tsvE) | [Wish I Knew](https://open.spotify.com/album/4NfVjmMW3v4UlOxob0moUU) | 4:04 |
 
-Snapshot ID: `MCw3MWQ0MzkwNWQwY2MxNDE5OTlkZTY4MjhkMTVhYmE0ODU2MTg4Y2U0`
+Snapshot ID: `MCw5MmI0MThlNmViYzU4MDY2MDEzNDhhNjI4YzllMmM1MDQzOWI4ZWJh`

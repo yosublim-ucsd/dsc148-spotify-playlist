@@ -1,12 +1,12 @@
 {
   "description": "The best new music by independent artists and labels, featuring Human Lemonade. Updates every Wednesday.",
-  "num_followers": 170050,
+  "num_followers": 170054,
   "original_name": "Fresh Finds Latin",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyN2MzYmMxYTg2YzJiYzA2OThkNjY1YjA1NzYwY2M0ZGExNjIzMTQz",
+  "snapshot_id": "MCw0N2JkNGMyZDE1ZDA0N2RkM2QzMTg3N2I1ZjdjYTJmZTIxOTRkNDE4",
   "tracks": [
     {
       "added_at": "2023-05-17 14:10:09",
@@ -91,22 +91,18 @@
     {
       "added_at": "2023-05-17 14:10:09",
       "album": {
-        "name": "Te hab\u00eda contao",
-        "url": "https://open.spotify.com/album/0fsdJqVYDcHFmz8hFp17xT"
+        "name": "Dime Algo",
+        "url": "https://open.spotify.com/album/0dGRi74nyRIa7BXINyMsPU"
       },
       "artists": [
         {
-          "name": "SNENiE",
-          "url": "https://open.spotify.com/artist/3iIgIzm5nwy5y2uuudWKTb"
-        },
-        {
-          "name": "Poror\u00f3",
-          "url": "https://open.spotify.com/artist/37rFJ6EXmC8mPSiLUS3sW3"
+          "name": "Remers",
+          "url": "https://open.spotify.com/artist/5bVgn8ImAnQDIB1NjxfSvb"
         }
       ],
-      "duration_ms": 218657,
-      "name": "Te hab\u00eda contao",
-      "url": "https://open.spotify.com/track/0KjmacdqLiXABYlCSZgLxu"
+      "duration_ms": 143639,
+      "name": "Dime Algo",
+      "url": "https://open.spotify.com/track/2gW0EWh9uJC1O2zUDRJcZv"
     },
     {
       "added_at": "2023-05-17 14:10:09",
@@ -295,18 +291,22 @@
     {
       "added_at": "2023-05-17 14:10:09",
       "album": {
-        "name": "Dime Algo",
-        "url": "https://open.spotify.com/album/0dGRi74nyRIa7BXINyMsPU"
+        "name": "Te hab\u00eda contao",
+        "url": "https://open.spotify.com/album/0fsdJqVYDcHFmz8hFp17xT"
       },
       "artists": [
         {
-          "name": "Remers",
-          "url": "https://open.spotify.com/artist/5bVgn8ImAnQDIB1NjxfSvb"
+          "name": "SNENiE",
+          "url": "https://open.spotify.com/artist/3iIgIzm5nwy5y2uuudWKTb"
+        },
+        {
+          "name": "Poror\u00f3",
+          "url": "https://open.spotify.com/artist/37rFJ6EXmC8mPSiLUS3sW3"
         }
       ],
-      "duration_ms": 143639,
-      "name": "Dime Algo",
-      "url": "https://open.spotify.com/track/2gW0EWh9uJC1O2zUDRJcZv"
+      "duration_ms": 218657,
+      "name": "Te hab\u00eda contao",
+      "url": "https://open.spotify.com/track/0KjmacdqLiXABYlCSZgLxu"
     },
     {
       "added_at": "2023-05-17 14:10:09",
@@ -443,22 +443,6 @@
     {
       "added_at": "2023-05-17 14:10:09",
       "album": {
-        "name": "Thrift Kiss",
-        "url": "https://open.spotify.com/album/3v0dbGyiQC0Putq9oY6k70"
-      },
-      "artists": [
-        {
-          "name": "George Arthur Calendar",
-          "url": "https://open.spotify.com/artist/79W4JcW6IfUtgzPWs3Ubem"
-        }
-      ],
-      "duration_ms": 227800,
-      "name": "Thrift Kiss",
-      "url": "https://open.spotify.com/track/0GnufvOWngsqNTkQQTe756"
-    },
-    {
-      "added_at": "2023-05-17 14:10:09",
-      "album": {
         "name": "Mestizo",
         "url": "https://open.spotify.com/album/6cjeA7ztH6RbiinRGV7MBl"
       },
@@ -479,6 +463,22 @@
       "duration_ms": 197237,
       "name": "Caminito",
       "url": "https://open.spotify.com/track/40zlw1K2egjeSsFPRYlCaV"
+    },
+    {
+      "added_at": "2023-05-17 14:10:09",
+      "album": {
+        "name": "Thrift Kiss",
+        "url": "https://open.spotify.com/album/3v0dbGyiQC0Putq9oY6k70"
+      },
+      "artists": [
+        {
+          "name": "George Arthur Calendar",
+          "url": "https://open.spotify.com/artist/79W4JcW6IfUtgzPWs3Ubem"
+        }
+      ],
+      "duration_ms": 227800,
+      "name": "Thrift Kiss",
+      "url": "https://open.spotify.com/track/0GnufvOWngsqNTkQQTe756"
     },
     {
       "added_at": "2023-05-17 14:10:09",
@@ -551,22 +551,6 @@
     {
       "added_at": "2023-05-17 14:10:09",
       "album": {
-        "name": "BIEN RARO",
-        "url": "https://open.spotify.com/album/09UV1eLtOnKeZaaaHnL5w2"
-      },
-      "artists": [
-        {
-          "name": "Dimc",
-          "url": "https://open.spotify.com/artist/6dsf1MmhDry9AMFBGy6A1O"
-        }
-      ],
-      "duration_ms": 120000,
-      "name": "BIEN RARO",
-      "url": "https://open.spotify.com/track/652t4pJoG6noGbN3VaQ0WA"
-    },
-    {
-      "added_at": "2023-05-17 14:10:09",
-      "album": {
         "name": "En Cada \u00c1tomo",
         "url": "https://open.spotify.com/album/0qcqeNJHZjyXsydGHFglL9"
       },
@@ -583,6 +567,22 @@
     {
       "added_at": "2023-05-17 14:10:09",
       "album": {
+        "name": "BIEN RARO",
+        "url": "https://open.spotify.com/album/09UV1eLtOnKeZaaaHnL5w2"
+      },
+      "artists": [
+        {
+          "name": "Dimc",
+          "url": "https://open.spotify.com/artist/6dsf1MmhDry9AMFBGy6A1O"
+        }
+      ],
+      "duration_ms": 120000,
+      "name": "BIEN RARO",
+      "url": "https://open.spotify.com/track/652t4pJoG6noGbN3VaQ0WA"
+    },
+    {
+      "added_at": "2023-05-17 14:10:09",
+      "album": {
         "name": "Seres",
         "url": "https://open.spotify.com/album/4KWPrqOmDSp8wbRChTRVFf"
       },
@@ -595,6 +595,22 @@
       "duration_ms": 253138,
       "name": "Seres",
       "url": "https://open.spotify.com/track/4Frl3G7vrrio9Wkf3WI7c6"
+    },
+    {
+      "added_at": "2023-05-17 14:10:09",
+      "album": {
+        "name": "Quiero una Bici Pero No Tengo Plata Porque No S\u00e9 Ahorrar",
+        "url": "https://open.spotify.com/album/4Djif46DvmAXEU06NsrVfS"
+      },
+      "artists": [
+        {
+          "name": "Buenas Noches Sol",
+          "url": "https://open.spotify.com/artist/2TjUatTe9jfp879dbFrno1"
+        }
+      ],
+      "duration_ms": 250170,
+      "name": "Quiero una Bici Pero No Tengo Plata Porque No S\u00e9 Ahorrar",
+      "url": "https://open.spotify.com/track/557TVWI4FYr2fUcgSca3hV"
     },
     {
       "added_at": "2023-05-17 14:10:09",
@@ -619,22 +635,6 @@
     {
       "added_at": "2023-05-17 14:10:09",
       "album": {
-        "name": "Quieto mal",
-        "url": "https://open.spotify.com/album/7AaH4JHkPvwr5Rn0QEJWzp"
-      },
-      "artists": [
-        {
-          "name": "TORO",
-          "url": "https://open.spotify.com/artist/6uX4tGhWrgAzr8UtRnK96Y"
-        }
-      ],
-      "duration_ms": 159500,
-      "name": "Quieto mal",
-      "url": "https://open.spotify.com/track/30YagZwIh0Iiy3G0DM0HIp"
-    },
-    {
-      "added_at": "2023-05-17 14:10:09",
-      "album": {
         "name": "Bah\u00eda Conejo",
         "url": "https://open.spotify.com/album/5Vfp7Pf7oj7wQGlzjw0l8M"
       },
@@ -647,6 +647,22 @@
       "duration_ms": 201556,
       "name": "Bah\u00eda Conejo",
       "url": "https://open.spotify.com/track/7z84D7G2GzaxPx9TjE4KJJ"
+    },
+    {
+      "added_at": "2023-05-17 14:10:09",
+      "album": {
+        "name": "Quieto mal",
+        "url": "https://open.spotify.com/album/7AaH4JHkPvwr5Rn0QEJWzp"
+      },
+      "artists": [
+        {
+          "name": "TORO",
+          "url": "https://open.spotify.com/artist/6uX4tGhWrgAzr8UtRnK96Y"
+        }
+      ],
+      "duration_ms": 159500,
+      "name": "Quieto mal",
+      "url": "https://open.spotify.com/track/30YagZwIh0Iiy3G0DM0HIp"
     },
     {
       "added_at": "2023-05-17 14:10:09",
@@ -699,22 +715,6 @@
     {
       "added_at": "2023-05-17 14:10:09",
       "album": {
-        "name": "Quiero una Bici Pero No Tengo Plata Porque No S\u00e9 Ahorrar",
-        "url": "https://open.spotify.com/album/4Djif46DvmAXEU06NsrVfS"
-      },
-      "artists": [
-        {
-          "name": "Buenas Noches Sol",
-          "url": "https://open.spotify.com/artist/2TjUatTe9jfp879dbFrno1"
-        }
-      ],
-      "duration_ms": 250170,
-      "name": "Quiero una Bici Pero No Tengo Plata Porque No S\u00e9 Ahorrar",
-      "url": "https://open.spotify.com/track/557TVWI4FYr2fUcgSca3hV"
-    },
-    {
-      "added_at": "2023-05-17 14:10:09",
-      "album": {
         "name": "D\u00edas En Casa",
         "url": "https://open.spotify.com/album/6v6HHXpXjmwo2gA1S1gPuk"
       },
@@ -731,22 +731,6 @@
     {
       "added_at": "2023-05-17 14:10:09",
       "album": {
-        "name": "Estructuras Inestables",
-        "url": "https://open.spotify.com/album/1THM2S2ulfKF94Iq03MyG8"
-      },
-      "artists": [
-        {
-          "name": "T'Shine",
-          "url": "https://open.spotify.com/artist/4d3XBHv7pvLOtkJBwQqMrm"
-        }
-      ],
-      "duration_ms": 207194,
-      "name": "Las Risas Caen",
-      "url": "https://open.spotify.com/track/3kVciV1r3KxJSmHI15LLJA"
-    },
-    {
-      "added_at": "2023-05-17 14:10:09",
-      "album": {
         "name": "Dentro de Tu Alma",
         "url": "https://open.spotify.com/album/6ytVQULGgXN0jCvfeZAatE"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 167691,
       "name": "Dentro de Tu Alma",
       "url": "https://open.spotify.com/track/5X0UJZD8fqZt3T0OFVsYEX"
+    },
+    {
+      "added_at": "2023-05-17 14:10:09",
+      "album": {
+        "name": "Estructuras Inestables",
+        "url": "https://open.spotify.com/album/1THM2S2ulfKF94Iq03MyG8"
+      },
+      "artists": [
+        {
+          "name": "T'Shine",
+          "url": "https://open.spotify.com/artist/4d3XBHv7pvLOtkJBwQqMrm"
+        }
+      ],
+      "duration_ms": 207194,
+      "name": "Las Risas Caen",
+      "url": "https://open.spotify.com/track/3kVciV1r3KxJSmHI15LLJA"
     },
     {
       "added_at": "2023-05-17 14:10:09",
@@ -783,22 +783,6 @@
     {
       "added_at": "2023-05-17 14:10:09",
       "album": {
-        "name": "TAN T\u00da",
-        "url": "https://open.spotify.com/album/06Jk8UPC3tdSoneRI31NgG"
-      },
-      "artists": [
-        {
-          "name": "dieglitter",
-          "url": "https://open.spotify.com/artist/7KBLyqrz39wHYcTiqvmLPg"
-        }
-      ],
-      "duration_ms": 207189,
-      "name": "TAN T\u00da",
-      "url": "https://open.spotify.com/track/2hN4U3VaZLgAWv6yuFNzRO"
-    },
-    {
-      "added_at": "2023-05-17 14:10:09",
-      "album": {
         "name": "Buen Puerto",
         "url": "https://open.spotify.com/album/4UwUlyTYrb8eC0FGMBLoxh"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 249703,
       "name": "Ya Ves",
       "url": "https://open.spotify.com/track/2iAvwUM3ntDKeF6I5rBUM9"
+    },
+    {
+      "added_at": "2023-05-17 14:10:09",
+      "album": {
+        "name": "TAN T\u00da",
+        "url": "https://open.spotify.com/album/06Jk8UPC3tdSoneRI31NgG"
+      },
+      "artists": [
+        {
+          "name": "dieglitter",
+          "url": "https://open.spotify.com/artist/7KBLyqrz39wHYcTiqvmLPg"
+        }
+      ],
+      "duration_ms": 207189,
+      "name": "TAN T\u00da",
+      "url": "https://open.spotify.com/track/2hN4U3VaZLgAWv6yuFNzRO"
     },
     {
       "added_at": "2023-05-17 14:10:09",

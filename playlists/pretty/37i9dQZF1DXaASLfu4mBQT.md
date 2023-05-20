@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaASLfu4mBQT.md) - [plain]
 
 > Mellow pop favorites from 2022\. Cover: Lauren Spencer Smith \#SpotifyWrapped
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,729 likes - 50 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,730 likes - 50 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaASLfu4mBQT.md) - [plain]
 | 49 | [Dreamer](https://open.spotify.com/track/2k28LZ2gQAwpNn3c4i5XQb) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Sonder](https://open.spotify.com/album/0YlJpX1XiE8ghnRJCU0Dwv) | 3:01 |
 | 50 | [MESS U MADE](https://open.spotify.com/track/1jZrlerU1ZWEI7oDPtHPGx) | [MICHELLE](https://open.spotify.com/artist/4yYvor6Rq4fG82J1L47DYp) | [AFTER DINNER WE TALK DREAMS](https://open.spotify.com/album/0DNz0XsG6B1Vz1CcbuIsov) | 2:48 |
 
-Snapshot ID: `MCw2M2E4MGNiOWQ5MDdhZGQzMzAyZTZmNDQ5YmFkNzJlNDQ5ODFjZjZh`
+Snapshot ID: `MCwxZTBmNjY5MjFkYzBlZDY1ZTdkMjNiYTUwZmUwMDgzZDA1OTdlNTNj`

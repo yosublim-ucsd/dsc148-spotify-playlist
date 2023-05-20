@@ -4,7 +4,7 @@
 
 > 人気ボカロ曲をプレイリストで。命を持たないVOCALOIDの魅力を特集。Biggest hits & fresh tracks of VOCALOID.
 
-490 songs - 1 day 4 hr 8 min
+491 songs - 1 day 4 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,7 +56,8 @@
 | [Ghost Rule](https://open.spotify.com/track/1OAp6qN5KmoGUQ2edICKsC) | [DECO\*27](https://open.spotify.com/artist/7kZTWx6cRLc0TSRPq1XBMP) | [GHOST](https://open.spotify.com/album/3euL5ADirJFFXvoX9OlIfA) | 3:30 | 2022-06-21 | 2023-01-13 |
 | [Gimme×Gimme feat\. 初音ミク・鏡音リン](https://open.spotify.com/track/5XJh3VbvvnGYrkubcQwzys) | [Hachioji P](https://open.spotify.com/artist/4TtpMS8RsX8vW64WOivJrb), [Giga](https://open.spotify.com/artist/73agKiU7x2AtIEH2IAK2iS), [Hatsune Miku](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl), [Kagamine Rin](https://open.spotify.com/artist/7wZ6E8iVwjGYRGwSfkIAjP) | [GRAPHIX](https://open.spotify.com/album/6TIBa4yqhBXdrcbui3TGzt) | 3:40 | 2022-07-26 | 2022-10-14 |
 | [God sees all](https://open.spotify.com/track/1MES6o0hVfvTcoK0JYDQq6) | [Ethyria](https://open.spotify.com/artist/1FUCVcTXn8jXmPTS3vV9xy) | [God sees all](https://open.spotify.com/album/2UvWMD9DOfJxpJaSwNtqFU) | 3:16 | 2022-06-09 | 2023-01-13 |
-| [God\-ish](https://open.spotify.com/track/206UWNKXURTnN4zf9vmXUV) | [PinocchioP](https://open.spotify.com/artist/3b7jPCedJ2VH4l4rcOTvNC) | [God\-ish](https://open.spotify.com/album/5MEXGTej0dxa5MbXZCJJyk) | 3:23 | 2022-07-26 |  |
+| [God\-ish](https://open.spotify.com/track/206UWNKXURTnN4zf9vmXUV) | [PinocchioP](https://open.spotify.com/artist/3b7jPCedJ2VH4l4rcOTvNC) | [God\-ish](https://open.spotify.com/album/5MEXGTej0dxa5MbXZCJJyk) | 3:23 | 2022-07-26 | 2023-05-20 |
+| [God\-ish](https://open.spotify.com/track/08Th6KDn0ESaxZis89HxRo) | [PinocchioP](https://open.spotify.com/artist/3b7jPCedJ2VH4l4rcOTvNC) | [META](https://open.spotify.com/album/4iBwkssXTjrecC7MBKVJ6a) | 3:25 | 2023-05-18 |  |
 | [Good\-bye Declaration](https://open.spotify.com/track/6TJnkjQL9Ar8JQVrGiBhVf) | [Chinozo](https://open.spotify.com/artist/205dGSmCjnFA0Mjptshdsx) | [Good\-bye Declaration](https://open.spotify.com/album/0HdeiaHzPCeF543SeBwL7q) | 2:52 | 2022-11-08 | 2022-11-13 |
 | [good\-bye declaration](https://open.spotify.com/track/6SYj9vjjVTwKn08iKZR11m) | [Chinozo](https://open.spotify.com/artist/205dGSmCjnFA0Mjptshdsx) | [The Deluge](https://open.spotify.com/album/0XVzhmnx7nQ1TYxUGKBmXx) | 2:52 | 2023-01-12 | 2023-01-25 |
 | [GURU](https://open.spotify.com/track/44bhs2HUL9FLVB3hdYCF2x) | [Jin](https://open.spotify.com/artist/7to1UlTpu40h7CpjRPkGqA) | [GURU](https://open.spotify.com/album/7yd2EeJwKUL5mdU3B3DLVe) | 3:10 | 2022-08-16 | 2022-08-24 |

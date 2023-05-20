@@ -4,7 +4,7 @@
 
 > The best new indie music from South Africa and beyond\. Cover: <a href="https://open.spotify.com/artist/4DCRHW4ITYEaA0qmW3PYJj?si=bjSNatAfS8iLzllFqCEkcw">aboynamedblu</a>
 
-308 songs - 17 hr 53 min
+309 songs - 17 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -77,6 +77,7 @@
 | [Director in the Dark](https://open.spotify.com/track/55yCGBhMJPzyCxWHwJJcWd) | [Luka](https://open.spotify.com/artist/3pBGsDYnC5jRuBro2o8wvv) | [Director in the Dark](https://open.spotify.com/album/7xGrjVZEtkqUNEg0uZyknt) | 3:35 | 2023-04-06 |  |
 | [Dizzy](https://open.spotify.com/track/3K2iZ52YBqQz2f2srcAixn) | [Purboxx](https://open.spotify.com/artist/3nCYPwQnYlMq4WkO1qZdd9) | [Dizzy](https://open.spotify.com/album/3nw8WU1ZFdsdguO8xzspPt) | 3:20 | 2023-03-16 | 2023-05-19 |
 | [Don't Walk Away](https://open.spotify.com/track/6c8yTt07EyE1jc41GK98s7) | [Jonny Hayes](https://open.spotify.com/artist/4RscgyBOMvKeYLQ6OOF3sp) | [Don't Walk Away](https://open.spotify.com/album/1yZF9UfpLcSHDi8Sw46wk8) | 3:50 | 2022-11-10 | 2023-01-20 |
+| [DONT WORRY!](https://open.spotify.com/track/6rBLBZWk5veaGuOY9MscE9) | [JUCINDA](https://open.spotify.com/artist/70ZW0jioaMggqkfttoWkQo) | [everything i couldn't remember is good.](https://open.spotify.com/album/4WJbDjZS0sLVUEOPZsrgyC) | 3:18 | 2023-05-18 |  |
 | [Don’t Know How To Keep Loving You](https://open.spotify.com/track/0h5icusBVQgQqSyZdPvtxG) | [Julia Jacklin](https://open.spotify.com/artist/12fRkVfO2fUsz1QHgDAG3g) | [Crushing](https://open.spotify.com/album/50G6NiGQgtYNiwNK018q8v) | 5:32 | 2023-01-12 | 2023-01-20 |
 | [Dream](https://open.spotify.com/track/4WRi0GE9rB7ca848HIavkJ) | [Rhys Davids](https://open.spotify.com/artist/3zkCmXCBcpPtF3UqPTNMNv) | [Dream](https://open.spotify.com/album/1dkq45ItGdHYFjGlSxlcZg) | 3:18 | 2023-05-05 | 2023-05-12 |
 | [Dream State](https://open.spotify.com/track/76ZaAhiof5vIHJWbI5Lmvj) | [Wren Hinds](https://open.spotify.com/artist/58U71aw2hYsogUxtiM4NWX) | [Dream State](https://open.spotify.com/album/2akH8BvfJ3sqfsLM7Lmab7) | 4:36 | 2023-04-27 |  |

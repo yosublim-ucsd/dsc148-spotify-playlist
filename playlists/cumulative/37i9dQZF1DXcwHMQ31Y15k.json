@@ -200,7 +200,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 246542,
       "name": "Balik Kanan Wae",
       "url": "https://open.spotify.com/track/3r55XFoo88uz9e084F2RFU"
@@ -1226,6 +1226,28 @@
       "duration_ms": 359342,
       "name": "Lungaku",
       "url": "https://open.spotify.com/track/5laQzcP5GJcT0lF5R7HpBr"
+    },
+    {
+      "album": {
+        "name": "Madiun Ngawi",
+        "url": "https://open.spotify.com/album/28PUMtZizCE3nKxO1Fi9bA"
+      },
+      "artists": [
+        {
+          "name": "Happy Asmara",
+          "url": "https://open.spotify.com/artist/5423rMdVbchY2cgu0GgH5X"
+        },
+        {
+          "name": "Denny Caknan",
+          "url": "https://open.spotify.com/artist/3Gr3opnAGpJiTowsTyJFWG"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 343600,
+      "name": "Madiun Ngawi",
+      "url": "https://open.spotify.com/track/1cYFdtA6Ikt6L3nx17HidL"
     },
     {
       "album": {
@@ -2838,6 +2860,24 @@
       "duration_ms": 346444,
       "name": "Wegah Pisah",
       "url": "https://open.spotify.com/track/3Wqr2RXL6msDIuJM1m0UNW"
+    },
+    {
+      "album": {
+        "name": "Wes Tatas",
+        "url": "https://open.spotify.com/album/0st0wABUWgfiEPkF3fPhsz"
+      },
+      "artists": [
+        {
+          "name": "Happy Asmara",
+          "url": "https://open.spotify.com/artist/5423rMdVbchY2cgu0GgH5X"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247328,
+      "name": "Wes Tatas",
+      "url": "https://open.spotify.com/track/6g6tlaJKQWsL6Ysrt6anxs"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > O melhor do sertanejo em uma só playlist! Foto: Israel & Rodolffo, Mari Fernandez
 
-135 songs - 6 hr 25 min
+136 songs - 6 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -109,7 +109,7 @@
 | [Pactos \- Ao Vivo](https://open.spotify.com/track/2M4kQD87lKnAS9vFlb4Bez) | [Matheus & Kauan](https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr), [Jorge & Mateus](https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM) | [Pactos \(Ao Vivo\)](https://open.spotify.com/album/0I7xW9b6gDavthLOX9aphS) | 3:03 | 2022-11-08 |  |
 | [Palhaça \- Ao Vivo](https://open.spotify.com/track/0KXdSF0Poa57KOepZ3hKrh) | [Naiara Azevedo](https://open.spotify.com/artist/0jD7VeE1m2SdHbOWeCtB9l), [Ana Castela](https://open.spotify.com/artist/2CKOmarVWvWqkNWUatHCex) | [Palhaça \(Ao Vivo\)](https://open.spotify.com/album/1OFKXv6Dp3Tg05GFpowmDf) | 2:50 | 2023-01-20 | 2023-03-10 |
 | [Perdoou Nada \- Ao Vivo](https://open.spotify.com/track/4r2O8NHomHiJnFKqhYnqy1) | [Israel & Rodolffo](https://open.spotify.com/artist/41QLxRXlc2NwfJZkHGHKid), [Jorge & Mateus](https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM) | [Perdoou Nada \(Ao Vivo\)](https://open.spotify.com/album/2QK0cNElhPgXGxRx15mKbJ) | 2:43 | 2022-12-09 |  |
-| [Perfeito Pra Ficar Sozinho \- Ao Vivo](https://open.spotify.com/track/4cxQWmXmmbFoWvV8qipQTe) | [Murilo Huff](https://open.spotify.com/artist/3hq7WoPJsrRP0KMSLhUgRz), [Maiara & Maraisa](https://open.spotify.com/artist/59jlthNnbmim5l9tmNA7se) | [Perfeito Pra Ficar Sozinho \(Ao Vivo\)](https://open.spotify.com/album/0hSTkDethURIn0Bqp009ja) | 2:50 | 2022-08-12 |  |
+| [Perfeito Pra Ficar Sozinho \- Ao Vivo](https://open.spotify.com/track/4cxQWmXmmbFoWvV8qipQTe) | [Murilo Huff](https://open.spotify.com/artist/3hq7WoPJsrRP0KMSLhUgRz), [Maiara & Maraisa](https://open.spotify.com/artist/59jlthNnbmim5l9tmNA7se) | [Perfeito Pra Ficar Sozinho \(Ao Vivo\)](https://open.spotify.com/album/0hSTkDethURIn0Bqp009ja) | 2:50 | 2022-08-12 | 2023-05-20 |
 | [PERIGO NOTURNO \- Ao Vivo](https://open.spotify.com/track/4IX43MpJlpxzRMLb9QayrJ) | [Luan Santana](https://open.spotify.com/artist/3qvcCP2J0fWi0m0uQDUf6r) | [LUAN CITY ALAMEDA BRUNA SANTANA \(Ao Vivo\)](https://open.spotify.com/album/49CJLfc1GJNjhMb7C7l9Ve) | 3:21 | 2022-07-08 | 2022-08-13 |
 | [Pino da Granada \(Ao Vivo em Rio Preto\)](https://open.spotify.com/track/0MKd4uZd8Ag8qyReZBTarP) | [Murilo Huff](https://open.spotify.com/artist/3hq7WoPJsrRP0KMSLhUgRz) | [Pino da Granada \(Ao Vivo em Rio Preto\)](https://open.spotify.com/album/60SAVsrvuAcIBAyqNxPOLP) | 3:05 | 2022-06-03 | 2023-02-11 |
 | [Presepada](https://open.spotify.com/track/3YvE7uo4ffseBoJPh8IhHp) | [Marília Mendonça](https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8), [Maiara & Maraisa](https://open.spotify.com/artist/59jlthNnbmim5l9tmNA7se) | [Festa das Patroas 35%](https://open.spotify.com/album/5S0cTPPACcLQxZPe2X88bQ) | 3:16 | 2021-12-31 | 2022-09-24 |
@@ -126,6 +126,7 @@
 | [Sorte \- Ao Vivo](https://open.spotify.com/track/2SwE42tEBphHOejzZ9rKRa) | [Diego & Victor Hugo](https://open.spotify.com/artist/3k68C6mNMJL6OaAdWeW2ZF) | [Sorte \(Ao Vivo\)](https://open.spotify.com/album/1KOI7qxsWY35YPZALo2oTA) | 3:06 | 2021-12-31 | 2022-05-20 |
 | [Só Não Divulga](https://open.spotify.com/track/3HquWF2pZmWYu3WAEP9Heb) | [Fernando & Sorocaba](https://open.spotify.com/artist/1oSgjdbgLYULVmEBojPRw8), [Tarcísio do Acordeon](https://open.spotify.com/artist/48HORs6F9P7IgdyKrk4MZC) | [Só Não Divulga](https://open.spotify.com/album/007jctHYAC50QpRyU3Cnj2) | 2:40 | 2021-12-31 | 2022-03-18 |
 | [Te Amo Demais](https://open.spotify.com/track/4xxeEWGQNFQ6qehlnev5LS) | [Marília Mendonça](https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8) | [Decretos Reais, Vol.1](https://open.spotify.com/album/24aslPrdihuSQ59jrB2eBB) | 3:25 | 2022-07-22 | 2023-02-17 |
+| [Te Esqueci Sem Querer \- Ao Vivo Em Brasília](https://open.spotify.com/track/5yscNPMHmhqHQX9B9GFzMp) | [Henrique & Juliano](https://open.spotify.com/artist/3p7PcrEHaaKLJnPUGOtRlT) | [To Be \(Ao Vivo Em Brasília EP3\)](https://open.spotify.com/album/2Tywwz9yenoTruRAZGXVBY) | 2:31 | 2023-05-19 |  |
 | [Termina Comigo Antes](https://open.spotify.com/track/1K8AtBJXcdq5mywMnZuARP) | [Gusttavo Lima](https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN) | [Termina Comigo Antes](https://open.spotify.com/album/3DnY0LdBlcqVcSOGLHE4Vq) | 3:07 | 2022-04-06 | 2022-12-17 |
 | [Tesão Da Madrugada \- Ao Vivo](https://open.spotify.com/track/4grGI2vFnknrfmHT1JOVFU) | [George Henrique & Rodrigo](https://open.spotify.com/artist/3FlCKtwOEYQQYyGVEbxG2Z), [Gusttavo Lima](https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN) | [Ao Vivo Em Brasília](https://open.spotify.com/album/6NM4daMHIA3uWxf2YjITpC) | 2:53 | 2022-02-18 | 2023-01-28 |
 | [Todo Mundo Menos Você](https://open.spotify.com/track/6H1OZfzhdwK4lmaPnOLJ0b) | [Marília Mendonça](https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8), [Maiara & Maraisa](https://open.spotify.com/artist/59jlthNnbmim5l9tmNA7se) | [Festa das Patroas 35%](https://open.spotify.com/album/50wAyDdWCMpPnG3lzWUChj) | 3:26 | 2021-12-31 | 2022-09-03 |

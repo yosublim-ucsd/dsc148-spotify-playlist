@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcLnINu2mUk0.md) - [plain]
 
 > Chill rap e R&B: É um mood suave e envolvente\. Foto: Bispo e Bárbara Tinoco.
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,720 likes - 75 songs - 4 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,784 likes - 75 songs - 4 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcLnINu2mUk0.md) - [plain]
 | 32 | [00 Fala Bonito](https://open.spotify.com/track/3ZJC7xO1GdWF5rj8VqXU2C) | [Papillon](https://open.spotify.com/artist/0Mum6waR8P9WICLVTpSi1d) | [00 Fala Bonito](https://open.spotify.com/album/0y2uZwLfbyL1FCwjmMb5Iv) | 3:32 |
 | 33 | [Essa Saia](https://open.spotify.com/track/2OI0z4fQD8NQPfYf5v6a2E) | [Bispo](https://open.spotify.com/artist/3LZCMaZWwvhYyQeEfWgVdY), [Ivandro](https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm) | [Essa Saia](https://open.spotify.com/album/47vPVhxPOVncM7tPBxFlFX) | 3:29 |
 | 34 | [Tsunami](https://open.spotify.com/track/5TqGewrmzgeb21FYQC7mJZ) | [Richie Campbell](https://open.spotify.com/artist/2swvbEAfN70ZFcQB4Y7MaS), [Gson](https://open.spotify.com/artist/6XjHGcba7ZbaZ6nYtwhaCj) | [Tsunami](https://open.spotify.com/album/27Gt5wAgEVjatU36I1ogDf) | 4:57 |
-| 35 | [Saudade](https://open.spotify.com/track/0dLrhO7oCMp0hQvXAUgbaC) | [Dillaz](https://open.spotify.com/artist/15p1isN7VcGsjeSq8s9YeP) | [Reflexo](https://open.spotify.com/album/7zr66qWybr1mAMSUVVosKU) | 5:06 |
-| 36 | [Fada](https://open.spotify.com/track/6edj5SqkUWNCmwCjhcBCj0) | [Chico da Tina](https://open.spotify.com/artist/7xDYCf4fsGxHBp8Blo9D94), [tripsyhell](https://open.spotify.com/artist/3tkHlk2d0v43tTN0YCCgWB), [Vano1337](https://open.spotify.com/artist/1dFSERIYIjXxFaMQi9Mf5q) | [Eurotape](https://open.spotify.com/album/2azkUPSyLVWwW9fnf4z5a6) | 2:56 |
+| 35 | [Fada](https://open.spotify.com/track/6edj5SqkUWNCmwCjhcBCj0) | [Chico da Tina](https://open.spotify.com/artist/7xDYCf4fsGxHBp8Blo9D94), [tripsyhell](https://open.spotify.com/artist/3tkHlk2d0v43tTN0YCCgWB), [Vano1337](https://open.spotify.com/artist/1dFSERIYIjXxFaMQi9Mf5q) | [Eurotape](https://open.spotify.com/album/2azkUPSyLVWwW9fnf4z5a6) | 2:56 |
+| 36 | [Saudade](https://open.spotify.com/track/0dLrhO7oCMp0hQvXAUgbaC) | [Dillaz](https://open.spotify.com/artist/15p1isN7VcGsjeSq8s9YeP) | [Reflexo](https://open.spotify.com/album/7zr66qWybr1mAMSUVVosKU) | 5:06 |
 | 37 | [3815](https://open.spotify.com/track/7ejBGFJ0XzsLvDNscxZOQe) | [Gama WNTD](https://open.spotify.com/artist/0T49oz78JYl4FkVJPGlJiD) | [3815](https://open.spotify.com/album/1oZCUxBvbv55jnTlC9sT90) | 3:09 |
 | 38 | [That's Me](https://open.spotify.com/track/1ktNayJwoiwQoWq7ffKMJf) | [mishlawi](https://open.spotify.com/artist/27zRRhF2K0ai7JQxgAOZMF), [Ivandro](https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm) | [That's Me](https://open.spotify.com/album/3Pv2DAxh8Fql8dPafV4I7u) | 3:23 |
 | 39 | [Estrela Maior](https://open.spotify.com/track/1gT41VulD8jslM993Ah8hF) | [Wet Bed Gang](https://open.spotify.com/artist/5jfz7uWPwf03hdEewW8AI8) | [Estrela Maior](https://open.spotify.com/album/2am7Y7OsEJDh8SOU0w3mz0) | 4:25 |
@@ -72,16 +72,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcLnINu2mUk0.md) - [plain]
 | 62 | [Backstage](https://open.spotify.com/track/2tAFUpG2zbv2AINSMRcq1F) | [Wet Bed Gang](https://open.spotify.com/artist/5jfz7uWPwf03hdEewW8AI8) | [Ngana Zambi](https://open.spotify.com/album/0c9jWuJxAVIWaut11l0Ppj) | 4:16 |
 | 63 | [Falling](https://open.spotify.com/track/6dS3q4aYdfNTQ3ZMRP2p2u) | [J.Yen](https://open.spotify.com/artist/1cHrAXseLt7kFWFdvQE2HO) | [Falling](https://open.spotify.com/album/1s8l50CTfyziLZqKR9OkPz) | 3:28 |
 | 64 | [Assumir](https://open.spotify.com/track/5K3Pc3hqI1dxSEEjwtAUcv) | [Lukky Boy](https://open.spotify.com/artist/5FlnhIR9qfozOYH8bfoeEF) | [LUZ](https://open.spotify.com/album/2EihWuZWFX3O8L6kSPGmm6) | 3:00 |
-| 65 | [Lua](https://open.spotify.com/track/1WjnWfl2X36CBYDB0Dtga0) | [Curl](https://open.spotify.com/artist/7y655l8CPBN1uuVpeZHQ5y) | [Lua](https://open.spotify.com/album/4Oyobh3tcmdIuf8c3nrkTj) | 3:36 |
-| 66 | [Golo](https://open.spotify.com/track/1u8ZgP6zZOdT9pUUrq3lfq) | [Ricky Boy](https://open.spotify.com/artist/3b2fO7uOvR5bgzd5IVBGSZ) | [Golo](https://open.spotify.com/album/4xIBKZiRrMQVeL45RJmb3x) | 2:25 |
+| 65 | [Golo](https://open.spotify.com/track/1u8ZgP6zZOdT9pUUrq3lfq) | [Ricky Boy](https://open.spotify.com/artist/3b2fO7uOvR5bgzd5IVBGSZ) | [Golo](https://open.spotify.com/album/4xIBKZiRrMQVeL45RJmb3x) | 2:25 |
+| 66 | [Lua](https://open.spotify.com/track/1WjnWfl2X36CBYDB0Dtga0) | [Curl](https://open.spotify.com/artist/7y655l8CPBN1uuVpeZHQ5y) | [Lua](https://open.spotify.com/album/4Oyobh3tcmdIuf8c3nrkTj) | 3:36 |
 | 67 | [Suzana](https://open.spotify.com/track/7jan2eOiDAjoaQkwbnxkbS) | [Dj Helio Baiano](https://open.spotify.com/artist/33aeOKnSKPNGbyVH78vHPH), [Tio Edson](https://open.spotify.com/artist/168mcXORIjYn3eugUKAgu2), [Samuel Clássico](https://open.spotify.com/artist/6TcXjoEQqRNidRkjhn467n), [Addy Buxexa](https://open.spotify.com/artist/6HJQeq0cUFeMKrSTiJn1GP) | [Suzana](https://open.spotify.com/album/1DUDfVee537gZGjf4PhJjv) | 3:38 |
 | 68 | [HEADS or TAILS](https://open.spotify.com/track/1eS203gD4KhOpO4OopTTFI) | [THE F LIBRA](https://open.spotify.com/artist/1MCtRg162ainyKGsX31QHm) | [HEADS or TAILS](https://open.spotify.com/album/1AMSJVpNiXRLssl0IZd8WS) | 3:41 |
 | 69 | [Coração Dormente](https://open.spotify.com/track/2huId19fBOPEzLbcIFok7a) | [Calalo](https://open.spotify.com/artist/6Ou70gVIleVNUiJV3uKZjs) | [Coração Dormente](https://open.spotify.com/album/0BCWwL9UBCjQcqj2BoLp7m) | 2:59 |
 | 70 | [Compensa](https://open.spotify.com/track/5Gy6YKL17vrzMVnsve5aCd) | [Yang](https://open.spotify.com/artist/1v0CIz79JpKd2QJgQ3Gxci) | [Compensa](https://open.spotify.com/album/3iQUWcwiOXIa5BVwczmbbY) | 3:11 |
-| 71 | [Chopper](https://open.spotify.com/track/4iA8xKvYNeJeykj9XCZ2hn) | [DJ Danifox](https://open.spotify.com/artist/58qqZsbpx5jsctoHd4qhpL) | [Ansiedade](https://open.spotify.com/album/1Kfi0mBJUdV1GeIjHRu7kV) | 3:45 |
-| 72 | [Yah!](https://open.spotify.com/track/1Kvz7W6IZop2tbX81Q6Q33) | [JNY](https://open.spotify.com/artist/2JW7JPlsb29nRKl5yEVNru) | [Yah!](https://open.spotify.com/album/1EBjP3zq575YxmWdP8NtJR) | 2:48 |
+| 71 | [Yah!](https://open.spotify.com/track/1Kvz7W6IZop2tbX81Q6Q33) | [JNY](https://open.spotify.com/artist/2JW7JPlsb29nRKl5yEVNru) | [Yah!](https://open.spotify.com/album/1EBjP3zq575YxmWdP8NtJR) | 2:48 |
+| 72 | [Chopper](https://open.spotify.com/track/4iA8xKvYNeJeykj9XCZ2hn) | [DJ Danifox](https://open.spotify.com/artist/58qqZsbpx5jsctoHd4qhpL) | [Ansiedade](https://open.spotify.com/album/1Kfi0mBJUdV1GeIjHRu7kV) | 3:45 |
 | 73 | [Sinergy](https://open.spotify.com/track/6psG1I3i4mW8Fe97svskoK) | [YANAGUI](https://open.spotify.com/artist/2hDOcSFCU43glzID9X24dU), [y.azz](https://open.spotify.com/artist/0wtDy87EsXG4bLUJ6zbD0U) | [Sinergy](https://open.spotify.com/album/3Qh36m1JoKoZyXg4FNyWth) | 4:06 |
 | 74 | [Acabar Na Cama](https://open.spotify.com/track/7Hs0xKJfXVzTx2stJWSBso) | [Hugo Pina](https://open.spotify.com/artist/2BKFTDHOy7xXbeibvKsOHu) | [Acabar Na Cama](https://open.spotify.com/album/70A7V8e4vnLiBQi9tQfDMJ) | 2:36 |
 | 75 | [Tempo](https://open.spotify.com/track/6FLLyTSefYwiSshGlofEsM) | [Afonso](https://open.spotify.com/artist/19ZWrFOuK5OEk7SaALa6fr) | [Tempo](https://open.spotify.com/album/1jj39TNoO0el3RWJHauVg9) | 3:03 |
 
-Snapshot ID: `MCw2ZWVhYzljNWJhMmM0NDkzMTI0ZGRmOTNkNGMyNzRkMzg4OTViZDdh`
+Snapshot ID: `MCwwOTNkMDExYTg3NThhMTlhNTM3NTBkOTVlMDc3ZDk1OTBmNjIzYzk5`

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-20",
-  "description": "Lo mejor y lo \u00faltimo del pop en espa\u00f1ol. Foto: Abraham Mateo, Chanel",
+  "description": "Lo mejor y lo \u00faltimo del pop en espa\u00f1ol. Foto: Shakira",
   "name": "Pop con \u00d1",
   "tracks": [
     {
@@ -16,7 +16,7 @@
       ],
       "date_added": "2023-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 204750,
       "name": "10.000 KMS",
       "url": "https://open.spotify.com/track/7N3cn6luTXylCtEnNrH2xo"
@@ -136,6 +136,24 @@
       "duration_ms": 183342,
       "name": "Al menos ahora",
       "url": "https://open.spotify.com/track/6kNQlhadPJ8kl0VKLpc98D"
+    },
+    {
+      "album": {
+        "name": "Algo Sencillito",
+        "url": "https://open.spotify.com/album/5KD3zAPmFm1uiTXDHTBDZm"
+      },
+      "artists": [
+        {
+          "name": "Marta Santos",
+          "url": "https://open.spotify.com/artist/2NeFajzkAQ4UfviWdzf0pK"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177338,
+      "name": "Algo Sencillito",
+      "url": "https://open.spotify.com/track/2mlccfOj0SdzAoOQRca7vn"
     },
     {
       "album": {
@@ -424,10 +442,28 @@
       ],
       "date_added": "2023-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 184867,
       "name": "Caricias en tu espalda (feat. MARLENA)",
       "url": "https://open.spotify.com/track/3W86lhWeDNKPG59RHLJAdh"
+    },
+    {
+      "album": {
+        "name": "Cerquita de Ti",
+        "url": "https://open.spotify.com/album/62ZwyYS8G5aiN1lseBgoGc"
+      },
+      "artists": [
+        {
+          "name": "Marlon",
+          "url": "https://open.spotify.com/artist/1RTZXV2Txeij9hW1C88mfs"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195001,
+      "name": "Cerquita de Ti",
+      "url": "https://open.spotify.com/track/2ZvG0cav3yJVaKYMLvTRod"
     },
     {
       "album": {
@@ -712,6 +748,28 @@
       "duration_ms": 165770,
       "name": "Disfrut\u00e1rmela",
       "url": "https://open.spotify.com/track/3O3zWXgKpxzqcME24Xllsi"
+    },
+    {
+      "album": {
+        "name": "DISPARA ***",
+        "url": "https://open.spotify.com/album/63MfXzzOiA4B31XnstirjX"
+      },
+      "artists": [
+        {
+          "name": "Nicki Nicole",
+          "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
+        },
+        {
+          "name": "Milo j",
+          "url": "https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143935,
+      "name": "DISPARA ***",
+      "url": "https://open.spotify.com/track/5y0zaOse4LHZ6ZowjpL0vW"
     },
     {
       "album": {
@@ -1294,7 +1352,7 @@
       ],
       "date_added": "2023-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 233460,
       "name": "La Jugada",
       "url": "https://open.spotify.com/track/1Kb1Mu2f8SdjEaHSEyJTSs"
@@ -1511,6 +1569,28 @@
     },
     {
       "album": {
+        "name": "Me Enter\u00e9",
+        "url": "https://open.spotify.com/album/6KBwgofbUBuXuFTuKmi9Js"
+      },
+      "artists": [
+        {
+          "name": "Tiago PZK",
+          "url": "https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1"
+        },
+        {
+          "name": "TINI",
+          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182075,
+      "name": "Me Enter\u00e9",
+      "url": "https://open.spotify.com/track/5FWQLEX0lavdxiWGBNkBQ4"
+    },
+    {
+      "album": {
         "name": "Me He Pillao x Ti",
         "url": "https://open.spotify.com/album/1raYgqJauewWa2JgD6JmtG"
       },
@@ -1573,6 +1653,24 @@
     },
     {
       "album": {
+        "name": "Mejor que ayer",
+        "url": "https://open.spotify.com/album/7v9K1PQloFzjlI9JmS7JJ8"
+      },
+      "artists": [
+        {
+          "name": "Chema Rivas",
+          "url": "https://open.spotify.com/artist/1tMWkquIkQtVD6vaZlDbSQ"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173440,
+      "name": "Mejor que ayer",
+      "url": "https://open.spotify.com/track/4dW7p7qOnS2ibZaqeNsAC4"
+    },
+    {
+      "album": {
         "name": "mejores amigos",
         "url": "https://open.spotify.com/album/4CNWr0Icz7j1ngMho7ZjA8"
       },
@@ -1614,6 +1712,24 @@
       "duration_ms": 201206,
       "name": "MI BANDERA",
       "url": "https://open.spotify.com/track/0QXBtW2M7QpwNaF33oFnoL"
+    },
+    {
+      "album": {
+        "name": "Miami Beach",
+        "url": "https://open.spotify.com/album/3eMcXYzlOOtbazCsrZE7b9"
+      },
+      "artists": [
+        {
+          "name": "Rigoberta Bandini",
+          "url": "https://open.spotify.com/artist/7DOERbtkx9aTLvWzZSB0qx"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237812,
+      "name": "Miami Beach",
+      "url": "https://open.spotify.com/track/4NHHipNDZ7drpgykr6W09d"
     },
     {
       "album": {
@@ -1788,7 +1904,7 @@
       ],
       "date_added": "2023-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 162272,
       "name": "NADIE ME HA PREGUNTADO",
       "url": "https://open.spotify.com/track/1Z2WPWbT7TVKIwIz0lll8f"
@@ -1933,6 +2049,24 @@
     },
     {
       "album": {
+        "name": "P.M.",
+        "url": "https://open.spotify.com/album/1OKBqRNyEQQUlkokuXYEFk"
+      },
+      "artists": [
+        {
+          "name": "Chanel",
+          "url": "https://open.spotify.com/artist/5DeX42pr2TilrnsUgjG8D1"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158946,
+      "name": "P.M.",
+      "url": "https://open.spotify.com/track/45QJa6CNZvicAUEVG8qUaa"
+    },
+    {
+      "album": {
         "name": "Pared Y Espada",
         "url": "https://open.spotify.com/album/1KSXm02g4woDdBbUbqFM8G"
       },
@@ -2054,7 +2188,7 @@
       ],
       "date_added": "2023-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 182596,
       "name": "Polaroid",
       "url": "https://open.spotify.com/track/4HJQvQKCzFuBt2e0LM6YXc"
@@ -2138,6 +2272,24 @@
       "duration_ms": 213666,
       "name": "Quieres",
       "url": "https://open.spotify.com/track/4iGnpp1h0i33lpoP42Y8Jt"
+    },
+    {
+      "album": {
+        "name": "Quiero Q Me Tat\u00faes",
+        "url": "https://open.spotify.com/album/52Qsnxlu17DdbtiNZjAJWA"
+      },
+      "artists": [
+        {
+          "name": "Gala Nell",
+          "url": "https://open.spotify.com/artist/4CVNESQIOFNvurriZVBarY"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150428,
+      "name": "Quiero Q Me Tat\u00faes",
+      "url": "https://open.spotify.com/track/2kZCcJFVywOHv5VJrEWlJJ"
     },
     {
       "album": {
@@ -2286,7 +2438,7 @@
       ],
       "date_added": "2023-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 169565,
       "name": "SI T\u00da SUPIERAS",
       "url": "https://open.spotify.com/track/2h9dTYIe6GxmuK0nQvfj6C"
@@ -2544,7 +2696,7 @@
       ],
       "date_added": "2023-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 203863,
       "name": "TONTA",
       "url": "https://open.spotify.com/track/6HzWCIc51HnyGCOVRMH2AI"
@@ -2858,7 +3010,7 @@
       ],
       "date_added": "2023-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 149304,
       "name": "\u00daLTIMO BESO",
       "url": "https://open.spotify.com/track/7ntgFD12mCXEkrH93HHete"

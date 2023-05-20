@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX55uyETlpZlJ.md) - [plain]
 
 > Catch up with the Indie Songs from 'namma ooru'<br/>Cover : Brodha V
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,805 likes - 87 songs - 4 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,825 likes - 87 songs - 4 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX55uyETlpZlJ.md) - [plain]
 | 4 | [Aa Gagana Surya \(feat\. Pancham Jeeva, Kinnal Raj\)](https://open.spotify.com/track/3fNRmb3gOCVxCiPuIs3HYl) | [Sathya Radhakrishna](https://open.spotify.com/artist/1hXCszU9f1es4LZiW3Bk0N), [Pancham Jeeva](https://open.spotify.com/artist/3Aw8pGLgK0Mjl5gh2S7F6s), [Kinnal Raj](https://open.spotify.com/artist/6fYwsvBDdHgmAtfnjGJqOD) | [Aa Gagana Surya \(feat\. Pancham Jeeva, Kinnal Raj\)](https://open.spotify.com/album/2ahIFjlvrc8twTzfYj1ftg) | 5:31 |
 | 5 | [Naanu Ninna Kandaaga](https://open.spotify.com/track/3cxzI6pUtRClB1DIkfuBd7) | [Athmik Rai](https://open.spotify.com/artist/1iDyvK9ioAbcL0LhWlKPev), [Nishan S](https://open.spotify.com/artist/4eYEOW7QsIxcfRoaNqwT5G), [Pramod Maravanthe](https://open.spotify.com/artist/2Rb3KxyRqgU3Wa8hGQaIIr) | [Naanu Ninna Kandaaga](https://open.spotify.com/album/3PwHzItm79bmaIESi7MFBb) | 3:20 |
 | 6 | [Ninna Maduveyali](https://open.spotify.com/track/2RIO50cubGPxhSaf7lbA21) | [Sabik Sabi Puttur](https://open.spotify.com/artist/0ZUVnvAf9j1zQ8PVrROBQG), [Niyaz Nijju](https://open.spotify.com/artist/70VuXJ5CAUJyuYTBHfTnt7) | [Ninna Maduveyali](https://open.spotify.com/album/2v4iLTmeYe1J3WFQN9Qyzr) | 5:10 |
-| 7 | [Nin Thale](https://open.spotify.com/track/1LirIEWRikkMLnoCsoh37i) | [Gubbi](https://open.spotify.com/artist/3ZtRLTIQL8fGSq693vooH3), [Tracy De Sa](https://open.spotify.com/artist/4X0Hf4OUpTvx2xd9nnOyaS), [Urmi](https://open.spotify.com/artist/2RCR4MrSBtETf5GIXWfATw) | [Nin Thale](https://open.spotify.com/album/0Vxdv3hPjU7USETVsXwix4) | 3:15 |
+| 7 | [Nin Thale](https://open.spotify.com/track/1LirIEWRikkMLnoCsoh37i) | [Gubbi](https://open.spotify.com/artist/3ZtRLTIQL8fGSq693vooH3), [Tracy De Sá](https://open.spotify.com/artist/5PPRykFD70uQSLdvukWxyV), [Urmi](https://open.spotify.com/artist/2RCR4MrSBtETf5GIXWfATw) | [Nin Thale](https://open.spotify.com/album/0Vxdv3hPjU7USETVsXwix4) | 3:15 |
 | 8 | [Melusire \(Remix\)](https://open.spotify.com/track/0BpOi8WfgJPoMroHN4eknX) | [dixit](https://open.spotify.com/artist/3wlPT5A93NA3xtwjmKIeRy), [Naguli](https://open.spotify.com/artist/2d5TEJRxSb4QwrgbQvv7CJ) | [Melusire \(Remix\)](https://open.spotify.com/album/4m781UWN8QgGhXeypMpSLE) | 0:47 |
 | 9 | [AMMA \- Kaanada Daiva](https://open.spotify.com/track/6arwgiW6iaxM21qKWoRq7R) | [Kishan D'Souza](https://open.spotify.com/artist/0MuPLm7QDoBgAKaxtJeyU6), [John Kennady](https://open.spotify.com/artist/3o6tDaMkBF30McTajB5d3W), [Vishnu K N](https://open.spotify.com/artist/2xuE6nX0KkyCECdmfnqyZX) | [AMMA \(Kaanada Daiva\)](https://open.spotify.com/album/4yO2V101zBfVyWUDnLlW3w) | 3:24 |
 | 10 | [Obbane](https://open.spotify.com/track/4PgSjxPTZTopXOoUV5B6Hf) | [beatboyrb](https://open.spotify.com/artist/1ea9A9TK73zGQG0zEg7wpT) | [Obbane](https://open.spotify.com/album/6aO488rTrHix487YZHxF4W) | 4:07 |
@@ -96,4 +96,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX55uyETlpZlJ.md) - [plain]
 | 86 | [Madhya Raatri](https://open.spotify.com/track/3vyaUrfqe16FA0njHxK8fE) | [Yaaru](https://open.spotify.com/artist/5uIPe6WLxAprhUHVBME3hx), [Rohan San](https://open.spotify.com/artist/3orEjTOJwiLWzVRocxDUZl) | [Madhya Raatri](https://open.spotify.com/album/5CsVCGI8MUuW7xSjG4rTDg) | 3:15 |
 | 87 | [Jagave Neenu Gelathiye \- From "Love 360"](https://open.spotify.com/track/0qOStIaAwFSH363kmoj5dD) | [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN), [Arjun Janya](https://open.spotify.com/artist/3IX32wm6CoEIYovZ0VcjBJ) | [Jagave Neenu Gelathiye \(From "Love 360"\)](https://open.spotify.com/album/4ymqUEcGQ11j0HrYrizvIs) | 4:10 |
 
-Snapshot ID: `MCw1ZmJiMjIzMDMwMDM1NjczM2U4YWE1NTJlYzRlZjg3ZjY0ZWI0ZTVh`
+Snapshot ID: `MCw0NWE2NGJjYzhjMjc4MWIxNjIxZmM1MWEwNWViNjhkOWRmYTBkYzM0`

@@ -2,9 +2,9 @@
 
 ### [Folk Arc](https://open.spotify.com/playlist/37i9dQZF1DWT9XEOPDgFX3)
 
-> Walk the bridge between indie and folk\. Cover: Jana Horn
+> Walk the bridge between indie and folk\. Cover: Maple Glider
 
-336 songs - 21 hr 12 min
+339 songs - 21 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,6 +31,7 @@
 | [Axis Bent](https://open.spotify.com/track/1udkP1oYCF62JdxJwlx059) | [Ryley Walker](https://open.spotify.com/artist/7xwppARWdjgnJSKLhbGzFc) | [Course In Fable](https://open.spotify.com/album/1gChGzAPyg0F4PoGa2nUdj) | 4:19 | 2022-01-21 | 2022-07-29 |
 | [Bad girl](https://open.spotify.com/track/4wyQsARSHoKsToZkEss5FD) | [Sun June](https://open.spotify.com/artist/0UIQXpn5oXhmpgbUDFzaLb) | [Somewhere](https://open.spotify.com/album/3tqWpScYda0eUqExXOqQnm) | 4:07 | 2022-04-29 |  |
 | [Bad girl](https://open.spotify.com/track/7xrFQN1AUhVlvBq68D6S1V) | [Sun June](https://open.spotify.com/artist/0UIQXpn5oXhmpgbUDFzaLb) | [Bad girl](https://open.spotify.com/album/4A6n6JEaNAUSIUJJLVIQQw) | 4:07 | 2022-01-21 | 2022-07-29 |
+| [Basil Noodles](https://open.spotify.com/track/183iUHqxHdcj7pQdrP3Zuq) | [tofusmell](https://open.spotify.com/artist/1iOQiPT8N1MQbdUaTaefyZ) | [Basil Noodles](https://open.spotify.com/album/1bN1Bz39AWgYyw8guBJa4K) | 2:16 | 2023-05-19 |  |
 | [bc i love you](https://open.spotify.com/track/5e9rdslPa2td9w8vUFAKuM) | [Harriette](https://open.spotify.com/artist/4pvvhffb5CTrWsrTCf3tMa) | [bc i love you](https://open.spotify.com/album/0ljb5hKxb4fPvbGP2v2ZfF) | 3:57 | 2023-03-24 |  |
 | [Be the Player, Not the Poet](https://open.spotify.com/track/0a2TpHXGLcNJ9ZzsLkpCu2) | [Phoebe Go](https://open.spotify.com/artist/4WZlZAyyBNVwoG4Zrh1tfC) | [Player](https://open.spotify.com/album/3jEG1KuLxlfXCuy2dL71Zx) | 4:54 | 2022-10-28 | 2023-01-07 |
 | [Be There Still](https://open.spotify.com/track/7dQ76KVAyQkPqpynSmNCot) | [Woods](https://open.spotify.com/artist/2sBPVEeMBXKNsZtYaJixnJ) | [Strange to Explain](https://open.spotify.com/album/6W3ljBUTGb9FhuOVZBPbQI) | 3:35 | 2022-01-21 | 2023-03-16 |
@@ -86,6 +87,7 @@
 | [Distant Axis](https://open.spotify.com/track/572HkIrjSOI7GLfQUTxn4H) | [Matt Berninger](https://open.spotify.com/artist/27jRNjIvlUcGN7FBRDnqhp) | [Serpentine Prison](https://open.spotify.com/album/5EqnUTFVewiWTuN11K4G8E) | 4:25 | 2022-01-21 | 2022-07-29 |
 | [Distant Axis](https://open.spotify.com/track/7yEoR6Cm6avOgK5RYyKs0H) | [Matt Berninger](https://open.spotify.com/artist/27jRNjIvlUcGN7FBRDnqhp) | [Serpentine Prison \(Deluxe Edition\)](https://open.spotify.com/album/4IfdGdYnWooM3sSN03UQZA) | 4:25 | 2022-04-29 |  |
 | [Do You Understand \(What Has Happened to You\)](https://open.spotify.com/track/4t8DWlP3HlE8QmeDtdfZDc) | [Slaughter Beach, Dog](https://open.spotify.com/artist/3lWVgSwutPsiJ8Awm7OTKU) | [At the Moonbase](https://open.spotify.com/album/2t4GC7jaWnVGFqIdusEjSA) | 4:43 | 2022-12-16 |  |
+| [Don't Kiss Me](https://open.spotify.com/track/3uPYk9jdFzAeEmQPYVb7Gq) | [Maple Glider](https://open.spotify.com/artist/1Y3IqLN3JkfppIbJG2IWHk) | [Don't Kiss Me](https://open.spotify.com/album/03SqzAAXXolzq7XYIARZOj) | 4:04 | 2023-05-19 |  |
 | [Dr\. Johann Averies](https://open.spotify.com/track/0FXTj56OeM7A1FDV6N3bmw) | [Daneshevskaya](https://open.spotify.com/artist/5vvsVz8bgdx1y9YaguZkxF) | [Dr\. Johann Averies](https://open.spotify.com/album/1t2aKCQheAqrUtItw1T2K3) | 3:53 | 2022-01-21 | 2023-05-05 |
 | [Dr\. Johann Averies](https://open.spotify.com/track/6XnocPwfmJ1Sr1ZstHOTTg) | [Daneshevskaya](https://open.spotify.com/artist/5vvsVz8bgdx1y9YaguZkxF) | [Bury Your Horses](https://open.spotify.com/album/0p9h901vVxQXkcdPwNt2bS) | 3:53 | 2023-05-12 |  |
 | [Dream](https://open.spotify.com/track/5J8aJjjiY3VCsnIwSNRtFS) | [Lou Roy](https://open.spotify.com/artist/4SXS92sCu5twnCUx4Dy44H) | [Pure Chaos](https://open.spotify.com/album/4VqJz0zUGsibswB2Q1OgHj) | 3:13 | 2022-04-29 | 2022-07-16 |
@@ -99,7 +101,7 @@
 | [Every Once In A While](https://open.spotify.com/track/02J8r68LSYS8MuxI5rEzaO) | [Cut Worms](https://open.spotify.com/artist/2upjmNmngAXZcra9dQRR2l) | [Every Once In A While](https://open.spotify.com/album/3MDfSodOC8B0eF6HFrySvH) | 4:37 | 2022-01-21 | 2022-07-29 |
 | [Every Once In A While](https://open.spotify.com/track/2Kpm9tFxblFm2nquieRdnZ) | [Cut Worms](https://open.spotify.com/artist/2upjmNmngAXZcra9dQRR2l) | [Nobody Lives Here Anymore](https://open.spotify.com/album/28iSGTnbDa3i5wwEoCYg8c) | 4:37 | 2022-04-29 |  |
 | [Every Star Shivers in the Dark](https://open.spotify.com/track/4iIUamvXOnnDmtqkcfyrF6) | [Lael Neale](https://open.spotify.com/artist/7mi56yFiPlaLW2PtsZnoWF) | [Every Star Shivers in the Dark](https://open.spotify.com/album/6BvIICpJMPzxShxZhCcmqi) | 5:32 | 2022-01-21 | 2022-07-29 |
-| [Every Woman](https://open.spotify.com/track/3SkLIkoxSb8PKHMT4Ct9U2) | [Vagabon](https://open.spotify.com/artist/17mwzDXKn4ra9cuxXaptwp) | [Vagabon](https://open.spotify.com/album/2AijQUrTqAETyjMaKxu4Xh) | 3:27 | 2022-01-21 |  |
+| [Every Woman](https://open.spotify.com/track/3SkLIkoxSb8PKHMT4Ct9U2) | [Vagabon](https://open.spotify.com/artist/17mwzDXKn4ra9cuxXaptwp) | [Vagabon](https://open.spotify.com/album/2AijQUrTqAETyjMaKxu4Xh) | 3:27 | 2022-01-21 | 2023-05-20 |
 | [Everything Everything](https://open.spotify.com/track/0q0Vlb5g3DV8pysqIllbiR) | [Indigo Sparke](https://open.spotify.com/artist/3KlPjpVKfm6vESPL46NDCh) | [Echo](https://open.spotify.com/album/6akscmS833btWR5O7F5BMJ) | 3:26 | 2022-04-29 |  |
 | [Everything Everything](https://open.spotify.com/track/33WlDnFFCjmlqCL7H4lUcl) | [Indigo Sparke](https://open.spotify.com/artist/3KlPjpVKfm6vESPL46NDCh) | [Echo](https://open.spotify.com/album/1pzhEpxXqkJlytfoDWyppm) | 3:26 | 2022-01-21 | 2022-07-29 |
 | [Everything I had](https://open.spotify.com/track/0k5szLN0SJYB1LdEBUFUIS) | [Sun June](https://open.spotify.com/artist/0UIQXpn5oXhmpgbUDFzaLb) | [Everything I had](https://open.spotify.com/album/7FGdBrnsFUgWNcppcDfkxU) | 4:06 | 2022-01-21 | 2022-07-29 |
@@ -119,6 +121,7 @@
 | [Giant Palm](https://open.spotify.com/track/41XytH4NEWIuuketVPDrLv) | [Naima Bock](https://open.spotify.com/artist/3UvBjnS0xNdifivRctkxok) | [Giant Palm](https://open.spotify.com/album/6ovv5BhFVVHOusujVm5LIf) | 4:36 | 2022-04-29 |  |
 | [Giving Up](https://open.spotify.com/track/0iJe81g5tUhKEjpc7Rfcq9) | [Whitney](https://open.spotify.com/artist/32aUoW94mJ7xTJI7fG0V1G) | [Forever Turned Around](https://open.spotify.com/album/7dfINEAt70CVc3kaPvgoyQ) | 3:10 | 2022-04-29 |  |
 | [Giving Up](https://open.spotify.com/track/20CZyFEt1f9MAikYqM7vjU) | [Whitney](https://open.spotify.com/artist/32aUoW94mJ7xTJI7fG0V1G) | [Giving Up](https://open.spotify.com/album/07Bsd2TfdTUXq6DBtKdDuY) | 3:10 | 2022-01-21 | 2022-07-28 |
+| [Glacier Meadow](https://open.spotify.com/track/5qFRcVehrKf96Foul25ZV0) | [Cavetown](https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8), [Field Medic](https://open.spotify.com/artist/4wMfqR1EZagrSlYndItxGQ) | [Glacier Meadow](https://open.spotify.com/album/49dacIWVwfmiXGJ51AaBGD) | 2:46 | 2023-05-19 |  |
 | [Gone](https://open.spotify.com/track/72wXVHnHpgRUYB8d8XhO9A) | [Painted Shrines](https://open.spotify.com/artist/0guseeF8efQNK8hjGacEAU), [Woods](https://open.spotify.com/artist/2sBPVEeMBXKNsZtYaJixnJ) | [Gone](https://open.spotify.com/album/4TqTNuedy5AfullWj5g09c) | 3:28 | 2022-01-21 | 2022-07-25 |
 | [Good Thing](https://open.spotify.com/track/3oVPWIRcX4lTde9nMUxTmX) | [Maple Glider](https://open.spotify.com/artist/1Y3IqLN3JkfppIbJG2IWHk) | [Good Thing](https://open.spotify.com/album/5zq4azS8yD6fil5tnqr1g5) | 4:12 | 2022-01-21 |  |
 | [Gossamer](https://open.spotify.com/track/63Fy4pOVtPywSJGQUOzA15) | [j solomon](https://open.spotify.com/artist/1EinrMuAa4zkiBYq6NDZg4) | [Gossamer](https://open.spotify.com/album/0qwrtiQs1z1NfbvlDA8Z3Z) | 3:55 | 2022-09-30 |  |
@@ -245,7 +248,7 @@
 | [Resentment](https://open.spotify.com/track/7oe8E6wlEuxJpCSqZu9VVf) | [Madi Diaz](https://open.spotify.com/artist/7E1o9IcnpiFQDlAUk2H7Az) | [Resentment](https://open.spotify.com/album/35i4zihamjGrr1nBrtknip) | 2:53 | 2022-04-13 | 2022-07-29 |
 | [Ribbons](https://open.spotify.com/track/0LgXKAaGOJBUgB1eiVQVzo) | [Ryan Beatty](https://open.spotify.com/artist/60NNvDqsif0u40CXMV6jDQ) | [Ribbons](https://open.spotify.com/album/0oWHWfpWH7554ZohZEJla4) | 3:17 | 2023-03-17 |  |
 | [Robber](https://open.spotify.com/track/0Dmbh8ndIpIhRhhTpLRP6Z) | [The Weather Station](https://open.spotify.com/artist/39ZEMGRv3pIYTYKEhr4Abu) | [Robber](https://open.spotify.com/album/2BzlpJgHCH2MgTEdZNzirb) | 5:20 | 2022-01-21 | 2022-07-29 |
-| [Robber](https://open.spotify.com/track/57sW7XhinRtf8lL4GwzVGi) | [The Weather Station](https://open.spotify.com/artist/39ZEMGRv3pIYTYKEhr4Abu) | [Ignorance](https://open.spotify.com/album/3KeR5BDM2giFr8zoSXBrgE) | 5:20 | 2022-04-29 |  |
+| [Robber](https://open.spotify.com/track/57sW7XhinRtf8lL4GwzVGi) | [The Weather Station](https://open.spotify.com/artist/39ZEMGRv3pIYTYKEhr4Abu) | [Ignorance](https://open.spotify.com/album/3KeR5BDM2giFr8zoSXBrgE) | 5:20 | 2022-04-29 | 2023-05-20 |
 | [Roger](https://open.spotify.com/track/65Ht6DgQcFITmzl1tfTPbc) | [Damien Jurado](https://open.spotify.com/artist/79JJCxCCfJ8HufX6w8q2k4) | [Roger](https://open.spotify.com/album/2plWivfGWVm4a0xLT6ONWY) | 3:21 | 2022-04-13 | 2022-07-29 |
 | [Rolling Rolling Rolling](https://open.spotify.com/track/2ITsIVlWHBXkOgeXXJqid9) | [Daniel Norgren](https://open.spotify.com/artist/6swk8GFDoEZ1cFDX70xyuO) | [Wooh Dang](https://open.spotify.com/album/4baa3THO8wKLMrASaem2Ri) | 4:06 | 2022-04-13 | 2023-04-05 |
 | [Rubberneckers](https://open.spotify.com/track/31fmOjwCmLvL32qFaPNDHj) | [Christian Lee Hutson](https://open.spotify.com/artist/5B7NeaqVrmXPyF05C9tnZ3) | [Rubberneckers](https://open.spotify.com/album/2AFzBOWIUgWLK5ymINJmn2) | 3:28 | 2022-01-21 | 2022-11-04 |
@@ -260,7 +263,7 @@
 | [Smashed Up My Fender](https://open.spotify.com/track/5Bh79K4fAwOIEijEos6Oi3) | [Trudy and the Romance](https://open.spotify.com/artist/2eg89iLHG4JMEUZQmFaxou) | [Smashed Up My Fender](https://open.spotify.com/album/6N2IrNmrE4DJlw8zIPbutP) | 2:54 | 2023-02-24 |  |
 | [Snow Globes](https://open.spotify.com/track/0hpDqky5jV8MQqdvMWFv7K) | [Black Country, New Road](https://open.spotify.com/artist/3PP6ghmOlDl2jaKaH0avUN) | [Ants From Up There](https://open.spotify.com/album/21xp7NdU1ajmO1CX0w2Egd) | 9:13 | 2022-12-16 |  |
 | [Solid Heart](https://open.spotify.com/track/7lT9thtYRU1l8eW9pTZPPa) | [Gia Margaret](https://open.spotify.com/artist/7fnMav7xXJwwjbyWbSjF4C) | [Solid Heart](https://open.spotify.com/album/3Hc7MbrPHYONVqCjzZYxmA) | 3:38 | 2022-01-21 | 2023-01-10 |
-| [Someone New](https://open.spotify.com/track/4rkUQKlWrCM6DiYRFqybdZ) | [Helena Deland](https://open.spotify.com/artist/0BJeP79i5wKgCqsEEiQ7G0) | [Someone New](https://open.spotify.com/album/6gwAAOZeKLYDAPzSSP4SCa) | 3:49 | 2022-04-29 |  |
+| [Someone New](https://open.spotify.com/track/4rkUQKlWrCM6DiYRFqybdZ) | [Helena Deland](https://open.spotify.com/artist/0BJeP79i5wKgCqsEEiQ7G0) | [Someone New](https://open.spotify.com/album/6gwAAOZeKLYDAPzSSP4SCa) | 3:49 | 2022-04-29 | 2023-05-20 |
 | [Someone New](https://open.spotify.com/track/5EcM58R5B8VgrhLeaD0h3l) | [Helena Deland](https://open.spotify.com/artist/0BJeP79i5wKgCqsEEiQ7G0) | [Someone New](https://open.spotify.com/album/6hI1MMWcbjEO91d1tv7dRJ) | 3:49 | 2022-01-21 | 2022-07-29 |
 | [Something On Your Mind](https://open.spotify.com/track/6Vz2IQv3AYoznh4tjsrRPo) | [Karen Dalton](https://open.spotify.com/artist/5O5V29YvM6AzAQ0rNt59fy) | [In My Own Time](https://open.spotify.com/album/1OuzXj4yo7VyBKwHZhxEnW) | 3:23 | 2022-01-21 | 2022-07-24 |
 | [Something on Your Mind](https://open.spotify.com/track/4cmCWVR8RlLYyASMarxU0e) | [Karen Dalton](https://open.spotify.com/artist/5O5V29YvM6AzAQ0rNt59fy) | [In My Own Time \(50th Anniversary Edition\)](https://open.spotify.com/album/36WryGURqME9Y2URzzzmio) | 3:23 | 2022-04-29 |  |

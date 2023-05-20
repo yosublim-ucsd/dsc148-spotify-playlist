@@ -2577,6 +2577,24 @@
     },
     {
       "album": {
+        "name": "TALISMAN",
+        "url": "https://open.spotify.com/album/5qak9zAgqiUAWZcRE5z1ID"
+      },
+      "artists": [
+        {
+          "name": "Slowspin",
+          "url": "https://open.spotify.com/artist/6axiqgCSTRUW0RJ4J8lO54"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255736,
+      "name": "Piya",
+      "url": "https://open.spotify.com/track/419zgOPCY2volaXJtSv5HJ"
+    },
+    {
+      "album": {
         "name": "Preacher",
         "url": "https://open.spotify.com/album/503g4DFFEgdkPgW0O9RUon"
       },

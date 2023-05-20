@@ -1303,6 +1303,24 @@
     },
     {
       "album": {
+        "name": "Hang 'Em High",
+        "url": "https://open.spotify.com/album/7ATmXoNwLDE5J2w7y7ZrfA"
+      },
+      "artists": [
+        {
+          "name": "Sadat X",
+          "url": "https://open.spotify.com/artist/7fDLDq2weBagiAFD2j17Al"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256333,
+      "name": "Stages And Lights - Instrumental",
+      "url": "https://open.spotify.com/track/3LAnfrxSjShV7Y0nmWPLBo"
+    },
+    {
+      "album": {
         "name": "Class of 90's, Vol.1 (INSTRUMENTALS)",
         "url": "https://open.spotify.com/album/3ZZuql91VoWIn8HT0gmevA"
       },

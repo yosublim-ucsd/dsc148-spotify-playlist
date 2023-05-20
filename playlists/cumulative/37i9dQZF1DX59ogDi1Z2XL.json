@@ -1130,7 +1130,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 137139,
       "name": "Ambiance",
       "url": "https://open.spotify.com/track/4E6ywa4T4jflnXe6KeB54G"
@@ -1460,6 +1460,24 @@
       "duration_ms": 136313,
       "name": "Back On Road",
       "url": "https://open.spotify.com/track/1Bcze9Eq6qwoisc9FMwNRB"
+    },
+    {
+      "album": {
+        "name": "Backstreets and Basic Bitches",
+        "url": "https://open.spotify.com/album/4BMKBdAcX7MX37KaGw2SkY"
+      },
+      "artists": [
+        {
+          "name": "Swavy",
+          "url": "https://open.spotify.com/artist/6CHTgEfOTvm5flR5Cpzw0I"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150743,
+      "name": "Backstreets",
+      "url": "https://open.spotify.com/track/5qrnsLx9U0r1YlJ1pHsBKI"
     },
     {
       "album": {
@@ -3451,6 +3469,28 @@
     },
     {
       "album": {
+        "name": "Mumble Rap 2",
+        "url": "https://open.spotify.com/album/5AESfqbUcud4cq4xkvmFAq"
+      },
+      "artists": [
+        {
+          "name": "Belly",
+          "url": "https://open.spotify.com/artist/0FOWNUFHPnMy0vOw1siGqi"
+        },
+        {
+          "name": "Rick Ross",
+          "url": "https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154902,
+      "name": "Cocaine Spoon feat. Rick Ross",
+      "url": "https://open.spotify.com/track/5nE4i6WuiOqgkQQR76T3M6"
+    },
+    {
+      "album": {
         "name": "COLD",
         "url": "https://open.spotify.com/album/2DqDkloG5CyoLA5z87ZjE9"
       },
@@ -3532,6 +3572,28 @@
       "duration_ms": 141872,
       "name": "Colour Money",
       "url": "https://open.spotify.com/track/54KhIcTrJhvQjQNLEGFwzR"
+    },
+    {
+      "album": {
+        "name": "Everything 2x",
+        "url": "https://open.spotify.com/album/7ngniCE5EdWyoLMDvdBRZQ"
+      },
+      "artists": [
+        {
+          "name": "TallupTwinz",
+          "url": "https://open.spotify.com/artist/3hbs1fYfTGWbz623y1U9YL"
+        },
+        {
+          "name": "Pressa",
+          "url": "https://open.spotify.com/artist/5olrQpDroHT7sjmYWMLivy"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173419,
+      "name": "Come Close",
+      "url": "https://open.spotify.com/track/0B5POSa7EAO0GDNwK9Qh9Q"
     },
     {
       "album": {
@@ -4695,6 +4757,24 @@
     },
     {
       "album": {
+        "name": "Dry Cry",
+        "url": "https://open.spotify.com/album/67XvaExj452n72pIdUBexz"
+      },
+      "artists": [
+        {
+          "name": "Wave Montega",
+          "url": "https://open.spotify.com/artist/5cJigbet3Qaxt5rH4qDuQs"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137142,
+      "name": "Dry Cry",
+      "url": "https://open.spotify.com/track/5LHSGp5CCED7PhAEg8lOj8"
+    },
+    {
+      "album": {
         "name": "Dubber Don",
         "url": "https://open.spotify.com/album/0rVLrhOqj175dOafL1ku6u"
       },
@@ -5524,7 +5604,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 150857,
       "name": "Finesse Demons",
       "url": "https://open.spotify.com/track/4aG1LGfEqZh5UQmtyAogoU"
@@ -10314,7 +10394,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 164355,
       "name": "Members",
       "url": "https://open.spotify.com/track/487hvKP1ZB9LnaimqxNezp"
@@ -10962,7 +11042,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 166706,
       "name": "My Point",
       "url": "https://open.spotify.com/track/5nqPZV2HKM2cd90tnBLrlx"
@@ -11148,7 +11228,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 145655,
       "name": "Need The Drugs",
       "url": "https://open.spotify.com/track/793ExlRBRZjJehj8mH0hhV"
@@ -14525,6 +14605,28 @@
     },
     {
       "album": {
+        "name": "SAYONARA",
+        "url": "https://open.spotify.com/album/1X4nJZxP20c68Mpp9v9dD6"
+      },
+      "artists": [
+        {
+          "name": "BOYFRN",
+          "url": "https://open.spotify.com/artist/3u0vmi7mLqKIUgnyL6OND2"
+        },
+        {
+          "name": "Terrell Morris",
+          "url": "https://open.spotify.com/artist/7C3agcqFXnteDagiWhaZdU"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190344,
+      "name": "SAYONARA",
+      "url": "https://open.spotify.com/track/4IiIZYmbDH9gHM5xOYGUTP"
+    },
+    {
+      "album": {
         "name": "Search & Rescue",
         "url": "https://open.spotify.com/album/67WUCOjyl44d8fAFzHONjW"
       },
@@ -14896,7 +14998,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 182400,
       "name": "SKIN",
       "url": "https://open.spotify.com/track/1eyXPx1G1nEqXvsVOOGkAN"
@@ -15444,6 +15546,24 @@
       "duration_ms": 191605,
       "name": "Still Him",
       "url": "https://open.spotify.com/track/7vQvrQRQcK5s9z0OaaXaTM"
+    },
+    {
+      "album": {
+        "name": "Still Rollin",
+        "url": "https://open.spotify.com/album/5AivaZj0CiQJoDWqVH2pbh"
+      },
+      "artists": [
+        {
+          "name": "Shubh",
+          "url": "https://open.spotify.com/artist/5r3wPya2PpeTTsXsGhQU8O"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174730,
+      "name": "Still Rollin",
+      "url": "https://open.spotify.com/track/6oz1L5jcqZWYuId7nxvIan"
     },
     {
       "album": {

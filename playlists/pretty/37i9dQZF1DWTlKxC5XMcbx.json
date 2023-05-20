@@ -1,12 +1,12 @@
 {
   "description": "\u5373\u8208\u800c\u81ea\u5728\u3001\u512a\u96c5\u800c\u8212\u7de9\uff0c\u9019\u5f62\u5bb9\u662f\u4e0d\u662f\u50cf\u500b\u597d\u5922\u7684\u611f\u89ba\u5462\uff1f\u5c31\u8b93\u7f8e\u5999\u7684\u7235\u58eb\u6a02\u52a9\u4f60\u5165\u7720\u5427\uff01",
-  "num_followers": 56543,
+  "num_followers": 56553,
   "original_name": "\u50ac\u7720\u7235\u58eb",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmNTViNTQzNGMxN2M2ZjY2ZTM0MGYwMzEwY2Q3M2EzY2ZhNGZjYjA4",
+  "snapshot_id": "MCw5Y2ZkNjI5ZGIwNDIyMmI4YjA1MmM3N2I4YTk2NGMzMzNlYWRjZTRm",
   "tracks": [
     {
       "added_at": "2023-05-08 03:57:20",
@@ -1087,22 +1087,6 @@
     {
       "added_at": "2023-05-08 03:57:20",
       "album": {
-        "name": "Fading Love",
-        "url": "https://open.spotify.com/album/4rghfEFwsI9ATrjmUzjQvq"
-      },
-      "artists": [
-        {
-          "name": "Burt Mitchell",
-          "url": "https://open.spotify.com/artist/5Wj6zFHgENkOCOMh4ZwGX0"
-        }
-      ],
-      "duration_ms": 280750,
-      "name": "Fading Love",
-      "url": "https://open.spotify.com/track/5xEOUPnUkpErHaxHi2D1tr"
-    },
-    {
-      "added_at": "2023-05-08 03:57:20",
-      "album": {
         "name": "Another Standard",
         "url": "https://open.spotify.com/album/5uQeyBHwBYFsxAFqyjjY9Z"
       },
@@ -1115,6 +1099,22 @@
       "duration_ms": 335333,
       "name": "All The Way",
       "url": "https://open.spotify.com/track/6rUGbjo3y0MbeQNaPfytXe"
+    },
+    {
+      "added_at": "2023-05-08 03:57:20",
+      "album": {
+        "name": "Fading Love",
+        "url": "https://open.spotify.com/album/4rghfEFwsI9ATrjmUzjQvq"
+      },
+      "artists": [
+        {
+          "name": "Burt Mitchell",
+          "url": "https://open.spotify.com/artist/5Wj6zFHgENkOCOMh4ZwGX0"
+        }
+      ],
+      "duration_ms": 280750,
+      "name": "Fading Love",
+      "url": "https://open.spotify.com/track/5xEOUPnUkpErHaxHi2D1tr"
     },
     {
       "added_at": "2023-05-08 03:57:20",
@@ -1175,22 +1175,6 @@
     {
       "added_at": "2023-05-08 03:57:20",
       "album": {
-        "name": "Remembering Billie",
-        "url": "https://open.spotify.com/album/2gnDlzECePgE9e07pihbYd"
-      },
-      "artists": [
-        {
-          "name": "Scott Hamilton",
-          "url": "https://open.spotify.com/artist/7sBx432MZn1MzHeYHAA5qr"
-        }
-      ],
-      "duration_ms": 322133,
-      "name": "Good Morning Heartache",
-      "url": "https://open.spotify.com/track/14aFuIi1l2arBrZfBv9fBP"
-    },
-    {
-      "added_at": "2023-05-08 03:57:20",
-      "album": {
         "name": "Closer",
         "url": "https://open.spotify.com/album/4eRKWNE9BbmUEzZ3IqvdH5"
       },
@@ -1207,18 +1191,18 @@
     {
       "added_at": "2023-05-08 03:57:20",
       "album": {
-        "name": "The Complete Argo Mercury Sessions",
-        "url": "https://open.spotify.com/album/1VTJAf7legjTi6EOHHoxFG"
+        "name": "Remembering Billie",
+        "url": "https://open.spotify.com/album/2gnDlzECePgE9e07pihbYd"
       },
       "artists": [
         {
-          "name": "Art Farmer & Benny Golson Jazztet",
-          "url": "https://open.spotify.com/artist/2ZFVQjoQGBbNZ0quLUteyp"
+          "name": "Scott Hamilton",
+          "url": "https://open.spotify.com/artist/7sBx432MZn1MzHeYHAA5qr"
         }
       ],
-      "duration_ms": 192893,
-      "name": "I Remember Clifford",
-      "url": "https://open.spotify.com/track/4zquVwZMHXKHUHqHIHDlNA"
+      "duration_ms": 322133,
+      "name": "Good Morning Heartache",
+      "url": "https://open.spotify.com/track/14aFuIi1l2arBrZfBv9fBP"
     },
     {
       "added_at": "2023-05-08 03:57:20",
@@ -1255,6 +1239,38 @@
     {
       "added_at": "2023-05-08 03:57:20",
       "album": {
+        "name": "The Complete Argo Mercury Sessions",
+        "url": "https://open.spotify.com/album/1VTJAf7legjTi6EOHHoxFG"
+      },
+      "artists": [
+        {
+          "name": "Art Farmer & Benny Golson Jazztet",
+          "url": "https://open.spotify.com/artist/2ZFVQjoQGBbNZ0quLUteyp"
+        }
+      ],
+      "duration_ms": 192893,
+      "name": "I Remember Clifford",
+      "url": "https://open.spotify.com/track/4zquVwZMHXKHUHqHIHDlNA"
+    },
+    {
+      "added_at": "2023-05-08 03:57:20",
+      "album": {
+        "name": "The Original Quartet With Chet Baker",
+        "url": "https://open.spotify.com/album/7r5zWHLMNah1gedwI4S9AA"
+      },
+      "artists": [
+        {
+          "name": "Gerry Mulligan",
+          "url": "https://open.spotify.com/artist/6l40OFJhuTbHQ9V12evc9K"
+        }
+      ],
+      "duration_ms": 195160,
+      "name": "Lullaby Of The Leaves - 1998 Digital Remaster",
+      "url": "https://open.spotify.com/track/08rTZ8jNknn8VBS3v2o8pT"
+    },
+    {
+      "added_at": "2023-05-08 03:57:20",
+      "album": {
         "name": "It Never Entered My Mind",
         "url": "https://open.spotify.com/album/3nqEfqV0hlxvOegVjThfKq"
       },
@@ -1279,22 +1295,6 @@
       "duration_ms": 375276,
       "name": "It Never Entered My Mind",
       "url": "https://open.spotify.com/track/6zGHpPBJFxudCfvrCmo6EF"
-    },
-    {
-      "added_at": "2023-05-08 03:57:20",
-      "album": {
-        "name": "The Original Quartet With Chet Baker",
-        "url": "https://open.spotify.com/album/7r5zWHLMNah1gedwI4S9AA"
-      },
-      "artists": [
-        {
-          "name": "Gerry Mulligan",
-          "url": "https://open.spotify.com/artist/6l40OFJhuTbHQ9V12evc9K"
-        }
-      ],
-      "duration_ms": 195160,
-      "name": "Lullaby Of The Leaves - 1998 Digital Remaster",
-      "url": "https://open.spotify.com/track/08rTZ8jNknn8VBS3v2o8pT"
     },
     {
       "added_at": "2023-05-08 03:57:20",

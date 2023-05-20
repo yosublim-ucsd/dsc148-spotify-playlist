@@ -646,7 +646,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 156259,
       "name": "And The Birds Go North Again",
       "url": "https://open.spotify.com/track/3oFGPNVlFHgz8s5rTYnpM7"
@@ -884,7 +884,7 @@
       ],
       "date_added": "2022-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 114023,
       "name": "Aspirations",
       "url": "https://open.spotify.com/track/7yIruTR8IFkHWiWU6bKrTr"
@@ -920,7 +920,7 @@
       ],
       "date_added": "2023-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 100481,
       "name": "Autumn",
       "url": "https://open.spotify.com/track/5ivB4Ibv1Nu79rxM7UzLE1"
@@ -1010,7 +1010,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 152797,
       "name": "Babirusa",
       "url": "https://open.spotify.com/track/1imHuSNiRo2ePp7BQZrGCO"
@@ -2486,7 +2486,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 259874,
       "name": "Fils Du Soleil",
       "url": "https://open.spotify.com/track/67np71K50CRwUfpXqlsXJV"
@@ -2634,7 +2634,7 @@
       ],
       "date_added": "2022-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 170533,
       "name": "Floating Wings",
       "url": "https://open.spotify.com/track/7tsrWMRsfgC584FsZNP2fC"
@@ -2652,7 +2652,7 @@
       ],
       "date_added": "2023-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 119498,
       "name": "Flor",
       "url": "https://open.spotify.com/track/2Mru9a0DGRUJWTb4XeIuNo"
@@ -2966,7 +2966,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 174000,
       "name": "Gl\u00e4nta",
       "url": "https://open.spotify.com/track/3VF1j2dGIyKpymo10lG2G5"
@@ -2984,7 +2984,7 @@
       ],
       "date_added": "2023-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 129190,
       "name": "Golden Hour",
       "url": "https://open.spotify.com/track/6WMqwT9YNk3hONbnMaf6NG"
@@ -3798,7 +3798,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 163000,
       "name": "Into the Subconscious",
       "url": "https://open.spotify.com/track/68WU8PnAO2EajCfL1s7TIL"
@@ -3910,6 +3910,24 @@
       "duration_ms": 122832,
       "name": "kawaguchiko",
       "url": "https://open.spotify.com/track/3lGHx6NLMzkhwcCmO7gwBY"
+    },
+    {
+      "album": {
+        "name": "Kay's Recovery",
+        "url": "https://open.spotify.com/album/2Ugt7X6hGDE0C722Tpgot4"
+      },
+      "artists": [
+        {
+          "name": "Joaquin Conor",
+          "url": "https://open.spotify.com/artist/09O6u1o77QVzr1RI6zyZv7"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114275,
+      "name": "Kay's Recovery",
+      "url": "https://open.spotify.com/track/6heseVBVY5E1zh6z4FyMDA"
     },
     {
       "album": {
@@ -4608,7 +4626,7 @@
       ],
       "date_added": "2022-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 159056,
       "name": "Lj\u00f3ma",
       "url": "https://open.spotify.com/track/6Pko3DcmXsGbMOeiiYNVF7"
@@ -4986,7 +5004,7 @@
       ],
       "date_added": "2022-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 149000,
       "name": "Med lukkede \u00f8yne",
       "url": "https://open.spotify.com/track/2E7s7HybOzu68ug7gJWeL0"
@@ -5076,7 +5094,7 @@
       ],
       "date_added": "2022-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 162032,
       "name": "Memorialize",
       "url": "https://open.spotify.com/track/08OA5MVsPdfmNqsFojGdNR"
@@ -5184,7 +5202,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 188500,
       "name": "Minute By Minute",
       "url": "https://open.spotify.com/track/5FeKYp26uQ93jj361VH7mr"
@@ -5634,7 +5652,7 @@
       ],
       "date_added": "2022-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 122785,
       "name": "Nje\u017eno",
       "url": "https://open.spotify.com/track/5SJY135DzmU9PIgYKKkSAh"
@@ -5868,7 +5886,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 185000,
       "name": "Once Again",
       "url": "https://open.spotify.com/track/2EctWcCaqoiXAL1CzPX6DU"
@@ -6138,7 +6156,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 146053,
       "name": "patience and fortitude",
       "url": "https://open.spotify.com/track/3EVyJJ54XT7cCJOdAoO5MC"
@@ -6534,7 +6552,7 @@
       ],
       "date_added": "2023-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 139977,
       "name": "Pure",
       "url": "https://open.spotify.com/track/4PGGCORyVKe2uZh9Dj3koa"
@@ -6786,7 +6804,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 118500,
       "name": "Remedy",
       "url": "https://open.spotify.com/track/1VqFyIu8S1o5XkiZSQR2iN"
@@ -6858,7 +6876,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 147750,
       "name": "Reunion",
       "url": "https://open.spotify.com/track/4QVzNx3f036rsmY2M0hWxr"
@@ -7488,7 +7506,7 @@
       ],
       "date_added": "2022-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 195232,
       "name": "Sincerely",
       "url": "https://open.spotify.com/track/4AvIQWGzD3YoYi2BEAxegJ"
@@ -8176,7 +8194,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 129000,
       "name": "The Deep End",
       "url": "https://open.spotify.com/track/670UNEC9XyjOvq1HOic4jE"
@@ -8356,7 +8374,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 167414,
       "name": "The Orchard (I)",
       "url": "https://open.spotify.com/track/2Wcv1iL7U75j0yAUuQq4Qz"
@@ -8428,7 +8446,7 @@
       ],
       "date_added": "2022-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 136482,
       "name": "The Taste of Snow",
       "url": "https://open.spotify.com/track/5k0J9mTY2bypVkJ2pP7acf"
@@ -8482,7 +8500,7 @@
       ],
       "date_added": "2023-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 122370,
       "name": "Them",
       "url": "https://open.spotify.com/track/1cXTuVkGdqa3anVZWWDGm0"
@@ -9076,7 +9094,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 146500,
       "name": "Vessel",
       "url": "https://open.spotify.com/track/1HTWodzZfG7Vjaq9XDZGbM"
@@ -9256,7 +9274,7 @@
       ],
       "date_added": "2022-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 209625,
       "name": "Waltz For Debby",
       "url": "https://open.spotify.com/track/4xyE5M2RHpqjRsn4Ar7JDQ"
@@ -9292,7 +9310,7 @@
       ],
       "date_added": "2022-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 148750,
       "name": "We Will Last",
       "url": "https://open.spotify.com/track/37lSjTwceAafdpm011tsGb"
@@ -9310,7 +9328,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 162729,
       "name": "Westwood",
       "url": "https://open.spotify.com/track/6sfddrMHU0zljVevQLa4dg"
@@ -9472,7 +9490,7 @@
       ],
       "date_added": "2022-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 135838,
       "name": "Whistling Fields",
       "url": "https://open.spotify.com/track/1yfU7I4NmdN44ztLDlGsmh"
@@ -9562,7 +9580,7 @@
       ],
       "date_added": "2022-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 254386,
       "name": "Without Words",
       "url": "https://open.spotify.com/track/2l1F4LJzRpVgqXXvjFydbT"
@@ -9598,7 +9616,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 166593,
       "name": "Yekaterinburg",
       "url": "https://open.spotify.com/track/5NjQakjUez8p0AVLo06jhr"

@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Czech Republic.
 
-1,018 songs - 2 day 4 hr 7 min
+1,019 songs - 2 day 4 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -807,7 +807,7 @@
 | [Snowman](https://open.spotify.com/track/7uoFMmxln0GPXQ0AcCBXRq) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Everyday Is Christmas \(Deluxe Edition\)](https://open.spotify.com/album/2vcGYJcPfXUmCdcXXqqukg) | 2:45 | 2021-11-28 | 2022-12-30 |
 | [So Kere$](https://open.spotify.com/track/0MnTIb6C1DdhW00EeKUTpp) | [Dollar Prync](https://open.spotify.com/artist/3qoxj1cR3W3crV51Wg38Ux) | [So Kere$](https://open.spotify.com/album/287O76jTne4yZ3JphdaWFL) | 2:45 | 2022-04-12 | 2022-04-17 |
 | [Softcore](https://open.spotify.com/track/2K7xn816oNHJZ0aVqdQsha) | [The Neighbourhood](https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh) | [Hard To Imagine The Neighbourhood Ever Changing](https://open.spotify.com/album/0ODLCdHBFVvKwJGeSfd1jy) | 3:26 | 2022-01-11 | 2022-05-15 |
-| [Solo](https://open.spotify.com/track/3xxjYOFR1y7By2wNDS51XV) | [BLANKA](https://open.spotify.com/artist/0ML3y0iBY1nq7HWAWP0EFm) | [Solo](https://open.spotify.com/album/4zX2oy6k4NLIThxb2Qp6LZ) | 2:34 | 2023-05-16 |  |
+| [Solo](https://open.spotify.com/track/3xxjYOFR1y7By2wNDS51XV) | [BLANKA](https://open.spotify.com/artist/0ML3y0iBY1nq7HWAWP0EFm) | [Solo](https://open.spotify.com/album/4zX2oy6k4NLIThxb2Qp6LZ) | 2:34 | 2023-05-16 | 2023-05-20 |
 | [Someone You Loved](https://open.spotify.com/track/7qEHsqek33rTcFNT9PFqLf) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Divinely Uninspired To A Hellish Extent](https://open.spotify.com/album/5658aM19fA3JVwTK6eQX70) | 3:02 | 2021-03-27\* | 2023-02-21 |
 | [SOS](https://open.spotify.com/track/0fThlG4YBkCsRVSJkGpWAX) | [Koky](https://open.spotify.com/artist/4JTacmomOV6ZmeAVHMkFOq), [Viktor Sheen](https://open.spotify.com/artist/4cG43cUBRJWWDsRh4SW48i), [Robin Zoot](https://open.spotify.com/artist/28oxY7ZfDt1BJFf8FVfpEh) | [SOS](https://open.spotify.com/album/5roPFnz41lhHqBL0l0kEQ4) | 3:44 | 2022-08-20 |  |
 | [SOS](https://open.spotify.com/track/20hAlPd1hKtN0PvLk28N1L) | [Koky](https://open.spotify.com/artist/4JTacmomOV6ZmeAVHMkFOq), [Viktor Sheen](https://open.spotify.com/artist/4cG43cUBRJWWDsRh4SW48i), [Robin Zoot](https://open.spotify.com/artist/28oxY7ZfDt1BJFf8FVfpEh) | [SOS](https://open.spotify.com/album/5kEGmuoE7tJK8j1D9jbCmw) | 3:44 | 2022-06-08 | 2022-08-21 |
@@ -1019,6 +1019,7 @@
 | [Česká Floriiida](https://open.spotify.com/track/3h3CiDX7NyqRLxLUg5pFbu) | [Robin Zoot](https://open.spotify.com/artist/28oxY7ZfDt1BJFf8FVfpEh) | [Make Sudety Great Again](https://open.spotify.com/album/16CWhtg43duVWGTaXlMGKt) | 4:30 | 2022-10-01 | 2022-10-22 |
 | [ČISTÁ PRÁCE](https://open.spotify.com/track/2A6SjsG16FIak15EXQ9gnG) | [CA$HANOVA BULHAR](https://open.spotify.com/artist/3aBiDlzy0xIlHfbHAWYton), [Smack](https://open.spotify.com/artist/7pbijUBmXdie5ChABSM4F7) | [DRIPOLAR](https://open.spotify.com/album/68XHBxFOiLzQGWtJL5mDUY) | 3:37 | 2022-06-21 | 2022-07-01 |
 | [Čistý svet](https://open.spotify.com/track/0xINMMVRQ1b29Iieeu6xY5) | [Miro Žbirka](https://open.spotify.com/artist/38vf1Wys8uNYdbZQwtGpmr), [Rachel Sklenickova](https://open.spotify.com/artist/2FlnYNhemR1W9tYJbMYCRH) | [Double Album](https://open.spotify.com/album/0WugqjjFlMq1viIwEWzUIp) | 3:09 | 2021-11-12 | 2021-11-14 |
+| [Šedá Hus](https://open.spotify.com/track/6WQ5JDm2NMlixD2C82Hk4g) | [Gleb](https://open.spotify.com/artist/6P55YsIOHmgooCXGQXcSga) | [Šedá Hus](https://open.spotify.com/album/0fyEaBDJ3NaYkTvWHVeroO) | 2:48 | 2023-05-19 |  |
 | [Škodit](https://open.spotify.com/track/1CyA27hjAxlPEu2EjKrRzu) | [STEIN27](https://open.spotify.com/artist/2A3rmRL2kja5NoroAGdZPb) | [Návrat na planetu Zemi](https://open.spotify.com/album/4MVM6BJQ15yt9d0fUFwzYG) | 2:28 | 2021-11-14 | 2021-11-16 |
 | [Štědrej večer nastal](https://open.spotify.com/track/1JTtpzotOU0SHNIX7tv0M5) | [Dětský sbor](https://open.spotify.com/artist/0sySYREvn2IRaynpbf4Fmj) | [Vánoční koledy \(Tichá noc\)](https://open.spotify.com/album/1dZOrRi6207ALSq4NY5UeI) | 1:41 | 2021-12-25 | 2021-12-27 |
 | [Štědrej večer nastal](https://open.spotify.com/track/7z2e3rmY8LUyxfFPHfSSE7) | [Dětský sbor Camerata](https://open.spotify.com/artist/7dqGBm7HHbJqx8jnGe3KZt) | [Vánoční koledy, Vol\. 1 \(Pokoj lidem dobré vůle\)](https://open.spotify.com/album/0qATwKlnuscpFBtUckKRl0) | 1:24 | 2021-12-25 | 2022-12-27 |

@@ -829,6 +829,32 @@
     },
     {
       "album": {
+        "name": "Radio Therapy - Pt. 1",
+        "url": "https://open.spotify.com/album/6eX0DM4AjTsCS7WcKnaDVR"
+      },
+      "artists": [
+        {
+          "name": "Sci-Clone",
+          "url": "https://open.spotify.com/artist/1RmiIFGUwl4GpgZhqzy0gs"
+        },
+        {
+          "name": "A Sides",
+          "url": "https://open.spotify.com/artist/73aOOQznPZPTKOOi5wcOP5"
+        },
+        {
+          "name": "Nathan Haines",
+          "url": "https://open.spotify.com/artist/0nswuaAPTwnY9EBFPExHYy"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 379500,
+      "name": "Boss",
+      "url": "https://open.spotify.com/track/4nW0hb4T0WZL5pzqeCV6Af"
+    },
+    {
+      "album": {
         "name": "Boundless Beings (Georgia Anne Muldrow Remix)",
         "url": "https://open.spotify.com/album/5WKOFUndUyXw6S12TKQvMF"
       },
@@ -3276,7 +3302,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 171891,
       "name": "Lollipop",
       "url": "https://open.spotify.com/track/3465BrFB3rjk1rd4sQKPF9"
@@ -3418,7 +3444,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 197677,
       "name": "Mirage",
       "url": "https://open.spotify.com/track/504JluU0SrgimOW69mwCYx"
@@ -4698,6 +4724,28 @@
       "duration_ms": 180025,
       "name": "Roadtrip",
       "url": "https://open.spotify.com/track/6CgO7zdkjZAGYRBQEwW4PB"
+    },
+    {
+      "album": {
+        "name": "Roam",
+        "url": "https://open.spotify.com/album/0Mn1ugrdTJrahOlEVKB3FR"
+      },
+      "artists": [
+        {
+          "name": "Keeth",
+          "url": "https://open.spotify.com/artist/5sv0yfLOm69KAnjd5mg52u"
+        },
+        {
+          "name": "Garrett Podgorski",
+          "url": "https://open.spotify.com/artist/2ssaFxujFnzCZKWN2JFtor"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127423,
+      "name": "Roam",
+      "url": "https://open.spotify.com/track/0Wjb5wqHsRmsF8UI4XG3aj"
     },
     {
       "album": {

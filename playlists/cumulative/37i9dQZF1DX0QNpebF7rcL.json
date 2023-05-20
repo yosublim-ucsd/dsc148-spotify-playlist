@@ -374,7 +374,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 234939,
       "name": "Best Of Me",
       "url": "https://open.spotify.com/track/0VbJ3cy7fxcHgNiAA29jXl"
@@ -754,6 +754,24 @@
       "duration_ms": 295839,
       "name": "Chocolate Samurai",
       "url": "https://open.spotify.com/track/0Tnt1pxkoNdX1ZWkRTW8f6"
+    },
+    {
+      "album": {
+        "name": "Coal Black Mattie",
+        "url": "https://open.spotify.com/album/5GdxUn0QJrJxbFJ0HGswI1"
+      },
+      "artists": [
+        {
+          "name": "R.L. Boyce",
+          "url": "https://open.spotify.com/artist/1VlyvUDK8pOr27GdfTc9i2"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229696,
+      "name": "Coal Black Mattie",
+      "url": "https://open.spotify.com/track/180C2riJpRHFruOPpYTPIn"
     },
     {
       "album": {
@@ -1557,6 +1575,24 @@
     },
     {
       "album": {
+        "name": "Hard To Be A Human",
+        "url": "https://open.spotify.com/album/1eJg3HW3Tn3xyK9Jh5Ot7U"
+      },
+      "artists": [
+        {
+          "name": "Bettye LaVette",
+          "url": "https://open.spotify.com/artist/55U998XxmxjicLMKDSz6R3"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280040,
+      "name": "Hard To Be A Human",
+      "url": "https://open.spotify.com/track/7hFfgsKkk0mbUiSuWElzTW"
+    },
+    {
+      "album": {
         "name": "Unchange",
         "url": "https://open.spotify.com/album/0mIUChNWteeV1bIrROMlsH"
       },
@@ -1738,6 +1774,28 @@
       "duration_ms": 268066,
       "name": "Highest Bidder - Acoustic",
       "url": "https://open.spotify.com/track/1h5ohHc3D1kqp4keFCNfR0"
+    },
+    {
+      "album": {
+        "name": "Highway Child",
+        "url": "https://open.spotify.com/album/5h2QjoLFHdRuYLcY4HYMF3"
+      },
+      "artists": [
+        {
+          "name": "Joanna Connor",
+          "url": "https://open.spotify.com/artist/0MJGyEl8BgJbBTv3xeeFeB"
+        },
+        {
+          "name": "Joe Bonamassa",
+          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212601,
+      "name": "Highway Child",
+      "url": "https://open.spotify.com/track/3DPTfbre7I9FHWnY1SgHLe"
     },
     {
       "album": {
@@ -2076,6 +2134,24 @@
       "duration_ms": 259226,
       "name": "I Want My Crown (feat. Joe Bonamassa)",
       "url": "https://open.spotify.com/track/2DqvcJ1mq1ioIVWmDGgWBn"
+    },
+    {
+      "album": {
+        "name": "I Want To Shout About It",
+        "url": "https://open.spotify.com/album/4msee0HokeDJun37ZYZLLl"
+      },
+      "artists": [
+        {
+          "name": "Joe Bonamassa",
+          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252493,
+      "name": "I Want To Shout About It",
+      "url": "https://open.spotify.com/track/6MJzbRnxAbQ2Uke7e5vM2H"
     },
     {
       "album": {
@@ -2432,7 +2508,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 203466,
       "name": "Keep Your Light on Mama",
       "url": "https://open.spotify.com/track/04XadPndIKcDvzl9RDZ0hQ"
@@ -2736,7 +2812,7 @@
       ],
       "date_added": "2021-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 377360,
       "name": "Mind\u2019s Eye",
       "url": "https://open.spotify.com/track/19vLbTpnjkQtcCTaHVPQUm"
@@ -4694,7 +4770,7 @@
       ],
       "date_added": "2021-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 173508,
       "name": "Under Your Spell",
       "url": "https://open.spotify.com/track/1n4OzgYj9CwubUx7vhf1uD"

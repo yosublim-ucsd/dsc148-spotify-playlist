@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlypmfyCIGr.md) - [plain]
 
 > 独自の進化を遂げる日本のポップ文化。「キラキラポップ」なナンバーをひとつのプレイリストに。Curated by ふくりゅう（音楽コンシェルジュ）Cover: \*Luna
 
-[Spotify](https://open.spotify.com/user/spotify) - 67,244 likes - 80 songs - 4 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 67,299 likes - 80 songs - 4 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,7 +69,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlypmfyCIGr.md) - [plain]
 | 59 | [Raku\-Rai](https://open.spotify.com/track/2QpeWcQRjvr69BU0xvrBeH) | [黒木渚](https://open.spotify.com/artist/2sVXEzwxq0HQIrfUIj76pL) | [Raku\-Rai](https://open.spotify.com/album/6N081dVBzQnxtMmP9OlK6H) | 3:15 |
 | 60 | [acid blue](https://open.spotify.com/track/0LmvIpW2d1M8awJ5TTDFCo) | [chamrass](https://open.spotify.com/artist/7Ae0DoAMCC2AT3DzgjNNL6), [FUTUREmode](https://open.spotify.com/artist/6Vd60p0nesFh1BT0cSJERo) | [acid blue](https://open.spotify.com/album/0punB2iaHUyL3sX5SLHwiU) | 3:14 |
 | 61 | [BOUND](https://open.spotify.com/track/5pyzmxQNSt9ebp1XRkW7Vt) | [Aco Kawai](https://open.spotify.com/artist/10xDsE7RRrKil5bVXk2hsJ) | [BOUND](https://open.spotify.com/album/3NunrjN8W8wZcGn0Bo6EuT) | 3:06 |
-| 62 | [Skeleton Wedding](https://open.spotify.com/track/6MA06mHqROlTYnwXi6v4TN) | [CHAMELEON LIME WHOOPIEPIE](https://open.spotify.com/artist/1uP5mPkWII7Tcxp7xtqPmj) | [Skeleton Wedding](https://open.spotify.com/album/4s7RVl8tdJLaY2lHCxJENq) | 3:37 |
+| 62 | [Skeleton Wedding](https://open.spotify.com/track/6pSj1AOYnYcRIyhf0Iutsm) | [CHAMELEON LIME WHOOPIEPIE](https://open.spotify.com/artist/1uP5mPkWII7Tcxp7xtqPmj) | [Orange](https://open.spotify.com/album/1GtBPVV99IEUhqdoJRCds8) | 3:37 |
 | 63 | [Countdown Rag](https://open.spotify.com/track/4I3f7odzNXdhDrxX4W4aT3) | [レトロリロン](https://open.spotify.com/artist/47MRpWYlFaneZAlaXrt9bu) | [Inner Dialog](https://open.spotify.com/album/48AHaxshOHD3ktB9Ea5RDN) | 5:25 |
 | 64 | [Like A Seraph](https://open.spotify.com/track/4KISFq8uuKx0TPW5LEr08s) | [haruno](https://open.spotify.com/artist/0e38gC4yKt5f26icSfhP5u) | [The Lover](https://open.spotify.com/album/0QCyj1UlVJQ91sFNqHx9nc) | 2:54 |
 | 65 | [昔日をなぞる海碧](https://open.spotify.com/track/2cFCWA5tJa0QEggKrTXSSw) | [IRIS MONDO](https://open.spotify.com/artist/0sNst8lobIesP02uMtsikj) | [昔日をなぞる海碧](https://open.spotify.com/album/7grEFjv4DSvj7NEs8NF4co) | 3:13 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlypmfyCIGr.md) - [plain]
 | 79 | [題名のないストーリー](https://open.spotify.com/track/4cE3mqxniqe4Xk6lDEDtbd) | [Umnoise](https://open.spotify.com/artist/6mfqMKlmKZSjVBITWTT4Y7) | [題名のないストーリー](https://open.spotify.com/album/5IAy5zygQPuXuXA1OhyAKT) | 4:01 |
 | 80 | [SHIKI](https://open.spotify.com/track/1oL9Y3X7UUEIulnNRw25dv) | [Ryo Yoshinaga](https://open.spotify.com/artist/1q2tledGNGBATHvZ3zecQI) | [SHIKI](https://open.spotify.com/album/0nttHXWcJN7wBJeLkP7OhT) | 2:45 |
 
-Snapshot ID: `MCw5NzI3YzRmNGU2OTlmODdmYmEwN2MzMWNkMGRmOWVkMTIwYmIzMjI5`
+Snapshot ID: `MTY4NDE4Njg1NywwMDAwMDAwMDIxMzRmYWY1NmE0ZDQ4YjJmODQ3OGY5NjFhZThjNzUx`

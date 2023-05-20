@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-11-28",
-  "description": "it's just one of those days with Balance and Composure.",
+  "description": "it's just one of those days with Spanish Love Songs.",
   "name": "emo right now",
   "tracks": [
     {
@@ -92,6 +92,24 @@
       "duration_ms": 223556,
       "name": "Bad Feeling",
       "url": "https://open.spotify.com/track/0BJNlz7pjV3dQd45kg7f71"
+    },
+    {
+      "album": {
+        "name": "Greetings / Barely",
+        "url": "https://open.spotify.com/album/2vbyKCjxxPaiGMDWGXe3IF"
+      },
+      "artists": [
+        {
+          "name": "Gulfer",
+          "url": "https://open.spotify.com/artist/0AJltdSFgxM1li4ad74mIJ"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137692,
+      "name": "Barely",
+      "url": "https://open.spotify.com/track/0jHXUaYjDylMafkZskw6Rm"
     },
     {
       "album": {
@@ -646,7 +664,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 181000,
       "name": "Face To Face",
       "url": "https://open.spotify.com/track/1zhAN1I4op6mUw0FvUSCUJ"
@@ -754,10 +772,28 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 136124,
       "name": "Hangover Game",
       "url": "https://open.spotify.com/track/5I2qACyvSTaasSNaWiT90G"
+    },
+    {
+      "album": {
+        "name": "Haunted",
+        "url": "https://open.spotify.com/album/28IfOPBv7xdi0qW72LOFVc"
+      },
+      "artists": [
+        {
+          "name": "Spanish Love Songs",
+          "url": "https://open.spotify.com/artist/5DaZV3qmFT3aS57df8KPkV"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223238,
+      "name": "Haunted",
+      "url": "https://open.spotify.com/track/2gIgCnJIJxk8hqjyRzKV3d"
     },
     {
       "album": {
@@ -895,6 +931,24 @@
     },
     {
       "album": {
+        "name": "Exercise Your Demons",
+        "url": "https://open.spotify.com/album/04jIk2Sa4YDalTLQ9IGIyF"
+      },
+      "artists": [
+        {
+          "name": "CLIFFDIVER",
+          "url": "https://open.spotify.com/artist/3yYFfLWWw90qPAloqOGM7x"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208078,
+      "name": "IKEA Strikes Back",
+      "url": "https://open.spotify.com/track/6jKcGYVgVrXrYoQFHShbwa"
+    },
+    {
+      "album": {
         "name": "II",
         "url": "https://open.spotify.com/album/23PqAUIWD6N7FeSr8Nj2vC"
       },
@@ -1003,6 +1057,24 @@
     },
     {
       "album": {
+        "name": "King Bee",
+        "url": "https://open.spotify.com/album/2Jo9Gu7tQloGevEX8NhGmL"
+      },
+      "artists": [
+        {
+          "name": "Prairie Fire",
+          "url": "https://open.spotify.com/artist/5LiZglQ0vLYvvEqa7oCXfd"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163955,
+      "name": "King Bee",
+      "url": "https://open.spotify.com/track/7zIHAwiZvJZIQQ3AKximtT"
+    },
+    {
+      "album": {
         "name": "We're Not Here to Be Loved",
         "url": "https://open.spotify.com/album/0hm7PiBu72tRliLqLfiKy1"
       },
@@ -1054,6 +1126,24 @@
       "duration_ms": 207124,
       "name": "Long Distance Conjoined Twins",
       "url": "https://open.spotify.com/track/3R4hAu10uPzLS3NUsFlRoj"
+    },
+    {
+      "album": {
+        "name": "LosT",
+        "url": "https://open.spotify.com/album/3zZBB971MYFVBYlzNrYpoA"
+      },
+      "artists": [
+        {
+          "name": "Bring Me The Horizon",
+          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205368,
+      "name": "LosT",
+      "url": "https://open.spotify.com/track/5BgnL6gHauuvxe4Ok6W1aC"
     },
     {
       "album": {
@@ -1234,6 +1324,24 @@
       "duration_ms": 184120,
       "name": "Nowhere, Ohio",
       "url": "https://open.spotify.com/track/1jxrEckdckgBi6Ooymx5j1"
+    },
+    {
+      "album": {
+        "name": "Toxic Positivity",
+        "url": "https://open.spotify.com/album/3eFVX7tq5tCU0uqol29fis"
+      },
+      "artists": [
+        {
+          "name": "The Used",
+          "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174350,
+      "name": "Numb",
+      "url": "https://open.spotify.com/track/1duAXhfgEErfZ2yrdhpSXw"
     },
     {
       "album": {
@@ -1867,6 +1975,24 @@
     },
     {
       "album": {
+        "name": "Constant Springtime",
+        "url": "https://open.spotify.com/album/4r8ok6hGk7Uqvd6A498Xkb"
+      },
+      "artists": [
+        {
+          "name": "Magazine Beach",
+          "url": "https://open.spotify.com/artist/1TgjkaIsJUDAINCbgLQIio"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159910,
+      "name": "Totally Cool",
+      "url": "https://open.spotify.com/track/3SftY180mtXw6xQmAcmdU7"
+    },
+    {
+      "album": {
         "name": "Those Days Are Gone",
         "url": "https://open.spotify.com/album/0yhwDk0EqhcbTE5k0cqs1K"
       },
@@ -2022,7 +2148,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 227213,
       "name": "Your Deep Rest",
       "url": "https://open.spotify.com/track/21ACVHZc3K9lK0zleucFaJ"

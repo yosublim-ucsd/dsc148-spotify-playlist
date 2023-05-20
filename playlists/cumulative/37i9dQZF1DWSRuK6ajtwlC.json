@@ -1,7 +1,7 @@
 {
   "date_first_scraped": "2023-03-11",
-  "description": "A levantar polvadera con lo mejor de la m\u00fasica de sax. La Fiera de Ojinaga en portada.",
-  "name": "Norte\u00f1as con Sax",
+  "description": "A levantar polvadera con lo mejor de la m\u00fasica de sax. La Maquinar\u00eda Norte\u00f1a en portada.",
+  "name": "Norte\u00f1o Sax",
   "tracks": [
     {
       "album": {
@@ -20,6 +20,24 @@
       "duration_ms": 188778,
       "name": "365",
       "url": "https://open.spotify.com/track/2o5bpyqOE1iPtGbnhxPqdK"
+    },
+    {
+      "album": {
+        "name": "900 Cigarros",
+        "url": "https://open.spotify.com/album/4hXZx9NOzBkfTQGmcr9FpS"
+      },
+      "artists": [
+        {
+          "name": "La Fiera de Ojinaga",
+          "url": "https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123906,
+      "name": "900 Cigarros",
+      "url": "https://open.spotify.com/track/2oL3HbsCYCetjWIc4mWRsM"
     },
     {
       "album": {
@@ -135,6 +153,24 @@
     },
     {
       "album": {
+        "name": "Renovando El Estilo 2.0 (En Vivo)",
+        "url": "https://open.spotify.com/album/1cT5agyzL39kX5MZ6FSVKg"
+      },
+      "artists": [
+        {
+          "name": "La Furia del Bravo",
+          "url": "https://open.spotify.com/artist/0CwDMNmupPq7JSl4uxPWV3"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184362,
+      "name": "Chiquilla Preciosa - En Vivo",
+      "url": "https://open.spotify.com/track/1KM55Ay5rJDtKNtwfZVZEc"
+    },
+    {
+      "album": {
         "name": "Chiquita Bonita",
         "url": "https://open.spotify.com/album/3Opmczjz0JKKUrX9LFJ0FB"
       },
@@ -150,6 +186,24 @@
       "duration_ms": 156757,
       "name": "Chiquita Bonita",
       "url": "https://open.spotify.com/track/2OE3DPyc9S0IBLhy9S3vcn"
+    },
+    {
+      "album": {
+        "name": "Cicatrices",
+        "url": "https://open.spotify.com/album/2SrJ8mA3HWb48esf6e2msY"
+      },
+      "artists": [
+        {
+          "name": "La Descendencia De Rio Grande",
+          "url": "https://open.spotify.com/artist/2XI6IohN7oiFjDjuItEtAd"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159805,
+      "name": "Cicatrices",
+      "url": "https://open.spotify.com/track/4kLq2M9YvtLeTLynmWD28J"
     },
     {
       "album": {
@@ -391,6 +445,24 @@
     },
     {
       "album": {
+        "name": "\u00a1Pescadores! Live, Vol. 2 (En Vivo)",
+        "url": "https://open.spotify.com/album/2jbf9MAVAauMttX0dw53cl"
+      },
+      "artists": [
+        {
+          "name": "Los Pescadores Del Rio Conchos",
+          "url": "https://open.spotify.com/artist/3h88VTqRj3GbUd2W41ZY5U"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218965,
+      "name": "El Amor Se Fue - En Vivo",
+      "url": "https://open.spotify.com/track/1QKhEVwrAFLAJKfI86n2QC"
+    },
+    {
+      "album": {
         "name": "Las Ag\u00fcitas",
         "url": "https://open.spotify.com/album/0AzqeBnrMhpNakIGdnRwKD"
       },
@@ -442,6 +514,24 @@
       "duration_ms": 315106,
       "name": "El Son Del Tlacololero",
       "url": "https://open.spotify.com/track/1Z50xYPjSgJNjpyCWqroG8"
+    },
+    {
+      "album": {
+        "name": "El Telescopio",
+        "url": "https://open.spotify.com/album/0rdyVMLgdhm5Jbjr11j1kp"
+      },
+      "artists": [
+        {
+          "name": "La Maquinaria Norte\u00f1a",
+          "url": "https://open.spotify.com/artist/7uGhSk7fVURjDaiXW1FSbL"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206506,
+      "name": "El Telescopio",
+      "url": "https://open.spotify.com/track/69PqKuwBzdPN1MaSwp5FrT"
     },
     {
       "album": {
@@ -701,6 +791,24 @@
     },
     {
       "album": {
+        "name": "Reto\u00f1os del Rio en el Estudio (Live)",
+        "url": "https://open.spotify.com/album/2Loe9QaOmbTb9f4GGDtkDQ"
+      },
+      "artists": [
+        {
+          "name": "Reto\u00f1os Del Rio",
+          "url": "https://open.spotify.com/artist/0b4F6xrKsPCHTXEl4j03LF"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232970,
+      "name": "La Muchacha de los Ojos Tristes - Live",
+      "url": "https://open.spotify.com/track/26aLTCvTeexLZ4nT8HizNF"
+    },
+    {
+      "album": {
         "name": "Le Hace Falta un Beso",
         "url": "https://open.spotify.com/album/7b0ktdUFncZpTtdobX4sOu"
       },
@@ -770,7 +878,7 @@
       ],
       "date_added": "2023-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 173826,
       "name": "Lo Mejor De Lo Mejor",
       "url": "https://open.spotify.com/track/5gpgYBVx8DAXwW4T6kFqc5"
@@ -886,7 +994,7 @@
       ],
       "date_added": "2023-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 169993,
       "name": "Mi Persona Favorita",
       "url": "https://open.spotify.com/track/0SxuYEU9W9gmiQfSacWg7X"
@@ -1056,6 +1164,28 @@
       "duration_ms": 188823,
       "name": "Piquetitos",
       "url": "https://open.spotify.com/track/6G2VETYnLl1Psobu809yQY"
+    },
+    {
+      "album": {
+        "name": "Por Las Noches",
+        "url": "https://open.spotify.com/album/1qrllTt5txCvAzOUx25gMS"
+      },
+      "artists": [
+        {
+          "name": "La Zona X",
+          "url": "https://open.spotify.com/artist/6CREnDoHW0llPJeNfOJYUI"
+        },
+        {
+          "name": "La Zenda Norte\u00f1a",
+          "url": "https://open.spotify.com/artist/01brs471Oes6kMnkVJBfGG"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172374,
+      "name": "Por Las Noches",
+      "url": "https://open.spotify.com/track/2GD55mkAhSzw6dKFJR6A7H"
     },
     {
       "album": {
@@ -1460,7 +1590,7 @@
       ],
       "date_added": "2023-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 160426,
       "name": "Ya Fue Suficiente",
       "url": "https://open.spotify.com/track/6DxehmTpQ7gPuQzIl4oJ67"

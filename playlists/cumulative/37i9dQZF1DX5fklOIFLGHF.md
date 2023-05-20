@@ -4,7 +4,7 @@
 
 > Rock sin vueltas\. Foto: EMI
 
-273 songs - 18 hr 8 min
+275 songs - 18 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,7 +55,8 @@
 | [Color](https://open.spotify.com/track/0OoQ3Juk2ukmdOzvxaKyOf) | [La Saga](https://open.spotify.com/artist/4E0jqZtxbwVYgtdj4Ydico) | [El Vendaval](https://open.spotify.com/album/3li7ITSe2mphwtBJsozLPW) | 3:36 | 2022-05-20 | 2022-07-29 |
 | [Come Together \- Remastered 2009](https://open.spotify.com/track/2EqlS6tkEnglzr7tkKAAYD) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Abbey Road \(Remastered\)](https://open.spotify.com/album/0ETFjACtuP2ADo6LFhL6HN) | 4:19 | 2022-07-08 |  |
 | [Como Eran Las Cosas](https://open.spotify.com/track/61qPUnazSdkvua4wgA4L8C) | [Babasónicos](https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2) | [Mucho](https://open.spotify.com/album/0DUCdIMPrlfPFPPKsNyzx3) | 4:00 | 2022-05-20 |  |
-| [Como Olvidarme](https://open.spotify.com/track/4BoHTlFIrDSrPNp768Tyek) | [La Beriso](https://open.spotify.com/artist/0Dy32zfSrQ332Bz8wsthKJ) | [Historias](https://open.spotify.com/album/7J8jOyFxNFXYMP5xBue3og) | 4:48 | 2022-05-20 |  |
+| [Como Olvidarme](https://open.spotify.com/track/4BoHTlFIrDSrPNp768Tyek) | [La Beriso](https://open.spotify.com/artist/0Dy32zfSrQ332Bz8wsthKJ) | [Historias](https://open.spotify.com/album/7J8jOyFxNFXYMP5xBue3og) | 4:48 | 2022-05-20 | 2023-05-20 |
+| [Como Un Río](https://open.spotify.com/track/0tXCHNIzrqqOxQFstqjCco) | [Cuatro Pesos de Propina](https://open.spotify.com/artist/0ChnnP8vWVXGxmfUfFYeND) | [Como Un Río](https://open.spotify.com/album/4JH0W4osUjcwofygBU7xuR) | 4:05 | 2023-05-19 |  |
 | [Contra el Viento](https://open.spotify.com/track/57iYWAcYUV7IMrgR7N8wNX) | [La Vela Puerca](https://open.spotify.com/artist/6nVcjUJemqpJjc1WevwTvL) | [Discopático](https://open.spotify.com/album/0tjbeQCarEUtbhlyyCRp0r) | 3:23 | 2022-05-20 | 2022-07-20 |
 | [Contradicción](https://open.spotify.com/track/5ZO39qQ9zMDxrVK9ePCNAq) | [Tabaré Cardozo](https://open.spotify.com/artist/5Xm9ynJD7wkdtI5HR2ux9K), [Jorge Nasser](https://open.spotify.com/artist/4di0stdnh2Ia1SMqn5dWd9) | [Contradicción](https://open.spotify.com/album/3BDWrmiQrikcQRbIOsa6F9) | 3:57 | 2022-07-08 | 2022-07-21 |
 | [Contrapunto para Humano y Computadora](https://open.spotify.com/track/5wjFUjiT4gKddiTX9urqN2) | [El Cuarteto De Nos](https://open.spotify.com/artist/13JJKrUewC1CJYmIDXQNoH) | [Jueves](https://open.spotify.com/album/6CLlWqMKd95lyqfHKBzSM4) | 5:40 | 2022-05-20 | 2022-07-29 |
@@ -116,7 +117,7 @@
 | [Himno de los Conductores Imprudentes](https://open.spotify.com/track/0DG1pFBluidrtYQbqCBpfn) | [Los Tontos](https://open.spotify.com/artist/6WMidNwOwRxIMeUlhe1ZF6) | [Los Tontos](https://open.spotify.com/album/1LZORzh4MfqNnl84fY0KwR) | 2:43 | 2022-07-01 | 2022-07-08 |
 | [Historias del Ayer](https://open.spotify.com/track/6z1rsdWp4weaG6Vk44lg5X) | [Hijos de la Marea](https://open.spotify.com/artist/61jpCm2O5kIdfbzAj58dwB) | [Historias del Ayer](https://open.spotify.com/album/6Wvi9J4hX2jzVhHvFWkq1g) | 3:33 | 2022-07-08 | 2022-07-24 |
 | [Hotel California \- 2013 Remaster](https://open.spotify.com/track/40riOy7x9W7GXjyGp4pjAv) | [Eagles](https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL) | [Hotel California \(2013 Remaster\)](https://open.spotify.com/album/2widuo17g5CEC66IbzveRu) | 6:31 | 2022-07-08 |  |
-| [House Of The Rising Sun](https://open.spotify.com/track/61Q9oJNd9hJQFhSDh6Qlap) | [The Animals](https://open.spotify.com/artist/3ICflSq6ZgYAIrm2CTkfVP) | [The Best Of The Animals](https://open.spotify.com/album/0h5qS8o0dAoPfj6bLg3z3Y) | 4:29 | 2022-07-08 |  |
+| [House Of The Rising Sun](https://open.spotify.com/track/61Q9oJNd9hJQFhSDh6Qlap) | [The Animals](https://open.spotify.com/artist/3ICflSq6ZgYAIrm2CTkfVP) | [The Best Of The Animals](https://open.spotify.com/album/0h5qS8o0dAoPfj6bLg3z3Y) | 4:29 | 2022-07-08 | 2023-05-20 |
 | [I Hate Myself for Loving You](https://open.spotify.com/track/2HXixVqzzm9rEUIMAWzshl) | [Joan Jett & the Blackhearts](https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K) | [Up Your Alley](https://open.spotify.com/album/2pkv3nrNrwtUdT8VNWwt5U) | 4:06 | 2022-07-08 |  |
 | [Iluminador](https://open.spotify.com/track/0OHjA32vvt6SplJuExyjYy) | [Socio](https://open.spotify.com/artist/4C7oQCCnEm59KXmNDx8w1l) | [Iluminador](https://open.spotify.com/album/02NrzFWfOi6fwcDGLd2Fat) | 3:16 | 2022-07-01 | 2022-07-24 |
 | [Ilusión](https://open.spotify.com/track/7sxwjqjRzpfXSyLCBrhU25) | [Diego González](https://open.spotify.com/artist/65FeQY2sD1xPBSrhTm4LC9) | [Ilusión](https://open.spotify.com/album/2HugFbm25jbXhGeD2bQwXO) | 3:57 | 2022-07-08 | 2022-07-29 |
@@ -134,6 +135,7 @@
 | [La Casa de al Lado](https://open.spotify.com/track/6JKB2tpxXs0ZtXo3cYx3u8) | [La Triple Nelson](https://open.spotify.com/artist/1vs5Ejn8M22dZKl4oLcvgM) | [Electro Acustica Mente](https://open.spotify.com/album/4pQIQbs8V5pAfkcRthV21Z) | 5:39 | 2022-05-20 | 2022-07-27 |
 | [La Ciudad Sin Alma](https://open.spotify.com/track/3sDI2suYX1N8IuszYbRmuZ) | [El Cuarteto De Nos](https://open.spotify.com/artist/13JJKrUewC1CJYmIDXQNoH) | [La Ciudad Sin Alma](https://open.spotify.com/album/5fKFrKFHXp0ZDaGSZ2YgQx) | 3:51 | 2022-07-01 | 2022-07-28 |
 | [La Doctora II](https://open.spotify.com/track/4DoJ4n5pnwDZKAuTEyHCUO) | [Piti Fernández](https://open.spotify.com/artist/4PJtMqmJX54aKaztYQfFYb) | [La Doctora II](https://open.spotify.com/album/1ZHX4z9901fRhJ5obRea9P) | 5:37 | 2022-05-20 | 2022-07-29 |
+| [La Euforia](https://open.spotify.com/track/1S2cM1rBuR5JCz6DD2PH3C) | [La Tabaré](https://open.spotify.com/artist/0vpsHg4mpVWG7IM5gLD6UK) | [La Euforia](https://open.spotify.com/album/4nU4ULYEKoLnR6losLjODP) | 2:07 | 2023-05-19 |  |
 | [La Flor](https://open.spotify.com/track/0kcuoPgp53eVzBqSnTIIcj) | [Martes 13](https://open.spotify.com/artist/4yQad4h1S2VKZbiEYlnFKy) | [La Flor](https://open.spotify.com/album/1XFuDdXTpGJ4KIW0BNd0W7) | 3:28 | 2022-05-20 | 2022-07-03 |
 | [La Grange \- 2005 Remaster](https://open.spotify.com/track/70YvYr2hGlS01bKRIho1HM) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [Tres Hombres \(Expanded 2006 Remaster\)](https://open.spotify.com/album/0Em8m9kRctyH9S3MTXAHvY) | 3:50 | 2022-07-08 |  |
 | [La Izquierda de la Noche](https://open.spotify.com/track/7ckFZJx6PYjb3P9mc8PNQl) | [Babasónicos](https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2) | [La Izquierda de la Noche](https://open.spotify.com/album/5l2XPMJy6oB4BiRcYxEp8S) | 3:39 | 2022-05-20 | 2022-07-29 |

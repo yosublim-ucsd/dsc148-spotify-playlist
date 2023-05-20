@@ -4,7 +4,7 @@
 
 > The best drill, trap and genre bending rap from Australia and NZ\. Cover: Mulalo
 
-464 songs - 21 hr 49 min
+465 songs - 21 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -388,6 +388,7 @@
 | [Stuck In My Ways](https://open.spotify.com/track/4tIAySbbDf6SyvnGxRJaqO) | [Masi Rooc](https://open.spotify.com/artist/7lVylfM4gOIszKc9dr1EOc) | [Stuck In My Ways](https://open.spotify.com/album/102RiVASUdzi7goE5yclR7) | 2:37 | 2022-03-21 | 2022-03-25 |
 | [Suck My Toes](https://open.spotify.com/track/0lQQNH8mzqyXfPrfdWY9M0) | [Lauren.](https://open.spotify.com/artist/12FDfg23IYpKRIhMjLu9r3) | [Suck My Toes](https://open.spotify.com/album/2FroWce6wdvqLyKxnGy8vF) | 1:51 | 2022-12-15 | 2023-03-31 |
 | [Summer Jam](https://open.spotify.com/track/1xHePnG9oTTYWTkqd5dnN9) | [Sydney Yungins](https://open.spotify.com/artist/7pqRrWbKf5yMxy79G3YdKc) | [Summer Jam](https://open.spotify.com/album/5IGDqI2xqiTkVq9RBwYyFw) | 2:49 | 2022-10-27 |  |
+| [SUMMER LOVE](https://open.spotify.com/track/6nt94WhadnrRyVlM88zEoK) | [Kwest](https://open.spotify.com/artist/4d5kNx2Bv7ieK2en82Dgzu) | [SUMMER LOVE](https://open.spotify.com/album/4lacbx9HEuJSF4gzayzkD0) | 3:01 | 2023-05-18 |  |
 | [Sydney Where It Started \(Deluxe Version\)](https://open.spotify.com/track/5ehuNB5jSOZuLxk7lJz6sB) | [Young Smoke](https://open.spotify.com/artist/7dQVSDd9u8qnZ0H3BZOTcg) | [Sydney Where It Started \(Deluxe Version\)](https://open.spotify.com/album/0h6zhXiLqZir1JCdZULpJh) | 3:11 | 2022-03-21 | 2022-03-25 |
 | [T2MN](https://open.spotify.com/track/5nZd2uomka8ritOlcnsNq7) | [Ivan Dr8ko](https://open.spotify.com/artist/5ZeKUfTXsz2Z3nB4qTuP7C), [Smokey.](https://open.spotify.com/artist/5a2nmVxnEEJ7Z2rhn9mmOx) | [T2MN](https://open.spotify.com/album/0Z6dsAnXsWefNaWmOboX2V) | 4:20 | 2022-08-18 | 2022-11-11 |
 | [Take A Chance \(feat\. BALLY BOY\)](https://open.spotify.com/track/2Z6JKcZAM0wioX5RJu5L0i) | [NASA NOVA](https://open.spotify.com/artist/06QjJe1vLugKmPVdMKVCUR), [BALLY BOY](https://open.spotify.com/artist/3MCpCeJATfWO5bOy5nf2F9) | [For Mine](https://open.spotify.com/album/0oqyMSJg0ICy83COvKU157) | 2:59 | 2022-06-23 | 2022-11-04 |

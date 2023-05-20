@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-01",
-  "description": "Home to all the latest indie jams. Cover: Arlo Parks & Phoebe Bridgers",
+  "description": "Home to all the latest indie jams. Cover: Lana Del Rey",
   "name": "Indie All Stars",
   "tracks": [
     {
@@ -142,7 +142,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 209188,
       "name": "3 Boys",
       "url": "https://open.spotify.com/track/31Wlc9ZnraX3JxrvMg9e8H"
@@ -196,7 +196,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 206720,
       "name": "5AM",
       "url": "https://open.spotify.com/track/3riOdbVB5Ma1SrhKjBt7bl"
@@ -1868,7 +1868,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 221092,
       "name": "Blades",
       "url": "https://open.spotify.com/track/11xCgS8k2RSzgngwkOqJV6"
@@ -1890,6 +1890,24 @@
       "duration_ms": 242789,
       "name": "Bless This Mess",
       "url": "https://open.spotify.com/track/07c1JDEzG7AQNci3xFFAAA"
+    },
+    {
+      "album": {
+        "name": "Block Of Wood",
+        "url": "https://open.spotify.com/album/5mpeLiDcSNmDZo7GPARi8c"
+      },
+      "artists": [
+        {
+          "name": "Yves Jarvis",
+          "url": "https://open.spotify.com/artist/19h4y2F9duQ776bv1YhQYt"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199948,
+      "name": "Block Of Wood",
+      "url": "https://open.spotify.com/track/38sbz9ql94TLWkNa7YHA16"
     },
     {
       "album": {
@@ -2240,7 +2258,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 252053,
       "name": "Bottle Episodes",
       "url": "https://open.spotify.com/track/4po80V0UADskVYWjH20GKk"
@@ -2316,6 +2334,24 @@
       "duration_ms": 170486,
       "name": "Boxes",
       "url": "https://open.spotify.com/track/7A4hJVgzsTzyYpbjWh22Xs"
+    },
+    {
+      "album": {
+        "name": "BOY FEELINGS",
+        "url": "https://open.spotify.com/album/5VZHnMvdghMtvGvynEehCn"
+      },
+      "artists": [
+        {
+          "name": "CHEEYA",
+          "url": "https://open.spotify.com/artist/6yFEAMfnclFaaurukvlVqu"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208206,
+      "name": "BOY FEELINGS",
+      "url": "https://open.spotify.com/track/3R5moFhz0qhnYsXBoqX9RL"
     },
     {
       "album": {
@@ -3805,6 +3841,24 @@
     },
     {
       "album": {
+        "name": "Cut the Kite String",
+        "url": "https://open.spotify.com/album/3Hw9rP7XXOMZkrXjrgwK7W"
+      },
+      "artists": [
+        {
+          "name": "GUS",
+          "url": "https://open.spotify.com/artist/3SdiTECGpryAOC4TKsA2ij"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185500,
+      "name": "Cut the Kite String",
+      "url": "https://open.spotify.com/track/2CToXuKahvDh3VBKFZ7JRv"
+    },
+    {
+      "album": {
         "name": "Cutie",
         "url": "https://open.spotify.com/album/5bn7iiPpq2Za6KX1PekKD2"
       },
@@ -4220,7 +4274,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 198026,
       "name": "Digital Silence",
       "url": "https://open.spotify.com/track/6cJSXxvl9l94huIUIqsEQo"
@@ -4368,7 +4422,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 231233,
       "name": "Do You Ever Wonder?",
       "url": "https://open.spotify.com/track/4QBVZjtgCajJCT2jLuKKPF"
@@ -4502,6 +4556,28 @@
       "duration_ms": 304743,
       "name": "Don't Fight The Feeling",
       "url": "https://open.spotify.com/track/6a94gSINCcIhFs6QM3ivmx"
+    },
+    {
+      "album": {
+        "name": "Don't Let Me Down",
+        "url": "https://open.spotify.com/album/1PdRtUkny2sF2Hf1BbHsDU"
+      },
+      "artists": [
+        {
+          "name": "Gus Dapperton",
+          "url": "https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4"
+        },
+        {
+          "name": "BENEE",
+          "url": "https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235280,
+      "name": "Don't Let Me Down",
+      "url": "https://open.spotify.com/track/181PmaC6c39r59gfhDGKdh"
     },
     {
       "album": {
@@ -6344,7 +6420,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 173333,
       "name": "Friday Night With The Neighbours",
       "url": "https://open.spotify.com/track/1WdudtCCuMjsLNGgZwR1gd"
@@ -7254,7 +7330,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 304613,
       "name": "Guts",
       "url": "https://open.spotify.com/track/2Q9bMFbQTmdEtRwucuvoLq"
@@ -9401,6 +9477,24 @@
     },
     {
       "album": {
+        "name": "It's Always Warm in San Araya",
+        "url": "https://open.spotify.com/album/5Lq4OH98H0mSapHRJdenuo"
+      },
+      "artists": [
+        {
+          "name": "Cody Lawless",
+          "url": "https://open.spotify.com/artist/6YCVlQAsIlKAwVNf7ggAwf"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159130,
+      "name": "It's Always Warm In San Araya",
+      "url": "https://open.spotify.com/track/2DB9Ak5KP9v2HfhlrQn63K"
+    },
+    {
+      "album": {
         "name": "It's Been a Little Heavy Lately",
         "url": "https://open.spotify.com/album/6pemgHNxTnz4vRNNMLQCAe"
       },
@@ -10274,6 +10368,24 @@
       "duration_ms": 218626,
       "name": "Leaving Tomorrow - Figure It Out",
       "url": "https://open.spotify.com/track/10yqlnrWqzPxDGHVbCy9wi"
+    },
+    {
+      "album": {
+        "name": "Paris-Hawa\u00ef",
+        "url": "https://open.spotify.com/album/4q2iiAmoWmM57F6I2al84B"
+      },
+      "artists": [
+        {
+          "name": "La Femme",
+          "url": "https://open.spotify.com/artist/5VTWoYYizcOY3uIKnxeCGI"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 303000,
+      "name": "Leila",
+      "url": "https://open.spotify.com/track/7sKJkJN7dhfBDmG86AKtOI"
     },
     {
       "album": {
@@ -12626,7 +12738,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 184284,
       "name": "Nudista Mundial \u201889 (feat. Mac DeMarco)",
       "url": "https://open.spotify.com/track/5s0XkCtIM43uR7wvA1RfYO"
@@ -13304,7 +13416,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 206722,
       "name": "Paris, Texas (feat. SYML)",
       "url": "https://open.spotify.com/track/0Oqxt6JixieLHbwMfnJGWO"
@@ -14822,7 +14934,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 214320,
       "name": "Sad to Breathe",
       "url": "https://open.spotify.com/track/1NtoOI83OIXz4NXPj2VaKV"
@@ -14964,6 +15076,24 @@
       "duration_ms": 172059,
       "name": "SAVING GRACE",
       "url": "https://open.spotify.com/track/5GfNqvXZ1BEjcjZfcAm8MF"
+    },
+    {
+      "album": {
+        "name": "Say Yes To Heaven",
+        "url": "https://open.spotify.com/album/6jVg0POvGYH1Pt6lISl3ok"
+      },
+      "artists": [
+        {
+          "name": "Lana Del Rey",
+          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209156,
+      "name": "Say Yes To Heaven",
+      "url": "https://open.spotify.com/track/6GGtHZgBycCgGBUhZo81xe"
     },
     {
       "album": {
@@ -15230,7 +15360,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 215013,
       "name": "Shadow In The Storm",
       "url": "https://open.spotify.com/track/5baV4ZFU0mhUVbrcZyv4FD"
@@ -15812,6 +15942,24 @@
       "duration_ms": 195804,
       "name": "So Typically Now",
       "url": "https://open.spotify.com/track/1IafXP9REln2SxcNXOCIDS"
+    },
+    {
+      "album": {
+        "name": "Soak My Head",
+        "url": "https://open.spotify.com/album/3KjZpHN2hLSGk7KFAIgkTA"
+      },
+      "artists": [
+        {
+          "name": "Meltt",
+          "url": "https://open.spotify.com/artist/2iHrc69sZgyWFBAhLpS3oH"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186786,
+      "name": "Soak My Head",
+      "url": "https://open.spotify.com/track/2DUDMQhvnEiske4YOJwYrh"
     },
     {
       "album": {
@@ -16516,6 +16664,24 @@
       "duration_ms": 176040,
       "name": "Sunshine",
       "url": "https://open.spotify.com/track/1ancHfc1kN39DB5iqnCmax"
+    },
+    {
+      "album": {
+        "name": "Sunshine Baby",
+        "url": "https://open.spotify.com/album/2ibWUZ1bIkVbwqCUV7ULtI"
+      },
+      "artists": [
+        {
+          "name": "The Japanese House",
+          "url": "https://open.spotify.com/artist/3IunaFjvNKj98JW89JYv9u"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219813,
+      "name": "Sunshine Baby",
+      "url": "https://open.spotify.com/track/3vYv97XoLzoVhOhGCfs0lF"
     },
     {
       "album": {
@@ -17233,6 +17399,24 @@
     },
     {
       "album": {
+        "name": "The Narcissist",
+        "url": "https://open.spotify.com/album/2BfpnbY3M0oc9NyW87NKGz"
+      },
+      "artists": [
+        {
+          "name": "Blur",
+          "url": "https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245225,
+      "name": "The Narcissist",
+      "url": "https://open.spotify.com/track/35d93v9AXADp8Wc0qJ3mIo"
+    },
+    {
+      "album": {
         "name": "The One",
         "url": "https://open.spotify.com/album/1wjFYIGn9tsz6egrNisZj1"
       },
@@ -17674,7 +17858,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 193958,
       "name": "This Too Shall Pass",
       "url": "https://open.spotify.com/track/2cRk2urFFDs4k1S8xCJlKo"
@@ -17826,10 +18010,28 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 174545,
       "name": "To be, or not to be ugly",
       "url": "https://open.spotify.com/track/25cJX61SWZCOlgNuvHf20c"
+    },
+    {
+      "album": {
+        "name": "To Learn",
+        "url": "https://open.spotify.com/album/5k6lsjpZK4l4J9oMQmBR1l"
+      },
+      "artists": [
+        {
+          "name": "Leith Ross",
+          "url": "https://open.spotify.com/artist/4nxKz1dRYXnsGzN1lUURtG"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137060,
+      "name": "To Learn",
+      "url": "https://open.spotify.com/track/63a0svve0p3CIiGx9a9DTy"
     },
     {
       "album": {
@@ -18328,6 +18530,24 @@
       "duration_ms": 277854,
       "name": "U R My *",
       "url": "https://open.spotify.com/track/3vTM40wIqjSfs01P9nLNPC"
+    },
+    {
+      "album": {
+        "name": "TEMPTRESS",
+        "url": "https://open.spotify.com/album/1M6P5oEDwt2pcnnWVsxGPo"
+      },
+      "artists": [
+        {
+          "name": "Ray Laur\u00e9l",
+          "url": "https://open.spotify.com/artist/7gW3GsnBSoT6q9YQUstlzA"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127707,
+      "name": "U SAID!",
+      "url": "https://open.spotify.com/track/3S2FcwSlUhob3FAdHgDwWc"
     },
     {
       "album": {

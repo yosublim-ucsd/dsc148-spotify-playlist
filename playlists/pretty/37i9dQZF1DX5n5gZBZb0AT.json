@@ -1,15 +1,15 @@
 {
   "description": "all gains",
-  "num_followers": 54631,
+  "num_followers": 55352,
   "original_name": "gymcore",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlNjEwYzMwMmFhYWM3ZGM3MWM3NjEyODk3NDU5YjFjZGEyMzVjNTli",
+  "snapshot_id": "MCw4ZDA1OTI3ZTVlNzE4MTQ2OGRmMWRmNWU3ZGUyMGQ2YTY0NDIxYmMw",
   "tracks": [
     {
-      "added_at": "2023-03-09 21:54:21",
+      "added_at": "2023-05-19 14:03:50",
       "album": {
         "name": "Her Loss",
         "url": "https://open.spotify.com/album/5MS3MvWHJ3lOZPLiMxzOU6"
@@ -29,7 +29,7 @@
       "url": "https://open.spotify.com/track/1bDbXMyjaUIooNwFE9wn0N"
     },
     {
-      "added_at": "2023-03-09 21:54:21",
+      "added_at": "2023-05-19 14:03:50",
       "album": {
         "name": "Now the Moon's Rising",
         "url": "https://open.spotify.com/album/12RWpV5WUjYo4SisuFWMNK"
@@ -45,7 +45,23 @@
       "url": "https://open.spotify.com/track/6tO5bxNnMuh1c3cziSpecA"
     },
     {
-      "added_at": "2023-03-09 21:54:21",
+      "added_at": "2023-05-19 14:03:50",
+      "album": {
+        "name": "Just Wanna Rock",
+        "url": "https://open.spotify.com/album/2FD6g8bXEn2uQMYbeqqoCg"
+      },
+      "artists": [
+        {
+          "name": "Lil Uzi Vert",
+          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
+        }
+      ],
+      "duration_ms": 123890,
+      "name": "Just Wanna Rock",
+      "url": "https://open.spotify.com/track/4FyesJzVpA39hbYvcseO2d"
+    },
+    {
+      "added_at": "2023-05-19 14:03:50",
       "album": {
         "name": "Meet The Woo 2 (Deluxe)",
         "url": "https://open.spotify.com/album/5NTOvCGu7HT4DgJGLXtKUU"
@@ -61,7 +77,23 @@
       "url": "https://open.spotify.com/track/4lCSOu4tsSlljiQUlWJYVt"
     },
     {
-      "added_at": "2023-03-09 21:54:21",
+      "added_at": "2023-05-19 14:03:50",
+      "album": {
+        "name": "Murder In My Mind",
+        "url": "https://open.spotify.com/album/68GI09qAs2XLJmA3hj5K7y"
+      },
+      "artists": [
+        {
+          "name": "Kordhell",
+          "url": "https://open.spotify.com/artist/2W6WP4pHQTFlbr2z9S4n54"
+        }
+      ],
+      "duration_ms": 145000,
+      "name": "Murder In My Mind",
+      "url": "https://open.spotify.com/track/6qyS9qBy0mEk3qYaH8mPss"
+    },
+    {
+      "added_at": "2023-05-19 14:03:50",
       "album": {
         "name": "Phonky Town",
         "url": "https://open.spotify.com/album/1TphjjWjHo2s2nFeZWrThI"
@@ -77,7 +109,23 @@
       "url": "https://open.spotify.com/track/5mnpMkzp3Z2RCCbwIEZCbv"
     },
     {
-      "added_at": "2023-03-09 21:54:21",
+      "added_at": "2023-05-19 14:03:50",
+      "album": {
+        "name": "SPIT IN MY FACE!",
+        "url": "https://open.spotify.com/album/2XurGuugADHAwF8gEYjtMA"
+      },
+      "artists": [
+        {
+          "name": "ThxSoMch",
+          "url": "https://open.spotify.com/artist/4MvZhE1iuzttcoyepkpfdF"
+        }
+      ],
+      "duration_ms": 147874,
+      "name": "SPIT IN MY FACE!",
+      "url": "https://open.spotify.com/track/1N8TTK1Uoy7UvQNUazfUt5"
+    },
+    {
+      "added_at": "2023-05-19 14:03:50",
       "album": {
         "name": "The Eminem Show",
         "url": "https://open.spotify.com/album/2cWBwpqMsDJC1ZUwz813lo"
@@ -97,87 +145,7 @@
       "url": "https://open.spotify.com/track/4xkOaSrkexMciUUogZKVTS"
     },
     {
-      "added_at": "2023-03-09 21:54:21",
-      "album": {
-        "name": "Just Wanna Rock",
-        "url": "https://open.spotify.com/album/2FD6g8bXEn2uQMYbeqqoCg"
-      },
-      "artists": [
-        {
-          "name": "Lil Uzi Vert",
-          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
-        }
-      ],
-      "duration_ms": 123890,
-      "name": "Just Wanna Rock",
-      "url": "https://open.spotify.com/track/4FyesJzVpA39hbYvcseO2d"
-    },
-    {
-      "added_at": "2023-03-09 21:54:21",
-      "album": {
-        "name": "Murder In My Mind",
-        "url": "https://open.spotify.com/album/68GI09qAs2XLJmA3hj5K7y"
-      },
-      "artists": [
-        {
-          "name": "Kordhell",
-          "url": "https://open.spotify.com/artist/2W6WP4pHQTFlbr2z9S4n54"
-        }
-      ],
-      "duration_ms": 145000,
-      "name": "Murder In My Mind",
-      "url": "https://open.spotify.com/track/6qyS9qBy0mEk3qYaH8mPss"
-    },
-    {
-      "added_at": "2023-03-09 21:54:21",
-      "album": {
-        "name": "Disaster",
-        "url": "https://open.spotify.com/album/7jeIigTciBnw9zadRsYqIC"
-      },
-      "artists": [
-        {
-          "name": "KSLV Noh",
-          "url": "https://open.spotify.com/artist/2ElMqlv5py0QFIVXUff627"
-        }
-      ],
-      "duration_ms": 84138,
-      "name": "Disaster",
-      "url": "https://open.spotify.com/track/29e4KOBzZDOX6qnpYbjwoW"
-    },
-    {
-      "added_at": "2023-03-09 21:54:21",
-      "album": {
-        "name": "SPIT IN MY FACE!",
-        "url": "https://open.spotify.com/album/2XurGuugADHAwF8gEYjtMA"
-      },
-      "artists": [
-        {
-          "name": "ThxSoMch",
-          "url": "https://open.spotify.com/artist/4MvZhE1iuzttcoyepkpfdF"
-        }
-      ],
-      "duration_ms": 147874,
-      "name": "SPIT IN MY FACE!",
-      "url": "https://open.spotify.com/track/1N8TTK1Uoy7UvQNUazfUt5"
-    },
-    {
-      "added_at": "2023-03-09 21:54:21",
-      "album": {
-        "name": "DEMIDEVIL",
-        "url": "https://open.spotify.com/album/438ToDoVaJH5aTIXXrlDyI"
-      },
-      "artists": [
-        {
-          "name": "Ashnikko",
-          "url": "https://open.spotify.com/artist/3PyJHH2wyfQK3WZrk9rpmP"
-        }
-      ],
-      "duration_ms": 146523,
-      "name": "Daisy",
-      "url": "https://open.spotify.com/track/2g1KggY9PKvsoEAOaiz4xx"
-    },
-    {
-      "added_at": "2023-03-09 21:54:21",
+      "added_at": "2023-05-19 14:03:50",
       "album": {
         "name": "Watch The Throne (Deluxe)",
         "url": "https://open.spotify.com/album/2P2Xwvh2xWXIZ1OWY9S9o5"
@@ -197,7 +165,23 @@
       "url": "https://open.spotify.com/track/4Li2WHPkuyCdtmokzW2007"
     },
     {
-      "added_at": "2023-03-09 21:54:21",
+      "added_at": "2023-05-19 14:03:50",
+      "album": {
+        "name": "Disaster",
+        "url": "https://open.spotify.com/album/7jeIigTciBnw9zadRsYqIC"
+      },
+      "artists": [
+        {
+          "name": "KSLV Noh",
+          "url": "https://open.spotify.com/artist/2ElMqlv5py0QFIVXUff627"
+        }
+      ],
+      "duration_ms": 84138,
+      "name": "Disaster",
+      "url": "https://open.spotify.com/track/29e4KOBzZDOX6qnpYbjwoW"
+    },
+    {
+      "added_at": "2023-05-19 14:03:50",
       "album": {
         "name": "Drip Harder",
         "url": "https://open.spotify.com/album/2yXnY2NiaZk9QiJJittS81"
@@ -217,27 +201,23 @@
       "url": "https://open.spotify.com/track/78QR3Wp35dqAhFEc2qAGjE"
     },
     {
-      "added_at": "2023-03-09 21:54:21",
+      "added_at": "2023-05-19 14:03:50",
       "album": {
-        "name": "Music To Be Murdered By",
-        "url": "https://open.spotify.com/album/4otkd9As6YaxxEkIjXPiZ6"
+        "name": "DEMIDEVIL",
+        "url": "https://open.spotify.com/album/438ToDoVaJH5aTIXXrlDyI"
       },
       "artists": [
         {
-          "name": "Eminem",
-          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
-        },
-        {
-          "name": "Juice WRLD",
-          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
+          "name": "Ashnikko",
+          "url": "https://open.spotify.com/artist/3PyJHH2wyfQK3WZrk9rpmP"
         }
       ],
-      "duration_ms": 210800,
-      "name": "Godzilla (feat. Juice WRLD)",
-      "url": "https://open.spotify.com/track/7FIWs0pqAYbP91WWM0vlTQ"
+      "duration_ms": 146523,
+      "name": "Daisy",
+      "url": "https://open.spotify.com/track/2g1KggY9PKvsoEAOaiz4xx"
     },
     {
-      "added_at": "2023-03-09 21:54:21",
+      "added_at": "2023-05-19 14:03:50",
       "album": {
         "name": "Freddie's Inferno",
         "url": "https://open.spotify.com/album/2ll6KONxe4F87GJku1ZZrl"
@@ -253,23 +233,7 @@
       "url": "https://open.spotify.com/track/37F7E7BKEw2E4O2L7u0IEp"
     },
     {
-      "added_at": "2023-03-09 21:54:21",
-      "album": {
-        "name": "RAVE",
-        "url": "https://open.spotify.com/album/0doOTVLn5DctSLGftsar6T"
-      },
-      "artists": [
-        {
-          "name": "Dxrk \u30c0\u30fc\u30af",
-          "url": "https://open.spotify.com/artist/5TvFfw1MgSntdU9A7yncyA"
-        }
-      ],
-      "duration_ms": 169245,
-      "name": "RAVE",
-      "url": "https://open.spotify.com/track/01kfSdF9zfcDLri5sSWEoL"
-    },
-    {
-      "added_at": "2023-03-09 21:54:21",
+      "added_at": "2023-05-19 14:03:50",
       "album": {
         "name": "The Melodic Blue",
         "url": "https://open.spotify.com/album/3r46DPIQeBQbjvjjV5mXGg"
@@ -289,23 +253,27 @@
       "url": "https://open.spotify.com/track/3QFInJAm9eyaho5vBzxInN"
     },
     {
-      "added_at": "2023-03-09 21:54:21",
+      "added_at": "2023-05-19 14:03:50",
       "album": {
-        "name": "Finally Rich",
-        "url": "https://open.spotify.com/album/2B4y3j02ho6XNF8BEzx3JF"
+        "name": "Music To Be Murdered By",
+        "url": "https://open.spotify.com/album/4otkd9As6YaxxEkIjXPiZ6"
       },
       "artists": [
         {
-          "name": "Chief Keef",
-          "url": "https://open.spotify.com/artist/15iVAtD3s3FsQR4w1v6M0P"
+          "name": "Eminem",
+          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+        },
+        {
+          "name": "Juice WRLD",
+          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
         }
       ],
-      "duration_ms": 246213,
-      "name": "Love Sosa",
-      "url": "https://open.spotify.com/track/01Lr5YepbgjXAWR9iOEyH1"
+      "duration_ms": 210800,
+      "name": "Godzilla (feat. Juice WRLD)",
+      "url": "https://open.spotify.com/track/7FIWs0pqAYbP91WWM0vlTQ"
     },
     {
-      "added_at": "2023-03-09 21:54:21",
+      "added_at": "2023-05-19 14:03:50",
       "album": {
         "name": "Street Gossip",
         "url": "https://open.spotify.com/album/4iF44RCCybJtkBkMoqrLW2"
@@ -321,7 +289,23 @@
       "url": "https://open.spotify.com/track/577YBGuskWkVDCxZrLRB4v"
     },
     {
-      "added_at": "2023-03-09 21:54:21",
+      "added_at": "2023-05-19 14:03:50",
+      "album": {
+        "name": "RAVE",
+        "url": "https://open.spotify.com/album/0doOTVLn5DctSLGftsar6T"
+      },
+      "artists": [
+        {
+          "name": "Dxrk \u30c0\u30fc\u30af",
+          "url": "https://open.spotify.com/artist/5TvFfw1MgSntdU9A7yncyA"
+        }
+      ],
+      "duration_ms": 169245,
+      "name": "RAVE",
+      "url": "https://open.spotify.com/track/01kfSdF9zfcDLri5sSWEoL"
+    },
+    {
+      "added_at": "2023-05-19 14:03:50",
       "album": {
         "name": "MIDDLE CHILD",
         "url": "https://open.spotify.com/album/3XzSOIE6zGLliuqsVGLmUc"
@@ -337,7 +321,23 @@
       "url": "https://open.spotify.com/track/2JvzF1RMd7lE3KmFlsyZD8"
     },
     {
-      "added_at": "2023-03-09 21:54:21",
+      "added_at": "2023-05-19 14:03:50",
+      "album": {
+        "name": "Finally Rich",
+        "url": "https://open.spotify.com/album/2B4y3j02ho6XNF8BEzx3JF"
+      },
+      "artists": [
+        {
+          "name": "Chief Keef",
+          "url": "https://open.spotify.com/artist/15iVAtD3s3FsQR4w1v6M0P"
+        }
+      ],
+      "duration_ms": 246213,
+      "name": "Love Sosa",
+      "url": "https://open.spotify.com/track/01Lr5YepbgjXAWR9iOEyH1"
+    },
+    {
+      "added_at": "2023-05-19 14:03:50",
       "album": {
         "name": "Close Eyes",
         "url": "https://open.spotify.com/album/3G0b8ob9anYQl8a1t3GpOF"
@@ -353,7 +353,7 @@
       "url": "https://open.spotify.com/track/3CLSHJv5aUROAN2vfOyCOh"
     },
     {
-      "added_at": "2023-03-09 21:54:21",
+      "added_at": "2023-05-19 14:03:50",
       "album": {
         "name": "Meet The Woo",
         "url": "https://open.spotify.com/album/6d1vGZsr6Uy3h9IigBpPAf"
@@ -369,7 +369,7 @@
       "url": "https://open.spotify.com/track/79s5XnCN4TJKTVMSmOx8Ep"
     },
     {
-      "added_at": "2023-03-09 21:54:21",
+      "added_at": "2023-05-19 14:03:50",
       "album": {
         "name": "Luv Is Rage 2",
         "url": "https://open.spotify.com/album/733e1ZfktLSwj96X5rsMeE"
@@ -385,7 +385,7 @@
       "url": "https://open.spotify.com/track/7GX5flRQZVHRAGd6B4TmDO"
     },
     {
-      "added_at": "2023-03-09 21:54:21",
+      "added_at": "2023-05-19 14:03:50",
       "album": {
         "name": "NOT ALL HEROES WEAR CAPES (Deluxe)",
         "url": "https://open.spotify.com/album/3IO8IPjwXuzPJnoaqkwYrj"
@@ -405,7 +405,7 @@
       "url": "https://open.spotify.com/track/1fewSx2d5KIZ04wsooEBOz"
     },
     {
-      "added_at": "2023-03-09 21:54:21",
+      "added_at": "2023-05-19 14:03:50",
       "album": {
         "name": "vendetta!",
         "url": "https://open.spotify.com/album/68lLFdlKCAqUQ3p3uDlozr"
@@ -425,7 +425,7 @@
       "url": "https://open.spotify.com/track/5Sk39LuvdwuvL84jD01Dum"
     },
     {
-      "added_at": "2023-03-09 21:54:21",
+      "added_at": "2023-05-19 14:03:50",
       "album": {
         "name": "Championships",
         "url": "https://open.spotify.com/album/6UYZEYjpN1DYRW0kqFy9ZE"
@@ -445,23 +445,7 @@
       "url": "https://open.spotify.com/track/2IRZnDFmlqMuOrYOLnZZyc"
     },
     {
-      "added_at": "2023-03-09 21:54:21",
-      "album": {
-        "name": "Up 2 M\u00eb",
-        "url": "https://open.spotify.com/album/1x55Z0fYARLdeJVjG2UESs"
-      },
-      "artists": [
-        {
-          "name": "Yeat",
-          "url": "https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx"
-        }
-      ],
-      "duration_ms": 160052,
-      "name": "Mon\u00eby so big",
-      "url": "https://open.spotify.com/track/7BbaIYAdi3pg4MGl6PHwPv"
-    },
-    {
-      "added_at": "2023-03-09 21:54:21",
+      "added_at": "2023-05-19 14:03:50",
       "album": {
         "name": "Harder Than Ever",
         "url": "https://open.spotify.com/album/7yf9ZJyHRbp8sHtpDKfPpt"
@@ -481,7 +465,23 @@
       "url": "https://open.spotify.com/track/6vN77lE9LK6HP2DewaN6HZ"
     },
     {
-      "added_at": "2023-03-09 21:54:21",
+      "added_at": "2023-05-19 14:03:50",
+      "album": {
+        "name": "Up 2 M\u00eb",
+        "url": "https://open.spotify.com/album/1x55Z0fYARLdeJVjG2UESs"
+      },
+      "artists": [
+        {
+          "name": "Yeat",
+          "url": "https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx"
+        }
+      ],
+      "duration_ms": 160052,
+      "name": "Mon\u00eby so big",
+      "url": "https://open.spotify.com/track/7BbaIYAdi3pg4MGl6PHwPv"
+    },
+    {
+      "added_at": "2023-05-19 14:03:50",
       "album": {
         "name": "Phonkageddon",
         "url": "https://open.spotify.com/album/3mBLmOCKHY1MAOD8fYmffg"
@@ -497,7 +497,7 @@
       "url": "https://open.spotify.com/track/34lfu3S4fIcKZRNXzbdbo7"
     },
     {
-      "added_at": "2023-03-09 21:54:21",
+      "added_at": "2023-05-19 14:03:50",
       "album": {
         "name": "NEON BLADE",
         "url": "https://open.spotify.com/album/4zRjyCx4wMu480J7tac2Gm"
@@ -513,7 +513,7 @@
       "url": "https://open.spotify.com/track/0iUrxveyNUBfj0cqjYEijt"
     },
     {
-      "added_at": "2023-03-09 21:54:21",
+      "added_at": "2023-05-19 14:03:50",
       "album": {
         "name": "The Bigger Artist",
         "url": "https://open.spotify.com/album/3HHp5I6Q6SEyU5bkvoCtnV"
@@ -533,7 +533,7 @@
       "url": "https://open.spotify.com/track/1f5cbQtDrykjarZVrShaDI"
     },
     {
-      "added_at": "2023-03-09 21:54:21",
+      "added_at": "2023-05-19 14:03:50",
       "album": {
         "name": "GHOST!",
         "url": "https://open.spotify.com/album/0TwAp1jAUFp1PQtdDlDDW3"
@@ -553,7 +553,7 @@
       "url": "https://open.spotify.com/track/3TzPVU3jj6YdTunVdKimiQ"
     },
     {
-      "added_at": "2023-03-09 21:54:21",
+      "added_at": "2023-05-19 14:03:50",
       "album": {
         "name": "BILLIE EILISH.",
         "url": "https://open.spotify.com/album/4MajX5vPeY4cX5pv6rf0sA"
@@ -569,7 +569,7 @@
       "url": "https://open.spotify.com/track/27ZZdyTSQWI7Cug2d2PkqV"
     },
     {
-      "added_at": "2023-03-09 21:54:21",
+      "added_at": "2023-05-19 14:03:50",
       "album": {
         "name": "Why Not",
         "url": "https://open.spotify.com/album/0Qj2wwdBRq690kG8hShuaR"
@@ -585,7 +585,7 @@
       "url": "https://open.spotify.com/track/4oMyggIzClkOcCTvotFLkP"
     },
     {
-      "added_at": "2023-03-09 21:54:21",
+      "added_at": "2023-05-19 14:03:50",
       "album": {
         "name": "HOTEL LOBBY (Unc & Phew)",
         "url": "https://open.spotify.com/album/0zWZX428gMb9vSBUMRdDiy"
@@ -605,7 +605,7 @@
       "url": "https://open.spotify.com/track/0QNNd0qMCDbraS1nQPg3aA"
     },
     {
-      "added_at": "2023-03-09 21:54:21",
+      "added_at": "2023-05-19 14:03:50",
       "album": {
         "name": "Rotten",
         "url": "https://open.spotify.com/album/2jgKK8iIX83mPrCyDhvEdf"
@@ -621,7 +621,7 @@
       "url": "https://open.spotify.com/track/7I4ibsZgwuf46g0xHuTC8s"
     },
     {
-      "added_at": "2023-03-09 21:54:21",
+      "added_at": "2023-05-19 14:03:50",
       "album": {
         "name": "The Search",
         "url": "https://open.spotify.com/album/46xdC4Qcvscfs3Ai2RIHcv"
@@ -637,23 +637,7 @@
       "url": "https://open.spotify.com/track/3oLe5ZILASG8vU5dxIMfLY"
     },
     {
-      "added_at": "2023-03-09 21:54:21",
-      "album": {
-        "name": "Yellow Tape 2",
-        "url": "https://open.spotify.com/album/7snqOEQEtKqxJw3NTGml6i"
-      },
-      "artists": [
-        {
-          "name": "Key Glock",
-          "url": "https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5"
-        }
-      ],
-      "duration_ms": 143480,
-      "name": "Ambition For Cash",
-      "url": "https://open.spotify.com/track/4mIHgQ3ofK2RK34UdbqMbe"
-    },
-    {
-      "added_at": "2023-03-09 21:54:21",
+      "added_at": "2023-05-19 14:03:50",
       "album": {
         "name": "Dreams and Nightmares (Deluxe Edition)",
         "url": "https://open.spotify.com/album/0zhZDmHEtDtok393SbZ3d7"
@@ -669,7 +653,23 @@
       "url": "https://open.spotify.com/track/42zd6DYQ4o4SECmTITrM1U"
     },
     {
-      "added_at": "2023-03-09 21:54:21",
+      "added_at": "2023-05-19 14:03:50",
+      "album": {
+        "name": "Yellow Tape 2",
+        "url": "https://open.spotify.com/album/7snqOEQEtKqxJw3NTGml6i"
+      },
+      "artists": [
+        {
+          "name": "Key Glock",
+          "url": "https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5"
+        }
+      ],
+      "duration_ms": 143480,
+      "name": "Ambition For Cash",
+      "url": "https://open.spotify.com/track/4mIHgQ3ofK2RK34UdbqMbe"
+    },
+    {
+      "added_at": "2023-05-19 14:03:50",
       "album": {
         "name": "JACKBOYS",
         "url": "https://open.spotify.com/album/1Sf8GsXG32t0jNrX11xqWx"
@@ -693,7 +693,7 @@
       "url": "https://open.spotify.com/track/40mjsnRjCpycdUw3xhS20g"
     },
     {
-      "added_at": "2023-03-09 21:54:21",
+      "added_at": "2023-05-19 14:03:50",
       "album": {
         "name": "Rise Of An Empire (Deluxe Edition)",
         "url": "https://open.spotify.com/album/0UwpSCPnNPksM1meQJnBAF"

@@ -1640,7 +1640,7 @@
       ],
       "date_added": "2022-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 212486,
       "name": "Seraphic",
       "url": "https://open.spotify.com/track/6hEVztDYBzkGSEIcebdjiK"
@@ -2170,6 +2170,24 @@
       "duration_ms": 200750,
       "name": "Water Shapes",
       "url": "https://open.spotify.com/track/2BXn2oEXL6XD2iXzuSzd0g"
+    },
+    {
+      "album": {
+        "name": "Beyond The Dark Clouds",
+        "url": "https://open.spotify.com/album/50riLI8PCz7iLWKgHFlOK7"
+      },
+      "artists": [
+        {
+          "name": "Xiliah Roth",
+          "url": "https://open.spotify.com/artist/47PP7w0Qi4HaeIQgWPEW25"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169800,
+      "name": "Weather The Storm",
+      "url": "https://open.spotify.com/track/36uWwpFlhgjgCdefgC1Irp"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Music to reduce insomnia and help you relax.
 
-354 songs - 17 hr 30 min
+356 songs - 17 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -75,6 +75,7 @@
 | [Cloud Gazing](https://open.spotify.com/track/5RA07TPFsjrAR9iDR0OiHC) | [Sleepy Clouds](https://open.spotify.com/artist/2VGcECsvRjugsMNJ2bVSsM) | [Floating Free](https://open.spotify.com/album/30KgVtVeomGLqbrmwF28kn) | 2:47 | 2023-03-10 |  |
 | [Cloudless](https://open.spotify.com/track/0tE8RGc0ctX2YjN5sOIiDS) | [Devi Rubio](https://open.spotify.com/artist/2EdSpaErGLHPup1znOQLUG) | [Cloudless](https://open.spotify.com/album/6VN9f0B6nSqzvulxsupGWV) | 3:44 | 2021-11-10 |  |
 | [Cloudology](https://open.spotify.com/track/6NGbBlz6b95e6zDDSDvf8J) | [Moomu](https://open.spotify.com/artist/2eZRi0tR0RmIwq6lx3TEZt) | [Aguatic](https://open.spotify.com/album/1WSU1HlUTsOoa051MqIP6u) | 3:07 | 2021-11-10 | 2023-01-14 |
+| [Colors Of Tomorrow](https://open.spotify.com/track/5UkYo3mcGKkkkp9aZmPW5b) | [Camilento](https://open.spotify.com/artist/4BekYfsPtsGwVk7Jda3NqR) | [Tranquilidad](https://open.spotify.com/album/06JP68CfOlaRpwdAoSpTXG) | 3:30 | 2023-05-19 |  |
 | [Colour Me](https://open.spotify.com/track/0uy2agXCETXM1UVxAwNAhl) | [South Noon](https://open.spotify.com/artist/0V4IA3EpmXCk58fcNVYFA6) | [My Armour](https://open.spotify.com/album/6cAAs8PhZKCoR8CplwW8HG) | 3:10 | 2023-03-30 |  |
 | [Compassion](https://open.spotify.com/track/2mejNtx8hB6M56m4hs0bAh) | [Arush Mandal](https://open.spotify.com/artist/5WSATrMjcuhKibg0jp4uHI) | [Rebirth](https://open.spotify.com/album/3sRTdzprJdgyAD4ZiCLAKV) | 3:32 | 2021-11-10 | 2023-02-18 |
 | [Confianza](https://open.spotify.com/track/5MN8kJAw4b4lgNlz1KO32M) | [Alegro Moya](https://open.spotify.com/artist/15YhDrOSaJa3ZoiwykoifX) | [Confianza](https://open.spotify.com/album/168r4UP4oBoygnv2Y47oLp) | 3:18 | 2022-09-30 |  |
@@ -172,6 +173,7 @@
 | [Inner Peace](https://open.spotify.com/track/7k59hF8Vc7Ob9HYO8fnbLF) | [Sabrina McGregor](https://open.spotify.com/artist/06r7F3mEYRJxjksrVsurYJ) | [Inner Peace](https://open.spotify.com/album/1UzLDrkqLbXxafCCog4pvF) | 2:59 | 2022-02-02 |  |
 | [Irenic Tone](https://open.spotify.com/track/7l6TgOi4LjuVMPOvSeHuyw) | [Siri Belle](https://open.spotify.com/artist/2xvYo3Aa78eMFyFgrkNgTq) | [Irenic Tone](https://open.spotify.com/album/5BkShagjCMM9xVAI1uWVWq) | 2:28 | 2021-11-10 |  |
 | [Jodoh](https://open.spotify.com/track/7vSyG4CYCYRTUMxluLaaYn) | [Indah Bethari](https://open.spotify.com/artist/6PEb2KuIsMYIR8DFdBL2al) | [Jodoh](https://open.spotify.com/album/2341t5Ei2xrOypmGtU53bx) | 2:06 | 2022-03-21 |  |
+| [juu](https://open.spotify.com/track/55nogKh6Ns5mO0PaEpZPrv) | [Echoes and Frequencies](https://open.spotify.com/artist/4GiTtneqRxV5TqUD5KjgeJ) | [juu](https://open.spotify.com/album/5pmfLhKpvk8KmNqA5ayiUq) | 3:21 | 2023-05-19 |  |
 | [Kalon Senses](https://open.spotify.com/track/4IpQ5t4mDLJ4U4RleDMrs0) | [Mindful Changes](https://open.spotify.com/artist/6WiU7IgtszyQMUqb4tOkdC) | [Kalon Senses](https://open.spotify.com/album/0Lz8iiwECM6TBOCdStDQDY) | 2:49 | 2021-11-10 |  |
 | [Karuna](https://open.spotify.com/track/2ju2Pcl8XLFZERPVsDBItG) | [Joseph Sai](https://open.spotify.com/artist/7tVx3YEKyoSaM7CcmlneBc) | [Karuna](https://open.spotify.com/album/18pYuIQyfxpeeqloiQtmXA) | 3:03 | 2021-11-10 | 2022-02-03 |
 | [Kvällshimmel](https://open.spotify.com/track/06dcHFDNhqqAscjqqRXBl5) | [Wenicia Lindh](https://open.spotify.com/artist/6YkAIhgTo3tAwl6LufTd5G) | [Kvällshimmel](https://open.spotify.com/album/0sCrKU7wZaIochmHFeqDXU) | 4:18 | 2021-11-10 |  |

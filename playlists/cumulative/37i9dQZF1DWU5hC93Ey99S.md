@@ -4,7 +4,7 @@
 
 > What in the stutter/rainy/tremolo house list did I just create??
 
-81 songs - 4 hr 30 min
+82 songs - 4 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,6 +36,7 @@
 | [Hollow](https://open.spotify.com/track/1mNxu2fyZJ8eND2WzddSIg) | [MAFRO](https://open.spotify.com/artist/2Y9v3pyVuYM0o8bSLAUUZm) | [Hollow](https://open.spotify.com/album/1zbkU3kuZLIZ0c4kYypI56) | 4:36 | 2023-04-13 | 2023-04-16 |
 | [I See Colors](https://open.spotify.com/track/6CfcDeHk4tzSmkd97HRvM3) | [Disco Lines](https://open.spotify.com/artist/5Kmr0b3ip8g9P2i0dLTC3Z), [Rain Radio](https://open.spotify.com/artist/2T8o1YNgbgsE41xb62AlRY) | [I See Colors](https://open.spotify.com/album/5uiaLZEuY2dKO91P5aFAoh) | 3:12 | 2023-04-13 |  |
 | [I Will](https://open.spotify.com/track/43z2fGPJgfnhOI8w6vofIa) | [Devault](https://open.spotify.com/artist/1VBAKMui4zm5MnBWNn3NbL) | [I Will / Beloved](https://open.spotify.com/album/6fMuOTyOG2V1gOA9qFo7d8) | 5:08 | 2023-04-13 |  |
+| [I'm All In](https://open.spotify.com/track/32sVl6OPnToHW3csfoVPWD) | [Babsy.](https://open.spotify.com/artist/1BjdCHWqVEwBktJLHOUhmk) | [I'm All In](https://open.spotify.com/album/4Ab2C4bPcDAVpAN0zqGNQe) | 2:59 | 2023-05-04 |  |
 | [Insomnia](https://open.spotify.com/track/3GE9ogfnPuuc2YkdCHsqHF) | [RudeLies](https://open.spotify.com/artist/7hf6L4LN1RTVN66IdBVpPr) | [Insomnia](https://open.spotify.com/album/6WYfJKnEghNhELzi7bhenR) | 3:06 | 2023-04-13 |  |
 | [Keep You As A Memory \- Disco Lines Remix](https://open.spotify.com/track/6DJw57OGSrunErUHTurP0K) | [33 Below](https://open.spotify.com/artist/4tMIsBBR8M0PsorDf0mNEz), [Disco Lines](https://open.spotify.com/artist/5Kmr0b3ip8g9P2i0dLTC3Z) | [Keep You As A Memory \(Disco Lines Remix\)](https://open.spotify.com/album/3KIo8fRmpODr82I90l3XcC) | 3:58 | 2023-05-11 |  |
 | [Kratos \(A Little Closer\)](https://open.spotify.com/track/021h2zyAxfFKcMK9k2inuN) | [Alxboiiz](https://open.spotify.com/artist/1aHTfmX9jDqFhqcrrInfuS) | [Kratos \(A Little Closer\)](https://open.spotify.com/album/4Mn27B3MXY9qeF21HTV2RY) | 2:30 | 2023-04-13 |  |
@@ -67,7 +68,7 @@
 | [Say It To Me](https://open.spotify.com/track/7t7ozrjWAqQPyvBZPoVbdQ) | [Otto Knows](https://open.spotify.com/artist/5fahUm8t5c0GIdeTq0ZaG8) | [Say It To Me](https://open.spotify.com/album/5Hmf5zuiJv54jvkureLeiW) | 4:02 | 2023-04-13 |  |
 | [say my name](https://open.spotify.com/track/2vJXLcot7FkfJ4uca2b1V4) | [heartaake](https://open.spotify.com/artist/57vkczkmC48439UWdL7oJa) | [say my name](https://open.spotify.com/album/5dMKkALzboXaoj3kFVE73n) | 2:38 | 2023-05-04 | 2023-05-17 |
 | [See You](https://open.spotify.com/track/5xHFQvcmStd8e53BgXChlD) | [Shallou](https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk) | [See You / Feel So Lonely](https://open.spotify.com/album/2zovU4jSBL8HL0SM0SnF5q) | 4:43 | 2023-04-13 |  |
-| [Silence In The Hollow](https://open.spotify.com/track/3NGe0uPXUFfutwKaskELsQ) | [John Dahlbäck](https://open.spotify.com/artist/15xvsJMf8phaNa1LYvL9Qv) | [Silence In The Hollow](https://open.spotify.com/album/6Vdy9cA047Y1a0AbDSQjGQ) | 3:24 | 2023-04-27 |  |
+| [Silence In The Hollow](https://open.spotify.com/track/3NGe0uPXUFfutwKaskELsQ) | [John Dahlbäck](https://open.spotify.com/artist/15xvsJMf8phaNa1LYvL9Qv) | [Silence In The Hollow](https://open.spotify.com/album/6Vdy9cA047Y1a0AbDSQjGQ) | 3:24 | 2023-04-27 | 2023-05-20 |
 | [So Long](https://open.spotify.com/track/0PFqyFI62E0nTjIcBdhHPD) | [Shallou](https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk), [Origami Human](https://open.spotify.com/artist/6vOoZCnNiawjGeViOSoY1t) | [There's Another Life 4 U / So Long](https://open.spotify.com/album/5VwbMyHjQ1hPcIHnEEvTKa) | 3:47 | 2023-04-13 |  |
 | [So Much In Love](https://open.spotify.com/track/7DnI3ktF2vcmzKuCCKseQL) | [D.O.D](https://open.spotify.com/artist/0Cs47vvRsPgEfliBU9KDiB) | [So Much In Love](https://open.spotify.com/album/7p0hUdHwZw2lN8PtRkVeiX) | 2:58 | 2023-04-20 |  |
 | [So Sweet](https://open.spotify.com/track/4Ehm5IVHbwkOHiS6kWHgbX) | [ATRIP](https://open.spotify.com/artist/4fu0Er7pG6kZZa7Awf3NMI) | [TANZPARTEI \(Mixtape\)](https://open.spotify.com/album/7hK3Or2cOHmkq9M5Di4cgE) | 3:27 | 2023-05-04 |  |

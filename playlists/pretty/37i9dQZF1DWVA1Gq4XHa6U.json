@@ -1,15 +1,111 @@
 {
   "description": "Taking it way back! Cover: 2pac",
-  "num_followers": 3459463,
+  "num_followers": 3461463,
   "original_name": "Gold School",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkOWY5ZGE5ZDY0YTA2NWI5MTQ5MzBiNWQ5MmNjODU4ZDU2MzYwOGUz",
+  "snapshot_id": "MCwyYjc3NTdjNGMwYjc3OTZlMTIyNmYzZjVhNmY2OTdiOTM5ZDI2YTM3",
   "tracks": [
     {
-      "added_at": "2023-05-12 04:00:00",
+      "added_at": "2023-05-19 04:01:00",
+      "album": {
+        "name": "It's Dark And Hell Is Hot",
+        "url": "https://open.spotify.com/album/2xIhksIizs6gWdRBYdiTLc"
+      },
+      "artists": [
+        {
+          "name": "DMX",
+          "url": "https://open.spotify.com/artist/1HwM5zlC5qNWhJtM00yXzG"
+        }
+      ],
+      "duration_ms": 214440,
+      "name": "Ruff Ryders' Anthem",
+      "url": "https://open.spotify.com/track/1BKT2I9x4RGKaKqW4up34s"
+    },
+    {
+      "added_at": "2023-05-19 04:01:00",
+      "album": {
+        "name": "All Eyez On Me",
+        "url": "https://open.spotify.com/album/78iX7tMceN0FsnmabAtlOC"
+      },
+      "artists": [
+        {
+          "name": "2Pac",
+          "url": "https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh"
+        }
+      ],
+      "duration_ms": 278386,
+      "name": "Ambitionz Az A Ridah",
+      "url": "https://open.spotify.com/track/5g9lS8deSIxItFBmZRC4vN"
+    },
+    {
+      "added_at": "2023-05-19 04:01:00",
+      "album": {
+        "name": "N.O.R.E",
+        "url": "https://open.spotify.com/album/1aFS9Pa88Gl3QH1gNNVyzR"
+      },
+      "artists": [
+        {
+          "name": "Noreaga",
+          "url": "https://open.spotify.com/artist/2GqgiChw79vIYobk2zJFsO"
+        }
+      ],
+      "duration_ms": 300360,
+      "name": "Superthug",
+      "url": "https://open.spotify.com/track/2FaZoB6xQohJKWmq8KlYke"
+    },
+    {
+      "added_at": "2023-05-19 04:01:00",
+      "album": {
+        "name": "Extinction Level Event: The Final World Front",
+        "url": "https://open.spotify.com/album/4zb4gmGzDYtlWMjmc1NZWW"
+      },
+      "artists": [
+        {
+          "name": "Busta Rhymes",
+          "url": "https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK"
+        }
+      ],
+      "duration_ms": 158466,
+      "name": "Gimme Some More",
+      "url": "https://open.spotify.com/track/47wZfF4OdME3xkIPhhpSSF"
+    },
+    {
+      "added_at": "2023-05-19 04:01:00",
+      "album": {
+        "name": "Get Rich Or Die Tryin'",
+        "url": "https://open.spotify.com/album/4ycNE7y1rp5215g1kkqk1P"
+      },
+      "artists": [
+        {
+          "name": "50 Cent",
+          "url": "https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh"
+        }
+      ],
+      "duration_ms": 193466,
+      "name": "In Da Club",
+      "url": "https://open.spotify.com/track/4RY96Asd9IefaL3X4LOLZ8"
+    },
+    {
+      "added_at": "2023-05-19 04:01:00",
+      "album": {
+        "name": "Ready to Die (The Remaster)",
+        "url": "https://open.spotify.com/album/2HTbQ0RHwukKVXAlTmCZP2"
+      },
+      "artists": [
+        {
+          "name": "The Notorious B.I.G.",
+          "url": "https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb"
+        }
+      ],
+      "duration_ms": 252746,
+      "name": "Big Poppa - 2005 Remaster",
+      "url": "https://open.spotify.com/track/2g8HN35AnVGIk7B8yMucww"
+    },
+    {
+      "added_at": "2023-05-19 04:01:00",
       "album": {
         "name": "Capital Punishment (Explicit Version)",
         "url": "https://open.spotify.com/album/3IIHk2ZLXKWuVAjCbQ9g4Y"
@@ -29,7 +125,7 @@
       "url": "https://open.spotify.com/track/3GKL13lkM5nRc4zC1lIOrR"
     },
     {
-      "added_at": "2023-05-12 04:00:00",
+      "added_at": "2023-05-19 04:01:00",
       "album": {
         "name": "Get Rich Or Die Tryin'",
         "url": "https://open.spotify.com/album/4ycNE7y1rp5215g1kkqk1P"
@@ -49,7 +145,7 @@
       "url": "https://open.spotify.com/track/41bIQPBE1lFN0mmw6Lmssz"
     },
     {
-      "added_at": "2023-05-12 04:00:00",
+      "added_at": "2023-05-19 04:01:00",
       "album": {
         "name": "The Chronic",
         "url": "https://open.spotify.com/album/2V5rhszUpCudPcb01zevOt"
@@ -69,7 +165,7 @@
       "url": "https://open.spotify.com/track/5Tbpp3OLLClPJF8t1DmrFD"
     },
     {
-      "added_at": "2023-05-12 04:00:00",
+      "added_at": "2023-05-19 04:01:00",
       "album": {
         "name": "The Predator",
         "url": "https://open.spotify.com/album/71HM1CMYWeZzws8pyiEn46"
@@ -85,103 +181,7 @@
       "url": "https://open.spotify.com/track/2qOm7ukLyHUXWyR4ZWLwxA"
     },
     {
-      "added_at": "2023-05-12 04:00:00",
-      "album": {
-        "name": "Ready to Die (The Remaster)",
-        "url": "https://open.spotify.com/album/2HTbQ0RHwukKVXAlTmCZP2"
-      },
-      "artists": [
-        {
-          "name": "The Notorious B.I.G.",
-          "url": "https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb"
-        }
-      ],
-      "duration_ms": 252746,
-      "name": "Big Poppa - 2005 Remaster",
-      "url": "https://open.spotify.com/track/2g8HN35AnVGIk7B8yMucww"
-    },
-    {
-      "added_at": "2023-05-12 04:00:00",
-      "album": {
-        "name": "All Eyez On Me",
-        "url": "https://open.spotify.com/album/78iX7tMceN0FsnmabAtlOC"
-      },
-      "artists": [
-        {
-          "name": "2Pac",
-          "url": "https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh"
-        }
-      ],
-      "duration_ms": 278386,
-      "name": "Ambitionz Az A Ridah",
-      "url": "https://open.spotify.com/track/5g9lS8deSIxItFBmZRC4vN"
-    },
-    {
-      "added_at": "2023-05-12 04:00:00",
-      "album": {
-        "name": "It's Dark And Hell Is Hot",
-        "url": "https://open.spotify.com/album/2xIhksIizs6gWdRBYdiTLc"
-      },
-      "artists": [
-        {
-          "name": "DMX",
-          "url": "https://open.spotify.com/artist/1HwM5zlC5qNWhJtM00yXzG"
-        }
-      ],
-      "duration_ms": 214440,
-      "name": "Ruff Ryders' Anthem",
-      "url": "https://open.spotify.com/track/1BKT2I9x4RGKaKqW4up34s"
-    },
-    {
-      "added_at": "2023-05-12 04:00:00",
-      "album": {
-        "name": "N.O.R.E",
-        "url": "https://open.spotify.com/album/1aFS9Pa88Gl3QH1gNNVyzR"
-      },
-      "artists": [
-        {
-          "name": "Noreaga",
-          "url": "https://open.spotify.com/artist/2GqgiChw79vIYobk2zJFsO"
-        }
-      ],
-      "duration_ms": 300360,
-      "name": "Superthug",
-      "url": "https://open.spotify.com/track/2FaZoB6xQohJKWmq8KlYke"
-    },
-    {
-      "added_at": "2023-05-12 04:00:00",
-      "album": {
-        "name": "Extinction Level Event: The Final World Front",
-        "url": "https://open.spotify.com/album/4zb4gmGzDYtlWMjmc1NZWW"
-      },
-      "artists": [
-        {
-          "name": "Busta Rhymes",
-          "url": "https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK"
-        }
-      ],
-      "duration_ms": 158466,
-      "name": "Gimme Some More",
-      "url": "https://open.spotify.com/track/47wZfF4OdME3xkIPhhpSSF"
-    },
-    {
-      "added_at": "2023-05-12 04:00:00",
-      "album": {
-        "name": "Get Rich Or Die Tryin'",
-        "url": "https://open.spotify.com/album/4ycNE7y1rp5215g1kkqk1P"
-      },
-      "artists": [
-        {
-          "name": "50 Cent",
-          "url": "https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh"
-        }
-      ],
-      "duration_ms": 193466,
-      "name": "In Da Club",
-      "url": "https://open.spotify.com/track/4RY96Asd9IefaL3X4LOLZ8"
-    },
-    {
-      "added_at": "2023-05-12 04:00:00",
+      "added_at": "2023-05-19 04:01:00",
       "album": {
         "name": "Doggystyle",
         "url": "https://open.spotify.com/album/5IFOummNcGXY3qCBWRchqP"
@@ -197,7 +197,7 @@
       "url": "https://open.spotify.com/track/0eO8MW9YSTK3CjdaTYKlhF"
     },
     {
-      "added_at": "2023-05-12 04:00:00",
+      "added_at": "2023-05-19 04:01:00",
       "album": {
         "name": "Conspiracy (PA)",
         "url": "https://open.spotify.com/album/02GVhWjMuoQBQUtNhjWsnG"
@@ -213,7 +213,7 @@
       "url": "https://open.spotify.com/track/53oWwSxPuyH2cjYKXH8fgO"
     },
     {
-      "added_at": "2023-05-12 04:00:00",
+      "added_at": "2023-05-19 04:01:00",
       "album": {
         "name": "Illmatic",
         "url": "https://open.spotify.com/album/3kEtdS2pH6hKcMU9Wioob1"
@@ -229,7 +229,7 @@
       "url": "https://open.spotify.com/track/2CPturRUlpvirYr7VpkXCV"
     },
     {
-      "added_at": "2023-05-12 04:00:00",
+      "added_at": "2023-05-19 04:01:00",
       "album": {
         "name": "Greatest Hits",
         "url": "https://open.spotify.com/album/1WBZyULtlANBKed7Zf9cDP"
@@ -253,7 +253,7 @@
       "url": "https://open.spotify.com/track/3ia3dJETSOllPsv3LJkE35"
     },
     {
-      "added_at": "2023-05-12 04:00:00",
+      "added_at": "2023-05-19 04:01:00",
       "album": {
         "name": "Black Reign",
         "url": "https://open.spotify.com/album/7fSY44jcjgt6jGzSQdZZjJ"
@@ -269,7 +269,7 @@
       "url": "https://open.spotify.com/track/4OxXBAN51tjVBEjSwuWWbv"
     },
     {
-      "added_at": "2023-05-12 04:00:00",
+      "added_at": "2023-05-19 04:01:00",
       "album": {
         "name": "Doggystyle",
         "url": "https://open.spotify.com/album/5IFOummNcGXY3qCBWRchqP"
@@ -297,7 +297,7 @@
       "url": "https://open.spotify.com/track/3g1mP8c79KbkWDhED5tyKZ"
     },
     {
-      "added_at": "2023-05-12 04:00:00",
+      "added_at": "2023-05-19 04:01:00",
       "album": {
         "name": "Strictly 4 My N.I.G.G.A.Z...",
         "url": "https://open.spotify.com/album/7FK1855C3n1Q0RKbmvl7ll"
@@ -317,7 +317,7 @@
       "url": "https://open.spotify.com/track/4voEoczU7Ijborps9XF1n3"
     },
     {
-      "added_at": "2023-05-12 04:00:00",
+      "added_at": "2023-05-19 04:01:00",
       "album": {
         "name": "A Wolf In Sheep's Clothing",
         "url": "https://open.spotify.com/album/4tIQR0m3PPwybQ32P256IO"
@@ -333,7 +333,7 @@
       "url": "https://open.spotify.com/track/4k9EkhkFZY8Bk41Qi0Ob7P"
     },
     {
-      "added_at": "2023-05-12 04:00:00",
+      "added_at": "2023-05-19 04:01:00",
       "album": {
         "name": "Art Official Intelligence: Mosaic Thump",
         "url": "https://open.spotify.com/album/4SdFt1Q5HSQIk4lxPgjaPM"
@@ -353,7 +353,7 @@
       "url": "https://open.spotify.com/track/0m1EDSjYlgZ3OQteqhP0XR"
     },
     {
-      "added_at": "2023-05-12 04:00:00",
+      "added_at": "2023-05-19 04:01:00",
       "album": {
         "name": "19NaughtyIII",
         "url": "https://open.spotify.com/album/1APlzmzWwXz3ElpmdWF5KA"
@@ -369,7 +369,7 @@
       "url": "https://open.spotify.com/track/1SyQ6t9RdRBK0QUCS6a797"
     },
     {
-      "added_at": "2023-05-12 04:00:00",
+      "added_at": "2023-05-19 04:01:00",
       "album": {
         "name": "The Blueprint 3",
         "url": "https://open.spotify.com/album/2CUT0104gySOIvqwtXeFsX"
@@ -393,7 +393,7 @@
       "url": "https://open.spotify.com/track/7LR85XLWw2yXqKBSI5brbG"
     },
     {
-      "added_at": "2023-05-12 04:00:00",
+      "added_at": "2023-05-19 04:01:00",
       "album": {
         "name": "Get Rich Or Die Tryin'",
         "url": "https://open.spotify.com/album/4ycNE7y1rp5215g1kkqk1P"
@@ -409,7 +409,7 @@
       "url": "https://open.spotify.com/track/2D1hlMwWWXpkc3CZJ5U351"
     },
     {
-      "added_at": "2023-05-12 04:00:00",
+      "added_at": "2023-05-19 04:01:00",
       "album": {
         "name": "Doggystyle",
         "url": "https://open.spotify.com/album/5IFOummNcGXY3qCBWRchqP"
@@ -425,7 +425,7 @@
       "url": "https://open.spotify.com/track/39QBkWKnap8wRSW4WB9OK0"
     },
     {
-      "added_at": "2023-05-12 04:00:00",
+      "added_at": "2023-05-19 04:01:00",
       "album": {
         "name": "Life After Death (2014 Remastered Edition)",
         "url": "https://open.spotify.com/album/7dRdaGSxgcBdJnrOviQRuB"
@@ -441,7 +441,7 @@
       "url": "https://open.spotify.com/track/7KwZNVEaqikRSBSpyhXK2j"
     },
     {
-      "added_at": "2023-05-12 04:00:00",
+      "added_at": "2023-05-19 04:01:00",
       "album": {
         "name": "La Bella Mafia",
         "url": "https://open.spotify.com/album/6UlNLXBFLqRDiKnyrF4oDE"
@@ -457,7 +457,7 @@
       "url": "https://open.spotify.com/track/6UZS3KgNc0NF13bbtQTzD6"
     },
     {
-      "added_at": "2023-05-12 04:00:00",
+      "added_at": "2023-05-19 04:01:00",
       "album": {
         "name": "ANUTHAFUNKDAFIEDTANTRUM",
         "url": "https://open.spotify.com/album/5LWxqzlSbXfA5M0lQn1AX0"
@@ -477,7 +477,7 @@
       "url": "https://open.spotify.com/track/3VXdEVTbT6SLTrOLEX7MCr"
     },
     {
-      "added_at": "2023-05-12 04:00:00",
+      "added_at": "2023-05-19 04:01:00",
       "album": {
         "name": "The Chronic",
         "url": "https://open.spotify.com/album/2V5rhszUpCudPcb01zevOt"
@@ -493,7 +493,7 @@
       "url": "https://open.spotify.com/track/21NA5Zggba7pyACm25h6k4"
     },
     {
-      "added_at": "2023-05-12 04:00:00",
+      "added_at": "2023-05-19 04:01:00",
       "album": {
         "name": "Bizarre Ride II The Pharcyde",
         "url": "https://open.spotify.com/album/48kU5gP41TqZEw32Cwhsna"
@@ -509,7 +509,7 @@
       "url": "https://open.spotify.com/track/4G3dZN9o3o2X4VKwt4CLts"
     },
     {
-      "added_at": "2023-05-12 04:00:00",
+      "added_at": "2023-05-19 04:01:00",
       "album": {
         "name": "93 'til Infinity",
         "url": "https://open.spotify.com/album/7aSjaEi3OQ2aZemcJDhMb1"
@@ -525,7 +525,7 @@
       "url": "https://open.spotify.com/track/0PV1TFUMTBrDETzW6KQulB"
     },
     {
-      "added_at": "2023-05-12 04:00:00",
+      "added_at": "2023-05-19 04:01:00",
       "album": {
         "name": "Moment Of Truth",
         "url": "https://open.spotify.com/album/5f6Nz2v1DESbpu1NerEql2"
@@ -541,7 +541,7 @@
       "url": "https://open.spotify.com/track/1EiLrPd8JMTcQUr1aLEUKi"
     },
     {
-      "added_at": "2023-05-12 04:00:00",
+      "added_at": "2023-05-19 04:01:00",
       "album": {
         "name": "Stakes Is High",
         "url": "https://open.spotify.com/album/0jIXYQfUtkvn1BYYUOBEmE"
@@ -557,7 +557,7 @@
       "url": "https://open.spotify.com/track/135z3i5CjKr3H4BCT4lGPg"
     },
     {
-      "added_at": "2023-05-12 04:00:00",
+      "added_at": "2023-05-19 04:01:00",
       "album": {
         "name": "The Chronic",
         "url": "https://open.spotify.com/album/2V5rhszUpCudPcb01zevOt"
@@ -577,7 +577,7 @@
       "url": "https://open.spotify.com/track/36yUCSB9OaMz0RMUQDOSpT"
     },
     {
-      "added_at": "2023-05-12 04:00:00",
+      "added_at": "2023-05-19 04:01:00",
       "album": {
         "name": "Watch The Throne (Deluxe)",
         "url": "https://open.spotify.com/album/2P2Xwvh2xWXIZ1OWY9S9o5"
@@ -597,7 +597,7 @@
       "url": "https://open.spotify.com/track/4Li2WHPkuyCdtmokzW2007"
     },
     {
-      "added_at": "2023-05-12 04:00:00",
+      "added_at": "2023-05-19 04:01:00",
       "album": {
         "name": "God's Son",
         "url": "https://open.spotify.com/album/3rV1aPkrWyMs6YTvTpSbIY"
@@ -613,7 +613,7 @@
       "url": "https://open.spotify.com/track/3qRPc4QpHGNwKFAzCdqwxA"
     },
     {
-      "added_at": "2023-05-12 04:00:00",
+      "added_at": "2023-05-19 04:01:00",
       "album": {
         "name": "Back For The First Time",
         "url": "https://open.spotify.com/album/2kT80DHqRtHQzDhQ2RCoIV"
@@ -633,7 +633,7 @@
       "url": "https://open.spotify.com/track/4LwOrnuxJwR7C5Sw4liY4Z"
     },
     {
-      "added_at": "2023-05-12 04:00:00",
+      "added_at": "2023-05-19 04:01:00",
       "album": {
         "name": "Gangsta's Paradise",
         "url": "https://open.spotify.com/album/0BJYNipGyMrw4ngKDJXzXZ"
@@ -653,7 +653,7 @@
       "url": "https://open.spotify.com/track/1DIXPcTDzTj8ZMHt3PDt8p"
     },
     {
-      "added_at": "2023-05-12 04:00:00",
+      "added_at": "2023-05-19 04:01:00",
       "album": {
         "name": "Terrorist Threats",
         "url": "https://open.spotify.com/album/2fsMp83A31t6nqp1TvV7OB"
@@ -669,7 +669,7 @@
       "url": "https://open.spotify.com/track/65iyI1iybyv5ecsfBHSdUf"
     },
     {
-      "added_at": "2023-05-12 04:00:00",
+      "added_at": "2023-05-19 04:01:00",
       "album": {
         "name": "I Wish",
         "url": "https://open.spotify.com/album/34hLOvajp6WQOGlt6CNLSA"
@@ -685,7 +685,7 @@
       "url": "https://open.spotify.com/track/3LklW07tvdx2AHsgfi1Mng"
     },
     {
-      "added_at": "2023-05-12 04:00:00",
+      "added_at": "2023-05-19 04:01:00",
       "album": {
         "name": "The Saga Continues...",
         "url": "https://open.spotify.com/album/28BrFxsnBMjN689hOuf1jv"
@@ -709,7 +709,7 @@
       "url": "https://open.spotify.com/track/2eOuL8KesslTLQERQPu11D"
     },
     {
-      "added_at": "2023-05-12 04:00:00",
+      "added_at": "2023-05-19 04:01:00",
       "album": {
         "name": "Come Home With Me",
         "url": "https://open.spotify.com/album/1lEkQcVvPwNZmkBIEJPSrv"
@@ -729,7 +729,7 @@
       "url": "https://open.spotify.com/track/4X1odWLrLSSahaK6Hi15AA"
     },
     {
-      "added_at": "2023-05-12 04:00:00",
+      "added_at": "2023-05-19 04:01:00",
       "album": {
         "name": "Life Story",
         "url": "https://open.spotify.com/album/1MSBtKtGF1VLBtSLgwcwKR"
@@ -745,7 +745,7 @@
       "url": "https://open.spotify.com/track/71u5SjnkSQgzIt1UzHchbi"
     },
     {
-      "added_at": "2023-05-12 04:00:00",
+      "added_at": "2023-05-19 04:01:00",
       "album": {
         "name": "ATLiens",
         "url": "https://open.spotify.com/album/1IaBCF26OjgYwUCEPaIyC0"
@@ -761,7 +761,7 @@
       "url": "https://open.spotify.com/track/2vfvGlqCB7oertO5VLE0sz"
     },
     {
-      "added_at": "2023-05-12 04:00:00",
+      "added_at": "2023-05-19 04:01:00",
       "album": {
         "name": "Street Dreams (Bonus Track)",
         "url": "https://open.spotify.com/album/46tIBaFs0Ov0HJsCDrq1Kl"
@@ -785,7 +785,7 @@
       "url": "https://open.spotify.com/track/6lrRIfQDcikJ5y5DtyZPuJ"
     },
     {
-      "added_at": "2023-05-12 04:00:00",
+      "added_at": "2023-05-19 04:01:00",
       "album": {
         "name": "R&G (Rhythm & Gangsta): The Masterpiece",
         "url": "https://open.spotify.com/album/797fkvAtk0iZvP1HHPCWbp"
@@ -805,7 +805,7 @@
       "url": "https://open.spotify.com/track/2NBQmPrOEEjA8VbeWOQGxO"
     },
     {
-      "added_at": "2023-05-12 04:00:00",
+      "added_at": "2023-05-19 04:01:00",
       "album": {
         "name": "Stankonia",
         "url": "https://open.spotify.com/album/2tm3Ht61kqqRZtIYsBjxEj"
@@ -821,7 +821,7 @@
       "url": "https://open.spotify.com/track/6glsMWIMIxQ4BedzLqGVi4"
     },
     {
-      "added_at": "2023-05-12 04:00:00",
+      "added_at": "2023-05-19 04:01:00",
       "album": {
         "name": "Black On Both Sides",
         "url": "https://open.spotify.com/album/5gK2l2LgWY0BA4p9uy27z6"
@@ -837,7 +837,7 @@
       "url": "https://open.spotify.com/track/0IVAlb0cFCH1cQ974iR1TU"
     },
     {
-      "added_at": "2023-05-12 04:00:00",
+      "added_at": "2023-05-19 04:01:00",
       "album": {
         "name": "Scorpion",
         "url": "https://open.spotify.com/album/6ZWL1xSTEvqs5A6dBh8vZw"
@@ -857,7 +857,7 @@
       "url": "https://open.spotify.com/track/3RmKpob8xzv1pzHEQrMJah"
     },
     {
-      "added_at": "2023-05-12 04:00:00",
+      "added_at": "2023-05-19 04:01:00",
       "album": {
         "name": "Bad Boy 20th Anniversary Box Set Edition",
         "url": "https://open.spotify.com/album/52TqKxbJkOBsbjKxlKgLwu"
@@ -881,7 +881,7 @@
       "url": "https://open.spotify.com/track/3WHBKG35UDuNFjPYe7K8FF"
     },
     {
-      "added_at": "2023-05-12 04:00:00",
+      "added_at": "2023-05-19 04:01:00",
       "album": {
         "name": "King",
         "url": "https://open.spotify.com/album/2X7s6Gt8Xz2qEwlw4GVcQo"
@@ -897,7 +897,7 @@
       "url": "https://open.spotify.com/track/0CAJdthKDdRjB2h8YOguN6"
     },
     {
-      "added_at": "2023-05-12 04:00:00",
+      "added_at": "2023-05-19 04:01:00",
       "album": {
         "name": "Who Is Mike Jones?",
         "url": "https://open.spotify.com/album/1YU3MPIMY9rZOE899khVj2"

@@ -1,12 +1,12 @@
 {
   "description": "\u5929\u7a7a\u7070\u7070\u7684\u3001\u5230\u8655\u6ebc\u6dcb\u6dcb\u7684\uff0c\u6211\u5011\u807d\u6b4c\u5c31\u597d\uff0c\u5148\u4e0d\u8981\u53bb\u611f\u89ba\u90a3\u4e9b\u4e8b\u3002",
-  "num_followers": 30382,
+  "num_followers": 30409,
   "original_name": "\u96e8\u4e2d\u65cb\u5f8b",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyYWIzOWFmZGZlZDYzNDUxMGFlNTk2ZjkwYzM1MTQ1Y2M4ODM3MmY4",
+  "snapshot_id": "MCxjODZlZWZmZmIxZmZmNzMyNjhiYzhkMGQyZGE3ODU1MGZlZDY4YTBm",
   "tracks": [
     {
       "added_at": "2023-01-10 03:20:54",
@@ -251,22 +251,6 @@
     {
       "added_at": "2023-01-10 03:20:54",
       "album": {
-        "name": "\u96e8\u4e0d\u505c\u3002\u6d41 (\u96fb\u8996\u5287\u300a\u7121\u795e\u4e4b\u5730\u4e0d\u4e0b\u96e8\u300b\u7247\u5c3e\u66f2)",
-        "url": "https://open.spotify.com/album/07RSNZskdcUd9hES3kDGgU"
-      },
-      "artists": [
-        {
-          "name": "Shi Shi",
-          "url": "https://open.spotify.com/artist/4XKp9GFAQfsh2NflSRnHQi"
-        }
-      ],
-      "duration_ms": 265935,
-      "name": "\u96e8\u4e0d\u505c\u3002\u6d41 - \u96fb\u8996\u5287\u300a\u7121\u795e\u4e4b\u5730\u4e0d\u4e0b\u96e8\u300b\u7247\u5c3e\u66f2",
-      "url": "https://open.spotify.com/track/6vS1IucniRN5dlIV9Zf3Ur"
-    },
-    {
-      "added_at": "2023-01-10 03:20:54",
-      "album": {
         "name": "\u521d\u5b78\u8005",
         "url": "https://open.spotify.com/album/4IlbFUwa4Fd5laEAD3H6lQ"
       },
@@ -279,6 +263,22 @@
       "duration_ms": 305262,
       "name": "\u4e0b\u96e8\u4e86",
       "url": "https://open.spotify.com/track/2WbV5lenncUu7VhZThGbjR"
+    },
+    {
+      "added_at": "2023-01-10 03:20:54",
+      "album": {
+        "name": "\u96e8\u4e0d\u505c\u3002\u6d41 (\u96fb\u8996\u5287\u300a\u7121\u795e\u4e4b\u5730\u4e0d\u4e0b\u96e8\u300b\u7247\u5c3e\u66f2)",
+        "url": "https://open.spotify.com/album/07RSNZskdcUd9hES3kDGgU"
+      },
+      "artists": [
+        {
+          "name": "Shi Shi",
+          "url": "https://open.spotify.com/artist/4XKp9GFAQfsh2NflSRnHQi"
+        }
+      ],
+      "duration_ms": 265935,
+      "name": "\u96e8\u4e0d\u505c\u3002\u6d41 - \u96fb\u8996\u5287\u300a\u7121\u795e\u4e4b\u5730\u4e0d\u4e0b\u96e8\u300b\u7247\u5c3e\u66f2",
+      "url": "https://open.spotify.com/track/6vS1IucniRN5dlIV9Zf3Ur"
     },
     {
       "added_at": "2023-01-10 03:20:54",
@@ -527,22 +527,6 @@
     {
       "added_at": "2023-01-10 03:20:54",
       "album": {
-        "name": "Deep Blue",
-        "url": "https://open.spotify.com/album/26VrL8GS1E84JuHQdVqaXQ"
-      },
-      "artists": [
-        {
-          "name": "Quarterback",
-          "url": "https://open.spotify.com/artist/0x1cerphBlEKCJL8Mqs6y3"
-        }
-      ],
-      "duration_ms": 309520,
-      "name": "\u96e8\u548c\u773c\u6dda",
-      "url": "https://open.spotify.com/track/3jpP2BqNA5eh8mtmcaTWet"
-    },
-    {
-      "added_at": "2023-01-10 03:20:54",
-      "album": {
         "name": "\u4e0b\u96e8\u7684\u665a\u4e0a",
         "url": "https://open.spotify.com/album/4zHBCvRy2ZJRmT25RCXAeS"
       },
@@ -555,6 +539,22 @@
       "duration_ms": 294729,
       "name": "\u4e0b\u96e8\u7684\u665a\u4e0a",
       "url": "https://open.spotify.com/track/65o7zOY79D5vqOJJNm1l3T"
+    },
+    {
+      "added_at": "2023-01-10 03:20:54",
+      "album": {
+        "name": "Deep Blue",
+        "url": "https://open.spotify.com/album/26VrL8GS1E84JuHQdVqaXQ"
+      },
+      "artists": [
+        {
+          "name": "Quarterback",
+          "url": "https://open.spotify.com/artist/0x1cerphBlEKCJL8Mqs6y3"
+        }
+      ],
+      "duration_ms": 309520,
+      "name": "\u96e8\u548c\u773c\u6dda",
+      "url": "https://open.spotify.com/track/3jpP2BqNA5eh8mtmcaTWet"
     },
     {
       "added_at": "2023-01-10 03:20:54",
@@ -639,22 +639,6 @@
     {
       "added_at": "2023-01-10 03:20:54",
       "album": {
-        "name": "\u6642\u9593\u7684\u6b4c",
-        "url": "https://open.spotify.com/album/1PwlSiulaL511Us6sayLeO"
-      },
-      "artists": [
-        {
-          "name": "Cheer Chen",
-          "url": "https://open.spotify.com/artist/4m0xrEWYU0yCUFMaga015T"
-        }
-      ],
-      "duration_ms": 289524,
-      "name": "\u96e8\u6c34\u4e00\u76d2",
-      "url": "https://open.spotify.com/track/3AQfK1Kx03oPmFoKoVMJJE"
-    },
-    {
-      "added_at": "2023-01-10 03:20:54",
-      "album": {
         "name": "\u85cd\u8272\u96e8",
         "url": "https://open.spotify.com/album/0rxL1PxAXQ5bG4ay0V1viU"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 295480,
       "name": "\u85cd\u8272\u96e8",
       "url": "https://open.spotify.com/track/7nS59WO3gYTDOMM0l4p6sf"
+    },
+    {
+      "added_at": "2023-01-10 03:20:54",
+      "album": {
+        "name": "\u6642\u9593\u7684\u6b4c",
+        "url": "https://open.spotify.com/album/1PwlSiulaL511Us6sayLeO"
+      },
+      "artists": [
+        {
+          "name": "Cheer Chen",
+          "url": "https://open.spotify.com/artist/4m0xrEWYU0yCUFMaga015T"
+        }
+      ],
+      "duration_ms": 289524,
+      "name": "\u96e8\u6c34\u4e00\u76d2",
+      "url": "https://open.spotify.com/track/3AQfK1Kx03oPmFoKoVMJJE"
     },
     {
       "added_at": "2023-01-10 03:20:54",
@@ -1027,22 +1027,6 @@
     {
       "added_at": "2023-01-10 03:20:54",
       "album": {
-        "name": "Everything",
-        "url": "https://open.spotify.com/album/1rE6znC1DlxxgHUyqsDLYe"
-      },
-      "artists": [
-        {
-          "name": "\u5c0f\u7537\u5b69\u6a02\u5718",
-          "url": "https://open.spotify.com/artist/4N9mUjAWoNCkLN0kCxzaL5"
-        }
-      ],
-      "duration_ms": 250000,
-      "name": "\u6700\u611b\u96e8\u5929",
-      "url": "https://open.spotify.com/track/3yUnqU8SLFOdraGY5lCueD"
-    },
-    {
-      "added_at": "2023-01-10 03:20:54",
-      "album": {
         "name": "\u4eba\u5728\u98a8\u96e8\u4e2d",
         "url": "https://open.spotify.com/album/0K3iozUW87nXOIRQAxOSHU"
       },
@@ -1055,6 +1039,22 @@
       "duration_ms": 265760,
       "name": "\u4eba\u5728\u98a8\u96e8\u4e2d",
       "url": "https://open.spotify.com/track/4w1ios6mGj4BEadg1jSiCL"
+    },
+    {
+      "added_at": "2023-01-10 03:20:54",
+      "album": {
+        "name": "Everything",
+        "url": "https://open.spotify.com/album/1rE6znC1DlxxgHUyqsDLYe"
+      },
+      "artists": [
+        {
+          "name": "\u5c0f\u7537\u5b69\u6a02\u5718",
+          "url": "https://open.spotify.com/artist/4N9mUjAWoNCkLN0kCxzaL5"
+        }
+      ],
+      "duration_ms": 250000,
+      "name": "\u6700\u611b\u96e8\u5929",
+      "url": "https://open.spotify.com/track/3yUnqU8SLFOdraGY5lCueD"
     },
     {
       "added_at": "2023-01-10 03:20:54",
@@ -1187,22 +1187,6 @@
     {
       "added_at": "2023-01-10 03:20:54",
       "album": {
-        "name": "\u62fe",
-        "url": "https://open.spotify.com/album/5AgltDdpS6cBwYNsctFypI"
-      },
-      "artists": [
-        {
-          "name": "Hu Xia",
-          "url": "https://open.spotify.com/artist/3iRqbMhzyOyoCkmmMRxLWR"
-        }
-      ],
-      "duration_ms": 249612,
-      "name": "\u7b49\u96e8",
-      "url": "https://open.spotify.com/track/6ZFbVCOCfticaZjBQ0dLDA"
-    },
-    {
-      "added_at": "2023-01-10 03:20:54",
-      "album": {
         "name": "\u96e8\u4f60",
         "url": "https://open.spotify.com/album/15kyCeWOWRYoO49SUu5SmC"
       },
@@ -1219,6 +1203,22 @@
       "duration_ms": 183092,
       "name": "\u96e8\u4f60",
       "url": "https://open.spotify.com/track/49Wr8GLOfs9lviBkR9rbQH"
+    },
+    {
+      "added_at": "2023-01-10 03:20:54",
+      "album": {
+        "name": "\u62fe",
+        "url": "https://open.spotify.com/album/5AgltDdpS6cBwYNsctFypI"
+      },
+      "artists": [
+        {
+          "name": "Hu Xia",
+          "url": "https://open.spotify.com/artist/3iRqbMhzyOyoCkmmMRxLWR"
+        }
+      ],
+      "duration_ms": 249612,
+      "name": "\u7b49\u96e8",
+      "url": "https://open.spotify.com/track/6ZFbVCOCfticaZjBQ0dLDA"
     }
   ],
   "unique_name": "\u96e8\u4e2d\u65cb\u5f8b",

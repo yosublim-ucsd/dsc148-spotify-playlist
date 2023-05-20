@@ -1,12 +1,12 @@
 {
   "description": "\uc5f0\uc778\uc5d0\uac8c \uc804\ud558\ub294 \ub178\ub7ab\ub9d0\uacfc \ub2ec\ub2ec\ud55c \uc2dc\uac04\uc744 \ud568\uaed8\ud558\uc138\uc694.",
-  "num_followers": 11502,
+  "num_followers": 11515,
   "original_name": "\uc0ac\ub791\ud558\ub294 \ub108\uc5d0\uac8c.",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhOGUzZTgxZmNjNWViYjNkNzBhYjE0ODYzNTEyNDZlNWVjNWZjZTAw",
+  "snapshot_id": "MCw0M2ExMWM5M2ExZGQ0N2FmN2EyNDE0OTEzMjg2NDQxY2MxN2JjNWEy",
   "tracks": [
     {
       "added_at": "2023-05-05 08:18:19",
@@ -231,22 +231,6 @@
     {
       "added_at": "2023-05-05 08:18:19",
       "album": {
-        "name": "Errr Day",
-        "url": "https://open.spotify.com/album/7uoPw6yndoEeatuxKzacnK"
-      },
-      "artists": [
-        {
-          "name": "Youngjae",
-          "url": "https://open.spotify.com/artist/5qUAtC3NwSLYme4JqjlGfQ"
-        }
-      ],
-      "duration_ms": 204533,
-      "name": "Errr Day",
-      "url": "https://open.spotify.com/track/6q1tSNXzxeexSAXwp0dCiG"
-    },
-    {
-      "added_at": "2023-05-05 08:18:19",
-      "album": {
         "name": "Moonlight",
         "url": "https://open.spotify.com/album/46uEItiUj8dJavY8Jw3fye"
       },
@@ -275,6 +259,22 @@
       "duration_ms": 257752,
       "name": "Where the sea sleeps",
       "url": "https://open.spotify.com/track/5eiCYAQ7K7pob2Ev9nfBXO"
+    },
+    {
+      "added_at": "2023-05-05 08:18:19",
+      "album": {
+        "name": "Errr Day",
+        "url": "https://open.spotify.com/album/7uoPw6yndoEeatuxKzacnK"
+      },
+      "artists": [
+        {
+          "name": "Youngjae",
+          "url": "https://open.spotify.com/artist/5qUAtC3NwSLYme4JqjlGfQ"
+        }
+      ],
+      "duration_ms": 204533,
+      "name": "Errr Day",
+      "url": "https://open.spotify.com/track/6q1tSNXzxeexSAXwp0dCiG"
     },
     {
       "added_at": "2023-05-05 08:18:19",
@@ -755,22 +755,6 @@
     {
       "added_at": "2023-05-05 08:18:19",
       "album": {
-        "name": "Crash Course in Romance OST Part 4",
-        "url": "https://open.spotify.com/album/460aXMPaEyerh9lPpwsxCn"
-      },
-      "artists": [
-        {
-          "name": "GIRIBOY",
-          "url": "https://open.spotify.com/artist/2MtHuR0W2idZdF7x4wddqq"
-        }
-      ],
-      "duration_ms": 172361,
-      "name": "At Night",
-      "url": "https://open.spotify.com/track/4BiLpvhNDqeRPo065ZMCqB"
-    },
-    {
-      "added_at": "2023-05-05 08:18:19",
-      "album": {
         "name": "Webtoon YEONNOM OST Part.1",
         "url": "https://open.spotify.com/album/0hfgDbKZz3shzq7fwgRYBv"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 220996,
       "name": "Take My Hand",
       "url": "https://open.spotify.com/track/6YBfa6iDpybEPDcQsPi9D2"
+    },
+    {
+      "added_at": "2023-05-05 08:18:19",
+      "album": {
+        "name": "Crash Course in Romance OST Part 4",
+        "url": "https://open.spotify.com/album/460aXMPaEyerh9lPpwsxCn"
+      },
+      "artists": [
+        {
+          "name": "GIRIBOY",
+          "url": "https://open.spotify.com/artist/2MtHuR0W2idZdF7x4wddqq"
+        }
+      ],
+      "duration_ms": 172361,
+      "name": "At Night",
+      "url": "https://open.spotify.com/track/4BiLpvhNDqeRPo065ZMCqB"
     },
     {
       "added_at": "2023-05-05 08:18:19",
@@ -967,22 +967,6 @@
     {
       "added_at": "2023-05-05 08:18:19",
       "album": {
-        "name": "Delivery Man, Pt. 2 (Original Soundtrack)",
-        "url": "https://open.spotify.com/album/6nGoz0SzaiNs00WUBuxysF"
-      },
-      "artists": [
-        {
-          "name": "KyoungSeo",
-          "url": "https://open.spotify.com/artist/4rxWm4OrS8IRQ3YxDUwnJA"
-        }
-      ],
-      "duration_ms": 164861,
-      "name": "Dream about You",
-      "url": "https://open.spotify.com/track/4bctbXea9zAHvdHrA41DXD"
-    },
-    {
-      "added_at": "2023-05-05 08:18:19",
-      "album": {
         "name": "Rewind",
         "url": "https://open.spotify.com/album/1JyUU9Ikh2GztSvChAYYdJ"
       },
@@ -995,6 +979,22 @@
       "duration_ms": 197813,
       "name": "Like a dream",
       "url": "https://open.spotify.com/track/1ujBbnWWiqowa6zKgCxlzV"
+    },
+    {
+      "added_at": "2023-05-05 08:18:19",
+      "album": {
+        "name": "Delivery Man, Pt. 2 (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/6nGoz0SzaiNs00WUBuxysF"
+      },
+      "artists": [
+        {
+          "name": "KyoungSeo",
+          "url": "https://open.spotify.com/artist/4rxWm4OrS8IRQ3YxDUwnJA"
+        }
+      ],
+      "duration_ms": 164861,
+      "name": "Dream about You",
+      "url": "https://open.spotify.com/track/4bctbXea9zAHvdHrA41DXD"
     },
     {
       "added_at": "2023-05-05 08:18:19",

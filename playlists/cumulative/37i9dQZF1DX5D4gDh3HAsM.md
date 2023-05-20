@@ -4,7 +4,7 @@
 
 > Jazzy takes on your favorite Holiday songs\. Cover: Samara Joy
 
-110 songs - 6 hr 32 min
+111 songs - 6 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -101,7 +101,8 @@
 | [The Christmas Waltz](https://open.spotify.com/track/7J0cerYwEoX1inloapkWBz) | [Leslie Odom Jr.](https://open.spotify.com/artist/3cR4rhS2hBWqI7rJEBacvN) | [Simply Christmas \(Deluxe Edition\)](https://open.spotify.com/album/3nMeVjYypmshXLIWEcrvGN) | 3:02 | 2021-11-12 |  |
 | [The Little Drummer Boy \(feat\. Bill Huntington & Jason Marsalis\)](https://open.spotify.com/track/2ApiBIDqdv5kBukv666Qhf) | [Ellis Marsalis](https://open.spotify.com/artist/6gMW76a7vmuyUuAivTjFGj), [Jason Marsalis](https://open.spotify.com/artist/3kZyLijv2b47kwz0qoRpT6), [Bill Huntington](https://open.spotify.com/artist/6ehjcjYM2hcJO4xLHgv2yU) | [A New Orleans Christmas Carol \(Deluxe Edition\)](https://open.spotify.com/album/5ts9XnU0lMg6SpiCelP0ba) | 4:16 | 2021-11-12 | 2022-08-17 |
 | [The Little Things](https://open.spotify.com/track/4pm8h9i0YmRJWnh5r3NQNi) | [Jeremy Lister](https://open.spotify.com/artist/5ChUwGNEwjVk3L7Wa7nmvJ) | [The Little Things](https://open.spotify.com/album/2yRGqj43VfvB2LuLOzhi7t) | 3:43 | 2021-11-12 | 2022-07-29 |
-| [The Little Things](https://open.spotify.com/track/5iSVLB0MDNoeXXfi5hs9T8) | [Jeremy Lister](https://open.spotify.com/artist/5ChUwGNEwjVk3L7Wa7nmvJ) | [Happy Holidays, Everyone](https://open.spotify.com/album/1zBD9yzF3OzQExEKxMeuOh) | 3:43 | 2021-11-12 |  |
+| [The Little Things](https://open.spotify.com/track/5iSVLB0MDNoeXXfi5hs9T8) | [Jeremy Lister](https://open.spotify.com/artist/5ChUwGNEwjVk3L7Wa7nmvJ) | [Happy Holidays, Everyone](https://open.spotify.com/album/1zBD9yzF3OzQExEKxMeuOh) | 3:43 | 2021-11-12 | 2023-05-20 |
+| [To Us Is Given](https://open.spotify.com/track/4425vuUQ6AXiaEtDfyFH4x) | [Dave Brubeck](https://open.spotify.com/artist/3kUKwTJdH8FuWzF8p6Dg9E) | [A Dave Brubeck Christmas](https://open.spotify.com/album/13Xwxp8icIpeRQhwdN7crn) | 3:32 | 2021-11-12 |  |
 | [To Us Is Given](https://open.spotify.com/track/7n76J43bOv8dO4MXCbv4Zt) | [Dave Brubeck](https://open.spotify.com/artist/3kUKwTJdH8FuWzF8p6Dg9E) | [A Dave Brubeck Christmas](https://open.spotify.com/album/3o9PGsBVheCPDj61Qv8wI9) | 3:32 | 2021-11-12 | 2023-04-21 |
 | [Warm In December](https://open.spotify.com/track/4iZUPqpbdr4cI8OOzlKKqR) | [Samara Joy](https://open.spotify.com/artist/5LkbTSqXfMBjFSGi9LOGjq) | [Warm In December](https://open.spotify.com/album/5RYN71suwnCCydI7oVfVYM) | 2:41 | 2022-11-18 |  |
 | [We Wish You The Merriest](https://open.spotify.com/track/79UsQi6S6mcs73tNdO0O1q) | [John Tesh](https://open.spotify.com/artist/59B2CHEMh1to8diq0jB92r) | [Big Band Christmas](https://open.spotify.com/album/41Rq8l64ZLBJRPWpHZU4nm) | 2:13 | 2021-11-12 | 2022-07-28 |

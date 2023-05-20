@@ -3641,6 +3641,24 @@
     },
     {
       "album": {
+        "name": "CATWALK",
+        "url": "https://open.spotify.com/album/0G2HYdfhqWeyuigwQdObeX"
+      },
+      "artists": [
+        {
+          "name": "C.Gambino",
+          "url": "https://open.spotify.com/artist/6eWjyO1r0QlvsIuIIcgGxI"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121846,
+      "name": "CATWALK",
+      "url": "https://open.spotify.com/track/5YoHjWEXKCkJbRcvs8846Y"
+    },
+    {
+      "album": {
         "name": "Cette",
         "url": "https://open.spotify.com/album/4btMWCWwDIcAFepciyJvxG"
       },
@@ -18224,7 +18242,7 @@
       ],
       "date_added": "2023-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 166949,
       "name": "Vad Du Vill",
       "url": "https://open.spotify.com/track/0AOYvRGNSt8uJOUEA2VAYB"

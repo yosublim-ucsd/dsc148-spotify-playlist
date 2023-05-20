@@ -4,7 +4,7 @@
 
 > Gotta catch 'em all.
 
-352 songs - 21 hr 56 min
+353 songs - 21 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -133,6 +133,7 @@
 | [Houses of American Style](https://open.spotify.com/track/5Kky5Fr02ofJwTnQCgzBFl) | [PÆRISH](https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL) | [Houses of American Style](https://open.spotify.com/album/4fVSfJltN2th0XhpMcgx0O) | 4:04 | 2023-05-11 |  |
 | [Hunstanton Pier](https://open.spotify.com/track/2y0rF0qJm5dHpdQbmufS0Q) | [Deaf Havana](https://open.spotify.com/artist/0exhrQcReCdr11oPbOh22M) | [Fools and Worthless Liars \(Deluxe Edition\)](https://open.spotify.com/album/6hwf5oAm91GFtMGnuJ3l4I) | 4:49 | 2022-06-23 | 2023-05-18 |
 | [Hunstanton Pier](https://open.spotify.com/track/4ZaElTq1ZqcaHdeA2eoP2E) | [Deaf Havana](https://open.spotify.com/artist/0exhrQcReCdr11oPbOh22M) | [Fools and Worthless Liars](https://open.spotify.com/album/4ei0RkOn29dn174wallj5w) | 4:49 | 2022-04-15 | 2022-04-21 |
+| [Husk](https://open.spotify.com/track/2rXCIP7vZhcKnARrSnwCD7) | [Black Foxxes](https://open.spotify.com/artist/0rkzatSSd1Dh41phOf4qFT) | [I'm Not Well](https://open.spotify.com/album/3CHP5LUOP2kjAGctsTD2YN) | 2:38 | 2023-05-15 |  |
 | [Husk](https://open.spotify.com/track/4J7GZ0QWuLsbL94nNZyn7S) | [Black Foxxes](https://open.spotify.com/artist/0rkzatSSd1Dh41phOf4qFT) | [I'm Not Well](https://open.spotify.com/album/39GHKYD9zdoF78P1Ms0xgB) | 2:38 | 2021-12-15 | 2023-05-05 |
 | [I Can Climb Mountains](https://open.spotify.com/track/309VjyrEiYNIa30wxtNuaW) | [Hell Is For Heroes](https://open.spotify.com/artist/1vrwXqSGdLsWtvIev4H0WH) | [Punk Rock Hits](https://open.spotify.com/album/3I1bTwWBzBjX6lxP3wOKd1) | 3:20 | 2022-09-21 | 2022-10-12 |
 | [I Can Climb Mountains](https://open.spotify.com/track/4NkZvpAbIbZhfpk47Yc4xy) | [Hell Is For Heroes](https://open.spotify.com/artist/1vrwXqSGdLsWtvIev4H0WH) | [Modern Rock Anthems](https://open.spotify.com/album/2OeX0IugJ6gbuGA0v2u1fG) | 3:20 | 2022-12-29 | 2023-01-26 |
@@ -204,7 +205,7 @@
 | [My Heart](https://open.spotify.com/track/79P7jTFo4tvUDG8PbICO6b) | [Twin Wild](https://open.spotify.com/artist/5k8vZsGwQ2AlHNfsne055D) | [My Heart](https://open.spotify.com/album/0jd5yRLuxLK5njzgpsnzxq) | 3:47 | 2022-10-11 | 2022-11-03 |
 | [My Name Is Trouble](https://open.spotify.com/track/3YZUBdCdqP8lL9nH82pWKM) | [Nightmare Of You](https://open.spotify.com/artist/6k0ji2eoZH49ysnY3IgLWc) | [Nightmare of You](https://open.spotify.com/album/44sKToWaRjNlnYY5PggLXD) | 4:00 | 2022-01-11 | 2022-12-20 |
 | [Narrow](https://open.spotify.com/track/4ofBUvD4rrcEbDq7d8VTvv) | [Chokebore](https://open.spotify.com/artist/5BiMbLBGVfPD3SG12obiNj) | [A Taste For Bitters](https://open.spotify.com/album/2WJMvI72kgyx7hex8MogVQ) | 2:43 | 2022-02-02 | 2022-07-17 |
-| [Narrow Mouth](https://open.spotify.com/track/2iyoZuHyuaaBGmLbl6eIEY) | [The Early November](https://open.spotify.com/artist/2rxtSTPBJawYhQAXIpgEAi) | [Imbue](https://open.spotify.com/album/6NnNzBbQKK59S2x6KJzQjI) | 4:30 | 2021-12-15 |  |
+| [Narrow Mouth](https://open.spotify.com/track/2iyoZuHyuaaBGmLbl6eIEY) | [The Early November](https://open.spotify.com/artist/2rxtSTPBJawYhQAXIpgEAi) | [Imbue](https://open.spotify.com/album/6NnNzBbQKK59S2x6KJzQjI) | 4:30 | 2021-12-15 | 2023-05-20 |
 | [Near](https://open.spotify.com/track/4sy4XhaARpaQ1GmHbuoKec) | [Mascara](https://open.spotify.com/artist/1mmu7aIqCo989QSVk0lvHm) | [Near](https://open.spotify.com/album/2iWnS0S4Yi16kehnILCcML) | 4:56 | 2021-12-15 | 2022-04-16 |
 | [Needles](https://open.spotify.com/track/6try2MFpWKn55HnMNS7vZz) | [Handsome](https://open.spotify.com/artist/3HAILRXvRhFoBrlYv8be3V) | [Handsome](https://open.spotify.com/album/4Erk4K1hOnmQbfamo4xgid) | 3:12 | 2021-12-15 | 2023-01-26 |
 | [Neon Brother](https://open.spotify.com/track/3onvqHzdPZXZrPo5GfLqGE) | [Nothing But Thieves](https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp) | [Nothing But Thieves \(Deluxe\)](https://open.spotify.com/album/3q4BkDV5B7sczFcfrIl2a2) | 3:55 | 2021-12-15 |  |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-10",
-  "description": "Your go-to playlist for this week's hottest music featuring Harry Styles, Diplo &amp; more!",
+  "description": "Your go-to playlist for this week's hottest music featuring Miley Cyrus, Harry Styles &amp; more!",
   "name": "Columbia Records: Weekly Mix",
   "tracks": [
     {
@@ -284,7 +284,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 170830,
       "name": "A Year Ago",
       "url": "https://open.spotify.com/track/3DBJE1Zndql25OGUQSv7aD"
@@ -529,6 +529,24 @@
     },
     {
       "album": {
+        "name": "Backstreets and Basic Bitches",
+        "url": "https://open.spotify.com/album/4BMKBdAcX7MX37KaGw2SkY"
+      },
+      "artists": [
+        {
+          "name": "Swavy",
+          "url": "https://open.spotify.com/artist/6CHTgEfOTvm5flR5Cpzw0I"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150743,
+      "name": "Backstreets",
+      "url": "https://open.spotify.com/track/5qrnsLx9U0r1YlJ1pHsBKI"
+    },
+    {
+      "album": {
         "name": "Bad Idea",
         "url": "https://open.spotify.com/album/7toU4cKKa2d6AVUjrappDo"
       },
@@ -638,6 +656,24 @@
       "duration_ms": 157260,
       "name": "Bet My Heart",
       "url": "https://open.spotify.com/track/5qCCTO7ZO8Po5PRn63Tyt9"
+    },
+    {
+      "album": {
+        "name": "Better Off Dead",
+        "url": "https://open.spotify.com/album/0ZpIZXMHRMBgNSlfseBb8q"
+      },
+      "artists": [
+        {
+          "name": "Sha Gz",
+          "url": "https://open.spotify.com/artist/5cZA9NpcHyvZjWldBitrR2"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 109369,
+      "name": "Better Off Dead",
+      "url": "https://open.spotify.com/track/08PwP3QCyqPRUn2D7Di8Ep"
     },
     {
       "album": {
@@ -1203,6 +1239,24 @@
     },
     {
       "album": {
+        "name": "chameleon",
+        "url": "https://open.spotify.com/album/7Drvc4ohRwLyFin2nSU0Wf"
+      },
+      "artists": [
+        {
+          "name": "Alana Springsteen",
+          "url": "https://open.spotify.com/artist/4TPT9nwjRvEV49q7f8p4fy"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204000,
+      "name": "chameleon",
+      "url": "https://open.spotify.com/track/1fujrwMRwVn664MIWWC9XO"
+    },
+    {
+      "album": {
         "name": "Change It Up",
         "url": "https://open.spotify.com/album/59PweyNH7fQflr5bckoKOk"
       },
@@ -1250,7 +1304,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 199586,
       "name": "Chasin' a Feeling",
       "url": "https://open.spotify.com/track/1P3Ymylx917eE0uTuvPtbD"
@@ -1458,6 +1512,24 @@
       "duration_ms": 129729,
       "name": "COOK UP",
       "url": "https://open.spotify.com/track/2yUAogxEgxEHBGG3zw57x9"
+    },
+    {
+      "album": {
+        "name": "Excuse The Mess",
+        "url": "https://open.spotify.com/album/16GDL2iCmBKN5tmf3pbiZ7"
+      },
+      "artists": [
+        {
+          "name": "Ella Langley",
+          "url": "https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205480,
+      "name": "Could've Been Her",
+      "url": "https://open.spotify.com/track/1I8EAskXPELoy0q3EkErsg"
     },
     {
       "album": {
@@ -2460,7 +2532,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 219000,
       "name": "Fictional (Stripped)",
       "url": "https://open.spotify.com/track/2bg63zi9fRhlrb0JVzeT4E"
@@ -2651,6 +2723,24 @@
     },
     {
       "album": {
+        "name": "Francesca",
+        "url": "https://open.spotify.com/album/2GS1K0RZ5SjtuT8bsX0xyv"
+      },
+      "artists": [
+        {
+          "name": "Hozier",
+          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270066,
+      "name": "Francesca",
+      "url": "https://open.spotify.com/track/4LmOmWpjCQbC1VZvUuwPQu"
+    },
+    {
+      "album": {
         "name": "HARD",
         "url": "https://open.spotify.com/album/4Z49iUB2QmUAvMPIss85vb"
       },
@@ -2720,7 +2810,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 264611,
       "name": "Fuentes De Ortiz",
       "url": "https://open.spotify.com/track/5iowYLJF9ptF6uLsA4pAAd"
@@ -3004,7 +3094,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 189955,
       "name": "Hallelujah",
       "url": "https://open.spotify.com/track/1nLZY9rmmi5l9TgYjv0mQm"
@@ -3504,7 +3594,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 180778,
       "name": "I should call my mom",
       "url": "https://open.spotify.com/track/3eLf5darT8r7GIeEmgwAaQ"
@@ -3826,7 +3916,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-18",
+      "date_removed": null,
       "duration_ms": 185933,
       "name": "Jaded",
       "url": "https://open.spotify.com/track/3AAY8YicetRPlDAkibHLiS"
@@ -3884,7 +3974,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 170083,
       "name": "KANEKI",
       "url": "https://open.spotify.com/track/2NfDnbVctB1aPkTkqFFhky"
@@ -4680,7 +4770,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 182307,
       "name": "Miracle (with Ellie Goulding) - David Guetta Remix",
       "url": "https://open.spotify.com/track/4RFlvg9BmFnvlIBIZGg1Dt"
@@ -5140,7 +5230,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 79488,
       "name": "No Problems",
       "url": "https://open.spotify.com/track/4D2vt3fDELk1gNQpUGucZ1"
@@ -5162,6 +5252,24 @@
       "duration_ms": 164135,
       "name": "No Se Puede Decir Adi\u00f3s",
       "url": "https://open.spotify.com/track/1B9Y0b1XIyw6jci2C7oTJc"
+    },
+    {
+      "album": {
+        "name": "Sorry 4 The Wait...",
+        "url": "https://open.spotify.com/album/1HBvyOsrKAiw0RfzfTRBL7"
+      },
+      "artists": [
+        {
+          "name": "B-Lovee",
+          "url": "https://open.spotify.com/artist/7hf5PZjVOqTQ2id3PF7I5Y"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111428,
+      "name": "No Secrets",
+      "url": "https://open.spotify.com/track/1QJmDEhYFLTM9PQMSzeVe3"
     },
     {
       "album": {
@@ -5278,7 +5386,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 120999,
       "name": "not on my level",
       "url": "https://open.spotify.com/track/5AZ2Y6HlMPrEi2yqf5aF11"
@@ -5968,7 +6076,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 164946,
       "name": "ROLL THE DICE (Prod. Gesaffelstein)",
       "url": "https://open.spotify.com/track/7CAg4N1S926AymvuLjnJcy"
@@ -6441,6 +6549,24 @@
     },
     {
       "album": {
+        "name": "Bet My Heart",
+        "url": "https://open.spotify.com/album/3szLmfgILxIvbdhPDPeqeX"
+      },
+      "artists": [
+        {
+          "name": "Erin Kinsey",
+          "url": "https://open.spotify.com/artist/5TtSGhhCPt56x4ZPfg7DFq"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176657,
+      "name": "Stayed A Summer",
+      "url": "https://open.spotify.com/track/6vbesEByLl4HPeX71QMwBa"
+    },
+    {
+      "album": {
         "name": "Stereo Driver",
         "url": "https://open.spotify.com/album/0chstf8JqlFUYvI0F7gogH"
       },
@@ -6764,7 +6890,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 204400,
       "name": "The Gift",
       "url": "https://open.spotify.com/track/6eiJiRI1RNHniYBF4evk3a"
@@ -6902,6 +7028,24 @@
       "duration_ms": 231000,
       "name": "Thousand Miles (feat. Brandi Carlile)",
       "url": "https://open.spotify.com/track/1GN6qqehnqUfUHH1gfK81v"
+    },
+    {
+      "album": {
+        "name": "Throw It Back.",
+        "url": "https://open.spotify.com/album/55pm5t7Fd4cp8LnzfoK0wD"
+      },
+      "artists": [
+        {
+          "name": "Tanner Adell",
+          "url": "https://open.spotify.com/artist/5xKVALj2MSqOHmQhburCM8"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155846,
+      "name": "Throw It Back",
+      "url": "https://open.spotify.com/track/6gv3rXWwTSdUhYaZqg7ueD"
     },
     {
       "album": {
@@ -7964,6 +8108,24 @@
       "duration_ms": 207460,
       "name": "YES",
       "url": "https://open.spotify.com/track/0avPu8U9lvMBAioy2LcznY"
+    },
+    {
+      "album": {
+        "name": "Jericho",
+        "url": "https://open.spotify.com/album/4PeaEZz5sMGja7ZCCkRdcm"
+      },
+      "artists": [
+        {
+          "name": "Iniko",
+          "url": "https://open.spotify.com/artist/2ih5M0aTrQ97JX1nZuxDQY"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177800,
+      "name": "Yosemite (Song For The Ahwahnechee)",
+      "url": "https://open.spotify.com/track/4O9FDAxxVS0493cGeAZnRE"
     },
     {
       "album": {

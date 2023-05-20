@@ -4,7 +4,7 @@
 
 > ¡El mejor condimento para tus comidas!
 
-284 songs - 17 hr 42 min
+285 songs - 17 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -116,6 +116,7 @@
 | [Inocente](https://open.spotify.com/track/7g6taDbEMUIhsvyFaexjDi) | [La Delio Valdez](https://open.spotify.com/artist/3tzacGOmngxUV8W8lU9h3Q) | [Sonido Subtropical](https://open.spotify.com/album/6jAvIPPjADSp3gWGwtLvUX) | 5:10 | 2022-07-05 | 2022-07-29 |
 | [Juego de Seduccion / Persiana Americana / Corazon Delator / Cuando Pase el Temblor / Tratame Suavemente / De Musica Ligera](https://open.spotify.com/track/4LVAaT0AupDe4EKttxYazr) | [Los del Fuego](https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24) | [A 30 Años de una Pasión Inexplicable..\. Solo He Nacido para Amarte](https://open.spotify.com/album/2oAr9qO4Lfm8PgSBHgox8l) | 7:55 | 2022-07-05 | 2022-07-29 |
 | [Jurabas Tu](https://open.spotify.com/track/5ISajXj2M1yvkrC0KsgbR5) | [Los del Fuego](https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24) | [25 Años \(En Vivo\)](https://open.spotify.com/album/6ORA5WpFFDIkLQs1UwDCD6) | 3:09 | 2022-07-05 |  |
+| [La Botella](https://open.spotify.com/track/0aI9IqxT214Tb5agHRFDrX) | [Mario Guerrero](https://open.spotify.com/artist/6olBVa8DSbt2M0FAR7AAkI) | [La Botella](https://open.spotify.com/album/6FuQWPA521wtMOgBI8uaWv) | 3:02 | 2023-05-19 |  |
 | [La Cancioncita](https://open.spotify.com/track/0NJaymxiBPgVkanpmvQPiW) | [La Delio Valdez](https://open.spotify.com/artist/3tzacGOmngxUV8W8lU9h3Q) | [Sonido Subtropical](https://open.spotify.com/album/6laFKE1r9Sc5ACUiVImrIV) | 5:23 | 2022-07-05 | 2023-04-09 |
 | [La Cumbia De La Cerveza](https://open.spotify.com/track/2J0QDG9aKp41dl3nT9d9IQ) | [Grupo Sonador](https://open.spotify.com/artist/2EliUhznUrwHp1yJvhlHQF) | [Lo Nuevo Y…Lo Mejor](https://open.spotify.com/album/7qIY0P5qM0LzI1SYx9r8dZ) | 2:49 | 2022-07-05 |  |
 | [La Cumbia del Infinito](https://open.spotify.com/track/6b2BVDyqhzA2DHIe01cNhV) | [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW), [Pablo Lescano](https://open.spotify.com/artist/6pztqmUqWADMZQKrrmGWGx) | [La Cumbia del Infinito](https://open.spotify.com/album/5sQbOJf1Au4ci4c3edmeUN) | 3:25 | 2022-07-05 | 2022-07-29 |
@@ -230,7 +231,7 @@
 | [Serenata cruel](https://open.spotify.com/track/152U4ecGSiYeKm2gnFc4wA) | [Villa Cariño](https://open.spotify.com/artist/3BBhJ4tssZm6vSQQ5xPDC1) | [La Fiesta es de Nosotros](https://open.spotify.com/album/1xJWcP3LsQkDu0lh5jjhAM) | 4:32 | 2022-07-05 | 2022-07-29 |
 | [Serenata cruel](https://open.spotify.com/track/2gEhAH0eZwl3b8si4l3tZ1) | [Villa Cariño](https://open.spotify.com/artist/3BBhJ4tssZm6vSQQ5xPDC1) | [La Fiesta es de Nosotros](https://open.spotify.com/album/67YStxw0rxexYKzFU6ocdT) | 4:32 | 2022-07-05 | 2023-04-19 |
 | [Si Me Tomo Una Cerveza](https://open.spotify.com/track/3lCbsHaN1wCxyDzcNN2x4N) | [Migrantes](https://open.spotify.com/artist/48R2gYdPKtfnfKAzhSVPUx), [Alico](https://open.spotify.com/artist/7n3wAgh1j3RRbxYzfZTQDF) | [Si Me Tomo una Cerveza](https://open.spotify.com/album/5TXzXK8XclNSvQccVUiCf2) | 3:02 | 2022-07-05 |  |
-| [Si Te Marchas, No Hay Manera](https://open.spotify.com/track/1Au0sqaCTdSjHdGkQdwQw8) | [Santaferia](https://open.spotify.com/artist/22QaKKmBIH3QiotuG30W3o), [Illapu](https://open.spotify.com/artist/6gWVXK2R7WYXTqxULGAyfx) | [En El Ojo Del Huracán](https://open.spotify.com/album/6BvsB3GWe7LlRBZyK5nBAQ) | 3:40 | 2022-09-02 |  |
+| [Si Te Marchas, No Hay Manera](https://open.spotify.com/track/1Au0sqaCTdSjHdGkQdwQw8) | [Santaferia](https://open.spotify.com/artist/22QaKKmBIH3QiotuG30W3o), [Illapu](https://open.spotify.com/artist/6gWVXK2R7WYXTqxULGAyfx) | [En El Ojo Del Huracán](https://open.spotify.com/album/6BvsB3GWe7LlRBZyK5nBAQ) | 3:40 | 2022-09-02 | 2023-05-20 |
 | [Si Te Marchas, No Hay Manera](https://open.spotify.com/track/7lk2SWsLObPlO98pOvz6V0) | [Santaferia](https://open.spotify.com/artist/22QaKKmBIH3QiotuG30W3o), [Illapu](https://open.spotify.com/artist/6gWVXK2R7WYXTqxULGAyfx) | [En el Ojo del Huracán](https://open.spotify.com/album/3cVoxcpHC36i7ZYn9o8aSh) | 3:40 | 2022-07-05 | 2022-07-29 |
 | [Si Tu Supieras](https://open.spotify.com/track/1lyJIjlGdT429sZpukV0Ih) | [Ke Personajes](https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM) | [Si Tu Supieras](https://open.spotify.com/album/5SYW3HfQPkp7vIglyaF0Uv) | 3:02 | 2023-02-10 |  |
 | [Si Tu Te Vas](https://open.spotify.com/track/4jUH6sw78DUA7ksSvudJec) | [Gilda](https://open.spotify.com/artist/6Q6qTNC2rAegcR5QjzcRgE) | [Si hay alguien en tu vida](https://open.spotify.com/album/4UUIaLkoQJhxvpWuSH9tGs) | 3:51 | 2022-07-05 | 2022-07-24 |

@@ -684,7 +684,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 212571,
       "name": "Big Sound",
       "url": "https://open.spotify.com/track/40g1y1nbSchz2kJXhNPimt"
@@ -7160,6 +7160,28 @@
       "duration_ms": 193292,
       "name": "Turn It Up",
       "url": "https://open.spotify.com/track/64c7I8GWjcOqK8guyLmN8u"
+    },
+    {
+      "album": {
+        "name": "Ultraviolent",
+        "url": "https://open.spotify.com/album/0ny82WM3w2ueTkE0u69FPf"
+      },
+      "artists": [
+        {
+          "name": "Kill The Noise",
+          "url": "https://open.spotify.com/artist/3qnMl4DHT4gndzFAcG4FlM"
+        },
+        {
+          "name": "Shadow Cliq",
+          "url": "https://open.spotify.com/artist/3MwmjpfJvIoCarmc1eehbu"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168484,
+      "name": "Ultraviolent",
+      "url": "https://open.spotify.com/track/3ADPEN0m92FLaY9Z0znhqd"
     },
     {
       "album": {

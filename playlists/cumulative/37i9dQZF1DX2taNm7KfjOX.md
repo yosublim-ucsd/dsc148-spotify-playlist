@@ -2,9 +2,9 @@
 
 ### [Infinite Indie Folk](https://open.spotify.com/playlist/37i9dQZF1DX2taNm7KfjOX)
 
-> Repeat\-free hours of new and beloved indie folk\. Cover: Paris Paloma
+> Repeat\-free hours of new and beloved indie folk\. Cover: Leith Ross
 
-493 songs - 1 day 6 hr 51 min
+495 songs - 1 day 6 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,7 +68,7 @@
 | [Bluegrass](https://open.spotify.com/track/2eFiUi6b0OBiZiIfzKTCDe) | [Matt Phillips](https://open.spotify.com/artist/22BCyjczCSuALgagXSUm3p), [Phil Harmonic](https://open.spotify.com/artist/5szI3Z1nioD6Shb3QP3VBA) | [Move](https://open.spotify.com/album/1MqwG4kOK1G51LydYHqsV6) | 5:18 | 2022-04-13 | 2022-04-21 |
 | [Boardwalks](https://open.spotify.com/track/7sTdeM1DsL2V5caPFfcrDO) | [Little May](https://open.spotify.com/artist/0TjAAwE04BeoSeOpJIakYH) | [Little May](https://open.spotify.com/album/15h8DXuEUUU8FKcElRPf4S) | 3:15 | 2022-04-13 | 2022-04-20 |
 | [Break Me Open](https://open.spotify.com/track/0WbtcjCNI2wmekd7d83ISi) | [S\. Carey](https://open.spotify.com/artist/2LSJrlndCuTpdEluvYHc2E) | [Break Me Open](https://open.spotify.com/album/5ETeNxIf3zlzUz09jJEsOY) | 3:03 | 2022-02-25 | 2022-07-29 |
-| [Break Me Open](https://open.spotify.com/track/24DK3nZUzwGYx6xzBXOz3V) | [S\. Carey](https://open.spotify.com/artist/2LSJrlndCuTpdEluvYHc2E) | [Break Me Open](https://open.spotify.com/album/3GnC2xEY4b6wowL2eBIwGc) | 3:03 | 2022-06-24 |  |
+| [Break Me Open](https://open.spotify.com/track/24DK3nZUzwGYx6xzBXOz3V) | [S\. Carey](https://open.spotify.com/artist/2LSJrlndCuTpdEluvYHc2E) | [Break Me Open](https://open.spotify.com/album/3GnC2xEY4b6wowL2eBIwGc) | 3:03 | 2022-06-24 | 2023-05-20 |
 | [Bride](https://open.spotify.com/track/258ONJcunOE7KA225pLP2x) | [San Fermin](https://open.spotify.com/artist/7fSnislKgW9Mz0YIqWQmGt) | [Belong](https://open.spotify.com/album/22sKyWyE7QGrAtfPHDboXV) | 3:49 | 2022-06-24 | 2023-04-15 |
 | [Bride](https://open.spotify.com/track/6IG4Z0sKhLG7MaXOgPCaa8) | [San Fermin](https://open.spotify.com/artist/7fSnislKgW9Mz0YIqWQmGt) | [Bride](https://open.spotify.com/album/28owF5FXqCYlH1nfT09uVU) | 3:49 | 2022-04-13 | 2022-07-22 |
 | [Brisbane](https://open.spotify.com/track/5dM2L19MdawMyQw3nSUsFQ) | [Carla Geneve](https://open.spotify.com/artist/0UzJFZTzFyN6EYjenzezfT) | [Brisbane](https://open.spotify.com/album/5gpHY3opXOnjD074pF2JKR) | 3:17 | 2022-04-13 | 2022-07-05 |
@@ -151,7 +151,7 @@
 | [Everything I had](https://open.spotify.com/track/3ZWtCPAWcE7hh00mjQDOXq) | [Sun June](https://open.spotify.com/artist/0UIQXpn5oXhmpgbUDFzaLb) | [Somewhere](https://open.spotify.com/album/3tqWpScYda0eUqExXOqQnm) | 4:06 | 2022-06-24 |  |
 | [Everything Is Free \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/0mZdT3W9e1UyJlSXMV6xL0) | [Father John Misty](https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT) | [Spotify Singles](https://open.spotify.com/album/2cWqFyCDTBXrTx5hy86qK5) | 4:25 | 2022-06-24 |  |
 | [Everything Is Free \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/3VB5e3mQF5F0qzX5UD7WIx) | [Father John Misty](https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT) | [Spotify Singles](https://open.spotify.com/album/1h1Y5FD9Tat1H8t3rHrWu6) | 4:25 | 2021-10-22 | 2022-07-29 |
-| [Everything Looks Better \(In Hindsight\)](https://open.spotify.com/track/4IL5B1c7iUHMA5Rr1ucNo6) | [The Wild Reeds](https://open.spotify.com/artist/3Q9WLyqkHw04V6DDtvPWwH) | [The World We Built](https://open.spotify.com/album/3Z7jF3AHU6lNKkqDFYCern) | 5:28 | 2021-10-22 |  |
+| [Everything Looks Better \(In Hindsight\)](https://open.spotify.com/track/4IL5B1c7iUHMA5Rr1ucNo6) | [The Wild Reeds](https://open.spotify.com/artist/3Q9WLyqkHw04V6DDtvPWwH) | [The World We Built](https://open.spotify.com/album/3Z7jF3AHU6lNKkqDFYCern) | 5:28 | 2021-10-22 | 2023-05-20 |
 | [Eyes Wide Open \- From "North Star"](https://open.spotify.com/track/1xkFLx2HwziUgjXrC0Jhw6) | [Blanco White](https://open.spotify.com/artist/3ccVtqcqedranb7y8eywJ5) | [Eyes Wide Open \(From "North Star"\)](https://open.spotify.com/album/2YYpuK6nOd6KJap8X7vzHe) | 3:15 | 2022-01-14 |  |
 | [Faith Healer](https://open.spotify.com/track/2hNXb6IDn3CvvHjjwauEM3) | [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip) | [Faith Healer](https://open.spotify.com/album/4poKpzHqjS4Ak1usjjNvvz) | 2:54 | 2021-10-22 | 2022-07-29 |
 | [Faith Healer](https://open.spotify.com/track/5M7jnmPrtHgL5H4fTewJch) | [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip) | [Little Oblivions](https://open.spotify.com/album/3IQRHa9iVLsGlSuVHiHZ3A) | 2:54 | 2022-06-24 |  |
@@ -321,6 +321,7 @@
 | [Oh, Shadowless](https://open.spotify.com/track/7zSs0FBaSqrrxDQjWoYKd3) | [Neko Case](https://open.spotify.com/artist/4Cedjq5BQL3MhapRvDpFED) | [Wild Creatures](https://open.spotify.com/album/0KGcCenSL9QAN9mhonWfx5) | 2:26 | 2022-04-25 | 2022-07-29 |
 | [On the Other Side](https://open.spotify.com/track/68lPk9jC7nTpiZgH7Zc2ik) | [Blanco White](https://open.spotify.com/artist/3ccVtqcqedranb7y8eywJ5) | [On the Other Side](https://open.spotify.com/album/5MXz23mZjMutPdhGGb9jc7) | 4:57 | 2022-04-13 | 2022-04-21 |
 | [One With The Birds](https://open.spotify.com/track/3V435gJhrhScmr8P3m9hBV) | [Bonnie Prince Billy](https://open.spotify.com/artist/2zAvisjImPICTNsRgagqlV), [Bryce Dessner](https://open.spotify.com/artist/5HHKeO04SOcxUxjruFXf5l), [eighth blackbird](https://open.spotify.com/artist/08JsND1KfYyI41gWdAOOwz) | [One With The Birds](https://open.spotify.com/album/4KL3IiUFDS7z4ZIkXVJf8S) | 6:07 | 2021-10-22 | 2022-07-28 |
+| [Orlando](https://open.spotify.com/track/5eqNWg31aG8wKNbpJxCpCg) | [Leith Ross](https://open.spotify.com/artist/4nxKz1dRYXnsGzN1lUURtG) | [Orlando](https://open.spotify.com/album/2bUlcn67avN5E46GifoXYl) | 4:35 | 2023-05-19 |  |
 | [Other You](https://open.spotify.com/track/1IQEtgj49aI8FEMsEEyqGA) | [Steve Gunn](https://open.spotify.com/artist/7uLXW75DlTRahz2WKJZGeO) | [Other You](https://open.spotify.com/album/3d2UzCjk937w5fsDODT5qx) | 5:43 | 2021-10-22 | 2022-07-29 |
 | [Other’s Melodies](https://open.spotify.com/track/2XpiUG08IAJThd0MLsH0AB) | [Gatton](https://open.spotify.com/artist/09wV1iFg4DBtreMGzepTaE) | [Other’s Melodies](https://open.spotify.com/album/3rkUjM57mjVjnqr2f2nvtA) | 3:07 | 2023-03-24 |  |
 | [Pain Shifter](https://open.spotify.com/track/2A5fpEFPiljuW0a23kcDVf) | [W\. B\. Wooten](https://open.spotify.com/artist/5PM6kTcLdfwy9q1RVZjXQk) | [Pain Shifter](https://open.spotify.com/album/1KbqWbmHEfEFtFgGPTPWgt) | 3:44 | 2021-10-22 | 2022-07-16 |
@@ -445,6 +446,7 @@
 | [Tiger Striped Sky](https://open.spotify.com/track/6FOyzhp375u8DapDyQqGTh) | [Roo Panes](https://open.spotify.com/artist/0XHM5ZNJDU8e4CfbWMeSzC) | [Little Giant](https://open.spotify.com/album/7fqZrcQ53NpZugjmXHtLK3) | 4:01 | 2022-04-13 | 2022-04-20 |
 | [TNT](https://open.spotify.com/track/71ugx1rYiEKONKUrTCQLsr) | [Wye Oak](https://open.spotify.com/artist/5SjNVG3L9mgWQPsfp1sFDB) | [Its Way With Me](https://open.spotify.com/album/7JvQaezYGVWAlEt079zFvB) | 4:04 | 2021-10-22 | 2022-07-28 |
 | [To Ash \(feat\. Nico Muhly\)](https://open.spotify.com/track/2D5zoxj7CQTAwG9L8xeOXR) | [Henry Jamison](https://open.spotify.com/artist/2XdtmipGVPmA62ptDgX8QC), [Nico Muhly](https://open.spotify.com/artist/2vObsQCPsbVfkqHlQOu2zc) | [The Years](https://open.spotify.com/album/7zcCuIj4uZhrx1WfPfe9Gx) | 3:23 | 2022-06-24 | 2022-07-27 |
+| [To Learn](https://open.spotify.com/track/63a0svve0p3CIiGx9a9DTy) | [Leith Ross](https://open.spotify.com/artist/4nxKz1dRYXnsGzN1lUURtG) | [To Learn](https://open.spotify.com/album/5k6lsjpZK4l4J9oMQmBR1l) | 2:17 | 2023-05-19 |  |
 | [Tom](https://open.spotify.com/track/0ClifBzp6YrXxr0ZhegGT4) | [Damien Jurado](https://open.spotify.com/artist/79JJCxCCfJ8HufX6w8q2k4) | [Tom](https://open.spotify.com/album/6WpkIkPKxMy0mYF2m0kn2k) | 3:20 | 2021-10-22 | 2022-07-29 |
 | [Too Late Babe](https://open.spotify.com/track/1WLsC1nDz2w78EpVRgLqWf) | [The Lowest Pair](https://open.spotify.com/artist/0q9jV5Ht9bBTX6pHgzRjRg) | [The Perfect Plan](https://open.spotify.com/album/2UeJbrZMJSAJ7qadAbEOuW) | 4:49 | 2021-10-22 | 2023-02-18 |
 | [Tried to Tell You](https://open.spotify.com/track/6paZpy38anvDucX9Zi4uEK) | [The Weather Station](https://open.spotify.com/artist/39ZEMGRv3pIYTYKEhr4Abu) | [Atlantic](https://open.spotify.com/album/0a9pQOFCm8ObvipeAcvW53) | 3:38 | 2021-10-22 | 2022-07-29 |

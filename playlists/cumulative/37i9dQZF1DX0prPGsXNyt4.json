@@ -765,6 +765,28 @@
     },
     {
       "album": {
+        "name": "Marrenta",
+        "url": "https://open.spotify.com/album/3p2hg0UxigjvVLwRrKEwLG"
+      },
+      "artists": [
+        {
+          "name": "Emily Ray",
+          "url": "https://open.spotify.com/artist/7jCXAs9uBvcrBc49m2pnvl"
+        },
+        {
+          "name": "MC Menor Mr",
+          "url": "https://open.spotify.com/artist/6ePeCaxkwQirMYsdHAXgs5"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165230,
+      "name": "Marrenta",
+      "url": "https://open.spotify.com/track/6lpeB0D41MN2qip5feho5m"
+    },
+    {
+      "album": {
         "name": "Medley Lud Session - Gato Siam\u00eas / Poesia Ac\u00fastica 10: Recome\u00e7ar / Poesia Ac\u00fastica Paris",
         "url": "https://open.spotify.com/album/75AMCbYLJhWVXZNuPieAM7"
       },
@@ -806,7 +828,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 187666,
       "name": "Mina de F\u00e9",
       "url": "https://open.spotify.com/track/4VQ2PAYUxoSzJHzPWGEFbh"

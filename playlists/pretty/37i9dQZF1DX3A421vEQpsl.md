@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3A421vEQpsl.md) - [plain]
 
 > Bollywood hits, repackaged\. Cover \- Shehzada
 
-[Spotify](https://open.spotify.com/user/spotify) - 150,657 likes - 50 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 150,842 likes - 50 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3A421vEQpsl.md) - [plain]
 | 49 | [Raabta \(Title Track\) \[From "Raabta"\]](https://open.spotify.com/track/1LvOpTDkOfMZEqkr2fUgrz) | [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Nikhita Gandhi](https://open.spotify.com/artist/3tPQOjkxO3mrYrrgkTeXgH) | [Arijit Singh: Love Songs](https://open.spotify.com/album/6LWZ330atfYF43nk7m3pKW) | 4:57 |
 | 50 | [Dil Mein Ho Tum](https://open.spotify.com/track/6P10EoBs8D9L7kjwgNkwFN) | [Armaan Malik](https://open.spotify.com/artist/4IKVDbCSBTxBeAsMKjAuTs) | [Why Cheat India](https://open.spotify.com/album/1uA4BoR4tg110BguDPGMo6) | 5:26 |
 
-Snapshot ID: `MCxkMzIxNGZjYzcwY2QzNTc4MDIyYTBkNGNlYmM4MjVhMDRiYWU2NjNh`
+Snapshot ID: `MCw2ZTg3YTQzNWY4ZWRiY2Q1MmM5YWRhYWMwZGMzOWFiMjE5ZjYxYjRk`

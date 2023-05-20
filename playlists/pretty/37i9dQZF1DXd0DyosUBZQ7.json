@@ -1,12 +1,12 @@
 {
   "description": "The most beautiful love songs of the 2000s",
-  "num_followers": 472166,
+  "num_followers": 472703,
   "original_name": "00s Love Songs",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzNmVkZGJjNjEwMzMyMjI2Mjg0YWFmN2ExNGFmOWRiNTg0MGU4ZmVi",
+  "snapshot_id": "MCxmNmNhMjk1MDA2ZDBlMjExZDBlMmRmMDdiM2Q1NGVmOGFiMDQwN2Vi",
   "tracks": [
     {
       "added_at": "2023-02-01 17:51:07",
@@ -1055,22 +1055,6 @@
     {
       "added_at": "2023-02-01 17:51:07",
       "album": {
-        "name": "All Rise",
-        "url": "https://open.spotify.com/album/4Kx60DeMOwNNnvQRbZMuHg"
-      },
-      "artists": [
-        {
-          "name": "Blue",
-          "url": "https://open.spotify.com/artist/2yEkZBBjhzKzt6LF5XMaFi"
-        }
-      ],
-      "duration_ms": 193240,
-      "name": "Best In Me",
-      "url": "https://open.spotify.com/track/0t78xGJe3jXsih4qRMId7I"
-    },
-    {
-      "added_at": "2023-02-01 17:51:07",
-      "album": {
         "name": "It's Time",
         "url": "https://open.spotify.com/album/2koUTBXkwUt2uJYv0uezHx"
       },
@@ -1083,6 +1067,22 @@
       "duration_ms": 225906,
       "name": "Home",
       "url": "https://open.spotify.com/track/4wLZ4zPM9c4oe1VV8ejdWV"
+    },
+    {
+      "added_at": "2023-02-01 17:51:07",
+      "album": {
+        "name": "All Rise",
+        "url": "https://open.spotify.com/album/4Kx60DeMOwNNnvQRbZMuHg"
+      },
+      "artists": [
+        {
+          "name": "Blue",
+          "url": "https://open.spotify.com/artist/2yEkZBBjhzKzt6LF5XMaFi"
+        }
+      ],
+      "duration_ms": 193240,
+      "name": "Best In Me",
+      "url": "https://open.spotify.com/track/0t78xGJe3jXsih4qRMId7I"
     },
     {
       "added_at": "2023-02-01 17:51:07",

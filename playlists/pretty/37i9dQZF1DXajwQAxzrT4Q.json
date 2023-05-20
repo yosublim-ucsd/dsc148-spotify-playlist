@@ -1,12 +1,12 @@
 {
   "description": "Bounce to the Brick City sound. From New Jersey to the world. Cover: Kanii",
-  "num_followers": 52521,
+  "num_followers": 52730,
   "original_name": "Jersey Club Heat",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2MTQzOTY0ZDA0Njk1ZGQxNjExNjVhMWI4ODdmMmQwOTg5ZjIyYzVi",
+  "snapshot_id": "MCxlOWE4ZDI4MDM2OGZiYTllZmMwYzljYTA1YzliYzg2NzE1YWUwMjQ4",
   "tracks": [
     {
       "added_at": "2023-05-12 04:01:00",
@@ -61,6 +61,26 @@
       "url": "https://open.spotify.com/track/6tOKaJyfdulCnW70cmCUHx"
     },
     {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
+        "name": "Day Ones",
+        "url": "https://open.spotify.com/album/4STghfPx4foktyWk2TCJWq"
+      },
+      "artists": [
+        {
+          "name": "DJ Sliink",
+          "url": "https://open.spotify.com/artist/0t9dGS12PMZmiJiZa9vpyk"
+        },
+        {
+          "name": "SAFE",
+          "url": "https://open.spotify.com/artist/3bnpcWBcvlfq4hPFJjNPbz"
+        }
+      ],
+      "duration_ms": 162089,
+      "name": "Day Ones",
+      "url": "https://open.spotify.com/track/77oV9hbYmMtPGmVxk6qRqp"
+    },
+    {
       "added_at": "2023-05-12 04:01:00",
       "album": {
         "name": "I Know",
@@ -75,26 +95,6 @@
       "duration_ms": 152593,
       "name": "I Know",
       "url": "https://open.spotify.com/track/2RkMSIqUdveO3p8KVpYBYI"
-    },
-    {
-      "added_at": "2023-05-12 04:01:00",
-      "album": {
-        "name": "Pretty Ones",
-        "url": "https://open.spotify.com/album/1oH2NV3OKNQQ8jGU4IWUCU"
-      },
-      "artists": [
-        {
-          "name": "K CAMP",
-          "url": "https://open.spotify.com/artist/5bgfj5zUoWpyeVatGDjn6H"
-        },
-        {
-          "name": "B-Lovee",
-          "url": "https://open.spotify.com/artist/7hf5PZjVOqTQ2id3PF7I5Y"
-        }
-      ],
-      "duration_ms": 221570,
-      "name": "Pretty Ones",
-      "url": "https://open.spotify.com/track/2vY20At26ZKguLNrpQHqha"
     },
     {
       "added_at": "2023-05-12 04:01:00",
@@ -119,18 +119,22 @@
     {
       "added_at": "2023-05-12 04:01:00",
       "album": {
-        "name": "Jersey Club Movie",
-        "url": "https://open.spotify.com/album/5dwSceWZg4NNLabLstdnDN"
+        "name": "Pretty Ones",
+        "url": "https://open.spotify.com/album/1oH2NV3OKNQQ8jGU4IWUCU"
       },
       "artists": [
         {
-          "name": "UNIIQU3",
-          "url": "https://open.spotify.com/artist/5aR8qSaApKChlZvzB0Jfpx"
+          "name": "K CAMP",
+          "url": "https://open.spotify.com/artist/5bgfj5zUoWpyeVatGDjn6H"
+        },
+        {
+          "name": "B-Lovee",
+          "url": "https://open.spotify.com/artist/7hf5PZjVOqTQ2id3PF7I5Y"
         }
       ],
-      "duration_ms": 97342,
-      "name": "Jersey Club Movie",
-      "url": "https://open.spotify.com/track/0kLyN93Q5LbMY8Ac1rR4sR"
+      "duration_ms": 221570,
+      "name": "Pretty Ones",
+      "url": "https://open.spotify.com/track/2vY20At26ZKguLNrpQHqha"
     },
     {
       "added_at": "2023-05-12 04:01:00",
@@ -267,18 +271,18 @@
     {
       "added_at": "2023-05-12 04:01:00",
       "album": {
-        "name": "Boy's a liar",
-        "url": "https://open.spotify.com/album/5Kdlc7Kds94W7UFFg6Me0N"
+        "name": "Jersey Club Movie",
+        "url": "https://open.spotify.com/album/5dwSceWZg4NNLabLstdnDN"
       },
       "artists": [
         {
-          "name": "PinkPantheress",
-          "url": "https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t"
+          "name": "UNIIQU3",
+          "url": "https://open.spotify.com/artist/5aR8qSaApKChlZvzB0Jfpx"
         }
       ],
-      "duration_ms": 131253,
-      "name": "Boy's a Liar",
-      "url": "https://open.spotify.com/track/3NanY0K4okhIQzL33U5Ad8"
+      "duration_ms": 97342,
+      "name": "Jersey Club Movie",
+      "url": "https://open.spotify.com/track/0kLyN93Q5LbMY8Ac1rR4sR"
     },
     {
       "added_at": "2023-05-12 04:01:00",
@@ -355,6 +359,38 @@
       "duration_ms": 225175,
       "name": "Beat it Up 2k23",
       "url": "https://open.spotify.com/track/7dW44unUq1kL0Hku6wq7uj"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
+        "name": "All In My Head",
+        "url": "https://open.spotify.com/album/4BLSfmhCOxS2VVSQ7tPaBV"
+      },
+      "artists": [
+        {
+          "name": "Amari",
+          "url": "https://open.spotify.com/artist/6833GgqHOy9y9Dqnsxko1u"
+        }
+      ],
+      "duration_ms": 134383,
+      "name": "All In My Head",
+      "url": "https://open.spotify.com/track/7hLrCKRFvxYCQXjrw99yhj"
+    },
+    {
+      "added_at": "2023-05-12 04:01:00",
+      "album": {
+        "name": "Boy's a liar",
+        "url": "https://open.spotify.com/album/5Kdlc7Kds94W7UFFg6Me0N"
+      },
+      "artists": [
+        {
+          "name": "PinkPantheress",
+          "url": "https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t"
+        }
+      ],
+      "duration_ms": 131253,
+      "name": "Boy's a Liar",
+      "url": "https://open.spotify.com/track/3NanY0K4okhIQzL33U5Ad8"
     },
     {
       "added_at": "2023-05-12 04:01:00",
@@ -485,6 +521,42 @@
       "url": "https://open.spotify.com/track/0FZUgV8DchbInBN1S7INnM"
     },
     {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
+        "name": "Na Na Na",
+        "url": "https://open.spotify.com/album/1jMAUsspY3NLUXvnSDxGd0"
+      },
+      "artists": [
+        {
+          "name": "Lay Bankz",
+          "url": "https://open.spotify.com/artist/4OVbrPbhvK46A1uXTU1u5F"
+        }
+      ],
+      "duration_ms": 100122,
+      "name": "Na Na Na",
+      "url": "https://open.spotify.com/track/6G4ICKUrsPb117ULGyrQ5N"
+    },
+    {
+      "added_at": "2023-05-12 04:01:00",
+      "album": {
+        "name": "miles",
+        "url": "https://open.spotify.com/album/6lAOUk4uVgPOj9ny3TPoDO"
+      },
+      "artists": [
+        {
+          "name": "skaiwater",
+          "url": "https://open.spotify.com/artist/1URVdcNYXigvk6Dj0fHYOM"
+        },
+        {
+          "name": "Lil Uzi Vert",
+          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
+        }
+      ],
+      "duration_ms": 162196,
+      "name": "miles (feat. Lil Uzi Vert)",
+      "url": "https://open.spotify.com/track/2WgoeZDxLJvjEvlOupkr8D"
+    },
+    {
       "added_at": "2023-05-12 04:01:00",
       "album": {
         "name": "Leave",
@@ -571,26 +643,6 @@
     {
       "added_at": "2023-05-12 04:01:00",
       "album": {
-        "name": "miles",
-        "url": "https://open.spotify.com/album/6lAOUk4uVgPOj9ny3TPoDO"
-      },
-      "artists": [
-        {
-          "name": "skaiwater",
-          "url": "https://open.spotify.com/artist/1URVdcNYXigvk6Dj0fHYOM"
-        },
-        {
-          "name": "Lil Uzi Vert",
-          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
-        }
-      ],
-      "duration_ms": 162196,
-      "name": "miles (feat. Lil Uzi Vert)",
-      "url": "https://open.spotify.com/track/2WgoeZDxLJvjEvlOupkr8D"
-    },
-    {
-      "added_at": "2023-05-12 04:01:00",
-      "album": {
         "name": "Honesty (Jersey Club Remix)",
         "url": "https://open.spotify.com/album/1sOF5dtyOTo9s6fx4AtmBe"
       },
@@ -655,6 +707,22 @@
     {
       "added_at": "2023-05-12 04:01:00",
       "album": {
+        "name": "#miles (OMG edit)",
+        "url": "https://open.spotify.com/album/506GTEBNlR7FVIncgRRV4V"
+      },
+      "artists": [
+        {
+          "name": "skaiwater",
+          "url": "https://open.spotify.com/artist/1URVdcNYXigvk6Dj0fHYOM"
+        }
+      ],
+      "duration_ms": 137727,
+      "name": "#miles (OMG edit)",
+      "url": "https://open.spotify.com/track/66SrkasmQzDg9riaKqjm0h"
+    },
+    {
+      "added_at": "2023-05-12 04:01:00",
+      "album": {
         "name": "Birthday",
         "url": "https://open.spotify.com/album/3r1BJLmb0IU2HrQAVy0FXs"
       },
@@ -715,22 +783,6 @@
       "duration_ms": 109124,
       "name": "We Are Young (Jersey Club)",
       "url": "https://open.spotify.com/track/4F8JgSAhDLib5yoUoykMMZ"
-    },
-    {
-      "added_at": "2023-05-12 04:01:00",
-      "album": {
-        "name": "#miles (OMG edit)",
-        "url": "https://open.spotify.com/album/506GTEBNlR7FVIncgRRV4V"
-      },
-      "artists": [
-        {
-          "name": "skaiwater",
-          "url": "https://open.spotify.com/artist/1URVdcNYXigvk6Dj0fHYOM"
-        }
-      ],
-      "duration_ms": 137727,
-      "name": "#miles (OMG edit)",
-      "url": "https://open.spotify.com/track/66SrkasmQzDg9riaKqjm0h"
     },
     {
       "added_at": "2023-05-12 04:01:00",
@@ -859,6 +911,22 @@
     {
       "added_at": "2023-05-12 04:01:00",
       "album": {
+        "name": "eyes",
+        "url": "https://open.spotify.com/album/3kjWlk30j8gIzBe39MbndW"
+      },
+      "artists": [
+        {
+          "name": "skaiwater",
+          "url": "https://open.spotify.com/artist/1URVdcNYXigvk6Dj0fHYOM"
+        }
+      ],
+      "duration_ms": 142639,
+      "name": "eyes",
+      "url": "https://open.spotify.com/track/2YOev1DTVgKTqBuUN3J5kg"
+    },
+    {
+      "added_at": "2023-05-12 04:01:00",
+      "album": {
         "name": "Self Esteem (feat. NLE Choppa) [DJ Smallz 732 Jersey Club Remix]",
         "url": "https://open.spotify.com/album/465P41bUBc9FVsLIGWkToC"
       },
@@ -899,78 +967,6 @@
       "duration_ms": 168000,
       "name": "BaDinga - Reloaded",
       "url": "https://open.spotify.com/track/1JnlpPaMACqbAzuo5xbZR4"
-    },
-    {
-      "added_at": "2023-05-12 04:01:00",
-      "album": {
-        "name": "Orange Soda (Jersey Club Remix)",
-        "url": "https://open.spotify.com/album/1bB4TDuBMLrSIRBR6Yyn9O"
-      },
-      "artists": [
-        {
-          "name": "Sjayy",
-          "url": "https://open.spotify.com/artist/0X0hwDJnBd4NjGLDsCcNSc"
-        }
-      ],
-      "duration_ms": 111304,
-      "name": "Orange Soda - Jersey Club Remix",
-      "url": "https://open.spotify.com/track/6Pj3meDGkdOCufJoDO9sDJ"
-    },
-    {
-      "added_at": "2023-05-12 04:01:00",
-      "album": {
-        "name": "eyes",
-        "url": "https://open.spotify.com/album/3kjWlk30j8gIzBe39MbndW"
-      },
-      "artists": [
-        {
-          "name": "skaiwater",
-          "url": "https://open.spotify.com/artist/1URVdcNYXigvk6Dj0fHYOM"
-        }
-      ],
-      "duration_ms": 142639,
-      "name": "eyes",
-      "url": "https://open.spotify.com/track/2YOev1DTVgKTqBuUN3J5kg"
-    },
-    {
-      "added_at": "2023-05-12 04:01:00",
-      "album": {
-        "name": "bla bla bla",
-        "url": "https://open.spotify.com/album/6C25YbzE0xhfBAkRPYknbF"
-      },
-      "artists": [
-        {
-          "name": "rusowsky",
-          "url": "https://open.spotify.com/artist/1XEVu7gdRFfzEFqsPrancH"
-        },
-        {
-          "name": "Barry B",
-          "url": "https://open.spotify.com/artist/1jRwxa8eTgXDOhOlbRFFFy"
-        },
-        {
-          "name": "DRUMMIE",
-          "url": "https://open.spotify.com/artist/569eg6JD5GgpfbGJ1b81b5"
-        }
-      ],
-      "duration_ms": 145185,
-      "name": "bla bla bla",
-      "url": "https://open.spotify.com/track/0rD2KNGhWAOrbmzHKSF4ey"
-    },
-    {
-      "added_at": "2023-05-12 04:01:00",
-      "album": {
-        "name": "Club Soda Vol. 3",
-        "url": "https://open.spotify.com/album/4BbClEFUGxAdwWViJdMDS2"
-      },
-      "artists": [
-        {
-          "name": "Cookiee Kawaii",
-          "url": "https://open.spotify.com/artist/0DbBBj0ScPumRqKXswGQH1"
-        }
-      ],
-      "duration_ms": 116800,
-      "name": "Candy",
-      "url": "https://open.spotify.com/track/5XRBpyoHqvWl6sB5vIocwn"
     }
   ],
   "unique_name": "Jersey Club Heat",

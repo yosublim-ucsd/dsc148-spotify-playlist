@@ -6072,10 +6072,28 @@
       ],
       "date_added": "2023-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 113736,
       "name": "Up",
       "url": "https://open.spotify.com/track/2unUeNBYu1vASmF5KLVDov"
+    },
+    {
+      "album": {
+        "name": "Up",
+        "url": "https://open.spotify.com/album/3YbIg8Dn7o6icYYKqA46p3"
+      },
+      "artists": [
+        {
+          "name": "Lily Rayne",
+          "url": "https://open.spotify.com/artist/04DqcxM5TVBjxdGwGlxACa"
+        }
+      ],
+      "date_added": "2023-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113736,
+      "name": "Up",
+      "url": "https://open.spotify.com/track/4It8xzfiBFa0IiVhCqVoXo"
     },
     {
       "album": {
@@ -6400,10 +6418,28 @@
       ],
       "date_added": "2023-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 153652,
       "name": "Wouldn't Get Far",
       "url": "https://open.spotify.com/track/1xCb6UKAXdK7uesHhPdC2c"
+    },
+    {
+      "album": {
+        "name": "Wouldn't Get Far",
+        "url": "https://open.spotify.com/album/6wiXUz2AjWyASK6D0374F6"
+      },
+      "artists": [
+        {
+          "name": "Lily Rayne",
+          "url": "https://open.spotify.com/artist/04DqcxM5TVBjxdGwGlxACa"
+        }
+      ],
+      "date_added": "2023-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153652,
+      "name": "Wouldn't Get Far",
+      "url": "https://open.spotify.com/track/4p9Rma6SltCyrf9NTyRmMp"
     },
     {
       "album": {

@@ -2545,6 +2545,24 @@
     },
     {
       "album": {
+        "name": "I Don't Think It Will Hurt If You Smile",
+        "url": "https://open.spotify.com/album/4rsVi2ypkpMwTh8UciewU9"
+      },
+      "artists": [
+        {
+          "name": "Norma Tanega",
+          "url": "https://open.spotify.com/artist/4nlQA3jNE8cukTo6CdyCWP"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236648,
+      "name": "Now is the Time",
+      "url": "https://open.spotify.com/track/124Ufpwu2knrSTW4b5Wyhi"
+    },
+    {
+      "album": {
         "name": "Now Is The Time",
         "url": "https://open.spotify.com/album/20XCI94ozv942iZYSxjSxJ"
       },
@@ -2556,7 +2574,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 236648,
       "name": "Now is the Time",
       "url": "https://open.spotify.com/track/4laTGZ3oNAWgla7mevECwt"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8oGHu3SOP0B.md) - [plain]
 
 > เปิดให้ดังแล้วฟังเสียงเต็มๆ ของผู้หญิงจากประเทศไทย\. ศิลปิน: PRETZELLE
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,361 likes - 50 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,366 likes - 50 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8oGHu3SOP0B.md) - [plain]
 | 49 | [เฟรนด์ลี่หรือมีใจ](https://open.spotify.com/track/3hyT0w2zZR88KfQ1TAtnrI) | [DIDIxDADA](https://open.spotify.com/artist/2wd5kKWvp9e1i7rBtvvGSc) | [เฟรนด์ลี่หรือมีใจ](https://open.spotify.com/album/0EQjy4jjmRX4TwU1e5WcdD) | 3:16 |
 | 50 | [แค่กอด \- เพลงจากละคร รักสุดท้ายยัยจอมเหวี่ยง](https://open.spotify.com/track/4UOM059VlhseO1XpIu3NRm) | [Gam Wichayanee](https://open.spotify.com/artist/52O8ovyvtivDfePoUUwcOa) | [เพลงจากละคร รักสุดท้ายยัยจอมเหวี่ยง](https://open.spotify.com/album/5j7E53b9l2xEvAWPHPBMke) | 4:21 |
 
-Snapshot ID: `MCw0NjFmZTc0NjU3OTVhZmU2OTE2OTVhYjMzYjg2YTNhZjBmNTU1ZmIx`
+Snapshot ID: `MCwwODE5YTAxNDlmYmI5MjUwNzA4NzZlNjZlZmIzNDNmZTA3NDIwOTJm`

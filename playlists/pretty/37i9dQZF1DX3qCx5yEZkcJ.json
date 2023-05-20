@@ -1,12 +1,12 @@
 {
   "description": "Stay relaxed with these low-key beats and instrumentals.",
-  "num_followers": 1487020,
+  "num_followers": 1487056,
   "original_name": "Mellow Beats",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlODRiYTVlZDcyZDE1ZmFhMTk0OGNjZjAxMjQ3NjY4YWJkNzgxNGVk",
+  "snapshot_id": "MCw5OTYyZDU3MzA0YWIxZDA5OTk0Y2U5Mzc5NTVkMWJlM2FiMmI3MmRi",
   "tracks": [
     {
       "added_at": "2023-05-19 00:42:11",
@@ -200,7 +200,7 @@
       "added_at": "2023-05-19 00:42:11",
       "album": {
         "name": "Beats For You Vol.2",
-        "url": "https://open.spotify.com/album/7AUGO9ZUla9Vp8lEFoAb8s"
+        "url": "https://open.spotify.com/album/6KFl6WAcxp2zkApx8PNGxG"
       },
       "artists": [
         {
@@ -210,7 +210,7 @@
       ],
       "duration_ms": 201187,
       "name": "Domestic",
-      "url": "https://open.spotify.com/track/4CLLXxnWiCK6DSzbMlDwuP"
+      "url": "https://open.spotify.com/track/1VWNePn7s4RPJEMefXyoIB"
     },
     {
       "added_at": "2023-05-19 00:42:11",
@@ -467,6 +467,26 @@
     {
       "added_at": "2023-05-19 00:42:11",
       "album": {
+        "name": "Rock",
+        "url": "https://open.spotify.com/album/4ErwjOzz1tTmm8vVNBCMaO"
+      },
+      "artists": [
+        {
+          "name": "DisHand",
+          "url": "https://open.spotify.com/artist/0fWugqSess3tlDdzjPu1gy"
+        },
+        {
+          "name": "tillDawn",
+          "url": "https://open.spotify.com/artist/0LqQ7Y65LM0zomhoexwyzV"
+        }
+      ],
+      "duration_ms": 123658,
+      "name": "Rock",
+      "url": "https://open.spotify.com/track/0YexmBFxPG2pLlSTBmiTvW"
+    },
+    {
+      "added_at": "2023-05-19 00:42:11",
+      "album": {
         "name": "Black Tea",
         "url": "https://open.spotify.com/album/3tcY2wCBIhAAi7ft7Qmr1M"
       },
@@ -491,26 +511,6 @@
       "duration_ms": 159026,
       "name": "Black Tea",
       "url": "https://open.spotify.com/track/0gylr1Mi75MBEijrP2r20A"
-    },
-    {
-      "added_at": "2023-05-19 00:42:11",
-      "album": {
-        "name": "Rock",
-        "url": "https://open.spotify.com/album/4ErwjOzz1tTmm8vVNBCMaO"
-      },
-      "artists": [
-        {
-          "name": "DisHand",
-          "url": "https://open.spotify.com/artist/0fWugqSess3tlDdzjPu1gy"
-        },
-        {
-          "name": "tillDawn",
-          "url": "https://open.spotify.com/artist/0LqQ7Y65LM0zomhoexwyzV"
-        }
-      ],
-      "duration_ms": 123658,
-      "name": "Rock",
-      "url": "https://open.spotify.com/track/0YexmBFxPG2pLlSTBmiTvW"
     },
     {
       "added_at": "2023-05-19 00:42:11",
@@ -571,30 +571,6 @@
     {
       "added_at": "2023-05-19 00:42:11",
       "album": {
-        "name": "Hip Shop",
-        "url": "https://open.spotify.com/album/0KRl72v3V3cZHeGVlRqDvC"
-      },
-      "artists": [
-        {
-          "name": "Coffee Date",
-          "url": "https://open.spotify.com/artist/74ZWzuwsxGAt05s2sWtq0j"
-        },
-        {
-          "name": "Curly",
-          "url": "https://open.spotify.com/artist/4AE4o0hck4magAI2urzzlh"
-        },
-        {
-          "name": "GameChops",
-          "url": "https://open.spotify.com/artist/1T7zBkQCOCacKjbnmFX7cp"
-        }
-      ],
-      "duration_ms": 123008,
-      "name": "Hip Shop",
-      "url": "https://open.spotify.com/track/169xT0Be1P2Hgjd9hq5Lk1"
-    },
-    {
-      "added_at": "2023-05-19 00:42:11",
-      "album": {
         "name": "Between Days",
         "url": "https://open.spotify.com/album/3LKXTSlaDYPRyUiApj5G8X"
       },
@@ -627,6 +603,30 @@
     {
       "added_at": "2023-05-19 00:42:11",
       "album": {
+        "name": "Hip Shop",
+        "url": "https://open.spotify.com/album/0KRl72v3V3cZHeGVlRqDvC"
+      },
+      "artists": [
+        {
+          "name": "Coffee Date",
+          "url": "https://open.spotify.com/artist/74ZWzuwsxGAt05s2sWtq0j"
+        },
+        {
+          "name": "Curly",
+          "url": "https://open.spotify.com/artist/4AE4o0hck4magAI2urzzlh"
+        },
+        {
+          "name": "GameChops",
+          "url": "https://open.spotify.com/artist/1T7zBkQCOCacKjbnmFX7cp"
+        }
+      ],
+      "duration_ms": 123008,
+      "name": "Hip Shop",
+      "url": "https://open.spotify.com/track/169xT0Be1P2Hgjd9hq5Lk1"
+    },
+    {
+      "added_at": "2023-05-19 00:42:11",
+      "album": {
         "name": "Radio Moonspatz",
         "url": "https://open.spotify.com/album/0n0HZ3zcyl4INlWTw36I0m"
       },
@@ -643,22 +643,6 @@
     {
       "added_at": "2023-05-19 00:42:11",
       "album": {
-        "name": "Mental Acupuncture",
-        "url": "https://open.spotify.com/album/2dtSQyB2dVecMmnDlU9qYn"
-      },
-      "artists": [
-        {
-          "name": "Jazzinuf",
-          "url": "https://open.spotify.com/artist/6rJ1GwtHin2BJbKLuNn9pi"
-        }
-      ],
-      "duration_ms": 152000,
-      "name": "Mental Acupuncture",
-      "url": "https://open.spotify.com/track/34KMYyUvfpXboR9wLwrocX"
-    },
-    {
-      "added_at": "2023-05-19 00:42:11",
-      "album": {
         "name": "Boardwalk Bumps 3",
         "url": "https://open.spotify.com/album/5fRcJfizpJZfVhYr66e7ts"
       },
@@ -671,6 +655,22 @@
       "duration_ms": 121097,
       "name": "Good Evening",
       "url": "https://open.spotify.com/track/5bWvhoW0YfVHgi0IVUl0UG"
+    },
+    {
+      "added_at": "2023-05-19 00:42:11",
+      "album": {
+        "name": "Mental Acupuncture",
+        "url": "https://open.spotify.com/album/2dtSQyB2dVecMmnDlU9qYn"
+      },
+      "artists": [
+        {
+          "name": "Jazzinuf",
+          "url": "https://open.spotify.com/artist/6rJ1GwtHin2BJbKLuNn9pi"
+        }
+      ],
+      "duration_ms": 152000,
+      "name": "Mental Acupuncture",
+      "url": "https://open.spotify.com/track/34KMYyUvfpXboR9wLwrocX"
     },
     {
       "added_at": "2023-05-19 00:42:11",
@@ -1031,22 +1031,6 @@
     {
       "added_at": "2023-05-19 00:42:11",
       "album": {
-        "name": "Back in a day",
-        "url": "https://open.spotify.com/album/6za9uzUhSU3DDfVJRP4Y2N"
-      },
-      "artists": [
-        {
-          "name": "Shin-Ski",
-          "url": "https://open.spotify.com/artist/6Ei1ABb1YNXZviQKBE7RI7"
-        }
-      ],
-      "duration_ms": 114461,
-      "name": "Back in a day",
-      "url": "https://open.spotify.com/track/7sp9pTgw0smoFOhPwA6gr4"
-    },
-    {
-      "added_at": "2023-05-19 00:42:11",
-      "album": {
         "name": "Tangerine Hues",
         "url": "https://open.spotify.com/album/78zuWk8ZgaMMLlTMtIMsT5"
       },
@@ -1087,22 +1071,18 @@
     {
       "added_at": "2023-05-19 00:42:11",
       "album": {
-        "name": "edbl & friends - JPRK",
-        "url": "https://open.spotify.com/album/61TTiDwK1dT9CDWczbcg8G"
+        "name": "Back in a day",
+        "url": "https://open.spotify.com/album/6za9uzUhSU3DDfVJRP4Y2N"
       },
       "artists": [
         {
-          "name": "edbl",
-          "url": "https://open.spotify.com/artist/7ncd26zzbpqgZRroBKmReO"
-        },
-        {
-          "name": "JPRK",
-          "url": "https://open.spotify.com/artist/3ZYTH2LzMs6c3DiRn6n2qH"
+          "name": "Shin-Ski",
+          "url": "https://open.spotify.com/artist/6Ei1ABb1YNXZviQKBE7RI7"
         }
       ],
-      "duration_ms": 161771,
-      "name": "5k",
-      "url": "https://open.spotify.com/track/4sOKXbVMDiqWSj9uojOcfp"
+      "duration_ms": 114461,
+      "name": "Back in a day",
+      "url": "https://open.spotify.com/track/7sp9pTgw0smoFOhPwA6gr4"
     },
     {
       "added_at": "2023-05-19 00:42:11",
@@ -1127,6 +1107,22 @@
     {
       "added_at": "2023-05-19 00:42:11",
       "album": {
+        "name": "SMiLE",
+        "url": "https://open.spotify.com/album/05C5mWohpPDcW8VmRBJHpk"
+      },
+      "artists": [
+        {
+          "name": "DOMi & JD BECK",
+          "url": "https://open.spotify.com/artist/4UpA1KitN1RgIZVyWDbZ0U"
+        }
+      ],
+      "duration_ms": 191361,
+      "name": "SMiLE",
+      "url": "https://open.spotify.com/track/5Pldw6q3Qa9tfWqXFWRSGY"
+    },
+    {
+      "added_at": "2023-05-19 00:42:11",
+      "album": {
         "name": "Bopatron",
         "url": "https://open.spotify.com/album/2Ghoxbvga4VuaGzBTcEVHg"
       },
@@ -1147,18 +1143,22 @@
     {
       "added_at": "2023-05-19 00:42:11",
       "album": {
-        "name": "SMiLE",
-        "url": "https://open.spotify.com/album/05C5mWohpPDcW8VmRBJHpk"
+        "name": "edbl & friends - JPRK",
+        "url": "https://open.spotify.com/album/61TTiDwK1dT9CDWczbcg8G"
       },
       "artists": [
         {
-          "name": "DOMi & JD BECK",
-          "url": "https://open.spotify.com/artist/4UpA1KitN1RgIZVyWDbZ0U"
+          "name": "edbl",
+          "url": "https://open.spotify.com/artist/7ncd26zzbpqgZRroBKmReO"
+        },
+        {
+          "name": "JPRK",
+          "url": "https://open.spotify.com/artist/3ZYTH2LzMs6c3DiRn6n2qH"
         }
       ],
-      "duration_ms": 191361,
-      "name": "SMiLE",
-      "url": "https://open.spotify.com/track/5Pldw6q3Qa9tfWqXFWRSGY"
+      "duration_ms": 161771,
+      "name": "5k",
+      "url": "https://open.spotify.com/track/4sOKXbVMDiqWSj9uojOcfp"
     },
     {
       "added_at": "2023-05-19 00:42:11",
@@ -1175,22 +1175,6 @@
       "duration_ms": 90383,
       "name": "That's Just Me",
       "url": "https://open.spotify.com/track/7rLueW1eSGQhAf9MruvO3d"
-    },
-    {
-      "added_at": "2023-05-19 00:42:11",
-      "album": {
-        "name": "Beats On Boat: Hazy Year",
-        "url": "https://open.spotify.com/album/4VjNePQ8xCBre4qFegkm7U"
-      },
-      "artists": [
-        {
-          "name": "Hazy Year",
-          "url": "https://open.spotify.com/artist/1FtS4zSQaKNwJDXcXWX9CD"
-        }
-      ],
-      "duration_ms": 167926,
-      "name": "Notes",
-      "url": "https://open.spotify.com/track/6vUGOgzxH4Pi54xXvXslNV"
     },
     {
       "added_at": "2023-05-19 00:42:11",
@@ -1215,6 +1199,22 @@
       "duration_ms": 112065,
       "name": "Clout Chaser",
       "url": "https://open.spotify.com/track/6pnQl5hBvh6gaG3nfs5UN5"
+    },
+    {
+      "added_at": "2023-05-19 00:42:11",
+      "album": {
+        "name": "Beats On Boat: Hazy Year",
+        "url": "https://open.spotify.com/album/4VjNePQ8xCBre4qFegkm7U"
+      },
+      "artists": [
+        {
+          "name": "Hazy Year",
+          "url": "https://open.spotify.com/artist/1FtS4zSQaKNwJDXcXWX9CD"
+        }
+      ],
+      "duration_ms": 167926,
+      "name": "Notes",
+      "url": "https://open.spotify.com/track/6vUGOgzxH4Pi54xXvXslNV"
     },
     {
       "added_at": "2023-05-19 00:42:11",
@@ -1375,22 +1375,6 @@
     {
       "added_at": "2023-05-19 00:42:11",
       "album": {
-        "name": "Carol",
-        "url": "https://open.spotify.com/album/0NDKlTrri7SPRt6BXxZfuP"
-      },
-      "artists": [
-        {
-          "name": "ord minami",
-          "url": "https://open.spotify.com/artist/7DkSVWqbEDgCB0EHWUe7FV"
-        }
-      ],
-      "duration_ms": 158769,
-      "name": "Carol",
-      "url": "https://open.spotify.com/track/2xj95O03WOqX9oWnT6jGXO"
-    },
-    {
-      "added_at": "2023-05-19 00:42:11",
-      "album": {
         "name": "Jay Deelicious 95-98 - The Delicious Vinyl Years (Originals, Remixes & Rarities)",
         "url": "https://open.spotify.com/album/6oCNEIjBtMujq1papEFLjc"
       },
@@ -1403,6 +1387,22 @@
       "duration_ms": 243693,
       "name": "Sometimes - Remix Instrumental",
       "url": "https://open.spotify.com/track/16SesduvzOpOsTnDBzucJl"
+    },
+    {
+      "added_at": "2023-05-19 00:42:11",
+      "album": {
+        "name": "Carol",
+        "url": "https://open.spotify.com/album/0NDKlTrri7SPRt6BXxZfuP"
+      },
+      "artists": [
+        {
+          "name": "ord minami",
+          "url": "https://open.spotify.com/artist/7DkSVWqbEDgCB0EHWUe7FV"
+        }
+      ],
+      "duration_ms": 158769,
+      "name": "Carol",
+      "url": "https://open.spotify.com/track/2xj95O03WOqX9oWnT6jGXO"
     },
     {
       "added_at": "2023-05-19 00:42:11",
@@ -1423,22 +1423,6 @@
     {
       "added_at": "2023-05-19 00:42:11",
       "album": {
-        "name": "busking",
-        "url": "https://open.spotify.com/album/5n3Tv4OXiCOqMA9Tcazwhq"
-      },
-      "artists": [
-        {
-          "name": "_tag",
-          "url": "https://open.spotify.com/artist/0B3KPEKVLbLSOmCK0aTMMi"
-        }
-      ],
-      "duration_ms": 140714,
-      "name": "busking",
-      "url": "https://open.spotify.com/track/6hBofveV7cUFOSuUB9RQjk"
-    },
-    {
-      "added_at": "2023-05-19 00:42:11",
-      "album": {
         "name": "Transit",
         "url": "https://open.spotify.com/album/5Y2mzCLspd7EKDekX4cF0r"
       },
@@ -1451,6 +1435,22 @@
       "duration_ms": 132093,
       "name": "Transit(Ions)",
       "url": "https://open.spotify.com/track/2pm72znE9oXDNyusoLjW8M"
+    },
+    {
+      "added_at": "2023-05-19 00:42:11",
+      "album": {
+        "name": "SICK",
+        "url": "https://open.spotify.com/album/7eApP7Reg8vLu3uAU8taWQ"
+      },
+      "artists": [
+        {
+          "name": "Robert de Boron",
+          "url": "https://open.spotify.com/artist/18GAxEc3IY2wGmy2QhnrGD"
+        }
+      ],
+      "duration_ms": 201000,
+      "name": "SICK",
+      "url": "https://open.spotify.com/track/6W9YXVte9iLHgZxxGojjDY"
     }
   ],
   "unique_name": "Mellow Beats",

@@ -1,12 +1,12 @@
 {
   "description": "slow burners for late nights",
-  "num_followers": 923876,
+  "num_followers": 924034,
   "original_name": "late night vibes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5MjZlMGE5YmNmNGE3ZGI3MzRjNzhkMGY5NzljYTEyOGIzMmRjZmMw",
+  "snapshot_id": "MCw4ZDMzYmQ3NjY3Mjc1MjEzOWU1Njg3ODQ4ODIxYjk2ZmU4NzU2ZGRl",
   "tracks": [
     {
       "added_at": "2023-04-25 20:43:50",
@@ -391,22 +391,6 @@
     {
       "added_at": "2023-04-25 20:43:50",
       "album": {
-        "name": "Drukqs",
-        "url": "https://open.spotify.com/album/2oJo7cB45gMVuRsaWNwDq2"
-      },
-      "artists": [
-        {
-          "name": "Aphex Twin",
-          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
-        }
-      ],
-      "duration_ms": 125520,
-      "name": "Avril 14th",
-      "url": "https://open.spotify.com/track/1uaGSDFsLdReQgg8p7Obwh"
-    },
-    {
-      "added_at": "2023-04-25 20:43:50",
-      "album": {
         "name": "Instrumental Relics",
         "url": "https://open.spotify.com/album/66eXLlqksAwNndmHaHWtCq"
       },
@@ -423,6 +407,22 @@
       "duration_ms": 277710,
       "name": "I'm God",
       "url": "https://open.spotify.com/track/0FVuyC9RP5MACjp4lgU3qZ"
+    },
+    {
+      "added_at": "2023-04-25 20:43:50",
+      "album": {
+        "name": "Drukqs",
+        "url": "https://open.spotify.com/album/2oJo7cB45gMVuRsaWNwDq2"
+      },
+      "artists": [
+        {
+          "name": "Aphex Twin",
+          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
+        }
+      ],
+      "duration_ms": 125520,
+      "name": "Avril 14th",
+      "url": "https://open.spotify.com/track/1uaGSDFsLdReQgg8p7Obwh"
     },
     {
       "added_at": "2023-04-25 20:43:50",
@@ -1035,26 +1035,6 @@
     {
       "added_at": "2023-04-25 20:43:50",
       "album": {
-        "name": "Make Out in My Car: Chameleon Suite",
-        "url": "https://open.spotify.com/album/2i1xXXX3jYKBtWLRSNu1ee"
-      },
-      "artists": [
-        {
-          "name": "Moses Sumney",
-          "url": "https://open.spotify.com/artist/5W10uJRsbt9bROJDKoI1Wn"
-        },
-        {
-          "name": "Sufjan Stevens",
-          "url": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
-        }
-      ],
-      "duration_ms": 166880,
-      "name": "Make Out in My Car - Sufjan Stevens Version",
-      "url": "https://open.spotify.com/track/099OI5KEJXIIj1GezRIWU0"
-    },
-    {
-      "added_at": "2023-04-25 20:43:50",
-      "album": {
         "name": "SBTRKT (Deluxe Version)",
         "url": "https://open.spotify.com/album/35xfQriUFj6M2AVq78OsEq"
       },
@@ -1071,6 +1051,26 @@
       "duration_ms": 206600,
       "name": "Hold On",
       "url": "https://open.spotify.com/track/47GsUibP7RiUL7SQ7YFfhu"
+    },
+    {
+      "added_at": "2023-04-25 20:43:50",
+      "album": {
+        "name": "Make Out in My Car: Chameleon Suite",
+        "url": "https://open.spotify.com/album/2i1xXXX3jYKBtWLRSNu1ee"
+      },
+      "artists": [
+        {
+          "name": "Moses Sumney",
+          "url": "https://open.spotify.com/artist/5W10uJRsbt9bROJDKoI1Wn"
+        },
+        {
+          "name": "Sufjan Stevens",
+          "url": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
+        }
+      ],
+      "duration_ms": 166880,
+      "name": "Make Out in My Car - Sufjan Stevens Version",
+      "url": "https://open.spotify.com/track/099OI5KEJXIIj1GezRIWU0"
     },
     {
       "added_at": "2023-04-25 20:43:50",
@@ -1303,6 +1303,22 @@
     {
       "added_at": "2023-04-25 20:43:50",
       "album": {
+        "name": "Rivers",
+        "url": "https://open.spotify.com/album/78s3die4I0Q75cp2NKO6sc"
+      },
+      "artists": [
+        {
+          "name": "The Tallest Man On Earth",
+          "url": "https://open.spotify.com/artist/2BpAc5eK7Rz5GAwSp9UYXa"
+        }
+      ],
+      "duration_ms": 236853,
+      "name": "Rivers",
+      "url": "https://open.spotify.com/track/1dBje6EOpDBLdoKGo94DEa"
+    },
+    {
+      "added_at": "2023-04-25 20:43:50",
+      "album": {
         "name": "Hope For Sale",
         "url": "https://open.spotify.com/album/2opiJIrYClkW7qD2vM6vSi"
       },
@@ -1319,22 +1335,6 @@
       "duration_ms": 226733,
       "name": "Awake",
       "url": "https://open.spotify.com/track/5XMtZsNkezcv695DQSZo0L"
-    },
-    {
-      "added_at": "2023-04-25 20:43:50",
-      "album": {
-        "name": "Rivers",
-        "url": "https://open.spotify.com/album/78s3die4I0Q75cp2NKO6sc"
-      },
-      "artists": [
-        {
-          "name": "The Tallest Man On Earth",
-          "url": "https://open.spotify.com/artist/2BpAc5eK7Rz5GAwSp9UYXa"
-        }
-      ],
-      "duration_ms": 236853,
-      "name": "Rivers",
-      "url": "https://open.spotify.com/track/1dBje6EOpDBLdoKGo94DEa"
     },
     {
       "added_at": "2023-04-25 20:43:50",
@@ -1487,22 +1487,6 @@
     {
       "added_at": "2023-04-25 20:43:50",
       "album": {
-        "name": "Spider",
-        "url": "https://open.spotify.com/album/4w42UNeqts8JN3uSW6O2A9"
-      },
-      "artists": [
-        {
-          "name": "Kai Bosch",
-          "url": "https://open.spotify.com/artist/6NvsbUgzHkjZK3ZUEWui41"
-        }
-      ],
-      "duration_ms": 241989,
-      "name": "Spider",
-      "url": "https://open.spotify.com/track/5K2Pxa2zSpIk2ROgRa9jUc"
-    },
-    {
-      "added_at": "2023-04-25 20:43:50",
-      "album": {
         "name": "Why (Spare Me Tears)",
         "url": "https://open.spotify.com/album/2ZvAaqvOosY2dLtq35C8NM"
       },
@@ -1519,18 +1503,18 @@
     {
       "added_at": "2023-04-25 20:43:50",
       "album": {
-        "name": "LEMONS",
-        "url": "https://open.spotify.com/album/0w8tZm3PdLB8CZcVCkN8rX"
+        "name": "Spider",
+        "url": "https://open.spotify.com/album/4w42UNeqts8JN3uSW6O2A9"
       },
       "artists": [
         {
-          "name": "Nick Leng",
-          "url": "https://open.spotify.com/artist/2fR4D8OveDTHMvCvm7paAO"
+          "name": "Kai Bosch",
+          "url": "https://open.spotify.com/artist/6NvsbUgzHkjZK3ZUEWui41"
         }
       ],
-      "duration_ms": 262600,
-      "name": "Lonely Shade of Blue",
-      "url": "https://open.spotify.com/track/5rTjMOVDiXDxkJavr2GxEL"
+      "duration_ms": 241989,
+      "name": "Spider",
+      "url": "https://open.spotify.com/track/5K2Pxa2zSpIk2ROgRa9jUc"
     },
     {
       "added_at": "2023-04-25 20:43:50",
@@ -1567,18 +1551,18 @@
     {
       "added_at": "2023-04-25 20:43:50",
       "album": {
-        "name": "A Violent Dichotomy",
-        "url": "https://open.spotify.com/album/5kKivJoHCGybHPa0HZRqQt"
+        "name": "LEMONS",
+        "url": "https://open.spotify.com/album/0w8tZm3PdLB8CZcVCkN8rX"
       },
       "artists": [
         {
-          "name": "LUCIUS ARTHUR",
-          "url": "https://open.spotify.com/artist/67vICzj4HQ8LayBYXqF5YD"
+          "name": "Nick Leng",
+          "url": "https://open.spotify.com/artist/2fR4D8OveDTHMvCvm7paAO"
         }
       ],
-      "duration_ms": 255113,
-      "name": "Bad Habit",
-      "url": "https://open.spotify.com/track/6gRdiHPSPWUfzqlY3AIxcO"
+      "duration_ms": 262600,
+      "name": "Lonely Shade of Blue",
+      "url": "https://open.spotify.com/track/5rTjMOVDiXDxkJavr2GxEL"
     },
     {
       "added_at": "2023-04-25 20:43:50",
@@ -1635,22 +1619,6 @@
     {
       "added_at": "2023-04-25 20:43:50",
       "album": {
-        "name": "Saint Cloud",
-        "url": "https://open.spotify.com/album/4V1EQ7wQZUoiPjMY0WtY3M"
-      },
-      "artists": [
-        {
-          "name": "Waxahatchee",
-          "url": "https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF"
-        }
-      ],
-      "duration_ms": 217373,
-      "name": "Fire",
-      "url": "https://open.spotify.com/track/2lBEWXP11gpEySIXgA5ALH"
-    },
-    {
-      "added_at": "2023-04-25 20:43:50",
-      "album": {
         "name": "Views/Octopus EP",
         "url": "https://open.spotify.com/album/3L4wUhGelZ8wyJ13O1jerU"
       },
@@ -1667,18 +1635,50 @@
     {
       "added_at": "2023-04-25 20:43:50",
       "album": {
-        "name": "Process",
-        "url": "https://open.spotify.com/album/4fRcYn1zNOHY5LJXuRmJHI"
+        "name": "A Violent Dichotomy",
+        "url": "https://open.spotify.com/album/5kKivJoHCGybHPa0HZRqQt"
       },
       "artists": [
         {
-          "name": "Sampha",
-          "url": "https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm"
+          "name": "LUCIUS ARTHUR",
+          "url": "https://open.spotify.com/artist/67vICzj4HQ8LayBYXqF5YD"
         }
       ],
-      "duration_ms": 218160,
-      "name": "(No One Knows Me) Like the Piano",
-      "url": "https://open.spotify.com/track/3D1VUmjj0IlhdHqGConc7C"
+      "duration_ms": 255113,
+      "name": "Bad Habit",
+      "url": "https://open.spotify.com/track/6gRdiHPSPWUfzqlY3AIxcO"
+    },
+    {
+      "added_at": "2023-04-25 20:43:50",
+      "album": {
+        "name": "Thee Sacred Souls",
+        "url": "https://open.spotify.com/album/6ofJrAZaaX0iWTXYXObUxE"
+      },
+      "artists": [
+        {
+          "name": "Thee Sacred Souls",
+          "url": "https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU"
+        }
+      ],
+      "duration_ms": 211626,
+      "name": "Future Lover",
+      "url": "https://open.spotify.com/track/3kedYiw0PflZpyQcDzBLKK"
+    },
+    {
+      "added_at": "2023-04-25 20:43:50",
+      "album": {
+        "name": "Saint Cloud",
+        "url": "https://open.spotify.com/album/4V1EQ7wQZUoiPjMY0WtY3M"
+      },
+      "artists": [
+        {
+          "name": "Waxahatchee",
+          "url": "https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF"
+        }
+      ],
+      "duration_ms": 217373,
+      "name": "Fire",
+      "url": "https://open.spotify.com/track/2lBEWXP11gpEySIXgA5ALH"
     }
   ],
   "unique_name": "late night vibes",

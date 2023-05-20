@@ -1,12 +1,12 @@
 {
   "description": "What in the stutter/rainy/tremolo house list did I just create??",
-  "num_followers": 8180,
+  "num_followers": 8219,
   "original_name": "Emotional Dance",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmY2QzOGJhZGU0NjcxZjVjNWJiNTM3MGY1N2FmOGE5NzIwZGQxY2M1",
+  "snapshot_id": "MCw4OTFiODQzMjNlZTRlNmE2OTFjZjI5MzMzYzQzMDQxNWIzZWMxNzVl",
   "tracks": [
     {
       "added_at": "2023-05-04 22:00:00",
@@ -487,6 +487,22 @@
     {
       "added_at": "2023-04-27 22:01:00",
       "album": {
+        "name": "So Much In Love",
+        "url": "https://open.spotify.com/album/7p0hUdHwZw2lN8PtRkVeiX"
+      },
+      "artists": [
+        {
+          "name": "D.O.D",
+          "url": "https://open.spotify.com/artist/0Cs47vvRsPgEfliBU9KDiB"
+        }
+      ],
+      "duration_ms": 178453,
+      "name": "So Much In Love",
+      "url": "https://open.spotify.com/track/7DnI3ktF2vcmzKuCCKseQL"
+    },
+    {
+      "added_at": "2023-04-27 22:01:00",
+      "album": {
         "name": "Lost My Mind (Wake Up)",
         "url": "https://open.spotify.com/album/3sHc1hZu6UZ63wgnqqUjDw"
       },
@@ -503,22 +519,6 @@
       "duration_ms": 147673,
       "name": "Lost My Mind (Wake Up)",
       "url": "https://open.spotify.com/track/0fdfXWcW9BFBGsdk7fh0B5"
-    },
-    {
-      "added_at": "2023-04-27 22:01:00",
-      "album": {
-        "name": "So Much In Love",
-        "url": "https://open.spotify.com/album/7p0hUdHwZw2lN8PtRkVeiX"
-      },
-      "artists": [
-        {
-          "name": "D.O.D",
-          "url": "https://open.spotify.com/artist/0Cs47vvRsPgEfliBU9KDiB"
-        }
-      ],
-      "duration_ms": 178453,
-      "name": "So Much In Love",
-      "url": "https://open.spotify.com/track/7DnI3ktF2vcmzKuCCKseQL"
     },
     {
       "added_at": "2023-04-27 22:01:00",
@@ -641,22 +641,6 @@
       "url": "https://open.spotify.com/track/2sLVs5iX0osogh4jcsAJkv"
     },
     {
-      "added_at": "2023-04-27 22:01:00",
-      "album": {
-        "name": "Kratos (A Little Closer)",
-        "url": "https://open.spotify.com/album/4Mn27B3MXY9qeF21HTV2RY"
-      },
-      "artists": [
-        {
-          "name": "Alxboiiz",
-          "url": "https://open.spotify.com/artist/1aHTfmX9jDqFhqcrrInfuS"
-        }
-      ],
-      "duration_ms": 150000,
-      "name": "Kratos (A Little Closer)",
-      "url": "https://open.spotify.com/track/021h2zyAxfFKcMK9k2inuN"
-    },
-    {
       "added_at": "2023-05-04 22:00:00",
       "album": {
         "name": "Breaking Apart",
@@ -675,6 +659,22 @@
       "duration_ms": 275958,
       "name": "Breaking Apart",
       "url": "https://open.spotify.com/track/6QSgJaGAs7EhyCXTYehkZd"
+    },
+    {
+      "added_at": "2023-04-27 22:01:00",
+      "album": {
+        "name": "Kratos (A Little Closer)",
+        "url": "https://open.spotify.com/album/4Mn27B3MXY9qeF21HTV2RY"
+      },
+      "artists": [
+        {
+          "name": "Alxboiiz",
+          "url": "https://open.spotify.com/artist/1aHTfmX9jDqFhqcrrInfuS"
+        }
+      ],
+      "duration_ms": 150000,
+      "name": "Kratos (A Little Closer)",
+      "url": "https://open.spotify.com/track/021h2zyAxfFKcMK9k2inuN"
     },
     {
       "added_at": "2023-04-27 22:01:00",
@@ -731,6 +731,22 @@
     {
       "added_at": "2023-04-27 22:01:00",
       "album": {
+        "name": "We Don\u2019t Ever Stop",
+        "url": "https://open.spotify.com/album/0ZrhY3h9Flf23MIl5udSTV"
+      },
+      "artists": [
+        {
+          "name": "Tom Santa",
+          "url": "https://open.spotify.com/artist/1dTEPvUhxpFzL7UMKHWFfZ"
+        }
+      ],
+      "duration_ms": 160638,
+      "name": "We Don't Ever Stop",
+      "url": "https://open.spotify.com/track/7tzsbAE9Md4tr8MAbK4h5i"
+    },
+    {
+      "added_at": "2023-04-27 22:01:00",
+      "album": {
         "name": "Run Till Dark (with Now United) (Arcando Remix)",
         "url": "https://open.spotify.com/album/3CndXGZ1kldW1imbZb3NAG"
       },
@@ -751,22 +767,6 @@
       "duration_ms": 186870,
       "name": "Run Till Dark (with Now United) (Arcando Remix)",
       "url": "https://open.spotify.com/track/6D9sUOLZ8BW9HVQoiKh3Pb"
-    },
-    {
-      "added_at": "2023-04-27 22:01:00",
-      "album": {
-        "name": "We Don\u2019t Ever Stop",
-        "url": "https://open.spotify.com/album/0ZrhY3h9Flf23MIl5udSTV"
-      },
-      "artists": [
-        {
-          "name": "Tom Santa",
-          "url": "https://open.spotify.com/artist/1dTEPvUhxpFzL7UMKHWFfZ"
-        }
-      ],
-      "duration_ms": 160638,
-      "name": "We Don't Ever Stop",
-      "url": "https://open.spotify.com/track/7tzsbAE9Md4tr8MAbK4h5i"
     },
     {
       "added_at": "2023-04-27 22:01:00",
@@ -855,22 +855,6 @@
     {
       "added_at": "2023-04-27 22:01:00",
       "album": {
-        "name": "Nothing Is Easy EP",
-        "url": "https://open.spotify.com/album/4nm8MRARxw1YRlVX8m2BBW"
-      },
-      "artists": [
-        {
-          "name": "Jengi",
-          "url": "https://open.spotify.com/artist/4lgrPvofm0IT605L9OrOTN"
-        }
-      ],
-      "duration_ms": 191328,
-      "name": "Nothing Is Easy",
-      "url": "https://open.spotify.com/track/5iKzJujKsuWtQcZ1JqrRIH"
-    },
-    {
-      "added_at": "2023-04-27 22:01:00",
-      "album": {
         "name": "Glow / Void",
         "url": "https://open.spotify.com/album/1zcHK4j2d06jEEoLrnSS0G"
       },
@@ -883,6 +867,22 @@
       "duration_ms": 193706,
       "name": "Glow",
       "url": "https://open.spotify.com/track/4hulj08qi6HvsUfipIkzdk"
+    },
+    {
+      "added_at": "2023-04-27 22:01:00",
+      "album": {
+        "name": "Nothing Is Easy EP",
+        "url": "https://open.spotify.com/album/4nm8MRARxw1YRlVX8m2BBW"
+      },
+      "artists": [
+        {
+          "name": "Jengi",
+          "url": "https://open.spotify.com/artist/4lgrPvofm0IT605L9OrOTN"
+        }
+      ],
+      "duration_ms": 191328,
+      "name": "Nothing Is Easy",
+      "url": "https://open.spotify.com/track/5iKzJujKsuWtQcZ1JqrRIH"
     },
     {
       "added_at": "2023-04-27 22:01:00",
@@ -1151,22 +1151,6 @@
     {
       "added_at": "2023-04-27 22:01:00",
       "album": {
-        "name": "Little Love",
-        "url": "https://open.spotify.com/album/793CKt4Qo8QvaOx2uWkhst"
-      },
-      "artists": [
-        {
-          "name": "Elderbrook",
-          "url": "https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64"
-        }
-      ],
-      "duration_ms": 263891,
-      "name": "Wasted On You",
-      "url": "https://open.spotify.com/track/3HSf2e7s5Q9WQO16biu4U4"
-    },
-    {
-      "added_at": "2023-04-27 22:01:00",
-      "album": {
         "name": "No Nein",
         "url": "https://open.spotify.com/album/5vmCLooZQ8zXFbabT1nvxP"
       },
@@ -1183,6 +1167,46 @@
       "duration_ms": 151273,
       "name": "No Nein",
       "url": "https://open.spotify.com/track/4qeIlzP0Z1JFXh0AckDcX8"
+    },
+    {
+      "added_at": "2023-04-27 22:01:00",
+      "album": {
+        "name": "Little Love",
+        "url": "https://open.spotify.com/album/793CKt4Qo8QvaOx2uWkhst"
+      },
+      "artists": [
+        {
+          "name": "Elderbrook",
+          "url": "https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64"
+        }
+      ],
+      "duration_ms": 263891,
+      "name": "Wasted On You",
+      "url": "https://open.spotify.com/track/3HSf2e7s5Q9WQO16biu4U4"
+    },
+    {
+      "added_at": "2023-05-11 22:00:00",
+      "album": {
+        "name": "Call On Me & Lifetime (Remixes)",
+        "url": "https://open.spotify.com/album/1CRH8YfN1l16GxyuuFQn18"
+      },
+      "artists": [
+        {
+          "name": "SG Lewis",
+          "url": "https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG"
+        },
+        {
+          "name": "Tove Lo",
+          "url": "https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK"
+        },
+        {
+          "name": "SILK",
+          "url": "https://open.spotify.com/artist/01epL9hgF4G7guGkrnzR8a"
+        }
+      ],
+      "duration_ms": 209767,
+      "name": "Call On Me (with Tove Lo) - SILK \"2am\" Remix",
+      "url": "https://open.spotify.com/track/1FOB0dyeUM2iOLMNnX8dKE"
     },
     {
       "added_at": "2023-04-27 22:01:00",
@@ -1235,30 +1259,6 @@
       "duration_ms": 227624,
       "name": "So Long",
       "url": "https://open.spotify.com/track/0PFqyFI62E0nTjIcBdhHPD"
-    },
-    {
-      "added_at": "2023-05-11 22:00:00",
-      "album": {
-        "name": "Call On Me & Lifetime (Remixes)",
-        "url": "https://open.spotify.com/album/1CRH8YfN1l16GxyuuFQn18"
-      },
-      "artists": [
-        {
-          "name": "SG Lewis",
-          "url": "https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG"
-        },
-        {
-          "name": "Tove Lo",
-          "url": "https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK"
-        },
-        {
-          "name": "SILK",
-          "url": "https://open.spotify.com/artist/01epL9hgF4G7guGkrnzR8a"
-        }
-      ],
-      "duration_ms": 209767,
-      "name": "Call On Me (with Tove Lo) - SILK \"2am\" Remix",
-      "url": "https://open.spotify.com/track/1FOB0dyeUM2iOLMNnX8dKE"
     },
     {
       "added_at": "2023-04-27 22:01:00",
@@ -1345,20 +1345,20 @@
       "url": "https://open.spotify.com/track/79wvg55yhD3jSwA3vrRBUV"
     },
     {
-      "added_at": "2023-04-27 22:01:00",
+      "added_at": "2023-05-04 22:02:43",
       "album": {
-        "name": "Silence In The Hollow",
-        "url": "https://open.spotify.com/album/6Vdy9cA047Y1a0AbDSQjGQ"
+        "name": "I'm All In",
+        "url": "https://open.spotify.com/album/4Ab2C4bPcDAVpAN0zqGNQe"
       },
       "artists": [
         {
-          "name": "John Dahlb\u00e4ck",
-          "url": "https://open.spotify.com/artist/15xvsJMf8phaNa1LYvL9Qv"
+          "name": "Babsy.",
+          "url": "https://open.spotify.com/artist/1BjdCHWqVEwBktJLHOUhmk"
         }
       ],
-      "duration_ms": 204878,
-      "name": "Silence In The Hollow",
-      "url": "https://open.spotify.com/track/3NGe0uPXUFfutwKaskELsQ"
+      "duration_ms": 179076,
+      "name": "I'm All In",
+      "url": "https://open.spotify.com/track/32sVl6OPnToHW3csfoVPWD"
     }
   ],
   "unique_name": "Emotional Dance",

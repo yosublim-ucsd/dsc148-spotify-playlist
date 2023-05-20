@@ -1105,6 +1105,28 @@
     },
     {
       "album": {
+        "name": "Vintage Big Band",
+        "url": "https://open.spotify.com/album/4CbbOvGG4eQkNPqpZ21v2O"
+      },
+      "artists": [
+        {
+          "name": "John Rowcroft",
+          "url": "https://open.spotify.com/artist/7GyrVlX5jFlHisEa2X2GSF"
+        },
+        {
+          "name": "London Studio Big Band",
+          "url": "https://open.spotify.com/artist/38Rc4JSbOBanZukrQFBe7Z"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147891,
+      "name": "Speakeasy Swagger",
+      "url": "https://open.spotify.com/track/3B1iVnHB6KCAVs9azXtQO8"
+    },
+    {
+      "album": {
         "name": "B. G. In Hi Fi",
         "url": "https://open.spotify.com/album/33oCBSZiLbfqyOnTTQ4Tct"
       },
@@ -1476,7 +1498,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 186598,
       "name": "Your Mind Is on Vacation",
       "url": "https://open.spotify.com/track/7F0owhC3XEnUACoLcnyCHJ"

@@ -4,7 +4,7 @@
 
 > ¡Hasta las 15! Monster merengue hits! Cover: Eddy Herrera
 
-178 songs - 12 hr 20 min
+179 songs - 12 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,6 +45,7 @@
 | [Dominicano de Pura Cepa](https://open.spotify.com/track/0HNUDkgeq44zX2kPXYyUZz) | [Kalimete](https://open.spotify.com/artist/0Vcb967TZdQLzpGd4OlWdw) | [Paso a Paso](https://open.spotify.com/album/5U4bRc3qJu9cK6KtVSVoX7) | 3:58 | 2022-01-20 | 2023-03-11 |
 | [Dominicano de Pura Cepa \- 2021 Mix](https://open.spotify.com/track/64SQFUsGoRC0QtVMrD9UkH) | [Kalimete](https://open.spotify.com/artist/0Vcb967TZdQLzpGd4OlWdw) | [Dominicano de Pura Cepa \(2021 Mix\)](https://open.spotify.com/album/7wEMPBhwUTQLb0uubHOnMe) | 4:01 | 2022-01-20 | 2022-07-29 |
 | [El Africano](https://open.spotify.com/track/04bMI6KabOuaqBBgBvaa32) | [Wilfrido Vargas](https://open.spotify.com/artist/5LCDv4TvYRQD5ehflOBEh4) | [Serie 2000](https://open.spotify.com/album/7DZr03Gh34452PtpkVRc5m) | 4:11 | 2022-01-20 |  |
+| [El Baile de ELO](https://open.spotify.com/track/5rLEBpESO5lPdVnvd9CVlL) | [OTA El Hipopotamo](https://open.spotify.com/artist/3JOl1WUOQAsSbib0lBzwmf) | [El Baile de ELO](https://open.spotify.com/album/41wKiRVsGDioHA7ZwSGUU3) | 2:59 | 2023-05-19 |  |
 | [El Baile del Perrito](https://open.spotify.com/track/7wLNXv8Kk6JLzo3iF70Lax) | [Wilfrido Vargas](https://open.spotify.com/artist/5LCDv4TvYRQD5ehflOBEh4) | [Itinerario](https://open.spotify.com/album/2EY7tYckELAzHGaSDXmeFR) | 4:40 | 2022-01-20 | 2023-03-11 |
 | [El Cantinero](https://open.spotify.com/track/5FLMNeZEdB0No8TebOXc0J) | [Jossie Esteban & La Patrulla 15](https://open.spotify.com/artist/0VpcWRPcfKxjqNIs82pPpb) | [O.K\. All Right](https://open.spotify.com/album/0APbv2lshYuYSoP7t4ypTv) | 5:18 | 2022-01-20 |  |
 | [El Comejen](https://open.spotify.com/track/6KWj4TAjZMVwZWxXzvHIGD) | [Wilfrido Vargas](https://open.spotify.com/artist/5LCDv4TvYRQD5ehflOBEh4) | [Los Años Dorados](https://open.spotify.com/album/58FR55u0pbPYIZr1x7M5Qg) | 4:19 | 2022-09-09 |  |
@@ -108,7 +109,7 @@
 | [La Ventanita](https://open.spotify.com/track/36QUTKmqStL4Ye8s9xeTlc) | [Sergio Vargas](https://open.spotify.com/artist/4EzD52bDFGZTEeEucKHtDs) | [Lo Mejor de Lo Mejor \- Tropical](https://open.spotify.com/album/7Mvvbvm1ALm9bO9dEn7C3i) | 4:46 | 2022-01-20 |  |
 | [La Vida Da Vuelta](https://open.spotify.com/track/2sJkbRybtcw6nq9sN4fpad) | [Olga Tañón](https://open.spotify.com/artist/4pv1Jo4PbYI8LMADJoTWjE) | [La Vida Da Vuelta](https://open.spotify.com/album/1U5Ulw5MM2Qv5BafWrF4h1) | 2:42 | 2023-04-21 |  |
 | [Llego El Real Remix](https://open.spotify.com/track/0vwDHIuKLryWpMjh1XsOsF) | [Omega](https://open.spotify.com/artist/1UjxAZqzphB1tsMb1aWBj0), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [Llego El Real Remix](https://open.spotify.com/album/0Fmk6OWP7ZPgLQNHXWSJV8) | 3:41 | 2022-01-20 | 2023-03-11 |
-| [Lluvia y Samba](https://open.spotify.com/track/1AV9KQLsAUWlUhCxbExYxz) | [Elvis Crespo](https://open.spotify.com/artist/1c22GXH30ijlOfXhfLz9Df), [Gilberto Santa Rosa](https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1), [Alex Bueno](https://open.spotify.com/artist/7esCoLcCoCK7FPa9casAH4) | [Lluvia y Samba](https://open.spotify.com/album/3FyrRtHlDXhkmwT8d5KScA) | 3:47 | 2022-01-20 |  |
+| [Lluvia y Samba](https://open.spotify.com/track/1AV9KQLsAUWlUhCxbExYxz) | [Elvis Crespo](https://open.spotify.com/artist/1c22GXH30ijlOfXhfLz9Df), [Gilberto Santa Rosa](https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1), [Alex Bueno](https://open.spotify.com/artist/7esCoLcCoCK7FPa9casAH4) | [Lluvia y Samba](https://open.spotify.com/album/3FyrRtHlDXhkmwT8d5KScA) | 3:47 | 2022-01-20 | 2023-05-20 |
 | [Loca \(feat\. El Cata\)](https://open.spotify.com/track/42k1KeBehAd83lrGt1okiC) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp), [El Cata](https://open.spotify.com/artist/52aHqEQZ802daFzuMHfcES) | [Sale el Sol](https://open.spotify.com/album/3gR578qnw47M30LVBTjrlW) | 3:03 | 2022-01-20 | 2023-03-11 |
 | [Loma de Cayenas](https://open.spotify.com/track/3ARHcfADevNLh3m5oz2TVG) | [Vicente Garcia](https://open.spotify.com/artist/2Otnykd696YidQYfEGVmNq), [Juan Luis Guerra 4.40](https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559) | [Loma de Cayenas](https://open.spotify.com/album/1QO8tFhzFpI1NcyEtY3ljl) | 3:45 | 2022-01-20 |  |
 | [Lámpara Pa' Mis Pies](https://open.spotify.com/track/0UnJphaDGpljP59lXRMaiE) | [Juan Luis Guerra 4.40](https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559) | [Literal](https://open.spotify.com/album/4jt7MDWCNhXZ09bU03NGgk) | 3:00 | 2022-01-20 | 2022-10-20 |

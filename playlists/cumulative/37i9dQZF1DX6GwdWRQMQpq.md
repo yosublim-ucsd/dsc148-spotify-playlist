@@ -2,9 +2,9 @@
 
 ### [Feelin' Myself](https://open.spotify.com/playlist/37i9dQZF1DX6GwdWRQMQpq)
 
-> The hip\-hop playlist that's a whole mood\. Art By Laci Jordan; Cover: Kali
+> The hip\-hop playlist that's a whole mood\. Art By Laci Jordan; Cover: Doechii
 
-324 songs - 14 hr 39 min
+326 songs - 14 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,7 +21,8 @@
 | [Ain't Shit](https://open.spotify.com/track/5lAnYvAIkSDNXqfo7DyFUm) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Planet Her](https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW) | 2:54 | 2021-07-30 | 2022-02-05 |
 | [Aint Got Time](https://open.spotify.com/track/3l7tZsu3paLDT1iVy1XiSl) | [Erica Banks](https://open.spotify.com/artist/2SXhbucehn00OBVKhzxDyM) | [Aint Got Time](https://open.spotify.com/album/1ao8jKjlX1V1nsWgnW7eJg) | 2:49 | 2023-04-07 | 2023-04-29 |
 | [Alone](https://open.spotify.com/track/4dRnee7aZfEe4DKBIY7otj) | [Gloss Up](https://open.spotify.com/artist/7eDFwYpqsAROCZibWYr5C1) | [Alone](https://open.spotify.com/album/3FzO2HSNQXKeT6XVeeEgws) | 2:38 | 2022-10-21 | 2022-11-19 |
-| [Another Nasty Song](https://open.spotify.com/track/6lABMzDz2QUqZXRPvQIkuJ) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [Another Nasty Song](https://open.spotify.com/album/6lFb5yNr5P8oniP9OfDuNb) | 2:24 | 2022-12-16 |  |
+| [AMERICA HAS A PROBLEM \(feat\. Kendrick Lamar\)](https://open.spotify.com/track/6l8mgVN9Xf1hiDIFGA6CTE) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m), [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [AMERICA HAS A PROBLEM \(feat\. Kendrick Lamar\)](https://open.spotify.com/album/2x4aShbWkdZ1h8sfO23yZN) | 4:20 | 2023-05-20 |  |
+| [Another Nasty Song](https://open.spotify.com/track/6lABMzDz2QUqZXRPvQIkuJ) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [Another Nasty Song](https://open.spotify.com/album/6lFb5yNr5P8oniP9OfDuNb) | 2:24 | 2022-12-16 | 2023-05-20 |
 | [Anxiety](https://open.spotify.com/track/7ewmy2XLAnCAwUsYw4MiUl) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [Anxiety](https://open.spotify.com/album/0qpJG5o7TzjB6x5kfKMLa7) | 3:06 | 2022-01-28 | 2022-04-02 |
 | [Apple Jacks](https://open.spotify.com/track/3u3zxeCkxTwNnxOMGnxQ8K) | [Pap Chanel](https://open.spotify.com/artist/1ziRj7e5Tm72Qf2ag6jHed) | [Pretty & Paid 2.0](https://open.spotify.com/album/6yHcKJECGnk90MOSWSuId2) | 2:26 | 2021-11-19 | 2022-03-26 |
 | [Area Codes](https://open.spotify.com/track/7sliFe6W30tPBPh6dvZsIH) | [Kali](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL) | [Area Codes](https://open.spotify.com/album/6uk3hBYbrMsSzufADPjv9K) | 2:19 | 2023-03-17 |  |
@@ -139,11 +140,12 @@
 | [Gravity](https://open.spotify.com/track/59QZZyiKJmpEqrOJMDtejn) | [Day Sulan](https://open.spotify.com/artist/5wrJuArO5sOmhl2QJ1Z0sk) | [Gravity](https://open.spotify.com/album/2C5UwRPN346EZUaChnKmYu) | 2:14 | 2022-04-15 | 2022-07-30 |
 | [GYHO](https://open.spotify.com/track/47P3w42tJWC62ESBJNl05O) | [Amber Rose](https://open.spotify.com/artist/207ytqBvodcHqwHP7Efu6w) | [GYHO](https://open.spotify.com/album/5CXb5g972fvRqwBi8wMQSm) | 2:16 | 2022-06-24 | 2022-07-30 |
 | [Hands Up \(with Monaleo\)](https://open.spotify.com/track/51Zw9bJ0i2KlGbbtlkbieR) | [Tay Money](https://open.spotify.com/artist/6R6EfP43F8ZuMcilsE4zs7), [Monaleo](https://open.spotify.com/artist/2sflbTtCirog5VxD6jPAfb) | [Hands Up \(with Monaleo\)](https://open.spotify.com/album/3Ai7fsWfL2WTv2iYo4bFJR) | 3:04 | 2022-09-02 | 2022-11-19 |
+| [Hardlife](https://open.spotify.com/track/3yPFUHziBrM1ab7oeiPhWH) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [CLEAR 2: SOFT LIFE EP](https://open.spotify.com/album/034Q9kY3buGcizT3Xpj9Re) | 3:13 | 2023-05-19 |  |
 | [Hate to see it](https://open.spotify.com/track/5Q76gpvb59oQ8nRrTBKFXu) | [DaniLeigh](https://open.spotify.com/artist/0XIKGBo9PnK1ApI5tZA60d) | [My Side](https://open.spotify.com/album/78JORPgpM9FU2gMHtbthaq) | 2:53 | 2022-07-22 | 2022-08-27 |
 | [Have Mercy](https://open.spotify.com/track/5SixeLvPsYpk7qq9lo5xYg) | [Chlöe](https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR) | [Have Mercy](https://open.spotify.com/album/4N8qhDeqx8AHoEhMnYEC2Y) | 2:28 | 2021-09-10 | 2022-10-09 |
 | [HDBG Shemix](https://open.spotify.com/track/2A59foYLjX4iUuvtncE8BZ) | [cupcakKe](https://open.spotify.com/artist/76SlrtEaq2oViRXulxjfuM), [Erica Banks](https://open.spotify.com/artist/2SXhbucehn00OBVKhzxDyM), [Tweeday](https://open.spotify.com/artist/6X94tEGcPVz8dyYUZqUHWj) | [HDBG Shemix](https://open.spotify.com/album/6ol7utlb56Owco0kPzLhbt) | 2:21 | 2022-09-16 | 2023-01-06 |
 | [Hello \(with Saucy Santana\)](https://open.spotify.com/track/2Ib5LOrfWLHrME2dYtMDxp) | [Tay Money](https://open.spotify.com/artist/6R6EfP43F8ZuMcilsE4zs7), [Saucy Santana](https://open.spotify.com/artist/2NfwGBr2swqZ1rzE3kAV23) | [Hello \(with Saucy Santana\)](https://open.spotify.com/album/5EnqzpQ9kXinG5Gs93urB9) | 2:48 | 2022-02-04 | 2022-05-28 |
-| [Her](https://open.spotify.com/track/5hHvFrMnwic82WwRLr4WY0) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Traumazine](https://open.spotify.com/album/4YP0h2KGDb20eJuStnBvim) | 2:17 | 2022-12-16 |  |
+| [Her](https://open.spotify.com/track/5hHvFrMnwic82WwRLr4WY0) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Traumazine](https://open.spotify.com/album/4YP0h2KGDb20eJuStnBvim) | 2:17 | 2022-12-16 | 2023-05-20 |
 | [Here I Come](https://open.spotify.com/track/24JTap3Y2LHb3icc5iIkNj) | [Lola Brooke](https://open.spotify.com/artist/2Ggj5XNlIb4Lnbqe307FyB) | [Here I Come](https://open.spotify.com/album/5yEN89IGBwa3y0tP2qWAnK) | 1:48 | 2022-11-18 | 2023-03-11 |
 | [Hey Stranger](https://open.spotify.com/track/6KNXTW9dcRUbRH9D7uUZZW) | [Melii](https://open.spotify.com/artist/4udfTw7V8jI4AHi7PEfJfj) | [Winter in New York City](https://open.spotify.com/album/35kZs9bouKM60ym7EDqOoF) | 1:42 | 2022-02-04 | 2022-03-26 |
 | [Hey, Mickey!](https://open.spotify.com/track/3RKjTYlQrtLXCq5ncswBPp) | [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [Hey, Mickey!](https://open.spotify.com/album/1kKF2bWhCvSNNmWFqQVFei) | 1:55 | 2023-01-27 | 2023-03-25 |

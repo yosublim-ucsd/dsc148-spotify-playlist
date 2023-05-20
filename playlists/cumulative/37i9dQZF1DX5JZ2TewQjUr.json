@@ -3111,6 +3111,24 @@
     },
     {
       "album": {
+        "name": "Lord Forgive",
+        "url": "https://open.spotify.com/album/2v3oz4fAvLpzprABVQryiZ"
+      },
+      "artists": [
+        {
+          "name": "donny daydream",
+          "url": "https://open.spotify.com/artist/1cN7t71QLFV6b0Fs3PlkPS"
+        }
+      ],
+      "date_added": "2023-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163021,
+      "name": "Lord Forgive",
+      "url": "https://open.spotify.com/track/2Tp27IUvgu3nOSFQhPCbQ3"
+    },
+    {
+      "album": {
         "name": "lost you twice",
         "url": "https://open.spotify.com/album/4MhFlHb9GRJoHBoLq1d8tx"
       },
@@ -5817,6 +5835,24 @@
     },
     {
       "album": {
+        "name": "Walking Song",
+        "url": "https://open.spotify.com/album/3z8jbCF2yjyd2TDBD4BaBj"
+      },
+      "artists": [
+        {
+          "name": "Cat Lau",
+          "url": "https://open.spotify.com/artist/5b6vF9dlzYkPXX89LidEH9"
+        }
+      ],
+      "date_added": "2023-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 313130,
+      "name": "Walking Song",
+      "url": "https://open.spotify.com/track/2KQzlPNWY1yPAwWHXYIBGS"
+    },
+    {
+      "album": {
         "name": "Wanna Freek \u60f3\u66f3",
         "url": "https://open.spotify.com/album/3cZQkL0zaWk7wmLv4KbkZO"
       },
@@ -6861,7 +6897,7 @@
         },
         {
           "name": "Eagle Chan",
-          "url": "https://open.spotify.com/artist/3ju0S8W62sR1NS6lawysLk"
+          "url": "https://open.spotify.com/artist/6nrxFSRns03p3RTspJ6a5D"
         }
       ],
       "date_added": "2023-05-18",

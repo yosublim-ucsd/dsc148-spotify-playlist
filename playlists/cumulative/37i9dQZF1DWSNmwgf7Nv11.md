@@ -4,7 +4,7 @@
 
 > Free\-spirited, atmospheric vibes.
 
-283 songs - 17 hr 56 min
+284 songs - 18 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -241,6 +241,7 @@
 | [Strangers](https://open.spotify.com/track/73WyCOipkJRtIH8klizJd5) | [Mt\. Joy](https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI) | [Strangers](https://open.spotify.com/album/4MVgnDxPZUCmN4LNb0Urui) | 3:13 | 2021-07-30 |  |
 | [Sweet Bunch](https://open.spotify.com/track/4M3HbDckVkAaEc5vAwt0Yn) | [Andy Jenkins](https://open.spotify.com/artist/7grGoDIxuUQFN3OwCuPXmN), [Matthew E\. White](https://open.spotify.com/artist/58mMrwemoGIcDpvfHe46u4) | [Sweet Bunch](https://open.spotify.com/album/6BWD3OL99qv4osC443uacs) | 5:58 | 2021-07-30 | 2022-07-29 |
 | [Sweet Bunch \(feat\. Matthew E\. White\)](https://open.spotify.com/track/1Bo86IP547UQzMNAkhLfSr) | [Andy Jenkins](https://open.spotify.com/artist/7grGoDIxuUQFN3OwCuPXmN), [Matthew E\. White](https://open.spotify.com/artist/58mMrwemoGIcDpvfHe46u4) | [Sweet Bunch](https://open.spotify.com/album/1OAd43hLS7VwHeXAP0BwBp) | 5:58 | 2022-02-25 |  |
+| [Switch It On, Switch It Off](https://open.spotify.com/track/124udfUnJWptY8jBDXLo2Q) | [Chartreuse](https://open.spotify.com/artist/3U58oqsrbpLo0EbARkZrBW) | [Switch It On, Switch It Off](https://open.spotify.com/album/0OcNRlzQwvWmGQ7DKHuLja) | 3:57 | 2023-05-19 |  |
 | [Symmetry \- Live from Nest Recorders](https://open.spotify.com/track/1FbwCAzXevb2GA9BwuiwxL) | [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0) | [Live from Nest Recorders](https://open.spotify.com/album/4huIPiqLQRPL4tIKARWgJX) | 4:47 | 2022-02-25 |  |
 | [Symmetry \- Live from Nest Recorders](https://open.spotify.com/track/1zspnQbskedbSMqmNWBskK) | [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0) | [Live from Nest Recorders](https://open.spotify.com/album/3SRywIgKI22yQsky4ehnun) | 4:47 | 2021-07-30 | 2022-07-29 |
 | [Taurus](https://open.spotify.com/track/2qAZTSoZL0tNEw2RX0MpMw) | [Aby Coulibaly](https://open.spotify.com/artist/1ZjJVQsxUHP7MKnZg8yE33) | [Taurus](https://open.spotify.com/album/0IaxrgQd3Q2z66CE02UyC0) | 3:06 | 2021-07-30 |  |

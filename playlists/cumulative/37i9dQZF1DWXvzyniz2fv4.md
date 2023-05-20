@@ -4,7 +4,7 @@
 
 > Pôr do sol com pé na areia e aquela resenha com violão e muita rima.
 
-120 songs - 6 hr 20 min
+121 songs - 6 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,7 +73,7 @@
 | [Mensagem](https://open.spotify.com/track/7kfXIHFbBINJeUtXaPodZw) | [Dody](https://open.spotify.com/artist/57zabUYj0PmYHv4YeaeiEs), [lowz](https://open.spotify.com/artist/03t6CvukafsNbQU1OD2n3q) | [Mensagem](https://open.spotify.com/album/2NPc3kgr2YdiElHG3CKA26) | 2:19 | 2021-11-12 |  |
 | [Minha Vida é um Filme](https://open.spotify.com/track/0FBV7lozkqCSuV2q24n43x) | [Teto](https://open.spotify.com/artist/68YeXpLt3jB7JHQS5ZjMGo) | [Minha Vida é um Filme](https://open.spotify.com/album/2yLHPvXcoZ3Zu8X5XY8Cpj) | 3:06 | 2023-03-31 |  |
 | [Mistério](https://open.spotify.com/track/2syPgLsmPg8dBNvqdKhCnc) | [Knust](https://open.spotify.com/artist/7Ceg1mJmu4lAzuhQU9hQFJ), [CMK](https://open.spotify.com/artist/6QmnOxsr8M6iD5Zqpb2src) | [Mistério](https://open.spotify.com/album/3kBRkJc0JKJ7Cb9PRbs5HG) | 2:22 | 2021-11-12 |  |
-| [Muleke Solto](https://open.spotify.com/track/3EFw2JSxIfdY0GYSNyI1rV) | [Nanno](https://open.spotify.com/artist/4UnPlU7ZiB5msWRpEDYsP3), [Mumuzinho](https://open.spotify.com/artist/34dfPo3Zi55yM6oV46q4y7), [MC G15](https://open.spotify.com/artist/3Nipsl6GVwwGyeAk0J29C6), [HITMAKER](https://open.spotify.com/artist/0Otd1ReHJtVAzwAuRj09Zg) | [Muleke Solto](https://open.spotify.com/album/0wUdBWgnakhUYaS8vCrdSy) | 3:30 | 2023-03-10 |  |
+| [Muleke Solto](https://open.spotify.com/track/3EFw2JSxIfdY0GYSNyI1rV) | [Nanno](https://open.spotify.com/artist/4UnPlU7ZiB5msWRpEDYsP3), [Mumuzinho](https://open.spotify.com/artist/34dfPo3Zi55yM6oV46q4y7), [MC G15](https://open.spotify.com/artist/3Nipsl6GVwwGyeAk0J29C6), [HITMAKER](https://open.spotify.com/artist/0Otd1ReHJtVAzwAuRj09Zg) | [Muleke Solto](https://open.spotify.com/album/0wUdBWgnakhUYaS8vCrdSy) | 3:30 | 2023-03-10 | 2023-05-20 |
 | [Nada comum](https://open.spotify.com/track/08y2uUZH8TJ9ugWBTPDdM1) | [Tristão](https://open.spotify.com/artist/4VYCiHxylPSMQEa9KlTJHH), [Camargo](https://open.spotify.com/artist/1gH9PRoYmehUf3bErRTN1f), [RalphTheKiD](https://open.spotify.com/artist/6Hmszyqw2GWY3X0yt0k1lw), [Joab Beats](https://open.spotify.com/artist/26B7Vxj9wBzF8wsDTK6IHh) | [Nada Comum](https://open.spotify.com/album/5mlcHnrFuiWZ4EQDtudkvO) | 3:19 | 2023-02-25 |  |
 | [Nem Vi Passar](https://open.spotify.com/track/5dnAo4hcNPTGztt7lIFxfO) | [jay](https://open.spotify.com/artist/2gqq586gzI7e78XfL1Px3m), [By Zero](https://open.spotify.com/artist/2bzreBUv7BOuRtNBUK5PuJ), [Wav](https://open.spotify.com/artist/7iLM6Q1zaaBEfulJi73b69) | [Nem Vi Passar](https://open.spotify.com/album/6NIBreyDuZe8y4mjRXRN3o) | 2:39 | 2021-11-12 | 2022-06-25 |
 | [Neon](https://open.spotify.com/track/15qPFRBtnV4XdDlG8O6DoM) | [Katari SC](https://open.spotify.com/artist/0hmC5uzgar1mR5E5dqeSjm), [Neto S.](https://open.spotify.com/artist/3w473vGECOnredmfAZRx0M) | [Neon](https://open.spotify.com/album/7LW6R1CL9Ewm7BGtXOR7ca) | 3:17 | 2021-11-12 |  |
@@ -97,6 +97,7 @@
 | [Qualquer Maneira](https://open.spotify.com/track/4OuOPF6CxMSUTXCuKhwKZT) | [Incógnito](https://open.spotify.com/artist/3J60BaFbuCbU1XTzLv1at8) | [Qualquer Maneira](https://open.spotify.com/album/7j1DUPvd4pw2Z6uI3QJj7r) | 5:31 | 2021-11-12 |  |
 | [Recinto](https://open.spotify.com/track/2EFkIgNiVxkIBt8zyKQBjx) | [Cave](https://open.spotify.com/artist/3TKi2ihPsE1ViCKxLKxQm7), [Mateca](https://open.spotify.com/artist/6PCKJU7fu36U4fRl7354wU) | [Recinto](https://open.spotify.com/album/2EK43yizJmRkxIxzsBPLWA) | 2:42 | 2023-04-09 |  |
 | [Reggaezin Do LotHzin](https://open.spotify.com/track/7DMbWO0qRvliv85AneFv2M) | [LotH](https://open.spotify.com/artist/15A5puZmE1MlaK7aFWfL0a) | [Reggaezin Do LotHzin](https://open.spotify.com/album/6mQpdAV0b0CIiz5TA3gcyy) | 2:47 | 2022-07-29 | 2022-10-25 |
+| [Rosa Mosqueta](https://open.spotify.com/track/3sRBvfATNmU3LmbsRaZ9Ds) | [Orgânico](https://open.spotify.com/artist/5UOOgRWguRmVZo1voJuQpf), [Léo Casa 1](https://open.spotify.com/artist/5CLH6SMhWas8Ed7W9YZjJD), [Kadri](https://open.spotify.com/artist/080IizDi2wwWfkw1zPdBZz), [SóCIRO](https://open.spotify.com/artist/3rS2eMg4fwgs0ViHxkxuUz) | [Rosa Mosqueta](https://open.spotify.com/album/29r8N46ReMZsPewh4sJAbm) | 3:18 | 2023-05-19 |  |
 | [Rosas Rositas](https://open.spotify.com/track/6guxeipY9PFAQdCcJRqKFg) | [Incógnito](https://open.spotify.com/artist/3J60BaFbuCbU1XTzLv1at8) | [Rosas Rositas](https://open.spotify.com/album/5eX7MhfxlDUmN94GuJVFVt) | 5:09 | 2021-11-12 |  |
 | [Rosé](https://open.spotify.com/track/2VjdWetFejyZ1NI95u12Zy) | [ALMAR](https://open.spotify.com/artist/4859dldHEllxxWOTQS1QKI) | [Inverno](https://open.spotify.com/album/6duBR0e38IcnyqdcTYBbCj) | 3:32 | 2022-06-24 |  |
 | [Rosé](https://open.spotify.com/track/3P4UaGYj01Sg0eajkM6jne) | [ALMAR](https://open.spotify.com/artist/4859dldHEllxxWOTQS1QKI) | [Inverno](https://open.spotify.com/album/6MqxgbPunGcsyH5AkEhD5Y) | 3:32 | 2021-11-12 | 2022-07-29 |

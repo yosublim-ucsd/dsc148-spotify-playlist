@@ -1,12 +1,12 @@
 {
   "description": "Estas damas s\u00ed que tienen car\u00e1cter. Yuridia en portada.",
-  "num_followers": 111906,
+  "num_followers": 112005,
   "original_name": "Reinas del Mariachi",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2MDE3OTBiOGVjMGQxNDc5ZTEzNTA2ZWE0ZDZjMjI5NGMxMmEzYzgz",
+  "snapshot_id": "MCw2MmE5ZThhNjFhZjU2MjI2MmQ1YTk5ZjU2YzUxMjRiNWJjM2VjOWQx",
   "tracks": [
     {
       "added_at": "2023-02-17 06:00:00",
@@ -589,7 +589,7 @@
       "url": "https://open.spotify.com/track/4Hs73YfAFeRmnLondZLt63"
     },
     {
-      "added_at": "2023-05-19 01:42:31",
+      "added_at": "2023-05-20 01:42:45",
       "album": {
         "name": "Te Mereces Un Amor",
         "url": "https://open.spotify.com/album/13BDfUfLPGTsDVP8Yue8nl"
@@ -623,22 +623,6 @@
     {
       "added_at": "2023-02-17 06:00:00",
       "album": {
-        "name": "Las Que M\u00e1s Amo",
-        "url": "https://open.spotify.com/album/731ECu5lhhgFIDPtbgOwe3"
-      },
-      "artists": [
-        {
-          "name": "Ana B\u00e1rbara",
-          "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
-        }
-      ],
-      "duration_ms": 165610,
-      "name": "Fruta Prohibida",
-      "url": "https://open.spotify.com/track/0oZYQ8dIQh5EFQwErqDWl6"
-    },
-    {
-      "added_at": "2023-02-17 06:00:00",
-      "album": {
         "name": "M\u00e9xico de Mi Coraz\u00f3n, Vol. 2",
         "url": "https://open.spotify.com/album/1Me7BNQom5WrqVsZE2igCY"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 203173,
       "name": "Mi Ego",
       "url": "https://open.spotify.com/track/07YArNoh8ZeQfnQc4sDXxB"
+    },
+    {
+      "added_at": "2023-02-17 06:00:00",
+      "album": {
+        "name": "Las Que M\u00e1s Amo",
+        "url": "https://open.spotify.com/album/731ECu5lhhgFIDPtbgOwe3"
+      },
+      "artists": [
+        {
+          "name": "Ana B\u00e1rbara",
+          "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
+        }
+      ],
+      "duration_ms": 165610,
+      "name": "Fruta Prohibida",
+      "url": "https://open.spotify.com/track/0oZYQ8dIQh5EFQwErqDWl6"
     },
     {
       "added_at": "2023-02-17 06:00:00",
@@ -1011,22 +1011,6 @@
     {
       "added_at": "2023-02-17 06:00:00",
       "album": {
-        "name": "Para No Pensar en Ti",
-        "url": "https://open.spotify.com/album/3M12MLKuvzlOXkNij49MFw"
-      },
-      "artists": [
-        {
-          "name": "Carolina Ross",
-          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
-        }
-      ],
-      "duration_ms": 209702,
-      "name": "Para No Pensar en Ti",
-      "url": "https://open.spotify.com/track/0R8fg6Kf7VCjQLU1vTrTCb"
-    },
-    {
-      "added_at": "2023-02-17 06:00:00",
-      "album": {
         "name": "\u00a1 Ora pues !",
         "url": "https://open.spotify.com/album/7o88TvoiVuWuHRoXQXsfJA"
       },
@@ -1039,6 +1023,22 @@
       "duration_ms": 224040,
       "name": "Potpourr\u00ed ranchero (Copitas de mezcal, La tequilera, La charreada)",
       "url": "https://open.spotify.com/track/3pTc8iglU79rMrTkI2fS22"
+    },
+    {
+      "added_at": "2023-02-17 06:00:00",
+      "album": {
+        "name": "Para No Pensar en Ti",
+        "url": "https://open.spotify.com/album/3M12MLKuvzlOXkNij49MFw"
+      },
+      "artists": [
+        {
+          "name": "Carolina Ross",
+          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
+        }
+      ],
+      "duration_ms": 209702,
+      "name": "Para No Pensar en Ti",
+      "url": "https://open.spotify.com/track/0R8fg6Kf7VCjQLU1vTrTCb"
     },
     {
       "added_at": "2023-02-17 06:00:00",
@@ -1107,22 +1107,6 @@
     {
       "added_at": "2023-02-17 06:00:00",
       "album": {
-        "name": "Cuando Caiga la Noche",
-        "url": "https://open.spotify.com/album/366Q6rUOSrYDXjrDiuL1lU"
-      },
-      "artists": [
-        {
-          "name": "Carolina Ross",
-          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
-        }
-      ],
-      "duration_ms": 201802,
-      "name": "Cuando Caiga la Noche",
-      "url": "https://open.spotify.com/track/15mqnAeCOQXcMB3u48RIin"
-    },
-    {
-      "added_at": "2023-02-17 06:00:00",
-      "album": {
         "name": "Pa' Los Dolidos",
         "url": "https://open.spotify.com/album/2GQFwhWhS0guyuKxD7hoMi"
       },
@@ -1139,22 +1123,6 @@
       "duration_ms": 161927,
       "name": "Desaires",
       "url": "https://open.spotify.com/track/1Kr3Yod5u7TrZMTPqOeNto"
-    },
-    {
-      "added_at": "2023-02-17 06:00:00",
-      "album": {
-        "name": "T\u00fa Sigues Siendo El Mismo",
-        "url": "https://open.spotify.com/album/5Jhz8VVmhpVNi7uPuJBNXp"
-      },
-      "artists": [
-        {
-          "name": "Flor Silvestre",
-          "url": "https://open.spotify.com/artist/4N2EXKLGtaWgJHcTd6S2mO"
-        }
-      ],
-      "duration_ms": 162829,
-      "name": "Con Mis Propias Manos",
-      "url": "https://open.spotify.com/track/0TMapOJ7zkHYuZax2ZuKnB"
     },
     {
       "added_at": "2023-02-17 06:00:00",
@@ -1179,6 +1147,22 @@
     {
       "added_at": "2023-02-17 06:00:00",
       "album": {
+        "name": "T\u00fa Sigues Siendo El Mismo",
+        "url": "https://open.spotify.com/album/5Jhz8VVmhpVNi7uPuJBNXp"
+      },
+      "artists": [
+        {
+          "name": "Flor Silvestre",
+          "url": "https://open.spotify.com/artist/4N2EXKLGtaWgJHcTd6S2mO"
+        }
+      ],
+      "duration_ms": 162829,
+      "name": "Con Mis Propias Manos",
+      "url": "https://open.spotify.com/track/0TMapOJ7zkHYuZax2ZuKnB"
+    },
+    {
+      "added_at": "2023-02-17 06:00:00",
+      "album": {
         "name": "Pecados Y Milagros",
         "url": "https://open.spotify.com/album/08W9jeGlT5X9BtJkqqFu0O"
       },
@@ -1191,6 +1175,22 @@
       "duration_ms": 284013,
       "name": "Fallaste Coraz\u00f3n",
       "url": "https://open.spotify.com/track/3HYf9vCyDkA3JkVWp9RwxH"
+    },
+    {
+      "added_at": "2023-02-17 06:00:00",
+      "album": {
+        "name": "Cuando Caiga la Noche",
+        "url": "https://open.spotify.com/album/366Q6rUOSrYDXjrDiuL1lU"
+      },
+      "artists": [
+        {
+          "name": "Carolina Ross",
+          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
+        }
+      ],
+      "duration_ms": 201802,
+      "name": "Cuando Caiga la Noche",
+      "url": "https://open.spotify.com/track/15mqnAeCOQXcMB3u48RIin"
     },
     {
       "added_at": "2023-02-17 06:00:00",
@@ -1259,22 +1259,6 @@
     {
       "added_at": "2023-02-17 06:00:00",
       "album": {
-        "name": "Los Exitos De Amalia Mendoza",
-        "url": "https://open.spotify.com/album/6nryFiduM55GeJxDc7dzNl"
-      },
-      "artists": [
-        {
-          "name": "Amalia Mendoza",
-          "url": "https://open.spotify.com/artist/3zH5WktZU1xXqBZMsgV0IC"
-        }
-      ],
-      "duration_ms": 191173,
-      "name": "\u00c9chame a M\u00ed la Culpa",
-      "url": "https://open.spotify.com/track/4QJsxMItrRbvn05gGuf0CZ"
-    },
-    {
-      "added_at": "2023-02-17 06:00:00",
-      "album": {
         "name": "La Gran Colecci\u00f3n del 60 Aniversario CBS - Irma Serrano",
         "url": "https://open.spotify.com/album/6RpmQdyqrhvwJJD4rIVMXP"
       },
@@ -1291,18 +1275,18 @@
     {
       "added_at": "2023-02-17 06:00:00",
       "album": {
-        "name": "Cuesti\u00f3n De Tiempo",
-        "url": "https://open.spotify.com/album/6WtWj2Hdjw61IsBgx2xc7W"
+        "name": "Los Exitos De Amalia Mendoza",
+        "url": "https://open.spotify.com/album/6nryFiduM55GeJxDc7dzNl"
       },
       "artists": [
         {
-          "name": "Carolina Ross",
-          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
+          "name": "Amalia Mendoza",
+          "url": "https://open.spotify.com/artist/3zH5WktZU1xXqBZMsgV0IC"
         }
       ],
-      "duration_ms": 233879,
-      "name": "Uno Y Uno",
-      "url": "https://open.spotify.com/track/0icE6mNTDgKULNLMZuLebj"
+      "duration_ms": 191173,
+      "name": "\u00c9chame a M\u00ed la Culpa",
+      "url": "https://open.spotify.com/track/4QJsxMItrRbvn05gGuf0CZ"
     },
     {
       "added_at": "2023-02-17 06:00:00",
@@ -1319,6 +1303,22 @@
       "duration_ms": 228000,
       "name": "Cielito Lindo",
       "url": "https://open.spotify.com/track/7Fg1CbNLNXDflPrr0Byxhx"
+    },
+    {
+      "added_at": "2023-02-17 06:00:00",
+      "album": {
+        "name": "Cuesti\u00f3n De Tiempo",
+        "url": "https://open.spotify.com/album/6WtWj2Hdjw61IsBgx2xc7W"
+      },
+      "artists": [
+        {
+          "name": "Carolina Ross",
+          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
+        }
+      ],
+      "duration_ms": 233879,
+      "name": "Uno Y Uno",
+      "url": "https://open.spotify.com/track/0icE6mNTDgKULNLMZuLebj"
     },
     {
       "added_at": "2023-02-17 06:00:00",
@@ -1411,6 +1411,22 @@
     {
       "added_at": "2023-02-17 06:00:00",
       "album": {
+        "name": "Desaf\u00edo De Divas",
+        "url": "https://open.spotify.com/album/0AtvVJ8iAYBi0drA2wqDU2"
+      },
+      "artists": [
+        {
+          "name": "Lucero",
+          "url": "https://open.spotify.com/artist/3SNKhPPfra7g7Crq1QA330"
+        }
+      ],
+      "duration_ms": 197080,
+      "name": "Y Volvere",
+      "url": "https://open.spotify.com/track/0BKQcXaeCmqhGv72P4Fo25"
+    },
+    {
+      "added_at": "2023-02-17 06:00:00",
+      "album": {
         "name": "La Reina de la Canci\u00f3n Mexicana",
         "url": "https://open.spotify.com/album/5Vr2JTbPM5X0OC2k2O3ocd"
       },
@@ -1439,22 +1455,6 @@
       "duration_ms": 176013,
       "name": "Paloma Sin Nido",
       "url": "https://open.spotify.com/track/6u3NpKIbHU7MgFPTIeKGIZ"
-    },
-    {
-      "added_at": "2023-02-17 06:00:00",
-      "album": {
-        "name": "Desaf\u00edo De Divas",
-        "url": "https://open.spotify.com/album/0AtvVJ8iAYBi0drA2wqDU2"
-      },
-      "artists": [
-        {
-          "name": "Lucero",
-          "url": "https://open.spotify.com/artist/3SNKhPPfra7g7Crq1QA330"
-        }
-      ],
-      "duration_ms": 197080,
-      "name": "Y Volvere",
-      "url": "https://open.spotify.com/track/0BKQcXaeCmqhGv72P4Fo25"
     },
     {
       "added_at": "2023-02-17 06:00:00",

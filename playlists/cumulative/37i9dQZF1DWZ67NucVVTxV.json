@@ -241,6 +241,24 @@
     },
     {
       "album": {
+        "name": "Al Barakah",
+        "url": "https://open.spotify.com/album/4CBcSSXGCC7q6CPYv9rigq"
+      },
+      "artists": [
+        {
+          "name": "Sean Tizzle",
+          "url": "https://open.spotify.com/artist/6J5O4svAiMxfVAisbPhA5a"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165659,
+      "name": "Al Barakah",
+      "url": "https://open.spotify.com/track/26YA4VXGjUq8Z8ZQee9xlm"
+    },
+    {
+      "album": {
         "name": "Ale Yi",
         "url": "https://open.spotify.com/album/0pJnSycgzDRYVjH9dIqOYt"
       },
@@ -1353,6 +1371,28 @@
     },
     {
       "album": {
+        "name": "Dem Deh Try",
+        "url": "https://open.spotify.com/album/16hOVq7kncTdjePoCYbB70"
+      },
+      "artists": [
+        {
+          "name": "Paq",
+          "url": "https://open.spotify.com/artist/0XYSXxykpPb4xmTjvc2yY4"
+        },
+        {
+          "name": "Shatta Wale",
+          "url": "https://open.spotify.com/artist/42q0rYXtR561ypg1Fcw1PI"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157366,
+      "name": "Dem Deh Try",
+      "url": "https://open.spotify.com/track/2DSFcgpJYAHUREdK5fgc9b"
+    },
+    {
+      "album": {
         "name": "Destiny",
         "url": "https://open.spotify.com/album/4Iz82Kum1brRGUy8HSbXGp"
       },
@@ -1656,7 +1696,7 @@
       ],
       "date_added": "2023-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 201897,
       "name": "Family",
       "url": "https://open.spotify.com/track/4aGsWyGfskIBU9i7IpvhVi"
@@ -1890,7 +1930,7 @@
       ],
       "date_added": "2021-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 185362,
       "name": "First Sermon",
       "url": "https://open.spotify.com/track/1eJ1pgxRJWi0LYPbS9CxS3"
@@ -3626,6 +3666,32 @@
       "duration_ms": 170187,
       "name": "Non Stop",
       "url": "https://open.spotify.com/track/4frYjcru01K8WkQZYc3KqX"
+    },
+    {
+      "album": {
+        "name": "Body & Soul",
+        "url": "https://open.spotify.com/album/1TGcgugu0CxUp5rhS7SyCW"
+      },
+      "artists": [
+        {
+          "name": "Joeboy",
+          "url": "https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF"
+        },
+        {
+          "name": "BNXN fka Buju",
+          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
+        },
+        {
+          "name": "ODUMODUBLVCK",
+          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204631,
+      "name": "Normally",
+      "url": "https://open.spotify.com/track/4cPKw3rzgmaU4zixJe6wge"
     },
     {
       "album": {
@@ -5604,7 +5670,7 @@
       ],
       "date_added": "2023-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 189231,
       "name": "Yakubu",
       "url": "https://open.spotify.com/track/65CrCMwhTnHJiZ9TK1cFyV"

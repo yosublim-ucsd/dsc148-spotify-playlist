@@ -1,12 +1,12 @@
 {
   "description": "Check out the latest hits from Sandalwood!\nCover : Raghavendra Stores",
-  "num_followers": 49181,
+  "num_followers": 49217,
   "original_name": "Latest Kannada",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5OGZhMzJmMTJiNjg2YTMzYzBkMTAzMzY1Yzg0MTA3ZWM4ZjAyNzEy",
+  "snapshot_id": "MCw4Mzc4YzgwZWVjMTY0ZjRmMTM4ZjQ0YTgzY2E1ODdkM2ZiMWY2M2Mz",
   "tracks": [
     {
       "added_at": "2023-04-12 13:37:54",
@@ -101,6 +101,62 @@
       "url": "https://open.spotify.com/track/6CcjkrkV1WiUhfuNChsIyT"
     },
     {
+      "added_at": "2023-05-19 07:54:29",
+      "album": {
+        "name": "Devarachaaya Vajrahasthya (From \"DDD\")",
+        "url": "https://open.spotify.com/album/0BfqsMN2P1GolaRkHqSKId"
+      },
+      "artists": [
+        {
+          "name": "Abhishek M R",
+          "url": "https://open.spotify.com/artist/2SXCXOoQxoRfHwtHaRwt97"
+        },
+        {
+          "name": "Darshan Narayan",
+          "url": "https://open.spotify.com/artist/64ZcUIE43WrFrkpbRbzqmD"
+        },
+        {
+          "name": "Suraj Jois",
+          "url": "https://open.spotify.com/artist/27GwuwHp0LlzXjAyZYniSp"
+        },
+        {
+          "name": "Chethan Kumar",
+          "url": "https://open.spotify.com/artist/3zMAaXwoMBtxeIzUQjiXcy"
+        }
+      ],
+      "duration_ms": 216985,
+      "name": "Devarachaaya Vajrahasthya (From \"DDD\")",
+      "url": "https://open.spotify.com/track/5GxWqrtaVaLqCV77sMVQY7"
+    },
+    {
+      "added_at": "2023-05-19 10:57:45",
+      "album": {
+        "name": "Kaledu Hogiruve (From \"Richie\")",
+        "url": "https://open.spotify.com/album/2W76YBXiQ83IKoyxNuhadR"
+      },
+      "artists": [
+        {
+          "name": "Kunal Ganjawala",
+          "url": "https://open.spotify.com/artist/3t4P7aXVor3NxlJPZxLzOQ"
+        },
+        {
+          "name": "Santhosh",
+          "url": "https://open.spotify.com/artist/1iZxszouU60Y4iU7STKgkj"
+        },
+        {
+          "name": "Gouspheer",
+          "url": "https://open.spotify.com/artist/3lGIPQVa0nurKrhwVoINTv"
+        },
+        {
+          "name": "GHOUSE PEER",
+          "url": "https://open.spotify.com/artist/5DEOf3vq53FaqwVKQke4xS"
+        }
+      ],
+      "duration_ms": 236307,
+      "name": "Kaledu Hogiruve - From \"Richie\"",
+      "url": "https://open.spotify.com/track/61nkw7C3ZWfFgoU7KN5jUP"
+    },
+    {
       "added_at": "2023-05-08 08:30:40",
       "album": {
         "name": "Virupaksha (Kannada) [Original Motion Picture Soundtrack]",
@@ -173,6 +229,30 @@
       "url": "https://open.spotify.com/track/4PMvYkH1nrA1KvJmWexQGW"
     },
     {
+      "added_at": "2023-05-19 07:54:29",
+      "album": {
+        "name": "Yadha Yadha Hi Title Track (From \"Yadha Yadha Hi\")",
+        "url": "https://open.spotify.com/album/0r2MyG1g7TPJEb87GBTdzk"
+      },
+      "artists": [
+        {
+          "name": "Vasishta Simha",
+          "url": "https://open.spotify.com/artist/7t2P8Da1jmDTWEXIc0HXvK"
+        },
+        {
+          "name": "Hariprriya Simha",
+          "url": "https://open.spotify.com/artist/6OxJFmzdtt4FPFjLn9Fr1T"
+        },
+        {
+          "name": "Harsha Vardhan Raaj",
+          "url": "https://open.spotify.com/artist/2ptITI8e8lLC2XCRV4BVzc"
+        }
+      ],
+      "duration_ms": 124426,
+      "name": "Yadha Yadha Hi Title Track (From \"Yadha Yadha Hi\")",
+      "url": "https://open.spotify.com/track/0H1LNEaeaGjedJYfjfqrHX"
+    },
+    {
       "added_at": "2023-04-22 12:02:15",
       "album": {
         "name": "Jai Shri Ram (KANNADA)",
@@ -233,6 +313,30 @@
       "url": "https://open.spotify.com/track/0WO4oGkSd2oPqbBq3RatRF"
     },
     {
+      "added_at": "2023-05-19 07:54:29",
+      "album": {
+        "name": "Oh Baby Girl (From \"Circus\")",
+        "url": "https://open.spotify.com/album/1zOC5jrauclqe9LruYtcLz"
+      },
+      "artists": [
+        {
+          "name": "Loy Valentine Saldanha",
+          "url": "https://open.spotify.com/artist/0eDjsNPGFH0NP2duPqimLq"
+        },
+        {
+          "name": "Roopesh Shetty",
+          "url": "https://open.spotify.com/artist/6EK9qezapMhspMNabZfDJM"
+        },
+        {
+          "name": "Nihal Tauro",
+          "url": "https://open.spotify.com/artist/64KzOsbd6ajeLLswNgJ8RF"
+        }
+      ],
+      "duration_ms": 219600,
+      "name": "Oh Baby Girl (From \"Circus\")",
+      "url": "https://open.spotify.com/track/4xGKbrZU4wUX39KueA6gQo"
+    },
+    {
       "added_at": "2023-03-20 13:07:36",
       "album": {
         "name": "Kirunage (From \u201cPS-2\") [Kannada] [Original Motion Picture Soundtrack]",
@@ -251,6 +355,30 @@
       "duration_ms": 243438,
       "name": "Kirunage (From \u201cPS-2\") [Kannada]",
       "url": "https://open.spotify.com/track/1BedHFND13twtXgYlp9b5m"
+    },
+    {
+      "added_at": "2023-05-19 07:54:29",
+      "album": {
+        "name": "Channa Chaval Dibba (From \"Gadayuddha\")",
+        "url": "https://open.spotify.com/album/1hiF838ivTWtMX5WsivEGO"
+      },
+      "artists": [
+        {
+          "name": "Chintan Vikas",
+          "url": "https://open.spotify.com/artist/6h6Iie2GsKWKWKqbe80nEL"
+        },
+        {
+          "name": "Shadrach Solomon",
+          "url": "https://open.spotify.com/artist/7KcnjAIf2jzygokbw1QzDO"
+        },
+        {
+          "name": "Dr. Suchethan Rangaswamy",
+          "url": "https://open.spotify.com/artist/0QGDNNnzyqkn4ATaiTPOYL"
+        }
+      ],
+      "duration_ms": 291600,
+      "name": "Channa Chaval Dibba - From \"Gadayuddha\"",
+      "url": "https://open.spotify.com/track/70jjCYxGP2g2hRXZPYn9hB"
     },
     {
       "added_at": "2023-05-18 06:08:40",
@@ -879,8 +1007,8 @@
     {
       "added_at": "2023-04-03 11:46:52",
       "album": {
-        "name": "Hondisi Bareyiri",
-        "url": "https://open.spotify.com/album/5fJHiATpaXvy4Z3D1N70BT"
+        "name": "Hondisi Bareyiri (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4BnBHZKVKY13aKWcCK3WwZ"
       },
       "artists": [
         {
@@ -890,7 +1018,7 @@
       ],
       "duration_ms": 282333,
       "name": "Belakali",
-      "url": "https://open.spotify.com/track/48ySpzaiabfFhHjzpTKUnD"
+      "url": "https://open.spotify.com/track/5A3ZTKVbNtXemakJjqNbFF"
     },
     {
       "added_at": "2023-03-08 11:01:57",

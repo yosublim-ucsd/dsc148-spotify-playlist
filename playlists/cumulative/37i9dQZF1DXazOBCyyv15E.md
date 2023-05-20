@@ -4,7 +4,7 @@
 
 > The home of the best new alternative music\. Cover: Sad Night Dynamite
 
-1,516 songs - 3 day 17 hr 49 min
+1,517 songs - 3 day 17 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1296,6 +1296,7 @@
 | [Telephone](https://open.spotify.com/track/1suQVYoyBOOPAsTFYNcn9p) | [Tamaraebi](https://open.spotify.com/artist/5PRqaEB5d1aoPXZzCHNmoZ) | [Telephone](https://open.spotify.com/album/38OQByRwb9Gs9ZxWiYhZPn) | 3:47 | 2021-04-30 | 2021-07-23 |
 | [Telephones 4 Eyes](https://open.spotify.com/track/5ekvvfG6BvA4Jojm6Brpor) | [Hak Baker](https://open.spotify.com/artist/5QsqiLFA5Z2gmpKBbxQB2j) | [Telephones 4 Eyes](https://open.spotify.com/album/2MVGRJl2Yqaz2hqWPRfcZa) | 3:09 | 2023-02-17 | 2023-05-05 |
 | [Teletype](https://open.spotify.com/track/3HghfkXDzz7gYCo4Xir8vI) | [Everything Everything](https://open.spotify.com/artist/1HOeqtP7tHkKNJNLzQ2tnr) | [Teletype](https://open.spotify.com/album/27kg8Ig4ENnxyayLAjVK8q) | 3:40 | 2022-03-11 | 2022-04-01 |
+| [Tell Me](https://open.spotify.com/track/4Z1olDl8aym5xZYZAat672) | [Rahill](https://open.spotify.com/artist/0a0L1YLGhMT64hsSh9M9aM) | [Flowers At Your Feet](https://open.spotify.com/album/2SAtIfz2jFRAn36xCUT8xd) | 2:41 | 2023-05-19 |  |
 | [Tell Somebody](https://open.spotify.com/track/3lQPBzcMsqmNldx9AgIhSt) | [Young Fathers](https://open.spotify.com/artist/5mZC7ndY6oGMxJentRwsuV) | [Tell Somebody](https://open.spotify.com/album/6N1ewdXLJv8e5gW5GBk5JO) | 3:10 | 2022-12-09 | 2023-01-13 |
 | [TELL THE TRUTH!](https://open.spotify.com/track/4LhT7z9ZhGViUJY9sp6j3x) | [Jordan Stephens](https://open.spotify.com/artist/0SVz62vUjHKkbVOgoTK4Ze) | [TELL THE TRUTH!](https://open.spotify.com/album/2bGlZMM6JPN9NciQrT8LxT) | 3:15 | 2022-11-25 | 2023-01-20 |
 | [TEMPTRESS](https://open.spotify.com/track/7yxTNloroHZe3rD6kxJed2) | [Ray Laurél](https://open.spotify.com/artist/7gW3GsnBSoT6q9YQUstlzA) | [TEMPTRESS](https://open.spotify.com/album/0OGPnuAwWyhqxjhAvs4RSr) | 3:07 | 2023-02-24 | 2023-05-19 |

@@ -1817,6 +1817,24 @@
     },
     {
       "album": {
+        "name": "Pieces",
+        "url": "https://open.spotify.com/album/7h2aJ4utwpfVK1GHkSGufE"
+      },
+      "artists": [
+        {
+          "name": "Dylan Conrique",
+          "url": "https://open.spotify.com/artist/2S054G7qnCK45KY0XzpX30"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233266,
+      "name": "down from the high",
+      "url": "https://open.spotify.com/track/0eEt3ih8m78sxtQyAXqiSn"
+    },
+    {
+      "album": {
         "name": "Dragonfly",
         "url": "https://open.spotify.com/album/37Uo8JuZ8K89hvKjZxxF3j"
       },
@@ -2480,7 +2498,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 206613,
       "name": "Gatekeeper",
       "url": "https://open.spotify.com/track/7uveohm2cpiLUOYZ7fj8hM"
@@ -5397,6 +5415,24 @@
     },
     {
       "album": {
+        "name": "older",
+        "url": "https://open.spotify.com/album/3mBgNei9rEYjsumRgfANDE"
+      },
+      "artists": [
+        {
+          "name": "Devon Gabriella",
+          "url": "https://open.spotify.com/artist/1rfIKfqoygAsxTWBdzVO2i"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157716,
+      "name": "older",
+      "url": "https://open.spotify.com/track/0q49ODitYkfDWQbMcsXfod"
+    },
+    {
+      "album": {
         "name": "Nicole",
         "url": "https://open.spotify.com/album/7gK4I6eM9fYJCfq4IeHx1t"
       },
@@ -5880,7 +5916,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 137938,
       "name": "remind me",
       "url": "https://open.spotify.com/track/1pEqRNNm1wqEOVKpXe5Am8"

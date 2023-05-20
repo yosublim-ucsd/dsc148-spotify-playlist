@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4a0a7QNf4ytPMOzQeWur9B.md) - [plain]
 
 > The music that fans of Glitchbreak are listening to now\. See also <a href="spotify:playlist:5aPKPDrqsxBQSST33NOsFw">The Sound of Glitchbreak</a> or <a href="spotify:playlist:6Jq6C2lFtIPE54N91HL9aM">The Edge of Glitchbreak</a>.
 
-[Particle Detector](https://open.spotify.com/user/particledetector) - 154 likes - 200 songs - 10 hr 15 min
+[Particle Detector](https://open.spotify.com/user/particledetector) - 156 likes - 200 songs - 10 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -193,7 +193,7 @@ pretty - [cumulative](/playlists/cumulative/4a0a7QNf4ytPMOzQeWur9B.md) - [plain]
 | 183 | [how far can we really go \- instrumental](https://open.spotify.com/track/2qltJYLtKKPlwqlgFeIN95) | [Mello Jupiter](https://open.spotify.com/artist/5uM9zhLZdIzlTPjZ71Myt3) | [how far can we really go](https://open.spotify.com/album/0jQXhIUpIOrNErH74uxDrZ) | 1:22 |
 | 184 | [Hi High \- Sewerslvt Remix](https://open.spotify.com/track/45lQHq4zAmsX1RTn32gW3e) | [Irelia](https://open.spotify.com/artist/5f9pMvWxUF5ZwHrwY18ldx) | [Hi High \(Sewerslvt Remix\)](https://open.spotify.com/album/73VucFuhnL2hrl6cnOelZR) | 3:57 |
 | 185 | [binary](https://open.spotify.com/track/6XkMsxpVeNf4Aun94ATfJZ) | [asc](https://open.spotify.com/artist/58xFpNgNKKMK6bUyzeqXqy) | [binary](https://open.spotify.com/album/4VJtvHiYt4mSkvt35cL5ZM) | 3:44 |
-| 186 | [ANG3L CUTTA W1NGS](https://open.spotify.com/track/3zL4jvTPTfOfnLPx3k91Jk) | [\_s1lv3r\_](https://open.spotify.com/artist/38ibnJ1BwTEWSIGAGT1CJ8), [YOHEI\_نقره خدا](https://open.spotify.com/artist/2unrlpHcM230iaxoiDcJSf) | [ANG3L CUTTA W1NGS](https://open.spotify.com/album/0SRWxcRBDe2HUP9tOp2wvl) | 1:44 |
+| 186 | [ANG3L CUTTA W1NGS](https://open.spotify.com/track/3zL4jvTPTfOfnLPx3k91Jk) | [uziellsiilver](https://open.spotify.com/artist/3UsVxdD9x27jhCBj7AzVJq), [YOHEI\_نقره خدا](https://open.spotify.com/artist/2unrlpHcM230iaxoiDcJSf) | [ANG3L CUTTA W1NGS](https://open.spotify.com/album/0SRWxcRBDe2HUP9tOp2wvl) | 1:44 |
 | 187 | [underwater\_level \- Starmoon Remix](https://open.spotify.com/track/6Lhlo3I7TXkBm2Lohk5O9s) | [p0lar](https://open.spotify.com/artist/3woJ4G5lMaDlNI28hFci0F), [Starmoon](https://open.spotify.com/artist/6LkHvIBzMUugKXmM853eqC) | [underwater\_level REMIX PACK](https://open.spotify.com/album/7MVfwHoLTzIQXQhiK0nsaN) | 2:53 |
 | 188 | [She Will Never Know](https://open.spotify.com/track/1DqS24E8oepS7CYmFF4uc3) | [Marzuku](https://open.spotify.com/artist/6L8TOjkFGmgvvBxILquVmq) | [Maybe We'll Meet Again In A Different Life](https://open.spotify.com/album/54wTw6NhhipkxYFJMFdAe1) | 2:46 |
 | 189 | [somewhere safe](https://open.spotify.com/track/5E88nbH5ZxK6Y3woOjpAf4) | [Senses](https://open.spotify.com/artist/2soiLmeGhmq9uQ9fqZm3KA), [Nosgov](https://open.spotify.com/artist/6FK0azeTwe5RwhUAkpkhnh), [mint](https://open.spotify.com/artist/18ZZFZYue9xTQel14oTWBd) | [somewhere safe](https://open.spotify.com/album/6LTm0bEtSa7Pw8pePRd76p) | 3:24 |

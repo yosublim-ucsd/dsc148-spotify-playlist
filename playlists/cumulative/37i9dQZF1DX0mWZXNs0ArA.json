@@ -922,7 +922,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 158497,
       "name": "dumiri (Sped Up)",
       "url": "https://open.spotify.com/track/6a2CPvoOR6AYucxHxJhsNK"
@@ -1336,6 +1336,24 @@
       "duration_ms": 111754,
       "name": "Gone (sped up)",
       "url": "https://open.spotify.com/track/6dj6mwfnLiCp20cslQEcOE"
+    },
+    {
+      "album": {
+        "name": "haunt you (sped up + reverb)",
+        "url": "https://open.spotify.com/album/4ZF3CYnTn3lJwPigbXbDoM"
+      },
+      "artists": [
+        {
+          "name": "X Lovers",
+          "url": "https://open.spotify.com/artist/1Hr5Adjkxh6ihfsoahOY38"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126555,
+      "name": "haunt you (sped up + reverb)",
+      "url": "https://open.spotify.com/track/2LlAOJPuMh61d66I01t27Q"
     },
     {
       "album": {
@@ -3781,6 +3799,24 @@
     },
     {
       "album": {
+        "name": "the way you looked - sped up / slowed",
+        "url": "https://open.spotify.com/album/7zc8cMAGuUBE4oHbdSbpV6"
+      },
+      "artists": [
+        {
+          "name": "juno roome",
+          "url": "https://open.spotify.com/artist/75OmhmviEWTWkMBllWgdQv"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229941,
+      "name": "the way you looked - sped up",
+      "url": "https://open.spotify.com/track/1Muf986ZgPB8adGwHWeLPu"
+    },
+    {
+      "album": {
         "name": "Them Changes (Sped Up)",
         "url": "https://open.spotify.com/album/6BxctollBKIGGFZ8zAYLxw"
       },
@@ -4078,7 +4114,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 168341,
       "name": "Where's My Love - Sped Up",
       "url": "https://open.spotify.com/track/6UHkwuFF6CXKMqBtDRxk8C"

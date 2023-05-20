@@ -4,7 +4,7 @@
 
 > 香港獨立樂隊及音樂人新浪潮集合晒喺度！記得聽真啲！Cover: 惡夢扭蛋
 
-528 songs - 1 day 5 hr 59 min
+530 songs - 1 day 6 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -171,6 +171,7 @@
 | [live better](https://open.spotify.com/track/1SKBZtrsuUbMu2uSukIbZB) | [Tomii Chan](https://open.spotify.com/artist/3agBVXHUmEfqP2IHLa9y14) | [live better](https://open.spotify.com/album/5HrGcG7mIAWeyy0IVr3CF3) | 3:53 | 2023-03-24 |  |
 | [London \(Live Version\)](https://open.spotify.com/track/3qAh3vHbkjv6aU4uGup7Nk) | [Lucid Fuzzy](https://open.spotify.com/artist/5d9ViTf7DQ0PBUHN3JTQu5) | [London \(Live Version\)](https://open.spotify.com/album/5Hck9WPH2ceGio4m6yAWBx) | 5:28 | 2023-02-16 |  |
 | [LOOK AT ME](https://open.spotify.com/track/0q0J04NigVLzVEtTJ43Gtx) | [KALAI 家麗](https://open.spotify.com/artist/1TwAmYMVhBwnBdNVKCHsOT), [JOCELINE](https://open.spotify.com/artist/7JpBZy4NUF2irqBCpIg1N3), [J Jelly](https://open.spotify.com/artist/6P03BlZWRPQGNSyiauTllj) | [LOOK AT ME](https://open.spotify.com/album/4W86QzHSltzRLWcXnWkgjC) | 3:13 | 2022-09-01 | 2023-02-03 |
+| [Lord Forgive](https://open.spotify.com/track/2Tp27IUvgu3nOSFQhPCbQ3) | [donny daydream](https://open.spotify.com/artist/1cN7t71QLFV6b0Fs3PlkPS) | [Lord Forgive](https://open.spotify.com/album/2v3oz4fAvLpzprABVQryiZ) | 2:43 | 2023-05-18 |  |
 | [lost you twice](https://open.spotify.com/track/3s5c0uvwMLkFe1f7ow9B0Z) | [Walter Kwan](https://open.spotify.com/artist/5GH4Ndf9p8BnxvpMWPxGot) | [lost you twice](https://open.spotify.com/album/4MhFlHb9GRJoHBoLq1d8tx) | 4:28 | 2022-05-26 | 2022-06-10 |
 | [Love Forever \(Remixed\)](https://open.spotify.com/track/0UpQMySQxMrcdeJUplFVp8) | [Hector Law](https://open.spotify.com/artist/363rdNViquRLciCJyTI2Zw) | [Love Forever \(Remixed\)](https://open.spotify.com/album/0rIjEzBvH8a08TODyzinGz) | 5:09 | 2022-11-24 | 2023-03-18 |
 | [Love Of My Life](https://open.spotify.com/track/5ZPZvnenwAxvoJtiH4d7cD) | [Nj Ho](https://open.spotify.com/artist/25GIEfY5XJejZgXcfvtj7m), [Cyrus Yung](https://open.spotify.com/artist/7svaP6EzrJdto8oh1XqdFg) | [Love Of My Life](https://open.spotify.com/album/51wCgwHopgTdUKYR2LHE0q) | 4:01 | 2022-09-08 | 2023-03-18 |
@@ -314,6 +315,7 @@
 | [Unison](https://open.spotify.com/track/0r9l1wCc53p2QF0n9vlWt8) | [Ragpickers](https://open.spotify.com/artist/5QMXsj4d4MVjUVTTU6SSCj) | [Unison](https://open.spotify.com/album/6kB5MFEb7FbX6g5hsXlgM5) | 4:16 | 2023-02-16 |  |
 | [Unknown](https://open.spotify.com/track/1l9UUJaLMgJ0gBtSLZW1SF) | [何佩](https://open.spotify.com/artist/3aRY5Cw7kIXQlcEnmSnhTo) | [Unknown](https://open.spotify.com/album/5Jz8oeB9hH55B7tCT2zLVK) | 5:04 | 2022-05-26 | 2022-07-29 |
 | [Unlock](https://open.spotify.com/track/3inRrpZMI0sRk8Ldef8kzu) | [YINJ](https://open.spotify.com/artist/1lo7i3t2LzfZ4GED38acoK), [WingYi](https://open.spotify.com/artist/53IHrm3wBJYrurtW01xGVV) | [Unlock](https://open.spotify.com/album/45qy057WtjUMopdSz1hh4p) | 3:48 | 2022-05-26 | 2022-06-10 |
+| [Walking Song](https://open.spotify.com/track/2KQzlPNWY1yPAwWHXYIBGS) | [Cat Lau](https://open.spotify.com/artist/5b6vF9dlzYkPXX89LidEH9) | [Walking Song](https://open.spotify.com/album/3z8jbCF2yjyd2TDBD4BaBj) | 5:13 | 2023-05-18 |  |
 | [Wanna Freek 想曳](https://open.spotify.com/track/2uYY4NzLkqBtFiGDiF5HRj) | [Takeem](https://open.spotify.com/artist/7xfeo24u8goKQRhKRj6MP1) | [Wanna Freek 想曳](https://open.spotify.com/album/3cZQkL0zaWk7wmLv4KbkZO) | 3:01 | 2022-07-07 | 2022-09-09 |
 | [want more](https://open.spotify.com/track/11I4dJxNvPVf3TBqiqHVbz) | [melatonin boy](https://open.spotify.com/artist/66vheDPkCTxEfvcqxPZR19) | [want more](https://open.spotify.com/album/0hKVDrwUxKUpWb90IiWsrM) | 2:41 | 2023-01-19 |  |
 | [Wasting Time](https://open.spotify.com/track/1edSqAJkH2ES1pkOMza8fw) | [Seungrae](https://open.spotify.com/artist/7g5FyggODL4LruwJvqx4yh) | [Wasting Time](https://open.spotify.com/album/6jfzCXWYOsxVQyJgEc9Lol) | 2:33 | 2022-11-24 | 2023-02-03 |
@@ -369,7 +371,7 @@
 | [借夢](https://open.spotify.com/track/2OypHetAmUaCOzqHwSUGGn) | [Anna hisbbuR](https://open.spotify.com/artist/1aGiVSaZQoVVgMOLYF5yVR) | [借夢](https://open.spotify.com/album/217H0K4lcncewRCzm1AXME) | 4:44 | 2022-11-17 | 2023-03-18 |
 | [做人一定要養貓](https://open.spotify.com/track/7xws2xMDZivp8H4Vezqx1W) | [陳祖](https://open.spotify.com/artist/0OQ3SXHIjoWmRAEX2qwRog) | [做人一定要養貓](https://open.spotify.com/album/4NJ2bVCzDjV8zTFQQUTGz5) | 2:43 | 2022-05-26 | 2022-07-29 |
 | [健康 HEALTHY](https://open.spotify.com/track/2Btcaum5kNbqbmEeNXL1mj) | [SINK!](https://open.spotify.com/artist/3SO5eXhcmQ6XIrblMK20si) | [健康 HEALTHY](https://open.spotify.com/album/4n3a4YvzpSLPwJUacZjLJ4) | 1:51 | 2022-12-22 | 2023-03-18 |
-| [偶爾\(也有想你的時候\) ft\. EAGLE](https://open.spotify.com/track/3cuVZGMgaQM9g3t4xcRbL2) | [惡夢扭蛋](https://open.spotify.com/artist/3ncvp8T5o3rj75jezVG2lt), [Eagle Chan](https://open.spotify.com/artist/3ju0S8W62sR1NS6lawysLk) | [偶爾\(也有想你的時候\) ft\. EAGLE](https://open.spotify.com/album/2qrLuryUZyhBiWqzBfvF8d) | 3:39 | 2023-05-18 |  |
+| [偶爾\(也有想你的時候\) ft\. EAGLE](https://open.spotify.com/track/3cuVZGMgaQM9g3t4xcRbL2) | [惡夢扭蛋](https://open.spotify.com/artist/3ncvp8T5o3rj75jezVG2lt), [Eagle Chan](https://open.spotify.com/artist/6nrxFSRns03p3RTspJ6a5D) | [偶爾\(也有想你的時候\) ft\. EAGLE](https://open.spotify.com/album/2qrLuryUZyhBiWqzBfvF8d) | 3:39 | 2023-05-18 |  |
 | [光](https://open.spotify.com/track/1FaWHaqHzNag0AGkM2lPXO) | [Arches](https://open.spotify.com/artist/5ngnmnu2W3UT2C1SEMkIqR) | [Callous Room](https://open.spotify.com/album/6f7w2CEVF64paCqtEtXsOe) | 2:45 | 2022-12-08 | 2023-03-18 |
 | [光 \(Light\)](https://open.spotify.com/track/3mr0cK1G4Y2Fc22nFKfh9o) | [handwash](https://open.spotify.com/artist/752lc6wrZTHlw74HVfAAva) | [光 \(Light\)](https://open.spotify.com/album/0J4CPHtaqgrEEHpoMkVJVL) | 3:22 | 2023-03-24 |  |
 | [兜圈](https://open.spotify.com/track/73KXQMlVcoMASo3U6kXpyA) | [Joséay](https://open.spotify.com/artist/3wADT5yU8enVjNSW9BoMxt) | [EARTHQUAKE MIXTAPE](https://open.spotify.com/album/4n2uv69cSINmVZl019A3uV) | 2:44 | 2022-09-08 | 2023-02-03 |

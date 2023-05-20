@@ -4,7 +4,7 @@
 
 > Una selección de temas de amor y desamor, con mucho feeling\. Alvaro Diaz en portada.
 
-107 songs - 5 hr 43 min
+109 songs - 5 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,6 +35,7 @@
 | [Cómo Te Olvido?](https://open.spotify.com/track/1QcbxA9ILapCLgnFNxs3RE) | [Absa G.](https://open.spotify.com/artist/2qAN5f6Dcq9KTMt3PbcjC1) | [Cactus](https://open.spotify.com/album/5VUIu125IKTjmC02C0MlDq) | 3:08 | 2022-04-25 | 2023-02-16 |
 | [Cómo Te Olvido?](https://open.spotify.com/track/4JIjw2i0NpRcHAY4BDww64) | [Absa G.](https://open.spotify.com/artist/2qAN5f6Dcq9KTMt3PbcjC1) | [Cactus](https://open.spotify.com/album/7zuDQkt1hiK1zWOqdZR3yN) | 3:08 | 2022-07-23 |  |
 | [daydreaming](https://open.spotify.com/track/77TNJhVDMPwRYxeMOED5Bl) | [Foudeqush](https://open.spotify.com/artist/0XFgM33h3Ls5tj1M9IKUWd) | [daydreaming](https://open.spotify.com/album/1zsf05JNT2seWKnDbwQzfn) | 2:42 | 2023-02-08 |  |
+| [De Nuevo](https://open.spotify.com/track/3oFu4gyDBi52uPzTJsAvSf) | [Dany Doll](https://open.spotify.com/artist/4Bxo29WRyYvpL6ZLUL6FvY), [Hemphil Otra Nota](https://open.spotify.com/artist/60fXztK8e403cLtMzAl0C9), [Master P](https://open.spotify.com/artist/7zICaxnDB9ZprDSiFpvbbW) | [De Nuevo](https://open.spotify.com/album/0QrTQAtARKKb7viQ5G32IY) | 3:39 | 2023-05-19 |  |
 | [De Ti Me Olvidé](https://open.spotify.com/track/33s8LK4Cof43AIDnfhVJUb) | [Almanegra](https://open.spotify.com/artist/3IrTSci2J1v5SbMp75mX6j), [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4) | [De Ti Me Olvidé](https://open.spotify.com/album/4eqsTSv4Ftfdi4fC453fRp) | 3:41 | 2022-04-25 |  |
 | [Dormir Contigo](https://open.spotify.com/track/4lckjigNyvJ3IY54d6Qi0I) | [Ruzzi](https://open.spotify.com/artist/1hjFlLW9xl3RCn7IWPSmxY) | [Dormir Contigo](https://open.spotify.com/album/59bouilTnKOb4R2VctA4D8) | 3:24 | 2022-04-25 |  |
 | [EGO](https://open.spotify.com/track/354pCNhr685jh0QEaGTAHH) | [Bad Milk](https://open.spotify.com/artist/5rMUEBZwYHovrlnuzggrVR) | [EGO](https://open.spotify.com/album/295wDTQXatb4fOeVpv9mlt) | 3:31 | 2022-04-25 |  |
@@ -64,6 +65,7 @@
 | [Me Dolió](https://open.spotify.com/track/2htHYthk6QEhaaV7Vwjj1S) | [Kenia OS](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG), [Alan Jacques](https://open.spotify.com/artist/1fcB4CTiWJ7MSN1oJHQbBE), [Kid Gallo](https://open.spotify.com/artist/1dpQRfqTZe2OmBhR01lD0c), [Amador](https://open.spotify.com/artist/6qZVFsb2jVenTxZ3NBGnNv) | [Me Dolió](https://open.spotify.com/album/4iPhsc8V58rKX32g718vBG) | 2:43 | 2022-04-25 | 2022-08-15 |
 | [Me Olvidé](https://open.spotify.com/track/7ffzz5DfxaPnGNCKu6f0II) | [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1) | [Portales \(Deluxe Edition\)](https://open.spotify.com/album/4rncniiruMzTS8BTWHVEjU) | 2:43 | 2023-04-07 |  |
 | [Me Olvidé De Los 2](https://open.spotify.com/track/02qcrVQ61nS94wWvLaiXGf) | [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8) | [LA ISLA LP](https://open.spotify.com/album/7kuJ6wtlijDEk2A71qG2q6) | 2:59 | 2022-04-25 |  |
+| [Multiverso \(feat\. Jay Wheeler\)](https://open.spotify.com/track/1F4d5ogw98lmisdyLZHPy1) | [Noreh](https://open.spotify.com/artist/1JHgX0v8Dx86wpfQkZuJFg), [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g) | [MUCHO TXT](https://open.spotify.com/album/2pF0h1xTaFllgMiNPKl9qc) | 2:29 | 2023-05-19 |  |
 | [Nadie Más](https://open.spotify.com/track/0B0nCve9pI1PJcdA3B4t0q) | [Aldo Carpes](https://open.spotify.com/artist/6KOP9WgxzpC7hW1sEHgjdJ) | [Nadie Más](https://open.spotify.com/album/5POc5gwtXkHsFwTfp5e0L7) | 3:23 | 2022-04-25 | 2023-04-13 |
 | [Nadie Más](https://open.spotify.com/track/0BvzoZ5Ybl1Rq9MFWiJWZp) | [Aldo Carpes](https://open.spotify.com/artist/6KOP9WgxzpC7hW1sEHgjdJ) | [Nadie Más](https://open.spotify.com/album/1AW4bjxaKeBCT2eYCqHy0d) | 3:23 | 2022-07-23 |  |
 | [Nadie más](https://open.spotify.com/track/6HkbUFn3tdjubNlDacokMx) | [Méne](https://open.spotify.com/artist/5r3DSRaJz8ckIw4XPH9Whd) | [Nadie más](https://open.spotify.com/album/11jo3NbufxnUqsoY4eG77m) | 3:07 | 2022-04-25 |  |
@@ -90,7 +92,7 @@
 | [Pulsiones](https://open.spotify.com/track/41WKZIuNkbyPRy0gj7XpNg) | [A.C.O](https://open.spotify.com/artist/0x2z4hugJaiGdTP0lzhxvO), [Naïa Valdez](https://open.spotify.com/artist/1WE5kYBn5jgJyzXroKVktA), [K.maleon](https://open.spotify.com/artist/34fVIn6K9SI57pQ9nbsKa3) | [Pulsiones](https://open.spotify.com/album/0rLIHu6IvHDXzUYZ3GlU4I) | 2:57 | 2022-04-25 |  |
 | [Párteme La Cara](https://open.spotify.com/track/5gEUDNQvoQjdjklrwPdGwD) | [C\. Tangana](https://open.spotify.com/artist/5TYxZTjIPqKM8K8NuP9woO), [Ed Maverick](https://open.spotify.com/artist/3JSSjGYcIkgsrz7892CelT) | [El Madrileño](https://open.spotify.com/album/52QyC9nSbgtHFXyQRHsXJ9) | 2:47 | 2022-04-25 |  |
 | [Que Mal Me Hacías](https://open.spotify.com/track/0pgXLwDXcq2hVxIlUD9XWU) | [EMJAY](https://open.spotify.com/artist/5TtCVmeuicGu9EIwiFQcyn) | [Que Mal Me Hacías](https://open.spotify.com/album/6as8gFrgGgyEPuu4PLR41M) | 2:20 | 2023-05-05 |  |
-| [Quiere Volar](https://open.spotify.com/track/4lFZxuEWZEEup0sth4LY0f) | [N4NO](https://open.spotify.com/artist/5DqmQVZ4gBQ7fQ4XcOfu1b), [Dromedarios Mágicos](https://open.spotify.com/artist/3UP83Ekm9Jse6j0dWZJlH9) | [Quiere Volar](https://open.spotify.com/album/597UHIUKXkBkN56KHUzWpm) | 3:02 | 2022-04-25 |  |
+| [Quiere Volar](https://open.spotify.com/track/4lFZxuEWZEEup0sth4LY0f) | [N4NO](https://open.spotify.com/artist/5DqmQVZ4gBQ7fQ4XcOfu1b), [Dromedarios Mágicos](https://open.spotify.com/artist/3UP83Ekm9Jse6j0dWZJlH9) | [Quiere Volar](https://open.spotify.com/album/597UHIUKXkBkN56KHUzWpm) | 3:02 | 2022-04-25 | 2023-05-20 |
 | [Quiéreme Así](https://open.spotify.com/track/2bOw3b1eAOtYXzyaB63KXK) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [Quiéreme Así](https://open.spotify.com/album/5ugHOB3qvt50RpLkuoIYYN) | 3:08 | 2022-04-25 |  |
 | [qué le pasa conmigo?](https://open.spotify.com/track/4TrYGTVgWOe2s3ZPn5qFTa) | [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y), [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8) | [qué le pasa conmigo?](https://open.spotify.com/album/2U3fK2dphVapz4xU77aflc) | 2:47 | 2023-04-21 |  |
 | [Quédate](https://open.spotify.com/track/2gj59R9nZqQ5QeKSiYWBs6) | [Ferraz](https://open.spotify.com/artist/01VsXNrszWERedrdHgRVH2) | [Rumbo](https://open.spotify.com/album/22xOfOeKkOaTmK0aeLnl2D) | 2:43 | 2022-04-25 |  |

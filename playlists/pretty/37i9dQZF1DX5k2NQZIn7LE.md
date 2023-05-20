@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5k2NQZIn7LE.md) - [plain]
 
 > Fusion hits of Coke Studio Pakistan\. Cover: Justin Bibis
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,685 likes - 66 songs - 7 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,715 likes - 66 songs - 7 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,4 +75,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5k2NQZIn7LE.md) - [plain]
 | 65 | [Laila O Laila](https://open.spotify.com/track/65GexggyAOfTLMWLKQS4eb) | [Rostam Mirlashari](https://open.spotify.com/artist/5zlHJ38vwLDvO6sf1lneZz), [Rohail Hyatt](https://open.spotify.com/artist/2coWJ1vqnp7z8eh0Vd5gPl) | [Coke Studio Season 6](https://open.spotify.com/album/1zJtqhpXJiqVBOP91oM0Ky) | 4:29 |
 | 66 | [Charkha Nolakha](https://open.spotify.com/track/0GKo5LtZM9SvqxZvnxz8hk) | [Atif Aslam](https://open.spotify.com/artist/2oSONSC9zQ4UonDKnLqksx), [Qayaas](https://open.spotify.com/artist/070AvN8e3WycppehEutQao), [Rohail Hyatt](https://open.spotify.com/artist/2coWJ1vqnp7z8eh0Vd5gPl) | [Coke Studio Sessions : Season 5](https://open.spotify.com/album/2Nvdh0qGvH4nufpFi0DmeK) | 6:42 |
 
-Snapshot ID: `MCwyNzk0MDNjM2ExZjhhNDMzMTlmNjUwNTExNjQ1MDUyZThlY2ViMmJl`
+Snapshot ID: `MCw3MTJjMWRhMDdmMjVmNDAxMTk1MGFiYjExNjAwMzgxNDVjNzQ3ZjNk`

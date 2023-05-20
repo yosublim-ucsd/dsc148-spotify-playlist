@@ -1,12 +1,12 @@
 {
   "description": "The best of Latin Trap. Cover: Arcangel ",
-  "num_followers": 88528,
+  "num_followers": 88609,
   "original_name": "Trap Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlZjE1NzEyNDExNzVmM2VjMjIzZGUwZDk2NWUzMDY0MDA0ZTc3NDI4",
+  "snapshot_id": "MCxiZmYzZmI0ZjMzNjE2NjFiNDZiYjY2NzBmNzhkMzMwNTIzMzE3NWM1",
   "tracks": [
     {
       "added_at": "2023-01-09 06:14:13",
@@ -155,6 +155,22 @@
     {
       "added_at": "2023-01-09 06:14:13",
       "album": {
+        "name": "Esclava",
+        "url": "https://open.spotify.com/album/5fm0bhtqgb3rxstGsSc62a"
+      },
+      "artists": [
+        {
+          "name": "Goya Alfa",
+          "url": "https://open.spotify.com/artist/4nggYuFtlufqW2xXN8bz3Y"
+        }
+      ],
+      "duration_ms": 281835,
+      "name": "Esclava",
+      "url": "https://open.spotify.com/track/6xnprGQqFigj5Zh5PCeC35"
+    },
+    {
+      "added_at": "2023-01-09 06:14:13",
+      "album": {
         "name": "Solita",
         "url": "https://open.spotify.com/album/27Exjl2H0oI6X0WCzZd7Bk"
       },
@@ -187,22 +203,6 @@
       "duration_ms": 311726,
       "name": "Solita",
       "url": "https://open.spotify.com/track/7rwX0O3RlxqqIjQM8evm5E"
-    },
-    {
-      "added_at": "2023-01-09 06:14:13",
-      "album": {
-        "name": "Esclava",
-        "url": "https://open.spotify.com/album/5fm0bhtqgb3rxstGsSc62a"
-      },
-      "artists": [
-        {
-          "name": "Goya Alfa",
-          "url": "https://open.spotify.com/artist/4nggYuFtlufqW2xXN8bz3Y"
-        }
-      ],
-      "duration_ms": 281835,
-      "name": "Esclava",
-      "url": "https://open.spotify.com/track/6xnprGQqFigj5Zh5PCeC35"
     },
     {
       "added_at": "2023-01-09 06:14:13",
@@ -395,26 +395,6 @@
     {
       "added_at": "2023-01-09 06:14:13",
       "album": {
-        "name": "La Oscuridad",
-        "url": "https://open.spotify.com/album/38QMtmbbl4jdpeQ29I8vMB"
-      },
-      "artists": [
-        {
-          "name": "Bryant Myers",
-          "url": "https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c"
-        },
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        }
-      ],
-      "duration_ms": 264905,
-      "name": "Triste",
-      "url": "https://open.spotify.com/track/7narbj6zkSW1SnMhAPep0u"
-    },
-    {
-      "added_at": "2023-01-09 06:14:13",
-      "album": {
         "name": "Cuatro Babys (feat. Trap Capos, Noriel, Bryant Myers & Juhn)",
         "url": "https://open.spotify.com/album/0bXEsNAuMFPap5TjtUzvK8"
       },
@@ -443,6 +423,26 @@
       "duration_ms": 278106,
       "name": "Cuatro Babys (feat. Trap Capos, Noriel, Bryant Myers & Juhn)",
       "url": "https://open.spotify.com/track/0JoHqmlqE0W0i9prt6kcHR"
+    },
+    {
+      "added_at": "2023-01-09 06:14:13",
+      "album": {
+        "name": "La Oscuridad",
+        "url": "https://open.spotify.com/album/38QMtmbbl4jdpeQ29I8vMB"
+      },
+      "artists": [
+        {
+          "name": "Bryant Myers",
+          "url": "https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c"
+        },
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "duration_ms": 264905,
+      "name": "Triste",
+      "url": "https://open.spotify.com/track/7narbj6zkSW1SnMhAPep0u"
     },
     {
       "added_at": "2023-01-09 06:14:13",
@@ -631,26 +631,6 @@
     {
       "added_at": "2023-01-09 06:14:13",
       "album": {
-        "name": "Sauce Boyz",
-        "url": "https://open.spotify.com/album/2JwUsV3QP7FMWx1Fzt6dHQ"
-      },
-      "artists": [
-        {
-          "name": "Eladio Carrion",
-          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
-        },
-        {
-          "name": "Jhayco",
-          "url": "https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1"
-        }
-      ],
-      "duration_ms": 191164,
-      "name": "Hielo",
-      "url": "https://open.spotify.com/track/24UGLsGfKHgQhGviBrbDdl"
-    },
-    {
-      "added_at": "2023-01-09 06:14:13",
-      "album": {
         "name": "Un Polvo (feat. Bad Bunny, Arc\u00e1ngel, \u00d1engo Flow & De La Ghetto)",
         "url": "https://open.spotify.com/album/4TxYVUplaWuhJrVmW1O5Zt"
       },
@@ -679,6 +659,26 @@
       "duration_ms": 306373,
       "name": "Un Polvo (feat. Bad Bunny, Arc\u00e1ngel, \u00d1engo Flow & De La Ghetto)",
       "url": "https://open.spotify.com/track/01vHGJRvJ6EZW9KO8NtZpi"
+    },
+    {
+      "added_at": "2023-01-09 06:14:13",
+      "album": {
+        "name": "Sauce Boyz",
+        "url": "https://open.spotify.com/album/2JwUsV3QP7FMWx1Fzt6dHQ"
+      },
+      "artists": [
+        {
+          "name": "Eladio Carrion",
+          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
+        },
+        {
+          "name": "Jhayco",
+          "url": "https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1"
+        }
+      ],
+      "duration_ms": 191164,
+      "name": "Hielo",
+      "url": "https://open.spotify.com/track/24UGLsGfKHgQhGviBrbDdl"
     },
     {
       "added_at": "2023-01-09 06:14:13",

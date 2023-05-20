@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWeWDl2F7vbH.md) - [plain]
 
 > Celebrating the iconic tracks from the black queer club scene in 1980s and 1990s Chicago \- the defining era of house music\. Cover: Frankie Knuckles
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,873 likes - 55 songs - 5 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,932 likes - 55 songs - 5 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWeWDl2F7vbH.md) - [plain]
 | 5 | [Mystery of Love](https://open.spotify.com/track/1E8hMeQvfgvQPjN3BZ2viF) | [Mr\. Fingers](https://open.spotify.com/artist/0dRiUTGvNV17AMIULRYsvn) | [Amnesia](https://open.spotify.com/album/201nAW1V2QI2jDbGci7K3g) | 7:10 |
 | 6 | [Someday](https://open.spotify.com/track/5bGlU4BXhMRMMHWZnHuKhj) | [CeCe Rogers](https://open.spotify.com/artist/2hNpOiBBvdArEJy7ACY4O1) | [CeCe Rogers](https://open.spotify.com/album/7nxYXN1wJ2PsPpQI09abMx) | 3:50 |
 | 7 | [A.I.E\. \- The L.L\. Club Mix](https://open.spotify.com/track/4ojWUlwqe20RDxfTunZSEH) | [La Compagnie Créole](https://open.spotify.com/artist/4GFqys2YA5hdCl4P2pdX3h), [Larry Levan](https://open.spotify.com/artist/7wxPD9vDsKD5OuHCeWgXRm) | [A.I.E\. \(Larry Levan Remixes\)](https://open.spotify.com/album/5DDnG0c9KJqwF4VePStSGZ) | 7:18 |
-| 8 | [Acid Thunder](https://open.spotify.com/track/25cVyUYzONCdHUeFWKbOol) | [Fast Eddie](https://open.spotify.com/artist/19slOlozrbxkEIMD8L3Qsv) | [Jack to the Sound](https://open.spotify.com/album/3igGT17KIQSSgdugsQELLh) | 4:32 |
+| 8 | [Acid Thunder](https://open.spotify.com/track/2NTqxccIvg6wlA8xnQDN4F) | [Fast Eddie](https://open.spotify.com/artist/19slOlozrbxkEIMD8L3Qsv) | [Jack to the Sound](https://open.spotify.com/album/0KByzJihmyYCbWcc8sQoba) | 4:32 |
 | 9 | [Your Love](https://open.spotify.com/track/0vryyKyxCFXT0gg670yNEw) | [Frankie Knuckles](https://open.spotify.com/artist/63yl9nDNrHpiAYGlNJxxjc) | [Baby Wants to Ride / Your Love](https://open.spotify.com/album/6hV7MW8zuYQ9skUy0rY2h5) | 6:43 |
 | 10 | [The House Music Anthem \(Move Your Body\) \- Original Mix](https://open.spotify.com/track/5GwqtJkXxEU4AB7zjD1cCe) | [Curtis "Move Your Body" Mcclain](https://open.spotify.com/artist/4TN7qh4IyreD54FZPzCGxS) | [Move Your Body 30Th Anniversary: Commemorative Edition](https://open.spotify.com/album/5quqVXlP2SHq1fH3L9HQc8) | 7:47 |
 | 11 | [French Kiss \- The Original Underground Mix](https://open.spotify.com/track/7hnqJYCKZFW7vMoykaraZG) | [Lil' Louis](https://open.spotify.com/artist/5A16TE7083RJq3yzpdsQWs), [The World](https://open.spotify.com/artist/62ltJFdLVl9JUrdhzWqp0F) | [Club Epic \- A Collection Of Classic Dance Mixes: Volume 4](https://open.spotify.com/album/5EeLmKBK9L5zt1m2hpzIjW) | 9:51 |
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWeWDl2F7vbH.md) - [plain]
 | 26 | [In a Vision \- Club 12" Mix](https://open.spotify.com/track/25hbHxgFQxUzO07aTVjHts) | [Virgo Four](https://open.spotify.com/artist/21GOilQf7qSpQdz7Ar6NWP) | [Sources \- The Trax Records Anthology Compiled by Bill Brewster](https://open.spotify.com/album/1k8Bqa4KCK7ihCuyljIoBC) | 4:44 |
 | 27 | [No Way Back](https://open.spotify.com/track/7nQaBI1NTv5kpPyeMruTTK) | [Adonis](https://open.spotify.com/artist/3DxtKajg4nhMlf0qBES7sz) | [No Way Back](https://open.spotify.com/album/2VNvQnGB9tXRpLV2aOVrmX) | 4:55 |
 | 28 | [Can You Party \(Club Mix\)](https://open.spotify.com/track/6TeKFnwaPsXI35gaQEoR8z) | [Royal House](https://open.spotify.com/artist/0daYmCWEivMhG9FsmwgyFL) | [Can You Party](https://open.spotify.com/album/6XDDcGr98kPfkv1FZ5fYoI) | 6:04 |
-| 29 | [Can U Dance \- Original](https://open.spotify.com/track/3fwERi4c7YGnHFEVnwGTQm) | [Fast Eddie](https://open.spotify.com/artist/19slOlozrbxkEIMD8L3Qsv) | [Can U Dance](https://open.spotify.com/album/4e14JHptqsfgqVlX0Z0NoI) | 6:52 |
+| 29 | [Can U Dance \- Original](https://open.spotify.com/track/6AxkOjxSv2lMNemScGfdMc) | [Fast Eddie](https://open.spotify.com/artist/19slOlozrbxkEIMD8L3Qsv) | [Can U Dance](https://open.spotify.com/album/05Itt9gUMoKbsQl8yXCnjX) | 6:52 |
 | 30 | [Housenation](https://open.spotify.com/track/3TOXCM47jxS22kqCJrQvB2) | [The Housemaster Boyz](https://open.spotify.com/artist/2w5pLnLRqI8mQwiktn7CMd) | [Housenation](https://open.spotify.com/album/3scK2qMH6f9rGXXBTqyIvR) | 8:10 |
 | 31 | [Missing You](https://open.spotify.com/track/06hANyT8h4lWypiU6PJPrR) | [Larry Heard](https://open.spotify.com/artist/3j7teie3p6UnbA8nW51Trz) | [Charles Webster \- Coast2Coast](https://open.spotify.com/album/0J3maXTgCWzdpFC3CQs6MO) | 6:36 |
 | 32 | [Washing Machine](https://open.spotify.com/track/0W6qOqaBOeDrSjcCwzfyKh) | [Mr\. Fingers](https://open.spotify.com/artist/0dRiUTGvNV17AMIULRYsvn) | [Godfathers of House](https://open.spotify.com/album/1aYVZSnAZdaUSkjlJpkEdO) | 4:24 |
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWeWDl2F7vbH.md) - [plain]
 | 54 | [Turn Up The Bass \- Fast Eddie Scratch It Up Mix](https://open.spotify.com/track/4a2VdX9fRz3mFuEP17TnEn) | [Tyree Cooper](https://open.spotify.com/artist/0iQ58hVu6gA9nuuCgbnvOn) | [Turn Up The Bass](https://open.spotify.com/album/5e9sCiyp7gvkBbZkVeu0e6) | 4:58 |
 | 55 | [Dream Girl \- Wet Dream](https://open.spotify.com/track/5HvPR4mRFKQwVpu7GRR9wz) | [Pierre's Phantasy Club](https://open.spotify.com/artist/6zJNLG5DvKim9OzkEGy1TM) | [Dream Girl](https://open.spotify.com/album/2i9YUbpKYs3wNZjk2o9fMa) | 8:53 |
 
-Snapshot ID: `MCwwNzk0YzliMTljYjk3NmU3YTJmNDVmYmJiOWQyOWUxMzJhZjI2Njli`
+Snapshot ID: `MCxlY2IwMDhlZjVlMGExMGEwMTM1N2FlY2YyNzljYTIzZDRiMTlhNDdj`

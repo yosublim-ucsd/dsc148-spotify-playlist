@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5lDysu4GbKR.md) - [plain]
 
 > Relax to these acoustic soul songs\. Cover: Jacob Banks
 
-[Spotify](https://open.spotify.com/user/spotify) - 584,461 likes - 100 songs - 5 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 584,595 likes - 100 songs - 5 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5lDysu4GbKR.md) - [plain]
 | 4 | [Kaleidoscope](https://open.spotify.com/track/6WS3DY0dzclqrAZae3E2KV) | [Otis Kane](https://open.spotify.com/artist/2rp9zfs7yPrwCGVl4CjWAl) | [Kaleidoscope](https://open.spotify.com/album/5EWLwR5kCNnntBBo4StawQ) | 3:19 |
 | 5 | [Lonely Love Song](https://open.spotify.com/track/5viN4BII5bNNQTLtJk1UsD) | [St\. Paul & The Broken Bones](https://open.spotify.com/artist/4fXkvh05wFhuH77MfD4m9o) | [Angels In Science Fiction](https://open.spotify.com/album/3PNavLo012ZTOzWvt4lqQF) | 2:37 |
 | 6 | [i would if i could](https://open.spotify.com/track/6dqvUBabxiilgNnoGqhp6e) | [Santino Le Saint](https://open.spotify.com/artist/49WBtnIs3VA1tHR7jQG1F6) | [i would if i could](https://open.spotify.com/album/64jm9EDJ6UDC1TGHxeZeQI) | 2:43 |
-| 7 | [Run Away \(Acoustic\)](https://open.spotify.com/track/76qFHkFLDTtjD4k52SFrfA) | [Moonchild](https://open.spotify.com/artist/1VgjAK52kjkQJQQRhTn02t) | [Run Away \(Acoustic\)](https://open.spotify.com/album/4Ldv9EEgRkugkJq2eB7Q2k) | 3:32 |
+| 7 | [Run Away \- Acoustic](https://open.spotify.com/track/4M4RdY2SvrljBF4md0PWdS) | [Moonchild](https://open.spotify.com/artist/1VgjAK52kjkQJQQRhTn02t) | [Run Away \(Acoustic\)](https://open.spotify.com/album/2qgNSbWCMabO8jZ2Rnucg0) | 3:32 |
 | 8 | [Southern Comfort](https://open.spotify.com/track/1v4mO5YklWTQPA4DRieSAs) | [Bluey Robinson](https://open.spotify.com/artist/4JgCtSrKUJB4UT9MUoPSo6) | [Southern Comfort](https://open.spotify.com/album/3ZZveIivszyrCv2BfNR6bx) | 3:41 |
 | 9 | [Good Man Down](https://open.spotify.com/track/4c6m1Y1P5xTmvtwAkSZnKM) | [Common Hymnal](https://open.spotify.com/artist/1q6xQXmuTccwh7gBR7ToUN), [Phillip Joubert](https://open.spotify.com/artist/10Nt11FgrmhaSSoiol0JSW), [Quincy Rycraw Cochran](https://open.spotify.com/artist/3LML6dNnnQ6CZCnWm03kNk) | [Unproduced @ Pink Moon](https://open.spotify.com/album/0jpljAh1Ge8WspLPUXSSlK) | 3:40 |
 | 10 | [Coffee in the Morning](https://open.spotify.com/track/2h99UmvMA81FvvqKM3lhwk) | [Aaron Taylor](https://open.spotify.com/artist/1evO4fwLsEkkPGq32dCix7) | [Coffee in the Morning](https://open.spotify.com/album/3amBBRy7fdSTUnDrh4QyL1) | 3:46 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5lDysu4GbKR.md) - [plain]
 | 99 | [Body \- Remastered](https://open.spotify.com/track/0RMG7vVLwdPFfcfiTeceOa) | [MiDi KwaKwa](https://open.spotify.com/artist/2JHku4gYXdo24MfdETrc3D) | [Body \(Remastered\)](https://open.spotify.com/album/2rKyEZj5sLPoy2UXudGswY) | 2:52 |
 | 100 | [None For You](https://open.spotify.com/track/2mcWClBQk8SbJpL9aMMNir) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [Renaissance](https://open.spotify.com/album/1E1voIf1Str4mMaAZXegXY) | 3:32 |
 
-Snapshot ID: `MCxkNjBlYzdjYjM0Njc5MzFmYjYyZWFkOGU0ZWNmMDIxMWI1NzdkMjRm`
+Snapshot ID: `MCwxOTM0MDQxZDhjNjBmNDJjZGM3YTNkNjJmYWY0NGE4NWZhZGU2MjM4`

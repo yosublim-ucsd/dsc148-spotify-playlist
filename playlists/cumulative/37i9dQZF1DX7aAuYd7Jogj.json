@@ -3443,6 +3443,24 @@
     },
     {
       "album": {
+        "name": "My Safest Place To Hide",
+        "url": "https://open.spotify.com/album/1rxmhMvsTedir8x8hFjcTH"
+      },
+      "artists": [
+        {
+          "name": "Tiara Greenfield",
+          "url": "https://open.spotify.com/artist/3PiRnA3K7grsa4ZQ41OGUO"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189111,
+      "name": "My Safest Place To Hide",
+      "url": "https://open.spotify.com/track/1NlkwVK9fM87f3MCudK3LF"
+    },
+    {
+      "album": {
         "name": "Nattljus",
         "url": "https://open.spotify.com/album/7FBCdcXA2coK0EcsDSBN9B"
       },
@@ -3616,7 +3634,7 @@
       ],
       "date_added": "2023-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 150000,
       "name": "Olam",
       "url": "https://open.spotify.com/track/6HrGN0OzPVjRLgl6ODRLNn"

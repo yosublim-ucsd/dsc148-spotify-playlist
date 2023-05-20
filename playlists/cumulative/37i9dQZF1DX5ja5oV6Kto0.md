@@ -4,7 +4,7 @@
 
 > The contemporary new wave of alternative, genre\-bending and creative afro\-fusion music\. Cover: <a href="https://open.spotify.com/artist/3ukrG1BmfEiuo0KDj8YTTS?si=PVaP0QlgTl6\-BABabtsKaw"> Teni</a>
 
-389 songs - 19 hr 23 min
+390 songs - 19 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,7 +16,7 @@
 | [4AM in Ibiza](https://open.spotify.com/track/03ihazIgZQERyUB2BGAeLb) | [Castro](https://open.spotify.com/artist/35o4S4FOdo7sF0mn2Qd2O8) | [Triple Take, Vol\. II](https://open.spotify.com/album/31ISMmTdreHPGIZd9ddM4M) | 2:42 | 2022-02-17 | 2022-03-12 |
 | [500 DEGREES](https://open.spotify.com/track/3vtiHUVpP0d4CJmaqNxjfM) | [Straffitti](https://open.spotify.com/artist/4mCGYkTmNnEsnTrIr3atNB) | [500 DEGREES](https://open.spotify.com/album/12DMWu6jgeqicdxuJcb75A) | 2:10 | 2022-10-28 | 2022-12-02 |
 | [5STAR](https://open.spotify.com/track/2SbUl2NjInfY4DyeEzZS7d) | [95ANTNY](https://open.spotify.com/artist/6PQLGYWDUljiFCQlltL4Cw) | [5STAR](https://open.spotify.com/album/6AyJAGUMwWM0jNmZiLvP8R) | 2:40 | 2021-12-16 | 2022-10-29 |
-| [7 DAYS](https://open.spotify.com/track/6ZVhEsRHDUpA8AzNmTBeJu) | [Fasina](https://open.spotify.com/artist/46A6IKsvzRN2Y6QHLkHvmw) | [RAIN](https://open.spotify.com/album/1fzWfjXUPWwhW4eEnX4tLW) | 2:11 | 2023-01-06 |  |
+| [7 DAYS](https://open.spotify.com/track/6ZVhEsRHDUpA8AzNmTBeJu) | [Fasina](https://open.spotify.com/artist/46A6IKsvzRN2Y6QHLkHvmw) | [RAIN](https://open.spotify.com/album/1fzWfjXUPWwhW4eEnX4tLW) | 2:11 | 2023-01-06 | 2023-05-20 |
 | [9 to 5](https://open.spotify.com/track/72BaHgyd5Zfp1NfDNbkgKp) | [Moliy](https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK) | [Mahogany St](https://open.spotify.com/album/6abagto1R8w0tTgUCnDY2d) | 2:55 | 2022-04-28 | 2022-08-13 |
 | [Abeg](https://open.spotify.com/track/6oytl8EePHa4CRuaBfzJgD) | [SOLIS](https://open.spotify.com/artist/6Yv9GLPMVN1okoETQXHUAh), [Karun](https://open.spotify.com/artist/50bljU0VZtp2E7nAFRy5pC), [Amindi](https://open.spotify.com/artist/1xQIR56DxgWYZPUvOLRIua) | [Abeg](https://open.spotify.com/album/4f5jNZ01xZqrhH0FszjrWf) | 4:13 | 2022-11-24 | 2022-12-09 |
 | [Abeg \(feat\. Amindi\)](https://open.spotify.com/track/4rRhOCXEvlQeMMLXDDigAP) | [SOLIS](https://open.spotify.com/artist/6Yv9GLPMVN1okoETQXHUAh), [Amindi](https://open.spotify.com/artist/1xQIR56DxgWYZPUvOLRIua) | [Stairway To Heaven](https://open.spotify.com/album/2gllP0wR0siE0NYM9U5Tjb) | 3:23 | 2021-12-02 | 2022-12-02 |
@@ -290,6 +290,7 @@
 | [Reason You](https://open.spotify.com/track/6FPXNqKGnd7l61nYZz8EFu) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Holiday / Reason You](https://open.spotify.com/album/1NbIj94iC99QFhVA1nBuGX) | 3:26 | 2023-02-16 | 2023-05-01 |
 | [Reckless](https://open.spotify.com/track/09n3QyfWRKV74GMinA9rj6) | [DJ Hol Up](https://open.spotify.com/artist/2zjDlvAtLyBbbcrvGSxTWy), [Jess ETA](https://open.spotify.com/artist/0pl5KisZPcKHhrruuvFg3y), [Sivonyia](https://open.spotify.com/artist/3QI04CrPyjLUiY9Kdsx1vD) | [Reckless](https://open.spotify.com/album/1WRgI6jDYYaQkw0gdKQUef) | 2:10 | 2022-11-04 |  |
 | [Reckless & Sweet](https://open.spotify.com/track/0YF4MF77Kw8CMkZkfDFtlj) | [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS) | [Reckless & Sweet](https://open.spotify.com/album/61txqqf1NJIql5AnkSNdNz) | 2:39 | 2023-03-17 |  |
+| [RELOAD](https://open.spotify.com/track/2HFLoomeTmyQK94ud7XHIb) | [Fasina](https://open.spotify.com/artist/46A6IKsvzRN2Y6QHLkHvmw) | [RELOAD X NO CAP](https://open.spotify.com/album/107Z1g0gYhZWLi2NFfhhVv) | 2:27 | 2023-05-19 |  |
 | [Retro 1981s](https://open.spotify.com/track/4pKf0Pqsga4bZGWUTaK2s8) | [Aussie Maze](https://open.spotify.com/artist/69eajei2vJW3Va81eefyZ9) | [Retro 1981s](https://open.spotify.com/album/2DVZsdZv6RCEbrG2UzfIVb) | 1:55 | 2022-02-10 | 2022-03-12 |
 | [RING RING \(feat\. Tay Iwar\)](https://open.spotify.com/track/1DqkGssR98fA9ms2ut4dj5) | [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W), [Tay Iwar](https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo) | [YOUNG PREACHER](https://open.spotify.com/album/4cz1acZPi8BkrfmIooqnlV) | 3:07 | 2022-10-28 | 2022-11-15 |
 | [Rolling Loud](https://open.spotify.com/track/6ySKC2g5tI9PE26OrUs3XN) | [Somadina](https://open.spotify.com/artist/4C9EX8d2FnWMV2yQZqeG8U) | [Rolling Loud](https://open.spotify.com/album/4CLuWbSzme2RhzTCZuPL8t) | 2:32 | 2022-09-01 |  |

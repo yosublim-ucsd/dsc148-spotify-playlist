@@ -4,25 +4,25 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aXwAOtpwvU.md) - [plain]
 
 > Odkryj swojego nowego ulubionego artystę\. Cover: <a href="spotify:artist:6W1NclX9rP93bkhQEOQtm4">Frank Leen</a>,  <a href="spotify:artist:5kH7ZateqBrrUv6u6snhnp">ta Ukrainka</a>,  <a href="spotify:artist:5ic8bWWvZHWf0dDBi9ThNk">bambi</a>,  <a href="spotify:artist:5RwiBwEEW5dOXGUlEVA0LT">stickxr</a>,  <a href="spotify:artist:4ccurDUZ48cXNrcrLsA9ub">IGNACY</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,451 likes - 60 songs - 3 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,607 likes - 60 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Millie Walky](https://open.spotify.com/track/2aVHbey5IovZh4mnKN2AcT) | [bambi](https://open.spotify.com/artist/5ic8bWWvZHWf0dDBi9ThNk) | [Millie Walky](https://open.spotify.com/album/6Aauo290kVpir6h8Tu8Cse) | 2:14 |
-| 2 | [Most](https://open.spotify.com/track/0fXNGgMLZB6jbh7RPOYBzW) | [Frank Leen](https://open.spotify.com/artist/6W1NclX9rP93bkhQEOQtm4) | [Most](https://open.spotify.com/album/2teOtNxv6PC6wvDk9UQKXf) | 2:55 |
+| 1 | [kartki](https://open.spotify.com/track/0AXB0FxeXoTMjf4z5jd58v) | [stickxr](https://open.spotify.com/artist/5RwiBwEEW5dOXGUlEVA0LT) | [kartki](https://open.spotify.com/album/2bnAOuohFRtLQlNeNJ8c5C) | 2:30 |
+| 2 | [\(Chyba\) Ostatni Dzień](https://open.spotify.com/track/2gp67Tm8jYHSP7Pg6y9CHf) | [ta Ukrainka](https://open.spotify.com/artist/5kH7ZateqBrrUv6u6snhnp) | [\(Chyba\) Ostatni Dzień](https://open.spotify.com/album/6p7FZUkev82iOCQkyHaVDX) | 2:48 |
 | 3 | [Samoloty](https://open.spotify.com/track/5NOUC4XsX99wm90BGQtjwO) | [IGNACY](https://open.spotify.com/artist/4ccurDUZ48cXNrcrLsA9ub) | [Samoloty](https://open.spotify.com/album/6hYHcpwgwyGQHGPIesLNnC) | 2:34 |
-| 4 | [kartki](https://open.spotify.com/track/0AXB0FxeXoTMjf4z5jd58v) | [stickxr](https://open.spotify.com/artist/5RwiBwEEW5dOXGUlEVA0LT) | [kartki](https://open.spotify.com/album/2bnAOuohFRtLQlNeNJ8c5C) | 2:30 |
-| 5 | [\(Chyba\) Ostatni Dzień](https://open.spotify.com/track/2gp67Tm8jYHSP7Pg6y9CHf) | [ta Ukrainka](https://open.spotify.com/artist/5kH7ZateqBrrUv6u6snhnp) | [\(Chyba\) Ostatni Dzień](https://open.spotify.com/album/6p7FZUkev82iOCQkyHaVDX) | 2:48 |
-| 6 | [IRL](https://open.spotify.com/track/0Mh7nzWn5BHJSenmaUSEt6) | [bambi](https://open.spotify.com/artist/5ic8bWWvZHWf0dDBi9ThNk), [Mjonszu](https://open.spotify.com/artist/4h0vqFFUqp5yFQ7K3dyJD8) | [IRL](https://open.spotify.com/album/4Aimo27fuTWEN871U2TQ5H) | 2:31 |
-| 7 | [Złudzenia](https://open.spotify.com/track/2n5jDzn5XWO90vc6C7zRAs) | [Frank Leen](https://open.spotify.com/artist/6W1NclX9rP93bkhQEOQtm4) | [Złudzenia](https://open.spotify.com/album/2ISFdvufeOH0wtRUfF39RZ) | 3:29 |
+| 4 | [Most](https://open.spotify.com/track/0fXNGgMLZB6jbh7RPOYBzW) | [Frank Leen](https://open.spotify.com/artist/6W1NclX9rP93bkhQEOQtm4) | [Most](https://open.spotify.com/album/2teOtNxv6PC6wvDk9UQKXf) | 2:55 |
+| 5 | [Millie Walky](https://open.spotify.com/track/2aVHbey5IovZh4mnKN2AcT) | [bambi](https://open.spotify.com/artist/5ic8bWWvZHWf0dDBi9ThNk) | [Millie Walky](https://open.spotify.com/album/6Aauo290kVpir6h8Tu8Cse) | 2:14 |
+| 6 | [Diss Na Miłość](https://open.spotify.com/track/6xaUCAXPK4VNuYH3RM24ek) | [stickxr](https://open.spotify.com/artist/5RwiBwEEW5dOXGUlEVA0LT) | [Diss Na Miłość](https://open.spotify.com/album/6suEF8zc9TYI3RPuLIi2VT) | 1:52 |
+| 7 | [RASTA](https://open.spotify.com/track/0eIGpaZ6HcS9k2Nt9nMnJJ) | [ta Ukrainka](https://open.spotify.com/artist/5kH7ZateqBrrUv6u6snhnp) | [RASTA](https://open.spotify.com/album/4DlPSU1YXt8zKWMgTaWoos) | 3:11 |
 | 8 | [Czekam Na Znak](https://open.spotify.com/track/5fjcRpwg94xQ2hrSqw6x06) | [IGNACY](https://open.spotify.com/artist/4ccurDUZ48cXNrcrLsA9ub) | [Czekam Na Znak](https://open.spotify.com/album/0qlpEOnkA92eMNZNuXJ7bn) | 3:18 |
-| 9 | [Diss Na Miłość](https://open.spotify.com/track/6xaUCAXPK4VNuYH3RM24ek) | [stickxr](https://open.spotify.com/artist/5RwiBwEEW5dOXGUlEVA0LT) | [Diss Na Miłość](https://open.spotify.com/album/6suEF8zc9TYI3RPuLIi2VT) | 1:52 |
-| 10 | [RASTA](https://open.spotify.com/track/0eIGpaZ6HcS9k2Nt9nMnJJ) | [ta Ukrainka](https://open.spotify.com/artist/5kH7ZateqBrrUv6u6snhnp) | [RASTA](https://open.spotify.com/album/4DlPSU1YXt8zKWMgTaWoos) | 3:11 |
-| 11 | [chrypki głos nie od fajek](https://open.spotify.com/track/3FaXFUfn2zJMuXchw902IW) | [bambi](https://open.spotify.com/artist/5ic8bWWvZHWf0dDBi9ThNk) | [chrypki głos nie od fajek](https://open.spotify.com/album/5s0PHctq0QWrUbWx2YcXq3) | 3:15 |
-| 12 | [Za dobrze by zapomnieć](https://open.spotify.com/track/6xusGbEgXx0whVPZ2HjKnD) | [Frank Leen](https://open.spotify.com/artist/6W1NclX9rP93bkhQEOQtm4) | [Za dobrze by zapomnieć](https://open.spotify.com/album/7dCc3k77G5W0UNhUBdMmcb) | 2:32 |
+| 9 | [Złudzenia](https://open.spotify.com/track/2n5jDzn5XWO90vc6C7zRAs) | [Frank Leen](https://open.spotify.com/artist/6W1NclX9rP93bkhQEOQtm4) | [Złudzenia](https://open.spotify.com/album/2ISFdvufeOH0wtRUfF39RZ) | 3:29 |
+| 10 | [IRL](https://open.spotify.com/track/0Mh7nzWn5BHJSenmaUSEt6) | [bambi](https://open.spotify.com/artist/5ic8bWWvZHWf0dDBi9ThNk), [Mjonszu](https://open.spotify.com/artist/4h0vqFFUqp5yFQ7K3dyJD8) | [IRL](https://open.spotify.com/album/4Aimo27fuTWEN871U2TQ5H) | 2:31 |
+| 11 | [Poker](https://open.spotify.com/track/1p55Vk3mN5bUCrvL13zeaq) | [stickxr](https://open.spotify.com/artist/5RwiBwEEW5dOXGUlEVA0LT) | [Poker](https://open.spotify.com/album/7edaeckjPgB02aWyESDg3n) | 1:46 |
+| 12 | [TO JEST LOVEEE](https://open.spotify.com/track/44zqk0oN098y0hUTfwlyoR) | [ta Ukrainka](https://open.spotify.com/artist/5kH7ZateqBrrUv6u6snhnp) | [TO JEST LOVEEE](https://open.spotify.com/album/5IwKdshK24jeKOHzqbDueg) | 3:03 |
 | 13 | [To Co Mam](https://open.spotify.com/track/5FF6gO4hHrBhsQFVGhWA27) | [IGNACY](https://open.spotify.com/artist/4ccurDUZ48cXNrcrLsA9ub) | [To Co Mam](https://open.spotify.com/album/3hmQjrFRpJRZrZbyXIACPR) | 3:14 |
-| 14 | [Poker](https://open.spotify.com/track/1p55Vk3mN5bUCrvL13zeaq) | [stickxr](https://open.spotify.com/artist/5RwiBwEEW5dOXGUlEVA0LT) | [Poker](https://open.spotify.com/album/7edaeckjPgB02aWyESDg3n) | 1:46 |
-| 15 | [TO JEST LOVEEE](https://open.spotify.com/track/44zqk0oN098y0hUTfwlyoR) | [ta Ukrainka](https://open.spotify.com/artist/5kH7ZateqBrrUv6u6snhnp) | [TO JEST LOVEEE](https://open.spotify.com/album/5IwKdshK24jeKOHzqbDueg) | 3:03 |
+| 14 | [Za dobrze by zapomnieć](https://open.spotify.com/track/6xusGbEgXx0whVPZ2HjKnD) | [Frank Leen](https://open.spotify.com/artist/6W1NclX9rP93bkhQEOQtm4) | [Za dobrze by zapomnieć](https://open.spotify.com/album/7dCc3k77G5W0UNhUBdMmcb) | 2:32 |
+| 15 | [chrypki głos nie od fajek](https://open.spotify.com/track/3FaXFUfn2zJMuXchw902IW) | [bambi](https://open.spotify.com/artist/5ic8bWWvZHWf0dDBi9ThNk) | [chrypki głos nie od fajek](https://open.spotify.com/album/5s0PHctq0QWrUbWx2YcXq3) | 3:15 |
 | 16 | [Outro](https://open.spotify.com/track/3ys9zEe2Pru33ihkvskHJ5) | [Ania Leon](https://open.spotify.com/artist/43QBxtuscxneLyKYYEFfEu), [Igor Herbut](https://open.spotify.com/artist/5KTMtd3GnDdcWnwxcEBwKX) | [Outro](https://open.spotify.com/album/0NqV8UXKjInjxi0HWEmfWC) | 4:43 |
 | 17 | [Płonę, płonę](https://open.spotify.com/track/2F71Q213wMg4uDNRg3IGiz) | [Dziwna Wiosna](https://open.spotify.com/artist/2tAn2eNFnu7gP3mTdQE3ML) | [Płonę, płonę](https://open.spotify.com/album/7ewkjpkeJEnVFuLVSOmmEq) | 3:46 |
 | 18 | [bigos](https://open.spotify.com/track/3td5D76Hdk8kL7nfw2w4TM) | [Albo Inaczej](https://open.spotify.com/artist/0F1DvSOKRaSA6XKSwDNs40), [Zalia](https://open.spotify.com/artist/3VKQYnCpM6ofG8QUmlnW6d), [schafter](https://open.spotify.com/artist/2aDaFARm4U9hf5DI9Fhbnh) | [bigos](https://open.spotify.com/album/5IG3GK7rfwsspwoVgT7cml) | 3:15 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aXwAOtpwvU.md) - [plain]
 | 59 | [Oceany](https://open.spotify.com/track/30UVmRMUluX69S9OwuCdsv) | [P\. Tropez](https://open.spotify.com/artist/73WmoKfPsHU8sSCoRx2v2J) | [Oceany](https://open.spotify.com/album/0KEVljxnak0oVwBpKaNODK) | 3:10 |
 | 60 | [Zero Calorie Cookie](https://open.spotify.com/track/2aItJ1oeMxElBTGhGc2nGf) | [Marie](https://open.spotify.com/artist/5o7Atiia4I0WLFuN2qAu6M) | [Zero Calorie Cookie](https://open.spotify.com/album/1oafWfr6hOnwcGAkrRI63K) | 2:52 |
 
-Snapshot ID: `MCw3NTlhY2Q0ZWM1NjRhNTVjM2ZkOWVmNGFkZjM4YzJiOTFjMzUxZTIx`
+Snapshot ID: `MCw2NzYwYmY2M2E3OGRhMzUwYzIwNWM3ZTlmNzQ2ZWQ5MzAyNDEyMWJm`

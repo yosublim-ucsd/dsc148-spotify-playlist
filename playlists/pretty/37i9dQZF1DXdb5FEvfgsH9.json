@@ -1,12 +1,12 @@
 {
   "description": "Grooves so crispy you can snack on them. Cover: Donny Ben\u00e9t",
-  "num_followers": 16774,
+  "num_followers": 16803,
   "original_name": "Crisp",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0NzZmNjcyODFiNmU3NmM4YWJmYzViNTM2Zjc1MDMyMjU0ZTJjNGMy",
+  "snapshot_id": "MCxiYTk2ZDQ1ZmEzMGY1OWE1M2Q5OTY2NTU3YjQ4YTY4NGU0MjJiMTZl",
   "tracks": [
     {
       "added_at": "2023-04-28 04:01:00",
@@ -59,6 +59,30 @@
       "duration_ms": 209492,
       "name": "Crazy About You",
       "url": "https://open.spotify.com/track/0huzyKskhjraWtPgj2d1Zu"
+    },
+    {
+      "added_at": "2023-05-19 04:01:00",
+      "album": {
+        "name": "Alone with You (Lazywax Remix)",
+        "url": "https://open.spotify.com/album/0P9SMOg4aDG5X8Xc63lbTj"
+      },
+      "artists": [
+        {
+          "name": "Kraak & Smaak",
+          "url": "https://open.spotify.com/artist/7c5qu1gNlg8jWDzzmlp89O"
+        },
+        {
+          "name": "Cleopold",
+          "url": "https://open.spotify.com/artist/2BeARYDF52QQk5S2zgiVHe"
+        },
+        {
+          "name": "Lazywax",
+          "url": "https://open.spotify.com/artist/0JmfcW7ntKscmNRiLbKEcw"
+        }
+      ],
+      "duration_ms": 294849,
+      "name": "Alone with You - Lazywax Remix",
+      "url": "https://open.spotify.com/track/4jO4c0dhLI3OwCLeYvZSkn"
     },
     {
       "added_at": "2023-03-31 04:01:00",

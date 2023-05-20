@@ -4,7 +4,7 @@
 
 > Du Congo, au monde\. 🌍 Photo: Serge Ibaka
 
-222 songs - 14 hr 23 min
+223 songs - 14 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,6 +55,7 @@
 | [COEUR DE ICE \(feat\. Damso\)](https://open.spotify.com/track/7jbu9k6w67hWlhSinmGT3c) | [Zola](https://open.spotify.com/artist/54kCbQZaZWHnwwj9VP2hn4), [Damso](https://open.spotify.com/artist/2UwqpfQtNuhBwviIC0f2ie) | [DIAMANT DU BLED](https://open.spotify.com/album/24xKUsNCdkbXC2q473nRNO) | 3:12 | 2023-03-17 |  |
 | [Coeur moderne](https://open.spotify.com/track/7KaKOgkc3CTg0JONapvnrd) | [Fabregas le Métis Noir](https://open.spotify.com/artist/49ip7SoDZFm62AzVHPci6X) | [Gomme, Vol\. 1](https://open.spotify.com/album/1f3mA2NLEXe6asrUMQbWRL) | 4:37 | 2023-02-17 | 2023-03-11 |
 | [Delta force](https://open.spotify.com/track/1QR5eo1mMXlKAn6Hv5Db9Q) | [Samarino](https://open.spotify.com/artist/3rIS2pZczFmGjl4LVxelm7) | [Chambre Noire](https://open.spotify.com/album/3IATloMilRD68c5FtSfPGv) | 3:41 | 2022-06-30 | 2023-03-18 |
+| [Dendisa](https://open.spotify.com/track/4pCgqcgvfx0VQwzgzY63Vw) | [Gaz Mawete](https://open.spotify.com/artist/4WSA56zRr2ZBnbQqVNrMay), [Niska](https://open.spotify.com/artist/7CUFPNi1TU8RowpnFRSsZV) | [Dendisa](https://open.spotify.com/album/1uSSXiCyplT46MTqfia54L) | 4:06 | 2023-05-19 |  |
 | [Destiny](https://open.spotify.com/track/6GSExS8Qhs4M1sutLM4tAf) | [Ryan De La Cruz](https://open.spotify.com/artist/0hascI4XWSMRTdWgdxNI8T) | [Destiny](https://open.spotify.com/album/0L5PgMi5IUZ3UN0LE3ZfaN) | 2:23 | 2023-05-05 |  |
 | [Determine](https://open.spotify.com/track/4UkJjtS8GCk1A0KDhV0K79) | [Rui Reis Maia](https://open.spotify.com/artist/2Wgx2i22tok6zOYMXfV5Ug), [ALBI X](https://open.spotify.com/artist/4RbGljqjA1uq3D5Og5AE56) | [White Berry \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5o4UdtYpFLzBSGIuAPiBDU) | 1:32 | 2022-07-29 | 2023-03-18 |
 | [Diemba \(Balançoire\) \- Générique](https://open.spotify.com/track/423bpv5RaWC3xEm2j2iAjv) | [Werrason](https://open.spotify.com/artist/3aU2pbMucMTW4NYF3ISuVO) | [7 jours de la semaine](https://open.spotify.com/album/2rmeu6hYfpX84iyOKLjzsy) | 5:31 | 2022-06-30 |  |
@@ -79,7 +80,7 @@
 | [Femme](https://open.spotify.com/track/2GI17itTcj3E7HmnMvqCPX) | [Koffi Olomide](https://open.spotify.com/artist/7e14Bh8oZXNRmZxjhhTARb) | [Femme](https://open.spotify.com/album/0oEgAsCcZ4omuKHWDfWh4v) | 7:13 | 2022-11-11 | 2023-03-18 |
 | [Fimbu](https://open.spotify.com/track/44Lba4g6bftsoPiDnM1BJt) | [Felix Wazekwa](https://open.spotify.com/artist/0pzeKLviAxrnJTAUQzaUs3) | [Fimbu](https://open.spotify.com/album/22BBi4bgCd0fPzkijhCmMa) | 3:46 | 2022-12-02 |  |
 | [Fiohna Mukusa](https://open.spotify.com/track/5dseKmdnMxEJnlKPtyg2J5) | [Ministre Manzaka DJ](https://open.spotify.com/artist/45cBTgK3RwWjZwoBwJuukk) | [Monde A Part](https://open.spotify.com/album/1E45xmBvN36ojia6LMr1bL) | 4:13 | 2022-09-23 | 2023-02-11 |
-| [foko foko](https://open.spotify.com/track/424VcU7tyWtjqY72Pw3OIk) | [Gaz Mawete](https://open.spotify.com/artist/4WSA56zRr2ZBnbQqVNrMay), [ML nkosi](https://open.spotify.com/artist/7tPYBPHItyAQ05pWVOle2u), [Dr pm](https://open.spotify.com/artist/4yGZTJU4pCnoCSaLkt7BCl), [Maréchal ABD](https://open.spotify.com/artist/3oLHEqDRbxY7sQiVkr88lA), [bnb all star](https://open.spotify.com/artist/1JeNYTgxclwohb4nUsOU3X), [Sam Samouraï](https://open.spotify.com/artist/0IC7bw0fGs65wAsdUS94EL) | [foko foko](https://open.spotify.com/album/28QxNODJ8hrSjgRjo1vZkq) | 4:19 | 2023-03-17 |  |
+| [foko foko](https://open.spotify.com/track/424VcU7tyWtjqY72Pw3OIk) | [Gaz Mawete](https://open.spotify.com/artist/4WSA56zRr2ZBnbQqVNrMay), [ML nkosi](https://open.spotify.com/artist/7tPYBPHItyAQ05pWVOle2u), [Dr pm](https://open.spotify.com/artist/4yGZTJU4pCnoCSaLkt7BCl), [Maréchal ABD](https://open.spotify.com/artist/3oLHEqDRbxY7sQiVkr88lA), [bnb all star](https://open.spotify.com/artist/1JeNYTgxclwohb4nUsOU3X), [Sam Samouraï](https://open.spotify.com/artist/0IC7bw0fGs65wAsdUS94EL) | [foko foko](https://open.spotify.com/album/28QxNODJ8hrSjgRjo1vZkq) | 4:19 | 2023-03-17 | 2023-05-20 |
 | [Fololo \(Liberté\)](https://open.spotify.com/track/2MAG2l8Jjrj9K53fBa6Hui) | [Teddy Diso](https://open.spotify.com/artist/2ASkZeQXjHQCTVZBNU2Ujc) | [Liberté](https://open.spotify.com/album/5y7sY65Ip1uT0IRFO5V48q) | 4:40 | 2022-12-30 | 2023-03-18 |
 | [Formule 7](https://open.spotify.com/track/1zo15YjbaTTwAho4ECmrDZ) | [Fally Ipupa](https://open.spotify.com/artist/6IflU2YrY5Cyw7YoBICosV) | [Formule 7](https://open.spotify.com/album/3QioaSF8lar1qnvwhMKDM6) | 8:05 | 2023-03-24 | 2023-04-01 |
 | [Francis Manuana](https://open.spotify.com/track/6itPjCyrWM9XyRfPRV36rb) | [Bozi Boziana](https://open.spotify.com/artist/3Nrcdm5eONeqS70qbKKtYx), [Anti Choc](https://open.spotify.com/artist/23TUUdlpMJSvFzGAQVQsRk) | [Désir féminin](https://open.spotify.com/album/19zapMhSNUbX8HBbP9nm0s) | 5:53 | 2022-08-12 | 2022-10-15 |

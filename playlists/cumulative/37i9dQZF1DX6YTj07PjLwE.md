@@ -4,7 +4,7 @@
 
 > Any songs you forgot existed? Let's go deep into 90s rock! Cover: Pixies.
 
-640 songs - 1 day 22 hr 57 min
+641 songs - 1 day 23 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,7 +17,7 @@
 | [6th Avenue Heartache \- Radio Edit](https://open.spotify.com/track/5zJbd4m9rRJxmCTClWMadL) | [The Wallflowers](https://open.spotify.com/artist/0jJNGWrpjGIHUdTTJiIYeB) | [6th Avenue Heartache](https://open.spotify.com/album/6inGN7xb6EAodDj0TDKDF5) | 4:26 | 2022-04-28 | 2022-07-28 |
 | [A Change Would Do You Good](https://open.spotify.com/track/7e76lQ3YBwyO4LgaUabYrG) | [Sheryl Crow](https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD) | [Sheryl Crow](https://open.spotify.com/album/3FiplT4vIgWCRwLZSn0EDd) | 3:50 | 2022-04-28 | 2022-07-26 |
 | [A Cloak Of Elvenkind](https://open.spotify.com/track/6f65alTsp8H5BBd7MKh2Ya) | [Marcy Playground](https://open.spotify.com/artist/7AQzXO3NPNQsI7oNu5rC3r) | [Marcy Playground](https://open.spotify.com/album/5dR0fhE3oveLRSUMMQ3oRB) | 2:59 | 2022-04-28 | 2022-07-22 |
-| [A Little Respect](https://open.spotify.com/track/5tN541sO7fKaxdQx1BWfRh) | [Wheatus](https://open.spotify.com/artist/4mYFgEjpQT4IKOrjOUKyXu) | [Wheatus](https://open.spotify.com/album/3xmKWmqJFoXS22tePO3mgd) | 3:19 | 2022-04-28 |  |
+| [A Little Respect](https://open.spotify.com/track/5tN541sO7fKaxdQx1BWfRh) | [Wheatus](https://open.spotify.com/artist/4mYFgEjpQT4IKOrjOUKyXu) | [Wheatus](https://open.spotify.com/album/3xmKWmqJFoXS22tePO3mgd) | 3:19 | 2022-04-28 | 2023-05-20 |
 | [A Long December](https://open.spotify.com/track/1tjKIXd7DYNklhVSgBxREi) | [Counting Crows](https://open.spotify.com/artist/0vEsuISMWAKNctLlUAhSZC) | [Recovering The Satellites](https://open.spotify.com/album/4YArB2Q848BDmmwUUumEFP) | 4:55 | 2022-04-28 |  |
 | [A Murder Of One](https://open.spotify.com/track/7ye3N9FfQLnLNH6VxBlZA0) | [Counting Crows](https://open.spotify.com/artist/0vEsuISMWAKNctLlUAhSZC) | [August And Everything After](https://open.spotify.com/album/4nKfZbCALT9H9LfedtDwnZ) | 5:43 | 2022-04-28 | 2022-07-29 |
 | [Acrobat](https://open.spotify.com/track/7AGGClp7SmBnepuiua7DPG) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [Achtung Baby \(Deluxe Edition\)](https://open.spotify.com/album/0ta5VdkJcpdVnNrn7g4cZe) | 4:30 | 2022-04-28 | 2022-07-29 |
@@ -157,6 +157,7 @@
 | [Dust N' Bones](https://open.spotify.com/track/4vtXsXvSYaTfKQ0dJXbJGu) | [Guns N' Roses](https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC) | [Use Your Illusion I](https://open.spotify.com/album/0CxPbTRARqKUYighiEY9Sz) | 4:58 | 2022-04-28 |  |
 | [Dying](https://open.spotify.com/track/59m93IlJ9N9dOjAZIm9NzY) | [Hole](https://open.spotify.com/artist/5SHQUMAmEK5KmuSb0aDvsn) | [Celebrity Skin](https://open.spotify.com/album/2KE8WCHtD8qnAxXeIzNEId) | 3:44 | 2022-04-28 | 2022-07-16 |
 | [Eat The Rich](https://open.spotify.com/track/0CFtlafteObzOEuJdESQkb) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Get A Grip](https://open.spotify.com/album/1tuM8yBePaekEruGsH2J79) | 4:09 | 2022-04-28 | 2023-04-05 |
+| [Eat The Rich](https://open.spotify.com/track/3O7LU72UPGoCzrOFU6LqGd) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Get A Grip](https://open.spotify.com/album/180jTzor4W2MQ9HW5h5Fh4) | 4:10 | 2023-01-18 |  |
 | [El Scorcho](https://open.spotify.com/track/3g2gQMeeQAEPztiQKMlGSl) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Pinkerton](https://open.spotify.com/album/3jWhmYMAWw5NvHTTeiQtfl) | 4:03 | 2022-04-28 |  |
 | [Electric Barbarella](https://open.spotify.com/track/1bfJLjfPm65FSg07HZ6Yys) | [Duran Duran](https://open.spotify.com/artist/0lZoBs4Pzo7R89JM9lxwoT) | [Medazzaland](https://open.spotify.com/album/1rMGT0Sj0aFPvZxIvoNYfp) | 5:19 | 2022-04-28 | 2022-07-29 |
 | [Elegantly Wasted](https://open.spotify.com/track/1RHMpZW3K13jPLk5gKPBa9) | [INXS](https://open.spotify.com/artist/1eClJfHLoDI4rZe5HxzBFv) | [Elegantly Wasted \(Remastered\)](https://open.spotify.com/album/6aq8CRwcaGJe16bpJaLrw0) | 4:32 | 2022-04-28 | 2022-07-29 |
@@ -423,7 +424,7 @@
 | [Remedy](https://open.spotify.com/track/217a9W3cZ3ur40RFQW2pTo) | [The Black Crowes](https://open.spotify.com/artist/5krkohEVJYw0qoB5VWwxaC) | [The Southern Harmony And Musical Companion](https://open.spotify.com/album/4hVgzAM4i3dPdhZQki9cKk) | 5:22 | 2022-04-28 |  |
 | [Reptile](https://open.spotify.com/track/7ncwauNojaM8mW3tXMpYyS) | [Nine Inch Nails](https://open.spotify.com/artist/0X380XXQSNBYuleKzav5UO) | [The Downward Spiral](https://open.spotify.com/album/7a7arAXDE0BiaMgHLhdjGF) | 6:51 | 2022-04-28 | 2022-05-24 |
 | [Rhinosaur](https://open.spotify.com/track/4XJq0ehSP5HXTUun2m4njP) | [Soundgarden](https://open.spotify.com/artist/5xUf6j4upBrXZPg6AI4MRK) | [Down On The Upside](https://open.spotify.com/album/1IVa98im1RfxYp6qeOIg2B) | 3:14 | 2022-04-28 | 2022-07-29 |
-| [Ride The Wind](https://open.spotify.com/track/5gpJr7OLgZWVYAyKWj0GuH) | [Poison](https://open.spotify.com/artist/1fBCIkoPOPCDLUxGuWNvyo) | [Flesh & Blood](https://open.spotify.com/album/7alngtync76VqYWSKxcBhB) | 3:51 | 2022-04-28 |  |
+| [Ride The Wind](https://open.spotify.com/track/5gpJr7OLgZWVYAyKWj0GuH) | [Poison](https://open.spotify.com/artist/1fBCIkoPOPCDLUxGuWNvyo) | [Flesh & Blood](https://open.spotify.com/album/7alngtync76VqYWSKxcBhB) | 3:51 | 2022-04-28 | 2023-05-20 |
 | [Ridiculous Thoughts](https://open.spotify.com/track/1fPDldWK8SRdIjGPXrDqZT) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [No Need To Argue](https://open.spotify.com/album/5GugLrmYMl5VRoe2zNgLGp) | 4:31 | 2022-04-28 | 2022-07-27 |
 | [Right Here In My Arms](https://open.spotify.com/track/75vH394GFV6yQoOBqGEbnS) | [HIM](https://open.spotify.com/artist/74aLweE8FHHf4yN5TWv1GM) | [Razorblade Romance / Deep Shadows & Brilliant Highlights](https://open.spotify.com/album/2ECndAg1GpVZKYGyymbPpp) | 4:00 | 2022-04-28 | 2022-07-13 |
 | [Right Next Door To Hell](https://open.spotify.com/track/5YXvG4PL4Wisyx2ScUxVFF) | [Guns N' Roses](https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC) | [Use Your Illusion I](https://open.spotify.com/album/0CxPbTRARqKUYighiEY9Sz) | 3:02 | 2022-04-28 | 2022-07-29 |
@@ -504,7 +505,7 @@
 | [Stand By My Woman](https://open.spotify.com/track/2KT2tP853wbbERHxfSzmvd) | [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7) | [Mama Said](https://open.spotify.com/album/7A3LlV59lh4KljWa7I6Tks) | 4:20 | 2022-04-28 | 2022-05-23 |
 | [Standing Outside a Broken Phone Booth with Money in My Hand](https://open.spotify.com/track/5hcer4MP5GeHqtSjDYx5AC) | [Primitive Radio Gods](https://open.spotify.com/artist/5wTpMQz4RtF6dFX9blvMDc) | [Rocket](https://open.spotify.com/album/0MomEpdhFU5YUXQxr47kxe) | 5:36 | 2022-04-28 | 2022-07-28 |
 | [Staring At The Sun](https://open.spotify.com/track/0D2A4Rid7gnlcwlspLTkx0) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ) | [Americana](https://open.spotify.com/album/2RNTBrSO8U8XjjEj9RVvZ5) | 2:13 | 2022-04-28 |  |
-| [Staring At The Sun](https://open.spotify.com/track/3fsTb3a8l5kJrtzpl04Ljr) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [Pop](https://open.spotify.com/album/5mojJwWgWNJcY3odUGgQc3) | 4:36 | 2022-04-28 | 2022-07-29 |
+| [Staring At The Sun](https://open.spotify.com/track/3fsTb3a8l5kJrtzpl04Ljr) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [Pop](https://open.spotify.com/album/5mojJwWgWNJcY3odUGgQc3) | 4:36 | 2022-04-28 |  |
 | [Stay \(Faraway, So Close!\)](https://open.spotify.com/track/1E1ylgIWTW2yE0glywYLb6) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [Zooropa](https://open.spotify.com/album/0IYjMBLA9PgtXyRPlLmTDE) | 4:58 | 2022-04-28 |  |
 | [Stay Away](https://open.spotify.com/track/4rp0jQx7m4aC9YwbgkUL2K) | [Nirvana](https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh) | [Nevermind \(Deluxe Edition\)](https://open.spotify.com/album/2uEf3r9i2bnxwJQsxQ0xQ7) | 3:31 | 2022-04-28 | 2022-07-27 |
 | [Stellar](https://open.spotify.com/track/6ISuXA3UCPMtsyEUGUTAyn) | [Incubus](https://open.spotify.com/artist/3YcBF2ttyueytpXtEzn1Za) | [Make Yourself](https://open.spotify.com/album/2i6nd4FV6y7K9fln6eelmR) | 3:20 | 2022-04-28 |  |

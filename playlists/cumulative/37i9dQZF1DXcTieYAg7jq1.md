@@ -4,7 +4,7 @@
 
 > Featuring that new vintage\. Cover: Angelina Jordan
 
-314 songs - 18 hr 20 min
+316 songs - 18 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,7 +31,8 @@
 | [Beautiful Stranger](https://open.spotify.com/track/38TpUKiHQZyBKiD9LMMy6X) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Everything I Know About Love](https://open.spotify.com/album/0Ydm84ftyiWRGOIFkdl30L) | 3:21 | 2022-08-26 |  |
 | [Beautiful Stranger](https://open.spotify.com/track/7ndKgIPneFhibUEYdqK8YE) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Everything I Know About Love](https://open.spotify.com/album/4YrAMk088p90boVlesCpOQ) | 3:21 | 2022-08-26 | 2022-09-01 |
 | [Bedroom](https://open.spotify.com/track/0T2JQndAZ8UaDdBHWTY6wS) | [Aiyana\-Lee](https://open.spotify.com/artist/2IZXxSIGhFtkHJyMh6UTln) | [Bedroom](https://open.spotify.com/album/6059GSDxHnJXa9KuaqWGsq) | 3:28 | 2021-12-24 | 2022-04-20 |
-| [Better Than Any Drug](https://open.spotify.com/track/5edBufh2zNLX1RBQd2Krtz) | [Lola Kirke](https://open.spotify.com/artist/1g5bYOQ7ZHGbn0tuUHxSgE) | [Better Than Any Drug](https://open.spotify.com/album/2KUJLTMnRm5pPoDbyRaJgX) | 3:26 | 2022-01-21 |  |
+| [Better Than Any Drug](https://open.spotify.com/track/5edBufh2zNLX1RBQd2Krtz) | [Lola Kirke](https://open.spotify.com/artist/1g5bYOQ7ZHGbn0tuUHxSgE) | [Better Than Any Drug](https://open.spotify.com/album/2KUJLTMnRm5pPoDbyRaJgX) | 3:26 | 2022-01-21 | 2023-05-20 |
+| [Bitter Sweet](https://open.spotify.com/track/6kgb3tjGSMJDeEUqpR1BGQ) | [Robin Thicke](https://open.spotify.com/artist/0ZrpamOxcZybMHGg1AYtHP) | [Bitter Sweet](https://open.spotify.com/album/5BBJTkjsZeOSGpiczply0t) | 3:01 | 2023-05-19 |  |
 | [Blast Off](https://open.spotify.com/track/2kpoReN3MY7I0tSF902n0z) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [Silk Sonic](https://open.spotify.com/artist/6PvvGcCY2XtUcSRld1Wilr) | [An Evening With Silk Sonic](https://open.spotify.com/album/1YgekJJTEueWDaMr7BYqPk) | 4:44 | 2021-12-03 | 2022-10-01 |
 | [Blast Off](https://open.spotify.com/track/5ywsqu9AEJnEJhJ05Vf9Me) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [Silk Sonic](https://open.spotify.com/artist/6PvvGcCY2XtUcSRld1Wilr) | [An Evening With Silk Sonic](https://open.spotify.com/album/0S0r2RFucaW9kVjBtcBOV1) | 4:44 | 2021-12-03 | 2022-04-29 |
 | [Bloom](https://open.spotify.com/track/67q72wEUwXTEj5fHlC2hT8) | [Big Stuff](https://open.spotify.com/artist/5hVGTwuOK7snm9spr45QS3) | [Bloom](https://open.spotify.com/album/7wLp5QkiaGmHzKonmlBa3c) | 3:16 | 2022-03-11 |  |
@@ -206,10 +207,11 @@
 | [No More Tears](https://open.spotify.com/track/09fosw8GBPZcJGmGwip06w) | [Jewel](https://open.spotify.com/artist/6FbDoZnMBTdhhhLuJBOOqP), [Darius Rucker](https://open.spotify.com/artist/7FY5V3XMwlNBPitEjXowHQ) | [Freewheelin' Woman](https://open.spotify.com/album/2evFHBABBhgV5OtDqHPomo) | 3:34 | 2022-04-15 |  |
 | [No News No Blues](https://open.spotify.com/track/3dI1uxPuy9SwEMveMwpDJn) | [Paul Cherry](https://open.spotify.com/artist/1xbu7UyVdZxwIiNfLcUKqn), [Sunset Rollercoaster](https://open.spotify.com/artist/7BqRcZsHYYQeqMAOp7e532) | [Back On the Music!](https://open.spotify.com/album/3ltD9P5ZMjlEl03fLGa7AB) | 3:53 | 2022-01-14 | 2023-05-01 |
 | [No News No Blues](https://open.spotify.com/track/7bxogppnXd6dJB2rSCjegk) | [Paul Cherry](https://open.spotify.com/artist/1xbu7UyVdZxwIiNfLcUKqn), [Sunset Rollercoaster](https://open.spotify.com/artist/7BqRcZsHYYQeqMAOp7e532) | [No News No Blues](https://open.spotify.com/album/1KIeBsHpINXrAEUWKtli8E) | 3:53 | 2022-01-14 | 2022-07-29 |
-| [No News No Blues](https://open.spotify.com/track/4uvUEE8EtbiJxBcB45XURq) | [Paul Cherry](https://open.spotify.com/artist/1xbu7UyVdZxwIiNfLcUKqn), [落日飛車 Sunset Rollercoaster](https://open.spotify.com/artist/2iuPnIdqfKsze3urSvl7XZ) | [Back On the Music!](https://open.spotify.com/album/1gNBcewWJYihYyatTLv3GR) | 3:53 | 2022-01-21 |  |
+| [No News No Blues](https://open.spotify.com/track/4uvUEE8EtbiJxBcB45XURq) | [Paul Cherry](https://open.spotify.com/artist/1xbu7UyVdZxwIiNfLcUKqn), [落日飛車 Sunset Rollercoaster](https://open.spotify.com/artist/2iuPnIdqfKsze3urSvl7XZ) | [Back On the Music!](https://open.spotify.com/album/1gNBcewWJYihYyatTLv3GR) | 3:53 | 2022-01-21 | 2023-05-20 |
 | [No Wifey](https://open.spotify.com/track/4NlOOhdYDA1pIksaZ7TmpB) | [Anjulie](https://open.spotify.com/artist/4DTbdShHu2RPYEEMUp2XWV) | [No Wifey](https://open.spotify.com/album/24LIfXNCzKU1QRclf30Ich) | 3:41 | 2021-12-03 | 2022-07-19 |
 | [Not Dead Yet](https://open.spotify.com/track/6xVd8klTvL6ZRovgIhIs98) | [Lord Huron](https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25) | [Long Lost](https://open.spotify.com/album/5xiePX6kXj5ZsmUsqIqzeD) | 2:57 | 2021-12-03 | 2023-01-28 |
 | [Off The Ground](https://open.spotify.com/track/6Wndl2xyawNa2fQNVYPVt8) | [Haley Reinhart](https://open.spotify.com/artist/5cKlE8f6b26h61Ml7m052Q) | [Off The Ground](https://open.spotify.com/album/1Yxdm1iJz3y3qo2Gv2QET0) | 4:02 | 2021-12-03 | 2022-07-24 |
+| [ok with it](https://open.spotify.com/track/2LRvqsiYThrc2zbBp8vElD) | [Lyn Lapid](https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v) | [ok with it](https://open.spotify.com/album/1VTt9SI2yCJMHuJ9JItnt9) | 2:45 | 2023-05-19 |  |
 | [omw](https://open.spotify.com/track/46b0Hj6XPgIrwKURVsZeVA) | [Ashe](https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM) | [omw](https://open.spotify.com/album/7gjkHNt9Vc71PPXPp5Pja0) | 2:51 | 2022-10-14 |  |
 | [On Top of the World](https://open.spotify.com/track/5erTPoeHKb7wOHzqFw4msd) | [Stephen Day](https://open.spotify.com/artist/4cnFw4bkIWVGKUBsr93OS5) | [On Top of the World](https://open.spotify.com/album/6VEn2lcVg9CwQEjnAT6LEj) | 3:59 | 2021-12-03 | 2022-12-13 |
 | [One Thing](https://open.spotify.com/track/7JZLDYLLyoRJ97NoZMEXZl) | [Enisa](https://open.spotify.com/artist/19mMHUyLK5uYyg9D14yJP6) | [One Thing](https://open.spotify.com/album/4YNRtUmWyTeKmpt402o33l) | 2:20 | 2022-01-28 |  |

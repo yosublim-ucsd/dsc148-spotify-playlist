@@ -660,7 +660,7 @@
       ],
       "date_added": "2022-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 412707,
       "name": "Galactic Passport",
       "url": "https://open.spotify.com/track/3OAg1ONfFGgdps1INL4qaX"
@@ -1164,7 +1164,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 288711,
       "name": "Madman's Eyes",
       "url": "https://open.spotify.com/track/3f9SxWf7WYKaYywYYejfk1"
@@ -1919,6 +1919,24 @@
     },
     {
       "album": {
+        "name": "Walk Around The Moon",
+        "url": "https://open.spotify.com/album/2hCtza1F54WPNrX8MC1jRM"
+      },
+      "artists": [
+        {
+          "name": "Dave Matthews Band",
+          "url": "https://open.spotify.com/artist/2TI7qyDE0QfyOlnbtfDo7L"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282213,
+      "name": "The Only Thing",
+      "url": "https://open.spotify.com/track/4nzCwV6pz7bvDBg9jlVtEM"
+    },
+    {
+      "album": {
         "name": "Element",
         "url": "https://open.spotify.com/album/1M8jFuVLqJOlqYtOv1cdAI"
       },
@@ -2090,6 +2108,24 @@
       "duration_ms": 400000,
       "name": "Tumbleweed",
       "url": "https://open.spotify.com/track/1DWPCV6sKNGnzn4ypzDIcm"
+    },
+    {
+      "album": {
+        "name": "Walk Around the Moon",
+        "url": "https://open.spotify.com/album/06fWPfU70yTAkQIQ4u8YQ6"
+      },
+      "artists": [
+        {
+          "name": "Dave Matthews Band",
+          "url": "https://open.spotify.com/artist/2TI7qyDE0QfyOlnbtfDo7L"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289853,
+      "name": "Walk Around the Moon",
+      "url": "https://open.spotify.com/track/33k0VS24jCfPGhZXshOiKo"
     },
     {
       "album": {

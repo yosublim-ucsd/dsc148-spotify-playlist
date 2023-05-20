@@ -4,7 +4,7 @@
 
 > Country gone wild! You never know what you're gonna get\. Cover: Diplo & Lily Rose
 
-341 songs - 17 hr 18 min
+344 songs - 17 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,6 +33,7 @@
 | [Backroad Flyin'](https://open.spotify.com/track/73VO2Gy5FMTpmeQl0jFeZl) | [Luke and Kaylee](https://open.spotify.com/artist/0p7RQG0Rq8tzWxUros2BDf) | [Backroad Flyin'](https://open.spotify.com/album/5URlnunYAmVeQcjW8XJW9y) | 3:12 | 2021-12-10 | 2022-08-20 |
 | [Backroad Flyin' \- Matthew Parker Remix](https://open.spotify.com/track/4c1sQ9WPt5PAvPjNhbijVp) | [Luke and Kaylee](https://open.spotify.com/artist/0p7RQG0Rq8tzWxUros2BDf), [Matthew Parker](https://open.spotify.com/artist/0QT3cPPXMGYtTG3kN8Ez54) | [Backroad Flyin' \(Matthew Parker Remix\)](https://open.spotify.com/album/1ebsAD2Bbn0YgbLzOnczBL) | 3:02 | 2022-08-19 | 2022-09-17 |
 | [Backwoods](https://open.spotify.com/track/64QS3eikdCpcoCXD3cukfr) | [firekid](https://open.spotify.com/artist/61XyQHQKfzbzgTmtbiVOR3) | [Backwoods](https://open.spotify.com/album/0idBcdq0YwwCPty04TUCuZ) | 2:34 | 2021-12-10 | 2022-06-11 |
+| [Bad Decisions](https://open.spotify.com/track/3X0JZPRmG9lfR4NUlX49jL) | [Don Louis](https://open.spotify.com/artist/5LICWu7uFLkdJVcEiTnRBX) | [Bad Decisions](https://open.spotify.com/album/3X0y9gC0hyk8iUcFQnxGn9) | 2:38 | 2023-05-19 |  |
 | [Bad Posture](https://open.spotify.com/track/1s7jZkEqW1T84f3VyIT29g) | [Abby Anderson](https://open.spotify.com/artist/0WicR9iYAPd0Bi7i3bz9MB) | [Bad Posture](https://open.spotify.com/album/2uA638e2EeOviOr7ZZ15Zi) | 3:12 | 2021-12-10 | 2022-07-16 |
 | [Bar In Belize](https://open.spotify.com/track/7qoP8UanlYhL4OjQLyIPVm) | [Filmore](https://open.spotify.com/artist/0FvJm0y2eHw0aPkLLU3sIG) | [Bar In Belize](https://open.spotify.com/album/1Ch61lessoISQYShQ1gBwf) | 3:05 | 2022-05-06 | 2023-02-02 |
 | [be alright](https://open.spotify.com/track/3dpkmgWLr1g3rckqY4Vdrk) | [Jimmie Allen](https://open.spotify.com/artist/147nKr9upHZSSxqCzh9j7c) | [Tulip Drive](https://open.spotify.com/album/4j5QWQbCjApOfP5howYsZX) | 2:54 | 2022-06-24 |  |
@@ -198,6 +199,7 @@
 | [LEGENDS](https://open.spotify.com/track/15x3Tsc72Wjspe8DlsIRp2) | [YA'BOYZ](https://open.spotify.com/artist/7vMHsgM6Rlv8loZc594Z9I) | [LEGENDS](https://open.spotify.com/album/2NEROO6mBjK1Xcv1Sr6vXU) | 2:24 | 2021-12-10 | 2022-05-20 |
 | [Lets Go!](https://open.spotify.com/track/4TlFm4IsztCzL26COpgOcw) | [Ty March.](https://open.spotify.com/artist/0h7b5szTqHKm5sJNkAGqfw), [Phillip Good](https://open.spotify.com/artist/7IgNmZLjmhgaH3L83GPVeN) | [Lets Go!](https://open.spotify.com/album/440CLUzPDP9fm53GgsKBHu) | 2:34 | 2022-09-16 |  |
 | [life got crazy](https://open.spotify.com/track/5NXthnJecYXjt7sTEWETTY) | [mike.](https://open.spotify.com/artist/5G9kmDLg3OeUyj8KVBLzbu) | [the highs.](https://open.spotify.com/album/2phcfZd44niczjY0xybcS6) | 2:18 | 2021-12-10 | 2022-02-26 |
+| [Lighter](https://open.spotify.com/track/2gbS682ibVEMXlzRdC1rT2) | [Jay Webb](https://open.spotify.com/artist/74a1KhMBkw4iweAtpbjuHk) | [Lighter](https://open.spotify.com/album/33xPs7wlbzfrw5blbL63Ez) | 2:13 | 2023-05-19 |  |
 | [london \(with Cam\)](https://open.spotify.com/track/47EMbOhi8EB7FjLm2OQDln) | [Wrabel](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII), [Cam](https://open.spotify.com/artist/5WRElKaZsn1tGnrgmJVAeO) | [london \(with Cam\)](https://open.spotify.com/album/41rhdJBIvsm2mb7RSPIo3K) | 4:26 | 2021-12-10 | 2022-06-25 |
 | [Long Time No Sea](https://open.spotify.com/track/24UpRR5wgaQkFWz6JWHUuD) | [The Boat Boys](https://open.spotify.com/artist/4yKHzSOKNfuhJr1QjgrU6v), [Filmore](https://open.spotify.com/artist/0FvJm0y2eHw0aPkLLU3sIG) | [Long Time No Sea](https://open.spotify.com/album/02a3hPPIZGXh5hiGa3Eoyb) | 3:07 | 2021-12-10 | 2022-07-29 |
 | [Long Time No Sea](https://open.spotify.com/track/2p2BzX4LAWki9frJaL2JWz) | [The Boat Boys](https://open.spotify.com/artist/4yKHzSOKNfuhJr1QjgrU6v), [Filmore](https://open.spotify.com/artist/0FvJm0y2eHw0aPkLLU3sIG) | [Long Time No Sea](https://open.spotify.com/album/3IAKELBkHRMBgNuxeZWAue) | 3:07 | 2022-07-22 | 2022-09-24 |
@@ -324,6 +326,7 @@
 | [We Did](https://open.spotify.com/track/2uqPdi0TFoCYZaAoGYf8zr) | [Sacha](https://open.spotify.com/artist/2uEreYoQc89UcxvADYQY2u) | [We Did](https://open.spotify.com/album/4T5T6Py0YU61WOtWOuhRwg) | 3:03 | 2022-07-22 |  |
 | [We Met Too Young](https://open.spotify.com/track/2b81fjvZeVKXWDa2mv9iom) | [Eric Reprid](https://open.spotify.com/artist/1f2Bnuuv7FxEx2x8iiEBzR) | [We Met Too Young](https://open.spotify.com/album/4M3Ndgpwxd7xJwIXPLrfpF) | 2:31 | 2022-10-14 | 2023-01-04 |
 | [Welcome to the Club](https://open.spotify.com/track/4hhDTWA9dgmnPft1SDq26V) | [Twinnie](https://open.spotify.com/artist/73zbrZKfIqOfVWaSM4k71b) | [Welcome to the Club](https://open.spotify.com/album/4ZF1tYfrslqA8g4v8cO1nW) | 3:09 | 2022-02-18 |  |
+| [What Goes Around Comes Around](https://open.spotify.com/track/2qNSWj0RK7vcWBy7bBQKjR) | [El Ray](https://open.spotify.com/artist/32pa3a2Tu9C4TmrAtN6cyO) | [What Goes Around Comes Around](https://open.spotify.com/album/1In7ivLqLjKBVPPAbj5g8r) | 2:57 | 2023-05-19 |  |
 | [What If We Never Met](https://open.spotify.com/track/4qao4AOEDlrKRL8HVsSrp6) | [Wild Fire](https://open.spotify.com/artist/3R2bn1e34SskxOaoM4XmD2) | [What If We Never Met](https://open.spotify.com/album/6A8oaHU3swEB7fl0nD5nyk) | 3:51 | 2022-02-18 | 2022-10-02 |
 | [What You Waiting On](https://open.spotify.com/track/3IuQhTGbYThnkKKTco4ylf) | [Hueston](https://open.spotify.com/artist/5ak6WzG7TJnqL6x6CRYoxP) | [What You Waiting On](https://open.spotify.com/album/4ryBeV911Ub8Z4nEG51dZO) | 2:38 | 2022-10-28 |  |
 | [When the Party's Over](https://open.spotify.com/track/044EoWO4Z6BLhGrK3R5k9h) | [Donovan Woods](https://open.spotify.com/artist/4SOtk3HtPYKqxnVuxNBMti) | [Without People \(Deluxe\)](https://open.spotify.com/album/61s6rViH39OjqfrPigQ3cy) | 3:31 | 2021-12-10 | 2022-01-08 |

@@ -1,12 +1,12 @@
 {
   "description": "The best newly released songs of the week. Cover: Lewis Capaldi",
-  "num_followers": 61137,
+  "num_followers": 61144,
   "original_name": "New Music Friday Malaysia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmZGUzMGRjOGFjYWVkNjYxZjA4YzJhNTc2ZGRiMWYyYTdjYTJhOGYy",
+  "snapshot_id": "MCwwMDA0ZTE0ZDBlMWYwMzVkNDJmYjQ0NTE1MjAzN2NjZGZkZTYxN2Zh",
   "tracks": [
     {
       "added_at": "2023-05-18 16:00:00",
@@ -191,8 +191,8 @@
     {
       "added_at": "2023-05-18 16:00:00",
       "album": {
-        "name": "Angel Pt 1 (feat. Jimin of BTS, JVKE & Muni Long / FAST X Soundtrack)",
-        "url": "https://open.spotify.com/album/0zPSvQqWCWIjuzvn29GhUK"
+        "name": "FAST X (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4jgT0TBoRBPW2bSNXbjN0s"
       },
       "artists": [
         {
@@ -217,14 +217,14 @@
         }
       ],
       "duration_ms": 175802,
-      "name": "Angel Pt 1 (feat. Jimin of BTS, JVKE & Muni Long)",
-      "url": "https://open.spotify.com/track/4g1Ant3Me43Cm5Lx91bV8e"
+      "name": "Angel Pt. 1 (feat. Jimin of BTS, JVKE & Muni Long)",
+      "url": "https://open.spotify.com/track/1XUXrNFoi9ixlH3fn8MRXQ"
     },
     {
       "added_at": "2023-05-18 16:00:00",
       "album": {
-        "name": "Part of Your World (From \"The Little Mermaid\")",
-        "url": "https://open.spotify.com/album/1cehuxhFNt8Q8Eobacb0YR"
+        "name": "The Little Mermaid (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/40tsP3taBOC9HqNaLCZZKP"
       },
       "artists": [
         {
@@ -233,8 +233,8 @@
         }
       ],
       "duration_ms": 214373,
-      "name": "Part of Your World - From \"The Little Mermaid\"",
-      "url": "https://open.spotify.com/track/2pcSENGQmdptFCBQ3HpKHe"
+      "name": "Part of Your World",
+      "url": "https://open.spotify.com/track/2HRhVQ0yo1jIvXoRTCIdEz"
     },
     {
       "added_at": "2023-05-18 16:00:00",
@@ -246,10 +246,6 @@
         {
           "name": "Kelly Clarkson",
           "url": "https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX"
-        },
-        {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
         }
       ],
       "duration_ms": 175247,
@@ -439,6 +435,22 @@
     {
       "added_at": "2023-05-18 16:00:00",
       "album": {
+        "name": "\u6251\u706b",
+        "url": "https://open.spotify.com/album/1EQw7iAPASpnBid4BkJxl3"
+      },
+      "artists": [
+        {
+          "name": "A-Lin",
+          "url": "https://open.spotify.com/artist/28gf2piFx6cAKOMIwcky5a"
+        }
+      ],
+      "duration_ms": 236269,
+      "name": "\u6251\u706b",
+      "url": "https://open.spotify.com/track/4MzaOc1mOP988KxV3ppWGR"
+    },
+    {
+      "added_at": "2023-05-18 16:00:00",
+      "album": {
         "name": "End Of Time",
         "url": "https://open.spotify.com/album/5qIq5q9nx9fymmk5JyKmsB"
       },
@@ -515,6 +527,30 @@
       "duration_ms": 149324,
       "name": "Don't Forget About Me",
       "url": "https://open.spotify.com/track/43rGLaawHXspfnWtBCoAQg"
+    },
+    {
+      "added_at": "2023-05-19 01:32:58",
+      "album": {
+        "name": "Daydreaming",
+        "url": "https://open.spotify.com/album/2x7bjrZNDZ7hNcosj0dS39"
+      },
+      "artists": [
+        {
+          "name": "NxWorries",
+          "url": "https://open.spotify.com/artist/6PEMFpe3PTOksdV4ZXUpbE"
+        },
+        {
+          "name": "Anderson .Paak",
+          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
+        },
+        {
+          "name": "Knxwledge",
+          "url": "https://open.spotify.com/artist/17Zu03OgBVxgLxWmRUyNOJ"
+        }
+      ],
+      "duration_ms": 186873,
+      "name": "Daydreaming",
+      "url": "https://open.spotify.com/track/6qqq5zPYV7U4UsKnGC82tw"
     },
     {
       "added_at": "2023-05-18 16:00:00",
@@ -739,6 +775,22 @@
     {
       "added_at": "2023-05-18 16:00:00",
       "album": {
+        "name": "GENTO",
+        "url": "https://open.spotify.com/album/3cxdpO2eZx2VT2OWyca18o"
+      },
+      "artists": [
+        {
+          "name": "SB19",
+          "url": "https://open.spotify.com/artist/3g7vYcdDXnqnDKYFwqXBJP"
+        }
+      ],
+      "duration_ms": 232621,
+      "name": "GENTO",
+      "url": "https://open.spotify.com/track/1o6uF8VmXna99ysHTcQRI2"
+    },
+    {
+      "added_at": "2023-05-18 16:00:00",
+      "album": {
         "name": "In Love With A Stranger",
         "url": "https://open.spotify.com/album/3qpLVDFsG622yX5FDBttHB"
       },
@@ -844,7 +896,7 @@
       "added_at": "2023-05-18 16:00:00",
       "album": {
         "name": "Francesca",
-        "url": "https://open.spotify.com/album/09gUFQ3fFjCHuhv1ab99Ce"
+        "url": "https://open.spotify.com/album/2GS1K0RZ5SjtuT8bsX0xyv"
       },
       "artists": [
         {
@@ -854,7 +906,7 @@
       ],
       "duration_ms": 270066,
       "name": "Francesca",
-      "url": "https://open.spotify.com/track/6TSH6vh6KkSfExHM6evcbr"
+      "url": "https://open.spotify.com/track/4LmOmWpjCQbC1VZvUuwPQu"
     },
     {
       "added_at": "2023-05-18 16:00:00",
@@ -960,7 +1012,7 @@
       "added_at": "2023-05-18 16:00:00",
       "album": {
         "name": "Stars",
-        "url": "https://open.spotify.com/album/2Ow9GPsc5afUdPrLZBT6Uo"
+        "url": "https://open.spotify.com/album/05fkFs9DM4TpNGaDotqF8O"
       },
       "artists": [
         {
@@ -978,7 +1030,7 @@
       ],
       "duration_ms": 171233,
       "name": "Stars",
-      "url": "https://open.spotify.com/track/2fNaMBJBFpv1PQ1zXkxIcO"
+      "url": "https://open.spotify.com/track/3mC64Smtz0xXvsa52ZM3Q9"
     },
     {
       "added_at": "2023-05-18 16:00:00",

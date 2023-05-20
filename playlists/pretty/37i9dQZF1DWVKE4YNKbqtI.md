@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVKE4YNKbqtI.md) - [plain]
 
 > Little Walter, Junior Wells, James Cotton the finest blues harmonica players.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,534 likes - 50 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,541 likes - 50 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,9 +47,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVKE4YNKbqtI.md) - [plain]
 | 37 | [Bad Boys Heaven](https://open.spotify.com/track/4xfJSNaQN5eRUL78mor3nj) | [Sugar Blue](https://open.spotify.com/artist/3HojqGF4FshKki7Ku6gPqE) | [Code Blue](https://open.spotify.com/album/6MEW2dr1ze84kOgFtPi4uD) | 9:08 |
 | 38 | [Can't Believe It's This Good](https://open.spotify.com/track/32HudsU4xtWFuNWnmb6XPe) | [JJ Appleton](https://open.spotify.com/artist/5c2q4cX88ZOW2uVL47EKwE), [Jason Ricci](https://open.spotify.com/artist/7EV8gsN4cvguOI67kcnYAN) | [Dirty Memory](https://open.spotify.com/album/2UXZqPLmcmB6aa9T8AJFxn) | 3:37 |
 | 39 | [Honky Tonk Parts 1 & 2](https://open.spotify.com/track/4PDT7WnrEhcUB83qyY6JG0) | [Jerry "Boogie" McCain](https://open.spotify.com/artist/1sR4V8FLHoKLtkA68DP7do) | [Abolutely the Best: The Complete Jewel Singles 1965\-1972](https://open.spotify.com/album/4Vp7gTydgX0GiYyYOeJ3mJ) | 3:50 |
-| 40 | [Mood Room Boogie](https://open.spotify.com/track/71Vue1WdbaB8aP79Nmhd76) | [Jerry Portnoy](https://open.spotify.com/artist/6VJN1UE84B6UkKQw0t93BU) | [Down in the Mood Room](https://open.spotify.com/album/1jJumcgFYNfC07qBagJwKL) | 4:13 |
-| 41 | [Harpoventilatin'](https://open.spotify.com/track/0hMR8CTSJLrRjOgoE7apDR) | [Mark Hummel](https://open.spotify.com/artist/6tThEAJKUsHlj0ALfRObEP) | [Harpbreaker](https://open.spotify.com/album/0HGQj36FzCKitSWq3jy2lX) | 3:44 |
-| 42 | [Dog Days of August](https://open.spotify.com/track/5gOxdOaXlIVrM0mlOEJ3hZ) | [Cephas & Wiggins](https://open.spotify.com/artist/40MbAfRt1y7QdeGSkSp4pF), [John Cephas](https://open.spotify.com/artist/39gMpw4vsyl8CLCW6OZx97), [Phil Wiggins](https://open.spotify.com/artist/454ZmfE5h5JeoCksBvEymQ) | [Richmond Blues](https://open.spotify.com/album/3diP0MKxncGd7wi8ZMASFZ) | 4:11 |
+| 40 | [Dog Days of August](https://open.spotify.com/track/5gOxdOaXlIVrM0mlOEJ3hZ) | [Cephas & Wiggins](https://open.spotify.com/artist/40MbAfRt1y7QdeGSkSp4pF), [John Cephas](https://open.spotify.com/artist/39gMpw4vsyl8CLCW6OZx97), [Phil Wiggins](https://open.spotify.com/artist/454ZmfE5h5JeoCksBvEymQ) | [Richmond Blues](https://open.spotify.com/album/3diP0MKxncGd7wi8ZMASFZ) | 4:11 |
+| 41 | [Mood Room Boogie](https://open.spotify.com/track/71Vue1WdbaB8aP79Nmhd76) | [Jerry Portnoy](https://open.spotify.com/artist/6VJN1UE84B6UkKQw0t93BU) | [Down in the Mood Room](https://open.spotify.com/album/1jJumcgFYNfC07qBagJwKL) | 4:13 |
+| 42 | [Harpoventilatin'](https://open.spotify.com/track/0hMR8CTSJLrRjOgoE7apDR) | [Mark Hummel](https://open.spotify.com/artist/6tThEAJKUsHlj0ALfRObEP) | [Harpbreaker](https://open.spotify.com/album/0HGQj36FzCKitSWq3jy2lX) | 3:44 |
 | 43 | [Who's the Fool](https://open.spotify.com/track/6zIZH6unxpNPpOMLFEciiZ) | [Harmonica Shah](https://open.spotify.com/artist/7GtbrsY4LuBDQQO518vwtR) | [Live at the Cove](https://open.spotify.com/album/4ZrX2ckehiYbVGOSBNqbpF) | 5:37 |
 | 44 | [Key To The Highway](https://open.spotify.com/track/4wGcFx9voRJ51U989ty9wp) | [Jazz Gillum](https://open.spotify.com/artist/6GFrr6eHPyDtqguamN8vLg) | [Jazz Gillum Vol\. 2 1938\-1941](https://open.spotify.com/album/6wY2gJuBm2BMJHpD1svDN6) | 2:43 |
 | 45 | [Pontiac Blues](https://open.spotify.com/track/7tmwXdsYe2tfm0HCNXQCNT) | [Magic Dick](https://open.spotify.com/artist/1yGvrxUBauXDFNMY14v2xh), [Jay Geils](https://open.spotify.com/artist/1UgjeijAwImO8WTt2WSum0) | [Bluestime](https://open.spotify.com/album/1ZqrooRcmaGlmQptJRKuxu) | 5:19 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVKE4YNKbqtI.md) - [plain]
 | 49 | [The Hucklebuck](https://open.spotify.com/track/3HaAIm8CuHSdxxdbv14JkG) | [Marcos Coll](https://open.spotify.com/artist/5mKLyd8tTJxeMvsNXhiHrV), [Keith Dunn](https://open.spotify.com/artist/122e3natoyt3KVWHoSxBKL) | [Under the Wings](https://open.spotify.com/album/3TpFzGrkx7auCFdstsj2fL) | 4:10 |
 | 50 | [Levee Camp Moan](https://open.spotify.com/track/5P3AlDI4rXsBxU4YC3rkL2) | [Forest City Joe](https://open.spotify.com/artist/4lrsWNPzvfhQioDHFarekQ) | [Best of Blues Vol\. 8: Forrest City Joe \(Collection Gerard Herzhaft \- Remastered\)](https://open.spotify.com/album/75TS3pJaEN702DolImKo8K) | 5:19 |
 
-Snapshot ID: `MCw2MDRkZGZkMjZhOWUzMzhlNDRkMmRjYzY2OTVmMjNmY2Y4MDYxNTc2`
+Snapshot ID: `MTY0Njk3NDkyMCwwMDAwMDAwMDFmOWY5Mjk4MzNmODNmMzQyYmU0NjYyOTYyZGMwY2Uy`

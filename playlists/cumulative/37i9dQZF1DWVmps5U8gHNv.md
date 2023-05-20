@@ -4,7 +4,7 @@
 
 > A collection of classics from the height of the folk revival to the rise of the folk rock era\. Cover: Bob Dylan
 
-180 songs - 11 hr 27 min
+182 songs - 11 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,6 +14,7 @@
 | [A Horse with No Name](https://open.spotify.com/track/54eZmuggBFJbV7k248bTTt) | [America](https://open.spotify.com/artist/35U9lQaRWSQISxQAB94Meo), [George Martin](https://open.spotify.com/artist/4Fgf6RvuWpiwDXSE7Vammx) | [America](https://open.spotify.com/album/0E5IKYhiKgbYQkmfsFonbZ) | 4:12 | 2021-08-18 |  |
 | [A Love Song for Bobby Long](https://open.spotify.com/track/5Ngtz0zVpq2Wf7EtvzZfKk) | [Grayson Capps](https://open.spotify.com/artist/1AUDKBQgslL9Yy9uXROQNT) | [If You Knew My Mind](https://open.spotify.com/album/6HesCC6MIevWpWlmwELID6) | 4:53 | 2021-08-18 |  |
 | [Alice's Restaurant Massacree](https://open.spotify.com/track/4OjKHySJHstsImlUW3qfml) | [Arlo Guthrie](https://open.spotify.com/artist/0B6QEFtRnneEzb4iqjI0Nw) | [Alice's Restaurant](https://open.spotify.com/album/0Y1XtcuCEFhVIyGtPbBmvm) | 18:36 | 2021-08-18 |  |
+| [All Nights, All Days](https://open.spotify.com/track/0hIYVHio9wHLYdBrqiHSsg) | [Yusuf / Cat Stevens](https://open.spotify.com/artist/08F3Y3SctIlsOEmKd6dnH8) | [All Nights, All Days](https://open.spotify.com/album/1sG6knJH4lEWNxvJ5A3NZi) | 2:22 | 2023-05-19 |  |
 | [American Tune](https://open.spotify.com/track/3g3xDtGtU0asKw6iYCYiG5) | [Paul Simon](https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI) | [There Goes Rhymin' Simon](https://open.spotify.com/album/50pzpI17hwQj7LKcOiLMFD) | 3:45 | 2021-08-18 |  |
 | [Angel from Montgomery](https://open.spotify.com/track/2qWKpYIleSvBT6aUMXoia5) | [John Prine](https://open.spotify.com/artist/0nJUwPwC9Ti4vvuJ0q3MfT) | [John Prine](https://open.spotify.com/album/5t4FHrIAHI8nolSAOBRgPp) | 3:44 | 2021-08-18 |  |
 | [At Seventeen \- Remastered](https://open.spotify.com/track/7wJpqjqk8QbHpCakY1ZacY) | [Janis Ian](https://open.spotify.com/artist/5c9uFWpZY2MTlk7Rft0tgp) | [Between the Lines \(Remastered\)](https://open.spotify.com/album/6RjDm4cjV3MFndKrpLUxpO) | 4:43 | 2021-08-18 |  |
@@ -135,6 +136,7 @@
 | [Stoned Soul Picnic](https://open.spotify.com/track/2oV3mzorzJTZa3gmp8vAJl) | [Laura Nyro](https://open.spotify.com/artist/6QDWC6QeGhvCWCv3nUJwoV) | [Time And Love: The Essential Masters](https://open.spotify.com/album/5XRavq9AfzLqovq2HpQBDP) | 3:47 | 2021-08-18 |  |
 | [Sundown](https://open.spotify.com/track/0SjnBEHZVXgCKvOrpvzL2k) | [Gordon Lightfoot](https://open.spotify.com/artist/23rleGXVOVVgTk3xgtmfE4) | [Sundown](https://open.spotify.com/album/2IPD9EcNjUmsHvqULDMU9Y) | 3:33 | 2021-08-18 |  |
 | [Suzanne](https://open.spotify.com/track/50LqU2nhdE3fmWOuqOjpjz) | [Leonard Cohen](https://open.spotify.com/artist/5l8VQNuIg0turYE1VtM9zV) | [The Best Of Leonard Cohen](https://open.spotify.com/album/06TH14tYg5Xy6bauQtgxnt) | 3:47 | 2021-08-18 |  |
+| [Sweet Rainbow](https://open.spotify.com/track/3uFjMR6c3fmF6Us3phdVWI) | [Peter One](https://open.spotify.com/artist/0a2PWvcYoeN1ZCzpujQ0qo) | [Come Back To Me](https://open.spotify.com/album/561eKNmfenwaF1fZsVayMv) | 4:06 | 2023-05-19 |  |
 | [Sweet Thing \- 1999 Remaster](https://open.spotify.com/track/4dBI72rgkmG0gTzswyBTzz) | [Van Morrison](https://open.spotify.com/artist/44NX2ffIYHr6D4n7RaZF7A) | [Astral Weeks](https://open.spotify.com/album/4pG3bKkbmReDt5QTDn3JDz) | 4:25 | 2021-08-18 |  |
 | [Swimming Song](https://open.spotify.com/track/0AXZ0NEEylEhBda574NrmG) | [Kate & Anna McGarrigle](https://open.spotify.com/artist/7krh6ZjG7i7jvLGiG3YNJF) | [Kate & Anna McGarrigle](https://open.spotify.com/album/4PtJUyTpyy4pkiNsPYfW0J) | 2:29 | 2021-08-18 |  |
 | [Take It Easy](https://open.spotify.com/track/2C0RI3XZYEyne1ZQ4YBl5y) | [Jackson Browne](https://open.spotify.com/artist/5lkiCO9UQ8B23dZ1o0UV4m) | [The Very Best Of Jackson Browne](https://open.spotify.com/album/3Be41UPX9MXgRbGprTPvYp) | 3:51 | 2021-08-18 |  |

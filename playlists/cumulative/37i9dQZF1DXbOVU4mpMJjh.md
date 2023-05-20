@@ -4,7 +4,7 @@
 
 > Relax to gentle vocal and instrumental Jazz.
 
-697 songs - 2 day 2 hr 38 min
+698 songs - 2 day 2 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -533,7 +533,7 @@
 | [Silent Thunder](https://open.spotify.com/track/6yY6hRz9VNEhaRyWEHTezV) | [Carla Anderson](https://open.spotify.com/artist/1TbIqBiSP0SseGrRStPd3o) | [Silent Thunder](https://open.spotify.com/album/2D7QuOEsAvaN9oSQTLEjqb) | 4:39 | 2022-06-22 | 2023-04-29 |
 | [Silky Smooth](https://open.spotify.com/track/71m0kBDhVhtjFcBCJLFTKc) | [Eira Eld](https://open.spotify.com/artist/1Ry53E1vatWPQYpL9DXlQn) | [Silky Smooth](https://open.spotify.com/album/1yvVjaJnkvezldKwO31Y5C) | 2:44 | 2023-04-20 |  |
 | [Silver Lining](https://open.spotify.com/track/0THUYrw2Rk5JIjCJS6Qu0b) | [Bernhard Cohen](https://open.spotify.com/artist/4KU3igTxJsnJrxcOF2oC6f) | [Silver Lining](https://open.spotify.com/album/73PLpuORLQXSfTLQS9HuDc) | 3:04 | 2023-01-20 |  |
-| [Since You Left Me](https://open.spotify.com/track/3d4PWG3P1FU0CGiBu0fZRV) | [Odo Lefebvre](https://open.spotify.com/artist/7lLtsVLpDbuhSvr5UE6HIU) | [Since You Left Me](https://open.spotify.com/album/02KZPHcpyozGVMKjVV2Wso) | 3:49 | 2022-12-22 |  |
+| [Since You Left Me](https://open.spotify.com/track/3d4PWG3P1FU0CGiBu0fZRV) | [Odo Lefebvre](https://open.spotify.com/artist/7lLtsVLpDbuhSvr5UE6HIU) | [Since You Left Me](https://open.spotify.com/album/02KZPHcpyozGVMKjVV2Wso) | 3:49 | 2022-12-22 | 2023-05-20 |
 | [Skylark](https://open.spotify.com/track/4GMJNNA04YDBVixAWiK5zD) | [Joseph Lawrence](https://open.spotify.com/artist/0xCOX1rOGhTQ3NOfM32r7z) | [Alone Together](https://open.spotify.com/album/1HpFYNRbT6bSc29yt1njK9) | 7:18 | 2022-04-14 | 2022-10-08 |
 | [Smile](https://open.spotify.com/track/3W7AQiUlT9SVueyv0ZqZ9G) | [Nordic Quartet](https://open.spotify.com/artist/6XhjDLFPmCbhposdUMoJvM) | [Smile](https://open.spotify.com/album/6dAX6IpKq5s9iQtolusSXE) | 3:10 | 2022-08-11 | 2023-04-26 |
 | [Smile](https://open.spotify.com/track/491rM2JN8KvmV6p0oDDuJT) | [Peter Appleyard](https://open.spotify.com/artist/4of73tRHotZpKvHKmFzYcM), [Diana Panton](https://open.spotify.com/artist/7iHXhGerkdpvUAIb67GCSj) | [Sophisticated Ladies](https://open.spotify.com/album/69dcBtgrUwDQZ6fCo5sB8a) | 4:09 | 2022-04-14 | 2022-06-09 |
@@ -653,6 +653,7 @@
 | [Under A Smiling Moon](https://open.spotify.com/track/0aqmVdsk85uvygzAxpJENH) | [Peter Sandberg](https://open.spotify.com/artist/3LtlJprzuq0Ii8p8YFZXai) | [A Scandinavian Thing](https://open.spotify.com/album/0qy8kSH76bUb9abjOjfh7W) | 4:23 | 2022-06-30 |  |
 | [Unending](https://open.spotify.com/track/2XpPGcRWevUyye6j0pCNFQ) | [The Levon Trio](https://open.spotify.com/artist/08hb6f203kyAPrQkV3LlFZ) | [Once Knowing](https://open.spotify.com/album/1J3QLGLdMJZfIFLxsvojWW) | 4:17 | 2023-03-09 |  |
 | [Unforgettable](https://open.spotify.com/track/3eQwtgoiVKbaYuX0ITe2fU) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [The Nat King Cole Story](https://open.spotify.com/album/3NoP1ifIejWkGSDsO9T2xH) | 3:27 | 2022-04-14 | 2022-04-22 |
+| [Up before the dawn](https://open.spotify.com/track/1R7EYodTHWPEyV5u96oFRE) | [Dave Oakley trio](https://open.spotify.com/artist/6HOLnnkgNpWVVjZRELl9lc) | [Up before the dawn](https://open.spotify.com/album/4UdKcEHfFrgqSuJ6ybBfT1) | 3:33 | 2023-05-11 |  |
 | [Uphill](https://open.spotify.com/track/6g6U5Ip7Tvm1xsctpflOuk) | [Karin Hammar](https://open.spotify.com/artist/6PpRVXmqjgmgFPg9gEJfWc), [Andreas Hourdakis](https://open.spotify.com/artist/0S0DsjhNNujgfny2GV71Wq), [Niklas Fernqvist](https://open.spotify.com/artist/0RwUWenfKob2FP0P4V5pJS), [Fredrik Rundqvist](https://open.spotify.com/artist/5xLLcvi1xnXS9mMKi6PW57) | [Circles](https://open.spotify.com/album/7yDHwMVnH0SXCYw6eD7fDg) | 4:01 | 2022-04-14 | 2022-10-08 |
 | [Uptown, Downtown](https://open.spotify.com/track/58TwX5CF328t6qDm9sgaLb) | [Bill Charlap Trio](https://open.spotify.com/artist/5isSr1JUeHt5cgh8oWz1Ja) | [Uptown, Downtown](https://open.spotify.com/album/1rKuZrtVnezUOqklw7fSKc) | 6:00 | 2022-04-14 | 2022-10-08 |
 | [Very Early](https://open.spotify.com/track/5KtdndjjwcRPMO6kl129TG) | [Jazz At Lincoln Center Orchestra](https://open.spotify.com/artist/6MnWA8xVW1sEzV9s7wXpQb), [Wynton Marsalis](https://open.spotify.com/artist/375zxMmh2cSgUzFFnva0O7), [Joey Alexander](https://open.spotify.com/artist/0FcNSKwWZJb98ry9M2qEII) | [Very Early](https://open.spotify.com/album/0fPVsQec9DfwuSfWSNdp7d) | 8:05 | 2022-04-14 | 2022-09-23 |

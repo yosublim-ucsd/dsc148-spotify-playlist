@@ -1,12 +1,12 @@
 {
   "description": "The home of the best new alternative music. Cover: Sad Night Dynamite",
-  "num_followers": 173985,
+  "num_followers": 187101,
   "original_name": "The Other List",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkZDM4YzI4YWViYzgyOGZjNDFkNzM1NjhjMjg5ZTc2YmQ5OWFlMDFl",
+  "snapshot_id": "MCxiYzQ3YTQ1MjQ5OGYzOTE1Y2E0NWM1YmY3ZjlhNTE3ZTljODFlMmNk",
   "tracks": [
     {
       "added_at": "2023-05-18 23:00:00",
@@ -299,6 +299,22 @@
       "duration_ms": 247209,
       "name": "NO INTENTION",
       "url": "https://open.spotify.com/track/771Tpqi1DLOrqwfiNV3Er9"
+    },
+    {
+      "added_at": "2023-05-19 20:25:30",
+      "album": {
+        "name": "Flowers At Your Feet",
+        "url": "https://open.spotify.com/album/2SAtIfz2jFRAn36xCUT8xd"
+      },
+      "artists": [
+        {
+          "name": "Rahill",
+          "url": "https://open.spotify.com/artist/0a0L1YLGhMT64hsSh9M9aM"
+        }
+      ],
+      "duration_ms": 161360,
+      "name": "Tell Me",
+      "url": "https://open.spotify.com/track/4Z1olDl8aym5xZYZAat672"
     },
     {
       "added_at": "2023-05-18 23:00:00",

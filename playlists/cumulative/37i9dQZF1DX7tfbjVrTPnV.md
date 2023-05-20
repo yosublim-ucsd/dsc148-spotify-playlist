@@ -4,7 +4,7 @@
 
 > Enjoy new and classic releases from icons of folk and Americana\. Cover: Bonnie Raitt
 
-252 songs - 16 hr 8 min
+253 songs - 16 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -104,6 +104,7 @@
 | [Hold My Hand](https://open.spotify.com/track/5bSiS7Kx4rZHdddn0XivEb) | [Brandy Clark](https://open.spotify.com/artist/5vMAKlvvMNSRQRYCAvpG6S) | [12 Stories](https://open.spotify.com/album/2ugozjdiI4CXaTEcrN3hfz) | 3:36 | 2022-04-22 |  |
 | [Hold My Hand](https://open.spotify.com/track/6nvqKFaUCoLm5crJxqiF9K) | [Brandy Clark](https://open.spotify.com/artist/5vMAKlvvMNSRQRYCAvpG6S) | [12 Stories](https://open.spotify.com/album/4fYENlcTToGb5EwSqj1xmy) | 3:36 | 2021-11-11 | 2022-07-29 |
 | [Hold On](https://open.spotify.com/track/3IHMlWNnTqtVP32p46ZzJT) | [Martin Sexton](https://open.spotify.com/artist/16HLVuiCN8iGYhBca7lsqE) | [Hold On](https://open.spotify.com/album/1LEg5ypjv2gjCWXa7trzbb) | 3:41 | 2021-11-11 | 2023-04-29 |
+| [Hold On](https://open.spotify.com/track/7KvUES0KA4PClnqof2nHMG) | [Martin Sexton](https://open.spotify.com/artist/16HLVuiCN8iGYhBca7lsqE) | [Hold On](https://open.spotify.com/album/7nMRzda3BneKBWE0bDLu1s) | 3:41 | 2023-02-24 |  |
 | [House of the White Rose Boquet](https://open.spotify.com/track/6fGqZu6bhVb9aPqJ2r3eZ5) | [Ray Wylie Hubbard](https://open.spotify.com/artist/4gQ8biCMcMrOuBdJx639Q0) | [Tell the Devil I'm Gettin' there as Fast as I Can](https://open.spotify.com/album/19AaEKSxOSfjfqjWi3UDQU) | 3:23 | 2022-04-22 |  |
 | [House of the White Rose Bouquet](https://open.spotify.com/track/2vfmwwTDwEDCaZuss6TzXn) | [Ray Wylie Hubbard](https://open.spotify.com/artist/4gQ8biCMcMrOuBdJx639Q0) | [House of the White Rose Bouquet](https://open.spotify.com/album/7tGQLHItk2nXOE6fOgSIHb) | 3:23 | 2021-11-11 | 2022-07-29 |
 | [I Ain't Lookin' For No Trouble](https://open.spotify.com/track/1GTEEvwTjh7xah3BgulsBA) | [Ray Benson](https://open.spotify.com/artist/2G6E8Q9UTzDIhoawhJm33M) | [A Little Piece](https://open.spotify.com/album/5CntyXoAEn6ubp3LXaL95I) | 4:02 | 2021-11-11 | 2022-07-29 |
@@ -192,7 +193,7 @@
 | [Stranger to My Happiness](https://open.spotify.com/track/1ajv5XuWMbe35X13ACtyv9) | [Sharon Jones & The Dap\-Kings](https://open.spotify.com/artist/6LufpoVlIYKQCu9Gjpk8B7) | [Give the People What They Want](https://open.spotify.com/album/3f8j4GaxidCnaDhlD72V0O) | 3:31 | 2023-02-24 |  |
 | [Summer's End](https://open.spotify.com/track/511dXUrzAfeivY8f0LUMZd) | [John Prine](https://open.spotify.com/artist/0nJUwPwC9Ti4vvuJ0q3MfT) | [The Tree of Forgiveness](https://open.spotify.com/album/13UwfQZqne7ZQIkUZsAPLg) | 3:29 | 2021-11-11 |  |
 | [Sweet Lucinda](https://open.spotify.com/track/6HohWRMwZri2QuHUTsIQrM) | [Gibson Brothers](https://open.spotify.com/artist/5a1u9fulLhPXwEWkrxmzEV) | [Mockingbird](https://open.spotify.com/album/3ui6POyBTPABrI3dWF4Ntq) | 2:45 | 2021-11-11 | 2022-07-29 |
-| [Sweet Lucinda](https://open.spotify.com/track/6EMOrIVN27rTNUYn7z15OG) | [Gibson Brothers](https://open.spotify.com/artist/5a1u9fulLhPXwEWkrxmzEV) | [Mockingbird](https://open.spotify.com/album/3pOyPju6tohsVyMsnkyyQ2) | 2:45 | 2022-04-22 |  |
+| [Sweet Lucinda](https://open.spotify.com/track/6EMOrIVN27rTNUYn7z15OG) | [Gibson Brothers](https://open.spotify.com/artist/5a1u9fulLhPXwEWkrxmzEV) | [Mockingbird](https://open.spotify.com/album/3pOyPju6tohsVyMsnkyyQ2) | 2:45 | 2022-04-22 | 2023-05-20 |
 | [Taxes on the Farmer Feeds Us All](https://open.spotify.com/track/1byebBYLkyIUdTNKUp8qS8) | [Ry Cooder](https://open.spotify.com/artist/1CPwHx5lgVxv0rfcp7UXLx) | [1970 \- 1987](https://open.spotify.com/album/7wp12pjjsFjBOxFOifOZzj) | 3:56 | 2021-11-11 | 2022-07-29 |
 | [Taxes on the Farmer Feeds Us All](https://open.spotify.com/track/4ZslsM9CYd5SpqlSGODAEq) | [Ry Cooder](https://open.spotify.com/artist/1CPwHx5lgVxv0rfcp7UXLx) | [Into The Purple Valley](https://open.spotify.com/album/0bPPam9K2Pyuxr8T9WH1Vk) | 3:56 | 2022-04-22 |  |
 | [Tecumseh Valley](https://open.spotify.com/track/1LWiOjbkmzLSBKvIPcdWoF) | [Townes Van Zandt](https://open.spotify.com/artist/3ZWab2LEVkNKiBPIClTwof) | [Live at the Old Quarter](https://open.spotify.com/album/2drUynocyGveMTFheprmJy) | 4:30 | 2021-11-11 | 2022-07-29 |

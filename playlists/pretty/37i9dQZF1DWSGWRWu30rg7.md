@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSGWRWu30rg7.md) - [plain]
 
 > Temukan beragam musik terbaru dari talenta segar dalam negeri\. Cover: Nabila Taqiyyah
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,215 likes - 86 songs - 5 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,564 likes - 86 songs - 5 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -95,4 +95,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSGWRWu30rg7.md) - [plain]
 | 85 | [Massive And Dangerous](https://open.spotify.com/track/73r57na4Vo1t9WBeXt8ggm) | [Madness On Tha Block](https://open.spotify.com/artist/6xbSe0Pg0QWzTk5fscNbEM) | [Massive And Dangerous](https://open.spotify.com/album/0vdNMmCtFmeq9RaRjxspog) | 3:33 |
 | 86 | [Bahagialah Cinta](https://open.spotify.com/track/5K3XivJn0NLtYMhhIW3DCz) | [Asyraf Jamal](https://open.spotify.com/artist/2VVF9v30tOFn3gmOjlscX7) | [Bahagialah Cinta](https://open.spotify.com/album/0RUgjY7DIC2z0k4MgECw2A) | 4:32 |
 
-Snapshot ID: `MCw1YWM3Njk3OTBkODc4Y2VlOWM2NjU3NTI5NWIyYzYyNGY1OGZhYWMx`
+Snapshot ID: `MCxhMzVlZDMyY2Q1YjIyZmE0M2ZhM2NiOTYxNDA0NjZhYmFiZDYzMWY3`

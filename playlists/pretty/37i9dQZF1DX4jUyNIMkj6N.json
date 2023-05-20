@@ -1,12 +1,12 @@
 {
   "description": "The very best in Scandifolk - from Icelandic blues rock to Norwegicana.",
-  "num_followers": 180248,
+  "num_followers": 180280,
   "original_name": "Nordic Folk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzZjI3MjMyMDAyMjZhYTIwNzRjZGMwNDMwMGY2MGNlYjA0NmZmYjNl",
+  "snapshot_id": "MCw0NjIzMWMyNTI1YTEzZjI3MTcwMmIzY2I0Mzc3NWVjM2U1YTE5YjEw",
   "tracks": [
     {
       "added_at": "2023-05-18 22:00:00",
@@ -255,22 +255,6 @@
     {
       "added_at": "2023-05-18 22:00:00",
       "album": {
-        "name": "Floating Harmonies",
-        "url": "https://open.spotify.com/album/47zAxwGvi23uYEItSkTRgY"
-      },
-      "artists": [
-        {
-          "name": "J\u00fan\u00edus Meyvant",
-          "url": "https://open.spotify.com/artist/5IL5awl9gUcb2ez9IgmW26"
-        }
-      ],
-      "duration_ms": 241400,
-      "name": "Signals",
-      "url": "https://open.spotify.com/track/6drhkuOJp1qekWmTydy0Vt"
-    },
-    {
-      "added_at": "2023-05-18 22:00:00",
-      "album": {
         "name": "Wolf",
         "url": "https://open.spotify.com/album/0rWBMz1deEBd4l2TAsW7dq"
       },
@@ -283,6 +267,22 @@
       "duration_ms": 220333,
       "name": "Wolf",
       "url": "https://open.spotify.com/track/3pMUTmKGA5hWOWpzf82xn0"
+    },
+    {
+      "added_at": "2023-05-18 22:00:00",
+      "album": {
+        "name": "Floating Harmonies",
+        "url": "https://open.spotify.com/album/47zAxwGvi23uYEItSkTRgY"
+      },
+      "artists": [
+        {
+          "name": "J\u00fan\u00edus Meyvant",
+          "url": "https://open.spotify.com/artist/5IL5awl9gUcb2ez9IgmW26"
+        }
+      ],
+      "duration_ms": 241400,
+      "name": "Signals",
+      "url": "https://open.spotify.com/track/6drhkuOJp1qekWmTydy0Vt"
     },
     {
       "added_at": "2023-05-18 22:00:00",
@@ -351,6 +351,22 @@
       "duration_ms": 184320,
       "name": "Waiting",
       "url": "https://open.spotify.com/track/2KcQh6QnfN40xDTatsybsG"
+    },
+    {
+      "added_at": "2023-05-18 22:00:00",
+      "album": {
+        "name": "Spotify Sessions",
+        "url": "https://open.spotify.com/album/0YneOS1OMqNFfnOTtccqwv"
+      },
+      "artists": [
+        {
+          "name": "First Aid Kit",
+          "url": "https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1"
+        }
+      ],
+      "duration_ms": 304226,
+      "name": "Emmylou - Spotify Sessions",
+      "url": "https://open.spotify.com/track/7exdcu9SmgcrZ7hW9ZdcYo"
     },
     {
       "added_at": "2023-05-18 22:00:00",
@@ -435,22 +451,6 @@
     {
       "added_at": "2023-05-18 22:00:00",
       "album": {
-        "name": "Spotify Sessions",
-        "url": "https://open.spotify.com/album/0YneOS1OMqNFfnOTtccqwv"
-      },
-      "artists": [
-        {
-          "name": "First Aid Kit",
-          "url": "https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1"
-        }
-      ],
-      "duration_ms": 304226,
-      "name": "Emmylou - Spotify Sessions",
-      "url": "https://open.spotify.com/track/7exdcu9SmgcrZ7hW9ZdcYo"
-    },
-    {
-      "added_at": "2023-05-18 22:00:00",
-      "album": {
         "name": "When the Cellar Children See the Light of Day",
         "url": "https://open.spotify.com/album/4RP8ZcEWH1tPoEdkaPf8KK"
       },
@@ -519,22 +519,6 @@
     {
       "added_at": "2023-05-18 22:00:00",
       "album": {
-        "name": "The Sky is Painted Gray Today",
-        "url": "https://open.spotify.com/album/4iEFEhFxzgr7VKpuo4rjUT"
-      },
-      "artists": [
-        {
-          "name": "\u00c1sgeir",
-          "url": "https://open.spotify.com/artist/7xUZ4069zcyBM4Bn10NQ1c"
-        }
-      ],
-      "duration_ms": 221682,
-      "name": "The Sky is Painted Gray Today",
-      "url": "https://open.spotify.com/track/0WOz7oU6zfuUvDzWHmIdMK"
-    },
-    {
-      "added_at": "2023-05-18 22:00:00",
-      "album": {
         "name": "About You",
         "url": "https://open.spotify.com/album/1t7FwYLSRY0gcMZvsndBVM"
       },
@@ -547,6 +531,22 @@
       "duration_ms": 128280,
       "name": "Lou Lou",
       "url": "https://open.spotify.com/track/5JZWiZ8ePCWYqoX99fdUbB"
+    },
+    {
+      "added_at": "2023-05-18 22:00:00",
+      "album": {
+        "name": "The Sky is Painted Gray Today",
+        "url": "https://open.spotify.com/album/4iEFEhFxzgr7VKpuo4rjUT"
+      },
+      "artists": [
+        {
+          "name": "\u00c1sgeir",
+          "url": "https://open.spotify.com/artist/7xUZ4069zcyBM4Bn10NQ1c"
+        }
+      ],
+      "duration_ms": 221682,
+      "name": "The Sky is Painted Gray Today",
+      "url": "https://open.spotify.com/track/0WOz7oU6zfuUvDzWHmIdMK"
     },
     {
       "added_at": "2023-05-18 22:00:00",
@@ -819,22 +819,6 @@
     {
       "added_at": "2023-05-18 22:00:00",
       "album": {
-        "name": "Br\u00e5tebrann",
-        "url": "https://open.spotify.com/album/2KZF4X0awI3SD4xY8tWVzP"
-      },
-      "artists": [
-        {
-          "name": "Moddi",
-          "url": "https://open.spotify.com/artist/65ltPnFGbTfv1sFjVOZBMM"
-        }
-      ],
-      "duration_ms": 146573,
-      "name": "Ei ny tid",
-      "url": "https://open.spotify.com/track/2tK1DxbYpBl4x5sp7wJJFi"
-    },
-    {
-      "added_at": "2023-05-18 22:00:00",
-      "album": {
         "name": "Buffy",
         "url": "https://open.spotify.com/album/5T6jp4vbCQNAQ51q6ob9HU"
       },
@@ -847,6 +831,22 @@
       "duration_ms": 182626,
       "name": "Buffy",
       "url": "https://open.spotify.com/track/1o1lWEJ1xqwIb5v6Y04R8p"
+    },
+    {
+      "added_at": "2023-05-18 22:00:00",
+      "album": {
+        "name": "Br\u00e5tebrann",
+        "url": "https://open.spotify.com/album/2KZF4X0awI3SD4xY8tWVzP"
+      },
+      "artists": [
+        {
+          "name": "Moddi",
+          "url": "https://open.spotify.com/artist/65ltPnFGbTfv1sFjVOZBMM"
+        }
+      ],
+      "duration_ms": 146573,
+      "name": "Ei ny tid",
+      "url": "https://open.spotify.com/track/2tK1DxbYpBl4x5sp7wJJFi"
     },
     {
       "added_at": "2023-05-18 22:00:00",
@@ -903,22 +903,6 @@
     {
       "added_at": "2023-05-18 22:00:00",
       "album": {
-        "name": "N\u00e6rmere",
-        "url": "https://open.spotify.com/album/3EOALbGIuyGFVKVusRlC7W"
-      },
-      "artists": [
-        {
-          "name": "Ane Brun",
-          "url": "https://open.spotify.com/artist/2L3kwZFd16zjHz9a5kEPAm"
-        }
-      ],
-      "duration_ms": 288678,
-      "name": "Stilla",
-      "url": "https://open.spotify.com/track/3yovkhHZU1GfUptqdu3K4w"
-    },
-    {
-      "added_at": "2023-05-18 22:00:00",
-      "album": {
         "name": "When the Cellar Children See the Light of Day",
         "url": "https://open.spotify.com/album/4RP8ZcEWH1tPoEdkaPf8KK"
       },
@@ -931,6 +915,22 @@
       "duration_ms": 133184,
       "name": "The Devil's Tongue",
       "url": "https://open.spotify.com/track/0zJ5Alcy6I5mqjQVcUqTSx"
+    },
+    {
+      "added_at": "2023-05-18 22:00:00",
+      "album": {
+        "name": "N\u00e6rmere",
+        "url": "https://open.spotify.com/album/3EOALbGIuyGFVKVusRlC7W"
+      },
+      "artists": [
+        {
+          "name": "Ane Brun",
+          "url": "https://open.spotify.com/artist/2L3kwZFd16zjHz9a5kEPAm"
+        }
+      ],
+      "duration_ms": 288678,
+      "name": "Stilla",
+      "url": "https://open.spotify.com/track/3yovkhHZU1GfUptqdu3K4w"
     },
     {
       "added_at": "2023-05-18 22:00:00",
@@ -967,22 +967,6 @@
     {
       "added_at": "2023-05-18 22:00:00",
       "album": {
-        "name": "Tran\u00f8y fyr",
-        "url": "https://open.spotify.com/album/6VdthuopHQGNXLcCH5Vwjy"
-      },
-      "artists": [
-        {
-          "name": "Moddi",
-          "url": "https://open.spotify.com/artist/65ltPnFGbTfv1sFjVOZBMM"
-        }
-      ],
-      "duration_ms": 236480,
-      "name": "Tran\u00f8y fyr",
-      "url": "https://open.spotify.com/track/1ZiY38qhaI4HF6lilr2FV8"
-    },
-    {
-      "added_at": "2023-05-18 22:00:00",
-      "album": {
         "name": "Poetry & Airplanes",
         "url": "https://open.spotify.com/album/56fpdPOaGl7IHh71TPtQo1"
       },
@@ -999,18 +983,34 @@
     {
       "added_at": "2023-05-18 22:00:00",
       "album": {
-        "name": "Vinyl and a Heartache",
-        "url": "https://open.spotify.com/album/3ggLoeg7Vv2fx1OoR1Egte"
+        "name": "Tran\u00f8y fyr",
+        "url": "https://open.spotify.com/album/6VdthuopHQGNXLcCH5Vwjy"
       },
       "artists": [
         {
-          "name": "Darling West",
-          "url": "https://open.spotify.com/artist/0mKLP9jGn5eAZDlaq7UYQY"
+          "name": "Moddi",
+          "url": "https://open.spotify.com/artist/65ltPnFGbTfv1sFjVOZBMM"
         }
       ],
-      "duration_ms": 219413,
-      "name": "The Sweetest Tune",
-      "url": "https://open.spotify.com/track/4vDxQKlCJVfsTdK4g9eA5x"
+      "duration_ms": 236480,
+      "name": "Tran\u00f8y fyr",
+      "url": "https://open.spotify.com/track/1ZiY38qhaI4HF6lilr2FV8"
+    },
+    {
+      "added_at": "2023-05-18 22:00:00",
+      "album": {
+        "name": "May",
+        "url": "https://open.spotify.com/album/2vXLNhdNLU10FscOd07Xbl"
+      },
+      "artists": [
+        {
+          "name": "Broken Twin",
+          "url": "https://open.spotify.com/artist/4Y1f57EtKq7YF6DfftpopX"
+        }
+      ],
+      "duration_ms": 214986,
+      "name": "Glimpse of a Time",
+      "url": "https://open.spotify.com/track/06zhgqhDgIM6CMI4NyDVxu"
     }
   ],
   "unique_name": "Nordic Folk",

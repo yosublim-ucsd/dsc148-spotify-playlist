@@ -2,9 +2,9 @@
 
 ### [Hot Country](https://open.spotify.com/playlist/37i9dQZF1DX1lVhptIYRda)
 
-> Today's top country hits of the week, worldwide! Cover: Bailey Zimmerman
+> Today's top country hits of the week, worldwide! Cover: Parker McCollum
 
-636 songs - 1 day 10 hr 17 min
+637 songs - 1 day 10 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -259,7 +259,7 @@
 | [Homesick](https://open.spotify.com/track/6D2Up6lpoFazlmFn0Zpkty) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [Experiment](https://open.spotify.com/album/3950MST9uRPKyh4Prv7lh1) | 3:25 | 2019-11-16 | 2020-03-21 |
 | [How Many Times](https://open.spotify.com/track/0x5aqRejnsR6kiMq0ficsp) | [Kat & Alex](https://open.spotify.com/artist/6K4y1ejK5kZ0kRdgCv5bRg) | [How Many Times](https://open.spotify.com/album/0KWgaxKtKrMDOrzUZguLTd) | 3:25 | 2020-12-12 | 2021-03-27 |
 | [How They Remember You](https://open.spotify.com/track/3qwPYg8xTWPafQD3YUNaTU) | [Rascal Flatts](https://open.spotify.com/artist/0a1gHP0HAqALbEyxaD5Ngn) | [How They Remember You](https://open.spotify.com/album/1XwToQelPUXtUKSYUApT9G) | 3:31 | 2021-01-23 | 2021-02-20 |
-| [Human](https://open.spotify.com/track/5AihIu9yF3flkw1jFMyfwW) | [Cody Johnson](https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I) | [Human The Double Album](https://open.spotify.com/album/3og8X1LYiVq3nPdMxpM9Wb) | 3:41 | 2022-09-02 |  |
+| [Human](https://open.spotify.com/track/5AihIu9yF3flkw1jFMyfwW) | [Cody Johnson](https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I) | [Human The Double Album](https://open.spotify.com/album/3og8X1LYiVq3nPdMxpM9Wb) | 3:41 | 2022-09-02 | 2023-05-20 |
 | [Hung Up On You](https://open.spotify.com/track/7uokjCoYFxSdgcq53GNWhJ) | [Troy Cartwright](https://open.spotify.com/artist/24I45QsPZf5Gr7aVlVmTfr) | [Hung Up on You](https://open.spotify.com/album/6uLznR1dDQtiPu7QRYDgOK) | 3:21 | 2020-04-18 | 2020-06-21 |
 | [Hurt No More](https://open.spotify.com/track/5UDX3jJn9vXGxE5h0sNRCy) | [CHASE WRIGHT](https://open.spotify.com/artist/4P70LmF7PJwBGS9BV5dk2c) | [Hurt No More](https://open.spotify.com/album/0vri0TC8mGVb1EFspFzgJN) | 2:56 | 2023-03-31 |  |
 | [I Bet You Think About Me \(feat\. Chris Stapleton\) \(Taylor’s Version\) \(From The Vault\)](https://open.spotify.com/track/4CkgMiMqZ5JzW9iYXSTMTL) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02), [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [Red \(Taylor's Version\)](https://open.spotify.com/album/6kZ42qRrzov54LcAk4onW9) | 4:45 | 2021-11-13 | 2022-02-05 |
@@ -447,6 +447,7 @@
 | [Prayed For You](https://open.spotify.com/track/1cmnChE57SpRJR2oFNcTpv) | [Matt Stell](https://open.spotify.com/artist/7EekKnlf2HwNaLLpL9Cpgy) | [Matt Stell](https://open.spotify.com/album/0j9HPvF8qRcifU23KR5w85) | 3:30 | 2019-07-13 | 2019-11-05 |
 | [Prayed For You](https://open.spotify.com/track/4j6GMcVcqZf1r0GDqMtYp6) | [Matt Stell](https://open.spotify.com/artist/7EekKnlf2HwNaLLpL9Cpgy) | [Everywhere But On](https://open.spotify.com/album/02G55ZxQ3h3cfGQV8RVDEO) | 3:30 | 2019-11-02 | 2020-02-08 |
 | [Pretty Heart](https://open.spotify.com/track/6vC90OOjZR165Hw8CpsqEm) | [Parker McCollum](https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ) | [Pretty Heart](https://open.spotify.com/album/0S1UncFoVie2V0HKsf0G1u) | 4:04 | 2020-10-10 | 2021-01-16 |
+| [Pretty Little Poison](https://open.spotify.com/track/2gT2iF1YK5r54A2PDEXVv8) | [Warren Zeiders](https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi) | [Pretty Little Poison](https://open.spotify.com/album/19EncKM5x6aE207IFFUT2M) | 3:38 | 2023-05-19 |  |
 | [Pull Up](https://open.spotify.com/track/7sGULdccMGSggXDq7ZjT3w) | [Chase Matthew](https://open.spotify.com/artist/7HTLVyjNf0VRxfIgNcfRRH) | [County Line](https://open.spotify.com/album/1uNypcb5QCqYQ70tg6LV5q) | 2:32 | 2021-10-23 | 2022-01-08 |
 | [Raised on Country](https://open.spotify.com/track/6voi5xnLs9JKmWG2oLmgDU) | [Chris Young](https://open.spotify.com/artist/4BYxqVkZyFjtik7crYLg5Q) | [Raised on Country](https://open.spotify.com/album/66JJneTDQTIYsQ6vEYe8qs) | 2:55 | 2019-05-26\* | 2019-10-05 |
 | [ReadY to love](https://open.spotify.com/track/2OoN2O7ZgZQbHkvs0b4bxH) | [Lindsay Ell](https://open.spotify.com/artist/4lpA7MWpQpY7hKkwfLxw2Q) | [ReadY to love](https://open.spotify.com/album/651hZfOxMGEB7Y92AnaTZy) | 3:15 | 2020-08-14 | 2020-08-30 |

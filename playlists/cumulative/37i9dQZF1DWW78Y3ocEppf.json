@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-30",
-  "description": "Let the songs speak. Cover: Layton Greene",
+  "description": "Let the songs speak. Cover: Summer Walker",
   "name": "Some Kinda Way",
   "tracks": [
     {
@@ -1432,7 +1432,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 159385,
       "name": "Cocaina",
       "url": "https://open.spotify.com/track/5ZIFTynXkVLyMtB0nGsrGZ"
@@ -3457,6 +3457,24 @@
     },
     {
       "album": {
+        "name": "CLEAR 2: SOFT LIFE EP",
+        "url": "https://open.spotify.com/album/034Q9kY3buGcizT3Xpj9Re"
+      },
+      "artists": [
+        {
+          "name": "Summer Walker",
+          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193413,
+      "name": "Hardlife",
+      "url": "https://open.spotify.com/track/3yPFUHziBrM1ab7oeiPhWH"
+    },
+    {
+      "album": {
         "name": "Hate Love",
         "url": "https://open.spotify.com/album/4SKdnUJ8GkFLAjcnQk4VGR"
       },
@@ -3820,7 +3838,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 245022,
       "name": "I Care",
       "url": "https://open.spotify.com/track/0YWmIEuPAIp8vezxX1m1Z3"
@@ -6055,6 +6073,24 @@
     },
     {
       "album": {
+        "name": "Over Again",
+        "url": "https://open.spotify.com/album/5PevLWBw5ghdRIsADBJpEh"
+      },
+      "artists": [
+        {
+          "name": "L\u00c9A THE LEOX",
+          "url": "https://open.spotify.com/artist/76yn7CZJcpG479LvqWHh8O"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177631,
+      "name": "Over Again",
+      "url": "https://open.spotify.com/track/5MxluVlMgSy1OaBDwUh825"
+    },
+    {
+      "album": {
         "name": "over and done",
         "url": "https://open.spotify.com/album/0WHnr9dcrCnM4LqjfvE2pH"
       },
@@ -6652,7 +6688,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 173000,
       "name": "Ride",
       "url": "https://open.spotify.com/track/4olvqOBWTo3avaGFdeJAic"
@@ -7848,7 +7884,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 157566,
       "name": "Stutter",
       "url": "https://open.spotify.com/track/2oMFMuDI3p05ncKqltBAgp"
@@ -8961,6 +8997,28 @@
     },
     {
       "album": {
+        "name": "What Happens (feat. Jeremih)",
+        "url": "https://open.spotify.com/album/2CNrCgSLX564ebO3oGu1B7"
+      },
+      "artists": [
+        {
+          "name": "Nieman J",
+          "url": "https://open.spotify.com/artist/1sXjt6XF2hUgabKoaksNu3"
+        },
+        {
+          "name": "Jeremih",
+          "url": "https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150744,
+      "name": "What Happens (feat. Jeremih)",
+      "url": "https://open.spotify.com/track/6CoDyl6ujw9aF7R1OvSPbl"
+    },
+    {
+      "album": {
         "name": "What It Do",
         "url": "https://open.spotify.com/album/55y0JmlsaqXupvjFiMTA4h"
       },
@@ -9234,6 +9292,28 @@
       "duration_ms": 258526,
       "name": "Worth It",
       "url": "https://open.spotify.com/track/7yeAu4xPWoTOGwQlQpgNZA"
+    },
+    {
+      "album": {
+        "name": "Would You",
+        "url": "https://open.spotify.com/album/1Xrb0PD8vHAnH3T6c0m2e1"
+      },
+      "artists": [
+        {
+          "name": "Kehina",
+          "url": "https://open.spotify.com/artist/3vdW9X7Us4XMYguRhcoiIx"
+        },
+        {
+          "name": "emil",
+          "url": "https://open.spotify.com/artist/0qcYzMPOCqc66SyT0hyfQb"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192240,
+      "name": "Would You",
+      "url": "https://open.spotify.com/track/2V9aEWXPvRmprVTZmTYf1J"
     },
     {
       "album": {

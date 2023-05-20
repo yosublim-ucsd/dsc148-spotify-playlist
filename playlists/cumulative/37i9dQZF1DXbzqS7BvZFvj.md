@@ -4,7 +4,7 @@
 
 > 最前線のヒップホップ・シーンで活躍するアーティストのトラックをピックアップ。Cover: KAYTRAMINÉ \(Kaytranada, Aminé\)
 
-153 songs - 7 hr 52 min
+154 songs - 7 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -97,6 +97,7 @@
 | [No More Naija Men](https://open.spotify.com/track/1u3S0SK3ecQRW0tLndolro) | [ENNY](https://open.spotify.com/artist/3qEnCAnX23lvoxZYtBiPgL) | [No More Naija Men](https://open.spotify.com/album/0JK59x4KpdHnE5QNCaPFb3) | 2:11 | 2023-03-16 | 2023-03-31 |
 | [No Time Wasted \(feat\. Future\)](https://open.spotify.com/track/4MUlNqSrMeFAHA6VpJKMo8) | [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [No Time Wasted \(feat\. Future\)](https://open.spotify.com/album/2QHf3w0Kft5kqqEXBaHBDm) | 2:59 | 2023-03-16 | 2023-05-05 |
 | [Off The Court \(with Polo G & Einer Bankz\)](https://open.spotify.com/track/1o8NmBVhT1PeADJhmAi7vZ) | [SleazyWorld Go](https://open.spotify.com/artist/7FOQfJbC3e4GNoheojERnF), [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49), [Einer Bankz](https://open.spotify.com/artist/5okEmP9iOvZT9UdlODLiaR) | [Off The Court \(with Polo G & Einer Bankz\)](https://open.spotify.com/album/6yfMPQTVVXzc2Q5h0gCFiL) | 3:13 | 2023-05-04 |  |
+| [On My Soul](https://open.spotify.com/track/2xLrkO5wPNzl5cNjLoPeNW) | [Tobe Nwigwe](https://open.spotify.com/artist/3Qh89pgJeZq6d8uM1bTot3), [Nas](https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q), [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [On My Soul](https://open.spotify.com/album/1I5QGY6wFJp0LjgDvbfV87) | 2:40 | 2023-05-18 |  |
 | [One Mic, One Gun](https://open.spotify.com/track/7CpXFEjLntpr4GdOhTtFEv) | [Nas](https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [One Mic, One Gun](https://open.spotify.com/album/2K2es8pRFX0kOaEdXZZgMl) | 2:49 | 2023-03-16 | 2023-04-21 |
 | [Outrageous \(feat\. Rayven Tyler\)](https://open.spotify.com/track/3YfzM9m4qogyM1TDMgC7yt) | [Symba](https://open.spotify.com/artist/06S3fr7xEES7e3QPXhu3ay), [Rayven Tyler](https://open.spotify.com/artist/0lZfnMJMLQOWO5JcpFD9Df) | [Outrageous \(feat\. Rayven Tyler\)](https://open.spotify.com/album/6biY9SYYT4owsjWuvs77zH) | 3:29 | 2023-03-30 | 2023-04-15 |
 | [Paradise II \(feat\. Norah Jones\) \- Single Version](https://open.spotify.com/track/4HBYReb8ynLCDpLWvMHJ5d) | [Logic](https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L), [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [Paradise II \(feat\. Norah Jones\)](https://open.spotify.com/album/2z5KrQ5Kidw5K3zLeMs1gL) | 3:27 | 2023-03-16 | 2023-04-21 |

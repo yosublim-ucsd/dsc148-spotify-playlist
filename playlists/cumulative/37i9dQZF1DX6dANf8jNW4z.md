@@ -4,7 +4,7 @@
 
 > Ven a Spotify EQUAL Fest Madrid a celebrar el talento femenino\. Entradas <a href="https://www.ticketmaster.es/event/35863?subchannel\_id=67&brand=planetevents">aquí</a>\. Foto: Cariño.
 
-689 songs - 1 day 11 hr 48 min
+690 songs - 1 day 11 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,6 +59,7 @@
 | [Ay Mamá](https://open.spotify.com/track/0khVEzctbwmqLvOpg1ecbg) | [Rigoberta Bandini](https://open.spotify.com/artist/7DOERbtkx9aTLvWzZSB0qx) | [Ay Mamá](https://open.spotify.com/album/26As3PYmCCD390xoIJ4RE6) | 3:01 | 2022-01-04 | 2022-03-08 |
 | [Ay Mamá \(Génesis\)](https://open.spotify.com/track/4e4HXQsRpnmkiaTmnl6o7M) | [Rigoberta Bandini](https://open.spotify.com/artist/7DOERbtkx9aTLvWzZSB0qx) | [Ay Mamá \(Génesis\)](https://open.spotify.com/album/0PFmkP4w9tSBz14oO91jyY) | 3:00 | 2022-05-03 | 2022-06-01 |
 | [año de mierda](https://open.spotify.com/track/2g7Z4h6RLdDIp0HZkdffza) | [Cariño](https://open.spotify.com/artist/7fWD0BSDlixbj6YNQyHTLh) | [año de mierda](https://open.spotify.com/album/4oPOoi1nbDDUDqxWDEoBXS) | 2:50 | 2022-07-05 | 2022-09-07 |
+| [Aún me acuerdo de todo](https://open.spotify.com/track/0gPaWexkeyQgZTqDU3r4Sc) | [Cariño](https://open.spotify.com/artist/7fWD0BSDlixbj6YNQyHTLh) | [Aún me acuerdo de todo](https://open.spotify.com/album/1qFxFtT79LrvdLhY5Denik) | 3:37 | 2023-05-19 |  |
 | [BAE](https://open.spotify.com/track/3LUL7xcEwK94V7Eq9kmMXq) | [SOLEDAD VÉLEZ](https://open.spotify.com/artist/4e7wEeokf7skRInd805EVH) | [BAE](https://open.spotify.com/album/4fAEVEVcpe6LAQVCNplXla) | 2:35 | 2022-02-01 | 2022-03-08 |
 | [BALACLAVA](https://open.spotify.com/track/0vdnDTxsWTwXzpuQG2iCzj) | [Missey](https://open.spotify.com/artist/2DcrZVjp98sHG7ttcywb7s), [Julieta](https://open.spotify.com/artist/7DzqOghrDEW0vlJxZXaeLj) | [BALACLAVA](https://open.spotify.com/album/7xeRNabSfl2Nu0BxWkXAQ3) | 3:03 | 2022-10-04 | 2022-11-09 |
 | [Banan Bana](https://open.spotify.com/track/1jUtey7AcpXcvIALMvmxJi) | [Esti Markez](https://open.spotify.com/artist/42WYTSCkakr8lrpzbfYtjC) | [Banan Bana](https://open.spotify.com/album/1mGeWzuEbfvVZbkzKYjf1w) | 2:59 | 2022-10-04 | 2022-11-09 |
@@ -322,7 +323,7 @@
 | [lo que siento](https://open.spotify.com/track/6cMql2rbxU8fKCDjNIdjBu) | [Valeria Castro](https://open.spotify.com/artist/7JTVqKJ414qRPuDPhdKnHD) | [lo que siento](https://open.spotify.com/album/6DtlwcQChlzCGwjErEk8et) | 3:11 | 2023-02-01 | 2023-03-01 |
 | [Lo Siento](https://open.spotify.com/track/11V0AzWRU31L6JWnMipx9Y) | [Brigitte Laverne](https://open.spotify.com/artist/7izngL0eNHQmTmeNgwrMSx) | [Lo Siento](https://open.spotify.com/album/0VxfTtIax2SrFc428G3e5u) | 2:51 | 2023-02-01 | 2023-03-01 |
 | [Lo Veía Venir](https://open.spotify.com/track/3sEVsC7fq8peVZO4TjWiZx) | [MARLENA](https://open.spotify.com/artist/1IAwO3v7hVP9ryTQtlzc9y) | [1000 Primeras Veces](https://open.spotify.com/album/1DC8WFurhkoIjzxtSwNvDa) | 2:21 | 2023-02-01 | 2023-03-01 |
-| [Locochona](https://open.spotify.com/track/63huxKkkuUPoMzOyYJnEkV) | [Cariño](https://open.spotify.com/artist/7fWD0BSDlixbj6YNQyHTLh), [Girl Ultra](https://open.spotify.com/artist/7i1CyQ1fogh4bkj3EPj3ls) | [Locochona](https://open.spotify.com/album/6BzRhIEFVhtaKekLzRnxlX) | 2:28 | 2023-04-04 |  |
+| [Locochona](https://open.spotify.com/track/63huxKkkuUPoMzOyYJnEkV) | [Cariño](https://open.spotify.com/artist/7fWD0BSDlixbj6YNQyHTLh), [Girl Ultra](https://open.spotify.com/artist/7i1CyQ1fogh4bkj3EPj3ls) | [Locochona](https://open.spotify.com/album/6BzRhIEFVhtaKekLzRnxlX) | 2:28 | 2023-04-04 | 2023-05-20 |
 | [LOOP](https://open.spotify.com/track/0L3ZjZ5gzrGj3bFw2BXkdU) | [Rorro](https://open.spotify.com/artist/6fB004p3XFUoQeftZlFUKv) | [LOOP](https://open.spotify.com/album/2qHm3qOqYorryYcumqG7pF) | 2:44 | 2023-02-28 | 2023-04-05 |
 | [LOS ANGELES](https://open.spotify.com/track/0jm0z6FL8HS3t0o5YpMAGT) | [L'Beel](https://open.spotify.com/artist/2NaOGDdslPSAHTqsMSSbx4) | [TRAEME FLORES](https://open.spotify.com/album/6OWwxcdAilYCDaUdaRtKfN) | 2:29 | 2022-02-01 | 2023-01-04 |
 | [Los Días](https://open.spotify.com/track/52x3T2eg7VWZBqbIiCUh3z) | [Yarea](https://open.spotify.com/artist/2O4wnhTr4SO5ezY6WXI2Kl), [KICKBOMBO](https://open.spotify.com/artist/7A2htSu45kogVfNBMD4Xgh) | [Los Días](https://open.spotify.com/album/1vhA9An528qlJH1GfQGL2K) | 3:10 | 2022-02-01 | 2022-03-08 |

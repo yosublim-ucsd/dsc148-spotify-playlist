@@ -4,7 +4,7 @@
 
 > Today's biggest Dance hits! Cover: Jazzy
 
-233 songs - 12 hr 2 min
+234 songs - 12 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -202,7 +202,8 @@
 | [Slugger 1.4 \[2014 Export.WAV\]](https://open.spotify.com/track/4FDq7m7jgOpVFV0k3LA3i3) | [Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer) | [Slugger 1.4 \[2014 Export.WAV\]](https://open.spotify.com/album/1NEZwyvzSz4EDD68xTRjAu) | 4:08 | 2022-12-08 | 2023-01-27 |
 | [Solid Rock \(feat\. William Barton\)](https://open.spotify.com/track/1j1gXN6uHuzNkdqLQ9fPl6) | [Goanna](https://open.spotify.com/artist/4kmYEa0DFPDv2Opcpjv5el), [Moss](https://open.spotify.com/artist/2Jc8cCPK5iNSXVUgf79gD6), [Tasman Keith](https://open.spotify.com/artist/3Pe4IIW9HoZsmBlKa5G6I1), [William Barton](https://open.spotify.com/artist/25p0odX5tWrZUfcgQNLXT2) | [Solid Rock \(feat\. William Barton\)](https://open.spotify.com/album/7kb4YUxaTwhZb97foUd1SU) | 3:52 | 2023-02-09 |  |
 | [Spend It \(feat\. Circa Waves\)](https://open.spotify.com/track/0GJAh8pOb6YoUcnyrPETnY) | [Peking Duk](https://open.spotify.com/artist/0UZ1nu3kcdNlCoiKRjmSSY), [Circa Waves](https://open.spotify.com/artist/6hl5k4gLl1p3sjhHcb57t2) | [Spend It \(feat\. Circa Waves\)](https://open.spotify.com/album/31Idf7YAsQlyJQH6aews9S) | 3:22 | 2022-12-08 | 2023-02-10 |
-| [Stars](https://open.spotify.com/track/2fNaMBJBFpv1PQ1zXkxIcO) | [PNAU](https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u), [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [Stars](https://open.spotify.com/album/2Ow9GPsc5afUdPrLZBT6Uo) | 2:51 | 2023-05-18 |  |
+| [Stars](https://open.spotify.com/track/2fNaMBJBFpv1PQ1zXkxIcO) | [PNAU](https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u), [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [Stars](https://open.spotify.com/album/2Ow9GPsc5afUdPrLZBT6Uo) | 2:51 | 2023-05-18 | 2023-05-20 |
+| [Stars](https://open.spotify.com/track/3mC64Smtz0xXvsa52ZM3Q9) | [PNAU](https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u), [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [Stars](https://open.spotify.com/album/05fkFs9DM4TpNGaDotqF8O) | 2:51 | 2023-05-18 |  |
 | [Step 1 \(feat\. Open Till L8\)](https://open.spotify.com/track/3ro78yagTWYllt0zgFfSxC) | [KAHUKX](https://open.spotify.com/artist/3OkbxDtag6zvVnAaa9YLLC), [Open Till L8](https://open.spotify.com/artist/6niasBrBbbzrUe7iWT6swJ) | [Step 1 \(feat\. Open Till L8\)](https://open.spotify.com/album/69uzhRvY6bEMIFl4j2SAce) | 2:06 | 2022-12-08 | 2023-02-10 |
 | [Strong](https://open.spotify.com/track/5bF00VrMY3FwnQDgoP4Gnk) | [Romy](https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb), [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Strong](https://open.spotify.com/album/4feYoBaeQJUrYygOD4A0DF) | 3:54 | 2022-12-08 | 2023-02-24 |
 | [Sunglasses](https://open.spotify.com/track/7owu5qEotPwPCfngV9pagy) | [Imanbek](https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj), [Baby B3ns](https://open.spotify.com/artist/0geGEoVXjWIz38cw8JcqVP) | [Sunglasses](https://open.spotify.com/album/1objEKeuFIj0HYpj3HHTTu) | 2:29 | 2023-03-16 | 2023-04-21 |

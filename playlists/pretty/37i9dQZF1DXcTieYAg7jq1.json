@@ -1,13 +1,29 @@
 {
   "description": "Featuring that new vintage. Cover: Angelina Jordan",
-  "num_followers": 408230,
+  "num_followers": 408308,
   "original_name": "Retro Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5YjllMDE3ZjNiMTg4YjJhZjBlYmRjYmI5MTU1MDAyZDZiYzFkMDU2",
+  "snapshot_id": "MCw3OGQ5NjZmZjkxYzg5ZDg1ZTcxMzMxNmQ3N2FhYzFmNTgxMGJiYTg4",
   "tracks": [
+    {
+      "added_at": "2023-05-19 04:01:00",
+      "album": {
+        "name": "Bitter Sweet",
+        "url": "https://open.spotify.com/album/5BBJTkjsZeOSGpiczply0t"
+      },
+      "artists": [
+        {
+          "name": "Robin Thicke",
+          "url": "https://open.spotify.com/artist/0ZrpamOxcZybMHGg1AYtHP"
+        }
+      ],
+      "duration_ms": 181356,
+      "name": "Bitter Sweet",
+      "url": "https://open.spotify.com/track/6kgb3tjGSMJDeEUqpR1BGQ"
+    },
     {
       "added_at": "2023-05-05 04:01:00",
       "album": {
@@ -39,6 +55,22 @@
       "duration_ms": 141141,
       "name": "What More Can I Say",
       "url": "https://open.spotify.com/track/6HPF8EnycKjys9R3vjgvUO"
+    },
+    {
+      "added_at": "2023-05-19 04:01:00",
+      "album": {
+        "name": "ok with it",
+        "url": "https://open.spotify.com/album/1VTt9SI2yCJMHuJ9JItnt9"
+      },
+      "artists": [
+        {
+          "name": "Lyn Lapid",
+          "url": "https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v"
+        }
+      ],
+      "duration_ms": 165793,
+      "name": "ok with it",
+      "url": "https://open.spotify.com/track/2LRvqsiYThrc2zbBp8vElD"
     },
     {
       "added_at": "2023-05-05 04:01:00",
@@ -1175,42 +1207,6 @@
       "duration_ms": 191012,
       "name": "When You Lose Someone (Acoustic)",
       "url": "https://open.spotify.com/track/6eqWfdpYkmPZYX9iW5PRBZ"
-    },
-    {
-      "added_at": "2022-01-21 05:01:00",
-      "album": {
-        "name": "Back On the Music!",
-        "url": "https://open.spotify.com/album/1gNBcewWJYihYyatTLv3GR"
-      },
-      "artists": [
-        {
-          "name": "Paul Cherry",
-          "url": "https://open.spotify.com/artist/1xbu7UyVdZxwIiNfLcUKqn"
-        },
-        {
-          "name": "\u843d\u65e5\u98db\u8eca Sunset Rollercoaster",
-          "url": "https://open.spotify.com/artist/2iuPnIdqfKsze3urSvl7XZ"
-        }
-      ],
-      "duration_ms": 233600,
-      "name": "No News No Blues",
-      "url": "https://open.spotify.com/track/4uvUEE8EtbiJxBcB45XURq"
-    },
-    {
-      "added_at": "2022-01-28 05:01:00",
-      "album": {
-        "name": "Better Than Any Drug",
-        "url": "https://open.spotify.com/album/2KUJLTMnRm5pPoDbyRaJgX"
-      },
-      "artists": [
-        {
-          "name": "Lola Kirke",
-          "url": "https://open.spotify.com/artist/1g5bYOQ7ZHGbn0tuUHxSgE"
-        }
-      ],
-      "duration_ms": 206228,
-      "name": "Better Than Any Drug",
-      "url": "https://open.spotify.com/track/5edBufh2zNLX1RBQd2Krtz"
     },
     {
       "added_at": "2022-02-04 05:02:00",

@@ -1,12 +1,12 @@
 {
   "description": "You know what time it is.",
-  "num_followers": 1670879,
+  "num_followers": 1672075,
   "original_name": "Nu Metal Era",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlMjg1OTk1NGQ1NTFmMmVkMTVjMjIzYzljNzNjZjIxYzI0ZmM5YWJk",
+  "snapshot_id": "MCwwZWU5MGQ2MjgyMTkyZjZlZDMxN2VkZDI2OTM4NjFmZGQwNDc2YWJk",
   "tracks": [
     {
       "added_at": "2023-05-16 09:14:45",
@@ -635,22 +635,6 @@
     {
       "added_at": "2023-05-16 09:14:45",
       "album": {
-        "name": "Every Six Seconds",
-        "url": "https://open.spotify.com/album/6gF0b1XROfpwz5bLHM1dRe"
-      },
-      "artists": [
-        {
-          "name": "Saliva",
-          "url": "https://open.spotify.com/artist/5S6hjAxgxjsLylsTtMIimO"
-        }
-      ],
-      "duration_ms": 252400,
-      "name": "Click Click Boom",
-      "url": "https://open.spotify.com/track/2CGDxXXYbkPOyRXHzQbqkT"
-    },
-    {
-      "added_at": "2023-05-16 09:14:45",
-      "album": {
         "name": "Steal This Album!",
         "url": "https://open.spotify.com/album/6lA1sGw7eCv27bcpd5E0wT"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 188600,
       "name": "I-E-A-I-A-I-O",
       "url": "https://open.spotify.com/track/3RgDvs9Jpvn3kUuaTek1R5"
+    },
+    {
+      "added_at": "2023-05-16 09:14:45",
+      "album": {
+        "name": "Every Six Seconds",
+        "url": "https://open.spotify.com/album/6gF0b1XROfpwz5bLHM1dRe"
+      },
+      "artists": [
+        {
+          "name": "Saliva",
+          "url": "https://open.spotify.com/artist/5S6hjAxgxjsLylsTtMIimO"
+        }
+      ],
+      "duration_ms": 252400,
+      "name": "Click Click Boom",
+      "url": "https://open.spotify.com/track/2CGDxXXYbkPOyRXHzQbqkT"
     },
     {
       "added_at": "2023-05-16 09:14:45",

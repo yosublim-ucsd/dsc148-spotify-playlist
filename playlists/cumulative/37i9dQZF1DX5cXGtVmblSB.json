@@ -1,8 +1,98 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "Feline-friendly tracks curated by musicologist <a href=\"spotify:artist:0TMyZy9NGJJ7NKMAgCgw6B\">David Teie</a>, who pioneered scientifically researched music for cats.",
-  "name": "Mellow Meowsic",
+  "description": "Soft music to calm down cats, kittens and their humans.",
+  "name": "Cat Calming Music",
   "tracks": [
+    {
+      "album": {
+        "name": "Solfeggio Frequencies - Astral Distance",
+        "url": "https://open.spotify.com/album/7AO6LwT9dJ8mJBl45IOQUv"
+      },
+      "artists": [
+        {
+          "name": "Muni Yogi",
+          "url": "https://open.spotify.com/artist/5VMpyeQNlYtPipmkNpxRt0"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119613,
+      "name": "417 Hz - Astral Distance",
+      "url": "https://open.spotify.com/track/2z1oFkt3nweQTE7hpJjI4S"
+    },
+    {
+      "album": {
+        "name": "Chasing Waterfalls",
+        "url": "https://open.spotify.com/album/5M4eCFjPUz8M4QkQeeUnuE"
+      },
+      "artists": [
+        {
+          "name": "Arnaut",
+          "url": "https://open.spotify.com/artist/0U9aA1N7gWqV5g3lfqTrld"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173428,
+      "name": "528 Hz - Chasing Waterfalls",
+      "url": "https://open.spotify.com/track/5bpgoU9a6KSxZj71t0dvPj"
+    },
+    {
+      "album": {
+        "name": "Clarity Solfeggio",
+        "url": "https://open.spotify.com/album/41bnl7nyIlRqDpvjYM762p"
+      },
+      "artists": [
+        {
+          "name": "Jupiter Sorrow",
+          "url": "https://open.spotify.com/artist/3jqblnBchsyc0UJrQ9YJMw"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190791,
+      "name": "528 Hz - Clarity Solfeggio",
+      "url": "https://open.spotify.com/track/0zN8CDrYkIldw94c17PhrL"
+    },
+    {
+      "album": {
+        "name": "Escape Gravity",
+        "url": "https://open.spotify.com/album/6Q5SJIXsAhHNl2HuQsep69"
+      },
+      "artists": [
+        {
+          "name": "Juni Tinley",
+          "url": "https://open.spotify.com/artist/6i1anbI9lYxG8g0440Up8r"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153057,
+      "name": "528 Hz - Escape Gravity",
+      "url": "https://open.spotify.com/track/7z5azdVHQCt2whLxATLFfn"
+    },
+    {
+      "album": {
+        "name": "Alternating Current",
+        "url": "https://open.spotify.com/album/31yaFYn1OpYbqEUlcL1ssU"
+      },
+      "artists": [
+        {
+          "name": "Heriela",
+          "url": "https://open.spotify.com/artist/4Z39bNE8YlLs57YzOp6bWY"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242060,
+      "name": "Alternating Current",
+      "url": "https://open.spotify.com/track/30le0rSu3t2XDWUqVJpksU"
+    },
     {
       "album": {
         "name": "Observer",
@@ -38,6 +128,24 @@
       "duration_ms": 70280,
       "name": "Bach, JS : Well-Tempered Clavier Book 1 : Prelude No.9 in E major BWV854",
       "url": "https://open.spotify.com/track/3YMtL47xfTkFJHjAu8Snr8"
+    },
+    {
+      "album": {
+        "name": "Grace",
+        "url": "https://open.spotify.com/album/2IzduArXZVwnuqTPuYuxrT"
+      },
+      "artists": [
+        {
+          "name": "Clouds Come Down",
+          "url": "https://open.spotify.com/artist/6AqxTQj5IlWTwGCwPuxZu8"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228128,
+      "name": "Bird Whisperer (Just Relax)",
+      "url": "https://open.spotify.com/track/4urSQCLVwqibeOXbh7fzrd"
     },
     {
       "album": {
@@ -129,6 +237,24 @@
     },
     {
       "album": {
+        "name": "Imagination",
+        "url": "https://open.spotify.com/album/59ngJWf69ZTOcqluzAxTta"
+      },
+      "artists": [
+        {
+          "name": "Zimdizi",
+          "url": "https://open.spotify.com/artist/144HUlx66zGheUbx0092oN"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185505,
+      "name": "By Candlelight",
+      "url": "https://open.spotify.com/track/6KtdYGSfCIoAkiWkJ1qxDh"
+    },
+    {
+      "album": {
         "name": "Cozmo's Air",
         "url": "https://open.spotify.com/album/6eBttKmf7eOaZICEyy2re8"
       },
@@ -201,6 +327,24 @@
     },
     {
       "album": {
+        "name": "Fostog's Touch Remix for People",
+        "url": "https://open.spotify.com/album/2nYT9oo0IH82f6ebmndKuE"
+      },
+      "artists": [
+        {
+          "name": "David Teie",
+          "url": "https://open.spotify.com/artist/0TMyZy9NGJJ7NKMAgCgw6B"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 690750,
+      "name": "Fostog's Touch Remix for People",
+      "url": "https://open.spotify.com/track/08WfJZYIsb0jDEa21SkD5p"
+    },
+    {
+      "album": {
         "name": "Fragment",
         "url": "https://open.spotify.com/album/4hDrHeKxgRFP07lI6RAkoE"
       },
@@ -219,6 +363,24 @@
     },
     {
       "album": {
+        "name": "Free Floating",
+        "url": "https://open.spotify.com/album/7E7TmcvZDiaCtN3lBzaqbZ"
+      },
+      "artists": [
+        {
+          "name": "May Johner",
+          "url": "https://open.spotify.com/artist/4VgJ3d27YeatqPir0Xxp4Y"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165374,
+      "name": "Free Floating",
+      "url": "https://open.spotify.com/track/1diD0sLnUcAqM2pSVfbDih"
+    },
+    {
+      "album": {
         "name": "Bach: Goldberg Variations, BWV 988",
         "url": "https://open.spotify.com/album/40Y2zm6JfEa7p9Xp9x8PoX"
       },
@@ -234,7 +396,7 @@
       ],
       "date_added": "2020-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 256132,
       "name": "Goldberg Variations, BWV 988: Aria",
       "url": "https://open.spotify.com/track/4aNR1DXBnD8guB0iqSoizc"
@@ -256,7 +418,7 @@
       ],
       "date_added": "2020-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 68040,
       "name": "Goldberg Variations, BWV 988: Variation 7 a 1 ovvero 2 Clav.",
       "url": "https://open.spotify.com/track/30JuGvGfyl4bxuyo9OB1N4"
@@ -310,10 +472,28 @@
       ],
       "date_added": "2020-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 518000,
       "name": "Katey Moss Catwalk",
       "url": "https://open.spotify.com/track/0KElSYgAOjxKY5M3onAD2i"
+    },
+    {
+      "album": {
+        "name": "Le Lac",
+        "url": "https://open.spotify.com/album/32oA5PrMStagwn9406moMO"
+      },
+      "artists": [
+        {
+          "name": "Dharma Gaia",
+          "url": "https://open.spotify.com/artist/4zS7xfa3yRhsGysVOA8wHp"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173750,
+      "name": "Le Lac",
+      "url": "https://open.spotify.com/track/75KdZGRMOcMzDI4qS4KB3V"
     },
     {
       "album": {
@@ -328,7 +508,7 @@
       ],
       "date_added": "2020-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 375133,
       "name": "Lolo's Air",
       "url": "https://open.spotify.com/track/6EcUEkTUH7OlAi9Uu94kbm"
@@ -400,10 +580,66 @@
       ],
       "date_added": "2020-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 519750,
       "name": "Musica Para Ojos",
       "url": "https://open.spotify.com/track/0oTvfjyVlklBQSZNUqApcI"
+    },
+    {
+      "album": {
+        "name": "Balaprakash - Naname",
+        "url": "https://open.spotify.com/album/2VMGq99T9eanBcnbLh1Vje"
+      },
+      "artists": [
+        {
+          "name": "Chaccara",
+          "url": "https://open.spotify.com/artist/0aT2mhHdKCh0zGSX7Mp15Q"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198923,
+      "name": "Naname 528 Hz",
+      "url": "https://open.spotify.com/track/2maqfMMJ5PBFwolrqMwmK7"
+    },
+    {
+      "album": {
+        "name": "The Blue Notebooks (15 Years)",
+        "url": "https://open.spotify.com/album/1rTHmwhZwhhvivx3pdXXdo"
+      },
+      "artists": [
+        {
+          "name": "Max Richter",
+          "url": "https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW"
+        },
+        {
+          "name": "Louisa Fuller",
+          "url": "https://open.spotify.com/artist/557AjoqV9wVpa8vO2k4wuJ"
+        },
+        {
+          "name": "Natalia Bonner",
+          "url": "https://open.spotify.com/artist/4d6eKLLJbe2ZeiL07Du7vB"
+        },
+        {
+          "name": "John Metcalfe",
+          "url": "https://open.spotify.com/artist/6s8AUvcmf2fp0Kh7PctPnd"
+        },
+        {
+          "name": "Philip Sheppard",
+          "url": "https://open.spotify.com/artist/6qzi6mPoJU4cBlO76U1Il1"
+        },
+        {
+          "name": "Chris Worsey",
+          "url": "https://open.spotify.com/artist/33TpuAICGC2gekoZZDDZhE"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 371746,
+      "name": "On the Nature of Daylight",
+      "url": "https://open.spotify.com/track/56oReVXIfUO9xkX7pHmEU0"
     },
     {
       "album": {
@@ -476,7 +712,7 @@
       ],
       "date_added": "2020-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 301253,
       "name": "Piano Sonata No. 12 in F Major, K. 332: II. Adagio",
       "url": "https://open.spotify.com/track/5x2xMWorOHxbhRN50Ebwa0"
@@ -520,7 +756,7 @@
       ],
       "date_added": "2020-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 377200,
       "name": "Piano Sonata No. 5 in G Major, K. 283: II. Andante",
       "url": "https://open.spotify.com/track/7LGkBu8hHP8CWweOO1ZccB"
@@ -560,7 +796,7 @@
       ],
       "date_added": "2020-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 709305,
       "name": "Potato's Song",
       "url": "https://open.spotify.com/track/4YVXr7tpEZVGnWlYMtNjQQ"
@@ -585,6 +821,28 @@
     },
     {
       "album": {
+        "name": "Calming Music for Anxious Cats: Songs to Soothe Your Cat",
+        "url": "https://open.spotify.com/album/6oJRshmkcJerjwLT6Pc8rO"
+      },
+      "artists": [
+        {
+          "name": "Cat Music Dreams",
+          "url": "https://open.spotify.com/artist/47U20M8lyC5AJLNJg3laOD"
+        },
+        {
+          "name": "RelaxMyCat",
+          "url": "https://open.spotify.com/artist/2uO0Hew2xpva3P9AgknpzB"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181201,
+      "name": "Relax My Cat",
+      "url": "https://open.spotify.com/track/0ek9tPrHh2sZukgfv6mvkt"
+    },
+    {
+      "album": {
         "name": "Rusty's Ballad",
         "url": "https://open.spotify.com/album/0TSPCRCHOY6rnGxcCklrxF"
       },
@@ -600,6 +858,24 @@
       "duration_ms": 201760,
       "name": "Rusty's Ballad",
       "url": "https://open.spotify.com/track/2GB1uEIsHWNoXldwN6mtyI"
+    },
+    {
+      "album": {
+        "name": "Sana",
+        "url": "https://open.spotify.com/album/6d6OF37z3u4Cg02rGjqSvS"
+      },
+      "artists": [
+        {
+          "name": "Cerulean Sky",
+          "url": "https://open.spotify.com/artist/0vmL1scMiwQBMPeC9SSXVm"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194166,
+      "name": "Sana",
+      "url": "https://open.spotify.com/track/63pIgIp1N1E6gMR4vPI3Qe"
     },
     {
       "album": {
@@ -632,10 +908,28 @@
       ],
       "date_added": "2020-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 1070480,
       "name": "Scooter Bere's Aria",
       "url": "https://open.spotify.com/track/1HGXgoIBnDnf6izseOBiiI"
+    },
+    {
+      "album": {
+        "name": "Serenity Repose 528 Hz",
+        "url": "https://open.spotify.com/album/2k4UbXKZJ4AKoB2qvYwowo"
+      },
+      "artists": [
+        {
+          "name": "Morgondimma",
+          "url": "https://open.spotify.com/artist/0mQskyOm143f9LT371ux2U"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176435,
+      "name": "Serenity Repose 528 Hz",
+      "url": "https://open.spotify.com/track/2WGlubsM3MmePFpgUmgNzi"
     },
     {
       "album": {
@@ -650,7 +944,7 @@
       ],
       "date_added": "2020-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 707600,
       "name": "Simon Says",
       "url": "https://open.spotify.com/track/3eUde69UEDub59LN6d3V0d"
@@ -668,10 +962,28 @@
       ],
       "date_added": "2020-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 115146,
       "name": "Spook's Ditty",
       "url": "https://open.spotify.com/track/50UO61QfF5DuAkegNrFzOv"
+    },
+    {
+      "album": {
+        "name": "Strings Of Serenity",
+        "url": "https://open.spotify.com/album/08ToMN7jrPEtekSMYn4RtX"
+      },
+      "artists": [
+        {
+          "name": "X-Genie",
+          "url": "https://open.spotify.com/artist/7jpxxOSOJX0PCvKXAbQs2I"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171250,
+      "name": "Strings Of Serenity",
+      "url": "https://open.spotify.com/track/5MCD2VQD1zR35jJHczAkMk"
     },
     {
       "album": {
@@ -690,7 +1002,7 @@
       ],
       "date_added": "2020-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 117913,
       "name": "The Well-Tempered Clavier, Book 1, Prelude & Fugue No. 1 in C Major, BWV 846: I. Prelude",
       "url": "https://open.spotify.com/track/1Nr8mCDNAopFZB93SPHLVw"
@@ -712,7 +1024,7 @@
       ],
       "date_added": "2020-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 149206,
       "name": "The Well-Tempered Clavier, Book 1, Prelude & Fugue No. 1 in C Major, BWV 846: II. Fugue",
       "url": "https://open.spotify.com/track/2g2XmbDVVvz3Gq40bGkiWL"
@@ -730,7 +1042,7 @@
       ],
       "date_added": "2020-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 336053,
       "name": "Tigerlili and Mimi's Mewsical",
       "url": "https://open.spotify.com/track/1NxgrJyQh1KTSslKIpieCi"

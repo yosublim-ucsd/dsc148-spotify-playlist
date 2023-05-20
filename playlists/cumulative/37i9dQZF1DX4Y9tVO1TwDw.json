@@ -294,7 +294,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 237737,
       "name": "Atmosf\u00e9rica",
       "url": "https://open.spotify.com/track/7CkmacAafgK7mKnartEcJz"
@@ -2522,6 +2522,24 @@
       "duration_ms": 109267,
       "name": "Santee",
       "url": "https://open.spotify.com/track/5Jssxp8m8PbF7gd9lZFfsx"
+    },
+    {
+      "album": {
+        "name": "Santee",
+        "url": "https://open.spotify.com/album/4ufmIz1Th5cmgpS3PE3Jik"
+      },
+      "artists": [
+        {
+          "name": "Estevie",
+          "url": "https://open.spotify.com/artist/3k9GPiGAtIAOfnfzzy3XQp"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 109267,
+      "name": "Santee",
+      "url": "https://open.spotify.com/track/6NVF8h8v9KtmDZy1O6OqxN"
     },
     {
       "album": {

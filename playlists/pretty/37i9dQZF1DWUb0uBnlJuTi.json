@@ -1,12 +1,12 @@
 {
   "description": "Jazz. But funky. Cover: Takuya Kuroda",
-  "num_followers": 275768,
+  "num_followers": 275989,
   "original_name": "Jazz-Funk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwOWFhZDE2ODE4NzA0NGFkMWVjNTliYzMxYzNhMGI2ZWVhY2IzMGEz",
+  "snapshot_id": "MCw4Y2NjOGFlMjViMjljOWEyZmM5ZDA4MWQ5Y2NjNDRhYmZjNDdjNDhk",
   "tracks": [
     {
       "added_at": "2022-10-07 04:01:00",
@@ -105,10 +105,42 @@
       "url": "https://open.spotify.com/track/3926LUvvXeRq024iTeNAnP"
     },
     {
-      "added_at": "2023-05-12 04:01:00",
+      "added_at": "2023-05-19 04:01:00",
       "album": {
-        "name": "Youngstown 4",
-        "url": "https://open.spotify.com/album/07xTRshgnOw1YBJgzHTsIi"
+        "name": "Hizuru (Jazztronik Remix)",
+        "url": "https://open.spotify.com/album/4VEyGOgf7K0eNBnASVugmd"
+      },
+      "artists": [
+        {
+          "name": "Jazztronik",
+          "url": "https://open.spotify.com/artist/3TMLgJUsDIxI4CShGh8vYM"
+        }
+      ],
+      "duration_ms": 241369,
+      "name": "Hizuru - Jazztronik Remix",
+      "url": "https://open.spotify.com/track/12ycPl7hDIiidFQYvDJHpU"
+    },
+    {
+      "added_at": "2023-05-19 04:01:00",
+      "album": {
+        "name": "Spiky Boi",
+        "url": "https://open.spotify.com/album/6nHsBviO84VJUBNsnfDy0t"
+      },
+      "artists": [
+        {
+          "name": "Surprise Chef",
+          "url": "https://open.spotify.com/artist/2Ks1Z1scmEDZfaYaCS7Osj"
+        }
+      ],
+      "duration_ms": 119510,
+      "name": "Spiky Boi",
+      "url": "https://open.spotify.com/track/4PbJtMT8tfH4d2AblpVoqu"
+    },
+    {
+      "added_at": "2023-05-19 04:01:00",
+      "album": {
+        "name": "yeah (ooh)",
+        "url": "https://open.spotify.com/album/5jJHiab8xHz0kA3bsBo3h3"
       },
       "artists": [
         {
@@ -118,31 +150,11 @@
         {
           "name": "Thin Thicket",
           "url": "https://open.spotify.com/artist/40Wb8U0vUhR1a7UQXCJ9Ng"
-        },
-        {
-          "name": "Damon the Soulful Samurai",
-          "url": "https://open.spotify.com/artist/6B7G3EEuNog0pIB4IYqXtp"
-        },
-        {
-          "name": "Nicholas Frank",
-          "url": "https://open.spotify.com/artist/1lvvQNtbJDnA6VYOps1VAH"
-        },
-        {
-          "name": "Antonio Labra",
-          "url": "https://open.spotify.com/artist/27zwBTNwuN786OvS6BpzD4"
-        },
-        {
-          "name": "Thomas Russell",
-          "url": "https://open.spotify.com/artist/68xOAUse5cObr1No8jPoel"
-        },
-        {
-          "name": "Drehova",
-          "url": "https://open.spotify.com/artist/2WYpO40KD8lWY8YAC7L4DO"
         }
       ],
-      "duration_ms": 141818,
-      "name": "Youngstown 4",
-      "url": "https://open.spotify.com/track/0KYwUNSSE7Sm0rOzWRYrR1"
+      "duration_ms": 172584,
+      "name": "yeah (ooh)",
+      "url": "https://open.spotify.com/track/2h5rWu6hJ6qEEEQgml0QR2"
     },
     {
       "added_at": "2023-04-28 04:01:00",
@@ -167,6 +179,26 @@
       "duration_ms": 255953,
       "name": "Not Here / Not Now",
       "url": "https://open.spotify.com/track/7fopfIiFlzdFIdHwqtNsIG"
+    },
+    {
+      "added_at": "2023-05-19 04:01:00",
+      "album": {
+        "name": "Rake Stepper",
+        "url": "https://open.spotify.com/album/775CFaTdkDsy2ywp3zhGVl"
+      },
+      "artists": [
+        {
+          "name": "Too Many Zooz",
+          "url": "https://open.spotify.com/artist/72rZmJbRFSY6IFJAysfOdr"
+        },
+        {
+          "name": "Michael Wilbur",
+          "url": "https://open.spotify.com/artist/4xa7ht9m5Uj0YhGWIm0K9n"
+        }
+      ],
+      "duration_ms": 212000,
+      "name": "Rake Stepper",
+      "url": "https://open.spotify.com/track/4MKQjdR7rPwlxtn2SMosQ1"
     },
     {
       "added_at": "2023-05-05 04:01:00",
@@ -199,6 +231,22 @@
       "duration_ms": 181855,
       "name": "Is This Jazz?",
       "url": "https://open.spotify.com/track/5TJuM3PlBezT2tcTziwhcT"
+    },
+    {
+      "added_at": "2023-05-19 04:01:00",
+      "album": {
+        "name": "Melomazeando",
+        "url": "https://open.spotify.com/album/14Xe1tjzqLJ4FFVhASWQVl"
+      },
+      "artists": [
+        {
+          "name": "Daniel Maza",
+          "url": "https://open.spotify.com/artist/5TI8IZa6vgPAcb8wuMZfN7"
+        }
+      ],
+      "duration_ms": 295038,
+      "name": "Tema de Benja",
+      "url": "https://open.spotify.com/track/4oo9BSpAnBeEaYV74GuAaV"
     },
     {
       "added_at": "2023-05-05 04:01:00",
@@ -323,22 +371,6 @@
       "duration_ms": 257152,
       "name": "Pluto",
       "url": "https://open.spotify.com/track/66BTQQnzdtn921AG13dO6D"
-    },
-    {
-      "added_at": "2023-04-28 04:01:00",
-      "album": {
-        "name": "Talent Stick",
-        "url": "https://open.spotify.com/album/6iHyp8p7M8TYEZegzZxUBW"
-      },
-      "artists": [
-        {
-          "name": "Surprise Chef",
-          "url": "https://open.spotify.com/artist/2Ks1Z1scmEDZfaYaCS7Osj"
-        }
-      ],
-      "duration_ms": 240352,
-      "name": "Talent Stick",
-      "url": "https://open.spotify.com/track/7yukuMCiNS57X6amD5MMwe"
     },
     {
       "added_at": "2023-04-14 04:01:00",
@@ -1841,38 +1873,6 @@
       "url": "https://open.spotify.com/track/5sModgX43bJ4fgnSRtLBVA"
     },
     {
-      "added_at": "2022-11-25 05:00:00",
-      "album": {
-        "name": "Head in the Clouds",
-        "url": "https://open.spotify.com/album/5s57FHV8CsfmgUmpMzsoe3"
-      },
-      "artists": [
-        {
-          "name": "Nine Sparks Riots",
-          "url": "https://open.spotify.com/artist/4y6ORtg4fPmsXNftMLw12X"
-        },
-        {
-          "name": "No\u00e9 Berne",
-          "url": "https://open.spotify.com/artist/3szeS1OVdR464BUVlIH3L0"
-        },
-        {
-          "name": "Avatar Horns",
-          "url": "https://open.spotify.com/artist/2kPPtGrPl59H7uFKz4MehA"
-        },
-        {
-          "name": "Braxton Cook",
-          "url": "https://open.spotify.com/artist/60k4atxgEIMFz4DWHp0le1"
-        },
-        {
-          "name": "Roni Kaspi",
-          "url": "https://open.spotify.com/artist/12mubYgIHWEtjzaEi41bv9"
-        }
-      ],
-      "duration_ms": 222493,
-      "name": "Head in the Clouds",
-      "url": "https://open.spotify.com/track/0q6gOQqr5KcC2RUmXlh2pl"
-    },
-    {
       "added_at": "2021-04-09 04:01:00",
       "album": {
         "name": "Action",
@@ -2189,22 +2189,6 @@
       "url": "https://open.spotify.com/track/72FdNmSimeEJrUKE9l9iUH"
     },
     {
-      "added_at": "2022-01-28 05:01:00",
-      "album": {
-        "name": "The Positive and the Negative",
-        "url": "https://open.spotify.com/album/1C2B844cWZPT0eGCNTm03g"
-      },
-      "artists": [
-        {
-          "name": "Surprise Chef",
-          "url": "https://open.spotify.com/artist/2Ks1Z1scmEDZfaYaCS7Osj"
-        }
-      ],
-      "duration_ms": 287349,
-      "name": "The Positive and the Negative",
-      "url": "https://open.spotify.com/track/2vRidmUrgY8KWpVbs2eHAA"
-    },
-    {
       "added_at": "2022-03-07 20:58:06",
       "album": {
         "name": "Booker Time",
@@ -2323,22 +2307,6 @@
       "duration_ms": 222044,
       "name": "Running In Fear From Imaginary Assailants",
       "url": "https://open.spotify.com/track/32RMyYNzTcvMBS9zjx5EQc"
-    },
-    {
-      "added_at": "2022-11-04 04:00:00",
-      "album": {
-        "name": "London 1969",
-        "url": "https://open.spotify.com/album/3YqvadIdZczYILvNKJN2IZ"
-      },
-      "artists": [
-        {
-          "name": "Otis McDonald",
-          "url": "https://open.spotify.com/artist/4Ps1M3A9ck9G3gbPjllg7T"
-        }
-      ],
-      "duration_ms": 146010,
-      "name": "London 1969",
-      "url": "https://open.spotify.com/track/3nQvNXKbgLPcuZ3cLTZiJ7"
     },
     {
       "added_at": "2022-09-30 04:01:00",

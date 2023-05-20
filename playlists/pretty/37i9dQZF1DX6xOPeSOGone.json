@@ -1,12 +1,12 @@
 {
   "description": "It's like rock, but softer. Cover: Fleetwood Mac",
-  "num_followers": 3585079,
+  "num_followers": 3585200,
   "original_name": "Soft Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwNDdjOWE2MmEyM2FjYTZiMjEyYTQ4Mjg0MGM0YWRjZjI0MzFjMjJk",
+  "snapshot_id": "MCwzNWI5NDdiNzQzYzM1MzEyNDRmZmZiNDc5YThlZmU4MzEwZDNmOWU1",
   "tracks": [
     {
       "added_at": "2023-03-20 17:07:41",
@@ -511,22 +511,6 @@
     {
       "added_at": "2023-03-20 17:07:41",
       "album": {
-        "name": "One Eighty",
-        "url": "https://open.spotify.com/album/4WsQBaO2DLvDZ5VRmsXbUH"
-      },
-      "artists": [
-        {
-          "name": "Ambrosia",
-          "url": "https://open.spotify.com/artist/0J2Ej2rMQyqaUX3G6MUISw"
-        }
-      ],
-      "duration_ms": 262906,
-      "name": "You're the Only Woman - You & I",
-      "url": "https://open.spotify.com/track/11qmuUlW5q5diLiVSOlsSF"
-    },
-    {
-      "added_at": "2023-03-20 17:07:41",
-      "album": {
         "name": "French Kiss",
         "url": "https://open.spotify.com/album/5YQsoNZvxTZKqsJ2Y7fQjJ"
       },
@@ -539,6 +523,22 @@
       "duration_ms": 178693,
       "name": "Sentimental Lady",
       "url": "https://open.spotify.com/track/478thMMvYGris8eJPcDRoq"
+    },
+    {
+      "added_at": "2023-03-20 17:07:41",
+      "album": {
+        "name": "One Eighty",
+        "url": "https://open.spotify.com/album/4WsQBaO2DLvDZ5VRmsXbUH"
+      },
+      "artists": [
+        {
+          "name": "Ambrosia",
+          "url": "https://open.spotify.com/artist/0J2Ej2rMQyqaUX3G6MUISw"
+        }
+      ],
+      "duration_ms": 262906,
+      "name": "You're the Only Woman - You & I",
+      "url": "https://open.spotify.com/track/11qmuUlW5q5diLiVSOlsSF"
     },
     {
       "added_at": "2023-03-20 17:07:41",
@@ -767,22 +767,6 @@
     {
       "added_at": "2023-03-20 17:07:41",
       "album": {
-        "name": "Diamond Girl",
-        "url": "https://open.spotify.com/album/11hw0WWSfcwWTNKaMk5kmr"
-      },
-      "artists": [
-        {
-          "name": "Seals and Crofts",
-          "url": "https://open.spotify.com/artist/6jdObwsrIjSRnBbMw6lPBj"
-        }
-      ],
-      "duration_ms": 253400,
-      "name": "Diamond Girl",
-      "url": "https://open.spotify.com/track/7CQQBWqFfROA5RWyY04ifv"
-    },
-    {
-      "added_at": "2023-03-20 17:07:41",
-      "album": {
         "name": "Earth",
         "url": "https://open.spotify.com/album/1r0nmDVCOf2nszPsP4ay3g"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 194893,
       "name": "Count on Me",
       "url": "https://open.spotify.com/track/3ssnFwx5lu6qxhLBR0vutB"
+    },
+    {
+      "added_at": "2023-03-20 17:07:41",
+      "album": {
+        "name": "Diamond Girl",
+        "url": "https://open.spotify.com/album/11hw0WWSfcwWTNKaMk5kmr"
+      },
+      "artists": [
+        {
+          "name": "Seals and Crofts",
+          "url": "https://open.spotify.com/artist/6jdObwsrIjSRnBbMw6lPBj"
+        }
+      ],
+      "duration_ms": 253400,
+      "name": "Diamond Girl",
+      "url": "https://open.spotify.com/track/7CQQBWqFfROA5RWyY04ifv"
     },
     {
       "added_at": "2023-03-20 17:07:41",

@@ -2865,6 +2865,24 @@
     },
     {
       "album": {
+        "name": "You Were Right (Nat's Song)",
+        "url": "https://open.spotify.com/album/1Nee1osu3gHB9OcYrfGvVR"
+      },
+      "artists": [
+        {
+          "name": "Dylan Marlowe",
+          "url": "https://open.spotify.com/artist/0ZZLr8EH3aNFzYpXtaTIax"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229266,
+      "name": "You Were Right - Nat's Song",
+      "url": "https://open.spotify.com/track/1v6gRTiLJGgFHtdqi532SU"
+    },
+    {
+      "album": {
         "name": "You'll Always Be My Baby (Written For Daughters' Weddings)",
         "url": "https://open.spotify.com/album/2Hkmg4CKcrtkFQ9c4hKbzK"
       },

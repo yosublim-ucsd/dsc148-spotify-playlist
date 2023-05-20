@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "The highest quality blend ft. Bethany Cosentino",
+  "description": "The highest quality blend ft. Hozier",
   "name": "Grade A",
   "tracks": [
     {
@@ -176,6 +176,24 @@
       "duration_ms": 237320,
       "name": "A.M. RADIO",
       "url": "https://open.spotify.com/track/0Hu1ylV8WuaLcLclixNgTV"
+    },
+    {
+      "album": {
+        "name": "Ace Up My Sleeve (from the Motion Picture \u201cThe Starling Girl\u201d)",
+        "url": "https://open.spotify.com/album/05HcccTQPjodlQiWjtQ5rW"
+      },
+      "artists": [
+        {
+          "name": "Lord Huron",
+          "url": "https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230174,
+      "name": "Ace Up My Sleeve - from the Motion Picture \u201cThe Starling Girl\u201d",
+      "url": "https://open.spotify.com/track/5YbANMVRXvKTVsFXcuGxzP"
     },
     {
       "album": {
@@ -1040,7 +1058,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 234285,
       "name": "Beachtown",
       "url": "https://open.spotify.com/track/1hiN1elmKq5lK4cepuFhrP"
@@ -2949,6 +2967,24 @@
     },
     {
       "album": {
+        "name": "Emotion Sickness",
+        "url": "https://open.spotify.com/album/3dTSDhT6cUg4YxQTMRgf6S"
+      },
+      "artists": [
+        {
+          "name": "Queens of the Stone Age",
+          "url": "https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271076,
+      "name": "Emotion Sickness",
+      "url": "https://open.spotify.com/track/0qhGOjVl3uY2N6CAafVmCa"
+    },
+    {
+      "album": {
         "name": "Emotional",
         "url": "https://open.spotify.com/album/7yFfv2yxerMvKBw3BMytyA"
       },
@@ -3703,6 +3739,24 @@
     },
     {
       "album": {
+        "name": "Francesca",
+        "url": "https://open.spotify.com/album/2GS1K0RZ5SjtuT8bsX0xyv"
+      },
+      "artists": [
+        {
+          "name": "Hozier",
+          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270066,
+      "name": "Francesca",
+      "url": "https://open.spotify.com/track/4LmOmWpjCQbC1VZvUuwPQu"
+    },
+    {
+      "album": {
         "name": "Nobody's Home",
         "url": "https://open.spotify.com/album/231jpal5NKt2c1QFN1D6AZ"
       },
@@ -3808,7 +3862,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 238706,
       "name": "Fucked It Up",
       "url": "https://open.spotify.com/track/5Cn9nBZh530Vei9dOeKUGs"
@@ -4259,6 +4313,24 @@
     },
     {
       "album": {
+        "name": "Gunslinger",
+        "url": "https://open.spotify.com/album/67bKCbbVE5SlOjtMpXdmMN"
+      },
+      "artists": [
+        {
+          "name": "M. Byrd",
+          "url": "https://open.spotify.com/artist/2AzGGPCjkv7D9o7KkpxJYi"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218413,
+      "name": "Gunslinger",
+      "url": "https://open.spotify.com/track/1ENQBhIhUpZt9FVnQzNtg6"
+    },
+    {
+      "album": {
         "name": "HaHaHome",
         "url": "https://open.spotify.com/album/6Bhm5X1MiaHUV56csiR7SO"
       },
@@ -4288,7 +4360,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 197426,
       "name": "Hands To Myself",
       "url": "https://open.spotify.com/track/6reRI1DvoOPCWJjHSpJADD"
@@ -4486,7 +4558,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 255186,
       "name": "Heart Beat Faster",
       "url": "https://open.spotify.com/track/5sifqsjFzLM0IspwfMjP2T"
@@ -5623,6 +5695,24 @@
     },
     {
       "album": {
+        "name": "Initiative",
+        "url": "https://open.spotify.com/album/3cIz7NGS9jUByDuQqdcxz2"
+      },
+      "artists": [
+        {
+          "name": "The Murlocs",
+          "url": "https://open.spotify.com/artist/0rH93aHDYyJfMAcPB9OKus"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190641,
+      "name": "Initiative",
+      "url": "https://open.spotify.com/track/6xxZAjsQYFMFYMUWjyJGRV"
+    },
+    {
+      "album": {
         "name": "Inside Outside",
         "url": "https://open.spotify.com/album/7HegRbqCwUI5z3Nq572KqK"
       },
@@ -5956,6 +6046,24 @@
       "duration_ms": 164830,
       "name": "Keep Those Teardrops from Falling",
       "url": "https://open.spotify.com/track/34ojZaWg4BOqIL58M5CneC"
+    },
+    {
+      "album": {
+        "name": "Kenneth",
+        "url": "https://open.spotify.com/album/4C4t410jpJg0H7pBptTuN4"
+      },
+      "artists": [
+        {
+          "name": "Little Dragon",
+          "url": "https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201527,
+      "name": "Kenneth - Edit",
+      "url": "https://open.spotify.com/track/6hF2LOSFQjhi7OJ4qKl2eJ"
     },
     {
       "album": {
@@ -7864,7 +7972,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 212000,
       "name": "Noble Metals",
       "url": "https://open.spotify.com/track/5jf20rikIBhQmhApETtfCv"
@@ -9547,6 +9655,24 @@
     },
     {
       "album": {
+        "name": "Roll The Credits",
+        "url": "https://open.spotify.com/album/0fpFEstlRYE58T2sIuubdg"
+      },
+      "artists": [
+        {
+          "name": "Danielle Ponder",
+          "url": "https://open.spotify.com/artist/5rZUNweztKBI1Xy3XhYHoJ"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253411,
+      "name": "Roll The Credits",
+      "url": "https://open.spotify.com/track/6St9uiBUG4L7LvVNuUcm8a"
+    },
+    {
+      "album": {
         "name": "Roll The Dice",
         "url": "https://open.spotify.com/album/4ujPS7j4S1xyRS4ZQh4VgN"
       },
@@ -11208,7 +11334,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 201681,
       "name": "Tell Me",
       "url": "https://open.spotify.com/track/17U1gmd84CyCqDzj0y2101"
@@ -12874,7 +13000,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 242922,
       "name": "Weightless",
       "url": "https://open.spotify.com/track/4syzriQO4gEZR61pU5FBFd"

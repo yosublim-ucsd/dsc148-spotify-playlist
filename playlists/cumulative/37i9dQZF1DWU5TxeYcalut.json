@@ -1727,6 +1727,32 @@
     },
     {
       "album": {
+        "name": "O Nascimento do Amor",
+        "url": "https://open.spotify.com/album/3wNl4jlk8vIxkavJh3qOmz"
+      },
+      "artists": [
+        {
+          "name": "Jazz das Minas",
+          "url": "https://open.spotify.com/artist/1EaJsGim4qZ74m9OUkDRTU"
+        },
+        {
+          "name": "Ma\u00edra Freitas",
+          "url": "https://open.spotify.com/artist/70h4ULQBucb1sYFJZV4Lxf"
+        },
+        {
+          "name": "G\u00eanesis",
+          "url": "https://open.spotify.com/artist/4XOnzexocuk7gHKqo6aez0"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 453919,
+      "name": "O Nascimento do Amor",
+      "url": "https://open.spotify.com/track/3YuUvao3dfmUXlFk0cA87h"
+    },
+    {
+      "album": {
         "name": "Onze por Oito",
         "url": "https://open.spotify.com/album/6wlNqURb6pjDAVSRCUMYoG"
       },

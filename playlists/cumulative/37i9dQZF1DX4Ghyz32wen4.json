@@ -507,6 +507,32 @@
     },
     {
       "album": {
+        "name": "De Nuevo",
+        "url": "https://open.spotify.com/album/0QrTQAtARKKb7viQ5G32IY"
+      },
+      "artists": [
+        {
+          "name": "Dany Doll",
+          "url": "https://open.spotify.com/artist/4Bxo29WRyYvpL6ZLUL6FvY"
+        },
+        {
+          "name": "Hemphil Otra Nota",
+          "url": "https://open.spotify.com/artist/60fXztK8e403cLtMzAl0C9"
+        },
+        {
+          "name": "Master P",
+          "url": "https://open.spotify.com/artist/7zICaxnDB9ZprDSiFpvbbW"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219574,
+      "name": "De Nuevo",
+      "url": "https://open.spotify.com/track/3oFu4gyDBi52uPzTJsAvSf"
+    },
+    {
+      "album": {
         "name": "De Ti Me Olvid\u00e9",
         "url": "https://open.spotify.com/album/4eqsTSv4Ftfdi4fC453fRp"
       },
@@ -1113,6 +1139,28 @@
     },
     {
       "album": {
+        "name": "MUCHO TXT",
+        "url": "https://open.spotify.com/album/2pF0h1xTaFllgMiNPKl9qc"
+      },
+      "artists": [
+        {
+          "name": "Noreh",
+          "url": "https://open.spotify.com/artist/1JHgX0v8Dx86wpfQkZuJFg"
+        },
+        {
+          "name": "Jay Wheeler",
+          "url": "https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149777,
+      "name": "Multiverso (feat. Jay Wheeler)",
+      "url": "https://open.spotify.com/track/1F4d5ogw98lmisdyLZHPy1"
+    },
+    {
+      "album": {
         "name": "Nadie M\u00e1s",
         "url": "https://open.spotify.com/album/5POc5gwtXkHsFwTfp5e0L7"
       },
@@ -1656,7 +1704,7 @@
       ],
       "date_added": "2022-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 182278,
       "name": "Quiere Volar",
       "url": "https://open.spotify.com/track/4lFZxuEWZEEup0sth4LY0f"

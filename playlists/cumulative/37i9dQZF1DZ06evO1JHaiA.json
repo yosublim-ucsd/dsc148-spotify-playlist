@@ -866,7 +866,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 245240,
       "name": "Mother and Child Reunion",
       "url": "https://open.spotify.com/track/6ztOb9W2NW1Z8jVC4gy8HA"
@@ -1171,6 +1171,24 @@
     },
     {
       "album": {
+        "name": "Save the Children",
+        "url": "https://open.spotify.com/album/0yfInwsqclQ8YAp1OipaVM"
+      },
+      "artists": [
+        {
+          "name": "The Intruders",
+          "url": "https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208386,
+      "name": "To Be Happy Is the Real Thing",
+      "url": "https://open.spotify.com/track/1Qu6X3yXPTTljHybvPqxix"
+    },
+    {
+      "album": {
         "name": "The Best Of The Intruders: Cowboys To Girls",
         "url": "https://open.spotify.com/album/3ByQcl2cmBljF8Ydu74Ry3"
       },
@@ -1182,7 +1200,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 208400,
       "name": "To Be Happy Is the Real Thing",
       "url": "https://open.spotify.com/track/5XmGIKx0TCwzPUkNxj8QY9"

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-24",
-  "description": "La casa del trap chileno. Foto: Julianno Sosa.",
+  "description": "La casa del trap chileno. Foto: AKRIILA.",
   "name": "Trapperz Chile",
   "tracks": [
     {
@@ -1652,6 +1652,28 @@
       "duration_ms": 147849,
       "name": "Manifiesto",
       "url": "https://open.spotify.com/track/7rXnH5CggkXAAIxWHh0U0H"
+    },
+    {
+      "album": {
+        "name": "MARIL\u00da",
+        "url": "https://open.spotify.com/album/4v94l0rjxYHcsF74Lo7yVm"
+      },
+      "artists": [
+        {
+          "name": "AKRIILA",
+          "url": "https://open.spotify.com/artist/39hfuTf4PHfnHgIl0QBDGL"
+        },
+        {
+          "name": "Aqua VS",
+          "url": "https://open.spotify.com/artist/0bcZsLQV8MCeU0ylWbw23p"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165750,
+      "name": "MARIL\u00da",
+      "url": "https://open.spotify.com/track/1sWj4tgMHEtwM4NWGSXbdj"
     },
     {
       "album": {

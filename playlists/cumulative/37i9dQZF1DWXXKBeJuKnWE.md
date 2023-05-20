@@ -2,9 +2,9 @@
 
 ### [The Pit](https://open.spotify.com/playlist/37i9dQZF1DWXXKBeJuKnWE)
 
-> The home for heavy rockers\. Cover: Asking Alexandria
+> The home for heavy rockers\. Cover: Bring Me The Horizon
 
-144 songs - 9 hr 8 min
+147 songs - 9 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,7 +32,7 @@
 | [COLD BLOOD](https://open.spotify.com/track/50iNloLV9uEyEvVzuwl6kz) | [HEALTH](https://open.spotify.com/artist/6FfjnGXMhxSsJTuGLWBDth), [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [DISCO4 :: PART II](https://open.spotify.com/album/4pk3IXbfaU0cK7oHuEdbEJ) | 5:26 | 2022-11-10 | 2023-04-06 |
 | [Cyberhex](https://open.spotify.com/track/2vNUATEUKbavRo2gMjHs2S) | [Motionless In White](https://open.spotify.com/artist/6MwPCCR936cYfM1dLsGVnl), [Lindsay Schoolcraft](https://open.spotify.com/artist/6ZLcdPSxw1fTYJlz3DLrSZ) | [Scoring The End Of The World](https://open.spotify.com/album/0DoVnWjNFYoUfq7qe36jxh) | 4:35 | 2022-11-10 |  |
 | [Dark Void](https://open.spotify.com/track/5qI0O2liRuEC6Mnv8BKl0S) | [Asking Alexandria](https://open.spotify.com/artist/1caBfBEapzw8z2Qz9q0OaQ) | [Dark Void](https://open.spotify.com/album/78j5yRbo6TI6xpPJoRjSWH) | 3:52 | 2023-05-11 |  |
-| [Darker Still](https://open.spotify.com/track/37O5phPvMfJZBIscgXlw4a) | [Parkway Drive](https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo) | [Darker Still](https://open.spotify.com/album/36McCMdCRYn5j6iSMiqdG4) | 6:50 | 2022-11-10 |  |
+| [Darker Still](https://open.spotify.com/track/37O5phPvMfJZBIscgXlw4a) | [Parkway Drive](https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo) | [Darker Still](https://open.spotify.com/album/36McCMdCRYn5j6iSMiqdG4) | 6:50 | 2022-11-10 | 2023-05-20 |
 | [Dead Inside](https://open.spotify.com/track/3nFrKCdaILOHeBs8c8culM) | [Disturbed](https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa), [Nita Strauss](https://open.spotify.com/artist/73GhYkwfPQzmfJb1cdPqPf), [David Draiman](https://open.spotify.com/artist/74uyCKYpif9tOA7iWvXlj1) | [Dead Inside](https://open.spotify.com/album/72oUFiAsXttWcMqcg7hslo) | 4:00 | 2022-11-10 | 2023-05-19 |
 | [Delusions of Grandeur](https://open.spotify.com/track/1PhnLoIh8emLvQ7mUM1CyJ) | [Trash Boat](https://open.spotify.com/artist/0XGJ3GUPwslwFJ66yNbHeh) | [Delusions of Grandeur](https://open.spotify.com/album/0ehJqGshc3gcqVjJeo6hy1) | 2:58 | 2023-02-10 | 2023-03-18 |
 | [Devil](https://open.spotify.com/track/6REIaFxddyAZI2MjmlSHOW) | [Black Veil Brides](https://open.spotify.com/artist/6O7MpKrY91vlCd4Osi6XKs) | [The Mourning](https://open.spotify.com/album/4xAVywnk3mapIPdtXEefro) | 3:23 | 2022-11-10 | 2023-04-20 |
@@ -44,6 +44,7 @@
 | [Drowning](https://open.spotify.com/track/4l0UQ0zDIPYaaa5FF2Kvwt) | [Atreyu](https://open.spotify.com/artist/3LkSiHbjqOHCKCqBfEZOTv) | [Drowning](https://open.spotify.com/album/6d5waVDcEQEcM6BKbkBiNx) | 2:45 | 2023-02-03 |  |
 | [Emotion Sickness](https://open.spotify.com/track/0qhGOjVl3uY2N6CAafVmCa) | [Queens of the Stone Age](https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn) | [Emotion Sickness](https://open.spotify.com/album/3dTSDhT6cUg4YxQTMRgf6S) | 4:31 | 2023-05-11 |  |
 | [Fallout](https://open.spotify.com/track/2JBk2XZLjS0N4x3mFHINM6) | [Masked Wolf](https://open.spotify.com/artist/1uU7g3DNSbsu0QjSEqZtEd), [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [Fallout](https://open.spotify.com/album/74K2vGYMdCCO29n4s4Y41h) | 3:14 | 2022-11-10 |  |
+| [False Dawn \- Single Edit](https://open.spotify.com/track/6DF3IQ38l2vvd0f3J9vuTQ) | [Holding Absence](https://open.spotify.com/artist/2tl280wIokrLjabzrSKTgU) | [False Dawn](https://open.spotify.com/album/6Td1f77DXw9wUXuz68Ki92) | 3:57 | 2023-05-19 |  |
 | [Fighting Myself](https://open.spotify.com/track/2ipYQ6pcabz1NovVrr9LKH) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Meteora 20th Anniversary Edition](https://open.spotify.com/album/3Q9wXhEAX7NYCPP0hxIuDz) | 3:21 | 2023-03-23 |  |
 | [Fighting Myself](https://open.spotify.com/track/5CVZeK7bOC9QxYcZ9gJ5X2) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Fighting Myself](https://open.spotify.com/album/0S1tvjDaar0S6LaRJAFcWF) | 3:21 | 2023-03-23 | 2023-04-24 |
 | [Fingernails](https://open.spotify.com/track/5spwALkCxee9CstWeKG7gF) | [DON BROCO](https://open.spotify.com/artist/1aOt6LvXOV6I8dv1A5Diia) | [Fingernails](https://open.spotify.com/album/3V00aSV8gcalGAwjOkauKN) | 4:05 | 2022-11-10 | 2023-01-17 |
@@ -53,6 +54,7 @@
 | [FUBAR](https://open.spotify.com/track/0TOoqfApKrOaCgvEFUDXHc) | [Punkband](https://open.spotify.com/artist/1jtoo2GBoFsIqCqyyzFLos) | [FUBAR](https://open.spotify.com/album/6eZo6l9EtVb5hM3MtdFnjx) | 2:52 | 2023-02-18 | 2023-03-18 |
 | [Fuck You](https://open.spotify.com/track/7fGGZSUU5Uja2A8dvmS9l9) | [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL) | [Fuck You](https://open.spotify.com/album/2Sdh5caZ8hEFIbQGXY4p6e) | 2:57 | 2022-11-10 | 2023-02-10 |
 | [Funeral Derangements](https://open.spotify.com/track/1m2kn7VbKCD7jKaDq975SQ) | [Ice Nine Kills](https://open.spotify.com/artist/52qKfVcIV4GS8A8Vay2xtt) | [Welcome To Horrorwood: The Silver Scream 2](https://open.spotify.com/album/4PyOq7kavqglGk3cexcygx) | 3:44 | 2022-11-10 |  |
+| [Gila Monster](https://open.spotify.com/track/7zHiG2FFEpeGvBmJkgZzVv) | [King Gizzard & The Lizard Wizard](https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn) | [Gila Monster](https://open.spotify.com/album/7o29QKPMZsDZ64DDBrzQzN) | 4:35 | 2023-05-19 |  |
 | [Gimme That Boom](https://open.spotify.com/track/4QbvKaOOsRXSUT0ySto5Ks) | [Skindred](https://open.spotify.com/artist/3jTlKw98Ql1jGRPYqhqHap) | [Gimme That Boom](https://open.spotify.com/album/5t32hSmBus3r3Mw8Z64hxF) | 3:13 | 2022-11-10 |  |
 | [God/Devil](https://open.spotify.com/track/0R1UIAnWQaaGLiX4oxzdzl) | [Atreyu](https://open.spotify.com/artist/3LkSiHbjqOHCKCqBfEZOTv) | [The Hope Of A Spark](https://open.spotify.com/album/5AAt0X7T9p81HEqIQUdzKp) | 2:55 | 2023-04-14 |  |
 | [Greedy Bastards](https://open.spotify.com/track/4tB3o3rTYsBTd3283dKNYg) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [Greedy Bastards](https://open.spotify.com/album/320YsD7ccYfPwARI17GgMw) | 4:12 | 2023-02-03 | 2023-03-05 |
@@ -101,6 +103,7 @@
 | [Planet Zero](https://open.spotify.com/track/7g2LuO2QFplZfsLKRFiVHl) | [Shinedown](https://open.spotify.com/artist/70BYFdaZbEKbeauJ670ysI) | [Planet Zero](https://open.spotify.com/album/7tWcsQLHpvXnUPN1jsSaGw) | 3:42 | 2022-11-10 |  |
 | [Poison Pill](https://open.spotify.com/track/7u0uisz8AVu8vTeEYyq4XM) | [Silverstein](https://open.spotify.com/artist/1Tsag5J854qxeOo2apszug) | [Poison Pill](https://open.spotify.com/album/3BGvaxQ6xxWxTM9sJYTvca) | 3:17 | 2023-03-23 | 2023-04-22 |
 | [Pump It](https://open.spotify.com/track/3iXNlPQNYPrtimAEM49PsG) | [Electric Callboy](https://open.spotify.com/artist/1WNoKxsp715jez1Td4vthc) | [Pump It](https://open.spotify.com/album/2sHDtHAX8luZbP4Uugvtds) | 2:52 | 2022-11-10 |  |
+| [Rain](https://open.spotify.com/track/0GXwlEXCO8qeeeOIYpsR3m) | [Sleep Token](https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6) | [Take Me Back To Eden](https://open.spotify.com/album/1gjugH97doz3HktiEjx2vY) | 4:12 | 2023-05-19 |  |
 | [Rainy Day](https://open.spotify.com/track/3AkCkuC8LuRFEnvyKBQUOg) | [Ice Nine Kills](https://open.spotify.com/artist/52qKfVcIV4GS8A8Vay2xtt) | [Welcome To Horrorwood: The Silver Scream 2](https://open.spotify.com/album/4PyOq7kavqglGk3cexcygx) | 3:01 | 2022-11-10 |  |
 | [REAL SUPER DARK](https://open.spotify.com/track/2YGfjeZvYJyy1BQrbsLmGr) | [Waterparks](https://open.spotify.com/artist/3QaxveoTiMetZCMp1sftiu) | [INTELLECTUAL PROPERTY](https://open.spotify.com/album/6FxkiRw25b3z8CqqFE8pSm) | 2:29 | 2023-03-23 |  |
 | [REAL SUPER DARK](https://open.spotify.com/track/6nXtGWUzOGxfI7q5hUa6Jj) | [Waterparks](https://open.spotify.com/artist/3QaxveoTiMetZCMp1sftiu) | [REAL SUPER DARK](https://open.spotify.com/album/7exaI7MyauQNCOqbyqU27C) | 2:29 | 2023-02-03 | 2023-04-17 |
@@ -108,7 +111,7 @@
 | [San Quentin](https://open.spotify.com/track/0nErfLIYBOb0DHE2jqAe6k) | [Nickelback](https://open.spotify.com/artist/6deZN1bslXzeGvOLaLMOIF) | [San Quentin](https://open.spotify.com/album/2oEamuLTW9IlUiDrZLAPMZ) | 3:31 | 2022-11-10 |  |
 | [Saviour II](https://open.spotify.com/track/14FP9BNWHekbC17tqcppOR) | [Black Veil Brides](https://open.spotify.com/artist/6O7MpKrY91vlCd4Osi6XKs) | [Saviour II](https://open.spotify.com/album/6ehXKNVHjv2GYuhhy7ecwG) | 3:20 | 2022-11-10 |  |
 | [Screaming Suicide](https://open.spotify.com/track/6ZCh9hBeFzMIPycRnyPqZT) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Screaming Suicide](https://open.spotify.com/album/5RuyqGjhakCG2teiB6VkaC) | 5:30 | 2023-01-20 | 2023-03-25 |
-| [Set Fazers](https://open.spotify.com/track/1cFTzMVTrgYTXT6Ed4KsRr) | [Skindred](https://open.spotify.com/artist/3jTlKw98Ql1jGRPYqhqHap) | [Set Fazers](https://open.spotify.com/album/1fZ1mUfz95fU8yXVHkWv3K) | 3:15 | 2023-03-23 |  |
+| [Set Fazers](https://open.spotify.com/track/1cFTzMVTrgYTXT6Ed4KsRr) | [Skindred](https://open.spotify.com/artist/3jTlKw98Ql1jGRPYqhqHap) | [Set Fazers](https://open.spotify.com/album/1fZ1mUfz95fU8yXVHkWv3K) | 3:15 | 2023-03-23 | 2023-05-20 |
 | [Seventy Thorns \(feat\. Jonathan Davis\)](https://open.spotify.com/track/7FJYbOf9jVlYFuM26PVjM1) | [Kim Dracula](https://open.spotify.com/artist/526TMJFuJibm9j2p9td9Yp), [Jonathan Davis](https://open.spotify.com/artist/1VW5tZ9pmSb2rG0GmSELwW) | [Seventy Thorns \(feat\. Jonathan Davis\)](https://open.spotify.com/album/0HFpaKYTODr44OidzHN4pt) | 2:58 | 2023-03-03 |  |
 | [Shivering](https://open.spotify.com/track/10Q3ASy9okYt85040yV46c) | [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg), [Spiritbox](https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW) | [Shivering](https://open.spotify.com/album/2dRmLEMsxRhidLzay43XP5) | 5:00 | 2022-11-10 |  |
 | [Shotgun Blues](https://open.spotify.com/track/2SMNxADB0ffqaIoOwl2x06) | [Volbeat](https://open.spotify.com/artist/0L5fC7Ogm2YwgqVCRcF1bT) | [Servant Of The Mind \(Deluxe\)](https://open.spotify.com/album/1ujOfCZxF2d2R5oOfJbxnP) | 4:27 | 2022-11-10 |  |
@@ -151,6 +154,6 @@
 | [Won’t Stand Down](https://open.spotify.com/track/6hIr2IDeBDXfRFk0rYe5Tz) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Won’t Stand Down](https://open.spotify.com/album/3bbeAIMaGSW6gUMeGqw5VS) | 3:29 | 2022-11-10 |  |
 | [Yellowjacket \(feat\. Sam Carter\)](https://open.spotify.com/track/3yk51U329nwdpeIHV0O5ez) | [Spiritbox](https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW), [Sam Carter](https://open.spotify.com/artist/21QEpK62qn34QVshh4qpTK) | [Eternal Blue](https://open.spotify.com/album/6cZ39G1mahxDAGfoPzDllb) | 3:18 | 2022-11-10 |  |
 | [Zeit](https://open.spotify.com/track/6eOGjyegLDZqCvCZ3divgp) | [Rammstein](https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP) | [Zeit](https://open.spotify.com/album/0kHIXBNeED9HPrXMZEZqEu) | 5:21 | 2022-11-10 |  |
-| [Zick Zack](https://open.spotify.com/track/5hPxC9i9lj9pJwg7DK2MvC) | [Rammstein](https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP) | [Zick Zack](https://open.spotify.com/album/0J2ajcf51h4z7bTsmMY0X8) | 4:04 | 2022-11-10 |  |
+| [Zick Zack](https://open.spotify.com/track/5hPxC9i9lj9pJwg7DK2MvC) | [Rammstein](https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP) | [Zick Zack](https://open.spotify.com/album/0J2ajcf51h4z7bTsmMY0X8) | 4:04 | 2022-11-10 | 2023-05-20 |
 
 \*This playlist was first scraped on 2023-01-15. Prior content cannot be recovered.

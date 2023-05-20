@@ -4,7 +4,7 @@
 
 > Some of the most mesmerizing voices and masterful musicians of indie\. Cover: Lana Del Rey
 
-448 songs - 1 day 3 hr 21 min
+449 songs - 1 day 3 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -400,7 +400,7 @@
 | [Trust Me Baby](https://open.spotify.com/track/1YNvLJutuBPJ8zKdTZ2QZi) | [Empress Of](https://open.spotify.com/artist/5QuBVnBPEzwYvFrgBbwpmU) | [Trust Me Baby / In Dreams](https://open.spotify.com/album/7xspFABWWi4Pzs5dullqCY) | 3:18 | 2022-03-08 | 2022-04-16 |
 | [Turn Out the Lights](https://open.spotify.com/track/3JFeaupbz1zMukrzCTURyB) | [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip) | [Turn Out the Lights](https://open.spotify.com/album/0T5oDfLwS6oWPTrzVRmOFB) | 3:23 | 2022-03-08 | 2022-04-21 |
 | [Twentytwo](https://open.spotify.com/track/6WbPO7SFGF1nxhCB6YMFMa) | [Sunflower Bean](https://open.spotify.com/artist/1xVcjJ5YsYOClO2Unt3Rm8) | [Twentytwo](https://open.spotify.com/album/7pe6T8GP3AxoxNtMlIrVeH) | 4:32 | 2022-03-08 | 2022-04-18 |
-| [Under The Table](https://open.spotify.com/track/12WhIX6MvI93bS3wPSStSY) | [Fiona Apple](https://open.spotify.com/artist/3g2kUQ6tHLLbmkV7T4GPtL) | [Fetch The Bolt Cutters](https://open.spotify.com/album/0fO1KemWL2uCCQmM22iKlj) | 3:21 | 2021-09-03 |  |
+| [Under The Table](https://open.spotify.com/track/12WhIX6MvI93bS3wPSStSY) | [Fiona Apple](https://open.spotify.com/artist/3g2kUQ6tHLLbmkV7T4GPtL) | [Fetch The Bolt Cutters](https://open.spotify.com/album/0fO1KemWL2uCCQmM22iKlj) | 3:21 | 2021-09-03 | 2023-05-20 |
 | [Underdressed](https://open.spotify.com/track/0v9W4BfBwrxFLzRqWnqXPZ) | [VÉRITÉ](https://open.spotify.com/artist/1Fr6agZ6iSM5Ynn2k4C8sc) | [Underdressed](https://open.spotify.com/album/1k545ek181tJaUiNwEzesy) | 3:54 | 2022-03-08 | 2022-04-13 |
 | [UNITED GIRLS ROCK'N'ROLL CLUB](https://open.spotify.com/track/7oVDQPi77CXAlWpHxrsnPb) | [CHAI](https://open.spotify.com/artist/0NZsNnETGPWLKJj2Y0vpBx), [Hinds](https://open.spotify.com/artist/4piFCokRN13muTud5Y2lhz) | [UNITED GIRLS ROCK'N'ROLL CLUB](https://open.spotify.com/album/65zPNLrqrf0G0wrItBaYKR) | 2:56 | 2021-09-03 | 2022-07-19 |
 | [Unmoved \(A Black Woman Truth\)](https://open.spotify.com/track/2zmLkPOV4Y3NTwh5P6gM51) | [Ayoni](https://open.spotify.com/artist/2Tju7nLsAMD6RTBna56hj6) | [Unmoved \(A Black Woman Truth\)](https://open.spotify.com/album/1UMLyY1xxIresXTsh6PtL3) | 4:16 | 2021-09-03 | 2022-07-24 |
@@ -421,6 +421,7 @@
 | [WHAT WE DREW 우리가 그려왔던](https://open.spotify.com/track/3UQFh2pOHS3h2ivIm7Zcyf) | [Yaeji](https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt) | [WHAT WE DREW 우리가 그려왔던](https://open.spotify.com/album/6RB63l1Ngjkg5xXSgCS6AP) | 3:49 | 2021-09-03 | 2022-05-19 |
 | [What You Don't Do](https://open.spotify.com/track/0gorODYIUfyg83lBPnPbZs) | [Lianne La Havas](https://open.spotify.com/artist/2RP4pPHTXlQpDnO9LvR7Yt) | [Blood](https://open.spotify.com/album/0OyUgwL97FT5MWpBLqL6br) | 3:40 | 2022-03-08 | 2022-04-21 |
 | [What You're Thinking](https://open.spotify.com/track/51q8KeszKpVOWghI37pdWK) | [Luna Li](https://open.spotify.com/artist/4ZAk3yVJdtf1CFnTiG08U3) | [Duality](https://open.spotify.com/album/10P8sK3sWqq3IIleoguOmC) | 3:28 | 2022-03-08 | 2022-07-23 |
+| [When I'm Small](https://open.spotify.com/track/1U3BASc885MPCYOzYwOIpO) | [Phantogram](https://open.spotify.com/artist/1l9d7B8W0IHy3LqWsxP2SH) | [Eyelid Movies](https://open.spotify.com/album/6smJTxDxrnxi6fPfFWYSQV) | 4:09 | 2023-03-08 |  |
 | [When I'm Small](https://open.spotify.com/track/21nf6u3sQbfViHX7wNZmhK) | [Phantogram](https://open.spotify.com/artist/1l9d7B8W0IHy3LqWsxP2SH) | [Eyelid Movies](https://open.spotify.com/album/5aSsh4n7DFK3ngOCwa6ecp) | 4:09 | 2022-03-08 | 2023-04-29 |
 | [When I'm With You](https://open.spotify.com/track/7Cb9fYGYtFaANCaqYEOCDC) | [Best Coast](https://open.spotify.com/artist/5YkBrE0wF8cAlq3GCOw5Eu) | [Crazy For You](https://open.spotify.com/album/2lLjGAmDHjCNiydZ4Yp8bT) | 2:58 | 2022-03-08 | 2022-07-21 |
 | [White Noise](https://open.spotify.com/track/2DyOeiu42RDou7a8bAK7o0) | [Ella Vos](https://open.spotify.com/artist/2zmrsXMHxagFz6vI2cD7r6) | [White Noise](https://open.spotify.com/album/6gffGCGNyz9Ynf6lXszc42) | 3:42 | 2022-03-08 | 2022-04-21 |

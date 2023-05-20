@@ -1,12 +1,12 @@
 {
   "description": "soft, chewy & good for the soul. uwu",
-  "num_followers": 162182,
+  "num_followers": 162401,
   "original_name": "tapioca",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmMzgyNzIyNDA1OTE0Mzk0OGEyMDhiZWI4YTlmNjY2ZGYxYWE1YTkx",
+  "snapshot_id": "MCw1ZjJmOGRiNzU2MDI4N2MwODg4MDYyMjMxN2Y5NGM3OTY1N2U0YmNk",
   "tracks": [
     {
       "added_at": "2023-05-18 16:00:00",
@@ -691,22 +691,6 @@
     {
       "added_at": "2023-05-18 16:00:00",
       "album": {
-        "name": "W.H.U.T (Wanna Hold U Tight)",
-        "url": "https://open.spotify.com/album/33hKzdCUtE6qkQJrJaDuck"
-      },
-      "artists": [
-        {
-          "name": "Aisha Retno",
-          "url": "https://open.spotify.com/artist/1eizIry8svwmH0cSjLUEYy"
-        }
-      ],
-      "duration_ms": 174000,
-      "name": "W.H.U.T",
-      "url": "https://open.spotify.com/track/4dtmj7X21gunWoQf98hW5L"
-    },
-    {
-      "added_at": "2023-05-18 16:00:00",
-      "album": {
         "name": "girls like me don't cry",
         "url": "https://open.spotify.com/album/2H3DD9jBaIor2z1hda43gE"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 213640,
       "name": "girls like me don't cry",
       "url": "https://open.spotify.com/track/2DtUUBwYwEzKMTMDrc5EiO"
+    },
+    {
+      "added_at": "2023-05-18 16:00:00",
+      "album": {
+        "name": "W.H.U.T (Wanna Hold U Tight)",
+        "url": "https://open.spotify.com/album/33hKzdCUtE6qkQJrJaDuck"
+      },
+      "artists": [
+        {
+          "name": "Aisha Retno",
+          "url": "https://open.spotify.com/artist/1eizIry8svwmH0cSjLUEYy"
+        }
+      ],
+      "duration_ms": 174000,
+      "name": "W.H.U.T",
+      "url": "https://open.spotify.com/track/4dtmj7X21gunWoQf98hW5L"
     },
     {
       "added_at": "2023-05-18 16:00:00",
@@ -1007,22 +1007,6 @@
     {
       "added_at": "2023-05-18 16:00:00",
       "album": {
-        "name": "HEAL",
-        "url": "https://open.spotify.com/album/2n44vkxj8L01ma7nHfXNJW"
-      },
-      "artists": [
-        {
-          "name": "The Rose",
-          "url": "https://open.spotify.com/artist/5na1LmEmK2VzNLje9snJYW"
-        }
-      ],
-      "duration_ms": 200581,
-      "name": "Sour",
-      "url": "https://open.spotify.com/track/3Jd4JERZ7EP1bdeWRh0rsD"
-    },
-    {
-      "added_at": "2023-05-18 16:00:00",
-      "album": {
         "name": "Shortcut To Heaven",
         "url": "https://open.spotify.com/album/1LzCyAXs0MWStAaFkFc4QJ"
       },
@@ -1035,6 +1019,22 @@
       "duration_ms": 184343,
       "name": "Shortcut To Heaven",
       "url": "https://open.spotify.com/track/0zL5fdl4CvAAYUG3dJVMqS"
+    },
+    {
+      "added_at": "2023-05-18 16:00:00",
+      "album": {
+        "name": "HEAL",
+        "url": "https://open.spotify.com/album/2n44vkxj8L01ma7nHfXNJW"
+      },
+      "artists": [
+        {
+          "name": "The Rose",
+          "url": "https://open.spotify.com/artist/5na1LmEmK2VzNLje9snJYW"
+        }
+      ],
+      "duration_ms": 200581,
+      "name": "Sour",
+      "url": "https://open.spotify.com/track/3Jd4JERZ7EP1bdeWRh0rsD"
     },
     {
       "added_at": "2023-05-18 16:00:00",
@@ -1243,22 +1243,6 @@
     {
       "added_at": "2023-05-18 16:00:00",
       "album": {
-        "name": "Dum Dum",
-        "url": "https://open.spotify.com/album/4sNLO2KeOADZykYBkqclN1"
-      },
-      "artists": [
-        {
-          "name": "Jeff Satur",
-          "url": "https://open.spotify.com/artist/5xq3BK55BJmutN0X7eTyQB"
-        }
-      ],
-      "duration_ms": 195163,
-      "name": "Dum Dum - English Version",
-      "url": "https://open.spotify.com/track/6McBFhOohQvx0zWkoISnap"
-    },
-    {
-      "added_at": "2023-05-18 16:00:00",
-      "album": {
         "name": "Split",
         "url": "https://open.spotify.com/album/7uAHGGN6s8u1BwkA3uKYiQ"
       },
@@ -1275,6 +1259,22 @@
       "duration_ms": 207013,
       "name": "Split",
       "url": "https://open.spotify.com/track/7AE1oyRpPGoSwDs8b9XBO0"
+    },
+    {
+      "added_at": "2023-05-18 16:00:00",
+      "album": {
+        "name": "Dum Dum",
+        "url": "https://open.spotify.com/album/4sNLO2KeOADZykYBkqclN1"
+      },
+      "artists": [
+        {
+          "name": "Jeff Satur",
+          "url": "https://open.spotify.com/artist/5xq3BK55BJmutN0X7eTyQB"
+        }
+      ],
+      "duration_ms": 195163,
+      "name": "Dum Dum - English Version",
+      "url": "https://open.spotify.com/track/6McBFhOohQvx0zWkoISnap"
     },
     {
       "added_at": "2023-05-18 16:00:00",
@@ -1335,22 +1335,6 @@
     {
       "added_at": "2023-05-18 16:00:00",
       "album": {
-        "name": "Summer Is Like a Dream",
-        "url": "https://open.spotify.com/album/7idmlJAWeoa2hk8pU0CIxg"
-      },
-      "artists": [
-        {
-          "name": "khai dreams",
-          "url": "https://open.spotify.com/artist/0lawSNBxNgJFQYJnQzLH8c"
-        }
-      ],
-      "duration_ms": 170666,
-      "name": "Fantasy",
-      "url": "https://open.spotify.com/track/2OqnARPTauGuGFQN1CnEro"
-    },
-    {
-      "added_at": "2023-05-18 16:00:00",
-      "album": {
         "name": "Dreamin' of You",
         "url": "https://open.spotify.com/album/4S8IoiTKXbkvnpGkSO6kZk"
       },
@@ -1363,6 +1347,22 @@
       "duration_ms": 188131,
       "name": "Dreamin' of You",
       "url": "https://open.spotify.com/track/1f4N7JUd6dUHfZpfgOM72U"
+    },
+    {
+      "added_at": "2023-05-18 16:00:00",
+      "album": {
+        "name": "Summer Is Like a Dream",
+        "url": "https://open.spotify.com/album/7idmlJAWeoa2hk8pU0CIxg"
+      },
+      "artists": [
+        {
+          "name": "khai dreams",
+          "url": "https://open.spotify.com/artist/0lawSNBxNgJFQYJnQzLH8c"
+        }
+      ],
+      "duration_ms": 170666,
+      "name": "Fantasy",
+      "url": "https://open.spotify.com/track/2OqnARPTauGuGFQN1CnEro"
     },
     {
       "added_at": "2023-05-18 16:00:00",
@@ -1563,22 +1563,6 @@
     {
       "added_at": "2023-05-18 16:00:00",
       "album": {
-        "name": "Baby Can You Stay",
-        "url": "https://open.spotify.com/album/12iY7dts3ziwGFq7na5C2L"
-      },
-      "artists": [
-        {
-          "name": "WNRDA",
-          "url": "https://open.spotify.com/artist/2Ja7uINE33t1t5d06J6PFQ"
-        }
-      ],
-      "duration_ms": 178745,
-      "name": "Baby Can You Stay",
-      "url": "https://open.spotify.com/track/6ukZgsQtCTslc6cbxVd9yc"
-    },
-    {
-      "added_at": "2023-05-18 16:00:00",
-      "album": {
         "name": "Good In Me",
         "url": "https://open.spotify.com/album/7kRF85QX88b5aPkxE2jbRX"
       },
@@ -1603,6 +1587,22 @@
       "duration_ms": 148027,
       "name": "Good In Me",
       "url": "https://open.spotify.com/track/1JuUVeHRjVl081qqccxySe"
+    },
+    {
+      "added_at": "2023-05-18 16:00:00",
+      "album": {
+        "name": "Baby Can You Stay",
+        "url": "https://open.spotify.com/album/12iY7dts3ziwGFq7na5C2L"
+      },
+      "artists": [
+        {
+          "name": "WNRDA",
+          "url": "https://open.spotify.com/artist/2Ja7uINE33t1t5d06J6PFQ"
+        }
+      ],
+      "duration_ms": 178745,
+      "name": "Baby Can You Stay",
+      "url": "https://open.spotify.com/track/6ukZgsQtCTslc6cbxVd9yc"
     },
     {
       "added_at": "2023-05-18 16:00:00",
@@ -1643,18 +1643,22 @@
     {
       "added_at": "2023-05-18 16:00:00",
       "album": {
-        "name": "The Outsider",
-        "url": "https://open.spotify.com/album/0ftVjdPzK7QBpUQiBuL798"
+        "name": "No One",
+        "url": "https://open.spotify.com/album/2h2DQrNPw1aDsuy8xO1GZY"
       },
       "artists": [
         {
-          "name": "Lyn Lapid",
-          "url": "https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v"
+          "name": "brb.",
+          "url": "https://open.spotify.com/artist/2XBiI8PjCnjJ3XKWtiKcvc"
+        },
+        {
+          "name": "HYBS",
+          "url": "https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI"
         }
       ],
-      "duration_ms": 180604,
-      "name": "The Outsider",
-      "url": "https://open.spotify.com/track/5W1UtLcQLQOFZDpDeNn8Gi"
+      "duration_ms": 157333,
+      "name": "No One",
+      "url": "https://open.spotify.com/track/0qbZA3IPjeb8lBZ4SZtEHd"
     },
     {
       "added_at": "2023-05-18 16:00:00",
@@ -1675,22 +1679,18 @@
     {
       "added_at": "2023-05-18 16:00:00",
       "album": {
-        "name": "No One",
-        "url": "https://open.spotify.com/album/2h2DQrNPw1aDsuy8xO1GZY"
+        "name": "The Outsider",
+        "url": "https://open.spotify.com/album/0ftVjdPzK7QBpUQiBuL798"
       },
       "artists": [
         {
-          "name": "brb.",
-          "url": "https://open.spotify.com/artist/2XBiI8PjCnjJ3XKWtiKcvc"
-        },
-        {
-          "name": "HYBS",
-          "url": "https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI"
+          "name": "Lyn Lapid",
+          "url": "https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v"
         }
       ],
-      "duration_ms": 157333,
-      "name": "No One",
-      "url": "https://open.spotify.com/track/0qbZA3IPjeb8lBZ4SZtEHd"
+      "duration_ms": 180604,
+      "name": "The Outsider",
+      "url": "https://open.spotify.com/track/5W1UtLcQLQOFZDpDeNn8Gi"
     },
     {
       "added_at": "2023-05-18 16:00:00",

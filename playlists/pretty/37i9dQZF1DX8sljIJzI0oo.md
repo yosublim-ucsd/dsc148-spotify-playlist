@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8sljIJzI0oo.md) - [plain]
 
 > Think you’ve got what it takes to take over Fuego? <a href="https://spotify.com/fuegomixtapes">Submit your mixtape now!</a> Cover: Regina, a fan curated mixtape.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,883,541 likes - 21 songs - 56 min 10 sec
+[Spotify](https://open.spotify.com/user/spotify) - 1,883,502 likes - 21 songs - 56 min 10 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,4 +30,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8sljIJzI0oo.md) - [plain]
 | 20 | [nasty](https://open.spotify.com/track/3mD5eYWsXfGJOeBA9cSWMa) | [Princesa Alba](https://open.spotify.com/artist/3hvDAraTidCTjQHIc4m8P3), [Ms Nina](https://open.spotify.com/artist/43Hr2FjhVehkROIIEb7EfQ) | [nasty](https://open.spotify.com/album/40wjGbffx3oRJRRhbvDyYN) | 2:55 |
 | 21 | [Quédate](https://open.spotify.com/track/4jxWAYRsa7Gshx1a1eY3cQ) | [MJ Nebreda](https://open.spotify.com/artist/1h6b4y2ObngnFpgEwry7Fy) | [Quédate](https://open.spotify.com/album/7an3UboNMfILI1SL0Yopsf) | 3:43 |
 
-Snapshot ID: `MCw0MmMzZGNkMTk4NDEyN2IxY2U3MmE5ZDk1YWU4NzcwMDdjZTJhNGVk`
+Snapshot ID: `MCw0YTJmZDJkYTNhNTcwNTRhOTVhMTI4NjI2MmUyNWQwNGZhZmM0Yjcz`

@@ -2,7 +2,7 @@
 
 ### [RADAR Thailand](https://open.spotify.com/playlist/37i9dQZF1DX4Q8j1DJOWem)
 
-> ค้นพบที่สุดศิลปินรุ่นใหม่ของประเทศไทยได้ที่นี่เลย.
+> ค้นพบที่สุดศิลปินรุ่นใหม่ของประเทศไทยได้ที่นี่เลย\. ปก: wish.
 
 98 songs - 6 hr 9 min
 

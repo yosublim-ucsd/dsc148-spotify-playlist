@@ -189,6 +189,24 @@
     },
     {
       "album": {
+        "name": "Journey To Neptune",
+        "url": "https://open.spotify.com/album/1nNwWW5To3Hxqx9UakBNlf"
+      },
+      "artists": [
+        {
+          "name": "Machabara",
+          "url": "https://open.spotify.com/artist/5OQe8EsRkxUlaeJ8sESTyK"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249187,
+      "name": "Caved Out",
+      "url": "https://open.spotify.com/track/3lzBhoMOytPl2SJb76MKHS"
+    },
+    {
+      "album": {
         "name": "Lake Monger",
         "url": "https://open.spotify.com/album/3fanKX5paSuCg8V0InZFbZ"
       },
@@ -315,6 +333,24 @@
     },
     {
       "album": {
+        "name": "Journey To Neptune",
+        "url": "https://open.spotify.com/album/2Em0BfI2XgT5Cv7d4ieSL4"
+      },
+      "artists": [
+        {
+          "name": "Shaanouri",
+          "url": "https://open.spotify.com/artist/2FWFKErUkjpSdqcbvTsw33"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221500,
+      "name": "Far Far Away",
+      "url": "https://open.spotify.com/track/2QYFCIqPfs6xonIijWZWKh"
+    },
+    {
+      "album": {
         "name": "Balearic Pulse",
         "url": "https://open.spotify.com/album/5jlQDHw1h914CFzHSivNYC"
       },
@@ -348,6 +384,24 @@
       "duration_ms": 277800,
       "name": "Fyresvatn",
       "url": "https://open.spotify.com/track/3oXtuTObYRvhsShC7I96M5"
+    },
+    {
+      "album": {
+        "name": "Journey To Neptune",
+        "url": "https://open.spotify.com/album/1nNwWW5To3Hxqx9UakBNlf"
+      },
+      "artists": [
+        {
+          "name": "Machabara",
+          "url": "https://open.spotify.com/artist/5OQe8EsRkxUlaeJ8sESTyK"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236000,
+      "name": "Hollow Streams",
+      "url": "https://open.spotify.com/track/0QKVXdZz1DbluflLmv9Jld"
     },
     {
       "album": {
@@ -798,7 +852,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 310735,
       "name": "Relaxation Mood Part 3",
       "url": "https://open.spotify.com/track/3qGDQ5XW2u826nLF5Wq9Cn"

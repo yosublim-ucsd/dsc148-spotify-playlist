@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-09-15",
-  "description": "Os padres e nomes que movem multid\u00f5es pelo pa\u00eds. Foto: Flavio Vitor Jr.",
+  "description": "Os padres e nomes que movem multid\u00f5es pelo pa\u00eds. Foto: Aline Brasil",
   "name": "M\u00fasica Cat\u00f3lica ",
   "tracks": [
     {
@@ -1072,7 +1072,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 223285,
       "name": "Longe de Deus, Tudo \u00c9 Ilus\u00e3o",
       "url": "https://open.spotify.com/track/6tFow5ytjJCSOIVngI2uNc"
@@ -1974,6 +1974,24 @@
       "duration_ms": 266305,
       "name": "Sopra em meu jardim",
       "url": "https://open.spotify.com/track/5cPJsQ7uwWG7exIM9AvXVY"
+    },
+    {
+      "album": {
+        "name": "Sopra Sobre os Ossos",
+        "url": "https://open.spotify.com/album/0O1UMwwbAw04AdLYlfeNYR"
+      },
+      "artists": [
+        {
+          "name": "Aline Brasil",
+          "url": "https://open.spotify.com/artist/5hf4bo5iH59sca7oXhxKpS"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273428,
+      "name": "Sopra Sobre os Ossos - Ao Vivo",
+      "url": "https://open.spotify.com/track/2rwQvgDFW0WojeTrTJXugO"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "Ultimate mix of songs from the 1990s to insure a good time while on the road.",
-  "num_followers": 504752,
+  "num_followers": 505933,
   "original_name": "90s Road Trip",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkNTU4ZGE3YTViYWJjN2YxNDFmODA0NzQ1MGNiNzRjZThiN2QwYjQz",
+  "snapshot_id": "MCwzNTQyYzVlMTgxNDc1YWZkMjM5MDk1Zjg0ZGUwNmExYmNlZDFkNTlm",
   "tracks": [
     {
       "added_at": "2023-01-03 14:44:23",
@@ -1499,22 +1499,6 @@
     {
       "added_at": "2023-01-03 14:44:23",
       "album": {
-        "name": "Women In Technology",
-        "url": "https://open.spotify.com/album/3Xp1KG3G31VGZgV8JpMSX6"
-      },
-      "artists": [
-        {
-          "name": "White Town",
-          "url": "https://open.spotify.com/artist/1MPcILKoMCJym9KscdYxuM"
-        }
-      ],
-      "duration_ms": 259893,
-      "name": "Your Woman",
-      "url": "https://open.spotify.com/track/4ACxa9buEUnOdYEoPcnMpi"
-    },
-    {
-      "added_at": "2023-01-03 14:44:23",
-      "album": {
         "name": "Desireless",
         "url": "https://open.spotify.com/album/3P2WRy9eBoBbSTCZWGQOoO"
       },
@@ -1527,6 +1511,22 @@
       "duration_ms": 239226,
       "name": "Save Tonight",
       "url": "https://open.spotify.com/track/1t2Hq2WIBcZINOEnK6mdJG"
+    },
+    {
+      "added_at": "2023-01-03 14:44:23",
+      "album": {
+        "name": "Women In Technology",
+        "url": "https://open.spotify.com/album/3Xp1KG3G31VGZgV8JpMSX6"
+      },
+      "artists": [
+        {
+          "name": "White Town",
+          "url": "https://open.spotify.com/artist/1MPcILKoMCJym9KscdYxuM"
+        }
+      ],
+      "duration_ms": 259893,
+      "name": "Your Woman",
+      "url": "https://open.spotify.com/track/4ACxa9buEUnOdYEoPcnMpi"
     },
     {
       "added_at": "2023-01-03 14:44:23",
@@ -1727,22 +1727,6 @@
     {
       "added_at": "2023-01-03 14:44:23",
       "album": {
-        "name": "Blaze Of Glory",
-        "url": "https://open.spotify.com/album/5QsPmoN7UK8tL5NRtSuC2Y"
-      },
-      "artists": [
-        {
-          "name": "Jon Bon Jovi",
-          "url": "https://open.spotify.com/artist/6h2bWHWTJL38N8dqocVaif"
-        }
-      ],
-      "duration_ms": 335240,
-      "name": "Blaze Of Glory - From \"Young Guns II\" Soundtrack",
-      "url": "https://open.spotify.com/track/1sUTfgduT0WIQO8kXKXxLC"
-    },
-    {
-      "added_at": "2023-01-03 14:44:23",
-      "album": {
         "name": "River Of Dreams",
         "url": "https://open.spotify.com/album/4HPnwQJAEvTY910q4RNeOu"
       },
@@ -1755,6 +1739,22 @@
       "duration_ms": 247626,
       "name": "The River of Dreams",
       "url": "https://open.spotify.com/track/30qVCFYKBtAENjTIBA8FPZ"
+    },
+    {
+      "added_at": "2023-01-03 14:44:23",
+      "album": {
+        "name": "Blaze Of Glory",
+        "url": "https://open.spotify.com/album/5QsPmoN7UK8tL5NRtSuC2Y"
+      },
+      "artists": [
+        {
+          "name": "Jon Bon Jovi",
+          "url": "https://open.spotify.com/artist/6h2bWHWTJL38N8dqocVaif"
+        }
+      ],
+      "duration_ms": 335240,
+      "name": "Blaze Of Glory - From \"Young Guns II\" Soundtrack",
+      "url": "https://open.spotify.com/track/1sUTfgduT0WIQO8kXKXxLC"
     },
     {
       "added_at": "2023-01-03 14:44:23",
@@ -2063,22 +2063,6 @@
     {
       "added_at": "2023-01-03 14:44:23",
       "album": {
-        "name": "Sheryl Crow",
-        "url": "https://open.spotify.com/album/3w7TTi80vZApF0rQE5DMYb"
-      },
-      "artists": [
-        {
-          "name": "Sheryl Crow",
-          "url": "https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD"
-        }
-      ],
-      "duration_ms": 323400,
-      "name": "If It Makes You Happy",
-      "url": "https://open.spotify.com/track/5XrfFo0JFOnWD9ZMNXGkQh"
-    },
-    {
-      "added_at": "2023-01-03 14:44:23",
-      "album": {
         "name": "Emotions",
         "url": "https://open.spotify.com/album/0SHpIbyBLUugMXsl3yNkUz"
       },
@@ -2095,6 +2079,22 @@
     {
       "added_at": "2023-01-03 14:44:23",
       "album": {
+        "name": "Sheryl Crow",
+        "url": "https://open.spotify.com/album/3w7TTi80vZApF0rQE5DMYb"
+      },
+      "artists": [
+        {
+          "name": "Sheryl Crow",
+          "url": "https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD"
+        }
+      ],
+      "duration_ms": 323400,
+      "name": "If It Makes You Happy",
+      "url": "https://open.spotify.com/track/5XrfFo0JFOnWD9ZMNXGkQh"
+    },
+    {
+      "added_at": "2023-01-03 14:44:23",
+      "album": {
         "name": "14:59",
         "url": "https://open.spotify.com/album/43NNW7iDuAE8pIouzvwWWi"
       },
@@ -2107,6 +2107,22 @@
       "duration_ms": 242800,
       "name": "Someday",
       "url": "https://open.spotify.com/track/6zeDYmP3ARpURvpK29Q09P"
+    },
+    {
+      "added_at": "2023-01-03 14:44:23",
+      "album": {
+        "name": "Move Until We Fly",
+        "url": "https://open.spotify.com/album/0z5UEm9rbS75WTaSdGwP8N"
+      },
+      "artists": [
+        {
+          "name": "Nick Kamen",
+          "url": "https://open.spotify.com/artist/05GsKvp0yKuCyWQMsPAAmB"
+        }
+      ],
+      "duration_ms": 240773,
+      "name": "I Promised Myself",
+      "url": "https://open.spotify.com/track/5jVJAojK3LFKETjI2gYb8O"
     },
     {
       "added_at": "2023-01-03 14:44:23",
@@ -2139,22 +2155,6 @@
       "duration_ms": 281853,
       "name": "Sleeping Satellite",
       "url": "https://open.spotify.com/track/3WSyYBhLZRLbQo2tJgFvSR"
-    },
-    {
-      "added_at": "2023-01-03 14:44:23",
-      "album": {
-        "name": "Move Until We Fly",
-        "url": "https://open.spotify.com/album/0z5UEm9rbS75WTaSdGwP8N"
-      },
-      "artists": [
-        {
-          "name": "Nick Kamen",
-          "url": "https://open.spotify.com/artist/05GsKvp0yKuCyWQMsPAAmB"
-        }
-      ],
-      "duration_ms": 240773,
-      "name": "I Promised Myself",
-      "url": "https://open.spotify.com/track/5jVJAojK3LFKETjI2gYb8O"
     },
     {
       "added_at": "2023-01-03 14:44:23",
@@ -2223,22 +2223,6 @@
     {
       "added_at": "2023-01-03 14:44:23",
       "album": {
-        "name": "Luck Of The Draw",
-        "url": "https://open.spotify.com/album/6blrkOZ0VmkhYPjfoD7eqf"
-      },
-      "artists": [
-        {
-          "name": "Bonnie Raitt",
-          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
-        }
-      ],
-      "duration_ms": 227573,
-      "name": "Something To Talk About",
-      "url": "https://open.spotify.com/track/6Ceejf3zBXvAhIY9DbP1Pr"
-    },
-    {
-      "added_at": "2023-01-03 14:44:23",
-      "album": {
         "name": "Violator (2006 Remaster)",
         "url": "https://open.spotify.com/album/5g3Yi15plTSMaq6tYiuw8p"
       },
@@ -2251,6 +2235,22 @@
       "duration_ms": 372813,
       "name": "Enjoy the Silence - 2006 Remaster",
       "url": "https://open.spotify.com/track/1EjQRTG53jsinzk2xlVVJP"
+    },
+    {
+      "added_at": "2023-01-03 14:44:23",
+      "album": {
+        "name": "Luck Of The Draw",
+        "url": "https://open.spotify.com/album/6blrkOZ0VmkhYPjfoD7eqf"
+      },
+      "artists": [
+        {
+          "name": "Bonnie Raitt",
+          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
+        }
+      ],
+      "duration_ms": 227573,
+      "name": "Something To Talk About",
+      "url": "https://open.spotify.com/track/6Ceejf3zBXvAhIY9DbP1Pr"
     },
     {
       "added_at": "2023-01-03 14:44:23",
@@ -2351,22 +2351,6 @@
     {
       "added_at": "2023-01-03 14:44:23",
       "album": {
-        "name": "Violator (2006 Remaster)",
-        "url": "https://open.spotify.com/album/5g3Yi15plTSMaq6tYiuw8p"
-      },
-      "artists": [
-        {
-          "name": "Depeche Mode",
-          "url": "https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX"
-        }
-      ],
-      "duration_ms": 294040,
-      "name": "Policy of Truth - 2006 Remaster",
-      "url": "https://open.spotify.com/track/0C6EIiQu8CS4eYtOCMEiAd"
-    },
-    {
-      "added_at": "2023-01-03 14:44:23",
-      "album": {
         "name": "Core (Super Deluxe Edition)",
         "url": "https://open.spotify.com/album/5kxuokOacguIqDJRh1ZXRC"
       },
@@ -2379,6 +2363,22 @@
       "duration_ms": 334386,
       "name": "Creep - 2017 Remaster",
       "url": "https://open.spotify.com/track/6dmueYtoihUhlQZlImBCmm"
+    },
+    {
+      "added_at": "2023-01-03 14:44:23",
+      "album": {
+        "name": "Violator (2006 Remaster)",
+        "url": "https://open.spotify.com/album/5g3Yi15plTSMaq6tYiuw8p"
+      },
+      "artists": [
+        {
+          "name": "Depeche Mode",
+          "url": "https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX"
+        }
+      ],
+      "duration_ms": 294040,
+      "name": "Policy of Truth - 2006 Remaster",
+      "url": "https://open.spotify.com/track/0C6EIiQu8CS4eYtOCMEiAd"
     },
     {
       "added_at": "2023-01-03 14:44:23",
@@ -2447,38 +2447,6 @@
     {
       "added_at": "2023-01-03 14:44:23",
       "album": {
-        "name": "Ladies And Gentlemen... The Best Of George Michael",
-        "url": "https://open.spotify.com/album/3coLNlyStg9h7f8CZ103Rl"
-      },
-      "artists": [
-        {
-          "name": "George Michael",
-          "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
-        }
-      ],
-      "duration_ms": 388400,
-      "name": "Freedom! '90",
-      "url": "https://open.spotify.com/track/1SKApv6ZfJ9bkUxeRObJEF"
-    },
-    {
-      "added_at": "2023-01-03 14:44:23",
-      "album": {
-        "name": "Ballbreaker",
-        "url": "https://open.spotify.com/album/1zXYNAA57WJ33GgZJHchhX"
-      },
-      "artists": [
-        {
-          "name": "AC/DC",
-          "url": "https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un"
-        }
-      ],
-      "duration_ms": 271000,
-      "name": "Hard as a Rock",
-      "url": "https://open.spotify.com/track/1gij27s31tFKcTHa8f1u4g"
-    },
-    {
-      "added_at": "2023-01-03 14:44:23",
-      "album": {
         "name": "Big Ones",
         "url": "https://open.spotify.com/album/2uT123xlHuqvz14JR0KQSs"
       },
@@ -2511,6 +2479,38 @@
     {
       "added_at": "2023-01-03 14:44:23",
       "album": {
+        "name": "Ladies And Gentlemen... The Best Of George Michael",
+        "url": "https://open.spotify.com/album/3coLNlyStg9h7f8CZ103Rl"
+      },
+      "artists": [
+        {
+          "name": "George Michael",
+          "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
+        }
+      ],
+      "duration_ms": 388400,
+      "name": "Freedom! '90",
+      "url": "https://open.spotify.com/track/1SKApv6ZfJ9bkUxeRObJEF"
+    },
+    {
+      "added_at": "2023-01-03 14:44:23",
+      "album": {
+        "name": "Ballbreaker",
+        "url": "https://open.spotify.com/album/1zXYNAA57WJ33GgZJHchhX"
+      },
+      "artists": [
+        {
+          "name": "AC/DC",
+          "url": "https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un"
+        }
+      ],
+      "duration_ms": 271000,
+      "name": "Hard as a Rock",
+      "url": "https://open.spotify.com/track/1gij27s31tFKcTHa8f1u4g"
+    },
+    {
+      "added_at": "2023-01-03 14:44:23",
+      "album": {
         "name": "Cooleyhighharmony (Bonus Tracks Version)",
         "url": "https://open.spotify.com/album/3jknvlUSe6D9Oyn2E3JBLO"
       },
@@ -2527,22 +2527,6 @@
     {
       "added_at": "2023-01-03 14:44:23",
       "album": {
-        "name": "Mama Said",
-        "url": "https://open.spotify.com/album/7A3LlV59lh4KljWa7I6Tks"
-      },
-      "artists": [
-        {
-          "name": "Lenny Kravitz",
-          "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
-        }
-      ],
-      "duration_ms": 233066,
-      "name": "Always On The Run",
-      "url": "https://open.spotify.com/track/3xxBAMUVusDLjLFwwL9qoY"
-    },
-    {
-      "added_at": "2023-01-03 14:44:23",
-      "album": {
         "name": "Californication (Deluxe Edition)",
         "url": "https://open.spotify.com/album/2Y9IRtehByVkegoD7TcLfi"
       },
@@ -2555,6 +2539,22 @@
       "duration_ms": 204973,
       "name": "Road Trippin'",
       "url": "https://open.spotify.com/track/1XxCiPw07rd1ytYnE7SoJI"
+    },
+    {
+      "added_at": "2023-01-03 14:44:23",
+      "album": {
+        "name": "Mama Said",
+        "url": "https://open.spotify.com/album/7A3LlV59lh4KljWa7I6Tks"
+      },
+      "artists": [
+        {
+          "name": "Lenny Kravitz",
+          "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
+        }
+      ],
+      "duration_ms": 233066,
+      "name": "Always On The Run",
+      "url": "https://open.spotify.com/track/3xxBAMUVusDLjLFwwL9qoY"
     },
     {
       "added_at": "2023-01-03 14:44:23",

@@ -4,7 +4,7 @@
 
 > Enjoy your perfect headphones jam with this eclectic collection of brilliantly produced and recorded tracks\. These can serve as audiophile reference tracks, but they are great music that can be enjoyed on any headphones or stereo as well!  <a href="spotify:user:spotify:playlist:37i9dQZF1DWWISLnAIWyCZ">Classical version here</a>.
 
-327 songs - 1 day 2 hr 54 min
+328 songs - 1 day 2 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,7 +42,7 @@
 | [Born Slippy \(Nuxx\) \- Radio Edit](https://open.spotify.com/track/3bUNyRrTFJDd4mqvUcb1Aa) | [Underworld](https://open.spotify.com/artist/1PXHzxRDiLnjqNrRn2Xbsa) | [Born Slippy \(Nuxx\) \[Radio Edit\]](https://open.spotify.com/album/6p7gQ5S39dLxMvyqqnP9Qd) | 4:24 | 2022-07-20 |  |
 | [Breathe](https://open.spotify.com/track/0uKrhHBDUQ4w5fv4qwOubP) | [Télépopmusik](https://open.spotify.com/artist/3aKCo8gLJfuPYtr88aWKjF), [Angela McCluskey](https://open.spotify.com/artist/5AlIxbb8HarTSm2tdA5F0x) | [Genetic World](https://open.spotify.com/album/1H10CTGW4xbk0IQewKbK50) | 4:42 | 2022-07-20 |  |
 | [Bubbles](https://open.spotify.com/track/2MYPFXScWdR3PQihBQxu7x) | [Yosi Horikawa](https://open.spotify.com/artist/1JSPpoXFLcEG2WhYlvmHPJ) | [Wandering](https://open.spotify.com/album/0otC2s8AupBtfGUe0UUhYg) | 5:47 | 2021-10-15 |  |
-| [Bye Bye Blackbird](https://open.spotify.com/track/7fHGCeqESmD29tImSdDuAp) | [Ron Carter](https://open.spotify.com/artist/4wnzivx3OQ3vjrySAdTdJP) | [The Ultimate Headphone & Hi\-Fi Album](https://open.spotify.com/album/1dliFD9SyB1r8CieAw2wwE) | 5:27 | 2022-10-14 |  |
+| [Bye Bye Blackbird](https://open.spotify.com/track/7fHGCeqESmD29tImSdDuAp) | [Ron Carter](https://open.spotify.com/artist/4wnzivx3OQ3vjrySAdTdJP) | [The Ultimate Headphone & Hi\-Fi Album](https://open.spotify.com/album/1dliFD9SyB1r8CieAw2wwE) | 5:27 | 2022-10-14 | 2023-05-20 |
 | [Bye Bye Blackbird](https://open.spotify.com/track/1RpkMoOomu5989qM3Ir23A) | [Ron Carter](https://open.spotify.com/artist/4wnzivx3OQ3vjrySAdTdJP) | [ディア・マイルス](https://open.spotify.com/album/5wBI5RZ3F64aZJ72ZNyyQd) | 5:28 | 2021-10-15 | 2022-07-29 |
 | [California](https://open.spotify.com/track/5eM6Rrk8rwLpUhrh7Kk5R1) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Blue](https://open.spotify.com/album/1vz94WpXDVYIEGja8cjFNa) | 3:50 | 2021-10-15 | 2022-07-19 |
 | [Can I Kick It?](https://open.spotify.com/track/3Ti0GdlrotgwsAVBBugv0I) | [A Tribe Called Quest](https://open.spotify.com/artist/09hVIj6vWgoCDtT03h8ZCa) | [People's Instinctive Travels and the Paths of Rhythm \(25th Anniversary Edition\)](https://open.spotify.com/album/3kV0i1qqudjf0PGawJ4jck) | 4:11 | 2021-10-15 |  |
@@ -290,6 +290,7 @@
 | [The Big Sky \- Special Single Mix](https://open.spotify.com/track/1OlR8gWxMgHIb5bduxTz2q) | [Kate Bush](https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL) | [Hounds Of Love](https://open.spotify.com/album/5G5UwqPsxDKpxJLX4xsyuh) | 4:38 | 2023-03-13 |  |
 | [The Big Sky \- Special Single Mix](https://open.spotify.com/track/50T7xShSIGpOKvpyVahSAx) | [Kate Bush](https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL) | [Hounds Of Love](https://open.spotify.com/album/5BWl0bB1q0TqyFmkBEupZy) | 4:38 | 2022-07-20 | 2022-07-29 |
 | [The Chain \- 2004 Remaster](https://open.spotify.com/track/7Dm3dV3WPNdTgxoNY7YFnc) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Rumours](https://open.spotify.com/album/1bt6q2SruMsBtcerNVtpZB) | 4:29 | 2021-10-15 |  |
+| [The City](https://open.spotify.com/track/2mWJVuJsQIFg0fnRYcD8zz) | [Dismemberment Plan](https://open.spotify.com/artist/2JpHk8yju1DH1l3c9sXzOS) | [Emergency & I](https://open.spotify.com/album/0Y0V072vxDWEvCelPBaWAO) | 4:26 | 2023-05-04 |  |
 | [The Gift](https://open.spotify.com/track/7nviB40euH8GciNuOn7uci) | [Mark Hollis](https://open.spotify.com/artist/1dKzjmxVJw8SSE0LVxW2Dp) | [Mark Hollis](https://open.spotify.com/album/1r8M1X0QFZw0bMMnBvwOXA) | 4:22 | 2023-02-02 | 2023-05-09 |
 | [The Logical Song](https://open.spotify.com/track/5Z4EgTCCoObfO1WfrvrQ9v) | [Supertramp](https://open.spotify.com/artist/3JsMj0DEzyWc0VDlHuy9Bx) | [The Very Best Of Supertramp](https://open.spotify.com/album/3kv1eLaL0W9Uci9mZGryzS) | 4:09 | 2022-10-14 | 2022-11-13 |
 | [The Logical Song \- Remastered 2010](https://open.spotify.com/track/3T6R0ppqCnUW6iJhtUYhO3) | [Supertramp](https://open.spotify.com/artist/3JsMj0DEzyWc0VDlHuy9Bx) | [Breakfast In America \(Deluxe Edition\)](https://open.spotify.com/album/5UAy7rBQad6mSxklbtqUa8) | 4:11 | 2021-10-15 | 2022-07-29 |

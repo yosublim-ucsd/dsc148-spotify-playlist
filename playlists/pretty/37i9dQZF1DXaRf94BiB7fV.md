@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaRf94BiB7fV.md) - [plain]
 
 > Emerging Indie artists on the rise, updated every Wednesday\. Cover: Judy on the run , Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,769 likes - 100 songs - 5 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,788 likes - 100 songs - 5 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaRf94BiB7fV.md) - [plain]
 | 99 | [my heart](https://open.spotify.com/track/3e2XrZgJGxJwPAOVIvb2Sn) | [trisha sao](https://open.spotify.com/artist/71BjZzxN0f7njUd2RLOpRD), [Rakshit Ghodkhande](https://open.spotify.com/artist/2qch3JSaaR0Dfkrux6xyNt) | [my heart](https://open.spotify.com/album/0HIvr8xypydvFvdg7BxBXp) | 3:18 |
 | 100 | [Peace Lily](https://open.spotify.com/track/3J6IUkgWkqlORllGp9duP2) | [Aarya](https://open.spotify.com/artist/0hiGMrsjO7uwlfNq4NS7wf) | [Peace Lily](https://open.spotify.com/album/1jqOENuop4JBbq5SeaOm2X) | 3:45 |
 
-Snapshot ID: `MCwyMjlhZjRiNmQ4MGVjNjMxY2ZjZDg1NTQxOTY2ZGNkMzE5ZjY1NzU2`
+Snapshot ID: `MCw3YjI2ZWNlZmJkYmRlMmI5MjVmNGVkYzI3NTI0MTE4ODE4ODg3YzZm`

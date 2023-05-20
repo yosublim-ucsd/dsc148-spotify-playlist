@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1MYRp9oolwH.md) - [plain]
 
 > Bringing out the best of latest love tracks<br/>Cover : Kushi
 
-[Spotify](https://open.spotify.com/user/spotify) - 83,895 likes - 50 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 84,044 likes - 50 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1MYRp9oolwH.md) - [plain]
 | 9 | [Malli Malli \(From "Agent"\)](https://open.spotify.com/track/2JwFf9z75lIfpLyIF7NDVU) | [Hiphop Tamizha](https://open.spotify.com/artist/7zFBW2JxM4bgTTKxCRcS8Q) | [Malli Malli \(From "Agent"\)](https://open.spotify.com/album/3A4Wxcl3DMpWMInJiAvnPx) | 3:27 |
 | 10 | [Kanula Chatu Meghama](https://open.spotify.com/track/6aptM1jYkNgayyLtLmvl3t) | [Kalyani Malik](https://open.spotify.com/artist/5w6bUd0SJtvdQ99pZm83PJ), [Aabhas Joshi](https://open.spotify.com/artist/59MBrXiDnBe2UHqpqUzuaI), [Lipsika](https://open.spotify.com/artist/21dhDPAGZuoa1M2S60hFK1) | [Phalana Abbayi Phalana Ammayi](https://open.spotify.com/album/3Vqgue7sXnuzKCjVyAVuIS) | 4:21 |
 | 11 | [Sogasuke Soku](https://open.spotify.com/track/7us2M7qEm5z0N8Pi4r9vCO) | [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN), [Ghantadi Krishna](https://open.spotify.com/artist/0pllOO8uQzMCl9IDGBxr8J) | [Risk \(Telugu\)](https://open.spotify.com/album/1x1YOnezfxRM5uq4E4LAp9) | 3:59 |
-| 12 | [Timeless Love \(From "Custody"\)](https://open.spotify.com/track/3e55Z7GQ32shpEwrnd6Jjz) | [Yuvan Shankar Raja](https://open.spotify.com/artist/6AiX12wXdXFoGJ2vk8zBjy), [Kapil Kapilan](https://open.spotify.com/artist/0nMjhemqRwrboQGcs92fh2), [Ilaiyaraaja](https://open.spotify.com/artist/3m49WVMU4zCkaVEKb8kFW7), [Madan Karky](https://open.spotify.com/artist/6EtLhQRslM09DO6EQLzodI) | [Timeless Love \(From "Custody"\)](https://open.spotify.com/album/3u7j59HpPiG3XUcdvUeshr) | 4:10 |
+| 12 | [Timeless Love \(From "Custody"\) \(Telugu\)](https://open.spotify.com/track/6gUj1HpLEN7qqJCFUWM2Zz) | [Yuvan Shankar Raja](https://open.spotify.com/artist/6AiX12wXdXFoGJ2vk8zBjy), [Kapil Kapilan](https://open.spotify.com/artist/0nMjhemqRwrboQGcs92fh2) | [Timeless Love \(From "Custody"\) \(Telugu\)](https://open.spotify.com/album/149ne0QeNg5tfsGbs9Cu6b) | 4:12 |
 | 13 | [Mastaaru Mastaaru](https://open.spotify.com/track/59eeV0SIeyd431uyjAWCRe) | [G\. V\. Prakash](https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ), [Shweta Mohan](https://open.spotify.com/artist/1rdQOMFFtoskDXXUVjiGo9) | [Sir](https://open.spotify.com/album/7qJBv6QEwl0DQDlNg3mBvc) | 3:45 |
 | 14 | [Endhe Endhe \(From "Agent"\)](https://open.spotify.com/track/6Pu2h98HTGs437yCGnK16b) | [Sanjith Hegde](https://open.spotify.com/artist/1plObTufEAfeL1hk8Qz24v), [Hiphop Tamizha](https://open.spotify.com/artist/7zFBW2JxM4bgTTKxCRcS8Q), [Padmalatha](https://open.spotify.com/artist/7xgN0GCVgPxHiU8p8PIYfk) | [Endhe Endhe \(From "Agent"\)](https://open.spotify.com/album/4jLEzKrOoUFyJzlTTrKwCy) | 3:36 |
 | 15 | [Urike Urike](https://open.spotify.com/track/7dT21sIYXtxJpIEBIdUSuu) | [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN), [Ramya Behara](https://open.spotify.com/artist/4svvMm4TQnkphZJfhLCzzv), [MM Sreelekha](https://open.spotify.com/artist/0goFlPiv6xhrgMwqwUss9Z), [Krishna Kanth](https://open.spotify.com/artist/2yvOLf1gt6m9qPgzzqpxQx) | [Urike Urike \(From "Hit 2"\) \- Single](https://open.spotify.com/album/3iIpF1VSAmoP1zMejorHcK) | 4:35 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1MYRp9oolwH.md) - [plain]
 | 49 | [Vennela Vennela](https://open.spotify.com/track/2pZPSfj0EPZVHVlf42NTVB) | [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN) | [Top Gear](https://open.spotify.com/album/7k4EcT3DDGPd2j73OgB6lR) | 4:54 |
 | 50 | [Kalalo Kooda](https://open.spotify.com/track/5Tn2aBp45QypSmCpmhKtJN) | [Tanishk Bagchi](https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt), [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN), [Vaishnavi Kovvuri](https://open.spotify.com/artist/4x2ISDzC44n2AmVAiBTp4g) | [Liger \(Telugu\) \[Original Motion Picture Soundtrack\]](https://open.spotify.com/album/0bI7C4I6FzlNlZZDqJOfDJ) | 4:06 |
 
-Snapshot ID: `MCwwYTg0ZWFkNmU1NTFhNGQzMjk0YjA4N2E0OGQyY2RhYmY2MjZiNzZl`
+Snapshot ID: `MCxjMDdlYjY2OWZiOTkwMzVhMzc5NTg2ZGViYTM3YjA5YjFlOWUyZWUz`

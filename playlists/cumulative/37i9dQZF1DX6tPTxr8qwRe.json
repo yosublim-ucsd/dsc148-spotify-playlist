@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-06",
-  "description": "Dark, hard hitting pop. Cover: Cloudy June",
+  "description": "Dark, hard hitting pop. Cover: LOVA",
   "name": "SALT",
   "tracks": [
     {
@@ -502,7 +502,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 163185,
       "name": "Bad Thing",
       "url": "https://open.spotify.com/track/6UTi9PS0CiMUs5DUfYl3W4"
@@ -1829,6 +1829,24 @@
     },
     {
       "album": {
+        "name": "dot dot dot",
+        "url": "https://open.spotify.com/album/5quLNXWWPhwTJwxjVI73I1"
+      },
+      "artists": [
+        {
+          "name": "emlyn",
+          "url": "https://open.spotify.com/artist/1qMJAm3nqZq6AsqeaAk2m1"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137140,
+      "name": "dot dot dot",
+      "url": "https://open.spotify.com/track/2babNB7t9s2xIlSSoRFaPy"
+    },
+    {
+      "album": {
         "name": "Drama King",
         "url": "https://open.spotify.com/album/6Do69YHGEiFnvLC70QGXW7"
       },
@@ -2248,7 +2266,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 174545,
       "name": "Feel What I'm Feeling",
       "url": "https://open.spotify.com/track/0SJmLC2S4RN2AbYcJWo0oK"
@@ -2418,6 +2436,24 @@
       "duration_ms": 177430,
       "name": "Fuck Your Labels",
       "url": "https://open.spotify.com/track/6Y8TZ2mDCfVYE8O9VdGpaW"
+    },
+    {
+      "album": {
+        "name": "FUNERAL",
+        "url": "https://open.spotify.com/album/1KQLkCFFcvA9BT0aGsmejd"
+      },
+      "artists": [
+        {
+          "name": "Neoni",
+          "url": "https://open.spotify.com/artist/38wxcfNEqMwuPniHvplin5"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181923,
+      "name": "FUNERAL",
+      "url": "https://open.spotify.com/track/3UG2MvL1KiIgY9FjFvOYrv"
     },
     {
       "album": {
@@ -3128,6 +3164,24 @@
       "duration_ms": 138730,
       "name": "Hot Killer",
       "url": "https://open.spotify.com/track/4bOYRZeMq2FVVFka2gUWQ9"
+    },
+    {
+      "album": {
+        "name": "House Of Cards",
+        "url": "https://open.spotify.com/album/1tuAaXyzHRHdwYBrzPub3t"
+      },
+      "artists": [
+        {
+          "name": "AViVA",
+          "url": "https://open.spotify.com/artist/50tDsT4wwq8FCMJNkn1D67"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177599,
+      "name": "House Of Cards",
+      "url": "https://open.spotify.com/track/5IHkkPgiIRaEnAIjWKdT9G"
     },
     {
       "album": {
@@ -3968,7 +4022,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 190225,
       "name": "Lose Lose",
       "url": "https://open.spotify.com/track/47AcRzodwvcQlnS6BjNZBQ"
@@ -4627,6 +4681,24 @@
     },
     {
       "album": {
+        "name": "Only Love Can Save Us Now",
+        "url": "https://open.spotify.com/album/14gFMh79sFu4n9SYxTPTlm"
+      },
+      "artists": [
+        {
+          "name": "Kesha",
+          "url": "https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154586,
+      "name": "Only Love Can Save Us Now",
+      "url": "https://open.spotify.com/track/6EP9E1OLjmwe6sJlu3EyZN"
+    },
+    {
+      "album": {
         "name": "OVER MY HEAD",
         "url": "https://open.spotify.com/album/5mSyWUOvz1l57XOeDDDYGb"
       },
@@ -4656,7 +4728,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 120545,
       "name": "P.O.S.",
       "url": "https://open.spotify.com/track/3H88XHhVp3GUJ2C3ZuSf2U"
@@ -4866,10 +4938,28 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 124000,
       "name": "Poison",
       "url": "https://open.spotify.com/track/5StQDoFQTDElQjMnfk8qIy"
+    },
+    {
+      "album": {
+        "name": "Hey dad, I tried to be nice",
+        "url": "https://open.spotify.com/album/5zHY14j7ZRWNgkMlkX4fTH"
+      },
+      "artists": [
+        {
+          "name": "LOVA",
+          "url": "https://open.spotify.com/artist/1l2NYhptmHjo64MDOcej1x"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213120,
+      "name": "Popstar",
+      "url": "https://open.spotify.com/track/5ByUAdEmfy6MpmUIHCo2Em"
     },
     {
       "album": {
@@ -6700,7 +6790,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 145386,
       "name": "Villain",
       "url": "https://open.spotify.com/track/6y0VIRo9CyIIHBdlPklTl0"
@@ -6884,6 +6974,24 @@
       "duration_ms": 126189,
       "name": "WEEDKILLER",
       "url": "https://open.spotify.com/track/4c5LGEwgEEgL8VlNeeBCL8"
+    },
+    {
+      "album": {
+        "name": "Welcome To The Real World",
+        "url": "https://open.spotify.com/album/1o4IxSYAQM3FIzRfPoSEIT"
+      },
+      "artists": [
+        {
+          "name": "Sarah Barrios",
+          "url": "https://open.spotify.com/artist/0HJsX1aTdgG1VDIRDiseSJ"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182925,
+      "name": "Welcome To The Real World",
+      "url": "https://open.spotify.com/track/1qqFDzFd2AZTKP542DsJOZ"
     },
     {
       "album": {

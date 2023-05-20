@@ -1,12 +1,12 @@
 {
   "description": "Unforgettable love songs from the 1950s.",
-  "num_followers": 171929,
+  "num_followers": 172170,
   "original_name": "50s Love Songs",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0NDFhMDIwYjc4MWExYzI3ZmQxYjc0NjRiNTA3ODBjNjBhNTkxN2Iy",
+  "snapshot_id": "MCxhMWNjOTgxYTcyNTkwMjY3MjU4MGRjZTE1ODJiYTBhN2UxNTUwZWMy",
   "tracks": [
     {
       "added_at": "2022-01-10 11:46:31",
@@ -603,6 +603,22 @@
     {
       "added_at": "2022-01-10 11:46:31",
       "album": {
+        "name": "Johnny Tillotson's Best",
+        "url": "https://open.spotify.com/album/23FZ6dkeF3N8cAfVqzggFR"
+      },
+      "artists": [
+        {
+          "name": "Johnny Tillotson",
+          "url": "https://open.spotify.com/artist/36msvw9B10rxW90NSQ2794"
+        }
+      ],
+      "duration_ms": 127106,
+      "name": "Why Do I Love You So - 1960 #42 Billboard chart hit",
+      "url": "https://open.spotify.com/track/2hh6RGmBNTGB7fi62fYgUL"
+    },
+    {
+      "added_at": "2022-01-10 11:46:31",
+      "album": {
         "name": "Elvis 30 #1 Hits",
         "url": "https://open.spotify.com/album/0QVoYzGd1p8Z3ohEaM0lsc"
       },
@@ -619,22 +635,6 @@
       "duration_ms": 168906,
       "name": "Don't",
       "url": "https://open.spotify.com/track/4HVSaFbEwvptCAzLlOr2UZ"
-    },
-    {
-      "added_at": "2022-01-10 11:46:31",
-      "album": {
-        "name": "Johnny Tillotson's Best",
-        "url": "https://open.spotify.com/album/23FZ6dkeF3N8cAfVqzggFR"
-      },
-      "artists": [
-        {
-          "name": "Johnny Tillotson",
-          "url": "https://open.spotify.com/artist/36msvw9B10rxW90NSQ2794"
-        }
-      ],
-      "duration_ms": 127106,
-      "name": "Why Do I Love You So - 1960 #42 Billboard chart hit",
-      "url": "https://open.spotify.com/track/2hh6RGmBNTGB7fi62fYgUL"
     },
     {
       "added_at": "2022-01-10 11:46:31",
@@ -687,22 +687,6 @@
     {
       "added_at": "2022-01-10 11:46:31",
       "album": {
-        "name": "Loving You",
-        "url": "https://open.spotify.com/album/7KZSeiE569txmIxoNBQLS2"
-      },
-      "artists": [
-        {
-          "name": "Elvis Presley",
-          "url": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
-        }
-      ],
-      "duration_ms": 133866,
-      "name": "Loving You",
-      "url": "https://open.spotify.com/track/036VdTP0ggdePwbvbFuT8w"
-    },
-    {
-      "added_at": "2022-01-10 11:46:31",
-      "album": {
         "name": "The Nat King Cole Story",
         "url": "https://open.spotify.com/album/3NoP1ifIejWkGSDsO9T2xH"
       },
@@ -715,6 +699,22 @@
       "duration_ms": 204626,
       "name": "Too Young",
       "url": "https://open.spotify.com/track/0zII0Soax7wbm3Avw7iVAd"
+    },
+    {
+      "added_at": "2022-01-10 11:46:31",
+      "album": {
+        "name": "Loving You",
+        "url": "https://open.spotify.com/album/7KZSeiE569txmIxoNBQLS2"
+      },
+      "artists": [
+        {
+          "name": "Elvis Presley",
+          "url": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
+        }
+      ],
+      "duration_ms": 133866,
+      "name": "Loving You",
+      "url": "https://open.spotify.com/track/036VdTP0ggdePwbvbFuT8w"
     },
     {
       "added_at": "2022-01-10 11:46:31",

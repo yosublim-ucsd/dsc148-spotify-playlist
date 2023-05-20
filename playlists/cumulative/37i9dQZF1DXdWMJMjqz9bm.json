@@ -9627,6 +9627,24 @@
     },
     {
       "album": {
+        "name": "whatever we are",
+        "url": "https://open.spotify.com/album/3e0E6MbRPmXmuG6gqod4O9"
+      },
+      "artists": [
+        {
+          "name": "raspy",
+          "url": "https://open.spotify.com/artist/1trffosn0Alk3IlloOD5O8"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148800,
+      "name": "whatever we are",
+      "url": "https://open.spotify.com/track/4uqSCajR8HAp6duJUsDje3"
+    },
+    {
+      "album": {
         "name": "When I Get Lonely",
         "url": "https://open.spotify.com/album/13FMlTKRNL5akAlum5tc5O"
       },

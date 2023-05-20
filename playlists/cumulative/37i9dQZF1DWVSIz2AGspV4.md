@@ -4,7 +4,7 @@
 
 > أحدث الاغاني العراقية\. غلاف : دموع تحسين
 
-221 songs - 12 hr 56 min
+222 songs - 12 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -140,7 +140,7 @@
 | [La Yalbukht](https://open.spotify.com/track/3q6f7xBrpHwt8PvmWCMuXZ) | [Ahmed Al Maslawi](https://open.spotify.com/artist/00VUV8R7oHc6FSLFyNmwFa) | [La Yalbukht](https://open.spotify.com/album/4hWmhWJk8VZeoIfl8nesys) | 3:23 | 2022-02-03 | 2022-06-07 |
 | [Lef Elkon](https://open.spotify.com/track/5Rzq5P1v9xDfPc5jTOieAM) | [Ahmed Al Maslawi](https://open.spotify.com/artist/00VUV8R7oHc6FSLFyNmwFa) | [Lef Elkon](https://open.spotify.com/album/1y0OCBu84DwxC6Ba3toGRA) | 3:20 | 2022-07-10 | 2023-05-02 |
 | [Lo Bdali](https://open.spotify.com/track/5gz4UWI9X5NGHL5ZWQz1SK) | [Dumooa Tahseen](https://open.spotify.com/artist/0453pwQTyMdU2a66fCFaUQ) | [Lo Bdali](https://open.spotify.com/album/6ZVzhlLAa79Og3pvyihTXm) | 3:38 | 2021-12-23 | 2022-03-12 |
-| [Low Tehbny](https://open.spotify.com/track/1Qv14GgwC8DOg3w5IlXz2V) | [Yasser Abd Alwahab](https://open.spotify.com/artist/6257KWddv5693NK51w7iXa), [Yousif Basim](https://open.spotify.com/artist/48gGrQgctA3maCIN6xRNTd) | [Low Tehbny](https://open.spotify.com/album/26QmCBzT5VngDgCFEmuAb1) | 3:07 | 2023-02-06 |  |
+| [Low Tehbny](https://open.spotify.com/track/1Qv14GgwC8DOg3w5IlXz2V) | [Yasser Abd Alwahab](https://open.spotify.com/artist/6257KWddv5693NK51w7iXa), [Yousif Basim](https://open.spotify.com/artist/48gGrQgctA3maCIN6xRNTd) | [Low Tehbny](https://open.spotify.com/album/26QmCBzT5VngDgCFEmuAb1) | 3:07 | 2023-02-06 | 2023-05-20 |
 | [Lyom Miladah](https://open.spotify.com/track/5e1VvU8X3MSt5iscjfM68p) | [Hussain Ghazal](https://open.spotify.com/artist/1dbZLkKMOFCuCouMiGfXXF) | [Lyom Miladah](https://open.spotify.com/album/51ejcp69a3cb5vFLhgrDMz) | 3:27 | 2023-03-16 |  |
 | [Ma Aandi Maslaha](https://open.spotify.com/track/5g8pT5nMMaIdefRYHaCMUB) | [Yasser Abd Alwahab](https://open.spotify.com/artist/6257KWddv5693NK51w7iXa) | [Ma Aandi Maslaha](https://open.spotify.com/album/2xBNNc24EQgBgufRsBYXSr) | 3:43 | 2021-12-23 | 2022-03-18 |
 | [Ma Dal Makan](https://open.spotify.com/track/706ybZpgqWUWxf0lpwPkpG) | [Evan Naji](https://open.spotify.com/artist/2zgE2v3Zdc8CCFqATOA08Q) | [Ma Dal Makan](https://open.spotify.com/album/6BOjZpXEsOOutRTEG0BYWT) | 3:55 | 2022-06-23 | 2023-03-25 |
@@ -201,6 +201,7 @@
 | [Wahed](https://open.spotify.com/track/7fEJ3sevHUm2dQo2fK54o5) | [Mohamed AlSalim](https://open.spotify.com/artist/5Zkp6UaHTafGRXROGj6W0S) | [Wahed](https://open.spotify.com/album/468PmLXWGgd9lrNjfv5e6L) | 3:10 | 2022-02-11 | 2022-06-09 |
 | [Wahishni Shakhs](https://open.spotify.com/track/1ZIhUK12wFNkluBOn5xL1A) | [Diana Haddad](https://open.spotify.com/artist/6EtB4NuwPezzxaGqHHU7C2) | [Wahishni Shakhs](https://open.spotify.com/album/29YDoB2HipVG669Qo2Blsm) | 3:43 | 2022-07-25 | 2023-05-03 |
 | [Waiak](https://open.spotify.com/track/6iJ9ROZDjbvKBr8cdrVNiF) | [Haitham Yousif](https://open.spotify.com/artist/0jPXHSYuneyrz1WOWZfpXT) | [Waiak](https://open.spotify.com/album/5j1NW6jEgcCgy7PsFA9h3Y) | 4:37 | 2022-05-24 | 2023-01-11 |
+| [Wajhij Chana Baghdad](https://open.spotify.com/track/0RZin6IHW0GSiZlRxRkcUL) | [Yasser Abd Alwahab](https://open.spotify.com/artist/6257KWddv5693NK51w7iXa), [Bassam Mahdi](https://open.spotify.com/artist/3n6hTwcg7nmNCmHl1sHeCO) | [Wajhij Chana Baghdad](https://open.spotify.com/album/1qQC0kZvIhesYsei6SyMct) | 2:53 | 2023-05-19 |  |
 | [Wakty AlSaeb](https://open.spotify.com/track/50DAvbOdTVqS0uFSOBbZ2x) | [Ahmad Alsultan](https://open.spotify.com/artist/0bi5RUX7QwU8yOVliycRz8) | [Wakty AlSaeb](https://open.spotify.com/album/3HPlvNI6bh9TROhf6REe8R) | 3:07 | 2022-03-11 | 2022-07-20 |
 | [Watan \- From the original TV Series](https://open.spotify.com/track/2MQpKJNVY6hMnkpOHQsAG7) | [Ali Jassim](https://open.spotify.com/artist/0sQhYPLQcT2qUZ5KV25WSe) | [Watan \(From the original TV Series\)](https://open.spotify.com/album/3tzDXEPAYGr7Men2aCgkyG) | 2:51 | 2022-04-05 | 2022-10-14 |
 | [Wayak Wayak](https://open.spotify.com/track/4yMY3INVgDXfDUIRuuIMRC) | [Ahlam](https://open.spotify.com/artist/5BOaFDetB6x3cYQuyrwZhd) | [Rezq El Wared](https://open.spotify.com/album/3URkpUufiqInzAGBhFn9Az) | 4:00 | 2023-01-05 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXYltn5FtH0l.md) - [plain]
 
 > Feel 'New Establish Style Tempo' in here.
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,575 likes - 74 songs - 3 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,586 likes - 74 songs - 3 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,4 +83,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXYltn5FtH0l.md) - [plain]
 | 73 | [Beautiful Ghost](https://open.spotify.com/track/61WM2WWXd8nlMkh3JiCrrG) | [NU'EST](https://open.spotify.com/artist/1iQfn1B8V25iQoolQakyAZ) | [THE 3rd MINI ALBUM / Sleep Talking](https://open.spotify.com/album/4RH9G7CTNObHGVty9cHkPH) | 4:06 |
 | 74 | [FACE](https://open.spotify.com/track/60oyvXjv0nwZnRrwZvZqUm) | [NU'EST](https://open.spotify.com/artist/1iQfn1B8V25iQoolQakyAZ) | [NU'EST The First Album "Re:BIRTH"](https://open.spotify.com/album/0LwhNIhiEE3D0memGvBLfl) | 3:40 |
 
-Snapshot ID: `MCxkNWRjYzJiNjY0YzkwYTUzNTBmN2QxZDI4MjBiYzMwYzYyYTMxYzEy`
+Snapshot ID: `MCwzN2ZmYzkzZDFiZWEyNGIwYTUyNzM0OTJlMmM1NjNhMDc4ODk5MTE0`

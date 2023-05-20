@@ -4,11 +4,11 @@
 
 > slow burners for late nights
 
-470 songs - 1 day 5 hr 18 min
+471 songs - 1 day 5 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [\(No One Knows Me\) Like the Piano](https://open.spotify.com/track/3D1VUmjj0IlhdHqGConc7C) | [Sampha](https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm) | [Process](https://open.spotify.com/album/4fRcYn1zNOHY5LJXuRmJHI) | 3:38 | 2022-10-28 |  |
+| [\(No One Knows Me\) Like the Piano](https://open.spotify.com/track/3D1VUmjj0IlhdHqGConc7C) | [Sampha](https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm) | [Process](https://open.spotify.com/album/4fRcYn1zNOHY5LJXuRmJHI) | 3:38 | 2022-10-28 | 2023-05-20 |
 | [\(She's\) Just a Phase](https://open.spotify.com/track/0NfKkSlUJWTbECFqrO0bp1) | [Puma Blue](https://open.spotify.com/artist/6lHO1eGthNnos9KP2BH0cG) | [Swum Baby](https://open.spotify.com/album/2p47OHaW1agrdBbgBP1S3W) | 3:06 | 2020-12-21 | 2022-07-06 |
 | [11111Thousand \(One One\)](https://open.spotify.com/track/1kEw2eKXr5XpOXiEH3LwQr) | [October Tooth](https://open.spotify.com/artist/1vwb2e3nTwu2n2eDVGRFeu) | [11111Thousand \(One One\)](https://open.spotify.com/album/13bMfIOwlpXlBmFtkE6Cj1) | 3:07 | 2020-12-21 | 2022-07-21 |
 | [12:34 AM](https://open.spotify.com/track/16iNVfWKKZPDjctIcd0KMn) | [Billy Lemos](https://open.spotify.com/artist/7ebBg3BuRFa2satTcY8whC), [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO), [Maxwell Young](https://open.spotify.com/artist/5HONdRTLNvBjlD2LirKp0q) | [12:34 AM](https://open.spotify.com/album/4bJGMpZ7LqygIsCM3G9ZYQ) | 2:07 | 2022-05-06 | 2022-07-21 |
@@ -164,6 +164,7 @@
 | [FORCE OF HABIT](https://open.spotify.com/track/5HxZVwYpdu1SgUvl411nZ6) | [Paris Texas](https://open.spotify.com/artist/1SCrMreNPJYSRZIlRe9SUq) | [BOY ANONYMOUS](https://open.spotify.com/album/3ErmhbEFnhCLRqKibj245w) | 4:04 | 2021-07-01 | 2022-07-13 |
 | [Forget About Life](https://open.spotify.com/track/2bjxKyGCrBv8JFXvo6Qdrk) | [Alvvays](https://open.spotify.com/artist/3kzwYV3OCB010YfXMF0Avt) | [Antisocialites](https://open.spotify.com/album/2Yy84EeclNVwFDem6yIB2s) | 2:42 | 2022-10-28 | 2023-04-02 |
 | [Forget About Life](https://open.spotify.com/track/4eKo4tRNkK9WQXjrlP07eU) | [Alvvays](https://open.spotify.com/artist/3kzwYV3OCB010YfXMF0Avt) | [Antisocialites](https://open.spotify.com/album/7CCwkPweMxKq8yWkVerH6T) | 2:42 | 2020-12-21 | 2022-07-28 |
+| [Future Lover](https://open.spotify.com/track/3kedYiw0PflZpyQcDzBLKK) | [Thee Sacred Souls](https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU) | [Thee Sacred Souls](https://open.spotify.com/album/6ofJrAZaaX0iWTXYXObUxE) | 3:31 | 2023-04-25 |  |
 | [Future Lover](https://open.spotify.com/track/73sJYNNftZeqUxHu5l4w1z) | [Thee Sacred Souls](https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU) | [Thee Sacred Souls](https://open.spotify.com/album/0UKT9me1zkVDmah2MjmCma) | 3:31 | 2022-08-31 | 2023-04-30 |
 | [Galaxy Surfing](https://open.spotify.com/track/0tI9jtQuJynzivmpQFc4Gx) | [Jadu Heart](https://open.spotify.com/artist/7vjRpVXoecwKTEsrb9iscj) | [Ezra's Garden](https://open.spotify.com/album/2BtznmYidvZ9JQWhcmXVTZ) | 3:22 | 2022-05-06 | 2022-07-29 |
 | [Get Me Back in the Game](https://open.spotify.com/track/4K9n5qyCUGYBtfuJAgh23X) | [LL Burns](https://open.spotify.com/artist/7Bg1G4G1VPEZHfy55wqKNS) | [Get Me Back in the Game](https://open.spotify.com/album/2ZmCrPaswCSKEy1yIfgJ5W) | 4:32 | 2020-12-21 | 2022-04-21 |

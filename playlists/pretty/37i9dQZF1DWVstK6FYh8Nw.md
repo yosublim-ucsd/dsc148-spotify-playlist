@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVstK6FYh8Nw.md) - [plain]
 
 > The Atlanta\-born <a href="spotify:artist:1RyvyyTE3xzB2ZywiAwp0i">rapper</a>'s dopest songs plus his latest bangers.
 
-[Spotify](https://open.spotify.com/user/spotify) - 558,511 likes - 50 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 558,816 likes - 50 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVstK6FYh8Nw.md) - [plain]
 | 49 | [Campaign \(feat\. Future\)](https://open.spotify.com/track/6JvHYmanlC8FdbeiCztcrR) | [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Campaign](https://open.spotify.com/album/7bSsdgWDh5VRI3ZVOXQEj4) | 3:57 |
 | 50 | [200](https://open.spotify.com/track/5b06JZjts6dgyyuY1m7roq) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [SUPER SLIMEY](https://open.spotify.com/album/187UNqZ7MX3neMYkkevmdm) | 2:26 |
 
-Snapshot ID: `MCw1ZGQxYjIwOTE2MzYzNjg1YmU0OGU0NDAwOWRlM2QxOTRkMzA2NGZm`
+Snapshot ID: `MTY4MTIzODc0NywwMDAwMDAwMDA3Y2VhMWQ0Nzk2MDg5NjU0NmZmYTU4Yjc0ZWFiMjcy`

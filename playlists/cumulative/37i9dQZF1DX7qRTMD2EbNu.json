@@ -1151,6 +1151,28 @@
     },
     {
       "album": {
+        "name": "Dem Deh Try",
+        "url": "https://open.spotify.com/album/16hOVq7kncTdjePoCYbB70"
+      },
+      "artists": [
+        {
+          "name": "Paq",
+          "url": "https://open.spotify.com/artist/0XYSXxykpPb4xmTjvc2yY4"
+        },
+        {
+          "name": "Shatta Wale",
+          "url": "https://open.spotify.com/artist/42q0rYXtR561ypg1Fcw1PI"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157366,
+      "name": "Dem Deh Try",
+      "url": "https://open.spotify.com/track/2DSFcgpJYAHUREdK5fgc9b"
+    },
+    {
+      "album": {
         "name": "Digits (Remix)",
         "url": "https://open.spotify.com/album/1lAUxhieMI4j2gjhOAq1OT"
       },
@@ -1396,7 +1418,7 @@
       ],
       "date_added": "2023-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 216058,
       "name": "Drip",
       "url": "https://open.spotify.com/track/63yk7vrJHUo3BiQIwI35tV"
@@ -2634,6 +2656,36 @@
       "duration_ms": 219911,
       "name": "Lights go dim",
       "url": "https://open.spotify.com/track/5CT7AVKD7ZucJYt8sGLbgu"
+    },
+    {
+      "album": {
+        "name": "Likkle Youth (feat. Jay Bahd, Skyface SDW and O'Kenneth)",
+        "url": "https://open.spotify.com/album/1PI8JrpuQjw24LIW7OMadC"
+      },
+      "artists": [
+        {
+          "name": "Chicogod",
+          "url": "https://open.spotify.com/artist/1uNsXjSgAHP9q7oWBKJa1E"
+        },
+        {
+          "name": "Jay Bahd",
+          "url": "https://open.spotify.com/artist/0Q7yvULFrthrEzwtn5hRcw"
+        },
+        {
+          "name": "Skyface SDW",
+          "url": "https://open.spotify.com/artist/4R4KEZSjfEuuLyyqTiTVtG"
+        },
+        {
+          "name": "O'Kenneth",
+          "url": "https://open.spotify.com/artist/3EyOT8FSuINDoWYHfm8TIM"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159262,
+      "name": "Likkle Youth (feat. Jay Bahd, Skyface SDW and O'Kenneth)",
+      "url": "https://open.spotify.com/track/0iZtUgYgVEG8QtJ2OazHdy"
     },
     {
       "album": {
@@ -4158,7 +4210,7 @@
       ],
       "date_added": "2023-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 178003,
       "name": "SUV",
       "url": "https://open.spotify.com/track/2PeErwVrlNWQe9rUuNH7CN"

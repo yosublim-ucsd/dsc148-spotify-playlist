@@ -4,7 +4,7 @@
 
 > Need a musical pick\-me\-up? Boost that serotonin with these timeless jams from Harry Styles, Beyonce, Kane Brown, Miley Cyrus and more!
 
-227 songs - 12 hr 39 min
+228 songs - 12 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -162,6 +162,7 @@
 | [Oh My God](https://open.spotify.com/track/3Kkjo3cT83cw09VJyrLNwX) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [30](https://open.spotify.com/album/21jF5jlMtzo94wbxmJ18aa) | 3:45 | 2022-06-03 |  |
 | [Ojalá](https://open.spotify.com/track/4dLIAE3xbJLoiIBbKkZWJk) | [The Rudeboyz](https://open.spotify.com/artist/7ciBW1p3KBsYIkFk4UmwS8), [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau), [Adam Levine](https://open.spotify.com/artist/4bYPcJP5jwMhSivRcqie2n) | [Ojalá](https://open.spotify.com/album/00XhrF5bpFfMJ0tT85DkTY) | 3:09 | 2022-10-24 | 2023-01-07 |
 | [On Top](https://open.spotify.com/track/1P3w91ud5pF4JO80730Mra) | [I Am Nova](https://open.spotify.com/artist/1PYFWo7UIJQBW441tashW3) | [On Top](https://open.spotify.com/album/3tagPi6IgnB2UihDeO4Eot) | 3:15 | 2022-08-26 |  |
+| [One Day](https://open.spotify.com/track/0nCZDQrlWA149QdGTdlsFU) | [Matisyahu](https://open.spotify.com/artist/5eyMzR1hYiEZtN2c9ly2kw) | [Light](https://open.spotify.com/album/0ZWXIBvYjY13xIbDyWdnBN) | 3:27 | 2023-05-19 |  |
 | [Over The Rainbow](https://open.spotify.com/track/0AmJF6MlRCMzocgR92sfKh) | [Lotus Blue](https://open.spotify.com/artist/5vIpTlpycbPrgO3WQenRPk), [Campsite Dream](https://open.spotify.com/artist/69VkQLf4DH7GJ68BCDOPKL) | [Over The Rainbow](https://open.spotify.com/album/1mbDWv0L2Nlwd9T4h4sLxr) | 1:32 | 2022-11-07 |  |
 | [Paralyzed](https://open.spotify.com/track/6KOQLj5dcYuFSN6srNs96u) | [Big Time Rush](https://open.spotify.com/artist/0GWCNkPi54upO9WLlwjAHd) | [Paralyzed](https://open.spotify.com/album/4b5VmGfGFXxivUx1vshO9o) | 3:04 | 2022-11-29 | 2023-02-14 |
 | [Pegao](https://open.spotify.com/track/7Dk8r4VR5NoveUvTiCKEXC) | [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N) | [Pegao](https://open.spotify.com/album/2BzQoZdHURkzdFErSQ2Qll) | 2:40 | 2022-06-03 | 2023-03-16 |

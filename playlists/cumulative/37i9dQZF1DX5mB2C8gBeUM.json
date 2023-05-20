@@ -475,6 +475,24 @@
     },
     {
       "album": {
+        "name": "Bad Decisions",
+        "url": "https://open.spotify.com/album/3X0y9gC0hyk8iUcFQnxGn9"
+      },
+      "artists": [
+        {
+          "name": "Don Louis",
+          "url": "https://open.spotify.com/artist/5LICWu7uFLkdJVcEiTnRBX"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158335,
+      "name": "Bad Decisions",
+      "url": "https://open.spotify.com/track/3X0JZPRmG9lfR4NUlX49jL"
+    },
+    {
+      "album": {
         "name": "Bad Posture",
         "url": "https://open.spotify.com/album/2uA638e2EeOviOr7ZZ15Zi"
       },
@@ -3737,6 +3755,24 @@
     },
     {
       "album": {
+        "name": "Lighter",
+        "url": "https://open.spotify.com/album/33xPs7wlbzfrw5blbL63Ez"
+      },
+      "artists": [
+        {
+          "name": "Jay Webb",
+          "url": "https://open.spotify.com/artist/74a1KhMBkw4iweAtpbjuHk"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133877,
+      "name": "Lighter",
+      "url": "https://open.spotify.com/track/2gbS682ibVEMXlzRdC1rT2"
+    },
+    {
+      "album": {
         "name": "london (with Cam)",
         "url": "https://open.spotify.com/album/41rhdJBIvsm2mb7RSPIo3K"
       },
@@ -6130,6 +6166,24 @@
       "duration_ms": 189049,
       "name": "Welcome to the Club",
       "url": "https://open.spotify.com/track/4hhDTWA9dgmnPft1SDq26V"
+    },
+    {
+      "album": {
+        "name": "What Goes Around Comes Around",
+        "url": "https://open.spotify.com/album/1In7ivLqLjKBVPPAbj5g8r"
+      },
+      "artists": [
+        {
+          "name": "El Ray",
+          "url": "https://open.spotify.com/artist/32pa3a2Tu9C4TmrAtN6cyO"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177777,
+      "name": "What Goes Around Comes Around",
+      "url": "https://open.spotify.com/track/2qNSWj0RK7vcWBy7bBQKjR"
     },
     {
       "album": {

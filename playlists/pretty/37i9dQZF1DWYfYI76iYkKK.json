@@ -1,12 +1,12 @@
 {
   "description": "\u5230\u4e86\u9031\u672b\uff0c\u4f60\u61c9\u8a72\u8a66\u8457\u628a\u67d4\u8edf\u7684\u611f\u89ba\u627e\u56de\u4f86\uff0c\u5c0f\u61a9\u4e00\u4e0b\u3001\u5c0f\u8d70\u4e00\u6bb5\u3001\u5c0f\u914c\u4e00\u676f\u6216\u5c0f\u54ed\u4e00\u5834\u3002",
-  "num_followers": 119600,
+  "num_followers": 119629,
   "original_name": "\u9031\u672b\u6e05\u807d",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4MTVhNTY1MTE4OGJhYzliM2RkYzVlZWZiNzY5ODBjMjZiMzkxOGNk",
+  "snapshot_id": "MCw3N2YyM2FhYWRmNTc5ODBlM2Y3YWU5MGU2YzIyZjIwZjRiNTNkODc4",
   "tracks": [
     {
       "added_at": "2023-05-18 16:00:00",
@@ -203,22 +203,6 @@
     {
       "added_at": "2023-05-18 16:00:00",
       "album": {
-        "name": "DEPART",
-        "url": "https://open.spotify.com/album/14irQNOtPlopyjODP2SH8R"
-      },
-      "artists": [
-        {
-          "name": "Tanya Chua",
-          "url": "https://open.spotify.com/artist/376pcuw4IgWBMOUwCr8kIm"
-        }
-      ],
-      "duration_ms": 250898,
-      "name": "\u8ba9\u6d6a\u6f2b\u4f5c\u4e3b",
-      "url": "https://open.spotify.com/track/4AJWlnFYUgSi153Sb52u3X"
-    },
-    {
-      "added_at": "2023-05-18 16:00:00",
-      "album": {
         "name": "9522",
         "url": "https://open.spotify.com/album/3B7O6oexiw9IFi3OAsWerb"
       },
@@ -231,6 +215,22 @@
       "duration_ms": 235716,
       "name": "\u6700\u597d\u7684\u6642\u5149",
       "url": "https://open.spotify.com/track/0eFRk9wgFPxg6iXhDjvGAo"
+    },
+    {
+      "added_at": "2023-05-18 16:00:00",
+      "album": {
+        "name": "DEPART",
+        "url": "https://open.spotify.com/album/14irQNOtPlopyjODP2SH8R"
+      },
+      "artists": [
+        {
+          "name": "Tanya Chua",
+          "url": "https://open.spotify.com/artist/376pcuw4IgWBMOUwCr8kIm"
+        }
+      ],
+      "duration_ms": 250898,
+      "name": "\u8ba9\u6d6a\u6f2b\u4f5c\u4e3b",
+      "url": "https://open.spotify.com/track/4AJWlnFYUgSi153Sb52u3X"
     },
     {
       "added_at": "2023-05-18 16:00:00",
@@ -383,22 +383,6 @@
     {
       "added_at": "2023-05-18 16:00:00",
       "album": {
-        "name": "\u8b0e\u4e4b\u97f3",
-        "url": "https://open.spotify.com/album/2TIXF4ADwIn1t97SLCrXUp"
-      },
-      "artists": [
-        {
-          "name": "Pets Tseng",
-          "url": "https://open.spotify.com/artist/1he19XnDUahODrmRwKlC8w"
-        }
-      ],
-      "duration_ms": 301666,
-      "name": "\u600e\u9ebc\u80fd\u9019\u6a23",
-      "url": "https://open.spotify.com/track/0hwJHGEiIg3V37fR1PJa5f"
-    },
-    {
-      "added_at": "2023-05-18 16:00:00",
-      "album": {
         "name": "\u7121\u4eba\u77e5\u66c9",
         "url": "https://open.spotify.com/album/6bCnbjqqRgcPCpJwcnoLju"
       },
@@ -411,6 +395,22 @@
       "duration_ms": 277800,
       "name": "\u61f8\u65e5",
       "url": "https://open.spotify.com/track/6zbBfKc4ghXAGtzuXAQptf"
+    },
+    {
+      "added_at": "2023-05-18 16:00:00",
+      "album": {
+        "name": "\u8b0e\u4e4b\u97f3",
+        "url": "https://open.spotify.com/album/2TIXF4ADwIn1t97SLCrXUp"
+      },
+      "artists": [
+        {
+          "name": "Pets Tseng",
+          "url": "https://open.spotify.com/artist/1he19XnDUahODrmRwKlC8w"
+        }
+      ],
+      "duration_ms": 301666,
+      "name": "\u600e\u9ebc\u80fd\u9019\u6a23",
+      "url": "https://open.spotify.com/track/0hwJHGEiIg3V37fR1PJa5f"
     },
     {
       "added_at": "2023-05-18 16:00:00",
@@ -431,22 +431,6 @@
     {
       "added_at": "2023-05-18 16:00:00",
       "album": {
-        "name": "\u76f8\u53cd\u7684\u662f",
-        "url": "https://open.spotify.com/album/69yaUTVnjoxtsP7vTXqKxw"
-      },
-      "artists": [
-        {
-          "name": "Jess Lee",
-          "url": "https://open.spotify.com/artist/02Cz717BTulFiQXUuIXH6n"
-        }
-      ],
-      "duration_ms": 247324,
-      "name": "\u597d\u5f37",
-      "url": "https://open.spotify.com/track/4JFZsWTrCwk45XbRioOYiC"
-    },
-    {
-      "added_at": "2023-05-18 16:00:00",
-      "album": {
         "name": "If Only...",
         "url": "https://open.spotify.com/album/2PflyuQL0apWi1Mz079F4Y"
       },
@@ -459,6 +443,22 @@
       "duration_ms": 187369,
       "name": "If Only...",
       "url": "https://open.spotify.com/track/79rFtrqN1JHoZDAnBJ6TwJ"
+    },
+    {
+      "added_at": "2023-05-18 16:00:00",
+      "album": {
+        "name": "\u76f8\u53cd\u7684\u662f",
+        "url": "https://open.spotify.com/album/69yaUTVnjoxtsP7vTXqKxw"
+      },
+      "artists": [
+        {
+          "name": "Jess Lee",
+          "url": "https://open.spotify.com/artist/02Cz717BTulFiQXUuIXH6n"
+        }
+      ],
+      "duration_ms": 247324,
+      "name": "\u597d\u5f37",
+      "url": "https://open.spotify.com/track/4JFZsWTrCwk45XbRioOYiC"
     },
     {
       "added_at": "2023-05-18 16:00:00",
@@ -479,22 +479,6 @@
     {
       "added_at": "2023-05-18 16:00:00",
       "album": {
-        "name": "\u6211\u559c\u6b61\u4f60 (Acoustic Version)",
-        "url": "https://open.spotify.com/album/5EY6xMTqPg3hXvL7BYTkbI"
-      },
-      "artists": [
-        {
-          "name": "Anni Hung",
-          "url": "https://open.spotify.com/artist/3ZlBKjbfPWDT0RUWTpWzwv"
-        }
-      ],
-      "duration_ms": 212727,
-      "name": "\u6211\u559c\u6b61\u4f60 - Acoustic Version",
-      "url": "https://open.spotify.com/track/7DWvcbGGWWtk0edvck09X3"
-    },
-    {
-      "added_at": "2023-05-18 16:00:00",
-      "album": {
         "name": "\u60b2\u50b7\u7684\u4e94\u500b\u6b65\u9a5f (Live Session)",
         "url": "https://open.spotify.com/album/2ABskKleNsgFb5qk7IXioh"
       },
@@ -507,6 +491,22 @@
       "duration_ms": 189190,
       "name": "\u60b2\u50b7\u7684\u4e94\u500b\u6b65\u9a5f - Live Session",
       "url": "https://open.spotify.com/track/5fwxL5EIOUXWUfxvNX3s1I"
+    },
+    {
+      "added_at": "2023-05-18 16:00:00",
+      "album": {
+        "name": "\u6211\u559c\u6b61\u4f60 (Acoustic Version)",
+        "url": "https://open.spotify.com/album/5EY6xMTqPg3hXvL7BYTkbI"
+      },
+      "artists": [
+        {
+          "name": "Anni Hung",
+          "url": "https://open.spotify.com/artist/3ZlBKjbfPWDT0RUWTpWzwv"
+        }
+      ],
+      "duration_ms": 212727,
+      "name": "\u6211\u559c\u6b61\u4f60 - Acoustic Version",
+      "url": "https://open.spotify.com/track/7DWvcbGGWWtk0edvck09X3"
     },
     {
       "added_at": "2023-05-18 16:00:00",
@@ -607,6 +607,22 @@
     {
       "added_at": "2023-05-18 16:00:00",
       "album": {
+        "name": "\u84cb\u4e16\u82f1\u96c4",
+        "url": "https://open.spotify.com/album/34D46J9tIGCqAj3FeiEA9O"
+      },
+      "artists": [
+        {
+          "name": "Leehom Wang",
+          "url": "https://open.spotify.com/artist/2F5W6Rsxwzg0plQ0w8dSyt"
+        }
+      ],
+      "duration_ms": 286733,
+      "name": "\u7b2c\u4e00\u500b\u6e05\u6668",
+      "url": "https://open.spotify.com/track/4ugY7kSA3vbhvE6YrgDv28"
+    },
+    {
+      "added_at": "2023-05-18 16:00:00",
+      "album": {
         "name": "\u85cf\u8457\u4e26\u4e0d\u7b49\u65bc\u907a\u5fd8",
         "url": "https://open.spotify.com/album/6zgR5qC7jnvqYWeSEvHHov"
       },
@@ -635,22 +651,6 @@
       "duration_ms": 270600,
       "name": "\u7686\u53ef",
       "url": "https://open.spotify.com/track/5tU8tlGuxmCjNdl5eP9oGR"
-    },
-    {
-      "added_at": "2023-05-18 16:00:00",
-      "album": {
-        "name": "\u84cb\u4e16\u82f1\u96c4",
-        "url": "https://open.spotify.com/album/34D46J9tIGCqAj3FeiEA9O"
-      },
-      "artists": [
-        {
-          "name": "Leehom Wang",
-          "url": "https://open.spotify.com/artist/2F5W6Rsxwzg0plQ0w8dSyt"
-        }
-      ],
-      "duration_ms": 286733,
-      "name": "\u7b2c\u4e00\u500b\u6e05\u6668",
-      "url": "https://open.spotify.com/track/4ugY7kSA3vbhvE6YrgDv28"
     },
     {
       "added_at": "2023-05-18 16:00:00",
@@ -703,18 +703,18 @@
     {
       "added_at": "2023-05-18 16:00:00",
       "album": {
-        "name": "\u85cf\u8457\u4e26\u4e0d\u7b49\u65bc\u907a\u5fd8",
-        "url": "https://open.spotify.com/album/6zgR5qC7jnvqYWeSEvHHov"
+        "name": "\u88dd\u5e40",
+        "url": "https://open.spotify.com/album/04MOm8UeP2JhqiX2rsb4T6"
       },
       "artists": [
         {
-          "name": "Waa Wei",
-          "url": "https://open.spotify.com/artist/190bkHbFrRvEhcB7Zpuv3y"
+          "name": "Crispy\u8106\u6a02\u5718",
+          "url": "https://open.spotify.com/artist/5AO5nzx14PfLNfVgYVd0rw"
         }
       ],
-      "duration_ms": 222266,
-      "name": "\u7aca\u7b11",
-      "url": "https://open.spotify.com/track/6MLSFfBeiNWxyxjFrBbWom"
+      "duration_ms": 245000,
+      "name": "\u88dd\u5e40",
+      "url": "https://open.spotify.com/track/2BipFnJx3ko5aRiQ7ESASa"
     },
     {
       "added_at": "2023-05-18 16:00:00",
@@ -735,38 +735,6 @@
     {
       "added_at": "2023-05-18 16:00:00",
       "album": {
-        "name": "\u88dd\u5e40",
-        "url": "https://open.spotify.com/album/04MOm8UeP2JhqiX2rsb4T6"
-      },
-      "artists": [
-        {
-          "name": "Crispy\u8106\u6a02\u5718",
-          "url": "https://open.spotify.com/artist/5AO5nzx14PfLNfVgYVd0rw"
-        }
-      ],
-      "duration_ms": 245000,
-      "name": "\u88dd\u5e40",
-      "url": "https://open.spotify.com/track/2BipFnJx3ko5aRiQ7ESASa"
-    },
-    {
-      "added_at": "2023-05-18 16:00:00",
-      "album": {
-        "name": "\u4f60\u7761\u4e86\u4e4b\u5f8c (The Way I Miss You)",
-        "url": "https://open.spotify.com/album/5iQnFeX0mp0sBrJleZprYj"
-      },
-      "artists": [
-        {
-          "name": "\u5442\u5141",
-          "url": "https://open.spotify.com/artist/0IOTVYHqENzrhSgJQmIkE9"
-        }
-      ],
-      "duration_ms": 250986,
-      "name": "\u4f60\u7761\u4e86\u4e4b\u5f8c (The Way I Miss You)",
-      "url": "https://open.spotify.com/track/7lXB4LaB1PlxvuWZqHn87u"
-    },
-    {
-      "added_at": "2023-05-18 16:00:00",
-      "album": {
         "name": "\u7d66\u5929\u738b\u661f",
         "url": "https://open.spotify.com/album/4mrjsYBHIsDiYzHrYdxNfY"
       },
@@ -783,6 +751,22 @@
     {
       "added_at": "2023-05-18 16:00:00",
       "album": {
+        "name": "\u85cf\u8457\u4e26\u4e0d\u7b49\u65bc\u907a\u5fd8",
+        "url": "https://open.spotify.com/album/6zgR5qC7jnvqYWeSEvHHov"
+      },
+      "artists": [
+        {
+          "name": "Waa Wei",
+          "url": "https://open.spotify.com/artist/190bkHbFrRvEhcB7Zpuv3y"
+        }
+      ],
+      "duration_ms": 222266,
+      "name": "\u7aca\u7b11",
+      "url": "https://open.spotify.com/track/6MLSFfBeiNWxyxjFrBbWom"
+    },
+    {
+      "added_at": "2023-05-18 16:00:00",
+      "album": {
         "name": "\u504f\u504f\u6211\u537b\u90fd\u8a18\u5f97",
         "url": "https://open.spotify.com/album/0Q0O0kpGV394flFNTvdfJ5"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 287010,
       "name": "\u6211\u591a\u60f3\u8b8a\u6210\u5979",
       "url": "https://open.spotify.com/track/5yD4MF6VJWYkcyA2EzwVhz"
+    },
+    {
+      "added_at": "2023-05-18 16:00:00",
+      "album": {
+        "name": "\u4f60\u7761\u4e86\u4e4b\u5f8c (The Way I Miss You)",
+        "url": "https://open.spotify.com/album/5iQnFeX0mp0sBrJleZprYj"
+      },
+      "artists": [
+        {
+          "name": "\u5442\u5141",
+          "url": "https://open.spotify.com/artist/0IOTVYHqENzrhSgJQmIkE9"
+        }
+      ],
+      "duration_ms": 250986,
+      "name": "\u4f60\u7761\u4e86\u4e4b\u5f8c (The Way I Miss You)",
+      "url": "https://open.spotify.com/track/7lXB4LaB1PlxvuWZqHn87u"
     },
     {
       "added_at": "2023-05-18 16:00:00",

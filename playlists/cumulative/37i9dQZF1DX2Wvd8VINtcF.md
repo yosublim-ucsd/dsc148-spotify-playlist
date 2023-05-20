@@ -4,7 +4,7 @@
 
 > the pearls of an oyster.
 
-562 songs - 1 day 7 hr 6 min
+563 songs - 1 day 7 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -343,6 +343,7 @@
 | [New Gold \(feat\. Tame Impala and Bootie Brown\)](https://open.spotify.com/track/64dLd6rVqDLtkXFYrEUHIU) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ), [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb), [Bootie Brown](https://open.spotify.com/artist/6GI3CJjT2bOnMfprCpjT1d) | [New Gold \(feat\. Tame Impala and Bootie Brown\)](https://open.spotify.com/album/4V9YFKLqZ5h8nQFTvDQscC) | 3:35 | 2022-10-28 | 2023-01-27 |
 | [New Light](https://open.spotify.com/track/0NVtJfkrbgzT7yRZUhmnkd) | [Varas](https://open.spotify.com/artist/7cqV19335f0Yhf76d76D8I) | [New Light](https://open.spotify.com/album/5YUbjgU5aKndFo4wIcT5rn) | 3:19 | 2022-12-15 | 2023-01-27 |
 | [New Real](https://open.spotify.com/track/0d0kG1qxZDro1Em0xbBz6D) | [sonic girl](https://open.spotify.com/artist/31vO4IuGYTlzTeEPIVw8TR) | [New Real](https://open.spotify.com/album/4tAyOErv55UGNVIpRIldsD) | 3:01 | 2023-03-09 | 2023-03-18 |
+| [New Type \(feat\. Childish Gambino\)](https://open.spotify.com/track/35PofXWEoF8DnGTA1SIuyJ) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS), [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL) | [CLEAR 2: SOFT LIFE EP](https://open.spotify.com/album/034Q9kY3buGcizT3Xpj9Re) | 4:25 | 2023-05-18 |  |
 | [Night Light](https://open.spotify.com/track/7Ia03G8qjfSa8fAoCwGRn6) | [yunè pinku](https://open.spotify.com/artist/2sY4BbYrbvNVgsNzo6HddD) | [Night Light](https://open.spotify.com/album/1CGSJpxIUacGXWfQELzqjJ) | 3:40 | 2023-02-02 | 2023-02-17 |
 | [Nightbird](https://open.spotify.com/track/0CADZTEOUaMw9bHnKB59Ts) | [DJ Snake](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4) | [Nightbird](https://open.spotify.com/album/2uZGmZtHVVcUNWzsNDdfUx) | 2:36 | 2022-11-03 | 2022-12-09 |
 | [No Good Without You](https://open.spotify.com/track/6cENNSm31HhBNFKiZ284EH) | [Jack Garratt](https://open.spotify.com/artist/1Zp054Jc86WVKCxKEqZGOA) | [No Good Without You](https://open.spotify.com/album/3wz1U9BwFJZ9BaCPOxutwb) | 2:45 | 2023-01-26 | 2023-02-17 |
@@ -403,7 +404,7 @@
 | [Real Recognize Real](https://open.spotify.com/track/61EyJs0Pewkf9Cv6XvEiZO) | [Venus Anon](https://open.spotify.com/artist/7ku2IztgbUo8QcB87vKqRg) | [Real Recognize Real](https://open.spotify.com/album/3H05T2NegnVKVhCn8bXu7D) | 3:27 | 2023-03-09 | 2023-05-12 |
 | [Real Spring](https://open.spotify.com/track/4xxOx87AD6mBqU3TsuRfg3) | [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Bladee](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1) | [Real Spring](https://open.spotify.com/album/2ca6O7zmxeX5eqSNZPDdzJ) | 2:09 | 2023-01-26 | 2023-04-07 |
 | [realistic](https://open.spotify.com/track/4jSQEWDlHLrYEs8iDPb7qc) | [corook](https://open.spotify.com/artist/1rNVlQNJSIESCd5mixdqMt) | [realistic](https://open.spotify.com/album/6AT3vx5geFUXbuo89ZJcfW) | 3:33 | 2022-11-24 | 2022-12-24 |
-| [Rebuke](https://open.spotify.com/track/4XE1StBll9KcNa8nHa3nXG) | [KAYTRAMINÉ](https://open.spotify.com/artist/5oifjQw72WO7Jut07fVWMy), [Aminé](https://open.spotify.com/artist/3Gm5F95VdRxW3mqCn8RPBJ), [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu) | [Rebuke](https://open.spotify.com/album/4dWpQRkca47a9fA7W78rY3) | 2:03 | 2023-05-18 |  |
+| [Rebuke](https://open.spotify.com/track/4XE1StBll9KcNa8nHa3nXG) | [KAYTRAMINÉ](https://open.spotify.com/artist/5oifjQw72WO7Jut07fVWMy), [Aminé](https://open.spotify.com/artist/3Gm5F95VdRxW3mqCn8RPBJ), [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu) | [Rebuke](https://open.spotify.com/album/4dWpQRkca47a9fA7W78rY3) | 1:58 | 2023-05-18 |  |
 | [reckless](https://open.spotify.com/track/16i6Wq0Qyisxh9YBS68hp9) | [Meum Zel](https://open.spotify.com/artist/3iurmBfYVgYN6N9LL25Bmr) | [Beauty Full](https://open.spotify.com/album/3CpIY5hIjmN1xOdm7jpoF5) | 2:39 | 2023-03-17 | 2023-03-25 |
 | [Reckless & Sweet](https://open.spotify.com/track/0YF4MF77Kw8CMkZkfDFtlj) | [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS) | [Reckless & Sweet](https://open.spotify.com/album/61txqqf1NJIql5AnkSNdNz) | 2:39 | 2023-03-17 | 2023-05-12 |
 | [Reelin'](https://open.spotify.com/track/6PbIRZxg5wqwqngBSXsP0y) | [Matt Corby](https://open.spotify.com/artist/7CIW23FQUXPc1zebnO1TDG) | [Reelin'](https://open.spotify.com/album/03Mo7DOvoSR7GUcLE0w52C) | 3:28 | 2023-01-27 | 2023-04-07 |

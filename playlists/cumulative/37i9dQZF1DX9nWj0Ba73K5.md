@@ -4,7 +4,7 @@
 
 > Featuring the 'Noteable' songwriters who create your favorite songs\. Cover: Jordyn Shellhart
 
-234 songs - 13 hr 35 min
+236 songs - 13 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,6 +39,7 @@
 | [Cop Car](https://open.spotify.com/track/7LJOfS8evyKfP8Fl5rdZXw) | [Sam Hunt](https://open.spotify.com/artist/2kucQ9jQwuD8jWdtR9Ef38) | [Montevallo](https://open.spotify.com/album/0V7c0hnrLUFJyHNtjiAT2E) | 4:13 | 2022-02-28 |  |
 | [Craig](https://open.spotify.com/track/6YmWSu43kuuKGoYYgHrb1r) | [Walker Hayes](https://open.spotify.com/artist/7sKxqpSqbIzphAKAhrqvlf) | [boom.](https://open.spotify.com/album/1MS0Fqde1LdgYnoxiUgLHe) | 3:10 | 2022-02-28 |  |
 | [Crowded Table](https://open.spotify.com/track/5HuaHij4kVpfEVv93MYCeW) | [The Highwomen](https://open.spotify.com/artist/3iyG1duuxWpcuWa57VSeZ0), [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej), [Natalie Hemby](https://open.spotify.com/artist/32opPqLCT3sF24Aso7wTXw), [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI), [Amanda Shires](https://open.spotify.com/artist/5yN0nwLpUCaZ2gr67bndCN) | [The Highwomen](https://open.spotify.com/album/7sGTt1N5XMIQPCYHAnO1Pl) | 3:29 | 2022-01-01 |  |
+| [Dear Insecurity \(feat\. Brandi Carlile\)](https://open.spotify.com/track/73pCLjhGOv4J7IpAPj4D84) | [Brandy Clark](https://open.spotify.com/artist/5vMAKlvvMNSRQRYCAvpG6S), [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [Brandy Clark](https://open.spotify.com/album/6O2KuP5ggSI341L4yufEhg) | 4:36 | 2023-05-19 |  |
 | [Deciding Who to Be](https://open.spotify.com/track/4RLc5qTQTrraUBOUGYRqfx) | [Brinley Addington](https://open.spotify.com/artist/612uTeOHnxzxgaaYCj3Qmb) | [Deciding Who to Be](https://open.spotify.com/album/3W73Hea7h4JxaM39Y9gJfe) | 3:16 | 2022-02-28 |  |
 | [Deeper Than The Holler](https://open.spotify.com/track/0XJJs5CnaQ0mKyFea5s1F0) | [Don Schlitz](https://open.spotify.com/artist/4qsw90Ipm5SbFLFQZ4tvLr) | [Mountaintop](https://open.spotify.com/album/31WOBFBlfjF7qjW3uURoT6) | 3:32 | 2022-01-01 |  |
 | [Diamond Rings and Old Barstools](https://open.spotify.com/track/14ZolByRHEVshRFROsU83q) | [Luke Laird](https://open.spotify.com/artist/68TC0JwoMubeom8X4c7UVI), [Lori McKenna](https://open.spotify.com/artist/1OV5mEATxtVma7fleFaUyl), [Barry Dean](https://open.spotify.com/artist/2W5Gkx39A9UfkcBydnjqd7) | [Diamond Rings and Old Barstools](https://open.spotify.com/album/4hjM7kfH0SloPU8Qdhxui6) | 2:45 | 2023-02-24 |  |
@@ -124,6 +125,7 @@
 | [Lonely Side of Town](https://open.spotify.com/track/0Z0rkYiQUVrt5ZratxTHP6) | [Marla Cannon\-Goodman](https://open.spotify.com/artist/74uAZmRdVsXyRNOPAS2Zxj) | [Perfect Imperfections](https://open.spotify.com/album/2JOhuGsvdV1Xkwpv4yWuxp) | 3:00 | 2022-01-01 |  |
 | [Loud House](https://open.spotify.com/track/7htVJ5wxCPkXT6U8X7X0nv) | [Madison Kozak](https://open.spotify.com/artist/3UsRi9YafI0zUTd0OR8VSJ) | [Loud House](https://open.spotify.com/album/7jBhlxv61IXDZa0QjWfdx1) | 3:24 | 2022-08-05 |  |
 | [Love Again](https://open.spotify.com/track/6iUloUfQZyNj8v6qclDuKT) | [Fancy Hagood](https://open.spotify.com/artist/1klmpKnfBdJkVqr94BnuOF) | [Southern Curiosity](https://open.spotify.com/album/2VamwwkO7Y0ECHwyNvEIFr) | 4:07 | 2022-01-01 |  |
+| [Maybe Someday You’ll Have A Daughter](https://open.spotify.com/track/5aAxEw0OECrXeGQqcyPxNV) | [Jordyn Shellhart](https://open.spotify.com/artist/4KKlcB7shlFTD98I5JNSuE) | [Primrose](https://open.spotify.com/album/651HDTxsDlfqeeK7oHWXum) | 3:28 | 2023-05-19 |  |
 | [Mississippi You're On My Mind](https://open.spotify.com/track/7icWxaCLDCsp92vubx8FaM) | [Mac McAnally](https://open.spotify.com/artist/2dSu4iBQikoVlBc43gwaHY) | [AKA Nobody](https://open.spotify.com/album/0WfNRbv8QsT9LMLvi3d5hP) | 3:21 | 2022-01-01 |  |
 | [Money on You](https://open.spotify.com/track/5Ve2gI5W6UBhgtA6iceg3v) | [Jason Nix](https://open.spotify.com/artist/168GW0NjbTxHxlDnY4B798) | [Money on You \- EP](https://open.spotify.com/album/4St7iaXEzZFuADDeMd24Co) | 2:48 | 2022-01-01 |  |
 | [Music Row](https://open.spotify.com/track/0GYSFah63urCNHTnfFyV57) | [Luke Laird](https://open.spotify.com/artist/68TC0JwoMubeom8X4c7UVI) | [Music Row](https://open.spotify.com/album/5aWz2wmH9Hb0vklmrBrnVw) | 4:44 | 2022-01-01 |  |

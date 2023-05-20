@@ -1,12 +1,12 @@
 {
   "description": "A deep electronic and organic sound, inspired by the folk music of Africa, Latin America and the Middle East.",
-  "num_followers": 712195,
+  "num_followers": 712471,
   "original_name": "Org\u00e1nica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyOGE1Y2ZlYWY2ZjhmODBiZjljZTlkODUyMGY1YjgxMzA0ZGI3NDMw",
+  "snapshot_id": "MCw4YmUxMGFmNjgwY2M2N2JlZDhkNDlkYmNkMDA3NWM0MzJiYWYyMGY5",
   "tracks": [
     {
       "added_at": "2023-04-20 22:01:00",
@@ -547,6 +547,22 @@
     {
       "added_at": "2023-04-20 22:01:00",
       "album": {
+        "name": "Ancestry",
+        "url": "https://open.spotify.com/album/6oMwy9QzP1FzbKhR6BWABP"
+      },
+      "artists": [
+        {
+          "name": "Mux",
+          "url": "https://open.spotify.com/artist/0nqq006Uo7RuKoKdmLAOkE"
+        }
+      ],
+      "duration_ms": 294661,
+      "name": "El Dolor",
+      "url": "https://open.spotify.com/track/5cm8VSk6Iqkp8F1cB2S0Iu"
+    },
+    {
+      "added_at": "2023-04-20 22:01:00",
+      "album": {
         "name": "Chaghaf",
         "url": "https://open.spotify.com/album/0nNXlfoPUjAvvlqvbi3qDB"
       },
@@ -563,22 +579,6 @@
       "duration_ms": 427000,
       "name": "Chaghaf",
       "url": "https://open.spotify.com/track/4fa6c1O01U9UEodp1Bj22A"
-    },
-    {
-      "added_at": "2023-04-20 22:01:00",
-      "album": {
-        "name": "Ancestry",
-        "url": "https://open.spotify.com/album/6oMwy9QzP1FzbKhR6BWABP"
-      },
-      "artists": [
-        {
-          "name": "Mux",
-          "url": "https://open.spotify.com/artist/0nqq006Uo7RuKoKdmLAOkE"
-        }
-      ],
-      "duration_ms": 294661,
-      "name": "El Dolor",
-      "url": "https://open.spotify.com/track/5cm8VSk6Iqkp8F1cB2S0Iu"
     },
     {
       "added_at": "2023-04-20 22:01:00",
@@ -603,26 +603,6 @@
     {
       "added_at": "2023-04-20 22:01:00",
       "album": {
-        "name": "Nterini (Sparrow & Barbossa Remix)",
-        "url": "https://open.spotify.com/album/3WdD0er2Bbwk3xy6hUnVNm"
-      },
-      "artists": [
-        {
-          "name": "Fatoumata Diawara",
-          "url": "https://open.spotify.com/artist/4G5ZJny3HvX6Il7eHVfnNC"
-        },
-        {
-          "name": "Sparrow & Barbossa",
-          "url": "https://open.spotify.com/artist/3c1sTwL4HuWkrciiKHpnmx"
-        }
-      ],
-      "duration_ms": 363765,
-      "name": "Nterini - Sparrow & Barbossa Remix",
-      "url": "https://open.spotify.com/track/6ZD6KxJrALrxyx0E01Rkgf"
-    },
-    {
-      "added_at": "2023-04-20 22:01:00",
-      "album": {
         "name": "Seymour",
         "url": "https://open.spotify.com/album/2EkkCltldcB3bHm4V9PlmO"
       },
@@ -639,6 +619,26 @@
       "duration_ms": 327750,
       "name": "Seymour",
       "url": "https://open.spotify.com/track/6DfvHDSDHyV9xMJznbq0uv"
+    },
+    {
+      "added_at": "2023-04-20 22:01:00",
+      "album": {
+        "name": "Nterini (Sparrow & Barbossa Remix)",
+        "url": "https://open.spotify.com/album/3WdD0er2Bbwk3xy6hUnVNm"
+      },
+      "artists": [
+        {
+          "name": "Fatoumata Diawara",
+          "url": "https://open.spotify.com/artist/4G5ZJny3HvX6Il7eHVfnNC"
+        },
+        {
+          "name": "Sparrow & Barbossa",
+          "url": "https://open.spotify.com/artist/3c1sTwL4HuWkrciiKHpnmx"
+        }
+      ],
+      "duration_ms": 363765,
+      "name": "Nterini - Sparrow & Barbossa Remix",
+      "url": "https://open.spotify.com/track/6ZD6KxJrALrxyx0E01Rkgf"
     },
     {
       "added_at": "2023-04-20 22:01:00",
@@ -707,6 +707,22 @@
     {
       "added_at": "2023-04-20 22:01:00",
       "album": {
+        "name": "Ay vora",
+        "url": "https://open.spotify.com/album/4qpPzg1NDlN4JZQQh9HtWB"
+      },
+      "artists": [
+        {
+          "name": "Essex",
+          "url": "https://open.spotify.com/artist/4EWhkFsBgnPWEf3BtZ5ECG"
+        }
+      ],
+      "duration_ms": 273142,
+      "name": "Ay vora",
+      "url": "https://open.spotify.com/track/5dk7V45cYJ73eFeBJst2c3"
+    },
+    {
+      "added_at": "2023-04-20 22:01:00",
+      "album": {
         "name": "Alongside",
         "url": "https://open.spotify.com/album/6uCN30Zwc6nqxczXVcNQ36"
       },
@@ -723,22 +739,6 @@
       "duration_ms": 410000,
       "name": "Alongside - Omeria & NU Edit",
       "url": "https://open.spotify.com/track/2lAZJjUyFklZXQK5vDjzbp"
-    },
-    {
-      "added_at": "2023-04-20 22:01:00",
-      "album": {
-        "name": "Ay vora",
-        "url": "https://open.spotify.com/album/4qpPzg1NDlN4JZQQh9HtWB"
-      },
-      "artists": [
-        {
-          "name": "Essex",
-          "url": "https://open.spotify.com/artist/4EWhkFsBgnPWEf3BtZ5ECG"
-        }
-      ],
-      "duration_ms": 273142,
-      "name": "Ay vora",
-      "url": "https://open.spotify.com/track/5dk7V45cYJ73eFeBJst2c3"
     },
     {
       "added_at": "2023-04-20 22:01:00",
@@ -779,6 +779,22 @@
     {
       "added_at": "2023-04-20 22:01:00",
       "album": {
+        "name": "Bosque",
+        "url": "https://open.spotify.com/album/4HROnq4ngJRmaEfRX5YkRt"
+      },
+      "artists": [
+        {
+          "name": "Bosquemar",
+          "url": "https://open.spotify.com/artist/6GG1iBZgzl6OlPpfY7hyPY"
+        }
+      ],
+      "duration_ms": 393428,
+      "name": "Bosque",
+      "url": "https://open.spotify.com/track/48lLbEReLswTVWsZYhhPks"
+    },
+    {
+      "added_at": "2023-04-20 22:01:00",
+      "album": {
         "name": "The Deep South",
         "url": "https://open.spotify.com/album/20G0qgscNeMWWrmmYbHfBY"
       },
@@ -795,22 +811,6 @@
       "duration_ms": 383775,
       "name": "Pastorcita",
       "url": "https://open.spotify.com/track/3Y3inhZXBQ1KPfhWYYeuR3"
-    },
-    {
-      "added_at": "2023-04-20 22:01:00",
-      "album": {
-        "name": "Bosque",
-        "url": "https://open.spotify.com/album/4HROnq4ngJRmaEfRX5YkRt"
-      },
-      "artists": [
-        {
-          "name": "Bosquemar",
-          "url": "https://open.spotify.com/artist/6GG1iBZgzl6OlPpfY7hyPY"
-        }
-      ],
-      "duration_ms": 393428,
-      "name": "Bosque",
-      "url": "https://open.spotify.com/track/48lLbEReLswTVWsZYhhPks"
     },
     {
       "added_at": "2023-04-20 22:01:00",
@@ -851,22 +851,6 @@
     {
       "added_at": "2023-04-20 22:01:00",
       "album": {
-        "name": "RAI",
-        "url": "https://open.spotify.com/album/3ydSWrutw1Q9JMXkTnFBUW"
-      },
-      "artists": [
-        {
-          "name": "Sound Quelle",
-          "url": "https://open.spotify.com/artist/5mdTuNl23tON1WlsVbvD18"
-        }
-      ],
-      "duration_ms": 238168,
-      "name": "RAI",
-      "url": "https://open.spotify.com/track/2aEugZjPLE6nDImluCkcS1"
-    },
-    {
-      "added_at": "2023-04-20 22:01:00",
-      "album": {
         "name": "Neko Ep",
         "url": "https://open.spotify.com/album/20zyai0WVnlgekJeAeeEip"
       },
@@ -883,6 +867,42 @@
       "duration_ms": 273523,
       "name": "Neko (feat Kotoe)",
       "url": "https://open.spotify.com/track/2WId1YWr5MC60ShUrE5dzl"
+    },
+    {
+      "added_at": "2023-04-20 22:01:00",
+      "album": {
+        "name": "RAI",
+        "url": "https://open.spotify.com/album/3ydSWrutw1Q9JMXkTnFBUW"
+      },
+      "artists": [
+        {
+          "name": "Sound Quelle",
+          "url": "https://open.spotify.com/artist/5mdTuNl23tON1WlsVbvD18"
+        }
+      ],
+      "duration_ms": 238168,
+      "name": "RAI",
+      "url": "https://open.spotify.com/track/2aEugZjPLE6nDImluCkcS1"
+    },
+    {
+      "added_at": "2023-04-20 22:01:00",
+      "album": {
+        "name": "Mesta",
+        "url": "https://open.spotify.com/album/5Qr3sN626ogWOB6VtefrNS"
+      },
+      "artists": [
+        {
+          "name": "Oceanvs Orientalis",
+          "url": "https://open.spotify.com/artist/3gNEIgLeknpwkNViU8WAhg"
+        },
+        {
+          "name": "Ilhan Ersahin",
+          "url": "https://open.spotify.com/artist/5aweKNLI0ZyI48q5TmoCxT"
+        }
+      ],
+      "duration_ms": 371106,
+      "name": "Mesta",
+      "url": "https://open.spotify.com/track/0qPCty2LrwBk1unrp3mRlI"
     },
     {
       "added_at": "2023-04-20 22:01:00",
@@ -935,22 +955,18 @@
     {
       "added_at": "2023-04-20 22:01:00",
       "album": {
-        "name": "Mesta",
-        "url": "https://open.spotify.com/album/5Qr3sN626ogWOB6VtefrNS"
+        "name": "Ancestors",
+        "url": "https://open.spotify.com/album/10O7aLzod3Lt16msIPAJSw"
       },
       "artists": [
         {
-          "name": "Oceanvs Orientalis",
-          "url": "https://open.spotify.com/artist/3gNEIgLeknpwkNViU8WAhg"
-        },
-        {
-          "name": "Ilhan Ersahin",
-          "url": "https://open.spotify.com/artist/5aweKNLI0ZyI48q5TmoCxT"
+          "name": "Lassjo",
+          "url": "https://open.spotify.com/artist/2g504CS5Du2Mtuffv3ALth"
         }
       ],
-      "duration_ms": 371106,
-      "name": "Mesta",
-      "url": "https://open.spotify.com/track/0qPCty2LrwBk1unrp3mRlI"
+      "duration_ms": 287518,
+      "name": "Ancestors",
+      "url": "https://open.spotify.com/track/3XxpO5L12KHHaY0BfIMuub"
     },
     {
       "added_at": "2023-04-20 22:01:00",
@@ -987,22 +1003,6 @@
       "duration_ms": 370196,
       "name": "Unsichtbar - Behrooz Zandi Remix",
       "url": "https://open.spotify.com/track/6eOmmUyJYl6RrRTT7P0M4S"
-    },
-    {
-      "added_at": "2023-04-20 22:01:00",
-      "album": {
-        "name": "Ancestors",
-        "url": "https://open.spotify.com/album/10O7aLzod3Lt16msIPAJSw"
-      },
-      "artists": [
-        {
-          "name": "Lassjo",
-          "url": "https://open.spotify.com/artist/2g504CS5Du2Mtuffv3ALth"
-        }
-      ],
-      "duration_ms": 287518,
-      "name": "Ancestors",
-      "url": "https://open.spotify.com/track/3XxpO5L12KHHaY0BfIMuub"
     },
     {
       "added_at": "2023-04-20 22:01:00",
@@ -1067,22 +1067,6 @@
     {
       "added_at": "2023-04-20 22:01:00",
       "album": {
-        "name": "Quem Sou Eu",
-        "url": "https://open.spotify.com/album/29cY1BkBQwyZEh3QlotmtL"
-      },
-      "artists": [
-        {
-          "name": "Xique-Xique",
-          "url": "https://open.spotify.com/artist/5LuhrBhGclMzHlYK4mDLLp"
-        }
-      ],
-      "duration_ms": 328912,
-      "name": "Quem Sou Eu",
-      "url": "https://open.spotify.com/track/303M6GvGo8DGx1niNv1pVS"
-    },
-    {
-      "added_at": "2023-04-20 22:01:00",
-      "album": {
         "name": "Beli",
         "url": "https://open.spotify.com/album/0EiBOtY4bFIadrgZTvAwQW"
       },
@@ -1099,6 +1083,22 @@
       "duration_ms": 367636,
       "name": "Novicani",
       "url": "https://open.spotify.com/track/6slRjclAINlQeCkqjZkJQn"
+    },
+    {
+      "added_at": "2023-04-20 22:01:00",
+      "album": {
+        "name": "Quem Sou Eu",
+        "url": "https://open.spotify.com/album/29cY1BkBQwyZEh3QlotmtL"
+      },
+      "artists": [
+        {
+          "name": "Xique-Xique",
+          "url": "https://open.spotify.com/artist/5LuhrBhGclMzHlYK4mDLLp"
+        }
+      ],
+      "duration_ms": 328912,
+      "name": "Quem Sou Eu",
+      "url": "https://open.spotify.com/track/303M6GvGo8DGx1niNv1pVS"
     },
     {
       "added_at": "2023-04-20 22:01:00",
@@ -1243,22 +1243,6 @@
     {
       "added_at": "2023-04-20 22:01:00",
       "album": {
-        "name": "Limbo EP",
-        "url": "https://open.spotify.com/album/3INuxTPDwTsRrSJVKcP22m"
-      },
-      "artists": [
-        {
-          "name": "Kermesse",
-          "url": "https://open.spotify.com/artist/6DPQIFnbvlnYf0QozkfiPw"
-        }
-      ],
-      "duration_ms": 401815,
-      "name": "Wawanko",
-      "url": "https://open.spotify.com/track/5f8vHp9Q4Uh0nhwqUEbRoW"
-    },
-    {
-      "added_at": "2023-04-20 22:01:00",
-      "album": {
         "name": "Ciclos",
         "url": "https://open.spotify.com/album/5LlS93cEkVy5VermCbVEp4"
       },
@@ -1275,22 +1259,18 @@
     {
       "added_at": "2023-04-20 22:01:00",
       "album": {
-        "name": "Mona Ki Ngi Xica (Everything Counts Remix)",
-        "url": "https://open.spotify.com/album/2SuKOpLD4bk74dJzeXQDa5"
+        "name": "Limbo EP",
+        "url": "https://open.spotify.com/album/3INuxTPDwTsRrSJVKcP22m"
       },
       "artists": [
         {
-          "name": "Bonga",
-          "url": "https://open.spotify.com/artist/0I6bdBR4Q7uoc3HI1OgI8C"
-        },
-        {
-          "name": "Everything Counts",
-          "url": "https://open.spotify.com/artist/6989AtiGTOvptl9xyAWQIG"
+          "name": "Kermesse",
+          "url": "https://open.spotify.com/artist/6DPQIFnbvlnYf0QozkfiPw"
         }
       ],
-      "duration_ms": 451375,
-      "name": "Mona Ki Ngi Xica - Everything Counts Remix",
-      "url": "https://open.spotify.com/track/0cFjfyfL6mVRb0dQn2XLBw"
+      "duration_ms": 401815,
+      "name": "Wawanko",
+      "url": "https://open.spotify.com/track/5f8vHp9Q4Uh0nhwqUEbRoW"
     },
     {
       "added_at": "2023-04-20 22:01:00",
@@ -1315,6 +1295,26 @@
       "duration_ms": 637455,
       "name": "Voodoo Guitar - Timboletti Remix",
       "url": "https://open.spotify.com/track/73dICB4SbDjpD4ShzTyLM1"
+    },
+    {
+      "added_at": "2023-04-20 22:01:00",
+      "album": {
+        "name": "Mona Ki Ngi Xica (Everything Counts Remix)",
+        "url": "https://open.spotify.com/album/2SuKOpLD4bk74dJzeXQDa5"
+      },
+      "artists": [
+        {
+          "name": "Bonga",
+          "url": "https://open.spotify.com/artist/0I6bdBR4Q7uoc3HI1OgI8C"
+        },
+        {
+          "name": "Everything Counts",
+          "url": "https://open.spotify.com/artist/6989AtiGTOvptl9xyAWQIG"
+        }
+      ],
+      "duration_ms": 451375,
+      "name": "Mona Ki Ngi Xica - Everything Counts Remix",
+      "url": "https://open.spotify.com/track/0cFjfyfL6mVRb0dQn2XLBw"
     },
     {
       "added_at": "2023-04-20 22:01:00",

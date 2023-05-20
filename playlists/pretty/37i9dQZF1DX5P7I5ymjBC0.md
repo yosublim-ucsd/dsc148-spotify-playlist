@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5P7I5ymjBC0.md) - [plain]
 
 > Where Sitar meets Guitar\. Cover \- Sona Mohapatra
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,904 likes - 50 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,934 likes - 50 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,11 +52,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5P7I5ymjBC0.md) - [plain]
 | 42 | [Ithlati](https://open.spotify.com/track/3vLVrtGbPjYJuV1qmcQkdt) | [Javed Ali](https://open.spotify.com/artist/4W91bbPB2CTSsHwt7eqNl7) | [Mann Bheetar](https://open.spotify.com/album/4lnlyIEjpXzFka1rZCXMHz) | 6:27 |
 | 43 | [Krishna Murari](https://open.spotify.com/track/7KLhtw1RFbalVdbnHM8644) | [Hrishikesh Datar](https://open.spotify.com/artist/0mn7WBfik9JJWhvQ0nHY08), [Shilpa Puntambekar](https://open.spotify.com/artist/39BPeGp96iluxeeOJB4Cho), [Savani Kulkarni](https://open.spotify.com/artist/6ryQKtRDvVIAe74nmB0m5T) | [Krishna Murari](https://open.spotify.com/album/2VZdqS2HN8jfjoiCWG0FAp) | 3:45 |
 | 44 | [Bhagirathi](https://open.spotify.com/track/1FKR1MFGHdjrIMoel4VyXc) | [Shantanu Moitra](https://open.spotify.com/artist/6hpDlOvqsnIxrPegGTWVY1), [Kaushiki Chakraborty](https://open.spotify.com/artist/4qWXi8Qj92dQOEJihdVqjI), [Ambi Subramaniam](https://open.spotify.com/artist/2sqD8w8hUsrIqYqyoxZC54) | [Songs Of The River \- Ganga](https://open.spotify.com/album/0qDnjyBlZYdC3K4eHLe7Tn) | 4:13 |
-| 45 | [Rangi Saari Gulabi Chunariya](https://open.spotify.com/track/4JBNysi2ev6akvX0JXa9db) | [Kaushiki Chakraborty](https://open.spotify.com/artist/4qWXi8Qj92dQOEJihdVqjI), [Ricky Kej](https://open.spotify.com/artist/2pG6h1xYYv5j7fuxackcfl) | [Bandish Fusion & More](https://open.spotify.com/album/2adewooNTGv4eFztnfoYAV) | 6:40 |
+| 45 | [Hans Dhuni](https://open.spotify.com/track/0PxuNctTRp08Bemc9CFL7T) | [Ustad Raees Khan](https://open.spotify.com/artist/5Obutzzc5UZP1l6t6jmjwh) | [Coke Studio Season 7](https://open.spotify.com/album/5elvcVsva6W0tlh6cq9gyv) | 3:59 |
 | 46 | [Girte Hue Boondon](https://open.spotify.com/track/7pepsLqAidcUMFfOVuKzvt) | [Gayatri Asokan](https://open.spotify.com/artist/02MAGKfMlJmL5qqXaAS2JK), [Amarabha Banerjee](https://open.spotify.com/artist/2780kFYuvbwSLPJZ5faEDw), [Purbayan Chatterjee](https://open.spotify.com/artist/7cOq32s7XaaDAgYnMp7aPW) | [Girte Hue Boondon](https://open.spotify.com/album/6zElVyLeZK14xPIhd67hgw) | 3:53 |
-| 47 | [Hans Dhuni](https://open.spotify.com/track/0PxuNctTRp08Bemc9CFL7T) | [Ustad Raees Khan](https://open.spotify.com/artist/5Obutzzc5UZP1l6t6jmjwh) | [Coke Studio Season 7](https://open.spotify.com/album/5elvcVsva6W0tlh6cq9gyv) | 3:59 |
+| 47 | [Rangi Saari Gulabi Chunariya](https://open.spotify.com/track/4JBNysi2ev6akvX0JXa9db) | [Kaushiki Chakraborty](https://open.spotify.com/artist/4qWXi8Qj92dQOEJihdVqjI), [Ricky Kej](https://open.spotify.com/artist/2pG6h1xYYv5j7fuxackcfl) | [Bandish Fusion & More](https://open.spotify.com/album/2adewooNTGv4eFztnfoYAV) | 6:40 |
 | 48 | [Bairan](https://open.spotify.com/track/3VkIejOeatDUJGq9faLncj) | [Shakir Khan](https://open.spotify.com/artist/1y8wQpxPrJamcHovxJu9UX), [Aarya Ambekar](https://open.spotify.com/artist/5eq2uN2yinN4ZJezM2N9Gm) | [Taurat](https://open.spotify.com/album/2LsJpdLEVENc7rjVOBu935) | 5:01 |
 | 49 | [Yatra](https://open.spotify.com/track/7FYVWjUfB9spZUV8gMAVHP) | [Bickram Ghosh](https://open.spotify.com/artist/5OKmLebAGFQrReDP0cS5GA), [Kala Ramnath](https://open.spotify.com/artist/6otXkyqbgdA8w0xKTw8JLQ), [Barry Phillips](https://open.spotify.com/artist/1brcPh4P7zt4AU7MELrnqI) | [Rang](https://open.spotify.com/album/0jaYy040TXxZ0dKZ0Ys4fV) | 6:22 |
 | 50 | [Longing](https://open.spotify.com/track/36RxCz8eUDCc6nKp9cvlhb) | [Nusrat Fateh Ali Khan](https://open.spotify.com/artist/5HcunTidTUrOaf8V0iJcvl), [Michael Brook](https://open.spotify.com/artist/5NTEVDdw1KuWN3cUX3kZ1y) | [Night Song](https://open.spotify.com/album/1Wf0XzcNrA9lceFv0SBHPs) | 5:35 |
 
-Snapshot ID: `MCwxNDUzNmIxOGRiMmRiNTVhMzNjY2M2NmQ5ODZkMTA4ZTczNjVhOTJm`
+Snapshot ID: `MCxmN2M0MWE1ZTNhYzBiNDhjZjBjMWE4YjJiNGFmZjM0MDhiZTM0MDZh`

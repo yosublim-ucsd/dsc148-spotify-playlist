@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbLsFIeybF20.md) - [plain]
 
 > Get into the spirit of New Orleans
 
-[Spotify](https://open.spotify.com/user/spotify) - 141,455 likes - 50 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 141,457 likes - 50 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbLsFIeybF20.md) - [plain]
 | 26 | [I Wish I Could Shimmy Like My Sister Kate](https://open.spotify.com/track/0UmWAlvkmfqaHdAYPfNlFX) | [Muggsy Spanier](https://open.spotify.com/artist/0u61vtGdkaLTguZ5mVxLjK) | [1939\-1944](https://open.spotify.com/album/7EwAhN0zF9PtbLdRmRsomC) | 2:55 |
 | 27 | [Handa Wanda](https://open.spotify.com/track/2dq0Tb2mJLTxJKg0Q49CBu) | [The Wild Magnolias](https://open.spotify.com/artist/2l1iG0JqpgXHYg3RpRsHNz) | [Best of New Orleans \(Mardi Gras Indians\)](https://open.spotify.com/album/2ePhoGYeyjsDw17HrDqlH8) | 3:15 |
 | 28 | [The Bucket's Got a Hole in It](https://open.spotify.com/track/6ZRsVuvtvim8tY5H3gWBxG) | [Kid Ory](https://open.spotify.com/artist/7fvNIXXszS6FTHROnZVsK4) | [The Complete Columbia Session 1946](https://open.spotify.com/album/5mCUAqsJuZuwIN4jTTCEKi) | 2:30 |
-| 29 | [Do It Fluid](https://open.spotify.com/track/7F8LxyBHqTFsffNX3L39KI) | [The Dirty Dozen Brass Band](https://open.spotify.com/artist/6F6lawSnwGWWgdXFN7LXO7) | [My Feet Can't Fail Me Now](https://open.spotify.com/album/4GHFK4OAQlG0UYNwzYGCil) | 5:12 |
-| 30 | [Careless Love](https://open.spotify.com/track/5pIopYQV6wCCPEKa8k712A) | [George Lewis](https://open.spotify.com/artist/7mleIOAroBQWqO7SNrAUlt) | [Jazz At Preservation Hall: The George Lewis Band Of New Orleans](https://open.spotify.com/album/41UDq2SYKbcG4RoNbdreuu) | 3:39 |
+| 29 | [Careless Love](https://open.spotify.com/track/5pIopYQV6wCCPEKa8k712A) | [George Lewis](https://open.spotify.com/artist/7mleIOAroBQWqO7SNrAUlt) | [Jazz At Preservation Hall: The George Lewis Band Of New Orleans](https://open.spotify.com/album/41UDq2SYKbcG4RoNbdreuu) | 3:39 |
+| 30 | [Do It Fluid](https://open.spotify.com/track/7F8LxyBHqTFsffNX3L39KI) | [The Dirty Dozen Brass Band](https://open.spotify.com/artist/6F6lawSnwGWWgdXFN7LXO7) | [My Feet Can't Fail Me Now](https://open.spotify.com/album/4GHFK4OAQlG0UYNwzYGCil) | 5:12 |
 | 31 | [Tubaluba](https://open.spotify.com/track/0zmc1IQIsZ5kt7hT2ok4lq) | [Rebirth Brass Band](https://open.spotify.com/artist/6p9Qy71KocWwjmpUcHUTda) | [Rebirth For Life](https://open.spotify.com/album/39a4CP6pbVrwZEYdp7Vyho) | 5:49 |
 | 32 | [Canal Street Blues](https://open.spotify.com/track/4sI6AMoEpP5JH6oRrmDy2Q) | [Dr\. Michael White](https://open.spotify.com/artist/0kLwjA9HRcm5JpGjllF4f8) | [Our New Orleans \(Expanded Edition\)](https://open.spotify.com/album/4sVRgVyVsDVWFmtEgNwaF5) | 3:40 |
 | 33 | [Hotter Than That](https://open.spotify.com/track/7ui11djxhp7WL4NCHlET8O) | [Louis Armstrong & His Hot Five](https://open.spotify.com/artist/0t4VVR2T9Sb0z3NdDdEU6S) | [The Complete Hot Five And Hot Seven Recordings Volume 3](https://open.spotify.com/album/1hGGe4oqC8g54OsmnCBwzn) | 3:02 |
@@ -51,12 +51,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbLsFIeybF20.md) - [plain]
 | 41 | [Shreveport Stomp](https://open.spotify.com/track/2EvWjX5KaIWBwRQvArOqBN) | [Wilbur De Paris](https://open.spotify.com/artist/2jHYUm5r73OV8CiKyMdYfo) | [Atlantic Jazz: New Orleans](https://open.spotify.com/album/5QrnI1nmqZSTL4DhctZ6JV) | 3:00 |
 | 42 | [I Found a New Baby](https://open.spotify.com/track/4nhGpkKl3w8rADTDfxp234) | [Jack Teagarden](https://open.spotify.com/artist/3okiREk3dV4F8BmK7cpEJf), [Bobby Hackett](https://open.spotify.com/artist/5Wx29PEKBUtWOiTA3kOOXq) | [Jazz In Hi\-Fi](https://open.spotify.com/album/5cUrDoayt05uohsSYh2Efn) | 2:44 |
 | 43 | [Bill Bailey](https://open.spotify.com/track/6rt4DeIXU3bgJVYknEpZZa) | [Albert Burbank](https://open.spotify.com/artist/1H5jbTPAiHEJv3tWdLlXLk), [Kid Ory](https://open.spotify.com/artist/7fvNIXXszS6FTHROnZVsK4) | [Sounds Of New Orleans](https://open.spotify.com/album/4NdsoKTZ03ZcbyIPH3RZTJ) | 2:31 |
-| 44 | [Pennies from Heaven](https://open.spotify.com/track/7pwaLS4RMfIgait3uNhmcs) | [Leroy Jones](https://open.spotify.com/artist/4FJeAiorEH5xbMX5fJbQjB) | [Back to My Roots](https://open.spotify.com/album/3h80PQZuBjr2FCMbXdCFio) | 4:14 |
-| 45 | [Foot Of Canal Street](https://open.spotify.com/track/1S2yETvOEBPi7oGECTzbnd) | [John Boutté](https://open.spotify.com/artist/1lGFrlrax8KaaYwF2WJnDo) | [Good Neighbor](https://open.spotify.com/album/0angfX8UOIjXxBKymsboIU) | 3:38 |
+| 44 | [Foot Of Canal Street](https://open.spotify.com/track/1S2yETvOEBPi7oGECTzbnd) | [John Boutté](https://open.spotify.com/artist/1lGFrlrax8KaaYwF2WJnDo) | [Good Neighbor](https://open.spotify.com/album/0angfX8UOIjXxBKymsboIU) | 3:38 |
+| 45 | [Pennies from Heaven](https://open.spotify.com/track/7pwaLS4RMfIgait3uNhmcs) | [Leroy Jones](https://open.spotify.com/artist/4FJeAiorEH5xbMX5fJbQjB) | [Back to My Roots](https://open.spotify.com/album/3h80PQZuBjr2FCMbXdCFio) | 4:14 |
 | 46 | [I Gotta Woman \- Bonus Track](https://open.spotify.com/track/5k6egEOSbEBGzqCftoeH1J) | [Dejan's Olympia Brass Band](https://open.spotify.com/artist/2u07jyEJFucPWFXTz0E7Tk) | [Here Come da Great Olympia Band](https://open.spotify.com/album/7b5Jsswa0Z83csOFj6Sn17) | 6:25 |
 | 47 | [Don't You Think I Love You](https://open.spotify.com/track/66XzlLhhDDBVPIF0GTcivt) | [King Oliver](https://open.spotify.com/artist/24PJRbYtu3Cq5CuF24c1QZ), [King Oliver Orchestra](https://open.spotify.com/artist/1IbLwRHEw4pcpSaIAH56HM) | [New Orleans Shout \- The Complete Victor Recordings, Vol\. 2](https://open.spotify.com/album/6UVV9UfTiyy75RLufKmUeY) | 2:48 |
 | 48 | [When You're Smiling](https://open.spotify.com/track/0Kgk900i6WkIjzLH6vYJMR) | [Kid Thomas](https://open.spotify.com/artist/5IG0S4sVqO1wFhrWG45oXe), [Thomas Jefferson](https://open.spotify.com/artist/0cORQgawRwAJfaRkh7nNpR), [Percy Humphrey](https://open.spotify.com/artist/4PMqRbyhDL9yjdb8Qpw6pE) | [New Orleans Traditional Jazz Legends, Vol\. 3](https://open.spotify.com/album/0E1F15zOti40v8RWZ4fADs) | 4:27 |
 | 49 | [Tiger Rag 3](https://open.spotify.com/track/4GHM6gF3ajMxUyRKfYRApf) | [Original Dixieland Jazz Band](https://open.spotify.com/artist/112yP6AwAT6QG34fiGGpmh) | [The Best of Dixieland](https://open.spotify.com/album/6cwK33nXxr4ijR6rsy7RZd) | 2:36 |
 | 50 | [On the Square](https://open.spotify.com/track/17TMEJXBTWKELB4PQ3vbh1) | [Olympia Brass Band](https://open.spotify.com/artist/3X4cYFPu2LZ4NhAm16TsZt) | [The Great Olympia Band](https://open.spotify.com/album/0Wnrzvyabjext6HSTvJ4IB) | 3:43 |
 
-Snapshot ID: `MCw0NDJiNTU2MGFiNmFlNDQ3ZGU1M2Q3YWJhMzEzOThkNjBiM2VjY2E4`
+Snapshot ID: `MCwwZTM2NGVlYmZhNGY2ZDhkY2UxYzAwY2EzOWMzMmMyOTZlNzNhMjY3`

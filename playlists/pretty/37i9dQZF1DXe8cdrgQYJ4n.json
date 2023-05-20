@@ -1,12 +1,12 @@
 {
   "description": "\uc194\ub85c\uc5ec\ub3c4 \uad1c\ucc2e\uc740 \ub098\ub97c \uc704\ud55c \ub178\ub798\ub4e4",
-  "num_followers": 12798,
+  "num_followers": 12818,
   "original_name": "I'M FINE, SOLO. AND U?",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwNWQzYWRjZDI5ZTk0MjU2ZWJjMTEyY2NhYjljYTgxZDllZmRlMThk",
+  "snapshot_id": "MCw3YzlmMjk3YzgyMWZiNzdjM2NlN2Y5YThiYzU3M2UyNjQ0ZWVhZWU2",
   "tracks": [
     {
       "added_at": "2023-05-05 08:18:52",
@@ -915,26 +915,6 @@
     {
       "added_at": "2023-05-05 08:18:52",
       "album": {
-        "name": "a tempo",
-        "url": "https://open.spotify.com/album/1XJ7xgz0ryXkAWVwmSEpno"
-      },
-      "artists": [
-        {
-          "name": "SOOVI",
-          "url": "https://open.spotify.com/artist/0YM7bNxtt0VzccYf1UG2G8"
-        },
-        {
-          "name": "Dvwn",
-          "url": "https://open.spotify.com/artist/6WWUJGBY4ETAE22tRmgJ8b"
-        }
-      ],
-      "duration_ms": 193790,
-      "name": "Missing You (feat. Dvwn)",
-      "url": "https://open.spotify.com/track/7j7p9sU2Obtf3daiEDMF8e"
-    },
-    {
-      "added_at": "2023-05-05 08:18:52",
-      "album": {
         "name": "GOOD",
         "url": "https://open.spotify.com/album/4UlGIso11ixt3WiNUPZ4kT"
       },
@@ -955,6 +935,26 @@
       "duration_ms": 180006,
       "name": "GOOD",
       "url": "https://open.spotify.com/track/4erhEGuOGQgjv3p1bccnpn"
+    },
+    {
+      "added_at": "2023-05-05 08:18:52",
+      "album": {
+        "name": "a tempo",
+        "url": "https://open.spotify.com/album/1XJ7xgz0ryXkAWVwmSEpno"
+      },
+      "artists": [
+        {
+          "name": "SOOVI",
+          "url": "https://open.spotify.com/artist/0YM7bNxtt0VzccYf1UG2G8"
+        },
+        {
+          "name": "Dvwn",
+          "url": "https://open.spotify.com/artist/6WWUJGBY4ETAE22tRmgJ8b"
+        }
+      ],
+      "duration_ms": 193790,
+      "name": "Missing You (feat. Dvwn)",
+      "url": "https://open.spotify.com/track/7j7p9sU2Obtf3daiEDMF8e"
     },
     {
       "added_at": "2023-05-05 08:18:52",

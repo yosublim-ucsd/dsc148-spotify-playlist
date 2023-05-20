@@ -738,7 +738,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 253888,
       "name": "Bittersweet, TN",
       "url": "https://open.spotify.com/track/0merkJ9dgvkemPaR3urDWs"
@@ -1254,7 +1254,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 264438,
       "name": "Carolina - From The Motion Picture \u201cWhere The Crawdads Sing\u201d",
       "url": "https://open.spotify.com/track/4axSuOg3BqsowKjRpj59RU"
@@ -1414,7 +1414,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 285261,
       "name": "Claim Your Prize",
       "url": "https://open.spotify.com/track/6xzKyJSvApqLTlBIYDM3Jb"
@@ -2164,7 +2164,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 277223,
       "name": "Fall Apart World",
       "url": "https://open.spotify.com/track/4iT2uyC9Kw9BRPuixEqZxS"
@@ -2688,7 +2688,7 @@
       ],
       "date_added": "2022-02-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 210800,
       "name": "Good To Be (Home Again)",
       "url": "https://open.spotify.com/track/6Ien9KiFefrlQAQlZUruZP"
@@ -3502,7 +3502,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 244320,
       "name": "Hypnotized",
       "url": "https://open.spotify.com/track/2lwVMZN6J8Isuiwv6ugxlN"
@@ -4030,6 +4030,24 @@
       "duration_ms": 260407,
       "name": "KD and Lunch Meat",
       "url": "https://open.spotify.com/track/6e9MVekzR3Gku26kBwGezo"
+    },
+    {
+      "album": {
+        "name": "Kid",
+        "url": "https://open.spotify.com/album/5LqoF8G9MsNme4b8DpBExe"
+      },
+      "artists": [
+        {
+          "name": "The Revivalists",
+          "url": "https://open.spotify.com/artist/5kuJibJcwOC53s3OkoGMRA"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208253,
+      "name": "Kid",
+      "url": "https://open.spotify.com/track/24TzmWrz2HHWV3UO5PlvNb"
     },
     {
       "album": {
@@ -4901,6 +4919,24 @@
     },
     {
       "album": {
+        "name": "New York Comeback",
+        "url": "https://open.spotify.com/album/1a8vXGdhuyxxZ3m6YkUPP8"
+      },
+      "artists": [
+        {
+          "name": "Lucinda Williams",
+          "url": "https://open.spotify.com/artist/60ht0hWRy1yjUDfNsLuHuP"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254468,
+      "name": "New York Comeback",
+      "url": "https://open.spotify.com/track/0uCIjbxBRNceKKdJg5FpzK"
+    },
+    {
+      "album": {
         "name": "You Get It All",
         "url": "https://open.spotify.com/album/6OjJdNN6yUYwFhYXWV6TMT"
       },
@@ -5100,6 +5136,24 @@
       "duration_ms": 226466,
       "name": "Old Gods",
       "url": "https://open.spotify.com/track/75CnQWeQ1V4tFSnes66c8H"
+    },
+    {
+      "album": {
+        "name": "O Sun O Moon",
+        "url": "https://open.spotify.com/album/4HesCh7FUpSpwqKKE5jsRA"
+      },
+      "artists": [
+        {
+          "name": "Bruce Cockburn",
+          "url": "https://open.spotify.com/artist/4sh4MHP7lhrSUakxwZzwqz"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211440,
+      "name": "On a Roll",
+      "url": "https://open.spotify.com/track/3c7RHocJLPOvC2nPFwr9vx"
     },
     {
       "album": {
@@ -6604,6 +6658,24 @@
       "duration_ms": 222839,
       "name": "Still Here",
       "url": "https://open.spotify.com/track/4sFf1zh6NkOG3YyfE8LcBD"
+    },
+    {
+      "album": {
+        "name": "Straight and Narrow",
+        "url": "https://open.spotify.com/album/0floBXCzvTvVMR3gXWZBav"
+      },
+      "artists": [
+        {
+          "name": "Sam Barber",
+          "url": "https://open.spotify.com/artist/08GfvCW09pv2QP4y9sle2a"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199874,
+      "name": "Straight and Narrow",
+      "url": "https://open.spotify.com/track/40vKwNlXXKUmQMGceAoEpy"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-25",
-  "description": "The smoothest Afro R&B out right now. Cover:  <a href=\"https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE?si=PNqcawJ9R52MW3OzMDIGKA\">Tyla</a>  and <a href=\"https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq?si=LGGP8temR1KOZGGU00G17Q\">Ayra Starr</a>  ",
+  "description": "The smoothest Afro R&B out right now. Cover:  <a href=\"https://open.spotify.com/artist/2J4IvVbi2h1wB2A0p5kd86?si=54CBRZhIS9iFy2ord_Xcxg\"> Xenia Manasseh</a>  ",
   "name": "Tantalizers",
   "tracks": [
     {
@@ -2750,10 +2750,28 @@
       ],
       "date_added": "2021-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 158400,
       "name": "Mayana",
       "url": "https://open.spotify.com/track/0SVGaPNKJYl3JtVoScM7tF"
+    },
+    {
+      "album": {
+        "name": "V",
+        "url": "https://open.spotify.com/album/5rvJ4cyNUU0jI9DF3r596d"
+      },
+      "artists": [
+        {
+          "name": "A\u1e63a",
+          "url": "https://open.spotify.com/artist/0upXUo04k4k8bGVSkmgrSc"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158400,
+      "name": "Mayana",
+      "url": "https://open.spotify.com/track/5WeLc7gPjNabQ1AMk5lxrl"
     },
     {
       "album": {
@@ -2874,7 +2892,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 186461,
       "name": "My Darling",
       "url": "https://open.spotify.com/track/0dB0kygJpApTy1aTYiYxlk"
@@ -2928,7 +2946,7 @@
       ],
       "date_added": "2023-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 154500,
       "name": "NANA - Acoustic",
       "url": "https://open.spotify.com/track/7Bzu4aFkAOfuNCRk9huIiH"
@@ -3064,7 +3082,7 @@
       ],
       "date_added": "2023-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 211851,
       "name": "Nikilewa",
       "url": "https://open.spotify.com/track/2Xsm7EXOpbddl18WKjoja6"
@@ -3842,7 +3860,7 @@
       ],
       "date_added": "2023-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 202409,
       "name": "Somaw",
       "url": "https://open.spotify.com/track/7j360rnoPfIwKlEW8qSx2g"
@@ -4101,6 +4119,24 @@
     },
     {
       "album": {
+        "name": "Temporary Love",
+        "url": "https://open.spotify.com/album/7Ik6vXPyiM9jflElmt78cQ"
+      },
+      "artists": [
+        {
+          "name": "Xenia Manasseh",
+          "url": "https://open.spotify.com/artist/2J4IvVbi2h1wB2A0p5kd86"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156213,
+      "name": "Temporary Love",
+      "url": "https://open.spotify.com/track/502fO9MaTL1FXQxilajwW8"
+    },
+    {
+      "album": {
         "name": "A Night In Cocody",
         "url": "https://open.spotify.com/album/7HX3XJ5NzMPUVBkzYRQtWQ"
       },
@@ -4164,7 +4200,7 @@
       ],
       "date_added": "2022-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 185341,
       "name": "Therapy",
       "url": "https://open.spotify.com/track/1qIATFQg93M6KvhPh9QSNc"
@@ -4542,7 +4578,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 267000,
       "name": "What you wanna do?",
       "url": "https://open.spotify.com/track/2IQFdoFocKF5kb8J6RNtbc"

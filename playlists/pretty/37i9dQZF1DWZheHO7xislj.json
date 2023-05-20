@@ -1,12 +1,12 @@
 {
   "description": "Classic soul music for the perfect dinner.",
-  "num_followers": 57304,
+  "num_followers": 57320,
   "original_name": "Soulful Dinner",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhNWQwNDE2Y2E5NDgzMzk1NjBiMGYyMWZhMTdhYWY3YTY2ZDk0MDk0",
+  "snapshot_id": "MCwxNjVhOTc4NTJiZTBmMjY3Yjk3MGU3YWVjMGI4MDM5OTk1MWRlOWU2",
   "tracks": [
     {
       "added_at": "2023-01-09 13:10:50",
@@ -239,22 +239,6 @@
     {
       "added_at": "2023-01-09 13:10:50",
       "album": {
-        "name": "Killing Me Softly",
-        "url": "https://open.spotify.com/album/4GxrvKiysSiDU1HHifh1PA"
-      },
-      "artists": [
-        {
-          "name": "Roberta Flack",
-          "url": "https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA"
-        }
-      ],
-      "duration_ms": 286920,
-      "name": "Killing Me Softly With His Song",
-      "url": "https://open.spotify.com/track/3gsCAGsWr6pUm1Vy7CPPob"
-    },
-    {
-      "added_at": "2023-01-09 13:10:50",
-      "album": {
         "name": "Imagination (Expanded Edition)",
         "url": "https://open.spotify.com/album/6pMzuVjsypAwbeKiZm56wP"
       },
@@ -267,6 +251,22 @@
       "duration_ms": 279333,
       "name": "Midnight Train to Georgia",
       "url": "https://open.spotify.com/track/7MF7QAodbGzNYav5ZfIhAY"
+    },
+    {
+      "added_at": "2023-01-09 13:10:50",
+      "album": {
+        "name": "Killing Me Softly",
+        "url": "https://open.spotify.com/album/4GxrvKiysSiDU1HHifh1PA"
+      },
+      "artists": [
+        {
+          "name": "Roberta Flack",
+          "url": "https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA"
+        }
+      ],
+      "duration_ms": 286920,
+      "name": "Killing Me Softly With His Song",
+      "url": "https://open.spotify.com/track/3gsCAGsWr6pUm1Vy7CPPob"
     },
     {
       "added_at": "2023-01-09 13:10:50",
@@ -947,22 +947,6 @@
     {
       "added_at": "2023-01-09 13:10:50",
       "album": {
-        "name": "I'll Never Fall in Love Again",
-        "url": "https://open.spotify.com/album/1gVMm1XwIz3JC2AHxAovtW"
-      },
-      "artists": [
-        {
-          "name": "Dionne Warwick",
-          "url": "https://open.spotify.com/artist/2JSjCHK79gdaiPWdKiNUNp"
-        }
-      ],
-      "duration_ms": 174840,
-      "name": "I'll Never Fall in Love Again",
-      "url": "https://open.spotify.com/track/1MHgV79MSYE6ymNlGa3bRY"
-    },
-    {
-      "added_at": "2023-01-09 13:10:50",
-      "album": {
         "name": "Dreamer",
         "url": "https://open.spotify.com/album/5OkHt7JZ6HSkJH359y2H31"
       },
@@ -975,6 +959,22 @@
       "duration_ms": 233560,
       "name": "Ain't No Love In The Heart Of The City - Single Version",
       "url": "https://open.spotify.com/track/4qYHnP5AmKzXbJhciPV8si"
+    },
+    {
+      "added_at": "2023-01-09 13:10:50",
+      "album": {
+        "name": "I'll Never Fall in Love Again",
+        "url": "https://open.spotify.com/album/1gVMm1XwIz3JC2AHxAovtW"
+      },
+      "artists": [
+        {
+          "name": "Dionne Warwick",
+          "url": "https://open.spotify.com/artist/2JSjCHK79gdaiPWdKiNUNp"
+        }
+      ],
+      "duration_ms": 174840,
+      "name": "I'll Never Fall in Love Again",
+      "url": "https://open.spotify.com/track/1MHgV79MSYE6ymNlGa3bRY"
     },
     {
       "added_at": "2023-01-09 13:10:50",
@@ -1351,6 +1351,22 @@
     {
       "added_at": "2023-01-09 13:10:50",
       "album": {
+        "name": "Supernatural Thing",
+        "url": "https://open.spotify.com/album/69MJXfjEtAf2xpyNe4KIfD"
+      },
+      "artists": [
+        {
+          "name": "Ben E. King",
+          "url": "https://open.spotify.com/artist/3plJVWt88EqjvtuB4ZDRV3"
+        }
+      ],
+      "duration_ms": 251560,
+      "name": "Supernatural Thing, Pt. 1",
+      "url": "https://open.spotify.com/track/62dhSmROhppvuWyeCeC730"
+    },
+    {
+      "added_at": "2023-01-09 13:10:50",
+      "album": {
         "name": "Rock Me Tonight",
         "url": "https://open.spotify.com/album/4S3z4G29Gm2xxkADtVX5IV"
       },
@@ -1379,22 +1395,6 @@
       "duration_ms": 325493,
       "name": "Close the Door",
       "url": "https://open.spotify.com/track/53m3UkzcaQVbB2DENsrJiK"
-    },
-    {
-      "added_at": "2023-01-09 13:10:50",
-      "album": {
-        "name": "Supernatural Thing",
-        "url": "https://open.spotify.com/album/69MJXfjEtAf2xpyNe4KIfD"
-      },
-      "artists": [
-        {
-          "name": "Ben E. King",
-          "url": "https://open.spotify.com/artist/3plJVWt88EqjvtuB4ZDRV3"
-        }
-      ],
-      "duration_ms": 251560,
-      "name": "Supernatural Thing, Pt. 1",
-      "url": "https://open.spotify.com/track/62dhSmROhppvuWyeCeC730"
     },
     {
       "added_at": "2023-01-09 13:10:50",
@@ -1755,18 +1755,18 @@
     {
       "added_at": "2023-01-09 13:10:50",
       "album": {
-        "name": "Give Me the Night",
-        "url": "https://open.spotify.com/album/6qwOcN9wZgVF0bishcfFsh"
+        "name": "All In The Name Of Love",
+        "url": "https://open.spotify.com/album/1ciLacI1DyPsAWFW4fCE15"
       },
       "artists": [
         {
-          "name": "George Benson",
-          "url": "https://open.spotify.com/artist/4N8BwYTEC6XqykGvXXlmfv"
+          "name": "Atlantic Starr",
+          "url": "https://open.spotify.com/artist/2YdVmtVBpIrv0N6WiBzSqm"
         }
       ],
-      "duration_ms": 286960,
-      "name": "Love X Love",
-      "url": "https://open.spotify.com/track/1Gnufs5iuI3h5ow29J7tOO"
+      "duration_ms": 286973,
+      "name": "Always",
+      "url": "https://open.spotify.com/track/5ecomU85GzPgOJZ315oZ88"
     },
     {
       "added_at": "2023-01-09 13:10:50",
@@ -1791,18 +1791,18 @@
     {
       "added_at": "2023-01-09 13:10:50",
       "album": {
-        "name": "All In The Name Of Love",
-        "url": "https://open.spotify.com/album/1ciLacI1DyPsAWFW4fCE15"
+        "name": "Give Me the Night",
+        "url": "https://open.spotify.com/album/6qwOcN9wZgVF0bishcfFsh"
       },
       "artists": [
         {
-          "name": "Atlantic Starr",
-          "url": "https://open.spotify.com/artist/2YdVmtVBpIrv0N6WiBzSqm"
+          "name": "George Benson",
+          "url": "https://open.spotify.com/artist/4N8BwYTEC6XqykGvXXlmfv"
         }
       ],
-      "duration_ms": 286973,
-      "name": "Always",
-      "url": "https://open.spotify.com/track/5ecomU85GzPgOJZ315oZ88"
+      "duration_ms": 286960,
+      "name": "Love X Love",
+      "url": "https://open.spotify.com/track/1Gnufs5iuI3h5ow29J7tOO"
     },
     {
       "added_at": "2023-01-09 13:10:50",
@@ -2063,22 +2063,6 @@
     {
       "added_at": "2023-01-09 13:10:50",
       "album": {
-        "name": "Still Waters Run Deep",
-        "url": "https://open.spotify.com/album/132ZigRToQWUtgMK4a6OSU"
-      },
-      "artists": [
-        {
-          "name": "Four Tops",
-          "url": "https://open.spotify.com/artist/7fIvjotigTGWqjIz6EP1i4"
-        }
-      ],
-      "duration_ms": 194693,
-      "name": "Still Water (Love)",
-      "url": "https://open.spotify.com/track/5feUxmo1qphxusEo1N9GRt"
-    },
-    {
-      "added_at": "2023-01-09 13:10:50",
-      "album": {
         "name": "The Essential Isley Brothers",
         "url": "https://open.spotify.com/album/6EgsYSfVYAygvcDvC1IO8v"
       },
@@ -2091,6 +2075,22 @@
       "duration_ms": 337333,
       "name": "For the Love of You, Pts. 1 & 2",
       "url": "https://open.spotify.com/track/6k0GXtn49Ga6kfA8ZvLtVX"
+    },
+    {
+      "added_at": "2023-01-09 13:10:50",
+      "album": {
+        "name": "Still Waters Run Deep",
+        "url": "https://open.spotify.com/album/132ZigRToQWUtgMK4a6OSU"
+      },
+      "artists": [
+        {
+          "name": "Four Tops",
+          "url": "https://open.spotify.com/artist/7fIvjotigTGWqjIz6EP1i4"
+        }
+      ],
+      "duration_ms": 194693,
+      "name": "Still Water (Love)",
+      "url": "https://open.spotify.com/track/5feUxmo1qphxusEo1N9GRt"
     },
     {
       "added_at": "2023-01-09 13:10:50",
@@ -2159,22 +2159,6 @@
     {
       "added_at": "2023-01-09 13:10:50",
       "album": {
-        "name": "Turntable Hits",
-        "url": "https://open.spotify.com/album/0xRmjmbemfu2Q7Q3mI4rFH"
-      },
-      "artists": [
-        {
-          "name": "Anita Baker",
-          "url": "https://open.spotify.com/artist/46CH1Gp8l8QVly8bpG9JFG"
-        }
-      ],
-      "duration_ms": 242026,
-      "name": "Same Ole Love (365 Days a Week)",
-      "url": "https://open.spotify.com/track/70n7JFWr7gKyZPjMFSiuue"
-    },
-    {
-      "added_at": "2023-01-09 13:10:50",
-      "album": {
         "name": "TP (Expanded Edition)",
         "url": "https://open.spotify.com/album/0zxNyboTeS8TpOOOBjwVoO"
       },
@@ -2195,6 +2179,22 @@
     {
       "added_at": "2023-01-09 13:10:50",
       "album": {
+        "name": "Turntable Hits",
+        "url": "https://open.spotify.com/album/0xRmjmbemfu2Q7Q3mI4rFH"
+      },
+      "artists": [
+        {
+          "name": "Anita Baker",
+          "url": "https://open.spotify.com/artist/46CH1Gp8l8QVly8bpG9JFG"
+        }
+      ],
+      "duration_ms": 242026,
+      "name": "Same Ole Love (365 Days a Week)",
+      "url": "https://open.spotify.com/track/70n7JFWr7gKyZPjMFSiuue"
+    },
+    {
+      "added_at": "2023-01-09 13:10:50",
+      "album": {
         "name": "Let Me Touch You",
         "url": "https://open.spotify.com/album/5EUSiCoJpa682wyPMqBy4j"
       },
@@ -2211,22 +2211,6 @@
     {
       "added_at": "2023-01-09 13:10:50",
       "album": {
-        "name": "Superfly: Deluxe 25th Anniversary Edition",
-        "url": "https://open.spotify.com/album/5QuvlU7nCUZZJauMvhlWR4"
-      },
-      "artists": [
-        {
-          "name": "Curtis Mayfield",
-          "url": "https://open.spotify.com/artist/2AV6XDIs32ofIJhkkDevjm"
-        }
-      ],
-      "duration_ms": 329466,
-      "name": "Freddie's Dead",
-      "url": "https://open.spotify.com/track/2ouFIPC3O1HNBcVTw1d9AN"
-    },
-    {
-      "added_at": "2023-01-09 13:10:50",
-      "album": {
         "name": "Harvest for the World",
         "url": "https://open.spotify.com/album/58XKhn9fkCegBnfZwW4JtJ"
       },
@@ -2239,6 +2223,22 @@
       "duration_ms": 211733,
       "name": "Harvest for the World, Pt. 1 - Single Version",
       "url": "https://open.spotify.com/track/0fl2MichhIDeOYQOCce7GW"
+    },
+    {
+      "added_at": "2023-01-09 13:10:50",
+      "album": {
+        "name": "Superfly: Deluxe 25th Anniversary Edition",
+        "url": "https://open.spotify.com/album/5QuvlU7nCUZZJauMvhlWR4"
+      },
+      "artists": [
+        {
+          "name": "Curtis Mayfield",
+          "url": "https://open.spotify.com/artist/2AV6XDIs32ofIJhkkDevjm"
+        }
+      ],
+      "duration_ms": 329466,
+      "name": "Freddie's Dead",
+      "url": "https://open.spotify.com/track/2ouFIPC3O1HNBcVTw1d9AN"
     },
     {
       "added_at": "2023-01-09 13:10:50",
@@ -2519,6 +2519,22 @@
     {
       "added_at": "2023-01-09 13:10:50",
       "album": {
+        "name": "Be Thankful for What You Got",
+        "url": "https://open.spotify.com/album/1SCaqfkBnsMXOvdJIZi93Z"
+      },
+      "artists": [
+        {
+          "name": "William DeVaughn",
+          "url": "https://open.spotify.com/artist/1l51Sc9HBh8fLXUDEjFhxU"
+        }
+      ],
+      "duration_ms": 441889,
+      "name": "Blood Is Thicker Than Water",
+      "url": "https://open.spotify.com/track/7o9d4vFTq7SQ4vx60dpe5D"
+    },
+    {
+      "added_at": "2023-01-09 13:10:50",
+      "album": {
         "name": "The Masters Series: Mellow Groove",
         "url": "https://open.spotify.com/album/4T9c1w0NNJ4RC60igvEo1m"
       },
@@ -2535,22 +2551,6 @@
       "duration_ms": 283053,
       "name": "New York Eyes",
       "url": "https://open.spotify.com/track/20oUeycXhRS3iNp0Hl32hh"
-    },
-    {
-      "added_at": "2023-01-09 13:10:50",
-      "album": {
-        "name": "Be Thankful for What You Got",
-        "url": "https://open.spotify.com/album/1SCaqfkBnsMXOvdJIZi93Z"
-      },
-      "artists": [
-        {
-          "name": "William DeVaughn",
-          "url": "https://open.spotify.com/artist/1l51Sc9HBh8fLXUDEjFhxU"
-        }
-      ],
-      "duration_ms": 441889,
-      "name": "Blood Is Thicker Than Water",
-      "url": "https://open.spotify.com/track/7o9d4vFTq7SQ4vx60dpe5D"
     },
     {
       "added_at": "2023-01-09 13:10:50",
@@ -2875,22 +2875,6 @@
     {
       "added_at": "2023-01-09 13:10:50",
       "album": {
-        "name": "Boss Man",
-        "url": "https://open.spotify.com/album/3TJXaEUG0E8Tvex7tAzlCK"
-      },
-      "artists": [
-        {
-          "name": "Charlie Rich",
-          "url": "https://open.spotify.com/artist/218kRJZ7FJs0hWIk8Ynzhz"
-        }
-      ],
-      "duration_ms": 190680,
-      "name": "Have A Heart",
-      "url": "https://open.spotify.com/track/3krDSP5K5hAKEIOXuxXXH2"
-    },
-    {
-      "added_at": "2023-01-09 13:10:50",
-      "album": {
         "name": "Swept Away (Expanded Edition)",
         "url": "https://open.spotify.com/album/20SrAySYqHsaUE4XGlH6Pv"
       },
@@ -2903,6 +2887,22 @@
       "duration_ms": 254786,
       "name": "Missing You - 7\" Single Mix",
       "url": "https://open.spotify.com/track/1MGgmB8tBTpicGil7mfUqc"
+    },
+    {
+      "added_at": "2023-01-09 13:10:50",
+      "album": {
+        "name": "Boss Man",
+        "url": "https://open.spotify.com/album/3TJXaEUG0E8Tvex7tAzlCK"
+      },
+      "artists": [
+        {
+          "name": "Charlie Rich",
+          "url": "https://open.spotify.com/artist/218kRJZ7FJs0hWIk8Ynzhz"
+        }
+      ],
+      "duration_ms": 190680,
+      "name": "Have A Heart",
+      "url": "https://open.spotify.com/track/3krDSP5K5hAKEIOXuxXXH2"
     },
     {
       "added_at": "2023-01-09 13:10:50",
@@ -2971,22 +2971,6 @@
     {
       "added_at": "2023-01-09 13:10:50",
       "album": {
-        "name": "I'm A Stranger",
-        "url": "https://open.spotify.com/album/4n5x5ax3mxf1ZIiLASmRrN"
-      },
-      "artists": [
-        {
-          "name": "Tommy Mcgee",
-          "url": "https://open.spotify.com/artist/6VyJvuxR4RrdJlJIpqsqh2"
-        }
-      ],
-      "duration_ms": 336004,
-      "name": "Now That I Have You",
-      "url": "https://open.spotify.com/track/2QA4gRDRIkZswWy21GuRsE"
-    },
-    {
-      "added_at": "2023-01-09 13:10:50",
-      "album": {
         "name": "Chronicle: The 20 Greatest Hits",
         "url": "https://open.spotify.com/album/1QMVI7vXJxC2f4R65Mu1zd"
       },
@@ -2999,6 +2983,22 @@
       "duration_ms": 208133,
       "name": "Steal Away",
       "url": "https://open.spotify.com/track/6olcjo8bBSkin9fJtFj7hB"
+    },
+    {
+      "added_at": "2023-01-09 13:10:50",
+      "album": {
+        "name": "I'm A Stranger",
+        "url": "https://open.spotify.com/album/4n5x5ax3mxf1ZIiLASmRrN"
+      },
+      "artists": [
+        {
+          "name": "Tommy Mcgee",
+          "url": "https://open.spotify.com/artist/6VyJvuxR4RrdJlJIpqsqh2"
+        }
+      ],
+      "duration_ms": 336004,
+      "name": "Now That I Have You",
+      "url": "https://open.spotify.com/track/2QA4gRDRIkZswWy21GuRsE"
     },
     {
       "added_at": "2023-01-09 13:10:50",
@@ -3167,22 +3167,6 @@
     {
       "added_at": "2023-01-09 13:10:50",
       "album": {
-        "name": "Black Gold (Expanded Edition)",
-        "url": "https://open.spotify.com/album/6cbqf84EsLlPeu72H2Al0H"
-      },
-      "artists": [
-        {
-          "name": "Nina Simone",
-          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
-        }
-      ],
-      "duration_ms": 170146,
-      "name": "To Be Young, Gifted and Black - Single Version",
-      "url": "https://open.spotify.com/track/33TDAUeConyLclvr9GyvmZ"
-    },
-    {
-      "added_at": "2023-01-09 13:10:50",
-      "album": {
         "name": "The Commodores: The Definitive Collection",
         "url": "https://open.spotify.com/album/4mDGyVthoID64WAcff0HxR"
       },
@@ -3195,6 +3179,22 @@
       "duration_ms": 393560,
       "name": "Sweet Love",
       "url": "https://open.spotify.com/track/7zqguUyS3LQxAdL8rRgXx2"
+    },
+    {
+      "added_at": "2023-01-09 13:10:50",
+      "album": {
+        "name": "Black Gold (Expanded Edition)",
+        "url": "https://open.spotify.com/album/6cbqf84EsLlPeu72H2Al0H"
+      },
+      "artists": [
+        {
+          "name": "Nina Simone",
+          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
+        }
+      ],
+      "duration_ms": 170146,
+      "name": "To Be Young, Gifted and Black - Single Version",
+      "url": "https://open.spotify.com/track/33TDAUeConyLclvr9GyvmZ"
     },
     {
       "added_at": "2023-01-09 13:10:50",
@@ -3279,22 +3279,6 @@
     {
       "added_at": "2023-01-09 13:10:50",
       "album": {
-        "name": "Smooth Soul",
-        "url": "https://open.spotify.com/album/7JXpGPQdyjtD1FEMGGipSD"
-      },
-      "artists": [
-        {
-          "name": "Ben E. King",
-          "url": "https://open.spotify.com/artist/3plJVWt88EqjvtuB4ZDRV3"
-        }
-      ],
-      "duration_ms": 284040,
-      "name": "Made For Each Other",
-      "url": "https://open.spotify.com/track/4qMuLEXTIITszoQ2KbSG29"
-    },
-    {
-      "added_at": "2023-01-09 13:10:50",
-      "album": {
         "name": "Silk Electric (Expanded Edition)",
         "url": "https://open.spotify.com/album/0K4vqspEZz6LYDzMKSypMF"
       },
@@ -3307,6 +3291,22 @@
       "duration_ms": 277960,
       "name": "Muscles",
       "url": "https://open.spotify.com/track/45a2uakbDbXOizyjyLv7dN"
+    },
+    {
+      "added_at": "2023-01-09 13:10:50",
+      "album": {
+        "name": "Smooth Soul",
+        "url": "https://open.spotify.com/album/7JXpGPQdyjtD1FEMGGipSD"
+      },
+      "artists": [
+        {
+          "name": "Ben E. King",
+          "url": "https://open.spotify.com/artist/3plJVWt88EqjvtuB4ZDRV3"
+        }
+      ],
+      "duration_ms": 284040,
+      "name": "Made For Each Other",
+      "url": "https://open.spotify.com/track/4qMuLEXTIITszoQ2KbSG29"
     },
     {
       "added_at": "2023-01-09 13:10:50",
@@ -3343,18 +3343,18 @@
     {
       "added_at": "2023-01-09 13:10:50",
       "album": {
-        "name": "70s Classic Love Songs",
-        "url": "https://open.spotify.com/album/5IcFni8p9cXMxQQA9Viimg"
+        "name": "Stax-Volt: The Complete Singles 1959-1968",
+        "url": "https://open.spotify.com/album/0RPeS6tlJfJt1GQ1XilhkH"
       },
       "artists": [
         {
-          "name": "Betty Wright",
-          "url": "https://open.spotify.com/artist/0PDqlUGugF5Jt6DZyATvfz"
+          "name": "Sam & Dave",
+          "url": "https://open.spotify.com/artist/2BVYdY4PyfCF9z4NrkhEB2"
         }
       ],
-      "duration_ms": 155506,
-      "name": "Pure Love (Single Version)",
-      "url": "https://open.spotify.com/track/2SjMzNaZj3l3qQXtGha5ok"
+      "duration_ms": 155600,
+      "name": "Hold On! I'm A Comin' - LP/Single Version",
+      "url": "https://open.spotify.com/track/5wnzbplqelpAyBSkA56m3I"
     },
     {
       "added_at": "2023-01-09 13:10:50",
@@ -3375,18 +3375,18 @@
     {
       "added_at": "2023-01-09 13:10:50",
       "album": {
-        "name": "Stax-Volt: The Complete Singles 1959-1968",
-        "url": "https://open.spotify.com/album/0RPeS6tlJfJt1GQ1XilhkH"
+        "name": "70s Classic Love Songs",
+        "url": "https://open.spotify.com/album/5IcFni8p9cXMxQQA9Viimg"
       },
       "artists": [
         {
-          "name": "Sam & Dave",
-          "url": "https://open.spotify.com/artist/2BVYdY4PyfCF9z4NrkhEB2"
+          "name": "Betty Wright",
+          "url": "https://open.spotify.com/artist/0PDqlUGugF5Jt6DZyATvfz"
         }
       ],
-      "duration_ms": 155600,
-      "name": "Hold On! I'm A Comin' - LP/Single Version",
-      "url": "https://open.spotify.com/track/5wnzbplqelpAyBSkA56m3I"
+      "duration_ms": 155506,
+      "name": "Pure Love (Single Version)",
+      "url": "https://open.spotify.com/track/2SjMzNaZj3l3qQXtGha5ok"
     },
     {
       "added_at": "2023-01-09 13:10:50",
@@ -3471,22 +3471,6 @@
     {
       "added_at": "2023-01-09 13:10:50",
       "album": {
-        "name": "Roulette Disco: Original Club Classics From The Dawn Of The Disco Era",
-        "url": "https://open.spotify.com/album/6uuNeT2pIWGWrdWP6Q8GfM"
-      },
-      "artists": [
-        {
-          "name": "Whirlwind",
-          "url": "https://open.spotify.com/artist/6SLspaTtZOpWHtv7oqZsRJ"
-        }
-      ],
-      "duration_ms": 164040,
-      "name": "Don't Let Him Get the Best of You",
-      "url": "https://open.spotify.com/track/0x9Z8I4miDuAQcKYS3LANF"
-    },
-    {
-      "added_at": "2023-01-09 13:10:50",
-      "album": {
         "name": "That's It! / Duke Recordings Vol. III",
         "url": "https://open.spotify.com/album/6UDjveu23U4KAxKU5RlnsB"
       },
@@ -3503,18 +3487,18 @@
     {
       "added_at": "2023-01-09 13:10:50",
       "album": {
-        "name": "The Natural Four",
-        "url": "https://open.spotify.com/album/1o5tEsz53xrE0PoyQXMc9j"
+        "name": "Roulette Disco: Original Club Classics From The Dawn Of The Disco Era",
+        "url": "https://open.spotify.com/album/6uuNeT2pIWGWrdWP6Q8GfM"
       },
       "artists": [
         {
-          "name": "The Natural Four",
-          "url": "https://open.spotify.com/artist/1p2l2eeZ7bmnpPfgpdZCmY"
+          "name": "Whirlwind",
+          "url": "https://open.spotify.com/artist/6SLspaTtZOpWHtv7oqZsRJ"
         }
       ],
-      "duration_ms": 259160,
-      "name": "You Bring out the Best in Me",
-      "url": "https://open.spotify.com/track/1GaxPnyHozmwKCONQY7sAa"
+      "duration_ms": 164040,
+      "name": "Don't Let Him Get the Best of You",
+      "url": "https://open.spotify.com/track/0x9Z8I4miDuAQcKYS3LANF"
     },
     {
       "added_at": "2023-01-09 13:10:50",
@@ -3531,6 +3515,22 @@
       "duration_ms": 361626,
       "name": "Feelings",
       "url": "https://open.spotify.com/track/02dMF381tQaidG17In1Tt2"
+    },
+    {
+      "added_at": "2023-01-09 13:10:50",
+      "album": {
+        "name": "The Natural Four",
+        "url": "https://open.spotify.com/album/1o5tEsz53xrE0PoyQXMc9j"
+      },
+      "artists": [
+        {
+          "name": "The Natural Four",
+          "url": "https://open.spotify.com/artist/1p2l2eeZ7bmnpPfgpdZCmY"
+        }
+      ],
+      "duration_ms": 259160,
+      "name": "You Bring out the Best in Me",
+      "url": "https://open.spotify.com/track/1GaxPnyHozmwKCONQY7sAa"
     },
     {
       "added_at": "2023-01-09 13:10:50",

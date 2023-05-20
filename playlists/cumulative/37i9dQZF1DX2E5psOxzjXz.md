@@ -4,7 +4,7 @@
 
 > Explore Pakistan's thriving independent scene\. Discover more on <a href="https://open.spotify.com/playlist/37i9dQZF1DX30DGof92rQX?si=b3603f2de11c43a7">Pakistani Indie Rising</a>.
 
-187 songs - 10 hr 44 min
+188 songs - 10 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -134,6 +134,7 @@
 | [Parwana](https://open.spotify.com/track/373D4U8ysWnlPGFtjcwQ7P) | [Izzchughtai](https://open.spotify.com/artist/211ei6ZiUeBMIXUZGBaJ4S) | [Parwana](https://open.spotify.com/album/18Vgb2mQ80ZCoT30040z3p) | 3:21 | 2022-11-30 | 2023-01-11 |
 | [Peanut Butter](https://open.spotify.com/track/6DULqMlVA3TBjhl5gxnTp1) | [Hasan Raheem](https://open.spotify.com/artist/6gIqKYKRmltKfkTnxhMv8V) | [Nautanki](https://open.spotify.com/album/4cWRqa8lbidF3vyUdX4H9D) | 3:49 | 2023-02-12 | 2023-04-09 |
 | [Peechay Hutt](https://open.spotify.com/track/6ePcfMCQ7uUKwAamUiVtXL) | [Hasan Raheem](https://open.spotify.com/artist/6gIqKYKRmltKfkTnxhMv8V), [Justin Bibis](https://open.spotify.com/artist/3KYrINL7nZTQEVAu83bHw5), [Talal Qureshi](https://open.spotify.com/artist/0nES9rTgJJV7uJF2cIkJNS) | [Peechay Hutt](https://open.spotify.com/album/3rkEv4z7rgqYXgP0aLsBm0) | 3:45 | 2022-02-19 | 2023-04-09 |
+| [Piya](https://open.spotify.com/track/419zgOPCY2volaXJtSv5HJ) | [Slowspin](https://open.spotify.com/artist/6axiqgCSTRUW0RJ4J8lO54) | [TALISMAN](https://open.spotify.com/album/5qak9zAgqiUAWZcRE5z1ID) | 4:15 | 2023-05-19 |  |
 | [Preacher](https://open.spotify.com/track/2H3Uj8S1v8doc5xKmzBSNQ) | [Abdullah Siddiqui](https://open.spotify.com/artist/3PbkSdpJnYRF18jau74b7R) | [Preacher](https://open.spotify.com/album/503g4DFFEgdkPgW0O9RUon) | 3:17 | 2021-12-06 | 2023-04-09 |
 | [Prelude to Murder](https://open.spotify.com/track/2waewKqweTeOpm7XBqZFhB) | [Shorbanoor](https://open.spotify.com/artist/7DXkuP7zCFpe1beSL1LjjD), [Ali Suhail](https://open.spotify.com/artist/4kLAjoQyEFKD34AWugeUnj) | [Prelude to Murder](https://open.spotify.com/album/5CDZZg7cy75Ws3dGhWxsFU) | 2:26 | 2021-12-06 | 2022-01-29 |
 | [Pretty Lies](https://open.spotify.com/track/0pvlhF2kQRKGxKqsiUMJwI) | [Annural Khalid](https://open.spotify.com/artist/1nCZUpBIcyOxufOx0lPeIW), [Rovalio](https://open.spotify.com/artist/01pFDtbY3k5uOmy0Pbg93C) | [Pretty Lies](https://open.spotify.com/album/76TgmgMlZzqrMOckjo5eFV) | 2:43 | 2022-01-18 |  |

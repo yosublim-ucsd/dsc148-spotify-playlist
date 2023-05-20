@@ -4,7 +4,7 @@
 
 > Música ambiental para noches tranquilas.
 
-306 songs - 15 hr 11 min
+307 songs - 15 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,6 +51,7 @@
 | [Clear Sky](https://open.spotify.com/track/0sStz9SBt5DOF7CynqUUwa) | [Sleepy Clouds](https://open.spotify.com/artist/2VGcECsvRjugsMNJ2bVSsM) | [Looking Up](https://open.spotify.com/album/6v569ccwhxvUy8qHjHYix5) | 3:10 | 2023-04-06 |  |
 | [Close At Heart](https://open.spotify.com/track/6HTFfsnSvXpraVQrrYDN3U) | [The Lay\-Backs](https://open.spotify.com/artist/3hcHU2Pwf2YPgQXqdEi83C) | [Close At Heart](https://open.spotify.com/album/1nVDq2epSzOWeDyu82uoen) | 3:35 | 2023-04-06 |  |
 | [cognizant](https://open.spotify.com/track/5CC8QT7TuttcXXSlj5cx2T) | [Lori Dulac](https://open.spotify.com/artist/2DnmwSjyOzafsYaKylL4St) | [cognizant](https://open.spotify.com/album/4Fb4c1N2xSMNyAJerSsnqF) | 3:11 | 2023-04-06 |  |
+| [Colors Of Tomorrow](https://open.spotify.com/track/5UkYo3mcGKkkkp9aZmPW5b) | [Camilento](https://open.spotify.com/artist/4BekYfsPtsGwVk7Jda3NqR) | [Tranquilidad](https://open.spotify.com/album/06JP68CfOlaRpwdAoSpTXG) | 3:30 | 2023-05-19 |  |
 | [Comtemplating Still](https://open.spotify.com/track/3nq5cRQENEy6gZGwhlpdPz) | [Bree Arnold](https://open.spotify.com/artist/442UEEXcXRGduZmBuiZCwV) | [Comtemplating Still](https://open.spotify.com/album/6nEgQaVsZ4unrb44vrRRZo) | 1:40 | 2023-04-06 |  |
 | [Confianza](https://open.spotify.com/track/5MN8kJAw4b4lgNlz1KO32M) | [Alegro Moya](https://open.spotify.com/artist/15YhDrOSaJa3ZoiwykoifX) | [Confianza](https://open.spotify.com/album/168r4UP4oBoygnv2Y47oLp) | 3:18 | 2023-04-06 |  |
 | [Continuation](https://open.spotify.com/track/6CtgSHDxivSLqi4vjYCUs8) | [Yonatan Awate](https://open.spotify.com/artist/6ptntg50Xz0ACYkxCIOHz0) | [Continuation](https://open.spotify.com/album/5Kgdlv5JbgHgtUo3zXiOGj) | 2:41 | 2023-04-06 |  |
@@ -70,7 +71,7 @@
 | [Depth](https://open.spotify.com/track/01HoaDNqU6ZrXYj0GIDQjv) | [Conde Arona](https://open.spotify.com/artist/6hmmRGYolxHWDk3H2GeBUU) | [Depth](https://open.spotify.com/album/0BsO1Kfgqwjr1XZcVKJymI) | 2:56 | 2023-04-06 |  |
 | [Desiderio](https://open.spotify.com/track/0wOCx6BAKo9ZSpejgL8C2Y) | [Artemio Li Fonti](https://open.spotify.com/artist/78cI0FrhBVpr9Dq0fN5BZw) | [Desiderio](https://open.spotify.com/album/3sN0qF9BHNIrLSN2Z0IWYk) | 3:26 | 2023-04-06 |  |
 | [Diem Vesper Commendat](https://open.spotify.com/track/5Kzm98GR30X1sEYWKE2eB9) | [Alma Grøtte](https://open.spotify.com/artist/7uLS5Q5tx0Chuaihp53VEE) | [Diem Vesper Commendat](https://open.spotify.com/album/2o2NEHkvOll7w1FDD4FLCg) | 3:04 | 2023-04-06 |  |
-| [Dissipate](https://open.spotify.com/track/45SM2JDNUlpKLJ9zJEPFvv) | [Gavin Luke](https://open.spotify.com/artist/2bqAlaRiT91dCQ7KMGnP8i) | [Fragmented](https://open.spotify.com/album/7E5MjoqX5LSadIzFnduoUc) | 2:50 | 2023-04-06 |  |
+| [Dissipate](https://open.spotify.com/track/45SM2JDNUlpKLJ9zJEPFvv) | [Gavin Luke](https://open.spotify.com/artist/2bqAlaRiT91dCQ7KMGnP8i) | [Fragmented](https://open.spotify.com/album/7E5MjoqX5LSadIzFnduoUc) | 2:50 | 2023-04-06 | 2023-05-20 |
 | [Distant](https://open.spotify.com/track/7czmviSHPd55HKidnHmYYB) | [Cosmic Nuit](https://open.spotify.com/artist/46LH6chzwNfYqkt6AklmZk) | [Traveling Windows](https://open.spotify.com/album/4C9ugRx6etBU29t5694z7m) | 3:17 | 2023-04-06 |  |
 | [Distant Glow](https://open.spotify.com/track/2aBYVl2d2RFAPbYlZ7rIUf) | [Rannar Sillard](https://open.spotify.com/artist/3WIjOR36QpKStT6hfxguh5) | [Weightless Again](https://open.spotify.com/album/66ZFnHFTZ1NcORTEAGX0dG) | 2:11 | 2023-04-06 |  |
 | [Divine](https://open.spotify.com/track/5mdvqfYB4Efy14X88LtTB5) | [Rainbow Rise](https://open.spotify.com/artist/7nqV0p65fl1bNXeSuTQxOd) | [Majestic](https://open.spotify.com/album/624aXTR4dUoP9dVfUAoryG) | 3:07 | 2023-04-06 |  |

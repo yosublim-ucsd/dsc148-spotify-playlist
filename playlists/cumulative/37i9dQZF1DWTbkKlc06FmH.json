@@ -2598,10 +2598,28 @@
       ],
       "date_added": "2023-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 211840,
       "name": "Inbox",
       "url": "https://open.spotify.com/track/2w4TYnlQOYSb8p5VQO6YVC"
+    },
+    {
+      "album": {
+        "name": "Inbox",
+        "url": "https://open.spotify.com/album/6RrIKAz2wR5llEp8QkWYR6"
+      },
+      "artists": [
+        {
+          "name": "Fieh",
+          "url": "https://open.spotify.com/artist/0KmBIwN1qmQbXpR4wtJX88"
+        }
+      ],
+      "date_added": "2023-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211840,
+      "name": "Inbox",
+      "url": "https://open.spotify.com/track/4LDL61N8L0D5FNtgoEsbbV"
     },
     {
       "album": {

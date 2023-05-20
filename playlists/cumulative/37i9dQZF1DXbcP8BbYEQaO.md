@@ -4,7 +4,7 @@
 
 > sparkling, shimmery synth pop ✨
 
-530 songs - 1 day 5 hr 59 min
+532 songs - 1 day 6 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -145,6 +145,7 @@
 | [Easy](https://open.spotify.com/track/1U6NDSRMcLYdJIUzwPASni) | [Emilie Nicolas](https://open.spotify.com/artist/4cXE1g28uYrIaUisUx5cJt) | [Easy](https://open.spotify.com/album/17Wr40mwfgaeUREqsKQNRt) | 5:44 | 2022-10-14 | 2022-12-29 |
 | [Ego](https://open.spotify.com/track/253V91l7DxehjkHyvxLPNN) | [Tove Styrke](https://open.spotify.com/artist/2QSPrJfYeRXaltEEiriXN9) | [Ego](https://open.spotify.com/album/77geSTREeNrIHlpetsQoVz) | 3:49 | 2022-04-16 | 2022-05-21 |
 | [Emotion](https://open.spotify.com/track/5Rnv9hVUuyc5Q7jiFRHRwm) | [Hazey Eyes](https://open.spotify.com/artist/3r0RZ55RKisnnF0jVcYrVR), [Panama](https://open.spotify.com/artist/3W9UldYu0xJcaOAw2SUTDI) | [Love Lost \- EP](https://open.spotify.com/album/1U1CVrJeVjdt6eY13T34FY) | 3:24 | 2020-10-13\* | 2022-01-01 |
+| [End Of Time](https://open.spotify.com/track/5ttodnEIaCGDuBbvJctUfc) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [End Of Time](https://open.spotify.com/album/5qIq5q9nx9fymmk5JyKmsB) | 3:03 | 2023-05-19 |  |
 | [Entertainer](https://open.spotify.com/track/6kjKRa91zikS6ZOL2Rt1QF) | [ZAYN](https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81) | [Icarus Falls](https://open.spotify.com/album/2aE3VcIiNPqqo4VzOXiDoR) | 3:22 | 2020-10-13\* | 2021-07-04 |
 | [Ever Since New York](https://open.spotify.com/track/5LABCxgmP7DATATIJXOh6n) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry Styles](https://open.spotify.com/album/1FZKIm3JVDCxTchXDo5jOV) | 4:13 | 2021-06-19 | 2021-06-26 |
 | [Every Way \(Supernatural\)](https://open.spotify.com/track/075uePuMwWGQacfAyIK5d1) | [Stephen Day](https://open.spotify.com/artist/4cnFw4bkIWVGKUBsr93OS5) | [Every Way \(Supernatural\)](https://open.spotify.com/album/4XEYm7Duc4QmDm58UOBfX0) | 3:43 | 2020-11-18 | 2021-07-04 |
@@ -246,7 +247,7 @@
 | [I Met Sarah in the Bathroom](https://open.spotify.com/track/0mr8FAnN9X70p5KRUwMIJx) | [awfultune](https://open.spotify.com/artist/1vkWdqcabQ1swciXipkLBj) | [I Met Sarah in the Bathroom](https://open.spotify.com/album/3z7kfJNZsrAjHY3Q24N4QQ) | 2:01 | 2021-07-18 | 2021-07-31 |
 | [I Think I Like You](https://open.spotify.com/track/6yOxL1xfPkv9Z9zvpNrMDU) | [The Band CAMINO](https://open.spotify.com/artist/6d4jrmreCmsenscuieJERc) | [The Band CAMINO](https://open.spotify.com/album/1N5ZRHDLAv92FHZ4fRYhCi) | 3:02 | 2021-10-02 | 2022-04-09 |
 | [I Wanted to Keep You](https://open.spotify.com/track/4H5QTP8dcCF43mplpAja28) | [NOVACUB](https://open.spotify.com/artist/5AgzqwERKzaLXw6wSL5LcO) | [I Wanted to Keep You](https://open.spotify.com/album/1fCPIcTrS1wkX529mzWDWw) | 2:48 | 2021-10-02 | 2022-03-26 |
-| [I will fall](https://open.spotify.com/track/7BTtFGSWdfpj4bMPWBlQzH) | [Pet Shop Boys](https://open.spotify.com/artist/2ycnb8Er79LoH2AsR5ldjh) | [Lost](https://open.spotify.com/album/19iU0Zz3hNQwWCSjJaR5LI) | 4:38 | 2023-04-28 |  |
+| [I will fall](https://open.spotify.com/track/7BTtFGSWdfpj4bMPWBlQzH) | [Pet Shop Boys](https://open.spotify.com/artist/2ycnb8Er79LoH2AsR5ldjh) | [Lost](https://open.spotify.com/album/19iU0Zz3hNQwWCSjJaR5LI) | 4:38 | 2023-04-28 | 2023-05-20 |
 | [I'm A Believer](https://open.spotify.com/track/2nh8erBozDNU7vOEnmWsS7) | [AFTRHOURS](https://open.spotify.com/artist/3pvFPaqjwCdXwVIt3uIad5) | [I'm A Believer](https://open.spotify.com/album/4r9DrMEpm9ixgaxFhZH0YS) | 2:26 | 2021-11-27 | 2022-04-17 |
 | [I'm baby](https://open.spotify.com/track/5B6CTjpy80qbhMPD2lAwrD) | [Emilia Ali](https://open.spotify.com/artist/4k5j2KkfsE7yGO46C0Hm1G) | [I'm baby](https://open.spotify.com/album/3Cp8AH2uQwHH5pRdMdSaBU) | 2:40 | 2022-12-02 | 2023-01-21 |
 | [i'm yours](https://open.spotify.com/track/37vVp2sWHuuIBOSl1NswP6) | [Isabel LaRosa](https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4) | [i'm yours](https://open.spotify.com/album/3Q25UtV9pHu7onNcKwmmZ3) | 2:25 | 2022-10-28 |  |
@@ -296,7 +297,7 @@
 | [Lose Yourself](https://open.spotify.com/track/50BCSiudZXPTLHWkQzulII) | [Tsatsamis](https://open.spotify.com/artist/3z2RaxEObO8hXkvmG5xou0) | [Lose Yourself](https://open.spotify.com/album/31uaGLLLoSZcNLRjFviWfk) | 3:16 | 2022-04-29 | 2022-07-29 |
 | [Lost In The Moment](https://open.spotify.com/track/3nF5FjUP4W0QBxW4JCyUoa) | [Blanks](https://open.spotify.com/artist/7geo7fjTQyp13Wf2ALTZCF) | [Lost In The Moment](https://open.spotify.com/album/68WmmsPnVwG3ltUQaDY0JJ) | 2:33 | 2022-03-25 | 2023-01-29 |
 | [Love Her](https://open.spotify.com/track/2hgk8iKN9UdoM4ILlJ9F5N) | [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [Happiness Begins](https://open.spotify.com/album/1Uf67JAtkVWfdydzFFqNF2) | 3:13 | 2020-10-13\* | 2021-02-19 |
-| [Love Me More](https://open.spotify.com/track/2OnrjKShafw7qtoyLkKNR2) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Love Me More](https://open.spotify.com/album/6A6pDjKLE4beMgQZzLJ2Qp) | 3:32 | 2022-01-14 |  |
+| [Love Me More](https://open.spotify.com/track/2OnrjKShafw7qtoyLkKNR2) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Love Me More](https://open.spotify.com/album/6A6pDjKLE4beMgQZzLJ2Qp) | 3:32 | 2022-01-14 | 2023-05-20 |
 | [Love Story \(Taylor's Version\) \- Elvira Remix](https://open.spotify.com/track/5RaBeejGtdPEszYEKYECs2) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02), [ELVIRA](https://open.spotify.com/artist/4nhsQ3u12To27WM6rqNEa1) | [Love Story \(Taylor's Version\) \[Elvira Remix\]](https://open.spotify.com/album/3x4gaf5IPyFQNrxZY07CXA) | 3:31 | 2021-06-19 | 2021-07-10 |
 | [Love You Goodbye](https://open.spotify.com/track/1ZWLWVqeEMWMKTlteS0yLH) | [One Direction](https://open.spotify.com/artist/4AK6F7OLvEQ5QYCBNiQWHq) | [Made In The A.M\. \(Deluxe Edition\)](https://open.spotify.com/album/1gMxiQQSg5zeu4htBosASY) | 3:16 | 2020-10-13\* | 2020-11-18 |
 | [Love You Like That](https://open.spotify.com/track/3lwj9NfzoDQSgO55pKPoEe) | [Arctic Lake](https://open.spotify.com/artist/0IEPb9ily3E5IAYMSkwtQ6) | [Love You Like That](https://open.spotify.com/album/6AZYaZ370HCDULVuJPrZdx) | 3:36 | 2022-02-25 | 2022-07-29 |
@@ -358,6 +359,7 @@
 | [Out \(Out\)](https://open.spotify.com/track/4LZEs2TkZLQcCmaHa6GBfH) | [Little Boots](https://open.spotify.com/artist/0MoXIHcFwhIWnFgBfdvQ30) | [Out \(Out\)](https://open.spotify.com/album/2yklb70De4aHLT2bTlJX3d) | 4:24 | 2022-02-18 | 2022-03-26 |
 | [Over](https://open.spotify.com/track/56kItkqB3oSsLrXK4p3ja4) | [CHVRCHES](https://open.spotify.com/artist/3CjlHNtplJyTf9npxaPl5w) | [Over](https://open.spotify.com/album/3qCe36870O2BtTW8t7X7LE) | 3:37 | 2023-02-24 |  |
 | [Overthinking](https://open.spotify.com/track/1rQkqnN2ky1KmchT66eWFu) | [Mabel](https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4), [24kGoldn](https://open.spotify.com/artist/6fWVd57NKTalqvmjRd2t8Z) | [Overthinking](https://open.spotify.com/album/73w5XKOuWg456VuawuUH47) | 2:54 | 2022-05-20 | 2023-04-22 |
+| [Padam Padam](https://open.spotify.com/track/3k0DJq2HdWJqnqor8NX0ac) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Padam Padam](https://open.spotify.com/album/7vH3G0c3n1WsgTJHBmZxdV) | 2:46 | 2023-05-19 |  |
 | [Pain Goes Away](https://open.spotify.com/track/65flXM7XbfRCY2UdBf6UrW) | [Refs](https://open.spotify.com/artist/7yxpGyw5CZPsrTPpkERpc4) | [Stories](https://open.spotify.com/album/15LF2XANVOYyWG8Hv8TVNp) | 3:28 | 2021-07-10 | 2021-10-14 |
 | [Paradise City](https://open.spotify.com/track/73jwOBEHGhnsXTXlePzfLF) | [Micky Blue](https://open.spotify.com/artist/74RDfhi3g8pfpmMCrQUtpF) | [Paradise City](https://open.spotify.com/album/65EFkcp9ogFAr0XUyYJBi9) | 3:33 | 2022-04-16 | 2022-07-26 |
 | [Passenger](https://open.spotify.com/track/3EnEB8QkTCRWc0nbzvc8pM) | [Kiesza](https://open.spotify.com/artist/4zxvC7CRGvggq9EWXOpwAo) | [Passenger](https://open.spotify.com/album/6DNKH8zJG499qgiZ3kvbLd) | 2:55 | 2022-01-21 | 2022-02-26 |

@@ -256,7 +256,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 167164,
       "name": "4Runner",
       "url": "https://open.spotify.com/track/4AwnxHny9z5m0ZHmYSpkGq"
@@ -490,7 +490,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 218965,
       "name": "Admit It",
       "url": "https://open.spotify.com/track/4FBiHrmYBHVF2vyaWDdQnr"
@@ -1527,6 +1527,28 @@
     },
     {
       "album": {
+        "name": "Bandits",
+        "url": "https://open.spotify.com/album/6BiD9oYcID3klKiQRe97Ep"
+      },
+      "artists": [
+        {
+          "name": "Molly Payton",
+          "url": "https://open.spotify.com/artist/6mbzLeDgokrXD05pj6kf0N"
+        },
+        {
+          "name": "Oscar Lang",
+          "url": "https://open.spotify.com/artist/6deCiWT7ATcDWP2Cvlalvn"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216500,
+      "name": "Bandits",
+      "url": "https://open.spotify.com/track/0ukrz7KoFpJGRrob2BGZA0"
+    },
+    {
+      "album": {
         "name": "Bang Bang",
         "url": "https://open.spotify.com/album/0NTpahhBmUXJjGRD1kuaV6"
       },
@@ -1736,7 +1758,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 163785,
       "name": "Best Friend",
       "url": "https://open.spotify.com/track/1RoqxQ9jOyHWObm6mlV99n"
@@ -1790,7 +1812,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 187547,
       "name": "Better Now",
       "url": "https://open.spotify.com/track/1YSNxaaqDvsIyBFakpf8PW"
@@ -2382,7 +2404,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 190044,
       "name": "boxysoxy",
       "url": "https://open.spotify.com/track/6DcALE029s14ahdYNY1u15"
@@ -3154,6 +3176,24 @@
       "duration_ms": 209266,
       "name": "Change Shapes (feat. Jesse)",
       "url": "https://open.spotify.com/track/0pFx0KHtJVFzfjrQQB1FoR"
+    },
+    {
+      "album": {
+        "name": "Change Your Mind",
+        "url": "https://open.spotify.com/album/22PlF1r7TVJujwnutC9vb1"
+      },
+      "artists": [
+        {
+          "name": "Bully",
+          "url": "https://open.spotify.com/artist/34LdbFt5sVXKTJOzf1iExQ"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237920,
+      "name": "Change Your Mind",
+      "url": "https://open.spotify.com/track/45KJZeYbF0N1tezwHWpeiz"
     },
     {
       "album": {
@@ -4220,7 +4260,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 160266,
       "name": "Days Move Slow",
       "url": "https://open.spotify.com/track/4zeGdv0J2HFfTaZIyUPwrq"
@@ -7058,7 +7098,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 153413,
       "name": "Hard to Love",
       "url": "https://open.spotify.com/track/5pFfip3UVI1qAKFjYd8gHZ"
@@ -7300,7 +7340,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 132383,
       "name": "Hey Monet",
       "url": "https://open.spotify.com/track/2LReZPqy0KOejjm8E0aOLa"
@@ -8892,7 +8932,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 252346,
       "name": "Joangeline",
       "url": "https://open.spotify.com/track/3ZAVeIbgPBF868Y18fNlyv"
@@ -9198,7 +9238,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 149090,
       "name": "King of Nothing",
       "url": "https://open.spotify.com/track/3A8zf3SB7ia8oMpqqnCRHl"
@@ -9270,7 +9310,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 191789,
       "name": "Know Better",
       "url": "https://open.spotify.com/track/3qQGm2LA50Pr3ejJuIo56A"
@@ -9803,6 +9843,24 @@
     },
     {
       "album": {
+        "name": "Lose",
+        "url": "https://open.spotify.com/album/3ZTQVeyP8qtTnjlp0XLWL9"
+      },
+      "artists": [
+        {
+          "name": "Hannah Jadagu",
+          "url": "https://open.spotify.com/artist/523ty8zP7K5cPIdenUm4bj"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196739,
+      "name": "Lose",
+      "url": "https://open.spotify.com/track/2w5QAzFA6bwErf3Xo05mQK"
+    },
+    {
+      "album": {
         "name": "Lose You (feat. Soccer Mommy)",
         "url": "https://open.spotify.com/album/5Ctzgdf3fjqxUV8PvrDPHf"
       },
@@ -9822,6 +9880,24 @@
       "duration_ms": 175386,
       "name": "Lose You (feat. Soccer Mommy)",
       "url": "https://open.spotify.com/track/0KmC4jFH8axcJqKvOTBXeX"
+    },
+    {
+      "album": {
+        "name": "Loser at Best",
+        "url": "https://open.spotify.com/album/5kCYiAEMWTDztfN77A7FDk"
+      },
+      "artists": [
+        {
+          "name": "Wallice",
+          "url": "https://open.spotify.com/artist/6d6ts87Fxm1EdULf4CaLw4"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190631,
+      "name": "Loser at Best",
+      "url": "https://open.spotify.com/track/3AVYmz1xX2INIwnSz9pyat"
     },
     {
       "album": {
@@ -10049,6 +10125,24 @@
     },
     {
       "album": {
+        "name": "Campanita",
+        "url": "https://open.spotify.com/album/41FeoNfcFYVQfGSTJkcC5W"
+      },
+      "artists": [
+        {
+          "name": "Summer Salt",
+          "url": "https://open.spotify.com/artist/3MATPJ9tYbcMhw5VOZrRU6"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187160,
+      "name": "Macaroon",
+      "url": "https://open.spotify.com/track/4htHe9CbVRTYlzjdM09rE7"
+    },
+    {
+      "album": {
         "name": "Madison",
         "url": "https://open.spotify.com/album/6VilDmxMVVi7KBpdOFYKMo"
       },
@@ -10150,7 +10244,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 231979,
       "name": "Manipulator",
       "url": "https://open.spotify.com/track/4X6CZuqrnqMAbXbZpU6SrD"
@@ -10864,7 +10958,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 219160,
       "name": "mutual-fren*",
       "url": "https://open.spotify.com/track/4zI2ttmEwmvotQcphBaNTE"
@@ -11008,7 +11102,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 198133,
       "name": "Need You No More",
       "url": "https://open.spotify.com/track/52wTxB7XWwR0Ix6zT57PM0"
@@ -13258,7 +13352,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 147171,
       "name": "Salivate",
       "url": "https://open.spotify.com/track/00ieljc71OVNDOvJ22tbiN"
@@ -13364,6 +13458,24 @@
       "duration_ms": 131357,
       "name": "saturday",
       "url": "https://open.spotify.com/track/54iqx8FozDfH95XVTOwRZn"
+    },
+    {
+      "album": {
+        "name": "Say It Now",
+        "url": "https://open.spotify.com/album/3JNDXizzLk1huvkJBF1j6V"
+      },
+      "artists": [
+        {
+          "name": "Hannah Jadagu",
+          "url": "https://open.spotify.com/artist/523ty8zP7K5cPIdenUm4bj"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220833,
+      "name": "Say It Now",
+      "url": "https://open.spotify.com/track/2Gr6KRSDvhY6LxL5wVQP9K"
     },
     {
       "album": {
@@ -13703,6 +13815,24 @@
     },
     {
       "album": {
+        "name": "Should I",
+        "url": "https://open.spotify.com/album/17tq1FC1vDQJkTRNCNYcXc"
+      },
+      "artists": [
+        {
+          "name": "Sir Chloe",
+          "url": "https://open.spotify.com/artist/6rniTPs9zN26kYnkPdFl1U"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148301,
+      "name": "Should I",
+      "url": "https://open.spotify.com/track/5n2SP6R5k7LS3GdJEirPeM"
+    },
+    {
+      "album": {
         "name": "Show Up",
         "url": "https://open.spotify.com/album/2eCZIIngA9bPYRUoKxd29z"
       },
@@ -13736,6 +13866,24 @@
       "duration_ms": 210773,
       "name": "Shut Up and Show Me",
       "url": "https://open.spotify.com/track/6XkhuBBmnX7bKcW3ErAy0g"
+    },
+    {
+      "album": {
+        "name": "Sick of Your Sound",
+        "url": "https://open.spotify.com/album/7xUfvvjZ4xx2GjLymbVz1V"
+      },
+      "artists": [
+        {
+          "name": "Sad Night Dynamite",
+          "url": "https://open.spotify.com/artist/6ydvoGN30eRfE78bjTANF7"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210773,
+      "name": "Sick of Your Sound",
+      "url": "https://open.spotify.com/track/6dLuuloMLdAQy6BJJTQnBl"
     },
     {
       "album": {
@@ -15439,6 +15587,24 @@
     },
     {
       "album": {
+        "name": "The Narcissist",
+        "url": "https://open.spotify.com/album/2BfpnbY3M0oc9NyW87NKGz"
+      },
+      "artists": [
+        {
+          "name": "Blur",
+          "url": "https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245225,
+      "name": "The Narcissist",
+      "url": "https://open.spotify.com/track/35d93v9AXADp8Wc0qJ3mIo"
+    },
+    {
+      "album": {
         "name": "The Other Way",
         "url": "https://open.spotify.com/album/20k8V0vHdLxnkTaJjXGcFE"
       },
@@ -15970,6 +16136,24 @@
       "duration_ms": 174545,
       "name": "To be, or not to be ugly",
       "url": "https://open.spotify.com/track/25cJX61SWZCOlgNuvHf20c"
+    },
+    {
+      "album": {
+        "name": "To Death",
+        "url": "https://open.spotify.com/album/2DxtdOUQLlGZF0HTlwtTo9"
+      },
+      "artists": [
+        {
+          "name": "EXES",
+          "url": "https://open.spotify.com/artist/39R87tT1qaTxHwu5m87USa"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194430,
+      "name": "To Death",
+      "url": "https://open.spotify.com/track/1cGM4KM6XcQnq3vSnf5VjE"
     },
     {
       "album": {
@@ -17560,7 +17744,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 178571,
       "name": "Woman on Fire",
       "url": "https://open.spotify.com/track/1UVKKR5tN9KfKYng30e1dx"

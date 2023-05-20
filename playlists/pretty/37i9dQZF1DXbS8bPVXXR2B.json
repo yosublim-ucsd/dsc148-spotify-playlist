@@ -1,12 +1,12 @@
 {
   "description": "We just wanna rock you all night long.",
-  "num_followers": 204190,
+  "num_followers": 204388,
   "original_name": "Disco Hi-Life",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwYzM0NjNjOGNmMzU5ZGJlMTlhOGVkZWU4MzdhNTVlMWEwY2M4YjYw",
+  "snapshot_id": "MCw3YzU0ZDM0MDgwZmZhMzY0NjQ1YjE5ODYwNDY3YzdjZGVmNGY4MTdm",
   "tracks": [
     {
       "added_at": "2022-09-05 16:54:43",
@@ -787,22 +787,6 @@
     {
       "added_at": "2022-09-05 16:54:43",
       "album": {
-        "name": "Modern Heat EP",
-        "url": "https://open.spotify.com/album/6VScSyrcTNlmzshPBFBwV0"
-      },
-      "artists": [
-        {
-          "name": "MAM",
-          "url": "https://open.spotify.com/artist/30TcH7sAEGnI1wVZhCgBfi"
-        }
-      ],
-      "duration_ms": 280417,
-      "name": "Crushed Ice",
-      "url": "https://open.spotify.com/track/1ozRjt9gyqdzD8XllWUAZA"
-    },
-    {
-      "added_at": "2022-09-05 16:54:43",
-      "album": {
         "name": "I Want to Feel Your Love",
         "url": "https://open.spotify.com/album/7snUwkG3Ke47yLJBbwbcfk"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 378485,
       "name": "Enjoy Your Life",
       "url": "https://open.spotify.com/track/1UKk8v7T2IrpcLEP1KKqZb"
+    },
+    {
+      "added_at": "2022-09-05 16:54:43",
+      "album": {
+        "name": "Modern Heat EP",
+        "url": "https://open.spotify.com/album/6VScSyrcTNlmzshPBFBwV0"
+      },
+      "artists": [
+        {
+          "name": "MAM",
+          "url": "https://open.spotify.com/artist/30TcH7sAEGnI1wVZhCgBfi"
+        }
+      ],
+      "duration_ms": 280417,
+      "name": "Crushed Ice",
+      "url": "https://open.spotify.com/track/1ozRjt9gyqdzD8XllWUAZA"
     },
     {
       "added_at": "2022-09-05 16:54:43",
@@ -1011,22 +1011,6 @@
     {
       "added_at": "2022-09-05 16:54:43",
       "album": {
-        "name": "Straight From The Heart",
-        "url": "https://open.spotify.com/album/1y2MGKwD1ap3FxPc4ii6QO"
-      },
-      "artists": [
-        {
-          "name": "Patrice Rushen",
-          "url": "https://open.spotify.com/artist/1mNnxxnPfHQDOkFjnZmdkc"
-        }
-      ],
-      "duration_ms": 408142,
-      "name": "Number One - 12\" Version",
-      "url": "https://open.spotify.com/track/3vSgRQYNEUEjcFOGMiSTw3"
-    },
-    {
-      "added_at": "2022-09-05 16:54:43",
-      "album": {
         "name": "Harmonies",
         "url": "https://open.spotify.com/album/2EVOE2I0qXDO4qtY7driBe"
       },
@@ -1043,6 +1027,22 @@
       "duration_ms": 354213,
       "name": "The Sweetest Meditation",
       "url": "https://open.spotify.com/track/4n1qwgVWwYIFLuCEfzwnrT"
+    },
+    {
+      "added_at": "2022-09-05 16:54:43",
+      "album": {
+        "name": "Straight From The Heart",
+        "url": "https://open.spotify.com/album/1y2MGKwD1ap3FxPc4ii6QO"
+      },
+      "artists": [
+        {
+          "name": "Patrice Rushen",
+          "url": "https://open.spotify.com/artist/1mNnxxnPfHQDOkFjnZmdkc"
+        }
+      ],
+      "duration_ms": 408142,
+      "name": "Number One - 12\" Version",
+      "url": "https://open.spotify.com/track/3vSgRQYNEUEjcFOGMiSTw3"
     },
     {
       "added_at": "2022-09-05 16:54:43",
@@ -1431,6 +1431,22 @@
     {
       "added_at": "2022-09-05 16:54:43",
       "album": {
+        "name": "Disco Illusion",
+        "url": "https://open.spotify.com/album/04rsn20RX1qNN9JMSY76P9"
+      },
+      "artists": [
+        {
+          "name": "Stephen Encinas",
+          "url": "https://open.spotify.com/artist/1x7JcJXMdepSOPU57sQNk5"
+        }
+      ],
+      "duration_ms": 284985,
+      "name": "Lypso Illusion",
+      "url": "https://open.spotify.com/track/39A5QHG41wrR0cahFX5Y7N"
+    },
+    {
+      "added_at": "2022-09-05 16:54:43",
+      "album": {
         "name": "Watchin Out",
         "url": "https://open.spotify.com/album/25IbgmgW9oZb0jXH7oGBtf"
       },
@@ -1463,22 +1479,6 @@
     {
       "added_at": "2022-09-05 16:54:43",
       "album": {
-        "name": "Disco Illusion",
-        "url": "https://open.spotify.com/album/04rsn20RX1qNN9JMSY76P9"
-      },
-      "artists": [
-        {
-          "name": "Stephen Encinas",
-          "url": "https://open.spotify.com/artist/1x7JcJXMdepSOPU57sQNk5"
-        }
-      ],
-      "duration_ms": 284985,
-      "name": "Lypso Illusion",
-      "url": "https://open.spotify.com/track/39A5QHG41wrR0cahFX5Y7N"
-    },
-    {
-      "added_at": "2022-09-05 16:54:43",
-      "album": {
         "name": "Paradise (Remastered)",
         "url": "https://open.spotify.com/album/0aVMTknKy6rbFESKvOlOV3"
       },
@@ -1491,22 +1491,6 @@
       "duration_ms": 331893,
       "name": "Classy Lady - Remastered Version",
       "url": "https://open.spotify.com/track/2wSwWfqpMBkHBOkb6cCB7o"
-    },
-    {
-      "added_at": "2022-09-05 16:54:43",
-      "album": {
-        "name": "Early Recordings",
-        "url": "https://open.spotify.com/album/75uCBV1xGMPYzD8e3NQjBs"
-      },
-      "artists": [
-        {
-          "name": "Patchworks",
-          "url": "https://open.spotify.com/artist/5Qq1R0T5ZL6U0H8zerwFdo"
-        }
-      ],
-      "duration_ms": 330013,
-      "name": "Brothers on the Slide - Brooklyn Mix",
-      "url": "https://open.spotify.com/track/6sIrVJFCHotw73aOv6MAfP"
     },
     {
       "added_at": "2022-09-05 16:54:43",
@@ -1527,6 +1511,22 @@
     {
       "added_at": "2022-09-05 16:54:43",
       "album": {
+        "name": "Early Recordings",
+        "url": "https://open.spotify.com/album/75uCBV1xGMPYzD8e3NQjBs"
+      },
+      "artists": [
+        {
+          "name": "Patchworks",
+          "url": "https://open.spotify.com/artist/5Qq1R0T5ZL6U0H8zerwFdo"
+        }
+      ],
+      "duration_ms": 330013,
+      "name": "Brothers on the Slide - Brooklyn Mix",
+      "url": "https://open.spotify.com/track/6sIrVJFCHotw73aOv6MAfP"
+    },
+    {
+      "added_at": "2022-09-05 16:54:43",
+      "album": {
         "name": "Do It Do It Disco",
         "url": "https://open.spotify.com/album/5Auymg5cz9Dv9gURiVaU0Q"
       },
@@ -1543,22 +1543,6 @@
       "duration_ms": 350164,
       "name": "Do It Do It Disco (Tom Noble Remix)",
       "url": "https://open.spotify.com/track/67XDCDC0hwYS1jNt01oyZt"
-    },
-    {
-      "added_at": "2022-09-05 16:54:43",
-      "album": {
-        "name": "Miracles (Original Album and Rare Tracks)",
-        "url": "https://open.spotify.com/album/1DvtnAjG7Nolt61eSaJV1r"
-      },
-      "artists": [
-        {
-          "name": "Change",
-          "url": "https://open.spotify.com/artist/2fJ2vi4PUSxyvYaeq0FTbE"
-        }
-      ],
-      "duration_ms": 338453,
-      "name": "Heaven of My Life - Full Length Album Mix",
-      "url": "https://open.spotify.com/track/52f8B5MNlTVQgxNsiGfBOl"
     },
     {
       "added_at": "2022-09-05 16:54:43",
@@ -1591,6 +1575,22 @@
       "duration_ms": 357760,
       "name": "On the Beat - Full Length Mix",
       "url": "https://open.spotify.com/track/5tdMJa2vdkSoONkzlZVD0o"
+    },
+    {
+      "added_at": "2022-09-05 16:54:43",
+      "album": {
+        "name": "Miracles (Original Album and Rare Tracks)",
+        "url": "https://open.spotify.com/album/1DvtnAjG7Nolt61eSaJV1r"
+      },
+      "artists": [
+        {
+          "name": "Change",
+          "url": "https://open.spotify.com/artist/2fJ2vi4PUSxyvYaeq0FTbE"
+        }
+      ],
+      "duration_ms": 338453,
+      "name": "Heaven of My Life - Full Length Album Mix",
+      "url": "https://open.spotify.com/track/52f8B5MNlTVQgxNsiGfBOl"
     },
     {
       "added_at": "2022-09-05 16:54:43",

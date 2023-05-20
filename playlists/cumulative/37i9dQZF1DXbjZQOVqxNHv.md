@@ -4,7 +4,7 @@
 
 > All the Intelligent Dance Music you'll need \(not necessarily to dance to\)\. Aphex Twin on cover.
 
-554 songs - 2 day 4 hr 3 min
+555 songs - 2 day 4 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -76,7 +76,7 @@
 | [Boyrgurl](https://open.spotify.com/track/0CfHjEeBk8mGNiRctKIP1X) | [Freescha](https://open.spotify.com/artist/0TZfDwCnRJr7CmqjLTxVBu) | [Kids Fill the Floor](https://open.spotify.com/album/7hXxLwulPHoOT8dkGV9iR5) | 8:16 | 2022-04-13 |  |
 | [Boyrgurl](https://open.spotify.com/track/5i39Gag8wvi6geAC1MWNVG) | [Freescha](https://open.spotify.com/artist/0TZfDwCnRJr7CmqjLTxVBu) | [Kids Fill the Floor](https://open.spotify.com/album/1zrJE0DtgSgLd7PtMKEmYN) | 8:16 | 2022-04-13 | 2022-10-22 |
 | [Brace Yourself Jason](https://open.spotify.com/track/4Z8jptUDjJDuxBf0pSOvSi) | [µ\-Ziq](https://open.spotify.com/artist/7AiamoV760pPGGM5PbOC6X) | [Lunatic Harness](https://open.spotify.com/album/5Rc5G86a4zX96HlyHYeGsX) | 6:22 | 2022-04-13 |  |
-| [C.N.S.](https://open.spotify.com/track/78YC5j4VWIdP0CnSm1RQ6H) | [Brain Pilot](https://open.spotify.com/artist/4jZJTcDf7hzV0lBcpZIyBb) | [Cerebral Navigators: Anthology 1993\-1997](https://open.spotify.com/album/06WA933sSAdUWfBTtCXjD5) | 5:17 | 2022-04-13 |  |
+| [C.N.S.](https://open.spotify.com/track/78YC5j4VWIdP0CnSm1RQ6H) | [Brain Pilot](https://open.spotify.com/artist/4jZJTcDf7hzV0lBcpZIyBb) | [Cerebral Navigators: Anthology 1993\-1997](https://open.spotify.com/album/06WA933sSAdUWfBTtCXjD5) | 5:17 | 2022-04-13 | 2023-05-20 |
 | [Calf](https://open.spotify.com/track/4JXtHmDKTVQaRg9YYk7lzO) | [Isan](https://open.spotify.com/artist/7a7MvRxJIoVblndypH8XgC) | [Clockwork Menagerie](https://open.spotify.com/album/5OFMNYMfzonhMsVXGWC0Tr) | 4:44 | 2022-04-13 |  |
 | [California Rhinoplasty](https://open.spotify.com/track/0D9JHNhezKgTaU093ijP0k) | [Matmos](https://open.spotify.com/artist/0xBkYJzwFzcIYev4fOkvk0) | [A Chance To Cut Is A Chance To Cure](https://open.spotify.com/album/6Ny98g8gtVeMwN6TtWmYXs) | 10:01 | 2022-04-13 |  |
 | [California Rhinoplasty](https://open.spotify.com/track/7AE2nOX2ZG6mtvDdjGPxZi) | [Matmos](https://open.spotify.com/artist/0xBkYJzwFzcIYev4fOkvk0) | [A Chance To Cut Is A Chance To Cure](https://open.spotify.com/album/1g9Acy5gJWRBbybCQyMPzV) | 10:01 | 2022-04-13 | 2022-07-28 |
@@ -109,6 +109,7 @@
 | [Crisps](https://open.spotify.com/track/2gw8zczXVPoJcaod6jtEEH) | [Wishmountain](https://open.spotify.com/artist/3OTxAJPE5mwEIB3zRujYcW), [Matthew Herbert](https://open.spotify.com/artist/0zdn1nNmOZXHZ9K28FvcFp) | [Wishmountain Is Dead](https://open.spotify.com/album/6hfzDAdNLZ24QE3xDi9FM1) | 3:42 | 2022-04-13 | 2022-11-09 |
 | [Crystel](https://open.spotify.com/track/2rhy8BNOlmZAXtdw0Mmyic) | [Autechre](https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO) | [Artificial Intelligence](https://open.spotify.com/album/34aK04FrYZGC4SMS3WEPIi) | 4:37 | 2022-04-13 | 2023-02-02 |
 | [Currents \(220v Offshore\)](https://open.spotify.com/track/6zLlgYu7XKtDuOpVHRCyUp) | [Phonem](https://open.spotify.com/artist/7pjUq7YNrqJ4uZxHxsC3kR) | [Hydro Electric](https://open.spotify.com/album/1pVSeZjL46FibWZuOSM2XC) | 6:48 | 2022-04-13 |  |
+| [Cyclic Sun](https://open.spotify.com/track/2xyEVj5j92bat7f3yrkQlI) | [Africa HiTech](https://open.spotify.com/artist/0NwdePm5jeQAtYt7dyFVEu) | [93 Million Miles](https://open.spotify.com/album/24itoMD0ztpK9qU7y0u1SB) | 4:42 | 2022-04-13 |  |
 | [Cyclic Sun](https://open.spotify.com/track/3SuQSBZYRzwzmKJgP3bUK1) | [Africa HiTech](https://open.spotify.com/artist/0NwdePm5jeQAtYt7dyFVEu) | [93 Million Miles](https://open.spotify.com/album/2eU2JKfw6eLmOuClVCpTe5) | 4:42 | 2022-04-13 | 2022-07-29 |
 | [Dancers](https://open.spotify.com/track/258BvHGOVi8YbchiORbR52) | [Plaid](https://open.spotify.com/artist/5akVqMzdZOdbMYbE4vNZWD) | [Polymer](https://open.spotify.com/album/3U8FaNJ7XTrin6TNwDjuiA) | 5:00 | 2022-04-13 |  |
 | [Dancers](https://open.spotify.com/track/7bK8aDZrDPmvMHjMve0u6B) | [Plaid](https://open.spotify.com/artist/5akVqMzdZOdbMYbE4vNZWD) | [Polymer](https://open.spotify.com/album/5QuV9YWaHQVSQZekh3VMe3) | 5:00 | 2022-04-13 | 2023-02-02 |

@@ -1,12 +1,12 @@
 {
   "description": "V-Pop n\u1edf hoa tr\u00ean nh\u1eefng ca kh\u00fac n\u00e0y. \u1ea2nh b\u00eca: HIEUTHUHAI",
-  "num_followers": 151320,
+  "num_followers": 151409,
   "original_name": "V-Pop Kh\u00f4ng Th\u1ec3 Thi\u1ebfu",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmNGVjMTE0Yjg1OWVhMTZlNjllY2UwMTA1ZjUxYTNiNjc4YTRjYzM4",
+  "snapshot_id": "MCwzNTgzODAxMTYzN2UxZjJkOGY0ZjhiMDJmYmI5YjFlNmYwNTgxOTg3",
   "tracks": [
     {
       "added_at": "2023-05-18 17:00:00",
@@ -682,6 +682,10 @@
         {
           "name": "MONSTAR",
           "url": "https://open.spotify.com/artist/2CLdtsyD2NsTOBBOVr7fi8"
+        },
+        {
+          "name": "GREY D",
+          "url": "https://open.spotify.com/artist/6d0dLenjy5CnR5ZMn2agiV"
         }
       ],
       "duration_ms": 218026,

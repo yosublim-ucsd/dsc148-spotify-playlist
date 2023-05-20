@@ -4,7 +4,7 @@
 
 > indie tunes with country experimentation Cover: Bedroom
 
-88 songs - 5 hr 54 min
+97 songs - 6 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,11 +15,13 @@
 | [Beige](https://open.spotify.com/track/7uYQELhe7g6QLIzZDOlhbW) | [Yoke Lore](https://open.spotify.com/artist/7FU0xCgmSYQEiBeevUqQ4S) | [Goodpain](https://open.spotify.com/album/7soDnur2TfBoEJETTCws91) | 3:24 | 2023-02-23 |  |
 | [Better Friends](https://open.spotify.com/track/2oxPRS0DjGNecUpumDubt8) | [Bedroom](https://open.spotify.com/artist/7COP1HCvVq1cIpZcLQYoNe) | [Thread](https://open.spotify.com/album/4ngbnWenF6xcw6gtZzGOFH) | 4:46 | 2023-04-28 |  |
 | [Better Friends](https://open.spotify.com/track/5aH2jkj6VAeuoFfAxdDFo7) | [Bedroom](https://open.spotify.com/artist/7COP1HCvVq1cIpZcLQYoNe) | [Better Friends](https://open.spotify.com/album/1xAaeRGN7LploVcEwBR6TW) | 4:46 | 2023-03-17 | 2023-04-29 |
+| [Blood Red Sentimental Blues](https://open.spotify.com/track/2akMYW6w4sOWL1nhTzPJWu) | [Cotton Jones](https://open.spotify.com/artist/6RHDASo3OVNiNY2nrGx3qc) | [Paranoid Cocoon](https://open.spotify.com/album/44TwNftgA3QYaX3BBJAvGO) | 4:36 | 2023-05-19 |  |
 | [Blue Lightning](https://open.spotify.com/track/2PNvb2hdbbAvWCjybGbqXO) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [Dragon New Warm Mountain I Believe In You](https://open.spotify.com/album/7Ln81p86r5cCsesd3KBWIY) | 3:51 | 2023-02-23 |  |
 | [Bury The Hatchet \- Radio Edit](https://open.spotify.com/track/731pNkRH6bnlhDGZQLRWJs) | [Mol Sullivan](https://open.spotify.com/artist/3oYFKaeq39nYQsW6z6LX3T) | [Bury The Hatchet \(Radio Edit\)](https://open.spotify.com/album/6nWAsgxghVFT7xXP0EY4aF) | 3:38 | 2023-02-23 |  |
 | [Buzzing In The Light](https://open.spotify.com/track/4rTftcEWlMXJsj7IfOUnjZ) | [Dr\. Dog](https://open.spotify.com/artist/4mLJ3XfOM5FPjSAWdQ2Jk7) | [Critical Equation](https://open.spotify.com/album/2NsHYx621pWYlCrJFhTDaq) | 4:01 | 2023-02-23 |  |
 | [Carthage](https://open.spotify.com/track/0e0T3WcSL0IvHFc2CqMLIy) | [Hayden Pedigo](https://open.spotify.com/artist/4OR0gbDLGgJ4fxoXB0ZCYZ) | [Letting Go](https://open.spotify.com/album/6kEte3BcsOoAwuGnVTkgME) | 5:30 | 2023-04-28 |  |
 | [Carthage](https://open.spotify.com/track/5T2rPvGAbs5Z6CLXXbh3jX) | [Hayden Pedigo](https://open.spotify.com/artist/4OR0gbDLGgJ4fxoXB0ZCYZ) | [Letting Go](https://open.spotify.com/album/46N1u5BuUGsZlj7pij2JRK) | 5:30 | 2023-02-23 | 2023-05-01 |
+| [Cattails](https://open.spotify.com/track/1zNLILPGGfMdEnifTrnY3z) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [U.F.O.F.](https://open.spotify.com/album/0sLnNGW4PzCYFQ4Pn7aVCP) | 4:05 | 2023-05-19 |  |
 | [Chamomile](https://open.spotify.com/track/6GAPaGVVGgczGdMslknSMc) | [hey, nothing](https://open.spotify.com/artist/6YWqJQS9TETSb8LgZONUzI) | [Chamomile](https://open.spotify.com/album/5QLep18EqyzRJ50cz1BzWb) | 3:37 | 2023-04-21 |  |
 | [Chosen to Deserve](https://open.spotify.com/track/4Qw9BVghOFfjUyVWV26m2Q) | [Wednesday](https://open.spotify.com/artist/4j7DrazfBZLLD0OrVoAtEe) | [Chosen to Deserve](https://open.spotify.com/album/7geMCLNLhOhoutnVYES6t9) | 5:32 | 2023-02-23 |  |
 | [Cinnamon](https://open.spotify.com/track/6KqgHLhsyScGQtoclGOnHv) | [Briston Maroney](https://open.spotify.com/artist/7vtSUU3zpHeYJfX6BPNrJd) | [Sunflower](https://open.spotify.com/album/09VQgw9zdYyTRCvQMY3lK3) | 2:53 | 2023-02-23 |  |
@@ -41,6 +43,8 @@
 | [Drop Stop Roll](https://open.spotify.com/track/1y3NV3N99VoSP4crdkbog7) | [Rainbow Kitten Surprise](https://open.spotify.com/artist/4hz8tIajF2INpgM0qzPJz2) | [Drop Stop Roll](https://open.spotify.com/album/7C45E727Jyq6UrMyLYD2Ab) | 2:50 | 2023-05-04 |  |
 | [El Paso](https://open.spotify.com/track/19um4IgOQ8eV3XUTjYZlCJ) | [Howdy](https://open.spotify.com/artist/2y1A93fUkRi2xSbKMwhyzs) | [El Paso](https://open.spotify.com/album/6sreMfL2MuL7GRlNPbiTxw) | 2:04 | 2023-02-23 |  |
 | [Farm Cat](https://open.spotify.com/track/2ep9ouVeQUr4dx0LxNMfIs) | [Laney Esper](https://open.spotify.com/artist/7FcC6gSlV7ONLxNUYVFiBO) | [Farm Cat](https://open.spotify.com/album/6hX5lC11zIzBJDVm4Z5YSI) | 2:25 | 2023-03-03 |  |
+| [Foggy](https://open.spotify.com/track/6uIrr2sILRAiSlU8DX6IW3) | [Quiet Life](https://open.spotify.com/artist/13MdjUqnWNyfY4qKYQ9OPl) | [Foggy](https://open.spotify.com/album/2nrvUYyF6cd7aBzjdTwzLr) | 7:37 | 2023-05-19 |  |
+| [For a While](https://open.spotify.com/track/0dOqNypDARpu7J5G9VAJTj) | [Sam Johnston](https://open.spotify.com/artist/2r9XQHlnMp4d7VdIAw0Iyl), [Emma Klein](https://open.spotify.com/artist/7hbsjraQ0ce8UcmoWVoIe8) | [Cannonball](https://open.spotify.com/album/68zFieWNa4ExhAaW7aANn0) | 4:33 | 2023-05-19 |  |
 | [Formula One](https://open.spotify.com/track/2ncRTRkNzVOpaGoita2qPI) | [Wednesday](https://open.spotify.com/artist/4j7DrazfBZLLD0OrVoAtEe) | [Rat Saw God](https://open.spotify.com/album/1oTR3aC0jYmwUlr9duBi05) | 2:52 | 2023-04-07 |  |
 | [Golden Spoon](https://open.spotify.com/track/5TtUQ2fh1JzntGcB3mA54l) | [Bats](https://open.spotify.com/artist/4iuECUfKK1Iulmgxt5MObO) | [Blue Cabinet](https://open.spotify.com/album/4qW90vfNhN8R9H1OUhFLfD) | 4:04 | 2023-02-23 |  |
 | [Goodbye Texas](https://open.spotify.com/track/0S0nfzQqlGHthICsbSWG9A) | [Harriette](https://open.spotify.com/artist/4pvvhffb5CTrWsrTCf3tMa) | [Goodbye Texas](https://open.spotify.com/album/7Lw9PSCaFWcZkBTn8D8mS3) | 3:34 | 2023-02-23 |  |
@@ -49,12 +53,14 @@
 | [Harlem River](https://open.spotify.com/track/0cDQyfkR7kYIBITKccaDmN) | [Kevin Morby](https://open.spotify.com/artist/6fxk3UXHTFYET8qCT9WlBF) | [Harlem River](https://open.spotify.com/album/0DP6oSVu75inYj3jJ7tvLR) | 9:15 | 2023-02-23 |  |
 | [Heartbreak Rules](https://open.spotify.com/track/1LedFrOIttg8GidthtZJpF) | [Horse Jumper of Love](https://open.spotify.com/artist/6U1lmwvy3I9dIYu9RalJi6) | [Heartbreak Rules](https://open.spotify.com/album/4bPspFQjjplnW3564NNnxu) | 2:06 | 2023-04-28 |  |
 | [henna tattoo](https://open.spotify.com/track/7rIHxFXrmVnl8OJxOtut6A) | [Field Medic](https://open.spotify.com/artist/4wMfqR1EZagrSlYndItxGQ) | [fade into the dawn](https://open.spotify.com/album/6ZXR63Ak9IBfg6NkbBxFKA) | 2:25 | 2023-02-23 |  |
+| [Henry](https://open.spotify.com/track/64mnJp1lv1xuahULNJnqsV) | [Soccer Mommy](https://open.spotify.com/artist/4wXchxfTTggLtzkoUhO86Q) | [For Young Hearts](https://open.spotify.com/album/3rwKopMatoXfhbLvlTLE6p) | 3:47 | 2023-05-19 |  |
 | [Hold Steady](https://open.spotify.com/track/4feJkKbKSeuVVquVUWZXSi) | [Kacey Johansing](https://open.spotify.com/artist/5V1yrA8FrMhKkl4rCu6flc) | [The Hiding](https://open.spotify.com/album/2bVhjBuYON1SBpSieHpd2h) | 3:13 | 2023-02-23 |  |
 | [Hunter](https://open.spotify.com/track/1fRRvjB2eKyWJAOuinZ5NZ) | [Jess Williamson](https://open.spotify.com/artist/784kOgkd1H6jU4KgPMYHi9) | [Hunter](https://open.spotify.com/album/5f2StDzDcdxE0JR6K7YiDT) | 3:48 | 2023-04-28 |  |
 | [Hunter](https://open.spotify.com/track/5ipJCn0tOI0qAUwhQ0Onhk) | [Jess Williamson](https://open.spotify.com/artist/784kOgkd1H6jU4KgPMYHi9) | [Hunter](https://open.spotify.com/album/7JLqUV9lFZMym6t0uEVGs7) | 3:48 | 2023-03-31 | 2023-04-30 |
 | [In A Good Way](https://open.spotify.com/track/2VYnlKxB8jpbCeLUjQsebc) | [Faye Webster](https://open.spotify.com/artist/5szilpXHcwOqnyKLqGco5j) | [I Know I'm Funny haha](https://open.spotify.com/album/424bxvpYyNDM2DFFibeKs0) | 3:44 | 2023-02-23 |  |
 | [Indiana](https://open.spotify.com/track/4yVrfsUNtc5RS7nbOv8hHA) | [Adrianne Lenker](https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY), [Buck Meek](https://open.spotify.com/artist/4mYY0UqYdvgdz60psupYBR) | [a\-sides](https://open.spotify.com/album/5rwqvk7OpTco8gcX8LarT1) | 2:37 | 2023-02-23 |  |
 | [Ingrid](https://open.spotify.com/track/3b0W6ug1PR4THfn1WZ4uix) | [Jack Van Cleaf](https://open.spotify.com/artist/7nW46aJfNHxK9Y3M5Dhadk), [Vivien Vaucher](https://open.spotify.com/artist/6vxUFxsCMM6r1sFrdMXeJY) | [Fruit from the Trees](https://open.spotify.com/album/0TuAocqQPGkAMpdXsaWJxO) | 4:13 | 2023-02-23 |  |
+| [Krawn the Destroyer](https://open.spotify.com/track/0kSs2zmoa2t9YrXzEDHSYJ) | [Sexy Girls](https://open.spotify.com/artist/2Mjqb4HQpRBuDjn84nOYS9) | [Satan's Hands](https://open.spotify.com/album/0U5jAkOEFn9XitR5BWjdCZ) | 5:58 | 2023-05-19 |  |
 | [Lay Me Down](https://open.spotify.com/track/4NpDlGwphr2dyvTarnuwn0) | [Nick Wagen](https://open.spotify.com/artist/553dRRGA9Fvnu5OBmGpLBZ) | [Lay Me Down](https://open.spotify.com/album/0zJRL59dhMIe2PbFJDQN1p) | 4:07 | 2023-05-03 |  |
 | [Long Wave](https://open.spotify.com/track/5UnoxzcNj2Ym6ZOnIGdwGE) | [Bonny Doon](https://open.spotify.com/artist/0AL8XXRh7fUrHAMLoDv9rn) | [Longwave](https://open.spotify.com/album/7uo0oJVjhuw0fIGltmSPcs) | 5:23 | 2023-05-10 |  |
 | [Mountain Man](https://open.spotify.com/track/3QnxeNu890sL0Lcfy0iFzQ) | [Liz Cooper](https://open.spotify.com/artist/58irgKwXTjCCuYQB58aXeH), [The Stampede](https://open.spotify.com/artist/6naWDjIIvxOhHfu99ubAC7) | [Window Flowers](https://open.spotify.com/album/799tX7gorQNl08X2e6Bdt8) | 3:58 | 2023-02-23 |  |
@@ -65,8 +71,10 @@
 | [On My Mind](https://open.spotify.com/track/2yFSQb9lAOk9CeYWdnFn4o) | [Bonny Doon](https://open.spotify.com/artist/0AL8XXRh7fUrHAMLoDv9rn) | [On My Mind](https://open.spotify.com/album/5M4MZsKa3sb2p9ZoEihObb) | 3:22 | 2023-05-12 |  |
 | [Passing Sun](https://open.spotify.com/track/1vi7SVPptcxAXxoYUzGyWT) | [Laney Tripp](https://open.spotify.com/artist/2oHONIRqxXSaM6rAtMNps8), [Jacob Cummings](https://open.spotify.com/artist/7skiCmlFbtPe0anDfCCPXm) | [Passing Sun](https://open.spotify.com/album/103zyTkSJ2fNbHOjwNslR9) | 3:37 | 2023-02-23 |  |
 | [Pieces of Gold](https://open.spotify.com/track/5TtOVNkBiVYxs4MRgwOTqy) | [Ziggy Katz](https://open.spotify.com/artist/1kCey8cRpDpF2WsW0jPLVI) | [Pieces of Gold](https://open.spotify.com/album/5N1Ar0YY5Fjdyo2Yu675E3) | 4:01 | 2023-02-23 |  |
+| [Pretty Pimpin](https://open.spotify.com/track/47cNDW1xyM03mT2kseO41a) | [Kurt Vile](https://open.spotify.com/artist/5gspAQIAH8nJUrMYgXjCJ2) | [b'lieve i'm goin down...](https://open.spotify.com/album/07W2z9W0uWJPdG8Po0MDiR) | 4:58 | 2023-05-19 |  |
 | [Psychos](https://open.spotify.com/track/4CaM2lWgvmWLIBDOkJCD7p) | [Jenny Lewis](https://open.spotify.com/artist/5cMVRrisBpDkXCVG48epED) | [Psychos](https://open.spotify.com/album/0siRBdRYz6ECU6EZArzbx1) | 3:05 | 2023-04-05 |  |
 | [radiator](https://open.spotify.com/track/3etIVTF6tbIsRhSDJuj9KA) | [Sadurn](https://open.spotify.com/artist/2uvre6qZ51Tc12CBizuzRI) | [Radiator](https://open.spotify.com/album/5HskvGWXnVcfBg1K2Ff0nA) | 3:54 | 2023-02-23 |  |
+| [Radio Silence](https://open.spotify.com/track/4InyDtnc3LXJQ7IQb5gDe7) | [Jacqueline Hackett](https://open.spotify.com/artist/3sHKu82LxYjIMCXoHpgalZ) | [As the Summer Let You Down](https://open.spotify.com/album/1H9QibUtGZNncjJogzadcR) | 7:33 | 2023-05-19 |  |
 | [Ride On / Right On](https://open.spotify.com/track/7Ep6MLL8ATx0fFczswsvR5) | [Phosphorescent](https://open.spotify.com/artist/57kIMCLPgkzQlXjblX7XXP) | [Muchacho](https://open.spotify.com/album/6rAJ4I8SpPMJj0guCZiAI8) | 3:44 | 2023-02-23 |  |
 | [Right Side of My Neck](https://open.spotify.com/track/3cxZT78mZDyLsLPJKcTu3U) | [Faye Webster](https://open.spotify.com/artist/5szilpXHcwOqnyKLqGco5j) | [Atlanta Millionaires Club](https://open.spotify.com/album/7jXmmQ1gNTXHyTF7uvH4Tn) | 2:33 | 2023-02-23 |  |
 | [Rivers That You Cannot See](https://open.spotify.com/track/3FtbB9OOYaoxnn18aezZRh) | [North Americans](https://open.spotify.com/artist/0SsM5OCOiiwycZIO63OT1S) | [Rivers That You Cannot See](https://open.spotify.com/album/35iioCINJwSsujHf6csIMy) | 3:55 | 2023-02-23 |  |
@@ -95,6 +103,7 @@
 | [Weekday/Anything](https://open.spotify.com/track/5Gd3XDWIBPJ0lbFPzavKqS) | [Bedroom](https://open.spotify.com/artist/7COP1HCvVq1cIpZcLQYoNe) | [Thread](https://open.spotify.com/album/4ngbnWenF6xcw6gtZzGOFH) | 6:00 | 2023-04-28 |  |
 | [When i'm blue](https://open.spotify.com/track/6cGn9xx5G24Zh6NnhR2bgX) | [Noah Pope](https://open.spotify.com/artist/2o5q7YGI95tcmQHA3BfZUy) | [When i'm blue](https://open.spotify.com/album/6k3dF48Vor07wvqRkcL9cC) | 4:41 | 2023-02-23 |  |
 | [Yellow Eyes](https://open.spotify.com/track/3HOXNIj8NjlgjQiBd3YVIi) | [Rayland Baxter](https://open.spotify.com/artist/251UrhgNbMr15NLzQ2KyKq) | [Imaginary Man](https://open.spotify.com/album/72YUTJrAuTuSHSVrgixbor) | 3:50 | 2023-02-23 |  |
+| [Yosemite](https://open.spotify.com/track/3WIifw9lqdgSZpt9renBAg) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Chemtrails Over The Country Club](https://open.spotify.com/album/6QeosPQpJckkW0Obir5RT8) | 5:06 | 2023-05-19 |  |
 | [Younger & Dumber](https://open.spotify.com/track/0EWHn0McVO8Ewbkqvh53AD) | [Indigo De Souza](https://open.spotify.com/artist/3ir2pF2mkiEWqyPenKTh5e) | [Younger & Dumber](https://open.spotify.com/album/6p8GkgR2aYrKcr1OVMS25k) | 4:39 | 2023-02-23 |  |
 
 \*This playlist was first scraped on 2023-02-24. Prior content cannot be recovered.

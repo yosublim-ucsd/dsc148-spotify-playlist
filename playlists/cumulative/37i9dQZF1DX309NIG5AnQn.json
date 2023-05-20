@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-30",
-  "description": "Nuevo rock alternativo argentino. \n\ud83d\udcf7 Winona Riders.",
+  "description": "Nuevo rock alternativo argentino. \n\ud83d\udcf7 Pacifica.",
   "name": "el under",
   "tracks": [
     {
@@ -227,6 +227,24 @@
     },
     {
       "album": {
+        "name": "Anita",
+        "url": "https://open.spotify.com/album/0zKPQqcqkPWWdNwcE6ZCVy"
+      },
+      "artists": [
+        {
+          "name": "Pacifica",
+          "url": "https://open.spotify.com/artist/4YcQuAswXPWdO2WAxTRXse"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171807,
+      "name": "Anita",
+      "url": "https://open.spotify.com/track/3ppvrwFRLLD4PTxmZDZVfO"
+    },
+    {
+      "album": {
         "name": "Bald\u00edo",
         "url": "https://open.spotify.com/album/2zoYwEvAMNb9SrEh9zMs6M"
       },
@@ -434,6 +452,24 @@
       "duration_ms": 149950,
       "name": "Cicuta",
       "url": "https://open.spotify.com/track/6uKDzPZf9wsLDZuI6bPJeC"
+    },
+    {
+      "album": {
+        "name": "ciudad de las luces",
+        "url": "https://open.spotify.com/album/5I86K6IwOWfxvHY8r25YTV"
+      },
+      "artists": [
+        {
+          "name": "montegrande",
+          "url": "https://open.spotify.com/artist/662HirrjZdhmvAZseAOOZT"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164678,
+      "name": "ciudad de las luces",
+      "url": "https://open.spotify.com/track/5vuHb4k2CXKmdyqAF2gpp5"
     },
     {
       "album": {
@@ -1232,6 +1268,24 @@
       "duration_ms": 212000,
       "name": "Gualicho",
       "url": "https://open.spotify.com/track/4T19ysiQ1owalfXXXcWZK5"
+    },
+    {
+      "album": {
+        "name": "Hasta siempre amigo",
+        "url": "https://open.spotify.com/album/4cKAM2P37tkDQFkx7J1mNz"
+      },
+      "artists": [
+        {
+          "name": "Bestia Beb\u00e9",
+          "url": "https://open.spotify.com/artist/3j7kmtxJ0aptdHr9ZCnEkp"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205653,
+      "name": "Hasta Siempre Amigo",
+      "url": "https://open.spotify.com/track/2OhfXrj1TUxx6APfMwqHdN"
     },
     {
       "album": {
@@ -2612,6 +2666,24 @@
       "duration_ms": 166536,
       "name": "XXYY",
       "url": "https://open.spotify.com/track/7t3wLZi6Xit8XRt24POyQW"
+    },
+    {
+      "album": {
+        "name": "Y No Me Digan Nada",
+        "url": "https://open.spotify.com/album/2AvUr6qexfvypIPEcL1bRI"
+      },
+      "artists": [
+        {
+          "name": "Mujer Cebra",
+          "url": "https://open.spotify.com/artist/6UZQzfJ09W8Dqmr0UoU5HL"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233115,
+      "name": "Y No Me Digan Nada",
+      "url": "https://open.spotify.com/track/5l9geiaathmbeLRXzhVidT"
     },
     {
       "album": {

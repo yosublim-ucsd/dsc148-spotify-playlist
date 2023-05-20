@@ -4,7 +4,7 @@
 
 > This is Wizkid\. The essential tracks, all in one playlist.
 
-96 songs - 5 hr 32 min
+97 songs - 5 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,6 +40,7 @@
 | [Don't Dull](https://open.spotify.com/track/6C6xlP5zYRhYSNI5ORl6Wd) | [WizKid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Superstar](https://open.spotify.com/album/4o0rVyqZMIvO3PCgbchcgo) | 4:39 | 2021-12-28 | 2022-06-12 |
 | [Don't Dull](https://open.spotify.com/track/7AT7oI9QTl5OAulYItiz6v) | [WizKid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Superstar](https://open.spotify.com/album/16xW2AvG6yVXJJ0ZYJ5Dlb) | 4:39 | 2022-07-19 | 2022-08-27 |
 | [Drogba \(Joanna\) \[feat\. WizKid\]](https://open.spotify.com/track/5Z3H2xgKsw5Sa3p0MGAVnT) | [Afro B](https://open.spotify.com/artist/7oMRcCu0OYSCtCyS3P37iC), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Drogba \(Joanna\) \[feat\. WizKid\]](https://open.spotify.com/album/1YNTbT0uHszzYnMeUIUHCk) | 3:17 | 2021-12-28 | 2022-10-30 |
+| [Ebelebe \(feat\. Wizkid\)](https://open.spotify.com/track/2mwNqgMNrguu5Xlns3kqeg) | [Wande Coal](https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Legend Or No Legend](https://open.spotify.com/album/1pSC9nqMSfJgh6WVZYkTqJ) | 3:29 | 2023-05-19 |  |
 | [Energy \(Stay Far Away\)](https://open.spotify.com/track/11RIJRbBfyLlJut96itSFd) | [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Energy \(Stay Far Away\)](https://open.spotify.com/album/6c2FMAZeFKi8pui6dlZqXB) | 3:19 | 2021-12-28 |  |
 | [Escape](https://open.spotify.com/track/0o5WUKlwttAkORRkVcOOqL) | [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV), [WizKid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Escape](https://open.spotify.com/album/3xnSra5dUSn71dn8xSKRLT) | 3:29 | 2021-12-28 | 2022-09-12 |
 | [Essence \(feat\. Tems\)](https://open.spotify.com/track/5FG7Tl93LdH117jEKYl3Cm) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [Made In Lagos](https://open.spotify.com/album/6HpMdN52TfJAwVbmkrFeBN) | 4:08 | 2021-12-28 |  |

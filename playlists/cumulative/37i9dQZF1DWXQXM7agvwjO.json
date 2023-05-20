@@ -403,6 +403,24 @@
     },
     {
       "album": {
+        "name": "Kookaburra",
+        "url": "https://open.spotify.com/album/7DMibkAWlLw9jrJ6WFVHsz"
+      },
+      "artists": [
+        {
+          "name": "eundohee",
+          "url": "https://open.spotify.com/artist/46G6rspSPLRNwppVzk7Fzd"
+        }
+      ],
+      "date_added": "2023-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148051,
+      "name": "Ah Ha Ha",
+      "url": "https://open.spotify.com/track/7kqu9yQrBp0j6RIsl5pKyM"
+    },
+    {
+      "album": {
         "name": "Air Guitar",
         "url": "https://open.spotify.com/album/5PETfsInVVeftPNXoLAIqs"
       },

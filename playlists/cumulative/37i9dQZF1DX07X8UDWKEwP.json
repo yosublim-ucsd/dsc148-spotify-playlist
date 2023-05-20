@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-10",
-  "description": "Lo nuevo del mundo tropical. Cover: Denise Rosenthal",
+  "description": "Lo nuevo del mundo tropical. Cover: Luis Figueroa",
   "name": "el nuevo tropical",
   "tracks": [
     {
@@ -74,6 +74,24 @@
       "duration_ms": 204375,
       "name": "7 Pecados",
       "url": "https://open.spotify.com/track/6xl0OFFGmvDd0MnmOT4zuj"
+    },
+    {
+      "album": {
+        "name": "Voy a Ti",
+        "url": "https://open.spotify.com/album/7gUNzasmUNhcwpkgHnILQe"
+      },
+      "artists": [
+        {
+          "name": "Luis Figueroa",
+          "url": "https://open.spotify.com/artist/7waNCUQ1Ne7OoNHgqpgMZ7"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219403,
+      "name": "A Escondidas",
+      "url": "https://open.spotify.com/track/6lEf9vBtcjqRPOtmDPqXwe"
     },
     {
       "album": {
@@ -308,6 +326,24 @@
       "duration_ms": 207187,
       "name": "Antes de Ti",
       "url": "https://open.spotify.com/track/23R68uWGdp07SwQdK8mWzI"
+    },
+    {
+      "album": {
+        "name": "Yo",
+        "url": "https://open.spotify.com/album/24QR1IzAVqsPFPeY9je0NY"
+      },
+      "artists": [
+        {
+          "name": "Christian Alicea",
+          "url": "https://open.spotify.com/artist/7e3WPrCLa3zHg6Er0lq7mp"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204500,
+      "name": "Aroma",
+      "url": "https://open.spotify.com/track/5kS75vYtuoUbTNRnKU8wL2"
     },
     {
       "album": {
@@ -736,10 +772,32 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 226259,
       "name": "Caprichito",
       "url": "https://open.spotify.com/track/1NzUt0zLVo47HzFXymc53v"
+    },
+    {
+      "album": {
+        "name": "Vida Cotidiana",
+        "url": "https://open.spotify.com/album/1fHpKy8dfAplGSfcOsqtOm"
+      },
+      "artists": [
+        {
+          "name": "Juanes",
+          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
+        },
+        {
+          "name": "Juan Luis Guerra 4.40",
+          "url": "https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208680,
+      "name": "Cecilia (feat. Juan Luis Guerra 4.40)",
+      "url": "https://open.spotify.com/track/537WNh9i0Mm1u48olB7NWj"
     },
     {
       "album": {
@@ -958,7 +1016,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 208524,
       "name": "Coraz\u00f3n Roto",
       "url": "https://open.spotify.com/track/64NCHXiLhpgX0n9bgAnAaE"
@@ -5002,7 +5060,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 224691,
       "name": "Volver a Casa",
       "url": "https://open.spotify.com/track/7DgLzDFLp5GcsYuZWJSmNL"

@@ -1,12 +1,12 @@
 {
   "description": "Deep House in all its shapes and colours.",
-  "num_followers": 573926,
+  "num_followers": 574136,
   "original_name": "Deep House Blend",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhMzEwOWE3ZmY4NDljMTQwZjllNzQxNzg0OWY1Y2FlMmJmZjY4NDM1",
+  "snapshot_id": "MCwzZDJjMDA3ODAxNDFjMDE3ZmEzOThhZDlkYzI0OGI1ODJlMmY5ZmU0",
   "tracks": [
     {
       "added_at": "2023-05-05 15:08:49",
@@ -683,22 +683,6 @@
     {
       "added_at": "2023-05-05 15:08:49",
       "album": {
-        "name": "Body Language, Vol. 24",
-        "url": "https://open.spotify.com/album/5ckimbNORdaunDCjWmr1If"
-      },
-      "artists": [
-        {
-          "name": "Monkey Safari",
-          "url": "https://open.spotify.com/artist/5zovXI5By2gUhdr7EByjLa"
-        }
-      ],
-      "duration_ms": 420272,
-      "name": "Ceremony",
-      "url": "https://open.spotify.com/track/5eGHURckWZgrlb88GTkoPD"
-    },
-    {
-      "added_at": "2023-05-05 15:08:49",
-      "album": {
         "name": "So Good",
         "url": "https://open.spotify.com/album/1QyvQD5s7vgetc2UUkeNrL"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 193064,
       "name": "So Good",
       "url": "https://open.spotify.com/track/50YBCtA1z8J7p9TufYGNL7"
+    },
+    {
+      "added_at": "2023-05-05 15:08:49",
+      "album": {
+        "name": "Body Language, Vol. 24",
+        "url": "https://open.spotify.com/album/5ckimbNORdaunDCjWmr1If"
+      },
+      "artists": [
+        {
+          "name": "Monkey Safari",
+          "url": "https://open.spotify.com/artist/5zovXI5By2gUhdr7EByjLa"
+        }
+      ],
+      "duration_ms": 420272,
+      "name": "Ceremony",
+      "url": "https://open.spotify.com/track/5eGHURckWZgrlb88GTkoPD"
     },
     {
       "added_at": "2023-05-05 15:08:49",
@@ -799,22 +799,6 @@
     {
       "added_at": "2023-05-05 15:08:49",
       "album": {
-        "name": "Sign of the Times",
-        "url": "https://open.spotify.com/album/0nHKigA43sDSCs38xf1tnB"
-      },
-      "artists": [
-        {
-          "name": "Nora En Pure",
-          "url": "https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs"
-        }
-      ],
-      "duration_ms": 193403,
-      "name": "Sign of the Times",
-      "url": "https://open.spotify.com/track/2UOtnKZNppcZ5dC8v2FS41"
-    },
-    {
-      "added_at": "2023-05-05 15:08:49",
-      "album": {
         "name": "Lost Generation",
         "url": "https://open.spotify.com/album/2s9p73FuCiqa0XBz3jtevC"
       },
@@ -847,22 +831,18 @@
     {
       "added_at": "2023-05-05 15:08:49",
       "album": {
-        "name": "Speed Of Sound",
-        "url": "https://open.spotify.com/album/1AajlZNAhRY0EJ9G98kwIb"
+        "name": "Sign of the Times",
+        "url": "https://open.spotify.com/album/0nHKigA43sDSCs38xf1tnB"
       },
       "artists": [
         {
-          "name": "El Mundo",
-          "url": "https://open.spotify.com/artist/2P98rkELDQVyC1olsD2Cej"
-        },
-        {
-          "name": "Zazou",
-          "url": "https://open.spotify.com/artist/7jXNReRQIMcQpWsWCNjeV1"
+          "name": "Nora En Pure",
+          "url": "https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs"
         }
       ],
-      "duration_ms": 431419,
-      "name": "Speed of Sound",
-      "url": "https://open.spotify.com/track/7y36fE619nJ6071NI8dZHg"
+      "duration_ms": 193403,
+      "name": "Sign of the Times",
+      "url": "https://open.spotify.com/track/2UOtnKZNppcZ5dC8v2FS41"
     },
     {
       "added_at": "2023-05-05 15:08:49",
@@ -891,6 +871,26 @@
     {
       "added_at": "2023-05-05 15:08:49",
       "album": {
+        "name": "Speed Of Sound",
+        "url": "https://open.spotify.com/album/1AajlZNAhRY0EJ9G98kwIb"
+      },
+      "artists": [
+        {
+          "name": "El Mundo",
+          "url": "https://open.spotify.com/artist/2P98rkELDQVyC1olsD2Cej"
+        },
+        {
+          "name": "Zazou",
+          "url": "https://open.spotify.com/artist/7jXNReRQIMcQpWsWCNjeV1"
+        }
+      ],
+      "duration_ms": 431419,
+      "name": "Speed of Sound",
+      "url": "https://open.spotify.com/track/7y36fE619nJ6071NI8dZHg"
+    },
+    {
+      "added_at": "2023-05-05 15:08:49",
+      "album": {
         "name": "Nefertari",
         "url": "https://open.spotify.com/album/3bx0Oxn4rZeOpTds2RVX6h"
       },
@@ -911,22 +911,6 @@
     {
       "added_at": "2023-05-05 15:08:49",
       "album": {
-        "name": "Silence",
-        "url": "https://open.spotify.com/album/3JhrwVDziahf2PLTPzJhwT"
-      },
-      "artists": [
-        {
-          "name": "Giol\u00ec & Assia",
-          "url": "https://open.spotify.com/artist/6mM9a86Nrw0y7f9MaJGbpU"
-        }
-      ],
-      "duration_ms": 221966,
-      "name": "Silence",
-      "url": "https://open.spotify.com/track/0rkJhWp63okDVZa5Cda6ua"
-    },
-    {
-      "added_at": "2023-05-05 15:08:49",
-      "album": {
         "name": "Love And Hate",
         "url": "https://open.spotify.com/album/1NEZ9FtarC6DX5hbnC7H1c"
       },
@@ -939,6 +923,22 @@
       "duration_ms": 267004,
       "name": "Love And Hate",
       "url": "https://open.spotify.com/track/5Vt5PmlQvb0U9HbEX0qYRi"
+    },
+    {
+      "added_at": "2023-05-05 15:08:49",
+      "album": {
+        "name": "Silence",
+        "url": "https://open.spotify.com/album/3JhrwVDziahf2PLTPzJhwT"
+      },
+      "artists": [
+        {
+          "name": "Giol\u00ec & Assia",
+          "url": "https://open.spotify.com/artist/6mM9a86Nrw0y7f9MaJGbpU"
+        }
+      ],
+      "duration_ms": 221966,
+      "name": "Silence",
+      "url": "https://open.spotify.com/track/0rkJhWp63okDVZa5Cda6ua"
     },
     {
       "added_at": "2023-05-05 15:08:49",
@@ -1183,22 +1183,6 @@
     {
       "added_at": "2023-05-05 15:08:49",
       "album": {
-        "name": "Kilian",
-        "url": "https://open.spotify.com/album/0wyMMh9VFDAppQM1lzI0HV"
-      },
-      "artists": [
-        {
-          "name": "Rodriguez Jr.",
-          "url": "https://open.spotify.com/artist/6Th7POyVfZgiHJQ64ddV5Y"
-        }
-      ],
-      "duration_ms": 420115,
-      "name": "Kilian",
-      "url": "https://open.spotify.com/track/3vaJ9CccAzBkvHZ6EQwbMe"
-    },
-    {
-      "added_at": "2023-05-05 15:08:49",
-      "album": {
         "name": "Sway",
         "url": "https://open.spotify.com/album/0AzztMsrs61QyBF9b1IaJh"
       },
@@ -1219,18 +1203,18 @@
     {
       "added_at": "2023-05-05 15:08:49",
       "album": {
-        "name": "Come Back Around",
-        "url": "https://open.spotify.com/album/5PWznD1Bh2vMBlXChhmsav"
+        "name": "Kilian",
+        "url": "https://open.spotify.com/album/0wyMMh9VFDAppQM1lzI0HV"
       },
       "artists": [
         {
-          "name": "Eli & Fur",
-          "url": "https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4"
+          "name": "Rodriguez Jr.",
+          "url": "https://open.spotify.com/artist/6Th7POyVfZgiHJQ64ddV5Y"
         }
       ],
-      "duration_ms": 231349,
-      "name": "Come Back Around",
-      "url": "https://open.spotify.com/track/0TvCPywvY8QGAWdteEiCdF"
+      "duration_ms": 420115,
+      "name": "Kilian",
+      "url": "https://open.spotify.com/track/3vaJ9CccAzBkvHZ6EQwbMe"
     },
     {
       "added_at": "2023-05-05 15:08:49",
@@ -1255,6 +1239,22 @@
       "duration_ms": 403286,
       "name": "Restless",
       "url": "https://open.spotify.com/track/0xQCYPOdNabGkm4pEBn0Nb"
+    },
+    {
+      "added_at": "2023-05-05 15:08:49",
+      "album": {
+        "name": "Come Back Around",
+        "url": "https://open.spotify.com/album/5PWznD1Bh2vMBlXChhmsav"
+      },
+      "artists": [
+        {
+          "name": "Eli & Fur",
+          "url": "https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4"
+        }
+      ],
+      "duration_ms": 231349,
+      "name": "Come Back Around",
+      "url": "https://open.spotify.com/track/0TvCPywvY8QGAWdteEiCdF"
     },
     {
       "added_at": "2023-05-05 15:08:49",

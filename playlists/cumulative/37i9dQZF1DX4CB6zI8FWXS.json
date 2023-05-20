@@ -408,6 +408,28 @@
     {
       "album": {
         "name": "Live At Electric Lady",
+        "url": "https://open.spotify.com/album/29C15dlrrccQP32Cl60kjl"
+      },
+      "artists": [
+        {
+          "name": "Denzel Curry",
+          "url": "https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV"
+        },
+        {
+          "name": "Bilal",
+          "url": "https://open.spotify.com/artist/4jCbgl5Dmt3uOh8WRQfpPs"
+        }
+      ],
+      "date_added": "2023-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263562,
+      "name": "Didn't Cha Know - Live At Electric Lady",
+      "url": "https://open.spotify.com/track/7dmgo44DhX2MOtaFV5a0HQ"
+    },
+    {
+      "album": {
+        "name": "Live At Electric Lady",
         "url": "https://open.spotify.com/album/1ZJIrjZ6OVtVC2TMAVlEQ4"
       },
       "artists": [
@@ -422,7 +444,7 @@
       ],
       "date_added": "2023-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 263562,
       "name": "Didn't Cha Know [Feat. Bilal] - Live At Electric Lady",
       "url": "https://open.spotify.com/track/33VfEqHmo459jipU1W7it1"
@@ -1727,6 +1749,28 @@
     },
     {
       "album": {
+        "name": "CLEAR 2: SOFT LIFE EP",
+        "url": "https://open.spotify.com/album/034Q9kY3buGcizT3Xpj9Re"
+      },
+      "artists": [
+        {
+          "name": "Summer Walker",
+          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
+        },
+        {
+          "name": "Childish Gambino",
+          "url": "https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL"
+        }
+      ],
+      "date_added": "2023-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265906,
+      "name": "New Type (feat. Childish Gambino)",
+      "url": "https://open.spotify.com/track/35PofXWEoF8DnGTA1SIuyJ"
+    },
+    {
+      "album": {
         "name": "NO INTENTION",
         "url": "https://open.spotify.com/album/6ZLNsoZyBz9SlYnTe1syri"
       },
@@ -2954,6 +2998,24 @@
       "duration_ms": 230136,
       "name": "white rice d\u00e9j\u00e0 vu",
       "url": "https://open.spotify.com/track/4knVIbR3KouTZI1R26W3yy"
+    },
+    {
+      "album": {
+        "name": "Words of Affirmation",
+        "url": "https://open.spotify.com/album/4A6aWWPzVnNEjqm29C93A7"
+      },
+      "artists": [
+        {
+          "name": "Queen Naija",
+          "url": "https://open.spotify.com/artist/3nViOFa3kZW8OMSNOzwr98"
+        }
+      ],
+      "date_added": "2023-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186095,
+      "name": "Words of Affirmation",
+      "url": "https://open.spotify.com/track/4TeklWa1VJeKwDThRho8vy"
     },
     {
       "album": {

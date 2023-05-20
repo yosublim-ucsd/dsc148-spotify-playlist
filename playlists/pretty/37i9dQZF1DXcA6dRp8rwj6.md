@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcA6dRp8rwj6.md) - [plain]
 
 > The hottest Hip\-Hop of today all over the world\. \(Cover: Jimin, Kodak Black, NLE Choppa, JVKE, Muni Long\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 426,094 likes - 88 songs - 4 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 426,710 likes - 88 songs - 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Angel Pt 1 \(feat\. Jimin of BTS, JVKE & Muni Long\)](https://open.spotify.com/track/4g1Ant3Me43Cm5Lx91bV8e) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7), [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ), [Jimin](https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY), [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK), [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [Angel Pt 1 \(feat\. Jimin of BTS, JVKE & Muni Long / FAST X Soundtrack\)](https://open.spotify.com/album/0zPSvQqWCWIjuzvn29GhUK) | 2:55 |
+| 1 | [Angel Pt\. 1 \(feat\. Jimin of BTS, JVKE & Muni Long\)](https://open.spotify.com/track/1XUXrNFoi9ixlH3fn8MRXQ) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7), [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ), [Jimin](https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY), [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK), [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [FAST X \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4jgT0TBoRBPW2bSNXbjN0s) | 2:55 |
 | 2 | [Run Away](https://open.spotify.com/track/6ESrmKdVVA03lWp0vuP93X) | [Merkules](https://open.spotify.com/artist/4oYZcPoj3q3DneXomtQBzg), [Phix](https://open.spotify.com/artist/0B114ZpJddB3jl8AHu4OKT), [C\-Lance](https://open.spotify.com/artist/2O2cQN5ayTOwS8WdiMAjWA) | [Run Away](https://open.spotify.com/album/2vzjyYBZjw3xrO6tKHZind) | 3:34 |
 | 3 | [All My Life \(feat\. J\. Cole\)](https://open.spotify.com/track/6HgWWaMu31KdOpEG5l28BG) | [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [All My Life \(feat\. J\. Cole\)](https://open.spotify.com/album/0lZQagJ5r0crB35zphSD4A) | 3:43 |
 | 4 | [RUN \[Feat\. Young Thug\] \- Single Version](https://open.spotify.com/track/4DSS2IhBFgW7MYyjkOOx68) | [Killer Mike](https://open.spotify.com/artist/2N4EYkIlG1kv25g6Wv8LGI), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [RUN](https://open.spotify.com/album/6zNJxFmILwoDTFYJqhQFIU) | 3:53 |
@@ -97,4 +97,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcA6dRp8rwj6.md) - [plain]
 | 87 | [Dancing In The Rain](https://open.spotify.com/track/17xba4xQ0g7JbC74SFuRRA) | [Tommy Gunn](https://open.spotify.com/artist/5USJocT260C6q9FaDAa7lu) | [Dancing In The Rain](https://open.spotify.com/album/6IeqZTdSgMTalmRM5GWIol) | 2:56 |
 | 88 | [No One Likes Us \(Prod\. Nochang\)](https://open.spotify.com/track/3TVPGk9hkCLnUP17yOAxAJ) | [Swings](https://open.spotify.com/artist/6F5tPDq3TIduDv2ki6O1Oq), [Nochang](https://open.spotify.com/artist/7t9GBnoezuCQxIIoMaE8KO), [BlackNut](https://open.spotify.com/artist/0T8sqjCB5w57zxvW5lp3qJ), [DAMINI](https://open.spotify.com/artist/1yNIinWsNuQUyXJsqnmaLh) | [AP Alchemy : Side A](https://open.spotify.com/album/5W1I3pow4MLYcqTIqTfEVv) | 3:35 |
 
-Snapshot ID: `MCwzMDY1MGEyYzY1YjhmOTc3NTA3N2QxNzIyNzY2MjI5MzdjMjA4ZjE2`
+Snapshot ID: `MCw5ZTk0NDJhNDMxNmU2NzlkMzJkNmEwOGQ1OGVjNjBmNDYwODI0YjQz`

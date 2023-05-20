@@ -118,7 +118,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 239349,
       "name": "Ain\u2019t No Thief",
       "url": "https://open.spotify.com/track/1jlXsrAy6N0xBTUbFkM1i0"
@@ -230,6 +230,24 @@
       "duration_ms": 192281,
       "name": "Baby, I Had an Abortion",
       "url": "https://open.spotify.com/track/5wzYAfUDyqRcC87J7JEG2V"
+    },
+    {
+      "album": {
+        "name": "You're Welcome",
+        "url": "https://open.spotify.com/album/0mmHl5Z8DhJvbtQVQ3Irc9"
+      },
+      "artists": [
+        {
+          "name": "Lambrini Girls",
+          "url": "https://open.spotify.com/artist/6VR4TJ20WGiho2xZWMuuWb"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155788,
+      "name": "Boys in the Band",
+      "url": "https://open.spotify.com/track/3BtMOmGUe3VEFz4uXGzqlT"
     },
     {
       "album": {
@@ -1773,6 +1791,24 @@
     },
     {
       "album": {
+        "name": "Phone Lines Down",
+        "url": "https://open.spotify.com/album/6CYPmUI92x9OVowPkhyujN"
+      },
+      "artists": [
+        {
+          "name": "Spiritual Cramp",
+          "url": "https://open.spotify.com/artist/6cpzd2aRLmkE06P4lFFMlj"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123205,
+      "name": "Phone Lines Down",
+      "url": "https://open.spotify.com/track/37zzrS1uyujQLQ5ZckQimK"
+    },
+    {
+      "album": {
         "name": "In The Wild (Deluxe Edition)",
         "url": "https://open.spotify.com/album/32wDabMX1umJAYcEcn8z4i"
       },
@@ -2380,7 +2416,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 191106,
       "name": "Treasure",
       "url": "https://open.spotify.com/track/7vcgqskkBA3n2aykT0AjUJ"

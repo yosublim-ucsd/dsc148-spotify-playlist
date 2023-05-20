@@ -1,12 +1,12 @@
 {
   "description": "Entre na onda com hits tropicais e remixes para curtir a praia com amigos.",
-  "num_followers": 412418,
+  "num_followers": 412674,
   "original_name": "Festa na Praia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0MGU0NmE1YjlhNjkwODMxZGM2ZmQ3OGYzZjk5MTQ1NzFkNGJmODc3",
+  "snapshot_id": "MCwxMjI1NWI1MTA0MzRlOTI4MDc2ZTVjYzk2MTIyMTAwZmIwMDllZTg2",
   "tracks": [
     {
       "added_at": "2023-03-31 03:03:00",
@@ -831,6 +831,26 @@
     {
       "added_at": "2023-03-31 03:03:00",
       "album": {
+        "name": "Um Dia Inteiro",
+        "url": "https://open.spotify.com/album/4QkJIUVjHYnRATRfJYWEXo"
+      },
+      "artists": [
+        {
+          "name": "DUX",
+          "url": "https://open.spotify.com/artist/1LgoxgQRqIU1xWXRNxgSK6"
+        },
+        {
+          "name": "Lucas Pretti",
+          "url": "https://open.spotify.com/artist/248XKLuHF7rx0BAJmgq1Op"
+        }
+      ],
+      "duration_ms": 184000,
+      "name": "Um Dia Inteiro",
+      "url": "https://open.spotify.com/track/4QIJGXrPvtyKaeoTD7PcXw"
+    },
+    {
+      "added_at": "2023-03-31 03:03:00",
+      "album": {
         "name": "In The End (Remix)",
         "url": "https://open.spotify.com/album/1z6wwp7VQY84KsH60ZeJh3"
       },
@@ -851,26 +871,6 @@
       "duration_ms": 164879,
       "name": "In The End - Remix",
       "url": "https://open.spotify.com/track/0gcNhrXQPf8uwyq7qAauKJ"
-    },
-    {
-      "added_at": "2023-03-31 03:03:00",
-      "album": {
-        "name": "Um Dia Inteiro",
-        "url": "https://open.spotify.com/album/4QkJIUVjHYnRATRfJYWEXo"
-      },
-      "artists": [
-        {
-          "name": "DUX",
-          "url": "https://open.spotify.com/artist/1LgoxgQRqIU1xWXRNxgSK6"
-        },
-        {
-          "name": "Lucas Pretti",
-          "url": "https://open.spotify.com/artist/248XKLuHF7rx0BAJmgq1Op"
-        }
-      ],
-      "duration_ms": 184000,
-      "name": "Um Dia Inteiro",
-      "url": "https://open.spotify.com/track/4QIJGXrPvtyKaeoTD7PcXw"
     },
     {
       "added_at": "2023-03-31 03:03:00",
@@ -1235,6 +1235,26 @@
     {
       "added_at": "2023-03-31 03:03:00",
       "album": {
+        "name": "Aurora",
+        "url": "https://open.spotify.com/album/0TLb9JNDquLhasSkRI0mxA"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Elias",
+          "url": "https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK"
+        },
+        {
+          "name": "Double MZK",
+          "url": "https://open.spotify.com/artist/6xacomOfO7szsy6qZanBtI"
+        }
+      ],
+      "duration_ms": 150000,
+      "name": "Aurora",
+      "url": "https://open.spotify.com/track/5DEy27mge0YVglYMfjgak6"
+    },
+    {
+      "added_at": "2023-03-31 03:03:00",
+      "album": {
         "name": "Rap Do Silva (Remix)",
         "url": "https://open.spotify.com/album/1nmS18KLTHzh45chhtevi7"
       },
@@ -1255,26 +1275,6 @@
       "duration_ms": 140625,
       "name": "Rap Do Silva (Remix)",
       "url": "https://open.spotify.com/track/6v7PdQVuDVuk2xPsWtDIjc"
-    },
-    {
-      "added_at": "2023-03-31 03:03:00",
-      "album": {
-        "name": "Aurora",
-        "url": "https://open.spotify.com/album/0TLb9JNDquLhasSkRI0mxA"
-      },
-      "artists": [
-        {
-          "name": "Gabriel Elias",
-          "url": "https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK"
-        },
-        {
-          "name": "Double MZK",
-          "url": "https://open.spotify.com/artist/6xacomOfO7szsy6qZanBtI"
-        }
-      ],
-      "duration_ms": 150000,
-      "name": "Aurora",
-      "url": "https://open.spotify.com/track/5DEy27mge0YVglYMfjgak6"
     },
     {
       "added_at": "2023-03-31 03:03:00",
@@ -1447,26 +1447,6 @@
     {
       "added_at": "2023-03-31 03:03:00",
       "album": {
-        "name": "Falling Like The Stars (Madism Remix)",
-        "url": "https://open.spotify.com/album/5NWay7oRQhrtMiLNgEOBTz"
-      },
-      "artists": [
-        {
-          "name": "James Arthur",
-          "url": "https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM"
-        },
-        {
-          "name": "Madism",
-          "url": "https://open.spotify.com/artist/5UUdxfBMwm0hLlLgnZtBFv"
-        }
-      ],
-      "duration_ms": 181826,
-      "name": "Falling Like The Stars - Madism Remix",
-      "url": "https://open.spotify.com/track/0iHO8dmXhSYCgfow7ckt9W"
-    },
-    {
-      "added_at": "2023-03-31 03:03:00",
-      "album": {
         "name": "Colours & Lights",
         "url": "https://open.spotify.com/album/13MUQgmPxJOOPTp5xOK0RO"
       },
@@ -1483,6 +1463,26 @@
       "duration_ms": 188995,
       "name": "Colours & Lights",
       "url": "https://open.spotify.com/track/3mlofacGjfLS5qrEG2Pm6B"
+    },
+    {
+      "added_at": "2023-03-31 03:03:00",
+      "album": {
+        "name": "Falling Like The Stars (Madism Remix)",
+        "url": "https://open.spotify.com/album/5NWay7oRQhrtMiLNgEOBTz"
+      },
+      "artists": [
+        {
+          "name": "James Arthur",
+          "url": "https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM"
+        },
+        {
+          "name": "Madism",
+          "url": "https://open.spotify.com/artist/5UUdxfBMwm0hLlLgnZtBFv"
+        }
+      ],
+      "duration_ms": 181826,
+      "name": "Falling Like The Stars - Madism Remix",
+      "url": "https://open.spotify.com/track/0iHO8dmXhSYCgfow7ckt9W"
     },
     {
       "added_at": "2023-03-31 03:03:00",

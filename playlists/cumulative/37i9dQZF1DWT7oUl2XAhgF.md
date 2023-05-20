@@ -4,7 +4,7 @@
 
 > A new take on a classic sound\. Cover: Durand Jones
 
-295 songs - 18 hr 9 min
+296 songs - 18 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,6 +41,7 @@
 | [Changes](https://open.spotify.com/track/1PkXZNVlv7SkhAvGEDpfOb) | [Tamir](https://open.spotify.com/artist/5FCbf39u4swxvJaxC2ZcDf) | [Changes](https://open.spotify.com/album/1NoZDyi7x7a4qg4YqN2EaU) | 3:18 | 2022-09-16 | 2022-10-15 |
 | [Cheating in the Daylight](https://open.spotify.com/track/70wmWSlvCFeoYHSgoGsbpk) | [Swamp Dogg](https://open.spotify.com/artist/6ZEUa75BqZkvpjhuVzCsdX), [Willie Clayton](https://open.spotify.com/artist/5YtfmlJnLT6TR7kiBKqNhj) | [Cheating in the Daylight](https://open.spotify.com/album/1wLDe2OnQvYkTCfyMBV95J) | 5:27 | 2022-02-25 | 2023-02-04 |
 | [Closer](https://open.spotify.com/track/15CcPYbfU0Ylp0s6ezE5Zw) | [Rainee Blake](https://open.spotify.com/artist/03PaZ9IYpD0VVrZeUatPC3) | [Closer](https://open.spotify.com/album/6ELbkRCauMrlJbzY0NfFDh) | 3:49 | 2022-08-09 |  |
+| [Come Back Home](https://open.spotify.com/track/0aoRw3x1t8YX3w1j21aLLu) | [Acantha Lang](https://open.spotify.com/artist/6WrjOtCau0UPAB3QSeOWzO) | [Come Back Home](https://open.spotify.com/album/3w4vhW8U6GLtTvH1X1DWrS) | 4:17 | 2023-05-19 |  |
 | [Come On Through](https://open.spotify.com/track/2GMjU0QuHVOXjGI02ksGrw) | [Eamon](https://open.spotify.com/artist/1y20PpXw0yeuJ1avCD0Ob9) | [No Matter The Season](https://open.spotify.com/album/0KImBK7q3JYm43snwJGZgL) | 2:18 | 2022-03-04 |  |
 | [Coming Home](https://open.spotify.com/track/65GbQI9VDTs7vo6MJL2iJA) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Coming Home \(Deluxe\)](https://open.spotify.com/album/21KIagsx1ZvYcv0sVkEAWv) | 3:26 | 2021-07-09 |  |
 | [Communion in My Cup \(feat\. The Ton3s\)](https://open.spotify.com/track/0gLL2o5wEDK9lpy10nT7Fb) | [Tank and The Bangas](https://open.spotify.com/artist/5cAtakaadWHJLxmGKrKcX7), [The Ton3s](https://open.spotify.com/artist/0UIXG93KWmNPwPbiJF9ds7) | [Red Balloon](https://open.spotify.com/album/3W6zrS9uUbsDtX26ZzsHvE) | 3:28 | 2022-05-13 | 2023-03-25 |
@@ -136,7 +137,7 @@
 | [It Rains Love](https://open.spotify.com/track/2yAyJTsSnsOtbA3Qups4zV) | [Lee Fields & The Expressions](https://open.spotify.com/artist/2bToe6WyGvADJftreuXh2K) | [It Rains Love](https://open.spotify.com/album/1iIcVvI4yb0weQpRyDo1IJ) | 3:55 | 2021-07-09 | 2022-07-29 |
 | [It's Gonna Be Alright](https://open.spotify.com/track/3Kjs1dtKH9D3SciHvX2zQR) | [Acantha Lang](https://open.spotify.com/artist/6WrjOtCau0UPAB3QSeOWzO) | [It's Gonna Be Alright](https://open.spotify.com/album/5A9rqHvuJE8xJlWgzmWTHP) | 4:36 | 2022-07-01 | 2022-08-10 |
 | [It's Gonna Be Alright](https://open.spotify.com/track/74kOgrikSn2UQ8UptnRUxb) | [Acantha Lang](https://open.spotify.com/artist/6WrjOtCau0UPAB3QSeOWzO) | [It's Gonna Be Alright](https://open.spotify.com/album/193sR0w8SGseTgMIEU6VKw) | 4:36 | 2022-07-29 | 2023-05-11 |
-| [It's Gonna Be Alright](https://open.spotify.com/track/1PmcWcWiC1qy3D4o7aZO3C) | [Acantha Lang](https://open.spotify.com/artist/6WrjOtCau0UPAB3QSeOWzO) | [It’s Gonna Be Alright](https://open.spotify.com/album/4wDe4yF1Ij4lTBOsqLPxPA) | 4:37 | 2022-07-29 |  |
+| [It's Gonna Be Alright](https://open.spotify.com/track/1PmcWcWiC1qy3D4o7aZO3C) | [Acantha Lang](https://open.spotify.com/artist/6WrjOtCau0UPAB3QSeOWzO) | [It’s Gonna Be Alright](https://open.spotify.com/album/4wDe4yF1Ij4lTBOsqLPxPA) | 4:37 | 2022-07-29 | 2023-05-20 |
 | [Jean Leon](https://open.spotify.com/track/4UvTu4SIHtRQl173OZbFRj) | [Micah Edwards](https://open.spotify.com/artist/75OSuJw6r1LCdYgmTt0gHs) | [Jean Leon](https://open.spotify.com/album/1yxktlUWjFQb7EHerR7Wme) | 2:53 | 2022-02-15 |  |
 | [Joy & Pain](https://open.spotify.com/track/1iHj6nbjMHFpH73fl4AyWB) | [Lady Wray](https://open.spotify.com/artist/1plioVQ0mcgAO7uhvWkJJy) | [Joy & Pain](https://open.spotify.com/album/6OoLcz38MMFvn9l6nAweXC) | 3:43 | 2022-01-14 | 2022-07-29 |
 | [Joy & Pain](https://open.spotify.com/track/456nsH3QN5RspaYysK2GKY) | [Lady Wray](https://open.spotify.com/artist/1plioVQ0mcgAO7uhvWkJJy) | [Piece of Me](https://open.spotify.com/album/6YZfQdeTTIIkPUEAFmXvMB) | 3:43 | 2022-01-14 | 2023-02-18 |

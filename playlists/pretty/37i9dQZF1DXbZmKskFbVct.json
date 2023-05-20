@@ -1,12 +1,12 @@
 {
   "description": "Soothing ASMR whispers to help you drift off to sleep. Slow, soft and calming.",
-  "num_followers": 31667,
+  "num_followers": 31676,
   "original_name": "ASMR Sleep Whispers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkNzNjN2Y2OTE0ODY5YzNjZmFhYzg0YzUwZWEyYjI4MWE1MjgyN2M3",
+  "snapshot_id": "MCxmZDFhZTdjNWYxNzI4Zjc0MzA5YWMwZjdhNTc0ZmVlZjljNzI0ZDA5",
   "tracks": [
     {
       "added_at": "2023-02-02 13:48:42",
@@ -139,6 +139,22 @@
     {
       "added_at": "2023-02-02 13:48:42",
       "album": {
+        "name": "Showering You In Compliments",
+        "url": "https://open.spotify.com/album/3JY9ZTIKDr9X71ENWcrwdh"
+      },
+      "artists": [
+        {
+          "name": "ASMR Darling",
+          "url": "https://open.spotify.com/artist/5Bu2D80nyECM0G6fFdsfK7"
+        }
+      ],
+      "duration_ms": 211128,
+      "name": "Showering You In Compliments Pt.2",
+      "url": "https://open.spotify.com/track/0kcQZkQc8JYh0Vcpke0dWL"
+    },
+    {
+      "added_at": "2023-02-02 13:48:42",
+      "album": {
         "name": "Karuna's Sleep Clinic",
         "url": "https://open.spotify.com/album/1FOLplr5wVJ6FBnFfdTM2W"
       },
@@ -167,22 +183,6 @@
       "duration_ms": 229078,
       "name": "Sleepy Mindset",
       "url": "https://open.spotify.com/track/04Q2sQ3OlvwjdAkEdjjO0w"
-    },
-    {
-      "added_at": "2023-02-02 13:48:42",
-      "album": {
-        "name": "Showering You In Compliments",
-        "url": "https://open.spotify.com/album/3JY9ZTIKDr9X71ENWcrwdh"
-      },
-      "artists": [
-        {
-          "name": "ASMR Darling",
-          "url": "https://open.spotify.com/artist/5Bu2D80nyECM0G6fFdsfK7"
-        }
-      ],
-      "duration_ms": 211128,
-      "name": "Showering You In Compliments Pt.2",
-      "url": "https://open.spotify.com/track/0kcQZkQc8JYh0Vcpke0dWL"
     },
     {
       "added_at": "2023-02-02 13:48:42",
@@ -283,22 +283,6 @@
     {
       "added_at": "2023-02-02 13:48:42",
       "album": {
-        "name": "ASMR Guided Visualisation for Sleep",
-        "url": "https://open.spotify.com/album/5J0uoLda9QaqqEnUBX6vBK"
-      },
-      "artists": [
-        {
-          "name": "ASMR Blossom",
-          "url": "https://open.spotify.com/artist/6HpWebq041QRizskcykHPH"
-        }
-      ],
-      "duration_ms": 135500,
-      "name": "Guided Visualization for Sleep, Pt. 1",
-      "url": "https://open.spotify.com/track/2iGO8SBiky4hRHVVGB270f"
-    },
-    {
-      "added_at": "2023-02-02 13:48:42",
-      "album": {
         "name": "Laura Says ASMR",
         "url": "https://open.spotify.com/album/6JYFd9CyapuZglFmStXsE8"
       },
@@ -311,6 +295,22 @@
       "duration_ms": 224891,
       "name": "Laura Says ASMR",
       "url": "https://open.spotify.com/track/4kHSEjGLEJBBD6DROwKkVp"
+    },
+    {
+      "added_at": "2023-02-02 13:48:42",
+      "album": {
+        "name": "ASMR Guided Visualisation for Sleep",
+        "url": "https://open.spotify.com/album/5J0uoLda9QaqqEnUBX6vBK"
+      },
+      "artists": [
+        {
+          "name": "ASMR Blossom",
+          "url": "https://open.spotify.com/artist/6HpWebq041QRizskcykHPH"
+        }
+      ],
+      "duration_ms": 135500,
+      "name": "Guided Visualization for Sleep, Pt. 1",
+      "url": "https://open.spotify.com/track/2iGO8SBiky4hRHVVGB270f"
     },
     {
       "added_at": "2023-02-02 13:48:42",
@@ -491,18 +491,18 @@
     {
       "added_at": "2023-02-02 13:48:42",
       "album": {
-        "name": "8D ASMR - Fluffy Mic & Slow Whispering Around Your Head",
-        "url": "https://open.spotify.com/album/0v8s8XlzfDFrRpBJGnAiIZ"
+        "name": "ROLEPLAY VENDEUSE DE CHAUSSURES",
+        "url": "https://open.spotify.com/album/3Ur9ZcrfbUP9eBXfNvXkVm"
       },
       "artists": [
         {
-          "name": "ASMR Art of Sound",
-          "url": "https://open.spotify.com/artist/0M5HJZlCxSmeQUESaJ7up3"
+          "name": "Dolce Romy ASMR",
+          "url": "https://open.spotify.com/artist/1WxQmUfrLM4AkdBPGjg12n"
         }
       ],
-      "duration_ms": 316000,
-      "name": "Fluffy Mic & Slow Whispering Around Your Head, Pt. 2",
-      "url": "https://open.spotify.com/track/2KUF4YBM0ekcDf6aTsEbq1"
+      "duration_ms": 302000,
+      "name": "ROLEPLAY VENDEUSE DE CHAUSSURES, Pt. 1",
+      "url": "https://open.spotify.com/track/5UGrS4xhF1lJR05FnFwINd"
     },
     {
       "added_at": "2023-02-02 13:48:42",
@@ -523,18 +523,18 @@
     {
       "added_at": "2023-02-02 13:48:42",
       "album": {
-        "name": "ROLEPLAY VENDEUSE DE CHAUSSURES",
-        "url": "https://open.spotify.com/album/3Ur9ZcrfbUP9eBXfNvXkVm"
+        "name": "8D ASMR - Fluffy Mic & Slow Whispering Around Your Head",
+        "url": "https://open.spotify.com/album/0v8s8XlzfDFrRpBJGnAiIZ"
       },
       "artists": [
         {
-          "name": "Dolce Romy ASMR",
-          "url": "https://open.spotify.com/artist/1WxQmUfrLM4AkdBPGjg12n"
+          "name": "ASMR Art of Sound",
+          "url": "https://open.spotify.com/artist/0M5HJZlCxSmeQUESaJ7up3"
         }
       ],
-      "duration_ms": 302000,
-      "name": "ROLEPLAY VENDEUSE DE CHAUSSURES, Pt. 1",
-      "url": "https://open.spotify.com/track/5UGrS4xhF1lJR05FnFwINd"
+      "duration_ms": 316000,
+      "name": "Fluffy Mic & Slow Whispering Around Your Head, Pt. 2",
+      "url": "https://open.spotify.com/track/2KUF4YBM0ekcDf6aTsEbq1"
     },
     {
       "added_at": "2023-02-02 13:48:42",
@@ -635,22 +635,6 @@
     {
       "added_at": "2023-02-02 13:48:42",
       "album": {
-        "name": "Whispering Things Your Brain Needs To Hear",
-        "url": "https://open.spotify.com/album/0oGtMqyTvJLwazCg5eR1di"
-      },
-      "artists": [
-        {
-          "name": "ASMR LillyVinnily",
-          "url": "https://open.spotify.com/artist/2SOg0KlxmlG4REkUHl2pvJ"
-        }
-      ],
-      "duration_ms": 909500,
-      "name": "Guided Meditation and Positive Affirmations, Pt. 1",
-      "url": "https://open.spotify.com/track/6V2NV9XXpdZ6tAaWi36psL"
-    },
-    {
-      "added_at": "2023-02-02 13:48:42",
-      "album": {
         "name": "DEEP SLEEP in 45 Minutes",
         "url": "https://open.spotify.com/album/3lTWKjbjrHsEQ27NqB7h3u"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 298347,
       "name": "DEEP SLEEP in 45 Minutes Pt.3",
       "url": "https://open.spotify.com/track/0vDgu0Eyll8tdk1ai6J94q"
+    },
+    {
+      "added_at": "2023-02-02 13:48:42",
+      "album": {
+        "name": "Whispering Things Your Brain Needs To Hear",
+        "url": "https://open.spotify.com/album/0oGtMqyTvJLwazCg5eR1di"
+      },
+      "artists": [
+        {
+          "name": "ASMR LillyVinnily",
+          "url": "https://open.spotify.com/artist/2SOg0KlxmlG4REkUHl2pvJ"
+        }
+      ],
+      "duration_ms": 909500,
+      "name": "Guided Meditation and Positive Affirmations, Pt. 1",
+      "url": "https://open.spotify.com/track/6V2NV9XXpdZ6tAaWi36psL"
     },
     {
       "added_at": "2023-02-02 13:48:42",
@@ -683,22 +683,6 @@
     {
       "added_at": "2023-02-02 13:48:42",
       "album": {
-        "name": "ASMR 8D Mic Scratching w/Spoolie and Slow Whispering",
-        "url": "https://open.spotify.com/album/2wODYftW2n2Z4agWpBNsRc"
-      },
-      "artists": [
-        {
-          "name": "ASMR Art of Sound",
-          "url": "https://open.spotify.com/artist/0M5HJZlCxSmeQUESaJ7up3"
-        }
-      ],
-      "duration_ms": 206000,
-      "name": "8D Mic Scratching with Spoolie and Slow Whispering, Pt. 4",
-      "url": "https://open.spotify.com/track/2WOAXC3ITSWMdQPcw28cHb"
-    },
-    {
-      "added_at": "2023-02-02 13:48:42",
-      "album": {
         "name": "Russian Language Revision - Cyrillic Alphabet",
         "url": "https://open.spotify.com/album/2pTKiaP8dOQ11Q8G88JMzh"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 209000,
       "name": "Alphabet Revision, Pt. 1",
       "url": "https://open.spotify.com/track/2MfNCtM55FPi6tYA9uaYfc"
+    },
+    {
+      "added_at": "2023-02-02 13:48:42",
+      "album": {
+        "name": "ASMR 8D Mic Scratching w/Spoolie and Slow Whispering",
+        "url": "https://open.spotify.com/album/2wODYftW2n2Z4agWpBNsRc"
+      },
+      "artists": [
+        {
+          "name": "ASMR Art of Sound",
+          "url": "https://open.spotify.com/artist/0M5HJZlCxSmeQUESaJ7up3"
+        }
+      ],
+      "duration_ms": 206000,
+      "name": "8D Mic Scratching with Spoolie and Slow Whispering, Pt. 4",
+      "url": "https://open.spotify.com/track/2WOAXC3ITSWMdQPcw28cHb"
     },
     {
       "added_at": "2023-02-02 13:48:42",
@@ -779,22 +779,6 @@
     {
       "added_at": "2023-02-02 13:48:42",
       "album": {
-        "name": "10 Triggers To Help Relax Your Brain At Night",
-        "url": "https://open.spotify.com/album/4Y2f2gw5ICKXpnCni6JMnb"
-      },
-      "artists": [
-        {
-          "name": "ASMR LillyVinnily",
-          "url": "https://open.spotify.com/artist/2SOg0KlxmlG4REkUHl2pvJ"
-        }
-      ],
-      "duration_ms": 584000,
-      "name": "Whispers and Dry Ear Massage",
-      "url": "https://open.spotify.com/track/2ElSMaqppBJZrM5wxRaJ0T"
-    },
-    {
-      "added_at": "2023-02-02 13:48:42",
-      "album": {
         "name": "Sorting Fantasy & Medieval Coins | ASMR Cozy Basics",
         "url": "https://open.spotify.com/album/53mRZ0RNRh0pMAkFMrhLV8"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 303000,
       "name": "Identifying the Different Fantasy Coins",
       "url": "https://open.spotify.com/track/6Y53WoHgjy7RwHh7AXiROE"
+    },
+    {
+      "added_at": "2023-02-02 13:48:42",
+      "album": {
+        "name": "10 Triggers To Help Relax Your Brain At Night",
+        "url": "https://open.spotify.com/album/4Y2f2gw5ICKXpnCni6JMnb"
+      },
+      "artists": [
+        {
+          "name": "ASMR LillyVinnily",
+          "url": "https://open.spotify.com/artist/2SOg0KlxmlG4REkUHl2pvJ"
+        }
+      ],
+      "duration_ms": 584000,
+      "name": "Whispers and Dry Ear Massage",
+      "url": "https://open.spotify.com/track/2ElSMaqppBJZrM5wxRaJ0T"
     }
   ],
   "unique_name": "ASMR Sleep Whispers",

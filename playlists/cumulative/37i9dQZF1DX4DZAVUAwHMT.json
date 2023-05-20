@@ -1192,7 +1192,7 @@
     {
       "album": {
         "name": "Francesca",
-        "url": "https://open.spotify.com/album/09gUFQ3fFjCHuhv1ab99Ce"
+        "url": "https://open.spotify.com/album/2GS1K0RZ5SjtuT8bsX0xyv"
       },
       "artists": [
         {
@@ -1203,6 +1203,24 @@
       "date_added": "2023-05-18",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 270066,
+      "name": "Francesca",
+      "url": "https://open.spotify.com/track/4LmOmWpjCQbC1VZvUuwPQu"
+    },
+    {
+      "album": {
+        "name": "Francesca",
+        "url": "https://open.spotify.com/album/09gUFQ3fFjCHuhv1ab99Ce"
+      },
+      "artists": [
+        {
+          "name": "Hozier",
+          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
+        }
+      ],
+      "date_added": "2023-05-18",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-20",
       "duration_ms": 270066,
       "name": "Francesca",
       "url": "https://open.spotify.com/track/6TSH6vh6KkSfExHM6evcbr"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6bBjHfdRnza.md) - [plain]
 
 > The best new dance & electronic by independent artists and labels\. Cover: SKALA\. Artwork by Rewina Beshue\. Updates every Wednesday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 149,043 likes - 100 songs - 7 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 149,119 likes - 100 songs - 7 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6bBjHfdRnza.md) - [plain]
 | 99 | [HYMN](https://open.spotify.com/track/5pvBB645Hk0jpPOkqJSpQf) | [IKARVS](https://open.spotify.com/artist/2nIhOTkDDboRX6RsNMg8wg) | [Horror Vacui](https://open.spotify.com/album/0ZE1zKXCaJdjgJtlYBYMnh) | 5:09 |
 | 100 | [Floating Remix](https://open.spotify.com/track/31r4dDcIkXy8fdGTV1Llcx) | [Mars Kasei](https://open.spotify.com/artist/6KZi4sgo06xb4D8JO00bN1), [Nikes](https://open.spotify.com/artist/6QHax4rcnBPAAfj1n26YNQ) | [Floating EP](https://open.spotify.com/album/39TNyuZ9dERhwhDmYvp3iO) | 4:03 |
 
-Snapshot ID: `MCw0ZTYwMTg4YTEwYjczOGI5YzNlM2M0MDhjMTQ1MjZiMTk1NTcyYzA1`
+Snapshot ID: `MCwwZTc2YzA2Y2YxNmU1NmYyNmU3MmE4NTllZTE5OGY4OTVmYWNjMWI0`

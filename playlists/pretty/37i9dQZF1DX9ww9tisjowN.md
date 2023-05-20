@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ww9tisjowN.md) - [plain]
 
 > What pops out!? Roll the gacha and find your Neo J\-Pop treasure\. Cover: Ado
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,703 likes - 75 songs - 4 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,463 likes - 75 songs - 4 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ww9tisjowN.md) - [plain]
 | 33 | [Day After Day feat\. Mei Takahashi](https://open.spotify.com/track/1fHXLiqPG6su57eAlbnjVO) | [パソコン音楽クラブ](https://open.spotify.com/artist/5FiN9o11xTdr071qwSHyye), [髙橋芽以](https://open.spotify.com/artist/4NnkOFameRnM5EL0CYjLkf) | [FINE LINE](https://open.spotify.com/album/37XJRNnSBngM8e8Ejp3oQ7) | 4:43 |
 | 34 | [Summer Situation](https://open.spotify.com/track/7Da7crN49ehmABnxJuo52J) | [STUTS](https://open.spotify.com/artist/0qC4CNzOUtgdmdVzRqCa1d), [SIKK\-O](https://open.spotify.com/artist/62x90xtztIeFjU7Z9eVKDR), [Mamiko Suzuki](https://open.spotify.com/artist/21bkNzNX7do9qb8SM9wFQF) | [ALLSEASON EP.](https://open.spotify.com/album/7enrVhK4zZBVokYXmZXm4L) | 4:50 |
 | 35 | [MAGICAL DREAM](https://open.spotify.com/track/6YCOnfmSd5G13hFBwcWO4P) | [DE DE MOUSE](https://open.spotify.com/artist/1mZtAFuxFAgqmTCqfKLWoj), [YUC'e](https://open.spotify.com/artist/0jP8a2o9Mw5qYoUz1SnQ2A) | [MAGICAL DREAM](https://open.spotify.com/album/3V6tFl2XWnYgSl5WUR6k6D) | 3:07 |
-| 36 | [Love You!!!!!!](https://open.spotify.com/track/2a64t56KzgVqp8iYRCj8fs) | [CHAMELEON LIME WHOOPIEPIE](https://open.spotify.com/artist/1uP5mPkWII7Tcxp7xtqPmj) | [Love You!!!!!!](https://open.spotify.com/album/0ecMSnvcWpp5lxHvs8sKGU) | 2:05 |
+| 36 | [Love You!!!!!!](https://open.spotify.com/track/0yBv5KMvxpcb9H3LXhWfJP) | [CHAMELEON LIME WHOOPIEPIE](https://open.spotify.com/artist/1uP5mPkWII7Tcxp7xtqPmj) | [Orange](https://open.spotify.com/album/1GtBPVV99IEUhqdoJRCds8) | 2:05 |
 | 37 | [Venus Flytrap feat\. Chiaki Sato](https://open.spotify.com/track/51tgAkF9HE14FIR4iYN8K3) | [haruno](https://open.spotify.com/artist/0e38gC4yKt5f26icSfhP5u), [CHIAKI SATO](https://open.spotify.com/artist/7fD1pCIsnPsUt6mHizHGnt) | [The Lover](https://open.spotify.com/album/0QCyj1UlVJQ91sFNqHx9nc) | 3:45 |
 | 38 | [Baby you](https://open.spotify.com/track/7mawUh4upc0sJVHgkgY3wb) | [有華](https://open.spotify.com/artist/762RAUTV6WKHmrHR7fsFbj) | [Baby you](https://open.spotify.com/album/54ZCBICVYg5jvNehprcJj1) | 2:43 |
 | 39 | [Sugar Magic](https://open.spotify.com/track/25QIhqinwmNWzkM60wXLEK) | [tonun](https://open.spotify.com/artist/4eF1tYcUa9voNDX7xVTrZG) | [Sugar Magic](https://open.spotify.com/album/7vFtPaViNfyM9xb66JZtbF) | 3:55 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ww9tisjowN.md) - [plain]
 | 74 | [Setsunano Chikai](https://open.spotify.com/track/1YKBiydKeMfqHXwDECHLU6) | [Neko Hacker](https://open.spotify.com/artist/2aQ9IoRPwXEhhBVj4wbS46), [由崎司](https://open.spotify.com/artist/57nGnwFiNGNY5t77bVWWw2) | [Setsunano Chikai](https://open.spotify.com/album/5RxLQesE8xz3LsCwyrLIDn) | 3:40 |
 | 75 | [BET ME!](https://open.spotify.com/track/2lTgXM87jM6tKStCwJxKKI) | [valknee](https://open.spotify.com/artist/5XOjyFVFORvz5wwievXJNn) | [BET ME!](https://open.spotify.com/album/4oF8qfwMpxoNbyY3CWJ5Ox) | 2:33 |
 
-Snapshot ID: `MCw4ZjJiNTA4NzgwY2Y2MTRiNTFjNmIxOGIyNjlkYjEwMjM4NGJiZGQw`
+Snapshot ID: `MCxiYWYxZmM1NzliNmE3YjlhMzQ0NjIwMzFhYzA2ZjFmYjhhYjJiOGFl`

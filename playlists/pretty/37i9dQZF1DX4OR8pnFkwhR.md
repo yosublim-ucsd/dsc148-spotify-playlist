@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OR8pnFkwhR.md) - [plain]
 
 > Spotifyが注目するニューカマー・プレイリスト。Cover: Skaai × Bonbero
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,601 likes - 70 songs - 4 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,624 likes - 70 songs - 4 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OR8pnFkwhR.md) - [plain]
 | 69 | [BRAND NEW MEMORY](https://open.spotify.com/track/4GNnCJe90wEbBrGwTAJkhm) | [GOOD BYE APRIL](https://open.spotify.com/artist/39dx9cIjJILxA81LkcPf38) | [BRAND NEW MEMORY](https://open.spotify.com/album/6KzMPmEpiXOiTDWrtDencR) | 4:19 |
 | 70 | [ハルのテーマ](https://open.spotify.com/track/4Vy67mDpgNp78pkmmVfRY4) | [peanut butters](https://open.spotify.com/artist/54hEgY8Ut3i0OriX1fELbP) | [ロンリーメイビー](https://open.spotify.com/album/0KwiaND7e7IZazS5Ukf19E) | 4:28 |
 
-Snapshot ID: `MCxmNmY2ZDVmZTdkODU4ODE2M2RmZjA2M2VlODQyNmRhOTRlOWFlMmJk`
+Snapshot ID: `MCxlZTBiOTM5OGMyYWI1MjE0MmY5N2JiY2EwN2JmNTNiMmEzZmJmNGU3`

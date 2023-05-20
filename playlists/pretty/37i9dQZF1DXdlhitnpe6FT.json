@@ -1,12 +1,12 @@
 {
   "description": "The notes that will make you long for those days of yore.",
-  "num_followers": 161575,
+  "num_followers": 161865,
   "original_name": "Golden Instrumentals",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0ZTRlY2FjY2Q5YWI5N2EzNDFlNmM0NzhlZmRkOGMzYmMwYWY4ZDFj",
+  "snapshot_id": "MCxmYWQwZjgzMTVkODk2ZDFkYmQ0ZGZhYjU4NWIwMDUzYzM2ZWIzYWYy",
   "tracks": [
     {
       "added_at": "2020-12-08 19:02:01",
@@ -467,22 +467,6 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
-        "name": "Maria Elena",
-        "url": "https://open.spotify.com/album/4hO6VEnWpPImOF4RDmtTHM"
-      },
-      "artists": [
-        {
-          "name": "Los Indios Tabajaras",
-          "url": "https://open.spotify.com/artist/1TKifb1r4wnGbY5CYIwjGb"
-        }
-      ],
-      "duration_ms": 187866,
-      "name": "Maria Elena",
-      "url": "https://open.spotify.com/track/3ygHAK1w3qP4wp83KXUiiu"
-    },
-    {
-      "added_at": "2020-12-08 19:02:01",
-      "album": {
         "name": "20 Valses Instrumentales",
         "url": "https://open.spotify.com/album/2hsUBi8Ua1fykAlfRa2Rd5"
       },
@@ -495,6 +479,22 @@
       "duration_ms": 206653,
       "name": "Se Busca",
       "url": "https://open.spotify.com/track/7HL3Q21K6uNqkcvjAyuBGq"
+    },
+    {
+      "added_at": "2020-12-08 19:02:01",
+      "album": {
+        "name": "Maria Elena",
+        "url": "https://open.spotify.com/album/4hO6VEnWpPImOF4RDmtTHM"
+      },
+      "artists": [
+        {
+          "name": "Los Indios Tabajaras",
+          "url": "https://open.spotify.com/artist/1TKifb1r4wnGbY5CYIwjGb"
+        }
+      ],
+      "duration_ms": 187866,
+      "name": "Maria Elena",
+      "url": "https://open.spotify.com/track/3ygHAK1w3qP4wp83KXUiiu"
     },
     {
       "added_at": "2020-12-08 19:02:01",
@@ -515,22 +515,6 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
-        "name": "Music To Watch Girls By",
-        "url": "https://open.spotify.com/album/77aqnbtgFLun1ySHlJyoEI"
-      },
-      "artists": [
-        {
-          "name": "Al Hirt",
-          "url": "https://open.spotify.com/artist/0TGsWvnbtExsbGUSWtXENE"
-        }
-      ],
-      "duration_ms": 111026,
-      "name": "Music to Watch Girls By",
-      "url": "https://open.spotify.com/track/1YDIAKuPvhIxG6HiFaRA2t"
-    },
-    {
-      "added_at": "2020-12-08 19:02:01",
-      "album": {
         "name": "La Paloma",
         "url": "https://open.spotify.com/album/3J96HGOfDoTV6H1Y2gK8Tu"
       },
@@ -543,6 +527,22 @@
       "duration_ms": 153346,
       "name": "La Paloma",
       "url": "https://open.spotify.com/track/6aOxKTk3Dh08MGgnLv9862"
+    },
+    {
+      "added_at": "2020-12-08 19:02:01",
+      "album": {
+        "name": "Music To Watch Girls By",
+        "url": "https://open.spotify.com/album/77aqnbtgFLun1ySHlJyoEI"
+      },
+      "artists": [
+        {
+          "name": "Al Hirt",
+          "url": "https://open.spotify.com/artist/0TGsWvnbtExsbGUSWtXENE"
+        }
+      ],
+      "duration_ms": 111026,
+      "name": "Music to Watch Girls By",
+      "url": "https://open.spotify.com/track/1YDIAKuPvhIxG6HiFaRA2t"
     },
     {
       "added_at": "2020-12-08 19:02:01",
@@ -611,22 +611,6 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
-        "name": "Before the Rain",
-        "url": "https://open.spotify.com/album/1dCO1DxYlCvbRRfX0zZANI"
-      },
-      "artists": [
-        {
-          "name": "Lee Oskar",
-          "url": "https://open.spotify.com/artist/0ZjB2OpMQL3LKJyEdeIz7o"
-        }
-      ],
-      "duration_ms": 495466,
-      "name": "Before the Rain",
-      "url": "https://open.spotify.com/track/4GzjPsieNA1WCjImEYJvhf"
-    },
-    {
-      "added_at": "2020-12-08 19:02:01",
-      "album": {
         "name": "Sail Along Silv'ry Moon",
         "url": "https://open.spotify.com/album/0rkPxOtFWZOiuQ7GzCI3vn"
       },
@@ -639,6 +623,22 @@
       "duration_ms": 129680,
       "name": "Sail Along Silv'ry Moon",
       "url": "https://open.spotify.com/track/6j3N3u0uHDGrfqCrTNc1Uu"
+    },
+    {
+      "added_at": "2020-12-08 19:02:01",
+      "album": {
+        "name": "Before the Rain",
+        "url": "https://open.spotify.com/album/1dCO1DxYlCvbRRfX0zZANI"
+      },
+      "artists": [
+        {
+          "name": "Lee Oskar",
+          "url": "https://open.spotify.com/artist/0ZjB2OpMQL3LKJyEdeIz7o"
+        }
+      ],
+      "duration_ms": 495466,
+      "name": "Before the Rain",
+      "url": "https://open.spotify.com/track/4GzjPsieNA1WCjImEYJvhf"
     },
     {
       "added_at": "2020-12-08 19:02:01",
@@ -739,18 +739,22 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
-        "name": "Look For A Star",
-        "url": "https://open.spotify.com/album/6RMGWC76Pbcy3Ngt32JDoj"
+        "name": "Franck Pourcel : Originals, vol. 8",
+        "url": "https://open.spotify.com/album/3BU3eWnOF9Dvv4NZpFgUdL"
       },
       "artists": [
         {
-          "name": "Billy Vaughn",
-          "url": "https://open.spotify.com/artist/6ZzOIAEw7joAghyA80c6D0"
+          "name": "Franck Pourcel",
+          "url": "https://open.spotify.com/artist/0HJyVBZnjRKDT4STU3rGzU"
+        },
+        {
+          "name": "Fran\u00e7oise Pourcel",
+          "url": "https://open.spotify.com/artist/6DVHogUCliIhG9ZJzjzMfc"
         }
       ],
-      "duration_ms": 132600,
-      "name": "Look For A Star",
-      "url": "https://open.spotify.com/track/72PQJVnhV3FV7z7i1dWzQJ"
+      "duration_ms": 146407,
+      "name": "Spanish Harlem - Nuits d'Espagne",
+      "url": "https://open.spotify.com/track/1mSekIWPPecpKKsfGOioiY"
     },
     {
       "added_at": "2020-12-08 19:02:01",
@@ -771,22 +775,18 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
-        "name": "Franck Pourcel : Originals, vol. 8",
-        "url": "https://open.spotify.com/album/3BU3eWnOF9Dvv4NZpFgUdL"
+        "name": "Look For A Star",
+        "url": "https://open.spotify.com/album/6RMGWC76Pbcy3Ngt32JDoj"
       },
       "artists": [
         {
-          "name": "Franck Pourcel",
-          "url": "https://open.spotify.com/artist/0HJyVBZnjRKDT4STU3rGzU"
-        },
-        {
-          "name": "Fran\u00e7oise Pourcel",
-          "url": "https://open.spotify.com/artist/6DVHogUCliIhG9ZJzjzMfc"
+          "name": "Billy Vaughn",
+          "url": "https://open.spotify.com/artist/6ZzOIAEw7joAghyA80c6D0"
         }
       ],
-      "duration_ms": 146407,
-      "name": "Spanish Harlem - Nuits d'Espagne",
-      "url": "https://open.spotify.com/track/1mSekIWPPecpKKsfGOioiY"
+      "duration_ms": 132600,
+      "name": "Look For A Star",
+      "url": "https://open.spotify.com/track/72PQJVnhV3FV7z7i1dWzQJ"
     },
     {
       "added_at": "2020-12-08 19:02:01",
@@ -907,22 +907,6 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
-        "name": "14 Estelares",
-        "url": "https://open.spotify.com/album/5qdfgUX0wfynSt3xW15lT5"
-      },
-      "artists": [
-        {
-          "name": "Franck Pourcel",
-          "url": "https://open.spotify.com/artist/0HJyVBZnjRKDT4STU3rGzU"
-        }
-      ],
-      "duration_ms": 197093,
-      "name": "Il",
-      "url": "https://open.spotify.com/track/0izjzd0NlwUtigcgk8DyHg"
-    },
-    {
-      "added_at": "2020-12-08 19:02:01",
-      "album": {
         "name": "Pure Instrumental Memories",
         "url": "https://open.spotify.com/album/0e8GoDLOOtT97WUR6xRZjq"
       },
@@ -935,6 +919,22 @@
       "duration_ms": 145680,
       "name": "Love In Every Room",
       "url": "https://open.spotify.com/track/4NH0mwtg3ne8gn4wDRI2S3"
+    },
+    {
+      "added_at": "2020-12-08 19:02:01",
+      "album": {
+        "name": "14 Estelares",
+        "url": "https://open.spotify.com/album/5qdfgUX0wfynSt3xW15lT5"
+      },
+      "artists": [
+        {
+          "name": "Franck Pourcel",
+          "url": "https://open.spotify.com/artist/0HJyVBZnjRKDT4STU3rGzU"
+        }
+      ],
+      "duration_ms": 197093,
+      "name": "Il",
+      "url": "https://open.spotify.com/track/0izjzd0NlwUtigcgk8DyHg"
     },
     {
       "added_at": "2020-12-08 19:02:01",
@@ -971,6 +971,22 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
+        "name": "El Sonido de la Flauta de Pan - The Sound Of The Panflute",
+        "url": "https://open.spotify.com/album/6Vsbb6T8m1SjXo37Ul7hXl"
+      },
+      "artists": [
+        {
+          "name": "Mario Gonzales Guerra",
+          "url": "https://open.spotify.com/artist/51PLAKhApJK3Vrzc1V8kZU"
+        }
+      ],
+      "duration_ms": 198387,
+      "name": "Flauta de Pan",
+      "url": "https://open.spotify.com/track/3nP4NfZBFGWPi4YO0u4evJ"
+    },
+    {
+      "added_at": "2020-12-08 19:02:01",
+      "album": {
         "name": "Grandes Exitos",
         "url": "https://open.spotify.com/album/69A8DxesxNxwiF3HvPglaS"
       },
@@ -1003,22 +1019,6 @@
       "duration_ms": 260200,
       "name": "Lily Was Here (feat. Candy Dulfer)",
       "url": "https://open.spotify.com/track/2F9MyVj3AtJTDp7X8tZYmV"
-    },
-    {
-      "added_at": "2020-12-08 19:02:01",
-      "album": {
-        "name": "El Sonido de la Flauta de Pan - The Sound Of The Panflute",
-        "url": "https://open.spotify.com/album/6Vsbb6T8m1SjXo37Ul7hXl"
-      },
-      "artists": [
-        {
-          "name": "Mario Gonzales Guerra",
-          "url": "https://open.spotify.com/artist/51PLAKhApJK3Vrzc1V8kZU"
-        }
-      ],
-      "duration_ms": 198387,
-      "name": "Flauta de Pan",
-      "url": "https://open.spotify.com/track/3nP4NfZBFGWPi4YO0u4evJ"
     },
     {
       "added_at": "2020-12-08 19:02:01",
@@ -1295,22 +1295,6 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
-        "name": "Tony Mottola y Su Orquesta",
-        "url": "https://open.spotify.com/album/5XPpYqZJ3zdJv4qAI0NBYl"
-      },
-      "artists": [
-        {
-          "name": "Tony Mottola y Su Orquesta",
-          "url": "https://open.spotify.com/artist/5qByAjccmQRznP524QB0wy"
-        }
-      ],
-      "duration_ms": 113880,
-      "name": "Woodpecker Song",
-      "url": "https://open.spotify.com/track/1b39F2Q4sNP8R9PwGK8G5D"
-    },
-    {
-      "added_at": "2020-12-08 19:02:01",
-      "album": {
         "name": "Born Losers",
         "url": "https://open.spotify.com/album/2O0v7b7SRw2YH2vRjaLVKx"
       },
@@ -1327,18 +1311,18 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
-        "name": "Rhythms Of The World",
-        "url": "https://open.spotify.com/album/0DwuVrXDfEN8qhaLRv5Bfn"
+        "name": "Tony Mottola y Su Orquesta",
+        "url": "https://open.spotify.com/album/5XPpYqZJ3zdJv4qAI0NBYl"
       },
       "artists": [
         {
-          "name": "Van McCoy",
-          "url": "https://open.spotify.com/artist/0bShb58TO0fM5jOjXhB1WT"
+          "name": "Tony Mottola y Su Orquesta",
+          "url": "https://open.spotify.com/artist/5qByAjccmQRznP524QB0wy"
         }
       ],
-      "duration_ms": 257633,
-      "name": "The Shuffle",
-      "url": "https://open.spotify.com/track/4KbNSEkFUqFVUMX9Js85ty"
+      "duration_ms": 113880,
+      "name": "Woodpecker Song",
+      "url": "https://open.spotify.com/track/1b39F2Q4sNP8R9PwGK8G5D"
     },
     {
       "added_at": "2020-12-08 19:02:01",
@@ -1355,6 +1339,22 @@
       "duration_ms": 162586,
       "name": "Never On Sunday",
       "url": "https://open.spotify.com/track/5mz2sOKTkykheJlp88CTfd"
+    },
+    {
+      "added_at": "2020-12-08 19:02:01",
+      "album": {
+        "name": "Rhythms Of The World",
+        "url": "https://open.spotify.com/album/0DwuVrXDfEN8qhaLRv5Bfn"
+      },
+      "artists": [
+        {
+          "name": "Van McCoy",
+          "url": "https://open.spotify.com/artist/0bShb58TO0fM5jOjXhB1WT"
+        }
+      ],
+      "duration_ms": 257633,
+      "name": "The Shuffle",
+      "url": "https://open.spotify.com/track/4KbNSEkFUqFVUMX9Js85ty"
     },
     {
       "added_at": "2020-12-08 19:02:01",
@@ -1763,22 +1763,6 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
-        "name": "Taboo 2: New Exotic Sounds of Arthur Lyman",
-        "url": "https://open.spotify.com/album/4QQrUheyVPgbSgnW3QCh5T"
-      },
-      "artists": [
-        {
-          "name": "Arthur Lyman",
-          "url": "https://open.spotify.com/artist/4UAjW7ABQfMm5F88xCtQln"
-        }
-      ],
-      "duration_ms": 128066,
-      "name": "Taboo Tu",
-      "url": "https://open.spotify.com/track/7tmHTrXjolQZbD0qxLWn9Y"
-    },
-    {
-      "added_at": "2020-12-08 19:02:01",
-      "album": {
         "name": "First Cuckoo",
         "url": "https://open.spotify.com/album/7zdSkK10x9AdPzQfohjGzz"
       },
@@ -1791,6 +1775,22 @@
       "duration_ms": 219026,
       "name": "Adam's Hotel",
       "url": "https://open.spotify.com/track/0BHv7xDERd9mJPbGlo39tY"
+    },
+    {
+      "added_at": "2020-12-08 19:02:01",
+      "album": {
+        "name": "Taboo 2: New Exotic Sounds of Arthur Lyman",
+        "url": "https://open.spotify.com/album/4QQrUheyVPgbSgnW3QCh5T"
+      },
+      "artists": [
+        {
+          "name": "Arthur Lyman",
+          "url": "https://open.spotify.com/artist/4UAjW7ABQfMm5F88xCtQln"
+        }
+      ],
+      "duration_ms": 128066,
+      "name": "Taboo Tu",
+      "url": "https://open.spotify.com/track/7tmHTrXjolQZbD0qxLWn9Y"
     },
     {
       "added_at": "2020-12-08 19:02:01",
@@ -1875,18 +1875,18 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
-        "name": "Colecci\u00f3n de \u00c9xitos",
-        "url": "https://open.spotify.com/album/5iqRFuoGSCN6glQuBUhBHn"
+        "name": "Yellow Bird",
+        "url": "https://open.spotify.com/album/1ufjXDuusbNI2v1eOaBTcP"
       },
       "artists": [
         {
-          "name": "Los Indios Tabajaras",
-          "url": "https://open.spotify.com/artist/1TKifb1r4wnGbY5CYIwjGb"
+          "name": "Arthur Lyman",
+          "url": "https://open.spotify.com/artist/4UAjW7ABQfMm5F88xCtQln"
         }
       ],
-      "duration_ms": 157022,
-      "name": "Star Dust",
-      "url": "https://open.spotify.com/track/3sseyXc0uWyhngxQxPQA8u"
+      "duration_ms": 164920,
+      "name": "Yellow Bird",
+      "url": "https://open.spotify.com/track/6oye7upM8j0mE3xoT7FdjU"
     }
   ],
   "unique_name": "Golden Instrumentals",

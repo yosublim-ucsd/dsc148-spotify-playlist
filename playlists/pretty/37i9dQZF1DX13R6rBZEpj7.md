@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX13R6rBZEpj7.md) - [plain]
 
 > Turn up the volume for some filthy bassline! ft\. Bushbaby
 
-[Spotify](https://open.spotify.com/user/spotify) - 193,456 likes - 70 songs - 4 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 193,546 likes - 70 songs - 4 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,17 +66,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX13R6rBZEpj7.md) - [plain]
 | 56 | [Hold Me Close](https://open.spotify.com/track/5UM597AY45L1gpRsLdslRu) | [Jacko](https://open.spotify.com/artist/4HBwYjwyfn1X6KO6PqY9ia) | [Hold Me Close](https://open.spotify.com/album/6kdTGKNxuMUgQ50WhIdVpg) | 3:52 |
 | 57 | [Anything](https://open.spotify.com/track/165zMkyh2bVwtu8mAhdTTz) | [Shaun Dean](https://open.spotify.com/artist/1vmJBUoJ6Z4JqU4mlw1bPC) | [Anything](https://open.spotify.com/album/6AT2jvuQd9G0qs02hbLpCy) | 4:43 |
 | 58 | [Don't You Know](https://open.spotify.com/track/0ZqOgrbDm8delKrVsT78oq) | [Birch](https://open.spotify.com/artist/30XFjY5QiLhaU51gQGAKNv) | [Don't You Know](https://open.spotify.com/album/6jzIhBp8DjbQMBRdpnfKtw) | 3:35 |
-| 59 | [Donny Don](https://open.spotify.com/track/3uwOIivH9QUkBTdkIRfo8c) | [Phibes](https://open.spotify.com/artist/21VZgcYa29ZVvRQzmUNakx), [DEEPROT](https://open.spotify.com/artist/5lxAcm7Djoylav7TnkFTHC), [MIK](https://open.spotify.com/artist/4zotndJ6zbqir1ZkZNXzsm) | [Donny Don](https://open.spotify.com/album/3UusxCt7bhvh5aT6Lwbqwr) | 3:34 |
-| 60 | [Thugs](https://open.spotify.com/track/0Rwc46KVDHVdcn6fN5S4dc) | [KDYN](https://open.spotify.com/artist/3HCAcFMOAXLFYEfpTgQ20N), [Albzzy](https://open.spotify.com/artist/3u3M65YhSCRhnvV9hZ9uTZ) | [Thugs](https://open.spotify.com/album/6bnzNlV4NIrKZSkyPnADpE) | 3:56 |
-| 61 | [Kombat](https://open.spotify.com/track/7ug5Dlrb7MwL8QuddTglKB) | [Albzzy](https://open.spotify.com/artist/3u3M65YhSCRhnvV9hZ9uTZ), [Griz\-O](https://open.spotify.com/artist/11FUGhExWgQVPjgTvblbHQ) | [Kombat / 144](https://open.spotify.com/album/0PgR6HhGpJ3jQvkWNNm50n) | 4:30 |
-| 62 | [Get Mad](https://open.spotify.com/track/51MfeTycH4Do5oH8APvph3) | [Darkzy](https://open.spotify.com/artist/7Ecng98JLorpsVdazNr0Ry) | [Get Mad](https://open.spotify.com/album/2zBWo4P4UdZzkLrKQqlJ98) | 3:37 |
+| 59 | [Get Mad](https://open.spotify.com/track/51MfeTycH4Do5oH8APvph3) | [Darkzy](https://open.spotify.com/artist/7Ecng98JLorpsVdazNr0Ry) | [Get Mad](https://open.spotify.com/album/2zBWo4P4UdZzkLrKQqlJ98) | 3:37 |
+| 60 | [Donny Don](https://open.spotify.com/track/3uwOIivH9QUkBTdkIRfo8c) | [Phibes](https://open.spotify.com/artist/21VZgcYa29ZVvRQzmUNakx), [DEEPROT](https://open.spotify.com/artist/5lxAcm7Djoylav7TnkFTHC), [MIK](https://open.spotify.com/artist/4zotndJ6zbqir1ZkZNXzsm) | [Donny Don](https://open.spotify.com/album/3UusxCt7bhvh5aT6Lwbqwr) | 3:34 |
+| 61 | [Thugs](https://open.spotify.com/track/0Rwc46KVDHVdcn6fN5S4dc) | [KDYN](https://open.spotify.com/artist/3HCAcFMOAXLFYEfpTgQ20N), [Albzzy](https://open.spotify.com/artist/3u3M65YhSCRhnvV9hZ9uTZ) | [Thugs](https://open.spotify.com/album/6bnzNlV4NIrKZSkyPnADpE) | 3:56 |
+| 62 | [Kombat](https://open.spotify.com/track/7ug5Dlrb7MwL8QuddTglKB) | [Albzzy](https://open.spotify.com/artist/3u3M65YhSCRhnvV9hZ9uTZ), [Griz\-O](https://open.spotify.com/artist/11FUGhExWgQVPjgTvblbHQ) | [Kombat / 144](https://open.spotify.com/album/0PgR6HhGpJ3jQvkWNNm50n) | 4:30 |
 | 63 | [Pure](https://open.spotify.com/track/3Hw8clcor9ojrg1AqHHKxp) | [Badger](https://open.spotify.com/artist/4mnrcwjD8rgFeOzvXmkcw3) | [Pure](https://open.spotify.com/album/1S8CHaPPbF68PW1Y8E1V2t) | 2:46 |
 | 64 | [Run It](https://open.spotify.com/track/0sIdaWJNmPdm9bMjEWQ9o0) | [Samstone](https://open.spotify.com/artist/0akEEdGffTxMJpd0CMInhY) | [Run It](https://open.spotify.com/album/72Q8YF27WdFf70eWC4EtGf) | 3:56 |
 | 65 | [Forever](https://open.spotify.com/track/3pTc4kmOx7sMJFc9hHxpbm) | [Jacko](https://open.spotify.com/artist/4HBwYjwyfn1X6KO6PqY9ia) | [Forever](https://open.spotify.com/album/6YAbxrNP039ENGg0ixwfG0) | 4:27 |
-| 66 | [Come Back](https://open.spotify.com/track/685VvVtdY4Nhr6PcWW1Zyl) | [MPH](https://open.spotify.com/artist/62SCu33InHVq97VaWw3eof) | [Night Bass Freshmen Vol 4](https://open.spotify.com/album/0MPdu2GZc6HZOQGzHcSPl2) | 4:27 |
-| 67 | [Give Me](https://open.spotify.com/track/7p9X9NSIbJyQbPEh7JHhIT) | [AWILD](https://open.spotify.com/artist/6gcFu5cjBGbHYpLqE5NbC5) | [Give Me](https://open.spotify.com/album/1XtRIrbv7cArKTvkMJgMZQ) | 5:01 |
-| 68 | [Chances](https://open.spotify.com/track/59PTNOT9TYu7MFJ6pSrCNZ) | [Wittyboy](https://open.spotify.com/artist/3SgLMH12f6V9dfSW2QPgAw) | [Chances](https://open.spotify.com/album/5I2lhIqmWeAtsQD1kXtyC7) | 5:10 |
+| 66 | [Chances](https://open.spotify.com/track/59PTNOT9TYu7MFJ6pSrCNZ) | [Wittyboy](https://open.spotify.com/artist/3SgLMH12f6V9dfSW2QPgAw) | [Chances](https://open.spotify.com/album/5I2lhIqmWeAtsQD1kXtyC7) | 5:10 |
+| 67 | [Come Back](https://open.spotify.com/track/685VvVtdY4Nhr6PcWW1Zyl) | [MPH](https://open.spotify.com/artist/62SCu33InHVq97VaWw3eof) | [Night Bass Freshmen Vol 4](https://open.spotify.com/album/0MPdu2GZc6HZOQGzHcSPl2) | 4:27 |
+| 68 | [Give Me](https://open.spotify.com/track/7p9X9NSIbJyQbPEh7JHhIT) | [AWILD](https://open.spotify.com/artist/6gcFu5cjBGbHYpLqE5NbC5) | [Give Me](https://open.spotify.com/album/1XtRIrbv7cArKTvkMJgMZQ) | 5:01 |
 | 69 | [The Wave](https://open.spotify.com/track/6ECB01l2JrXC9zSMjbu3Qb) | [Digital Koala](https://open.spotify.com/artist/2smGxnd2ZkFTk5bf70eirU), [Griz\-O](https://open.spotify.com/artist/11FUGhExWgQVPjgTvblbHQ) | [The Wave](https://open.spotify.com/album/2mwDSMgWkuP8zX8CByskud) | 4:28 |
-| 70 | [All Night](https://open.spotify.com/track/0J4ecx7h9B73ihSLT88YXm) | [Cooky](https://open.spotify.com/artist/1gIG3PQXZfplVilbDBdzap) | [All Night](https://open.spotify.com/album/6BGQEGytHSd4axFauI67A8) | 3:48 |
+| 70 | [Secure the Bag](https://open.spotify.com/track/7bT9PtLrGTCXGjjhgrvMfg) | [Skepsis](https://open.spotify.com/artist/6DnQYUjtYusK9QJts9HqSC), [Flava D](https://open.spotify.com/artist/682SntJ7VKoFfssPfDAmDZ) | [Secure the Bag](https://open.spotify.com/album/5rTDT905QMFyy0vrUMpaiO) | 4:08 |
 
-Snapshot ID: `MCw5ZDVjODIwOTVmMjNhNzg5NTg5NGFkNjAyZmE4ODdiMjljNzBmODA1`
+Snapshot ID: `MCxjMWJiMzRlZDIwYWMzYjVkYjFjNzhhZmU2NWM2MGE2ZGI4OWUwNWVl`

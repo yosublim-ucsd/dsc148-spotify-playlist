@@ -4,7 +4,7 @@
 
 > Ideale muziek voor de werkdag
 
-303 songs - 17 hr 42 min
+305 songs - 17 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -165,6 +165,7 @@
 | [Mary Jane](https://open.spotify.com/track/2sWnooZMi993GOD2W4gFIK) | [Judy Blank](https://open.spotify.com/artist/2Kqa4BYcpEq4KXX9fYmRpH) | [Morning Sun](https://open.spotify.com/album/4lZQfyBIn3XizXrLZ5jB14) | 3:55 | 2023-02-23 |  |
 | [Meet You In The Middle](https://open.spotify.com/track/7KNfqyUKqkIkhHV4Xo5g6K) | [Orange Skyline](https://open.spotify.com/artist/2khmzZ3jOfcd9tJ821E6Xx) | [Meet You In The Middle](https://open.spotify.com/album/2UWD7JfYUKklHrdaVN5xGV) | 3:30 | 2023-02-23 |  |
 | [Melancholy Rain](https://open.spotify.com/track/7bCYUO2k83VMK0yWIeyYPw) | [Goldkimono](https://open.spotify.com/artist/3krHIfEy37pVe0zjdisDBk) | [Melancholy Rain](https://open.spotify.com/album/18zEVRFEE4NOr4VwgWTh6m) | 3:18 | 2023-02-23 |  |
+| [Meltdown \- Acoustic](https://open.spotify.com/track/73FSsylmR8pD3q4PVGmOqc) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Meltdown \(Acoustic\)](https://open.spotify.com/album/4WnJjgV05k7SlsFI4u7mEK) | 3:44 | 2023-05-18 |  |
 | [Middle Of The Night \- Radio Mix](https://open.spotify.com/track/6NljwIzPEd3saqUsp4s4kT) | [Geike](https://open.spotify.com/artist/5mkzx9Hq5mYTx1LZ0CUGiP) | [Middle Of The Night \(Radio Mix\)](https://open.spotify.com/album/7ucOHGF9Ud1nC3SY6KoSiU) | 2:47 | 2023-02-23 |  |
 | [Midnight](https://open.spotify.com/track/2HEudAZWEH9NsygtkWXs5s) | [Sophia](https://open.spotify.com/artist/4dI2I5YRyIvaVQksYnx9Zd) | [Midnight](https://open.spotify.com/album/453z5Es9h6XsvPCZWKzYdf) | 3:22 | 2023-02-23 |  |
 | [Million Reasons](https://open.spotify.com/track/7dZ1Odmx9jWIweQSatnRqo) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Joanne \(Deluxe\)](https://open.spotify.com/album/2ZUwFxlWo0gwTsvZ6L4Meh) | 3:25 | 2023-02-23 | 2023-04-26 |
@@ -199,7 +200,7 @@
 | [Places To Go](https://open.spotify.com/track/2kIMDGHkZPCwK0MD2IlXzR) | [Anouk](https://open.spotify.com/artist/6ltVunYjAAD70YtVO6rxvX) | [Paradise And Back Again](https://open.spotify.com/album/1taypDxNMQORzlU7YfZlk1) | 3:46 | 2023-02-23 |  |
 | [Plage](https://open.spotify.com/track/6jPNXRnTy37ADxbihf56rM) | [Crystal Fighters](https://open.spotify.com/artist/75EZuo5MHV2572NRpMWotC) | [Star Of Love](https://open.spotify.com/album/00v21bgN2da5KonMWEAMec) | 3:50 | 2023-02-23 |  |
 | [Plan B](https://open.spotify.com/track/5VznAumfWkTREKil1KIr2Z) | [Tim Dawn](https://open.spotify.com/artist/55VC7UDCmceodks4rbHgHe) | [Plan B](https://open.spotify.com/album/6oRNdc43yuhj9QC0IJgmzd) | 3:05 | 2023-02-23 |  |
-| [Queen of Elba](https://open.spotify.com/track/1e402nE03yvaw6YFruqc25) | [Laura Jansen](https://open.spotify.com/artist/1Ecagb1V0oVlO0pFKnhYWM) | [Elba](https://open.spotify.com/album/5C2h4RDpIKiuRFchSy9oeZ) | 3:56 | 2023-04-25 |  |
+| [Queen of Elba](https://open.spotify.com/track/1e402nE03yvaw6YFruqc25) | [Laura Jansen](https://open.spotify.com/artist/1Ecagb1V0oVlO0pFKnhYWM) | [Elba](https://open.spotify.com/album/5C2h4RDpIKiuRFchSy9oeZ) | 3:56 | 2023-04-25 | 2023-05-20 |
 | [Recognise \- Acoustic Version](https://open.spotify.com/track/1xgAlkJVfaLJmN3Fv5yM6H) | [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7), [Flynn](https://open.spotify.com/artist/4yxeyorUKkW9fOOBeguEC9) | [Recognise \(Remixes\)](https://open.spotify.com/album/5Qc4mm0abrHEdpyL21vIp8) | 2:49 | 2023-02-23 |  |
 | [Resolution](https://open.spotify.com/track/6C2PcJaxG7OXRU86zZiQOz) | [Matt Corby](https://open.spotify.com/artist/7CIW23FQUXPc1zebnO1TDG) | [Resolution](https://open.spotify.com/album/0V49RmdI91QvHAayrLPyS0) | 4:16 | 2023-02-23 |  |
 | [Rewind](https://open.spotify.com/track/5Po20XWC11YJ3TMLfHqMdB) | [RANI](https://open.spotify.com/artist/3SYnDj7btg9gFY7ps8m5d5) | [EP6](https://open.spotify.com/album/6ZSh7q2E1I6tpESZA6j4nE) | 2:59 | 2023-02-23 |  |
@@ -209,6 +210,7 @@
 | [Romantic](https://open.spotify.com/track/6UvHVnBPpxMJrTAFnMK8s2) | [Hooverphonic](https://open.spotify.com/artist/5EP020iZcwBqHRnJftibXX) | [Looking For Stars](https://open.spotify.com/album/5JZSvFY37igyGtmIP0yuLW) | 3:15 | 2023-02-23 |  |
 | [Run Away Together](https://open.spotify.com/track/5HNTGn5VIRRBgMdFV09Zh3) | [Anouk](https://open.spotify.com/artist/6ltVunYjAAD70YtVO6rxvX) | [Queen For A Day](https://open.spotify.com/album/1Dn1MhYuEOO6eMijYqnKCG) | 3:33 | 2023-02-23 |  |
 | [Run Run](https://open.spotify.com/track/27yGmniI32QbBD4OQzhhTP) | [Melle](https://open.spotify.com/artist/0tNutPAfpYEeY6YEzwIXQp) | [Run Run](https://open.spotify.com/album/2qBoGoXDFV9VPh7VQmvlgA) | 2:58 | 2023-02-23 |  |
+| [Run Till Dark \(with Now United\) \(Acoustic\)](https://open.spotify.com/track/72cVxEf5RtQ9lXS9Cbqlkq) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [Now United](https://open.spotify.com/artist/1dXQpSjXcTO288b5D5IIE6) | [Run Till Dark \(with Now United\) \(Acoustic\)](https://open.spotify.com/album/2bY6IW9LnylPDRRMMfsLIN) | 2:33 | 2023-05-18 |  |
 | [Save Your Love](https://open.spotify.com/track/2egtrr5T0vdqOBtuYbzEu4) | [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD) | [Leap](https://open.spotify.com/album/06ug65kBTheiQOomrAq0iB) | 3:23 | 2023-02-23 | 2023-04-07 |
 | [Say Something \(feat\. Chris Stapleton\)](https://open.spotify.com/track/1LhMopPAallLeaeNutqbgS) | [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7), [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [Man of the Woods](https://open.spotify.com/album/01l3jTY261V3CESZR4dABz) | 4:38 | 2023-02-23 |  |
 | [Seatbelts](https://open.spotify.com/track/5LpNNr02dABUYZ6ofq0xkY) | [Ruben Hein](https://open.spotify.com/artist/2O4jyeF4uyGLsGcjY49zbS) | [Seatbelts](https://open.spotify.com/album/7dx3bn5pvZnNwVA1Gptpll) | 3:47 | 2023-02-23 |  |
@@ -283,7 +285,7 @@
 | [Us](https://open.spotify.com/track/2lmMt4SRDXDma6QkJUox0D) | [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD), [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [Us](https://open.spotify.com/album/7pWw6ozRByPfbII3rqDnct) | 3:07 | 2023-02-23 |  |
 | [Used To Have It All \- Acoustic](https://open.spotify.com/track/7ITWyuMyhjlR9PRQhQtA1l) | [FÄIS](https://open.spotify.com/artist/5w6mMj1qwSILG0pcylfchp), [AFROJACK](https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz) | [Used To Have It All \(Acoustic Version\)](https://open.spotify.com/album/62tzkQeijTanN4Uuz4UgfJ) | 3:01 | 2023-02-23 |  |
 | [W.E.E.K.E.N.D.](https://open.spotify.com/track/3T2fai9uwHnVrsTzlfFv0c) | [Arling & Cameron](https://open.spotify.com/artist/7vecYSjE3aIdfEGfsCpBsu) | [Music For Imaginary Films](https://open.spotify.com/album/4U8cs4LsMzKpC6dJhnziMv) | 4:15 | 2023-02-23 | 2023-04-13 |
-| [Walk on Water](https://open.spotify.com/track/7gJxovbniGxd1capql4YkA) | [Causes](https://open.spotify.com/artist/1l48rGyg7MMLBbmP8MyFj3) | [Under Bridges That You Built for Me](https://open.spotify.com/album/05DW2Nhy7weLFZutIO7GCp) | 3:34 | 2023-04-25 |  |
+| [Walk on Water](https://open.spotify.com/track/7gJxovbniGxd1capql4YkA) | [Causes](https://open.spotify.com/artist/1l48rGyg7MMLBbmP8MyFj3) | [Under Bridges That You Built for Me](https://open.spotify.com/album/05DW2Nhy7weLFZutIO7GCp) | 3:34 | 2023-04-25 | 2023-05-20 |
 | [Walking On A Wire](https://open.spotify.com/track/5T4dlptZuicwu2CENBBTiB) | [Tim Dawn](https://open.spotify.com/artist/55VC7UDCmceodks4rbHgHe) | [Walking On A Wire](https://open.spotify.com/album/3lwoMf5HdSl5CeSWCG3UTP) | 3:35 | 2023-02-23 | 2023-04-26 |
 | [Wandering Heart](https://open.spotify.com/track/3nB886s0ieK7TwHFjQgoOz) | [Tim Knol](https://open.spotify.com/artist/5iwR7L3O96vO8rVXXuLf5K) | [Wandering Heart](https://open.spotify.com/album/10THMG976Sqzl7Bh5yE7At) | 3:20 | 2023-02-23 |  |
 | [Warwick Avenue](https://open.spotify.com/track/2IMIbiJlbi0pIs3FBpKFhS) | [Duffy](https://open.spotify.com/artist/37NqXwtb6nIEqRt4EJSoIO) | [Rockferry](https://open.spotify.com/album/6freV6eqxuFjSr3E93Oqtz) | 3:46 | 2023-02-23 | 2023-05-02 |

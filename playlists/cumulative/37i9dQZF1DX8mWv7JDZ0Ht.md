@@ -4,7 +4,7 @@
 
 > Novidades e hits do pop nacional pra te deixar mais leve! Foto: Nando Reis, Anavitória
 
-319 songs - 15 hr 58 min
+320 songs - 16 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -175,7 +175,7 @@
 | [Melhor Forma](https://open.spotify.com/track/4LX6iqSAIIQPdpy3L9PZpr) | [Tayla Duarte](https://open.spotify.com/artist/3Uw5WlCi6laD8Wn9CBc3lY), [Arielly Porto](https://open.spotify.com/artist/0L6X54dt5wVN8arWfyN1v1) | [Melhor Forma](https://open.spotify.com/album/2qL2huOv6H8Yz3rUaxW5c9) | 2:24 | 2022-05-13 | 2022-10-11 |
 | [MENINA](https://open.spotify.com/track/30sNX63sgXRJWQcSK9DbLm) | [Flavio Ferrari](https://open.spotify.com/artist/7B05yEI5NHNcIimKT23M1x) | [MENINA](https://open.spotify.com/album/7tyJ4al0A5shUAtMGFolAP) | 3:11 | 2023-02-03 | 2023-05-06 |
 | [Menina do Interior](https://open.spotify.com/track/2yt3119p51Qyp9mHY1xgKK) | [João Napoli](https://open.spotify.com/artist/0LcE3YrT8d2Bc0ylmnnx1L) | [Menina do Interior / Aurora](https://open.spotify.com/album/6Ey26ottxtVHM1j9IvTHVn) | 3:20 | 2022-06-24 | 2022-08-02 |
-| [Menino](https://open.spotify.com/track/5IJLZv9xTNWResf5YPBYlG) | [Mateus Carrilho](https://open.spotify.com/artist/0TSMy9QFSMnBR2si7qZ0VT) | [Menino](https://open.spotify.com/album/0TqFDnB8H0HI57oPIKsZBg) | 2:48 | 2023-04-07 |  |
+| [Menino](https://open.spotify.com/track/5IJLZv9xTNWResf5YPBYlG) | [Mateus Carrilho](https://open.spotify.com/artist/0TSMy9QFSMnBR2si7qZ0VT) | [Menino](https://open.spotify.com/album/0TqFDnB8H0HI57oPIKsZBg) | 2:48 | 2023-04-07 | 2023-05-20 |
 | [MENTIRA](https://open.spotify.com/track/6jrk9SYMQh8dhOAYTjU3A2) | [Nairo](https://open.spotify.com/artist/1D8czLMHw5DiZCQGd6xHXa) | [Mentira](https://open.spotify.com/album/3vXGRIRvX8rGxu79ktxSI2) | 2:59 | 2022-10-28 | 2023-02-04 |
 | [Meu Bem](https://open.spotify.com/track/5kp9aP8zXokT6xVU10ZOXJ) | [OUTROEU](https://open.spotify.com/artist/3gZAVWMzKOt1tVO4tHoGwo), [Nanno](https://open.spotify.com/artist/4UnPlU7ZiB5msWRpEDYsP3) | [A Mágica Por Trás Da Forma](https://open.spotify.com/album/7JVWJYX1Bjq1eIzzexh8mE) | 2:13 | 2023-03-17 |  |
 | [Meus Boletos](https://open.spotify.com/track/2PIm3q14YWBuD08IZqgJ56) | [Julio Secchin](https://open.spotify.com/artist/0B0FipO3fLbLbHQz5RfTUs) | [Meus Boletos](https://open.spotify.com/album/4EdCXFrVKFoxk8twoHJUUc) | 3:35 | 2023-04-14 | 2023-05-06 |
@@ -250,6 +250,7 @@
 | [Rockstar](https://open.spotify.com/track/7nkqdCmYskYjTElzcB7RsP) | [Théo Medon](https://open.spotify.com/artist/68BYpHWp2bG1aED8Tq6n8y) | [Rockstar](https://open.spotify.com/album/7hpBRdQRQhqPs4kItbAAy5) | 2:51 | 2022-06-24 | 2022-07-02 |
 | [roda de bamba](https://open.spotify.com/track/3p1sKst6UehseITknM5z1b) | [Konai](https://open.spotify.com/artist/12YpLBd0FvDYA0c4nsaxFp) | [NJDDAMC](https://open.spotify.com/album/6TLehgZQDQ4TcvBayNmN89) | 2:42 | 2022-11-11 | 2022-11-26 |
 | [Romântica Demais](https://open.spotify.com/track/1Rvzb9oE2B2gjdPs0P6npZ) | [Vicka](https://open.spotify.com/artist/5ITGPHkPyU6uvvrhMjCGai) | [Romântica Demais](https://open.spotify.com/album/7JZHxFyLvQZe5dlGuXp7cE) | 3:00 | 2023-05-05 |  |
+| [Samba de Nós Dois](https://open.spotify.com/track/5MQ2a8RvLTpVUHT5AsoQzf) | [Doral](https://open.spotify.com/artist/3yMvydJf1VUFfuFjdYK3Hp) | [Samba de Nós Dois](https://open.spotify.com/album/2cjBLxmvfLPmtLm4fj1VVh) | 2:59 | 2023-05-19 |  |
 | [Sanidade Mental](https://open.spotify.com/track/2tv39y2gT7pLwm593Dz6Sj) | [Zant](https://open.spotify.com/artist/0GVaM9LtM51CEGq6FJ3MC8) | [Sanidade Mental](https://open.spotify.com/album/64zdSOzHBmznEM4x34f9nY) | 1:59 | 2023-04-21 |  |
 | [Saudade](https://open.spotify.com/track/3N9DVfynhzZNmcih0KbLPi) | [Orgânico](https://open.spotify.com/artist/5UOOgRWguRmVZo1voJuQpf), [Léo Casa 1](https://open.spotify.com/artist/5CLH6SMhWas8Ed7W9YZjJD), [VNegreen](https://open.spotify.com/artist/6wqRhQBrvbrjle8kCuEDRG), [Samantha Machado](https://open.spotify.com/artist/5qQdzyIlYfzICKOVdb7XvY) | [Orgânico Verão 2023](https://open.spotify.com/album/0eGnjuEmnPCAepsfDSTkim) | 3:58 | 2022-12-23 |  |
 | [saudade](https://open.spotify.com/track/0kpMUdI4YGhhKOisM6cbJ5) | [Oscar Anton](https://open.spotify.com/artist/1g3dAnqp218LiNN9ng5dIh), [Ana Gabriela](https://open.spotify.com/artist/6a9WLQ5NsIV7U2qB16uFWD) | [postcard from Rio](https://open.spotify.com/album/6eyo1VgU0qGpGBvXP3jEpZ) | 2:46 | 2022-10-28 | 2023-03-25 |

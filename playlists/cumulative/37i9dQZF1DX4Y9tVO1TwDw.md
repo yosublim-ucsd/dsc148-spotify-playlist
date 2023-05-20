@@ -4,7 +4,7 @@
 
 > MADE of latin roots, MADE in the U.S\. MADE to shine! Cover: DannyLux
 
-177 songs - 9 hr 16 min
+178 songs - 9 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,7 +23,7 @@
 | [ANYWAY](https://open.spotify.com/track/6GY2FCfIwuY0tlmk0HE9t2) | [Poe Leos](https://open.spotify.com/artist/6E4v4lnsSuO5SaQ4FNOWSA) | [ANYWAY](https://open.spotify.com/album/2OTJpqiKPctZPSOJcKwmUB) | 3:30 | 2023-03-06 |  |
 | [Aprendiendo por las Malas](https://open.spotify.com/track/0E1feCwQ9JoJ9jw5M6CcQF) | [Doris Anahí](https://open.spotify.com/artist/0Tubiaojq0PHvZahvXl1ju) | [Aprendiendo por las Malas](https://open.spotify.com/album/2981Dhu3mLI9a9HpfTClo3) | 3:13 | 2022-09-14 | 2023-03-04 |
 | [Arroz Con Leche](https://open.spotify.com/track/0KOLLA1pqLBYFvWy1qfHS1) | [Cachas De Oro](https://open.spotify.com/artist/17FY0cfPgTE9dHFHU7kxcU) | [Arroz Con Leche](https://open.spotify.com/album/5ofEPdxEML57Lnxcr1t5Yn) | 2:35 | 2022-09-14 | 2023-03-04 |
-| [Atmosférica](https://open.spotify.com/track/7CkmacAafgK7mKnartEcJz) | [Mexico City Heartbreak](https://open.spotify.com/artist/6HCbitfK12jusZy0drIiqJ) | [Atmosférica](https://open.spotify.com/album/3SXUi0sFJxlgRKjtn8exL7) | 3:57 | 2023-03-03 |  |
+| [Atmosférica](https://open.spotify.com/track/7CkmacAafgK7mKnartEcJz) | [Mexico City Heartbreak](https://open.spotify.com/artist/6HCbitfK12jusZy0drIiqJ) | [Atmosférica](https://open.spotify.com/album/3SXUi0sFJxlgRKjtn8exL7) | 3:57 | 2023-03-03 | 2023-05-20 |
 | [Azúcar y Miel](https://open.spotify.com/track/77YxTd1xU2vX8zQTM90tCS) | [Los Velvets](https://open.spotify.com/artist/2XwCyW0m2J8oTZZ3VIBVy5) | [Azúcar y Miel](https://open.spotify.com/album/66RHHesIVcYuJm0BkmajkK) | 3:12 | 2023-03-03 | 2023-04-22 |
 | [Bachatica](https://open.spotify.com/track/4DZYmpPrr6agOFB1qQSJ8I) | [Leslie Grace](https://open.spotify.com/artist/6BeO1KuAWBqFriL1mLHtNc) | [Bachatica](https://open.spotify.com/album/4RKlBiJIMMhQ9yXOeoJwi8) | 3:16 | 2022-09-14 | 2023-03-04 |
 | [Bad Bichi](https://open.spotify.com/track/2hGTv1OBtgFeRgNyqphITI) | [vf7](https://open.spotify.com/artist/6bxjoq64Y0HTfMc4GIbpyJ) | [Bad Bichi](https://open.spotify.com/album/2uqrqjmwu3qqYU46jEd6DJ) | 2:55 | 2022-09-14 | 2023-03-04 |
@@ -142,6 +142,7 @@
 | [Riri](https://open.spotify.com/track/4PSnghnspIWBQZ7fQE58kU) | [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [Riri](https://open.spotify.com/album/7Ldok3zx8QJiiUGkL12QMa) | 2:14 | 2022-09-14 | 2023-02-18 |
 | [Ruby](https://open.spotify.com/track/0e69hMJTwnCTA83HNyaSKx) | [Bo Bundy](https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS) | [The Lonestar \(Side B\)](https://open.spotify.com/album/06umNxBSyTAPfB3XYfn95D) | 3:32 | 2023-03-03 | 2023-04-22 |
 | [Santee](https://open.spotify.com/track/5Jssxp8m8PbF7gd9lZFfsx) | [Estevie](https://open.spotify.com/artist/3k9GPiGAtIAOfnfzzy3XQp) | [Santee](https://open.spotify.com/album/2OWQzXNMHUMe35yaKbWXcb) | 1:49 | 2023-03-03 | 2023-05-17 |
+| [Santee](https://open.spotify.com/track/6NVF8h8v9KtmDZy1O6OqxN) | [Estevie](https://open.spotify.com/artist/3k9GPiGAtIAOfnfzzy3XQp) | [Santee](https://open.spotify.com/album/4ufmIz1Th5cmgpS3PE3Jik) | 1:49 | 2023-04-21 |  |
 | [see me now](https://open.spotify.com/track/6zC9BpkTlnxeLkC2x9aQyb) | [Niko Rubio](https://open.spotify.com/artist/6XdCL1kwMFNqPim2JwXjKa) | [See Me Now](https://open.spotify.com/album/3YkfTFbfEgyprP6jtX4Ozi) | 3:29 | 2023-04-21 |  |
 | [Sexo Sin Drama](https://open.spotify.com/track/2qQ0RuYvFLsYZarBTCSbJw) | [Digiannia](https://open.spotify.com/artist/7h4VlNeXe4xN4uRWnYn875) | [Sexo Sin Drama](https://open.spotify.com/album/2ndDGHFi69bEujXAftA959) | 2:22 | 2023-03-03 |  |
 | [Si Acaso Vuelves](https://open.spotify.com/track/2JIfE0dJv2b8fTvHxZZ0kP) | [Ralphy Dreamz](https://open.spotify.com/artist/5elxYg57OGXnqXm6wZDmvm) | [Si Acaso Vuelves](https://open.spotify.com/album/6aTk7cTS9ClTgjefVjLel3) | 3:03 | 2022-09-14 | 2023-03-04 |

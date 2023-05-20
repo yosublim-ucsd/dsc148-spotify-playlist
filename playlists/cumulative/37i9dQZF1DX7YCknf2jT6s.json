@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-01",
-  "description": "New jazz for open minds. Cover: Marquis Hill",
+  "description": "New jazz for open minds. Cover: Orrin Evans",
   "name": "State of Jazz",
   "tracks": [
     {
@@ -832,7 +832,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 276680,
       "name": "All Twelve",
       "url": "https://open.spotify.com/track/1NnOOixQv5YJnlR7lCsbrr"
@@ -1186,6 +1186,50 @@
       "duration_ms": 242264,
       "name": "Anthology",
       "url": "https://open.spotify.com/track/2Jlm3Q8LqbAHXNAkyNq9Lj"
+    },
+    {
+      "album": {
+        "name": "Any Moment Now",
+        "url": "https://open.spotify.com/album/7bMZ5t95tWXGY6v2PyJC4N"
+      },
+      "artists": [
+        {
+          "name": "Michael Blicher",
+          "url": "https://open.spotify.com/artist/63pT7P8TZCJmvsEbCbE0sZ"
+        },
+        {
+          "name": "Dan Hemmer",
+          "url": "https://open.spotify.com/artist/1dmEVxj0YBAnoaEepaB2oz"
+        },
+        {
+          "name": "Steve Gadd",
+          "url": "https://open.spotify.com/artist/42zoEf7IcpDSvdQjcrSpHl"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241964,
+      "name": "Any Moment Now",
+      "url": "https://open.spotify.com/track/0ZZ6rr8JkHJ4cj9aFWmtd2"
+    },
+    {
+      "album": {
+        "name": "Apaches",
+        "url": "https://open.spotify.com/album/1ggobyEziijK2CIaVGaweP"
+      },
+      "artists": [
+        {
+          "name": "Anne Paceo",
+          "url": "https://open.spotify.com/artist/73WqPBltlyOTxKoOVWWBdL"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191440,
+      "name": "Apaches",
+      "url": "https://open.spotify.com/track/57aLI6I1Ty7mJnkJm4sOhf"
     },
     {
       "album": {
@@ -1624,7 +1668,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 199818,
       "name": "Autumn",
       "url": "https://open.spotify.com/track/75A6fu5Tug54XA3VUg5tTh"
@@ -1748,6 +1792,24 @@
       "duration_ms": 239280,
       "name": "Babyghosts - Jazz Montez Version",
       "url": "https://open.spotify.com/track/2RUlF8fvIg8wTBBwVj2ZiJ"
+    },
+    {
+      "album": {
+        "name": "The Way It Is",
+        "url": "https://open.spotify.com/album/2lWShcPbAJ7pPR0ucGOszK"
+      },
+      "artists": [
+        {
+          "name": "The Funky Knuckles",
+          "url": "https://open.spotify.com/artist/0uyK6faAhm4CYcf1OhP38V"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 357360,
+      "name": "Back Meetings",
+      "url": "https://open.spotify.com/track/1kEZTQQMBIo8ujXWdSLE2g"
     },
     {
       "album": {
@@ -1894,6 +1956,32 @@
       "duration_ms": 450240,
       "name": "BC",
       "url": "https://open.spotify.com/track/2T4jpgQTXUykbqZlvjKNQG"
+    },
+    {
+      "album": {
+        "name": "Be My Husband",
+        "url": "https://open.spotify.com/album/4B5TFlrBmx9QEV1z3msnge"
+      },
+      "artists": [
+        {
+          "name": "Jazz Mafia",
+          "url": "https://open.spotify.com/artist/1hmznDDe3G3wAWP2BIOved"
+        },
+        {
+          "name": "Realistic Orchestra",
+          "url": "https://open.spotify.com/artist/69WRExBLLX7B6gUHt0MaoL"
+        },
+        {
+          "name": "Adam Theis",
+          "url": "https://open.spotify.com/artist/7F0GE9aWnuNcFG5Vxi1AtZ"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211984,
+      "name": "Be My Husband",
+      "url": "https://open.spotify.com/track/6YcXNQ2cVqr5InpWCmCGZx"
     },
     {
       "album": {
@@ -2713,6 +2801,50 @@
     },
     {
       "album": {
+        "name": "Brecker Steps Ahead",
+        "url": "https://open.spotify.com/album/5zCc9mINVm73kaHVucVLPh"
+      },
+      "artists": [
+        {
+          "name": "David Garfield",
+          "url": "https://open.spotify.com/artist/3RPnyf7t9phTwwSzQgaZYb"
+        },
+        {
+          "name": "Randy Brecker",
+          "url": "https://open.spotify.com/artist/3Rsba5XTDhxUyjK4sn1wBj"
+        },
+        {
+          "name": "Brandon Fields",
+          "url": "https://open.spotify.com/artist/6m677bkJTyCYHZZa6h8PR5"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 353962,
+      "name": "Brecker Steps Ahead",
+      "url": "https://open.spotify.com/track/5ZpVij1nauaAh8gXqcM4zZ"
+    },
+    {
+      "album": {
+        "name": "My Voice",
+        "url": "https://open.spotify.com/album/3307v7bngEkIXsB6OZWBy8"
+      },
+      "artists": [
+        {
+          "name": "Ashley Henry",
+          "url": "https://open.spotify.com/artist/64bpQRbx4Nw2r7oIg1SAzw"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271040,
+      "name": "Breeze",
+      "url": "https://open.spotify.com/track/1ssRJeVukT0jJEoBO8b0c7"
+    },
+    {
+      "album": {
         "name": "The Q Sessions",
         "url": "https://open.spotify.com/album/2HLVQ7b0y9D1wgRUFslaDq"
       },
@@ -2786,7 +2918,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 293600,
       "name": "Bye Nashville",
       "url": "https://open.spotify.com/track/0I81H8iYEONeXjQVMaHxLW"
@@ -3228,7 +3360,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 251426,
       "name": "Clandestin",
       "url": "https://open.spotify.com/track/3rfz42lDgNVg4vM2qImPsG"
@@ -3740,6 +3872,28 @@
       "duration_ms": 184573,
       "name": "Dark Moon",
       "url": "https://open.spotify.com/track/3klFPhvOTgZpxHDk8ewWLK"
+    },
+    {
+      "album": {
+        "name": "Darkness, Darkness",
+        "url": "https://open.spotify.com/album/0EXkV7DLamr6pDl9Wp3A9Z"
+      },
+      "artists": [
+        {
+          "name": "Kieran Hebden",
+          "url": "https://open.spotify.com/artist/4HcUiDJk4PN2Ac2b1ZJT3E"
+        },
+        {
+          "name": "William Tyler",
+          "url": "https://open.spotify.com/artist/3iexGtoBAyCUbxOKeru5py"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 607922,
+      "name": "Darkness, Darkness",
+      "url": "https://open.spotify.com/track/3rXe6esv9eL9zRe38tyAHD"
     },
     {
       "album": {
@@ -5172,7 +5326,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 170475,
       "name": "Expedition",
       "url": "https://open.spotify.com/track/5xCeDshnYgGftDALYye1EQ"
@@ -5798,7 +5952,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 199418,
       "name": "Freight",
       "url": "https://open.spotify.com/track/3k63MoKSa1ivGMHOSMAySF"
@@ -6394,7 +6548,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 283133,
       "name": "Greens",
       "url": "https://open.spotify.com/track/2Y0sTNWD4FapzWvS5RW78a"
@@ -7442,7 +7596,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 340766,
       "name": "I Loves You Porgy (feat. C\u00e9cile Mclorin Salvant)",
       "url": "https://open.spotify.com/track/25jVdQ4OXQ2ialL2bOJNfJ"
@@ -8466,7 +8620,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 152000,
       "name": "jazzy shorts",
       "url": "https://open.spotify.com/track/60G7zYgCFWCaRA0bDDlbC6"
@@ -12154,7 +12308,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 347551,
       "name": "Parenthesis",
       "url": "https://open.spotify.com/track/3X4lYXX8q8D0vYcKG76Sah"
@@ -12514,6 +12668,32 @@
       "duration_ms": 205525,
       "name": "Playing With Fire",
       "url": "https://open.spotify.com/track/346gVViqfzwcq7iy5mckIi"
+    },
+    {
+      "album": {
+        "name": "Polos (feat. Chris Fishman & Daryl Johns)",
+        "url": "https://open.spotify.com/album/0RD2Gt7xiZbiZfNIKzWMV1"
+      },
+      "artists": [
+        {
+          "name": "Pedro Martins",
+          "url": "https://open.spotify.com/artist/7fgw6kQggc48KiNoTGWNU5"
+        },
+        {
+          "name": "Chris Fishman",
+          "url": "https://open.spotify.com/artist/7th9o3DE5cL9VsgNLgfxsJ"
+        },
+        {
+          "name": "Daryl Johns",
+          "url": "https://open.spotify.com/artist/7K48RaFMB6BhTLc0KspbTh"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198421,
+      "name": "Polos (feat. Chris Fishman & Daryl Johns)",
+      "url": "https://open.spotify.com/track/36HXXPRItzl67FoS6rTz51"
     },
     {
       "album": {
@@ -13515,6 +13695,28 @@
     },
     {
       "album": {
+        "name": "Roam",
+        "url": "https://open.spotify.com/album/0Mn1ugrdTJrahOlEVKB3FR"
+      },
+      "artists": [
+        {
+          "name": "Keeth",
+          "url": "https://open.spotify.com/artist/5sv0yfLOm69KAnjd5mg52u"
+        },
+        {
+          "name": "Garrett Podgorski",
+          "url": "https://open.spotify.com/artist/2ssaFxujFnzCZKWN2JFtor"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127423,
+      "name": "Roam",
+      "url": "https://open.spotify.com/track/0Wjb5wqHsRmsF8UI4XG3aj"
+    },
+    {
+      "album": {
         "name": "Romance Sans Paroles",
         "url": "https://open.spotify.com/album/3f6hrDWKOZpo0l1O75SYKc"
       },
@@ -13596,7 +13798,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 478107,
       "name": "Rue Chaptal / Royal Roost",
       "url": "https://open.spotify.com/track/3yw8UHofn2gq1z4poRe7kX"
@@ -13890,7 +14092,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 396453,
       "name": "Search for Peace",
       "url": "https://open.spotify.com/track/1gFQNjgYF48dWTP2S067r3"
@@ -13978,7 +14180,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 393002,
       "name": "See",
       "url": "https://open.spotify.com/track/6LIOih4AibSQk5HXELJwCz"
@@ -16114,6 +16316,24 @@
       "duration_ms": 252971,
       "name": "That's the Way It Is",
       "url": "https://open.spotify.com/track/2cQUpeNPocwLzbybZzm0Gi"
+    },
+    {
+      "album": {
+        "name": "The Abyss",
+        "url": "https://open.spotify.com/album/6by0mpt9n2zI3575AUxH0T"
+      },
+      "artists": [
+        {
+          "name": "KNOWER",
+          "url": "https://open.spotify.com/artist/7fVp0A6oCMfiQJihMnY0SZ"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182000,
+      "name": "The Abyss",
+      "url": "https://open.spotify.com/track/45nldnip792IjCInuYENor"
     },
     {
       "album": {
@@ -18346,7 +18566,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 211057,
       "name": "VEEMARKT (feat. Sun-Mi Hong)",
       "url": "https://open.spotify.com/track/4SkpZOd8fkCIufOCczT9kj"
@@ -18899,6 +19119,24 @@
     },
     {
       "album": {
+        "name": "Weezy",
+        "url": "https://open.spotify.com/album/1JYqRJ8grwAazaCF5OmMcL"
+      },
+      "artists": [
+        {
+          "name": "Orrin Evans",
+          "url": "https://open.spotify.com/artist/1E4jlqY2HEXKLT0YkNy3HL"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 431720,
+      "name": "Weezy",
+      "url": "https://open.spotify.com/track/59quKh2wIPL3bom9F5MjI5"
+    },
+    {
+      "album": {
         "name": "What Are You Doing the Rest of Your Life?",
         "url": "https://open.spotify.com/album/4C9bsmeHvh168BMnqd5stY"
       },
@@ -19056,6 +19294,24 @@
       "duration_ms": 398400,
       "name": "Whole Foods",
       "url": "https://open.spotify.com/track/2ZWejGOCrCBCh5XWpSRLlM"
+    },
+    {
+      "album": {
+        "name": "why my love?",
+        "url": "https://open.spotify.com/album/5L9Xd70CE9nb8suM5BGdQQ"
+      },
+      "artists": [
+        {
+          "name": "aja monet",
+          "url": "https://open.spotify.com/artist/6dclGxWbiv1ScMQwT5INQF"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277283,
+      "name": "why my love?",
+      "url": "https://open.spotify.com/track/1FKQyGD0UVL5gAiNOGZ1YW"
     },
     {
       "album": {
@@ -19477,6 +19733,28 @@
     },
     {
       "album": {
+        "name": "You Don't Have To",
+        "url": "https://open.spotify.com/album/2JkXV0X85ENDw9EvL5myJZ"
+      },
+      "artists": [
+        {
+          "name": "Dele Sosimi",
+          "url": "https://open.spotify.com/artist/2HHFbP3OFh0bOgdnMYfqsc"
+        },
+        {
+          "name": "The Estuary 21",
+          "url": "https://open.spotify.com/artist/3AvaTJVo7L7mvvw7JpFAjo"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255466,
+      "name": "You Don't Have To",
+      "url": "https://open.spotify.com/track/6Q4CTfhsXqM38qygqtSuv3"
+    },
+    {
+      "album": {
         "name": "You Don't Know What Love Is",
         "url": "https://open.spotify.com/album/17VJHTFQY6dxhagk6saKdO"
       },
@@ -19682,6 +19960,28 @@
       "duration_ms": 288157,
       "name": "Yrsno",
       "url": "https://open.spotify.com/track/7ffCbWaSiRRxBRtBLyiH1L"
+    },
+    {
+      "album": {
+        "name": "Food",
+        "url": "https://open.spotify.com/album/4yoRYk48b4Xg3nx4UBhO9u"
+      },
+      "artists": [
+        {
+          "name": "Paolo Fresu",
+          "url": "https://open.spotify.com/artist/2qW0CNnmvdEQwiabdareHi"
+        },
+        {
+          "name": "Omar Sosa",
+          "url": "https://open.spotify.com/artist/2zyVwasA2QkaVopBFZ2RfX"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225160,
+      "name": "Yuca y Magnoca",
+      "url": "https://open.spotify.com/track/3gOgwB3kgXvEDIrDo1mAOs"
     },
     {
       "album": {

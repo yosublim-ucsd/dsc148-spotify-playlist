@@ -4,7 +4,7 @@
 
 > Discover the next wave of talent on the scene writing their own songs\. Cover: Sadie Jean
 
-459 songs - 1 day 0 hr 36 min
+461 songs - 1 day 0 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -108,6 +108,7 @@
 | [dishes](https://open.spotify.com/track/5fl0hbVtZpswYuFORfDkfO) | [dee holt](https://open.spotify.com/artist/4PGmuxahHxpeLAGrR6ygKL) | [dishes](https://open.spotify.com/album/3Sk4lToMRHoSjjzorQBAQX) | 2:40 | 2023-03-10 |  |
 | [Don't Tell My Mom](https://open.spotify.com/track/52xPJ6sISOam1g1blK9RF0) | [Reneé Rapp](https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn) | [Don’t Tell My Mom](https://open.spotify.com/album/3TE6FmGfVRv442zvXQVsqv) | 3:08 | 2022-09-30 | 2022-12-16 |
 | [Don't Tell My Mom](https://open.spotify.com/track/1Ip2m42GTwiaG20hW7dtuZ) | [Reneé Rapp](https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn) | [Everything To Everyone](https://open.spotify.com/album/4Kk5hoolfW8UN6cTSo5fXJ) | 3:09 | 2022-11-25 |  |
+| [down from the high](https://open.spotify.com/track/0eEt3ih8m78sxtQyAXqiSn) | [Dylan Conrique](https://open.spotify.com/artist/2S054G7qnCK45KY0XzpX30) | [Pieces](https://open.spotify.com/album/7h2aJ4utwpfVK1GHkSGufE) | 3:53 | 2023-05-19 |  |
 | [Dragonfly](https://open.spotify.com/track/6CLeE3yafEuOSKbBJwO0mi) | [Jennifer Chung](https://open.spotify.com/artist/4Lu5b0djNHU6poRdy9db1g) | [Dragonfly](https://open.spotify.com/album/37Uo8JuZ8K89hvKjZxxF3j) | 2:48 | 2022-01-14 | 2022-03-12 |
 | [Dream Girl](https://open.spotify.com/track/40NJ6IcslmhpnxVCY0mQUl) | [Brye](https://open.spotify.com/artist/6Z5uMO0V6jlOuZ7LUDrSsC) | [Dream Girl](https://open.spotify.com/album/1d3os2x0L52pyezqlC0lpj) | 3:27 | 2022-06-22 | 2022-11-16 |
 | [Dream Girl](https://open.spotify.com/track/7zF3Vmh0KRdw4lSRZtXCuP) | [Niko Rubio](https://open.spotify.com/artist/6XdCL1kwMFNqPim2JwXjKa) | [Dream Girl](https://open.spotify.com/album/5wSFHnE20dPUeOVE9AGx6w) | 3:40 | 2022-02-11 | 2022-04-29 |
@@ -144,7 +145,7 @@
 | [Fucked Up Together](https://open.spotify.com/track/3ol5hkZ8PSLXW2fVfxsgP7) | [Peter Raffoul](https://open.spotify.com/artist/57Y46IQXUoP3ytP9Wm2xRM) | [Fucked Up Together](https://open.spotify.com/album/5lhKFQ0Jn0Zfc5VciiiP61) | 3:59 | 2022-01-14 | 2022-03-12 |
 | [Full Circle](https://open.spotify.com/track/1agBQVBW2meTYQjmLdCxbB) | [Billianne](https://open.spotify.com/artist/0MID3D49WKmEGfBINN0VJC) | [Full Circle](https://open.spotify.com/album/5ajWwglxlTJUUjIXhDg2y8) | 3:19 | 2023-03-31 |  |
 | [Funeral](https://open.spotify.com/track/4BvRbNPdT7ORpX8h70FrFo) | [Sarah Cothran](https://open.spotify.com/artist/3kft86DbqCNr7rjq3pEj0G) | [Funeral](https://open.spotify.com/album/2FXHQdFvhYwP62nBazYaAq) | 3:31 | 2022-08-26 | 2022-12-24 |
-| [Gatekeeper](https://open.spotify.com/track/7uveohm2cpiLUOYZ7fj8hM) | [Dylan Conrique](https://open.spotify.com/artist/2S054G7qnCK45KY0XzpX30) | [Gatekeeper](https://open.spotify.com/album/2cbHlXqnA646x6mGL8RpWB) | 3:26 | 2023-02-03 |  |
+| [Gatekeeper](https://open.spotify.com/track/7uveohm2cpiLUOYZ7fj8hM) | [Dylan Conrique](https://open.spotify.com/artist/2S054G7qnCK45KY0XzpX30) | [Gatekeeper](https://open.spotify.com/album/2cbHlXqnA646x6mGL8RpWB) | 3:26 | 2023-02-03 | 2023-05-20 |
 | [gentle](https://open.spotify.com/track/7LhVGZrF9jgkT97CaKTlds) | [Lexi Jayde](https://open.spotify.com/artist/69761NObDw2KwmmFgZmxzC) | [closer to closure](https://open.spotify.com/album/6CfZkq2gT8JmDKJGgHOIf1) | 3:18 | 2022-05-27 | 2022-11-10 |
 | [get clean](https://open.spotify.com/track/39V3VQLac3aORyPvSqG3fb) | [Devon Gabriella](https://open.spotify.com/artist/1rfIKfqoygAsxTWBdzVO2i) | [get clean](https://open.spotify.com/album/3f1WstC1D1nSBC0UnYKiyi) | 2:59 | 2023-02-10 | 2023-04-09 |
 | [getting older](https://open.spotify.com/track/3e9Z0TBZPg21jOHnufb2jL) | [BLÜ EYES](https://open.spotify.com/artist/2gI1WfmpFmmgSRojy4Jup2) | [getting older](https://open.spotify.com/album/0c6wCWOriEOPRWKQQkjI01) | 2:46 | 2022-12-09 | 2022-12-31 |
@@ -306,6 +307,7 @@
 | [No Wonder](https://open.spotify.com/track/26E7c125wkzIcTSBdC8th3) | [Billianne](https://open.spotify.com/artist/0MID3D49WKmEGfBINN0VJC) | [No Wonder](https://open.spotify.com/album/6RJuDAODnxAKIkXTxNhKHx) | 3:21 | 2022-11-25 | 2023-02-04 |
 | [NOT AGAIN](https://open.spotify.com/track/6HXvariUkMlkUgg9qzLTc2) | [Jenna Raine](https://open.spotify.com/artist/3aHe9rMa5HFTjXHw8tEz0A) | [NOT AGAIN](https://open.spotify.com/album/5PYdawNgLyNhuJ3pp7xrvQ) | 3:36 | 2022-05-27 | 2022-07-23 |
 | [Not For Me](https://open.spotify.com/track/1mHcikpSNzkFdhYNctCsJy) | [Sarah Proctor](https://open.spotify.com/artist/7uz8DZsGBlVbCVpACJGfNl) | [Not For Me](https://open.spotify.com/album/6TFlN4zjEzMthBNYleuAJg) | 3:46 | 2022-01-14 | 2022-03-05 |
+| [older](https://open.spotify.com/track/0q49ODitYkfDWQbMcsXfod) | [Devon Gabriella](https://open.spotify.com/artist/1rfIKfqoygAsxTWBdzVO2i) | [older](https://open.spotify.com/album/3mBgNei9rEYjsumRgfANDE) | 2:37 | 2023-05-19 |  |
 | [On The Drive Home](https://open.spotify.com/track/5HXQI1AJwzmnxLVm7BW1kV) | [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [Nicole](https://open.spotify.com/album/7gK4I6eM9fYJCfq4IeHx1t) | 4:16 | 2022-08-12 | 2022-12-24 |
 | [open arms](https://open.spotify.com/track/75AMnCxY4ahOMeIn9LDvSE) | [November Ultra](https://open.spotify.com/artist/0naOCLau0NmL1kdFlbZAfr) | [bedroom walls](https://open.spotify.com/album/4HeMF37gL9maj7PD2lZ1q8) | 6:10 | 2022-04-08 | 2022-04-29 |
 | [Ordinary Love](https://open.spotify.com/track/0cFQYjYEgpoY0iP0vnOOoI) | [Nick Wilson](https://open.spotify.com/artist/09Z3wZ88af1pfyJxziESQF) | [Ordinary Love](https://open.spotify.com/album/56fSzLOj5xwc4nNLGUl51S) | 3:15 | 2022-08-19 | 2022-10-19 |
@@ -332,7 +334,7 @@
 | [realistic](https://open.spotify.com/track/4jSQEWDlHLrYEs8iDPb7qc) | [corook](https://open.spotify.com/artist/1rNVlQNJSIESCd5mixdqMt) | [realistic](https://open.spotify.com/album/6AT3vx5geFUXbuo89ZJcfW) | 3:33 | 2022-11-25 | 2023-01-28 |
 | [reckless driving \(feat\. Ben Kessler\)](https://open.spotify.com/track/3rX7jCeMKpyHH6bFohXcWd) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS), [Ben Kessler](https://open.spotify.com/artist/6Lx82nbEVfeTfEa4yT01Jo) | [reckless driving \(feat\. Ben Kessler\)](https://open.spotify.com/album/3L9UO9abdjQko3suZnjDdr) | 3:09 | 2022-02-25 | 2022-04-09 |
 | [Remember me Happy](https://open.spotify.com/track/6LmgJRJKksk4FlSWBBLWpw) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [Remember me Happy](https://open.spotify.com/album/1mtobYhOLhqQzk9V5zSxKj) | 2:21 | 2022-01-14 | 2022-09-03 |
-| [remind me](https://open.spotify.com/track/1pEqRNNm1wqEOVKpXe5Am8) | [Devon Gabriella](https://open.spotify.com/artist/1rfIKfqoygAsxTWBdzVO2i) | [remind me](https://open.spotify.com/album/0SPF8x1JgBFsfxO64ARLKC) | 2:17 | 2023-04-07 |  |
+| [remind me](https://open.spotify.com/track/1pEqRNNm1wqEOVKpXe5Am8) | [Devon Gabriella](https://open.spotify.com/artist/1rfIKfqoygAsxTWBdzVO2i) | [remind me](https://open.spotify.com/album/0SPF8x1JgBFsfxO64ARLKC) | 2:17 | 2023-04-07 | 2023-05-20 |
 | [rest in peace](https://open.spotify.com/track/20ACQf24bEwSVnKAhVfH5u) | [BLÜ EYES](https://open.spotify.com/artist/2gI1WfmpFmmgSRojy4Jup2) | [rest in peace](https://open.spotify.com/album/0sE1YP1nRz29DgpaogCRsE) | 3:11 | 2022-05-20 | 2022-10-08 |
 | [Ride Or Die](https://open.spotify.com/track/1ly4juuAEfCQbkfioOL8v0) | [Sabrina Sterling](https://open.spotify.com/artist/2TX3RFFIqwzwDjFMJN4nV9), [Griffin Lancaster](https://open.spotify.com/artist/2EsnUC4uKX3AV7CGyBClmy) | [Ride Or Die](https://open.spotify.com/album/1ZhAKhbixWHAHiZDrNLyI7) | 3:19 | 2022-01-14 | 2022-08-20 |
 | [Right Person Right Time](https://open.spotify.com/track/5OkOmrLsbr8Lg5wj89LOUb) | [Rachel Grae](https://open.spotify.com/artist/0ekCwZGQUkAISV1h48jlHn) | [Right Person Right Time](https://open.spotify.com/album/2VFni6wfmAnqDS7OWnBUt6) | 2:58 | 2022-09-16 | 2022-12-24 |

@@ -4,7 +4,7 @@
 
 > The best new songs from modern singer\-songwriters\. Cover: Jess Williamson
 
-386 songs - 22 hr 0 min
+388 songs - 22 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -81,6 +81,7 @@
 | [Cutting Corners](https://open.spotify.com/track/6AN3OGCZP8a7935tvYrgDD) | [Sydney Rose](https://open.spotify.com/artist/5vx4pDmiFDyKMhuOIgpiRv) | [You Never Met Me](https://open.spotify.com/album/4rVsCVbWLQWEUXsOfPRzEg) | 3:22 | 2022-07-08 | 2022-09-16 |
 | [Dark Bird](https://open.spotify.com/track/1ig7fpdy2W1rl6SkIOMDjN) | [Jake Wesley Rogers](https://open.spotify.com/artist/5lEF4Tt1uK7Kuk80ILMlE9) | [Dark Bird](https://open.spotify.com/album/58fbHjXoQNXeNQ4VfWXU41) | 3:37 | 2022-03-11 | 2023-01-06 |
 | [Dead on the Beach](https://open.spotify.com/track/6kKhq1EKxciDeNhjST21B8) | [Aly & AJ](https://open.spotify.com/artist/5wugb0kaq0J6nyQ5Xgd17i) | [Dead on the Beach](https://open.spotify.com/album/66ncWabX0CdChC6i9Ca84T) | 3:02 | 2022-01-21 | 2022-02-05 |
+| [Denim](https://open.spotify.com/track/0NtwNkRKhDAeo5qqx1Z3gY) | [Gatton](https://open.spotify.com/artist/09wV1iFg4DBtreMGzepTaE) | [Denim](https://open.spotify.com/album/5nUQ0QEGyACWKmsHGgWAex) | 3:52 | 2023-05-19 |  |
 | [Different Kinds of Light](https://open.spotify.com/track/53qIXnw0apr7SVNbfdiGqR) | [Jade Bird](https://open.spotify.com/artist/7D8LuVnlyu91ndcPe70j7S) | [Different Kinds of Light](https://open.spotify.com/album/3GuKxYi7tirtH3BZvTGddh) | 3:05 | 2021-11-19 | 2022-02-05 |
 | [DIM](https://open.spotify.com/track/6wTliafSJi7OgSmVugTYwS) | [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0) | [DIM](https://open.spotify.com/album/1OgtOEJaZLO4zm7mq9MnvK) | 4:31 | 2021-11-19 | 2022-07-14 |
 | [do all my friends hate me?](https://open.spotify.com/track/2VgE8fT65dU0FgyA4z5nqN) | [Mckenna Grace](https://open.spotify.com/artist/1ZjXhESKpjsv31L7ykuJBE) | [do all my friends hate me?](https://open.spotify.com/album/4Y7rAETgLemPCqrOrlgoRa) | 3:24 | 2022-02-11 | 2022-06-17 |
@@ -141,6 +142,7 @@
 | [Go Easy, Kid](https://open.spotify.com/track/50hN4KDpQILZpTejaifHZK) | [Monica Martin](https://open.spotify.com/artist/2Oq3sgFa2HSvRY0vL6bDxN) | [Go Easy, Kid](https://open.spotify.com/album/48vdHGDFdYZfoLbtaMuHeh) | 4:08 | 2022-08-12 |  |
 | [Go Easy, Kid](https://open.spotify.com/track/7AeffRBhIZel7deJBbra5D) | [Monica Martin](https://open.spotify.com/artist/2Oq3sgFa2HSvRY0vL6bDxN) | [Go Easy, Kid](https://open.spotify.com/album/59e93fZMly2pvsqUQc1y1H) | 4:08 | 2021-11-19 | 2022-10-13 |
 | [God Must Hate Me](https://open.spotify.com/track/21xzFXSL2XkZ2mIzDDAqTK) | [Catie Turner](https://open.spotify.com/artist/3nYYI90ObxhjLjdxaoXGSa) | [God Must Hate Me](https://open.spotify.com/album/11PVMiF3q2pguN5ym4NvMm) | 2:29 | 2021-11-26 | 2022-06-09 |
+| [Golden State](https://open.spotify.com/track/45xzjdv3RJdGtSBbDyKg0t) | [Logan Ledger](https://open.spotify.com/artist/4KcXOZaofRdvBDl0b8LOYM) | [Golden State](https://open.spotify.com/album/4rUeKNbWM0XQwbkojQSMFI) | 4:24 | 2023-05-19 |  |
 | [Good Company](https://open.spotify.com/track/5NqL38XhwxqF5TeNY9yr2z) | [Nick Wilson](https://open.spotify.com/artist/09Z3wZ88af1pfyJxziESQF) | [Good Company](https://open.spotify.com/album/4MczP0Zn15iUoSjXsmxYrK) | 3:14 | 2022-02-11 | 2022-07-29 |
 | [Good Person](https://open.spotify.com/track/4CtqJnvxzV1638eK7xts3V) | [Ingrid Andress](https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii) | [Good Person](https://open.spotify.com/album/16kKg96WaISnzGBdRU0k8d) | 2:54 | 2022-04-22 | 2023-05-15 |
 | [Good Place](https://open.spotify.com/track/5ljNGwMSRhtfl2fgiWkSzm) | [Kathleen Regan](https://open.spotify.com/artist/0zkerR9DfzmD564AOCnjZf) | [Good Place](https://open.spotify.com/album/3JD02sIq9654hYvOG0yASa) | 2:42 | 2022-03-25 | 2022-07-06 |
@@ -318,7 +320,7 @@
 | [String Lights](https://open.spotify.com/track/6b1eBxLC6cD3qvqZXrirgq) | [Peter McPoland](https://open.spotify.com/artist/23E65IfLBGQv0FBrMwCcG2) | [String Lights](https://open.spotify.com/album/507ZVYcgV9C5pwXQlfZJo7) | 3:50 | 2022-01-21 | 2022-07-09 |
 | [Struck By Lightning \(feat\. Cavetown\)](https://open.spotify.com/track/0CrPeAu34XUs6Kkc7ND6mH) | [Sara Kays](https://open.spotify.com/artist/7Lk9V7E1u5gqSHmtcKlOqH), [Cavetown](https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8) | [Struck By Lightning](https://open.spotify.com/album/3SIdK8k610Oigb8nRWoe9P) | 2:34 | 2021-11-19 | 2022-02-22 |
 | [sunday \- Spotify Singles](https://open.spotify.com/track/1VxyhRGiDHmbeyGHrURHIG) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [Spotify Singles](https://open.spotify.com/album/4P4Melmltlh69qk94BPZDY) | 3:23 | 2021-11-19 | 2022-05-14 |
-| [Sunflower](https://open.spotify.com/track/32uXuJF75lxy2gRY85aO9h) | [Tamino](https://open.spotify.com/artist/3IWdvItNhmdo282Wwp0CwH), [Angèle](https://open.spotify.com/artist/3QVolfxko2UyCOtexhVTli) | [Sahar](https://open.spotify.com/album/6SkLEvDvr8cHuuKWTQSgj9) | 4:23 | 2022-09-23 |  |
+| [Sunflower](https://open.spotify.com/track/32uXuJF75lxy2gRY85aO9h) | [Tamino](https://open.spotify.com/artist/3IWdvItNhmdo282Wwp0CwH), [Angèle](https://open.spotify.com/artist/3QVolfxko2UyCOtexhVTli) | [Sahar](https://open.spotify.com/album/6SkLEvDvr8cHuuKWTQSgj9) | 4:23 | 2022-09-23 | 2023-05-20 |
 | [Surrender](https://open.spotify.com/track/65cQkOFngSgj37Gnzp4ry4) | [Birdy](https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP) | [Surrender](https://open.spotify.com/album/5FWqyyldyosXvAYesblpb5) | 3:54 | 2021-11-19 | 2022-06-09 |
 | [Swan Upon Leda](https://open.spotify.com/track/3JtVtwLYCy9WXcHLQyzRnl) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Swan Upon Leda](https://open.spotify.com/album/5aO7IZl8KxtyCeke37Jvk4) | 3:42 | 2022-10-07 |  |
 | [Sword from the Stone](https://open.spotify.com/track/1Fc2Gqn9bTuoeSHfhl1net) | [Passenger](https://open.spotify.com/artist/0gadJ2b9A4SKsB1RFkBb66) | [Songs for the Drunk and Broken Hearted](https://open.spotify.com/album/6OGJr5I1SVTn9cla4JPiO1) | 3:21 | 2022-07-15 |  |
@@ -374,7 +376,7 @@
 | [What Was Mine](https://open.spotify.com/track/1zHmxDTalWGHuQfhabEYhM) | [Sarah Kinsley](https://open.spotify.com/artist/34A8vV1MCxGpA14KspqQuC) | [What Was Mine](https://open.spotify.com/album/1ResES2PhMkD79iA0yAhB0) | 3:14 | 2022-05-20 | 2022-07-01 |
 | [when was it over? \(feat\. Sam Hunt\)](https://open.spotify.com/track/779UN3kabApm2zfqX549vf) | [Sasha Alex Sloan](https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5), [Sam Hunt](https://open.spotify.com/artist/2kucQ9jQwuD8jWdtR9Ef38) | [when was it over? \(feat\. Sam Hunt\)](https://open.spotify.com/album/3AgZTDS1wwPkLMs2HAcWjG) | 3:38 | 2021-11-19 | 2022-07-16 |
 | [When You Look At Me](https://open.spotify.com/track/0KGeOj6DJXfCMGkLYiz4fB) | [Sara Kays](https://open.spotify.com/artist/7Lk9V7E1u5gqSHmtcKlOqH) | [When You Look At Me](https://open.spotify.com/album/1UMiyaleD0o4UQnWTrNDMk) | 2:50 | 2022-02-21 | 2022-07-05 |
-| [When You Need It \(feat\. Wrabel\)](https://open.spotify.com/track/6be7birJOF85i9dL0wUrBg) | [Tenille Townes](https://open.spotify.com/artist/3TyeX0lk4B7k56ukfzEE0z), [Wrabel](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII) | [Masquerades](https://open.spotify.com/album/74IIdAb1cuNaUN3wWUm4eJ) | 3:08 | 2022-04-22 |  |
+| [When You Need It \(feat\. Wrabel\)](https://open.spotify.com/track/6be7birJOF85i9dL0wUrBg) | [Tenille Townes](https://open.spotify.com/artist/3TyeX0lk4B7k56ukfzEE0z), [Wrabel](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII) | [Masquerades](https://open.spotify.com/album/74IIdAb1cuNaUN3wWUm4eJ) | 3:08 | 2022-04-22 | 2023-05-20 |
 | [Wholeheartedly](https://open.spotify.com/track/57Gcs9Mo5wvO8gvp3fsle5) | [Andreas Moe](https://open.spotify.com/artist/5kW2ng5av985BfqrOMRpk0) | [All Our Worries Are Poems \- Pt\. 1](https://open.spotify.com/album/0kuDcko7yASKGCak5F9uPs) | 3:11 | 2021-11-19 | 2022-05-11 |
 | [Why It Hurts](https://open.spotify.com/track/79tW2TBIRnQBRdiGkC6xM0) | [Jon McLaughlin](https://open.spotify.com/artist/6z29S0IoiBJpSMP8plyCj7) | [Why It Hurts](https://open.spotify.com/album/1yxv6R35y0kE6QUqXS9lSS) | 3:20 | 2021-11-19 | 2022-07-29 |
 | [Wildfire](https://open.spotify.com/track/69xOrL71OeGz5fqXFTnJ5L) | [Cautious Clay](https://open.spotify.com/artist/6iWuBN32BqCJAeXW6o3nil) | [Wildfire](https://open.spotify.com/album/1oYKM818Z1hEdfking1DEP) | 2:31 | 2021-11-19 |  |

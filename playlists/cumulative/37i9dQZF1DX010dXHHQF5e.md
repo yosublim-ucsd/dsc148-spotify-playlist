@@ -4,7 +4,7 @@
 
 > Deja que estas sutiles piezas de jazz te arrullen hasta el sueño.
 
-225 songs - 12 hr 14 min
+228 songs - 12 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,7 +17,7 @@
 | [After You've Gone](https://open.spotify.com/track/7L6SNhwfH1udIMpVztf9W6) | [Jean Fines](https://open.spotify.com/artist/4ihEX5weyJhILB9sbuT5K7) | [After You've Gone](https://open.spotify.com/album/4ikGPo4qyBDG5f9uAPgO4N) | 3:00 | 2023-03-23 | 2023-05-17 |
 | [Afterhours](https://open.spotify.com/track/3qBjnDMDQrSKXKkBHok6oo) | [Robert Elovsson](https://open.spotify.com/artist/1qbdguQmvfReqeUnLezmAx) | [All Alone](https://open.spotify.com/album/3mDYL1r2ixKn7U5r0EA2JJ) | 2:58 | 2023-03-23 |  |
 | [Almost Like Being In Love](https://open.spotify.com/track/60jR3qwZHx1dJGppF3i7Jo) | [William Adams](https://open.spotify.com/artist/777n5UE3XVeaTgguSTisX9) | [Almost Like Being In Love](https://open.spotify.com/album/3YIiPDNnkO0T65LtjWN4wB) | 3:36 | 2023-03-23 |  |
-| [Am I the Only One](https://open.spotify.com/track/3pQ9yM5g3ad2tXEsiT5X0u) | [Urskogen Jazz](https://open.spotify.com/artist/7gaN9W8fBI9obJ9tMK1x0A) | [Am I the Only One?](https://open.spotify.com/album/7KMKbpIle3r1zVJJ1lliO9) | 2:41 | 2023-04-20 |  |
+| [Am I the Only One](https://open.spotify.com/track/3pQ9yM5g3ad2tXEsiT5X0u) | [Urskogen Jazz](https://open.spotify.com/artist/7gaN9W8fBI9obJ9tMK1x0A) | [Am I the Only One?](https://open.spotify.com/album/7KMKbpIle3r1zVJJ1lliO9) | 2:41 | 2023-04-20 | 2023-05-20 |
 | [Around Me](https://open.spotify.com/track/3GCaoFaGqlbsSXFCFrHozb) | [Frank Keme](https://open.spotify.com/artist/05C8tAFDHOzinIBu7qExmR) | [Around Me](https://open.spotify.com/album/6878HE0QBMwKRpceYf0U5z) | 2:42 | 2023-04-20 |  |
 | [As Time Goes By](https://open.spotify.com/track/2PV4cIEWAZvSiTC37U2m55) | [Miles Henley](https://open.spotify.com/artist/1eBBS6WRUF3I0JGkLMHtNt) | [As Time Goes By](https://open.spotify.com/album/4mMYcEDC4fK4HaMZZZsKPA) | 3:52 | 2023-03-23 |  |
 | [Astral](https://open.spotify.com/track/3whBmm64jwAGt4fv17qVvX) | [Elsa Gifford](https://open.spotify.com/artist/2WkJQ6rsCVeyNuVidqTaoW) | [Astral](https://open.spotify.com/album/6UETlcLAo8G9vKza6h2FEv) | 2:59 | 2023-03-23 |  |
@@ -46,6 +46,7 @@
 | [Come Rain Or Come Shine](https://open.spotify.com/track/2KaiRciXTCoGWvDUG6UyXy) | [Maurice Miro](https://open.spotify.com/artist/3xjYq5W31V01cF7BSvVrYb) | [Come Rain Or Come Shine](https://open.spotify.com/album/4BXX5ct1sM5Uk2J1SeY0TH) | 3:40 | 2023-03-23 |  |
 | [Conversation](https://open.spotify.com/track/3unem1h9c7rRbYvJ9wzJHY) | [Benjamine Hans](https://open.spotify.com/artist/7gEDhVsbRiapQyIVdBeoCr) | [Conversation](https://open.spotify.com/album/15dZOVU2WT5WKHXo2qdACs) | 2:45 | 2023-03-23 |  |
 | [Darn That Dream](https://open.spotify.com/track/7wyqQSiefHCrYQ3xqAqfwJ) | [Ray Royston](https://open.spotify.com/artist/4Z8ZqLJlYjb7gGt3eFWfFG) | [Darn That Dream](https://open.spotify.com/album/1Hs8Ia3HjN1JzaXNEwJ6Y3) | 3:52 | 2023-03-23 |  |
+| [Day By Day](https://open.spotify.com/track/21rmrbV8sWD6G0DBErDASD) | [Cedar Wright](https://open.spotify.com/artist/40men95XZW3jNTv2l0aXFj) | [Day By Day](https://open.spotify.com/album/2TLjiBB9ln1kQpKIzGapDN) | 3:11 | 2023-05-11 |  |
 | [Days of Wine and Roses](https://open.spotify.com/track/2QRUDqfSSNCY6MpTUxP7We) | [Esther Davis](https://open.spotify.com/artist/42VoGaT6ypUMD1ZzOVu6hz) | [Days of Wine and Roses](https://open.spotify.com/album/0ymqZlyx7gyoeyV0RiG2uL) | 2:24 | 2023-03-23 |  |
 | [Dear Old Stockholm](https://open.spotify.com/track/33aKJ1s1QC94WW868ygr3p) | [Matt Lingus](https://open.spotify.com/artist/0mnRAVVSkBG8afaNTkh3r5) | [Dear Old Stockholm](https://open.spotify.com/album/0OsqjFlBduMGeyZuh34U8b) | 2:40 | 2023-03-23 |  |
 | [Didn't We](https://open.spotify.com/track/2mDRMm2mnegdONfu6RviPx) | [Einar Magnusson](https://open.spotify.com/artist/2sXtKNi7nnKt8XkKX4Agag) | [Didn't We](https://open.spotify.com/album/4k109TZny7qG5NFHe29c3c) | 2:49 | 2023-03-23 |  |
@@ -113,7 +114,7 @@
 | [It Might As Well Be Spring](https://open.spotify.com/track/4FUkmFYogSz8ScvhdJG0xL) | [Simone Bergenson](https://open.spotify.com/artist/2Te2jrf7Kk0rShhNq3Dcyz) | [It Might As Well Be Spring](https://open.spotify.com/album/1ReSvJJz053zU2Gs93LvmY) | 4:24 | 2023-03-23 | 2023-04-30 |
 | [It Never Entered My Mind](https://open.spotify.com/track/0t4r5IuT6FzrNGEEpCJmf9) | [William Adams](https://open.spotify.com/artist/777n5UE3XVeaTgguSTisX9) | [It Never Entered My Mind](https://open.spotify.com/album/1wyMm8UqtOocJahYqDXThd) | 4:46 | 2023-03-23 |  |
 | [Juniper Leaves](https://open.spotify.com/track/5prNNKn1SNLrJsL5Ic4vew) | [Carl Clementine](https://open.spotify.com/artist/4EES4U6kaJgZyrbnF21VCg) | [A Future With You](https://open.spotify.com/album/3NWgJbG6uuLJ95veEskx06) | 4:13 | 2023-03-23 |  |
-| [Just A Piece of My Heart](https://open.spotify.com/track/0fNFJKmcfEOKbuQgqB3c2d) | [Carl Clementine](https://open.spotify.com/artist/4EES4U6kaJgZyrbnF21VCg) | [Lola and Kirby](https://open.spotify.com/album/2D8ZM8bjkyNukFOO7od8Li) | 4:07 | 2023-03-23 |  |
+| [Just A Piece of My Heart](https://open.spotify.com/track/0fNFJKmcfEOKbuQgqB3c2d) | [Carl Clementine](https://open.spotify.com/artist/4EES4U6kaJgZyrbnF21VCg) | [Lola and Kirby](https://open.spotify.com/album/2D8ZM8bjkyNukFOO7od8Li) | 4:07 | 2023-03-23 | 2023-05-20 |
 | [Lament](https://open.spotify.com/track/7psqOiW2f8t6rJO8DNyeCm) | [Bill Walton](https://open.spotify.com/artist/7fHixSSo2DvBypEXNKjgBl) | [Lament](https://open.spotify.com/album/6aerbGECcBi4QOcILX5koS) | 4:27 | 2023-03-23 | 2023-04-26 |
 | [Last Summer](https://open.spotify.com/track/3ERr9IOEMrkEOLtyGWh4vX) | [Benjamine Hans](https://open.spotify.com/artist/7gEDhVsbRiapQyIVdBeoCr) | [Last Summer](https://open.spotify.com/album/0AnWKmlzLJbpm6K4FyMNT2) | 2:27 | 2023-03-23 |  |
 | [Leave The Bottle](https://open.spotify.com/track/4wzA7y3rVCFI5N65LIm1ie) | [Zachary Ronin](https://open.spotify.com/artist/47ZLS2xH70Buh5bgghBDLx) | [Leave The Bottle](https://open.spotify.com/album/4Wn4TtWxzxIVlhteYhGqrl) | 3:38 | 2023-03-23 |  |
@@ -129,10 +130,12 @@
 | [Lovely Day](https://open.spotify.com/track/7iZkVyfWkb1AzUwlNUyp3u) | [Jules Pierre Gardot](https://open.spotify.com/artist/0fHTm5jbK6RV7bii71wf5G) | [Lovely Day](https://open.spotify.com/album/2AXd3f8LGtKWHQGcvIeoQK) | 3:25 | 2023-03-23 |  |
 | [Lovers](https://open.spotify.com/track/6flWLUPwiaN9FkPm6CVzZz) | [Isac Solo](https://open.spotify.com/artist/56POV7bQLxbrsbCQ7xIJuq) | [Lovers](https://open.spotify.com/album/0ohI92MObxRxyDbafFA0oS) | 2:27 | 2023-03-23 |  |
 | [Lullaby for Lilly](https://open.spotify.com/track/2hAqVQHxZrDbDYvX0rR1zZ) | [William Claeson](https://open.spotify.com/artist/0QDLHVdGZpRfw01CpFIoUZ) | [Lullaby for Lilly](https://open.spotify.com/album/11AeTqQfSfhLMqjlar2RaC) | 3:15 | 2023-03-23 | 2023-05-18 |
+| [Marianne](https://open.spotify.com/track/3aH1PozU6rrvTLGlCISgAH) | [Lou Green](https://open.spotify.com/artist/4a84x85rjeFUdmy5eOZ3mW) | [Marianne](https://open.spotify.com/album/0X43eSNXIfJFDw6FpKWU2N) | 2:09 | 2023-05-11 |  |
 | [Melancholia](https://open.spotify.com/track/6lMI9WKqbIwxnumenEI0Iz) | [Ward Stetson](https://open.spotify.com/artist/4cgzkhsBdCNVDzBrx7is7S) | [Melancholia](https://open.spotify.com/album/4qJEPS5KuL1a7ynbgifQXV) | 3:26 | 2023-03-23 |  |
 | [Misty](https://open.spotify.com/track/0fGNaE47Hx1SO8kEKtkGxb) | [Stan Van Outen](https://open.spotify.com/artist/6zL36bTxO4Kjtdqo04RmPu) | [Misty](https://open.spotify.com/album/3zOiXs8f5OfRasBgZ7VNcJ) | 2:13 | 2023-03-23 | 2023-04-28 |
 | [Moon River](https://open.spotify.com/track/3qBUFn6AgcHTI3tkg99lDD) | [Grace Carey](https://open.spotify.com/artist/6r8iQcLJAEKpFGN0FSusEd) | [Moon River](https://open.spotify.com/album/0wFFjyx3YaqOLMZnBt3CQx) | 3:31 | 2023-03-23 |  |
 | [Moonlight Serenade](https://open.spotify.com/track/6T8oRVoOGPjWq6p3HLcG45) | [Nineve Wilson](https://open.spotify.com/artist/4ab8hugVrmFzuV4AEGXHgr) | [Moonlight Serenade](https://open.spotify.com/album/4BGiEAiquVCGRpdKVTp9NG) | 3:30 | 2023-03-23 |  |
+| [Moonlit Melodies](https://open.spotify.com/track/2UceJwwq4nKC1xJRqfHrRD) | [Hunter Paige](https://open.spotify.com/artist/4JNwhTb4YN98anDrWn2kIZ) | [Moonlit Melodies](https://open.spotify.com/album/4oyDxC2aBhxE79tbJkBUFe) | 1:56 | 2023-05-11 |  |
 | [My Buddy](https://open.spotify.com/track/7ghPHs5mGyk84qHcCaTPvR) | [Irvin Smith](https://open.spotify.com/artist/72epe9asXn1RtuXkKrtBcE) | [My Buddy](https://open.spotify.com/album/0qsrKAuW7nZBUAC0lJkKxm) | 3:08 | 2023-03-23 |  |
 | [My Favorite Things](https://open.spotify.com/track/29Z43s5cYYulFEkGJYMLkb) | [Thierry Marchal](https://open.spotify.com/artist/5AENpX9I8MY8ptOAihBszp) | [My Favorite Things](https://open.spotify.com/album/678aa3LRKcsZilzocaADh1) | 2:53 | 2023-03-23 |  |
 | [My Foolish Heart](https://open.spotify.com/track/5abQoyD2C7Uh7jL8lzZ26X) | [Maurice Miro](https://open.spotify.com/artist/3xjYq5W31V01cF7BSvVrYb) | [My Foolish Heart](https://open.spotify.com/album/5lXdRcDwhDBavsabE7E437) | 4:40 | 2023-03-23 |  |
@@ -141,7 +144,7 @@
 | [My Ideal](https://open.spotify.com/track/587Od7PBk6Zh3voXvj91vG) | [Ray Royston](https://open.spotify.com/artist/4Z8ZqLJlYjb7gGt3eFWfFG) | [My Ideal](https://open.spotify.com/album/0qnqcSIA0b9d9pf9Tpoc8V) | 3:30 | 2023-03-23 |  |
 | [My Old Town](https://open.spotify.com/track/4bgcSZ5LgC8O6KBHyybI6T) | [Lee Bendroth](https://open.spotify.com/artist/1asg7ElYSc6LhJ7b9fMaFF) | [My Old Town](https://open.spotify.com/album/5Fen3A5kz69GvxgEl016un) | 3:33 | 2023-03-23 |  |
 | [My One And Only Love](https://open.spotify.com/track/7qpM6ZfKiHVCEmqo4pPnKR) | [Jacob Baron](https://open.spotify.com/artist/1b247H1F1igDlEYanjyJD2) | [My One And Only Love](https://open.spotify.com/album/0cSg1M044LOkrxLCAgPZmT) | 3:45 | 2023-03-23 |  |
-| [My Romance](https://open.spotify.com/track/6xlT01JRhfE3ihLXZ8UkXZ) | [Grace Carey](https://open.spotify.com/artist/6r8iQcLJAEKpFGN0FSusEd) | [My Romance](https://open.spotify.com/album/6DythIGgVrUIV8e7RUcubL) | 3:50 | 2023-03-23 |  |
+| [My Romance](https://open.spotify.com/track/6xlT01JRhfE3ihLXZ8UkXZ) | [Grace Carey](https://open.spotify.com/artist/6r8iQcLJAEKpFGN0FSusEd) | [My Romance](https://open.spotify.com/album/6DythIGgVrUIV8e7RUcubL) | 3:50 | 2023-03-23 | 2023-05-20 |
 | [My Roses](https://open.spotify.com/track/3vje2r6o6xnUnPTsoAwxju) | [Hamilton Reed](https://open.spotify.com/artist/48VtkBYuWbEZxRWaXLJlkb) | [My Roses](https://open.spotify.com/album/4PCyvS0REXT2qxvOnOBA6v) | 2:11 | 2023-03-23 |  |
 | [Naima](https://open.spotify.com/track/4OxC4yBBsZ3BNmS9oFAzBx) | [Louie Martin](https://open.spotify.com/artist/6V322191Co4lw7MgeQdcHu) | [Naima](https://open.spotify.com/album/6Zoa4RTHHwt7FY6fxHLja2) | 3:40 | 2023-03-23 |  |
 | [Nancy With The Laughing Face](https://open.spotify.com/track/18ZzGa3RrhJVzQ9BfGsDNl) | [Madeleine West](https://open.spotify.com/artist/2bucqt2BrsK6W5p1H4Edu4) | [Nancy With The Laughing Face](https://open.spotify.com/album/4HFxsQ2FHwHR0icmcYdzEq) | 4:21 | 2023-03-23 |  |

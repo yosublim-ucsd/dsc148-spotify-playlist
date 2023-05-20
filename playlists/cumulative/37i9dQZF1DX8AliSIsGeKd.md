@@ -4,7 +4,7 @@
 
 > The best new electronic music from Electronica to Techno\. Cover: Charlotte de Witte
 
-1,854 songs - 7 day 0 hr 37 min
+1,855 songs - 7 day 0 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -536,7 +536,7 @@
 | [Euphoria](https://open.spotify.com/track/2xBx0Dmt4KS6MCMEgdF9vN) | [Jono Stephenson](https://open.spotify.com/artist/21MbQv1rCoPiOUq7f3cdHL) | [Voyagers Guide](https://open.spotify.com/album/5D3ooDURO5abHXdWxf3EcL) | 5:57 | 2023-01-12 | 2023-02-03 |
 | [Euphoria](https://open.spotify.com/track/4HM6sm5QAAUYzAyB1SEzDE) | [Pretty Pink](https://open.spotify.com/artist/78GHS9zWXcj8tBke222g5N) | [Born Digital](https://open.spotify.com/album/5rGYIvW4LFeBonvZQBxPvi) | 3:21 | 2023-02-10 | 2023-03-03 |
 | [Euphoria \(Solomun Remix\) \- Edit](https://open.spotify.com/track/3Tg1V96P2r1yey8rHZHxdO) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI), [Solomun](https://open.spotify.com/artist/5wJK4kQAkVGjqM9x46KQOC) | [Euphoria \(Solomun Remix\)](https://open.spotify.com/album/6RUXRsAvvd3w6uRLjieWiC) | 2:53 | 2023-05-19 |  |
-| [Eurostar](https://open.spotify.com/track/5Xpt6jglwDsoZCOMMYvu4M) | [Rhode & Brown, Kid Simius](https://open.spotify.com/artist/480p1ctL0QIa6hdrFuGtgi) | [Eurostar](https://open.spotify.com/album/7zNqJ80J009uPsmaKw2ge0) | 6:12 | 2023-05-11 |  |
+| [Eurostar](https://open.spotify.com/track/5Xpt6jglwDsoZCOMMYvu4M) | [Rhode & Brown](https://open.spotify.com/artist/3tA0d4G3jC6CXf6MXEZE5T), [Kid Simius](https://open.spotify.com/artist/36y7VzGBD47ymYb40a7JkE) | [Eurostar](https://open.spotify.com/album/7zNqJ80J009uPsmaKw2ge0) | 6:12 | 2023-05-11 |  |
 | [Eve](https://open.spotify.com/track/5SVPOW9HMbXr2P33jIuiuT) | [Effemar](https://open.spotify.com/artist/3QD8Op2asIft2YDqX154NB) | [Eve](https://open.spotify.com/album/3dIhCkdoJEmDEjOON0ScEl) | 4:00 | 2022-11-11 | 2022-11-25 |
 | [Evergreen](https://open.spotify.com/track/5uDNFpDhvw65Jwc7F4UJJg) | [Duke Boara](https://open.spotify.com/artist/6EL8x2zkCRGzb32jvrSI56) | [11am](https://open.spotify.com/album/6O7SMt9EaEj5ReO3qmvpU7) | 4:13 | 2022-10-06 | 2022-10-28 |
 | [Everyday \- Edit](https://open.spotify.com/track/27NuLW6DhJkpfR8dhBmNwS) | [WhoMadeWho](https://open.spotify.com/artist/50Lr1puweM1hFsF1LpIZLM), [Rampa](https://open.spotify.com/artist/08jywfUS0hp8XYlYs0cvz8) | [Everyday](https://open.spotify.com/album/5Es3FdQxA4wM7eMQa1vfYs) | 3:40 | 2022-08-25 | 2022-09-09 |
@@ -1749,6 +1749,7 @@
 | [Ve](https://open.spotify.com/track/5HngP2bVbIcEC4tHVkCgNc) | [pølaroit](https://open.spotify.com/artist/3B1BQHf6ExWixwqy9zRDZm) | [Ve](https://open.spotify.com/album/1yEmW3JlHzrmKNoheAyYNA) | 5:04 | 2022-08-18 | 2022-09-09 |
 | [Ven](https://open.spotify.com/track/5vRmURhDkkMBAkRSovYfHE) | [Julian Wassermann](https://open.spotify.com/artist/6QXqARXg4hZ3oAUitm2gU0), [Florian Kruse](https://open.spotify.com/artist/7GhGgxIAhzJxZXvF1bEYZ8) | [Ven EP](https://open.spotify.com/album/4VmAZ9RFhvdvIuC8IxksYi) | 5:19 | 2022-06-17 | 2022-07-08 |
 | [Vendetta](https://open.spotify.com/track/1TEqSkPkufFYmHYjzPzI7t) | [Mario Ochoa](https://open.spotify.com/artist/2zviRwkdWgt0rjV3cxM7mg) | [Vendetta](https://open.spotify.com/album/1lvlldnRtrr5askcK4hz2U) | 5:53 | 2023-05-04 | 2023-05-19 |
+| [Venera](https://open.spotify.com/track/6U9rAS28uOHyf5NZCYyt0J) | [George FitzGerald](https://open.spotify.com/artist/3KOHpygRuo1ruQAbEneR3t) | [Venera](https://open.spotify.com/album/73tJXZqhpawO8j29HGtqA9) | 3:47 | 2023-05-19 |  |
 | [VENTURE X](https://open.spotify.com/track/0mQtwNheJ0cYQa0gtHUNjf) | [Paul van Dyk](https://open.spotify.com/artist/7wU1naftD3lNq7rNsiDvOR), [Weekend Heroes](https://open.spotify.com/artist/0f38k6IM0q7Je0QihLXpD8), [Christian Schottstaedt](https://open.spotify.com/artist/0oGP4H2formfW2tlpVLR5s) | [VENTURE X](https://open.spotify.com/album/0AkfYq4M6Gvq1Bn6h8ZxBN) | 3:46 | 2023-01-27 | 2023-02-17 |
 | [Venus](https://open.spotify.com/track/2DklY5N1wZiYpLre3MrSFx) | [Jay Lumen](https://open.spotify.com/artist/6rxmj7vNEofe96g84qMWoV) | [Venus](https://open.spotify.com/album/3PgY7nfeE0Bn9Z3yeM0fca) | 7:02 | 2023-01-05 | 2023-01-27 |
 | [Venus](https://open.spotify.com/track/7L567iPcbnYYpmfduZsj8n) | [Oliver Koletzki](https://open.spotify.com/artist/1WjBIvYAnZTkTh5UiZNwlR), [Niko Schwind](https://open.spotify.com/artist/4jPpDbD1ERO3zjBon97ECM) | [Celestial Bodies](https://open.spotify.com/album/2kySDejbrQxj5HGuhXUXyT) | 6:23 | 2023-02-17 | 2023-03-03 |

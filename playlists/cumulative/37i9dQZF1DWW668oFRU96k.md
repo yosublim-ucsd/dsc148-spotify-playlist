@@ -4,7 +4,7 @@
 
 > A selection of new, quality electro sounds from your favorite EDM acts! Cover: Tiësto x Mathame
 
-309 songs - 15 hr 28 min
+310 songs - 15 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -254,7 +254,8 @@
 | [Sometimes… \(with Daya & Earthgang\)](https://open.spotify.com/track/09MduMD14OZjmAxd6u1Qfi) | [Snakehips](https://open.spotify.com/artist/2FwJwEswyIUAljqgjNSHgP), [Daya](https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH), [EARTHGANG](https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V) | [never worry](https://open.spotify.com/album/1ZXC6ylnVeo9H0jAu5ri4r) | 3:42 | 2023-05-04 |  |
 | [Sorry \(with Madonna\)](https://open.spotify.com/track/5dW0cgZ9uV1W3PXtuTS5uP) | [BLOND:ISH](https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR), [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW), [Eran Hersh](https://open.spotify.com/artist/5cqctR1IEdc11lN3KEmoGW), [Darmon](https://open.spotify.com/artist/6Qxl41tZ76KNEW9D6xG8J8) | [Sorry \(with Madonna\)](https://open.spotify.com/album/2pZKo6RIXWaZReQKBHjaxn) | 2:41 | 2023-02-09 | 2023-03-10 |
 | [Starlight](https://open.spotify.com/track/1DiBDqraL7kJGL5d8GsyUB) | [Phanhung](https://open.spotify.com/artist/3Yz0ljszozULd1CNheVw30), [BopBop](https://open.spotify.com/artist/1Ub6KPL89GDkjmE2VQfDTS), [Yellwflwer](https://open.spotify.com/artist/7yJ6JIPHYqJ7sbMBtAXB6v) | [Starlight](https://open.spotify.com/album/6jJ7mCp6c11KKclEwXSfXV) | 2:49 | 2023-02-02 | 2023-02-17 |
-| [Stars](https://open.spotify.com/track/2fNaMBJBFpv1PQ1zXkxIcO) | [PNAU](https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u), [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [Stars](https://open.spotify.com/album/2Ow9GPsc5afUdPrLZBT6Uo) | 2:51 | 2023-05-18 |  |
+| [Stars](https://open.spotify.com/track/2fNaMBJBFpv1PQ1zXkxIcO) | [PNAU](https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u), [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [Stars](https://open.spotify.com/album/2Ow9GPsc5afUdPrLZBT6Uo) | 2:51 | 2023-05-18 | 2023-05-20 |
+| [Stars](https://open.spotify.com/track/3mC64Smtz0xXvsa52ZM3Q9) | [PNAU](https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u), [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [Stars](https://open.spotify.com/album/05fkFs9DM4TpNGaDotqF8O) | 2:51 | 2023-05-18 |  |
 | [Stay A Little Longer](https://open.spotify.com/track/3r9RtXj216zntRikvgQdkK) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg), [DubVision](https://open.spotify.com/artist/3XINWZaloea97SIRiyTJxX), [Philip Strand](https://open.spotify.com/artist/1hII0FUxBvpT7bnuS7TQ6q) | [Stay A Little Longer](https://open.spotify.com/album/0auaYrAblTDxnAeU1Ggdav) | 3:31 | 2023-02-02 | 2023-03-25 |
 | [Stay Another Night](https://open.spotify.com/track/2D01XpzKgqhJoajUqwfTP0) | [Toxic Wraith](https://open.spotify.com/artist/7IzlaNBh2EWdsR6xIOp9Bb) | [Stay Another Night](https://open.spotify.com/album/1bkW7BSzfbWcIbsMr02kCj) | 2:43 | 2023-02-02 | 2023-03-03 |
 | [Stay With Me](https://open.spotify.com/track/1rSujs3MEWh6iowIgrgDvV) | [JustNgoc](https://open.spotify.com/artist/4sLtfiU2XkXsI8CJj9gj1x), [Phanhung](https://open.spotify.com/artist/3Yz0ljszozULd1CNheVw30), [StarlingEDM](https://open.spotify.com/artist/0a93wqFVaAkoKU1GqG7hvF) | [Stay With Me](https://open.spotify.com/album/3L6pQ5UuYzdWpKoCr7cMFK) | 3:05 | 2023-02-09 | 2023-03-03 |

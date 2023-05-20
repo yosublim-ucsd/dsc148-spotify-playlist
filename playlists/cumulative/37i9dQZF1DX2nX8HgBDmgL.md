@@ -4,7 +4,7 @@
 
 > Catch the amazing South Asian artists with Raja Kumari.
 
-135 songs - 7 hr 6 min
+136 songs - 7 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -134,6 +134,7 @@
 | [Udd Gaye](https://open.spotify.com/track/5ZsAhuQ24mWHiduaxJqnhW) | [Ritviz](https://open.spotify.com/artist/72beYOeW2sb2yfcS4JsRvb) | [Ved](https://open.spotify.com/album/7LPx9F9ZQWWvQlKgIQi1OZ) | 3:00 | 2022-07-18 |  |
 | [US \(feat\. Raja Kumari\)](https://open.spotify.com/track/36cqlmc53NqlEUqPJdgUOx) | [Sidhu Moose Wala](https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ), [Raja Kumari](https://open.spotify.com/artist/5cBFMoMgcAt03YL2r0tS25) | [Moosetape](https://open.spotify.com/album/45ZIondgVoMB84MQQaUo9T) | 3:50 | 2022-07-18 |  |
 | [Vaari](https://open.spotify.com/track/6RQPXXiTIkduK1LIQrol0c) | [Ickey Singh](https://open.spotify.com/artist/1aVl46MimzqUMhxWv683On), [Swifty Beats](https://open.spotify.com/artist/6wmOEv1HDNNQadm7KoxsOU), [J Spades](https://open.spotify.com/artist/0CUMYJraqFJ5RddqfuScWa) | [Vaari](https://open.spotify.com/album/3SZgHpIznSI54IfrbnE44R) | 2:39 | 2021-11-11 | 2022-07-19 |
+| [Vibe](https://open.spotify.com/track/2x5p4UI8timppIAsxOAXxZ) | [F1rstman](https://open.spotify.com/artist/0IA4SdCS8HBDX6oBoOlgaf) | [Vibe](https://open.spotify.com/album/6DIBjtZBgMaFMAzUfljJPc) | 3:22 | 2023-05-19 |  |
 | [Voodoo \(with J Balvin & Tainy\)](https://open.spotify.com/track/4OUAXw3SXI7bUiNtKC7ErW) | [Badshah](https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Tainy](https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB) | [Voodoo \(with J Balvin & Tainy\)](https://open.spotify.com/album/0VGq5Ld7zAUVloiMrNa5qQ) | 3:18 | 2022-07-18 |  |
 | [Waqt](https://open.spotify.com/track/7ACSQpHGwFWqEBoygjPYeX) | [Twinbeatz](https://open.spotify.com/artist/4L7glay6qnMnr6MQawUzjT) | [Waqt](https://open.spotify.com/album/0tn5e3YPdGEnOk5k74miWa) | 3:22 | 2021-11-11 | 2022-07-19 |
 | [Where You Been](https://open.spotify.com/track/57xWJEl3Odq80nBFK51EvL) | [The PropheC](https://open.spotify.com/artist/4aopF0aU0Nbu5GtSorXV0W) | [Where You Been](https://open.spotify.com/album/4rsDasY2baKkPMdgXiSbgM) | 3:32 | 2021-11-11 | 2022-07-19 |

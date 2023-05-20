@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Leaders of the new school...Alternative R&B. Cover: Q",
+  "description": "Leaders of the new school...Alternative R&B. Cover: Ama Lou",
   "name": "Vanguard",
   "tracks": [
     {
@@ -1110,7 +1110,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 158130,
       "name": "ascendent (mother fxcker)",
       "url": "https://open.spotify.com/track/6uAWmu9PkZ7l7OAVeQljus"
@@ -2459,6 +2459,24 @@
     },
     {
       "album": {
+        "name": "Caught Me Running",
+        "url": "https://open.spotify.com/album/5uWKr1TIWN0m1i3JSDYBGP"
+      },
+      "artists": [
+        {
+          "name": "Ama Lou",
+          "url": "https://open.spotify.com/artist/2tAqnHDAgnGtjnlzyoa38L"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194906,
+      "name": "Caught Me Running",
+      "url": "https://open.spotify.com/track/1uEkWNy4InUrjWZaIEJDwT"
+    },
+    {
+      "album": {
         "name": "Ce Soir",
         "url": "https://open.spotify.com/album/1TALRsJFB8dPBIFWL3WfPl"
       },
@@ -2848,6 +2866,24 @@
       "duration_ms": 155459,
       "name": "Clear My Mind",
       "url": "https://open.spotify.com/track/47zF41JzRRdJEJQPXlDQvz"
+    },
+    {
+      "album": {
+        "name": "close with desires",
+        "url": "https://open.spotify.com/album/2RQcP5ADwuWBrmkQvigU19"
+      },
+      "artists": [
+        {
+          "name": "teo glacier",
+          "url": "https://open.spotify.com/artist/09BQyf74gmKlaDkWdbdbqY"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203144,
+      "name": "close with desires",
+      "url": "https://open.spotify.com/track/3FybGUiXpHKQnX8PzvBAiC"
     },
     {
       "album": {
@@ -9900,7 +9936,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 77760,
       "name": "OMW",
       "url": "https://open.spotify.com/track/7EdcolEtRspiP5UqfRLp1U"
@@ -12358,7 +12394,7 @@
       ],
       "date_added": "2022-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 99454,
       "name": "Sinner",
       "url": "https://open.spotify.com/track/4xiQIdWJI5uT6772AxDe9g"
@@ -13004,7 +13040,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 116736,
       "name": "Strawberry Perfume",
       "url": "https://open.spotify.com/track/4IbE8jxsczCxfGYJCE2T1x"
@@ -15253,6 +15289,24 @@
     },
     {
       "album": {
+        "name": "Who Are You, Pt. II",
+        "url": "https://open.spotify.com/album/2V8bi0LD8wtZAw0uz4drrh"
+      },
+      "artists": [
+        {
+          "name": "Miink",
+          "url": "https://open.spotify.com/artist/17Rhw8lEDjOqM3GSVqrzhg"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187176,
+      "name": "Who Are You, Pt. II",
+      "url": "https://open.spotify.com/track/6JjLSIKFdzaLcCwQ2vWqgv"
+    },
+    {
+      "album": {
         "name": "Who I Gotta Be",
         "url": "https://open.spotify.com/album/0ew1GBGpp9n8rfliV3g6Pn"
       },
@@ -15698,6 +15752,24 @@
       "duration_ms": 211965,
       "name": "WYA",
       "url": "https://open.spotify.com/track/3cgLWMVT7LOKeGNLeovYZ9"
+    },
+    {
+      "album": {
+        "name": "x's n o's",
+        "url": "https://open.spotify.com/album/3kFvCh1ISs4UgTnyjkiT6p"
+      },
+      "artists": [
+        {
+          "name": "Chase Shakur",
+          "url": "https://open.spotify.com/artist/1gW1Q6W7d3a9dDXk1KlbG8"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146373,
+      "name": "x's n o's",
+      "url": "https://open.spotify.com/track/5pUN76w2ykTMGxdVYl02DC"
     },
     {
       "album": {

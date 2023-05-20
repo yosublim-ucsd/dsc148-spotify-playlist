@@ -1,12 +1,12 @@
 {
   "description": "Lo mejor del Hip-Hop y Rap en espa\u00f1ol. Cover: Peso Pluma, Aleman. ",
-  "num_followers": 472094,
+  "num_followers": 472189,
   "original_name": "Mucho Rap",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwMDVjNDNhNTk5MGM1ZTQ3MDJhOWJiZjJkYzYzZjkwNWM4NTA2MzY1",
+  "snapshot_id": "MCw1OThhNDVkNjJjYzc4Yzg2YmJhYzg0ODA1YjhhNDc2ZTMxMTY5ZDA3",
   "tracks": [
     {
       "added_at": "2023-04-21 23:05:59",
@@ -867,26 +867,6 @@
     {
       "added_at": "2023-04-21 23:05:59",
       "album": {
-        "name": "La Mini",
-        "url": "https://open.spotify.com/album/38j8f4kwWyynEWRnc8zEIc"
-      },
-      "artists": [
-        {
-          "name": "Casper Magico",
-          "url": "https://open.spotify.com/artist/1fux65HMCBvfJHqlBc4Nno"
-        },
-        {
-          "name": "Young Miko",
-          "url": "https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB"
-        }
-      ],
-      "duration_ms": 213831,
-      "name": "La Mini",
-      "url": "https://open.spotify.com/track/4xXPv6ic5Zq1vRvxRFxuo8"
-    },
-    {
-      "added_at": "2023-04-21 23:05:59",
-      "album": {
         "name": "No Me Pregunten",
         "url": "https://open.spotify.com/album/4MNPJVnFFM2njQr7ksEiGu"
       },
@@ -903,6 +883,26 @@
       "duration_ms": 250285,
       "name": "No Me Pregunten",
       "url": "https://open.spotify.com/track/0FO90XkPlzhUyoU5wysmyd"
+    },
+    {
+      "added_at": "2023-04-21 23:05:59",
+      "album": {
+        "name": "La Mini",
+        "url": "https://open.spotify.com/album/38j8f4kwWyynEWRnc8zEIc"
+      },
+      "artists": [
+        {
+          "name": "Casper Magico",
+          "url": "https://open.spotify.com/artist/1fux65HMCBvfJHqlBc4Nno"
+        },
+        {
+          "name": "Young Miko",
+          "url": "https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB"
+        }
+      ],
+      "duration_ms": 213831,
+      "name": "La Mini",
+      "url": "https://open.spotify.com/track/4xXPv6ic5Zq1vRvxRFxuo8"
     },
     {
       "added_at": "2023-04-21 23:05:59",
@@ -1631,18 +1631,18 @@
     {
       "added_at": "2023-04-21 23:05:59",
       "album": {
-        "name": "QUE SE ACABE EL MUNDO POR FAVOR",
-        "url": "https://open.spotify.com/album/4HZhVBmSmFu3ZxEoaZJuln"
+        "name": "El Fierros",
+        "url": "https://open.spotify.com/album/6wJTpytfeI6S3SaBlXrUIA"
       },
       "artists": [
         {
-          "name": "DAAZ",
-          "url": "https://open.spotify.com/artist/3EmNguRllf32GJRqIKnD0C"
+          "name": "El Makabelico",
+          "url": "https://open.spotify.com/artist/0rJ0xlAQI0wLRucDRoQQbO"
         }
       ],
-      "duration_ms": 175058,
-      "name": "QUE SE ACABE EL MUNDO POR FAVOR",
-      "url": "https://open.spotify.com/track/0515NyyugRGEsuznPwoWgA"
+      "duration_ms": 318000,
+      "name": "El Fierros",
+      "url": "https://open.spotify.com/track/2f6PnlpwjwkNotvpiWjyGK"
     },
     {
       "added_at": "2023-04-21 23:05:59",
@@ -1663,18 +1663,18 @@
     {
       "added_at": "2023-04-21 23:05:59",
       "album": {
-        "name": "El Fierros",
-        "url": "https://open.spotify.com/album/6wJTpytfeI6S3SaBlXrUIA"
+        "name": "QUE SE ACABE EL MUNDO POR FAVOR",
+        "url": "https://open.spotify.com/album/4HZhVBmSmFu3ZxEoaZJuln"
       },
       "artists": [
         {
-          "name": "El Makabelico",
-          "url": "https://open.spotify.com/artist/0rJ0xlAQI0wLRucDRoQQbO"
+          "name": "DAAZ",
+          "url": "https://open.spotify.com/artist/3EmNguRllf32GJRqIKnD0C"
         }
       ],
-      "duration_ms": 318000,
-      "name": "El Fierros",
-      "url": "https://open.spotify.com/track/2f6PnlpwjwkNotvpiWjyGK"
+      "duration_ms": 175058,
+      "name": "QUE SE ACABE EL MUNDO POR FAVOR",
+      "url": "https://open.spotify.com/track/0515NyyugRGEsuznPwoWgA"
     },
     {
       "added_at": "2023-04-21 23:05:59",
@@ -2111,22 +2111,6 @@
     {
       "added_at": "2023-04-21 23:05:59",
       "album": {
-        "name": "Qlq",
-        "url": "https://open.spotify.com/album/5ko1GqEKpk2TLARFtHodbt"
-      },
-      "artists": [
-        {
-          "name": "Jeeiph",
-          "url": "https://open.spotify.com/artist/6ZtLRqHEkAXPWVw0eRbDac"
-        }
-      ],
-      "duration_ms": 146500,
-      "name": "Qlq",
-      "url": "https://open.spotify.com/track/6xVr6Y0vzSBQv4Z01FMdVW"
-    },
-    {
-      "added_at": "2023-04-21 23:05:59",
-      "album": {
         "name": "La Que Hay",
         "url": "https://open.spotify.com/album/1JEbUd7kAG7lLqen6Jit6p"
       },
@@ -2139,6 +2123,22 @@
       "duration_ms": 188720,
       "name": "La Que Hay",
       "url": "https://open.spotify.com/track/5XCIh9cKTUdAMz6jovPVEo"
+    },
+    {
+      "added_at": "2023-04-21 23:05:59",
+      "album": {
+        "name": "Qlq",
+        "url": "https://open.spotify.com/album/5ko1GqEKpk2TLARFtHodbt"
+      },
+      "artists": [
+        {
+          "name": "Jeeiph",
+          "url": "https://open.spotify.com/artist/6ZtLRqHEkAXPWVw0eRbDac"
+        }
+      ],
+      "duration_ms": 146500,
+      "name": "Qlq",
+      "url": "https://open.spotify.com/track/6xVr6Y0vzSBQv4Z01FMdVW"
     },
     {
       "added_at": "2023-04-21 23:05:59",
@@ -2423,18 +2423,26 @@
     {
       "added_at": "2023-04-21 23:05:59",
       "album": {
-        "name": "FOLLOWS",
-        "url": "https://open.spotify.com/album/6MkEiKy5O4kGghEqO9rt7E"
+        "name": "Apokalypsis 2",
+        "url": "https://open.spotify.com/album/4kznHcUa9sdGewkst0xIQH"
       },
       "artists": [
         {
-          "name": "Ankhal",
-          "url": "https://open.spotify.com/artist/6NmMI7UnfmIpLRYoz8H9jm"
+          "name": "Big Soto",
+          "url": "https://open.spotify.com/artist/2TQ4CGgxxCWHqa9yYIGDoU"
+        },
+        {
+          "name": "Neutro Shorty",
+          "url": "https://open.spotify.com/artist/5wUO3A6DT4tO5UDz21kE2Y"
+        },
+        {
+          "name": "Snow Tha Product",
+          "url": "https://open.spotify.com/artist/3p3jPcp8b7WL9XYj4xlsWj"
         }
       ],
-      "duration_ms": 237861,
-      "name": "FOLLOWS",
-      "url": "https://open.spotify.com/track/13HFRTXdWFvXIRxGsjLsWc"
+      "duration_ms": 217285,
+      "name": "En una Nota",
+      "url": "https://open.spotify.com/track/7gStpbmmzKpj6Q3UQIFStv"
     }
   ],
   "unique_name": "Mucho Rap",

@@ -4,7 +4,7 @@
 
 > Här hör du de bästa svenska låtarna just nu.
 
-704 songs - 1 day 13 hr 16 min
+705 songs - 1 day 13 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -150,7 +150,7 @@
 | [Dom Kallar Mig För…](https://open.spotify.com/track/6RCOwKoJ4FFnPTT4cAoHWl) | [Petra Marklund](https://open.spotify.com/artist/2ZX1rncu0C7WOuSFC1aEbh) | [Dom Kallar Mig För…](https://open.spotify.com/album/5E2K65cY1XssPNMQjPQrwZ) | 3:26 | 2021-12-16 | 2022-03-11 |
 | [DOM SKA VETA](https://open.spotify.com/track/1pmGoAvlHYVrJHM5TJwshR) | [Molly Sandén](https://open.spotify.com/artist/0NRMzT05nsc8mTm4iUvuHY) | [DOM SKA VETA](https://open.spotify.com/album/48vIZKupNW6lDWwjCyCgeA) | 1:55 | 2021-12-16 | 2022-03-10 |
 | [Don't Lay It All On Me](https://open.spotify.com/track/1HRqrNwbigZTSvx4F6zyOb) | [Janice](https://open.spotify.com/artist/1uKR3ihZmv8a93heLPYKQ8) | [Don't Lay It All On Me](https://open.spotify.com/album/6cXnkR2AXOQyAAnOLe3OfH) | 3:51 | 2022-10-15 | 2023-02-05 |
-| [Don't Run](https://open.spotify.com/track/2ZguEqVTShZE8yNoHjRJC9) | [Josefine](https://open.spotify.com/artist/5iLaZnrGlRUHm2PwZ33dIt) | [Don't Run](https://open.spotify.com/album/5NQJVbrdpHqY7QgkrJEHnl) | 2:35 | 2023-03-09 |  |
+| [Don't Run](https://open.spotify.com/track/2ZguEqVTShZE8yNoHjRJC9) | [Josefine](https://open.spotify.com/artist/5iLaZnrGlRUHm2PwZ33dIt) | [Don't Run](https://open.spotify.com/album/5NQJVbrdpHqY7QgkrJEHnl) | 2:35 | 2023-03-09 | 2023-05-20 |
 | [Don't Want To Know](https://open.spotify.com/track/5sZaLWNPVqcqRv0JFj4uY1) | [Vigiland](https://open.spotify.com/artist/3tLYpanVDomWAZqF82NPds), [Wahlstedt](https://open.spotify.com/artist/7yOWqfe8iP613Ne5SV9XPP) | [Don't Want To Know](https://open.spotify.com/album/0bQfhNwmDbFTLpY6EYOJZF) | 2:23 | 2022-03-10 | 2022-04-21 |
 | [Don't You Dare](https://open.spotify.com/track/4pPlZhhuHGACJewIvWNEMG) | [Robin Bengtsson](https://open.spotify.com/artist/1CQLPgGkfHrxNMqrXt5oWS) | [Don't You Dare](https://open.spotify.com/album/7jZ5uylJxeg5TA1jHy32LQ) | 2:53 | 2022-05-26 | 2023-01-08 |
 | [Doppio Passo](https://open.spotify.com/track/5z0FnVkoJlQU1bbhbTSSfC) | [INOMI](https://open.spotify.com/artist/4y6IXL3FLmSLs4CCgpq5i2) | [Doppio Passo](https://open.spotify.com/album/5EZIPpBqS4FEhaqWKvePGX) | 3:07 | 2022-11-10 | 2023-02-25 |
@@ -589,6 +589,7 @@
 | [Sunshine](https://open.spotify.com/track/7ApIjBn1tqOyof0zvVX7CY) | [Skott](https://open.spotify.com/artist/6J3RPKUwZlKMzh3vWa9wPc) | [Sunshine](https://open.spotify.com/album/0wOtQE4XS0U9DPwCFram7H) | 3:41 | 2022-09-15 | 2023-01-27 |
 | [Super 8](https://open.spotify.com/track/0PKtiwZX73i0TedkfDH7qs) | [Zikai](https://open.spotify.com/artist/1bnxdcJP0Kn0EP2sBfd8Sn) | [Super 8](https://open.spotify.com/album/30wFpy1u4wjNpAxOcqD6Mq) | 2:58 | 2023-05-18 |  |
 | [Superhero ideal \(Pantamera\)](https://open.spotify.com/track/2wxY4U8FtNGHE6fAq6ZY3c) | [Myra Granberg](https://open.spotify.com/artist/6HYjkczJfUdGcwIGPOq5P2) | [Superhero ideal \(Pantamera\)](https://open.spotify.com/album/4k49gyiAbRVYsRp3ja9Vzx) | 2:39 | 2022-04-07 | 2022-07-19 |
+| [Superstar](https://open.spotify.com/track/0TjldtyoH2js24XQEu8S4M) | [Bianca Ingrosso](https://open.spotify.com/artist/3VhdRFPzyb8huDuJkxpLFa) | [Superstar](https://open.spotify.com/album/1Y5wr6hHJ8Q9ZSlDqaMku5) | 3:10 | 2023-05-19 |  |
 | [Superstar](https://open.spotify.com/track/21pE89kv4OQssxpzUPwMek) | [Darin](https://open.spotify.com/artist/1rKFeRryEci6cxNkdvHzNr) | [Superstar](https://open.spotify.com/album/4O6zCCdEquqKmMcXHrSbBy) | 3:21 | 2022-05-12 | 2022-09-26 |
 | [Svart Suit Cadillac](https://open.spotify.com/track/2hT4mY6jWEhm3Vnbgz5LyP) | [Jesper Swärd](https://open.spotify.com/artist/7812GfcEzTh273QN6DPurL), [Michel Dida](https://open.spotify.com/artist/0IQrfexpeCXMmHFX2jnT1Q) | [Svart Suit Cadillac](https://open.spotify.com/album/7rFae5BckcN7YgxYtEgCvO) | 3:38 | 2022-03-10 | 2022-04-02 |
 | [Svarta Moln \(From Songland\)](https://open.spotify.com/track/73A3kioiMa6CXW89cdTWXz) | [Cherrie](https://open.spotify.com/artist/59E9dYtwLTUAGuAppwFKAW) | [Svarta Moln \(From Songland\)](https://open.spotify.com/album/5qtU1cUDJu0pfNhdk3IDDy) | 3:11 | 2023-05-04 |  |

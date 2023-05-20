@@ -4,7 +4,7 @@
 
 > Any songs you forgot existed? Let's go deep into 70s rock! Cover: Pink Floyd
 
-851 songs - 2 day 11 hr 26 min
+852 songs - 2 day 11 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -682,7 +682,8 @@
 | [Speed King \- 1995 Remaster](https://open.spotify.com/track/7L1GZDz4fGQGkpXpGaLV55) | [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) | [Deep Purple in Rock \(Anniversary Edition\)](https://open.spotify.com/album/2bjTVISSsvwia7uxrrEsuQ) | 5:52 | 2022-01-05 |  |
 | [Squeeze Box](https://open.spotify.com/track/4lzNP52B3CfeVr2drfPh6X) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [The Who By Numbers \(Expanded Edition\)](https://open.spotify.com/album/6CTiKdIgtmCJT7lKY0EYNK) | 2:41 | 2022-01-05 |  |
 | [Squeeze Box](https://open.spotify.com/track/0SvROJ3KYQVlFSdA5cjk6S) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [The Who By Numbers](https://open.spotify.com/album/6IxRCbXtyK6MlHlofsnhlm) | 2:43 | 2022-01-05 | 2022-07-29 |
-| [Standing In The Road](https://open.spotify.com/track/1twUkLH24ioT67ltYjZtFL) | [Blackfoot Sue](https://open.spotify.com/artist/0H8FvrQmH0o7lTVjTzhEdS) | [45s \- The Original Hit Singles](https://open.spotify.com/album/1vKP6zJSvawcur8PRhW8Ut) | 3:55 | 2022-01-05 |  |
+| [Standing In The Road](https://open.spotify.com/track/1twUkLH24ioT67ltYjZtFL) | [Blackfoot Sue](https://open.spotify.com/artist/0H8FvrQmH0o7lTVjTzhEdS) | [45s \- The Original Hit Singles](https://open.spotify.com/album/1vKP6zJSvawcur8PRhW8Ut) | 3:55 | 2022-01-05 | 2023-05-20 |
+| [Standing In The Road](https://open.spotify.com/track/2T27PRYBNTu602ykPKdZ5S) | [Blackfoot Sue](https://open.spotify.com/artist/0H8FvrQmH0o7lTVjTzhEdS) | [45s \- The Original Hit Singles](https://open.spotify.com/album/7yAZbe1CidQEuZ4FgsVwdr) | 3:55 | 2022-11-17 |  |
 | [Starman \- 2012 Remaster](https://open.spotify.com/track/0pQskrTITgmCMyr85tb9qq) | [David Bowie](https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy) | [The Rise and Fall of Ziggy Stardust and the Spiders from Mars \(2012 Remaster\)](https://open.spotify.com/album/48D1hRORqJq52qsnUYZX56) | 4:14 | 2022-01-05 |  |
 | [Starstruck](https://open.spotify.com/track/64GaIxLU16MP3v3fPabp4f) | [Rainbow](https://open.spotify.com/artist/6SLAMfhOi7UJI0fMztaK0m) | [Rising](https://open.spotify.com/album/3uIT4I4Dy7Pq1j0aSjzPW9) | 4:05 | 2022-01-05 |  |
 | [Stay \- Remastered](https://open.spotify.com/track/5eMjcHVRRh1tbimTgJPoGn) | [Jackson Browne](https://open.spotify.com/artist/5lkiCO9UQ8B23dZ1o0UV4m) | [Running on Empty \(Remastered\)](https://open.spotify.com/album/24UtAJJRIuHICjdIDqaNhg) | 3:24 | 2022-01-05 |  |

@@ -1,12 +1,12 @@
 {
   "description": "Monster Hiphop anthems to unlock your day. Tracks from Lil Durk, Jack Harlow, Drake, Tyler, The Creator, Quavo and more",
-  "num_followers": 56387,
+  "num_followers": 56731,
   "original_name": "JumpOff",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0OTA4MDg5OTRlMzkzMzcyNDRjOThlOTc3NmY3YTQzZWQ3OWU5MDdm",
+  "snapshot_id": "MCwxNjcyYWJmMjM2OTIxYmNhZGU3OTU0NzM4ZGNjYTBjYWY2NjAzMDIw",
   "tracks": [
     {
       "added_at": "2023-05-18 20:59:00",
@@ -155,6 +155,26 @@
       "duration_ms": 238253,
       "name": "Private Landing (feat. Justin Bieber & Future)",
       "url": "https://open.spotify.com/track/52NGJPcLUzQq5w7uv4e5gf"
+    },
+    {
+      "added_at": "2023-05-19 05:42:29",
+      "album": {
+        "name": "Spinnin' (feat. EST Gee / FAST X Soundtrack)",
+        "url": "https://open.spotify.com/album/5YjvUivNXjwSZFFKa4ffbb"
+      },
+      "artists": [
+        {
+          "name": "Lil Durk",
+          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
+        },
+        {
+          "name": "EST Gee",
+          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
+        }
+      ],
+      "duration_ms": 167812,
+      "name": "Spinnin' (feat. EST Gee)",
+      "url": "https://open.spotify.com/track/1jBSRWaJIQ0AaF0UQ91IbG"
     },
     {
       "added_at": "2023-05-18 20:59:00",
@@ -675,6 +695,30 @@
     {
       "added_at": "2023-05-18 20:59:00",
       "album": {
+        "name": "STAYING ALIVE (feat. Drake & Lil Baby)",
+        "url": "https://open.spotify.com/album/0oEsQwXJhNbbb8VT0xOMok"
+      },
+      "artists": [
+        {
+          "name": "DJ Khaled",
+          "url": "https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        }
+      ],
+      "duration_ms": 178176,
+      "name": "STAYING ALIVE (feat. Drake & Lil Baby)",
+      "url": "https://open.spotify.com/track/0g2Bbgy7P41pFjMWJuzsf4"
+    },
+    {
+      "added_at": "2023-05-18 20:59:00",
+      "album": {
         "name": "Twin (feat. Lil Durk)",
         "url": "https://open.spotify.com/album/7IdlBOwOeXlriuPRozrkKz"
       },
@@ -747,26 +791,6 @@
       "duration_ms": 257647,
       "name": "Ease",
       "url": "https://open.spotify.com/track/39qkz1q7TkelO5Eb6YTKOv"
-    },
-    {
-      "added_at": "2023-05-18 20:59:00",
-      "album": {
-        "name": "Back To The Kaap",
-        "url": "https://open.spotify.com/album/5RheolffY6fyYbQPLHBxZv"
-      },
-      "artists": [
-        {
-          "name": "Stilo Magolide",
-          "url": "https://open.spotify.com/artist/77zNkBGPeehKXAXAXfUfnA"
-        },
-        {
-          "name": "YoungstaCPT",
-          "url": "https://open.spotify.com/artist/3QYKq7aMSiAu6gvfwNNFsv"
-        }
-      ],
-      "duration_ms": 198000,
-      "name": "Back To The Kaap",
-      "url": "https://open.spotify.com/track/7pQKbdzWHY6ypWhKLrLsiD"
     },
     {
       "added_at": "2023-05-18 20:59:00",
@@ -875,30 +899,6 @@
       "duration_ms": 135264,
       "name": "In My Head",
       "url": "https://open.spotify.com/track/1HvTxgCj0mTzQlEo0zLvFb"
-    },
-    {
-      "added_at": "2023-05-18 20:59:00",
-      "album": {
-        "name": "STAYING ALIVE (feat. Drake & Lil Baby)",
-        "url": "https://open.spotify.com/album/0oEsQwXJhNbbb8VT0xOMok"
-      },
-      "artists": [
-        {
-          "name": "DJ Khaled",
-          "url": "https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP"
-        },
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        },
-        {
-          "name": "Lil Baby",
-          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
-        }
-      ],
-      "duration_ms": 178176,
-      "name": "STAYING ALIVE (feat. Drake & Lil Baby)",
-      "url": "https://open.spotify.com/track/0g2Bbgy7P41pFjMWJuzsf4"
     },
     {
       "added_at": "2023-05-18 20:59:00",

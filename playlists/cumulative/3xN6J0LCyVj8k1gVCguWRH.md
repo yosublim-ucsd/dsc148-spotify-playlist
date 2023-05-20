@@ -4,7 +4,7 @@
 
 > Every year, I get excited to share my summer playlist because I learn about so many new artists from your replies—it’s an example of how music really can bring us all together\. \(Includes the 2021 edition + bonus tracks\)
 
-2,231 songs - 5 day 8 hr 5 min
+2,232 songs - 5 day 8 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1503,6 +1503,7 @@
 | [Perfume Factory](https://open.spotify.com/track/63jweZw2hIntUxwqrwO1FB) | [Most Unlikely](https://open.spotify.com/artist/19aotCWaO0iyku8ns8kyLg), [Rich Austin](https://open.spotify.com/artist/2EHPDKgWHuaXkeCAW4XbSX) | [Perfume Factory](https://open.spotify.com/album/3ShM0FaqIs5lZOJoic8SP4) | 3:18 | 2022-04-29 | 2022-05-15 |
 | [Permanent Waves](https://open.spotify.com/track/4Iwv9DF9Le1JSIyAsBYpUZ) | [Gentleman Brawlers](https://open.spotify.com/artist/2EgJWFnBz1BwghflScfD0O), [Josh Salt](https://open.spotify.com/artist/6MKd8F1rHwj0xIywoOUYqp) | [Permanent Waves](https://open.spotify.com/album/3TwsR8kYukt0uYwGVkH6mE) | 5:12 | 2023-04-28 | 2023-05-16 |
 | [Perreo](https://open.spotify.com/track/3zLQAiTFmfGeuF0PXihwU6) | [Yetsi](https://open.spotify.com/artist/5CqnNRweklgun6mittzUsC) | [Perreo](https://open.spotify.com/album/0BjfsRCahYuD66okcR8luW) | 2:24 | 2022-09-09 | 2022-09-25 |
+| [Persuade Me](https://open.spotify.com/track/775RzkgZutFuIiqUttdo0Z) | [Naesia](https://open.spotify.com/artist/2InyKKvSXjsPZHDhAKrtZA) | [Persuade Me](https://open.spotify.com/album/3WzmMpUhESBLc6R8Z5aM57) | 3:02 | 2023-05-19 |  |
 | [Persuasive \(with SZA\)](https://open.spotify.com/track/67v2UHujFruxWrDmjPYxD6) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Persuasive \(with SZA\)](https://open.spotify.com/album/7LYy99hyg4eHQeYkKPuS6R) | 3:30 | 2022-07-26 |  |
 | [PGT](https://open.spotify.com/track/2o2bLG5JqlwSCZNsx9BvOs) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [PARTYMOBILE](https://open.spotify.com/album/2T8UlI17u5hwTqu6zkpkW7) | 3:13 | 2020-08-20 | 2023-02-12 |
 | [PHOENIX](https://open.spotify.com/track/6sGN6tqNCCAgXQ2YHH0SIJ) | [MADNIK](https://open.spotify.com/artist/6Z0ZpfsNLeVU7c88gBa62V) | [PHOENIX](https://open.spotify.com/album/0LXiccMo5zmSnQexL3f2th) | 2:43 | 2023-04-18 | 2023-05-02 |

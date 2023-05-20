@@ -114,7 +114,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 199453,
       "name": "100 or Nun (feat. Tony Shhnow)",
       "url": "https://open.spotify.com/track/0U6ZKypkSptN2Zlhtkbvj6"
@@ -172,7 +172,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 162000,
       "name": "12AM",
       "url": "https://open.spotify.com/track/4rBO0G8nMiakstdKOJHf8T"
@@ -198,6 +198,24 @@
       "duration_ms": 207603,
       "name": "16CHOPPA (feat. Nardo Wick)",
       "url": "https://open.spotify.com/track/0QyisrAtBYGswf8KTJkkFV"
+    },
+    {
+      "album": {
+        "name": "16DEM",
+        "url": "https://open.spotify.com/album/7hNt7tzOJGe3nv8Y3nA0Fr"
+      },
+      "artists": [
+        {
+          "name": "Skillibeng",
+          "url": "https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192821,
+      "name": "16DEM",
+      "url": "https://open.spotify.com/track/6acGurI3gpZ59hSO8mYb60"
     },
     {
       "album": {
@@ -932,7 +950,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 100179,
       "name": "AL Roker",
       "url": "https://open.spotify.com/track/5ckdswsm7RQzCTBoNiyl7T"
@@ -1975,6 +1993,24 @@
     },
     {
       "album": {
+        "name": "Better Off Dead",
+        "url": "https://open.spotify.com/album/0ZpIZXMHRMBgNSlfseBb8q"
+      },
+      "artists": [
+        {
+          "name": "Sha Gz",
+          "url": "https://open.spotify.com/artist/5cZA9NpcHyvZjWldBitrR2"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 109369,
+      "name": "Better Off Dead",
+      "url": "https://open.spotify.com/track/08PwP3QCyqPRUn2D7Di8Ep"
+    },
+    {
+      "album": {
         "name": "Beverly Hills",
         "url": "https://open.spotify.com/album/2dfgoGW5M3v3Zrn940j9Rp"
       },
@@ -2142,6 +2178,24 @@
       "duration_ms": 99282,
       "name": "BILLIE EILISH.",
       "url": "https://open.spotify.com/track/7GKd7FI7IcSoVNQIwYxAQI"
+    },
+    {
+      "album": {
+        "name": "BING BONG",
+        "url": "https://open.spotify.com/album/2bnMi2DLVvTLCN37nPaAar"
+      },
+      "artists": [
+        {
+          "name": "BlakeIANA",
+          "url": "https://open.spotify.com/artist/7gq41QBlN40T3GDQ0wEbYS"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 106736,
+      "name": "BING BONG",
+      "url": "https://open.spotify.com/track/7iZrmR8qfdFYhYzHUDykyi"
     },
     {
       "album": {
@@ -5990,10 +6044,32 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 208630,
       "name": "Favorite Song",
       "url": "https://open.spotify.com/track/1SRw5p2lVAi7RGlHEmZg66"
+    },
+    {
+      "album": {
+        "name": "Favorite Song (feat. Future) [Toxic Version]",
+        "url": "https://open.spotify.com/album/6PnM3rGkpZJ0Q9JoxnjnuH"
+      },
+      "artists": [
+        {
+          "name": "Toosii",
+          "url": "https://open.spotify.com/artist/6BH1xcDkwbbyrLMUKECsW1"
+        },
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208621,
+      "name": "Favorite Song (feat. Future) [Toxic Version]",
+      "url": "https://open.spotify.com/track/6bdzSqnvBWrvq8HLmxZUCC"
     },
     {
       "album": {
@@ -7048,6 +7124,28 @@
       "duration_ms": 207624,
       "name": "Get In Get Out (feat. DreamDoll)",
       "url": "https://open.spotify.com/track/5Xitfn1Sj3GOb5xivVDocq"
+    },
+    {
+      "album": {
+        "name": "Get It (FAST X Soundtrack)",
+        "url": "https://open.spotify.com/album/6tXd6xOBJdrBB61Y3RvOCI"
+      },
+      "artists": [
+        {
+          "name": "Anti Da Menace",
+          "url": "https://open.spotify.com/artist/7jkEdcZtIMWXlEM5sgZ2uK"
+        },
+        {
+          "name": "Luh Tyler",
+          "url": "https://open.spotify.com/artist/1K15GRZZATsCJyGJ4bYiEz"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 103636,
+      "name": "Get It",
+      "url": "https://open.spotify.com/track/0iZ3KsUpgL2Y1IXxUgMZS8"
     },
     {
       "album": {
@@ -8148,7 +8246,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 205190,
       "name": "Highly Performing",
       "url": "https://open.spotify.com/track/0JaoDZZej4Hwbn2FT0Nskn"
@@ -8246,6 +8344,28 @@
       "duration_ms": 155350,
       "name": "Hotel",
       "url": "https://open.spotify.com/track/1rfsEU57ofvxhII8Xs57WF"
+    },
+    {
+      "album": {
+        "name": "House Call",
+        "url": "https://open.spotify.com/album/4UTojRG6aHmoZoXvH3C4aV"
+      },
+      "artists": [
+        {
+          "name": "Quin Nfn",
+          "url": "https://open.spotify.com/artist/3M1quhETLChtt9NHKVaajX"
+        },
+        {
+          "name": "03 Greedo",
+          "url": "https://open.spotify.com/artist/0FtsMKmZEq8fBWqdSOWtqp"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238000,
+      "name": "House Call",
+      "url": "https://open.spotify.com/track/3vXeEuBfgF26n6W1l8ujac"
     },
     {
       "album": {
@@ -8769,6 +8889,28 @@
     },
     {
       "album": {
+        "name": "I'm Geekin (feat. Luh Tyler)",
+        "url": "https://open.spotify.com/album/4hkUIlk30Vh9jsXz7dazhB"
+      },
+      "artists": [
+        {
+          "name": "DDG",
+          "url": "https://open.spotify.com/artist/0WK3H9OErSn5zKOkOV5egm"
+        },
+        {
+          "name": "Luh Tyler",
+          "url": "https://open.spotify.com/artist/1K15GRZZATsCJyGJ4bYiEz"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172035,
+      "name": "I'm Geekin (feat. Luh Tyler)",
+      "url": "https://open.spotify.com/track/2DBKeJkULv46sb1XaJKS8i"
+    },
+    {
+      "album": {
         "name": "I'm Hot (feat. Chi Chi & Nick Papz)",
         "url": "https://open.spotify.com/album/6VPco7KjnuEdqol2GoyRJw"
       },
@@ -8954,7 +9096,7 @@
       ],
       "date_added": "2023-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 129360,
       "name": "In Ha Mood",
       "url": "https://open.spotify.com/track/0yUaLqhsVsguBpoOPL4cO7"
@@ -9694,7 +9836,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 134265,
       "name": "Kome On",
       "url": "https://open.spotify.com/track/11NLXN1vcW8CZbrW3hZC8c"
@@ -11114,7 +11256,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 146261,
       "name": "Meant 4 You",
       "url": "https://open.spotify.com/track/6mlW6aQ4SF29Nu5QGAAWIB"
@@ -11638,7 +11780,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 170370,
       "name": "Move (Remix) (with KenTheMan)",
       "url": "https://open.spotify.com/track/4ZB1XkV5RBj7fGcPfNCRDb"
@@ -12371,6 +12513,24 @@
     },
     {
       "album": {
+        "name": "Never Left",
+        "url": "https://open.spotify.com/album/2XbNfo84Nbvvv50NPubTvg"
+      },
+      "artists": [
+        {
+          "name": "Stunna 4 Vegas",
+          "url": "https://open.spotify.com/artist/44IvvHRk2XF243QLA2VOa8"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124680,
+      "name": "Never Left",
+      "url": "https://open.spotify.com/track/3yIGvi7hOzo3oAQpw609Ks"
+    },
+    {
+      "album": {
         "name": "Never Say Never",
         "url": "https://open.spotify.com/album/0LraopRSleOCQfguKnbfjp"
       },
@@ -12646,7 +12806,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 176184,
       "name": "No Love",
       "url": "https://open.spotify.com/track/3ktZQRNnDBhioF14dWIjPH"
@@ -12672,6 +12832,36 @@
       "duration_ms": 164571,
       "name": "No Love (feat. Sleepy Hallow)",
       "url": "https://open.spotify.com/track/23lerLvvPlJqcFB8ZEDkov"
+    },
+    {
+      "album": {
+        "name": "No Love Shemix",
+        "url": "https://open.spotify.com/album/6saKtO8TKk26WBZ7kSCrnD"
+      },
+      "artists": [
+        {
+          "name": "Flo Milli",
+          "url": "https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd"
+        },
+        {
+          "name": "Erica Banks",
+          "url": "https://open.spotify.com/artist/2SXhbucehn00OBVKhzxDyM"
+        },
+        {
+          "name": "Maiya The Don",
+          "url": "https://open.spotify.com/artist/6S6u5pS5ywg7rv50rhpobQ"
+        },
+        {
+          "name": "J.K. Mac",
+          "url": "https://open.spotify.com/artist/5kztDpSaIqaQ5nHdDoTIlq"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193057,
+      "name": "No Love Shemix",
+      "url": "https://open.spotify.com/track/0mhDXOkkkbHr9KtukR3nMH"
     },
     {
       "album": {
@@ -12832,6 +13022,24 @@
       "duration_ms": 191999,
       "name": "No Respect (Feat. Sally Sossa)",
       "url": "https://open.spotify.com/track/6AfqOnJMEr8pCykhLTmSdU"
+    },
+    {
+      "album": {
+        "name": "Sorry 4 The Wait...",
+        "url": "https://open.spotify.com/album/1HBvyOsrKAiw0RfzfTRBL7"
+      },
+      "artists": [
+        {
+          "name": "B-Lovee",
+          "url": "https://open.spotify.com/artist/7hf5PZjVOqTQ2id3PF7I5Y"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111428,
+      "name": "No Secrets",
+      "url": "https://open.spotify.com/track/1QJmDEhYFLTM9PQMSzeVe3"
     },
     {
       "album": {
@@ -14362,7 +14570,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 154932,
       "name": "Perc & Sex",
       "url": "https://open.spotify.com/track/4a14AFVG1iMsLJnT4wj5Up"
@@ -15587,6 +15795,28 @@
     },
     {
       "album": {
+        "name": "Talk More Soon",
+        "url": "https://open.spotify.com/album/3Vg8Ol5x9bUzhLk42ABXnc"
+      },
+      "artists": [
+        {
+          "name": "Dustystaytrue",
+          "url": "https://open.spotify.com/artist/5MIXBzwGNeUeFAS0o3XBXL"
+        },
+        {
+          "name": "Toosii",
+          "url": "https://open.spotify.com/artist/6BH1xcDkwbbyrLMUKECsW1"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169606,
+      "name": "Reflections (feat. Toosii)",
+      "url": "https://open.spotify.com/track/3fPjjfF6iU3uklTplZOKTw"
+    },
+    {
+      "album": {
         "name": "Gift From God",
         "url": "https://open.spotify.com/album/1HpJrlKOd097WOF9VFeo9A"
       },
@@ -16180,7 +16410,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 161118,
       "name": "Role Play",
       "url": "https://open.spotify.com/track/5XzxJ1H4l2PspUsqqa6tc1"
@@ -16940,7 +17170,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 148645,
       "name": "Shake It",
       "url": "https://open.spotify.com/track/39QfWRz1THn0hSFP8UsVXb"
@@ -17348,6 +17578,28 @@
       "duration_ms": 150588,
       "name": "Sko",
       "url": "https://open.spotify.com/track/7Atyu3gAjkdmxYt0kZawgX"
+    },
+    {
+      "album": {
+        "name": "Slangn KK",
+        "url": "https://open.spotify.com/album/5oK5N32z1FiNDucFj0C32t"
+      },
+      "artists": [
+        {
+          "name": "Hardo",
+          "url": "https://open.spotify.com/artist/3ohrdimoWGwbjGMOnTDoUJ"
+        },
+        {
+          "name": "Wiz Khalifa",
+          "url": "https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193295,
+      "name": "Slangn KK",
+      "url": "https://open.spotify.com/track/59W0iGCityApGKS1DlWcxo"
     },
     {
       "album": {
@@ -18326,6 +18578,32 @@
       "duration_ms": 132413,
       "name": "Supa Ties (feat. DJ Khaled & Raw Youngin)",
       "url": "https://open.spotify.com/track/4lSIx6Q1RNuTtESCrhaI1R"
+    },
+    {
+      "album": {
+        "name": "Supafly (feat. BigXthaPlug / FAST X Soundtrack)",
+        "url": "https://open.spotify.com/album/2fIo1CPdRHVae7GbQdpi3b"
+      },
+      "artists": [
+        {
+          "name": "Cootie",
+          "url": "https://open.spotify.com/artist/7ECp9Ab69X334S1fo7jAp3"
+        },
+        {
+          "name": "BiC Fizzle",
+          "url": "https://open.spotify.com/artist/55zZKMiLQNwu6unkKc8J4y"
+        },
+        {
+          "name": "BigXthaPlug",
+          "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178189,
+      "name": "Supafly (feat. BigXthaPlug)",
+      "url": "https://open.spotify.com/track/0lkZ62PtOr82RFbVJVk8Yn"
     },
     {
       "album": {
@@ -19561,6 +19839,24 @@
     },
     {
       "album": {
+        "name": "Top G",
+        "url": "https://open.spotify.com/album/75pxiiFLD7OdSdYQYUpyGK"
+      },
+      "artists": [
+        {
+          "name": "Symba",
+          "url": "https://open.spotify.com/artist/06S3fr7xEES7e3QPXhu3ay"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213750,
+      "name": "Top G",
+      "url": "https://open.spotify.com/track/1N1gsO7kqA3bt9YqUXqARm"
+    },
+    {
+      "album": {
         "name": "Top Of The Key",
         "url": "https://open.spotify.com/album/0HQ1PqDqIHrwCnOoPiHPNT"
       },
@@ -19608,7 +19904,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 203687,
       "name": "Toxic Ish",
       "url": "https://open.spotify.com/track/13IyPWwTjRTWW62z6L349L"
@@ -19670,7 +19966,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 177983,
       "name": "Trappin N Rappin (feat. Gucci Mane)",
       "url": "https://open.spotify.com/track/4jCu9I3jXfKLr48r98RyVg"
@@ -20432,7 +20728,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 112153,
       "name": "Wake Up",
       "url": "https://open.spotify.com/track/5rfMpJorQrwpvCOfDM7Q5L"
@@ -21520,6 +21816,24 @@
       "duration_ms": 196923,
       "name": "WYO (feat. PGF Nuk)",
       "url": "https://open.spotify.com/track/69Q3vsqXFMKhZGTHssGSDC"
+    },
+    {
+      "album": {
+        "name": "Ye",
+        "url": "https://open.spotify.com/album/4xspYyXEsk2GuVr0yBEVql"
+      },
+      "artists": [
+        {
+          "name": "SoFaygo",
+          "url": "https://open.spotify.com/artist/2SJhf6rTOU53g8yBdAjPby"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131142,
+      "name": "Ye",
+      "url": "https://open.spotify.com/track/6X8EAUvhh5URYz04eYoKEW"
     },
     {
       "album": {

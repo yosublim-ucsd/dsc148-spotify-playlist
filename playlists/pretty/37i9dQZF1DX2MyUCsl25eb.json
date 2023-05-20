@@ -1,13 +1,77 @@
 {
   "description": "Easy feels on your way to work, or wherever you're commuting to this morning.",
-  "num_followers": 980018,
+  "num_followers": 980081,
   "original_name": "Morning Commute",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxMzRlYTM1MDM2ZjIwZmZlZTQzMzYxNDE3MjJlMjg4ZGJkZDAzMjA5",
+  "snapshot_id": "MCxkOWI0ZDM4YTBlYWQxYzYxMTkxYzBkZDQyYTQzMDgyMDJkNzQzYWM3",
   "tracks": [
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
+        "name": "Middle Ground",
+        "url": "https://open.spotify.com/album/5jmEjw5krglNmuEy45URZT"
+      },
+      "artists": [
+        {
+          "name": "Maroon 5",
+          "url": "https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP"
+        }
+      ],
+      "duration_ms": 219800,
+      "name": "Middle Ground",
+      "url": "https://open.spotify.com/track/3xiccJ9jlTVwC8Yl66eGv5"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
+        "name": "Broken By Desire To Be Heavenly Sent",
+        "url": "https://open.spotify.com/album/0ECSyPejfD7oL95dD3jgoi"
+      },
+      "artists": [
+        {
+          "name": "Lewis Capaldi",
+          "url": "https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB"
+        }
+      ],
+      "duration_ms": 230533,
+      "name": "Haven't You Ever Been In Love Before?",
+      "url": "https://open.spotify.com/track/7136zBuda3024ZQUTBB1Vg"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
+        "name": "Pieces",
+        "url": "https://open.spotify.com/album/7h2aJ4utwpfVK1GHkSGufE"
+      },
+      "artists": [
+        {
+          "name": "Dylan Conrique",
+          "url": "https://open.spotify.com/artist/2S054G7qnCK45KY0XzpX30"
+        }
+      ],
+      "duration_ms": 233266,
+      "name": "down from the high",
+      "url": "https://open.spotify.com/track/0eEt3ih8m78sxtQyAXqiSn"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
+        "name": "Say Yes To Heaven",
+        "url": "https://open.spotify.com/album/6jVg0POvGYH1Pt6lISl3ok"
+      },
+      "artists": [
+        {
+          "name": "Lana Del Rey",
+          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+        }
+      ],
+      "duration_ms": 209156,
+      "name": "Say Yes To Heaven",
+      "url": "https://open.spotify.com/track/6GGtHZgBycCgGBUhZo81xe"
+    },
     {
       "added_at": "2023-05-12 04:00:00",
       "album": {
@@ -29,6 +93,22 @@
       "url": "https://open.spotify.com/track/63kLorCFyk4ZHMHPhcWOtO"
     },
     {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
+        "name": "Conversation",
+        "url": "https://open.spotify.com/album/7DYab8h54P3zoSRHvtz2KW"
+      },
+      "artists": [
+        {
+          "name": "Busby Marou",
+          "url": "https://open.spotify.com/artist/4ETXyV9H1p2P1XYgXXTjiO"
+        }
+      ],
+      "duration_ms": 195224,
+      "name": "Conversation",
+      "url": "https://open.spotify.com/track/7aZKi11FXlc8v1tbr4Pekw"
+    },
+    {
       "added_at": "2023-05-05 04:01:00",
       "album": {
         "name": "What More Can I Say",
@@ -45,20 +125,20 @@
       "url": "https://open.spotify.com/track/6HPF8EnycKjys9R3vjgvUO"
     },
     {
-      "added_at": "2023-05-12 04:00:00",
+      "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "A Year Ago",
-        "url": "https://open.spotify.com/album/4mXHsCQ4aRccewmcKUxIBJ"
+        "name": "ok with it",
+        "url": "https://open.spotify.com/album/1VTt9SI2yCJMHuJ9JItnt9"
       },
       "artists": [
         {
-          "name": "James Arthur",
-          "url": "https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM"
+          "name": "Lyn Lapid",
+          "url": "https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v"
         }
       ],
-      "duration_ms": 170830,
-      "name": "A Year Ago",
-      "url": "https://open.spotify.com/track/3DBJE1Zndql25OGUQSv7aD"
+      "duration_ms": 165793,
+      "name": "ok with it",
+      "url": "https://open.spotify.com/track/2LRvqsiYThrc2zbBp8vElD"
     },
     {
       "added_at": "2023-05-05 04:01:00",
@@ -75,6 +155,22 @@
       "duration_ms": 231840,
       "name": "Pancakes & Butter",
       "url": "https://open.spotify.com/track/0pJ3NjNJkDcEpHQDLB8Nc4"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
+        "name": "I'm trying",
+        "url": "https://open.spotify.com/album/6dPQkfGAbsDB7cYI32VG0m"
+      },
+      "artists": [
+        {
+          "name": "Alexander Stewart",
+          "url": "https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT"
+        }
+      ],
+      "duration_ms": 164933,
+      "name": "I'm trying",
+      "url": "https://open.spotify.com/track/4gcC1lyxdjoTE13FPOqyHt"
     },
     {
       "added_at": "2023-04-28 04:01:00",
@@ -97,20 +193,36 @@
       "url": "https://open.spotify.com/track/3HCPcK7bCPAczLUfRmZEUn"
     },
     {
-      "added_at": "2023-05-12 04:00:00",
+      "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "Vulfnik",
-        "url": "https://open.spotify.com/album/2hx7xwv78aW95cduJrslG5"
+        "name": "lifejacket",
+        "url": "https://open.spotify.com/album/0CqP9LYR3wdBr2qjjK3kQI"
       },
       "artists": [
         {
-          "name": "Vulfmon",
-          "url": "https://open.spotify.com/artist/6pGuw52TrX5SZPdQSxAvgW"
+          "name": "Matt Hansen",
+          "url": "https://open.spotify.com/artist/6wlhqnATSJIc0NQ64VxOVJ"
         }
       ],
-      "duration_ms": 164039,
-      "name": "Bonnie Wait",
-      "url": "https://open.spotify.com/track/11JSE9lPVKyp7pmnpRyB7z"
+      "duration_ms": 203176,
+      "name": "lifejacket",
+      "url": "https://open.spotify.com/track/6Tsi8WlS6AI4tLRV2ei4LV"
+    },
+    {
+      "added_at": "2023-05-12 04:00:00",
+      "album": {
+        "name": "A Year Ago",
+        "url": "https://open.spotify.com/album/4mXHsCQ4aRccewmcKUxIBJ"
+      },
+      "artists": [
+        {
+          "name": "James Arthur",
+          "url": "https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM"
+        }
+      ],
+      "duration_ms": 170830,
+      "name": "A Year Ago",
+      "url": "https://open.spotify.com/track/3DBJE1Zndql25OGUQSv7aD"
     },
     {
       "added_at": "2023-05-05 04:01:00",
@@ -259,22 +371,6 @@
       "duration_ms": 199820,
       "name": "Silly Me",
       "url": "https://open.spotify.com/track/5qXmsKaUlKaRzVpmtCYfqr"
-    },
-    {
-      "added_at": "2023-04-14 04:01:00",
-      "album": {
-        "name": "Wish You The Best",
-        "url": "https://open.spotify.com/album/7dhkqX7ovYADB1xwZr9bwS"
-      },
-      "artists": [
-        {
-          "name": "Lewis Capaldi",
-          "url": "https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB"
-        }
-      ],
-      "duration_ms": 210880,
-      "name": "Wish You The Best",
-      "url": "https://open.spotify.com/track/3W5KHP0Yr56ejVDns9vci3"
     },
     {
       "added_at": "2023-04-21 04:01:00",
@@ -865,22 +961,6 @@
       "url": "https://open.spotify.com/track/1F4bLAgSwZkU5VEVSGyhzB"
     },
     {
-      "added_at": "2022-07-01 04:02:00",
-      "album": {
-        "name": "Everybody Needs Someone",
-        "url": "https://open.spotify.com/album/6ma4E5mezNPOUQm9RTfmw4"
-      },
-      "artists": [
-        {
-          "name": "James Bay",
-          "url": "https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD"
-        }
-      ],
-      "duration_ms": 208226,
-      "name": "Everybody Needs Someone",
-      "url": "https://open.spotify.com/track/16D9i13IoScb7MYVeo0eGs"
-    },
-    {
       "added_at": "2022-10-14 04:00:00",
       "album": {
         "name": "Sonder",
@@ -1141,22 +1221,6 @@
       "url": "https://open.spotify.com/track/5L4FLTgwJtV8teoPKIrzc7"
     },
     {
-      "added_at": "2023-03-17 05:00:00",
-      "album": {
-        "name": "How I'm Feeling Now",
-        "url": "https://open.spotify.com/album/5Kys3ZEzHMqSbpKnyfSkqj"
-      },
-      "artists": [
-        {
-          "name": "Lewis Capaldi",
-          "url": "https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB"
-        }
-      ],
-      "duration_ms": 226440,
-      "name": "How I'm Feeling Now",
-      "url": "https://open.spotify.com/track/5CcfIvFHULvnM0ST4nzRRN"
-    },
-    {
       "added_at": "2023-03-24 04:01:00",
       "album": {
         "name": "Let Go",
@@ -1187,26 +1251,6 @@
       "duration_ms": 214274,
       "name": "On Hold",
       "url": "https://open.spotify.com/track/6dRTgr0gVZB17BEpTvi8gJ"
-    },
-    {
-      "added_at": "2023-03-24 04:01:00",
-      "album": {
-        "name": "Did you know that there's a tunnel under Ocean Blvd",
-        "url": "https://open.spotify.com/album/5HOHne1wzItQlIYmLXLYfZ"
-      },
-      "artists": [
-        {
-          "name": "Lana Del Rey",
-          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
-        },
-        {
-          "name": "Jon Batiste",
-          "url": "https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU"
-        }
-      ],
-      "duration_ms": 314520,
-      "name": "Candy Necklace (feat. Jon Batiste)",
-      "url": "https://open.spotify.com/track/3MlEryrxCKZkcfX18ZLX96"
     },
     {
       "added_at": "2023-03-31 04:01:00",
@@ -1491,62 +1535,6 @@
       "duration_ms": 219020,
       "name": "Just Another Thing We Don't Talk About",
       "url": "https://open.spotify.com/track/2FjX5cfe8tBV4Qd6ELhUNf"
-    },
-    {
-      "added_at": "2022-11-04 04:00:00",
-      "album": {
-        "name": "Pretty Face",
-        "url": "https://open.spotify.com/album/4ex498BshH176bBZTm0FBx"
-      },
-      "artists": [
-        {
-          "name": "Maya Delilah",
-          "url": "https://open.spotify.com/artist/6TWEX2qTj9b0bBsXSVCMKM"
-        }
-      ],
-      "duration_ms": 204907,
-      "name": "Pretty Face",
-      "url": "https://open.spotify.com/track/76FIWDl9FJBphuJhjPkYtr"
-    },
-    {
-      "added_at": "2022-10-21 04:00:00",
-      "album": {
-        "name": "Hiding in Plain Sight",
-        "url": "https://open.spotify.com/album/2lJ4mGexbTGxmkF2OEejmE"
-      },
-      "artists": [
-        {
-          "name": "Drugdealer",
-          "url": "https://open.spotify.com/artist/0tMnuEXTeJeHbslcV8OybJ"
-        },
-        {
-          "name": "Kate Bollinger",
-          "url": "https://open.spotify.com/artist/4eArh1v6UwBbKkjdgHCned"
-        }
-      ],
-      "duration_ms": 189466,
-      "name": "Pictures of You",
-      "url": "https://open.spotify.com/track/2cAZ6Pxbq34h5rgUr7hZKC"
-    },
-    {
-      "added_at": "2022-10-14 04:00:00",
-      "album": {
-        "name": "Tomorrow Can Wait",
-        "url": "https://open.spotify.com/album/5xLYRqDmG1UGElZqLwVFVU"
-      },
-      "artists": [
-        {
-          "name": "Walk off the Earth",
-          "url": "https://open.spotify.com/artist/6jEiUoyyJNPHzSR0Nib6HX"
-        },
-        {
-          "name": "Tenille Townes",
-          "url": "https://open.spotify.com/artist/3TyeX0lk4B7k56ukfzEE0z"
-        }
-      ],
-      "duration_ms": 190080,
-      "name": "Tomorrow Can Wait",
-      "url": "https://open.spotify.com/track/5MpQv6ULtezyLFtnx8VX1M"
     },
     {
       "added_at": "2023-02-10 05:00:00",

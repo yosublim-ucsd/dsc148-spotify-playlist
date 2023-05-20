@@ -27,4 +27,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVfaWXjwoSGX.md) - [plain]
 | 17 | [H.O.Y.L\. \(High On Your Love\) \- Jimpster Remix \- Mixed](https://open.spotify.com/track/3OGQWIHbgQpLaTJ1ZmdMXV) | [Lukas Lyrestam](https://open.spotify.com/artist/7mg2bMRWo78lVu8LGtgVKb), [Jimpster](https://open.spotify.com/artist/2pfHsO54AOejDlJqtXnS85) | [H.O.Y.L\. \(High On Your Love\) \- Jimpster Remix \[Mixed\]](https://open.spotify.com/album/3TFmHBUFEqae2uaWIbPjox) | 4:09 |
 | 18 | [Follow \- Mixed](https://open.spotify.com/track/64mxctJ4YBBdfEpvApcaQR) | [Malin Genie](https://open.spotify.com/artist/2JOHMPfKqG3Z1C9PVc6pte), [Lazare Hoche](https://open.spotify.com/artist/7zjYZoG7ZjcETmDZFj1gsi), [Mar](https://open.spotify.com/artist/1j6Mdu8CUOFyXatk9JlvP4) | [Follow \(Mixed\)](https://open.spotify.com/album/1t6dMjKQ2qkfquysCSCn76) | 3:21 |
 
-Snapshot ID: `MCxkNTE4M2Y1NmI3OGE4Yjk5ZTI1OTIyNmRiMWVmZTFhNmEyZjQ5Y2Q0`
+Snapshot ID: `MTY3ODg5NDA3OCwwMDAwMDAwMDBjMDE5YTFiMTg0NWFjMDE0ZjUyNzAyMGVhMzdiNjdj`

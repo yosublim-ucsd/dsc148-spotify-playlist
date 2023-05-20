@@ -4,7 +4,7 @@
 
 > The R&B and good vibe tracks for your current mood\. Cover:  H.E.R.
 
-408 songs - 22 hr 10 min
+409 songs - 22 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -198,6 +198,7 @@
 | [LILITH](https://open.spotify.com/track/0dkgpByFaFUSMbr7k8PqXn) | [LilithQueenB](https://open.spotify.com/artist/63omHXed38Mlx1DyIlSP3m) | [LILITH](https://open.spotify.com/album/1E4Hklni81g0ec5DSoR14j) | 3:15 | 2022-07-16 | 2022-07-22 |
 | [little story](https://open.spotify.com/track/4ZfwRdhHblKGWcrMYeZMex) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [little story](https://open.spotify.com/album/38vZ3y2bFWOfq3VywVdKam) | 3:18 | 2022-06-08 | 2022-06-17 |
 | [Lonely \(feat\. Bino Rideaux\)](https://open.spotify.com/track/37bDM2Llg0gA1iqdFZFByC) | [THEY.](https://open.spotify.com/artist/0pghUohLPptZWBasy2wmUx), [Bino Rideaux](https://open.spotify.com/artist/3pcerTbRFAPvWWtAfySFWB) | [Lonely \(feat\. Bino Rideaux\)](https://open.spotify.com/album/2H1PS3AVtPPQ5fW1nHgFhh) | 3:11 | 2022-08-04 | 2022-08-19 |
+| [Lord Forgive](https://open.spotify.com/track/2Tp27IUvgu3nOSFQhPCbQ3) | [donny daydream](https://open.spotify.com/artist/1cN7t71QLFV6b0Fs3PlkPS) | [Lord Forgive](https://open.spotify.com/album/2v3oz4fAvLpzprABVQryiZ) | 2:43 | 2023-05-18 |  |
 | [Losing You](https://open.spotify.com/track/146pr47LcU6HE5TQ6mgiSX) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO) | [Losing You](https://open.spotify.com/album/1nVNtqccCdtzc3N9uKqXXl) | 3:44 | 2022-12-16 | 2023-01-14 |
 | [Lost](https://open.spotify.com/track/4AhXYMGyGdOzFUN6B9rZwj) | [SHIVY\-O](https://open.spotify.com/artist/4ZvocLK9jBuKymHWm5VRrr) | [Lost](https://open.spotify.com/album/6CDpLH14tzQUKB2MoIM1ZN) | 2:56 | 2023-02-23 |  |
 | [Lost Me](https://open.spotify.com/track/6TSO4hwz9WGrEUY7ABGVim) | [Giveon](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [Give Or Take](https://open.spotify.com/album/64LkgCfNbLqjclQYCTid8L) | 3:00 | 2022-06-23 | 2022-07-22 |

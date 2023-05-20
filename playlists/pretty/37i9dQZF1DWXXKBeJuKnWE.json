@@ -1,12 +1,12 @@
 {
-  "description": "The home for heavy rockers. Cover: Asking Alexandria",
-  "num_followers": 28175,
+  "description": "The home for heavy rockers. Cover: Bring Me The Horizon",
+  "num_followers": 28190,
   "original_name": "The Pit",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2Zjk2MjA0OGE0ZDg1NzgwM2ZiNzc4YmYzZTE2NjJlYTkyYmVmZGM2",
+  "snapshot_id": "MCwxZWY4YTFiMDA0YjIyMDE0N2YzMzJhOTFjNzJjOWM2YTA5NTk2NjAx",
   "tracks": [
     {
       "added_at": "2023-05-11 23:00:00",
@@ -173,6 +173,38 @@
       "url": "https://open.spotify.com/track/3JPwUS8LRA6nBiukvMBb9a"
     },
     {
+      "added_at": "2023-05-19 12:30:36",
+      "album": {
+        "name": "False Dawn",
+        "url": "https://open.spotify.com/album/6Td1f77DXw9wUXuz68Ki92"
+      },
+      "artists": [
+        {
+          "name": "Holding Absence",
+          "url": "https://open.spotify.com/artist/2tl280wIokrLjabzrSKTgU"
+        }
+      ],
+      "duration_ms": 237058,
+      "name": "False Dawn - Single Edit",
+      "url": "https://open.spotify.com/track/6DF3IQ38l2vvd0f3J9vuTQ"
+    },
+    {
+      "added_at": "2023-05-19 12:30:36",
+      "album": {
+        "name": "Take Me Back To Eden",
+        "url": "https://open.spotify.com/album/1gjugH97doz3HktiEjx2vY"
+      },
+      "artists": [
+        {
+          "name": "Sleep Token",
+          "url": "https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6"
+        }
+      ],
+      "duration_ms": 252158,
+      "name": "Rain",
+      "url": "https://open.spotify.com/track/0GXwlEXCO8qeeeOIYpsR3m"
+    },
+    {
       "added_at": "2023-05-11 23:00:00",
       "album": {
         "name": "Meteora 20th Anniversary Edition",
@@ -187,22 +219,6 @@
       "duration_ms": 201428,
       "name": "Fighting Myself",
       "url": "https://open.spotify.com/track/2ipYQ6pcabz1NovVrr9LKH"
-    },
-    {
-      "added_at": "2023-05-11 23:00:00",
-      "album": {
-        "name": "The Summoning",
-        "url": "https://open.spotify.com/album/42fcciBOkkvnEu8dN7mByX"
-      },
-      "artists": [
-        {
-          "name": "Sleep Token",
-          "url": "https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6"
-        }
-      ],
-      "duration_ms": 395716,
-      "name": "The Summoning",
-      "url": "https://open.spotify.com/track/1yCE0X5qLWOrLkR8NC0ZUJ"
     },
     {
       "added_at": "2023-05-11 23:00:00",
@@ -223,22 +239,6 @@
       "duration_ms": 220041,
       "name": "Kingslayer (feat. BABYMETAL)",
       "url": "https://open.spotify.com/track/7CAbF0By0Fpnbiu6Xn5ZF7"
-    },
-    {
-      "added_at": "2023-05-11 23:00:00",
-      "album": {
-        "name": "The Rumbling",
-        "url": "https://open.spotify.com/album/0YK5JsSCN2Z8g1ejHuBqeg"
-      },
-      "artists": [
-        {
-          "name": "SiM",
-          "url": "https://open.spotify.com/artist/2BM933ADIluGGrPBOhPgIt"
-        }
-      ],
-      "duration_ms": 220799,
-      "name": "The Rumbling",
-      "url": "https://open.spotify.com/track/6k0X05danQOXSBTVek5DU1"
     },
     {
       "added_at": "2023-05-11 23:00:00",
@@ -275,6 +275,22 @@
     {
       "added_at": "2023-05-11 23:00:00",
       "album": {
+        "name": "The Rumbling",
+        "url": "https://open.spotify.com/album/0YK5JsSCN2Z8g1ejHuBqeg"
+      },
+      "artists": [
+        {
+          "name": "SiM",
+          "url": "https://open.spotify.com/artist/2BM933ADIluGGrPBOhPgIt"
+        }
+      ],
+      "duration_ms": 220799,
+      "name": "The Rumbling",
+      "url": "https://open.spotify.com/track/6k0X05danQOXSBTVek5DU1"
+    },
+    {
+      "added_at": "2023-05-11 23:00:00",
+      "album": {
         "name": "Jesus He Knows Me",
         "url": "https://open.spotify.com/album/5ATKAJjDVbFIoQVuaHrLNK"
       },
@@ -307,6 +323,22 @@
     {
       "added_at": "2023-05-11 23:00:00",
       "album": {
+        "name": "The Summoning",
+        "url": "https://open.spotify.com/album/42fcciBOkkvnEu8dN7mByX"
+      },
+      "artists": [
+        {
+          "name": "Sleep Token",
+          "url": "https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6"
+        }
+      ],
+      "duration_ms": 395716,
+      "name": "The Summoning",
+      "url": "https://open.spotify.com/track/1yCE0X5qLWOrLkR8NC0ZUJ"
+    },
+    {
+      "added_at": "2023-05-11 23:00:00",
+      "album": {
         "name": "EXPLOSIONS",
         "url": "https://open.spotify.com/album/4drZZN0HTkJzcdlPmmQyqG"
       },
@@ -319,6 +351,22 @@
       "duration_ms": 206640,
       "name": "So Called Life",
       "url": "https://open.spotify.com/track/1QTQ3VNzabl4yF5GJE6hhK"
+    },
+    {
+      "added_at": "2023-05-11 23:00:00",
+      "album": {
+        "name": "Emotion Sickness",
+        "url": "https://open.spotify.com/album/3dTSDhT6cUg4YxQTMRgf6S"
+      },
+      "artists": [
+        {
+          "name": "Queens of the Stone Age",
+          "url": "https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn"
+        }
+      ],
+      "duration_ms": 271076,
+      "name": "Emotion Sickness",
+      "url": "https://open.spotify.com/track/0qhGOjVl3uY2N6CAafVmCa"
     },
     {
       "added_at": "2023-05-11 23:00:00",
@@ -367,22 +415,6 @@
       "duration_ms": 304023,
       "name": "Chokehold",
       "url": "https://open.spotify.com/track/6lssX4zmdtDiTw3eJhTjyg"
-    },
-    {
-      "added_at": "2023-05-11 23:00:00",
-      "album": {
-        "name": "Emotion Sickness",
-        "url": "https://open.spotify.com/album/3dTSDhT6cUg4YxQTMRgf6S"
-      },
-      "artists": [
-        {
-          "name": "Queens of the Stone Age",
-          "url": "https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn"
-        }
-      ],
-      "duration_ms": 271076,
-      "name": "Emotion Sickness",
-      "url": "https://open.spotify.com/track/0qhGOjVl3uY2N6CAafVmCa"
     },
     {
       "added_at": "2023-05-11 23:00:00",
@@ -471,22 +503,6 @@
     {
       "added_at": "2023-05-11 23:00:00",
       "album": {
-        "name": "Vore",
-        "url": "https://open.spotify.com/album/3VjYAhNuyNAWqTIzvSyXml"
-      },
-      "artists": [
-        {
-          "name": "Sleep Token",
-          "url": "https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6"
-        }
-      ],
-      "duration_ms": 339606,
-      "name": "Vore",
-      "url": "https://open.spotify.com/track/3lYdGoYMQVn8ywkbd6X6fZ"
-    },
-    {
-      "added_at": "2023-05-11 23:00:00",
-      "album": {
         "name": "Planet Zero",
         "url": "https://open.spotify.com/album/7tWcsQLHpvXnUPN1jsSaGw"
       },
@@ -531,6 +547,22 @@
       "duration_ms": 173174,
       "name": "Holy Roller",
       "url": "https://open.spotify.com/track/3q7kMFce0TnDafVUzq8IpE"
+    },
+    {
+      "added_at": "2023-05-11 23:00:00",
+      "album": {
+        "name": "Vore",
+        "url": "https://open.spotify.com/album/3VjYAhNuyNAWqTIzvSyXml"
+      },
+      "artists": [
+        {
+          "name": "Sleep Token",
+          "url": "https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6"
+        }
+      ],
+      "duration_ms": 339606,
+      "name": "Vore",
+      "url": "https://open.spotify.com/track/3lYdGoYMQVn8ywkbd6X6fZ"
     },
     {
       "added_at": "2023-05-11 23:00:00",
@@ -615,22 +647,6 @@
     {
       "added_at": "2023-05-11 23:00:00",
       "album": {
-        "name": "Welcome To Horrorwood: The Silver Scream 2",
-        "url": "https://open.spotify.com/album/4PyOq7kavqglGk3cexcygx"
-      },
-      "artists": [
-        {
-          "name": "Ice Nine Kills",
-          "url": "https://open.spotify.com/artist/52qKfVcIV4GS8A8Vay2xtt"
-        }
-      ],
-      "duration_ms": 224586,
-      "name": "Funeral Derangements",
-      "url": "https://open.spotify.com/track/1m2kn7VbKCD7jKaDq975SQ"
-    },
-    {
-      "added_at": "2023-05-11 23:00:00",
-      "album": {
         "name": "Shivering",
         "url": "https://open.spotify.com/album/2dRmLEMsxRhidLzay43XP5"
       },
@@ -699,6 +715,22 @@
       "duration_ms": 269466,
       "name": "We\u2019ll Be Back",
       "url": "https://open.spotify.com/track/1Ap9wotYS99H8R17VONySZ"
+    },
+    {
+      "added_at": "2023-05-11 23:00:00",
+      "album": {
+        "name": "Welcome To Horrorwood: The Silver Scream 2",
+        "url": "https://open.spotify.com/album/4PyOq7kavqglGk3cexcygx"
+      },
+      "artists": [
+        {
+          "name": "Ice Nine Kills",
+          "url": "https://open.spotify.com/artist/52qKfVcIV4GS8A8Vay2xtt"
+        }
+      ],
+      "duration_ms": 224586,
+      "name": "Funeral Derangements",
+      "url": "https://open.spotify.com/track/1m2kn7VbKCD7jKaDq975SQ"
     },
     {
       "added_at": "2023-05-11 23:00:00",
@@ -797,6 +829,22 @@
       "url": "https://open.spotify.com/track/7lRsKDo94Xy3y1uqash1Xv"
     },
     {
+      "added_at": "2023-05-19 12:30:36",
+      "album": {
+        "name": "Gila Monster",
+        "url": "https://open.spotify.com/album/7o29QKPMZsDZ64DDBrzQzN"
+      },
+      "artists": [
+        {
+          "name": "King Gizzard & The Lizard Wizard",
+          "url": "https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn"
+        }
+      ],
+      "duration_ms": 275774,
+      "name": "Gila Monster",
+      "url": "https://open.spotify.com/track/7zHiG2FFEpeGvBmJkgZzVv"
+    },
+    {
       "added_at": "2023-05-11 23:00:00",
       "album": {
         "name": "72 Seasons",
@@ -867,42 +915,6 @@
     {
       "added_at": "2023-05-11 23:00:00",
       "album": {
-        "name": "EXPLOSIONS",
-        "url": "https://open.spotify.com/album/4drZZN0HTkJzcdlPmmQyqG"
-      },
-      "artists": [
-        {
-          "name": "Three Days Grace",
-          "url": "https://open.spotify.com/artist/2xiIXseIJcq3nG7C8fHeBj"
-        },
-        {
-          "name": "Lukas Rossi",
-          "url": "https://open.spotify.com/artist/419YiM0RHQExEtnMTMaIID"
-        }
-      ],
-      "duration_ms": 197253,
-      "name": "Neurotic (feat. Lukas Rossi)",
-      "url": "https://open.spotify.com/track/6JfNf81zML3XVFXZbbtyZ8"
-    },
-    {
-      "added_at": "2023-05-11 23:00:00",
-      "album": {
-        "name": "IMPERA",
-        "url": "https://open.spotify.com/album/3fn4HfVz5dhmE0PG24rh6h"
-      },
-      "artists": [
-        {
-          "name": "Ghost",
-          "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
-        }
-      ],
-      "duration_ms": 348333,
-      "name": "Watcher In The Sky",
-      "url": "https://open.spotify.com/track/5ZZfo37znoAbkxbrt5YvJD"
-    },
-    {
-      "added_at": "2023-05-11 23:00:00",
-      "album": {
         "name": "Do Or Die",
         "url": "https://open.spotify.com/album/4IDkIjuZLrkW8XFrcjQmw9"
       },
@@ -935,6 +947,42 @@
       "duration_ms": 211848,
       "name": "a new moral low ground",
       "url": "https://open.spotify.com/track/2XNJNwSOq8tLWhQ5a9sGBb"
+    },
+    {
+      "added_at": "2023-05-11 23:00:00",
+      "album": {
+        "name": "EXPLOSIONS",
+        "url": "https://open.spotify.com/album/4drZZN0HTkJzcdlPmmQyqG"
+      },
+      "artists": [
+        {
+          "name": "Three Days Grace",
+          "url": "https://open.spotify.com/artist/2xiIXseIJcq3nG7C8fHeBj"
+        },
+        {
+          "name": "Lukas Rossi",
+          "url": "https://open.spotify.com/artist/419YiM0RHQExEtnMTMaIID"
+        }
+      ],
+      "duration_ms": 197253,
+      "name": "Neurotic (feat. Lukas Rossi)",
+      "url": "https://open.spotify.com/track/6JfNf81zML3XVFXZbbtyZ8"
+    },
+    {
+      "added_at": "2023-05-11 23:00:00",
+      "album": {
+        "name": "IMPERA",
+        "url": "https://open.spotify.com/album/3fn4HfVz5dhmE0PG24rh6h"
+      },
+      "artists": [
+        {
+          "name": "Ghost",
+          "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
+        }
+      ],
+      "duration_ms": 348333,
+      "name": "Watcher In The Sky",
+      "url": "https://open.spotify.com/track/5ZZfo37znoAbkxbrt5YvJD"
     },
     {
       "added_at": "2023-05-11 23:00:00",
@@ -1139,18 +1187,22 @@
     {
       "added_at": "2023-05-11 23:00:00",
       "album": {
-        "name": "The Hope Of A Spark",
-        "url": "https://open.spotify.com/album/5AAt0X7T9p81HEqIQUdzKp"
+        "name": "More Than Misery",
+        "url": "https://open.spotify.com/album/4cRfSvpKfy82la7s16tDXB"
       },
       "artists": [
         {
-          "name": "Atreyu",
-          "url": "https://open.spotify.com/artist/3LkSiHbjqOHCKCqBfEZOTv"
+          "name": "Caskets",
+          "url": "https://open.spotify.com/artist/2XIbOWDT5vZPW7jNyzdfcK"
+        },
+        {
+          "name": "Telle Smith",
+          "url": "https://open.spotify.com/artist/6TJsR6vSedN4JuPe60rowc"
         }
       ],
-      "duration_ms": 175205,
-      "name": "God/Devil",
-      "url": "https://open.spotify.com/track/0R1UIAnWQaaGLiX4oxzdzl"
+      "duration_ms": 221531,
+      "name": "More Than Misery",
+      "url": "https://open.spotify.com/track/3LzJLwxUIzeYWO4uFGA0rD"
     },
     {
       "added_at": "2023-05-11 23:00:00",
@@ -1191,6 +1243,22 @@
     {
       "added_at": "2023-05-11 23:00:00",
       "album": {
+        "name": "The Hope Of A Spark",
+        "url": "https://open.spotify.com/album/5AAt0X7T9p81HEqIQUdzKp"
+      },
+      "artists": [
+        {
+          "name": "Atreyu",
+          "url": "https://open.spotify.com/artist/3LkSiHbjqOHCKCqBfEZOTv"
+        }
+      ],
+      "duration_ms": 175205,
+      "name": "God/Devil",
+      "url": "https://open.spotify.com/track/0R1UIAnWQaaGLiX4oxzdzl"
+    },
+    {
+      "added_at": "2023-05-11 23:00:00",
+      "album": {
         "name": "Won\u2019t Stand Down",
         "url": "https://open.spotify.com/album/3bbeAIMaGSW6gUMeGqw5VS"
       },
@@ -1219,26 +1287,6 @@
       "duration_ms": 321708,
       "name": "Zeit",
       "url": "https://open.spotify.com/track/6eOGjyegLDZqCvCZ3divgp"
-    },
-    {
-      "added_at": "2023-05-11 23:00:00",
-      "album": {
-        "name": "More Than Misery",
-        "url": "https://open.spotify.com/album/4cRfSvpKfy82la7s16tDXB"
-      },
-      "artists": [
-        {
-          "name": "Caskets",
-          "url": "https://open.spotify.com/artist/2XIbOWDT5vZPW7jNyzdfcK"
-        },
-        {
-          "name": "Telle Smith",
-          "url": "https://open.spotify.com/artist/6TJsR6vSedN4JuPe60rowc"
-        }
-      ],
-      "duration_ms": 221531,
-      "name": "More Than Misery",
-      "url": "https://open.spotify.com/track/3LzJLwxUIzeYWO4uFGA0rD"
     },
     {
       "added_at": "2023-05-11 23:00:00",
@@ -1299,38 +1347,6 @@
     {
       "added_at": "2023-05-11 23:00:00",
       "album": {
-        "name": "Zick Zack",
-        "url": "https://open.spotify.com/album/0J2ajcf51h4z7bTsmMY0X8"
-      },
-      "artists": [
-        {
-          "name": "Rammstein",
-          "url": "https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP"
-        }
-      ],
-      "duration_ms": 244365,
-      "name": "Zick Zack",
-      "url": "https://open.spotify.com/track/5hPxC9i9lj9pJwg7DK2MvC"
-    },
-    {
-      "added_at": "2023-05-11 23:00:00",
-      "album": {
-        "name": "Back From the Dead",
-        "url": "https://open.spotify.com/album/27Bw4tTQWjEv3jpp6ynGfu"
-      },
-      "artists": [
-        {
-          "name": "Halestorm",
-          "url": "https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech"
-        }
-      ],
-      "duration_ms": 207445,
-      "name": "The Steeple",
-      "url": "https://open.spotify.com/track/09XBDPqHnevLn54rpRMjkZ"
-    },
-    {
-      "added_at": "2023-05-11 23:00:00",
-      "album": {
         "name": "THE OTHER ONE",
         "url": "https://open.spotify.com/album/0gboAM5pPE6N4WBgCmq70t"
       },
@@ -1347,34 +1363,18 @@
     {
       "added_at": "2023-05-11 23:00:00",
       "album": {
-        "name": "Set Fazers",
-        "url": "https://open.spotify.com/album/1fZ1mUfz95fU8yXVHkWv3K"
+        "name": "Back From the Dead",
+        "url": "https://open.spotify.com/album/27Bw4tTQWjEv3jpp6ynGfu"
       },
       "artists": [
         {
-          "name": "Skindred",
-          "url": "https://open.spotify.com/artist/3jTlKw98Ql1jGRPYqhqHap"
+          "name": "Halestorm",
+          "url": "https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech"
         }
       ],
-      "duration_ms": 195320,
-      "name": "Set Fazers",
-      "url": "https://open.spotify.com/track/1cFTzMVTrgYTXT6Ed4KsRr"
-    },
-    {
-      "added_at": "2023-05-11 23:00:00",
-      "album": {
-        "name": "Darker Still",
-        "url": "https://open.spotify.com/album/36McCMdCRYn5j6iSMiqdG4"
-      },
-      "artists": [
-        {
-          "name": "Parkway Drive",
-          "url": "https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo"
-        }
-      ],
-      "duration_ms": 410773,
-      "name": "Darker Still",
-      "url": "https://open.spotify.com/track/37O5phPvMfJZBIscgXlw4a"
+      "duration_ms": 207445,
+      "name": "The Steeple",
+      "url": "https://open.spotify.com/track/09XBDPqHnevLn54rpRMjkZ"
     }
   ],
   "unique_name": "The Pit",

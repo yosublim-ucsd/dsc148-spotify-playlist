@@ -1,12 +1,12 @@
 {
   "description": "Unas buenas cumbias con el calor de la gente! \nFoto: Ke Personajes.",
-  "num_followers": 117942,
+  "num_followers": 118033,
   "original_name": "Vivo de Cumbia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3Y2I3NmJlMzZkMmU0YzZlMTc3YTFkNzdhYzZkZmZmYTFhNGQ1MWY3",
+  "snapshot_id": "MCwzZDQxZTU4YzNmODE1OWM2MmQyMTg4M2FkOTZmNzFlZDEwZGUxZDli",
   "tracks": [
     {
       "added_at": "2023-04-24 17:42:58",
@@ -571,18 +571,18 @@
     {
       "added_at": "2023-04-24 17:42:58",
       "album": {
-        "name": "La Gira y La Serenata",
-        "url": "https://open.spotify.com/album/4aL7XH9coMCuXOSwdjVI1n"
+        "name": "En Vivo",
+        "url": "https://open.spotify.com/album/0wdwM7dPqceHeIdCXL5UGL"
       },
       "artists": [
         {
-          "name": "La Delio Valdez",
-          "url": "https://open.spotify.com/artist/3tzacGOmngxUV8W8lU9h3Q"
+          "name": "Los del Fuego",
+          "url": "https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24"
         }
       ],
-      "duration_ms": 291054,
-      "name": "Pedazo De Papel - En Vivo En El Luna Park",
-      "url": "https://open.spotify.com/track/5YvQDYGtXIbyWu6hH1FFXY"
+      "duration_ms": 71981,
+      "name": "Persiana Americana - En Vivo",
+      "url": "https://open.spotify.com/track/2wTDMjqzZzpSsQ0R56uXBL"
     },
     {
       "added_at": "2023-04-24 17:42:58",
@@ -619,18 +619,18 @@
     {
       "added_at": "2023-04-24 17:42:58",
       "album": {
-        "name": "En Vivo",
-        "url": "https://open.spotify.com/album/0wdwM7dPqceHeIdCXL5UGL"
+        "name": "La Gira y La Serenata",
+        "url": "https://open.spotify.com/album/4aL7XH9coMCuXOSwdjVI1n"
       },
       "artists": [
         {
-          "name": "Los del Fuego",
-          "url": "https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24"
+          "name": "La Delio Valdez",
+          "url": "https://open.spotify.com/artist/3tzacGOmngxUV8W8lU9h3Q"
         }
       ],
-      "duration_ms": 71981,
-      "name": "Persiana Americana - En Vivo",
-      "url": "https://open.spotify.com/track/2wTDMjqzZzpSsQ0R56uXBL"
+      "duration_ms": 291054,
+      "name": "Pedazo De Papel - En Vivo En El Luna Park",
+      "url": "https://open.spotify.com/track/5YvQDYGtXIbyWu6hH1FFXY"
     },
     {
       "added_at": "2023-04-24 17:42:58",
@@ -995,6 +995,22 @@
     {
       "added_at": "2023-04-24 17:42:58",
       "album": {
+        "name": "Mi Vida (En Vivo)",
+        "url": "https://open.spotify.com/album/5ljoydw3UBy6FlAdX02wxD"
+      },
+      "artists": [
+        {
+          "name": "Daniel Agostini",
+          "url": "https://open.spotify.com/artist/3NSJOyQdSXncJloHqhwlQB"
+        }
+      ],
+      "duration_ms": 439586,
+      "name": "Boquita De Caramelo / Una Copita Mas / Porque Yo / Otra Noche De Amor",
+      "url": "https://open.spotify.com/track/6AqhV2E7fO7tENpESQFhXv"
+    },
+    {
+      "added_at": "2023-04-24 17:42:58",
+      "album": {
         "name": "Que Vuelvas (En Vivo)",
         "url": "https://open.spotify.com/album/55f3uyiaumuYOnewFODFYD"
       },
@@ -1011,18 +1027,18 @@
     {
       "added_at": "2023-04-24 17:42:58",
       "album": {
-        "name": "Mi Vida (En Vivo)",
-        "url": "https://open.spotify.com/album/5ljoydw3UBy6FlAdX02wxD"
+        "name": "Me Olvide de Ti (En Vivo)",
+        "url": "https://open.spotify.com/album/3BFgkhcKON3CF5SDUMoCZE"
       },
       "artists": [
         {
-          "name": "Daniel Agostini",
-          "url": "https://open.spotify.com/artist/3NSJOyQdSXncJloHqhwlQB"
+          "name": "18 Kilates",
+          "url": "https://open.spotify.com/artist/2rqtqFiCGyzaRSYdgMiMNC"
         }
       ],
-      "duration_ms": 439586,
-      "name": "Boquita De Caramelo / Una Copita Mas / Porque Yo / Otra Noche De Amor",
-      "url": "https://open.spotify.com/track/6AqhV2E7fO7tENpESQFhXv"
+      "duration_ms": 128072,
+      "name": "Me Olvide de Ti - En Vivo",
+      "url": "https://open.spotify.com/track/4RHxezAdnkrKuVUSc4pXiQ"
     },
     {
       "added_at": "2023-04-24 17:42:58",
@@ -1043,22 +1059,6 @@
       "duration_ms": 195973,
       "name": "Estoy Buscando un Amor - En Vivo",
       "url": "https://open.spotify.com/track/1B0GuAZXeOEa41BWuax8UH"
-    },
-    {
-      "added_at": "2023-04-24 17:42:58",
-      "album": {
-        "name": "Me Olvide de Ti (En Vivo)",
-        "url": "https://open.spotify.com/album/3BFgkhcKON3CF5SDUMoCZE"
-      },
-      "artists": [
-        {
-          "name": "18 Kilates",
-          "url": "https://open.spotify.com/artist/2rqtqFiCGyzaRSYdgMiMNC"
-        }
-      ],
-      "duration_ms": 128072,
-      "name": "Me Olvide de Ti - En Vivo",
-      "url": "https://open.spotify.com/track/4RHxezAdnkrKuVUSc4pXiQ"
     },
     {
       "added_at": "2023-04-24 17:42:58",

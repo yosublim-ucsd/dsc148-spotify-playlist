@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ve1H90mNWg.md) - [plain]
 
 > Texas music breaking waves.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,562 likes - 59 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,583 likes - 59 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,4 +68,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ve1H90mNWg.md) - [plain]
 | 58 | [OMW](https://open.spotify.com/track/6qQaMp90byJsvxSZpr7giU) | [Ashton Travis](https://open.spotify.com/artist/5QFkhK4qG4aIeYZIWg2DO8) | [OMW](https://open.spotify.com/album/7xrrxzWwXkWABoMN3pOdGZ) | 2:38 |
 | 59 | [Beat It](https://open.spotify.com/track/292VIEU184tvEQZs078qwX) | [GBaby Chef](https://open.spotify.com/artist/2QsVdFDTfUZDAGCcuPSCb3) | [ON GOD](https://open.spotify.com/album/0IULJ9DSDmldUP1FFHVfD7) | 2:26 |
 
-Snapshot ID: `MCwxZTdkNjI4M2U4MmU4NmQ5YzQ2MGFmYWEwNzM3OTRjMWNlNWU4Y2I2`
+Snapshot ID: `MCxjMzMxNjVkNTkwNDNmNjYxNDM0NzViYzJmNTM0NzU5OTUxOWZhZTkx`

@@ -4,13 +4,14 @@
 
 > Celebrating the iconic tracks from the black queer club scene in 1980s and 1990s Chicago \- the defining era of house music\. Cover: Frankie Knuckles
 
-73 songs - 7 hr 39 min
+75 songs - 7 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [A Day in the Life \(Club Mix\)](https://open.spotify.com/track/0dUXcsRSXJbcEO2gMn5ZSL) | [Black Riot](https://open.spotify.com/artist/4sLofiS3YMOswjbgV1XImk) | [A Day In The Life](https://open.spotify.com/album/5jABk8nkssGKaFIKwaEEDf) | 5:35 | 2021-06-01 |  |
 | [A.I.E\. \- The L.L\. Club Mix](https://open.spotify.com/track/4ojWUlwqe20RDxfTunZSEH) | [La Compagnie Créole](https://open.spotify.com/artist/4GFqys2YA5hdCl4P2pdX3h), [Larry Levan](https://open.spotify.com/artist/7wxPD9vDsKD5OuHCeWgXRm) | [A.I.E\. \(Larry Levan Remixes\)](https://open.spotify.com/album/5DDnG0c9KJqwF4VePStSGZ) | 7:18 | 2021-06-01 |  |
-| [Acid Thunder](https://open.spotify.com/track/25cVyUYzONCdHUeFWKbOol) | [Fast Eddie](https://open.spotify.com/artist/19slOlozrbxkEIMD8L3Qsv) | [Jack to the Sound](https://open.spotify.com/album/3igGT17KIQSSgdugsQELLh) | 4:32 | 2021-06-01 |  |
+| [Acid Thunder](https://open.spotify.com/track/25cVyUYzONCdHUeFWKbOol) | [Fast Eddie](https://open.spotify.com/artist/19slOlozrbxkEIMD8L3Qsv) | [Jack to the Sound](https://open.spotify.com/album/3igGT17KIQSSgdugsQELLh) | 4:32 | 2021-06-01 | 2023-05-20 |
+| [Acid Thunder](https://open.spotify.com/track/2NTqxccIvg6wlA8xnQDN4F) | [Fast Eddie](https://open.spotify.com/artist/19slOlozrbxkEIMD8L3Qsv) | [Jack to the Sound](https://open.spotify.com/album/0KByzJihmyYCbWcc8sQoba) | 4:32 | 2021-06-01 |  |
 | [Acid Thunder](https://open.spotify.com/track/2vR3tdPA1GsuIrJpmahB4X) | [Fast Eddie](https://open.spotify.com/artist/19slOlozrbxkEIMD8L3Qsv) | [Jack to the Sound](https://open.spotify.com/album/3lwFe9HmbSXyTjoWHlX9y9) | 4:32 | 2021-06-01 | 2022-07-29 |
 | [Acid Tracks](https://open.spotify.com/track/05kXJj11PCg7aIWvQxp683) | [Phuture](https://open.spotify.com/artist/4y7BsfdIKQ7Of5SskHej70) | [Acid Tracks](https://open.spotify.com/album/2ytfCSG1WHfz2LP2rGjQ1x) | 12:17 | 2021-06-01 | 2022-07-29 |
 | [Acid Tracks](https://open.spotify.com/track/2aLXJJ2zOsBJlGTxiG0yMi) | [Phuture](https://open.spotify.com/artist/4y7BsfdIKQ7Of5SskHej70) | [Acid Tracks](https://open.spotify.com/album/6g7DeZAKsyubcQpyWw7WZZ) | 12:17 | 2021-06-01 |  |
@@ -19,7 +20,8 @@
 | [Beautiful People \- Underground Network Mix](https://open.spotify.com/track/6WnWvRVzXJWEHxkhDKmt8u) | [Barbara Tucker](https://open.spotify.com/artist/6txh5tFMJyxSwT0iE7wX2w) | [Beautiful People \(Remixes\)](https://open.spotify.com/album/4FjqVqy1KwVl5VinivSgKN) | 9:06 | 2021-06-01 |  |
 | [Bring Down the Walls \- Club 12" Mix](https://open.spotify.com/track/5B877qrirzwdOZUzNZ8GJj) | [Robert Owens](https://open.spotify.com/artist/407nV5hO7mZap3UJdpTr4t) | [Sources \- The Trax Records Anthology Compiled by Bill Brewster](https://open.spotify.com/album/1k8Bqa4KCK7ihCuyljIoBC) | 5:37 | 2021-06-01 |  |
 | [Can U Dance](https://open.spotify.com/track/3poyzqZ7oCNWEQQbNDdxJG) | [Kenny Jason](https://open.spotify.com/artist/49BbzHPrQAPcJKg79Ef2aB), [Dj Fast Eddie](https://open.spotify.com/artist/5lXVbldEpBEB9PWoNKokut) | [Colours of House Music, Vol\. 1 \(Essential Collection of House Music, Oldskool and Future Classixx\)](https://open.spotify.com/album/2zK1ok08vM1oGFXJt4mcw1) | 6:52 | 2021-06-01 | 2022-08-05 |
-| [Can U Dance \- Original](https://open.spotify.com/track/3fwERi4c7YGnHFEVnwGTQm) | [Fast Eddie](https://open.spotify.com/artist/19slOlozrbxkEIMD8L3Qsv) | [Can U Dance](https://open.spotify.com/album/4e14JHptqsfgqVlX0Z0NoI) | 6:52 | 2021-06-01 |  |
+| [Can U Dance \- Original](https://open.spotify.com/track/3fwERi4c7YGnHFEVnwGTQm) | [Fast Eddie](https://open.spotify.com/artist/19slOlozrbxkEIMD8L3Qsv) | [Can U Dance](https://open.spotify.com/album/4e14JHptqsfgqVlX0Z0NoI) | 6:52 | 2021-06-01 | 2023-05-20 |
+| [Can U Dance \- Original](https://open.spotify.com/track/6AxkOjxSv2lMNemScGfdMc) | [Fast Eddie](https://open.spotify.com/artist/19slOlozrbxkEIMD8L3Qsv) | [Can U Dance](https://open.spotify.com/album/05Itt9gUMoKbsQl8yXCnjX) | 6:52 | 2021-06-01 |  |
 | [Can You Party](https://open.spotify.com/track/0oWsLdL42QXWzHA1mzekTC) | [Royal House](https://open.spotify.com/artist/0daYmCWEivMhG9FsmwgyFL) | [Can You Party](https://open.spotify.com/album/6XDDcGr98kPfkv1FZ5fYoI) | 5:10 | 2021-06-01 |  |
 | [Can You Party \(Club Mix\)](https://open.spotify.com/track/6TeKFnwaPsXI35gaQEoR8z) | [Royal House](https://open.spotify.com/artist/0daYmCWEivMhG9FsmwgyFL) | [Can You Party](https://open.spotify.com/album/6XDDcGr98kPfkv1FZ5fYoI) | 6:04 | 2021-06-01 |  |
 | [Can't Get Enough \- Club](https://open.spotify.com/track/1Y1j6O3M0UFs508PiScqFA) | [Liz Torres](https://open.spotify.com/artist/7LI1GL4hWpWNZZqF0YOrBG) | [Original Acid House Tracks](https://open.spotify.com/album/2OAtpG4qmck9JB40ztJJpy) | 5:21 | 2021-06-01 |  |

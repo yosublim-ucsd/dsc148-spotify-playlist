@@ -4,7 +4,7 @@
 
 > The easy listening sound of Jazz\. Cover: Norah Jones
 
-220 songs - 14 hr 6 min
+221 songs - 14 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,7 +38,7 @@
 | [C'est si bon](https://open.spotify.com/track/7n5rnQbELuaeHJ8T4gU00m) | [Thomas Dutronc](https://open.spotify.com/artist/6ADpAfFsO5dJadJoBKv3nz), [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4), [Diana Krall](https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL) | [C’est si bon](https://open.spotify.com/album/1ONj7ygR1DJ7KvR0p1j5mI) | 3:24 | 2021-12-21 |  |
 | [Call Me](https://open.spotify.com/track/5iRxI8g8AxrQe6EpKYMtdN) | [Eliane Elias](https://open.spotify.com/artist/4qKIiUdFND09cgGOc5kfoR) | [Dreamer](https://open.spotify.com/album/5YfLvxcH8jCibShM4ogLUr) | 4:10 | 2021-12-21 |  |
 | [Calling You](https://open.spotify.com/track/0rAtoCCI9I2AnaoIpkoJeL) | [Viktoria Tolstoy](https://open.spotify.com/artist/7blyuo5sQPRB2tmtUf2SpZ), [Iiro Rantala](https://open.spotify.com/artist/5dP0K6UFJq6UOewk4qIKmL), [Nils Landgren](https://open.spotify.com/artist/6B3ZWSop1mrJd71rwFozVP) | [Meet Me at the Movies \(feat\. Iiro Rantala\)](https://open.spotify.com/album/0BfGtAxWnse4U1cIOZMyl4) | 5:44 | 2021-12-21 |  |
-| [Carry On](https://open.spotify.com/track/2SCGUEB8vEjck8Tx8uDILP) | [Sophia HP](https://open.spotify.com/artist/4eYLmtNzyrRE1gwqY7pvMe) | [Carry On](https://open.spotify.com/album/2ke7kTVLHYvxp7RTxY5y5G) | 3:48 | 2022-04-28 |  |
+| [Carry On](https://open.spotify.com/track/2SCGUEB8vEjck8Tx8uDILP) | [Sophia HP](https://open.spotify.com/artist/4eYLmtNzyrRE1gwqY7pvMe) | [Carry On](https://open.spotify.com/album/2ke7kTVLHYvxp7RTxY5y5G) | 3:48 | 2022-04-28 | 2023-05-20 |
 | [Castles in the Air](https://open.spotify.com/track/2EHOINS6ULWahXvResI7mo) | [Laura & Anton](https://open.spotify.com/artist/5zhAV9E0xJDguU5SBk39Zy) | [Castles in the Air](https://open.spotify.com/album/1gqx5mQl7BM8A1j5QtZt0S) | 3:53 | 2021-12-21 |  |
 | [Close to You](https://open.spotify.com/track/7IeAEMhtC2iFE910W1Ghvw) | [Hailey Tuck](https://open.spotify.com/artist/31xWBejhhuVdm9zRmCQuse) | [So in Love](https://open.spotify.com/album/4jb9ocOzo7N66hCss8dZVA) | 4:35 | 2022-08-29 |  |
 | [Close to You \- 2018 Remaster](https://open.spotify.com/track/6uQ6RYJ0Brt4laZCLF9gKC) | [Steve Tyrell](https://open.spotify.com/artist/2UPnuV7os71xTZTyyEgj1B) | [Back to Bacharach \(Expanded Edition\)](https://open.spotify.com/album/0wfkSewGh40HvJ2Mo48kiJ) | 3:43 | 2021-12-21 |  |
@@ -95,6 +95,7 @@
 | [I'm Gonna Sit Right Down And Write Myself A Letter](https://open.spotify.com/track/5gZeO99hPC7esm5oOqIllA) | [Paul McCartney](https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB) | [Kisses On The Bottom](https://open.spotify.com/album/0qEe6hPN9ybmHeLC5Y228X) | 2:35 | 2021-12-21 | 2022-07-29 |
 | [I'm In The Mood For Love](https://open.spotify.com/track/7s5Xd6BLaZfkr6C3tgR4Ow) | [Rod Stewart](https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT) | [The Complete Great American Songbook](https://open.spotify.com/album/3xUOObdRU9f2wblHafYx0j) | 3:06 | 2021-12-21 |  |
 | [I'm the Sky, I'm the Earth](https://open.spotify.com/track/1Z1Smvor04ZbmXWzEjhKoT) | [Deniz Taşar](https://open.spotify.com/artist/2Z7riPm17MlJxHaIFnQwP6), [Halil Çağlar Serin](https://open.spotify.com/artist/7kxam8m0RJa1CvcEm7ufmd) | [I'm the Sky, I'm the Earth](https://open.spotify.com/album/2QwPH97GI2FZtSIde5XYtq) | 2:55 | 2022-05-31 | 2022-12-04 |
+| [I've Drawn Your Face](https://open.spotify.com/track/3YNPJrSGsLw0MmJ0IEFySz) | [Rachael & Vilray](https://open.spotify.com/artist/3UHyuBA5qay3xcxFr3Z1Y9) | [I Love A Love Song!](https://open.spotify.com/album/0j551HTufOYW6EJ9CQwNrD) | 3:41 | 2023-05-18 |  |
 | [I've Got A Crush On You](https://open.spotify.com/track/2ujJJsaTQ78ReHWY9Nnwh1) | [Stacey Kent](https://open.spotify.com/artist/03EYBMnqSchCMp5D9qmFXi), [Colin Oxley](https://open.spotify.com/artist/6Qs92KB5NHAzQ3NsLfZ6qs), [David Newton](https://open.spotify.com/artist/3ecO9MnClCeQeRCPLzAEgy), [Jasper Kviberg](https://open.spotify.com/artist/7HLQsg7VWG5Xmx9dwrbWBy), [Jim Tomlinson](https://open.spotify.com/artist/5L3fIRSYQCR3EJwQICfyRq), [Simon Thorpe](https://open.spotify.com/artist/73R87wFxKX8jZu9zdfFSmm) | [Dreamsville](https://open.spotify.com/album/3wbSnWt0hXtrYn2Yiwi4Xq) | 4:43 | 2022-09-08 | 2022-09-30 |
 | [I've Got You Under My Skin](https://open.spotify.com/track/0YtdBOitNPB7oYgLvm2z8g) | [Matt Dusk](https://open.spotify.com/artist/1UbA3tvm40VqUsiFlJaPCs) | [I've Got You Under My Skin](https://open.spotify.com/album/4ygkbddQCe8tUTaaRdpppP) | 3:29 | 2021-12-21 |  |
 | [I've Never Been In Love Before](https://open.spotify.com/track/4IqrPu63viykyz34gUYKAx) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Everything I Know About Love](https://open.spotify.com/album/0Ydm84ftyiWRGOIFkdl30L) | 3:42 | 2022-10-27 |  |

@@ -214,7 +214,7 @@
       ],
       "date_added": "2022-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 161785,
       "name": "Glittering Falls",
       "url": "https://open.spotify.com/track/6OPibbuc7jJPIE1KJ7zlJk"
@@ -527,6 +527,24 @@
     },
     {
       "album": {
+        "name": "Serene Waterfall",
+        "url": "https://open.spotify.com/album/1chUKjNIU3dbDSPl9ny23T"
+      },
+      "artists": [
+        {
+          "name": "Chroma World",
+          "url": "https://open.spotify.com/artist/3TIBtUQE47OmudD95MhKS2"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175000,
+      "name": "Serene Waterfall - Seamless",
+      "url": "https://open.spotify.com/track/2cEZ7TKsBYpfbSpQKJh1T3"
+    },
+    {
+      "album": {
         "name": "Shallow River Sounds",
         "url": "https://open.spotify.com/album/34ZUViIS2YqDboeWQqTP00"
       },
@@ -542,6 +560,24 @@
       "duration_ms": 180649,
       "name": "Shallow Rapid Flow",
       "url": "https://open.spotify.com/track/14EgXws2q9leMgGCukpRXS"
+    },
+    {
+      "album": {
+        "name": "Meditation Waterfall",
+        "url": "https://open.spotify.com/album/78efjczcIzHjNV12gdwgku"
+      },
+      "artists": [
+        {
+          "name": "The Nature Songs",
+          "url": "https://open.spotify.com/artist/6lsjtEbWnSnZfl4uEG24vF"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211678,
+      "name": "Sleeping Waterfall",
+      "url": "https://open.spotify.com/track/2210L8BNV1VdyCfz4C1DlP"
     },
     {
       "album": {
@@ -833,6 +869,24 @@
     },
     {
       "album": {
+        "name": "Green Noise Ambience",
+        "url": "https://open.spotify.com/album/4C190h0pKa73fARygNIjFN"
+      },
+      "artists": [
+        {
+          "name": "Natsound",
+          "url": "https://open.spotify.com/artist/1GJH8huKOcDNdAdgwExXnw"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172000,
+      "name": "Waterfall Green Noise",
+      "url": "https://open.spotify.com/track/1rsxq3LyrtliUBAc51VIaI"
+    },
+    {
+      "album": {
         "name": "Waterfall in the distance",
         "url": "https://open.spotify.com/album/2on28DnTVwyWX5gfG3G4dy"
       },
@@ -920,6 +974,24 @@
       "duration_ms": 168000,
       "name": "Waterfalls in the Distance (No Fade)",
       "url": "https://open.spotify.com/track/2Tfzr7lXi8B9zTcekESN7g"
+    },
+    {
+      "album": {
+        "name": "Wet Symphony",
+        "url": "https://open.spotify.com/album/5gV67xpmzRxc695hpUHItV"
+      },
+      "artists": [
+        {
+          "name": "Bona Nochy",
+          "url": "https://open.spotify.com/artist/7g1GgBFicHlx2TFzckGhfL"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154000,
+      "name": "Wet Symphony II (Waterfall)",
+      "url": "https://open.spotify.com/track/3IFbSOeemtQgUIIpM8xxZ3"
     },
     {
       "album": {

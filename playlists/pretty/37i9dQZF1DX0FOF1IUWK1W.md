@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0FOF1IUWK1W.md) - [plain]
 
 > MC Caverinha, KayBlack e os maiores hits do país\. O que tá bombando tá aqui.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,588,555 likes - 50 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,590,789 likes - 50 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0FOF1IUWK1W.md) - [plain]
 | 49 | [Covardia](https://open.spotify.com/track/5y7yYXNSsT89A27DQxbmUL) | [Wesley Safadão](https://open.spotify.com/artist/1AL2GKpmRrKXkYIcASuRFa), [Ana Castela](https://open.spotify.com/artist/2CKOmarVWvWqkNWUatHCex) | [Covardia](https://open.spotify.com/album/5Bqlwew4I7DSJ2nK0jR53u) | 2:30 |
 | 50 | [Zona De Perigo](https://open.spotify.com/track/1jHgfC8T5KxUyC5Ldw6lk9) | [Leo Santana](https://open.spotify.com/artist/7KVJCU4z5L4EUHILL8aMxR) | [Zona De Perigo](https://open.spotify.com/album/6dj4bRg0LCMm7B2P5Xenq5) | 2:22 |
 
-Snapshot ID: `MCxiOGI4OGY2NDQzOWVkZGI1ZTgyZGUxN2U0ZDY3Y2UyNjFiMjZiM2Ix`
+Snapshot ID: `MCxiZTdmMjQ3NDhhZmVjYTQxN2I5YzUxYTQ4YmM4NThhYTBjZDFjNTIy`

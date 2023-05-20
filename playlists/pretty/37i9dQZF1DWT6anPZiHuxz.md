@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT6anPZiHuxz.md) - [plain]
 
 > Pick up the pace to energetic remixes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 468,201 likes - 50 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 468,307 likes - 50 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,8 +26,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT6anPZiHuxz.md) - [plain]
 | 16 | [I'm Good \(Blue\) \- Tiësto Remix](https://open.spotify.com/track/7gLKUPLGMzPhw90Ara5ZEc) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb), [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [I'm Good \(Blue\) \[Remixes\]](https://open.spotify.com/album/2FoK9zElswjfRAYxDfspRd) | 2:58 |
 | 17 | [Green Green Grass \- Sam Feldt Remix](https://open.spotify.com/track/7hRssVtvUSR7WnqzrqOACT) | [George Ezra](https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j), [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf) | [Green Green Grass](https://open.spotify.com/album/7s2tI5Em7hNCF9vZK6K91Q) | 2:18 |
 | 18 | [Never Love You Again](https://open.spotify.com/track/676tQQmFrilCR8L7kxRcGd) | [Cheat Codes](https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU), [Little Big Town](https://open.spotify.com/artist/3CygdxquGHurS7f9LjNLkv), [Bryn Christopher](https://open.spotify.com/artist/7mWMzxN6IAIQ1tfFFtAiQv) | [Never Love You Again](https://open.spotify.com/album/7eWg7UKU6LsRSvXthmlmZZ) | 3:11 |
-| 19 | [Cold Heart \- PS1 Remix](https://open.spotify.com/track/5hw7bUv7NtrsepLROgIxLl) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b), [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we), [PS1](https://open.spotify.com/artist/7bZGP9ijvv55LOENT634Mj) | [Cold Heart \(PS1 Remix\)](https://open.spotify.com/album/0bwdYvNEEMESNEnudVRysj) | 2:46 |
-| 20 | [Ghost \- Merk & Kremont Remix](https://open.spotify.com/track/1SDE6NorcBVtssHzaWeRC4) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F), [Merk & Kremont](https://open.spotify.com/artist/5rRcnWrevHgbuWjl7Lhft7) | [Ghost \(Merk & Kremont Remix\)](https://open.spotify.com/album/3vuXaBdklxdSgIW8dHBoWo) | 2:53 |
+| 19 | [Ghost \- Merk & Kremont Remix](https://open.spotify.com/track/1SDE6NorcBVtssHzaWeRC4) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F), [Merk & Kremont](https://open.spotify.com/artist/5rRcnWrevHgbuWjl7Lhft7) | [Ghost \(Merk & Kremont Remix\)](https://open.spotify.com/album/3vuXaBdklxdSgIW8dHBoWo) | 2:53 |
+| 20 | [Cold Heart \- PS1 Remix](https://open.spotify.com/track/5hw7bUv7NtrsepLROgIxLl) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b), [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we), [PS1](https://open.spotify.com/artist/7bZGP9ijvv55LOENT634Mj) | [Cold Heart \(PS1 Remix\)](https://open.spotify.com/album/0bwdYvNEEMESNEnudVRysj) | 2:46 |
 | 21 | [Fly Away \(Jonas Blue Remix\)](https://open.spotify.com/track/2xsFQqgLKbYZNUVsbxtwpo) | [Tones And I](https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY) | [Fly Away \(Jonas Blue Remix\)](https://open.spotify.com/album/3jQOaHRiMgqxMN2qo1SZTJ) | 3:12 |
 | 22 | [My Universe \- Galantis Remix](https://open.spotify.com/track/1DlczmjByrS4qxRVfGjpqN) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU), [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX), [Galantis](https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu) | [My Universe \(Galantis Remix\)](https://open.spotify.com/album/7eMHMiz2uvtDDMbvKRJxlP) | 3:44 |
 | 23 | [Chasing Highs \- Felix Cartal Remix](https://open.spotify.com/track/6CSr11bPiFYJUzYo7vWiIw) | [ALMA](https://open.spotify.com/artist/6c0mTNAxJxlp9HpKTUZwA8), [Felix Cartal](https://open.spotify.com/artist/6roDXEmZ6AARdOUv6x5U2v) | [Chasing Highs \(Felix Cartal Remix\)](https://open.spotify.com/album/62e63ul1zthWxs5PhJ4s9j) | 3:40 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT6anPZiHuxz.md) - [plain]
 | 49 | [Chained To The Rhythm \- Oliver Heldens Remix](https://open.spotify.com/track/1j5jfLirlWsytWPm7rmfjk) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X), [Oliver Heldens](https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p) | [Chained To The Rhythm \(Oliver Heldens Remix\)](https://open.spotify.com/album/4XpOKbdbS8MtpN8z2c0dtW) | 4:36 |
 | 50 | [This Is Me \- Dave Audé Remix; from "The Greatest Showman"](https://open.spotify.com/track/1NNhZKNrg8WVmU6Ok8TDtO) | [Keala Settle](https://open.spotify.com/artist/7HV2RI2qNug4EcQqLbCAKS), [The Greatest Showman Ensemble](https://open.spotify.com/artist/63nv0hWWDob56Rk8GlNpN8), [Dave Audé](https://open.spotify.com/artist/1vWImodgVqIgTUkekGEfR9) | [This Is Me \(Dave Audé Remix; from "The Greatest Showman"\)](https://open.spotify.com/album/1bbOecKvywdyRfSBxKbbCO) | 3:36 |
 
-Snapshot ID: `MCxmNjczYjdlMTM3NGEzNDRhZDEyODFlYzMzM2I1M2E1OThiYWY4NTBj`
+Snapshot ID: `MCw5YjM2OWE0NjQzNGZkZjBkYzVhYjJiNGY2N2I2ZmVhMzBlMWJmZDcz`

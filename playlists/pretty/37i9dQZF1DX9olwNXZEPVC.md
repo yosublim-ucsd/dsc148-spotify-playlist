@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9olwNXZEPVC.md) - [plain]
 
 > Hear all of NMIXX's biggest and best hits in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,383 likes - 35 songs - 1 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,507 likes - 35 songs - 1 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,4 +44,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9olwNXZEPVC.md) - [plain]
 | 34 | [Thank you for waiting us!](https://open.spotify.com/track/28V8wFi1vHWkqmlzYqOTWQ) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [Now is the time! : We Are NMIXX](https://open.spotify.com/album/1NaADge8wCv2oCkMsOrTd6) | 0:21 |
 | 35 | [Coming SOON!](https://open.spotify.com/track/3XtqMBD1AR0wWFlQLiXQgC) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [Now is the time! : We Are NMIXX](https://open.spotify.com/album/1NaADge8wCv2oCkMsOrTd6) | 0:21 |
 
-Snapshot ID: `MCwzY2Q1MzExNTNlMzIyNTg5Yzg4ODJlNmMzMDY0MTk3ZjNiNTM3Zjgw`
+Snapshot ID: `MCxiM2M4ZGQ1MDQ3YzQ1ZmE2ODA3Y2YyYjcxNzY3MzY1YWMxNGQ5MGJj`

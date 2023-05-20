@@ -2,7 +2,7 @@
 
 ### [Dil Ka Sukoon](https://open.spotify.com/playlist/45sMfdAKJExVmFvBd2TwmU)
 
-> LOVE and SAD SONGS...🥺all time best hits ❤️‍🩹\(Hindi\), POV, Love songs, 2023\. 2022, Hits, Bollywood hits, Arijit Singh Hits
+> LOVE and SAD SONGS HINDI...🥺all time best hits ❤️‍🩹\(Hindi\), POV : you're in love, Emotional Songs, Love songs, 2023\. 2022, Top Hits, Bollywood hits, Arijit Singh Hits, Hindi Songs, Lofi, Soothing songs, Night songs, Broken, Romance
 
 139 songs - 10 hr 43 min
 

@@ -4,7 +4,7 @@
 
 > All <a href="spotify:genre:bass">wobble</a>\. Cover: Riot Ten
 
-352 songs - 20 hr 5 min
+353 songs - 20 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,7 +40,7 @@
 | [Bakin'](https://open.spotify.com/track/7mOcONitM15kWhBYr6fW1r) | [Fransis Derelle](https://open.spotify.com/artist/0SjiMVVtcOsDAOb4fKCCLn), [YKES](https://open.spotify.com/artist/1qHnyADaXNasNXl7aJn3op), [Peytn](https://open.spotify.com/artist/5Liz6tTU5sIQkKCDwQonov) | [Bakin'](https://open.spotify.com/album/5IcN6G9WOIw87haM2q63X9) | 2:56 | 2021-12-17 | 2022-07-28 |
 | [BDASWY](https://open.spotify.com/track/2tcP7gI5IbWf347fKSMh89) | [Deathpact](https://open.spotify.com/artist/09C3CKFxKEw1n1Z7kvT3jb) | [MIDHEAVEN: OPUS 03](https://open.spotify.com/album/7ez4I4pNTSj2Dv5NEH6s3l) | 2:27 | 2023-01-13 |  |
 | [Better Off Alone](https://open.spotify.com/track/6wPBOv9UlysxoASQgRPPkU) | [Kai Wachi](https://open.spotify.com/artist/2fNr4ldujwq97v1jWeqs8K), [RUNN](https://open.spotify.com/artist/3l0H4QNiYYNdIsnZ4JgJAg) | [Better Off Alone](https://open.spotify.com/album/3V32JmXZjr6NzCpEdev5A5) | 4:51 | 2021-12-17 | 2023-04-01 |
-| [Big Sound](https://open.spotify.com/track/40g1y1nbSchz2kJXhNPimt) | [Perry Wayne](https://open.spotify.com/artist/1sJO9NMvEseJKrVeXEwTqB) | [Big Sound](https://open.spotify.com/album/33b2Aw1rtYsW1puh8VBDFW) | 3:32 | 2023-05-12 |  |
+| [Big Sound](https://open.spotify.com/track/40g1y1nbSchz2kJXhNPimt) | [Perry Wayne](https://open.spotify.com/artist/1sJO9NMvEseJKrVeXEwTqB) | [Big Sound](https://open.spotify.com/album/33b2Aw1rtYsW1puh8VBDFW) | 3:32 | 2023-05-12 | 2023-05-20 |
 | [Black And Blue](https://open.spotify.com/track/2P0Zjj0EtelNoF1yoP1RhT) | [SNAILS](https://open.spotify.com/artist/2yT7X3Gg2S51DHz67FAYL6), [Zagata](https://open.spotify.com/artist/0t1AIXeal0Ft3mI8ML89JZ) | [Black And Blue](https://open.spotify.com/album/1Yd0NddTgPRW1iyWsUkWgY) | 3:36 | 2022-09-02 |  |
 | [BLACKED OUT](https://open.spotify.com/track/5b3igc7LT5skrpVDiljtrn) | [Hekler](https://open.spotify.com/artist/4FoQJyBgyhdDCb1wdEgNZh) | [BLACKED OUT](https://open.spotify.com/album/09JUuPTnUrAzTeDipHnQ1O) | 2:08 | 2023-01-06 | 2023-02-18 |
 | [Blackout](https://open.spotify.com/track/1PE5LrDuHq4maYBVmsWlHJ) | [Blanke](https://open.spotify.com/artist/59Yq0xrABEihHANsfo9QMT) | [Blackout](https://open.spotify.com/album/5spblclZJQbJPAHjRop7sl) | 3:00 | 2021-12-17 | 2022-03-12 |
@@ -345,6 +345,7 @@
 | [Trauma Queen](https://open.spotify.com/track/1kIXXNc6CUbi0xbnpSHJRc) | [Varien](https://open.spotify.com/artist/2g1JSu9UfRcQQYb3b03Km7) | [Trauma Queen](https://open.spotify.com/album/7sle2dPfKb5BMTocLlt0Bn) | 3:11 | 2023-03-10 |  |
 | [Trensetter](https://open.spotify.com/track/0WhTN2qunw2aYr9nDfqw6e) | [Kai Wachi](https://open.spotify.com/artist/2fNr4ldujwq97v1jWeqs8K) | [Trensetter](https://open.spotify.com/album/0VUgYoQKCWvIE8ptlTTH0R) | 2:17 | 2021-12-17 | 2022-05-07 |
 | [Turn It Up](https://open.spotify.com/track/64c7I8GWjcOqK8guyLmN8u) | [Slushii](https://open.spotify.com/artist/41rVuRHYAiH7ltBTHVR9We) | [Turn It Up](https://open.spotify.com/album/6uE9OqskHZdqjKMvwf8GYf) | 3:13 | 2021-12-17 | 2022-03-05 |
+| [Ultraviolent](https://open.spotify.com/track/3ADPEN0m92FLaY9Z0znhqd) | [Kill The Noise](https://open.spotify.com/artist/3qnMl4DHT4gndzFAcG4FlM), [Shadow Cliq](https://open.spotify.com/artist/3MwmjpfJvIoCarmc1eehbu) | [Ultraviolent](https://open.spotify.com/album/0ny82WM3w2ueTkE0u69FPf) | 2:48 | 2023-05-19 |  |
 | [UMBRA](https://open.spotify.com/track/4g3o3KScQl3MVW8THLDBVQ) | [Ace Aura](https://open.spotify.com/artist/5o2KBzYUFierWmBhSemAhq), [Voicians](https://open.spotify.com/artist/5DNApAt05XowaylsOJo1eW) | [UMBRA](https://open.spotify.com/album/59fWEADeIRqcLNbpLK93F6) | 3:37 | 2022-02-25 | 2023-04-01 |
 | [Underneath My Skin](https://open.spotify.com/track/26ZZUpJ2HO3aZUopW9b70h) | [HALIENE](https://open.spotify.com/artist/1sKIizVYeHkGy7Tjmn9QRj) | [Underneath My Skin](https://open.spotify.com/album/21jKherj2N4me9IDXxFujR) | 3:38 | 2022-07-22 | 2022-10-11 |
 | [Underneath My Skin \- Crankdat Remix](https://open.spotify.com/track/6JrgAMiQvbPcwZOwuK3oH0) | [HALIENE](https://open.spotify.com/artist/1sKIizVYeHkGy7Tjmn9QRj), [Crankdat](https://open.spotify.com/artist/5lCekoJW9jNq01B1wiqdAb) | [Underneath My Skin \(Crankdat Remix\)](https://open.spotify.com/album/0gUYlQaHWvJrmX6zEHLrQB) | 3:41 | 2022-11-11 |  |

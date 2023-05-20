@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6pJ4E78jhBi.md) - [plain]
 
 > Relax to these chilled instrumental Christmas tunes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,155 likes - 49 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,148 likes - 49 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6pJ4E78jhBi.md) - [plain]
 | 2 | [O Holy Night](https://open.spotify.com/track/4wps5wZL1C1ye4lzxgGA5P) | [Adolphe Adam](https://open.spotify.com/artist/71VUVLmoTKKYfIugkavMeS), [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [Home](https://open.spotify.com/album/0KEtzskgOyI7JeQGUkq5t1) | 3:09 |
 | 3 | [Have Yourself A Merry Little Christmas \(Arr\. Mackay\)](https://open.spotify.com/track/6oDXX38npeVEQhDMIkdXcM) | [Hugh Martin](https://open.spotify.com/artist/4n5HR9kS4Dhl1t685XlDhW), [Ralph Blane](https://open.spotify.com/artist/1iIajqbWEB7WRQUjzrz4qL), [Jess Gillam](https://open.spotify.com/artist/41OHse5xHr1E6wceODGrPB), [Oscar Holch](https://open.spotify.com/artist/0yAcZP2jxBzykyUu92Wm2Z), [Matthew Sharp](https://open.spotify.com/artist/0IivBy8bFH9oN4N5wWmGz7), [Sam Becker](https://open.spotify.com/artist/73hqztzJdaRVSQVgifV7MT), [Ming Liu](https://open.spotify.com/artist/1y6zFseZunoGSLcUk161Le) | [Have Yourself A Merry Little Christmas \(Arr\. Mackay\)](https://open.spotify.com/album/2VU6vUsCJNXjuVKpvJlgJP) | 3:05 |
 | 4 | [Happy Xmas \(War is Over\)](https://open.spotify.com/track/4nC5Ap034pzhNT7vfqGRpE) | [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3), [Yo\-Yo Ma](https://open.spotify.com/artist/5Dl3HXZjG6ZOWT5cV375lk) | [Songs of Joy & Peace](https://open.spotify.com/album/02kLBmx8yfEhWw8NJcwg10) | 4:45 |
-| 5 | [Ding Dong, Merrily On High](https://open.spotify.com/track/44KfRf2QBhyChudtmInTXX) | [Traditional](https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf), [Nigel Hess](https://open.spotify.com/artist/6Yfm54ap3yAaipvsCodUbx), [Royal Philharmonic Orchestra](https://open.spotify.com/artist/0MvSBMGRQJY3mRwIbJsqF1) | [Silent Nights \- Die schönsten Melodien für eine entspannte Weihnachtszeit](https://open.spotify.com/album/1mjRsFJ7thLFUuZtoZQeSS) | 4:29 |
+| 5 | [Ding Dong! Merrily On High](https://open.spotify.com/track/44KfRf2QBhyChudtmInTXX) | [Traditional](https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf), [Nigel Hess](https://open.spotify.com/artist/6Yfm54ap3yAaipvsCodUbx), [Royal Philharmonic Orchestra](https://open.spotify.com/artist/0MvSBMGRQJY3mRwIbJsqF1) | [Silent Nights \- Die schönsten Melodien für eine entspannte Weihnachtszeit](https://open.spotify.com/album/1mjRsFJ7thLFUuZtoZQeSS) | 4:29 |
 | 6 | [All I Want For Christmas Is You \- Instrumental](https://open.spotify.com/track/7mqyjMcNw4nifDnyhmSAxQ) | [Piano Man Sam](https://open.spotify.com/artist/7JJqk0ASV8zGJiBnrQUSbI) | [The Christmas Collection](https://open.spotify.com/album/4PuFVka05TTduMjo0tQWMC) | 2:52 |
 | 7 | [What Child Is This?](https://open.spotify.com/track/23zCWNIS8w4Bhi9Es2E5uh) | [Chad Lawson](https://open.spotify.com/artist/72uoxerTvAd7x3cbfYmNc8) | [A Solo Piano Christmas](https://open.spotify.com/album/2bG3qQqkhWssPLeGtEwvzY) | 4:18 |
 | 8 | [Sleep for Mama \(Icelandic Folk Song\)](https://open.spotify.com/track/2xI6xvh6At0gjyLeiMP9RC) | [Víkingur Ólafsson](https://open.spotify.com/artist/0iqgjl0OG3z53PZVIB7ZyD) | [Winter Tales](https://open.spotify.com/album/3o8RQHt67qDlpA3JRo59Pl) | 2:39 |
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6pJ4E78jhBi.md) - [plain]
 | 48 | [White Christmas](https://open.spotify.com/track/3Kmam37aGtUbQ2TPVrpwpX) | [Beegie Adair](https://open.spotify.com/artist/5gYIhpLwCYoxh3V8KANZpI), [David Davidson](https://open.spotify.com/artist/7aKDD7HslHdPuVECyvMqcI) | [Christmas Elegance](https://open.spotify.com/album/5npdxE8fnqpl6MWSWn40Hb) | 4:09 |
 | 49 | [Feliz Navidad](https://open.spotify.com/track/6fdLagw34w7uPH65UpGe7y) | [José Feliciano](https://open.spotify.com/artist/7K78lVZ8XzkjfRSI7570FF), [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [Home](https://open.spotify.com/album/0KEtzskgOyI7JeQGUkq5t1) | 4:23 |
 
-Snapshot ID: `MCw2MjAxZWJkMDY1NTNmZGIxMzQ1NmZjMzdiYThhMzExYWMyODU2YzU2`
+Snapshot ID: `MCxjMTlhYjUxZTgxZmI3ZjkzZTVkYTI4ODYwOTA3ZTNhYzE0NjkyZThi`

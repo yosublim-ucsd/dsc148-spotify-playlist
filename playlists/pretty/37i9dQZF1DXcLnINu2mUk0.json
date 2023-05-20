@@ -1,12 +1,12 @@
 {
   "description": "Chill rap e R&B: \u00c9 um mood suave e envolvente. Foto: Bispo e B\u00e1rbara Tinoco.",
-  "num_followers": 32720,
+  "num_followers": 32784,
   "original_name": "Seda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2ZWVhYzljNWJhMmM0NDkzMTI0ZGRmOTNkNGMyNzRkMzg4OTViZDdh",
+  "snapshot_id": "MCwwOTNkMDExYTg3NThhMTlhNTM3NTBkOTVlMDc3ZDk1OTBmNjIzYzk5",
   "tracks": [
     {
       "added_at": "2023-05-18 23:00:00",
@@ -615,22 +615,6 @@
     {
       "added_at": "2023-05-18 23:00:00",
       "album": {
-        "name": "Reflexo",
-        "url": "https://open.spotify.com/album/7zr66qWybr1mAMSUVVosKU"
-      },
-      "artists": [
-        {
-          "name": "Dillaz",
-          "url": "https://open.spotify.com/artist/15p1isN7VcGsjeSq8s9YeP"
-        }
-      ],
-      "duration_ms": 306733,
-      "name": "Saudade",
-      "url": "https://open.spotify.com/track/0dLrhO7oCMp0hQvXAUgbaC"
-    },
-    {
-      "added_at": "2023-05-18 23:00:00",
-      "album": {
         "name": "Eurotape",
         "url": "https://open.spotify.com/album/2azkUPSyLVWwW9fnf4z5a6"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 176000,
       "name": "Fada",
       "url": "https://open.spotify.com/track/6edj5SqkUWNCmwCjhcBCj0"
+    },
+    {
+      "added_at": "2023-05-18 23:00:00",
+      "album": {
+        "name": "Reflexo",
+        "url": "https://open.spotify.com/album/7zr66qWybr1mAMSUVVosKU"
+      },
+      "artists": [
+        {
+          "name": "Dillaz",
+          "url": "https://open.spotify.com/artist/15p1isN7VcGsjeSq8s9YeP"
+        }
+      ],
+      "duration_ms": 306733,
+      "name": "Saudade",
+      "url": "https://open.spotify.com/track/0dLrhO7oCMp0hQvXAUgbaC"
     },
     {
       "added_at": "2023-05-18 23:00:00",
@@ -1139,22 +1139,6 @@
     {
       "added_at": "2023-05-18 23:00:00",
       "album": {
-        "name": "Lua",
-        "url": "https://open.spotify.com/album/4Oyobh3tcmdIuf8c3nrkTj"
-      },
-      "artists": [
-        {
-          "name": "Curl",
-          "url": "https://open.spotify.com/artist/7y655l8CPBN1uuVpeZHQ5y"
-        }
-      ],
-      "duration_ms": 216831,
-      "name": "Lua",
-      "url": "https://open.spotify.com/track/1WjnWfl2X36CBYDB0Dtga0"
-    },
-    {
-      "added_at": "2023-05-18 23:00:00",
-      "album": {
         "name": "Golo",
         "url": "https://open.spotify.com/album/4xIBKZiRrMQVeL45RJmb3x"
       },
@@ -1167,6 +1151,22 @@
       "duration_ms": 145549,
       "name": "Golo",
       "url": "https://open.spotify.com/track/1u8ZgP6zZOdT9pUUrq3lfq"
+    },
+    {
+      "added_at": "2023-05-18 23:00:00",
+      "album": {
+        "name": "Lua",
+        "url": "https://open.spotify.com/album/4Oyobh3tcmdIuf8c3nrkTj"
+      },
+      "artists": [
+        {
+          "name": "Curl",
+          "url": "https://open.spotify.com/artist/7y655l8CPBN1uuVpeZHQ5y"
+        }
+      ],
+      "duration_ms": 216831,
+      "name": "Lua",
+      "url": "https://open.spotify.com/track/1WjnWfl2X36CBYDB0Dtga0"
     },
     {
       "added_at": "2023-05-18 23:00:00",
@@ -1247,22 +1247,6 @@
     {
       "added_at": "2023-05-18 23:00:00",
       "album": {
-        "name": "Ansiedade",
-        "url": "https://open.spotify.com/album/1Kfi0mBJUdV1GeIjHRu7kV"
-      },
-      "artists": [
-        {
-          "name": "DJ Danifox",
-          "url": "https://open.spotify.com/artist/58qqZsbpx5jsctoHd4qhpL"
-        }
-      ],
-      "duration_ms": 225781,
-      "name": "Chopper",
-      "url": "https://open.spotify.com/track/4iA8xKvYNeJeykj9XCZ2hn"
-    },
-    {
-      "added_at": "2023-05-18 23:00:00",
-      "album": {
         "name": "Yah!",
         "url": "https://open.spotify.com/album/1EBjP3zq575YxmWdP8NtJR"
       },
@@ -1275,6 +1259,22 @@
       "duration_ms": 168000,
       "name": "Yah!",
       "url": "https://open.spotify.com/track/1Kvz7W6IZop2tbX81Q6Q33"
+    },
+    {
+      "added_at": "2023-05-18 23:00:00",
+      "album": {
+        "name": "Ansiedade",
+        "url": "https://open.spotify.com/album/1Kfi0mBJUdV1GeIjHRu7kV"
+      },
+      "artists": [
+        {
+          "name": "DJ Danifox",
+          "url": "https://open.spotify.com/artist/58qqZsbpx5jsctoHd4qhpL"
+        }
+      ],
+      "duration_ms": 225781,
+      "name": "Chopper",
+      "url": "https://open.spotify.com/track/4iA8xKvYNeJeykj9XCZ2hn"
     },
     {
       "added_at": "2023-05-18 23:00:00",

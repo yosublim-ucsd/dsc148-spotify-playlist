@@ -4,7 +4,7 @@
 
 > håll det 100.
 
-990 songs - 1 day 19 hr 45 min
+991 songs - 1 day 19 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -192,6 +192,7 @@
 | [Casablanca](https://open.spotify.com/track/3TmRHAMDibBNkaPQ9MVX1c) | [MIGI](https://open.spotify.com/artist/6SQ1V0fuKnQGrLYE37Q1n3) | [Mode Avion](https://open.spotify.com/album/12bqfaU1WWmN4REkJOqQOd) | 2:11 | 2022-02-20 | 2022-03-11 |
 | [Casper](https://open.spotify.com/track/4GVHYARaXgEY4MsM1h3Ank) | [Faaka](https://open.spotify.com/artist/5nQm2hG8NRsFvtQqc6Ahzx) | [Älskar dig hatar dig](https://open.spotify.com/album/5txxX7l49EJTKjndxt4VGs) | 2:57 | 2023-03-16 | 2023-03-31 |
 | [Catfish](https://open.spotify.com/track/6lW1r61qewMDG7oJGVP1EZ) | [23](https://open.spotify.com/artist/2Dor6diK1zw9BEluKBOdoA), [VC Barre](https://open.spotify.com/artist/5QcMPl2wzC4KqivjfcyBIU) | [Selfmade \(Deluxe\)](https://open.spotify.com/album/1c3QSPsycCCADNQZopSJIV) | 2:30 | 2022-08-18 | 2022-10-21 |
+| [CATWALK](https://open.spotify.com/track/5YoHjWEXKCkJbRcvs8846Y) | [C.Gambino](https://open.spotify.com/artist/6eWjyO1r0QlvsIuIIcgGxI) | [CATWALK](https://open.spotify.com/album/0G2HYdfhqWeyuigwQdObeX) | 2:01 | 2023-05-19 |  |
 | [Cette](https://open.spotify.com/track/7weKhZ91X1VomupmVxzRfT) | [Romeo](https://open.spotify.com/artist/3TSLK8NFrFC8KqFwZlM58D), [Raees](https://open.spotify.com/artist/7qqX1NATkbO31TVxBYyNlJ) | [Cette](https://open.spotify.com/album/4btMWCWwDIcAFepciyJvxG) | 2:38 | 2022-06-17 | 2022-07-08 |
 | [CHANEL](https://open.spotify.com/track/00OLq302VLOyeznE7ql5yJ) | [Thrife](https://open.spotify.com/artist/6iNTGd6T0cxg1H8IIaZTlt) | [CHANEL](https://open.spotify.com/album/5E16Epa6gxLk6Xg3VzYnPz) | 2:34 | 2022-06-21 | 2022-08-06 |
 | [Chanser](https://open.spotify.com/track/4jNU1qP5ZRLIWTMZ3j2u2E) | [Rami](https://open.spotify.com/artist/1iAQ8OLfuXk1oOhZWUkvOR) | [Chanser](https://open.spotify.com/album/7tXaanra8ixoRoJkYuwx8j) | 3:03 | 2022-11-24 | 2023-01-20 |
@@ -918,7 +919,7 @@
 | [Va med mig](https://open.spotify.com/track/7cdRJLQRt8MDHQWiPOlbPS) | [Fl4ppie](https://open.spotify.com/artist/2Mc2vYVF2Mta7gBwhgc716) | [Lonely Child](https://open.spotify.com/album/3x7pjgc7Nj3N2wbRQjZRuA) | 2:45 | 2022-11-24 | 2022-12-09 |
 | [Vacay](https://open.spotify.com/track/1K5ADmHBpsaSdwBJHY6RGL) | [Seedy](https://open.spotify.com/artist/1iQU1h00vZTEnTiqL15gVv) | [NEW DRILLA IN TOWN](https://open.spotify.com/album/5DCR0bCZzBrvP9vWSuoCr3) | 2:05 | 2021-12-16 | 2022-01-28 |
 | [Vacker](https://open.spotify.com/track/0lIUJSC8eyYXwCbf9chmNY) | [Asme](https://open.spotify.com/artist/3M1eBsR4rSTcDAzYopumeG) | [Tusen Flows 2](https://open.spotify.com/album/1H93HESE9yuPqelE36PLCM) | 2:29 | 2022-04-28 | 2022-05-12 |
-| [Vad Du Vill](https://open.spotify.com/track/0AOYvRGNSt8uJOUEA2VAYB) | [24K](https://open.spotify.com/artist/4kKkAIpkNWG3XpUIl9yENt) | [Vad Du Vill](https://open.spotify.com/album/6xVhAolSHWRjvY0BcZrYIz) | 2:46 | 2023-03-30 |  |
+| [Vad Du Vill](https://open.spotify.com/track/0AOYvRGNSt8uJOUEA2VAYB) | [24K](https://open.spotify.com/artist/4kKkAIpkNWG3XpUIl9yENt) | [Vad Du Vill](https://open.spotify.com/album/6xVhAolSHWRjvY0BcZrYIz) | 2:46 | 2023-03-30 | 2023-05-20 |
 | [VAD DU VILL](https://open.spotify.com/track/4bfCJ74E4NaxgH9ZU99j6w) | [Aleksej](https://open.spotify.com/artist/3EQED8IPx0z2uR0H28Sc5J), [Steph K](https://open.spotify.com/artist/4vmK9BYZz3j7jEWiHQJU6G) | [VAD DU VILL](https://open.spotify.com/album/0aMwJ8VY7pe4tfB7sJBxEX) | 2:24 | 2023-05-18 |  |
 | [VAD E DE HÄR?](https://open.spotify.com/track/30wWZkgDfUCugZlBiaDCax) | [Jireel](https://open.spotify.com/artist/2EWsHDexsSInArfFkhA2i6) | [VAD E DE HÄR?](https://open.spotify.com/album/7c5UGlBUaND72lQ8lMesHv) | 2:41 | 2022-07-14 | 2022-09-30 |
 | [VaMeMej](https://open.spotify.com/track/1xx2dch3nmRjD5gCYFKUkx) | [D50](https://open.spotify.com/artist/1zMg0ur2T1UsRYtW9VNsLv) | [VaMeMej](https://open.spotify.com/album/0nEQTdFp5CxOiGG9uuzGcF) | 2:33 | 2022-09-08 | 2022-10-07 |

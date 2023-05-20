@@ -4,7 +4,7 @@
 
 > Domino present you with their selection of the best independent music around\. Enjoy!
 
-483 songs - 1 day 8 hr 48 min
+484 songs - 1 day 8 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -246,6 +246,7 @@
 | [it isnt fair](https://open.spotify.com/track/3tmuRI4UT2SghNi3Ppt2GI) | [piglet](https://open.spotify.com/artist/4AIvNjE7HJplcY1MxJplmP) | [it isnt fair](https://open.spotify.com/album/4C3LVzyMPr8DIlmQoMwQtl) | 3:03 | 2022-07-27 | 2022-09-15 |
 | [It Will Never Stop](https://open.spotify.com/track/7AbtmOXWdVNzh2NGX1mMqv) | [Sparklehorse](https://open.spotify.com/artist/64tVHZVSAZhDEiOJxnb6hE) | [It Will Never Stop](https://open.spotify.com/album/2BTHmANiamvDEZOUoSIP9t) | 1:50 | 2022-12-14 | 2023-02-09 |
 | [It's Art](https://open.spotify.com/track/1gAYnbHNrMS5ngedqDMn5r) | [The Bug Club](https://open.spotify.com/artist/7eiTMbuHYUPjrAMjIhAVDB) | [It's Art](https://open.spotify.com/album/0TXieMHWSUKWzlnOuBDGtA) | 1:49 | 2022-07-27 | 2022-09-15 |
+| [It's Euphoric \- Mura Masa Remix](https://open.spotify.com/track/1xAGqmVj5Asg1g8nUhEoFs) | [Georgia](https://open.spotify.com/artist/06knYh538h5SI7OAEF8ek3), [Mura Masa](https://open.spotify.com/artist/5Q81rlcTFh3k6DQJXPdsot) | [It's Euphoric \(Mura Masa Remix\)](https://open.spotify.com/album/2uxnyz1pomXCqsaJcBrVoJ) | 3:13 | 2023-05-19 |  |
 | [It's in Your Heart Now](https://open.spotify.com/track/5X1yiohWRv7RfGzjKz8XyN) | [Destroyer](https://open.spotify.com/artist/22ojy4H4ZVpowC4lRRC8In) | [LABYRINTHITIS](https://open.spotify.com/album/63bs2cLZO9wm6hvhovU1AU) | 6:55 | 2022-06-29 | 2022-08-11 |
 | [It's Just A Bit Of Blood](https://open.spotify.com/track/4o9xGMKJTiNRqLiSV9ZrR6) | [bdrmm](https://open.spotify.com/artist/4Cx5LnF4WNJIn9SSqyeq9C) | [It's Just A Bit Of Blood](https://open.spotify.com/album/6B1qz8kJ8VEnBAzVRM8UYC) | 4:46 | 2023-02-08 | 2023-03-16 |
 | [It's You](https://open.spotify.com/track/21sMYVKeuKzBWwSg5uYeVJ) | [LA Priest](https://open.spotify.com/artist/2JYMUWD8r1jFFjD1V3WcCX) | [It's You](https://open.spotify.com/album/68QR2RcoZoi8dMK0p0gLdm) | 4:45 | 2023-03-16 | 2023-05-04 |

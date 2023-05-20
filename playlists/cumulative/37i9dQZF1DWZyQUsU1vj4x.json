@@ -2549,6 +2549,24 @@
     },
     {
       "album": {
+        "name": "The Fall",
+        "url": "https://open.spotify.com/album/2S8EkNv3ZmaXYA9AYnjAVc"
+      },
+      "artists": [
+        {
+          "name": "Gregory Alan Isakov",
+          "url": "https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207586,
+      "name": "The Fall",
+      "url": "https://open.spotify.com/track/67ZPraK8Fpf4aDskXXs2XK"
+    },
+    {
+      "album": {
         "name": "The Navigator",
         "url": "https://open.spotify.com/album/3muvjEAtiu5JuPBRBNzIX9"
       },
@@ -2762,6 +2780,28 @@
       "duration_ms": 265506,
       "name": "Top Yourself",
       "url": "https://open.spotify.com/track/7w85ReRElKKmLNCbPaKPGN"
+    },
+    {
+      "album": {
+        "name": "Tragic Magic (Dream Version)",
+        "url": "https://open.spotify.com/album/4iJYb3HLJXRsmJHCLFq6Xt"
+      },
+      "artists": [
+        {
+          "name": "SYML",
+          "url": "https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0"
+        },
+        {
+          "name": "Hayden Calnin",
+          "url": "https://open.spotify.com/artist/19OAtq7pNHnBRKJORFeahx"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183045,
+      "name": "Tragic Magic - Dream Version",
+      "url": "https://open.spotify.com/track/6qF62tssDqn4EZ3FnBAa9q"
     },
     {
       "album": {

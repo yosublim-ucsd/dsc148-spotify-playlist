@@ -12180,10 +12180,28 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 235400,
       "name": "Standing In The Road",
       "url": "https://open.spotify.com/track/1twUkLH24ioT67ltYjZtFL"
+    },
+    {
+      "album": {
+        "name": "45s - The Original Hit Singles",
+        "url": "https://open.spotify.com/album/7yAZbe1CidQEuZ4FgsVwdr"
+      },
+      "artists": [
+        {
+          "name": "Blackfoot Sue",
+          "url": "https://open.spotify.com/artist/0H8FvrQmH0o7lTVjTzhEdS"
+        }
+      ],
+      "date_added": "2022-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235400,
+      "name": "Standing In The Road",
+      "url": "https://open.spotify.com/track/2T27PRYBNTu602ykPKdZ5S"
     },
     {
       "album": {

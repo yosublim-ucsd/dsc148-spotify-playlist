@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0khTY3HFA4M.md) - [plain]
 
 > Instrumental beats to chill to.
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,023 likes - 542 songs - 21 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,258 likes - 542 songs - 21 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -384,7 +384,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0khTY3HFA4M.md) - [plain]
 | 374 | [let's cancel brunch](https://open.spotify.com/track/4QnAAn6Oe43WpFoVKcinuh) | [flat.moon.society](https://open.spotify.com/artist/0OLMAT464ApMM9yAi03xdb), [Chill Select](https://open.spotify.com/artist/5orR9ec1E60lLb1U76m3ul) | [let's cancel brunch](https://open.spotify.com/album/3aD3Qs3YBaian2VrWM5XZ5) | 2:24 |
 | 375 | [Dusk](https://open.spotify.com/track/7iL9Wdr3cAO2rpTK4MO3ia) | [Arcadius](https://open.spotify.com/artist/0jSA3yg9tP1buSBeeVEvfq), [Calmas Records](https://open.spotify.com/artist/3xHHNJkwyots8LoDMxGD9k) | [Dusk](https://open.spotify.com/album/1FH5YUtaITRdlOcyazhvrf) | 2:39 |
 | 376 | [Rainy Days](https://open.spotify.com/track/1vQu2jxZ6Blc1nisozbPyl) | [thebombaypanic](https://open.spotify.com/artist/6EjKzk1a3EbiXT2TwPYGVo) | [Rainy Days](https://open.spotify.com/album/15B6spW7ItmHLtUq20jv5p) | 2:00 |
-| 377 | [Forest Night](https://open.spotify.com/track/1RczP8UtNq1EjslWqnok27) | [TossedOnion](https://open.spotify.com/artist/2HGhYrSNWvRYHNZnztDf0w) | [First Book](https://open.spotify.com/album/0jx4s5E8mLwUbKPZTuOrW1) | 1:44 |
+| 377 | [Forest Night](https://open.spotify.com/track/6EU2x7Sr4u51KvVvFSQPiX) | [TossedOnion](https://open.spotify.com/artist/2HGhYrSNWvRYHNZnztDf0w) | [First Book](https://open.spotify.com/album/4fL6CCN0WjjSblVxuawerq) | 1:44 |
 | 378 | [A Long Trip](https://open.spotify.com/track/2fZN1makWSSQxZ6z7x9lBY) | [Nessen](https://open.spotify.com/artist/2WX7ariBgaxbv7XOjO8GGt), [someday](https://open.spotify.com/artist/5qXb2k1THc04mE2x1QGxlv) | [A Long Trip](https://open.spotify.com/album/0wDGwdzzVGtaLyElCtEeLJ) | 2:19 |
 | 379 | [Siesta](https://open.spotify.com/track/4tCEvBMoB1S4FtyZwzvzRF) | [Jk Beatbook](https://open.spotify.com/artist/1MKTpWgmy1GOLELKgYsSBz) | [Siesta](https://open.spotify.com/album/0dKue5PyOxoUEKjz01S8RJ) | 2:24 |
 | 380 | [Dreams in Satin](https://open.spotify.com/track/2qUW2AlOovJqRLUtAKKHK3) | [Dpsht](https://open.spotify.com/artist/2VhyMRukJ2e1CgZ6k7Tux3), [Lofi Sax](https://open.spotify.com/artist/6CnIDZGUocwG0NIyYkoJ7w), [Ale Fillman](https://open.spotify.com/artist/0fNB9GqTAxeZcJW5euF3df) | [Dreams in Satin](https://open.spotify.com/album/05WKNMZgo4SZX9QEZz2ZSw) | 2:25 |
@@ -551,4 +551,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0khTY3HFA4M.md) - [plain]
 | 541 | [Jumping Stairs](https://open.spotify.com/track/4hwavFxjOXAFhVxzkLdrXm) | [Casper Loe](https://open.spotify.com/artist/6sgFsC4m16h2OMCFptzH6S) | [Jumping Stairs](https://open.spotify.com/album/6dFhFCZMrfLxxKW3q7PpVW) | 1:54 |
 | 542 | [Leafy Greens](https://open.spotify.com/track/03Ax0kOLlmuTKA1ay5DOeU) | [Vanilla Beach](https://open.spotify.com/artist/4gJj9oQfNWsfgwKYeUdlCe) | [Leafy Greens](https://open.spotify.com/album/2gyBZBz0kU5JX8ku3WkHt5) | 3:30 |
 
-Snapshot ID: `MCxhNmQ1ZWFjOGI0NjEzMTQ0OTZhNjJhNTAzNjlmYTZjNDljZDNlMGE0`
+Snapshot ID: `MCxjNGU0YWVjODYzNjk3MDRlMzE5MTIyMzU0Y2JjZjQ4MTY0ZjZkNmMw`

@@ -4,7 +4,7 @@
 
 > ¡Mujeres de los Andes, a todo volumen! Con Vale en portada.
 
-192 songs - 10 hr 43 min
+193 songs - 10 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -120,6 +120,7 @@
 | [Murió El Amor](https://open.spotify.com/track/09H7KZfOO0PMNLwsUDG2BI) | [Paola Jara](https://open.spotify.com/artist/6y4IOQcDIDg6I1OEKf2oJk) | [En Tus Manos](https://open.spotify.com/album/0gkKTHSGp4ckN2XPVi4GUL) | 3:00 | 2022-03-09 | 2022-08-14 |
 | [Murió El Amor](https://open.spotify.com/track/2D6SrlLoIjmDX8xhCBA06n) | [Paola Jara](https://open.spotify.com/artist/6y4IOQcDIDg6I1OEKf2oJk) | [En Tus Manos](https://open.spotify.com/album/2uLbOZPAiJNsuWKuTS3Ocu) | 3:00 | 2022-08-03 |  |
 | [Murió El Amor](https://open.spotify.com/track/55MDapQ9XrghnRPUCoSvQh) | [Paola Jara](https://open.spotify.com/artist/6y4IOQcDIDg6I1OEKf2oJk) | [Murió El Amor](https://open.spotify.com/album/4JgfiwhiBdF6RCmyrrdu6I) | 3:00 | 2022-11-02 | 2022-11-13 |
+| [MÁS ALLÁ](https://open.spotify.com/track/7oI4eP3pgPMuHOaf9OG2f0) | [Milena Warthon](https://open.spotify.com/artist/65vjAwgtLCwB1nQE7V5eMd) | [POP ANDINO](https://open.spotify.com/album/1cQIL3GmWmjxqgTzER9FQh) | 3:21 | 2023-05-19 |  |
 | [MÍO AÚN](https://open.spotify.com/track/4W1w9X63tBsilzTXnk8P68) | [Bad Milk](https://open.spotify.com/artist/5rMUEBZwYHovrlnuzggrVR) | [MÍO AÚN](https://open.spotify.com/album/4M49OOzgbYzqlUsA2RNQcw) | 3:34 | 2022-01-05 | 2022-03-10 |
 | [Na Na Na](https://open.spotify.com/track/68s5zs7NWOgy3NyJ7U1uzA) | [Goyo](https://open.spotify.com/artist/2ECiXSK7umi1luAaQyrCUX) | [Na Na Na](https://open.spotify.com/album/3ipzv1k3UkOVxIKOeJXZv1) | 2:18 | 2022-03-04 | 2022-03-10 |
 | [Nada](https://open.spotify.com/track/5ihtr3hVJJ7GWgagDiyf1i) | [Lido Pimienta](https://open.spotify.com/artist/1IdkKQ9CM1i0wygfxYV4Z3), [Li Saumet](https://open.spotify.com/artist/1hYzHxIYlfYgHXN9DVZaNw) | [Miss Colombia](https://open.spotify.com/album/6H6MZ54B5FLBLXXxWGEl7y) | 4:58 | 2022-01-05 |  |
@@ -194,7 +195,7 @@
 | [Viene y va](https://open.spotify.com/track/7BmOMWZGP24NqOhKHR5nP9) | [Ev](https://open.spotify.com/artist/21EczEifDKebasemX58Jp8) | [Viene y va](https://open.spotify.com/album/6GWe6fVPhwpgPU6sfmwM0W) | 2:54 | 2023-04-05 | 2023-05-13 |
 | [Volverte a Ver](https://open.spotify.com/track/4gRcLZTs6GDMmU9182DU5p) | [Monsieur Periné](https://open.spotify.com/artist/36KsCCwgI0Dep97yVJWmkK) | [Volverte a Ver](https://open.spotify.com/album/7dnmMht0lILU9q9QjCXHta) | 3:34 | 2022-01-05 | 2023-02-02 |
 | [VOLVIÓ A LATIR](https://open.spotify.com/track/3zvrOvREVagZmg9bb1wYFp) | [Milena Warthon](https://open.spotify.com/artist/65vjAwgtLCwB1nQE7V5eMd), [Chila Jatun](https://open.spotify.com/artist/1pbcskpK1qePXm3sYvYu4o) | [VOLVIÓ A LATIR](https://open.spotify.com/album/0AtMFNvWJk3z2FKnunBUz9) | 3:49 | 2023-01-04 | 2023-04-06 |
-| [WARMISITAY](https://open.spotify.com/track/6PI8OSjXRVqzQA3S8lPnMl) | [Milena Warthon](https://open.spotify.com/artist/65vjAwgtLCwB1nQE7V5eMd) | [WARMISITAY](https://open.spotify.com/album/27BrKlycAoVnEUDz1v5amr) | 3:24 | 2023-03-01 |  |
+| [WARMISITAY](https://open.spotify.com/track/6PI8OSjXRVqzQA3S8lPnMl) | [Milena Warthon](https://open.spotify.com/artist/65vjAwgtLCwB1nQE7V5eMd) | [WARMISITAY](https://open.spotify.com/album/27BrKlycAoVnEUDz1v5amr) | 3:24 | 2023-03-01 | 2023-05-20 |
 | [WOW](https://open.spotify.com/track/4hOHayswD8yGZ28A07u57D) | [Mabiland](https://open.spotify.com/artist/2oXKVuZqDv85M1ynjVMp3J) | [NIÑXS ROTXS](https://open.spotify.com/album/1XLeW2s0YvZSomXynkBKgm) | 2:51 | 2022-01-05 | 2022-03-05 |
 | [Yo Me Llamo Cumbia](https://open.spotify.com/track/3rKrypBgAbjWzSN9ajvyXE) | [Totó La Momposina](https://open.spotify.com/artist/26BL0aeVS96sje8JfCNfUk) | [La Bodega](https://open.spotify.com/album/4ieAnbY3It51h8GGniqGKX) | 4:29 | 2022-03-08 | 2023-02-02 |
 | [¿Qué Hubiera Pasado?](https://open.spotify.com/track/0EzdQKMxQGcXFjAKSyU2zk) | [Ela Taubert](https://open.spotify.com/artist/5xS8cfsAaFyy188dNJGDbM) | [¿Qué Hubiera Pasado?](https://open.spotify.com/album/5cgt1mBp6BR1GWJVjJHRSs) | 2:36 | 2023-04-05 |  |

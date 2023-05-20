@@ -321,6 +321,36 @@
     },
     {
       "album": {
+        "name": "Amanipilade",
+        "url": "https://open.spotify.com/album/3m1TH3S38uq4Fevp948NiH"
+      },
+      "artists": [
+        {
+          "name": "Metacaum",
+          "url": "https://open.spotify.com/artist/2B0a78X6BEsBiBX9ly1GFm"
+        },
+        {
+          "name": "RZA",
+          "url": "https://open.spotify.com/artist/4iCwCMnqsNZ6atvRiADgtn"
+        },
+        {
+          "name": "Mark Bradstreet",
+          "url": "https://open.spotify.com/artist/41vxN8kImYFA7h00ptTl18"
+        },
+        {
+          "name": "Jason Greenhart",
+          "url": "https://open.spotify.com/artist/0iLyV4LIHbZMNmuXP6kCKG"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175655,
+      "name": "Amanipilade",
+      "url": "https://open.spotify.com/track/1pWFvaCra0SryxJbM2NyZ5"
+    },
+    {
+      "album": {
         "name": "Ambition",
         "url": "https://open.spotify.com/album/5wqyGDQq3vlDMbbujsxJAA"
       },
@@ -824,7 +854,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 124771,
       "name": "Blue Suede Shoes (Metal Version)",
       "url": "https://open.spotify.com/track/4JzkSwqen4h3IyM9xuI1dW"
@@ -1283,6 +1313,32 @@
     },
     {
       "album": {
+        "name": "Daydreaming",
+        "url": "https://open.spotify.com/album/2x7bjrZNDZ7hNcosj0dS39"
+      },
+      "artists": [
+        {
+          "name": "NxWorries",
+          "url": "https://open.spotify.com/artist/6PEMFpe3PTOksdV4ZXUpbE"
+        },
+        {
+          "name": "Anderson .Paak",
+          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
+        },
+        {
+          "name": "Knxwledge",
+          "url": "https://open.spotify.com/artist/17Zu03OgBVxgLxWmRUyNOJ"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186873,
+      "name": "Daydreaming",
+      "url": "https://open.spotify.com/track/6qqq5zPYV7U4UsKnGC82tw"
+    },
+    {
+      "album": {
         "name": "DDU-DU DDU-DU",
         "url": "https://open.spotify.com/album/2kavELazj1W0Ddq3UohSVg"
       },
@@ -1454,7 +1510,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 206853,
       "name": "Dethklok Gets in Tune",
       "url": "https://open.spotify.com/track/40eoYcHHDmREY3r7QRO0bm"
@@ -2341,6 +2397,42 @@
     },
     {
       "album": {
+        "name": "Go",
+        "url": "https://open.spotify.com/album/3OPKSB4HyhuosHWOmMFH25"
+      },
+      "artists": [
+        {
+          "name": "ALEXSUCKS",
+          "url": "https://open.spotify.com/artist/0zmxCsd8aIJHfNC95gdT2i"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130822,
+      "name": "Go",
+      "url": "https://open.spotify.com/track/4nsyIu8RL55Rh6YnFPo0uQ"
+    },
+    {
+      "album": {
+        "name": "The Dethalbum (Expanded Edition)",
+        "url": "https://open.spotify.com/album/0J3JPOTsfaBoBUjg10bLB1"
+      },
+      "artists": [
+        {
+          "name": "Metalocalypse: Dethklok",
+          "url": "https://open.spotify.com/artist/7u12AuhJ5AaJIgZAZe0US8"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265115,
+      "name": "Go Into the Water - Gulf of Danzig Remix",
+      "url": "https://open.spotify.com/track/4fxR8lCCAKs7qrzSXNTV75"
+    },
+    {
+      "album": {
         "name": "GRRR Live!",
         "url": "https://open.spotify.com/album/1OMuyzglvKUYkeYUnQm9x2"
       },
@@ -2400,7 +2492,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-19",
+      "date_removed": null,
       "duration_ms": 276986,
       "name": "GOMD (Remix) [feat. Lil Uzi Vert]",
       "url": "https://open.spotify.com/track/4ncoZ4PKxvyzVoSIJsOLo0"
@@ -2422,7 +2514,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 276986,
       "name": "GOMD (Remix) [feat. Lil Uzi Vert]",
       "url": "https://open.spotify.com/track/7wYgd9KnYvtwqXOeDKpBEL"
@@ -2898,7 +2990,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 270132,
       "name": "Immortal Mother",
       "url": "https://open.spotify.com/track/25a1G9uTkiuiceXz234zWZ"
@@ -3973,6 +4065,32 @@
     },
     {
       "album": {
+        "name": "My Phone Can Die",
+        "url": "https://open.spotify.com/album/6KvYRCl4xHiFbTDb3ql8Aa"
+      },
+      "artists": [
+        {
+          "name": "Rory",
+          "url": "https://open.spotify.com/artist/5XJa2DE4NkXH5m4aHzM0i9"
+        },
+        {
+          "name": "Ari Lennox",
+          "url": "https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom"
+        },
+        {
+          "name": "James Fauntleroy",
+          "url": "https://open.spotify.com/artist/5ooSG9S0glqP5ZrqqaHBvT"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179508,
+      "name": "My Phone Can Die",
+      "url": "https://open.spotify.com/track/4RYsLFK1VLPtrwipmcAWoo"
+    },
+    {
+      "album": {
         "name": "New Gospel",
         "url": "https://open.spotify.com/album/4BJiZyWxoYMKbYyOnMAUPt"
       },
@@ -4691,6 +4809,24 @@
     },
     {
       "album": {
+        "name": "Relax (Metal Version)",
+        "url": "https://open.spotify.com/album/6WfT9Gp4xHqLHONzoMMAar"
+      },
+      "artists": [
+        {
+          "name": "Leo",
+          "url": "https://open.spotify.com/artist/5KWOCu1saEHAhPiLKlOLIy"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203872,
+      "name": "Relax (Metal Version)",
+      "url": "https://open.spotify.com/track/1N44Yk7WFYNwOLnIHtbbTw"
+    },
+    {
+      "album": {
         "name": "Philip Glass: Religion",
         "url": "https://open.spotify.com/album/6VfdwafNjWKdhkgv2zyMnk"
       },
@@ -4812,6 +4948,24 @@
       "duration_ms": 189579,
       "name": "Row",
       "url": "https://open.spotify.com/track/0Lqi31Ocwn2SdASbRoRmth"
+    },
+    {
+      "album": {
+        "name": "Sacred The Thread",
+        "url": "https://open.spotify.com/album/4dimPGtC8aTFM0jCf739TN"
+      },
+      "artists": [
+        {
+          "name": "Greta Van Fleet",
+          "url": "https://open.spotify.com/artist/4NpFxQe2UvRCAjto3JqlSl"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 321710,
+      "name": "Sacred The Thread",
+      "url": "https://open.spotify.com/track/1euMlU3weroX6ERo4vEfQl"
     },
     {
       "album": {
@@ -5052,6 +5206,36 @@
       "duration_ms": 69019,
       "name": "Soothing Lofi Piano",
       "url": "https://open.spotify.com/track/1RORrwRYKmUgrnJRI4mGz7"
+    },
+    {
+      "album": {
+        "name": "KAYTRAMIN\u00c9",
+        "url": "https://open.spotify.com/album/1plAqF2W8hwAhcpBAfGNsW"
+      },
+      "artists": [
+        {
+          "name": "KAYTRAMIN\u00c9",
+          "url": "https://open.spotify.com/artist/5oifjQw72WO7Jut07fVWMy"
+        },
+        {
+          "name": "Amin\u00e9",
+          "url": "https://open.spotify.com/artist/3Gm5F95VdRxW3mqCn8RPBJ"
+        },
+        {
+          "name": "KAYTRANADA",
+          "url": "https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu"
+        },
+        {
+          "name": "Amaarae",
+          "url": "https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156000,
+      "name": "Sossaup",
+      "url": "https://open.spotify.com/track/6y5UMIVVJDsULZwfZ0bNRX"
     },
     {
       "album": {
@@ -5379,6 +5563,36 @@
     },
     {
       "album": {
+        "name": "Swordz",
+        "url": "https://open.spotify.com/album/5HP3YAMRGDgVwkhVrWrQfM"
+      },
+      "artists": [
+        {
+          "name": "Jason Greenhart",
+          "url": "https://open.spotify.com/artist/0iLyV4LIHbZMNmuXP6kCKG"
+        },
+        {
+          "name": "GZA",
+          "url": "https://open.spotify.com/artist/6ns6XAOsw4B0nDUIovAOUO"
+        },
+        {
+          "name": "Metacaum",
+          "url": "https://open.spotify.com/artist/2B0a78X6BEsBiBX9ly1GFm"
+        },
+        {
+          "name": "Grandfatha",
+          "url": "https://open.spotify.com/artist/3e6X0uC74do3Rz085FdENR"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276594,
+      "name": "Swordz",
+      "url": "https://open.spotify.com/track/5YCUXrbgiUemfPEBpwzLJC"
+    },
+    {
+      "album": {
         "name": "GRRR Live!",
         "url": "https://open.spotify.com/album/1OMuyzglvKUYkeYUnQm9x2"
       },
@@ -5512,6 +5726,24 @@
       "duration_ms": 274826,
       "name": "The Abyss",
       "url": "https://open.spotify.com/track/26wx3uhieXjiQtsvZjCf6f"
+    },
+    {
+      "album": {
+        "name": "The Abyss",
+        "url": "https://open.spotify.com/album/6by0mpt9n2zI3575AUxH0T"
+      },
+      "artists": [
+        {
+          "name": "KNOWER",
+          "url": "https://open.spotify.com/artist/7fVp0A6oCMfiQJihMnY0SZ"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182000,
+      "name": "The Abyss",
+      "url": "https://open.spotify.com/track/45nldnip792IjCInuYENor"
     },
     {
       "album": {
@@ -6013,6 +6245,24 @@
     },
     {
       "album": {
+        "name": "Under You",
+        "url": "https://open.spotify.com/album/2XD1xj7tbNEsiwmwyXAKu8"
+      },
+      "artists": [
+        {
+          "name": "Foo Fighters",
+          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219400,
+      "name": "Under You",
+      "url": "https://open.spotify.com/track/1x0NfY1A4q8eKN3k4X8sfE"
+    },
+    {
+      "album": {
         "name": "Unpredictable",
         "url": "https://open.spotify.com/album/73re41PH59OVUlVyiQg1Ey"
       },
@@ -6290,6 +6540,24 @@
       "duration_ms": 338182,
       "name": "When the Lights - Ancestrumental Mix",
       "url": "https://open.spotify.com/track/0bYHacTG3zO0mknQKE3g7i"
+    },
+    {
+      "album": {
+        "name": "When You Wish Upon a Star (From \"Disney 100\")",
+        "url": "https://open.spotify.com/album/5AGZKi74CsJrmJ7hJAFNrH"
+      },
+      "artists": [
+        {
+          "name": "Sara Bareilles",
+          "url": "https://open.spotify.com/artist/2Sqr0DXoaYABbjBo9HaMkM"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234004,
+      "name": "When You Wish Upon a Star - From \"Disney 100\"",
+      "url": "https://open.spotify.com/track/2xdvhChCtpYxyNApVJEUG1"
     },
     {
       "album": {

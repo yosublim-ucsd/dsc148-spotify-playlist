@@ -4,7 +4,7 @@
 
 > Dope, Asian, and Femme\. Cover: Bella Poarch
 
-188 songs - 9 hr 48 min
+189 songs - 9 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,6 +31,7 @@
 | [Bounce](https://open.spotify.com/track/2rJ3U3EEXJReeATBy5owe0) | [DØBER](https://open.spotify.com/artist/1yGoTdU9M2zNhcyDSes8Sq), [RayRay](https://open.spotify.com/artist/4FS6bomikvJR2E9JHNwiAM) | [Bounce](https://open.spotify.com/album/2sn6nb0qGjSxjy4IqubPSx) | 2:36 | 2022-04-15 | 2022-04-18 |
 | [Breakdown](https://open.spotify.com/track/1B6Za6s7tPvxU9ISUEgRda) | [JVNA](https://open.spotify.com/artist/0BMfVLB7t0VCzNBZZKBy6A) | [Breakdown](https://open.spotify.com/album/0Rk5KPioBHSzllCrqI5C15) | 3:18 | 2021-12-03 | 2022-07-29 |
 | [Brittle](https://open.spotify.com/track/0ccmnaYeN5GZ8HBtPFCaIC) | [Yumi Nu](https://open.spotify.com/artist/5721R2CT0MBWXJ6Dz78QUZ) | [Brittle](https://open.spotify.com/album/09R4r31bLR80znhTB72VKO) | 3:20 | 2022-09-02 | 2022-10-17 |
+| [Broken English](https://open.spotify.com/track/15K6Qae0N8GCqKy3PepT3Z) | [Paravi](https://open.spotify.com/artist/3hu0zovv9ZERrUy09lIsTH) | [Broken English](https://open.spotify.com/album/2x90iNz3Rr7QewJq7kpAGA) | 3:02 | 2023-05-19 |  |
 | [Build a Bitch](https://open.spotify.com/track/7BoobGhD4x5K96Me0hqC8Q) | [Bella Poarch](https://open.spotify.com/artist/26cMerAxjx9GedFt0lMDjm) | [Build a Bitch](https://open.spotify.com/album/5YKqfiQdPYWJ0kZ5pttY5o) | 2:02 | 2021-12-03 |  |
 | [Can you](https://open.spotify.com/track/4fOYETeXvq7Ub4E9FMY3JB) | [박혜진 Park Hye Jin](https://open.spotify.com/artist/6niigcazB2JPcpasZfZvq1) | [Can you \(Galcher Lustwerk Remix\)](https://open.spotify.com/album/3afqWbI8qEdTB2CBDiKAAD) | 3:39 | 2021-12-03 |  |
 | [Catch Me In The Air](https://open.spotify.com/track/6VRfsebyIwzt9otSvcuV87) | [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [Catch Me In The Air](https://open.spotify.com/album/31uMGaqlOlC9QcKG8e7aVq) | 3:35 | 2022-07-08 |  |
@@ -78,7 +79,7 @@
 | [Friend Zone](https://open.spotify.com/track/0st8aX6twGUqeeh6sn6qsd) | [Grace Aimi](https://open.spotify.com/artist/2m3H3Dr0tGC1Fdmq4AV3iX) | [PICNIC](https://open.spotify.com/album/7Lv8LUpmSqwfZbDWssJxDN) | 3:07 | 2021-12-03 | 2022-07-29 |
 | [GANG$TA](https://open.spotify.com/track/58RYwmQUJVcn9jJPc5wVLa) | [SILVY](https://open.spotify.com/artist/5m8lmgqE3WYbGqmYKVNJSA) | [GANG$TA](https://open.spotify.com/album/3NKZL0lQVVroMxKYBaZ4Je) | 3:27 | 2022-04-15 | 2022-07-27 |
 | [Go Girl Go Get It](https://open.spotify.com/track/4mUswKggANtZwWZg7a0Gl8) | [Masia One](https://open.spotify.com/artist/5xwsVRGFYIPpDmoaCC9XpB), [Alx](https://open.spotify.com/artist/4fFl2ItPM58qxwXilDjjTP) | [Go Girl Go Get It](https://open.spotify.com/album/4gJIqWmBGZqsuYG0CsGI7T) | 2:26 | 2021-12-03 | 2022-07-29 |
-| [Goddess \- Holly T Remix](https://open.spotify.com/track/2AMMUAPPA0pg5nOS90lNIP) | [Krewella](https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr), [NERVO](https://open.spotify.com/artist/4j5KBTO4tk7up54ZirNGvK), [Raja Kumari](https://open.spotify.com/artist/5cBFMoMgcAt03YL2r0tS25), [Holly T](https://open.spotify.com/artist/1r5lkGxVUvzfpxk4iuSYmX) | [Goddess \(Holly T Remix\)](https://open.spotify.com/album/1rayZOYkDr6D7jBCIdVO19) | 2:55 | 2022-01-07 |  |
+| [Goddess \- Holly T Remix](https://open.spotify.com/track/2AMMUAPPA0pg5nOS90lNIP) | [Krewella](https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr), [NERVO](https://open.spotify.com/artist/4j5KBTO4tk7up54ZirNGvK), [Raja Kumari](https://open.spotify.com/artist/5cBFMoMgcAt03YL2r0tS25), [Holly T](https://open.spotify.com/artist/1r5lkGxVUvzfpxk4iuSYmX) | [Goddess \(Holly T Remix\)](https://open.spotify.com/album/1rayZOYkDr6D7jBCIdVO19) | 2:55 | 2022-01-07 | 2023-05-20 |
 | [good 4 u](https://open.spotify.com/track/4ZtFanR9U6ndgddUvNcjcG) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [SOUR](https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j) | 2:58 | 2021-12-03 |  |
 | [Good Love 2.0](https://open.spotify.com/track/0xErrzRegFIsekcvQ5wsS0) | [Priya Ragu](https://open.spotify.com/artist/6iZTyHbQWGzpiWoyI0zz9F) | [Good Love 2.0](https://open.spotify.com/album/5sDQY6ndqcHq15PD1WZgSl) | 2:54 | 2021-12-03 |  |
 | [GOR!LLAZ](https://open.spotify.com/track/5pcO248MInWTjo87ex4CxY) | [Karencitta](https://open.spotify.com/artist/0touaoSr4QOLYxBJ9lmGgK) | [GOR!LLAZ](https://open.spotify.com/album/55UXtNQrTY2nxIvL4puIf8) | 1:48 | 2021-12-03 | 2022-07-22 |

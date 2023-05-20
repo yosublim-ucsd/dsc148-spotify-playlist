@@ -1,12 +1,12 @@
 {
   "description": "The biggest dance floor bangers of the 2000s.",
-  "num_followers": 358427,
+  "num_followers": 358978,
   "original_name": "Dance Hits 2000s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjODRkNmNjZTEyYjc2NjliMjZkMmJiYTM0NDZmNDhlN2FmODRiMmJm",
+  "snapshot_id": "MCwyNWVhZTU3MjNhYjU2M2ZhMTk5ZDVhZGY4Y2VlNGU3YzgwZmIwYmI1",
   "tracks": [
     {
       "added_at": "2021-04-29 18:40:15",
@@ -723,6 +723,22 @@
     {
       "added_at": "2021-04-29 18:40:15",
       "album": {
+        "name": "24 Carat Gold",
+        "url": "https://open.spotify.com/album/72HzYTzhgXhhU93yvhzyEl"
+      },
+      "artists": [
+        {
+          "name": "Scooter",
+          "url": "https://open.spotify.com/artist/0HlxL5hisLf59ETEPM3cUA"
+        }
+      ],
+      "duration_ms": 234933,
+      "name": "The Logical Song",
+      "url": "https://open.spotify.com/track/3DwhQpLOuJB7uSCGrjRZM2"
+    },
+    {
+      "added_at": "2021-04-29 18:40:15",
+      "album": {
         "name": "Network - taken from Superstar",
         "url": "https://open.spotify.com/album/3NBCC4dPJwOG5JNCpXUlNL"
       },
@@ -767,22 +783,6 @@
       "duration_ms": 224493,
       "name": "Love Foolosophy - Radio Edit",
       "url": "https://open.spotify.com/track/0upgxxew2mVAEctrz08jnf"
-    },
-    {
-      "added_at": "2021-04-29 18:40:15",
-      "album": {
-        "name": "24 Carat Gold",
-        "url": "https://open.spotify.com/album/72HzYTzhgXhhU93yvhzyEl"
-      },
-      "artists": [
-        {
-          "name": "Scooter",
-          "url": "https://open.spotify.com/artist/0HlxL5hisLf59ETEPM3cUA"
-        }
-      ],
-      "duration_ms": 234933,
-      "name": "The Logical Song",
-      "url": "https://open.spotify.com/track/3DwhQpLOuJB7uSCGrjRZM2"
     },
     {
       "added_at": "2021-04-29 18:40:15",
@@ -1395,22 +1395,6 @@
     {
       "added_at": "2021-04-29 18:40:15",
       "album": {
-        "name": "Rooty",
-        "url": "https://open.spotify.com/album/6CYhVDuSbAWmy9ku7E2wrP"
-      },
-      "artists": [
-        {
-          "name": "Basement Jaxx",
-          "url": "https://open.spotify.com/artist/4YrKBkKSVeqDamzBPWVnSJ"
-        }
-      ],
-      "duration_ms": 217493,
-      "name": "Romeo",
-      "url": "https://open.spotify.com/track/4tI7eIbEUfInHS3sxfqkkr"
-    },
-    {
-      "added_at": "2021-04-29 18:40:15",
-      "album": {
         "name": "Jumping All over the World - Whatever You Want",
         "url": "https://open.spotify.com/album/1ButVLMR9X4DsuSQpz2UDy"
       },
@@ -1423,6 +1407,22 @@
       "duration_ms": 228821,
       "name": "Jumping All Over The World",
       "url": "https://open.spotify.com/track/0pCZZa7f636OXB8jO0czci"
+    },
+    {
+      "added_at": "2021-04-29 18:40:15",
+      "album": {
+        "name": "Rooty",
+        "url": "https://open.spotify.com/album/6CYhVDuSbAWmy9ku7E2wrP"
+      },
+      "artists": [
+        {
+          "name": "Basement Jaxx",
+          "url": "https://open.spotify.com/artist/4YrKBkKSVeqDamzBPWVnSJ"
+        }
+      ],
+      "duration_ms": 217493,
+      "name": "Romeo",
+      "url": "https://open.spotify.com/track/4tI7eIbEUfInHS3sxfqkkr"
     },
     {
       "added_at": "2021-04-29 18:40:15",
@@ -1489,22 +1489,6 @@
       "url": "https://open.spotify.com/track/5BZx0wikkFZF2BnaIo2qTy"
     },
     {
-      "added_at": "2021-04-29 18:40:15",
-      "album": {
-        "name": "Jumping All over the World - Whatever You Want",
-        "url": "https://open.spotify.com/album/1ButVLMR9X4DsuSQpz2UDy"
-      },
-      "artists": [
-        {
-          "name": "Scooter",
-          "url": "https://open.spotify.com/artist/0HlxL5hisLf59ETEPM3cUA"
-        }
-      ],
-      "duration_ms": 214453,
-      "name": "Weekend!",
-      "url": "https://open.spotify.com/track/6Jx4JErTfpI67ZUn7bIBTW"
-    },
-    {
       "added_at": "2021-10-06 04:50:26",
       "album": {
         "name": "Twenty",
@@ -1539,6 +1523,22 @@
       "duration_ms": 212066,
       "name": "Strobe - Radio Edit",
       "url": "https://open.spotify.com/track/0pgEx0eQPVh3fDpJcP4BqL"
+    },
+    {
+      "added_at": "2021-04-29 18:40:15",
+      "album": {
+        "name": "Jumping All over the World - Whatever You Want",
+        "url": "https://open.spotify.com/album/1ButVLMR9X4DsuSQpz2UDy"
+      },
+      "artists": [
+        {
+          "name": "Scooter",
+          "url": "https://open.spotify.com/artist/0HlxL5hisLf59ETEPM3cUA"
+        }
+      ],
+      "duration_ms": 229106,
+      "name": "One (Always Hardcore) - Radio Edit",
+      "url": "https://open.spotify.com/track/43mBap9Sm9WSCJLRHFLPMD"
     },
     {
       "added_at": "2021-04-29 18:40:15",
@@ -1651,22 +1651,6 @@
     {
       "added_at": "2021-04-29 18:40:15",
       "album": {
-        "name": "Jumping All over the World - Whatever You Want",
-        "url": "https://open.spotify.com/album/1ButVLMR9X4DsuSQpz2UDy"
-      },
-      "artists": [
-        {
-          "name": "Scooter",
-          "url": "https://open.spotify.com/artist/0HlxL5hisLf59ETEPM3cUA"
-        }
-      ],
-      "duration_ms": 229106,
-      "name": "One (Always Hardcore) - Radio Edit",
-      "url": "https://open.spotify.com/track/43mBap9Sm9WSCJLRHFLPMD"
-    },
-    {
-      "added_at": "2021-04-29 18:40:15",
-      "album": {
         "name": "LOL (International version)",
         "url": "https://open.spotify.com/album/4cHjA2C6N5h5rIKQYojMLU"
       },
@@ -1679,6 +1663,22 @@
       "duration_ms": 207066,
       "name": "Boten Anna - Radio edit",
       "url": "https://open.spotify.com/track/1Y73xpxMMWInxiAHG6INCK"
+    },
+    {
+      "added_at": "2021-04-29 18:40:15",
+      "album": {
+        "name": "Jumping All over the World - Whatever You Want",
+        "url": "https://open.spotify.com/album/1ButVLMR9X4DsuSQpz2UDy"
+      },
+      "artists": [
+        {
+          "name": "Scooter",
+          "url": "https://open.spotify.com/artist/0HlxL5hisLf59ETEPM3cUA"
+        }
+      ],
+      "duration_ms": 214453,
+      "name": "Weekend!",
+      "url": "https://open.spotify.com/track/6Jx4JErTfpI67ZUn7bIBTW"
     },
     {
       "added_at": "2021-04-29 18:40:15",

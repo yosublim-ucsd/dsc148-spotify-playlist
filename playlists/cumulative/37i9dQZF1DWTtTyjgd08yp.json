@@ -2873,6 +2873,24 @@
     },
     {
       "album": {
+        "name": "Switch It On, Switch It Off",
+        "url": "https://open.spotify.com/album/0OcNRlzQwvWmGQ7DKHuLja"
+      },
+      "artists": [
+        {
+          "name": "Chartreuse",
+          "url": "https://open.spotify.com/artist/3U58oqsrbpLo0EbARkZrBW"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237749,
+      "name": "Switch It On, Switch It Off",
+      "url": "https://open.spotify.com/track/124udfUnJWptY8jBDXLo2Q"
+    },
+    {
+      "album": {
         "name": "First Two Pages of Frankenstein",
         "url": "https://open.spotify.com/album/5Mc6uebYtKnRc5I7bjlNB6"
       },

@@ -677,6 +677,24 @@
     },
     {
       "album": {
+        "name": "Akousmatikous",
+        "url": "https://open.spotify.com/album/2rIjJDL6c2IlN8rrWOhwGD"
+      },
+      "artists": [
+        {
+          "name": "Salami Rose Joe Louis",
+          "url": "https://open.spotify.com/artist/6EHS9kZ9PpeXaJ4wZO3FSX"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220350,
+      "name": "Dimensional Collapse",
+      "url": "https://open.spotify.com/track/66xZGaUTemdYDePZaUWrRM"
+    },
+    {
+      "album": {
         "name": "Don\u2019t Lose Time",
         "url": "https://open.spotify.com/album/4LertToXpmjRS34cm3TrUq"
       },
@@ -2286,7 +2304,7 @@
       ],
       "date_added": "2023-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 190515,
       "name": "Sugar Coating - Edit",
       "url": "https://open.spotify.com/track/4dQi75NfxBM2XrUQCmCKfP"

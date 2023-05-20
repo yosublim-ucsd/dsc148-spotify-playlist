@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcTpoGQmyr2B.md) - [plain]
 
 > Let your stress melt away while you work up a sweat.
 
-[Spotify](https://open.spotify.com/user/spotify) - 76,842 likes - 134 songs - 7 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 76,879 likes - 134 songs - 7 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -143,4 +143,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcTpoGQmyr2B.md) - [plain]
 | 133 | [I Want You Back](https://open.spotify.com/track/0oiNNnrv5iYEl96RimHw8G) | [Laura Zocca](https://open.spotify.com/artist/43sKBGtNLR3Ovs81KWzQg7) | [Sunshine on a Cloudy Day](https://open.spotify.com/album/2ip6XgW8Ws3R2K6Y7nBRJz) | 2:46 |
 | 134 | [Dynamite](https://open.spotify.com/track/3NJfUFlW79oBXVK7RTzGtV) | [Treadlights](https://open.spotify.com/artist/75lqw9jUFPanWhAqLVYIIK) | [Dynamite](https://open.spotify.com/album/5rq44uXnXAJ7ksLYjc4jvU) | 2:31 |
 
-Snapshot ID: `MCxjMGNmYTQwYmI0MzNiOWViMmM2NGQ4YzhiZGNlZDM5NzNjNDZjYmYz`
+Snapshot ID: `MCwxMTQzYmRlNzg2NzYwNGRmNjUwMTBhODBkNDE1Y2UyZjk2NDRmZTk2`

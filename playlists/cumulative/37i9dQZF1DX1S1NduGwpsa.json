@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-20",
-  "description": "The best jazz new releases. Cover: Gabi Hartmann",
+  "description": "The best jazz new releases. Cover: Kareen Guioc-Thuram",
   "name": "Jazz Club",
   "tracks": [
     {
@@ -590,7 +590,7 @@
       ],
       "date_added": "2023-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 163532,
       "name": "Behind the Angel Face",
       "url": "https://open.spotify.com/track/1h2MnWfQSvgvi8dtiswT0E"
@@ -2440,7 +2440,7 @@
       ],
       "date_added": "2023-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 184177,
       "name": "I'm On My Way",
       "url": "https://open.spotify.com/track/40MiZBtqaj19eRza6L67g1"
@@ -4599,6 +4599,24 @@
     },
     {
       "album": {
+        "name": "Linger Awhile (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1kQH5ZtEqzJ5GxyTtfHKE3"
+      },
+      "artists": [
+        {
+          "name": "Samara Joy",
+          "url": "https://open.spotify.com/artist/5LkbTSqXfMBjFSGi9LOGjq"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183523,
+      "name": "Sometimes Today Seems Like Yesterday",
+      "url": "https://open.spotify.com/track/4suPwKFZtB6ztKoTzppeYR"
+    },
+    {
+      "album": {
         "name": "Soufi dance",
         "url": "https://open.spotify.com/album/0gE3wRepREY0CePsnRLwNt"
       },
@@ -5126,6 +5144,40 @@
       "duration_ms": 212826,
       "name": "This Foolish Heart Could Love You",
       "url": "https://open.spotify.com/track/002LxxV7VTy5JkvkmmGanl"
+    },
+    {
+      "album": {
+        "name": "Introducing - Danger Zone",
+        "url": "https://open.spotify.com/album/5QmtGwt6ZQEc2SCB9yJ7OP"
+      },
+      "artists": [
+        {
+          "name": "Alex Gilson",
+          "url": "https://open.spotify.com/artist/6zP7fwcpwsvsLNxr3iy6hW"
+        },
+        {
+          "name": "Paul Morvan",
+          "url": "https://open.spotify.com/artist/4LkQzb3Bx2pwv3hJz6AwWl"
+        },
+        {
+          "name": "Amaury Faye",
+          "url": "https://open.spotify.com/artist/6O7ANcEElszVLKwPOSVXte"
+        },
+        {
+          "name": "Michel Pastre",
+          "url": "https://open.spotify.com/artist/72H0XVdRgj7SFQOKiDDw1P"
+        },
+        {
+          "name": "Bj\u00f6rn Ingelstam",
+          "url": "https://open.spotify.com/artist/46OCIaWgZaJ0Poxo4pb5Nw"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180413,
+      "name": "This Is All I Ask",
+      "url": "https://open.spotify.com/track/7gLH8KeZepuJW2kv9ODrly"
     },
     {
       "album": {

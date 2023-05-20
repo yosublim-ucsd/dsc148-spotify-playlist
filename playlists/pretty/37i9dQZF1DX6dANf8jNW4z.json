@@ -1,32 +1,28 @@
 {
   "description": "Ven a Spotify EQUAL Fest Madrid a celebrar el talento femenino. Entradas <a href=\"https://www.ticketmaster.es/event/35863?subchannel_id=67&brand=planetevents\">aqu\u00ed</a>. Foto: Cari\u00f1o.",
-  "num_followers": 48816,
+  "num_followers": 48824,
   "original_name": "EQUAL Espa\u00f1a",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5MjRmMzZlYjc1ODgxYjMyNWEwZjY3ZDJjOThhNjk5ZDk5M2NlNjQ0",
+  "snapshot_id": "MCwwNWNlOTczMDQ3NTJhNmVhNjk2ZDU3NDg0YmVhMDEwNzlkZmE4NGM3",
   "tracks": [
     {
-      "added_at": "2023-05-02 22:00:00",
+      "added_at": "2023-05-19 15:03:36",
       "album": {
-        "name": "Locochona",
-        "url": "https://open.spotify.com/album/6BzRhIEFVhtaKekLzRnxlX"
+        "name": "A\u00fan me acuerdo de todo",
+        "url": "https://open.spotify.com/album/1qFxFtT79LrvdLhY5Denik"
       },
       "artists": [
         {
           "name": "Cari\u00f1o",
           "url": "https://open.spotify.com/artist/7fWD0BSDlixbj6YNQyHTLh"
-        },
-        {
-          "name": "Girl Ultra",
-          "url": "https://open.spotify.com/artist/7i1CyQ1fogh4bkj3EPj3ls"
         }
       ],
-      "duration_ms": 148338,
-      "name": "Locochona",
-      "url": "https://open.spotify.com/track/63huxKkkuUPoMzOyYJnEkV"
+      "duration_ms": 217062,
+      "name": "A\u00fan me acuerdo de todo",
+      "url": "https://open.spotify.com/track/0gPaWexkeyQgZTqDU3r4Sc"
     },
     {
       "added_at": "2023-05-02 22:00:00",

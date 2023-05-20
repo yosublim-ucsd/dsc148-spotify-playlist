@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW5hMh7LGtmv.md) - [plain]
 
 > The ultimate line\-up of Summer anthems, strap in !!!
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,878 likes - 80 songs - 4 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,896 likes - 80 songs - 4 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,8 +75,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW5hMh7LGtmv.md) - [plain]
 | 65 | [How We Do \(Party\)](https://open.spotify.com/track/05j9ehtmZsj8BL07s9rZ75) | [Rita Ora](https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr) | [ORA](https://open.spotify.com/album/1aDnLoXL8rl3WFJWLTxZmx) | 4:07 |
 | 66 | [Gettin' Over You \(feat\. Fergie & LMFAO\)](https://open.spotify.com/track/6FbGlkHKGkYqpSCuBgurn3) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Chris Willis](https://open.spotify.com/artist/2qSEpijpT3YSXgxcXac1ly), [Fergie](https://open.spotify.com/artist/3r17AfJCCUqC9Lf0OAc73G), [LMFAO](https://open.spotify.com/artist/3sgFRtyBnxXD5ESfmbK4dl) | [One Love \(Deluxe\)](https://open.spotify.com/album/1xGEbkqzqiCcUTBbasvShI) | 3:08 |
 | 67 | [Sweet Like Chocolate \(Radio Edit\)](https://open.spotify.com/track/3IFVskDtdJTwAZ0I8HGvoO) | [Shanks & Bigfoot](https://open.spotify.com/artist/2HdJwHponT4dLmV57ry159) | [Sweet Like Chocolate](https://open.spotify.com/album/1PZubkPoodI7JEON9ljzOC) | 3:30 |
-| 68 | [Feel the Love \(feat\. John Newman\)](https://open.spotify.com/track/2VvCoqF4p46cvyVbhbDsaJ) | [Rudimental](https://open.spotify.com/artist/4WN5naL3ofxrVBgFpguzKo), [John Newman](https://open.spotify.com/artist/34v5MVKeQnIo0CWYMbbrPf) | [Home \(Deluxe Edition\)](https://open.spotify.com/album/6RM05aDNmbqF7AV1xwubac) | 4:05 |
-| 69 | [It Feels So Good \- Radio Edit](https://open.spotify.com/track/5GJOuVtD5nGTjlnqyZ0q3A) | [Sonique](https://open.spotify.com/artist/5xtqw2B8z8JGfDYi2eAZHI) | [It Feels So Good](https://open.spotify.com/album/4ZLg8NqICOWQlPxVptBH4w) | 3:49 |
+| 68 | [It Feels So Good \- Radio Edit](https://open.spotify.com/track/5GJOuVtD5nGTjlnqyZ0q3A) | [Sonique](https://open.spotify.com/artist/5xtqw2B8z8JGfDYi2eAZHI) | [It Feels So Good](https://open.spotify.com/album/4ZLg8NqICOWQlPxVptBH4w) | 3:49 |
+| 69 | [Feel the Love \(feat\. John Newman\)](https://open.spotify.com/track/2VvCoqF4p46cvyVbhbDsaJ) | [Rudimental](https://open.spotify.com/artist/4WN5naL3ofxrVBgFpguzKo), [John Newman](https://open.spotify.com/artist/34v5MVKeQnIo0CWYMbbrPf) | [Home \(Deluxe Edition\)](https://open.spotify.com/album/6RM05aDNmbqF7AV1xwubac) | 4:05 |
 | 70 | [Nobody To Love \- Extended Mix](https://open.spotify.com/track/1d0YPdf2S9muoxcxLKzfJC) | [Sigma](https://open.spotify.com/artist/01pKrlgPJhm5dB4lneYAqS) | [Life \(Deluxe\)](https://open.spotify.com/album/44OSVbfmYeai7d1Euvqwpx) | 4:10 |
 | 71 | [House Every Weekend \- Radio Edit](https://open.spotify.com/track/25SaEmU5GHzcP1kTaTS8FZ) | [David Zowie](https://open.spotify.com/artist/2yEkeJoFOvm6qHuECSDHFg) | [House Every Weekend \(Radio Edit\)](https://open.spotify.com/album/5FSxkcp05SDo2W1iXMyyWN) | 3:02 |
 | 72 | [21 Seconds \- 12" Version](https://open.spotify.com/track/5S9810AEDRnVQovixcU2h4) | [So Solid Crew](https://open.spotify.com/artist/5Wri8vAevy1yYWqN8oGGpH) | [21 Seconds](https://open.spotify.com/album/14JDv6HjaV7RLkeXbs8XOe) | 4:54 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW5hMh7LGtmv.md) - [plain]
 | 79 | [Louder \(feat\. Sian Evans\)](https://open.spotify.com/track/5rr88Jg9B0QLFMDj9qREaI) | [DJ Fresh](https://open.spotify.com/artist/6r20qOqY7qDWI0PPTxVMlC), [Sian Evans](https://open.spotify.com/artist/2DTw633fgdoxrqv7uPdcCw) | [Louder EP](https://open.spotify.com/album/5JM2WMfuniCvsSgoVdbtyb) | 3:26 |
 | 80 | [Bound 4 da Reload \- Casualty](https://open.spotify.com/track/24SElG0D2F6vJ7Z9EMD5Xu) | [Oxide & Neutrino](https://open.spotify.com/artist/0uhNYfjHJyAmHh2xNZ4vqf) | [Execute](https://open.spotify.com/album/1C7r9ofyU8ajv54XBSAJEC) | 4:52 |
 
-Snapshot ID: `MCxjMGIwYzk2ZTNjZDg0ZWUzNjFlNmZjMDM0YmFkYjE3NmRlYzQyMTdm`
+Snapshot ID: `MTY3NzYwMzM5NSwwMDAwMDAwMGJjMWJkMDQzNjg3NjM2NmQ3MmZmYzMxODFhYWZlNjEz`

@@ -4,7 +4,7 @@
 
 > Uma seleção especial do jazz nacional\. Foto: Amaro Freitas
 
-122 songs - 10 hr 21 min
+123 songs - 10 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -79,6 +79,7 @@
 | [O Maior Sol](https://open.spotify.com/track/63wRyjLypeKCjDIKZjdRM4) | [Claudio Fonseca Quartet](https://open.spotify.com/artist/3cxnRW4ENZ1c41HbbXy8Bf) | [Bossa De Urso](https://open.spotify.com/album/3s8B4suX6KzEx4ApdR5gZO) | 3:11 | 2022-07-08 |  |
 | [O Morro Não Tem Vez](https://open.spotify.com/track/6fwICn8FWouigyB8BxfljW) | [Antônio Carlos Jobim](https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG) | [The Composer Of Desafinado, Plays](https://open.spotify.com/album/3tW43cUkPyYkzzntfPwm4A) | 3:20 | 2022-07-08 | 2023-04-29 |
 | [O Morro Não Tem Vez](https://open.spotify.com/track/0BFY4ELzGsvmBEJDqCmkyj) | [Antônio Carlos Jobim](https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG) | [Verve Jazz Masters 13: Antonio Carlos Jobim](https://open.spotify.com/album/4uFZbUN1TogRO5PTIeDpjr) | 3:25 | 2022-07-08 | 2022-11-13 |
+| [O Nascimento do Amor](https://open.spotify.com/track/3YuUvao3dfmUXlFk0cA87h) | [Jazz das Minas](https://open.spotify.com/artist/1EaJsGim4qZ74m9OUkDRTU), [Maíra Freitas](https://open.spotify.com/artist/70h4ULQBucb1sYFJZV4Lxf), [Gênesis](https://open.spotify.com/artist/4XOnzexocuk7gHKqo6aez0) | [O Nascimento do Amor](https://open.spotify.com/album/3wNl4jlk8vIxkavJh3qOmz) | 7:33 | 2023-05-19 |  |
 | [Onze por Oito](https://open.spotify.com/track/3o8OmVpHGukrmH7KRP4Vri) | [Grupo Um](https://open.spotify.com/artist/1bkSkFuMfHxnrnIWMA1NqQ) | [Onze por Oito](https://open.spotify.com/album/6wlNqURb6pjDAVSRCUMYoG) | 4:52 | 2022-12-02 | 2023-01-07 |
 | [Orín](https://open.spotify.com/track/3eMveNQF1lc0y1iksVM2Jt) | [Ubiratan Marques](https://open.spotify.com/artist/7jzGFxFL1yCyD7lB8e245d), [Orquestra Afrosinfônica](https://open.spotify.com/artist/5L28JP0Fiegz0AJe2Cy2ly) | [Orín, a Língua dos Anjos](https://open.spotify.com/album/592rNszuxHVYJAiRbpQAbF) | 4:00 | 2022-07-08 |  |
 | [Oxumaré](https://open.spotify.com/track/00I2arRtIGGhklC90IHj8M) | [Yuri Villar](https://open.spotify.com/artist/78qWTmfQawgOPl1NOQXDzW), [João Bittencourt](https://open.spotify.com/artist/28JIEaZIl98ZoZHRAfHdQF), [Jonas Hocherman](https://open.spotify.com/artist/3gBipfLveXVepyc0XNbS2g), [Felipe Continentino](https://open.spotify.com/artist/1DDvAVAvWDNmmT7fujqYe9), [Julio Florindo](https://open.spotify.com/artist/7hBMnVQFt0AoFQtyn9ykRV), [Felipe La Rosa Moura](https://open.spotify.com/artist/2B5DtTqswW8RYKFyAUKHUQ) | [Oxumaré](https://open.spotify.com/album/33MyikHYPrJMdr3NdOQvQA) | 5:21 | 2022-07-08 | 2023-04-15 |

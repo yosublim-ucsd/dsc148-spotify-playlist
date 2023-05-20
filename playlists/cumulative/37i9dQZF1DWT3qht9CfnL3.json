@@ -613,6 +613,24 @@
     },
     {
       "album": {
+        "name": "Il\u00f3gico",
+        "url": "https://open.spotify.com/album/57sfaJzjp4CP6UcqZc7cm9"
+      },
+      "artists": [
+        {
+          "name": "Karen M\u00e9ndez",
+          "url": "https://open.spotify.com/artist/0txXDZCdXBzha20sgN1GRk"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150600,
+      "name": "Il\u00f3gico",
+      "url": "https://open.spotify.com/track/6a2PRnRqeXkzIaX0a3oLY2"
+    },
+    {
+      "album": {
         "name": "The Academy",
         "url": "https://open.spotify.com/album/1faqBAWocW4ZOe0OFjudGw"
       },

@@ -1763,6 +1763,32 @@
     },
     {
       "album": {
+        "name": "Dark Side Of The Moon",
+        "url": "https://open.spotify.com/album/17PJtxBGAjvkgHGBZgCJ9O"
+      },
+      "artists": [
+        {
+          "name": "LANN\u00c9",
+          "url": "https://open.spotify.com/artist/0K3HwnyYaxoQO9hZCBLtOH"
+        },
+        {
+          "name": "Marc Blou",
+          "url": "https://open.spotify.com/artist/3NqSZ6T8QqQLyA5baayI19"
+        },
+        {
+          "name": "x.o.anne",
+          "url": "https://open.spotify.com/artist/546wUAx4h02JrN0KPXsIGq"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168000,
+      "name": "Dark Side Of The Moon",
+      "url": "https://open.spotify.com/track/2GluxjHlUQntl4JqR4wArt"
+    },
+    {
+      "album": {
         "name": "Day N Night",
         "url": "https://open.spotify.com/album/7qjzUP0zERhX2SCx1EnBQk"
       },
@@ -4620,6 +4646,24 @@
       "duration_ms": 190082,
       "name": "I Feel You Everywhere (Antibodies)",
       "url": "https://open.spotify.com/track/6bubfQc1unpqZ6zNv4Nd02"
+    },
+    {
+      "album": {
+        "name": "i just wanna go",
+        "url": "https://open.spotify.com/album/0fqDeQTsa2llhwwzrxYaIY"
+      },
+      "artists": [
+        {
+          "name": "t e s t p r e s s",
+          "url": "https://open.spotify.com/artist/4udW3rcRXEmwm706eR5h8u"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161000,
+      "name": "i just wanna go",
+      "url": "https://open.spotify.com/track/67KX4FR0w6ghqS8lDXWrAR"
     },
     {
       "album": {
@@ -12036,7 +12080,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 192000,
       "name": "Wish It Was You",
       "url": "https://open.spotify.com/track/3Dr0xDJwXy6JkiHNJfv5zd"

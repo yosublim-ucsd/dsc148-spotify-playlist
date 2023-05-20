@@ -2,15 +2,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Q8j1DJOWem.md) - [plain]
 
 ### [RADAR Thailand](https://open.spotify.com/playlist/37i9dQZF1DX4Q8j1DJOWem)
 
-> ค้นพบที่สุดศิลปินรุ่นใหม่ของประเทศไทยได้ที่นี่เลย.
+> ค้นพบที่สุดศิลปินรุ่นใหม่ของประเทศไทยได้ที่นี่เลย\. ปก: wish.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,768 likes - 50 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,784 likes - 50 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Therapist](https://open.spotify.com/track/42NFq86YCRMnV10M7lihzk) | [PUN](https://open.spotify.com/artist/6HEMZkIMQAPnd36iLsUlTx) | [Therapist](https://open.spotify.com/album/1lagCns5TwcDe8TcJJsHkR) | 3:13 |
-| 2 | [ผิดหน้าที่ \(Responsibility\)](https://open.spotify.com/track/3bSjF0JyKyZGHQMPBumwh2) | [TIGGER \(ทิกเกอร์\)](https://open.spotify.com/artist/2DKX2U91UfBZyzVtlwZWdF), [Aheye of 4EVE](https://open.spotify.com/artist/2Vku6chPlceHuJIr8sHP4u) | [ผิดหน้าที่ \(Responsibility\) \[feat\. Aheye of 4EVE\]](https://open.spotify.com/album/6Sult4isw1GLJ5ezxOVd2p) | 3:13 |
-| 3 | [ตัดใจรอบที่ล้าน](https://open.spotify.com/track/7tLzCItsc7GUBnfxhHFljI) | [wish.](https://open.spotify.com/artist/6GZyaaDSiWwDYjBySZh3rR) | [ตัดใจรอบที่ล้าน](https://open.spotify.com/album/2eId6fIdesXWoFQvyV69u8) | 3:41 |
+| 1 | [ผิดหน้าที่ \(Responsibility\)](https://open.spotify.com/track/3bSjF0JyKyZGHQMPBumwh2) | [TIGGER \(ทิกเกอร์\)](https://open.spotify.com/artist/2DKX2U91UfBZyzVtlwZWdF), [Aheye of 4EVE](https://open.spotify.com/artist/2Vku6chPlceHuJIr8sHP4u) | [ผิดหน้าที่ \(Responsibility\) \[feat\. Aheye of 4EVE\]](https://open.spotify.com/album/6Sult4isw1GLJ5ezxOVd2p) | 3:13 |
+| 2 | [ตัดใจรอบที่ล้าน](https://open.spotify.com/track/7tLzCItsc7GUBnfxhHFljI) | [wish.](https://open.spotify.com/artist/6GZyaaDSiWwDYjBySZh3rR) | [ตัดใจรอบที่ล้าน](https://open.spotify.com/album/2eId6fIdesXWoFQvyV69u8) | 3:41 |
+| 3 | [Therapist](https://open.spotify.com/track/42NFq86YCRMnV10M7lihzk) | [PUN](https://open.spotify.com/artist/6HEMZkIMQAPnd36iLsUlTx) | [Therapist](https://open.spotify.com/album/1lagCns5TwcDe8TcJJsHkR) | 3:13 |
 | 4 | [เปลี่ยนไปแต่เหมือนเดิม \(Changed\)](https://open.spotify.com/track/69nkOVHSHgN2AyZRXHfAeD) | [AYLA's](https://open.spotify.com/artist/2XiaPu2j4nBMhF8pIlt6Bk) | [เปลี่ยนไปแต่เหมือนเดิม \(Changed\)](https://open.spotify.com/album/6k0Frmgoclu4EIJnLlP9vQ) | 3:36 |
 | 5 | [ผู้ถูกเลือกให้ผิดหวัง \(ดอกไม้ฤดูหนาว\) \- Sad flower](https://open.spotify.com/track/7BUHKcrvmr9WIAgEBkwukl) | [เรนิษรา](https://open.spotify.com/artist/2UmVsCJpQoAGPcaKbCyheW) | [ผู้ถูกเลือกให้ผิดหวัง \(ดอกไม้ฤดูหนาว\) \[Sad flower\]](https://open.spotify.com/album/3h5McsoCWje5uRcj8psVEH) | 4:30 |
 | 6 | [อาจเป็นเพราะฉันเอง \(me.\)](https://open.spotify.com/track/4rWdiOhPQVk4vKff04obZl) | [PURPEECH](https://open.spotify.com/artist/3xlC7Dw0uiwprXDHCU9SAu) | [อาจเป็นเพราะฉันเอง \(me.\)](https://open.spotify.com/album/1p1xh6fnnEINwLJ1NY7JFL) | 4:43 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Q8j1DJOWem.md) - [plain]
 | 49 | [จงกลม \(Jongglom\)](https://open.spotify.com/track/08NR0qlrc2rjGmP60oS4vL) | [TOFFE](https://open.spotify.com/artist/2seAV47mn1Z0NnjI78vLPn) | [จงกลม \(Jongglom\)](https://open.spotify.com/album/5hsy4WQbZTWW0V47kFuXex) | 3:24 |
 | 50 | [ขี้แง \(Loser\)](https://open.spotify.com/track/26tG5gvCbjRi9HoNAD7v9f) | [LUSS](https://open.spotify.com/artist/6hJoakJWJIDyWnYujjhhR6), [Patrickananda](https://open.spotify.com/artist/4gjXKx2a7GaIYwSDCBveJx) | [ขี้แง \(Loser\)](https://open.spotify.com/album/01eUOdyqykhWOveIc7Vgtj) | 3:40 |
 
-Snapshot ID: `MCxjNTcwNWE0ZjgxYmJiZTAyNzk1MmZhNDllODQwNjQ0NTNiZTA1YjE0`
+Snapshot ID: `MCwwZDU5ZmEwM2Q1NzllOGY2ZWFhM2JhNTAwMTYyYWYyNmQwNGRlZmY0`

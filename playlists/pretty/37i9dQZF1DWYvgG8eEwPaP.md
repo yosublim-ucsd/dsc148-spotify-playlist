@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYvgG8eEwPaP.md) - [plain]
 
 > Celebrating the oral tradition of Punjabi poetry.
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,558 likes - 28 songs - 2 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,571 likes - 28 songs - 2 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYvgG8eEwPaP.md) - [plain]
 | 19 | [Mitran Di Bhan Pharh Ke](https://open.spotify.com/track/6ZTlIOLbOEX8Pp1A4DQyXA) | [Miss Pooja](https://open.spotify.com/artist/0DyXyd0D6fMUsuD6yONANx) | [Best of Miss Pooja](https://open.spotify.com/album/7KOSz005q6xlD4bfCKcSw0) | 4:39 |
 | 20 | [Go Crazy](https://open.spotify.com/track/2UWwYNUvpSUt9TswL2PnoP) | [PBN feat\. Miss Pooja](https://open.spotify.com/artist/6S8WjXM62zxBkAmNDNf8c2), [PBN](https://open.spotify.com/artist/0VzfZ6oTUwavynHoN4Uuxf), [Miss Pooja](https://open.spotify.com/artist/0DyXyd0D6fMUsuD6yONANx) | [Go Crazy](https://open.spotify.com/album/5f2JoCISsqCwYbU5jA3JNR) | 5:02 |
 | 21 | [Bima Karvalo Jaan Da](https://open.spotify.com/track/3551XCfyJxPxF8CJOpMr1x) | [Miss Pooja](https://open.spotify.com/artist/0DyXyd0D6fMUsuD6yONANx) | [Ishq Garaari](https://open.spotify.com/album/4BLtAkUxm6i28Nfmy9MKzs) | 3:05 |
-| 22 | [Kabje Dilan De Utte](https://open.spotify.com/track/0oCs10Oiv3cYIWJroRX8b5) | [Miss Pooja](https://open.spotify.com/artist/0DyXyd0D6fMUsuD6yONANx), [Karma](https://open.spotify.com/artist/4Ob3TujwOSI66XNXNnRFgo) | [Topper 2](https://open.spotify.com/album/5WdMXD6hfOtFXkqv2gdnW3) | 5:48 |
+| 22 | [Kabje Dilan De Utte](https://open.spotify.com/track/0oCs10Oiv3cYIWJroRX8b5) | [Miss Pooja](https://open.spotify.com/artist/0DyXyd0D6fMUsuD6yONANx), [Karma](https://open.spotify.com/artist/2B2pfYERxf39nlBE4Tj8Fw) | [Topper 2](https://open.spotify.com/album/5WdMXD6hfOtFXkqv2gdnW3) | 5:48 |
 | 23 | [Hero](https://open.spotify.com/track/4rSS0Kijdp54ZKIu3mnVhx) | [Miss Pooja](https://open.spotify.com/artist/0DyXyd0D6fMUsuD6yONANx) | [Best of Miss Pooja](https://open.spotify.com/album/7KOSz005q6xlD4bfCKcSw0) | 4:50 |
 | 24 | [Boliyan Pawan](https://open.spotify.com/track/4kubMMoSAEH8bV6UW0cb6W) | [Harbhajan Mann](https://open.spotify.com/artist/6NhiWVGtq25QmacOUbTXKf) | [Vadhiyan Jee Vadhiyan](https://open.spotify.com/album/2EWn5S5AWvWycIdT5i58FM) | 6:26 |
 | 25 | [Boliyan](https://open.spotify.com/track/5FEeDDrfetiUrWDTT6pI1K) | [Gurdas Maan](https://open.spotify.com/artist/3ttzOzBpRWRBzhn6thqhdT) | [The Very Best Of](https://open.spotify.com/album/3OyG3px0xOAfvJ5pG2XlZm) | 7:06 |
@@ -37,4 +37,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYvgG8eEwPaP.md) - [plain]
 | 27 | [Chah Da Cup, Pt\. 2](https://open.spotify.com/track/0FfqoDtNVC7pSoyVz9MvaL) | [Babu Chandigarhia](https://open.spotify.com/artist/2chDSHehyzR81P7jIxq2nB), [Miss Pooja](https://open.spotify.com/artist/0DyXyd0D6fMUsuD6yONANx) | [Chah Da Cup 2](https://open.spotify.com/album/23iXMTjeU5SFld7PiX3Nnd) | 5:50 |
 | 28 | [Bulley Shah \- Unplugged](https://open.spotify.com/track/4BlL9VYXAYuXc1vNpz6Dc6) | [Silinder Pardesi](https://open.spotify.com/artist/7DAQ0MYm1LQ00GbF7OrtZO) | [Hey Soniye](https://open.spotify.com/album/5A7GfTsFQTO3yiOeJUC9HP) | 4:19 |
 
-Snapshot ID: `MCw4NjAwZDVmNzNiMzE1ZGRmYjdhMGVhZjc5OTk0YmFlOGQ3NGZkMjUy`
+Snapshot ID: `MCxkODk3MGNkYjMxZDZkZjYwNTgwNjU1ZmU1OTBhNDc5MmY2NmE3MTEx`

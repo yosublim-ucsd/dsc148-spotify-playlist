@@ -2,9 +2,9 @@
 
 ### [el under](https://open.spotify.com/playlist/37i9dQZF1DX309NIG5AnQn)
 
-> Nuevo rock alternativo argentino\. <br/>📷 Winona Riders.
+> Nuevo rock alternativo argentino\. <br/>📷 Pacifica.
 
-139 songs - 7 hr 52 min
+143 songs - 8 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,6 +19,7 @@
 | [Amanece](https://open.spotify.com/track/4S2WsYzOnCpuXFTFP6vs8i) | [Nadar de Noche](https://open.spotify.com/artist/4XnY6XFP4XOowCR7184get), [Santiago Motorizado](https://open.spotify.com/artist/1ldpEB62bhHdKBLnaYYLvs) | [Quietud](https://open.spotify.com/album/1EhRQbu7FuQ5HzSafgAMOI) | 3:35 | 2022-03-25 |  |
 | [Amarnos](https://open.spotify.com/track/4GlJZmAfBesKa5xrY0I1rg) | [Norma](https://open.spotify.com/artist/5mPr596XU0RArRWkiY1eFl), [Rotman](https://open.spotify.com/artist/7AdeMWeqQNVbth5VTo9gOf) | [CRO9UIS](https://open.spotify.com/album/6pPaMqRFOp0JAEp5lDju7U) | 3:25 | 2022-03-25 |  |
 | [Amarnos](https://open.spotify.com/track/6JMeRwLmGHjdelPQYF55mN) | [Norma](https://open.spotify.com/artist/5mPr596XU0RArRWkiY1eFl), [Rotman](https://open.spotify.com/artist/7AdeMWeqQNVbth5VTo9gOf) | [Amarnos](https://open.spotify.com/album/5j7KJx5cEJAelHynrW7L0z) | 3:25 | 2023-03-31 | 2023-04-07 |
+| [Anita](https://open.spotify.com/track/3ppvrwFRLLD4PTxmZDZVfO) | [Pacifica](https://open.spotify.com/artist/4YcQuAswXPWdO2WAxTRXse) | [Anita](https://open.spotify.com/album/0zKPQqcqkPWWdNwcE6ZCVy) | 2:51 | 2023-05-19 |  |
 | [Baldío](https://open.spotify.com/track/4F2YFSAvXUBeJpCVGn8meh) | [Norma](https://open.spotify.com/artist/5mPr596XU0RArRWkiY1eFl) | [Baldío](https://open.spotify.com/album/2zoYwEvAMNb9SrEh9zMs6M) | 4:34 | 2023-03-23 |  |
 | [Batalla Naval](https://open.spotify.com/track/2kXaFBuF8o0SpELClw5skx) | [Nina Suárez](https://open.spotify.com/artist/1NQmLvlEcg6hE8CQ0r31GV) | [Batalla Naval](https://open.spotify.com/album/7ir1j0acIgaSxNj2oJqbMh) | 3:23 | 2023-03-23 |  |
 | [Baño de Sangre](https://open.spotify.com/track/1MjJ5ZFLo0qtZyeBPr7Nfj) | [Erich Larsson](https://open.spotify.com/artist/0iD5zEeQslF2KjFvLReU2l) | [Adorno](https://open.spotify.com/album/7JUOpq60jz3lRHQ7p7SROj) | 2:40 | 2022-03-25 | 2023-03-25 |
@@ -30,6 +31,7 @@
 | [Catedral](https://open.spotify.com/track/67aui76AVhF2XwGNvRcK1N) | [Media Hermana](https://open.spotify.com/artist/0oa0TL1V6tfg7ERfm2sMiE), [Mariano Esain](https://open.spotify.com/artist/4bUov6Vu3oOOC1GFLYJ2u8) | [Una Línea Muy Fina Parecida a la Curva de un Corazón](https://open.spotify.com/album/2YisE6MYvZownFAhHqnGX8) | 2:53 | 2023-03-23 |  |
 | [Chica Gotika](https://open.spotify.com/track/68y3JRBvaHyXLt826P5mx7) | [Sakatumba](https://open.spotify.com/artist/205zSqF4seFuqDGmmQEMad) | [Puro Teatro](https://open.spotify.com/album/5re0i0plWzfzkkmuPvhAeK) | 3:07 | 2023-03-31 |  |
 | [Cicuta](https://open.spotify.com/track/6uKDzPZf9wsLDZuI6bPJeC) | [Peces Raros](https://open.spotify.com/artist/5UI7HXsBEfRSsf0T4t48Q9) | [Cicuta](https://open.spotify.com/album/7DrBMH2nRfBfbF1wuFCpN7) | 2:29 | 2022-03-25 | 2023-03-25 |
+| [ciudad de las luces](https://open.spotify.com/track/5vuHb4k2CXKmdyqAF2gpp5) | [montegrande](https://open.spotify.com/artist/662HirrjZdhmvAZseAOOZT) | [ciudad de las luces](https://open.spotify.com/album/5I86K6IwOWfxvHY8r25YTV) | 2:44 | 2023-05-19 |  |
 | [Claromecó](https://open.spotify.com/track/1Sv6fjRxFq9Vx93D0FxPD5) | [Pulover](https://open.spotify.com/artist/3oiKILA5Jzvvg085NwhxId) | [Vapor Americano](https://open.spotify.com/album/0hSAgVRDqV2lz0njQgUjOj) | 2:19 | 2022-03-25 | 2023-03-25 |
 | [Close Talker](https://open.spotify.com/track/6X985dxEsIehhwnOoocLGB) | [Las Kellies](https://open.spotify.com/artist/39BGM7H9RgvHrLoTuqHtze) | [Suck This Tangerine](https://open.spotify.com/album/6JIUBuVVmxP23DasePvHDa) | 3:17 | 2022-03-25 | 2023-03-25 |
 | [Close Talker](https://open.spotify.com/track/6Xz6yDLA9s5U0odqQJyr1w) | [Las Kellies](https://open.spotify.com/artist/39BGM7H9RgvHrLoTuqHtze) | [Close Talker](https://open.spotify.com/album/7KNPZWmHzgoPK0dEs9Hpoy) | 3:17 | 2022-03-25 | 2023-02-08 |
@@ -71,6 +73,7 @@
 | [febrero](https://open.spotify.com/track/48htFaGFraVtzHSv3YeB4O) | [montegrande](https://open.spotify.com/artist/662HirrjZdhmvAZseAOOZT) | [aeropuerto](https://open.spotify.com/album/3ugKv9ex4bNGJAEsBs8Igu) | 3:33 | 2023-03-31 |  |
 | [GENERA\-VIT](https://open.spotify.com/track/2ogBuIpn7gakuffUdj31hd) | [Melanie Williams & El Cabloide](https://open.spotify.com/artist/6O4UKE8rYpWbEBg2LxIS31) | [TReSMO](https://open.spotify.com/album/2EoKazFQaT7LSvR55Nsr2s) | 1:51 | 2023-05-05 |  |
 | [Gualicho](https://open.spotify.com/track/4T19ysiQ1owalfXXXcWZK5) | [Gativideo](https://open.spotify.com/artist/4syvKWgnIigkaQdgF4NNZM) | [Gualicho](https://open.spotify.com/album/2NeIHG0JddnTE6hAd5XzGM) | 3:32 | 2022-03-25 | 2023-03-25 |
+| [Hasta Siempre Amigo](https://open.spotify.com/track/2OhfXrj1TUxx6APfMwqHdN) | [Bestia Bebé](https://open.spotify.com/artist/3j7kmtxJ0aptdHr9ZCnEkp) | [Hasta siempre amigo](https://open.spotify.com/album/4cKAM2P37tkDQFkx7J1mNz) | 3:25 | 2023-05-19 |  |
 | [Hice Todo Mal](https://open.spotify.com/track/75vOAe2y7zhW6XCLU60FaW) | [Las Ligas Menores](https://open.spotify.com/artist/3MNvKeLzGSvOPtXJAjCOzf) | [Hice Todo Mal](https://open.spotify.com/album/3WkSvs5LcrBVpcCdDowpcb) | 3:14 | 2022-03-25 |  |
 | [Hilary D.](https://open.spotify.com/track/6NUfAIEW5Hj3qo8Cj5pEaP) | [Niña Lobo](https://open.spotify.com/artist/4NQaMMaowd4aBdyCHewlZi) | [Hilary D.](https://open.spotify.com/album/38Re6Gvisocy40gAON78H3) | 4:02 | 2022-03-25 | 2023-03-25 |
 | [Hábitat](https://open.spotify.com/track/27XZVuWnI6J6xA3QNO2eAp) | [Nadar de Noche](https://open.spotify.com/artist/4XnY6XFP4XOowCR7184get), [El príncipe idiota](https://open.spotify.com/artist/5xEgsOYkENDU9TRoKMWW3u) | [Hábitat](https://open.spotify.com/album/4vAkxysCMVfWxB60VQCLFO) | 3:49 | 2022-03-25 | 2023-03-25 |
@@ -143,6 +146,7 @@
 | [Vértigo](https://open.spotify.com/track/1PNX59Q0WypLQ0BHPaQgxa) | [Privia](https://open.spotify.com/artist/6YNt4OQyBcr8Hc45UAS8z4) | [Vértigo](https://open.spotify.com/album/6IOe1xvpCdRRSn0Bq0M4Ve) | 3:05 | 2022-03-25 | 2023-03-25 |
 | [Vómito](https://open.spotify.com/track/2aFwjkdha1gFCLfPQjUBgG) | [Las Ex](https://open.spotify.com/artist/72XQhTeAhEJOtHVtJ0nZlY) | [Primera Temporada](https://open.spotify.com/album/7LDp2V0KNQGRMSYPByAvYk) | 2:17 | 2022-03-25 | 2023-03-25 |
 | [XXYY](https://open.spotify.com/track/7t3wLZi6Xit8XRt24POyQW) | [Mujer Cebra](https://open.spotify.com/artist/6UZQzfJ09W8Dqmr0UoU5HL) | [Mujer Cebra](https://open.spotify.com/album/0hVew2aVwFr9160hSXbaf3) | 2:46 | 2022-03-25 |  |
+| [Y No Me Digan Nada](https://open.spotify.com/track/5l9geiaathmbeLRXzhVidT) | [Mujer Cebra](https://open.spotify.com/artist/6UZQzfJ09W8Dqmr0UoU5HL) | [Y No Me Digan Nada](https://open.spotify.com/album/2AvUr6qexfvypIPEcL1bRI) | 3:53 | 2023-05-19 |  |
 | [Yoyaki](https://open.spotify.com/track/5WvRtLWuwBTUfGB0spXFqC) | [La Piba Berreta](https://open.spotify.com/artist/4qECsLAGxuTLtPdDtgMCST) | [Golpe de \(M\)Suerte](https://open.spotify.com/album/2bJIO1lC4xurC0rrjfb8mk) | 3:15 | 2022-03-25 | 2023-03-25 |
 | [¿Cuánto Falta?](https://open.spotify.com/track/6Xt4PwgXPHenb5K4UE2S1d) | [Tranki Punki](https://open.spotify.com/artist/1voO7UCR96uHnMVl0uyMp7), [Susy Shock](https://open.spotify.com/artist/7cSEm0IEhlSHyPx0rXC6oY) | [Marea Negra](https://open.spotify.com/album/4iEcgpEhZvR6PcbAvBABXC) | 3:27 | 2022-03-25 | 2023-03-25 |
 | [Éxodo Mental](https://open.spotify.com/track/0kjtwZybKdX5uXK1qCHojD) | [Piba](https://open.spotify.com/artist/1IInCoJv0r1nx56b0qFhVb) | [Éxodo Mental](https://open.spotify.com/album/3m9ywZHKa2Zj2uldZ4s3CO) | 3:16 | 2023-03-31 |  |

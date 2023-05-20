@@ -1,12 +1,12 @@
 {
   "description": "Check out these inspired hits to keep your Summer fun and upbeat!",
-  "num_followers": 25382,
+  "num_followers": 25386,
   "original_name": "Rejoice for Summer",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5YzI0NTkxYWE3YjIwNTcwNWJkMGUzODFjMWU0N2YyMmVlYzc1ZTFk",
+  "snapshot_id": "MCw1YTYyODU5MjYwMGQwMGMzODJkYWVlODk0NTJjYmZkZTM2YTkyNzY5",
   "tracks": [
     {
       "added_at": "2020-08-13 14:39:00",
@@ -1191,22 +1191,6 @@
     {
       "added_at": "2020-08-13 14:39:00",
       "album": {
-        "name": "Peopled with Dreams",
-        "url": "https://open.spotify.com/album/3jjIZaP21vWBSrmQlsXrtv"
-      },
-      "artists": [
-        {
-          "name": "John Mark McMillan",
-          "url": "https://open.spotify.com/artist/0T1KC0OHfbRO0O5bNH2tek"
-        }
-      ],
-      "duration_ms": 234558,
-      "name": "Juggernaut",
-      "url": "https://open.spotify.com/track/5IPkJqYSdbCJJHZA840z3I"
-    },
-    {
-      "added_at": "2020-08-13 14:39:00",
-      "album": {
         "name": "Twenty Four Seven",
         "url": "https://open.spotify.com/album/78W0lU34coKODcz3Ln3Vfn"
       },
@@ -1219,6 +1203,22 @@
       "duration_ms": 186513,
       "name": "Fanatic",
       "url": "https://open.spotify.com/track/7L1i9lKq51GNndddOR3joe"
+    },
+    {
+      "added_at": "2020-08-13 14:39:00",
+      "album": {
+        "name": "Peopled with Dreams",
+        "url": "https://open.spotify.com/album/3jjIZaP21vWBSrmQlsXrtv"
+      },
+      "artists": [
+        {
+          "name": "John Mark McMillan",
+          "url": "https://open.spotify.com/artist/0T1KC0OHfbRO0O5bNH2tek"
+        }
+      ],
+      "duration_ms": 234558,
+      "name": "Juggernaut",
+      "url": "https://open.spotify.com/track/5IPkJqYSdbCJJHZA840z3I"
     },
     {
       "added_at": "2020-08-13 14:39:00",
@@ -1339,22 +1339,6 @@
     {
       "added_at": "2020-08-13 14:39:00",
       "album": {
-        "name": "Let It Be Love",
-        "url": "https://open.spotify.com/album/2WaFXJRZ9X7rjbfqwBss5t"
-      },
-      "artists": [
-        {
-          "name": "The Color",
-          "url": "https://open.spotify.com/artist/5Zrsjw80yCENGwI7YJaT4d"
-        }
-      ],
-      "duration_ms": 177566,
-      "name": "Let It Be Love",
-      "url": "https://open.spotify.com/track/0BMFvzRTxSgh4qkskMJqYV"
-    },
-    {
-      "added_at": "2020-08-13 14:39:00",
-      "album": {
         "name": "The One Where I Talk To God",
         "url": "https://open.spotify.com/album/1npPoXS35aTSLnPW8JAeAz"
       },
@@ -1375,6 +1359,22 @@
       "duration_ms": 205101,
       "name": "The One Where I Talk To God",
       "url": "https://open.spotify.com/track/0AYWhKWWhO4TtbQwvHSCXA"
+    },
+    {
+      "added_at": "2020-08-13 14:39:00",
+      "album": {
+        "name": "Let It Be Love",
+        "url": "https://open.spotify.com/album/2WaFXJRZ9X7rjbfqwBss5t"
+      },
+      "artists": [
+        {
+          "name": "The Color",
+          "url": "https://open.spotify.com/artist/5Zrsjw80yCENGwI7YJaT4d"
+        }
+      ],
+      "duration_ms": 177566,
+      "name": "Let It Be Love",
+      "url": "https://open.spotify.com/track/0BMFvzRTxSgh4qkskMJqYV"
     },
     {
       "added_at": "2020-08-13 14:39:00",
@@ -1459,22 +1459,6 @@
     {
       "added_at": "2020-08-13 14:39:00",
       "album": {
-        "name": "Chasing Quiet",
-        "url": "https://open.spotify.com/album/0a6FXEKKbN0nVdKF9ZIpsg"
-      },
-      "artists": [
-        {
-          "name": "Elizabeth Grace",
-          "url": "https://open.spotify.com/artist/2t0oDEgacnqOQRFJqiTH8s"
-        }
-      ],
-      "duration_ms": 158400,
-      "name": "Chasing Quiet",
-      "url": "https://open.spotify.com/track/1DlqtcXFYM730abZTuudEr"
-    },
-    {
-      "added_at": "2020-08-13 14:39:00",
-      "album": {
         "name": "North Point Worship",
         "url": "https://open.spotify.com/album/4iPLd5iYcr0O0xWLYkRd63"
       },
@@ -1499,18 +1483,18 @@
     {
       "added_at": "2020-08-13 14:39:00",
       "album": {
-        "name": "Surprise",
-        "url": "https://open.spotify.com/album/5JEELfVybvnrXxwfsN57kg"
+        "name": "Chasing Quiet",
+        "url": "https://open.spotify.com/album/0a6FXEKKbN0nVdKF9ZIpsg"
       },
       "artists": [
         {
-          "name": "The Color",
-          "url": "https://open.spotify.com/artist/5Zrsjw80yCENGwI7YJaT4d"
+          "name": "Elizabeth Grace",
+          "url": "https://open.spotify.com/artist/2t0oDEgacnqOQRFJqiTH8s"
         }
       ],
-      "duration_ms": 193978,
-      "name": "Surprise",
-      "url": "https://open.spotify.com/track/0rOoue2YWOY9579CzZZzOc"
+      "duration_ms": 158400,
+      "name": "Chasing Quiet",
+      "url": "https://open.spotify.com/track/1DlqtcXFYM730abZTuudEr"
     },
     {
       "added_at": "2020-08-13 14:39:00",
@@ -1531,6 +1515,22 @@
       "duration_ms": 208941,
       "name": "Snapshot",
       "url": "https://open.spotify.com/track/4hO0jaw7w3gF4JjdImHEyf"
+    },
+    {
+      "added_at": "2020-08-13 14:39:00",
+      "album": {
+        "name": "Surprise",
+        "url": "https://open.spotify.com/album/5JEELfVybvnrXxwfsN57kg"
+      },
+      "artists": [
+        {
+          "name": "The Color",
+          "url": "https://open.spotify.com/artist/5Zrsjw80yCENGwI7YJaT4d"
+        }
+      ],
+      "duration_ms": 193978,
+      "name": "Surprise",
+      "url": "https://open.spotify.com/track/0rOoue2YWOY9579CzZZzOc"
     },
     {
       "added_at": "2020-08-13 14:39:00",
@@ -1587,6 +1587,22 @@
     {
       "added_at": "2020-08-13 14:39:00",
       "album": {
+        "name": "Fearless",
+        "url": "https://open.spotify.com/album/3Da7uQ0supGljmcN9WERGY"
+      },
+      "artists": [
+        {
+          "name": "Jasmine Murray",
+          "url": "https://open.spotify.com/artist/3RsGHkHYZW0WkXcEf0CRdR"
+        }
+      ],
+      "duration_ms": 207893,
+      "name": "No Other Love",
+      "url": "https://open.spotify.com/track/6S6gRg1USprs9773Ew66ff"
+    },
+    {
+      "added_at": "2020-08-13 14:39:00",
+      "album": {
         "name": "Shattered",
         "url": "https://open.spotify.com/album/5rrpgUyAmIR68i3pSv5Uhm"
       },
@@ -1603,22 +1619,6 @@
       "duration_ms": 184613,
       "name": "Give It All",
       "url": "https://open.spotify.com/track/1jeTXQnC2f5rpY4T01MrYa"
-    },
-    {
-      "added_at": "2020-08-13 14:39:00",
-      "album": {
-        "name": "Fearless",
-        "url": "https://open.spotify.com/album/3Da7uQ0supGljmcN9WERGY"
-      },
-      "artists": [
-        {
-          "name": "Jasmine Murray",
-          "url": "https://open.spotify.com/artist/3RsGHkHYZW0WkXcEf0CRdR"
-        }
-      ],
-      "duration_ms": 207893,
-      "name": "No Other Love",
-      "url": "https://open.spotify.com/track/6S6gRg1USprs9773Ew66ff"
     },
     {
       "added_at": "2020-08-13 14:39:00",

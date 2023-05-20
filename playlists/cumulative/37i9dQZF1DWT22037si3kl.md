@@ -4,7 +4,7 @@
 
 > Chique e confortável como a realeza do Trap\. Foto: Vulgo FK, Kyan
 
-215 songs - 10 hr 48 min
+216 songs - 10 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -135,7 +135,8 @@
 | [Nascido Pra Ser Rei](https://open.spotify.com/track/4ToiWhiO0NHjhaBjFz4JDf) | [Dudu](https://open.spotify.com/artist/5Ynf8bbQV9ICbK3vZoPxGF), [LEALL](https://open.spotify.com/artist/4h52MPCFvx56uhmH254Uqz), [nvhuel](https://open.spotify.com/artist/1FwW77wjo2Ri4RDWIXsLen) | [Nascido Pra Ser Rei](https://open.spotify.com/album/6Rq6eAjewxn9UFtx2EHTjn) | 3:03 | 2022-03-18 | 2022-04-29 |
 | [Negrão Demais](https://open.spotify.com/track/7AGJTioC8QBnGWJlhxHXuq) | [Zuluzão](https://open.spotify.com/artist/7GfBhUixcdpCEYmSMjT1aV), [uzzn](https://open.spotify.com/artist/67MmjOmWtHtGANmzJlnvAC) | [Negrão Demais](https://open.spotify.com/album/6mrxtUYxFHtDSkwZlP4GDW) | 2:32 | 2022-03-18 | 2022-03-26 |
 | [Nike Bolha](https://open.spotify.com/track/4ZUZ08cPAVeWBVBFjT61Gh) | [Danzo](https://open.spotify.com/artist/5ZyT4ZJtpQdihQ7MTMTluE) | [Nike Bolha](https://open.spotify.com/album/09RMU8rZLSzxwm1Hc9MMaR) | 2:11 | 2022-04-18 | 2022-05-20 |
-| [No Love](https://open.spotify.com/track/3HjRNbYrOfKnbAav3fU5KL) | [Tz da Coronel](https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e), [Ariel Donato](https://open.spotify.com/artist/7H3XEvrS2PsNzM76MczgHJ), [NADAMAL](https://open.spotify.com/artist/3YVxmhkewoRHu8WFgWlCb7) | [No Love](https://open.spotify.com/album/50GSItNqYJip64TPybq3A4) | 3:00 | 2022-09-05 |  |
+| [No Love](https://open.spotify.com/track/6ExnOUWNlAtsJCsqsa2GDB) | [Tz da Coronel](https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e), [Ariel Donato](https://open.spotify.com/artist/7H3XEvrS2PsNzM76MczgHJ) | [No Love](https://open.spotify.com/album/5IRcRuEihMES5gUZWVsGyo) | 3:00 | 2023-05-12 |  |
+| [No Love](https://open.spotify.com/track/3HjRNbYrOfKnbAav3fU5KL) | [Tz da Coronel](https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e), [Ariel Donato](https://open.spotify.com/artist/7H3XEvrS2PsNzM76MczgHJ), [NADAMAL](https://open.spotify.com/artist/3YVxmhkewoRHu8WFgWlCb7) | [No Love](https://open.spotify.com/album/50GSItNqYJip64TPybq3A4) | 3:00 | 2022-09-05 | 2023-05-20 |
 | [NO WAY](https://open.spotify.com/track/7wprYFS7O5GZC3EOeDS8ce) | [NN3RD](https://open.spotify.com/artist/1Z03arRtzZ9BC49yiCQ839), [Lil Fuub](https://open.spotify.com/artist/47KYl2Wi5f5jmldU2F13An), [Indie Space](https://open.spotify.com/artist/0W1Rb8JlinMAExLtluwWxr) | [NO WAY](https://open.spotify.com/album/0huWAe5IoXvu2oP1VZEf1L) | 2:06 | 2023-04-14 | 2023-04-22 |
 | [Nois faz a moda](https://open.spotify.com/track/29cJDWOBQqeDPdYbu4kwki) | [Danzo](https://open.spotify.com/artist/5ZyT4ZJtpQdihQ7MTMTluE), [Kyan](https://open.spotify.com/artist/05qCf6M7E7AxizHVmrcPqh), [Labbel Rec](https://open.spotify.com/artist/4tfQzFEhNTBnKUrYueeLKX) | [Nois faz a moda](https://open.spotify.com/album/35PHjpGIk3ICMNWOJ1GcXv) | 3:03 | 2022-06-03 | 2022-10-15 |
 | [Nova Fase](https://open.spotify.com/track/2V4uzJ0zujKhwlhVQ0NAQH) | [Yunk Vino](https://open.spotify.com/artist/460m2YG30duLCuHwFdiLgX), [Kyan](https://open.spotify.com/artist/05qCf6M7E7AxizHVmrcPqh), [Vulgo FK](https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0), [Labbel Rec](https://open.spotify.com/artist/4tfQzFEhNTBnKUrYueeLKX) | [Nova Fase](https://open.spotify.com/album/5CcnLJwMVyZBlDRxUzffWo) | 3:32 | 2022-05-27 | 2022-10-01 |

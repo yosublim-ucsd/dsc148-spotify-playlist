@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "make it pop! cover: Jeremy Zucker",
+  "description": "make it pop! cover: anees",
   "name": "soda",
   "tracks": [
     {
@@ -114,6 +114,24 @@
       "duration_ms": 148596,
       "name": "2 Tickets",
       "url": "https://open.spotify.com/track/6YjaHh4wHcODkm1dcwlCj7"
+    },
+    {
+      "album": {
+        "name": "2009 TOYOTA",
+        "url": "https://open.spotify.com/album/1K5aIK5fyR6FuA69uSysJ9"
+      },
+      "artists": [
+        {
+          "name": "Thomas Headon",
+          "url": "https://open.spotify.com/artist/0dn62y7ayEAxcIcMcBWXIE"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142003,
+      "name": "2009 TOYOTA",
+      "url": "https://open.spotify.com/track/0v0yfan1gz6Cznv0BLXp8Z"
     },
     {
       "album": {
@@ -2276,7 +2294,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 194798,
       "name": "Dark Skies",
       "url": "https://open.spotify.com/track/6md6TywIVmybRn604WiPdu"
@@ -6619,6 +6637,24 @@
     },
     {
       "album": {
+        "name": "LOVE IS A...",
+        "url": "https://open.spotify.com/album/4t2uQMc6hW16fiIAY1Cx2K"
+      },
+      "artists": [
+        {
+          "name": "PVRIS",
+          "url": "https://open.spotify.com/artist/6oFs3qk4VepIVFdoD4jmsy"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221440,
+      "name": "LOVE IS A...",
+      "url": "https://open.spotify.com/track/26KB6jZEqehXJNpguKRomC"
+    },
+    {
+      "album": {
         "name": "Love You When You\u2019re Gone",
         "url": "https://open.spotify.com/album/79tNM6qA2pbRsx7fXfXAG2"
       },
@@ -6724,6 +6760,24 @@
       "duration_ms": 192273,
       "name": "Malibu",
       "url": "https://open.spotify.com/track/3b3mKCoZCKZjzO2n6M5fmy"
+    },
+    {
+      "album": {
+        "name": "Married Young",
+        "url": "https://open.spotify.com/album/2fQf4Fsxi4n7hcOzpy4ldx"
+      },
+      "artists": [
+        {
+          "name": "Jake Scott",
+          "url": "https://open.spotify.com/artist/0DxPHf2flBAcV2SnZPg3SV"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185482,
+      "name": "Married Young",
+      "url": "https://open.spotify.com/track/5VpScSThzAjVghCEDOcXS2"
     },
     {
       "album": {
@@ -7034,6 +7088,24 @@
       "duration_ms": 218709,
       "name": "moshpit",
       "url": "https://open.spotify.com/track/5LIwaCUAPW3ugjQ5ls3Fxs"
+    },
+    {
+      "album": {
+        "name": "Mourning",
+        "url": "https://open.spotify.com/album/5mr7Zd2DiuChyMNQ5x76HX"
+      },
+      "artists": [
+        {
+          "name": "Post Malone",
+          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147819,
+      "name": "Mourning",
+      "url": "https://open.spotify.com/track/0gWrMbx6pbdH3n3nsLjE55"
     },
     {
       "album": {
@@ -9861,6 +9933,24 @@
     },
     {
       "album": {
+        "name": "summer camp",
+        "url": "https://open.spotify.com/album/4mO5hcuCZYh8TyVgUjkIvi"
+      },
+      "artists": [
+        {
+          "name": "anees",
+          "url": "https://open.spotify.com/artist/2HPqVfdPh9JkBSlFG5hK6h"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172354,
+      "name": "sunny day",
+      "url": "https://open.spotify.com/track/7dA3NRsBnVKtQZgjR5Lzf8"
+    },
+    {
+      "album": {
         "name": "Sunroof",
         "url": "https://open.spotify.com/album/7xb8OvPMTdDSELqdWcddA0"
       },
@@ -10028,6 +10118,24 @@
       "duration_ms": 187059,
       "name": "Tangerine",
       "url": "https://open.spotify.com/track/2JSwrpnYbxzKJVmc69cGZ9"
+    },
+    {
+      "album": {
+        "name": "Tears in the Moonlight",
+        "url": "https://open.spotify.com/album/5VMt4kmFV2RghvnTx9DCyu"
+      },
+      "artists": [
+        {
+          "name": "Kelechi",
+          "url": "https://open.spotify.com/artist/0c62xvYMgfzgFPOXg8uhEU"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179222,
+      "name": "Tears in the Moonlight",
+      "url": "https://open.spotify.com/track/2MAz9mZH3n9nVGZWUC2VUh"
     },
     {
       "album": {

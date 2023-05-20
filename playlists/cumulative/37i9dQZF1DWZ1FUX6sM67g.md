@@ -4,7 +4,7 @@
 
 > ¡En este punto tropical, se encuentra un poco de todo! Foto: Sebastian Yatra, Manuel Turizo, Beéle
 
-133 songs - 8 hr 4 min
+134 songs - 8 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,6 +30,7 @@
 | [Carita de Inocente](https://open.spotify.com/track/30oZjF87SHCd0CE0ttGm5U) | [Prince Royce](https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC) | [ALTER EGO](https://open.spotify.com/album/3si9Tt0MEyLf26borb6B5p) | 3:11 | 2022-05-20 |  |
 | [Cartagena](https://open.spotify.com/track/1UGXsiNn0ACf2MXuHXuiJE) | [Fonseca](https://open.spotify.com/artist/53KTldaJ8tHSkYU3nigfwP), [Silvestre Dangond](https://open.spotify.com/artist/3OcvS8PzSGYMBvLdzY6g3e) | [Cartagena](https://open.spotify.com/album/0KPZ1OkD2EUQpaWVKnnJtM) | 2:54 | 2022-05-20 | 2022-10-08 |
 | [Cartas Sobre La Mesa](https://open.spotify.com/track/0uXqpDkoW72tss8cbja7Ew) | [Gilberto Santa Rosa](https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1) | [Cartas Sobre La Mesa](https://open.spotify.com/album/2vHiGSGYRjcoJMarvktzhi) | 3:11 | 2022-05-20 |  |
+| [Cecilia \(feat\. Juan Luis Guerra 4.40\)](https://open.spotify.com/track/537WNh9i0Mm1u48olB7NWj) | [Juanes](https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7), [Juan Luis Guerra 4.40](https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559) | [Vida Cotidiana](https://open.spotify.com/album/1fHpKy8dfAplGSfcOsqtOm) | 3:28 | 2023-05-19 |  |
 | [Chacha Me \- Español](https://open.spotify.com/track/3d2O38xlPzQRHo98Brb6Xn) | [Mauro Castillo](https://open.spotify.com/artist/36CUTsdtNgCwMq6zKD1l8I) | [Chacha Me](https://open.spotify.com/album/1Ts5BDhFPlSth1TgB37iC0) | 3:20 | 2022-05-20 | 2022-08-06 |
 | [Como Te Pago](https://open.spotify.com/track/4lkbBBumrQF1SDhQkqs0Y3) | [Lenier](https://open.spotify.com/artist/4zWFlKgU4j7ryWg5nsOmU6) | [Como Te Pago](https://open.spotify.com/album/4wsFdlinRYh4XPvMLwSgEM) | 3:13 | 2022-05-20 |  |
 | [Como Tu No Hay Dos \- Acoustic Version](https://open.spotify.com/track/4CpPFzhamJ5cuxZmBL8NTd) | [Buxxi](https://open.spotify.com/artist/08Cb5OwPZ7SrS19MNYaHqz), [Jacob Bush](https://open.spotify.com/artist/5pTsrFcYLR8Uy9f1wMUXDz) | [Como Tu No Hay Dos \(Acoustic Version\)](https://open.spotify.com/album/6LxvokuIy4HhATjbxNAXzH) | 2:50 | 2022-05-20 | 2023-04-22 |
@@ -48,7 +49,7 @@
 | [Después de la Playa](https://open.spotify.com/track/1dm6z1fWB0cErMszU25dy2) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Un Verano Sin Ti](https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5) | 3:50 | 2022-05-20 | 2023-04-22 |
 | [Después de la Playa / Me Porto Bonito](https://open.spotify.com/track/1j5zmxtObsNWBsd4pZMCqi) | [Combinacion De La Habana](https://open.spotify.com/artist/3hfczsQRbhO3io1UwQFM1y) | [Después de la Playa / Me Porto Bonito](https://open.spotify.com/album/0SXL43fhwmNUWngNuDXLCO) | 6:00 | 2022-08-05 | 2022-10-08 |
 | [Dios Así Lo Quiso](https://open.spotify.com/track/6pSS2IOxlapb62T7NAOX1Q) | [Ricardo Montaner](https://open.spotify.com/artist/4uoz4FUMvpeyGClFTTDBsD), [Juan Luis Guerra 4.40](https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559) | [Dios Así Lo Quiso](https://open.spotify.com/album/2XLdU438g2M5bBHAO1yNWf) | 3:33 | 2022-05-20 | 2022-11-12 |
-| [El carro Ford](https://open.spotify.com/track/3xyz9QMAjvWC0muckkitYp) | [Carlos Vives](https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr) | [Escalona Nunca Se Había Grabado Así](https://open.spotify.com/album/7kNLI2jHSLoCzMdvs1ZQhz) | 2:59 | 2023-04-21 |  |
+| [El carro Ford](https://open.spotify.com/track/3xyz9QMAjvWC0muckkitYp) | [Carlos Vives](https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr) | [Escalona Nunca Se Había Grabado Así](https://open.spotify.com/album/7kNLI2jHSLoCzMdvs1ZQhz) | 2:59 | 2023-04-21 | 2023-05-20 |
 | [El Merengue](https://open.spotify.com/track/51FvjPEGKq2zByeeEQ43V9) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [El Merengue](https://open.spotify.com/album/6sU751LOdNBPvVErW1GunP) | 3:09 | 2023-03-03 |  |
 | [El Mismo Aire](https://open.spotify.com/track/5Y0hkLkzdrTuPGWYLvm6oO) | [La K'onga](https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R) | [El Mismo Aire](https://open.spotify.com/album/58jn8fMK2cWTJUuVLjLJdY) | 3:29 | 2022-05-20 |  |
 | [El Mito del Ayahuasca](https://open.spotify.com/track/422hEiUIkdltQvJvk6xU6U) | [Juaneco Y Su Combo](https://open.spotify.com/artist/4sTcgUXJRSvSQHei3ZQUBR), [Miki Gonzalez](https://open.spotify.com/artist/0ifCMWK5i03zLZL2N5hmWy) | [El Mito del Ayahuasca](https://open.spotify.com/album/5t6VxqdIyiOR0uB4nhuLvi) | 3:04 | 2022-08-05 | 2022-09-03 |

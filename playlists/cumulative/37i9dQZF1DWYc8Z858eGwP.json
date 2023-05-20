@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "The most exciting new artists on the rise from the African continent & diaspora. Cover: <a href=\"https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE?si=apOHmSg9SXuME1XM97lMPg\">Tyla</a>",
+  "description": "The most exciting new artists on the rise from the African continent & diaspora. Cover: <a href=\"https://open.spotify.com/artist/2J4IvVbi2h1wB2A0p5kd86?si=oCk7z0ZBTPy4Sytc5eYEXQ\">Xenia Manasseh</a>",
   "name": "RADAR Africa",
   "tracks": [
     {
@@ -1393,6 +1393,24 @@
     },
     {
       "album": {
+        "name": "Gone Back",
+        "url": "https://open.spotify.com/album/5TGbLOhXDrvgJhzSiobOSo"
+      },
+      "artists": [
+        {
+          "name": "Raybekah",
+          "url": "https://open.spotify.com/artist/0SwPkNmxB2YGHWVJMI8kpW"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156226,
+      "name": "Gone Back",
+      "url": "https://open.spotify.com/track/1SfzUZfk6wiNqJNWv0dz9u"
+    },
+    {
+      "album": {
         "name": "Gone Far",
         "url": "https://open.spotify.com/album/18Q01D7GFl85NruCnXalNO"
       },
@@ -2156,7 +2174,7 @@
       ],
       "date_added": "2023-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 169822,
       "name": "Let There Be Light",
       "url": "https://open.spotify.com/track/7qcOfwTMGLkzOmC1sIFwfr"
@@ -2618,10 +2636,32 @@
       ],
       "date_added": "2023-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 182654,
       "name": "Necessary",
       "url": "https://open.spotify.com/track/7smcI2O4mrVzrb9X1B2u26"
+    },
+    {
+      "album": {
+        "name": "1DA SHALL NEVER END",
+        "url": "https://open.spotify.com/album/71DBsdMhCN3FgBRM1YicpT"
+      },
+      "artists": [
+        {
+          "name": "1da Banton",
+          "url": "https://open.spotify.com/artist/6dlzQ6fiPna40trq1Ek6cb"
+        },
+        {
+          "name": "255",
+          "url": "https://open.spotify.com/artist/7dNuDxuZN795qebo6RlTwK"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194499,
+      "name": "No Love in Lagos",
+      "url": "https://open.spotify.com/track/4chodBBB3GGkZ9J5E1Aned"
     },
     {
       "album": {
@@ -3525,6 +3565,28 @@
     },
     {
       "album": {
+        "name": "Talk Ni Cheap",
+        "url": "https://open.spotify.com/album/3xvkQ8HoEKB5cMklZTB6UW"
+      },
+      "artists": [
+        {
+          "name": "BURUKLYN BOYZ",
+          "url": "https://open.spotify.com/artist/4iXOuQsJ5qOOC7HgOIXLFU"
+        },
+        {
+          "name": "Mr right",
+          "url": "https://open.spotify.com/artist/5FafI7t7Msq7cTLo1qyjHG"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191034,
+      "name": "Talk Ni Cheap",
+      "url": "https://open.spotify.com/track/3yLgHCgibaREPaivKLUfUc"
+    },
+    {
+      "album": {
         "name": "Tanzania",
         "url": "https://open.spotify.com/album/3line3IHxaBqcjloHs4ZKN"
       },
@@ -3552,6 +3614,24 @@
       "duration_ms": 376078,
       "name": "Tanzania",
       "url": "https://open.spotify.com/track/5z6oqX6l6kTSPB9gSRnLzE"
+    },
+    {
+      "album": {
+        "name": "Temporary Love",
+        "url": "https://open.spotify.com/album/7Ik6vXPyiM9jflElmt78cQ"
+      },
+      "artists": [
+        {
+          "name": "Xenia Manasseh",
+          "url": "https://open.spotify.com/artist/2J4IvVbi2h1wB2A0p5kd86"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156213,
+      "name": "Temporary Love",
+      "url": "https://open.spotify.com/track/502fO9MaTL1FXQxilajwW8"
     },
     {
       "album": {
@@ -3910,7 +3990,7 @@
       ],
       "date_added": "2023-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 107276,
       "name": "When It's Over",
       "url": "https://open.spotify.com/track/1zRmXlJ5fV2vZJHt04tTJc"
@@ -4140,7 +4220,7 @@
       ],
       "date_added": "2023-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 178316,
       "name": "ZOZA",
       "url": "https://open.spotify.com/track/04uUjjh7lhF1kGuYs4mMRq"

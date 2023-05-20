@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-22",
-  "description": "Sangre fresca en las escenas del indie y el rock. The Warning en Portada. ",
+  "description": "Sangre fresca en las escenas del indie y el rock. Hello Seahorse! en Portada. ",
   "name": "EL ROCK NO HA MUERTO",
   "tracks": [
     {
@@ -718,7 +718,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 189600,
       "name": "Cometa 1984",
       "url": "https://open.spotify.com/track/23WnCzq7npJbLDw6iqIJpQ"
@@ -936,6 +936,24 @@
       "duration_ms": 240946,
       "name": "Cosas Invisibles",
       "url": "https://open.spotify.com/track/33R9nKgwAP04xQfPh0HZ56"
+    },
+    {
+      "album": {
+        "name": "CRAYONS",
+        "url": "https://open.spotify.com/album/27M7LrCjyRPRA1uGHhrKTc"
+      },
+      "artists": [
+        {
+          "name": "Los Dynamite",
+          "url": "https://open.spotify.com/artist/1GKdmNdhZtLT9oCmtAEFL9"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243424,
+      "name": "CRAYONS",
+      "url": "https://open.spotify.com/track/1SyDmqNDi7JciuG0HMr5dy"
     },
     {
       "album": {
@@ -1192,7 +1210,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 136413,
       "name": "Desde Afuera",
       "url": "https://open.spotify.com/track/2S40OvSsD1hEK1tsuFz4CS"
@@ -1487,6 +1505,24 @@
     },
     {
       "album": {
+        "name": "EL FINAL",
+        "url": "https://open.spotify.com/album/6InT8SPpU1AIUXcQsbMZ00"
+      },
+      "artists": [
+        {
+          "name": "Hello Seahorse!",
+          "url": "https://open.spotify.com/artist/3vKxuOGRkXJWpCZPf01Nj8"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232283,
+      "name": "EL FINAL",
+      "url": "https://open.spotify.com/track/2v0HNNJ3mijsvzOgHq8EHO"
+    },
+    {
+      "album": {
         "name": "Transcender",
         "url": "https://open.spotify.com/album/1MWFI4H59Zw7cq1JvobjOk"
       },
@@ -1660,7 +1696,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 174586,
       "name": "Estrella Fugaz",
       "url": "https://open.spotify.com/track/6RapbxJ0fKZTb07u0q19S3"
@@ -2331,6 +2367,24 @@
     },
     {
       "album": {
+        "name": "Algo Tiene Que Cambiar",
+        "url": "https://open.spotify.com/album/2iKR4ZBb3NLJM0Zg8yhQvi"
+      },
+      "artists": [
+        {
+          "name": "Alan Sutton y las criaturitas de la ansiedad",
+          "url": "https://open.spotify.com/artist/3OFrGQrdXwm0UgTERW6LAV"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186812,
+      "name": "La Mochila del Mundo",
+      "url": "https://open.spotify.com/track/2tch5wBhdrdAkZYuJlAdhb"
+    },
+    {
+      "album": {
         "name": "La sangre en el cuerpo (En Vivo)",
         "url": "https://open.spotify.com/album/1VwqVC3ohbh3Xtxtwu3z5J"
       },
@@ -2414,7 +2468,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 214875,
       "name": "Last\u00edmame",
       "url": "https://open.spotify.com/track/6bFrs6WlBhAXEk5vt9Me7f"
@@ -2450,7 +2504,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 196630,
       "name": "Lejos de M\u00ed",
       "url": "https://open.spotify.com/track/3xu8MJIRspNhJilbRnI5mI"
@@ -3187,6 +3241,24 @@
     },
     {
       "album": {
+        "name": "Coraz\u00f3n de Mu\u00f1eca",
+        "url": "https://open.spotify.com/album/0U53bWMxR0v2DpWpfEzTEP"
+      },
+      "artists": [
+        {
+          "name": "Margaritas Podridas",
+          "url": "https://open.spotify.com/artist/5O9NicFLG2F9Xr7OHxmrb7"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205612,
+      "name": "Mu\u00f1eca",
+      "url": "https://open.spotify.com/track/0oiz4s31QXy6Mremkst4Ux"
+    },
+    {
+      "album": {
         "name": "M\u00e1scara de Ni\u00f1a",
         "url": "https://open.spotify.com/album/5oYBMmeTlPZcIqwqSL9iEw"
       },
@@ -3362,6 +3434,24 @@
       "duration_ms": 224999,
       "name": "No",
       "url": "https://open.spotify.com/track/5WtamSoWfV3Zj2NKMSTGhy"
+    },
+    {
+      "album": {
+        "name": "No Estoy",
+        "url": "https://open.spotify.com/album/1O776s0DpVKXrEvv2k5MVg"
+      },
+      "artists": [
+        {
+          "name": "Kinder Malo",
+          "url": "https://open.spotify.com/artist/1Aoj8qX6kPfLTagb7qbKg0"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153901,
+      "name": "No Estoy",
+      "url": "https://open.spotify.com/track/1kP5YGbeWnYLVlWbuX6rLG"
     },
     {
       "album": {
@@ -4670,7 +4760,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 247871,
       "name": "Tratar\u00e9",
       "url": "https://open.spotify.com/track/6WJoIAAWCFam54pzy7tmSZ"
@@ -5026,6 +5116,24 @@
       "duration_ms": 195317,
       "name": "vitaminas",
       "url": "https://open.spotify.com/track/1uQTZD3fC0WJJW9mogGS13"
+    },
+    {
+      "album": {
+        "name": "VOID",
+        "url": "https://open.spotify.com/album/5KidTGNtKDsqsItKqUcG9V"
+      },
+      "artists": [
+        {
+          "name": "Usted Se\u00f1alemelo",
+          "url": "https://open.spotify.com/artist/1a1v0OJC5GqtsLwzoqJm7j"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199901,
+      "name": "VOID",
+      "url": "https://open.spotify.com/track/6uPUgwjxECrLR7X5O7XacW"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "Dreamy jams from the best bedroom producers. Cover: Joji",
-  "num_followers": 1074773,
+  "num_followers": 1075014,
   "original_name": "Bedroom Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3MGFhN2FhOWZhOTFhYmFmM2NlNTY2NzMyYjM0MTQ0NGZmMjUwYmU5",
+  "snapshot_id": "MCwwNWJiOGQ3MTU1NGY5YTczZjVhNDUwZDEzMjVhOTAzNDA5OWI3NDc2",
   "tracks": [
     {
       "added_at": "2023-04-17 19:26:13",
@@ -263,22 +263,6 @@
     {
       "added_at": "2023-04-17 19:26:13",
       "album": {
-        "name": "Cherry Wine",
-        "url": "https://open.spotify.com/album/0m3xqY9mNxOakhzLMipjKl"
-      },
-      "artists": [
-        {
-          "name": "grentperez",
-          "url": "https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe"
-        }
-      ],
-      "duration_ms": 173286,
-      "name": "Cherry Wine",
-      "url": "https://open.spotify.com/track/5o5WaO9pzPhXSGIrTIYVce"
-    },
-    {
-      "added_at": "2023-04-17 19:26:13",
-      "album": {
         "name": "Fuzzybrain",
         "url": "https://open.spotify.com/album/7GYzQIMfdDWo2XC4BDLHPk"
       },
@@ -291,6 +275,22 @@
       "duration_ms": 204014,
       "name": "Hot Rod",
       "url": "https://open.spotify.com/track/5euumi7eqEgmxvCIJw2pSp"
+    },
+    {
+      "added_at": "2023-04-17 19:26:13",
+      "album": {
+        "name": "Cherry Wine",
+        "url": "https://open.spotify.com/album/0m3xqY9mNxOakhzLMipjKl"
+      },
+      "artists": [
+        {
+          "name": "grentperez",
+          "url": "https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe"
+        }
+      ],
+      "duration_ms": 173286,
+      "name": "Cherry Wine",
+      "url": "https://open.spotify.com/track/5o5WaO9pzPhXSGIrTIYVce"
     },
     {
       "added_at": "2023-04-17 19:26:13",
@@ -647,22 +647,6 @@
     {
       "added_at": "2023-04-17 19:26:13",
       "album": {
-        "name": "touch tank",
-        "url": "https://open.spotify.com/album/4XsixtHgUzRfUd9zrhX5eh"
-      },
-      "artists": [
-        {
-          "name": "quinnie",
-          "url": "https://open.spotify.com/artist/4aEuFytRb43SAgjchJDk5e"
-        }
-      ],
-      "duration_ms": 179133,
-      "name": "touch tank",
-      "url": "https://open.spotify.com/track/1S3ZeV4CEdqbzBYwu0pxE7"
-    },
-    {
-      "added_at": "2023-04-17 19:26:13",
-      "album": {
         "name": "watch you sleep.",
         "url": "https://open.spotify.com/album/788Q6tUcihFxDsOGGeyuFE"
       },
@@ -675,6 +659,22 @@
       "duration_ms": 180225,
       "name": "watch you sleep.",
       "url": "https://open.spotify.com/track/6tMwheKgpMHBcHtr8aYMn8"
+    },
+    {
+      "added_at": "2023-04-17 19:26:13",
+      "album": {
+        "name": "touch tank",
+        "url": "https://open.spotify.com/album/4XsixtHgUzRfUd9zrhX5eh"
+      },
+      "artists": [
+        {
+          "name": "quinnie",
+          "url": "https://open.spotify.com/artist/4aEuFytRb43SAgjchJDk5e"
+        }
+      ],
+      "duration_ms": 179133,
+      "name": "touch tank",
+      "url": "https://open.spotify.com/track/1S3ZeV4CEdqbzBYwu0pxE7"
     },
     {
       "added_at": "2023-04-17 19:26:13",
@@ -903,22 +903,6 @@
     {
       "added_at": "2023-04-17 19:26:13",
       "album": {
-        "name": "adios",
-        "url": "https://open.spotify.com/album/3HfZG3EM11UpuzfQxWcHIK"
-      },
-      "artists": [
-        {
-          "name": "JAWNY",
-          "url": "https://open.spotify.com/artist/25pd339V2rRJo84USlcSRP"
-        }
-      ],
-      "duration_ms": 203502,
-      "name": "adios",
-      "url": "https://open.spotify.com/track/3gfve6BgoTkZK3uBkqttz8"
-    },
-    {
-      "added_at": "2023-04-17 19:26:13",
-      "album": {
         "name": "Six Speed",
         "url": "https://open.spotify.com/album/2DkQzt5cmb3Jy8ZQH4tBo9"
       },
@@ -931,6 +915,22 @@
       "duration_ms": 120000,
       "name": "Six Speed",
       "url": "https://open.spotify.com/track/38loOBAgDgCW4pFWyH9cey"
+    },
+    {
+      "added_at": "2023-04-17 19:26:13",
+      "album": {
+        "name": "adios",
+        "url": "https://open.spotify.com/album/3HfZG3EM11UpuzfQxWcHIK"
+      },
+      "artists": [
+        {
+          "name": "JAWNY",
+          "url": "https://open.spotify.com/artist/25pd339V2rRJo84USlcSRP"
+        }
+      ],
+      "duration_ms": 203502,
+      "name": "adios",
+      "url": "https://open.spotify.com/track/3gfve6BgoTkZK3uBkqttz8"
     },
     {
       "added_at": "2023-04-17 19:26:13",
@@ -967,22 +967,6 @@
     {
       "added_at": "2023-04-17 19:26:13",
       "album": {
-        "name": "Pendant",
-        "url": "https://open.spotify.com/album/5Byl3llMQRhBj88mYrEbGS"
-      },
-      "artists": [
-        {
-          "name": "Cuco",
-          "url": "https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP"
-        }
-      ],
-      "duration_ms": 235832,
-      "name": "Pendant",
-      "url": "https://open.spotify.com/track/45iJnPjul5yDYefM6GEYZB"
-    },
-    {
-      "added_at": "2023-04-17 19:26:13",
-      "album": {
         "name": "endlessly",
         "url": "https://open.spotify.com/album/4z80VAzs9sjrrOdH3T2pyK"
       },
@@ -995,6 +979,22 @@
       "duration_ms": 125793,
       "name": "endlessly",
       "url": "https://open.spotify.com/track/0hwtCNaxCMWoZZPHjUAETA"
+    },
+    {
+      "added_at": "2023-04-17 19:26:13",
+      "album": {
+        "name": "Pendant",
+        "url": "https://open.spotify.com/album/5Byl3llMQRhBj88mYrEbGS"
+      },
+      "artists": [
+        {
+          "name": "Cuco",
+          "url": "https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP"
+        }
+      ],
+      "duration_ms": 235832,
+      "name": "Pendant",
+      "url": "https://open.spotify.com/track/45iJnPjul5yDYefM6GEYZB"
     },
     {
       "added_at": "2023-04-17 19:26:13",
@@ -1095,6 +1095,22 @@
     {
       "added_at": "2023-04-17 19:26:13",
       "album": {
+        "name": "Shy",
+        "url": "https://open.spotify.com/album/3GB1leLOnXrqHy7dTFZ9I8"
+      },
+      "artists": [
+        {
+          "name": "Hether",
+          "url": "https://open.spotify.com/artist/5O35zGUolf87RATk2NgSD3"
+        }
+      ],
+      "duration_ms": 201697,
+      "name": "Shy",
+      "url": "https://open.spotify.com/track/3TFNxpIwIzMi3jsMRy9GVZ"
+    },
+    {
+      "added_at": "2023-04-17 19:26:13",
+      "album": {
         "name": "Picture",
         "url": "https://open.spotify.com/album/70GYCPnqGpHHrJFEBKeGHj"
       },
@@ -1111,22 +1127,6 @@
       "duration_ms": 156279,
       "name": "Picture",
       "url": "https://open.spotify.com/track/41QRBqWENQWby1zdsrbu9k"
-    },
-    {
-      "added_at": "2023-04-17 19:26:13",
-      "album": {
-        "name": "Shy",
-        "url": "https://open.spotify.com/album/3GB1leLOnXrqHy7dTFZ9I8"
-      },
-      "artists": [
-        {
-          "name": "Hether",
-          "url": "https://open.spotify.com/artist/5O35zGUolf87RATk2NgSD3"
-        }
-      ],
-      "duration_ms": 201697,
-      "name": "Shy",
-      "url": "https://open.spotify.com/track/3TFNxpIwIzMi3jsMRy9GVZ"
     },
     {
       "added_at": "2023-04-17 19:26:13",
@@ -1243,22 +1243,18 @@
     {
       "added_at": "2023-04-17 19:26:13",
       "album": {
-        "name": "How Was Your Day?",
-        "url": "https://open.spotify.com/album/6jImcs0N4HZG23G7YTvAZ9"
+        "name": "5K",
+        "url": "https://open.spotify.com/album/4vlWZZVe7ZSKYmnyp6xiI8"
       },
       "artists": [
         {
-          "name": "Mellow Fellow",
-          "url": "https://open.spotify.com/artist/4evVEvE5p9WsdXQKBPmAxT"
-        },
-        {
-          "name": "Clairo",
-          "url": "https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag"
+          "name": "Barrie",
+          "url": "https://open.spotify.com/artist/1pHO6SCEw9tuRx0IVMFL0g"
         }
       ],
-      "duration_ms": 188786,
-      "name": "How Was Your Day?",
-      "url": "https://open.spotify.com/track/2E01rRrzaz6TuwCdm27m4m"
+      "duration_ms": 133493,
+      "name": "Races",
+      "url": "https://open.spotify.com/track/7rH1YBai3Kq8glq8ya8Uo5"
     },
     {
       "added_at": "2023-04-17 19:26:13",
@@ -1279,18 +1275,22 @@
     {
       "added_at": "2023-04-17 19:26:13",
       "album": {
-        "name": "5K",
-        "url": "https://open.spotify.com/album/4vlWZZVe7ZSKYmnyp6xiI8"
+        "name": "How Was Your Day?",
+        "url": "https://open.spotify.com/album/6jImcs0N4HZG23G7YTvAZ9"
       },
       "artists": [
         {
-          "name": "Barrie",
-          "url": "https://open.spotify.com/artist/1pHO6SCEw9tuRx0IVMFL0g"
+          "name": "Mellow Fellow",
+          "url": "https://open.spotify.com/artist/4evVEvE5p9WsdXQKBPmAxT"
+        },
+        {
+          "name": "Clairo",
+          "url": "https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag"
         }
       ],
-      "duration_ms": 133493,
-      "name": "Races",
-      "url": "https://open.spotify.com/track/7rH1YBai3Kq8glq8ya8Uo5"
+      "duration_ms": 188786,
+      "name": "How Was Your Day?",
+      "url": "https://open.spotify.com/track/2E01rRrzaz6TuwCdm27m4m"
     },
     {
       "added_at": "2023-04-17 19:26:13",
@@ -1325,24 +1325,20 @@
       "url": "https://open.spotify.com/track/0afGLa6wcYiLLXFZ48ZQpY"
     },
     {
-      "added_at": "2023-04-21 04:00:00",
+      "added_at": "2023-05-12 04:00:00",
       "album": {
-        "name": "Friday Night With The Neighbours",
-        "url": "https://open.spotify.com/album/03VSyL9ungqFQzJ5EY74Se"
+        "name": "Savior",
+        "url": "https://open.spotify.com/album/1NhQuFTgHVwpIjFRHDbOMs"
       },
       "artists": [
         {
-          "name": "Cody Lawless",
-          "url": "https://open.spotify.com/artist/6YCVlQAsIlKAwVNf7ggAwf"
-        },
-        {
-          "name": "Powfu",
-          "url": "https://open.spotify.com/artist/6bmlMHgSheBauioMgKv2tn"
+          "name": "KAIRO",
+          "url": "https://open.spotify.com/artist/74fcIBekHLf4hucCT3My0v"
         }
       ],
-      "duration_ms": 173333,
-      "name": "Friday Night With The Neighbours",
-      "url": "https://open.spotify.com/track/1WdudtCCuMjsLNGgZwR1gd"
+      "duration_ms": 141290,
+      "name": "Savior",
+      "url": "https://open.spotify.com/track/7x6lcA2jLYKvhaS9IkzkzQ"
     },
     {
       "added_at": "2023-04-17 19:26:13",
@@ -1361,20 +1357,24 @@
       "url": "https://open.spotify.com/track/42kWSGSJu0tXXt3e2Guvsm"
     },
     {
-      "added_at": "2023-05-12 04:00:00",
+      "added_at": "2023-04-21 04:00:00",
       "album": {
-        "name": "Savior",
-        "url": "https://open.spotify.com/album/1NhQuFTgHVwpIjFRHDbOMs"
+        "name": "Friday Night With The Neighbours",
+        "url": "https://open.spotify.com/album/03VSyL9ungqFQzJ5EY74Se"
       },
       "artists": [
         {
-          "name": "KAIRO",
-          "url": "https://open.spotify.com/artist/74fcIBekHLf4hucCT3My0v"
+          "name": "Cody Lawless",
+          "url": "https://open.spotify.com/artist/6YCVlQAsIlKAwVNf7ggAwf"
+        },
+        {
+          "name": "Powfu",
+          "url": "https://open.spotify.com/artist/6bmlMHgSheBauioMgKv2tn"
         }
       ],
-      "duration_ms": 141290,
-      "name": "Savior",
-      "url": "https://open.spotify.com/track/7x6lcA2jLYKvhaS9IkzkzQ"
+      "duration_ms": 173333,
+      "name": "Friday Night With The Neighbours",
+      "url": "https://open.spotify.com/track/1WdudtCCuMjsLNGgZwR1gd"
     },
     {
       "added_at": "2023-04-17 19:26:13",

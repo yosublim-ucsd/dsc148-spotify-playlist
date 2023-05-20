@@ -4,11 +4,12 @@
 
 > عيش أجمل حاله حب 🫶
 
-156 songs - 9 hr 55 min
+157 songs - 9 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [3 Daqat](https://open.spotify.com/track/0uxTfF35vomzEtb7sHlP1N) | [Abu](https://open.spotify.com/artist/0oXeb3Z8lPe5ObsbBGicML) | [3 Daqat](https://open.spotify.com/album/0HPhK1zDjjNqcIqu8PzzW6) | 4:35 | 2023-02-13 |  |
+| [7 PM](https://open.spotify.com/track/3hvINUpTXUW5S00E0TwPn3) | [Mohammed Saeed](https://open.spotify.com/artist/1ZpCdBZ3rL0mXxMhzhOBvi) | [7 PM](https://open.spotify.com/album/2dFBkn85KWOQ2JwcPuJtt2) | 2:36 | 2023-05-11 |  |
 | [7elm B3eed](https://open.spotify.com/track/4t3BgID893bIAXxcCdux4y) | [Mahmoud El Esseily](https://open.spotify.com/artist/7MGFOSQK8O3im8YslR3DLB) | [7elm B3eed](https://open.spotify.com/album/5itc02N01J4NlNf6NNxzSH) | 5:16 | 2023-02-13 |  |
 | [A3ed Makanna](https://open.spotify.com/track/4K9YhPUMPdCWVGUjU5z6fT) | [Fadel Chaker](https://open.spotify.com/artist/1LljnS3oumQ36wdBhkPKrs) | [A3ed Makanna](https://open.spotify.com/album/7Ecp9AiAFsmT21V7Y0txhc) | 4:05 | 2023-02-13 |  |
 | [Aamel Nasini](https://open.spotify.com/track/63bfjUj6fMBP6LgI0cHKX9) | [Abeer Nehme](https://open.spotify.com/artist/22VZmipYTMSoNzvBaWkVwF) | [Aamel Nasini](https://open.spotify.com/album/6JtgZQjsNoj5ZwA2MPJL78) | 3:25 | 2023-02-13 |  |
@@ -52,7 +53,7 @@
 | [El Hob El Ha'ei'y](https://open.spotify.com/track/3hQT53VbsScHcmOgZZs9I7) | [Mohamed Fouad](https://open.spotify.com/artist/4FzNAmPr13nex81xINu16D) | [El Hob El Ha'ei'y](https://open.spotify.com/album/1rBP7yd7cCeXPrH2CveD75) | 5:44 | 2023-02-13 |  |
 | [El Hob El Kebir](https://open.spotify.com/track/093CMFUwvPyFIsjBsVfBPO) | [Ragheb Alama](https://open.spotify.com/artist/6uOgBVYHvqTGAQ5iVHDVT7) | [El Hob El Kebir](https://open.spotify.com/album/1dj55G9LZC4mbe8KaFFmHa) | 5:15 | 2023-02-13 |  |
 | [El Hob Zay El Watar](https://open.spotify.com/track/2md803CYlkw5ALEyeypWIP) | [Nancy Ajram](https://open.spotify.com/artist/0LnHdW6HMPoOlNdhG3DHjE) | [Nancy 9 \(Hassa Beek\)](https://open.spotify.com/album/3ZzJduvd3tDXhfQKcKxXyz) | 4:23 | 2023-02-13 |  |
-| [El Nazra El Oula](https://open.spotify.com/track/5XRNjWl6DE28GMn15NJktp) | [Ramy Gamal](https://open.spotify.com/artist/5miyPYjh5EcpOSqloDJPID) | [Layalina](https://open.spotify.com/album/0IS5I08Uw4cVS3f84n2WlO) | 3:50 | 2023-05-11 |  |
+| [El Nazra El Oula](https://open.spotify.com/track/5XRNjWl6DE28GMn15NJktp) | [Ramy Gamal](https://open.spotify.com/artist/5miyPYjh5EcpOSqloDJPID) | [Layalina](https://open.spotify.com/album/0IS5I08Uw4cVS3f84n2WlO) | 3:50 | 2023-05-11 | 2023-05-20 |
 | [Enta Farha](https://open.spotify.com/track/19qnUPYxZsmCZjJOriB7P3) | [Nedaa Shrara](https://open.spotify.com/artist/73GigUB11JrOl85L4ma1AI) | [Enta Farha](https://open.spotify.com/album/1iI8jMST3BCkWVZTTL0a7T) | 4:52 | 2023-02-13 |  |
 | [Esma W Naseeb \(New Version\)](https://open.spotify.com/track/1NLrUb7V2sz10xZwtK6QAM) | [Ahmed Gamal](https://open.spotify.com/artist/37ZFIxEwsxUpd09dNpRMVj) | [Esma W Naseeb \(New Version\)](https://open.spotify.com/album/45h1SNOrUM3xV27D6FaCLL) | 3:56 | 2023-02-13 | 2023-05-14 |
 | [Esmaa Kalamy](https://open.spotify.com/track/4WI8gWUhvwXSN9sBSUDF87) | [Jannat](https://open.spotify.com/artist/3MpEY93FasSif1w2qbutch) | [Hob Emtelak](https://open.spotify.com/album/6sjEZxXzUccxxRukfuTVRk) | 4:04 | 2023-02-13 |  |
@@ -66,7 +67,7 @@
 | [Fenoh](https://open.spotify.com/track/6dzfREL5EwPZxPGIgKsieT) | [Hisham Abbas](https://open.spotify.com/artist/6OQ7sfN0G1E2pZMhYW9wjG) | [Gowa Fe Alby](https://open.spotify.com/album/27VrCWi59R8keOizrwJjGA) | 4:51 | 2023-02-13 |  |
 | [Fostan El Helwa](https://open.spotify.com/track/1QApLxTdkiLz7lZfp42z8J) | [Fadel Chaker](https://open.spotify.com/artist/1LljnS3oumQ36wdBhkPKrs) | [Fostan El Helwa](https://open.spotify.com/album/15ivufN1YbkdXFr9Vsx2I1) | 3:20 | 2023-02-13 |  |
 | [Gany Fe Awanoh](https://open.spotify.com/track/5oOm80jbpoaXN9vcsUywaO) | [Ahmed Gamal](https://open.spotify.com/artist/37ZFIxEwsxUpd09dNpRMVj) | [Gany Fe Awanoh](https://open.spotify.com/album/4jwtLQfYZOaZxTeAy1lEJf) | 4:41 | 2023-02-23 |  |
-| [Gowaky](https://open.spotify.com/track/1REDzEvjAiI9TRvE2kwN6o) | [Mohammed Saeed](https://open.spotify.com/artist/1ZpCdBZ3rL0mXxMhzhOBvi) | [Gowaky](https://open.spotify.com/album/08JnDYwZK5sf4pFl1N3vjQ) | 3:48 | 2023-02-13 |  |
+| [Gowaky](https://open.spotify.com/track/1REDzEvjAiI9TRvE2kwN6o) | [Mohammed Saeed](https://open.spotify.com/artist/1ZpCdBZ3rL0mXxMhzhOBvi) | [Gowaky](https://open.spotify.com/album/08JnDYwZK5sf4pFl1N3vjQ) | 3:48 | 2023-02-13 | 2023-05-20 |
 | [Habitha Ya Nas \- From Bhabak](https://open.spotify.com/track/2SeSRjNj2SJF7Ieo8Q1vnj) | [Tamer Hosny](https://open.spotify.com/artist/4cGfgRmpFc9zgZMfuSXhqy) | [Habitha Ya Nas \(From Bhabak\)](https://open.spotify.com/album/6Bhai5TfTSq9hX4SyHSvGS) | 2:35 | 2023-02-13 | 2023-02-16 |
 | [Habitha Ya Nas \- From Bhabak](https://open.spotify.com/track/3AwmOjkzr9WZUqEewrskM1) | [Tamer Hosny](https://open.spotify.com/artist/4cGfgRmpFc9zgZMfuSXhqy) | [بحبك](https://open.spotify.com/album/2BBf2DS8iEOLWD5qUVCBe2) | 2:35 | 2023-02-16 |  |
 | [Hane'sh W Nshoof \- From Ella Ana TV Series](https://open.spotify.com/track/2KrYv8uYw6jFzGWs2ixjGj) | [Lena Chamamyan](https://open.spotify.com/artist/0LH01nWLQote2HIUL87BLc) | [Hane'sh W Nshoof \(From Ella Ana TV Series\)](https://open.spotify.com/album/6KAk4FbE3QqBbETqi8zVj5) | 4:53 | 2023-02-13 |  |
@@ -80,7 +81,7 @@
 | [Inta Eyh](https://open.spotify.com/track/7LpGX7ajb4o8OPQ1XdeeFZ) | [Nancy Ajram](https://open.spotify.com/artist/0LnHdW6HMPoOlNdhG3DHjE) | [أجمل أغاني نانسي عجرم](https://open.spotify.com/album/2W0VSGqUQZudLnc6drtRAs) | 5:04 | 2023-02-23 | 2023-05-05 |
 | [Je Suis Malade](https://open.spotify.com/track/1QEg5Sqt8VCGDuuJl1hlAF) | [Sharmoofers](https://open.spotify.com/artist/0qZ24TkLCHoE3ajCzGItJ1) | [Je Suis Malade](https://open.spotify.com/album/5yNMWMPlTFk8DX6TmgWhAD) | 2:55 | 2023-02-13 |  |
 | [Kalam](https://open.spotify.com/track/223vFuFO1hTOQv52qGQhnc) | [Amer Mounib](https://open.spotify.com/artist/4HUxfxFqEQGqkqWbiyy4m0) | [Hazi Men El Sama](https://open.spotify.com/album/75Kiblzf1quriTV61vlQ5o) | 3:59 | 2023-02-13 |  |
-| [Khaleena A’din](https://open.spotify.com/track/4GRMwobUes0Q9SQOa6C9e3) | [Ramy Gamal](https://open.spotify.com/artist/5miyPYjh5EcpOSqloDJPID) | [Khaleena A’din](https://open.spotify.com/album/6JTpTvLCv2OpZ0peRsu5hQ) | 4:36 | 2023-02-13 | 2023-05-13 |
+| [Khaleena A’din](https://open.spotify.com/track/4GRMwobUes0Q9SQOa6C9e3) | [Ramy Gamal](https://open.spotify.com/artist/5miyPYjh5EcpOSqloDJPID) | [Khaleena A’din](https://open.spotify.com/album/6JTpTvLCv2OpZ0peRsu5hQ) | 4:36 | 2023-02-13 |  |
 | [Khaleke Fe Hodny el Leila](https://open.spotify.com/track/5U7cXLPY3RyLxKF5bVGClf) | [Muslim \- مُسلِم](https://open.spotify.com/artist/2PM82jOCB674w4BL08zFVS) | [Khaleke Fe Hodny el Leila](https://open.spotify.com/album/7hmxZMPPjo5hZhJyFWrnI4) | 3:20 | 2023-02-13 |  |
 | [Khaleny Fe Hodnak](https://open.spotify.com/track/6yVGUtmHwDsqqXs1Lak423) | [Tamer Ashour](https://open.spotify.com/artist/5rCq30EbJ3DfZPKybGZj8F) | [Tegy Ntrahn](https://open.spotify.com/album/45VciPIELkkQgWSkS2QLlq) | 3:16 | 2023-02-13 |  |
 | [Khatawa](https://open.spotify.com/track/3N6DYmCVTZs2Oy4arj7RqN) | [Moustafa Hagag](https://open.spotify.com/artist/5jii08sWD8V92EdOofQo52) | [Khatawa](https://open.spotify.com/album/3nNkVRG6vn79jqu1tmlPHP) | 3:20 | 2023-02-13 | 2023-04-06 |

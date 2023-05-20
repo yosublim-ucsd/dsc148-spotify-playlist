@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrj7tqQ9IOu.md) - [plain]
 
 > The best French indie tracks right now\. Cover: Silly Boy Blue
 
-[Spotify](https://open.spotify.com/user/spotify) - 391,125 likes - 50 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 391,223 likes - 50 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrj7tqQ9IOu.md) - [plain]
 | 49 | [tous les jours](https://open.spotify.com/track/4FR0Xz7BzGqEXc8H735RRV) | [aupinard](https://open.spotify.com/artist/33U9I7yBy34UXqKYObItne) | [tous les jours](https://open.spotify.com/album/4mQLlXhguoJgAMH5mmTzwr) | 3:06 |
 | 50 | [Le soleil revient sans toi](https://open.spotify.com/track/0b0zIcKGft8yTZv2gqXSxu) | [Victor Marc](https://open.spotify.com/artist/7tiOyhvxRgmYnPfxYgm0kX) | [Out Loud](https://open.spotify.com/album/0LGn3ez9k4sgR5WT2XFD0i) | 3:23 |
 
-Snapshot ID: `MCxiYjQyM2VhZjM3NTM1MWU3ZWJlMWZhMTVmMjA0YTM1NTgzZDllNjU5`
+Snapshot ID: `MCwxZTA1OGE0ZjBhOTg2ZjU1N2E5MzQ2MmJiMGFmMDMzODEwYzZmOWZi`

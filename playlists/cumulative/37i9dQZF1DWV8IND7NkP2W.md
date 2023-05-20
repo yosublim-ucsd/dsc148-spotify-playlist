@@ -4,7 +4,7 @@
 
 > The ultimate Lo\-Fi soundtrack for a long haul journey, to the bustling metropolis in Japan that never sleeps\. 日本のプロデューサーによるインスト楽曲を特集。
 
-594 songs - 1 day 2 hr 35 min
+596 songs - 1 day 2 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -74,7 +74,7 @@
 | [Breakin' up](https://open.spotify.com/track/3zuqP7sq9LOHeHIHJ0ElZy) | [SUKISHA](https://open.spotify.com/artist/2Ea7qJOrKOD6OYkXNEUwrs) | [Breakin' up](https://open.spotify.com/album/5BFxVlpvsWgSV3yv0fDr5H) | 1:36 | 2021-12-23 | 2022-12-24 |
 | [Breathless](https://open.spotify.com/track/7K76pNICpiDDFttIaC6AC9) | [Goldusk](https://open.spotify.com/artist/1vhLM6xIiTjnhzb54G7lXc) | [Breathless](https://open.spotify.com/album/32rbFzTwhILmdD8Uly8z05) | 1:37 | 2021-12-23 | 2022-07-28 |
 | [Breezin](https://open.spotify.com/track/5nV7xJB5Lh4ks9PCdbfViA) | [Shin\-Ski](https://open.spotify.com/artist/6Ei1ABb1YNXZviQKBE7RI7) | [Breezin](https://open.spotify.com/album/3yAPYYlji22xOiK2NyJ1Ip) | 2:35 | 2022-08-25 | 2022-08-27 |
-| [Breezin](https://open.spotify.com/track/6a1Di4xqpSi4e55aympsT8) | [Shin\-Ski](https://open.spotify.com/artist/6Ei1ABb1YNXZviQKBE7RI7) | [Breezin](https://open.spotify.com/album/54pTH8QAMfeIaVzq7xMGVn) | 2:35 | 2022-08-25 |  |
+| [Breezin](https://open.spotify.com/track/6a1Di4xqpSi4e55aympsT8) | [Shin\-Ski](https://open.spotify.com/artist/6Ei1ABb1YNXZviQKBE7RI7) | [Breezin](https://open.spotify.com/album/54pTH8QAMfeIaVzq7xMGVn) | 2:35 | 2022-08-25 | 2023-05-20 |
 | [Busy Bird](https://open.spotify.com/track/3twA3eiEhu9SLS8ygr1Oh8) | [tillDawn](https://open.spotify.com/artist/0LqQ7Y65LM0zomhoexwyzV), [Mirror Box](https://open.spotify.com/artist/3fnr9GH6HvWlBMLAhevl0F) | [Busy Bird](https://open.spotify.com/album/6n7TVRjWygp9XeObn39GfN) | 2:10 | 2023-04-25 |  |
 | [Butterflies](https://open.spotify.com/track/17HildELPzUrRMOgs4FiHG) | [Slowheal](https://open.spotify.com/artist/6XfzIkZ3Qel4Lvhba67CqC) | [Butterflies](https://open.spotify.com/album/2asHs1rwL8lirE0JagjVDt) | 2:04 | 2021-12-23 | 2022-07-25 |
 | [Butterfly](https://open.spotify.com/track/46wL47Ne7Q8dEj6iRUNjQ0) | [maeshima soshi](https://open.spotify.com/artist/4O49GHbECmNppFvzK0WZXf) | [Butterfly](https://open.spotify.com/album/1RTL9I3CVJ5hWPR8O71Lhx) | 3:15 | 2021-12-23 | 2022-07-22 |
@@ -134,7 +134,8 @@
 | [distance](https://open.spotify.com/track/1tHDW0NXuPjYVnau1HSqs9) | [TOSHIKI HAYASHI\(%C\)](https://open.spotify.com/artist/2BSv9udyrO0Mm0ckZAkQSI) | [distance](https://open.spotify.com/album/18g0X9luZIPtcx0cr3wdoC) | 3:36 | 2023-01-12 | 2023-04-22 |
 | [distance](https://open.spotify.com/track/56QJlPcE0Ge86Q7Sb6fVKp) | [TOSHIKI HAYASHI\(%C\)](https://open.spotify.com/artist/2BSv9udyrO0Mm0ckZAkQSI) | [distance](https://open.spotify.com/album/1mHEXbNTGqEDfvdVueuMJ9) | 3:36 | 2023-01-12 | 2023-01-14 |
 | [Dntleave](https://open.spotify.com/track/1CQyXpkx1jEC39RyijeOHy) | [illmore](https://open.spotify.com/artist/6xLWs7PzOiPY2351KcoeGZ) | [Dntleave](https://open.spotify.com/album/4eronGCeRlA7EwC7knCUV1) | 2:15 | 2021-12-23 | 2022-05-20 |
-| [Domestic](https://open.spotify.com/track/4CLLXxnWiCK6DSzbMlDwuP) | [TOSHIKI HAYASHI\(%C\)](https://open.spotify.com/artist/2BSv9udyrO0Mm0ckZAkQSI) | [Beats For You Vol.2](https://open.spotify.com/album/7AUGO9ZUla9Vp8lEFoAb8s) | 3:21 | 2023-05-18 |  |
+| [Domestic](https://open.spotify.com/track/1VWNePn7s4RPJEMefXyoIB) | [TOSHIKI HAYASHI\(%C\)](https://open.spotify.com/artist/2BSv9udyrO0Mm0ckZAkQSI) | [Beats For You Vol.2](https://open.spotify.com/album/6KFl6WAcxp2zkApx8PNGxG) | 3:21 | 2023-05-18 |  |
+| [Domestic](https://open.spotify.com/track/4CLLXxnWiCK6DSzbMlDwuP) | [TOSHIKI HAYASHI\(%C\)](https://open.spotify.com/artist/2BSv9udyrO0Mm0ckZAkQSI) | [Beats For You Vol.2](https://open.spotify.com/album/7AUGO9ZUla9Vp8lEFoAb8s) | 3:21 | 2023-05-18 | 2023-05-20 |
 | [DON](https://open.spotify.com/track/1sAJ1LjvLUhgQkQZ35BEI3) | [LADAISLE](https://open.spotify.com/artist/1ccn3ILGtQ8vZIN0ZAWM1r) | [DON](https://open.spotify.com/album/11A2qjPlbkOjDOA0xq8EkV) | 2:40 | 2021-12-23 | 2022-07-21 |
 | [Don't Cry](https://open.spotify.com/track/3Y753I7WavrP3HQMoAdlXK) | [aMi](https://open.spotify.com/artist/5N8JfzZRD67QcuFn1tBxWm) | [YELLOW BAP](https://open.spotify.com/album/7kPUD4ZjRc3rsDtY6nc3zw) | 2:49 | 2021-12-23 | 2022-07-08 |
 | [Down East](https://open.spotify.com/track/6batZC5X1FCybDmYmzBYNC) | [Bugseed](https://open.spotify.com/artist/0ObliAtls0po56kVnacsOd) | [Down East](https://open.spotify.com/album/4HcQgiG8vYdULlDFa9ghVe) | 3:01 | 2022-01-27 | 2022-07-26 |
@@ -248,7 +249,8 @@
 | [Iro no Sekai](https://open.spotify.com/track/2njBtntWGbDjKmmp1MnoWG) | [Osaki](https://open.spotify.com/artist/5mBv1P6ffkM2YlJvsBJlze) | [Iro no Sekai](https://open.spotify.com/album/4eHSLBAL3OmVL4oVoc4YCp) | 3:22 | 2022-03-24 | 2022-04-21 |
 | [Jazz Neko](https://open.spotify.com/track/484Ncn0zQgpfa36UFwnBda) | [Midan](https://open.spotify.com/artist/1dYfhrPxJSeCJp8gGwN4qo), [AHNAMUSICA](https://open.spotify.com/artist/2QONtzTPgMymeO5VVQ4w3h) | [Origami Skizzen](https://open.spotify.com/album/27OrwbZSGLRCg8oPNRHozF) | 2:32 | 2022-07-28 |  |
 | [Jazz Neko](https://open.spotify.com/track/49j4lOcuvvZfzixq12K6QR) | [Midan](https://open.spotify.com/artist/1dYfhrPxJSeCJp8gGwN4qo), [AHNAMUSICA](https://open.spotify.com/artist/2QONtzTPgMymeO5VVQ4w3h) | [Jazz Neko](https://open.spotify.com/album/2RmRQMaWxREHFSyoS1F4O2) | 2:32 | 2021-12-23 | 2022-07-29 |
-| [Jet Stream](https://open.spotify.com/track/2sIVqfcDOisETTaV6Bbrs2) | [Sachiho](https://open.spotify.com/artist/5tf5EwCHOh2BP2zYdBvdqa) | [Jet Stream](https://open.spotify.com/album/0k2iMwFXahyiZMSwmdjmRj) | 2:46 | 2023-05-18 |  |
+| [Jet Stream](https://open.spotify.com/track/0pv95B0nLbZyJfdFcMNOoH) | [Sachiho](https://open.spotify.com/artist/5tf5EwCHOh2BP2zYdBvdqa) | [Jet Stream](https://open.spotify.com/album/3F2ev0xpQFsgjKUb2H4O7j) | 2:46 | 2023-05-18 |  |
+| [Jet Stream](https://open.spotify.com/track/2sIVqfcDOisETTaV6Bbrs2) | [Sachiho](https://open.spotify.com/artist/5tf5EwCHOh2BP2zYdBvdqa) | [Jet Stream](https://open.spotify.com/album/0k2iMwFXahyiZMSwmdjmRj) | 2:46 | 2023-05-18 | 2023-05-20 |
 | [JUNK STORY](https://open.spotify.com/track/3EioC8UfNqsaHgVKTktNUE) | [UZK](https://open.spotify.com/artist/4nB4wMQin7UtH9VzkpW1Ti) | [JUNK STORY](https://open.spotify.com/album/0MtEmJKf6IBPaCjafWEeDr) | 2:07 | 2021-12-23 | 2022-07-27 |
 | [JUST KEEP IT](https://open.spotify.com/track/3Drv8dUZUirRJpOvixlDUA) | [DJ FRIP a.k.a\. BeatLab](https://open.spotify.com/artist/5nkZFBzkGZpfRxnWFZGtk7) | [JUST KEEP IT](https://open.spotify.com/album/4DrsfHl7wo90fuejIXyrGM) | 3:13 | 2022-10-28 | 2022-10-29 |
 | [JUST KEEP IT](https://open.spotify.com/track/4LDgSBflODzHvRZOlSHHUv) | [DJ FRIP a.k.a\. BeatLab](https://open.spotify.com/artist/5nkZFBzkGZpfRxnWFZGtk7) | [JUST KEEP IT](https://open.spotify.com/album/43gYRTIGxEkGvWax3cupGE) | 3:13 | 2022-10-29 |  |
@@ -502,7 +504,7 @@
 | [stricta](https://open.spotify.com/track/6sToZx4pAeSkSyfxR1RX5c) | [TANGDEN](https://open.spotify.com/artist/2eaGOP1phNaqh5XcjFMjOi) | [TOPANGA](https://open.spotify.com/album/0jrKHBdRlPbd2SqGUr3HoA) | 2:05 | 2022-05-26 | 2023-03-25 |
 | [Sudachi](https://open.spotify.com/track/4Ba5yNZnLdgZTpcMe1af9H) | [yuhei miura](https://open.spotify.com/artist/6p9EJBuYNleKnGIll5vHA5), [Koza](https://open.spotify.com/artist/4YH2JxUSsaFYrJXPva13gd), [Etymology Records](https://open.spotify.com/artist/6sHwGhhYxjbUEiT06hnt20) | [Sudachi](https://open.spotify.com/album/3loyhogYQD9GMco9mhlKEn) | 2:18 | 2021-12-23 |  |
 | [Summer](https://open.spotify.com/track/3I5wS79HgXwg91FSI4XeE8) | [ORANCHA](https://open.spotify.com/artist/2qF0nxmV3bJDUBGwnJ0xSp) | [Summer](https://open.spotify.com/album/3zaR1622H1nFZbyLrIWfSZ) | 2:50 | 2022-08-25 | 2022-08-27 |
-| [Summer](https://open.spotify.com/track/4RFvGz9n1dEYU1yuYMu8VV) | [ORANCHA](https://open.spotify.com/artist/2qF0nxmV3bJDUBGwnJ0xSp) | [Water](https://open.spotify.com/album/410FsKhVRXwSwirbTh7e4I) | 2:50 | 2022-11-10 | 2023-05-19 |
+| [Summer](https://open.spotify.com/track/4RFvGz9n1dEYU1yuYMu8VV) | [ORANCHA](https://open.spotify.com/artist/2qF0nxmV3bJDUBGwnJ0xSp) | [Water](https://open.spotify.com/album/410FsKhVRXwSwirbTh7e4I) | 2:50 | 2022-11-10 |  |
 | [Summer](https://open.spotify.com/track/5MiOE2c54a1YLuQ23ClpKv) | [ORANCHA](https://open.spotify.com/artist/2qF0nxmV3bJDUBGwnJ0xSp) | [Summer](https://open.spotify.com/album/5DFxKYeiJlGGx3zCbX3ocT) | 2:50 | 2022-08-25 | 2022-10-09 |
 | [Summer Ghost \- Ghost Dub](https://open.spotify.com/track/5qf76gCob1UikX7JUIc3oh) | [TAMTAM](https://open.spotify.com/artist/3McQeN9sXTIvZHACTtsutN) | [Summer Ghost](https://open.spotify.com/album/28f4s5ScoFbIedA2yfOt2u) | 3:50 | 2022-03-24 | 2022-04-21 |
 | [Summer Morn](https://open.spotify.com/track/49JWJhkmD7pMIWQzgdAosk) | [PrinceDo](https://open.spotify.com/artist/1vwo07wGObMfmEOutuBh05) | [Summer Morn](https://open.spotify.com/album/0v3QRpAjXCkiKco1MRZOwr) | 3:36 | 2022-07-21 | 2022-07-29 |

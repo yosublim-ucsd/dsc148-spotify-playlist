@@ -4,7 +4,7 @@
 
 > Guerreras del rock latinoamericano\. Foto: Ana Sanz
 
-237 songs - 14 hr 12 min
+238 songs - 14 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,6 +21,7 @@
 | [Amanece Alimaña](https://open.spotify.com/track/58eBeXMtDWfekjL1CfgBmq) | [María Guadaña](https://open.spotify.com/artist/5ezTH7JwnAAy8t6LOnwR5p) | [Amanece Alimaña](https://open.spotify.com/album/6PE2MLlzZgxj0KvrcOrwtG) | 3:40 | 2022-01-20 | 2022-09-15 |
 | [Amapola](https://open.spotify.com/track/07gv03OUOc56ibUYXlh3CQ) | [Hilda Lizarazu](https://open.spotify.com/artist/1imu37uW2KnEiLMAKmQVgn) | [Gabinete De Curiosidades](https://open.spotify.com/album/4Cj0aEHj3SzgnmjCiUB8VJ) | 3:15 | 2022-01-20 |  |
 | [Ando Buscando](https://open.spotify.com/track/5wzD3M2YTofQb9gHBvlff3) | [Vale Acevedo](https://open.spotify.com/artist/4uM6IUL3hMaxnhAKCZCKQJ) | [Ando Buscando](https://open.spotify.com/album/4dJlWHR1AbIZAH7b0Yt5vE) | 3:13 | 2022-01-20 |  |
+| [Anita](https://open.spotify.com/track/3ppvrwFRLLD4PTxmZDZVfO) | [Pacifica](https://open.spotify.com/artist/4YcQuAswXPWdO2WAxTRXse) | [Anita](https://open.spotify.com/album/0zKPQqcqkPWWdNwcE6ZCVy) | 2:51 | 2023-05-19 |  |
 | [Arido Espejismo](https://open.spotify.com/track/6JmdO4aKVXFY8qnivKklz6) | [Ibiza Pareo](https://open.spotify.com/artist/4JZdNNzzAhW7Ag2Vl1bZrw) | [Ibiza Pareo](https://open.spotify.com/album/299tE0wcgpgbW7OLpoBVla) | 4:10 | 2022-01-20 |  |
 | [Arriba](https://open.spotify.com/track/05Vzt2RYJe41RsDXEHrS2M) | [Chini and The Technicians](https://open.spotify.com/artist/6WUEX7OnXihiMxJM6HZcIR) | [Arriba Es Abajo](https://open.spotify.com/album/0C3JYzgICCfHTdnvDN0c4l) | 4:07 | 2022-01-20 | 2022-07-27 |
 | [Arriba](https://open.spotify.com/track/7o3kKOdoMX38izCcM4PdRQ) | [Chini and The Technicians](https://open.spotify.com/artist/6WUEX7OnXihiMxJM6HZcIR) | [Arriba Es Abajo](https://open.spotify.com/album/5qtQcnGlsl5zfTKAx4y6My) | 4:07 | 2022-07-15 |  |
@@ -234,7 +235,7 @@
 | [Una Película](https://open.spotify.com/track/3TIy0IH3GIA331EKFxKfdm) | [María Pien](https://open.spotify.com/artist/3hpONtG7g11sff6QbGJIfY) | [Una Película](https://open.spotify.com/album/58RLjuIJ93fInTzSvKHoIu) | 5:20 | 2022-01-20 |  |
 | [Unfuckable](https://open.spotify.com/track/0reeyWnqibeD6hgYHwVA7C) | [Marion Raw](https://open.spotify.com/artist/1BRIIX1uolmIQV9PrcedGj) | [Ghost In The Machine](https://open.spotify.com/album/3Yc31Lta4Yr3Sn0UlsdSPi) | 3:52 | 2022-07-15 |  |
 | [Vamos Viendo](https://open.spotify.com/track/6BLNsWM0GsKNBYltVEIe0X) | [Andrea Álvarez](https://open.spotify.com/artist/3yqDlJ3CJ7ke94UNVqKE7n) | [Y Lo Dejamos Venir](https://open.spotify.com/album/3HSsECEEN0ufcFLw30nCap) | 3:48 | 2022-01-20 | 2022-08-07 |
-| [Vengas Conmigo](https://open.spotify.com/track/7r3c0iVuQdV5xrjpJR5iT1) | [Flopa](https://open.spotify.com/artist/4YTUVeo0e98siu66F21HFy) | [Dulce Fuerte Grave](https://open.spotify.com/album/0zhB5QwCFJuqigoick9eHz) | 3:44 | 2022-01-20 |  |
+| [Vengas Conmigo](https://open.spotify.com/track/7r3c0iVuQdV5xrjpJR5iT1) | [Flopa](https://open.spotify.com/artist/4YTUVeo0e98siu66F21HFy) | [Dulce Fuerte Grave](https://open.spotify.com/album/0zhB5QwCFJuqigoick9eHz) | 3:44 | 2022-01-20 | 2023-05-20 |
 | [Vente Conmigo](https://open.spotify.com/track/2QsSokIFxj0qkcmOkSQWxe) | [Árida](https://open.spotify.com/artist/5bmRDivRMo2IWCgKn65cpY) | [Días Salvajes](https://open.spotify.com/album/6XXJqtZ8totEVzz9g5quD3) | 3:16 | 2023-02-03 | 2023-03-18 |
 | [Vente Conmigo](https://open.spotify.com/track/4yoj0Vo01nBLb4OI73p3Ba) | [Árida](https://open.spotify.com/artist/5bmRDivRMo2IWCgKn65cpY) | [Días Salvajes](https://open.spotify.com/album/10Sor0ABQEhyfGXNjyt6ex) | 3:16 | 2022-01-20 | 2022-07-29 |
 | [Viaje al Centro de la Selva Eléctrica](https://open.spotify.com/track/0NWggrKGAMZvthO4SkCVky) | [Ruiseñora](https://open.spotify.com/artist/34yLUD53VDb78MECDJ1GqO) | [Viaje al Centro de la Selva Eléctrica](https://open.spotify.com/album/5NHOtWzCEgxgdUZdsHtsz9) | 3:39 | 2022-01-20 | 2022-07-27 |

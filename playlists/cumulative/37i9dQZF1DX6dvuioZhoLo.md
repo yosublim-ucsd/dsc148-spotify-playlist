@@ -4,7 +4,7 @@
 
 > New makes old\. Cover: Sierra Ferrell
 
-206 songs - 12 hr 9 min
+207 songs - 12 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,7 +22,7 @@
 | [Blood on Your Bootheels](https://open.spotify.com/track/5qfPr1jisW3bGULZd5UXtf) | [Caroline Rose](https://open.spotify.com/artist/06W84OT2eFUNVwG85UsxJw) | [I Will Not Be Afraid](https://open.spotify.com/album/14tLWuboMq3NyGJV4lXkyk) | 3:15 | 2021-11-12 |  |
 | [Blue Kentucky Girl \- 2003 Remaster](https://open.spotify.com/track/3O9GZtd0hf6RH6EJjb5KXB) | [Emmylou Harris](https://open.spotify.com/artist/5s6TJEuHTr9GR894wc6VfP) | [Blue Kentucky Girl \(Expanded & Remastered\)](https://open.spotify.com/album/00tOvqGXbQLpbPMRmYjs5d) | 3:20 | 2021-11-12 |  |
 | [BROKEN PIECES](https://open.spotify.com/track/6oR93SbtqVEboBslSAMCS1) | [Jake Isaac](https://open.spotify.com/artist/6q94KewnCnut4Ta36dCoaB), [Joss Stone](https://open.spotify.com/artist/7bvcQXJHkFiN1ppIN3q4fi) | [For When It Hurts](https://open.spotify.com/album/4fyML49o9PKbI3jaTFA7gH) | 3:02 | 2023-04-14 |  |
-| [Broken Wing](https://open.spotify.com/track/1OGVxDEyybBtIFSECRQA2A) | [Evil](https://open.spotify.com/artist/63gbws6nuYUlQpwWtTlPqD) | [Broken Wing](https://open.spotify.com/album/2y3Pa8bQlZGXTW45TaCYQr) | 4:35 | 2021-11-12 |  |
+| [Broken Wing](https://open.spotify.com/track/1OGVxDEyybBtIFSECRQA2A) | [Evil](https://open.spotify.com/artist/63gbws6nuYUlQpwWtTlPqD) | [Broken Wing](https://open.spotify.com/album/2y3Pa8bQlZGXTW45TaCYQr) | 4:35 | 2021-11-12 | 2023-05-20 |
 | [Buddies](https://open.spotify.com/track/2LIOtDQuQ3mJuB1OOHPxIk) | [Lauren Barth](https://open.spotify.com/artist/21aYYkFIsLevgFeEFKbiC1) | [The Oklahoma Room at Folk Alliance 2017](https://open.spotify.com/album/5sBVk8l6NJ4H82qOkMjKHF) | 3:22 | 2021-11-12 | 2022-07-27 |
 | [Captain](https://open.spotify.com/track/3Y9lUEz7m6066pMifT9159) | [Nicole Atkins](https://open.spotify.com/artist/4ab2tQaaTr2TnairelOwvO), [Britt Daniel](https://open.spotify.com/artist/50VwXblSjWqTmcDO1OqigH) | [Italian Ice](https://open.spotify.com/album/74UN1ucm77OPXi3VyWVgAE) | 3:07 | 2021-11-12 | 2022-07-29 |
 | [Cherie Vico](https://open.spotify.com/track/44QY6TpNOFnUEm6mrIxOuY) | [Peter One](https://open.spotify.com/artist/0a2PWvcYoeN1ZCzpujQ0qo) | [Cherie Vico](https://open.spotify.com/album/0LqNcJ3PKmf7oReNRLJ22I) | 5:16 | 2023-04-14 |  |
@@ -192,6 +192,7 @@
 | [To Learn Her](https://open.spotify.com/track/3l78vP424XB904B5MMmEdN) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [The Weight of These Wings](https://open.spotify.com/album/563h536tB6n8Dn62jr4RZG) | 3:47 | 2022-04-01 |  |
 | [Today I Started Loving You Again](https://open.spotify.com/track/0SUeDxIX7QXvA9uVkkYYWs) | [Eli "Paperboy" Reed](https://open.spotify.com/artist/37D1QyrEFNkcv0f62xo46x), [Sabine McCalla](https://open.spotify.com/artist/7Eo1K9fCpeF4lnvbpVcrWR) | [Today I Started Loving You Again](https://open.spotify.com/album/6Q2DffHqnmTRIOW51TgQpP) | 2:36 | 2022-04-01 | 2023-04-29 |
 | [Today I Started Loving You Again](https://open.spotify.com/track/1mD2DWCvXN13LJBmRttH2I) | [Eli "Paperboy" Reed](https://open.spotify.com/artist/37D1QyrEFNkcv0f62xo46x), [Sabine McCalla](https://open.spotify.com/artist/7Eo1K9fCpeF4lnvbpVcrWR) | [Down Every Road](https://open.spotify.com/album/4XtyzFCp2tAOynVSQLZMOf) | 2:36 | 2023-04-21 |  |
+| [Tom Turkey \- Alternate Version](https://open.spotify.com/track/2dYWKTtBO7YxKNHJ6yFk05) | [Charley Crockett](https://open.spotify.com/artist/3BJX1nYizKvWpZTY5HOAr4) | [Tom Turkey \(Alternate Version\)](https://open.spotify.com/album/19xJ5beC0Fmqc9pRl71Sfs) | 3:54 | 2023-05-19 |  |
 | [Too Late to Write a Love Song](https://open.spotify.com/track/0waQPHO2e0G3NK8QtOBM1b) | [Riddy Arman](https://open.spotify.com/artist/0h1dIjLACuc4yDLePjLT42) | [Riddy Arman](https://open.spotify.com/album/2WtTw0kbBBF9tSLXajwney) | 3:14 | 2021-11-12 |  |
 | [Trouble](https://open.spotify.com/track/6OB6oN7g6BbcrTFoP6l7sl) | [Sophie & The Broken Things](https://open.spotify.com/artist/620A5QNUAGBCuBYOUHf0c0), [Logan Ledger](https://open.spotify.com/artist/4KcXOZaofRdvBDl0b8LOYM) | [Trouble](https://open.spotify.com/album/4zFeo0LkLXCgiYgPqKouI7) | 3:47 | 2021-11-12 | 2022-07-29 |
 | [Trouble Me Anytime](https://open.spotify.com/track/0VW1XlmXrdB1H27SWKzN9k) | [Mary Bragg](https://open.spotify.com/artist/72FO0BvoMxHvbQwbNrKqtj) | [Violets as Camouflage](https://open.spotify.com/album/0KCa9BfM1VLKSzfxfM4EPk) | 3:43 | 2021-11-12 | 2022-07-29 |

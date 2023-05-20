@@ -983,6 +983,32 @@
     },
     {
       "album": {
+        "name": "Forasteiro",
+        "url": "https://open.spotify.com/album/7uN5MHZaKna9fvaSPtOck6"
+      },
+      "artists": [
+        {
+          "name": "Cristal",
+          "url": "https://open.spotify.com/artist/6i4nbGTS2gSP0e6emkTqdX"
+        },
+        {
+          "name": "MDN Beatz",
+          "url": "https://open.spotify.com/artist/6EaIRN2UvHGu9EdeBvfPo1"
+        },
+        {
+          "name": "Paulo Dion\u00edsio",
+          "url": "https://open.spotify.com/artist/6cP7jxtpk4EJWIKK7F2kxE"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290400,
+      "name": "Forasteiro",
+      "url": "https://open.spotify.com/track/5DKHLJEuO3wcUksmcSV4fg"
+    },
+    {
+      "album": {
         "name": "FEBRE AMARELA (Deluxe Edition)",
         "url": "https://open.spotify.com/album/5JWjH3OtpyiD0iQ0SJoYLw"
       },
@@ -2444,7 +2470,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 126896,
       "name": "Sistema",
       "url": "https://open.spotify.com/track/7v04AuDlQEaf6GTqDqo5GE"

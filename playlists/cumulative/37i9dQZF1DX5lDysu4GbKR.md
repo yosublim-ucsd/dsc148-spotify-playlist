@@ -4,7 +4,7 @@
 
 > Relax to these acoustic soul songs\. Cover: Jacob Banks
 
-183 songs - 11 hr 1 min
+184 songs - 11 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -148,7 +148,8 @@
 | [Rise Up](https://open.spotify.com/track/1EgqV6SBNDEY1kspPMiUby) | [Ady Suleiman](https://open.spotify.com/artist/5LuLeXlnT2jFxbx7Cg7j88) | [Acoustic](https://open.spotify.com/album/3p79KkShcFlvO27bMljNfT) | 5:55 | 2021-12-09 | 2023-04-09 |
 | [Roses and Gold \- Acoustic](https://open.spotify.com/track/2m7PqOKf3rbgxDIvuwtZvH) | [Biig Piig](https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M) | [Roses and Gold \(Acoustic\)](https://open.spotify.com/album/5PIpeGQr7KIiFPzn5VYZdx) | 3:49 | 2021-12-09 | 2022-01-26 |
 | [Royal Cologne](https://open.spotify.com/track/1Ms9FqdbzWzDkv6KSJE10U) | [Kyara Shereen](https://open.spotify.com/artist/2xtnBW8NATpAS0zySpH23Q), [This is Lema](https://open.spotify.com/artist/6xukNNXDc47oIMHVZR5SQv) | [Royal Cologne](https://open.spotify.com/album/4FTJg1p495RegTI5viSwQr) | 3:56 | 2021-12-09 |  |
-| [Run Away \(Acoustic\)](https://open.spotify.com/track/76qFHkFLDTtjD4k52SFrfA) | [Moonchild](https://open.spotify.com/artist/1VgjAK52kjkQJQQRhTn02t) | [Run Away \(Acoustic\)](https://open.spotify.com/album/4Ldv9EEgRkugkJq2eB7Q2k) | 3:32 | 2023-05-18 |  |
+| [Run Away \(Acoustic\)](https://open.spotify.com/track/76qFHkFLDTtjD4k52SFrfA) | [Moonchild](https://open.spotify.com/artist/1VgjAK52kjkQJQQRhTn02t) | [Run Away \(Acoustic\)](https://open.spotify.com/album/4Ldv9EEgRkugkJq2eB7Q2k) | 3:32 | 2023-05-18 | 2023-05-20 |
+| [Run Away \- Acoustic](https://open.spotify.com/track/4M4RdY2SvrljBF4md0PWdS) | [Moonchild](https://open.spotify.com/artist/1VgjAK52kjkQJQQRhTn02t) | [Run Away \(Acoustic\)](https://open.spotify.com/album/2qgNSbWCMabO8jZ2Rnucg0) | 3:32 | 2023-05-18 |  |
 | [Runaway](https://open.spotify.com/track/2djLuf0US0tAhZQqGHF8Q2) | [KWAYE](https://open.spotify.com/artist/5dIssYf7lu8wufkQywN9WJ) | [Runaway](https://open.spotify.com/album/0N21fqUh7pnxP1BmPBctTc) | 5:08 | 2021-12-09 |  |
 | [Save You](https://open.spotify.com/track/4gGjys9urpojUMJboFI9xk) | [rum.gold](https://open.spotify.com/artist/4mErKO4g29SXtBwj4S80aB) | [aiMless](https://open.spotify.com/album/4l165PoCFHBzfg88mpC68n) | 3:43 | 2021-12-09 |  |
 | [Say So \- Acoustic Version](https://open.spotify.com/track/39xeg5Cq23RJMNnXs2A4Mf) | [PJ Morton](https://open.spotify.com/artist/2FMOHE79X98yptp4RpPrt7), [JoJo](https://open.spotify.com/artist/5xuNBZoM7z1Vv8IQ6uM0p6) | [The Piano Album](https://open.spotify.com/album/3pjx1tSQJ60Zk1drGGf3RW) | 3:57 | 2021-12-09 | 2023-04-09 |

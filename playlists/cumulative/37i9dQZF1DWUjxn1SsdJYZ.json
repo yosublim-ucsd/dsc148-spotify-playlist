@@ -7789,6 +7789,24 @@
     },
     {
       "album": {
+        "name": "SUMMER LOVE",
+        "url": "https://open.spotify.com/album/4lacbx9HEuJSF4gzayzkD0"
+      },
+      "artists": [
+        {
+          "name": "Kwest",
+          "url": "https://open.spotify.com/artist/4d5kNx2Bv7ieK2en82Dgzu"
+        }
+      ],
+      "date_added": "2023-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181760,
+      "name": "SUMMER LOVE",
+      "url": "https://open.spotify.com/track/6nt94WhadnrRyVlM88zEoK"
+    },
+    {
+      "album": {
         "name": "Sydney Where It Started (Deluxe Version)",
         "url": "https://open.spotify.com/album/0h6zhXiLqZir1JCdZULpJh"
       },

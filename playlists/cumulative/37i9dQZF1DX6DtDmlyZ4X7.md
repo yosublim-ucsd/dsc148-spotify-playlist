@@ -4,7 +4,7 @@
 
 > Musik som hjälper dig att fokusera vid intensiva studier.
 
-583 songs - 1 day 1 hr 26 min
+584 songs - 1 day 1 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -168,7 +168,7 @@
 | [Fluttering](https://open.spotify.com/track/5w1FbQ4wRjRkzw9IXv30GW) | [GÅEL](https://open.spotify.com/artist/3IDwktZCJFdN7oBKwLOZX5), [Jesse Brown](https://open.spotify.com/artist/5ou3jxRm9LFgxvuZij5LBT) | [Fluttering](https://open.spotify.com/album/3C7JHTWGeiIymEVt17hRYK) | 1:48 | 2022-03-01 | 2022-09-16 |
 | [Flying High](https://open.spotify.com/track/6AG03RXCk6TqJwg5foivCU) | [Edu Lahmar](https://open.spotify.com/artist/2cUQRSrBnFd4OKJKhlVVDc) | [Treetops](https://open.spotify.com/album/6ZPHDl66MQRlMwbkaQq8MX) | 2:01 | 2021-12-07 | 2023-04-06 |
 | [For A Gentle Morning](https://open.spotify.com/track/35mE5q37ovOCjZGf2P5EG4) | [Jackson Love](https://open.spotify.com/artist/1UgWMZAdp3B83W5kgT6QEC) | [For A Gentle Morning](https://open.spotify.com/album/61znAWhGllMzFk4NtE5LcZ) | 2:44 | 2021-12-07 | 2022-09-24 |
-| [For Brea](https://open.spotify.com/track/7AAiL40T07q44EzwZWhsmf) | [JNUARY](https://open.spotify.com/artist/66A9oG2ybGddl9xwDibKak) | [For Brea](https://open.spotify.com/album/3DhaC4gb4cgt8tLlBEEERI) | 1:57 | 2021-12-07 |  |
+| [For Brea](https://open.spotify.com/track/7AAiL40T07q44EzwZWhsmf) | [JNUARY](https://open.spotify.com/artist/66A9oG2ybGddl9xwDibKak) | [For Brea](https://open.spotify.com/album/3DhaC4gb4cgt8tLlBEEERI) | 1:57 | 2021-12-07 | 2023-05-20 |
 | [For Kate](https://open.spotify.com/track/4uNQlDhz4fIKvjvdSESKou) | [Ed Chinaski](https://open.spotify.com/artist/1uiURs2L2yxv1vr5vGwbSt) | [For Kate](https://open.spotify.com/album/1eGuJ5nZme9vfMMyb5B07S) | 2:17 | 2022-01-18 |  |
 | [Forever & Always](https://open.spotify.com/track/5hLVKQBumXZ9DhK6khCiOP) | [Tom Stannard](https://open.spotify.com/artist/6rDF0xaV7KBIlI5t9zs6EZ) | [Forever & Always](https://open.spotify.com/album/7B03e9Eebco3A1QGyFcBxj) | 2:06 | 2021-12-07 | 2022-06-08 |
 | [Fractions](https://open.spotify.com/track/5fPW2jB6YqAUHmbVCDYkCu) | [Alicia Première](https://open.spotify.com/artist/3uADykN9RMDJGAc6mIN4mX) | [Fractions](https://open.spotify.com/album/1Iktq9JUuSzBy3gwkCzHPp) | 3:15 | 2021-12-07 |  |
@@ -343,7 +343,7 @@
 | [Naoko](https://open.spotify.com/track/42vtu2WdEl9Di6zzdiRpBV) | [Lucas Forch](https://open.spotify.com/artist/13gyOR6KA3pA8MIuWW2Pcm) | [Beginnings](https://open.spotify.com/album/5MqvffTG1ZlTMBUlZ9ZoVD) | 3:04 | 2022-06-07 | 2022-11-20 |
 | [Naoko](https://open.spotify.com/track/4uImsVwiffjf75VY8NStFN) | [Lucas Forch](https://open.spotify.com/artist/13gyOR6KA3pA8MIuWW2Pcm) | [Naoko](https://open.spotify.com/album/6DiCLO32Rf6Lksf2pw2wKH) | 3:04 | 2021-12-07 | 2022-07-29 |
 | [Nascondiglio](https://open.spotify.com/track/3e8DQgRVImwkDYrJJEh9xO) | [Giovanna Petrini](https://open.spotify.com/artist/25Bpq4sqHbHT853VsYM9wb) | [Nascondiglio](https://open.spotify.com/album/0TRLxuQkDGaKoJEYOmCNMr) | 1:57 | 2022-12-22 |  |
-| [Nebelschleier](https://open.spotify.com/track/6GsRRJRItgJZSFT1USSH1A) | [Torsten Friedrich](https://open.spotify.com/artist/4iE9nQEjk0R2eebGwY5Uyj) | [Das Rosenblatt](https://open.spotify.com/album/3cn9ZaAr8dW2oBrBu898me) | 3:11 | 2022-02-01 |  |
+| [Nebelschleier](https://open.spotify.com/track/6GsRRJRItgJZSFT1USSH1A) | [Torsten Friedrich](https://open.spotify.com/artist/4iE9nQEjk0R2eebGwY5Uyj) | [Das Rosenblatt](https://open.spotify.com/album/3cn9ZaAr8dW2oBrBu898me) | 3:11 | 2022-02-01 | 2023-05-20 |
 | [Never Give In](https://open.spotify.com/track/7GghRfjTGCxYDnYo0OVRM3) | [Irma Kantola](https://open.spotify.com/artist/7eP5EaPos8EeIsG7UJfEVP) | [Never Give In](https://open.spotify.com/album/43mYROp7H0H6Ynbi1zVbyY) | 3:05 | 2021-12-07 | 2022-09-16 |
 | [Never Unsaid](https://open.spotify.com/track/1zG58ldyABiNx05Brxkktd) | [Aleisha Millar](https://open.spotify.com/artist/2a2JENyvbHLDEeMCbAKjl4) | [Never Unsaid](https://open.spotify.com/album/0Nfqe5WLzyIhIULRpci5sP) | 2:17 | 2021-12-07 | 2023-05-13 |
 | [Night Light](https://open.spotify.com/track/7LLLc3Gxg6zRm9lKtmuCGR) | [Jonathan Beaujean](https://open.spotify.com/artist/02L0LCjnSfGqoP3dBRNxei) | [Night Light](https://open.spotify.com/album/6NOESzKosiokfmEwXfZOnX) | 2:09 | 2021-12-07 |  |
@@ -400,7 +400,7 @@
 | [Prozatím](https://open.spotify.com/track/3dS8RW1e5gd5rbSmNjDAPe) | [Zuzana Kudová](https://open.spotify.com/artist/3g7vWifmj7qRmNwAR7K1Fc) | [Prozatím](https://open.spotify.com/album/4oAdXNNPtmelprKFkP4d6G) | 2:03 | 2021-12-07 | 2022-09-16 |
 | [Pura Vida](https://open.spotify.com/track/00QanQTFk1Ge3apIBahSGw) | [Purple Kees](https://open.spotify.com/artist/1DJk5phajqhPpEq84bJzjz) | [Pura Vida](https://open.spotify.com/album/5hePnJTBTjrdMc0sxLeKyO) | 2:17 | 2021-12-07 | 2023-04-16 |
 | [Pure](https://open.spotify.com/track/4UYGDtJioYGL91h7FTW1Kz) | [Kristoffer Wallin](https://open.spotify.com/artist/0mn754DaAJCH4nYkvB3IzT) | [Pure](https://open.spotify.com/album/79vJYtitjs0sp2LS8lsXSr) | 2:18 | 2021-12-07 | 2022-04-14 |
-| [Pursuance](https://open.spotify.com/track/2VV9vBFleaOfvDkKRxUNR6) | [Deirdre Fetter](https://open.spotify.com/artist/1oJLuwoSGBnbUVL0ol9m1b) | [Pursuance](https://open.spotify.com/album/00Evna3lzOgx036aEnY8IU) | 2:24 | 2021-12-07 | 2023-05-11 |
+| [Pursuance](https://open.spotify.com/track/2VV9vBFleaOfvDkKRxUNR6) | [Deirdre Fetter](https://open.spotify.com/artist/1oJLuwoSGBnbUVL0ol9m1b) | [Pursuance](https://open.spotify.com/album/00Evna3lzOgx036aEnY8IU) | 2:24 | 2021-12-07 |  |
 | [Pécs](https://open.spotify.com/track/5V38Yb2mGq3AgKwh5WA49i) | [Pataki Gisella](https://open.spotify.com/artist/7ylwShecuuRLzZP81XRqzC) | [Pécs](https://open.spotify.com/album/6V5jrMp0lHNVOqmspzTaOg) | 2:03 | 2022-01-04 | 2022-05-05 |
 | [Quiet Cove](https://open.spotify.com/track/5gqstUNfi8kZBSsGDtk4ND) | [Edgar De Vries](https://open.spotify.com/artist/5ccEcnSCa82fIfFgwpVyrD) | [Quiet Cove](https://open.spotify.com/album/5GsMGDSeQKNXLZsujzhCTL) | 3:21 | 2021-12-07 | 2022-09-24 |
 | [Rain In July](https://open.spotify.com/track/6VWXXegvaYsNkEZdKRNtlE) | [Noah Evans](https://open.spotify.com/artist/3s8VDnYnPvSLjhI9B2W1Ou) | [Rain In July](https://open.spotify.com/album/0BHNEQXEvfQBzpCo3a07jp) | 2:50 | 2022-04-13 | 2022-12-24 |
@@ -523,6 +523,7 @@
 | [To Be Loved](https://open.spotify.com/track/4KiuT6lph1fSy19AFjHwYE) | [Day Blue](https://open.spotify.com/artist/1QIarBiWF3tRs6a1CXzN5w) | [To Be Loved](https://open.spotify.com/album/1Vx8qROy2bgDAjknfZfJSS) | 2:32 | 2022-02-01 | 2022-05-06 |
 | [To Be The One You Love](https://open.spotify.com/track/0hlafEijgw0Bx3aDwGIedE) | [Finn Forsberg](https://open.spotify.com/artist/4yTgrCNA5ym4jRHkU1q9Hd) | [To Be The One You Love](https://open.spotify.com/album/0MOBtZlRHAgI5EZic9DqWk) | 1:55 | 2021-12-07 | 2022-05-05 |
 | [Together We Succeed](https://open.spotify.com/track/3U7aMdZAjOkcmZ4nUKQqZJ) | [Sylvia Beckett](https://open.spotify.com/artist/2z8eGKTdeXaLuflpOwAI1Y) | [The Teacher](https://open.spotify.com/album/6A9Tdi6gUteJtLrufkNF19) | 3:05 | 2021-12-07 | 2023-03-16 |
+| [Tout a un sens](https://open.spotify.com/track/5VOhUrpLELS03TrEJsnL7X) | [Claire Pinette](https://open.spotify.com/artist/4cmV4jq8K9fFMqXdYQrtRP) | [Tout a un sens](https://open.spotify.com/album/76RPqIq2w4iW7G0NiWeouE) | 2:15 | 2023-05-19 |  |
 | [Traces](https://open.spotify.com/track/5F9n6BJytzN6kqEQR2wv05) | [Ever So Blue](https://open.spotify.com/artist/6LwcYWG1molG0KW2xwnPd2) | [Traces](https://open.spotify.com/album/06LJIRUxKqN78v72GCeEuW) | 2:01 | 2021-12-07 |  |
 | [Traces](https://open.spotify.com/track/0JdJYYA2fjAGplb5VLYL07) | [Leyland Moore](https://open.spotify.com/artist/6B68z24fHjW2BFiwzthkzO) | [Traces](https://open.spotify.com/album/4lzXcaZXKBzk0aaX6fFzlE) | 3:13 | 2021-12-07 |  |
 | [Trails In The Sand](https://open.spotify.com/track/2kNdebYESPkIXVcTxlNWMi) | [Marius Notar](https://open.spotify.com/artist/2XBVOEAwFri2h8RpBa2nqT) | [Trails In The Sand](https://open.spotify.com/album/3JDPEQbjLKJy86z3OkKk3H) | 2:31 | 2021-12-07 | 2022-09-24 |

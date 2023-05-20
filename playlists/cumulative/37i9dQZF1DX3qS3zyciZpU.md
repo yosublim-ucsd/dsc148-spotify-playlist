@@ -4,7 +4,7 @@
 
 > The perfect songs for the perfect day.
 
-163 songs - 9 hr 37 min
+164 songs - 9 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -164,6 +164,7 @@
 | [Would Have Loved Her](https://open.spotify.com/track/7cwTQ1psgGDuX1eBqrKonZ) | [Chris Bandi](https://open.spotify.com/artist/10I1X1Vygp2J6R4jP5gF10) | [Would Have Loved Her](https://open.spotify.com/album/7aquYUP3xdft8uUGPpcMr0) | 3:16 | 2022-05-23 |  |
 | [Would You Go With Me](https://open.spotify.com/track/1KhrAWvLIjRlQIJtSTgvsi) | [Josh Turner](https://open.spotify.com/artist/7vCtweS8UVAXTyau2j0rDT) | [Your Man](https://open.spotify.com/album/5NATaOfEAcyQFATqWZRKLO) | 3:48 | 2021-09-17 |  |
 | [You](https://open.spotify.com/track/2xPV95cfbyusygMTxpa3SW) | [Dan + Shay](https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T) | [Good Things](https://open.spotify.com/album/7L8IHgiomfEpxOm61vgPTm) | 3:16 | 2022-05-20 |  |
+| [You Were Right \- Nat's Song](https://open.spotify.com/track/1v6gRTiLJGgFHtdqi532SU) | [Dylan Marlowe](https://open.spotify.com/artist/0ZZLr8EH3aNFzYpXtaTIax) | [You Were Right \(Nat's Song\)](https://open.spotify.com/album/1Nee1osu3gHB9OcYrfGvVR) | 3:49 | 2023-05-19 |  |
 | [You'll Always Be My Baby \(Written for Daughters' Weddings\)](https://open.spotify.com/track/4ayrjXvDcj4zCwqm0nfJFC) | [Alan Jackson](https://open.spotify.com/artist/4mxWe1mtYIYfP040G38yvS) | [You'll Always Be My Baby \(Written For Daughters' Weddings\)](https://open.spotify.com/album/2Hkmg4CKcrtkFQ9c4hKbzK) | 3:46 | 2021-09-17 |  |
 | [You're Still The One](https://open.spotify.com/track/1wb4P4F0sxAQ2KXrRvsx6n) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Come On Over](https://open.spotify.com/album/4UMe0Ods7kygK6OISasZe9) | 3:32 | 2022-05-23 |  |
 | [You're Still The One](https://open.spotify.com/track/3fOEldPK2dTA6C12PzrDtT) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Cleaning At Home \- Pop Edition](https://open.spotify.com/album/6APP9HoLEQFYYySdwgxC1G) | 3:32 | 2022-10-21 | 2022-11-13 |

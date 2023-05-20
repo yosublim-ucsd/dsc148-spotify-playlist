@@ -1176,7 +1176,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 204000,
       "name": "Helleborus Orientalis",
       "url": "https://open.spotify.com/track/7KHpwN3iEUPfccUqeAKNR0"
@@ -2584,6 +2584,24 @@
       "duration_ms": 228223,
       "name": "Westward",
       "url": "https://open.spotify.com/track/3a4QYzei9aAmBHtz3ElTPT"
+    },
+    {
+      "album": {
+        "name": "Winding Down",
+        "url": "https://open.spotify.com/album/61vGKZ7BiUj71vTwOsySMI"
+      },
+      "artists": [
+        {
+          "name": "Atticus Laines",
+          "url": "https://open.spotify.com/artist/5lvoIhUaKTZ5DPNElfgAu6"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165882,
+      "name": "Winding Down",
+      "url": "https://open.spotify.com/track/2YMF46jCQHWY5Cu34tAbyN"
     },
     {
       "album": {

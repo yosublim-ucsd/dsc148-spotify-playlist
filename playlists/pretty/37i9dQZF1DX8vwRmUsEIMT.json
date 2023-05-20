@@ -1,12 +1,12 @@
 {
   "description": "All the new music you need to hear right now. Cover: Anne-Marie",
-  "num_followers": 543564,
+  "num_followers": 543649,
   "original_name": "All New All Now",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlM2ExMWVmZTk1NmFlZjZjMzhiNTFiNWE0ZWY0MzI4YmYxYTUxMjI1",
+  "snapshot_id": "MCw5MzNkNmQ2ZWExZDQ0Mjc1MGYzZTE5YTIwMDJmYjU2ZDY1M2ExNjg4",
   "tracks": [
     {
       "added_at": "2023-05-18 23:00:00",
@@ -68,7 +68,7 @@
       "added_at": "2023-05-18 23:00:00",
       "album": {
         "name": "Francesca",
-        "url": "https://open.spotify.com/album/09gUFQ3fFjCHuhv1ab99Ce"
+        "url": "https://open.spotify.com/album/2GS1K0RZ5SjtuT8bsX0xyv"
       },
       "artists": [
         {
@@ -78,7 +78,7 @@
       ],
       "duration_ms": 270066,
       "name": "Francesca",
-      "url": "https://open.spotify.com/track/6TSH6vh6KkSfExHM6evcbr"
+      "url": "https://open.spotify.com/track/4LmOmWpjCQbC1VZvUuwPQu"
     },
     {
       "added_at": "2023-05-18 23:00:00",
@@ -303,6 +303,26 @@
       "duration_ms": 224803,
       "name": "Curtains",
       "url": "https://open.spotify.com/track/6ZZf5a8oiInHDkBe9zXfLP"
+    },
+    {
+      "added_at": "2023-05-18 23:00:00",
+      "album": {
+        "name": "CLEAR 2: SOFT LIFE EP",
+        "url": "https://open.spotify.com/album/034Q9kY3buGcizT3Xpj9Re"
+      },
+      "artists": [
+        {
+          "name": "Summer Walker",
+          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
+        },
+        {
+          "name": "Childish Gambino",
+          "url": "https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL"
+        }
+      ],
+      "duration_ms": 265906,
+      "name": "New Type (feat. Childish Gambino)",
+      "url": "https://open.spotify.com/track/35PofXWEoF8DnGTA1SIuyJ"
     },
     {
       "added_at": "2023-05-18 23:00:00",
@@ -559,8 +579,8 @@
     {
       "added_at": "2023-05-18 23:00:00",
       "album": {
-        "name": "Drip Drip (feat. Nines, MIST, MoStack & Mastermind)",
-        "url": "https://open.spotify.com/album/7fUtypbLBNV8VKAumKgolJ"
+        "name": "The Playlist",
+        "url": "https://open.spotify.com/album/7BRaZkcF8gOp8YRKdBXvNz"
       },
       "artists": [
         {
@@ -586,7 +606,7 @@
       ],
       "duration_ms": 220002,
       "name": "Drip Drip (feat. Nines, MIST, MoStack & Mastermind)",
-      "url": "https://open.spotify.com/track/18QiUd2m9ZWAs7CoQ9Aj2d"
+      "url": "https://open.spotify.com/track/6eaeMeozj8RUHjsOUcubZU"
     },
     {
       "added_at": "2023-05-18 23:00:00",

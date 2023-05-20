@@ -4,7 +4,7 @@
 
 > Stay relaxed with these low\-key beats and instrumentals.
 
-472 songs - 19 hr 16 min
+473 songs - 19 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,7 +57,7 @@
 | [Britnaeys new baby \[125 BPM\]](https://open.spotify.com/track/4AhZSWtLMK6X9ckhFcyhCh) | [Vegyn](https://open.spotify.com/artist/5iUnvXddCpOrbWKm7QMr6o), [Danny L Harle](https://open.spotify.com/artist/1PNvaesh1mkKZucGhBuqgD) | [Don't Follow Me Because I'm Lost Too!!](https://open.spotify.com/album/5qa0XEgENHFDpO8PEGxPvP) | 2:52 | 2022-03-24 | 2022-04-21 |
 | [Britnaeys new baby \[125 BPM\]](https://open.spotify.com/track/5aD97KsD4tekRetjMLbL4i) | [Vegyn](https://open.spotify.com/artist/5iUnvXddCpOrbWKm7QMr6o), [Danny L Harle](https://open.spotify.com/artist/1PNvaesh1mkKZucGhBuqgD) | [Don't Follow Me Because I'm Lost Too!!](https://open.spotify.com/album/1kPXMfD3dMb8G7PCnP4af4) | 2:52 | 2023-03-09 | 2023-04-14 |
 | [Bubble Beat](https://open.spotify.com/track/1EHgoPVVSSy6W6HQoErmY3) | [Saib](https://open.spotify.com/artist/6N4HlHINMvoTyAL0yhBUCk) | [Bubble Beat](https://open.spotify.com/album/5p8ZcRknxkm5NZJGy3Ni3u) | 3:27 | 2020-06-19 | 2023-04-12 |
-| [busking](https://open.spotify.com/track/6hBofveV7cUFOSuUB9RQjk) | [\_tag](https://open.spotify.com/artist/0B3KPEKVLbLSOmCK0aTMMi) | [busking](https://open.spotify.com/album/5n3Tv4OXiCOqMA9Tcazwhq) | 2:20 | 2019-05-26\* |  |
+| [busking](https://open.spotify.com/track/6hBofveV7cUFOSuUB9RQjk) | [\_tag](https://open.spotify.com/artist/0B3KPEKVLbLSOmCK0aTMMi) | [busking](https://open.spotify.com/album/5n3Tv4OXiCOqMA9Tcazwhq) | 2:20 | 2019-05-26\* | 2023-05-20 |
 | [Busy Bird](https://open.spotify.com/track/3twA3eiEhu9SLS8ygr1Oh8) | [tillDawn](https://open.spotify.com/artist/0LqQ7Y65LM0zomhoexwyzV), [Mirror Box](https://open.spotify.com/artist/3fnr9GH6HvWlBMLAhevl0F) | [Busy Bird](https://open.spotify.com/album/6n7TVRjWygp9XeObn39GfN) | 2:10 | 2023-04-27 |  |
 | [Caffeine](https://open.spotify.com/track/4Yo8RVWFknM4TVEKG9UvGB) | [Epifania](https://open.spotify.com/artist/47OYz3d3DvnXpfaJ7i0z6b) | [Caffeine](https://open.spotify.com/album/2ecH0HoRUKmTvthO302pFd) | 1:28 | 2022-07-28 |  |
 | [Caffeine](https://open.spotify.com/track/5knGjzsCFJVQBrsCBa4ref) | [Epifania](https://open.spotify.com/artist/47OYz3d3DvnXpfaJ7i0z6b) | [Caffeine](https://open.spotify.com/album/6w4lwaXOlqil1qGkC673Ao) | 1:28 | 2019-07-26 | 2022-07-16 |
@@ -106,7 +106,8 @@
 | [distance](https://open.spotify.com/track/56QJlPcE0Ge86Q7Sb6fVKp) | [TOSHIKI HAYASHI\(%C\)](https://open.spotify.com/artist/2BSv9udyrO0Mm0ckZAkQSI) | [distance](https://open.spotify.com/album/1mHEXbNTGqEDfvdVueuMJ9) | 3:36 | 2023-01-12 | 2023-01-14 |
 | [Do the Right Thing](https://open.spotify.com/track/6jfThgv76n9FRzyZsPcthw) | [Shuko](https://open.spotify.com/artist/1mOiWC7OH9ANUtt3vd0A10), [Hannah V](https://open.spotify.com/artist/0zKzgw5rfDZ2PdgOZo8G8f) | [Do the Right Thing](https://open.spotify.com/album/2q295DcveRPSGXlf3MTiC2) | 2:01 | 2020-11-06 |  |
 | [do you](https://open.spotify.com/track/5aIn5IiaSqcSOvhHENL9v4) | [Knxwledge](https://open.spotify.com/artist/17Zu03OgBVxgLxWmRUyNOJ) | [do you](https://open.spotify.com/album/5gW6DzJLkLm9O1kE8Oo3MT) | 2:49 | 2020-01-14 | 2020-06-22 |
-| [Domestic](https://open.spotify.com/track/4CLLXxnWiCK6DSzbMlDwuP) | [TOSHIKI HAYASHI\(%C\)](https://open.spotify.com/artist/2BSv9udyrO0Mm0ckZAkQSI) | [Beats For You Vol.2](https://open.spotify.com/album/7AUGO9ZUla9Vp8lEFoAb8s) | 3:21 | 2023-05-19 |  |
+| [Domestic](https://open.spotify.com/track/1VWNePn7s4RPJEMefXyoIB) | [TOSHIKI HAYASHI\(%C\)](https://open.spotify.com/artist/2BSv9udyrO0Mm0ckZAkQSI) | [Beats For You Vol.2](https://open.spotify.com/album/6KFl6WAcxp2zkApx8PNGxG) | 3:21 | 2023-05-19 |  |
+| [Domestic](https://open.spotify.com/track/4CLLXxnWiCK6DSzbMlDwuP) | [TOSHIKI HAYASHI\(%C\)](https://open.spotify.com/artist/2BSv9udyrO0Mm0ckZAkQSI) | [Beats For You Vol.2](https://open.spotify.com/album/7AUGO9ZUla9Vp8lEFoAb8s) | 3:21 | 2023-05-19 | 2023-05-20 |
 | [DOOM](https://open.spotify.com/track/2KMSMtg2MuaO2yQaPhv9PW) | [Cap Kendricks](https://open.spotify.com/artist/3Nc3vycu3NLmfOLxGKPXLj), [DJ Access](https://open.spotify.com/artist/6pgLZsB8Z4kotoAiX8yW3T) | [DOOM](https://open.spotify.com/album/5XD7CWEqh5LqE6ltpsnqpl) | 2:16 | 2021-01-25 | 2022-01-28 |
 | [Dream In \- TiMT Remix](https://open.spotify.com/track/7yA5bPUdlZnsEdVqhBqJFs) | [Kan Sano](https://open.spotify.com/artist/5b3ZFm6P1lpZIASMDnBDs9), [TiMT](https://open.spotify.com/artist/6JavWK8JRQbZ3oX9nrkSyb) | [Fantastic Farewell \(2021 Remastered\)](https://open.spotify.com/album/5gPfWZNREhMcI8qWUBR7Ts) | 2:59 | 2021-12-24 | 2023-01-13 |
 | [dreams](https://open.spotify.com/track/0mmnXGa5hBUWWn7AdVNeY9) | [Sakura](https://open.spotify.com/artist/2GVCb0xxbe56KahmO90QnD) | [Power Jump](https://open.spotify.com/album/6T8iwt5cPRxybDlVlwD7my) | 2:22 | 2022-07-28 | 2022-11-20 |
@@ -363,7 +364,7 @@
 | [Sewin' Love \- Instrumental](https://open.spotify.com/track/517bSkwNQVSQrQXmjRlsSl) | [Large Professor](https://open.spotify.com/artist/01nVIuD8YZsnFH6x6Cc9rX) | [Main Source \(Instrumentals\)](https://open.spotify.com/album/38csz5gfi2hl9CUXYAPlfG) | 2:58 | 2022-11-17 |  |
 | [Shinny Cloud](https://open.spotify.com/track/1QXcdvepUVCQQDse2XH7ZZ) | [Hayjee](https://open.spotify.com/artist/0IHEtl5vYHC7KTNBstRMwt), [Da Solist](https://open.spotify.com/artist/43biVxxyNYggA1g2iYylDW), [Chill Select](https://open.spotify.com/artist/5orR9ec1E60lLb1U76m3ul) | [Shinny Cloud](https://open.spotify.com/album/6ug6OQSvs5t64gR3CsbbTY) | 2:40 | 2020-11-06 | 2021-10-28 |
 | [Shurayuki hime](https://open.spotify.com/track/7pUpWqkwtzESvoTmZpfTWr) | [Meitei](https://open.spotify.com/artist/5TS4DIOBGgEE6ysYh7yuii) | [Kofū II](https://open.spotify.com/album/7pWhkwLglyr3he6crAv1gJ) | 3:05 | 2021-12-10 | 2022-07-24 |
-| [SICK](https://open.spotify.com/track/6W9YXVte9iLHgZxxGojjDY) | [Robert de Boron](https://open.spotify.com/artist/18GAxEc3IY2wGmy2QhnrGD) | [SICK](https://open.spotify.com/album/7eApP7Reg8vLu3uAU8taWQ) | 3:21 | 2022-02-24 | 2023-05-19 |
+| [SICK](https://open.spotify.com/track/6W9YXVte9iLHgZxxGojjDY) | [Robert de Boron](https://open.spotify.com/artist/18GAxEc3IY2wGmy2QhnrGD) | [SICK](https://open.spotify.com/album/7eApP7Reg8vLu3uAU8taWQ) | 3:21 | 2022-02-24 |  |
 | [Silience](https://open.spotify.com/track/5TuhMyeZ7bBd3A0PzKNW4D) | [Toonorth](https://open.spotify.com/artist/5cnRXRa8otbppSiXvfdmo3) | [Silience](https://open.spotify.com/album/4Fw2PdZjZSGA3Tk2lhLAY1) | 3:16 | 2019-05-26\* | 2021-05-27 |
 | [Singing sad](https://open.spotify.com/track/78CuCBf5R2eecbA8cBXBDE) | [Bugseed](https://open.spotify.com/artist/0ObliAtls0po56kVnacsOd) | [Rough Sketch](https://open.spotify.com/album/1Otsaxr8Anm1g3JLKevkxg) | 3:07 | 2021-05-10 | 2021-09-10 |
 | [Sit At The Piano](https://open.spotify.com/track/6dquDJGHcJVIrPYnm01gOf) | [Kan Sano](https://open.spotify.com/artist/5b3ZFm6P1lpZIASMDnBDs9) | [Sit At The Piano](https://open.spotify.com/album/6AEiOA6DRaotdYeI9564tP) | 2:51 | 2019-05-26\* | 2019-06-15 |

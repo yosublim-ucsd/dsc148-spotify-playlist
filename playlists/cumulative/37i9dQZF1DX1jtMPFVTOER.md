@@ -4,7 +4,7 @@
 
 > Explore a genre bending universe centered around jazz\. Cover: Cisco Swank
 
-438 songs - 1 day 2 hr 15 min
+439 songs - 1 day 2 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -114,7 +114,7 @@
 | [Did I Get You Right](https://open.spotify.com/track/2irpGZy5MB83lDtjPOwqyL) | [Footprint Project](https://open.spotify.com/artist/4t7eLqngSabfN9Ip8X1Dto) | [Garden of Opinions](https://open.spotify.com/album/0MOZMCz3vpGaQUWZqgkG9y) | 5:46 | 2022-05-20 | 2022-11-19 |
 | [Didn't Cha Know](https://open.spotify.com/track/3BiyFCHlWPgm3q3zdtljxM) | [José James](https://open.spotify.com/artist/4l2MwXYwUDQKHcUXwCZjEz), [Ebban Dorsey](https://open.spotify.com/artist/5TOrtWMKxGEvLTJUtooZUu) | [On & On](https://open.spotify.com/album/0ubYsntRb3f8BJcrFQJRbA) | 5:02 | 2023-01-20 |  |
 | [Different to You](https://open.spotify.com/track/1FK4dsUXrreDW20roSvcrt) | [First Beige](https://open.spotify.com/artist/0QLkmmM8acu07MIT5GcSPT) | [Different to You](https://open.spotify.com/album/1jww6CAObVfwW2DKBVRJxz) | 4:31 | 2022-04-01 | 2022-04-29 |
-| [Dimcola Reprise](https://open.spotify.com/track/0LZ644PkmA75gs9Hj4Re63) | [Salami Rose Joe Louis](https://open.spotify.com/artist/6EHS9kZ9PpeXaJ4wZO3FSX) | [Dimcola Reprise](https://open.spotify.com/album/17FjdgDKMBf8pdOlAsop07) | 2:30 | 2023-04-14 |  |
+| [Dimcola Reprise](https://open.spotify.com/track/0LZ644PkmA75gs9Hj4Re63) | [Salami Rose Joe Louis](https://open.spotify.com/artist/6EHS9kZ9PpeXaJ4wZO3FSX) | [Dimcola Reprise](https://open.spotify.com/album/17FjdgDKMBf8pdOlAsop07) | 2:30 | 2023-04-14 | 2023-05-20 |
 | [dimples](https://open.spotify.com/track/33A3P7DydxJYHkKfbglWwO) | [Shy High](https://open.spotify.com/artist/7LtrLa6TmVPbzfkYVhqxmo), [Souly Had](https://open.spotify.com/artist/20WmX0l9JgOpehDOAXY6iO) | [dimples](https://open.spotify.com/album/3QBCwMQRAUXQ87OJB9rSlS) | 2:40 | 2022-04-22 | 2022-10-22 |
 | [diving board](https://open.spotify.com/track/04npC3La37wuGbnjn4F4W1) | [redveil](https://open.spotify.com/artist/5BwsX8bXOFC1YnqSlyfOKM) | [diving board](https://open.spotify.com/album/0MhNRDBlvakoAVEZ4WLwlz) | 2:45 | 2022-03-11 | 2022-04-02 |
 | [Dizzy](https://open.spotify.com/track/387p1E5pYrdEglP96qBOMi) | [FKAjazz](https://open.spotify.com/artist/6a9Z8FfjrfedFsKkB8HYIr), [JSWISS](https://open.spotify.com/artist/4Gvi0aCKhLNHWzHnhvV1e4), [BD3](https://open.spotify.com/artist/7HXr3w238HsQoQInMLxosZ) | [FK/3](https://open.spotify.com/album/2oZ1bBDryphDrItTcJr5tz) | 2:13 | 2022-01-28 | 2022-04-29 |
@@ -327,6 +327,7 @@
 | [Set It Free](https://open.spotify.com/track/2s9IaOOEUsGCb7KmNspnht) | [Jazz Mafia](https://open.spotify.com/artist/1hmznDDe3G3wAWP2BIOved), [Aima The Dreamer](https://open.spotify.com/artist/1ORLJq5AanngmpKPFBbMpG), [Dakini Star](https://open.spotify.com/artist/0VMuXwSyQxE29S8J7GM3lN) | [Set It Free](https://open.spotify.com/album/5Qi5s5V3CpIxDEoXI6SuBb) | 4:43 | 2022-10-14 | 2023-04-22 |
 | [Shades of You](https://open.spotify.com/track/0yB2tOeUYBDiVcEdKM7yGZ) | [Moses Boyd](https://open.spotify.com/artist/1otDUlTEBjcyDQg6CkHRaV), [Poppy Ajudha](https://open.spotify.com/artist/6oPQiSj92N4mk5jXLtX1bl) | [Dark Matter](https://open.spotify.com/album/4XRA7yDYWSkO5BMvZinESW) | 4:20 | 2021-11-12 | 2022-02-19 |
 | [Shelter](https://open.spotify.com/track/2szKOGtUOfm9cg4dkiIA6x) | [Deca](https://open.spotify.com/artist/0Up3H1s9ME6FivFcOz6qte), [Blu](https://open.spotify.com/artist/1KeJhR0ENFviw187pD4LPT) | [Shelter](https://open.spotify.com/album/7qJnNHaJPhvD90VHL2G0VC) | 3:10 | 2022-04-08 | 2022-09-17 |
+| [Shine](https://open.spotify.com/track/4ZVNCrYStmGn546kpAS1I2) | [The Free Label](https://open.spotify.com/artist/4YOL2g6AwphwsB1dOZZSOr), [Braxton Cook](https://open.spotify.com/artist/60k4atxgEIMFz4DWHp0le1) | [Shine](https://open.spotify.com/album/6RefKEwQv3tidPWBr4mBQ0) | 3:38 | 2023-05-19 |  |
 | [Shine \[Feat\. D Smoke + Tiffany Gouché\]](https://open.spotify.com/track/2mHenqaNpcU7q3JP4V4Oee) | [Robert Glasper](https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn), [D Smoke](https://open.spotify.com/artist/23rK0hajv5ix2yPM4IIgOo), [Tiffany Gouché](https://open.spotify.com/artist/2IEnjZsVDEPKUTxNinyqba) | [Shine \[Feat\. D Smoke + Tiffany Gouché\]](https://open.spotify.com/album/7tOJroeUUAj21SaBgC1DZe) | 6:27 | 2021-11-12 | 2022-04-09 |
 | [Show Me Your Soul](https://open.spotify.com/track/2QAIHt55p0lrGAIF3Ed15B) | [Lalah Hathaway](https://open.spotify.com/artist/0uNEy4544VZq2KOl7BsLuo), [Robert Glasper](https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn) | [Show Me Your Soul](https://open.spotify.com/album/3RpnwB22Lju8ZxktyHDyCa) | 4:03 | 2021-11-12 | 2022-03-12 |
 | [Shy](https://open.spotify.com/track/0g2CWgmpAPL2oUX6PhIxHQ) | [LESKY](https://open.spotify.com/artist/7eMZ8gfgZq14cbSR52vBy6), [Midan](https://open.spotify.com/artist/1dYfhrPxJSeCJp8gGwN4qo), [Tee Peters](https://open.spotify.com/artist/34bfesW6uX982lmoCQ5clj) | [Park](https://open.spotify.com/album/0cvBy16KIq84WFKliCbpx7) | 2:36 | 2022-12-09 | 2022-12-14 |

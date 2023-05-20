@@ -1,44 +1,44 @@
 {
-  "description": "Dark, hard hitting pop. Cover: Cloudy June",
-  "num_followers": 364158,
+  "description": "Dark, hard hitting pop. Cover: LOVA",
+  "num_followers": 364318,
   "original_name": "SALT",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3MDQxYzdmNDgxZGI4YzJhOTdhZGE2YWFkZjM2ZDYxYjc4NWVkYzY0",
+  "snapshot_id": "MCxkZTZmZTJhMWEwNDViYzc5ZGU3NzEzZjJmMDJjYjQ4MDM5Njc4NjI2",
   "tracks": [
     {
-      "added_at": "2023-05-12 04:01:00",
+      "added_at": "2023-05-19 04:01:00",
       "album": {
-        "name": "21st Century Princess",
-        "url": "https://open.spotify.com/album/2CfLW8uWYtXch0ZCdlxHia"
+        "name": "Hey dad, I tried to be nice",
+        "url": "https://open.spotify.com/album/5zHY14j7ZRWNgkMlkX4fTH"
       },
       "artists": [
         {
-          "name": "Cloudy June",
-          "url": "https://open.spotify.com/artist/5sBBS3CQNPDzmuTJjYwnpa"
+          "name": "LOVA",
+          "url": "https://open.spotify.com/artist/1l2NYhptmHjo64MDOcej1x"
         }
       ],
-      "duration_ms": 181191,
-      "name": "21st Century Princess",
-      "url": "https://open.spotify.com/track/7t5szdTagFPMLCfTFKPG9c"
+      "duration_ms": 213120,
+      "name": "Popstar",
+      "url": "https://open.spotify.com/track/5ByUAdEmfy6MpmUIHCo2Em"
     },
     {
-      "added_at": "2023-05-05 04:00:00",
+      "added_at": "2023-05-19 04:01:00",
       "album": {
-        "name": "touching myself",
-        "url": "https://open.spotify.com/album/2HGGq0rJDUv7rjeRBep34t"
+        "name": "Only Love Can Save Us Now",
+        "url": "https://open.spotify.com/album/14gFMh79sFu4n9SYxTPTlm"
       },
       "artists": [
         {
-          "name": "laye",
-          "url": "https://open.spotify.com/artist/0Ae6oW3ISslTTIL7lIcCkn"
+          "name": "Kesha",
+          "url": "https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX"
         }
       ],
-      "duration_ms": 159909,
-      "name": "touching myself",
-      "url": "https://open.spotify.com/track/4Syo2P98egu33XoKqnywLg"
+      "duration_ms": 154586,
+      "name": "Only Love Can Save Us Now",
+      "url": "https://open.spotify.com/track/6EP9E1OLjmwe6sJlu3EyZN"
     },
     {
       "added_at": "2023-04-28 04:04:49",
@@ -57,6 +57,70 @@
       "url": "https://open.spotify.com/track/5OLcsBO28uWHMzS0EEeZNp"
     },
     {
+      "added_at": "2023-05-19 04:01:00",
+      "album": {
+        "name": "FUNERAL",
+        "url": "https://open.spotify.com/album/1KQLkCFFcvA9BT0aGsmejd"
+      },
+      "artists": [
+        {
+          "name": "Neoni",
+          "url": "https://open.spotify.com/artist/38wxcfNEqMwuPniHvplin5"
+        }
+      ],
+      "duration_ms": 181923,
+      "name": "FUNERAL",
+      "url": "https://open.spotify.com/track/3UG2MvL1KiIgY9FjFvOYrv"
+    },
+    {
+      "added_at": "2023-05-12 04:01:00",
+      "album": {
+        "name": "21st Century Princess",
+        "url": "https://open.spotify.com/album/2CfLW8uWYtXch0ZCdlxHia"
+      },
+      "artists": [
+        {
+          "name": "Cloudy June",
+          "url": "https://open.spotify.com/artist/5sBBS3CQNPDzmuTJjYwnpa"
+        }
+      ],
+      "duration_ms": 181191,
+      "name": "21st Century Princess",
+      "url": "https://open.spotify.com/track/7t5szdTagFPMLCfTFKPG9c"
+    },
+    {
+      "added_at": "2023-05-19 04:01:00",
+      "album": {
+        "name": "dot dot dot",
+        "url": "https://open.spotify.com/album/5quLNXWWPhwTJwxjVI73I1"
+      },
+      "artists": [
+        {
+          "name": "emlyn",
+          "url": "https://open.spotify.com/artist/1qMJAm3nqZq6AsqeaAk2m1"
+        }
+      ],
+      "duration_ms": 137140,
+      "name": "dot dot dot",
+      "url": "https://open.spotify.com/track/2babNB7t9s2xIlSSoRFaPy"
+    },
+    {
+      "added_at": "2023-05-05 04:00:00",
+      "album": {
+        "name": "touching myself",
+        "url": "https://open.spotify.com/album/2HGGq0rJDUv7rjeRBep34t"
+      },
+      "artists": [
+        {
+          "name": "laye",
+          "url": "https://open.spotify.com/artist/0Ae6oW3ISslTTIL7lIcCkn"
+        }
+      ],
+      "duration_ms": 159909,
+      "name": "touching myself",
+      "url": "https://open.spotify.com/track/4Syo2P98egu33XoKqnywLg"
+    },
+    {
       "added_at": "2023-05-05 04:00:00",
       "album": {
         "name": "Fixer Upper",
@@ -73,20 +137,20 @@
       "url": "https://open.spotify.com/track/75u1ZQkdlnTO0PuFFs271F"
     },
     {
-      "added_at": "2023-05-12 04:01:00",
+      "added_at": "2023-05-19 04:01:00",
       "album": {
-        "name": "UR SO FULL OF IT",
-        "url": "https://open.spotify.com/album/0scVQRLEFHqCysQzYu5NNS"
+        "name": "House Of Cards",
+        "url": "https://open.spotify.com/album/1tuAaXyzHRHdwYBrzPub3t"
       },
       "artists": [
         {
-          "name": "Alemeda",
-          "url": "https://open.spotify.com/artist/33Se8kMYeTPkeeM2LnsPF8"
+          "name": "AViVA",
+          "url": "https://open.spotify.com/artist/50tDsT4wwq8FCMJNkn1D67"
         }
       ],
-      "duration_ms": 134270,
-      "name": "UR SO FULL OF IT",
-      "url": "https://open.spotify.com/track/30ZieTpW4I1capqDGSY2mt"
+      "duration_ms": 177599,
+      "name": "House Of Cards",
+      "url": "https://open.spotify.com/track/5IHkkPgiIRaEnAIjWKdT9G"
     },
     {
       "added_at": "2023-04-21 04:00:00",
@@ -103,6 +167,22 @@
       "duration_ms": 165461,
       "name": "dopamine",
       "url": "https://open.spotify.com/track/3EwCOs6Dh5tlsbIpvMjH4I"
+    },
+    {
+      "added_at": "2023-05-12 04:01:00",
+      "album": {
+        "name": "UR SO FULL OF IT",
+        "url": "https://open.spotify.com/album/0scVQRLEFHqCysQzYu5NNS"
+      },
+      "artists": [
+        {
+          "name": "Alemeda",
+          "url": "https://open.spotify.com/artist/33Se8kMYeTPkeeM2LnsPF8"
+        }
+      ],
+      "duration_ms": 134270,
+      "name": "UR SO FULL OF IT",
+      "url": "https://open.spotify.com/track/30ZieTpW4I1capqDGSY2mt"
     },
     {
       "added_at": "2023-05-05 04:00:00",
@@ -271,6 +351,22 @@
       "duration_ms": 148394,
       "name": "Hooked",
       "url": "https://open.spotify.com/track/4f0pJ7NNHAsrWbQBwiHMRJ"
+    },
+    {
+      "added_at": "2023-05-19 04:01:00",
+      "album": {
+        "name": "Welcome To The Real World",
+        "url": "https://open.spotify.com/album/1o4IxSYAQM3FIzRfPoSEIT"
+      },
+      "artists": [
+        {
+          "name": "Sarah Barrios",
+          "url": "https://open.spotify.com/artist/0HJsX1aTdgG1VDIRDiseSJ"
+        }
+      ],
+      "duration_ms": 182925,
+      "name": "Welcome To The Real World",
+      "url": "https://open.spotify.com/track/1qqFDzFd2AZTKP542DsJOZ"
     },
     {
       "added_at": "2023-04-21 04:00:00",
@@ -807,22 +903,6 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
-        "name": "Bad Thing",
-        "url": "https://open.spotify.com/album/3mswhSkFywLzh7g33pG7O3"
-      },
-      "artists": [
-        {
-          "name": "Ceara Cavalieri",
-          "url": "https://open.spotify.com/artist/6XvSaXZ60xom2pTtvVOwLW"
-        }
-      ],
-      "duration_ms": 163185,
-      "name": "Bad Thing",
-      "url": "https://open.spotify.com/track/6UTi9PS0CiMUs5DUfYl3W4"
-    },
-    {
-      "added_at": "2023-03-10 05:00:00",
-      "album": {
         "name": "Lego Blocks",
         "url": "https://open.spotify.com/album/1z6yLxp8En102543kFdidP"
       },
@@ -835,22 +915,6 @@
       "duration_ms": 159493,
       "name": "Lego Blocks",
       "url": "https://open.spotify.com/track/01RJQlTi0aR0syDcSFLzTv"
-    },
-    {
-      "added_at": "2023-03-10 05:00:00",
-      "album": {
-        "name": "Dolls EP",
-        "url": "https://open.spotify.com/album/4W8QhTVggLgkJLdsXLLnnz"
-      },
-      "artists": [
-        {
-          "name": "Bella Poarch",
-          "url": "https://open.spotify.com/artist/26cMerAxjx9GedFt0lMDjm"
-        }
-      ],
-      "duration_ms": 145386,
-      "name": "Villain",
-      "url": "https://open.spotify.com/track/6y0VIRo9CyIIHBdlPklTl0"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -1015,38 +1079,6 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
-        "name": "P.O.S.",
-        "url": "https://open.spotify.com/album/1iHrfEVH8aHvM2l1Kpecdm"
-      },
-      "artists": [
-        {
-          "name": "Sky Katz",
-          "url": "https://open.spotify.com/artist/2hXnTRT96JHAzENar0pxqc"
-        }
-      ],
-      "duration_ms": 120545,
-      "name": "P.O.S.",
-      "url": "https://open.spotify.com/track/3H88XHhVp3GUJ2C3ZuSf2U"
-    },
-    {
-      "added_at": "2023-03-10 05:00:00",
-      "album": {
-        "name": "Messy",
-        "url": "https://open.spotify.com/album/5M8iOqYh57aru97YQcqFSD"
-      },
-      "artists": [
-        {
-          "name": "Stevie Bill",
-          "url": "https://open.spotify.com/artist/72TRHiF9vPzDe78D4PmHWv"
-        }
-      ],
-      "duration_ms": 124000,
-      "name": "Poison",
-      "url": "https://open.spotify.com/track/5StQDoFQTDElQjMnfk8qIy"
-    },
-    {
-      "added_at": "2023-03-10 05:00:00",
-      "album": {
         "name": "Not Another Rockstar",
         "url": "https://open.spotify.com/album/1kiowmIzvFyO1hXi1Wyqkn"
       },
@@ -1059,22 +1091,6 @@
       "duration_ms": 149053,
       "name": "Not Another Rockstar",
       "url": "https://open.spotify.com/track/43pulC9QdGwabXUtVHYnjY"
-    },
-    {
-      "added_at": "2023-03-10 05:00:00",
-      "album": {
-        "name": "Lose Lose",
-        "url": "https://open.spotify.com/album/0j0dNw26VKfudkaXZm2QaT"
-      },
-      "artists": [
-        {
-          "name": "Alexa Cappelli",
-          "url": "https://open.spotify.com/artist/3L733apFuBmRr4GEVvhh9x"
-        }
-      ],
-      "duration_ms": 190225,
-      "name": "Lose Lose",
-      "url": "https://open.spotify.com/track/47AcRzodwvcQlnS6BjNZBQ"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -1123,22 +1139,6 @@
       "duration_ms": 145788,
       "name": "martyr",
       "url": "https://open.spotify.com/track/4BaYa88YtE0WBDVKfTeUTP"
-    },
-    {
-      "added_at": "2023-03-10 05:00:00",
-      "album": {
-        "name": "Feel What I'm Feeling",
-        "url": "https://open.spotify.com/album/38GheDPkEHqvq7U20WkwwX"
-      },
-      "artists": [
-        {
-          "name": "LEX",
-          "url": "https://open.spotify.com/artist/73R7pkwL1kz9gqVScbbjab"
-        }
-      ],
-      "duration_ms": 174545,
-      "name": "Feel What I'm Feeling",
-      "url": "https://open.spotify.com/track/0SJmLC2S4RN2AbYcJWo0oK"
     },
     {
       "added_at": "2023-03-10 05:00:00",

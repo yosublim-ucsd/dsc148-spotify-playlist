@@ -4,7 +4,7 @@
 
 > Hand\-picked indie to nourish the ears.
 
-245 songs - 14 hr 55 min
+248 songs - 15 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,6 +28,7 @@
 | [Andrew](https://open.spotify.com/track/0ZHnNz24gXtnyFsCeECPnZ) | [M Field](https://open.spotify.com/artist/2YCr3gD8aO0ck8k4i5vhU3) | [Andrew](https://open.spotify.com/album/3L5Tn8fZfACHkX0btiFAo0) | 2:44 | 2021-11-12 |  |
 | [Angel](https://open.spotify.com/track/18SbC9qVTs8zuudDislTV5) | [Trudy and the Romance](https://open.spotify.com/artist/2eg89iLHG4JMEUZQmFaxou) | [Angel](https://open.spotify.com/album/5vi6pUjMmkdtABSiTPSuvF) | 4:02 | 2022-06-06 |  |
 | [any human friend](https://open.spotify.com/track/2qBSeyhTF7JXcbk3JtMCxY) | [Marika Hackman](https://open.spotify.com/artist/5DGJC3n9DS0Y9eY5ul9y0O) | [Any Human Friend](https://open.spotify.com/album/1MyAYzrDvFNjNY689PtpWF) | 3:12 | 2021-11-12 | 2022-07-29 |
+| [Anyway](https://open.spotify.com/track/6CkE4wWUVQ5Hdnbfm2pOmF) | [Kingfishr](https://open.spotify.com/artist/6c2qQFq3xfxFJndX6wSe4f) | [Anyway](https://open.spotify.com/album/5BDJXhWGt1RwSY7MOEAshC) | 3:43 | 2023-05-19 |  |
 | [Arcadia](https://open.spotify.com/track/1vLmc6JVzSGVnUT3BMfKXZ) | [Roo Panes](https://open.spotify.com/artist/0XHM5ZNJDU8e4CfbWMeSzC) | [Arcadia](https://open.spotify.com/album/6KpJMQZAI4thJHoBzawHnZ) | 3:30 | 2022-08-12 | 2023-05-19 |
 | [Bad girl](https://open.spotify.com/track/4wyQsARSHoKsToZkEss5FD) | [Sun June](https://open.spotify.com/artist/0UIQXpn5oXhmpgbUDFzaLb) | [Somewhere](https://open.spotify.com/album/3tqWpScYda0eUqExXOqQnm) | 4:07 | 2022-06-23 |  |
 | [Bad girl](https://open.spotify.com/track/7xrFQN1AUhVlvBq68D6S1V) | [Sun June](https://open.spotify.com/artist/0UIQXpn5oXhmpgbUDFzaLb) | [Bad girl](https://open.spotify.com/album/4A6n6JEaNAUSIUJJLVIQQw) | 4:07 | 2021-11-12 | 2022-07-29 |
@@ -90,7 +91,7 @@
 | [Follow](https://open.spotify.com/track/461I2ITjo0XHrl8EqlJdW2) | [Jono McCleery](https://open.spotify.com/artist/23usQJ95w7f95tnN4MJEgy) | [Follow](https://open.spotify.com/album/2ysWIAs3sTVNhX6PNrHxUb) | 4:26 | 2021-11-12 | 2022-06-26 |
 | [Folly](https://open.spotify.com/track/2WdbrlcvB1KEX2DALxiKOE) | [Sea Power](https://open.spotify.com/artist/5zhn89Em2jWUUWdpcLO3YL) | [Folly](https://open.spotify.com/album/5meHvL7ffsywZ5AF9K0ala) | 4:16 | 2022-03-31 | 2022-04-21 |
 | [Fruit](https://open.spotify.com/track/5n3NzdPWuSsRbYEObAdXqr) | [Oliver Sim](https://open.spotify.com/artist/4KDu9uqzqseVCpQXMa8Pvm) | [Fruit](https://open.spotify.com/album/7sgoUuA9bA0lJYSw1PgbkT) | 3:24 | 2022-04-08 | 2023-04-23 |
-| [Garden of Eden](https://open.spotify.com/track/2JMv10dhH1c63lwDF0wfud) | [Billie Marten](https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7) | [Flora Fauna](https://open.spotify.com/album/7DlfUBoATO1ECCro50jZWx) | 3:19 | 2022-06-23 |  |
+| [Garden of Eden](https://open.spotify.com/track/2JMv10dhH1c63lwDF0wfud) | [Billie Marten](https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7) | [Flora Fauna](https://open.spotify.com/album/7DlfUBoATO1ECCro50jZWx) | 3:19 | 2022-06-23 | 2023-05-20 |
 | [Garden of Eden](https://open.spotify.com/track/6jF6VwQeIiy18FUH0wuIQN) | [Billie Marten](https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7) | [Garden of Eden](https://open.spotify.com/album/3pw1gb17EJ7ILSm9b28ZgQ) | 3:19 | 2021-11-12 | 2022-07-29 |
 | [Go \- Radio Edit](https://open.spotify.com/track/5Z6Ur8oNoKfDzIdi0wMD1Y) | [James Alexander Bright](https://open.spotify.com/artist/3Es7r3RmlcHHXqHM723JLC) | [Go \(Radio Edit\)](https://open.spotify.com/album/4hlEAUdIANoFdaZwyKsLy1) | 3:00 | 2022-03-31 | 2022-04-21 |
 | [Good Day](https://open.spotify.com/track/2dHTK5Bc61ddJ07vhpNnfn) | [Bombay Bicycle Club](https://open.spotify.com/artist/3pTE9iaJTkWns3mxpNQlJV) | [Everything Else Has Gone Wrong](https://open.spotify.com/album/11yHtE6IzOk6elh9cJzldJ) | 3:52 | 2021-11-12 |  |
@@ -114,7 +115,7 @@
 | [I Can't Get My Head Around You](https://open.spotify.com/track/66Ew9TmVnxjg8HTjsFoSts) | [Billie Marten](https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7) | [Drop Cherries](https://open.spotify.com/album/7asv9hl6KprOE0AR0kubiL) | 3:26 | 2023-03-08 |  |
 | [I Can't Get My Head Around You](https://open.spotify.com/track/6lLYb9KBshbR8Wp5hoWmUW) | [Billie Marten](https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7) | [I Can't Get My Head Around You](https://open.spotify.com/album/7yyWIkHQjDMsH8ij1Nuj6e) | 3:26 | 2023-03-08 | 2023-04-10 |
 | [I Found Out When the Day Had Come](https://open.spotify.com/track/6WOqkXgBwL2pwyFlFlTDz4) | [bb sway](https://open.spotify.com/artist/5EszOYdmBVD4jD0vbyKyMz) | [I Found Out When the Day Had Come](https://open.spotify.com/album/1iELbTeZrvCeZzgVATZeQc) | 2:44 | 2021-11-12 | 2023-05-05 |
-| [I Guess This is Life](https://open.spotify.com/track/4ydabrob4581SkaRuuN9YT) | [Jordana](https://open.spotify.com/artist/5Bw9kFNhy019e4IBCJZlzw) | [I Guess This is Life](https://open.spotify.com/album/3WWi8o7lr71zCU0iU7VEPb) | 3:31 | 2021-11-12 |  |
+| [I Guess This is Life](https://open.spotify.com/track/4ydabrob4581SkaRuuN9YT) | [Jordana](https://open.spotify.com/artist/5Bw9kFNhy019e4IBCJZlzw) | [I Guess This is Life](https://open.spotify.com/album/3WWi8o7lr71zCU0iU7VEPb) | 3:31 | 2021-11-12 | 2023-05-20 |
 | [I Was Neon](https://open.spotify.com/track/65ikIJChIrHvha8l4zqP5P) | [Julia Jacklin](https://open.spotify.com/artist/12fRkVfO2fUsz1QHgDAG3g) | [I Was Neon](https://open.spotify.com/album/3zonfnIlNcBvaAe1cVfPy6) | 4:02 | 2022-06-22 | 2022-06-24 |
 | [I'll Get By](https://open.spotify.com/track/76YI3HOwKnECUeRyda5JuQ) | [The Lathums](https://open.spotify.com/artist/6PXYvMeTixxDzYAYugMlbg) | [I'll Get By](https://open.spotify.com/album/2tlS8PWFmWP31jQHXWgYhn) | 2:30 | 2022-03-31 | 2022-08-10 |
 | [I'm Not There](https://open.spotify.com/track/1PK8ZPESB5bNx0jhkXIDek) | [Keaton Henson](https://open.spotify.com/artist/6GFfu1alUSrL7qazImC160) | [I'm Not There](https://open.spotify.com/album/4S1Nv5cIKmXxh9hiEnv2qy) | 4:03 | 2023-04-27 |  |
@@ -134,6 +135,7 @@
 | [Keep Going](https://open.spotify.com/track/4aHc7hnqkSzc1KLU9LnL26) | [This Is The Kit](https://open.spotify.com/artist/0ZUyFEafMwocvApBjTXvdo) | [Off Off On](https://open.spotify.com/album/0BophHCa4MkK5zg0oTZ0v4) | 6:39 | 2021-11-12 | 2022-07-28 |
 | [Keep Going](https://open.spotify.com/track/4cLtxNBdb0zH63vvnitsh3) | [This Is The Kit](https://open.spotify.com/artist/0ZUyFEafMwocvApBjTXvdo) | [Off Off On](https://open.spotify.com/album/1X8kC5D2ke7puDYgalJtXj) | 6:39 | 2022-06-23 |  |
 | [Kinda Hopeless](https://open.spotify.com/track/02kR21MzAYlEOjgGlHc1nU) | [Eleni Drake](https://open.spotify.com/artist/2y7pPMQioLwMFUKhK9Pyow) | [Vanilla Sky](https://open.spotify.com/album/0lJZOC767uMD7Pdp6lhOvZ) | 4:12 | 2021-11-12 | 2022-07-29 |
+| [labour](https://open.spotify.com/track/2Ggr9IfS70wYQacW8nZKPG) | [Paris Paloma](https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp) | [labour](https://open.spotify.com/album/4h7ERA3MzqEh9B3edziLAn) | 3:57 | 2023-05-19 |  |
 | [Laura](https://open.spotify.com/track/6UHwNSXBUajmZJhPDJwWUi) | [Kyle Falconer](https://open.spotify.com/artist/6gMszKxr1k1uPoAbeXZJpt) | [Laura](https://open.spotify.com/album/2Ej1z1SyMEQVIFNCNH2kyP) | 3:35 | 2022-03-31 | 2022-04-21 |
 | [Lay Our Cards](https://open.spotify.com/track/2TonFu1NF0Wg99MPfUm8dk) | [Barnaby Keen](https://open.spotify.com/artist/6D9DHfYu4mNuNgCe5kDnBA) | [Lay Our Cards](https://open.spotify.com/album/6WeDHwZWRFqVOq9e2mxq5V) | 4:32 | 2021-11-12 | 2022-07-27 |
 | [Lemon \[Feat\. Sharon Van Etten\]](https://open.spotify.com/track/2WphjSfmTbX4wZ48SzYwaH) | [Local Natives](https://open.spotify.com/artist/75dQReiBOHN37fQgWQrIAJ), [Sharon Van Etten](https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe) | [Lemon \[Feat\. Sharon Van Etten\]](https://open.spotify.com/album/5TQRtgQRRNiXb2fIah2lE4) | 3:17 | 2021-11-12 |  |
@@ -197,9 +199,10 @@
 | [Runner](https://open.spotify.com/track/5PmvRPR1SedsWA08jDDgF9) | [Alex G](https://open.spotify.com/artist/6lcwlkAjBPSKnFBZjjZFJs) | [Runner](https://open.spotify.com/album/5jhIfSbDYyInZbF9c4EauX) | 2:36 | 2022-06-22 | 2022-06-24 |
 | [Running Red Lights \(feat\. Rivers Cuomo & Pink Siifu\)](https://open.spotify.com/track/0UdYkM8rQeOV9B8n65fsfN) | [The Avalanches](https://open.spotify.com/artist/3C8RpaI3Go0yFF9whvKoED), [Rivers Cuomo](https://open.spotify.com/artist/4LAz9VRX8Nat9kvIzgkg2v), [Pink Siifu](https://open.spotify.com/artist/40ZElxHldNyvn7x8WRC6fh) | [Running Red Lights \(feat\. Rivers Cuomo & Pink Siifu\)](https://open.spotify.com/album/0H6aN1da6Hv7nnZK5RrQVm) | 4:39 | 2021-11-12 |  |
 | [Say Anything](https://open.spotify.com/track/6j58R2tPwhmzebdavhcgoW) | [Ed Nash](https://open.spotify.com/artist/4XQbatF1exGRw7gdiYMhsH) | [Say Anything](https://open.spotify.com/album/1FhWglLLji6ktAcVEFQKFD) | 1:51 | 2022-03-31 | 2022-04-21 |
+| [Seaforth](https://open.spotify.com/track/25Ke6GfR72hvkQAt6fjM7j) | [King Krule](https://open.spotify.com/artist/4wyNyxs74Ux8UIDopNjIai) | [Seaforth](https://open.spotify.com/album/3QFf8WI1qvJJCcmnfMyuQx) | 4:05 | 2023-05-19 |  |
 | [Simulation Swarm](https://open.spotify.com/track/0kVBi81VO9ewtpOlSvRLOV) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [Simulation Swarm](https://open.spotify.com/album/7sI35CBhFIbUwNYeiKxcO2) | 4:12 | 2022-02-04 | 2022-07-29 |
 | [Simulation Swarm](https://open.spotify.com/track/2FwDApgXk91kXvqy2oB7dz) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [Dragon New Warm Mountain I Believe In You](https://open.spotify.com/album/7Ln81p86r5cCsesd3KBWIY) | 4:12 | 2022-06-23 |  |
-| [Slow](https://open.spotify.com/track/5Cf6NE8KN82o9U3oAeG3yB) | [Cassia](https://open.spotify.com/artist/2413I9w4sRbBz4zi5zgwjX) | [Magnifier](https://open.spotify.com/album/1Yk0ejrOruZAX1kHniWVIE) | 3:14 | 2021-11-12 |  |
+| [Slow](https://open.spotify.com/track/5Cf6NE8KN82o9U3oAeG3yB) | [Cassia](https://open.spotify.com/artist/2413I9w4sRbBz4zi5zgwjX) | [Magnifier](https://open.spotify.com/album/1Yk0ejrOruZAX1kHniWVIE) | 3:14 | 2021-11-12 | 2023-05-20 |
 | [Slow Motion](https://open.spotify.com/track/5j3Ipgq1HyrjrYbvTg6Jhc) | [Jake Whiskin](https://open.spotify.com/artist/5OvCTHhlz7qB2JAzc5b0Dq) | [Slow Motion](https://open.spotify.com/album/52KR7xjSGks9TH2UkbOaFU) | 3:45 | 2022-03-31 | 2022-04-21 |
 | [Small Talk](https://open.spotify.com/track/1d9jMSfABayTo8IaYYNTWG) | [Billy Low](https://open.spotify.com/artist/011KwWWxPlWLYa8ZvDj7ht) | [Small Talk](https://open.spotify.com/album/5YbE1AKOHsm0iKmbYKTuhQ) | 3:40 | 2022-03-31 | 2022-04-21 |
 | [so sad](https://open.spotify.com/track/04wi6jJm7gAGpiqOZM7uiK) | [iogi](https://open.spotify.com/artist/2cqOQciwC7YwjFMUFMJfwZ) | [so sad](https://open.spotify.com/album/0LcgRpayGiKHRTz3M7oKkX) | 0:29 | 2021-11-12 | 2022-07-03 |

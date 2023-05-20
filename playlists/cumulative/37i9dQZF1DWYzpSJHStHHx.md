@@ -4,7 +4,7 @@
 
 > Songs to surf to\. Co\-curated by the cast of OBX \(Chase Stokes, Rudy Pankow, Madelyn Cline and Carlacia Grant\)
 
-235 songs - 13 hr 29 min
+236 songs - 13 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -84,6 +84,7 @@
 | [Glass Mood Ring](https://open.spotify.com/track/5vESdDsnE8bXNKORL0CqQF) | [Spooky Mansion](https://open.spotify.com/artist/7BrrcOKe9ymT5md3Up7BRz) | [Glass Mood Ring](https://open.spotify.com/album/6s7MUx71VzXxbbtIG4Pgp0) | 3:51 | 2021-02-05 | 2022-07-29 |
 | [Going Gets Tough](https://open.spotify.com/track/01MO5Ib9mCG7srUhZl52BA) | [The Growlers](https://open.spotify.com/artist/2RhgnQNC74QoBlaUvT4MEe) | [Chinese Fountain](https://open.spotify.com/album/0b7iiX6rAdsggW5ERuLWB7) | 3:28 | 2021-02-05 | 2022-07-29 |
 | [Going Gets Tough](https://open.spotify.com/track/0dEhydwCE5Og4PLKyjfqMR) | [The Growlers](https://open.spotify.com/artist/2RhgnQNC74QoBlaUvT4MEe) | [Chinese Fountain](https://open.spotify.com/album/6exFB8EKturdauvN5XV0ov) | 3:28 | 2022-07-22 | 2023-04-29 |
+| [Going Gets Tough](https://open.spotify.com/track/6Et9MYUuK2OkYE3ce2F0oK) | [The Growlers](https://open.spotify.com/artist/2RhgnQNC74QoBlaUvT4MEe) | [Chinese Fountain](https://open.spotify.com/album/1J8bCuVSRL57pkdIEuYio6) | 3:28 | 2023-03-01 |  |
 | [Golden](https://open.spotify.com/track/0o9aEkfuFqYgcVqXSNSxjL) | [M.A.G.S.](https://open.spotify.com/artist/1EEbOYIZFHRuGEgL39cN3s) | [Say Things That Matter](https://open.spotify.com/album/52pKraIrmywyqCpywjBS8B) | 4:01 | 2021-08-27 | 2022-07-26 |
 | [Gone](https://open.spotify.com/track/6OJMVcgJYX3rJrjN6txUOI) | [Day Wave](https://open.spotify.com/artist/4ptJIIR10UVlGjN0VntFaK) | [Gone](https://open.spotify.com/album/1lVGIXjXpaPw2qoeYqBQjM) | 3:41 | 2021-02-05 | 2022-04-21 |
 | [Good Luck](https://open.spotify.com/track/3v1FPBfBPWPh1cXUJQut5V) | [The Undercover Dream Lovers](https://open.spotify.com/artist/4D42J3IJpcTm3zxzmZ7TCV) | [Good Luck](https://open.spotify.com/album/5DgfzgGilp01gB0LxF4Yo2) | 4:36 | 2021-02-05 | 2022-04-27 |
@@ -188,7 +189,7 @@
 | [Something Here](https://open.spotify.com/track/4d2jmClFslZKu3lbDFKgez) | [Day Wave](https://open.spotify.com/artist/4ptJIIR10UVlGjN0VntFaK) | [The Days We Had](https://open.spotify.com/album/3zRcLPFlbstom1vCWT3y9r) | 4:05 | 2021-02-05 | 2022-06-30 |
 | [Something New](https://open.spotify.com/track/1roGQgXbwaKojyfEGPCk8D) | [Babe Rainbow](https://open.spotify.com/artist/2UmG7WphL1CMN7mVWyhE7u) | [Something New](https://open.spotify.com/album/2aKQxCgAkenCRpyKy040W9) | 3:13 | 2021-02-05 | 2022-07-29 |
 | [Something New](https://open.spotify.com/track/24eMGcmzxR64yf45pN4K8i) | [Babe Rainbow](https://open.spotify.com/artist/2UmG7WphL1CMN7mVWyhE7u) | [Today](https://open.spotify.com/album/0AVCRrmv8zuENn81egH8F2) | 3:13 | 2022-07-22 | 2022-12-01 |
-| [Something New](https://open.spotify.com/track/6I5smKWqDl1TwxUvyhDRSZ) | [Babe Rainbow](https://open.spotify.com/artist/2UmG7WphL1CMN7mVWyhE7u) | [Today](https://open.spotify.com/album/5e6aNHa0O1MIO79GfIQDW3) | 3:15 | 2022-09-22 |  |
+| [Something New](https://open.spotify.com/track/6I5smKWqDl1TwxUvyhDRSZ) | [Babe Rainbow](https://open.spotify.com/artist/2UmG7WphL1CMN7mVWyhE7u) | [Today](https://open.spotify.com/album/5e6aNHa0O1MIO79GfIQDW3) | 3:15 | 2022-09-22 | 2023-05-20 |
 | [Spirit In The Sky](https://open.spotify.com/track/0jvN7eQJJt4nxQzgQfZ1SP) | [Norman Greenbaum](https://open.spotify.com/artist/7f8LNBVXN0h35veHrpxQFL) | [Spirit In The Sky](https://open.spotify.com/album/05qYXT9UP6pXR9u0BtntD1) | 4:02 | 2023-03-01 |  |
 | [Sports](https://open.spotify.com/track/2B9aVoZ2GWDtR09jIpFpQD) | [Beach Bunny](https://open.spotify.com/artist/2vnB6tuQMaQpORiRdvXF9H) | [Sports](https://open.spotify.com/album/71zuqxUvaTrtGppFhL1ajp) | 2:44 | 2021-02-05 | 2022-04-21 |
 | [Step Out](https://open.spotify.com/track/3hDVTXOMEkhaAVjPdltpi3) | [Major Murphy](https://open.spotify.com/artist/5ly0mPdto6iDfI6X2Q4K6B) | [No\. 1](https://open.spotify.com/album/5Df4StYJqSo2yCK1nLIt5r) | 2:32 | 2021-02-05 | 2022-04-20 |

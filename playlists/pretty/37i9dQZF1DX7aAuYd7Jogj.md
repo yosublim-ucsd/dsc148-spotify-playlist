@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7aAuYd7Jogj.md) - [plain]
 
 > Música ambiental para un sueño profundo.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,749,284 likes - 310 songs - 15 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,749,399 likes - 310 songs - 15 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,16 +19,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7aAuYd7Jogj.md) - [plain]
 | 9 | [Spiritual](https://open.spotify.com/track/1aZQokBzBRVdm8d24yPi8P) | [Sleep Cyclone](https://open.spotify.com/artist/1J7K4Jr0deYSXtXoUtyp1D) | [Spiritual](https://open.spotify.com/album/1pgpTTjwE9HEdkK9RYQ2VG) | 3:18 |
 | 10 | [After Dark Ram](https://open.spotify.com/track/08CEcXp5nqHcv4d72cGJW3) | [Malviti](https://open.spotify.com/artist/7vJXWasyMwsr0wU5akcu2x) | [After Dark Ram](https://open.spotify.com/album/5rto44fN3emc6lQcC1KxOc) | 2:43 |
 | 11 | [I Believe I Can Fly](https://open.spotify.com/track/6BLpFHyW0XELB7qh45o6cI) | [Cosmic Cloak](https://open.spotify.com/artist/2oQleEdjzH9yC8cfsR8e8j) | [Floating On Clouds](https://open.spotify.com/album/5blLnf493gd6RQGPreukch) | 3:14 |
-| 12 | [Red Night](https://open.spotify.com/track/0lXSZCwqt14UPBeNxA45Ou) | [Torpor Snooze](https://open.spotify.com/artist/5KKzkIqyec5NR4h5vxE0Wx) | [Red Night](https://open.spotify.com/album/7oMHfYD5H0hWMy2q3kWzxY) | 3:25 |
-| 13 | [Encore Une Fois](https://open.spotify.com/track/5aB3pTdKskrxVVfoOGl4bN) | [Alanna Brooks](https://open.spotify.com/artist/1xTG3LpQV7sTX86GrPnDEH) | [Heaven On Earth](https://open.spotify.com/album/2ZMy6y5uSEXUkYLpVYTHGA) | 3:20 |
-| 14 | [In Balance](https://open.spotify.com/track/5ipYoy8xS7FCAZqGJl0cvg) | [Corda Una](https://open.spotify.com/artist/2hhShR3qWCC6Qu2KZrgr7N) | [The Deep Blue](https://open.spotify.com/album/2v3A2xyIhcjed6SeROftkB) | 2:46 |
-| 15 | [Resting Mode](https://open.spotify.com/track/4M4pPhb3nKessOfO2luI7M) | [The Sleep Crew](https://open.spotify.com/artist/2cwhQMikUipIptLocoKOMn) | [Resting Mode](https://open.spotify.com/album/37aLyVyJDi2iUHZhTRq0Cg) | 2:24 |
-| 16 | [Amber](https://open.spotify.com/track/4cGKsJP2Zdwf5ID4oPfMFq) | [South Noon](https://open.spotify.com/artist/0V4IA3EpmXCk58fcNVYFA6) | [Into The Dawn](https://open.spotify.com/album/2kxRac2duA4h9OyKbBckn1) | 3:22 |
-| 17 | [Ease](https://open.spotify.com/track/2m6zb3XrNa0PXSzeOhJwCm) | [Savannah De Lucia](https://open.spotify.com/artist/34RbwsKOFiGKnE7BE8zhQS) | [Ease](https://open.spotify.com/album/5MGZFRyxbDaBb0rMhMrGU7) | 3:12 |
-| 18 | [When we looked at the stars](https://open.spotify.com/track/2P8PPvipvkSK2iHsuqR27H) | [Maddox JR](https://open.spotify.com/artist/4IOVtDNRfRnXC3xvPHWTyr) | [Placidity](https://open.spotify.com/album/75ivkKwsC8iTZMcvbI7BeS) | 3:21 |
-| 19 | [Placebo](https://open.spotify.com/track/1a20QUimSwgqSjWYFFUF1G) | [Laura Dawson](https://open.spotify.com/artist/1IM8iJAfKOjMCKp7UJGAP9) | [Cloudy Texture](https://open.spotify.com/album/2dd61B0M71AQOsG7bKgcRE) | 3:09 |
-| 20 | [Sleep Loop](https://open.spotify.com/track/59Sp3gJKprka4OfnYhCxBJ) | [Eckhart Lange](https://open.spotify.com/artist/6EbSaSGsX82f6k7pEZNdUW) | [Sleep Loop](https://open.spotify.com/album/6T8Hvp5f3Y9fa5c8To99QM) | 2:40 |
-| 21 | [Olam](https://open.spotify.com/track/6HrGN0OzPVjRLgl6ODRLNn) | [Iota Psi](https://open.spotify.com/artist/6mkoUM994JIaNGMTix01yW) | [Olam](https://open.spotify.com/album/2KRR4loMfpy592sFF3d3D6) | 2:30 |
+| 12 | [My Safest Place To Hide](https://open.spotify.com/track/1NlkwVK9fM87f3MCudK3LF) | [Tiara Greenfield](https://open.spotify.com/artist/3PiRnA3K7grsa4ZQ41OGUO) | [My Safest Place To Hide](https://open.spotify.com/album/1rxmhMvsTedir8x8hFjcTH) | 3:09 |
+| 13 | [Red Night](https://open.spotify.com/track/0lXSZCwqt14UPBeNxA45Ou) | [Torpor Snooze](https://open.spotify.com/artist/5KKzkIqyec5NR4h5vxE0Wx) | [Red Night](https://open.spotify.com/album/7oMHfYD5H0hWMy2q3kWzxY) | 3:25 |
+| 14 | [Encore Une Fois](https://open.spotify.com/track/5aB3pTdKskrxVVfoOGl4bN) | [Alanna Brooks](https://open.spotify.com/artist/1xTG3LpQV7sTX86GrPnDEH) | [Heaven On Earth](https://open.spotify.com/album/2ZMy6y5uSEXUkYLpVYTHGA) | 3:20 |
+| 15 | [In Balance](https://open.spotify.com/track/5ipYoy8xS7FCAZqGJl0cvg) | [Corda Una](https://open.spotify.com/artist/2hhShR3qWCC6Qu2KZrgr7N) | [The Deep Blue](https://open.spotify.com/album/2v3A2xyIhcjed6SeROftkB) | 2:46 |
+| 16 | [Resting Mode](https://open.spotify.com/track/4M4pPhb3nKessOfO2luI7M) | [The Sleep Crew](https://open.spotify.com/artist/2cwhQMikUipIptLocoKOMn) | [Resting Mode](https://open.spotify.com/album/37aLyVyJDi2iUHZhTRq0Cg) | 2:24 |
+| 17 | [Amber](https://open.spotify.com/track/4cGKsJP2Zdwf5ID4oPfMFq) | [South Noon](https://open.spotify.com/artist/0V4IA3EpmXCk58fcNVYFA6) | [Into The Dawn](https://open.spotify.com/album/2kxRac2duA4h9OyKbBckn1) | 3:22 |
+| 18 | [Ease](https://open.spotify.com/track/2m6zb3XrNa0PXSzeOhJwCm) | [Savannah De Lucia](https://open.spotify.com/artist/34RbwsKOFiGKnE7BE8zhQS) | [Ease](https://open.spotify.com/album/5MGZFRyxbDaBb0rMhMrGU7) | 3:12 |
+| 19 | [When we looked at the stars](https://open.spotify.com/track/2P8PPvipvkSK2iHsuqR27H) | [Maddox JR](https://open.spotify.com/artist/4IOVtDNRfRnXC3xvPHWTyr) | [Placidity](https://open.spotify.com/album/75ivkKwsC8iTZMcvbI7BeS) | 3:21 |
+| 20 | [Placebo](https://open.spotify.com/track/1a20QUimSwgqSjWYFFUF1G) | [Laura Dawson](https://open.spotify.com/artist/1IM8iJAfKOjMCKp7UJGAP9) | [Cloudy Texture](https://open.spotify.com/album/2dd61B0M71AQOsG7bKgcRE) | 3:09 |
+| 21 | [Sleep Loop](https://open.spotify.com/track/59Sp3gJKprka4OfnYhCxBJ) | [Eckhart Lange](https://open.spotify.com/artist/6EbSaSGsX82f6k7pEZNdUW) | [Sleep Loop](https://open.spotify.com/album/6T8Hvp5f3Y9fa5c8To99QM) | 2:40 |
 | 22 | [Hiemal](https://open.spotify.com/track/7EZKkc9CWvBoB52E2g2rFP) | [Klaangen](https://open.spotify.com/artist/2xxo04jMvlUrFLCdjwGgkz) | [Hiemal](https://open.spotify.com/album/7oKLhCmpADNtLE1j2v8f3i) | 2:47 |
 | 23 | [Dadivoso](https://open.spotify.com/track/6TQTn4yVTfcKogv4rW2J4m) | [Salina Cardenas](https://open.spotify.com/artist/3UJgE628TwNqsowj6m4m4k) | [Dadivoso](https://open.spotify.com/album/4K2KqYwcfVXTl28zVnWeiN) | 2:09 |
 | 24 | [Regalo](https://open.spotify.com/track/5qcmNLdFifX58Gv1GurM3D) | [Lia Ventie](https://open.spotify.com/artist/3pYx1bZWCGHLXHeiicrQDK) | [Ayudarme](https://open.spotify.com/album/1auxggMk9ZEffExwWJvMcz) | 2:00 |
@@ -319,4 +319,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7aAuYd7Jogj.md) - [plain]
 | 309 | [Soft Night](https://open.spotify.com/track/5hAsWMGQXBjDjYMoIlP9Ak) | [Elskavon](https://open.spotify.com/artist/5vDfVxwAH8ANpuIKKxfOeq) | [Traditions & Traitors](https://open.spotify.com/album/2exRntMmxw6A5AQoNiIG3f) | 2:35 |
 | 310 | [Ruhig](https://open.spotify.com/track/3zElUjNtIsgfRmC0r7ETgB) | [Phillipp Vogler](https://open.spotify.com/artist/2ocNI6hLYU6rqq6TT4YzNY) | [Ruhig](https://open.spotify.com/album/5Qon2Hkc9b73ZkWBfnYXYC) | 2:46 |
 
-Snapshot ID: `MCw1MjQyOGVhMTNjZWU5MDI1MjRhNmJkNzRiYjZlYTk5MGZiMmM4ZmI0`
+Snapshot ID: `MCwwNmE5NmJlM2NiY2YwNTg2MGNiZWMwYjYyNTkyZGNmNmRkMmNlZDk1`

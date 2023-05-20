@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7q1woBjoKv7.md) - [plain]
 
 > California music breaking waves.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,008 likes - 56 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,060 likes - 56 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,4 +65,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7q1woBjoKv7.md) - [plain]
 | 55 | [Trenches](https://open.spotify.com/track/4vqmbRj9opU7YD7bPcrreR) | [ShooterGang Kony](https://open.spotify.com/artist/0dT2U2jUx6OmKlyeQOH8AK) | [Trenches](https://open.spotify.com/album/4GqNKzWbuBf2JnygpSGIvv) | 3:16 |
 | 56 | [Growing Pains](https://open.spotify.com/track/0zKLoVXVq5sxYaPYOngSGA) | [Jastin Martin](https://open.spotify.com/artist/44JW18XzNr86kKNWJq8eg1) | [Growing Pains](https://open.spotify.com/album/0XNwOYPsHaekbmInyxVy5z) | 1:37 |
 
-Snapshot ID: `MCw5MmRmZDM1MjBjNWZhNDVlNTRkZjgxNGI0ZjE0NTZkNzE2MWE3Nzg3`
+Snapshot ID: `MCxiMTFmYjUzOGM4Y2MwNTE3NjIzMGIyYTQzODI5ZTZiOGQ4ZDQxZjIy`

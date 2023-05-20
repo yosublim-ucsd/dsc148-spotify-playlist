@@ -2482,7 +2482,7 @@
       ],
       "date_added": "2022-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 131689,
       "name": "Ragnarok",
       "url": "https://open.spotify.com/track/4SAooB20kBrbSPal7X5ok4"
@@ -2887,6 +2887,32 @@
     },
     {
       "album": {
+        "name": "Suerte",
+        "url": "https://open.spotify.com/album/0Rllfr3QR8wKH1ZjJ4TtB6"
+      },
+      "artists": [
+        {
+          "name": "Zita Zoe",
+          "url": "https://open.spotify.com/artist/5w3yQZC4IFbbGaOTTne3Nk"
+        },
+        {
+          "name": "Gonem Beats",
+          "url": "https://open.spotify.com/artist/15dlqhwACW4PoQRIsSQUYJ"
+        },
+        {
+          "name": "Nef Talib",
+          "url": "https://open.spotify.com/artist/432tb6qpPvFIC2Djm5FoRQ"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145617,
+      "name": "Suerte",
+      "url": "https://open.spotify.com/track/7oZLCoxcIMZzBE9hEHCWR0"
+    },
+    {
+      "album": {
         "name": "Demonio Maravilla",
         "url": "https://open.spotify.com/album/3yT9evdeGd7G0INLZcaQGc"
       },
@@ -3268,7 +3294,7 @@
       ],
       "date_added": "2022-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 234015,
       "name": "Vac\u00edo Lleno",
       "url": "https://open.spotify.com/track/72ty3sF82GJ31A4SP1w4Nc"

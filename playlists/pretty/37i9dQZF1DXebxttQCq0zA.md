@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXebxttQCq0zA.md) - [plain]
 
 > Soothing drones, ambient piano and new age music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 759,172 likes - 206 songs - 10 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 759,530 likes - 206 songs - 10 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,19 +18,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXebxttQCq0zA.md) - [plain]
 | 8 | [Mellow](https://open.spotify.com/track/15SJMsBLp7GR8FH9WvamuG) | [Boreal Embla](https://open.spotify.com/artist/1TIIwr7wiRuFavs4zUlYQU) | [Mellow](https://open.spotify.com/album/4OFhOIJLN66pFGa4n5eEto) | 3:33 |
 | 9 | [Stilhed](https://open.spotify.com/track/1pAKUFLp8gtOrAAPwkFYJ0) | [Alba Lie](https://open.spotify.com/artist/3l67IPTFGbGnzJGQCnXQQl) | [Stilhed](https://open.spotify.com/album/3Caf8c4V7JpRTEI4FSUfPk) | 3:19 |
 | 10 | [Release Me](https://open.spotify.com/track/5yd9MBabXglxnZF8ZH5MQP) | [Vincent La Rossi](https://open.spotify.com/artist/54F0MoWcnkdbHEcjEWmQd3) | [From Above](https://open.spotify.com/album/3kWUF7SSQJzsSHwUVwr1GQ) | 2:49 |
-| 11 | [Gemoedsrust](https://open.spotify.com/track/6dHg2I0Gs22X3WY4ii1cAS) | [Ebba Dekker](https://open.spotify.com/artist/1IyHF3iElYVD2QGDF0zZKg) | [Gemoedsrust](https://open.spotify.com/album/5zaZLYq9V194ekStDoTBNC) | 2:17 |
-| 12 | [Cosmosis](https://open.spotify.com/track/0bvAQZ7fx0opg1XDY0CCHT) | [Embertone](https://open.spotify.com/artist/64wQLdtq3qw5sCdJlK4CwY) | [Cosmosis](https://open.spotify.com/album/5e26lAWV8Sindc9WXm83dY) | 3:04 |
-| 13 | [Peaks](https://open.spotify.com/track/08ZVl6IBiPemNOsVfkoIyv) | [Yves Alija](https://open.spotify.com/artist/6pUJ81I1hkjgVQ6TW448Lw) | [Peaks](https://open.spotify.com/album/2xv2cURnTpq0NdL39xJsCw) | 2:48 |
-| 14 | [Calming Measures](https://open.spotify.com/track/3e1oAxlPBpRF2LQSF7ZkhQ) | [Maurie](https://open.spotify.com/artist/0we3lcrMUMrc57nxVUC7g2) | [Calming Measures](https://open.spotify.com/album/1I4EAT9tMeRya2VeCdABH8) | 3:18 |
-| 15 | [Sensory Bypass](https://open.spotify.com/track/6d9PX0f4YezrwhMtH5BKiU) | [unvrsl frqncy](https://open.spotify.com/artist/57MWtuK2Td08YgvBJg2EQm) | [Sensory Bypass](https://open.spotify.com/album/2jxMcJP34nxtV2I9OHXe3s) | 2:31 |
-| 16 | [Echoes](https://open.spotify.com/track/4TGVSsk5tV5rPA2eZ5QW2s) | [Leya Watson](https://open.spotify.com/artist/39UfixE7ExBBDvdxM832Wn) | [Leave It All Behind](https://open.spotify.com/album/4Z4cjLPjCrgIKC0NgYyMdt) | 3:29 |
-| 17 | [Morph](https://open.spotify.com/track/3MaXtZwpMHhbLqWUNdTy3M) | [Mareina](https://open.spotify.com/artist/1cxHZRpXrZwfKsbKFLpL36) | [Morph](https://open.spotify.com/album/3qlZgXPpnlruwmL4tfxKIj) | 2:30 |
-| 18 | [Erstwhile](https://open.spotify.com/track/2ZIM8OtvpyZlIcJEqG2t0s) | [Olivier Lupin](https://open.spotify.com/artist/3ho5RtJG5r5HUTsUC7ZLSN) | [Erstwhile](https://open.spotify.com/album/1JijVPErUrR6N4dgJgRV0E) | 2:13 |
-| 19 | [Serenity](https://open.spotify.com/track/555LtwRZ3fc00jnQSGOd0q) | [Studio Tranquilo](https://open.spotify.com/artist/48dV0cPzz4OVDmYam426RP) | [Serenity](https://open.spotify.com/album/70FUCWJ79m4CS4zihjWmro) | 2:33 |
-| 20 | [Placebo](https://open.spotify.com/track/1a20QUimSwgqSjWYFFUF1G) | [Laura Dawson](https://open.spotify.com/artist/1IM8iJAfKOjMCKp7UJGAP9) | [Cloudy Texture](https://open.spotify.com/album/2dd61B0M71AQOsG7bKgcRE) | 3:09 |
-| 21 | [Oändligheten](https://open.spotify.com/track/4fVgnrnaUs163eRqVEsh8D) | [Juni Ros](https://open.spotify.com/artist/0lYxaLB1G0DginH83Meiw9) | [Rymdresa](https://open.spotify.com/album/2pg1D1oF92V1a8sJXZFBad) | 2:41 |
-| 22 | [Cloud Gazing](https://open.spotify.com/track/5RA07TPFsjrAR9iDR0OiHC) | [Sleepy Clouds](https://open.spotify.com/artist/2VGcECsvRjugsMNJ2bVSsM) | [Floating Free](https://open.spotify.com/album/30KgVtVeomGLqbrmwF28kn) | 2:47 |
-| 23 | [Rymdresa](https://open.spotify.com/track/1xbfnRa7qVtoLWqr0xDljM) | [Juni Ros](https://open.spotify.com/artist/0lYxaLB1G0DginH83Meiw9) | [Rymdresa](https://open.spotify.com/album/2pg1D1oF92V1a8sJXZFBad) | 2:34 |
+| 11 | [Begynnelse \(Ambient\)](https://open.spotify.com/track/2gWtkNe18gURimJZGJUT66) | [Ester Ackerman](https://open.spotify.com/artist/6SWO4ygLu9suL3HdG0DVFg) | [Begynnelse](https://open.spotify.com/album/7KOigj64SUkLXFyCkSVBlW) | 3:14 |
+| 12 | [Gemoedsrust](https://open.spotify.com/track/6dHg2I0Gs22X3WY4ii1cAS) | [Ebba Dekker](https://open.spotify.com/artist/1IyHF3iElYVD2QGDF0zZKg) | [Gemoedsrust](https://open.spotify.com/album/5zaZLYq9V194ekStDoTBNC) | 2:17 |
+| 13 | [Cosmosis](https://open.spotify.com/track/0bvAQZ7fx0opg1XDY0CCHT) | [Embertone](https://open.spotify.com/artist/64wQLdtq3qw5sCdJlK4CwY) | [Cosmosis](https://open.spotify.com/album/5e26lAWV8Sindc9WXm83dY) | 3:04 |
+| 14 | [Peaks](https://open.spotify.com/track/08ZVl6IBiPemNOsVfkoIyv) | [Yves Alija](https://open.spotify.com/artist/6pUJ81I1hkjgVQ6TW448Lw) | [Peaks](https://open.spotify.com/album/2xv2cURnTpq0NdL39xJsCw) | 2:48 |
+| 15 | [Calming Measures](https://open.spotify.com/track/3e1oAxlPBpRF2LQSF7ZkhQ) | [Maurie](https://open.spotify.com/artist/0we3lcrMUMrc57nxVUC7g2) | [Calming Measures](https://open.spotify.com/album/1I4EAT9tMeRya2VeCdABH8) | 3:18 |
+| 16 | [Sensory Bypass](https://open.spotify.com/track/6d9PX0f4YezrwhMtH5BKiU) | [unvrsl frqncy](https://open.spotify.com/artist/57MWtuK2Td08YgvBJg2EQm) | [Sensory Bypass](https://open.spotify.com/album/2jxMcJP34nxtV2I9OHXe3s) | 2:31 |
+| 17 | [Echoes](https://open.spotify.com/track/4TGVSsk5tV5rPA2eZ5QW2s) | [Leya Watson](https://open.spotify.com/artist/39UfixE7ExBBDvdxM832Wn) | [Leave It All Behind](https://open.spotify.com/album/4Z4cjLPjCrgIKC0NgYyMdt) | 3:29 |
+| 18 | [Morph](https://open.spotify.com/track/3MaXtZwpMHhbLqWUNdTy3M) | [Mareina](https://open.spotify.com/artist/1cxHZRpXrZwfKsbKFLpL36) | [Morph](https://open.spotify.com/album/3qlZgXPpnlruwmL4tfxKIj) | 2:30 |
+| 19 | [Erstwhile](https://open.spotify.com/track/2ZIM8OtvpyZlIcJEqG2t0s) | [Olivier Lupin](https://open.spotify.com/artist/3ho5RtJG5r5HUTsUC7ZLSN) | [Erstwhile](https://open.spotify.com/album/1JijVPErUrR6N4dgJgRV0E) | 2:13 |
+| 20 | [Serenity](https://open.spotify.com/track/555LtwRZ3fc00jnQSGOd0q) | [Studio Tranquilo](https://open.spotify.com/artist/48dV0cPzz4OVDmYam426RP) | [Serenity](https://open.spotify.com/album/70FUCWJ79m4CS4zihjWmro) | 2:33 |
+| 21 | [Placebo](https://open.spotify.com/track/1a20QUimSwgqSjWYFFUF1G) | [Laura Dawson](https://open.spotify.com/artist/1IM8iJAfKOjMCKp7UJGAP9) | [Cloudy Texture](https://open.spotify.com/album/2dd61B0M71AQOsG7bKgcRE) | 3:09 |
+| 22 | [Oändligheten](https://open.spotify.com/track/4fVgnrnaUs163eRqVEsh8D) | [Juni Ros](https://open.spotify.com/artist/0lYxaLB1G0DginH83Meiw9) | [Rymdresa](https://open.spotify.com/album/2pg1D1oF92V1a8sJXZFBad) | 2:41 |
+| 23 | [Cloud Gazing](https://open.spotify.com/track/5RA07TPFsjrAR9iDR0OiHC) | [Sleepy Clouds](https://open.spotify.com/artist/2VGcECsvRjugsMNJ2bVSsM) | [Floating Free](https://open.spotify.com/album/30KgVtVeomGLqbrmwF28kn) | 2:47 |
 | 24 | [Atardecer](https://open.spotify.com/track/1Jn5Id1Yn99AGGZ4dHqloo) | [Salina Cardenas](https://open.spotify.com/artist/3UJgE628TwNqsowj6m4m4k) | [Atardecer](https://open.spotify.com/album/7gWbzktLiCpdEobiUn9vvS) | 2:23 |
 | 25 | [Insieme](https://open.spotify.com/track/2FjdJ4hXRC6rrKD1zNGHqZ) | [Constantine Lupo](https://open.spotify.com/artist/1RMseCll3Wq0FsAIrkPmdn) | [Spirituale](https://open.spotify.com/album/6iXMFnymi6K89iCVuVyLqO) | 3:13 |
 | 26 | [Nothing else mattered](https://open.spotify.com/track/1LRjbCFrOBUQ9L1Ot4xuIO) | [Maddox JR](https://open.spotify.com/artist/4IOVtDNRfRnXC3xvPHWTyr) | [Placidity](https://open.spotify.com/album/75ivkKwsC8iTZMcvbI7BeS) | 2:42 |
@@ -215,4 +215,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXebxttQCq0zA.md) - [plain]
 | 205 | [Sleeping Beauty](https://open.spotify.com/track/0Cks68XMF8C89s1zTfFtR2) | [Everlight](https://open.spotify.com/artist/6RavlD6YjBgKC9iSh3uHgg) | [Healer](https://open.spotify.com/album/1QxVwtRf2TgfYHMqWiLlap) | 3:11 |
 | 206 | [Heavenly Harps](https://open.spotify.com/track/1GfdC8GouQqL0RKKzgIhXw) | [Matooma](https://open.spotify.com/artist/7MWB4y39Fn6YnVIyxdv77K) | [Deep Space](https://open.spotify.com/album/3FVqVMyRxBxo3k3zbjvOaL) | 3:04 |
 
-Snapshot ID: `MCxmMDExMGE0MTkzNDFlYmRjMzdlNzU0MTZjMzNhZjJlYzhkOWFhMTcw`
+Snapshot ID: `MCwwYWVjOTFkNTE2M2U2ZjFhNzcxYjg4NmJmY2VjYmExYWIwYmNhNTNl`

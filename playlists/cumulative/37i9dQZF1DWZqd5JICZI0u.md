@@ -4,7 +4,7 @@
 
 > Breathe\. Sense\. Feel\. Transcend.
 
-473 songs - 1 day 0 hr 33 min
+474 songs - 1 day 0 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,9 +43,10 @@
 | [Aurora](https://open.spotify.com/track/6LTIZenP15l2VvkvPF2lFM) | [Chandeller](https://open.spotify.com/artist/0LzWeBGGtEazh0mJmyxFXi) | [Aurora](https://open.spotify.com/album/3eK38YOTl32ByPy2cgkmoy) | 3:05 | 2020-11-19 | 2022-03-25 |
 | [Aurora](https://open.spotify.com/track/1OraD6cUqvKrh8A5skqtBh) | [Stephanie Hawk](https://open.spotify.com/artist/0JXsWES2h8yg0TKw7obalI) | [Aurora](https://open.spotify.com/album/3jAfYsRRP5zGAqbikyROKa) | 3:22 | 2021-09-14 |  |
 | [Autumn Forest](https://open.spotify.com/track/4rYbGAvD3Es5dOulUhAviv) | [Park Leaf](https://open.spotify.com/artist/587iyTEEJ1Ak3qIFnefDFJ) | [Seasons EP](https://open.spotify.com/album/0G1Ho8P2ZzSv1o7beY3m7Y) | 2:50 | 2020-09-30\* | 2023-03-10 |
-| [Axis Of Action](https://open.spotify.com/track/45vbUbBDk6o9nNsx7QtoV3) | [Esther Dutch](https://open.spotify.com/artist/5dE53rEeytVtDqFaOViuZ7) | [Axis Of Action](https://open.spotify.com/album/21cvDZIlumM4tLkN3sBHPR) | 2:34 | 2021-05-18 |  |
+| [Axis Of Action](https://open.spotify.com/track/45vbUbBDk6o9nNsx7QtoV3) | [Esther Dutch](https://open.spotify.com/artist/5dE53rEeytVtDqFaOViuZ7) | [Axis Of Action](https://open.spotify.com/album/21cvDZIlumM4tLkN3sBHPR) | 2:34 | 2021-05-18 | 2023-05-20 |
 | [Barceloneta](https://open.spotify.com/track/1jBmAt2PKYf86TeUPdamF3) | [Barcelona Atmosphere](https://open.spotify.com/artist/2Y0VG1OXaXM81BHoZ95zCM) | [Barcelona Atmosphere](https://open.spotify.com/album/5CyMNHf4S61L6OeHEL57gI) | 4:10 | 2020-09-30\* | 2021-09-14 |
 | [Beautiful Light](https://open.spotify.com/track/7uOyfHS2nN6k5NfODZNFjZ) | [Isla Cantrell](https://open.spotify.com/artist/2KZi2E7jiI5QACfJTfQFwM) | [Beautiful Light](https://open.spotify.com/album/2cdZB51VhLhxFi6oj8EEtI) | 2:12 | 2023-05-05 |  |
+| [Begynnelse \(Ambient\)](https://open.spotify.com/track/2gWtkNe18gURimJZGJUT66) | [Ester Ackerman](https://open.spotify.com/artist/6SWO4ygLu9suL3HdG0DVFg) | [Begynnelse](https://open.spotify.com/album/7KOigj64SUkLXFyCkSVBlW) | 3:14 | 2023-05-19 |  |
 | [Behind The Lines](https://open.spotify.com/track/0gEnOiu5WgBs0W9XWwSV21) | [Leonidas Myaló](https://open.spotify.com/artist/6dumU4QYEB8C4dDdTPfRg3) | [Behind The Lines](https://open.spotify.com/album/7DzmeLoWc2QZ2DE3Q7Ctjn) | 3:48 | 2022-02-25 |  |
 | [Beneath Your Beauty](https://open.spotify.com/track/3FzzyU60e8a8TZrRn7fv6X) | [Benjin Blund](https://open.spotify.com/artist/4X7C94aG7ctqFboeUcc1Q1) | [Beneath Your Beauty](https://open.spotify.com/album/1iRbiW6eu5QTluTrHKsRwp) | 2:22 | 2021-06-16 |  |
 | [Between Two Stars](https://open.spotify.com/track/6Jg4ZM9AlhJuClKekGvNCf) | [Sava Sol](https://open.spotify.com/artist/0aikDGpgY0MmQ77ZHaSj3j) | [Between Two Stars](https://open.spotify.com/album/3IpCbADo0H9Ls1iTUxumLV) | 3:51 | 2020-09-30\* | 2021-09-14 |

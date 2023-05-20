@@ -1,12 +1,12 @@
 {
   "description": "\u00a1A preparar la comida con la saz\u00f3n de m\u00fasica rica y antig\u00fcita!",
-  "num_followers": 32540,
+  "num_followers": 32618,
   "original_name": "Cocina Tradicional",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1YTQ1YTczOWJkNGM2MjA4MmExODQ0NmFiNzcwZTE4ODdiY2U4NDc0",
+  "snapshot_id": "MCwwODNlOWRlMDE0YTZiNzdlY2UyYjIwM2RiNGUzMmEzZWEyNjZiNThk",
   "tracks": [
     {
       "added_at": "2020-05-28 20:45:13",
@@ -809,22 +809,6 @@
       "url": "https://open.spotify.com/track/3SQauyf4T2j5XCTZxZ3gxY"
     },
     {
-      "added_at": "2020-05-28 20:45:13",
-      "album": {
-        "name": "Homenaje a Agustin Lara - To\u00f1a La Negra",
-        "url": "https://open.spotify.com/album/050gFZOIdzQRxVHpEIWU3L"
-      },
-      "artists": [
-        {
-          "name": "To\u00f1a La Negra",
-          "url": "https://open.spotify.com/artist/2NRvtXR7xPvvJGoWov1YJ3"
-        }
-      ],
-      "duration_ms": 160679,
-      "name": "Oracion caribe",
-      "url": "https://open.spotify.com/track/3yEOU4LhTW2DGEPfXiN1u0"
-    },
-    {
       "added_at": "2022-01-11 03:10:29",
       "album": {
         "name": "Afro",
@@ -841,20 +825,20 @@
       "url": "https://open.spotify.com/track/3pZ7P4OtLKFluIWakhmvE1"
     },
     {
-      "added_at": "2022-09-30 03:45:40",
+      "added_at": "2020-05-28 20:45:13",
       "album": {
-        "name": "Formose\u00f1a",
-        "url": "https://open.spotify.com/album/12C9DL2J39QMoWhorROrA2"
+        "name": "Homenaje a Agustin Lara - To\u00f1a La Negra",
+        "url": "https://open.spotify.com/album/050gFZOIdzQRxVHpEIWU3L"
       },
       "artists": [
         {
-          "name": "La Charo",
-          "url": "https://open.spotify.com/artist/4kAM3B6DtYL1GZVIHBglKK"
+          "name": "To\u00f1a La Negra",
+          "url": "https://open.spotify.com/artist/2NRvtXR7xPvvJGoWov1YJ3"
         }
       ],
-      "duration_ms": 246440,
-      "name": "Ag\u00fcita de Manantial",
-      "url": "https://open.spotify.com/track/4fTEJsSGo4jFc3AmULnvDt"
+      "duration_ms": 160679,
+      "name": "Oracion caribe",
+      "url": "https://open.spotify.com/track/3yEOU4LhTW2DGEPfXiN1u0"
     },
     {
       "added_at": "2022-01-11 03:10:29",
@@ -875,6 +859,22 @@
       "duration_ms": 260000,
       "name": "Mi Swing es Tropical - Zeb Remix",
       "url": "https://open.spotify.com/track/46VTfAdEu33535BxYyHkS4"
+    },
+    {
+      "added_at": "2022-09-30 03:45:40",
+      "album": {
+        "name": "Formose\u00f1a",
+        "url": "https://open.spotify.com/album/12C9DL2J39QMoWhorROrA2"
+      },
+      "artists": [
+        {
+          "name": "La Charo",
+          "url": "https://open.spotify.com/artist/4kAM3B6DtYL1GZVIHBglKK"
+        }
+      ],
+      "duration_ms": 246440,
+      "name": "Ag\u00fcita de Manantial",
+      "url": "https://open.spotify.com/track/4fTEJsSGo4jFc3AmULnvDt"
     },
     {
       "added_at": "2022-01-11 03:10:29",
@@ -947,22 +947,6 @@
     {
       "added_at": "2020-05-28 20:45:13",
       "album": {
-        "name": "Antolog\u00eda. . .Marimba Cuquita de los Hermanos Narvaez",
-        "url": "https://open.spotify.com/album/4iofQumfq1VzKug1C5K3cb"
-      },
-      "artists": [
-        {
-          "name": "Marimba Cuquita de los Hermanos Narvaez",
-          "url": "https://open.spotify.com/artist/0ioh6FwJgyen3UNGYiL0fm"
-        }
-      ],
-      "duration_ms": 181253,
-      "name": "Merecumb\u00e9 del cantinero",
-      "url": "https://open.spotify.com/track/2yfTxhGOsfpKHcJJiZBKTT"
-    },
-    {
-      "added_at": "2020-05-28 20:45:13",
-      "album": {
         "name": "Curandero",
         "url": "https://open.spotify.com/album/3hbeW1sJ4F6IT5bV5qquM4"
       },
@@ -975,6 +959,22 @@
       "duration_ms": 158677,
       "name": "Paleta",
       "url": "https://open.spotify.com/track/4UGMFGzGdq4H6nIM82d7mP"
+    },
+    {
+      "added_at": "2020-05-28 20:45:13",
+      "album": {
+        "name": "Antolog\u00eda. . .Marimba Cuquita de los Hermanos Narvaez",
+        "url": "https://open.spotify.com/album/4iofQumfq1VzKug1C5K3cb"
+      },
+      "artists": [
+        {
+          "name": "Marimba Cuquita de los Hermanos Narvaez",
+          "url": "https://open.spotify.com/artist/0ioh6FwJgyen3UNGYiL0fm"
+        }
+      ],
+      "duration_ms": 181253,
+      "name": "Merecumb\u00e9 del cantinero",
+      "url": "https://open.spotify.com/track/2yfTxhGOsfpKHcJJiZBKTT"
     },
     {
       "added_at": "2020-05-28 20:45:13",
@@ -1251,22 +1251,6 @@
     {
       "added_at": "2020-05-28 20:45:13",
       "album": {
-        "name": "Latin Soul Syndicate",
-        "url": "https://open.spotify.com/album/4RX2MCsif63EAl7nM8JBiO"
-      },
-      "artists": [
-        {
-          "name": "Latin Soul Syndicate",
-          "url": "https://open.spotify.com/artist/7hxIk7Xc5inSXA4uXHUSps"
-        }
-      ],
-      "duration_ms": 239760,
-      "name": "Frida Kahlo aka Mamasita",
-      "url": "https://open.spotify.com/track/0kVOs0kuxFduJQSGA3YA3x"
-    },
-    {
-      "added_at": "2020-05-28 20:45:13",
-      "album": {
         "name": "Bi",
         "url": "https://open.spotify.com/album/5Rnk0JczvdBVg123Mpd483"
       },
@@ -1279,6 +1263,22 @@
       "duration_ms": 267480,
       "name": "Apocalypso",
       "url": "https://open.spotify.com/track/6hgDFkV8ZAFFI6F9kvUFns"
+    },
+    {
+      "added_at": "2020-05-28 20:45:13",
+      "album": {
+        "name": "Latin Soul Syndicate",
+        "url": "https://open.spotify.com/album/4RX2MCsif63EAl7nM8JBiO"
+      },
+      "artists": [
+        {
+          "name": "Latin Soul Syndicate",
+          "url": "https://open.spotify.com/artist/7hxIk7Xc5inSXA4uXHUSps"
+        }
+      ],
+      "duration_ms": 239760,
+      "name": "Frida Kahlo aka Mamasita",
+      "url": "https://open.spotify.com/track/0kVOs0kuxFduJQSGA3YA3x"
     },
     {
       "added_at": "2022-01-11 03:10:29",
@@ -1299,22 +1299,6 @@
     {
       "added_at": "2022-01-11 03:10:29",
       "album": {
-        "name": "Court the Storm",
-        "url": "https://open.spotify.com/album/1zTyKbpajiZZFcmHGiYArr"
-      },
-      "artists": [
-        {
-          "name": "Y La Bamba",
-          "url": "https://open.spotify.com/artist/6eb2gxfoBSQhmDYkQKz93b"
-        }
-      ],
-      "duration_ms": 176653,
-      "name": "Michoacan",
-      "url": "https://open.spotify.com/track/0U67Ro1MYCIgUUZCCsj8iw"
-    },
-    {
-      "added_at": "2022-01-11 03:10:29",
-      "album": {
         "name": "Por siempre Los Panchos, Vol. 1 - Noche de ronda y otros \u00e9xitos (Remastered)",
         "url": "https://open.spotify.com/album/5Z5H3W0jLUyhzY8Fr1CDe8"
       },
@@ -1327,6 +1311,22 @@
       "duration_ms": 186107,
       "name": "Jacarandosa - Remastered",
       "url": "https://open.spotify.com/track/43gIa4GPVqRnI7xEon9P6j"
+    },
+    {
+      "added_at": "2022-01-11 03:10:29",
+      "album": {
+        "name": "Court the Storm",
+        "url": "https://open.spotify.com/album/1zTyKbpajiZZFcmHGiYArr"
+      },
+      "artists": [
+        {
+          "name": "Y La Bamba",
+          "url": "https://open.spotify.com/artist/6eb2gxfoBSQhmDYkQKz93b"
+        }
+      ],
+      "duration_ms": 176653,
+      "name": "Michoacan",
+      "url": "https://open.spotify.com/track/0U67Ro1MYCIgUUZCCsj8iw"
     },
     {
       "added_at": "2020-05-28 20:45:13",
@@ -1525,22 +1525,6 @@
       "url": "https://open.spotify.com/track/1JqhsppZflCRYSjP9FX5bG"
     },
     {
-      "added_at": "2022-01-11 03:10:29",
-      "album": {
-        "name": "Luaka Bop Remix",
-        "url": "https://open.spotify.com/album/73nm7pKg0LAgLYXM4Ux85O"
-      },
-      "artists": [
-        {
-          "name": "Susana Baca",
-          "url": "https://open.spotify.com/artist/1DiaZsjdOzFCdk7Dw9KIs0"
-        }
-      ],
-      "duration_ms": 166813,
-      "name": "Afro Blue - Koop Remix",
-      "url": "https://open.spotify.com/track/04gJ1TgFN1OTisN8Z2H9p4"
-    },
-    {
       "added_at": "2020-05-28 20:45:13",
       "album": {
         "name": "Dedicated To Nelson",
@@ -1559,6 +1543,22 @@
     {
       "added_at": "2022-01-11 03:10:29",
       "album": {
+        "name": "Luaka Bop Remix",
+        "url": "https://open.spotify.com/album/73nm7pKg0LAgLYXM4Ux85O"
+      },
+      "artists": [
+        {
+          "name": "Susana Baca",
+          "url": "https://open.spotify.com/artist/1DiaZsjdOzFCdk7Dw9KIs0"
+        }
+      ],
+      "duration_ms": 166813,
+      "name": "Afro Blue - Koop Remix",
+      "url": "https://open.spotify.com/track/04gJ1TgFN1OTisN8Z2H9p4"
+    },
+    {
+      "added_at": "2022-01-11 03:10:29",
+      "album": {
         "name": "15 \u00c9xitos de los Zafiros",
         "url": "https://open.spotify.com/album/2h6wPeAK8c5vr6nCHxHtFj"
       },
@@ -1571,22 +1571,6 @@
       "duration_ms": 152027,
       "name": "Bossa Cubana",
       "url": "https://open.spotify.com/track/4v4dF3Kfz2gbWEOL7eu92k"
-    },
-    {
-      "added_at": "2020-05-28 20:45:13",
-      "album": {
-        "name": "Songs for Moonlight Swim and Otros Tipos de Ocupaciones",
-        "url": "https://open.spotify.com/album/3g6U2KUU7oi8Fog3bGX3ni"
-      },
-      "artists": [
-        {
-          "name": "Karl Z\u00e9ro",
-          "url": "https://open.spotify.com/artist/21hW4GIKTshnE6ZQgiB79M"
-        }
-      ],
-      "duration_ms": 165800,
-      "name": "Allo Mambo",
-      "url": "https://open.spotify.com/track/2ZGtVz8et8UW3pdP8Hg4Qx"
     },
     {
       "added_at": "2022-01-11 03:10:29",
@@ -1603,6 +1587,22 @@
       "duration_ms": 147789,
       "name": "Mar\u00eda Cristina - Remastered",
       "url": "https://open.spotify.com/track/5zimrebZIVCXRfcFuVbSqd"
+    },
+    {
+      "added_at": "2020-05-28 20:45:13",
+      "album": {
+        "name": "Songs for Moonlight Swim and Otros Tipos de Ocupaciones",
+        "url": "https://open.spotify.com/album/3g6U2KUU7oi8Fog3bGX3ni"
+      },
+      "artists": [
+        {
+          "name": "Karl Z\u00e9ro",
+          "url": "https://open.spotify.com/artist/21hW4GIKTshnE6ZQgiB79M"
+        }
+      ],
+      "duration_ms": 165800,
+      "name": "Allo Mambo",
+      "url": "https://open.spotify.com/track/2ZGtVz8et8UW3pdP8Hg4Qx"
     },
     {
       "added_at": "2022-01-11 03:10:29",

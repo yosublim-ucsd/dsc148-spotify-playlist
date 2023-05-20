@@ -365,6 +365,28 @@
     },
     {
       "album": {
+        "name": "69",
+        "url": "https://open.spotify.com/album/6Zj7qmBZ7MRZ276b67CLi2"
+      },
+      "artists": [
+        {
+          "name": "Nicky Jam",
+          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
+        },
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221935,
+      "name": "69",
+      "url": "https://open.spotify.com/track/13Z5Q40pa1Ly7aQk1oW8Ce"
+    },
+    {
+      "album": {
         "name": "72 Seasons",
         "url": "https://open.spotify.com/album/5vFa10TvQUWpEv9OkVBatc"
       },
@@ -1460,10 +1482,44 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 175802,
       "name": "Angel Pt 1 (feat. Jimin of BTS, JVKE & Muni Long)",
       "url": "https://open.spotify.com/track/4g1Ant3Me43Cm5Lx91bV8e"
+    },
+    {
+      "album": {
+        "name": "FAST X (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4jgT0TBoRBPW2bSNXbjN0s"
+      },
+      "artists": [
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        },
+        {
+          "name": "NLE Choppa",
+          "url": "https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ"
+        },
+        {
+          "name": "Jimin",
+          "url": "https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY"
+        },
+        {
+          "name": "JVKE",
+          "url": "https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK"
+        },
+        {
+          "name": "Muni Long",
+          "url": "https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175802,
+      "name": "Angel Pt. 1 (feat. Jimin of BTS, JVKE & Muni Long)",
+      "url": "https://open.spotify.com/track/1XUXrNFoi9ixlH3fn8MRXQ"
     },
     {
       "album": {
@@ -6420,10 +6476,44 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 220002,
       "name": "Drip Drip (feat. Nines, MIST, MoStack & Mastermind)",
       "url": "https://open.spotify.com/track/18QiUd2m9ZWAs7CoQ9Aj2d"
+    },
+    {
+      "album": {
+        "name": "The Playlist",
+        "url": "https://open.spotify.com/album/7BRaZkcF8gOp8YRKdBXvNz"
+      },
+      "artists": [
+        {
+          "name": "Steel Banglez",
+          "url": "https://open.spotify.com/artist/6k970rXaWAWVfWMjqWtFNI"
+        },
+        {
+          "name": "Nines",
+          "url": "https://open.spotify.com/artist/0tPKcpC8yXpfdWXFcN7Vwr"
+        },
+        {
+          "name": "MIST",
+          "url": "https://open.spotify.com/artist/63X1WKthLQidtqxxO2sgeq"
+        },
+        {
+          "name": "MoStack",
+          "url": "https://open.spotify.com/artist/14H15rElxdGClICOZXEYHP"
+        },
+        {
+          "name": "Mastermind",
+          "url": "https://open.spotify.com/artist/7cebmXLpLp4Rk2eFI00ppV"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220002,
+      "name": "Drip Drip (feat. Nines, MIST, MoStack & Mastermind)",
+      "url": "https://open.spotify.com/track/6eaeMeozj8RUHjsOUcubZU"
     },
     {
       "album": {
@@ -7638,10 +7728,28 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 161666,
       "name": "FENTY BEAUTY",
       "url": "https://open.spotify.com/track/5v8VvbkeXkA9fLc1ZjeJwE"
+    },
+    {
+      "album": {
+        "name": "NEMZZZ TYPE BEAT",
+        "url": "https://open.spotify.com/album/4Wvpxold7MP3i4SraBP9oR"
+      },
+      "artists": [
+        {
+          "name": "Nemzzz",
+          "url": "https://open.spotify.com/artist/3DHtfeD4PsmR9YGhCP4VF7"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161666,
+      "name": "FENTY BEAUTY",
+      "url": "https://open.spotify.com/track/6PtTA5brWv0ITzpMuW30s1"
     },
     {
       "album": {
@@ -7954,7 +8062,7 @@
     {
       "album": {
         "name": "Francesca",
-        "url": "https://open.spotify.com/album/09gUFQ3fFjCHuhv1ab99Ce"
+        "url": "https://open.spotify.com/album/2GS1K0RZ5SjtuT8bsX0xyv"
       },
       "artists": [
         {
@@ -7965,6 +8073,24 @@
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 270066,
+      "name": "Francesca",
+      "url": "https://open.spotify.com/track/4LmOmWpjCQbC1VZvUuwPQu"
+    },
+    {
+      "album": {
+        "name": "Francesca",
+        "url": "https://open.spotify.com/album/09gUFQ3fFjCHuhv1ab99Ce"
+      },
+      "artists": [
+        {
+          "name": "Hozier",
+          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-20",
       "duration_ms": 270066,
       "name": "Francesca",
       "url": "https://open.spotify.com/track/6TSH6vh6KkSfExHM6evcbr"
@@ -8304,7 +8430,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 181198,
-      "name": "Get It Together (feat. Machario)",
+      "name": "Get It Together",
       "url": "https://open.spotify.com/track/7ec7CxhEE1Qh1Ayu2QJnqD"
     },
     {
@@ -9545,6 +9671,24 @@
     },
     {
       "album": {
+        "name": "Het Gaat Niet Meer",
+        "url": "https://open.spotify.com/album/6maAcQQlUQE5Ns4JXA5OYf"
+      },
+      "artists": [
+        {
+          "name": "Giorgio Sanches",
+          "url": "https://open.spotify.com/artist/4czBYH5Cx0BFCXixmMsgyU"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156000,
+      "name": "Het Gaat Niet Meer",
+      "url": "https://open.spotify.com/track/15QecetmQsVjqqB6pkmaBG"
+    },
+    {
+      "album": {
         "name": "Het Is Ok\u00e9",
         "url": "https://open.spotify.com/album/4ggz9ftutsrn3G8A3ZK34t"
       },
@@ -10185,6 +10329,24 @@
     },
     {
       "album": {
+        "name": "Hurts so Good",
+        "url": "https://open.spotify.com/album/2vB7f35TC3FniOnMy3ohiQ"
+      },
+      "artists": [
+        {
+          "name": "The Paper Kites",
+          "url": "https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295813,
+      "name": "Hurts so Good",
+      "url": "https://open.spotify.com/track/24u02eXgpySwvPbC0Yac4T"
+    },
+    {
+      "album": {
         "name": "Hurts So Good",
         "url": "https://open.spotify.com/album/4sk8GbzVtD055DCdQmxloZ"
       },
@@ -10196,7 +10358,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 295813,
       "name": "Hurts So Good",
       "url": "https://open.spotify.com/track/3kPmfYnG7vvLxIO1PFoPlC"
@@ -10674,6 +10836,24 @@
       "duration_ms": 208866,
       "name": "I Love You",
       "url": "https://open.spotify.com/track/7haHJ5kRXm1yeUP5OEqA61"
+    },
+    {
+      "album": {
+        "name": "What's Around The Corner",
+        "url": "https://open.spotify.com/album/25svhynQhTgN0uUjHAdDth"
+      },
+      "artists": [
+        {
+          "name": "Joya Mooi",
+          "url": "https://open.spotify.com/artist/03X2rnTnfrpid7yLZfUSGn"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146739,
+      "name": "I Need My Peace",
+      "url": "https://open.spotify.com/track/1cvL9N3PRfILNdamGy7UX8"
     },
     {
       "album": {
@@ -11336,7 +11516,7 @@
     {
       "album": {
         "name": "It's Getting Wild, Getting Older",
-        "url": "https://open.spotify.com/album/22xPVVwR71mHFQpX0NnddG"
+        "url": "https://open.spotify.com/album/7JS7iRw7VDZGIPaGU2Ik4i"
       },
       "artists": [
         {
@@ -11347,6 +11527,24 @@
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 156106,
+      "name": "It's Getting Wild Getting Older",
+      "url": "https://open.spotify.com/track/0G9fvf5rhuikgImXES2wbh"
+    },
+    {
+      "album": {
+        "name": "It's Getting Wild, Getting Older",
+        "url": "https://open.spotify.com/album/22xPVVwR71mHFQpX0NnddG"
+      },
+      "artists": [
+        {
+          "name": "Loupe",
+          "url": "https://open.spotify.com/artist/23n2oObsIrvqtcOVwhyT3o"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-20",
       "duration_ms": 156106,
       "name": "It's Getting Wild, Getting Older",
       "url": "https://open.spotify.com/track/0RyZhjAA8DH0faTRWchtGJ"
@@ -15163,6 +15361,28 @@
     },
     {
       "album": {
+        "name": "CLEAR 2: SOFT LIFE EP",
+        "url": "https://open.spotify.com/album/034Q9kY3buGcizT3Xpj9Re"
+      },
+      "artists": [
+        {
+          "name": "Summer Walker",
+          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
+        },
+        {
+          "name": "Childish Gambino",
+          "url": "https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265906,
+      "name": "New Type (feat. Childish Gambino)",
+      "url": "https://open.spotify.com/track/35PofXWEoF8DnGTA1SIuyJ"
+    },
+    {
+      "album": {
         "name": "New World",
         "url": "https://open.spotify.com/album/6MTwKUXoJ0zWO8H8bshzqy"
       },
@@ -16394,6 +16614,32 @@
       "duration_ms": 170578,
       "name": "On & On",
       "url": "https://open.spotify.com/track/6wLqNGHQIja6xqT0cfrzBB"
+    },
+    {
+      "album": {
+        "name": "On My Soul",
+        "url": "https://open.spotify.com/album/1I5QGY6wFJp0LjgDvbfV87"
+      },
+      "artists": [
+        {
+          "name": "Tobe Nwigwe",
+          "url": "https://open.spotify.com/artist/3Qh89pgJeZq6d8uM1bTot3"
+        },
+        {
+          "name": "Nas",
+          "url": "https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q"
+        },
+        {
+          "name": "Jacob Banks",
+          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "On My Soul",
+      "url": "https://open.spotify.com/track/2xLrkO5wPNzl5cNjLoPeNW"
     },
     {
       "album": {
@@ -20350,10 +20596,36 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 171233,
       "name": "Stars",
       "url": "https://open.spotify.com/track/2fNaMBJBFpv1PQ1zXkxIcO"
+    },
+    {
+      "album": {
+        "name": "Stars",
+        "url": "https://open.spotify.com/album/05fkFs9DM4TpNGaDotqF8O"
+      },
+      "artists": [
+        {
+          "name": "PNAU",
+          "url": "https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u"
+        },
+        {
+          "name": "Bebe Rexha",
+          "url": "https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb"
+        },
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171233,
+      "name": "Stars",
+      "url": "https://open.spotify.com/track/3mC64Smtz0xXvsa52ZM3Q9"
     },
     {
       "album": {
@@ -24644,7 +24916,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 127354,
       "name": "What Dreams I've Had",
       "url": "https://open.spotify.com/track/6wl5UO29G68BIfS6MOXhW4"

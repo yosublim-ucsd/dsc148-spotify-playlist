@@ -4,7 +4,7 @@
 
 > Only the best rock in the world\. Cover: Måneskin
 
-347 songs - 22 hr 0 min
+348 songs - 22 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -101,7 +101,8 @@
 | [Fog Machine](https://open.spotify.com/track/2oLMRpIzmWXJAI1oEuSqsc) | [White Reaper](https://open.spotify.com/artist/75klPfIVnyYcyEGaicRUSF) | [Fog Machine](https://open.spotify.com/album/4G37xdusxvyZqLXUDpeUs7) | 3:13 | 2022-12-15 | 2023-03-18 |
 | [Folks](https://open.spotify.com/track/2ZBamz4ysAIPWEyILbIt0I) | [LØREN](https://open.spotify.com/artist/18mAiJGFVBU5YdiIUIdzL2) | [Put Up a Fight](https://open.spotify.com/album/3drwQJIp5YRtjFIIPishWG) | 3:21 | 2023-03-23 |  |
 | [For the Love of Money](https://open.spotify.com/track/5jH6P7e6RUGZnFGTeq3pUe) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Dropout Boogie](https://open.spotify.com/album/7LLyQJzyD56Avzk3uFzKUk) | 3:31 | 2022-05-12 | 2022-05-27 |
-| [Francesca](https://open.spotify.com/track/6TSH6vh6KkSfExHM6evcbr) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Francesca](https://open.spotify.com/album/09gUFQ3fFjCHuhv1ab99Ce) | 4:30 | 2023-05-18 |  |
+| [Francesca](https://open.spotify.com/track/4LmOmWpjCQbC1VZvUuwPQu) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Francesca](https://open.spotify.com/album/2GS1K0RZ5SjtuT8bsX0xyv) | 4:30 | 2023-05-18 |  |
+| [Francesca](https://open.spotify.com/track/6TSH6vh6KkSfExHM6evcbr) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Francesca](https://open.spotify.com/album/09gUFQ3fFjCHuhv1ab99Ce) | 4:30 | 2023-05-18 | 2023-05-20 |
 | [Freaking Me Out](https://open.spotify.com/track/3I8U8BMugXc4ZGzAl5IkCc) | [AWOLNATION](https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz) | [Freaking Me Out](https://open.spotify.com/album/4zfYtnA9PxMK3daDkQrqpN) | 3:28 | 2022-09-22 | 2022-10-07 |
 | [Free Fall \(Theme From KinnPorsche The Series\)](https://open.spotify.com/track/6MDtS6MzlIzGUjbC1rapa4) | [Slot Machine](https://open.spotify.com/artist/6TNTFjkJA8PhP16Ds7CZnz) | [Free Fall \(Theme From KinnPorsche The Series\)](https://open.spotify.com/album/7svgXSmQuVYYecwHej48Pw) | 3:46 | 2022-05-06 |  |
 | [Frenzy](https://open.spotify.com/track/0D0fJnHN5Tj7QTa3rEbLTT) | [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [Frenzy](https://open.spotify.com/album/2kyxzQ0Y1qBQOViyHostqk) | 3:00 | 2022-10-27 | 2022-12-16 |

@@ -1790,10 +1790,28 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 223315,
       "name": "The Little Things",
       "url": "https://open.spotify.com/track/5iSVLB0MDNoeXXfi5hs9T8"
+    },
+    {
+      "album": {
+        "name": "A Dave Brubeck Christmas",
+        "url": "https://open.spotify.com/album/13Xwxp8icIpeRQhwdN7crn"
+      },
+      "artists": [
+        {
+          "name": "Dave Brubeck",
+          "url": "https://open.spotify.com/artist/3kUKwTJdH8FuWzF8p6Dg9E"
+        }
+      ],
+      "date_added": "2021-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212400,
+      "name": "To Us Is Given",
+      "url": "https://open.spotify.com/track/4425vuUQ6AXiaEtDfyFH4x"
     },
     {
       "album": {

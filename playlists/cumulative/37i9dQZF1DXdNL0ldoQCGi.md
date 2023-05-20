@@ -4,7 +4,7 @@
 
 > aquela lá q viralizou na net
 
-363 songs - 18 hr 32 min
+364 songs - 18 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -285,7 +285,8 @@
 | [Saudade do Romance \- Seu Vagabundo](https://open.spotify.com/track/60teW9nAJVSf3dWTZvImPS) | [Boyzinho o Rei da Bregadeira](https://open.spotify.com/artist/3JlDzWcj1jl5fVSJ7YyHgK) | [POSSO MISTURAR ? \(Saudade do Romance\)](https://open.spotify.com/album/7fAf5qZFxrK0dLxV7rJojJ) | 3:05 | 2023-01-06 | 2023-04-27 |
 | [Se Acabo \(feat\. Method Man\) \- Remix](https://open.spotify.com/track/4F3AZKEJubvPsl0hBArVBW) | [The Beatnuts](https://open.spotify.com/artist/5ynvmGwc83ZoRx2EIWHXLX), [Method Man](https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt) | [Take It Or Squeeze It](https://open.spotify.com/album/3XdJ1vN71jqV69uJ6oCsPL) | 3:32 | 2022-05-25 | 2022-10-21 |
 | [Se Hoje Eu For Cair Iguinho](https://open.spotify.com/track/1NepT1lxXl7jItlkvonfG5) | [Piseiro original](https://open.spotify.com/artist/4SQcSMJpci1m42ekRFUjAe) | [Iguinho e lulinha Eu te amo tanto](https://open.spotify.com/album/6aLdsqcozK4CnGUGBMMicf) | 2:01 | 2022-11-17 | 2022-12-07 |
-| [Se Você For Embora](https://open.spotify.com/track/13SWee2K1tLqE8rzgoIAzC) | [Tz da Coronel](https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e), [Langris](https://open.spotify.com/artist/2J4i3afJjXrqDGWRYn6sBI), [NADAMAL](https://open.spotify.com/artist/3YVxmhkewoRHu8WFgWlCb7) | [Se Você For Embora](https://open.spotify.com/album/74ieAYOF8EhRxQ4dIkhrN0) | 2:10 | 2023-01-10 |  |
+| [Se Você for Embora](https://open.spotify.com/track/7haCn21tCWhVqg87x6tkRS) | [Tz da Coronel](https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e), [Langris](https://open.spotify.com/artist/2J4i3afJjXrqDGWRYn6sBI) | [Se Você For Embora](https://open.spotify.com/album/7IbQtUpNuUHQS2Cr8uNTRJ) | 2:10 | 2023-05-16 |  |
+| [Se Você For Embora](https://open.spotify.com/track/13SWee2K1tLqE8rzgoIAzC) | [Tz da Coronel](https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e), [Langris](https://open.spotify.com/artist/2J4i3afJjXrqDGWRYn6sBI), [NADAMAL](https://open.spotify.com/artist/3YVxmhkewoRHu8WFgWlCb7) | [Se Você For Embora](https://open.spotify.com/album/74ieAYOF8EhRxQ4dIkhrN0) | 2:10 | 2023-01-10 | 2023-05-20 |
 | [Senta Danadinha](https://open.spotify.com/track/6Epk6YaI0oQOxy20TPk96m) | [Fillipe Dom](https://open.spotify.com/artist/0QMWLYwcO27Ypn8Qr1xJ5m), [Ruivinha de Marte](https://open.spotify.com/artist/5Xx8dipXXNS0AjPDULXA0z) | [Senta Danadinha](https://open.spotify.com/album/3i0hdb3jIlK1QNcrAnHi8k) | 3:00 | 2022-05-25 | 2022-08-18 |
 | [Sentadinha](https://open.spotify.com/track/1DRoj20FnT4p38W23joaz2) | [Patrulha Do Samba](https://open.spotify.com/artist/0mik3PxmT3hByFDHOz9cHY) | [Sentadinha](https://open.spotify.com/album/1GJoUl8C3KeZy6wj9jSXga) | 3:02 | 2022-11-01 | 2022-12-07 |
 | [Sereia](https://open.spotify.com/track/77UrDaIQq6JZIJWeLgJaRf) | [Orochi](https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx), [MC Ryan SP](https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY), [Oruam](https://open.spotify.com/artist/4yGgbQJMq9orWypwqtdzYT), [Xamã](https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf), [Neo Beats](https://open.spotify.com/artist/6PERJZF7wohA034PAxDK0b), [Kizzy](https://open.spotify.com/artist/2NMYOlZHIEsSq7pp5jBjic), [Mainstreet](https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd) | [Sereia](https://open.spotify.com/album/56nuoKYRrbcBq73wUuSEyI) | 4:54 | 2022-11-01 |  |

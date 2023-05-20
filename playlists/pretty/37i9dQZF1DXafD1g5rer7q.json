@@ -1,12 +1,12 @@
 {
   "description": "Create the new vibe by mixing in the retro sounds.",
-  "num_followers": 348887,
+  "num_followers": 349180,
   "original_name": "EDM Samplings",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwODU5ODFkMmM3NmM0MzYzODEzMmRhMmY2Zjk0NTAxMDc4Yzc2YTY3",
+  "snapshot_id": "MCxlNmFkYTc3OGVhMTJmNDdlNGUyYTg5ODgyMjExNmYwYjkyYmY2YTBk",
   "tracks": [
     {
       "added_at": "2023-05-11 16:00:00",
@@ -419,26 +419,6 @@
     {
       "added_at": "2023-05-11 16:00:00",
       "album": {
-        "name": "Believe (feat. Goodboys)",
-        "url": "https://open.spotify.com/album/6OcqONrf7kWx0jE3yNI2Nx"
-      },
-      "artists": [
-        {
-          "name": "ACRAZE",
-          "url": "https://open.spotify.com/artist/4pnp4w9g30yLfVIAFnZMRd"
-        },
-        {
-          "name": "Goodboys",
-          "url": "https://open.spotify.com/artist/2nm38smINjms1LtczR0Cei"
-        }
-      ],
-      "duration_ms": 188709,
-      "name": "Believe (feat. Goodboys)",
-      "url": "https://open.spotify.com/track/6h5y2LCqCQudsCarn61CNE"
-    },
-    {
-      "added_at": "2023-05-11 16:00:00",
-      "album": {
         "name": "Monster",
         "url": "https://open.spotify.com/album/3S7LqjI8EzC8FudcsX2T2W"
       },
@@ -455,6 +435,26 @@
       "duration_ms": 154226,
       "name": "Monster",
       "url": "https://open.spotify.com/track/0YU17F0BlVXvmx5ytsR43w"
+    },
+    {
+      "added_at": "2023-05-11 16:00:00",
+      "album": {
+        "name": "Believe (feat. Goodboys)",
+        "url": "https://open.spotify.com/album/6OcqONrf7kWx0jE3yNI2Nx"
+      },
+      "artists": [
+        {
+          "name": "ACRAZE",
+          "url": "https://open.spotify.com/artist/4pnp4w9g30yLfVIAFnZMRd"
+        },
+        {
+          "name": "Goodboys",
+          "url": "https://open.spotify.com/artist/2nm38smINjms1LtczR0Cei"
+        }
+      ],
+      "duration_ms": 188709,
+      "name": "Believe (feat. Goodboys)",
+      "url": "https://open.spotify.com/track/6h5y2LCqCQudsCarn61CNE"
     },
     {
       "added_at": "2023-05-11 16:00:00",
@@ -771,30 +771,6 @@
     {
       "added_at": "2023-05-11 16:00:00",
       "album": {
-        "name": "Ride With Me (feat. Kid Ink) [Brennan Heart Remix]",
-        "url": "https://open.spotify.com/album/6AiFDQJbdWwKrZ4IMimBgE"
-      },
-      "artists": [
-        {
-          "name": "Tungevaag",
-          "url": "https://open.spotify.com/artist/49CE2ffZ6Z3zeYSDauSKck"
-        },
-        {
-          "name": "Kid Ink",
-          "url": "https://open.spotify.com/artist/6KZDXtSj0SzGOV705nNeh3"
-        },
-        {
-          "name": "Brennan Heart",
-          "url": "https://open.spotify.com/artist/5QySqc6yAFDx9m7fedFZmC"
-        }
-      ],
-      "duration_ms": 230400,
-      "name": "Ride With Me (feat. Kid Ink) - Brennan Heart Remix",
-      "url": "https://open.spotify.com/track/74CkeJ0vYYTdQImnaLy759"
-    },
-    {
-      "added_at": "2023-05-11 16:00:00",
-      "album": {
         "name": "Party Shaker",
         "url": "https://open.spotify.com/album/705F4ulYgy4RF8w9Haan6D"
       },
@@ -835,6 +811,30 @@
       "duration_ms": 155399,
       "name": "I Was Made",
       "url": "https://open.spotify.com/track/0ieEZjHQO5eq9Uad7opItK"
+    },
+    {
+      "added_at": "2023-05-11 16:00:00",
+      "album": {
+        "name": "Ride With Me (feat. Kid Ink) [Brennan Heart Remix]",
+        "url": "https://open.spotify.com/album/6AiFDQJbdWwKrZ4IMimBgE"
+      },
+      "artists": [
+        {
+          "name": "Tungevaag",
+          "url": "https://open.spotify.com/artist/49CE2ffZ6Z3zeYSDauSKck"
+        },
+        {
+          "name": "Kid Ink",
+          "url": "https://open.spotify.com/artist/6KZDXtSj0SzGOV705nNeh3"
+        },
+        {
+          "name": "Brennan Heart",
+          "url": "https://open.spotify.com/artist/5QySqc6yAFDx9m7fedFZmC"
+        }
+      ],
+      "duration_ms": 230400,
+      "name": "Ride With Me (feat. Kid Ink) - Brennan Heart Remix",
+      "url": "https://open.spotify.com/track/74CkeJ0vYYTdQImnaLy759"
     },
     {
       "added_at": "2023-05-11 16:00:00",

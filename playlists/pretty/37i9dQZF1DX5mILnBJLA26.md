@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5mILnBJLA26.md) - [plain]
 
 > The biggest Amapiano singles making waves in South Africa and the world\. Cover: <a href="https://open.spotify.com/artist/6EG9v86LsCoq5HS4Jj1zCQ?si=SCNu\_PX7QxqrQWCmsv88cQ">Pabi Cooper</a>, <a href="https://open.spotify.com/artist/5kwZB1xNLgB3lln1JGS2B9?si=UxzfFP3dRjG2pK0PgT8T9w">MaWhoo</a> and <a href="https://open.spotify.com/artist/4AnNB3lPD0Sv7ziKVHqI66?si=\-8DsErXqRZOlrjOMZcA\_EA">Nkosazana Daughter</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 489,894 likes - 50 songs - 5 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 491,475 likes - 50 songs - 5 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5mILnBJLA26.md) - [plain]
 | 49 | [Thanda Wena](https://open.spotify.com/track/113g59nN6vT6dlzZJGneVj) | [Junior De Rocka](https://open.spotify.com/artist/71lldVkx3POgVXXTe5Pqoa), [Maline Aura](https://open.spotify.com/artist/1LcX3ZFNBeGKxkpfCIr4cP), [Ntwana\_R](https://open.spotify.com/artist/2MYAT2rstTLHX0f3EellwS) | [SLANT](https://open.spotify.com/album/17SO3H2tR6XgdAQeSJoBWm) | 6:55 |
 | 50 | [Bayeke](https://open.spotify.com/track/1yRVrzy3MG0nOePUAyHd1y) | [TOSS](https://open.spotify.com/artist/0JwjW1x56tK5hnHvlRSSw9), [Tyler ICU](https://open.spotify.com/artist/2oIQCM7hRZI9tS5b9S8rj4), [Nandipha808](https://open.spotify.com/artist/3hw14sG4z2GSidk66In1eW), [Ceekay RSA](https://open.spotify.com/artist/2H60RrivWa3EpP4ITgry2m) | [Thought It Was Over](https://open.spotify.com/album/249ZTi5ArtibPOAKkiK0vo) | 6:34 |
 
-Snapshot ID: `MCxiOTlhYzFkOGQ2Njc0ODJhNTI2NmYxNDIyNjBiMTM2YjI4ZGI1MWQ5`
+Snapshot ID: `MCwxZDEzZTU1ZjI5MDJkOTBjYmFhZTRkMzhiM2FiZjk1YmM2MzVmMTA4`

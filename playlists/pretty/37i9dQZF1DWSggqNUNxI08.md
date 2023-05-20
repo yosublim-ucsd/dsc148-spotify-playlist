@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSggqNUNxI08.md) - [plain]
 
 > <a href="spotify:artist:69zPIMRgsZieOHFtHtvnj0">Yu Su</a>'s favorite tracks\. Updated regularly\. Curated by Yu Su\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,322 likes - 36 songs - 3 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,336 likes - 36 songs - 3 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,4 +45,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSggqNUNxI08.md) - [plain]
 | 35 | [For the Love of Money \- New Hard Left Mix \- DJ Harvey](https://open.spotify.com/track/1HBWFObOkIZwgT6HKKNOV0) | [Disco Dub Band](https://open.spotify.com/artist/63mThjfPcQlggvZKkB5zQs) | [For the Love of Money](https://open.spotify.com/album/4uQ3fXCLoZtEHr3FEU9OLA) | 8:28 |
 | 36 | [Folkdance](https://open.spotify.com/track/1V2GJrA1oKpYyt9iZ3tq79) | [Schatrax](https://open.spotify.com/artist/6UmSaezn2PkFJqzOggxPDT) | [Schatrax 25 01](https://open.spotify.com/album/4teqLkvkaFOYXONMDlg9hg) | 5:47 |
 
-Snapshot ID: `MCw1NTEyMjcxNTBiZDI0M2U5OGQxNWUzYjkzZGE0OTliZjRkMjgxMGE4`
+Snapshot ID: `MCw5ZGNjN2Y5OTZkZjVkMmJmZjJlZTAyYmMxMTZmNDEwNmM1MGQ5ODVm`

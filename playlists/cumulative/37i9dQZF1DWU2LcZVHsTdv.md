@@ -4,7 +4,7 @@
 
 > The country way of testifying\. Cover: Kane Brown
 
-188 songs - 11 hr 31 min
+190 songs - 11 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,6 +54,7 @@
 | [For God Is With Us \(with Hillary Scott\)](https://open.spotify.com/track/3oEUEyCzKwaBHBvzsJaiGJ) | [for KING & COUNTRY](https://open.spotify.com/artist/3sDbKMebVH2VYcRSl7u1VC), [Hillary Scott](https://open.spotify.com/artist/0Sk6yoUQnccty5iMhVhz9D) | [For God Is With Us \(with Hillary Scott\)](https://open.spotify.com/album/0KbCQCDOw4a73MkepkJ7ev) | 3:19 | 2022-07-15 |  |
 | [Forever Home \(feat\. Florida Georgia Line\)](https://open.spotify.com/track/0qcVosiukBmgBS0eUDrwk6) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m), [Florida Georgia Line](https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg) | [Chris Tomlin & Friends](https://open.spotify.com/album/1tk6wHfQdW92NyYa9YKnfP) | 3:27 | 2021-12-10 |  |
 | [God Is Good](https://open.spotify.com/track/2J201WXV1md702dEIkQ6wy) | [Troy Cartwright](https://open.spotify.com/artist/24I45QsPZf5Gr7aVlVmTfr) | [Halfway To Houston](https://open.spotify.com/album/0Szi0bRjwXfF3c7U4bHD3Y) | 3:14 | 2021-12-10 |  |
+| [God Made Fridays](https://open.spotify.com/track/6ksQ2gxEZGqQdygMex4PGs) | [Ryan Griffin](https://open.spotify.com/artist/7dMEBGtGI6O7PoTEucAaBT) | [God Made Fridays](https://open.spotify.com/album/4W5ldcMXbVXsBkeKX1uCSJ) | 2:43 | 2023-05-19 |  |
 | [God Moves The Pen](https://open.spotify.com/track/0MTh3m1vfpj1KqKkDzluVi) | [Tim McGraw](https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd) | [Easter Sunday: Songs Of Faith 2022](https://open.spotify.com/album/1lNtAUNXzjevPwaTQFhIZH) | 3:41 | 2022-11-04 | 2022-11-14 |
 | [God Moves The Pen](https://open.spotify.com/track/5OVyTSbqz288MkNbZf15rY) | [Tim McGraw](https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd) | [Here On Earth \(Ultimate Edition\)](https://open.spotify.com/album/5kNJYMb1mTyoqKx1tBTt53) | 3:41 | 2022-07-15 |  |
 | [God Moves The Pen](https://open.spotify.com/track/5vGfLxG7TJ0rzKvTPvwwCL) | [Tim McGraw](https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd) | [God Moves The Pen](https://open.spotify.com/album/2tWnJPE54AM7uJiZHaHSfo) | 3:41 | 2021-12-10 | 2022-07-29 |
@@ -81,6 +82,7 @@
 | [Humble And Kind](https://open.spotify.com/track/3Rkk851fZjIsglV2jbBPDd) | [Tim McGraw](https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd) | [Humble And Kind](https://open.spotify.com/album/4gpCST5Fb2FF23aZkWRy9e) | 4:17 | 2021-12-10 | 2022-07-29 |
 | [Humble And Kind](https://open.spotify.com/track/4Pn0JlCUusD2QHjADuOzuV) | [Tim McGraw](https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd) | [Damn Country Music](https://open.spotify.com/album/4js8lX2b3DBIfixMCPABC4) | 4:19 | 2022-07-15 |  |
 | [Humble And Kind](https://open.spotify.com/track/3q7LtIKcf2SFNxjb00DYX4) | [Tim McGraw](https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd) | [Best Of 2000s Country](https://open.spotify.com/album/7q44ZwKqpu6wV7zgOLAOhG) | 4:20 | 2022-11-04 | 2022-11-13 |
+| [I Guess God Heard Me](https://open.spotify.com/track/3mRVm1lhT4S0DTyaGJigaf) | [Dave Fenley](https://open.spotify.com/artist/6qGu24WJrspRNLeieoWQai) | [The Spread Love Sessions, Vol\. 2](https://open.spotify.com/album/5rkDQBsAmnduxedM1FEg62) | 4:05 | 2023-05-19 |  |
 | [I Saw God Today](https://open.spotify.com/track/7maV3I3KQNYpsOWYTOhGqn) | [George Strait](https://open.spotify.com/artist/5vngPClqofybhPERIqQMYd) | [Troubadour](https://open.spotify.com/album/3dFuEcl4rdwVFH3CWYgRPJ) | 3:23 | 2021-12-10 |  |
 | [I Saw The Light](https://open.spotify.com/track/3S0dPaZYCax8OnwTFEoEPw) | [Josh Turner](https://open.spotify.com/artist/7vCtweS8UVAXTyau2j0rDT), [Sonya Isaacs](https://open.spotify.com/artist/4weums6IzU9u5hNt7lR31b) | [I Serve A Savior](https://open.spotify.com/album/0qmQNcXPAl8V4wPFWC3QDx) | 3:21 | 2021-12-10 |  |
 | [I Still Pray](https://open.spotify.com/track/3uJjybFZWmfaYQG4PEiiCR) | [Mickey Guyton](https://open.spotify.com/artist/6nfN5B7Jmi853SHa9106Hz) | [I Still Pray](https://open.spotify.com/album/5KfMhRi1Rvr9Eu3EQ9x16p) | 2:44 | 2022-11-04 |  |

@@ -4,7 +4,7 @@
 
 > Fresh takes on that high lonesome sound\. Cover: Nickel Creek
 
-283 songs - 17 hr 52 min
+284 songs - 17 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -102,6 +102,7 @@
 | [He Ain't Me](https://open.spotify.com/track/6YCRCdu2U9ySn4WpjIiYSU) | [Maygen & The Birdwatcher](https://open.spotify.com/artist/5R2t1TUrdWCub9CAUhnzz8) | [He Ain't Me](https://open.spotify.com/album/6s9SrAd8YNrLH2we1nzlAi) | 4:07 | 2022-08-11 |  |
 | [Hell's Comin' with Me](https://open.spotify.com/track/0cPvRrV9PBBHVfHoGBlFdO) | [Poor Mans Poison](https://open.spotify.com/artist/0YHgnSkV3S5mvSSCTRWDi5) | [Hell's Comin' with Me](https://open.spotify.com/album/459ww0Q7WATvZO0tLzpqvg) | 3:32 | 2022-07-15 | 2022-10-08 |
 | [Hey Magnolia](https://open.spotify.com/track/3JyOC3UOO8lTzbADm8UNyQ) | [Forest Sun](https://open.spotify.com/artist/4apOiTBEMqQgDWu4n6fAYf) | [Hey Magnolia](https://open.spotify.com/album/5DNdTA8fnE85rNWpdEFtcR) | 2:44 | 2022-05-13 | 2023-01-14 |
+| [Hold On](https://open.spotify.com/track/7BEBCMpNRIulT7AXPY6F5f) | [Laney Lou and the Bird Dogs](https://open.spotify.com/artist/2X8vBRaS7l9JlOJS3uoz3T) | [Hold On](https://open.spotify.com/album/5ElvHfrIkMQNgAOEqsW4Hx) | 4:20 | 2023-05-19 |  |
 | [Holding Pattern](https://open.spotify.com/track/5rR0Xg7Jn31EqbdueZYS3h) | [Nickel Creek](https://open.spotify.com/artist/3bcLBxvaI7GsBzGp3WHnwQ) | [Holding Pattern](https://open.spotify.com/album/54yXHow53RS0QZJWWjU38r) | 3:05 | 2023-02-17 |  |
 | [Hole In My Pocket](https://open.spotify.com/track/3eus1BzoSc9LG0pJB5VVig) | [The Brothers Comatose](https://open.spotify.com/artist/7oKVYDiVZxglvgEW2zHcAD) | [Hole In My Pocket](https://open.spotify.com/album/4Q2LMlt43lVXjJuuslS2hQ) | 3:04 | 2022-04-22 | 2022-08-12 |
 | [Holy Ground](https://open.spotify.com/track/1uVNQx93kyNDlBTnXPzKaa) | [The Lowest Pair](https://open.spotify.com/artist/0q9jV5Ht9bBTX6pHgzRjRg) | [Holy Ground](https://open.spotify.com/album/1wHctKgZzTJc7FKAv71Xfg) | 4:22 | 2022-02-18 |  |

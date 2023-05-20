@@ -1,12 +1,12 @@
 {
   "description": "Tunes for sun drenched days and balmy nights.",
-  "num_followers": 72709,
+  "num_followers": 72712,
   "original_name": "Summer Daze",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmM2E3YjhlNGNmZWQxMzMwZDU1MzQ4MzE2NmQwMmQ5MmVjMDM4OTJl",
+  "snapshot_id": "MCxhMjhhMzc3NDdlZjRlMDc1ZTFiYjA4YzcyOGEyZmFhOGJhNGFmYzBk",
   "tracks": [
     {
       "added_at": "2023-01-12 13:00:00",
@@ -343,6 +343,22 @@
     {
       "added_at": "2023-01-12 13:00:00",
       "album": {
+        "name": "Terra Firma",
+        "url": "https://open.spotify.com/album/6CubvryZSNI5UsrftXJqhK"
+      },
+      "artists": [
+        {
+          "name": "Tash Sultana",
+          "url": "https://open.spotify.com/artist/6zVFRTB0Y1whWyH7ZNmywf"
+        }
+      ],
+      "duration_ms": 279137,
+      "name": "Pretty Lady",
+      "url": "https://open.spotify.com/track/77R5bq7AvzIevi8wicB3Oz"
+    },
+    {
+      "added_at": "2023-01-12 13:00:00",
+      "album": {
         "name": "Bottle It Up",
         "url": "https://open.spotify.com/album/6KyRKYNzETURqiupPRygbg"
       },
@@ -359,22 +375,6 @@
       "duration_ms": 185637,
       "name": "Bottle It Up",
       "url": "https://open.spotify.com/track/6Kevag30eZxaL3MBo6dIdL"
-    },
-    {
-      "added_at": "2023-01-12 13:00:00",
-      "album": {
-        "name": "Terra Firma",
-        "url": "https://open.spotify.com/album/6CubvryZSNI5UsrftXJqhK"
-      },
-      "artists": [
-        {
-          "name": "Tash Sultana",
-          "url": "https://open.spotify.com/artist/6zVFRTB0Y1whWyH7ZNmywf"
-        }
-      ],
-      "duration_ms": 279137,
-      "name": "Pretty Lady",
-      "url": "https://open.spotify.com/track/77R5bq7AvzIevi8wicB3Oz"
     },
     {
       "added_at": "2023-01-12 13:00:00",
@@ -611,22 +611,6 @@
     {
       "added_at": "2023-01-12 13:00:00",
       "album": {
-        "name": "She Came Back with Rainbows",
-        "url": "https://open.spotify.com/album/44bjrm9iSwHwsORmWkfyiO"
-      },
-      "artists": [
-        {
-          "name": "Jordy Maxwell",
-          "url": "https://open.spotify.com/artist/32adQJGzuFZNh9fBQXhisb"
-        }
-      ],
-      "duration_ms": 230189,
-      "name": "She Came Back with Rainbows",
-      "url": "https://open.spotify.com/track/50ky5cRasDDFdra1ZouJ09"
-    },
-    {
-      "added_at": "2023-01-12 13:00:00",
-      "album": {
         "name": "The Future of an End",
         "url": "https://open.spotify.com/album/5L7Kd0h3fC20w2qbg4JXu2"
       },
@@ -643,8 +627,24 @@
     {
       "added_at": "2023-01-12 13:00:00",
       "album": {
-        "name": "Electricity",
-        "url": "https://open.spotify.com/album/75yWoDsXCy1Im9m4kGs42C"
+        "name": "She Came Back with Rainbows",
+        "url": "https://open.spotify.com/album/44bjrm9iSwHwsORmWkfyiO"
+      },
+      "artists": [
+        {
+          "name": "Jordy Maxwell",
+          "url": "https://open.spotify.com/artist/32adQJGzuFZNh9fBQXhisb"
+        }
+      ],
+      "duration_ms": 230189,
+      "name": "She Came Back with Rainbows",
+      "url": "https://open.spotify.com/track/50ky5cRasDDFdra1ZouJ09"
+    },
+    {
+      "added_at": "2023-01-12 13:00:00",
+      "album": {
+        "name": "The Water & The Rough",
+        "url": "https://open.spotify.com/album/1gw5CZBYqPIwYAe3BUfSKL"
       },
       "artists": [
         {
@@ -652,9 +652,9 @@
           "url": "https://open.spotify.com/artist/0A3HlWZGV8WrCcqxKM2neg"
         }
       ],
-      "duration_ms": 222520,
-      "name": "Electricity",
-      "url": "https://open.spotify.com/track/2s0jL6JXs2zAGtMnQcXfLb"
+      "duration_ms": 216476,
+      "name": "8 Hour Drive",
+      "url": "https://open.spotify.com/track/4HB7zl4UghBqyX84KkY0Gs"
     },
     {
       "added_at": "2023-01-12 13:00:00",
@@ -739,8 +739,8 @@
     {
       "added_at": "2023-01-12 13:00:00",
       "album": {
-        "name": "The Water & The Rough",
-        "url": "https://open.spotify.com/album/1gw5CZBYqPIwYAe3BUfSKL"
+        "name": "Electricity",
+        "url": "https://open.spotify.com/album/75yWoDsXCy1Im9m4kGs42C"
       },
       "artists": [
         {
@@ -748,9 +748,9 @@
           "url": "https://open.spotify.com/artist/0A3HlWZGV8WrCcqxKM2neg"
         }
       ],
-      "duration_ms": 216476,
-      "name": "8 Hour Drive",
-      "url": "https://open.spotify.com/track/4HB7zl4UghBqyX84KkY0Gs"
+      "duration_ms": 222520,
+      "name": "Electricity",
+      "url": "https://open.spotify.com/track/2s0jL6JXs2zAGtMnQcXfLb"
     },
     {
       "added_at": "2023-01-12 13:00:00",
@@ -835,6 +835,22 @@
     {
       "added_at": "2023-01-12 13:00:00",
       "album": {
+        "name": "Feel Like Clarity",
+        "url": "https://open.spotify.com/album/5Eb9IjtZ2mTqg7yX6vh8Sk"
+      },
+      "artists": [
+        {
+          "name": "Gaudion",
+          "url": "https://open.spotify.com/artist/1l0TemHJ4m9K2hhuZC9fYI"
+        }
+      ],
+      "duration_ms": 188004,
+      "name": "Feel Like Clarity",
+      "url": "https://open.spotify.com/track/016dLlAVQIkvND7FPAiitb"
+    },
+    {
+      "added_at": "2023-01-12 13:00:00",
+      "album": {
         "name": "Still Care (feat. NASAYA)",
         "url": "https://open.spotify.com/album/6M2fIu2ezYUwMBLCI4C2vM"
       },
@@ -855,18 +871,18 @@
     {
       "added_at": "2023-01-12 13:00:00",
       "album": {
-        "name": "Feel Like Clarity",
-        "url": "https://open.spotify.com/album/5Eb9IjtZ2mTqg7yX6vh8Sk"
+        "name": "this is how you fall in love",
+        "url": "https://open.spotify.com/album/4y9pwFu4CY9pcY1ZDAupwh"
       },
       "artists": [
         {
-          "name": "Gaudion",
-          "url": "https://open.spotify.com/artist/1l0TemHJ4m9K2hhuZC9fYI"
+          "name": "Parker Rose",
+          "url": "https://open.spotify.com/artist/1t08EEn6XWinnrPBMQzcwF"
         }
       ],
-      "duration_ms": 188004,
-      "name": "Feel Like Clarity",
-      "url": "https://open.spotify.com/track/016dLlAVQIkvND7FPAiitb"
+      "duration_ms": 161632,
+      "name": "this is how you fall in love",
+      "url": "https://open.spotify.com/track/7iqp8pV9NTmxJQf2uuVTOE"
     },
     {
       "added_at": "2023-01-12 13:00:00",
@@ -883,22 +899,6 @@
       "duration_ms": 258053,
       "name": "Carry You With Me",
       "url": "https://open.spotify.com/track/2zwWemTFAsXkKZYa1MFvRF"
-    },
-    {
-      "added_at": "2023-01-12 13:00:00",
-      "album": {
-        "name": "this is how you fall in love",
-        "url": "https://open.spotify.com/album/4y9pwFu4CY9pcY1ZDAupwh"
-      },
-      "artists": [
-        {
-          "name": "Parker Rose",
-          "url": "https://open.spotify.com/artist/1t08EEn6XWinnrPBMQzcwF"
-        }
-      ],
-      "duration_ms": 161632,
-      "name": "this is how you fall in love",
-      "url": "https://open.spotify.com/track/7iqp8pV9NTmxJQf2uuVTOE"
     },
     {
       "added_at": "2023-01-12 13:00:00",

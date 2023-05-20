@@ -1275,6 +1275,24 @@
     },
     {
       "album": {
+        "name": "Next Thing You Know (Live From The O2 London)",
+        "url": "https://open.spotify.com/album/7eSlozbGidbOROgKxcNkOU"
+      },
+      "artists": [
+        {
+          "name": "Jordan Davis",
+          "url": "https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181034,
+      "name": "Next Thing You Know - Live From The O2 London",
+      "url": "https://open.spotify.com/track/3iqGOpRkz4V4juMd7ccyIl"
+    },
+    {
+      "album": {
         "name": "Nobody But You (Duet with Gwen Stefani) [Live]",
         "url": "https://open.spotify.com/album/28JOBmOhSs9ssOBgbxGTrp"
       },
@@ -2050,6 +2068,24 @@
       "duration_ms": 267533,
       "name": "Whiskey Rock-A-Roller - Live",
       "url": "https://open.spotify.com/track/1ZuqcBtqvLKq0aQ7hRMSGa"
+    },
+    {
+      "album": {
+        "name": "Wild as Her (Live From Cain's Ballroom)",
+        "url": "https://open.spotify.com/album/0Pkas0sUrZrEcGBtzGGNtl"
+      },
+      "artists": [
+        {
+          "name": "Corey Kent",
+          "url": "https://open.spotify.com/artist/3sUpZrkehiGBaMzs2h9Mmc"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 322733,
+      "name": "Wild as Her - Live From Cain's Ballroom",
+      "url": "https://open.spotify.com/track/68fBkpb1vyU4s3c4DyWVOg"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > The latest and greatest music out now!
 
-251 songs - 13 hr 3 min
+252 songs - 13 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -138,6 +138,7 @@
 | [Just Friends](https://open.spotify.com/track/1NzRZ7AosK7ZDumMsZYofo) | [Audrey Mika](https://open.spotify.com/artist/3JDG63cSaK3xgDnB2H55Xp) | [Just Friends](https://open.spotify.com/album/0J9VlRE4GIO7EDkYkIl8YL) | 2:48 | 2022-01-25 | 2022-07-09 |
 | [Kindergarten](https://open.spotify.com/track/3AOcvuNATM2cnmsNf1q0T9) | [chloe moriondo](https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q) | [Kindergarten](https://open.spotify.com/album/4WFmbiXl83NHKlqQqrPXSj) | 2:25 | 2022-01-25 | 2022-04-09 |
 | [KING](https://open.spotify.com/track/4RgXmdsT0zfYXdrZPW3pV8) | [Rosa Linn](https://open.spotify.com/artist/46xBNx0j6cwY6sD9LgMTm1), [Kiiara](https://open.spotify.com/artist/4u5smJBskI6Adzv08PuiUP) | [KING](https://open.spotify.com/album/3Xr5BK9SjJjNz8geARGnk5) | 3:23 | 2022-01-25 | 2022-07-09 |
+| [Labor Of Love](https://open.spotify.com/track/4tsrbZfOwYk6ojjNnidSS0) | [Pia Toscano](https://open.spotify.com/artist/7MmKfvl13ktxYrbHh9JkZA) | [Labor Of Love](https://open.spotify.com/album/2w0zSiocqaD2mseZV86EFs) | 3:38 | 2023-05-19 |  |
 | [Last Breath](https://open.spotify.com/track/1eqTNzksR0ZHm6g0aOXc4e) | [Rachel Lorin](https://open.spotify.com/artist/5DfLOANcWMxdeenpJ6Ksd2) | [Last Breath](https://open.spotify.com/album/2EQQULM1AlEFjlyIDdJjBE) | 2:57 | 2022-07-15 | 2022-09-06 |
 | [Last Night](https://open.spotify.com/track/59uQI0PADDKeE6UZDTJEe8) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [3 Songs At A Time Sampler](https://open.spotify.com/album/7fOmdhRrRohTzToL617xkk) | 2:43 | 2023-02-03 |  |
 | [Late in the Evening](https://open.spotify.com/track/3Itz6Ki6IPtLDuKvqSbREv) | [New Rules](https://open.spotify.com/artist/75ois9nn8xMuOgVk2oCN1C) | [Late in the Evening](https://open.spotify.com/album/7ErU9FqlFNDm9neZSk3KlP) | 3:33 | 2022-11-11 |  |
@@ -161,7 +162,7 @@
 | [Miss This](https://open.spotify.com/track/2O0tojYEkArXefAqL93mrj) | [Starrah](https://open.spotify.com/artist/6DpWtzfwV8fcwP6fXckDVu) | [Miss This](https://open.spotify.com/album/6Jc2mARX4L9WneAlYrLWJw) | 1:42 | 2022-01-25 | 2022-02-26 |
 | [Moderación \(Con Camilo\)](https://open.spotify.com/track/66eBZFnheqpOM16CCyA1HV) | [JP Saxe](https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe), [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N) | [Moderación \(Con Camilo\)](https://open.spotify.com/album/6MOmPtc8mFnVFjN8zDh6rD) | 3:19 | 2023-02-03 |  |
 | [More Than Friends](https://open.spotify.com/track/7f6CYOMT6sXv35ZTJRtXtA) | [24kGoldn](https://open.spotify.com/artist/6fWVd57NKTalqvmjRd2t8Z) | [More Than Friends](https://open.spotify.com/album/0r9uTlzVUjnRvBTGjTLC54) | 2:54 | 2022-01-25 | 2022-10-15 |
-| [Move](https://open.spotify.com/track/6RemYyY2mxu0N8qjjrShnQ) | [Idina Menzel](https://open.spotify.com/artist/73Np75Wv2tju61Eo9Zw4IR) | [MOVE](https://open.spotify.com/album/4nMAiQTGaqm3fKz1e2Vw7p) | 2:44 | 2023-05-14 |  |
+| [Move](https://open.spotify.com/track/6RemYyY2mxu0N8qjjrShnQ) | [Idina Menzel](https://open.spotify.com/artist/73Np75Wv2tju61Eo9Zw4IR) | [Move](https://open.spotify.com/album/4nMAiQTGaqm3fKz1e2Vw7p) | 2:44 | 2023-05-14 |  |
 | [MUSCLE MEMORY](https://open.spotify.com/track/3rLEBpW17OHOovVl0kcFKZ) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [SUBJECT TO CHANGE](https://open.spotify.com/album/6twfTQ122kNcHAUXjFbe8a) | 3:31 | 2022-11-11 | 2022-12-10 |
 | [My Bed](https://open.spotify.com/track/4w7hfP5OC7L8JqTNYvyneq) | [Leah Kate](https://open.spotify.com/artist/6oWOHAOyBUn6aJlKIPJK9r) | [Alive and Unwell \(Deluxe\)](https://open.spotify.com/album/5kmXkrUWjJfIEV5v2tzlTn) | 2:44 | 2022-12-16 |  |
 | [never got better](https://open.spotify.com/track/5A1G4gQJOEofG4wLeSbLx3) | [BLÜ EYES](https://open.spotify.com/artist/2gI1WfmpFmmgSRojy4Jup2) | [healing hurts](https://open.spotify.com/album/13rqxRH5ApKKWc7kndvUOl) | 2:58 | 2022-11-11 |  |
@@ -192,7 +193,7 @@
 | [Ride The Wave](https://open.spotify.com/track/4OPoTlocPa01Ey8suFacZJ) | [Lauren Hashian](https://open.spotify.com/artist/0bchCUkOuvPSeazHgDsh0Y), [Natalie Martinez](https://open.spotify.com/artist/5v8FWJ2GWVZQnwDJmOM0ti), [Naz Tokio](https://open.spotify.com/artist/2Ohz3BAbalahBYLuM836cd) | [Ride The Wave](https://open.spotify.com/album/0qYPdQsC9yh3WzlNzxEiue) | 3:43 | 2022-01-25 | 2022-07-16 |
 | [Romantic Homicide](https://open.spotify.com/track/1xK59OXxi2TAAAbmZK0kBL) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Romantic Homicide](https://open.spotify.com/album/4B3FsNFguOEJ4TWEsct83B) | 2:12 | 2022-09-23 |  |
 | [Ruin My Life](https://open.spotify.com/track/60pE6cLRCZy6wgjhP0Wu8w) | [Zolita](https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU) | [Ruin My Life](https://open.spotify.com/album/5kBzmnPiJAirnzMcSFPUmf) | 3:32 | 2022-11-11 | 2023-01-21 |
-| [Sah Sah](https://open.spotify.com/track/2O6kwqT9Hb38PhHwbCNfOh) | [Nancy Ajram](https://open.spotify.com/artist/0LnHdW6HMPoOlNdhG3DHjE), [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T) | [Sah Sah](https://open.spotify.com/album/1vMwkK7I0UWAyTHngnXvuU) | 2:51 | 2022-07-08 |  |
+| [Sah Sah](https://open.spotify.com/track/2O6kwqT9Hb38PhHwbCNfOh) | [Nancy Ajram](https://open.spotify.com/artist/0LnHdW6HMPoOlNdhG3DHjE), [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T) | [Sah Sah](https://open.spotify.com/album/1vMwkK7I0UWAyTHngnXvuU) | 2:51 | 2022-07-08 | 2023-05-20 |
 | [SARA](https://open.spotify.com/track/7IlWwsL01c1dizJTHgD5rK) | [KILLBOY](https://open.spotify.com/artist/3lPSkTq1kiSuxDcr996Nlm) | [SARA](https://open.spotify.com/album/2dXlLCZoS2qhel0sUTJrZ0) | 4:38 | 2022-11-11 |  |
 | [Secrets](https://open.spotify.com/track/0xGQGTbDkwrzXFRo0xGfQH) | [Ross Copperman](https://open.spotify.com/artist/5nHR37FDSU4I0QQta0AZ1C) | [Human](https://open.spotify.com/album/2N3CpixB4uEbAa6L5xoQED) | 2:37 | 2022-12-09 |  |
 | [Secrets](https://open.spotify.com/track/1wILQICSoczb6nktX8jAD8) | [Ross Copperman](https://open.spotify.com/artist/5nHR37FDSU4I0QQta0AZ1C) | [Secrets](https://open.spotify.com/album/3lsVuRFJgpcomfPtZheSHB) | 2:37 | 2022-08-19 | 2022-08-21 |

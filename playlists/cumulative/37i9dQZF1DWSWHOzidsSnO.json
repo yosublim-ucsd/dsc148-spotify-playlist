@@ -2097,6 +2097,24 @@
     },
     {
       "album": {
+        "name": "POP ANDINO",
+        "url": "https://open.spotify.com/album/1cQIL3GmWmjxqgTzER9FQh"
+      },
+      "artists": [
+        {
+          "name": "Milena Warthon",
+          "url": "https://open.spotify.com/artist/65vjAwgtLCwB1nQE7V5eMd"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201709,
+      "name": "M\u00c1S ALL\u00c1",
+      "url": "https://open.spotify.com/track/7oI4eP3pgPMuHOaf9OG2f0"
+    },
+    {
+      "album": {
         "name": "M\u00cdO A\u00daN",
         "url": "https://open.spotify.com/album/4M49OOzgbYzqlUsA2RNQcw"
       },
@@ -3500,7 +3518,7 @@
       ],
       "date_added": "2023-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 204219,
       "name": "WARMISITAY",
       "url": "https://open.spotify.com/track/6PI8OSjXRVqzQA3S8lPnMl"

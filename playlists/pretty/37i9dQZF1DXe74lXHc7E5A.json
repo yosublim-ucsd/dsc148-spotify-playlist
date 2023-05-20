@@ -1,12 +1,12 @@
 {
   "description": "Hip Hop and Rap songs guaranteed to get you hyped. Cover: Lil Durk & J. Cole ",
-  "num_followers": 7894,
+  "num_followers": 8004,
   "original_name": "Hype List",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjYjJhMzQ4OGY0NTgzMTBmYWQ3ODQ2ZDNlYTk4MDA2OWEwZjA2ZWI4",
+  "snapshot_id": "MCwwZjNiMTMzY2Y5MzlhNjQ5ODQ0M2NkOTY2MDVhNzFjNWQ3YzI2M2Nl",
   "tracks": [
     {
       "added_at": "2023-05-11 23:00:00",
@@ -455,22 +455,6 @@
     {
       "added_at": "2023-05-11 23:00:00",
       "album": {
-        "name": "Me & You",
-        "url": "https://open.spotify.com/album/6V5o0b3ALGp5hkSew9Ms42"
-      },
-      "artists": [
-        {
-          "name": "Central Cee",
-          "url": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
-        }
-      ],
-      "duration_ms": 187034,
-      "name": "Me & You",
-      "url": "https://open.spotify.com/track/12Us8e6NFesdkXKf4StU1I"
-    },
-    {
-      "added_at": "2023-05-11 23:00:00",
-      "album": {
         "name": "7220",
         "url": "https://open.spotify.com/album/0vRN2oePynCSTspdY9NDsM"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 181393,
       "name": "What Happened To Virgil (feat. Gunna)",
       "url": "https://open.spotify.com/track/7ohROa13QK43JBRqfCmz4P"
+    },
+    {
+      "added_at": "2023-05-11 23:00:00",
+      "album": {
+        "name": "Me & You",
+        "url": "https://open.spotify.com/album/6V5o0b3ALGp5hkSew9Ms42"
+      },
+      "artists": [
+        {
+          "name": "Central Cee",
+          "url": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
+        }
+      ],
+      "duration_ms": 187034,
+      "name": "Me & You",
+      "url": "https://open.spotify.com/track/12Us8e6NFesdkXKf4StU1I"
     },
     {
       "added_at": "2023-05-11 23:00:00",
@@ -591,22 +591,6 @@
     {
       "added_at": "2023-05-11 23:00:00",
       "album": {
-        "name": "Mel Made Me Do It",
-        "url": "https://open.spotify.com/album/2qB4PkpoOUuvLXPzckmYdw"
-      },
-      "artists": [
-        {
-          "name": "Stormzy",
-          "url": "https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd"
-        }
-      ],
-      "duration_ms": 440857,
-      "name": "Mel Made Me Do It",
-      "url": "https://open.spotify.com/track/3y8xPhq9Ho1hCEMIE9DvZe"
-    },
-    {
-      "added_at": "2023-05-11 23:00:00",
-      "album": {
         "name": "THE FORMULA",
         "url": "https://open.spotify.com/album/5m14quIRl4HI5KK6rI7thv"
       },
@@ -623,6 +607,22 @@
       "duration_ms": 227633,
       "name": "THE FORMULA",
       "url": "https://open.spotify.com/track/1sCIBNFV7SL3Y2gL2G8iKl"
+    },
+    {
+      "added_at": "2023-05-11 23:00:00",
+      "album": {
+        "name": "Mel Made Me Do It",
+        "url": "https://open.spotify.com/album/2qB4PkpoOUuvLXPzckmYdw"
+      },
+      "artists": [
+        {
+          "name": "Stormzy",
+          "url": "https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd"
+        }
+      ],
+      "duration_ms": 440857,
+      "name": "Mel Made Me Do It",
+      "url": "https://open.spotify.com/track/3y8xPhq9Ho1hCEMIE9DvZe"
     },
     {
       "added_at": "2023-05-11 23:00:00",

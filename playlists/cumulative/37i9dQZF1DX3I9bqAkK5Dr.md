@@ -4,7 +4,7 @@
 
 > Check out the emerging Independent Artists in Telugu.<br/>Cover : Ram Miriyala
 
-97 songs - 5 hr 55 min
+99 songs - 6 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,6 +63,7 @@
 | [Naa Friendhemo Pelli](https://open.spotify.com/track/1Xdn6Jvs5Z5WntxmciIwCP) | [Sravana Bhargavi](https://open.spotify.com/artist/4xVrxpa8IgoLneQbdPnSsk), [Jayathi](https://open.spotify.com/artist/6qcblFUBA90tZxWievgx3G) | [Naa Friendhemo Pelli](https://open.spotify.com/album/5R1mBqMQYhJRGY4ONj88Yv) | 4:43 | 2023-05-18 |  |
 | [Naalo Kalisave](https://open.spotify.com/track/4gurofjle2L1VbQPzAmZyL) | [Sweekar Agasthi](https://open.spotify.com/artist/7w4ACCsPEsD4KTxUNPXftc), [Harsha Prawin](https://open.spotify.com/artist/5S7CryoJO91PcKhXVcxQV1) | [Naalo Kalisave](https://open.spotify.com/album/3iuXBy218ITzay6mc72Oaz) | 5:12 | 2023-03-31 |  |
 | [Nanu Kalchesave](https://open.spotify.com/track/31tVd72hvyazi3YM3RPa4m) | [Rahul Sathu](https://open.spotify.com/artist/64UjPeMUmhyalooujVrEU3) | [Nanu Kalchesave](https://open.spotify.com/album/1WBJy6c9vvTefmDmsf3Af0) | 1:43 | 2023-01-16 |  |
+| [Nee Kosam](https://open.spotify.com/track/4P7t79MRfREzq1Je631jpj) | [Harsha Prawin](https://open.spotify.com/artist/5S7CryoJO91PcKhXVcxQV1), [Aditya Bheemathati](https://open.spotify.com/artist/7otWOYhWeNnAhMyetbaMws) | [Nee Kosam](https://open.spotify.com/album/6P4m7QctAiX2WBjX8HJyNI) | 2:59 | 2023-05-19 |  |
 | [Nee Vallane](https://open.spotify.com/track/6j7rVNsyDzoFPNhGmNy0k2) | [Prudhvi Chandra](https://open.spotify.com/artist/4xUI2yJe8cZHYGhS8rk1oR) | [Nee Vallane](https://open.spotify.com/album/6hZWewhZ3b2Q4CJxK3wU2C) | 3:45 | 2023-02-13 |  |
 | [Nee Vente](https://open.spotify.com/track/57O4fulvIzyo54nkGC6Knr) | [yogesh raj kumar](https://open.spotify.com/artist/70jvb7YHVWVSGFBuNXhpkW) | [Nee Vente](https://open.spotify.com/album/0OtksZElojFdeGaM52yPLB) | 2:32 | 2023-02-14 |  |
 | [Needhe Aakasam](https://open.spotify.com/track/5xaEg9oOpoFlzSg2vgwte4) | [Yamini Ghantasala](https://open.spotify.com/artist/5i3cSIE4DG6LrWAb3pCeQ0) | [Needhe Aakasam](https://open.spotify.com/album/5Ntckz3IDYKwyVIvEra0Zh) | 3:13 | 2022-11-30 |  |
@@ -92,6 +93,7 @@
 | [Raba Raba](https://open.spotify.com/track/1XiHI6xjy82Pkef0EnC8ec) | [Mangli](https://open.spotify.com/artist/1pDF5UltcypyatITA3Pduo), [Megh\-Uh\-Watt](https://open.spotify.com/artist/2UBDp4nIwkdAxlukxa5lbj) | [Raba Raba](https://open.spotify.com/album/05WGgEw9k8SU61WsFU6Ig2) | 4:38 | 2022-07-18 |  |
 | [Sathya \- Expression Of Love](https://open.spotify.com/track/4vIJqRzuVkLWg7wKMOL7St) | [Nishanth Shekar](https://open.spotify.com/artist/4eyGSxCplyGRpM7tKXP8l5), [Ayaan](https://open.spotify.com/artist/66NRi9Dp2PVLCOlxfSHY3v) | [Sathya \- Expression Of Love](https://open.spotify.com/album/64GLiOFpf3yKKlLUoOFgbK) | 2:54 | 2022-07-18 |  |
 | [Shashi](https://open.spotify.com/track/34LZWWbtsf1EeuHFFXCh4j) | [Keethan](https://open.spotify.com/artist/6pPhJfUm9223ZTDFuz3ISJ), [Jimmy Francis John](https://open.spotify.com/artist/0LQFqghLXxYbgbCfTh8y1d), [Shravan Sridhar](https://open.spotify.com/artist/0TMLPi3f3qrkHV8y7Ccvec) | [Shashi](https://open.spotify.com/album/4M7U0wd17LfToupjlmn4GZ) | 4:02 | 2022-11-25 |  |
+| [Silakole Nuvvu Raye Pilla](https://open.spotify.com/track/56ASpqiyS2jNG5B5elaPO9) | [Hanumanth Yadav](https://open.spotify.com/artist/43kJUZHwzDo9sZtO81v2zl) | [Silakole Nuvvu Raye Pilla](https://open.spotify.com/album/2SIJkXk8dUxBFP91brycuZ) | 3:27 | 2023-05-19 |  |
 | [Star](https://open.spotify.com/track/1XVSdHxrg2AnrTLKENA9RR) | [yogesh raj kumar](https://open.spotify.com/artist/70jvb7YHVWVSGFBuNXhpkW) | [Star](https://open.spotify.com/album/3mH1z3FmGyrrpOjMKcjDJJ) | 2:38 | 2023-03-23 |  |
 | [Sweet Nothings](https://open.spotify.com/track/2jRu660ZuGxJyOg2tTI3Yh) | [Damini Bhatla](https://open.spotify.com/artist/5KhT12McR6Gh33dA0ntBAB) | [First Things First](https://open.spotify.com/album/0hBHyl0h7ZXzZAJnGXU6tb) | 3:50 | 2022-11-02 |  |
 | [Taithom](https://open.spotify.com/track/6VzKw7OxaT1KGiXBfB9f55) | [Kalakaarii](https://open.spotify.com/artist/5SCVG3jsMOTmp9zgku5b3j) | [Taithom](https://open.spotify.com/album/2ItmntZZQfbXND53lnAFtQ) | 3:32 | 2023-03-20 |  |

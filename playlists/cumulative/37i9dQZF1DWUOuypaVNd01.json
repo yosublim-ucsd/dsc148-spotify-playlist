@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-24",
-  "description": "De r\u00e9u a ref - o filho deles quer viver essa vida. Foto: Btrem, Derxan, Major RD, LEALL, $amuka",
+  "description": "De r\u00e9u a ref - o filho deles quer viver essa vida. Foto: Scooby",
   "name": "Malandro Posturado",
   "tracks": [
     {
@@ -94,7 +94,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 158797,
       "name": "60K",
       "url": "https://open.spotify.com/track/45T7K7sercGwxi5sU4wqAK"
@@ -1998,6 +1998,36 @@
       "duration_ms": 194685,
       "name": "Lixo ao Luxo",
       "url": "https://open.spotify.com/track/7ctT75UhzxwIt3Ki476RXU"
+    },
+    {
+      "album": {
+        "name": "\u00c9ok (DELUXE)",
+        "url": "https://open.spotify.com/album/5fzaZ5rtd4gBaITNEv5IEO"
+      },
+      "artists": [
+        {
+          "name": "Scooby",
+          "url": "https://open.spotify.com/artist/5hPR4hVEcnsIv4A2OAhNAd"
+        },
+        {
+          "name": "Preto Puma",
+          "url": "https://open.spotify.com/artist/0UvO8jJHXpIdeyi9NQA581"
+        },
+        {
+          "name": "Joy Amaru",
+          "url": "https://open.spotify.com/artist/6bk4nGOJBVVZRBOW44ACWw"
+        },
+        {
+          "name": "Beats by GorJah",
+          "url": "https://open.spotify.com/artist/2JgTsHY5NoDEChnpZTdJcU"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176848,
+      "name": "Love Drill",
+      "url": "https://open.spotify.com/track/6kUxUiIPcQkFqvU1DVeZ3C"
     },
     {
       "album": {

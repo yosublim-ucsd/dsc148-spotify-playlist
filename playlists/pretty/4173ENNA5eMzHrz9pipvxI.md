@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/4173ENNA5eMzHrz9pipvxI.md) - [plain]
 
 ### [Spinnin' Records Brand New](https://open.spotify.com/playlist/4173ENNA5eMzHrz9pipvxI)
 
-> New and trending dance hits released by Spinnin' Records and its sublabels\. For more new Dance, click <a href="https://open.spotify.com/playlist/7FspvXYqFgcUdxn479q2pr?si=b45626bb4f804244">here</a>\. Cover:  LUM!X &amp; LAWRENT
+> New and trending dance hits released by Spinnin' Records and its sublabels\. For more new Dance, click <a href="https://open.spotify.com/playlist/7FspvXYqFgcUdxn479q2pr?si=b45626bb4f804244">here</a>\. Cover:  LLucas &amp; Steve x Alida
 
-[Spinnin’ Records](https://open.spotify.com/user/spinninrecordsofficial) - 120,889 likes - 39 songs - 1 hr 54 min
+[Spinnin’ Records](https://open.spotify.com/user/spinninrecordsofficial) - 120,910 likes - 39 songs - 1 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,4 +48,4 @@ pretty - [cumulative](/playlists/cumulative/4173ENNA5eMzHrz9pipvxI.md) - [plain]
 | 38 | [Trankilo](https://open.spotify.com/track/27wNgv13AiJTkiMJVMY9Hs) | [Chico Rose](https://open.spotify.com/artist/5OdVywqKqyCWwfE2fZb7IX), [Dot N Life](https://open.spotify.com/artist/38aKknRSzI7luo0LJWDwDS) | [Trankilo](https://open.spotify.com/album/47NHp2yScKctstDmFbZyTt) | 3:07 |
 | 39 | [Gam Gam \(Exel Sack Remix\)](https://open.spotify.com/track/7icKKV9UFD4d38SDe6EYBD) | [Marnik](https://open.spotify.com/artist/6S3KljEiIOWoLMUyZrkQUc), [SMACK](https://open.spotify.com/artist/5uJw4WCX5nYj4FHky9r1Ug), [Exel Sack](https://open.spotify.com/artist/18K9soi0gGVfhILC8WWpxL) | [Gam Gam \(Exel Sack Remix\)](https://open.spotify.com/album/3e6kW67KgdfIQuLIYH1VLf) | 4:56 |
 
-Snapshot ID: `NjUzMixlN2ZkOGJkOTE0ZGMyNGNiYjAxZmFmZWNkYzA2ODExZGVmYTczMjFj`
+Snapshot ID: `NjUzNCxmMWJhNDE4M2U5MTQ2MTg5ZWI4NWZjMDVhOGMxYzkxNDAzZWQzM2Zh`

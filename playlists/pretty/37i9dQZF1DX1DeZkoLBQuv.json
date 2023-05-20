@@ -1,12 +1,12 @@
 {
   "description": "Celebre o nascimento de Jesus com louvores natalinos!",
-  "num_followers": 6019,
+  "num_followers": 6017,
   "original_name": "Louvores de Natal",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkZDBmMmQzODc4Y2RiYzFiZGMxNzdhMjk1N2Q2NGM4YmE4NTZhMWNk",
+  "snapshot_id": "MCw1YTliMjA0NmI3YzM5YzI1YmM4YjM3YjYwNDRkZjI1YTI4ZGUxNzU5",
   "tracks": [
     {
       "added_at": "2022-12-09 06:26:14",
@@ -379,22 +379,6 @@
     {
       "added_at": "2022-12-09 06:26:14",
       "album": {
-        "name": "Natal em Fam\u00edlia",
-        "url": "https://open.spotify.com/album/4QDBdfwMYCdnme9obNYOy5"
-      },
-      "artists": [
-        {
-          "name": "R\u00e9gis Danese",
-          "url": "https://open.spotify.com/artist/0eEbruEG13xwoZ0uT2rpll"
-        }
-      ],
-      "duration_ms": 287499,
-      "name": "Natal em Fam\u00edlia",
-      "url": "https://open.spotify.com/track/3aPIxvuSiITws5DPY1via8"
-    },
-    {
-      "added_at": "2022-12-09 06:26:14",
-      "album": {
         "name": "Cl\u00e1ssicos",
         "url": "https://open.spotify.com/album/3ZMh5UQE6PXXzx09BtUHz7"
       },
@@ -407,6 +391,22 @@
       "duration_ms": 220788,
       "name": "Maravilhoso \u00c9 / Rei dos Reis",
       "url": "https://open.spotify.com/track/10RdMJVJqgP8ooC3csHvi4"
+    },
+    {
+      "added_at": "2022-12-09 06:26:14",
+      "album": {
+        "name": "Natal em Fam\u00edlia",
+        "url": "https://open.spotify.com/album/4QDBdfwMYCdnme9obNYOy5"
+      },
+      "artists": [
+        {
+          "name": "R\u00e9gis Danese",
+          "url": "https://open.spotify.com/artist/0eEbruEG13xwoZ0uT2rpll"
+        }
+      ],
+      "duration_ms": 287499,
+      "name": "Natal em Fam\u00edlia",
+      "url": "https://open.spotify.com/track/3aPIxvuSiITws5DPY1via8"
     },
     {
       "added_at": "2022-12-09 06:26:14",
@@ -479,22 +479,6 @@
     {
       "added_at": "2022-12-09 06:26:14",
       "album": {
-        "name": "Busquem a Jesus",
-        "url": "https://open.spotify.com/album/3X38B5YfsA0lGcY4BEOj3i"
-      },
-      "artists": [
-        {
-          "name": "Matheus Rizzo",
-          "url": "https://open.spotify.com/artist/6UHIabLGNVJuFaEODpWoPP"
-        }
-      ],
-      "duration_ms": 322058,
-      "name": "Busquem a Jesus",
-      "url": "https://open.spotify.com/track/6Dhjqku6LpMOMzYJHMiwkl"
-    },
-    {
-      "added_at": "2022-12-09 06:26:14",
-      "album": {
         "name": "Gl\u00f3ria e Aleluia (Christmas)",
         "url": "https://open.spotify.com/album/3yKAc435PtmccjTcqmoWRl"
       },
@@ -507,6 +491,22 @@
       "duration_ms": 234663,
       "name": "Gl\u00f3ria e Aleluia - Christmas",
       "url": "https://open.spotify.com/track/5lNAIysz4Ca2y06ge7I7rF"
+    },
+    {
+      "added_at": "2022-12-09 06:26:14",
+      "album": {
+        "name": "Busquem a Jesus",
+        "url": "https://open.spotify.com/album/3X38B5YfsA0lGcY4BEOj3i"
+      },
+      "artists": [
+        {
+          "name": "Matheus Rizzo",
+          "url": "https://open.spotify.com/artist/6UHIabLGNVJuFaEODpWoPP"
+        }
+      ],
+      "duration_ms": 322058,
+      "name": "Busquem a Jesus",
+      "url": "https://open.spotify.com/track/6Dhjqku6LpMOMzYJHMiwkl"
     },
     {
       "added_at": "2022-12-09 06:26:14",
@@ -575,6 +575,22 @@
     {
       "added_at": "2022-12-09 06:26:14",
       "album": {
+        "name": "Celebrando o Natal",
+        "url": "https://open.spotify.com/album/7sYvSBmi0geLSPMv3p0eHq"
+      },
+      "artists": [
+        {
+          "name": "Fernanda Brum",
+          "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
+        }
+      ],
+      "duration_ms": 196765,
+      "name": "Maria",
+      "url": "https://open.spotify.com/track/1hDbPsFAV6FSFhvLIaEfuP"
+    },
+    {
+      "added_at": "2022-12-09 06:26:14",
+      "album": {
         "name": "Cl\u00e1ssicos da M\u00fasica Crist\u00e3",
         "url": "https://open.spotify.com/album/4yqfNbc2llXhuLAFIOVVXY"
       },
@@ -603,22 +619,6 @@
       "duration_ms": 396266,
       "name": "Noite Santa (Cantique de Noel)",
       "url": "https://open.spotify.com/track/6keWbatyTby28odg835j18"
-    },
-    {
-      "added_at": "2022-12-09 06:26:14",
-      "album": {
-        "name": "Celebrando o Natal",
-        "url": "https://open.spotify.com/album/7sYvSBmi0geLSPMv3p0eHq"
-      },
-      "artists": [
-        {
-          "name": "Fernanda Brum",
-          "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
-        }
-      ],
-      "duration_ms": 196765,
-      "name": "Maria",
-      "url": "https://open.spotify.com/track/1hDbPsFAV6FSFhvLIaEfuP"
     },
     {
       "added_at": "2022-12-09 06:26:14",

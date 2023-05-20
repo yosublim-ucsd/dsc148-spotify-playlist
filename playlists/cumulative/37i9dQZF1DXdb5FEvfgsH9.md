@@ -4,7 +4,7 @@
 
 > Grooves so crispy you can snack on them\. Cover: Donny Benét
 
-115 songs - 7 hr 4 min
+116 songs - 7 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,6 +15,7 @@
 | [1988](https://open.spotify.com/track/4qPKzQfAvbrpwzvzvdJebu) | [Tom Ford](https://open.spotify.com/artist/3GjqRsFb9dpZ02vchIWQPE), [Liselotte Östblom](https://open.spotify.com/artist/6zLYvupkEsUlhsXj9sFSQd), [Adam Flowers](https://open.spotify.com/artist/1SggEYhzQY4qw4c9lDIIaq) | [1988](https://open.spotify.com/album/1L2RchCutvV55ZIaBuAvBJ) | 4:30 | 2023-01-20 |  |
 | [Alcool](https://open.spotify.com/track/61QDPNx0lMqM1pC9Bx8K6o) | [Brother Zulu](https://open.spotify.com/artist/2s2izwM5DBKt4BkK00CEnw) | [Alcool](https://open.spotify.com/album/6NL1azymAHn7XLuVTuyLe5) | 2:49 | 2021-07-26 | 2022-10-15 |
 | [Alcool](https://open.spotify.com/track/6c6XMB1tD84ldzSBrbhHvA) | [Brother Zulu](https://open.spotify.com/artist/2s2izwM5DBKt4BkK00CEnw) | [Alcool](https://open.spotify.com/album/0yzYRvOYlV5ryYCAXUZAsG) | 2:49 | 2021-07-26 |  |
+| [Alone with You \- Lazywax Remix](https://open.spotify.com/track/4jO4c0dhLI3OwCLeYvZSkn) | [Kraak & Smaak](https://open.spotify.com/artist/7c5qu1gNlg8jWDzzmlp89O), [Cleopold](https://open.spotify.com/artist/2BeARYDF52QQk5S2zgiVHe), [Lazywax](https://open.spotify.com/artist/0JmfcW7ntKscmNRiLbKEcw) | [Alone with You \(Lazywax Remix\)](https://open.spotify.com/album/0P9SMOg4aDG5X8Xc63lbTj) | 4:54 | 2023-05-19 |  |
 | [Audrey Tell Me](https://open.spotify.com/track/7DmjDhPdEeaNMB7WukaAux) | [Juice](https://open.spotify.com/artist/0Rq1n6pHHHUQwXnCO8IF4E) | [Audrey Tell Me](https://open.spotify.com/album/2c9s1pWE0PPyD9lbJ822Rl) | 4:14 | 2021-07-26 |  |
 | [Back to School](https://open.spotify.com/track/5qUdaHRGN3n9yBfJwtjkKb) | [Pink Flamingo Rhythm Revue](https://open.spotify.com/artist/6Mm5YKoIXU6lHig5U82KFp) | [Back to School](https://open.spotify.com/album/3Yy2lKiKtm4o2N9ZUCJzY5) | 2:58 | 2023-04-14 |  |
 | [Basement Fonk](https://open.spotify.com/track/4KRcIBZEAen2jCt6OJEEoG) | [Azmito](https://open.spotify.com/artist/2pVNUjcGJobjpBLq4mGoMZ), [Nicofasho](https://open.spotify.com/artist/4tWV1lOUGf5jTcgqNjDZQi), [Vade One](https://open.spotify.com/artist/4rPB8o4SyEa6cNCIzUBvU7), [Reality Jonez](https://open.spotify.com/artist/3SEejxoiTuKUGci1ardEAl) | [Basement Fonk](https://open.spotify.com/album/76SkVpRwhBm3hpg9rzzV6u) | 3:36 | 2021-10-29 |  |

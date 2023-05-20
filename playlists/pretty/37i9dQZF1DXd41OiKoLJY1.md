@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd41OiKoLJY1.md) - [plain]
 
 > Fresh releases from your future favorite artists\. Cover: Lotti  Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,090 likes - 75 songs - 4 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,152 likes - 75 songs - 4 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd41OiKoLJY1.md) - [plain]
 | 74 | [Heat](https://open.spotify.com/track/62jfpfJqdZWpNmWcwzoEtt) | [PHLMN](https://open.spotify.com/artist/159k7wzGaOssqFoYOrNjW5) | [Heat](https://open.spotify.com/album/6TsKRsvINSYgMCpp70gqkK) | 2:35 |
 | 75 | [Time](https://open.spotify.com/track/7HP0hnLSAP1ScYeFQfayd0) | [Ben Scharlin](https://open.spotify.com/artist/4CaDROYjZpUFMtSvwYv9kY) | [Time](https://open.spotify.com/album/7v7A4ZM6hYL5nrPMfNVElX) | 4:00 |
 
-Snapshot ID: `MCxjNGJiYWE5MDczMzA1YjExMjYxMDRhYTc4N2M5MzFlYzFhNjZiM2M4`
+Snapshot ID: `MCw3MGFlYTAyZWUzMWIwYjI0ZTdjZGFhMTg4ODI1NDlhYzVmM2U1NTcx`

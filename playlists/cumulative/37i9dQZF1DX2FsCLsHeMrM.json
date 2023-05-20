@@ -4402,6 +4402,24 @@
     {
       "album": {
         "name": "Fun Machine EP",
+        "url": "https://open.spotify.com/album/0fhggG3ywOi3jav209WMoI"
+      },
+      "artists": [
+        {
+          "name": "Lake Street Dive",
+          "url": "https://open.spotify.com/artist/3nuc29fYGlQbIrwh4yrNWd"
+        }
+      ],
+      "date_added": "2023-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217920,
+      "name": "Rich Girl",
+      "url": "https://open.spotify.com/track/0RKKLIOnAPImtlLlYEjbYF"
+    },
+    {
+      "album": {
+        "name": "Fun Machine EP",
         "url": "https://open.spotify.com/album/6mifXX0FC51XTiV2uqAf4z"
       },
       "artists": [
@@ -5318,7 +5336,7 @@
       ],
       "date_added": "2023-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 218413,
       "name": "The Walk",
       "url": "https://open.spotify.com/track/7tBZa65xUKMMan9tIMPqbi"

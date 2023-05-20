@@ -233,6 +233,24 @@
     },
     {
       "album": {
+        "name": "Evolution Dub / You And & Me",
+        "url": "https://open.spotify.com/album/5Vt32ASWXOUkfts2GMT527"
+      },
+      "artists": [
+        {
+          "name": "Counter Culture",
+          "url": "https://open.spotify.com/artist/5S9npCbtuNoMtN5xuMyvbU"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295813,
+      "name": "Evolution Dub",
+      "url": "https://open.spotify.com/track/4CgNZoBh7FJAlrVhlVdifY"
+    },
+    {
+      "album": {
         "name": "Tonight",
         "url": "https://open.spotify.com/album/2cVSNtvF9aAWblNYQeCl5e"
       },
@@ -752,6 +770,24 @@
       "duration_ms": 336000,
       "name": "Lost - Pola & Bryson Remix",
       "url": "https://open.spotify.com/track/7uI90KliRDd8egscd650jj"
+    },
+    {
+      "album": {
+        "name": "Magnetic",
+        "url": "https://open.spotify.com/album/74zXp1spwIlWwm5rGOffjq"
+      },
+      "artists": [
+        {
+          "name": "Sustance",
+          "url": "https://open.spotify.com/artist/3069G1J62ioGObj518Umm2"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226206,
+      "name": "Magnetic",
+      "url": "https://open.spotify.com/track/3HjRaXVmPDawlKmRtH5pTA"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "When the funk is just too funky for words to keep up.",
-  "num_followers": 337253,
+  "num_followers": 337412,
   "original_name": "Instrumental Funk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwYTZiZmE4ZjM4M2M0MzEzZTU2YzQyYWQ5MGE2ZDIwOTMzOWY4Nzgx",
+  "snapshot_id": "MCw2MGRlYTA1ZTQ1NmI5YjgzYTQ4OGY4MzAxMmMyMDdlNzJmNGE0ODAy",
   "tracks": [
     {
       "added_at": "2020-11-13 05:02:00",
@@ -663,22 +663,6 @@
     {
       "added_at": "2020-11-13 05:02:00",
       "album": {
-        "name": "VXNTX VXNTX",
-        "url": "https://open.spotify.com/album/7xFQHkRtycWyYZ4O4fbP9l"
-      },
-      "artists": [
-        {
-          "name": "Black Mantra",
-          "url": "https://open.spotify.com/artist/1tBlcYKEE7iWjaZ8O9nEf5"
-        }
-      ],
-      "duration_ms": 191761,
-      "name": "Sandra",
-      "url": "https://open.spotify.com/track/7o2RSn34h4bvZdMWA0NoFo"
-    },
-    {
-      "added_at": "2020-11-13 05:02:00",
-      "album": {
         "name": "The Olympians",
         "url": "https://open.spotify.com/album/7ojJo7v7xOsKYWjLfpw4tJ"
       },
@@ -691,6 +675,22 @@
       "duration_ms": 217053,
       "name": "Saturn",
       "url": "https://open.spotify.com/track/2WBAMsMuWEkQaO35GLAMyJ"
+    },
+    {
+      "added_at": "2020-11-13 05:02:00",
+      "album": {
+        "name": "VXNTX VXNTX",
+        "url": "https://open.spotify.com/album/7xFQHkRtycWyYZ4O4fbP9l"
+      },
+      "artists": [
+        {
+          "name": "Black Mantra",
+          "url": "https://open.spotify.com/artist/1tBlcYKEE7iWjaZ8O9nEf5"
+        }
+      ],
+      "duration_ms": 191761,
+      "name": "Sandra",
+      "url": "https://open.spotify.com/track/7o2RSn34h4bvZdMWA0NoFo"
     },
     {
       "added_at": "2020-11-13 05:02:00",
@@ -825,20 +825,20 @@
       "url": "https://open.spotify.com/track/5YqSp1vrRmTotscUvqIn3u"
     },
     {
-      "added_at": "2021-07-09 04:01:00",
+      "added_at": "2020-11-13 05:02:00",
       "album": {
-        "name": "Praise Me Now",
-        "url": "https://open.spotify.com/album/1XWqVrK5rTsKxL4rXrjHm5"
+        "name": "Baked, Broiled & Fried",
+        "url": "https://open.spotify.com/album/0Uu0RMHsayk00SRB2IY0pX"
       },
       "artists": [
         {
-          "name": "Funky Destination",
-          "url": "https://open.spotify.com/artist/2FK2jZ7cuokxYOC5nSM7bK"
+          "name": "Cookin' On 3 Burners",
+          "url": "https://open.spotify.com/artist/726MxZBpkxnnoKl6aN7mmj"
         }
       ],
-      "duration_ms": 220363,
-      "name": "Mr Bong",
-      "url": "https://open.spotify.com/track/51DMIydCssADRLfnmgt8ZI"
+      "duration_ms": 210560,
+      "name": "Keb's Bucket",
+      "url": "https://open.spotify.com/track/6M6JD31lK0TXVg6KzrcjZ8"
     },
     {
       "added_at": "2020-11-13 05:02:00",
@@ -857,20 +857,20 @@
       "url": "https://open.spotify.com/track/7v4FBNdpo3FQwmHcU7hDnI"
     },
     {
-      "added_at": "2020-11-13 05:02:00",
+      "added_at": "2021-07-09 04:01:00",
       "album": {
-        "name": "Baked, Broiled & Fried",
-        "url": "https://open.spotify.com/album/0Uu0RMHsayk00SRB2IY0pX"
+        "name": "Praise Me Now",
+        "url": "https://open.spotify.com/album/1XWqVrK5rTsKxL4rXrjHm5"
       },
       "artists": [
         {
-          "name": "Cookin' On 3 Burners",
-          "url": "https://open.spotify.com/artist/726MxZBpkxnnoKl6aN7mmj"
+          "name": "Funky Destination",
+          "url": "https://open.spotify.com/artist/2FK2jZ7cuokxYOC5nSM7bK"
         }
       ],
-      "duration_ms": 210560,
-      "name": "Keb's Bucket",
-      "url": "https://open.spotify.com/track/6M6JD31lK0TXVg6KzrcjZ8"
+      "duration_ms": 220363,
+      "name": "Mr Bong",
+      "url": "https://open.spotify.com/track/51DMIydCssADRLfnmgt8ZI"
     },
     {
       "added_at": "2020-11-13 05:02:00",
@@ -1009,6 +1009,22 @@
       "url": "https://open.spotify.com/track/7ofSPPgO1q41e6qTdL29U8"
     },
     {
+      "added_at": "2021-01-15 21:11:37",
+      "album": {
+        "name": "The Exciting Sounds of Menahan Street Band",
+        "url": "https://open.spotify.com/album/41aeU2fQpLCNn3n1AVqCIF"
+      },
+      "artists": [
+        {
+          "name": "Menahan Street Band",
+          "url": "https://open.spotify.com/artist/1PryMSya1JnSAlcwYawCxp"
+        }
+      ],
+      "duration_ms": 166760,
+      "name": "The Duke",
+      "url": "https://open.spotify.com/track/2EuD6kRlJnqJHRZEdVx7Wh"
+    },
+    {
       "added_at": "2021-10-22 04:02:00",
       "album": {
         "name": "Assassin (The Paisley Park Session)",
@@ -1057,22 +1073,6 @@
       "url": "https://open.spotify.com/track/7zLbAUkKTTQmNj0kPs55LH"
     },
     {
-      "added_at": "2022-01-07 05:02:00",
-      "album": {
-        "name": "Cold As Weiss",
-        "url": "https://open.spotify.com/album/39wAzMaFzTVEN0yqJXYyzK"
-      },
-      "artists": [
-        {
-          "name": "Delvon Lamarr Organ Trio",
-          "url": "https://open.spotify.com/artist/7owr01EP6gwCYjnfQtPKy8"
-        }
-      ],
-      "duration_ms": 314080,
-      "name": "Don't Worry 'Bout What I Do",
-      "url": "https://open.spotify.com/track/2NrgFbqq1uCovinEtTw3Mj"
-    },
-    {
       "added_at": "2020-11-13 05:02:00",
       "album": {
         "name": "We Are All Shining Stars",
@@ -1089,20 +1089,20 @@
       "url": "https://open.spotify.com/track/35t1ubxf6jaJ96Ai18zhpY"
     },
     {
-      "added_at": "2020-11-13 05:02:00",
+      "added_at": "2022-01-07 05:02:00",
       "album": {
-        "name": "Funkedemia",
-        "url": "https://open.spotify.com/album/7HKRAGoXo7IWvMhkpT6NMb"
+        "name": "Cold As Weiss",
+        "url": "https://open.spotify.com/album/39wAzMaFzTVEN0yqJXYyzK"
       },
       "artists": [
         {
-          "name": "Mac James",
-          "url": "https://open.spotify.com/artist/2lV3UEHZZ7gYzj5Iv0NLJ3"
+          "name": "Delvon Lamarr Organ Trio",
+          "url": "https://open.spotify.com/artist/7owr01EP6gwCYjnfQtPKy8"
         }
       ],
-      "duration_ms": 133381,
-      "name": "Funkedemia",
-      "url": "https://open.spotify.com/track/3Y4OuMnrh3An9tpxGWtd0z"
+      "duration_ms": 314080,
+      "name": "Don't Worry 'Bout What I Do",
+      "url": "https://open.spotify.com/track/2NrgFbqq1uCovinEtTw3Mj"
     },
     {
       "added_at": "2022-04-01 04:02:00",
@@ -1125,20 +1125,20 @@
       "url": "https://open.spotify.com/track/4yTdRH0seHLM4QaHC3jKoS"
     },
     {
-      "added_at": "2021-01-15 21:11:37",
+      "added_at": "2020-11-13 05:02:00",
       "album": {
-        "name": "The Exciting Sounds of Menahan Street Band",
-        "url": "https://open.spotify.com/album/41aeU2fQpLCNn3n1AVqCIF"
+        "name": "Funkedemia",
+        "url": "https://open.spotify.com/album/7HKRAGoXo7IWvMhkpT6NMb"
       },
       "artists": [
         {
-          "name": "Menahan Street Band",
-          "url": "https://open.spotify.com/artist/1PryMSya1JnSAlcwYawCxp"
+          "name": "Mac James",
+          "url": "https://open.spotify.com/artist/2lV3UEHZZ7gYzj5Iv0NLJ3"
         }
       ],
-      "duration_ms": 166760,
-      "name": "The Duke",
-      "url": "https://open.spotify.com/track/2EuD6kRlJnqJHRZEdVx7Wh"
+      "duration_ms": 133381,
+      "name": "Funkedemia",
+      "url": "https://open.spotify.com/track/3Y4OuMnrh3An9tpxGWtd0z"
     },
     {
       "added_at": "2022-02-25 05:02:00",
@@ -1223,6 +1223,22 @@
     {
       "added_at": "2020-11-13 05:02:00",
       "album": {
+        "name": "The Groove Cubed",
+        "url": "https://open.spotify.com/album/0agUvZzRFE3DuNYG4qIPRK"
+      },
+      "artists": [
+        {
+          "name": "Rock Candy Funk Party",
+          "url": "https://open.spotify.com/artist/0n6R1WkjWzYq9NblwRLaBQ"
+        }
+      ],
+      "duration_ms": 412733,
+      "name": "In the Groove",
+      "url": "https://open.spotify.com/track/5YPvJO7U1HhwuJBLrD1f0q"
+    },
+    {
+      "added_at": "2020-11-13 05:02:00",
+      "album": {
         "name": "Say Goodbye",
         "url": "https://open.spotify.com/album/5A2nu2JUX7DpEZ9koqOBaG"
       },
@@ -1243,22 +1259,6 @@
       "duration_ms": 187214,
       "name": "Say Goodbye",
       "url": "https://open.spotify.com/track/1btR46PFIB5xnpIJJxniBB"
-    },
-    {
-      "added_at": "2020-11-13 05:02:00",
-      "album": {
-        "name": "The Groove Cubed",
-        "url": "https://open.spotify.com/album/0agUvZzRFE3DuNYG4qIPRK"
-      },
-      "artists": [
-        {
-          "name": "Rock Candy Funk Party",
-          "url": "https://open.spotify.com/artist/0n6R1WkjWzYq9NblwRLaBQ"
-        }
-      ],
-      "duration_ms": 412733,
-      "name": "In the Groove",
-      "url": "https://open.spotify.com/track/5YPvJO7U1HhwuJBLrD1f0q"
     },
     {
       "added_at": "2020-11-13 05:02:00",
@@ -1327,22 +1327,6 @@
     {
       "added_at": "2020-11-13 05:02:00",
       "album": {
-        "name": "Just Funkin' Around",
-        "url": "https://open.spotify.com/album/4HWLCdbq197ZA5XfXCKUhT"
-      },
-      "artists": [
-        {
-          "name": "Pieces Of A Dream",
-          "url": "https://open.spotify.com/artist/70BRQ5tBte6kVqHviL3srE"
-        }
-      ],
-      "duration_ms": 247630,
-      "name": "Just Funkin' Around",
-      "url": "https://open.spotify.com/track/07Meko4g3ihmJD5p8h6onU"
-    },
-    {
-      "added_at": "2020-11-13 05:02:00",
-      "album": {
         "name": "Elevate",
         "url": "https://open.spotify.com/album/5gk2psRxpCHdMXMhZ6prYf"
       },
@@ -1355,6 +1339,22 @@
       "duration_ms": 324078,
       "name": "Royal Highness",
       "url": "https://open.spotify.com/track/42y27OIathcePEZFs5bYSk"
+    },
+    {
+      "added_at": "2020-11-13 05:02:00",
+      "album": {
+        "name": "Just Funkin' Around",
+        "url": "https://open.spotify.com/album/4HWLCdbq197ZA5XfXCKUhT"
+      },
+      "artists": [
+        {
+          "name": "Pieces Of A Dream",
+          "url": "https://open.spotify.com/artist/70BRQ5tBte6kVqHviL3srE"
+        }
+      ],
+      "duration_ms": 247630,
+      "name": "Just Funkin' Around",
+      "url": "https://open.spotify.com/track/07Meko4g3ihmJD5p8h6onU"
     },
     {
       "added_at": "2020-11-13 05:02:00",

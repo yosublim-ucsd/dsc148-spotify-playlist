@@ -2,9 +2,9 @@
 
 ### [Stoner Rock](https://open.spotify.com/playlist/37i9dQZF1DXdpVGstUksUC)
 
-> You can practically taste the desert dirt in your mouth while listening to these riff\-heavy, fuzzed out numbers\. Cover: Queens of the Stone Age
+> riff\-heavy, fuzzed\-out numbers.
 
-286 songs - 1 day 2 hr 39 min
+287 songs - 1 day 3 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -75,6 +75,7 @@
 | [Diablerie](https://open.spotify.com/track/6tn5XqPVJnmZt1rA4kBgJh) | [Windhand](https://open.spotify.com/artist/6wE3e84Zg41JF04Z39i5wv) | [Diablerie](https://open.spotify.com/album/1m4kG1WRaSUeay5rEUOPB5) | 5:20 | 2021-11-30 |  |
 | [Diabolical Dopenosis](https://open.spotify.com/track/22M0PiZ3USkjxGvprJWj1g) | [Belzebong](https://open.spotify.com/artist/3MffQ9fJsgtOEqW8GvzJW8) | [Greenferno](https://open.spotify.com/album/7tgGRcUIjdyILQf7bZL2rH) | 8:48 | 2021-11-30 | 2022-02-15 |
 | [Die of Thirst](https://open.spotify.com/track/3PrPbuCs02pv3jZtWieaFa) | [Gorilla Pulp](https://open.spotify.com/artist/5YrEyL1qzrGlLosqAbPQC4) | [Peyote Queen](https://open.spotify.com/album/6VcJVeS8r48qPQnk2M6Tvj) | 2:22 | 2021-11-30 | 2022-01-31 |
+| [Dopesmoker \- 2022 Remastered Version](https://open.spotify.com/track/0m3NuZiabJ4wl4HmXONyIP) | [Sleep](https://open.spotify.com/artist/4Mt6w4tDGiPgV5q6JWPlrI) | [Dopesmoker](https://open.spotify.com/album/4igTVyMjcnj2Wv29NZAa3Q) | 1:03:29 | 2023-05-19 |  |
 | [Dopethrone](https://open.spotify.com/track/10XUFfV4GC5E0Wd68thh8P) | [Electric Wizard](https://open.spotify.com/artist/4htjQW3lgIwL6fEJlTOez4) | [Dopethrone](https://open.spotify.com/album/4xaTRMLbZdmAWtUnoYvaTF) | 10:36 | 2022-02-22 | 2022-07-28 |
 | [Dopethrone](https://open.spotify.com/track/6rbtbfELvUHsOjgYyz52lT) | [Electric Wizard](https://open.spotify.com/artist/4htjQW3lgIwL6fEJlTOez4) | [Dopethrone](https://open.spotify.com/album/1AxwLCMtx8rnIxkFQKU2LO) | 10:36 | 2022-04-28 | 2023-03-23 |
 | [Dragonaut](https://open.spotify.com/track/6qLgGLeawKyhMFJ848XtYD) | [Sleep](https://open.spotify.com/artist/4Mt6w4tDGiPgV5q6JWPlrI) | [Sleep's Holy Mountain](https://open.spotify.com/album/6L7ENQZtfSKVAq1CIRZSxs) | 5:43 | 2021-11-30 |  |
@@ -127,7 +128,7 @@
 | [Heavy Low](https://open.spotify.com/track/3lmUTqT4K2rPjtMgYRMB2P) | [We Hunt Buffalo](https://open.spotify.com/artist/6Bz2ZeTKI0cyJwt7tBKoUU) | [Heavy Low](https://open.spotify.com/album/6EZw5taKPaZUeY8IDbKZI0) | 4:50 | 2021-11-30 | 2022-07-29 |
 | [Heavy Low](https://open.spotify.com/track/4tLIZnSxxoVG2CtJkO0ov3) | [We Hunt Buffalo](https://open.spotify.com/artist/6Bz2ZeTKI0cyJwt7tBKoUU) | [Head Smashed In](https://open.spotify.com/album/2VSqgmpVulvNEeIoxZGJVw) | 4:50 | 2022-04-28 |  |
 | [High Command](https://open.spotify.com/track/1734RWOrbbNC3mxE3EpE6H) | [Earth](https://open.spotify.com/artist/4mTFQE6aiehScgvreB9llC) | [Pentastar: In The Style of Demons](https://open.spotify.com/album/5irr64FYBRKBiWjVCrJZij) | 5:50 | 2021-11-30 | 2022-07-25 |
-| [High Command](https://open.spotify.com/track/3vpSKqbQ2MY1SJODidxR6m) | [Earth](https://open.spotify.com/artist/4mTFQE6aiehScgvreB9llC) | [Pentastar: In The Style of Demons](https://open.spotify.com/album/4R2YY8UpLor3pY0HteIuTw) | 5:50 | 2023-03-10 |  |
+| [High Command](https://open.spotify.com/track/3vpSKqbQ2MY1SJODidxR6m) | [Earth](https://open.spotify.com/artist/4mTFQE6aiehScgvreB9llC) | [Pentastar: In The Style of Demons](https://open.spotify.com/album/4R2YY8UpLor3pY0HteIuTw) | 5:50 | 2023-03-10 | 2023-05-20 |
 | [Holy Mountain](https://open.spotify.com/track/1G7rpMjaBTqczxxzJdHToF) | [Sleep](https://open.spotify.com/artist/4Mt6w4tDGiPgV5q6JWPlrI) | [Sleep's Holy Mountain](https://open.spotify.com/album/6L7ENQZtfSKVAq1CIRZSxs) | 8:44 | 2022-02-14 | 2023-03-23 |
 | [Homage](https://open.spotify.com/track/7ztFsRXXKrkUjMaLn1siHJ) | [Causa Sui](https://open.spotify.com/artist/1TAcaMoUlvLpTUzh18TzDY) | [Euporie Tide](https://open.spotify.com/album/5Ylo2MVt7UMcv7gPGyC3hu) | 10:08 | 2021-11-30 | 2023-03-23 |
 | [Hot Lava Man](https://open.spotify.com/track/2QqCtTAAt8WaQW1cxzLcgT) | [Sleep](https://open.spotify.com/artist/4Mt6w4tDGiPgV5q6JWPlrI) | [Dopesmoker](https://open.spotify.com/album/4igTVyMjcnj2Wv29NZAa3Q) | 8:25 | 2022-08-26 |  |

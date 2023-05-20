@@ -2922,7 +2922,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 172019,
       "name": "Dried Out",
       "url": "https://open.spotify.com/track/0Hn8q446fA8GvnmFBspfJ1"
@@ -4443,6 +4443,24 @@
     },
     {
       "album": {
+        "name": "Healing",
+        "url": "https://open.spotify.com/album/2DrvBABoXgq25yR3hNIFBP"
+      },
+      "artists": [
+        {
+          "name": "Mima Renard",
+          "url": "https://open.spotify.com/artist/5hVW03Fp1Lfjuz9VaMmrF4"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126529,
+      "name": "Healing",
+      "url": "https://open.spotify.com/track/2e68vzuzRv3GFUtYDO7NBE"
+    },
+    {
+      "album": {
         "name": "Heart of the River of the Sun",
         "url": "https://open.spotify.com/album/1wrDM0xtWqoTWtJ1mYuDny"
       },
@@ -5542,6 +5560,24 @@
       "duration_ms": 227673,
       "name": "Kaschmir - Solitaer Edit",
       "url": "https://open.spotify.com/track/1OxTi7rRGglL7DUzvcFIaS"
+    },
+    {
+      "album": {
+        "name": "Kay's Recovery",
+        "url": "https://open.spotify.com/album/2Ugt7X6hGDE0C722Tpgot4"
+      },
+      "artists": [
+        {
+          "name": "Joaquin Conor",
+          "url": "https://open.spotify.com/artist/09O6u1o77QVzr1RI6zyZv7"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114275,
+      "name": "Kay's Recovery",
+      "url": "https://open.spotify.com/track/6heseVBVY5E1zh6z4FyMDA"
     },
     {
       "album": {
@@ -6748,6 +6784,24 @@
       "duration_ms": 173000,
       "name": "Meandering",
       "url": "https://open.spotify.com/track/4jpRyLpvGSUPVSx8oO8xWo"
+    },
+    {
+      "album": {
+        "name": "Melancholy",
+        "url": "https://open.spotify.com/album/7rrwtqNk6EUU4nVsCof0M3"
+      },
+      "artists": [
+        {
+          "name": "Les Moray",
+          "url": "https://open.spotify.com/artist/3oJtOPrahfYye5Ffs05pYR"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214630,
+      "name": "Melancholy",
+      "url": "https://open.spotify.com/track/0nE4j0wkGn5ijBPguBbZau"
     },
     {
       "album": {
@@ -10198,7 +10252,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 148000,
       "name": "Stundom",
       "url": "https://open.spotify.com/track/1OJmKyPXayT4TID0XE2uxt"
@@ -11074,6 +11128,24 @@
       "duration_ms": 210250,
       "name": "The What If",
       "url": "https://open.spotify.com/track/3qgA4uyqdQLpYLCeTtouQS"
+    },
+    {
+      "album": {
+        "name": "The Year of Unravelling",
+        "url": "https://open.spotify.com/album/6cqFzCzHOttvioayRM2McD"
+      },
+      "artists": [
+        {
+          "name": "Elyse Cloudd",
+          "url": "https://open.spotify.com/artist/4Z9Z9Pd1xy1BKq3PgHnpGV"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128522,
+      "name": "The Year of Unravelling",
+      "url": "https://open.spotify.com/track/0e66Y7BTyvFt5iskJrTVpY"
     },
     {
       "album": {
@@ -12460,7 +12532,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 155660,
       "name": "Whisper Trail",
       "url": "https://open.spotify.com/track/2pEF97eTTTNC8pbpAVu8SB"
@@ -12626,6 +12698,24 @@
       "duration_ms": 157250,
       "name": "Without You",
       "url": "https://open.spotify.com/track/6BAlDSUzVokKprjwGFE3d3"
+    },
+    {
+      "album": {
+        "name": "Woman traveling alone",
+        "url": "https://open.spotify.com/album/3Gs894sByxOdmahSwU7sF1"
+      },
+      "artists": [
+        {
+          "name": "Leisel Walker",
+          "url": "https://open.spotify.com/artist/4yTf0AFWlZAq1Stliy2qou"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126396,
+      "name": "Woman traveling alone",
+      "url": "https://open.spotify.com/track/2bgfzRKACqBoOWoXYJGJdb"
     },
     {
       "album": {

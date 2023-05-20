@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-10",
-  "description": "Fresh Latin Indie. Cover: Giorgio Siladi",
+  "description": "Fresh Latin Indie. Cover: Mola Mola",
   "name": "el nuevo indie",
   "tracks": [
     {
@@ -852,6 +852,24 @@
       "duration_ms": 202034,
       "name": "Broken Heart",
       "url": "https://open.spotify.com/track/6nUvMK1MawwoaRtSmrJL8h"
+    },
+    {
+      "album": {
+        "name": "BROOKLYN",
+        "url": "https://open.spotify.com/album/004QpFB05Jwt7N1gohK4l8"
+      },
+      "artists": [
+        {
+          "name": "Solo Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/0bvP91QlkYvAFP71Cw6PkM"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215236,
+      "name": "BROOKLYN",
+      "url": "https://open.spotify.com/track/7hIrfMx9NNqoKx3Nok9O6g"
     },
     {
       "album": {
@@ -3041,6 +3059,24 @@
     },
     {
       "album": {
+        "name": "Liberado",
+        "url": "https://open.spotify.com/album/6oxa4q3xwgjHngcjVXUgbJ"
+      },
+      "artists": [
+        {
+          "name": "Mola Mola",
+          "url": "https://open.spotify.com/artist/0GvoilgXudnVgLkkxYCttN"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208162,
+      "name": "Liberado por un sue\u00f1o",
+      "url": "https://open.spotify.com/track/0YiyRdU3egpWq0ULQxKAA4"
+    },
+    {
+      "album": {
         "name": "Life",
         "url": "https://open.spotify.com/album/5H3owcMi5LPfGvZUaD4ek3"
       },
@@ -3662,7 +3698,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 202373,
       "name": "Miel",
       "url": "https://open.spotify.com/track/6AMHEaO84ovy8gyk9fMuvx"
@@ -6780,7 +6816,7 @@
       ],
       "date_added": "2022-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 185350,
       "name": "XO",
       "url": "https://open.spotify.com/track/7Hv1cgxfZs6pswYKvh0tDJ"

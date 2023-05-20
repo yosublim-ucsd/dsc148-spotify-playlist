@@ -4,7 +4,7 @@
 
 > Celebrate, amplify, and support LGBTQ+ API musicians\. Cover: Deb Never.
 
-80 songs - 4 hr 29 min
+81 songs - 4 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -77,6 +77,7 @@
 | [Say My Name](https://open.spotify.com/track/4syAu4kgVGtLa4j1x0rKCa) | [Priyanka](https://open.spotify.com/artist/1RSalo3q49NotNwKB2jtjO) | [Say My Name](https://open.spotify.com/album/3GvF4miurhOMPd7Rg2Q9eL) | 2:47 | 2021-06-04 |  |
 | [Someone Else](https://open.spotify.com/track/43tQOLiTfoVwURdx5Ei7yr) | [Deb Never](https://open.spotify.com/artist/55EarwWraRQY9diMo9Oeul) | [Someone Else](https://open.spotify.com/album/4Hu3O4jVEImkIqYmvq2KUk) | 3:27 | 2021-06-04 | 2022-05-03 |
 | [Sorry](https://open.spotify.com/track/7ufvTDIjfqAhYZLXUX0lrF) | [Deb Never](https://open.spotify.com/artist/55EarwWraRQY9diMo9Oeul) | [Sorry](https://open.spotify.com/album/6j4oMq6GQubGAHoYqEGrwY) | 3:00 | 2021-06-04 | 2022-05-03 |
+| [Sorry](https://open.spotify.com/track/2gU2Eg1PfmJMHtfIMxIMnK) | [LEADR](https://open.spotify.com/artist/5MBtoGEv50nmq08tb3y38v) | [Sorry](https://open.spotify.com/album/791zxJ2XcDy6Es5FEDU8xn) | 2:54 | 2023-05-19 |  |
 | [Stoop So Low](https://open.spotify.com/track/3DNsBFRbQWxygrn4UsqvTF) | [Alextbh](https://open.spotify.com/artist/0kXDB5aeESWj5BD9TCLkMu) | [Stoop So Low](https://open.spotify.com/album/6zIwkPEI6mOTeSziwCb7zz) | 3:17 | 2021-06-04 | 2022-05-03 |
 | [Sunkissed](https://open.spotify.com/track/1tD8J13a74q8fBqXwAP50j) | [khai dreams](https://open.spotify.com/artist/0lawSNBxNgJFQYJnQzLH8c) | [Now and Then](https://open.spotify.com/album/3jysksH3UVanTDQD5xeaIG) | 2:06 | 2021-06-04 | 2022-12-01 |
 | [Sunkissed](https://open.spotify.com/track/34RmzDXMv0ELSQTK4pNvX3) | [khai dreams](https://open.spotify.com/artist/0lawSNBxNgJFQYJnQzLH8c) | [Now and Then](https://open.spotify.com/album/4rfUHJjRb1Ywh0Gg8SEUcA) | 2:06 | 2022-08-25 |  |
@@ -87,6 +88,6 @@
 | [What I Need \(feat\. Kehlani\)](https://open.spotify.com/track/5nFyaoBWwwMJ9fv33tZ2MB) | [Hayley Kiyoko](https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN), [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [Expectations](https://open.spotify.com/album/2oRkkW6ZudviRBd6mx4CfL) | 3:39 | 2021-06-04 | 2022-05-03 |
 | [whatever u like](https://open.spotify.com/track/4tv72g5KnIy4XbyDBhEFgA) | [UMI](https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde) | [whatever u like](https://open.spotify.com/album/721LnudJW05TovLVLcSoMa) | 3:20 | 2022-05-02 |  |
 | [You Look so Good](https://open.spotify.com/track/66tyrSjqL9P6sZAb8TQm3X) | [Priyanka](https://open.spotify.com/artist/1RSalo3q49NotNwKB2jtjO) | [You Look so Good](https://open.spotify.com/album/5r73WnvgjwL3ydzrtsmqpm) | 2:50 | 2021-06-04 |  |
-| [You Matter](https://open.spotify.com/track/1arOj3xVlQB9veK0piJnC4) | [Telly Leung](https://open.spotify.com/artist/7jY4WHm9t4mWwBjg0bTB4N) | [You Matter](https://open.spotify.com/album/731OCmxzYhwwkRpxbt1Onq) | 4:07 | 2021-06-04 |  |
+| [You Matter](https://open.spotify.com/track/1arOj3xVlQB9veK0piJnC4) | [Telly Leung](https://open.spotify.com/artist/7jY4WHm9t4mWwBjg0bTB4N) | [You Matter](https://open.spotify.com/album/731OCmxzYhwwkRpxbt1Onq) | 4:07 | 2021-06-04 | 2023-05-20 |
 
 \*This playlist was first scraped on 2022-05-01. Prior content cannot be recovered.

@@ -2,9 +2,9 @@
 
 ### [el nuevo pop](https://open.spotify.com/playlist/37i9dQZF1DX8womvTyUjrN)
 
-> Fresh Latin pop on the rise\. Cover: GALE
+> Fresh Latin pop on the rise\. Cover: YEИDRY
 
-380 songs - 19 hr 16 min
+382 songs - 19 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,7 +46,7 @@
 | [Bayamón](https://open.spotify.com/track/2WVAI8qLBdZlJUhdpNcXCQ) | [ELENA ROSE](https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY) | [Bayamón](https://open.spotify.com/album/5ELcmaAt2qWGrwWs583awG) | 3:00 | 2022-11-25 | 2023-05-13 |
 | [BB](https://open.spotify.com/track/4OoDeRIb0xo5DfQQ9RligQ) | [Andry Kiddos](https://open.spotify.com/artist/3mXFyGsGwiXIybo2Sr4EG2) | [BB](https://open.spotify.com/album/11cTDFSZsSCaktbjK6TOZi) | 2:14 | 2022-03-21 | 2022-07-26 |
 | [BBB](https://open.spotify.com/track/6210ziGEzjh0YY2y9JlGfi) | [Carmen DeLeon](https://open.spotify.com/artist/6vVKjeD0dvsg5EVMEUxI1l) | [BBB](https://open.spotify.com/album/5RHyPiHNjAGcCq3KraVSYf) | 2:34 | 2022-05-06 | 2022-07-26 |
-| [Beber x Beber](https://open.spotify.com/track/0cUIUxrjsw8PtfBk1SJ8jE) | [zzoilo](https://open.spotify.com/artist/7c53ZFyajVMTo08HmvoB6b), [Gemeliers](https://open.spotify.com/artist/3W50twtHMESiHoOf2wHgfw) | [Beber x Beber](https://open.spotify.com/album/3gpvzrGqLxk788DWga2Mhi) | 2:24 | 2023-05-12 |  |
+| [Beber x Beber](https://open.spotify.com/track/0cUIUxrjsw8PtfBk1SJ8jE) | [zzoilo](https://open.spotify.com/artist/7c53ZFyajVMTo08HmvoB6b), [Gemeliers](https://open.spotify.com/artist/3W50twtHMESiHoOf2wHgfw) | [Beber x Beber](https://open.spotify.com/album/3gpvzrGqLxk788DWga2Mhi) | 2:24 | 2023-05-12 | 2023-05-20 |
 | [Beirut](https://open.spotify.com/track/53rAqXVFlcXLquCLQBmo6J) | [BORJA](https://open.spotify.com/artist/3n3mizV0nZXD1pKzRGoBGw) | [Beirut](https://open.spotify.com/album/48b70fp1rG47WNeWJevAqH) | 2:31 | 2022-03-21 | 2022-05-07 |
 | [Bemaste](https://open.spotify.com/track/1caKQ2Nqtr1eoczaB83cUz) | [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1) | [Bemaste](https://open.spotify.com/album/0A3QuRFlfoqdw8sIH9C9OO) | 2:24 | 2023-01-13 |  |
 | [Bendita](https://open.spotify.com/track/3vDP0LdVBqGhKvz2nyMRXS) | [Las Villa](https://open.spotify.com/artist/0sXJRmgbjbq6Q5uu4W1wDM), [Llane](https://open.spotify.com/artist/7A02nc5WKMBLqSKXxGZ4o8) | [Bendita](https://open.spotify.com/album/7KREKP5rqz2xTxFNYABhLr) | 3:19 | 2023-01-27 | 2023-02-25 |
@@ -183,6 +183,7 @@
 | [La Mitad](https://open.spotify.com/track/5nIZkrEBVzbt3XhXRyVRQo) | [GALE](https://open.spotify.com/artist/04pH6pkJugHJ7g3DTCQBVM) | [La Mitad](https://open.spotify.com/album/4FdLKltOVq8bIkMBCdYXqn) | 2:56 | 2023-05-12 |  |
 | [La Primera Vez](https://open.spotify.com/track/3AS2NiyobOcS454xthOByC) | [Manuel Medrano](https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM), [Juliana](https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY) | [La Primera Vez](https://open.spotify.com/album/5o6FpcNF63Rzf2sGZL1WYp) | 3:44 | 2023-02-10 | 2023-04-01 |
 | [La Puerta](https://open.spotify.com/track/5JM0MaVqz9I38pRzbo9U6l) | [Leo Rizzi](https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2) | [La Puerta](https://open.spotify.com/album/3uW3dr9cYAvk6fouQY0EzH) | 3:03 | 2023-01-13 | 2023-01-28 |
+| [La Puerta](https://open.spotify.com/track/4NIOOtiTugYXemmElAwGNw) | [YEИDRY](https://open.spotify.com/artist/3Lk9AWrpD4bminO5LwmBOw) | [La Puerta](https://open.spotify.com/album/0TPue7zWYi1z0168wshD9y) | 3:34 | 2023-05-19 |  |
 | [La Reina](https://open.spotify.com/track/5KrBFRj0Vfq0QQjlyKs5Hr) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [La Reina](https://open.spotify.com/album/1aWnZ80cKI4rV2GDo3LniM) | 2:21 | 2023-03-10 | 2023-05-13 |
 | [LA SANTA](https://open.spotify.com/track/3TcSNX1WhlcVAI6fLWt7Qs) | [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna) | [LA SANTA](https://open.spotify.com/album/7s7TZHak9Chi57TNKIH7T8) | 2:45 | 2023-03-17 | 2023-04-29 |
 | [La Única \- Sprite Limelight](https://open.spotify.com/track/1VAYxguLGwy4NpnLMSh8R9) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [La Única \(Sprite Limelight\)](https://open.spotify.com/album/7MUPz6QaXyT6CBZCHoQcjX) | 2:29 | 2022-10-07 | 2022-12-31 |
@@ -204,7 +205,8 @@
 | [Mañana](https://open.spotify.com/track/2CGhzWArXQZG86V1Ztv4Q2) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [OzuTochi](https://open.spotify.com/album/1kjfMVBNhsDeRyAu9zbLfF) | 3:12 | 2022-10-07 | 2023-02-04 |
 | [Me Conoces](https://open.spotify.com/track/3VZTeLP44cx4TIsMxVpi6W) | [Juan Rached](https://open.spotify.com/artist/7w9jqn7Maks8umHJEnEUsM) | [Me Conoces](https://open.spotify.com/album/5EjIchI75FHmoarIwPiaGM) | 2:51 | 2022-03-21 | 2022-07-09 |
 | [Me Encantaría](https://open.spotify.com/track/1APLK79zZo67ny370NLO4F) | [Abraham Mateo](https://open.spotify.com/artist/2bxxlINUlcMQQb39K7IopR), [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW) | [Me Encantaría](https://open.spotify.com/album/6fnWWfMSRAztQvuJTAfmlw) | 2:57 | 2022-10-28 | 2023-02-25 |
-| [Me Equivoqué](https://open.spotify.com/track/6QqJcOLFsdSLDuc4tcgSob) | [Yami Safdie](https://open.spotify.com/artist/4RWJOoYwgF978LOn8Fainp) | [Me Equivoqué](https://open.spotify.com/album/1FuHgxh8TQXF6EbmpR2Rbb) | 2:06 | 2023-03-10 |  |
+| [Me Equivoqué](https://open.spotify.com/track/6QqJcOLFsdSLDuc4tcgSob) | [Yami Safdie](https://open.spotify.com/artist/4RWJOoYwgF978LOn8Fainp) | [Me Equivoqué](https://open.spotify.com/album/1FuHgxh8TQXF6EbmpR2Rbb) | 2:06 | 2023-03-10 | 2023-05-20 |
+| [Me Escapé](https://open.spotify.com/track/3jK3NH3y3uYjIMVyYdJtoF) | [Leal](https://open.spotify.com/artist/48swEQPOGdY8zNvE2ksqkc), [Sanluis](https://open.spotify.com/artist/3b2zi4PtiILG4Iyswyk4LW) | [Me Escapé](https://open.spotify.com/album/1ESdLYsLFLLG2Vuc67BbEm) | 2:36 | 2023-05-19 |  |
 | [Me Gusta](https://open.spotify.com/track/4wpsSCIc7zyjdyUt6wfSqc) | [Paulina Rubio](https://open.spotify.com/artist/1d6dwipPrsFSJVmFTTdFSS), [Maffio](https://open.spotify.com/artist/5RzT7CM6Ot0sh0EHefMicV) | [Me Gusta](https://open.spotify.com/album/0Fxm7FHLwu4RNHWFjidEkt) | 2:33 | 2022-10-07 | 2022-12-17 |
 | [Me He Pillao x Ti](https://open.spotify.com/track/3nsAcKRQ4MoNSKiwECG0Yv) | [Ana Mena](https://open.spotify.com/artist/6k8mwkKJKKjBILo7ypBspl), [Natalia Lacunza](https://open.spotify.com/artist/3Zs59sqZJ6fWQqWbRC8bOP) | [Me He Pillao x Ti](https://open.spotify.com/album/1raYgqJauewWa2JgD6JmtG) | 3:22 | 2023-02-24 |  |
 | [Me Quedo Solo](https://open.spotify.com/track/3RKef2LOov4395yfrDGrwA) | [RMAND](https://open.spotify.com/artist/168fXFOgXniYN0j9XVMdOK) | [Me Quedo Solo](https://open.spotify.com/album/0dprH4u5zVmRMi7yMnuaeq) | 3:35 | 2022-06-17 | 2022-07-26 |

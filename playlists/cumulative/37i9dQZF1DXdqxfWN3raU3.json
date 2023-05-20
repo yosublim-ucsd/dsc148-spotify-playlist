@@ -534,7 +534,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 166496,
       "name": "Bagels y Caf\u00e9",
       "url": "https://open.spotify.com/track/1bkMM9f67Taz4VhE0eswro"
@@ -676,7 +676,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 179813,
       "name": "Cabr\u00f3n",
       "url": "https://open.spotify.com/track/3s7va3f0Sxww7MgvqUpThW"
@@ -1654,7 +1654,7 @@
       ],
       "date_added": "2023-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 147000,
       "name": "flores",
       "url": "https://open.spotify.com/track/48azhp4Zua1vx258Tfzrho"
@@ -1969,6 +1969,24 @@
     },
     {
       "album": {
+        "name": "I'd Better",
+        "url": "https://open.spotify.com/album/2DAf4UgcdvnavntASDCiMw"
+      },
+      "artists": [
+        {
+          "name": "Du\u00f1e",
+          "url": "https://open.spotify.com/artist/7bupzBUhDSqBIAkoianGjC"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188995,
+      "name": "I'd Better",
+      "url": "https://open.spotify.com/track/4P7DLtlGZ3IGyTdH9YR6qJ"
+    },
+    {
+      "album": {
         "name": "Invierno",
         "url": "https://open.spotify.com/album/36akjquegYLPv8C90n0Hqu"
       },
@@ -2068,7 +2086,7 @@
       ],
       "date_added": "2022-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 236013,
       "name": "La Del Campo De Fresas",
       "url": "https://open.spotify.com/track/21xwVpmT4Jp9DcJHsm5AoG"
@@ -2146,6 +2164,24 @@
       "duration_ms": 101739,
       "name": "La Musa",
       "url": "https://open.spotify.com/track/3wjoYxOdPcUTxidHB8kMV5"
+    },
+    {
+      "album": {
+        "name": "La Puerta",
+        "url": "https://open.spotify.com/album/0TPue7zWYi1z0168wshD9y"
+      },
+      "artists": [
+        {
+          "name": "YE\u0418DRY",
+          "url": "https://open.spotify.com/artist/3Lk9AWrpD4bminO5LwmBOw"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214789,
+      "name": "La Puerta",
+      "url": "https://open.spotify.com/track/4NIOOtiTugYXemmElAwGNw"
     },
     {
       "album": {
@@ -2484,7 +2520,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 159000,
       "name": "Me Acostumbr\u00e9 a Quererte",
       "url": "https://open.spotify.com/track/67WXstjo5Pf7CRoiNlXukG"
@@ -2873,6 +2909,54 @@
     },
     {
       "album": {
+        "name": "Niebla",
+        "url": "https://open.spotify.com/album/3u26C5eFglqaZhmwpKsE8t"
+      },
+      "artists": [
+        {
+          "name": "Emporio",
+          "url": "https://open.spotify.com/artist/67rfT6Gea3omy1Ksii2J88"
+        },
+        {
+          "name": "MOL",
+          "url": "https://open.spotify.com/artist/0kcjwgqgT7QdNONFwVgQQX"
+        },
+        {
+          "name": "Yung Bruno",
+          "url": "https://open.spotify.com/artist/2Yekv6cj8wteQT7yLwEbSG"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132000,
+      "name": "Niebla",
+      "url": "https://open.spotify.com/track/1sBW6oqy3NzQ5VFWuvL3u6"
+    },
+    {
+      "album": {
+        "name": "Ni\u00f1a",
+        "url": "https://open.spotify.com/album/3avY0Zpi67xBly3qw9RTrf"
+      },
+      "artists": [
+        {
+          "name": "Alberdi",
+          "url": "https://open.spotify.com/artist/0zO7bdIGAHVCPq2rjQKhoK"
+        },
+        {
+          "name": "Rico Rosa",
+          "url": "https://open.spotify.com/artist/33AxM64O965URn5WUtqNST"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150000,
+      "name": "Ni\u00f1a",
+      "url": "https://open.spotify.com/track/263J9UiWULqwwb4Q3MAXjt"
+    },
+    {
+      "album": {
         "name": "NI\u00d1XS ROTXS",
         "url": "https://open.spotify.com/album/1XLeW2s0YvZSomXynkBKgm"
       },
@@ -2888,6 +2972,24 @@
       "duration_ms": 163840,
       "name": "NI\u00d1XS ROTXS",
       "url": "https://open.spotify.com/track/6MccctjUYdUgPPEbpqgRrw"
+    },
+    {
+      "album": {
+        "name": "No digas nada",
+        "url": "https://open.spotify.com/album/2g2B9rwO0VmWNKrdpeAmf3"
+      },
+      "artists": [
+        {
+          "name": "LATIN MAFIA",
+          "url": "https://open.spotify.com/artist/6XTGKOV9jceQ6f67lnhpbF"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222545,
+      "name": "No digas nada",
+      "url": "https://open.spotify.com/track/24lqVtYdnA1NhYd37XFOPb"
     },
     {
       "album": {
@@ -4306,10 +4408,28 @@
       ],
       "date_added": "2023-01-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 153132,
       "name": "Vibras",
       "url": "https://open.spotify.com/track/2lavVNtQyc5hbMgaAmnQGU"
+    },
+    {
+      "album": {
+        "name": "Victoria",
+        "url": "https://open.spotify.com/album/7mf8M3rvY415MLnakBrboi"
+      },
+      "artists": [
+        {
+          "name": "Noa Sainz",
+          "url": "https://open.spotify.com/artist/3kN2uYBnEM2IqRxa69sxkr"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185843,
+      "name": "Victoria",
+      "url": "https://open.spotify.com/track/5pFhpiXdm55l9tbjo1cIP9"
     },
     {
       "album": {

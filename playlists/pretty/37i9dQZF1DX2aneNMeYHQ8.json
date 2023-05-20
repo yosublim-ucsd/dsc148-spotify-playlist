@@ -1,12 +1,12 @@
 {
   "description": "A little alt, folk, and indie rock sprinkled into this delicious melting pot. Cover: Grace Potter \n",
-  "num_followers": 466023,
+  "num_followers": 466071,
   "original_name": "Rockin' Vibes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0MjMzMDU4OWY5ZWZkNzQ2MjQ2Nzc2ZTllOTY2ZWIyNzc3NGQzNzhl",
+  "snapshot_id": "MCw1N2QyMDU0N2NlOWRhY2UzMzNkZGZmYzc1MDU2OWJlYjBjNzdlM2Y1",
   "tracks": [
     {
       "added_at": "2023-05-12 04:00:00",
@@ -447,22 +447,6 @@
     {
       "added_at": "2023-05-12 04:00:00",
       "album": {
-        "name": "Del Water Gap",
-        "url": "https://open.spotify.com/album/22ljnmjYzy4TS5tCtaRIUE"
-      },
-      "artists": [
-        {
-          "name": "Del Water Gap",
-          "url": "https://open.spotify.com/artist/0xPoVNPnxIIUS1vrxAYV00"
-        }
-      ],
-      "duration_ms": 199232,
-      "name": "Ode to a Conversation Stuck in Your Throat",
-      "url": "https://open.spotify.com/track/51Lf3l6wx008NdBxCQnD6B"
-    },
-    {
-      "added_at": "2023-05-12 04:00:00",
-      "album": {
         "name": "Wet Leg",
         "url": "https://open.spotify.com/album/0r9awI5WRCZpwk0aVQ4bKO"
       },
@@ -475,6 +459,22 @@
       "duration_ms": 196905,
       "name": "Chaise Longue",
       "url": "https://open.spotify.com/track/0nys6GusuHnjSYLW0PYYb7"
+    },
+    {
+      "added_at": "2023-05-12 04:00:00",
+      "album": {
+        "name": "Del Water Gap",
+        "url": "https://open.spotify.com/album/22ljnmjYzy4TS5tCtaRIUE"
+      },
+      "artists": [
+        {
+          "name": "Del Water Gap",
+          "url": "https://open.spotify.com/artist/0xPoVNPnxIIUS1vrxAYV00"
+        }
+      ],
+      "duration_ms": 199232,
+      "name": "Ode to a Conversation Stuck in Your Throat",
+      "url": "https://open.spotify.com/track/51Lf3l6wx008NdBxCQnD6B"
     },
     {
       "added_at": "2023-05-12 04:00:00",
@@ -775,22 +775,6 @@
     {
       "added_at": "2023-05-12 04:00:00",
       "album": {
-        "name": "Easy Now",
-        "url": "https://open.spotify.com/album/02bVPxzxY5E5yCmCuupRQT"
-      },
-      "artists": [
-        {
-          "name": "Noel Gallagher's High Flying Birds",
-          "url": "https://open.spotify.com/artist/7sjttK1WcZeyLPn3IsQ62L"
-        }
-      ],
-      "duration_ms": 233164,
-      "name": "Easy Now",
-      "url": "https://open.spotify.com/track/5uXWyJvnSIot8vVu8M4GGj"
-    },
-    {
-      "added_at": "2023-05-12 04:00:00",
-      "album": {
         "name": "Psychos",
         "url": "https://open.spotify.com/album/0siRBdRYz6ECU6EZArzbx1"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 185120,
       "name": "Psychos",
       "url": "https://open.spotify.com/track/4CaM2lWgvmWLIBDOkJCD7p"
+    },
+    {
+      "added_at": "2023-05-12 04:00:00",
+      "album": {
+        "name": "Easy Now",
+        "url": "https://open.spotify.com/album/02bVPxzxY5E5yCmCuupRQT"
+      },
+      "artists": [
+        {
+          "name": "Noel Gallagher's High Flying Birds",
+          "url": "https://open.spotify.com/artist/7sjttK1WcZeyLPn3IsQ62L"
+        }
+      ],
+      "duration_ms": 233164,
+      "name": "Easy Now",
+      "url": "https://open.spotify.com/track/5uXWyJvnSIot8vVu8M4GGj"
     },
     {
       "added_at": "2023-05-12 04:00:00",
@@ -903,22 +903,6 @@
     {
       "added_at": "2023-05-12 04:00:00",
       "album": {
-        "name": "The Love Still Held Me Near",
-        "url": "https://open.spotify.com/album/57arSTDRPVYZRm6uIuR1ym"
-      },
-      "artists": [
-        {
-          "name": "City and Colour",
-          "url": "https://open.spotify.com/artist/74gcBzlQza1bSfob90yRhR"
-        }
-      ],
-      "duration_ms": 257906,
-      "name": "Meant to Be",
-      "url": "https://open.spotify.com/track/29BYcl5IptV6B5jfJRNq4o"
-    },
-    {
-      "added_at": "2023-05-12 04:00:00",
-      "album": {
         "name": "Oregon / Harvard",
         "url": "https://open.spotify.com/album/1JLuplmuYwh4sgCitKhB8I"
       },
@@ -931,6 +915,22 @@
       "duration_ms": 198413,
       "name": "Oregon",
       "url": "https://open.spotify.com/track/0Z250T6pdgYBawnGvmAY13"
+    },
+    {
+      "added_at": "2023-05-12 04:00:00",
+      "album": {
+        "name": "The Love Still Held Me Near",
+        "url": "https://open.spotify.com/album/57arSTDRPVYZRm6uIuR1ym"
+      },
+      "artists": [
+        {
+          "name": "City and Colour",
+          "url": "https://open.spotify.com/artist/74gcBzlQza1bSfob90yRhR"
+        }
+      ],
+      "duration_ms": 257906,
+      "name": "Meant to Be",
+      "url": "https://open.spotify.com/track/29BYcl5IptV6B5jfJRNq4o"
     },
     {
       "added_at": "2023-05-12 04:00:00",
@@ -1143,22 +1143,6 @@
     {
       "added_at": "2023-05-12 04:00:00",
       "album": {
-        "name": "The Tipping Point",
-        "url": "https://open.spotify.com/album/6xKxlHD3mWkKoMtl3ZVyLt"
-      },
-      "artists": [
-        {
-          "name": "Tears For Fears",
-          "url": "https://open.spotify.com/artist/4bthk9UfsYUYdcFyqxmSUU"
-        }
-      ],
-      "duration_ms": 253226,
-      "name": "The Tipping Point",
-      "url": "https://open.spotify.com/track/19ug3juWuv5wxSNZzTnFZ5"
-    },
-    {
-      "added_at": "2023-05-12 04:00:00",
-      "album": {
         "name": "The Cannonballers",
         "url": "https://open.spotify.com/album/12T59Aqwe8DMlcmZrOHpQW"
       },
@@ -1171,6 +1155,22 @@
       "duration_ms": 172000,
       "name": "Cannonballers",
       "url": "https://open.spotify.com/track/2f0uekb8fxtGo8eRGFVM2B"
+    },
+    {
+      "added_at": "2023-05-12 04:00:00",
+      "album": {
+        "name": "The Tipping Point",
+        "url": "https://open.spotify.com/album/6xKxlHD3mWkKoMtl3ZVyLt"
+      },
+      "artists": [
+        {
+          "name": "Tears For Fears",
+          "url": "https://open.spotify.com/artist/4bthk9UfsYUYdcFyqxmSUU"
+        }
+      ],
+      "duration_ms": 253226,
+      "name": "The Tipping Point",
+      "url": "https://open.spotify.com/track/19ug3juWuv5wxSNZzTnFZ5"
     },
     {
       "added_at": "2023-05-12 04:00:00",
@@ -1351,22 +1351,6 @@
     {
       "added_at": "2023-05-12 04:00:00",
       "album": {
-        "name": "Sweet Unknown",
-        "url": "https://open.spotify.com/album/6wnl46UovNWpw56ZBQKYPR"
-      },
-      "artists": [
-        {
-          "name": "Ceramic Animal",
-          "url": "https://open.spotify.com/artist/42PLkpL4mM4Szp7fiyj15X"
-        }
-      ],
-      "duration_ms": 227373,
-      "name": "Tangled",
-      "url": "https://open.spotify.com/track/4LbzdtRMTssvtEiGaf1lnS"
-    },
-    {
-      "added_at": "2023-05-12 04:00:00",
-      "album": {
         "name": "Pretty Monster",
         "url": "https://open.spotify.com/album/3UqBWziPrsp5pXDR2cJI2P"
       },
@@ -1379,6 +1363,22 @@
       "duration_ms": 200622,
       "name": "What\u2019s It Take To Be Happy?",
       "url": "https://open.spotify.com/track/6alaXw9ipZ6ajVjXpQ3kDy"
+    },
+    {
+      "added_at": "2023-05-12 04:00:00",
+      "album": {
+        "name": "Sweet Unknown",
+        "url": "https://open.spotify.com/album/6wnl46UovNWpw56ZBQKYPR"
+      },
+      "artists": [
+        {
+          "name": "Ceramic Animal",
+          "url": "https://open.spotify.com/artist/42PLkpL4mM4Szp7fiyj15X"
+        }
+      ],
+      "duration_ms": 227373,
+      "name": "Tangled",
+      "url": "https://open.spotify.com/track/4LbzdtRMTssvtEiGaf1lnS"
     },
     {
       "added_at": "2023-05-12 04:00:00",
@@ -1483,22 +1483,6 @@
     {
       "added_at": "2023-05-12 04:00:00",
       "album": {
-        "name": "Sea Star",
-        "url": "https://open.spotify.com/album/0URdpTy2ATMgRxbGrGvRvs"
-      },
-      "artists": [
-        {
-          "name": "St. Paul & The Broken Bones",
-          "url": "https://open.spotify.com/artist/4fXkvh05wFhuH77MfD4m9o"
-        }
-      ],
-      "duration_ms": 207786,
-      "name": "Sea Star",
-      "url": "https://open.spotify.com/track/5r1XMGZto3kRLwCHpUundp"
-    },
-    {
-      "added_at": "2023-05-12 04:00:00",
-      "album": {
         "name": "Rides On",
         "url": "https://open.spotify.com/album/5rhWpaut3ohLsONxiS3ffn"
       },
@@ -1543,6 +1527,22 @@
       "duration_ms": 286887,
       "name": "Long Way",
       "url": "https://open.spotify.com/track/5lfBJMEglgfzK2cTMrHuSy"
+    },
+    {
+      "added_at": "2023-05-12 04:00:00",
+      "album": {
+        "name": "Sea Star",
+        "url": "https://open.spotify.com/album/0URdpTy2ATMgRxbGrGvRvs"
+      },
+      "artists": [
+        {
+          "name": "St. Paul & The Broken Bones",
+          "url": "https://open.spotify.com/artist/4fXkvh05wFhuH77MfD4m9o"
+        }
+      ],
+      "duration_ms": 207786,
+      "name": "Sea Star",
+      "url": "https://open.spotify.com/track/5r1XMGZto3kRLwCHpUundp"
     },
     {
       "added_at": "2023-05-12 04:00:00",

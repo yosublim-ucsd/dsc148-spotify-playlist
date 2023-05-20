@@ -2,9 +2,9 @@
 
 ### [Trapperz Chile](https://open.spotify.com/playlist/37i9dQZF1DWZRy1LwINMSK)
 
-> La casa del trap chileno\. Foto: Julianno Sosa.
+> La casa del trap chileno\. Foto: AKRIILA.
 
-151 songs - 8 hr 13 min
+152 songs - 8 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -81,6 +81,7 @@
 | [MaMa](https://open.spotify.com/track/3bOawk8qClklX3sEhefu96) | [Pekeño 77](https://open.spotify.com/artist/5eIRbSES1yeGSBuqZ4xvuD), [Harry Nach](https://open.spotify.com/artist/0NnUMWDCDi1snuMja6IdxH) | [SIN PRONTUARIO](https://open.spotify.com/album/0JhThijVyy7mFSewn2Bkgx) | 2:24 | 2022-08-25 |  |
 | [MaMa](https://open.spotify.com/track/36AOJ35vNMNlWw9OWpwmKe) | [Pekeño 77, Harry Nach](https://open.spotify.com/artist/5vpqWXcT00uzdG9jtwk5fT) | [SIN PRONTUARIO](https://open.spotify.com/album/6Qfbi4ZYbhlQxjcddwg1G0) | 2:24 | 2022-01-20 | 2022-08-27 |
 | [Manifiesto](https://open.spotify.com/track/7rXnH5CggkXAAIxWHh0U0H) | [Loyaltty](https://open.spotify.com/artist/5DDpDYLDv4xasIBS6kp2wf) | [Mami Trap](https://open.spotify.com/album/6WGQyk4qU39c8CUx07IzSc) | 2:27 | 2023-02-24 |  |
+| [MARILÚ](https://open.spotify.com/track/1sWj4tgMHEtwM4NWGSXbdj) | [AKRIILA](https://open.spotify.com/artist/39hfuTf4PHfnHgIl0QBDGL), [Aqua VS](https://open.spotify.com/artist/0bcZsLQV8MCeU0ylWbw23p) | [MARILÚ](https://open.spotify.com/album/4v94l0rjxYHcsF74Lo7yVm) | 2:45 | 2023-05-19 |  |
 | [Mbappe](https://open.spotify.com/track/5hCTIIK0Ve0quCvSD7ZIQO) | [Poison Kid](https://open.spotify.com/artist/5gdLCbByMUjFLhbOj8NC14) | [Mbappe](https://open.spotify.com/album/4RE6vtGPolcMBrocUcdcoK) | 2:15 | 2022-03-11 | 2022-05-28 |
 | [Me Quieren Ver Mal](https://open.spotify.com/track/2w0oJX9IAyLmpf07d2KmF3) | [5 Estrellas](https://open.spotify.com/artist/28fYQygn5mudpIdMRBpJgO), [Julianno Sosa](https://open.spotify.com/artist/4IC2X34tZmHG3VfTbpzvwL), [BlackRoy](https://open.spotify.com/artist/7dHiLDmaaoJ7XwEqWCcIah), [Claps](https://open.spotify.com/artist/4LvpFsMRq1A6yGVD7D2X6c) | [Me Quieren Ver Mal](https://open.spotify.com/album/31sabNmRapJ0J6HZNCIucU) | 5:18 | 2022-01-20 |  |
 | [Me Quiero Lanzar \- Remix](https://open.spotify.com/track/1z7dwR3FaSPhbSuIwSuTXX) | [Nacion Triizy](https://open.spotify.com/artist/1CyD1Oj8R2nR5f27cV1q1J), [Ceaese](https://open.spotify.com/artist/580taoAhpqvyGCRoJsVdw9), [Malito Malozo](https://open.spotify.com/artist/1FuJ52kzTUVS0HITGdgkLD), [Chocolate Blanco](https://open.spotify.com/artist/4ARN4DVH7hoHQvie0zptff), [Fusok](https://open.spotify.com/artist/7eCRGFriuw87zy6evjErXh) | [Me Quiero Lanzar \(Remix\)](https://open.spotify.com/album/06kzh1Vgvy6pWUDdJZd9ol) | 4:34 | 2022-01-20 |  |

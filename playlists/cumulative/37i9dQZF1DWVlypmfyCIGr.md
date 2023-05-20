@@ -4,7 +4,7 @@
 
 > 独自の進化を遂げる日本のポップ文化。「キラキラポップ」なナンバーをひとつのプレイリストに。Curated by ふくりゅう（音楽コンシェルジュ）Cover: \*Luna
 
-3,425 songs - 8 day 17 hr 21 min
+3,426 songs - 8 day 17 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1538,7 +1538,8 @@
 | [Sink/Rise](https://open.spotify.com/track/0BK0m2JyG4fzFF9sNADD1v) | [APOGEE](https://open.spotify.com/artist/5vLL9VcCC2y13B2BKs2uWI) | [Sink/Rise](https://open.spotify.com/album/16WTNmbsaknHt5lvT5et5v) | 4:26 | 2021-12-21 | 2022-01-17 |
 | [Sins](https://open.spotify.com/track/1aVjjQteyKCFOpHYieRDd1) | [Furui Riho](https://open.spotify.com/artist/6OgsusVzVrkzCvbXpv6GWh) | [Sins](https://open.spotify.com/album/6WcCS6Hi9nbSRpdYhJBSxS) | 4:01 | 2021-10-13 | 2021-10-27 |
 | [Sister \- 2022 Remaster](https://open.spotify.com/track/2dsBiPnwwmfgpZp14J2Bod) | [Casino Drive](https://open.spotify.com/artist/1RLlAgFjxx3D7NPCPap3n1) | [Fever Visions \(2022 Remaster\)](https://open.spotify.com/album/77H4OrLxr3kLogEWzVe8DO) | 4:25 | 2022-08-08 | 2022-08-16 |
-| [Skeleton Wedding](https://open.spotify.com/track/6MA06mHqROlTYnwXi6v4TN) | [CHAMELEON LIME WHOOPIEPIE](https://open.spotify.com/artist/1uP5mPkWII7Tcxp7xtqPmj) | [Skeleton Wedding](https://open.spotify.com/album/4s7RVl8tdJLaY2lHCxJENq) | 3:37 | 2023-05-08 |  |
+| [Skeleton Wedding](https://open.spotify.com/track/6MA06mHqROlTYnwXi6v4TN) | [CHAMELEON LIME WHOOPIEPIE](https://open.spotify.com/artist/1uP5mPkWII7Tcxp7xtqPmj) | [Skeleton Wedding](https://open.spotify.com/album/4s7RVl8tdJLaY2lHCxJENq) | 3:37 | 2023-05-08 | 2023-05-20 |
+| [Skeleton Wedding](https://open.spotify.com/track/6pSj1AOYnYcRIyhf0Iutsm) | [CHAMELEON LIME WHOOPIEPIE](https://open.spotify.com/artist/1uP5mPkWII7Tcxp7xtqPmj) | [Orange](https://open.spotify.com/album/1GtBPVV99IEUhqdoJRCds8) | 3:37 | 2023-05-15 |  |
 | [SKIMMING ME!!](https://open.spotify.com/track/11Vw6lK0wuADhnZZv1Jg51) | [SPARK!!SOUND!!SHOW!!](https://open.spotify.com/artist/1bFs9Etj0H2sq0vmmwmmDU), [Sae Asami](https://open.spotify.com/artist/2mwPJPD8q4BvWm6YwtD5vW) | [SKIMMING ME!!](https://open.spotify.com/album/0T2OoZqSHQbZwGRToa7UFM) | 1:33 | 2022-10-10 | 2022-10-25 |
 | [Skirt](https://open.spotify.com/track/6gYNFKfuSWakzmNBOCyYdW) | [TEENAGER SEX LESS](https://open.spotify.com/artist/6KgFnEhjYuiurNHGEoYCYn) | [Skirt](https://open.spotify.com/album/4vBykSbjYyzGWgFqTbJ40B) | 5:05 | 2022-02-22 | 2022-03-02 |
 | [Sky Cruising \- \(Remastered 2021\)](https://open.spotify.com/track/1zLBlxRc9XEEYuCiY589ip) | [Kentaro Nishida](https://open.spotify.com/artist/5eOkeSZX1AY9Ted4BksGc3) | [Starship \(Remastered 2021\)](https://open.spotify.com/album/3EIjce6KdW6Vrqd0eFHVpj) | 3:44 | 2021-10-09\* | 2021-10-20 |

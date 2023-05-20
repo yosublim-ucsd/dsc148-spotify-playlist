@@ -2507,6 +2507,28 @@
     },
     {
       "album": {
+        "name": "Dendisa",
+        "url": "https://open.spotify.com/album/1uSSXiCyplT46MTqfia54L"
+      },
+      "artists": [
+        {
+          "name": "Gaz Mawete",
+          "url": "https://open.spotify.com/artist/4WSA56zRr2ZBnbQqVNrMay"
+        },
+        {
+          "name": "Niska",
+          "url": "https://open.spotify.com/artist/7CUFPNi1TU8RowpnFRSsZV"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246101,
+      "name": "Dendisa",
+      "url": "https://open.spotify.com/track/4pCgqcgvfx0VQwzgzY63Vw"
+    },
+    {
+      "album": {
         "name": "DESERVE IT ALL",
         "url": "https://open.spotify.com/album/4aUXpWMLw5RbntmJm3vy6L"
       },
@@ -2698,7 +2720,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 127067,
       "name": "Duffel Bag",
       "url": "https://open.spotify.com/track/3d04OfVqip9ZQdvboUsPg3"
@@ -2942,7 +2964,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 204714,
       "name": "Eye Contact",
       "url": "https://open.spotify.com/track/6R2ILXYZSCrCpZUtFC9IJM"
@@ -2982,6 +3004,28 @@
       "duration_ms": 240000,
       "name": "Fall",
       "url": "https://open.spotify.com/track/4ou5xyFUJX4VwX76tw1qb1"
+    },
+    {
+      "album": {
+        "name": "Feel It",
+        "url": "https://open.spotify.com/album/1SYgCeP4pcUKZw7f8NPMgF"
+      },
+      "artists": [
+        {
+          "name": "Yung Bredda",
+          "url": "https://open.spotify.com/artist/10AVFI86WCq4tNhY31g6FL"
+        },
+        {
+          "name": "Optimus Productionstt",
+          "url": "https://open.spotify.com/artist/3koUXwy5R38DSWqJ20mUT1"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180272,
+      "name": "Feel It",
+      "url": "https://open.spotify.com/track/2yhSSTHmHMw7UVciSo80ey"
     },
     {
       "album": {
@@ -4748,7 +4792,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 148800,
       "name": "KU LO SA (with Camila Cabello)",
       "url": "https://open.spotify.com/track/0HihDC6qQ8MChAhjfW3gMU"
@@ -5856,7 +5900,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 203383,
       "name": "MOVE (feat. Grace Jones & Tems)",
       "url": "https://open.spotify.com/track/5YLGlPYkZBDXieMwzVve7g"
@@ -6145,6 +6189,28 @@
     },
     {
       "album": {
+        "name": "1DA SHALL NEVER END",
+        "url": "https://open.spotify.com/album/71DBsdMhCN3FgBRM1YicpT"
+      },
+      "artists": [
+        {
+          "name": "1da Banton",
+          "url": "https://open.spotify.com/artist/6dlzQ6fiPna40trq1Ek6cb"
+        },
+        {
+          "name": "255",
+          "url": "https://open.spotify.com/artist/7dNuDxuZN795qebo6RlTwK"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194499,
+      "name": "No Love in Lagos",
+      "url": "https://open.spotify.com/track/4chodBBB3GGkZ9J5E1Aned"
+    },
+    {
+      "album": {
         "name": "No Mercy",
         "url": "https://open.spotify.com/album/0L7p2x1XWK0Ooh4GDy9nGG"
       },
@@ -6230,6 +6296,32 @@
       "duration_ms": 266960,
       "name": "No Way - Poirier Remix",
       "url": "https://open.spotify.com/track/0URxsbixZ698SUHcyRZQpv"
+    },
+    {
+      "album": {
+        "name": "Body & Soul",
+        "url": "https://open.spotify.com/album/1TGcgugu0CxUp5rhS7SyCW"
+      },
+      "artists": [
+        {
+          "name": "Joeboy",
+          "url": "https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF"
+        },
+        {
+          "name": "BNXN fka Buju",
+          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
+        },
+        {
+          "name": "ODUMODUBLVCK",
+          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204631,
+      "name": "Normally",
+      "url": "https://open.spotify.com/track/4cPKw3rzgmaU4zixJe6wge"
     },
     {
       "album": {
@@ -6684,6 +6776,28 @@
       "duration_ms": 194526,
       "name": "Outside (Soft Life)",
       "url": "https://open.spotify.com/track/4isR8MCLeKvcRcGT2fLdaW"
+    },
+    {
+      "album": {
+        "name": "OVAMI",
+        "url": "https://open.spotify.com/album/2HYi42ojRq0cI1qiTttMj3"
+      },
+      "artists": [
+        {
+          "name": "Oxlade",
+          "url": "https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT"
+        },
+        {
+          "name": "Flavour",
+          "url": "https://open.spotify.com/artist/0oKNR4ahj1CPnK2kQmbOfo"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204000,
+      "name": "OVAMI",
+      "url": "https://open.spotify.com/track/1QO7M1UGJsHno3cf5aHCri"
     },
     {
       "album": {
@@ -8623,6 +8737,28 @@
     },
     {
       "album": {
+        "name": "soso",
+        "url": "https://open.spotify.com/album/7HdbhvT4lPpA6gkoqQGuzT"
+      },
+      "artists": [
+        {
+          "name": "Omah Lay",
+          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
+        },
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202012,
+      "name": "soso",
+      "url": "https://open.spotify.com/track/4GdvTdL7T1w1RoQlMBmC8k"
+    },
+    {
+      "album": {
         "name": "Soweto (with Don Toliver, Rema, and Tempoe)",
         "url": "https://open.spotify.com/album/6VZ6icUuxAtSKVxPWlQvug"
       },
@@ -10064,7 +10200,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 229773,
       "name": "We Set Di Trend",
       "url": "https://open.spotify.com/track/6sqdJmAtZnVGA6wbh3QNa3"

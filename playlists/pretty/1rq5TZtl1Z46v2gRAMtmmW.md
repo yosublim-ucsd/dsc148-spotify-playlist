@@ -4,20 +4,20 @@ pretty - [cumulative](/playlists/cumulative/1rq5TZtl1Z46v2gRAMtmmW.md) - [plain]
 
 > 
 
-[Ninja Tune](https://open.spotify.com/user/ninja-tune) - 27,876 likes - 40 songs - 2 hr 44 min
+[Ninja Tune](https://open.spotify.com/user/ninja-tune) - 27,881 likes - 40 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Each Night](https://open.spotify.com/track/2mmdmrvte40p2MQEAdRWQE) | [Poolside](https://open.spotify.com/artist/5szdY7KaSi7epwyffrbV8c), [Mazy](https://open.spotify.com/artist/4WMADzlMfGO7djHGfBAIKU) | [Each Night](https://open.spotify.com/album/5YIl7vJtp7s9LwH2NS3kkc) | 4:46 |
-| 2 | [The Universe](https://open.spotify.com/track/2GnGCPgB2ufQqvSuCBedwA) | [Róisín Murphy](https://open.spotify.com/artist/3qwabfaWewpfli7hMNM3O8), [DJ Koze](https://open.spotify.com/artist/1kR99O4MgSTasyeJh8UFCg) | [The Universe](https://open.spotify.com/album/2JKrj31ZTIjy8voQ7azDzC) | 4:05 |
-| 3 | [No More Lies](https://open.spotify.com/track/62tGzw9OJOwDcjPBnMPCuj) | [Thundercat](https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw), [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [No More Lies](https://open.spotify.com/album/2M0NVS1dhyis57BJp7REZt) | 5:27 |
+| 1 | [The Universe](https://open.spotify.com/track/2GnGCPgB2ufQqvSuCBedwA) | [Róisín Murphy](https://open.spotify.com/artist/3qwabfaWewpfli7hMNM3O8), [DJ Koze](https://open.spotify.com/artist/1kR99O4MgSTasyeJh8UFCg) | [The Universe](https://open.spotify.com/album/2JKrj31ZTIjy8voQ7azDzC) | 4:05 |
+| 2 | [No More Lies](https://open.spotify.com/track/62tGzw9OJOwDcjPBnMPCuj) | [Thundercat](https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw), [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [No More Lies](https://open.spotify.com/album/2M0NVS1dhyis57BJp7REZt) | 5:27 |
+| 3 | [Each Night](https://open.spotify.com/track/2mmdmrvte40p2MQEAdRWQE) | [Poolside](https://open.spotify.com/artist/5szdY7KaSi7epwyffrbV8c), [Mazy](https://open.spotify.com/artist/4WMADzlMfGO7djHGfBAIKU) | [Each Night](https://open.spotify.com/album/5YIl7vJtp7s9LwH2NS3kkc) | 4:46 |
 | 4 | [CooCool](https://open.spotify.com/track/6NRNXenSNtuo5vVkuAq7EN) | [Róisín Murphy](https://open.spotify.com/artist/3qwabfaWewpfli7hMNM3O8), [DJ Koze](https://open.spotify.com/artist/1kR99O4MgSTasyeJh8UFCg) | [The Universe](https://open.spotify.com/album/2JKrj31ZTIjy8voQ7azDzC) | 4:31 |
 | 5 | [Meant To Be](https://open.spotify.com/track/4YRw7jcTBGAUHWktyn0msf) | [Jayda G](https://open.spotify.com/artist/3NKVm2Jedcf6ibJr6pMUVx) | [Meant To Be](https://open.spotify.com/album/1Wn3OmksyMkgzvzE7dEIhc) | 3:44 |
 | 6 | [Kenneth](https://open.spotify.com/track/4ps9Hugwa38njNmedG9c4K) | [Little Dragon](https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps) | [Kenneth](https://open.spotify.com/album/4C4t410jpJg0H7pBptTuN4) | 3:49 |
-| 7 | [Tell Me](https://open.spotify.com/track/4Z1olDl8aym5xZYZAat672) | [Rahill](https://open.spotify.com/artist/0a0L1YLGhMT64hsSh9M9aM) | [Flowers At Your Feet](https://open.spotify.com/album/2SAtIfz2jFRAn36xCUT8xd) | 2:41 |
-| 8 | [Gentle Heart](https://open.spotify.com/track/1OFjWqPsPZ2rJLrfPPcvka) | [Nabihah Iqbal](https://open.spotify.com/artist/7pPOvwCq4bb2iObs8twDir) | [DREAMER](https://open.spotify.com/album/1Jr7mHRUgVIbdnbC6LI07M) | 5:45 |
-| 9 | [Feels Just Like it](https://open.spotify.com/track/1hEnVkgNq0t9WFO5Smzq5Y) | [LP Giobbi](https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J), [Caroline Byrne](https://open.spotify.com/artist/2tVd9Bpt5Li9UsmKwhJ1nG) | [Light Places](https://open.spotify.com/album/5k3OoQgNSIK8dt0WhRRKku) | 4:01 |
-| 10 | [Sugar Coating \- Edit](https://open.spotify.com/track/4dQi75NfxBM2XrUQCmCKfP) | [Salami Rose Joe Louis](https://open.spotify.com/artist/6EHS9kZ9PpeXaJ4wZO3FSX) | [Sugar Coating](https://open.spotify.com/album/1VKV9JOtOEbfWEKHAxvXBb) | 3:10 |
+| 7 | [Dimensional Collapse](https://open.spotify.com/track/66xZGaUTemdYDePZaUWrRM) | [Salami Rose Joe Louis](https://open.spotify.com/artist/6EHS9kZ9PpeXaJ4wZO3FSX) | [Akousmatikous](https://open.spotify.com/album/2rIjJDL6c2IlN8rrWOhwGD) | 3:40 |
+| 8 | [Tell Me](https://open.spotify.com/track/4Z1olDl8aym5xZYZAat672) | [Rahill](https://open.spotify.com/artist/0a0L1YLGhMT64hsSh9M9aM) | [Flowers At Your Feet](https://open.spotify.com/album/2SAtIfz2jFRAn36xCUT8xd) | 2:41 |
+| 9 | [Gentle Heart](https://open.spotify.com/track/1OFjWqPsPZ2rJLrfPPcvka) | [Nabihah Iqbal](https://open.spotify.com/artist/7pPOvwCq4bb2iObs8twDir) | [DREAMER](https://open.spotify.com/album/1Jr7mHRUgVIbdnbC6LI07M) | 5:45 |
+| 10 | [Feels Just Like it](https://open.spotify.com/track/1hEnVkgNq0t9WFO5Smzq5Y) | [LP Giobbi](https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J), [Caroline Byrne](https://open.spotify.com/artist/2tVd9Bpt5Li9UsmKwhJ1nG) | [Light Places](https://open.spotify.com/album/5k3OoQgNSIK8dt0WhRRKku) | 4:01 |
 | 11 | [All We Need \- ODESZA VIP Remix](https://open.spotify.com/track/0gGSxG7r332R7Vgvk24GHY) | [ODESZA](https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw), [Shy Girls](https://open.spotify.com/artist/4oFdxup3UmMDNoLLITyDrs) | [The Last Goodbye \(Deluxe Edition\)](https://open.spotify.com/album/1ZSBGvgxsWbX1i5gdz4gUM) | 3:30 |
 | 12 | [Flite](https://open.spotify.com/track/4pDoFHC8UKRXix1lwng6YO) | [The Cinematic Orchestra](https://open.spotify.com/artist/32ogthv0BdaSMPml02X9YB) | [Every Day \(20th Anniversary Edition\)](https://open.spotify.com/album/0FoPSDUnpwirDsVx8GjSDD) | 6:35 |
 | 13 | [Dreamer](https://open.spotify.com/track/4VwxfY2vOzrf0LXb4HFEvk) | [Nabihah Iqbal](https://open.spotify.com/artist/7pPOvwCq4bb2iObs8twDir) | [Dreamer](https://open.spotify.com/album/1U0eun2BDlw7RyLomRJv0V) | 3:53 |
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/1rq5TZtl1Z46v2gRAMtmmW.md) - [plain]
 | 39 | [Dancing In The Shadows](https://open.spotify.com/track/2edB8M0PPZCoYKm8ohDaNm) | [TSHA](https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh), [Clementine Douglas](https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6) | [Dancing In The Shadows](https://open.spotify.com/album/2rJpFV7L5MsabqxrEeHVd6) | 4:37 |
 | 40 | [Hey Baby \- Edit](https://open.spotify.com/track/7MndqEJo8v79ZzT0dfkVdE) | [I\. JORDAN](https://open.spotify.com/artist/5RMLpCv3ic2KtGnqJ7eMG4) | [Hey Baby](https://open.spotify.com/album/5SFR0BM59foRYgSloVXkWI) | 3:20 |
 
-Snapshot ID: `MzM1NSwyNTU0OGQ0YmNmM2VlYTA0NTAxMjM2ZTdmNzRlN2U1MzA2ZDFiZTZj`
+Snapshot ID: `MzM1OSw0NzFmNDUyZGZlYmM2ZjhkNTc5YmFlNzNiZjYwOGIzOWM5NTZiYTI4`

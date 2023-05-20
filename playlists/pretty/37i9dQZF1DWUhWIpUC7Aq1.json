@@ -1,12 +1,12 @@
 {
   "description": "Not your manic pixie dream girl, just twee af. Cover: Zooey Deschanel",
-  "num_followers": 99044,
+  "num_followers": 99208,
   "original_name": "Twee",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzZTQzNWU4MzMwYTFjMGExNjI2M2Y2NTIwM2ViYjEyYzQ3Y2FmZDNl",
+  "snapshot_id": "MCw1ZWU4ZDc3MDBkZGJkMzE2YTdhYmJkMmJlODZjZWQ5OGRhYmU3ZWJi",
   "tracks": [
     {
       "added_at": "2023-03-14 21:50:42",
@@ -237,7 +237,7 @@
       "url": "https://open.spotify.com/track/2UWdUez9MB9yzL7Y81Mcip"
     },
     {
-      "added_at": "2023-05-19 00:28:48",
+      "added_at": "2023-05-20 00:55:45",
       "album": {
         "name": "First Band On The Moon (Remastered)",
         "url": "https://open.spotify.com/album/56vFkneGivqQcoNQq362iZ"
@@ -495,22 +495,6 @@
     {
       "added_at": "2023-03-14 21:50:42",
       "album": {
-        "name": "Funeral",
-        "url": "https://open.spotify.com/album/6ZB8qaR9JNuS0Q0bG1nbcH"
-      },
-      "artists": [
-        {
-          "name": "Arcade Fire",
-          "url": "https://open.spotify.com/artist/3kjuyTCjPG1WMFCiyc5IuB"
-        }
-      ],
-      "duration_ms": 310893,
-      "name": "Rebellion (Lies)",
-      "url": "https://open.spotify.com/track/0xOeB16JDbBJBJKSdHbElT"
-    },
-    {
-      "added_at": "2023-03-14 21:50:42",
-      "album": {
         "name": "My Head Is An Animal",
         "url": "https://open.spotify.com/album/6uD3oJCWT1gtlSCg5lDiNF"
       },
@@ -523,6 +507,22 @@
       "duration_ms": 211453,
       "name": "Mountain Sound",
       "url": "https://open.spotify.com/track/60ZGteAEtPCnGE6zevgUcd"
+    },
+    {
+      "added_at": "2023-03-14 21:50:42",
+      "album": {
+        "name": "Funeral",
+        "url": "https://open.spotify.com/album/6ZB8qaR9JNuS0Q0bG1nbcH"
+      },
+      "artists": [
+        {
+          "name": "Arcade Fire",
+          "url": "https://open.spotify.com/artist/3kjuyTCjPG1WMFCiyc5IuB"
+        }
+      ],
+      "duration_ms": 310893,
+      "name": "Rebellion (Lies)",
+      "url": "https://open.spotify.com/track/0xOeB16JDbBJBJKSdHbElT"
     },
     {
       "added_at": "2023-03-14 21:50:42",
@@ -707,22 +707,6 @@
     {
       "added_at": "2023-03-14 21:50:42",
       "album": {
-        "name": "The Moldy Peaches",
-        "url": "https://open.spotify.com/album/4FD8WC9s2yohxwVTp9f236"
-      },
-      "artists": [
-        {
-          "name": "The Moldy Peaches",
-          "url": "https://open.spotify.com/artist/7GGv4mV9JTJK9e7nIzUliU"
-        }
-      ],
-      "duration_ms": 180093,
-      "name": "Anyone Else But You",
-      "url": "https://open.spotify.com/track/2pKi1lRvXNASy7ybeQIDTy"
-    },
-    {
-      "added_at": "2023-03-14 21:50:42",
-      "album": {
         "name": "Rockferry",
         "url": "https://open.spotify.com/album/6freV6eqxuFjSr3E93Oqtz"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 219920,
       "name": "Mercy",
       "url": "https://open.spotify.com/track/78twQ5XCFJMTE37ZSU0gsj"
+    },
+    {
+      "added_at": "2023-03-14 21:50:42",
+      "album": {
+        "name": "The Moldy Peaches",
+        "url": "https://open.spotify.com/album/4FD8WC9s2yohxwVTp9f236"
+      },
+      "artists": [
+        {
+          "name": "The Moldy Peaches",
+          "url": "https://open.spotify.com/artist/7GGv4mV9JTJK9e7nIzUliU"
+        }
+      ],
+      "duration_ms": 180093,
+      "name": "Anyone Else But You",
+      "url": "https://open.spotify.com/track/2pKi1lRvXNASy7ybeQIDTy"
     },
     {
       "added_at": "2023-03-14 21:50:42",
@@ -1059,22 +1059,6 @@
     {
       "added_at": "2023-03-14 21:50:42",
       "album": {
-        "name": "Pretty. Odd.",
-        "url": "https://open.spotify.com/album/7Hk9WbjPbN1n2GXaK7aldw"
-      },
-      "artists": [
-        {
-          "name": "Panic! At The Disco",
-          "url": "https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK"
-        }
-      ],
-      "duration_ms": 195013,
-      "name": "That Green Gentleman (Things Have Changed)",
-      "url": "https://open.spotify.com/track/2d1D1E8M48hHE99u6BO8RN"
-    },
-    {
-      "added_at": "2023-03-14 21:50:42",
-      "album": {
         "name": "Transatlanticism (10th Anniversary Edition)",
         "url": "https://open.spotify.com/album/5UKAhD2VmFAuThgq4OQyEe"
       },
@@ -1087,6 +1071,22 @@
       "duration_ms": 219266,
       "name": "Title and Registration",
       "url": "https://open.spotify.com/track/0COWVvFfJ7sPNI8CIS6TU7"
+    },
+    {
+      "added_at": "2023-03-14 21:50:42",
+      "album": {
+        "name": "Pretty. Odd.",
+        "url": "https://open.spotify.com/album/7Hk9WbjPbN1n2GXaK7aldw"
+      },
+      "artists": [
+        {
+          "name": "Panic! At The Disco",
+          "url": "https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK"
+        }
+      ],
+      "duration_ms": 195013,
+      "name": "That Green Gentleman (Things Have Changed)",
+      "url": "https://open.spotify.com/track/2d1D1E8M48hHE99u6BO8RN"
     },
     {
       "added_at": "2023-03-14 21:50:42",
@@ -1463,22 +1463,6 @@
     {
       "added_at": "2023-03-14 21:50:42",
       "album": {
-        "name": "Beat Happening",
-        "url": "https://open.spotify.com/album/2WydqvE6v9Nv06oXxM0xyA"
-      },
-      "artists": [
-        {
-          "name": "Beat Happening",
-          "url": "https://open.spotify.com/artist/1qHR9DMfOJQjvWLEfMZQlG"
-        }
-      ],
-      "duration_ms": 122466,
-      "name": "What\u2019s Important",
-      "url": "https://open.spotify.com/track/0wHAqXzMjoAeOC2aAFNVAS"
-    },
-    {
-      "added_at": "2023-03-14 21:50:42",
-      "album": {
         "name": "Let Me Introduce My Friends",
         "url": "https://open.spotify.com/album/0zbZ29KUQGBXvv8RpeXP3L"
       },
@@ -1495,18 +1479,18 @@
     {
       "added_at": "2023-03-14 21:50:42",
       "album": {
-        "name": "Give Up",
-        "url": "https://open.spotify.com/album/1BSwkKATGVCMgNuN8ve7mz"
+        "name": "Beat Happening",
+        "url": "https://open.spotify.com/album/2WydqvE6v9Nv06oXxM0xyA"
       },
       "artists": [
         {
-          "name": "The Postal Service",
-          "url": "https://open.spotify.com/artist/5yV1qdnmxyIYiSFB02wpDj"
+          "name": "Beat Happening",
+          "url": "https://open.spotify.com/artist/1qHR9DMfOJQjvWLEfMZQlG"
         }
       ],
-      "duration_ms": 261253,
-      "name": "Sleeping In",
-      "url": "https://open.spotify.com/track/7zQJyoUpnuey6ijp48zvng"
+      "duration_ms": 122466,
+      "name": "What\u2019s Important",
+      "url": "https://open.spotify.com/track/0wHAqXzMjoAeOC2aAFNVAS"
     },
     {
       "added_at": "2023-03-14 21:50:42",
@@ -1527,6 +1511,22 @@
     {
       "added_at": "2023-03-14 21:50:42",
       "album": {
+        "name": "Give Up",
+        "url": "https://open.spotify.com/album/1BSwkKATGVCMgNuN8ve7mz"
+      },
+      "artists": [
+        {
+          "name": "The Postal Service",
+          "url": "https://open.spotify.com/artist/5yV1qdnmxyIYiSFB02wpDj"
+        }
+      ],
+      "duration_ms": 261253,
+      "name": "Sleeping In",
+      "url": "https://open.spotify.com/track/7zQJyoUpnuey6ijp48zvng"
+    },
+    {
+      "added_at": "2023-03-14 21:50:42",
+      "album": {
         "name": "Punch-Drunk Love (Music from the Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/7sdNTTUH7F47pfAgXkSBUJ"
       },
@@ -1543,22 +1543,6 @@
     {
       "added_at": "2023-03-14 21:50:42",
       "album": {
-        "name": "The Sunlandic Twins",
-        "url": "https://open.spotify.com/album/2h79iBNx5cNPafy42aI1NE"
-      },
-      "artists": [
-        {
-          "name": "of Montreal",
-          "url": "https://open.spotify.com/artist/5xeBMeW0YzWIXSVzAxhM8O"
-        }
-      ],
-      "duration_ms": 210840,
-      "name": "I Was Never Young",
-      "url": "https://open.spotify.com/track/4E0aFRH5Nr8cIPm1CnqTvG"
-    },
-    {
-      "added_at": "2023-03-14 21:50:42",
-      "album": {
         "name": "Just Another Diamond Day",
         "url": "https://open.spotify.com/album/6BjFznpsyrxCFMpp3hzlD2"
       },
@@ -1571,6 +1555,22 @@
       "duration_ms": 136306,
       "name": "Glow Worms",
       "url": "https://open.spotify.com/track/4jovm2cvQh5HqTlH7xksdL"
+    },
+    {
+      "added_at": "2023-03-14 21:50:42",
+      "album": {
+        "name": "The Sunlandic Twins",
+        "url": "https://open.spotify.com/album/2h79iBNx5cNPafy42aI1NE"
+      },
+      "artists": [
+        {
+          "name": "of Montreal",
+          "url": "https://open.spotify.com/artist/5xeBMeW0YzWIXSVzAxhM8O"
+        }
+      ],
+      "duration_ms": 210840,
+      "name": "I Was Never Young",
+      "url": "https://open.spotify.com/track/4E0aFRH5Nr8cIPm1CnqTvG"
     },
     {
       "added_at": "2023-03-14 21:50:42",

@@ -4,7 +4,7 @@
 
 > Aperte o play e dance com os maiores nomes da música eletrônica nacional\. Foto: KVSH, Reezer
 
-127 songs - 6 hr 29 min
+128 songs - 6 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -96,6 +96,7 @@
 | [Nothing](https://open.spotify.com/track/7mI2Hb578fXNLJOTfAdICI) | [Beowülf](https://open.spotify.com/artist/4H1rPQHJFk09XbKGYszUe2) | [Nothing](https://open.spotify.com/album/6ICQ72lx4SLiwNxT5iVVc5) | 2:54 | 2021-12-24 | 2022-07-30 |
 | [Oi Oi Oi](https://open.spotify.com/track/1fn0416bV6PgBQW7WtG97v) | [Dubdogz](https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1), [Maxximal](https://open.spotify.com/artist/5qPkBljA5md7aECwFxSabY), [MC Hollywood](https://open.spotify.com/artist/5jjAhuJ1IyVRmm4ZsXhsRG) | [Oi Oi Oi](https://open.spotify.com/album/4ABDUmuhob2WNlAXTprObg) | 2:17 | 2023-03-03 |  |
 | [Pega Pega](https://open.spotify.com/track/3c65eVJXgjdGXjsfLjqy6D) | [FTampa](https://open.spotify.com/artist/6P6fVBXZjnqdgq2z2b8WlO), [The Otherz](https://open.spotify.com/artist/2vi0mEbkU7fjjyJs1dcukY) | [Pega Pega](https://open.spotify.com/album/61GhWu3UEDaYkXbIcLWNJW) | 2:38 | 2023-03-31 |  |
+| [Piece of Mind](https://open.spotify.com/track/077nlPyo66esQ7ZmcVxcbL) | [Rooftime](https://open.spotify.com/artist/4QZjx3AfLqJhGYkmWAEUm7) | [I Promise You \- EP](https://open.spotify.com/album/3GH8gnj3NOFOeP5ixZkRDA) | 3:16 | 2023-05-19 |  |
 | [Poison](https://open.spotify.com/track/5KBZtEhzSiFyKNjtRSqTpJ) | [Scorz](https://open.spotify.com/artist/2WSmz7fObdRrG8ZTXz7kcn), [Jaime Deraz](https://open.spotify.com/artist/4J7ascv32yT6yE75KRCktv) | [Poison](https://open.spotify.com/album/1TPKLkMqhU8arg0gX9lA6n) | 3:27 | 2021-12-24 | 2022-03-18 |
 | [Pontos de Exclamação \- Vintage Culture & Future Class Remix](https://open.spotify.com/track/3AEw2EfF9Ng84Y3WDxV8Cn) | [Jovem Dionisio](https://open.spotify.com/artist/4m5LghDfOKFZNEBZ0GO1OQ), [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts), [Future Class](https://open.spotify.com/artist/2jFK9ZXWDd7auJvfNfBcuC) | [Pontos de Exclamação \(Vintage Culture & Future Class Remix\)](https://open.spotify.com/album/5uGTf6Y1rdXMZi9iRLTHZF) | 3:38 | 2021-12-24 | 2022-04-09 |
 | [Pretender](https://open.spotify.com/track/2OM6aYmfvRVnYAnfo7I9V7) | [Sevenn](https://open.spotify.com/artist/7bNqXqIrIfwJnipx7oGeU4), [Yann Camargo](https://open.spotify.com/artist/1FAj2IV5DuzAW8Q5V9EDbp), [Sophia Stedile](https://open.spotify.com/artist/11gCuxVV7iRCmbDz30plmi) | [Pretender](https://open.spotify.com/album/6DprqvZwBR7EGIuIfQ0J3T) | 2:50 | 2021-12-24 | 2023-04-09 |

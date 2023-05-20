@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbjI9lp4yIql.md) - [plain]
 
 > Descubre la historia del rock en América Latina con el soundtrack de "Rompan Todo", una serie documental original de Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,965 likes - 119 songs - 8 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,055 likes - 119 songs - 8 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbjI9lp4yIql.md) - [plain]
 | 34 | [Canción para Mi Muerte \(En Vivo\)](https://open.spotify.com/track/16C986QwdOCct6VJQt4q2d) | [Sui Generis](https://open.spotify.com/artist/5lCqW8vcd4TyTHzGIuKdH8) | [Adiós Sui Generis Vol.I](https://open.spotify.com/album/4vW1SPHPXWIQ781Rb3cVbF) | 3:54 |
 | 35 | [Un Hada, un Cisne \(En Vivo\)](https://open.spotify.com/track/5szhB0Q15WTCkshsohogyJ) | [Sui Generis](https://open.spotify.com/artist/5lCqW8vcd4TyTHzGIuKdH8) | [Adios Sui Generis Vol\. II](https://open.spotify.com/album/5m4CVOIBGZeZnOviWzG3L8) | 27:28 |
 | 36 | [Rasguña las Piedras \(En Vivo\)](https://open.spotify.com/track/6qX6RXG9g5dOjxB6ek5zdJ) | [Sui Generis](https://open.spotify.com/artist/5lCqW8vcd4TyTHzGIuKdH8) | [Adios Sui Generis Vol\. II](https://open.spotify.com/album/5m4CVOIBGZeZnOviWzG3L8) | 3:56 |
-| 37 | [Abuso De Autoridad](https://open.spotify.com/track/5CLK0hapjEXe0tMNnAOlcE) | [El Tri](https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne) | [Medio Siglo Rocanroleando](https://open.spotify.com/album/5fW4k9txGizJQusLl3VSvv) | 3:09 |
-| 38 | [Que Viva El Rocanroll](https://open.spotify.com/track/0KfzpnkoGGblgg5e1P9r61) | [El Tri](https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne) | [Medio Siglo Rocanroleando](https://open.spotify.com/album/5fW4k9txGizJQusLl3VSvv) | 2:44 |
+| 37 | [Abuso De Autoridad](https://open.spotify.com/track/7bZxJq0g8JlFboqzz9aWaI) | [El Tri](https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne) | [Medio Siglo Rocanroleando](https://open.spotify.com/album/2PS3k3pl15sTtIPQ5zk7td) | 3:09 |
+| 38 | [Que Viva El Rocanroll](https://open.spotify.com/track/1GdOWNWw5CFVgxBMSvv1lU) | [El Tri](https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne) | [Medio Siglo Rocanroleando](https://open.spotify.com/album/2PS3k3pl15sTtIPQ5zk7td) | 2:44 |
 | 39 | [Sólo Le Pido A Dios](https://open.spotify.com/track/5XxFB1oX6QvX5hrWESHIa5) | [León Gieco](https://open.spotify.com/artist/5yoimVE1rbc3kAx4uwr7eq) | [Desenchufado](https://open.spotify.com/album/3W3DmtCc6eaMAliyd4PmTI) | 4:08 |
 | 40 | [Seminare \(Remasterizado 2021\)](https://open.spotify.com/track/61zbxB39zUY5oxBvEvvMYv) | [Serú Girán](https://open.spotify.com/artist/6CrQKZeuSKNYgrE7PeYqJ1) | [Serú Girán \(Remasterizado 2021\)](https://open.spotify.com/album/23jPuEGchD65GA5PGJRwJo) | 3:22 |
 | 41 | [Eiti\-Leda \(Remasterizado 2021\)](https://open.spotify.com/track/6kbpMfsWlfpB2zFTDUH92f) | [Serú Girán](https://open.spotify.com/artist/6CrQKZeuSKNYgrE7PeYqJ1) | [Serú Girán \(Remasterizado 2021\)](https://open.spotify.com/album/23jPuEGchD65GA5PGJRwJo) | 6:58 |
@@ -126,6 +126,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbjI9lp4yIql.md) - [plain]
 | 116 | [Atrévete\-Te\-Te](https://open.spotify.com/track/1q8NdCAQ9QUjpYiqzdd3mv) | [Calle 13](https://open.spotify.com/artist/0yNSzH5nZmHzeE2xn6Xshb) | [Calle 13 \(Explicit Version\)](https://open.spotify.com/album/5pmuwmV2OcuiTX7kNczQ16) | 3:59 |
 | 117 | [Me Voy](https://open.spotify.com/track/100Tm6z29RfHTdUQ6NIs0s) | [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [Limon Y Sal](https://open.spotify.com/album/1YhHEtOj1mhMz0769Fqa9Q) | 3:07 |
 | 118 | [Florecita Rockera \(feat\. Goyo & Catalina García Barahona\)](https://open.spotify.com/track/0cewuMPpGs38dYsv18LFRW) | [Aterciopelados](https://open.spotify.com/artist/3MqjsWDLhq8SyY6N3PE8yW), [Goyo](https://open.spotify.com/artist/1ovLUfXp677yibcfzWQWPC), [Catalina García Barahona](https://open.spotify.com/artist/01CeOOSN2oyRaRXj1a3SJi) | [Reluciente, Rechinante y Aterciopelado](https://open.spotify.com/album/3vy5S1DPa0WFL3bRBmxXpg) | 6:40 |
-| 119 | [Perro Negro \(En Vivo\)](https://open.spotify.com/track/6ydmf4dML4JjK8RNBgQgh7) | [El Tri](https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne) | [El Tri 4 Decadas](https://open.spotify.com/album/2oUjxsCoulKvOVIlW6oklm) | 3:53 |
+| 119 | [Perro Negro \(En Vivo\)](https://open.spotify.com/track/44ZmiVyHYipSSThIPs37M6) | [El Tri](https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne) | [El Tri 4 Decadas](https://open.spotify.com/album/62AqYKtHR4l6MZtBdA73xk) | 3:53 |
 
-Snapshot ID: `MCwzYWJjMzEyMDAyZGQxMjQ0NWU3OGExNjhkYTM2ZWFlZWJkN2QzN2M0`
+Snapshot ID: `MCxjZDkxNDE5M2YwMjM1OWZhNDg0ZTYyMjFjNzk3YjBjZDBmODZjMjlj`

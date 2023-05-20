@@ -4,7 +4,7 @@
 
 > Gazing at pedals, soaring celestially high\. Cover: Owain Davies of Panchiko
 
-317 songs - 21 hr 40 min
+319 songs - 21 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,6 +68,7 @@
 | [Cellophane](https://open.spotify.com/track/34jhEjnmO28mTdWRFjURHY) | [Resenter](https://open.spotify.com/artist/2QJWYsb6A0Ox3OILrbwrkk) | [Psalms](https://open.spotify.com/album/2GS3hWAY4sKNVtFExXIHd8) | 3:45 | 2022-09-29 | 2022-10-28 |
 | [Ceremonia](https://open.spotify.com/track/1ycIEEREuhHTHtmPCaJiMg) | [Margaritas Podridas](https://open.spotify.com/artist/5O9NicFLG2F9Xr7OHxmrb7) | [Ceremonia](https://open.spotify.com/album/0eJvHrZXZkkUDVMQuEJq07) | 5:00 | 2021-10-19 | 2022-12-02 |
 | [Chance](https://open.spotify.com/track/2ULRusDLaLR8Di9kAt3JC2) | [Mahogany](https://open.spotify.com/artist/4Ik5hkDngW1R1Y4aWdNumq) | [The Dream of a Modern Day](https://open.spotify.com/album/5EuUAHaqEzJ6IrBjbdYlGK) | 4:15 | 2021-10-19 | 2022-07-28 |
+| [changer](https://open.spotify.com/track/1lamf6BO4jiXGOX56t6pC1) | [bar italia](https://open.spotify.com/artist/6tYmTHApvspl6KAgTfHjAY) | [changer](https://open.spotify.com/album/21aXm7ct1WdqEoOd1Ss5fW) | 3:28 | 2023-05-19 |  |
 | [Cherry\-Cola Abyss](https://open.spotify.com/track/3agVTNFmPXfrqQXnxoMyeM) | [Soft Blue Shimmer](https://open.spotify.com/artist/5ZclZsMoBdRY9MJw6l47Fx) | [Heaven Inches Away](https://open.spotify.com/album/3kNVOsMavASjW9PBfltFMJ) | 5:56 | 2021-10-19 | 2022-12-16 |
 | [Chihiro](https://open.spotify.com/track/0Kg61SKiinZ7MCt2xPYzhq) | [Soft Blue Shimmer](https://open.spotify.com/artist/5ZclZsMoBdRY9MJw6l47Fx) | [Heaven Inches Away](https://open.spotify.com/album/3kNVOsMavASjW9PBfltFMJ) | 4:00 | 2022-12-12 |  |
 | [Chinatown](https://open.spotify.com/track/0UQc1EkgxdIB3nGVTuAXKI) | [Wild Nothing](https://open.spotify.com/artist/6NrkINd80slV25wkBu9mEB) | [Gemini](https://open.spotify.com/album/2UoAYpQzSNLuW47goFJE5x) | 3:18 | 2021-10-19 | 2022-07-27 |
@@ -121,6 +122,7 @@
 | [End of the Night](https://open.spotify.com/track/1KHQli7MSz6ZdmR2M7uNxk) | [A Place To Bury Strangers](https://open.spotify.com/artist/3kx1S2P2Qq3a9bG4DGsAjR) | [End of the Night](https://open.spotify.com/album/3dmTLrm4e636PHdYIJHT0N) | 5:26 | 2021-10-19 | 2022-07-29 |
 | [ERROR](https://open.spotify.com/track/5C7qOiBXr8KFGx9xRxX6CX) | [Plastic Girl In Closet](https://open.spotify.com/artist/4s1vZEFHO3fbQiwxbKgFjm) | [eye cue rew see](https://open.spotify.com/album/7mWLcony3zdBRweubcWzm0) | 2:58 | 2022-12-15 |  |
 | [etérea](https://open.spotify.com/track/37APulB1aRuJ6lYum46vDf) | [A Rose Dying In The Rain](https://open.spotify.com/artist/4KmC9Gvitt2Qf7YqWTtCrG) | [sky of fading lights](https://open.spotify.com/album/4MsvXCBZ8QZ8VJMnw6B89N) | 8:30 | 2023-01-04 | 2023-02-22 |
+| [Everything at Once](https://open.spotify.com/track/4irUbLOpLME1weJjG6hoEJ) | [Cathedral Bells](https://open.spotify.com/artist/0a7RruzBySceAPGfmFZtQ2) | [Everything at Once](https://open.spotify.com/album/5TBEBYAXEMrIKMBZKxGyYl) | 3:10 | 2023-05-19 |  |
 | [Eyeliner](https://open.spotify.com/track/33wLXkDuB4FQRiQDlRFrDa) | [REV](https://open.spotify.com/artist/6LPhim0qQ8EHh55uw06umD) | [Eyeliner](https://open.spotify.com/album/1kaXsIgaSXo0SOl48RiBk7) | 4:00 | 2023-04-14 |  |
 | [False Alarm](https://open.spotify.com/track/3NFI8R8pUTja7orZLwqVbs) | [Heals](https://open.spotify.com/artist/52VDpGdCBD0RnoXlpCYIgL) | [SPECTRUM](https://open.spotify.com/album/40BU39M6MTjelshDop9fHm) | 5:59 | 2022-12-15 | 2023-01-07 |
 | [Famine Asylum](https://open.spotify.com/track/5918U5xYBF6Dx6T36fwxlw) | [Nothing](https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J) | [The Great Dismal](https://open.spotify.com/album/0LKwC9p0PLomstKm9Y0nt3) | 4:10 | 2021-10-19 |  |
@@ -293,13 +295,13 @@
 | [The Run I\. & II\. \- Extended single edit](https://open.spotify.com/track/2jmt8JiT7IPRzdWf4Diz6N) | [Pencey Sloe](https://open.spotify.com/artist/6LZ5lMO2burFwjCctFW6tn), [Alcest](https://open.spotify.com/artist/7FqjTmfXMXDYDAvRX5KYZd), [JK Flesh](https://open.spotify.com/artist/0JP4tVwUQtzOtmtn4ktQB3) | [The Run I\. & II.](https://open.spotify.com/album/3NybIjX2h7PO0kc6cjiqm6) | 6:47 | 2022-12-15 | 2023-01-13 |
 | [This Place Called Nowhere](https://open.spotify.com/track/01qMqTMNQAqtJ8nGt9oEaq) | [Box And The Twins](https://open.spotify.com/artist/6CtrtybA3qx7crB67ZHy6z) | [Everywhere I Go Is Silence](https://open.spotify.com/album/6uyHia5YvgDjbLAyRP2DTg) | 4:40 | 2022-12-15 | 2023-01-14 |
 | [This Time](https://open.spotify.com/track/6YQSQ6CQN4pIcXEiOqoH8x) | [LSD and the Search for God](https://open.spotify.com/artist/2feOOr1Yjovo67byuxvjZv) | [LSD and the Search for God](https://open.spotify.com/album/46q859znSzYPVwz7OaO7GS) | 3:18 | 2021-10-19 | 2023-03-25 |
-| [Thorn In Yr Kiss](https://open.spotify.com/track/2nKrmlSHiJcNnnED2QLaAz) | [Luster](https://open.spotify.com/artist/0IqC2A5HTnTIKzqcFXJQms) | [Dopamine Loop](https://open.spotify.com/album/5Rkg1yHCcy0XqsSU8kZNxq) | 4:00 | 2023-05-09 |  |
+| [Thorn In Yr Kiss](https://open.spotify.com/track/2nKrmlSHiJcNnnED2QLaAz) | [Luster](https://open.spotify.com/artist/0IqC2A5HTnTIKzqcFXJQms) | [Dopamine Loop](https://open.spotify.com/album/5Rkg1yHCcy0XqsSU8kZNxq) | 4:00 | 2023-05-09 | 2023-05-20 |
 | [Thursday](https://open.spotify.com/track/3DiCOFDPnyUIU03qdmURN0) | [Asobi Seksu](https://open.spotify.com/artist/7vXdfh8G9fJVGvfUSkqf62) | [Citrus](https://open.spotify.com/album/3i8QvhKyRoIQmkyACiHsye) | 4:17 | 2021-10-19 |  |
 | [Thursday](https://open.spotify.com/track/6MC9eyZJiicT4tT2YOqf5d) | [Asobi Seksu](https://open.spotify.com/artist/7vXdfh8G9fJVGvfUSkqf62) | [Citrus](https://open.spotify.com/album/5ohM0IJGIOO1xacFqrba3l) | 4:17 | 2021-10-19 | 2022-07-29 |
 | [Tiny Houses](https://open.spotify.com/track/5ibvAGEIPKfrK4WKGg9Iuy) | [Sweet Trip](https://open.spotify.com/artist/5NtMqQLCzdVvL7F8vFp3zM) | [A Tiny House, In Secret Speeches, Polar Equals](https://open.spotify.com/album/2lcLu95m0kpo6bY86rj2XA) | 5:52 | 2022-01-10 | 2022-08-04 |
 | [Tongue](https://open.spotify.com/track/0dOf1BeCB1uL1b0dBtvL39) | [Suave Punk](https://open.spotify.com/artist/7mHAXsMI3hAj3dUZMR4fnt) | [Tongue](https://open.spotify.com/album/6ruFK4GEN4Dtu1Ig4KJDho) | 3:34 | 2022-08-13 | 2022-10-06 |
 | [Too Wild](https://open.spotify.com/track/6JA0gPoX8td6bG9KDSvRl4) | [Seasurfer](https://open.spotify.com/artist/5gsvWsWT4Q2rTlcjUAdyAw) | [Too Wild](https://open.spotify.com/album/2FFyTwDepwkk5wQ8jYSnlZ) | 4:35 | 2022-12-15 | 2023-05-08 |
-| [Toxins and Smoke](https://open.spotify.com/track/5I9thmZdXFil80RahOaRm3) | [Crape](https://open.spotify.com/artist/2FWet7RIyCyNlZSNpYpJxi) | [Toxins and Smoke](https://open.spotify.com/album/7GYHsiuT0SB51WmTCsmhSc) | 5:12 | 2023-05-05 |  |
+| [Toxins and Smoke](https://open.spotify.com/track/5I9thmZdXFil80RahOaRm3) | [Crape](https://open.spotify.com/artist/2FWet7RIyCyNlZSNpYpJxi) | [Toxins and Smoke](https://open.spotify.com/album/7GYHsiuT0SB51WmTCsmhSc) | 5:12 | 2023-05-05 | 2023-05-20 |
 | [Tropics](https://open.spotify.com/track/3CY0tWgMxRFG3nqfEeip9e) | [Memory Leak](https://open.spotify.com/artist/0i9cI6V5ZvmADyZcqLk8PJ) | [Tropics](https://open.spotify.com/album/24kVxQ6OijMWrEutVDusaI) | 4:18 | 2022-12-12 | 2023-02-22 |
 | [Try Harder Still](https://open.spotify.com/track/4qrTk0Ap5AJ04Afy7w93Cm) | [Glitterer](https://open.spotify.com/artist/2bTjArGDYivNxnYFH5jUcj) | [Life Is Not A Lesson](https://open.spotify.com/album/0VmkbO4piecyKI4FO9xfut) | 2:23 | 2021-10-19 |  |
 | [Two Girls](https://open.spotify.com/track/4MlTLBpeNYRTkjx35eQfMe) | [Ringo Deathstarr](https://open.spotify.com/artist/3sWLSYm3MFYosc4AZhwajg) | [Colour Trip](https://open.spotify.com/album/5K5UsJA8QsC33ozOZkVf8s) | 2:58 | 2021-10-19 | 2022-07-29 |

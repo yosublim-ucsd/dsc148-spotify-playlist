@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8bff1BCeZx.md) - [plain]
 
 > African Praise music taking you all the way up!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,438 likes - 50 songs - 5 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,471 likes - 50 songs - 5 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8bff1BCeZx.md) - [plain]
 | 49 | [African Praise Medley: Everybody Looko Looko / Ojasope / Baba Mimo Mowasope / Wamilele / Awesome Mighty God / Odiaga / Hallelujah / Jehovah Jireh](https://open.spotify.com/track/4RW6Po4zZi5TiHX6yXvnha) | [Dayo Bello](https://open.spotify.com/artist/2rsakqcHwgb4tSOP6UFaMA) | [Resurrection Praise Project \(Live\)](https://open.spotify.com/album/7zW9ri7brioqtdyJvgcbqT) | 16:08 |
 | 50 | [Nkwa Abodoo \(feat\. Nacy\)](https://open.spotify.com/track/6Uwiv3r9XfvyBAQqTtngNb) | [KODA](https://open.spotify.com/artist/5nCnnoitr6BO4g5sEIEDkB), [Nacy](https://open.spotify.com/artist/4XEY7lCzPxqpq90xzRaJ96) | [Nkwa Abodoo \(feat\. Nacy\)](https://open.spotify.com/album/4EbIet3CbVqMRyW3BlZ9kk) | 6:49 |
 
-Snapshot ID: `MCw5YjllYWViZWExYTVjODhmNzg3NGNlZjQ4MmY0ZmEyYjZjNTcyMThh`
+Snapshot ID: `MCw1MGE2OWYyOGI0MDEzYWE5NmJmMTUzYzZmZjBmZmU1NThmNGI1NTdl`

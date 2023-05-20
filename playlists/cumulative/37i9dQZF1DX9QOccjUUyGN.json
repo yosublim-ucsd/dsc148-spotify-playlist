@@ -113,6 +113,40 @@
     },
     {
       "album": {
+        "name": "24hrs",
+        "url": "https://open.spotify.com/album/3OMsGLHvXjhj19gSULJzKQ"
+      },
+      "artists": [
+        {
+          "name": "Pedro Lotto",
+          "url": "https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm"
+        },
+        {
+          "name": "Luccas Carlos",
+          "url": "https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy"
+        },
+        {
+          "name": "Kweller",
+          "url": "https://open.spotify.com/artist/4W4NkfM4A1sX2S2bfYlV07"
+        },
+        {
+          "name": "Enzo Cello",
+          "url": "https://open.spotify.com/artist/5d6V3NZSeR7XZmEkf8inaU"
+        },
+        {
+          "name": "2050",
+          "url": "https://open.spotify.com/artist/5VwzkQP7ZcksbrUUzh3gji"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177230,
+      "name": "24hrs",
+      "url": "https://open.spotify.com/track/105k1aiq6HKSONlNFOzYIA"
+    },
+    {
+      "album": {
         "name": "5 da Manh\u00e3",
         "url": "https://open.spotify.com/album/4wuar64MwT2fyw7wQQCeCg"
       },
@@ -340,7 +374,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 181967,
       "name": "ALASTRO!",
       "url": "https://open.spotify.com/track/3U58XvL2sRUmJoH5e9hUod"
@@ -1252,7 +1286,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 102127,
       "name": "Big Rausch & Baby Zaza",
       "url": "https://open.spotify.com/track/5cPP26A2tuGQgrNIkOb6SC"
@@ -1308,6 +1342,44 @@
       "duration_ms": 195718,
       "name": "Boldo Da Calif\u00f3rnia",
       "url": "https://open.spotify.com/track/6y48SEad7HiBPZdQxYjpiy"
+    },
+    {
+      "album": {
+        "name": "Dos Pr\u00e9dios Deluxe",
+        "url": "https://open.spotify.com/album/0D59BFMmnA87oPyk1oSe1b"
+      },
+      "artists": [
+        {
+          "name": "Veigh",
+          "url": "https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse"
+        },
+        {
+          "name": "G.A",
+          "url": "https://open.spotify.com/artist/4yFJeWVY6IZLc5KcYCvtBE"
+        },
+        {
+          "name": "Toledo",
+          "url": "https://open.spotify.com/artist/7I4OIWw3Zm4lUmt2QHnz30"
+        },
+        {
+          "name": "H4lfmeasures",
+          "url": "https://open.spotify.com/artist/1oeJ63Lg80eEOBGgHCnOee"
+        },
+        {
+          "name": "6ee",
+          "url": "https://open.spotify.com/artist/2GvqH75RHKQvgV0Wh8f3ud"
+        },
+        {
+          "name": "Supernova Ent",
+          "url": "https://open.spotify.com/artist/3prRKGJz16RRMRSIM97nHw"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114321,
+      "name": "Bolsa de Ombro",
+      "url": "https://open.spotify.com/track/7oWd2k0fhorqIpXotLNN9F"
     },
     {
       "album": {
@@ -2375,6 +2447,36 @@
     },
     {
       "album": {
+        "name": "Dentro da GLA",
+        "url": "https://open.spotify.com/album/17RZw57GQNWHcI0KwmvHTP"
+      },
+      "artists": [
+        {
+          "name": "Jall",
+          "url": "https://open.spotify.com/artist/04svf3dGgcwEVgJ0MlV0M2"
+        },
+        {
+          "name": "Pedro Avelar",
+          "url": "https://open.spotify.com/artist/00x3pkNVK3oes0pMRKMr9z"
+        },
+        {
+          "name": "DJ Caetano",
+          "url": "https://open.spotify.com/artist/6p8UveMYUHymkyH4rXgpoJ"
+        },
+        {
+          "name": "Mousik",
+          "url": "https://open.spotify.com/artist/0QTxqtxb1Ynangd0fpm3PM"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135000,
+      "name": "Dentro da GLA",
+      "url": "https://open.spotify.com/track/2VifbPsraFPdqSZbQNUCOm"
+    },
+    {
+      "album": {
         "name": "Depois Que Voc\u00ea Chegou",
         "url": "https://open.spotify.com/album/1BNVMyO9hE7Am0FGx1Udma"
       },
@@ -3181,6 +3283,32 @@
     },
     {
       "album": {
+        "name": "Farfetch",
+        "url": "https://open.spotify.com/album/7CIKehHTW9GUiQh8eYYObW"
+      },
+      "artists": [
+        {
+          "name": "Pedro Lotto",
+          "url": "https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm"
+        },
+        {
+          "name": "Clara Dalua",
+          "url": "https://open.spotify.com/artist/3hiOjOhhsHCbXK9Fv3EmF1"
+        },
+        {
+          "name": "2050",
+          "url": "https://open.spotify.com/artist/5VwzkQP7ZcksbrUUzh3gji"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146440,
+      "name": "Farfetch",
+      "url": "https://open.spotify.com/track/2cv13qGu63883vwFsYjnII"
+    },
+    {
+      "album": {
         "name": "Fases",
         "url": "https://open.spotify.com/album/23P16ldmRQKHzsSEDtVgRe"
       },
@@ -3604,7 +3732,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 112941,
       "name": "Gente Grande",
       "url": "https://open.spotify.com/track/2tVej7PUfh7g0ntDh7gbIN"
@@ -3808,6 +3936,44 @@
       "duration_ms": 111500,
       "name": "HOJE NUM D\u00c1",
       "url": "https://open.spotify.com/track/5h8McRgf0ATUHcGSj0hzA4"
+    },
+    {
+      "album": {
+        "name": "Dos Pr\u00e9dios Deluxe",
+        "url": "https://open.spotify.com/album/0D59BFMmnA87oPyk1oSe1b"
+      },
+      "artists": [
+        {
+          "name": "Veigh",
+          "url": "https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse"
+        },
+        {
+          "name": "Caio Luccas",
+          "url": "https://open.spotify.com/artist/1a3fr7NdeBT4JlGj6YlbDL"
+        },
+        {
+          "name": "Nagalli",
+          "url": "https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk"
+        },
+        {
+          "name": "Honaiser",
+          "url": "https://open.spotify.com/artist/0PNcEYeVDBqbywI00Y3ANT"
+        },
+        {
+          "name": "Bvga Beatz",
+          "url": "https://open.spotify.com/artist/7saGN6a32YNpiMPo2SWJxE"
+        },
+        {
+          "name": "Supernova Ent",
+          "url": "https://open.spotify.com/artist/3prRKGJz16RRMRSIM97nHw"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210000,
+      "name": "Hora Errada",
+      "url": "https://open.spotify.com/track/6ubWrh2GuyKMpQrzOynRjD"
     },
     {
       "album": {
@@ -5059,6 +5225,28 @@
     },
     {
       "album": {
+        "name": "2MIL E UMA NOITES",
+        "url": "https://open.spotify.com/album/6PT6ICyjAtEKITRY9G48n9"
+      },
+      "artists": [
+        {
+          "name": "Big Rush",
+          "url": "https://open.spotify.com/artist/5bzmuR63NqjwQBN0z8nQpF"
+        },
+        {
+          "name": "Massaru",
+          "url": "https://open.spotify.com/artist/6NPvzQnxY7WwRMoN2qVBHU"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 100683,
+      "name": "MOLEJO",
+      "url": "https://open.spotify.com/track/1TaxXo7VCuB9rrpyW9LXt9"
+    },
+    {
+      "album": {
         "name": "MoneyBaby",
         "url": "https://open.spotify.com/album/31jh2GZiEOGpIdGDviUnET"
       },
@@ -5264,7 +5452,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 221349,
       "name": "Multiplicando",
       "url": "https://open.spotify.com/track/7EGneZZ33pwjjFmpoU1ltF"
@@ -5282,7 +5470,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 168000,
       "name": "Mundo de Fantasia",
       "url": "https://open.spotify.com/track/3tan5rgugHRDRkwmHmlU93"
@@ -5316,6 +5504,32 @@
       "duration_ms": 188759,
       "name": "Muy Guapa",
       "url": "https://open.spotify.com/track/6ayFYPpCCK55u6NGcM3E01"
+    },
+    {
+      "album": {
+        "name": "na bala!",
+        "url": "https://open.spotify.com/album/6rVANHSklJwGJ9HA0O6ql8"
+      },
+      "artists": [
+        {
+          "name": "Jayp",
+          "url": "https://open.spotify.com/artist/4B89qqZfta5V4f2tV0JS7O"
+        },
+        {
+          "name": "MATHINVOKER",
+          "url": "https://open.spotify.com/artist/69o8iufFnvKcM2HcURIkbc"
+        },
+        {
+          "name": "Drew",
+          "url": "https://open.spotify.com/artist/2EkRaXpsAuICiUioDcvkhV"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 84785,
+      "name": "na bala!",
+      "url": "https://open.spotify.com/track/7LfLNuX1FeZY3wUZMdLV15"
     },
     {
       "album": {
@@ -6038,7 +6252,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 141030,
       "name": "Papo De Milh\u00e3o",
       "url": "https://open.spotify.com/track/6HtOKrScDoxWjaWP2TMvsZ"
@@ -7802,7 +8016,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 226000,
       "name": "Tentando Encontrar Meu Caminho",
       "url": "https://open.spotify.com/track/765lP8fWN2PXE299QwDPXq"

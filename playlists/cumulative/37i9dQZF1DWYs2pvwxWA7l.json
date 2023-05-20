@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-06",
-  "description": "The hottest Afropop records on the planet. Cover:  <a href=\"https://open.spotify.com/artist/3L21ifeFAXwNN2ui6NyG0k?si=hZVezeKcRT6B3z6yx6Hikw\"> Inkabi Zezwe </a> ",
+  "description": "The hottest Afropop records on the planet. Cover:  <a href=\"https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla?si=URGW5QjkReuzFyAfb5RWJw\"> Wande Coal </a> ",
   "name": "Afropop",
   "tracks": [
     {
@@ -2887,6 +2887,28 @@
     },
     {
       "album": {
+        "name": "Legend Or No Legend",
+        "url": "https://open.spotify.com/album/1pSC9nqMSfJgh6WVZYkTqJ"
+      },
+      "artists": [
+        {
+          "name": "Wande Coal",
+          "url": "https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla"
+        },
+        {
+          "name": "Fireboy DML",
+          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191650,
+      "name": "Jabo (feat. Fireboy DML)",
+      "url": "https://open.spotify.com/track/34G3Mj8y2wCp4lh4yW0hSf"
+    },
+    {
+      "album": {
         "name": "Jane",
         "url": "https://open.spotify.com/album/7kjDusgZHn05WZuo2Xlww0"
       },
@@ -3070,7 +3092,7 @@
       ],
       "date_added": "2023-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 255272,
       "name": "Khaya Lami",
       "url": "https://open.spotify.com/track/0KG5PG0nz6MmKLbDWtmpdk"
@@ -3528,6 +3550,24 @@
       "duration_ms": 188000,
       "name": "Long Distance",
       "url": "https://open.spotify.com/track/3oi16KBVwrFiFCKo8T39Zb"
+    },
+    {
+      "album": {
+        "name": "Body & Soul",
+        "url": "https://open.spotify.com/album/1TGcgugu0CxUp5rhS7SyCW"
+      },
+      "artists": [
+        {
+          "name": "Joeboy",
+          "url": "https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120500,
+      "name": "Lose Ya",
+      "url": "https://open.spotify.com/track/0a2V2dT53tbO9SpyQMDvGo"
     },
     {
       "album": {
@@ -5334,7 +5374,7 @@
       ],
       "date_added": "2022-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 249533,
       "name": "SETE (feat. Young Stunna & Blxckie)",
       "url": "https://open.spotify.com/track/5mXZz0tXIToxu3HRohrdSK"

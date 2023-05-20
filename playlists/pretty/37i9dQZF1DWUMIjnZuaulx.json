@@ -1,13 +1,29 @@
 {
-  "description": "New songs from some of the latest and greatest Gospel music artists.  Cover:  <a href=\"https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R?si=ViEr5qu1Qo6XiyZyC70fBQ\">Shirley Caesar</a>",
-  "num_followers": 248658,
+  "description": "New songs from some of the latest and greatest Gospel music artists.  Cover:  <a href=\"https://open.spotify.com/artist/41OAtBkqAXVdMlteKlhrZz?si=4zFYodjrQKqv71u_xIx88w\">Todd Dulaney</a>",
+  "num_followers": 248762,
   "original_name": "Fresh Gospel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2MTZiYWRkMzdkZmFhZDg3ZDdjMDQ2Mjg5Y2M4NTY4OTdlOTBiNGJh",
+  "snapshot_id": "MCxhYzA1YzdiM2FmNTc0NGUyZGE4NWVlNTkxYTZhMDc4ZjA3MjU0MmYx",
   "tracks": [
+    {
+      "added_at": "2023-05-19 08:40:26",
+      "album": {
+        "name": "No Weapon (Live)",
+        "url": "https://open.spotify.com/album/2Sbxlw1WYFQKb3GISnsvJk"
+      },
+      "artists": [
+        {
+          "name": "Todd Dulaney",
+          "url": "https://open.spotify.com/artist/41OAtBkqAXVdMlteKlhrZz"
+        }
+      ],
+      "duration_ms": 290000,
+      "name": "No Weapon - Live",
+      "url": "https://open.spotify.com/track/4hASz5Bp3VYs2D1j91Lz7R"
+    },
     {
       "added_at": "2023-05-12 09:55:49",
       "album": {
@@ -485,6 +501,22 @@
       "url": "https://open.spotify.com/track/4ewqayUyebkmpWIqqW0bwK"
     },
     {
+      "added_at": "2023-05-19 08:40:26",
+      "album": {
+        "name": "Speak",
+        "url": "https://open.spotify.com/album/29d1zAKePuG1ZZ4jaK87HJ"
+      },
+      "artists": [
+        {
+          "name": "Angel Taylor",
+          "url": "https://open.spotify.com/artist/2UWaeusYEeTO7EniHBQz10"
+        }
+      ],
+      "duration_ms": 216120,
+      "name": "Speak",
+      "url": "https://open.spotify.com/track/5COeD3R2UOtM6VR7ItOoLx"
+    },
+    {
       "added_at": "2023-05-12 09:55:49",
       "album": {
         "name": "Call on the Name",
@@ -671,26 +703,6 @@
       "duration_ms": 331223,
       "name": "See The Goodness (feat. Donnie McClurkin)",
       "url": "https://open.spotify.com/track/61XwybzaaNHNp3wsD9x87Q"
-    },
-    {
-      "added_at": "2023-05-12 09:55:49",
-      "album": {
-        "name": "It's Working (Live)",
-        "url": "https://open.spotify.com/album/7zpTmDGRtoeWQ5YmfEozXI"
-      },
-      "artists": [
-        {
-          "name": "Todd Dulaney",
-          "url": "https://open.spotify.com/artist/41OAtBkqAXVdMlteKlhrZz"
-        },
-        {
-          "name": "Hezekiah Walker",
-          "url": "https://open.spotify.com/artist/0pXt4sMs2oRnt528LTYgyd"
-        }
-      ],
-      "duration_ms": 469495,
-      "name": "It's Working - Live",
-      "url": "https://open.spotify.com/track/6UQGXQm42Wy6uyUgw1S3Qv"
     },
     {
       "added_at": "2023-05-12 09:55:49",
@@ -1019,26 +1031,6 @@
       "duration_ms": 238480,
       "name": "Down At The Cross - Live",
       "url": "https://open.spotify.com/track/6ajT3LyPHVRNwUc4KbG4Wx"
-    },
-    {
-      "added_at": "2023-05-12 09:55:49",
-      "album": {
-        "name": "Greater",
-        "url": "https://open.spotify.com/album/3uq6TjozBhH2dDBbkK88fU"
-      },
-      "artists": [
-        {
-          "name": "Tim Godfrey",
-          "url": "https://open.spotify.com/artist/509E47UmbRPKWPXOMaieh2"
-        },
-        {
-          "name": "Todd Dulaney",
-          "url": "https://open.spotify.com/artist/41OAtBkqAXVdMlteKlhrZz"
-        }
-      ],
-      "duration_ms": 402000,
-      "name": "Greater",
-      "url": "https://open.spotify.com/track/4ga4GTOzcYUyRB51aRsX6J"
     },
     {
       "added_at": "2023-05-12 09:55:49",

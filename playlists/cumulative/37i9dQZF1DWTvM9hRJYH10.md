@@ -4,7 +4,7 @@
 
 > Music from Nashville's emerging Singers and Songwriters across the musical spectrum\. Cover: Greylan James
 
-267 songs - 14 hr 8 min
+271 songs - 14 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -78,6 +78,7 @@
 | [Front Row Seat](https://open.spotify.com/track/0vSVknC1QRWHmHDqgtOPfP) | [David Unlayao](https://open.spotify.com/artist/3OxjY9y8bls3YdSjGk7khk) | [Front Row Seat](https://open.spotify.com/album/7faCFyGekYkgwyYSN3cAW2) | 2:52 | 2022-07-29 |  |
 | [Get Even](https://open.spotify.com/track/36l59Hx86AH7T3LpMgZA3F) | [Nikita Karmen](https://open.spotify.com/artist/4nqXJm2HDxew6vauRbyUAM) | [Get Even](https://open.spotify.com/album/3jViv3WtbhilkvlwXDdrFq) | 2:58 | 2022-08-19 |  |
 | [Getting in the Way](https://open.spotify.com/track/16XCzY9soTLQtrVEgK1Nkf) | [Heath Bennett](https://open.spotify.com/artist/41hA7Bgps1E23zJmxn14lS), [Jara Ward](https://open.spotify.com/artist/0ML9ZqnIXEFy5NvrZydFER) | [Getting in the Way](https://open.spotify.com/album/4Lnk7OJOPcQeGiTu4eHRX8) | 3:56 | 2022-02-18 |  |
+| [God Only Knows](https://open.spotify.com/track/3Pazi0v8BKtpwp2qjkh3ra) | [Halle Kearns](https://open.spotify.com/artist/1qhXfHiXKvDP2563X2uFpY) | [God Only Knows](https://open.spotify.com/album/6tUWgnrqrDo001L5hDTnC6) | 3:00 | 2023-05-19 |  |
 | [Got the Girl](https://open.spotify.com/track/5MTuBhO3QxTht2NeRkLwuI) | [Reid Haughton](https://open.spotify.com/artist/3AsWY8Eeph8IIAD8twJL2l) | [Got the Girl](https://open.spotify.com/album/5DT8MBGd52UwQeDwQNrtwM) | 2:43 | 2021-12-31 |  |
 | [Greener Pasture](https://open.spotify.com/track/3fA0FKdkPmBa62MSxwewKE) | [Carter Faith](https://open.spotify.com/artist/4X5CTYQmx1NNyz9S1IpNko) | [Greener Pasture](https://open.spotify.com/album/2ua2VjahAuE1LsjiGIQWu3) | 3:09 | 2022-02-25 |  |
 | [Growing Old With You](https://open.spotify.com/track/5n4kMW5dn7MHFhXQuJb9zG) | [Restless Road](https://open.spotify.com/artist/5XLWHp9tjK7PWm7SMcvo2q) | [Growing Old With You](https://open.spotify.com/album/161OJ4mZwXGzdeLI2jibXZ) | 3:16 | 2022-01-21 |  |
@@ -131,6 +132,7 @@
 | [Like the Movies](https://open.spotify.com/track/5zd5yuvG5Xv92c1ToPtasO) | [Taylor Acorn](https://open.spotify.com/artist/1A0WloDoRE88uUwo3wensY) | [Like the Movies](https://open.spotify.com/album/6Itw6oshBRErChLtVeusJV) | 3:24 | 2021-12-31 | 2022-02-12 |
 | [LOML](https://open.spotify.com/track/1DQarOQMUb4ABXvwDd2XG2) | [Lena Stone](https://open.spotify.com/artist/4povL23A9IkoiWKv9KHhkx) | [LOML](https://open.spotify.com/album/2Jlrkiq7rm3gV7kXtVxLjM) | 3:00 | 2022-04-08 | 2022-07-02 |
 | [Lonely Does](https://open.spotify.com/track/3bZr2UIRMiwmWJoQw3kQYA) | [Erin Grand](https://open.spotify.com/artist/44fvtK228KC7YlIWVAsXS2) | [Lonely Does](https://open.spotify.com/album/6bNt1IXkT6Yavw4q79lSYe) | 3:47 | 2021-12-31 | 2022-02-12 |
+| [Lonely Outta You](https://open.spotify.com/track/4K6Hx75Blpyb7ERrkhfBuv) | [HunterGirl](https://open.spotify.com/artist/44kkhQvtgI931bffRbSrMm) | [Lonely Outta You](https://open.spotify.com/album/0QmiHb5sXcfNzr0j07KKOB) | 3:16 | 2023-05-19 |  |
 | [Lonely Peace](https://open.spotify.com/track/6qmgGaI4PbCAbCKtW8g6pU) | [Mason Horne](https://open.spotify.com/artist/341ntJveJBpKhKj316dttw) | [Lonely Peace](https://open.spotify.com/album/4MJtZsmjt5OmpXgLRFdq8m) | 3:09 | 2021-12-31 | 2022-01-22 |
 | [Lost My Heartbreak](https://open.spotify.com/track/5fjoMV6IwPKFsmm0LQuv0m) | [David J](https://open.spotify.com/artist/3PO1jRVb0lsv2140VTXOQo) | [Lost My Heartbreak](https://open.spotify.com/album/0rH6itQHqD6Xd7gLRYxdw4) | 2:37 | 2021-12-31 | 2022-07-02 |
 | [Love Child](https://open.spotify.com/track/2IRZm2pbQYoA5Q2gbwE6nU) | [Kalie Shorr](https://open.spotify.com/artist/5l2O3KSyCkTtjwcTLixHi5) | [Love Child](https://open.spotify.com/album/0hSp25ZPUeHmbSeldUqVoR) | 3:04 | 2021-12-31 | 2023-02-25 |
@@ -225,6 +227,7 @@
 | [Speed Limit](https://open.spotify.com/track/6fNDFwpFaWodIX2MYqPbdn) | [Savannah Harmon](https://open.spotify.com/artist/5ohZt1uNprmtf0EkzIQxnU) | [Speed Limit](https://open.spotify.com/album/3WwJuG2JSLkS86vsTOIq3Q) | 4:09 | 2021-12-31 |  |
 | [Started Right Here](https://open.spotify.com/track/6g1hr3hkvJPopynA633RvQ) | [SixForty1](https://open.spotify.com/artist/4dcnHUWXWZAHfA8FvQBtJS) | [Started Right Here](https://open.spotify.com/album/5Np7Ek9CPromitJthQCLfO) | 2:44 | 2021-12-31 | 2022-09-03 |
 | [Started Right Here](https://open.spotify.com/track/7AdMQLG4UbBQF6RNFs57IT) | [SixForty1](https://open.spotify.com/artist/4dcnHUWXWZAHfA8FvQBtJS) | [Started Right Here](https://open.spotify.com/album/113bFdIiv0jfchW7SKyBa8) | 2:45 | 2022-09-02 |  |
+| [Stayed A Summer](https://open.spotify.com/track/6vbesEByLl4HPeX71QMwBa) | [Erin Kinsey](https://open.spotify.com/artist/5TtSGhhCPt56x4ZPfg7DFq) | [Bet My Heart](https://open.spotify.com/album/3szLmfgILxIvbdhPDPeqeX) | 2:56 | 2023-05-19 |  |
 | [Stone Harbor](https://open.spotify.com/track/7gTcD9zdcjHTRBnrpAQwbD) | [Holdyn Barder](https://open.spotify.com/artist/6PIHqwkUR98s655qDrXMeo) | [Stone Harbor](https://open.spotify.com/album/4k95Vi7LSRuJIQJUih6yoV) | 3:46 | 2022-09-09 |  |
 | [Stranger](https://open.spotify.com/track/4DyGan0wxPUZk21B1fF57X) | [Riley Roth](https://open.spotify.com/artist/7DFV3Usu1Jrcyn45Kx31Bc) | [Stranger](https://open.spotify.com/album/5CnarDYvtOMmdLTnMqtWxY) | 2:30 | 2021-12-31 | 2023-01-14 |
 | [Summer Song](https://open.spotify.com/track/22XIMbEUDkzVAJ5Sq74oVr) | [Bryce Mauldin](https://open.spotify.com/artist/5DXpUPIW7ConNwYAjXe5BE) | [Summer Song](https://open.spotify.com/album/16O5t7E56ZZ7TpuIYv7W4h) | 3:05 | 2021-12-31 | 2022-08-02 |
@@ -249,6 +252,7 @@
 | [Think You Know Someone](https://open.spotify.com/track/3NChyBhQpbHKzIHeyfZT5w) | [Kyle Clark](https://open.spotify.com/artist/7mog8g5ixRhdaeCgIsiYtN) | [Think You Know Someone](https://open.spotify.com/album/73AKWFQnLqG0Yo9e9PP1he) | 3:12 | 2021-12-31 | 2022-02-12 |
 | [Thirties](https://open.spotify.com/track/5VA8tNItVojrbxLVYxrhjJ) | [Emma White](https://open.spotify.com/artist/0jyVlKezMuRdYUzTxp5vRM) | [Thirties](https://open.spotify.com/album/32CSNCbnIaystWrhGeG2Ia) | 3:23 | 2021-12-31 | 2022-02-12 |
 | [this is goodbye](https://open.spotify.com/track/16Wj6oiTegofc7alCWLptD) | [Avenue Beat](https://open.spotify.com/artist/1htYtUdXVMwR6HCSs821Lc), [Summer Overstreet](https://open.spotify.com/artist/73z6hYt1jsBWSbm2irWqlz) | [this is goodbye](https://open.spotify.com/album/5efHmri1QTWTg23YmbCQSf) | 2:50 | 2021-12-31 | 2023-02-25 |
+| [Throw It Back](https://open.spotify.com/track/6gv3rXWwTSdUhYaZqg7ueD) | [Tanner Adell](https://open.spotify.com/artist/5xKVALj2MSqOHmQhburCM8) | [Throw It Back.](https://open.spotify.com/album/55pm5t7Fd4cp8LnzfoK0wD) | 2:35 | 2023-05-19 |  |
 | [Til The Neon's Gone](https://open.spotify.com/track/54wAUMBMpdhfhZSQawogbw) | [Josh Mirenda](https://open.spotify.com/artist/5zmTJA6eWcsmxevyQoK9iB) | [Til The Neon's Gone](https://open.spotify.com/album/1amWR5XgywGuP59BTGMJ8E) | 3:41 | 2023-05-03 |  |
 | [Til The Neon's Gone](https://open.spotify.com/track/7CJgt8v2iQ4ZxFFoBgHnGI) | [Josh Mirenda](https://open.spotify.com/artist/5zmTJA6eWcsmxevyQoK9iB) | [Til The Neon's Gone](https://open.spotify.com/album/4JuzjUqJKslBTQdY7t6iDC) | 3:41 | 2022-02-25 | 2023-05-18 |
 | [Tired of Moving On](https://open.spotify.com/track/0kdAMIHdcQMAxL6b8DQS3D) | [Carson Janik](https://open.spotify.com/artist/1b42fTv9XwOsp9OL5gchOM) | [Songs About You](https://open.spotify.com/album/3xmyOVok0ZLFHy0xMVkY1V) | 3:12 | 2021-12-31 |  |

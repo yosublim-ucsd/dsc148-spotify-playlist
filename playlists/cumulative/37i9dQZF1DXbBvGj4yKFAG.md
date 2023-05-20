@@ -4,7 +4,7 @@
 
 > may include sad indie rock songs.
 
-144 songs - 7 hr 56 min
+149 songs - 8 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,6 +39,7 @@
 | [could be nice](https://open.spotify.com/track/5OI0l7dymvGw4ZkHwSRrda) | [Starberry](https://open.spotify.com/artist/6Y1lsJKYVwK9cnr6D4mYJM) | [could be nice](https://open.spotify.com/album/0siG6xvuwDEkcw7mrla5ua) | 2:50 | 2023-04-11 |  |
 | [CryWitMe.mp3](https://open.spotify.com/track/3lhbGhwy97nY2pSZkpwuZn) | [Marigold](https://open.spotify.com/artist/1qxMrN7GOPfiFkC8H0rKh6) | [CryWitMe.mp3](https://open.spotify.com/album/2V2cmfoMXI7XuFVAt3l7A6) | 1:30 | 2023-04-11 |  |
 | [deep cut](https://open.spotify.com/track/0z7jINsAm4AOmiCYY7v1HW) | [Charlotte Rose Benjamin](https://open.spotify.com/artist/5NGaAzt758rEP9B9feiQIe) | [deep cut](https://open.spotify.com/album/17b1Br35jKvT919bAF3MAH) | 5:14 | 2023-04-11 |  |
+| [Don't Forget About Me](https://open.spotify.com/track/43rGLaawHXspfnWtBCoAQg) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Don't Forget About Me](https://open.spotify.com/album/73RqlYh6EX1aDBC0oz765j) | 2:29 | 2023-05-19 |  |
 | [Done Chasing](https://open.spotify.com/track/6mCLHCA2EIIoL0pGqEZFgU) | [No Love For The Middle Child](https://open.spotify.com/artist/7HWfshpjlGldmRa4gymvjX), [diveliner](https://open.spotify.com/artist/0be7y7HUvSBf8uG1X7pK8f), [Luke Wild](https://open.spotify.com/artist/1K39EPBZGfaTe2433SFmL8) | [Done Chasing](https://open.spotify.com/album/3W2JFMUaIRZJGUoFoaOFbl) | 2:52 | 2023-03-23 |  |
 | [Downtown](https://open.spotify.com/track/1ZMH9Y9CPg95epcXVrL2ZY) | [Triathalon](https://open.spotify.com/artist/2SaIA1enj83vEmJikZdjQ3) | [Lo\-Tide](https://open.spotify.com/album/3Wv4vQmOfMXetzbp8gPo3U) | 3:08 | 2023-04-11 |  |
 | [Drain the Pool](https://open.spotify.com/track/02E6lFwMoNkUekkF7ofoNy) | [Dearly Somber](https://open.spotify.com/artist/2zpjCn1057VSMxzN6JHclH) | [Hourglass](https://open.spotify.com/album/173vl6dvK0QxRsoavnlxtb) | 3:56 | 2023-04-11 | 2023-05-17 |
@@ -67,9 +68,11 @@
 | [I'll Be Damned](https://open.spotify.com/track/0CXSKdN0pLbwc4TUp06ScG) | [Brevin Kim](https://open.spotify.com/artist/7lU8Gtn7moZmPqqu4oPkEh) | [High School Football](https://open.spotify.com/album/3zaHm3kBLgfQkO8Jd1nVfn) | 3:38 | 2023-04-14 |  |
 | [If Blue Could Be Happiness](https://open.spotify.com/track/7ANZJD6wzlHplIIA7AjsUx) | [Florist](https://open.spotify.com/artist/0VIiIxTNLeJOPoMLabwNtr) | [If Blue Could Be Happiness](https://open.spotify.com/album/6Urg55LAGNL5QKM0bz8g2v) | 5:07 | 2023-02-09 | 2023-04-30 |
 | [If Blue Could Be Happiness](https://open.spotify.com/track/7vyUxfyXy90lx5Yppudtrb) | [Florist](https://open.spotify.com/artist/0VIiIxTNLeJOPoMLabwNtr) | [If Blue Could Be Happiness](https://open.spotify.com/album/0EB4zV2Vfi0FeM6jZNOO87) | 5:07 | 2023-04-11 |  |
+| [If Only It Was Warmth](https://open.spotify.com/track/1wXbDJMiHEO9vfwVJPOBcH) | [King Krule](https://open.spotify.com/artist/4wyNyxs74Ux8UIDopNjIai) | [If Only It Was Warmth](https://open.spotify.com/album/0s5NoPv7HcPo4TvbGwo8VB) | 3:17 | 2023-05-19 |  |
 | [Imperfect Girl](https://open.spotify.com/track/7Hya7qJ4sbLuuD7821TXEB) | [ThxSoMch](https://open.spotify.com/artist/4MvZhE1iuzttcoyepkpfdF), [thekid.ACE](https://open.spotify.com/artist/4GqTDpyDAWrxQ9bVCtWIDM) | [Imperfect Girl](https://open.spotify.com/album/6FeYrUiHiN0ltYFdjybWKf) | 2:50 | 2023-02-09 | 2023-05-17 |
 | [In My Drink](https://open.spotify.com/track/4hfC9vhK3zPAn3qZ7ojv7f) | [waveform\*](https://open.spotify.com/artist/6g12mLVmai580Y6SQnGjcd) | [In My Drink](https://open.spotify.com/album/4FYwHeyAnopGZyBWBUFMJg) | 5:28 | 2023-05-16 |  |
 | [In My Head](https://open.spotify.com/track/5vwXQUwkpmnkJrfv69L6Mp) | [Bedroom](https://open.spotify.com/artist/7COP1HCvVq1cIpZcLQYoNe) | [In My Head](https://open.spotify.com/album/3okCOhHlfrEPaHZIIUo04l) | 5:54 | 2023-02-09 | 2023-05-17 |
+| [In Theory Depression](https://open.spotify.com/track/5RsGKaJGTBesPIubTYNZnJ) | [THALA](https://open.spotify.com/artist/5JkWwSezW4KRFNy0ru3aZU) | [In Theory Depression](https://open.spotify.com/album/1kLsBJZq5igKGzwebcW8QR) | 3:09 | 2023-05-19 |  |
 | [In Two](https://open.spotify.com/track/44vJetDdcFOhZhgpk69P41) | [Will Paquin](https://open.spotify.com/artist/0oouuXi8tdasgUgk520Jy6) | [In Two](https://open.spotify.com/album/2SPXnZX9rok5Wom82V3Lqh) | 2:23 | 2023-02-09 |  |
 | [Inside Out](https://open.spotify.com/track/6WlmEymaXKMRs3D2c4j6os) | [Duster](https://open.spotify.com/artist/5AyEXCtu3xnnsTGCo4RVZh) | [Stratosphere](https://open.spotify.com/album/2S3289mypNw2zP0OpFexMb) | 2:21 | 2023-02-09 | 2023-05-17 |
 | [insomniac](https://open.spotify.com/track/5ybjt8b18uUPJDEzqi75yu) | [Pasteldrip](https://open.spotify.com/artist/5CSVtQpFZevcKVOGjRMhed) | [insomniac](https://open.spotify.com/album/2nlqINGMZtFXZQeI8fQovI) | 3:04 | 2023-04-11 | 2023-05-17 |
@@ -88,6 +91,7 @@
 | [Mercy](https://open.spotify.com/track/5vWAgdYgGN5WXzKvfNwx2E) | [Sir Chloe](https://open.spotify.com/artist/6rniTPs9zN26kYnkPdFl1U) | [Mercy](https://open.spotify.com/album/6bLQpivQqQcSn5ACBdliRP) | 2:59 | 2023-02-09 | 2023-05-17 |
 | [Million Dollar Song](https://open.spotify.com/track/1iqpKs6dgT2zIiP0GbVo6b) | [VELVETEARS](https://open.spotify.com/artist/76uBpZUqkDljACPBsu2klS) | [Million Dollar Song](https://open.spotify.com/album/6wNVEZIRbIR8PwWsaafK0w) | 3:46 | 2023-04-11 |  |
 | [miss](https://open.spotify.com/track/21xIob7jppF4otgvEUhTrF) | [postcard nowhere](https://open.spotify.com/artist/78lD1azjm0P1ct7Trr82dI) | [Juvenilia](https://open.spotify.com/album/4M3APzhv4jdhwSlHeK48Fk) | 2:05 | 2023-04-11 |  |
+| [never find u](https://open.spotify.com/track/3nnw0R0etFai60nEGMpBhK) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [never find u](https://open.spotify.com/album/5pgZ9HbqybhEsQ2SuOGZfG) | 2:46 | 2023-05-19 |  |
 | [Never Know Why](https://open.spotify.com/track/59UGpoFWoZGeuE8T74HNrS) | [Orchid Mantis](https://open.spotify.com/artist/6Yt4jPVBqhLFQcNM0dSZtq) | [Far From This World](https://open.spotify.com/album/1iifPkSZrNgcOmc8LU2Xm6) | 3:36 | 2023-04-11 |  |
 | [No Blood, No Needles, Nothing](https://open.spotify.com/track/5G9Ix7zpWjV9jqFP7K7Hlg) | [ash tuesday](https://open.spotify.com/artist/3kEaS1rKstrWw6Zb9H5vBE) | [No Blood, No Needles, Nothing](https://open.spotify.com/album/3dlIQmR7BQIk9XSF3LFJmR) | 3:32 | 2023-04-11 |  |
 | [No Surprises](https://open.spotify.com/track/62aaJpv0hPmj7HMc21zKwW) | [Juliana Chahayed](https://open.spotify.com/artist/2qvGuhgaubJ02pfiKcJAdR) | [No Surprises](https://open.spotify.com/album/4Ff20g63ORgfY7NBeiv86V) | 2:00 | 2023-02-24 | 2023-04-12 |
@@ -143,6 +147,7 @@
 | [Velvet River](https://open.spotify.com/track/4uTA2zBDjO3lVrMS9z73i0) | [Night Beds](https://open.spotify.com/artist/533wKOfkJylNSi6ntO1wXd) | [Dear Jewell](https://open.spotify.com/album/6lFVEGdRSY6mRRKnEszHUj) | 4:58 | 2023-04-11 |  |
 | [Warsh\_Tippy and Zelda](https://open.spotify.com/track/3R0jMlEvot7UYLeulRfl8E) | [Whatever, Dad](https://open.spotify.com/artist/1wMNhhG8VUhDGZ249MZBtn) | [Grade Pending](https://open.spotify.com/album/7yFYYhAYCZpZQV4bA3t7nP) | 4:14 | 2023-02-09 |  |
 | [WASTE](https://open.spotify.com/track/4NgherJDfCXWBZBYheM4jK) | [Kxllswxtch](https://open.spotify.com/artist/2VDZoCBGjxbHJbnzSX5nP6) | [DISORDER](https://open.spotify.com/album/3yKGB4IYu6MeLkhFJFn9eI) | 2:00 | 2023-02-09 |  |
+| [Wasted \(feat\. Phoebe Bridgers\)](https://open.spotify.com/track/3jgMjYCfIIYWpRVOlLGcgv) | [Rob Moose](https://open.spotify.com/artist/1NpeO0rYdDwUjtaXMDlb25), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Wasted](https://open.spotify.com/album/65pwAPMorzkvM3JkMe1hUV) | 4:54 | 2023-05-19 |  |
 | [Weekday/Anything](https://open.spotify.com/track/5Gd3XDWIBPJ0lbFPzavKqS) | [Bedroom](https://open.spotify.com/artist/7COP1HCvVq1cIpZcLQYoNe) | [Thread](https://open.spotify.com/album/4ngbnWenF6xcw6gtZzGOFH) | 6:00 | 2023-05-16 |  |
 | [Where Is My Mind? \- Remastered](https://open.spotify.com/track/7wCmS9TTVUcIhRalDYFgPy) | [Pixies](https://open.spotify.com/artist/6zvul52xwTWzilBZl6BUbT) | [Surfer Rosa](https://open.spotify.com/album/50j4Wm1b9hLpSpPIA39Vp9) | 3:54 | 2023-04-14 |  |
 | [Windshield](https://open.spotify.com/track/0cKtQJ21b6adfzO82U0Tvq) | [Skullcrusher](https://open.spotify.com/artist/1GUaQ6GpaxFPKZ0SCSsnwD) | [Storm in Summer](https://open.spotify.com/album/6p67XlnmixLtfkSn0vwiiE) | 3:01 | 2023-04-11 | 2023-05-13 |

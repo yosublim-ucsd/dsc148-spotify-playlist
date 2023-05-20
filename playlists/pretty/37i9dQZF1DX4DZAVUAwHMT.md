@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4DZAVUAwHMT.md) - [plain]
 
 > The UK's biggest rock playlist\. Cover: Sleep Token
 
-[Spotify](https://open.spotify.com/user/spotify) - 586,754 likes - 55 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 586,747 likes - 55 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4DZAVUAwHMT.md) - [plain]
 | 19 | [A Kiss for the Whole World x](https://open.spotify.com/track/1LAuVHMWdVkdbNmSVXWw2K) | [Enter Shikari](https://open.spotify.com/artist/31jvzuB4ikftPQZJwrYfCF) | [A Kiss for the Whole World](https://open.spotify.com/album/5bTSXCOLlIH6gsOvuI3PCI) | 3:31 |
 | 20 | [Giving Up](https://open.spotify.com/track/3JErllOXtQ1u1a78JocVlW) | [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL) | [Giving Up](https://open.spotify.com/album/7KAXNNp4vIagjF5vA2vaEr) | 3:10 |
 | 21 | [Troubled Son](https://open.spotify.com/track/1NuOxTkp5SwxkT1K3yqcpm) | [Miles Kane](https://open.spotify.com/artist/3M0H4efyA5YcijrKlaKbYn) | [Troubled Son](https://open.spotify.com/album/3hapFmR8CqczqZH3uWly35) | 3:20 |
-| 22 | [Francesca](https://open.spotify.com/track/6TSH6vh6KkSfExHM6evcbr) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Francesca](https://open.spotify.com/album/09gUFQ3fFjCHuhv1ab99Ce) | 4:30 |
+| 22 | [Francesca](https://open.spotify.com/track/4LmOmWpjCQbC1VZvUuwPQu) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Francesca](https://open.spotify.com/album/2GS1K0RZ5SjtuT8bsX0xyv) | 4:30 |
 | 23 | [Sacred The Thread](https://open.spotify.com/track/1euMlU3weroX6ERo4vEfQl) | [Greta Van Fleet](https://open.spotify.com/artist/4NpFxQe2UvRCAjto3JqlSl) | [Sacred The Thread](https://open.spotify.com/album/4dimPGtC8aTFM0jCf739TN) | 5:21 |
 | 24 | [Swoon](https://open.spotify.com/track/6c6GZ9GwIFCrKLXviFKt2e) | [Tigercub](https://open.spotify.com/artist/6ekYAO2D1JkI58CF4uRRqw) | [Swoon](https://open.spotify.com/album/0o2rQghOwZtxz3OoIf8N08) | 3:17 |
 | 25 | [Feast Is Over](https://open.spotify.com/track/323zigumohnXlWeUO9fqcK) | [Calva Louise](https://open.spotify.com/artist/02nZLQtQ4vL5iHyp6atBrh) | [Oportunista](https://open.spotify.com/album/0bcLhYRcisUhImKFtAxxEh) | 3:12 |
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4DZAVUAwHMT.md) - [plain]
 | 54 | [Nightlife](https://open.spotify.com/track/6b2mRkThwyuVlw9IYW7aST) | [modernlove.](https://open.spotify.com/artist/2u17Ej1u0JHyRsstmofsrh) | [Nightlife](https://open.spotify.com/album/4ZpE0RfPiMkohY2AHZoUHe) | 3:19 |
 | 55 | [How Far Can You Push A Man?](https://open.spotify.com/track/7znL77EO0Ezhze36hnK8uN) | [The Pale White](https://open.spotify.com/artist/3uhfMjcE5HJqMIWh3Iolw0) | [How Far Can You Push A Man?](https://open.spotify.com/album/1CiNOzyjptv27RvizVglFg) | 4:03 |
 
-Snapshot ID: `MCwwYWZjMGFhMjYwZThjM2E5YzI4NjA1ZWYxMjExNzJjZGU3YjIzYTQx`
+Snapshot ID: `MCwzMDA4YWI3MTI5NTdmZTRmMDhkMzg0YjU1YjRlODMxOWVmYzg1N2Y3`

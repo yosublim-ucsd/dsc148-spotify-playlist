@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 
 > Women at full volume! Cover: Pretty Pink
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,276 likes - 50 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,283 likes - 50 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,13 +20,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 10 | [Immer an dich geglaubt](https://open.spotify.com/track/5mWkmalwb4PrecF7THiRbp) | [Lina Maly](https://open.spotify.com/artist/0VVKg6krYM45eGuevSlcRk), [Madeline Juno](https://open.spotify.com/artist/6u8KyY2rfBGDtDejRJ9JaQ) | [Immer an dich geglaubt](https://open.spotify.com/album/4NbIU98TsaJ53d0K2qzH91) | 2:52 |
 | 11 | [Lost in Paradise](https://open.spotify.com/track/5jVfowFVOwBdkUPkRHiObu) | [Alicia Awa](https://open.spotify.com/artist/7mYMOwpduul48upxZCfFBS) | [Lost in Paradise](https://open.spotify.com/album/5waR15zk8BkCe4mGIhBSfl) | 2:43 |
 | 12 | [uff, nein](https://open.spotify.com/track/4YRN4TwZjB4xSAjnT3JixX) | [Eli Preiss](https://open.spotify.com/artist/7JmNUb5QPlIV4psjRqNsID), [DONNA SAVAGE](https://open.spotify.com/artist/21HEXB1t4OJLHhnsS9uQSw), [prod.suki](https://open.spotify.com/artist/4sRWXtD28EnvezAlaltt0x) | [b.a.d.](https://open.spotify.com/album/4kqYMOaRZkArxO2NOpLCJX) | 2:56 |
-| 13 | [Don't Let Me Go](https://open.spotify.com/track/5hNibQaWxWKoYJauWzeJVb) | [Nora Van Elken](https://open.spotify.com/artist/04m3oUGzjO3EJTQidFzTgM), [WILS](https://open.spotify.com/artist/2s7MSmBHBen5bxastq4E0O) | [Don't Let Me Go](https://open.spotify.com/album/79EO7l4nmhRSVVafjHlVEr) | 3:15 |
-| 14 | [Wishing Well](https://open.spotify.com/track/4CwpXQipxCBWejF9xq4Evq) | [ILIRA](https://open.spotify.com/artist/6mzs66iVW15C5iLt0JLt41) | [Wishing Well](https://open.spotify.com/album/4oOOSOlQ8eK2jh8Csq2Y3Z) | 3:18 |
+| 13 | [Wishing Well](https://open.spotify.com/track/4CwpXQipxCBWejF9xq4Evq) | [ILIRA](https://open.spotify.com/artist/6mzs66iVW15C5iLt0JLt41) | [Wishing Well](https://open.spotify.com/album/4oOOSOlQ8eK2jh8Csq2Y3Z) | 3:18 |
+| 14 | [Don't Let Me Go](https://open.spotify.com/track/5hNibQaWxWKoYJauWzeJVb) | [Nora Van Elken](https://open.spotify.com/artist/04m3oUGzjO3EJTQidFzTgM), [WILS](https://open.spotify.com/artist/2s7MSmBHBen5bxastq4E0O) | [Don't Let Me Go](https://open.spotify.com/album/79EO7l4nmhRSVVafjHlVEr) | 3:15 |
 | 15 | [Lost Indieboy](https://open.spotify.com/track/23eDWkNkjz2DWYMfl500VK) | [Antje Schomaker](https://open.spotify.com/artist/7Kif1sqh6J226OZFwUgt8n) | [Lost Indieboy](https://open.spotify.com/album/1m15vBieDMaG3wh1wdniPk) | 3:19 |
-| 16 | [Change](https://open.spotify.com/track/5VR7fuS81foZIQZ7OyRIoA) | [CATT](https://open.spotify.com/artist/4vECkYVXR5tUXqDk2LVzkJ) | [Change](https://open.spotify.com/album/6TckaHJU35tlFUy57USHAB) | 5:59 |
-| 17 | [ocean drive](https://open.spotify.com/track/1qR818h8X7EnRGC6k3Cljv) | [myne](https://open.spotify.com/artist/34WPfL387QxZ5t8epiRnTL) | [ocean drive](https://open.spotify.com/album/1yAfC0GuoqMU1rpoIs6D3u) | 2:31 |
-| 18 | [Now Or Never](https://open.spotify.com/track/7xcmPlJlJZ4JsGapKjdkCu) | [TAM](https://open.spotify.com/artist/7x6QjaVDrueDmZ8k5qyhaz), [Moglii](https://open.spotify.com/artist/0lIIsJafIVVi3ruN2vFzpS) | [Now Or Never](https://open.spotify.com/album/4YKUIhAo0WvlE2qKkCvMUh) | 2:28 |
-| 19 | [WHO NEEDS ENEMIES](https://open.spotify.com/track/3bxlJgVp6pXSpItCZ3TwYT) | [Diana Goldberg](https://open.spotify.com/artist/0FSc1VcYTT0NQ5u9f5Hmpk) | [WHO NEEDS ENEMIES](https://open.spotify.com/album/68NnpDvykXyKkPuqA8Zsbg) | 2:32 |
+| 16 | [ocean drive](https://open.spotify.com/track/1qR818h8X7EnRGC6k3Cljv) | [myne](https://open.spotify.com/artist/34WPfL387QxZ5t8epiRnTL) | [ocean drive](https://open.spotify.com/album/1yAfC0GuoqMU1rpoIs6D3u) | 2:31 |
+| 17 | [Change](https://open.spotify.com/track/5VR7fuS81foZIQZ7OyRIoA) | [CATT](https://open.spotify.com/artist/4vECkYVXR5tUXqDk2LVzkJ) | [Change](https://open.spotify.com/album/6TckaHJU35tlFUy57USHAB) | 5:59 |
+| 18 | [WHO NEEDS ENEMIES](https://open.spotify.com/track/3bxlJgVp6pXSpItCZ3TwYT) | [Diana Goldberg](https://open.spotify.com/artist/0FSc1VcYTT0NQ5u9f5Hmpk) | [WHO NEEDS ENEMIES](https://open.spotify.com/album/68NnpDvykXyKkPuqA8Zsbg) | 2:32 |
+| 19 | [Now Or Never](https://open.spotify.com/track/7xcmPlJlJZ4JsGapKjdkCu) | [TAM](https://open.spotify.com/artist/7x6QjaVDrueDmZ8k5qyhaz), [Moglii](https://open.spotify.com/artist/0lIIsJafIVVi3ruN2vFzpS) | [Now Or Never](https://open.spotify.com/album/4YKUIhAo0WvlE2qKkCvMUh) | 2:28 |
 | 20 | [Raum 37](https://open.spotify.com/track/2PWaVvsSaOQTciQZM7eoX1) | [Katha Pauer](https://open.spotify.com/artist/2YxWusBgSh4BLJdypUbFbC) | [Raum 37](https://open.spotify.com/album/2k73lgJP18duGEkA7U2YkV) | 2:21 |
 | 21 | [I want it bad](https://open.spotify.com/track/0vd63b6Tyq3iQeORinVPzj) | [Dottie Andersson](https://open.spotify.com/artist/360qeHf7kan9K9bKFPNwVM) | [I want it bad](https://open.spotify.com/album/3r0rOGXSz7RSZ5dhMpxNo1) | 2:32 |
 | 22 | [All Ears on Me](https://open.spotify.com/track/1zblKer9LkCk9P33KXnZrs) | [Vita](https://open.spotify.com/artist/6xFDR4HD7uLGWhdV9vF9qP) | [All Ears on Me](https://open.spotify.com/album/0Umpl1GnQLFvAPWlXDWykm) | 2:11 |
@@ -40,14 +40,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 30 | [Loose Lips](https://open.spotify.com/track/4EPqqtmYj7gOmIRw6boqKs) | [Natascha Polké](https://open.spotify.com/artist/5FLN3H4PiuUQMmFzGmcQ96) | [Loose Lips \(Original and Jody Wisternoff & James Grant Mixes\)](https://open.spotify.com/album/32udrYYGz0lkvE7F50asV1) | 3:47 |
 | 31 | [FIREWORK](https://open.spotify.com/track/4FXzptXwH5Wz33SVat2uRt) | [KUOKO](https://open.spotify.com/artist/2h8Egzl8WxLijmpQtmuwHK) | [FIREWORK](https://open.spotify.com/album/2lQIr73uagdffu6XPh4CjZ) | 3:36 |
 | 32 | [SOAMI](https://open.spotify.com/track/6aPSqYjp4fElBJaOJNvo55) | [Amilli](https://open.spotify.com/artist/6plodklNvq0eGpBOL4ko0D) | [SOAMI](https://open.spotify.com/album/0R5HRdz4T5tiqOr1u7LgMD) | 3:38 |
-| 33 | [Brown Sugar Baby](https://open.spotify.com/track/6zf14OJhGuljTbv0E1oAFF) | [Queenwho](https://open.spotify.com/artist/4b0hnlYMN1Pl30rU6SYcFC) | [Brown Sugar Baby](https://open.spotify.com/album/5klSmDcwVNYGwMTVjQn6HL) | 2:36 |
+| 33 | [Zwischen den schönsten Bäumen](https://open.spotify.com/track/6a8ctjjBxs2HGy7yFaixPs) | [toksi](https://open.spotify.com/artist/5vek8wrRCD5UxnUlctYXgx) | [Zwischen den schönsten Bäumen](https://open.spotify.com/album/798k3MMihXKGasMfctNrXF) | 4:19 |
 | 34 | [Tale Of Devotion \- Sunny Version](https://open.spotify.com/track/786xUYv8djinGFUze6WGpX) | [Terr](https://open.spotify.com/artist/79ipwfkZpcwMYwHJdqtGsN) | [Consciousness As A State Of Matter](https://open.spotify.com/album/30ihOotiuxfm39eEVm24FI) | 4:25 |
-| 35 | [Zwischen den schönsten Bäumen](https://open.spotify.com/track/6a8ctjjBxs2HGy7yFaixPs) | [toksi](https://open.spotify.com/artist/5vek8wrRCD5UxnUlctYXgx) | [Zwischen den schönsten Bäumen](https://open.spotify.com/album/798k3MMihXKGasMfctNrXF) | 4:19 |
+| 35 | [Brown Sugar Baby](https://open.spotify.com/track/6zf14OJhGuljTbv0E1oAFF) | [Queenwho](https://open.spotify.com/artist/4b0hnlYMN1Pl30rU6SYcFC) | [Brown Sugar Baby](https://open.spotify.com/album/5klSmDcwVNYGwMTVjQn6HL) | 2:36 |
 | 36 | [Radiocarbon](https://open.spotify.com/track/0neqJbbBbtaslhjG9016G7) | [Simina Grigoriu](https://open.spotify.com/artist/1PjzNHCXycxUqsP2yqFqhU) | [Radiocarbon](https://open.spotify.com/album/2oV3FdJ6HpYkDnCUw5mnEN) | 6:33 |
 | 37 | [DJ in Berlin](https://open.spotify.com/track/5DCH8ZcKlZyfXYetdaPOiv) | [3LNA](https://open.spotify.com/artist/1emgDf5qBtbL909f2Pt7uP) | [DJ in Berlin](https://open.spotify.com/album/3oqqu6ebPQBMp4xgITBe3w) | 2:46 |
 | 38 | [Star](https://open.spotify.com/track/5xGZRYQ5H7bJT5oZWg7Bag) | [FEMME5](https://open.spotify.com/artist/6twhscECdbU4hMMZ5hmuii) | [Star](https://open.spotify.com/album/7LhkWbwq2Boz1borVsHS13) | 2:43 |
-| 39 | [The One](https://open.spotify.com/track/0fnZuQ3x6ZKW7GhcbBZOkP) | [Velvet Two Stripes](https://open.spotify.com/artist/7pbcgkLjLsiXKYoKvdmW9g) | [The One](https://open.spotify.com/album/5pNla67YFt6fzF4kDs13Yr) | 2:41 |
-| 40 | [My Time](https://open.spotify.com/track/3gbtNslUtnjb4GioHrR7qH) | [Sofia Portanet](https://open.spotify.com/artist/6QtH2p5QkuzncnyK1Uu2EZ) | [My Time](https://open.spotify.com/album/7FGBbHrwxSy7IMF7kFnDKp) | 2:47 |
+| 39 | [My Time](https://open.spotify.com/track/3gbtNslUtnjb4GioHrR7qH) | [Sofia Portanet](https://open.spotify.com/artist/6QtH2p5QkuzncnyK1Uu2EZ) | [My Time](https://open.spotify.com/album/7FGBbHrwxSy7IMF7kFnDKp) | 2:47 |
+| 40 | [The One](https://open.spotify.com/track/0fnZuQ3x6ZKW7GhcbBZOkP) | [Velvet Two Stripes](https://open.spotify.com/artist/7pbcgkLjLsiXKYoKvdmW9g) | [The One](https://open.spotify.com/album/5pNla67YFt6fzF4kDs13Yr) | 2:41 |
 | 41 | [GLUE SEIN](https://open.spotify.com/track/0h81KayE2HGxjj3M8bhumy) | [Bush.ida](https://open.spotify.com/artist/015bIyYjjyqiy9C74fBLGF) | [Glue sein](https://open.spotify.com/album/1ChdP18rSplml6aVLa0Xh6) | 2:27 |
 | 42 | [Curtain Call](https://open.spotify.com/track/1Js1iELYNnLPWsZh0G9atC) | [THALA](https://open.spotify.com/artist/5JkWwSezW4KRFNy0ru3aZU) | [Curtain Call](https://open.spotify.com/album/5Nj0vXMJBFUTAKI1tcINP8) | 3:32 |
 | 43 | [Poetry](https://open.spotify.com/track/0H4dkHiQ5zmqEtoNbCnhyG) | [Annett Gapstream](https://open.spotify.com/artist/1aRB0SZZ28qswBQ037uYvD) | [Künstlerische Freiheit II](https://open.spotify.com/album/0Cvm4VAqv24QIAAfwNbiWs) | 6:37 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 49 | [cyu](https://open.spotify.com/track/0SrqZuiuyuIu3pwNBLXq0K) | [fraen again](https://open.spotify.com/artist/0BmSxSKl373sqmoGAdHKTT) | [cyu](https://open.spotify.com/album/6bWONIYVnAC9BUkgkjH6PR) | 3:45 |
 | 50 | [Strawberry Milk](https://open.spotify.com/track/79aJ1jhpv0hTQwBSRv5wZd) | [Olive Yaah](https://open.spotify.com/artist/2Z9U9OEYfEAJVkTkNReA0G) | [Strawberry Milk](https://open.spotify.com/album/3sJbhGEEZS8jVLa0VZTlFB) | 4:57 |
 
-Snapshot ID: `MCwwNjg2YmY4OGM3YzNiNzEyMjk5MTkyZDU4MTQxNDlhMTQ3ZjFhMjQz`
+Snapshot ID: `MCxhYjQxMjBhZjM4ZWIxNDY0YTZkNDE4NjM5ZDllMGYwM2Y3ODdhOTcy`

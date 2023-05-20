@@ -791,6 +791,24 @@
     },
     {
       "album": {
+        "name": "Fading",
+        "url": "https://open.spotify.com/album/78IJVIdID5GtvM5oB8EP8g"
+      },
+      "artists": [
+        {
+          "name": "The Go Steady",
+          "url": "https://open.spotify.com/artist/6jLapoPif6z2m9XEJ82G4J"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145993,
+      "name": "Fading",
+      "url": "https://open.spotify.com/track/5ULifaHIedzoCiIkjHU5i5"
+    },
+    {
+      "album": {
         "name": "Faint Light",
         "url": "https://open.spotify.com/album/5Zc0qHjjZf0Vfuc6DqyDvu"
       },
@@ -986,7 +1004,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 305666,
       "name": "For Dinner\u2026",
       "url": "https://open.spotify.com/track/6AdyaWgJliC8HJU4CseNJM"
@@ -1851,6 +1869,24 @@
     },
     {
       "album": {
+        "name": "Nocturne",
+        "url": "https://open.spotify.com/album/5Rl9UU8fQAi7vvA7zbCrdX"
+      },
+      "artists": [
+        {
+          "name": "FoaM",
+          "url": "https://open.spotify.com/artist/1XEXjIZsZ178A5msOFALpu"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118072,
+      "name": "Nocturne",
+      "url": "https://open.spotify.com/track/0vtabIK29LljzI0O5eG8Yw"
+    },
+    {
+      "album": {
         "name": "meadows",
         "url": "https://open.spotify.com/album/2Iwq8ywHPSK7Y04kV1IozT"
       },
@@ -2014,6 +2050,24 @@
       "duration_ms": 593866,
       "name": "Pendulum Man",
       "url": "https://open.spotify.com/track/31rWHoaORhEfXqqr6y48Hm"
+    },
+    {
+      "album": {
+        "name": "Perceptive",
+        "url": "https://open.spotify.com/album/60jpACFvJmrcVpXft0PKH4"
+      },
+      "artists": [
+        {
+          "name": "Ravndala",
+          "url": "https://open.spotify.com/artist/40OmNBDYoyRn43AjGjJzlH"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212571,
+      "name": "Perceptive",
+      "url": "https://open.spotify.com/track/7Mi5eCOPGZI4jwlpzb0xSC"
     },
     {
       "album": {

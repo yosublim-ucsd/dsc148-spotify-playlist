@@ -4,7 +4,7 @@
 
 > Classic hits from the 50s and 60s.
 
-367 songs - 16 hr 38 min
+368 songs - 16 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -193,6 +193,7 @@
 | [Love Me Tender](https://open.spotify.com/track/7LSGjWtza5Y8itm6Cpbj1s) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [The Essential Elvis Presley](https://open.spotify.com/album/3X3rFfVKCW58sKMO0UXkwO) | 2:42 | 2020-12-16 | 2022-04-21 |
 | [Mack the Knife](https://open.spotify.com/track/0YTgZJfVLmJ0b8XAMZKRKg) | [Bobby Darin](https://open.spotify.com/artist/0EodhzA6yW1bIdD5B4tcmJ) | [The Ultimate Bobby Darin](https://open.spotify.com/album/65okcRJHUVUrFiDG3I1Sz8) | 3:04 | 2020-12-16 | 2022-07-29 |
 | [Mack the Knife](https://open.spotify.com/track/3E5ndyOfO6vFDEIE42HA8o) | [Bobby Darin](https://open.spotify.com/artist/0EodhzA6yW1bIdD5B4tcmJ) | [That's All](https://open.spotify.com/album/5MsJK0kqiYIJDmd3cjkGMn) | 3:04 | 2022-10-10 |  |
+| [Mama Said](https://open.spotify.com/track/1SN5fcUZyWFktGbEoHdHOm) | [The Shirelles](https://open.spotify.com/artist/0x83OBqixqdCHnStP5VMcn) | [Remember When](https://open.spotify.com/album/6m8QVjXat9WFfyZPBSe0y8) | 2:04 | 2023-03-04 |  |
 | [Mama Said](https://open.spotify.com/track/5sGeyWYDvUIF7QjERNCY7L) | [The Shirelles](https://open.spotify.com/artist/0x83OBqixqdCHnStP5VMcn) | [Because I Said So \(Music From And Inspired By The Motion Picture\)](https://open.spotify.com/album/70gDHlCYONYFiaHZj98hLY) | 2:10 | 2020-12-16 | 2022-07-29 |
 | [Mashed Potato Time](https://open.spotify.com/track/6jouZcdraQvsbh7SWkLEui) | [Dee Dee Sharp](https://open.spotify.com/artist/2NtGOVTuHBMDfR5PMNPBGT) | [It's Mashed Potato Time/Do The Bird](https://open.spotify.com/album/4SaED2mtSzOU6UEGk6rzwm) | 2:30 | 2020-12-16 | 2022-07-29 |
 | [Memories Are Made Of This](https://open.spotify.com/track/4h0igWYayzteBtSNpWYQ9h) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [Hey, Brother Pour The Wine](https://open.spotify.com/album/4FGYCziMpKskiKoujCTMj8) | 2:18 | 2020-12-16 | 2022-07-29 |
@@ -315,7 +316,7 @@
 | [Tonight You Belong To Me](https://open.spotify.com/track/6TGjPUIJuJYRnHc4tXiQDI) | [Patience & Prudence](https://open.spotify.com/artist/4F78tRprgxpEnopKTTWXor) | [Lost Hits Of The 50's](https://open.spotify.com/album/5DyWDTuTcEyMH5UDxyuOby) | 1:55 | 2022-03-07 | 2022-04-17 |
 | [Tossin' And Turnin'](https://open.spotify.com/track/79s3pSe1u6ggQBEwVPm58Z) | [Bobby Lewis](https://open.spotify.com/artist/6KfBWaX13etjtEZ4d9aTWW) | [Tossin' and Turnin'](https://open.spotify.com/album/31JyXxhju4kXiYJwdjb3u3) | 2:39 | 2020-12-16 | 2022-07-29 |
 | [Travelin' Man \- 2005 Digital Remaster](https://open.spotify.com/track/0LA0c8SIOnKNHfEd8LZoac) | [Ricky Nelson](https://open.spotify.com/artist/73sSFVlM6pkweLXE8qw1OS) | [Greatest Hits \- Ricky Nelson \(Remastered Edition\)](https://open.spotify.com/album/6JohQ1VCMCTwDmj2vpY6FD) | 2:21 | 2020-12-16 | 2022-07-29 |
-| [Travelin' Man \- Remastered](https://open.spotify.com/track/1sM0yZDxUhPQhkDh2CLd6l) | [Ricky Nelson](https://open.spotify.com/artist/73sSFVlM6pkweLXE8qw1OS) | [Rick Is 21](https://open.spotify.com/album/0eWkaY2z2iBw1t7M8eHKQe) | 2:23 | 2022-03-07 |  |
+| [Travelin' Man \- Remastered](https://open.spotify.com/track/1sM0yZDxUhPQhkDh2CLd6l) | [Ricky Nelson](https://open.spotify.com/artist/73sSFVlM6pkweLXE8qw1OS) | [Rick Is 21](https://open.spotify.com/album/0eWkaY2z2iBw1t7M8eHKQe) | 2:23 | 2022-03-07 | 2023-05-20 |
 | [True Love](https://open.spotify.com/track/0Osw0ZdsD53aqx92ik0Br8) | [Bing Crosby & Grace Kelly](https://open.spotify.com/artist/34CRCC21gRhqn5G7XAkGsN) | [True Love](https://open.spotify.com/album/3n1q8ES4npE4wlcnFtK9qO) | 3:06 | 2020-12-16 | 2022-07-29 |
 | [Try a Little Tenderness](https://open.spotify.com/track/36AlMHDBFwSsD3FQOy1R81) | [Otis Redding](https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm) | [Complete & Unbelievable: The Otis Redding Dictionary of Soul](https://open.spotify.com/album/25uNcuL4dAoV62eKmr8Q0Y) | 3:21 | 2022-10-11 |  |
 | [Turn! Turn! Turn! \(To Everything There Is a Season\)](https://open.spotify.com/track/5qBqBdfTEIWJwAS0Jm2F5R) | [The Byrds](https://open.spotify.com/artist/1PCZpxHJz7WAMF8EEq8bfc) | [Turn! Turn! Turn!](https://open.spotify.com/album/3v0i9qyogPoQEQj2bG6Fmn) | 3:49 | 2022-10-11 |  |

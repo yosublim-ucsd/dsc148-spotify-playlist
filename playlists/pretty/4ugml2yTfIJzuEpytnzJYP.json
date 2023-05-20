@@ -1,13 +1,49 @@
 {
   "description": "Lovingly updated every week when possible .  Make sure to click the heart \ud83d\udc93 to follow the playlist 140, deep bass,  glitch hop,  halftime, dubstep, DnB, Wave",
-  "num_followers": 6131,
+  "num_followers": 6132,
   "original_name": "Medicine Playlist -  Deep Bass Vibes",
   "owner": {
     "name": "An-Ten-Nae",
     "url": "https://open.spotify.com/user/124011761"
   },
-  "snapshot_id": "MjEzOSwyMjc4ODllMGRlNWU2Yjk1Y2Q2ODAwNjhkNjdlOWI4YjZmNjI0ZGQ3",
+  "snapshot_id": "MjE0NCwzYmY1NGZmZTE3MmFkNDI3NGY1ZDE2MmI1MmZkNTVjZGM1MmI3YjA3",
   "tracks": [
+    {
+      "added_at": "2023-05-19 07:42:05",
+      "album": {
+        "name": "Eternal",
+        "url": "https://open.spotify.com/album/3g2RMZ1bw8e50PCG5X01nY"
+      },
+      "artists": [
+        {
+          "name": "An-Ten-Nae",
+          "url": "https://open.spotify.com/artist/60WU0oNpF372dzVGDe4BcV"
+        },
+        {
+          "name": "Nahlith",
+          "url": "https://open.spotify.com/artist/0gKRNAatXm1v7V34aoWyFJ"
+        }
+      ],
+      "duration_ms": 219628,
+      "name": "Eternal",
+      "url": "https://open.spotify.com/track/5YVzXBX3kZEPNprKeGw4Yq"
+    },
+    {
+      "added_at": "2023-02-23 02:23:14",
+      "album": {
+        "name": "I Am Tiger",
+        "url": "https://open.spotify.com/album/0Wlb29T2xQGR0pgFVrQHKd"
+      },
+      "artists": [
+        {
+          "name": "An-Ten-Nae",
+          "url": "https://open.spotify.com/artist/60WU0oNpF372dzVGDe4BcV"
+        }
+      ],
+      "duration_ms": 195531,
+      "name": "I Am Tiger",
+      "url": "https://open.spotify.com/track/5BBbXALudSXzfwRy4aEChM"
+    },
     {
       "added_at": "2023-05-07 20:40:53",
       "album": {
@@ -47,22 +83,6 @@
       "duration_ms": 197768,
       "name": "Underground",
       "url": "https://open.spotify.com/track/7u8p3u6rE0zwWOHVQbpfdq"
-    },
-    {
-      "added_at": "2023-02-23 02:23:14",
-      "album": {
-        "name": "I Am Tiger",
-        "url": "https://open.spotify.com/album/0Wlb29T2xQGR0pgFVrQHKd"
-      },
-      "artists": [
-        {
-          "name": "An-Ten-Nae",
-          "url": "https://open.spotify.com/artist/60WU0oNpF372dzVGDe4BcV"
-        }
-      ],
-      "duration_ms": 195531,
-      "name": "I Am Tiger",
-      "url": "https://open.spotify.com/track/5BBbXALudSXzfwRy4aEChM"
     },
     {
       "added_at": "2023-01-17 21:54:00",

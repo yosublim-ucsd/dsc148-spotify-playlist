@@ -2,9 +2,9 @@
 
 ### [Epic & Melodic](https://open.spotify.com/playlist/37i9dQZF1DX37bXS7EGI3f)
 
-> Epic and melodic metal \- for the dragonslayer in you! Cover: Sabaton
+> Epic and melodic metal \- for the dragonslayer in you! Cover: Within Temptation
 
-536 songs - 1 day 17 hr 14 min
+537 songs - 1 day 17 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -169,7 +169,7 @@
 | [Farewell](https://open.spotify.com/track/3aiqdK6P4HrbMuKEm81wm4) | [Thaehan](https://open.spotify.com/artist/2n0sjgdrfHYJT6B39cdvWW) | [Alaiho](https://open.spotify.com/album/2FyeVxOQLQyZeHbm7cRjQq) | 3:00 | 2021-04-10 | 2021-12-11 |
 | [Fate of Man](https://open.spotify.com/track/6qWw5KhqblmmqA7APdpqmk) | [Arjen Anthony Lucassen's Star One](https://open.spotify.com/artist/1W5pfX7IGyw9wCmfARg1pi) | [Fate of Man](https://open.spotify.com/album/4lvGV04Suxogp8e6tryPQf) | 5:29 | 2021-11-20 | 2022-06-18 |
 | [Fear of the Fallen](https://open.spotify.com/track/6sKD7OL6nPhkY8VcQuYdai) | [Helloween](https://open.spotify.com/artist/4pQN0GB0fNEEOfQCaWotsY) | [Fear of the Fallen](https://open.spotify.com/album/4FOtnQvfbsMo5kEaXQ59Kg) | 5:38 | 2021-05-21 | 2021-06-19 |
-| [Fears Don't Matter](https://open.spotify.com/track/7KnvDg0LKjSfWdWE3fOkfL) | [Blame Me!](https://open.spotify.com/artist/5VPpA30LO6fGV6ZYycAn9T) | [Fears Don't Matter](https://open.spotify.com/album/552oU2gbQGqZmmleLFLOeQ) | 3:44 | 2022-01-21 |  |
+| [Fears Don't Matter](https://open.spotify.com/track/7KnvDg0LKjSfWdWE3fOkfL) | [Blame Me!](https://open.spotify.com/artist/5VPpA30LO6fGV6ZYycAn9T) | [Fears Don't Matter](https://open.spotify.com/album/552oU2gbQGqZmmleLFLOeQ) | 3:44 | 2022-01-21 | 2023-05-20 |
 | [Feed the Fire](https://open.spotify.com/track/6k6HxyqO3OgyVcydZZXmfI) | [Crimson Sun](https://open.spotify.com/artist/6swg1JhIcRgZCqAHi3MDp9) | [Feed the Fire](https://open.spotify.com/album/0Xu2uCpy0kL15O5iC3t7iP) | 3:19 | 2022-04-29 |  |
 | [Fellows of the Hammer](https://open.spotify.com/track/2RyG06POk4ybd4B0CZC02k) | [Wind Rose](https://open.spotify.com/artist/67ps5pbKVO7V9Fcb4lTIXz) | [Warfront](https://open.spotify.com/album/5Jf1NavkE0nEpzo2rnjMrL) | 6:15 | 2022-07-08 |  |
 | [Fellows Of The Hammer](https://open.spotify.com/track/7CCuImUVT6t9M8VYWoDu32) | [Wind Rose](https://open.spotify.com/artist/67ps5pbKVO7V9Fcb4lTIXz) | [Fellows Of The Hammer](https://open.spotify.com/album/3eYfoatfcuFQr8dNaXYwK3) | 6:15 | 2022-06-11 | 2022-07-29 |
@@ -531,6 +531,7 @@
 | [Winter Is Coming](https://open.spotify.com/track/1BPFrXiyrInaCIWkuvVRny) | [Beyond The Black](https://open.spotify.com/artist/6swnqiL41Bd4gO2fnAXXrf) | [Winter Is Coming](https://open.spotify.com/album/1tWfmRuAlcjVu4utHgy3fN) | 4:37 | 2022-10-07 |  |
 | [Wired For Madness, Pt\. 1.1 \(Bring It On\)](https://open.spotify.com/track/5Gdgx8sxajwAUykuwha8dj) | [Jordan Rudess](https://open.spotify.com/artist/1eAj0NmIiXgqpy5aN4GlsS) | [Wired For Madness, Pt\. 1](https://open.spotify.com/album/551YLCPFOY6gkn8Yy2pj5i) | 5:20 | 2022-07-13 | 2022-07-26 |
 | [Wired For Madness, Pt\. 1.1 \(Bring It On\)](https://open.spotify.com/track/5mjPofHP2uRZx8IqXs2cki) | [Jordan Rudess](https://open.spotify.com/artist/1eAj0NmIiXgqpy5aN4GlsS) | [Wired For Madness](https://open.spotify.com/album/4qHmxRDBpZ1JnHfVBsu82F) | 5:20 | 2022-07-13 | 2022-07-30 |
+| [Wireless](https://open.spotify.com/track/671W1lZGS9LcyzkMCRK3ve) | [Within Temptation](https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a) | [Wireless](https://open.spotify.com/album/2XzK5f8ZxVwNgWBIopIQuB) | 4:41 | 2023-05-19 |  |
 | [Witch House](https://open.spotify.com/track/0RoJGJA3g0Oop7xDfsbTw9) | [Scale The Summit](https://open.spotify.com/artist/16Uqo1jjtPiKI4zU1Ficgb), [Angel Vivaldi](https://open.spotify.com/artist/4IvneyseUnh42KeTx1icxK) | [In a World of Fear](https://open.spotify.com/album/1svX5NjgJMiqEL6ZLvJD0T) | 4:45 | 2022-07-13 | 2022-07-22 |
 | [Wolves At The Door](https://open.spotify.com/track/4xcyvmg5RAdxdQRzvApaUN) | [Yngwie Malmsteen](https://open.spotify.com/artist/5DpSoH5zCXNRqYai7pmcGG) | [Wolves At The Door](https://open.spotify.com/album/0MVixPgkMXEeGQRMiNcuKR) | 5:54 | 2021-05-07 | 2021-06-04 |
 | [World on Fire](https://open.spotify.com/track/1qdhBYfE5OqEv23gDYso2I) | [Stratovarius](https://open.spotify.com/artist/1O8CSXsPwEqxcoBE360PPO) | [World on Fire](https://open.spotify.com/album/0BgiXlKZgOiRIJJJGI4odZ) | 4:26 | 2022-07-08 | 2022-09-26 |

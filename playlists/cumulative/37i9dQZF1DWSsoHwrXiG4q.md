@@ -4,7 +4,7 @@
 
 > Deep sounds of liquid drum & bass to keep you in the flow.
 
-70 songs - 5 hr 54 min
+72 songs - 6 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,6 +20,7 @@
 | [Dreamless Sleep \- Nostre Remix](https://open.spotify.com/track/7H71r6qDOroGG4QSR1r9h8) | [Fishy](https://open.spotify.com/artist/5p4DMSX1fKl07ogZewmRp0), [Nostre](https://open.spotify.com/artist/0YPx2M7Ty3rAYJnCzzRB5t) | [Osiris EP](https://open.spotify.com/album/2MKjIUyf2hly994DlN6ULX) | 5:06 | 2022-11-30 |  |
 | [Early in the Morning](https://open.spotify.com/track/4XoGAJLZBvDg8IlnDyJGHE) | [Command Strange](https://open.spotify.com/artist/6ZslPRiDjYFasSPscHF7v2), [Intelligent Manners](https://open.spotify.com/artist/7Kgps1bJZyZeY7Oa17YaGs) | [Joy LP](https://open.spotify.com/album/6z7Zqow6RhmosibkQdkjwG) | 4:33 | 2022-11-30 |  |
 | [Eastern Surprise](https://open.spotify.com/track/64EFUJbhplwsrM315SFMyv) | [Artificial Intelligence](https://open.spotify.com/artist/3dfQn1ijJNptfREJB2rRd2) | [Eastern Surprise](https://open.spotify.com/album/42uvb5jtA1JhjpP8eEGg2A) | 4:32 | 2023-03-09 |  |
+| [Evolution Dub](https://open.spotify.com/track/4CgNZoBh7FJAlrVhlVdifY) | [Counter Culture](https://open.spotify.com/artist/5S9npCbtuNoMtN5xuMyvbU) | [Evolution Dub / You And & Me](https://open.spotify.com/album/5Vt32ASWXOUkfts2GMT527) | 4:55 | 2023-05-19 |  |
 | [Falling Lights](https://open.spotify.com/track/5ZXXout3LaxYFT2dVRvT8j) | [Painted Skies & Viewer](https://open.spotify.com/artist/4VTZ1NxNNLeGdRuKXXv3ZK) | [Tonight](https://open.spotify.com/album/2cVSNtvF9aAWblNYQeCl5e) | 5:39 | 2022-11-30 |  |
 | [Feel Me](https://open.spotify.com/track/1HcH5kwmpDJ8qyPL5GHx0z) | [Linquei](https://open.spotify.com/artist/1f1aYXcRPviy2KuNn8K3Pd) | [Liquidism \(Volume 12\)](https://open.spotify.com/album/0FlI19Se2vM93u4g9xbM5H) | 5:26 | 2022-11-30 |  |
 | [Fire Lit Sky](https://open.spotify.com/track/2qDokZ8quVAjzfeBLF6hDY) | [Etherwood](https://open.spotify.com/artist/3GEUIa3Z0Qlivy3EcJm5RX) | [In Stillness](https://open.spotify.com/album/2o7x8GHrOfI0kosqwo9qlF) | 5:16 | 2022-11-30 |  |
@@ -47,6 +48,7 @@
 | [Looking at the Clock](https://open.spotify.com/track/4ks74MQukyBUsPJphTEo8g) | [Ruzer](https://open.spotify.com/artist/09mAGI8RIblTO46vN2FQaq) | [Sawtooths](https://open.spotify.com/album/6B83958Cy542YGq5cX1lTw) | 3:19 | 2023-02-01 |  |
 | [Losing my soul \- Original Mix](https://open.spotify.com/track/0UMr7sXDttPzFG1qVuTIBs) | [Monty](https://open.spotify.com/artist/2w5c2l70mYNDdSLifFyZjJ) | [Modern Soul 3 LP](https://open.spotify.com/album/69uFpVWTZxpdz9BTHRwFcv) | 5:14 | 2022-11-30 |  |
 | [Lost \- Pola & Bryson Remix](https://open.spotify.com/track/7uI90KliRDd8egscd650jj) | [Hybrid Minds](https://open.spotify.com/artist/05lF0DUkLJqiW5o70SScyR), [Pola & Bryson](https://open.spotify.com/artist/79PzyYqAyunWsVH4tY4vpr) | [Lost \(Pola & Bryson Remix\)](https://open.spotify.com/album/5VgTlXbwBgqQgfQX7Pwdpn) | 5:36 | 2022-11-30 |  |
+| [Magnetic](https://open.spotify.com/track/3HjRaXVmPDawlKmRtH5pTA) | [Sustance](https://open.spotify.com/artist/3069G1J62ioGObj518Umm2) | [Magnetic](https://open.spotify.com/album/74zXp1spwIlWwm5rGOffjq) | 3:46 | 2023-05-19 |  |
 | [Minimal](https://open.spotify.com/track/4nQ6FKHEX4YnZCvfAjQwYG) | [Surreal](https://open.spotify.com/artist/5uWvpdaxp81vUjmd1ZyB2q) | [Signal EP](https://open.spotify.com/album/1RC36wrWedNH6KAr8dvTfy) | 4:35 | 2022-11-30 |  |
 | [Misty](https://open.spotify.com/track/1AFqQtfrQ0VMLeZxrSPrfM) | [Lenzman](https://open.spotify.com/artist/4IKdJSimREJMIKDfvYvJHF) | [Bobby](https://open.spotify.com/album/3pQni96ENZH1JtBXAmOgZ1) | 4:53 | 2022-11-30 |  |
 | [Mr Right On \- Remastered](https://open.spotify.com/track/0oQDVQygGLhYhEUTb15XjP) | [Calibre](https://open.spotify.com/artist/0sklgkoO5JeS7YNhHS5EmH) | [Carry Me Away / Mr Right On](https://open.spotify.com/album/7qgQhIJD5TtcmpCmT0NOaj) | 5:19 | 2022-11-30 |  |

@@ -70,7 +70,7 @@
       ],
       "date_added": "2023-03-13",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-09",
+      "date_removed": null,
       "duration_ms": 160000,
       "name": "Alpenglow",
       "url": "https://open.spotify.com/track/1JDiDQ4xtzLADSb9z6BpyA"
@@ -142,7 +142,7 @@
       ],
       "date_added": "2023-03-13",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-10",
+      "date_removed": null,
       "duration_ms": 157314,
       "name": "Aqua",
       "url": "https://open.spotify.com/track/72JYXTOazE5q73VSiTytqP"
@@ -203,6 +203,24 @@
     },
     {
       "album": {
+        "name": "Bel Flusso",
+        "url": "https://open.spotify.com/album/2E43nIu2dU5K0oEkgJJwo2"
+      },
+      "artists": [
+        {
+          "name": "Alpha Vectoriam",
+          "url": "https://open.spotify.com/artist/4tJk8aN9skPGFZmkoAsBJD"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218874,
+      "name": "Bel Flusso",
+      "url": "https://open.spotify.com/track/5G9elfgCYkKL5fPCfKP6eD"
+    },
+    {
+      "album": {
         "name": "In The Forest",
         "url": "https://open.spotify.com/album/7d049Mog0TmiEPv4GHMJ88"
       },
@@ -221,6 +239,24 @@
     },
     {
       "album": {
+        "name": "Calling",
+        "url": "https://open.spotify.com/album/7zQFpHbJgeMcJPAK0pnStL"
+      },
+      "artists": [
+        {
+          "name": "Muni Yogi",
+          "url": "https://open.spotify.com/artist/5VMpyeQNlYtPipmkNpxRt0"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203116,
+      "name": "Calling",
+      "url": "https://open.spotify.com/track/7KooASXXdp3fKGWGbp7CBE"
+    },
+    {
+      "album": {
         "name": "Calmest lake",
         "url": "https://open.spotify.com/album/3zhhOZnLZBFNOGIbFC7zSH"
       },
@@ -236,6 +272,24 @@
       "duration_ms": 192000,
       "name": "Calmest lake",
       "url": "https://open.spotify.com/track/191AWPJySNUFVPZtd82eN8"
+    },
+    {
+      "album": {
+        "name": "Calming Encounter",
+        "url": "https://open.spotify.com/album/4q0GhwwD9fRe2ghssfQMkK"
+      },
+      "artists": [
+        {
+          "name": "Eli Dylan",
+          "url": "https://open.spotify.com/artist/4FnhRuj3eKz4JXL27neoCC"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197845,
+      "name": "Calming Encounter (nature)",
+      "url": "https://open.spotify.com/track/6onX1sotvWxqZYLRCk1yOE"
     },
     {
       "album": {
@@ -419,6 +473,24 @@
     },
     {
       "album": {
+        "name": "Deepest Forest",
+        "url": "https://open.spotify.com/album/75qZcZxWnplR6i29usmnke"
+      },
+      "artists": [
+        {
+          "name": "Veronica Howland",
+          "url": "https://open.spotify.com/artist/2i3G7ixL6J6qkND65vK8XC"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178181,
+      "name": "Deepest Forest",
+      "url": "https://open.spotify.com/track/6gyM2GlknJPPe0QxJBlPrD"
+    },
+    {
+      "album": {
         "name": "Draumkennd (Sound Bath)",
         "url": "https://open.spotify.com/album/6d4FrI1InmsQ8TpBteiPJJ"
       },
@@ -452,6 +524,24 @@
       "duration_ms": 150810,
       "name": "Early Morning",
       "url": "https://open.spotify.com/track/1eUXmvus2WRXA8sBzJwCGZ"
+    },
+    {
+      "album": {
+        "name": "Drizzle Meditation",
+        "url": "https://open.spotify.com/album/5mx1V4QPaVfevxhDPiL3eI"
+      },
+      "artists": [
+        {
+          "name": "Sonic Waterfall",
+          "url": "https://open.spotify.com/artist/3dYazD43M85TR46lQcHzyO"
+        }
+      ],
+      "date_added": "2023-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199947,
+      "name": "Early Morning Drizzle",
+      "url": "https://open.spotify.com/track/5GZMPF7n2SrrOce6Ug7QWj"
     },
     {
       "album": {
@@ -502,10 +592,28 @@
       ],
       "date_added": "2023-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 187200,
       "name": "Everything's okay",
       "url": "https://open.spotify.com/track/2SZ2yUWp0iHGFetUo5MJay"
+    },
+    {
+      "album": {
+        "name": "Far Away",
+        "url": "https://open.spotify.com/album/1loIi1focCClaqBK1gScgK"
+      },
+      "artists": [
+        {
+          "name": "Divine Moments",
+          "url": "https://open.spotify.com/artist/4rK7cbO86S7SvbdVdSNhKf"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137249,
+      "name": "Far Away",
+      "url": "https://open.spotify.com/track/7l1XV19coB7tAqnpuU3oHf"
     },
     {
       "album": {
@@ -563,6 +671,24 @@
     },
     {
       "album": {
+        "name": "Glitching",
+        "url": "https://open.spotify.com/album/5tEOEdmq5hskUT0cNQlEj8"
+      },
+      "artists": [
+        {
+          "name": "Solvekin",
+          "url": "https://open.spotify.com/artist/6vz9kIJB249V5DbMMH0WZA"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147192,
+      "name": "Glitching",
+      "url": "https://open.spotify.com/track/5mGFbVJPUbx8ml6o3gFzcI"
+    },
+    {
+      "album": {
         "name": "Godric",
         "url": "https://open.spotify.com/album/48nN109FvJCU8OqD7U18wm"
       },
@@ -614,6 +740,24 @@
       "duration_ms": 163133,
       "name": "Halcyon River",
       "url": "https://open.spotify.com/track/54fAW6nglw7I5bjyeOcka4"
+    },
+    {
+      "album": {
+        "name": "Healing Stream (432 Hz)",
+        "url": "https://open.spotify.com/album/1YL9uNSBY8dLqbVHXzS9ZI"
+      },
+      "artists": [
+        {
+          "name": "Reiki Nataraj",
+          "url": "https://open.spotify.com/artist/4XQVxqzUr02fZBMg50dosX"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205390,
+      "name": "Healing Stream (432 Hz)",
+      "url": "https://open.spotify.com/track/4BtZMCkTt5rV0ZFUJos6Oi"
     },
     {
       "album": {
@@ -686,6 +830,24 @@
       "duration_ms": 212500,
       "name": "Humble Present",
       "url": "https://open.spotify.com/track/4Vi9xSebHSxKK7LArcVcYU"
+    },
+    {
+      "album": {
+        "name": "Incubations",
+        "url": "https://open.spotify.com/album/3PLtwNgWWjOPHlExuhvbvh"
+      },
+      "artists": [
+        {
+          "name": "Roland Mercier",
+          "url": "https://open.spotify.com/artist/6wCp7aiL9NQ8j2vl6BQAsa"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200360,
+      "name": "Incubations",
+      "url": "https://open.spotify.com/track/32l1QmHNSscsKZiGCpiZxX"
     },
     {
       "album": {
@@ -916,7 +1078,7 @@
       ],
       "date_added": "2023-04-24",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-18",
+      "date_removed": null,
       "duration_ms": 181398,
       "name": "Mend Minds",
       "url": "https://open.spotify.com/track/50hUqlzcAXBLXlpXjuM9eV"
@@ -1139,6 +1301,24 @@
     },
     {
       "album": {
+        "name": "Corkscrew Swamp Sanctuary Pt. 2 Soundwalk",
+        "url": "https://open.spotify.com/album/5jgX1p4HWumq7VD0xurygG"
+      },
+      "artists": [
+        {
+          "name": "Chad Crouch",
+          "url": "https://open.spotify.com/artist/5JRxfOFTlqoWivEpflMHjq"
+        }
+      ],
+      "date_added": "2023-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158320,
+      "name": "Part 15, Afternoon Melody",
+      "url": "https://open.spotify.com/track/5fKbRySu8OEzqXL83OqGw4"
+    },
+    {
+      "album": {
         "name": "Forest Park Rain Soundwalk",
         "url": "https://open.spotify.com/album/3qb2JQvWSf3WQMHtcL0PW9"
       },
@@ -1154,6 +1334,24 @@
       "duration_ms": 77544,
       "name": "Part 2, Trailside Rivulet and Birdsong",
       "url": "https://open.spotify.com/track/6YoRZMHu0xLdBlWSgKXslU"
+    },
+    {
+      "album": {
+        "name": "Peaceful Path",
+        "url": "https://open.spotify.com/album/4HiC9a7PFHX75Le0nXNwBX"
+      },
+      "artists": [
+        {
+          "name": "Ayivah",
+          "url": "https://open.spotify.com/artist/4MFiKatqBIbFbdEZscWA8o"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139178,
+      "name": "Peaceful Path",
+      "url": "https://open.spotify.com/track/5IKuaAWFfvwTPCs0mrSJYa"
     },
     {
       "album": {
@@ -1283,6 +1481,24 @@
     },
     {
       "album": {
+        "name": "Quiet Stars",
+        "url": "https://open.spotify.com/album/6kheDSIxcjPBu2No01PQmH"
+      },
+      "artists": [
+        {
+          "name": "Alphonse Florentin",
+          "url": "https://open.spotify.com/artist/1TiOh7R55Sky8irddliW3M"
+        }
+      ],
+      "date_added": "2023-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122293,
+      "name": "Quiet Stars",
+      "url": "https://open.spotify.com/track/7h3QYG1cPw7onxrDxnaYEI"
+    },
+    {
+      "album": {
         "name": "Rhizome",
         "url": "https://open.spotify.com/album/0NzS4TXtxjpOZOtGLLYyNt"
       },
@@ -1334,7 +1550,7 @@
       ],
       "date_added": "2023-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 199624,
       "name": "Sauntering Dream",
       "url": "https://open.spotify.com/track/0c2FezsbQQHPFWgtlyGACF"
@@ -1392,6 +1608,24 @@
       "duration_ms": 149839,
       "name": "Sogno Illuminum",
       "url": "https://open.spotify.com/track/0xAvs3yyfYZOmzJorbPIwq"
+    },
+    {
+      "album": {
+        "name": "Solitude",
+        "url": "https://open.spotify.com/album/68GqXg8GI84Bc4lUmg0V7L"
+      },
+      "artists": [
+        {
+          "name": "Antologie",
+          "url": "https://open.spotify.com/artist/6T31mMEmlR4YDtVTQtpPyc"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158433,
+      "name": "Solitude",
+      "url": "https://open.spotify.com/track/0PQpUqvsTITOfhkjD86swb"
     },
     {
       "album": {
@@ -1755,6 +1989,24 @@
     },
     {
       "album": {
+        "name": "Under The Tabla",
+        "url": "https://open.spotify.com/album/5aPaMWN5dirBrt6stMvrZL"
+      },
+      "artists": [
+        {
+          "name": "Roland Mercier",
+          "url": "https://open.spotify.com/artist/6wCp7aiL9NQ8j2vl6BQAsa"
+        }
+      ],
+      "date_added": "2023-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194941,
+      "name": "Under The Tabla",
+      "url": "https://open.spotify.com/track/5RmZaQr8u7VZWg6kX7ADGB"
+    },
+    {
+      "album": {
         "name": "Unit\u00e9",
         "url": "https://open.spotify.com/album/2arwW4mufgnvXDiPYIT6ze"
       },
@@ -1766,7 +2018,7 @@
       ],
       "date_added": "2023-03-13",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-17",
+      "date_removed": null,
       "duration_ms": 158250,
       "name": "Unit\u00e9",
       "url": "https://open.spotify.com/track/1XNuWRKQ8EoadsOq0nGtuI"
@@ -1820,7 +2072,7 @@
       ],
       "date_added": "2023-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 135000,
       "name": "Welcome Home",
       "url": "https://open.spotify.com/track/6hB3TsUZUwOC6QUxHIhFgg"

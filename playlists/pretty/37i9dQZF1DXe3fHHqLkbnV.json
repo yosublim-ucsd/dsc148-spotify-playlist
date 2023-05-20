@@ -1,12 +1,12 @@
 {
   "description": "The best easy rock from the 1990s. Cover: Bryan Adams.",
-  "num_followers": 264928,
+  "num_followers": 265389,
   "original_name": "90s Easy Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwNjA5YzJjNjJhMzk4NWI2ODBkOWViNmE4MjNjYzJiOWU1ZDBkN2U1",
+  "snapshot_id": "MCw5NmNkYWJhY2U2NzMyZTQ4MzUxNjMwMmE3N2Q5NzZjNDEyNTEwMmZh",
   "tracks": [
     {
       "added_at": "2023-01-18 22:23:18",
@@ -1039,22 +1039,6 @@
     {
       "added_at": "2023-01-18 22:23:18",
       "album": {
-        "name": "Human Touch",
-        "url": "https://open.spotify.com/album/5vza8Bd9yp7kRX45QsUljF"
-      },
-      "artists": [
-        {
-          "name": "Bruce Springsteen",
-          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
-        }
-      ],
-      "duration_ms": 388800,
-      "name": "Human Touch",
-      "url": "https://open.spotify.com/track/1o53HbxmOy5TzThJdBaDZb"
-    },
-    {
-      "added_at": "2023-01-18 22:23:18",
-      "album": {
         "name": "Circus",
         "url": "https://open.spotify.com/album/0WGH7xwdRoCCNLJEyQQ4Z0"
       },
@@ -1067,6 +1051,22 @@
       "duration_ms": 274000,
       "name": "Can't Get You Off My Mind",
       "url": "https://open.spotify.com/track/7bk6iZ5dsrMySXB0aVFYXO"
+    },
+    {
+      "added_at": "2023-01-18 22:23:18",
+      "album": {
+        "name": "Human Touch",
+        "url": "https://open.spotify.com/album/5vza8Bd9yp7kRX45QsUljF"
+      },
+      "artists": [
+        {
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        }
+      ],
+      "duration_ms": 388800,
+      "name": "Human Touch",
+      "url": "https://open.spotify.com/track/1o53HbxmOy5TzThJdBaDZb"
     },
     {
       "added_at": "2023-01-18 22:23:18",
@@ -1183,38 +1183,6 @@
     {
       "added_at": "2023-01-18 22:23:18",
       "album": {
-        "name": "No Need To Argue (The Complete Sessions 1994-1995)",
-        "url": "https://open.spotify.com/album/1Bwo9JkbVwxGyvtQNMRK21"
-      },
-      "artists": [
-        {
-          "name": "The Cranberries",
-          "url": "https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9"
-        }
-      ],
-      "duration_ms": 187849,
-      "name": "Twenty One",
-      "url": "https://open.spotify.com/track/3ZTO8o61SH2xmdVACrGaUk"
-    },
-    {
-      "added_at": "2023-01-18 22:23:18",
-      "album": {
-        "name": "Hell To Pay",
-        "url": "https://open.spotify.com/album/31DS8fyjbe15k7L4B20kp1"
-      },
-      "artists": [
-        {
-          "name": "The Jeff Healey Band",
-          "url": "https://open.spotify.com/artist/3d2hJTVTwo08F9b0ZFQukJ"
-        }
-      ],
-      "duration_ms": 315666,
-      "name": "While My Guitar Gently Weeps",
-      "url": "https://open.spotify.com/track/1T94tcUfe2X74nriMCAWQa"
-    },
-    {
-      "added_at": "2023-01-18 22:23:18",
-      "album": {
         "name": "Are You Gonna Go My Way",
         "url": "https://open.spotify.com/album/35LzZH7Fgog8lf1hfcdoMQ"
       },
@@ -1231,6 +1199,22 @@
     {
       "added_at": "2023-01-18 22:23:18",
       "album": {
+        "name": "No Need To Argue (The Complete Sessions 1994-1995)",
+        "url": "https://open.spotify.com/album/1Bwo9JkbVwxGyvtQNMRK21"
+      },
+      "artists": [
+        {
+          "name": "The Cranberries",
+          "url": "https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9"
+        }
+      ],
+      "duration_ms": 187849,
+      "name": "Twenty One",
+      "url": "https://open.spotify.com/track/3ZTO8o61SH2xmdVACrGaUk"
+    },
+    {
+      "added_at": "2023-01-18 22:23:18",
+      "album": {
         "name": "Yes I Am",
         "url": "https://open.spotify.com/album/1qzfqlEyzPD0VyCcSSQwZD"
       },
@@ -1243,6 +1227,22 @@
       "duration_ms": 236000,
       "name": "Come To My Window",
       "url": "https://open.spotify.com/track/4LmlGaGTEbTGE5VngAbpA3"
+    },
+    {
+      "added_at": "2023-01-18 22:23:18",
+      "album": {
+        "name": "Hell To Pay",
+        "url": "https://open.spotify.com/album/31DS8fyjbe15k7L4B20kp1"
+      },
+      "artists": [
+        {
+          "name": "The Jeff Healey Band",
+          "url": "https://open.spotify.com/artist/3d2hJTVTwo08F9b0ZFQukJ"
+        }
+      ],
+      "duration_ms": 315666,
+      "name": "While My Guitar Gently Weeps",
+      "url": "https://open.spotify.com/track/1T94tcUfe2X74nriMCAWQa"
     },
     {
       "added_at": "2023-01-18 22:23:18",

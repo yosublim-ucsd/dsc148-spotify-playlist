@@ -1551,6 +1551,24 @@
     },
     {
       "album": {
+        "name": "T\u00fa No Eres Mi Ex",
+        "url": "https://open.spotify.com/album/1BPEunvkDXOHGJEOKEeARt"
+      },
+      "artists": [
+        {
+          "name": "Gerardo Coronel",
+          "url": "https://open.spotify.com/artist/6JoYL9QYbdgPb6EuE5J2pC"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234410,
+      "name": "T\u00fa No Eres Mi Ex",
+      "url": "https://open.spotify.com/track/2OxvUUQwphytpa3KzZR7ns"
+    },
+    {
+      "album": {
         "name": "Un Suspir\u00f3",
         "url": "https://open.spotify.com/album/7oGGjyOs3rri9dCSpxJyxT"
       },

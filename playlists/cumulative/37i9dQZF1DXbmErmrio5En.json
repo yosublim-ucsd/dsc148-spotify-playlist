@@ -1258,7 +1258,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-29",
+      "date_removed": null,
       "duration_ms": 123333,
       "name": "i wna be like you",
       "url": "https://open.spotify.com/track/4cLhQxR5p74hslc5ao4B15"
@@ -1717,6 +1717,28 @@
     },
     {
       "album": {
+        "name": "Gossip Team",
+        "url": "https://open.spotify.com/album/4M5JeRShbMAjvl2829yyGM"
+      },
+      "artists": [
+        {
+          "name": "poptropicaslutz!",
+          "url": "https://open.spotify.com/artist/08DN8ZbOSeuTELiQjc4Jl8"
+        },
+        {
+          "name": "aldrch",
+          "url": "https://open.spotify.com/artist/3WYrAQad51Rnd8BqODF4Em"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193000,
+      "name": "newlyweds",
+      "url": "https://open.spotify.com/track/0qxeW8peAWYm9iF6bvE7tq"
+    },
+    {
+      "album": {
         "name": "PERFECT!",
         "url": "https://open.spotify.com/album/4Qwi4N4Uki3Q8RBaNVQ580"
       },
@@ -1732,6 +1754,24 @@
       "duration_ms": 125564,
       "name": "nostalgia",
       "url": "https://open.spotify.com/track/1d6N1nqKKhShEWRdrioT0K"
+    },
+    {
+      "album": {
+        "name": "chlorine",
+        "url": "https://open.spotify.com/album/5W0F5uU4Sc0uEUIX6svP33"
+      },
+      "artists": [
+        {
+          "name": "rouri404",
+          "url": "https://open.spotify.com/artist/6lQsMKSDG7XdirlE6YImHa"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123789,
+      "name": "numb",
+      "url": "https://open.spotify.com/track/0PXDA0Fp2a3fL1HZ7hQZan"
     },
     {
       "album": {
@@ -2188,7 +2228,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 135835,
       "name": "run",
       "url": "https://open.spotify.com/track/4K8xpTfr5k0dwaModQtgH8"
@@ -2722,6 +2762,24 @@
       "duration_ms": 142250,
       "name": "U Neva",
       "url": "https://open.spotify.com/track/4fE1aDSA7YDRQtOKibkf06"
+    },
+    {
+      "album": {
+        "name": "three.one",
+        "url": "https://open.spotify.com/album/2xGck9uWnQCNpiBfhHa7JI"
+      },
+      "artists": [
+        {
+          "name": "tendai",
+          "url": "https://open.spotify.com/artist/6yOCvxzh2MCMZKVZHDdLL7"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151978,
+      "name": "Ughh Parents Evening",
+      "url": "https://open.spotify.com/track/09NAWwOkfRCGurjHthLeJL"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "Let's fall into the K-\uc778\ub514 tracks from Korea's thriving indie scene. (Cover: Choi Seong(\ucd5c\uc131)) (\ucd5c\uc2e0\uace1\uc744 \ud3ec\ud568\ud55c \uad6d\ub0b4 \uc778\ub514\uace1\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
-  "num_followers": 436927,
+  "num_followers": 437018,
   "original_name": "In The K-Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3MGUzNWE3M2Q4NjExZjY5NmJmMTEyYmZiOThkM2M1ZjUzOThlOTFj",
+  "snapshot_id": "MCxmODEzMDAxMmIxMGYwZDQzZmZlYjI4ZTExN2Y1MDczMjEwMmZkMWE3",
   "tracks": [
     {
       "added_at": "2023-05-04 03:49:54",
@@ -235,6 +235,22 @@
     {
       "added_at": "2023-05-04 03:49:54",
       "album": {
+        "name": "Nonadaptation \ube44\uc801\uc751",
+        "url": "https://open.spotify.com/album/2mZUejhzFxhZu2Zd5XV3kX"
+      },
+      "artists": [
+        {
+          "name": "SE SO NEON",
+          "url": "https://open.spotify.com/artist/07OePkse2fcvU9wlVftNMl"
+        }
+      ],
+      "duration_ms": 232000,
+      "name": "Winter \ub208",
+      "url": "https://open.spotify.com/track/4YVA21Db1AbASkjpXRhykz"
+    },
+    {
+      "added_at": "2023-05-04 03:49:54",
+      "album": {
         "name": "fool",
         "url": "https://open.spotify.com/album/7dUPtlVTD9sepa5fcaWB44"
       },
@@ -255,22 +271,6 @@
       "duration_ms": 130333,
       "name": "fool",
       "url": "https://open.spotify.com/track/6lXGf0irWo1XWl8acAlzso"
-    },
-    {
-      "added_at": "2023-05-04 03:49:54",
-      "album": {
-        "name": "Nonadaptation \ube44\uc801\uc751",
-        "url": "https://open.spotify.com/album/2mZUejhzFxhZu2Zd5XV3kX"
-      },
-      "artists": [
-        {
-          "name": "SE SO NEON",
-          "url": "https://open.spotify.com/artist/07OePkse2fcvU9wlVftNMl"
-        }
-      ],
-      "duration_ms": 232000,
-      "name": "Winter \ub208",
-      "url": "https://open.spotify.com/track/4YVA21Db1AbASkjpXRhykz"
     },
     {
       "added_at": "2023-05-04 03:49:54",

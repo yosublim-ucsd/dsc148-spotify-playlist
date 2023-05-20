@@ -345,6 +345,24 @@
     },
     {
       "album": {
+        "name": "Ni siquiera estamos listos para hablar",
+        "url": "https://open.spotify.com/album/2g0CeaYZjdCRcRyG6dxCJH"
+      },
+      "artists": [
+        {
+          "name": "El Shirota",
+          "url": "https://open.spotify.com/artist/2rxqnbRXqBvxVHqArr6fGk"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136413,
+      "name": "Desde Afuera",
+      "url": "https://open.spotify.com/track/2S40OvSsD1hEK1tsuFz4CS"
+    },
+    {
+      "album": {
         "name": "Animal del Demonio",
         "url": "https://open.spotify.com/album/5JtQUYDabva1wB8OrNOmbs"
       },
@@ -907,6 +925,24 @@
     },
     {
       "album": {
+        "name": "Coraz\u00f3n de Mu\u00f1eca",
+        "url": "https://open.spotify.com/album/0U53bWMxR0v2DpWpfEzTEP"
+      },
+      "artists": [
+        {
+          "name": "Margaritas Podridas",
+          "url": "https://open.spotify.com/artist/5O9NicFLG2F9Xr7OHxmrb7"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205612,
+      "name": "Mu\u00f1eca",
+      "url": "https://open.spotify.com/track/0oiz4s31QXy6Mremkst4Ux"
+    },
+    {
+      "album": {
         "name": "M\u00e9xico Quer\u00e9taro",
         "url": "https://open.spotify.com/album/5vHR8RyrWgWdKkfXPhd6Rs"
       },
@@ -958,6 +994,24 @@
       "duration_ms": 163332,
       "name": "Niebla",
       "url": "https://open.spotify.com/track/6yWpmaYnTJYeRfnrwb0OCQ"
+    },
+    {
+      "album": {
+        "name": "No Estoy",
+        "url": "https://open.spotify.com/album/1O776s0DpVKXrEvv2k5MVg"
+      },
+      "artists": [
+        {
+          "name": "Kinder Malo",
+          "url": "https://open.spotify.com/artist/1Aoj8qX6kPfLTagb7qbKg0"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153901,
+      "name": "No Estoy",
+      "url": "https://open.spotify.com/track/1kP5YGbeWnYLVlWbuX6rLG"
     },
     {
       "album": {

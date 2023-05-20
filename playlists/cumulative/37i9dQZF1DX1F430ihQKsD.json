@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-28",
-  "description": "La sc\u00e8ne musicale montr\u00e9alaise au premier plan. Photo: Aliocha Schneider",
+  "description": "La sc\u00e8ne musicale montr\u00e9alaise au premier plan. Photo: Charlotte Cardin",
   "name": "Montr\u00e9al Chill",
   "tracks": [
     {
@@ -64,6 +64,28 @@
       "duration_ms": 206720,
       "name": "5AM",
       "url": "https://open.spotify.com/track/3riOdbVB5Ma1SrhKjBt7bl"
+    },
+    {
+      "album": {
+        "name": "<3 <~je~> 3>",
+        "url": "https://open.spotify.com/album/5MgEhsYvAMIOwnMssvVECb"
+      },
+      "artists": [
+        {
+          "name": "La Bronze",
+          "url": "https://open.spotify.com/artist/3yxkBjohRhCuyo2sn9IjwK"
+        },
+        {
+          "name": "Wake Island",
+          "url": "https://open.spotify.com/artist/0FXZWBe4MYnB5ArTU9RnXE"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183953,
+      "name": "<3 <~je~> 3>",
+      "url": "https://open.spotify.com/track/79g50LUtLlZSQ4RtF4lwAF"
     },
     {
       "album": {
@@ -673,6 +695,24 @@
     },
     {
       "album": {
+        "name": "Block Of Wood",
+        "url": "https://open.spotify.com/album/5mpeLiDcSNmDZo7GPARi8c"
+      },
+      "artists": [
+        {
+          "name": "Yves Jarvis",
+          "url": "https://open.spotify.com/artist/19h4y2F9duQ776bv1YhQYt"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199948,
+      "name": "Block Of Wood",
+      "url": "https://open.spotify.com/track/38sbz9ql94TLWkNa7YHA16"
+    },
+    {
+      "album": {
         "name": "blood pareil",
         "url": "https://open.spotify.com/album/0dqVqqzi4fmWSheOnGv7js"
       },
@@ -720,7 +760,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 198898,
       "name": "Boca Chica - Bon Voyage Version",
       "url": "https://open.spotify.com/track/3VMYiD1rXYi6UScWqCBWND"
@@ -898,6 +938,24 @@
       "duration_ms": 156233,
       "name": "C'est ma lady",
       "url": "https://open.spotify.com/track/7wTkIF9aVnj7c1Q1RWQ3fN"
+    },
+    {
+      "album": {
+        "name": "Canal \u00c9vasion / B\u00e9b\u00e9",
+        "url": "https://open.spotify.com/album/7jfaUmo5XcQiaf0Wv4ETbX"
+      },
+      "artists": [
+        {
+          "name": "Etienne Dufresne",
+          "url": "https://open.spotify.com/artist/1wVdxcnaMBJy3MII8nZalv"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166080,
+      "name": "Canal \u00c9vasion",
+      "url": "https://open.spotify.com/track/2PXgofu04uKIeCATVydtUQ"
     },
     {
       "album": {
@@ -1108,7 +1166,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 206493,
       "name": "Coin coin",
       "url": "https://open.spotify.com/track/63Toi5cOq7FBhktDh65X9b"
@@ -2832,7 +2890,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 191941,
       "name": "JE RESPIRE",
       "url": "https://open.spotify.com/track/204PfCzQ6FbveeJH7RoxgU"
@@ -2970,7 +3028,7 @@
       ],
       "date_added": "2023-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 169004,
       "name": "La nuit te ressemble",
       "url": "https://open.spotify.com/track/6sbeMTdnXolT6YZwfSsVbu"
@@ -4108,7 +4166,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 275555,
       "name": "Out of Time - KAYTRANADA Remix",
       "url": "https://open.spotify.com/track/4Rrj1QxDqsj28gv9SiHQRA"
@@ -4505,6 +4563,24 @@
     },
     {
       "album": {
+        "name": "Politesse",
+        "url": "https://open.spotify.com/album/6Ol7V8RECBrqsadRzK252I"
+      },
+      "artists": [
+        {
+          "name": "Laurence-Anne",
+          "url": "https://open.spotify.com/artist/0OuxZ5aNvFlurweMR8qq3B"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187813,
+      "name": "Politesse",
+      "url": "https://open.spotify.com/track/6REpTzDy5aTw1W5rEGWKWV"
+    },
+    {
+      "album": {
         "name": "Polymorphe",
         "url": "https://open.spotify.com/album/1Mi10Z1Hh8DAQikC7n8KYI"
       },
@@ -4516,7 +4592,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 216146,
       "name": "Polymorphe",
       "url": "https://open.spotify.com/track/1szVCzng0CIp1LdNVV0JfP"
@@ -5035,6 +5111,28 @@
     },
     {
       "album": {
+        "name": "Si j'\u00e9tais toi",
+        "url": "https://open.spotify.com/album/26xPuIwsA9V886JRrAxF2r"
+      },
+      "artists": [
+        {
+          "name": "Tha\u00efs",
+          "url": "https://open.spotify.com/artist/6lliiJ1S813r1V4koJsGFh"
+        },
+        {
+          "name": "Lucill",
+          "url": "https://open.spotify.com/artist/16AIsiZAml6sFZCwiin97x"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144720,
+      "name": "Si j'\u00e9tais toi",
+      "url": "https://open.spotify.com/track/7gtp58Uuzgl4zVObHaPwcN"
+    },
+    {
+      "album": {
         "name": "Si tu comprends pas maintenant (tu comprendras peut-\u00eatre jamais)",
         "url": "https://open.spotify.com/album/5wqwkqiaU3okFpDYMrhuUQ"
       },
@@ -5116,6 +5214,36 @@
       "duration_ms": 224826,
       "name": "Something About",
       "url": "https://open.spotify.com/track/5z3Qr6kEyJiZhB0WHJSmCQ"
+    },
+    {
+      "album": {
+        "name": "KAYTRAMIN\u00c9",
+        "url": "https://open.spotify.com/album/1plAqF2W8hwAhcpBAfGNsW"
+      },
+      "artists": [
+        {
+          "name": "KAYTRAMIN\u00c9",
+          "url": "https://open.spotify.com/artist/5oifjQw72WO7Jut07fVWMy"
+        },
+        {
+          "name": "Amin\u00e9",
+          "url": "https://open.spotify.com/artist/3Gm5F95VdRxW3mqCn8RPBJ"
+        },
+        {
+          "name": "KAYTRANADA",
+          "url": "https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu"
+        },
+        {
+          "name": "Amaarae",
+          "url": "https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156000,
+      "name": "Sossaup",
+      "url": "https://open.spotify.com/track/6y5UMIVVJDsULZwfZ0bNRX"
     },
     {
       "album": {

@@ -83,6 +83,28 @@
     },
     {
       "album": {
+        "name": "Altitude",
+        "url": "https://open.spotify.com/album/0eDuHfqHlQ7UviN6KiYyev"
+      },
+      "artists": [
+        {
+          "name": "Marty Stuart And His Fabulous Superlatives",
+          "url": "https://open.spotify.com/artist/559WWygoFrpAD58V0PqVwO"
+        },
+        {
+          "name": "Marty Stuart",
+          "url": "https://open.spotify.com/artist/3OyGv7XUYQwQgECYSzJhyO"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227828,
+      "name": "A Friend Of Mine",
+      "url": "https://open.spotify.com/track/3jy7ygy6XXKI4ssEXXQTbw"
+    },
+    {
+      "album": {
         "name": "A Million and One",
         "url": "https://open.spotify.com/album/2ITnWh4L3RKZdnQN0R6TcC"
       },

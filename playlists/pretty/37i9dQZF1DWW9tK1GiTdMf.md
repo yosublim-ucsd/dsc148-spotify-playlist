@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW9tK1GiTdMf.md) - [plain]
 
 > canzoni che ti fanno ribaltare i tavoli \(╯°□°）╯︵ ┻━┻ chiello in cover
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,442 likes - 80 songs - 3 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,448 likes - 80 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW9tK1GiTdMf.md) - [plain]
 | 79 | [SANGUE! \(feat\. Decrow\)](https://open.spotify.com/track/76vRLaJDfLGmb4INhYsZSO) | [Frasca](https://open.spotify.com/artist/3Ej5rdXiSC43dUi85PXYAZ), [Decrow](https://open.spotify.com/artist/5FlK8QftyFsvopniOcLdch) | [SANGUE! \(feat\. Decrow\)](https://open.spotify.com/album/7wNlijjkbSf8wDvdmtmT27) | 2:46 |
 | 80 | [Ragazzi Fuori](https://open.spotify.com/track/1URSGryUXiYhr3StdCCKZw) | [7 Giorni](https://open.spotify.com/artist/2gKp9MmLyGNtwTI5qCj3qz) | [Ragazzi Fuori](https://open.spotify.com/album/0MDH9w5buwGrFj11nKwfgt) | 2:47 |
 
-Snapshot ID: `MCwzNWI0NDQzZDU4NDRhN2Y4ZWE1ZTFhOTY2NWUzZTliZmNhMzA3ZTJj`
+Snapshot ID: `MTY4NDQ0NzI2MCwwMDAwMDAwMDYwZjVmZGRhMTk4YmNlODBmMTk4NzcwNjU5YTk2ZTgy`

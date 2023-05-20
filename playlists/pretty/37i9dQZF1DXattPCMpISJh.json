@@ -1,17 +1,17 @@
 {
   "description": "A new take on a classic sound. Cover: Jessie Ware",
-  "num_followers": 87325,
+  "num_followers": 87459,
   "original_name": "Nu-Disco",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxY2M0MjNhNWFhYTcwYjk4OGNlNDdhYzBjY2U2ZDE5NDdlOTkxZGQz",
+  "snapshot_id": "MCwxMDRlZGEyMTNhM2Y2Mjk0M2RhZWEzOTgyMDU2ZGQ4ZTk0MzI2Y2E0",
   "tracks": [
     {
       "added_at": "2023-05-12 04:00:00",
       "album": {
-        "name": "MOVE",
+        "name": "Move",
         "url": "https://open.spotify.com/album/4nMAiQTGaqm3fKz1e2Vw7p"
       },
       "artists": [
@@ -69,6 +69,22 @@
       "url": "https://open.spotify.com/track/0siT9iz6YIO3GlQbvzZEet"
     },
     {
+      "added_at": "2023-05-19 04:01:00",
+      "album": {
+        "name": "Georgia",
+        "url": "https://open.spotify.com/album/1zoFGgKPdJ171wRnukDPBb"
+      },
+      "artists": [
+        {
+          "name": "DiRTY RADiO",
+          "url": "https://open.spotify.com/artist/7bhcf6U7Lu1Ra9u0oWLM5x"
+        }
+      ],
+      "duration_ms": 201904,
+      "name": "Georgia",
+      "url": "https://open.spotify.com/track/2YTGXyiT6eHxc2UVw9wEjA"
+    },
+    {
       "added_at": "2023-05-12 04:00:00",
       "album": {
         "name": "Muscle Memory",
@@ -89,6 +105,22 @@
       "url": "https://open.spotify.com/track/2Yc4A9Ds0Y4TwX2wQc4FVl"
     },
     {
+      "added_at": "2023-05-19 04:01:00",
+      "album": {
+        "name": "Let\u2019s Keep On Dancing",
+        "url": "https://open.spotify.com/album/1vWSakTvo1YOgWLiShwpdr"
+      },
+      "artists": [
+        {
+          "name": "Dylan Chambers",
+          "url": "https://open.spotify.com/artist/2jP4GO0BDgY15BqUcUVhG9"
+        }
+      ],
+      "duration_ms": 199550,
+      "name": "Let\u2019s Keep On Dancing",
+      "url": "https://open.spotify.com/track/2MTES4OZUVqTCmE99Rk7HR"
+    },
+    {
       "added_at": "2023-04-28 04:01:00",
       "album": {
         "name": "Versace Eros",
@@ -107,6 +139,26 @@
       "duration_ms": 167579,
       "name": "Versace Eros",
       "url": "https://open.spotify.com/track/1hmB8Gq2YdiFISOZGDnfaH"
+    },
+    {
+      "added_at": "2023-05-19 04:01:00",
+      "album": {
+        "name": "Feel The Groove",
+        "url": "https://open.spotify.com/album/7bOqJYBRGtDpx0NV5yuizR"
+      },
+      "artists": [
+        {
+          "name": "Seb Skalski",
+          "url": "https://open.spotify.com/artist/1TMuRToXVLIjYsYYg3jmp1"
+        },
+        {
+          "name": "Rona Ray",
+          "url": "https://open.spotify.com/artist/3kirHdB9pQSMLSgLCgVp1P"
+        }
+      ],
+      "duration_ms": 283250,
+      "name": "Feel The Groove",
+      "url": "https://open.spotify.com/track/0wjJfVH7DCVSeOXxkpFNNE"
     },
     {
       "added_at": "2023-02-17 05:01:00",
@@ -251,22 +303,6 @@
       "duration_ms": 228829,
       "name": "You\u2019re Gonna Make Me Love Somebody Else (feat. Kelli Sae) - Michael Gray Remix",
       "url": "https://open.spotify.com/track/6co4kLDedobQeZFVSp523C"
-    },
-    {
-      "added_at": "2023-04-28 04:01:00",
-      "album": {
-        "name": "Jet Fuel",
-        "url": "https://open.spotify.com/album/0p0iHnopoBiApdvABd9T0u"
-      },
-      "artists": [
-        {
-          "name": "DiRTY RADiO",
-          "url": "https://open.spotify.com/artist/7bhcf6U7Lu1Ra9u0oWLM5x"
-        }
-      ],
-      "duration_ms": 162325,
-      "name": "Jet Fuel",
-      "url": "https://open.spotify.com/track/2KiEnTzDtNEGrEDcZGUHpZ"
     },
     {
       "added_at": "2023-03-24 04:01:00",
@@ -1721,22 +1757,6 @@
       "url": "https://open.spotify.com/track/0cCGlP0ciQgqsg095WoRI7"
     },
     {
-      "added_at": "2022-03-04 05:01:00",
-      "album": {
-        "name": "Seven Years",
-        "url": "https://open.spotify.com/album/4KWPvlYdnsbL0WKgUTFOxt"
-      },
-      "artists": [
-        {
-          "name": "Nic Hanson",
-          "url": "https://open.spotify.com/artist/1NrFTpkB0RvbVLYl0p5Xvc"
-        }
-      ],
-      "duration_ms": 145319,
-      "name": "Seven Years",
-      "url": "https://open.spotify.com/track/18eFjMhBiekCdJeNGhdkF9"
-    },
-    {
       "added_at": "2022-10-21 04:00:00",
       "album": {
         "name": "Make That Change",
@@ -1895,30 +1915,6 @@
       "duration_ms": 181285,
       "name": "Uh Oh",
       "url": "https://open.spotify.com/track/3H22B0hgj1YTiqalHYmlcd"
-    },
-    {
-      "added_at": "2022-07-01 04:02:00",
-      "album": {
-        "name": "Alegr\u00eda (Franc Moody Remix)",
-        "url": "https://open.spotify.com/album/2Txxw56PHJcWihrTHjFubI"
-      },
-      "artists": [
-        {
-          "name": "RELATIN",
-          "url": "https://open.spotify.com/artist/0t3hsCFzCFOP4Zev9DOIw8"
-        },
-        {
-          "name": "Elia y Elizabeth",
-          "url": "https://open.spotify.com/artist/6R6PqKFwzVPIePSH8BCKvf"
-        },
-        {
-          "name": "Franc Moody",
-          "url": "https://open.spotify.com/artist/10GT4yz8c6xjjnPGtGPI1l"
-        }
-      ],
-      "duration_ms": 228200,
-      "name": "Alegr\u00eda (Franc Moody Remix)",
-      "url": "https://open.spotify.com/track/4pXlg4wiARIhv0CHx0pFMd"
     }
   ],
   "unique_name": "Nu-Disco",

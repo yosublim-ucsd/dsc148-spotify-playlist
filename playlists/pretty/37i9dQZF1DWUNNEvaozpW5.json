@@ -1,12 +1,12 @@
 {
   "description": "Lo mejor del rock de aqu\u00ed, como Leiva.",
-  "num_followers": 552117,
+  "num_followers": 552351,
   "original_name": "Rock Espa\u00f1ol",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4NmQwYTY0MTZmMmMxNTJiMGY3MmMzYjdiNDU4ZTE2MGIxMWE2Y2Yw",
+  "snapshot_id": "MCwwNjExOWU3ZGE1OTQ1OGQxMWUwZDkyNjZlNTdmN2Q1YWY0Yjc5OTQ1",
   "tracks": [
     {
       "added_at": "2023-05-18 22:00:00",
@@ -675,18 +675,22 @@
     {
       "added_at": "2023-05-18 22:00:00",
       "album": {
-        "name": "La Ley Del Desierto",
-        "url": "https://open.spotify.com/album/12q1hQoVuKLVUaqlksygIu"
+        "name": "Ahora o nunca",
+        "url": "https://open.spotify.com/album/1gVTdZJaemKysGPHgMQfvD"
       },
       "artists": [
         {
-          "name": "Radio Futura",
-          "url": "https://open.spotify.com/artist/4qKJA8Cf8R44cMThP6q8KM"
+          "name": "La Pegatina",
+          "url": "https://open.spotify.com/artist/4xvB67czbtvemGVXGa81oK"
+        },
+        {
+          "name": "Los Caligaris",
+          "url": "https://open.spotify.com/artist/13wFTN72PGSUxzEHJP5Ljs"
         }
       ],
-      "duration_ms": 210840,
-      "name": "Escuela de Calor",
-      "url": "https://open.spotify.com/track/7J0niAY0FLzGiCVJUREl88"
+      "duration_ms": 189600,
+      "name": "Y volar (con los Caligaris)",
+      "url": "https://open.spotify.com/track/0vabIwEiZDGml2CyVmGNBX"
     },
     {
       "added_at": "2023-05-18 22:00:00",
@@ -723,22 +727,18 @@
     {
       "added_at": "2023-05-18 22:00:00",
       "album": {
-        "name": "Ahora o nunca",
-        "url": "https://open.spotify.com/album/1gVTdZJaemKysGPHgMQfvD"
+        "name": "La Ley Del Desierto",
+        "url": "https://open.spotify.com/album/12q1hQoVuKLVUaqlksygIu"
       },
       "artists": [
         {
-          "name": "La Pegatina",
-          "url": "https://open.spotify.com/artist/4xvB67czbtvemGVXGa81oK"
-        },
-        {
-          "name": "Los Caligaris",
-          "url": "https://open.spotify.com/artist/13wFTN72PGSUxzEHJP5Ljs"
+          "name": "Radio Futura",
+          "url": "https://open.spotify.com/artist/4qKJA8Cf8R44cMThP6q8KM"
         }
       ],
-      "duration_ms": 189600,
-      "name": "Y volar (con los Caligaris)",
-      "url": "https://open.spotify.com/track/0vabIwEiZDGml2CyVmGNBX"
+      "duration_ms": 210840,
+      "name": "Escuela de Calor",
+      "url": "https://open.spotify.com/track/7J0niAY0FLzGiCVJUREl88"
     },
     {
       "added_at": "2023-05-18 22:00:00",
@@ -839,22 +839,6 @@
     {
       "added_at": "2023-05-18 22:00:00",
       "album": {
-        "name": "Veneno En La Piel",
-        "url": "https://open.spotify.com/album/5494a8BNRIElBxQmoWpo8O"
-      },
-      "artists": [
-        {
-          "name": "Radio Futura",
-          "url": "https://open.spotify.com/artist/4qKJA8Cf8R44cMThP6q8KM"
-        }
-      ],
-      "duration_ms": 222013,
-      "name": "Veneno en la Piel",
-      "url": "https://open.spotify.com/track/4oCGALJSQZxLnsnPPgShln"
-    },
-    {
-      "added_at": "2023-05-18 22:00:00",
-      "album": {
         "name": "La Rosa De Los Vientos",
         "url": "https://open.spotify.com/album/51ohZ4F4nZ40R8eGyK7tZT"
       },
@@ -907,22 +891,18 @@
     {
       "added_at": "2023-05-18 22:00:00",
       "album": {
-        "name": "Rumbapop",
-        "url": "https://open.spotify.com/album/4I0VNxfe8qdt1SnvEiqREu"
+        "name": "Veneno En La Piel",
+        "url": "https://open.spotify.com/album/5494a8BNRIElBxQmoWpo8O"
       },
       "artists": [
         {
-          "name": "Pole.",
-          "url": "https://open.spotify.com/artist/7D62OQfwvslnxJn9DkZm2F"
-        },
-        {
-          "name": "Estopa",
-          "url": "https://open.spotify.com/artist/5ZqnEfVdEGmoPxtELhN7ai"
+          "name": "Radio Futura",
+          "url": "https://open.spotify.com/artist/4qKJA8Cf8R44cMThP6q8KM"
         }
       ],
-      "duration_ms": 158857,
-      "name": "Rumbapop",
-      "url": "https://open.spotify.com/track/1sLotMFghANlkVzI4ln2uW"
+      "duration_ms": 222013,
+      "name": "Veneno en la Piel",
+      "url": "https://open.spotify.com/track/4oCGALJSQZxLnsnPPgShln"
     },
     {
       "added_at": "2023-05-18 22:00:00",
@@ -939,6 +919,26 @@
       "duration_ms": 270466,
       "name": "La senda del tiempo",
       "url": "https://open.spotify.com/track/6dMKB6nyxcg8hllDzPCvRc"
+    },
+    {
+      "added_at": "2023-05-18 22:00:00",
+      "album": {
+        "name": "Rumbapop",
+        "url": "https://open.spotify.com/album/4I0VNxfe8qdt1SnvEiqREu"
+      },
+      "artists": [
+        {
+          "name": "Pole.",
+          "url": "https://open.spotify.com/artist/7D62OQfwvslnxJn9DkZm2F"
+        },
+        {
+          "name": "Estopa",
+          "url": "https://open.spotify.com/artist/5ZqnEfVdEGmoPxtELhN7ai"
+        }
+      ],
+      "duration_ms": 158857,
+      "name": "Rumbapop",
+      "url": "https://open.spotify.com/track/1sLotMFghANlkVzI4ln2uW"
     },
     {
       "added_at": "2023-05-18 22:00:00",

@@ -1,12 +1,12 @@
 {
   "description": "Bluesy blips and blops",
-  "num_followers": 7486,
+  "num_followers": 7498,
   "original_name": "Bluestronica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwNmE0MDEyYWJmOTU4MGY0ZDY0NDg0MmQ2MTI4OWNmZTljYzMxYzgw",
+  "snapshot_id": "MCxmZDc3NTYyMzFjMjVjMjQ4ODYwNTFmZjljNzg0NDJlZjk4MDc4YTI2",
   "tracks": [
     {
       "added_at": "2023-03-17 04:01:00",
@@ -227,22 +227,6 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "Fresh Goods",
-        "url": "https://open.spotify.com/album/3cTRg8cy3cBIDWhN1XYrxZ"
-      },
-      "artists": [
-        {
-          "name": "The Tao Of Groove",
-          "url": "https://open.spotify.com/artist/66nWqKHAI8Q8w72wfUqmZa"
-        }
-      ],
-      "duration_ms": 211706,
-      "name": "Honeybee Blues",
-      "url": "https://open.spotify.com/track/36ED2y9oraEa2mIp1DDxXT"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
         "name": "This Is For Everyone",
         "url": "https://open.spotify.com/album/1QHlV8vwF7QQjYXO7J2sS7"
       },
@@ -259,6 +243,22 @@
       "duration_ms": 229655,
       "name": "This Is For Everyone - Original Mix",
       "url": "https://open.spotify.com/track/1uGvKTjvBCN1NYzS2DIjCr"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
+        "name": "Fresh Goods",
+        "url": "https://open.spotify.com/album/3cTRg8cy3cBIDWhN1XYrxZ"
+      },
+      "artists": [
+        {
+          "name": "The Tao Of Groove",
+          "url": "https://open.spotify.com/artist/66nWqKHAI8Q8w72wfUqmZa"
+        }
+      ],
+      "duration_ms": 211706,
+      "name": "Honeybee Blues",
+      "url": "https://open.spotify.com/track/36ED2y9oraEa2mIp1DDxXT"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -387,22 +387,6 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "A Bothered Mind",
-        "url": "https://open.spotify.com/album/19ox7nB02O5mCJtjqzoqGm"
-      },
-      "artists": [
-        {
-          "name": "R.L. Burnside",
-          "url": "https://open.spotify.com/artist/2drMeidRg4jc07neGOL0Ip"
-        }
-      ],
-      "duration_ms": 209640,
-      "name": "Shake 'Em on Down",
-      "url": "https://open.spotify.com/track/1yxCax1l0O8p3lik3WvamC"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
         "name": "This Is For Everyone",
         "url": "https://open.spotify.com/album/1QHlV8vwF7QQjYXO7J2sS7"
       },
@@ -419,6 +403,22 @@
       "duration_ms": 255616,
       "name": "Stand Together - Original Mix",
       "url": "https://open.spotify.com/track/2C2G0ZtrQhBa9X6XcbWRH4"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
+        "name": "A Bothered Mind",
+        "url": "https://open.spotify.com/album/19ox7nB02O5mCJtjqzoqGm"
+      },
+      "artists": [
+        {
+          "name": "R.L. Burnside",
+          "url": "https://open.spotify.com/artist/2drMeidRg4jc07neGOL0Ip"
+        }
+      ],
+      "duration_ms": 209640,
+      "name": "Shake 'Em on Down",
+      "url": "https://open.spotify.com/track/1yxCax1l0O8p3lik3WvamC"
     },
     {
       "added_at": "2023-01-20 05:01:00",
@@ -471,22 +471,6 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "Come on In",
-        "url": "https://open.spotify.com/album/6QyepVbPWpjsQZAEgqmDsJ"
-      },
-      "artists": [
-        {
-          "name": "R.L. Burnside",
-          "url": "https://open.spotify.com/artist/2drMeidRg4jc07neGOL0Ip"
-        }
-      ],
-      "duration_ms": 268226,
-      "name": "Shuck Dub",
-      "url": "https://open.spotify.com/track/7lNr4eqSP7MCUCbDUGHWRo"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
         "name": "Prehistoric Rhythm",
         "url": "https://open.spotify.com/album/4iPWsm1A64k2xzydc0SmWc"
       },
@@ -499,6 +483,26 @@
       "duration_ms": 224510,
       "name": "Sunroof Diesel Blues",
       "url": "https://open.spotify.com/track/2dymAGQ2kTrnNDbL2xcvDr"
+    },
+    {
+      "added_at": "2022-06-17 04:02:00",
+      "album": {
+        "name": "The Edge",
+        "url": "https://open.spotify.com/album/2ZSbjxZO8hHDiJoz54E6Ix"
+      },
+      "artists": [
+        {
+          "name": "Moontricks",
+          "url": "https://open.spotify.com/artist/6o52orvClP7ba1qV4zMVlg"
+        },
+        {
+          "name": "Dirtwire",
+          "url": "https://open.spotify.com/artist/0hc2qwaU2xy7LUd0FRjcHK"
+        }
+      ],
+      "duration_ms": 225609,
+      "name": "The Edge",
+      "url": "https://open.spotify.com/track/3LeZw3OUMipFN0x2jR6MjQ"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -521,24 +525,20 @@
       "url": "https://open.spotify.com/track/2s9BHqNHVkbhYCbE5tAMre"
     },
     {
-      "added_at": "2022-06-17 04:02:00",
+      "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "The Edge",
-        "url": "https://open.spotify.com/album/2ZSbjxZO8hHDiJoz54E6Ix"
+        "name": "Come on In",
+        "url": "https://open.spotify.com/album/6QyepVbPWpjsQZAEgqmDsJ"
       },
       "artists": [
         {
-          "name": "Moontricks",
-          "url": "https://open.spotify.com/artist/6o52orvClP7ba1qV4zMVlg"
-        },
-        {
-          "name": "Dirtwire",
-          "url": "https://open.spotify.com/artist/0hc2qwaU2xy7LUd0FRjcHK"
+          "name": "R.L. Burnside",
+          "url": "https://open.spotify.com/artist/2drMeidRg4jc07neGOL0Ip"
         }
       ],
-      "duration_ms": 225609,
-      "name": "The Edge",
-      "url": "https://open.spotify.com/track/3LeZw3OUMipFN0x2jR6MjQ"
+      "duration_ms": 268226,
+      "name": "Shuck Dub",
+      "url": "https://open.spotify.com/track/7lNr4eqSP7MCUCbDUGHWRo"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -587,22 +587,6 @@
       "duration_ms": 398110,
       "name": "Electrified",
       "url": "https://open.spotify.com/track/3LAyeN6fnP8Hxd9uNszLsp"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
-        "name": "Come on In",
-        "url": "https://open.spotify.com/album/6QyepVbPWpjsQZAEgqmDsJ"
-      },
-      "artists": [
-        {
-          "name": "R.L. Burnside",
-          "url": "https://open.spotify.com/artist/2drMeidRg4jc07neGOL0Ip"
-        }
-      ],
-      "duration_ms": 178800,
-      "name": "Please Don't Stay",
-      "url": "https://open.spotify.com/track/5QCKfr2ckdL5kf9wCQtzUu"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -675,6 +659,22 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
+        "name": "Precious Time",
+        "url": "https://open.spotify.com/album/2jmrU6wflfVSJwZGI3Z8H8"
+      },
+      "artists": [
+        {
+          "name": "Euphoria",
+          "url": "https://open.spotify.com/artist/0v6ZsvpqHQJiB6Kz2J0QGZ"
+        }
+      ],
+      "duration_ms": 319253,
+      "name": "Back Against The Wall",
+      "url": "https://open.spotify.com/track/25ddyTkfz4p7Bvprc66ZyV"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
         "name": "Who Else!",
         "url": "https://open.spotify.com/album/0RkgsbkvvlIsCaoRZK40Dm"
       },
@@ -691,18 +691,18 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "Precious Time",
-        "url": "https://open.spotify.com/album/2jmrU6wflfVSJwZGI3Z8H8"
+        "name": "Come on In",
+        "url": "https://open.spotify.com/album/6QyepVbPWpjsQZAEgqmDsJ"
       },
       "artists": [
         {
-          "name": "Euphoria",
-          "url": "https://open.spotify.com/artist/0v6ZsvpqHQJiB6Kz2J0QGZ"
+          "name": "R.L. Burnside",
+          "url": "https://open.spotify.com/artist/2drMeidRg4jc07neGOL0Ip"
         }
       ],
-      "duration_ms": 319253,
-      "name": "Back Against The Wall",
-      "url": "https://open.spotify.com/track/25ddyTkfz4p7Bvprc66ZyV"
+      "duration_ms": 178800,
+      "name": "Please Don't Stay",
+      "url": "https://open.spotify.com/track/5QCKfr2ckdL5kf9wCQtzUu"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -769,6 +769,22 @@
       "url": "https://open.spotify.com/track/4HYfEF1lvUPH9IsXrY30Kj"
     },
     {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
+        "name": "Come on Jump Right In",
+        "url": "https://open.spotify.com/album/4YZOzLozsvdyka8cBHZNAy"
+      },
+      "artists": [
+        {
+          "name": "Akolo",
+          "url": "https://open.spotify.com/artist/5n31j1CydRWUtmfct89c5J"
+        }
+      ],
+      "duration_ms": 210461,
+      "name": "Come on Jump Right In",
+      "url": "https://open.spotify.com/track/1dqcArKoJmhj8cjg26Mu5Q"
+    },
+    {
       "added_at": "2022-03-01 20:08:23",
       "album": {
         "name": "Robot Blues",
@@ -799,22 +815,6 @@
       "duration_ms": 167973,
       "name": "Swamp Thang",
       "url": "https://open.spotify.com/track/1Y3xPsuvx57Jtck6U92SNj"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
-        "name": "Why Not?",
-        "url": "https://open.spotify.com/album/5PAyO6SUXQJhGDPqmqcMBY"
-      },
-      "artists": [
-        {
-          "name": "Akolo",
-          "url": "https://open.spotify.com/artist/5n31j1CydRWUtmfct89c5J"
-        }
-      ],
-      "duration_ms": 213818,
-      "name": "Why Not?",
-      "url": "https://open.spotify.com/track/5ygOxeRiafW51ViBgiXLf8"
     },
     {
       "added_at": "2020-12-01 05:01:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYrg01Xmlew6.md) - [plain]
 
 > Rap napoletano e il meglio della scena campana\. Luchè in cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 163,473 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 163,593 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYrg01Xmlew6.md) - [plain]
 | 49 | [SUL IJ E TE \(con O'Tsunami\)](https://open.spotify.com/track/1aICGpPcAWLSD2ids3R3zA) | [VTR](https://open.spotify.com/artist/0FAe1lSd4Zi6wCIHbgGhI1), [O'Tsunami](https://open.spotify.com/artist/2XAfB5zj0qBxMC6Z6hibfm) | [SUL IJ E TE \(con O'Tsunami\)](https://open.spotify.com/album/2LZut9eY8A7xUtI5A0tuvS) | 2:16 |
 | 50 | [Pane e miseria](https://open.spotify.com/track/73zmaeL2sXpoc9gsWQ38Fx) | [Luis Add](https://open.spotify.com/artist/3oMuALMGNkRZ5OZaktx8s0), [Pino Franzese](https://open.spotify.com/artist/0l0FOScVlsDoqviZiYCJpo) | [Pane e miseria](https://open.spotify.com/album/2QGUAAI0ygmYQ6nBjqlydS) | 2:57 |
 
-Snapshot ID: `MCwxNmFiZDQ0NTJmMzExZmY5ODI4NmJmOTk1MGEzYWM5M2FmNzNjYmIy`
+Snapshot ID: `MCw4MjE4ZjM4MmMwMjk3YzQ4ZGI5ZmYxYTczZTRlNjBhZWJmOGFiYTFi`

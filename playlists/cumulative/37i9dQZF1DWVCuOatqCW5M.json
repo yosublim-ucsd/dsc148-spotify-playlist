@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "New music from popular Hindi artists. Cover- Srushti Tawade",
+  "description": "New music from popular Hindi artists. Cover- Payal Dev",
   "name": "New Music Friday Hindi ",
   "tracks": [
     {
@@ -540,7 +540,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 215287,
       "name": "Adhoore Hum",
       "url": "https://open.spotify.com/track/7HTB2kvarPgyGQfH9KjEg4"
@@ -822,6 +822,24 @@
       "duration_ms": 59810,
       "name": "Anokhi Si Ladki",
       "url": "https://open.spotify.com/track/0ogc425fxgcUeuVU3PN4XQ"
+    },
+    {
+      "album": {
+        "name": "Antariksh",
+        "url": "https://open.spotify.com/album/41c3IoL1qIAvR38l2kB7Zj"
+      },
+      "artists": [
+        {
+          "name": "Anuv Jain",
+          "url": "https://open.spotify.com/artist/4gdMJYnopf2nEUcanAwstx"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165750,
+      "name": "Antariksh",
+      "url": "https://open.spotify.com/track/3JJtci5fSMdxYCVoHRHX2h"
     },
     {
       "album": {
@@ -3532,7 +3550,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 240000,
       "name": "Haq Hai Humara",
       "url": "https://open.spotify.com/track/1I7nDKSJ7U7RAo1q1WXQQj"
@@ -3746,6 +3764,32 @@
       "duration_ms": 178000,
       "name": "Ho Jaane Do",
       "url": "https://open.spotify.com/track/3ioJJykMxfcoj0qOmf1QPj"
+    },
+    {
+      "album": {
+        "name": "Ho Nahin Sakta",
+        "url": "https://open.spotify.com/album/6j87fU30UWytGq5yMIucH7"
+      },
+      "artists": [
+        {
+          "name": "Antara Mitra",
+          "url": "https://open.spotify.com/artist/2UwDJeoMqYers5Jmm75zm2"
+        },
+        {
+          "name": "Soham Naik",
+          "url": "https://open.spotify.com/artist/6EpZnABzSqvQlgHPhT1QDM"
+        },
+        {
+          "name": "Uddipan Sharma",
+          "url": "https://open.spotify.com/artist/0NFh0I6PVc02IebwluGscm"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219839,
+      "name": "Ho Nahin Sakta",
+      "url": "https://open.spotify.com/track/1RWmsoIEEvXOD75toswk98"
     },
     {
       "album": {
@@ -4515,6 +4559,28 @@
     },
     {
       "album": {
+        "name": "Javaan Toofaan 2.0",
+        "url": "https://open.spotify.com/album/2xceGN235ioJ90aiTzVhEJ"
+      },
+      "artists": [
+        {
+          "name": "Meet Bros.",
+          "url": "https://open.spotify.com/artist/0qpsFfOT3SmdGmnyV6rOhS"
+        },
+        {
+          "name": "Harshit Shrivastava",
+          "url": "https://open.spotify.com/artist/5eYHTsRSjK7Kqo7KDxEtSA"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207000,
+      "name": "Javaan Toofaan 2.0",
+      "url": "https://open.spotify.com/track/6DNoEHywUxEO4uHSkcC3tT"
+    },
+    {
+      "album": {
         "name": "Jee Bhar Ke",
         "url": "https://open.spotify.com/album/2N2XFt4Hiy92CgvhEks41T"
       },
@@ -4947,6 +5013,24 @@
     },
     {
       "album": {
+        "name": "Kahaniyan",
+        "url": "https://open.spotify.com/album/1psZjt7cpnZloQF5CrHrC4"
+      },
+      "artists": [
+        {
+          "name": "Ashwani Machal",
+          "url": "https://open.spotify.com/artist/6JiBLxNeLijWXyZ6kxuDG6"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181096,
+      "name": "Kahaniyan",
+      "url": "https://open.spotify.com/track/1SGCQ0EQgvJD6PmU31ibXE"
+    },
+    {
+      "album": {
         "name": "Kaho Na",
         "url": "https://open.spotify.com/album/1K4Sx8O3eG1RCuta7RD5BS"
       },
@@ -5054,6 +5138,28 @@
       "duration_ms": 267483,
       "name": "Kaisi Jadugari",
       "url": "https://open.spotify.com/track/6gkf7KZtpXHSRDuAyIkEMA"
+    },
+    {
+      "album": {
+        "name": "Kam Toh Nahi",
+        "url": "https://open.spotify.com/album/22VKMSs4LkC3T9ffDFaVgb"
+      },
+      "artists": [
+        {
+          "name": "Payal Dev",
+          "url": "https://open.spotify.com/artist/6FtZhorjCMfkaVJ7kKdmq7"
+        },
+        {
+          "name": "Kunaal Vermaa",
+          "url": "https://open.spotify.com/artist/52XgeWw24o4klNdfwvB0Vx"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184389,
+      "name": "Kam Toh Nahi",
+      "url": "https://open.spotify.com/track/1Zniwney1Ea55JHO0TXOF2"
     },
     {
       "album": {
@@ -5352,7 +5458,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 267263,
       "name": "Kho Jaane De",
       "url": "https://open.spotify.com/track/571yJGtCbXu76B5v1NaOuU"
@@ -5512,7 +5618,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 185684,
       "name": "Kinare",
       "url": "https://open.spotify.com/track/3SQVYjLoLlzL7JyjDwxpX5"
@@ -5738,6 +5844,28 @@
       "duration_ms": 162436,
       "name": "Kya Karein",
       "url": "https://open.spotify.com/track/4kBknWlaWOLZCbP5BL6PXg"
+    },
+    {
+      "album": {
+        "name": "Kya Loge Tum",
+        "url": "https://open.spotify.com/album/76spwPLkGkvPtADGCTkNeT"
+      },
+      "artists": [
+        {
+          "name": "B Praak",
+          "url": "https://open.spotify.com/artist/56SjZARoEvag3RoKWIb16j"
+        },
+        {
+          "name": "Jaani",
+          "url": "https://open.spotify.com/artist/5gZhfbckaWo89OzDSk3gdT"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233684,
+      "name": "Kya Loge Tum",
+      "url": "https://open.spotify.com/track/6t7PuZfHAtNGheWisgUq3I"
     },
     {
       "album": {
@@ -6654,7 +6782,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 215035,
       "name": "Meri Banogi Kya",
       "url": "https://open.spotify.com/track/6gprR0rGv59wALbBU7yZkl"
@@ -9590,7 +9718,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 235847,
       "name": "Tere Mere",
       "url": "https://open.spotify.com/track/07RF13WWpYtCnnIEuoKLM7"
@@ -10402,7 +10530,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 191052,
       "name": "Tum Jo Haan Kehh Do 2.0",
       "url": "https://open.spotify.com/track/0ffmCzAbNYDMjruj1VLeUr"
@@ -11034,6 +11162,32 @@
       "duration_ms": 199023,
       "name": "Zahan",
       "url": "https://open.spotify.com/track/5VDFJf6tjbzlnvfdb6l20Q"
+    },
+    {
+      "album": {
+        "name": "Zihaal e Miskin (Teaser)",
+        "url": "https://open.spotify.com/album/2zovwUAJFoFuQM5jpzXaRs"
+      },
+      "artists": [
+        {
+          "name": "Javed-Mohsin",
+          "url": "https://open.spotify.com/artist/2zvJLk0gTH7r7A5Q6X5Bq8"
+        },
+        {
+          "name": "Vishal Mishra",
+          "url": "https://open.spotify.com/artist/5wJ1H6ud777odtZl5gG507"
+        },
+        {
+          "name": "Shreya Ghoshal",
+          "url": "https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 41960,
+      "name": "Zihaal e Miskin - Teaser",
+      "url": "https://open.spotify.com/track/7v6yvfJpjy0cYaa6Q19bVt"
     },
     {
       "album": {

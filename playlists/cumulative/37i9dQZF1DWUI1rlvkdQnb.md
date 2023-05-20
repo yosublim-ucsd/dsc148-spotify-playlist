@@ -4,7 +4,7 @@
 
 > Soft, relaxing music for workout recovery.
 
-167 songs - 8 hr 52 min
+169 songs - 8 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -124,6 +124,7 @@
 | [Propinquity](https://open.spotify.com/track/333vuxsUus6GcCuaUv40fm) | [Clyde Boudreaux](https://open.spotify.com/artist/2uJ9p2oANjdZ8N5Ni7OL4L) | [Propinquity](https://open.spotify.com/album/1WqG5MwUfHKvW4Vzyox843) | 2:22 | 2021-12-10 | 2021-12-24 |
 | [Purpose](https://open.spotify.com/track/5GzuDxMuqENSCZ61rb3Zex) | [Yonatan Awate](https://open.spotify.com/artist/6ptntg50Xz0ACYkxCIOHz0) | [Purpose](https://open.spotify.com/album/20huIijfp7AeN5jvvzfeYv) | 3:34 | 2021-12-10 |  |
 | [Rearview Mirror](https://open.spotify.com/track/2UXQhAcmJXiDShegqfyBa7) | [Angelo Garnier](https://open.spotify.com/artist/7qvvsAZAERVhX0qJ1kq6In) | [Rearview Mirror](https://open.spotify.com/album/5KWS43uNk7GOGbiIYXZNlr) | 3:14 | 2021-12-10 |  |
+| [Reflexiones](https://open.spotify.com/track/5yxmYoPu75KeKkLbPJbDpZ) | [Aarona](https://open.spotify.com/artist/1v4myR6ZDEKYmMlRqT48IS) | [Reflexiones](https://open.spotify.com/album/3rmS5XRb3vLM6xyritTjxu) | 3:08 | 2023-05-19 |  |
 | [Rejected](https://open.spotify.com/track/0rswAuO5hDPINyHXA3XCrP) | [Geonose](https://open.spotify.com/artist/4HMimTAIfAny7O6iToeY3J) | [Personal Disasters](https://open.spotify.com/album/0HPHeEu6npThQPFPKtx3di) | 2:13 | 2021-12-10 |  |
 | [Relaxar](https://open.spotify.com/track/517MFgG7lzEZn286TL5F74) | [Miranda Moniz](https://open.spotify.com/artist/5kpJ18Oz0PCOMeSQH8ELOT) | [Relaxamento](https://open.spotify.com/album/4EtRcn4zeWMP65uM0j5u1s) | 3:57 | 2021-12-10 | 2022-08-13 |
 | [Repetetive Chattering Mind](https://open.spotify.com/track/6l8Xxuu9DMIEzZqfvedNZA) | [Eleanor Arroway](https://open.spotify.com/artist/3x2VCXXsd5bySXXdbhLZPJ) | [Findings Inside](https://open.spotify.com/album/4kyzuLwgaOBwVrpMI9hBXH) | 3:13 | 2021-12-10 |  |
@@ -160,6 +161,7 @@
 | [Thorns](https://open.spotify.com/track/3WWF9kTWsPRVfgX6BFLisb) | [Rama Fiore](https://open.spotify.com/artist/4HbW8yezxZojUF2usZY366) | [Blossom](https://open.spotify.com/album/6Ali5VGJJO9MkkPrhhLcmc) | 3:07 | 2022-10-14 |  |
 | [Through The Air](https://open.spotify.com/track/0JNKQdqJplR2mAwsiRsGTl) | [Silbo Gomera](https://open.spotify.com/artist/1tqEUIzDhdbZW3EC7Cz97W) | [Through The Air](https://open.spotify.com/album/4PczZZbjoJtQgKhtkxNTwy) | 2:38 | 2022-12-02 |  |
 | [Togetherness](https://open.spotify.com/track/4LzwKBHmQah31grCWDW5t3) | [Emeraldic](https://open.spotify.com/artist/03zWCCGrixU8hjtzgf8VRK) | [Togetherness](https://open.spotify.com/album/4YAGKiThELZJuTxnsrQUsh) | 2:47 | 2021-12-10 |  |
+| [Tranquil Words](https://open.spotify.com/track/2RvWyBpbUwNqAghZ7r49ya) | [Kamal Ra](https://open.spotify.com/artist/02ezikrBcYhPwhnqqkgc56) | [Tranquil Words](https://open.spotify.com/album/6c6OD7843RI08pEBLUHuRv) | 2:53 | 2023-05-19 |  |
 | [Unawareness](https://open.spotify.com/track/3JLCotc9wEILsbwsB2T1yf) | [Enika Moerani](https://open.spotify.com/artist/6WLxSLWa7PieCNhztESUCh) | [Unawareness](https://open.spotify.com/album/38UaLlzWn7IKeiufHsFT9i) | 2:42 | 2021-12-10 |  |
 | [Versuchen](https://open.spotify.com/track/5dhj9EMLIeq5R1zEo3PSni) | [Leo Baumgart](https://open.spotify.com/artist/0qFeRGzewB33eItfoNqrvd) | [Versuchen](https://open.spotify.com/album/6n04Dj1nhdwLCmm3421TC0) | 2:16 | 2021-12-10 | 2022-08-13 |
 | [Vitality](https://open.spotify.com/track/2qq70CnufPOLYgcjHv00ht) | [Les Cieu](https://open.spotify.com/artist/2AOAPIy3omNL5qYIgep3TB) | [Vitality](https://open.spotify.com/album/3CRqKw05hXRMqxaYDC59r1) | 3:12 | 2021-12-10 |  |

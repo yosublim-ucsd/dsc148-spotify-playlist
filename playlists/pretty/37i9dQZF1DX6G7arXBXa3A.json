@@ -1,12 +1,12 @@
 {
   "description": "Big bands, big sounds.",
-  "num_followers": 382931,
+  "num_followers": 382999,
   "original_name": "Big Band",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3NWEwYjI0ZDM2ZmE2ZWI4ZjFhMGExYTdiYzQ3MmJmMzE5YzEzNjcx",
+  "snapshot_id": "MCxiODYxZDY5NDA1OWU5ZjdkYWY3ZjU2N2YyN2QxMzlhNTdmNjlmYzg3",
   "tracks": [
     {
       "added_at": "2022-10-28 04:01:00",
@@ -45,20 +45,24 @@
       "url": "https://open.spotify.com/track/7fQ3PYTYdu208fQ3JEm2U7"
     },
     {
-      "added_at": "2020-03-06 16:28:56",
+      "added_at": "2023-05-19 04:01:00",
       "album": {
-        "name": "The Legendary Bobby Darin",
-        "url": "https://open.spotify.com/album/1j4n3aUX5f8LTf7ijPnzi7"
+        "name": "Vintage Big Band",
+        "url": "https://open.spotify.com/album/4CbbOvGG4eQkNPqpZ21v2O"
       },
       "artists": [
         {
-          "name": "Bobby Darin",
-          "url": "https://open.spotify.com/artist/0EodhzA6yW1bIdD5B4tcmJ"
+          "name": "John Rowcroft",
+          "url": "https://open.spotify.com/artist/7GyrVlX5jFlHisEa2X2GSF"
+        },
+        {
+          "name": "London Studio Big Band",
+          "url": "https://open.spotify.com/artist/38Rc4JSbOBanZukrQFBe7Z"
         }
       ],
-      "duration_ms": 145933,
-      "name": "More - Remastered 2004",
-      "url": "https://open.spotify.com/track/7gxW8hMXEUkc1G3m7z9vei"
+      "duration_ms": 147891,
+      "name": "Speakeasy Swagger",
+      "url": "https://open.spotify.com/track/3B1iVnHB6KCAVs9azXtQO8"
     },
     {
       "added_at": "2023-02-10 05:01:00",
@@ -75,6 +79,22 @@
       "duration_ms": 216738,
       "name": "Happy Together",
       "url": "https://open.spotify.com/track/3fwtrg0fdPvtW793T6WPwF"
+    },
+    {
+      "added_at": "2020-03-06 16:28:56",
+      "album": {
+        "name": "The Legendary Bobby Darin",
+        "url": "https://open.spotify.com/album/1j4n3aUX5f8LTf7ijPnzi7"
+      },
+      "artists": [
+        {
+          "name": "Bobby Darin",
+          "url": "https://open.spotify.com/artist/0EodhzA6yW1bIdD5B4tcmJ"
+        }
+      ],
+      "duration_ms": 145933,
+      "name": "More - Remastered 2004",
+      "url": "https://open.spotify.com/track/7gxW8hMXEUkc1G3m7z9vei"
     },
     {
       "added_at": "2020-03-06 16:28:56",
@@ -131,22 +151,6 @@
     {
       "added_at": "2020-03-06 16:28:56",
       "album": {
-        "name": "B. G. In Hi Fi",
-        "url": "https://open.spotify.com/album/33oCBSZiLbfqyOnTTQ4Tct"
-      },
-      "artists": [
-        {
-          "name": "Benny Goodman",
-          "url": "https://open.spotify.com/artist/1pBuKaLHJlIlqYxQQaflve"
-        }
-      ],
-      "duration_ms": 195533,
-      "name": "Stompin At The Savoy",
-      "url": "https://open.spotify.com/track/1xUJ1mdLAysxNBtO9w3J2g"
-    },
-    {
-      "added_at": "2020-03-06 16:28:56",
-      "album": {
         "name": "Ultimate Big Band Collection: Glenn Miller",
         "url": "https://open.spotify.com/album/4dkdsQFiMF2Ok0AczTiVBR"
       },
@@ -159,6 +163,22 @@
       "duration_ms": 216746,
       "name": "In the Mood",
       "url": "https://open.spotify.com/track/1xsY8IFXUrxeet1Fcmk4oC"
+    },
+    {
+      "added_at": "2020-03-06 16:28:56",
+      "album": {
+        "name": "B. G. In Hi Fi",
+        "url": "https://open.spotify.com/album/33oCBSZiLbfqyOnTTQ4Tct"
+      },
+      "artists": [
+        {
+          "name": "Benny Goodman",
+          "url": "https://open.spotify.com/artist/1pBuKaLHJlIlqYxQQaflve"
+        }
+      ],
+      "duration_ms": 195533,
+      "name": "Stompin At The Savoy",
+      "url": "https://open.spotify.com/track/1xUJ1mdLAysxNBtO9w3J2g"
     },
     {
       "added_at": "2020-03-06 16:28:56",
@@ -191,22 +211,6 @@
       "duration_ms": 196160,
       "name": "Begin the Beguine",
       "url": "https://open.spotify.com/track/0YJAz1QqMNrPhJ2vhHupcZ"
-    },
-    {
-      "added_at": "2020-03-06 16:28:56",
-      "album": {
-        "name": "When Harry Met Sally... Music From The Motion Picture",
-        "url": "https://open.spotify.com/album/3ENgsXeS6nDq8F5YtSmiMv"
-      },
-      "artists": [
-        {
-          "name": "Harry Connick, Jr.",
-          "url": "https://open.spotify.com/artist/6u17YlWtW4oqFF5Hn9UU79"
-        }
-      ],
-      "duration_ms": 147066,
-      "name": "I Could Write a Book",
-      "url": "https://open.spotify.com/track/2zSnnXvex1yMcPUn4mg27H"
     },
     {
       "added_at": "2020-03-06 16:28:56",
@@ -263,22 +267,6 @@
     {
       "added_at": "2020-03-06 16:28:56",
       "album": {
-        "name": "The Essential Benny Goodman",
-        "url": "https://open.spotify.com/album/7ykWEOYdt8gyA4seOlwtWK"
-      },
-      "artists": [
-        {
-          "name": "Benny Goodman",
-          "url": "https://open.spotify.com/artist/1pBuKaLHJlIlqYxQQaflve"
-        }
-      ],
-      "duration_ms": 520293,
-      "name": "Sing, Sing, Sing",
-      "url": "https://open.spotify.com/track/5L8ta4ECl5zeA6bGqY7G38"
-    },
-    {
-      "added_at": "2020-03-06 16:28:56",
-      "album": {
         "name": "50th Anniversary Collection (Vol. 2)",
         "url": "https://open.spotify.com/album/4ro3pENrSK5JrlsTr1RS7L"
       },
@@ -295,6 +283,22 @@
       "duration_ms": 149333,
       "name": "Straighten Up And Fly Right - Single Version",
       "url": "https://open.spotify.com/track/2FZZZ3L1wj9xTgQzMlQEed"
+    },
+    {
+      "added_at": "2020-03-06 16:28:56",
+      "album": {
+        "name": "When Harry Met Sally... Music From The Motion Picture",
+        "url": "https://open.spotify.com/album/3ENgsXeS6nDq8F5YtSmiMv"
+      },
+      "artists": [
+        {
+          "name": "Harry Connick, Jr.",
+          "url": "https://open.spotify.com/artist/6u17YlWtW4oqFF5Hn9UU79"
+        }
+      ],
+      "duration_ms": 147066,
+      "name": "I Could Write a Book",
+      "url": "https://open.spotify.com/track/2zSnnXvex1yMcPUn4mg27H"
     },
     {
       "added_at": "2020-03-06 16:28:56",
@@ -335,6 +339,22 @@
       "duration_ms": 290146,
       "name": "Nuttville",
       "url": "https://open.spotify.com/track/6OB0RIqwXwXBFpi3Qn1ndS"
+    },
+    {
+      "added_at": "2020-03-06 16:28:56",
+      "album": {
+        "name": "The Essential Benny Goodman",
+        "url": "https://open.spotify.com/album/7ykWEOYdt8gyA4seOlwtWK"
+      },
+      "artists": [
+        {
+          "name": "Benny Goodman",
+          "url": "https://open.spotify.com/artist/1pBuKaLHJlIlqYxQQaflve"
+        }
+      ],
+      "duration_ms": 520293,
+      "name": "Sing, Sing, Sing",
+      "url": "https://open.spotify.com/track/5L8ta4ECl5zeA6bGqY7G38"
     },
     {
       "added_at": "2020-03-06 16:28:56",
@@ -479,26 +499,6 @@
     {
       "added_at": "2020-03-06 16:28:56",
       "album": {
-        "name": "Golden Girl (The Columbia Recordings 1944-1966)",
-        "url": "https://open.spotify.com/album/5Vck2QyeSlhWymxrnQWpoM"
-      },
-      "artists": [
-        {
-          "name": "Doris Day",
-          "url": "https://open.spotify.com/artist/3ESG6pj6a0LvUKklENalT6"
-        },
-        {
-          "name": "Harry James",
-          "url": "https://open.spotify.com/artist/5MpELOfAiq7aIBTij30phD"
-        }
-      ],
-      "duration_ms": 171666,
-      "name": "Lullaby of Broadway (with Harry James & His Orchestra)",
-      "url": "https://open.spotify.com/track/0qPeyVfebszZcHTUc48Lzl"
-    },
-    {
-      "added_at": "2020-03-06 16:28:56",
-      "album": {
         "name": "Q's Jook Joint",
         "url": "https://open.spotify.com/album/5zq1m9RP5iwHBRQlgbROx1"
       },
@@ -519,6 +519,26 @@
       "duration_ms": 175733,
       "name": "Let The Good Times Roll",
       "url": "https://open.spotify.com/track/2dFJA0ZQ2OjA8TWjEV6P5n"
+    },
+    {
+      "added_at": "2020-03-06 16:28:56",
+      "album": {
+        "name": "Golden Girl (The Columbia Recordings 1944-1966)",
+        "url": "https://open.spotify.com/album/5Vck2QyeSlhWymxrnQWpoM"
+      },
+      "artists": [
+        {
+          "name": "Doris Day",
+          "url": "https://open.spotify.com/artist/3ESG6pj6a0LvUKklENalT6"
+        },
+        {
+          "name": "Harry James",
+          "url": "https://open.spotify.com/artist/5MpELOfAiq7aIBTij30phD"
+        }
+      ],
+      "duration_ms": 171666,
+      "name": "Lullaby of Broadway (with Harry James & His Orchestra)",
+      "url": "https://open.spotify.com/track/0qPeyVfebszZcHTUc48Lzl"
     },
     {
       "added_at": "2020-03-06 16:28:56",
@@ -799,22 +819,6 @@
     {
       "added_at": "2020-03-06 16:28:56",
       "album": {
-        "name": "Birks Works: The Verve Big-Band Sessions",
-        "url": "https://open.spotify.com/album/7yyH8DozyrWFMEAWhCV2oS"
-      },
-      "artists": [
-        {
-          "name": "Dizzy Gillespie",
-          "url": "https://open.spotify.com/artist/5RzjqfPS0Bu4bUMkyNNDpn"
-        }
-      ],
-      "duration_ms": 235866,
-      "name": "Doodlin'",
-      "url": "https://open.spotify.com/track/2jb1Abu8FOdpIAICSnV6C6"
-    },
-    {
-      "added_at": "2020-03-06 16:28:56",
-      "album": {
         "name": "Boss Brass And Woods",
         "url": "https://open.spotify.com/album/4YDkAgQADwIzdytQBDXBtb"
       },
@@ -877,28 +881,20 @@
       "url": "https://open.spotify.com/track/7oo9DCy6AxzkWkzxF3GTzb"
     },
     {
-      "added_at": "2022-03-11 05:02:00",
+      "added_at": "2020-03-06 16:28:56",
       "album": {
-        "name": "Your Mind Is on Vacation",
-        "url": "https://open.spotify.com/album/7lDZoPjoOVUJaO08NtTGzK"
+        "name": "Birks Works: The Verve Big-Band Sessions",
+        "url": "https://open.spotify.com/album/7yyH8DozyrWFMEAWhCV2oS"
       },
       "artists": [
         {
-          "name": "Lou Pomanti",
-          "url": "https://open.spotify.com/artist/4dSjbjQP6Si6yNXMCG19UW"
-        },
-        {
-          "name": "David Clayton-Thomas",
-          "url": "https://open.spotify.com/artist/0iC9XXKywTVieFeRoYSZoa"
-        },
-        {
-          "name": "John Finley",
-          "url": "https://open.spotify.com/artist/5jUfKEW1EYW7tpOerSOWWr"
+          "name": "Dizzy Gillespie",
+          "url": "https://open.spotify.com/artist/5RzjqfPS0Bu4bUMkyNNDpn"
         }
       ],
-      "duration_ms": 186598,
-      "name": "Your Mind Is on Vacation",
-      "url": "https://open.spotify.com/track/7F0owhC3XEnUACoLcnyCHJ"
+      "duration_ms": 235866,
+      "name": "Doodlin'",
+      "url": "https://open.spotify.com/track/2jb1Abu8FOdpIAICSnV6C6"
     }
   ],
   "unique_name": "Big Band",

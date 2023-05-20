@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0ZWYUjUMhaq0Rammqq3qu1.md) - [plain]
 
 > Dance hits in 2023\. Cover: SG Lewis
 
-[Digster](https://open.spotify.com/user/digster.fm) - 116,414 likes - 50 songs - 2 hr 23 min
+[Digster](https://open.spotify.com/user/digster.fm) - 116,413 likes - 50 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/0ZWYUjUMhaq0Rammqq3qu1.md) - [plain]
 | 8 | [Bitch Is Fire](https://open.spotify.com/track/2IlBUNjLmdnh4gXAMm7riS) | [Alexandra Stan](https://open.spotify.com/artist/0BmLNz4nSLfoWYW1cYsElL), [MATTN](https://open.spotify.com/artist/1RQ3ZwCNI7KniEKIN5kkio) | [Bitch Is Fire](https://open.spotify.com/album/6NmcPeyOPlRMn8YajEjlKv) | 2:15 |
 | 9 | [Hold On To My Love](https://open.spotify.com/track/729INrfxIsfZ5EVNFacZjD) | [John Newman](https://open.spotify.com/artist/34v5MVKeQnIo0CWYMbbrPf) | [Hold On To My Love](https://open.spotify.com/album/4CNTkiERhYxBADkJA7LEyO) | 3:05 |
 | 10 | [All I Need](https://open.spotify.com/track/02hEGjpkW2JyvtB8eel4gP) | [Julian Cross](https://open.spotify.com/artist/1TRFjpBEneFJJloCqSC4sG), [AFROJACK](https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz) | [All I Need](https://open.spotify.com/album/5DgYnW9yRnHEtY7LabHPys) | 2:51 |
-| 11 | [Underneath My Raincoat](https://open.spotify.com/track/3xAzEO2IhH1OXctIwSYYBK) | [Studio Killers](https://open.spotify.com/artist/7avo0PmlW8O1YLEt9DnWQT) | [Underneath My Raincoat](https://open.spotify.com/album/3KCbQ55wsoOhnlTP5vHntQ) | 2:55 |
+| 11 | [Raincoat](https://open.spotify.com/track/3xAzEO2IhH1OXctIwSYYBK) | [Studio Killers](https://open.spotify.com/artist/7avo0PmlW8O1YLEt9DnWQT) | [Raincoat](https://open.spotify.com/album/3KCbQ55wsoOhnlTP5vHntQ) | 2:55 |
 | 12 | [Finally](https://open.spotify.com/track/0PZpE9CYvOLt0wRZeOY5fV) | [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [RANI](https://open.spotify.com/artist/3SYnDj7btg9gFY7ps8m5d5) | [Finally](https://open.spotify.com/album/0mjru6iErl5h2amcxpMpg9) | 3:08 |
 | 13 | [Older ft Jimmie Allen & Dixie D'Amelio](https://open.spotify.com/track/4ofGcbHRWhIsrYJswteQkU) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Jimmie Allen](https://open.spotify.com/artist/147nKr9upHZSSxqCzh9j7c), [Dixie](https://open.spotify.com/artist/3DKkhRCGOG4e8IUPYFPfWs) | [Older ft Jimmie Allen & Dixie D'Amelio](https://open.spotify.com/album/0ulArbgB8WgKtxbuBtKDYO) | 2:59 |
 | 14 | [Don't Give Up](https://open.spotify.com/track/7AGMaD98w28eaNh2639jD2) | [Zoe Wees](https://open.spotify.com/artist/03d2mJXSMtuPI0nIvLnhoS) | [Don't Give Up](https://open.spotify.com/album/2XZMNStMl0nxjQ3LYdNboK) | 2:46 |

@@ -4,7 +4,7 @@
 
 > Keep calm and focus with ambient and post\-rock music.
 
-582 songs - 1 day 8 hr 3 min
+587 songs - 1 day 8 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -212,7 +212,7 @@
 | [Gusts of Wind Blowing in Different Directions](https://open.spotify.com/track/0B64UNTDsWHRqZ2o5iIxBm) | [The Last Dinosaur](https://open.spotify.com/artist/69sFt37arbuC0hGSFAoWqZ) | [Hooray! For Happiness](https://open.spotify.com/album/711BUAij7FQyF93WPaBuh8) | 2:21 | 2019-05-26\* | 2019-06-19 |
 | [Halving the Compass \(Rhian Sheehan Remix\)](https://open.spotify.com/track/6AxNrCQko6Ftb7xThkU4Wv) | [Helios](https://open.spotify.com/artist/592TFYwu9Qb0RC1hKDbX2w) | [Helios Remixed](https://open.spotify.com/album/6z1kly5CTyimTlvOasUdr6) | 6:42 | 2019-05-26\* | 2020-01-03 |
 | [He Needs Help](https://open.spotify.com/track/39hBYtqNwwl7v0gynAWyZj) | [David Wingo](https://open.spotify.com/artist/7mRf8eSpaoh4FD8D4mtvRk) | [Brigsby Bear \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7cySEIjLUYaMv6y34i0N4H) | 3:10 | 2019-06-19\* | 2021-10-21 |
-| [Heavy lifting](https://open.spotify.com/track/6ZB05VtNtULcsYIwAzAYjS) | [Stories Seldom Told](https://open.spotify.com/artist/2Iyf4h2Mpja2cBl9HwEqo7) | [Quiet Thinking](https://open.spotify.com/album/5qnVWivmwgrdoZlhCrqmWx) | 2:39 | 2022-10-15 |  |
+| [Heavy lifting](https://open.spotify.com/track/6ZB05VtNtULcsYIwAzAYjS) | [Stories Seldom Told](https://open.spotify.com/artist/2Iyf4h2Mpja2cBl9HwEqo7) | [Quiet Thinking](https://open.spotify.com/album/5qnVWivmwgrdoZlhCrqmWx) | 2:39 | 2022-10-15 | 2023-05-20 |
 | [heels to the heavens](https://open.spotify.com/track/4lcT08ARvK8cVjRLJbnKLh) | [Dössell](https://open.spotify.com/artist/4lKCYv9Hojq6QHDMZmW1It) | [heels to the heavens](https://open.spotify.com/album/6PGaWbrb1EUF54pqFZOBev) | 2:57 | 2021-11-11 |  |
 | [HEIR I](https://open.spotify.com/track/5rex1EYt4davYPo4igd2eH) | [Balmorhea](https://open.spotify.com/artist/1U0FaHAc4fcwQcYEJFgkm9) | [HEIR](https://open.spotify.com/album/62J9QPjudiX5JlRXFPivbD) | 5:00 | 2019-05-26\* | 2019-06-19 |
 | [Heliosphere](https://open.spotify.com/track/1oCPeGIQ5TpDYKrS4KmSTr) | [Haltura Arnadottir](https://open.spotify.com/artist/61BZeS03ZCGHVYi8gq523e) | [Heliosphere](https://open.spotify.com/album/4EjWjpbSRORaGgEwoMoN09) | 3:08 | 2022-07-08 |  |
@@ -418,6 +418,7 @@
 | [Sea of Tranquility](https://open.spotify.com/track/5ggOjNoVdy0O24g98rkms7) | [Evan Michael Brown](https://open.spotify.com/artist/6JA76EJW25d9MGVwGCmX1z) | [Above The Clouds](https://open.spotify.com/album/6Sjxd5p5VEM0Mj6FnhqPpP) | 2:55 | 2019-06-19\* | 2021-09-14 |
 | [Searching In The Night](https://open.spotify.com/track/3hPRkKFO5mIflYwDjicJ4U) | [Dreams Ahead](https://open.spotify.com/artist/6JHr6WrfMhJNTpJ1smiQXy) | [Return To Sender](https://open.spotify.com/album/06kQMPdWAKrS3ANHVZx27b) | 3:16 | 2022-11-18 |  |
 | [Second Chances](https://open.spotify.com/track/7IbbjapJhOwteSxyMjWOLB) | [Spaced Out Dreams](https://open.spotify.com/artist/7iGqNpmYWmkzGG6gwIVAha) | [Second Chances](https://open.spotify.com/album/6jagxBtyd6IAKLIy9E0wwc) | 2:40 | 2022-12-30 |  |
+| [Seeing Sound](https://open.spotify.com/track/1c9EcAZaZwvguJscnojXaR) | [San Bernadino 5](https://open.spotify.com/artist/26yFfCk0EZQxv7j2R4W3ae) | [Seeing Sound](https://open.spotify.com/album/3znO1C3grkfXLLy9teSFjA) | 2:04 | 2023-05-19 |  |
 | [Seeming](https://open.spotify.com/track/1AzBMkqhcv8KKyCYc2A1C2) | [Helios](https://open.spotify.com/artist/592TFYwu9Qb0RC1hKDbX2w) | [Veriditas](https://open.spotify.com/album/3QTsU264hhPO4cEOrHrZC0) | 2:35 | 2022-07-27 |  |
 | [Seeming](https://open.spotify.com/track/62rlNsIU6VgkRCSqH4BKEu) | [Helios](https://open.spotify.com/artist/592TFYwu9Qb0RC1hKDbX2w) | [Seeming](https://open.spotify.com/album/7HM9J3O7WjqVeGwxS7Do3n) | 2:35 | 2019-06-19\* | 2022-07-29 |
 | [Selfless](https://open.spotify.com/track/06rxdrloI554XAu02s1RaM) | [Toledo Rains](https://open.spotify.com/artist/76uaa6flgNHI5elCp0ssBF) | [Selfless](https://open.spotify.com/album/3IraToCy1gXM0Si13GErD1) | 3:00 | 2019-06-27 | 2020-06-19 |
@@ -450,11 +451,13 @@
 | [Song For Saul](https://open.spotify.com/track/4kNNXWML7vg2b4NXAGILdd) | [They Dream By Day](https://open.spotify.com/artist/0bcsH2FSusCuTAZ8aAgbJV) | [Fields Of Moab](https://open.spotify.com/album/0koXNisSlKiZui2102JtVx) | 3:53 | 2019-06-19\* | 2020-01-09 |
 | [Sounds from Home](https://open.spotify.com/track/5iFHdi7BB0koNu8t2Ug82n) | [Haltura Arnadottir](https://open.spotify.com/artist/61BZeS03ZCGHVYi8gq523e) | [Sounds from Home](https://open.spotify.com/album/4479smbX4jTXNLZrSLzuoL) | 3:13 | 2023-03-31 |  |
 | [sox](https://open.spotify.com/track/2MQhJVwdsmdfG5qK96tEHH) | [Stones Sailing](https://open.spotify.com/artist/0O1vvD1JNR6f3iEwn6ekgJ) | [sox](https://open.spotify.com/album/1xA6uelv0IYyEUjBVIXUjJ) | 2:54 | 2023-01-09 |  |
+| [Spaces](https://open.spotify.com/track/72eV4iUZ0MHnx35ARmPwYY) | [William Reed](https://open.spotify.com/artist/62TYFSmuHJr3QblYwgJq76) | [Spaces](https://open.spotify.com/album/44UlIseSRSr4N7AtOkiQb1) | 2:16 | 2023-05-19 |  |
 | [Sphere](https://open.spotify.com/track/07CcNtxvGbffdU6wrwmqKq) | [Jakob Ahlbom](https://open.spotify.com/artist/2VZTNKYLnhbnV3FwGJlp3K) | [Distant Echo](https://open.spotify.com/album/7fFn2jrNGSSr8HFXHXzV8y) | 3:20 | 2019-06-19\* | 2021-06-16 |
 | [Squaric](https://open.spotify.com/track/5vUaPsEVEsmv5J11CTgjBA) | [Martin Gauffin](https://open.spotify.com/artist/5dDn2NkprqEkypmRzyAtPt) | [Squaric](https://open.spotify.com/album/3weidR9AlIh3zsaHcR5tzH) | 2:33 | 2020-09-17 | 2022-07-09 |
 | [Stairwell](https://open.spotify.com/track/51XigcN2Snfmb3g3yO9iBC) | [Seas of Years](https://open.spotify.com/artist/0i3clfRb52Y1RoRfRKytAS) | [Drifting Ever Shifting](https://open.spotify.com/album/14a7IkZVZw8536CFPBbSSb) | 5:08 | 2019-05-26\* | 2019-06-27 |
 | [Staring into Infinity](https://open.spotify.com/track/0Mjbx4mfOH02A9xmUE3F40) | [Far & Beyond](https://open.spotify.com/artist/3ZfzatnOpZk7jV2TeN76if) | [Staring into Infinity](https://open.spotify.com/album/7JI8IswyhqL70KbpdLRn6X) | 2:35 | 2022-12-02 |  |
 | [Starlights](https://open.spotify.com/track/2tSlohCLetwQRpA71jbnrB) | [Tracey Chattaway](https://open.spotify.com/artist/7pTS4RiG0sM9TijxQJz8f6) | [Nightsky](https://open.spotify.com/album/5OUJezYQ1Am5V3DKIiWlos) | 5:13 | 2019-05-26\* | 2019-06-19 |
+| [Steady figures](https://open.spotify.com/track/1sGdr8pFBYgx4ZHDLjcH5c) | [Imber Sun](https://open.spotify.com/artist/2HyEvRdpjC6Ek9cLlLof0X) | [Steady figures](https://open.spotify.com/album/7sdReI2hp7HrdR9WtvURdq) | 2:41 | 2023-05-19 |  |
 | [Steady Walk](https://open.spotify.com/track/1eEHpyWT5AOAFbgqAGSMns) | [Joy Parade](https://open.spotify.com/artist/4obAvtejwiAj0YW3Q4CH1o) | [Steady Walk](https://open.spotify.com/album/54sj8psc72yZlgWhIyxvyP) | 1:59 | 2022-08-23 |  |
 | [Stillness Within](https://open.spotify.com/track/4TOJ3cjdXI3Mbj5Scd0XGg) | [Roots and Recognition](https://open.spotify.com/artist/0pcVy4l3REi7JxDbLrZ37L) | [Stillness Within](https://open.spotify.com/album/1f3Ddyah41RiBNg8hVM4Vd) | 2:55 | 2021-12-17 |  |
 | [Stormy Weather](https://open.spotify.com/track/7oXWUVH2t0UR11AvhhY8GQ) | [Lost Horse Mine](https://open.spotify.com/artist/6IAXzJ1w04k1y0IoDujIBV) | [Stormy Weather](https://open.spotify.com/album/1t7Ug7j82OYRPdvhzt1Ijg) | 2:30 | 2019-09-14 | 2023-04-22 |
@@ -515,6 +518,7 @@
 | [Threnody](https://open.spotify.com/track/7hyAAjHZaDWSPDzlUYNUIa) | [Goldmund](https://open.spotify.com/artist/0R5BzePlbvG8xTXw0QF3uw) | [The Malady Of Elegance](https://open.spotify.com/album/1vF5y6BC66nKozxg0Dsvvo) | 4:41 | 2019-05-26\* | 2019-06-19 |
 | [Thunder Rising](https://open.spotify.com/track/6ssI2e4kR5YA78MRoeskKS) | [The American Dollar](https://open.spotify.com/artist/5r4OqYJL7JrtZlffx7FJlb) | [Thunder Rising](https://open.spotify.com/album/6Tcoj33aj1RyF7w8IV4Rvk) | 5:46 | 2019-06-19\* | 2019-06-27 |
 | [Tidal Waves](https://open.spotify.com/track/3YTZyDywwVOWOXw2d970Dx) | [Isaak Young](https://open.spotify.com/artist/7qmOAgRUFZhLfwtyCGPKdo) | [Tidal Waves](https://open.spotify.com/album/5JUNGkyetUR1RC0svtR772) | 3:10 | 2022-11-18 |  |
+| [Tide](https://open.spotify.com/track/2j7uOzdepAtKUnn8VcuNEV) | [Nomad Spector](https://open.spotify.com/artist/5UEm6zWB2OYaYE1y168uEV) | [Tide](https://open.spotify.com/album/0cgOt6Z0rOyNlCiI2v1NLF) | 2:30 | 2023-05-19 |  |
 | [Tied Together](https://open.spotify.com/track/6fE5kgw2HR8AxQGqA3e2Gu) | [Agnes Lundh](https://open.spotify.com/artist/3OJ5pC5H7eYoyow4sXULSt) | [next to everything](https://open.spotify.com/album/4ps47i5khFyqqMrkd87l1U) | 2:36 | 2022-11-11 |  |
 | [Time \- Ambient Version](https://open.spotify.com/track/0KTtCugGvdvAMaO1VhyLhS) | [The American Dollar](https://open.spotify.com/artist/5r4OqYJL7JrtZlffx7FJlb) | [Music for Chilling Out](https://open.spotify.com/album/4Rvy7O67o7ZEx0IpBoqkIf) | 5:12 | 2019-06-19\* | 2019-08-13 |
 | [Time Travel](https://open.spotify.com/track/2ENH05Q7PkilEF6WujXNjG) | [AMBIE](https://open.spotify.com/artist/5oo57Q3XAVgiuF4D2BSz6D) | [Rooftops](https://open.spotify.com/album/7xZXttB5IlX5eoYBPlwrEa) | 2:40 | 2020-08-07 |  |
@@ -576,6 +580,7 @@
 | [Willow \- Instrumental Version](https://open.spotify.com/track/6dRo3av1dw6j1IrdKZaCQL) | [Seth Luke](https://open.spotify.com/artist/2Z2anZ5fPhykLkMi7E7lC5) | [Fireflies & Willow \(Instrumental Version\)](https://open.spotify.com/album/4xjZ7UTVG55BZDAgFYwkeb) | 3:39 | 2021-07-01 | 2023-04-12 |
 | [Winter of the Electric Beach](https://open.spotify.com/track/0y6UCsTuCrvpHH9EoRQ9jC) | [Olan Mill](https://open.spotify.com/artist/5EtbzLDdynYLlgthbKiAlH) | [Half Seas Over](https://open.spotify.com/album/6qgtuVY99xJZjqMCf9RJ8E) | 4:04 | 2019-05-26\* | 2019-08-13 |
 | [Winter Sun](https://open.spotify.com/track/6xcD8EbsvMep9ULtidHI2j) | [Sun Of They](https://open.spotify.com/artist/5zmB7dGi1rKdsEYVxQvJpS) | [Winter Sun](https://open.spotify.com/album/5MzV4YoKTrZTxTz4KduMWi) | 2:22 | 2022-03-04 |  |
+| [Wish I Knew](https://open.spotify.com/track/753JsxMTj2sSrV3VBUzlmh) | [Spaced Out Dreams](https://open.spotify.com/artist/7iGqNpmYWmkzGG6gwIVAha) | [Wish I Knew](https://open.spotify.com/album/4xAYeQmB9cufnyD226V6qs) | 2:17 | 2023-05-19 |  |
 | [With Resolve](https://open.spotify.com/track/51c5Wbzs0fPu6mwpDn3bsQ) | [Jacob Yoffee](https://open.spotify.com/artist/0M28z4ZRPcGZPSXsJqc1lP) | [With Resolve](https://open.spotify.com/album/1dMrnL9I1tO7iSTSaYbYUQ) | 2:09 | 2020-09-17 |  |
 | [Woodland Heart](https://open.spotify.com/track/1z7GhYG0KqAmebdLfuoYho) | [Ghost Of Summer](https://open.spotify.com/artist/2SQs5lwQifKBBhMDYnPZy8) | [Woodland Heart](https://open.spotify.com/album/2OeV90Mmc1G332pU5qpatk) | 2:40 | 2019-12-11 | 2022-11-18 |
 | [World Above](https://open.spotify.com/track/6lCPEra6l4YkPkXVZeFqeT) | [Echo Ark](https://open.spotify.com/artist/3i21BFL67igZbgH8Pj0Xlz) | [World Above](https://open.spotify.com/album/0mVoSvbZmNqhIIzSRq9Q7o) | 2:35 | 2023-01-20 |  |

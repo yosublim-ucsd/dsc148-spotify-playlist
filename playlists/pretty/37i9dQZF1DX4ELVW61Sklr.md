@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ELVW61Sklr.md) - [plain]
 
 > A collection of R&B, Soul and Gospel flavored takes on the most beloved Christmas songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 168,517 likes - 75 songs - 4 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 168,512 likes - 75 songs - 4 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,13 +58,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ELVW61Sklr.md) - [plain]
 | 48 | [The Christmas Song \(Merry Christmas To You\)](https://open.spotify.com/track/2bfGUiuZ00Ver5I4BR1iNi) | [Janice](https://open.spotify.com/artist/1uKR3ihZmv8a93heLPYKQ8) | [The Christmas Song \(Merry Christmas To You\)](https://open.spotify.com/album/03uGzEi1cxuW4UcTmN9hgf) | 2:54 |
 | 49 | [Wonderful Christmastime \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/4MidM1ux8fwIWEM01eX6AC) | [Xavier Omär](https://open.spotify.com/artist/3UjPnt2nRmw10N58bBeNOg), [Sango](https://open.spotify.com/artist/7e3FtKBIPLrIVm8g1FJMVg) | [Spotify Singles \- Holiday](https://open.spotify.com/album/50RXkvDaqBXrh7JGUuuCyB) | 3:06 |
 | 50 | [Wishlist \(feat\. PJ Morton\)](https://open.spotify.com/track/7ypXUdwJthmzmTxJAWjr5G) | [JoJo](https://open.spotify.com/artist/5xuNBZoM7z1Vv8IQ6uM0p6), [PJ Morton](https://open.spotify.com/artist/2FMOHE79X98yptp4RpPrt7) | [December Baby](https://open.spotify.com/album/5gzHuhZpa8gB7ABxH60pNT) | 3:57 |
-| 51 | [Hark the Herald Angels Sing](https://open.spotify.com/track/4nas0awE85EWzlwwgb7Tw7) | [Mary Mary](https://open.spotify.com/artist/12Kgt2eahvxNWhD5PnSUde) | [A Mary Mary Christmas](https://open.spotify.com/album/3OAd6N0ci79PHcxjBvgQ73) | 3:35 |
+| 51 | [This Christmas](https://open.spotify.com/track/721Z5ii3hik988t1ixcDJc) | [Donny Hathaway](https://open.spotify.com/artist/0HU0U9kdXEHZVxUNbuQe8S), [Lalah Hathaway](https://open.spotify.com/artist/0uNEy4544VZq2KOl7BsLuo) | [This Christmas](https://open.spotify.com/album/23jUzlbMdbzQEEUyJgQbl8) | 4:02 |
 | 52 | [Hallelujah](https://open.spotify.com/track/0szwRYpWJcn58dzB8ZPSxp) | [Fantasia](https://open.spotify.com/artist/7xAcVHPiirnUqfdqo0USb1) | [Christmas After Midnight](https://open.spotify.com/album/6o4pzR1SeFzgVtUcAyTDJ2) | 4:23 |
 | 53 | [Be Mine For Christmas](https://open.spotify.com/track/62wRKfwOB7pyoFgX4ohQBB) | [Kem](https://open.spotify.com/artist/1f2e3RQf7LHOum8NU61q0R), [Ledisi](https://open.spotify.com/artist/60ciIY5MouLc2Y9n34DJdA) | [What Christmas Means](https://open.spotify.com/album/0Es1EWw1XWC51nCZdva50g) | 4:17 |
 | 54 | [Christmas Time Is Here](https://open.spotify.com/track/2v3o68jkmZhT9KxEHTCXAJ) | [Toni Braxton](https://open.spotify.com/artist/3X458ddYA2YcVWuVIGGOYe) | [Snowflakes](https://open.spotify.com/album/5iUvnkcBLlxrrdPsx4zwmu) | 4:11 |
-| 55 | [This Christmas](https://open.spotify.com/track/721Z5ii3hik988t1ixcDJc) | [Donny Hathaway](https://open.spotify.com/artist/0HU0U9kdXEHZVxUNbuQe8S), [Lalah Hathaway](https://open.spotify.com/artist/0uNEy4544VZq2KOl7BsLuo) | [This Christmas](https://open.spotify.com/album/23jUzlbMdbzQEEUyJgQbl8) | 4:02 |
-| 56 | [What Child Is This?](https://open.spotify.com/track/4GbMsN2WTx28nGEXjPmLf2) | [Vanessa Williams](https://open.spotify.com/artist/75L9s8KVrhCNtBUkZFnDFW) | [Star Bright](https://open.spotify.com/album/3UJ532uGsZY4ChVxjN72Df) | 3:52 |
-| 57 | [Have Yourself a Merry Little Christmas](https://open.spotify.com/track/1amnjEGpBPQIokjg3Np1kb) | [Tank](https://open.spotify.com/artist/4mwXUEKaW4ftbncf9Hi58l) | [A Classic Christmas Night \- EP](https://open.spotify.com/album/0Bbyrq0VrznrBl9lGUVOvE) | 3:18 |
+| 55 | [Hark the Herald Angels Sing](https://open.spotify.com/track/4nas0awE85EWzlwwgb7Tw7) | [Mary Mary](https://open.spotify.com/artist/12Kgt2eahvxNWhD5PnSUde) | [A Mary Mary Christmas](https://open.spotify.com/album/3OAd6N0ci79PHcxjBvgQ73) | 3:35 |
+| 56 | [Have Yourself a Merry Little Christmas](https://open.spotify.com/track/1amnjEGpBPQIokjg3Np1kb) | [Tank](https://open.spotify.com/artist/4mwXUEKaW4ftbncf9Hi58l) | [A Classic Christmas Night \- EP](https://open.spotify.com/album/0Bbyrq0VrznrBl9lGUVOvE) | 3:18 |
+| 57 | [What Child Is This?](https://open.spotify.com/track/4GbMsN2WTx28nGEXjPmLf2) | [Vanessa Williams](https://open.spotify.com/artist/75L9s8KVrhCNtBUkZFnDFW) | [Star Bright](https://open.spotify.com/album/3UJ532uGsZY4ChVxjN72Df) | 3:52 |
 | 58 | [The First Noel \(feat\. Cory Henry\) \- Spotify Holiday Single](https://open.spotify.com/track/3tqjlg9Ut8l3WWRe1J0cNQ) | [Jazmine Sullivan](https://open.spotify.com/artist/7gSjFKpVmDgC2MMsnN8CYq), [Cory Henry](https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s) | [The First Noel \(feat\. Cory Henry\)](https://open.spotify.com/album/4UUlh9XDS5gIPoCVAUN8zd) | 3:10 |
 | 59 | [Favorite Time of Year](https://open.spotify.com/track/5KBn2qv7N3OfS7I2X2YNZM) | [Dru Hill](https://open.spotify.com/artist/1255GTUKNCLCTvH9ctD4cT) | [Christmas in Baltimore](https://open.spotify.com/album/74I30qyYY4fofXIaViaQ2r) | 3:36 |
 | 60 | [God Rest Ye Merry Gentlemen](https://open.spotify.com/track/5ou7qxprOCJkbNgxJLygwo) | [Take 6](https://open.spotify.com/artist/31zQEL3ARiYe63jn3jtM18), [Yellowjackets](https://open.spotify.com/artist/1zHPRenzLeI2vhT7nlR6Mq) | [He Is Christmas](https://open.spotify.com/album/7vW35sxN7K0ZxTscxFpCDR) | 4:35 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ELVW61Sklr.md) - [plain]
 | 74 | [Wrap Me Up](https://open.spotify.com/track/6BH5Ls5uYLQCBwXResfDbw) | [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk) | [Def The Halls](https://open.spotify.com/album/0wV5Edyo92gZMKvEPpxUAc) | 3:34 |
 | 75 | [Chimney \[from Still Home For The Holidays \(An R&B Christmas Album\)\]](https://open.spotify.com/track/1jU3jSkN5AYkiAsHlp4rDP) | [Sebastian Mikael](https://open.spotify.com/artist/4hknFHNFp3UMm2Rbc6Ansf) | [Still Home For The Holidays](https://open.spotify.com/album/7FAqu4DgE3XkBzq8ub8dBv) | 4:35 |
 
-Snapshot ID: `MCw2M2IzYzIzNWY0YWJhMDQ3NjA1M2I2NjAzZmE1MzhkNDI0YjQwMzdi`
+Snapshot ID: `MCw1YzgzOTEzMjdmMTg3ZTc5OTlhZjVjNTJhMmNlNmNhYThmMjgyMGZj`

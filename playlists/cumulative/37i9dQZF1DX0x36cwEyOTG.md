@@ -187,7 +187,7 @@
 | [Smother](https://open.spotify.com/track/27ViT9yPmgH4TLyXPTsQWl) | [Daughter](https://open.spotify.com/artist/46CitWgnWrvF9t70C2p1Me) | [If You Leave](https://open.spotify.com/album/31LehqnrVyTuEBEKeXeqVx) | 4:00 | 2018-11-26 | 2022-10-13 |
 | [Smother](https://open.spotify.com/track/2Fa5PjvjXH1qKWI0umk4oY) | [Daughter](https://open.spotify.com/artist/46CitWgnWrvF9t70C2p1Me) | [If You Leave](https://open.spotify.com/album/2jI09gnkDzKp6EQg9VvnGM) | 4:00 | 2018-11-26 |  |
 | [Sometime](https://open.spotify.com/track/5eIEPFGkfKt4IgCfuSWoUu) | [Scott Orr](https://open.spotify.com/artist/12vInSu21rqLXfH6QKTLl1) | [Sometime](https://open.spotify.com/album/53DZ5iCzju9lqG0mh54rKK) | 3:08 | 2018-11-26 | 2022-11-13 |
-| [St\. Marie](https://open.spotify.com/track/4YUIJXxriyGEzbEeRnPjJn) | [High Highs](https://open.spotify.com/artist/1cXVTtkpqSXVhyD32f9MS4) | [St\. Marie](https://open.spotify.com/album/58Fruc4TccCK1aM2ZuKmWl) | 2:29 | 2018-11-26 |  |
+| [St\. Marie](https://open.spotify.com/track/4YUIJXxriyGEzbEeRnPjJn) | [High Highs](https://open.spotify.com/artist/1cXVTtkpqSXVhyD32f9MS4) | [St\. Marie](https://open.spotify.com/album/58Fruc4TccCK1aM2ZuKmWl) | 2:29 | 2018-11-26 | 2023-05-20 |
 | [St.Marie](https://open.spotify.com/track/2SmPtJR4MG7k9H4IhXOyiI) | [High Highs](https://open.spotify.com/artist/1cXVTtkpqSXVhyD32f9MS4) | [St.Marie](https://open.spotify.com/album/49ZxsMev6T1HY6tOE1PT2a) | 2:29 | 2018-11-26 | 2022-07-29 |
 | [Sticky Leaves](https://open.spotify.com/track/0GOEs6J9NmgFMR03fE0hdQ) | [Linying](https://open.spotify.com/artist/5IIP34JBy1d8kBYlAGnRaW) | [Sticky Leaves](https://open.spotify.com/album/0GR9yvp6nh1ifG3MnWsUp9) | 3:52 | 2018-11-26 | 2022-07-29 |
 | [Sticky Leaves](https://open.spotify.com/track/4qlIIxYpHFE4z4IncQrn2N) | [Linying](https://open.spotify.com/artist/5IIP34JBy1d8kBYlAGnRaW) | [Paris 12](https://open.spotify.com/album/2pWwQGSsGVaYiPEf5GS57D) | 3:52 | 2018-11-26 | 2022-11-13 |
@@ -244,6 +244,6 @@
 | [You](https://open.spotify.com/track/6H179fTdaQXT4QHnNxNX4D) | [Nils Frahm](https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp) | [Screws](https://open.spotify.com/album/2EaigzcT1RHV3ILasIOfJz) | 3:09 | 2018-11-26 | 2022-07-29 |
 | [Your Love Is An Island](https://open.spotify.com/track/6we39fF8PwBFH0Buthg1gH) | [Talos](https://open.spotify.com/artist/5pdzKTGQAcRcxDOfN4mXSc) | [Wild Alee \(Deluxe Edition\)](https://open.spotify.com/album/3gaCoZyis2PjdhjQVgs1fF) | 3:56 | 2022-12-14 |  |
 | [Your Love Is an Island](https://open.spotify.com/track/79irqIr5JmGSHeLtu8tntd) | [Talos](https://open.spotify.com/artist/5pdzKTGQAcRcxDOfN4mXSc) | [Your Love Is an Island](https://open.spotify.com/album/5k6cxdLfxmu1cIcgCInAkB) | 4:05 | 2018-11-26 | 2022-11-13 |
-| [Zombies](https://open.spotify.com/track/2ig5YxSVKUgd4nxIDLcvZC) | [Ethan Tasch](https://open.spotify.com/artist/5QeOEXfGjdzdEsUOHODPCw) | [Zombies](https://open.spotify.com/album/0a2bolGRmUpWKlS9h7wJGs) | 3:12 | 2020-10-15 | 2023-03-08 |
+| [Zombies](https://open.spotify.com/track/2ig5YxSVKUgd4nxIDLcvZC) | [Ethan Tasch](https://open.spotify.com/artist/5QeOEXfGjdzdEsUOHODPCw) | [Zombies](https://open.spotify.com/album/0a2bolGRmUpWKlS9h7wJGs) | 3:12 | 2020-10-15 |  |
 
 \*This playlist was first scraped on 2021-12-21. Prior content cannot be recovered.

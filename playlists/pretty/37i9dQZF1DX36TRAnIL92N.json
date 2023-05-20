@@ -1,12 +1,12 @@
 {
   "description": "High energy Techno to boost your workout.",
-  "num_followers": 148660,
+  "num_followers": 149206,
   "original_name": "Techno Workout",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1ZWYwMzYwZDlkNTczMTUwNjNkZDgwZGNiN2FhZDg4NDNjY2NhMGZi",
+  "snapshot_id": "MCxiMGM1ZGY1N2U4ZDA5ZDJlNmMwNGUyNDk0YjBhZTQ0NTQ3MzgyODgz",
   "tracks": [
     {
       "added_at": "2023-05-12 14:30:00",
@@ -179,22 +179,6 @@
     {
       "added_at": "2023-05-12 14:30:00",
       "album": {
-        "name": "Gravity",
-        "url": "https://open.spotify.com/album/45hEdeNHcpC2FIvgDMlaCP"
-      },
-      "artists": [
-        {
-          "name": "Space 92",
-          "url": "https://open.spotify.com/artist/6TVdVlY6irsNPkMHT2HkfD"
-        }
-      ],
-      "duration_ms": 365568,
-      "name": "Gravity",
-      "url": "https://open.spotify.com/track/0VTnsXnW2kuMFlwdKSTSBy"
-    },
-    {
-      "added_at": "2023-05-12 14:30:00",
-      "album": {
         "name": "Traffic",
         "url": "https://open.spotify.com/album/04xMU08QUyeBA5Etl4kjQM"
       },
@@ -211,18 +195,38 @@
     {
       "added_at": "2023-05-12 14:30:00",
       "album": {
-        "name": "Formula EP",
-        "url": "https://open.spotify.com/album/0apCw1VDY8LhLH5YHfKOZ5"
+        "name": "Gravity",
+        "url": "https://open.spotify.com/album/45hEdeNHcpC2FIvgDMlaCP"
+      },
+      "artists": [
+        {
+          "name": "Space 92",
+          "url": "https://open.spotify.com/artist/6TVdVlY6irsNPkMHT2HkfD"
+        }
+      ],
+      "duration_ms": 365568,
+      "name": "Gravity",
+      "url": "https://open.spotify.com/track/0VTnsXnW2kuMFlwdKSTSBy"
+    },
+    {
+      "added_at": "2023-05-12 14:30:00",
+      "album": {
+        "name": "Reflection EP",
+        "url": "https://open.spotify.com/album/78bqEeos8LIGqSpTqNPNU6"
       },
       "artists": [
         {
           "name": "Charlotte de Witte",
           "url": "https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso"
+        },
+        {
+          "name": "Enrico Sangiuliano",
+          "url": "https://open.spotify.com/artist/1u7DsNFbakULvxnDGtMm90"
         }
       ],
-      "duration_ms": 433971,
-      "name": "Doppler",
-      "url": "https://open.spotify.com/track/0TtgKq96j4bpE5UQUDXrwH"
+      "duration_ms": 406584,
+      "name": "Reflection",
+      "url": "https://open.spotify.com/track/21WIoAisDlLyEsRAZX35CT"
     },
     {
       "added_at": "2023-05-12 14:30:00",
@@ -395,22 +399,18 @@
     {
       "added_at": "2023-05-12 14:30:00",
       "album": {
-        "name": "Reflection EP",
-        "url": "https://open.spotify.com/album/78bqEeos8LIGqSpTqNPNU6"
+        "name": "Formula EP",
+        "url": "https://open.spotify.com/album/0apCw1VDY8LhLH5YHfKOZ5"
       },
       "artists": [
         {
           "name": "Charlotte de Witte",
           "url": "https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso"
-        },
-        {
-          "name": "Enrico Sangiuliano",
-          "url": "https://open.spotify.com/artist/1u7DsNFbakULvxnDGtMm90"
         }
       ],
-      "duration_ms": 406584,
-      "name": "Reflection",
-      "url": "https://open.spotify.com/track/21WIoAisDlLyEsRAZX35CT"
+      "duration_ms": 433971,
+      "name": "Doppler",
+      "url": "https://open.spotify.com/track/0TtgKq96j4bpE5UQUDXrwH"
     },
     {
       "added_at": "2023-05-12 14:30:00",
@@ -503,22 +503,6 @@
     {
       "added_at": "2023-05-12 14:30:00",
       "album": {
-        "name": "A-Sides, Vol. 6",
-        "url": "https://open.spotify.com/album/0xBuVXgWQWrqqOdCSWYTkh"
-      },
-      "artists": [
-        {
-          "name": "Amelie Lens",
-          "url": "https://open.spotify.com/artist/5Ho1vKl1Uz8bJlk4vbmvmf"
-        }
-      ],
-      "duration_ms": 393740,
-      "name": "In Silence",
-      "url": "https://open.spotify.com/track/2vfSCFvMbpf4hwxt22Wx7b"
-    },
-    {
-      "added_at": "2023-05-12 14:30:00",
-      "album": {
         "name": "Silence EP",
         "url": "https://open.spotify.com/album/0jk2PButBmv8Kqvu5x9Yys"
       },
@@ -531,6 +515,22 @@
       "duration_ms": 509090,
       "name": "Future Dust - Original Mix",
       "url": "https://open.spotify.com/track/3dwDBE5AMcHLxemIAEp2xb"
+    },
+    {
+      "added_at": "2023-05-12 14:30:00",
+      "album": {
+        "name": "A-Sides, Vol. 6",
+        "url": "https://open.spotify.com/album/0xBuVXgWQWrqqOdCSWYTkh"
+      },
+      "artists": [
+        {
+          "name": "Amelie Lens",
+          "url": "https://open.spotify.com/artist/5Ho1vKl1Uz8bJlk4vbmvmf"
+        }
+      ],
+      "duration_ms": 393740,
+      "name": "In Silence",
+      "url": "https://open.spotify.com/track/2vfSCFvMbpf4hwxt22Wx7b"
     },
     {
       "added_at": "2023-05-12 14:30:00",

@@ -4,33 +4,33 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcvykn1vm7iP.md) - [plain]
 
 > Beautiful, uplifting Ambient for being in the moment.
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,591 likes - 112 songs - 5 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,649 likes - 112 songs - 5 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Ocean Breath](https://open.spotify.com/track/53Pqc0z3W4bJM9eeOO1W3O) | [Najia](https://open.spotify.com/artist/4qgxof0FH2zmybTkwjzuw1) | [Prana](https://open.spotify.com/album/1JKmutcbyJ9nbOAjZIc5nR) | 2:37 |
-| 2 | [Mellow](https://open.spotify.com/track/15SJMsBLp7GR8FH9WvamuG) | [Boreal Embla](https://open.spotify.com/artist/1TIIwr7wiRuFavs4zUlYQU) | [Mellow](https://open.spotify.com/album/4OFhOIJLN66pFGa4n5eEto) | 3:33 |
-| 3 | [Stilhed](https://open.spotify.com/track/1pAKUFLp8gtOrAAPwkFYJ0) | [Alba Lie](https://open.spotify.com/artist/3l67IPTFGbGnzJGQCnXQQl) | [Stilhed](https://open.spotify.com/album/3Caf8c4V7JpRTEI4FSUfPk) | 3:19 |
-| 4 | [Dreamcatcher](https://open.spotify.com/track/136EmiIaoINHMMk3UBzi8o) | [Danyel Hayes](https://open.spotify.com/artist/2ghpDjW2klABmowNTOH18u) | [Dreamcatcher](https://open.spotify.com/album/65DyhGOnzGHoGdzu6tD8SC) | 3:22 |
-| 5 | [Clear Path](https://open.spotify.com/track/2tCmr9BYhSjQilIomSM8EI) | [William Francisco](https://open.spotify.com/artist/2jQwLGGaI5zOgqc5SiMp7V) | [Clear Path](https://open.spotify.com/album/10tajn5McEnxj6z3B5KOqN) | 3:02 |
-| 6 | [Falling Autumn Leaves](https://open.spotify.com/track/5dXGR9SCZjX1a82NG87QKF) | [Roy Holtz](https://open.spotify.com/artist/7bmRaidlj0sx7EKFWBLnl2) | [Falling Autumn Leaves](https://open.spotify.com/album/2l8OjMwlL7qklDoJLhAT4S) | 2:14 |
-| 7 | [Let Hold](https://open.spotify.com/track/5Ez9MVB548QiSaE8p174Nz) | [Eyelydia](https://open.spotify.com/artist/1NMaigUYKD51IMP9EZZw27) | [Osceola](https://open.spotify.com/album/2rgWavCT6uQSqHuUSztjbE) | 2:30 |
-| 8 | [Eternal Spaces](https://open.spotify.com/track/6MGM4k4KUGLvDy8Xeieoxq) | [Mystisse](https://open.spotify.com/artist/6IpbJpzWfnVDsdJG9fJHWp) | [Eternal Spaces](https://open.spotify.com/album/7MBLePUpu4R5Nd2KURuPi8) | 2:48 |
-| 9 | [Rilassato](https://open.spotify.com/track/1SWUsO1b7aqUkBBlDHuBNS) | [Victor Mancuso](https://open.spotify.com/artist/6zDJbYvzDKX6oBahti4LVB) | [Rilassato](https://open.spotify.com/album/6BCs0xXInKgZdnR2e5T9OE) | 2:48 |
-| 10 | [Unbound](https://open.spotify.com/track/4ghUO9O50m6yPI7FZMa03z) | [Ultrawideolence](https://open.spotify.com/artist/3Bwl5wO7HiQSR9NsiVz1fF) | [Unbound](https://open.spotify.com/album/3PG4mfCiY3g58lK1nmMmsV) | 2:39 |
-| 11 | [Tranquility Space](https://open.spotify.com/track/0Bs7Sfx9k6bycJAlgeYeYL) | [Flux Demir](https://open.spotify.com/artist/4YlHxcP57eD0lRSrw1D0WB) | [Tranquility Space](https://open.spotify.com/album/5vcii3BKMTKuKna0GPRFg2) | 2:54 |
-| 12 | [Gemoedsrust](https://open.spotify.com/track/6dHg2I0Gs22X3WY4ii1cAS) | [Ebba Dekker](https://open.spotify.com/artist/1IyHF3iElYVD2QGDF0zZKg) | [Gemoedsrust](https://open.spotify.com/album/5zaZLYq9V194ekStDoTBNC) | 2:17 |
-| 13 | [Forest Mirror](https://open.spotify.com/track/7ntZRwSVb2CS4kmZq1akX8) | [Neoline Ewing](https://open.spotify.com/artist/1MhNxd0tQVdZHLw2xNATuF) | [Forest Mirror](https://open.spotify.com/album/1x0q06xpTyHw2EEWxCA4Tp) | 2:18 |
-| 14 | [Hiraeth](https://open.spotify.com/track/6Zv0JYbFJhOG0thnaGBIGW) | [Aiden Gaarder](https://open.spotify.com/artist/5Ke2xVrUo5hNYxTp5fx5XS) | [Painted Illusions](https://open.spotify.com/album/1BYyelIMINe2CIEMMzzRNS) | 3:00 |
-| 15 | [Time Capsule](https://open.spotify.com/track/3vYoj6aREguuAjgWJFfT0W) | [Moments Of Divinity](https://open.spotify.com/artist/0Srt4bBej7bpUZRcgHNl3V) | [Time Capsule](https://open.spotify.com/album/4JvMEILGisttB0x54aXoSZ) | 2:09 |
-| 16 | [Exhale](https://open.spotify.com/track/4hf0kDIz99TEAhNSRDJoWo) | [Max Benton](https://open.spotify.com/artist/6rEyWC1pryYSBm1xFVH5A1) | [Exhale](https://open.spotify.com/album/3M9fvySvpsmnWrCfpVLWr8) | 3:00 |
-| 17 | [Morph](https://open.spotify.com/track/3MaXtZwpMHhbLqWUNdTy3M) | [Mareina](https://open.spotify.com/artist/1cxHZRpXrZwfKsbKFLpL36) | [Morph](https://open.spotify.com/album/3qlZgXPpnlruwmL4tfxKIj) | 2:30 |
-| 18 | [Floating Through Solfeggio 528 Hz](https://open.spotify.com/track/5VGpVjeSr7r8w8uWIRQeef) | [Atoom](https://open.spotify.com/artist/3rH1VXAVGu5RvvPrkWvTjL) | [Floating Through Solfeggio](https://open.spotify.com/album/3xTHmhfddNPrN9FLvD68Q6) | 3:10 |
-| 19 | [Over the Horizon](https://open.spotify.com/track/0h5uLBhGtaEFZX1ZTYkuQ9) | [Atmospheric Lights](https://open.spotify.com/artist/65IYpN2ZX0vQzO3JRCpNHX) | [Over the Horizon](https://open.spotify.com/album/34Gad1j2eOiyWFiTK2Wjwb) | 3:25 |
-| 20 | [Rugare](https://open.spotify.com/track/5569KJlvGen1T50aIJWEeC) | [Tendai Marwan](https://open.spotify.com/artist/6ERE1Moh0DyMuMUiCXE3cD) | [Rugare](https://open.spotify.com/album/1SIRnia8LqkQTglfIPVkbM) | 3:08 |
-| 21 | [Insieme](https://open.spotify.com/track/2FjdJ4hXRC6rrKD1zNGHqZ) | [Constantine Lupo](https://open.spotify.com/artist/1RMseCll3Wq0FsAIrkPmdn) | [Spirituale](https://open.spotify.com/album/6iXMFnymi6K89iCVuVyLqO) | 3:13 |
-| 22 | [Positive Thinking](https://open.spotify.com/track/66KL79kEj6c6iOz16ub3i7) | [Noor Alston](https://open.spotify.com/artist/7BfCHxx2f890fGirKuNbTI) | [Positive Thinking](https://open.spotify.com/album/6hjpo4AgZRiIRsjCQEwjM0) | 2:25 |
-| 23 | [Seraphic](https://open.spotify.com/track/6hEVztDYBzkGSEIcebdjiK) | [Logan Docherty](https://open.spotify.com/artist/7amQ98BuFYDzaxShGajJ1e) | [Seraphic](https://open.spotify.com/album/02qMMW9PBraKOzi3fYGrj5) | 3:32 |
+| 1 | [Unbound](https://open.spotify.com/track/4ghUO9O50m6yPI7FZMa03z) | [Ultrawideolence](https://open.spotify.com/artist/3Bwl5wO7HiQSR9NsiVz1fF) | [Unbound](https://open.spotify.com/album/3PG4mfCiY3g58lK1nmMmsV) | 2:39 |
+| 2 | [Gemoedsrust](https://open.spotify.com/track/6dHg2I0Gs22X3WY4ii1cAS) | [Ebba Dekker](https://open.spotify.com/artist/1IyHF3iElYVD2QGDF0zZKg) | [Gemoedsrust](https://open.spotify.com/album/5zaZLYq9V194ekStDoTBNC) | 2:17 |
+| 3 | [Forest Mirror](https://open.spotify.com/track/7ntZRwSVb2CS4kmZq1akX8) | [Neoline Ewing](https://open.spotify.com/artist/1MhNxd0tQVdZHLw2xNATuF) | [Forest Mirror](https://open.spotify.com/album/1x0q06xpTyHw2EEWxCA4Tp) | 2:18 |
+| 4 | [Hiraeth](https://open.spotify.com/track/6Zv0JYbFJhOG0thnaGBIGW) | [Aiden Gaarder](https://open.spotify.com/artist/5Ke2xVrUo5hNYxTp5fx5XS) | [Painted Illusions](https://open.spotify.com/album/1BYyelIMINe2CIEMMzzRNS) | 3:00 |
+| 5 | [Time Capsule](https://open.spotify.com/track/3vYoj6aREguuAjgWJFfT0W) | [Moments Of Divinity](https://open.spotify.com/artist/0Srt4bBej7bpUZRcgHNl3V) | [Time Capsule](https://open.spotify.com/album/4JvMEILGisttB0x54aXoSZ) | 2:09 |
+| 6 | [Exhale](https://open.spotify.com/track/4hf0kDIz99TEAhNSRDJoWo) | [Max Benton](https://open.spotify.com/artist/6rEyWC1pryYSBm1xFVH5A1) | [Exhale](https://open.spotify.com/album/3M9fvySvpsmnWrCfpVLWr8) | 3:00 |
+| 7 | [Morph](https://open.spotify.com/track/3MaXtZwpMHhbLqWUNdTy3M) | [Mareina](https://open.spotify.com/artist/1cxHZRpXrZwfKsbKFLpL36) | [Morph](https://open.spotify.com/album/3qlZgXPpnlruwmL4tfxKIj) | 2:30 |
+| 8 | [Ocean Breath](https://open.spotify.com/track/53Pqc0z3W4bJM9eeOO1W3O) | [Najia](https://open.spotify.com/artist/4qgxof0FH2zmybTkwjzuw1) | [Prana](https://open.spotify.com/album/1JKmutcbyJ9nbOAjZIc5nR) | 2:37 |
+| 9 | [Mellow](https://open.spotify.com/track/15SJMsBLp7GR8FH9WvamuG) | [Boreal Embla](https://open.spotify.com/artist/1TIIwr7wiRuFavs4zUlYQU) | [Mellow](https://open.spotify.com/album/4OFhOIJLN66pFGa4n5eEto) | 3:33 |
+| 10 | [Stilhed](https://open.spotify.com/track/1pAKUFLp8gtOrAAPwkFYJ0) | [Alba Lie](https://open.spotify.com/artist/3l67IPTFGbGnzJGQCnXQQl) | [Stilhed](https://open.spotify.com/album/3Caf8c4V7JpRTEI4FSUfPk) | 3:19 |
+| 11 | [Dreamcatcher](https://open.spotify.com/track/136EmiIaoINHMMk3UBzi8o) | [Danyel Hayes](https://open.spotify.com/artist/2ghpDjW2klABmowNTOH18u) | [Dreamcatcher](https://open.spotify.com/album/65DyhGOnzGHoGdzu6tD8SC) | 3:22 |
+| 12 | [Clear Path](https://open.spotify.com/track/2tCmr9BYhSjQilIomSM8EI) | [William Francisco](https://open.spotify.com/artist/2jQwLGGaI5zOgqc5SiMp7V) | [Clear Path](https://open.spotify.com/album/10tajn5McEnxj6z3B5KOqN) | 3:02 |
+| 13 | [Falling Autumn Leaves](https://open.spotify.com/track/5dXGR9SCZjX1a82NG87QKF) | [Roy Holtz](https://open.spotify.com/artist/7bmRaidlj0sx7EKFWBLnl2) | [Falling Autumn Leaves](https://open.spotify.com/album/2l8OjMwlL7qklDoJLhAT4S) | 2:14 |
+| 14 | [Let Hold](https://open.spotify.com/track/5Ez9MVB548QiSaE8p174Nz) | [Eyelydia](https://open.spotify.com/artist/1NMaigUYKD51IMP9EZZw27) | [Osceola](https://open.spotify.com/album/2rgWavCT6uQSqHuUSztjbE) | 2:30 |
+| 15 | [Eternal Spaces](https://open.spotify.com/track/6MGM4k4KUGLvDy8Xeieoxq) | [Mystisse](https://open.spotify.com/artist/6IpbJpzWfnVDsdJG9fJHWp) | [Eternal Spaces](https://open.spotify.com/album/7MBLePUpu4R5Nd2KURuPi8) | 2:48 |
+| 16 | [Rilassato](https://open.spotify.com/track/1SWUsO1b7aqUkBBlDHuBNS) | [Victor Mancuso](https://open.spotify.com/artist/6zDJbYvzDKX6oBahti4LVB) | [Rilassato](https://open.spotify.com/album/6BCs0xXInKgZdnR2e5T9OE) | 2:48 |
+| 17 | [Weather The Storm](https://open.spotify.com/track/36uWwpFlhgjgCdefgC1Irp) | [Xiliah Roth](https://open.spotify.com/artist/47PP7w0Qi4HaeIQgWPEW25) | [Beyond The Dark Clouds](https://open.spotify.com/album/50riLI8PCz7iLWKgHFlOK7) | 2:49 |
+| 18 | [Tranquility Space](https://open.spotify.com/track/0Bs7Sfx9k6bycJAlgeYeYL) | [Flux Demir](https://open.spotify.com/artist/4YlHxcP57eD0lRSrw1D0WB) | [Tranquility Space](https://open.spotify.com/album/5vcii3BKMTKuKna0GPRFg2) | 2:54 |
+| 19 | [Floating Through Solfeggio 528 Hz](https://open.spotify.com/track/5VGpVjeSr7r8w8uWIRQeef) | [Atoom](https://open.spotify.com/artist/3rH1VXAVGu5RvvPrkWvTjL) | [Floating Through Solfeggio](https://open.spotify.com/album/3xTHmhfddNPrN9FLvD68Q6) | 3:10 |
+| 20 | [Over the Horizon](https://open.spotify.com/track/0h5uLBhGtaEFZX1ZTYkuQ9) | [Atmospheric Lights](https://open.spotify.com/artist/65IYpN2ZX0vQzO3JRCpNHX) | [Over the Horizon](https://open.spotify.com/album/34Gad1j2eOiyWFiTK2Wjwb) | 3:25 |
+| 21 | [Rugare](https://open.spotify.com/track/5569KJlvGen1T50aIJWEeC) | [Tendai Marwan](https://open.spotify.com/artist/6ERE1Moh0DyMuMUiCXE3cD) | [Rugare](https://open.spotify.com/album/1SIRnia8LqkQTglfIPVkbM) | 3:08 |
+| 22 | [Insieme](https://open.spotify.com/track/2FjdJ4hXRC6rrKD1zNGHqZ) | [Constantine Lupo](https://open.spotify.com/artist/1RMseCll3Wq0FsAIrkPmdn) | [Spirituale](https://open.spotify.com/album/6iXMFnymi6K89iCVuVyLqO) | 3:13 |
+| 23 | [Positive Thinking](https://open.spotify.com/track/66KL79kEj6c6iOz16ub3i7) | [Noor Alston](https://open.spotify.com/artist/7BfCHxx2f890fGirKuNbTI) | [Positive Thinking](https://open.spotify.com/album/6hjpo4AgZRiIRsjCQEwjM0) | 2:25 |
 | 24 | [Consciente](https://open.spotify.com/track/2WQctSPwSYFGNUtPQ1I11y) | [Elodie Acy](https://open.spotify.com/artist/2uIT3eIsFOjiwUoDJvNzbD) | [Consciente](https://open.spotify.com/album/4rm97IdWa90r7umlTVBsyb) | 2:34 |
 | 25 | [Dream Shape](https://open.spotify.com/track/0G8gq218iW1AgI2EsXVnVW) | [Clip Aloe](https://open.spotify.com/artist/6CxgcvEFmR83qRXJmgZj67) | [Dream Shape](https://open.spotify.com/album/2vKKxQuD4CeJ9NlMxYhe0b) | 2:44 |
 | 26 | [Independencia](https://open.spotify.com/track/32UTc4rxIFSvAzzrzWXnXU) | [Miravaldini](https://open.spotify.com/artist/4d9BQaG3cZzT7KpDU7hj17) | [Independencia](https://open.spotify.com/album/52ZD56uYSwIjJsDYT1vSm6) | 3:26 |
@@ -121,4 +121,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcvykn1vm7iP.md) - [plain]
 | 111 | [Driftwood](https://open.spotify.com/track/6g11H9Qg8lcJwEIS39e6GN) | [Ra Kuyou](https://open.spotify.com/artist/6JaXnzBNg8E8Z6kVDP1GXR) | [Driftwood](https://open.spotify.com/album/1moMGvFXtkeC7TH0J1vV3Q) | 2:46 |
 | 112 | [Surficial](https://open.spotify.com/track/3Yf1WOs2Qmp26M0h81gJVr) | [Tascenda](https://open.spotify.com/artist/5Xj1fqlAVsgyiKy5K4hy1d) | [Surficial](https://open.spotify.com/album/06LUgatj9BWv7fuaGAGYjJ) | 2:34 |
 
-Snapshot ID: `MCw4MjAwMGQyYTliY2RkODY0MDUzMGZmZDc1ZThiNDMyZDU4MjA2ZmQ0`
+Snapshot ID: `MCw2OTg1ODIzMGEzM2Y3ZWZhNzQ4YTUwMzQ4MThmMjcxODJjN2Y4OWE2`

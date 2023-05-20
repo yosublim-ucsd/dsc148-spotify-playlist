@@ -4,7 +4,7 @@
 
 > Music from the ether to focus to.
 
-199 songs - 10 hr 38 min
+202 songs - 10 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,6 +51,7 @@
 | [ethereal nightshade](https://open.spotify.com/track/1zuGJlN7qtUUkqDwbvtaRi) | [Sleeping Lizard](https://open.spotify.com/artist/7qerdaChwh3pZG2Ce1rjD7) | [ethereal nightshade](https://open.spotify.com/album/0cUidGib6mOXgnT0YrLLGg) | 2:24 | 2022-12-19 |  |
 | [Exit](https://open.spotify.com/track/065wPKi9Ldumw5BqGSqWA0) | [ARCADIA](https://open.spotify.com/artist/2892cyfN2JOBuTQGkPl62T) | [Exit](https://open.spotify.com/album/4ecx91bGlsoXRz7P66I04O) | 2:11 | 2022-08-19 |  |
 | [Fade Away](https://open.spotify.com/track/3MwcUcy1w5aN1gMxPgSfwq) | [Astron](https://open.spotify.com/artist/6qiuwoB9ro3SX0ZjSXnr0y) | [Falling Deeply](https://open.spotify.com/album/3zbWYMOUTQ7NkicTxKmAJQ) | 4:02 | 2022-03-30 |  |
+| [Fading](https://open.spotify.com/track/5ULifaHIedzoCiIkjHU5i5) | [The Go Steady](https://open.spotify.com/artist/6jLapoPif6z2m9XEJ82G4J) | [Fading](https://open.spotify.com/album/78IJVIdID5GtvM5oB8EP8g) | 2:25 | 2023-05-19 |  |
 | [Faint Light](https://open.spotify.com/track/42nScCyHCBqR9HrEjM1iSZ) | [Ben Tofft](https://open.spotify.com/artist/5A2sXpZZ3Es4AgRGrJACy9) | [Faint Light](https://open.spotify.com/album/5Zc0qHjjZf0Vfuc6DqyDvu) | 2:15 | 2023-02-09 |  |
 | [Falling Rivers](https://open.spotify.com/track/1Tx1CeHCaOHPvYD25thsRq) | [Yolta](https://open.spotify.com/artist/1FcdysxmyKBfSOyVppN3sw) | [Falling Rivers](https://open.spotify.com/album/6UbSWl0n82pfw3J5TlUI63) | 3:38 | 2022-03-30 |  |
 | [Far Away](https://open.spotify.com/track/2JkeLbjmFANt3dc8BkkdSU) | [Antent](https://open.spotify.com/artist/6ovctVkv7d2fBdilDRYfDW), [Nectry](https://open.spotify.com/artist/5WWf3jqI33Bwufm8vHBqGG) | [Far Away](https://open.spotify.com/album/3XZrGL2liR5HeZorqFolGy) | 1:52 | 2022-11-11 |  |
@@ -61,7 +62,7 @@
 | [First Steps](https://open.spotify.com/track/7JQuaTI3teysKtLiWQe4i8) | [Hillrose](https://open.spotify.com/artist/6MqsLKFJ2ND4AtwvUzvm4y) | [First Steps](https://open.spotify.com/album/31cseXGAHyJQiU41GLE5yI) | 2:34 | 2023-04-21 |  |
 | [Floating Particles](https://open.spotify.com/track/6jQcQ1Ysb299iqeotY3Iy2) | [Imala Zir](https://open.spotify.com/artist/5hOW2X7ZiiV85jFgK4mLlo) | [Floating Particles](https://open.spotify.com/album/5kggme6wDS79k5MnIEeOyY) | 2:00 | 2023-02-24 |  |
 | [Folds](https://open.spotify.com/track/1upFTZnAallS4AfzHZ7RmP) | [Anders Schill Paulsen](https://open.spotify.com/artist/7tQfGq1cmYQtZwNKs6Cq8b) | [Folds](https://open.spotify.com/album/43uRd28euFG1OYGTZDobV7) | 3:16 | 2023-04-14 |  |
-| [For Dinner…](https://open.spotify.com/track/6AdyaWgJliC8HJU4CseNJM) | [Slint](https://open.spotify.com/artist/4IwOItqRhsIoRuD5HP4vyC) | [Spiderland](https://open.spotify.com/album/2NnkLRaeX33d1Mn8ZLgTo8) | 5:05 | 2022-07-15 |  |
+| [For Dinner…](https://open.spotify.com/track/6AdyaWgJliC8HJU4CseNJM) | [Slint](https://open.spotify.com/artist/4IwOItqRhsIoRuD5HP4vyC) | [Spiderland](https://open.spotify.com/album/2NnkLRaeX33d1Mn8ZLgTo8) | 5:05 | 2022-07-15 | 2023-05-20 |
 | [For Dinner… \- Remastered](https://open.spotify.com/track/6yBmGf0yUUWnKWefP1qsfg) | [Slint](https://open.spotify.com/artist/4IwOItqRhsIoRuD5HP4vyC) | [Spiderland \(remastered\)](https://open.spotify.com/album/5aCh5uldkBY1tInUgVhVO0) | 5:05 | 2022-03-30 | 2022-07-29 |
 | [Forest Canvas](https://open.spotify.com/track/0Y67hBf8raOl4JYVvohHR2) | [Elm Lake](https://open.spotify.com/artist/5PWrgM1uXWZwpK2rIQtX36) | [Elm Lake](https://open.spotify.com/album/0SOGd49PlU8IvNWwsB2gTA) | 3:59 | 2022-03-30 |  |
 | [forward thinking](https://open.spotify.com/track/5xKohBCQd8wzOeXmtAMvTS) | [Spaced Out Dreams](https://open.spotify.com/artist/7iGqNpmYWmkzGG6gwIVAha) | [forward thinking](https://open.spotify.com/album/6oRs6YLnM18Zo6sOyparRg) | 3:01 | 2022-07-08 |  |
@@ -109,6 +110,7 @@
 | [neckless](https://open.spotify.com/track/5vU0ILQHzg8W293FZGwYcV) | [Kol Gron](https://open.spotify.com/artist/1dkHQSbVNP5EofkycCkJMb) | [neckless](https://open.spotify.com/album/27DEm76rOIIHMCxW7VGkfb) | 2:56 | 2022-03-30 |  |
 | [Night Light](https://open.spotify.com/track/0gmQupI4nISCPJ55UGmYyL) | [K.Ellis](https://open.spotify.com/artist/07Eaiwran5MzMrmkxaVZaj) | [Night Light](https://open.spotify.com/album/5QGAvgrP7rUXPTzJDhzbTB) | 2:43 | 2023-01-20 |  |
 | [Nocturnal Reflections \- 432 Hz](https://open.spotify.com/track/0kP4V6bA8PjuhxstRJUyKK) | [Dream Strings](https://open.spotify.com/artist/7iiuM2IWsST0RqycgULkto), [Feel Better](https://open.spotify.com/artist/1N4by2ZqavHgzSyWyCgoKd), [Banks](https://open.spotify.com/artist/6L9h5cN2DNOoMqFRgIv7uU) | [Nocturnal Reflections \(432 Hz\)](https://open.spotify.com/album/2reQv3AgwbI3z0cJPOPyLk) | 2:56 | 2023-03-03 |  |
+| [Nocturne](https://open.spotify.com/track/0vtabIK29LljzI0O5eG8Yw) | [FoaM](https://open.spotify.com/artist/1XEXjIZsZ178A5msOFALpu) | [Nocturne](https://open.spotify.com/album/5Rl9UU8fQAi7vvA7zbCrdX) | 1:58 | 2023-05-19 |  |
 | [numb burn](https://open.spotify.com/track/2iWlzsg7MoN9nKIwxlJWPc) | [Golden Horses](https://open.spotify.com/artist/5MXNb6vuHgdZalR71LkKgd) | [meadows](https://open.spotify.com/album/2Iwq8ywHPSK7Y04kV1IozT) | 2:58 | 2023-01-27 |  |
 | [Nuraghe](https://open.spotify.com/track/1c3QWfGAadGw4ywwmLx5ju) | [PLACID](https://open.spotify.com/artist/7KQH1xnmFmACcxY4VBCTBn) | [Nuraghe](https://open.spotify.com/album/4fTiVmhdvJ2ICQmb7LYlD4) | 2:30 | 2022-05-19 |  |
 | [Nuvem](https://open.spotify.com/track/4PspiFxRshtDPg7hnh0MXp) | [Philó](https://open.spotify.com/artist/4Fa4skLUM0AQbzqOqknYbS) | [Nuvem](https://open.spotify.com/album/4cyJAvQAiqbZSgbQh75Vth) | 2:54 | 2023-04-14 |  |
@@ -118,6 +120,7 @@
 | [Parallels](https://open.spotify.com/track/4ujZScjhNsCcDdK5iriHhU) | [Hollow Light](https://open.spotify.com/artist/0ANrW9wJEthapCrJsd4i4F) | [Parallels](https://open.spotify.com/album/1WEeuWUxTIuVUc3i1lKwFn) | 2:54 | 2022-06-24 |  |
 | [Past the Pasture and Beyond The Hill](https://open.spotify.com/track/4NZoI2toESyiMrobse6WSK) | [Clem Leek](https://open.spotify.com/artist/5FbBZ9ZLIoVdgbbnGmsKNk) | [Lifenotes](https://open.spotify.com/album/4YJIgx2MTliPfREF342MD4) | 2:11 | 2022-03-30 |  |
 | [Pendulum Man](https://open.spotify.com/track/31rWHoaORhEfXqqr6y48Hm) | [Bark Psychosis](https://open.spotify.com/artist/0QwH5InvCwfL4UbYkjP9pi) | [Hex](https://open.spotify.com/album/7j98uMKCZuBQU1SPcrQAxP) | 9:53 | 2022-03-30 |  |
+| [Perceptive](https://open.spotify.com/track/7Mi5eCOPGZI4jwlpzb0xSC) | [Ravndala](https://open.spotify.com/artist/40OmNBDYoyRn43AjGjJzlH) | [Perceptive](https://open.spotify.com/album/60jpACFvJmrcVpXft0PKH4) | 3:32 | 2023-05-19 |  |
 | [pound for pound](https://open.spotify.com/track/6QqlgQ6xSc4SrsP0vWlmpa) | [Garden Collective](https://open.spotify.com/artist/6rT3tJQmePSMr68mPaqyyp) | [pound for pound](https://open.spotify.com/album/7uFbEtssmk8DYTKqMwjAil) | 2:50 | 2022-11-11 |  |
 | [Prayer of Dreams](https://open.spotify.com/track/56Q6Ub5JGADQglD5FaKqfk) | [Videung](https://open.spotify.com/artist/5otZiXoT8hB9Gi1oFcz4h0) | [Prayer of Dreams](https://open.spotify.com/album/41MmwTxWQMuKWI8I2wWh8J) | 3:00 | 2022-03-30 |  |
 | [Pure Flow](https://open.spotify.com/track/4lEkHSN5qOxdaEDeNHVRME) | [Hollow Light](https://open.spotify.com/artist/0ANrW9wJEthapCrJsd4i4F) | [Pure Flow](https://open.spotify.com/album/6gydX9nKC9C8PcDvmzaSRA) | 2:53 | 2023-03-10 |  |

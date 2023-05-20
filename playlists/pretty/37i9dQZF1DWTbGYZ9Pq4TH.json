@@ -1,12 +1,12 @@
 {
   "description": "Le canzoni italiane pi\u00f9 romantiche di sempre \u2764\ufe0f",
-  "num_followers": 167615,
+  "num_followers": 167637,
   "original_name": "Amore Davvero",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0MTk1NmQ3YjFkMjYwMjgwYTE0ZmVkZTA1YzU4Nzc1ZWZiMzgyZDBi",
+  "snapshot_id": "MCw2MWQ5M2Q3NzZhZmM0OTExOGVjZmQ4Y2NjNTNkYWUxMjM1ZWJmOWY4",
   "tracks": [
     {
       "added_at": "2023-02-20 09:56:57",
@@ -151,22 +151,6 @@
     {
       "added_at": "2023-02-20 09:56:57",
       "album": {
-        "name": "Colpa Delle Favole",
-        "url": "https://open.spotify.com/album/7ynNnkdYfFsjMxvfecxAWy"
-      },
-      "artists": [
-        {
-          "name": "Ultimo",
-          "url": "https://open.spotify.com/artist/3hN3iJMbbBmqBSAMx5veDa"
-        }
-      ],
-      "duration_ms": 232666,
-      "name": "Piccola Stella",
-      "url": "https://open.spotify.com/track/6sLBJkMyZIkGevtpYgeotT"
-    },
-    {
-      "added_at": "2023-02-20 09:56:57",
-      "album": {
         "name": "Mainstream (Deluxe Edition)",
         "url": "https://open.spotify.com/album/11dh7pT3FRrGkI3TXl0e4k"
       },
@@ -179,6 +163,22 @@
       "duration_ms": 169306,
       "name": "Cosa mi manchi a fare",
       "url": "https://open.spotify.com/track/7L8cIUKXToCr6PV9hFoX3Q"
+    },
+    {
+      "added_at": "2023-02-20 09:56:57",
+      "album": {
+        "name": "Colpa Delle Favole",
+        "url": "https://open.spotify.com/album/7ynNnkdYfFsjMxvfecxAWy"
+      },
+      "artists": [
+        {
+          "name": "Ultimo",
+          "url": "https://open.spotify.com/artist/3hN3iJMbbBmqBSAMx5veDa"
+        }
+      ],
+      "duration_ms": 232666,
+      "name": "Piccola Stella",
+      "url": "https://open.spotify.com/track/6sLBJkMyZIkGevtpYgeotT"
     },
     {
       "added_at": "2023-02-20 09:56:57",
@@ -279,18 +279,18 @@
     {
       "added_at": "2023-02-20 09:56:57",
       "album": {
-        "name": "Peter Pan",
-        "url": "https://open.spotify.com/album/7E0zdJM8KYDRa5lQeAfEYi"
+        "name": "Mentre Tutto Scorre (Deluxe Version)",
+        "url": "https://open.spotify.com/album/4wPMtE1vSjjAPbNN4mUX86"
       },
       "artists": [
         {
-          "name": "Ultimo",
-          "url": "https://open.spotify.com/artist/3hN3iJMbbBmqBSAMx5veDa"
+          "name": "Negramaro",
+          "url": "https://open.spotify.com/artist/1X9iZlQXfAAx4Vvmlqeao7"
         }
       ],
-      "duration_ms": 234250,
-      "name": "Ti dedico il silenzio",
-      "url": "https://open.spotify.com/track/6GLmGfALwjzCaOiHwgfU7g"
+      "duration_ms": 178226,
+      "name": "Estate",
+      "url": "https://open.spotify.com/track/7nd1mwoAAFtJjmjfdyOUwg"
     },
     {
       "added_at": "2023-02-20 09:56:57",
@@ -311,22 +311,6 @@
     {
       "added_at": "2023-02-20 09:56:57",
       "album": {
-        "name": "Mentre Tutto Scorre (Deluxe Version)",
-        "url": "https://open.spotify.com/album/4wPMtE1vSjjAPbNN4mUX86"
-      },
-      "artists": [
-        {
-          "name": "Negramaro",
-          "url": "https://open.spotify.com/artist/1X9iZlQXfAAx4Vvmlqeao7"
-        }
-      ],
-      "duration_ms": 178226,
-      "name": "Estate",
-      "url": "https://open.spotify.com/track/7nd1mwoAAFtJjmjfdyOUwg"
-    },
-    {
-      "added_at": "2023-02-20 09:56:57",
-      "album": {
         "name": "VASCONONSTOP",
         "url": "https://open.spotify.com/album/1UegELBIi5854L79kswXuE"
       },
@@ -339,6 +323,22 @@
       "duration_ms": 282720,
       "name": "Senza Parole",
       "url": "https://open.spotify.com/track/1myKwR6JbIvo1iKY8nOzbc"
+    },
+    {
+      "added_at": "2023-02-20 09:56:57",
+      "album": {
+        "name": "Peter Pan",
+        "url": "https://open.spotify.com/album/7E0zdJM8KYDRa5lQeAfEYi"
+      },
+      "artists": [
+        {
+          "name": "Ultimo",
+          "url": "https://open.spotify.com/artist/3hN3iJMbbBmqBSAMx5veDa"
+        }
+      ],
+      "duration_ms": 234250,
+      "name": "Ti dedico il silenzio",
+      "url": "https://open.spotify.com/track/6GLmGfALwjzCaOiHwgfU7g"
     },
     {
       "added_at": "2023-02-20 09:56:57",

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-18",
-  "description": "Pop de los mejores artistas colombianos. \u00a1Dale play! Foto: Vale",
+  "description": "Pop de los mejores artistas colombianos. \u00a1Dale play! Foto: Valentina Rico",
   "name": "Pop Colombia",
   "tracks": [
     {
@@ -82,6 +82,24 @@
       "duration_ms": 180546,
       "name": "506",
       "url": "https://open.spotify.com/track/4scwMEdlKi8qWJzzyDB8Z3"
+    },
+    {
+      "album": {
+        "name": "A Primera Vista",
+        "url": "https://open.spotify.com/album/2WPpPCpYCDyOBM0MWSlR0a"
+      },
+      "artists": [
+        {
+          "name": "Ines Gaviria",
+          "url": "https://open.spotify.com/artist/5csQq4TumSO1XpuaxiL9V7"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154982,
+      "name": "A Primera Vista",
+      "url": "https://open.spotify.com/track/7B4vt11pQGmsnHWQ9FUZwY"
     },
     {
       "album": {
@@ -186,7 +204,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 190186,
       "name": "Amor Secreto",
       "url": "https://open.spotify.com/track/7qdmZauyoana6fBNjcyj5O"
@@ -473,6 +491,28 @@
     },
     {
       "album": {
+        "name": "Duele",
+        "url": "https://open.spotify.com/album/2PuqtGQoJqhXo5AubtfoOx"
+      },
+      "artists": [
+        {
+          "name": "Andr\u00e9s Cepeda",
+          "url": "https://open.spotify.com/artist/49Z1AvGeUaBSanPaOmplK6"
+        },
+        {
+          "name": "Gusi",
+          "url": "https://open.spotify.com/artist/7GMRarEViKQmiTUMFZtrfe"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213511,
+      "name": "Duele",
+      "url": "https://open.spotify.com/track/5IgAMrxJSs0IpSE3R7oRln"
+    },
+    {
+      "album": {
         "name": "D\u00e9jala Que Vuelva (feat. Manuel Turizo)",
         "url": "https://open.spotify.com/album/70WadO9CAH4rOI1rEbTS0a"
       },
@@ -742,7 +782,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 149428,
       "name": "Idiota",
       "url": "https://open.spotify.com/track/7IXKGPuB0D0yFvfLoJFFWo"
@@ -884,7 +924,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 224999,
       "name": "La Primera Vez",
       "url": "https://open.spotify.com/track/3AS2NiyobOcS454xthOByC"
@@ -1239,6 +1279,24 @@
     },
     {
       "album": {
+        "name": "Si Te Soy Sincera",
+        "url": "https://open.spotify.com/album/70uZwbL7dkxlCxuYhNmrSS"
+      },
+      "artists": [
+        {
+          "name": "Valentina Rico",
+          "url": "https://open.spotify.com/artist/1VqjlTkCPuK6amNOlkM18d"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159835,
+      "name": "Miel",
+      "url": "https://open.spotify.com/track/3wGbZ2074p60hhavjQMF6l"
+    },
+    {
+      "album": {
         "name": "Mundos Aparte",
         "url": "https://open.spotify.com/album/1X6UZEiG0dCcwaz8n0gUMO"
       },
@@ -1290,6 +1348,24 @@
       "duration_ms": 161160,
       "name": "Nadie Me Vuelve A Joder",
       "url": "https://open.spotify.com/track/4ysIQ2AalFEvYMBN7XgtDv"
+    },
+    {
+      "album": {
+        "name": "VIDA",
+        "url": "https://open.spotify.com/album/3ocvapzDsPJrziwnlD7I82"
+      },
+      "artists": [
+        {
+          "name": "Alex Campos",
+          "url": "https://open.spotify.com/artist/6slyJwua5e5GuhuP82sTHR"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261739,
+      "name": "No Fue Un Tiro De Suerte",
+      "url": "https://open.spotify.com/track/3CXs1ePFimpOdhvU7je7i5"
     },
     {
       "album": {
@@ -1484,6 +1560,24 @@
       "duration_ms": 193043,
       "name": "Pasa",
       "url": "https://open.spotify.com/track/7GiOdC9H2U4jxp4qcNp5nA"
+    },
+    {
+      "album": {
+        "name": "Pasajero",
+        "url": "https://open.spotify.com/album/0zh0nvckpA0K7kFftzLiBq"
+      },
+      "artists": [
+        {
+          "name": "Lala Mor\u00e9",
+          "url": "https://open.spotify.com/artist/0z5FIYdXQFbwyRkliO8HsK"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173340,
+      "name": "Pasajero",
+      "url": "https://open.spotify.com/track/58Kapn2wnORftUX3GAZ1b4"
     },
     {
       "album": {
@@ -2088,7 +2182,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 182199,
       "name": "Una Noche",
       "url": "https://open.spotify.com/track/4QSnGts8Lktjof1LDR5suv"
@@ -2212,7 +2306,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 169804,
       "name": "Volver a Verte (feat. Cali y El Dandee)",
       "url": "https://open.spotify.com/track/0LGhVLgkwlP2FIXSwrdRFg"

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2019-05-26",
-  "description": "New Music Discovery is what we're about. Try it on for size. Cover: Riley Green",
+  "description": "New Music Discovery is what we're about. Try it on for size. Cover: Erin Kinsey",
   "name": "New Boots",
   "tracks": [
     {
@@ -1282,7 +1282,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 172973,
       "name": "Amen To That",
       "url": "https://open.spotify.com/track/7yNI84vfJ6O86F1S1l6iKD"
@@ -4966,7 +4966,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 273857,
       "name": "Cowboy Boots",
       "url": "https://open.spotify.com/track/7xa9uj2bo3N5A4MAjlwqgL"
@@ -5404,6 +5404,24 @@
       "duration_ms": 194898,
       "name": "Day Drunk",
       "url": "https://open.spotify.com/track/7nGuT0EfqQ1TXcADEKwB6Q"
+    },
+    {
+      "album": {
+        "name": "Daylight Savings",
+        "url": "https://open.spotify.com/album/0GFVRCZesTxtlpX9digiQ0"
+      },
+      "artists": [
+        {
+          "name": "Kidd G",
+          "url": "https://open.spotify.com/artist/5edcHuf8pWH3I00WTorajM"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167333,
+      "name": "Daylight Savings",
+      "url": "https://open.spotify.com/track/2xa33dWwVl1vjzlC4PAZ9e"
     },
     {
       "album": {
@@ -14912,7 +14930,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 207396,
       "name": "Lately",
       "url": "https://open.spotify.com/track/6rPR4M9uJHrYYJ9a1xLDjv"
@@ -17224,6 +17242,24 @@
       "duration_ms": 177920,
       "name": "Mind On You",
       "url": "https://open.spotify.com/track/7rr3gguU3TcVnLZD9VzASE"
+    },
+    {
+      "album": {
+        "name": "Mine for the Summer",
+        "url": "https://open.spotify.com/album/4OAdcwdCF7Z42GqRQiHF7D"
+      },
+      "artists": [
+        {
+          "name": "Jameson Rodgers",
+          "url": "https://open.spotify.com/artist/5pyVHz7lcfqKoV9BflFYwN"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209000,
+      "name": "Mine for the Summer",
+      "url": "https://open.spotify.com/track/60zG892nrTd3vHhsJXWEEw"
     },
     {
       "album": {
@@ -20782,7 +20818,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 218160,
       "name": "Pretty Little Poison",
       "url": "https://open.spotify.com/track/2gT2iF1YK5r54A2PDEXVv8"
@@ -20858,6 +20894,24 @@
       "duration_ms": 207352,
       "name": "Proofs in the Bourbon",
       "url": "https://open.spotify.com/track/5qzrzKnTWKJTN6idumDn3F"
+    },
+    {
+      "album": {
+        "name": "Psychopath",
+        "url": "https://open.spotify.com/album/03nIJUuv47IXsP1oooCxPe"
+      },
+      "artists": [
+        {
+          "name": "Morgan Wade",
+          "url": "https://open.spotify.com/artist/4eYE8Z6cfEHEdG22lTyucP"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208746,
+      "name": "Psychopath",
+      "url": "https://open.spotify.com/track/1pxzWiOrRbpXQkk4n0HRs3"
     },
     {
       "album": {
@@ -22431,6 +22485,24 @@
     },
     {
       "album": {
+        "name": "Self Love",
+        "url": "https://open.spotify.com/album/4WBtpTuPHxHKWuzEuSHO5t"
+      },
+      "artists": [
+        {
+          "name": "Avery Anna",
+          "url": "https://open.spotify.com/artist/5rjz63sgMaAUAyBMyCUK5D"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171013,
+      "name": "Self Love",
+      "url": "https://open.spotify.com/track/3oRT45v51KOyV37KPmemc3"
+    },
+    {
+      "album": {
         "name": "Senior Year",
         "url": "https://open.spotify.com/album/1Zw2GdzWL93n0ti7WBBtmx"
       },
@@ -23300,7 +23372,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 196733,
       "name": "Small Town Me",
       "url": "https://open.spotify.com/track/5XYk13uT6mzwe6P8lSrPdh"
@@ -23935,6 +24007,24 @@
     },
     {
       "album": {
+        "name": "Gravel & Gold",
+        "url": "https://open.spotify.com/album/2atbiuUu1Xm0jLmObSynT4"
+      },
+      "artists": [
+        {
+          "name": "Dierks Bentley",
+          "url": "https://open.spotify.com/artist/7x8nK0m0cP2ksQf0mjWdPS"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237093,
+      "name": "Something Real",
+      "url": "https://open.spotify.com/track/5GcziNdXVXWJKK5pNOwCcG"
+    },
+    {
+      "album": {
         "name": "Something To Dance To",
         "url": "https://open.spotify.com/album/3CN2Jr3yuLh1soyJPNErQC"
       },
@@ -24234,7 +24324,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 146778,
       "name": "Sounds Like Something I'd Do",
       "url": "https://open.spotify.com/track/5QAwDaUIcFOEYfsepGk0Fd"
@@ -27540,6 +27630,24 @@
       "duration_ms": 181630,
       "name": "Try Saying Goodbye",
       "url": "https://open.spotify.com/track/6p3tET0bTKLDv4iF0hl0p2"
+    },
+    {
+      "album": {
+        "name": "Try That In A Small Town",
+        "url": "https://open.spotify.com/album/4mYJYGql59RcwSLCyjYDNO"
+      },
+      "artists": [
+        {
+          "name": "Jason Aldean",
+          "url": "https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180033,
+      "name": "Try That In A Small Town",
+      "url": "https://open.spotify.com/track/4ROknQyR1wOGPfmpTtB3z4"
     },
     {
       "album": {

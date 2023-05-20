@@ -4,7 +4,7 @@
 
 > Indie folk ventures into the cinematic West.
 
-171 songs - 10 hr 37 min
+173 songs - 10 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -146,6 +146,7 @@
 | [The Dirt](https://open.spotify.com/track/19tDNU6hOt4wdXWgv1PUMf) | [Mirel Wagner](https://open.spotify.com/artist/599W9qxs3LzkiiEmkoK6Kx) | [When the Cellar Children See the Light of Day](https://open.spotify.com/album/4RP8ZcEWH1tPoEdkaPf8KK) | 3:35 | 2022-01-27 |  |
 | [The Dirt](https://open.spotify.com/track/5VB9VqBUzxR8lj49Scmly0) | [Mirel Wagner](https://open.spotify.com/artist/599W9qxs3LzkiiEmkoK6Kx) | [When the Cellar Children See the Light of Day](https://open.spotify.com/album/1yqDoOZkNFPbZVwELwWieW) | 3:35 | 2019-10-31 | 2022-07-29 |
 | [The Exchange](https://open.spotify.com/track/4nf5Cxq9O4mmQcKKYYOgj3) | [TORRES](https://open.spotify.com/artist/3lrDYjsghBMfUTiLziD9q9) | [Sprinter](https://open.spotify.com/album/69JffH9w7GDmHTmebOjlPR) | 7:48 | 2019-10-31 |  |
+| [The Fall](https://open.spotify.com/track/67ZPraK8Fpf4aDskXXs2XK) | [Gregory Alan Isakov](https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt) | [The Fall](https://open.spotify.com/album/2S8EkNv3ZmaXYA9AYnjAVc) | 3:27 | 2023-05-19 |  |
 | [The Navigator](https://open.spotify.com/track/6YFBr5XJl2Nap9uPcdSW9Q) | [Hurray For The Riff Raff](https://open.spotify.com/artist/2xLEV2jDreAOcpJXFNoXyt) | [The Navigator](https://open.spotify.com/album/3muvjEAtiu5JuPBRBNzIX9) | 3:07 | 2019-10-31 |  |
 | [The Night My Piano Upped and Died](https://open.spotify.com/track/1dKHaN7ycK4Pw9nNKsDfR4) | [Johnny Flynn](https://open.spotify.com/artist/1UQRtt7eHW6Bt4INNTUtb3) | [Sillion](https://open.spotify.com/album/6EvICOHQtGcwoIF3bQR53d) | 3:55 | 2019-10-31 |  |
 | [The Only Thing Worth Fighting For \- From The HBO Series True Detective](https://open.spotify.com/track/1s99Qkm5GtZ1ufweMDOfzQ) | [Lera Lynn](https://open.spotify.com/artist/2iul6etLF5hjjpxo43rzz7) | [The Only Thing Worth Fighting For \(From The HBO Series True Detective\)](https://open.spotify.com/album/00NfXHt45nh1NYwYNwL4ob) | 3:16 | 2019-10-31 |  |
@@ -158,6 +159,7 @@
 | [To Feel Alive](https://open.spotify.com/track/0It79bgHAwcMh4BstYKUyw) | [Alex Ebert](https://open.spotify.com/artist/1me05HW5s7TShHra5nN7uE) | [To Feel Alive](https://open.spotify.com/album/0pdUiITxv1TR0NFnO2ngCB) | 4:34 | 2023-04-21 |  |
 | [Top Yourself](https://open.spotify.com/track/3ZTScjTJav3Yak0OqLTuAL) | [The Raconteurs](https://open.spotify.com/artist/4wo1267SJuUfHgasdlfNfc) | [Consolers of the Lonely](https://open.spotify.com/album/0OBNtBshpjFPStZGJTGNJr) | 4:25 | 2019-10-31 | 2022-07-29 |
 | [Top Yourself](https://open.spotify.com/track/7w85ReRElKKmLNCbPaKPGN) | [The Raconteurs](https://open.spotify.com/artist/4wo1267SJuUfHgasdlfNfc) | [Consolers of the Lonely](https://open.spotify.com/album/3yx8gEFlojRtt2WBhmxwfg) | 4:25 | 2022-01-27 |  |
+| [Tragic Magic \- Dream Version](https://open.spotify.com/track/6qF62tssDqn4EZ3FnBAa9q) | [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0), [Hayden Calnin](https://open.spotify.com/artist/19OAtq7pNHnBRKJORFeahx) | [Tragic Magic \(Dream Version\)](https://open.spotify.com/album/4iJYb3HLJXRsmJHCLFq6Xt) | 3:03 | 2023-05-19 |  |
 | [Trouble Comes Knocking](https://open.spotify.com/track/3rxatIeKrhZHtncIx5HkYv) | [Timber Timbre](https://open.spotify.com/artist/7HeVXdOdMhLslVputGTZFQ) | [Timber Timbre](https://open.spotify.com/album/6Q9apubviMMbPFyRNpITzg) | 5:26 | 2019-10-31 | 2022-07-29 |
 | [Trouble Comes Knocking](https://open.spotify.com/track/4cBKfcBilileNL2Bggmnm8) | [Timber Timbre](https://open.spotify.com/artist/7HeVXdOdMhLslVputGTZFQ) | [Timber Timbre](https://open.spotify.com/album/1peaWfJtqMtLmqKK79Cpxu) | 5:26 | 2022-01-27 |  |
 | [Tumbleweeds](https://open.spotify.com/track/0rORKsyo8jKHbxNiAXyUzG) | [Twin Bandit](https://open.spotify.com/artist/0PFFKJfJZU5TbgQXIw8cBr) | [For You](https://open.spotify.com/album/5Cky37udaAG1nKhnCsU3Br) | 3:18 | 2019-10-31 | 2022-07-29 |

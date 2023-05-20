@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTxofAzA6rAK.md) - [plain]
 
 > Latest and biggest tracks from Jamaica's Dancehall scene\. Cover: Amarnii
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,250 likes - 150 songs - 7 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,314 likes - 150 songs - 7 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTxofAzA6rAK.md) - [plain]
 | 149 | [Three Little Birds](https://open.spotify.com/track/4bfAZUN7Y2yxxrANVpcErC) | [Vybz Kartel](https://open.spotify.com/artist/2NUz5P42WqkxilbI8ocN76) | [Three Little Birds](https://open.spotify.com/album/5hnQr1o6d92rF3xQ78xngP) | 3:28 |
 | 150 | [Perfect Timing](https://open.spotify.com/track/3sP88foDNpoLlkpsaEUDJL) | [Jada Kingdom](https://open.spotify.com/artist/2FgooFaZzZy6PUyJImk0kG) | [Perfect Timing](https://open.spotify.com/album/4hkk8DkNZdTRHdlbkHZ37B) | 2:58 |
 
-Snapshot ID: `MCw1YzFkNWMxODBmODg4YmQ0YTQ5ODYxNjFlNGViYjc1OWVmMjcxMjRl`
+Snapshot ID: `MCw4Nzg3MWU3NDk3ODllYjQ4M2Q5NjdiM2M4MzBlMjg5NjIyYThhNDlh`

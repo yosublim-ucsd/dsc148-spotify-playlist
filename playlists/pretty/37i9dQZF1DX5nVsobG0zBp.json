@@ -1,12 +1,12 @@
 {
   "description": "Os maiores hits do rap portugu\u00eas dos \u00faltimos anos. Foto: Mizzy Miles, Deejay Telio, Gson e Teto.  ",
-  "num_followers": 45093,
+  "num_followers": 45161,
   "original_name": "Rap Tuga Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0N2Q4MzlkYjRjMmY2NWE0ODBmZjcxODRkZDFmMjZjZDVjNmNjYjUz",
+  "snapshot_id": "MCw1OGEzM2FkZGFlYzA5YjY0YmZhN2QzNThhNmQwYTgyOGJhZjI4YTJj",
   "tracks": [
     {
       "added_at": "2023-05-18 11:12:14",
@@ -707,22 +707,34 @@
     {
       "added_at": "2023-05-18 11:12:14",
       "album": {
-        "name": "Louco",
-        "url": "https://open.spotify.com/album/78k1xD0ZE4Me5Tj19SeO6D"
+        "name": "Bandidas",
+        "url": "https://open.spotify.com/album/3GOXhstBnGiQbQylnIWEnq"
       },
       "artists": [
         {
-          "name": "Piruka",
-          "url": "https://open.spotify.com/artist/5iZ6jMDkRa7RKLQplJuQUC"
+          "name": "Instinto 26",
+          "url": "https://open.spotify.com/artist/0XrDy5XUWRVcD4O8sSyzEV"
         },
         {
-          "name": "Bluay",
-          "url": "https://open.spotify.com/artist/18jB1ZnaJSWmro1ExvqZo4"
+          "name": "Julinho Ksd",
+          "url": "https://open.spotify.com/artist/7kR1Yw4RqYhhDD3a8QRyG6"
+        },
+        {
+          "name": "Kibow",
+          "url": "https://open.spotify.com/artist/09R2ZnVOtZJjYH5CkDkA0M"
+        },
+        {
+          "name": "Yuran",
+          "url": "https://open.spotify.com/artist/3zvbATHitSjEZ54l7QnJN0"
+        },
+        {
+          "name": "Trista",
+          "url": "https://open.spotify.com/artist/1hsrQJC4A7sVS6wOwTxRxw"
         }
       ],
-      "duration_ms": 244000,
-      "name": "Louco",
-      "url": "https://open.spotify.com/track/5RPewmKIUL2vWtQLI0Qp1F"
+      "duration_ms": 210618,
+      "name": "Bandidas",
+      "url": "https://open.spotify.com/track/6MEZbtP3lg3mHnE9LzZn4S"
     },
     {
       "added_at": "2023-05-18 11:12:14",
@@ -775,34 +787,22 @@
     {
       "added_at": "2023-05-18 11:12:14",
       "album": {
-        "name": "Bandidas",
-        "url": "https://open.spotify.com/album/3GOXhstBnGiQbQylnIWEnq"
+        "name": "Louco",
+        "url": "https://open.spotify.com/album/78k1xD0ZE4Me5Tj19SeO6D"
       },
       "artists": [
         {
-          "name": "Instinto 26",
-          "url": "https://open.spotify.com/artist/0XrDy5XUWRVcD4O8sSyzEV"
+          "name": "Piruka",
+          "url": "https://open.spotify.com/artist/5iZ6jMDkRa7RKLQplJuQUC"
         },
         {
-          "name": "Julinho Ksd",
-          "url": "https://open.spotify.com/artist/7kR1Yw4RqYhhDD3a8QRyG6"
-        },
-        {
-          "name": "Kibow",
-          "url": "https://open.spotify.com/artist/09R2ZnVOtZJjYH5CkDkA0M"
-        },
-        {
-          "name": "Yuran",
-          "url": "https://open.spotify.com/artist/3zvbATHitSjEZ54l7QnJN0"
-        },
-        {
-          "name": "Trista",
-          "url": "https://open.spotify.com/artist/1hsrQJC4A7sVS6wOwTxRxw"
+          "name": "Bluay",
+          "url": "https://open.spotify.com/artist/18jB1ZnaJSWmro1ExvqZo4"
         }
       ],
-      "duration_ms": 210618,
-      "name": "Bandidas",
-      "url": "https://open.spotify.com/track/6MEZbtP3lg3mHnE9LzZn4S"
+      "duration_ms": 244000,
+      "name": "Louco",
+      "url": "https://open.spotify.com/track/5RPewmKIUL2vWtQLI0Qp1F"
     },
     {
       "added_at": "2023-05-18 11:12:14",
@@ -1259,6 +1259,22 @@
     {
       "added_at": "2023-05-18 11:12:14",
       "album": {
+        "name": "Ngana Zambi",
+        "url": "https://open.spotify.com/album/0c9jWuJxAVIWaut11l0Ppj"
+      },
+      "artists": [
+        {
+          "name": "Wet Bed Gang",
+          "url": "https://open.spotify.com/artist/5jfz7uWPwf03hdEewW8AI8"
+        }
+      ],
+      "duration_ms": 214654,
+      "name": "Perseus",
+      "url": "https://open.spotify.com/track/2QXQFSyhpnisPQnNd76Fh7"
+    },
+    {
+      "added_at": "2023-05-18 11:12:14",
+      "album": {
         "name": "Good Life",
         "url": "https://open.spotify.com/album/2uFgPZNyontItiQ5P2TZU6"
       },
@@ -1291,22 +1307,6 @@
     {
       "added_at": "2023-05-18 11:12:14",
       "album": {
-        "name": "Overdose",
-        "url": "https://open.spotify.com/album/43ghXAl52nmndKZZdlvf90"
-      },
-      "artists": [
-        {
-          "name": "Waze",
-          "url": "https://open.spotify.com/artist/0CHentDviLeOrlfyu96uVm"
-        }
-      ],
-      "duration_ms": 236210,
-      "name": "Overdose",
-      "url": "https://open.spotify.com/track/24q8cZ35Z6ISOcnlLVlU5w"
-    },
-    {
-      "added_at": "2023-05-18 11:12:14",
-      "album": {
         "name": "FEELING",
         "url": "https://open.spotify.com/album/7zhvYBdgnFgEoe24GUOwbm"
       },
@@ -1323,18 +1323,18 @@
     {
       "added_at": "2023-05-18 11:12:14",
       "album": {
-        "name": "Ngana Zambi",
-        "url": "https://open.spotify.com/album/0c9jWuJxAVIWaut11l0Ppj"
+        "name": "Overdose",
+        "url": "https://open.spotify.com/album/43ghXAl52nmndKZZdlvf90"
       },
       "artists": [
         {
-          "name": "Wet Bed Gang",
-          "url": "https://open.spotify.com/artist/5jfz7uWPwf03hdEewW8AI8"
+          "name": "Waze",
+          "url": "https://open.spotify.com/artist/0CHentDviLeOrlfyu96uVm"
         }
       ],
-      "duration_ms": 214654,
-      "name": "Perseus",
-      "url": "https://open.spotify.com/track/2QXQFSyhpnisPQnNd76Fh7"
+      "duration_ms": 236210,
+      "name": "Overdose",
+      "url": "https://open.spotify.com/track/24q8cZ35Z6ISOcnlLVlU5w"
     },
     {
       "added_at": "2023-05-18 11:12:14",
@@ -1355,18 +1355,18 @@
     {
       "added_at": "2023-05-18 11:12:14",
       "album": {
-        "name": "VIDA DE ARTISTA",
-        "url": "https://open.spotify.com/album/2sPnAz4lY0WTYlpJyDNOpk"
+        "name": "Ngana Zambi",
+        "url": "https://open.spotify.com/album/0c9jWuJxAVIWaut11l0Ppj"
       },
       "artists": [
         {
-          "name": "LEO2745",
-          "url": "https://open.spotify.com/artist/1MBezd5OaoWoOTQVs16FOx"
+          "name": "Wet Bed Gang",
+          "url": "https://open.spotify.com/artist/5jfz7uWPwf03hdEewW8AI8"
         }
       ],
-      "duration_ms": 192000,
-      "name": "VIDA DE ARTISTA",
-      "url": "https://open.spotify.com/track/4fTXCTg0AdAdqGaFfVs3FK"
+      "duration_ms": 240594,
+      "name": "La Bella Mafia",
+      "url": "https://open.spotify.com/track/3dJgseQq10k108mfw6m7k9"
     }
   ],
   "unique_name": "Rap Tuga Hits",

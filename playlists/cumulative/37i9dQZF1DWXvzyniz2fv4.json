@@ -1638,7 +1638,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 210553,
       "name": "Muleke Solto",
       "url": "https://open.spotify.com/track/3EFw2JSxIfdY0GYSNyI1rV"
@@ -2164,6 +2164,36 @@
       "duration_ms": 167718,
       "name": "Reggaezin Do LotHzin",
       "url": "https://open.spotify.com/track/7DMbWO0qRvliv85AneFv2M"
+    },
+    {
+      "album": {
+        "name": "Rosa Mosqueta",
+        "url": "https://open.spotify.com/album/29r8N46ReMZsPewh4sJAbm"
+      },
+      "artists": [
+        {
+          "name": "Org\u00e2nico",
+          "url": "https://open.spotify.com/artist/5UOOgRWguRmVZo1voJuQpf"
+        },
+        {
+          "name": "L\u00e9o Casa 1",
+          "url": "https://open.spotify.com/artist/5CLH6SMhWas8Ed7W9YZjJD"
+        },
+        {
+          "name": "Kadri",
+          "url": "https://open.spotify.com/artist/080IizDi2wwWfkw1zPdBZz"
+        },
+        {
+          "name": "S\u00f3CIRO",
+          "url": "https://open.spotify.com/artist/3rS2eMg4fwgs0ViHxkxuUz"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198247,
+      "name": "Rosa Mosqueta",
+      "url": "https://open.spotify.com/track/3sRBvfATNmU3LmbsRaZ9Ds"
     },
     {
       "album": {

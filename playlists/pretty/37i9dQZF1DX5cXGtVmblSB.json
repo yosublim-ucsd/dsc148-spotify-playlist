@@ -1,455 +1,51 @@
 {
-  "description": "Feline-friendly tracks curated by musicologist <a href=\"spotify:artist:0TMyZy9NGJJ7NKMAgCgw6B\">David Teie</a>, who pioneered scientifically researched music for cats.",
-  "num_followers": 9393,
-  "original_name": "Mellow Meowsic",
+  "description": "Soft music to calm down cats, kittens and their humans.",
+  "num_followers": 9465,
+  "original_name": "Cat Calming Music",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1YWFjZTZiOGUyMmUyNDFhYjU3YWMxZGI0ZGYzOGRkODU0YmY2MjUx",
+  "snapshot_id": "MCw3YmUwYzZmY2I5NmVkNjdkNGM3ZDkzNTFlN2JmOTUwOWE5NTQwMDM1",
   "tracks": [
     {
-      "added_at": "2023-04-14 08:49:13",
+      "added_at": "2023-05-19 15:28:07",
       "album": {
-        "name": "Music for Cats Album One",
-        "url": "https://open.spotify.com/album/2qgWuthZzRA3fJoecnwzs7"
+        "name": "Calming Music for Anxious Cats: Songs to Soothe Your Cat",
+        "url": "https://open.spotify.com/album/6oJRshmkcJerjwLT6Pc8rO"
       },
       "artists": [
         {
-          "name": "David Teie",
-          "url": "https://open.spotify.com/artist/0TMyZy9NGJJ7NKMAgCgw6B"
-        }
-      ],
-      "duration_ms": 375133,
-      "name": "Lolo's Air",
-      "url": "https://open.spotify.com/track/6EcUEkTUH7OlAi9Uu94kbm"
-    },
-    {
-      "added_at": "2023-04-14 08:49:13",
-      "album": {
-        "name": "J.S. Bach: The Well-Tempered Clavier, Books 1 & 2, BWV 846-893",
-        "url": "https://open.spotify.com/album/3PWhuYij6e99npMTjTZm2C"
-      },
-      "artists": [
-        {
-          "name": "Johann Sebastian Bach",
-          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+          "name": "Cat Music Dreams",
+          "url": "https://open.spotify.com/artist/47U20M8lyC5AJLNJg3laOD"
         },
         {
-          "name": "Sviatoslav Richter",
-          "url": "https://open.spotify.com/artist/4hBgCK8FyJ5bV36ZZLB56X"
+          "name": "RelaxMyCat",
+          "url": "https://open.spotify.com/artist/2uO0Hew2xpva3P9AgknpzB"
         }
       ],
-      "duration_ms": 117913,
-      "name": "The Well-Tempered Clavier, Book 1, Prelude & Fugue No. 1 in C Major, BWV 846: I. Prelude",
-      "url": "https://open.spotify.com/track/1Nr8mCDNAopFZB93SPHLVw"
+      "duration_ms": 181201,
+      "name": "Relax My Cat",
+      "url": "https://open.spotify.com/track/0ek9tPrHh2sZukgfv6mvkt"
     },
     {
-      "added_at": "2023-04-14 08:49:13",
+      "added_at": "2023-05-19 15:28:07",
       "album": {
-        "name": "Music for Cats Album Two",
-        "url": "https://open.spotify.com/album/1qFiqPsxCwQ3Ty5mC5YogI"
+        "name": "Escape Gravity",
+        "url": "https://open.spotify.com/album/6Q5SJIXsAhHNl2HuQsep69"
       },
       "artists": [
         {
-          "name": "David Teie",
-          "url": "https://open.spotify.com/artist/0TMyZy9NGJJ7NKMAgCgw6B"
+          "name": "Juni Tinley",
+          "url": "https://open.spotify.com/artist/6i1anbI9lYxG8g0440Up8r"
         }
       ],
-      "duration_ms": 691000,
-      "name": "Fostog's Touch",
-      "url": "https://open.spotify.com/track/0Qp3kcosNRkoUlMmkyA9KJ"
+      "duration_ms": 153057,
+      "name": "528 Hz - Escape Gravity",
+      "url": "https://open.spotify.com/track/7z5azdVHQCt2whLxATLFfn"
     },
     {
-      "added_at": "2023-04-14 08:49:13",
-      "album": {
-        "name": "Mozart: Piano Sonatas Nos. 11 & 12/Fantasia in D minor",
-        "url": "https://open.spotify.com/album/1TqayVLpoTPrHyOkY7Nc15"
-      },
-      "artists": [
-        {
-          "name": "Wolfgang Amadeus Mozart",
-          "url": "https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS"
-        },
-        {
-          "name": "Mitsuko Uchida",
-          "url": "https://open.spotify.com/artist/606pshIhidPHebEaDWSXDe"
-        }
-      ],
-      "duration_ms": 301253,
-      "name": "Piano Sonata No. 12 in F Major, K. 332: II. Adagio",
-      "url": "https://open.spotify.com/track/5x2xMWorOHxbhRN50Ebwa0"
-    },
-    {
-      "added_at": "2023-04-14 08:49:13",
-      "album": {
-        "name": "Music for Cats Album One",
-        "url": "https://open.spotify.com/album/2qgWuthZzRA3fJoecnwzs7"
-      },
-      "artists": [
-        {
-          "name": "David Teie",
-          "url": "https://open.spotify.com/artist/0TMyZy9NGJJ7NKMAgCgw6B"
-        }
-      ],
-      "duration_ms": 518000,
-      "name": "Katey Moss Catwalk",
-      "url": "https://open.spotify.com/track/0KElSYgAOjxKY5M3onAD2i"
-    },
-    {
-      "added_at": "2023-04-14 08:49:13",
-      "album": {
-        "name": "Fragment",
-        "url": "https://open.spotify.com/album/4hDrHeKxgRFP07lI6RAkoE"
-      },
-      "artists": [
-        {
-          "name": "Ever So Blue",
-          "url": "https://open.spotify.com/artist/6LwcYWG1molG0KW2xwnPd2"
-        }
-      ],
-      "duration_ms": 153103,
-      "name": "Fragment",
-      "url": "https://open.spotify.com/track/3VBPPIu4MGBnMj4SF8sJBJ"
-    },
-    {
-      "added_at": "2023-04-14 08:49:13",
-      "album": {
-        "name": "Music for Cats Album Two",
-        "url": "https://open.spotify.com/album/1qFiqPsxCwQ3Ty5mC5YogI"
-      },
-      "artists": [
-        {
-          "name": "David Teie",
-          "url": "https://open.spotify.com/artist/0TMyZy9NGJJ7NKMAgCgw6B"
-        }
-      ],
-      "duration_ms": 252500,
-      "name": "Maurice's Melody",
-      "url": "https://open.spotify.com/track/2HGTsS8Yo8AorkIQT3SZog"
-    },
-    {
-      "added_at": "2023-04-14 08:49:13",
-      "album": {
-        "name": "Bach: Goldberg Variations, BWV 988",
-        "url": "https://open.spotify.com/album/40Y2zm6JfEa7p9Xp9x8PoX"
-      },
-      "artists": [
-        {
-          "name": "Johann Sebastian Bach",
-          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
-        },
-        {
-          "name": "Zhu Xiao-Mei",
-          "url": "https://open.spotify.com/artist/7FYbeZiCZ6pRTx2fAbBW0H"
-        }
-      ],
-      "duration_ms": 256132,
-      "name": "Goldberg Variations, BWV 988: Aria",
-      "url": "https://open.spotify.com/track/4aNR1DXBnD8guB0iqSoizc"
-    },
-    {
-      "added_at": "2023-04-14 08:49:13",
-      "album": {
-        "name": "Music for Cats Album One",
-        "url": "https://open.spotify.com/album/2qgWuthZzRA3fJoecnwzs7"
-      },
-      "artists": [
-        {
-          "name": "David Teie",
-          "url": "https://open.spotify.com/artist/0TMyZy9NGJJ7NKMAgCgw6B"
-        }
-      ],
-      "duration_ms": 1070480,
-      "name": "Scooter Bere's Aria",
-      "url": "https://open.spotify.com/track/1HGXgoIBnDnf6izseOBiiI"
-    },
-    {
-      "added_at": "2023-04-14 08:49:13",
-      "album": {
-        "name": "Den f\u00f6rsta sn\u00f6n",
-        "url": "https://open.spotify.com/album/134iaeUz9GxbTtG272YDkv"
-      },
-      "artists": [
-        {
-          "name": "Maya \u00c5str\u00f6m",
-          "url": "https://open.spotify.com/artist/08cxtpra8sKpzXViTa27ph"
-        }
-      ],
-      "duration_ms": 203000,
-      "name": "Den f\u00f6rsta sn\u00f6n",
-      "url": "https://open.spotify.com/track/64yTTGTPOZos3UEouvO6tp"
-    },
-    {
-      "added_at": "2023-04-14 08:49:13",
-      "album": {
-        "name": "Music for Cats Album Two",
-        "url": "https://open.spotify.com/album/1qFiqPsxCwQ3Ty5mC5YogI"
-      },
-      "artists": [
-        {
-          "name": "David Teie",
-          "url": "https://open.spotify.com/artist/0TMyZy9NGJJ7NKMAgCgw6B"
-        }
-      ],
-      "duration_ms": 493860,
-      "name": "Opus for Oliver",
-      "url": "https://open.spotify.com/track/3Nda8HVJcMQmwRrg01u6ou"
-    },
-    {
-      "added_at": "2023-04-14 08:49:13",
-      "album": {
-        "name": "Observer",
-        "url": "https://open.spotify.com/album/7agBw6u81jarI9f0ITUXUg"
-      },
-      "artists": [
-        {
-          "name": "Steven Goldmund",
-          "url": "https://open.spotify.com/artist/3dwkO7z23scCJppeqHGTy3"
-        }
-      ],
-      "duration_ms": 250589,
-      "name": "Aware of Everything",
-      "url": "https://open.spotify.com/track/59AyrtBjSHqBF04IonFZFU"
-    },
-    {
-      "added_at": "2023-04-14 08:49:13",
-      "album": {
-        "name": "Music for Cats Album One",
-        "url": "https://open.spotify.com/album/2qgWuthZzRA3fJoecnwzs7"
-      },
-      "artists": [
-        {
-          "name": "David Teie",
-          "url": "https://open.spotify.com/artist/0TMyZy9NGJJ7NKMAgCgw6B"
-        }
-      ],
-      "duration_ms": 336053,
-      "name": "Tigerlili and Mimi's Mewsical",
-      "url": "https://open.spotify.com/track/1NxgrJyQh1KTSslKIpieCi"
-    },
-    {
-      "added_at": "2023-04-14 08:49:13",
-      "album": {
-        "name": "A State of Wonder: The Complete Goldberg Variations, BWV 988 (Recorded 1955 & 1981)",
-        "url": "https://open.spotify.com/album/6RkddyAzYq3QNZqdAhxPxF"
-      },
-      "artists": [
-        {
-          "name": "Johann Sebastian Bach",
-          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
-        },
-        {
-          "name": "Glenn Gould",
-          "url": "https://open.spotify.com/artist/13dkPjqmbcchm8cXjEJQeP"
-        }
-      ],
-      "duration_ms": 68040,
-      "name": "Goldberg Variations, BWV 988: Variation 7 a 1 ovvero 2 Clav.",
-      "url": "https://open.spotify.com/track/30JuGvGfyl4bxuyo9OB1N4"
-    },
-    {
-      "added_at": "2023-04-14 08:49:13",
-      "album": {
-        "name": "Music for Cats Album One",
-        "url": "https://open.spotify.com/album/2qgWuthZzRA3fJoecnwzs7"
-      },
-      "artists": [
-        {
-          "name": "David Teie",
-          "url": "https://open.spotify.com/artist/0TMyZy9NGJJ7NKMAgCgw6B"
-        }
-      ],
-      "duration_ms": 707600,
-      "name": "Simon Says",
-      "url": "https://open.spotify.com/track/3eUde69UEDub59LN6d3V0d"
-    },
-    {
-      "added_at": "2023-04-14 08:49:13",
-      "album": {
-        "name": "Highlands",
-        "url": "https://open.spotify.com/album/3dIFhoR2URHhpLMEVrv4eC"
-      },
-      "artists": [
-        {
-          "name": "Steve Jones Swiff",
-          "url": "https://open.spotify.com/artist/3z1Zuq8iUJqouUmX3ugLml"
-        }
-      ],
-      "duration_ms": 125749,
-      "name": "Highlands",
-      "url": "https://open.spotify.com/track/5lszZIR5GNQubgdMefwp2T"
-    },
-    {
-      "added_at": "2023-04-14 08:49:13",
-      "album": {
-        "name": "Music for Cats Album Two",
-        "url": "https://open.spotify.com/album/1qFiqPsxCwQ3Ty5mC5YogI"
-      },
-      "artists": [
-        {
-          "name": "David Teie",
-          "url": "https://open.spotify.com/artist/0TMyZy9NGJJ7NKMAgCgw6B"
-        }
-      ],
-      "duration_ms": 344937,
-      "name": "Luna and June's Purrfect Harmony",
-      "url": "https://open.spotify.com/track/7zqaY1x1PeKnFtLAhzYXtJ"
-    },
-    {
-      "added_at": "2023-04-14 08:49:13",
-      "album": {
-        "name": "Quasar",
-        "url": "https://open.spotify.com/album/3RoE8ap3HZwtp16hHXMEEE"
-      },
-      "artists": [
-        {
-          "name": "Tejal Yann",
-          "url": "https://open.spotify.com/artist/6eGKvCZdc06HkiwZKFlcBY"
-        }
-      ],
-      "duration_ms": 258951,
-      "name": "Quasar",
-      "url": "https://open.spotify.com/track/5NM4frO8ccRVxXKW0kZaAk"
-    },
-    {
-      "added_at": "2023-04-14 08:49:13",
-      "album": {
-        "name": "Music for Cats Album Two",
-        "url": "https://open.spotify.com/album/1qFiqPsxCwQ3Ty5mC5YogI"
-      },
-      "artists": [
-        {
-          "name": "David Teie",
-          "url": "https://open.spotify.com/artist/0TMyZy9NGJJ7NKMAgCgw6B"
-        }
-      ],
-      "duration_ms": 412500,
-      "name": "Penelope's Nocturne",
-      "url": "https://open.spotify.com/track/2DJehHvLodyXbp8W0glBNr"
-    },
-    {
-      "added_at": "2023-04-14 08:49:13",
-      "album": {
-        "name": "Mozart: The Piano Sonatas",
-        "url": "https://open.spotify.com/album/39E5TLqxXs6QttsbEDPvzZ"
-      },
-      "artists": [
-        {
-          "name": "Wolfgang Amadeus Mozart",
-          "url": "https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS"
-        },
-        {
-          "name": "Mitsuko Uchida",
-          "url": "https://open.spotify.com/artist/606pshIhidPHebEaDWSXDe"
-        }
-      ],
-      "duration_ms": 377200,
-      "name": "Piano Sonata No. 5 in G Major, K. 283: II. Andante",
-      "url": "https://open.spotify.com/track/7LGkBu8hHP8CWweOO1ZccB"
-    },
-    {
-      "added_at": "2023-04-14 08:49:13",
-      "album": {
-        "name": "Music for Cats Album Two",
-        "url": "https://open.spotify.com/album/1qFiqPsxCwQ3Ty5mC5YogI"
-      },
-      "artists": [
-        {
-          "name": "David Teie",
-          "url": "https://open.spotify.com/artist/0TMyZy9NGJJ7NKMAgCgw6B"
-        }
-      ],
-      "duration_ms": 519750,
-      "name": "Musica Para Ojos",
-      "url": "https://open.spotify.com/track/0oTvfjyVlklBQSZNUqApcI"
-    },
-    {
-      "added_at": "2023-04-14 08:49:13",
-      "album": {
-        "name": "Morgensol",
-        "url": "https://open.spotify.com/album/1CiembCAvOPBFHRbZe8cLk"
-      },
-      "artists": [
-        {
-          "name": "Bolethe Kristensen",
-          "url": "https://open.spotify.com/artist/5FdY1HR5TdShBfxywCliMI"
-        }
-      ],
-      "duration_ms": 105000,
-      "name": "Morgensol",
-      "url": "https://open.spotify.com/track/6aJcjGsNvyivFBeBaigFXQ"
-    },
-    {
-      "added_at": "2023-04-14 08:49:13",
-      "album": {
-        "name": "Music for Cats Album Two",
-        "url": "https://open.spotify.com/album/1qFiqPsxCwQ3Ty5mC5YogI"
-      },
-      "artists": [
-        {
-          "name": "David Teie",
-          "url": "https://open.spotify.com/artist/0TMyZy9NGJJ7NKMAgCgw6B"
-        }
-      ],
-      "duration_ms": 709305,
-      "name": "Potato's Song",
-      "url": "https://open.spotify.com/track/4YVXr7tpEZVGnWlYMtNjQQ"
-    },
-    {
-      "added_at": "2023-04-14 08:49:13",
-      "album": {
-        "name": "J.S. Bach: The Well-Tempered Clavier, Books 1 & 2, BWV 846-893",
-        "url": "https://open.spotify.com/album/3PWhuYij6e99npMTjTZm2C"
-      },
-      "artists": [
-        {
-          "name": "Johann Sebastian Bach",
-          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
-        },
-        {
-          "name": "Sviatoslav Richter",
-          "url": "https://open.spotify.com/artist/4hBgCK8FyJ5bV36ZZLB56X"
-        }
-      ],
-      "duration_ms": 149206,
-      "name": "The Well-Tempered Clavier, Book 1, Prelude & Fugue No. 1 in C Major, BWV 846: II. Fugue",
-      "url": "https://open.spotify.com/track/2g2XmbDVVvz3Gq40bGkiWL"
-    },
-    {
-      "added_at": "2023-04-14 08:49:13",
-      "album": {
-        "name": "Music for Cats Album Two",
-        "url": "https://open.spotify.com/album/1qFiqPsxCwQ3Ty5mC5YogI"
-      },
-      "artists": [
-        {
-          "name": "David Teie",
-          "url": "https://open.spotify.com/artist/0TMyZy9NGJJ7NKMAgCgw6B"
-        }
-      ],
-      "duration_ms": 544000,
-      "name": "For I Will Consider My Cat Jeoffry",
-      "url": "https://open.spotify.com/track/3SqawUAmaZGwmzleROyk4E"
-    },
-    {
-      "added_at": "2023-04-14 08:49:13",
-      "album": {
-        "name": "In My Quiet Hour",
-        "url": "https://open.spotify.com/album/3ik4zmauaQ976OG09cEJCN"
-      },
-      "artists": [
-        {
-          "name": "Nicholas Sipka",
-          "url": "https://open.spotify.com/artist/1QTGeOnMy1np5pFwmkTDM4"
-        }
-      ],
-      "duration_ms": 126049,
-      "name": "In my quiet hour",
-      "url": "https://open.spotify.com/track/4YhwpzwqfWEt04ki6wLUVk"
-    },
-    {
-      "added_at": "2023-04-14 08:49:13",
+      "added_at": "2023-05-19 15:28:07",
       "album": {
         "name": "Cozmo's Air",
         "url": "https://open.spotify.com/album/6eBttKmf7eOaZICEyy2re8"
@@ -465,7 +61,331 @@
       "url": "https://open.spotify.com/track/58VLKJL8y3FknrqLUVXPrI"
     },
     {
-      "added_at": "2023-04-14 08:49:13",
+      "added_at": "2023-05-19 15:28:07",
+      "album": {
+        "name": "Clarity Solfeggio",
+        "url": "https://open.spotify.com/album/41bnl7nyIlRqDpvjYM762p"
+      },
+      "artists": [
+        {
+          "name": "Jupiter Sorrow",
+          "url": "https://open.spotify.com/artist/3jqblnBchsyc0UJrQ9YJMw"
+        }
+      ],
+      "duration_ms": 190791,
+      "name": "528 Hz - Clarity Solfeggio",
+      "url": "https://open.spotify.com/track/0zN8CDrYkIldw94c17PhrL"
+    },
+    {
+      "added_at": "2023-05-19 15:28:07",
+      "album": {
+        "name": "Fragment",
+        "url": "https://open.spotify.com/album/4hDrHeKxgRFP07lI6RAkoE"
+      },
+      "artists": [
+        {
+          "name": "Ever So Blue",
+          "url": "https://open.spotify.com/artist/6LwcYWG1molG0KW2xwnPd2"
+        }
+      ],
+      "duration_ms": 153103,
+      "name": "Fragment",
+      "url": "https://open.spotify.com/track/3VBPPIu4MGBnMj4SF8sJBJ"
+    },
+    {
+      "added_at": "2023-05-19 15:28:07",
+      "album": {
+        "name": "Music for Cats Album Two",
+        "url": "https://open.spotify.com/album/1qFiqPsxCwQ3Ty5mC5YogI"
+      },
+      "artists": [
+        {
+          "name": "David Teie",
+          "url": "https://open.spotify.com/artist/0TMyZy9NGJJ7NKMAgCgw6B"
+        }
+      ],
+      "duration_ms": 691000,
+      "name": "Fostog's Touch",
+      "url": "https://open.spotify.com/track/0Qp3kcosNRkoUlMmkyA9KJ"
+    },
+    {
+      "added_at": "2023-05-19 15:28:07",
+      "album": {
+        "name": "The Blue Notebooks (15 Years)",
+        "url": "https://open.spotify.com/album/1rTHmwhZwhhvivx3pdXXdo"
+      },
+      "artists": [
+        {
+          "name": "Max Richter",
+          "url": "https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW"
+        },
+        {
+          "name": "Louisa Fuller",
+          "url": "https://open.spotify.com/artist/557AjoqV9wVpa8vO2k4wuJ"
+        },
+        {
+          "name": "Natalia Bonner",
+          "url": "https://open.spotify.com/artist/4d6eKLLJbe2ZeiL07Du7vB"
+        },
+        {
+          "name": "John Metcalfe",
+          "url": "https://open.spotify.com/artist/6s8AUvcmf2fp0Kh7PctPnd"
+        },
+        {
+          "name": "Philip Sheppard",
+          "url": "https://open.spotify.com/artist/6qzi6mPoJU4cBlO76U1Il1"
+        },
+        {
+          "name": "Chris Worsey",
+          "url": "https://open.spotify.com/artist/33TpuAICGC2gekoZZDDZhE"
+        }
+      ],
+      "duration_ms": 371746,
+      "name": "On the Nature of Daylight",
+      "url": "https://open.spotify.com/track/56oReVXIfUO9xkX7pHmEU0"
+    },
+    {
+      "added_at": "2023-05-19 15:28:07",
+      "album": {
+        "name": "Chasing Waterfalls",
+        "url": "https://open.spotify.com/album/5M4eCFjPUz8M4QkQeeUnuE"
+      },
+      "artists": [
+        {
+          "name": "Arnaut",
+          "url": "https://open.spotify.com/artist/0U9aA1N7gWqV5g3lfqTrld"
+        }
+      ],
+      "duration_ms": 173428,
+      "name": "528 Hz - Chasing Waterfalls",
+      "url": "https://open.spotify.com/track/5bpgoU9a6KSxZj71t0dvPj"
+    },
+    {
+      "added_at": "2023-05-19 15:28:07",
+      "album": {
+        "name": "Le Lac",
+        "url": "https://open.spotify.com/album/32oA5PrMStagwn9406moMO"
+      },
+      "artists": [
+        {
+          "name": "Dharma Gaia",
+          "url": "https://open.spotify.com/artist/4zS7xfa3yRhsGysVOA8wHp"
+        }
+      ],
+      "duration_ms": 173750,
+      "name": "Le Lac",
+      "url": "https://open.spotify.com/track/75KdZGRMOcMzDI4qS4KB3V"
+    },
+    {
+      "added_at": "2023-05-19 15:28:07",
+      "album": {
+        "name": "Solfeggio Frequencies - Astral Distance",
+        "url": "https://open.spotify.com/album/7AO6LwT9dJ8mJBl45IOQUv"
+      },
+      "artists": [
+        {
+          "name": "Muni Yogi",
+          "url": "https://open.spotify.com/artist/5VMpyeQNlYtPipmkNpxRt0"
+        }
+      ],
+      "duration_ms": 119613,
+      "name": "417 Hz - Astral Distance",
+      "url": "https://open.spotify.com/track/2z1oFkt3nweQTE7hpJjI4S"
+    },
+    {
+      "added_at": "2023-05-19 15:28:07",
+      "album": {
+        "name": "Music for Cats Album Two",
+        "url": "https://open.spotify.com/album/1qFiqPsxCwQ3Ty5mC5YogI"
+      },
+      "artists": [
+        {
+          "name": "David Teie",
+          "url": "https://open.spotify.com/artist/0TMyZy9NGJJ7NKMAgCgw6B"
+        }
+      ],
+      "duration_ms": 252500,
+      "name": "Maurice's Melody",
+      "url": "https://open.spotify.com/track/2HGTsS8Yo8AorkIQT3SZog"
+    },
+    {
+      "added_at": "2023-05-19 15:28:07",
+      "album": {
+        "name": "Balaprakash - Naname",
+        "url": "https://open.spotify.com/album/2VMGq99T9eanBcnbLh1Vje"
+      },
+      "artists": [
+        {
+          "name": "Chaccara",
+          "url": "https://open.spotify.com/artist/0aT2mhHdKCh0zGSX7Mp15Q"
+        }
+      ],
+      "duration_ms": 198923,
+      "name": "Naname 528 Hz",
+      "url": "https://open.spotify.com/track/2maqfMMJ5PBFwolrqMwmK7"
+    },
+    {
+      "added_at": "2023-05-19 15:28:07",
+      "album": {
+        "name": "Fostog's Touch Remix for People",
+        "url": "https://open.spotify.com/album/2nYT9oo0IH82f6ebmndKuE"
+      },
+      "artists": [
+        {
+          "name": "David Teie",
+          "url": "https://open.spotify.com/artist/0TMyZy9NGJJ7NKMAgCgw6B"
+        }
+      ],
+      "duration_ms": 690750,
+      "name": "Fostog's Touch Remix for People",
+      "url": "https://open.spotify.com/track/08WfJZYIsb0jDEa21SkD5p"
+    },
+    {
+      "added_at": "2023-05-19 15:28:07",
+      "album": {
+        "name": "Den f\u00f6rsta sn\u00f6n",
+        "url": "https://open.spotify.com/album/134iaeUz9GxbTtG272YDkv"
+      },
+      "artists": [
+        {
+          "name": "Maya \u00c5str\u00f6m",
+          "url": "https://open.spotify.com/artist/08cxtpra8sKpzXViTa27ph"
+        }
+      ],
+      "duration_ms": 203000,
+      "name": "Den f\u00f6rsta sn\u00f6n",
+      "url": "https://open.spotify.com/track/64yTTGTPOZos3UEouvO6tp"
+    },
+    {
+      "added_at": "2023-05-19 15:28:07",
+      "album": {
+        "name": "Grace",
+        "url": "https://open.spotify.com/album/2IzduArXZVwnuqTPuYuxrT"
+      },
+      "artists": [
+        {
+          "name": "Clouds Come Down",
+          "url": "https://open.spotify.com/artist/6AqxTQj5IlWTwGCwPuxZu8"
+        }
+      ],
+      "duration_ms": 228128,
+      "name": "Bird Whisperer (Just Relax)",
+      "url": "https://open.spotify.com/track/4urSQCLVwqibeOXbh7fzrd"
+    },
+    {
+      "added_at": "2023-05-19 15:28:07",
+      "album": {
+        "name": "Strings Of Serenity",
+        "url": "https://open.spotify.com/album/08ToMN7jrPEtekSMYn4RtX"
+      },
+      "artists": [
+        {
+          "name": "X-Genie",
+          "url": "https://open.spotify.com/artist/7jpxxOSOJX0PCvKXAbQs2I"
+        }
+      ],
+      "duration_ms": 171250,
+      "name": "Strings Of Serenity",
+      "url": "https://open.spotify.com/track/5MCD2VQD1zR35jJHczAkMk"
+    },
+    {
+      "added_at": "2023-05-19 15:28:07",
+      "album": {
+        "name": "Music for Cats Album Two",
+        "url": "https://open.spotify.com/album/1qFiqPsxCwQ3Ty5mC5YogI"
+      },
+      "artists": [
+        {
+          "name": "David Teie",
+          "url": "https://open.spotify.com/artist/0TMyZy9NGJJ7NKMAgCgw6B"
+        }
+      ],
+      "duration_ms": 493860,
+      "name": "Opus for Oliver",
+      "url": "https://open.spotify.com/track/3Nda8HVJcMQmwRrg01u6ou"
+    },
+    {
+      "added_at": "2023-05-19 15:28:07",
+      "album": {
+        "name": "Observer",
+        "url": "https://open.spotify.com/album/7agBw6u81jarI9f0ITUXUg"
+      },
+      "artists": [
+        {
+          "name": "Steven Goldmund",
+          "url": "https://open.spotify.com/artist/3dwkO7z23scCJppeqHGTy3"
+        }
+      ],
+      "duration_ms": 250589,
+      "name": "Aware of Everything",
+      "url": "https://open.spotify.com/track/59AyrtBjSHqBF04IonFZFU"
+    },
+    {
+      "added_at": "2023-05-19 15:28:07",
+      "album": {
+        "name": "Highlands",
+        "url": "https://open.spotify.com/album/3dIFhoR2URHhpLMEVrv4eC"
+      },
+      "artists": [
+        {
+          "name": "Steve Jones Swiff",
+          "url": "https://open.spotify.com/artist/3z1Zuq8iUJqouUmX3ugLml"
+        }
+      ],
+      "duration_ms": 125749,
+      "name": "Highlands",
+      "url": "https://open.spotify.com/track/5lszZIR5GNQubgdMefwp2T"
+    },
+    {
+      "added_at": "2023-05-19 15:28:07",
+      "album": {
+        "name": "Music for Cats Album Two",
+        "url": "https://open.spotify.com/album/1qFiqPsxCwQ3Ty5mC5YogI"
+      },
+      "artists": [
+        {
+          "name": "David Teie",
+          "url": "https://open.spotify.com/artist/0TMyZy9NGJJ7NKMAgCgw6B"
+        }
+      ],
+      "duration_ms": 344937,
+      "name": "Luna and June's Purrfect Harmony",
+      "url": "https://open.spotify.com/track/7zqaY1x1PeKnFtLAhzYXtJ"
+    },
+    {
+      "added_at": "2023-05-19 15:28:07",
+      "album": {
+        "name": "Quasar",
+        "url": "https://open.spotify.com/album/3RoE8ap3HZwtp16hHXMEEE"
+      },
+      "artists": [
+        {
+          "name": "Tejal Yann",
+          "url": "https://open.spotify.com/artist/6eGKvCZdc06HkiwZKFlcBY"
+        }
+      ],
+      "duration_ms": 258951,
+      "name": "Quasar",
+      "url": "https://open.spotify.com/track/5NM4frO8ccRVxXKW0kZaAk"
+    },
+    {
+      "added_at": "2023-05-19 15:28:07",
+      "album": {
+        "name": "Serenity Repose 528 Hz",
+        "url": "https://open.spotify.com/album/2k4UbXKZJ4AKoB2qvYwowo"
+      },
+      "artists": [
+        {
+          "name": "Morgondimma",
+          "url": "https://open.spotify.com/artist/0mQskyOm143f9LT371ux2U"
+        }
+      ],
+      "duration_ms": 176435,
+      "name": "Serenity Repose 528 Hz",
+      "url": "https://open.spotify.com/track/2WGlubsM3MmePFpgUmgNzi"
+    },
+    {
+      "added_at": "2023-05-19 15:28:07",
       "album": {
         "name": "Yoga Gong Karma",
         "url": "https://open.spotify.com/album/1T9xagnSXjguJIoXiidlly"
@@ -481,7 +401,135 @@
       "url": "https://open.spotify.com/track/4zI7J4c58Br1tY10NDyhlR"
     },
     {
-      "added_at": "2023-04-14 08:49:13",
+      "added_at": "2023-05-19 15:28:07",
+      "album": {
+        "name": "Music for Cats Album Two",
+        "url": "https://open.spotify.com/album/1qFiqPsxCwQ3Ty5mC5YogI"
+      },
+      "artists": [
+        {
+          "name": "David Teie",
+          "url": "https://open.spotify.com/artist/0TMyZy9NGJJ7NKMAgCgw6B"
+        }
+      ],
+      "duration_ms": 412500,
+      "name": "Penelope's Nocturne",
+      "url": "https://open.spotify.com/track/2DJehHvLodyXbp8W0glBNr"
+    },
+    {
+      "added_at": "2023-05-19 15:28:07",
+      "album": {
+        "name": "Imagination",
+        "url": "https://open.spotify.com/album/59ngJWf69ZTOcqluzAxTta"
+      },
+      "artists": [
+        {
+          "name": "Zimdizi",
+          "url": "https://open.spotify.com/artist/144HUlx66zGheUbx0092oN"
+        }
+      ],
+      "duration_ms": 185505,
+      "name": "By Candlelight",
+      "url": "https://open.spotify.com/track/6KtdYGSfCIoAkiWkJ1qxDh"
+    },
+    {
+      "added_at": "2023-05-19 15:28:07",
+      "album": {
+        "name": "Alternating Current",
+        "url": "https://open.spotify.com/album/31yaFYn1OpYbqEUlcL1ssU"
+      },
+      "artists": [
+        {
+          "name": "Heriela",
+          "url": "https://open.spotify.com/artist/4Z39bNE8YlLs57YzOp6bWY"
+        }
+      ],
+      "duration_ms": 242060,
+      "name": "Alternating Current",
+      "url": "https://open.spotify.com/track/30le0rSu3t2XDWUqVJpksU"
+    },
+    {
+      "added_at": "2023-05-19 15:28:07",
+      "album": {
+        "name": "Morgensol",
+        "url": "https://open.spotify.com/album/1CiembCAvOPBFHRbZe8cLk"
+      },
+      "artists": [
+        {
+          "name": "Bolethe Kristensen",
+          "url": "https://open.spotify.com/artist/5FdY1HR5TdShBfxywCliMI"
+        }
+      ],
+      "duration_ms": 105000,
+      "name": "Morgensol",
+      "url": "https://open.spotify.com/track/6aJcjGsNvyivFBeBaigFXQ"
+    },
+    {
+      "added_at": "2023-05-19 15:28:07",
+      "album": {
+        "name": "Free Floating",
+        "url": "https://open.spotify.com/album/7E7TmcvZDiaCtN3lBzaqbZ"
+      },
+      "artists": [
+        {
+          "name": "May Johner",
+          "url": "https://open.spotify.com/artist/4VgJ3d27YeatqPir0Xxp4Y"
+        }
+      ],
+      "duration_ms": 165374,
+      "name": "Free Floating",
+      "url": "https://open.spotify.com/track/1diD0sLnUcAqM2pSVfbDih"
+    },
+    {
+      "added_at": "2023-05-19 15:28:07",
+      "album": {
+        "name": "Music for Cats Album Two",
+        "url": "https://open.spotify.com/album/1qFiqPsxCwQ3Ty5mC5YogI"
+      },
+      "artists": [
+        {
+          "name": "David Teie",
+          "url": "https://open.spotify.com/artist/0TMyZy9NGJJ7NKMAgCgw6B"
+        }
+      ],
+      "duration_ms": 544000,
+      "name": "For I Will Consider My Cat Jeoffry",
+      "url": "https://open.spotify.com/track/3SqawUAmaZGwmzleROyk4E"
+    },
+    {
+      "added_at": "2023-05-19 15:28:07",
+      "album": {
+        "name": "In My Quiet Hour",
+        "url": "https://open.spotify.com/album/3ik4zmauaQ976OG09cEJCN"
+      },
+      "artists": [
+        {
+          "name": "Nicholas Sipka",
+          "url": "https://open.spotify.com/artist/1QTGeOnMy1np5pFwmkTDM4"
+        }
+      ],
+      "duration_ms": 126049,
+      "name": "In my quiet hour",
+      "url": "https://open.spotify.com/track/4YhwpzwqfWEt04ki6wLUVk"
+    },
+    {
+      "added_at": "2023-05-19 15:28:07",
+      "album": {
+        "name": "Sana",
+        "url": "https://open.spotify.com/album/6d6OF37z3u4Cg02rGjqSvS"
+      },
+      "artists": [
+        {
+          "name": "Cerulean Sky",
+          "url": "https://open.spotify.com/artist/0vmL1scMiwQBMPeC9SSXVm"
+        }
+      ],
+      "duration_ms": 194166,
+      "name": "Sana",
+      "url": "https://open.spotify.com/track/63pIgIp1N1E6gMR4vPI3Qe"
+    },
+    {
+      "added_at": "2023-05-19 15:28:07",
       "album": {
         "name": "Padma's Love",
         "url": "https://open.spotify.com/album/2CZKoSfjQWJOQfxjGjjjGN"
@@ -497,7 +545,7 @@
       "url": "https://open.spotify.com/track/6OYcPLbRiymptR5AmbfDZo"
     },
     {
-      "added_at": "2023-04-14 08:49:13",
+      "added_at": "2023-05-19 15:28:07",
       "album": {
         "name": "Bach, JS : Well-Tempered Clavier Books 1 & 2",
         "url": "https://open.spotify.com/album/66zilH1HJzRLEorco0u6bS"
@@ -513,7 +561,7 @@
       "url": "https://open.spotify.com/track/3YMtL47xfTkFJHjAu8Snr8"
     },
     {
-      "added_at": "2023-04-14 08:49:13",
+      "added_at": "2023-05-19 15:28:07",
       "album": {
         "name": "Rusty's Ballad",
         "url": "https://open.spotify.com/album/0TSPCRCHOY6rnGxcCklrxF"
@@ -529,7 +577,7 @@
       "url": "https://open.spotify.com/track/2GB1uEIsHWNoXldwN6mtyI"
     },
     {
-      "added_at": "2023-04-14 08:49:13",
+      "added_at": "2023-05-19 15:28:07",
       "album": {
         "name": "Mozart: Piano Sonatas Nos. 15 & 16; Rondo in A minor",
         "url": "https://open.spotify.com/album/6krZ3BTfSZmA4OVceOAttH"
@@ -547,24 +595,8 @@
       "duration_ms": 420413,
       "name": "Piano Sonata No. 16 in C Major, K. 545 \"Sonata facile\": II. Andante",
       "url": "https://open.spotify.com/track/6IKPX55mQL42ELcLIkK0Ci"
-    },
-    {
-      "added_at": "2023-04-14 08:49:13",
-      "album": {
-        "name": "Spook's Ditty",
-        "url": "https://open.spotify.com/album/4BNnFQGH2sQxxQZBxSuQxI"
-      },
-      "artists": [
-        {
-          "name": "David Teie",
-          "url": "https://open.spotify.com/artist/0TMyZy9NGJJ7NKMAgCgw6B"
-        }
-      ],
-      "duration_ms": 115146,
-      "name": "Spook's Ditty",
-      "url": "https://open.spotify.com/track/50UO61QfF5DuAkegNrFzOv"
     }
   ],
-  "unique_name": "Mellow Meowsic",
+  "unique_name": "Cat Calming Music",
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX5cXGtVmblSB"
 }

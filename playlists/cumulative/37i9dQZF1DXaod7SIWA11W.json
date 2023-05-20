@@ -2327,6 +2327,24 @@
     },
     {
       "album": {
+        "name": "New Me",
+        "url": "https://open.spotify.com/album/3HxJp2yggz9PmJAMV7kem2"
+      },
+      "artists": [
+        {
+          "name": "Asha Elia",
+          "url": "https://open.spotify.com/artist/60CbU4u8dlhoHzRCNhTA1S"
+        }
+      ],
+      "date_added": "2023-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166000,
+      "name": "New Me",
+      "url": "https://open.spotify.com/track/6brsm8V6sd9YhiWs8NqzoD"
+    },
+    {
+      "album": {
         "name": "Nights In Atlanta",
         "url": "https://open.spotify.com/album/1OlLegTQGhMbpOtCtWekkE"
       },
@@ -2400,7 +2418,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 284000,
       "name": "Not Forgotten",
       "url": "https://open.spotify.com/track/4qWKcYBCgtY1fhVkC6v9Lo"

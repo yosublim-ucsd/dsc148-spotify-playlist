@@ -1,12 +1,12 @@
 {
   "description": "Cl\u00e1sicas rom\u00e1nticas, melodiosas, apacibles.",
-  "num_followers": 60917,
+  "num_followers": 61063,
   "original_name": "bohemia tranqui",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3N2Q1ZWRhZWU5MDQ3NzM4YWEzYzg3MjFkYTE1YTlhMTVhMmI5ZDNi",
+  "snapshot_id": "MCwyYjgzODI4ODhhZjgyZTMwMWI1Y2NjMmFhYmNjOGJlYmIzYzBiY2Fi",
   "tracks": [
     {
       "added_at": "2021-12-25 17:56:56",
@@ -623,6 +623,22 @@
     {
       "added_at": "2021-12-25 17:56:56",
       "album": {
+        "name": "Con Cierto Aire a Ti",
+        "url": "https://open.spotify.com/album/3sE2cw64lJ7L5jqbBkDcBA"
+      },
+      "artists": [
+        {
+          "name": "Fernando Delgadillo",
+          "url": "https://open.spotify.com/artist/3dzMXO1RxEyQnFemhMIvnc"
+        }
+      ],
+      "duration_ms": 178773,
+      "name": "Hoy Ten Miedo De Mi",
+      "url": "https://open.spotify.com/track/4gXv9Rw5aLPkgzdhKFBCir"
+    },
+    {
+      "added_at": "2021-12-25 17:56:56",
+      "album": {
         "name": "Te Amo Tv - Exitos Originales de las Telenovelas",
         "url": "https://open.spotify.com/album/2RagZoyWYlwFcLJSp4VPFG"
       },
@@ -659,22 +675,6 @@
     {
       "added_at": "2021-12-25 17:56:56",
       "album": {
-        "name": "Con Cierto Aire a Ti",
-        "url": "https://open.spotify.com/album/3sE2cw64lJ7L5jqbBkDcBA"
-      },
-      "artists": [
-        {
-          "name": "Fernando Delgadillo",
-          "url": "https://open.spotify.com/artist/3dzMXO1RxEyQnFemhMIvnc"
-        }
-      ],
-      "duration_ms": 178773,
-      "name": "Hoy Ten Miedo De Mi",
-      "url": "https://open.spotify.com/track/4gXv9Rw5aLPkgzdhKFBCir"
-    },
-    {
-      "added_at": "2021-12-25 17:56:56",
-      "album": {
         "name": "El Concierto",
         "url": "https://open.spotify.com/album/6efyUFJcUK18KRFTMoxNSI"
       },
@@ -691,22 +691,6 @@
     {
       "added_at": "2021-12-25 17:56:56",
       "album": {
-        "name": "Dedicado A Antonio Machado, Poeta",
-        "url": "https://open.spotify.com/album/3EF2QL5cEctLrXwNqTIBZX"
-      },
-      "artists": [
-        {
-          "name": "Joan Manuel Serrat",
-          "url": "https://open.spotify.com/artist/1t7t8q4zoYHp22JLIx3FM7"
-        }
-      ],
-      "duration_ms": 196826,
-      "name": "Cantares",
-      "url": "https://open.spotify.com/track/3sjv1TBUwUjXeyUrsH3DwJ"
-    },
-    {
-      "added_at": "2021-12-25 17:56:56",
-      "album": {
         "name": "Vida",
         "url": "https://open.spotify.com/album/0EdYPXNaKi8QOBwq1C13jM"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 133960,
       "name": "Necesito",
       "url": "https://open.spotify.com/track/7H62s62eUQqYXTA3WsrTK7"
+    },
+    {
+      "added_at": "2021-12-25 17:56:56",
+      "album": {
+        "name": "Dedicado A Antonio Machado, Poeta",
+        "url": "https://open.spotify.com/album/3EF2QL5cEctLrXwNqTIBZX"
+      },
+      "artists": [
+        {
+          "name": "Joan Manuel Serrat",
+          "url": "https://open.spotify.com/artist/1t7t8q4zoYHp22JLIx3FM7"
+        }
+      ],
+      "duration_ms": 196826,
+      "name": "Cantares",
+      "url": "https://open.spotify.com/track/3sjv1TBUwUjXeyUrsH3DwJ"
     },
     {
       "added_at": "2021-12-25 17:56:56",
@@ -771,22 +771,6 @@
     {
       "added_at": "2021-12-25 17:56:56",
       "album": {
-        "name": "Mediterr\u00e1neo",
-        "url": "https://open.spotify.com/album/7h6vVYPUiuDF6KKcqMdE72"
-      },
-      "artists": [
-        {
-          "name": "Joan Manuel Serrat",
-          "url": "https://open.spotify.com/artist/1t7t8q4zoYHp22JLIx3FM7"
-        }
-      ],
-      "duration_ms": 110266,
-      "name": "Aquellas Peque\u00f1as Cosas",
-      "url": "https://open.spotify.com/track/0AYP9qfJJumsxSOZF3MndI"
-    },
-    {
-      "added_at": "2021-12-25 17:56:56",
-      "album": {
         "name": "Coleccion de Oro",
         "url": "https://open.spotify.com/album/03qbgosLANCuqg2jUgmI9V"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 319053,
       "name": "19 Dias y 500 Noches - En Directo",
       "url": "https://open.spotify.com/track/3LXFi1Xk9qJsYXYEjDcuVH"
+    },
+    {
+      "added_at": "2021-12-25 17:56:56",
+      "album": {
+        "name": "Grandes Exitos",
+        "url": "https://open.spotify.com/album/1PCiyADys8TTu8HrSFrTAl"
+      },
+      "artists": [
+        {
+          "name": "Mocedades",
+          "url": "https://open.spotify.com/artist/4Sm7JCttzWMwHJtb3UJ8SY"
+        }
+      ],
+      "duration_ms": 214573,
+      "name": "Eres T\u00fa",
+      "url": "https://open.spotify.com/track/08HeIb9BidFjKROf9ptln0"
     }
   ],
   "unique_name": "bohemia tranqui",

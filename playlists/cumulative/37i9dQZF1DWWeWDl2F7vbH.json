@@ -56,10 +56,28 @@
       ],
       "date_added": "2021-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 272419,
       "name": "Acid Thunder",
       "url": "https://open.spotify.com/track/25cVyUYzONCdHUeFWKbOol"
+    },
+    {
+      "album": {
+        "name": "Jack to the Sound",
+        "url": "https://open.spotify.com/album/0KByzJihmyYCbWcc8sQoba"
+      },
+      "artists": [
+        {
+          "name": "Fast Eddie",
+          "url": "https://open.spotify.com/artist/19slOlozrbxkEIMD8L3Qsv"
+        }
+      ],
+      "date_added": "2021-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272419,
+      "name": "Acid Thunder",
+      "url": "https://open.spotify.com/track/2NTqxccIvg6wlA8xnQDN4F"
     },
     {
       "album": {
@@ -222,10 +240,28 @@
       ],
       "date_added": "2021-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 412031,
       "name": "Can U Dance - Original",
       "url": "https://open.spotify.com/track/3fwERi4c7YGnHFEVnwGTQm"
+    },
+    {
+      "album": {
+        "name": "Can U Dance",
+        "url": "https://open.spotify.com/album/05Itt9gUMoKbsQl8yXCnjX"
+      },
+      "artists": [
+        {
+          "name": "Fast Eddie",
+          "url": "https://open.spotify.com/artist/19slOlozrbxkEIMD8L3Qsv"
+        }
+      ],
+      "date_added": "2021-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 412031,
+      "name": "Can U Dance - Original",
+      "url": "https://open.spotify.com/track/6AxkOjxSv2lMNemScGfdMc"
     },
     {
       "album": {

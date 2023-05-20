@@ -1,13 +1,29 @@
 {
   "description": "The best in blues right now. Cover: Robert Finley",
-  "num_followers": 47072,
+  "num_followers": 47108,
   "original_name": "Got Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhMTFjYzQ2MDdhOTdlZmYzYjdhZGMyZTNiNmFmYTg3MzM4YzliYWM0",
+  "snapshot_id": "MCw3MmVlMGI4OWU0M2EwNGYxZjIzOTVkMDhlYzViMGVkYWJmMGU5ZTRi",
   "tracks": [
+    {
+      "added_at": "2023-05-19 04:01:00",
+      "album": {
+        "name": "I Want To Shout About It",
+        "url": "https://open.spotify.com/album/4msee0HokeDJun37ZYZLLl"
+      },
+      "artists": [
+        {
+          "name": "Joe Bonamassa",
+          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
+        }
+      ],
+      "duration_ms": 252493,
+      "name": "I Want To Shout About It",
+      "url": "https://open.spotify.com/track/6MJzbRnxAbQ2Uke7e5vM2H"
+    },
     {
       "added_at": "2023-04-28 04:01:00",
       "album": {
@@ -23,6 +39,22 @@
       "duration_ms": 212200,
       "name": "Caldonia",
       "url": "https://open.spotify.com/track/3JhhFy0eBmSqNOegoaIUff"
+    },
+    {
+      "added_at": "2023-05-19 04:01:00",
+      "album": {
+        "name": "Hard To Be A Human",
+        "url": "https://open.spotify.com/album/1eJg3HW3Tn3xyK9Jh5Ot7U"
+      },
+      "artists": [
+        {
+          "name": "Bettye LaVette",
+          "url": "https://open.spotify.com/artist/55U998XxmxjicLMKDSz6R3"
+        }
+      ],
+      "duration_ms": 280040,
+      "name": "Hard To Be A Human",
+      "url": "https://open.spotify.com/track/7hFfgsKkk0mbUiSuWElzTW"
     },
     {
       "added_at": "2023-03-24 04:01:00",
@@ -61,6 +93,22 @@
       "url": "https://open.spotify.com/track/6Yk0t2210xFtLnUl0hkYDp"
     },
     {
+      "added_at": "2023-05-19 04:01:00",
+      "album": {
+        "name": "Coal Black Mattie",
+        "url": "https://open.spotify.com/album/5GdxUn0QJrJxbFJ0HGswI1"
+      },
+      "artists": [
+        {
+          "name": "R.L. Boyce",
+          "url": "https://open.spotify.com/artist/1VlyvUDK8pOr27GdfTc9i2"
+        }
+      ],
+      "duration_ms": 229696,
+      "name": "Coal Black Mattie",
+      "url": "https://open.spotify.com/track/180C2riJpRHFruOPpYTPIn"
+    },
+    {
       "added_at": "2023-03-17 04:01:00",
       "album": {
         "name": "Hey Sweet Mama",
@@ -81,6 +129,26 @@
       "url": "https://open.spotify.com/track/1MOMr9SOh60lG2LH2Q6KcR"
     },
     {
+      "added_at": "2023-05-19 04:01:00",
+      "album": {
+        "name": "Highway Child",
+        "url": "https://open.spotify.com/album/5h2QjoLFHdRuYLcY4HYMF3"
+      },
+      "artists": [
+        {
+          "name": "Joanna Connor",
+          "url": "https://open.spotify.com/artist/0MJGyEl8BgJbBTv3xeeFeB"
+        },
+        {
+          "name": "Joe Bonamassa",
+          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
+        }
+      ],
+      "duration_ms": 212601,
+      "name": "Highway Child",
+      "url": "https://open.spotify.com/track/3DPTfbre7I9FHWnY1SgHLe"
+    },
+    {
       "added_at": "2023-05-12 04:01:00",
       "album": {
         "name": "Last Time",
@@ -99,26 +167,6 @@
       "duration_ms": 151919,
       "name": "Last Time",
       "url": "https://open.spotify.com/track/5y0qdBH20kqP3xCWP2UmQt"
-    },
-    {
-      "added_at": "2023-05-05 04:01:00",
-      "album": {
-        "name": "Best Of Me",
-        "url": "https://open.spotify.com/album/5yUt1cDO7CNBnEtyJS1aP9"
-      },
-      "artists": [
-        {
-          "name": "Joanna Connor",
-          "url": "https://open.spotify.com/artist/0MJGyEl8BgJbBTv3xeeFeB"
-        },
-        {
-          "name": "Grooveline Horns",
-          "url": "https://open.spotify.com/artist/5KhWcpf9kE1qqoT9e8S743"
-        }
-      ],
-      "duration_ms": 234939,
-      "name": "Best Of Me",
-      "url": "https://open.spotify.com/track/0VbJ3cy7fxcHgNiAA29jXl"
     },
     {
       "added_at": "2023-03-17 04:01:00",
@@ -1433,22 +1481,6 @@
       "url": "https://open.spotify.com/track/0vD4NlJVWTYE8rdj1UGsAt"
     },
     {
-      "added_at": "2021-10-29 04:01:00",
-      "album": {
-        "name": "Time Clocks",
-        "url": "https://open.spotify.com/album/1suaXSbT97Vm2D8x2N6cnD"
-      },
-      "artists": [
-        {
-          "name": "Joe Bonamassa",
-          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
-        }
-      ],
-      "duration_ms": 377360,
-      "name": "Mind\u2019s Eye",
-      "url": "https://open.spotify.com/track/19vLbTpnjkQtcCTaHVPQUm"
-    },
-    {
       "added_at": "2021-10-15 04:01:00",
       "album": {
         "name": "Buffalo Nichols",
@@ -1561,26 +1593,6 @@
       "url": "https://open.spotify.com/track/48WPGpuRXtUYWa353MFFtU"
     },
     {
-      "added_at": "2021-10-22 04:02:00",
-      "album": {
-        "name": "Traveler's Blues",
-        "url": "https://open.spotify.com/album/1FvSXWIYbHm4plK9ytVaLd"
-      },
-      "artists": [
-        {
-          "name": "Blues Traveler",
-          "url": "https://open.spotify.com/artist/3pHeBYl1yujXcZqqfF1UyQ"
-        },
-        {
-          "name": "Jared James Nichols",
-          "url": "https://open.spotify.com/artist/2l7Z2HP9bqMaMFSdPP012g"
-        }
-      ],
-      "duration_ms": 203466,
-      "name": "Keep Your Light on Mama",
-      "url": "https://open.spotify.com/track/04XadPndIKcDvzl9RDZ0hQ"
-    },
-    {
       "added_at": "2021-11-05 04:00:00",
       "album": {
         "name": "Open Road",
@@ -1643,26 +1655,6 @@
       "duration_ms": 177693,
       "name": "Further",
       "url": "https://open.spotify.com/track/3e11gcdBWpIPpgDsHuJ1K3"
-    },
-    {
-      "added_at": "2021-08-06 04:01:00",
-      "album": {
-        "name": "Under Your Spell",
-        "url": "https://open.spotify.com/album/5k0hBiaEUAwqu54TauMa4T"
-      },
-      "artists": [
-        {
-          "name": "Tito Jackson",
-          "url": "https://open.spotify.com/artist/1laENy18mrm9kaI9BJUbdP"
-        },
-        {
-          "name": "Joe Bonamassa",
-          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
-        }
-      ],
-      "duration_ms": 173508,
-      "name": "Under Your Spell",
-      "url": "https://open.spotify.com/track/1n4OzgYj9CwubUx7vhf1uD"
     },
     {
       "added_at": "2021-08-13 04:01:00",

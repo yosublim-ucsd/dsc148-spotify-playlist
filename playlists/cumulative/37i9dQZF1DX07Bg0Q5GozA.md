@@ -4,7 +4,7 @@
 
 > New music off the beaten track\. Cover: Tensnake, Jessy Lanza
 
-320 songs - 23 hr 15 min
+321 songs - 23 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -270,7 +270,7 @@
 | [Song We Used To Play](https://open.spotify.com/track/4AqvXjFOmod2uemT2teqUU) | [Rangleklods](https://open.spotify.com/artist/1p2jAzBu31C2CoORbhZROz) | [Song We Used To Play](https://open.spotify.com/album/1Cmna1SsvPrwbi9vz6jsTM) | 3:02 | 2023-04-20 |  |
 | [Sports](https://open.spotify.com/track/4oYQsnDWE7JONr1yC9dmYM) | [yunè pinku](https://open.spotify.com/artist/2sY4BbYrbvNVgsNzo6HddD) | [Sports](https://open.spotify.com/album/3O9r5PoJDRmhHHuH4NDsv6) | 3:01 | 2023-03-23 |  |
 | [State of Confusion \(feat\. Joi Cardwell\) \- The Maurice Fulton Remix](https://open.spotify.com/track/4vCFxcHwHs8I35BApqfzwp) | [Honey Dijon](https://open.spotify.com/artist/0XfQBWgzisaS9ltDV9bXAS), [Joi Cardwell](https://open.spotify.com/artist/1t6dTIhZsZgxGUHycTVnDZ), [Maurice Fulton](https://open.spotify.com/artist/4T6l995AHz8HCY7TCfQorD) | [Xtra](https://open.spotify.com/album/4Moj5LDMB4UGaWVo51y1RH) | 6:34 | 2022-12-30 | 2023-01-02 |
-| [Stay Awhile](https://open.spotify.com/track/1GoUZK5UgNAVdz6wcJ9Eml) | [Röyksopp](https://open.spotify.com/artist/5nPOO9iTcrs9k6yFffPxjH), [Susanne Sundfør](https://open.spotify.com/artist/54KCNI7URCrG6yjQK3Ukow) | [Stay Awhile](https://open.spotify.com/album/2q6RGFe2ZnsWwZP7mJKklm) | 6:11 | 2022-12-15 |  |
+| [Stay Awhile](https://open.spotify.com/track/1GoUZK5UgNAVdz6wcJ9Eml) | [Röyksopp](https://open.spotify.com/artist/5nPOO9iTcrs9k6yFffPxjH), [Susanne Sundfør](https://open.spotify.com/artist/54KCNI7URCrG6yjQK3Ukow) | [Stay Awhile](https://open.spotify.com/album/2q6RGFe2ZnsWwZP7mJKklm) | 6:11 | 2022-12-15 | 2023-05-20 |
 | [Still There](https://open.spotify.com/track/68Lyc2FM0k5S5uVM7RlEYM) | [Kerala Dust](https://open.spotify.com/artist/6lK8O3kyFThiTmgowQZGOH) | [Still There](https://open.spotify.com/album/6Gljo8qN1uZXCFIAZkJ3QZ) | 5:14 | 2023-01-19 |  |
 | [Stop Explaining](https://open.spotify.com/track/4uEDKomPhMtis1zYDQMmUO) | [Verboten Berlin](https://open.spotify.com/artist/6RNhl0w2Lfem0Xjy3l0LKX), [LOHRE](https://open.spotify.com/artist/5JaMZwLpVjKZ2GQoSX4EVN) | [Stop Explaining](https://open.spotify.com/album/2ZO2mtq7sLt62pr0YLJX73) | 4:25 | 2022-12-15 | 2023-02-10 |
 | [strange love](https://open.spotify.com/track/2qEu3k0PN2FzXP32h8aa6m) | [byelian](https://open.spotify.com/artist/7ow8DBsuPdfjt83fdeDRzn) | [strange love](https://open.spotify.com/album/58rxRlN5yLTcZVSoBKYhlJ) | 3:44 | 2022-12-15 | 2023-01-06 |
@@ -305,6 +305,7 @@
 | [Under the Stars \- Ray Mang Remix](https://open.spotify.com/track/3P9IInpHAewgv4C4JQaQxK) | [Cantoma](https://open.spotify.com/artist/2OCGJk1N7eN9faLPLs07Ax), [Ray Mang](https://open.spotify.com/artist/5QfdDWfSLE8qbMDIJgCTy2) | [Out of Town \(The Remixes\)](https://open.spotify.com/album/5ZxRzo6FnmbsR4Y5EiDjdU) | 9:35 | 2022-12-30 | 2023-01-02 |
 | [Unity \- Agar Agar Remix](https://open.spotify.com/track/6VTSDSzkuyFYs8DxIKd8gB) | [Nina Hagen](https://open.spotify.com/artist/7xZHrltZh8zIRvjimgABvj), [Agar Agar](https://open.spotify.com/artist/5TkylUv5ysSbNoawmn3PBj) | [Unity \(Agar Agar Remix\)](https://open.spotify.com/album/2vJKrrqbLh6c8kqvYTXM7K) | 4:29 | 2023-01-05 | 2023-01-27 |
 | [upside down](https://open.spotify.com/track/0wdD6gKfjarthX7J6jFUKj) | [narou](https://open.spotify.com/artist/4WZfEIgHLAMmAxATgVjspH) | [upside down](https://open.spotify.com/album/3NMmDrvPdvbkqWPZfxsYJv) | 3:20 | 2023-02-09 | 2023-02-24 |
+| [Venera](https://open.spotify.com/track/6U9rAS28uOHyf5NZCYyt0J) | [George FitzGerald](https://open.spotify.com/artist/3KOHpygRuo1ruQAbEneR3t) | [Venera](https://open.spotify.com/album/73tJXZqhpawO8j29HGtqA9) | 3:47 | 2023-05-19 |  |
 | [Voodoo? \- Lazywax Remix](https://open.spotify.com/track/2wHeYDrniYngp3did3McYD) | [L'Impératrice](https://open.spotify.com/artist/4PwlsrN0t5mLN0C827cbEU), [Lazywax](https://open.spotify.com/artist/0JmfcW7ntKscmNRiLbKEcw) | [Voodoo? \(Lazywax Remix\)](https://open.spotify.com/album/4Lbd1wUo222I65CLuxYEj9) | 6:26 | 2022-12-30 | 2023-01-02 |
 | [Voyager \- Piano Mix](https://open.spotify.com/track/1cHNSKmh4kG74cBJLqtiTQ) | [Coeo](https://open.spotify.com/artist/3OoNpyvA82LedOZWG3WE8Z) | [Music for Friends](https://open.spotify.com/album/52a86nI0lTfZV8YQQKSzBJ) | 6:41 | 2022-12-30 | 2023-01-02 |
 | [Voyager 2](https://open.spotify.com/track/5KK9nUtYsLyyYUQBQKEgom) | [Paul Epworth](https://open.spotify.com/artist/04ouBKIoUizgF9j6v6TWR8), [Matty](https://open.spotify.com/artist/7K1kHQsB2m87TMVcDbZAfW) | [Voyager](https://open.spotify.com/album/5ZXeNkLgpsyT2M5sWjNEvd) | 9:44 | 2022-12-30 | 2023-01-02 |

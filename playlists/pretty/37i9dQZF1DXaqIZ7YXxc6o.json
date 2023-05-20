@@ -1,12 +1,12 @@
 {
   "description": "Future Dance hits. Cover: Kinder",
-  "num_followers": 133687,
+  "num_followers": 133703,
   "original_name": "New Dance Beats",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmYjAwMzI5N2M5NjUzMzk2MmQ4MGZiOGZlMmNhMmM4YmY3MmFhMzM3",
+  "snapshot_id": "MCxmNTIxYjBjM2FiNDgyN2FiZDdlMTZjMWVhNzYzMDRmNTQwZmNkZmY3",
   "tracks": [
     {
       "added_at": "2023-05-18 14:53:50",
@@ -167,6 +167,22 @@
     {
       "added_at": "2023-05-18 14:53:50",
       "album": {
+        "name": "Pub Marge EP",
+        "url": "https://open.spotify.com/album/5wyl0e0xiszpoYxxI2faQG"
+      },
+      "artists": [
+        {
+          "name": "Cut Snake",
+          "url": "https://open.spotify.com/artist/5z7jsdhxqvsOxzZxfVF236"
+        }
+      ],
+      "duration_ms": 290952,
+      "name": "Pub Marge - Original Mix",
+      "url": "https://open.spotify.com/track/140EwvWqRdWL3CO3Kt7W4l"
+    },
+    {
+      "added_at": "2023-05-18 14:53:50",
+      "album": {
         "name": "Dance Around It",
         "url": "https://open.spotify.com/album/6vxZwJ7nz8OQ8UbEI4maOt"
       },
@@ -296,7 +312,7 @@
       "added_at": "2023-05-18 14:53:50",
       "album": {
         "name": "Stars",
-        "url": "https://open.spotify.com/album/2Ow9GPsc5afUdPrLZBT6Uo"
+        "url": "https://open.spotify.com/album/05fkFs9DM4TpNGaDotqF8O"
       },
       "artists": [
         {
@@ -314,7 +330,7 @@
       ],
       "duration_ms": 171233,
       "name": "Stars",
-      "url": "https://open.spotify.com/track/2fNaMBJBFpv1PQ1zXkxIcO"
+      "url": "https://open.spotify.com/track/3mC64Smtz0xXvsa52ZM3Q9"
     },
     {
       "added_at": "2023-05-18 14:53:50",

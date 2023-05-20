@@ -631,6 +631,24 @@
     },
     {
       "album": {
+        "name": "LOST",
+        "url": "https://open.spotify.com/album/5LAeTXhPrXuYtoufcplUDu"
+      },
+      "artists": [
+        {
+          "name": "FLOW",
+          "url": "https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243134,
+      "name": "LOST",
+      "url": "https://open.spotify.com/track/6aVfbXl9xV7de7vaFxnYb6"
+    },
+    {
+      "album": {
         "name": "New World",
         "url": "https://open.spotify.com/album/0AXTw7cuAXPoXaRpYD912o"
       },
@@ -1054,7 +1072,7 @@
       ],
       "date_added": "2022-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 219707,
       "name": "Winter Story",
       "url": "https://open.spotify.com/track/5v5eCRsO7yJXcq2DGtlhVB"

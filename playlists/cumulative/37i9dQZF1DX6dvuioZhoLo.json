@@ -272,7 +272,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 275114,
       "name": "Broken Wing",
       "url": "https://open.spotify.com/track/1OGVxDEyybBtIFSECRQA2A"
@@ -3398,6 +3398,24 @@
       "duration_ms": 156021,
       "name": "Today I Started Loving You Again",
       "url": "https://open.spotify.com/track/1mD2DWCvXN13LJBmRttH2I"
+    },
+    {
+      "album": {
+        "name": "Tom Turkey (Alternate Version)",
+        "url": "https://open.spotify.com/album/19xJ5beC0Fmqc9pRl71Sfs"
+      },
+      "artists": [
+        {
+          "name": "Charley Crockett",
+          "url": "https://open.spotify.com/artist/3BJX1nYizKvWpZTY5HOAr4"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234656,
+      "name": "Tom Turkey - Alternate Version",
+      "url": "https://open.spotify.com/track/2dYWKTtBO7YxKNHJ6yFk05"
     },
     {
       "album": {

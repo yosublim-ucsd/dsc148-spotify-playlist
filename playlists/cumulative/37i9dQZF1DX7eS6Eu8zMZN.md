@@ -4,13 +4,14 @@
 
 > Rock tranqui para concentrarse.
 
-61 songs - 3 hr 40 min
+65 songs - 3 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [Abarajame](https://open.spotify.com/track/0CNAg3D3Ox1MggIed6Ktcs) | [Maribel Sur](https://open.spotify.com/artist/6RUOKxDTKgQE0baELaHJcf) | [Abarajame](https://open.spotify.com/album/2nBayLIl2VnOCQo7EdCsbw) | 3:04 | 2021-05-13 |  |
 | [Afuera](https://open.spotify.com/track/1k7qwrtL7ZTaZsUwj7KjXJ) | [Jenny Beaujean y Benjamin Garcia](https://open.spotify.com/artist/06izVjPOksdkMjJ3NUDfky) | [Afuera](https://open.spotify.com/album/073Ba74ZF7WrtuzZHmoQRw) | 3:38 | 2021-05-13 |  |
 | [Agua](https://open.spotify.com/track/76yx6d2cnxogqq5EeWAGGv) | [Valeria Castro](https://open.spotify.com/artist/7JTVqKJ414qRPuDPhdKnHD) | [Agua](https://open.spotify.com/album/18lEH8fgVYdkUBTDK0IPyu) | 4:00 | 2021-05-13 |  |
+| [Atardeció sin vos](https://open.spotify.com/track/1S588EBvuLIOFffQSar9uF) | [El David](https://open.spotify.com/artist/61h5RLs6eo1eapzuDzoA5b) | [¿Cómo decir adiós?](https://open.spotify.com/album/4moI6Cg4KkngLNaPJNQv0T) | 2:36 | 2023-05-19 |  |
 | [Aunque no sea conmigo \(feat\. Café Tacvba\)](https://open.spotify.com/track/199gJ6b1aihvmEqdQZr0qT) | [Celso Piña](https://open.spotify.com/artist/6PmfbeAL7jAauFPNyQ5UPi), [Café Tacvba](https://open.spotify.com/artist/09xj0S68Y1OU1vHMCZAIvz) | [Barrio Bravo](https://open.spotify.com/album/0ZCip2zkf5EGx7j4QeRRUD) | 3:33 | 2021-05-13 |  |
 | [Bolero Falaz](https://open.spotify.com/track/0B6vcicywjS5S1AKq0BttX) | [Maribel Sur](https://open.spotify.com/artist/6RUOKxDTKgQE0baELaHJcf) | [Bolero Falaz](https://open.spotify.com/album/4pLS5CLe2cnjNEZQQkB0R0) | 4:23 | 2021-05-13 |  |
 | [Celofán](https://open.spotify.com/track/1sNz5k4POwNzx9AZUdyjNK) | [Babasónicos](https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2) | [Romantisísmico](https://open.spotify.com/album/1x93LZe2PKKrgePH2GZjCP) | 3:15 | 2021-05-13 |  |
@@ -30,6 +31,7 @@
 | [Fin](https://open.spotify.com/track/3yxoXsE9d1DTg6f1TGESig) | [Islas](https://open.spotify.com/artist/0Ey9sUJ5fIAchqOFifarhX) | [Fin](https://open.spotify.com/album/1x2xsNNECv8DSisudpo0Nm) | 3:36 | 2021-05-13 |  |
 | [Fotografía \- En Directo](https://open.spotify.com/track/4csQ5jSxzM9NOmqjHhUHBj) | [Jumbo](https://open.spotify.com/artist/55qSbU11psT1e0HlLaTZPB), [Jay de la Cueva](https://open.spotify.com/artist/2PQW0MnXmZd19XKZQyoPgu) | [Manual De Viaje A Un Lugar Lejano \(En Directo\)](https://open.spotify.com/album/2ulvRTw9dtLhbHO5msBG2t) | 5:00 | 2021-05-13 |  |
 | [Hasta La Raiz](https://open.spotify.com/track/7xke3tSdPhIekPZh6ZoOfJ) | [Marcol](https://open.spotify.com/artist/0Hdrbof7h3qTZdg39r7HPP) | [Hasta La Raíz](https://open.spotify.com/album/3T4Tkh71yxMKEpd84nt0DT) | 2:44 | 2021-05-13 |  |
+| [Hogar](https://open.spotify.com/track/03DmOgo2fx4S5Baa0OzQbP) | [Anthrés](https://open.spotify.com/artist/69euPppXM1JP7UYXzKBvi4) | [Hogar](https://open.spotify.com/album/0kwVjm6F6vGo2Ef1G2mc4Q) | 2:52 | 2023-05-19 |  |
 | [Háblame \- Versión Acústica](https://open.spotify.com/track/1kHMWedCQgnOk8CKNlq3PQ) | [Beto Cuevas](https://open.spotify.com/artist/0kUZTk2JLPEAUyCWoN6eoL) | [Miedo Escénico](https://open.spotify.com/album/5xcCfpy6FkNrMEVTiOhuom) | 5:16 | 2021-05-13 | 2022-07-29 |
 | [Háblame \- Versión Acústica](https://open.spotify.com/track/5N1OvG5Hu2XpKpMSNwyEh8) | [Beto Cuevas](https://open.spotify.com/artist/0kUZTk2JLPEAUyCWoN6eoL) | [Háblame](https://open.spotify.com/album/5zXa4mmHtwLtfeu3n3xyaK) | 5:16 | 2021-05-13 |  |
 | [Infinito](https://open.spotify.com/track/6vDU3LYv7ElyyDqghIbYNO) | [Leopoldo Lopez](https://open.spotify.com/artist/4eiT8IHB1FaTzRyvkyyI3q) | [Infinito](https://open.spotify.com/album/0lNsHCDXKw0g7uhypZLlm1) | 3:40 | 2021-05-13 |  |
@@ -63,7 +65,9 @@
 | [Querer](https://open.spotify.com/track/49drBO7rVHCvJjcb9Rmekf) | [Chetes](https://open.spotify.com/artist/5sIuOfUs74K1zFv5BqVaQY) | [Efecto Dominó](https://open.spotify.com/album/54Bbckv221mUWGvDbJnffb) | 3:37 | 2021-05-13 |  |
 | [Rayando El Sol](https://open.spotify.com/track/0eh9gAGvtaLI8cIzKsdCgn) | [Jenny Beaujean y Benjamin Garcia](https://open.spotify.com/artist/06izVjPOksdkMjJ3NUDfky) | [Rayando El Sol](https://open.spotify.com/album/7Hbcex3ZqA8hk0kcTq4PLe) | 3:59 | 2021-05-13 |  |
 | [Rubén Darío](https://open.spotify.com/track/1vskUVln9JuRuFGf3rrDdZ) | [Ray Coyote](https://open.spotify.com/artist/37PhbUQE6PD7dg6wnHqFth) | [Ray Coyote II: Ojos De La Sierra](https://open.spotify.com/album/50QIvqQyh7MhRxso4qIqIP) | 3:16 | 2023-02-24 |  |
+| [Si es que estás ahí](https://open.spotify.com/track/03oIgkJPaVyFokpfa2fLem) | [Paulo Fuerte](https://open.spotify.com/artist/1msYSykwIu05HEXvjN5Xn8) | [Si es que estás ahí](https://open.spotify.com/album/3XyVBfhzIszwjcMorHU4JO) | 3:11 | 2023-05-19 |  |
 | [Soñe](https://open.spotify.com/track/35tKDCAmNFueq5KmvGkzRr) | [Aline Terrein](https://open.spotify.com/artist/1KHhTDB0lBCXqm54Fseodx) | [Soñé](https://open.spotify.com/album/3zGPOSwv1krOcKkv8QgpBs) | 2:29 | 2021-05-13 |  |
+| [Temo](https://open.spotify.com/track/4oW9mCSE2Dwdd5eXS0n48S) | [Temporada de Girasoles](https://open.spotify.com/artist/3ZZ9qm23N4C9cfHeeb2u6i) | [Temo](https://open.spotify.com/album/4Jvwh8dMjgsSiF40g9NDwo) | 4:30 | 2023-05-19 |  |
 | [Todavía Me Quedan Amigos](https://open.spotify.com/track/57rWK0GLa8JjO0QFaz9RMV) | [Cristóbal Briceño](https://open.spotify.com/artist/0TE3FlkFJ5OgdyulXv99iX) | [Todavía Me Quedan Amigos](https://open.spotify.com/album/2cm0MawR5HoSR5KPWjt6Kq) | 2:41 | 2023-03-24 |  |
 | [Té para Tres](https://open.spotify.com/track/6b0scCYeLBGT3zyWoZUqJY) | [No Te Va Gustar](https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j) | [Otras Canciones en Vivo en Latinoamérica](https://open.spotify.com/album/4UGpnKpfb814RkAWPUtSVP) | 2:23 | 2021-05-13 |  |
 | [Un Nuevo Amor](https://open.spotify.com/track/65V4v8u4fi7TfnNdyBFzvX) | [Tranzas](https://open.spotify.com/artist/1GfaAWKfZE9hrYS8IqkWKB) | [Parte de Ti](https://open.spotify.com/album/7KU9Rpk67sdhqbJ4TeZuSw) | 3:50 | 2023-03-17 |  |

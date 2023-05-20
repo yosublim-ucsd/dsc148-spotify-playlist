@@ -4,7 +4,7 @@
 
 > Top trending country tracks from the last few months\. Cover: Warren Zeiders
 
-296 songs - 15 hr 44 min
+298 songs - 15 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,12 +50,13 @@
 | [Catching Up With An Ol' Memory](https://open.spotify.com/track/6j9Lnhx9V0oRi18kEUWLdw) | [Clay Walker](https://open.spotify.com/artist/4MPkNgar5uTd8Sqvrr7par) | [Texas to Tennessee](https://open.spotify.com/album/1mP7Dz3kH8vUPkraFnW6a6) | 3:24 | 2022-04-15 | 2022-12-03 |
 | [Changed Everything](https://open.spotify.com/track/6F5BWY0slEWhU80k9Y4sxy) | [Austin Burke](https://open.spotify.com/artist/5jfImMkUYyViFJrhdfYt1c) | [Changed Everything](https://open.spotify.com/album/3nIx98HrK2f40Nw4G87MT0) | 3:46 | 2021-12-31 | 2022-05-20 |
 | [Close to You](https://open.spotify.com/track/6wF6oModvfcuEKNdB0f0Er) | [Jaden Michaels](https://open.spotify.com/artist/4OKeMjg0BPykaJfAbr3dxs) | [Close to You](https://open.spotify.com/album/40cbsi8Xa1QwomJacJR8EQ) | 3:45 | 2022-01-28 | 2022-10-08 |
+| [Country Boy's Dream Girl](https://open.spotify.com/track/1UlwFwRrb4Kth3TwnjBAJV) | [Ella Langley](https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8) | [Country Boy's Dream Girl](https://open.spotify.com/album/6M7Cnkdd1zqazDkHJxHxPJ) | 3:03 | 2023-05-19 |  |
 | [Crazy Angels](https://open.spotify.com/track/0ZOTahGHXAJjKZXtW8aDT6) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Crazy Angels](https://open.spotify.com/album/1LWYFA4ZIyQxM4nX5Cx9EU) | 2:36 | 2022-05-20 | 2023-04-01 |
 | [Crazy One More Time \- Revisited](https://open.spotify.com/track/0jy7nb2V8Twnk6aGz3hqCE) | [Kip Moore](https://open.spotify.com/artist/2hJPr4lk7Q8SSvCVBl9fWM) | [Crazy One More Time \(Revisited\)](https://open.spotify.com/album/4qoFgtGcRTrdlfrIXcrwF9) | 3:51 | 2022-02-11 | 2022-06-25 |
 | [Creek Will Rise](https://open.spotify.com/track/5owS9iWWGd6mDlFjUFzBsw) | [Conner Smith](https://open.spotify.com/artist/0y2FPygoi6LVc75pxCgsMk) | [Creek Will Rise](https://open.spotify.com/album/4UXS7my7tmdX117YcfpXnx) | 2:49 | 2023-04-14 |  |
 | [Damn Strait](https://open.spotify.com/track/4jp9FimhP2bQ93vR0A5r7b) | [Scotty McCreery](https://open.spotify.com/artist/6ZV6lGY0prbqpTD0Md8i29) | [Damn Strait](https://open.spotify.com/album/3WOFt4KvKhIeHN4fckCf5y) | 3:50 | 2022-03-04 | 2022-06-18 |
 | [Damn You](https://open.spotify.com/track/2ChfZlDoaI34ZoAVzzTQQE) | [Ella Langley](https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8) | [Damn You](https://open.spotify.com/album/6C5pn8Iv7yow2MZFhycH0s) | 3:03 | 2022-05-27 | 2022-10-29 |
-| [Damn You](https://open.spotify.com/track/2DvOwcQd7RB5IV7MdlwpvN) | [Ella Langley](https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8) | [Damn You](https://open.spotify.com/album/7zdOR8OO3NCAzsDtFui5Je) | 3:03 | 2022-10-28 |  |
+| [Damn You](https://open.spotify.com/track/2DvOwcQd7RB5IV7MdlwpvN) | [Ella Langley](https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8) | [Damn You](https://open.spotify.com/album/7zdOR8OO3NCAzsDtFui5Je) | 3:03 | 2022-10-28 | 2023-05-20 |
 | [Dance With You](https://open.spotify.com/track/5SIb4S2seQAeCHPXxiNHBL) | [Brett Young](https://open.spotify.com/artist/0fiWOxhsBsQQvFDtxUQWo0) | [Dance With You](https://open.spotify.com/album/7rbVJCe9cnXniQ9cgJW7lp) | 3:03 | 2023-05-05 |  |
 | [Dancin' In The Moonlight \(feat\. Lauren Alaina\)](https://open.spotify.com/track/0pnKcAh5binHOP9HexWwnZ) | [Chris Lane](https://open.spotify.com/artist/68abRTdO4meYReMWHvBYb0), [Lauren Alaina](https://open.spotify.com/artist/1v3tdpIdBSW14rHUfiEVOv) | [Dancin' In The Moonlight \(feat\. Lauren Alaina\)](https://open.spotify.com/album/0UsGyt84mXODfb3IteNHdr) | 3:19 | 2022-06-24 | 2023-04-01 |
 | [Dancin’ In The Country](https://open.spotify.com/track/6Z1bV93BP95h4YjIavrQPf) | [Tyler Hubbard](https://open.spotify.com/artist/3BEV5FcxOtkQJ7lLRKMh3V) | [Dancin' In The Country](https://open.spotify.com/album/5Sb6flBcIYmm5gTGwOVMbn) | 2:59 | 2022-09-09 |  |
@@ -223,6 +224,7 @@
 | [Somewhere Cool With You](https://open.spotify.com/track/2F29A4pp7XDo9X4sunH4LZ) | [Adam Doleac](https://open.spotify.com/artist/4NsVVzuaZGk4aya8Pyacew) | [Somewhere Cool With You](https://open.spotify.com/album/1aUS3qejwUaANXTHdJRiT0) | 2:48 | 2021-12-17 | 2022-03-18 |
 | [Son Of A](https://open.spotify.com/track/1rf3DRmwoWekv6iT30MXlR) | [Dillon Carmichael](https://open.spotify.com/artist/3lvYE3o75PNjyvcKuBPXo6) | [Son Of A](https://open.spotify.com/album/5krj7eQSqb08k9RVxujeJ3) | 3:13 | 2022-03-04 | 2022-06-18 |
 | [Soul](https://open.spotify.com/track/64U6K5ZCoHWsl1d8bL15BX) | [Lee Brice](https://open.spotify.com/artist/5Zq7R5qmi58ByYyBQTlNuk) | [Soul](https://open.spotify.com/album/3WaUbOeg5kXCqbjKJYhSzO) | 2:47 | 2022-02-18 | 2022-05-14 |
+| [Sounds Like Something I'd Do](https://open.spotify.com/track/5QAwDaUIcFOEYfsepGk0Fd) | [Drake Milligan](https://open.spotify.com/artist/4mskfuiHWZ3nX3qAdeaGiR) | [Drake Milligan \- EP](https://open.spotify.com/album/0Dwtk61QlV7qErBqsFTm8u) | 2:26 | 2023-05-19 |  |
 | [Stars Like Confetti](https://open.spotify.com/track/5wtPc1OQ7g1H8FBkwWqbhh) | [Dustin Lynch](https://open.spotify.com/artist/1dID9zgn0OV0Y8ud7Mh2tS) | [Blue In The Sky](https://open.spotify.com/album/58zetIrM1Kf5xf2utMJOJi) | 3:14 | 2023-01-13 | 2023-04-01 |
 | [Start Nowhere](https://open.spotify.com/track/33bMASZzuBL82YERsMyozx) | [Sam Hunt](https://open.spotify.com/artist/2kucQ9jQwuD8jWdtR9Ef38) | [Start Nowhere](https://open.spotify.com/album/2T1qRB6zSSGdNgcTD3Dg8H) | 3:13 | 2023-01-06 |  |
 | [Steady Heart](https://open.spotify.com/track/4QakuMSCrvw79FQV55xx6T) | [Kameron Marlowe](https://open.spotify.com/artist/31n3CN1jSC5ALUJ9dwT8UI) | [Steady Heart](https://open.spotify.com/album/0q2SQtfrwBE53MnkEo82W9) | 3:33 | 2022-01-28 | 2022-03-12 |
@@ -249,7 +251,7 @@
 | [That's Why](https://open.spotify.com/track/1l1quVPNxgMLUPQSS8lIFC) | [Troy Cartwright](https://open.spotify.com/artist/24I45QsPZf5Gr7aVlVmTfr) | [Just Kids](https://open.spotify.com/album/56l79VQBjn3ro34d2ZLP9Z) | 3:01 | 2022-11-02 | 2022-12-17 |
 | [That's Why](https://open.spotify.com/track/2kUoYqpl9wG3VNwxDuHhXQ) | [Troy Cartwright](https://open.spotify.com/artist/24I45QsPZf5Gr7aVlVmTfr) | [That's Why](https://open.spotify.com/album/5cEt8pYzHBDPp9UeFEg3d5) | 3:01 | 2022-04-01 | 2022-10-01 |
 | [That's Why](https://open.spotify.com/track/5o9OzeMgVLS1TPOp0fS5Y6) | [Troy Cartwright](https://open.spotify.com/artist/24I45QsPZf5Gr7aVlVmTfr) | [That's Why](https://open.spotify.com/album/6aj6PTILn9jvGP22OHye06) | 3:01 | 2022-09-30 | 2022-11-07 |
-| [The Good I'll Do](https://open.spotify.com/track/53zCCom4uEoIBaOAEJtjUL) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [American Heartbreak](https://open.spotify.com/album/7IouDrXPdAZwT1NzVV3vef) | 3:31 | 2022-12-02 |  |
+| [The Good I'll Do](https://open.spotify.com/track/53zCCom4uEoIBaOAEJtjUL) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [American Heartbreak](https://open.spotify.com/album/7IouDrXPdAZwT1NzVV3vef) | 3:31 | 2022-12-02 | 2023-05-20 |
 | [The Kind of Love We Make](https://open.spotify.com/track/28n8z9IQKyjMPxmvYMBqZa) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [The Kind of Love We Make](https://open.spotify.com/album/77B78XJKo4LcsrRg34GNTu) | 3:44 | 2022-06-17 | 2023-02-04 |
 | [The Neon](https://open.spotify.com/track/3TVC6xnaZ9A7sljAn96Xsk) | [Hailey Whitters](https://open.spotify.com/artist/4e9TBaTlI3LVQz3tkTYC0I) | [The Neon](https://open.spotify.com/album/7CQGgKnzZNeP8ej48hOYng) | 3:34 | 2022-02-25 | 2022-11-03 |
 | [Therapy](https://open.spotify.com/track/1Hvx88ks6xcxmX0aBi6kOS) | [Peytan Porter](https://open.spotify.com/artist/6uB0wKbu8WGThZDsRmDBkT) | [Therapy](https://open.spotify.com/album/1VKT3dlNWRsdqINYD4jxik) | 2:50 | 2022-03-04 | 2023-02-11 |

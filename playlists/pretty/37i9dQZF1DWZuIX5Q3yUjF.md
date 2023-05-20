@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZuIX5Q3yUjF.md) - [plain]
 
 > Il meglio dell'R&B italiano\. Cover: Federico di Napoli, Livio Cori
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,636 likes - 71 songs - 3 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,650 likes - 71 songs - 3 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,4 +80,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZuIX5Q3yUjF.md) - [plain]
 | 70 | [Brandy & Monica](https://open.spotify.com/track/7D0lKhGUyoJvXA83Gko8ou) | [Martina May](https://open.spotify.com/artist/1nEZxArpiNayoK02nNzJxR), [Kuban](https://open.spotify.com/artist/4Xy59tDL9bQYT98ExQihGG) | [Brandy & Monica](https://open.spotify.com/album/2TGJGvjsRyiNZub7jgeIcM) | 2:40 |
 | 71 | [supernova](https://open.spotify.com/track/1HgQFrZi1J4RuhJ9Z4MAcD) | [anice](https://open.spotify.com/artist/0Sf5IqezdIhXjKogXm0Nad) | [supernova](https://open.spotify.com/album/2LuWFJRsciGayhfir9BNhz) | 2:37 |
 
-Snapshot ID: `MCw3YmIyZWFkMzdmMjMzZTNjMjFiZWI0YzY0MDJjYmU2OWYyY2NhODk2`
+Snapshot ID: `MCw2NzRkNTM0ZGExOGJjZjBlZGIwYTI3NWQ3N2VmOTE2NGIyZWY5ODcw`

@@ -1,12 +1,12 @@
 {
   "description": "O batid\u00e3o dos funks mais bombados pra agitar a pista do seu baile!",
-  "num_followers": 1005489,
+  "num_followers": 1005551,
   "original_name": "Segue o Baile",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2MzZjOGZmNTJjNGQ1NGZiNzEyOTlmZDAyOGE4MjYxNWJmY2IzNjFj",
+  "snapshot_id": "MTY3NzI1NTE4MiwwMDAwMDAwMDBiMmU3NTU0ZmYzNDQxZDA5ZjY4YzdiYmM0YmFiNmQz",
   "tracks": [
     {
       "added_at": "2023-02-24 16:13:02",
@@ -1175,26 +1175,6 @@
     {
       "added_at": "2023-02-24 16:13:02",
       "album": {
-        "name": "S\u00f3 Quer Vrau",
-        "url": "https://open.spotify.com/album/3A3GhqfZV2xJ7qXOox8a1C"
-      },
-      "artists": [
-        {
-          "name": "MC MM",
-          "url": "https://open.spotify.com/artist/3a5ydeAaojKa3CHWe5PVWK"
-        },
-        {
-          "name": "DJ RD",
-          "url": "https://open.spotify.com/artist/0tvACMjTDrW7HCo4F2wiIb"
-        }
-      ],
-      "duration_ms": 160666,
-      "name": "S\u00f3 Quer Vrau",
-      "url": "https://open.spotify.com/track/0DbNuTBlJ5ixoDdHZ523DT"
-    },
-    {
-      "added_at": "2023-02-24 16:13:02",
-      "album": {
         "name": "Espirra o Lan\u00e7a",
         "url": "https://open.spotify.com/album/0Q8Ua0fbWMDzsEdZDFMhu4"
       },
@@ -1211,6 +1191,26 @@
       "duration_ms": 190055,
       "name": "Espirra o Lan\u00e7a",
       "url": "https://open.spotify.com/track/0IOLlXSZt9z2ydmH5FzIj7"
+    },
+    {
+      "added_at": "2023-02-24 16:13:02",
+      "album": {
+        "name": "S\u00f3 Quer Vrau",
+        "url": "https://open.spotify.com/album/3A3GhqfZV2xJ7qXOox8a1C"
+      },
+      "artists": [
+        {
+          "name": "MC MM",
+          "url": "https://open.spotify.com/artist/3a5ydeAaojKa3CHWe5PVWK"
+        },
+        {
+          "name": "DJ RD",
+          "url": "https://open.spotify.com/artist/0tvACMjTDrW7HCo4F2wiIb"
+        }
+      ],
+      "duration_ms": 160666,
+      "name": "S\u00f3 Quer Vrau",
+      "url": "https://open.spotify.com/track/0DbNuTBlJ5ixoDdHZ523DT"
     },
     {
       "added_at": "2023-02-24 16:13:02",
@@ -1451,22 +1451,18 @@
     {
       "added_at": "2023-02-24 16:13:02",
       "album": {
-        "name": "Nem On Nem Off",
-        "url": "https://open.spotify.com/album/1DUDX3Jz6dNvkYiWcgnKqS"
+        "name": "Papum",
+        "url": "https://open.spotify.com/album/3tFMDqGswZfRy3RX4Ek1bQ"
       },
       "artists": [
         {
-          "name": "POCAH",
-          "url": "https://open.spotify.com/artist/11iQCRz636WFdHj42qxAF6"
-        },
-        {
-          "name": "MC WM",
-          "url": "https://open.spotify.com/artist/14D0I0RYqvIorkPL2EWoQh"
+          "name": "MC Kevinho",
+          "url": "https://open.spotify.com/artist/1mXAhKnZEdF6rotyyd4GBi"
         }
       ],
-      "duration_ms": 154181,
-      "name": "Nem On Nem Off",
-      "url": "https://open.spotify.com/track/6bgZv4VkqjBIS2vawz3RsU"
+      "duration_ms": 139980,
+      "name": "Papum",
+      "url": "https://open.spotify.com/track/0meYgE9n532T2GxRIQ4FFg"
     },
     {
       "added_at": "2023-02-24 16:13:02",
@@ -1491,18 +1487,22 @@
     {
       "added_at": "2023-02-24 16:13:02",
       "album": {
-        "name": "Papum",
-        "url": "https://open.spotify.com/album/3tFMDqGswZfRy3RX4Ek1bQ"
+        "name": "Nem On Nem Off",
+        "url": "https://open.spotify.com/album/1DUDX3Jz6dNvkYiWcgnKqS"
       },
       "artists": [
         {
-          "name": "MC Kevinho",
-          "url": "https://open.spotify.com/artist/1mXAhKnZEdF6rotyyd4GBi"
+          "name": "POCAH",
+          "url": "https://open.spotify.com/artist/11iQCRz636WFdHj42qxAF6"
+        },
+        {
+          "name": "MC WM",
+          "url": "https://open.spotify.com/artist/14D0I0RYqvIorkPL2EWoQh"
         }
       ],
-      "duration_ms": 139980,
-      "name": "Papum",
-      "url": "https://open.spotify.com/track/0meYgE9n532T2GxRIQ4FFg"
+      "duration_ms": 154181,
+      "name": "Nem On Nem Off",
+      "url": "https://open.spotify.com/track/6bgZv4VkqjBIS2vawz3RsU"
     },
     {
       "added_at": "2023-02-24 16:13:02",

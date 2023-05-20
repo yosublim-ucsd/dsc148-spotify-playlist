@@ -1,12 +1,12 @@
 {
   "description": "Your daily dose of soul-infused music! Cover: The Teskey Brothers",
-  "num_followers": 440629,
+  "num_followers": 440702,
   "original_name": "Soul 'n' the City",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlNWI2MDE4YjlmMWVkMjAwYzRiODZmNjg0ZTAyMjg5MGUyODQzM2Ez",
+  "snapshot_id": "MCwwYTM5NjIzODRiOWRhZmQxYTk4N2IwMjA2ZGMwOTM1MDc2OTMzMmY4",
   "tracks": [
     {
       "added_at": "2023-05-12 08:18:27",
@@ -79,22 +79,6 @@
     {
       "added_at": "2023-05-12 08:18:27",
       "album": {
-        "name": "11",
-        "url": "https://open.spotify.com/album/0e5GuQaryu1bLZL9Gk3hS8"
-      },
-      "artists": [
-        {
-          "name": "SAULT",
-          "url": "https://open.spotify.com/artist/1uRxRKC7d9zwYGSRflTKDR"
-        }
-      ],
-      "duration_ms": 297717,
-      "name": "Fight for Love",
-      "url": "https://open.spotify.com/track/1LPQheJpIsG8rlUkCmZx2D"
-    },
-    {
-      "added_at": "2023-05-12 08:18:27",
-      "album": {
         "name": "Free",
         "url": "https://open.spotify.com/album/1aM7FK3fr3L00Y3q79TXns"
       },
@@ -107,6 +91,22 @@
       "duration_ms": 166440,
       "name": "Free",
       "url": "https://open.spotify.com/track/0yyTUTW3QCekpMvFJi3f2f"
+    },
+    {
+      "added_at": "2023-05-12 08:18:27",
+      "album": {
+        "name": "11",
+        "url": "https://open.spotify.com/album/0e5GuQaryu1bLZL9Gk3hS8"
+      },
+      "artists": [
+        {
+          "name": "SAULT",
+          "url": "https://open.spotify.com/artist/1uRxRKC7d9zwYGSRflTKDR"
+        }
+      ],
+      "duration_ms": 297717,
+      "name": "Fight for Love",
+      "url": "https://open.spotify.com/track/1LPQheJpIsG8rlUkCmZx2D"
     },
     {
       "added_at": "2023-05-12 08:18:27",
@@ -327,22 +327,6 @@
     {
       "added_at": "2023-05-12 08:18:27",
       "album": {
-        "name": "I'm Gonna Love You",
-        "url": "https://open.spotify.com/album/1xtuuytm8AJhcaafPLYL65"
-      },
-      "artists": [
-        {
-          "name": "Josh Tatofi",
-          "url": "https://open.spotify.com/artist/5hlcYSbfgsN5kwxz0v70OJ"
-        }
-      ],
-      "duration_ms": 268211,
-      "name": "I'm Gonna Love You",
-      "url": "https://open.spotify.com/track/5Vqtjb3p6g0cIWUPXVesln"
-    },
-    {
-      "added_at": "2023-05-12 08:18:27",
-      "album": {
         "name": "All The Things I Couldn't Say To You",
         "url": "https://open.spotify.com/album/7Ce8T8ok6ayEXddV7uDvAK"
       },
@@ -359,18 +343,18 @@
     {
       "added_at": "2023-05-12 08:18:27",
       "album": {
-        "name": "Don't Doubt It",
-        "url": "https://open.spotify.com/album/7misvvbAa72HkMvqBPNfRN"
+        "name": "I'm Gonna Love You",
+        "url": "https://open.spotify.com/album/1xtuuytm8AJhcaafPLYL65"
       },
       "artists": [
         {
-          "name": "Sam Wills",
-          "url": "https://open.spotify.com/artist/7JFinw4LobpCUjapyKvsjo"
+          "name": "Josh Tatofi",
+          "url": "https://open.spotify.com/artist/5hlcYSbfgsN5kwxz0v70OJ"
         }
       ],
-      "duration_ms": 182493,
-      "name": "Don't Doubt It",
-      "url": "https://open.spotify.com/track/28yYqgatnEJFxN8JOmvxUk"
+      "duration_ms": 268211,
+      "name": "I'm Gonna Love You",
+      "url": "https://open.spotify.com/track/5Vqtjb3p6g0cIWUPXVesln"
     },
     {
       "added_at": "2023-05-12 08:18:27",
@@ -387,6 +371,22 @@
       "duration_ms": 147360,
       "name": "When It All Falls Down",
       "url": "https://open.spotify.com/track/3lvj20MikepdxKpadT7mBF"
+    },
+    {
+      "added_at": "2023-05-12 08:18:27",
+      "album": {
+        "name": "Don't Doubt It",
+        "url": "https://open.spotify.com/album/7misvvbAa72HkMvqBPNfRN"
+      },
+      "artists": [
+        {
+          "name": "Sam Wills",
+          "url": "https://open.spotify.com/artist/7JFinw4LobpCUjapyKvsjo"
+        }
+      ],
+      "duration_ms": 182493,
+      "name": "Don't Doubt It",
+      "url": "https://open.spotify.com/track/28yYqgatnEJFxN8JOmvxUk"
     },
     {
       "added_at": "2023-05-12 08:18:27",
@@ -439,22 +439,6 @@
     {
       "added_at": "2023-05-12 08:18:27",
       "album": {
-        "name": "In My Mind",
-        "url": "https://open.spotify.com/album/5cCq18AvACmXNR2QmuPt3i"
-      },
-      "artists": [
-        {
-          "name": "Flo Naegeli",
-          "url": "https://open.spotify.com/artist/0liNX4mflJExPsvDkY7yfa"
-        }
-      ],
-      "duration_ms": 205625,
-      "name": "In My Mind",
-      "url": "https://open.spotify.com/track/4SSMJh5AoqMt8xMDTaMByS"
-    },
-    {
-      "added_at": "2023-05-12 08:18:27",
-      "album": {
         "name": "Just Like You Used To",
         "url": "https://open.spotify.com/album/1KL7kl1XBGuAd5Z3xij3Mg"
       },
@@ -467,6 +451,22 @@
       "duration_ms": 188155,
       "name": "Just Like You Used To",
       "url": "https://open.spotify.com/track/7muZRuzw9GrlftSblA5Bkf"
+    },
+    {
+      "added_at": "2023-05-12 08:18:27",
+      "album": {
+        "name": "In My Mind",
+        "url": "https://open.spotify.com/album/5cCq18AvACmXNR2QmuPt3i"
+      },
+      "artists": [
+        {
+          "name": "Flo Naegeli",
+          "url": "https://open.spotify.com/artist/0liNX4mflJExPsvDkY7yfa"
+        }
+      ],
+      "duration_ms": 205625,
+      "name": "In My Mind",
+      "url": "https://open.spotify.com/track/4SSMJh5AoqMt8xMDTaMByS"
     },
     {
       "added_at": "2023-05-12 08:18:27",
@@ -951,22 +951,6 @@
     {
       "added_at": "2023-05-12 08:18:27",
       "album": {
-        "name": "The World",
-        "url": "https://open.spotify.com/album/3cqrOjDqjzb2bdFmhntP8t"
-      },
-      "artists": [
-        {
-          "name": "Benny Sings",
-          "url": "https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N"
-        }
-      ],
-      "duration_ms": 186453,
-      "name": "The World",
-      "url": "https://open.spotify.com/track/2KnfMlqUIr2RLFIRlCQzhw"
-    },
-    {
-      "added_at": "2023-05-12 08:18:27",
-      "album": {
         "name": "Black Radio (Deluxe Edition)",
         "url": "https://open.spotify.com/album/6pGglD9IbzeSEze9FHyl8C"
       },
@@ -983,30 +967,6 @@
       "duration_ms": 408360,
       "name": "Fever",
       "url": "https://open.spotify.com/track/4gh6uq3pDCiOFRl42zH1WR"
-    },
-    {
-      "added_at": "2023-05-12 08:18:27",
-      "album": {
-        "name": "More To Learn",
-        "url": "https://open.spotify.com/album/3r7mEDjTNdNxWfjS1mClE2"
-      },
-      "artists": [
-        {
-          "name": "Allen Stone",
-          "url": "https://open.spotify.com/artist/536osqBGKzeozje8BfcGsa"
-        },
-        {
-          "name": "Swatkins",
-          "url": "https://open.spotify.com/artist/0HnF3y5xRlNr6eGQmFZgjP"
-        },
-        {
-          "name": "Eric Krasno",
-          "url": "https://open.spotify.com/artist/6tQIsqw6DrDfdoPwOrOD6k"
-        }
-      ],
-      "duration_ms": 270722,
-      "name": "More To Learn",
-      "url": "https://open.spotify.com/track/7IX7LDLs3vCtrY7poNX0p4"
     },
     {
       "added_at": "2023-05-12 08:18:27",
@@ -1035,18 +995,42 @@
     {
       "added_at": "2023-05-12 08:18:27",
       "album": {
-        "name": "Jewels in the Night",
-        "url": "https://open.spotify.com/album/0TFdoAI3m8f9HrDeTvSy3P"
+        "name": "More To Learn",
+        "url": "https://open.spotify.com/album/3r7mEDjTNdNxWfjS1mClE2"
       },
       "artists": [
         {
-          "name": "GINGE",
-          "url": "https://open.spotify.com/artist/5FuFC5tiYFDxVJQVupJ6Zt"
+          "name": "Allen Stone",
+          "url": "https://open.spotify.com/artist/536osqBGKzeozje8BfcGsa"
+        },
+        {
+          "name": "Swatkins",
+          "url": "https://open.spotify.com/artist/0HnF3y5xRlNr6eGQmFZgjP"
+        },
+        {
+          "name": "Eric Krasno",
+          "url": "https://open.spotify.com/artist/6tQIsqw6DrDfdoPwOrOD6k"
         }
       ],
-      "duration_ms": 225890,
-      "name": "Jewels in the Night",
-      "url": "https://open.spotify.com/track/6HZTp6aIfkqEp5DBJR4JIx"
+      "duration_ms": 270722,
+      "name": "More To Learn",
+      "url": "https://open.spotify.com/track/7IX7LDLs3vCtrY7poNX0p4"
+    },
+    {
+      "added_at": "2023-05-12 08:18:27",
+      "album": {
+        "name": "The World",
+        "url": "https://open.spotify.com/album/3cqrOjDqjzb2bdFmhntP8t"
+      },
+      "artists": [
+        {
+          "name": "Benny Sings",
+          "url": "https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N"
+        }
+      ],
+      "duration_ms": 186453,
+      "name": "The World",
+      "url": "https://open.spotify.com/track/2KnfMlqUIr2RLFIRlCQzhw"
     },
     {
       "added_at": "2023-05-12 08:18:27",
@@ -1067,22 +1051,34 @@
     {
       "added_at": "2023-05-12 08:18:27",
       "album": {
-        "name": "Forbidden Fruit",
-        "url": "https://open.spotify.com/album/7lmHWiL2lAGtJ5z2KDfazD"
+        "name": "Jewels in the Night",
+        "url": "https://open.spotify.com/album/0TFdoAI3m8f9HrDeTvSy3P"
       },
       "artists": [
         {
-          "name": "Mychelle",
-          "url": "https://open.spotify.com/artist/2JXmEUolvdLFZc1PoLGC71"
-        },
-        {
-          "name": "ENNY",
-          "url": "https://open.spotify.com/artist/3qEnCAnX23lvoxZYtBiPgL"
+          "name": "GINGE",
+          "url": "https://open.spotify.com/artist/5FuFC5tiYFDxVJQVupJ6Zt"
         }
       ],
-      "duration_ms": 207804,
-      "name": "Forbidden Fruit",
-      "url": "https://open.spotify.com/track/7iaCPgRVRsp2gjBlLhG91s"
+      "duration_ms": 225890,
+      "name": "Jewels in the Night",
+      "url": "https://open.spotify.com/track/6HZTp6aIfkqEp5DBJR4JIx"
+    },
+    {
+      "added_at": "2023-05-12 08:18:27",
+      "album": {
+        "name": "Sentimental Fool",
+        "url": "https://open.spotify.com/album/3zqyliH82PrgRAkIe6CSA2"
+      },
+      "artists": [
+        {
+          "name": "Lee Fields",
+          "url": "https://open.spotify.com/artist/3MAzDpqE01xyUmzNsc0Ee0"
+        }
+      ],
+      "duration_ms": 195133,
+      "name": "Forever",
+      "url": "https://open.spotify.com/track/0MrbySeqMbj7dcTFnlEDvE"
     },
     {
       "added_at": "2023-05-12 08:18:27",
@@ -1107,18 +1103,22 @@
     {
       "added_at": "2023-05-12 08:18:27",
       "album": {
-        "name": "Sentimental Fool",
-        "url": "https://open.spotify.com/album/3zqyliH82PrgRAkIe6CSA2"
+        "name": "Forbidden Fruit",
+        "url": "https://open.spotify.com/album/7lmHWiL2lAGtJ5z2KDfazD"
       },
       "artists": [
         {
-          "name": "Lee Fields",
-          "url": "https://open.spotify.com/artist/3MAzDpqE01xyUmzNsc0Ee0"
+          "name": "Mychelle",
+          "url": "https://open.spotify.com/artist/2JXmEUolvdLFZc1PoLGC71"
+        },
+        {
+          "name": "ENNY",
+          "url": "https://open.spotify.com/artist/3qEnCAnX23lvoxZYtBiPgL"
         }
       ],
-      "duration_ms": 195133,
-      "name": "Forever",
-      "url": "https://open.spotify.com/track/0MrbySeqMbj7dcTFnlEDvE"
+      "duration_ms": 207804,
+      "name": "Forbidden Fruit",
+      "url": "https://open.spotify.com/track/7iaCPgRVRsp2gjBlLhG91s"
     },
     {
       "added_at": "2023-05-12 08:18:27",
@@ -1199,22 +1199,6 @@
     {
       "added_at": "2023-05-12 08:18:27",
       "album": {
-        "name": "STILL HAVE YOU",
-        "url": "https://open.spotify.com/album/4DQBCDttZkfo2p5Fz0N9fX"
-      },
-      "artists": [
-        {
-          "name": "Jake Isaac",
-          "url": "https://open.spotify.com/artist/6q94KewnCnut4Ta36dCoaB"
-        }
-      ],
-      "duration_ms": 142306,
-      "name": "STILL HAVE YOU",
-      "url": "https://open.spotify.com/track/3LZ8BWLWzzNhub4LR0fQ1Z"
-    },
-    {
-      "added_at": "2023-05-12 08:18:27",
-      "album": {
         "name": "Side By Side",
         "url": "https://open.spotify.com/album/6a9XXwWCDcBDoKFZ3uteOg"
       },
@@ -1227,6 +1211,22 @@
       "duration_ms": 256560,
       "name": "Side By Side",
       "url": "https://open.spotify.com/track/3l2yWyV8OOTlhScxYsuIts"
+    },
+    {
+      "added_at": "2023-05-12 08:18:27",
+      "album": {
+        "name": "STILL HAVE YOU",
+        "url": "https://open.spotify.com/album/4DQBCDttZkfo2p5Fz0N9fX"
+      },
+      "artists": [
+        {
+          "name": "Jake Isaac",
+          "url": "https://open.spotify.com/artist/6q94KewnCnut4Ta36dCoaB"
+        }
+      ],
+      "duration_ms": 142306,
+      "name": "STILL HAVE YOU",
+      "url": "https://open.spotify.com/track/3LZ8BWLWzzNhub4LR0fQ1Z"
     },
     {
       "added_at": "2023-05-12 08:18:27",
@@ -1431,22 +1431,6 @@
     {
       "added_at": "2023-05-12 08:18:27",
       "album": {
-        "name": "CUBE",
-        "url": "https://open.spotify.com/album/7g8SnE1LmkwBtOaDXpFV3E"
-      },
-      "artists": [
-        {
-          "name": "Tha\u00efs Lona",
-          "url": "https://open.spotify.com/artist/4p4EZdDlVzZsBwyt8NfX9S"
-        }
-      ],
-      "duration_ms": 257040,
-      "name": "B.N.D",
-      "url": "https://open.spotify.com/track/2WJqKEJ5TGjK2DojGrRo9K"
-    },
-    {
-      "added_at": "2023-05-12 08:18:27",
-      "album": {
         "name": "IRONEYE",
         "url": "https://open.spotify.com/album/63EPS17zm5uUritHjGzs3C"
       },
@@ -1459,22 +1443,6 @@
       "duration_ms": 239813,
       "name": "To be naive",
       "url": "https://open.spotify.com/track/2TEHLlEisZwKMziVAAFKRu"
-    },
-    {
-      "added_at": "2023-05-12 08:18:27",
-      "album": {
-        "name": "Something I Said",
-        "url": "https://open.spotify.com/album/1sruO8JvNgHAGorAbZIz4R"
-      },
-      "artists": [
-        {
-          "name": "Sophie Faith",
-          "url": "https://open.spotify.com/artist/4LR3BRvTeWCiS1l16TqXVh"
-        }
-      ],
-      "duration_ms": 196235,
-      "name": "Something I Said",
-      "url": "https://open.spotify.com/track/353y8b5t9MDnUlddgQ0dZY"
     },
     {
       "added_at": "2023-05-12 08:18:27",
@@ -1495,6 +1463,22 @@
     {
       "added_at": "2023-05-12 08:18:27",
       "album": {
+        "name": "Something I Said",
+        "url": "https://open.spotify.com/album/1sruO8JvNgHAGorAbZIz4R"
+      },
+      "artists": [
+        {
+          "name": "Sophie Faith",
+          "url": "https://open.spotify.com/artist/4LR3BRvTeWCiS1l16TqXVh"
+        }
+      ],
+      "duration_ms": 196235,
+      "name": "Something I Said",
+      "url": "https://open.spotify.com/track/353y8b5t9MDnUlddgQ0dZY"
+    },
+    {
+      "added_at": "2023-05-12 08:18:27",
+      "album": {
         "name": "Come Back",
         "url": "https://open.spotify.com/album/7IoCTlOk0QSxcGS7bm5PwA"
       },
@@ -1507,22 +1491,6 @@
       "duration_ms": 179882,
       "name": "Come Back - Radio Edit",
       "url": "https://open.spotify.com/track/5LrRyRNEkx1LHR1JrrypZQ"
-    },
-    {
-      "added_at": "2023-05-12 08:18:27",
-      "album": {
-        "name": "Those Days Are Over",
-        "url": "https://open.spotify.com/album/08gZ1W70cqDTkOX5TsUZBf"
-      },
-      "artists": [
-        {
-          "name": "WILSN",
-          "url": "https://open.spotify.com/artist/2ymjQZjPQe0pziQ67Y8Ncr"
-        }
-      ],
-      "duration_ms": 174393,
-      "name": "Every Day and Every Night",
-      "url": "https://open.spotify.com/track/18WMlv400ZLzVuW33m8CGN"
     },
     {
       "added_at": "2023-05-12 08:18:27",
@@ -1543,18 +1511,34 @@
     {
       "added_at": "2023-05-12 08:18:27",
       "album": {
-        "name": "City Federal Building",
-        "url": "https://open.spotify.com/album/5YcentPRga2gporh7VUyv7"
+        "name": "CUBE",
+        "url": "https://open.spotify.com/album/7g8SnE1LmkwBtOaDXpFV3E"
       },
       "artists": [
         {
-          "name": "St. Paul & The Broken Bones",
-          "url": "https://open.spotify.com/artist/4fXkvh05wFhuH77MfD4m9o"
+          "name": "Tha\u00efs Lona",
+          "url": "https://open.spotify.com/artist/4p4EZdDlVzZsBwyt8NfX9S"
         }
       ],
-      "duration_ms": 245580,
-      "name": "City Federal Building",
-      "url": "https://open.spotify.com/track/4VOFwibETKXm7SOWNrSkOS"
+      "duration_ms": 257040,
+      "name": "B.N.D",
+      "url": "https://open.spotify.com/track/2WJqKEJ5TGjK2DojGrRo9K"
+    },
+    {
+      "added_at": "2023-05-12 08:18:27",
+      "album": {
+        "name": "Those Days Are Over",
+        "url": "https://open.spotify.com/album/08gZ1W70cqDTkOX5TsUZBf"
+      },
+      "artists": [
+        {
+          "name": "WILSN",
+          "url": "https://open.spotify.com/artist/2ymjQZjPQe0pziQ67Y8Ncr"
+        }
+      ],
+      "duration_ms": 174393,
+      "name": "Every Day and Every Night",
+      "url": "https://open.spotify.com/track/18WMlv400ZLzVuW33m8CGN"
     },
     {
       "added_at": "2023-05-12 08:18:27",
@@ -1587,6 +1571,22 @@
       "duration_ms": 191604,
       "name": "Blessed",
       "url": "https://open.spotify.com/track/4EL02W94lT5v7cAJw7i59s"
+    },
+    {
+      "added_at": "2023-05-12 08:18:27",
+      "album": {
+        "name": "City Federal Building",
+        "url": "https://open.spotify.com/album/5YcentPRga2gporh7VUyv7"
+      },
+      "artists": [
+        {
+          "name": "St. Paul & The Broken Bones",
+          "url": "https://open.spotify.com/artist/4fXkvh05wFhuH77MfD4m9o"
+        }
+      ],
+      "duration_ms": 245580,
+      "name": "City Federal Building",
+      "url": "https://open.spotify.com/track/4VOFwibETKXm7SOWNrSkOS"
     },
     {
       "added_at": "2023-05-12 08:18:27",
@@ -1655,6 +1655,22 @@
     {
       "added_at": "2023-05-12 08:18:27",
       "album": {
+        "name": "In Contemplation of Clair\u2019s Scent",
+        "url": "https://open.spotify.com/album/5WzvJZurKSZfBZZjundIzb"
+      },
+      "artists": [
+        {
+          "name": "Terence Etc.",
+          "url": "https://open.spotify.com/artist/3PRli833wyTmzJrKQGNOKj"
+        }
+      ],
+      "duration_ms": 170108,
+      "name": "In Contemplation of Clair\u2019s Scent - Edit",
+      "url": "https://open.spotify.com/track/6evizKGLv223qG5hpReBWy"
+    },
+    {
+      "added_at": "2023-05-12 08:18:27",
+      "album": {
         "name": "Pinky Blues",
         "url": "https://open.spotify.com/album/0PqTaoytZFYiGLMNV8S2bV"
       },
@@ -1715,22 +1731,6 @@
       "duration_ms": 384265,
       "name": "Footsteps In The Dark",
       "url": "https://open.spotify.com/track/2mrkQSB95qUQhnqnJgSB6v"
-    },
-    {
-      "added_at": "2023-05-12 08:18:27",
-      "album": {
-        "name": "In Contemplation of Clair\u2019s Scent",
-        "url": "https://open.spotify.com/album/5WzvJZurKSZfBZZjundIzb"
-      },
-      "artists": [
-        {
-          "name": "Terence Etc.",
-          "url": "https://open.spotify.com/artist/3PRli833wyTmzJrKQGNOKj"
-        }
-      ],
-      "duration_ms": 170108,
-      "name": "In Contemplation of Clair\u2019s Scent - Edit",
-      "url": "https://open.spotify.com/track/6evizKGLv223qG5hpReBWy"
     },
     {
       "added_at": "2023-05-12 08:18:27",
@@ -1807,22 +1807,6 @@
     {
       "added_at": "2023-05-12 08:18:27",
       "album": {
-        "name": "Oporto-Madrid Blvd",
-        "url": "https://open.spotify.com/album/4Uyxs83rYhuwBDKJschbYw"
-      },
-      "artists": [
-        {
-          "name": "St. Paul & The Broken Bones",
-          "url": "https://open.spotify.com/artist/4fXkvh05wFhuH77MfD4m9o"
-        }
-      ],
-      "duration_ms": 209198,
-      "name": "Oporto-Madrid Blvd",
-      "url": "https://open.spotify.com/track/3sPLA6G4cB8P8diBopToGT"
-    },
-    {
-      "added_at": "2023-05-12 08:18:27",
-      "album": {
         "name": "Sunday's Best, Volume II",
         "url": "https://open.spotify.com/album/6vGBtWrzVwWHDIoKYuzg8V"
       },
@@ -1879,6 +1863,22 @@
     {
       "added_at": "2023-05-12 08:18:27",
       "album": {
+        "name": "Oporto-Madrid Blvd",
+        "url": "https://open.spotify.com/album/4Uyxs83rYhuwBDKJschbYw"
+      },
+      "artists": [
+        {
+          "name": "St. Paul & The Broken Bones",
+          "url": "https://open.spotify.com/artist/4fXkvh05wFhuH77MfD4m9o"
+        }
+      ],
+      "duration_ms": 209198,
+      "name": "Oporto-Madrid Blvd",
+      "url": "https://open.spotify.com/track/3sPLA6G4cB8P8diBopToGT"
+    },
+    {
+      "added_at": "2023-05-12 08:18:27",
+      "album": {
         "name": "Like Neptune",
         "url": "https://open.spotify.com/album/014KjVEwCWxN2hWFYsUWNB"
       },
@@ -1891,6 +1891,22 @@
       "duration_ms": 279453,
       "name": "deeper",
       "url": "https://open.spotify.com/track/7kqiHD9lXoksOXA9qEt6Rs"
+    },
+    {
+      "added_at": "2023-05-12 08:18:27",
+      "album": {
+        "name": "Flashing Lights",
+        "url": "https://open.spotify.com/album/25p8WJ7KjgpXVH5RvZqyxv"
+      },
+      "artists": [
+        {
+          "name": "Dragonfruit",
+          "url": "https://open.spotify.com/artist/5XedNczaTKAEy9NrSXZeUy"
+        }
+      ],
+      "duration_ms": 213728,
+      "name": "Flashing Lights",
+      "url": "https://open.spotify.com/track/1sK3qSrr5cbVBbFobG2Gjh"
     },
     {
       "added_at": "2023-05-12 08:18:27",
@@ -1927,22 +1943,6 @@
       "duration_ms": 222496,
       "name": "Tell Me",
       "url": "https://open.spotify.com/track/2UvjzFa5j6V2oi6PStN2TT"
-    },
-    {
-      "added_at": "2023-05-12 08:18:27",
-      "album": {
-        "name": "Flashing Lights",
-        "url": "https://open.spotify.com/album/25p8WJ7KjgpXVH5RvZqyxv"
-      },
-      "artists": [
-        {
-          "name": "Dragonfruit",
-          "url": "https://open.spotify.com/artist/5XedNczaTKAEy9NrSXZeUy"
-        }
-      ],
-      "duration_ms": 213728,
-      "name": "Flashing Lights",
-      "url": "https://open.spotify.com/track/1sK3qSrr5cbVBbFobG2Gjh"
     },
     {
       "added_at": "2023-05-12 08:18:27",
@@ -1995,34 +1995,6 @@
     {
       "added_at": "2023-05-12 08:18:27",
       "album": {
-        "name": "Favorite Girl",
-        "url": "https://open.spotify.com/album/3w3rOwm4VK2loLrcinKRTx"
-      },
-      "artists": [
-        {
-          "name": "Souldrippin",
-          "url": "https://open.spotify.com/artist/1b0D9jgh2pJtPsKjU1gyS5"
-        },
-        {
-          "name": "Brownie Dutch",
-          "url": "https://open.spotify.com/artist/3I5bcZ9sKB87Nftg0uXad0"
-        },
-        {
-          "name": "Hari Loco",
-          "url": "https://open.spotify.com/artist/3nPiCfsgxJlJAkdPPVG2hQ"
-        },
-        {
-          "name": "Darius Dante",
-          "url": "https://open.spotify.com/artist/1QCRuNTOqoXVN7F39fWxz5"
-        }
-      ],
-      "duration_ms": 179427,
-      "name": "Favorite Girl",
-      "url": "https://open.spotify.com/track/4wUE9MM4XiwZ6mnw2LQQop"
-    },
-    {
-      "added_at": "2023-05-12 08:18:27",
-      "album": {
         "name": "Kiss Or Go Crazy",
         "url": "https://open.spotify.com/album/5nCKVXSxUEHtQoUNLXMnBz"
       },
@@ -2055,6 +2027,34 @@
       "duration_ms": 195257,
       "name": "All Night",
       "url": "https://open.spotify.com/track/5wAdIhCznqx3rrDrKzjb2k"
+    },
+    {
+      "added_at": "2023-05-12 08:18:27",
+      "album": {
+        "name": "Favorite Girl",
+        "url": "https://open.spotify.com/album/3w3rOwm4VK2loLrcinKRTx"
+      },
+      "artists": [
+        {
+          "name": "Souldrippin",
+          "url": "https://open.spotify.com/artist/1b0D9jgh2pJtPsKjU1gyS5"
+        },
+        {
+          "name": "Brownie Dutch",
+          "url": "https://open.spotify.com/artist/3I5bcZ9sKB87Nftg0uXad0"
+        },
+        {
+          "name": "Hari Loco",
+          "url": "https://open.spotify.com/artist/3nPiCfsgxJlJAkdPPVG2hQ"
+        },
+        {
+          "name": "Darius Dante",
+          "url": "https://open.spotify.com/artist/1QCRuNTOqoXVN7F39fWxz5"
+        }
+      ],
+      "duration_ms": 179427,
+      "name": "Favorite Girl",
+      "url": "https://open.spotify.com/track/4wUE9MM4XiwZ6mnw2LQQop"
     },
     {
       "added_at": "2023-05-12 08:18:27",

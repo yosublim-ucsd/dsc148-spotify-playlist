@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "Best of the Indian Indie scene. Cover - Prateek Kuhad",
+  "description": "Best of the Indian Indie scene. Cover - Anuv Jain",
   "name": "Indie India ",
   "tracks": [
     {
@@ -298,6 +298,24 @@
       "duration_ms": 153693,
       "name": "All I Need",
       "url": "https://open.spotify.com/track/47hXMyQDGW8sA1NGqmFL7h"
+    },
+    {
+      "album": {
+        "name": "Antariksh",
+        "url": "https://open.spotify.com/album/41c3IoL1qIAvR38l2kB7Zj"
+      },
+      "artists": [
+        {
+          "name": "Anuv Jain",
+          "url": "https://open.spotify.com/artist/4gdMJYnopf2nEUcanAwstx"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165750,
+      "name": "Antariksh",
+      "url": "https://open.spotify.com/track/3JJtci5fSMdxYCVoHRHX2h"
     },
     {
       "album": {

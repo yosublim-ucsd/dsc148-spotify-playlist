@@ -4,7 +4,7 @@
 
 > Monster Hiphop anthems to unlock your day\. Tracks from Lil Durk, Jack Harlow, Drake, Tyler, The Creator, Quavo and more
 
-138 songs - 7 hr 16 min
+139 songs - 7 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,7 +15,7 @@
 | [A Bag In A Lexus](https://open.spotify.com/track/3DW8Z1gH89lDgEGjmi903q) | [Misee Billions](https://open.spotify.com/artist/5Lhx3MUyzocreEfyAlOWJ7) | [A Bag In A Lexus](https://open.spotify.com/album/0xQcWh9alDQZF8eAc0iFs6) | 2:54 | 2022-06-16 | 2022-07-23 |
 | [Ain’t Safe \(feat\. Don Toliver\)](https://open.spotify.com/track/6ja11GoXgF75QkEVqqAadn) | [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax), [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [Ain’t Safe \(feat\. Don Toliver\)](https://open.spotify.com/album/2XlxXuumhYX4lIU2nXoUXw) | 2:46 | 2022-10-27 | 2023-02-18 |
 | [All My Life \(feat\. J\. Cole\)](https://open.spotify.com/track/6HgWWaMu31KdOpEG5l28BG) | [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [All My Life \(feat\. J\. Cole\)](https://open.spotify.com/album/0lZQagJ5r0crB35zphSD4A) | 3:43 | 2023-05-11 |  |
-| [Back To The Kaap](https://open.spotify.com/track/7pQKbdzWHY6ypWhKLrLsiD) | [Stilo Magolide](https://open.spotify.com/artist/77zNkBGPeehKXAXAXfUfnA), [YoungstaCPT](https://open.spotify.com/artist/3QYKq7aMSiAu6gvfwNNFsv) | [Back To The Kaap](https://open.spotify.com/album/5RheolffY6fyYbQPLHBxZv) | 3:18 | 2023-03-23 |  |
+| [Back To The Kaap](https://open.spotify.com/track/7pQKbdzWHY6ypWhKLrLsiD) | [Stilo Magolide](https://open.spotify.com/artist/77zNkBGPeehKXAXAXfUfnA), [YoungstaCPT](https://open.spotify.com/artist/3QYKq7aMSiAu6gvfwNNFsv) | [Back To The Kaap](https://open.spotify.com/album/5RheolffY6fyYbQPLHBxZv) | 3:18 | 2023-03-23 | 2023-05-20 |
 | [BIG TIME \(feat\. Future & Lil Baby\)](https://open.spotify.com/track/6pr7X9UZCDn8CruopaNVha) | [DJ Khaled](https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [GOD DID](https://open.spotify.com/album/6NuGZnOc88LcZpEkJIbO50) | 2:53 | 2022-08-26 | 2022-09-02 |
 | [Blackout](https://open.spotify.com/track/5xKXBeEv4mJKG9vDw1Zkc8) | [Nasty C](https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj) | [Blackout](https://open.spotify.com/album/2AGpLCQpyNNmU03ENVvkeg) | 2:17 | 2023-02-09 |  |
 | [BLICKY](https://open.spotify.com/track/11onBbRpOfADTEMP9C4CYB) | [BURUKLYN BOYZ](https://open.spotify.com/artist/4iXOuQsJ5qOOC7HgOIXLFU) | [EAST MPAKA LONDON](https://open.spotify.com/album/47vN97kxrAYQUMNEjgBX0G) | 2:55 | 2022-06-16 | 2022-07-08 |
@@ -120,6 +120,7 @@
 | [SOCKS](https://open.spotify.com/track/060dZ7q9HN8nAS2zn2hwo5) | [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) | [Baby On Baby 2](https://open.spotify.com/album/6x5UJEgPpRGdXjpeRY5QSz) | 2:51 | 2022-09-22 | 2022-11-05 |
 | [Soulfood](https://open.spotify.com/track/2gybX86egA9595tqi3cgbB) | [Spliff Jonah](https://open.spotify.com/artist/7rRZcSUBkPkZlV2tQkhxqp), [SUNS3T](https://open.spotify.com/artist/5W3JLL9j3Xwn9wScCLFHSt) | [Soulfood](https://open.spotify.com/album/6uasSuja5WHzVi9vkXpjpG) | 3:04 | 2022-10-27 | 2023-02-10 |
 | [Space Cadet \(feat\. Gunna\)](https://open.spotify.com/track/1fewSx2d5KIZ04wsooEBOz) | [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [NOT ALL HEROES WEAR CAPES \(Deluxe\)](https://open.spotify.com/album/3IO8IPjwXuzPJnoaqkwYrj) | 3:23 | 2022-08-19 | 2023-03-11 |
+| [Spinnin' \(feat\. EST Gee\)](https://open.spotify.com/track/1jBSRWaJIQ0AaF0UQ91IbG) | [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7), [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [Spinnin' \(feat\. EST Gee / FAST X Soundtrack\)](https://open.spotify.com/album/5YjvUivNXjwSZFFKa4ffbb) | 2:47 | 2023-05-19 |  |
 | [Spooky Shit.](https://open.spotify.com/track/323Aol9VAFndxhTaIVxqV0) | [Trill Hunnid Ke](https://open.spotify.com/artist/060e8JfWsQ4SemQo5iB8h4) | [Spooky Shit.](https://open.spotify.com/album/7f7xbV76grCg1PJeQSYpVe) | 2:31 | 2023-04-20 |  |
 | [Starlight](https://open.spotify.com/track/531KGXtBroSrOX9LVmiIgc) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK) | [Starlight](https://open.spotify.com/album/1WLS1NrOlbDIl760hVeeUi) | 3:31 | 2022-06-16 | 2023-02-25 |
 | [STAYING ALIVE \(feat\. Drake & Lil Baby\)](https://open.spotify.com/track/0g2Bbgy7P41pFjMWJuzsf4) | [DJ Khaled](https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [STAYING ALIVE \(feat\. Drake & Lil Baby\)](https://open.spotify.com/album/0oEsQwXJhNbbb8VT0xOMok) | 2:58 | 2022-08-19 |  |

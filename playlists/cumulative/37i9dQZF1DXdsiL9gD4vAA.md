@@ -4,7 +4,7 @@
 
 > Let these contemplative couplets take you away.
 
-90 songs - 9 hr 0 min
+91 songs - 9 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,6 +35,7 @@
 | [Duniya Kisi Ke Pyar Mein](https://open.spotify.com/track/4UDsOiaMP4pLawOzlmeGKk) | [Mehdi Hassan](https://open.spotify.com/artist/73Qu5twIpvKmLU0rPaEJi4) | [Golden Greats Of Mehdi Hassan](https://open.spotify.com/album/5kZPQXY1qFWCZrlGLApOKq) | 5:40 | 2021-12-01 |  |
 | [Duniya Kisie Ke Pyar Mein](https://open.spotify.com/track/1xoxOHmcRZqygAmiXugPs5) | [Mehdi Hassan](https://open.spotify.com/artist/73Qu5twIpvKmLU0rPaEJi4) | [Mehdi Hassan](https://open.spotify.com/album/70aqO6m7wDEb0vF3aWK2Kl) | 3:14 | 2021-12-01 | 2023-04-17 |
 | [Faasla Is Kadar](https://open.spotify.com/track/4JgzQJSWLRfKVCbnozPHB8) | [Ghulam Ali](https://open.spotify.com/artist/62mCohf6aiF3nryWghwCxM) | [Zikr](https://open.spotify.com/album/2gQgk1hyNCIgaeOu4OSCZz) | 5:58 | 2021-12-01 | 2023-04-19 |
+| [Haathon Ki Lakeeron](https://open.spotify.com/track/0TTtI4F67M8Sw82uKtdGia) | [Anweshaa](https://open.spotify.com/artist/785G4rs8cdeU7kKM2XgoI3), [Quincy Chett](https://open.spotify.com/artist/3uqgiYGmQ9KO7CQjqy1AGi) | [Haathon Ki Lakeeron](https://open.spotify.com/album/2d3k3BF0zEDZxdRTs64fze) | 7:24 | 2023-05-19 |  |
 | [Hai Isi Mein Pyar Ki Aabru](https://open.spotify.com/track/2UaGnopu3HmCVlJ0lHfQHE) | [Arpita Chakraborty](https://open.spotify.com/artist/37qkV6Tep5CIGcRk1hJJhk), [Pushkar Jog](https://open.spotify.com/artist/2tKnS5nS5NOk2VIMTN7OjA) | [Hai Isi Mein Pyar Ki Aabru](https://open.spotify.com/album/56hiuxLFq78Jj10Ts0iNEg) | 3:43 | 2023-03-02 |  |
 | [Hangama Hai Kiu Barbad](https://open.spotify.com/track/5BLW13IDABVJN5J0dS7AjG) | [Ghulam Ali](https://open.spotify.com/artist/62mCohf6aiF3nryWghwCxM) | [Dil Mein Ek Leher \- Ghulam Ali the Ghazal Maestro](https://open.spotify.com/album/6WtcRp4M2WaSBX3hza6efS) | 8:29 | 2021-12-01 | 2022-07-29 |
 | [Hangama Hai Kiyon Barbad](https://open.spotify.com/track/1M3NqMGpz82MZymh0bJSIx) | [Ghulam Ali](https://open.spotify.com/artist/62mCohf6aiF3nryWghwCxM) | [Dil Mein Ek Leher \- Ghulam Ali The Gazal Mastro](https://open.spotify.com/album/4MHSBOVdmXDu10EVMyfArU) | 8:36 | 2022-07-26 |  |
@@ -73,7 +74,7 @@
 | [Nazar Se Nazar](https://open.spotify.com/track/0zCZBOzMGke8HUwQlzKkyS) | [Ranjeet Rajwada](https://open.spotify.com/artist/4vfbZtBkJbwbuCD3GWmgAa) | [Nazar Se Nazar](https://open.spotify.com/album/10TXiDptyrk7s3j3cYfaZU) | 4:55 | 2023-02-22 |  |
 | [Para Para Hua](https://open.spotify.com/track/6cSrBzC2LM0KjsxRI83mik) | [Ghulam Ali](https://open.spotify.com/artist/62mCohf6aiF3nryWghwCxM) | [Dil Mein Ek Leher \- Ghulam Ali the Ghazal Maestro](https://open.spotify.com/album/6WtcRp4M2WaSBX3hza6efS) | 3:48 | 2021-12-01 | 2022-07-29 |
 | [Para Para Hua](https://open.spotify.com/track/4oCvl7Jdbm7yNVoLohUHOV) | [Ghulam Ali](https://open.spotify.com/artist/62mCohf6aiF3nryWghwCxM) | [Ghazal \- For The First Time Together \- Vol \- 1](https://open.spotify.com/album/5Hdhdp7Ouuz4c6lROJCofW) | 3:53 | 2022-11-09 | 2022-11-13 |
-| [Para Para Hua](https://open.spotify.com/track/6sjMz9ZnmYzn6bRBHiMQG7) | [Ghulam Ali](https://open.spotify.com/artist/62mCohf6aiF3nryWghwCxM) | [Dil Mein Ek Leher \- Ghulam Ali The Gazal Mastro](https://open.spotify.com/album/4MHSBOVdmXDu10EVMyfArU) | 3:53 | 2022-07-26 |  |
+| [Para Para Hua](https://open.spotify.com/track/6sjMz9ZnmYzn6bRBHiMQG7) | [Ghulam Ali](https://open.spotify.com/artist/62mCohf6aiF3nryWghwCxM) | [Dil Mein Ek Leher \- Ghulam Ali The Gazal Mastro](https://open.spotify.com/album/4MHSBOVdmXDu10EVMyfArU) | 3:53 | 2022-07-26 | 2023-05-20 |
 | [Phir Chiddi Raat](https://open.spotify.com/track/0bdlGyCdA6DDg5wd5QfvQx) | [Lata Mangeshkar](https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc), [Talat Aziz](https://open.spotify.com/artist/6a0qIxqTaL1BgqUfby0JLc) | [Bazaar \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1avIfZTPBNVgxgbBSaNLnX) | 5:08 | 2021-12-01 | 2023-05-16 |
 | [Pyaar Ka Pehla Khat](https://open.spotify.com/track/1T5p21xwrx6Dpj3T0o9aU7) | [Jagjit Singh](https://open.spotify.com/artist/2ijWbN5KykTYiBoVmhzCTU) | [Forever Jagjit](https://open.spotify.com/album/4w055AjEwBPMQgMtQGQUmf) | 5:45 | 2021-12-01 |  |
 | [Pyar Se Pyar Karna](https://open.spotify.com/track/35kKXTNAldzctYQXSLzvgX) | [Kaushiki Chakraborty](https://open.spotify.com/artist/4qWXi8Qj92dQOEJihdVqjI) | [Pyar Se Pyar Karna](https://open.spotify.com/album/632Qeq7sYg76VMfKtFn7Y2) | 4:17 | 2023-02-27 |  |

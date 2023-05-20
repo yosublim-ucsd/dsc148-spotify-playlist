@@ -4,7 +4,7 @@
 
 > Emo feels for the misunderstood\. Cover: Lil Peep
 
-798 songs - 1 day 12 hr 11 min
+799 songs - 1 day 12 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -551,7 +551,7 @@
 | [Promises](https://open.spotify.com/track/2h4xaIcu1FHTEsvXFaXRz1) | [Phora](https://open.spotify.com/artist/5XDJlfdfbGNJrOJJNxTcdq) | [Promises](https://open.spotify.com/album/6bHxfCiCr8yl4ekvmiqKd8) | 2:37 | 2020-12-13\* | 2021-06-19 |
 | [Proud of Myself](https://open.spotify.com/track/41rjec5plYMjkAXB8pGQPc) | [Lil Xxel](https://open.spotify.com/artist/7iDeMFJKjI1ak40N3hoYOZ) | [Proud of Myself](https://open.spotify.com/album/72bc2w1RO8srvfNksj3DKq) | 1:49 | 2022-10-07 |  |
 | [Psycho!](https://open.spotify.com/track/56fkAaSu91c1E2k43wGPFC) | [MASN](https://open.spotify.com/artist/4HAfqyKr4Sqtab6ttHWXgE) | [How To Kill A Rockstar](https://open.spotify.com/album/19C3hX64lG3BikzOfwmUm6) | 3:17 | 2020-12-13\* |  |
-| [Push Me Away \(feat\. Remington Leith of Palaye Royale\)](https://open.spotify.com/track/12JSxSPqJWXttqi2dJvYRh) | [OmenXIII](https://open.spotify.com/artist/760kxYHN5QTrD1DehiimjB), [Palaye Royale](https://open.spotify.com/artist/0hAd6zwEgt9ILuMDY1prcI) | [Do You Like Me Now \(feat\. Kellin Quinn of Sleeping With Sirens\)](https://open.spotify.com/album/4wFUDCIQM4X7OAKQc2KaJv) | 2:49 | 2023-05-15 |  |
+| [Push Me Away \(feat\. Remington Leith of Palaye Royale\)](https://open.spotify.com/track/12JSxSPqJWXttqi2dJvYRh) | [OmenXIII](https://open.spotify.com/artist/760kxYHN5QTrD1DehiimjB), [Palaye Royale](https://open.spotify.com/artist/0hAd6zwEgt9ILuMDY1prcI) | [Do You Like Me Now \(feat\. Kellin Quinn of Sleeping With Sirens\)](https://open.spotify.com/album/4wFUDCIQM4X7OAKQc2KaJv) | 2:49 | 2023-05-15 | 2023-05-20 |
 | [Rather Do](https://open.spotify.com/track/5rAM2UW8MeVtBxKoNTRXUE) | [Yxngxr1](https://open.spotify.com/artist/2jwRHcdgkRhelYEMqndDKe) | [Childhood Dreams](https://open.spotify.com/album/6cXIz2IVdLHhUbKx9sLhx4) | 2:15 | 2022-05-23 |  |
 | [Read Your Mind](https://open.spotify.com/track/3riUOEnx6x0k9M9uvFHsff) | [Pardyalone](https://open.spotify.com/artist/6M4q5QWjmpjuPAi7LVFEFG) | [Read Your Mind](https://open.spotify.com/album/2nrep2RHAvqhNvIIaMfM0B) | 3:08 | 2023-01-27 | 2023-04-11 |
 | [Real Shit \(with benny blanco\)](https://open.spotify.com/track/3uVPLtkmDu8pDkYEAVqbgS) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz), [benny blanco](https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa) | [Real Shit \(with benny blanco\)](https://open.spotify.com/album/16EqCl0UoPe3xSIFg4xO6T) | 3:03 | 2020-12-13\* | 2022-02-15 |
@@ -629,6 +629,7 @@
 | [SO BAD SO WHAT](https://open.spotify.com/track/1AKk2TFBIVfjHQBIm60Z3F) | [Colby Lafayette](https://open.spotify.com/artist/5D28O29XHRpautDpiaha2K) | [SO BAD SO WHAT](https://open.spotify.com/album/21VTVBAaGLYuLd5RBOklHo) | 2:36 | 2020-12-13\* | 2021-02-27 |
 | [SO DONE](https://open.spotify.com/track/5psEZhQu6lukjhavJo4AbC) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [SO DONE](https://open.spotify.com/album/5fyH2H1o23bLNIxGu9JcMq) | 2:06 | 2020-12-13\* | 2022-04-23 |
 | [so long forgotten](https://open.spotify.com/track/7d45FbYPYdVwFqecKMjlrC) | [Ethan Ross](https://open.spotify.com/artist/59PupD35uDhgTCVfuV3GtN), [Seon](https://open.spotify.com/artist/4sADZZMvbgQIsCCkmqUYF8) | [so long forgotten](https://open.spotify.com/album/4GLLQ1Dx1I8k9DYb1MWTXt) | 3:19 | 2021-02-22 | 2021-03-14 |
+| [So Many Monsters](https://open.spotify.com/track/5Shuabm4PbfAe9k57iU8ZB) | [OmenXIII](https://open.spotify.com/artist/760kxYHN5QTrD1DehiimjB) | [So Many Monsters](https://open.spotify.com/album/4b9WYjvaEoj7YbvzvQuzP7) | 3:21 | 2023-05-19 |  |
 | [so what!](https://open.spotify.com/track/1UTnLtgadp10wkFrDWXn3u) | [347aidan](https://open.spotify.com/artist/0bBz5bRBkExaej2HxtVfCw) | [so what!](https://open.spotify.com/album/600i38QcfI9f9rZZUNzRiA) | 2:04 | 2022-08-12 | 2022-10-30 |
 | [Social Anxiety](https://open.spotify.com/track/0MZ2kETP6klE6mn7UlVoEP) | [Skye](https://open.spotify.com/artist/0sHIsJteyLhBYwKgF3Vfg2) | [Social Anxiety](https://open.spotify.com/album/4CiiKySVjaZGCqBqskiyzy) | 2:07 | 2020-12-13\* | 2021-07-01 |
 | [Someday](https://open.spotify.com/track/2GOihJe5nJysbyVYnoUf9N) | [YOG$](https://open.spotify.com/artist/22PiLADkpKIOBgYDt10UXI), [MASN](https://open.spotify.com/artist/4HAfqyKr4Sqtab6ttHWXgE), [Tiffany Day](https://open.spotify.com/artist/5D5Qbe1lf3aMnLsPSzXItu) | [Someday](https://open.spotify.com/album/1STShZXeJsVHLBR9FAnvqx) | 2:36 | 2021-08-07 | 2022-07-29 |

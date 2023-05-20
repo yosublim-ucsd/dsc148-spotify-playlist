@@ -228,7 +228,7 @@
       ],
       "date_added": "2023-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 199493,
       "name": "60 Days",
       "url": "https://open.spotify.com/track/7blLoD6TgyXy2tiTtbOLsI"
@@ -404,7 +404,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 137139,
       "name": "Ambiance",
       "url": "https://open.spotify.com/track/4E6ywa4T4jflnXe6KeB54G"
@@ -1757,6 +1757,28 @@
     },
     {
       "album": {
+        "name": "Mumble Rap 2",
+        "url": "https://open.spotify.com/album/5AESfqbUcud4cq4xkvmFAq"
+      },
+      "artists": [
+        {
+          "name": "Belly",
+          "url": "https://open.spotify.com/artist/0FOWNUFHPnMy0vOw1siGqi"
+        },
+        {
+          "name": "Rick Ross",
+          "url": "https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154902,
+      "name": "Cocaine Spoon feat. Rick Ross",
+      "url": "https://open.spotify.com/track/5nE4i6WuiOqgkQQR76T3M6"
+    },
+    {
+      "album": {
         "name": "Cocky Humble",
         "url": "https://open.spotify.com/album/2oAFxSW959Vqnk9X0k6udM"
       },
@@ -2048,7 +2070,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 161927,
       "name": "Days Like This",
       "url": "https://open.spotify.com/track/7dbgtABmOcuNsdNY5b6GXt"
@@ -2380,6 +2402,32 @@
       "duration_ms": 203906,
       "name": "Don't Remind Me",
       "url": "https://open.spotify.com/track/55KBOq8fdOWrYWYWBCKxLh"
+    },
+    {
+      "album": {
+        "name": "DOPE",
+        "url": "https://open.spotify.com/album/1G8R5Rho6D2b05MvRxn8zW"
+      },
+      "artists": [
+        {
+          "name": "Katori Walker",
+          "url": "https://open.spotify.com/artist/2ODTjg0iTHX1QxBeRNI6nT"
+        },
+        {
+          "name": "Mark Battles",
+          "url": "https://open.spotify.com/artist/24SwsBq76FnNeXW9Do4wPI"
+        },
+        {
+          "name": "K.A.A.N.",
+          "url": "https://open.spotify.com/artist/6WSTevYt4rGwm8QPKQr7dU"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192426,
+      "name": "DOPE",
+      "url": "https://open.spotify.com/track/0TdNgLC0GuxmWDy2Vwp426"
     },
     {
       "album": {
@@ -3079,6 +3127,28 @@
     },
     {
       "album": {
+        "name": "Get A Ticket",
+        "url": "https://open.spotify.com/album/0idQETHpZfu6zCAqP5unBw"
+      },
+      "artists": [
+        {
+          "name": "Chase Fetti",
+          "url": "https://open.spotify.com/artist/4aAGG2cCHa15MPo795nJ97"
+        },
+        {
+          "name": "Benny The Butcher",
+          "url": "https://open.spotify.com/artist/5Matrg5du62bXwer29cU5T"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172500,
+      "name": "Get A Ticket",
+      "url": "https://open.spotify.com/track/60PjmG1cTL2MRuDa8MRlkB"
+    },
+    {
+      "album": {
         "name": "Ghetto Praise",
         "url": "https://open.spotify.com/album/5kMV844MGwO03ZBF4iAOyc"
       },
@@ -3280,7 +3350,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 222776,
       "name": "Gold Rings (feat. Pusha T)",
       "url": "https://open.spotify.com/track/2L5FjwGluXOyaeqn775Va0"
@@ -3620,6 +3690,24 @@
       "duration_ms": 312653,
       "name": "Help Me God",
       "url": "https://open.spotify.com/track/4bboBH2tBue5ANUrURizjV"
+    },
+    {
+      "album": {
+        "name": "Mumble Rap 2",
+        "url": "https://open.spotify.com/album/5AESfqbUcud4cq4xkvmFAq"
+      },
+      "artists": [
+        {
+          "name": "Belly",
+          "url": "https://open.spotify.com/artist/0FOWNUFHPnMy0vOw1siGqi"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126392,
+      "name": "Heroic Villains",
+      "url": "https://open.spotify.com/track/7k5BuT9RPG2shzV4slmM0a"
     },
     {
       "album": {
@@ -4903,6 +4991,36 @@
     },
     {
       "album": {
+        "name": "KAYTRAMIN\u00c9",
+        "url": "https://open.spotify.com/album/1plAqF2W8hwAhcpBAfGNsW"
+      },
+      "artists": [
+        {
+          "name": "KAYTRAMIN\u00c9",
+          "url": "https://open.spotify.com/artist/5oifjQw72WO7Jut07fVWMy"
+        },
+        {
+          "name": "Amin\u00e9",
+          "url": "https://open.spotify.com/artist/3Gm5F95VdRxW3mqCn8RPBJ"
+        },
+        {
+          "name": "KAYTRANADA",
+          "url": "https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu"
+        },
+        {
+          "name": "Freddie Gibbs",
+          "url": "https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166994,
+      "name": "letstalkaboutit",
+      "url": "https://open.spotify.com/track/0Z4oNNgJKK9VcuSw1L5Cb4"
+    },
+    {
+      "album": {
         "name": "D-Day: A Gangsta Grillz Mixtape",
         "url": "https://open.spotify.com/album/3tFjhFPqGhhLrCULnPu7Wy"
       },
@@ -5444,7 +5562,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 213927,
       "name": "MOTHERLESS - Single Version",
       "url": "https://open.spotify.com/track/4EMmtIMp0fkU4Au326hA5l"
@@ -7056,7 +7174,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 180340,
       "name": "Runaway (feat. Nas)",
       "url": "https://open.spotify.com/track/2DiX9oeghV7lv1mxnRnO6L"
@@ -8816,6 +8934,24 @@
       "duration_ms": 201128,
       "name": "Times Is Rough",
       "url": "https://open.spotify.com/track/1EzmTNUSKb0J5eXGgrP6wy"
+    },
+    {
+      "album": {
+        "name": "Top G",
+        "url": "https://open.spotify.com/album/75pxiiFLD7OdSdYQYUpyGK"
+      },
+      "artists": [
+        {
+          "name": "Symba",
+          "url": "https://open.spotify.com/artist/06S3fr7xEES7e3QPXhu3ay"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213750,
+      "name": "Top G",
+      "url": "https://open.spotify.com/track/1N1gsO7kqA3bt9YqUXqARm"
     },
     {
       "album": {

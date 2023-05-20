@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWULEW2RfoSCi.md) - [plain]
 
 > A collection of the biggest soul tracks from the 1970s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,416,232 likes - 94 songs - 6 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,416,702 likes - 94 songs - 6 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,8 +81,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWULEW2RfoSCi.md) - [plain]
 | 71 | [Bridge over Troubled Water](https://open.spotify.com/track/5YD86vWLu1YqR818b1GADO) | [Aretha Franklin](https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok) | [The Very Best of Aretha Franklin \- The 70's](https://open.spotify.com/album/2jfJMNfHt2kIqSOyQyq7Jn) | 5:33 |
 | 72 | [Woman To Woman](https://open.spotify.com/track/4vrOAcjaNkGkV2ZswUZHC1) | [Shirley Brown](https://open.spotify.com/artist/5EORJzqrFf7pwweCv9fUnV) | [Woman to Woman \[Stax Remasters\]](https://open.spotify.com/album/7Ib8kokMjls2C5CsKhAy1I) | 3:58 |
 | 73 | [For the Love of You, Pts\. 1 & 2](https://open.spotify.com/track/6k0GXtn49Ga6kfA8ZvLtVX) | [The Isley Brothers](https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp) | [The Essential Isley Brothers](https://open.spotify.com/album/6EgsYSfVYAygvcDvC1IO8v) | 5:37 |
-| 74 | [Enjoy Yourself](https://open.spotify.com/track/4OdhWe5GZTkwAuNXLQZImM) | [The Jacksons](https://open.spotify.com/artist/2yrbLiuBmc9j81lTX3XUuI) | [The Jacksons](https://open.spotify.com/album/4s3Piwh8AOoAl1VvskfwJF) | 3:24 |
-| 75 | [Freddie's Dead](https://open.spotify.com/track/2ouFIPC3O1HNBcVTw1d9AN) | [Curtis Mayfield](https://open.spotify.com/artist/2AV6XDIs32ofIJhkkDevjm) | [Superfly: Deluxe 25th Anniversary Edition](https://open.spotify.com/album/5QuvlU7nCUZZJauMvhlWR4) | 5:29 |
+| 74 | [Freddie's Dead](https://open.spotify.com/track/2ouFIPC3O1HNBcVTw1d9AN) | [Curtis Mayfield](https://open.spotify.com/artist/2AV6XDIs32ofIJhkkDevjm) | [Superfly: Deluxe 25th Anniversary Edition](https://open.spotify.com/album/5QuvlU7nCUZZJauMvhlWR4) | 5:29 |
+| 75 | [Enjoy Yourself](https://open.spotify.com/track/4OdhWe5GZTkwAuNXLQZImM) | [The Jacksons](https://open.spotify.com/artist/2yrbLiuBmc9j81lTX3XUuI) | [The Jacksons](https://open.spotify.com/album/4s3Piwh8AOoAl1VvskfwJF) | 3:24 |
 | 76 | [You Know How to Love Me \- 7" Version](https://open.spotify.com/track/12nDGzwsNPNjULCy7VKGHx) | [Phyllis Hyman](https://open.spotify.com/artist/3oqSDVaf6RoBGreqOlgUpv) | [You Know How to Love Me \(Expanded Edition\)](https://open.spotify.com/album/6McedcPTihVzYQ7dqLK7PM) | 3:46 |
 | 77 | [Make It Funky \- Pt\. 1](https://open.spotify.com/track/3pNfCtcbhWwa6TouKcMTGp) | [James Brown](https://open.spotify.com/artist/7GaxyUddsPok8BuhxN6OUW), [The J.B.'s](https://open.spotify.com/artist/4lJHGi5dlJmWwFH0JKF6di) | [70's Funk Classics](https://open.spotify.com/album/2qHJQ1SqVTUfN93ovRHjZc) | 3:18 |
 | 78 | [Woman's Gotta Have It](https://open.spotify.com/track/20HCbY9qPpi1H2pP2MRUWy) | [Bobby Womack](https://open.spotify.com/artist/0vqkz1b2qBkoYrGMj2CUWq) | [The Best Of Bobby Womack \- The Soul Years](https://open.spotify.com/album/6aBN9OWwAcB49LWlI95ekd) | 3:30 |
@@ -90,8 +90,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWULEW2RfoSCi.md) - [plain]
 | 80 | [Drowning in the Sea of Love](https://open.spotify.com/track/1hbf8AWhIfIQk8V9KqTRAl) | [Joe Simon](https://open.spotify.com/artist/5HRSYURV6LFFRCjAtiK0py) | [Drowning in the Sea of Love](https://open.spotify.com/album/3KXu9WiHi6HlxXM9aZtdQU) | 3:23 |
 | 81 | [Masterpiece](https://open.spotify.com/track/4gAsVttMY36zJUCa7FYoJN) | [The Temptations](https://open.spotify.com/artist/3RwQ26hR2tJtA8F9p2n7jG) | [Masterpiece](https://open.spotify.com/album/3ZRpmo4encM3hourEMUE0g) | 13:50 |
 | 82 | [Got To Be There](https://open.spotify.com/track/5nU90wCMFO8sU0tVYDBvUN) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [Hello World \- The Motown Solo Collection](https://open.spotify.com/album/2JTn8KdFeeS4nVz4TTfUpS) | 3:24 |
-| 83 | [You're A Big Girl Now](https://open.spotify.com/track/5C7WGqaFxmYsWi0OpV6blr) | [The Stylistics](https://open.spotify.com/artist/2O0Hw1WSMbskB5tD9aWah3) | [The Stylistics \- The Original Debut Album](https://open.spotify.com/album/3b0WbtWBcqi3dk9co2oFAJ) | 3:18 |
-| 84 | [Pusherman](https://open.spotify.com/track/7J8F8mHNV79WSV3N2lVwHH) | [Curtis Mayfield](https://open.spotify.com/artist/2AV6XDIs32ofIJhkkDevjm) | [Superfly \(Original Soundtrack\)](https://open.spotify.com/album/5ljIGCRRvS48V4ADzPGav2) | 5:00 |
+| 83 | [Pusherman](https://open.spotify.com/track/7J8F8mHNV79WSV3N2lVwHH) | [Curtis Mayfield](https://open.spotify.com/artist/2AV6XDIs32ofIJhkkDevjm) | [Superfly \(Original Soundtrack\)](https://open.spotify.com/album/5ljIGCRRvS48V4ADzPGav2) | 5:00 |
+| 84 | [You're A Big Girl Now](https://open.spotify.com/track/5C7WGqaFxmYsWi0OpV6blr) | [The Stylistics](https://open.spotify.com/artist/2O0Hw1WSMbskB5tD9aWah3) | [The Stylistics \- The Original Debut Album](https://open.spotify.com/album/3b0WbtWBcqi3dk9co2oFAJ) | 3:18 |
 | 85 | [Wake up Everybody \(feat\. Teddy Pendergrass\)](https://open.spotify.com/track/6aeSAKcpmdXyxUJK4ojyyR) | [Harold Melvin & The Blue Notes](https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy), [Teddy Pendergrass](https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ) | [R&B: From Doo\-Wop To Hip\-Hop](https://open.spotify.com/album/4he7R24eqd1EbF9kegiAK8) | 3:31 |
 | 86 | [\(Do The\) Push And Pull \- Pt\. 1](https://open.spotify.com/track/1SwUqH8LELoY6SwldhOwr8) | [Rufus Thomas](https://open.spotify.com/artist/3iRSHS3b4NUdjNbnw3Opg8) | [Funkiest Man Alive: The Stax Funk Sessions 1967\-1975](https://open.spotify.com/album/0WEx9floYie1WDNvKAkYwp) | 3:18 |
 | 87 | [Jody's Got Your Girl And Gone](https://open.spotify.com/track/4cuu41Cglk9Wb6bbKXaz97) | [Johnnie Taylor](https://open.spotify.com/artist/4OGuNAnRFWZOgOA2d51taz) | [Chronicle: The 20 Greatest Hits](https://open.spotify.com/album/1QMVI7vXJxC2f4R65Mu1zd) | 3:00 |
@@ -103,4 +103,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWULEW2RfoSCi.md) - [plain]
 | 93 | [If You Don't Know Me by Now \(feat\. Teddy Pendergrass\)](https://open.spotify.com/track/3NElqDNNnzvWYOwsbxLQKN) | [Harold Melvin & The Blue Notes](https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy), [Teddy Pendergrass](https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ) | [Harold Melvin & The Blue Notes \(feat\. Teddy Pendergrass\)](https://open.spotify.com/album/3Yqyi7rmyXYDbcc0qJzXef) | 3:25 |
 | 94 | [Now That We Found Love](https://open.spotify.com/track/0qOkHfSClduvkvGk6fCu8l) | [The O'Jays](https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT) | [Ship Ahoy \(Expanded Edition\)](https://open.spotify.com/album/0prtrB4HNL9tiEeAv57Bz8) | 4:41 |
 
-Snapshot ID: `MCxlMGI3NWUxZDAxMzExN2YxNmE5MTVjYjZhMTQyMjFmNDQwOWE3YTg2`
+Snapshot ID: `MCw4ZmY1MzkyNDRjNjQ0YzgzY2RlMTQ5ODcyNDU4ZDQ2ODI1ZTY5YzQ1`

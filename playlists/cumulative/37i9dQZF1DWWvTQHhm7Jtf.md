@@ -4,7 +4,7 @@
 
 > A pangea of ethnic/futuristic sounds inspired by Brian Eno and Jon Hassell's 'Fourth World Vol 1 \- Possible Musics'.
 
-141 songs - 14 hr 48 min
+142 songs - 14 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -123,6 +123,7 @@
 | [The Blue of Distance](https://open.spotify.com/track/6ZWKWSVd57ofFsgEez8aI6) | [Elori Saxl](https://open.spotify.com/artist/6ToGjPfiUS10Zds9xirvm0) | [The Blue of Distance](https://open.spotify.com/album/2fgYV6cTjFeqb0yPbj4piy) | 7:05 | 2021-10-20 |  |
 | [The Brook](https://open.spotify.com/track/1ZGoURXFfkQ9STyFXtqsIu) | [Oils](https://open.spotify.com/artist/3Q2M9TPSdCOUOw0IStqvdI) | [Noodles](https://open.spotify.com/album/2osw99nWs2Ksyccj99sZ60) | 5:26 | 2021-10-20 |  |
 | [The Clearing Pt\. 2](https://open.spotify.com/track/2SCFCNIvWuup7rGr9pUa1C) | [Hans Berg](https://open.spotify.com/artist/3HtBPJEDYVtAbTGSpaJ3Hk) | [Waypoints](https://open.spotify.com/album/7niveWSY99Oij26h1PjjBR) | 5:54 | 2022-09-21 |  |
+| [The Loss of Wilderness](https://open.spotify.com/track/04tFCehRHa8mbwhXu00StW) | [ILUITEQ](https://open.spotify.com/artist/1J6vVQgVSsWTwVhPz1wQmq) | [The Loss of Wilderness](https://open.spotify.com/album/4BRp0FYalzuIdl2TBOQWB7) | 5:57 | 2022-01-11 |  |
 | [The Loss of Wilderness](https://open.spotify.com/track/4VAcyWI2N7uVBSKtpElawe) | [ILUITEQ](https://open.spotify.com/artist/1J6vVQgVSsWTwVhPz1wQmq) | [The Loss of Wilderness](https://open.spotify.com/album/7lMF8u1HdnWqwd1AaWVXzl) | 5:57 | 2022-01-11 | 2023-04-30 |
 | [The Protester](https://open.spotify.com/track/6IgAKh5Oix3jLoCQyrfy9b) | [Aaron Cupples](https://open.spotify.com/artist/3OGQFxVzdGQPrvPJXozi8h) | [Island of the Hungry Ghosts \(OST\)](https://open.spotify.com/album/0o8P0i2Ljyt2KVV7LH6wAT) | 4:14 | 2021-10-20 | 2022-07-29 |
 | [The Three Realms](https://open.spotify.com/track/4RktobAj8s4udPtUsEcWZY) | [D.K.](https://open.spotify.com/artist/6JGGS3JOcMIxa0QF6pFnzN) | [The Goddess Is Dancing](https://open.spotify.com/album/45Gxh7xqUU4ouDREPoSgKN) | 6:11 | 2021-10-20 | 2022-11-13 |
@@ -148,6 +149,6 @@
 | [We Borrowed Feathers](https://open.spotify.com/track/7ewoRGr2GvyibGbT2kd4UK) | [Laura Cannell](https://open.spotify.com/artist/6vu845nbe3HOXDNYhMmZSq) | [Antiphony of the Trees](https://open.spotify.com/album/6iDjToo4wsYwronftMsCeD) | 3:32 | 2022-03-30 | 2022-07-29 |
 | [Whisper Fold Brush, Pt\. One](https://open.spotify.com/track/2onDSsrIdCaAm9p5ji0bbk) | [Sofie Birch](https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn) | [Whisper Fold Brush](https://open.spotify.com/album/1VRGRbyHmvPuuelNSIj8m7) | 19:50 | 2021-10-20 | 2023-05-16 |
 | [Yamaha Birds 1](https://open.spotify.com/track/4Mkcj2bzoM8ELAgSHISGdL) | [Dialect](https://open.spotify.com/artist/22oD5ZYEJPZf9e68jQbQz5) | [Under\~Between](https://open.spotify.com/album/6Rjl7SEzpe9z8OrOJQakEB) | 2:04 | 2021-10-20 | 2022-07-28 |
-| [Yamaha Birds 1](https://open.spotify.com/track/7t7taJQjwmd3NFdkjI6FIt) | [Dialect](https://open.spotify.com/artist/22oD5ZYEJPZf9e68jQbQz5) | [Under\~Between](https://open.spotify.com/album/3RDWe0g3LLqhJhDdq1uRKk) | 2:04 | 2021-10-20 |  |
+| [Yamaha Birds 1](https://open.spotify.com/track/7t7taJQjwmd3NFdkjI6FIt) | [Dialect](https://open.spotify.com/artist/22oD5ZYEJPZf9e68jQbQz5) | [Under\~Between](https://open.spotify.com/album/3RDWe0g3LLqhJhDdq1uRKk) | 2:04 | 2021-10-20 | 2023-05-20 |
 
 \*This playlist was first scraped on 2022-03-22. Prior content cannot be recovered.

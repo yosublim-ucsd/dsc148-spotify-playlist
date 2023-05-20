@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "Global crossovers by/with Arab artists. Cover: Zeina & Saint Levant",
+  "description": "Global crossovers by/with Arab artists. Cover: Llunr ",
   "name": "Arab X",
   "tracks": [
     {
@@ -2888,6 +2888,32 @@
       "duration_ms": 340000,
       "name": "Manich Kima Bakri",
       "url": "https://open.spotify.com/track/5z8sSUJ09vXNNrpqxc0u0B"
+    },
+    {
+      "album": {
+        "name": "Maradona (feat. Freek)",
+        "url": "https://open.spotify.com/album/3lxGjx9wuTvWMbHuGa6eep"
+      },
+      "artists": [
+        {
+          "name": "Rayan",
+          "url": "https://open.spotify.com/artist/6doCr3greqY545Eo7IsY3m"
+        },
+        {
+          "name": "Intifaya",
+          "url": "https://open.spotify.com/artist/1sSz8a84ezDX1LhXCIgt41"
+        },
+        {
+          "name": "Freek",
+          "url": "https://open.spotify.com/artist/3mDNOQ147emFZ8WK7Fa2nI"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177887,
+      "name": "Maradona (feat. Freek)",
+      "url": "https://open.spotify.com/track/2MnoGHiqYlj38lzwfnuFy6"
     },
     {
       "album": {

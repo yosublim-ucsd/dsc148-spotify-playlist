@@ -4,7 +4,7 @@
 
 > hey it's Diplo taking over Country Club 🐊 here are some of my favorite country tracks for the club.
 
-144 songs - 7 hr 56 min
+146 songs - 8 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -143,8 +143,10 @@
 | [Use Me \(Brutal Hearts\) \(feat\. Sturgill Simpson, Dove Cameron & Johnny Blue Skies\)](https://open.spotify.com/track/0poKbTUdYz7lXFd15XuHiC) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Sturgill Simpson](https://open.spotify.com/artist/3vDpQbGnzRbRVirXlfQagB), [Dove Cameron](https://open.spotify.com/artist/2W8yFh0Ga6Yf3jiayVxwkE), [Johnny Blue Skies](https://open.spotify.com/artist/5R55ruC73ANyzDSOzIZjNc) | [Use Me \(Brutal Hearts\) \(feat\. Sturgill Simpson, Dove Cameron & Johnny Blue Skies\)](https://open.spotify.com/album/1Wp9ImrDqyqMGfZVohAfw1) | 3:22 | 2023-04-14 |  |
 | [Used To](https://open.spotify.com/track/3Hsym5x2F9hQ5ZJF6VXBN4) | [Brandon Ray](https://open.spotify.com/artist/7uOj7ISCtmaA0BctMszzAw) | [Used To](https://open.spotify.com/album/2TTr0h1ALBNdpTIfbqK7Mk) | 3:03 | 2021-12-10 |  |
 | [Waitin' on 5 \- Summer Jam Mix](https://open.spotify.com/track/1kYZy0xHmJlCxOUBYkp2LJ) | [Chris Janson](https://open.spotify.com/artist/60gmlHZmT16wiO9GiXKYK9) | [Waitin' on 5 \(Summer Jam Mix\)](https://open.spotify.com/album/1qpUQmzdGhpUwYbeeVTlW9) | 2:44 | 2021-12-10 |  |
+| [We Got History \- VAVO & DLAY Remix](https://open.spotify.com/track/5wzVRwT7LAUmafyhGLoUL7) | [Mitchell Tenpenny](https://open.spotify.com/artist/1p6CdzJRoicjRcSdWoB9Qc), [VAVO](https://open.spotify.com/artist/44re77WwNG34C182Jq3WIK), [DLAY](https://open.spotify.com/artist/6DkYYBzjkkFZeVJqvZFHLT) | [We Got History \(VAVO & DLAY Remix\)](https://open.spotify.com/album/6EbhpXJqHHXHWO63AI9Q18) | 2:10 | 2023-05-19 |  |
 | [Welcome to the Club](https://open.spotify.com/track/4hhDTWA9dgmnPft1SDq26V) | [Twinnie](https://open.spotify.com/artist/73zbrZKfIqOfVWaSM4k71b) | [Welcome to the Club](https://open.spotify.com/album/4ZF1tYfrslqA8g4v8cO1nW) | 3:09 | 2022-02-18 |  |
 | [What Ifs \(Remix\) \(feat\. Lauren Alaina\)](https://open.spotify.com/track/7dDq3MWjdEyTh0d0L3C4FX) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE), [Lauren Alaina](https://open.spotify.com/artist/1v3tdpIdBSW14rHUfiEVOv) | [What Ifs \(Remix\) \(feat\. Lauren Alaina\)](https://open.spotify.com/album/4RmJM37fQjrPCuJ1E6oBIh) | 3:11 | 2021-12-10 |  |
+| [When It Rains It Pours](https://open.spotify.com/track/3hKjUWneThtWscAoDLwvfT) | [MC4D](https://open.spotify.com/artist/2MbY32LPINIi9P6PCkrOJI), [Luke Borchelt](https://open.spotify.com/artist/2O6xZPq4ER6q6xwdW3sLfQ), [Different Hits](https://open.spotify.com/artist/4HWywnqGjEKQtFjtatEpzK) | [When It Rains It Pours](https://open.spotify.com/album/1AWyoDW2cHPNx50Hs6uHpC) | 4:00 | 2023-05-19 |  |
 | [Whiskey On You \- MOTi Remix](https://open.spotify.com/track/71lK60jidcsiwpbajRFVYX) | [Nate Smith](https://open.spotify.com/artist/4NYMUsIcUUsBHbV9DICa5x), [MOTi](https://open.spotify.com/artist/1vo8zHmO1KzkuU9Xxh6J7W) | [Whiskey On You \(MOTi Remix\)](https://open.spotify.com/album/6cfd4vhDiISxkUnPIjWztR) | 3:06 | 2023-01-27 |  |
 | [Wildfire \- Talegate Remix](https://open.spotify.com/track/2UkreilNoKlrqe6VdXV0uq) | [Nate Smith](https://open.spotify.com/artist/4NYMUsIcUUsBHbV9DICa5x), [Talegate](https://open.spotify.com/artist/00IczxaF2dh2W68AutGoC6) | [Wildfire \(Talegate Remix\)](https://open.spotify.com/album/1IKEWDplIqMd1mVslUmasc) | 3:06 | 2021-12-10 |  |
 | [Wrong Side Of Love \(with Darius Rucker\)](https://open.spotify.com/track/41j9A7KuBLcRfO0IKmAYcc) | [Young Bombs](https://open.spotify.com/artist/4LKB1IkCINDDjEX8iS7glI), [Darius Rucker](https://open.spotify.com/artist/7FY5V3XMwlNBPitEjXowHQ) | [Wrong Side Of Love](https://open.spotify.com/album/22JimFUaCr4DaWx7b6FWoJ) | 3:49 | 2021-12-10 |  |

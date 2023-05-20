@@ -2908,7 +2908,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 117915,
       "name": "For Brea",
       "url": "https://open.spotify.com/track/7AAiL40T07q44EzwZWhsmf"
@@ -6062,7 +6062,7 @@
       ],
       "date_added": "2022-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 191427,
       "name": "Nebelschleier",
       "url": "https://open.spotify.com/track/6GsRRJRItgJZSFT1USSH1A"
@@ -7088,7 +7088,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-11",
+      "date_removed": null,
       "duration_ms": 144446,
       "name": "Pursuance",
       "url": "https://open.spotify.com/track/2VV9vBFleaOfvDkKRxUNR6"
@@ -9292,6 +9292,24 @@
       "duration_ms": 185738,
       "name": "Together We Succeed",
       "url": "https://open.spotify.com/track/3U7aMdZAjOkcmZ4nUKQqZJ"
+    },
+    {
+      "album": {
+        "name": "Tout a un sens",
+        "url": "https://open.spotify.com/album/76RPqIq2w4iW7G0NiWeouE"
+      },
+      "artists": [
+        {
+          "name": "Claire Pinette",
+          "url": "https://open.spotify.com/artist/4cmV4jq8K9fFMqXdYQrtRP"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135911,
+      "name": "Tout a un sens",
+      "url": "https://open.spotify.com/track/5VOhUrpLELS03TrEJsnL7X"
     },
     {
       "album": {

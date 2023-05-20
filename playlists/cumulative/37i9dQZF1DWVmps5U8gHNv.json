@@ -117,6 +117,24 @@
     },
     {
       "album": {
+        "name": "All Nights, All Days",
+        "url": "https://open.spotify.com/album/1sG6knJH4lEWNxvJ5A3NZi"
+      },
+      "artists": [
+        {
+          "name": "Yusuf / Cat Stevens",
+          "url": "https://open.spotify.com/artist/08F3Y3SctIlsOEmKd6dnH8"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142853,
+      "name": "All Nights, All Days",
+      "url": "https://open.spotify.com/track/0hIYVHio9wHLYdBrqiHSsg"
+    },
+    {
+      "album": {
         "name": "There Goes Rhymin' Simon",
         "url": "https://open.spotify.com/album/50pzpI17hwQj7LKcOiLMFD"
       },
@@ -2308,6 +2326,24 @@
       "duration_ms": 227200,
       "name": "Suzanne",
       "url": "https://open.spotify.com/track/50LqU2nhdE3fmWOuqOjpjz"
+    },
+    {
+      "album": {
+        "name": "Come Back To Me",
+        "url": "https://open.spotify.com/album/561eKNmfenwaF1fZsVayMv"
+      },
+      "artists": [
+        {
+          "name": "Peter One",
+          "url": "https://open.spotify.com/artist/0a2PWvcYoeN1ZCzpujQ0qo"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246346,
+      "name": "Sweet Rainbow",
+      "url": "https://open.spotify.com/track/3uFjMR6c3fmF6Us3phdVWI"
     },
     {
       "album": {

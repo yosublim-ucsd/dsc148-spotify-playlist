@@ -114,7 +114,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-03",
+      "date_removed": null,
       "duration_ms": 252226,
       "name": "Break on Free",
       "url": "https://open.spotify.com/track/3bgTnGXXofWoZG4Vf1bgwX"
@@ -154,7 +154,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-27",
+      "date_removed": null,
       "duration_ms": 143116,
       "name": "Bubbles",
       "url": "https://open.spotify.com/track/0wt7KE5Y255f2enVmlwsu0"
@@ -298,7 +298,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-28",
+      "date_removed": null,
       "duration_ms": 240605,
       "name": "Dumb It Down",
       "url": "https://open.spotify.com/track/1rTEy4i5etvlOB1zUysKro"
@@ -316,7 +316,7 @@
       ],
       "date_added": "2020-12-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-25",
+      "date_removed": null,
       "duration_ms": 277293,
       "name": "Family Curse",
       "url": "https://open.spotify.com/track/2Bwj1i96TGj2Z2QQhOHy95"
@@ -432,7 +432,7 @@
       ],
       "date_added": "2020-12-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-26",
+      "date_removed": null,
       "duration_ms": 235573,
       "name": "Good Man, Bad Thing",
       "url": "https://open.spotify.com/track/4HUkd5HNHlja9YRP1UxTF1"
@@ -472,6 +472,24 @@
       "duration_ms": 356773,
       "name": "Greasy Man",
       "url": "https://open.spotify.com/track/2Izextri7Ho1xu0mvVZcpI"
+    },
+    {
+      "album": {
+        "name": "Green Onions (De Novo, Part 2)",
+        "url": "https://open.spotify.com/album/2gI7OiDlybhxe022q9p5o7"
+      },
+      "artists": [
+        {
+          "name": "Booker T. Jones",
+          "url": "https://open.spotify.com/artist/6J3pUmw6KX1LqyLQkP0k9U"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 335897,
+      "name": "Green Onions - Funky Onions Cut",
+      "url": "https://open.spotify.com/track/67nuTZ3voeOI5oWKutgS4E"
     },
     {
       "album": {
@@ -540,7 +558,7 @@
       ],
       "date_added": "2020-12-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": null,
       "duration_ms": 233040,
       "name": "Head Rag",
       "url": "https://open.spotify.com/track/5A70L6PqA5DkAw1Z33jB1z"
@@ -565,6 +583,24 @@
     },
     {
       "album": {
+        "name": "Chills & Thrills",
+        "url": "https://open.spotify.com/album/3NAEXb8fdzzi9umXkF36J5"
+      },
+      "artists": [
+        {
+          "name": "Bernard Allison",
+          "url": "https://open.spotify.com/artist/0oLmGtqMpKAAVNJyJ71AcI"
+        }
+      ],
+      "date_added": "2020-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198866,
+      "name": "Heart Of St. Paul",
+      "url": "https://open.spotify.com/track/1L43Z6RQCcQz7x1Oq7fY4C"
+    },
+    {
+      "album": {
         "name": "Deluxe Edition",
         "url": "https://open.spotify.com/album/40O2V8Adg9cZCluTTeLEYU"
       },
@@ -576,7 +612,7 @@
       ],
       "date_added": "2020-12-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": null,
       "duration_ms": 227560,
       "name": "Hoodoo She Do",
       "url": "https://open.spotify.com/track/0gxaFS6T8sUczecSuIgVv8"
@@ -652,7 +688,7 @@
       ],
       "date_added": "2020-12-01",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-02",
+      "date_removed": null,
       "duration_ms": 250333,
       "name": "I'm Beginning To Wonder",
       "url": "https://open.spotify.com/track/5X0ZEfoekfnklaSqzdTM0Z"
@@ -688,7 +724,7 @@
       ],
       "date_added": "2021-04-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 193010,
       "name": "I'm Not Havin' It",
       "url": "https://open.spotify.com/track/3ufdOA1Ypl0DwCIcWqLOJl"
@@ -772,6 +808,24 @@
     {
       "album": {
         "name": "Lover's Plea",
+        "url": "https://open.spotify.com/album/5ltNYfYnEzOq2z7a1Ctcd1"
+      },
+      "artists": [
+        {
+          "name": "W.C. Clark",
+          "url": "https://open.spotify.com/artist/2eJojpx2Dv1QL3WBjJQXWi"
+        }
+      ],
+      "date_added": "2020-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207279,
+      "name": "Lover's Plea",
+      "url": "https://open.spotify.com/track/6zG4wQZTNFrYJ1XXjzc5M8"
+    },
+    {
+      "album": {
+        "name": "Lover's Plea",
         "url": "https://open.spotify.com/album/1eyGJC7Mk4pLwKD6LsK4ce"
       },
       "artists": [
@@ -836,7 +890,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-10",
+      "date_removed": null,
       "duration_ms": 187306,
       "name": "Never Giving Up on You",
       "url": "https://open.spotify.com/track/1EKcUQUFKDjULNdBs74Sco"
@@ -861,6 +915,24 @@
     },
     {
       "album": {
+        "name": "Heavy Picks-The Robert Cray Band Collection",
+        "url": "https://open.spotify.com/album/4vxRqmFB4Tp4zXYV2HITXI"
+      },
+      "artists": [
+        {
+          "name": "The Robert Cray Band",
+          "url": "https://open.spotify.com/artist/6cAtGdArQhrU7tTBoeWY3P"
+        }
+      ],
+      "date_added": "2020-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209760,
+      "name": "Phone Booth",
+      "url": "https://open.spotify.com/track/3uOs9LzMSrkvqKj0fWyiiP"
+    },
+    {
+      "album": {
         "name": "I Wanna Get Funky",
         "url": "https://open.spotify.com/album/6046X2I4SRTkO4BY14PGG6"
       },
@@ -872,7 +944,7 @@
       ],
       "date_added": "2020-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 203066,
       "name": "Playing On Me",
       "url": "https://open.spotify.com/track/1iLqQUd6H6qN0FzKxDYXaf"
@@ -1014,7 +1086,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-20",
+      "date_removed": null,
       "duration_ms": 284053,
       "name": "Set The Record Straight",
       "url": "https://open.spotify.com/track/4AdSgPoYsFYrIfZZUS9zX9"
@@ -1159,6 +1231,24 @@
     },
     {
       "album": {
+        "name": "STAX of BLUES",
+        "url": "https://open.spotify.com/album/0xOYSJJhn7c2KRj2lkT5AK"
+      },
+      "artists": [
+        {
+          "name": "Ray Beadle",
+          "url": "https://open.spotify.com/artist/7wGs0wj3dW628DJio6N4r3"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 325474,
+      "name": "That's What The Blues Is All About",
+      "url": "https://open.spotify.com/track/3VeDKWLLDcWHzY4VWmfrz7"
+    },
+    {
+      "album": {
         "name": "Cover To Cover",
         "url": "https://open.spotify.com/album/6brfMrKnGoGFF1AtB7TTS5"
       },
@@ -1246,7 +1336,7 @@
       ],
       "date_added": "2020-12-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 278840,
       "name": "We'll Always Be Together",
       "url": "https://open.spotify.com/track/35lJrhNHp5g0rTEsue06Wh"
@@ -1307,6 +1397,32 @@
     },
     {
       "album": {
+        "name": "Whiskey Makes Me Stronger",
+        "url": "https://open.spotify.com/album/77PjKbYYS7tOz4BMDQgzIY"
+      },
+      "artists": [
+        {
+          "name": "The Lucky Strokes",
+          "url": "https://open.spotify.com/artist/5AwQED6K6NWvl022vZJvUX"
+        },
+        {
+          "name": "Eddie Roberts",
+          "url": "https://open.spotify.com/artist/7oitwuUO5J1Bd9ItTsc3bI"
+        },
+        {
+          "name": "Shelby Kemp",
+          "url": "https://open.spotify.com/artist/3EmKdszswxAkvRs2XYQPK5"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153296,
+      "name": "Whiskey Makes Me Stronger",
+      "url": "https://open.spotify.com/track/0ILmJjjyRTnhE5DdnTjPUQ"
+    },
+    {
+      "album": {
         "name": "Witch Doctor",
         "url": "https://open.spotify.com/album/0VwqogF4FSDwJf0hLSIpwJ"
       },
@@ -1336,7 +1452,7 @@
       ],
       "date_added": "2020-12-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-16",
+      "date_removed": null,
       "duration_ms": 290013,
       "name": "You Been Sweet To Me",
       "url": "https://open.spotify.com/track/4evgHdHMdofFQ9YbpdWq3G"

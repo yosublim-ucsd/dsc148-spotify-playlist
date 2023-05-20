@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14V0XKu8GA9.md) - [plain]
 
 > The wave of Latinos in Hip\-Hop from the U.S\. Cover: Speak
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,053 likes - 40 songs - 1 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,073 likes - 40 songs - 1 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,8 +17,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14V0XKu8GA9.md) - [plain]
 | 7 | [The Dream](https://open.spotify.com/track/4TYe8NRgpLFQBJrJLeSAqn) | [xBValentine](https://open.spotify.com/artist/4THqvMsBc72amqxSB45LDu), [D Smoke](https://open.spotify.com/artist/23rK0hajv5ix2yPM4IIgOo) | [The Dream](https://open.spotify.com/album/3IICOMvM3iSFf0Q3Jmc1Pt) | 3:22 |
 | 8 | [Shadow Banned](https://open.spotify.com/track/2qkObeNbfhoiPjAI5iFCyj) | [Omar Cruz](https://open.spotify.com/artist/3H3t7VTapFSSQRRWlp5m28) | [Shadow Banned](https://open.spotify.com/album/7rqLkVkk8JvoZMhmy9sKWD) | 2:54 |
 | 9 | [Pit Lock](https://open.spotify.com/track/2AyHR8cpwN5AE8b6LXxEX4) | [Sadboy Loko](https://open.spotify.com/artist/6RP0xHhRvtrYPkhO34F1gD), [Listo](https://open.spotify.com/artist/5sSLpAr0xoLVlbIRbJEj8j) | [Pit Lock](https://open.spotify.com/album/7a2jknztQ0lP5ixtbEIxZX) | 2:40 |
-| 10 | [Blue Rag](https://open.spotify.com/track/50nmYPB44NTrpizigC3lJG) | [Bozo](https://open.spotify.com/artist/0MmTKGQIOhXazVmd3IdOKp), [King Lil G](https://open.spotify.com/artist/6L3x3if9RVimruryD9LoFb) | [Blue Rag](https://open.spotify.com/album/3yy9CwnrNiZrCrzIoZ1p4C) | 1:57 |
-| 11 | [Born In a System](https://open.spotify.com/track/2p40I0XVnjj8YwyvC4MBgf) | [CNG](https://open.spotify.com/artist/4zYi7nhOqLxJ9u2YE8Ysca) | [Born In a System](https://open.spotify.com/album/3LJUkRdDM5hV3yb3NbwwEJ) | 3:06 |
+| 10 | [Born In a System](https://open.spotify.com/track/2p40I0XVnjj8YwyvC4MBgf) | [CNG](https://open.spotify.com/artist/4zYi7nhOqLxJ9u2YE8Ysca) | [Born In a System](https://open.spotify.com/album/3LJUkRdDM5hV3yb3NbwwEJ) | 3:06 |
+| 11 | [Blue Rag](https://open.spotify.com/track/50nmYPB44NTrpizigC3lJG) | [Bozo](https://open.spotify.com/artist/0MmTKGQIOhXazVmd3IdOKp), [King Lil G](https://open.spotify.com/artist/6L3x3if9RVimruryD9LoFb) | [Blue Rag](https://open.spotify.com/album/3yy9CwnrNiZrCrzIoZ1p4C) | 1:57 |
 | 12 | [Red on My Mind](https://open.spotify.com/track/0XnVY1Ws3KQrRa6yMiS0Cs) | [MoneySign Suede](https://open.spotify.com/artist/5w61NhDHxboaPUjFZ9r2vh) | [Parkside Santa](https://open.spotify.com/album/6oKqbmIOIR3y4PS717x9KR) | 2:19 |
 | 13 | [Ain't Feelin Us](https://open.spotify.com/track/4N2d8NxscU9beBTC3qhT6P) | [Lil Weirdo](https://open.spotify.com/artist/0ktQyBsFidxvy9e6naHXMo) | [Ain't Feelin Us](https://open.spotify.com/album/2BYsQs4YSUjJHrITZaRn7F) | 2:33 |
 | 14 | [Little Homie](https://open.spotify.com/track/6TGY0XOK3espFFqeLkL3q8) | [Swifty Blue](https://open.spotify.com/artist/68CRxZTAqk19AznItZInip), [Peysoh](https://open.spotify.com/artist/27OdVby2oeFjM1C5XvC3hC) | [Little Homie](https://open.spotify.com/album/2i9595pc3gVJIMUVafVena) | 2:34 |
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14V0XKu8GA9.md) - [plain]
 | 39 | [Scared Of My Love](https://open.spotify.com/track/1BOyx09F81OnamZyYU3jFL) | [Coyote](https://open.spotify.com/artist/2k3jiPRh7ucbD6OmVTi1BD) | [Scared Of My Love](https://open.spotify.com/album/7tUQWYXIXPA3ljIOJSqFeG) | 2:25 |
 | 40 | [Money in the Shoebox , $tonehardt & Dexter Cayn\)](https://open.spotify.com/track/4tMk49Bo8eEj5wNQ2dLiwY) | [Speak](https://open.spotify.com/artist/6Ka6HfvQhsltXZAFT1bYbQ), [J\(X\)](https://open.spotify.com/artist/3qwnfFfieT2LWbd9hWUJbL), [$tonehardt](https://open.spotify.com/artist/6L0fEdbyPCFjfm8f0Ap58i), [Dexter Cayn](https://open.spotify.com/artist/2xOGNq8UOojSAnw31dYfq2) | [Money in the Shoebox , $tonehardt & Dexter Cayn\)](https://open.spotify.com/album/0e2WqMgxffeQDR5V29cAfk) | 2:55 |
 
-Snapshot ID: `MCwzNGM2YTMzYmQ1MWY3MGE5NDQ5MmUzOGI3MWY4YWQ1Y2M2ZGMzZTY2`
+Snapshot ID: `MCxiNjI5MGM3ZTQxYjMxNDk1OWM4YmIxNTJkYjE0Yjg5OGNiMTI3Mzkw`

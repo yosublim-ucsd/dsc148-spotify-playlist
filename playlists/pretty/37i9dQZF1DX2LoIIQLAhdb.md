@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2LoIIQLAhdb.md) - [plain]
 
 > Le R&B français, nouvelle ère\. Photo : Franglish
 
-[Spotify](https://open.spotify.com/user/spotify) - 147,875 likes - 40 songs - 1 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 147,954 likes - 40 songs - 1 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2LoIIQLAhdb.md) - [plain]
 | 39 | [JAMAIS](https://open.spotify.com/track/7c31kTitonZtHYfP1qtPYB) | [Angelcy](https://open.spotify.com/artist/2BLqT1DuND6cAhJodiKmc2) | [JAMAIS](https://open.spotify.com/album/6gUTCbhKOyabXt2dYGuZTq) | 3:14 |
 | 40 | [Cicatrices](https://open.spotify.com/track/6Wgq0Mr4D7BsYwhCfU3JGt) | [Nina Rossell](https://open.spotify.com/artist/76GOZCc1Fa0aXqh4edNsuw) | [Cicatrices](https://open.spotify.com/album/0H8PSYkG1CXQna6ycNcMAM) | 2:45 |
 
-Snapshot ID: `MCw0Zjc4ZTYwMzQxZGQ5YjUyNThlOWJjYzM4YjMxZTQyNzdhM2ZlNWMw`
+Snapshot ID: `MCxmZWNhN2RlM2RlYmZmNmUzOTgyNDgyMTZmOGM2NGQ1NjJmODQ1ODQy`

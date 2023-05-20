@@ -1,12 +1,12 @@
 {
   "description": "electronic nostalgia \u26a1\ufe0f Cover: The xx",
-  "num_followers": 47,
+  "num_followers": 82,
   "original_name": "voltage",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2ZjNjMDY3ZTFkMDE3NGRhY2IwNDBiZWZmNjQ4ZjJiZmI5MDdkYjRk",
+  "snapshot_id": "MCw0NDRjNTJjMjZhYTczYmFkZGRkYTc3MmZkMzlkODNiNTYyNzViN2E5",
   "tracks": [
     {
       "added_at": "2023-05-17 20:35:57",
@@ -483,22 +483,6 @@
     {
       "added_at": "2023-05-17 20:35:57",
       "album": {
-        "name": "Overgrown",
-        "url": "https://open.spotify.com/album/53FEYOXnplxBWoQMmWn82U"
-      },
-      "artists": [
-        {
-          "name": "James Blake",
-          "url": "https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU"
-        }
-      ],
-      "duration_ms": 217120,
-      "name": "Life Round Here",
-      "url": "https://open.spotify.com/track/2746pcTPaE9FBHkvUivCsg"
-    },
-    {
-      "added_at": "2023-05-17 20:35:57",
-      "album": {
         "name": "Nine Types of Light",
         "url": "https://open.spotify.com/album/0FvrvaVsWQ7kTdGzipW6HV"
       },
@@ -511,6 +495,22 @@
       "duration_ms": 224986,
       "name": "Will Do",
       "url": "https://open.spotify.com/track/5iHK8VI9XkJJdXQHCBXeM4"
+    },
+    {
+      "added_at": "2023-05-17 20:35:57",
+      "album": {
+        "name": "Overgrown",
+        "url": "https://open.spotify.com/album/53FEYOXnplxBWoQMmWn82U"
+      },
+      "artists": [
+        {
+          "name": "James Blake",
+          "url": "https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU"
+        }
+      ],
+      "duration_ms": 217120,
+      "name": "Life Round Here",
+      "url": "https://open.spotify.com/track/2746pcTPaE9FBHkvUivCsg"
     },
     {
       "added_at": "2023-05-17 20:35:57",
@@ -531,22 +531,6 @@
     {
       "added_at": "2023-05-17 20:35:57",
       "album": {
-        "name": "Ego Death",
-        "url": "https://open.spotify.com/album/69g3CtOVg98TPOwqmI2K7Q"
-      },
-      "artists": [
-        {
-          "name": "The Internet",
-          "url": "https://open.spotify.com/artist/7GN9PivdemQRKjDt4z5Zv8"
-        }
-      ],
-      "duration_ms": 148706,
-      "name": "Get Away",
-      "url": "https://open.spotify.com/track/10SUWedx0zohs8M3OJpnA7"
-    },
-    {
-      "added_at": "2023-05-17 20:35:57",
-      "album": {
         "name": "It's the Arps",
         "url": "https://open.spotify.com/album/07HuAQQEbH1ShP4b9SsNwp"
       },
@@ -563,6 +547,22 @@
     {
       "added_at": "2023-05-17 20:35:57",
       "album": {
+        "name": "Ego Death",
+        "url": "https://open.spotify.com/album/69g3CtOVg98TPOwqmI2K7Q"
+      },
+      "artists": [
+        {
+          "name": "The Internet",
+          "url": "https://open.spotify.com/artist/7GN9PivdemQRKjDt4z5Zv8"
+        }
+      ],
+      "duration_ms": 148706,
+      "name": "Get Away",
+      "url": "https://open.spotify.com/track/10SUWedx0zohs8M3OJpnA7"
+    },
+    {
+      "added_at": "2023-05-17 20:35:57",
+      "album": {
         "name": "California Girls",
         "url": "https://open.spotify.com/album/4U5EFFFsaynpAmTG6DS2MQ"
       },
@@ -575,22 +575,6 @@
       "duration_ms": 216923,
       "name": "California Girls",
       "url": "https://open.spotify.com/track/4m2ZICy5YEx76B5BVFCDsg"
-    },
-    {
-      "added_at": "2023-05-17 20:35:57",
-      "album": {
-        "name": "Sylvan Esso",
-        "url": "https://open.spotify.com/album/1862qnxqsLeiNDblknjtiL"
-      },
-      "artists": [
-        {
-          "name": "Sylvan Esso",
-          "url": "https://open.spotify.com/artist/1pMyMaKdKUPbRu37t3Y2VP"
-        }
-      ],
-      "duration_ms": 200160,
-      "name": "Hey Mami",
-      "url": "https://open.spotify.com/track/7bp7QInQ5uIMzYjJqTtjVA"
     },
     {
       "added_at": "2023-05-17 20:35:57",
@@ -619,6 +603,22 @@
       "duration_ms": 485220,
       "name": "Howling - \u00c2me Remix",
       "url": "https://open.spotify.com/track/78jIj6Ph2364zg1ZVIvbIN"
+    },
+    {
+      "added_at": "2023-05-17 20:35:57",
+      "album": {
+        "name": "Sylvan Esso",
+        "url": "https://open.spotify.com/album/1862qnxqsLeiNDblknjtiL"
+      },
+      "artists": [
+        {
+          "name": "Sylvan Esso",
+          "url": "https://open.spotify.com/artist/1pMyMaKdKUPbRu37t3Y2VP"
+        }
+      ],
+      "duration_ms": 200160,
+      "name": "Hey Mami",
+      "url": "https://open.spotify.com/track/7bp7QInQ5uIMzYjJqTtjVA"
     },
     {
       "added_at": "2023-05-17 20:35:57",
@@ -727,6 +727,26 @@
     {
       "added_at": "2023-05-17 20:35:57",
       "album": {
+        "name": "Black Sands",
+        "url": "https://open.spotify.com/album/5m1RkwKeU7MV0Ni6PH2lPy"
+      },
+      "artists": [
+        {
+          "name": "Bonobo",
+          "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
+        },
+        {
+          "name": "Andreya Triana",
+          "url": "https://open.spotify.com/artist/6SKEuFZYhaTytrhtJjgnO2"
+        }
+      ],
+      "duration_ms": 284800,
+      "name": "Stay The Same",
+      "url": "https://open.spotify.com/track/6vcd0sKmiioXQKbcZPr7gq"
+    },
+    {
+      "added_at": "2023-05-17 20:35:57",
+      "album": {
         "name": "Pizza Guy / Show Me",
         "url": "https://open.spotify.com/album/41wUvXg0GwaIv8qsUii790"
       },
@@ -775,26 +795,6 @@
       "duration_ms": 497521,
       "name": "Want You In My Soul",
       "url": "https://open.spotify.com/track/125ABiFu87TxipoWAMK8LR"
-    },
-    {
-      "added_at": "2023-05-17 20:35:57",
-      "album": {
-        "name": "Black Sands",
-        "url": "https://open.spotify.com/album/5m1RkwKeU7MV0Ni6PH2lPy"
-      },
-      "artists": [
-        {
-          "name": "Bonobo",
-          "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
-        },
-        {
-          "name": "Andreya Triana",
-          "url": "https://open.spotify.com/artist/6SKEuFZYhaTytrhtJjgnO2"
-        }
-      ],
-      "duration_ms": 284800,
-      "name": "Stay The Same",
-      "url": "https://open.spotify.com/track/6vcd0sKmiioXQKbcZPr7gq"
     },
     {
       "added_at": "2023-05-17 20:35:57",
@@ -899,22 +899,6 @@
     {
       "added_at": "2023-05-17 20:35:57",
       "album": {
-        "name": "An Awesome Wave",
-        "url": "https://open.spotify.com/album/6k3vC8nep1BfqAIJ81L6OL"
-      },
-      "artists": [
-        {
-          "name": "alt-J",
-          "url": "https://open.spotify.com/artist/3XHO7cRUPCLOr6jwp8vsx5"
-        }
-      ],
-      "duration_ms": 239013,
-      "name": "Dissolve Me",
-      "url": "https://open.spotify.com/track/2Dv7PTwSoB17f3VFDIKw8m"
-    },
-    {
-      "added_at": "2023-05-17 20:35:57",
-      "album": {
         "name": "By Your Side",
         "url": "https://open.spotify.com/album/6C9yWt9DLFJixQjOZIkaAT"
       },
@@ -927,6 +911,22 @@
       "duration_ms": 75429,
       "name": "Easy Fraction",
       "url": "https://open.spotify.com/track/6auiShWekyq8tyecMpJ5Cf"
+    },
+    {
+      "added_at": "2023-05-17 20:35:57",
+      "album": {
+        "name": "An Awesome Wave",
+        "url": "https://open.spotify.com/album/6k3vC8nep1BfqAIJ81L6OL"
+      },
+      "artists": [
+        {
+          "name": "alt-J",
+          "url": "https://open.spotify.com/artist/3XHO7cRUPCLOr6jwp8vsx5"
+        }
+      ],
+      "duration_ms": 239013,
+      "name": "Dissolve Me",
+      "url": "https://open.spotify.com/track/2Dv7PTwSoB17f3VFDIKw8m"
     },
     {
       "added_at": "2023-05-17 20:35:57",
@@ -1059,22 +1059,6 @@
     {
       "added_at": "2023-05-17 20:35:57",
       "album": {
-        "name": "Easier",
-        "url": "https://open.spotify.com/album/1Rmqz6ZTlsRqQup2cGEZ1B"
-      },
-      "artists": [
-        {
-          "name": "Weval",
-          "url": "https://open.spotify.com/artist/12tZvy2xFpWSkuJ3FsfisZ"
-        }
-      ],
-      "duration_ms": 308741,
-      "name": "Gimme Some",
-      "url": "https://open.spotify.com/track/6170lJSBtiM5trzOtHtdD2"
-    },
-    {
-      "added_at": "2023-05-17 20:35:57",
-      "album": {
         "name": "Woman",
         "url": "https://open.spotify.com/album/6b1HPtDuYioXwmw5xLLFQ9"
       },
@@ -1107,38 +1091,18 @@
     {
       "added_at": "2023-05-17 20:35:57",
       "album": {
-        "name": "Helios",
-        "url": "https://open.spotify.com/album/5K3ZZRtBqotmlCWFwZbX4S"
+        "name": "Easier",
+        "url": "https://open.spotify.com/album/1Rmqz6ZTlsRqQup2cGEZ1B"
       },
       "artists": [
         {
-          "name": "Darius",
-          "url": "https://open.spotify.com/artist/5vfEaoOBcK0Lzr07WN8KaK"
-        },
-        {
-          "name": "WAYNE SNOW",
-          "url": "https://open.spotify.com/artist/4f44GWlEQdXaWl8gQ9sPBC"
+          "name": "Weval",
+          "url": "https://open.spotify.com/artist/12tZvy2xFpWSkuJ3FsfisZ"
         }
       ],
-      "duration_ms": 198315,
-      "name": "Helios",
-      "url": "https://open.spotify.com/track/5xQkY7ia30xE1rLnHSblKI"
-    },
-    {
-      "added_at": "2023-05-17 20:35:57",
-      "album": {
-        "name": "TAPE TWO",
-        "url": "https://open.spotify.com/album/7ACFIbsrhepZRIbKnRzxjy"
-      },
-      "artists": [
-        {
-          "name": "Young Fathers",
-          "url": "https://open.spotify.com/artist/5mZC7ndY6oGMxJentRwsuV"
-        }
-      ],
-      "duration_ms": 222792,
-      "name": "I Heard",
-      "url": "https://open.spotify.com/track/3zgptmNsfqy1JscBOebsYJ"
+      "duration_ms": 308741,
+      "name": "Gimme Some",
+      "url": "https://open.spotify.com/track/6170lJSBtiM5trzOtHtdD2"
     },
     {
       "added_at": "2023-05-17 20:35:57",
@@ -1159,18 +1123,38 @@
     {
       "added_at": "2023-05-17 20:35:57",
       "album": {
-        "name": "Movements",
-        "url": "https://open.spotify.com/album/7thNV4OgQBZTAn81OcoUsQ"
+        "name": "TAPE TWO",
+        "url": "https://open.spotify.com/album/7ACFIbsrhepZRIbKnRzxjy"
       },
       "artists": [
         {
-          "name": "Booka Shade",
-          "url": "https://open.spotify.com/artist/2CKaDZ1Yo8YnWega9IeUzB"
+          "name": "Young Fathers",
+          "url": "https://open.spotify.com/artist/5mZC7ndY6oGMxJentRwsuV"
         }
       ],
-      "duration_ms": 300266,
-      "name": "Body Language - Interpretation",
-      "url": "https://open.spotify.com/track/1ABwlOhYanbuafWx1yvx0T"
+      "duration_ms": 222792,
+      "name": "I Heard",
+      "url": "https://open.spotify.com/track/3zgptmNsfqy1JscBOebsYJ"
+    },
+    {
+      "added_at": "2023-05-17 20:35:57",
+      "album": {
+        "name": "Helios",
+        "url": "https://open.spotify.com/album/5K3ZZRtBqotmlCWFwZbX4S"
+      },
+      "artists": [
+        {
+          "name": "Darius",
+          "url": "https://open.spotify.com/artist/5vfEaoOBcK0Lzr07WN8KaK"
+        },
+        {
+          "name": "WAYNE SNOW",
+          "url": "https://open.spotify.com/artist/4f44GWlEQdXaWl8gQ9sPBC"
+        }
+      ],
+      "duration_ms": 198315,
+      "name": "Helios",
+      "url": "https://open.spotify.com/track/5xQkY7ia30xE1rLnHSblKI"
     },
     {
       "added_at": "2023-05-17 20:35:57",
@@ -1203,6 +1187,22 @@
       "duration_ms": 285565,
       "name": "Need You Now",
       "url": "https://open.spotify.com/track/5MRYyecW552BEq2nRBfIQX"
+    },
+    {
+      "added_at": "2023-05-17 20:35:57",
+      "album": {
+        "name": "Movements",
+        "url": "https://open.spotify.com/album/7thNV4OgQBZTAn81OcoUsQ"
+      },
+      "artists": [
+        {
+          "name": "Booka Shade",
+          "url": "https://open.spotify.com/artist/2CKaDZ1Yo8YnWega9IeUzB"
+        }
+      ],
+      "duration_ms": 300266,
+      "name": "Body Language - Interpretation",
+      "url": "https://open.spotify.com/track/1ABwlOhYanbuafWx1yvx0T"
     },
     {
       "added_at": "2023-05-17 20:35:57",
@@ -1299,22 +1299,6 @@
     {
       "added_at": "2023-05-17 20:35:57",
       "album": {
-        "name": "(III)",
-        "url": "https://open.spotify.com/album/1NIfkZIYVAO6vnfmFOilHc"
-      },
-      "artists": [
-        {
-          "name": "Crystal Castles",
-          "url": "https://open.spotify.com/artist/7K3zpFXBvPcvzhj7zlGJdO"
-        }
-      ],
-      "duration_ms": 156706,
-      "name": "Affection",
-      "url": "https://open.spotify.com/track/3AFpIlNR4DEJ1WC7qyOHU8"
-    },
-    {
-      "added_at": "2023-05-17 20:35:57",
-      "album": {
         "name": "Weval",
         "url": "https://open.spotify.com/album/51zkn8CSA5Tx2wKaGpl9ci"
       },
@@ -1327,22 +1311,6 @@
       "duration_ms": 140733,
       "name": "Intro",
       "url": "https://open.spotify.com/track/0aCRmuAglOL2ckmyXfG7Oh"
-    },
-    {
-      "added_at": "2023-05-17 20:35:57",
-      "album": {
-        "name": "shrines",
-        "url": "https://open.spotify.com/album/7nuxFL8lYQTIlpEEPEMpN8"
-      },
-      "artists": [
-        {
-          "name": "Purity Ring",
-          "url": "https://open.spotify.com/artist/1TtJ8j22Roc24e2Jx3OcU4"
-        }
-      ],
-      "duration_ms": 209573,
-      "name": "obedear",
-      "url": "https://open.spotify.com/track/2apc40z2R0wwOwLdrQ79NH"
     },
     {
       "added_at": "2023-05-17 20:35:57",
@@ -1363,18 +1331,34 @@
     {
       "added_at": "2023-05-17 20:35:57",
       "album": {
-        "name": "Someday Somewhere",
-        "url": "https://open.spotify.com/album/6ltLI77XvUOwApSWpZbUGE"
+        "name": "shrines",
+        "url": "https://open.spotify.com/album/7nuxFL8lYQTIlpEEPEMpN8"
       },
       "artists": [
         {
-          "name": "Mura Masa",
-          "url": "https://open.spotify.com/artist/5Q81rlcTFh3k6DQJXPdsot"
+          "name": "Purity Ring",
+          "url": "https://open.spotify.com/artist/1TtJ8j22Roc24e2Jx3OcU4"
         }
       ],
-      "duration_ms": 196546,
-      "name": "Lovesick",
-      "url": "https://open.spotify.com/track/3GGg9FWBlAjrAvC16kazer"
+      "duration_ms": 209573,
+      "name": "obedear",
+      "url": "https://open.spotify.com/track/2apc40z2R0wwOwLdrQ79NH"
+    },
+    {
+      "added_at": "2023-05-17 20:35:57",
+      "album": {
+        "name": "99 Cents",
+        "url": "https://open.spotify.com/album/0DOzmXcSztIomiurOwMivk"
+      },
+      "artists": [
+        {
+          "name": "Santigold",
+          "url": "https://open.spotify.com/artist/6Jrxnp0JgqmeUX1veU591p"
+        }
+      ],
+      "duration_ms": 195333,
+      "name": "Chasing Shadows",
+      "url": "https://open.spotify.com/track/1wXWuZgVO52kWbiQNTaBb1"
     },
     {
       "added_at": "2023-05-17 20:35:57",
@@ -1395,6 +1379,22 @@
     {
       "added_at": "2023-05-17 20:35:57",
       "album": {
+        "name": "Someday Somewhere",
+        "url": "https://open.spotify.com/album/6ltLI77XvUOwApSWpZbUGE"
+      },
+      "artists": [
+        {
+          "name": "Mura Masa",
+          "url": "https://open.spotify.com/artist/5Q81rlcTFh3k6DQJXPdsot"
+        }
+      ],
+      "duration_ms": 196546,
+      "name": "Lovesick",
+      "url": "https://open.spotify.com/track/3GGg9FWBlAjrAvC16kazer"
+    },
+    {
+      "added_at": "2023-05-17 20:35:57",
+      "album": {
         "name": "On My Own",
         "url": "https://open.spotify.com/album/5ulxwV032s3dUxd1sXLxm0"
       },
@@ -1411,18 +1411,18 @@
     {
       "added_at": "2023-05-17 20:35:57",
       "album": {
-        "name": "99 Cents",
-        "url": "https://open.spotify.com/album/0DOzmXcSztIomiurOwMivk"
+        "name": "(III)",
+        "url": "https://open.spotify.com/album/1NIfkZIYVAO6vnfmFOilHc"
       },
       "artists": [
         {
-          "name": "Santigold",
-          "url": "https://open.spotify.com/artist/6Jrxnp0JgqmeUX1veU591p"
+          "name": "Crystal Castles",
+          "url": "https://open.spotify.com/artist/7K3zpFXBvPcvzhj7zlGJdO"
         }
       ],
-      "duration_ms": 195333,
-      "name": "Chasing Shadows",
-      "url": "https://open.spotify.com/track/1wXWuZgVO52kWbiQNTaBb1"
+      "duration_ms": 156706,
+      "name": "Affection",
+      "url": "https://open.spotify.com/track/3AFpIlNR4DEJ1WC7qyOHU8"
     },
     {
       "added_at": "2023-05-17 20:35:57",
@@ -1511,22 +1511,6 @@
     {
       "added_at": "2023-05-17 20:35:57",
       "album": {
-        "name": "Multi-Love",
-        "url": "https://open.spotify.com/album/2aoI8tkPq9NBvGiARD0KoR"
-      },
-      "artists": [
-        {
-          "name": "Unknown Mortal Orchestra",
-          "url": "https://open.spotify.com/artist/1LeVJ5GPeYDOVUjxx1y7Rp"
-        }
-      ],
-      "duration_ms": 256066,
-      "name": "Can\u2019t Keep Checking My Phone",
-      "url": "https://open.spotify.com/track/3IGidq5qjagmNmwFsmNeIn"
-    },
-    {
-      "added_at": "2023-05-17 20:35:57",
-      "album": {
         "name": "Escapism",
         "url": "https://open.spotify.com/album/7GoQwmBYFCOPSdOOp8OUds"
       },
@@ -1539,6 +1523,22 @@
       "duration_ms": 219474,
       "name": "LONG DISTANCE",
       "url": "https://open.spotify.com/track/6ih6vYggeYPomAbJupA4hA"
+    },
+    {
+      "added_at": "2023-05-17 20:35:57",
+      "album": {
+        "name": "Multi-Love",
+        "url": "https://open.spotify.com/album/2aoI8tkPq9NBvGiARD0KoR"
+      },
+      "artists": [
+        {
+          "name": "Unknown Mortal Orchestra",
+          "url": "https://open.spotify.com/artist/1LeVJ5GPeYDOVUjxx1y7Rp"
+        }
+      ],
+      "duration_ms": 256066,
+      "name": "Can\u2019t Keep Checking My Phone",
+      "url": "https://open.spotify.com/track/3IGidq5qjagmNmwFsmNeIn"
     },
     {
       "added_at": "2023-05-17 20:35:57",
@@ -1611,22 +1611,6 @@
     {
       "added_at": "2023-05-17 20:35:57",
       "album": {
-        "name": "Yore",
-        "url": "https://open.spotify.com/album/1zgJsOkVoyqKQx9dNdyDdB"
-      },
-      "artists": [
-        {
-          "name": "Evenings",
-          "url": "https://open.spotify.com/artist/4bODnAlydTbem2JAjDX52y"
-        }
-      ],
-      "duration_ms": 172252,
-      "name": "Babe",
-      "url": "https://open.spotify.com/track/7nfGqsJl4A3lXApUI0YIFA"
-    },
-    {
-      "added_at": "2023-05-17 20:35:57",
-      "album": {
         "name": "2012 - 2017",
         "url": "https://open.spotify.com/album/39yo3iwdoasNOm2fLq1DHg"
       },
@@ -1655,6 +1639,22 @@
       "duration_ms": 281303,
       "name": "She Just Likes to Fight",
       "url": "https://open.spotify.com/track/2dxtGo6FGs3Hxyv73tDsx7"
+    },
+    {
+      "added_at": "2023-05-17 20:35:57",
+      "album": {
+        "name": "Yore",
+        "url": "https://open.spotify.com/album/1zgJsOkVoyqKQx9dNdyDdB"
+      },
+      "artists": [
+        {
+          "name": "Evenings",
+          "url": "https://open.spotify.com/artist/4bODnAlydTbem2JAjDX52y"
+        }
+      ],
+      "duration_ms": 172252,
+      "name": "Babe",
+      "url": "https://open.spotify.com/track/7nfGqsJl4A3lXApUI0YIFA"
     },
     {
       "added_at": "2023-05-17 20:35:57",

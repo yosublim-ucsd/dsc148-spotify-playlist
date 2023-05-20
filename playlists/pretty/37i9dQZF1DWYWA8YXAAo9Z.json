@@ -1,12 +1,12 @@
 {
   "description": "Pushing the envelope; musicians at the forefront of modular synthesis.  ",
-  "num_followers": 42752,
+  "num_followers": 42786,
   "original_name": "Modular Synths",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiYzU0MDBiYzc2ZjA5MDU0YzM1NTAxZGE4MjBjNzU2MTgwOWFkMWNi",
+  "snapshot_id": "MCw2OWNlZjY5MjI4MjljZjlkMGE5ZTNlZTQzYjVhZTVlYjhmNzQ4ZTE4",
   "tracks": [
     {
       "added_at": "2023-03-10 00:01:00",
@@ -211,22 +211,6 @@
     {
       "added_at": "2023-03-10 00:01:00",
       "album": {
-        "name": "@0 EP1",
-        "url": "https://open.spotify.com/album/1eEFnKUqaKC6pgzRKzS29k"
-      },
-      "artists": [
-        {
-          "name": "Suzanne Ciani",
-          "url": "https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr"
-        }
-      ],
-      "duration_ms": 300747,
-      "name": "Morning Spring",
-      "url": "https://open.spotify.com/track/0MBiVK0AHaR70AuD061Np7"
-    },
-    {
-      "added_at": "2023-03-10 00:01:00",
-      "album": {
         "name": "Entropy",
         "url": "https://open.spotify.com/album/3gOlyuR0njdHXbcFlow7nJ"
       },
@@ -239,6 +223,22 @@
       "duration_ms": 289642,
       "name": "Entropy",
       "url": "https://open.spotify.com/track/7e6bj3wHC3OljTIiSM7K56"
+    },
+    {
+      "added_at": "2023-03-10 00:01:00",
+      "album": {
+        "name": "@0 EP1",
+        "url": "https://open.spotify.com/album/1eEFnKUqaKC6pgzRKzS29k"
+      },
+      "artists": [
+        {
+          "name": "Suzanne Ciani",
+          "url": "https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr"
+        }
+      ],
+      "duration_ms": 300747,
+      "name": "Morning Spring",
+      "url": "https://open.spotify.com/track/0MBiVK0AHaR70AuD061Np7"
     },
     {
       "added_at": "2023-03-10 00:01:00",
@@ -495,22 +495,6 @@
     {
       "added_at": "2023-03-10 00:01:00",
       "album": {
-        "name": "Cascade Symmetry",
-        "url": "https://open.spotify.com/album/0EmUM5rTciCKU8fVl5Kt92"
-      },
-      "artists": [
-        {
-          "name": "r beny",
-          "url": "https://open.spotify.com/artist/1J8H4wufuy6qxfdRbJr5xG"
-        }
-      ],
-      "duration_ms": 204353,
-      "name": "Cascade Symmetry",
-      "url": "https://open.spotify.com/track/385Oid3inOxoC8Jpgax6Au"
-    },
-    {
-      "added_at": "2023-03-10 00:01:00",
-      "album": {
         "name": "CHU / \u8655",
         "url": "https://open.spotify.com/album/1yhSwBtIuk49GmK6pBydQC"
       },
@@ -523,6 +507,22 @@
       "duration_ms": 143815,
       "name": "CHU / \u8655",
       "url": "https://open.spotify.com/track/5D4LseymlE9t3nEZCMtEYN"
+    },
+    {
+      "added_at": "2023-03-10 00:01:00",
+      "album": {
+        "name": "Cascade Symmetry",
+        "url": "https://open.spotify.com/album/0EmUM5rTciCKU8fVl5Kt92"
+      },
+      "artists": [
+        {
+          "name": "r beny",
+          "url": "https://open.spotify.com/artist/1J8H4wufuy6qxfdRbJr5xG"
+        }
+      ],
+      "duration_ms": 204353,
+      "name": "Cascade Symmetry",
+      "url": "https://open.spotify.com/track/385Oid3inOxoC8Jpgax6Au"
     },
     {
       "added_at": "2023-03-10 00:01:00",
@@ -631,22 +631,6 @@
     {
       "added_at": "2023-03-10 00:01:00",
       "album": {
-        "name": "Becoming Ferromagnetic",
-        "url": "https://open.spotify.com/album/54VwG9mPpNyqR3MHrXaYEJ"
-      },
-      "artists": [
-        {
-          "name": "Kaitlyn Aurelia Smith",
-          "url": "https://open.spotify.com/artist/6P86FLVAK4sxu8OhyQJBvH"
-        }
-      ],
-      "duration_ms": 328275,
-      "name": "Becoming Ferromagnetic",
-      "url": "https://open.spotify.com/track/4H2BkZLuxpYgMgtvFbV0ZB"
-    },
-    {
-      "added_at": "2023-03-10 00:01:00",
-      "album": {
         "name": "Together in Static",
         "url": "https://open.spotify.com/album/68LCMt9avKDMD4frbEmkKf"
       },
@@ -659,6 +643,22 @@
       "duration_ms": 155375,
       "name": "Together in Static",
       "url": "https://open.spotify.com/track/7tawWbs1dYKWlDyikjxEvL"
+    },
+    {
+      "added_at": "2023-03-10 00:01:00",
+      "album": {
+        "name": "Becoming Ferromagnetic",
+        "url": "https://open.spotify.com/album/54VwG9mPpNyqR3MHrXaYEJ"
+      },
+      "artists": [
+        {
+          "name": "Kaitlyn Aurelia Smith",
+          "url": "https://open.spotify.com/artist/6P86FLVAK4sxu8OhyQJBvH"
+        }
+      ],
+      "duration_ms": 328275,
+      "name": "Becoming Ferromagnetic",
+      "url": "https://open.spotify.com/track/4H2BkZLuxpYgMgtvFbV0ZB"
     },
     {
       "added_at": "2023-03-10 00:01:00",
@@ -887,6 +887,22 @@
     {
       "added_at": "2023-03-10 00:01:00",
       "album": {
+        "name": "Tanto",
+        "url": "https://open.spotify.com/album/34DfClzGdrLQpqJkqOzyYm"
+      },
+      "artists": [
+        {
+          "name": "Hoavi",
+          "url": "https://open.spotify.com/artist/34ogXgGcq0P9njF9n4aVhy"
+        }
+      ],
+      "duration_ms": 216000,
+      "name": "Tanto",
+      "url": "https://open.spotify.com/track/5rD0ATP9IpBDJuKAxh5pC1"
+    },
+    {
+      "added_at": "2023-03-10 00:01:00",
+      "album": {
         "name": "Mirages",
         "url": "https://open.spotify.com/album/1YHTOqf2Ph97yqfLVr9QYT"
       },
@@ -903,22 +919,6 @@
       "duration_ms": 460480,
       "name": "Monolake",
       "url": "https://open.spotify.com/track/4JXj8hTP3mVvCPcvloyJSE"
-    },
-    {
-      "added_at": "2023-03-10 00:01:00",
-      "album": {
-        "name": "Tanto",
-        "url": "https://open.spotify.com/album/34DfClzGdrLQpqJkqOzyYm"
-      },
-      "artists": [
-        {
-          "name": "Hoavi",
-          "url": "https://open.spotify.com/artist/34ogXgGcq0P9njF9n4aVhy"
-        }
-      ],
-      "duration_ms": 216000,
-      "name": "Tanto",
-      "url": "https://open.spotify.com/track/5rD0ATP9IpBDJuKAxh5pC1"
     },
     {
       "added_at": "2023-03-10 00:01:00",
@@ -983,22 +983,6 @@
     {
       "added_at": "2023-03-10 00:01:00",
       "album": {
-        "name": "Chilltronica EP 3",
-        "url": "https://open.spotify.com/album/559MlrkzOGY8esDa84TdWC"
-      },
-      "artists": [
-        {
-          "name": "Blank & Jones",
-          "url": "https://open.spotify.com/artist/2XTff332rrZaE1rBM47Krp"
-        }
-      ],
-      "duration_ms": 234844,
-      "name": "Deep Down",
-      "url": "https://open.spotify.com/track/3uwo0ozQzlqSWUuSfhrbMS"
-    },
-    {
-      "added_at": "2023-03-10 00:01:00",
-      "album": {
         "name": "full/new",
         "url": "https://open.spotify.com/album/2QjD5gBRPzvQDtASXMaitU"
       },
@@ -1015,22 +999,34 @@
     {
       "added_at": "2023-03-10 00:01:00",
       "album": {
-        "name": "Bright-eyed Hunger (Kaitlyn Aurelia Smith Remix)",
-        "url": "https://open.spotify.com/album/3oiLOfTnjzdcbMcnmTPRP9"
+        "name": "Chilltronica EP 3",
+        "url": "https://open.spotify.com/album/559MlrkzOGY8esDa84TdWC"
       },
       "artists": [
         {
-          "name": "Theo Alexander",
-          "url": "https://open.spotify.com/artist/5XbjBRckIIX1J71EciI7vK"
-        },
-        {
-          "name": "Kaitlyn Aurelia Smith",
-          "url": "https://open.spotify.com/artist/6P86FLVAK4sxu8OhyQJBvH"
+          "name": "Blank & Jones",
+          "url": "https://open.spotify.com/artist/2XTff332rrZaE1rBM47Krp"
         }
       ],
-      "duration_ms": 192019,
-      "name": "Bright-eyed Hunger - Kaitlyn Aurelia Smith Remix",
-      "url": "https://open.spotify.com/track/6QhmyhlvCRkGEFiaHmWjBr"
+      "duration_ms": 234844,
+      "name": "Deep Down",
+      "url": "https://open.spotify.com/track/3uwo0ozQzlqSWUuSfhrbMS"
+    },
+    {
+      "added_at": "2023-03-10 00:01:00",
+      "album": {
+        "name": "Interlude 03",
+        "url": "https://open.spotify.com/album/3I4QlhS7yM9wzEHu10yhVl"
+      },
+      "artists": [
+        {
+          "name": "Farsi",
+          "url": "https://open.spotify.com/artist/2nv9kDqXrE3yfgrzMtby5M"
+        }
+      ],
+      "duration_ms": 199680,
+      "name": "Interlude 03",
+      "url": "https://open.spotify.com/track/0yMMD5kMxkUq2SevZvY71t"
     },
     {
       "added_at": "2023-03-10 00:01:00",
@@ -1051,18 +1047,22 @@
     {
       "added_at": "2023-03-10 00:01:00",
       "album": {
-        "name": "Interlude 03",
-        "url": "https://open.spotify.com/album/3I4QlhS7yM9wzEHu10yhVl"
+        "name": "Bright-eyed Hunger (Kaitlyn Aurelia Smith Remix)",
+        "url": "https://open.spotify.com/album/3oiLOfTnjzdcbMcnmTPRP9"
       },
       "artists": [
         {
-          "name": "Farsi",
-          "url": "https://open.spotify.com/artist/2nv9kDqXrE3yfgrzMtby5M"
+          "name": "Theo Alexander",
+          "url": "https://open.spotify.com/artist/5XbjBRckIIX1J71EciI7vK"
+        },
+        {
+          "name": "Kaitlyn Aurelia Smith",
+          "url": "https://open.spotify.com/artist/6P86FLVAK4sxu8OhyQJBvH"
         }
       ],
-      "duration_ms": 199680,
-      "name": "Interlude 03",
-      "url": "https://open.spotify.com/track/0yMMD5kMxkUq2SevZvY71t"
+      "duration_ms": 192019,
+      "name": "Bright-eyed Hunger - Kaitlyn Aurelia Smith Remix",
+      "url": "https://open.spotify.com/track/6QhmyhlvCRkGEFiaHmWjBr"
     },
     {
       "added_at": "2023-03-10 00:01:00",
@@ -1223,22 +1223,6 @@
     {
       "added_at": "2023-03-10 00:01:00",
       "album": {
-        "name": "Raum (Single Edit)",
-        "url": "https://open.spotify.com/album/2rGsYgcXb3M5lb98WXtwOA"
-      },
-      "artists": [
-        {
-          "name": "Tangerine Dream",
-          "url": "https://open.spotify.com/artist/1BGN1IdyiSR0ZYrkoKNchl"
-        }
-      ],
-      "duration_ms": 442500,
-      "name": "Raum - Single Edit",
-      "url": "https://open.spotify.com/track/16yJsnydEA8kANiL0zEqUO"
-    },
-    {
-      "added_at": "2023-03-10 00:01:00",
-      "album": {
         "name": "Wing Pinger",
         "url": "https://open.spotify.com/album/6faDBvP6e2Uej2TDl1xSha"
       },
@@ -1251,6 +1235,22 @@
       "duration_ms": 511730,
       "name": "Wing Pinger 01",
       "url": "https://open.spotify.com/track/47TiKrNev9micS2sZDzoNJ"
+    },
+    {
+      "added_at": "2023-03-10 00:01:00",
+      "album": {
+        "name": "Raum (Single Edit)",
+        "url": "https://open.spotify.com/album/2rGsYgcXb3M5lb98WXtwOA"
+      },
+      "artists": [
+        {
+          "name": "Tangerine Dream",
+          "url": "https://open.spotify.com/artist/1BGN1IdyiSR0ZYrkoKNchl"
+        }
+      ],
+      "duration_ms": 442500,
+      "name": "Raum - Single Edit",
+      "url": "https://open.spotify.com/track/16yJsnydEA8kANiL0zEqUO"
     },
     {
       "added_at": "2023-03-10 00:01:00",
@@ -1271,18 +1271,18 @@
     {
       "added_at": "2023-03-10 00:01:00",
       "album": {
-        "name": "Scene Memory 2",
-        "url": "https://open.spotify.com/album/4nLf2L3Eny7wzB0q2G30Mn"
+        "name": "Wander Into",
+        "url": "https://open.spotify.com/album/2znnC4ARtEUM54724LlMoa"
       },
       "artists": [
         {
-          "name": "Leo Abrahams",
-          "url": "https://open.spotify.com/artist/6g4q7DPLaVqWGnfMpAb2Yd"
+          "name": "Ann Annie",
+          "url": "https://open.spotify.com/artist/48BPwCMBASOwyaLkrgkBSG"
         }
       ],
-      "duration_ms": 186774,
-      "name": "Alternations",
-      "url": "https://open.spotify.com/track/4B1FuZiMfaB83xgfK2fvxd"
+      "duration_ms": 353000,
+      "name": "Wander Into",
+      "url": "https://open.spotify.com/track/5xOv6ER7scPxk1LIIYFoLv"
     }
   ],
   "unique_name": "Modular Synths",

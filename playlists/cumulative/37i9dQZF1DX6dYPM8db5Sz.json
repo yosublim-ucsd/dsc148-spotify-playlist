@@ -1295,6 +1295,24 @@
     },
     {
       "album": {
+        "name": "everything i couldn't remember is good.",
+        "url": "https://open.spotify.com/album/4WJbDjZS0sLVUEOPZsrgyC"
+      },
+      "artists": [
+        {
+          "name": "JUCINDA",
+          "url": "https://open.spotify.com/artist/70ZW0jioaMggqkfttoWkQo"
+        }
+      ],
+      "date_added": "2023-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198167,
+      "name": "DONT WORRY!",
+      "url": "https://open.spotify.com/track/6rBLBZWk5veaGuOY9MscE9"
+    },
+    {
+      "album": {
         "name": "Crushing",
         "url": "https://open.spotify.com/album/50G6NiGQgtYNiwNK018q8v"
       },

@@ -1300,7 +1300,7 @@
       ],
       "date_added": "2022-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 155401,
       "name": "Breezin",
       "url": "https://open.spotify.com/track/6a1Di4xqpSi4e55aympsT8"
@@ -2458,7 +2458,7 @@
     {
       "album": {
         "name": "Beats For You Vol.2",
-        "url": "https://open.spotify.com/album/7AUGO9ZUla9Vp8lEFoAb8s"
+        "url": "https://open.spotify.com/album/6KFl6WAcxp2zkApx8PNGxG"
       },
       "artists": [
         {
@@ -2469,6 +2469,24 @@
       "date_added": "2023-05-18",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 201187,
+      "name": "Domestic",
+      "url": "https://open.spotify.com/track/1VWNePn7s4RPJEMefXyoIB"
+    },
+    {
+      "album": {
+        "name": "Beats For You Vol.2",
+        "url": "https://open.spotify.com/album/7AUGO9ZUla9Vp8lEFoAb8s"
+      },
+      "artists": [
+        {
+          "name": "TOSHIKI HAYASHI(%C)",
+          "url": "https://open.spotify.com/artist/2BSv9udyrO0Mm0ckZAkQSI"
+        }
+      ],
+      "date_added": "2023-05-18",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-20",
       "duration_ms": 201187,
       "name": "Domestic",
       "url": "https://open.spotify.com/track/4CLLXxnWiCK6DSzbMlDwuP"
@@ -4606,7 +4624,7 @@
     {
       "album": {
         "name": "Jet Stream",
-        "url": "https://open.spotify.com/album/0k2iMwFXahyiZMSwmdjmRj"
+        "url": "https://open.spotify.com/album/3F2ev0xpQFsgjKUb2H4O7j"
       },
       "artists": [
         {
@@ -4617,6 +4635,24 @@
       "date_added": "2023-05-18",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 166736,
+      "name": "Jet Stream",
+      "url": "https://open.spotify.com/track/0pv95B0nLbZyJfdFcMNOoH"
+    },
+    {
+      "album": {
+        "name": "Jet Stream",
+        "url": "https://open.spotify.com/album/0k2iMwFXahyiZMSwmdjmRj"
+      },
+      "artists": [
+        {
+          "name": "Sachiho",
+          "url": "https://open.spotify.com/artist/5tf5EwCHOh2BP2zYdBvdqa"
+        }
+      ],
+      "date_added": "2023-05-18",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-20",
       "duration_ms": 166736,
       "name": "Jet Stream",
       "url": "https://open.spotify.com/track/2sIVqfcDOisETTaV6Bbrs2"
@@ -9496,7 +9532,7 @@
       ],
       "date_added": "2022-11-10",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-19",
+      "date_removed": null,
       "duration_ms": 170109,
       "name": "Summer",
       "url": "https://open.spotify.com/track/4RFvGz9n1dEYU1yuYMu8VV"

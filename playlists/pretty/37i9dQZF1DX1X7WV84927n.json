@@ -1,12 +1,12 @@
 {
   "description": "For the Hard Rock and full-volume lovers, new and recent favorites. Cover: Extreme",
-  "num_followers": 316680,
+  "num_followers": 316888,
   "original_name": "Hard Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjMjQ1NDY4NWJkMDFlZWM2OThiZDRlOGQ2YTI4ZWM5ZmNmZmY2OWJj",
+  "snapshot_id": "MCxmY2EzMWIwMWRmZDI3YTFhN2I5ZmQ2YzY4Y2JiYzRhODg0ZjRkMzdk",
   "tracks": [
     {
       "added_at": "2023-05-12 04:00:00",
@@ -271,6 +271,22 @@
     {
       "added_at": "2023-05-12 04:00:00",
       "album": {
+        "name": "Dark Void",
+        "url": "https://open.spotify.com/album/78j5yRbo6TI6xpPJoRjSWH"
+      },
+      "artists": [
+        {
+          "name": "Asking Alexandria",
+          "url": "https://open.spotify.com/artist/1caBfBEapzw8z2Qz9q0OaQ"
+        }
+      ],
+      "duration_ms": 232258,
+      "name": "Dark Void",
+      "url": "https://open.spotify.com/track/5qI0O2liRuEC6Mnv8BKl0S"
+    },
+    {
+      "added_at": "2023-05-12 04:00:00",
+      "album": {
         "name": "Waiting On The Sky To Change",
         "url": "https://open.spotify.com/album/5y9BuOtk9gPseSVOJzBTFn"
       },
@@ -295,6 +311,22 @@
     {
       "added_at": "2023-05-12 04:00:00",
       "album": {
+        "name": "ATUM",
+        "url": "https://open.spotify.com/album/4Sd50ORhLkyoddNHyLnr49"
+      },
+      "artists": [
+        {
+          "name": "The Smashing Pumpkins",
+          "url": "https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i"
+        }
+      ],
+      "duration_ms": 238143,
+      "name": "Beguiled",
+      "url": "https://open.spotify.com/track/5irjzz4WhkbJUKk0YFbIQW"
+    },
+    {
+      "added_at": "2023-05-12 04:00:00",
+      "album": {
         "name": "Separate Ways (Worlds Apart)",
         "url": "https://open.spotify.com/album/4hYWzikXRPg5I80ZqLPGAC"
       },
@@ -315,22 +347,6 @@
     {
       "added_at": "2023-05-12 04:00:00",
       "album": {
-        "name": "ATUM",
-        "url": "https://open.spotify.com/album/4Sd50ORhLkyoddNHyLnr49"
-      },
-      "artists": [
-        {
-          "name": "The Smashing Pumpkins",
-          "url": "https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i"
-        }
-      ],
-      "duration_ms": 238143,
-      "name": "Beguiled",
-      "url": "https://open.spotify.com/track/5irjzz4WhkbJUKk0YFbIQW"
-    },
-    {
-      "added_at": "2023-05-12 04:00:00",
-      "album": {
         "name": "Get Rollin'",
         "url": "https://open.spotify.com/album/660c34OZzJ4gUd0rXe8ARp"
       },
@@ -343,22 +359,6 @@
       "duration_ms": 211457,
       "name": "San Quentin",
       "url": "https://open.spotify.com/track/4Q9zJZBVJRGkiOWaZbEFIK"
-    },
-    {
-      "added_at": "2023-05-12 04:00:00",
-      "album": {
-        "name": "Dark Void",
-        "url": "https://open.spotify.com/album/78j5yRbo6TI6xpPJoRjSWH"
-      },
-      "artists": [
-        {
-          "name": "Asking Alexandria",
-          "url": "https://open.spotify.com/artist/1caBfBEapzw8z2Qz9q0OaQ"
-        }
-      ],
-      "duration_ms": 232258,
-      "name": "Dark Void",
-      "url": "https://open.spotify.com/track/5qI0O2liRuEC6Mnv8BKl0S"
     },
     {
       "added_at": "2023-05-12 04:00:00",
@@ -847,18 +847,18 @@
     {
       "added_at": "2023-05-12 04:00:00",
       "album": {
-        "name": "Surrender",
-        "url": "https://open.spotify.com/album/72Vq7wgEn0Z55nOPfDoAgJ"
+        "name": "All Things Must Change",
+        "url": "https://open.spotify.com/album/3DnCKQ3Evs7NMykpdflNmm"
       },
       "artists": [
         {
-          "name": "Godsmack",
-          "url": "https://open.spotify.com/artist/6gZq1Q6bdOxsUPUG1TaFbF"
+          "name": "Bush",
+          "url": "https://open.spotify.com/artist/78SHxLdtysAXgywQ4vE0Oa"
         }
       ],
-      "duration_ms": 220839,
-      "name": "Surrender",
-      "url": "https://open.spotify.com/track/4tYDiMb5vYQ2YlhuS9I0Ig"
+      "duration_ms": 215318,
+      "name": "All Things Must Change",
+      "url": "https://open.spotify.com/track/7857xyM9rHHv7rAJsh6tD7"
     }
   ],
   "unique_name": "Hard Rock",

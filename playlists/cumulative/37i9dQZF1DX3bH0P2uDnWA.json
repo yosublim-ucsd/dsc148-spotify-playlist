@@ -217,6 +217,24 @@
     },
     {
       "album": {
+        "name": "Bad Boy Good Man (Rmx 2023)",
+        "url": "https://open.spotify.com/album/0miSiEh4lSSb3msuWsA3Ju"
+      },
+      "artists": [
+        {
+          "name": "Tape Five",
+          "url": "https://open.spotify.com/artist/7kHK5OLdiiHCfG49KSHTko"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209579,
+      "name": "Bad Boy Good Man - Rmx 2023",
+      "url": "https://open.spotify.com/track/3ygbRD0PvH6CWdFH6NWGQx"
+    },
+    {
+      "album": {
         "name": "Ballade No. 1",
         "url": "https://open.spotify.com/album/6DNeBYb5bziXWzVBaMsnj1"
       },
@@ -236,6 +254,24 @@
       "duration_ms": 114000,
       "name": "Ballade No. 1",
       "url": "https://open.spotify.com/track/6sdTcq277BK1HlIn4ODjAl"
+    },
+    {
+      "album": {
+        "name": "Bei mir bist du sch\u00f6n",
+        "url": "https://open.spotify.com/album/7rrwhLZNJFe9vN8SagXtgO"
+      },
+      "artists": [
+        {
+          "name": "Duo Stiehler/Lucaciu",
+          "url": "https://open.spotify.com/artist/7nSGBz4UKbB91w3Qm6Mjcm"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185172,
+      "name": "Bei mir bist du sch\u00f6n",
+      "url": "https://open.spotify.com/track/3yKKZTpzR2fnxw50gar1Mc"
     },
     {
       "album": {
@@ -1320,7 +1356,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 202241,
       "name": "French Dressing",
       "url": "https://open.spotify.com/track/2Xu3gWbcQoK6lzrCduCyRJ"
@@ -3639,6 +3675,24 @@
     },
     {
       "album": {
+        "name": "Rumble Disco Machine",
+        "url": "https://open.spotify.com/album/3mIyGy7Wvlj2cvLvG6Vspt"
+      },
+      "artists": [
+        {
+          "name": "Yabloko Moloko",
+          "url": "https://open.spotify.com/artist/0tbdvtRe5Ifmrc3h7Sg3TA"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258239,
+      "name": "Rumble Disco Machine",
+      "url": "https://open.spotify.com/track/2c7rgMEXgkHntJitkaMdm3"
+    },
+    {
+      "album": {
         "name": "Run Away",
         "url": "https://open.spotify.com/album/55Cny0i1Z06aBeN4QEpgMk"
       },
@@ -4372,7 +4426,7 @@
       ],
       "date_added": "2021-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 158350,
       "name": "Summer Swing",
       "url": "https://open.spotify.com/track/2LpvMsXOLJpmiBWmrBpNYg"
@@ -5078,7 +5132,7 @@
       ],
       "date_added": "2022-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 190413,
       "name": "Twenties",
       "url": "https://open.spotify.com/track/01LK7AQCrzzdLIU4EYmCr9"

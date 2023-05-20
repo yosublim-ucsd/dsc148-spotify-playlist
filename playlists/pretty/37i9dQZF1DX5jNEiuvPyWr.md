@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5jNEiuvPyWr.md) - [plain]
 
 > Le meilleur du rap français version cloud\. Photo : So La Lune
 
-[Spotify](https://open.spotify.com/user/spotify) - 347,737 likes - 40 songs - 1 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 347,789 likes - 40 songs - 1 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5jNEiuvPyWr.md) - [plain]
 | 16 | [Minuit](https://open.spotify.com/track/3qppQ6d1ffg1NUp4uGVY3g) | [THABITI](https://open.spotify.com/artist/5Ea2kDQeQNQrIcI6tCthaQ) | [Minuit](https://open.spotify.com/album/1VvnLoLqEjpGw3MqgWVFzp) | 2:33 |
 | 17 | [ÉTÉ HIVER](https://open.spotify.com/track/37dQuMCbUX9ikesEh9AP6A) | [DMS](https://open.spotify.com/artist/5uo0xw2Agih4NcDVajOd6e), [J9ueve](https://open.spotify.com/artist/4fj5OWrMmlCbrc3PocAcl1) | [VAGALAME](https://open.spotify.com/album/011c9UckMBRFQmp1ZgRA0P) | 2:39 |
 | 18 | [C'EST MORT](https://open.spotify.com/track/4gZdVjI2z8RpfWOoboONMA) | [NAOHS](https://open.spotify.com/artist/6Te81qcP1wIVOh1v6mJAFb) | [C'EST MORT](https://open.spotify.com/album/4pArbRYS8VZSyYGVRazSKI) | 2:36 |
-| 19 | [BB APPREND\-MOI À FERMER LES YEUX](https://open.spotify.com/track/2fMsWuZwPOHzQubX1otzO2) | [Sovajon](https://open.spotify.com/artist/41XEyClazvR6Ao77iD8qex) | [BB APPREND\-MOI À FERMER LES YEUX](https://open.spotify.com/album/0DV620FQXLPrwCuCq7S1Oy) | 3:10 |
+| 19 | [BB APPRENDS\-MOI À FERMER LES YEUX](https://open.spotify.com/track/2fMsWuZwPOHzQubX1otzO2) | [Sovajon](https://open.spotify.com/artist/41XEyClazvR6Ao77iD8qex), [Isma](https://open.spotify.com/artist/43HCKjfq0p8VwJo3LSs7H7) | [BB APPRENDS\-MOI À FERMER LES YEUX](https://open.spotify.com/album/0DV620FQXLPrwCuCq7S1Oy) | 3:10 |
 | 20 | [PERDU D'AVANCE](https://open.spotify.com/track/32CtvOn0vsV5VlGk5JeZpg) | [HAKAI](https://open.spotify.com/artist/33v1e0a3iVU2BBzW3orMrN) | [PERDU D'AVANCE](https://open.spotify.com/album/1FsjyKZzdKLKfRW3qjSykW) | 3:00 |
 | 21 | [MOB \(Affamé \#20\)](https://open.spotify.com/track/5GnkgCm32rsuAVQ4Uf0oF8) | [Zamdane](https://open.spotify.com/artist/5CtPAGoxpJ4yLJLx6CSrO8) | [MOB \(Affamé \#20\)](https://open.spotify.com/album/3pBQLVgwHk4TL26TX39hHn) | 3:07 |
 | 22 | [La Villa](https://open.spotify.com/track/0bgaPlh35VreN2tIWPQph4) | [Rouge Carmin](https://open.spotify.com/artist/4cj80pU5lKUZDMsCfyajyS) | [La Villa](https://open.spotify.com/album/3RmdxbQoyDJcGJYMUUsf54) | 2:26 |
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5jNEiuvPyWr.md) - [plain]
 | 39 | [Gaouri](https://open.spotify.com/track/6usP72J7HRHaR0wqiJXcxc) | [Eniah](https://open.spotify.com/artist/07AutVRBzcfa2AIYsGSgLj) | [Gaouri](https://open.spotify.com/album/48ABfPStfF7AJjEd5woBOP) | 2:39 |
 | 40 | [Synopsis](https://open.spotify.com/track/1bMGTZTAeM3FO6Y4V7Hj6y) | [Omar Syco](https://open.spotify.com/artist/64rNevpGXVZnB4ziGC2nHz) | [Synopsis](https://open.spotify.com/album/3c3EKhBjT67KGlOX5Cs7X1) | 2:22 |
 
-Snapshot ID: `MCwzZWZlMzA3YmY0Y2JkYTc2NzcwNTVhYjgxNTYwYTk4OGJjODNkMDkx`
+Snapshot ID: `MCw4Zjc1NWE5MGNhMDAxNzI2NGFhY2YxYWU5NjExZGUxMDNhMGI1MTEw`

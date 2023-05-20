@@ -861,6 +861,24 @@
     },
     {
       "album": {
+        "name": "Dumb Bitch Punch",
+        "url": "https://open.spotify.com/album/3JJcipJTUaT5gpavGpRFkH"
+      },
+      "artists": [
+        {
+          "name": "Nnena",
+          "url": "https://open.spotify.com/artist/0PpiNNCSKFjchmyHuCe0Pj"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199635,
+      "name": "Dumb Bitch Punch",
+      "url": "https://open.spotify.com/track/771oKmhmsRmq3iNnEIyFTw"
+    },
+    {
+      "album": {
         "name": "EGO DYE",
         "url": "https://open.spotify.com/album/4ZnK1fDS9dKE2FwWi39mcG"
       },
@@ -1324,7 +1342,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 178080,
       "name": "Glad U Came",
       "url": "https://open.spotify.com/track/3g5OlVimHO0rK6qmRiwokX"
@@ -3136,7 +3154,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 181575,
       "name": "STADIUMS",
       "url": "https://open.spotify.com/track/5ECoEOMNN2hUqNnwPOlOFa"
@@ -3338,6 +3356,24 @@
       "duration_ms": 158525,
       "name": "TAKUT\u00c1",
       "url": "https://open.spotify.com/track/3WRXW64cLmy1WSHEs9zgUZ"
+    },
+    {
+      "album": {
+        "name": "Tears in the Moonlight",
+        "url": "https://open.spotify.com/album/5VMt4kmFV2RghvnTx9DCyu"
+      },
+      "artists": [
+        {
+          "name": "Kelechi",
+          "url": "https://open.spotify.com/artist/0c62xvYMgfzgFPOXg8uhEU"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179222,
+      "name": "Tears in the Moonlight",
+      "url": "https://open.spotify.com/track/2MAz9mZH3n9nVGZWUC2VUh"
     },
     {
       "album": {
@@ -3848,6 +3884,28 @@
       "duration_ms": 220500,
       "name": "What You Need",
       "url": "https://open.spotify.com/track/30CYYrMIeCeA5v5TIAcQmv"
+    },
+    {
+      "album": {
+        "name": "When Love Sucks (feat. Dido)",
+        "url": "https://open.spotify.com/album/0BmbK3Ayd0Q9BWOCQYOdQw"
+      },
+      "artists": [
+        {
+          "name": "Jason Derulo",
+          "url": "https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y"
+        },
+        {
+          "name": "Dido",
+          "url": "https://open.spotify.com/artist/2mpeljBig2IXLXRAFO9AAs"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169645,
+      "name": "When Love Sucks (feat. Dido)",
+      "url": "https://open.spotify.com/track/59vMO9rkUuefwLMKzohNo5"
     },
     {
       "album": {

@@ -1,13 +1,29 @@
 {
   "description": "A different shade of the blues. Cover: Ash Grunwald",
-  "num_followers": 38742,
+  "num_followers": 38813,
   "original_name": "Alt-Blue",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1ZmJiMjkyZjUxOGJiZjA3MjNkNmRkMjI2ZDM2MjAyMTk5MWY5YzBi",
+  "snapshot_id": "MCw5ODFhMmQ4NDUzZmVmZGZkMTE0YTg5NmExMTJkMWIzMjM0ODAzNzlk",
   "tracks": [
+    {
+      "added_at": "2023-05-19 04:01:00",
+      "album": {
+        "name": "Deal With the Devil (You'll Get Yours)",
+        "url": "https://open.spotify.com/album/7yYgLdX6u9G6o1Y9sR08F2"
+      },
+      "artists": [
+        {
+          "name": "The Deadbeat Cousins",
+          "url": "https://open.spotify.com/artist/1NLpUEmI57tHPTH9GSDA40"
+        }
+      ],
+      "duration_ms": 170769,
+      "name": "Deal With the Devil (You'll Get Yours)",
+      "url": "https://open.spotify.com/track/3aYJn9GyaNQhZopKLvoOHl"
+    },
     {
       "added_at": "2023-04-07 04:01:00",
       "album": {
@@ -47,6 +63,22 @@
       "duration_ms": 278297,
       "name": "Can't Stop The Bleeding (feat. Gary Clark Jr. & Gramatik)",
       "url": "https://open.spotify.com/track/79DQcqdOuzHH5g0fI8KShf"
+    },
+    {
+      "added_at": "2023-05-19 04:01:00",
+      "album": {
+        "name": "To Whom It May Concern,",
+        "url": "https://open.spotify.com/album/15FWLsNkClkSb0DLGO7H27"
+      },
+      "artists": [
+        {
+          "name": "Alexander Wren",
+          "url": "https://open.spotify.com/artist/6f6oMcKG2GzGjfejpsD7e7"
+        }
+      ],
+      "duration_ms": 173053,
+      "name": "Beautiful Women",
+      "url": "https://open.spotify.com/track/2udaizsOJPOvmZf7q8qL7u"
     },
     {
       "added_at": "2022-08-31 19:53:08",
@@ -267,22 +299,6 @@
       "duration_ms": 204820,
       "name": "I'm so Happy I Cry (feat. Tank)",
       "url": "https://open.spotify.com/track/2ZagwBX7kXRGC767ZVBt0H"
-    },
-    {
-      "added_at": "2022-08-31 19:53:08",
-      "album": {
-        "name": "The Juice",
-        "url": "https://open.spotify.com/album/66glD8iZgTv1vKXZRGQWXL"
-      },
-      "artists": [
-        {
-          "name": "G. Love & Special Sauce",
-          "url": "https://open.spotify.com/artist/74fkl73HDlCXw0l6cemB89"
-        }
-      ],
-      "duration_ms": 195693,
-      "name": "Fix Your Face",
-      "url": "https://open.spotify.com/track/3eP5an9ETzZjFBKdGmwOUK"
     },
     {
       "added_at": "2022-08-31 19:53:08",
@@ -1223,22 +1239,6 @@
       "duration_ms": 175830,
       "name": "This Is My Squad",
       "url": "https://open.spotify.com/track/16FhHjA9XNSQupLwrH6k8n"
-    },
-    {
-      "added_at": "2022-08-31 19:53:08",
-      "album": {
-        "name": "Don't Tell Me No Lies",
-        "url": "https://open.spotify.com/album/1rQb95a3OAbZ0fNlm0nFn5"
-      },
-      "artists": [
-        {
-          "name": "The Deadbeat Cousins",
-          "url": "https://open.spotify.com/artist/1NLpUEmI57tHPTH9GSDA40"
-        }
-      ],
-      "duration_ms": 147423,
-      "name": "Don't Tell Me No Lies",
-      "url": "https://open.spotify.com/track/7dpiJiCnguTuTjcKORxfpt"
     },
     {
       "added_at": "2022-08-31 19:53:08",

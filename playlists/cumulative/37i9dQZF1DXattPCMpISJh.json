@@ -108,7 +108,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 228200,
       "name": "Alegr\u00eda (Franc Moody Remix)",
       "url": "https://open.spotify.com/track/4pXlg4wiARIhv0CHx0pFMd"
@@ -1183,6 +1183,28 @@
     },
     {
       "album": {
+        "name": "Feel The Groove",
+        "url": "https://open.spotify.com/album/7bOqJYBRGtDpx0NV5yuizR"
+      },
+      "artists": [
+        {
+          "name": "Seb Skalski",
+          "url": "https://open.spotify.com/artist/1TMuRToXVLIjYsYYg3jmp1"
+        },
+        {
+          "name": "Rona Ray",
+          "url": "https://open.spotify.com/artist/3kirHdB9pQSMLSgLCgVp1P"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283250,
+      "name": "Feel The Groove",
+      "url": "https://open.spotify.com/track/0wjJfVH7DCVSeOXxkpFNNE"
+    },
+    {
+      "album": {
         "name": "Fired Up",
         "url": "https://open.spotify.com/album/0AVxyhn8k58OuIK8xz4bsT"
       },
@@ -1348,6 +1370,24 @@
       "duration_ms": 425609,
       "name": "Free Yourself (Again) [Extended Vocal Mix]",
       "url": "https://open.spotify.com/track/60FOtCEqN449Xtpyb2QkgW"
+    },
+    {
+      "album": {
+        "name": "Georgia",
+        "url": "https://open.spotify.com/album/1zoFGgKPdJ171wRnukDPBb"
+      },
+      "artists": [
+        {
+          "name": "DiRTY RADiO",
+          "url": "https://open.spotify.com/artist/7bhcf6U7Lu1Ra9u0oWLM5x"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201904,
+      "name": "Georgia",
+      "url": "https://open.spotify.com/track/2YTGXyiT6eHxc2UVw9wEjA"
     },
     {
       "album": {
@@ -1910,7 +1950,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 162325,
       "name": "Jet Fuel",
       "url": "https://open.spotify.com/track/2KiEnTzDtNEGrEDcZGUHpZ"
@@ -2082,6 +2122,24 @@
       "duration_ms": 242009,
       "name": "Let Your Body Move",
       "url": "https://open.spotify.com/track/0yQ5KcZnBCrUycJ81ewF5F"
+    },
+    {
+      "album": {
+        "name": "Let\u2019s Keep On Dancing",
+        "url": "https://open.spotify.com/album/1vWSakTvo1YOgWLiShwpdr"
+      },
+      "artists": [
+        {
+          "name": "Dylan Chambers",
+          "url": "https://open.spotify.com/artist/2jP4GO0BDgY15BqUcUVhG9"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199550,
+      "name": "Let\u2019s Keep On Dancing",
+      "url": "https://open.spotify.com/track/2MTES4OZUVqTCmE99Rk7HR"
     },
     {
       "album": {
@@ -2395,7 +2453,7 @@
     },
     {
       "album": {
-        "name": "MOVE",
+        "name": "Move",
         "url": "https://open.spotify.com/album/4nMAiQTGaqm3fKz1e2Vw7p"
       },
       "artists": [
@@ -3004,7 +3062,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 145319,
       "name": "Seven Years",
       "url": "https://open.spotify.com/track/18eFjMhBiekCdJeNGhdkF9"

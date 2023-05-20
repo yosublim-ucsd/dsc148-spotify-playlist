@@ -1,12 +1,12 @@
 {
   "description": "Relax to the sounds of acoustic blues and folk.",
-  "num_followers": 70862,
+  "num_followers": 70889,
   "original_name": "Rockin' Chair Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyMzRlNDhiNzk0NWJmMzQyNTAxM2E3NGVlZWMzMDQ5ZGZlNWY0NmVl",
+  "snapshot_id": "MCwxYTY3MTExNDQ4OTgyNzQxZWNmYzJlNzIzYTU5YTE1MWFlMTk4Nzk2",
   "tracks": [
     {
       "added_at": "2023-04-07 00:01:00",
@@ -343,22 +343,6 @@
     {
       "added_at": "2023-04-07 00:01:00",
       "album": {
-        "name": "Down in Mississippi",
-        "url": "https://open.spotify.com/album/1FhadZKvoH6Kh4SroqVJTP"
-      },
-      "artists": [
-        {
-          "name": "Bobby Rush",
-          "url": "https://open.spotify.com/artist/7LdFlcnzWpySPKngmFCnLi"
-        }
-      ],
-      "duration_ms": 203453,
-      "name": "Down in Mississippi",
-      "url": "https://open.spotify.com/track/3ArBqpsJ4pyrnKtHZYl6ZJ"
-    },
-    {
-      "added_at": "2023-04-07 00:01:00",
-      "album": {
         "name": "Presenting Blind Willie McTell",
         "url": "https://open.spotify.com/album/3CwFKuklZs4BJKkwqIR46z"
       },
@@ -371,6 +355,22 @@
       "duration_ms": 152853,
       "name": "Statesboro Blues",
       "url": "https://open.spotify.com/track/2T3YfMI0xRk93bmVMuJcKu"
+    },
+    {
+      "added_at": "2023-04-07 00:01:00",
+      "album": {
+        "name": "Down in Mississippi",
+        "url": "https://open.spotify.com/album/1FhadZKvoH6Kh4SroqVJTP"
+      },
+      "artists": [
+        {
+          "name": "Bobby Rush",
+          "url": "https://open.spotify.com/artist/7LdFlcnzWpySPKngmFCnLi"
+        }
+      ],
+      "duration_ms": 203453,
+      "name": "Down in Mississippi",
+      "url": "https://open.spotify.com/track/3ArBqpsJ4pyrnKtHZYl6ZJ"
     },
     {
       "added_at": "2023-04-07 00:01:00",
@@ -421,7 +421,7 @@
       "url": "https://open.spotify.com/track/51qp3WsYjiDuBhzR7AON69"
     },
     {
-      "added_at": "2023-05-19 01:23:04",
+      "added_at": "2023-05-20 01:43:06",
       "album": {
         "name": "Blues Jumped a Rabbit",
         "url": "https://open.spotify.com/album/5cOjiagbLZqw85RJNk8lQ4"
@@ -1087,6 +1087,22 @@
     {
       "added_at": "2023-04-07 00:01:00",
       "album": {
+        "name": "Presenting Robert Nighthawk",
+        "url": "https://open.spotify.com/album/4VIFEGvSDLnyTUoZDSJinS"
+      },
+      "artists": [
+        {
+          "name": "Robert Nighthawk",
+          "url": "https://open.spotify.com/artist/1ycL0Ct3hz0glGDIwsUyNG"
+        }
+      ],
+      "duration_ms": 174093,
+      "name": "Friar's Point Blues",
+      "url": "https://open.spotify.com/track/3cwOZlayYhxMNQgEJEyp8r"
+    },
+    {
+      "added_at": "2023-04-07 00:01:00",
+      "album": {
         "name": "Brother Johnny",
         "url": "https://open.spotify.com/album/4xRZx0cl1NVIG2oDtACbpa"
       },
@@ -1103,22 +1119,6 @@
       "duration_ms": 232426,
       "name": "When You Got a Good Friend",
       "url": "https://open.spotify.com/track/1NPWchV6p9SBsGEVTqoFyc"
-    },
-    {
-      "added_at": "2023-04-07 00:01:00",
-      "album": {
-        "name": "Presenting Robert Nighthawk",
-        "url": "https://open.spotify.com/album/4VIFEGvSDLnyTUoZDSJinS"
-      },
-      "artists": [
-        {
-          "name": "Robert Nighthawk",
-          "url": "https://open.spotify.com/artist/1ycL0Ct3hz0glGDIwsUyNG"
-        }
-      ],
-      "duration_ms": 174093,
-      "name": "Friar's Point Blues",
-      "url": "https://open.spotify.com/track/3cwOZlayYhxMNQgEJEyp8r"
     },
     {
       "added_at": "2023-04-07 00:01:00",

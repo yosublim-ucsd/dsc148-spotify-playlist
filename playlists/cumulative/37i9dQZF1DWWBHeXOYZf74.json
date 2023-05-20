@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2019-07-30",
-  "description": "Genre-less. Quality first always. Cover: Overmono",
+  "description": "Genre-less. Quality first always. Cover: KAYTRAMIN\u00c9",
   "name": "POLLEN",
   "tracks": [
     {
@@ -7864,7 +7864,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 271112,
       "name": "CooCool",
       "url": "https://open.spotify.com/track/0C8jkmcNV7VxyHemnI917F"
@@ -11780,7 +11780,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 181293,
       "name": "Fam Without Blood",
       "url": "https://open.spotify.com/track/1J4VJFAnnb55HrCfglZmF0"
@@ -15683,6 +15683,24 @@
     },
     {
       "album": {
+        "name": "Heaven Hanging Low",
+        "url": "https://open.spotify.com/album/0C15Fq2phrRsuF38ny28Hk"
+      },
+      "artists": [
+        {
+          "name": "Art School Girlfriend",
+          "url": "https://open.spotify.com/artist/3rtvvt1kuQ4luEWq8epaHD"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220306,
+      "name": "Heaven Hanging Low",
+      "url": "https://open.spotify.com/track/0XyBzQ0hOpfmXSjG2CwIqk"
+    },
+    {
+      "album": {
         "name": "Heaven Surrounds Us Like a Hood",
         "url": "https://open.spotify.com/album/5t7N8dFT1XvMnDekrjfHkb"
       },
@@ -17915,6 +17933,24 @@
     },
     {
       "album": {
+        "name": "If Only It Was Warmth",
+        "url": "https://open.spotify.com/album/0s5NoPv7HcPo4TvbGwo8VB"
+      },
+      "artists": [
+        {
+          "name": "King Krule",
+          "url": "https://open.spotify.com/artist/4wyNyxs74Ux8UIDopNjIai"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197979,
+      "name": "If Only It Was Warmth",
+      "url": "https://open.spotify.com/track/1wXbDJMiHEO9vfwVJPOBcH"
+    },
+    {
+      "album": {
         "name": "Grotto",
         "url": "https://open.spotify.com/album/12betAHniGpAyDzg4ty8ER"
       },
@@ -18032,7 +18068,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 229203,
       "name": "Impurities",
       "url": "https://open.spotify.com/track/0yUpBx2Y5KwzENVCshSy3M"
@@ -18659,6 +18695,28 @@
     },
     {
       "album": {
+        "name": "It's Euphoric (Mura Masa Remix)",
+        "url": "https://open.spotify.com/album/2uxnyz1pomXCqsaJcBrVoJ"
+      },
+      "artists": [
+        {
+          "name": "Georgia",
+          "url": "https://open.spotify.com/artist/06knYh538h5SI7OAEF8ek3"
+        },
+        {
+          "name": "Mura Masa",
+          "url": "https://open.spotify.com/artist/5Q81rlcTFh3k6DQJXPdsot"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193974,
+      "name": "It's Euphoric - Mura Masa Remix",
+      "url": "https://open.spotify.com/track/1xAGqmVj5Asg1g8nUhEoFs"
+    },
+    {
+      "album": {
         "name": "It's Got To Be You",
         "url": "https://open.spotify.com/album/1QEylt2WvPjzYVfjRdVNKz"
       },
@@ -18742,7 +18800,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 221493,
       "name": "It\u2019s Euphoric",
       "url": "https://open.spotify.com/track/3se5Q9CtQLv26cFWYOcExQ"
@@ -28459,7 +28517,7 @@
       "date_added": "2023-05-17",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 123620,
+      "duration_ms": 118436,
       "name": "Rebuke",
       "url": "https://open.spotify.com/track/4XE1StBll9KcNa8nHa3nXG"
     },
@@ -32642,7 +32700,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 171706,
       "name": "Sticky (feat. Childish Gambino & KIRBY)",
       "url": "https://open.spotify.com/track/14adSLAL6WgvwH5snRF3gs"
@@ -34280,6 +34338,24 @@
       "duration_ms": 187520,
       "name": "Te Olvidaste",
       "url": "https://open.spotify.com/track/6Nr40AS5eNsfFjpMrisCY3"
+    },
+    {
+      "album": {
+        "name": "Tears can be so soft",
+        "url": "https://open.spotify.com/album/1OdiuYoGwzTCuIiSu5v20O"
+      },
+      "artists": [
+        {
+          "name": "Christine and the Queens",
+          "url": "https://open.spotify.com/artist/04vj3iPUiVh5melWr0w3xT"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 311928,
+      "name": "Tears can be so soft",
+      "url": "https://open.spotify.com/track/47UhZ9fjTEIOjOe4gktZN9"
     },
     {
       "album": {
@@ -36716,7 +36792,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-20",
       "duration_ms": 243866,
       "name": "UNDERSTAND (feat. Baby Rose)",
       "url": "https://open.spotify.com/track/1RHob2sw5X81Ukn4BYPbmF"
@@ -38382,6 +38458,32 @@
       "duration_ms": 277171,
       "name": "Who Even Cares",
       "url": "https://open.spotify.com/track/38JeXZxpAoBrKrtUgEJakU"
+    },
+    {
+      "album": {
+        "name": "KAYTRAMIN\u00c9",
+        "url": "https://open.spotify.com/album/1plAqF2W8hwAhcpBAfGNsW"
+      },
+      "artists": [
+        {
+          "name": "KAYTRAMIN\u00c9",
+          "url": "https://open.spotify.com/artist/5oifjQw72WO7Jut07fVWMy"
+        },
+        {
+          "name": "Amin\u00e9",
+          "url": "https://open.spotify.com/artist/3Gm5F95VdRxW3mqCn8RPBJ"
+        },
+        {
+          "name": "KAYTRANADA",
+          "url": "https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181000,
+      "name": "Who He Iz",
+      "url": "https://open.spotify.com/track/02nhDSWvcXYALyVkth2oXd"
     },
     {
       "album": {
