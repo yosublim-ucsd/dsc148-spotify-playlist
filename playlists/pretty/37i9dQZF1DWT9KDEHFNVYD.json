@@ -1,12 +1,12 @@
 {
   "description": "Endless miles of Krautrock, Motorik Beats, Kosmische Musik, and all infinite deviations.",
-  "num_followers": 9617,
+  "num_followers": 9627,
   "original_name": "Krautrock Highway",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkY2IzYWU3Njc0MGRjYTQ1NDljZWJmZjNhYjY5YWM0NGZjYzliYzQ0",
+  "snapshot_id": "MCwyOGVjNjdlZmI4ODA4NDZhNGNmYmUyZmIyYWRjMDljYmVkZmVkNjAx",
   "tracks": [
     {
       "added_at": "2021-07-30 14:56:06",
@@ -43,22 +43,6 @@
     {
       "added_at": "2021-07-30 14:56:06",
       "album": {
-        "name": "Street Worms",
-        "url": "https://open.spotify.com/album/4QDHK085r08dWT1GvXmR6F"
-      },
-      "artists": [
-        {
-          "name": "Viagra Boys",
-          "url": "https://open.spotify.com/artist/2nAKP6etu8wXNnezKXgqgg"
-        }
-      ],
-      "duration_ms": 191216,
-      "name": "Slow Learner",
-      "url": "https://open.spotify.com/track/79W8lW8xyYayXfi8TTbtoD"
-    },
-    {
-      "added_at": "2021-07-30 14:56:06",
-      "album": {
         "name": "Third",
         "url": "https://open.spotify.com/album/4BnNSzOWadogStvyYshJIo"
       },
@@ -71,6 +55,22 @@
       "duration_ms": 270946,
       "name": "The Rip",
       "url": "https://open.spotify.com/track/5KX2DSPC6aCA0pdDidTmBC"
+    },
+    {
+      "added_at": "2021-07-30 14:56:06",
+      "album": {
+        "name": "Street Worms",
+        "url": "https://open.spotify.com/album/4QDHK085r08dWT1GvXmR6F"
+      },
+      "artists": [
+        {
+          "name": "Viagra Boys",
+          "url": "https://open.spotify.com/artist/2nAKP6etu8wXNnezKXgqgg"
+        }
+      ],
+      "duration_ms": 191216,
+      "name": "Slow Learner",
+      "url": "https://open.spotify.com/track/79W8lW8xyYayXfi8TTbtoD"
     },
     {
       "added_at": "2023-03-23 21:21:38",
@@ -461,24 +461,20 @@
       "url": "https://open.spotify.com/track/0Qm5uQR8XL6QHlsZu53ZF7"
     },
     {
-      "added_at": "2022-08-09 01:36:21",
+      "added_at": "2021-07-30 14:56:06",
       "album": {
-        "name": "Pulse Of The Early Brain [Switched On Volume 5]",
-        "url": "https://open.spotify.com/album/78tm3KQp4jXbXAWZYLtBal"
+        "name": "Alexa!",
+        "url": "https://open.spotify.com/album/77FBNlMvuIbvsTAJar8rk9"
       },
       "artists": [
         {
-          "name": "Stereolab",
-          "url": "https://open.spotify.com/artist/3Rj0tDHoX7C5NFq5DKIpHt"
-        },
-        {
-          "name": "Nurse With Wound",
-          "url": "https://open.spotify.com/artist/7BqVdvWeMLlWkZAOGRPe0I"
+          "name": "The Cool Greenhouse",
+          "url": "https://open.spotify.com/artist/3t1nM1F3Ynmt6Ft7ouWYmW"
         }
       ],
-      "duration_ms": 646683,
-      "name": "Simple Headphone Mind",
-      "url": "https://open.spotify.com/track/1lkxzamwyP2Th5HMmcmeS7"
+      "duration_ms": 234720,
+      "name": "Alexa!",
+      "url": "https://open.spotify.com/track/1mZvTkWDMhElKK9h91EtTI"
     },
     {
       "added_at": "2023-03-16 23:38:03",
@@ -513,20 +509,24 @@
       "url": "https://open.spotify.com/track/2LaxQIT4heN80xHBuKOhHY"
     },
     {
-      "added_at": "2021-07-30 14:56:06",
+      "added_at": "2022-08-09 01:36:21",
       "album": {
-        "name": "Alexa!",
-        "url": "https://open.spotify.com/album/77FBNlMvuIbvsTAJar8rk9"
+        "name": "Pulse Of The Early Brain [Switched On Volume 5]",
+        "url": "https://open.spotify.com/album/78tm3KQp4jXbXAWZYLtBal"
       },
       "artists": [
         {
-          "name": "The Cool Greenhouse",
-          "url": "https://open.spotify.com/artist/3t1nM1F3Ynmt6Ft7ouWYmW"
+          "name": "Stereolab",
+          "url": "https://open.spotify.com/artist/3Rj0tDHoX7C5NFq5DKIpHt"
+        },
+        {
+          "name": "Nurse With Wound",
+          "url": "https://open.spotify.com/artist/7BqVdvWeMLlWkZAOGRPe0I"
         }
       ],
-      "duration_ms": 234720,
-      "name": "Alexa!",
-      "url": "https://open.spotify.com/track/1mZvTkWDMhElKK9h91EtTI"
+      "duration_ms": 646683,
+      "name": "Simple Headphone Mind",
+      "url": "https://open.spotify.com/track/1lkxzamwyP2Th5HMmcmeS7"
     },
     {
       "added_at": "2021-07-30 14:56:06",
@@ -663,6 +663,22 @@
     {
       "added_at": "2021-07-30 14:56:06",
       "album": {
+        "name": "SongBook",
+        "url": "https://open.spotify.com/album/1w73ipVNe04ERHc8bwEQG0"
+      },
+      "artists": [
+        {
+          "name": "The Lazy Eyes",
+          "url": "https://open.spotify.com/artist/5ZCOgPpZNvlJEBnUZnDqW8"
+        }
+      ],
+      "duration_ms": 173550,
+      "name": "Tangerine",
+      "url": "https://open.spotify.com/track/05Dyd2KfjELJ6LMPcaXTlU"
+    },
+    {
+      "added_at": "2021-07-30 14:56:06",
+      "album": {
         "name": "The Music of Grand Theft Auto V, Vol. 2: The Score",
         "url": "https://open.spotify.com/album/5EJAJsaHhQYLwVbynpcGkD"
       },
@@ -695,18 +711,18 @@
     {
       "added_at": "2021-07-30 14:56:06",
       "album": {
-        "name": "SongBook",
-        "url": "https://open.spotify.com/album/1w73ipVNe04ERHc8bwEQG0"
+        "name": "NEU!",
+        "url": "https://open.spotify.com/album/1aKOQpS6TrGd3wTQooaIBH"
       },
       "artists": [
         {
-          "name": "The Lazy Eyes",
-          "url": "https://open.spotify.com/artist/5ZCOgPpZNvlJEBnUZnDqW8"
+          "name": "NEU!",
+          "url": "https://open.spotify.com/artist/2CqEOngQOOMstJupNn6Hmf"
         }
       ],
-      "duration_ms": 173550,
-      "name": "Tangerine",
-      "url": "https://open.spotify.com/track/05Dyd2KfjELJ6LMPcaXTlU"
+      "duration_ms": 607426,
+      "name": "Hallogallo",
+      "url": "https://open.spotify.com/track/1RyIA87KYGavtK0xiVXwDH"
     },
     {
       "added_at": "2021-07-30 14:56:06",
@@ -723,22 +739,6 @@
       "duration_ms": 642200,
       "name": "Spiders (Kidsmoke)",
       "url": "https://open.spotify.com/track/5VT6IkQWpeXhWa7ZWjKDQp"
-    },
-    {
-      "added_at": "2021-07-30 14:56:06",
-      "album": {
-        "name": "NEU!",
-        "url": "https://open.spotify.com/album/1aKOQpS6TrGd3wTQooaIBH"
-      },
-      "artists": [
-        {
-          "name": "NEU!",
-          "url": "https://open.spotify.com/artist/2CqEOngQOOMstJupNn6Hmf"
-        }
-      ],
-      "duration_ms": 607426,
-      "name": "Hallogallo",
-      "url": "https://open.spotify.com/track/1RyIA87KYGavtK0xiVXwDH"
     },
     {
       "added_at": "2023-03-23 21:21:38",
@@ -775,6 +775,22 @@
     {
       "added_at": "2021-07-30 14:56:06",
       "album": {
+        "name": "Stars Are the Light",
+        "url": "https://open.spotify.com/album/1sHQuaIevYqota2y67KzK5"
+      },
+      "artists": [
+        {
+          "name": "Moon Duo",
+          "url": "https://open.spotify.com/artist/4ipKeGoyPCcpEblETS4qLu"
+        }
+      ],
+      "duration_ms": 288031,
+      "name": "The World and the Sun",
+      "url": "https://open.spotify.com/track/0dpkOiQplc6atQ19JUultZ"
+    },
+    {
+      "added_at": "2021-07-30 14:56:06",
+      "album": {
         "name": "Zuckerzeit",
         "url": "https://open.spotify.com/album/0g1Qjt5r2u56wtvqXDC0pb"
       },
@@ -791,18 +807,18 @@
     {
       "added_at": "2021-07-30 14:56:06",
       "album": {
-        "name": "Stars Are the Light",
-        "url": "https://open.spotify.com/album/1sHQuaIevYqota2y67KzK5"
+        "name": "Rhythm Is Our Business (Edit)",
+        "url": "https://open.spotify.com/album/4rsmZQDXlfrwEIHrsL1cRt"
       },
       "artists": [
         {
-          "name": "Moon Duo",
-          "url": "https://open.spotify.com/artist/4ipKeGoyPCcpEblETS4qLu"
+          "name": "Snapped Ankles",
+          "url": "https://open.spotify.com/artist/4iWOyexPqcvgycdx7mLUcl"
         }
       ],
-      "duration_ms": 288031,
-      "name": "The World and the Sun",
-      "url": "https://open.spotify.com/track/0dpkOiQplc6atQ19JUultZ"
+      "duration_ms": 223000,
+      "name": "Rhythm Is Our Business - Edit",
+      "url": "https://open.spotify.com/track/3sYAWmzPqgZBHawmexpuMG"
     },
     {
       "added_at": "2023-01-25 02:05:47",
@@ -823,22 +839,6 @@
     {
       "added_at": "2021-07-30 14:56:06",
       "album": {
-        "name": "Rhythm Is Our Business (Edit)",
-        "url": "https://open.spotify.com/album/4rsmZQDXlfrwEIHrsL1cRt"
-      },
-      "artists": [
-        {
-          "name": "Snapped Ankles",
-          "url": "https://open.spotify.com/artist/4iWOyexPqcvgycdx7mLUcl"
-        }
-      ],
-      "duration_ms": 223000,
-      "name": "Rhythm Is Our Business - Edit",
-      "url": "https://open.spotify.com/track/3sYAWmzPqgZBHawmexpuMG"
-    },
-    {
-      "added_at": "2021-07-30 14:56:06",
-      "album": {
         "name": "Boxed In",
         "url": "https://open.spotify.com/album/1h3tAYbt8VjYRx7wLGWDiJ"
       },
@@ -855,22 +855,6 @@
     {
       "added_at": "2021-07-30 14:56:06",
       "album": {
-        "name": "Zuckerzeit",
-        "url": "https://open.spotify.com/album/0g1Qjt5r2u56wtvqXDC0pb"
-      },
-      "artists": [
-        {
-          "name": "Cluster",
-          "url": "https://open.spotify.com/artist/5mNY0NPszdalbrb4ITO3M8"
-        }
-      ],
-      "duration_ms": 285933,
-      "name": "Hollywood",
-      "url": "https://open.spotify.com/track/741KQX9BobWT2bV5s5nO2D"
-    },
-    {
-      "added_at": "2021-07-30 14:56:06",
-      "album": {
         "name": "Primary Colours",
         "url": "https://open.spotify.com/album/22Nn88o4b8qGFXt2IkaFXV"
       },
@@ -883,38 +867,6 @@
       "duration_ms": 478493,
       "name": "Sea Within a Sea",
       "url": "https://open.spotify.com/track/4PeCRnvmRc60UBEEHZuSQO"
-    },
-    {
-      "added_at": "2023-01-12 03:40:17",
-      "album": {
-        "name": "Ghost Power",
-        "url": "https://open.spotify.com/album/0TdsBPpJLTRc9khFr4US5d"
-      },
-      "artists": [
-        {
-          "name": "Ghost Power",
-          "url": "https://open.spotify.com/artist/6puuOMtH1u9d3nrCdwO4Y8"
-        }
-      ],
-      "duration_ms": 221893,
-      "name": "Panic In The Isles Of Splendor",
-      "url": "https://open.spotify.com/track/78GtNy3hQhoZVh4Gn2s0Zs"
-    },
-    {
-      "added_at": "2021-07-30 14:56:06",
-      "album": {
-        "name": "Phase Modulation Shuffle (Edit)",
-        "url": "https://open.spotify.com/album/2W4XzDl8g1aXA3mgQ14GKF"
-      },
-      "artists": [
-        {
-          "name": "Cavern of Anti-Matter",
-          "url": "https://open.spotify.com/artist/71th4FPdhGaAHVeng0LfRt"
-        }
-      ],
-      "duration_ms": 219428,
-      "name": "Phase Modulation Shuffle (Edit)",
-      "url": "https://open.spotify.com/track/2eipVzPVCl3N2gWMXoEU1h"
     },
     {
       "added_at": "2021-07-30 14:56:06",
@@ -935,18 +887,66 @@
     {
       "added_at": "2021-07-30 14:56:06",
       "album": {
-        "name": "Codes and Keys",
-        "url": "https://open.spotify.com/album/26HVbJdxW1zC799gz8yzUr"
+        "name": "Zuckerzeit",
+        "url": "https://open.spotify.com/album/0g1Qjt5r2u56wtvqXDC0pb"
       },
       "artists": [
         {
-          "name": "Death Cab for Cutie",
-          "url": "https://open.spotify.com/artist/0YrtvWJMgSdVrk3SfNjTbx"
+          "name": "Cluster",
+          "url": "https://open.spotify.com/artist/5mNY0NPszdalbrb4ITO3M8"
         }
       ],
-      "duration_ms": 337346,
-      "name": "Doors Unlocked and Open",
-      "url": "https://open.spotify.com/track/15pPMD8QmGMK28iFmUd0l8"
+      "duration_ms": 285933,
+      "name": "Hollywood",
+      "url": "https://open.spotify.com/track/741KQX9BobWT2bV5s5nO2D"
+    },
+    {
+      "added_at": "2021-07-30 14:56:06",
+      "album": {
+        "name": "Third",
+        "url": "https://open.spotify.com/album/4BnNSzOWadogStvyYshJIo"
+      },
+      "artists": [
+        {
+          "name": "Portishead",
+          "url": "https://open.spotify.com/artist/6liAMWkVf5LH7YR9yfFy1Y"
+        }
+      ],
+      "duration_ms": 387786,
+      "name": "We Carry On",
+      "url": "https://open.spotify.com/track/0ig9qLenoEShtGuX1lSb47"
+    },
+    {
+      "added_at": "2021-07-30 14:56:06",
+      "album": {
+        "name": "Phase Modulation Shuffle (Edit)",
+        "url": "https://open.spotify.com/album/2W4XzDl8g1aXA3mgQ14GKF"
+      },
+      "artists": [
+        {
+          "name": "Cavern of Anti-Matter",
+          "url": "https://open.spotify.com/artist/71th4FPdhGaAHVeng0LfRt"
+        }
+      ],
+      "duration_ms": 219428,
+      "name": "Phase Modulation Shuffle (Edit)",
+      "url": "https://open.spotify.com/track/2eipVzPVCl3N2gWMXoEU1h"
+    },
+    {
+      "added_at": "2023-01-12 03:40:17",
+      "album": {
+        "name": "Ghost Power",
+        "url": "https://open.spotify.com/album/0TdsBPpJLTRc9khFr4US5d"
+      },
+      "artists": [
+        {
+          "name": "Ghost Power",
+          "url": "https://open.spotify.com/artist/6puuOMtH1u9d3nrCdwO4Y8"
+        }
+      ],
+      "duration_ms": 221893,
+      "name": "Panic In The Isles Of Splendor",
+      "url": "https://open.spotify.com/track/78GtNy3hQhoZVh4Gn2s0Zs"
     },
     {
       "added_at": "2021-07-30 14:56:06",
@@ -971,18 +971,34 @@
     {
       "added_at": "2021-07-30 14:56:06",
       "album": {
-        "name": "Third",
-        "url": "https://open.spotify.com/album/4BnNSzOWadogStvyYshJIo"
+        "name": "Murder of the Universe",
+        "url": "https://open.spotify.com/album/2y5bwmtV2nSBUrVoWzGXmS"
       },
       "artists": [
         {
-          "name": "Portishead",
-          "url": "https://open.spotify.com/artist/6liAMWkVf5LH7YR9yfFy1Y"
+          "name": "King Gizzard & The Lizard Wizard",
+          "url": "https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn"
         }
       ],
-      "duration_ms": 387786,
-      "name": "We Carry On",
-      "url": "https://open.spotify.com/track/0ig9qLenoEShtGuX1lSb47"
+      "duration_ms": 141800,
+      "name": "Han-Tyumi, The Confused Cyborg",
+      "url": "https://open.spotify.com/track/0ygAoz3haF1jLcHHB7NWf4"
+    },
+    {
+      "added_at": "2021-07-30 14:56:06",
+      "album": {
+        "name": "Codes and Keys",
+        "url": "https://open.spotify.com/album/26HVbJdxW1zC799gz8yzUr"
+      },
+      "artists": [
+        {
+          "name": "Death Cab for Cutie",
+          "url": "https://open.spotify.com/artist/0YrtvWJMgSdVrk3SfNjTbx"
+        }
+      ],
+      "duration_ms": 337346,
+      "name": "Doors Unlocked and Open",
+      "url": "https://open.spotify.com/track/15pPMD8QmGMK28iFmUd0l8"
     },
     {
       "added_at": "2021-07-30 14:56:06",
@@ -999,22 +1015,6 @@
       "duration_ms": 225440,
       "name": "Red Sails - 2017 Remaster",
       "url": "https://open.spotify.com/track/6Y9i9fI9HrYXMyJAHANLTm"
-    },
-    {
-      "added_at": "2021-07-30 14:56:06",
-      "album": {
-        "name": "Murder of the Universe",
-        "url": "https://open.spotify.com/album/2y5bwmtV2nSBUrVoWzGXmS"
-      },
-      "artists": [
-        {
-          "name": "King Gizzard & The Lizard Wizard",
-          "url": "https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn"
-        }
-      ],
-      "duration_ms": 141800,
-      "name": "Han-Tyumi, The Confused Cyborg",
-      "url": "https://open.spotify.com/track/0ygAoz3haF1jLcHHB7NWf4"
     },
     {
       "added_at": "2021-07-30 14:56:06",
@@ -1313,6 +1313,22 @@
       "url": "https://open.spotify.com/track/4iqaKbwNE9QrydAKTWjVAc"
     },
     {
+      "added_at": "2022-03-18 05:36:55",
+      "album": {
+        "name": "Osa Polar",
+        "url": "https://open.spotify.com/album/6t05m4JxBdRonMD5T1hYys"
+      },
+      "artists": [
+        {
+          "name": "Melenas",
+          "url": "https://open.spotify.com/artist/3vLz3LvH5DRDZOy6SU9w2f"
+        }
+      ],
+      "duration_ms": 282169,
+      "name": "Osa Polar",
+      "url": "https://open.spotify.com/track/1h9pmGilzK1WAIMDbhSsCG"
+    },
+    {
       "added_at": "2022-01-20 20:59:43",
       "album": {
         "name": "Ecdysis!",
@@ -1343,22 +1359,6 @@
       "duration_ms": 141160,
       "name": "Hei\u00dfe Lippen",
       "url": "https://open.spotify.com/track/7gZZfNIWxgA8zs5YxVdiFe"
-    },
-    {
-      "added_at": "2022-03-18 05:36:55",
-      "album": {
-        "name": "Osa Polar",
-        "url": "https://open.spotify.com/album/6t05m4JxBdRonMD5T1hYys"
-      },
-      "artists": [
-        {
-          "name": "Melenas",
-          "url": "https://open.spotify.com/artist/3vLz3LvH5DRDZOy6SU9w2f"
-        }
-      ],
-      "duration_ms": 282169,
-      "name": "Osa Polar",
-      "url": "https://open.spotify.com/track/1h9pmGilzK1WAIMDbhSsCG"
     },
     {
       "added_at": "2021-07-30 14:56:06",
@@ -1443,22 +1443,6 @@
     {
       "added_at": "2021-07-30 14:56:06",
       "album": {
-        "name": "The Secret Cosmic Music of the East German Olympic Program 1972-83, Vol. 1",
-        "url": "https://open.spotify.com/album/2hWjO2b5jqAym0JfquVvNQ"
-      },
-      "artists": [
-        {
-          "name": "Kosmischer L\u00e4ufer",
-          "url": "https://open.spotify.com/artist/4ZRufjj25YMXohtTIlg44B"
-        }
-      ],
-      "duration_ms": 386173,
-      "name": "Sandtrommel",
-      "url": "https://open.spotify.com/track/4IkU7Se7vWYxQPqPMday4O"
-    },
-    {
-      "added_at": "2021-07-30 14:56:06",
-      "album": {
         "name": "Faust IV (Deluxe Edition)",
         "url": "https://open.spotify.com/album/2yFbw2SIBZ7ExIBRVoFkJJ"
       },
@@ -1471,6 +1455,22 @@
       "duration_ms": 708813,
       "name": "Krautrock - 2006 Digital Remaster",
       "url": "https://open.spotify.com/track/0FCeHhtD9n3SFMALs3YXhH"
+    },
+    {
+      "added_at": "2021-07-30 14:56:06",
+      "album": {
+        "name": "The Secret Cosmic Music of the East German Olympic Program 1972-83, Vol. 1",
+        "url": "https://open.spotify.com/album/2hWjO2b5jqAym0JfquVvNQ"
+      },
+      "artists": [
+        {
+          "name": "Kosmischer L\u00e4ufer",
+          "url": "https://open.spotify.com/artist/4ZRufjj25YMXohtTIlg44B"
+        }
+      ],
+      "duration_ms": 386173,
+      "name": "Sandtrommel",
+      "url": "https://open.spotify.com/track/4IkU7Se7vWYxQPqPMday4O"
     },
     {
       "added_at": "2021-07-30 14:56:06",
@@ -1555,22 +1555,6 @@
     {
       "added_at": "2021-07-30 14:56:06",
       "album": {
-        "name": "Transparent Things",
-        "url": "https://open.spotify.com/album/3Fj7WFcMMbCgcvzBA75UvI"
-      },
-      "artists": [
-        {
-          "name": "Fujiya & Miyagi",
-          "url": "https://open.spotify.com/artist/0j2MwhbFTvquOBhs3LeIfU"
-        }
-      ],
-      "duration_ms": 391002,
-      "name": "Cassettesingle",
-      "url": "https://open.spotify.com/track/66vwhVWctdciNG21GcOC3G"
-    },
-    {
-      "added_at": "2021-07-30 14:56:06",
-      "album": {
         "name": "Emperor Tomato Ketchup",
         "url": "https://open.spotify.com/album/0haIl1ZqGy5akbazF8nxLs"
       },
@@ -1583,6 +1567,22 @@
       "duration_ms": 245093,
       "name": "Les Yper-Sound",
       "url": "https://open.spotify.com/track/7EBrYvNV6ZeTFld2I1m8n2"
+    },
+    {
+      "added_at": "2021-07-30 14:56:06",
+      "album": {
+        "name": "Transparent Things",
+        "url": "https://open.spotify.com/album/3Fj7WFcMMbCgcvzBA75UvI"
+      },
+      "artists": [
+        {
+          "name": "Fujiya & Miyagi",
+          "url": "https://open.spotify.com/artist/0j2MwhbFTvquOBhs3LeIfU"
+        }
+      ],
+      "duration_ms": 391002,
+      "name": "Cassettesingle",
+      "url": "https://open.spotify.com/track/66vwhVWctdciNG21GcOC3G"
     },
     {
       "added_at": "2021-07-30 14:56:06",

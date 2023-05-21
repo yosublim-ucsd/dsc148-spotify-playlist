@@ -124,7 +124,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-21",
       "duration_ms": 335946,
       "name": "Come Sit Down",
       "url": "https://open.spotify.com/track/4OFnAQqkz0mGQUmx59Carl"
@@ -330,6 +330,24 @@
       "duration_ms": 319803,
       "name": "I Know",
       "url": "https://open.spotify.com/track/1J9VTeVlVUbZLre3Yc1A4V"
+    },
+    {
+      "album": {
+        "name": "Beautiful Offerings (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1nS9azUwohxTProO6cTEMc"
+      },
+      "artists": [
+        {
+          "name": "Big Daddy Weave",
+          "url": "https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt"
+        }
+      ],
+      "date_added": "2023-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214933,
+      "name": "I Will Go",
+      "url": "https://open.spotify.com/track/50ZvPCUJkoPNFPIOAV97Ni"
     },
     {
       "album": {

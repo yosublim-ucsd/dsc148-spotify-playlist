@@ -3162,10 +3162,32 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-21",
       "duration_ms": 235674,
       "name": "Don't Text Don't Call",
       "url": "https://open.spotify.com/track/4hFftR3EiLvMvh8hvS6nKn"
+    },
+    {
+      "album": {
+        "name": "Don't Text Don't Call (feat. Snoop Dogg)",
+        "url": "https://open.spotify.com/album/6j8bA1BklsGI0sxhrq3Q2Y"
+      },
+      "artists": [
+        {
+          "name": "Wiz Khalifa",
+          "url": "https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop"
+        },
+        {
+          "name": "Snoop Dogg",
+          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
+        }
+      ],
+      "date_added": "2023-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235674,
+      "name": "Don't Text Don't Call (feat. Snoop Dogg)",
+      "url": "https://open.spotify.com/track/1JBLJThaI8h99wgfeH6qQL"
     },
     {
       "album": {

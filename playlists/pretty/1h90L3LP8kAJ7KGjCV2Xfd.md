@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1h90L3LP8kAJ7KGjCV2Xfd.md) - [plain]
 
 > Need a musical pick\-me\-up? Boost that serotonin with these timeless jams from Harry Styles, Beyonce, Kane Brown, Miley Cyrus and more!
 
-[Filtr US](https://open.spotify.com/user/myplay.com) - 308,114 likes - 169 songs - 9 hr 38 min
+[Filtr US](https://open.spotify.com/user/myplay.com) - 308,104 likes - 169 songs - 9 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

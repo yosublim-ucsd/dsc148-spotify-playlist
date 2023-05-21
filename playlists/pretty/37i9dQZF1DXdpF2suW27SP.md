@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdpF2suW27SP.md) - [plain]
 
 > Ivandro e Julinho Ksd entram na zona.
 
-[Spotify](https://open.spotify.com/user/spotify) - 161,909 likes - 75 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 161,938 likes - 75 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdpF2suW27SP.md) - [plain]
 | 74 | [Energy](https://open.spotify.com/track/0OuWQsF76w2jXQxOpvWfxn) | [Chyna](https://open.spotify.com/artist/3xytrTXgH7SQTEjMZewnWF) | [Energy](https://open.spotify.com/album/5h9LXGGTR6RiAGRbeY8PI7) | 3:58 |
 | 75 | [Sou Bem](https://open.spotify.com/track/7Ac5IGdhLqTzplHidnip3v) | [Johnny Virtus](https://open.spotify.com/artist/0DOixxvuN7cxZ7YiyMzlOt) | [Sou Bem](https://open.spotify.com/album/0V6k1ZXRZcWVtfziRleho3) | 3:44 |
 
-Snapshot ID: `MCwzYWYwYzM4NmIxMDk1NGEwY2Q2NTExNzExN2E2OTNlNmExZGY3OWIw`
+Snapshot ID: `MCwwYzc0ZTk4ODFiMzkxMTMyNjg5YmJkZGJmM2RiOGMyMDg2YjlkZmRh`

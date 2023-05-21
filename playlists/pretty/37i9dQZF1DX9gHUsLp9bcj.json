@@ -1,12 +1,12 @@
 {
   "description": "This is the Latin soundtrack of the 50s! Cover:  P\u00e9rez Prado",
-  "num_followers": 20777,
+  "num_followers": 20812,
   "original_name": "50s Latino",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmN2Y5NGIyYmM5ODYxZGY5MjcwZDdkZGY3MzBjNjljMDU5MzliYTg3",
+  "snapshot_id": "MCw4YzIyYjNlYWFiNmUzMjAzMWU4N2E2ZjRhNDhkNTZlNDNhNDU1YTEz",
   "tracks": [
     {
       "added_at": "2023-02-17 20:56:35",
@@ -91,18 +91,18 @@
     {
       "added_at": "2023-02-17 20:56:35",
       "album": {
-        "name": "Sus \u00c9xitos Fabulosos (Remastered)",
-        "url": "https://open.spotify.com/album/33RJnq1ma4lVTBKPCK92vf"
+        "name": "Dance Mania Vol.1",
+        "url": "https://open.spotify.com/album/1XjabdmwipT62cLSZV45SU"
       },
       "artists": [
         {
-          "name": "P\u00e9rez Prado",
-          "url": "https://open.spotify.com/artist/1ZKhPkCXXgtiGgALn4OYtT"
+          "name": "Tito Puente",
+          "url": "https://open.spotify.com/artist/6SPpCqM8gOzrtICAxN5NuX"
         }
       ],
-      "duration_ms": 167760,
-      "name": "Cerezo Rosa - Remastered",
-      "url": "https://open.spotify.com/track/1caIyurPdAPvl9kUyNfwir"
+      "duration_ms": 155693,
+      "name": "El Cayuco",
+      "url": "https://open.spotify.com/track/3j05qtcQlRIVF0a2DOoO68"
     },
     {
       "added_at": "2023-02-17 20:56:35",
@@ -123,6 +123,22 @@
     {
       "added_at": "2023-02-17 20:56:35",
       "album": {
+        "name": "Sus \u00c9xitos Fabulosos (Remastered)",
+        "url": "https://open.spotify.com/album/33RJnq1ma4lVTBKPCK92vf"
+      },
+      "artists": [
+        {
+          "name": "P\u00e9rez Prado",
+          "url": "https://open.spotify.com/artist/1ZKhPkCXXgtiGgALn4OYtT"
+        }
+      ],
+      "duration_ms": 167760,
+      "name": "Cerezo Rosa - Remastered",
+      "url": "https://open.spotify.com/track/1caIyurPdAPvl9kUyNfwir"
+    },
+    {
+      "added_at": "2023-02-17 20:56:35",
+      "album": {
         "name": "60 Rancheras Inmortales",
         "url": "https://open.spotify.com/album/7r20ZE4dXhmE7Ldc9sGeok"
       },
@@ -135,22 +151,6 @@
       "duration_ms": 197666,
       "name": "T\u00fa, solo t\u00fa",
       "url": "https://open.spotify.com/track/1sQ5nok0rccMPmAyGdQzvt"
-    },
-    {
-      "added_at": "2023-02-17 20:56:35",
-      "album": {
-        "name": "Dance Mania Vol.1",
-        "url": "https://open.spotify.com/album/1XjabdmwipT62cLSZV45SU"
-      },
-      "artists": [
-        {
-          "name": "Tito Puente",
-          "url": "https://open.spotify.com/artist/6SPpCqM8gOzrtICAxN5NuX"
-        }
-      ],
-      "duration_ms": 155693,
-      "name": "El Cayuco",
-      "url": "https://open.spotify.com/track/3j05qtcQlRIVF0a2DOoO68"
     },
     {
       "added_at": "2023-02-17 20:56:35",
@@ -223,22 +223,6 @@
     {
       "added_at": "2023-02-17 20:56:35",
       "album": {
-        "name": "15 Inmortales de Pedro Infante",
-        "url": "https://open.spotify.com/album/0EUGqkj07wWx27XADAq3Ba"
-      },
-      "artists": [
-        {
-          "name": "Pedro Infante",
-          "url": "https://open.spotify.com/artist/7y33enVLfDvft6HGNmcxdV"
-        }
-      ],
-      "duration_ms": 152186,
-      "name": "El gavil\u00e1n pollero",
-      "url": "https://open.spotify.com/track/2K1A5myyaOr2ZmUFSLT6R4"
-    },
-    {
-      "added_at": "2023-02-17 20:56:35",
-      "album": {
         "name": "Benny Mor\u00e9 Con P\u00e9rez Prado",
         "url": "https://open.spotify.com/album/6J7SeH8SbEgXbLxGsRedQt"
       },
@@ -295,6 +279,22 @@
     {
       "added_at": "2023-02-17 20:56:35",
       "album": {
+        "name": "Los Churumbeles",
+        "url": "https://open.spotify.com/album/3D1Be6P20ztSlF2HHWwMA3"
+      },
+      "artists": [
+        {
+          "name": "Los Churumbeles De Espa\u00f1a",
+          "url": "https://open.spotify.com/artist/5jpiQUq0Xyneu77BPajLu4"
+        }
+      ],
+      "duration_ms": 192693,
+      "name": "Doce Cascabeles",
+      "url": "https://open.spotify.com/track/7BUvNHsdaKgSjoGsAL4UJA"
+    },
+    {
+      "added_at": "2023-02-17 20:56:35",
+      "album": {
         "name": "Leyendas Solamente Los Mejores",
         "url": "https://open.spotify.com/album/4R4CFtjXHrWFLKYaMs05lC"
       },
@@ -311,6 +311,22 @@
     {
       "added_at": "2023-02-17 20:56:35",
       "album": {
+        "name": "15 Inmortales de Pedro Infante",
+        "url": "https://open.spotify.com/album/0EUGqkj07wWx27XADAq3Ba"
+      },
+      "artists": [
+        {
+          "name": "Pedro Infante",
+          "url": "https://open.spotify.com/artist/7y33enVLfDvft6HGNmcxdV"
+        }
+      ],
+      "duration_ms": 152186,
+      "name": "El gavil\u00e1n pollero",
+      "url": "https://open.spotify.com/track/2K1A5myyaOr2ZmUFSLT6R4"
+    },
+    {
+      "added_at": "2023-02-17 20:56:35",
+      "album": {
         "name": "Boleros In Tr\u00edo",
         "url": "https://open.spotify.com/album/6Q5WjwqD0rXwSlU5fuw0O7"
       },
@@ -323,22 +339,6 @@
       "duration_ms": 157480,
       "name": "Amor Que Malo Eres",
       "url": "https://open.spotify.com/track/3UALUQSEr7cIp3yjnPCMVe"
-    },
-    {
-      "added_at": "2023-02-17 20:56:35",
-      "album": {
-        "name": "Los Churumbeles",
-        "url": "https://open.spotify.com/album/3D1Be6P20ztSlF2HHWwMA3"
-      },
-      "artists": [
-        {
-          "name": "Los Churumbeles De Espa\u00f1a",
-          "url": "https://open.spotify.com/artist/5jpiQUq0Xyneu77BPajLu4"
-        }
-      ],
-      "duration_ms": 192693,
-      "name": "Doce Cascabeles",
-      "url": "https://open.spotify.com/track/7BUvNHsdaKgSjoGsAL4UJA"
     },
     {
       "added_at": "2023-02-17 20:56:35",
@@ -371,22 +371,6 @@
       "duration_ms": 143020,
       "name": "Bikini Amarillo",
       "url": "https://open.spotify.com/track/72g1PJpGW0wk5dglxSloxN"
-    },
-    {
-      "added_at": "2023-02-17 20:56:35",
-      "album": {
-        "name": "60 Rancheras Inmortales",
-        "url": "https://open.spotify.com/album/7r20ZE4dXhmE7Ldc9sGeok"
-      },
-      "artists": [
-        {
-          "name": "Pedro Infante",
-          "url": "https://open.spotify.com/artist/7y33enVLfDvft6HGNmcxdV"
-        }
-      ],
-      "duration_ms": 159666,
-      "name": "La que se fue",
-      "url": "https://open.spotify.com/track/7jbw51fAxM61ELUdfvx8Ua"
     },
     {
       "added_at": "2023-02-17 20:56:35",
@@ -439,18 +423,18 @@
     {
       "added_at": "2023-02-17 20:56:35",
       "album": {
-        "name": "The Best Of Perez Prado: The Original Mambo #5",
-        "url": "https://open.spotify.com/album/5tZ8FshywMxf1RdSTaZx5m"
+        "name": "Mar\u00eda Victoria",
+        "url": "https://open.spotify.com/album/64Rwiu8nkPZQpvhuHFwx6i"
       },
       "artists": [
         {
-          "name": "P\u00e9rez Prado",
-          "url": "https://open.spotify.com/artist/1ZKhPkCXXgtiGgALn4OYtT"
+          "name": "Mar\u00eda Victoria",
+          "url": "https://open.spotify.com/artist/2ZaGoLikmuGjY9tFEFQ14o"
         }
       ],
-      "duration_ms": 185013,
-      "name": "Qu\u00e9 Rico el Mambo",
-      "url": "https://open.spotify.com/track/3xyrxS6YnI9r3nsuC6W4Tm"
+      "duration_ms": 202553,
+      "name": "Mil Besos",
+      "url": "https://open.spotify.com/track/7hPNJ4s8iAR6v6J8Pa5oR4"
     },
     {
       "added_at": "2023-02-17 20:56:35",
@@ -464,25 +448,25 @@
           "url": "https://open.spotify.com/artist/7y33enVLfDvft6HGNmcxdV"
         }
       ],
-      "duration_ms": 195946,
-      "name": "P\u00e9njamo",
-      "url": "https://open.spotify.com/track/2vKYADIQCZb07DRE4LzwxK"
+      "duration_ms": 159666,
+      "name": "La que se fue",
+      "url": "https://open.spotify.com/track/7jbw51fAxM61ELUdfvx8Ua"
     },
     {
       "added_at": "2023-02-17 20:56:35",
       "album": {
-        "name": "Mar\u00eda Victoria",
-        "url": "https://open.spotify.com/album/64Rwiu8nkPZQpvhuHFwx6i"
+        "name": "The Best Of Perez Prado: The Original Mambo #5",
+        "url": "https://open.spotify.com/album/5tZ8FshywMxf1RdSTaZx5m"
       },
       "artists": [
         {
-          "name": "Mar\u00eda Victoria",
-          "url": "https://open.spotify.com/artist/2ZaGoLikmuGjY9tFEFQ14o"
+          "name": "P\u00e9rez Prado",
+          "url": "https://open.spotify.com/artist/1ZKhPkCXXgtiGgALn4OYtT"
         }
       ],
-      "duration_ms": 202553,
-      "name": "Mil Besos",
-      "url": "https://open.spotify.com/track/7hPNJ4s8iAR6v6J8Pa5oR4"
+      "duration_ms": 185013,
+      "name": "Qu\u00e9 Rico el Mambo",
+      "url": "https://open.spotify.com/track/3xyrxS6YnI9r3nsuC6W4Tm"
     },
     {
       "added_at": "2023-02-17 20:56:35",
@@ -551,22 +535,6 @@
     {
       "added_at": "2023-02-17 20:56:35",
       "album": {
-        "name": "The King of Mambo",
-        "url": "https://open.spotify.com/album/4gIaN0sSqN7fjDq9NG4vFp"
-      },
-      "artists": [
-        {
-          "name": "P\u00e9rez Prado",
-          "url": "https://open.spotify.com/artist/1ZKhPkCXXgtiGgALn4OYtT"
-        }
-      ],
-      "duration_ms": 149360,
-      "name": "Cherry Pink And Apple Blossom White",
-      "url": "https://open.spotify.com/track/783XPWZlaGrFcgH3EMoGwB"
-    },
-    {
-      "added_at": "2023-02-17 20:56:35",
-      "album": {
         "name": "\u00c9xitos",
         "url": "https://open.spotify.com/album/1rd76Pzbgwib2BMDklaFVU"
       },
@@ -579,6 +547,22 @@
       "duration_ms": 144544,
       "name": "Diana",
       "url": "https://open.spotify.com/track/5wgEPKwKpTS8g6fYejxXyh"
+    },
+    {
+      "added_at": "2023-02-17 20:56:35",
+      "album": {
+        "name": "60 Rancheras Inmortales",
+        "url": "https://open.spotify.com/album/7r20ZE4dXhmE7Ldc9sGeok"
+      },
+      "artists": [
+        {
+          "name": "Pedro Infante",
+          "url": "https://open.spotify.com/artist/7y33enVLfDvft6HGNmcxdV"
+        }
+      ],
+      "duration_ms": 195946,
+      "name": "P\u00e9njamo",
+      "url": "https://open.spotify.com/track/2vKYADIQCZb07DRE4LzwxK"
     },
     {
       "added_at": "2023-02-17 20:56:35",
@@ -627,6 +611,22 @@
       "duration_ms": 146760,
       "name": "Cuando Calienta El Sol",
       "url": "https://open.spotify.com/track/7pP7yMX0Nu862YXP5S9Eqs"
+    },
+    {
+      "added_at": "2023-02-17 20:56:35",
+      "album": {
+        "name": "The King of Mambo",
+        "url": "https://open.spotify.com/album/4gIaN0sSqN7fjDq9NG4vFp"
+      },
+      "artists": [
+        {
+          "name": "P\u00e9rez Prado",
+          "url": "https://open.spotify.com/artist/1ZKhPkCXXgtiGgALn4OYtT"
+        }
+      ],
+      "duration_ms": 149360,
+      "name": "Cherry Pink And Apple Blossom White",
+      "url": "https://open.spotify.com/track/783XPWZlaGrFcgH3EMoGwB"
     },
     {
       "added_at": "2023-02-17 20:56:35",
@@ -691,22 +691,6 @@
     {
       "added_at": "2023-02-17 20:56:35",
       "album": {
-        "name": "The Best Of Perez Prado: The Original Mambo #5",
-        "url": "https://open.spotify.com/album/5tZ8FshywMxf1RdSTaZx5m"
-      },
-      "artists": [
-        {
-          "name": "P\u00e9rez Prado",
-          "url": "https://open.spotify.com/artist/1ZKhPkCXXgtiGgALn4OYtT"
-        }
-      ],
-      "duration_ms": 150386,
-      "name": "Mambo en Sax",
-      "url": "https://open.spotify.com/track/1hLZBnAopiRfEvbj7aurzi"
-    },
-    {
-      "added_at": "2023-02-17 20:56:35",
-      "album": {
         "name": "Monna Bell. Sus Primeros EP's (1959-1961)",
         "url": "https://open.spotify.com/album/6bdKkTA2hfqQQ32fhkamO3"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 194093,
       "name": "Recordar\u00e9 tu amor (remastered)",
       "url": "https://open.spotify.com/track/5lBHAdOAalYZTMdF0TkBYK"
+    },
+    {
+      "added_at": "2023-02-17 20:56:35",
+      "album": {
+        "name": "The Best Of Perez Prado: The Original Mambo #5",
+        "url": "https://open.spotify.com/album/5tZ8FshywMxf1RdSTaZx5m"
+      },
+      "artists": [
+        {
+          "name": "P\u00e9rez Prado",
+          "url": "https://open.spotify.com/artist/1ZKhPkCXXgtiGgALn4OYtT"
+        }
+      ],
+      "duration_ms": 150386,
+      "name": "Mambo en Sax",
+      "url": "https://open.spotify.com/track/1hLZBnAopiRfEvbj7aurzi"
     },
     {
       "added_at": "2023-02-17 20:56:35",
@@ -755,8 +755,8 @@
     {
       "added_at": "2023-02-17 20:56:35",
       "album": {
-        "name": "Mexican Love Songs",
-        "url": "https://open.spotify.com/album/6RVVjKPl18XM1KR5Hf8ldV"
+        "name": "Canciones del Corazon",
+        "url": "https://open.spotify.com/album/0Ai4nrtCv5Z6jfOvGoyJ2u"
       },
       "artists": [
         {
@@ -764,9 +764,9 @@
           "url": "https://open.spotify.com/artist/3Ker27Wbb9OcUHGs54JIAz"
         }
       ],
-      "duration_ms": 161400,
-      "name": "Vaya Con Dios",
-      "url": "https://open.spotify.com/track/4qDzXNAvShqtZtG87bajiB"
+      "duration_ms": 173792,
+      "name": "Perf\u00eddia",
+      "url": "https://open.spotify.com/track/5H7EJcOSNNWjMjdHIxtdG0"
     },
     {
       "added_at": "2023-02-17 20:56:35",

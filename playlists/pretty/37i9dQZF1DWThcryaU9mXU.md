@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWThcryaU9mXU.md) - [plain]
 
 > When you want to be alone and the Blues is your soundtrack.
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,611 likes - 90 songs - 6 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,691 likes - 90 songs - 6 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,9 +80,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWThcryaU9mXU.md) - [plain]
 | 70 | [What Am I Living For](https://open.spotify.com/track/0TgKinC3YFchPPeNE8M8nd) | [Wilbert Harrison](https://open.spotify.com/artist/7rETVFaF9VOFPmmzsY3kO6) | [Peepin' And Hidin'](https://open.spotify.com/album/4H1Je07DZvE2WszZkW0FjV) | 3:43 |
 | 71 | [Low Down Dirty Blues](https://open.spotify.com/track/2zTH23AmvAQFnN2ZiBErqa) | [Peter Veteska & Blues Train](https://open.spotify.com/artist/4aI3hTRRcczyci5v6K1j3e) | [So Far so Good](https://open.spotify.com/album/3sKS5DkxTxgNEEOew4RTtp) | 3:53 |
 | 72 | [Brand New](https://open.spotify.com/track/5uMZAYwFl42JqJEesZ4aDP) | [Josh Smith](https://open.spotify.com/artist/1rPHe9YQyCdfmYjd1kOVkB) | [Brand New](https://open.spotify.com/album/480Y6aRXPJvW5gOroZwl0Q) | 6:59 |
-| 73 | [Get Your Lovin'](https://open.spotify.com/track/6HVcEz5ecvZWLLrN8ZTwil) | [Secret Formula Band](https://open.spotify.com/artist/1Inr5ZqHEMGQ4fhrK91QMs) | [Get Your Lovin'](https://open.spotify.com/album/1M2avBOjei5BLNbHxsaElR) | 3:23 |
-| 74 | [Love Is Gone](https://open.spotify.com/track/6mn9a2i93IcbCF9oY8eQPo) | [Deb Ryder](https://open.spotify.com/artist/6dc6gOm9RKiBTEpUGe1NZ3) | [Memphis Moonlight](https://open.spotify.com/album/590d9qiOtgIds5a3u8UHxP) | 4:48 |
-| 75 | [What do You Feel?](https://open.spotify.com/track/7sjjPWYA3Y5vGEIBDJ5QVE) | [Renato Genestra](https://open.spotify.com/artist/3FBOoPApjegYcmKgmULxs4) | [What do You Feel?](https://open.spotify.com/album/1qXLUwieqcu4HQ9NTVSBQm) | 5:34 |
+| 73 | [Love Is Gone](https://open.spotify.com/track/6mn9a2i93IcbCF9oY8eQPo) | [Deb Ryder](https://open.spotify.com/artist/6dc6gOm9RKiBTEpUGe1NZ3) | [Memphis Moonlight](https://open.spotify.com/album/590d9qiOtgIds5a3u8UHxP) | 4:48 |
+| 74 | [What do You Feel?](https://open.spotify.com/track/7sjjPWYA3Y5vGEIBDJ5QVE) | [Renato Genestra](https://open.spotify.com/artist/3FBOoPApjegYcmKgmULxs4) | [What do You Feel?](https://open.spotify.com/album/1qXLUwieqcu4HQ9NTVSBQm) | 5:34 |
+| 75 | [Get Your Lovin'](https://open.spotify.com/track/6HVcEz5ecvZWLLrN8ZTwil) | [Secret Formula Band](https://open.spotify.com/artist/1Inr5ZqHEMGQ4fhrK91QMs) | [Get Your Lovin'](https://open.spotify.com/album/1M2avBOjei5BLNbHxsaElR) | 3:23 |
 | 76 | [Hard Living Alone](https://open.spotify.com/track/0JwU0drRHEtI5H1lVJCDys) | [Floyd Dixon](https://open.spotify.com/artist/5UCUtfCh50agObTTt2ma1M) | [Marshall Texas Is My Home](https://open.spotify.com/album/0vKVTf2y0iDogf68a6ItHb) | 3:04 |
 | 77 | [Abandoned Child](https://open.spotify.com/track/6VWHKpqZE9Z14VReOqmy4C) | [Dani Wilde](https://open.spotify.com/artist/75Fysjl73jB4dHfN0Yb1iB) | [Shine](https://open.spotify.com/album/6uco735wn69n3ODYvdrd21) | 7:35 |
 | 78 | [End Of The World \(Dancing In The Dust\)](https://open.spotify.com/track/4IWEHdLO2GBkldUlfoOY0X) | [Sarah Rogo](https://open.spotify.com/artist/6iS4moKRkWko7okWLeqisy), [Haus Music](https://open.spotify.com/artist/1WAyC71q6r2ITPLcJnA2I6) | [End Of The World \(Dancing In The Dust\)](https://open.spotify.com/album/3CgUUmrSEBweiFkZ8pXGOJ) | 3:27 |
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWThcryaU9mXU.md) - [plain]
 | 89 | [Someone Broke This Heart Of Mine](https://open.spotify.com/track/1TX9nidaWJmR3KyHxrSz8h) | [Little Junior Parker](https://open.spotify.com/artist/5AZroUSVLr1sdkgCAfv1kM) | [Driving Wheel](https://open.spotify.com/album/5RqYLf8ScgXBcrNRWoyQrP) | 2:14 |
 | 90 | [Unfair Lovers](https://open.spotify.com/track/7urvDrLLJGxRCjHrvpfyW4) | [Eddie Boyd](https://open.spotify.com/artist/6tlPbmYME3fjRkSBb3pjoB) | [Rare Oldies Jazz: Eddy Boyd](https://open.spotify.com/album/0PfYDFGbbrD8DyPys7g9U6) | 3:03 |
 
-Snapshot ID: `MCwxZWUzZDdlNzllNTcwYjdhNmZjZDI3OWY4YTY3MTJjNmZhNmE5ZDRh`
+Snapshot ID: `MCw0MWU4MDFmMjM0NDJlMmE4OTk0MmYyNzM5Zjk5ZjQ5YWRhZjQwYTFm`

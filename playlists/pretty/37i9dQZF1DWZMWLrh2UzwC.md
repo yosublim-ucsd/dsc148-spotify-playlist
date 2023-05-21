@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 
 > The best newly released songs of the week\. Cover: Lewis Capaldi
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,144 likes - 88 songs - 4 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,145 likes - 88 songs - 4 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -97,4 +97,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 | 87 | [After Life](https://open.spotify.com/track/5NUQxIxeF3IaGs0pSAr4BX) | [Hogland](https://open.spotify.com/artist/5s21IKPvmxRf9WxpO8H5UB) | [After Life](https://open.spotify.com/album/23QzaumSYnM0qrYqMGLZRH) | 3:01 |
 | 88 | [U](https://open.spotify.com/track/6jd86GtblW9yzuw7uWklSn) | [Willim](https://open.spotify.com/artist/5bp5XaFz8Py4UFEhQ6FZRk), [Jonasu](https://open.spotify.com/artist/7u4ayw4QFEsolPxZgnPAMT) | [U](https://open.spotify.com/album/3OktXGR56FG3OipinKTuJa) | 2:53 |
 
-Snapshot ID: `MCwwMDA0ZTE0ZDBlMWYwMzVkNDJmYjQ0NTE1MjAzN2NjZGZkZTYxN2Zh`
+Snapshot ID: `MCwxZDcxNjA5ODdiMDgzOTFlOTQxZDNmYzdjZDNiYmE0MDVmZWFjMjll`

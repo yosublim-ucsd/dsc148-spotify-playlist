@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ww9tisjowN.md) - [plain]
 
 > What pops out!? Roll the gacha and find your Neo J\-Pop treasure\. Cover: Ado
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,463 likes - 75 songs - 4 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 44,301 likes - 75 songs - 4 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ww9tisjowN.md) - [plain]
 | 74 | [Setsunano Chikai](https://open.spotify.com/track/1YKBiydKeMfqHXwDECHLU6) | [Neko Hacker](https://open.spotify.com/artist/2aQ9IoRPwXEhhBVj4wbS46), [由崎司](https://open.spotify.com/artist/57nGnwFiNGNY5t77bVWWw2) | [Setsunano Chikai](https://open.spotify.com/album/5RxLQesE8xz3LsCwyrLIDn) | 3:40 |
 | 75 | [BET ME!](https://open.spotify.com/track/2lTgXM87jM6tKStCwJxKKI) | [valknee](https://open.spotify.com/artist/5XOjyFVFORvz5wwievXJNn) | [BET ME!](https://open.spotify.com/album/4oF8qfwMpxoNbyY3CWJ5Ox) | 2:33 |
 
-Snapshot ID: `MCxiYWYxZmM1NzliNmE3YjlhMzQ0NjIwMzFhYzA2ZjFmYjhhYjJiOGFl`
+Snapshot ID: `MCxjN2NjOTJmMDY5NGYzN2QxMDM3ZjQ2YTkxMDc5ZGU5NmM5MmQ2ZWM3`

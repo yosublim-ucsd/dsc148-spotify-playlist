@@ -1,12 +1,12 @@
 {
   "description": "Moody electronica for the night time hours",
-  "num_followers": 104136,
+  "num_followers": 104144,
   "original_name": "Night Shift",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5ZjVhNGZmNGM4Mjc1MjQ4Y2UwOTY2ZDQyNDIzMGVmNGQ5OTBhNWVl",
+  "snapshot_id": "MCw5MWJmZWM5MTIzYWM5OTdjZDVkYTNhNjYzMDEzYjhiYWE5OWY0YmVm",
   "tracks": [
     {
       "added_at": "2023-05-05 02:04:51",
@@ -487,6 +487,26 @@
     {
       "added_at": "2023-05-05 02:04:51",
       "album": {
+        "name": "Is It Me",
+        "url": "https://open.spotify.com/album/2gOyFVfaBrD3C3mHgKUl7E"
+      },
+      "artists": [
+        {
+          "name": "Achingdrum",
+          "url": "https://open.spotify.com/artist/7JYSNyL7lYRsQHAfxQkIie"
+        },
+        {
+          "name": "Tim Shiel",
+          "url": "https://open.spotify.com/artist/4s4HQb53CQx8x9GlWJ5Ocy"
+        }
+      ],
+      "duration_ms": 256000,
+      "name": "Is It Me",
+      "url": "https://open.spotify.com/track/16mtgdA4xzXkDewenuZ45D"
+    },
+    {
+      "added_at": "2023-05-05 02:04:51",
+      "album": {
         "name": "Revelation (Barry Can't Swim Remix)",
         "url": "https://open.spotify.com/album/3VUcoDNEPn4JneLFXXltLZ"
       },
@@ -511,26 +531,6 @@
     {
       "added_at": "2023-05-05 02:04:51",
       "album": {
-        "name": "Is It Me",
-        "url": "https://open.spotify.com/album/2gOyFVfaBrD3C3mHgKUl7E"
-      },
-      "artists": [
-        {
-          "name": "Achingdrum",
-          "url": "https://open.spotify.com/artist/7JYSNyL7lYRsQHAfxQkIie"
-        },
-        {
-          "name": "Tim Shiel",
-          "url": "https://open.spotify.com/artist/4s4HQb53CQx8x9GlWJ5Ocy"
-        }
-      ],
-      "duration_ms": 256000,
-      "name": "Is It Me",
-      "url": "https://open.spotify.com/track/16mtgdA4xzXkDewenuZ45D"
-    },
-    {
-      "added_at": "2023-05-05 02:04:51",
-      "album": {
         "name": "Caring EP",
         "url": "https://open.spotify.com/album/3pIUvgrnnoHYdTv0pts9wX"
       },
@@ -547,22 +547,6 @@
     {
       "added_at": "2023-05-05 02:04:51",
       "album": {
-        "name": "Bleu",
-        "url": "https://open.spotify.com/album/0qGyomhK27BOrhRBAKPTid"
-      },
-      "artists": [
-        {
-          "name": "Holo",
-          "url": "https://open.spotify.com/artist/5PrWAhH8BO28ieKNfYYFEX"
-        }
-      ],
-      "duration_ms": 228198,
-      "name": "Bleu - Radio Edit",
-      "url": "https://open.spotify.com/track/0QHxFlyTbpfcvC0qf4DKWS"
-    },
-    {
-      "added_at": "2023-05-05 02:04:51",
-      "album": {
         "name": "meserole",
         "url": "https://open.spotify.com/album/6IAjQJTXRLi7MdiE1KptlD"
       },
@@ -575,6 +559,22 @@
       "duration_ms": 213760,
       "name": "meserole",
       "url": "https://open.spotify.com/track/0ZknBLwUkWexmyNLAukYpE"
+    },
+    {
+      "added_at": "2023-05-05 02:04:51",
+      "album": {
+        "name": "Bleu",
+        "url": "https://open.spotify.com/album/0qGyomhK27BOrhRBAKPTid"
+      },
+      "artists": [
+        {
+          "name": "Holo",
+          "url": "https://open.spotify.com/artist/5PrWAhH8BO28ieKNfYYFEX"
+        }
+      ],
+      "duration_ms": 228198,
+      "name": "Bleu - Radio Edit",
+      "url": "https://open.spotify.com/track/0QHxFlyTbpfcvC0qf4DKWS"
     },
     {
       "added_at": "2023-05-05 02:04:51",
@@ -715,22 +715,6 @@
     {
       "added_at": "2023-05-05 02:04:51",
       "album": {
-        "name": "Leave Here",
-        "url": "https://open.spotify.com/album/4kwlyY10z4cSiF6jmyngt9"
-      },
-      "artists": [
-        {
-          "name": "Jacques Greene",
-          "url": "https://open.spotify.com/artist/0ygIgsjUzKivFgxgjQ9iV9"
-        }
-      ],
-      "duration_ms": 297585,
-      "name": "Leave Here",
-      "url": "https://open.spotify.com/track/3JKn7wZYSwOGriPALOQPBT"
-    },
-    {
-      "added_at": "2023-05-05 02:04:51",
-      "album": {
         "name": "Floating",
         "url": "https://open.spotify.com/album/5ZDfdoj6YtnOhPGwPKTTr8"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 349000,
       "name": "Floating",
       "url": "https://open.spotify.com/track/0sfY8uUKQxPqnK8sqvvKO2"
+    },
+    {
+      "added_at": "2023-05-05 02:04:51",
+      "album": {
+        "name": "Leave Here",
+        "url": "https://open.spotify.com/album/4kwlyY10z4cSiF6jmyngt9"
+      },
+      "artists": [
+        {
+          "name": "Jacques Greene",
+          "url": "https://open.spotify.com/artist/0ygIgsjUzKivFgxgjQ9iV9"
+        }
+      ],
+      "duration_ms": 297585,
+      "name": "Leave Here",
+      "url": "https://open.spotify.com/track/3JKn7wZYSwOGriPALOQPBT"
     },
     {
       "added_at": "2023-05-05 02:04:51",
@@ -947,6 +947,22 @@
     {
       "added_at": "2023-05-05 02:04:51",
       "album": {
+        "name": "Change Your Mind",
+        "url": "https://open.spotify.com/album/2QV91V7AsQLDSKbcjSFYpG"
+      },
+      "artists": [
+        {
+          "name": "Jasper Tygner",
+          "url": "https://open.spotify.com/artist/2D7akgJBXcsp8Y2FKdPJCh"
+        }
+      ],
+      "duration_ms": 317178,
+      "name": "Change Your Mind",
+      "url": "https://open.spotify.com/track/6KOngf9VGk1Q6oQgfuryQU"
+    },
+    {
+      "added_at": "2023-05-05 02:04:51",
+      "album": {
         "name": "Afterglow",
         "url": "https://open.spotify.com/album/3VLtsXibcVJSiiHbSu3DYY"
       },
@@ -963,22 +979,6 @@
       "duration_ms": 266853,
       "name": "Afterglow",
       "url": "https://open.spotify.com/track/1NhtY0fQV9pna3FW6YH6PK"
-    },
-    {
-      "added_at": "2023-05-05 02:04:51",
-      "album": {
-        "name": "Change Your Mind",
-        "url": "https://open.spotify.com/album/2QV91V7AsQLDSKbcjSFYpG"
-      },
-      "artists": [
-        {
-          "name": "Jasper Tygner",
-          "url": "https://open.spotify.com/artist/2D7akgJBXcsp8Y2FKdPJCh"
-        }
-      ],
-      "duration_ms": 317178,
-      "name": "Change Your Mind",
-      "url": "https://open.spotify.com/track/6KOngf9VGk1Q6oQgfuryQU"
     },
     {
       "added_at": "2023-05-05 02:04:51",

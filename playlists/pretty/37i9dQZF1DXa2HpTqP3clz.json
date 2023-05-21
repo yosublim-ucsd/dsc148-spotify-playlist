@@ -1,12 +1,12 @@
 {
   "description": "Today's Bluegrass and old time favorites Cover: Alison Brown",
-  "num_followers": 121404,
+  "num_followers": 121433,
   "original_name": "Grass Roots",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3ODFiMTQ0NDI4ZWMxNWJkNjM4NmZjZjI4MzA0NmViZjQ1NDM5MzUw",
+  "snapshot_id": "MCw2NTIwM2VhMjY2OThiMGFmMzhiYTI5NDYxYWFkMmNjNzAwMTU0MWQz",
   "tracks": [
     {
       "added_at": "2023-05-15 07:00:00",
@@ -551,22 +551,6 @@
     {
       "added_at": "2023-05-15 07:00:00",
       "album": {
-        "name": "Easy Listening for Jerks, Pt. 1",
-        "url": "https://open.spotify.com/album/5fYToYotblVTIH2SaJENBW"
-      },
-      "artists": [
-        {
-          "name": "The Dead South",
-          "url": "https://open.spotify.com/artist/3HR1xtIsUefdFnkI1XHgeA"
-        }
-      ],
-      "duration_ms": 235516,
-      "name": "Will the Circle Be Unbroken",
-      "url": "https://open.spotify.com/track/6dpOwvczXipOQ0daK57JKW"
-    },
-    {
-      "added_at": "2023-05-15 07:00:00",
-      "album": {
         "name": "How the Mighty Fall",
         "url": "https://open.spotify.com/album/0xSyaaBZ3hrYf8rROAs125"
       },
@@ -579,6 +563,22 @@
       "duration_ms": 258683,
       "name": "Lyin' Low",
       "url": "https://open.spotify.com/track/3g8UrwhapPBLVUU6WX6MH0"
+    },
+    {
+      "added_at": "2023-05-15 07:00:00",
+      "album": {
+        "name": "Easy Listening for Jerks, Pt. 1",
+        "url": "https://open.spotify.com/album/5fYToYotblVTIH2SaJENBW"
+      },
+      "artists": [
+        {
+          "name": "The Dead South",
+          "url": "https://open.spotify.com/artist/3HR1xtIsUefdFnkI1XHgeA"
+        }
+      ],
+      "duration_ms": 235516,
+      "name": "Will the Circle Be Unbroken",
+      "url": "https://open.spotify.com/track/6dpOwvczXipOQ0daK57JKW"
     },
     {
       "added_at": "2023-05-15 07:00:00",
@@ -615,22 +615,6 @@
     {
       "added_at": "2023-05-15 07:00:00",
       "album": {
-        "name": "Hell on Church Street",
-        "url": "https://open.spotify.com/album/5XptR8Eatr8J2KlcO7heEA"
-      },
-      "artists": [
-        {
-          "name": "Punch Brothers",
-          "url": "https://open.spotify.com/artist/4gFssfOmWNY3LfIZ3zyoy4"
-        }
-      ],
-      "duration_ms": 153327,
-      "name": "Church Street Blues",
-      "url": "https://open.spotify.com/track/7az05FAMuX2E4vWo3gQoPS"
-    },
-    {
-      "added_at": "2023-05-15 07:00:00",
-      "album": {
         "name": "Arm in Arm",
         "url": "https://open.spotify.com/album/3sCoWuRHi9W0NwFpPMymlR"
       },
@@ -643,6 +627,22 @@
       "duration_ms": 203346,
       "name": "Honey on My Tongue",
       "url": "https://open.spotify.com/track/00o39BbfnwhIZIhfsAGCBH"
+    },
+    {
+      "added_at": "2023-05-15 07:00:00",
+      "album": {
+        "name": "Hell on Church Street",
+        "url": "https://open.spotify.com/album/5XptR8Eatr8J2KlcO7heEA"
+      },
+      "artists": [
+        {
+          "name": "Punch Brothers",
+          "url": "https://open.spotify.com/artist/4gFssfOmWNY3LfIZ3zyoy4"
+        }
+      ],
+      "duration_ms": 153327,
+      "name": "Church Street Blues",
+      "url": "https://open.spotify.com/track/7az05FAMuX2E4vWo3gQoPS"
     },
     {
       "added_at": "2023-05-15 07:00:00",
@@ -703,6 +703,22 @@
     {
       "added_at": "2023-05-15 07:00:00",
       "album": {
+        "name": "Stress Dreams",
+        "url": "https://open.spotify.com/album/4HXsy1mTLLXvWDmryhoFeW"
+      },
+      "artists": [
+        {
+          "name": "Greensky Bluegrass",
+          "url": "https://open.spotify.com/artist/33bzrYoIWLx5uox3y0VtHn"
+        }
+      ],
+      "duration_ms": 420123,
+      "name": "Grow Together",
+      "url": "https://open.spotify.com/track/1obfAgnYJiqcqDjTv7ZYaM"
+    },
+    {
+      "added_at": "2023-05-15 07:00:00",
+      "album": {
         "name": "Thick As Thieves",
         "url": "https://open.spotify.com/album/1qL2Jl8sA1lIonNvTb6xAu"
       },
@@ -719,18 +735,18 @@
     {
       "added_at": "2023-05-15 07:00:00",
       "album": {
-        "name": "Stress Dreams",
-        "url": "https://open.spotify.com/album/4HXsy1mTLLXvWDmryhoFeW"
+        "name": "Tides of a Teardrop",
+        "url": "https://open.spotify.com/album/2SWy4Nbpw77DzLkwXba7Hk"
       },
       "artists": [
         {
-          "name": "Greensky Bluegrass",
-          "url": "https://open.spotify.com/artist/33bzrYoIWLx5uox3y0VtHn"
+          "name": "Watchhouse",
+          "url": "https://open.spotify.com/artist/675tsBPpaZtqyiBwEf3ZEP"
         }
       ],
-      "duration_ms": 420123,
-      "name": "Grow Together",
-      "url": "https://open.spotify.com/track/1obfAgnYJiqcqDjTv7ZYaM"
+      "duration_ms": 295773,
+      "name": "Time We Made Time",
+      "url": "https://open.spotify.com/track/24HWipFuiz7vilAlQuoCaE"
     },
     {
       "added_at": "2023-05-15 07:00:00",
@@ -751,22 +767,6 @@
       "duration_ms": 153106,
       "name": "On The Water",
       "url": "https://open.spotify.com/track/6sVBfdmhr8SrqUJDynPZKQ"
-    },
-    {
-      "added_at": "2023-05-15 07:00:00",
-      "album": {
-        "name": "Tides of a Teardrop",
-        "url": "https://open.spotify.com/album/2SWy4Nbpw77DzLkwXba7Hk"
-      },
-      "artists": [
-        {
-          "name": "Watchhouse",
-          "url": "https://open.spotify.com/artist/675tsBPpaZtqyiBwEf3ZEP"
-        }
-      ],
-      "duration_ms": 295773,
-      "name": "Time We Made Time",
-      "url": "https://open.spotify.com/track/24HWipFuiz7vilAlQuoCaE"
     },
     {
       "added_at": "2023-05-15 07:00:00",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2023-05-15 07:00:00",
       "album": {
-        "name": "In The Ground",
-        "url": "https://open.spotify.com/album/1j4gD0XEw3vXiGvdTFDcde"
-      },
-      "artists": [
-        {
-          "name": "Gibson Brothers",
-          "url": "https://open.spotify.com/artist/5a1u9fulLhPXwEWkrxmzEV"
-        }
-      ],
-      "duration_ms": 191906,
-      "name": "Homemade Wine",
-      "url": "https://open.spotify.com/track/7BNlfq5BJooDMsBFRBfyv7"
-    },
-    {
-      "added_at": "2023-05-15 07:00:00",
-      "album": {
         "name": "Sun and Water (Here Comes the Sun/Waters of March)",
         "url": "https://open.spotify.com/album/7DLOyhTDSOM0hkocckdZjh"
       },
@@ -1055,18 +1039,18 @@
     {
       "added_at": "2023-05-15 07:00:00",
       "album": {
-        "name": "Well",
-        "url": "https://open.spotify.com/album/18AaA4QngXSeE4wqm162fS"
+        "name": "In The Ground",
+        "url": "https://open.spotify.com/album/1j4gD0XEw3vXiGvdTFDcde"
       },
       "artists": [
         {
-          "name": "Sister Sadie",
-          "url": "https://open.spotify.com/artist/0rWSUQEtdCxT9Y1Hd0eGl8"
+          "name": "Gibson Brothers",
+          "url": "https://open.spotify.com/artist/5a1u9fulLhPXwEWkrxmzEV"
         }
       ],
-      "duration_ms": 176000,
-      "name": "Well",
-      "url": "https://open.spotify.com/track/3YDobspkgUUmmJ6UCNTWyX"
+      "duration_ms": 191906,
+      "name": "Homemade Wine",
+      "url": "https://open.spotify.com/track/7BNlfq5BJooDMsBFRBfyv7"
     },
     {
       "added_at": "2023-05-15 07:00:00",
@@ -1083,6 +1067,22 @@
       "duration_ms": 162473,
       "name": "Lonesome Old River Blues",
       "url": "https://open.spotify.com/track/64pmv1IacCuTcea9rTELcc"
+    },
+    {
+      "added_at": "2023-05-15 07:00:00",
+      "album": {
+        "name": "Well",
+        "url": "https://open.spotify.com/album/18AaA4QngXSeE4wqm162fS"
+      },
+      "artists": [
+        {
+          "name": "Sister Sadie",
+          "url": "https://open.spotify.com/artist/0rWSUQEtdCxT9Y1Hd0eGl8"
+        }
+      ],
+      "duration_ms": 176000,
+      "name": "Well",
+      "url": "https://open.spotify.com/track/3YDobspkgUUmmJ6UCNTWyX"
     },
     {
       "added_at": "2023-05-15 07:00:00",
@@ -1127,38 +1127,6 @@
     {
       "added_at": "2023-05-15 07:00:00",
       "album": {
-        "name": "Down the Road",
-        "url": "https://open.spotify.com/album/7I7tkdXpA6qOyCPSg84PF8"
-      },
-      "artists": [
-        {
-          "name": "The Infamous Stringdusters",
-          "url": "https://open.spotify.com/artist/7yTltkMBvChBkA86Tz8WfW"
-        }
-      ],
-      "duration_ms": 195573,
-      "name": "Down the Road",
-      "url": "https://open.spotify.com/track/69w7WdVGJKtGmen9f1nuzp"
-    },
-    {
-      "added_at": "2023-05-15 07:00:00",
-      "album": {
-        "name": "Roller Coaster",
-        "url": "https://open.spotify.com/album/2t78M1HYDWaiBqU7bzrgeg"
-      },
-      "artists": [
-        {
-          "name": "Billy Gilman",
-          "url": "https://open.spotify.com/artist/6OqQbeNe7Pi7Zi7SNTi9ko"
-        }
-      ],
-      "duration_ms": 181573,
-      "name": "Roller Coaster",
-      "url": "https://open.spotify.com/track/1HtXFOJnsyKNIsFnk2MySA"
-    },
-    {
-      "added_at": "2023-05-15 07:00:00",
-      "album": {
         "name": "Message From Heaven",
         "url": "https://open.spotify.com/album/7eui7uH5V3HbAp0JLdHMTf"
       },
@@ -1175,6 +1143,22 @@
       "duration_ms": 224800,
       "name": "Message From Heaven",
       "url": "https://open.spotify.com/track/5T2x4bRxNJJ7DxZVccf0WK"
+    },
+    {
+      "added_at": "2023-05-15 07:00:00",
+      "album": {
+        "name": "Roller Coaster",
+        "url": "https://open.spotify.com/album/2t78M1HYDWaiBqU7bzrgeg"
+      },
+      "artists": [
+        {
+          "name": "Billy Gilman",
+          "url": "https://open.spotify.com/artist/6OqQbeNe7Pi7Zi7SNTi9ko"
+        }
+      ],
+      "duration_ms": 181573,
+      "name": "Roller Coaster",
+      "url": "https://open.spotify.com/track/1HtXFOJnsyKNIsFnk2MySA"
     },
     {
       "added_at": "2023-05-15 07:00:00",
@@ -1199,18 +1183,18 @@
     {
       "added_at": "2023-05-15 07:00:00",
       "album": {
-        "name": "Wildflowers",
-        "url": "https://open.spotify.com/album/30Gt314KlreEWOf5HG8MnX"
+        "name": "Down the Road",
+        "url": "https://open.spotify.com/album/7I7tkdXpA6qOyCPSg84PF8"
       },
       "artists": [
         {
-          "name": "Mikele Buck Band",
-          "url": "https://open.spotify.com/artist/3kiJtUXIOKuZ8qz44zEHeN"
+          "name": "The Infamous Stringdusters",
+          "url": "https://open.spotify.com/artist/7yTltkMBvChBkA86Tz8WfW"
         }
       ],
-      "duration_ms": 223404,
-      "name": "Wildflowers",
-      "url": "https://open.spotify.com/track/4aBIM2sFhNQX1viAcP1JQr"
+      "duration_ms": 195573,
+      "name": "Down the Road",
+      "url": "https://open.spotify.com/track/69w7WdVGJKtGmen9f1nuzp"
     },
     {
       "added_at": "2023-05-15 07:00:00",
@@ -1227,6 +1211,22 @@
       "duration_ms": 246853,
       "name": "The More I Learn",
       "url": "https://open.spotify.com/track/6TWeSDCjEn8xDA9OTaHcsL"
+    },
+    {
+      "added_at": "2023-05-15 07:00:00",
+      "album": {
+        "name": "Wildflowers",
+        "url": "https://open.spotify.com/album/30Gt314KlreEWOf5HG8MnX"
+      },
+      "artists": [
+        {
+          "name": "Mikele Buck Band",
+          "url": "https://open.spotify.com/artist/3kiJtUXIOKuZ8qz44zEHeN"
+        }
+      ],
+      "duration_ms": 223404,
+      "name": "Wildflowers",
+      "url": "https://open.spotify.com/track/4aBIM2sFhNQX1viAcP1JQr"
     },
     {
       "added_at": "2023-05-15 07:00:00",
@@ -1447,6 +1447,22 @@
     {
       "added_at": "2023-05-15 07:00:00",
       "album": {
+        "name": "Tall Tales & Fables",
+        "url": "https://open.spotify.com/album/60AAkUiEswAU6mxJy4YlBr"
+      },
+      "artists": [
+        {
+          "name": "Haunted Like Human",
+          "url": "https://open.spotify.com/artist/2y7Fos4NcrCLzEuf0BC2UI"
+        }
+      ],
+      "duration_ms": 177414,
+      "name": "Ohio",
+      "url": "https://open.spotify.com/track/1ZhO5DrMflZS3gD8ihnnmu"
+    },
+    {
+      "added_at": "2023-05-15 07:00:00",
+      "album": {
         "name": "All The Lilacs In Ohio",
         "url": "https://open.spotify.com/album/0RoKgyjnIzu1FC2aneG3Au"
       },
@@ -1467,22 +1483,6 @@
     {
       "added_at": "2023-05-15 07:00:00",
       "album": {
-        "name": "Tall Tales & Fables",
-        "url": "https://open.spotify.com/album/60AAkUiEswAU6mxJy4YlBr"
-      },
-      "artists": [
-        {
-          "name": "Haunted Like Human",
-          "url": "https://open.spotify.com/artist/2y7Fos4NcrCLzEuf0BC2UI"
-        }
-      ],
-      "duration_ms": 177414,
-      "name": "Ohio",
-      "url": "https://open.spotify.com/track/1ZhO5DrMflZS3gD8ihnnmu"
-    },
-    {
-      "added_at": "2023-05-15 07:00:00",
-      "album": {
         "name": "City on a Hill",
         "url": "https://open.spotify.com/album/3sK98anKCbdIVuOaHbMmy1"
       },
@@ -1495,26 +1495,6 @@
       "duration_ms": 212480,
       "name": "City That Drowned",
       "url": "https://open.spotify.com/track/3kawMkt6ox3rlyl1DhV4ey"
-    },
-    {
-      "added_at": "2023-05-15 07:00:00",
-      "album": {
-        "name": "Ladies & Gentlemen",
-        "url": "https://open.spotify.com/album/1LHTfbFx2cCjgkDKVx7BIm"
-      },
-      "artists": [
-        {
-          "name": "The Infamous Stringdusters",
-          "url": "https://open.spotify.com/artist/7yTltkMBvChBkA86Tz8WfW"
-        },
-        {
-          "name": "Aoife O'Donovan",
-          "url": "https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa"
-        }
-      ],
-      "duration_ms": 190634,
-      "name": "Run To Heaven",
-      "url": "https://open.spotify.com/track/4l0US6aOMAODTa7kauy7df"
     },
     {
       "added_at": "2023-05-15 07:00:00",
@@ -1535,18 +1515,22 @@
     {
       "added_at": "2023-05-15 07:00:00",
       "album": {
-        "name": "Dillsboro Blues",
-        "url": "https://open.spotify.com/album/16OAkIBQZ3vmGFMk1bBlJD"
+        "name": "Ladies & Gentlemen",
+        "url": "https://open.spotify.com/album/1LHTfbFx2cCjgkDKVx7BIm"
       },
       "artists": [
         {
-          "name": "Darren Nicholson",
-          "url": "https://open.spotify.com/artist/70O2FAS1z732CogF3N6W8f"
+          "name": "The Infamous Stringdusters",
+          "url": "https://open.spotify.com/artist/7yTltkMBvChBkA86Tz8WfW"
+        },
+        {
+          "name": "Aoife O'Donovan",
+          "url": "https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa"
         }
       ],
-      "duration_ms": 245000,
-      "name": "Dillsboro Blues",
-      "url": "https://open.spotify.com/track/0CPcEVBK0mN7o7cvxLrCrZ"
+      "duration_ms": 190634,
+      "name": "Run To Heaven",
+      "url": "https://open.spotify.com/track/4l0US6aOMAODTa7kauy7df"
     },
     {
       "added_at": "2023-05-15 07:00:00",
@@ -1583,6 +1567,22 @@
     {
       "added_at": "2023-05-15 07:00:00",
       "album": {
+        "name": "Dillsboro Blues",
+        "url": "https://open.spotify.com/album/16OAkIBQZ3vmGFMk1bBlJD"
+      },
+      "artists": [
+        {
+          "name": "Darren Nicholson",
+          "url": "https://open.spotify.com/artist/70O2FAS1z732CogF3N6W8f"
+        }
+      ],
+      "duration_ms": 245000,
+      "name": "Dillsboro Blues",
+      "url": "https://open.spotify.com/track/0CPcEVBK0mN7o7cvxLrCrZ"
+    },
+    {
+      "added_at": "2023-05-15 07:00:00",
+      "album": {
         "name": "Fall Like Rain",
         "url": "https://open.spotify.com/album/6j7KG1Gm2lK1EC3ppwcLcY"
       },
@@ -1595,6 +1595,22 @@
       "duration_ms": 262640,
       "name": "Fall Like Rain",
       "url": "https://open.spotify.com/track/3CbfrDVrNsfQ04RhDjHKvX"
+    },
+    {
+      "added_at": "2023-05-15 07:00:00",
+      "album": {
+        "name": "Rise Sun",
+        "url": "https://open.spotify.com/album/3jFG5srnWyHmefKlXU3hZS"
+      },
+      "artists": [
+        {
+          "name": "The Infamous Stringdusters",
+          "url": "https://open.spotify.com/artist/7yTltkMBvChBkA86Tz8WfW"
+        }
+      ],
+      "duration_ms": 348849,
+      "name": "Planets",
+      "url": "https://open.spotify.com/track/0kTv9skMMRnFZQY1Mat5p9"
     },
     {
       "added_at": "2023-05-15 07:00:00",
@@ -1647,22 +1663,6 @@
     {
       "added_at": "2023-05-15 07:00:00",
       "album": {
-        "name": "Rise Sun",
-        "url": "https://open.spotify.com/album/3jFG5srnWyHmefKlXU3hZS"
-      },
-      "artists": [
-        {
-          "name": "The Infamous Stringdusters",
-          "url": "https://open.spotify.com/artist/7yTltkMBvChBkA86Tz8WfW"
-        }
-      ],
-      "duration_ms": 348849,
-      "name": "Planets",
-      "url": "https://open.spotify.com/track/0kTv9skMMRnFZQY1Mat5p9"
-    },
-    {
-      "added_at": "2023-05-15 07:00:00",
-      "album": {
         "name": "Live Sessions, Vol. 03",
         "url": "https://open.spotify.com/album/3xaNzOGv8AH75st4le0u2i"
       },
@@ -1679,34 +1679,18 @@
     {
       "added_at": "2023-05-15 07:00:00",
       "album": {
-        "name": "What the Years Do",
-        "url": "https://open.spotify.com/album/3XU0wy0OBrqc3ewwtV1K5T"
+        "name": "The Light We Bring",
+        "url": "https://open.spotify.com/album/4kXe7lBb8ppsa1DOjc7XaP"
       },
       "artists": [
         {
-          "name": "Balsam Range",
-          "url": "https://open.spotify.com/artist/18iUQdDfdsusFp9Qtt2NPU"
+          "name": "Trout Steak Revival",
+          "url": "https://open.spotify.com/artist/7gf4unCQOlGg7UD38XzqPd"
         }
       ],
-      "duration_ms": 200000,
-      "name": "What the Years Do",
-      "url": "https://open.spotify.com/track/460M2nfu0pI3JpGfT3CWdB"
-    },
-    {
-      "added_at": "2023-05-15 07:00:00",
-      "album": {
-        "name": "Red Rover",
-        "url": "https://open.spotify.com/album/32LXjaeenISmZ6jApB2pWo"
-      },
-      "artists": [
-        {
-          "name": "Audie Blaylock And Redline",
-          "url": "https://open.spotify.com/artist/5xoZDpcQBBLYi0w6Ws1trQ"
-        }
-      ],
-      "duration_ms": 239386,
-      "name": "Red Rover",
-      "url": "https://open.spotify.com/track/3hq3IOrCMcAmLV4CeaC8tp"
+      "duration_ms": 207319,
+      "name": "The Heart Wants",
+      "url": "https://open.spotify.com/track/6Cta5wxn6czqEtNu6kwg2t"
     },
     {
       "added_at": "2023-05-15 07:00:00",
@@ -1739,18 +1723,34 @@
     {
       "added_at": "2023-05-15 07:00:00",
       "album": {
-        "name": "The Light We Bring",
-        "url": "https://open.spotify.com/album/4kXe7lBb8ppsa1DOjc7XaP"
+        "name": "What the Years Do",
+        "url": "https://open.spotify.com/album/3XU0wy0OBrqc3ewwtV1K5T"
       },
       "artists": [
         {
-          "name": "Trout Steak Revival",
-          "url": "https://open.spotify.com/artist/7gf4unCQOlGg7UD38XzqPd"
+          "name": "Balsam Range",
+          "url": "https://open.spotify.com/artist/18iUQdDfdsusFp9Qtt2NPU"
         }
       ],
-      "duration_ms": 207319,
-      "name": "The Heart Wants",
-      "url": "https://open.spotify.com/track/6Cta5wxn6czqEtNu6kwg2t"
+      "duration_ms": 200000,
+      "name": "What the Years Do",
+      "url": "https://open.spotify.com/track/460M2nfu0pI3JpGfT3CWdB"
+    },
+    {
+      "added_at": "2023-05-15 07:00:00",
+      "album": {
+        "name": "Red Rover",
+        "url": "https://open.spotify.com/album/32LXjaeenISmZ6jApB2pWo"
+      },
+      "artists": [
+        {
+          "name": "Audie Blaylock And Redline",
+          "url": "https://open.spotify.com/artist/5xoZDpcQBBLYi0w6Ws1trQ"
+        }
+      ],
+      "duration_ms": 239386,
+      "name": "Red Rover",
+      "url": "https://open.spotify.com/track/3hq3IOrCMcAmLV4CeaC8tp"
     },
     {
       "added_at": "2023-05-15 07:00:00",

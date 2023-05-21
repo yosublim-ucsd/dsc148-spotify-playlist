@@ -4,7 +4,7 @@
 
 > This is Joe Bonamassa\. The essential tracks, all in one playlist.
 
-106 songs - 9 hr 44 min
+107 songs - 9 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,6 +46,7 @@
 | [I Didn't Think She Would Do It](https://open.spotify.com/track/31IKRDeDYzxe0pgHJtN5Mj) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Royal Tea](https://open.spotify.com/album/1i8hO7RSXJ4FOumcLoDyN2) | 4:11 | 2022-09-02 | 2022-09-10 |
 | [I Got All You Need](https://open.spotify.com/track/6OX01r0SwFsy7KIwh7euHj) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Driving Towards The Daylight](https://open.spotify.com/album/5AjDtAXzFEQPbfZSAnIM5R) | 3:03 | 2023-05-09 |  |
 | [I Want My Crown](https://open.spotify.com/track/2in7I4NcwamHLIEMh4V8o5) | [Eric Gales](https://open.spotify.com/artist/3x8RBu8okCCBLi5vnY4UyV), [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Crown](https://open.spotify.com/album/0Ckul9E2gtpvm9RpXrp54i) | 4:19 | 2022-08-07 | 2023-05-13 |
+| [I Want To Shout About It](https://open.spotify.com/track/6MJzbRnxAbQ2Uke7e5vM2H) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [I Want To Shout About It](https://open.spotify.com/album/4msee0HokeDJun37ZYZLLl) | 4:12 | 2023-05-20 |  |
 | [I Won't Be Led Astray](https://open.spotify.com/track/4dhiXdTmpDy5gDaFElnUrv) | [Alan Parsons](https://open.spotify.com/artist/6HpZkC8GUktP9utE6OPWZG), [David Pack](https://open.spotify.com/artist/22iNiLtvlzsvUw9KDiROnl), [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ), [Mike Larson](https://open.spotify.com/artist/6mrMrYWO8ZfWiry8Obud1l) | [From the New World](https://open.spotify.com/album/0ySYs5Q9ATYf72SvoNGULZ) | 4:40 | 2022-10-12 | 2023-03-10 |
 | [I Won't Be Led Astray](https://open.spotify.com/track/5PE5rVMDDFCe9S3giYfcJQ) | [Alan Parsons](https://open.spotify.com/artist/6HpZkC8GUktP9utE6OPWZG), [David Pack](https://open.spotify.com/artist/22iNiLtvlzsvUw9KDiROnl), [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ), [Mike Larson](https://open.spotify.com/artist/6mrMrYWO8ZfWiry8Obud1l) | [I Won't Be Led Astray](https://open.spotify.com/album/6wlpQThofouAnLgKm0Uxv2) | 4:40 | 2022-08-05 | 2022-08-25 |
 | [I'd Rather Go Blind](https://open.spotify.com/track/0tcJCqyRnUu2gEmt9iLcTO) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ), [Beth Hart](https://open.spotify.com/artist/30TrHDLNCKQVTYWOn9QqOC) | [Don't Explain](https://open.spotify.com/album/01wNKNEpY0svUkPYOlKmzs) | 8:06 | 2022-10-07 | 2022-10-29 |

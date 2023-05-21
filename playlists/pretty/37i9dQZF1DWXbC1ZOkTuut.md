@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXbC1ZOkTuut.md) - [plain]
 
 > Descubre los nuevos álbumes de Música Mexicana del 2023\. Hit shuffle for a mixed listening experience\. Cover: Carin Leon
 
-[Spotify](https://open.spotify.com/user/spotify) - 7 likes - 111 songs - 5 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 24 likes - 111 songs - 5 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -120,4 +120,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXbC1ZOkTuut.md) - [plain]
 | 110 | [Amor Especial](https://open.spotify.com/track/4GO2JZ7bBUyijX395k2pl4) | [Pródigo Secreto](https://open.spotify.com/artist/7vtrVzMSgVdkTLLVk7UrDC) | [Recuerdos Del Pasado, Vol\. 2](https://open.spotify.com/album/3pMXlpXItYXJoEEdKWCAGm) | 4:20 |
 | 111 | [Ya No Me Llames](https://open.spotify.com/track/6GHSzctdhWmIay8QV2QAsQ) | [Pródigo Secreto](https://open.spotify.com/artist/7vtrVzMSgVdkTLLVk7UrDC) | [Recuerdos Del Pasado, Vol\. 2](https://open.spotify.com/album/3pMXlpXItYXJoEEdKWCAGm) | 3:21 |
 
-Snapshot ID: `MCwyNzlmNjU3OGQ2MDE3YTRiOWYzNWQ2YTIzZWY0ZjE2NDkyMTFlNWU0`
+Snapshot ID: `MCw5NTc0YzVmNjNjMGZkOGY4YjIyZDYwNTQ1YjI2NTRhZTVlN2E5MGVh`

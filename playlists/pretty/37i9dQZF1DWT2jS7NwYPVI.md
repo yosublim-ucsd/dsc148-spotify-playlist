@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2jS7NwYPVI.md) - [plain]
 
 > Your cheat sheet for everything on the rise in the rock/alt world\. Cover: Sir Chloe
 
-[Spotify](https://open.spotify.com/user/spotify) - 426,481 likes - 100 songs - 5 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 426,600 likes - 100 songs - 5 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,7 +48,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2jS7NwYPVI.md) - [plain]
 | 38 | [On The Way Down](https://open.spotify.com/track/4AL5dpsq6yJ7J57Ki9TFrt) | [Alex Lahey](https://open.spotify.com/artist/5kdYrM3h2sB1Eid5tDf6Hk) | [The Answer Is Always Yes](https://open.spotify.com/album/2GsledOrcsMKdanswVrWDp) | 3:35 |
 | 39 | [Who's Laughing Now](https://open.spotify.com/track/7MtcgU2tdfXxVfzDZt08c9) | [DURRY](https://open.spotify.com/artist/6zpptMjiapn5PB0Y5k3xWN) | [Who's Laughing Now](https://open.spotify.com/album/5t3uODZ1VSYMBoIVQLxQXJ) | 3:38 |
 | 40 | [One Of A Kind](https://open.spotify.com/track/3zdzN6ogzlBNRi55povcPt) | [Weathers](https://open.spotify.com/artist/4OTFxPi5CtWyj1NThDe6z5) | [Are We Having Fun?](https://open.spotify.com/album/1wgbdPdJF3G4EvsA289x5g) | 3:46 |
-| 41 | [I Can't Take It](https://open.spotify.com/track/2sXbIjNt3TiYbZi6Dn9ZNg) | [LYELL](https://open.spotify.com/artist/3aDih8lIm5GOfAaorpUg5Y), [Underoath](https://open.spotify.com/artist/3GzWhE2xadJiW8MqRKIVSK), [Aaron Gillespie](https://open.spotify.com/artist/5B2GfbXgossZt9SE08Iqn6) | [I Can't Take It](https://open.spotify.com/album/4KtBKPNEhb9m7sO2YKhblT) | 2:52 |
+| 41 | [I Can't Take It](https://open.spotify.com/track/2sXbIjNt3TiYbZi6Dn9ZNg) | [LYELL](https://open.spotify.com/artist/3aDih8lIm5GOfAaorpUg5Y), [Aaron Gillespie](https://open.spotify.com/artist/5B2GfbXgossZt9SE08Iqn6), [Underoath](https://open.spotify.com/artist/3GzWhE2xadJiW8MqRKIVSK) | [I Can't Take It](https://open.spotify.com/album/4KtBKPNEhb9m7sO2YKhblT) | 2:52 |
 | 42 | [Coma](https://open.spotify.com/track/0ztuxnri8ShWvmhZkZN9fA) | [Taylor Acorn](https://open.spotify.com/artist/1A0WloDoRE88uUwo3wensY) | [Coma](https://open.spotify.com/album/2sNqTVi6uSJ99YIjIuiilx) | 3:28 |
 | 43 | [This Time Last Week](https://open.spotify.com/track/3HPw07nh0KYvJFdkbrMnkW) | [Roe Kapara](https://open.spotify.com/artist/2he5ORo9A5pwwRKEa1u0jw) | [I Hope Hell Isn't Real](https://open.spotify.com/album/3DMrlbRSB4rYDwsL1yNw8H) | 2:14 |
 | 44 | [Outlook](https://open.spotify.com/track/0CrmP1WCDoi6nWm0Bn49cy) | [The Front Bottoms](https://open.spotify.com/artist/5ictveRyhWRs8Gt8Dvt1hS) | [Outlook](https://open.spotify.com/album/1cNp3BCSszUndzImSMZw07) | 3:51 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2jS7NwYPVI.md) - [plain]
 | 99 | [Temporary](https://open.spotify.com/track/1eOnnKaZZhlQ0l1a6TcDCW) | [Marlhy](https://open.spotify.com/artist/1fvH6NeNDohKGKwvRiebRA) | [Temporary](https://open.spotify.com/album/7fNhocF8oOVLtOd2Qcmcki) | 2:37 |
 | 100 | [Sick Bro](https://open.spotify.com/track/044xdOCTR0yaitqt3MJ4i8) | [CARR](https://open.spotify.com/artist/7ufjo5jO7vQfG6Zg0QzWEJ) | [Sick Bro](https://open.spotify.com/album/4Pbf1B4UMlL3u0H411y3SZ) | 2:37 |
 
-Snapshot ID: `MCw5MzM4MjU5NzcwOTU3NjhmYWE4ZGU3ZWU1MzMyMDdiZjJhOGExNjll`
+Snapshot ID: `MCxjN2RmYjRkYWZmYmNjNGZjZTkyY2QwMjdiZTRkMmQ5MTQxODA2NWJm`

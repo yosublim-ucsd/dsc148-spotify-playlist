@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0b56pNrpTUT.md) - [plain]
 
 > Sophisticated palates only\. Curated by: Eve Fairley\-Chickwe
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,601 likes - 48 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,626 likes - 48 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,21 +40,21 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0b56pNrpTUT.md) - [plain]
 | 30 | [Cashmere](https://open.spotify.com/track/6lU17eD72HITJQi6whfHH7) | [Tkay Maidza](https://open.spotify.com/artist/1kMPdZQVdUhMDKDWOJM5iK) | [Cashmere](https://open.spotify.com/album/3MSWBNsXCTc7U3lE8FDtY1) | 3:03 |
 | 31 | [Nobody](https://open.spotify.com/track/4JcpyXOyQkefawjp9fpL8s) | [Miraa May](https://open.spotify.com/artist/2fOvE1l01YyORhYzwoaLCM) | [Care Package](https://open.spotify.com/album/0bMaD8l0WCJLMz3CteLiYZ) | 3:29 |
 | 32 | [Peng Black Girls](https://open.spotify.com/track/3Xhj7ZZAfQwPUxKZHQdw3y) | [ENNY](https://open.spotify.com/artist/3qEnCAnX23lvoxZYtBiPgL), [Amia Brave](https://open.spotify.com/artist/3Sjv0t3F7FMsQrkWVZcOuW) | [Under Twenty Five](https://open.spotify.com/album/0lEt5TY0krIxIBW61pCMcb) | 3:30 |
-| 33 | [Serial](https://open.spotify.com/track/1HPYnKkSjOkkC8tm9S97rb) | [Tora\-i](https://open.spotify.com/artist/4oJsWKOJCNMfUbIpR2jk8Z) | [Serial](https://open.spotify.com/album/6q1MjscDVoN75ap0etkyW2) | 3:47 |
-| 34 | [November \(feat\. Hak Baker\)](https://open.spotify.com/track/6QKFXwI5cQ8D4xl6os8T1J) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP), [Hak Baker](https://open.spotify.com/artist/5QsqiLFA5Z2gmpKBbxQB2j) | [November \(feat\. Hak Baker\)](https://open.spotify.com/album/2EaIOXi8ylfZoJXti1EN8v) | 3:15 |
-| 35 | [Nah It Ain't The Same](https://open.spotify.com/track/3KKOxkUPWhKQssiMCSJxqO) | [Greentea Peng](https://open.spotify.com/artist/5z9wLR0RGBcWMXr4fCZW0K) | [Nah It Ain't The Same](https://open.spotify.com/album/27QNFuoSpcwEYnMJhwHhiP) | 4:11 |
-| 36 | [In My Mind](https://open.spotify.com/track/4B1aimZXPZL7PoU6KN33wP) | [Mysie](https://open.spotify.com/artist/3rf7cB2o79L2LEcl9HIjAf) | [Undertones](https://open.spotify.com/album/7CfevcKViQya5AT6HrDdhL) | 3:34 |
-| 37 | [Syrup](https://open.spotify.com/track/5nzX0GtmuW03QGb2l9Hw0C) | [Tkay Maidza](https://open.spotify.com/artist/1kMPdZQVdUhMDKDWOJM5iK) | [Syrup](https://open.spotify.com/album/2nNBzYIjt0Y9wnmXsRmIu4) | 2:25 |
-| 38 | [Anymore \(feat\. Lucky Daye\)](https://open.spotify.com/track/1RoMaS8tLOyCGpTzJvP4vS) | [Sinéad Harnett](https://open.spotify.com/artist/6tUJpYN2aYiXbzAcg0pIOo), [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [Ready is Always Too Late](https://open.spotify.com/album/5qhT4VwBKqLS3dUqRgBK0g) | 3:16 |
-| 39 | [MIA \(feat\. Kaash Paige\)](https://open.spotify.com/track/2RgDaFvkIcDygqHTAmgSwk) | [RAY BLK](https://open.spotify.com/artist/0CkbPVBpOwwz9NPPglFKyq), [Kaash Paige](https://open.spotify.com/artist/0f2YkMXwFNJNSX7MymevKE) | [MIA](https://open.spotify.com/album/1SAmnF7LfHgIhNI5oPrv7s) | 2:57 |
-| 40 | [Messy Love](https://open.spotify.com/track/7kktQmvJ8xLjHzHrBVo8tH) | [Nao](https://open.spotify.com/artist/7aFTOGFDEqDtJUCziLVsVC) | [Messy Love](https://open.spotify.com/album/5i8nyVa8L6o87WqHRRKCPz) | 3:35 |
-| 41 | [my slime](https://open.spotify.com/track/2uly2KqqE2cL2fzxyMKnC6) | [Fousheé](https://open.spotify.com/artist/6trIghKwHRUyxwvm66HLHH) | [my slime](https://open.spotify.com/album/3BCatx6OCDnnYXqUETlAhu) | 3:08 |
-| 42 | [10 More Rounds](https://open.spotify.com/track/46QbtehpRVwhGQNFlL7d1U) | [FLOHIO](https://open.spotify.com/artist/7qffELscxpltKCso3ByH67) | [10 More Rounds](https://open.spotify.com/album/7HsWYAJO1fR52QYUD4FRFS) | 3:17 |
-| 43 | [Polite](https://open.spotify.com/track/2SEM6i1v4kureWTjMiDE98) | [Erika de Casier](https://open.spotify.com/artist/1nIJEqPyIj5qutlgWNmQB0) | [Polite](https://open.spotify.com/album/2bouxxQ1WAFp5fC1XOJlLN) | 3:24 |
-| 44 | [IN BETWEEN \(feat\. Miraa May\)](https://open.spotify.com/track/2Zu3q83LdLSF6KW9Dgvj0h) | [Hamzaa](https://open.spotify.com/artist/3TXjnAw0sg1VVdnR9fGdBs), [Miraa May](https://open.spotify.com/artist/2fOvE1l01YyORhYzwoaLCM) | [Full Circle](https://open.spotify.com/album/4PhEHRqWfgTnTwDXAVq4SN) | 2:38 |
-| 45 | [Think About You \- Notion Mix](https://open.spotify.com/track/5yRKRnTxUYAEaO8EFypoVn) | [Tiana Major9](https://open.spotify.com/artist/1Naqgo0HMRoumRP0e2MXD9) | [Rocks \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1gWLuBpsrzqXjyObZZdSZg) | 3:15 |
+| 33 | [November \(feat\. Hak Baker\)](https://open.spotify.com/track/6QKFXwI5cQ8D4xl6os8T1J) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP), [Hak Baker](https://open.spotify.com/artist/5QsqiLFA5Z2gmpKBbxQB2j) | [November \(feat\. Hak Baker\)](https://open.spotify.com/album/2EaIOXi8ylfZoJXti1EN8v) | 3:15 |
+| 34 | [Nah It Ain't The Same](https://open.spotify.com/track/3KKOxkUPWhKQssiMCSJxqO) | [Greentea Peng](https://open.spotify.com/artist/5z9wLR0RGBcWMXr4fCZW0K) | [Nah It Ain't The Same](https://open.spotify.com/album/27QNFuoSpcwEYnMJhwHhiP) | 4:11 |
+| 35 | [In My Mind](https://open.spotify.com/track/4B1aimZXPZL7PoU6KN33wP) | [Mysie](https://open.spotify.com/artist/3rf7cB2o79L2LEcl9HIjAf) | [Undertones](https://open.spotify.com/album/7CfevcKViQya5AT6HrDdhL) | 3:34 |
+| 36 | [Syrup](https://open.spotify.com/track/5nzX0GtmuW03QGb2l9Hw0C) | [Tkay Maidza](https://open.spotify.com/artist/1kMPdZQVdUhMDKDWOJM5iK) | [Syrup](https://open.spotify.com/album/2nNBzYIjt0Y9wnmXsRmIu4) | 2:25 |
+| 37 | [Anymore \(feat\. Lucky Daye\)](https://open.spotify.com/track/1RoMaS8tLOyCGpTzJvP4vS) | [Sinéad Harnett](https://open.spotify.com/artist/6tUJpYN2aYiXbzAcg0pIOo), [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [Ready is Always Too Late](https://open.spotify.com/album/5qhT4VwBKqLS3dUqRgBK0g) | 3:16 |
+| 38 | [MIA \(feat\. Kaash Paige\)](https://open.spotify.com/track/2RgDaFvkIcDygqHTAmgSwk) | [RAY BLK](https://open.spotify.com/artist/0CkbPVBpOwwz9NPPglFKyq), [Kaash Paige](https://open.spotify.com/artist/0f2YkMXwFNJNSX7MymevKE) | [MIA](https://open.spotify.com/album/1SAmnF7LfHgIhNI5oPrv7s) | 2:57 |
+| 39 | [Messy Love](https://open.spotify.com/track/7kktQmvJ8xLjHzHrBVo8tH) | [Nao](https://open.spotify.com/artist/7aFTOGFDEqDtJUCziLVsVC) | [Messy Love](https://open.spotify.com/album/5i8nyVa8L6o87WqHRRKCPz) | 3:35 |
+| 40 | [my slime](https://open.spotify.com/track/2uly2KqqE2cL2fzxyMKnC6) | [Fousheé](https://open.spotify.com/artist/6trIghKwHRUyxwvm66HLHH) | [my slime](https://open.spotify.com/album/3BCatx6OCDnnYXqUETlAhu) | 3:08 |
+| 41 | [10 More Rounds](https://open.spotify.com/track/46QbtehpRVwhGQNFlL7d1U) | [FLOHIO](https://open.spotify.com/artist/7qffELscxpltKCso3ByH67) | [10 More Rounds](https://open.spotify.com/album/7HsWYAJO1fR52QYUD4FRFS) | 3:17 |
+| 42 | [Polite](https://open.spotify.com/track/2SEM6i1v4kureWTjMiDE98) | [Erika de Casier](https://open.spotify.com/artist/1nIJEqPyIj5qutlgWNmQB0) | [Polite](https://open.spotify.com/album/2bouxxQ1WAFp5fC1XOJlLN) | 3:24 |
+| 43 | [IN BETWEEN \(feat\. Miraa May\)](https://open.spotify.com/track/2Zu3q83LdLSF6KW9Dgvj0h) | [Hamzaa](https://open.spotify.com/artist/3TXjnAw0sg1VVdnR9fGdBs), [Miraa May](https://open.spotify.com/artist/2fOvE1l01YyORhYzwoaLCM) | [Full Circle](https://open.spotify.com/album/4PhEHRqWfgTnTwDXAVq4SN) | 2:38 |
+| 44 | [Think About You \- Notion Mix](https://open.spotify.com/track/5yRKRnTxUYAEaO8EFypoVn) | [Tiana Major9](https://open.spotify.com/artist/1Naqgo0HMRoumRP0e2MXD9) | [Rocks \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1gWLuBpsrzqXjyObZZdSZg) | 3:15 |
+| 45 | [Serial](https://open.spotify.com/track/6kaOmjwjH0ndfVSq45ePrg) | [Tora\-i](https://open.spotify.com/artist/4oJsWKOJCNMfUbIpR2jk8Z) | [& what else?](https://open.spotify.com/album/4p5YlAC56HCZOSDBNzqm8A) | 3:47 |
 | 46 | [Come We Bill Ehh](https://open.spotify.com/track/1KVkwvAEBH4Epf1Oc17LI0) | [Midas the Jagaban](https://open.spotify.com/artist/07MX7XJsNTn8JlgEcbZ7Fd) | [Rocks \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1gWLuBpsrzqXjyObZZdSZg) | 3:06 |
 | 47 | [Buss A 9](https://open.spotify.com/track/0bXiuDO0JuiIV8eWsiC9JX) | [Sharna Bass](https://open.spotify.com/artist/42A3nZSj9sLXPKpB4YgzSs) | [Rocks \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1gWLuBpsrzqXjyObZZdSZg) | 3:20 |
 | 48 | [Anger](https://open.spotify.com/track/5UJ0nJKwbBfYbnPyCfRlaD) | [Shaybo](https://open.spotify.com/artist/5QdfW7A9eh0XjCyg9XAZpy) | [Rocks \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1gWLuBpsrzqXjyObZZdSZg) | 2:18 |
 
-Snapshot ID: `MCw2MjJkZWExZDY1NGFhZmQxYWZhZmI0YzU2MWE3OThhNTRlMWYyZDgx`
+Snapshot ID: `MCw5OGU2NGM2ZTAzODA2M2Q2NjMzYTQ4YTY2NDBiOTNiYzA0NDM1Mzdl`

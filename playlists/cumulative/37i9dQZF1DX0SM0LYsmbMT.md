@@ -4,7 +4,7 @@
 
 > The original chill instrumental beats playlist.
 
-3,489 songs - 5 day 14 hr 5 min
+3,490 songs - 5 day 14 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -798,7 +798,7 @@
 | [Dreaming Reality](https://open.spotify.com/track/3tsK1dMdL8q1Fb0fkzbeVW) | [Melodiesinfonie](https://open.spotify.com/artist/3YndyZk8nVLJKspIBo0nLd) | [Dreaming Reality](https://open.spotify.com/album/4YniiagQQMVQ6UaMJeBTW1) | 2:44 | 2019-06-22 | 2019-11-29 |
 | [Dreams](https://open.spotify.com/track/2BMqw1SwM0Oj7JcgX0cAI3) | [lofi lemur](https://open.spotify.com/artist/5veYeCJr7DmizEWGrJ42Pl) | [Dreams](https://open.spotify.com/album/2eF83llUWqhdsYLxwYv1Tm) | 1:40 | 2020-11-03 | 2021-05-21 |
 | [Dreams About](https://open.spotify.com/track/7qjOk4LdB11CnE6a4llbFI) | [Zmeyev](https://open.spotify.com/artist/3VXe7BcibISROhxRdPuRNL) | [Dreams About](https://open.spotify.com/album/21lS055Om5S3lo49Cbo2m0) | 2:48 | 2022-06-02 | 2023-04-14 |
-| [Dreamwalking](https://open.spotify.com/track/3SG29mgnB2tvy5lR8Qgtdk) | [Otis Neon](https://open.spotify.com/artist/3GMuWlPjxsaDOInrqPP1k5) | [Dreamwalking](https://open.spotify.com/album/7bh09ptCTVOY51VhdgA1ms) | 2:04 | 2022-05-12 |  |
+| [Dreamwalking](https://open.spotify.com/track/3SG29mgnB2tvy5lR8Qgtdk) | [Otis Neon](https://open.spotify.com/artist/3GMuWlPjxsaDOInrqPP1k5) | [Dreamwalking](https://open.spotify.com/album/7bh09ptCTVOY51VhdgA1ms) | 2:04 | 2022-05-12 | 2023-05-21 |
 | [Dreamy](https://open.spotify.com/track/4KKCW5nGHbO0OqE4L02rhb) | [Katashi Kaitō](https://open.spotify.com/artist/7BDqewjn6oL3ryvHv78Wkx) | [Dreamy](https://open.spotify.com/album/4WLQGmBGAzeJlm8q2SVqci) | 2:15 | 2021-07-16 | 2021-09-10 |
 | [Drift](https://open.spotify.com/track/6nwDUDXx8IWzPMqQGm72we) | [Gas Lab](https://open.spotify.com/artist/2oJeeqyPBtkQJgsZgjFboN) | [Drift](https://open.spotify.com/album/29Fr3IX73K1KX8gBPhqdFW) | 2:45 | 2021-02-18 | 2021-07-09 |
 | [Drift](https://open.spotify.com/track/0oOJy3FP3Z0zPBqXgxy1A8) | [Lazlow](https://open.spotify.com/artist/4HDIsEQVKPkey4XVbvgUcT) | [Drift / Voyage](https://open.spotify.com/album/0tQpckZax3v5yKDqXODGoM) | 2:05 | 2020-06-19 | 2021-03-06 |
@@ -3155,6 +3155,7 @@
 | [Triptych](https://open.spotify.com/track/277BCc3A2zPWClTkwLAaMm) | [Glance](https://open.spotify.com/artist/4zsm9w2iVTLhuOIhnpqz9M), [goosetaf](https://open.spotify.com/artist/46NCqFl8vhQZD77y7XkvJs), [Slowya.roll](https://open.spotify.com/artist/3VlbOrMVyRIrtVE71jLu6N) | [Triptych](https://open.spotify.com/album/32gGyhmwAz5kxTZHP3eCgL) | 3:06 | 2021-01-25 | 2021-02-12 |
 | [Tropical](https://open.spotify.com/track/4Cr7zJwUZAw1YIjlLr6F8P) | [Lito Akari](https://open.spotify.com/artist/4ATIy1cxe2gE276vbRv2Hu), [Slowdown](https://open.spotify.com/artist/6qMZqcd02lR7PB8Np47OSF) | [Tropical](https://open.spotify.com/album/6ePkTwvDXcGwkrnVEGJvTd) | 2:39 | 2021-10-22 | 2022-06-17 |
 | [Tropical Fruit](https://open.spotify.com/track/2bG1HOlGg9AKu4fVVKjLGk) | [Bcalm](https://open.spotify.com/artist/7M4y7qvcYja7RcXNCGrjeP), [Banks](https://open.spotify.com/artist/6L9h5cN2DNOoMqFRgIv7uU), [Lofi jazz](https://open.spotify.com/artist/5DYR7Ezt7mk0AKhE1MFMmW) | [Tropical Fruit](https://open.spotify.com/album/7nlbh53xhg4RirCeI8Pfdj) | 2:20 | 2021-07-05 | 2021-07-30 |
+| [Tropicana](https://open.spotify.com/track/0dHpOqqAHj1UsMWlIv3Qjk) | [RejSende](https://open.spotify.com/artist/6VuJTb9pNKiBCcSlqBewpo) | [Tropicana](https://open.spotify.com/album/7e4umh4mOHKeuulAYrEeBM) | 3:12 | 2023-05-18 |  |
 | [Trouble in Paradise](https://open.spotify.com/track/0qTKP2IYTLwlHfoYxs6sW8) | [URCHN](https://open.spotify.com/artist/6TsSBSisvQYCupsHmXe1iK) | [Trouble in Paradise](https://open.spotify.com/album/36eSfi1eWrPxBqdx2l1XJ1) | 2:15 | 2020-11-07 | 2020-12-18 |
 | [Troubles](https://open.spotify.com/track/4cQD3pO3Za47KFojajm7HO) | [Brous One](https://open.spotify.com/artist/1B8h9tQRqagUQ7XcHRvh3k) | [Troubles](https://open.spotify.com/album/3MIiWYOwsFe9N5sKIMqzjG) | 1:40 | 2020-03-10 | 2020-05-25 |
 | [Truly Another Classic](https://open.spotify.com/track/1lLEiBayOjUDTTIKp9Ef4A) | [Glimlip](https://open.spotify.com/artist/5wEF5my54dE5vMMmSUz2q3), [Søren Søstrom](https://open.spotify.com/artist/2F5B5YgPDinjL9x35lkkke), [Soul Food Horns](https://open.spotify.com/artist/42gnrsSSKKNNmfAJ0o3oyN), [Yasper](https://open.spotify.com/artist/1axdL80XjVHdInGsJbURyt) | [Truly Another Classic](https://open.spotify.com/album/08VaZry8R8XE1pA8N0OYfC) | 2:33 | 2022-07-21 | 2022-08-12 |

@@ -1,12 +1,12 @@
 {
   "description": "Brighten your day with a mix of folksy mood boosters.",
-  "num_followers": 1960355,
+  "num_followers": 1960538,
   "original_name": "Happy Folk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlYWZiYzBkNjYxMTc3YTU2ZjBmNGYwNTZmMzRmMWY1ODcyZmM3ZGZj",
+  "snapshot_id": "MCwyNWFjMzcwZjBkZmY5NjIzYzI0ODUwZmM2OWU5Mzc2MGJjNzJjMDM4",
   "tracks": [
     {
       "added_at": "2023-05-19 04:00:00",
@@ -455,22 +455,6 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "A Little Lift",
-        "url": "https://open.spotify.com/album/3roe3TTl1o2p9sZZ9HdeX2"
-      },
-      "artists": [
-        {
-          "name": "Morningsiders",
-          "url": "https://open.spotify.com/artist/5hPR4Atp3QY2ztiAcz1inl"
-        }
-      ],
-      "duration_ms": 199742,
-      "name": "Empress",
-      "url": "https://open.spotify.com/track/4xWqRo8GPwMQ02LjiaX4D8"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
         "name": "Absolute Loser",
         "url": "https://open.spotify.com/album/1vRxjcJpuE6MxaDwvDcldB"
       },
@@ -483,6 +467,22 @@
       "duration_ms": 184346,
       "name": "Humbug Mountain Song",
       "url": "https://open.spotify.com/track/3HdcqQpq7zb5GbEKBDY34p"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
+        "name": "A Little Lift",
+        "url": "https://open.spotify.com/album/3roe3TTl1o2p9sZZ9HdeX2"
+      },
+      "artists": [
+        {
+          "name": "Morningsiders",
+          "url": "https://open.spotify.com/artist/5hPR4Atp3QY2ztiAcz1inl"
+        }
+      ],
+      "duration_ms": 199742,
+      "name": "Empress",
+      "url": "https://open.spotify.com/track/4xWqRo8GPwMQ02LjiaX4D8"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -1031,22 +1031,6 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "Twin Forks",
-        "url": "https://open.spotify.com/album/5RtOloqFxDxiJJgAkDqrvZ"
-      },
-      "artists": [
-        {
-          "name": "Twin Forks",
-          "url": "https://open.spotify.com/artist/6GwNGuDRNbx5XwoHQA3QiD"
-        }
-      ],
-      "duration_ms": 170962,
-      "name": "Back to You",
-      "url": "https://open.spotify.com/track/6iB4FVNBjXR9M5nhvSlZde"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
         "name": "Saratoga",
         "url": "https://open.spotify.com/album/1r1Hx0CJ97rPzAEIPFCZTr"
       },
@@ -1059,6 +1043,22 @@
       "duration_ms": 230533,
       "name": "Saratoga",
       "url": "https://open.spotify.com/track/1XQRxNO0sBbSG8NZXFFbo8"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
+        "name": "Twin Forks",
+        "url": "https://open.spotify.com/album/5RtOloqFxDxiJJgAkDqrvZ"
+      },
+      "artists": [
+        {
+          "name": "Twin Forks",
+          "url": "https://open.spotify.com/artist/6GwNGuDRNbx5XwoHQA3QiD"
+        }
+      ],
+      "duration_ms": 170962,
+      "name": "Back to You",
+      "url": "https://open.spotify.com/track/6iB4FVNBjXR9M5nhvSlZde"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -1159,22 +1159,6 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "Nightjar and the Nightingale",
-        "url": "https://open.spotify.com/album/3uqQVXRX8Yoq88qiXXJyjk"
-      },
-      "artists": [
-        {
-          "name": "Roo Panes",
-          "url": "https://open.spotify.com/artist/0XHM5ZNJDU8e4CfbWMeSzC"
-        }
-      ],
-      "duration_ms": 195453,
-      "name": "I Just Love You",
-      "url": "https://open.spotify.com/track/2gQV3v9mnk1Hiy6q2NWDJy"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
         "name": "Shaky Ground",
         "url": "https://open.spotify.com/album/1iYLinQ11V4WmuiHsu1Ryd"
       },
@@ -1187,6 +1171,22 @@
       "duration_ms": 192893,
       "name": "Shaky Ground",
       "url": "https://open.spotify.com/track/0VCveHO3AX0OLRuTgpBKBJ"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
+        "name": "Nightjar and the Nightingale",
+        "url": "https://open.spotify.com/album/3uqQVXRX8Yoq88qiXXJyjk"
+      },
+      "artists": [
+        {
+          "name": "Roo Panes",
+          "url": "https://open.spotify.com/artist/0XHM5ZNJDU8e4CfbWMeSzC"
+        }
+      ],
+      "duration_ms": 195453,
+      "name": "I Just Love You",
+      "url": "https://open.spotify.com/track/2gQV3v9mnk1Hiy6q2NWDJy"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -1223,22 +1223,6 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "The Art of Escape",
-        "url": "https://open.spotify.com/album/1M0Nx2PbPSYksQbHf5fiWn"
-      },
-      "artists": [
-        {
-          "name": "Hein Cooper",
-          "url": "https://open.spotify.com/artist/75Cb1lVnzQa6mPaJA16Ho0"
-        }
-      ],
-      "duration_ms": 198582,
-      "name": "Rusty",
-      "url": "https://open.spotify.com/track/1A7fsnhsxxy9mZl8uxqObC"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
         "name": "Wolf",
         "url": "https://open.spotify.com/album/0rWBMz1deEBd4l2TAsW7dq"
       },
@@ -1251,6 +1235,22 @@
       "duration_ms": 220333,
       "name": "Wolf",
       "url": "https://open.spotify.com/track/3pMUTmKGA5hWOWpzf82xn0"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
+        "name": "The Art of Escape",
+        "url": "https://open.spotify.com/album/1M0Nx2PbPSYksQbHf5fiWn"
+      },
+      "artists": [
+        {
+          "name": "Hein Cooper",
+          "url": "https://open.spotify.com/artist/75Cb1lVnzQa6mPaJA16Ho0"
+        }
+      ],
+      "duration_ms": 198582,
+      "name": "Rusty",
+      "url": "https://open.spotify.com/track/1A7fsnhsxxy9mZl8uxqObC"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -1323,22 +1323,6 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "Half Moon Light",
-        "url": "https://open.spotify.com/album/6jqJNgfl234UYEWeP3iRF1"
-      },
-      "artists": [
-        {
-          "name": "The Lone Bellow",
-          "url": "https://open.spotify.com/artist/7JFtD8KnbAADBBDleIMuH7"
-        }
-      ],
-      "duration_ms": 229960,
-      "name": "Good Times",
-      "url": "https://open.spotify.com/track/0C9uaJt51ytJgwiZpRYyGM"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
         "name": "I'm Alone, No You're Not",
         "url": "https://open.spotify.com/album/0kb4iBtX69frHEfyNv7EJG"
       },
@@ -1351,6 +1335,22 @@
       "duration_ms": 199853,
       "name": "White Flag",
       "url": "https://open.spotify.com/track/3nDM1ezsfSuuYaFN4sicp1"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
+        "name": "Half Moon Light",
+        "url": "https://open.spotify.com/album/6jqJNgfl234UYEWeP3iRF1"
+      },
+      "artists": [
+        {
+          "name": "The Lone Bellow",
+          "url": "https://open.spotify.com/artist/7JFtD8KnbAADBBDleIMuH7"
+        }
+      ],
+      "duration_ms": 229960,
+      "name": "Good Times",
+      "url": "https://open.spotify.com/track/0C9uaJt51ytJgwiZpRYyGM"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -1535,22 +1535,6 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "High & Unsteady",
-        "url": "https://open.spotify.com/album/6CyQXYZQRhh09DoFBAZS57"
-      },
-      "artists": [
-        {
-          "name": "Pierce Brothers",
-          "url": "https://open.spotify.com/artist/7vZrzoDeKFqcZ9JrDThOBB"
-        }
-      ],
-      "duration_ms": 223339,
-      "name": "High & Unsteady",
-      "url": "https://open.spotify.com/track/0krRiYzA0muPIjAWXtct0O"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
         "name": "Hearts Town",
         "url": "https://open.spotify.com/album/7JpS1MkDWu1bRS4b9VWeoY"
       },
@@ -1567,18 +1551,18 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "firekid",
-        "url": "https://open.spotify.com/album/6qb5fl4U5XsxZOFNHqwxxw"
+        "name": "High & Unsteady",
+        "url": "https://open.spotify.com/album/6CyQXYZQRhh09DoFBAZS57"
       },
       "artists": [
         {
-          "name": "firekid",
-          "url": "https://open.spotify.com/artist/61XyQHQKfzbzgTmtbiVOR3"
+          "name": "Pierce Brothers",
+          "url": "https://open.spotify.com/artist/7vZrzoDeKFqcZ9JrDThOBB"
         }
       ],
-      "duration_ms": 192466,
-      "name": "Lay by Me",
-      "url": "https://open.spotify.com/track/5HUynLdprJzINndFXcidfu"
+      "duration_ms": 223339,
+      "name": "High & Unsteady",
+      "url": "https://open.spotify.com/track/0krRiYzA0muPIjAWXtct0O"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -1603,18 +1587,18 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "Graveclothes",
-        "url": "https://open.spotify.com/album/0WMzoCvodpdM191D8EoAJH"
+        "name": "firekid",
+        "url": "https://open.spotify.com/album/6qb5fl4U5XsxZOFNHqwxxw"
       },
       "artists": [
         {
-          "name": "Birdtalker",
-          "url": "https://open.spotify.com/artist/2sNHl4oXsU0DVTy9u1otGt"
+          "name": "firekid",
+          "url": "https://open.spotify.com/artist/61XyQHQKfzbzgTmtbiVOR3"
         }
       ],
-      "duration_ms": 227105,
-      "name": "Graveclothes",
-      "url": "https://open.spotify.com/track/1UM7bluhwWTGfhvWWOshk7"
+      "duration_ms": 192466,
+      "name": "Lay by Me",
+      "url": "https://open.spotify.com/track/5HUynLdprJzINndFXcidfu"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -1631,6 +1615,22 @@
       "duration_ms": 227946,
       "name": "American Dream",
       "url": "https://open.spotify.com/track/4V70CXma5EqVlQ6SvxDLYO"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
+        "name": "Graveclothes",
+        "url": "https://open.spotify.com/album/0WMzoCvodpdM191D8EoAJH"
+      },
+      "artists": [
+        {
+          "name": "Birdtalker",
+          "url": "https://open.spotify.com/artist/2sNHl4oXsU0DVTy9u1otGt"
+        }
+      ],
+      "duration_ms": 227105,
+      "name": "Graveclothes",
+      "url": "https://open.spotify.com/track/1UM7bluhwWTGfhvWWOshk7"
     },
     {
       "added_at": "2023-05-19 04:00:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZryfp6NSvtz.md) - [plain]
 
 > The best new rock tracks every week\. Cover: Greta Van Fleet
 
-[Spotify](https://open.spotify.com/user/spotify) - 399,505 likes - 49 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 399,690 likes - 49 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZryfp6NSvtz.md) - [plain]
 | 48 | [River](https://open.spotify.com/track/2IRJ6xOYTVtE5bFQZC7w5k) | [mirabelle.](https://open.spotify.com/artist/5TMUjYIR8pxt2p1JIJeEl0) | [River](https://open.spotify.com/album/2CYj7RFgczHfihAyZwySJX) | 3:16 |
 | 49 | [Cockroach](https://open.spotify.com/track/3dX4DigiUmWX9LDDBjUKVh) | [Sailor Honeymoon](https://open.spotify.com/artist/6qzA8cgwfUtv4M5BHgCK7C) | [Cockroach](https://open.spotify.com/album/0kkeqIkER3zOU3lvJusn1n) | 2:12 |
 
-Snapshot ID: `MCxmOGIxNTFmMDM5MzRjNGQwZGFkNDBmOTNlNTU5ZGYxMzMzZDNkYWYz`
+Snapshot ID: `MCxiMTBmYWNlMjgwODAzYmZhNGIzOWZhMTA2NWM4OGFiODc0YmUyNGVh`

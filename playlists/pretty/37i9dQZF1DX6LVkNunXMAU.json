@@ -1,12 +1,12 @@
 {
   "description": "Dulce y \u00e1cido: indie pop latino en estado natural. Foto: Juku Ares + Koino Yokan.",
-  "num_followers": 54111,
+  "num_followers": 54119,
   "original_name": "mandarina",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4MjkxZmFjN2UxYzQ2NjRkNjA0MjgyNDU5MjUwZWUxOGU2Yzc3Njhl",
+  "snapshot_id": "MCw0MjgyYTFjZWNlMTQxN2IxNDA3NWEzZDg0YmY3MDI5OGQzNGMyZmQz",
   "tracks": [
     {
       "added_at": "2023-05-19 03:00:00",
@@ -147,6 +147,26 @@
     {
       "added_at": "2023-05-19 03:00:00",
       "album": {
+        "name": "Tampoco Poco",
+        "url": "https://open.spotify.com/album/75vq0NL98i4o6WZzqVjt2r"
+      },
+      "artists": [
+        {
+          "name": "Juan Pablo Vega",
+          "url": "https://open.spotify.com/artist/2PfyKA4qhjkxUVkerTCxz0"
+        },
+        {
+          "name": "Irepelusa",
+          "url": "https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw"
+        }
+      ],
+      "duration_ms": 180534,
+      "name": "Tampoco Poco",
+      "url": "https://open.spotify.com/track/56Qv2bKbDBp7I2iKgmUV47"
+    },
+    {
+      "added_at": "2023-05-19 03:00:00",
+      "album": {
         "name": "Es Tan Bonita",
         "url": "https://open.spotify.com/album/3YkDljxrqjy8O4CEJQkvLY"
       },
@@ -179,26 +199,6 @@
       "duration_ms": 186155,
       "name": "otro lugar \u2022 despertar",
       "url": "https://open.spotify.com/track/1a6d2GjBWqzzmfeH6YEx1n"
-    },
-    {
-      "added_at": "2023-05-19 03:00:00",
-      "album": {
-        "name": "Tampoco Poco",
-        "url": "https://open.spotify.com/album/75vq0NL98i4o6WZzqVjt2r"
-      },
-      "artists": [
-        {
-          "name": "Juan Pablo Vega",
-          "url": "https://open.spotify.com/artist/2PfyKA4qhjkxUVkerTCxz0"
-        },
-        {
-          "name": "Irepelusa",
-          "url": "https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw"
-        }
-      ],
-      "duration_ms": 180534,
-      "name": "Tampoco Poco",
-      "url": "https://open.spotify.com/track/56Qv2bKbDBp7I2iKgmUV47"
     },
     {
       "added_at": "2023-05-19 03:00:00",
@@ -415,18 +415,18 @@
     {
       "added_at": "2023-05-19 03:00:00",
       "album": {
-        "name": "Mentiroso",
-        "url": "https://open.spotify.com/album/67eYO57qEmwcX323pi63kZ"
+        "name": "Algo Tiene Que Cambiar",
+        "url": "https://open.spotify.com/album/2iKR4ZBb3NLJM0Zg8yhQvi"
       },
       "artists": [
         {
-          "name": "Walter Esa\u00fa",
-          "url": "https://open.spotify.com/artist/2BaF574aVsGeAtcUgrzeV5"
+          "name": "Alan Sutton y las criaturitas de la ansiedad",
+          "url": "https://open.spotify.com/artist/3OFrGQrdXwm0UgTERW6LAV"
         }
       ],
-      "duration_ms": 228306,
-      "name": "Mentiroso",
-      "url": "https://open.spotify.com/track/25pP7EPQwNjoIA2EFZoPOK"
+      "duration_ms": 186812,
+      "name": "La Mochila del Mundo",
+      "url": "https://open.spotify.com/track/2tch5wBhdrdAkZYuJlAdhb"
     },
     {
       "added_at": "2023-05-19 03:00:00",
@@ -447,6 +447,22 @@
       "duration_ms": 244500,
       "name": "Dame",
       "url": "https://open.spotify.com/track/297Vr1chPCF0607I0g80IJ"
+    },
+    {
+      "added_at": "2023-05-19 03:00:00",
+      "album": {
+        "name": "Mentiroso",
+        "url": "https://open.spotify.com/album/67eYO57qEmwcX323pi63kZ"
+      },
+      "artists": [
+        {
+          "name": "Walter Esa\u00fa",
+          "url": "https://open.spotify.com/artist/2BaF574aVsGeAtcUgrzeV5"
+        }
+      ],
+      "duration_ms": 228306,
+      "name": "Mentiroso",
+      "url": "https://open.spotify.com/track/25pP7EPQwNjoIA2EFZoPOK"
     },
     {
       "added_at": "2023-05-19 03:00:00",
@@ -575,6 +591,22 @@
     {
       "added_at": "2023-05-19 03:00:00",
       "album": {
+        "name": "Alguien Como T\u00fa",
+        "url": "https://open.spotify.com/album/1iTbNUit81UbxYbMRteBlL"
+      },
+      "artists": [
+        {
+          "name": "La Isla Centeno",
+          "url": "https://open.spotify.com/artist/7EnLmrL4jTZKjeseaZyA0L"
+        }
+      ],
+      "duration_ms": 237978,
+      "name": "Alguien Como T\u00fa",
+      "url": "https://open.spotify.com/track/29c3Pm5ChGMesIzZFUsCpE"
+    },
+    {
+      "added_at": "2023-05-19 03:00:00",
+      "album": {
         "name": "En una",
         "url": "https://open.spotify.com/album/0ksnp7Yvn8AqWXAyhiZLD1"
       },
@@ -591,22 +623,6 @@
       "duration_ms": 219647,
       "name": "En una",
       "url": "https://open.spotify.com/track/0JljvMGjWcpbKY5pultmMb"
-    },
-    {
-      "added_at": "2023-05-19 03:00:00",
-      "album": {
-        "name": "Alguien Como T\u00fa",
-        "url": "https://open.spotify.com/album/1iTbNUit81UbxYbMRteBlL"
-      },
-      "artists": [
-        {
-          "name": "La Isla Centeno",
-          "url": "https://open.spotify.com/artist/7EnLmrL4jTZKjeseaZyA0L"
-        }
-      ],
-      "duration_ms": 237978,
-      "name": "Alguien Como T\u00fa",
-      "url": "https://open.spotify.com/track/29c3Pm5ChGMesIzZFUsCpE"
     },
     {
       "added_at": "2023-05-19 03:00:00",
@@ -663,6 +679,26 @@
     {
       "added_at": "2023-05-19 03:00:00",
       "album": {
+        "name": "El Golpe",
+        "url": "https://open.spotify.com/album/2mM9AGAvBdr7AuS6Rmluv6"
+      },
+      "artists": [
+        {
+          "name": "Avepez",
+          "url": "https://open.spotify.com/artist/5rErs8ODO5tJwXT53QeMMV"
+        },
+        {
+          "name": "Rosario Ortega",
+          "url": "https://open.spotify.com/artist/6AvVNBiwAW7CXZPACAo2OB"
+        }
+      ],
+      "duration_ms": 193948,
+      "name": "El Golpe",
+      "url": "https://open.spotify.com/track/0xaFoCtIDOGIYZbv0Ptfli"
+    },
+    {
+      "added_at": "2023-05-19 03:00:00",
+      "album": {
         "name": "Track",
         "url": "https://open.spotify.com/album/513Rz0NbAVxMULy2dieJWL"
       },
@@ -675,22 +711,6 @@
       "duration_ms": 204241,
       "name": "Track Track",
       "url": "https://open.spotify.com/track/3iYRLqDPD52FsVEKPE5Ro8"
-    },
-    {
-      "added_at": "2023-05-19 03:00:00",
-      "album": {
-        "name": "NI\u00d1A",
-        "url": "https://open.spotify.com/album/7hYbOuYfiOBUa9r6tdDcQj"
-      },
-      "artists": [
-        {
-          "name": "Bocho",
-          "url": "https://open.spotify.com/artist/345MIEXxffgO93aCGlO8el"
-        }
-      ],
-      "duration_ms": 200245,
-      "name": "NI\u00d1A",
-      "url": "https://open.spotify.com/track/2FJUH2s0dgddhjkfBdKNvC"
     },
     {
       "added_at": "2023-05-19 03:00:00",
@@ -711,6 +731,22 @@
     {
       "added_at": "2023-05-19 03:00:00",
       "album": {
+        "name": "NI\u00d1A",
+        "url": "https://open.spotify.com/album/7hYbOuYfiOBUa9r6tdDcQj"
+      },
+      "artists": [
+        {
+          "name": "Bocho",
+          "url": "https://open.spotify.com/artist/345MIEXxffgO93aCGlO8el"
+        }
+      ],
+      "duration_ms": 200245,
+      "name": "NI\u00d1A",
+      "url": "https://open.spotify.com/track/2FJUH2s0dgddhjkfBdKNvC"
+    },
+    {
+      "added_at": "2023-05-19 03:00:00",
+      "album": {
         "name": "UY!",
         "url": "https://open.spotify.com/album/26eLXyKicJJrQDxqg4RB25"
       },
@@ -727,26 +763,6 @@
       "duration_ms": 136959,
       "name": "UY!",
       "url": "https://open.spotify.com/track/3xzbZlEFziTKAT9Id5oVdg"
-    },
-    {
-      "added_at": "2023-05-19 03:00:00",
-      "album": {
-        "name": "El Golpe",
-        "url": "https://open.spotify.com/album/2mM9AGAvBdr7AuS6Rmluv6"
-      },
-      "artists": [
-        {
-          "name": "Avepez",
-          "url": "https://open.spotify.com/artist/5rErs8ODO5tJwXT53QeMMV"
-        },
-        {
-          "name": "Rosario Ortega",
-          "url": "https://open.spotify.com/artist/6AvVNBiwAW7CXZPACAo2OB"
-        }
-      ],
-      "duration_ms": 193948,
-      "name": "El Golpe",
-      "url": "https://open.spotify.com/track/0xaFoCtIDOGIYZbv0Ptfli"
     },
     {
       "added_at": "2023-05-19 03:00:00",
@@ -803,22 +819,6 @@
     {
       "added_at": "2023-05-19 03:00:00",
       "album": {
-        "name": "En Lo Que Llega La Primavera",
-        "url": "https://open.spotify.com/album/5FOS6PLaHaTbgp4tWBNdig"
-      },
-      "artists": [
-        {
-          "name": "Alex Ferreira",
-          "url": "https://open.spotify.com/artist/3COVuPWvshbsdm0kdMMTr7"
-        }
-      ],
-      "duration_ms": 251199,
-      "name": "Como una Flecha",
-      "url": "https://open.spotify.com/track/51HF59FrEDRz9NTVvcXhG6"
-    },
-    {
-      "added_at": "2023-05-19 03:00:00",
-      "album": {
         "name": "Sigo Llorando",
         "url": "https://open.spotify.com/album/3V1VAfG6FC5nppug6OZHnm"
       },
@@ -831,6 +831,22 @@
       "duration_ms": 223349,
       "name": "Sigo Llorando",
       "url": "https://open.spotify.com/track/1Ptw4qmBwDENGx2qrfUIBc"
+    },
+    {
+      "added_at": "2023-05-19 03:00:00",
+      "album": {
+        "name": "En Lo Que Llega La Primavera",
+        "url": "https://open.spotify.com/album/5FOS6PLaHaTbgp4tWBNdig"
+      },
+      "artists": [
+        {
+          "name": "Alex Ferreira",
+          "url": "https://open.spotify.com/artist/3COVuPWvshbsdm0kdMMTr7"
+        }
+      ],
+      "duration_ms": 251199,
+      "name": "Como una Flecha",
+      "url": "https://open.spotify.com/track/51HF59FrEDRz9NTVvcXhG6"
     },
     {
       "added_at": "2023-05-19 03:00:00",
@@ -927,6 +943,22 @@
     {
       "added_at": "2023-05-19 03:00:00",
       "album": {
+        "name": "2:42",
+        "url": "https://open.spotify.com/album/0IeereaucGl6PwFZ3CCh4O"
+      },
+      "artists": [
+        {
+          "name": "SANTACRUZ",
+          "url": "https://open.spotify.com/artist/42q0iHNbkj0YS8kp0QuOp2"
+        }
+      ],
+      "duration_ms": 171388,
+      "name": "2:42",
+      "url": "https://open.spotify.com/track/4yzo6HV34l2wGug7W90BPZ"
+    },
+    {
+      "added_at": "2023-05-19 03:00:00",
+      "album": {
         "name": "No Ves Tal Vez",
         "url": "https://open.spotify.com/album/3C4Cqb16lrZSpFoc772AIv"
       },
@@ -959,22 +991,6 @@
       "duration_ms": 185296,
       "name": "Que Placer",
       "url": "https://open.spotify.com/track/2SS9GnNMqb1ciYOSWLXNAL"
-    },
-    {
-      "added_at": "2023-05-19 03:00:00",
-      "album": {
-        "name": "2:42",
-        "url": "https://open.spotify.com/album/0IeereaucGl6PwFZ3CCh4O"
-      },
-      "artists": [
-        {
-          "name": "SANTACRUZ",
-          "url": "https://open.spotify.com/artist/42q0iHNbkj0YS8kp0QuOp2"
-        }
-      ],
-      "duration_ms": 171388,
-      "name": "2:42",
-      "url": "https://open.spotify.com/track/4yzo6HV34l2wGug7W90BPZ"
     },
     {
       "added_at": "2023-05-19 03:00:00",
@@ -1135,26 +1151,6 @@
     {
       "added_at": "2023-05-19 03:00:00",
       "album": {
-        "name": "Universos Distintos",
-        "url": "https://open.spotify.com/album/0UB9bGnLYP2xs4YK9CweHw"
-      },
-      "artists": [
-        {
-          "name": "Maca Mona Mu",
-          "url": "https://open.spotify.com/artist/5dcoubrHmPz022o7R0L0Nz"
-        },
-        {
-          "name": "Andr\u00e9 Prando",
-          "url": "https://open.spotify.com/artist/4FMAZRPuZfvwhx7nMywkZk"
-        }
-      ],
-      "duration_ms": 232742,
-      "name": "Universos Distintos",
-      "url": "https://open.spotify.com/track/021ixWdzxdf61Jx5qEqqSY"
-    },
-    {
-      "added_at": "2023-05-19 03:00:00",
-      "album": {
         "name": "Ya no hay dudas",
         "url": "https://open.spotify.com/album/7vfWKcTC2qF1wnPKxVKnz9"
       },
@@ -1171,6 +1167,26 @@
       "duration_ms": 195856,
       "name": "Ya no hay dudas",
       "url": "https://open.spotify.com/track/3LMk3abz8KRRRXnJHatyEw"
+    },
+    {
+      "added_at": "2023-05-19 03:00:00",
+      "album": {
+        "name": "Universos Distintos",
+        "url": "https://open.spotify.com/album/0UB9bGnLYP2xs4YK9CweHw"
+      },
+      "artists": [
+        {
+          "name": "Maca Mona Mu",
+          "url": "https://open.spotify.com/artist/5dcoubrHmPz022o7R0L0Nz"
+        },
+        {
+          "name": "Andr\u00e9 Prando",
+          "url": "https://open.spotify.com/artist/4FMAZRPuZfvwhx7nMywkZk"
+        }
+      ],
+      "duration_ms": 232742,
+      "name": "Universos Distintos",
+      "url": "https://open.spotify.com/track/021ixWdzxdf61Jx5qEqqSY"
     },
     {
       "added_at": "2023-05-19 03:00:00",
@@ -1335,6 +1351,22 @@
     {
       "added_at": "2023-05-19 03:00:00",
       "album": {
+        "name": "perdido en la ciudad",
+        "url": "https://open.spotify.com/album/2ImmCGnDWWuZX4EsD7hLp4"
+      },
+      "artists": [
+        {
+          "name": "Martin Oliver",
+          "url": "https://open.spotify.com/artist/3RiVbzQAmviwm6NPFlHYIm"
+        }
+      ],
+      "duration_ms": 153947,
+      "name": "perdido en la ciudad",
+      "url": "https://open.spotify.com/track/3np1HLiIzBjFodBf13Irzu"
+    },
+    {
+      "added_at": "2023-05-19 03:00:00",
+      "album": {
         "name": "Un Caf\u00e9",
         "url": "https://open.spotify.com/album/0WkFkZMYw79SJMLPzoL3AG"
       },
@@ -1347,6 +1379,22 @@
       "duration_ms": 215690,
       "name": "Un Caf\u00e9",
       "url": "https://open.spotify.com/track/3b1Hvw1zcIKPMtO8hw2Cpc"
+    },
+    {
+      "added_at": "2023-05-19 03:00:00",
+      "album": {
+        "name": "Nena",
+        "url": "https://open.spotify.com/album/56ahGn7izo6fGrS5lMvCjm"
+      },
+      "artists": [
+        {
+          "name": "SINGULARES",
+          "url": "https://open.spotify.com/artist/1T1jRBnri3kmiLINyCFkKN"
+        }
+      ],
+      "duration_ms": 150841,
+      "name": "Nena",
+      "url": "https://open.spotify.com/track/0zGiP8h7GMV2W1aIqq4mJz"
     },
     {
       "added_at": "2023-05-19 03:00:00",
@@ -1367,22 +1415,6 @@
       "duration_ms": 216098,
       "name": "Atajo",
       "url": "https://open.spotify.com/track/5qYHHNRetV9XqWKFbtcBPc"
-    },
-    {
-      "added_at": "2023-05-19 03:00:00",
-      "album": {
-        "name": "Nena",
-        "url": "https://open.spotify.com/album/56ahGn7izo6fGrS5lMvCjm"
-      },
-      "artists": [
-        {
-          "name": "SINGULARES",
-          "url": "https://open.spotify.com/artist/1T1jRBnri3kmiLINyCFkKN"
-        }
-      ],
-      "duration_ms": 150841,
-      "name": "Nena",
-      "url": "https://open.spotify.com/track/0zGiP8h7GMV2W1aIqq4mJz"
     },
     {
       "added_at": "2023-05-19 03:00:00",
@@ -1455,18 +1487,18 @@
     {
       "added_at": "2023-05-19 03:00:00",
       "album": {
-        "name": "perdido en la ciudad",
-        "url": "https://open.spotify.com/album/2ImmCGnDWWuZX4EsD7hLp4"
+        "name": "Un besito",
+        "url": "https://open.spotify.com/album/6a7Gm9RqJp1fNypiMAfL5y"
       },
       "artists": [
         {
-          "name": "Martin Oliver",
-          "url": "https://open.spotify.com/artist/3RiVbzQAmviwm6NPFlHYIm"
+          "name": "Ni\u00f1o Etc.",
+          "url": "https://open.spotify.com/artist/4AjkGn28sERGr75M5kcvqn"
         }
       ],
-      "duration_ms": 153947,
-      "name": "perdido en la ciudad",
-      "url": "https://open.spotify.com/track/3np1HLiIzBjFodBf13Irzu"
+      "duration_ms": 178500,
+      "name": "Un besito",
+      "url": "https://open.spotify.com/track/3Mgj1UCxUVjQ7YpSNEh0f3"
     },
     {
       "added_at": "2023-05-19 03:00:00",
@@ -1483,6 +1515,26 @@
       "duration_ms": 202956,
       "name": "De Viaje",
       "url": "https://open.spotify.com/track/0YwrqRHtpvlQChhbiYoQI5"
+    },
+    {
+      "added_at": "2023-05-19 03:00:00",
+      "album": {
+        "name": "OKAY",
+        "url": "https://open.spotify.com/album/0cT3OJcYwXfqQxiK7Qd11Q"
+      },
+      "artists": [
+        {
+          "name": "Nicol\u00e1s De Sanctis",
+          "url": "https://open.spotify.com/artist/24VZM0e1TVb0bJaZXYaPTh"
+        },
+        {
+          "name": "Chechi de Marcos",
+          "url": "https://open.spotify.com/artist/7Mxqqaq1c8KVXiVLbdGasH"
+        }
+      ],
+      "duration_ms": 226362,
+      "name": "OKAY",
+      "url": "https://open.spotify.com/track/613mJsuG0asXiIzz2cFjQE"
     },
     {
       "added_at": "2023-05-19 03:00:00",
@@ -1519,6 +1571,22 @@
     {
       "added_at": "2023-05-19 03:00:00",
       "album": {
+        "name": "Cruzandonos",
+        "url": "https://open.spotify.com/album/5zxq4FdqVgfSXWWYVxnTTY"
+      },
+      "artists": [
+        {
+          "name": "Rosario Serafin",
+          "url": "https://open.spotify.com/artist/68xFPvHGNPEL9g4LsdxTaM"
+        }
+      ],
+      "duration_ms": 215979,
+      "name": "Cruzandonos",
+      "url": "https://open.spotify.com/track/4zhcfWikicy2IwCj2dWr6n"
+    },
+    {
+      "added_at": "2023-05-19 03:00:00",
+      "album": {
         "name": "Vamos a Lograrlo",
         "url": "https://open.spotify.com/album/1oJ242jCFlXM34tvvWrdYo"
       },
@@ -1539,22 +1607,6 @@
     {
       "added_at": "2023-05-19 03:00:00",
       "album": {
-        "name": "Respirar de Nuevo",
-        "url": "https://open.spotify.com/album/0bIHg0GOPmuwmR2iU5m2On"
-      },
-      "artists": [
-        {
-          "name": "Margarita Pla",
-          "url": "https://open.spotify.com/artist/2oiL55yTcmeFCv18Y9jEii"
-        }
-      ],
-      "duration_ms": 273511,
-      "name": "No Te Acerques Tanto a M\u00ed",
-      "url": "https://open.spotify.com/track/36wVZnuq7ujmbfErkTuhh4"
-    },
-    {
-      "added_at": "2023-05-19 03:00:00",
-      "album": {
         "name": "La Guarida",
         "url": "https://open.spotify.com/album/6M6ZD7z8NcEzYQdBKjbBVV"
       },
@@ -1567,6 +1619,22 @@
       "duration_ms": 190750,
       "name": "La Guarida",
       "url": "https://open.spotify.com/track/38KbBBtuDmA6dga52LXz7i"
+    },
+    {
+      "added_at": "2023-05-19 03:00:00",
+      "album": {
+        "name": "Respirar de Nuevo",
+        "url": "https://open.spotify.com/album/0bIHg0GOPmuwmR2iU5m2On"
+      },
+      "artists": [
+        {
+          "name": "Margarita Pla",
+          "url": "https://open.spotify.com/artist/2oiL55yTcmeFCv18Y9jEii"
+        }
+      ],
+      "duration_ms": 273511,
+      "name": "No Te Acerques Tanto a M\u00ed",
+      "url": "https://open.spotify.com/track/36wVZnuq7ujmbfErkTuhh4"
     },
     {
       "added_at": "2023-05-19 03:00:00",
@@ -1607,18 +1675,18 @@
     {
       "added_at": "2023-05-19 03:00:00",
       "album": {
-        "name": "Cruzandonos",
-        "url": "https://open.spotify.com/album/5zxq4FdqVgfSXWWYVxnTTY"
+        "name": "Reflejos",
+        "url": "https://open.spotify.com/album/0XoGRPzSCkLn7MOnJn1Ngy"
       },
       "artists": [
         {
-          "name": "Rosario Serafin",
-          "url": "https://open.spotify.com/artist/68xFPvHGNPEL9g4LsdxTaM"
+          "name": "Eleg\u00eda al Atardecer",
+          "url": "https://open.spotify.com/artist/4bx2oTuOp3BSx0xlnEEzn7"
         }
       ],
-      "duration_ms": 215979,
-      "name": "Cruzandonos",
-      "url": "https://open.spotify.com/track/4zhcfWikicy2IwCj2dWr6n"
+      "duration_ms": 236916,
+      "name": "Plegarias",
+      "url": "https://open.spotify.com/track/3i3rDwcISs2Vzy32zr1Yay"
     },
     {
       "added_at": "2023-05-19 03:00:00",
@@ -1659,26 +1727,6 @@
     {
       "added_at": "2023-05-19 03:00:00",
       "album": {
-        "name": "OKAY",
-        "url": "https://open.spotify.com/album/0cT3OJcYwXfqQxiK7Qd11Q"
-      },
-      "artists": [
-        {
-          "name": "Nicol\u00e1s De Sanctis",
-          "url": "https://open.spotify.com/artist/24VZM0e1TVb0bJaZXYaPTh"
-        },
-        {
-          "name": "Chechi de Marcos",
-          "url": "https://open.spotify.com/artist/7Mxqqaq1c8KVXiVLbdGasH"
-        }
-      ],
-      "duration_ms": 226362,
-      "name": "OKAY",
-      "url": "https://open.spotify.com/track/613mJsuG0asXiIzz2cFjQE"
-    },
-    {
-      "added_at": "2023-05-19 03:00:00",
-      "album": {
         "name": "Canciones de Mal Gusto para Gente Depresiva",
         "url": "https://open.spotify.com/album/0pZmjDbReA06ma8eX6Raqx"
       },
@@ -1695,22 +1743,6 @@
     {
       "added_at": "2023-05-19 03:00:00",
       "album": {
-        "name": "Algo Tiene Que Cambiar",
-        "url": "https://open.spotify.com/album/2iKR4ZBb3NLJM0Zg8yhQvi"
-      },
-      "artists": [
-        {
-          "name": "Alan Sutton y las criaturitas de la ansiedad",
-          "url": "https://open.spotify.com/artist/3OFrGQrdXwm0UgTERW6LAV"
-        }
-      ],
-      "duration_ms": 186812,
-      "name": "La Mochila del Mundo",
-      "url": "https://open.spotify.com/track/2tch5wBhdrdAkZYuJlAdhb"
-    },
-    {
-      "added_at": "2023-05-19 03:00:00",
-      "album": {
         "name": "Deseo",
         "url": "https://open.spotify.com/album/1rsiAjtt1h6xohktk6jfHe"
       },
@@ -1723,38 +1755,6 @@
       "duration_ms": 189000,
       "name": "Deseo",
       "url": "https://open.spotify.com/track/50hyNWjdwIF9scfR90eODz"
-    },
-    {
-      "added_at": "2023-05-19 03:00:00",
-      "album": {
-        "name": "Reflejos",
-        "url": "https://open.spotify.com/album/0XoGRPzSCkLn7MOnJn1Ngy"
-      },
-      "artists": [
-        {
-          "name": "Eleg\u00eda al Atardecer",
-          "url": "https://open.spotify.com/artist/4bx2oTuOp3BSx0xlnEEzn7"
-        }
-      ],
-      "duration_ms": 236916,
-      "name": "Plegarias",
-      "url": "https://open.spotify.com/track/3i3rDwcISs2Vzy32zr1Yay"
-    },
-    {
-      "added_at": "2023-05-19 03:00:00",
-      "album": {
-        "name": "Un besito",
-        "url": "https://open.spotify.com/album/6a7Gm9RqJp1fNypiMAfL5y"
-      },
-      "artists": [
-        {
-          "name": "Ni\u00f1o Etc.",
-          "url": "https://open.spotify.com/artist/4AjkGn28sERGr75M5kcvqn"
-        }
-      ],
-      "duration_ms": 178500,
-      "name": "Un besito",
-      "url": "https://open.spotify.com/track/3Mgj1UCxUVjQ7YpSNEh0f3"
     }
   ],
   "unique_name": "mandarina",

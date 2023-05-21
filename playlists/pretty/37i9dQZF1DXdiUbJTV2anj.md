@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdiUbJTV2anj.md) - [plain]
 
 > Heavy new bands you need to have an eye on\. Cover: HotWax
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,199 likes - 55 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,278 likes - 55 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Courtney, just relax \(feat\. World Of Pleasure\)](https://open.spotify.com/track/5tX8mfhO1TJ0ItMtswEYNO) | [Static Dress](https://open.spotify.com/artist/1Lqdsv7Ff4GNq9PM3Yd0vi), [World Of Pleasure](https://open.spotify.com/artist/7kcqk3e5BlCUw41fctDQax) | [Rouge Carpet Disaster \(Redux\)](https://open.spotify.com/album/4KNlsuhwErf5tjp1qh3iCn) | 2:55 |
+| 1 | [Courtney, just relax \(feat\. World Of Pleasure\)](https://open.spotify.com/track/5tX8mfhO1TJ0ItMtswEYNO) | [Static Dress](https://open.spotify.com/artist/1Lqdsv7Ff4GNq9PM3Yd0vi), [World of Pleasure](https://open.spotify.com/artist/3SR0KKxXYspg7mJwSUsGBb) | [Rouge Carpet Disaster \(Redux\)](https://open.spotify.com/album/4KNlsuhwErf5tjp1qh3iCn) | 2:55 |
 | 2 | [Echolalia](https://open.spotify.com/track/0cXHEFaNtrgXuoBtOiaZDo) | [Faetooth](https://open.spotify.com/artist/6bAM7jeIX4pI5lZ0QoSZjt) | [Remnants of the Vessel](https://open.spotify.com/album/0LniiF1MjvYW8br5Eg7saD) | 5:06 |
 | 3 | [U L C E R](https://open.spotify.com/track/2qc0VskDDd30YhBibl8b5e) | [Spiritworld](https://open.spotify.com/artist/3nKWlekyskH6bAM2Vat1hE) | [DEATHWESTERN](https://open.spotify.com/album/2OLqIZlftkG4KRGqno7ScY) | 3:06 |
 | 4 | [Rip It Out](https://open.spotify.com/track/6FPIh5TqPtYNFUbNN4aJ4R) | [HotWax](https://open.spotify.com/artist/237mvWGlQNJJhc9b8pSawZ) | [Rip It Out](https://open.spotify.com/album/5jJ05vdKJTQCd6QMsevIEg) | 3:15 |
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdiUbJTV2anj.md) - [plain]
 | 54 | [SWOLLENTEETH](https://open.spotify.com/track/2dehX9M8cr21ggWNwkJgD7) | [Swollen Teeth](https://open.spotify.com/artist/2Q4WmCXIG2ogJ0ZYC3K4LQ) | [SWOLLENTEETH](https://open.spotify.com/album/53lOgAt8FCTfTYkOZzFnz7) | 2:59 |
 | 55 | [SAW](https://open.spotify.com/track/5plHlHptZcNkPaenanRdT1) | [Mimi Barks](https://open.spotify.com/artist/5A4P1UOSqbSvJKoi3VYlCC) | [DEADGIRL](https://open.spotify.com/album/48CPMZleL4rHMqtQN5opuV) | 2:05 |
 
-Snapshot ID: `MCw3MjdlMzIyZWJhYTYzYjMyYzUxNTg0ZTAxNjkzYzBmZmQ4NmVjZTNj`
+Snapshot ID: `MCw4MDhmMTc0OThhYjY4MzhlMjAwNDQ1YWY1YTg2M2UzYzdmMDYyOTFl`

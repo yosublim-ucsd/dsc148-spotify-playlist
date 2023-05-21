@@ -1,12 +1,12 @@
 {
   "description": "Instrumental Smooth Jazz for relaxing.",
-  "num_followers": 110706,
+  "num_followers": 111062,
   "original_name": "Smooth Jazz Chill",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiNGU0Njk4YTRjZmZlOGQ5ZTMwNWU5MzA2YjU5ZDMyYzYyN2EwZThj",
+  "snapshot_id": "MCw4NDIzNmQzNWIxOWEzOWVlZmJlNWE1ZjgxNDVjYmI3M2EyNDU5OTk2",
   "tracks": [
     {
       "added_at": "2023-05-11 22:01:00",
@@ -543,22 +543,6 @@
     {
       "added_at": "2023-05-11 22:01:00",
       "album": {
-        "name": "Whisper",
-        "url": "https://open.spotify.com/album/6DD1eTmqLTQ3v3XzVCTj8g"
-      },
-      "artists": [
-        {
-          "name": "Marion Meadows",
-          "url": "https://open.spotify.com/artist/46PWlvjKg5zNakteW1CJkG"
-        }
-      ],
-      "duration_ms": 256295,
-      "name": "Whisper",
-      "url": "https://open.spotify.com/track/69JjWeUmsarsFqxkIROVuY"
-    },
-    {
-      "added_at": "2023-05-11 22:01:00",
-      "album": {
         "name": "Can't Stop Now",
         "url": "https://open.spotify.com/album/7ro6nLa2rGHaq4muoXPSJF"
       },
@@ -587,6 +571,22 @@
       "duration_ms": 144729,
       "name": "Battery Park",
       "url": "https://open.spotify.com/track/4eT8pcYWhhcGST01XuzcKp"
+    },
+    {
+      "added_at": "2023-05-11 22:01:00",
+      "album": {
+        "name": "Whisper",
+        "url": "https://open.spotify.com/album/6DD1eTmqLTQ3v3XzVCTj8g"
+      },
+      "artists": [
+        {
+          "name": "Marion Meadows",
+          "url": "https://open.spotify.com/artist/46PWlvjKg5zNakteW1CJkG"
+        }
+      ],
+      "duration_ms": 256295,
+      "name": "Whisper",
+      "url": "https://open.spotify.com/track/69JjWeUmsarsFqxkIROVuY"
     },
     {
       "added_at": "2023-05-11 22:01:00",
@@ -723,22 +723,6 @@
     {
       "added_at": "2023-05-11 22:01:00",
       "album": {
-        "name": "Still Euge",
-        "url": "https://open.spotify.com/album/6gf9Ao9Aj6I96lgqVAzMDg"
-      },
-      "artists": [
-        {
-          "name": "Euge Groove",
-          "url": "https://open.spotify.com/artist/05UwRaoOjJPuGzCtawrORF"
-        }
-      ],
-      "duration_ms": 371773,
-      "name": "Love, Passion And Joy",
-      "url": "https://open.spotify.com/track/61vLZ0obeH8oxz68RVOQNY"
-    },
-    {
-      "added_at": "2023-05-11 22:01:00",
-      "album": {
         "name": "GK",
         "url": "https://open.spotify.com/album/4BBTNvkhpqgAItRxEHmNeu"
       },
@@ -787,22 +771,6 @@
     {
       "added_at": "2023-05-11 22:01:00",
       "album": {
-        "name": "Soul To Souls",
-        "url": "https://open.spotify.com/album/2rzjVifrHIbbSEvBIGavtb"
-      },
-      "artists": [
-        {
-          "name": "Nelson Rangell",
-          "url": "https://open.spotify.com/artist/5lFAGKb5mvPQX9on6lKC88"
-        }
-      ],
-      "duration_ms": 333880,
-      "name": "City Lights",
-      "url": "https://open.spotify.com/track/5kmQaaHOzgnzJmDpHJVtQY"
-    },
-    {
-      "added_at": "2023-05-11 22:01:00",
-      "album": {
         "name": "Porch Java",
         "url": "https://open.spotify.com/album/4sM3uDXvdN0qZ3KIrtVGGY"
       },
@@ -819,6 +787,38 @@
     {
       "added_at": "2023-05-11 22:01:00",
       "album": {
+        "name": "Still Euge",
+        "url": "https://open.spotify.com/album/6gf9Ao9Aj6I96lgqVAzMDg"
+      },
+      "artists": [
+        {
+          "name": "Euge Groove",
+          "url": "https://open.spotify.com/artist/05UwRaoOjJPuGzCtawrORF"
+        }
+      ],
+      "duration_ms": 371773,
+      "name": "Love, Passion And Joy",
+      "url": "https://open.spotify.com/track/61vLZ0obeH8oxz68RVOQNY"
+    },
+    {
+      "added_at": "2023-05-11 22:01:00",
+      "album": {
+        "name": "Soul To Souls",
+        "url": "https://open.spotify.com/album/2rzjVifrHIbbSEvBIGavtb"
+      },
+      "artists": [
+        {
+          "name": "Nelson Rangell",
+          "url": "https://open.spotify.com/artist/5lFAGKb5mvPQX9on6lKC88"
+        }
+      ],
+      "duration_ms": 333880,
+      "name": "City Lights",
+      "url": "https://open.spotify.com/track/5kmQaaHOzgnzJmDpHJVtQY"
+    },
+    {
+      "added_at": "2023-05-11 22:01:00",
+      "album": {
         "name": "Traveler",
         "url": "https://open.spotify.com/album/4lzJh3SkKDEPIwkYZmfsdO"
       },
@@ -831,6 +831,22 @@
       "duration_ms": 311322,
       "name": "Marseille",
       "url": "https://open.spotify.com/track/02zUl7lBXXNJk7JGu9YIId"
+    },
+    {
+      "added_at": "2023-05-11 22:01:00",
+      "album": {
+        "name": "Perfect Moment",
+        "url": "https://open.spotify.com/album/26mZwyn3GPRjgaRZmaCwhr"
+      },
+      "artists": [
+        {
+          "name": "Peter White",
+          "url": "https://open.spotify.com/artist/4siC0n7Bs9OzoZlB1HKquS"
+        }
+      ],
+      "duration_ms": 274466,
+      "name": "Autumn Day",
+      "url": "https://open.spotify.com/track/2w3XMjQfcfO2cS1T0xXcDu"
     },
     {
       "added_at": "2023-05-11 22:01:00",
@@ -915,18 +931,18 @@
     {
       "added_at": "2023-05-11 22:01:00",
       "album": {
-        "name": "Perfect Moment",
-        "url": "https://open.spotify.com/album/26mZwyn3GPRjgaRZmaCwhr"
+        "name": "Nightlife",
+        "url": "https://open.spotify.com/album/2EnhcAGKSkoGRFiY6xd1ke"
       },
       "artists": [
         {
-          "name": "Peter White",
-          "url": "https://open.spotify.com/artist/4siC0n7Bs9OzoZlB1HKquS"
+          "name": "Avenue Blue (Featuring Jeff Golub)",
+          "url": "https://open.spotify.com/artist/2TQGAlirZ6ePbgec2TvLK9"
         }
       ],
-      "duration_ms": 274466,
-      "name": "Autumn Day",
-      "url": "https://open.spotify.com/track/2w3XMjQfcfO2cS1T0xXcDu"
+      "duration_ms": 299640,
+      "name": "Always There (feat. Jeff Golub)",
+      "url": "https://open.spotify.com/track/4o8cUnppGWSjA5gkZXi52N"
     },
     {
       "added_at": "2023-05-11 22:01:00",
@@ -947,22 +963,6 @@
     {
       "added_at": "2023-05-11 22:01:00",
       "album": {
-        "name": "Nightlife",
-        "url": "https://open.spotify.com/album/2EnhcAGKSkoGRFiY6xd1ke"
-      },
-      "artists": [
-        {
-          "name": "Avenue Blue (Featuring Jeff Golub)",
-          "url": "https://open.spotify.com/artist/2TQGAlirZ6ePbgec2TvLK9"
-        }
-      ],
-      "duration_ms": 299640,
-      "name": "Always There (feat. Jeff Golub)",
-      "url": "https://open.spotify.com/track/4o8cUnppGWSjA5gkZXi52N"
-    },
-    {
-      "added_at": "2023-05-11 22:01:00",
-      "album": {
         "name": "Looking Up",
         "url": "https://open.spotify.com/album/7lHBtSn2hMlubVBTXn8e0y"
       },
@@ -979,22 +979,6 @@
     {
       "added_at": "2023-05-11 22:01:00",
       "album": {
-        "name": "Can't Stop Now",
-        "url": "https://open.spotify.com/album/7ro6nLa2rGHaq4muoXPSJF"
-      },
-      "artists": [
-        {
-          "name": "Vincent Ingala",
-          "url": "https://open.spotify.com/artist/1tPdDNZNPVa7NOQ6S0A5x7"
-        }
-      ],
-      "duration_ms": 262800,
-      "name": "Read Between the Lines",
-      "url": "https://open.spotify.com/track/2RtFmibwUwhyL9n48yuYfY"
-    },
-    {
-      "added_at": "2023-05-11 22:01:00",
-      "album": {
         "name": "Send One Your Love",
         "url": "https://open.spotify.com/album/7g5WWkH9quZp6S3lxDBCV6"
       },
@@ -1007,6 +991,22 @@
       "duration_ms": 226173,
       "name": "Touch",
       "url": "https://open.spotify.com/track/09mcJo5V6ZODKYybdYzgaW"
+    },
+    {
+      "added_at": "2023-05-11 22:01:00",
+      "album": {
+        "name": "Can't Stop Now",
+        "url": "https://open.spotify.com/album/7ro6nLa2rGHaq4muoXPSJF"
+      },
+      "artists": [
+        {
+          "name": "Vincent Ingala",
+          "url": "https://open.spotify.com/artist/1tPdDNZNPVa7NOQ6S0A5x7"
+        }
+      ],
+      "duration_ms": 262800,
+      "name": "Read Between the Lines",
+      "url": "https://open.spotify.com/track/2RtFmibwUwhyL9n48yuYfY"
     },
     {
       "added_at": "2023-05-11 22:01:00",
@@ -1235,18 +1235,18 @@
     {
       "added_at": "2023-05-11 22:01:00",
       "album": {
-        "name": "Smooth Jazz Radio Hits Volume Two",
-        "url": "https://open.spotify.com/album/7u2GRdrA01HH059EROR9uS"
+        "name": "Euge Groove",
+        "url": "https://open.spotify.com/album/2r10VaddyCNK8eXQOmSNHG"
       },
       "artists": [
         {
-          "name": "Gota",
-          "url": "https://open.spotify.com/artist/1kxc4wfA8JEm5D6xHTxXCZ"
+          "name": "Euge Groove",
+          "url": "https://open.spotify.com/artist/05UwRaoOjJPuGzCtawrORF"
         }
       ],
-      "duration_ms": 216293,
-      "name": "In The City Life",
-      "url": "https://open.spotify.com/track/4l5uxmrBy57ccTRyF8K1lJ"
+      "duration_ms": 269573,
+      "name": "Vinyl",
+      "url": "https://open.spotify.com/track/2q2kwEh9flpSMwwqpPYCC3"
     },
     {
       "added_at": "2023-05-11 22:01:00",
@@ -1267,6 +1267,22 @@
     {
       "added_at": "2023-05-11 22:01:00",
       "album": {
+        "name": "Smooth Jazz Radio Hits Volume Two",
+        "url": "https://open.spotify.com/album/7u2GRdrA01HH059EROR9uS"
+      },
+      "artists": [
+        {
+          "name": "Gota",
+          "url": "https://open.spotify.com/artist/1kxc4wfA8JEm5D6xHTxXCZ"
+        }
+      ],
+      "duration_ms": 216293,
+      "name": "In The City Life",
+      "url": "https://open.spotify.com/track/4l5uxmrBy57ccTRyF8K1lJ"
+    },
+    {
+      "added_at": "2023-05-11 22:01:00",
+      "album": {
         "name": "Listen",
         "url": "https://open.spotify.com/album/1w8CYaO0C4L3H9BNZsPHgL"
       },
@@ -1279,22 +1295,6 @@
       "duration_ms": 308346,
       "name": "Love To All",
       "url": "https://open.spotify.com/track/3JixMzROP010wvqclHnxr2"
-    },
-    {
-      "added_at": "2023-05-11 22:01:00",
-      "album": {
-        "name": "Euge Groove",
-        "url": "https://open.spotify.com/album/2r10VaddyCNK8eXQOmSNHG"
-      },
-      "artists": [
-        {
-          "name": "Euge Groove",
-          "url": "https://open.spotify.com/artist/05UwRaoOjJPuGzCtawrORF"
-        }
-      ],
-      "duration_ms": 269573,
-      "name": "Vinyl",
-      "url": "https://open.spotify.com/track/2q2kwEh9flpSMwwqpPYCC3"
     },
     {
       "added_at": "2023-05-11 22:01:00",
@@ -1367,22 +1367,6 @@
     {
       "added_at": "2023-05-11 22:01:00",
       "album": {
-        "name": "Inside Out",
-        "url": "https://open.spotify.com/album/1DU7S0sd2bxh62puU2vPHi"
-      },
-      "artists": [
-        {
-          "name": "Dan Siegel",
-          "url": "https://open.spotify.com/artist/0TknnwW9imlXjnjxfHcvFd"
-        }
-      ],
-      "duration_ms": 332920,
-      "name": "Inside Out",
-      "url": "https://open.spotify.com/track/4fhmc1aqLwQuvd3gAyZONN"
-    },
-    {
-      "added_at": "2023-05-11 22:01:00",
-      "album": {
         "name": "It's All Good",
         "url": "https://open.spotify.com/album/6nBoSSW00HlPus31F5CZYr"
       },
@@ -1395,6 +1379,22 @@
       "duration_ms": 277840,
       "name": "Saturday Cool",
       "url": "https://open.spotify.com/track/7gqQ4b0NnmlLoN2Hp8SkjK"
+    },
+    {
+      "added_at": "2023-05-11 22:01:00",
+      "album": {
+        "name": "Inside Out",
+        "url": "https://open.spotify.com/album/1DU7S0sd2bxh62puU2vPHi"
+      },
+      "artists": [
+        {
+          "name": "Dan Siegel",
+          "url": "https://open.spotify.com/artist/0TknnwW9imlXjnjxfHcvFd"
+        }
+      ],
+      "duration_ms": 332920,
+      "name": "Inside Out",
+      "url": "https://open.spotify.com/track/4fhmc1aqLwQuvd3gAyZONN"
     },
     {
       "added_at": "2023-05-11 22:01:00",
@@ -1419,38 +1419,6 @@
     {
       "added_at": "2023-05-11 22:01:00",
       "album": {
-        "name": "Bliss",
-        "url": "https://open.spotify.com/album/6HSCZiP4hxorBB2gOIQlxe"
-      },
-      "artists": [
-        {
-          "name": "Cindy Bradley",
-          "url": "https://open.spotify.com/artist/5qiEZz19psMDf9UPQUao4J"
-        }
-      ],
-      "duration_ms": 262666,
-      "name": "Lost and Found",
-      "url": "https://open.spotify.com/track/71cTTSVVkCmbIJ04Kl5jgg"
-    },
-    {
-      "added_at": "2023-05-11 22:01:00",
-      "album": {
-        "name": "For Your Pleasure",
-        "url": "https://open.spotify.com/album/0rHJ7WovNY23g8QRKHCUMw"
-      },
-      "artists": [
-        {
-          "name": "Walter Beasley",
-          "url": "https://open.spotify.com/artist/6tBzJqpqRAPyJFR4Rq0yBP"
-        }
-      ],
-      "duration_ms": 258398,
-      "name": "I Feel You",
-      "url": "https://open.spotify.com/track/5yqw56hswQdEZofRcIOUhd"
-    },
-    {
-      "added_at": "2023-05-11 22:01:00",
-      "album": {
         "name": "Born 2 Groove",
         "url": "https://open.spotify.com/album/3h9WV3wAi4Hkh0UCizuu3l"
       },
@@ -1467,6 +1435,22 @@
     {
       "added_at": "2023-05-11 22:01:00",
       "album": {
+        "name": "Bliss",
+        "url": "https://open.spotify.com/album/6HSCZiP4hxorBB2gOIQlxe"
+      },
+      "artists": [
+        {
+          "name": "Cindy Bradley",
+          "url": "https://open.spotify.com/artist/5qiEZz19psMDf9UPQUao4J"
+        }
+      ],
+      "duration_ms": 262666,
+      "name": "Lost and Found",
+      "url": "https://open.spotify.com/track/71cTTSVVkCmbIJ04Kl5jgg"
+    },
+    {
+      "added_at": "2023-05-11 22:01:00",
+      "album": {
         "name": "Celebration",
         "url": "https://open.spotify.com/album/017sfmPLIwMa1r0hpgDnLy"
       },
@@ -1479,6 +1463,22 @@
       "duration_ms": 305306,
       "name": "Together At Last",
       "url": "https://open.spotify.com/track/2aEyRqY48LbMzHiNAvwoQK"
+    },
+    {
+      "added_at": "2023-05-11 22:01:00",
+      "album": {
+        "name": "For Your Pleasure",
+        "url": "https://open.spotify.com/album/0rHJ7WovNY23g8QRKHCUMw"
+      },
+      "artists": [
+        {
+          "name": "Walter Beasley",
+          "url": "https://open.spotify.com/artist/6tBzJqpqRAPyJFR4Rq0yBP"
+        }
+      ],
+      "duration_ms": 258398,
+      "name": "I Feel You",
+      "url": "https://open.spotify.com/track/5yqw56hswQdEZofRcIOUhd"
     },
     {
       "added_at": "2023-05-11 22:01:00",
@@ -1515,18 +1515,18 @@
     {
       "added_at": "2023-05-11 22:01:00",
       "album": {
-        "name": "In The Moment",
-        "url": "https://open.spotify.com/album/05h8p9mEdqwTApYGtR66Q6"
+        "name": "Sweet Thing",
+        "url": "https://open.spotify.com/album/1we21be2R4o56iwheyKMxE"
       },
       "artists": [
         {
-          "name": "Everette Harp",
-          "url": "https://open.spotify.com/artist/7LQBzOrln4d4D5EVAKK7LZ"
+          "name": "Boney James",
+          "url": "https://open.spotify.com/artist/1sBRcMH8DDR8Nsk2RoJmjS"
         }
       ],
-      "duration_ms": 325373,
-      "name": "Night Calls",
-      "url": "https://open.spotify.com/track/1VNSWg6Z0X0lPyBlCqVD7I"
+      "duration_ms": 314760,
+      "name": "It's All Good",
+      "url": "https://open.spotify.com/track/1aXysFRgZfghWtgteEVQIz"
     },
     {
       "added_at": "2023-05-11 22:01:00",
@@ -1551,18 +1551,18 @@
     {
       "added_at": "2023-05-11 22:01:00",
       "album": {
-        "name": "Sweet Thing",
-        "url": "https://open.spotify.com/album/1we21be2R4o56iwheyKMxE"
+        "name": "In The Moment",
+        "url": "https://open.spotify.com/album/05h8p9mEdqwTApYGtR66Q6"
       },
       "artists": [
         {
-          "name": "Boney James",
-          "url": "https://open.spotify.com/artist/1sBRcMH8DDR8Nsk2RoJmjS"
+          "name": "Everette Harp",
+          "url": "https://open.spotify.com/artist/7LQBzOrln4d4D5EVAKK7LZ"
         }
       ],
-      "duration_ms": 314760,
-      "name": "It's All Good",
-      "url": "https://open.spotify.com/track/1aXysFRgZfghWtgteEVQIz"
+      "duration_ms": 325373,
+      "name": "Night Calls",
+      "url": "https://open.spotify.com/track/1VNSWg6Z0X0lPyBlCqVD7I"
     },
     {
       "added_at": "2023-05-11 22:01:00",

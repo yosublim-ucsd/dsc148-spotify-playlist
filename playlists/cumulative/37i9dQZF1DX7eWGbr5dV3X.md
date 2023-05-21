@@ -4,7 +4,7 @@
 
 > Celebrate, amplify, and support LGBTQ+ API musicians\. Cover: Deb Never.
 
-81 songs - 4 hr 32 min
+82 songs - 4 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,7 +38,7 @@
 | [Hyperdome](https://open.spotify.com/track/47z3fqsE7tSXGkFFCzNaFH) | [SuperKnova](https://open.spotify.com/artist/7om8BpNIYHtacdW2rDVHuD) | [Hyperdome](https://open.spotify.com/album/4WQ745zAz9eRVRVDMBk4IE) | 3:13 | 2023-04-28 |  |
 | [I Won't Envy 2.0](https://open.spotify.com/track/5JSf63q1rGXbCzn2HbtmpY) | [Vivek Shraya](https://open.spotify.com/artist/0LBvYwhPCb8BxAqRi6ewNK) | [I Won't Envy 2.0](https://open.spotify.com/album/0JheY5BmWW4pAisFjXQHwN) | 3:40 | 2022-05-02 |  |
 | [I'll Be There \- From "The Good Son"](https://open.spotify.com/track/4x4NdH4DJuVvYg59ST0S3E) | [Jake Zyrus](https://open.spotify.com/artist/6hIZBf6t4Yy8Lrqj7vPYTr) | [Evolution](https://open.spotify.com/album/4gjdSVhtiLFW5nkBoHSUHd) | 4:12 | 2021-06-04 | 2022-05-03 |
-| [I'm Alright](https://open.spotify.com/track/2k1R9dCYOEWKn4ZV6Tk8HD) | [LEADR](https://open.spotify.com/artist/5MBtoGEv50nmq08tb3y38v) | [My Way](https://open.spotify.com/album/3LOID2hbE7cWAkTpZBK0Tw) | 3:14 | 2022-08-25 |  |
+| [I'm Alright](https://open.spotify.com/track/2k1R9dCYOEWKn4ZV6Tk8HD) | [LEADR](https://open.spotify.com/artist/5MBtoGEv50nmq08tb3y38v) | [My Way](https://open.spotify.com/album/3LOID2hbE7cWAkTpZBK0Tw) | 3:14 | 2022-08-25 | 2023-05-21 |
 | [I'm Alright](https://open.spotify.com/track/3a4RFjxPCttnbX5jgKxUuR) | [LEADR](https://open.spotify.com/artist/5MBtoGEv50nmq08tb3y38v) | [I'm Alright](https://open.spotify.com/album/0021hkIWKyizFTcZepAUfe) | 3:14 | 2022-05-02 | 2022-10-24 |
 | [I'm Not Afraid](https://open.spotify.com/track/3mPH0blHMOPAjSkEKOUQd2) | [Holland](https://open.spotify.com/artist/3PA9tXcZqiaBXwopM9GPZP) | [I'm Not Afraid](https://open.spotify.com/album/54I8DXkxj9xdLqIf4Uabhd) | 3:41 | 2021-06-04 | 2022-12-03 |
 | [I'm Not Afraid](https://open.spotify.com/track/5cZfED0afMx5GyoaE99126) | [Holland](https://open.spotify.com/artist/3PA9tXcZqiaBXwopM9GPZP) | [I'm Not Afraid](https://open.spotify.com/album/1DU15BJPvPQxgFGtRMdLf2) | 3:41 | 2022-08-25 |  |
@@ -83,6 +83,7 @@
 | [Sunkissed](https://open.spotify.com/track/34RmzDXMv0ELSQTK4pNvX3) | [khai dreams](https://open.spotify.com/artist/0lawSNBxNgJFQYJnQzLH8c) | [Now and Then](https://open.spotify.com/album/4rfUHJjRb1Ywh0Gg8SEUcA) | 2:06 | 2022-08-25 |  |
 | [Through and Through](https://open.spotify.com/track/4RHyIzFRht2z17XeHB9dsF) | [khai dreams](https://open.spotify.com/artist/0lawSNBxNgJFQYJnQzLH8c) | [Through and Through](https://open.spotify.com/album/4XFLe5UctzhaJNgOA4Pi4H) | 1:53 | 2021-06-04 | 2022-05-03 |
 | [Tweety](https://open.spotify.com/track/2NDMLu8ZNrAsAsPAoW5VOx) | [Raveena](https://open.spotify.com/artist/2kQnsbKnIiMahOetwlfcaS) | [Tweety](https://open.spotify.com/album/275j6uhDFzJkQZEaRcZZ0T) | 3:52 | 2021-06-04 |  |
+| [U SAID!](https://open.spotify.com/track/3S2FcwSlUhob3FAdHgDwWc) | [Ray Laurél](https://open.spotify.com/artist/7gW3GsnBSoT6q9YQUstlzA) | [TEMPTRESS](https://open.spotify.com/album/1M6P5oEDwt2pcnnWVsxGPo) | 2:07 | 2023-05-19 |  |
 | [Weekend](https://open.spotify.com/track/0XoRbQwHULyjf0tO1S9abf) | [Emily Vu](https://open.spotify.com/artist/3t3oOB1GYe4PFV2X6D29NS) | [Weekend](https://open.spotify.com/album/3EcOE2h7DHr5m6IaALejAs) | 2:46 | 2021-06-04 |  |
 | [What Happened, Happened](https://open.spotify.com/track/2Ck8r31kURBqC7K2G9lLBo) | [Emily Vu](https://open.spotify.com/artist/3t3oOB1GYe4PFV2X6D29NS) | [What Happened, Happened](https://open.spotify.com/album/38Vulf6o5aVnrQae85FmOZ) | 3:04 | 2021-06-04 |  |
 | [What I Need \(feat\. Kehlani\)](https://open.spotify.com/track/5nFyaoBWwwMJ9fv33tZ2MB) | [Hayley Kiyoko](https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN), [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [Expectations](https://open.spotify.com/album/2oRkkW6ZudviRBd6mx4CfL) | 3:39 | 2021-06-04 | 2022-05-03 |

@@ -4,7 +4,7 @@
 
 > Illuminating Asian artists everywhere\. Cover: Katherine Li.
 
-450 songs - 23 hr 31 min
+452 songs - 23 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -267,7 +267,7 @@
 | [Merry Midnight](https://open.spotify.com/track/2kSyqQJiVkF8H7huIDq0aH) | [Numcha](https://open.spotify.com/artist/6bguntfj9ZnX1lFvSYl72d), [Tseng Kuo Hung](https://open.spotify.com/artist/0Ib2ZUmA8BXyCP18UZd8xP) | [Merry Midnight](https://open.spotify.com/album/6I1rQClRttJ92IGbZsO8W4) | 4:29 | 2022-08-19 | 2022-09-19 |
 | [Merry Midnight](https://open.spotify.com/track/6qR09FJQiF8We0qtsjMK5Y) | [Numcha](https://open.spotify.com/artist/6bguntfj9ZnX1lFvSYl72d), [Tseng Kuo Hung](https://open.spotify.com/artist/0Ib2ZUmA8BXyCP18UZd8xP) | [Bloom](https://open.spotify.com/album/18RDnaVusM3sD5chVIUFzh) | 4:29 | 2022-11-18 | 2023-01-14 |
 | [Messy Sexy](https://open.spotify.com/track/4BetQSsVmncssPQ6aHmV3B) | [Su Lee](https://open.spotify.com/artist/3deduluMry0ZIGWF673gfK) | [Messy Sexy](https://open.spotify.com/album/3oEpZOlOvjv2wVPmdcIXBE) | 2:55 | 2022-10-07 | 2022-10-30 |
-| [Metamorphosis](https://open.spotify.com/track/3RS6yYUhrAbxdHm2vALIwv) | [MILCK](https://open.spotify.com/artist/62lirbb6qJs4VOGpdCNHK8) | [Metamorphosis](https://open.spotify.com/album/6Bee4WtLGFdXUA1ylcBNZn) | 3:23 | 2023-03-18 |  |
+| [Metamorphosis](https://open.spotify.com/track/3RS6yYUhrAbxdHm2vALIwv) | [MILCK](https://open.spotify.com/artist/62lirbb6qJs4VOGpdCNHK8) | [Metamorphosis](https://open.spotify.com/album/6Bee4WtLGFdXUA1ylcBNZn) | 3:23 | 2023-03-18 | 2023-05-21 |
 | [METROPOLIS](https://open.spotify.com/track/5dGvEzPIFn5BVuGBmqBiqy) | [Stirfryboyz](https://open.spotify.com/artist/7kNe1jhO48NAEm4WhuOSqr), [Forrest Green](https://open.spotify.com/artist/3IGwWu3S86O6cSgDroSWFz), [Taebz](https://open.spotify.com/artist/5L6UHAq53G5zTorqTxO9Pk), [Leon Zhang](https://open.spotify.com/artist/7CaidoXFHnet3ANycYujvP) | [METROPOLIS](https://open.spotify.com/album/7wqkuWjJNleM3X3lgY9fvU) | 3:45 | 2022-05-27 | 2022-07-29 |
 | [MIC CHECK!](https://open.spotify.com/track/5uBavTE4TEJsd2haTboEHO) | [Shawn Mathews](https://open.spotify.com/artist/3MkpsN5uQhUMT9EMV1LgYL) | [MIC CHECK!](https://open.spotify.com/album/2HwieedpCxNQ5lxw6htbFR) | 3:11 | 2022-06-03 | 2022-07-19 |
 | [Miss Me Too](https://open.spotify.com/track/3BxbORnLyAri7AhJS8a2G1) | [Katherine Li](https://open.spotify.com/artist/6C7CCNJVIGEla8AI1LuBxI) | [Crush\(ed\)](https://open.spotify.com/album/1ywjVKTQbH3wRO6EwFbbEG) | 2:30 | 2022-10-21 | 2023-02-16 |
@@ -369,7 +369,7 @@
 | [Spirits](https://open.spotify.com/track/60T49w6pqDRRVJQ2hWUd1c) | [Sylo](https://open.spotify.com/artist/0QitJHI0ZwMa5F9TR6EYSl) | [Spirits](https://open.spotify.com/album/546Fl3Gns3Fttgm5bdRO1Y) | 3:14 | 2022-05-27 | 2022-06-25 |
 | [Splinter](https://open.spotify.com/track/4iKfmaKGc59LZXQNK7nAgf) | [FIG](https://open.spotify.com/artist/2pKRCZKuL3p3PDWMNCLAH8) | [Splinter](https://open.spotify.com/album/5xQJYeIxVY2xJngtdtGz11) | 2:47 | 2022-08-26 | 2022-12-17 |
 | [Split](https://open.spotify.com/track/7AE1oyRpPGoSwDs8b9XBO0) | [88rising](https://open.spotify.com/artist/1AhjOkOLkbHUfcHDSErXQs), [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [Split](https://open.spotify.com/album/7uAHGGN6s8u1BwkA3uKYiQ) | 3:27 | 2022-05-27 |  |
-| [SPOILED BITCH](https://open.spotify.com/track/3agccBcICCxc1WWkG3XuvE) | [Tiffany Day](https://open.spotify.com/artist/5D5Qbe1lf3aMnLsPSzXItu) | [SPOILED BITCH](https://open.spotify.com/album/7lxXHaz0xtxwWxMZn0GN53) | 2:20 | 2022-05-27 |  |
+| [SPOILED BITCH](https://open.spotify.com/track/3agccBcICCxc1WWkG3XuvE) | [Tiffany Day](https://open.spotify.com/artist/5D5Qbe1lf3aMnLsPSzXItu) | [SPOILED BITCH](https://open.spotify.com/album/7lxXHaz0xtxwWxMZn0GN53) | 2:20 | 2022-05-27 | 2023-05-21 |
 | [star](https://open.spotify.com/track/24EvuUgZjXDuZiEaC806TG) | [she loves boon](https://open.spotify.com/artist/6is8aeGtatwbYEiamvsp23) | [star](https://open.spotify.com/album/6jyL2W13lASK3XF2AYlSBI) | 1:55 | 2023-03-18 |  |
 | [Starbright \(Elephante Remix\)](https://open.spotify.com/track/6PJkaKTuQGaV2d58gLBT30) | [Dabin](https://open.spotify.com/artist/7lZauDnRoAC3kmaYae2opv), [Trella](https://open.spotify.com/artist/4YpLN8ZByubASuWnxWokRT), [Elephante](https://open.spotify.com/artist/3fjs4zbBFxEFFe8Wyojo0G) | [Between Broken \(Remixes\)](https://open.spotify.com/album/1MAQMXIZykkJ62jdQpA3xH) | 3:42 | 2022-07-22 | 2022-09-24 |
 | [Stay Alive \(Prod\. SUGA of BTS\)](https://open.spotify.com/track/7CAdT0HdiQNlt1C7xk2hep) | [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc) | [Stay Alive \(Prod\. SUGA of BTS\)](https://open.spotify.com/album/6nvSZLAsbg56fGSCVm8fL9) | 3:30 | 2022-05-27 |  |
@@ -415,6 +415,7 @@
 | [Turbo](https://open.spotify.com/track/6muijR8MRpGebvqYGirdnH) | [MANILA GREY](https://open.spotify.com/artist/7KC9q5wx0bxMD5ABgLCoEd), [Arthur Nery](https://open.spotify.com/artist/7uDdl5V5AETSFY7K3muu22) | [Turbo](https://open.spotify.com/album/3ba4FMtjRWo1fOlBv6XEPh) | 3:42 | 2023-04-14 |  |
 | [Tweety](https://open.spotify.com/track/2NDMLu8ZNrAsAsPAoW5VOx) | [Raveena](https://open.spotify.com/artist/2kQnsbKnIiMahOetwlfcaS) | [Tweety](https://open.spotify.com/album/275j6uhDFzJkQZEaRcZZ0T) | 3:52 | 2022-05-27 | 2022-08-27 |
 | [u & i](https://open.spotify.com/track/3SOaGw8GfOkOj3Ov2D4VbQ) | [James Reid](https://open.spotify.com/artist/24fEOzlKhgSNLIcy9NdmwH), [CARELESS](https://open.spotify.com/artist/6ZPADYpgSS0VwqZPJeX54p) | [u & i](https://open.spotify.com/album/3zXkOuXhjixpnmlavumXDh) | 3:03 | 2022-10-07 |  |
+| [U SAID!](https://open.spotify.com/track/3S2FcwSlUhob3FAdHgDwWc) | [Ray Laurél](https://open.spotify.com/artist/7gW3GsnBSoT6q9YQUstlzA) | [TEMPTRESS](https://open.spotify.com/album/1M6P5oEDwt2pcnnWVsxGPo) | 2:07 | 2023-05-19 |  |
 | [Uncomfortable](https://open.spotify.com/track/0JDLR0RGTSw0KDkn6r4oEz) | [YDE](https://open.spotify.com/artist/1evuFyLdwoIOIrYxMUfnWW) | [SEND HELP](https://open.spotify.com/album/7pcDzQ0QM54XXOqZf6BmSt) | 2:54 | 2022-09-16 | 2022-09-24 |
 | [universe \(DTB Remix\) \- Spotify Singles](https://open.spotify.com/track/3VgbUDt8Vz6RwcRRzjJ3xB) | [thuy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a) | [Spotify Singles](https://open.spotify.com/album/4UNBwrJ55qL75iEqepbIOR) | 3:01 | 2022-05-27 | 2022-08-22 |
 | [van gogh](https://open.spotify.com/track/4bLCfhmTsNuZo3oQXviIA7) | [lullaboy](https://open.spotify.com/artist/7zrkFhYAp6dBxsydmJkouN) | [van gogh](https://open.spotify.com/album/0Bnp7EKyjTpMfezafM4wHi) | 2:53 | 2023-02-20 |  |
@@ -445,6 +446,7 @@
 | [You](https://open.spotify.com/track/52INmBPUsLUQ6to3WnGWUm) | [Armaan Malik](https://open.spotify.com/artist/4IKVDbCSBTxBeAsMKjAuTs) | [You](https://open.spotify.com/album/2jjveyg1Fb0Pf6wfnTOGg4) | 3:14 | 2022-05-27 |  |
 | [You](https://open.spotify.com/track/05zKUkJCx09zN4RfHHYG94) | [H 3 F](https://open.spotify.com/artist/6jIK3obS1fJqb3Vu74AYX3) | [You](https://open.spotify.com/album/6RAGRnaFCd8sAA7XIBmXP5) | 3:33 | 2022-07-22 | 2022-09-10 |
 | [You Are \(feat\. Corinne Bailey Rae & UMI\)](https://open.spotify.com/track/3f0SgNOjVjUW7BTv79WgX3) | [Smoko Ono](https://open.spotify.com/artist/5ISXAUt037t6aYhvewRtzd), [Corinne Bailey Rae](https://open.spotify.com/artist/29WzbAQtDnBJF09es0uddn), [UMI](https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde) | [You Are \(feat\. Corinne Bailey Rae & UMI\)](https://open.spotify.com/album/75evbAxtFFu951JESaYEyM) | 3:57 | 2022-05-27 | 2022-08-27 |
+| [you don't like me like that](https://open.spotify.com/track/3OPyobYAM5MgTm35AJV99O) | [Zeph](https://open.spotify.com/artist/502gYHkFCtLzBIcU4ctPLd) | [you don't like me like that](https://open.spotify.com/album/35YQAprIaYWKCWtr7iS5UT) | 2:35 | 2023-05-19 |  |
 | [you won't be there for me](https://open.spotify.com/track/0jaHnvdrguukJipydAJWq2) | [slchld](https://open.spotify.com/artist/33crDRqANd3NQHJagZkQ7O) | [you won't be there for me](https://open.spotify.com/album/46b5idgTzsGq3urqSkbkEa) | 3:02 | 2023-03-10 |  |
 | [you won't be there for me](https://open.spotify.com/track/7vwhqiIfU8HqXhNgyy8ubR) | [slchld](https://open.spotify.com/artist/33crDRqANd3NQHJagZkQ7O) | [you won't be there for me](https://open.spotify.com/album/16ZA1WX64YWVXiun8tP8n5) | 3:02 | 2022-05-27 | 2023-03-18 |
 | [You'll Be In My Heart \- Spotify Singles](https://open.spotify.com/track/37mbA1RwYja7WFaIOzSczX) | [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [Spotify Singles](https://open.spotify.com/album/5F6IRzJZGzLGb8R0GDMKSz) | 4:01 | 2022-09-16 |  |

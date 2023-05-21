@@ -1,12 +1,12 @@
 {
   "description": "slow burners for late nights",
-  "num_followers": 924034,
+  "num_followers": 924147,
   "original_name": "late night vibes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4ZDMzYmQ3NjY3Mjc1MjEzOWU1Njg3ODQ4ODIxYjk2ZmU4NzU2ZGRl",
+  "snapshot_id": "MCwxNmY4NDNmMGMwZDQyNjU4YzQ5YmMwNWE0MGFmNjc5Mjg0ZjQ1YjQ5",
   "tracks": [
     {
       "added_at": "2023-04-25 20:43:50",
@@ -1471,22 +1471,6 @@
     {
       "added_at": "2023-04-25 20:43:50",
       "album": {
-        "name": "Valencia",
-        "url": "https://open.spotify.com/album/3VQysw3feitddUUw8Y7uAk"
-      },
-      "artists": [
-        {
-          "name": "Yeek",
-          "url": "https://open.spotify.com/artist/5BhFZpE8kUGZJiKOsYjLQM"
-        }
-      ],
-      "duration_ms": 128360,
-      "name": "Lumbago",
-      "url": "https://open.spotify.com/track/0DIgltOMdzrEWAMoe7ayZ6"
-    },
-    {
-      "added_at": "2023-04-25 20:43:50",
-      "album": {
         "name": "Why (Spare Me Tears)",
         "url": "https://open.spotify.com/album/2ZvAaqvOosY2dLtq35C8NM"
       },
@@ -1499,22 +1483,6 @@
       "duration_ms": 205229,
       "name": "Why (Spare Me Tears)",
       "url": "https://open.spotify.com/track/6IGHR5Ei4cFvcxwg22PAKB"
-    },
-    {
-      "added_at": "2023-04-25 20:43:50",
-      "album": {
-        "name": "Spider",
-        "url": "https://open.spotify.com/album/4w42UNeqts8JN3uSW6O2A9"
-      },
-      "artists": [
-        {
-          "name": "Kai Bosch",
-          "url": "https://open.spotify.com/artist/6NvsbUgzHkjZK3ZUEWui41"
-        }
-      ],
-      "duration_ms": 241989,
-      "name": "Spider",
-      "url": "https://open.spotify.com/track/5K2Pxa2zSpIk2ROgRa9jUc"
     },
     {
       "added_at": "2023-04-25 20:43:50",
@@ -1547,6 +1515,38 @@
       "duration_ms": 240493,
       "name": "Meet the Frownies",
       "url": "https://open.spotify.com/track/3DZfp14PTnqbFToBnCztfW"
+    },
+    {
+      "added_at": "2023-04-25 20:43:50",
+      "album": {
+        "name": "Valencia",
+        "url": "https://open.spotify.com/album/3VQysw3feitddUUw8Y7uAk"
+      },
+      "artists": [
+        {
+          "name": "Yeek",
+          "url": "https://open.spotify.com/artist/5BhFZpE8kUGZJiKOsYjLQM"
+        }
+      ],
+      "duration_ms": 128360,
+      "name": "Lumbago",
+      "url": "https://open.spotify.com/track/0DIgltOMdzrEWAMoe7ayZ6"
+    },
+    {
+      "added_at": "2023-04-25 20:43:50",
+      "album": {
+        "name": "Spider",
+        "url": "https://open.spotify.com/album/4w42UNeqts8JN3uSW6O2A9"
+      },
+      "artists": [
+        {
+          "name": "Kai Bosch",
+          "url": "https://open.spotify.com/artist/6NvsbUgzHkjZK3ZUEWui41"
+        }
+      ],
+      "duration_ms": 241989,
+      "name": "Spider",
+      "url": "https://open.spotify.com/track/5K2Pxa2zSpIk2ROgRa9jUc"
     },
     {
       "added_at": "2023-04-25 20:43:50",
@@ -1635,22 +1635,6 @@
     {
       "added_at": "2023-04-25 20:43:50",
       "album": {
-        "name": "A Violent Dichotomy",
-        "url": "https://open.spotify.com/album/5kKivJoHCGybHPa0HZRqQt"
-      },
-      "artists": [
-        {
-          "name": "LUCIUS ARTHUR",
-          "url": "https://open.spotify.com/artist/67vICzj4HQ8LayBYXqF5YD"
-        }
-      ],
-      "duration_ms": 255113,
-      "name": "Bad Habit",
-      "url": "https://open.spotify.com/track/6gRdiHPSPWUfzqlY3AIxcO"
-    },
-    {
-      "added_at": "2023-04-25 20:43:50",
-      "album": {
         "name": "Thee Sacred Souls",
         "url": "https://open.spotify.com/album/6ofJrAZaaX0iWTXYXObUxE"
       },
@@ -1679,6 +1663,22 @@
       "duration_ms": 217373,
       "name": "Fire",
       "url": "https://open.spotify.com/track/2lBEWXP11gpEySIXgA5ALH"
+    },
+    {
+      "added_at": "2023-04-25 20:43:50",
+      "album": {
+        "name": "Process",
+        "url": "https://open.spotify.com/album/4fRcYn1zNOHY5LJXuRmJHI"
+      },
+      "artists": [
+        {
+          "name": "Sampha",
+          "url": "https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm"
+        }
+      ],
+      "duration_ms": 218160,
+      "name": "(No One Knows Me) Like the Piano",
+      "url": "https://open.spotify.com/track/3D1VUmjj0IlhdHqGConc7C"
     }
   ],
   "unique_name": "late night vibes",

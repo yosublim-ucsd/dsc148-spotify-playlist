@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Wvd8VINtcF.md) - [plain]
 
 > the pearls of an oyster.
 
-[Spotify](https://open.spotify.com/user/spotify) - 121,579 likes - 100 songs - 5 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 121,583 likes - 100 songs - 5 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Wvd8VINtcF.md) - [plain]
 | 99 | [UNDERSTAND \(feat\. Baby Rose\)](https://open.spotify.com/track/1RHob2sw5X81Ukn4BYPbmF) | [Q](https://open.spotify.com/artist/22vqVhfPJab5kkU9txDGX3), [Baby Rose](https://open.spotify.com/artist/6Z4JcgqrqgysyHIPRtDIHo) | [UNDERSTAND](https://open.spotify.com/album/6DQ6LpJlvhoamE6Qg6plAX) | 4:03 |
 | 100 | [Renegade](https://open.spotify.com/track/3SqMnzlS5KPE7wFFF4wBWa) | [Lava La Rue](https://open.spotify.com/artist/271bbpX3pdCi56ZJA1jQ43) | [Renegade](https://open.spotify.com/album/05yGOGCNiN4vhRfOlX50oG) | 2:54 |
 
-Snapshot ID: `MCwzNmExZWRmMjU5MDc4M2NmZmU3MjI3ZTZlOGI3MzNhODY1MjIyMmU3`
+Snapshot ID: `MCw3YmIyYjg0N2RlYzQ4NWU3NTViMDE5Mjg1NmE2YzhhZjc4MzhiODRj`

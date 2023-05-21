@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc6Umi4GHdr1.md) - [plain]
 
 > Acoustic instrumental guitar to help focus the mind and concentrate on the task at hand.
 
-[Spotify](https://open.spotify.com/user/spotify) - 290,090 likes - 127 songs - 5 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 290,111 likes - 127 songs - 5 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -136,4 +136,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc6Umi4GHdr1.md) - [plain]
 | 126 | [Rio Segundo](https://open.spotify.com/track/5jBlWBEf1MI1R2SasOZsuL) | [Serena Mendes](https://open.spotify.com/artist/6NPbeRsuxTEwa7lMDnZLLz) | [Rio Segundo](https://open.spotify.com/album/3gLjkFuD4BrEWG1AbScPaU) | 2:49 |
 | 127 | [Sunday Breeze](https://open.spotify.com/track/0F2WP7hiDgw6rbFCxE1eyl) | [Cordell Zoe](https://open.spotify.com/artist/1HVeNsc2IF1ob1427YyiRc) | [Sunday Breeze](https://open.spotify.com/album/2fsb3S8QguRHHvLOzHLSLH) | 1:37 |
 
-Snapshot ID: `MCw2MDFmZjU1NzAwOTk4NTYyNTVjODExOTk5YzQ5ZDJmMWU4MjUzMTlk`
+Snapshot ID: `MCw4NmJmNWJhMjVjZTNlZjU3Njk2MWY2NTMzNDg3OTYxNGI2NTFjYWRj`

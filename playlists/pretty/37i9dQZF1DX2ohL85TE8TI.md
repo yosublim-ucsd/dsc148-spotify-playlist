@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ohL85TE8TI.md) - [plain]
 
 > Hot & new K\-Drama OSTs are here! \(Cover: Doctor Cha\) \(인기 있는 화제의 OST곡들을 즐겨보세요!\) \(커버: 닥터 차정숙\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,515,398 likes - 103 songs - 6 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,515,454 likes - 103 songs - 6 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -112,4 +112,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ohL85TE8TI.md) - [plain]
 | 102 | [Do You Know That](https://open.spotify.com/track/4EjqDwJRJUfalKsIMfhjMt) | [EUNHA](https://open.spotify.com/artist/4MLK9Hhz7UhxAzU2awoLxk) | [The Forbidden Marriage, Pt\. 2 \(Original Television Soundtrack\)](https://open.spotify.com/album/0l0tL7F4yLUwG3Ms2ivBsI) | 3:33 |
 | 103 | [I can feel you](https://open.spotify.com/track/4ObaWDh9Kif34bIucjOnTR) | [Oneyears](https://open.spotify.com/artist/1KWw0DYl1RylWUmZUgTqkH) | [Taepung's Bride OST Part.16 \(Soundtrack\)](https://open.spotify.com/album/22JRozoTvxuojR9NsEkfmj) | 3:51 |
 
-Snapshot ID: `MCw1ZDMzY2JiMjJlNWQ3NjYxOGI1M2U3YTUzMzJjNjk2YWJhM2Y0NmQ0`
+Snapshot ID: `MCxjMjM5Y2I4NTljNDI1OTU2NmZlZDA1NTRkMGQxZTA5NDE4YzY0MTJi`

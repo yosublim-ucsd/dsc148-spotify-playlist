@@ -4,7 +4,7 @@
 
 > Clock in from the comfort of your own home and let the music carry you through the day.
 
-617 songs - 1 day 8 hr 53 min
+618 songs - 1 day 8 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -200,6 +200,7 @@
 | [Fancy Like](https://open.spotify.com/track/3ZozFqJJlDBNIm4xqxn2ZD) | [Walker Hayes](https://open.spotify.com/artist/7sKxqpSqbIzphAKAhrqvlf) | [Country Stuff](https://open.spotify.com/album/1Lcuv3HMgEG36SkibQIspv) | 2:41 | 2021-07-23 | 2022-04-12 |
 | [Fancy Like](https://open.spotify.com/track/58UKC45GPNTflCN6nwCUeF) | [Walker Hayes](https://open.spotify.com/artist/7sKxqpSqbIzphAKAhrqvlf) | [Country Stuff The Album](https://open.spotify.com/album/4sShdTo9jO2RGLgDkZBgN8) | 2:41 | 2021-07-23 | 2023-01-28 |
 | [Far Boy \(with Austin Burke\)](https://open.spotify.com/track/72IZFSjcDbtrtqn4sfrIjR) | [Leah Marie Mason](https://open.spotify.com/artist/0fubiYogCTeBykbgV7HGf6), [Austin Burke](https://open.spotify.com/artist/5jfImMkUYyViFJrhdfYt1c) | [Far Boy \(with Austin Burke\)](https://open.spotify.com/album/3pzUW3z7WUMgfLqRwIZY3a) | 3:06 | 2021-07-02 | 2022-04-17 |
+| [favorite kind of high](https://open.spotify.com/track/3lxias37bJGSqIOLkQBJF9) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [favorite kind of high](https://open.spotify.com/album/0ovV62VKM8ADN9BZIlrQMn) | 2:55 | 2023-05-19 |  |
 | [Feels Like](https://open.spotify.com/track/35IcAVSMsU9qzHfpPbvC8A) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [This Is What It Feels Like](https://open.spotify.com/album/7l2g05NyprwonSFIs2y8at) | 2:32 | 2021-10-01 |  |
 | [Feels Like](https://open.spotify.com/track/5AsUMMM0euIPrmRrLfb7ly) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Feels Like](https://open.spotify.com/album/6WzV6DBxklzmYlqELv77Qh) | 2:32 | 2021-10-01 | 2022-07-29 |
 | [Fine Apple](https://open.spotify.com/track/1ts8KebAIm5xCiGInoWiqp) | [Nic D](https://open.spotify.com/artist/1XlLhtgJjC4ROQZilBZAvw) | [Fine Apple](https://open.spotify.com/album/3nxwixOHCqSre8Ycbuypqv) | 2:33 | 2021-06-14 | 2023-04-04 |
@@ -551,7 +552,7 @@
 | [Tomorrow](https://open.spotify.com/track/2F8UhXCxJveJWAmUVKse5h) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t), [Nas](https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q), [Florian Picasso](https://open.spotify.com/artist/4GWqzTTt2uA9Ms6HfUhWUn) | [Tomorrow](https://open.spotify.com/album/3s5lka6gH7LY0EGJOINgVo) | 3:23 | 2022-02-04 | 2022-04-21 |
 | [Too Good At Goodbyes](https://open.spotify.com/track/3VlbOrM6nYPprVvzBZllE5) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [The Thrill Of It All \(Special Edition\)](https://open.spotify.com/album/3XftSbguntyRTBQaGItmfK) | 3:21 | 2021-06-07 | 2023-01-28 |
 | [Too Much](https://open.spotify.com/track/0t4J4eq0ifSVYS0fTgj7ML) | [Matt Simons](https://open.spotify.com/artist/1g0fXhQMHAxlRyIBkCbuE7) | [Too Much](https://open.spotify.com/album/1kcc1iy7E6kkccrsIGDOWm) | 3:05 | 2021-08-27 | 2022-04-20 |
-| [Too Much \(feat\. Lucky Daye\)](https://open.spotify.com/track/2SF0GLxRCm3IcYoVagrKhj) | [Mark Ronson](https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp), [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [Too Much \(feat\. Lucky Daye\)](https://open.spotify.com/album/72sbcb1TU3tshd27FuJ1Gi) | 3:35 | 2022-05-13 |  |
+| [Too Much \(feat\. Lucky Daye\)](https://open.spotify.com/track/2SF0GLxRCm3IcYoVagrKhj) | [Mark Ronson](https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp), [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [Too Much \(feat\. Lucky Daye\)](https://open.spotify.com/album/72sbcb1TU3tshd27FuJ1Gi) | 3:35 | 2022-05-13 | 2023-05-21 |
 | [Train Wreck](https://open.spotify.com/track/55Am8neGJkdj2ADaM3aw5H) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [Back from the Edge](https://open.spotify.com/album/7oiJYvEJHsmYtrgviAVIBD) | 3:28 | 2021-06-07 | 2022-04-21 |
 | [Trampoline](https://open.spotify.com/track/0lsRatBUs9HNIZAmoGABzk) | [SHAED](https://open.spotify.com/artist/3KwmxIhSe9UTSEF37kwngR) | [MELT](https://open.spotify.com/album/3WSazrD65bFptRnMvnesVH) | 3:04 | 2021-06-07 | 2022-04-21 |
 | [Trampoline \(with ZAYN\)](https://open.spotify.com/track/2ez6qvOTHKeI3ss80NGqnI) | [SHAED](https://open.spotify.com/artist/3KwmxIhSe9UTSEF37kwngR), [ZAYN](https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81) | [Melt \(Deluxe\)](https://open.spotify.com/album/5wg6T8bCVnRk3ToKy0yXG5) | 3:04 | 2021-06-07 |  |

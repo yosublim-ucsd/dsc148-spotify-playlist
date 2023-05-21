@@ -1,12 +1,12 @@
 {
   "description": "The essential recordings from the beginning of the Post Bop era. Cover: Freddie Hubbard",
-  "num_followers": 21058,
+  "num_followers": 21078,
   "original_name": "Post Bop Essentials",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4NjhjNTc3ZTgyN2Y5MjRkYzc2NDIwN2E2OWJkMmJhZWVmMDhjZjJk",
+  "snapshot_id": "MCw5YzM2ZjM5NzA3Y2VkZThjMmI0ZDljMTgzYTJiYWZhNjVmZDY4YjVk",
   "tracks": [
     {
       "added_at": "2023-05-10 08:37:38",
@@ -139,18 +139,18 @@
     {
       "added_at": "2023-05-10 08:37:38",
       "album": {
-        "name": "The Awakening",
-        "url": "https://open.spotify.com/album/5oSVYKZLKGCmwYqmJ7AZnO"
+        "name": "Components",
+        "url": "https://open.spotify.com/album/3I384qOJvXmO8z1s3PqImP"
       },
       "artists": [
         {
-          "name": "Ahmad Jamal Trio",
-          "url": "https://open.spotify.com/artist/0BqALs1lInR9TTOulUADH7"
+          "name": "Bobby Hutcherson",
+          "url": "https://open.spotify.com/artist/3uO6HG2JwyP744sg4PMmg5"
         }
       ],
-      "duration_ms": 284240,
-      "name": "You're My Everything",
-      "url": "https://open.spotify.com/track/26Rjb0u2d5Oj5aPZlQ9gAm"
+      "duration_ms": 311106,
+      "name": "Little B's Poem - Remastered 1994",
+      "url": "https://open.spotify.com/track/1H6HqwUyRWW55IzH3k1ewz"
     },
     {
       "added_at": "2023-05-10 08:37:38",
@@ -171,18 +171,18 @@
     {
       "added_at": "2023-05-10 08:37:38",
       "album": {
-        "name": "Components",
-        "url": "https://open.spotify.com/album/3I384qOJvXmO8z1s3PqImP"
+        "name": "The Awakening",
+        "url": "https://open.spotify.com/album/5oSVYKZLKGCmwYqmJ7AZnO"
       },
       "artists": [
         {
-          "name": "Bobby Hutcherson",
-          "url": "https://open.spotify.com/artist/3uO6HG2JwyP744sg4PMmg5"
+          "name": "Ahmad Jamal Trio",
+          "url": "https://open.spotify.com/artist/0BqALs1lInR9TTOulUADH7"
         }
       ],
-      "duration_ms": 311106,
-      "name": "Little B's Poem - Remastered 1994",
-      "url": "https://open.spotify.com/track/1H6HqwUyRWW55IzH3k1ewz"
+      "duration_ms": 284240,
+      "name": "You're My Everything",
+      "url": "https://open.spotify.com/track/26Rjb0u2d5Oj5aPZlQ9gAm"
     },
     {
       "added_at": "2023-05-10 08:37:38",
@@ -676,9 +676,9 @@
           "url": "https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW"
         }
       ],
-      "duration_ms": 361626,
-      "name": "First Trip - Remastered",
-      "url": "https://open.spotify.com/track/1OYzVFN2Ydp3nywDL6RPe4"
+      "duration_ms": 280146,
+      "name": "Riot - Remastered",
+      "url": "https://open.spotify.com/track/01L7NrYczCVyoQ91CmCtNw"
     },
     {
       "added_at": "2023-05-10 08:37:38",
@@ -947,22 +947,6 @@
     {
       "added_at": "2023-05-10 08:37:38",
       "album": {
-        "name": "Black Fire",
-        "url": "https://open.spotify.com/album/5eTLd8qlHh0QHW6IF7Bi3J"
-      },
-      "artists": [
-        {
-          "name": "Andrew Hill",
-          "url": "https://open.spotify.com/artist/4ORSNkNYSzva169PBZCzvy"
-        }
-      ],
-      "duration_ms": 323962,
-      "name": "Pumpkin",
-      "url": "https://open.spotify.com/track/6DLJbVq8dibC5xl46lxmj9"
-    },
-    {
-      "added_at": "2023-05-10 08:37:38",
-      "album": {
         "name": "Dear John C.",
         "url": "https://open.spotify.com/album/1RaM2rT7g77qN4s0T5OOv1"
       },
@@ -975,6 +959,22 @@
       "duration_ms": 229733,
       "name": "Love Bird",
       "url": "https://open.spotify.com/track/1pIvCPswzivDXnC1y5hl4w"
+    },
+    {
+      "added_at": "2023-05-10 08:37:38",
+      "album": {
+        "name": "Black Fire",
+        "url": "https://open.spotify.com/album/5eTLd8qlHh0QHW6IF7Bi3J"
+      },
+      "artists": [
+        {
+          "name": "Andrew Hill",
+          "url": "https://open.spotify.com/artist/4ORSNkNYSzva169PBZCzvy"
+        }
+      ],
+      "duration_ms": 323962,
+      "name": "Pumpkin",
+      "url": "https://open.spotify.com/track/6DLJbVq8dibC5xl46lxmj9"
     },
     {
       "added_at": "2023-05-10 08:37:38",
@@ -1059,22 +1059,6 @@
     {
       "added_at": "2023-05-10 08:37:38",
       "album": {
-        "name": "Judgment (Remastered 2003 / Rudy Van Gelder Edition)",
-        "url": "https://open.spotify.com/album/1UTKa9k864z70CFgpoJy1f"
-      },
-      "artists": [
-        {
-          "name": "Andrew Hill",
-          "url": "https://open.spotify.com/artist/4ORSNkNYSzva169PBZCzvy"
-        }
-      ],
-      "duration_ms": 538226,
-      "name": "Siete Ocho - Remastered 2003 / Rudy Van Gelder Edition",
-      "url": "https://open.spotify.com/track/7iygfmRhXBi2ggTG1WTnvY"
-    },
-    {
-      "added_at": "2023-05-10 08:37:38",
-      "album": {
         "name": "Vertigo",
         "url": "https://open.spotify.com/album/6ZobxoJkOGa8X3us8U948a"
       },
@@ -1107,22 +1091,6 @@
     {
       "added_at": "2023-05-10 08:37:38",
       "album": {
-        "name": "Trompeta Toccata (Remastered 2014)",
-        "url": "https://open.spotify.com/album/0MbOmmvDUHC8Y1FBtG3HDl"
-      },
-      "artists": [
-        {
-          "name": "Kenny Dorham",
-          "url": "https://open.spotify.com/artist/2fMvylhnE23sAlyePKK8er"
-        }
-      ],
-      "duration_ms": 480053,
-      "name": "The Fox - Remastered 2014",
-      "url": "https://open.spotify.com/track/6kEZ6Xa87zYFDCRX69mxK5"
-    },
-    {
-      "added_at": "2023-05-10 08:37:38",
-      "album": {
         "name": "Spring (Remastered)",
         "url": "https://open.spotify.com/album/7IikPqlk47jXyUaXYJmM10"
       },
@@ -1135,6 +1103,38 @@
       "duration_ms": 504000,
       "name": "Love Song - Remastered 2009/Rudy Van Gelder Edition",
       "url": "https://open.spotify.com/track/03nB9wT5HW9OLgH40zqnKi"
+    },
+    {
+      "added_at": "2023-05-10 08:37:38",
+      "album": {
+        "name": "Judgment (Remastered 2003 / Rudy Van Gelder Edition)",
+        "url": "https://open.spotify.com/album/1UTKa9k864z70CFgpoJy1f"
+      },
+      "artists": [
+        {
+          "name": "Andrew Hill",
+          "url": "https://open.spotify.com/artist/4ORSNkNYSzva169PBZCzvy"
+        }
+      ],
+      "duration_ms": 538226,
+      "name": "Siete Ocho - Remastered 2003 / Rudy Van Gelder Edition",
+      "url": "https://open.spotify.com/track/7iygfmRhXBi2ggTG1WTnvY"
+    },
+    {
+      "added_at": "2023-05-10 08:37:38",
+      "album": {
+        "name": "Trompeta Toccata (Remastered 2014)",
+        "url": "https://open.spotify.com/album/0MbOmmvDUHC8Y1FBtG3HDl"
+      },
+      "artists": [
+        {
+          "name": "Kenny Dorham",
+          "url": "https://open.spotify.com/artist/2fMvylhnE23sAlyePKK8er"
+        }
+      ],
+      "duration_ms": 480053,
+      "name": "The Fox - Remastered 2014",
+      "url": "https://open.spotify.com/track/6kEZ6Xa87zYFDCRX69mxK5"
     },
     {
       "added_at": "2023-05-10 08:37:38",
@@ -1187,22 +1187,6 @@
     {
       "added_at": "2023-05-10 08:37:38",
       "album": {
-        "name": "The Procrastinator",
-        "url": "https://open.spotify.com/album/4HyzR2bsFvS4GqJMYtHjvq"
-      },
-      "artists": [
-        {
-          "name": "Lee Morgan",
-          "url": "https://open.spotify.com/artist/38C3okxv3fyyOIQUVPCdGX"
-        }
-      ],
-      "duration_ms": 372000,
-      "name": "Stop-Start",
-      "url": "https://open.spotify.com/track/7GBWFGFJQ8KHG3oS5rmIlJ"
-    },
-    {
-      "added_at": "2023-05-10 08:37:38",
-      "album": {
         "name": "Duster",
         "url": "https://open.spotify.com/album/7hA6gmViMYYoSpb8FxJsFf"
       },
@@ -1235,22 +1219,6 @@
     {
       "added_at": "2023-05-10 08:37:38",
       "album": {
-        "name": "Una Mas (Remastered 2014)",
-        "url": "https://open.spotify.com/album/5CWHeD4i4D8ytWcttJ2SpZ"
-      },
-      "artists": [
-        {
-          "name": "Kenny Dorham",
-          "url": "https://open.spotify.com/artist/2fMvylhnE23sAlyePKK8er"
-        }
-      ],
-      "duration_ms": 437546,
-      "name": "Sao Paulo - Remastered 2014",
-      "url": "https://open.spotify.com/track/1USV1eumNSdlqPCSOkOUg4"
-    },
-    {
-      "added_at": "2023-05-10 08:37:38",
-      "album": {
         "name": "Peacemeal",
         "url": "https://open.spotify.com/album/7dvmPixFQk7VT64HfSfIuh"
       },
@@ -1263,6 +1231,38 @@
       "duration_ms": 194266,
       "name": "Thumb Under",
       "url": "https://open.spotify.com/track/02lmMdDTxH58UIwpQ60PK8"
+    },
+    {
+      "added_at": "2023-05-10 08:37:38",
+      "album": {
+        "name": "The Procrastinator",
+        "url": "https://open.spotify.com/album/4HyzR2bsFvS4GqJMYtHjvq"
+      },
+      "artists": [
+        {
+          "name": "Lee Morgan",
+          "url": "https://open.spotify.com/artist/38C3okxv3fyyOIQUVPCdGX"
+        }
+      ],
+      "duration_ms": 372000,
+      "name": "Stop-Start",
+      "url": "https://open.spotify.com/track/7GBWFGFJQ8KHG3oS5rmIlJ"
+    },
+    {
+      "added_at": "2023-05-10 08:37:38",
+      "album": {
+        "name": "Una Mas (Remastered 2014)",
+        "url": "https://open.spotify.com/album/5CWHeD4i4D8ytWcttJ2SpZ"
+      },
+      "artists": [
+        {
+          "name": "Kenny Dorham",
+          "url": "https://open.spotify.com/artist/2fMvylhnE23sAlyePKK8er"
+        }
+      ],
+      "duration_ms": 437546,
+      "name": "Sao Paulo - Remastered 2014",
+      "url": "https://open.spotify.com/track/1USV1eumNSdlqPCSOkOUg4"
     },
     {
       "added_at": "2023-05-10 08:37:38",
@@ -1299,8 +1299,8 @@
     {
       "added_at": "2023-05-10 08:37:38",
       "album": {
-        "name": "Total Eclipse",
-        "url": "https://open.spotify.com/album/22CAQduBWiDnEMAF05wWlM"
+        "name": "Dialogue",
+        "url": "https://open.spotify.com/album/5142jRc6IrvsI7F6V7tUy2"
       },
       "artists": [
         {
@@ -1308,9 +1308,9 @@
           "url": "https://open.spotify.com/artist/3uO6HG2JwyP744sg4PMmg5"
         }
       ],
-      "duration_ms": 396360,
-      "name": "Herzog",
-      "url": "https://open.spotify.com/track/00ccfrP2pK0CHhaSeGZXHy"
+      "duration_ms": 397413,
+      "name": "Idle While - Remastered 2002/Rudy Van Gelder Edition",
+      "url": "https://open.spotify.com/track/2SmyY2bDv75ogpDUqXEvL8"
     },
     {
       "added_at": "2023-05-10 08:37:38",
@@ -1411,8 +1411,8 @@
     {
       "added_at": "2023-05-10 08:37:38",
       "album": {
-        "name": "Dialogue",
-        "url": "https://open.spotify.com/album/5142jRc6IrvsI7F6V7tUy2"
+        "name": "Total Eclipse",
+        "url": "https://open.spotify.com/album/22CAQduBWiDnEMAF05wWlM"
       },
       "artists": [
         {
@@ -1420,9 +1420,9 @@
           "url": "https://open.spotify.com/artist/3uO6HG2JwyP744sg4PMmg5"
         }
       ],
-      "duration_ms": 397413,
-      "name": "Idle While - Remastered 2002/Rudy Van Gelder Edition",
-      "url": "https://open.spotify.com/track/2SmyY2bDv75ogpDUqXEvL8"
+      "duration_ms": 396360,
+      "name": "Herzog",
+      "url": "https://open.spotify.com/track/00ccfrP2pK0CHhaSeGZXHy"
     },
     {
       "added_at": "2023-05-10 08:37:38",
@@ -1548,9 +1548,9 @@
           "url": "https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW"
         }
       ],
-      "duration_ms": 280146,
-      "name": "Riot - Remastered",
-      "url": "https://open.spotify.com/track/01L7NrYczCVyoQ91CmCtNw"
+      "duration_ms": 361626,
+      "name": "First Trip - Remastered",
+      "url": "https://open.spotify.com/track/1OYzVFN2Ydp3nywDL6RPe4"
     },
     {
       "added_at": "2023-05-10 08:37:38",

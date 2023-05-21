@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 
 > Rebecca e mais mulheres para serem ouvidas no volume máximo!
 
-[Spotify](https://open.spotify.com/user/spotify) - 143,610 likes - 50 songs - 2 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 143,594 likes - 50 songs - 2 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,12 +38,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 | 28 | [Tropa das Malvadinhas](https://open.spotify.com/track/6WRoWBweP92LSMGoa6NfUs) | [Lara Silva](https://open.spotify.com/artist/6jYkuWzgw8pGto1JFI0RNT) | [Tropa das Malvadinhas](https://open.spotify.com/album/2KZ6lFznkf87HOnY8tdm7Q) | 2:25 |
 | 29 | [Tira Uma Foto](https://open.spotify.com/track/0ISIcAK9wIUs76bS8vPxK7) | [Bivolt](https://open.spotify.com/artist/0mQoWD18BxzhN8kr1cNwgQ), [Nave](https://open.spotify.com/artist/2Xpiwporhsl8LXdC96Xs8J) | [Tira Uma Foto](https://open.spotify.com/album/7Bvg4IJIBa2ewWmOEHe7X1) | 2:09 |
 | 30 | [Número 1](https://open.spotify.com/track/21ryDPWXMGssYvm83xNxqU) | [Carolzinha](https://open.spotify.com/artist/2WzEl95SxpS2aXye4njjwN), [Carol & Vitoria](https://open.spotify.com/artist/5zA07XrRPmMYEAdwtfRtSD), [Tainá Costa](https://open.spotify.com/artist/7qbMZFoPRwWU9m3Xi1KV83) | [Número 1](https://open.spotify.com/album/3o3srTRwjyfqT3gHGQbil3) | 2:03 |
-| 31 | [Preta Patrícia](https://open.spotify.com/track/3IkBv7RRbbZchtrO4hziB6) | [MC Taya](https://open.spotify.com/artist/7vUQ69pnimnTG3WAWnVP9i) | [Preta Patrícia](https://open.spotify.com/album/6aTXMJZMd1AAeTkLHCrTOX) | 4:14 |
+| 31 | [Auto Filter](https://open.spotify.com/track/710nUmKdg0R0YGoHcxIhje) | [Ashira](https://open.spotify.com/artist/3bwb5u6i1DM7nDxnBSDDCa) | [Auto Filter](https://open.spotify.com/album/6jDENEt6mLAqNY8AKnzf19) | 3:48 |
 | 32 | [Mapa de Estrelas](https://open.spotify.com/track/3oJCVmWrO80dFUYMp9df6Z) | [Majur](https://open.spotify.com/artist/3EWwR3BxuCaiYKniPGDjE7) | [Mapa de Estrelas](https://open.spotify.com/album/3mzMJkaC9OoaEeuE5YAxxS) | 3:11 |
 | 33 | [Chama Minha Gang](https://open.spotify.com/track/10mRFMbGEgwPujMEPO34Qy) | [POCAH](https://open.spotify.com/artist/11iQCRz636WFdHj42qxAF6) | [Chama Minha Gang](https://open.spotify.com/album/3Qj558INpkcP5uTSwdCE59) | 2:39 |
 | 34 | [Amnésia](https://open.spotify.com/track/39H1UJgLOngNVymsZF2pYz) | [Lara Silva](https://open.spotify.com/artist/6jYkuWzgw8pGto1JFI0RNT) | [Amnésia](https://open.spotify.com/album/5TOVvjC1jH0CHNMrfPYIny) | 2:18 |
 | 35 | [Air Force](https://open.spotify.com/track/2YxwuexC6MmXq1MzLrGMNR) | [BIAB](https://open.spotify.com/artist/3bPBp07Uj7QylER7i6VOuF), [Black Queen](https://open.spotify.com/artist/12jMN5SeE8STo77it3FXWv) | [Air Force](https://open.spotify.com/album/4aW8csEPx6r1p4CFnlPpFD) | 2:24 |
-| 36 | [Auto Filter](https://open.spotify.com/track/710nUmKdg0R0YGoHcxIhje) | [Ashira](https://open.spotify.com/artist/3bwb5u6i1DM7nDxnBSDDCa) | [Auto Filter](https://open.spotify.com/album/6jDENEt6mLAqNY8AKnzf19) | 3:48 |
+| 36 | [Preta Patrícia](https://open.spotify.com/track/3IkBv7RRbbZchtrO4hziB6) | [MC Taya](https://open.spotify.com/artist/7vUQ69pnimnTG3WAWnVP9i) | [Preta Patrícia](https://open.spotify.com/album/6aTXMJZMd1AAeTkLHCrTOX) | 4:14 |
 | 37 | [Segue o baile](https://open.spotify.com/track/0egTKiqudl4bbXlPZlRVtw) | [THAMI](https://open.spotify.com/artist/6fupiyOvfbI12eijANkwZL) | [Nua](https://open.spotify.com/album/5vv8azxRUNzzWpuN8afj3a) | 2:55 |
 | 38 | [Dose Dupla](https://open.spotify.com/track/6Fc0wumF5xRJ3OZDavWk1d) | [Fanieh](https://open.spotify.com/artist/2ervTUezJd1gGsYHZaNXfN), [Ecologyk](https://open.spotify.com/artist/1mohmQWtxDNZcBGkfxG4eW), [Bivolt](https://open.spotify.com/artist/0mQoWD18BxzhN8kr1cNwgQ) | [Dose Dupla](https://open.spotify.com/album/1Y8ohMLIYUy5Vr0SlxFX5N) | 3:14 |
 | 39 | [Magnetizar](https://open.spotify.com/track/7vPzZiHSVYeJH09mBTgaES) | [Lexa](https://open.spotify.com/artist/0jTDeBJQr3unrK29LklnAv), [Hyperanhas](https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz) | [Magnéticah](https://open.spotify.com/album/0U9w4cLY0S13Y3gi24x75w) | 3:14 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 | 49 | [Faminta](https://open.spotify.com/track/5kvP2foAVQeYWxvozMLYgv) | [Bia Ferreira](https://open.spotify.com/artist/0Aj4m8El9TdnqyVHhkuloa) | [Faminta](https://open.spotify.com/album/6ekaLRjzflYYAS7qFBgNCj) | 3:37 |
 | 50 | [Pega Fogo](https://open.spotify.com/track/1XNQ090zOQ6viFKKZwzE2t) | [CASTELLUCCI](https://open.spotify.com/artist/6jsaXaKTHeccFuk0NCHPfg) | [Lembranças](https://open.spotify.com/album/6K6wkdN2UTgo8NmxBzquM9) | 3:24 |
 
-Snapshot ID: `MCwxYjE1NGEyMTcwOTQyYWM0ZDFmNzBmZTI0MGFiNWVkMmQ5NDZiYWZl`
+Snapshot ID: `MCxiMDVlMWQ4ODg4OTU4Mzc5MzBmODJkMzc1MTA4ZWM3ZTg5MmU3YzVh`

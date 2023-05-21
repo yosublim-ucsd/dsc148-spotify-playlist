@@ -1,12 +1,12 @@
 {
   "description": "Today's biggest Dance hits! Cover: Jazzy",
-  "num_followers": 403416,
+  "num_followers": 403502,
   "original_name": "Dance Generation",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4ZmY5ZmM4YmVkZThiZjZlMjRhZjc3M2EyNWU2MmY4NGVkOTFmYTg2",
+  "snapshot_id": "MCwyZGQ1MjJlNGU1YzY5NjcwNjJmYjkyYjFkNmRlODJiZGM0ZTBhZWEz",
   "tracks": [
     {
       "added_at": "2023-05-18 16:04:58",
@@ -563,18 +563,22 @@
     {
       "added_at": "2023-05-18 16:04:58",
       "album": {
-        "name": "All eyes on me (Remix)",
-        "url": "https://open.spotify.com/album/743AeaNiHAh0tvr0zAyL2Y"
+        "name": "All Eyez On Me (Gangsta Remix)",
+        "url": "https://open.spotify.com/album/2WrsRqFFxJUYfibA1mNvzS"
       },
       "artists": [
         {
-          "name": "mikeeysmind",
-          "url": "https://open.spotify.com/artist/0g0ZYLiNYI4kMg8MX76bkN"
+          "name": "Dj Belite",
+          "url": "https://open.spotify.com/artist/0kDOao6cVpYBKRLPXokuDF"
+        },
+        {
+          "name": "DNDM",
+          "url": "https://open.spotify.com/artist/49LauQfpd2peE6g1aWbuTA"
         }
       ],
-      "duration_ms": 165535,
-      "name": "All Eyez on Me - Remix",
-      "url": "https://open.spotify.com/track/0W9twDubLh2GEmhyvjddeJ"
+      "duration_ms": 165557,
+      "name": "All Eyez On Me - Gangsta Remix",
+      "url": "https://open.spotify.com/track/6hfogGuqhfOcq11ZDjXluc"
     },
     {
       "added_at": "2023-05-18 16:04:58",

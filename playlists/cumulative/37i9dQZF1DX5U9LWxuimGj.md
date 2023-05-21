@@ -4,7 +4,7 @@
 
 > Country music with a Latin flair\. Cover: Carin Leon
 
-121 songs - 6 hr 41 min
+122 songs - 6 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -110,7 +110,8 @@
 | [Streetlights](https://open.spotify.com/track/4j0z2wrQdQBmgXjXE4PpoK) | [Frank Ray](https://open.spotify.com/artist/0LsBi7JKqWFCiFi0FsTbXF) | [Streetlights](https://open.spotify.com/album/6NwL9TmFyXn82jzcgvdLOL) | 3:10 | 2021-12-10 |  |
 | [take my phone.](https://open.spotify.com/track/1uI8U4FO4fvFa0d5dd1UYl) | [Sammy Arriaga](https://open.spotify.com/artist/3FKSNTDo480gbDePzxc3y3) | [take my phone.](https://open.spotify.com/album/0TdqvonMraWculqLZrmVYJ) | 2:31 | 2021-12-10 | 2022-08-27 |
 | [Tears Of Gold](https://open.spotify.com/track/1GmQN5AYSmZFYTw10AfcLe) | [David Bisbal](https://open.spotify.com/artist/5gOJTI4TusSENizxhcG7jB), [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Tears Of Gold](https://open.spotify.com/album/2US38BIkYb1habQEAGJyfD) | 2:56 | 2021-12-10 |  |
-| [Tequila Sundown](https://open.spotify.com/track/4nN7chRIK66RfXKTqM3GwS) | [Jon Wolfe](https://open.spotify.com/artist/7fmSLVnnxwwMYj8Wc0rKyp) | [Dos Corazones Chapter One](https://open.spotify.com/album/58qPvTFiBZPYubdX9GVFNM) | 3:52 | 2021-12-10 |  |
+| [Tequila Sundown](https://open.spotify.com/track/0ChzKEth6qOLucWCb1BFdC) | [Jon Wolfe](https://open.spotify.com/artist/7fmSLVnnxwwMYj8Wc0rKyp) | [Dos Corazones](https://open.spotify.com/album/4syic3hPRQ5oKFfkI6O5Cs) | 3:52 | 2023-05-05 |  |
+| [Tequila Sundown](https://open.spotify.com/track/4nN7chRIK66RfXKTqM3GwS) | [Jon Wolfe](https://open.spotify.com/artist/7fmSLVnnxwwMYj8Wc0rKyp) | [Dos Corazones Chapter One](https://open.spotify.com/album/58qPvTFiBZPYubdX9GVFNM) | 3:52 | 2021-12-10 | 2023-05-21 |
 | [Texas Swing \(with Squeezebox Bandits & Jessica Roadcap\)](https://open.spotify.com/track/2yfzrPr0hBXLNFSbSBftj4) | [Triston Marez](https://open.spotify.com/artist/34J7mIMU9nyg5px9m3ur88), [Squeezebox Bandits](https://open.spotify.com/artist/4a02tpn91oE3Yj912u4Dp2), [Jessica Roadcap](https://open.spotify.com/artist/7wCLGdBWLxknkk0klqSs1t) | [Triston Marez](https://open.spotify.com/album/0MLWqiGjmaYa46WL2Rv56N) | 4:39 | 2021-12-10 |  |
 | [That Kind of Cowboy](https://open.spotify.com/track/18ZH8MilaP3O2FVZhb0JYO) | [The Last Bandoleros](https://open.spotify.com/artist/3Zk03qhmFLepNYW2atWkmE) | [Tex Flex](https://open.spotify.com/album/4BEnJ4m3oTjGbFWfhdb0VI) | 2:57 | 2022-10-07 |  |
 | [That Kinda Night](https://open.spotify.com/track/3uAS0qo2n4AoVpTqVTj6Qn) | [Angie K](https://open.spotify.com/artist/7tk53T02nvDYOvWz5T9qZL) | [That Kinda Night](https://open.spotify.com/album/0CgVsOyazunVFsXFNDdEg5) | 2:50 | 2022-11-04 |  |

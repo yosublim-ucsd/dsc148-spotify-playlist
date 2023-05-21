@@ -4,7 +4,7 @@
 
 > The freshest house music, updated every friday\. Submit here: https:&\#x2F;&\#x2F;linktr.ee&\#x2F;houseshift
 
-1,075 songs - 2 day 13 hr 36 min
+1,076 songs - 2 day 13 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1004,6 +1004,7 @@
 | [Vamos A Bailar](https://open.spotify.com/track/0DP1IGKrX3qFYbW7LrcRmq) | [Darren After](https://open.spotify.com/artist/1dQQLtxrDxFxoT5jxVtnr5) | [Vamos A Bailar](https://open.spotify.com/album/1LcxHmYvn6TRRXS6HgsmWh) | 3:05 | 2022-09-30 | 2022-10-08 |
 | [Vamos A Bailar](https://open.spotify.com/track/6R8OgmUWuGnYf3Wc4VhAKw) | [Sonickraft](https://open.spotify.com/artist/6TM9nl47jBGEA9C2nsUP4o) | [Vamos A Bailar](https://open.spotify.com/album/33uvqYnhryfFkRUeQeQQSG) | 2:51 | 2022-07-01 | 2022-07-10 |
 | [Vampire](https://open.spotify.com/track/6VmLMQBPMEoQUlklg5htP0) | [Ellen Degenerate](https://open.spotify.com/artist/5FhDhL3YdHHClp49T2RbmC) | [Vampire](https://open.spotify.com/album/5wX6Us1v6FpO0xLAEId1FR) | 4:18 | 2022-10-29 | 2022-11-06 |
+| [Vibe](https://open.spotify.com/track/6I0U3bhwkBj0xl3CeEY5N8) | [Reblok](https://open.spotify.com/artist/42MgQRvz2CdYiI9u46YJNn) | [Groover EP](https://open.spotify.com/album/50ELk1Nu00C6uaYIQI3Ec7) | 3:02 | 2023-05-20 |  |
 | [Vibe With It \(feat\. The Melody Men\)](https://open.spotify.com/track/35ujkehsna0t7Ns3FE1pzE) | [Ferreck Dawn](https://open.spotify.com/artist/3cnAJv9gydgm52KFIsdvO8), [The Melody Men](https://open.spotify.com/artist/6PSmjKj0zyXGZ4TXoq4dSG) | [Vibe With It \(feat\. The Melody Men\)](https://open.spotify.com/album/3Pi1L6L16v5u5sm7d3lPSF) | 2:55 | 2023-05-05 | 2023-05-13 |
 | [Vibin](https://open.spotify.com/track/1BOoeMwnojgCcsnnF3H784) | [Dillon Nathaniel](https://open.spotify.com/artist/0Ut5FcDeEgaM9PM3LvnH6j) | [Vibin](https://open.spotify.com/album/76l7sQsN4oUxlIy40TqA60) | 3:06 | 2022-07-15 | 2022-07-30 |
 | [Visions \(feat\. Jena\)](https://open.spotify.com/track/55NSeWK8Kt9F24Bkj1jSGW) | [Ranger Trucco](https://open.spotify.com/artist/36N80lh8tNu7XedcW55NC3), [Jena](https://open.spotify.com/artist/5C4eCUR6V0Kbdn8g0y390j) | [Visions \(feat\. Jena\)](https://open.spotify.com/album/78MOzdvJblOkE5jEvnxASh) | 3:33 | 2022-06-10 | 2022-06-18 |

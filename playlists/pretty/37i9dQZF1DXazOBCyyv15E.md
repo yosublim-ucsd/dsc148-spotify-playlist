@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXazOBCyyv15E.md) - [plain]
 
 > The home of the best new alternative music\. Cover: Sad Night Dynamite
 
-[Spotify](https://open.spotify.com/user/spotify) - 187,101 likes - 126 songs - 7 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 187,093 likes - 126 songs - 7 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -96,7 +96,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXazOBCyyv15E.md) - [plain]
 | 86 | [Leon](https://open.spotify.com/track/2bBzjfxz6yLF1bX4tM4sJv) | [Baxter Dury](https://open.spotify.com/artist/0EgHhNmWcjusA7F2heSD0O), [JGrrey](https://open.spotify.com/artist/66rDbD3tWR3M1uNuIaDAGx) | [Leon](https://open.spotify.com/album/5Ke8YFSrOQFlltJM7mba4h) | 2:48 |
 | 87 | [Top Dog](https://open.spotify.com/track/2hGchv7KYaINz9Z1qzufNm) | [Magdalena Bay](https://open.spotify.com/artist/1oPRcJUkloHaRLYx0olBLJ) | [mini mix vol\. 3](https://open.spotify.com/album/09FqVvj8EwzFjYQhiT1LUM) | 2:17 |
 | 88 | [Jetski](https://open.spotify.com/track/25UqWy5pedkjFuGUt2vKJG) | [Tiberius b](https://open.spotify.com/artist/0Kt443UQm5aqR2WCwqSMe0) | [Jetski](https://open.spotify.com/album/6uKrK3GbNTgnGiAZLExBsW) | 3:15 |
-| 89 | [Again](https://open.spotify.com/track/7LRUdoa110f2SGRtLr0pqs) | [Léa Sen](https://open.spotify.com/artist/6B03CBbFJ9aw9CjlxYP0UX) | [Again](https://open.spotify.com/album/40Ub6JIkiPZ7otpE5cAci7) | 2:30 |
+| 89 | [Again](https://open.spotify.com/track/45T6N26v6YQhUMv9dI86Im) | [Léa Sen](https://open.spotify.com/artist/6B03CBbFJ9aw9CjlxYP0UX) | [You Of Now, Pt\. 2](https://open.spotify.com/album/4MjtzAz6GFILAVpfPMXvBQ) | 2:30 |
 | 90 | [WONDERLAND](https://open.spotify.com/track/4RH5H3lx8hNw1JkXMjMqx0) | [Frost Children](https://open.spotify.com/artist/6R1kfr0GIWnwxY4zW11Vag), [Blaketheman1000](https://open.spotify.com/artist/0QrLOWMTGOF7Vwb3SAhf3I), [May Rio](https://open.spotify.com/artist/1SlT1K1OULPzNSwmieTA2w) | [SPEED RUN](https://open.spotify.com/album/7qngj2U22AGXVoZB6QsZ51) | 3:32 |
 | 91 | [Baby, Cry](https://open.spotify.com/track/6pJfezxdnzSQ7RK3lq2K2M) | [Alice Auer](https://open.spotify.com/artist/2H6HNBemqWxtIGPDoCptI8) | [Baby, Cry](https://open.spotify.com/album/07h8NlJ6Cxugv5EyRx60dr) | 3:42 |
 | 92 | [Peppers \(feat\. Tommy Genesis\)](https://open.spotify.com/track/2Rlso2ZNV0PaWwUYeeBYxx) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa), [Tommy Genesis](https://open.spotify.com/artist/2qDdxfKUpYg8wc49KIuT3b) | [Did you know that there's a tunnel under Ocean Blvd](https://open.spotify.com/album/5HOHne1wzItQlIYmLXLYfZ) | 4:08 |
@@ -135,4 +135,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXazOBCyyv15E.md) - [plain]
 | 125 | [Gold In Them Hills](https://open.spotify.com/track/6z5KRk9XIbTCi3Q0RfzizO) | [Speelburg](https://open.spotify.com/artist/0bn8cJWYNORYFzNUxTb8n1), [Romantic Dividends](https://open.spotify.com/artist/33IwxR1RKGoxaM4HgTR8Pk) | [Gold In Them Hills](https://open.spotify.com/album/2Qwd5DC9v5yX1qpj7iXCXY) | 2:54 |
 | 126 | [Woe \(I See It From Your Side\) \- Björk Remix](https://open.spotify.com/track/1cfLiIKKcBE2ReK1YW3Zu4) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy), [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Woe \(I See It From Your Side\) \[Björk Remix\]](https://open.spotify.com/album/385JXSHV11PUnppjIvepfb) | 3:44 |
 
-Snapshot ID: `MCxiYzQ3YTQ1MjQ5OGYzOTE1Y2E0NWM1YmY3ZjlhNTE3ZTljODFlMmNk`
+Snapshot ID: `MCw4MGMyODgyYjIzODliZTY2NmRjNzAwMTQzNjU3NDQ4ODM3YWEwNzNh`

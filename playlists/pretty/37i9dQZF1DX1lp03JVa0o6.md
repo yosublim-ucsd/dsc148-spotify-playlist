@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lp03JVa0o6.md) - [plain]
 
 > Today's biggest Dance hits! Cover: Jazzy
 
-[Spotify](https://open.spotify.com/user/spotify) - 403,416 likes - 94 songs - 4 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 403,502 likes - 94 songs - 4 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lp03JVa0o6.md) - [plain]
 | 24 | [Upside Down \(feat\. Poppy Baskcomb\)](https://open.spotify.com/track/2UDycsru4dEa1UFmyIvKYU) | [MEDUZA](https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu), [Poppy Baskcomb](https://open.spotify.com/artist/4STmXOXUF3UieHU46NWLVt) | [Upside Down \(feat\. Poppy Baskcomb\)](https://open.spotify.com/album/2FmCevNKGGSYOa9uCuXydm) | 2:54 |
 | 25 | [Chills \(LA Hills\)](https://open.spotify.com/track/2N5cFPLy0TIasTWkfT1hri) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I) | [DRIVE](https://open.spotify.com/album/1Pl9ZGXwayXPg5qRVpYo74) | 3:03 |
 | 26 | [Meet Me at the Bottom \(ft\. Open Till L8\)](https://open.spotify.com/track/0jco6ujuz4TmpWZXdvT54R) | [Sydney Yungins](https://open.spotify.com/artist/7pqRrWbKf5yMxy79G3YdKc), [Open Till L8](https://open.spotify.com/artist/6niasBrBbbzrUe7iWT6swJ) | [Meet Me at the Bottom \(ft\. Open Till L8\)](https://open.spotify.com/album/6MOb4PzNkF7yOOGAB2HqaB) | 2:40 |
-| 27 | [All Eyez on Me \- Remix](https://open.spotify.com/track/0W9twDubLh2GEmhyvjddeJ) | [mikeeysmind](https://open.spotify.com/artist/0g0ZYLiNYI4kMg8MX76bkN) | [All eyes on me \(Remix\)](https://open.spotify.com/album/743AeaNiHAh0tvr0zAyL2Y) | 2:45 |
+| 27 | [All Eyez On Me \- Gangsta Remix](https://open.spotify.com/track/6hfogGuqhfOcq11ZDjXluc) | [Dj Belite](https://open.spotify.com/artist/0kDOao6cVpYBKRLPXokuDF), [DNDM](https://open.spotify.com/artist/49LauQfpd2peE6g1aWbuTA) | [All Eyez On Me \(Gangsta Remix\)](https://open.spotify.com/album/2WrsRqFFxJUYfibA1mNvzS) | 2:45 |
 | 28 | [You're The Voice](https://open.spotify.com/track/6zQLRsQnoJHL96LzUuR6gQ) | [Mashd N Kutcher](https://open.spotify.com/artist/0G5lZVxoMwoY8oV6zR8E7k) | [You're The Voice](https://open.spotify.com/album/5p0gzjEtN8H2wNxjrSZnHA) | 2:42 |
 | 29 | [Come Back](https://open.spotify.com/track/1wQZemciaEPFXshcgEUA2s) | [ALYSSA](https://open.spotify.com/artist/75ZLyp0dI6PGiynBQS4rJp) | [Come Back](https://open.spotify.com/album/2QOvhxWmXDC3SopJHqKaVF) | 2:27 |
 | 30 | [Caught A Body \(with Ty Dolla $ign\)](https://open.spotify.com/track/4JvJj733DNy6nuVcC1NzCq) | [Alesso](https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [Caught A Body \(with Ty Dolla $ign\)](https://open.spotify.com/album/5JEgZa6di9DVcftMmEoN2r) | 2:29 |
@@ -103,4 +103,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lp03JVa0o6.md) - [plain]
 | 93 | [Weekends](https://open.spotify.com/track/3JlHRjPt2TNB9h7VFf0im2) | [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [Felix Jaehn](https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG) | [Weekends](https://open.spotify.com/album/68Ph2nuIeP3e0vzRxrUmkh) | 2:07 |
 | 94 | [YALLAH!](https://open.spotify.com/track/35xJ6qdU2LpbeQ6xODmraE) | [Brothers](https://open.spotify.com/artist/5XJlnf7mD44GXWHmRGxt0I) | [YALLAH!](https://open.spotify.com/album/2xXrc2ZU2tAu6V9P7nPbBz) | 2:37 |
 
-Snapshot ID: `MCw4ZmY5ZmM4YmVkZThiZjZlMjRhZjc3M2EyNWU2MmY4NGVkOTFmYTg2`
+Snapshot ID: `MCwyZGQ1MjJlNGU1YzY5NjcwNjJmYjkyYjFkNmRlODJiZGM0ZTBhZWEz`

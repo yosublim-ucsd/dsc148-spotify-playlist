@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa9bqOzK42BZ.md) - [plain]
 
 > Praise and worship from East Africa\. Your ultimate Swahili Spiritual nourishment here\. Cover <a href="https://open.spotify.com/artist/6worshay3dx3NqPNl8PRSw">Mr Seed</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,961 likes - 60 songs - 5 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,967 likes - 60 songs - 5 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa9bqOzK42BZ.md) - [plain]
 | 55 | [Huniachi](https://open.spotify.com/track/5NLS2f8tVRtoKXOU600LBL) | [Reuben Kigame](https://open.spotify.com/artist/0bTD7Hz0264DFfTV9e5PQf), [Sifa Voices](https://open.spotify.com/artist/75UlA58ClvAkoGrCouQQAI), [Gloria Muliro](https://open.spotify.com/artist/39RtliJb0Ct7KASnAK5Vs2) | [Usifadhaike](https://open.spotify.com/album/3ugo6jrkHwa1fEmpKPvDs2) | 5:02 |
 | 56 | [Wanishangaza](https://open.spotify.com/track/76qoWyVNx46H2JS1xbj0WP) | [Eunice Njeri](https://open.spotify.com/artist/1n8hmSTaHZs3Pz2VuVfda4) | [Uka](https://open.spotify.com/album/656ePpgxQbEkzp9zsQWwSf) | 4:13 |
 | 57 | [Nifundishe Kunyamaza](https://open.spotify.com/track/5ZbqY3dSaJu5WepPqGkxbS) | [Martha Mwaipaja](https://open.spotify.com/artist/6sucU5GTxpXKQs1hNTrLDF) | [Naiona Kesho](https://open.spotify.com/album/4On0HtZu8oqfzXWki3Vz6f) | 9:14 |
-| 58 | [Jina La Yesu](https://open.spotify.com/track/6FZWGjLkrpEKVCA2qoZAtL) | [Fanuel Sedekia](https://open.spotify.com/artist/4aIO5gn78ZNovl19OdpbGG) | [Katika Ibada](https://open.spotify.com/album/1mBhIg9ChypKfyH13feP2a) | 4:55 |
+| 58 | [Jina La Yesu](https://open.spotify.com/track/2rv5OzGIcE3NPvSJiYswp4) | [Fanuel Sedekia](https://open.spotify.com/artist/4aIO5gn78ZNovl19OdpbGG) | [Katika Ibada](https://open.spotify.com/album/0sprJAbkqVjUIwt0Bo8AFp) | 4:55 |
 | 59 | [Yesu Nitie Nguvu](https://open.spotify.com/track/6ei3elKMjid5GSnWAXwS6q) | [William Yilima](https://open.spotify.com/artist/2DTRhfclXLK7d9FYyuWda0) | [Uko Wapi Mungu](https://open.spotify.com/album/3mFFb1dNZLjxLWNNTjaqW0) | 2:22 |
 | 60 | [Neno Lako](https://open.spotify.com/track/5A06x01Ev8EL2FdJK5Fp8d) | [Godwill Babette](https://open.spotify.com/artist/787HVRJFIkDBhj7HeHCVsG) | [Umenibeba](https://open.spotify.com/album/7lKfLz5d1olqce9qgqK1jB) | 5:47 |
 
-Snapshot ID: `MCwwMmQ4YTQ4M2I5OTI0ZmRkZmM1OGYxZDUzNDJiZGVmNTQyY2ZjMTU1`
+Snapshot ID: `MCwyZWRmZTgxOGQ3NGY4Y2I5OGIwYjg2ZjRlOTIzMWEwYzM5NDIwYWY0`

@@ -1468,7 +1468,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-21",
       "duration_ms": 211522,
       "name": "hurt",
       "url": "https://open.spotify.com/track/1azOKiKwwOVwmapgPgPTJy"
@@ -3514,6 +3514,24 @@
       "duration_ms": 265440,
       "name": "Thumbs",
       "url": "https://open.spotify.com/track/79pcC3KJRMA2L8xIb5mu3G"
+    },
+    {
+      "album": {
+        "name": "To Learn",
+        "url": "https://open.spotify.com/album/5k6lsjpZK4l4J9oMQmBR1l"
+      },
+      "artists": [
+        {
+          "name": "Leith Ross",
+          "url": "https://open.spotify.com/artist/4nxKz1dRYXnsGzN1lUURtG"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237328,
+      "name": "To Me",
+      "url": "https://open.spotify.com/track/17WkY7lZXdLBvoY7c6xrtu"
     },
     {
       "album": {

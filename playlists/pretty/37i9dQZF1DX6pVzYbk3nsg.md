@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6pVzYbk3nsg.md) - [plain]
 
 > Los sonidos tradicionales de la Isla del Encanto.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,238 likes - 50 songs - 3 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,247 likes - 50 songs - 3 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,10 +26,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6pVzYbk3nsg.md) - [plain]
 | 16 | [El Conde De Loiza](https://open.spotify.com/track/5Pt8ozofQZg1dVdLSvWO4R) | [Grupo Afro Boriqua, Director William Cepeda](https://open.spotify.com/artist/3WtjPwL9iHJCBCjqxDJ1QM) | [Bombazo](https://open.spotify.com/album/57x4LW3rXa6OUutg6UALTf) | 2:15 |
 | 17 | [Plenazo Callejero 2](https://open.spotify.com/track/5WIC5dyHF3rJwsa2UhdElr) | [Plenealo](https://open.spotify.com/artist/0X0JZd4gZGYs1MdZUwHgMg) | [Distinto Y Diferente](https://open.spotify.com/album/2gKfS4zd0LONEuh3fEv40W) | 7:31 |
 | 18 | [Bombale](https://open.spotify.com/track/78TdC5GSZqIHhOy7AU8iI5) | [Bomba & Plena](https://open.spotify.com/artist/6wr6uWojsqUvSPKRe3uzsB) | [Pal' Mundo](https://open.spotify.com/album/1BUgjs8utRguMAQ0vTu0QH) | 3:49 |
-| 19 | [Palo'e bandera](https://open.spotify.com/track/1H6dRL7M0IVylujpVGZwlh) | [Paracumbé](https://open.spotify.com/artist/7dDuGb3Z43pHtrWgLdD0pt), [Nelie Lebron Robles](https://open.spotify.com/artist/4aiMXsjHkohWHVUnXNJc99) | [Tambó](https://open.spotify.com/album/08AGzsFnTPjV1or0eqjUda) | 3:14 |
+| 19 | [Ola de la Mar](https://open.spotify.com/track/7kXpYpbjWQb1wlgYztYaC8) | [Félix Alduén](https://open.spotify.com/artist/7rXVbGmjHojoHXkunNoKa9) | [Candela!](https://open.spotify.com/album/6fDIfyDziBLqYANN8GtUS1) | 4:20 |
 | 20 | [Yerba Bruja](https://open.spotify.com/track/7qEv1SFUaDTJG6XC6DpShm) | [Los Pleneros de la Cresta](https://open.spotify.com/artist/1uZVxckdGGKhFMpCnupXmP) | [Mucho Gusto, Soy de la Isla](https://open.spotify.com/album/57coD2LmRoquYPveKBYGtq) | 4:20 |
 | 21 | [Rule Sonda](https://open.spotify.com/track/5VcZnqmPU8KetpEi0ypoH3) | [Hermanos Ayala](https://open.spotify.com/artist/11sGNsoAafVYuvbsXre9BE) | [Bomba De Loiza](https://open.spotify.com/album/3vGGMqUHgOQv3aOsom3plI) | 2:05 |
-| 22 | [Ola de la Mar](https://open.spotify.com/track/7kXpYpbjWQb1wlgYztYaC8) | [Félix Alduén](https://open.spotify.com/artist/7rXVbGmjHojoHXkunNoKa9) | [Candela!](https://open.spotify.com/album/6fDIfyDziBLqYANN8GtUS1) | 4:20 |
+| 22 | [Palo'e bandera](https://open.spotify.com/track/1H6dRL7M0IVylujpVGZwlh) | [Paracumbé](https://open.spotify.com/artist/7dDuGb3Z43pHtrWgLdD0pt), [Nelie Lebron Robles](https://open.spotify.com/artist/4aiMXsjHkohWHVUnXNJc99) | [Tambó](https://open.spotify.com/album/08AGzsFnTPjV1or0eqjUda) | 3:14 |
 | 23 | [La Novia Nueva](https://open.spotify.com/track/7CE1mVhaUL86nLwkBFrIxy) | [Plenealo](https://open.spotify.com/artist/0X0JZd4gZGYs1MdZUwHgMg) | [Soy Yo](https://open.spotify.com/album/4RBgUnnRFooYqK6Ft7uGEw) | 4:32 |
 | 24 | [Preparate Reparada \(Guembe\) \[Live\]](https://open.spotify.com/track/66Z8gMxXEOXhubR79KlTu5) | [Buya](https://open.spotify.com/artist/29u8U8MD9gvMcxkkJxikna) | [Buya \(Live\)](https://open.spotify.com/album/3CN7dh6Ov68yvDzIwl2udq) | 4:21 |
 | 25 | [Afro Boricua](https://open.spotify.com/track/7feVDHYgNORokGJQqLgytd) | [Grupo Afro Boriqua, Director William Cepeda](https://open.spotify.com/artist/3WtjPwL9iHJCBCjqxDJ1QM) | [Bombazo](https://open.spotify.com/album/57x4LW3rXa6OUutg6UALTf) | 5:38 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6pVzYbk3nsg.md) - [plain]
 | 49 | [Lamento Borincano](https://open.spotify.com/track/2cAVI7mFlCPPGBYnKoknWQ) | [Grupo Afro Boriqua, Director William Cepeda](https://open.spotify.com/artist/3WtjPwL9iHJCBCjqxDJ1QM) | [Bombazo](https://open.spotify.com/album/57x4LW3rXa6OUutg6UALTf) | 6:23 |
 | 50 | [Bombero Eh](https://open.spotify.com/track/6IP4iBxur2Q6HnYaBbWuGj) | [Hermanos Ayala](https://open.spotify.com/artist/11sGNsoAafVYuvbsXre9BE) | [Bomba De Loiza](https://open.spotify.com/album/3vGGMqUHgOQv3aOsom3plI) | 2:56 |
 
-Snapshot ID: `MCw5M2MyZGJmMzMzMjk1OTdlOTVmZWY0Y2Q4NjdmMzE5ZmQ4ZDRkZmJl`
+Snapshot ID: `MCxhYzgxOWQ1NjFmODRhYTM1MjIwNmFiYmIzMzU3NTZkOGNmNjY5YzE3`

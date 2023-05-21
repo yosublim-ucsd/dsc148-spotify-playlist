@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82GYcclJ3Ug.md) - [plain]
 
 > No rules or boundaries\. Just the very best new alternative tracks\. Cover: KennyHoopla
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,124,082 likes - 125 songs - 6 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,123,871 likes - 125 songs - 6 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82GYcclJ3Ug.md) - [plain]
 | 124 | [WHO'S TO SAY](https://open.spotify.com/track/4lCZkfA7RnO0GPplH62e5Z) | [THE BLSSM](https://open.spotify.com/artist/7lq7hz0Z6rG6v9zbJRRn4K) | [WHO'S TO SAY](https://open.spotify.com/album/7w8TdI8N8Iy2woALB59AwP) | 3:15 |
 | 125 | [Don't Be Another](https://open.spotify.com/track/3qaqxocTgqVSMT9GE82sbg) | [Skinny Pelembe](https://open.spotify.com/artist/1ZxriNuHn6Upjf3U97nnUN) | [Don't Be Another](https://open.spotify.com/album/1CLxNR4c7WeJ6c6gwjkPGl) | 3:39 |
 
-Snapshot ID: `MCxkZjJhM2FmODRlOGRjM2IwOGUwOGE0NGFmODUzZjViMmM0N2IwMGEw`
+Snapshot ID: `MCxjMWQ2MzBjYWM5ZmRjZDIwNjgyMmQ2OWQ1YmIwMWRjMjA4YzFhNjA2`

@@ -4,7 +4,7 @@
 
 > Country rap songs, made to be cranked up\. Cover: Brantley Gilbert and Jelly Roll
 
-150 songs - 8 hr 33 min
+151 songs - 8 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -78,6 +78,7 @@
 | [If You're Gonna Be Dumb, You Gotta Be Tough \(From "Jackass Forever"\)](https://open.spotify.com/track/4nGSexnowpuB3BZ0Zxotru) | [DJ Paul](https://open.spotify.com/artist/2ledyuziz6YjLK5Dw483Oc), [Yelawolf](https://open.spotify.com/artist/68DWke2VjdDmA75aJX5C57) | [If You're Gonna Be Dumb, You Gotta Be Tough \(From "Jackass Forever"\)](https://open.spotify.com/album/3FAccrJLTeHLmi87LWMPCd) | 3:30 | 2022-02-04 |  |
 | [It Ain't Over Yet](https://open.spotify.com/track/1I3jpw3JLC1reCHuUHjNLT) | [Charlie Farley](https://open.spotify.com/artist/7c9KnWYDsZgK8k5QiCi9wk) | [Mud Digger 8](https://open.spotify.com/album/2weteiUe1r6MNppMZmDwqk) | 2:50 | 2021-05-21 | 2022-08-21 |
 | [Jack In My Coke](https://open.spotify.com/track/4poAPSYXyl4aAJFbtLxAT0) | [The Lacs](https://open.spotify.com/artist/23OFz99wX0NDBBwrxthLWU), [Montgomery Gentry](https://open.spotify.com/artist/3bGXaFVQLASmDMdjjeJr8a) | [Kickin' Up Mud: The Hits](https://open.spotify.com/album/1pb03iQj1bISSfoABG0a9E) | 3:52 | 2022-10-14 | 2022-11-14 |
+| [Jack In My Coke](https://open.spotify.com/track/149jFcOq3geYOKnwF9DQT7) | [The Lacs](https://open.spotify.com/artist/23OFz99wX0NDBBwrxthLWU), [Montgomery Gentry](https://open.spotify.com/artist/3bGXaFVQLASmDMdjjeJr8a) | [American Rebelution](https://open.spotify.com/album/0N5anKkS2ywpioukIuU5YC) | 3:52 | 2023-05-19 |  |
 | [Jack In My Coke](https://open.spotify.com/track/6Kf1VcLce0JzSNvngjhi4q) | [The Lacs](https://open.spotify.com/artist/23OFz99wX0NDBBwrxthLWU), [Montgomery Gentry](https://open.spotify.com/artist/3bGXaFVQLASmDMdjjeJr8a) | [American Rebelution](https://open.spotify.com/album/4dQZO3ENU8TkhieFWFlDoL) | 3:52 | 2022-07-22 | 2023-05-19 |
 | [Jack in My Coke \(feat\. Montgomery Gentry\)](https://open.spotify.com/track/3fkuueBznTgIz9Qx6C2Vp8) | [The Lacs](https://open.spotify.com/artist/23OFz99wX0NDBBwrxthLWU), [Montgomery Gentry](https://open.spotify.com/artist/3bGXaFVQLASmDMdjjeJr8a) | [Jack in My Coke \(feat\. Montgomery Gentry\)](https://open.spotify.com/album/6k0hsOodPPxHni9Hwdvka7) | 3:52 | 2021-05-21 | 2022-07-29 |
 | [John Wayne](https://open.spotify.com/track/2fvmEuEwISvAN0Rg10yjpe) | [J\. Hartley](https://open.spotify.com/artist/6NQutZjdXEEvb4B4JuBRNT) | [John Wayne](https://open.spotify.com/album/2Jx6BxC4ibE1WLfPcCPVgY) | 2:38 | 2021-05-21 |  |
@@ -88,7 +89,7 @@
 | [Kickin' It in Tennessee](https://open.spotify.com/track/5pxcfxlMIcIqFglo9qiNRv) | [SMO](https://open.spotify.com/artist/06zS0fTnfMX9Bg3UTfKbD9) | [Kickin' It in Tennessee](https://open.spotify.com/album/75ELepmuVqE7GLbdF28mPa) | 3:46 | 2021-07-09 | 2023-01-03 |
 | [Kiss My Ass](https://open.spotify.com/track/5iPAaPFEMm9adSSaD5vCid) | [Sam Grow](https://open.spotify.com/artist/4cFA9cxl7v3CrFYxOOXsSs) | [Mud Digger 10](https://open.spotify.com/album/3cEqyZsmcwm80vqeFofnDp) | 2:42 | 2021-05-21 |  |
 | [LEGENDS](https://open.spotify.com/track/15x3Tsc72Wjspe8DlsIRp2) | [YA'BOYZ](https://open.spotify.com/artist/7vMHsgM6Rlv8loZc594Z9I) | [LEGENDS](https://open.spotify.com/album/2NEROO6mBjK1Xcv1Sr6vXU) | 2:24 | 2021-11-12 | 2023-01-03 |
-| [Live for Today](https://open.spotify.com/track/4ZV4p0hFrtU4HW9jpd6kUK) | [Twang and Round](https://open.spotify.com/artist/6K01VDVF9BORq58XTAR1aM) | [Mud Digger 10](https://open.spotify.com/album/3cEqyZsmcwm80vqeFofnDp) | 3:30 | 2021-05-21 |  |
+| [Live for Today](https://open.spotify.com/track/4ZV4p0hFrtU4HW9jpd6kUK) | [Twang and Round](https://open.spotify.com/artist/6K01VDVF9BORq58XTAR1aM) | [Mud Digger 10](https://open.spotify.com/album/3cEqyZsmcwm80vqeFofnDp) | 3:30 | 2021-05-21 | 2023-05-21 |
 | [MAGIC CITY COWBOY](https://open.spotify.com/track/4578UyGpgGCGZHfSlHOwFc) | [Jamie Ray](https://open.spotify.com/artist/08sIoHx2vZUsqaWtoVHHo2) | [MAGIC CITY COWBOY](https://open.spotify.com/album/0FHMiGXQjSFEDD5vurEkGU) | 2:04 | 2021-08-06 |  |
 | [Mustang on Mud Tires](https://open.spotify.com/track/3QkxCzzUXEGjqNlXeB0fMy) | [Jay Allen](https://open.spotify.com/artist/1dmDDdHSzGxdYojQPjh9M0), [Nate Kenyon](https://open.spotify.com/artist/18uDt2CmzLwhbVUORHE6x4) | [Mustang on Mud Tires](https://open.spotify.com/album/1wS58BaXXAfljI25qgTR4D) | 3:40 | 2021-09-17 |  |
 | [My Town](https://open.spotify.com/track/6auBQyfcdFBG4IZvdXBkdr) | [Colt Ford](https://open.spotify.com/artist/0OpWIlokQeE7BNQMhuu2Nx), [Josh Mirenda](https://open.spotify.com/artist/5zmTJA6eWcsmxevyQoK9iB) | [Keys To The Country](https://open.spotify.com/album/42iTDTqmKABTGUfrOKk5YZ) | 2:57 | 2021-11-05 | 2023-05-18 |

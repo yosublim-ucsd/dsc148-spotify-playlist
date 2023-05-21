@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4pHb5aF7Ipw.md) - [plain]
 
 > Fresh Punjabi Rap\. Cover:  GD 47, Prince Narula & Rannvijay Singh
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,720 likes - 36 songs - 1 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,758 likes - 36 songs - 1 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,4 +45,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4pHb5aF7Ipw.md) - [plain]
 | 35 | [Iran](https://open.spotify.com/track/0hKQDXkIlbY1IomBdmFiIc) | [NseeB](https://open.spotify.com/artist/58o8gC55d5XSsI2MlTZ3M5), [Gurkarn Chahal](https://open.spotify.com/artist/1iX2MDndFDkTdIPAic9B1z), [Vitamin](https://open.spotify.com/artist/4pYzHNIyEnFmGEdy6lomXR) | [Iran](https://open.spotify.com/album/3OD1CRqD1M3ATI71zxcnmQ) | 3:12 |
 | 36 | [Clutch Baliye](https://open.spotify.com/track/3qWI4prgSotUOGR4BfOreW) | [Sultaan](https://open.spotify.com/artist/7frYUe4C7A42uZqCzD34Y4), [Gagan](https://open.spotify.com/artist/3kfNgIiPN2rdxVEQg6L3lW) | [Clutch Baliye](https://open.spotify.com/album/2a7G4hLUBoE9vnPOBeyb4C) | 2:32 |
 
-Snapshot ID: `MCwyNDRjNTIxMjMxZGE3OTE2YmU5N2E3YzFhNTZhNThlNzk0MzNmY2M2`
+Snapshot ID: `MCxiOWM2YzhjM2Y0MWY5YzcxZjJhNzcyMTZiYThlMzUzZjJmOWJlOTZl`

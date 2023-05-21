@@ -4,7 +4,7 @@
 
 > 這些有節奏有溫度的情歌，能讓你時時刻刻都有在幸福中遊走的感覺。
 
-287 songs - 17 hr 4 min
+288 songs - 17 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,6 +38,7 @@
 | [Meant To Be](https://open.spotify.com/track/2JMvrwCMRQyTAU0mcC1L4V) | [Young](https://open.spotify.com/artist/7tuUo4Kby0sTXYcctxdlYa) | [Meant To Be](https://open.spotify.com/album/6ZrpBdx44f9CSSa5DTPh5W) | 4:03 | 2022-06-06 | 2022-07-16 |
 | [Melody](https://open.spotify.com/track/7LGg45oJbIiyt0zVwb5Ho0) | [Baozhai Mezhong](https://open.spotify.com/artist/1sNBvC3ul9Xy0beVtEDPqV) | [Melody](https://open.spotify.com/album/5DfouQvBikRahYnthwaKHw) | 3:57 | 2022-06-06 | 2022-07-29 |
 | [Melody](https://open.spotify.com/track/4zoAOEGIrfR43iDOtxQqgg) | [Kipes](https://open.spotify.com/artist/3sQ4YHF0SRgQTNEswO8KTf), [Ziv](https://open.spotify.com/artist/3YURVpnxVzqFYUTIy5HqcO) | [Melody](https://open.spotify.com/album/1KGzv9nQNAJBEBmmljDIbC) | 3:57 | 2023-01-09 | 2023-05-09 |
+| [Melody](https://open.spotify.com/track/6GnvrHsBX77fnYTgJtMcti) | [Kipes](https://open.spotify.com/artist/3sQ4YHF0SRgQTNEswO8KTf), [Ziv](https://open.spotify.com/artist/3YURVpnxVzqFYUTIy5HqcO) | [Melody](https://open.spotify.com/album/5wvfJhLN1Md0D9Ygu9c5ZY) | 3:57 | 2023-05-15 |  |
 | [Melody](https://open.spotify.com/track/7HunFZWZOD4j9k80J3LSdD) | [Ziv](https://open.spotify.com/artist/3YURVpnxVzqFYUTIy5HqcO), [Kipes](https://open.spotify.com/artist/3sQ4YHF0SRgQTNEswO8KTf) | [倒叙爱情](https://open.spotify.com/album/5ctAPAEExzIzKEZRA0WAwP) | 3:57 | 2022-06-06 | 2022-06-24 |
 | [Mojito](https://open.spotify.com/track/0EFJeBb373Aau6lnrpgvXo) | [Jay Chou](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql) | [Mojito](https://open.spotify.com/album/1RDzEskhUbajEbNp9xeglp) | 3:05 | 2022-06-27 | 2022-07-02 |
 | [Mojito](https://open.spotify.com/track/7BYMjh3vWnHU4IFyfZdIDO) | [Jay Chou](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql) | [Mojito](https://open.spotify.com/album/6pIXXqOGDkatrb00Oblrgo) | 3:05 | 2022-10-31 | 2022-11-13 |
@@ -269,7 +270,7 @@
 | [話中有話](https://open.spotify.com/track/01Px3hieGERjCmNCxKo6q6) | [Marcus Lee](https://open.spotify.com/artist/18G699wFEzXLGHsgsDZyYj), [ShuShu](https://open.spotify.com/artist/5y7qzbjzMxzx02NonVOUkB) | [話中有話](https://open.spotify.com/album/0GiKD59QnLjkfyzAx32Cfn) | 3:11 | 2022-06-06 | 2022-07-29 |
 | [說你愛我](https://open.spotify.com/track/72yzt0HsibF0bHqQgivEyl) | [許維芳](https://open.spotify.com/artist/5bDxJPbf1x9lOl5f17sb9e), [李佳歡](https://open.spotify.com/artist/7sxOGIcUrfCGeTe79YYutH) | [說你愛我](https://open.spotify.com/album/0YerCHP3B8EYjRnRsLAzvD) | 4:08 | 2022-06-20 | 2022-07-29 |
 | [說你願意](https://open.spotify.com/track/5f6ahJndJ3tBuWlqU272LC) | [劉學甫](https://open.spotify.com/artist/4fQhjXVVGKPG7K1SYFWjpH), [黃禹菡](https://open.spotify.com/artist/0ujk6hK5BPkFjEUN338qC2) | [說你願意](https://open.spotify.com/album/3yItD9kou2ttPoBNzSuCLl) | 3:49 | 2023-03-20 | 2023-04-11 |
-| [請你嫁給我 \- HBO Asia原創影集《戒指流浪記》片頭曲](https://open.spotify.com/track/6FmfdFUbG8q6U2KbsNFo3y) | [WeiBird](https://open.spotify.com/artist/7y3HnWCFEvWj4KM9GFSkiX) | [請你嫁給我 \(HBO Asia原創影集《戒指流浪記》片頭曲\)](https://open.spotify.com/album/6WvfGISnZzpfyMk8lg670t) | 3:24 | 2022-06-06 |  |
+| [請你嫁給我 \- HBO Asia原創影集《戒指流浪記》片頭曲](https://open.spotify.com/track/6FmfdFUbG8q6U2KbsNFo3y) | [WeiBird](https://open.spotify.com/artist/7y3HnWCFEvWj4KM9GFSkiX) | [請你嫁給我 \(HBO Asia原創影集《戒指流浪記》片頭曲\)](https://open.spotify.com/album/6WvfGISnZzpfyMk8lg670t) | 3:24 | 2022-06-06 | 2023-05-21 |
 | [講個笑話](https://open.spotify.com/track/5I6VyJobdFa1GwoLHdPzzk) | [Silence Wang](https://open.spotify.com/artist/0PdNEiQ3MsJGCEgE13Tz60), [谢可寅](https://open.spotify.com/artist/1XAuuokcNcOWM6yRlEmyRn) | [大娛樂家](https://open.spotify.com/album/5dRF4mFewpdRZbcudweNaT) | 3:21 | 2022-06-06 | 2022-07-21 |
 | [講個笑話](https://open.spotify.com/track/7ringJx9YyKtHwK8LpVVKG) | [Silence Wang](https://open.spotify.com/artist/0PdNEiQ3MsJGCEgE13Tz60), [谢可寅](https://open.spotify.com/artist/1XAuuokcNcOWM6yRlEmyRn) | [講個笑話](https://open.spotify.com/album/73UTBcovvvyW23kfzixJJA) | 3:21 | 2022-06-06 | 2022-07-10 |
 | [謝謝你做我的另一半](https://open.spotify.com/track/74SFVoc6H869Cu9YcfAmbF) | [謝衣沛](https://open.spotify.com/artist/6rMEJJkOukOLJYkcBGnRIZ) | [謝謝你做我的另一半](https://open.spotify.com/album/6b5L93ZLrWBKy8JBcuKPiC) | 3:20 | 2022-06-13 | 2022-07-22 |

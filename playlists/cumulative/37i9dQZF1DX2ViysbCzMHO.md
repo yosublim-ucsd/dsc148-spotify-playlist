@@ -4,7 +4,7 @@
 
 > Acoustic country songs from the heart of Nashville \- stripped down to the basics.
 
-233 songs - 12 hr 45 min
+234 songs - 12 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,6 +63,7 @@
 | [Fall in Love \- Acoustic](https://open.spotify.com/track/17DTmTAm5l3P8vvC8lO25z) | [Josh Kerr](https://open.spotify.com/artist/7tnICxEQkOML369POsUizq) | [12/12 \(Acoustic Pt\. 1\)](https://open.spotify.com/album/1ZGQkU4wtCJ0sNHQYlDQ6w) | 2:45 | 2021-12-17 | 2022-07-09 |
 | [Fighting \- Acoustic](https://open.spotify.com/track/3ICJRbE7pf8Abk4uZiUMBH) | [Tyler Joe Miller](https://open.spotify.com/artist/1MmpCgmJymS8Etwm9RxuxM) | [Fighting \(Acoustic\)](https://open.spotify.com/album/5RzLNJyVz0Z8XGWsAALX7l) | 3:47 | 2022-07-08 | 2022-07-12 |
 | [First Goodbye](https://open.spotify.com/track/61x7KwsjSYc5dXFhJ23sS6) | [Georgia Webster](https://open.spotify.com/artist/0SBVbPO2gePQlaDiIfaKDl) | [First Goodbye](https://open.spotify.com/album/1TGvUDIdFBHxTIuVwO4s4p) | 3:52 | 2021-12-17 | 2023-02-05 |
+| [For A Day](https://open.spotify.com/track/3ImUotYT19T3vXDVOWAXAm) | [Chase Rice](https://open.spotify.com/artist/6pBNfggcZZDCmb0p92OnGn) | [I Hate Cowboys & All Dogs Go To Hell](https://open.spotify.com/album/1YKEpL3pNDCbYH2zW06u9i) | 2:48 | 2023-05-19 |  |
 | [For What It’s Worth \- Acoustic](https://open.spotify.com/track/6cydsvwI97aIZefvQw4D63) | [BRELAND](https://open.spotify.com/artist/0C86lmpnwiyLDUiyo4d0P1) | [For What It’s Worth \(Acoustic\)](https://open.spotify.com/album/2JXN2IhAHu3wTcC82XM5n8) | 2:58 | 2023-02-03 |  |
 | [Forever and Always \(Acoustic\)](https://open.spotify.com/track/6S6DhJXFPuA6CcfqCbAH31) | [Brandon Davis](https://open.spotify.com/artist/4qdsGbPO1JC8iXFo62qcNV) | [Forever and Always \(Acoustic\)](https://open.spotify.com/album/1KRzUD4fYV0PL3B2smJps3) | 3:10 | 2022-05-20 |  |
 | [Forever and Always \- Acoustic Version](https://open.spotify.com/track/2xBs8cDJEAtpostbqtcAk6) | [Tyler Cain](https://open.spotify.com/artist/7xmVA0jnh2yjM3S642J1Bd) | [Forever and Always \(Acoustic Version\)](https://open.spotify.com/album/3wyXosy7uV7muyjHjxVTqO) | 2:58 | 2021-12-17 | 2022-07-27 |
@@ -126,7 +127,7 @@
 | [Long Live Cowgirls \- Me and a Fiddle](https://open.spotify.com/track/4lxXEEJoOxMmsJZCP0STKV) | [Ian Munsick](https://open.spotify.com/artist/7HjGPPtdNuHcK8crc7iNkn) | [Long Live Cowgirls \(Me and a Fiddle\)](https://open.spotify.com/album/6gIH3nYhpIFwq1af55t8sY) | 3:00 | 2023-01-27 |  |
 | [Long Time Comin'](https://open.spotify.com/track/5xMxyWRoe37nUlHDk72cSW) | [Florida Georgia Line](https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg) | [Life Rolls On](https://open.spotify.com/album/6dfdmMDGw988CzNEFdnIcY) | 3:14 | 2021-12-17 | 2022-04-16 |
 | [Love Like I Drink](https://open.spotify.com/track/6T9waTBwi2sLjXP7TCbM65) | [Carter Winter](https://open.spotify.com/artist/2X2dVMgMz4cx8bMwwK6rL3), [Allie Colleen](https://open.spotify.com/artist/4eMzH84zzjn97xfJw5Tqas) | [Love Like I Drink](https://open.spotify.com/album/24iBC56uoPOCzQVXGupwcH) | 3:15 | 2021-12-17 | 2023-05-18 |
-| [Love Makes You Blind \(Acoustic Version\)](https://open.spotify.com/track/3nigSojrGL9YcS9RIt8X8U) | [Kaylee Rose](https://open.spotify.com/artist/0TKoBOWNrYm3FRIHvd1VfH) | [Love Makes You Blind \(Acoustic Version\)](https://open.spotify.com/album/75jOuaznH9JpfkrKLt6AmG) | 2:40 | 2023-04-21 |  |
+| [Love Makes You Blind \(Acoustic Version\)](https://open.spotify.com/track/3nigSojrGL9YcS9RIt8X8U) | [Kaylee Rose](https://open.spotify.com/artist/0TKoBOWNrYm3FRIHvd1VfH) | [Love Makes You Blind \(Acoustic Version\)](https://open.spotify.com/album/75jOuaznH9JpfkrKLt6AmG) | 2:40 | 2023-04-21 | 2023-05-21 |
 | [Love Makes You Blind \- Acoustic Version](https://open.spotify.com/track/2tZxQEeCnDbFfRrquFa6il) | [Kaylee Rose](https://open.spotify.com/artist/0TKoBOWNrYm3FRIHvd1VfH) | [Love Makes You Blind \(Acoustic Version\)](https://open.spotify.com/album/528xcQWw4mL4gYTvHBBNwo) | 2:40 | 2022-02-18 | 2022-10-22 |
 | [Loved Me That Way \(stripped\)](https://open.spotify.com/track/3vun63TsuIR6XBEqkuUaoL) | [Lauren Duski](https://open.spotify.com/artist/65Soberz2DNvbx2hrxHcx5) | [Loved Me That Way \(stripped\)](https://open.spotify.com/album/3fxgcZrlq630IxBTSacg7o) | 3:42 | 2021-12-17 | 2023-02-18 |
 | [Made \(Wedding Version\)](https://open.spotify.com/track/1BS7PmDyAlNTqMeex4Kt5X) | [Spencer Crandall](https://open.spotify.com/artist/6to2NJmRWY1h7rLU4c9TyG) | [Made \(Wedding Version\)](https://open.spotify.com/album/4gcjd7zcsqJNHUWvl8kIbA) | 3:35 | 2023-04-14 |  |

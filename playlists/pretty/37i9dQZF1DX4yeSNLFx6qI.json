@@ -1,12 +1,12 @@
 {
   "description": "Se acab\u00f3 el amor. La m\u00fasica contin\u00faa.",
-  "num_followers": 1742707,
+  "num_followers": 1742858,
   "original_name": "Sin Ti",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlODY4Y2NmYTI4OWE5YWUxYWVlYTkyOTViZjMwYjVlZTc2NDY0MjY3",
+  "snapshot_id": "MCxjOWI1ZmQ0ZGEwODgwYWIyNTI3ZjEzNDVjNWVkYzVhOGI2YWZhMjFk",
   "tracks": [
     {
       "added_at": "2023-05-05 03:22:13",
@@ -615,22 +615,6 @@
     {
       "added_at": "2023-05-05 03:22:13",
       "album": {
-        "name": "Ricardo Montaner Con La London Metropolitan Orchestra",
-        "url": "https://open.spotify.com/album/7dI1jAbtx6nFn2rcQKVPFE"
-      },
-      "artists": [
-        {
-          "name": "Ricardo Montaner",
-          "url": "https://open.spotify.com/artist/4uoz4FUMvpeyGClFTTDBsD"
-        }
-      ],
-      "duration_ms": 298293,
-      "name": "Me va a extra\u00f1ar (aka Unchain My Heart)",
-      "url": "https://open.spotify.com/track/35436ddSANnATz1eBT5FAY"
-    },
-    {
-      "added_at": "2023-05-05 03:22:13",
-      "album": {
         "name": "\u00bfD\u00f3nde Bailar\u00e1n Las Ni\u00f1as?",
         "url": "https://open.spotify.com/album/6BvR8xqcnvm7Gpmmnr7JKa"
       },
@@ -643,6 +627,22 @@
       "duration_ms": 214527,
       "name": "Cobarde",
       "url": "https://open.spotify.com/track/4rbFRFbocQDMubY2l2qM1K"
+    },
+    {
+      "added_at": "2023-05-05 03:22:13",
+      "album": {
+        "name": "Ricardo Montaner Con La London Metropolitan Orchestra",
+        "url": "https://open.spotify.com/album/7dI1jAbtx6nFn2rcQKVPFE"
+      },
+      "artists": [
+        {
+          "name": "Ricardo Montaner",
+          "url": "https://open.spotify.com/artist/4uoz4FUMvpeyGClFTTDBsD"
+        }
+      ],
+      "duration_ms": 298293,
+      "name": "Me va a extra\u00f1ar (aka Unchain My Heart)",
+      "url": "https://open.spotify.com/track/35436ddSANnATz1eBT5FAY"
     },
     {
       "added_at": "2023-05-05 03:22:13",
@@ -663,18 +663,18 @@
     {
       "added_at": "2023-05-05 03:22:13",
       "album": {
-        "name": "B\u00e9same Bonito",
-        "url": "https://open.spotify.com/album/5o9DsjFypLEtnfGvbSK9Zi"
+        "name": "Terral",
+        "url": "https://open.spotify.com/album/1cWvezm4YsxlvvOSRUXLmS"
       },
       "artists": [
         {
-          "name": "Carmen DeLeon",
-          "url": "https://open.spotify.com/artist/6vVKjeD0dvsg5EVMEUxI1l"
+          "name": "Pablo Albor\u00e1n",
+          "url": "https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50"
         }
       ],
-      "duration_ms": 180000,
-      "name": "B\u00e9same Bonito",
-      "url": "https://open.spotify.com/track/5wiP01qdBYlarxTj8uI40n"
+      "duration_ms": 287733,
+      "name": "Recu\u00e9rdame",
+      "url": "https://open.spotify.com/track/5UEtsmhfAtUb1KmPGougtO"
     },
     {
       "added_at": "2023-05-05 03:22:13",
@@ -699,18 +699,18 @@
     {
       "added_at": "2023-05-05 03:22:13",
       "album": {
-        "name": "Terral",
-        "url": "https://open.spotify.com/album/1cWvezm4YsxlvvOSRUXLmS"
+        "name": "B\u00e9same Bonito",
+        "url": "https://open.spotify.com/album/5o9DsjFypLEtnfGvbSK9Zi"
       },
       "artists": [
         {
-          "name": "Pablo Albor\u00e1n",
-          "url": "https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50"
+          "name": "Carmen DeLeon",
+          "url": "https://open.spotify.com/artist/6vVKjeD0dvsg5EVMEUxI1l"
         }
       ],
-      "duration_ms": 287733,
-      "name": "Recu\u00e9rdame",
-      "url": "https://open.spotify.com/track/5UEtsmhfAtUb1KmPGougtO"
+      "duration_ms": 180000,
+      "name": "B\u00e9same Bonito",
+      "url": "https://open.spotify.com/track/5wiP01qdBYlarxTj8uI40n"
     },
     {
       "added_at": "2023-05-05 03:22:13",
@@ -1607,22 +1607,6 @@
     {
       "added_at": "2023-05-05 03:22:13",
       "album": {
-        "name": "Ser\u00e1 Mi Culpa?",
-        "url": "https://open.spotify.com/album/4A1s03L5Tw52zY0FamWkDW"
-      },
-      "artists": [
-        {
-          "name": "LUANA",
-          "url": "https://open.spotify.com/artist/0sPEX6boGhIE9qWpzpSHET"
-        }
-      ],
-      "duration_ms": 139459,
-      "name": "Ser\u00e1 Mi Culpa?",
-      "url": "https://open.spotify.com/track/0e5wmUTalS4NiyNjMYmBIA"
-    },
-    {
-      "added_at": "2023-05-05 03:22:13",
-      "album": {
         "name": "D\u00e9jame Llorarte",
         "url": "https://open.spotify.com/album/1fjpRVL4FeqSEH4fcW9dxf"
       },
@@ -1639,6 +1623,22 @@
       "duration_ms": 189506,
       "name": "D\u00e9jame Llorarte",
       "url": "https://open.spotify.com/track/2wOFY8X0MhVjoHQpa41hFq"
+    },
+    {
+      "added_at": "2023-05-05 03:22:13",
+      "album": {
+        "name": "Ser\u00e1 Mi Culpa?",
+        "url": "https://open.spotify.com/album/4A1s03L5Tw52zY0FamWkDW"
+      },
+      "artists": [
+        {
+          "name": "LUANA",
+          "url": "https://open.spotify.com/artist/0sPEX6boGhIE9qWpzpSHET"
+        }
+      ],
+      "duration_ms": 139459,
+      "name": "Ser\u00e1 Mi Culpa?",
+      "url": "https://open.spotify.com/track/0e5wmUTalS4NiyNjMYmBIA"
     },
     {
       "added_at": "2023-05-05 03:22:13",
@@ -1679,6 +1679,30 @@
     {
       "added_at": "2023-05-05 03:22:13",
       "album": {
+        "name": "Se Me Olvid\u00f3 Olvidarte",
+        "url": "https://open.spotify.com/album/7reK9X26hjUaOSzBKaKqoW"
+      },
+      "artists": [
+        {
+          "name": "Mijares",
+          "url": "https://open.spotify.com/artist/3zhijRRIZX2B6G2T7vJl9p"
+        },
+        {
+          "name": "Kaia Lana",
+          "url": "https://open.spotify.com/artist/2w1kIJBDjYnpHHVLiTn3FJ"
+        },
+        {
+          "name": "Lucero Mijares",
+          "url": "https://open.spotify.com/artist/3NRfvOGwdqnzGWuHE15nGW"
+        }
+      ],
+      "duration_ms": 234309,
+      "name": "Se Me Olvid\u00f3 Olvidarte",
+      "url": "https://open.spotify.com/track/3PQW9eCAHJm5RXMTRk84la"
+    },
+    {
+      "added_at": "2023-05-05 03:22:13",
+      "album": {
         "name": "Te Necesito (Live Acoustic)",
         "url": "https://open.spotify.com/album/22HjtWbGDotQroRs9Wo3KH"
       },
@@ -1715,42 +1739,18 @@
     {
       "added_at": "2023-05-05 03:22:13",
       "album": {
-        "name": "Se Me Olvid\u00f3 Olvidarte",
-        "url": "https://open.spotify.com/album/7reK9X26hjUaOSzBKaKqoW"
+        "name": "Coraz\u00f3n descalzo",
+        "url": "https://open.spotify.com/album/6rPDQxBOhdM6PMJhicMIWj"
       },
       "artists": [
         {
-          "name": "Mijares",
-          "url": "https://open.spotify.com/artist/3zhijRRIZX2B6G2T7vJl9p"
-        },
-        {
-          "name": "Kaia Lana",
-          "url": "https://open.spotify.com/artist/2w1kIJBDjYnpHHVLiTn3FJ"
-        },
-        {
-          "name": "Lucero Mijares",
-          "url": "https://open.spotify.com/artist/3NRfvOGwdqnzGWuHE15nGW"
+          "name": "Pablo Albor\u00e1n",
+          "url": "https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50"
         }
       ],
-      "duration_ms": 234309,
-      "name": "Se Me Olvid\u00f3 Olvidarte",
-      "url": "https://open.spotify.com/track/3PQW9eCAHJm5RXMTRk84la"
-    },
-    {
-      "added_at": "2023-05-05 03:22:13",
-      "album": {
-        "name": "Rabia",
-        "url": "https://open.spotify.com/album/2LKP2fXNzRdyPF3n5vsvOf"
-      },
-      "artists": [
-        {
-          "name": "Joaquina",
-          "url": "https://open.spotify.com/artist/081F5qgtVMfcHZKDY1IEa0"
-        }
-      ],
-      "duration_ms": 217133,
-      "name": "Rabia",
-      "url": "https://open.spotify.com/track/2QwS2wHRPuSBeN9XGfQ6hD"
+      "duration_ms": 254927,
+      "name": "Coraz\u00f3n descalzo",
+      "url": "https://open.spotify.com/track/54ApOH9ZT6Sk86t8Ayuey9"
     }
   ],
   "unique_name": "Sin Ti",

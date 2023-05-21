@@ -1681,6 +1681,24 @@
     },
     {
       "album": {
+        "name": "Deranged / Monster",
+        "url": "https://open.spotify.com/album/2xHrmuBusT5rLLulrUvRsd"
+      },
+      "artists": [
+        {
+          "name": "Blanke",
+          "url": "https://open.spotify.com/artist/59Yq0xrABEihHANsfo9QMT"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204782,
+      "name": "Deranged",
+      "url": "https://open.spotify.com/track/5GuFNblmTTazW0UKhf0d34"
+    },
+    {
+      "album": {
         "name": "Revive EP",
         "url": "https://open.spotify.com/album/2DcvIKn3wfkVAsGVwePr0r"
       },
@@ -3144,7 +3162,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-21",
       "duration_ms": 255846,
       "name": "Hurt",
       "url": "https://open.spotify.com/track/4hSmhoWceZfpoTopxcvaEr"
@@ -3326,7 +3344,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-16",
+      "date_removed": null,
       "duration_ms": 220689,
       "name": "In The Stars",
       "url": "https://open.spotify.com/track/3qPJQhBBLPtr1R9ojGQFKk"
@@ -6152,7 +6170,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-21",
       "duration_ms": 208551,
       "name": "Someone Else",
       "url": "https://open.spotify.com/track/5bYBWSSkQF9QO0vSAbK3Cm"

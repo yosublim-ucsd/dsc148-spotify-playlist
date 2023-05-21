@@ -1,12 +1,12 @@
 {
   "description": "P\u00e5 med fj\u00e4derboan och de gyllene skorna. Nu ska vi dansa i neon!",
-  "num_followers": 25948,
+  "num_followers": 25960,
   "original_name": "Schlagerfest",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxNzYxOTM1NjgxNzA3N2ViNmIxZjA5MTY3MzdlYjdmZTE5OWQzNzBi",
+  "snapshot_id": "MCwwYTc3NTVkNTllMGE1OGUxMGJlMzdjYjA1MTgzNWRmODdhYmQwMDcz",
   "tracks": [
     {
       "added_at": "2023-02-26 01:59:39",
@@ -171,22 +171,6 @@
     {
       "added_at": "2023-02-26 01:59:39",
       "album": {
-        "name": "Guld och gr\u00f6na skogar",
-        "url": "https://open.spotify.com/album/7JVTdIGoQzBnzf8dwqE0HW"
-      },
-      "artists": [
-        {
-          "name": "Hasse Andersson",
-          "url": "https://open.spotify.com/artist/08JjzDgK2ltxMBWlez1YyH"
-        }
-      ],
-      "duration_ms": 183946,
-      "name": "Guld och gr\u00f6na skogar",
-      "url": "https://open.spotify.com/track/6EnNjWkk1YX3fsTXtwO773"
-    },
-    {
-      "added_at": "2023-02-26 01:59:39",
-      "album": {
         "name": "Genom Eld & Vatten",
         "url": "https://open.spotify.com/album/0IvnnD0YUy1yZuLMUHzUL4"
       },
@@ -203,18 +187,18 @@
     {
       "added_at": "2023-02-26 01:59:39",
       "album": {
-        "name": "Take Me To Your Heaven",
-        "url": "https://open.spotify.com/album/6fgypOA8G33QMu1Fuufn7Y"
+        "name": "Guld och gr\u00f6na skogar",
+        "url": "https://open.spotify.com/album/7JVTdIGoQzBnzf8dwqE0HW"
       },
       "artists": [
         {
-          "name": "Charlotte Perrelli",
-          "url": "https://open.spotify.com/artist/39Waq6UmqYCBEuyv8M8kjl"
+          "name": "Hasse Andersson",
+          "url": "https://open.spotify.com/artist/08JjzDgK2ltxMBWlez1YyH"
         }
       ],
-      "duration_ms": 182800,
-      "name": "Tusen och en natt",
-      "url": "https://open.spotify.com/track/6JIwvW8ioos5KFp0Q0mS3Y"
+      "duration_ms": 183946,
+      "name": "Guld och gr\u00f6na skogar",
+      "url": "https://open.spotify.com/track/6EnNjWkk1YX3fsTXtwO773"
     },
     {
       "added_at": "2023-02-26 01:59:39",
@@ -231,6 +215,22 @@
       "duration_ms": 184319,
       "name": "Jag ljuger s\u00e5 bra",
       "url": "https://open.spotify.com/track/4IV8dOSLi26stONnuQg8Kf"
+    },
+    {
+      "added_at": "2023-02-26 01:59:39",
+      "album": {
+        "name": "Take Me To Your Heaven",
+        "url": "https://open.spotify.com/album/6fgypOA8G33QMu1Fuufn7Y"
+      },
+      "artists": [
+        {
+          "name": "Charlotte Perrelli",
+          "url": "https://open.spotify.com/artist/39Waq6UmqYCBEuyv8M8kjl"
+        }
+      ],
+      "duration_ms": 182800,
+      "name": "Tusen och en natt",
+      "url": "https://open.spotify.com/track/6JIwvW8ioos5KFp0Q0mS3Y"
     },
     {
       "added_at": "2023-02-26 01:59:39",
@@ -315,22 +315,6 @@
     {
       "added_at": "2023-02-26 01:59:39",
       "album": {
-        "name": "Ingenting att f\u00f6rlora",
-        "url": "https://open.spotify.com/album/7KW1wOSzVGdWs1aA3pzT1l"
-      },
-      "artists": [
-        {
-          "name": "Linda Bengtzing",
-          "url": "https://open.spotify.com/artist/6IBNZlx6x6TbLUIJhXT4xV"
-        }
-      ],
-      "duration_ms": 169213,
-      "name": "Alla flickor",
-      "url": "https://open.spotify.com/track/6YGqMb6MmqcwIHaDSCA7Nq"
-    },
-    {
-      "added_at": "2023-02-26 01:59:39",
-      "album": {
         "name": "Bra vibrationer",
         "url": "https://open.spotify.com/album/6pTczERNVTTxtoFjfOIKWU"
       },
@@ -375,6 +359,22 @@
       "duration_ms": 173124,
       "name": "Bail\u00e1 Bail\u00e1",
       "url": "https://open.spotify.com/track/3MMJuk00QLVAjS6vwBZ67V"
+    },
+    {
+      "added_at": "2023-02-26 01:59:39",
+      "album": {
+        "name": "Ingenting att f\u00f6rlora",
+        "url": "https://open.spotify.com/album/7KW1wOSzVGdWs1aA3pzT1l"
+      },
+      "artists": [
+        {
+          "name": "Linda Bengtzing",
+          "url": "https://open.spotify.com/artist/6IBNZlx6x6TbLUIJhXT4xV"
+        }
+      ],
+      "duration_ms": 169213,
+      "name": "Alla flickor",
+      "url": "https://open.spotify.com/track/6YGqMb6MmqcwIHaDSCA7Nq"
     },
     {
       "added_at": "2023-02-26 01:59:39",
@@ -507,22 +507,6 @@
     {
       "added_at": "2023-02-26 01:59:39",
       "album": {
-        "name": "Alltid p\u00e5 v\u00e4g",
-        "url": "https://open.spotify.com/album/3CDoUVCjpSa2N08MBL8Ovy"
-      },
-      "artists": [
-        {
-          "name": "Nanne",
-          "url": "https://open.spotify.com/artist/0whAheccvr5O5qbQjNk4gi"
-        }
-      ],
-      "duration_ms": 182773,
-      "name": "H\u00e5ll om mig",
-      "url": "https://open.spotify.com/track/6LjXwyNIh30VWsnvT8JHhz"
-    },
-    {
-      "added_at": "2023-02-26 01:59:39",
-      "album": {
         "name": "En Samling 1981 - 2001",
         "url": "https://open.spotify.com/album/0TcAev3EcjkrvhP3BoHlj9"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 198706,
       "name": "En dag",
       "url": "https://open.spotify.com/track/4y81ov9ojdBPu5eLhDKxS9"
+    },
+    {
+      "added_at": "2023-02-26 01:59:39",
+      "album": {
+        "name": "Alltid p\u00e5 v\u00e4g",
+        "url": "https://open.spotify.com/album/3CDoUVCjpSa2N08MBL8Ovy"
+      },
+      "artists": [
+        {
+          "name": "Nanne",
+          "url": "https://open.spotify.com/artist/0whAheccvr5O5qbQjNk4gi"
+        }
+      ],
+      "duration_ms": 182773,
+      "name": "H\u00e5ll om mig",
+      "url": "https://open.spotify.com/track/6LjXwyNIh30VWsnvT8JHhz"
     },
     {
       "added_at": "2023-02-26 01:59:39",
@@ -807,22 +807,6 @@
     {
       "added_at": "2023-02-26 01:59:39",
       "album": {
-        "name": "Everyday",
-        "url": "https://open.spotify.com/album/3H8RhX7BEs0wvFLAkZXVlW"
-      },
-      "artists": [
-        {
-          "name": "Mendez",
-          "url": "https://open.spotify.com/artist/5z9PI0y6MRnL9BCHOI5ilL"
-        }
-      ],
-      "duration_ms": 185239,
-      "name": "Everyday",
-      "url": "https://open.spotify.com/track/7DgXgP8rZZuIgh8vjhiQ0c"
-    },
-    {
-      "added_at": "2023-02-26 01:59:39",
-      "album": {
         "name": "R\u00f6k 'n Roll",
         "url": "https://open.spotify.com/album/3GjCjRj6hI2tzAeKs5nIKD"
       },
@@ -835,6 +819,22 @@
       "duration_ms": 177160,
       "name": "Kom och ta mig",
       "url": "https://open.spotify.com/track/22T3LCFXjOfxkiq5JgJacE"
+    },
+    {
+      "added_at": "2023-02-26 01:59:39",
+      "album": {
+        "name": "Everyday",
+        "url": "https://open.spotify.com/album/3H8RhX7BEs0wvFLAkZXVlW"
+      },
+      "artists": [
+        {
+          "name": "Mendez",
+          "url": "https://open.spotify.com/artist/5z9PI0y6MRnL9BCHOI5ilL"
+        }
+      ],
+      "duration_ms": 185239,
+      "name": "Everyday",
+      "url": "https://open.spotify.com/track/7DgXgP8rZZuIgh8vjhiQ0c"
     },
     {
       "added_at": "2023-02-26 01:59:39",

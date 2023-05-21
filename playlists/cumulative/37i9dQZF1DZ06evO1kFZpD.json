@@ -5,6 +5,28 @@
   "tracks": [
     {
       "album": {
+        "name": "The Way That Lovers Do (Deluxe)",
+        "url": "https://open.spotify.com/album/6C2VRR7GTljLTkakd8EZ1N"
+      },
+      "artists": [
+        {
+          "name": "Prateek Kuhad",
+          "url": "https://open.spotify.com/artist/0tC995Rfn9k2l7nqgCZsV7"
+        },
+        {
+          "name": "Raveena",
+          "url": "https://open.spotify.com/artist/2kQnsbKnIiMahOetwlfcaS"
+        }
+      ],
+      "date_added": "2023-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221005,
+      "name": "Bloom (feat. Raveena)",
+      "url": "https://open.spotify.com/track/5dwzLRsxlFK7RhULlsSROb"
+    },
+    {
+      "album": {
         "name": "Moonstone EP",
         "url": "https://open.spotify.com/album/0YdgyT5LFI48qP4bo6Rd74"
       },

@@ -4,7 +4,7 @@
 
 > Current indie tunes from Asia and around the world\. Cover: Blur
 
-908 songs - 2 day 6 hr 16 min
+909 songs - 2 day 6 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -139,7 +139,8 @@
 | [Car Therapy](https://open.spotify.com/track/03bB3eUCjwXGYkyMrKK8qg) | [Faye Webster](https://open.spotify.com/artist/5szilpXHcwOqnyKLqGco5j) | [Car Therapy](https://open.spotify.com/album/7D252Ap6IlJ1q37D92PjyB) | 3:34 | 2022-04-14 | 2022-05-13 |
 | [Caroline Good Bye](https://open.spotify.com/track/71VbmPIctQOQ1GDoUgaC07) | [Taken By Trees](https://open.spotify.com/artist/0Xn4iSM6rXebCl4Ub50RFN) | [Another Year](https://open.spotify.com/album/7pLvxJXOGWGd5LDywYJRjW) | 3:36 | 2022-12-08 | 2023-02-25 |
 | [Carpenter](https://open.spotify.com/track/51NHBYYoBLDqgp5COax2JC) | [Vagabon](https://open.spotify.com/artist/17mwzDXKn4ra9cuxXaptwp) | [Carpenter](https://open.spotify.com/album/4xi4w7FjmZVR3UAvmotbAE) | 3:19 | 2023-01-13 | 2023-03-11 |
-| [Carry On](https://open.spotify.com/track/7DCUovUQQadbbid2HGF7ae) | [Summer Salt](https://open.spotify.com/artist/3MATPJ9tYbcMhw5VOZrRU6) | [Carry On](https://open.spotify.com/album/6X6fxlY1QU0ZUfeJ5sdzt3) | 2:51 | 2023-04-28 |  |
+| [Carry On](https://open.spotify.com/track/5rvc8Bi2rNLRHIU1zPJG1v) | [Summer Salt](https://open.spotify.com/artist/3MATPJ9tYbcMhw5VOZrRU6) | [Campanita](https://open.spotify.com/album/41FeoNfcFYVQfGSTJkcC5W) | 2:51 | 2023-05-19 |  |
+| [Carry On](https://open.spotify.com/track/7DCUovUQQadbbid2HGF7ae) | [Summer Salt](https://open.spotify.com/artist/3MATPJ9tYbcMhw5VOZrRU6) | [Carry On](https://open.spotify.com/album/6X6fxlY1QU0ZUfeJ5sdzt3) | 2:51 | 2023-04-28 | 2023-05-21 |
 | [Catch Your Eye](https://open.spotify.com/track/4eEcaTcDWJLRS3qW1HX78U) | [Andy Shauf](https://open.spotify.com/artist/5mFKYdmiYwNJTDtSzgFyQx) | [Norm](https://open.spotify.com/album/0TaN6TZg6BpT0lQNJAhGrC) | 2:42 | 2023-02-03 | 2023-03-11 |
 | [Catch Your Eye](https://open.spotify.com/track/6GPVKiXpyWUS6qAxxOoVrq) | [Andy Shauf](https://open.spotify.com/artist/5mFKYdmiYwNJTDtSzgFyQx) | [Catch Your Eye](https://open.spotify.com/album/3sfQAESJhc6JQDLPYvdg00) | 2:42 | 2022-12-16 | 2023-02-14 |
 | [Cause U](https://open.spotify.com/track/1CQjCixIGB3y8NwV4f8Zsq) | [宋柏緯](https://open.spotify.com/artist/1LWJ9mrDCPd3HB2Kp1RDXK) | [Posture and Attitude](https://open.spotify.com/album/6RLEGJSkCl5o1KVQvckHRe) | 3:24 | 2022-08-04 | 2022-09-23 |

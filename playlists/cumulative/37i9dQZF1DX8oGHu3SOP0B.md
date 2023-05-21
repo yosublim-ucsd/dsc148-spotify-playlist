@@ -57,6 +57,6 @@
 | [ใจหายอ่ะ สงสัยอยู่ที่เธอ \- AirTag](https://open.spotify.com/track/1pFNuRW1pWWrDvw3d6HFfR) | [Praesun](https://open.spotify.com/artist/2Sh3qw7RhefxTOThPiGTb7) | [ใจหายอ่ะ สงสัยอยู่ที่เธอ \(AirTag\)](https://open.spotify.com/album/2Y7LL9rhInVW0YH5uK0hMY) | 3:18 | 2023-05-02 |  |
 | [ไม่รับความเห็นต่าง \(U R Mine\)](https://open.spotify.com/track/3v5t1e2XeLtJoZDENzdanb) | [PRETZELLE](https://open.spotify.com/artist/5imDin9uo07y7ZuUiJgOU7) | [ไม่รับความเห็นต่าง \(U R Mine\)](https://open.spotify.com/album/6msk0pybxXr877JwlHb7LA) | 3:22 | 2023-05-02 |  |
 | [ไม่เป็นไร \(SoSad\)](https://open.spotify.com/track/210f97NLc8vwHaZL6aYH4y) | [PRAECHANAA](https://open.spotify.com/artist/75QoR9b1fPbECd6K6xfm31) | [ไม่เป็นไร \(SoSad\)](https://open.spotify.com/album/6EQM8boSyrx8WEnYyf70K4) | 3:31 | 2023-05-02 |  |
-| [ไม่ได้ก็ไม่เอา \- Whatever](https://open.spotify.com/track/1UxVMaHEm6UJxGOg4ixSZO) | [PiXXiE](https://open.spotify.com/artist/6HlUN1Md7UT62mNJHOYRsK), [Zom Marie](https://open.spotify.com/artist/3CYmJROYywqfz2zXoUrcGB) | [BLOOM](https://open.spotify.com/album/4edPsEhpxL35cl5meC5vvJ) | 2:48 | 2023-05-02 |  |
+| [ไม่ได้ก็ไม่เอา](https://open.spotify.com/track/1UxVMaHEm6UJxGOg4ixSZO) | [PiXXiE](https://open.spotify.com/artist/6HlUN1Md7UT62mNJHOYRsK), [Zom Marie](https://open.spotify.com/artist/3CYmJROYywqfz2zXoUrcGB) | [BLOOM](https://open.spotify.com/album/4edPsEhpxL35cl5meC5vvJ) | 2:48 | 2023-05-02 |  |
 
 \*This playlist was first scraped on 2023-05-03. Prior content cannot be recovered.

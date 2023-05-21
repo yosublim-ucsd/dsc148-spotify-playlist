@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe5W6diBL5N4.md) - [plain]
 
 > Enjoy the freshest K\-Pop new releases \(Cover: CHEN\(첸\)\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 169,698 likes - 391 songs - 22 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 169,851 likes - 391 songs - 22 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe5W6diBL5N4.md) - [plain]
 | 8 | [collapse](https://open.spotify.com/track/1dT60t9vRctjI7maTf0n1h) | [오현우](https://open.spotify.com/artist/1PQQMG99o0K7BBYAwVpTqf) | [collapse](https://open.spotify.com/album/021FmdNbQCDHfnkIuVtQRM) | 4:03 |
 | 9 | [Marry Me](https://open.spotify.com/track/60XDBmcTUepDSF6CvCsUJQ) | [Hwang Inhyeock](https://open.spotify.com/artist/28OLqzxmCoA3k8XQQXU3To) | [Marry Me](https://open.spotify.com/album/1UyAxLJHTTbz6JXX3kFzn1) | 3:58 |
 | 10 | [To Me](https://open.spotify.com/track/37PbwartKkgaD6DdnZ41fG) | [J.Fla](https://open.spotify.com/artist/2GbvMs4GBhcjd9d4N9sGUV) | [To Me](https://open.spotify.com/album/2KGBvltgIdhgHbSR0K8umj) | 2:40 |
-| 11 | [HIT N" RUN](https://open.spotify.com/track/4klhpAWhKZtTO7QOYvZdfA) | [Kuzi](https://open.spotify.com/artist/5rLQsLxJ2fFYVqH84xH7Oj) | [Joyrider's Avenue](https://open.spotify.com/album/0VVgt0RedKxHj5upa62Kwn) | 2:52 |
+| 11 | [HIT N" RUN](https://open.spotify.com/track/4klhpAWhKZtTO7QOYvZdfA) | [kuzi](https://open.spotify.com/artist/5rLQsLxJ2fFYVqH84xH7Oj) | [Joyrider's Avenue](https://open.spotify.com/album/0VVgt0RedKxHj5upa62Kwn) | 2:52 |
 | 12 | [Summer night](https://open.spotify.com/track/3881Qo8Uh8294U4o38cgC4) | [My Aunt Mary](https://open.spotify.com/artist/02ROLqtEjHtHUbCuon7bQU) | [Right NOW](https://open.spotify.com/album/1TjVvjELdGpXfokedjFvlM) | 5:24 |
 | 13 | [Queencard](https://open.spotify.com/track/4uOBL4DDWWVx4RhYKlPbPC) | [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [I feel](https://open.spotify.com/album/3PQZnr5gf699uYEaGH93uG) | 2:41 |
 | 14 | [Crazy Like That](https://open.spotify.com/track/3YKVnTgamsTa6zzimeaJXc) | [VERIVERY](https://open.spotify.com/artist/1fWUcRSok57yRm8gPKj1Fc) | [Liminality \- EP.DREAM](https://open.spotify.com/album/0G24S1Jv4NSKhPuDXVtiU6) | 3:11 |
@@ -400,4 +400,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe5W6diBL5N4.md) - [plain]
 | 390 | [Play](https://open.spotify.com/track/2eOKRPK5ShMn9B4a0XeZnl) | [Taylor](https://open.spotify.com/artist/388sAC0WYTJWunGAr0P8Hj) | [Stealer : The treasure keeper, Pt\. 1 \(Original Television Soundtrack\)](https://open.spotify.com/album/4yffRNp0hKE1DznHnTn8Np) | 2:43 |
 | 391 | [SEONGSU FREESTYLE](https://open.spotify.com/track/4a2vlQKgijgytFMuTGsWiF) | [UNDER SEONGSU BRIDGE](https://open.spotify.com/artist/7ySSnCpBooi2C2OU1L7Dpt) | [SEONGSU FREESTYLE](https://open.spotify.com/album/1tRcboOCES3xP14mhB25B0) | 3:01 |
 
-Snapshot ID: `MCw3MTc2ODM2MzUzMTRhZDZhNzFjNjQ4NTkzMDRjM2FmZDhmNTQwMWM3`
+Snapshot ID: `MCw0ZTcyNTU2MWMzZmIwZDRkZTIzZThiY2E2OTdkMDU1ZmM4N2U4MjBh`

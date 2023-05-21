@@ -4,7 +4,7 @@
 
 > New music from KAYTRAMINÉ, Conan Gray, Kesha and Belly.
 
-7,158 songs - 15 day 21 hr 37 min
+7,159 songs - 15 day 21 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -5720,7 +5720,8 @@
 | [Spicy](https://open.spotify.com/track/1ULdASrNy5rurl1TZfFaMP) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [MY WORLD \- The 3rd Mini Album](https://open.spotify.com/album/69xF8jTd0c4Zoo7DT3Rwrn) | 3:17 | 2023-05-12 | 2023-05-20 |
 | [Spiders](https://open.spotify.com/track/08QzqlCCkyKhL0OpLvfDNC) | [Bear's Den](https://open.spotify.com/artist/0nJaMZM8paoA5HEUTUXPqi) | [Spiders](https://open.spotify.com/album/75Qwc3d50bgNBmzleMEWJK) | 3:48 | 2022-01-21 | 2022-01-29 |
 | [Spin the Block](https://open.spotify.com/track/0IomPr5dBXw2sIkZKvZSSp) | [RAAHiiM](https://open.spotify.com/artist/5Bo5WRNdz8ZOSVA6nJs5M9) | [Spin the Block](https://open.spotify.com/album/2eco2tXEVHu9oaI1uwxCYC) | 3:49 | 2022-11-11 | 2022-11-19 |
-| [Spinnin' \(feat\. EST Gee\)](https://open.spotify.com/track/1jBSRWaJIQ0AaF0UQ91IbG) | [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7), [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [Spinnin' \(feat\. EST Gee / FAST X Soundtrack\)](https://open.spotify.com/album/5YjvUivNXjwSZFFKa4ffbb) | 2:47 | 2023-05-19 |  |
+| [Spinnin' \(feat\. EST Gee\)](https://open.spotify.com/track/15rAPSEAcdP4wE8jBkicV6) | [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7), [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [FAST X \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4jgT0TBoRBPW2bSNXbjN0s) | 2:47 | 2023-05-19 |  |
+| [Spinnin' \(feat\. EST Gee\)](https://open.spotify.com/track/1jBSRWaJIQ0AaF0UQ91IbG) | [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7), [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [Spinnin' \(feat\. EST Gee / FAST X Soundtrack\)](https://open.spotify.com/album/5YjvUivNXjwSZFFKa4ffbb) | 2:47 | 2023-05-19 | 2023-05-21 |
 | [Spiracle](https://open.spotify.com/track/6k7HtWuprjQmulpo4OpieI) | [Flower Face](https://open.spotify.com/artist/0sYlth2PW1zWJMEU2vCukz) | [The Shark in Your Water](https://open.spotify.com/album/75nZGvjStgCUavXcsYsXf7) | 2:59 | 2022-05-27 | 2022-06-04 |
 | [Spirit Of Ecstasy](https://open.spotify.com/track/0lJlfgLyVz29IRLnWjzqKt) | [Red Cafe](https://open.spotify.com/artist/4BWn7qje7L2bGp79bupn3B), [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv), [Fabolous](https://open.spotify.com/artist/0YWxKQj2Go9CGHCp77UOyy) | [Spirit Of Ecstasy \(Whole\-Lotta\)](https://open.spotify.com/album/3xI1q1peka08MOT2ZfMmyc) | 3:14 | 2022-05-13 | 2022-05-20 |
 | [Spit](https://open.spotify.com/track/5wPlDch91Wy9O61JdfTun3) | [A\-Trak](https://open.spotify.com/artist/3TaUSUXn41GixL7zbvrIDt) | [Spit](https://open.spotify.com/album/5WiJHK34SXiwH47hk56HGc) | 3:35 | 2022-03-18 | 2022-03-26 |

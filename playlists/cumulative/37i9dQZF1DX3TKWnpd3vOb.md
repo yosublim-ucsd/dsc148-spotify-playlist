@@ -4,7 +4,7 @@
 
 > Encuentra un mix de clásicos y nuevos talentos\. Foto: Los Bunkers
 
-234 songs - 14 hr 59 min
+235 songs - 15 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,7 +27,7 @@
 | [Besos de Mentira](https://open.spotify.com/track/6mw673LImrCKhhaSuREN77) | [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt) | [Besos de Mentira](https://open.spotify.com/album/59YXxHDuctzI9DD49Or8yb) | 4:18 | 2022-04-08 | 2022-07-29 |
 | [Besos de Papel \(Hoy Te Vi\)](https://open.spotify.com/track/4WzSCOmQIjAdP3J3lDxcOa) | [Mera](https://open.spotify.com/artist/2STjZWySdM3zCSVv1E0Qrn) | [Besos de Papel \(Hoy Te Vi\)](https://open.spotify.com/album/1fIraWCcYR9mK4BJcTtbmL) | 3:36 | 2022-11-29 | 2023-03-03 |
 | [Bichos / Vicious](https://open.spotify.com/track/56L0VuYBkJzslZes40qjuf) | [Perrosky](https://open.spotify.com/artist/4yjkuB5LSs64YsvUj11MQm) | [Loumania](https://open.spotify.com/album/3nzWHNbkQZq5nF4QlI9OP8) | 2:58 | 2022-04-08 | 2023-03-03 |
-| [Bien](https://open.spotify.com/track/0pMmpEaKdAJnu3RWxWDw6B) | [99 Payasos](https://open.spotify.com/artist/2WSHIN9bs2GkKpPCaRz23c) | [Bien](https://open.spotify.com/album/0nWFCj8PtvoSWJpmlhRrSs) | 2:57 | 2023-03-03 |  |
+| [Bien](https://open.spotify.com/track/0pMmpEaKdAJnu3RWxWDw6B) | [99 Payasos](https://open.spotify.com/artist/2WSHIN9bs2GkKpPCaRz23c) | [Bien](https://open.spotify.com/album/0nWFCj8PtvoSWJpmlhRrSs) | 2:57 | 2023-03-03 | 2023-05-21 |
 | [Bola de Fuego](https://open.spotify.com/track/555e5RYDYUbGDib7NbD7m6) | [Chancho En Piedra](https://open.spotify.com/artist/46KmqHQ1EfYqQtO7r77AMp) | [Bola de Fuego](https://open.spotify.com/album/1IcdO8wRlwQGFY4rMCEWdZ) | 3:07 | 2022-04-08 | 2022-12-17 |
 | [Caballo sin dueño](https://open.spotify.com/track/2RQbZvq8nqZJF2AvhM0l5X) | [Pettinellis](https://open.spotify.com/artist/2UqwAwxVtnr9MyQ96yNoGD) | [Caballo sin dueño](https://open.spotify.com/album/0QFXBy5wBY5jUagOv9fWJz) | 3:37 | 2023-01-06 |  |
 | [Camino a Casa](https://open.spotify.com/track/3evQsJptwoHiMgjPEXHgUY) | [Manuel García](https://open.spotify.com/artist/4LIR7XQRqn0CyXMYSjKoTX), [Muerdo](https://open.spotify.com/artist/3Tn4gmQQde9am94ntk2NBq) | [Camino a Casa](https://open.spotify.com/album/2ysiEW1gjjAB0WykQp31lU) | 2:53 | 2022-04-08 |  |
@@ -111,6 +111,7 @@
 | [La Noche de la Iguana](https://open.spotify.com/track/6ajYyaGmGPGlmMtCbRdKP1) | [Témpera](https://open.spotify.com/artist/0ebwViXeJplUU77oCKMT9g) | [La Noche de la Iguana](https://open.spotify.com/album/6ZJYe8WVnY9uLVJkilHX4L) | 2:59 | 2022-12-16 | 2023-03-03 |
 | [La Novedad](https://open.spotify.com/track/02DS1pkoxKdTjwjGy2GM9C) | [Tus Amigos Nuevos](https://open.spotify.com/artist/4dqL8obu05HTocAZNPJvfc) | [Triunfo Moral](https://open.spotify.com/album/3hL8HprnZ9Ser3xyDKyOYU) | 3:54 | 2022-04-08 | 2022-07-29 |
 | [La Novedad](https://open.spotify.com/track/2z2tGCCNAV3NQvBbFgiOie) | [Tus Amigos Nuevos](https://open.spotify.com/artist/4dqL8obu05HTocAZNPJvfc) | [Triunfo Moral](https://open.spotify.com/album/7e9za5TuvLECmLnUDmUjq7) | 3:54 | 2022-07-08 | 2022-12-17 |
+| [La Pelea](https://open.spotify.com/track/2sevFQjf4CLlhosI9knEhs) | [Super Especial](https://open.spotify.com/artist/7EiWbSp3dVXfPJMfIFnbJ1) | [La Pelea](https://open.spotify.com/album/3kbW39Z4MLMUv8TQogzwD3) | 3:25 | 2023-05-19 |  |
 | [La Resistencia](https://open.spotify.com/track/6WVirUv3nsEd5Yzv49VhrQ) | [Aeroplan!](https://open.spotify.com/artist/5GEK0mkhlKA30kNfom98YV) | [La Resistencia](https://open.spotify.com/album/2uv2SNhV9Xc4Q0tm7eo69F) | 4:28 | 2022-04-08 | 2022-07-20 |
 | [La Revuelta y el Traidor](https://open.spotify.com/track/20Is1e3oouZK8E3G4TymI3) | [Chicanota](https://open.spotify.com/artist/73ZDYjQrEIwv6dxSVl12mS) | [La Revuelta y el Traidor](https://open.spotify.com/album/2HDBjfIDPmvvefYmcnioz1) | 5:01 | 2022-04-08 | 2022-07-26 |
 | [La Torre de Babel](https://open.spotify.com/track/3AxtYZk8bA3LHaJ1WfYgjj) | [Los Tres](https://open.spotify.com/artist/4qXIYIWo6wRsN0lZxvgH6S) | [Fome](https://open.spotify.com/album/0BP7icmUBO6wGRTtEGVDmY) | 3:30 | 2022-04-08 | 2022-12-17 |

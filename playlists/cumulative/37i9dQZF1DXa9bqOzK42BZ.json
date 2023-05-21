@@ -404,10 +404,28 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-21",
       "duration_ms": 295253,
       "name": "Jina La Yesu",
       "url": "https://open.spotify.com/track/6FZWGjLkrpEKVCA2qoZAtL"
+    },
+    {
+      "album": {
+        "name": "Katika Ibada",
+        "url": "https://open.spotify.com/album/0sprJAbkqVjUIwt0Bo8AFp"
+      },
+      "artists": [
+        {
+          "name": "Fanuel Sedekia",
+          "url": "https://open.spotify.com/artist/4aIO5gn78ZNovl19OdpbGG"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295314,
+      "name": "Jina La Yesu",
+      "url": "https://open.spotify.com/track/2rv5OzGIcE3NPvSJiYswp4"
     },
     {
       "album": {

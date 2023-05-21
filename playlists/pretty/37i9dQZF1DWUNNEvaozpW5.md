@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUNNEvaozpW5.md) - [plain]
 
 > Lo mejor del rock de aquí, como Leiva.
 
-[Spotify](https://open.spotify.com/user/spotify) - 552,351 likes - 75 songs - 5 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 552,515 likes - 75 songs - 5 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUNNEvaozpW5.md) - [plain]
 | 74 | [En Blanco Y Negro](https://open.spotify.com/track/0XRCnku7VZhVWHSktqpnWh) | [Barricada](https://open.spotify.com/artist/5llr3wJl6JrJoHSJAR804R) | [Por Instinto](https://open.spotify.com/album/3b2ODyXT2nMGONCMhUAWA9) | 4:05 |
 | 75 | [¿Dónde estás? \(feat\. Bunbury, Andrés Calamaro y Loquillo\)](https://open.spotify.com/track/1SWpocVhAsrIzBgrkht2HD) | [Jaime Urrutia](https://open.spotify.com/artist/21gW1NJCe2sHZ485DBDNlb), [Andrés Calamaro](https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU), [Bunbury](https://open.spotify.com/artist/4uqzzJg3ww5eH7IgGV7DMT), [Loquillo](https://open.spotify.com/artist/5Fv0DQ1ZBuc2DlidtOUCZr) | [¿Dónde estás? \(feat\. Bunbury, Andrés Calamaro y Loquillo\)](https://open.spotify.com/album/4wXXumUtvJ94pKiLxsIOz3) | 3:46 |
 
-Snapshot ID: `MCwwNjExOWU3ZGE1OTQ1OGQxMWUwZDkyNjZlNTdmN2Q1YWY0Yjc5OTQ1`
+Snapshot ID: `MCw2Yjc1MDE3MGI4N2M0NzljZWYwYThlMWU0MWM5ZjA0NWRlZDI3MDAy`

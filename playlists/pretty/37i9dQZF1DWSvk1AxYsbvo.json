@@ -1,12 +1,12 @@
 {
   "description": "\uc774\ubd88 \uc548 \uc18d\ucc98\ub7fc \ud3ec\uadfc\ud558\uace0 \ud3b8\uc548\ud55c \uc74c\uc545\ub4e4\uacfc \ud568\uaed8 \ud3ed\uc2e0\ud55c \uae30\ubd84\uc744 \ub9cc\ub07d\ud558\uc138\uc694.",
-  "num_followers": 8805,
+  "num_followers": 8819,
   "original_name": "\ud3ec\uadfc \ud3b8\uc548 \ud3ed\uc2e0",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyOWJiYmRhNDBkNGQwMDU2ODIzMGUzNTNiOTM2YjRhNTg1ZjhmNmVl",
+  "snapshot_id": "MCw2ZTk2NWI2ZTNiOTIxZDA1ZjhhZjJkNzZiYTBmNWQ5ZjMzMDFkMzRk",
   "tracks": [
     {
       "added_at": "2023-05-05 08:20:58",
@@ -627,22 +627,6 @@
     {
       "added_at": "2023-05-05 08:20:58",
       "album": {
-        "name": "PLAYLIST (Original Soundtrack), Pt.1",
-        "url": "https://open.spotify.com/album/1jXIHAXoA7oz18tsTh4jw4"
-      },
-      "artists": [
-        {
-          "name": "MeloMance",
-          "url": "https://open.spotify.com/artist/6k4r73Wq8nhkCDoUsECL1e"
-        }
-      ],
-      "duration_ms": 281000,
-      "name": "Like a Bird",
-      "url": "https://open.spotify.com/track/7qNGHALgM8RPLQDGVt6rok"
-    },
-    {
-      "added_at": "2023-05-05 08:20:58",
-      "album": {
         "name": "Goodbye",
         "url": "https://open.spotify.com/album/2fIKo8rgZyUXBQswQdeHcK"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 254000,
       "name": "Goodbye",
       "url": "https://open.spotify.com/track/01xHwwkwASfIfuO7tzCwli"
+    },
+    {
+      "added_at": "2023-05-05 08:20:58",
+      "album": {
+        "name": "PLAYLIST (Original Soundtrack), Pt.1",
+        "url": "https://open.spotify.com/album/1jXIHAXoA7oz18tsTh4jw4"
+      },
+      "artists": [
+        {
+          "name": "MeloMance",
+          "url": "https://open.spotify.com/artist/6k4r73Wq8nhkCDoUsECL1e"
+        }
+      ],
+      "duration_ms": 281000,
+      "name": "Like a Bird",
+      "url": "https://open.spotify.com/track/7qNGHALgM8RPLQDGVt6rok"
     },
     {
       "added_at": "2023-05-05 08:20:58",
@@ -691,22 +691,6 @@
     {
       "added_at": "2023-05-05 08:20:58",
       "album": {
-        "name": "Seoul Check-in OST Part 8",
-        "url": "https://open.spotify.com/album/7l6dDeN2rIh2t4QHx2Trf5"
-      },
-      "artists": [
-        {
-          "name": "SOLE",
-          "url": "https://open.spotify.com/artist/6naXFodImN2DwRmKCQHAUt"
-        }
-      ],
-      "duration_ms": 178758,
-      "name": "Don't Ever Leave Me",
-      "url": "https://open.spotify.com/track/6uxdpSep0dmUqN5iv3XGAs"
-    },
-    {
-      "added_at": "2023-05-05 08:20:58",
-      "album": {
         "name": "right now",
         "url": "https://open.spotify.com/album/0outmoEBf1z970iFwCEPBs"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 135750,
       "name": "right now",
       "url": "https://open.spotify.com/track/1nEHkqPpdcYimQBcksbpFe"
+    },
+    {
+      "added_at": "2023-05-05 08:20:58",
+      "album": {
+        "name": "Seoul Check-in OST Part 8",
+        "url": "https://open.spotify.com/album/7l6dDeN2rIh2t4QHx2Trf5"
+      },
+      "artists": [
+        {
+          "name": "SOLE",
+          "url": "https://open.spotify.com/artist/6naXFodImN2DwRmKCQHAUt"
+        }
+      ],
+      "duration_ms": 178758,
+      "name": "Don't Ever Leave Me",
+      "url": "https://open.spotify.com/track/6uxdpSep0dmUqN5iv3XGAs"
     },
     {
       "added_at": "2023-05-05 08:20:58",
@@ -755,6 +755,22 @@
       "duration_ms": 178373,
       "name": "\uacc1\uc5d0 \uc788\uc5b4\ub3c4 \ub420\uae4c Gently, By Your Side",
       "url": "https://open.spotify.com/track/6JtjsV2sfqASYFgLkdEYK3"
+    },
+    {
+      "added_at": "2023-05-05 08:20:58",
+      "album": {
+        "name": "Wednesday",
+        "url": "https://open.spotify.com/album/1cbfO7COigEmv5igX2A0FX"
+      },
+      "artists": [
+        {
+          "name": "Dailog",
+          "url": "https://open.spotify.com/artist/61NOuvWbdbCndC4Z8XvypF"
+        }
+      ],
+      "duration_ms": 167733,
+      "name": "Wednesday",
+      "url": "https://open.spotify.com/track/3PPFza9c9iXZgBWb4KF0Bq"
     },
     {
       "added_at": "2023-05-05 08:20:58",
@@ -807,22 +823,6 @@
       "duration_ms": 198040,
       "name": "SHE",
       "url": "https://open.spotify.com/track/36ty55F3OvW2lXtzTqLXQH"
-    },
-    {
-      "added_at": "2023-05-05 08:20:58",
-      "album": {
-        "name": "Wednesday",
-        "url": "https://open.spotify.com/album/1cbfO7COigEmv5igX2A0FX"
-      },
-      "artists": [
-        {
-          "name": "Dailog",
-          "url": "https://open.spotify.com/artist/61NOuvWbdbCndC4Z8XvypF"
-        }
-      ],
-      "duration_ms": 167733,
-      "name": "Wednesday",
-      "url": "https://open.spotify.com/track/3PPFza9c9iXZgBWb4KF0Bq"
     },
     {
       "added_at": "2023-05-05 08:20:58",

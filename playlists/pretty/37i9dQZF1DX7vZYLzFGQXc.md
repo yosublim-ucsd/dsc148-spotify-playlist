@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7vZYLzFGQXc.md) - [plain]
 
 > Fresh new Korean independent talents are here\. \(Cover: jisokuryClub\) \(프레쉬한 한국의 인디펜던트 아티스트들을 만나보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,797 likes - 100 songs - 5 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,835 likes - 100 songs - 5 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7vZYLzFGQXc.md) - [plain]
 | 99 | [T](https://open.spotify.com/track/7oAyr599GDDg04H354KbvO) | [ALEPH](https://open.spotify.com/artist/2ncTglxMHKmCzBKckfzOEv) | [T](https://open.spotify.com/album/0igrh8PMna7LcjthTvJpu3) | 2:58 |
 | 100 | [My Light](https://open.spotify.com/track/1WKfJn8wUuUXBSVJBEytq0) | [dori](https://open.spotify.com/artist/4Db1gte7TUAeZyRdo4FLE7) | [Cinema Pt\. 1](https://open.spotify.com/album/6NtAlARAtzY1eLC2o1yVBP) | 2:32 |
 
-Snapshot ID: `MCw1Mjg2MTZhZTI0NzNmNWFjNmVmNDcyNDJkYWQ3NzIzNjYyMWM5MTdm`
+Snapshot ID: `MCxiYjc5MzMzYmI4MDFjYmZmYTgxY2NjMjI1OTJlNjNjZmZmMzkxY2Yx`

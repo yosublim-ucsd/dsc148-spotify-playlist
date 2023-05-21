@@ -4,7 +4,7 @@
 
 > Sangre fresca en las escenas del indie y el rock\. Hello Seahorse! en Portada.
 
-282 songs - 17 hr 13 min
+283 songs - 17 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -178,7 +178,8 @@
 | [Mis Discos](https://open.spotify.com/track/5dKzwCh0X3snBbMGxjHqbt) | [Pequeño Fénix](https://open.spotify.com/artist/0fuWp7kffdhZk9XrQdF7Sb) | [Mis Discos](https://open.spotify.com/album/4omhkqT6OYdVGfuFhRAfpj) | 2:27 | 2022-07-22 | 2022-07-30 |
 | [Mismo Amor](https://open.spotify.com/track/1p1Nw0D1JJYbaLLuCY7PEw) | [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [Mismo Amor](https://open.spotify.com/album/47TJKNoGstQmn8cITL9AQv) | 3:18 | 2022-04-20 |  |
 | [Mochi](https://open.spotify.com/track/0XLV0vWarC3F92iCN9NP7k) | [Lisasinson](https://open.spotify.com/artist/0bvq2O2MrIINNOJTVuqQ32) | [Mochi](https://open.spotify.com/album/1kThfBK9dHcuzmnaLWj7PW) | 3:09 | 2023-05-12 |  |
-| [Money In The Bank](https://open.spotify.com/track/2X68b1UFH15ozldcKW4AeF) | [Molotov](https://open.spotify.com/artist/27Owkm4TGlMqb0BqaEt3PW), [WOS](https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK) | [Sólo D’Lira](https://open.spotify.com/album/2MTZC4iUhirPNczmmKPjTT) | 3:54 | 2023-04-28 |  |
+| [Money In The Bank](https://open.spotify.com/track/29ncRQANm0IUUOc5p60ECP) | [Molotov](https://open.spotify.com/artist/27Owkm4TGlMqb0BqaEt3PW), [WOS](https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK) | [Sólo D’Lira](https://open.spotify.com/album/7oFmC5ecd2mIZt27j04eJ9) | 3:54 | 2023-05-19 |  |
+| [Money In The Bank](https://open.spotify.com/track/2X68b1UFH15ozldcKW4AeF) | [Molotov](https://open.spotify.com/artist/27Owkm4TGlMqb0BqaEt3PW), [WOS](https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK) | [Sólo D’Lira](https://open.spotify.com/album/2MTZC4iUhirPNczmmKPjTT) | 3:54 | 2023-04-28 | 2023-05-21 |
 | [MORE](https://open.spotify.com/track/2uqCJn5VFTf3sZEDJZvvX0) | [The Warning](https://open.spotify.com/artist/2SmW1lFlBJn4IfBzBZDlSh) | [MORE](https://open.spotify.com/album/6qT2MHTarKxFvBPYH1txnS) | 3:07 | 2023-05-12 |  |
 | [Muerte en el Jardín Botánico](https://open.spotify.com/track/4HJtmS8JXnrR521Szn3RUE) | [Los Blenders](https://open.spotify.com/artist/19JX619qYCK7xfjaTxzhai) | [Muerte en el Jardín Botánico](https://open.spotify.com/album/1xtbJb0nDQuoex12w7yILl) | 4:26 | 2022-12-16 | 2023-03-04 |
 | [Mujer Divina](https://open.spotify.com/track/4LXv2G6XU4wbLY4c9AShpe) | [Tuzeint](https://open.spotify.com/artist/0iQ2RumqYpmrZVxHCR771X) | [Raixes](https://open.spotify.com/album/5pCpZSuUVXwijlKQEhKIIb) | 3:08 | 2023-04-21 | 2023-04-29 |

@@ -1,12 +1,12 @@
 {
   "description": "Productores latinos underground para bailar con aud\u00edfonos.",
-  "num_followers": 122791,
+  "num_followers": 122801,
   "original_name": "Escena Electr\u00f3nica Experimental",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3YzA2MmExZDk5Njc2ODg5NDQzYmVmMzY5OGM1MDUyYmE5YzM0M2Jk",
+  "snapshot_id": "MCxiNzVlYWY4YmQ5MTdiYTJhZDc0MjRlOWNiZjY1MmQ4OGFmYTg4NTZi",
   "tracks": [
     {
       "added_at": "2022-08-18 23:29:09",
@@ -315,6 +315,22 @@
     {
       "added_at": "2022-08-18 23:29:09",
       "album": {
+        "name": "Or\u00edgenes",
+        "url": "https://open.spotify.com/album/3OjVcHtegHO8FE3DUkTmTX"
+      },
+      "artists": [
+        {
+          "name": "Sotomayor",
+          "url": "https://open.spotify.com/artist/13UO3EqZHeNkeDQKjUS8oH"
+        }
+      ],
+      "duration_ms": 226058,
+      "name": "Sin control",
+      "url": "https://open.spotify.com/track/3UkXq2GbRv2RdwHvwrPkph"
+    },
+    {
+      "added_at": "2022-08-18 23:29:09",
+      "album": {
         "name": "Goteo",
         "url": "https://open.spotify.com/album/0bSLm9NcV2xx1cXNyQpy24"
       },
@@ -339,22 +355,6 @@
       "duration_ms": 300000,
       "name": "Hurt",
       "url": "https://open.spotify.com/track/7nZfJZknW5vyEU2uWJhmiI"
-    },
-    {
-      "added_at": "2022-08-18 23:29:09",
-      "album": {
-        "name": "Or\u00edgenes",
-        "url": "https://open.spotify.com/album/3OjVcHtegHO8FE3DUkTmTX"
-      },
-      "artists": [
-        {
-          "name": "Sotomayor",
-          "url": "https://open.spotify.com/artist/13UO3EqZHeNkeDQKjUS8oH"
-        }
-      ],
-      "duration_ms": 226058,
-      "name": "Sin control",
-      "url": "https://open.spotify.com/track/3UkXq2GbRv2RdwHvwrPkph"
     },
     {
       "added_at": "2022-08-18 23:29:09",
@@ -471,22 +471,6 @@
     {
       "added_at": "2022-08-18 23:29:09",
       "album": {
-        "name": "Amuleto",
-        "url": "https://open.spotify.com/album/03fMs2DjHK6n5zbDqKkGHg"
-      },
-      "artists": [
-        {
-          "name": "Syntrovert",
-          "url": "https://open.spotify.com/artist/541d4y9qEGqgZBoHrR0NmA"
-        }
-      ],
-      "duration_ms": 215280,
-      "name": "Cuarzo",
-      "url": "https://open.spotify.com/track/1aIModmKDbvX4xJqBFgQv8"
-    },
-    {
-      "added_at": "2022-08-18 23:29:09",
-      "album": {
         "name": "Koro Kemboro",
         "url": "https://open.spotify.com/album/2a99LCBq1HLVEym4R7iHYF"
       },
@@ -503,6 +487,22 @@
       "duration_ms": 303197,
       "name": "Koro Kemboro",
       "url": "https://open.spotify.com/track/0WpeystVcDypHRUhfrRBuz"
+    },
+    {
+      "added_at": "2022-08-18 23:29:09",
+      "album": {
+        "name": "Amuleto",
+        "url": "https://open.spotify.com/album/03fMs2DjHK6n5zbDqKkGHg"
+      },
+      "artists": [
+        {
+          "name": "Syntrovert",
+          "url": "https://open.spotify.com/artist/541d4y9qEGqgZBoHrR0NmA"
+        }
+      ],
+      "duration_ms": 215280,
+      "name": "Cuarzo",
+      "url": "https://open.spotify.com/track/1aIModmKDbvX4xJqBFgQv8"
     },
     {
       "added_at": "2022-08-18 23:29:09",
@@ -811,18 +811,18 @@
     {
       "added_at": "2022-08-18 23:29:09",
       "album": {
-        "name": "Cook",
-        "url": "https://open.spotify.com/album/0ZsctRObWIwL6Dyrr4fAx3"
+        "name": "Tu Sonrisa",
+        "url": "https://open.spotify.com/album/7xPLGR9YXVHdPw3MpqsYDn"
       },
       "artists": [
         {
-          "name": "Fernanda Arrau",
-          "url": "https://open.spotify.com/artist/4joqJDPeNyEqJvnWVb3yU6"
+          "name": "Dapuntobeat",
+          "url": "https://open.spotify.com/artist/1V45Te1AQmLsqtRGylNLKs"
         }
       ],
-      "duration_ms": 296021,
-      "name": "Cook",
-      "url": "https://open.spotify.com/track/6waQMnRtjGxMSYaA86pyqD"
+      "duration_ms": 348226,
+      "name": "Tu Sonrisa",
+      "url": "https://open.spotify.com/track/6m8LqOQxrQXSGbS6q55khu"
     },
     {
       "added_at": "2022-08-18 23:29:09",
@@ -843,18 +843,18 @@
     {
       "added_at": "2022-08-18 23:29:09",
       "album": {
-        "name": "Tu Sonrisa",
-        "url": "https://open.spotify.com/album/7xPLGR9YXVHdPw3MpqsYDn"
+        "name": "Cook",
+        "url": "https://open.spotify.com/album/0ZsctRObWIwL6Dyrr4fAx3"
       },
       "artists": [
         {
-          "name": "Dapuntobeat",
-          "url": "https://open.spotify.com/artist/1V45Te1AQmLsqtRGylNLKs"
+          "name": "Fernanda Arrau",
+          "url": "https://open.spotify.com/artist/4joqJDPeNyEqJvnWVb3yU6"
         }
       ],
-      "duration_ms": 348226,
-      "name": "Tu Sonrisa",
-      "url": "https://open.spotify.com/track/6m8LqOQxrQXSGbS6q55khu"
+      "duration_ms": 296021,
+      "name": "Cook",
+      "url": "https://open.spotify.com/track/6waQMnRtjGxMSYaA86pyqD"
     },
     {
       "added_at": "2022-08-18 23:29:09",

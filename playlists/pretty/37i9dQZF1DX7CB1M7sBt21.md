@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7CB1M7sBt21.md) - [plain]
 
 > Ingenting peppar en under ett träningspass som riktigt bra musik.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,212 likes - 80 songs - 3 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,232 likes - 80 songs - 3 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,8 +56,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7CB1M7sBt21.md) - [plain]
 | 46 | [Sad \(feat\. Afrojack\)](https://open.spotify.com/track/4ESPuOrSsRcBISzcMlzmY5) | [Chico Rose](https://open.spotify.com/artist/5OdVywqKqyCWwfE2fZb7IX), [AFROJACK](https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz) | [Sad \(feat\. Afrojack\)](https://open.spotify.com/album/3iyLP2ce8hthgd4ygzLRJD) | 2:41 |
 | 47 | [All Night Long \(All Night\) \- Recorded at Spotify Studios Stockholm](https://open.spotify.com/track/5dsk3uLRghh1WmuN21LEW8) | [Benjamin Ingrosso](https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5) | [Spotify Singles](https://open.spotify.com/album/2WjIiFJyC42JPqaQDF6qve) | 3:08 |
 | 48 | [Shotgun \(The Wild Remix\)](https://open.spotify.com/track/4W7B68ptUXQLym1oIiGuod) | [George Ezra](https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j), [The Wild](https://open.spotify.com/artist/74lRkEloOvori8dZJjNEjd) | [Staying at Tamara's \(Remixes\)](https://open.spotify.com/album/25Fa2sqxbfNOeCh3DokwDs) | 3:13 |
-| 49 | [Bones \(feat\. OneRepublic\)](https://open.spotify.com/track/1pfgsjmxVZhoZpeDx6POKv) | [Galantis](https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu), [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Bones \(feat\. OneRepublic\)](https://open.spotify.com/album/49vus1VCWc7AbgDmKYb8SC) | 3:25 |
-| 50 | [Tillfälligheter](https://open.spotify.com/track/0rBj6lYQUMHwTJ33sdj6Qz) | [Veronica Maggio](https://open.spotify.com/artist/2OIWxN9xUhgUHkeUCWCaNs) | [Fiender är tråkigt](https://open.spotify.com/album/5IpwTXB95XBp7YVUESyhVi) | 3:47 |
+| 49 | [Tillfälligheter](https://open.spotify.com/track/0rBj6lYQUMHwTJ33sdj6Qz) | [Veronica Maggio](https://open.spotify.com/artist/2OIWxN9xUhgUHkeUCWCaNs) | [Fiender är tråkigt](https://open.spotify.com/album/5IpwTXB95XBp7YVUESyhVi) | 3:47 |
+| 50 | [Bones \(feat\. OneRepublic\)](https://open.spotify.com/track/1pfgsjmxVZhoZpeDx6POKv) | [Galantis](https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu), [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Bones \(feat\. OneRepublic\)](https://open.spotify.com/album/49vus1VCWc7AbgDmKYb8SC) | 3:25 |
 | 51 | [You And I](https://open.spotify.com/track/4P1EGoXLWQ1YF6Nsmr1pfy) | [LÉON](https://open.spotify.com/artist/4SqTiwOEdYrNayaGMkc7ia) | [LÉON](https://open.spotify.com/album/4rH2e0qPw9MrwOSdk9rKNe) | 3:44 |
 | 52 | [Peru](https://open.spotify.com/track/7t3cEJpYDi8tzNmBtxeHUj) | [Tungevaag](https://open.spotify.com/artist/49CE2ffZ6Z3zeYSDauSKck) | [Peru](https://open.spotify.com/album/1wGjhakHpFEE3uPqGViTgI) | 2:27 |
 | 53 | [DNA](https://open.spotify.com/track/0DfQV2Ri0l83o7Nbzm45vQ) | [Craig David](https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c), [Galantis](https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu) | [DNA](https://open.spotify.com/album/5NRiyd9eDLOnS6PuhlV5iO) | 2:57 |
@@ -85,8 +85,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7CB1M7sBt21.md) - [plain]
 | 75 | [I Miss Myself \(with HRVY\)](https://open.spotify.com/track/5YkmS18BehACOhIIeUqe6l) | [NOTD](https://open.spotify.com/artist/5jAMCwdNHWr7JThxtMuEyy), [HRVY](https://open.spotify.com/artist/28y6CyJNkGNjJQKrlx4AmN) | [I Miss Myself \(with HRVY\)](https://open.spotify.com/album/0G0ho2sdOWIRRAh1PDTVFd) | 3:11 |
 | 76 | [what would you do? \- Galantis Remix](https://open.spotify.com/track/7CNnr17XNq6rvU2LM3H7MD) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym), [Galantis](https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu) | [what would you do? \(Galantis Remix\)](https://open.spotify.com/album/39ay2W7PKgxnECNDoSvqYu) | 2:41 |
 | 77 | [Brave](https://open.spotify.com/track/0GRoERSBBky3YgdKW2w2Vc) | [Don Diablo](https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1), [Jessie J](https://open.spotify.com/artist/2gsggkzM5R49q6jpPvazou) | [Brave](https://open.spotify.com/album/1vlt3ZZeHbtRWKOFu45TEJ) | 3:04 |
-| 78 | [New Love \(feat\. Ellie Goulding\)](https://open.spotify.com/track/5iEI2hHcG8bnKmUelPk08F) | [Silk City](https://open.spotify.com/artist/2X97ZAqRKRMYFIDqtvGgGc), [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ), [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Mark Ronson](https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp) | [New Love](https://open.spotify.com/album/0xf5sZ3FS68Rvm0GmTqfNM) | 3:10 |
-| 79 | [Coffee \(Give Me Something\)](https://open.spotify.com/track/4DBLAy03Xk88LOVtrOQ1RD) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts) | [Coffee \(Give Me Something\)](https://open.spotify.com/album/0AF75TND45TZytpXlwvVIe) | 3:09 |
+| 78 | [Coffee \(Give Me Something\)](https://open.spotify.com/track/4DBLAy03Xk88LOVtrOQ1RD) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts) | [Coffee \(Give Me Something\)](https://open.spotify.com/album/0AF75TND45TZytpXlwvVIe) | 3:09 |
+| 79 | [New Love \(feat\. Ellie Goulding\)](https://open.spotify.com/track/5iEI2hHcG8bnKmUelPk08F) | [Silk City](https://open.spotify.com/artist/2X97ZAqRKRMYFIDqtvGgGc), [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ), [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Mark Ronson](https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp) | [New Love](https://open.spotify.com/album/0xf5sZ3FS68Rvm0GmTqfNM) | 3:10 |
 | 80 | [Year of the Young](https://open.spotify.com/track/6J7U49QGecWb3WqIqfSYc0) | [Smith & Thell](https://open.spotify.com/artist/1ZrBGJWLL8NiAjgNifCy90) | [Year of the Young](https://open.spotify.com/album/0WNXPe1PeWAhFMfsXj1iPi) | 2:44 |
 
-Snapshot ID: `MCwyYTcxMmI1ZjdhY2Y4M2U3ZDZlMzdiYzI1OWQwOTA0ODY4Mjg3ZDVi`
+Snapshot ID: `MCxhNDNkYzUyZTA2ZDFiYjY4ZTI5MTM1Yzg4NTFiZjM0NDgzYTZkM2Zm`

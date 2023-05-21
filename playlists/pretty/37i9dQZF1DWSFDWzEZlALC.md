@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFDWzEZlALC.md) - [plain]
 
 > Indie, Pop und Rap mit deutschen Texten\. Cover: Alli Neumann
 
-[Spotify](https://open.spotify.com/user/spotify) - 375,449 likes - 75 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 375,494 likes - 75 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFDWzEZlALC.md) - [plain]
 | 74 | [Nach Hause](https://open.spotify.com/track/0CFOyN2HD6gqCo7RY2YK6n) | [Juli Gilde](https://open.spotify.com/artist/4s1eFPN3Rvn8F56Rzs8UWS) | [Euphorie und Panik!](https://open.spotify.com/album/1nwCWEMNJs3XYhC8XS3KBO) | 3:00 |
 | 75 | [Du liegst falsch](https://open.spotify.com/track/3OKQKDJIIBRHvJbfyajUov) | [PICOBELLO](https://open.spotify.com/artist/5SM8lcCTSeeH63SdxpSoCu), [Resi Reiner](https://open.spotify.com/artist/1GPCGZqR8TPFCpVmIiZhQD) | [Du liegst falsch](https://open.spotify.com/album/7r7ZFKFwpZx9yGqwZf4PaV) | 2:54 |
 
-Snapshot ID: `MCxiZDI4OTRhYmY2MmMzMTI0NGYzNDcwZmM3OTFiZGMzNzJkZDk2OThj`
+Snapshot ID: `MCxkYjcxMjZhOWI4MjgxNmY1YTZmMzczY2EyNzBhNzA5Nzc5MDgwNGM4`

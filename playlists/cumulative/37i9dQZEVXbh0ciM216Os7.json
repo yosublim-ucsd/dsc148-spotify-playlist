@@ -24,7 +24,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-21",
       "duration_ms": 225453,
       "name": "$WISH ft. G-Eazy and Chance The Rapper",
       "url": "https://open.spotify.com/track/1019DU4Cv5W7pUISZWSWlO"
@@ -2166,7 +2166,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-21",
       "duration_ms": 403933,
       "name": "Foreword",
       "url": "https://open.spotify.com/track/2n0GcL4eZ110vdaU16OBdJ"
@@ -2390,7 +2390,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-21",
       "duration_ms": 136000,
       "name": "Girl Power",
       "url": "https://open.spotify.com/track/0vO5M6kkxFGxQexnnYpcgV"
@@ -2408,7 +2408,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-21",
       "duration_ms": 130822,
       "name": "Go",
       "url": "https://open.spotify.com/track/4nsyIu8RL55Rh6YnFPo0uQ"
@@ -3706,7 +3706,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-21",
       "duration_ms": 373533,
       "name": "Mellow Kisses",
       "url": "https://open.spotify.com/track/2aCGvsI9wPrmFGUGt3VEXW"
@@ -4484,7 +4484,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-21",
       "duration_ms": 346745,
       "name": "Piano Concerto in A Minor, Op. 54: 2. Intermezzo (Andantino grazioso)",
       "url": "https://open.spotify.com/track/6NlMBz9JMDuCWsQvXS8i8x"
@@ -4926,7 +4926,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-21",
       "duration_ms": 139482,
       "name": "Rock Bottom",
       "url": "https://open.spotify.com/track/0ezu28CrH13zXiRJ3boiQZ"
@@ -5586,7 +5586,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-21",
       "duration_ms": 276594,
       "name": "Swordz",
       "url": "https://open.spotify.com/track/5YCUXrbgiUemfPEBpwzLJC"
@@ -5945,6 +5945,28 @@
     },
     {
       "album": {
+        "name": "This Is Cali",
+        "url": "https://open.spotify.com/album/0lkOSHCA3BQhi0zXM0hVmP"
+      },
+      "artists": [
+        {
+          "name": "Scar Lip",
+          "url": "https://open.spotify.com/artist/0XSAX3u9L4gKXmbhSwPnIJ"
+        },
+        {
+          "name": "Snoop Dogg",
+          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140591,
+      "name": "This Is Cali",
+      "url": "https://open.spotify.com/track/1jkrHbPHxhcMi0k458R9Rz"
+    },
+    {
+      "album": {
         "name": "This Is Mongol (Warrior Souls) [feat. William DuVall of Alice In Chains]",
         "url": "https://open.spotify.com/album/2Bf7EZvzpauSKhyUhBjUFK"
       },
@@ -6052,7 +6074,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-21",
       "duration_ms": 242670,
       "name": "Tonight",
       "url": "https://open.spotify.com/track/2imQHlhnuTG3TvgxLEKcGR"

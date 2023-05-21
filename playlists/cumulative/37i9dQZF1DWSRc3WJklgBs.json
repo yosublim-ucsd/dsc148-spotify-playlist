@@ -1041,6 +1041,32 @@
     },
     {
       "album": {
+        "name": "All You Need Is Love",
+        "url": "https://open.spotify.com/album/6LoQoWCm9bF4dSQI2ZWtXe"
+      },
+      "artists": [
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        },
+        {
+          "name": "Jonas Blue",
+          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
+        },
+        {
+          "name": "Nico Santos",
+          "url": "https://open.spotify.com/artist/3A9B6c1CrSPauiOblw7pWz"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139927,
+      "name": "All You Need Is Love",
+      "url": "https://open.spotify.com/track/5yPEJ4UF90Km4KmLl2h4EE"
+    },
+    {
+      "album": {
         "name": "All You Need To Know (feat. Calle Lehmann)",
         "url": "https://open.spotify.com/album/0xLM3GiU0ZSstvhmeV0hmf"
       },
@@ -3156,6 +3182,28 @@
       "duration_ms": 173067,
       "name": "Breathin' - Radio Mix",
       "url": "https://open.spotify.com/track/6Z9fRBqFuNfqiPDhbEd6O6"
+    },
+    {
+      "album": {
+        "name": "Breathless (with Alina Baraz)",
+        "url": "https://open.spotify.com/album/2uESefirannUYEJxBVc9rQ"
+      },
+      "artists": [
+        {
+          "name": "Austin Millz",
+          "url": "https://open.spotify.com/artist/43UmVQp9qZILibJ5vHq21k"
+        },
+        {
+          "name": "Alina Baraz",
+          "url": "https://open.spotify.com/artist/6hfwwpXqZPRC9CsKI7qtv1"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167586,
+      "name": "Breathless (with Alina Baraz)",
+      "url": "https://open.spotify.com/track/1BaNZOpKVM6OtBuMfpeGYX"
     },
     {
       "album": {
@@ -11398,7 +11446,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-21",
       "duration_ms": 335043,
       "name": "Kiss U",
       "url": "https://open.spotify.com/track/7lrRFHIvCkqWt0C4UZu0tr"
@@ -18356,7 +18404,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-21",
       "duration_ms": 204980,
       "name": "Someone Like Me",
       "url": "https://open.spotify.com/track/1D3qSUMiemq8wa4xXOC2qi"
@@ -19820,7 +19868,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-21",
       "duration_ms": 193362,
       "name": "Take You",
       "url": "https://open.spotify.com/track/1Mqg86bac6H0wgukTgG3gR"
@@ -23190,6 +23238,24 @@
       "duration_ms": 187510,
       "name": "Wildest Dream",
       "url": "https://open.spotify.com/track/0TgSQ4AWBShqMjYww6D8Yf"
+    },
+    {
+      "album": {
+        "name": "Will You Be Mine",
+        "url": "https://open.spotify.com/album/3XIaFrOS8IXOTe0LfjLrEN"
+      },
+      "artists": [
+        {
+          "name": "Prospa",
+          "url": "https://open.spotify.com/artist/6HabM2PUM519iIxervGWSb"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232276,
+      "name": "Will You Be Mine",
+      "url": "https://open.spotify.com/track/15H467gdxSmq8IMl1TC46u"
     },
     {
       "album": {

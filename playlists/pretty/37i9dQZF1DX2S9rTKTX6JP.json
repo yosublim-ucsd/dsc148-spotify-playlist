@@ -1,12 +1,12 @@
 {
   "description": "Sometimes a cover can be even better than the original. You decide. Cover: M\u00e5neskin",
-  "num_followers": 642438,
+  "num_followers": 642627,
   "original_name": "Rock Covers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4NzU4MTk4NTViZmQ4NTcwOTVhNjg0ZDEyMThiZmRhMzdhM2QzZDRj",
+  "snapshot_id": "MCxkNDNmMmQ4OGNhNTYxYjIyNzRlZTFhMTgyOWVkZmE0MjMzMjg1MjU4",
   "tracks": [
     {
       "added_at": "2023-04-07 20:06:50",
@@ -1195,6 +1195,22 @@
     {
       "added_at": "2023-04-07 20:06:50",
       "album": {
+        "name": "Blinding Lights",
+        "url": "https://open.spotify.com/album/3Bp4QzJlhnqgJ5CW9zfEo7"
+      },
+      "artists": [
+        {
+          "name": "Saint Asonia",
+          "url": "https://open.spotify.com/artist/6Fwq3TDWpMhcL1KTKVQiI8"
+        }
+      ],
+      "duration_ms": 183357,
+      "name": "Blinding Lights",
+      "url": "https://open.spotify.com/track/1nJOzQiAY0d9YGopbYlQsr"
+    },
+    {
+      "added_at": "2023-04-07 20:06:50",
+      "album": {
         "name": "Someone You Loved",
         "url": "https://open.spotify.com/album/64z1smw6o7hV7OJTzD3Rj7"
       },
@@ -1251,22 +1267,6 @@
       "duration_ms": 225920,
       "name": "Torn",
       "url": "https://open.spotify.com/track/4mBJUbN4VLcpT36O4uf8t3"
-    },
-    {
-      "added_at": "2023-04-07 20:06:50",
-      "album": {
-        "name": "Blinding Lights",
-        "url": "https://open.spotify.com/album/3Bp4QzJlhnqgJ5CW9zfEo7"
-      },
-      "artists": [
-        {
-          "name": "Saint Asonia",
-          "url": "https://open.spotify.com/artist/6Fwq3TDWpMhcL1KTKVQiI8"
-        }
-      ],
-      "duration_ms": 183357,
-      "name": "Blinding Lights",
-      "url": "https://open.spotify.com/track/1nJOzQiAY0d9YGopbYlQsr"
     },
     {
       "added_at": "2023-04-07 20:06:50",
@@ -1447,22 +1447,6 @@
     {
       "added_at": "2023-04-07 20:06:50",
       "album": {
-        "name": "Walk",
-        "url": "https://open.spotify.com/album/0RRiEMw1qixO3fKbuD4iqT"
-      },
-      "artists": [
-        {
-          "name": "Avenged Sevenfold",
-          "url": "https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs"
-        }
-      ],
-      "duration_ms": 321040,
-      "name": "Walk",
-      "url": "https://open.spotify.com/track/3fDV1GHwjDNhWEMDKupa9Q"
-    },
-    {
-      "added_at": "2023-04-07 20:06:50",
-      "album": {
         "name": "For What It's Worth",
         "url": "https://open.spotify.com/album/6oG7IxA60Uvzbki5vExPs9"
       },
@@ -1475,6 +1459,22 @@
       "duration_ms": 292040,
       "name": "For What It's Worth",
       "url": "https://open.spotify.com/track/06iIwl0TL4cdm7ahip4wGz"
+    },
+    {
+      "added_at": "2023-04-07 20:06:50",
+      "album": {
+        "name": "Walk",
+        "url": "https://open.spotify.com/album/0RRiEMw1qixO3fKbuD4iqT"
+      },
+      "artists": [
+        {
+          "name": "Avenged Sevenfold",
+          "url": "https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs"
+        }
+      ],
+      "duration_ms": 321040,
+      "name": "Walk",
+      "url": "https://open.spotify.com/track/3fDV1GHwjDNhWEMDKupa9Q"
     },
     {
       "added_at": "2023-04-07 20:06:50",
@@ -1511,22 +1511,6 @@
     {
       "added_at": "2023-04-07 20:06:50",
       "album": {
-        "name": "Fortunate Son",
-        "url": "https://open.spotify.com/album/0dwQ45RN04LVda7PGdbnbg"
-      },
-      "artists": [
-        {
-          "name": "The Dead Daisies",
-          "url": "https://open.spotify.com/artist/6VDAPUov4yNDHyQlPqrpNH"
-        }
-      ],
-      "duration_ms": 203520,
-      "name": "Fortunate Son",
-      "url": "https://open.spotify.com/track/5DkwgbwtvFzj7ITGkaSGxS"
-    },
-    {
-      "added_at": "2023-04-07 20:06:50",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/6WFgRdGLClgQWNNWgokbAD"
       },
@@ -1539,6 +1523,22 @@
       "duration_ms": 152377,
       "name": "My Sharona - Live Session from Abbey Road Studios, London, UK",
       "url": "https://open.spotify.com/track/361ef8N2HYBcKgiU11kkfH"
+    },
+    {
+      "added_at": "2023-04-07 20:06:50",
+      "album": {
+        "name": "Fortunate Son",
+        "url": "https://open.spotify.com/album/0dwQ45RN04LVda7PGdbnbg"
+      },
+      "artists": [
+        {
+          "name": "The Dead Daisies",
+          "url": "https://open.spotify.com/artist/6VDAPUov4yNDHyQlPqrpNH"
+        }
+      ],
+      "duration_ms": 203520,
+      "name": "Fortunate Son",
+      "url": "https://open.spotify.com/track/5DkwgbwtvFzj7ITGkaSGxS"
     },
     {
       "added_at": "2023-04-07 20:06:50",

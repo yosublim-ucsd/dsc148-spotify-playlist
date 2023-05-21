@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 
 > The best new tracks of all genres of Christian, Gospel, Worship & Inspirational music\.  Cover:  <a href="https://open.spotify.com/artist/6CK4CBL0n07VdVZmfh40nm?si=24071d3a36b4410b">Benjamin William Hastings </a> and <a href="https://open.spotify.com/artist/5LnlX7FdPg0ocmyBzOzDQW?si=a0030fd827054542">JUDAH.</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 291,236 likes - 100 songs - 6 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 291,315 likes - 100 songs - 6 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,7 +50,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 | 40 | [SOUTH KOREA](https://open.spotify.com/track/3yESxYe9RIB52Zhxs1DpTb) | [Noah Moon](https://open.spotify.com/artist/3qtyduPcR34fZacQ73FEMj) | [SOUTH KOREA](https://open.spotify.com/album/2qrFQu5aQF3tgTjLZGTP56) | 2:36 |
 | 41 | [MASSIVE VIP](https://open.spotify.com/track/4u4nBfweiSxrcLnu0u1pbI) | [Gardna](https://open.spotify.com/artist/4thIP9ruwthrnBaBU9Wz8U), [Dynamite MC](https://open.spotify.com/artist/5RBFw1UkHw2NBsZFtheDEl), [Eva Lazarus](https://open.spotify.com/artist/68eE2HHE6By6hOsOcsArcp), [MC Spyda](https://open.spotify.com/artist/2b4CwhkY6rAscPhxXVxDJl), [Inja](https://open.spotify.com/artist/4jl7rqDfdaWDHD0RdP7ndM) | [MASSIVE VIP](https://open.spotify.com/album/5mNatIoC6xMq5hxBjZz96a) | 3:36 |
 | 42 | [Come To The Father](https://open.spotify.com/track/41s6mohBCvX5JV1Bgy0UPz) | [JOSHUA LAZER](https://open.spotify.com/artist/2CtZZgLqDy4tgYKMLHdpO0) | [Come To The Father](https://open.spotify.com/album/5Bb41F45GfmKuxvl5AgdZg) | 2:31 |
-| 43 | [Floating \- okay.benny Remix](https://open.spotify.com/track/42PHDdVG0qVnps1nORAEYq) | [Aklesso](https://open.spotify.com/artist/7r3HxO330lmabOprT2MMFK), [okay.benny](https://open.spotify.com/artist/6iu7AVR4osE4LWNgQGh08w) | [Floating \(okay.benny Remix\)](https://open.spotify.com/album/2QZFMjox9FivLNCWd2UNPU) | 2:35 |
+| 43 | [Floating \- okay.benny Remix](https://open.spotify.com/track/42PHDdVG0qVnps1nORAEYq) | [Aklesso](https://open.spotify.com/artist/7r3HxO330lmabOprT2MMFK), [okay.benny](https://open.spotify.com/artist/33apsEp4wvDgls8ZXdFp8x) | [Floating \(okay.benny Remix\)](https://open.spotify.com/album/2QZFMjox9FivLNCWd2UNPU) | 2:35 |
 | 44 | [sleepwalking \(from Young Pop Renegades, Vol\. 2\)](https://open.spotify.com/track/6qqulMB60PXf1ybiSDhhA5) | [Matthew Parker](https://open.spotify.com/artist/0QT3cPPXMGYtTG3kN8Ez54), [Ike Smith](https://open.spotify.com/artist/1BxifuT3ryEscHKHh9hPZ8) | [sleepwalking \(from Young Pop Renegades, Vol\. 2\)](https://open.spotify.com/album/70C3rT1zUU1l3PZ4IMBvyf) | 3:15 |
 | 45 | [Perfect](https://open.spotify.com/track/3qJD7hIiwyYNxVUcP0nK5z) | [ICF Sunday Night](https://open.spotify.com/artist/7cXKmEWEQzsADxmpFgzdBl) | [Perfect](https://open.spotify.com/album/51DXLyG5oTP9tOjQdhwKNI) | 3:20 |
 | 46 | [Newness \- Kevin Davis Remix](https://open.spotify.com/track/614vNbchbqbjdmL3uUoTxj) | [Tehillah Worship](https://open.spotify.com/artist/2xElUVXjOcwGIrVMwUmd5S), [Kevin Davis](https://open.spotify.com/artist/4cfU5phAU89OED945vi5ag) | [Newness \(Kevin Davis Remix\)](https://open.spotify.com/album/7yVJ3taYqT89usM6c5otBu) | 3:30 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 | 99 | [What I Want](https://open.spotify.com/track/7mEz7ksXNBD3wdbfb87DVT) | [Elikem Kofi](https://open.spotify.com/artist/2C7IIt1lmxuWOGnzJ9bFkl), [OJIH](https://open.spotify.com/artist/6Y6d14w9X4lOD4mQqgsb8M) | [What I Want](https://open.spotify.com/album/2VyPYgNlJ77Q3XAVY1gU21) | 3:00 |
 | 100 | [This Love](https://open.spotify.com/track/6XcvPcSl1DET6306WDfnMg) | [Spillz Ochai](https://open.spotify.com/artist/0ASeFVBo2nXByjUoyp1A5q), [Omojo](https://open.spotify.com/artist/4RCjw7JlxYqW7jUHCO4QgC), [Jayclassic](https://open.spotify.com/artist/1zHVfhNLYAFudApzvfCIUp) | [This Love](https://open.spotify.com/album/03A2CFWlbSOwA0Lwp0cypJ) | 3:06 |
 
-Snapshot ID: `MTY4NDQ4NzI0NCwwMDAwMDAwMGVkMzZmOTc5YzQ1ZjVjOTZhMmQ5MGI1ODRmNTdmYTQ2`
+Snapshot ID: `MCw4MDA3N2Y0MmI0MDA1OGNjZGIwOThkMGNkOTZkZjQzOTg5YzdlYjQx`

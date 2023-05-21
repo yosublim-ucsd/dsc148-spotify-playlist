@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34s4fg4Zx3Z.md) - [plain]
 
 > Khám phá 🎶 đáng nghe từ những 🎼 có thể bạn chưa biết\. Ảnh bìa: Linh Ka; thiết kế: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,827 likes - 100 songs - 6 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,840 likes - 100 songs - 6 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34s4fg4Zx3Z.md) - [plain]
 | 99 | [Cuộc Gọi Đêm](https://open.spotify.com/track/27Nsm7EmmMJTEfZlgYjuap) | [Uyên Tố](https://open.spotify.com/artist/2JBjRSGBG8SYTVMoN7ZIlR), [Heness](https://open.spotify.com/artist/6ZJIw0WmfGPP8Oi4QCZ5bm) | [Cuộc Gọi Đêm](https://open.spotify.com/album/63rohEHJXSTN8zxHZOpEbQ) | 3:29 |
 | 100 | [em đou biết mình said](https://open.spotify.com/track/5uU92f5c6joZNErtlcQSI3) | [Vũ Đức Kiên OBC](https://open.spotify.com/artist/2ZQyqUYzAtkcIEgaH2Vf3E) | [em đou biết mình said](https://open.spotify.com/album/3pqOqJHCFOJn0fjLpeNK6w) | 3:12 |
 
-Snapshot ID: `MCxjYjI0NjAyOWJlNzgyYzEzZGE3MDQxMjUzYTYzMWUxOGU0Y2NlOTM3`
+Snapshot ID: `MCwwYjk0MzFlYWNmMjU5NWY1MmQzZTA0MWJjMGEzZTBiMGRhODdhNzli`

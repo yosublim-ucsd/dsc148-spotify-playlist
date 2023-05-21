@@ -4,7 +4,7 @@
 
 > Soft and smooth vocal Jazz to help you relax and unwind.
 
-171 songs - 12 hr 44 min
+172 songs - 12 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,7 +19,7 @@
 | [Angel Eyes](https://open.spotify.com/track/7pYHNfu7TnBOnkKi7YZW9N) | [Melissa Errico](https://open.spotify.com/artist/1FgbndX43rDxGvserrIb1l) | [Out Of The Dark – The Film Noir Project](https://open.spotify.com/album/2WWgLX6vhqS1yA04GCeK6G) | 5:49 | 2022-04-13 | 2022-10-12 |
 | [Anita's Blues](https://open.spotify.com/track/1Gc34PgPMoYIlRzi28BPsq) | [Anita O'Day](https://open.spotify.com/artist/5QGnprJtpZmk3OiDqspPlB) | [An Evening With Anita O'Day](https://open.spotify.com/album/1KclxfwNOpocikBIY8yPig) | 3:27 | 2022-04-13 | 2022-10-06 |
 | [April Fooled Me](https://open.spotify.com/track/4Lfn9B6tlGER7NVIHinhfX) | [Caity Gyorgy](https://open.spotify.com/artist/7MCpoKftSxsTCS8UBu1GFa), [Mark Limacher](https://open.spotify.com/artist/2FyolspKay4voViiywFNFs) | [April Fooled Me](https://open.spotify.com/album/4dNnVif4W3SPzwH9vvjOid) | 3:51 | 2023-04-27 |  |
-| [As Long as He Needs Me](https://open.spotify.com/track/7Exg33sywNNAv8XgFt6oUj) | [Veronica Swift](https://open.spotify.com/artist/0YyqJ4bcQqxXdsdpgQPwtl) | [This Bitter Earth](https://open.spotify.com/album/46Kn3u0Fzlvo1Zmba26EB7) | 4:55 | 2022-04-13 |  |
+| [As Long as He Needs Me](https://open.spotify.com/track/7Exg33sywNNAv8XgFt6oUj) | [Veronica Swift](https://open.spotify.com/artist/0YyqJ4bcQqxXdsdpgQPwtl) | [This Bitter Earth](https://open.spotify.com/album/46Kn3u0Fzlvo1Zmba26EB7) | 4:55 | 2022-04-13 | 2023-05-21 |
 | [Autumn In New York](https://open.spotify.com/track/4TUYXBMD004ZwWTeYcynFH) | [Diana Krall](https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL) | [This Dream Of You](https://open.spotify.com/album/2axVAnC2sE98xigU2BV1TY) | 5:19 | 2022-04-13 | 2022-06-15 |
 | [Be That Someone](https://open.spotify.com/track/4szkIWrv3a1D9LhiozKTi2) | [Torun Eriksen](https://open.spotify.com/artist/355ri5bzRz85zOK6injNyn) | [Luxury and Waste](https://open.spotify.com/album/1N3wClxD2MZop9UDEzAd7B) | 3:53 | 2022-04-13 |  |
 | [Because I Love You](https://open.spotify.com/track/4nf5wpXpZ1WVF0SCdl3tLb) | [Sachal Vasandani](https://open.spotify.com/artist/4sctitB70tTmziCPMwYJJr), [Romain Collin](https://open.spotify.com/artist/3TLGhZ93eWc4caAzMiMWJV) | [Because I Love You](https://open.spotify.com/album/35qbEfm5IdIPTzJxS51fT5) | 4:10 | 2022-04-13 |  |
@@ -136,6 +136,7 @@
 | [Softly, as in a Morning Sunrise](https://open.spotify.com/track/15Cd5pF6Xm4nB2MVcWbuCT) | [Cyrille Aimee](https://open.spotify.com/artist/7rcjVbooAaV2pPRdyPHCrM), [Michael Valeanu](https://open.spotify.com/artist/0vFN32ckvgv3IY3g9L1Nbv) | [I'll Be Seeing You](https://open.spotify.com/album/1OEy3BZSxMKMF6Y5oNE3Lv) | 4:35 | 2022-04-13 |  |
 | [Some Other Time](https://open.spotify.com/track/0wVDgWsBZkeLzERYSYj8CJ) | [Connie Lansberg](https://open.spotify.com/artist/4qLq0MatI5KT1xG49JK84A), [Mark Fitzgibbon](https://open.spotify.com/artist/6pGS8ODz3Vpeg4b6XOj2jB), [Ben Hanlon](https://open.spotify.com/artist/5wmOjwX4DBUnoS9Qz9A1WY), [Peter Hodges](https://open.spotify.com/artist/6R24JW8eOgeuOMGkehKfYh) | [Some Other Time](https://open.spotify.com/album/1KvuEly7wop2kY2YKkqjAg) | 3:27 | 2022-04-13 |  |
 | [Someone to Watch over Me](https://open.spotify.com/track/3l4c1SMbtDjz4LgmCNSWxS) | [Elisabeth Melander](https://open.spotify.com/artist/09FsiQ9vAnKdvZcM5DZGYm) | [Reflections of a Voice](https://open.spotify.com/album/7nGWElWBanIzLOX3S6jeQH) | 6:05 | 2022-04-13 | 2022-09-29 |
+| [Sometimes Today Seems Like Yesterday](https://open.spotify.com/track/4suPwKFZtB6ztKoTzppeYR) | [Samara Joy](https://open.spotify.com/artist/5LkbTSqXfMBjFSGi9LOGjq) | [Linger Awhile \(Deluxe Edition\)](https://open.spotify.com/album/1kQH5ZtEqzJ5GxyTtfHKE3) | 3:03 | 2023-05-18 |  |
 | [Spring Can Really Hang You up the Most](https://open.spotify.com/track/3GFBG0crgjK3sjivJtMwLe) | [Amanda Ginsburg](https://open.spotify.com/artist/0WnqhdeUWBRldiZFW83Ahj), [Filip Ekestubbe](https://open.spotify.com/artist/1rhA3rMvp7PcSaxbLlTZXX), [Magnus Lindgren](https://open.spotify.com/artist/1ai1y07cRSewaRoOsQ4BfN) | [Spring Can Really Hang You up the Most](https://open.spotify.com/album/6Jl50vplY7lfIVwFpMoWSI) | 5:26 | 2022-04-13 |  |
 | [Spring Can Really Hang You Up The Most \- Demo](https://open.spotify.com/track/24mo3C5GuVTfoL8vedPMqL) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [Come Away With Me \(Super Deluxe Edition\)](https://open.spotify.com/album/3ArSFkv4OQOosOvYTrZNIl) | 3:48 | 2022-07-21 | 2022-10-12 |
 | [Spring Can Really Hang You Up The Most \- Demo](https://open.spotify.com/track/6SjpAsNdQMizJqNvvzsCK3) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [Spring Can Really Hang You Up The Most / Come Away With Me](https://open.spotify.com/album/5BWCqsQ5neaxEhnVxybYuG) | 3:48 | 2022-04-13 | 2022-07-29 |

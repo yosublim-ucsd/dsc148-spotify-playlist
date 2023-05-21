@@ -1,12 +1,12 @@
 {
   "description": "\ub0b4 \ub9c8\uc74c\uc744 \ub178\ub7ab\ub9d0\uc774 \uc54c\uc544\uc904 \ub54c.",
-  "num_followers": 5192,
+  "num_followers": 5197,
   "original_name": "\ub098 \ud63c\uc790 \uc88b\uc544\ud574",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4Y2NkZjU2NzkwOTBmYzEzZGY4ZDFkOGJjZWZmMmQ4Nzc3MTNkZGFk",
+  "snapshot_id": "MCw3ZTdlZTY5NjBkYTAwMDM2NWFkMzZkY2IyNDA1MDAyZjQxZDgyNjZm",
   "tracks": [
     {
       "added_at": "2023-05-02 09:09:27",
@@ -451,22 +451,6 @@
     {
       "added_at": "2023-05-02 09:09:27",
       "album": {
-        "name": "\ub9e4\ub4dc\ub3c5 (Original Television Soundtrack) Pt. 1",
-        "url": "https://open.spotify.com/album/4yaskZdmtLHYLUirCrCimM"
-      },
-      "artists": [
-        {
-          "name": "Eric Nam",
-          "url": "https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM"
-        }
-      ],
-      "duration_ms": 189905,
-      "name": "\ud574\uac00 \uc9c0\uae30 \uc804\uc5d0",
-      "url": "https://open.spotify.com/track/7uEBXvioZbOXQx2lMN20F4"
-    },
-    {
-      "added_at": "2023-05-02 09:09:27",
-      "album": {
         "name": "Jewel (feat. KURO)",
         "url": "https://open.spotify.com/album/5gBUShlm3G2r6rJLLf3G1b"
       },
@@ -483,6 +467,22 @@
       "duration_ms": 181377,
       "name": "Jewel (feat. KURO)",
       "url": "https://open.spotify.com/track/1G7Pw6QshyLwo6z2Vp0SFe"
+    },
+    {
+      "added_at": "2023-05-02 09:09:27",
+      "album": {
+        "name": "\ub9e4\ub4dc\ub3c5 (Original Television Soundtrack) Pt. 1",
+        "url": "https://open.spotify.com/album/4yaskZdmtLHYLUirCrCimM"
+      },
+      "artists": [
+        {
+          "name": "Eric Nam",
+          "url": "https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM"
+        }
+      ],
+      "duration_ms": 189905,
+      "name": "\ud574\uac00 \uc9c0\uae30 \uc804\uc5d0",
+      "url": "https://open.spotify.com/track/7uEBXvioZbOXQx2lMN20F4"
     },
     {
       "added_at": "2023-05-02 09:09:27",
@@ -551,6 +551,22 @@
     {
       "added_at": "2023-05-02 09:09:27",
       "album": {
+        "name": "First Love",
+        "url": "https://open.spotify.com/album/74thqvuyVQfosFffvKx2uo"
+      },
+      "artists": [
+        {
+          "name": "LeeHi",
+          "url": "https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu"
+        }
+      ],
+      "duration_ms": 232729,
+      "name": "One-Sided Love",
+      "url": "https://open.spotify.com/track/3D37MXSt6srzIR4nhopEoE"
+    },
+    {
+      "added_at": "2023-05-02 09:09:27",
+      "album": {
         "name": "Da Capo",
         "url": "https://open.spotify.com/album/2aFUFpaIjQQV7dWYsWsvEx"
       },
@@ -567,22 +583,6 @@
       "duration_ms": 267640,
       "name": "She Said (With Kwon Jin Ah)",
       "url": "https://open.spotify.com/track/7B6NK8YKCwPNqKnVTgMmtE"
-    },
-    {
-      "added_at": "2023-05-02 09:09:27",
-      "album": {
-        "name": "First Love",
-        "url": "https://open.spotify.com/album/74thqvuyVQfosFffvKx2uo"
-      },
-      "artists": [
-        {
-          "name": "LeeHi",
-          "url": "https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu"
-        }
-      ],
-      "duration_ms": 232729,
-      "name": "One-Sided Love",
-      "url": "https://open.spotify.com/track/3D37MXSt6srzIR4nhopEoE"
     },
     {
       "added_at": "2023-05-02 09:09:27",

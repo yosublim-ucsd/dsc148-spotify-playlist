@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 
 > The hottest tracks picked from the latest new releases in South Africa and the world\. Cover: <a href="https://open.spotify.com/artist/6EG9v86LsCoq5HS4Jj1zCQ?si=SCNu\_PX7QxqrQWCmsv88cQ">Pabi Cooper</a>, <a href="https://open.spotify.com/artist/4AnNB3lPD0Sv7ziKVHqI66?si=\-8DsErXqRZOlrjOMZcA\_EA">Nkosazana Daughter</a> and <a href="https://open.spotify.com/artist/5kwZB1xNLgB3lln1JGS2B9?si=UxzfFP3dRjG2pK0PgT8T9w">MaWhoo</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,695 likes - 45 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,765 likes - 45 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 | 12 | [No Good](https://open.spotify.com/track/2zs3ErwfEyzI4K2H9vEnTD) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz) | [Goodbye & Good Riddance \(5 Year Anniversary Edition\)](https://open.spotify.com/album/5v9IfhMyxAkE9CbLjfNChR) | 4:12 |
 | 13 | [When Love Sucks \(feat\. Dido\)](https://open.spotify.com/track/59vMO9rkUuefwLMKzohNo5) | [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y), [Dido](https://open.spotify.com/artist/2mpeljBig2IXLXRAFO9AAs) | [When Love Sucks \(feat\. Dido\)](https://open.spotify.com/album/0BmbK3Ayd0Q9BWOCQYOdQw) | 2:49 |
 | 14 | [To The Sky](https://open.spotify.com/track/7owHb1LZFV918ij6VG7iTj) | [Darque](https://open.spotify.com/artist/5ktaq0WEJHPcb5xo7uq105), [Blxckie](https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL) | [To The Sky](https://open.spotify.com/album/78i3wqbxuV35OrNgy7RIRs) | 5:40 |
-| 15 | [Mawubuye](https://open.spotify.com/track/26ZMcKyZVW1RIv8JsPlnOX) | [Flow Jones Jr.](https://open.spotify.com/artist/16lC2NTx9Dj12PsgOzraQa), [DJ Sliqe](https://open.spotify.com/artist/1q4Av58diNwZtD01vPUoH5) | [Mawubuye](https://open.spotify.com/album/5xmKLkETJUgEpFiOt69ssy) | 2:58 |
+| 15 | [Mawubuye](https://open.spotify.com/track/26ZMcKyZVW1RIv8JsPlnOX) | [Flow Jones Jr.](https://open.spotify.com/artist/16lC2NTx9Dj12PsgOzraQa) | [Mawubuye](https://open.spotify.com/album/5xmKLkETJUgEpFiOt69ssy) | 2:58 |
 | 16 | [OVAMI](https://open.spotify.com/track/1QO7M1UGJsHno3cf5aHCri) | [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT), [Flavour](https://open.spotify.com/artist/0oKNR4ahj1CPnK2kQmbOfo) | [OVAMI](https://open.spotify.com/album/2HYi42ojRq0cI1qiTttMj3) | 3:24 |
 | 17 | [Ngenza ngama bomu \(feat\. Mr JazziQ, Umthakathi Kush & Sizwe Alakine\)](https://open.spotify.com/track/3RKYDNNXnrgW73Ivu0cJdB) | [Pcee](https://open.spotify.com/artist/22Bl1QCNEZvpqVwRPYscE4), [Mr JazziQ](https://open.spotify.com/artist/1nVEvn7RMNxj27rn0WE13E), [Umthakathi Kush](https://open.spotify.com/artist/4DFFwNev2bjj7QGVTxzuwM), [Sizwe Alakine](https://open.spotify.com/artist/7Hb7ZlUE4ByWsV1Rkc4Uo2) | [Ngenza ngama bomu \(feat\. Mr JazziQ, Umthakathi Kush & Sizwe Alakine\)](https://open.spotify.com/album/5AwpRVOz64cm5p48hhsvm7) | 6:07 |
 | 18 | [All You Need Is Love](https://open.spotify.com/track/5yPEJ4UF90Km4KmLl2h4EE) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg), [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [Nico Santos](https://open.spotify.com/artist/3A9B6c1CrSPauiOblw7pWz) | [All You Need Is Love](https://open.spotify.com/album/6LoQoWCm9bF4dSQI2ZWtXe) | 2:19 |
@@ -54,4 +54,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 | 44 | [Don't Forget About Me](https://open.spotify.com/track/43rGLaawHXspfnWtBCoAQg) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Don't Forget About Me](https://open.spotify.com/album/73RqlYh6EX1aDBC0oz765j) | 2:29 |
 | 45 | [Middle Ground](https://open.spotify.com/track/3xiccJ9jlTVwC8Yl66eGv5) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP) | [Middle Ground](https://open.spotify.com/album/5jmEjw5krglNmuEy45URZT) | 3:39 |
 
-Snapshot ID: `MCwxZmQ3NDQ1NzRkMDBjNDc1NzcyMjhhMzlkYWIxYzc0OWQ1ZmEzNzBk`
+Snapshot ID: `MCwxOGRiNWUxZWUyNTFlZTk3NjFkMmQ5NTcwOWRmYTg5OTdkMjlmYTlm`

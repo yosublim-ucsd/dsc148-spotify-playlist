@@ -1,12 +1,12 @@
 {
   "description": "M\u00fasica navide\u00f1a para celebrar el nacimiento de nuestro Salvador.",
-  "num_followers": 32015,
+  "num_followers": 32007,
   "original_name": "Navidad Cristiana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwMDFjOTBlYjA1ODc4ZGFjYzQ2MTBiNThiOGEzMmE2YzgxYmQ0Nzhl",
+  "snapshot_id": "MCxmZTU4YzA5ZDBhZWNjNWYwZTBkN2ZjOGMyMTc5NWZmZTJkYjQ2MTIy",
   "tracks": [
     {
       "added_at": "2022-12-10 23:01:18",
@@ -603,22 +603,6 @@
     {
       "added_at": "2022-12-10 23:01:18",
       "album": {
-        "name": "Lucecitas",
-        "url": "https://open.spotify.com/album/6yTGTLZ9sMu7Xdn5JSMsQ9"
-      },
-      "artists": [
-        {
-          "name": "Banda Montreal",
-          "url": "https://open.spotify.com/artist/474ajACVnzDvuItIDa85Ym"
-        }
-      ],
-      "duration_ms": 190645,
-      "name": "Lucecitas",
-      "url": "https://open.spotify.com/track/5PbplvTBAlYL6TlAWlY3Jh"
-    },
-    {
-      "added_at": "2022-12-10 23:01:18",
-      "album": {
         "name": "Hosanna (Naci\u00f3 el Salvador)",
         "url": "https://open.spotify.com/album/6laOmLYemHwlZsWKrXbJHy"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 233578,
       "name": "Hosanna - Naci\u00f3 el Salvador",
       "url": "https://open.spotify.com/track/6UVBb4p0rkNGtm3XKfHfi7"
+    },
+    {
+      "added_at": "2022-12-10 23:01:18",
+      "album": {
+        "name": "Lucecitas",
+        "url": "https://open.spotify.com/album/6yTGTLZ9sMu7Xdn5JSMsQ9"
+      },
+      "artists": [
+        {
+          "name": "Banda Montreal",
+          "url": "https://open.spotify.com/artist/474ajACVnzDvuItIDa85Ym"
+        }
+      ],
+      "duration_ms": 190645,
+      "name": "Lucecitas",
+      "url": "https://open.spotify.com/track/5PbplvTBAlYL6TlAWlY3Jh"
     },
     {
       "added_at": "2022-12-10 23:01:18",
@@ -691,22 +691,6 @@
     {
       "added_at": "2022-12-10 23:01:18",
       "album": {
-        "name": "Oh ven, Emanuel",
-        "url": "https://open.spotify.com/album/0QHibQsKvZz76UCLpNR9gV"
-      },
-      "artists": [
-        {
-          "name": "Alfarero",
-          "url": "https://open.spotify.com/artist/5IONMXTbTpZKzkiepXoohq"
-        }
-      ],
-      "duration_ms": 254891,
-      "name": "Oh ven, Emanuel",
-      "url": "https://open.spotify.com/track/04LgjXIG0KBOHTbMbhsOcC"
-    },
-    {
-      "added_at": "2022-12-10 23:01:18",
-      "album": {
         "name": "Sigo Esper\u00e1ndote",
         "url": "https://open.spotify.com/album/0236Yhp0TiVIjUcJy7h5eM"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 328463,
       "name": "Ni\u00f1o de Bel\u00e9n",
       "url": "https://open.spotify.com/track/6SG8XoBgrR5Q9qEuIxTpbR"
+    },
+    {
+      "added_at": "2022-12-10 23:01:18",
+      "album": {
+        "name": "Oh ven, Emanuel",
+        "url": "https://open.spotify.com/album/0QHibQsKvZz76UCLpNR9gV"
+      },
+      "artists": [
+        {
+          "name": "Alfarero",
+          "url": "https://open.spotify.com/artist/5IONMXTbTpZKzkiepXoohq"
+        }
+      ],
+      "duration_ms": 254891,
+      "name": "Oh ven, Emanuel",
+      "url": "https://open.spotify.com/track/04LgjXIG0KBOHTbMbhsOcC"
     },
     {
       "added_at": "2022-12-10 23:01:18",
@@ -827,22 +827,18 @@
     {
       "added_at": "2022-12-10 23:01:18",
       "album": {
-        "name": "Oh, Noche Santa",
-        "url": "https://open.spotify.com/album/2pdxLLrvUCDz1KA2Li6DJZ"
+        "name": "Navidad Con V\u00e1stago",
+        "url": "https://open.spotify.com/album/5iaOASNSIW1UQxZstdIUrt"
       },
       "artists": [
         {
-          "name": "Alysia",
-          "url": "https://open.spotify.com/artist/5i1cFj8DOqbxlWSRzDaWlE"
-        },
-        {
-          "name": "Joivan Jimenez",
-          "url": "https://open.spotify.com/artist/6Z6iqWKEiZ3n2zOkSVqnUu"
+          "name": "Pecos Romero",
+          "url": "https://open.spotify.com/artist/4DHZAMPvCGmf52B8fI7PvZ"
         }
       ],
-      "duration_ms": 233296,
-      "name": "Oh, Noche Santa",
-      "url": "https://open.spotify.com/track/2IPzoGzqgaPURImpB0dLnb"
+      "duration_ms": 213040,
+      "name": "En Un Establo",
+      "url": "https://open.spotify.com/track/0JbV0FiWpMwRywvnhSv9cb"
     },
     {
       "added_at": "2022-12-10 23:01:18",
@@ -863,22 +859,6 @@
     {
       "added_at": "2022-12-10 23:01:18",
       "album": {
-        "name": "Navidad Con V\u00e1stago",
-        "url": "https://open.spotify.com/album/5iaOASNSIW1UQxZstdIUrt"
-      },
-      "artists": [
-        {
-          "name": "Pecos Romero",
-          "url": "https://open.spotify.com/artist/4DHZAMPvCGmf52B8fI7PvZ"
-        }
-      ],
-      "duration_ms": 213040,
-      "name": "En Un Establo",
-      "url": "https://open.spotify.com/track/0JbV0FiWpMwRywvnhSv9cb"
-    },
-    {
-      "added_at": "2022-12-10 23:01:18",
-      "album": {
         "name": "Naci\u00f3 el Rey",
         "url": "https://open.spotify.com/album/24YTbeEZJR3E1M08pPtitd"
       },
@@ -895,6 +875,26 @@
       "duration_ms": 193282,
       "name": "Es Navidad",
       "url": "https://open.spotify.com/track/1IkIKQlgRYm45BLwxLUvBP"
+    },
+    {
+      "added_at": "2022-12-10 23:01:18",
+      "album": {
+        "name": "Oh, Noche Santa",
+        "url": "https://open.spotify.com/album/2pdxLLrvUCDz1KA2Li6DJZ"
+      },
+      "artists": [
+        {
+          "name": "Alysia",
+          "url": "https://open.spotify.com/artist/5i1cFj8DOqbxlWSRzDaWlE"
+        },
+        {
+          "name": "Joivan Jimenez",
+          "url": "https://open.spotify.com/artist/6Z6iqWKEiZ3n2zOkSVqnUu"
+        }
+      ],
+      "duration_ms": 233296,
+      "name": "Oh, Noche Santa",
+      "url": "https://open.spotify.com/track/2IPzoGzqgaPURImpB0dLnb"
     },
     {
       "added_at": "2022-12-10 23:01:18",
@@ -979,22 +979,6 @@
     {
       "added_at": "2022-12-10 23:01:18",
       "album": {
-        "name": "Naci\u00f3 El Perd\u00f3n",
-        "url": "https://open.spotify.com/album/4wATMFKV8ygIQvCFLc66Ze"
-      },
-      "artists": [
-        {
-          "name": "Conquistando Fronteras",
-          "url": "https://open.spotify.com/artist/4wSfiTrdcKdVZ7L7wNSaE3"
-        }
-      ],
-      "duration_ms": 313002,
-      "name": "Naci\u00f3 El Perd\u00f3n",
-      "url": "https://open.spotify.com/track/3Cw3DoeXcDh4kHvJtx76cW"
-    },
-    {
-      "added_at": "2022-12-10 23:01:18",
-      "album": {
         "name": "Navidades Hasta Que Amanezca",
         "url": "https://open.spotify.com/album/16mF2UdEgV0WB0PziDdPhS"
       },
@@ -1011,6 +995,22 @@
       "duration_ms": 254653,
       "name": "Voy Subiendo (feat. Alex Zurdo)",
       "url": "https://open.spotify.com/track/2KzMozFxhwriwfEU2GQNah"
+    },
+    {
+      "added_at": "2022-12-10 23:01:18",
+      "album": {
+        "name": "Naci\u00f3 El Perd\u00f3n",
+        "url": "https://open.spotify.com/album/4wATMFKV8ygIQvCFLc66Ze"
+      },
+      "artists": [
+        {
+          "name": "Conquistando Fronteras",
+          "url": "https://open.spotify.com/artist/4wSfiTrdcKdVZ7L7wNSaE3"
+        }
+      ],
+      "duration_ms": 313002,
+      "name": "Naci\u00f3 El Perd\u00f3n",
+      "url": "https://open.spotify.com/track/3Cw3DoeXcDh4kHvJtx76cW"
     },
     {
       "added_at": "2022-12-10 23:01:18",
@@ -1091,18 +1091,18 @@
     {
       "added_at": "2022-12-10 23:01:18",
       "album": {
-        "name": "Es Navidad",
-        "url": "https://open.spotify.com/album/6qmgIAF2ZmcFfRLfLnvZ9H"
+        "name": "Navidad Con V\u00e1stago",
+        "url": "https://open.spotify.com/album/5iaOASNSIW1UQxZstdIUrt"
       },
       "artists": [
         {
-          "name": "Tercer Cielo",
-          "url": "https://open.spotify.com/artist/2bimgkRmsxRhhuWsOnd5rz"
+          "name": "Yoly Rodr\u00edguez",
+          "url": "https://open.spotify.com/artist/0I42d8NmR5IXaMcI1sf9Sq"
         }
       ],
-      "duration_ms": 236146,
-      "name": "Venid y Adoremos",
-      "url": "https://open.spotify.com/track/6gps28rean6thHxcURGTg1"
+      "duration_ms": 184760,
+      "name": "El Regalo Celestial",
+      "url": "https://open.spotify.com/track/24Mxt8HITs6bxAEBgDqbt2"
     },
     {
       "added_at": "2022-12-10 23:01:18",
@@ -1131,18 +1131,18 @@
     {
       "added_at": "2022-12-10 23:01:18",
       "album": {
-        "name": "Navidad Con V\u00e1stago",
-        "url": "https://open.spotify.com/album/5iaOASNSIW1UQxZstdIUrt"
+        "name": "Es Navidad",
+        "url": "https://open.spotify.com/album/6qmgIAF2ZmcFfRLfLnvZ9H"
       },
       "artists": [
         {
-          "name": "Yoly Rodr\u00edguez",
-          "url": "https://open.spotify.com/artist/0I42d8NmR5IXaMcI1sf9Sq"
+          "name": "Tercer Cielo",
+          "url": "https://open.spotify.com/artist/2bimgkRmsxRhhuWsOnd5rz"
         }
       ],
-      "duration_ms": 184760,
-      "name": "El Regalo Celestial",
-      "url": "https://open.spotify.com/track/24Mxt8HITs6bxAEBgDqbt2"
+      "duration_ms": 236146,
+      "name": "Venid y Adoremos",
+      "url": "https://open.spotify.com/track/6gps28rean6thHxcURGTg1"
     },
     {
       "added_at": "2022-12-10 23:01:18",
@@ -1535,6 +1535,22 @@
     {
       "added_at": "2022-12-10 23:01:18",
       "album": {
+        "name": "Emanuel",
+        "url": "https://open.spotify.com/album/1xuNhRxoVHFRXRG8ZKNW45"
+      },
+      "artists": [
+        {
+          "name": "Lourdes Toledo",
+          "url": "https://open.spotify.com/artist/1l0tusoe8gcXNkoA5r5jA3"
+        }
+      ],
+      "duration_ms": 250400,
+      "name": "Navidad En Mi Pa\u00eds",
+      "url": "https://open.spotify.com/track/4DOZ3elu3RrKly1XeEqTh2"
+    },
+    {
+      "added_at": "2022-12-10 23:01:18",
+      "album": {
         "name": "Noche de Paz",
         "url": "https://open.spotify.com/album/7qEzUr4aVYEMV7IPgqnSmj"
       },
@@ -1551,22 +1567,6 @@
       "duration_ms": 286454,
       "name": "Noche de Paz",
       "url": "https://open.spotify.com/track/7yrj2HSUr4JxqKO6SpiAGn"
-    },
-    {
-      "added_at": "2022-12-10 23:01:18",
-      "album": {
-        "name": "Emanuel",
-        "url": "https://open.spotify.com/album/1xuNhRxoVHFRXRG8ZKNW45"
-      },
-      "artists": [
-        {
-          "name": "Lourdes Toledo",
-          "url": "https://open.spotify.com/artist/1l0tusoe8gcXNkoA5r5jA3"
-        }
-      ],
-      "duration_ms": 250400,
-      "name": "Navidad En Mi Pa\u00eds",
-      "url": "https://open.spotify.com/track/4DOZ3elu3RrKly1XeEqTh2"
     },
     {
       "added_at": "2022-12-10 23:01:18",
@@ -1639,22 +1639,6 @@
     {
       "added_at": "2022-12-10 23:01:18",
       "album": {
-        "name": "Naci\u00f3 en Mi Coraz\u00f3n",
-        "url": "https://open.spotify.com/album/4J20m0CLlK0XdEPmM0Dj18"
-      },
-      "artists": [
-        {
-          "name": "Julissa",
-          "url": "https://open.spotify.com/artist/6WCFOdK10oxg9dYaaIyeZu"
-        }
-      ],
-      "duration_ms": 215131,
-      "name": "Navidad Perfecta",
-      "url": "https://open.spotify.com/track/5uH67hbBevDIwon4GjIJiQ"
-    },
-    {
-      "added_at": "2022-12-10 23:01:18",
-      "album": {
         "name": "Un Le Lo Lai Diferente",
         "url": "https://open.spotify.com/album/7osJw3KtfYRtw2eItlqC4h"
       },
@@ -1671,6 +1655,22 @@
     {
       "added_at": "2022-12-10 23:01:18",
       "album": {
+        "name": "Naci\u00f3 en Mi Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/4J20m0CLlK0XdEPmM0Dj18"
+      },
+      "artists": [
+        {
+          "name": "Julissa",
+          "url": "https://open.spotify.com/artist/6WCFOdK10oxg9dYaaIyeZu"
+        }
+      ],
+      "duration_ms": 215131,
+      "name": "Navidad Perfecta",
+      "url": "https://open.spotify.com/track/5uH67hbBevDIwon4GjIJiQ"
+    },
+    {
+      "added_at": "2022-12-10 23:01:18",
+      "album": {
         "name": "Lleg\u00f3 La Navidad",
         "url": "https://open.spotify.com/album/5GBWm1yh48ceQcXztqYoya"
       },
@@ -1683,6 +1683,22 @@
       "duration_ms": 192171,
       "name": "Ya Lleg\u00f3 La Navidad",
       "url": "https://open.spotify.com/track/57Dw9S5EP2MCQmkNH9IYoY"
+    },
+    {
+      "added_at": "2022-12-10 23:01:18",
+      "album": {
+        "name": "Noche de paz",
+        "url": "https://open.spotify.com/album/5xYN99mczSnd6XFrb3J7ku"
+      },
+      "artists": [
+        {
+          "name": "Deluz",
+          "url": "https://open.spotify.com/artist/5fCPGe3IiKm8Id0PZazH9R"
+        }
+      ],
+      "duration_ms": 186375,
+      "name": "Noche de paz",
+      "url": "https://open.spotify.com/track/4KECWIRk40HKi3cqPxZnq0"
     },
     {
       "added_at": "2022-12-10 23:01:18",
@@ -1735,34 +1751,18 @@
     {
       "added_at": "2022-12-10 23:01:18",
       "album": {
-        "name": "Noche de paz",
-        "url": "https://open.spotify.com/album/5xYN99mczSnd6XFrb3J7ku"
+        "name": "Cristianos Vayamos",
+        "url": "https://open.spotify.com/album/6KWNNHIcSlSWKoa2ECuYXj"
       },
       "artists": [
         {
-          "name": "Deluz",
-          "url": "https://open.spotify.com/artist/5fCPGe3IiKm8Id0PZazH9R"
+          "name": "Athenas",
+          "url": "https://open.spotify.com/artist/71IIrUaZMShJKwuwIZVVwu"
         }
       ],
-      "duration_ms": 186375,
-      "name": "Noche de paz",
-      "url": "https://open.spotify.com/track/4KECWIRk40HKi3cqPxZnq0"
-    },
-    {
-      "added_at": "2022-12-10 23:01:18",
-      "album": {
-        "name": "Navidad",
-        "url": "https://open.spotify.com/album/6KD92Cj7oDS4DtjUoZZLRw"
-      },
-      "artists": [
-        {
-          "name": "Riosquad",
-          "url": "https://open.spotify.com/artist/7HPnhzsxsJjACFgz84sUtS"
-        }
-      ],
-      "duration_ms": 228253,
-      "name": "Navidad",
-      "url": "https://open.spotify.com/track/0hguhJ4lTWJyG7NhVFhopA"
+      "duration_ms": 227705,
+      "name": "Cristianos Vayamos",
+      "url": "https://open.spotify.com/track/321LOsaE5tmtwz7ogO5j8c"
     }
   ],
   "unique_name": "Navidad Cristiana",

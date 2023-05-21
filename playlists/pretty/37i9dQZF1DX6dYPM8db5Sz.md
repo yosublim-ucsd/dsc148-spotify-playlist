@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6dYPM8db5Sz.md) - [plain]
 
 > The best new indie music from South Africa and beyond\. Cover: <a href="https://open.spotify.com/artist/4DCRHW4ITYEaA0qmW3PYJj?si=bjSNatAfS8iLzllFqCEkcw">aboynamedblu</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,998 likes - 85 songs - 4 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,016 likes - 85 songs - 4 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6dYPM8db5Sz.md) - [plain]
 | 84 | [Like a Brother](https://open.spotify.com/track/0WtfEK4wbbrlFnzvsg4XpU) | [hey, nothing](https://open.spotify.com/artist/6YWqJQS9TETSb8LgZONUzI) | [Like a Brother](https://open.spotify.com/album/2CUiaafQS9YOvcEZmyuKBM) | 3:32 |
 | 85 | [water comes out of my eyes](https://open.spotify.com/track/4hQB5oBSXXncJnZACjgeVg) | [moon tang](https://open.spotify.com/artist/51ZhiTtynrHq7tD4xfGZV7), [cehryl](https://open.spotify.com/artist/0bBrsS9ufPAmeFQgDNG54O) | [WATER COMES OUT OF MY EYES](https://open.spotify.com/album/1kePAOBgujzOYJrE0GtpFk) | 3:22 |
 
-Snapshot ID: `MCxkMjM2Yzc4YzJiNjM1YzYyNTRhMTc2MDBhMGQ3MTQ4MDUxNzAzNjJi`
+Snapshot ID: `MCwzNjkxMDRmNjA3NTc2YzFhMjExYzEzYmZhZjExMWE0YTRkZDJkMGE5`

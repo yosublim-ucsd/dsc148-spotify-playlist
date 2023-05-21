@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 
 > This week's best new metal tracks\. Cover: Ghost
 
-[Spotify](https://open.spotify.com/user/spotify) - 686,501 likes - 75 songs - 5 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 686,752 likes - 75 songs - 5 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 | 29 | [Mercury Man](https://open.spotify.com/track/3fgfnAv2zlLnolP18W1jr2) | [Element Eighty](https://open.spotify.com/artist/4Iyvo65peG4ImDz5AzTqQB) | [Mercury Man](https://open.spotify.com/album/6Ty2yy7sn5NOuHam0hE4pO) | 4:12 |
 | 30 | [Path Of Fierce Resistance](https://open.spotify.com/track/2wYiXAJ6552SGJlZnvewF7) | [The Halo Effect](https://open.spotify.com/artist/2qvK5iLLoDV5mJeAvh5uka) | [Path Of Fierce Resistance](https://open.spotify.com/album/5pFoa1KA7r46eNuZvbdYX5) | 3:39 |
 | 31 | [Our Time is Now \(feat\. The Anix\) \- Single Edit](https://open.spotify.com/track/6InoYtDtdv31QnwDe0PoeH) | [Void Chapter](https://open.spotify.com/artist/6hJhjhNdtSCfZhQiqN03lq), [The Anix](https://open.spotify.com/artist/6nFvVbL2RN5czSm7NZjE51) | [Our Time is Now \(feat\. The Anix\)](https://open.spotify.com/album/4AhPCklHOk4yDWNZhjccye) | 3:50 |
-| 32 | [Courtney, just relax \(feat\. World Of Pleasure\)](https://open.spotify.com/track/7z6oCwgcuR0NnziEKmu6Pi) | [Static Dress](https://open.spotify.com/artist/1Lqdsv7Ff4GNq9PM3Yd0vi), [World Of Pleasure](https://open.spotify.com/artist/7kcqk3e5BlCUw41fctDQax) | [Courtney, just relax \(feat\. World Of Pleasure\)](https://open.spotify.com/album/0neLeILE6Ymhokv69gsI9L) | 2:55 |
+| 32 | [Courtney, just relax \(feat\. World Of Pleasure\)](https://open.spotify.com/track/7z6oCwgcuR0NnziEKmu6Pi) | [Static Dress](https://open.spotify.com/artist/1Lqdsv7Ff4GNq9PM3Yd0vi), [World of Pleasure](https://open.spotify.com/artist/3SR0KKxXYspg7mJwSUsGBb) | [Courtney, just relax \(feat\. World Of Pleasure\)](https://open.spotify.com/album/0neLeILE6Ymhokv69gsI9L) | 2:55 |
 | 33 | [In the shadow of your former self.](https://open.spotify.com/track/7icAw1EcEfXRpOxkhB3HZw) | [Love Is Noise](https://open.spotify.com/artist/4qY6XGFQwZubu0oKBJeVki) | [In the shadow of your former self.](https://open.spotify.com/album/2L3ASLYdsXsrombwNJVyAG) | 4:21 |
 | 34 | [The Unknown](https://open.spotify.com/track/1NpgeO9jKOxu8usGki81Wn) | [Evile](https://open.spotify.com/artist/1dwrMJAKBiLlj0O4R791Xo) | [The Unknown](https://open.spotify.com/album/1a5H1IY2Z2CWID3upunCtl) | 4:45 |
 | 35 | [War Das Alles](https://open.spotify.com/track/1nmMqLkBFFtZixFcRA7n58) | [Eleine](https://open.spotify.com/artist/2L2rV1gDa17HwFcFCWBIAx) | [War Das Alles](https://open.spotify.com/album/2639eXq6bliu5RZEQptjZ3) | 3:26 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 | 74 | [The Chalice of Life and Death](https://open.spotify.com/track/3QUZotFMyjWgMqgPog2pKS) | [Henget](https://open.spotify.com/artist/2wIuqcOgP1VFRZbM7SXKR3) | [Beyond North Star](https://open.spotify.com/album/5XUORsBadFABFGBH3igIdR) | 4:17 |
 | 75 | [Capricorn Rising](https://open.spotify.com/track/7h8tFFjU552LiE5tPITAlR) | [Yakuza](https://open.spotify.com/artist/5CXnC5TvKhnUERFcMkKgmz) | [Sutra](https://open.spotify.com/album/4mjKoQuKrqXnJH4ZTCk6fg) | 6:32 |
 
-Snapshot ID: `MCw0MThlYTVkYWYyZDExNWRhM2NjZTc5MTJjMWI5ZTdiMDllMDMxMjhl`
+Snapshot ID: `MCwxYzg0ZWI2OTlmYzNiY2U5ZGVkZjgzOGQxZjhhMmVkZDRlMDU0MTc0`

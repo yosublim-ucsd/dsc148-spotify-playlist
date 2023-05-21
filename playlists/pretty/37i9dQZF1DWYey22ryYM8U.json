@@ -1,12 +1,12 @@
 {
   "description": "Hits con sabor. Cover: Becky G & Omega",
-  "num_followers": 592703,
+  "num_followers": 592822,
   "original_name": "Tropical Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkYTZiMGZkMmM1ZWRiNmZhZjJlN2Q3ZmRjYjRiZWU3ZTBiZWY2YzU3",
+  "snapshot_id": "MCxkYjBmNWRhOThmMGI3Mjk3NjBjZmVkZTdlMmM5M2IzNzlkMzkwZDg5",
   "tracks": [
     {
       "added_at": "2023-05-19 04:00:00",
@@ -1031,6 +1031,22 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
+        "name": "Ag\u00fcita e Coco",
+        "url": "https://open.spotify.com/album/7tmpf27P7FaqCfHVk7YkDk"
+      },
+      "artists": [
+        {
+          "name": "Kany Garc\u00eda",
+          "url": "https://open.spotify.com/artist/69UypehHabb68utzfjAVlV"
+        }
+      ],
+      "duration_ms": 176759,
+      "name": "Ag\u00fcita e Coco",
+      "url": "https://open.spotify.com/track/34T7iPVVZcOoIThh32RJDi"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
         "name": "Cartagena",
         "url": "https://open.spotify.com/album/0KPZ1OkD2EUQpaWVKnnJtM"
       },
@@ -1047,22 +1063,6 @@
       "duration_ms": 174297,
       "name": "Cartagena",
       "url": "https://open.spotify.com/track/1UGXsiNn0ACf2MXuHXuiJE"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
-        "name": "Ag\u00fcita e Coco",
-        "url": "https://open.spotify.com/album/7tmpf27P7FaqCfHVk7YkDk"
-      },
-      "artists": [
-        {
-          "name": "Kany Garc\u00eda",
-          "url": "https://open.spotify.com/artist/69UypehHabb68utzfjAVlV"
-        }
-      ],
-      "duration_ms": 176759,
-      "name": "Ag\u00fcita e Coco",
-      "url": "https://open.spotify.com/track/34T7iPVVZcOoIThh32RJDi"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -1171,26 +1171,6 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "De Menor a Mayor",
-        "url": "https://open.spotify.com/album/2e2SQ7KNvfX4B5MinwH4Cs"
-      },
-      "artists": [
-        {
-          "name": "Gente De Zona",
-          "url": "https://open.spotify.com/artist/2cy1zPcrFcXAJTP0APWewL"
-        },
-        {
-          "name": "Carlos Vives",
-          "url": "https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr"
-        }
-      ],
-      "duration_ms": 176320,
-      "name": "El Negrito",
-      "url": "https://open.spotify.com/track/3OymSyNaXj5AQI6veTh9f2"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
         "name": "Si Tu Te Atreves",
         "url": "https://open.spotify.com/album/19IQ2sU56lX0LyMitN18lG"
       },
@@ -1207,6 +1187,26 @@
       "duration_ms": 226821,
       "name": "Si Tu Te Atreves",
       "url": "https://open.spotify.com/track/5RL1L8aKizWilny9oVXSGh"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
+        "name": "De Menor a Mayor",
+        "url": "https://open.spotify.com/album/2e2SQ7KNvfX4B5MinwH4Cs"
+      },
+      "artists": [
+        {
+          "name": "Gente De Zona",
+          "url": "https://open.spotify.com/artist/2cy1zPcrFcXAJTP0APWewL"
+        },
+        {
+          "name": "Carlos Vives",
+          "url": "https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr"
+        }
+      ],
+      "duration_ms": 176320,
+      "name": "El Negrito",
+      "url": "https://open.spotify.com/track/3OymSyNaXj5AQI6veTh9f2"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -1787,26 +1787,26 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "De Camino A Palomino, Vol. 1",
-        "url": "https://open.spotify.com/album/0B88UTbmGoAUh44gsfo92M"
+        "name": "Soy Yo",
+        "url": "https://open.spotify.com/album/6kzYInv46fwDqyazbbS1DX"
       },
       "artists": [
         {
-          "name": "DJ Nelson",
-          "url": "https://open.spotify.com/artist/2ydZrTy8U3kOMOzx20s3dg"
+          "name": "Don Omar",
+          "url": "https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z"
         },
         {
-          "name": "Christian Alicea",
-          "url": "https://open.spotify.com/artist/7e3WPrCLa3zHg6Er0lq7mp"
+          "name": "Wisin",
+          "url": "https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz"
         },
         {
-          "name": "Alejandro Armes",
-          "url": "https://open.spotify.com/artist/3J9eSTe3nQKjuMyoiO2XSi"
+          "name": "Gente De Zona",
+          "url": "https://open.spotify.com/artist/2cy1zPcrFcXAJTP0APWewL"
         }
       ],
-      "duration_ms": 210446,
-      "name": "Se Le Nota",
-      "url": "https://open.spotify.com/track/6l1CD1Raf4AtgQOJLXwiwt"
+      "duration_ms": 218865,
+      "name": "Soy Yo",
+      "url": "https://open.spotify.com/track/4qREGoj96edc3P6N3gHHyr"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -1835,26 +1835,26 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "Quiero Decirte - Remixes",
-        "url": "https://open.spotify.com/album/3U2wtzZJqd55HGBfqVHruU"
+        "name": "De Camino A Palomino, Vol. 1",
+        "url": "https://open.spotify.com/album/0B88UTbmGoAUh44gsfo92M"
       },
       "artists": [
         {
-          "name": "Abraham Mateo",
-          "url": "https://open.spotify.com/artist/2bxxlINUlcMQQb39K7IopR"
+          "name": "DJ Nelson",
+          "url": "https://open.spotify.com/artist/2ydZrTy8U3kOMOzx20s3dg"
         },
         {
-          "name": "Ana Mena",
-          "url": "https://open.spotify.com/artist/6k8mwkKJKKjBILo7ypBspl"
+          "name": "Christian Alicea",
+          "url": "https://open.spotify.com/artist/7e3WPrCLa3zHg6Er0lq7mp"
         },
         {
-          "name": "DJ C",
-          "url": "https://open.spotify.com/artist/3SchaCFy44QEGv2EdF4ZjS"
+          "name": "Alejandro Armes",
+          "url": "https://open.spotify.com/artist/3J9eSTe3nQKjuMyoiO2XSi"
         }
       ],
-      "duration_ms": 229000,
-      "name": "Quiero Decirte - DJ C Remix",
-      "url": "https://open.spotify.com/track/76Na3nHNJrkdjZ9qkuiJMz"
+      "duration_ms": 210446,
+      "name": "Se Le Nota",
+      "url": "https://open.spotify.com/track/6l1CD1Raf4AtgQOJLXwiwt"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -1875,18 +1875,26 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "Aventurero",
-        "url": "https://open.spotify.com/album/4PWYXJGUP9s8qNWJMCRl4s"
+        "name": "Quiero Decirte - Remixes",
+        "url": "https://open.spotify.com/album/3U2wtzZJqd55HGBfqVHruU"
       },
       "artists": [
         {
-          "name": "Frank Reyes",
-          "url": "https://open.spotify.com/artist/4vQV1LCGBdYAt5rIIPjSFZ"
+          "name": "Abraham Mateo",
+          "url": "https://open.spotify.com/artist/2bxxlINUlcMQQb39K7IopR"
+        },
+        {
+          "name": "Ana Mena",
+          "url": "https://open.spotify.com/artist/6k8mwkKJKKjBILo7ypBspl"
+        },
+        {
+          "name": "DJ C",
+          "url": "https://open.spotify.com/artist/3SchaCFy44QEGv2EdF4ZjS"
         }
       ],
-      "duration_ms": 209500,
-      "name": "Aventurero",
-      "url": "https://open.spotify.com/track/6dapTo2nYV7SdoyaJLpJWI"
+      "duration_ms": 229000,
+      "name": "Quiero Decirte - DJ C Remix",
+      "url": "https://open.spotify.com/track/76Na3nHNJrkdjZ9qkuiJMz"
     }
   ],
   "unique_name": "Tropical Hits",

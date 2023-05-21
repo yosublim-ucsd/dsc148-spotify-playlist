@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU486KSiznWZ.md) - [plain]
 
 > اكتشفوا أفضل الاغاني الخليجية <br/>الغلاف: ايمن قصيلة
 
-[Spotify](https://open.spotify.com/user/spotify) - 196,140 likes - 42 songs - 3 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 196,243 likes - 42 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,4 +51,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU486KSiznWZ.md) - [plain]
 | 41 | [Yeheb Al Bard](https://open.spotify.com/track/1MF7i7rhvphEq4QQr3fajo) | [Sultan Al Murshed](https://open.spotify.com/artist/6miZ4J6pxMnkJkrjOLeGeU) | [Yeheb Al Bard](https://open.spotify.com/album/4fw97akgChztlsTIgfFm6m) | 3:53 |
 | 42 | [6Air Elma7abba](https://open.spotify.com/track/1uLo7VvVInEf4mG1ne1GH8) | [Hussain Aljassmi](https://open.spotify.com/artist/1TcEy92Hugt8o9STqUDz2D) | [6air Elma7abba](https://open.spotify.com/album/51iqAWJczGv01DPAdNCU0B) | 5:19 |
 
-Snapshot ID: `MCxjZjIwMDBkZTI4ZTg2Mjg4Y2QxYWMzMzQ4OTM4Mjk3NWU5MjVhMTYz`
+Snapshot ID: `MCxmNWFmNmZmYjE1ZWJhMWUzY2I2NTFhMjFmMWExODhkMjM1ZTk4NTA3`

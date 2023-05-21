@@ -4,7 +4,7 @@
 
 > Här hör du de bästa svenska låtarna just nu.
 
-705 songs - 1 day 13 hr 19 min
+707 songs - 1 day 13 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,7 +16,7 @@
 | [2U](https://open.spotify.com/track/1ooZsaGgmQI9CIbHxwexbb) | [Youso](https://open.spotify.com/artist/06bgm6DvMlm9ciPIJWW0gh) | [2U](https://open.spotify.com/album/6JE4kCzhXEQEEuKaaL93qf) | 2:42 | 2022-01-13 | 2022-03-31 |
 | [30 personer](https://open.spotify.com/track/5w12yvSOPnFE3uD7IKN2ug) | [Hov1](https://open.spotify.com/artist/68dW5BU6sdVNf099EylxEt), [Elias Hurtig](https://open.spotify.com/artist/4FVS2fGhv66N8QLEj77EEP) | [30 personer](https://open.spotify.com/album/5AH0bUliZFOouNs1xoDNZ1) | 2:49 | 2022-02-05 | 2022-09-16 |
 | [4 In The Morning](https://open.spotify.com/track/0SuyXIUFGDwdDUhJ95efC6) | [Nápoles](https://open.spotify.com/artist/3Dobjv7S9rOSiQMb1Jjnk1) | [4 In The Morning](https://open.spotify.com/album/2NWTqLoxgcRzR7Ld7I3oOM) | 3:09 | 2022-03-17 | 2022-05-04 |
-| [5D](https://open.spotify.com/track/3WcVlo61iEyECjLoPmar6D) | [Lykke Li](https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in) | [EYEYE](https://open.spotify.com/album/4DEuMVYWVQHxhE8oNBO8T4) | 3:45 | 2022-07-28 |  |
+| [5D](https://open.spotify.com/track/3WcVlo61iEyECjLoPmar6D) | [Lykke Li](https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in) | [EYEYE](https://open.spotify.com/album/4DEuMVYWVQHxhE8oNBO8T4) | 3:45 | 2022-07-28 | 2023-05-21 |
 | [911](https://open.spotify.com/track/6gvuOwQYMw0oz0oe6x7x9O) | [waterbaby](https://open.spotify.com/artist/7ig7r3UikvL9qJe7pQvCBn) | [911](https://open.spotify.com/album/7pvGWk5SR5IIMB1GaUL8Mc) | 2:52 | 2023-05-04 |  |
 | [91:an](https://open.spotify.com/track/6EvSxIfJCvDwglAIpHBlNR) | [Markus Krunegård](https://open.spotify.com/artist/3P6ePaE5unCm7vjccfcBAe) | [TUTTI FRUTTI \- från lokalen under sushin](https://open.spotify.com/album/3YAftoNJ88ciNZp7jWPiOQ) | 3:12 | 2021-12-16 | 2022-03-10 |
 | [94an](https://open.spotify.com/track/4E0SqGrKjIqlgzTEZU0Zbw) | [Emma\-Lee Andersson](https://open.spotify.com/artist/3ldvnZAhBB2vAaqMWIvqbY) | [94an](https://open.spotify.com/album/4A44yJWTj9f7ADwJolvoUX) | 2:57 | 2022-04-01 | 2022-09-26 |
@@ -179,6 +179,7 @@
 | [En fattig munk från Skara](https://open.spotify.com/track/3PRcVDJ6sb0XNF0ZNUHQfT) | [Gustaf & Viktor Norén](https://open.spotify.com/artist/7wgjhOBlEERCRSA6iloMvt) | [Samlade sånger](https://open.spotify.com/album/53W6Wvkzo0eWW2YcwWX0CL) | 4:29 | 2021-12-16 | 2022-07-22 |
 | [En jättefin dag](https://open.spotify.com/track/3FafZFF96FlznVIYBUEbwG) | [Little Jinder](https://open.spotify.com/artist/5QYBoZAoupoPPuFB1KHfx0) | [Salta diamanter](https://open.spotify.com/album/6phTBfeufGdFLoBksORckf) | 2:20 | 2022-06-30 | 2022-09-26 |
 | [En sekund](https://open.spotify.com/track/3HteneaA9R5zRXVvZRoT0i) | [Tjuvjakt](https://open.spotify.com/artist/0XDfNJsQy7B3q0GfsMHSkp), [Erik Lundin](https://open.spotify.com/artist/0dCSPVQ30JS4cRaCTtbEmp) | [En sekund \(Spotify Studio It's Hits Recording\)](https://open.spotify.com/album/0M5PVcCS8bM1fpZj7BEqCF) | 3:39 | 2021-12-16 | 2022-03-06 |
+| [End Of Time](https://open.spotify.com/track/5ttodnEIaCGDuBbvJctUfc) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [End Of Time](https://open.spotify.com/album/5qIq5q9nx9fymmk5JyKmsB) | 3:03 | 2023-05-19 |  |
 | [ENSAM \(feat\. estraden\)](https://open.spotify.com/track/7EN8ZT8lGdXH58ulXwW94R) | [LOAM](https://open.spotify.com/artist/6yAKbgaSH283c7eAZVgk3P), [estraden](https://open.spotify.com/artist/2Osj5g9VkHReOlZgfoEQao) | [ENSAM \(feat\. estraden\)](https://open.spotify.com/album/3YA5YC5q8EbR4fiHlPiOQ5) | 3:09 | 2022-10-27 |  |
 | [Ensamvarg](https://open.spotify.com/track/4raZ0nYoiJ4mmeXlKgtNFI) | [Maxida Märak](https://open.spotify.com/artist/3FfnFeTonanbog4rEvYXns) | [Ensamvarg](https://open.spotify.com/album/5SNsjFUqouam47L3HTtqXf) | 3:35 | 2022-06-16 | 2022-07-10 |
 | [Even It Out](https://open.spotify.com/track/6A5MnQeIz8R39Ed6huqwQI) | [Fever Ray](https://open.spotify.com/artist/5hE6NCoobhyEu6TRSbjOJY) | [Radical Romantics](https://open.spotify.com/album/0GSARUUhweinQufLR663b4) | 3:07 | 2023-03-09 | 2023-04-14 |
@@ -350,7 +351,7 @@
 | [Känner ingenting](https://open.spotify.com/track/2373AatpPbJF5klnOAfI2X) | [Marika Larsson](https://open.spotify.com/artist/5WIrNia2mhdmq27YqJj1hB) | [Känner ingenting](https://open.spotify.com/album/7yxwheJBWmnfyzyqI0bLI4) | 2:57 | 2021-12-16 | 2022-03-03 |
 | [La La La](https://open.spotify.com/track/4LtPFH4paCpButjQP4mYaR) | [Cherrie](https://open.spotify.com/artist/59E9dYtwLTUAGuAppwFKAW) | [La La La](https://open.spotify.com/album/7MoHttJ87Iih7fEDFlaMeC) | 3:59 | 2022-03-10 | 2022-05-05 |
 | [La La La](https://open.spotify.com/track/6MV4043JueYwL8WZgWKq6t) | [Nyman](https://open.spotify.com/artist/5uUtgag4eH1FrlbGUz3XgT), [RAENE](https://open.spotify.com/artist/6fTa2ugChlaoRIF6jvrZdV) | [La La La](https://open.spotify.com/album/2Y9bjGUDJj5zf6DdW1n4cL) | 3:22 | 2022-03-10 | 2022-04-20 |
-| [Landet i fjärran](https://open.spotify.com/track/6xeeAu3iNRp8NGw1s9cfCw) | [Cleo](https://open.spotify.com/artist/1SwDFc5jX708XR3XtzLrRs), [Fricky](https://open.spotify.com/artist/4bZ30evEi5vMG1A3xdW8U2), [Academics](https://open.spotify.com/artist/2qDTb1Hj9x4Ic97w87xfkg) | [Missaoui](https://open.spotify.com/album/1iX6D47cXE8PgH5gylJRIn) | 4:43 | 2022-07-28 |  |
+| [Landet i fjärran](https://open.spotify.com/track/6xeeAu3iNRp8NGw1s9cfCw) | [Cleo](https://open.spotify.com/artist/1SwDFc5jX708XR3XtzLrRs), [Fricky](https://open.spotify.com/artist/4bZ30evEi5vMG1A3xdW8U2), [Academics](https://open.spotify.com/artist/2qDTb1Hj9x4Ic97w87xfkg) | [Missaoui](https://open.spotify.com/album/1iX6D47cXE8PgH5gylJRIn) | 4:43 | 2022-07-28 | 2023-05-21 |
 | [late night thoughts](https://open.spotify.com/track/3DZxxkVLybnofY4K2od9yW) | [shy martin](https://open.spotify.com/artist/7eCmccnRwPmRnWPw61x6jM) | [late night thoughts](https://open.spotify.com/album/6jjduNuyly6Y40kJWl5UZN) | 2:25 | 2023-02-09 |  |
 | [Lay All Your Love On Me \- Spotify Singles](https://open.spotify.com/track/2vaxUyVWNoA2L272YHEy70) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Lay All Your Love On Me \- Spotify Singles](https://open.spotify.com/album/4aCXO1evmETJ2Cy32sZ2Zj) | 2:41 | 2022-06-02 |  |
 | [Lean On](https://open.spotify.com/track/6d9FN6JpZp0UpOtTntQs3T) | [Boy In Space](https://open.spotify.com/artist/0xu4jAQQv7ZAqvFGdc9HgP) | [Lean On](https://open.spotify.com/album/06En50z6PjL5SLMTjVGOpl) | 2:35 | 2022-09-29 | 2022-10-13 |
@@ -677,6 +678,7 @@
 | [Vågar](https://open.spotify.com/track/7uiGgzShu2Hz9iMg1Cgvpk) | [lovad](https://open.spotify.com/artist/3MPhQdwcGDArJTh3SvU9nj) | [Vågar](https://open.spotify.com/album/5iOQhsgCAUTf9BUVwYR5m3) | 2:38 | 2022-04-01 |  |
 | [Vågen](https://open.spotify.com/track/3BxF9YsGMNNeRxxNjjRLJX) | [Olivia Lobato](https://open.spotify.com/artist/6ZvwUYAvbACmP7YTavyVV0) | [Vågen](https://open.spotify.com/album/0PuGnNJwFaR9VOkGIXmDvN) | 3:30 | 2022-03-10 | 2022-07-19 |
 | [Vårt gamla vi](https://open.spotify.com/track/5EiZY6Vvl16hC7rZ0AJyCV) | [Albin Johnsén](https://open.spotify.com/artist/6IfZesOI3vKCZy8pjzVknj) | [Vårt gamla vi](https://open.spotify.com/album/2LLSwS6YQ6Senz1V4oVEH2) | 2:55 | 2022-01-27 | 2022-05-13 |
+| [wait it out](https://open.spotify.com/track/793pY16A2YqBrsmdyagExY) | [shy martin](https://open.spotify.com/artist/7eCmccnRwPmRnWPw61x6jM) | [late night thoughts](https://open.spotify.com/album/3NNyPYXwkHc4F8QffKQkui) | 2:33 | 2023-05-19 |  |
 | [Waiting on Your Love](https://open.spotify.com/track/24Xb1t3v9EmLIxGrkezlys) | [Victor Crone](https://open.spotify.com/artist/6TlWqqdj65mppNUHZVkjaq) | [Waiting on Your Love](https://open.spotify.com/album/5W5j070IXwKqX2mq6laTwX) | 3:12 | 2021-12-16 | 2022-03-11 |
 | [Water Pistol](https://open.spotify.com/track/66FQlENQhffJNXm8Ae4KIg) | [Yaeger](https://open.spotify.com/artist/0sWPIrlMZlHFkDBYkciO3X) | [Water Pistol](https://open.spotify.com/album/338nJ7kiXQww30TUql5VjC) | 3:39 | 2022-11-10 | 2023-04-28 |
 | [What If I](https://open.spotify.com/track/2c2O7ChAwj2jioNr1yDOH1) | [Candelion](https://open.spotify.com/artist/3Qq7KInk9dmtAMzajwdPDG) | [What If I](https://open.spotify.com/album/4eq3D1g5XmBKafdSOni4mr) | 3:05 | 2021-12-16 | 2022-04-02 |

@@ -1,12 +1,12 @@
 {
   "description": "Gazing at pedals, soaring celestially high. Cover: Owain Davies of Panchiko",
-  "num_followers": 70655,
+  "num_followers": 70928,
   "original_name": "Shoegaze Now",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3ODMzNTQwNWQzZWIwZjBjNzY2Nzk1Y2FjNGQ5NDAyMzg2MGYxYWU5",
+  "snapshot_id": "MCw5OGFkZGJiYzU0ZTkxNzE2OWZiMzNhMWY4OWI3MDM0Y2EyOWQzY2Zi",
   "tracks": [
     {
       "added_at": "2023-05-05 04:01:00",
@@ -561,22 +561,6 @@
       "url": "https://open.spotify.com/track/0gZziRdBUBIeucaKpRiAYO"
     },
     {
-      "added_at": "2021-10-19 01:47:29",
-      "album": {
-        "name": "Passive Aggressive",
-        "url": "https://open.spotify.com/album/2tKuxquz6D6CEhPP5TLTl4"
-      },
-      "artists": [
-        {
-          "name": "The Radio Dept.",
-          "url": "https://open.spotify.com/artist/0utS63XytOEVN1EtzWhJpG"
-        }
-      ],
-      "duration_ms": 200441,
-      "name": "Pulling Our Weight",
-      "url": "https://open.spotify.com/track/5JfibYpOT2Rtw6a0iWHiNm"
-    },
-    {
       "added_at": "2023-01-12 03:03:40",
       "album": {
         "name": "pg.4 a picture of three hedges/through your window",
@@ -591,6 +575,22 @@
       "duration_ms": 249826,
       "name": "pg.4 a picture of three hedges",
       "url": "https://open.spotify.com/track/4qtRBRNDFVbZ2kk3BEaRf3"
+    },
+    {
+      "added_at": "2021-10-19 01:47:29",
+      "album": {
+        "name": "Passive Aggressive",
+        "url": "https://open.spotify.com/album/2tKuxquz6D6CEhPP5TLTl4"
+      },
+      "artists": [
+        {
+          "name": "The Radio Dept.",
+          "url": "https://open.spotify.com/artist/0utS63XytOEVN1EtzWhJpG"
+        }
+      ],
+      "duration_ms": 200441,
+      "name": "Pulling Our Weight",
+      "url": "https://open.spotify.com/track/5JfibYpOT2Rtw6a0iWHiNm"
     },
     {
       "added_at": "2022-12-15 18:01:43",
@@ -689,22 +689,6 @@
       "url": "https://open.spotify.com/track/3nC63MCw9qxn2uneBWqP7W"
     },
     {
-      "added_at": "2021-10-19 01:47:29",
-      "album": {
-        "name": "The Waves",
-        "url": "https://open.spotify.com/album/2GrLKfN6dTb4o7Eoz6pqSG"
-      },
-      "artists": [
-        {
-          "name": "Tamaryn",
-          "url": "https://open.spotify.com/artist/3TdVTSmMfLh55VrJDUpIQ2"
-        }
-      ],
-      "duration_ms": 220760,
-      "name": "Love Fade",
-      "url": "https://open.spotify.com/track/0p6JvwRK6RqC1SyRVKP6cN"
-    },
-    {
       "added_at": "2023-05-12 04:00:00",
       "album": {
         "name": "4am",
@@ -727,6 +711,22 @@
       "duration_ms": 177900,
       "name": "4am",
       "url": "https://open.spotify.com/track/1F2guay5Aj7XNNvbuCx9p5"
+    },
+    {
+      "added_at": "2021-10-19 01:47:29",
+      "album": {
+        "name": "The Waves",
+        "url": "https://open.spotify.com/album/2GrLKfN6dTb4o7Eoz6pqSG"
+      },
+      "artists": [
+        {
+          "name": "Tamaryn",
+          "url": "https://open.spotify.com/artist/3TdVTSmMfLh55VrJDUpIQ2"
+        }
+      ],
+      "duration_ms": 220760,
+      "name": "Love Fade",
+      "url": "https://open.spotify.com/track/0p6JvwRK6RqC1SyRVKP6cN"
     },
     {
       "added_at": "2021-10-19 01:47:29",
@@ -1065,20 +1065,20 @@
       "url": "https://open.spotify.com/track/1naoYMSxRHCpu3zvQM2la5"
     },
     {
-      "added_at": "2023-04-14 04:00:00",
+      "added_at": "2021-10-19 01:47:29",
       "album": {
-        "name": "Pressure",
-        "url": "https://open.spotify.com/album/5PcCgXyYFXsjQvS1Wjv8LU"
+        "name": "Dead Kids R.I.P. City",
+        "url": "https://open.spotify.com/album/09GvIBV4cQDhvlL8rzTIy3"
       },
       "artists": [
         {
-          "name": "Slow Joy",
-          "url": "https://open.spotify.com/artist/5p119sPXEyp2exxbpInGqL"
+          "name": "Soft Kill",
+          "url": "https://open.spotify.com/artist/58rIPw8uw8LW01eQH7Mi7m"
         }
       ],
-      "duration_ms": 173453,
-      "name": "Pressure",
-      "url": "https://open.spotify.com/track/10FlXJUgM6r159dNILdFDt"
+      "duration_ms": 151560,
+      "name": "Pretty Face",
+      "url": "https://open.spotify.com/track/7n3Y93fkz1oRdsgpYTazkh"
     },
     {
       "added_at": "2021-10-19 01:47:29",
@@ -1097,20 +1097,20 @@
       "url": "https://open.spotify.com/track/4syzzi19vlAQOFDtipYyRL"
     },
     {
-      "added_at": "2021-10-19 01:47:29",
+      "added_at": "2023-04-14 04:00:00",
       "album": {
-        "name": "Dead Kids R.I.P. City",
-        "url": "https://open.spotify.com/album/09GvIBV4cQDhvlL8rzTIy3"
+        "name": "Pressure",
+        "url": "https://open.spotify.com/album/5PcCgXyYFXsjQvS1Wjv8LU"
       },
       "artists": [
         {
-          "name": "Soft Kill",
-          "url": "https://open.spotify.com/artist/58rIPw8uw8LW01eQH7Mi7m"
+          "name": "Slow Joy",
+          "url": "https://open.spotify.com/artist/5p119sPXEyp2exxbpInGqL"
         }
       ],
-      "duration_ms": 151560,
-      "name": "Pretty Face",
-      "url": "https://open.spotify.com/track/7n3Y93fkz1oRdsgpYTazkh"
+      "duration_ms": 173453,
+      "name": "Pressure",
+      "url": "https://open.spotify.com/track/10FlXJUgM6r159dNILdFDt"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -1127,22 +1127,6 @@
       "duration_ms": 150251,
       "name": "idk how to luv",
       "url": "https://open.spotify.com/track/7y61H8SDeP6rTTEiS32lfi"
-    },
-    {
-      "added_at": "2023-04-14 04:00:00",
-      "album": {
-        "name": "Dreamer",
-        "url": "https://open.spotify.com/album/1U0eun2BDlw7RyLomRJv0V"
-      },
-      "artists": [
-        {
-          "name": "Nabihah Iqbal",
-          "url": "https://open.spotify.com/artist/7pPOvwCq4bb2iObs8twDir"
-        }
-      ],
-      "duration_ms": 233600,
-      "name": "Dreamer",
-      "url": "https://open.spotify.com/track/4VwxfY2vOzrf0LXb4HFEvk"
     },
     {
       "added_at": "2022-08-03 04:20:04",
@@ -1181,6 +1165,22 @@
       "url": "https://open.spotify.com/track/4r13d29427UZ9lyGrhKjxJ"
     },
     {
+      "added_at": "2023-04-14 04:00:00",
+      "album": {
+        "name": "Dreamer",
+        "url": "https://open.spotify.com/album/1U0eun2BDlw7RyLomRJv0V"
+      },
+      "artists": [
+        {
+          "name": "Nabihah Iqbal",
+          "url": "https://open.spotify.com/artist/7pPOvwCq4bb2iObs8twDir"
+        }
+      ],
+      "duration_ms": 233600,
+      "name": "Dreamer",
+      "url": "https://open.spotify.com/track/4VwxfY2vOzrf0LXb4HFEvk"
+    },
+    {
       "added_at": "2022-12-12 18:23:41",
       "album": {
         "name": "Heaven Inches Away",
@@ -1195,22 +1195,6 @@
       "duration_ms": 240500,
       "name": "Chihiro",
       "url": "https://open.spotify.com/track/0Kg61SKiinZ7MCt2xPYzhq"
-    },
-    {
-      "added_at": "2023-04-14 04:00:00",
-      "album": {
-        "name": "don't tell me",
-        "url": "https://open.spotify.com/album/1yHTOsFz7Lji0xZ06oN1oL"
-      },
-      "artists": [
-        {
-          "name": "Mind\u2019s Eye",
-          "url": "https://open.spotify.com/artist/4o6dCIkmONTJL0ByDDUNYd"
-        }
-      ],
-      "duration_ms": 279318,
-      "name": "don't tell me",
-      "url": "https://open.spotify.com/track/2WDPqvuis3DnNimYRgjEAm"
     },
     {
       "added_at": "2023-02-09 20:06:26",
@@ -1231,6 +1215,22 @@
       "duration_ms": 186613,
       "name": "Cabin Fever",
       "url": "https://open.spotify.com/track/0AfsF9ulLhsYsPPXidzCU7"
+    },
+    {
+      "added_at": "2023-04-14 04:00:00",
+      "album": {
+        "name": "don't tell me",
+        "url": "https://open.spotify.com/album/1yHTOsFz7Lji0xZ06oN1oL"
+      },
+      "artists": [
+        {
+          "name": "Mind\u2019s Eye",
+          "url": "https://open.spotify.com/artist/4o6dCIkmONTJL0ByDDUNYd"
+        }
+      ],
+      "duration_ms": 279318,
+      "name": "don't tell me",
+      "url": "https://open.spotify.com/track/2WDPqvuis3DnNimYRgjEAm"
     },
     {
       "added_at": "2021-10-19 01:47:29",
@@ -1265,20 +1265,20 @@
       "url": "https://open.spotify.com/track/1Ob2kl4e6Yb5wd6wpxvtGa"
     },
     {
-      "added_at": "2023-02-27 23:19:06",
+      "added_at": "2021-10-19 01:47:29",
       "album": {
-        "name": "Bath County",
-        "url": "https://open.spotify.com/album/3fZD4inpEA8kSAxyPPZ9lC"
+        "name": "Life Is Not A Lesson",
+        "url": "https://open.spotify.com/album/0VmkbO4piecyKI4FO9xfut"
       },
       "artists": [
         {
-          "name": "Wednesday",
-          "url": "https://open.spotify.com/artist/4j7DrazfBZLLD0OrVoAtEe"
+          "name": "Glitterer",
+          "url": "https://open.spotify.com/artist/2bTjArGDYivNxnYFH5jUcj"
         }
       ],
-      "duration_ms": 190105,
-      "name": "Bath County",
-      "url": "https://open.spotify.com/track/5QLTkqU1vldRB8UmGE85Uq"
+      "duration_ms": 143882,
+      "name": "Try Harder Still",
+      "url": "https://open.spotify.com/track/4qrTk0Ap5AJ04Afy7w93Cm"
     },
     {
       "added_at": "2021-10-19 01:47:29",
@@ -1313,20 +1313,20 @@
       "url": "https://open.spotify.com/track/18p8XcEVzWmXRoW03Ln0rJ"
     },
     {
-      "added_at": "2021-10-19 01:47:29",
+      "added_at": "2023-02-27 23:19:06",
       "album": {
-        "name": "Life Is Not A Lesson",
-        "url": "https://open.spotify.com/album/0VmkbO4piecyKI4FO9xfut"
+        "name": "Bath County",
+        "url": "https://open.spotify.com/album/3fZD4inpEA8kSAxyPPZ9lC"
       },
       "artists": [
         {
-          "name": "Glitterer",
-          "url": "https://open.spotify.com/artist/2bTjArGDYivNxnYFH5jUcj"
+          "name": "Wednesday",
+          "url": "https://open.spotify.com/artist/4j7DrazfBZLLD0OrVoAtEe"
         }
       ],
-      "duration_ms": 143882,
-      "name": "Try Harder Still",
-      "url": "https://open.spotify.com/track/4qrTk0Ap5AJ04Afy7w93Cm"
+      "duration_ms": 190105,
+      "name": "Bath County",
+      "url": "https://open.spotify.com/track/5QLTkqU1vldRB8UmGE85Uq"
     },
     {
       "added_at": "2021-12-08 15:59:07",
@@ -1441,22 +1441,6 @@
       "url": "https://open.spotify.com/track/5m7HN7LZW6r2IzYYTKVyw9"
     },
     {
-      "added_at": "2023-03-10 05:00:00",
-      "album": {
-        "name": "Flood Into",
-        "url": "https://open.spotify.com/album/6LWjlR90SPGk9H3798q0qE"
-      },
-      "artists": [
-        {
-          "name": "Fazerdaze",
-          "url": "https://open.spotify.com/artist/2awB7Ol181cocZcLLNBBAh"
-        }
-      ],
-      "duration_ms": 181593,
-      "name": "Flood Into",
-      "url": "https://open.spotify.com/track/27UUdY6JdDKmPyaKSVNGQz"
-    },
-    {
       "added_at": "2021-10-19 01:47:29",
       "album": {
         "name": "The Great Dismal",
@@ -1471,6 +1455,22 @@
       "duration_ms": 230437,
       "name": "Catch a Fade",
       "url": "https://open.spotify.com/track/1JXi6OWDS68SIsTF6TJ3Ob"
+    },
+    {
+      "added_at": "2023-03-10 05:00:00",
+      "album": {
+        "name": "Flood Into",
+        "url": "https://open.spotify.com/album/6LWjlR90SPGk9H3798q0qE"
+      },
+      "artists": [
+        {
+          "name": "Fazerdaze",
+          "url": "https://open.spotify.com/artist/2awB7Ol181cocZcLLNBBAh"
+        }
+      ],
+      "duration_ms": 181593,
+      "name": "Flood Into",
+      "url": "https://open.spotify.com/track/27UUdY6JdDKmPyaKSVNGQz"
     },
     {
       "added_at": "2023-03-24 04:01:00",
@@ -1509,22 +1509,6 @@
       "url": "https://open.spotify.com/track/1e4nEB443PyOJEMacc1tvg"
     },
     {
-      "added_at": "2021-10-19 01:47:29",
-      "album": {
-        "name": "Find Yourself Along The Way",
-        "url": "https://open.spotify.com/album/4VHuHYgCnMW1lsLQQZd0Gl"
-      },
-      "artists": [
-        {
-          "name": "The Meeting Places",
-          "url": "https://open.spotify.com/artist/1hckZSGJsMebst22D7laUL"
-        }
-      ],
-      "duration_ms": 242066,
-      "name": "Now I Know You Could Never Be The One",
-      "url": "https://open.spotify.com/track/5ilQ6xjKxxGDTrQQNDp6Tw"
-    },
-    {
       "added_at": "2023-03-24 04:01:00",
       "album": {
         "name": "Cranekiss",
@@ -1539,6 +1523,22 @@
       "duration_ms": 230408,
       "name": "Cranekiss",
       "url": "https://open.spotify.com/track/2S9iC3ShDiSXObSRBUpXw2"
+    },
+    {
+      "added_at": "2021-10-19 01:47:29",
+      "album": {
+        "name": "Find Yourself Along The Way",
+        "url": "https://open.spotify.com/album/4VHuHYgCnMW1lsLQQZd0Gl"
+      },
+      "artists": [
+        {
+          "name": "The Meeting Places",
+          "url": "https://open.spotify.com/artist/1hckZSGJsMebst22D7laUL"
+        }
+      ],
+      "duration_ms": 242066,
+      "name": "Now I Know You Could Never Be The One",
+      "url": "https://open.spotify.com/track/5ilQ6xjKxxGDTrQQNDp6Tw"
     },
     {
       "added_at": "2023-02-09 20:06:26",
@@ -1621,20 +1621,20 @@
       "url": "https://open.spotify.com/track/5AqfZijqhbE04nZfyDjfZr"
     },
     {
-      "added_at": "2023-02-09 20:06:26",
+      "added_at": "2022-12-15 18:01:43",
       "album": {
-        "name": "alter",
-        "url": "https://open.spotify.com/album/0hDtH1xvaXKuXThFpPQLGC"
+        "name": "Mindfullness",
+        "url": "https://open.spotify.com/album/2ceiJap2OkHmYT4CNjHrJz"
       },
       "artists": [
         {
-          "name": "Indie Anthony",
-          "url": "https://open.spotify.com/artist/5cvfQMSHL457qGDf8hpSjM"
+          "name": "Flyying Colours",
+          "url": "https://open.spotify.com/artist/3gsBHfj2Ps8IiXEPSexY0Z"
         }
       ],
-      "duration_ms": 138049,
-      "name": "alter",
-      "url": "https://open.spotify.com/track/12QF3a3IQlA9aCDATSpNWT"
+      "duration_ms": 186253,
+      "name": "Long Holiday",
+      "url": "https://open.spotify.com/track/4mH5ajIJz9fc3D3SaIIAEc"
     }
   ],
   "unique_name": "Shoegaze Now",

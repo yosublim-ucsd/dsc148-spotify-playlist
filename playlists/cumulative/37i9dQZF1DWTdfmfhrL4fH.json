@@ -2589,6 +2589,24 @@
     },
     {
       "album": {
+        "name": "Villains",
+        "url": "https://open.spotify.com/album/7vuIN24G18PAUAvjnICyA6"
+      },
+      "artists": [
+        {
+          "name": "Queens of the Stone Age",
+          "url": "https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn"
+        }
+      ],
+      "date_added": "2023-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 341824,
+      "name": "Feet Don't Fail Me",
+      "url": "https://open.spotify.com/track/4NVKpvX9pcSeoKiNvjmb5X"
+    },
+    {
+      "album": {
         "name": "WALLS",
         "url": "https://open.spotify.com/album/08ibdX8K0GETv20UEku3sm"
       },
@@ -3848,7 +3866,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-21",
       "duration_ms": 197933,
       "name": "How Did We Get So Dark?",
       "url": "https://open.spotify.com/track/51txLjbvSBRvtxjCjAFLkM"

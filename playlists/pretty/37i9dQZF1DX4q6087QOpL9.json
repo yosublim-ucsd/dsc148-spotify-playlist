@@ -1,12 +1,12 @@
 {
   "description": "That real soulful house sound. Cover: Kerri Chandler",
-  "num_followers": 70783,
+  "num_followers": 70868,
   "original_name": "Soulful House Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlOGE1MjFkMjUxNmFhMjY4YTUwMDllYmQwNjQxYTM0NjQwZDAzZDY3",
+  "snapshot_id": "MCw3ZmFjNWU4NmUxMjViZDc2YjllNWZlNzNhZGMwNGY4OTdjNTc4NGMw",
   "tracks": [
     {
       "added_at": "2023-03-07 17:49:21",
@@ -467,22 +467,6 @@
     {
       "added_at": "2023-03-07 17:49:21",
       "album": {
-        "name": "Power Soul",
-        "url": "https://open.spotify.com/album/1uoraNGVpnn5od0VnziIiO"
-      },
-      "artists": [
-        {
-          "name": "Peven Everett",
-          "url": "https://open.spotify.com/artist/0v2oB2xMS64U3lcU5DFuCY"
-        }
-      ],
-      "duration_ms": 288453,
-      "name": "Stuck",
-      "url": "https://open.spotify.com/track/5fB8D4lc3UNL1xoFoxUOkH"
-    },
-    {
-      "added_at": "2023-03-07 17:49:21",
-      "album": {
         "name": "Transition",
         "url": "https://open.spotify.com/album/4TZOEyKYoNOU41wGX5WHMl"
       },
@@ -503,6 +487,22 @@
       "duration_ms": 373925,
       "name": "Don't Be Afraid",
       "url": "https://open.spotify.com/track/5WUFHsHalXJth7oBEZ3pPl"
+    },
+    {
+      "added_at": "2023-03-07 17:49:21",
+      "album": {
+        "name": "Power Soul",
+        "url": "https://open.spotify.com/album/1uoraNGVpnn5od0VnziIiO"
+      },
+      "artists": [
+        {
+          "name": "Peven Everett",
+          "url": "https://open.spotify.com/artist/0v2oB2xMS64U3lcU5DFuCY"
+        }
+      ],
+      "duration_ms": 288453,
+      "name": "Stuck",
+      "url": "https://open.spotify.com/track/5fB8D4lc3UNL1xoFoxUOkH"
     },
     {
       "added_at": "2023-03-07 17:49:21",
@@ -723,18 +723,26 @@
     {
       "added_at": "2023-03-07 17:49:21",
       "album": {
-        "name": "Michael",
-        "url": "https://open.spotify.com/album/6bKcuQcBLfUwfMycHOvWlF"
+        "name": "Complicated",
+        "url": "https://open.spotify.com/album/75yHjtmmdmIwY5lblJklzf"
       },
       "artists": [
         {
-          "name": "Roy Davis Jr.",
-          "url": "https://open.spotify.com/artist/3O81ptrvwO8etw6HwABJs8"
+          "name": "Ralf Gum",
+          "url": "https://open.spotify.com/artist/2XE7Kskh4TLEcxIyNSoCwN"
+        },
+        {
+          "name": "Kafele",
+          "url": "https://open.spotify.com/artist/7n8KEGYBg5EoZDcH3eZYqa"
+        },
+        {
+          "name": "Raw Artistic Soul",
+          "url": "https://open.spotify.com/artist/4sUnbVPsyKENYjsbusOj8a"
         }
       ],
-      "duration_ms": 342800,
-      "name": "Michael - Love From San Francisco Dub",
-      "url": "https://open.spotify.com/track/7pPhKV991VkEc2oGCV7eSD"
+      "duration_ms": 560292,
+      "name": "Complicated - Raw Artistic Soul Vocal Dub",
+      "url": "https://open.spotify.com/track/0nqzYokdUKH9CJxCPhvxfG"
     },
     {
       "added_at": "2023-03-07 17:49:21",
@@ -771,46 +779,6 @@
     {
       "added_at": "2023-03-07 17:49:21",
       "album": {
-        "name": "Complicated",
-        "url": "https://open.spotify.com/album/75yHjtmmdmIwY5lblJklzf"
-      },
-      "artists": [
-        {
-          "name": "Ralf Gum",
-          "url": "https://open.spotify.com/artist/2XE7Kskh4TLEcxIyNSoCwN"
-        },
-        {
-          "name": "Kafele",
-          "url": "https://open.spotify.com/artist/7n8KEGYBg5EoZDcH3eZYqa"
-        },
-        {
-          "name": "Raw Artistic Soul",
-          "url": "https://open.spotify.com/artist/4sUnbVPsyKENYjsbusOj8a"
-        }
-      ],
-      "duration_ms": 560292,
-      "name": "Complicated - Raw Artistic Soul Vocal Dub",
-      "url": "https://open.spotify.com/track/0nqzYokdUKH9CJxCPhvxfG"
-    },
-    {
-      "added_at": "2023-03-07 17:49:21",
-      "album": {
-        "name": "Heat Up",
-        "url": "https://open.spotify.com/album/47ZNHA2NLqAZTT7ZcWPVVS"
-      },
-      "artists": [
-        {
-          "name": "Peven Everett",
-          "url": "https://open.spotify.com/artist/0v2oB2xMS64U3lcU5DFuCY"
-        }
-      ],
-      "duration_ms": 235500,
-      "name": "Heat Up - Radio Edit",
-      "url": "https://open.spotify.com/track/1gJvChg4l4OfnOhN1K8DrX"
-    },
-    {
-      "added_at": "2023-03-07 17:49:21",
-      "album": {
         "name": "Trouble",
         "url": "https://open.spotify.com/album/3Vpue0nXkTfxIE1naSwcxs"
       },
@@ -827,6 +795,38 @@
       "duration_ms": 235066,
       "name": "Changes (feat. Haze)",
       "url": "https://open.spotify.com/track/4gdRQZGZ0mfxHzlQbF97rH"
+    },
+    {
+      "added_at": "2023-03-07 17:49:21",
+      "album": {
+        "name": "Michael",
+        "url": "https://open.spotify.com/album/6bKcuQcBLfUwfMycHOvWlF"
+      },
+      "artists": [
+        {
+          "name": "Roy Davis Jr.",
+          "url": "https://open.spotify.com/artist/3O81ptrvwO8etw6HwABJs8"
+        }
+      ],
+      "duration_ms": 342800,
+      "name": "Michael - Love From San Francisco Dub",
+      "url": "https://open.spotify.com/track/7pPhKV991VkEc2oGCV7eSD"
+    },
+    {
+      "added_at": "2023-03-07 17:49:21",
+      "album": {
+        "name": "Heat Up",
+        "url": "https://open.spotify.com/album/47ZNHA2NLqAZTT7ZcWPVVS"
+      },
+      "artists": [
+        {
+          "name": "Peven Everett",
+          "url": "https://open.spotify.com/artist/0v2oB2xMS64U3lcU5DFuCY"
+        }
+      ],
+      "duration_ms": 235500,
+      "name": "Heat Up - Radio Edit",
+      "url": "https://open.spotify.com/track/1gJvChg4l4OfnOhN1K8DrX"
     },
     {
       "added_at": "2023-03-07 17:49:21",
@@ -891,6 +891,22 @@
     {
       "added_at": "2023-03-07 17:49:21",
       "album": {
+        "name": "Welcome Aboard",
+        "url": "https://open.spotify.com/album/47CFXxwAVI0tk9Y6uVNjcU"
+      },
+      "artists": [
+        {
+          "name": "Liquideep",
+          "url": "https://open.spotify.com/artist/31sepCsNPc5s1b0WpcVenP"
+        }
+      ],
+      "duration_ms": 455800,
+      "name": "Welcome Aboard",
+      "url": "https://open.spotify.com/track/4U2yUqDM2ibL4nc8ZMyONC"
+    },
+    {
+      "added_at": "2023-03-07 17:49:21",
+      "album": {
         "name": "Dance",
         "url": "https://open.spotify.com/album/6ojblANvXgceb7VeUn2QSS"
       },
@@ -907,22 +923,6 @@
       "duration_ms": 569724,
       "name": "Dance - Louie Vega Dance Ritual Mix",
       "url": "https://open.spotify.com/track/5MPpG8Z31ys5BanX8ug7El"
-    },
-    {
-      "added_at": "2023-03-07 17:49:21",
-      "album": {
-        "name": "Welcome Aboard",
-        "url": "https://open.spotify.com/album/47CFXxwAVI0tk9Y6uVNjcU"
-      },
-      "artists": [
-        {
-          "name": "Liquideep",
-          "url": "https://open.spotify.com/artist/31sepCsNPc5s1b0WpcVenP"
-        }
-      ],
-      "duration_ms": 455800,
-      "name": "Welcome Aboard",
-      "url": "https://open.spotify.com/track/4U2yUqDM2ibL4nc8ZMyONC"
     },
     {
       "added_at": "2023-03-07 17:49:21",
@@ -1639,26 +1639,6 @@
     {
       "added_at": "2023-03-07 17:49:21",
       "album": {
-        "name": "Think Twice (Remixes)",
-        "url": "https://open.spotify.com/album/61K70Q4gJ3wUzEMQDYV2aN"
-      },
-      "artists": [
-        {
-          "name": "The Detroit Experiment",
-          "url": "https://open.spotify.com/artist/54g168aY2BbLhQ0g6SpoTa"
-        },
-        {
-          "name": "Mark E",
-          "url": "https://open.spotify.com/artist/4fCHedqRf3deyVeK2beyBo"
-        }
-      ],
-      "duration_ms": 578013,
-      "name": "Think Twice - Mark E Remix",
-      "url": "https://open.spotify.com/track/5FqKVL72KUO2vKM6nxcQYd"
-    },
-    {
-      "added_at": "2023-03-07 17:49:21",
-      "album": {
         "name": "Timeless Vol. 4",
         "url": "https://open.spotify.com/album/4fl5mvQpEBICZVHFCE01OU"
       },
@@ -1675,6 +1655,26 @@
       "duration_ms": 577426,
       "name": "Into My Life - Roots Mix",
       "url": "https://open.spotify.com/track/3lVQjR2V8Zjz1thimpgor8"
+    },
+    {
+      "added_at": "2023-03-07 17:49:21",
+      "album": {
+        "name": "Think Twice (Remixes)",
+        "url": "https://open.spotify.com/album/61K70Q4gJ3wUzEMQDYV2aN"
+      },
+      "artists": [
+        {
+          "name": "The Detroit Experiment",
+          "url": "https://open.spotify.com/artist/54g168aY2BbLhQ0g6SpoTa"
+        },
+        {
+          "name": "Mark E",
+          "url": "https://open.spotify.com/artist/4fCHedqRf3deyVeK2beyBo"
+        }
+      ],
+      "duration_ms": 578013,
+      "name": "Think Twice - Mark E Remix",
+      "url": "https://open.spotify.com/track/5FqKVL72KUO2vKM6nxcQYd"
     },
     {
       "added_at": "2023-03-07 17:49:21",
@@ -1751,6 +1751,22 @@
     {
       "added_at": "2023-03-07 17:49:21",
       "album": {
+        "name": "The Best of Blaze, Vol. 3 - Natural Blaze",
+        "url": "https://open.spotify.com/album/5kPN9cXKLxoTvJYlx9Akg0"
+      },
+      "artists": [
+        {
+          "name": "Blaze",
+          "url": "https://open.spotify.com/artist/5yK5YSsWKH35QRTsHQHxEN"
+        }
+      ],
+      "duration_ms": 383160,
+      "name": "How Deep Is Your Love",
+      "url": "https://open.spotify.com/track/2AOZ9fi8iUZdvoPpjODjIX"
+    },
+    {
+      "added_at": "2023-03-07 17:49:21",
+      "album": {
         "name": "Nuyorican Soul",
         "url": "https://open.spotify.com/album/0UZzbwCAVQhENWItyCZm5L"
       },
@@ -1767,22 +1783,6 @@
       "duration_ms": 198666,
       "name": "It's Alright, I Feel It",
       "url": "https://open.spotify.com/track/15coSKNGG21bUKZpJ2Lv6N"
-    },
-    {
-      "added_at": "2023-03-07 17:49:21",
-      "album": {
-        "name": "The Best of Blaze, Vol. 3 - Natural Blaze",
-        "url": "https://open.spotify.com/album/5kPN9cXKLxoTvJYlx9Akg0"
-      },
-      "artists": [
-        {
-          "name": "Blaze",
-          "url": "https://open.spotify.com/artist/5yK5YSsWKH35QRTsHQHxEN"
-        }
-      ],
-      "duration_ms": 383160,
-      "name": "How Deep Is Your Love",
-      "url": "https://open.spotify.com/track/2AOZ9fi8iUZdvoPpjODjIX"
     },
     {
       "added_at": "2023-03-07 17:49:21",
@@ -2147,6 +2147,26 @@
     {
       "added_at": "2023-03-07 17:49:21",
       "album": {
+        "name": "Pure Salinas, Vol. 2 (Compiled By Bruno from Ibiza)",
+        "url": "https://open.spotify.com/album/54lLDilAyWA0Nn59tl3qhx"
+      },
+      "artists": [
+        {
+          "name": "DJ Le Roi",
+          "url": "https://open.spotify.com/artist/5OXUEzrde6XK7zpfcxmybW"
+        },
+        {
+          "name": "Chappell",
+          "url": "https://open.spotify.com/artist/03c6rlE26TKE52RVHBroj5"
+        }
+      ],
+      "duration_ms": 446026,
+      "name": "Get Ready - Halo City Deep Vocal Dub Mix",
+      "url": "https://open.spotify.com/track/1UIwHajesmlhXR0kBnGG3Y"
+    },
+    {
+      "added_at": "2023-03-07 17:49:21",
+      "album": {
         "name": "Dangerous Vibes",
         "url": "https://open.spotify.com/album/66FlxzmcI8adLafeoppLCp"
       },
@@ -2167,26 +2187,6 @@
       "duration_ms": 494748,
       "name": "Dangerous Vibes - Grant's Main Mix",
       "url": "https://open.spotify.com/track/4CbYN8h96zoJqoB7OWajn1"
-    },
-    {
-      "added_at": "2023-03-07 17:49:21",
-      "album": {
-        "name": "Pure Salinas, Vol. 2 (Compiled By Bruno from Ibiza)",
-        "url": "https://open.spotify.com/album/54lLDilAyWA0Nn59tl3qhx"
-      },
-      "artists": [
-        {
-          "name": "DJ Le Roi",
-          "url": "https://open.spotify.com/artist/5OXUEzrde6XK7zpfcxmybW"
-        },
-        {
-          "name": "Chappell",
-          "url": "https://open.spotify.com/artist/03c6rlE26TKE52RVHBroj5"
-        }
-      ],
-      "duration_ms": 446026,
-      "name": "Get Ready - Halo City Deep Vocal Dub Mix",
-      "url": "https://open.spotify.com/track/1UIwHajesmlhXR0kBnGG3Y"
     },
     {
       "added_at": "2023-03-07 17:49:21",
@@ -2427,6 +2427,22 @@
     {
       "added_at": "2023-03-07 17:49:21",
       "album": {
+        "name": "You Give Good Love",
+        "url": "https://open.spotify.com/album/0iaa34P40gFme6zgMmxqQe"
+      },
+      "artists": [
+        {
+          "name": "Kathy Brown",
+          "url": "https://open.spotify.com/artist/1dYwUvGX41uwyOuabIEJUq"
+        }
+      ],
+      "duration_ms": 397240,
+      "name": "You Give Good Love (Jay-J's Mouton Studios Dub)",
+      "url": "https://open.spotify.com/track/6SarIzRckv0TnNqoJbew5a"
+    },
+    {
+      "added_at": "2023-03-07 17:49:21",
+      "album": {
         "name": "To The Sky",
         "url": "https://open.spotify.com/album/5kCKjJkkDvxDPOr3JCxvaO"
       },
@@ -2443,22 +2459,6 @@
       "duration_ms": 302950,
       "name": "To The Sky",
       "url": "https://open.spotify.com/track/3Bf0qsaR6nrQNi0LnbQtEV"
-    },
-    {
-      "added_at": "2023-03-07 17:49:21",
-      "album": {
-        "name": "You Give Good Love",
-        "url": "https://open.spotify.com/album/0iaa34P40gFme6zgMmxqQe"
-      },
-      "artists": [
-        {
-          "name": "Kathy Brown",
-          "url": "https://open.spotify.com/artist/1dYwUvGX41uwyOuabIEJUq"
-        }
-      ],
-      "duration_ms": 397240,
-      "name": "You Give Good Love (Jay-J's Mouton Studios Dub)",
-      "url": "https://open.spotify.com/track/6SarIzRckv0TnNqoJbew5a"
     },
     {
       "added_at": "2023-03-07 17:49:21",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2E5psOxzjXz.md) - [plain]
 
 > Explore Pakistan's thriving independent scene\. Discover more on <a href="https://open.spotify.com/playlist/37i9dQZF1DX30DGof92rQX?si=b3603f2de11c43a7">Pakistani Indie Rising</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,212 likes - 52 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,234 likes - 52 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,7 +58,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2E5psOxzjXz.md) - [plain]
 | 48 | [Mera Naam](https://open.spotify.com/track/7wcf94GFZJH4xrG9vs4CLC) | [Soch the Band](https://open.spotify.com/artist/1Z6C3R1dyF4aTvBofGXGfp), [Rabi Ahmed](https://open.spotify.com/artist/7o7GKafH7LeVDLVzl2kTsn), [Adnan Dhool](https://open.spotify.com/artist/4XTiRlcZr4ACFHAXgV34Sc) | [Mera Naam](https://open.spotify.com/album/1ZTq2Q3jHwjch9fWIN3LcB) | 4:01 |
 | 49 | [Cheese](https://open.spotify.com/track/2BvnZRo7CyFo0JcMhmnBUA) | [ChillBazaar](https://open.spotify.com/artist/2NAjKl5QHznzsMfHy6cGOJ), [Marshall Ahmad](https://open.spotify.com/artist/3c7YStlXDTZyJjiIcsJDJP), [Izzchughtai](https://open.spotify.com/artist/211ei6ZiUeBMIXUZGBaJ4S) | [Cheese](https://open.spotify.com/album/7mCUKPoOkeiT2F1REIVjYG) | 3:15 |
 | 50 | [Trust Issues](https://open.spotify.com/track/1m5KaAuRcBwvlSgHo8vJap) | [Annural Khalid](https://open.spotify.com/artist/1nCZUpBIcyOxufOx0lPeIW), [Farasat Anees](https://open.spotify.com/artist/05miC2ndfE3ZyZ7xCMnZzm) | [Trust Issues](https://open.spotify.com/album/75I74MMyl3fdzJL3ENkj7T) | 2:27 |
-| 51 | [Ijazat](https://open.spotify.com/track/1XMXEyJbj8qvHtuqLbOIq6) | [Nehaal Naseem](https://open.spotify.com/artist/6YSVUxXGsQQD2cWSJhN8re) | [Ijazat](https://open.spotify.com/album/1VLL0I0Y1hG0nQThZ0seJy) | 1:30 |
+| 51 | [Ijazat](https://open.spotify.com/track/0wNyBPr6W8JSC9f39FCYbT) | [Nehaal Naseem](https://open.spotify.com/artist/6YSVUxXGsQQD2cWSJhN8re) | [Ijazat](https://open.spotify.com/album/4EwUuN903KFiw9IZmWlos6) | 1:30 |
 | 52 | [Raaz\-e\-Fitna](https://open.spotify.com/track/5XuB6NxRdUqlHl3MjP5TTu) | [Asfar Hussain](https://open.spotify.com/artist/7lDDbppbcK5F2ZJXG12pru) | [Raaz\-e\-Fitna](https://open.spotify.com/album/0QvkhdtDA25dZ6ULww4fZY) | 2:40 |
 
-Snapshot ID: `MCwyMTNmZTBhN2FkOWY1MmZiYzdhNDY0M2JmYmJjZTFiZjYxMTY1OTUx`
+Snapshot ID: `MCw5NDE1OWMwYzNiMGUxYjQyOWI2NGY0NTNhMWY5OTUxOTgwM2UyMjY2`

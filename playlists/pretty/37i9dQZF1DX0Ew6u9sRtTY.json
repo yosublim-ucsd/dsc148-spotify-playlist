@@ -1,12 +1,12 @@
 {
   "description": "Remember these?",
-  "num_followers": 1209919,
+  "num_followers": 1210186,
   "original_name": "One-Hit Wonders",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwNjg1NzE4MGFkNmQ3MWY3YjY2NTJlYWQzMzg0NGU3ZGEwZjZjYWY0",
+  "snapshot_id": "MCw5ZDM4MjM5YjE0YjA5MTZmNDNkYjExOTI1MzExMGQxNTk3N2RlYzEy",
   "tracks": [
     {
       "added_at": "2018-12-12 11:34:22",
@@ -419,22 +419,6 @@
     {
       "added_at": "2018-12-12 11:34:22",
       "album": {
-        "name": "Vanilla Ice Is Back! - Hip Hop Classics",
-        "url": "https://open.spotify.com/album/20O6lfaDAoMhUj5TAvVbb6"
-      },
-      "artists": [
-        {
-          "name": "Vanilla Ice",
-          "url": "https://open.spotify.com/artist/7GXXMm3DB1VswVcuGyInUd"
-        }
-      ],
-      "duration_ms": 254466,
-      "name": "Ice Ice Baby",
-      "url": "https://open.spotify.com/track/3XVozq1aeqsJwpXrEZrDJ9"
-    },
-    {
-      "added_at": "2018-12-12 11:34:22",
-      "album": {
         "name": "Sex & Violins",
         "url": "https://open.spotify.com/album/5DA2dJgKERij9OVWbJDZDj"
       },
@@ -447,6 +431,22 @@
       "duration_ms": 194000,
       "name": "Cotton Eye Joe",
       "url": "https://open.spotify.com/track/06hsdMbBxWGqBO0TV0Zrkf"
+    },
+    {
+      "added_at": "2018-12-12 11:34:22",
+      "album": {
+        "name": "Vanilla Ice Is Back! - Hip Hop Classics",
+        "url": "https://open.spotify.com/album/20O6lfaDAoMhUj5TAvVbb6"
+      },
+      "artists": [
+        {
+          "name": "Vanilla Ice",
+          "url": "https://open.spotify.com/artist/7GXXMm3DB1VswVcuGyInUd"
+        }
+      ],
+      "duration_ms": 254466,
+      "name": "Ice Ice Baby",
+      "url": "https://open.spotify.com/track/3XVozq1aeqsJwpXrEZrDJ9"
     },
     {
       "added_at": "2018-12-12 11:34:22",

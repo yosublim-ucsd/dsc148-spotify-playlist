@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVhn3qoy98w6.md) - [plain]
 
 > Artistas independientes emergentes, cada miércoles\. Foto: REWAY.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,514 likes - 74 songs - 3 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,531 likes - 74 songs - 3 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,4 +83,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVhn3qoy98w6.md) - [plain]
 | 73 | [Un golpe en el costado](https://open.spotify.com/track/3i83nEKMYNFM5S2wO8CxOE) | [montefuji](https://open.spotify.com/artist/4wHs8HiIEJ1jlhxZulc6YH) | [Un golpe en el costado](https://open.spotify.com/album/4X3jLLHZQZLXQgj99rOOaX) | 5:24 |
 | 74 | [De flor en flor](https://open.spotify.com/track/6usnDxlMQsUvc2NM9LVELG) | [Yung Rajola](https://open.spotify.com/artist/5ZY6lI5dEppItx901v0wYa) | [De flor en flor](https://open.spotify.com/album/0iUBl1P79qMCOrBmbhpG7B) | 2:35 |
 
-Snapshot ID: `MTY4NDI3NDQwMCwwMDAwMDAwMGJjNjc3NmY3ODk0Zjk3MWFmZjlkNDU2MDBkZjYwNDgx`
+Snapshot ID: `MCwwYzI2MjU4ZTYwZTY2OWFjOTAxNDZiOWMzYTEzYmYwYTFmOGE0ZWY4`

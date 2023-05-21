@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXfgo3OOonqa.md) - [plain]
 
 > håll det 100.
 
-[Spotify](https://open.spotify.com/user/spotify) - 312,649 likes - 80 songs - 3 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 312,695 likes - 80 songs - 3 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXfgo3OOonqa.md) - [plain]
 | 79 | [SVÅRT FÖR DIG](https://open.spotify.com/track/3uMnb1fqxZBX6OsgqAaYdZ) | [ILIACO](https://open.spotify.com/artist/1WzH7gkbxTeqS5cgNvB7o8), [MM](https://open.spotify.com/artist/5eFqWWb4qNXmyd48FPVEff) | [SVÅRT FÖR DIG](https://open.spotify.com/album/6FIDJNuBlWcdLBjagI73qb) | 2:34 |
 | 80 | [Hur många gånger?](https://open.spotify.com/track/3qJINVmpX4se9wN8bmgKiz) | [Blen](https://open.spotify.com/artist/6xRxLNPuTgJ56RyCRk1dB7) | [Hur många gånger?](https://open.spotify.com/album/098qyzOjXRvIQAY3sz3a4g) | 2:37 |
 
-Snapshot ID: `MCwwYjA3Yjg1MThiZTgxOTYyMTY0Y2M3NDQ2ODdmY2JmMmE0NzZlOWE0`
+Snapshot ID: `MCw0MTU0ZGUxOTI1OTcyODg2OWM1ZjJmZjA3OWY1OWM1YTE5YzhhYTVi`

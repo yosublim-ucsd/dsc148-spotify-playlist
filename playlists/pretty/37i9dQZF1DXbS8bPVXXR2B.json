@@ -1,12 +1,12 @@
 {
   "description": "We just wanna rock you all night long.",
-  "num_followers": 204388,
+  "num_followers": 204565,
   "original_name": "Disco Hi-Life",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3YzU0ZDM0MDgwZmZhMzY0NjQ1YjE5ODYwNDY3YzdjZGVmNGY4MTdm",
+  "snapshot_id": "MCw4ZGExODEwZTg3ODJmZmQ5NzNlODljNWRlMmIyM2NjMjBjYzY4YzRh",
   "tracks": [
     {
       "added_at": "2022-09-05 16:54:43",
@@ -251,22 +251,6 @@
     {
       "added_at": "2022-09-05 16:54:43",
       "album": {
-        "name": "The Nightfly",
-        "url": "https://open.spotify.com/album/5cOS6szqlcoqmiSoVTqqe8"
-      },
-      "artists": [
-        {
-          "name": "Donald Fagen",
-          "url": "https://open.spotify.com/artist/0S1SjYebdSaiMpI8xSW2Wb"
-        }
-      ],
-      "duration_ms": 363413,
-      "name": "I.G.Y.",
-      "url": "https://open.spotify.com/track/6bzwsAtj4TqaBysLDrGiO3"
-    },
-    {
-      "added_at": "2022-09-05 16:54:43",
-      "album": {
         "name": "The Best Of",
         "url": "https://open.spotify.com/album/3npGGvmS0VJrBukG2PcgP4"
       },
@@ -279,6 +263,22 @@
       "duration_ms": 217733,
       "name": "Don't Leave Me This Way",
       "url": "https://open.spotify.com/track/2rBBhFXtuMoGuwYTSDpAdF"
+    },
+    {
+      "added_at": "2022-09-05 16:54:43",
+      "album": {
+        "name": "The Nightfly",
+        "url": "https://open.spotify.com/album/5cOS6szqlcoqmiSoVTqqe8"
+      },
+      "artists": [
+        {
+          "name": "Donald Fagen",
+          "url": "https://open.spotify.com/artist/0S1SjYebdSaiMpI8xSW2Wb"
+        }
+      ],
+      "duration_ms": 363413,
+      "name": "I.G.Y.",
+      "url": "https://open.spotify.com/track/6bzwsAtj4TqaBysLDrGiO3"
     },
     {
       "added_at": "2022-09-05 16:54:43",
@@ -787,22 +787,6 @@
     {
       "added_at": "2022-09-05 16:54:43",
       "album": {
-        "name": "I Want to Feel Your Love",
-        "url": "https://open.spotify.com/album/7snUwkG3Ke47yLJBbwbcfk"
-      },
-      "artists": [
-        {
-          "name": "Oby Onyioha",
-          "url": "https://open.spotify.com/artist/7g3r4Cm5hY4fWM5AOVWtDY"
-        }
-      ],
-      "duration_ms": 378485,
-      "name": "Enjoy Your Life",
-      "url": "https://open.spotify.com/track/1UKk8v7T2IrpcLEP1KKqZb"
-    },
-    {
-      "added_at": "2022-09-05 16:54:43",
-      "album": {
         "name": "Modern Heat EP",
         "url": "https://open.spotify.com/album/6VScSyrcTNlmzshPBFBwV0"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 280417,
       "name": "Crushed Ice",
       "url": "https://open.spotify.com/track/1ozRjt9gyqdzD8XllWUAZA"
+    },
+    {
+      "added_at": "2022-09-05 16:54:43",
+      "album": {
+        "name": "I Want to Feel Your Love",
+        "url": "https://open.spotify.com/album/7snUwkG3Ke47yLJBbwbcfk"
+      },
+      "artists": [
+        {
+          "name": "Oby Onyioha",
+          "url": "https://open.spotify.com/artist/7g3r4Cm5hY4fWM5AOVWtDY"
+        }
+      ],
+      "duration_ms": 378485,
+      "name": "Enjoy Your Life",
+      "url": "https://open.spotify.com/track/1UKk8v7T2IrpcLEP1KKqZb"
     },
     {
       "added_at": "2022-09-05 16:54:43",
@@ -979,22 +979,6 @@
     {
       "added_at": "2022-09-05 16:54:43",
       "album": {
-        "name": "Disco Hi-Life",
-        "url": "https://open.spotify.com/album/7IK0j2EYruB6NZaI9EniYx"
-      },
-      "artists": [
-        {
-          "name": "Orlando Julius",
-          "url": "https://open.spotify.com/artist/5nmP3vKUqynlECpm2ura7L"
-        }
-      ],
-      "duration_ms": 540986,
-      "name": "Disco Hi - Life",
-      "url": "https://open.spotify.com/track/0kzZmpztpqxb4AA0M4ddyA"
-    },
-    {
-      "added_at": "2022-09-05 16:54:43",
-      "album": {
         "name": "Mysteries of the World",
         "url": "https://open.spotify.com/album/3HFASQCSrKTM9DSu3FevyN"
       },
@@ -1007,6 +991,22 @@
       "duration_ms": 330080,
       "name": "Mysteries of the World",
       "url": "https://open.spotify.com/track/5WYzouzEJIKk0QJjNsiVue"
+    },
+    {
+      "added_at": "2022-09-05 16:54:43",
+      "album": {
+        "name": "Disco Hi-Life",
+        "url": "https://open.spotify.com/album/7IK0j2EYruB6NZaI9EniYx"
+      },
+      "artists": [
+        {
+          "name": "Orlando Julius",
+          "url": "https://open.spotify.com/artist/5nmP3vKUqynlECpm2ura7L"
+        }
+      ],
+      "duration_ms": 540986,
+      "name": "Disco Hi - Life",
+      "url": "https://open.spotify.com/track/0kzZmpztpqxb4AA0M4ddyA"
     },
     {
       "added_at": "2022-09-05 16:54:43",
@@ -1095,22 +1095,6 @@
     {
       "added_at": "2022-09-05 16:54:43",
       "album": {
-        "name": "Silk Rhodes",
-        "url": "https://open.spotify.com/album/3i1kIb5NncLgLIU86ju8jr"
-      },
-      "artists": [
-        {
-          "name": "Silk Rhodes",
-          "url": "https://open.spotify.com/artist/6uZHP2IZqZWsBPnt2aGisY"
-        }
-      ],
-      "duration_ms": 145646,
-      "name": "Face 2 Face",
-      "url": "https://open.spotify.com/track/16vd3YjKTmORE88HUl2gUR"
-    },
-    {
-      "added_at": "2022-09-05 16:54:43",
-      "album": {
         "name": "Watchin' Out",
         "url": "https://open.spotify.com/album/51UXHJ2YydaTSxJXoczKVz"
       },
@@ -1123,6 +1107,22 @@
       "duration_ms": 195114,
       "name": "Watchin' Out",
       "url": "https://open.spotify.com/track/7AaIWnkDOZFDpZBcW0r6ZQ"
+    },
+    {
+      "added_at": "2022-09-05 16:54:43",
+      "album": {
+        "name": "Silk Rhodes",
+        "url": "https://open.spotify.com/album/3i1kIb5NncLgLIU86ju8jr"
+      },
+      "artists": [
+        {
+          "name": "Silk Rhodes",
+          "url": "https://open.spotify.com/artist/6uZHP2IZqZWsBPnt2aGisY"
+        }
+      ],
+      "duration_ms": 145646,
+      "name": "Face 2 Face",
+      "url": "https://open.spotify.com/track/16vd3YjKTmORE88HUl2gUR"
     },
     {
       "added_at": "2022-09-05 16:54:43",
@@ -1255,18 +1255,18 @@
     {
       "added_at": "2022-09-05 16:54:43",
       "album": {
-        "name": "Heartbeat",
-        "url": "https://open.spotify.com/album/4WpwTX4tsPEAw2ThOkYdT6"
+        "name": "Remind Me (The Classic Elektra Recordings 1978-1984)",
+        "url": "https://open.spotify.com/album/2zhXygXV9sHY6I2AMR456t"
       },
       "artists": [
         {
-          "name": "Taana Gardner",
-          "url": "https://open.spotify.com/artist/4kkfqDFX2t4QBOwuHqAROF"
+          "name": "Patrice Rushen",
+          "url": "https://open.spotify.com/artist/1mNnxxnPfHQDOkFjnZmdkc"
         }
       ],
-      "duration_ms": 587050,
-      "name": "Heartbeat - Club Mix",
-      "url": "https://open.spotify.com/track/7D0tsyPtjyygQEH8p7Qbic"
+      "duration_ms": 438199,
+      "name": "Haven't You Heard - 12\" Version",
+      "url": "https://open.spotify.com/track/6WcJbVV5gu5srjBMsE332X"
     },
     {
       "added_at": "2022-09-05 16:54:43",
@@ -1287,18 +1287,18 @@
     {
       "added_at": "2022-09-05 16:54:43",
       "album": {
-        "name": "Remind Me (The Classic Elektra Recordings 1978-1984)",
-        "url": "https://open.spotify.com/album/2zhXygXV9sHY6I2AMR456t"
+        "name": "Heartbeat",
+        "url": "https://open.spotify.com/album/4WpwTX4tsPEAw2ThOkYdT6"
       },
       "artists": [
         {
-          "name": "Patrice Rushen",
-          "url": "https://open.spotify.com/artist/1mNnxxnPfHQDOkFjnZmdkc"
+          "name": "Taana Gardner",
+          "url": "https://open.spotify.com/artist/4kkfqDFX2t4QBOwuHqAROF"
         }
       ],
-      "duration_ms": 438199,
-      "name": "Haven't You Heard - 12\" Version",
-      "url": "https://open.spotify.com/track/6WcJbVV5gu5srjBMsE332X"
+      "duration_ms": 587050,
+      "name": "Heartbeat - Club Mix",
+      "url": "https://open.spotify.com/track/7D0tsyPtjyygQEH8p7Qbic"
     },
     {
       "added_at": "2022-09-05 16:54:43",
@@ -1579,22 +1579,6 @@
     {
       "added_at": "2022-09-05 16:54:43",
       "album": {
-        "name": "Miracles (Original Album and Rare Tracks)",
-        "url": "https://open.spotify.com/album/1DvtnAjG7Nolt61eSaJV1r"
-      },
-      "artists": [
-        {
-          "name": "Change",
-          "url": "https://open.spotify.com/artist/2fJ2vi4PUSxyvYaeq0FTbE"
-        }
-      ],
-      "duration_ms": 338453,
-      "name": "Heaven of My Life - Full Length Album Mix",
-      "url": "https://open.spotify.com/track/52f8B5MNlTVQgxNsiGfBOl"
-    },
-    {
-      "added_at": "2022-09-05 16:54:43",
-      "album": {
         "name": "Disco Baby",
         "url": "https://open.spotify.com/album/6L69V18qBxDhxTlx4ZqgF2"
       },
@@ -1607,6 +1591,22 @@
       "duration_ms": 229734,
       "name": "Disco Baby - Floating Points & Red Greg Edit",
       "url": "https://open.spotify.com/track/1ILmOHn4tzjj7XaGBYx5Xu"
+    },
+    {
+      "added_at": "2022-09-05 16:54:43",
+      "album": {
+        "name": "Miracles (Original Album and Rare Tracks)",
+        "url": "https://open.spotify.com/album/1DvtnAjG7Nolt61eSaJV1r"
+      },
+      "artists": [
+        {
+          "name": "Change",
+          "url": "https://open.spotify.com/artist/2fJ2vi4PUSxyvYaeq0FTbE"
+        }
+      ],
+      "duration_ms": 338453,
+      "name": "Heaven of My Life - Full Length Album Mix",
+      "url": "https://open.spotify.com/track/52f8B5MNlTVQgxNsiGfBOl"
     },
     {
       "added_at": "2022-09-05 16:54:43",

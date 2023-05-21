@@ -1,12 +1,12 @@
 {
   "description": "Descubre hoy a los artistas de ma\u00f1ana. Foto: Marta Santos",
-  "num_followers": 21825,
+  "num_followers": 21839,
   "original_name": "Radar Espa\u00f1a",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1NWQ4Zjg0NzA0YzA3YjM4YjkwZTE0MTliYjhhMmQ1ODFiNDliMDdh",
+  "snapshot_id": "MCw1YWQ5NzJjNjE1M2VkODUxMDE2ODUyZTJlYjBkODExMzQyNDU2ZWZk",
   "tracks": [
     {
       "added_at": "2023-05-19 09:08:21",
@@ -227,26 +227,18 @@
     {
       "added_at": "2023-05-19 09:08:21",
       "album": {
-        "name": "La Culpa",
-        "url": "https://open.spotify.com/album/4jiTKinVhkjwj7cCFm7ncQ"
+        "name": "si tiene que ser ser\u00e1.",
+        "url": "https://open.spotify.com/album/7mUcTOv2KgYCkrbDmxO7H3"
       },
       "artists": [
         {
-          "name": "Yarea",
-          "url": "https://open.spotify.com/artist/2O4wnhTr4SO5ezY6WXI2Kl"
-        },
-        {
-          "name": "KICKBOMBO",
-          "url": "https://open.spotify.com/artist/7A2htSu45kogVfNBMD4Xgh"
-        },
-        {
-          "name": "Pole.",
-          "url": "https://open.spotify.com/artist/7D62OQfwvslnxJn9DkZm2F"
+          "name": "mafalda cardenal",
+          "url": "https://open.spotify.com/artist/1AsstJ8Cf7uQX92weRmZRz"
         }
       ],
-      "duration_ms": 174222,
-      "name": "La Culpa",
-      "url": "https://open.spotify.com/track/4lhzVEFzlYQiCbHhW4Shcv"
+      "duration_ms": 201998,
+      "name": "si tiene que ser ser\u00e1.",
+      "url": "https://open.spotify.com/track/0wtD6yzuqTv3EkRcJ6SHQZ"
     },
     {
       "added_at": "2023-05-19 09:08:21",
@@ -271,18 +263,26 @@
     {
       "added_at": "2023-05-19 09:08:21",
       "album": {
-        "name": "si tiene que ser ser\u00e1.",
-        "url": "https://open.spotify.com/album/7mUcTOv2KgYCkrbDmxO7H3"
+        "name": "La Culpa",
+        "url": "https://open.spotify.com/album/4jiTKinVhkjwj7cCFm7ncQ"
       },
       "artists": [
         {
-          "name": "mafalda cardenal",
-          "url": "https://open.spotify.com/artist/1AsstJ8Cf7uQX92weRmZRz"
+          "name": "Yarea",
+          "url": "https://open.spotify.com/artist/2O4wnhTr4SO5ezY6WXI2Kl"
+        },
+        {
+          "name": "KICKBOMBO",
+          "url": "https://open.spotify.com/artist/7A2htSu45kogVfNBMD4Xgh"
+        },
+        {
+          "name": "Pole.",
+          "url": "https://open.spotify.com/artist/7D62OQfwvslnxJn9DkZm2F"
         }
       ],
-      "duration_ms": 201998,
-      "name": "si tiene que ser ser\u00e1.",
-      "url": "https://open.spotify.com/track/0wtD6yzuqTv3EkRcJ6SHQZ"
+      "duration_ms": 174222,
+      "name": "La Culpa",
+      "url": "https://open.spotify.com/track/4lhzVEFzlYQiCbHhW4Shcv"
     },
     {
       "added_at": "2023-05-19 09:08:21",
@@ -391,26 +391,6 @@
     {
       "added_at": "2023-05-19 09:08:21",
       "album": {
-        "name": "NO ME PASA NADA",
-        "url": "https://open.spotify.com/album/0KJSpW77D1DmoN5tBJKeyI"
-      },
-      "artists": [
-        {
-          "name": "Yarea",
-          "url": "https://open.spotify.com/artist/2O4wnhTr4SO5ezY6WXI2Kl"
-        },
-        {
-          "name": "KICKBOMBO",
-          "url": "https://open.spotify.com/artist/7A2htSu45kogVfNBMD4Xgh"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "Nada ha cambiado",
-      "url": "https://open.spotify.com/track/1DSifk5tKB93s9rAUJi4kn"
-    },
-    {
-      "added_at": "2023-05-19 09:08:21",
-      "album": {
         "name": "favorita",
         "url": "https://open.spotify.com/album/1S7trDsVlwschptph947TY"
       },
@@ -427,6 +407,26 @@
       "duration_ms": 127634,
       "name": "favorita",
       "url": "https://open.spotify.com/track/1GD7Rao8kRvGAoXBI8Aott"
+    },
+    {
+      "added_at": "2023-05-19 09:08:21",
+      "album": {
+        "name": "NO ME PASA NADA",
+        "url": "https://open.spotify.com/album/0KJSpW77D1DmoN5tBJKeyI"
+      },
+      "artists": [
+        {
+          "name": "Yarea",
+          "url": "https://open.spotify.com/artist/2O4wnhTr4SO5ezY6WXI2Kl"
+        },
+        {
+          "name": "KICKBOMBO",
+          "url": "https://open.spotify.com/artist/7A2htSu45kogVfNBMD4Xgh"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "Nada ha cambiado",
+      "url": "https://open.spotify.com/track/1DSifk5tKB93s9rAUJi4kn"
     },
     {
       "added_at": "2023-05-19 09:08:21",
@@ -535,18 +535,18 @@
     {
       "added_at": "2023-05-19 09:08:21",
       "album": {
-        "name": "Del cielo",
-        "url": "https://open.spotify.com/album/7B4fVDbdzPEwrpKxG87iRr"
+        "name": "Quiero Q Me Tat\u00faes",
+        "url": "https://open.spotify.com/album/52Qsnxlu17DdbtiNZjAJWA"
       },
       "artists": [
         {
-          "name": "Rorro",
-          "url": "https://open.spotify.com/artist/6fB004p3XFUoQeftZlFUKv"
+          "name": "Gala Nell",
+          "url": "https://open.spotify.com/artist/4CVNESQIOFNvurriZVBarY"
         }
       ],
-      "duration_ms": 190344,
-      "name": "Del cielo",
-      "url": "https://open.spotify.com/track/038sx40baI928rvHqvwlyC"
+      "duration_ms": 150428,
+      "name": "Quiero Q Me Tat\u00faes",
+      "url": "https://open.spotify.com/track/2kZCcJFVywOHv5VJrEWlJJ"
     },
     {
       "added_at": "2023-05-19 09:08:21",
@@ -567,6 +567,22 @@
     {
       "added_at": "2023-05-19 09:08:21",
       "album": {
+        "name": "Del cielo",
+        "url": "https://open.spotify.com/album/7B4fVDbdzPEwrpKxG87iRr"
+      },
+      "artists": [
+        {
+          "name": "Rorro",
+          "url": "https://open.spotify.com/artist/6fB004p3XFUoQeftZlFUKv"
+        }
+      ],
+      "duration_ms": 190344,
+      "name": "Del cielo",
+      "url": "https://open.spotify.com/track/038sx40baI928rvHqvwlyC"
+    },
+    {
+      "added_at": "2023-05-19 09:08:21",
+      "album": {
         "name": "Pensando mucho y mal",
         "url": "https://open.spotify.com/album/54rBXLxgSP5rNTpjA0UBgp"
       },
@@ -579,22 +595,6 @@
       "duration_ms": 165882,
       "name": "Ca\u00edmos las dos",
       "url": "https://open.spotify.com/track/6S0HcJIXspRbgATV3SRI9J"
-    },
-    {
-      "added_at": "2023-05-19 09:08:21",
-      "album": {
-        "name": "Bloque",
-        "url": "https://open.spotify.com/album/7g5WUQbHQ8f3A8FV8hXoJ8"
-      },
-      "artists": [
-        {
-          "name": "Nickzzy",
-          "url": "https://open.spotify.com/artist/6ddcxDK0BEkhe5LCdoA5Ki"
-        }
-      ],
-      "duration_ms": 163384,
-      "name": "Bloque",
-      "url": "https://open.spotify.com/track/0GkTXuoGohIyXLlJXzybet"
     },
     {
       "added_at": "2023-05-19 09:08:21",
@@ -619,18 +619,18 @@
     {
       "added_at": "2023-05-19 09:08:21",
       "album": {
-        "name": "Quiero Q Me Tat\u00faes",
-        "url": "https://open.spotify.com/album/52Qsnxlu17DdbtiNZjAJWA"
+        "name": "Bloque",
+        "url": "https://open.spotify.com/album/7g5WUQbHQ8f3A8FV8hXoJ8"
       },
       "artists": [
         {
-          "name": "Gala Nell",
-          "url": "https://open.spotify.com/artist/4CVNESQIOFNvurriZVBarY"
+          "name": "Nickzzy",
+          "url": "https://open.spotify.com/artist/6ddcxDK0BEkhe5LCdoA5Ki"
         }
       ],
-      "duration_ms": 150428,
-      "name": "Quiero Q Me Tat\u00faes",
-      "url": "https://open.spotify.com/track/2kZCcJFVywOHv5VJrEWlJJ"
+      "duration_ms": 163384,
+      "name": "Bloque",
+      "url": "https://open.spotify.com/track/0GkTXuoGohIyXLlJXzybet"
     },
     {
       "added_at": "2023-05-19 09:08:21",
@@ -787,22 +787,6 @@
     {
       "added_at": "2023-05-19 09:08:21",
       "album": {
-        "name": "Como si nada",
-        "url": "https://open.spotify.com/album/5LlZN35h1NTGBUcOvFZXrN"
-      },
-      "artists": [
-        {
-          "name": "Blackpanda",
-          "url": "https://open.spotify.com/artist/7LrXIUbc5YUI3SjEaAh3ma"
-        }
-      ],
-      "duration_ms": 196470,
-      "name": "Como si nada",
-      "url": "https://open.spotify.com/track/1fesiEYKhK0Dfe8Rs9NoqK"
-    },
-    {
-      "added_at": "2023-05-19 09:08:21",
-      "album": {
         "name": "quien me quiere (no me quiere contigo)",
         "url": "https://open.spotify.com/album/3pM1o2Lmf6sKyQCFHqKKyp"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 167722,
       "name": "quien me quiere (no me quiere contigo)",
       "url": "https://open.spotify.com/track/5wXsiahlfpyEdY152cbimc"
+    },
+    {
+      "added_at": "2023-05-19 09:08:21",
+      "album": {
+        "name": "Como si nada",
+        "url": "https://open.spotify.com/album/5LlZN35h1NTGBUcOvFZXrN"
+      },
+      "artists": [
+        {
+          "name": "Blackpanda",
+          "url": "https://open.spotify.com/artist/7LrXIUbc5YUI3SjEaAh3ma"
+        }
+      ],
+      "duration_ms": 196470,
+      "name": "Como si nada",
+      "url": "https://open.spotify.com/track/1fesiEYKhK0Dfe8Rs9NoqK"
     },
     {
       "added_at": "2023-05-19 09:08:21",

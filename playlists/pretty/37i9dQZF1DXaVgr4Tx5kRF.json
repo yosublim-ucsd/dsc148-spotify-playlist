@@ -1,12 +1,12 @@
 {
   "description": "The songs that defined a golden era of British indie. ",
-  "num_followers": 601324,
+  "num_followers": 601612,
   "original_name": "Britpop, Etc.",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmNTAzMTFlYmY3ODMwYzNjMWEyYzQ1NWJhNzllNzMwNWM5OGUxYjhl",
+  "snapshot_id": "MCxkZTM0ZDJjNzdmZGRkYTljMmY4MGU1ZDBmMzVlZjQ1ZGNhYTljOWM1",
   "tracks": [
     {
       "added_at": "2022-05-04 17:11:49",
@@ -779,6 +779,22 @@
     {
       "added_at": "2022-05-04 17:11:49",
       "album": {
+        "name": "Sense",
+        "url": "https://open.spotify.com/album/2COAzXF28KyjaOaxr901X0"
+      },
+      "artists": [
+        {
+          "name": "The Lightning Seeds",
+          "url": "https://open.spotify.com/artist/67YNiSqhrx1P8oPvIIvbP5"
+        }
+      ],
+      "duration_ms": 245000,
+      "name": "The Life of Riley",
+      "url": "https://open.spotify.com/track/5fB91ioIvFnr6QEgXLCf3V"
+    },
+    {
+      "added_at": "2022-05-04 17:11:49",
+      "album": {
         "name": "Give Out But Don't Give Up",
         "url": "https://open.spotify.com/album/51wKnaqc8kVTPeR99dpXg8"
       },
@@ -791,22 +807,6 @@
       "duration_ms": 217373,
       "name": "Rocks",
       "url": "https://open.spotify.com/track/2MjYMvn7PlS4HAE1EtP7BJ"
-    },
-    {
-      "added_at": "2022-05-04 17:11:49",
-      "album": {
-        "name": "Pills 'N' Thrills And Bellyaches (Collector's Edition)",
-        "url": "https://open.spotify.com/album/2Qo9lJydzuAmcBUjGOvrMQ"
-      },
-      "artists": [
-        {
-          "name": "Happy Mondays",
-          "url": "https://open.spotify.com/artist/339DNkQkuhHKEcHw6oK8f0"
-        }
-      ],
-      "duration_ms": 239760,
-      "name": "Kinky Afro - 2007 Remaster",
-      "url": "https://open.spotify.com/track/3OSJIs8o7v3reK5DHJrG48"
     },
     {
       "added_at": "2022-05-04 17:11:49",
@@ -827,18 +827,18 @@
     {
       "added_at": "2022-05-04 17:11:49",
       "album": {
-        "name": "Sense",
-        "url": "https://open.spotify.com/album/2COAzXF28KyjaOaxr901X0"
+        "name": "Pills 'N' Thrills And Bellyaches (Collector's Edition)",
+        "url": "https://open.spotify.com/album/2Qo9lJydzuAmcBUjGOvrMQ"
       },
       "artists": [
         {
-          "name": "The Lightning Seeds",
-          "url": "https://open.spotify.com/artist/67YNiSqhrx1P8oPvIIvbP5"
+          "name": "Happy Mondays",
+          "url": "https://open.spotify.com/artist/339DNkQkuhHKEcHw6oK8f0"
         }
       ],
-      "duration_ms": 245000,
-      "name": "The Life of Riley",
-      "url": "https://open.spotify.com/track/5fB91ioIvFnr6QEgXLCf3V"
+      "duration_ms": 239760,
+      "name": "Kinky Afro - 2007 Remaster",
+      "url": "https://open.spotify.com/track/3OSJIs8o7v3reK5DHJrG48"
     },
     {
       "added_at": "2022-05-04 17:11:49",

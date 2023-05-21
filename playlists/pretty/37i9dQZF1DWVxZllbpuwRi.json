@@ -1,12 +1,12 @@
 {
   "description": "Aqui o ver\u00e3o dura 365 dias! Passe o protetor solar, aumente o som e aperte o play!",
-  "num_followers": 629660,
+  "num_followers": 629637,
   "original_name": "Ver\u00e3o Forever",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY3NjYwMjgwMCwwMDAwMDAwMDZmMjVmNjExOWUyOGFmY2JmMWE0NWIzMjY3MjQ1ZjI1",
+  "snapshot_id": "MCwyMzQ3ODdlODFjN2YwZjlhN2FkZDc1MWJjYTlhYzU3Yjc1ZWUyMWI3",
   "tracks": [
     {
       "added_at": "2023-02-17 03:00:00",
@@ -479,26 +479,6 @@
     {
       "added_at": "2023-02-17 03:00:00",
       "album": {
-        "name": "Love Lies (with Normani)",
-        "url": "https://open.spotify.com/album/4CEAev7neETRdqBFtzA8B9"
-      },
-      "artists": [
-        {
-          "name": "Khalid",
-          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
-        },
-        {
-          "name": "Normani",
-          "url": "https://open.spotify.com/artist/2cWZOOzeOm4WmBJRnD5R7I"
-        }
-      ],
-      "duration_ms": 201707,
-      "name": "Love Lies (with Normani)",
-      "url": "https://open.spotify.com/track/45Egmo7icyopuzJN0oMEdk"
-    },
-    {
-      "added_at": "2023-02-17 03:00:00",
-      "album": {
         "name": "These Days (feat. Jess Glynne, Macklemore & Dan Caplen)",
         "url": "https://open.spotify.com/album/2sjjFDjZSCYD5eBCsi0fDW"
       },
@@ -527,6 +507,26 @@
     {
       "added_at": "2023-02-17 03:00:00",
       "album": {
+        "name": "Love Lies (with Normani)",
+        "url": "https://open.spotify.com/album/4CEAev7neETRdqBFtzA8B9"
+      },
+      "artists": [
+        {
+          "name": "Khalid",
+          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
+        },
+        {
+          "name": "Normani",
+          "url": "https://open.spotify.com/artist/2cWZOOzeOm4WmBJRnD5R7I"
+        }
+      ],
+      "duration_ms": 201707,
+      "name": "Love Lies (with Normani)",
+      "url": "https://open.spotify.com/track/45Egmo7icyopuzJN0oMEdk"
+    },
+    {
+      "added_at": "2023-02-17 03:00:00",
+      "album": {
         "name": "VIDA",
         "url": "https://open.spotify.com/album/5C0YLr4OoRGFDaqdMQmkeH"
       },
@@ -547,8 +547,8 @@
     {
       "added_at": "2023-02-17 03:00:00",
       "album": {
-        "name": "Qu\u00e9 M\u00e1s Pues?",
-        "url": "https://open.spotify.com/album/53ul5SFjVUQCotbJhjCkkK"
+        "name": "UN DIA (ONE DAY) (Feat. Tainy)",
+        "url": "https://open.spotify.com/album/6aqSlutLYNpzSsK4dV5jTr"
       },
       "artists": [
         {
@@ -556,13 +556,21 @@
           "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
         },
         {
-          "name": "Maria Becerra",
-          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        },
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        },
+        {
+          "name": "Tainy",
+          "url": "https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB"
         }
       ],
-      "duration_ms": 217773,
-      "name": "Qu\u00e9 M\u00e1s Pues?",
-      "url": "https://open.spotify.com/track/6hf0RpxTbOprT5nnwzkk8e"
+      "duration_ms": 232253,
+      "name": "UN DIA (ONE DAY) (Feat. Tainy)",
+      "url": "https://open.spotify.com/track/0EhpEsp4L0oRGM0vmeaN5e"
     },
     {
       "added_at": "2023-02-17 03:00:00",
@@ -767,8 +775,8 @@
     {
       "added_at": "2023-02-17 03:00:00",
       "album": {
-        "name": "UN DIA (ONE DAY) (Feat. Tainy)",
-        "url": "https://open.spotify.com/album/6aqSlutLYNpzSsK4dV5jTr"
+        "name": "Qu\u00e9 M\u00e1s Pues?",
+        "url": "https://open.spotify.com/album/53ul5SFjVUQCotbJhjCkkK"
       },
       "artists": [
         {
@@ -776,21 +784,13 @@
           "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
         },
         {
-          "name": "Dua Lipa",
-          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
-        },
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        },
-        {
-          "name": "Tainy",
-          "url": "https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB"
+          "name": "Maria Becerra",
+          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
         }
       ],
-      "duration_ms": 232253,
-      "name": "UN DIA (ONE DAY) (Feat. Tainy)",
-      "url": "https://open.spotify.com/track/0EhpEsp4L0oRGM0vmeaN5e"
+      "duration_ms": 217773,
+      "name": "Qu\u00e9 M\u00e1s Pues?",
+      "url": "https://open.spotify.com/track/6hf0RpxTbOprT5nnwzkk8e"
     },
     {
       "added_at": "2023-02-17 03:00:00",
@@ -1143,6 +1143,22 @@
     {
       "added_at": "2023-02-17 03:00:00",
       "album": {
+        "name": "Amor Pasajero",
+        "url": "https://open.spotify.com/album/3ZufYhU3vzNGPNMq5pO7ls"
+      },
+      "artists": [
+        {
+          "name": "Sebastian Yatra",
+          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
+        }
+      ],
+      "duration_ms": 152080,
+      "name": "Amor Pasajero",
+      "url": "https://open.spotify.com/track/2AQrDkF3XiC3xCkAM4OkJx"
+    },
+    {
+      "added_at": "2023-02-17 03:00:00",
+      "album": {
         "name": "M\u00e1s De La Una",
         "url": "https://open.spotify.com/album/0fz7mvsACRDrvT5PYTt4U9"
       },
@@ -1159,22 +1175,6 @@
       "duration_ms": 236731,
       "name": "M\u00e1s De La Una",
       "url": "https://open.spotify.com/track/69Y5IZuBvGyzySFt5x7kCq"
-    },
-    {
-      "added_at": "2023-02-17 03:00:00",
-      "album": {
-        "name": "Amor Pasajero",
-        "url": "https://open.spotify.com/album/3ZufYhU3vzNGPNMq5pO7ls"
-      },
-      "artists": [
-        {
-          "name": "Sebastian Yatra",
-          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
-        }
-      ],
-      "duration_ms": 152080,
-      "name": "Amor Pasajero",
-      "url": "https://open.spotify.com/track/2AQrDkF3XiC3xCkAM4OkJx"
     },
     {
       "added_at": "2023-02-17 03:00:00",
@@ -1703,26 +1703,6 @@
     {
       "added_at": "2023-02-17 03:00:00",
       "album": {
-        "name": "besitos, cu\u00eddate",
-        "url": "https://open.spotify.com/album/3kfb4ye7atyQ1mEoI5Lecu"
-      },
-      "artists": [
-        {
-          "name": "Princesa Alba",
-          "url": "https://open.spotify.com/artist/3hvDAraTidCTjQHIc4m8P3"
-        },
-        {
-          "name": "DUDA BEAT",
-          "url": "https://open.spotify.com/artist/2QLSJqqGIstNbO6nYRR16o"
-        }
-      ],
-      "duration_ms": 173427,
-      "name": "narcisa",
-      "url": "https://open.spotify.com/track/4fvIO9UsmmJM2b8gWCzsOg"
-    },
-    {
-      "added_at": "2023-02-17 03:00:00",
-      "album": {
         "name": "With You",
         "url": "https://open.spotify.com/album/0f3jSFRTTXViOB6NCnFULX"
       },
@@ -1739,6 +1719,26 @@
       "duration_ms": 185142,
       "name": "With You",
       "url": "https://open.spotify.com/track/1kuxCYa18CRbrA4vuF2iM3"
+    },
+    {
+      "added_at": "2023-02-17 03:00:00",
+      "album": {
+        "name": "besitos, cu\u00eddate",
+        "url": "https://open.spotify.com/album/3kfb4ye7atyQ1mEoI5Lecu"
+      },
+      "artists": [
+        {
+          "name": "Princesa Alba",
+          "url": "https://open.spotify.com/artist/3hvDAraTidCTjQHIc4m8P3"
+        },
+        {
+          "name": "DUDA BEAT",
+          "url": "https://open.spotify.com/artist/2QLSJqqGIstNbO6nYRR16o"
+        }
+      ],
+      "duration_ms": 173427,
+      "name": "narcisa",
+      "url": "https://open.spotify.com/track/4fvIO9UsmmJM2b8gWCzsOg"
     },
     {
       "added_at": "2023-02-17 03:00:00",
@@ -1783,6 +1783,30 @@
     {
       "added_at": "2023-02-17 03:00:00",
       "album": {
+        "name": "Silent Sun",
+        "url": "https://open.spotify.com/album/4vJs9flHsFfTPNxzoEwuG3"
+      },
+      "artists": [
+        {
+          "name": "WOAK",
+          "url": "https://open.spotify.com/artist/0YlRs4DoQ4WctkmsbUUpBb"
+        },
+        {
+          "name": "Sillaz",
+          "url": "https://open.spotify.com/artist/7EroDVPELCYcB8zyB2XN9F"
+        },
+        {
+          "name": "RodMac",
+          "url": "https://open.spotify.com/artist/7dbe4S6XKgCPQrZ5YtWOyP"
+        }
+      ],
+      "duration_ms": 171245,
+      "name": "Silent Sun",
+      "url": "https://open.spotify.com/track/6goDGZwcLI6jGJ6qr01Wsq"
+    },
+    {
+      "added_at": "2023-02-17 03:00:00",
+      "album": {
         "name": "Marea (feat. legallyrxx)",
         "url": "https://open.spotify.com/album/11ZztgTrgbcz4TA64WxQ6R"
       },
@@ -1807,30 +1831,6 @@
       "duration_ms": 166036,
       "name": "Marea (feat. legallyrxx)",
       "url": "https://open.spotify.com/track/63ZPI191Myh2F8GpzW14q1"
-    },
-    {
-      "added_at": "2023-02-17 03:00:00",
-      "album": {
-        "name": "Silent Sun",
-        "url": "https://open.spotify.com/album/4vJs9flHsFfTPNxzoEwuG3"
-      },
-      "artists": [
-        {
-          "name": "WOAK",
-          "url": "https://open.spotify.com/artist/0YlRs4DoQ4WctkmsbUUpBb"
-        },
-        {
-          "name": "Sillaz",
-          "url": "https://open.spotify.com/artist/7EroDVPELCYcB8zyB2XN9F"
-        },
-        {
-          "name": "RodMac",
-          "url": "https://open.spotify.com/artist/7dbe4S6XKgCPQrZ5YtWOyP"
-        }
-      ],
-      "duration_ms": 171245,
-      "name": "Silent Sun",
-      "url": "https://open.spotify.com/track/6goDGZwcLI6jGJ6qr01Wsq"
     },
     {
       "added_at": "2023-02-17 03:00:00",
@@ -2027,22 +2027,6 @@
     {
       "added_at": "2023-02-17 03:00:00",
       "album": {
-        "name": "La fiesta",
-        "url": "https://open.spotify.com/album/2oeYX230n70YtQDkmbeRPp"
-      },
-      "artists": [
-        {
-          "name": "Pablo Albor\u00e1n",
-          "url": "https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50"
-        }
-      ],
-      "duration_ms": 212106,
-      "name": "La fiesta",
-      "url": "https://open.spotify.com/track/0v1EnT2sDsuLnvwo7Z3N3c"
-    },
-    {
-      "added_at": "2023-02-17 03:00:00",
-      "album": {
         "name": "Blue Sky",
         "url": "https://open.spotify.com/album/4LRZwEWDj6xdgFk8OBydmt"
       },
@@ -2059,6 +2043,22 @@
       "duration_ms": 201707,
       "name": "Blue Sky",
       "url": "https://open.spotify.com/track/4uK2F0ZB7ac1C296tWxwu8"
+    },
+    {
+      "added_at": "2023-02-17 03:00:00",
+      "album": {
+        "name": "La fiesta",
+        "url": "https://open.spotify.com/album/2oeYX230n70YtQDkmbeRPp"
+      },
+      "artists": [
+        {
+          "name": "Pablo Albor\u00e1n",
+          "url": "https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50"
+        }
+      ],
+      "duration_ms": 212106,
+      "name": "La fiesta",
+      "url": "https://open.spotify.com/track/0v1EnT2sDsuLnvwo7Z3N3c"
     },
     {
       "added_at": "2023-02-17 03:00:00",

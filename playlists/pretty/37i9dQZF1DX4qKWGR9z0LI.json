@@ -1,12 +1,12 @@
 {
   "description": "Lo \u00faltimo y lo mejor de la salsa. Cover: Leoni Torres",
-  "num_followers": 1828804,
+  "num_followers": 1828944,
   "original_name": "Salsa Nation",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzNDEzNjMwZjAwNDhlM2I4ODBjOTdhYzc4ZmQ1NDU0NGQ1NTdhNzBk",
+  "snapshot_id": "MCxmZjQ5Y2I1YjJhODUxMjA1NWNlOGUzZTk4Y2QzMzdiMGJkNTU1ZjEz",
   "tracks": [
     {
       "added_at": "2023-05-19 04:00:00",
@@ -695,22 +695,6 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "Al Duro",
-        "url": "https://open.spotify.com/album/7kB5Db63xnbxos7xL5kW5U"
-      },
-      "artists": [
-        {
-          "name": "Hector Rey",
-          "url": "https://open.spotify.com/artist/3IfYZNt3tOmvN7HA3iNbGv"
-        }
-      ],
-      "duration_ms": 277906,
-      "name": "Te Propongo",
-      "url": "https://open.spotify.com/track/2WLNCSzgMtdXyHcdPNK8UQ"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
         "name": "Contigo",
         "url": "https://open.spotify.com/album/3j09eak04YqZqOY1md4lp2"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 169207,
       "name": "El Que Ama Sufre",
       "url": "https://open.spotify.com/track/0FLKPJQtOzb0Xw1qKWXuzm"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
+        "name": "Al Duro",
+        "url": "https://open.spotify.com/album/7kB5Db63xnbxos7xL5kW5U"
+      },
+      "artists": [
+        {
+          "name": "Hector Rey",
+          "url": "https://open.spotify.com/artist/3IfYZNt3tOmvN7HA3iNbGv"
+        }
+      ],
+      "duration_ms": 277906,
+      "name": "Te Propongo",
+      "url": "https://open.spotify.com/track/2WLNCSzgMtdXyHcdPNK8UQ"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -1455,22 +1455,6 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "Los Oscares De Oscar",
-        "url": "https://open.spotify.com/album/5Y990OGQRoPBqdJ6YnU6tZ"
-      },
-      "artists": [
-        {
-          "name": "Dimension Latina",
-          "url": "https://open.spotify.com/artist/2ixSzFmACsZSsx40fXTNYk"
-        }
-      ],
-      "duration_ms": 228554,
-      "name": "Llorar\u00e1s",
-      "url": "https://open.spotify.com/track/1s25QxtuRQsSrOm9tTOaD6"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
         "name": "Calle Linda (Golden Edition)",
         "url": "https://open.spotify.com/album/66FlKUgkg7EQY6nzWtuX8V"
       },
@@ -1483,6 +1467,22 @@
       "duration_ms": 383040,
       "name": "Loco Pero Feliz",
       "url": "https://open.spotify.com/track/5yGzJ9gphxtII2eoI1Qj9t"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
+        "name": "Los Oscares De Oscar",
+        "url": "https://open.spotify.com/album/5Y990OGQRoPBqdJ6YnU6tZ"
+      },
+      "artists": [
+        {
+          "name": "Dimension Latina",
+          "url": "https://open.spotify.com/artist/2ixSzFmACsZSsx40fXTNYk"
+        }
+      ],
+      "duration_ms": 228554,
+      "name": "Llorar\u00e1s",
+      "url": "https://open.spotify.com/track/1s25QxtuRQsSrOm9tTOaD6"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -1563,6 +1563,26 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
+        "name": "El Breve Espacio En Que No Est\u00e1 (80 Aniversario)",
+        "url": "https://open.spotify.com/album/08H66qqmYkvqLMbBT8Tj3V"
+      },
+      "artists": [
+        {
+          "name": "Pablo Milan\u00e9s",
+          "url": "https://open.spotify.com/artist/4vOfKh5wz7lTcdqB3EwsC5"
+        },
+        {
+          "name": "Gilberto Santa Rosa",
+          "url": "https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1"
+        }
+      ],
+      "duration_ms": 285507,
+      "name": "El Breve Espacio En Que No Est\u00e1 - 80 Aniversario",
+      "url": "https://open.spotify.com/track/1zfxsKycKs9Fgk9xJy57bR"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
         "name": "From Miami a La Habana",
         "url": "https://open.spotify.com/album/1tNsdZEoSb3YrilndEMSmn"
       },
@@ -1607,26 +1627,6 @@
       "duration_ms": 245537,
       "name": "Cada D\u00eda",
       "url": "https://open.spotify.com/track/1PAv4n1lNEcNmS4qN8Zoka"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
-        "name": "El Breve Espacio En Que No Est\u00e1 (80 Aniversario)",
-        "url": "https://open.spotify.com/album/08H66qqmYkvqLMbBT8Tj3V"
-      },
-      "artists": [
-        {
-          "name": "Pablo Milan\u00e9s",
-          "url": "https://open.spotify.com/artist/4vOfKh5wz7lTcdqB3EwsC5"
-        },
-        {
-          "name": "Gilberto Santa Rosa",
-          "url": "https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1"
-        }
-      ],
-      "duration_ms": 285507,
-      "name": "El Breve Espacio En Que No Est\u00e1 - 80 Aniversario",
-      "url": "https://open.spotify.com/track/1zfxsKycKs9Fgk9xJy57bR"
     },
     {
       "added_at": "2023-05-19 04:00:00",

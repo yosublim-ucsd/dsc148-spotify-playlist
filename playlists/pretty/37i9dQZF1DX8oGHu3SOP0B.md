@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8oGHu3SOP0B.md) - [plain]
 
 > เปิดให้ดังแล้วฟังเสียงเต็มๆ ของผู้หญิงจากประเทศไทย\. ศิลปิน: PRETZELLE
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,366 likes - 50 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,374 likes - 50 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8oGHu3SOP0B.md) - [plain]
 | 6 | [กลับมาให้กอด \(I'm Sorry\)](https://open.spotify.com/track/4qaEAI2SKhERE18Dbr5Ed4) | [Namcha](https://open.spotify.com/artist/3bhQyvQx1bvDWjboMGG8wY) | [กลับมาให้กอด \(I'm Sorry\)](https://open.spotify.com/album/5ggG0CD1iyHlgWnVOBdsY6) | 3:27 |
 | 7 | [คนใหม่เขาดูแลอยู่](https://open.spotify.com/track/0EMa3PEf3tHITHyGYQmWV9) | [Ink Waruntorn](https://open.spotify.com/artist/1Twi7NfmUzbXF7lEMaGCqF) | [คนใหม่เขาดูแลอยู่](https://open.spotify.com/album/7uPVwd1sqU67W1sUf9oAQm) | 4:16 |
 | 8 | [I'm a loser](https://open.spotify.com/track/21DQRsoxjBhd8GOFIO9NEN) | [Benzkhaokhwan](https://open.spotify.com/artist/7yH4XTziOEA3lmES4RExCy) | [I'm a loser](https://open.spotify.com/album/1r5Hp8oXOdqtKhM5DCqSwx) | 3:49 |
-| 9 | [ไม่ได้ก็ไม่เอา \- Whatever](https://open.spotify.com/track/1UxVMaHEm6UJxGOg4ixSZO) | [PiXXiE](https://open.spotify.com/artist/6HlUN1Md7UT62mNJHOYRsK), [Zom Marie](https://open.spotify.com/artist/3CYmJROYywqfz2zXoUrcGB) | [BLOOM](https://open.spotify.com/album/4edPsEhpxL35cl5meC5vvJ) | 2:48 |
+| 9 | [ไม่ได้ก็ไม่เอา](https://open.spotify.com/track/1UxVMaHEm6UJxGOg4ixSZO) | [PiXXiE](https://open.spotify.com/artist/6HlUN1Md7UT62mNJHOYRsK), [Zom Marie](https://open.spotify.com/artist/3CYmJROYywqfz2zXoUrcGB) | [BLOOM](https://open.spotify.com/album/4edPsEhpxL35cl5meC5vvJ) | 2:48 |
 | 10 | [To Myself](https://open.spotify.com/track/6yF5g6gIuCgHybfYkiDVbu) | [Valentina Ploy](https://open.spotify.com/artist/4RnzpVhMevUeU16FlV4e3e) | [PLOY](https://open.spotify.com/album/7zN3jhCgtmlDTzsTvS7VHp) | 3:18 |
 | 11 | [ทำดีตอนนี้ไม่ทันแล้ว](https://open.spotify.com/track/7562H4D0qxKxbJY3RO0GKU) | [Bean Napason](https://open.spotify.com/artist/3JP38d8r7r0trtBel5H7nu) | [ทำดีตอนนี้ไม่ทันแล้ว](https://open.spotify.com/album/6bfgUYeUIBSdxQrWPsbTTI) | 3:24 |
 | 12 | [Once Upon The End](https://open.spotify.com/track/1D3Xr7mOle4JAcjn0GThV9) | [mindfreakkk](https://open.spotify.com/artist/72eq3oLf1MBNNAZNv0Ua0a) | [Once Upon The End](https://open.spotify.com/album/3dBDP3noYghnGpGZsKLxdZ) | 4:39 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8oGHu3SOP0B.md) - [plain]
 | 49 | [เฟรนด์ลี่หรือมีใจ](https://open.spotify.com/track/3hyT0w2zZR88KfQ1TAtnrI) | [DIDIxDADA](https://open.spotify.com/artist/2wd5kKWvp9e1i7rBtvvGSc) | [เฟรนด์ลี่หรือมีใจ](https://open.spotify.com/album/0EQjy4jjmRX4TwU1e5WcdD) | 3:16 |
 | 50 | [แค่กอด \- เพลงจากละคร รักสุดท้ายยัยจอมเหวี่ยง](https://open.spotify.com/track/4UOM059VlhseO1XpIu3NRm) | [Gam Wichayanee](https://open.spotify.com/artist/52O8ovyvtivDfePoUUwcOa) | [เพลงจากละคร รักสุดท้ายยัยจอมเหวี่ยง](https://open.spotify.com/album/5j7E53b9l2xEvAWPHPBMke) | 4:21 |
 
-Snapshot ID: `MCwwODE5YTAxNDlmYmI5MjUwNzA4NzZlNjZlZmIzNDNmZTA3NDIwOTJm`
+Snapshot ID: `MCxlOWU2N2Q2YThjNzU0ZTZjZjg0OTM1NjUwMmMwY2IzZGU5ZGI3MmI3`

@@ -389,6 +389,24 @@
     },
     {
       "album": {
+        "name": "Guazatumba",
+        "url": "https://open.spotify.com/album/63nVyKVXvnLNnVR6x3mlxC"
+      },
+      "artists": [
+        {
+          "name": "Dani Umpi",
+          "url": "https://open.spotify.com/artist/1KYLoFQ7Cwm4eOHruB5OMI"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229726,
+      "name": "Circular",
+      "url": "https://open.spotify.com/track/21Rw3bEHD9hdwDIpD3BaWk"
+    },
+    {
+      "album": {
         "name": "Corazon en Asteroides",
         "url": "https://open.spotify.com/album/5uIyYenH0O4ThqgBRGshvw"
       },
@@ -1236,7 +1254,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-21",
       "duration_ms": 241418,
       "name": "Mitad Sombra Mitad Luz",
       "url": "https://open.spotify.com/track/19TZhFuYIjDgHyybWTas7z"

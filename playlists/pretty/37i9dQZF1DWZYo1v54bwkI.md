@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZYo1v54bwkI.md) - [plain]
 
 > Respira profundamente y relaja tu mente.
 
-[Spotify](https://open.spotify.com/user/spotify) - 234,809 likes - 196 songs - 9 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 234,947 likes - 196 songs - 9 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -205,4 +205,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZYo1v54bwkI.md) - [plain]
 | 195 | [Sleeping Giants](https://open.spotify.com/track/0J0KRxk1ccNI6SA3L0514v) | [Damien Monieu](https://open.spotify.com/artist/0e6TRegnf204V3t3TFftdA) | [Sleeping Giants](https://open.spotify.com/album/7FWW4gjaJs1FLnSNoUXYfv) | 2:27 |
 | 196 | [Eller](https://open.spotify.com/track/7dixtAcv16QYnWjtPhRPQd) | [Recitations from Earth](https://open.spotify.com/artist/5BXtXfmXj7Rh5K2G9QsxWj) | [Eller](https://open.spotify.com/album/4myRid1Fkb4ipyrcVqk0yJ) | 3:32 |
 
-Snapshot ID: `MCxhNWI0MDNiZWUwYTA3MzQ4MTA4NGM1NjQxODdiYzlmNWFmMmMyYWYy`
+Snapshot ID: `MCw4NWZhZGY2M2Y2OWM3MjY0YmY5MTYwNzI1NWMyNjk1ZWZiMzg5ZWI0`

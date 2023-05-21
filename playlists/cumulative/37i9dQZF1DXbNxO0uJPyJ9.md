@@ -4,7 +4,7 @@
 
 > Classic 12" singles to take you back to the the vinyl era.
 
-242 songs - 1 day 1 hr 58 min
+243 songs - 1 day 2 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -114,6 +114,7 @@
 | [Kiss Me \(1985\)](https://open.spotify.com/track/7s0CqOvyKGkyPLl6N2Bg9I) | [Stephen Duffy](https://open.spotify.com/artist/2G5cWvHkX9WSrGv6OnmpWD) | [They Called Him Tin Tin](https://open.spotify.com/album/1WE9klbrrh3FS7CGkFwkZT) | 3:53 | 2020-08-07 |  |
 | [La Isla Bonita \- Extended Remix](https://open.spotify.com/track/1jaVdF0FSPTWi8E4MWiLPR) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW), [Chris Lord\-Alge](https://open.spotify.com/artist/1zRwW2z5JOtEgK5OESwlgx) | [True Blue](https://open.spotify.com/album/6fmnT17jc2Sc69q3nza1eD) | 5:25 | 2020-08-07 |  |
 | [Ladies Night](https://open.spotify.com/track/2uKJxjqcFu2Pr2CEsGGYJa) | [Kool & The Gang](https://open.spotify.com/artist/3VNITwohbvU5Wuy5PC6dsI) | [Ladies' Night](https://open.spotify.com/album/0zK7P6PLhBU02U9Tc98VSK) | 6:25 | 2022-06-10 |  |
+| [Lessons In Love \- Shep Pettibone Remix](https://open.spotify.com/track/1rjF5gX73nMKe4xfgVv97j) | [Level 42](https://open.spotify.com/artist/0L9xkvBPcEp1nrhDrodxc5), [Shep Pettibone](https://open.spotify.com/artist/6GOmlO6wisWSbBzBbCCaWv) | [Running In The Family \(Super Deluxe Edition\)](https://open.spotify.com/album/0ocLcPbY6DKLkAiVyHvipJ) | 7:49 | 2022-12-23 |  |
 | [Lessons In Love \- Shep Pettibone Remix](https://open.spotify.com/track/33nqNlihX3zb9RUk20b06f) | [Level 42](https://open.spotify.com/artist/0L9xkvBPcEp1nrhDrodxc5), [Shep Pettibone](https://open.spotify.com/artist/6GOmlO6wisWSbBzBbCCaWv) | [The Remixes](https://open.spotify.com/album/2QZMdz8JEt1hPiPcLdNeCL) | 7:51 | 2021-12-22 | 2022-07-25 |
 | [Let's Dance](https://open.spotify.com/track/17UCjtGEwO9FgCjuHyqTW5) | [David Bowie](https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy) | [so80s \(So Eighties\) Volume 4 \- Pres\. By Blank & Jones](https://open.spotify.com/album/5KZreTwJZo9nGNoKtHiYXS) | 7:40 | 2020-08-07 | 2022-07-29 |
 | [Let's Dance \- 2018 Remaster](https://open.spotify.com/track/3ix6K4wZY29bCujrSznwFZ) | [David Bowie](https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy) | [Let's Dance \(2018 Remaster\)](https://open.spotify.com/album/4NwG11AsDJluT732lSjMrV) | 7:37 | 2022-06-10 |  |
@@ -241,7 +242,7 @@
 | [Word Up](https://open.spotify.com/track/7LoGfKBAaOl0nxhodJ1240) | [Cameo](https://open.spotify.com/artist/545idYhdloaSlLGBY8E9u2) | [Word Up](https://open.spotify.com/album/1W8kHQQC7DXg1inR7ZWqhA) | 4:20 | 2022-06-10 |  |
 | [Word Up! \- Extended Version](https://open.spotify.com/track/5F7UEYzWQ1vO5io3nRGEIQ) | [Cameo](https://open.spotify.com/artist/545idYhdloaSlLGBY8E9u2) | [80's](https://open.spotify.com/album/36MWEr7SBcQQrSHVDgpSN2) | 4:13 | 2021-12-22 | 2022-07-19 |
 | [Wouldn't It Be Good \- Extended 12" Mix](https://open.spotify.com/track/4tvqe7TBT8YfBUV0bgLZhy) | [Nik Kershaw](https://open.spotify.com/artist/7kCL98rPFsNKjAHDmWrMac) | [12" 80's Classics](https://open.spotify.com/album/7vFn42xn93x80iqWDVW79L) | 6:49 | 2022-06-10 | 2022-08-10 |
-| [Wouldn't It Be Good \- Extended 12" Remix](https://open.spotify.com/track/3sZPuU0YDXrcWLx1BruJFS) | [Nik Kershaw](https://open.spotify.com/artist/7kCL98rPFsNKjAHDmWrMac) | [Human Racing \(Expanded Edition\)](https://open.spotify.com/album/6jgKyQ86KXskxgAmvm5W8S) | 6:51 | 2022-12-23 |  |
+| [Wouldn't It Be Good \- Extended 12" Remix](https://open.spotify.com/track/3sZPuU0YDXrcWLx1BruJFS) | [Nik Kershaw](https://open.spotify.com/artist/7kCL98rPFsNKjAHDmWrMac) | [Human Racing \(Expanded Edition\)](https://open.spotify.com/album/6jgKyQ86KXskxgAmvm5W8S) | 6:51 | 2022-12-23 | 2023-05-21 |
 | [Wouldn't It Be Good \- Extended 12" Remix](https://open.spotify.com/track/4Higw00SKb2QInfrWsExET) | [Nik Kershaw](https://open.spotify.com/artist/7kCL98rPFsNKjAHDmWrMac) | [Human Racing \(Expanded Edition\)](https://open.spotify.com/album/73s7f6K2K8u5GyKUQu6lhY) | 6:51 | 2020-08-07 | 2022-07-29 |
 | [You Sexy Thing](https://open.spotify.com/track/714hERk9U1W8FMYkoC83CO) | [Hot Chocolate](https://open.spotify.com/artist/72VzFto8DYvKHocaHYNWSi) | [Hot Chocolate](https://open.spotify.com/album/10oMdAuUD0Tcc4BowCWUni) | 4:04 | 2022-06-10 |  |
 | [You Sexy Thing \- Remix](https://open.spotify.com/track/0yIX2IepFAoSPbS8gk0jpY) | [Hot Chocolate](https://open.spotify.com/artist/72VzFto8DYvKHocaHYNWSi), [Ben Liebrand](https://open.spotify.com/artist/00bFgWuCaaFrjC9xylIcMf) | [Absolute Hits 2011](https://open.spotify.com/album/22Xf833kS0A1sj56UGBN6X) | 3:40 | 2021-12-22 | 2022-07-27 |

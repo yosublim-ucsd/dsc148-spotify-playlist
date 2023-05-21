@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3g2x83PnE4udquzQctBOSF.md) - [plain]
 
 > Our weekly selection is here ⚡️
 
-[AGLF](https://open.spotify.com/user/due850omgu70ns7dyg7n7jf12) - 2,245 likes - 30 songs - 1 hr 34 min
+[AGLF](https://open.spotify.com/user/due850omgu70ns7dyg7n7jf12) - 2,246 likes - 30 songs - 1 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

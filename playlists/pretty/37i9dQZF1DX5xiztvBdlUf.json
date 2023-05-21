@@ -1,12 +1,12 @@
 {
   "description": "Deep House in all its shapes and colours.",
-  "num_followers": 574136,
+  "num_followers": 574301,
   "original_name": "Deep House Blend",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzZDJjMDA3ODAxNDFjMDE3ZmEzOThhZDlkYzI0OGI1ODJlMmY5ZmU0",
+  "snapshot_id": "MCxjZjAwZmEzYTBhNjQ5YTY0NGQ3NDgwYmI0YTU1MTk1YmRjZmI1NDNm",
   "tracks": [
     {
       "added_at": "2023-05-05 15:08:49",
@@ -259,26 +259,6 @@
     {
       "added_at": "2023-05-05 15:08:49",
       "album": {
-        "name": "Kaleidoscope Colours",
-        "url": "https://open.spotify.com/album/3kzL5SQAckdGoe8pZHtrm9"
-      },
-      "artists": [
-        {
-          "name": "Jan Blomqvist",
-          "url": "https://open.spotify.com/artist/5wMlMjOLeJfS5DfxqGfm83"
-        },
-        {
-          "name": "Maybemahri",
-          "url": "https://open.spotify.com/artist/4Lo9uin42ZRpz8pqItU4gL"
-        }
-      ],
-      "duration_ms": 255466,
-      "name": "Kaleidoscope Colours",
-      "url": "https://open.spotify.com/track/2FqOpyYhgo3ZMgtkY55PVz"
-    },
-    {
-      "added_at": "2023-05-05 15:08:49",
-      "album": {
         "name": "Impossible (&ME Remix)",
         "url": "https://open.spotify.com/album/4HmgIUcdgMfWDJYQdxhy6o"
       },
@@ -299,6 +279,26 @@
       "duration_ms": 555573,
       "name": "Impossible - &ME Remix",
       "url": "https://open.spotify.com/track/0TVcPTk3MMkT6WqkuatPSr"
+    },
+    {
+      "added_at": "2023-05-05 15:08:49",
+      "album": {
+        "name": "Kaleidoscope Colours",
+        "url": "https://open.spotify.com/album/3kzL5SQAckdGoe8pZHtrm9"
+      },
+      "artists": [
+        {
+          "name": "Jan Blomqvist",
+          "url": "https://open.spotify.com/artist/5wMlMjOLeJfS5DfxqGfm83"
+        },
+        {
+          "name": "Maybemahri",
+          "url": "https://open.spotify.com/artist/4Lo9uin42ZRpz8pqItU4gL"
+        }
+      ],
+      "duration_ms": 255466,
+      "name": "Kaleidoscope Colours",
+      "url": "https://open.spotify.com/track/2FqOpyYhgo3ZMgtkY55PVz"
     },
     {
       "added_at": "2023-05-05 15:08:49",
@@ -543,6 +543,22 @@
     {
       "added_at": "2023-05-05 15:08:49",
       "album": {
+        "name": "Colorize 2023 Spring Sampler",
+        "url": "https://open.spotify.com/album/2RQiB9SPWqSLQETVpLVacO"
+      },
+      "artists": [
+        {
+          "name": "VisionV",
+          "url": "https://open.spotify.com/artist/5mOO1KIfKb5HY8ieKjG9Qf"
+        }
+      ],
+      "duration_ms": 240448,
+      "name": "Blossom",
+      "url": "https://open.spotify.com/track/5kAv0wk38BRqdMPbaGbKQe"
+    },
+    {
+      "added_at": "2023-05-05 15:08:49",
+      "album": {
         "name": "Cenote",
         "url": "https://open.spotify.com/album/1TXpoAyR5Z3q3IixFnUiwf"
       },
@@ -575,22 +591,6 @@
       "duration_ms": 239106,
       "name": "Drive",
       "url": "https://open.spotify.com/track/2tjWqC7s6tKPl1nBFuHX0m"
-    },
-    {
-      "added_at": "2023-05-05 15:08:49",
-      "album": {
-        "name": "Colorize 2023 Spring Sampler",
-        "url": "https://open.spotify.com/album/2RQiB9SPWqSLQETVpLVacO"
-      },
-      "artists": [
-        {
-          "name": "VisionV",
-          "url": "https://open.spotify.com/artist/5mOO1KIfKb5HY8ieKjG9Qf"
-        }
-      ],
-      "duration_ms": 240448,
-      "name": "Blossom",
-      "url": "https://open.spotify.com/track/5kAv0wk38BRqdMPbaGbKQe"
     },
     {
       "added_at": "2023-05-05 15:08:49",
@@ -631,6 +631,22 @@
       "duration_ms": 271475,
       "name": "Burnt Orange - Edit",
       "url": "https://open.spotify.com/track/1O73n53LZxJNLeGdhwChtt"
+    },
+    {
+      "added_at": "2023-05-05 15:08:49",
+      "album": {
+        "name": "So Good",
+        "url": "https://open.spotify.com/album/1QyvQD5s7vgetc2UUkeNrL"
+      },
+      "artists": [
+        {
+          "name": "EDX",
+          "url": "https://open.spotify.com/artist/7GMot9WvBYqhhJz92vhBp6"
+        }
+      ],
+      "duration_ms": 193064,
+      "name": "So Good",
+      "url": "https://open.spotify.com/track/50YBCtA1z8J7p9TufYGNL7"
     },
     {
       "added_at": "2023-05-05 15:08:49",
@@ -679,22 +695,6 @@
       "duration_ms": 464026,
       "name": "Between Two Worlds",
       "url": "https://open.spotify.com/track/0uO5T7u4DkgfGif1wIeLNr"
-    },
-    {
-      "added_at": "2023-05-05 15:08:49",
-      "album": {
-        "name": "So Good",
-        "url": "https://open.spotify.com/album/1QyvQD5s7vgetc2UUkeNrL"
-      },
-      "artists": [
-        {
-          "name": "EDX",
-          "url": "https://open.spotify.com/artist/7GMot9WvBYqhhJz92vhBp6"
-        }
-      ],
-      "duration_ms": 193064,
-      "name": "So Good",
-      "url": "https://open.spotify.com/track/50YBCtA1z8J7p9TufYGNL7"
     },
     {
       "added_at": "2023-05-05 15:08:49",
@@ -891,6 +891,22 @@
     {
       "added_at": "2023-05-05 15:08:49",
       "album": {
+        "name": "Love And Hate",
+        "url": "https://open.spotify.com/album/1NEZ9FtarC6DX5hbnC7H1c"
+      },
+      "artists": [
+        {
+          "name": "Bedouin",
+          "url": "https://open.spotify.com/artist/5bKdC6382t97Qnpvs81Rqx"
+        }
+      ],
+      "duration_ms": 267004,
+      "name": "Love And Hate",
+      "url": "https://open.spotify.com/track/5Vt5PmlQvb0U9HbEX0qYRi"
+    },
+    {
+      "added_at": "2023-05-05 15:08:49",
+      "album": {
         "name": "Nefertari",
         "url": "https://open.spotify.com/album/3bx0Oxn4rZeOpTds2RVX6h"
       },
@@ -907,22 +923,6 @@
       "duration_ms": 241160,
       "name": "Nefertari",
       "url": "https://open.spotify.com/track/7lN1zrd3LsTqGeaPODv2IP"
-    },
-    {
-      "added_at": "2023-05-05 15:08:49",
-      "album": {
-        "name": "Love And Hate",
-        "url": "https://open.spotify.com/album/1NEZ9FtarC6DX5hbnC7H1c"
-      },
-      "artists": [
-        {
-          "name": "Bedouin",
-          "url": "https://open.spotify.com/artist/5bKdC6382t97Qnpvs81Rqx"
-        }
-      ],
-      "duration_ms": 267004,
-      "name": "Love And Hate",
-      "url": "https://open.spotify.com/track/5Vt5PmlQvb0U9HbEX0qYRi"
     },
     {
       "added_at": "2023-05-05 15:08:49",
@@ -1075,6 +1075,22 @@
     {
       "added_at": "2023-05-05 15:08:49",
       "album": {
+        "name": "Fact & Fiction / Can't Get Enough",
+        "url": "https://open.spotify.com/album/0nV7hufCHvKb7qEWH5WKOm"
+      },
+      "artists": [
+        {
+          "name": "JOPLYN",
+          "url": "https://open.spotify.com/artist/32Jt1AK733JbFR82hEZ0Ih"
+        }
+      ],
+      "duration_ms": 379356,
+      "name": "Can't Get Enough",
+      "url": "https://open.spotify.com/track/3IvodZAm4vD1PM3bIEw9Ik"
+    },
+    {
+      "added_at": "2023-05-05 15:08:49",
+      "album": {
         "name": "Trojan Love (Original Club Mix)",
         "url": "https://open.spotify.com/album/5VGOmMOd2ke7rAFmaU125O"
       },
@@ -1091,22 +1107,6 @@
       "duration_ms": 357283,
       "name": "Trojan Love - Original Club Mix",
       "url": "https://open.spotify.com/track/283e2rkf3A78qmcp5xjOTT"
-    },
-    {
-      "added_at": "2023-05-05 15:08:49",
-      "album": {
-        "name": "Fact & Fiction / Can't Get Enough",
-        "url": "https://open.spotify.com/album/0nV7hufCHvKb7qEWH5WKOm"
-      },
-      "artists": [
-        {
-          "name": "JOPLYN",
-          "url": "https://open.spotify.com/artist/32Jt1AK733JbFR82hEZ0Ih"
-        }
-      ],
-      "duration_ms": 379356,
-      "name": "Can't Get Enough",
-      "url": "https://open.spotify.com/track/3IvodZAm4vD1PM3bIEw9Ik"
     },
     {
       "added_at": "2023-05-05 15:08:49",
@@ -1503,18 +1503,18 @@
     {
       "added_at": "2023-05-05 15:08:49",
       "album": {
-        "name": "Femme Tech",
-        "url": "https://open.spotify.com/album/2pYtRpgha87XaijSIwUUbn"
+        "name": "Aldeapolis",
+        "url": "https://open.spotify.com/album/5y6AcHHPILKmhj9ekgoMj4"
       },
       "artists": [
         {
-          "name": "DESIREE",
-          "url": "https://open.spotify.com/artist/6TZbLCcOCv1DJvN28x3FBa"
+          "name": "Bonfante",
+          "url": "https://open.spotify.com/artist/0hKk2DCpmmWR348mAcRe0p"
         }
       ],
-      "duration_ms": 377225,
-      "name": "Psilocybin",
-      "url": "https://open.spotify.com/track/5cdZZrSBhorr0BZBGFUfIy"
+      "duration_ms": 435918,
+      "name": "Aldeapolis",
+      "url": "https://open.spotify.com/track/6pjKhulIJlSoTwrr7FpMw1"
     }
   ],
   "unique_name": "Deep House Blend",

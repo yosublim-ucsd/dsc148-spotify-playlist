@@ -1,12 +1,12 @@
 {
   "description": "Nada que un buen danz\u00f3n no pueda curar. ",
-  "num_followers": 13487,
+  "num_followers": 13513,
   "original_name": "Danz\u00f3n",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2NGNhMDY1ZGM5NWUyM2YwZGRmN2QyNjRiNTMzNDk1NmI0YzkxZjkw",
+  "snapshot_id": "MCxmMDgzZGI0NWZiNjNkZjIzZjUzZDY4OTIwNGUxN2I4ODhlYjM4MDdj",
   "tracks": [
     {
       "added_at": "2022-08-02 23:28:22",
@@ -415,6 +415,22 @@
     {
       "added_at": "2022-08-02 23:28:22",
       "album": {
+        "name": "Dios Mio Amparame",
+        "url": "https://open.spotify.com/album/6thL8AWh901D4ACVXuNB6A"
+      },
+      "artists": [
+        {
+          "name": "Danzonera La Playa",
+          "url": "https://open.spotify.com/artist/2ABK8pjegUNO3sW2ZXq2X2"
+        }
+      ],
+      "duration_ms": 287360,
+      "name": "La Antigua",
+      "url": "https://open.spotify.com/track/03Mn7cdbPJMiv16jcaK0lQ"
+    },
+    {
+      "added_at": "2022-08-02 23:28:22",
+      "album": {
         "name": "Danzon Cubano, Vol. I",
         "url": "https://open.spotify.com/album/5DRDkmsYbw7aQ9P4CWfOCa"
       },
@@ -443,22 +459,6 @@
       "duration_ms": 158493,
       "name": "Cerezo Rosa",
       "url": "https://open.spotify.com/track/4jQ4EzE3W26jD5lU2YleHD"
-    },
-    {
-      "added_at": "2022-08-02 23:28:22",
-      "album": {
-        "name": "Dios Mio Amparame",
-        "url": "https://open.spotify.com/album/6thL8AWh901D4ACVXuNB6A"
-      },
-      "artists": [
-        {
-          "name": "Danzonera La Playa",
-          "url": "https://open.spotify.com/artist/2ABK8pjegUNO3sW2ZXq2X2"
-        }
-      ],
-      "duration_ms": 287360,
-      "name": "La Antigua",
-      "url": "https://open.spotify.com/track/03Mn7cdbPJMiv16jcaK0lQ"
     },
     {
       "added_at": "2022-08-02 23:28:22",
@@ -563,18 +563,18 @@
     {
       "added_at": "2022-08-02 23:28:22",
       "album": {
-        "name": "Aut\u00e9ntico Danz\u00f3n",
-        "url": "https://open.spotify.com/album/1UNE8jXyivdeLYRGmUZbJL"
+        "name": "55 A\u00f1os En El Danzon",
+        "url": "https://open.spotify.com/album/69b6rtmaL5v3B3s6UznGMJ"
       },
       "artists": [
         {
-          "name": "La Danzonera Joven De M\u00e9xico Del \"Chamaco Aguilar\"",
-          "url": "https://open.spotify.com/artist/1EWJ5nqFNqSOw5TmyG1y8W"
+          "name": "Danzonera La Playa",
+          "url": "https://open.spotify.com/artist/2ABK8pjegUNO3sW2ZXq2X2"
         }
       ],
-      "duration_ms": 238147,
-      "name": "Aires del Sur",
-      "url": "https://open.spotify.com/track/2BFWTOxN5GpbaLb9lH4zkp"
+      "duration_ms": 341720,
+      "name": "Mi Consuelo Es Amarte",
+      "url": "https://open.spotify.com/track/0ffVXZsBEORJTRMI8VC2Yc"
     },
     {
       "added_at": "2022-08-02 23:28:22",
@@ -595,18 +595,18 @@
     {
       "added_at": "2022-08-02 23:28:22",
       "album": {
-        "name": "55 A\u00f1os En El Danzon",
-        "url": "https://open.spotify.com/album/69b6rtmaL5v3B3s6UznGMJ"
+        "name": "Aut\u00e9ntico Danz\u00f3n",
+        "url": "https://open.spotify.com/album/1UNE8jXyivdeLYRGmUZbJL"
       },
       "artists": [
         {
-          "name": "Danzonera La Playa",
-          "url": "https://open.spotify.com/artist/2ABK8pjegUNO3sW2ZXq2X2"
+          "name": "La Danzonera Joven De M\u00e9xico Del \"Chamaco Aguilar\"",
+          "url": "https://open.spotify.com/artist/1EWJ5nqFNqSOw5TmyG1y8W"
         }
       ],
-      "duration_ms": 341720,
-      "name": "Mi Consuelo Es Amarte",
-      "url": "https://open.spotify.com/track/0ffVXZsBEORJTRMI8VC2Yc"
+      "duration_ms": 238147,
+      "name": "Aires del Sur",
+      "url": "https://open.spotify.com/track/2BFWTOxN5GpbaLb9lH4zkp"
     },
     {
       "added_at": "2022-08-02 23:28:22",

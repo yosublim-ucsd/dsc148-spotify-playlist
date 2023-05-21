@@ -4,7 +4,7 @@
 
 > The easy listening sound of Jazz\. Cover: Norah Jones
 
-221 songs - 14 hr 9 min
+222 songs - 14 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -95,7 +95,7 @@
 | [I'm Gonna Sit Right Down And Write Myself A Letter](https://open.spotify.com/track/5gZeO99hPC7esm5oOqIllA) | [Paul McCartney](https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB) | [Kisses On The Bottom](https://open.spotify.com/album/0qEe6hPN9ybmHeLC5Y228X) | 2:35 | 2021-12-21 | 2022-07-29 |
 | [I'm In The Mood For Love](https://open.spotify.com/track/7s5Xd6BLaZfkr6C3tgR4Ow) | [Rod Stewart](https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT) | [The Complete Great American Songbook](https://open.spotify.com/album/3xUOObdRU9f2wblHafYx0j) | 3:06 | 2021-12-21 |  |
 | [I'm the Sky, I'm the Earth](https://open.spotify.com/track/1Z1Smvor04ZbmXWzEjhKoT) | [Deniz Taşar](https://open.spotify.com/artist/2Z7riPm17MlJxHaIFnQwP6), [Halil Çağlar Serin](https://open.spotify.com/artist/7kxam8m0RJa1CvcEm7ufmd) | [I'm the Sky, I'm the Earth](https://open.spotify.com/album/2QwPH97GI2FZtSIde5XYtq) | 2:55 | 2022-05-31 | 2022-12-04 |
-| [I've Drawn Your Face](https://open.spotify.com/track/3YNPJrSGsLw0MmJ0IEFySz) | [Rachael & Vilray](https://open.spotify.com/artist/3UHyuBA5qay3xcxFr3Z1Y9) | [I Love A Love Song!](https://open.spotify.com/album/0j551HTufOYW6EJ9CQwNrD) | 3:41 | 2023-05-18 |  |
+| [I've Drawn Your Face](https://open.spotify.com/track/3YNPJrSGsLw0MmJ0IEFySz) | [Rachael & Vilray](https://open.spotify.com/artist/3UHyuBA5qay3xcxFr3Z1Y9) | [I Love A Love Song!](https://open.spotify.com/album/0j551HTufOYW6EJ9CQwNrD) | 3:41 | 2023-05-18 | 2023-05-21 |
 | [I've Got A Crush On You](https://open.spotify.com/track/2ujJJsaTQ78ReHWY9Nnwh1) | [Stacey Kent](https://open.spotify.com/artist/03EYBMnqSchCMp5D9qmFXi), [Colin Oxley](https://open.spotify.com/artist/6Qs92KB5NHAzQ3NsLfZ6qs), [David Newton](https://open.spotify.com/artist/3ecO9MnClCeQeRCPLzAEgy), [Jasper Kviberg](https://open.spotify.com/artist/7HLQsg7VWG5Xmx9dwrbWBy), [Jim Tomlinson](https://open.spotify.com/artist/5L3fIRSYQCR3EJwQICfyRq), [Simon Thorpe](https://open.spotify.com/artist/73R87wFxKX8jZu9zdfFSmm) | [Dreamsville](https://open.spotify.com/album/3wbSnWt0hXtrYn2Yiwi4Xq) | 4:43 | 2022-09-08 | 2022-09-30 |
 | [I've Got You Under My Skin](https://open.spotify.com/track/0YtdBOitNPB7oYgLvm2z8g) | [Matt Dusk](https://open.spotify.com/artist/1UbA3tvm40VqUsiFlJaPCs) | [I've Got You Under My Skin](https://open.spotify.com/album/4ygkbddQCe8tUTaaRdpppP) | 3:29 | 2021-12-21 |  |
 | [I've Never Been In Love Before](https://open.spotify.com/track/4IqrPu63viykyz34gUYKAx) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Everything I Know About Love](https://open.spotify.com/album/0Ydm84ftyiWRGOIFkdl30L) | 3:42 | 2022-10-27 |  |
@@ -174,6 +174,7 @@
 | [SOMETHIN' \(feat\. Ego Ella May\)](https://open.spotify.com/track/5Uq45pwM3VHj9PeWDyjWLR) | [Theo Croker](https://open.spotify.com/artist/7iUF39q93Xixo33E6IvNYm), [Ego Ella May](https://open.spotify.com/artist/7ANeFdhioipksT9lqg0Ay6) | [LOVE QUANTUM](https://open.spotify.com/album/0PdocBlAIGi3jougS8fNiB) | 3:10 | 2022-07-14 | 2022-09-07 |
 | [SOMETHIN' \(feat\. Ego Ella May\)](https://open.spotify.com/track/7uKjeD7TdjUQLgjyYO2leP) | [Theo Croker](https://open.spotify.com/artist/7iUF39q93Xixo33E6IvNYm), [Ego Ella May](https://open.spotify.com/artist/7ANeFdhioipksT9lqg0Ay6) | [SOMETHIN' \(feat\. Ego Ella May\)](https://open.spotify.com/album/3oX8Sb6OrZxhELPcsk30UW) | 3:10 | 2022-05-31 | 2022-07-29 |
 | [Somethin' Stupid](https://open.spotify.com/track/4kSKacywUJHdhyst4PL6pl) | [Robbie Williams](https://open.spotify.com/artist/2HcwFjNelS49kFbfvMxQYw), [Nicole Kidman](https://open.spotify.com/artist/0ExYzTb7raTAfsXPtiI5vq) | [Swing When You're Winning](https://open.spotify.com/album/3eWoVPAUtBO8JpwOkWpvnw) | 2:50 | 2021-12-21 | 2022-03-16 |
+| [Sometimes Today Seems Like Yesterday](https://open.spotify.com/track/4suPwKFZtB6ztKoTzppeYR) | [Samara Joy](https://open.spotify.com/artist/5LkbTSqXfMBjFSGi9LOGjq) | [Linger Awhile \(Deluxe Edition\)](https://open.spotify.com/album/1kQH5ZtEqzJ5GxyTtfHKE3) | 3:03 | 2023-05-18 |  |
 | [Stars Fell On Alabama](https://open.spotify.com/track/3q634ZiAdA9bcg135bdJxo) | [Lizz Wright](https://open.spotify.com/artist/3K0BfjMh2dS8WITuiMuGGW) | [Grace](https://open.spotify.com/album/2U1zLHhEmPFEOoZTezdXQg) | 3:52 | 2021-12-21 |  |
 | [Summer Wind](https://open.spotify.com/track/7r03ij7i1V46ipmA4Su4Vx) | [Matt Dusk](https://open.spotify.com/artist/1UbA3tvm40VqUsiFlJaPCs) | [Summer Wind](https://open.spotify.com/album/6uE5kO9jjcNcomi2idoBSf) | 2:41 | 2021-12-21 |  |
 | [Sunny](https://open.spotify.com/track/4VHm7ABduF0wRhmoGIOXHJ) | [Laura Fygi](https://open.spotify.com/artist/5ETqbIZYRoPMQbly4iVfuB) | [Jazz Love](https://open.spotify.com/album/2XDDmdrutCzZRwxpkoJBLq) | 3:56 | 2021-12-21 |  |

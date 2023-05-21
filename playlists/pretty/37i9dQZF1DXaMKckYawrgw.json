@@ -1,12 +1,12 @@
 {
   "description": "Ska 100% hecho en M\u00e9xico con chilito del que pica. La Tremenda Korte en portada. ",
-  "num_followers": 8121,
+  "num_followers": 8141,
   "original_name": "MexSka ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0YTZmZmQ3NGY5ZTJlMGY1ZTA2NWUwMGJhNzBiZTNmMGQxZDJmMGM1",
+  "snapshot_id": "MCw0MTFhZTk4MGYxYWY2ZWE3MTRlNmMzNjU4NzdkMmFkNTliYmY4YzI3",
   "tracks": [
     {
       "added_at": "2023-05-19 06:00:00",
@@ -1011,22 +1011,6 @@
     {
       "added_at": "2023-05-19 06:00:00",
       "album": {
-        "name": "Tu nombre",
-        "url": "https://open.spotify.com/album/2cpA3RmZc8srL9hXtrrPvO"
-      },
-      "artists": [
-        {
-          "name": "Gallo Rojo",
-          "url": "https://open.spotify.com/artist/5snI6175hjbf6Du8Z2E5Mk"
-        }
-      ],
-      "duration_ms": 173335,
-      "name": "Tu nombre",
-      "url": "https://open.spotify.com/track/2V2mt0TwlE1LHFvWv5QiAt"
-    },
-    {
-      "added_at": "2023-05-19 06:00:00",
-      "album": {
         "name": "Entre Marzo Y Abril",
         "url": "https://open.spotify.com/album/5Pj2lJ790IKbuxXCFRan3h"
       },
@@ -1039,6 +1023,22 @@
       "duration_ms": 197869,
       "name": "Me Amborracho",
       "url": "https://open.spotify.com/track/7akA6GnMQrTGrnUHWokYG7"
+    },
+    {
+      "added_at": "2023-05-19 06:00:00",
+      "album": {
+        "name": "Tu nombre",
+        "url": "https://open.spotify.com/album/2cpA3RmZc8srL9hXtrrPvO"
+      },
+      "artists": [
+        {
+          "name": "Gallo Rojo",
+          "url": "https://open.spotify.com/artist/5snI6175hjbf6Du8Z2E5Mk"
+        }
+      ],
+      "duration_ms": 173335,
+      "name": "Tu nombre",
+      "url": "https://open.spotify.com/track/2V2mt0TwlE1LHFvWv5QiAt"
     },
     {
       "added_at": "2023-05-19 06:00:00",
@@ -1307,22 +1307,6 @@
     {
       "added_at": "2023-05-19 06:00:00",
       "album": {
-        "name": "Frente al Mar",
-        "url": "https://open.spotify.com/album/5mo377nus6GhMWCoPMhi7n"
-      },
-      "artists": [
-        {
-          "name": "Girls Go Ska",
-          "url": "https://open.spotify.com/artist/0jLRSH7uzp7DAbl3vfBhjo"
-        }
-      ],
-      "duration_ms": 304172,
-      "name": "Felicidad",
-      "url": "https://open.spotify.com/track/4nO5Ljx7tRrYqC6t3BGRhg"
-    },
-    {
-      "added_at": "2023-05-19 06:00:00",
-      "album": {
         "name": "Ska, Vol. 2",
         "url": "https://open.spotify.com/album/7GrWjBPVOAzYFdFFwHRAvZ"
       },
@@ -1335,6 +1319,22 @@
       "duration_ms": 157675,
       "name": "Estambul Ska",
       "url": "https://open.spotify.com/track/6DPAbdD7Wik0WxdpIwQRmH"
+    },
+    {
+      "added_at": "2023-05-19 06:00:00",
+      "album": {
+        "name": "Frente al Mar",
+        "url": "https://open.spotify.com/album/5mo377nus6GhMWCoPMhi7n"
+      },
+      "artists": [
+        {
+          "name": "Girls Go Ska",
+          "url": "https://open.spotify.com/artist/0jLRSH7uzp7DAbl3vfBhjo"
+        }
+      ],
+      "duration_ms": 304172,
+      "name": "Felicidad",
+      "url": "https://open.spotify.com/track/4nO5Ljx7tRrYqC6t3BGRhg"
     },
     {
       "added_at": "2023-05-19 06:00:00",
@@ -1387,18 +1387,18 @@
     {
       "added_at": "2023-05-19 06:00:00",
       "album": {
-        "name": "Ciao",
-        "url": "https://open.spotify.com/album/6yQCx1G68XrLOIQkHBXlce"
+        "name": "Jamaica Ska",
+        "url": "https://open.spotify.com/album/6DDi0g2UP6IYKTY8xyT2Xq"
       },
       "artists": [
         {
-          "name": "Girls Go Ska",
-          "url": "https://open.spotify.com/artist/0jLRSH7uzp7DAbl3vfBhjo"
+          "name": "To\u00f1o Quirazco",
+          "url": "https://open.spotify.com/artist/2uu3Ci708BPlF2oXSCeSeo"
         }
       ],
-      "duration_ms": 263000,
-      "name": "Ciao",
-      "url": "https://open.spotify.com/track/136wILyBKYq1Su7fXQQJNH"
+      "duration_ms": 153861,
+      "name": "M\u00e9rida Ska",
+      "url": "https://open.spotify.com/track/5watJHxDxO5RLv7ye4HHXy"
     },
     {
       "added_at": "2023-05-19 06:00:00",
@@ -1451,18 +1451,18 @@
     {
       "added_at": "2023-05-19 06:00:00",
       "album": {
-        "name": "Jamaica Ska",
-        "url": "https://open.spotify.com/album/6DDi0g2UP6IYKTY8xyT2Xq"
+        "name": "Ciao",
+        "url": "https://open.spotify.com/album/6yQCx1G68XrLOIQkHBXlce"
       },
       "artists": [
         {
-          "name": "To\u00f1o Quirazco",
-          "url": "https://open.spotify.com/artist/2uu3Ci708BPlF2oXSCeSeo"
+          "name": "Girls Go Ska",
+          "url": "https://open.spotify.com/artist/0jLRSH7uzp7DAbl3vfBhjo"
         }
       ],
-      "duration_ms": 153861,
-      "name": "M\u00e9rida Ska",
-      "url": "https://open.spotify.com/track/5watJHxDxO5RLv7ye4HHXy"
+      "duration_ms": 263000,
+      "name": "Ciao",
+      "url": "https://open.spotify.com/track/136wILyBKYq1Su7fXQQJNH"
     },
     {
       "added_at": "2023-05-19 06:00:00",

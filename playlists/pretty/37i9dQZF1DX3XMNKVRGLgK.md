@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3XMNKVRGLgK.md) - [plain]
 
 > Sophisticated palates only\. Curated by: <a href="https://www.instagram.com/nigelsylvester/">Nigel Sylvester</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,225 likes - 30 songs - 1 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,284 likes - 30 songs - 1 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3XMNKVRGLgK.md) - [plain]
 | 25 | [I'm Ready](https://open.spotify.com/track/1Z5kIJ1ZKzVFSJXG1Y5zFb) | [The Diplomats](https://open.spotify.com/artist/0P8YNJXX7QeQ8iZIUCXJgi) | [Diplomatic Immunity](https://open.spotify.com/album/4AB5weCwrj4BOAYXRsAixk) | 4:41 |
 | 26 | [Mo Money Mo Murder \(Homicide\)](https://open.spotify.com/track/62YPBeWVcD1FDWo7yTBXix) | [AZ](https://open.spotify.com/artist/7HqrSDuI9lHuH1CDismTFg) | [Doe Or Die](https://open.spotify.com/album/4wPNy4oz3tDjY3OEeHiOVq) | 6:32 |
 | 27 | [Championships](https://open.spotify.com/track/5DTOk0tCrmicVQP4mc6hkr) | [Meek Mill](https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc) | [Championships](https://open.spotify.com/album/6UYZEYjpN1DYRW0kqFy9ZE) | 4:21 |
-| 28 | [4 Da Fam \(feat\. Beanie Sigel, Memphis Bleek & Jay\-Z\) \- Explicit Album Version](https://open.spotify.com/track/2NUcXeWIVFKcKrjgfUHDRG) | [Amil](https://open.spotify.com/artist/6NzM38IkXdbQsQ4qW9CG7z), [Beanie Sigel](https://open.spotify.com/artist/0tCtGc5vt29zFZp6KXzN50), [Memphis Bleek](https://open.spotify.com/artist/4jWzNq3sdzSpqn7BnzvIKn), [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB) | [All Money Is Legal](https://open.spotify.com/album/4isanca8rAOurYRLPvKwnS) | 4:20 |
-| 29 | [The Roc \(Just Fire\)](https://open.spotify.com/track/0CuKb9Iy8CLnSGJM5VemIK) | [Cam’ron](https://open.spotify.com/artist/7iMvwE8qANp3aIfAGKEAwS), [Memphis Bleek](https://open.spotify.com/artist/4jWzNq3sdzSpqn7BnzvIKn), [Beanie Sigel](https://open.spotify.com/artist/0tCtGc5vt29zFZp6KXzN50) | [Come Home With Me](https://open.spotify.com/album/1lEkQcVvPwNZmkBIEJPSrv) | 4:24 |
+| 28 | [The Roc \(Just Fire\)](https://open.spotify.com/track/0CuKb9Iy8CLnSGJM5VemIK) | [Cam’ron](https://open.spotify.com/artist/7iMvwE8qANp3aIfAGKEAwS), [Memphis Bleek](https://open.spotify.com/artist/4jWzNq3sdzSpqn7BnzvIKn), [Beanie Sigel](https://open.spotify.com/artist/0tCtGc5vt29zFZp6KXzN50) | [Come Home With Me](https://open.spotify.com/album/1lEkQcVvPwNZmkBIEJPSrv) | 4:24 |
+| 29 | [4 Da Fam \(feat\. Beanie Sigel, Memphis Bleek & Jay\-Z\) \- Explicit Album Version](https://open.spotify.com/track/2NUcXeWIVFKcKrjgfUHDRG) | [Amil](https://open.spotify.com/artist/6NzM38IkXdbQsQ4qW9CG7z), [Beanie Sigel](https://open.spotify.com/artist/0tCtGc5vt29zFZp6KXzN50), [Memphis Bleek](https://open.spotify.com/artist/4jWzNq3sdzSpqn7BnzvIKn), [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB) | [All Money Is Legal](https://open.spotify.com/album/4isanca8rAOurYRLPvKwnS) | 4:20 |
 | 30 | [queens shit.](https://open.spotify.com/track/5fKB3QygGZfzgyapUCTpV9) | [Remy Banks](https://open.spotify.com/artist/37dMe6EquztHIXOFF44iKZ) | [champ hoody music\. ep.1](https://open.spotify.com/album/16wn93pdT8x632qceupGXI) | 1:22 |
 
-Snapshot ID: `MCw4ZGZkNGVkY2FhYTg1NzkzMDlmMjEyMzlmZWNiMTRjODA4NWY4ZjYy`
+Snapshot ID: `MCxkOWUxZDZlM2QwYzg3YWFjOWJhYWQ1NzFkNmQyNDNhZjZiMWViMjlh`

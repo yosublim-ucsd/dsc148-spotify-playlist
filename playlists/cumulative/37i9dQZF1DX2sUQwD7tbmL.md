@@ -4,7 +4,7 @@
 
 > The best indie rock vibes — classic and current.
 
-537 songs - 1 day 6 hr 24 min
+538 songs - 1 day 6 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -341,7 +341,7 @@
 | [New Order T\-Shirt](https://open.spotify.com/track/6bVQ9ygrzZj9B7Z5hLB1bk) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB) | [New Order T\-Shirt](https://open.spotify.com/album/2r3ZTexCYXDSGmTbcNyqmw) | 4:56 | 2023-02-24 | 2023-05-14 |
 | [Next Exit](https://open.spotify.com/track/0xkSfBYxRMTLgrinRJlzfz) | [Vacations](https://open.spotify.com/artist/0U7iI0Dk4Ojvi17nZboNO4) | [Next Exit](https://open.spotify.com/album/4UfayZRNyvNRmayWpf2z7H) | 3:21 | 2023-04-14 |  |
 | [nightmares](https://open.spotify.com/track/2hCOLHDVQhnu0qpLFV4ynj) | [easy life](https://open.spotify.com/artist/7uwY65fDg3FVJ8MkJ5QuZK) | [nightmares](https://open.spotify.com/album/0y6NUCloXhKFoYGZ1m3P96) | 3:27 | 2021-05-01 | 2022-04-14 |
-| [No Going Back](https://open.spotify.com/track/356aM3w6i5v1cltIzOnVTP) | [Yuno](https://open.spotify.com/artist/36BjLtXEXIifbRrfc1Rtqa) | [Moodie](https://open.spotify.com/album/4XMQDHZSKpEg1UReRiMuJC) | 3:28 | 2022-11-07 |  |
+| [No Going Back](https://open.spotify.com/track/356aM3w6i5v1cltIzOnVTP) | [Yuno](https://open.spotify.com/artist/36BjLtXEXIifbRrfc1Rtqa) | [Moodie](https://open.spotify.com/album/4XMQDHZSKpEg1UReRiMuJC) | 3:28 | 2022-11-07 | 2023-05-21 |
 | [No Going Back](https://open.spotify.com/track/4AKN68fSI8weZ1dbN35QLi) | [Yuno](https://open.spotify.com/artist/36BjLtXEXIifbRrfc1Rtqa) | [No Going Back](https://open.spotify.com/album/53n71tD6F4I1afwJtjZCVS) | 3:28 | 2021-05-01 | 2022-07-29 |
 | [No Time to Explain](https://open.spotify.com/track/3LQY0O87BlaOKMp56ST4hC) | [Good Kid](https://open.spotify.com/artist/38SKxCyfrmNWqWunb9wGHP) | [No Time to Explain](https://open.spotify.com/album/5wqULj0mJVw6VDfpOXRMPS) | 2:36 | 2022-10-07 |  |
 | [Nobody](https://open.spotify.com/track/2P5yIMu2DNeMXTyOANKS6k) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Be the Cowboy](https://open.spotify.com/album/42cH7mrkfljkqkxA2Ip9Xq) | 3:13 | 2022-07-22 | 2022-08-30 |
@@ -355,8 +355,8 @@
 | [nrvs again](https://open.spotify.com/track/4WugVoKEajXnwN3JjqmUdC) | [dad sports](https://open.spotify.com/artist/62iEYJuqOpo6M5UAu4aw3U) | [nrvs again](https://open.spotify.com/album/4vaILOzSe7nAFfwzMho1Wq) | 3:38 | 2021-05-01 | 2022-04-13 |
 | [Octopus](https://open.spotify.com/track/5YOOWsO48mJ1yQEaPrMyAl) | [ISLAND](https://open.spotify.com/artist/1UqvcbBmsHw8rjIZe1WiZl) | [Octopus](https://open.spotify.com/album/5WkOnwih11HOBcxljyvng7) | 2:28 | 2021-05-01 | 2022-04-13 |
 | [Ode to a Conversation Stuck in Your Throat](https://open.spotify.com/track/3vJPG94q3WlwK16IkMYDIL) | [Del Water Gap](https://open.spotify.com/artist/0xPoVNPnxIIUS1vrxAYV00) | [Ode to a Conversation Stuck in Your Throat](https://open.spotify.com/album/38XraG52zhCti9X5Tpjvsl) | 3:18 | 2021-05-01 | 2022-07-29 |
-| [Ode to a Conversation Stuck in Your Throat](https://open.spotify.com/track/6JwkAGwClwUzcOi0ZBbSLe) | [Del Water Gap](https://open.spotify.com/artist/0xPoVNPnxIIUS1vrxAYV00) | [Ode to a Conversation Stuck in Your Throat](https://open.spotify.com/album/5e8S6KvNbnZBbNzaL2YcLJ) | 3:18 | 2023-04-21 |  |
-| [Ode to a Conversation Stuck in Your Throat](https://open.spotify.com/track/51Lf3l6wx008NdBxCQnD6B) | [Del Water Gap](https://open.spotify.com/artist/0xPoVNPnxIIUS1vrxAYV00) | [Del Water Gap](https://open.spotify.com/album/22ljnmjYzy4TS5tCtaRIUE) | 3:19 | 2022-07-22 | 2023-04-15 |
+| [Ode to a Conversation Stuck in Your Throat](https://open.spotify.com/track/6JwkAGwClwUzcOi0ZBbSLe) | [Del Water Gap](https://open.spotify.com/artist/0xPoVNPnxIIUS1vrxAYV00) | [Ode to a Conversation Stuck in Your Throat](https://open.spotify.com/album/5e8S6KvNbnZBbNzaL2YcLJ) | 3:18 | 2023-04-21 | 2023-05-21 |
+| [Ode to a Conversation Stuck in Your Throat](https://open.spotify.com/track/51Lf3l6wx008NdBxCQnD6B) | [Del Water Gap](https://open.spotify.com/artist/0xPoVNPnxIIUS1vrxAYV00) | [Del Water Gap](https://open.spotify.com/album/22ljnmjYzy4TS5tCtaRIUE) | 3:19 | 2022-07-22 |  |
 | [oh GOD](https://open.spotify.com/track/78x4xRisFJS0eniXD3rIhk) | [Orla Gartland](https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co) | [Freckle Season](https://open.spotify.com/album/4efTt6CQruNynQymtG3Iz5) | 2:47 | 2021-05-01 | 2022-05-10 |
 | [Oh Honey](https://open.spotify.com/track/3r4aPvKfp7Jp2exI5B1MPB) | [Neighbor Lady](https://open.spotify.com/artist/5a6aoCNPAYj5AE6RbenOB6) | [Maybe Later](https://open.spotify.com/album/0c3Ebyzj1JeS12oOryXz3I) | 3:30 | 2021-05-01 | 2021-12-29 |
 | [Older](https://open.spotify.com/track/0bkNJm3BcQyHpytMI7a3TX) | [Parcels](https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA) | [Older](https://open.spotify.com/album/1W9LBC7i9su2Q5ioA1jf7f) | 3:27 | 2021-05-01 | 2022-04-14 |
@@ -477,6 +477,7 @@
 | [The Hardest Part \[Feat\. Tennis\]](https://open.spotify.com/track/3HgSzOf6AyAm0QzWNTnpqP) | [Overcoats](https://open.spotify.com/artist/2pst3pDewxsl4kJERuDZpp), [Tennis](https://open.spotify.com/artist/1ybAN3utgdoUL1MUCtH4QM) | [The Hardest Part \[Feat\. Tennis\]](https://open.spotify.com/album/25GQ0clAh8SAGvqA92Yjry) | 3:42 | 2021-05-01 | 2022-04-14 |
 | [The Kiss Of Venus \(Dominic Fike\)](https://open.spotify.com/track/3gCYle76USfbHa7VDTDg5V) | [Paul McCartney](https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB), [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [The Kiss Of Venus \(Dominic Fike\)](https://open.spotify.com/album/2GtO6b1fzw82cCdbp4CGQv) | 2:23 | 2021-05-01 |  |
 | [The Less I Know The Better](https://open.spotify.com/track/6K4t31amVTZDgR3sKmwUJJ) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Currents](https://open.spotify.com/album/79dL7FLiJFOO0EoehUHQBv) | 3:36 | 2021-06-04 |  |
+| [The Narcissist](https://open.spotify.com/track/35d93v9AXADp8Wc0qJ3mIo) | [Blur](https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS) | [The Narcissist](https://open.spotify.com/album/2BfpnbY3M0oc9NyW87NKGz) | 4:05 | 2023-05-19 |  |
 | [THE SHADE](https://open.spotify.com/track/1gH1h30wkQdd9zhY3j7a8T) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [WHO CARES?](https://open.spotify.com/album/2yI4m5Yu2tl8v0It5P9WVz) | 3:01 | 2022-04-13 |  |
 | [The Summer](https://open.spotify.com/track/3O2bW6OI1jo3l2DhHfEffP) | [Freedom Fry](https://open.spotify.com/artist/195hFqaTDENqLCcG8uGtM7) | [The Summer](https://open.spotify.com/album/7qBHuHCWS1A6eLXupHao0z) | 3:36 | 2021-05-01 | 2022-04-14 |
 | [The Sun](https://open.spotify.com/track/5UEZzRsrB4FKw1SIMoMD2y) | [Myd](https://open.spotify.com/artist/3QFiymmbJlVBPpnrOatEAk) | [Born a Loser](https://open.spotify.com/album/6OQjfXsIharHjMAMbGYGNd) | 3:27 | 2022-07-22 |  |

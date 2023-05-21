@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 
 > Äntligen fredag och ny musik! Happy New Music Friday!
 
-[Spotify](https://open.spotify.com/user/spotify) - 197,270 likes - 117 songs - 6 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 197,309 likes - 117 songs - 6 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,7 +99,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 | 89 | [Sunshine Baby](https://open.spotify.com/track/3vYv97XoLzoVhOhGCfs0lF) | [The Japanese House](https://open.spotify.com/artist/3IunaFjvNKj98JW89JYv9u) | [Sunshine Baby](https://open.spotify.com/album/2ibWUZ1bIkVbwqCUV7ULtI) | 3:39 |
 | 90 | [Glacier Meadow](https://open.spotify.com/track/5qFRcVehrKf96Foul25ZV0) | [Cavetown](https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8), [Field Medic](https://open.spotify.com/artist/4wMfqR1EZagrSlYndItxGQ) | [Glacier Meadow](https://open.spotify.com/album/49dacIWVwfmiXGJ51AaBGD) | 2:46 |
 | 91 | [SUEDE](https://open.spotify.com/track/1sQsyk9XZ5iXVTKpzyxZEq) | [Fridlyst](https://open.spotify.com/artist/3JNEVqwIPrDatUMQ2qigvt), [Philly](https://open.spotify.com/artist/1NCPSuEn4tCtPesgOnqSQN), [Shanti Blanco](https://open.spotify.com/artist/7ddwT1YBsclpDNyh1uFLwu) | [SUEDE/BRANDEN](https://open.spotify.com/album/5CDg3NzILhLJYjNO9S3zpI) | 2:31 |
-| 92 | [Spinnin' \(feat\. EST Gee\)](https://open.spotify.com/track/1jBSRWaJIQ0AaF0UQ91IbG) | [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7), [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [Spinnin' \(feat\. EST Gee / FAST X Soundtrack\)](https://open.spotify.com/album/5YjvUivNXjwSZFFKa4ffbb) | 2:47 |
+| 92 | [Spinnin' \(feat\. EST Gee\)](https://open.spotify.com/track/15rAPSEAcdP4wE8jBkicV6) | [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7), [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [FAST X \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4jgT0TBoRBPW2bSNXbjN0s) | 2:47 |
 | 93 | [PONDUS](https://open.spotify.com/track/2SwZWiSUf4k1fvbJGxWj8b) | [Marti](https://open.spotify.com/artist/031ZXIjZuiaU6ESOFNpGkm) | [PONDUS](https://open.spotify.com/album/4KGjExWCw6y5Geugyc5Fuy) | 2:33 |
 | 94 | [SYSTER](https://open.spotify.com/track/3g3WeK7Df9vBrNsmqueLGb) | [INGA\-BELL](https://open.spotify.com/artist/3JHG9IX0gaqigpBcq65Rrn) | [SYSTER](https://open.spotify.com/album/0oVhS2pU10xDUsRfGYFg8E) | 2:58 |
 | 95 | [In The End](https://open.spotify.com/track/54Qo6214yALcZttfEfJVcN) | [Honey.](https://open.spotify.com/artist/2Rki2mP8GPq0ZTeHqSbcMN) | [In The End](https://open.spotify.com/album/0cQckAWzAFjHDATOXhivWo) | 3:19 |
@@ -126,4 +126,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 | 116 | [It Only Cost Everything](https://open.spotify.com/track/563mYWqUDLRkdguuPd8erQ) | [Victor Ray](https://open.spotify.com/artist/3vABvmPywI2fV90bnpkpsJ) | [It Only Cost Everything](https://open.spotify.com/album/3TkwUcPeKBeplsnWWxIMVS) | 2:28 |
 | 117 | [Pour Some Sugar On Me](https://open.spotify.com/track/0VdBxLmYD7dN7SOZZ4TEoO) | [Def Leppard](https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ), [Royal Philharmonic Orchestra](https://open.spotify.com/artist/0MvSBMGRQJY3mRwIbJsqF1), [Robert Ziegler](https://open.spotify.com/artist/6c3mMiMnHQtu4mGWN87CFx), [Ian Maclay](https://open.spotify.com/artist/345GATJZugQUwdn8rbsKCS) | [Drastic Symphonies](https://open.spotify.com/album/3PDLbK0bOItRcERH1ScztR) | 5:26 |
 
-Snapshot ID: `MCwzMzM1MDU3ZDQ4NDhmNDMzNjQzNDY3MmE3YmMxYmU3NWVjYWNiZTYw`
+Snapshot ID: `MCxjYWViNWUwZDU3YTU3ZDg0Yjk4NGNlNTYyY2Q4MzJhMjg0YzBiMDI1`

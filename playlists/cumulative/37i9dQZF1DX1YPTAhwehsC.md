@@ -4,7 +4,7 @@
 
 > Up and down I\-95\. Cover: Ice Spice
 
-663 songs - 1 day 6 hr 17 min
+664 songs - 1 day 6 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -159,7 +159,8 @@
 | [Don't Play With It \(feat\. Billy B\)](https://open.spotify.com/track/6aGpM4DXts4pdRhVKbRYuk) | [Lola Brooke](https://open.spotify.com/artist/2Ggj5XNlIb4Lnbqe307FyB), [Billy B](https://open.spotify.com/artist/3P2dL1jA3FykjGry2EcZEf) | [Don't Play With It \(feat\. Billy B\)](https://open.spotify.com/album/00WvhKa7aS4GRBHsRy2vRS) | 2:11 | 2022-10-07 | 2023-03-25 |
 | [Don't Play With It \(feat\. Latto & Yung Miami\) \- Remix](https://open.spotify.com/track/7rl489EKnUgITmkBd6P9zi) | [Lola Brooke](https://open.spotify.com/artist/2Ggj5XNlIb4Lnbqe307FyB), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ), [Yung Miami](https://open.spotify.com/artist/5lbW0rNhFyCiSlClBMYbki) | [Don't Play With It \(feat\. Latto & Yung Miami\) \[Remix\]](https://open.spotify.com/album/6sNVQhQKsiqqxybu2qjpLC) | 2:59 | 2023-03-24 |  |
 | [don't play with my money \(feat\. Tobe Nwigwe\)](https://open.spotify.com/track/35keKCE6mIlRsBm7Y6Cmer) | [KAMAUU](https://open.spotify.com/artist/3IAQ6JspwRCPY06WXnaguc), [Tobe Nwigwe](https://open.spotify.com/artist/3Qh89pgJeZq6d8uM1bTot3) | [LACUNA in The House Of Mirrors](https://open.spotify.com/album/4IyPe1mOrGKzLY43M59xrn) | 2:59 | 2023-04-28 |  |
-| [Don't Text Don't Call](https://open.spotify.com/track/4hFftR3EiLvMvh8hvS6nKn) | [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [Don't Text Don't Call](https://open.spotify.com/album/1rAWTywOSeej6kpubeqIY7) | 3:55 | 2023-03-03 |  |
+| [Don't Text Don't Call](https://open.spotify.com/track/4hFftR3EiLvMvh8hvS6nKn) | [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [Don't Text Don't Call](https://open.spotify.com/album/1rAWTywOSeej6kpubeqIY7) | 3:55 | 2023-03-03 | 2023-05-21 |
+| [Don't Text Don't Call \(feat\. Snoop Dogg\)](https://open.spotify.com/track/1JBLJThaI8h99wgfeH6qQL) | [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [Don't Text Don't Call \(feat\. Snoop Dogg\)](https://open.spotify.com/album/6j8bA1BklsGI0sxhrq3Q2Y) | 3:55 | 2023-03-03 |  |
 | [Don't Vibe And Tell](https://open.spotify.com/track/0FUyWvKSofJRmkTWvwzf5b) | [Red Cafe](https://open.spotify.com/artist/4BWn7qje7L2bGp79bupn3B), [Capella Grey](https://open.spotify.com/artist/59HbaJ5E8ud7FNLGqUN1KH), [Fabolous](https://open.spotify.com/artist/0YWxKQj2Go9CGHCp77UOyy) | [Don't Vibe And Tell](https://open.spotify.com/album/2YaGost3VtdfgYlTXAyg4v) | 2:26 | 2023-04-21 |  |
 | [Don’t Know How to Act](https://open.spotify.com/track/5T6W3m9DxbtFQa5XQ1YdvY) | [Bizzy Banks](https://open.spotify.com/artist/7s3eCGNZMrwUQraXlocCBv) | [Don’t Know How to Act](https://open.spotify.com/album/3x7KJhTpePcXWU5TPMusWu) | 2:00 | 2022-05-06 | 2022-06-04 |
 | [DOOR](https://open.spotify.com/track/1C9kOPsdU2y77BtMCxTtr1) | [Ron Suno](https://open.spotify.com/artist/3A63dHvKuavknOcvWVgZA9) | [DOOR](https://open.spotify.com/album/1jgYVz8SOYZVmDPwhokSRl) | 2:08 | 2023-01-20 | 2023-03-04 |

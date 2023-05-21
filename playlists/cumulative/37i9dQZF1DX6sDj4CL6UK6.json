@@ -267,6 +267,24 @@
     },
     {
       "album": {
+        "name": "away.",
+        "url": "https://open.spotify.com/album/1wITTkeUkrbiseKv0eVGec"
+      },
+      "artists": [
+        {
+          "name": "lost spaces",
+          "url": "https://open.spotify.com/artist/387YZVajWRq3ZPiCxiX07b"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205932,
+      "name": "away.",
+      "url": "https://open.spotify.com/track/6CbW8W2qUm29j8cuqjO8qF"
+    },
+    {
+      "album": {
         "name": "Bad for Me",
         "url": "https://open.spotify.com/album/6I3uThRU2DxXUG7HlQJn2a"
       },
@@ -2516,7 +2534,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-21",
       "duration_ms": 225216,
       "name": "Peace Lily",
       "url": "https://open.spotify.com/track/3J6IUkgWkqlORllGp9duP2"

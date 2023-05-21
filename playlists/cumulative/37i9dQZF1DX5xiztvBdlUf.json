@@ -67,6 +67,24 @@
     },
     {
       "album": {
+        "name": "Aldeapolis",
+        "url": "https://open.spotify.com/album/5y6AcHHPILKmhj9ekgoMj4"
+      },
+      "artists": [
+        {
+          "name": "Bonfante",
+          "url": "https://open.spotify.com/artist/0hKk2DCpmmWR348mAcRe0p"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 435918,
+      "name": "Aldeapolis",
+      "url": "https://open.spotify.com/track/6pjKhulIJlSoTwrr7FpMw1"
+    },
+    {
+      "album": {
         "name": "Alkebulan Remix",
         "url": "https://open.spotify.com/album/2JoZyLBoWtjzNLJKsXNoVs"
       },
@@ -4626,7 +4644,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-21",
       "duration_ms": 377225,
       "name": "Psilocybin",
       "url": "https://open.spotify.com/track/5cdZZrSBhorr0BZBGFUfIy"

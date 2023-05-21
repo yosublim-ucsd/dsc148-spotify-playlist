@@ -56,7 +56,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-21",
       "duration_ms": 248360,
       "name": "18",
       "url": "https://open.spotify.com/track/3JjnGLK8IxkNLvo8Lb3KOM"
@@ -2174,7 +2174,7 @@
       ],
       "date_added": "2023-05-18",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-20",
+      "date_removed": null,
       "duration_ms": 295533,
       "name": "Fix You",
       "url": "https://open.spotify.com/track/7LVHVU3tWfcxj5aiPFEW4Q"
@@ -6433,6 +6433,24 @@
     },
     {
       "album": {
+        "name": "Levronka",
+        "url": "https://open.spotify.com/album/19iIS7jphCzsXZbTqgZiRG"
+      },
+      "artists": [
+        {
+          "name": "Keisya Levronka",
+          "url": "https://open.spotify.com/artist/4EiSzlOeMnJcp2U8ayCQ3a"
+        }
+      ],
+      "date_added": "2023-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278500,
+      "name": "Tak Ingin Usai",
+      "url": "https://open.spotify.com/track/0OHr74BS1CEwyZsyY9kml2"
+    },
+    {
+      "album": {
         "name": "Tak Ingin Usai",
         "url": "https://open.spotify.com/album/2DskseIWepQ89TxfXn3MtY"
       },
@@ -6444,7 +6462,7 @@
       ],
       "date_added": "2022-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-21",
       "duration_ms": 278500,
       "name": "Tak Ingin Usai",
       "url": "https://open.spotify.com/track/1b0aDgrG775i4sPQgJGmkU"

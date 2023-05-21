@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaxIqwkEGFEh.md) - [plain]
 
 > Strictly for the streets\. Cover: Moneybagg Yo
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,170,096 likes - 100 songs - 4 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,170,268 likes - 100 songs - 4 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaxIqwkEGFEh.md) - [plain]
 | 17 | [Hot Boy \(feat\. Lil Baby\)](https://open.spotify.com/track/31yydnZnSeCwkRPY7tlgQJ) | [Nardo Wick](https://open.spotify.com/artist/0Njy6yR9LykNKYg9yE23QN), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Hot Boy \(feat\. Lil Baby\)](https://open.spotify.com/album/54h4yyqWQl5z0jKkiS07is) | 2:49 |
 | 18 | [Put It On Da Floor](https://open.spotify.com/track/1HYfsZnq3EXwK7SV8tYPoT) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [Put It On Da Floor](https://open.spotify.com/album/6t8NaWyCTONzie6RKcK7TS) | 3:01 |
 | 19 | [Ain't On None \(feat\. 21 Savage\)](https://open.spotify.com/track/6tdIXKADoiJMTG5buEqxp3) | [21 Lil Harold](https://open.spotify.com/artist/6X9Dt3dsZDeWzMBfekaoPB), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [After The Curse](https://open.spotify.com/album/4CRTKSVnGwpFAaSX2Ycinl) | 2:50 |
-| 20 | [Spinnin' \(feat\. EST Gee\)](https://open.spotify.com/track/1jBSRWaJIQ0AaF0UQ91IbG) | [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7), [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [Spinnin' \(feat\. EST Gee / FAST X Soundtrack\)](https://open.spotify.com/album/5YjvUivNXjwSZFFKa4ffbb) | 2:47 |
+| 20 | [Spinnin' \(feat\. EST Gee\)](https://open.spotify.com/track/15rAPSEAcdP4wE8jBkicV6) | [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7), [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [FAST X \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4jgT0TBoRBPW2bSNXbjN0s) | 2:47 |
 | 21 | [Better Off Dead](https://open.spotify.com/track/08PwP3QCyqPRUn2D7Di8Ep) | [Sha Gz](https://open.spotify.com/artist/5cZA9NpcHyvZjWldBitrR2) | [Better Off Dead](https://open.spotify.com/album/0ZpIZXMHRMBgNSlfseBb8q) | 1:49 |
 | 22 | [GOMD \(Remix\) \[feat\. Lil Uzi Vert\]](https://open.spotify.com/track/4ncoZ4PKxvyzVoSIJsOLo0) | [Veeze](https://open.spotify.com/artist/0B3kMiB21aPQlKumGDr4c7), [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [GOMD \(Remix\) \[feat\. Lil Uzi Vert\]](https://open.spotify.com/album/1XTi2AYI6uOEonUfsLSm3s) | 4:36 |
 | 23 | [Bag On Em](https://open.spotify.com/track/0C4BxhEQqZRcdlyKCS7F30) | [Mini Boom](https://open.spotify.com/artist/6TpjrFXS0EcrvyBt4pgmt5), [Fivio Foreign](https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM) | [Bag On Em](https://open.spotify.com/album/78vEBSj6bZf8H6pmJOdZTu) | 2:36 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaxIqwkEGFEh.md) - [plain]
 | 99 | [Out of State](https://open.spotify.com/track/5xsr3QA0kvK4VFADzbUhUt) | [Finesse2tymes](https://open.spotify.com/artist/3OoC54nEM3Xl7Kn5hsDdpg) | [Out of State](https://open.spotify.com/album/0Cy2QYq6hBh1Y5R21xmlpm) | 1:46 |
 | 100 | [MO UP FRONT](https://open.spotify.com/track/2uFmD9x7WwzNe4P1eJ6t36) | [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ) | [MO UP FRONT](https://open.spotify.com/album/04oCjD2uZHOfv4W7Kj9Fd0) | 2:50 |
 
-Snapshot ID: `MCwzYmI2NTcwOWMyYWVkYmFjNjk1NmY4ZThiMmJhMDZhZjIwNDgwZDQ3`
+Snapshot ID: `MCwwZGQ5NWFjNzI3NWVjMmI1MzMwYjUxYWRiYTFmNjI4Y2MzZTJhNTcy`

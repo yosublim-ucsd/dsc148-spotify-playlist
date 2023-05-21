@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MjgwNzQ0ODAsMDAwMDAwMDA3NDA3Y2EwY2IwNzNlM2FiMzY3YWY2ZGVmZDc3NzMwMA==",
+  "snapshot_id": "MjgwNzQ0ODAsMDAwMDAwMDA5MTY3NjAxMTk2MDJmNDQ1NzZkMWJiYmMwZmU5N2JmOA==",
   "tracks": [
     {
       "added_at": "2023-05-19 04:00:00",
@@ -155,30 +155,22 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "Swordz",
-        "url": "https://open.spotify.com/album/5HP3YAMRGDgVwkhVrWrQfM"
+        "name": "This Is Cali",
+        "url": "https://open.spotify.com/album/0lkOSHCA3BQhi0zXM0hVmP"
       },
       "artists": [
         {
-          "name": "Jason Greenhart",
-          "url": "https://open.spotify.com/artist/0iLyV4LIHbZMNmuXP6kCKG"
+          "name": "Scar Lip",
+          "url": "https://open.spotify.com/artist/0XSAX3u9L4gKXmbhSwPnIJ"
         },
         {
-          "name": "GZA",
-          "url": "https://open.spotify.com/artist/6ns6XAOsw4B0nDUIovAOUO"
-        },
-        {
-          "name": "Metacaum",
-          "url": "https://open.spotify.com/artist/2B0a78X6BEsBiBX9ly1GFm"
-        },
-        {
-          "name": "Grandfatha",
-          "url": "https://open.spotify.com/artist/3e6X0uC74do3Rz085FdENR"
+          "name": "Snoop Dogg",
+          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
         }
       ],
-      "duration_ms": 276594,
-      "name": "Swordz",
-      "url": "https://open.spotify.com/track/5YCUXrbgiUemfPEBpwzLJC"
+      "duration_ms": 140591,
+      "name": "This Is Cali",
+      "url": "https://open.spotify.com/track/1jkrHbPHxhcMi0k458R9Rz"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -423,22 +415,6 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "Lost Not Forgotten Archives: When Dream And Day Unite Demos (1987-1989)",
-        "url": "https://open.spotify.com/album/0wh1M4uklCCvm57Mot63ll"
-      },
-      "artists": [
-        {
-          "name": "Dream Theater",
-          "url": "https://open.spotify.com/artist/2aaLAng2L2aWD2FClzwiep"
-        }
-      ],
-      "duration_ms": 354240,
-      "name": "Ytse Jam - Instrumental Demo",
-      "url": "https://open.spotify.com/track/4Ya6s5iAAR0vWoEZGRMshj"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
         "name": "Helium (He)",
         "url": "https://open.spotify.com/album/0pcj7oabc5F8zcVE5Kaue3"
       },
@@ -495,26 +471,18 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "Girl Power",
-        "url": "https://open.spotify.com/album/5zpUJDz942deIpKHdKg0vj"
+        "name": "Lost Not Forgotten Archives: When Dream And Day Unite Demos (1987-1989)",
+        "url": "https://open.spotify.com/album/0wh1M4uklCCvm57Mot63ll"
       },
       "artists": [
         {
-          "name": "Doggyland",
-          "url": "https://open.spotify.com/artist/34ZLdDJVv5clP7Ask1zjoP"
-        },
-        {
-          "name": "Snoop Dogg",
-          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
-        },
-        {
-          "name": "Gracie's Corner",
-          "url": "https://open.spotify.com/artist/7liE451ZyJBxZ4pLKgIeEH"
+          "name": "Dream Theater",
+          "url": "https://open.spotify.com/artist/2aaLAng2L2aWD2FClzwiep"
         }
       ],
-      "duration_ms": 136000,
-      "name": "Girl Power",
-      "url": "https://open.spotify.com/track/0vO5M6kkxFGxQexnnYpcgV"
+      "duration_ms": 354240,
+      "name": "Ytse Jam - Instrumental Demo",
+      "url": "https://open.spotify.com/track/4Ya6s5iAAR0vWoEZGRMshj"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -671,142 +639,6 @@
       "duration_ms": 385985,
       "name": "Etude For Piano No. 5",
       "url": "https://open.spotify.com/track/3n52TLghdEGJVIC7KFPYCr"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
-        "name": "Space Jam Sessions",
-        "url": "https://open.spotify.com/album/59ZD9hRODyrbnb7K5oStYF"
-      },
-      "artists": [
-        {
-          "name": "Modern Baseball",
-          "url": "https://open.spotify.com/artist/1HxXNvsraqrsgfmju1yKk8"
-        }
-      ],
-      "duration_ms": 139482,
-      "name": "Rock Bottom",
-      "url": "https://open.spotify.com/track/0ezu28CrH13zXiRJ3boiQZ"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
-        "name": "Go",
-        "url": "https://open.spotify.com/album/3OPKSB4HyhuosHWOmMFH25"
-      },
-      "artists": [
-        {
-          "name": "ALEXSUCKS",
-          "url": "https://open.spotify.com/artist/0zmxCsd8aIJHfNC95gdT2i"
-        }
-      ],
-      "duration_ms": 130822,
-      "name": "Go",
-      "url": "https://open.spotify.com/track/4nsyIu8RL55Rh6YnFPo0uQ"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
-        "name": "Variables",
-        "url": "https://open.spotify.com/album/0sW6bNCjzPlrJM100nIST6"
-      },
-      "artists": [
-        {
-          "name": "Alfa Mist",
-          "url": "https://open.spotify.com/artist/2i1CPudyCUjL50Wqjv8AMI"
-        }
-      ],
-      "duration_ms": 403933,
-      "name": "Foreword",
-      "url": "https://open.spotify.com/track/2n0GcL4eZ110vdaU16OBdJ"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
-        "name": "$WISH ft. G-Eazy and Chance The Rapper",
-        "url": "https://open.spotify.com/album/3kIkoRdH0qYoYOqS2FHNjN"
-      },
-      "artists": [
-        {
-          "name": "VIC MENSA",
-          "url": "https://open.spotify.com/artist/27w1NoOLMX7tJMYqcetPyG"
-        },
-        {
-          "name": "G-Eazy",
-          "url": "https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z"
-        },
-        {
-          "name": "Chance the Rapper",
-          "url": "https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf"
-        }
-      ],
-      "duration_ms": 225453,
-      "name": "$WISH ft. G-Eazy and Chance The Rapper",
-      "url": "https://open.spotify.com/track/1019DU4Cv5W7pUISZWSWlO"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
-        "name": "That You Not Dare To Forget",
-        "url": "https://open.spotify.com/album/6WgNJUxiFSVZTBO6UR4wqH"
-      },
-      "artists": [
-        {
-          "name": "M.E.B.",
-          "url": "https://open.spotify.com/artist/6AjJDwKIPlXjOxGeiCCy9P"
-        }
-      ],
-      "duration_ms": 373533,
-      "name": "Mellow Kisses",
-      "url": "https://open.spotify.com/track/2aCGvsI9wPrmFGUGt3VEXW"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
-        "name": "Tonight",
-        "url": "https://open.spotify.com/album/6qzKDJBKrbGWvdFNylWM7x"
-      },
-      "artists": [
-        {
-          "name": "Tamika Scott",
-          "url": "https://open.spotify.com/artist/1M8OKqAm4Xxjhqw9qhhO4u"
-        },
-        {
-          "name": "Method Man",
-          "url": "https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt"
-        }
-      ],
-      "duration_ms": 242670,
-      "name": "Tonight",
-      "url": "https://open.spotify.com/track/2imQHlhnuTG3TvgxLEKcGR"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
-        "name": "Abbado: Schumann \u2013 Tchaikovsky",
-        "url": "https://open.spotify.com/album/2RTQqBU2yR9eSdYfpLheRW"
-      },
-      "artists": [
-        {
-          "name": "Robert Schumann",
-          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
-        },
-        {
-          "name": "Alfred Brendel",
-          "url": "https://open.spotify.com/artist/5vBh0nve44zwwVF5KWtCwA"
-        },
-        {
-          "name": "London Symphony Orchestra",
-          "url": "https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc"
-        },
-        {
-          "name": "Claudio Abbado",
-          "url": "https://open.spotify.com/artist/6HclTVD03WSY6GUpN16BkP"
-        }
-      ],
-      "duration_ms": 346745,
-      "name": "Piano Concerto in A Minor, Op. 54: 2. Intermezzo (Andantino grazioso)",
-      "url": "https://open.spotify.com/track/6NlMBz9JMDuCWsQvXS8i8x"
     }
   ],
   "unique_name": "Release Radar (@ajcooke94)",

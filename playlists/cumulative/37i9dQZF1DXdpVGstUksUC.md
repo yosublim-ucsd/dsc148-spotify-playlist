@@ -4,7 +4,7 @@
 
 > riff\-heavy, fuzzed\-out numbers.
 
-287 songs - 1 day 3 hr 42 min
+288 songs - 1 day 3 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,6 +46,7 @@
 | [Bury Me in Smoke](https://open.spotify.com/track/6raRCdd8RoWvtBpzhJ1CJb) | [DOWN](https://open.spotify.com/artist/1m0B9ak05G0jqDY4ACLhQu) | [Nola](https://open.spotify.com/album/04BvRPJwuDeuJ3DhbAw9Wg) | 7:04 | 2023-03-22 |  |
 | [Cactus](https://open.spotify.com/track/33E8wWq7EO0wKObVxgv2DW) | [Skraeckoedlan](https://open.spotify.com/artist/5ujmjNmUSBQleVXLTmPqkb) | [Äppelträdet](https://open.spotify.com/album/4GzKoHmSWH8d9QmAW679es) | 5:49 | 2021-11-30 | 2022-07-29 |
 | [Cactus](https://open.spotify.com/track/5HTeNKljvMX7tzpbQIGeDn) | [Skraeckoedlan](https://open.spotify.com/artist/5ujmjNmUSBQleVXLTmPqkb) | [Äppelträdet](https://open.spotify.com/album/6ieK2rr1yYl1l7H9O3uH4I) | 5:49 | 2022-08-26 | 2023-03-23 |
+| [Call of the Void](https://open.spotify.com/track/2lESBOYd1J2oBWVeLLSFdg) | [Mutoid Man](https://open.spotify.com/artist/2KhRuej67LynneJthmMx8o) | [Call of the Void](https://open.spotify.com/album/4Ioa4MtCt5zTxYnf2Ak32G) | 3:59 | 2023-05-19 |  |
 | [Calm Before the Storm](https://open.spotify.com/track/4oZZ50a7sFUJdMhywCtAdA) | [Truckfighters](https://open.spotify.com/artist/5X1eZAEqHcO5lYy7tgjw5h) | [V](https://open.spotify.com/album/2st5WC99waH8DaN3naNq32) | 8:15 | 2021-11-30 | 2022-10-10 |
 | [Centurion](https://open.spotify.com/track/6rIh2ETnPnBxkFYjQb83SV) | [King Buffalo](https://open.spotify.com/artist/06D0YfeNZgBA7XWQ79Y42R) | [Repeater](https://open.spotify.com/album/5G71TdzImVKCnUNVMimPok) | 5:56 | 2021-11-30 |  |
 | [Chocolatize](https://open.spotify.com/track/3D2r5tK7FLa35ustREymTd) | [Brant Bjork](https://open.spotify.com/artist/538ZIoOw6wW1xdjuIaQHOS) | [Mankind Woman](https://open.spotify.com/album/6ho3UoTbxC0DnYV7BAx7Q4) | 2:34 | 2021-11-30 | 2022-02-15 |
@@ -65,7 +66,7 @@
 | [Deconstruction](https://open.spotify.com/track/5sLrsgPP8bGWfz1g332qnE) | [Witchcraft](https://open.spotify.com/artist/3HVmba1wHgrLVsVC5IIzkG) | [Legend](https://open.spotify.com/album/4tIt1aEVqxQ71AuOpoEsHs) | 5:09 | 2021-11-30 | 2022-07-29 |
 | [Demon Cleaner](https://open.spotify.com/track/2cVphsi72OjF7s0rtt2z5e) | [Kyuss](https://open.spotify.com/artist/3HCpwNmFp2rvjkdjTs4uxs) | [Welcome to Sky Valley](https://open.spotify.com/album/1npen0QK3TNxZd2hLNzzOj) | 5:11 | 2021-11-30 | 2022-07-29 |
 | [Demon Cleaner](https://open.spotify.com/track/3HzOTfm6FVu4qXRDDdT3t0) | [Kyuss](https://open.spotify.com/artist/3HCpwNmFp2rvjkdjTs4uxs) | [Welcome to Sky Valley](https://open.spotify.com/album/2NU3mpjBFtZPUYjjT9pJoq) | 5:11 | 2022-04-28 |  |
-| [Desert Cold](https://open.spotify.com/track/6wEShs17sQIlaaWfeJylLE) | [Snowy Dunes](https://open.spotify.com/artist/10do1FRShQdKPJ4RuIY4LX) | [Desert Cold](https://open.spotify.com/album/57zrgsfZAV7Y7TZOZxBJJY) | 6:13 | 2021-11-30 |  |
+| [Desert Cold](https://open.spotify.com/track/6wEShs17sQIlaaWfeJylLE) | [Snowy Dunes](https://open.spotify.com/artist/10do1FRShQdKPJ4RuIY4LX) | [Desert Cold](https://open.spotify.com/album/57zrgsfZAV7Y7TZOZxBJJY) | 6:13 | 2021-11-30 | 2023-05-21 |
 | [Desert Cruiser](https://open.spotify.com/track/3IjeShSHRTVoWJdDDncVse) | [Truckfighters](https://open.spotify.com/artist/5X1eZAEqHcO5lYy7tgjw5h) | [Gravity X](https://open.spotify.com/album/1kMiNWC1GGs8kbTcJWnLo4) | 7:29 | 2021-11-30 | 2022-07-29 |
 | [Desert Cruiser](https://open.spotify.com/track/41cBKTG12qtlYEgQRBqOaq) | [Truckfighters](https://open.spotify.com/artist/5X1eZAEqHcO5lYy7tgjw5h) | [Gravity X](https://open.spotify.com/album/7JPXSQ3BJGE67TgYpUQKcV) | 7:29 | 2023-03-22 |  |
 | [Desert Cruiser](https://open.spotify.com/track/6dDdhX8byHKApki5TuOqjS) | [Truckfighters](https://open.spotify.com/artist/5X1eZAEqHcO5lYy7tgjw5h) | [Gravity X](https://open.spotify.com/album/3hmaQMSqjYApIHv204Zgml) | 7:29 | 2022-04-28 | 2023-04-30 |

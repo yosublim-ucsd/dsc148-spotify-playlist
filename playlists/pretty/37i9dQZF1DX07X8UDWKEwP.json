@@ -1,12 +1,12 @@
 {
   "description": "Lo nuevo del mundo tropical. Cover: Luis Figueroa",
-  "num_followers": 252146,
+  "num_followers": 252197,
   "original_name": "el nuevo tropical",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmYWQ5MGIzYjc5ZjYyNjc5MDY2ZDJlYjc1NTY0NjQ5OTRhYzU1NDEw",
+  "snapshot_id": "MCw1Yzk0MTYzNWYxYTRlODJjYTc3Y2M1YzhiMGUwNjgwMGY0NzY3YzVl",
   "tracks": [
     {
       "added_at": "2023-05-19 04:00:00",
@@ -739,22 +739,6 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "Regr\u00e9same Mi Coraz\u00f3n",
-        "url": "https://open.spotify.com/album/2Qi49Wydfvou0IAwsx9RPy"
-      },
-      "artists": [
-        {
-          "name": "Moa Rivera",
-          "url": "https://open.spotify.com/artist/3SVGxBlWR0Cnamj9e2Ybmz"
-        }
-      ],
-      "duration_ms": 270253,
-      "name": "Regr\u00e9same Mi Coraz\u00f3n",
-      "url": "https://open.spotify.com/track/0d2qta4WaYv5x7idIIVxPq"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
         "name": "Sin Tu Amor",
         "url": "https://open.spotify.com/album/6yjjKUSBZeIOfJCuSHmPla"
       },
@@ -771,18 +755,18 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "La Historia (Escalona Nunca Se Hab\u00eda Grabado As\u00ed)",
-        "url": "https://open.spotify.com/album/2wcgOo4KxX9mWenJ4PeuUu"
+        "name": "Regr\u00e9same Mi Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/2Qi49Wydfvou0IAwsx9RPy"
       },
       "artists": [
         {
-          "name": "Carlos Vives",
-          "url": "https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr"
+          "name": "Moa Rivera",
+          "url": "https://open.spotify.com/artist/3SVGxBlWR0Cnamj9e2Ybmz"
         }
       ],
-      "duration_ms": 271030,
-      "name": "La Historia - Escalona Nunca Se Hab\u00eda Grabado As\u00ed",
-      "url": "https://open.spotify.com/track/7gzuhDzLBcR0O1QXskLAdt"
+      "duration_ms": 270253,
+      "name": "Regr\u00e9same Mi Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/0d2qta4WaYv5x7idIIVxPq"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -803,22 +787,18 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "Soltemos al Mundo",
-        "url": "https://open.spotify.com/album/70dAQDFwSbXPOWWYyEjagm"
+        "name": "La Historia (Escalona Nunca Se Hab\u00eda Grabado As\u00ed)",
+        "url": "https://open.spotify.com/album/2wcgOo4KxX9mWenJ4PeuUu"
       },
       "artists": [
         {
-          "name": "Daniel Santacruz",
-          "url": "https://open.spotify.com/artist/4tLUnrSgMM7tT0zVs3wX61"
-        },
-        {
-          "name": "Olga Ta\u00f1\u00f3n",
-          "url": "https://open.spotify.com/artist/4pv1Jo4PbYI8LMADJoTWjE"
+          "name": "Carlos Vives",
+          "url": "https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr"
         }
       ],
-      "duration_ms": 213255,
-      "name": "Soltemos al Mundo",
-      "url": "https://open.spotify.com/track/66irfMtLkQh7H2F5zLclp8"
+      "duration_ms": 271030,
+      "name": "La Historia - Escalona Nunca Se Hab\u00eda Grabado As\u00ed",
+      "url": "https://open.spotify.com/track/7gzuhDzLBcR0O1QXskLAdt"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -835,6 +815,26 @@
       "duration_ms": 231363,
       "name": "Desn\u00fadate",
       "url": "https://open.spotify.com/track/3lAPRVmezONEzjHgzOvh5m"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
+        "name": "Soltemos al Mundo",
+        "url": "https://open.spotify.com/album/70dAQDFwSbXPOWWYyEjagm"
+      },
+      "artists": [
+        {
+          "name": "Daniel Santacruz",
+          "url": "https://open.spotify.com/artist/4tLUnrSgMM7tT0zVs3wX61"
+        },
+        {
+          "name": "Olga Ta\u00f1\u00f3n",
+          "url": "https://open.spotify.com/artist/4pv1Jo4PbYI8LMADJoTWjE"
+        }
+      ],
+      "duration_ms": 213255,
+      "name": "Soltemos al Mundo",
+      "url": "https://open.spotify.com/track/66irfMtLkQh7H2F5zLclp8"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -891,6 +891,26 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
+        "name": "Luck Ra | Mission 15",
+        "url": "https://open.spotify.com/album/75ROUVsHe1IcWmeOBuFZtT"
+      },
+      "artists": [
+        {
+          "name": "Alan Gomez",
+          "url": "https://open.spotify.com/artist/6oMRQ5H3A2XA5I3RG3leni"
+        },
+        {
+          "name": "Luck Ra",
+          "url": "https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk"
+        }
+      ],
+      "duration_ms": 133284,
+      "name": "Luck Ra | Mission 15",
+      "url": "https://open.spotify.com/track/6CIMoDfTsvFVGhFi3v9Izn"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
         "name": "Solo Pienso En Ti",
         "url": "https://open.spotify.com/album/686zjPymwJWho1sRetIdZE"
       },
@@ -919,22 +939,6 @@
       "duration_ms": 200000,
       "name": "La Despedida",
       "url": "https://open.spotify.com/track/4sjYsP0tIZi34SDVUzTHyk"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
-        "name": "Narices Fr\u00edas",
-        "url": "https://open.spotify.com/album/6y3zWGWXhoSPtMWC7b3C7Q"
-      },
-      "artists": [
-        {
-          "name": "Juliana",
-          "url": "https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY"
-        }
-      ],
-      "duration_ms": 303088,
-      "name": "Narices Fr\u00edas",
-      "url": "https://open.spotify.com/track/5SqOzL7GvRCJWTBmY7Kvvz"
     }
   ],
   "unique_name": "el nuevo tropical",

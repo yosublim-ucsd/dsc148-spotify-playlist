@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3J5toT8HI72.md) - [plain]
 
 > Grandes músicas para você curtir com seu amor.
 
-[Spotify](https://open.spotify.com/user/spotify) - 769,868 likes - 60 songs - 3 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 769,963 likes - 60 songs - 3 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,9 +41,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3J5toT8HI72.md) - [plain]
 | 31 | [Bela Flor](https://open.spotify.com/track/1hmDsnhtabIjJPur68pu5Z) | [Maria Gadú](https://open.spotify.com/artist/3uCu2WgyG0Iw50ylOYDSpH) | [Maria Gadú](https://open.spotify.com/album/60zdKaNDD0nMnM90ndtcGF) | 3:03 |
 | 32 | [Totalmente Seu](https://open.spotify.com/track/2WxFuSpORAwJ1XNDeBMSg9) | [Marisa Monte](https://open.spotify.com/artist/0rSTXALHu0EKAawPLBdODH) | [Portas](https://open.spotify.com/album/3Aa9vN06FcpjOlytlAQP3A) | 2:12 |
 | 33 | [Feliz e Ponto](https://open.spotify.com/track/5I7NiZhyh9mvtdv33eBg94) | [Silva](https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz) | [Júpiter](https://open.spotify.com/album/7BqdQdesXoceTMhwEfTOrj) | 2:36 |
-| 34 | [O Leãozinho \- Ao Vivo Em São Paulo / 2017](https://open.spotify.com/track/3ejU8JMenktibKkNz9dPBL) | [Caetano Veloso](https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ), [Moreno Veloso](https://open.spotify.com/artist/57IX1XTNL4DPilyY5pQsaK) | [Ofertório \(Ao Vivo\)](https://open.spotify.com/album/3PlAbFQa9MEymxTgQC51wv) | 2:56 |
-| 35 | [O Amor é o Segredo](https://open.spotify.com/track/7tOXo8dzQYKgWHWB9nxBVg) | [Vitor Kley](https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U) | [A Bolha](https://open.spotify.com/album/26Tbxt6xagipSQItYUBCeE) | 3:03 |
-| 36 | [Vixe Que Gostoso](https://open.spotify.com/track/2JMOMpspSaGua3VK2EFcGZ) | [Juliette](https://open.spotify.com/artist/5coW9ioCpvEYGx4v1nvWec) | [Juliette](https://open.spotify.com/album/2QGcICCnguCa8ovMHUMs3q) | 3:37 |
+| 34 | [Vixe Que Gostoso](https://open.spotify.com/track/2JMOMpspSaGua3VK2EFcGZ) | [Juliette](https://open.spotify.com/artist/5coW9ioCpvEYGx4v1nvWec) | [Juliette](https://open.spotify.com/album/2QGcICCnguCa8ovMHUMs3q) | 3:37 |
+| 35 | [O Leãozinho \- Ao Vivo Em São Paulo / 2017](https://open.spotify.com/track/3ejU8JMenktibKkNz9dPBL) | [Caetano Veloso](https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ), [Moreno Veloso](https://open.spotify.com/artist/57IX1XTNL4DPilyY5pQsaK) | [Ofertório \(Ao Vivo\)](https://open.spotify.com/album/3PlAbFQa9MEymxTgQC51wv) | 2:56 |
+| 36 | [O Amor é o Segredo](https://open.spotify.com/track/7tOXo8dzQYKgWHWB9nxBVg) | [Vitor Kley](https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U) | [A Bolha](https://open.spotify.com/album/26Tbxt6xagipSQItYUBCeE) | 3:03 |
 | 37 | [Solução \- Acústico](https://open.spotify.com/track/2iO6rLYnDiMJqioCefh395) | [UM44K](https://open.spotify.com/artist/3zhKxZr516VdNDa8v3oft2) | [UM44K Acústico](https://open.spotify.com/album/1ZhPU7ZlUoaGbvzvnuTxXh) | 4:24 |
 | 38 | [Minha Felicidade](https://open.spotify.com/track/3vKTQ4R6ZZ9re7XIedJ5PQ) | [Gabriel Elias](https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK), [Roberta Campos](https://open.spotify.com/artist/5CC2At3k0Xnyc5s9yHdyax) | [Minha Felicidade](https://open.spotify.com/album/7kTQATXuDnYuis6WSYZEn5) | 3:37 |
 | 39 | [Bem Que Se Quis \- Ao Vivo](https://open.spotify.com/track/1nGI6ent4Eb8jmE4cnq3Gy) | [Silva](https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz) | [Ao Vivo Em Lisboa](https://open.spotify.com/album/6FQczUJwjqNAjBVTnwsn0k) | 4:16 |
@@ -64,9 +64,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3J5toT8HI72.md) - [plain]
 | 54 | [Vem Cá \- Ao Vivo](https://open.spotify.com/track/0EsFrHIUYEJmMDHPbMOb96) | [Malía](https://open.spotify.com/artist/06Ta0NqRjBW6qubwdyeb9u) | [Vem Cá \(Ao Vivo\)](https://open.spotify.com/album/4n3V55qm74LHzn5JTH6pLN) | 3:22 |
 | 55 | [Outono](https://open.spotify.com/track/30i1uYhaut3vanP6wM4AFh) | [Priscila Tossan](https://open.spotify.com/artist/4EZLWNKsB2l3Lm6vqJDFoA) | [Céu Azul](https://open.spotify.com/album/77r7XnNrwge6RH38NUVOvY) | 3:30 |
 | 56 | [Quero Ser](https://open.spotify.com/track/60KcgPqMPtRlM9KB5AIIwh) | [Thathi](https://open.spotify.com/artist/4Q3MIgxByb0Iz264mvcmUn) | [Tudo Que Já Estava Escrito / Sobre o Amor](https://open.spotify.com/album/2BZO5nCdJ293rmtyBZWhb7) | 3:22 |
-| 57 | [Eu Sou Você](https://open.spotify.com/track/1S5xxCLAVai7U3iNn4GztE) | [Eu, Trovador](https://open.spotify.com/artist/5UoJcZMaNYTNDVwKyEJi88) | [Eu Sou Você](https://open.spotify.com/album/7mdQkEIU6pBlz9y9E9lEX1) | 3:35 |
-| 58 | [Não É Comum Mas É Normal](https://open.spotify.com/track/3qK4cPOkKJ00tAWeFBFMXm) | [Lan Lanh](https://open.spotify.com/artist/7uPgOaM3jjmkwuua1RgZHg), [Nanda Costa](https://open.spotify.com/artist/1zWJTFpRoMlT21OaXniRsb) | [Não É Comum Mas É Normal](https://open.spotify.com/album/2BLOshVN7dKtfMzA89mQhH) | 3:25 |
+| 57 | [Não É Comum Mas É Normal](https://open.spotify.com/track/3qK4cPOkKJ00tAWeFBFMXm) | [Lan Lanh](https://open.spotify.com/artist/7uPgOaM3jjmkwuua1RgZHg), [Nanda Costa](https://open.spotify.com/artist/1zWJTFpRoMlT21OaXniRsb) | [Não É Comum Mas É Normal](https://open.spotify.com/album/2BLOshVN7dKtfMzA89mQhH) | 3:25 |
+| 58 | [Eu Sou Você](https://open.spotify.com/track/1S5xxCLAVai7U3iNn4GztE) | [Eu, Trovador](https://open.spotify.com/artist/5UoJcZMaNYTNDVwKyEJi88) | [Eu Sou Você](https://open.spotify.com/album/7mdQkEIU6pBlz9y9E9lEX1) | 3:35 |
 | 59 | [Ouro](https://open.spotify.com/track/1VJ93t38cXKJc58CZxyO2O) | [Jhama](https://open.spotify.com/artist/5mXYWM38dlAs01e3XQEtma) | [Ouro](https://open.spotify.com/album/52gcfCi6jBmWSEg3DuNVeR) | 2:58 |
 | 60 | [Anel de Coco \- Acústico \| Ao Vivo](https://open.spotify.com/track/7LuLv35fgBvI0FkzxT9r3l) | [Gabriel Elias](https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK) | [Anel de Coco Acústico \(Ao Vivo\)](https://open.spotify.com/album/1F3sVbUnq8vA3IR4154jI8) | 3:02 |
 
-Snapshot ID: `MCw4ZGNjYTJjNWNmM2U2NTlhNjlmOTE4M2NmOGJkYTdjZGNmMzc3YTgy`
+Snapshot ID: `MCwxN2MyMWU1M2Q5Y2MwMmNlNTI5NWM2MTFjMTEwMjgzNjE1MWZlN2Y0`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34lqLRYWFxq.md) - [plain]
 
 > New adventures in rock start here\. Cover: ThxSoMch
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,037 likes - 100 songs - 5 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,036 likes - 100 songs - 5 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34lqLRYWFxq.md) - [plain]
 | 99 | [Back Home](https://open.spotify.com/track/25Inf9DdQu3QYZITwtdTzN) | [Lofsky](https://open.spotify.com/artist/2oQVpMQQJZIvR4UtlYaak4), [Lowdsound](https://open.spotify.com/artist/0cBxCAP8iwWGDrAAuJeuU9) | [Back Home](https://open.spotify.com/album/6nczsf922TS5VrzYQljA9i) | 2:44 |
 | 100 | [Heartbreaker by Design](https://open.spotify.com/track/5ueLZYReaiLhYrqLrRhpkh) | [Your ex and I](https://open.spotify.com/artist/46bnuozfnzrXzASP9d8XlZ) | [Your ex and I](https://open.spotify.com/album/1SK5c2RidvtRh8Q0ILFqvr) | 4:07 |
 
-Snapshot ID: `MCwyNTM3NmRjY2FlM2EyZmRmMzUxMzlhNGFlZTI2ZThkYTkwZGQ1MWU2`
+Snapshot ID: `MCxmZmQ5YjE0NDE0MWY4YjZmNGRlMDU2MmM0MDRmZDNjNjgxZmY3ZDg1`

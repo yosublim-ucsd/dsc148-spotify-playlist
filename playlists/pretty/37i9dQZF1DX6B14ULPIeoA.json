@@ -1,12 +1,12 @@
 {
   "description": "Con mucha dulzura y sabor para un momento de relax. ",
-  "num_followers": 41600,
+  "num_followers": 41671,
   "original_name": "Caf\u00e9 de Olla",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5YThlZWUzZjgyMjkzZWRiMDllOGZkZTc3Y2NjOTQ3MWQ5ZDU4ZmQz",
+  "snapshot_id": "MCw0MTc3MDNkOWJiOTNjYjgxZGM1ZTYwMzVlNmE2Y2I5MmU5YTBmOWIw",
   "tracks": [
     {
       "added_at": "2022-09-23 18:17:22",
@@ -139,22 +139,6 @@
     {
       "added_at": "2022-09-23 18:17:22",
       "album": {
-        "name": "Esta Tarde Vi Llover",
-        "url": "https://open.spotify.com/album/6HR4q9Dz5DpbZ4VxBuvGOb"
-      },
-      "artists": [
-        {
-          "name": "Las Lagrimas",
-          "url": "https://open.spotify.com/artist/4CFUyjHnUwIb4SryCWffqN"
-        }
-      ],
-      "duration_ms": 143874,
-      "name": "Esta Tarde Vi Llover",
-      "url": "https://open.spotify.com/track/56jakCjFeneCQMMq8aNFyt"
-    },
-    {
-      "added_at": "2022-09-23 18:17:22",
-      "album": {
         "name": "Guitarras Latinas",
         "url": "https://open.spotify.com/album/6z1QMvoOBwozy4CvEqNPsD"
       },
@@ -171,6 +155,22 @@
       "duration_ms": 186852,
       "name": "Ansia",
       "url": "https://open.spotify.com/track/6KrX3IfuPmsw2j7QNGglzG"
+    },
+    {
+      "added_at": "2022-09-23 18:17:22",
+      "album": {
+        "name": "Esta Tarde Vi Llover",
+        "url": "https://open.spotify.com/album/6HR4q9Dz5DpbZ4VxBuvGOb"
+      },
+      "artists": [
+        {
+          "name": "Las Lagrimas",
+          "url": "https://open.spotify.com/artist/4CFUyjHnUwIb4SryCWffqN"
+        }
+      ],
+      "duration_ms": 143874,
+      "name": "Esta Tarde Vi Llover",
+      "url": "https://open.spotify.com/track/56jakCjFeneCQMMq8aNFyt"
     },
     {
       "added_at": "2022-09-23 18:17:22",
@@ -603,6 +603,22 @@
     {
       "added_at": "2022-09-23 18:17:22",
       "album": {
+        "name": "Wasi",
+        "url": "https://open.spotify.com/album/0PoKRHhIITIb48H5r6M7SJ"
+      },
+      "artists": [
+        {
+          "name": "Elias Carrera",
+          "url": "https://open.spotify.com/artist/7qKazhBQV8sScUWPr8xVOO"
+        }
+      ],
+      "duration_ms": 136888,
+      "name": "El Camino De La Vida",
+      "url": "https://open.spotify.com/track/0d0zDKdDkpyetQarz3wFq7"
+    },
+    {
+      "added_at": "2022-09-23 18:17:22",
+      "album": {
         "name": "Una Flor En La Laguna",
         "url": "https://open.spotify.com/album/1wPOzySZ8nMAyZM0MbWKEr"
       },
@@ -619,22 +635,6 @@
       "duration_ms": 290426,
       "name": "Una Flor En La Laguna",
       "url": "https://open.spotify.com/track/0WvT3GRKi55mz5sZr9qVg9"
-    },
-    {
-      "added_at": "2022-09-23 18:17:22",
-      "album": {
-        "name": "Wasi",
-        "url": "https://open.spotify.com/album/0PoKRHhIITIb48H5r6M7SJ"
-      },
-      "artists": [
-        {
-          "name": "Elias Carrera",
-          "url": "https://open.spotify.com/artist/7qKazhBQV8sScUWPr8xVOO"
-        }
-      ],
-      "duration_ms": 136888,
-      "name": "El Camino De La Vida",
-      "url": "https://open.spotify.com/track/0d0zDKdDkpyetQarz3wFq7"
     },
     {
       "added_at": "2022-09-23 18:17:22",
@@ -1387,18 +1387,18 @@
     {
       "added_at": "2022-09-23 18:17:22",
       "album": {
-        "name": "El Viaje",
-        "url": "https://open.spotify.com/album/44HzmqeXrVMkV4XCAb4Muv"
+        "name": "A Traves Del Vaso",
+        "url": "https://open.spotify.com/album/3Bd1WTH6KioFvYuv8Z0hOB"
       },
       "artists": [
         {
-          "name": "Juan Jose Moreno",
-          "url": "https://open.spotify.com/artist/4hQDTsoE4V7uoOvtvxp12P"
+          "name": "Yolanda Streep",
+          "url": "https://open.spotify.com/artist/3RAcfMK8AOdXDGe5IM4CV8"
         }
       ],
-      "duration_ms": 168196,
-      "name": "El Viaje",
-      "url": "https://open.spotify.com/track/2YFGFwuUBprxAXQjVHS4Q3"
+      "duration_ms": 200569,
+      "name": "A Traves Del Vaso",
+      "url": "https://open.spotify.com/track/1hkqXThaFrtIvAtH1Pq7zz"
     },
     {
       "added_at": "2022-09-23 18:17:22",
@@ -1467,18 +1467,18 @@
     {
       "added_at": "2022-09-23 18:17:22",
       "album": {
-        "name": "A Traves Del Vaso",
-        "url": "https://open.spotify.com/album/3Bd1WTH6KioFvYuv8Z0hOB"
+        "name": "El Viaje",
+        "url": "https://open.spotify.com/album/44HzmqeXrVMkV4XCAb4Muv"
       },
       "artists": [
         {
-          "name": "Yolanda Streep",
-          "url": "https://open.spotify.com/artist/3RAcfMK8AOdXDGe5IM4CV8"
+          "name": "Juan Jose Moreno",
+          "url": "https://open.spotify.com/artist/4hQDTsoE4V7uoOvtvxp12P"
         }
       ],
-      "duration_ms": 200569,
-      "name": "A Traves Del Vaso",
-      "url": "https://open.spotify.com/track/1hkqXThaFrtIvAtH1Pq7zz"
+      "duration_ms": 168196,
+      "name": "El Viaje",
+      "url": "https://open.spotify.com/track/2YFGFwuUBprxAXQjVHS4Q3"
     },
     {
       "added_at": "2022-09-23 18:17:22",
@@ -1631,6 +1631,22 @@
     {
       "added_at": "2022-09-23 18:17:22",
       "album": {
+        "name": "Con Tus Besos",
+        "url": "https://open.spotify.com/album/2Axb9UEbrrWZuhZHGgEh8E"
+      },
+      "artists": [
+        {
+          "name": "Palladinos",
+          "url": "https://open.spotify.com/artist/6Qnxpg01CHQLdkaEWIfCLf"
+        }
+      ],
+      "duration_ms": 158996,
+      "name": "Con Tus Besos",
+      "url": "https://open.spotify.com/track/6cV5ZLSn6boxiNG2ZQAzB9"
+    },
+    {
+      "added_at": "2022-09-23 18:17:22",
+      "album": {
         "name": "Mariachi: Mi Nombre Es M\u00e9xico",
         "url": "https://open.spotify.com/album/6kdd6Z3nAvWbxPZVpZlBgV"
       },
@@ -1675,22 +1691,6 @@
       "duration_ms": 200721,
       "name": "Historia de un Amor",
       "url": "https://open.spotify.com/track/5d28IWEPL407fmx8TBHnrd"
-    },
-    {
-      "added_at": "2022-09-23 18:17:22",
-      "album": {
-        "name": "Con Tus Besos",
-        "url": "https://open.spotify.com/album/2Axb9UEbrrWZuhZHGgEh8E"
-      },
-      "artists": [
-        {
-          "name": "Palladinos",
-          "url": "https://open.spotify.com/artist/6Qnxpg01CHQLdkaEWIfCLf"
-        }
-      ],
-      "duration_ms": 158996,
-      "name": "Con Tus Besos",
-      "url": "https://open.spotify.com/track/6cV5ZLSn6boxiNG2ZQAzB9"
     },
     {
       "added_at": "2022-09-23 18:17:22",

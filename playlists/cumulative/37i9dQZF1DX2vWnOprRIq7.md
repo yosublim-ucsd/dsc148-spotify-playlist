@@ -4,7 +4,7 @@
 
 > El lado fluorescente del indie latino featuring La Femme D'Argent & FEMI.
 
-121 songs - 7 hr 21 min
+122 songs - 7 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,6 +28,7 @@
 | [Cerca](https://open.spotify.com/track/0GzgKVNy4E1E2R16zkKGOr) | [Peces Raros](https://open.spotify.com/artist/5UI7HXsBEfRSsf0T4t48Q9) | [Cerca](https://open.spotify.com/album/1TUM8Vh8ZWkNfHc7LENZnP) | 3:11 | 2023-03-17 |  |
 | [Cicuta](https://open.spotify.com/track/6uKDzPZf9wsLDZuI6bPJeC) | [Peces Raros](https://open.spotify.com/artist/5UI7HXsBEfRSsf0T4t48Q9) | [Cicuta](https://open.spotify.com/album/7DrBMH2nRfBfbF1wuFCpN7) | 2:29 | 2023-03-17 |  |
 | [Cintura](https://open.spotify.com/track/1s6ZRDmdRmqXPAAiaxDCUh) | [Malena Villa](https://open.spotify.com/artist/0RlibgJa8rtPvVn415J6WN), [Lara91k](https://open.spotify.com/artist/2zPvDg6LI6NHPQVQIESjfW) | [Ni tan Bien](https://open.spotify.com/album/2YiHAEkoXeLrw9jWhltxIB) | 3:13 | 2023-03-17 |  |
+| [Circular](https://open.spotify.com/track/21Rw3bEHD9hdwDIpD3BaWk) | [Dani Umpi](https://open.spotify.com/artist/1KYLoFQ7Cwm4eOHruB5OMI) | [Guazatumba](https://open.spotify.com/album/63nVyKVXvnLNnVR6x3mlxC) | 3:49 | 2023-05-19 |  |
 | [Corazon en Asteroides](https://open.spotify.com/track/4YtoojKbqHDTrZSq2BDdJn) | [Aliage](https://open.spotify.com/artist/2rsoCjZsneCZ25MC2os3Dt), [Victoria Reed](https://open.spotify.com/artist/12EI0H1J7nojLvFdkwzjRG) | [Corazon en Asteroides](https://open.spotify.com/album/5uIyYenH0O4ThqgBRGshvw) | 3:58 | 2023-03-17 |  |
 | [Culpa](https://open.spotify.com/track/6rCbWp5PpcHM01S75xdjED) | [Javiera Mena](https://open.spotify.com/artist/6c0qylj1D1gqcUUN2P8Ofp) | [Culpa](https://open.spotify.com/album/39eLAGLNchxBaC2GQcH61K) | 3:21 | 2023-03-17 |  |
 | [Cuánto Falta](https://open.spotify.com/track/0ewr3hASTWqJK6hSpKWRdj) | [Ziberia](https://open.spotify.com/artist/3QF7pmiRCZmlvnTzFtCuDH) | [Cuánto Falta](https://open.spotify.com/album/1R7xH7A6kvLXbm3tLktAiD) | 4:00 | 2023-03-17 |  |
@@ -72,7 +73,7 @@
 | [Mejor no hablar de ciertas cosas](https://open.spotify.com/track/6ZxxBhhLvXryhzGBO9lcRT) | [Audia Valdez](https://open.spotify.com/artist/44zQK5AXMlUsuii84X0JOg) | [Mejor no hablar de ciertas cosas](https://open.spotify.com/album/1dmCQhYQg0uLk7tF8eJGAb) | 5:00 | 2023-03-17 |  |
 | [MICROFRACTURAS](https://open.spotify.com/track/3CaF9XLWXOevzZe4uyfsTE) | [Vicu Villanueva](https://open.spotify.com/artist/3wcmeGyEfFVSHpE11CVMUy) | [Victoria y las Máquinas](https://open.spotify.com/album/1nmEZbVyUAmRIKLD3Vtiog) | 6:09 | 2023-04-14 |  |
 | [Might Forgive You](https://open.spotify.com/track/2rhOPfbOx3vHC47PvCfRHP) | [Neoma](https://open.spotify.com/artist/1rS9ZvNEWqnKY19g6uiqip) | [Might Forgive You / Tkm](https://open.spotify.com/album/76U2itVciKfi0JHTzKU3Kd) | 4:09 | 2023-03-17 |  |
-| [Mitad Sombra Mitad Luz](https://open.spotify.com/track/19TZhFuYIjDgHyybWTas7z) | [Lolaa](https://open.spotify.com/artist/6xbhKmbCwlnZmYHWK4gQGv), [Graham Wright](https://open.spotify.com/artist/7a3G9oqId0lZHHxJHwIfwx) | [La Marea](https://open.spotify.com/album/2bRYrAFZSz2H1ABwD8hqSW) | 4:01 | 2023-03-17 |  |
+| [Mitad Sombra Mitad Luz](https://open.spotify.com/track/19TZhFuYIjDgHyybWTas7z) | [Lolaa](https://open.spotify.com/artist/6xbhKmbCwlnZmYHWK4gQGv), [Graham Wright](https://open.spotify.com/artist/7a3G9oqId0lZHHxJHwIfwx) | [La Marea](https://open.spotify.com/album/2bRYrAFZSz2H1ABwD8hqSW) | 4:01 | 2023-03-17 | 2023-05-21 |
 | [MKM R<3MIX: Diego Tuñon \- Remix](https://open.spotify.com/track/48c7CFxW1GtA1OA5ybFgDc) | [Lichi](https://open.spotify.com/artist/1VJpLdCb3HI6WfG3uUA9ht), [Tuta Torres](https://open.spotify.com/artist/11nDvnfr08aAoSybUjhtZG), [Diego Tuñon](https://open.spotify.com/artist/2rICJWPmeSbx2iqiQH5e6o) | [MKM R<3MIX: Diego Tuñon \(Remix\)](https://open.spotify.com/album/1wcSYByfdjdLzbUuSmNvEJ) | 4:19 | 2023-05-12 |  |
 | [My Way](https://open.spotify.com/track/3UayvXfu3vC36Kzea4uxhT) | [Vera Nois](https://open.spotify.com/artist/2PfumsJv10WNf48i5L6ncG) | [Musicaland](https://open.spotify.com/album/4qD8Iomhwn77qqlhpXlBwD) | 3:35 | 2023-03-17 | 2023-04-22 |
 | [MÍO](https://open.spotify.com/track/7uPHgWAcx4Knbu6Qp0ULNe) | [Manu Beker](https://open.spotify.com/artist/2MrcyIp9eo5ksKDkyeX6KH), [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [MÍO](https://open.spotify.com/album/2GdI0IR3dlKQVgNtuwksJP) | 3:37 | 2023-03-17 |  |

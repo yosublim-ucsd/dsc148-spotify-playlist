@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYPN7VhE3PnY.md) - [plain]
 
 > remember when we were dark and brooding\. Cover: VÉRITÉ
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,697 likes - 50 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,770 likes - 50 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYPN7VhE3PnY.md) - [plain]
 | 49 | [Underdressed](https://open.spotify.com/track/1GQYCel7UNTNDZcja3jIXT) | [VÉRITÉ](https://open.spotify.com/artist/1Fr6agZ6iSM5Ynn2k4C8sc) | [Underdressed](https://open.spotify.com/album/2hLEfzJBnrscgIrEPvpH1m) | 3:54 |
 | 50 | [Indestructible](https://open.spotify.com/track/4CZ8nFoCsNNXuaX0qBm8LX) | [Robyn](https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2) | [Body Talk](https://open.spotify.com/album/0Rzg7fqyWE39G6wKipxrns) | 3:40 |
 
-Snapshot ID: `MCw2NmIyODc4YTIyZGY1YjMwZGY0NTU1Y2M2YTMwMzUwOTk0ZDI2YzVh`
+Snapshot ID: `MCwyOGRjYjVlZTM0YjFhNDA4ZWMzMTY0ZWJjMTI4YWZkZmU3MDgxOWU1`

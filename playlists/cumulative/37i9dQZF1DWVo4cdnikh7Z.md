@@ -4,7 +4,7 @@
 
 > New Music from Kollywood.<br/>Cover : Pathu Thala
 
-675 songs - 1 day 17 hr 55 min
+676 songs - 1 day 17 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -192,6 +192,7 @@
 | [Indru Vandha \(From "Kasethan Kadavulada"\)](https://open.spotify.com/track/0k59XV8FPcooQQaZHbLJR5) | [Chinmayi](https://open.spotify.com/artist/5UJ2sHO2ELrgW6aXeRLTQQ), [R.S\. Raj Prathap](https://open.spotify.com/artist/22gtQ3KpHSfxlqfDZdvZQB), [Vaali](https://open.spotify.com/artist/7m3MZA0qYo7ZHvsDONlc5r) | [Indru Vandha \(From "Kasethan Kadavulada"\) \- Single](https://open.spotify.com/album/7yOhaGUdsAOIODsY5WKaC4) | 4:25 | 2022-09-05 | 2022-09-09 |
 | [Inky Pinky Ponky](https://open.spotify.com/track/6o7G7zxI9TkcXVk6fi1yOm) | [G\. V\. Prakash](https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ), [Santhosh Hariharan](https://open.spotify.com/artist/4nWXekqN93Tx8hJUJwR66n), [Arivu](https://open.spotify.com/artist/7rVV9d6vc4FLT752uRuk71) | [Sardar \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0IHFkqhwCsmByxnhs94vAE) | 3:26 | 2022-10-19 | 2023-01-25 |
 | [Inner Peace \(From "Gulu Gulu"\)](https://open.spotify.com/track/6Nvjh7Y3mMNo7PgjnrAtYW) | [Santhosh Narayanan](https://open.spotify.com/artist/5FVBduYaeVBb6JIghza7v6) | [Inner Peace \(From "Gulu Gulu"\)](https://open.spotify.com/album/3ui2xBVOGemgMOgHy6Czot) | 3:08 | 2022-07-25 | 2022-08-15 |
+| [Jai Shri Ram \(From "Adipurush"\) \[TAMIL\]](https://open.spotify.com/track/57roa5zwj8scu7Jxa7cRhE) | [Ajay\-Atul](https://open.spotify.com/artist/5fvTHKKzW44A9867nPDocM), [Manoj Muntashir](https://open.spotify.com/artist/4cAERazLlAzVGA10ORWaUP), [G\. Muralidharan](https://open.spotify.com/artist/7Kn43p3LCJQ6Vqp6f2n3fY) | [Jai Shri Ram \(From "Adipurush"\) \[TAMIL\]](https://open.spotify.com/album/5juJbP7jt3yCwe48tNzWXQ) | 3:32 | 2023-05-20 |  |
 | [Jai Shri Ram \(TAMIL\)](https://open.spotify.com/track/0mR42hOIaz3GZoXZoyAX1K) | [Ajay\-Atul](https://open.spotify.com/artist/5fvTHKKzW44A9867nPDocM), [G\. Muralidren](https://open.spotify.com/artist/3RkyumerFUixMiEUKA90Cl) | [Jai Shri Ram \(TAMIL\)](https://open.spotify.com/album/1UZTjIVia2jtYa66BaKHeu) | 1:04 | 2023-04-22 | 2023-04-26 |
 | [Jail Kuthu \(From "Pattampoochi"\)](https://open.spotify.com/track/5uLyuXrxRce91PK9cSfQBQ) | [Deva](https://open.spotify.com/artist/1aXtuiimQwgW8Xqztgp4Kf), [Jai](https://open.spotify.com/artist/3uHnfXxUrnPq1XYw8t8Sz2) | [Jail Kuthu \(From "Pattampoochi"\)](https://open.spotify.com/album/65yFOrYA8wpTtRtUyE7Pi8) | 3:34 | 2022-07-11 | 2022-07-22 |
 | [Jalabulajangu](https://open.spotify.com/track/4lS1ldfypKYEwKqbu3a04x) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Rokesh](https://open.spotify.com/artist/6R33h8YbB5fFg8RdJdQ6bL) | [Don \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6kNAeOCtoLHlxTsokhiR1u) | 3:22 | 2022-06-06 | 2022-12-27 |

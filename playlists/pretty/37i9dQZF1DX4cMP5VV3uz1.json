@@ -1,12 +1,12 @@
 {
   "description": "Filthy bass bangers to soundtrack your sesh",
-  "num_followers": 123895,
+  "num_followers": 123997,
   "original_name": "Proper Naughty ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyZmE2MDA0ZmI5MDk5N2I1M2VlYjBlMWRhNzcxYjczYjVhYTk2NTkz",
+  "snapshot_id": "MCwwYTFhODI1Zjk5OTA5M2I1MTA0OTQ3Mjc3YzU3NDdkNGQwOWFhZmJm",
   "tracks": [
     {
       "added_at": "2023-05-19 14:45:56",
@@ -407,6 +407,22 @@
     {
       "added_at": "2023-05-19 14:45:56",
       "album": {
+        "name": "Higher",
+        "url": "https://open.spotify.com/album/54UV4KhjOJbdHqkL1PO4mb"
+      },
+      "artists": [
+        {
+          "name": "Aktive",
+          "url": "https://open.spotify.com/artist/7gWmjYSqrYyY3h2ATvP87g"
+        }
+      ],
+      "duration_ms": 198620,
+      "name": "Higher",
+      "url": "https://open.spotify.com/track/1dHW6MypbqYUzRXAItBQ07"
+    },
+    {
+      "added_at": "2023-05-19 14:45:56",
+      "album": {
         "name": "Stan Smith",
         "url": "https://open.spotify.com/album/2s7f4Qihh5MV7D6lKLPBjB"
       },
@@ -423,22 +439,6 @@
       "duration_ms": 235000,
       "name": "Stan Smith",
       "url": "https://open.spotify.com/track/0nCgsAki7e7I243CUblGxU"
-    },
-    {
-      "added_at": "2023-05-19 14:45:56",
-      "album": {
-        "name": "Higher",
-        "url": "https://open.spotify.com/album/54UV4KhjOJbdHqkL1PO4mb"
-      },
-      "artists": [
-        {
-          "name": "Aktive",
-          "url": "https://open.spotify.com/artist/7gWmjYSqrYyY3h2ATvP87g"
-        }
-      ],
-      "duration_ms": 198620,
-      "name": "Higher",
-      "url": "https://open.spotify.com/track/1dHW6MypbqYUzRXAItBQ07"
     },
     {
       "added_at": "2023-05-19 14:45:56",
@@ -555,6 +555,22 @@
     {
       "added_at": "2023-05-19 14:45:56",
       "album": {
+        "name": "Tour",
+        "url": "https://open.spotify.com/album/1fPMAtqc8DOwCSLIVb98xv"
+      },
+      "artists": [
+        {
+          "name": "Macky Gee",
+          "url": "https://open.spotify.com/artist/5EDztvTkyoKtK0ZdEdhOFx"
+        }
+      ],
+      "duration_ms": 289371,
+      "name": "Tour",
+      "url": "https://open.spotify.com/track/1Mze7crzF9BWo82DiAsmjj"
+    },
+    {
+      "added_at": "2023-05-19 14:45:56",
+      "album": {
         "name": "Stars On The Roof (feat. MoMo)",
         "url": "https://open.spotify.com/album/6o2oXNriDnljYllyCIaL99"
       },
@@ -571,22 +587,6 @@
       "duration_ms": 242769,
       "name": "Stars On The Roof (feat. MoMo)",
       "url": "https://open.spotify.com/track/354Cv7huFJnlEdVAHvhH3Q"
-    },
-    {
-      "added_at": "2023-05-19 14:45:56",
-      "album": {
-        "name": "Tour",
-        "url": "https://open.spotify.com/album/1fPMAtqc8DOwCSLIVb98xv"
-      },
-      "artists": [
-        {
-          "name": "Macky Gee",
-          "url": "https://open.spotify.com/artist/5EDztvTkyoKtK0ZdEdhOFx"
-        }
-      ],
-      "duration_ms": 289371,
-      "name": "Tour",
-      "url": "https://open.spotify.com/track/1Mze7crzF9BWo82DiAsmjj"
     },
     {
       "added_at": "2023-05-19 14:45:56",
@@ -739,26 +739,6 @@
     {
       "added_at": "2023-05-19 14:45:56",
       "album": {
-        "name": "Downers (Rework)",
-        "url": "https://open.spotify.com/album/6wLqsCijGoDRJ1RZYSPqCk"
-      },
-      "artists": [
-        {
-          "name": "goddard.",
-          "url": "https://open.spotify.com/artist/3yDDYheQFqfhKZXdjFQuuP"
-        },
-        {
-          "name": "Greentea Peng",
-          "url": "https://open.spotify.com/artist/5z9wLR0RGBcWMXr4fCZW0K"
-        }
-      ],
-      "duration_ms": 181689,
-      "name": "Downers - Rework",
-      "url": "https://open.spotify.com/track/3ZHw4fR70ep2fjqa14RcBi"
-    },
-    {
-      "added_at": "2023-05-19 14:45:56",
-      "album": {
         "name": "All For You",
         "url": "https://open.spotify.com/album/254Y0CD07dB40q84db89EB"
       },
@@ -775,6 +755,26 @@
       "duration_ms": 202691,
       "name": "All For You",
       "url": "https://open.spotify.com/track/3y1fEFFHFv79OYeCbzc774"
+    },
+    {
+      "added_at": "2023-05-19 14:45:56",
+      "album": {
+        "name": "Downers (Rework)",
+        "url": "https://open.spotify.com/album/6wLqsCijGoDRJ1RZYSPqCk"
+      },
+      "artists": [
+        {
+          "name": "goddard.",
+          "url": "https://open.spotify.com/artist/3yDDYheQFqfhKZXdjFQuuP"
+        },
+        {
+          "name": "Greentea Peng",
+          "url": "https://open.spotify.com/artist/5z9wLR0RGBcWMXr4fCZW0K"
+        }
+      ],
+      "duration_ms": 181689,
+      "name": "Downers - Rework",
+      "url": "https://open.spotify.com/track/3ZHw4fR70ep2fjqa14RcBi"
     },
     {
       "added_at": "2023-05-19 14:45:56",
@@ -871,6 +871,26 @@
     {
       "added_at": "2023-05-19 14:45:56",
       "album": {
+        "name": "Streetside",
+        "url": "https://open.spotify.com/album/138qbOSq6Wy6ubheDW8HBK"
+      },
+      "artists": [
+        {
+          "name": "Bru-C",
+          "url": "https://open.spotify.com/artist/7GDrXlpRrdG29o4n0pNR5D"
+        },
+        {
+          "name": "Bou",
+          "url": "https://open.spotify.com/artist/35dxfY1wywqVRUEaVuMm13"
+        }
+      ],
+      "duration_ms": 219428,
+      "name": "Streetside",
+      "url": "https://open.spotify.com/track/48nIqwRQyLtqEcGzJWykLL"
+    },
+    {
+      "added_at": "2023-05-19 14:45:56",
+      "album": {
         "name": "Shut It Down",
         "url": "https://open.spotify.com/album/540Df5chb7iGHb1GSCYD8B"
       },
@@ -907,26 +927,6 @@
       "duration_ms": 240337,
       "name": "Lumberjackin' - Vocal Mix",
       "url": "https://open.spotify.com/track/2rrQ5uFbqOpJ1dYFfiV30G"
-    },
-    {
-      "added_at": "2023-05-19 14:45:56",
-      "album": {
-        "name": "Streetside",
-        "url": "https://open.spotify.com/album/138qbOSq6Wy6ubheDW8HBK"
-      },
-      "artists": [
-        {
-          "name": "Bru-C",
-          "url": "https://open.spotify.com/artist/7GDrXlpRrdG29o4n0pNR5D"
-        },
-        {
-          "name": "Bou",
-          "url": "https://open.spotify.com/artist/35dxfY1wywqVRUEaVuMm13"
-        }
-      ],
-      "duration_ms": 219428,
-      "name": "Streetside",
-      "url": "https://open.spotify.com/track/48nIqwRQyLtqEcGzJWykLL"
     },
     {
       "added_at": "2023-05-19 14:45:56",
@@ -991,6 +991,26 @@
       "duration_ms": 184270,
       "name": "Absolute",
       "url": "https://open.spotify.com/track/6eCNeilo1YaFuxSWHQYBg9"
+    },
+    {
+      "added_at": "2023-05-19 14:45:56",
+      "album": {
+        "name": "Original Sounds",
+        "url": "https://open.spotify.com/album/1ylJ8b59k8DOdSFC8IsA4m"
+      },
+      "artists": [
+        {
+          "name": "Bru-C",
+          "url": "https://open.spotify.com/artist/7GDrXlpRrdG29o4n0pNR5D"
+        },
+        {
+          "name": "Simula",
+          "url": "https://open.spotify.com/artist/2KCmoJZgpL6hNFdT4l9PTl"
+        }
+      ],
+      "duration_ms": 264000,
+      "name": "You & I (feat. Simula)",
+      "url": "https://open.spotify.com/track/6Cu9UhyPS5VitSAdwGaM2i"
     },
     {
       "added_at": "2023-05-19 14:45:56",
@@ -1107,26 +1127,6 @@
     {
       "added_at": "2023-05-19 14:45:56",
       "album": {
-        "name": "Original Sounds",
-        "url": "https://open.spotify.com/album/1ylJ8b59k8DOdSFC8IsA4m"
-      },
-      "artists": [
-        {
-          "name": "Bru-C",
-          "url": "https://open.spotify.com/artist/7GDrXlpRrdG29o4n0pNR5D"
-        },
-        {
-          "name": "Simula",
-          "url": "https://open.spotify.com/artist/2KCmoJZgpL6hNFdT4l9PTl"
-        }
-      ],
-      "duration_ms": 264000,
-      "name": "You & I (feat. Simula)",
-      "url": "https://open.spotify.com/track/6Cu9UhyPS5VitSAdwGaM2i"
-    },
-    {
-      "added_at": "2023-05-19 14:45:56",
-      "album": {
         "name": "Lively (feat. Jaykae & Blair Muir)",
         "url": "https://open.spotify.com/album/0Z8jfqzvBnUHiSfVBXXniD"
       },
@@ -1187,6 +1187,54 @@
     {
       "added_at": "2023-05-19 14:45:56",
       "album": {
+        "name": "Playground",
+        "url": "https://open.spotify.com/album/7tkXq8OvQW8gBK0zaZkvdP"
+      },
+      "artists": [
+        {
+          "name": "Bru-C",
+          "url": "https://open.spotify.com/artist/7GDrXlpRrdG29o4n0pNR5D"
+        }
+      ],
+      "duration_ms": 232215,
+      "name": "Playground",
+      "url": "https://open.spotify.com/track/1Rv0Xew7tgajMBfd2XpsHJ"
+    },
+    {
+      "added_at": "2023-05-19 14:45:56",
+      "album": {
+        "name": "When It Rains, It Pours (Shapes Remix) (feat. Coco, Mr Traumatik & Songer)",
+        "url": "https://open.spotify.com/album/3lxi18DxYCsn3fMv2F4Y9L"
+      },
+      "artists": [
+        {
+          "name": "Bad Boy Chiller Crew",
+          "url": "https://open.spotify.com/artist/5SRr4ZJMoygWecytkIwlaV"
+        },
+        {
+          "name": "Coco",
+          "url": "https://open.spotify.com/artist/7q33wxvdJ95u6w3fY2q5ai"
+        },
+        {
+          "name": "Songer",
+          "url": "https://open.spotify.com/artist/1iW3b73XWPQSknLyH5kDrd"
+        },
+        {
+          "name": "Mr Traumatik",
+          "url": "https://open.spotify.com/artist/2ZKsAq380W6XWsyWyuKv3Z"
+        },
+        {
+          "name": "Shapes",
+          "url": "https://open.spotify.com/artist/1bZ8OZoO6E3KRtXQrYVNaw"
+        }
+      ],
+      "duration_ms": 254946,
+      "name": "When It Rains, It Pours (feat. Coco, Mr Traumatik & Songer) - Shapes Remix",
+      "url": "https://open.spotify.com/track/5XDS88WPZRekqrBBfawjI5"
+    },
+    {
+      "added_at": "2023-05-19 14:45:56",
+      "album": {
         "name": "Getting Started (Chase & Status Remix)",
         "url": "https://open.spotify.com/album/5EoFVpPoxG7JSMtd7JATZ1"
       },
@@ -1239,38 +1287,6 @@
     {
       "added_at": "2023-05-19 14:45:56",
       "album": {
-        "name": "When It Rains, It Pours (Shapes Remix) (feat. Coco, Mr Traumatik & Songer)",
-        "url": "https://open.spotify.com/album/3lxi18DxYCsn3fMv2F4Y9L"
-      },
-      "artists": [
-        {
-          "name": "Bad Boy Chiller Crew",
-          "url": "https://open.spotify.com/artist/5SRr4ZJMoygWecytkIwlaV"
-        },
-        {
-          "name": "Coco",
-          "url": "https://open.spotify.com/artist/7q33wxvdJ95u6w3fY2q5ai"
-        },
-        {
-          "name": "Songer",
-          "url": "https://open.spotify.com/artist/1iW3b73XWPQSknLyH5kDrd"
-        },
-        {
-          "name": "Mr Traumatik",
-          "url": "https://open.spotify.com/artist/2ZKsAq380W6XWsyWyuKv3Z"
-        },
-        {
-          "name": "Shapes",
-          "url": "https://open.spotify.com/artist/1bZ8OZoO6E3KRtXQrYVNaw"
-        }
-      ],
-      "duration_ms": 254946,
-      "name": "When It Rains, It Pours (feat. Coco, Mr Traumatik & Songer) - Shapes Remix",
-      "url": "https://open.spotify.com/track/5XDS88WPZRekqrBBfawjI5"
-    },
-    {
-      "added_at": "2023-05-19 14:45:56",
-      "album": {
         "name": "We'll Be Alright EP",
         "url": "https://open.spotify.com/album/1UBO3OwOuo6b4SxvOkum61"
       },
@@ -1287,6 +1303,26 @@
     {
       "added_at": "2023-05-19 14:45:56",
       "album": {
+        "name": "Evolve",
+        "url": "https://open.spotify.com/album/6N2cAL092Va3dLV4wKWd6Y"
+      },
+      "artists": [
+        {
+          "name": "Sub Focus",
+          "url": "https://open.spotify.com/artist/0QaSiI5TLA4N7mcsdxShDO"
+        },
+        {
+          "name": "AR/CO",
+          "url": "https://open.spotify.com/artist/7mGI9Sd66FqHjIkwzkgbG7"
+        }
+      ],
+      "duration_ms": 242760,
+      "name": "Vibration (feat. AR/CO)",
+      "url": "https://open.spotify.com/track/75xoQG7rwVC2xNGZOfg2mh"
+    },
+    {
+      "added_at": "2023-05-19 14:45:56",
+      "album": {
         "name": "Moments",
         "url": "https://open.spotify.com/album/2Qkuca2YzJW0cSPiGrPXmR"
       },
@@ -1299,22 +1335,6 @@
       "duration_ms": 227657,
       "name": "Moments",
       "url": "https://open.spotify.com/track/6fdr24Ns8PoBQ8wGwuupRr"
-    },
-    {
-      "added_at": "2023-05-19 14:45:56",
-      "album": {
-        "name": "Playground",
-        "url": "https://open.spotify.com/album/7tkXq8OvQW8gBK0zaZkvdP"
-      },
-      "artists": [
-        {
-          "name": "Bru-C",
-          "url": "https://open.spotify.com/artist/7GDrXlpRrdG29o4n0pNR5D"
-        }
-      ],
-      "duration_ms": 232215,
-      "name": "Playground",
-      "url": "https://open.spotify.com/track/1Rv0Xew7tgajMBfd2XpsHJ"
     },
     {
       "added_at": "2023-05-19 14:45:56",
@@ -1355,22 +1375,6 @@
     {
       "added_at": "2023-05-19 14:45:56",
       "album": {
-        "name": "Renegade",
-        "url": "https://open.spotify.com/album/0HlsaMsBjldN8ilQkkF4G8"
-      },
-      "artists": [
-        {
-          "name": "Bad Boy Chiller Crew",
-          "url": "https://open.spotify.com/artist/5SRr4ZJMoygWecytkIwlaV"
-        }
-      ],
-      "duration_ms": 154650,
-      "name": "Renegade",
-      "url": "https://open.spotify.com/track/2QWXmgMXYp1UM3LyHVaAFe"
-    },
-    {
-      "added_at": "2023-05-19 14:45:56",
-      "album": {
         "name": "Trouble You",
         "url": "https://open.spotify.com/album/6ywuNTPdyga6Cxl5Q49LNp"
       },
@@ -1395,22 +1399,18 @@
     {
       "added_at": "2023-05-19 14:45:56",
       "album": {
-        "name": "Evolve",
-        "url": "https://open.spotify.com/album/6N2cAL092Va3dLV4wKWd6Y"
+        "name": "Renegade",
+        "url": "https://open.spotify.com/album/0HlsaMsBjldN8ilQkkF4G8"
       },
       "artists": [
         {
-          "name": "Sub Focus",
-          "url": "https://open.spotify.com/artist/0QaSiI5TLA4N7mcsdxShDO"
-        },
-        {
-          "name": "AR/CO",
-          "url": "https://open.spotify.com/artist/7mGI9Sd66FqHjIkwzkgbG7"
+          "name": "Bad Boy Chiller Crew",
+          "url": "https://open.spotify.com/artist/5SRr4ZJMoygWecytkIwlaV"
         }
       ],
-      "duration_ms": 242760,
-      "name": "Vibration (feat. AR/CO)",
-      "url": "https://open.spotify.com/track/75xoQG7rwVC2xNGZOfg2mh"
+      "duration_ms": 154650,
+      "name": "Renegade",
+      "url": "https://open.spotify.com/track/2QWXmgMXYp1UM3LyHVaAFe"
     },
     {
       "added_at": "2023-05-19 14:45:56",

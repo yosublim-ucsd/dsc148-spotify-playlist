@@ -4,7 +4,7 @@
 
 > Beautiful instrumental music to keep you in the flow as you code or study\. An ideal playlist for programming during stressful times \-\-\- \| program \| programmer \| software \| software engineer \| computer science \| concentrate \| concentration \| focusing \|
 
-982 songs - 22 hr 12 min
+983 songs - 22 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -623,6 +623,7 @@
 | [Peaceful Reflections](https://open.spotify.com/track/15xvoeHUqHkhZOzbylU2g6) | [Harp Flow](https://open.spotify.com/artist/1dTMXyW6jjoTvvf7ktsuGH) | [Peaceful Reflections](https://open.spotify.com/album/2kmbTDEENYriN3fuStkIbw) | 1:01 | 2022-11-01 |  |
 | [Peaceful Silence](https://open.spotify.com/track/4vZrqIZc16vNAhhh4uADPu) | [Open Blue Sky](https://open.spotify.com/artist/0G1U8wfQEhTYRtBPel0hlC) | [Serene Moments](https://open.spotify.com/album/6u831RiIAfoxHs2kG8Bzwm) | 1:05 | 2022-06-01 |  |
 | [Peaceful Solitude](https://open.spotify.com/track/2V8tWQBB9sPCFZ6zbqQdfo) | [Poella](https://open.spotify.com/artist/0to4jGriVUNpgXmdw9C9js) | [Solace](https://open.spotify.com/album/4dP9u4vO1TEht5cxYPU2Uw) | 2:06 | 2022-01-12 |  |
+| [Peaceful Sunrise](https://open.spotify.com/track/3Hwl8kNxSyCic88uX0Wz5b) | [Melody Lake](https://open.spotify.com/artist/1we36odvLMnv4ESemMwWs7) | [Peaceful Sunrise](https://open.spotify.com/album/1bh1Xs425R8rkGssIgOhn6) | 1:01 | 2023-05-20 |  |
 | [Peaceful Wandering](https://open.spotify.com/track/39IJSsoNrdyK4CqNZSBn66) | [Poella](https://open.spotify.com/artist/0to4jGriVUNpgXmdw9C9js) | [Ambient Dreams](https://open.spotify.com/album/6DvxWur0lYlqx9ttPHs3ZT) | 1:45 | 2022-01-12 |  |
 | [Peak Calm](https://open.spotify.com/track/23w76N1lxIasS5HoNs9Tzp) | [Moonlight Echoes](https://open.spotify.com/artist/5eXoCTlZLghzUNQB3xTAuC) | [Atmospheric Strings](https://open.spotify.com/album/5QVVcAmb2omYcc4V93rtjY) | 1:03 | 2022-03-11 |  |
 | [Perfect Love](https://open.spotify.com/track/2UXaLIPQKYUBsQhJ8nUoG9) | [Limelight Glow](https://open.spotify.com/artist/24tFl1Ahli94KF2N76dCEy) | [Perfect Love](https://open.spotify.com/album/4lcXnHQmHbEtpIvgtwHe5J) | 1:00 | 2022-05-19 |  |

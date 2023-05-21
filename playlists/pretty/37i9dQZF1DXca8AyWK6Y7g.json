@@ -1,12 +1,12 @@
 {
   "description": "livin' life in your 250 sq ft apt cover: Chappell Roan",
-  "num_followers": 1471578,
+  "num_followers": 1471696,
   "original_name": "young & free",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhMDAwMjc4YjU3NDNlN2MwODNiN2MxN2U5Zjg0OTAzYTZiYjI2NmE5",
+  "snapshot_id": "MCxmYjIxYzYyMjE4NmExOTk5M2Q2ZjE5Yzc3N2FkY2NmNGEwNWZjZTY1",
   "tracks": [
     {
       "added_at": "2023-05-19 04:01:00",
@@ -583,6 +583,22 @@
     {
       "added_at": "2023-05-05 04:00:00",
       "album": {
+        "name": "Eyes On You",
+        "url": "https://open.spotify.com/album/2vwW8EzZGZaAFfZ2HYL1hE"
+      },
+      "artists": [
+        {
+          "name": "Nicky Youre",
+          "url": "https://open.spotify.com/artist/7qmpXeNz2ojlMl2EEfkeLs"
+        }
+      ],
+      "duration_ms": 177371,
+      "name": "Eyes On You",
+      "url": "https://open.spotify.com/track/6qItx3M2IZbXBKRnptbnHM"
+    },
+    {
+      "added_at": "2023-05-05 04:00:00",
+      "album": {
         "name": "Red Flags",
         "url": "https://open.spotify.com/album/3NMyirgSjJz5O7dkrMLRpa"
       },
@@ -599,18 +615,18 @@
     {
       "added_at": "2023-05-05 04:00:00",
       "album": {
-        "name": "Eyes On You",
-        "url": "https://open.spotify.com/album/2vwW8EzZGZaAFfZ2HYL1hE"
+        "name": "american jesus",
+        "url": "https://open.spotify.com/album/7D970R6nLDmuw6XlpsceFW"
       },
       "artists": [
         {
-          "name": "Nicky Youre",
-          "url": "https://open.spotify.com/artist/7qmpXeNz2ojlMl2EEfkeLs"
+          "name": "Nessa Barrett",
+          "url": "https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ"
         }
       ],
-      "duration_ms": 177371,
-      "name": "Eyes On You",
-      "url": "https://open.spotify.com/track/6qItx3M2IZbXBKRnptbnHM"
+      "duration_ms": 168899,
+      "name": "american jesus",
+      "url": "https://open.spotify.com/track/6gnjE8oBkosBIEZroEjq4I"
     },
     {
       "added_at": "2023-05-05 04:00:00",
@@ -635,22 +651,6 @@
       "duration_ms": 175090,
       "name": "Fantasy (with GAYLE & Em Beihold)",
       "url": "https://open.spotify.com/track/5Ldhogrc9RWAjXUQ3tXuUD"
-    },
-    {
-      "added_at": "2023-05-05 04:00:00",
-      "album": {
-        "name": "american jesus",
-        "url": "https://open.spotify.com/album/7D970R6nLDmuw6XlpsceFW"
-      },
-      "artists": [
-        {
-          "name": "Nessa Barrett",
-          "url": "https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ"
-        }
-      ],
-      "duration_ms": 168899,
-      "name": "american jesus",
-      "url": "https://open.spotify.com/track/6gnjE8oBkosBIEZroEjq4I"
     },
     {
       "added_at": "2023-05-05 04:00:00",
@@ -979,22 +979,6 @@
     {
       "added_at": "2023-05-05 04:00:00",
       "album": {
-        "name": "House On Fire",
-        "url": "https://open.spotify.com/album/4zZ3DDacL1IvmaozxYEGuL"
-      },
-      "artists": [
-        {
-          "name": "Mimi Webb",
-          "url": "https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz"
-        }
-      ],
-      "duration_ms": 140803,
-      "name": "House On Fire",
-      "url": "https://open.spotify.com/track/2iHsdUnmKGIuc9oRE3DfgJ"
-    },
-    {
-      "added_at": "2023-05-05 04:00:00",
-      "album": {
         "name": "Wish You the Worst",
         "url": "https://open.spotify.com/album/4JsqUzG5orBKjf3LC0d6We"
       },
@@ -1007,6 +991,22 @@
       "duration_ms": 143466,
       "name": "Wish You the Worst",
       "url": "https://open.spotify.com/track/0cOwPdK6FsqXz967daLc4k"
+    },
+    {
+      "added_at": "2023-05-05 04:00:00",
+      "album": {
+        "name": "House On Fire",
+        "url": "https://open.spotify.com/album/4zZ3DDacL1IvmaozxYEGuL"
+      },
+      "artists": [
+        {
+          "name": "Mimi Webb",
+          "url": "https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz"
+        }
+      ],
+      "duration_ms": 140803,
+      "name": "House On Fire",
+      "url": "https://open.spotify.com/track/2iHsdUnmKGIuc9oRE3DfgJ"
     },
     {
       "added_at": "2023-05-05 04:00:00",
@@ -1025,22 +1025,6 @@
       "url": "https://open.spotify.com/track/55RszydvrfNlZ2BQdF1c4q"
     },
     {
-      "added_at": "2023-05-05 04:00:00",
-      "album": {
-        "name": "Lego Blocks",
-        "url": "https://open.spotify.com/album/1z6yLxp8En102543kFdidP"
-      },
-      "artists": [
-        {
-          "name": "NERIAH",
-          "url": "https://open.spotify.com/artist/1dUrqVHcv2FCXxlIqzIbiG"
-        }
-      ],
-      "duration_ms": 159493,
-      "name": "Lego Blocks",
-      "url": "https://open.spotify.com/track/01RJQlTi0aR0syDcSFLzTv"
-    },
-    {
       "added_at": "2023-05-12 04:01:00",
       "album": {
         "name": "OK",
@@ -1055,6 +1039,22 @@
       "duration_ms": 263986,
       "name": "OK",
       "url": "https://open.spotify.com/track/2RSAu3AGDi2sPhYEjSZmzv"
+    },
+    {
+      "added_at": "2023-05-05 04:00:00",
+      "album": {
+        "name": "Lego Blocks",
+        "url": "https://open.spotify.com/album/1z6yLxp8En102543kFdidP"
+      },
+      "artists": [
+        {
+          "name": "NERIAH",
+          "url": "https://open.spotify.com/artist/1dUrqVHcv2FCXxlIqzIbiG"
+        }
+      ],
+      "duration_ms": 159493,
+      "name": "Lego Blocks",
+      "url": "https://open.spotify.com/track/01RJQlTi0aR0syDcSFLzTv"
     },
     {
       "added_at": "2023-05-05 04:00:00",
@@ -1187,22 +1187,6 @@
     {
       "added_at": "2023-05-05 04:00:00",
       "album": {
-        "name": "Everything To Everyone (Deluxe)",
-        "url": "https://open.spotify.com/album/1KSAqXIHFEWo73keoru7FX"
-      },
-      "artists": [
-        {
-          "name": "Rene\u00e9 Rapp",
-          "url": "https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn"
-        }
-      ],
-      "duration_ms": 161469,
-      "name": "Bruises",
-      "url": "https://open.spotify.com/track/5kUqU9uLc98ndpJiqieN8K"
-    },
-    {
-      "added_at": "2023-05-05 04:00:00",
-      "album": {
         "name": "Last Call",
         "url": "https://open.spotify.com/album/30mIxNNrgF9iV6fjVfxRdD"
       },
@@ -1215,6 +1199,22 @@
       "duration_ms": 174183,
       "name": "Last Call",
       "url": "https://open.spotify.com/track/73QGVDmZWTLnQ6lG7rF1vd"
+    },
+    {
+      "added_at": "2023-05-05 04:00:00",
+      "album": {
+        "name": "Everything To Everyone (Deluxe)",
+        "url": "https://open.spotify.com/album/1KSAqXIHFEWo73keoru7FX"
+      },
+      "artists": [
+        {
+          "name": "Rene\u00e9 Rapp",
+          "url": "https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn"
+        }
+      ],
+      "duration_ms": 161469,
+      "name": "Bruises",
+      "url": "https://open.spotify.com/track/5kUqU9uLc98ndpJiqieN8K"
     },
     {
       "added_at": "2023-05-05 04:00:00",
@@ -1327,22 +1327,6 @@
     {
       "added_at": "2023-05-05 04:00:00",
       "album": {
-        "name": "Everything To Everyone",
-        "url": "https://open.spotify.com/album/4Kk5hoolfW8UN6cTSo5fXJ"
-      },
-      "artists": [
-        {
-          "name": "Rene\u00e9 Rapp",
-          "url": "https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn"
-        }
-      ],
-      "duration_ms": 172845,
-      "name": "Colorado",
-      "url": "https://open.spotify.com/track/1nnyYFtJHwVbph84SctOtC"
-    },
-    {
-      "added_at": "2023-05-05 04:00:00",
-      "album": {
         "name": "All I Ever Asked",
         "url": "https://open.spotify.com/album/2FuT85CBZhzZ8dndFdtwXn"
       },
@@ -1355,6 +1339,22 @@
       "duration_ms": 215384,
       "name": "All I Ever Asked",
       "url": "https://open.spotify.com/track/2F9DCIJ7ZXHhNkiIlIIOkw"
+    },
+    {
+      "added_at": "2023-05-05 04:00:00",
+      "album": {
+        "name": "Everything To Everyone",
+        "url": "https://open.spotify.com/album/4Kk5hoolfW8UN6cTSo5fXJ"
+      },
+      "artists": [
+        {
+          "name": "Rene\u00e9 Rapp",
+          "url": "https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn"
+        }
+      ],
+      "duration_ms": 172845,
+      "name": "Colorado",
+      "url": "https://open.spotify.com/track/1nnyYFtJHwVbph84SctOtC"
     },
     {
       "added_at": "2023-05-05 04:00:00",
@@ -1405,6 +1405,22 @@
       "url": "https://open.spotify.com/track/5ZSV1Y3Cq2HkGOYOwxpClP"
     },
     {
+      "added_at": "2023-05-12 04:01:00",
+      "album": {
+        "name": "Prescription",
+        "url": "https://open.spotify.com/album/7HmE6jyAnWoVY870oQGNpo"
+      },
+      "artists": [
+        {
+          "name": "Remi Wolf",
+          "url": "https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d"
+        }
+      ],
+      "duration_ms": 213237,
+      "name": "Prescription",
+      "url": "https://open.spotify.com/track/0ZlTm4xJKaSU98ZLza858W"
+    },
+    {
       "added_at": "2023-05-05 04:00:00",
       "album": {
         "name": "Showed Me (How I Fell In Love With You)",
@@ -1437,20 +1453,20 @@
       "url": "https://open.spotify.com/track/3EwCOs6Dh5tlsbIpvMjH4I"
     },
     {
-      "added_at": "2023-05-12 04:01:00",
+      "added_at": "2023-05-05 04:00:00",
       "album": {
-        "name": "Prescription",
-        "url": "https://open.spotify.com/album/7HmE6jyAnWoVY870oQGNpo"
+        "name": "u turn me on (but u give me depression)",
+        "url": "https://open.spotify.com/album/7tAEvWFVlVMoPWwyVcwKx8"
       },
       "artists": [
         {
-          "name": "Remi Wolf",
-          "url": "https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d"
+          "name": "L\u00d8L\u00d8",
+          "url": "https://open.spotify.com/artist/5MjcGshMggPgIHinIUDaX0"
         }
       ],
-      "duration_ms": 213237,
-      "name": "Prescription",
-      "url": "https://open.spotify.com/track/0ZlTm4xJKaSU98ZLza858W"
+      "duration_ms": 147535,
+      "name": "u turn me on (but u give me depression)",
+      "url": "https://open.spotify.com/track/7MeP128gHh4GyTMoGUiZlt"
     },
     {
       "added_at": "2023-05-05 04:00:00",
@@ -1467,22 +1483,6 @@
       "duration_ms": 140598,
       "name": "feelings",
       "url": "https://open.spotify.com/track/7yLfsctj9g0z2NB3v3IGcz"
-    },
-    {
-      "added_at": "2023-05-05 04:00:00",
-      "album": {
-        "name": "u turn me on (but u give me depression)",
-        "url": "https://open.spotify.com/album/7tAEvWFVlVMoPWwyVcwKx8"
-      },
-      "artists": [
-        {
-          "name": "L\u00d8L\u00d8",
-          "url": "https://open.spotify.com/artist/5MjcGshMggPgIHinIUDaX0"
-        }
-      ],
-      "duration_ms": 147535,
-      "name": "u turn me on (but u give me depression)",
-      "url": "https://open.spotify.com/track/7MeP128gHh4GyTMoGUiZlt"
     },
     {
       "added_at": "2023-05-05 04:00:00",
@@ -1587,22 +1587,6 @@
     {
       "added_at": "2023-05-05 04:00:00",
       "album": {
-        "name": "If I Weren't Me",
-        "url": "https://open.spotify.com/album/0aLX2BbaYcSi6nvOqY9EM7"
-      },
-      "artists": [
-        {
-          "name": "Katherine Li",
-          "url": "https://open.spotify.com/artist/6C7CCNJVIGEla8AI1LuBxI"
-        }
-      ],
-      "duration_ms": 151631,
-      "name": "If I Weren't Me",
-      "url": "https://open.spotify.com/track/5VGDusp81Ed3T9xACRw5Os"
-    },
-    {
-      "added_at": "2023-05-05 04:00:00",
-      "album": {
         "name": "Manic Dream Pixie",
         "url": "https://open.spotify.com/album/37v0q6s1IB9jSCPMIpFwFN"
       },
@@ -1631,6 +1615,22 @@
       "duration_ms": 124000,
       "name": "Poison",
       "url": "https://open.spotify.com/track/5StQDoFQTDElQjMnfk8qIy"
+    },
+    {
+      "added_at": "2023-05-05 04:00:00",
+      "album": {
+        "name": "If I Weren't Me",
+        "url": "https://open.spotify.com/album/0aLX2BbaYcSi6nvOqY9EM7"
+      },
+      "artists": [
+        {
+          "name": "Katherine Li",
+          "url": "https://open.spotify.com/artist/6C7CCNJVIGEla8AI1LuBxI"
+        }
+      ],
+      "duration_ms": 151631,
+      "name": "If I Weren't Me",
+      "url": "https://open.spotify.com/track/5VGDusp81Ed3T9xACRw5Os"
     },
     {
       "added_at": "2023-05-05 04:00:00",
@@ -1751,22 +1751,6 @@
     {
       "added_at": "2023-05-05 04:00:00",
       "album": {
-        "name": "Crazier Best Friend",
-        "url": "https://open.spotify.com/album/4tNwSshyEfPg3tltRHZn3j"
-      },
-      "artists": [
-        {
-          "name": "Andi",
-          "url": "https://open.spotify.com/artist/7fEXIS5LgSLbCdzTePqe0V"
-        }
-      ],
-      "duration_ms": 171214,
-      "name": "Crazier Best Friend",
-      "url": "https://open.spotify.com/track/0nh9KP6DfRC2SrgZfBykkY"
-    },
-    {
-      "added_at": "2023-05-05 04:00:00",
-      "album": {
         "name": "Casual",
         "url": "https://open.spotify.com/album/0OLxztpxYJ9BAOPzGkD0Wf"
       },
@@ -1779,6 +1763,22 @@
       "duration_ms": 232796,
       "name": "Casual",
       "url": "https://open.spotify.com/track/4cEVbTyE1o7ZcgKU3wK8gH"
+    },
+    {
+      "added_at": "2023-05-05 04:00:00",
+      "album": {
+        "name": "Crazier Best Friend",
+        "url": "https://open.spotify.com/album/4tNwSshyEfPg3tltRHZn3j"
+      },
+      "artists": [
+        {
+          "name": "Andi",
+          "url": "https://open.spotify.com/artist/7fEXIS5LgSLbCdzTePqe0V"
+        }
+      ],
+      "duration_ms": 171214,
+      "name": "Crazier Best Friend",
+      "url": "https://open.spotify.com/track/0nh9KP6DfRC2SrgZfBykkY"
     },
     {
       "added_at": "2023-05-05 04:00:00",
@@ -1799,38 +1799,6 @@
     {
       "added_at": "2023-05-05 04:00:00",
       "album": {
-        "name": "Happening Again",
-        "url": "https://open.spotify.com/album/4rhBziAYIg4EBJ8bO2mTwr"
-      },
-      "artists": [
-        {
-          "name": "Katherine Li",
-          "url": "https://open.spotify.com/artist/6C7CCNJVIGEla8AI1LuBxI"
-        }
-      ],
-      "duration_ms": 173951,
-      "name": "Happening Again",
-      "url": "https://open.spotify.com/track/5Rx6U54oaGNEZ8eVy3VLK7"
-    },
-    {
-      "added_at": "2023-05-05 04:00:00",
-      "album": {
-        "name": "tired of california",
-        "url": "https://open.spotify.com/album/3PQnyFFBb15Po24KfIDO8Q"
-      },
-      "artists": [
-        {
-          "name": "Nessa Barrett",
-          "url": "https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ"
-        }
-      ],
-      "duration_ms": 190800,
-      "name": "tired of california",
-      "url": "https://open.spotify.com/track/02xRKYZ1jY4B6utPa59qSf"
-    },
-    {
-      "added_at": "2023-05-05 04:00:00",
-      "album": {
         "name": "Love Don\u2019t Let Me Go",
         "url": "https://open.spotify.com/album/3LF2CQu0h1evpecokm9MHN"
       },
@@ -1847,6 +1815,22 @@
     {
       "added_at": "2023-05-05 04:00:00",
       "album": {
+        "name": "Happening Again",
+        "url": "https://open.spotify.com/album/4rhBziAYIg4EBJ8bO2mTwr"
+      },
+      "artists": [
+        {
+          "name": "Katherine Li",
+          "url": "https://open.spotify.com/artist/6C7CCNJVIGEla8AI1LuBxI"
+        }
+      ],
+      "duration_ms": 173951,
+      "name": "Happening Again",
+      "url": "https://open.spotify.com/track/5Rx6U54oaGNEZ8eVy3VLK7"
+    },
+    {
+      "added_at": "2023-05-05 04:00:00",
+      "album": {
         "name": "My Body",
         "url": "https://open.spotify.com/album/2xuebkXnp2jQyT2Ml3LF32"
       },
@@ -1859,6 +1843,22 @@
       "duration_ms": 120933,
       "name": "My Body",
       "url": "https://open.spotify.com/track/5kcWZ1cPvyVpSR6gycY0CH"
+    },
+    {
+      "added_at": "2023-05-05 04:00:00",
+      "album": {
+        "name": "tired of california",
+        "url": "https://open.spotify.com/album/3PQnyFFBb15Po24KfIDO8Q"
+      },
+      "artists": [
+        {
+          "name": "Nessa Barrett",
+          "url": "https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ"
+        }
+      ],
+      "duration_ms": 190800,
+      "name": "tired of california",
+      "url": "https://open.spotify.com/track/02xRKYZ1jY4B6utPa59qSf"
     },
     {
       "added_at": "2023-05-05 04:00:00",
@@ -1931,22 +1931,6 @@
     {
       "added_at": "2023-05-05 04:00:00",
       "album": {
-        "name": "Forever Drunk",
-        "url": "https://open.spotify.com/album/2lKcXqayvN3V1opi6oQWZ7"
-      },
-      "artists": [
-        {
-          "name": "Peach PRC",
-          "url": "https://open.spotify.com/artist/006j2rer9tZJCYniu7SaWS"
-        }
-      ],
-      "duration_ms": 190107,
-      "name": "Forever Drunk",
-      "url": "https://open.spotify.com/track/0DqnKQQarQLw4zVY0LLGbY"
-    },
-    {
-      "added_at": "2023-05-05 04:00:00",
-      "album": {
         "name": "James Dean",
         "url": "https://open.spotify.com/album/61YMV5YCWzd4FmQAeBmraP"
       },
@@ -1959,6 +1943,22 @@
       "duration_ms": 266400,
       "name": "James Dean",
       "url": "https://open.spotify.com/track/2MVt6GD9AVbmniOIng0rVz"
+    },
+    {
+      "added_at": "2023-05-05 04:00:00",
+      "album": {
+        "name": "Forever Drunk",
+        "url": "https://open.spotify.com/album/2lKcXqayvN3V1opi6oQWZ7"
+      },
+      "artists": [
+        {
+          "name": "Peach PRC",
+          "url": "https://open.spotify.com/artist/006j2rer9tZJCYniu7SaWS"
+        }
+      ],
+      "duration_ms": 190107,
+      "name": "Forever Drunk",
+      "url": "https://open.spotify.com/track/0DqnKQQarQLw4zVY0LLGbY"
     },
     {
       "added_at": "2023-05-05 04:00:00",
@@ -2091,22 +2091,6 @@
     {
       "added_at": "2023-05-05 04:00:00",
       "album": {
-        "name": "Someone You Once Had",
-        "url": "https://open.spotify.com/album/5Jgn1TXdSHxrWIfKyzsB67"
-      },
-      "artists": [
-        {
-          "name": "ROSIE",
-          "url": "https://open.spotify.com/artist/2bp65KnFOIsIosBoqPzvNL"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "Someone You Once Had",
-      "url": "https://open.spotify.com/track/0xwjCE5vxusQU55F96GXYa"
-    },
-    {
-      "added_at": "2023-05-05 04:00:00",
-      "album": {
         "name": "Late To The Party",
         "url": "https://open.spotify.com/album/7LZiBuhH14TgZxjRyc6aok"
       },
@@ -2119,6 +2103,22 @@
       "duration_ms": 177176,
       "name": "Late To The Party",
       "url": "https://open.spotify.com/track/5ba1vQ2mcbnCQXZJ9ignLn"
+    },
+    {
+      "added_at": "2023-05-05 04:00:00",
+      "album": {
+        "name": "Someone You Once Had",
+        "url": "https://open.spotify.com/album/5Jgn1TXdSHxrWIfKyzsB67"
+      },
+      "artists": [
+        {
+          "name": "ROSIE",
+          "url": "https://open.spotify.com/artist/2bp65KnFOIsIosBoqPzvNL"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "Someone You Once Had",
+      "url": "https://open.spotify.com/track/0xwjCE5vxusQU55F96GXYa"
     },
     {
       "added_at": "2023-05-05 04:00:00",
@@ -2171,6 +2171,22 @@
     {
       "added_at": "2023-05-05 04:00:00",
       "album": {
+        "name": "Tall Boi",
+        "url": "https://open.spotify.com/album/2VQQWGLQb4mNHAyD5hQrOl"
+      },
+      "artists": [
+        {
+          "name": "salem ilese",
+          "url": "https://open.spotify.com/artist/3QJUFtGBGL05vo0kCJZsmT"
+        }
+      ],
+      "duration_ms": 150090,
+      "name": "Tall Boi",
+      "url": "https://open.spotify.com/track/1pZIZ2XwQufUYv7hQoT8QZ"
+    },
+    {
+      "added_at": "2023-05-05 04:00:00",
+      "album": {
         "name": "barcelona",
         "url": "https://open.spotify.com/album/2JmYpDJ7VKacfW1bwAJbqU"
       },
@@ -2203,22 +2219,6 @@
     {
       "added_at": "2023-05-05 04:00:00",
       "album": {
-        "name": "Tall Boi",
-        "url": "https://open.spotify.com/album/2VQQWGLQb4mNHAyD5hQrOl"
-      },
-      "artists": [
-        {
-          "name": "salem ilese",
-          "url": "https://open.spotify.com/artist/3QJUFtGBGL05vo0kCJZsmT"
-        }
-      ],
-      "duration_ms": 150090,
-      "name": "Tall Boi",
-      "url": "https://open.spotify.com/track/1pZIZ2XwQufUYv7hQoT8QZ"
-    },
-    {
-      "added_at": "2023-05-05 04:00:00",
-      "album": {
         "name": "Even If It Hurts",
         "url": "https://open.spotify.com/album/2pXholEHhkVPKaj2jyM4RY"
       },
@@ -2235,22 +2235,6 @@
     {
       "added_at": "2023-05-05 04:00:00",
       "album": {
-        "name": "The Problem Song",
-        "url": "https://open.spotify.com/album/4EVTxuDyTxsS7w9W5AC0kX"
-      },
-      "artists": [
-        {
-          "name": "Valley",
-          "url": "https://open.spotify.com/artist/7blXVKBSxdFZsIqlhdViKc"
-        }
-      ],
-      "duration_ms": 157570,
-      "name": "The Problem Song",
-      "url": "https://open.spotify.com/track/7flrjP7Dag40j2Fw8TX4iC"
-    },
-    {
-      "added_at": "2023-05-05 04:00:00",
-      "album": {
         "name": "SPLIT DECISION",
         "url": "https://open.spotify.com/album/6slBagdkNJfpNuazFFQ7YM"
       },
@@ -2263,6 +2247,22 @@
       "duration_ms": 153453,
       "name": "Celebrity - Blood Bunny Version",
       "url": "https://open.spotify.com/track/7rzwyFEyQDq80MK2cFotay"
+    },
+    {
+      "added_at": "2023-05-05 04:00:00",
+      "album": {
+        "name": "The Problem Song",
+        "url": "https://open.spotify.com/album/4EVTxuDyTxsS7w9W5AC0kX"
+      },
+      "artists": [
+        {
+          "name": "Valley",
+          "url": "https://open.spotify.com/artist/7blXVKBSxdFZsIqlhdViKc"
+        }
+      ],
+      "duration_ms": 157570,
+      "name": "The Problem Song",
+      "url": "https://open.spotify.com/track/7flrjP7Dag40j2Fw8TX4iC"
     },
     {
       "added_at": "2023-05-05 04:00:00",
@@ -2299,6 +2299,22 @@
     {
       "added_at": "2023-05-05 04:00:00",
       "album": {
+        "name": "Big Dumb Heart, Chapter 1",
+        "url": "https://open.spotify.com/album/5flJ8xRc70suiyuOnE4YhG"
+      },
+      "artists": [
+        {
+          "name": "Jenna Raine",
+          "url": "https://open.spotify.com/artist/3aHe9rMa5HFTjXHw8tEz0A"
+        }
+      ],
+      "duration_ms": 171653,
+      "name": "Crickets",
+      "url": "https://open.spotify.com/track/4tFRoxaAM7OQd2uRFNQP9P"
+    },
+    {
+      "added_at": "2023-05-05 04:00:00",
+      "album": {
         "name": "Love You When You\u2019re Gone",
         "url": "https://open.spotify.com/album/3DtAEhLFoQSftobryAhftd"
       },
@@ -2331,18 +2347,18 @@
     {
       "added_at": "2023-05-05 04:00:00",
       "album": {
-        "name": "Big Dumb Heart, Chapter 1",
-        "url": "https://open.spotify.com/album/5flJ8xRc70suiyuOnE4YhG"
+        "name": "life's a bitch",
+        "url": "https://open.spotify.com/album/3Mgh8BQF2KbqidzT5x6aNd"
       },
       "artists": [
         {
-          "name": "Jenna Raine",
-          "url": "https://open.spotify.com/artist/3aHe9rMa5HFTjXHw8tEz0A"
+          "name": "TAELA",
+          "url": "https://open.spotify.com/artist/0UpJN0IU36gOyMJLHYHTYq"
         }
       ],
-      "duration_ms": 171653,
-      "name": "Crickets",
-      "url": "https://open.spotify.com/track/4tFRoxaAM7OQd2uRFNQP9P"
+      "duration_ms": 160613,
+      "name": "trophy",
+      "url": "https://open.spotify.com/track/40VBfrp9qMTMcFYpYUMj9p"
     },
     {
       "added_at": "2023-05-05 04:00:00",
@@ -2359,22 +2375,6 @@
       "duration_ms": 159363,
       "name": "MY FAVORITE SONG",
       "url": "https://open.spotify.com/track/24XNbv00pqhodOI2473wTs"
-    },
-    {
-      "added_at": "2023-05-05 04:00:00",
-      "album": {
-        "name": "life's a bitch",
-        "url": "https://open.spotify.com/album/3Mgh8BQF2KbqidzT5x6aNd"
-      },
-      "artists": [
-        {
-          "name": "TAELA",
-          "url": "https://open.spotify.com/artist/0UpJN0IU36gOyMJLHYHTYq"
-        }
-      ],
-      "duration_ms": 160613,
-      "name": "trophy",
-      "url": "https://open.spotify.com/track/40VBfrp9qMTMcFYpYUMj9p"
     },
     {
       "added_at": "2023-05-05 04:00:00",

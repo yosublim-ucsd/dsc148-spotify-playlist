@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBXtbGSCurj.md) - [plain]
 
 > O Trap brasileiro puro ouro, entre lançamentos e hits\. Foto: Thiago Kelbert, Mc Luanna, Menor MC
 
-[Spotify](https://open.spotify.com/user/spotify) - 357,351 likes - 75 songs - 3 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 357,590 likes - 75 songs - 3 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBXtbGSCurj.md) - [plain]
 | 74 | [Bahia](https://open.spotify.com/track/5owa9sHRDBAS2cLuV206xy) | [Alee](https://open.spotify.com/artist/6rk6Izp6o42fUdE0jRqAP4), [Nagalli](https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk), [Hash Produções](https://open.spotify.com/artist/4BZ0ACrHCLropCpHJypPvV) | [Bahia](https://open.spotify.com/album/5Rt4zzyB0s5OK99uAt4mRU) | 2:42 |
 | 75 | [Fim de Semana no Rio](https://open.spotify.com/track/7afaZ37wJJL6880z1NRgJS) | [Teto](https://open.spotify.com/artist/68YeXpLt3jB7JHQS5ZjMGo) | [Fim de Semana no Rio](https://open.spotify.com/album/02q2gOT5jYZN9fXLPFxy9S) | 2:45 |
 
-Snapshot ID: `MCw4NTQwMzM2YmI0NGE4NzA4MWRkNmRkMTA5NWVmOTMxODhiN2NhMTcx`
+Snapshot ID: `MCwzNDYxNjIzZjVkN2U0YjdlYzVlYTU0YzA3OGY2YmEwYTNjOTM0NDU1`

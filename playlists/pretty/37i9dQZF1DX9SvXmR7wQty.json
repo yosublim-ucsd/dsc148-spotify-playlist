@@ -1,12 +1,12 @@
 {
   "description": "D\u00e9couvrez les meilleures nouveaut\u00e9s francophones. Photo: Karkwa",
-  "num_followers": 36733,
+  "num_followers": 36747,
   "original_name": "Nouveaut\u00e9s francophones",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhOTUyY2NkYzQ1ODJjZTdjYzc5ODVjYjQzMTBlMTU3M2YzNGM3Yjk1",
+  "snapshot_id": "MCxhYWE5NjM3NGQxY2M4ZTk0NWI0MzRiYzg2OWM5MmIwOTg1N2ZkNDk1",
   "tracks": [
     {
       "added_at": "2023-05-19 04:01:00",
@@ -97,7 +97,7 @@
         }
       ],
       "duration_ms": 140649,
-      "name": "Ce soir (j'suis dans ma t\u00eate)",
+      "name": "Ce soir - j'suis dans ma t\u00eate",
       "url": "https://open.spotify.com/track/154hu0b2iObjLxyKLHDC5O"
     },
     {
@@ -207,18 +207,18 @@
     {
       "added_at": "2023-05-19 04:01:00",
       "album": {
-        "name": "ROUGE N\u00c9ON",
-        "url": "https://open.spotify.com/album/7LLEJ0jIS3lfCF79i0dXQj"
+        "name": "Zaza",
+        "url": "https://open.spotify.com/album/4qtwEHbTm4hUnsa7F8EbLZ"
       },
       "artists": [
         {
-          "name": "Green Montana",
-          "url": "https://open.spotify.com/artist/0zhMujl1yB8pkB023Qm4Y2"
+          "name": "Leto",
+          "url": "https://open.spotify.com/artist/6HCBnyTBSLdb3TFn2ayulY"
         }
       ],
-      "duration_ms": 161906,
-      "name": "92i MAYBACH",
-      "url": "https://open.spotify.com/track/24EO9OXmL4J02RAlabjxgS"
+      "duration_ms": 148717,
+      "name": "Zaza",
+      "url": "https://open.spotify.com/track/3UCZaDvdrtT0qeVYpwUXum"
     },
     {
       "added_at": "2023-05-19 04:01:00",
@@ -239,18 +239,18 @@
     {
       "added_at": "2023-05-19 04:01:00",
       "album": {
-        "name": "Zaza",
-        "url": "https://open.spotify.com/album/4qtwEHbTm4hUnsa7F8EbLZ"
+        "name": "ROUGE N\u00c9ON",
+        "url": "https://open.spotify.com/album/7LLEJ0jIS3lfCF79i0dXQj"
       },
       "artists": [
         {
-          "name": "Leto",
-          "url": "https://open.spotify.com/artist/6HCBnyTBSLdb3TFn2ayulY"
+          "name": "Green Montana",
+          "url": "https://open.spotify.com/artist/0zhMujl1yB8pkB023Qm4Y2"
         }
       ],
-      "duration_ms": 148717,
-      "name": "Zaza",
-      "url": "https://open.spotify.com/track/3UCZaDvdrtT0qeVYpwUXum"
+      "duration_ms": 161906,
+      "name": "92i MAYBACH",
+      "url": "https://open.spotify.com/track/24EO9OXmL4J02RAlabjxgS"
     },
     {
       "added_at": "2023-05-19 04:01:00",
@@ -331,26 +331,6 @@
     {
       "added_at": "2023-05-19 04:01:00",
       "album": {
-        "name": "C\u00e9l\u00e8bre",
-        "url": "https://open.spotify.com/album/10XkYe39UD8iIiuP6c4WRS"
-      },
-      "artists": [
-        {
-          "name": "Fresh",
-          "url": "https://open.spotify.com/artist/3W9AQyaIGdR8htZXVGwl1X"
-        },
-        {
-          "name": "Frenetik",
-          "url": "https://open.spotify.com/artist/71XOKoFKWFjlV91e2Z5r21"
-        }
-      ],
-      "duration_ms": 176089,
-      "name": "C\u00e9l\u00e8bre",
-      "url": "https://open.spotify.com/track/3hHXDKVOfeHdqNoj9oDr8n"
-    },
-    {
-      "added_at": "2023-05-19 04:01:00",
-      "album": {
         "name": "Eyes contact (feat. Franglish)",
         "url": "https://open.spotify.com/album/486EpOJ7Wc1e2iv43XypPJ"
       },
@@ -367,6 +347,26 @@
       "duration_ms": 189708,
       "name": "Eyes contact (feat. Franglish)",
       "url": "https://open.spotify.com/track/3OqZ59YSwGBoC9s3ARWJd7"
+    },
+    {
+      "added_at": "2023-05-19 04:01:00",
+      "album": {
+        "name": "C\u00e9l\u00e8bre",
+        "url": "https://open.spotify.com/album/10XkYe39UD8iIiuP6c4WRS"
+      },
+      "artists": [
+        {
+          "name": "Fresh",
+          "url": "https://open.spotify.com/artist/3W9AQyaIGdR8htZXVGwl1X"
+        },
+        {
+          "name": "Frenetik",
+          "url": "https://open.spotify.com/artist/71XOKoFKWFjlV91e2Z5r21"
+        }
+      ],
+      "duration_ms": 176089,
+      "name": "C\u00e9l\u00e8bre",
+      "url": "https://open.spotify.com/track/3hHXDKVOfeHdqNoj9oDr8n"
     },
     {
       "added_at": "2023-05-19 04:01:00",
@@ -511,22 +511,6 @@
     {
       "added_at": "2023-05-19 04:01:00",
       "album": {
-        "name": "J'oublie",
-        "url": "https://open.spotify.com/album/3cHfA8bgpYXok3XYIIaYb1"
-      },
-      "artists": [
-        {
-          "name": "Yuzmv",
-          "url": "https://open.spotify.com/artist/1cYA2rnKwpVYe9iVH3Djjm"
-        }
-      ],
-      "duration_ms": 176051,
-      "name": "J'oublie",
-      "url": "https://open.spotify.com/track/47ZrpiH2Koy794jtcdPmHn"
-    },
-    {
-      "added_at": "2023-05-19 04:01:00",
-      "album": {
         "name": "Dieu, mes Fr\u00e8res et le Fer",
         "url": "https://open.spotify.com/album/0sqjvWznAZpm2OV2FakaaY"
       },
@@ -543,6 +527,22 @@
       "duration_ms": 164100,
       "name": "Elastiqu\u00e9",
       "url": "https://open.spotify.com/track/7F5HJiph7AkAozWdKDF0F5"
+    },
+    {
+      "added_at": "2023-05-19 04:01:00",
+      "album": {
+        "name": "J'oublie",
+        "url": "https://open.spotify.com/album/3cHfA8bgpYXok3XYIIaYb1"
+      },
+      "artists": [
+        {
+          "name": "Yuzmv",
+          "url": "https://open.spotify.com/artist/1cYA2rnKwpVYe9iVH3Djjm"
+        }
+      ],
+      "duration_ms": 176051,
+      "name": "J'oublie",
+      "url": "https://open.spotify.com/track/47ZrpiH2Koy794jtcdPmHn"
     },
     {
       "added_at": "2023-05-19 04:01:00",
@@ -667,6 +667,22 @@
     {
       "added_at": "2023-05-19 04:01:00",
       "album": {
+        "name": "Amn\u00e9sia",
+        "url": "https://open.spotify.com/album/4pPixTV11IwRLz7ryopxtm"
+      },
+      "artists": [
+        {
+          "name": "Souldia",
+          "url": "https://open.spotify.com/artist/6ekcMUMZoiX2HBbQGZgNh1"
+        }
+      ],
+      "duration_ms": 220840,
+      "name": "Amn\u00e9sia",
+      "url": "https://open.spotify.com/track/0eRqmVoEt73JJLRPkUoQj2"
+    },
+    {
+      "added_at": "2023-05-19 04:01:00",
+      "album": {
         "name": "Le blanc des yeux",
         "url": "https://open.spotify.com/album/0JAW79jDrxy7bv5INPuC4z"
       },
@@ -699,18 +715,18 @@
     {
       "added_at": "2023-05-19 04:01:00",
       "album": {
-        "name": "Amn\u00e9sia",
-        "url": "https://open.spotify.com/album/4pPixTV11IwRLz7ryopxtm"
+        "name": "Go",
+        "url": "https://open.spotify.com/album/7rO6wNrH5Q2tfGtaUdT4Ef"
       },
       "artists": [
         {
-          "name": "Souldia",
-          "url": "https://open.spotify.com/artist/6ekcMUMZoiX2HBbQGZgNh1"
+          "name": "Franglish",
+          "url": "https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw"
         }
       ],
-      "duration_ms": 220840,
-      "name": "Amn\u00e9sia",
-      "url": "https://open.spotify.com/track/0eRqmVoEt73JJLRPkUoQj2"
+      "duration_ms": 179902,
+      "name": "Go",
+      "url": "https://open.spotify.com/track/5AtFjz8lwWRKdMePvihCsT"
     },
     {
       "added_at": "2023-05-19 04:01:00",
@@ -731,6 +747,22 @@
       "duration_ms": 199899,
       "name": "A toi",
       "url": "https://open.spotify.com/track/1mbAF6RCv2HRseMBwg8L4f"
+    },
+    {
+      "added_at": "2023-05-19 04:01:00",
+      "album": {
+        "name": "Make It Alright",
+        "url": "https://open.spotify.com/album/42kvW1YuCH0u7SeTPZhCC6"
+      },
+      "artists": [
+        {
+          "name": "Aswell",
+          "url": "https://open.spotify.com/artist/7ircrxU9ilF88T3dfIP6yc"
+        }
+      ],
+      "duration_ms": 133822,
+      "name": "Make It Alright",
+      "url": "https://open.spotify.com/track/51djI7wMlcQZm9jvo24Nsq"
     },
     {
       "added_at": "2023-05-19 04:01:00",
@@ -767,22 +799,6 @@
     {
       "added_at": "2023-05-19 04:01:00",
       "album": {
-        "name": "Make It Alright",
-        "url": "https://open.spotify.com/album/42kvW1YuCH0u7SeTPZhCC6"
-      },
-      "artists": [
-        {
-          "name": "Aswell",
-          "url": "https://open.spotify.com/artist/7ircrxU9ilF88T3dfIP6yc"
-        }
-      ],
-      "duration_ms": 133822,
-      "name": "Make It Alright",
-      "url": "https://open.spotify.com/track/51djI7wMlcQZm9jvo24Nsq"
-    },
-    {
-      "added_at": "2023-05-19 04:01:00",
-      "album": {
         "name": "Confetti (VF)",
         "url": "https://open.spotify.com/album/4VJNLOXqF1aKhk2BIxMeuI"
       },
@@ -795,6 +811,22 @@
       "duration_ms": 184649,
       "name": "Confetti (VF)",
       "url": "https://open.spotify.com/track/5Avs3gR4TlMVBZMp0YvsHN"
+    },
+    {
+      "added_at": "2023-05-19 04:01:00",
+      "album": {
+        "name": "Mbapp\u00e9",
+        "url": "https://open.spotify.com/album/3IlbVKdsA35Si13YkWj2RG"
+      },
+      "artists": [
+        {
+          "name": "Beendo Z",
+          "url": "https://open.spotify.com/artist/7a35Zdc78bDXJv2vYf5hSO"
+        }
+      ],
+      "duration_ms": 186231,
+      "name": "Mbapp\u00e9",
+      "url": "https://open.spotify.com/track/0FWIA89SfPbCWyx1PrfXFr"
     },
     {
       "added_at": "2023-05-19 04:01:00",
@@ -831,50 +863,22 @@
     {
       "added_at": "2023-05-19 04:01:00",
       "album": {
-        "name": "Avant Elle",
-        "url": "https://open.spotify.com/album/37HLuNvMsD3ibgohJHropW"
+        "name": "BBM",
+        "url": "https://open.spotify.com/album/5KUSAHvsFggDzuRk4uzvyZ"
       },
       "artists": [
         {
-          "name": "Aliocha Schneider",
-          "url": "https://open.spotify.com/artist/186IEnMYqWBPOAFn78wTPB"
-        }
-      ],
-      "duration_ms": 200813,
-      "name": "Avant Elle",
-      "url": "https://open.spotify.com/track/5ECN3yzsBiExzh5VLabINw"
-    },
-    {
-      "added_at": "2023-05-19 04:01:00",
-      "album": {
-        "name": "Sur le fil",
-        "url": "https://open.spotify.com/album/5k4lBRvB4GiLmH3gWJwukK"
-      },
-      "artists": [
+          "name": "Fresh",
+          "url": "https://open.spotify.com/artist/3W9AQyaIGdR8htZXVGwl1X"
+        },
         {
-          "name": "Olivier Dion",
-          "url": "https://open.spotify.com/artist/0PruFnhaNaqZRPJO1s73Em"
+          "name": "Naza",
+          "url": "https://open.spotify.com/artist/7xNYY1Zkb1vks5m9ATlJok"
         }
       ],
-      "duration_ms": 155047,
-      "name": "Dames",
-      "url": "https://open.spotify.com/track/2CBNpnSiBJCvil3fsPZ3S7"
-    },
-    {
-      "added_at": "2023-05-19 04:01:00",
-      "album": {
-        "name": "Une autre vie",
-        "url": "https://open.spotify.com/album/6vZcM8KNolN2HnF7BM6q7Z"
-      },
-      "artists": [
-        {
-          "name": "Evelyne Brochu",
-          "url": "https://open.spotify.com/artist/2xYer1rBUB1ci3oLZUqNcC"
-        }
-      ],
-      "duration_ms": 205312,
-      "name": "Une autre vie",
-      "url": "https://open.spotify.com/track/40HktbYQgbdvMlmlBCcu9M"
+      "duration_ms": 179164,
+      "name": "BBM",
+      "url": "https://open.spotify.com/track/7dMVHcxpbKHHLESDNvHtlf"
     }
   ],
   "unique_name": "Nouveaut\u00e9s francophones",

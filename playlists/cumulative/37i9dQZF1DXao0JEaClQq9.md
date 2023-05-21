@@ -4,7 +4,7 @@
 
 > eclectic ethereal feeling\. cover: Ethel Cain
 
-512 songs - 1 day 7 hr 53 min
+513 songs - 1 day 7 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -84,7 +84,7 @@
 | [Butterfly](https://open.spotify.com/track/01dQHUYz6EerSF6JQDolCC) | [Grimes](https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab) | [Art Angels](https://open.spotify.com/album/7J84ixPVFehy6FcLk8rhk3) | 4:12 | 2021-10-08 | 2022-05-14 |
 | [Butterfly Net](https://open.spotify.com/track/3JYayrgDyMYVrpMdcn5HxF) | [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a) | [Desire, I Want To Turn Into You](https://open.spotify.com/album/22PkV1Le9P3X4RY4xtmK0q) | 4:36 | 2023-02-17 | 2023-05-02 |
 | [Bystanders \(in space\)](https://open.spotify.com/track/0OUCDV4CjuCULrXar3KbAf) | [Moses Sumney](https://open.spotify.com/artist/5W10uJRsbt9bROJDKoI1Wn) | [Bystanders \(in space\)](https://open.spotify.com/album/1fB3W1t6xcfojQHzUF42uu) | 4:30 | 2021-11-12 | 2022-04-22 |
-| [Call For Help](https://open.spotify.com/track/3l5qctI4FqhfjIZzs06cbk) | [Pearly Drops](https://open.spotify.com/artist/2eMb96S1ZJ1YQ7FhWAzWJL) | [Call For Help](https://open.spotify.com/album/2T0LDUVshmydIaKywFCDKX) | 3:18 | 2022-11-11 |  |
+| [Call For Help](https://open.spotify.com/track/3l5qctI4FqhfjIZzs06cbk) | [Pearly Drops](https://open.spotify.com/artist/2eMb96S1ZJ1YQ7FhWAzWJL) | [Call For Help](https://open.spotify.com/album/2T0LDUVshmydIaKywFCDKX) | 3:18 | 2022-11-11 | 2023-05-21 |
 | [CALL ME \(Freestyle\)](https://open.spotify.com/track/1awc3w3LUJOK8TwD17bQLZ) | [Blood Orange](https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR), [박혜진 Park Hye Jin](https://open.spotify.com/artist/6niigcazB2JPcpasZfZvq1) | [CALL ME \(Freestyle\)](https://open.spotify.com/album/1uveV0oi9gareah57tZdoL) | 3:05 | 2021-06-03 | 2022-06-04 |
 | [Call U Tomorrow](https://open.spotify.com/track/0i5w6z3hhpfVMkRUdv9jQ4) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [Call U Tomorrow](https://open.spotify.com/album/4rvVYGqXj3IPKI98aQV6Rf) | 3:06 | 2021-11-15 | 2022-06-23 |
 | [Call U Tomorrow](https://open.spotify.com/track/1kPee0zC6xh3DT1mlG5a82) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [Call U Tomorrow](https://open.spotify.com/album/7pdP0BWJ8Faz6ZbWb3UCGc) | 3:06 | 2021-11-15 |  |
@@ -386,6 +386,7 @@
 | [Running Up That Hill \(A Deal With God\) \- 2018 Remaster](https://open.spotify.com/track/29d0nY7TzCoi22XBqDQkiP) | [Kate Bush](https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL) | [Hounds of Love \(2018 Remaster\)](https://open.spotify.com/album/3OYnManu1Nlxnw9OMng7BH) | 5:00 | 2021-06-03 | 2023-03-18 |
 | [SADIST](https://open.spotify.com/track/0x2BBTnwlR3StGFVM7mZmr) | [Banshee](https://open.spotify.com/artist/0DG7J8Q9Alnt65HJv6owzf) | [FAIRY PHONK](https://open.spotify.com/album/305PTplSb0MkTkVEOgV6Kj) | 3:19 | 2022-11-11 | 2022-12-28 |
 | [Saving Grace](https://open.spotify.com/track/2ULM1nq5MSVp0QE1anwcbT) | [Jack Larsen](https://open.spotify.com/artist/1UGH6A3IionoSVLLmqtl4o) | [Running on Mercy](https://open.spotify.com/album/1HJ9fWCIDXrORYph9y3D4b) | 2:59 | 2021-06-03 | 2022-04-21 |
+| [Say Yes To Heaven](https://open.spotify.com/track/6GGtHZgBycCgGBUhZo81xe) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Say Yes To Heaven](https://open.spotify.com/album/6jVg0POvGYH1Pt6lISl3ok) | 3:29 | 2023-05-19 |  |
 | [Scripture](https://open.spotify.com/track/1GG23RRVNQiPbzEY8cBXNG) | [Eartheater](https://open.spotify.com/artist/18ca9d5EU5R1AhVKPR1cm0) | [Scripture](https://open.spotify.com/album/4lQGISDm9vPUNc7yhNoUmX) | 4:11 | 2021-10-08 | 2022-06-04 |
 | [SEA SHANTY](https://open.spotify.com/track/5XyQzmLLwHtPbwRjNoec2z) | [MICHELLE](https://open.spotify.com/artist/4yYvor6Rq4fG82J1L47DYp) | [AFTER DINNER WE TALK DREAMS: THE SIDE DISHES](https://open.spotify.com/album/7t3CYSKXmlMDUMGwOhbOQ0) | 2:54 | 2022-06-24 | 2022-07-28 |
 | [Secrets \(Your Fire\)](https://open.spotify.com/track/1jZwVqFP2v8mhdvEkj4mPa) | [Magdalena Bay](https://open.spotify.com/artist/1oPRcJUkloHaRLYx0olBLJ) | [Secrets \(Your Fire\)](https://open.spotify.com/album/3pBnAbc3sR4PSH8dfAJmgC) | 4:05 | 2021-08-13 | 2022-04-23 |

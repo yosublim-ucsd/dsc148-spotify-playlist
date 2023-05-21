@@ -1,12 +1,12 @@
 {
   "description": "Las mejores canciones de pop latino durante el 2020. En portada: Camilo",
-  "num_followers": 126888,
+  "num_followers": 126905,
   "original_name": "Lo Mejor de Pop Latino 2020",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYwNjg4NTcwMSwwMDAwMDAwMDFkNmY3MWE5MTVmZDgxY2NjOTMwN2IzNzQ2YTQ0MzJl",
+  "snapshot_id": "MCwwOWJhYTAxN2NmNWMwZmIyNWYxZDQ2MTZjMTA3M2I5MjE5MjIyZjc4",
   "tracks": [
     {
       "added_at": "2020-12-01 05:03:00",
@@ -1019,6 +1019,22 @@
     {
       "added_at": "2020-12-01 05:03:00",
       "album": {
+        "name": "High",
+        "url": "https://open.spotify.com/album/1O5hxcSqVLdi9mqSWG46r2"
+      },
+      "artists": [
+        {
+          "name": "Maria Becerra",
+          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
+        }
+      ],
+      "duration_ms": 187200,
+      "name": "High",
+      "url": "https://open.spotify.com/track/5TmCIYJkPI8EEhpA6nFuoB"
+    },
+    {
+      "added_at": "2020-12-01 05:03:00",
+      "album": {
         "name": "Flamenkito",
         "url": "https://open.spotify.com/album/1gXu9jczbkEdYN6FNekRqH"
       },
@@ -1035,22 +1051,6 @@
       "duration_ms": 202153,
       "name": "Flamenkito",
       "url": "https://open.spotify.com/track/4fsj5oMLYrCUlTDs4P9qw5"
-    },
-    {
-      "added_at": "2020-12-01 05:03:00",
-      "album": {
-        "name": "High",
-        "url": "https://open.spotify.com/album/1O5hxcSqVLdi9mqSWG46r2"
-      },
-      "artists": [
-        {
-          "name": "Maria Becerra",
-          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
-        }
-      ],
-      "duration_ms": 187200,
-      "name": "High",
-      "url": "https://open.spotify.com/track/5TmCIYJkPI8EEhpA6nFuoB"
     },
     {
       "added_at": "2020-12-01 05:03:00",

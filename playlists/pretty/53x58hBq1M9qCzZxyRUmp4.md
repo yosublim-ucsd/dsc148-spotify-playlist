@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/53x58hBq1M9qCzZxyRUmp4.md) - [plain]
 
 > 50 of each week's best new rock and metal tracks\. New updates every Friday!  🔊 🤘🏿🤘🤘🏽
 
-[Loudwire](https://open.spotify.com/user/wqopimzeqvaed8dqu6o2tixrj) - 12,931 likes - 50 songs - 3 hr 32 min
+[Loudwire](https://open.spotify.com/user/wqopimzeqvaed8dqu6o2tixrj) - 12,938 likes - 50 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/53x58hBq1M9qCzZxyRUmp4.md) - [plain]
 | 17 | [Bringer of Vengeance](https://open.spotify.com/track/4PV9Gly5KxQM0WColNUNZJ) | [Kataklysm](https://open.spotify.com/artist/7kozeGeawfP7IEEL6dddrM) | [Bringer of Vengeance](https://open.spotify.com/album/2o4FnivXVJz7SnMqJKfvuO) | 3:53 |
 | 18 | [Rap Rock Jesus](https://open.spotify.com/track/10eYvXs1Lv8eiUXIdztnuV) | [Silly Goose](https://open.spotify.com/artist/0GicbfMtwhn3Ch0PdwkADQ) | [Rap Rock Jesus](https://open.spotify.com/album/0BiFxOJxNjN9OCNxVRM17m) | 3:09 |
 | 19 | [MISERY](https://open.spotify.com/track/6qysUYoCngYIgvxzhghK9F) | [Written by Wolves](https://open.spotify.com/artist/1j55zNwCQ3jhbNsnmrOrwr) | [MISERY](https://open.spotify.com/album/1vtYomWu3IOXdQGjrZLDuD) | 4:02 |
-| 20 | [Courtney, just relax \(feat\. World Of Pleasure\)](https://open.spotify.com/track/7z6oCwgcuR0NnziEKmu6Pi) | [Static Dress](https://open.spotify.com/artist/1Lqdsv7Ff4GNq9PM3Yd0vi), [World Of Pleasure](https://open.spotify.com/artist/7kcqk3e5BlCUw41fctDQax) | [Courtney, just relax \(feat\. World Of Pleasure\)](https://open.spotify.com/album/0neLeILE6Ymhokv69gsI9L) | 2:55 |
+| 20 | [Courtney, just relax \(feat\. World Of Pleasure\)](https://open.spotify.com/track/7z6oCwgcuR0NnziEKmu6Pi) | [Static Dress](https://open.spotify.com/artist/1Lqdsv7Ff4GNq9PM3Yd0vi), [World of Pleasure](https://open.spotify.com/artist/3SR0KKxXYspg7mJwSUsGBb) | [Courtney, just relax \(feat\. World Of Pleasure\)](https://open.spotify.com/album/0neLeILE6Ymhokv69gsI9L) | 2:55 |
 | 21 | [War Das Alles](https://open.spotify.com/track/1nmMqLkBFFtZixFcRA7n58) | [Eleine](https://open.spotify.com/artist/2L2rV1gDa17HwFcFCWBIAx) | [War Das Alles](https://open.spotify.com/album/2639eXq6bliu5RZEQptjZ3) | 3:26 |
 | 22 | [Mine To Own](https://open.spotify.com/track/5Oq2hy7WBMuyWcmBE43OyF) | [In Dying Arms](https://open.spotify.com/artist/5m3RbDfOQ3RHxrebIytwSW), [Emmure](https://open.spotify.com/artist/1C62FV9Cltn9L4c9jAwCyk) | [Mine To Own](https://open.spotify.com/album/3p2hDAcpgleZRhpWmJ3n6g) | 3:51 |
 | 23 | [L.O.V.E\. \(Smile Please\)](https://open.spotify.com/track/7KbMtREcRbNYAl7fyJgvIG) | [Skindred](https://open.spotify.com/artist/3jTlKw98Ql1jGRPYqhqHap) | [L.O.V.E\. \(Smile Please\)](https://open.spotify.com/album/3aYqCNDhscrwo7eUnccuz0) | 3:08 |

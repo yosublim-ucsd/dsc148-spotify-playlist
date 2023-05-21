@@ -582,7 +582,7 @@
       ],
       "date_added": "2022-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-21",
       "duration_ms": 308116,
       "name": "Chica Rutera",
       "url": "https://open.spotify.com/track/7mULoTsK56Nfyf7o50LKk3"
@@ -1907,6 +1907,24 @@
     },
     {
       "album": {
+        "name": "La Luz",
+        "url": "https://open.spotify.com/album/0iy5ocoHHTcPmUA9xML1Zq"
+      },
+      "artists": [
+        {
+          "name": "Blanco Teta",
+          "url": "https://open.spotify.com/artist/2jHbb2xaFQ1CjUnE8RJeWT"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155520,
+      "name": "La Luz",
+      "url": "https://open.spotify.com/track/3G1dfxviHmp2qnoVZKaEvb"
+    },
+    {
+      "album": {
         "name": "La Nieve",
         "url": "https://open.spotify.com/album/4zpCh07snDOMhEMwsnSMyt"
       },
@@ -2088,6 +2106,24 @@
       "duration_ms": 204856,
       "name": "Lloro",
       "url": "https://open.spotify.com/track/2eEIKn5hRMjeTiHlwlpBqZ"
+    },
+    {
+      "album": {
+        "name": "Lo Que Queda",
+        "url": "https://open.spotify.com/album/1DZPwyCDVejGNFJt3EW1W4"
+      },
+      "artists": [
+        {
+          "name": "Barbi Recanati",
+          "url": "https://open.spotify.com/artist/4nwFiHgPXUpo0KgR1rZSAD"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224737,
+      "name": "Lo Que Queda",
+      "url": "https://open.spotify.com/track/08P7zJowfvm0lI63b7xkUO"
     },
     {
       "album": {
@@ -4282,7 +4318,7 @@
       ],
       "date_added": "2022-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-21",
       "duration_ms": 137261,
       "name": "V\u00f3mito",
       "url": "https://open.spotify.com/track/2aFwjkdha1gFCLfPQjUBgG"

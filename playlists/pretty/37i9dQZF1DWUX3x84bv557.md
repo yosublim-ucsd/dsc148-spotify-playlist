@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUX3x84bv557.md) - [plain]
 
 > MEAU op de cover van de vernieuwde Je Moerstaal!
 
-[Spotify](https://open.spotify.com/user/spotify) - 153,658 likes - 90 songs - 4 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 153,695 likes - 90 songs - 4 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUX3x84bv557.md) - [plain]
 | 22 | [Nooit Meer Los](https://open.spotify.com/track/3GhQVwKsqwHk6dFsW6mp9d) | [Benjamin](https://open.spotify.com/artist/4bbWyNlf0IomlOPHEYba2d) | [Donkerblauw](https://open.spotify.com/album/6bK5UIQOHzcBlwUMZbBopk) | 2:49 |
 | 23 | [Alles Al](https://open.spotify.com/track/57rACaa3LKTruOGUENOXjW) | [Snelle](https://open.spotify.com/artist/3E31HqA00iCX9nRhesw6LD), [Jonna Fraser](https://open.spotify.com/artist/5adKMaYrGOMyOfnbiLPuHg) | [Alles Al](https://open.spotify.com/album/3QxGactgkMfFmkUaqvr0mP) | 3:04 |
 | 24 | [Zonder Jou](https://open.spotify.com/track/7vi24RDlbTnQOqDBrWt2K6) | [Bizzey](https://open.spotify.com/artist/5GIcOzVFTNnzArytjmTkW8), [Danique](https://open.spotify.com/artist/6ihYEkLlAWkafYVAvEkMd0) | [FOUR JUNO](https://open.spotify.com/album/0nbHgLf8m1peS94gicQQVJ) | 2:12 |
-| 25 | [Emotieloos](https://open.spotify.com/track/7yHSLU0G7GSaBv1vqmmUX7) | [Jerry](https://open.spotify.com/artist/0kBsWW34jA4aNzn2xuQNE0), [BEAU](https://open.spotify.com/artist/3sLVXD6W3m1cTT2uBWTVWt), [Purp Sagir](https://open.spotify.com/artist/1xcx9BR9EMM80E0LGvTTkJ) | [Emotieloos](https://open.spotify.com/album/0gspBGHDmPpfV0yxBu5U4H) | 3:06 |
+| 25 | [Emotieloos](https://open.spotify.com/track/7yHSLU0G7GSaBv1vqmmUX7) | [BEAU](https://open.spotify.com/artist/3sLVXD6W3m1cTT2uBWTVWt), [Purp Sagir](https://open.spotify.com/artist/1xcx9BR9EMM80E0LGvTTkJ), [Jerry](https://open.spotify.com/artist/0kBsWW34jA4aNzn2xuQNE0) | [Emotieloos](https://open.spotify.com/album/0gspBGHDmPpfV0yxBu5U4H) | 3:06 |
 | 26 | [Ze Is Pas Net Begonnen \(Leerstage / Werkstage\)](https://open.spotify.com/track/3oZYSdQ1tCqi8uoRqGAext) | [De Jeugd Van Tegenwoordig](https://open.spotify.com/artist/1u7uShzlA1tXJeox3jMFPq) | [Ze Is Pas Net Begonnen \(Leerstage / Werkstage\)](https://open.spotify.com/album/6dCuGy0Vmc6QQkeW5zZroi) | 4:11 |
 | 27 | [Beschadigd](https://open.spotify.com/track/49IckSI3lJFl8ur1FdVFDj) | [Nobu](https://open.spotify.com/artist/5yuxqGyvuCkRY8X53yVy5u) | [Beschadigd](https://open.spotify.com/album/2F1IuKpXFCGinGjbJbyFTC) | 2:18 |
 | 28 | [Mijn Hart Is Weer Van Mij](https://open.spotify.com/track/39IfUdhato88j7BGmWikCV) | [Dany](https://open.spotify.com/artist/02nYwglWHsI4nowQWSrf32) | [Mijn Hart Is Weer Van Mij](https://open.spotify.com/album/1jyMBGyKOjJGGFISEImvEm) | 3:34 |
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUX3x84bv557.md) - [plain]
 | 89 | [Dansen Met De Duivel](https://open.spotify.com/track/2SNAq1b32a5MqScmoR1rDy) | [Melo](https://open.spotify.com/artist/5vYBzMTW35gwevpQGsjitg) | [Dansen Met De Duivel](https://open.spotify.com/album/68dqPyXfLPlwgbfZgdNtsM) | 2:50 |
 | 90 | [SLAAPTEKORT](https://open.spotify.com/track/7GVzocMyWJndhsbUbyKvwa) | [TOMMY](https://open.spotify.com/artist/6UrqENU5uLgpXCx5a4SRKM) | [SLAAPTEKORT](https://open.spotify.com/album/1RAZp1zZua1mGZREIWvKL6) | 2:21 |
 
-Snapshot ID: `MCw1YmY5N2ZhMWZhZTdkMTcwYzIxYTY0ODVkMzgzN2Q5OWRjYjZhNDMz`
+Snapshot ID: `MCw4ZTQxN2I1MmUzNTFhMjQwMWY2NDdjOTJhYWQ3MDk4NjIzM2M0NGNl`

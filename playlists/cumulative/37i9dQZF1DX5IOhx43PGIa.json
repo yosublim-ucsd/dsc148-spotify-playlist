@@ -5110,7 +5110,7 @@
       ],
       "date_added": "2023-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-21",
       "duration_ms": 203263,
       "name": "Metamorphosis",
       "url": "https://open.spotify.com/track/3RS6yYUhrAbxdHm2vALIwv"
@@ -7110,7 +7110,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-21",
       "duration_ms": 140500,
       "name": "SPOILED BITCH",
       "url": "https://open.spotify.com/track/3agccBcICCxc1WWkG3XuvE"
@@ -8007,6 +8007,24 @@
     },
     {
       "album": {
+        "name": "TEMPTRESS",
+        "url": "https://open.spotify.com/album/1M6P5oEDwt2pcnnWVsxGPo"
+      },
+      "artists": [
+        {
+          "name": "Ray Laur\u00e9l",
+          "url": "https://open.spotify.com/artist/7gW3GsnBSoT6q9YQUstlzA"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127707,
+      "name": "U SAID!",
+      "url": "https://open.spotify.com/track/3S2FcwSlUhob3FAdHgDwWc"
+    },
+    {
+      "album": {
         "name": "SEND HELP",
         "url": "https://open.spotify.com/album/7pcDzQ0QM54XXOqZf6BmSt"
       },
@@ -8612,6 +8630,24 @@
       "duration_ms": 237665,
       "name": "You Are (feat. Corinne Bailey Rae & UMI)",
       "url": "https://open.spotify.com/track/3f0SgNOjVjUW7BTv79WgX3"
+    },
+    {
+      "album": {
+        "name": "you don't like me like that",
+        "url": "https://open.spotify.com/album/35YQAprIaYWKCWtr7iS5UT"
+      },
+      "artists": [
+        {
+          "name": "Zeph",
+          "url": "https://open.spotify.com/artist/502gYHkFCtLzBIcU4ctPLd"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155706,
+      "name": "you don't like me like that",
+      "url": "https://open.spotify.com/track/3OPyobYAM5MgTm35AJV99O"
     },
     {
       "album": {

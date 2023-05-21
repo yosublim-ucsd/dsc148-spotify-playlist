@@ -4,7 +4,7 @@
 
 > Calm piano music for enhanced concentration.
 
-544 songs - 23 hr 34 min
+546 songs - 23 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,7 +28,7 @@
 | [Aegean Fantaisie](https://open.spotify.com/track/3U7ITXsh5lsZXbYheMBpdY) | [Jase Moran](https://open.spotify.com/artist/54eoq0q1McIMaeoK4J3DdQ) | [Aegean Fantaisie](https://open.spotify.com/album/2fYGZxBGC5TghSIzo8iIzY) | 2:51 | 2021-12-07 | 2022-07-29 |
 | [After Dawn](https://open.spotify.com/track/1N62tCrFso6PZ8OfwsbH53) | [Herbert Campas](https://open.spotify.com/artist/4xviN6HgtlSmFSSoetwtMy) | [After Dawn](https://open.spotify.com/album/4ySd5ged3rmDZ2398Odkc6) | 2:00 | 2021-12-07 |  |
 | [After The Rain](https://open.spotify.com/track/78FM8RL21qznI4xA2Yqtix) | [Dario Crisman](https://open.spotify.com/artist/3z9wB1A84KYedTTWy1ciHF) | [After The Rain](https://open.spotify.com/album/6UoUV4OYZsmo7CUPD7OW1k) | 2:29 | 2021-12-07 |  |
-| [Again](https://open.spotify.com/track/5d2oRIkm7wSJAVrwUmrM2B) | [Lucie Jean](https://open.spotify.com/artist/5jEOVhrMJqGw6notBTGuKn) | [Again](https://open.spotify.com/album/49C1JBmiZ27ltjFJU3WbcD) | 3:11 | 2022-04-07 |  |
+| [Again](https://open.spotify.com/track/5d2oRIkm7wSJAVrwUmrM2B) | [Lucie Jean](https://open.spotify.com/artist/5jEOVhrMJqGw6notBTGuKn) | [Again](https://open.spotify.com/album/49C1JBmiZ27ltjFJU3WbcD) | 3:11 | 2022-04-07 | 2023-05-21 |
 | [Airborne](https://open.spotify.com/track/2MdnNxK70QIHwW999cttyQ) | [Maria Novotna](https://open.spotify.com/artist/3Bg7pjZM9srpKAJj1qlgU6) | [Airborne](https://open.spotify.com/album/7tmews40tmF8GyBOqzCpYC) | 2:41 | 2021-12-07 | 2023-01-27 |
 | [Al Fin](https://open.spotify.com/track/0ERBIAjdSC3hfkG9FvHEiN) | [Vastos Trofeos](https://open.spotify.com/artist/6RXn3dP1ZlAmIrEv2zspvq) | [Al Fin](https://open.spotify.com/album/782vjRICRTGgUGa7uNRVIl) | 3:34 | 2022-09-14 |  |
 | [Alignment](https://open.spotify.com/track/3JRA65bOIayOI3nag2qqhI) | [Max Walltine](https://open.spotify.com/artist/1fjExu7rpJivThwzQp5fq5) | [Alignment](https://open.spotify.com/album/2ak75QxRASpMwY9OLj2gSn) | 1:53 | 2022-01-04 |  |
@@ -285,6 +285,7 @@
 | [Me And My Piano](https://open.spotify.com/track/2M2AbefWfWKK9Pf08jRAew) | [HRDY](https://open.spotify.com/artist/6NR5GQDkybW9GBp3N9Azn4) | [Me And My Piano](https://open.spotify.com/album/1PjKM6ChtggdF8rlBhe3I1) | 2:30 | 2022-01-04 | 2022-12-24 |
 | [Meandering](https://open.spotify.com/track/4jpRyLpvGSUPVSx8oO8xWo) | [JON](https://open.spotify.com/artist/7717ICSNEMAa0SC9LaXrGP) | [Meandering](https://open.spotify.com/album/2Q4TRJ0g4yMoOUcCciKZr9) | 2:53 | 2022-03-01 | 2022-09-15 |
 | [Med lukkede øyne](https://open.spotify.com/track/2E7s7HybOzu68ug7gJWeL0) | [Leah Dreyer](https://open.spotify.com/artist/7EcrBxXyI6KATCPVNE6GCU) | [Med lukkede øyne](https://open.spotify.com/album/39hfQ5HdJ6I1WL3858QOVr) | 2:29 | 2022-04-07 | 2023-05-20 |
+| [Melancholy](https://open.spotify.com/track/0nE4j0wkGn5ijBPguBbZau) | [Les Moray](https://open.spotify.com/artist/3oJtOPrahfYye5Ffs05pYR) | [Melancholy](https://open.spotify.com/album/7rrwtqNk6EUU4nVsCof0M3) | 3:34 | 2023-05-19 |  |
 | [Melodrome](https://open.spotify.com/track/27ftHERJqvYDHTPpcebRsb) | [Guilliaume Om](https://open.spotify.com/artist/59TontIdB13G6OPjg6m7NN) | [Melodrome](https://open.spotify.com/album/2ZEJfWjjBJBhENAQKKkmQk) | 2:51 | 2021-12-07 | 2022-02-02 |
 | [Melopedie](https://open.spotify.com/track/7kAf6Xha70vAio4LsIhJqT) | [Petit Lilou](https://open.spotify.com/artist/6TjSQf8b2FKQ0iLI9F1l1v) | [Melopedie](https://open.spotify.com/album/5AbUGX4J4L3ppLWif6ZGKR) | 2:56 | 2021-12-07 |  |
 | [Melt](https://open.spotify.com/track/3dYsM8x9MLPAN2T3xynwXW) | [Jiří Horák](https://open.spotify.com/artist/43HScyaOrzPzHaKEqEkc3x) | [Parterre](https://open.spotify.com/album/7LMaRlCa5XWwPjiBMoM2yv) | 2:08 | 2021-12-07 |  |
@@ -337,7 +338,7 @@
 | [Once Before](https://open.spotify.com/track/4bGa4NtNALvGtaGqumTjM7) | [Franz Gordon](https://open.spotify.com/artist/6c9mrV72IOeJ5imCUK281g) | [For Mom](https://open.spotify.com/album/6zeB2J9fBAIwzJrFrShiwb) | 3:17 | 2021-12-07 | 2022-07-16 |
 | [Once Upon an Autumn](https://open.spotify.com/track/19Ngdrq60emLeiLvGLnwbY) | [Rikard From](https://open.spotify.com/artist/1zIcfg9uUp5YjS9Bb1sEgc) | [Once Upon an Autumn](https://open.spotify.com/album/0DAq1lRzcSb2BCgeksrb2A) | 1:57 | 2021-12-07 | 2023-01-27 |
 | [One Last Question](https://open.spotify.com/track/3PZcDjUs3yjBML8sDDvF8f) | [Vilma Holík](https://open.spotify.com/artist/4qhrLBBH9zCUWTNDLh5dJu) | [One Last Question](https://open.spotify.com/album/4flpCPlSP0b8EMrhwjakvF) | 2:11 | 2023-03-01 |  |
-| [Onironautas](https://open.spotify.com/track/6s76KH2PyYupeKvcz6hRgV) | [Lara Di Umbra](https://open.spotify.com/artist/26Js1EtYSgTosRfHYbEpZG) | [Onironautas](https://open.spotify.com/album/51UJxYKsEZqK7qtTHj2NBy) | 3:10 | 2021-12-07 |  |
+| [Onironautas](https://open.spotify.com/track/6s76KH2PyYupeKvcz6hRgV) | [Lara Di Umbra](https://open.spotify.com/artist/26Js1EtYSgTosRfHYbEpZG) | [Onironautas](https://open.spotify.com/album/51UJxYKsEZqK7qtTHj2NBy) | 3:10 | 2021-12-07 | 2023-05-21 |
 | [Op Die Fiets](https://open.spotify.com/track/7lkkpBe13UFrPIe9Ffn2cb) | [Margaretha van Baarle](https://open.spotify.com/artist/1I6amUXyzWrPtpPsLmYHp1) | [Op Die Fiets](https://open.spotify.com/album/7uyWIPr7QyFjo1bdSeQKls) | 2:21 | 2021-12-07 |  |
 | [Opening Up](https://open.spotify.com/track/3qROrX6c2jW9lArTRnAKGf) | [Gideon Lewis](https://open.spotify.com/artist/1zvwcVO4fIwapze8BZl7nH) | [Opening Up](https://open.spotify.com/album/4tgCcjOjG3NsPnndyqrdLP) | 2:27 | 2021-12-07 | 2022-07-16 |
 | [Opportunity Knocks](https://open.spotify.com/track/1T81HdwFZ2bzZYBFZ6tc13) | [John Deigen](https://open.spotify.com/artist/15uysw3q7CD404iYaCUxs3) | [Opportunity Knocks](https://open.spotify.com/album/1FU0Aw1hWxy8SHBsMV5zd2) | 2:29 | 2021-12-07 | 2022-04-21 |
@@ -539,6 +540,7 @@
 | [with me, with you](https://open.spotify.com/track/1S9aFKkJi0MILii1icKFeu) | [Moux](https://open.spotify.com/artist/4jsMhXef3DBlwIfiVLEGDZ) | [heart pieces](https://open.spotify.com/album/0Tzbu2y034RCgFtLhQI2GY) | 3:19 | 2021-12-07 | 2022-09-15 |
 | [Without A Care](https://open.spotify.com/track/0KDSZ4vJdSoZDDqPxbFEuh) | [Martin Fox](https://open.spotify.com/artist/6V7ZjMzGpdbdYCux5JdAyL) | [Without A Care](https://open.spotify.com/album/0ZGt6oyCLeO0sD3fR1ysKD) | 2:44 | 2021-12-07 |  |
 | [Without Words](https://open.spotify.com/track/2l1F4LJzRpVgqXXvjFydbT) | [Ren Lockhart](https://open.spotify.com/artist/2o6Pj478mXZrEZbEFnAbXp) | [Without Words](https://open.spotify.com/album/57pvjTiZ2itUqiYHMg9cUq) | 4:14 | 2022-09-14 | 2023-05-20 |
+| [Woman traveling alone](https://open.spotify.com/track/2bgfzRKACqBoOWoXYJGJdb) | [Leisel Walker](https://open.spotify.com/artist/4yTf0AFWlZAq1Stliy2qou) | [Woman traveling alone](https://open.spotify.com/album/3Gs894sByxOdmahSwU7sF1) | 2:06 | 2023-05-19 |  |
 | [World Of Water](https://open.spotify.com/track/2mbXxQ59CEZxtopCgdKAP3) | [Ludwig Lloyd](https://open.spotify.com/artist/4daTfKKnYKUlMaxDMGZH9K) | [World Of Water](https://open.spotify.com/album/6blYSgMd4ER4YMPblBER6a) | 2:06 | 2021-12-07 | 2022-04-08 |
 | [Yekaterinburg](https://open.spotify.com/track/5NjQakjUez8p0AVLo06jhr) | [Hoverchild](https://open.spotify.com/artist/4fCWcDzEkEqgDNUq1OiOwc) | [Yekaterinburg](https://open.spotify.com/album/5n5u8rBXPw4ZyNi3G5nVyf) | 2:46 | 2021-12-07 | 2023-05-20 |
 | [Yellow Reflection](https://open.spotify.com/track/2dVytC369RLembx9DjdMYP) | [Deirdre Fetter](https://open.spotify.com/artist/1oJLuwoSGBnbUVL0ol9m1b) | [Yellow Reflection](https://open.spotify.com/album/4XKDSzmkcXmeztDgM9zxL7) | 2:05 | 2021-12-07 |  |

@@ -1,12 +1,12 @@
 {
   "description": "El don de cantar y componer, una playlist llena de talento. Foto: S\u00edlvia P\u00e9rez Cruz.",
-  "num_followers": 290358,
+  "num_followers": 290458,
   "original_name": "Cantautoras",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiNDlkY2YyN2Q4YTUwMTUzZDdjMTk3NDNjODljZTBhNzZjZDE1NGFj",
+  "snapshot_id": "MCxhZGVhMTNkZDBkOWU2YzMxMzE5NmU4MTdmOWNiODRmMGI2YzdjMjFl",
   "tracks": [
     {
       "added_at": "2023-05-05 09:37:06",
@@ -1467,22 +1467,6 @@
     {
       "added_at": "2023-05-05 09:37:06",
       "album": {
-        "name": "Contigo",
-        "url": "https://open.spotify.com/album/0g7NM1WVbqY8nK8mJTbXvQ"
-      },
-      "artists": [
-        {
-          "name": "Alejandro Sanz",
-          "url": "https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF"
-        }
-      ],
-      "duration_ms": 294095,
-      "name": "Contigo",
-      "url": "https://open.spotify.com/track/5XBY1Hxg0L6Cf3wyjCGftT"
-    },
-    {
-      "added_at": "2023-05-05 09:37:06",
-      "album": {
         "name": "B\u00e1sico",
         "url": "https://open.spotify.com/album/29MlnmVjoff9GwJQT9bTka"
       },
@@ -1495,6 +1479,22 @@
       "duration_ms": 237600,
       "name": "Lucha de gigantes - Live",
       "url": "https://open.spotify.com/track/0WWSqjiV8czuWNQ05C5aXl"
+    },
+    {
+      "added_at": "2023-05-05 09:37:06",
+      "album": {
+        "name": "Contigo",
+        "url": "https://open.spotify.com/album/0g7NM1WVbqY8nK8mJTbXvQ"
+      },
+      "artists": [
+        {
+          "name": "Alejandro Sanz",
+          "url": "https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF"
+        }
+      ],
+      "duration_ms": 294095,
+      "name": "Contigo",
+      "url": "https://open.spotify.com/track/5XBY1Hxg0L6Cf3wyjCGftT"
     },
     {
       "added_at": "2023-05-05 09:37:06",
@@ -1755,22 +1755,6 @@
     {
       "added_at": "2023-05-05 09:37:06",
       "album": {
-        "name": "Soy Un Corazon Tendido Al Sol Y Otros Grandes Exitos",
-        "url": "https://open.spotify.com/album/0HGv49ONlzwgnzxbWZofPl"
-      },
-      "artists": [
-        {
-          "name": "V\u00edctor Manuel",
-          "url": "https://open.spotify.com/artist/6cFqY5mkBqKqaIYunDg1k8"
-        }
-      ],
-      "duration_ms": 251666,
-      "name": "Solo Pienso en Ti",
-      "url": "https://open.spotify.com/track/6NAGNKLKSY8FOHIpMMFZjW"
-    },
-    {
-      "added_at": "2023-05-05 09:37:06",
-      "album": {
         "name": "Aunque t\u00fa no lo sepas",
         "url": "https://open.spotify.com/album/3SaoEYIz0wkozITFrtSzDr"
       },
@@ -1783,6 +1767,22 @@
       "duration_ms": 131343,
       "name": "Aunque t\u00fa no lo sepas",
       "url": "https://open.spotify.com/track/441XWdqnVR7daud8RbK2bg"
+    },
+    {
+      "added_at": "2023-05-05 09:37:06",
+      "album": {
+        "name": "Soy Un Corazon Tendido Al Sol Y Otros Grandes Exitos",
+        "url": "https://open.spotify.com/album/0HGv49ONlzwgnzxbWZofPl"
+      },
+      "artists": [
+        {
+          "name": "V\u00edctor Manuel",
+          "url": "https://open.spotify.com/artist/6cFqY5mkBqKqaIYunDg1k8"
+        }
+      ],
+      "duration_ms": 251666,
+      "name": "Solo Pienso en Ti",
+      "url": "https://open.spotify.com/track/6NAGNKLKSY8FOHIpMMFZjW"
     },
     {
       "added_at": "2023-05-05 09:37:06",

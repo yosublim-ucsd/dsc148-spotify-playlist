@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXIcbzpLauPS.md) - [plain]
 
 > Metalcore at its finest\. Cover: Spiritbox
 
-[Spotify](https://open.spotify.com/user/spotify) - 882,109 likes - 75 songs - 4 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 882,198 likes - 75 songs - 4 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXIcbzpLauPS.md) - [plain]
 | 24 | [30 Under 13](https://open.spotify.com/track/4f1ML3x043Sl0QdVeNB4yT) | [Better Lovers](https://open.spotify.com/artist/3mStoA23qANDeMqHi2oqze) | [30 Under 13](https://open.spotify.com/album/3flz7O2lY60WbBoefXUk1b) | 4:05 |
 | 25 | [Reaching](https://open.spotify.com/track/4T7Vu4pG8Iz4CRTyLRZMk6) | [The Devil Wears Prada](https://open.spotify.com/artist/0NbQe5CNgh4YApOCDuHSjb) | [Reaching](https://open.spotify.com/album/2fYE7q0uF7oiJHTspqThqR) | 3:25 |
 | 26 | [Wasted Space](https://open.spotify.com/track/2swqb0ij8Xpksi4A7tqE6i) | [Kingdom Of Giants](https://open.spotify.com/artist/77rcxvpDqP78d90dL3DNNe) | [Wasted Space](https://open.spotify.com/album/6kldsD8IODEdYNlNAXPCed) | 3:26 |
-| 27 | [It's Hell Down Here](https://open.spotify.com/track/0chASbpWKoTnrXDoPyNSyH) | [The Amity Affliction](https://open.spotify.com/artist/6kNKUYGn6VNGsRoXmyoDPK) | [It's Hell Down Here](https://open.spotify.com/album/2nyvCfPmmT3u7fbF4Hno4a) | 4:00 |
+| 27 | [It's Hell Down Here](https://open.spotify.com/track/3vxMfMNjD8k0ozmuVDu0Ai) | [The Amity Affliction](https://open.spotify.com/artist/6kNKUYGn6VNGsRoXmyoDPK) | [Not Without My Ghosts](https://open.spotify.com/album/5IBhAOIYSATI3WY7DgeSl7) | 4:00 |
 | 28 | [FLATLINE](https://open.spotify.com/track/7eavNfBDdDIj3nkQb6yOxZ) | [Blind Channel](https://open.spotify.com/artist/3L58J6a7f0jyy2p6f3MSAs) | [FLATLINE](https://open.spotify.com/album/0ntAkOuUZbtb6LtccaZoMA) | 2:52 |
 | 29 | [The Shape of Water](https://open.spotify.com/track/1TQCfN9QDURXA14PlJs4x5) | [Siamese](https://open.spotify.com/artist/0Hx4gv3eoiodtu6XYHF1X0), [ten56.](https://open.spotify.com/artist/28dpy0DQotTkBXcTlniQii) | [The Shape of Water](https://open.spotify.com/album/30AACekoL1ZM6gXtPE7GHN) | 3:34 |
 | 30 | [Graphic](https://open.spotify.com/track/3gZz9dqftXeYS7vLbolcG2) | [Earth Caller](https://open.spotify.com/artist/0t3PBFciaPWM5uMksLH1AW) | [Graphic](https://open.spotify.com/album/0pmmOjKGXNDfsAo1H9hyCv) | 3:53 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXIcbzpLauPS.md) - [plain]
 | 74 | [Thick As Blood](https://open.spotify.com/track/1ALVr49q6IjFtzMajHvaU9) | [Hollow Front](https://open.spotify.com/artist/50YmW8f4U5IxTIwYI9mGAe) | [The Price Of Dreaming](https://open.spotify.com/album/7y1KzLYE9ws4vN3vP6OZh4) | 4:40 |
 | 75 | [Circles](https://open.spotify.com/track/0JIEEyj0EsqTZORin5bxnM) | [Dark Divine](https://open.spotify.com/artist/3CMyREgx8ZErRUydXlmCDX) | [Circles](https://open.spotify.com/album/48yuoZ91DAKQGAvfPwNYF0) | 3:02 |
 
-Snapshot ID: `MCxiZTY1YjEzNDgwN2Q1NGMwOGQwNzE2YzdmNjg4NTkzYzUwMjc0NTli`
+Snapshot ID: `MCxhNDhmMGQxYTU1ZWQzZDY3OGJmZTFhZThjNTgyODBjNzJjZDkwMWY4`

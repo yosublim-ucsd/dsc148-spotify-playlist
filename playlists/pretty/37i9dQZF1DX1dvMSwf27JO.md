@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1dvMSwf27JO.md) - [plain]
 
 > dressing for in the desert\. Cover: Rae Sremmurd
 
-[Spotify](https://open.spotify.com/user/spotify) - 504,133 likes - 100 songs - 5 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 504,214 likes - 100 songs - 5 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1dvMSwf27JO.md) - [plain]
 | 99 | [Sad B!tch](https://open.spotify.com/track/6zWcEyrSS9gFtWaixDgp0q) | [CLIP](https://open.spotify.com/artist/3gkLLAZaxTaJhHnUaxQzCl) | [Sad B!tch](https://open.spotify.com/album/663aBWqx2nUfiheLmyVbkB) | 2:15 |
 | 100 | [Gonna Bleach My Eyebrows](https://open.spotify.com/track/3Am6nVgWd4pwO2hguNHqI7) | [Alemeda](https://open.spotify.com/artist/33Se8kMYeTPkeeM2LnsPF8) | [Gonna Bleach My Eyebrows](https://open.spotify.com/album/3NNkuonLgIpuUx3KdMczQy) | 2:14 |
 
-Snapshot ID: `MCwyNDNlNTBkMDA1Y2FkNThlZjBjZTA2MzRlNGE3ODkxZmY0MDM1MjJh`
+Snapshot ID: `MCwyZGIyMTQ3YTlkYzljNTIxNDI4ZjRhOWFjYmJjNmE2NWY3MjJmNjYy`

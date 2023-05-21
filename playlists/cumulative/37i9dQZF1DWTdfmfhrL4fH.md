@@ -4,7 +4,7 @@
 
 > Any songs you forgot existed? Let's go deep into 2010s rock!  Cover: Papa Roach.
 
-534 songs - 1 day 9 hr 30 min
+535 songs - 1 day 9 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -150,6 +150,7 @@
 | [Fallen Angels](https://open.spotify.com/track/1rgPXmgq1rOwglSwaTrq9S) | [Black Veil Brides](https://open.spotify.com/artist/6O7MpKrY91vlCd4Osi6XKs) | [Set The World On Fire](https://open.spotify.com/album/3iTUq3CfkKcD5ZN4zgcDIA) | 3:44 | 2022-05-25 |  |
 | [Feels Like Summer](https://open.spotify.com/track/6tNQw4RAj7oYogHXVzKJg8) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Feels Like Summer](https://open.spotify.com/album/6xvakWG4IcWw45p7rzs3mS) | 3:15 | 2022-05-25 | 2022-07-15 |
 | [Feels Like Summer](https://open.spotify.com/track/2jz1bw1p0WQj0PDnVDP0uY) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Pacific Daydream](https://open.spotify.com/album/3EwfQtjvyRAXsPWAKO5FDP) | 3:15 | 2022-05-25 |  |
+| [Feet Don't Fail Me](https://open.spotify.com/track/4NVKpvX9pcSeoKiNvjmb5X) | [Queens of the Stone Age](https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn) | [Villains](https://open.spotify.com/album/7vuIN24G18PAUAvjnICyA6) | 5:41 | 2023-01-18 |  |
 | [Find Me](https://open.spotify.com/track/2mwnYvlLVP465u9V9wjUGj) | [Kings of Leon](https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx) | [WALLS](https://open.spotify.com/album/08ibdX8K0GETv20UEku3sm) | 4:05 | 2022-05-25 |  |
 | [Floral & Fading](https://open.spotify.com/track/3Fnf4J72Y1ImGILcAh1Z2s) | [Pierce The Veil](https://open.spotify.com/artist/4iJLPqClelZOBCBifm8Fzv) | [Misadventures](https://open.spotify.com/album/4wIX07SiESzMbSLCK3qCWQ) | 3:29 | 2022-05-25 | 2022-07-08 |
 | [Flower Power](https://open.spotify.com/track/4SE1kjgRulcwjNcc7oFFg4) | [Greta Van Fleet](https://open.spotify.com/artist/4NpFxQe2UvRCAjto3JqlSl) | [From The Fires](https://open.spotify.com/album/6uSnHSIBGKUiW1uKQLYZ7w) | 5:12 | 2022-05-25 |  |
@@ -218,7 +219,7 @@
 | [hope for the underrated youth](https://open.spotify.com/track/24qhW8fqWyrMHqkBfM2HPk) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW) | [the underrated youth](https://open.spotify.com/album/0kGTcfwQC5nlsubgxUXdwP) | 4:00 | 2022-05-25 | 2023-04-12 |
 | [House of the Rising Sun](https://open.spotify.com/track/2SgQsZIWs0UC01ibNOBu7q) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [The Wrong Side of Heaven and the Righteous Side of Hell, Vol\. 2](https://open.spotify.com/album/6cNLSrGEjnrEhV5valjcYD) | 4:07 | 2022-05-25 |  |
 | [House of The Rising Sun](https://open.spotify.com/track/4ZmX8elKMkH0MfniNi0Adu) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [The Wrong Side Of Heaven And The Righteous Side Of Hell, Volume 2](https://open.spotify.com/album/0RP9MT74WH7Yis10EO7tZS) | 4:07 | 2022-05-25 | 2022-07-29 |
-| [How Did We Get So Dark?](https://open.spotify.com/track/51txLjbvSBRvtxjCjAFLkM) | [Royal Blood](https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15) | [How Did We Get So Dark?](https://open.spotify.com/album/3Rz6kF8eGqrDOEteo5YsBj) | 3:17 | 2022-05-25 |  |
+| [How Did We Get So Dark?](https://open.spotify.com/track/51txLjbvSBRvtxjCjAFLkM) | [Royal Blood](https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15) | [How Did We Get So Dark?](https://open.spotify.com/album/3Rz6kF8eGqrDOEteo5YsBj) | 3:17 | 2022-05-25 | 2023-05-21 |
 | [How Did You Love](https://open.spotify.com/track/2le5xHvcWF8PDp608d4L8D) | [Shinedown](https://open.spotify.com/artist/70BYFdaZbEKbeauJ670ysI) | [Threat to Survival](https://open.spotify.com/album/7969zwJB8p021EBcCUjsv9) | 3:07 | 2022-05-25 |  |
 | [Hurricane](https://open.spotify.com/track/6fsHQN6zZT64dapQ2XjI19) | [Theory of a Deadman](https://open.spotify.com/artist/74eX4C98E4FCrAMl39qRsJ) | [The Truth Is..\. \(Special Edition\)](https://open.spotify.com/album/2JUpjRRxWKUZwVwY9sTXS1) | 4:17 | 2022-05-25 | 2022-07-29 |
 | [I Always Knew](https://open.spotify.com/track/6E3NosMXYlGD21K7KqIxQ1) | [The Vaccines](https://open.spotify.com/artist/0Ak6DLKHtpR6TEEnmcorKA) | [Come Of Age](https://open.spotify.com/album/2XWOaQwiK4GAODTPVwDSr4) | 3:34 | 2022-05-25 |  |

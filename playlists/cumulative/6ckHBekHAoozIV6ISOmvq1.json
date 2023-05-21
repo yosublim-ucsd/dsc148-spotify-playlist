@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2019-05-26",
-  "description": "See also <a href=\"spotify:playlist:2z6FM4scrQ5lpsKId0jeki\">Intro</a>, <a href=\"spotify:playlist:1Z5SNtd1IWRRw3ESZfJZKe\">Pulse</a>, <a href=\"spotify:playlist:4pVcfz3aYYdCTMdwGHwJJs\">\u2640Filter</a> or <a href=\"spotify:playlist:6idjuynJ3Rgy9RIHaGKDAF\">2022</a>; or the Sounds of <a href=\"spotify:playlist:0evPZ6WIgSKYY2gnlfXIdA\">Renaissance</a>, <a href=\"spotify:playlist:6zc2HFPnDWeqqsBHhYEQER\">Trecento</a>, <a href=\"spotify:playlist:5WjxMg3QfWAmDH7I2MpMoT\">Troubadour</a>, <a href=\"spotify:playlist:0K86fmE0c0SFgz9GpwhwLm\">Early Music</a>, <a href=\"spotify:playlist:0nqJegaRD3nkCjyIwg7mry\">Trouv\u00e8re</a>, <a href=\"spotify:playlist:2uc2oq6wQ8ZLSPmPr4qtte\">Early Music Ensemble</a>, <a href=\"spotify:playlist:2UKjnmVx8ROXrNxIAeaE7M\">Ars subtilior</a>, <a href=\"spotify:playlist:0AVJ1UKXMQf244cvu4np0k\">Minnesang</a>, <a href=\"spotify:playlist:7b3qwPS9RTygJC5H8DPfGl\">Italian Renaissance</a> or <a href=\"spotify:playlist:5uQQu2RC80Ku5AjSpCtrJF\">Madrigal</a>; or much more at <a href=\"http://everynoise.com\">everynoise.com</a>.",
+  "description": "See also <a href=\"spotify:playlist:2z6FM4scrQ5lpsKId0jeki\">Intro</a>, <a href=\"spotify:playlist:1Z5SNtd1IWRRw3ESZfJZKe\">Pulse</a>, <a href=\"spotify:playlist:4pVcfz3aYYdCTMdwGHwJJs\">\u2640Filter</a> or <a href=\"spotify:playlist:6idjuynJ3Rgy9RIHaGKDAF\">2022</a>; or the Sounds of <a href=\"spotify:playlist:0evPZ6WIgSKYY2gnlfXIdA\">Renaissance</a>, <a href=\"spotify:playlist:6zc2HFPnDWeqqsBHhYEQER\">Trecento</a>, <a href=\"spotify:playlist:5WjxMg3QfWAmDH7I2MpMoT\">Troubadour</a>, <a href=\"spotify:playlist:2uc2oq6wQ8ZLSPmPr4qtte\">Early Music Ensemble</a>, <a href=\"spotify:playlist:0K86fmE0c0SFgz9GpwhwLm\">Early Music</a>, <a href=\"spotify:playlist:0nqJegaRD3nkCjyIwg7mry\">Trouv\u00e8re</a>, <a href=\"spotify:playlist:2UKjnmVx8ROXrNxIAeaE7M\">Ars subtilior</a>, <a href=\"spotify:playlist:0AVJ1UKXMQf244cvu4np0k\">Minnesang</a>, <a href=\"spotify:playlist:7b3qwPS9RTygJC5H8DPfGl\">Italian Renaissance</a> or <a href=\"spotify:playlist:5uQQu2RC80Ku5AjSpCtrJF\">Madrigal</a>; or much more at <a href=\"http://everynoise.com\">everynoise.com</a>.",
   "name": "The Sound of Medieval",
   "tracks": [
     {
@@ -4284,7 +4284,7 @@
       ],
       "date_added": "2023-04-26",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-29",
+      "date_removed": null,
       "duration_ms": 231946,
       "name": "Clausula (after songs by Neidhart and 13th Century English monodies)",
       "url": "https://open.spotify.com/track/7GcDHPisxwYMX4BjBh10lM"
@@ -7485,6 +7485,32 @@
     },
     {
       "album": {
+        "name": "Meditation Music: Meditative Music Across Ten Centuries",
+        "url": "https://open.spotify.com/album/5uXZmHBRHgwwwVEXYKXPIp"
+      },
+      "artists": [
+        {
+          "name": "Anonymous",
+          "url": "https://open.spotify.com/artist/4kCZ5nyurc9eIqLJfUcW0Y"
+        },
+        {
+          "name": "Dominique Vellard",
+          "url": "https://open.spotify.com/artist/7163RRfcsqPuQRplJ6PMQK"
+        },
+        {
+          "name": "Emmanuel Bonnardot",
+          "url": "https://open.spotify.com/artist/3owNFrCfXAvF6CDZ059eMc"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232506,
+      "name": "Graduel: Miserere mei Deus (10-11th c.)",
+      "url": "https://open.spotify.com/track/0w8n2F3jysnioTClakfUuZ"
+    },
+    {
+      "album": {
         "name": "Landini and His Time: 14th Century Italian Ars Nova",
         "url": "https://open.spotify.com/album/7p3b5jogmra37NPwPfbcNj"
       },
@@ -8806,7 +8832,7 @@
       ],
       "date_added": "2022-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-21",
       "duration_ms": 201760,
       "name": "I\u2019 Vivo Amando (Ballata)",
       "url": "https://open.spotify.com/track/3r9lphnhDFkSV0uUZt6Cl2"
@@ -10220,7 +10246,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-21",
       "duration_ms": 255413,
       "name": "Lanquan il jorn",
       "url": "https://open.spotify.com/track/1LQ7G2HyPgXaAnYCCkszLg"
@@ -10306,6 +10332,28 @@
       "duration_ms": 1050773,
       "name": "Lanquan li jorn",
       "url": "https://open.spotify.com/track/5qZNy6XAjdwsfkwGhoOSDS"
+    },
+    {
+      "album": {
+        "name": "Walther von der Vogelweide",
+        "url": "https://open.spotify.com/album/5JwcntkNjIl2lGDbv9FJSv"
+      },
+      "artists": [
+        {
+          "name": "Jaufre Rudel",
+          "url": "https://open.spotify.com/artist/1plDg0ZE6mjEE6K3662MQT"
+        },
+        {
+          "name": "Anne Az\u00e9ma",
+          "url": "https://open.spotify.com/artist/5sjFKXU6oONjss4HkIeHf2"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289906,
+      "name": "Lanquan li jorn son lonc en mai",
+      "url": "https://open.spotify.com/track/3baYvETe3wJxGrYsLWsRvb"
     },
     {
       "album": {
@@ -11570,7 +11618,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-21",
       "duration_ms": 724173,
       "name": "Mevlana",
       "url": "https://open.spotify.com/track/6UakGxhmXoj7mjMGF8LgBg"
@@ -12502,7 +12550,7 @@
       ],
       "date_added": "2018-02-09",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-22",
+      "date_removed": null,
       "duration_ms": 194040,
       "name": "Non al suo amante",
       "url": "https://open.spotify.com/track/4bawX8sRlXcdfzhDN2A846"
@@ -13612,7 +13660,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-21",
       "duration_ms": 223986,
       "name": "Oseletto selvaggio",
       "url": "https://open.spotify.com/track/3g5urloOBgPtLmeUC4UKGr"
@@ -14062,7 +14110,7 @@
       ],
       "date_added": "2021-08-07",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-13",
+      "date_removed": null,
       "duration_ms": 275080,
       "name": "Per non far lietto",
       "url": "https://open.spotify.com/track/40DbyVZlf3q0juUKLUSaML"
@@ -18054,7 +18102,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-13",
+      "date_removed": null,
       "duration_ms": 262386,
       "name": "Von anegeng der sunne kchlar",
       "url": "https://open.spotify.com/track/4oe9coh0klrahltSzWRKYb"

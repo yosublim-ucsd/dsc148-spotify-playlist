@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdS3lvGe1GrT.md) - [plain]
 
 > Fresh folk and roots music from independent artists every Wednesday\. Cover: lighthearted \| Visual Artist: Bailey Elder
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,635 likes - 100 songs - 5 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,693 likes - 100 songs - 5 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdS3lvGe1GrT.md) - [plain]
 | 99 | [Mud\-Stained Dress](https://open.spotify.com/track/0KGVvElibdS6uNbpfRpN8o) | [Elias Hix](https://open.spotify.com/artist/7caEhKgBilB0MHIyWWWGsV) | [Mud\-Stained Dress](https://open.spotify.com/album/1ScTCc2fd94YmuOvp4JAw7) | 3:26 |
 | 100 | [The Former](https://open.spotify.com/track/6CNKcu9SBPWKMkBvMkPRBT) | [Steinza](https://open.spotify.com/artist/6Q868mSv5AUeLn44rc77sD) | [The Former](https://open.spotify.com/album/2UKLjLYN14h5m1f5pHVr3i) | 2:37 |
 
-Snapshot ID: `MCxhZTIwNmZmODQ4MTEzYmIwMzQyZGQzMTkxMTFhMTU5OGIwYzk3MjAw`
+Snapshot ID: `MCwyNzE0YmI3MDQ2NDYwNzZlMDZkODMyYmE5MGI5NmUxMTBjZTViMGM2`

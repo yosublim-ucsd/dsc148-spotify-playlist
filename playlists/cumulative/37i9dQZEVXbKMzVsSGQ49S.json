@@ -274,7 +274,7 @@
       ],
       "date_added": "2023-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-21",
       "duration_ms": 190131,
       "name": "4play in 4K",
       "url": "https://open.spotify.com/track/5DxZx0Iv70W56T25i6EqNC"
@@ -2327,6 +2327,32 @@
     },
     {
       "album": {
+        "name": "T\u00f3nhylur Akadem\u00eda, Vol. 1",
+        "url": "https://open.spotify.com/album/1dWD1gOYFtNwntuUyDw25O"
+      },
+      "artists": [
+        {
+          "name": "HelgiT",
+          "url": "https://open.spotify.com/artist/18GKco27D5UR5NpzIMugbL"
+        },
+        {
+          "name": "Maron Birnir",
+          "url": "https://open.spotify.com/artist/5ZND8KTohJiibAgLwfkpXK"
+        },
+        {
+          "name": "T\u00f3nhylur",
+          "url": "https://open.spotify.com/artist/5acbJzGy5hnfgdksb989Hu"
+        }
+      ],
+      "date_added": "2023-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146078,
+      "name": "BOTNA",
+      "url": "https://open.spotify.com/track/2Vzfy7gNEFsIeCL585MlHw"
+    },
+    {
+      "album": {
         "name": "Yeezus",
         "url": "https://open.spotify.com/album/7D2NdGvBHIavgLhmcwhluK"
       },
@@ -3700,7 +3726,7 @@
       ],
       "date_added": "2022-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-20",
+      "date_removed": null,
       "duration_ms": 221520,
       "name": "Creepin' (with The Weeknd & 21 Savage)",
       "url": "https://open.spotify.com/track/2dHHgzDwk4BJdRwy9uXhTO"
@@ -13950,7 +13976,7 @@
       ],
       "date_added": "2023-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-21",
       "duration_ms": 154888,
       "name": "Mama \u0160\u010c!",
       "url": "https://open.spotify.com/track/7hcPebUUvJDRH6BhjZ5xEZ"
@@ -14250,7 +14276,7 @@
       ],
       "date_added": "2023-05-18",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-20",
+      "date_removed": null,
       "duration_ms": 88304,
       "name": "MATHEMATICAL DISRESPECT",
       "url": "https://open.spotify.com/track/0Ymjv0OJeIIPXr6s9wi3iW"
@@ -15058,7 +15084,7 @@
       ],
       "date_added": "2023-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-21",
       "duration_ms": 176800,
       "name": "My Sister's Crown",
       "url": "https://open.spotify.com/track/59md7R7fW5LjSbZITzzn3n"
@@ -15106,6 +15132,32 @@
       "duration_ms": 228000,
       "name": "My Universe",
       "url": "https://open.spotify.com/track/3FeVmId7tL5YN8B7R3imoM"
+    },
+    {
+      "album": {
+        "name": "T\u00f3nhylur Akadem\u00eda, Vol. 1",
+        "url": "https://open.spotify.com/album/1dWD1gOYFtNwntuUyDw25O"
+      },
+      "artists": [
+        {
+          "name": "Egill Airi",
+          "url": "https://open.spotify.com/artist/1Z6jWlrcsGs0e3NzYAT8ys"
+        },
+        {
+          "name": "HelgiT",
+          "url": "https://open.spotify.com/artist/18GKco27D5UR5NpzIMugbL"
+        },
+        {
+          "name": "T\u00f3nhylur",
+          "url": "https://open.spotify.com/artist/5acbJzGy5hnfgdksb989Hu"
+        }
+      ],
+      "date_added": "2023-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139920,
+      "name": "MYNDIR",
+      "url": "https://open.spotify.com/track/1oOa6Dho7CEiB2T5OhKggA"
     },
     {
       "album": {
@@ -16880,7 +16932,7 @@
       ],
       "date_added": "2023-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-21",
       "duration_ms": 165473,
       "name": "Patiently Waiting",
       "url": "https://open.spotify.com/track/76CFLCBxtsRgfOjub0y01x"
@@ -18932,6 +18984,24 @@
       "duration_ms": 152985,
       "name": "Savior - Interlude",
       "url": "https://open.spotify.com/track/5PPUw4Xo3Hz6rl4GpBfd3c"
+    },
+    {
+      "album": {
+        "name": "Say Yes To Heaven",
+        "url": "https://open.spotify.com/album/6jVg0POvGYH1Pt6lISl3ok"
+      },
+      "artists": [
+        {
+          "name": "Lana Del Rey",
+          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+        }
+      ],
+      "date_added": "2023-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209156,
+      "name": "Say Yes To Heaven",
+      "url": "https://open.spotify.com/track/6GGtHZgBycCgGBUhZo81xe"
     },
     {
       "album": {
@@ -21586,6 +21656,28 @@
       "duration_ms": 99752,
       "name": "S\u00f3lskin",
       "url": "https://open.spotify.com/track/76Y8XoegQ5wzOzbUeDOMos"
+    },
+    {
+      "album": {
+        "name": "S\u00d6MMER BABY",
+        "url": "https://open.spotify.com/album/3gVJl41gFsE8nL7Q5MfoX3"
+      },
+      "artists": [
+        {
+          "name": "V\u00c6B",
+          "url": "https://open.spotify.com/artist/2Y1zMOhyjW9R9C4DYBuNLg"
+        },
+        {
+          "name": "Disco Curly",
+          "url": "https://open.spotify.com/artist/746fVqVoeiBPhTvtcEa93r"
+        }
+      ],
+      "date_added": "2023-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139925,
+      "name": "S\u00d6MMER BABY",
+      "url": "https://open.spotify.com/track/3REpbx6G5JboAOzZeJXJNS"
     },
     {
       "album": {
@@ -25436,7 +25528,7 @@
       ],
       "date_added": "2023-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-21",
       "duration_ms": 181000,
       "name": "\u00c9videmment",
       "url": "https://open.spotify.com/track/18ZX6YaDSOopXPRvfIh8DM"
@@ -25932,7 +26024,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-21",
       "duration_ms": 135325,
       "name": "\u00de\u00fa ert",
       "url": "https://open.spotify.com/track/6xsUlQIjfduRdQt88yekZ5"

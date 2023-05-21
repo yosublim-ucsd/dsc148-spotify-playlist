@@ -4,7 +4,7 @@
 
 > ¡Pop\-punk por siempre!
 
-112 songs - 6 hr 11 min
+113 songs - 6 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,7 +13,7 @@
 | [4 Segundos al Sol](https://open.spotify.com/track/1IJw2g0b3rL72vbH4jbDY7) | [Amsterdam](https://open.spotify.com/artist/0H23uQ8jejMPg06PJvoVY6) | [Como Ayer, Como Hoy…](https://open.spotify.com/album/5r3kLgjNuJbUxsIYVsiqkH) | 3:57 | 2021-11-26 | 2022-07-17 |
 | [Adios Amigos](https://open.spotify.com/track/4ccmRGXt54rHBmwRxxpGIU) | [SUGUS](https://open.spotify.com/artist/1J982dncUkkgwKpGuBNHaG) | [Ciclostes](https://open.spotify.com/album/4MR7v8d9rRN0TtrO1IzhUD) | 2:08 | 2021-11-26 | 2022-07-22 |
 | [AMOR PUNK](https://open.spotify.com/track/2NtDY6Y2tiKpwzhjxp08pI) | [Marc!](https://open.spotify.com/artist/2sOEwHFWDipyXd0EgSHIMF) | [AMOR PUNK](https://open.spotify.com/album/3S7ZB4zdi8MXRWrk9TqRa3) | 2:44 | 2022-07-22 | 2022-10-21 |
-| [AMSIEDAD](https://open.spotify.com/track/6INLA7eSR6wKYdCUtQyDLQ) | [Ningun Artista](https://open.spotify.com/artist/2hErZkRG3ZcpWCh0B3wQkV) | [S.C.E.N.A.](https://open.spotify.com/album/3U0Y3Uyed506dKHMpQDCI9) | 3:40 | 2023-04-21 |  |
+| [AMSIEDAD](https://open.spotify.com/track/6INLA7eSR6wKYdCUtQyDLQ) | [Ningun Artista](https://open.spotify.com/artist/2hErZkRG3ZcpWCh0B3wQkV) | [S.C.E.N.A.](https://open.spotify.com/album/3U0Y3Uyed506dKHMpQDCI9) | 3:40 | 2023-04-21 | 2023-05-21 |
 | [Antes](https://open.spotify.com/track/1rZPLX3l9i3nOzPuyw5uTa) | [Celofán](https://open.spotify.com/artist/6lxn2RanNHWxoWRHLTLunm) | [Split](https://open.spotify.com/album/2w1Xt3HBQq6qIDZEZWk4CE) | 3:19 | 2021-11-26 | 2023-02-25 |
 | [Apariencia](https://open.spotify.com/track/2v4oBaRnTe2YuaQovidduL) | [GUFI](https://open.spotify.com/artist/2x6OBrjZlSnyftY3Da2mmN) | [Corazón D' Roto](https://open.spotify.com/album/12FNuCmrZPqCFiu5mL09EC) | 3:37 | 2022-07-22 |  |
 | [Así Nos Rompíamos el Hocico Ayer](https://open.spotify.com/track/08JMJA2pkJBXwwbzhvQ4av) | [Primo](https://open.spotify.com/artist/2wXJLXeNLTOKyDWw0F5FZF) | [Así Nos Rompíamos el Hocico Ayer](https://open.spotify.com/album/1BJcmBqzsfVXOpurvxnxZz) | 2:06 | 2021-11-26 | 2022-07-27 |
@@ -76,6 +76,7 @@
 | [Match Point](https://open.spotify.com/track/1RI2vKauyCDiNOUhyRVS9f) | [Sullivan](https://open.spotify.com/artist/57ntqarhwfjdilukJRuNAS) | [Match Point](https://open.spotify.com/album/3soDFwi6VpuJ1vVTc7grRi) | 3:14 | 2021-11-26 | 2022-07-15 |
 | [Mentiras](https://open.spotify.com/track/47wLTuzem6hjRlTk4hJe0N) | [Danau](https://open.spotify.com/artist/2UgqMQNyx35YgIehZ5Qmlk) | [Mentiras](https://open.spotify.com/album/6ouwwsu3y9CwwYhSYap7u2) | 3:26 | 2021-11-26 | 2022-07-29 |
 | [Mientras el Mundo Se Apagaba \(Demo\)](https://open.spotify.com/track/6J19lCB1NnsgyRKUX9zJhI) | [Novella Inc](https://open.spotify.com/artist/3CtVX0akQ8axuqRjzGajdm) | [Demos y Viejas Historias, Vol\. 1](https://open.spotify.com/album/1lXy08EYct5sYbzuI8QSGb) | 2:49 | 2021-11-26 | 2022-07-20 |
+| [Mientras quede aliento](https://open.spotify.com/track/5luYUiCm5cKiYeFyntShb5) | [Pignoise](https://open.spotify.com/artist/21ttsUKZ3y2Hm6nduyvbAw) | [Mientras quede aliento](https://open.spotify.com/album/0dbOXHbcNBNEq5LpmJGGrG) | 3:13 | 2023-05-19 |  |
 | [Más de Lo Que Te Imaginas](https://open.spotify.com/track/4tgzXBZfiR5VKjbqThmtG6) | [Delux](https://open.spotify.com/artist/4VIdUXSfXMQpNulb1L0FUz) | [Delux](https://open.spotify.com/album/3hWSo1wNmgWsYTiFakLuvl) | 2:48 | 2022-07-22 |  |
 | [Nada Más de Ti](https://open.spotify.com/track/04RzCX08t3KFGsJiZc7eHV) | [Abril 88](https://open.spotify.com/artist/0vAYt4d53Aqk5zqJ764Y9l) | [Nada Más de Ti](https://open.spotify.com/album/09ybMfVY2bhKcfQE9N5XoT) | 3:16 | 2021-11-26 | 2022-07-23 |
 | [Nada Que Explicar](https://open.spotify.com/track/5ZirdB0vsnLf2MbnySb2Ao) | [Corre Forrest!](https://open.spotify.com/artist/6MKMzsT9XaBOJVn20RJfe5) | [Nada Que Explicar](https://open.spotify.com/album/6msmTlGD4x32Hc1BY0NPRL) | 3:06 | 2021-11-26 | 2022-07-27 |

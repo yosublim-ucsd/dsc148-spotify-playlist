@@ -4,7 +4,7 @@
 
 > Sweet gems to help you slow down and savor your day.
 
-307 songs - 19 hr 36 min
+308 songs - 19 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,7 +73,7 @@
 | [First Defeat](https://open.spotify.com/track/32R0JVo7IU4UlhkU3yNvEc) | [Noah Gundersen](https://open.spotify.com/artist/34482S5nfxR441wcnVfrHi) | [Ledges](https://open.spotify.com/album/1JwNRXyWu4PxK13mp51p8y) | 4:03 | 2022-09-16 |  |
 | [First Defeat](https://open.spotify.com/track/57FqmzNGTziRPCyuqaUrHo) | [Noah Gundersen](https://open.spotify.com/artist/34482S5nfxR441wcnVfrHi) | [Ledges](https://open.spotify.com/album/27VFXuIlqXgZeIImVfjszW) | 4:03 | 2021-10-22 | 2022-11-16 |
 | [Fixed](https://open.spotify.com/track/2BCTLF0QVwtM2BMECbmLx9) | [Mary Bragg](https://open.spotify.com/artist/72FO0BvoMxHvbQwbNrKqtj) | [Violets as Camouflage](https://open.spotify.com/album/0KCa9BfM1VLKSzfxfM4EPk) | 3:07 | 2021-10-22 | 2022-07-29 |
-| [Fool](https://open.spotify.com/track/4NgfxzTUZw3s953GcTvDxC) | [Mick Flannery](https://open.spotify.com/artist/5tIXFM4sGNRR4Oo3hLbFdf) | [Mick Flannery](https://open.spotify.com/album/48rcrRY3lVDZ23cpE6kwls) | 3:36 | 2021-10-22 |  |
+| [Fool](https://open.spotify.com/track/4NgfxzTUZw3s953GcTvDxC) | [Mick Flannery](https://open.spotify.com/artist/5tIXFM4sGNRR4Oo3hLbFdf) | [Mick Flannery](https://open.spotify.com/album/48rcrRY3lVDZ23cpE6kwls) | 3:36 | 2021-10-22 | 2023-05-21 |
 | [For Now](https://open.spotify.com/track/0c99BUd87HQfzgUUQqRyds) | [Kina Grannis](https://open.spotify.com/artist/7h4j9YTJJuAHzLCc3KCvYu) | [In the Waiting](https://open.spotify.com/album/0DTXDUMJhpH0dtHlvUGXVd) | 3:18 | 2021-10-22 |  |
 | [Forever and Then Some](https://open.spotify.com/track/16HWvmhWwk53FLOSvgiL1w) | [Lillie Mae](https://open.spotify.com/artist/32bF8EkwKNXBZyEo371paF) | [Forever and Then Some](https://open.spotify.com/album/5wypLtHgbpupR5THbQeaTM) | 4:49 | 2021-10-22 | 2022-07-29 |
 | [Freedom](https://open.spotify.com/track/5wnhj7LmjbArwChkJKcPx7) | [Rose Cousins](https://open.spotify.com/artist/3DIk8KcmVKTr4uGw3AuCtJ) | [Natural Conclusion](https://open.spotify.com/album/21MyZpqv4kjKulBfxKnVq9) | 4:28 | 2021-10-22 | 2022-07-29 |
@@ -267,6 +267,7 @@
 | [Tiger Striped Sky](https://open.spotify.com/track/2Cx61IzUXPJyhv3GzGtsZ3) | [Roo Panes](https://open.spotify.com/artist/0XHM5ZNJDU8e4CfbWMeSzC) | [Little Giant](https://open.spotify.com/album/4tGthRcF7F22ei3cvAiMLa) | 4:01 | 2021-10-22 | 2022-07-26 |
 | [Tiger Striped Sky](https://open.spotify.com/track/4C2aiAVTTVyZbCQZst5Xu1) | [Roo Panes](https://open.spotify.com/artist/0XHM5ZNJDU8e4CfbWMeSzC) | [Little Giant](https://open.spotify.com/album/3ZTS2uxdWAkBnIXzsCY8PZ) | 4:01 | 2022-05-27 |  |
 | [Tired of Taking It Out On You](https://open.spotify.com/track/5XmNHFjqibxTcWxTcnnzjM) | [Wilco](https://open.spotify.com/artist/2QoU3awHVdcHS8LrZEKvSM) | [Cruel Country](https://open.spotify.com/album/67GC6lWDvJ0lUc1aVBXTcT) | 3:36 | 2022-05-27 | 2022-11-13 |
+| [To Learn](https://open.spotify.com/track/63a0svve0p3CIiGx9a9DTy) | [Leith Ross](https://open.spotify.com/artist/4nxKz1dRYXnsGzN1lUURtG) | [To Learn](https://open.spotify.com/album/5k6lsjpZK4l4J9oMQmBR1l) | 2:17 | 2023-05-19 |  |
 | [To S.](https://open.spotify.com/track/17ogyMCuQ3aWoFQkNldC9U) | [Father John Misty](https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT) | [To S\. / To R.](https://open.spotify.com/album/61oaVIBCJKVQlHBzMcTKfX) | 4:19 | 2021-10-22 | 2022-07-28 |
 | [Tomorrow](https://open.spotify.com/track/1EeGzOrz5d8S2Q5p7OORun) | [Marc Scibilia](https://open.spotify.com/artist/4CHiVarfTsFhkFOk5vHS77) | [Tomorrow](https://open.spotify.com/album/15tYnqIqZrwaQbLYQozlRY) | 4:07 | 2021-10-22 | 2022-07-29 |
 | [Took You Up \- Acoustic](https://open.spotify.com/track/7iDz4xuwt0E7lIxwhBsZAI) | [Courtney Marie Andrews](https://open.spotify.com/artist/1EI0B66miJj5Fl408B7E9H) | [May Your Kindness Remain \(Acoustic\)](https://open.spotify.com/album/6QCGY3YumUApcVkcjTqCUB) | 3:45 | 2021-10-22 | 2022-07-29 |

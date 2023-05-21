@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdQvOLqzNHSW.md) - [plain]
 
 > slow burners for late nights
 
-[Spotify](https://open.spotify.com/user/spotify) - 924,034 likes - 100 songs - 6 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 924,147 likes - 100 songs - 6 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -95,18 +95,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdQvOLqzNHSW.md) - [plain]
 | 85 | [Halo \- 2006 Remaster](https://open.spotify.com/track/2XVGfOXvRWy5QP2xPGXvZj) | [Depeche Mode](https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX) | [Violator \(2006 Remaster\)](https://open.spotify.com/album/5g3Yi15plTSMaq6tYiuw8p) | 4:28 |
 | 86 | [You're Too Precious](https://open.spotify.com/track/5teYCP3pROESCEaASCVf5w) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [You're Too Precious](https://open.spotify.com/album/0hs2pdNq5QXYWsEcAFVO9q) | 3:43 |
 | 87 | [Without You](https://open.spotify.com/track/32CFVYfYT4wE1MTNWj66Rt) | [Lapalux](https://open.spotify.com/artist/46Ce0QmI1mE2bl5VQ4P9N8), [Kerry Leatham](https://open.spotify.com/artist/43xkjQKO2s2G5uXoxW1kHc) | [Nostalchic](https://open.spotify.com/album/7ulpsKEswNymVbOvsyK0yV) | 5:26 |
-| 88 | [Lumbago](https://open.spotify.com/track/0DIgltOMdzrEWAMoe7ayZ6) | [Yeek](https://open.spotify.com/artist/5BhFZpE8kUGZJiKOsYjLQM) | [Valencia](https://open.spotify.com/album/3VQysw3feitddUUw8Y7uAk) | 2:08 |
-| 89 | [Why \(Spare Me Tears\)](https://open.spotify.com/track/6IGHR5Ei4cFvcxwg22PAKB) | [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL) | [Why \(Spare Me Tears\)](https://open.spotify.com/album/2ZvAaqvOosY2dLtq35C8NM) | 3:25 |
-| 90 | [Spider](https://open.spotify.com/track/5K2Pxa2zSpIk2ROgRa9jUc) | [Kai Bosch](https://open.spotify.com/artist/6NvsbUgzHkjZK3ZUEWui41) | [Spider](https://open.spotify.com/album/4w42UNeqts8JN3uSW6O2A9) | 4:01 |
-| 91 | [Just Gonna Exist](https://open.spotify.com/track/2f8bsBeF4Yk14cWPS9pZ3S) | [Mindchatter](https://open.spotify.com/artist/1He0ZKninbT4FMEV9hUZKn) | [Just Gonna Exist](https://open.spotify.com/album/4jEFulLJmErkVTpTJoq0iU) | 2:54 |
-| 92 | [Meet the Frownies](https://open.spotify.com/track/3DZfp14PTnqbFToBnCztfW) | [Mr Twin Sister](https://open.spotify.com/artist/5ltJZgIW3OkY5WvuzX5MYz) | [Meet the Frownies](https://open.spotify.com/album/5MklZDFSt57gbbaPv0kO6S) | 4:00 |
+| 88 | [Why \(Spare Me Tears\)](https://open.spotify.com/track/6IGHR5Ei4cFvcxwg22PAKB) | [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL) | [Why \(Spare Me Tears\)](https://open.spotify.com/album/2ZvAaqvOosY2dLtq35C8NM) | 3:25 |
+| 89 | [Just Gonna Exist](https://open.spotify.com/track/2f8bsBeF4Yk14cWPS9pZ3S) | [Mindchatter](https://open.spotify.com/artist/1He0ZKninbT4FMEV9hUZKn) | [Just Gonna Exist](https://open.spotify.com/album/4jEFulLJmErkVTpTJoq0iU) | 2:54 |
+| 90 | [Meet the Frownies](https://open.spotify.com/track/3DZfp14PTnqbFToBnCztfW) | [Mr Twin Sister](https://open.spotify.com/artist/5ltJZgIW3OkY5WvuzX5MYz) | [Meet the Frownies](https://open.spotify.com/album/5MklZDFSt57gbbaPv0kO6S) | 4:00 |
+| 91 | [Lumbago](https://open.spotify.com/track/0DIgltOMdzrEWAMoe7ayZ6) | [Yeek](https://open.spotify.com/artist/5BhFZpE8kUGZJiKOsYjLQM) | [Valencia](https://open.spotify.com/album/3VQysw3feitddUUw8Y7uAk) | 2:08 |
+| 92 | [Spider](https://open.spotify.com/track/5K2Pxa2zSpIk2ROgRa9jUc) | [Kai Bosch](https://open.spotify.com/artist/6NvsbUgzHkjZK3ZUEWui41) | [Spider](https://open.spotify.com/album/4w42UNeqts8JN3uSW6O2A9) | 4:01 |
 | 93 | [Lonely Shade of Blue](https://open.spotify.com/track/5rTjMOVDiXDxkJavr2GxEL) | [Nick Leng](https://open.spotify.com/artist/2fR4D8OveDTHMvCvm7paAO) | [LEMONS](https://open.spotify.com/album/0w8tZm3PdLB8CZcVCkN8rX) | 4:22 |
 | 94 | [Nomad](https://open.spotify.com/track/68wrmZ8GgYlidAhERxI0Bz) | [Σtella](https://open.spotify.com/artist/2tBWWgGv7H5ymPtJrT1rNu), [Redinho](https://open.spotify.com/artist/72WcKL1SYgNzcNojYLFQsB) | [Up and Away](https://open.spotify.com/album/4i2Cb9v7g9ieShCgf1gakk) | 3:44 |
 | 95 | [Our Love](https://open.spotify.com/track/2WCCyU7CazujWXYOqNjsLW) | [Sharon Van Etten](https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe) | [Are We There](https://open.spotify.com/album/6EQWzHbd3EYO8J4EAIJst4) | 3:52 |
 | 96 | [MUTUAL](https://open.spotify.com/track/34dEWnWlThEqkHiASAy0ks) | [Flozigg](https://open.spotify.com/artist/0pTI6gG0UHQjylvV6mPuHv) | [Beige](https://open.spotify.com/album/1rqc8pT4NhDpx1ikfeadCW) | 2:49 |
 | 97 | [Aquarium](https://open.spotify.com/track/4ZOv9mx6Lz7RRaBFi5UNaE) | [Nosaj Thing](https://open.spotify.com/artist/0IVapwlnM3dEOiMsHXsghT) | [Views/Octopus EP](https://open.spotify.com/album/3L4wUhGelZ8wyJ13O1jerU) | 3:04 |
-| 98 | [Bad Habit](https://open.spotify.com/track/6gRdiHPSPWUfzqlY3AIxcO) | [LUCIUS ARTHUR](https://open.spotify.com/artist/67vICzj4HQ8LayBYXqF5YD) | [A Violent Dichotomy](https://open.spotify.com/album/5kKivJoHCGybHPa0HZRqQt) | 4:15 |
-| 99 | [Future Lover](https://open.spotify.com/track/3kedYiw0PflZpyQcDzBLKK) | [Thee Sacred Souls](https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU) | [Thee Sacred Souls](https://open.spotify.com/album/6ofJrAZaaX0iWTXYXObUxE) | 3:31 |
-| 100 | [Fire](https://open.spotify.com/track/2lBEWXP11gpEySIXgA5ALH) | [Waxahatchee](https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF) | [Saint Cloud](https://open.spotify.com/album/4V1EQ7wQZUoiPjMY0WtY3M) | 3:37 |
+| 98 | [Future Lover](https://open.spotify.com/track/3kedYiw0PflZpyQcDzBLKK) | [Thee Sacred Souls](https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU) | [Thee Sacred Souls](https://open.spotify.com/album/6ofJrAZaaX0iWTXYXObUxE) | 3:31 |
+| 99 | [Fire](https://open.spotify.com/track/2lBEWXP11gpEySIXgA5ALH) | [Waxahatchee](https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF) | [Saint Cloud](https://open.spotify.com/album/4V1EQ7wQZUoiPjMY0WtY3M) | 3:37 |
+| 100 | [\(No One Knows Me\) Like the Piano](https://open.spotify.com/track/3D1VUmjj0IlhdHqGConc7C) | [Sampha](https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm) | [Process](https://open.spotify.com/album/4fRcYn1zNOHY5LJXuRmJHI) | 3:38 |
 
-Snapshot ID: `MCw4ZDMzYmQ3NjY3Mjc1MjEzOWU1Njg3ODQ4ODIxYjk2ZmU4NzU2ZGRl`
+Snapshot ID: `MCwxNmY4NDNmMGMwZDQyNjU4YzQ5YmMwNWE0MGFmNjc5Mjg0ZjQ1YjQ5`

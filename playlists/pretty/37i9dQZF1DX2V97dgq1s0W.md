@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2V97dgq1s0W.md) - [plain]
 
 > Beautifully chilled vocals from around the world\. Cover: Elmiene
 
-[Spotify](https://open.spotify.com/user/spotify) - 139,337 likes - 70 songs - 3 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 139,489 likes - 70 songs - 3 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2V97dgq1s0W.md) - [plain]
 | 69 | [S\(EX\)](https://open.spotify.com/track/3UlUWPeAP2SBSKzgdKBcFd) | [Maeta](https://open.spotify.com/artist/2EwyKG76iX4Pp5HhAD6SKO) | [S\(EX\)](https://open.spotify.com/album/6QdrzKSQYYdgWBTzPkzE6b) | 3:45 |
 | 70 | [Villain](https://open.spotify.com/track/3n4qXxdaubi3pQaMYRWK9S) | [Essii](https://open.spotify.com/artist/2TolczZeUz7fcmlANnFcMJ) | [Villain](https://open.spotify.com/album/6J1aRRFw6FyBV071gYsvqk) | 2:26 |
 
-Snapshot ID: `MCwwMDdmMjlkMzI5NmYxN2JkYzUzNWFmNTgzNWY3MTQ1MjM5MDQ3YmZi`
+Snapshot ID: `MCxhMWYwYzlhODVhYWExMzY2YTcwNDk4ZWFmNzdkOWQ1MDIxYzcwYzk5`

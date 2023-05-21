@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 
 > Os lançamentos dessa semana incluem Murillo Huff com Wesley Safadão, Israel & Rodolffo, Gabi Martins, Bad Bunny, Tiee com Grupo Menos É Mais, Veigh e muito mais!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,871,296 likes - 99 songs - 5 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,871,994 likes - 99 songs - 5 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 | 98 | [Otaku2](https://open.spotify.com/track/6qT8N7u2q0fZYcMNdcZS9e) | [Mc Maha](https://open.spotify.com/artist/2tz0dkPlnWB4NcHNIqWPgh), [DJ WS](https://open.spotify.com/artist/0aLAHH17o5HqBboWoMuOjq), [Kinechan](https://open.spotify.com/artist/6av4qugr2BXsFc4BDGUzPF) | [Otaku2](https://open.spotify.com/album/3esUKDCCsgBtTC56lr4uSW) | 2:18 |
 | 99 | [Equivocada](https://open.spotify.com/track/0NW5fCDPKbjAnqlBZkSQr9) | [Nando Moreno](https://open.spotify.com/artist/5Ej65Fc57FkxAlzXPZ2Z8t) | [Equivocada](https://open.spotify.com/album/3ojX48M90gkHA3CFyv28MY) | 2:45 |
 
-Snapshot ID: `MCxjN2FhOWJlMzRiMDY4ZGFkZmNhOWUyMDllZjE1Y2U4MTJhMDllOGE3`
+Snapshot ID: `MCwwMGM4ZjQ4ZmNjNTY0MmVkNWNkZGYzMmFmZWZhZWU1MGE5NzExNmUw`

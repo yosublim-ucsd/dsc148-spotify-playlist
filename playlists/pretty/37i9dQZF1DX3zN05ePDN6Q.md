@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3zN05ePDN6Q.md) - [plain]
 
 > Tem rap nacional tem boom bap na área\. Foto: NP Vocal, DaHype
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,817 likes - 75 songs - 4 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,832 likes - 75 songs - 4 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Deixa Baixo](https://open.spotify.com/track/2Vo6Qal0SmLAR48FehTkRv) | [NP Vocal](https://open.spotify.com/artist/2mCaOwbPetRnHmVUwnCTMU), [Altamira](https://open.spotify.com/artist/12xPPAGu03vdZR3AmWNIxZ), [DaHype](https://open.spotify.com/artist/1Vqrbqh0krEgbroMuqp4aM) | [Deixa Baixo](https://open.spotify.com/album/2XQeYibbFQekoQxmw1lvU3) | 4:13 |
 | 2 | [Reduto das Ideias](https://open.spotify.com/track/1j4hrfXFmNhoBGssb2q4Fp) | [DJ Caique](https://open.spotify.com/artist/7kWVfszPF9qI8Ms6PMhNvM), [Nocivo Shomon](https://open.spotify.com/artist/7fVTW9oFlXKy9tzG15tcof) | [Reduto Das Ideias](https://open.spotify.com/album/1xto1QLGb3T2cmqHxgRMec) | 3:18 |
-| 3 | [Mundo Moda](https://open.spotify.com/track/1jhPDaI18DDzlH1ccZs4nv) | [ADL](https://open.spotify.com/artist/6Ywb1no2hXLazjIs4LUiQD), [Dk 47](https://open.spotify.com/artist/7KO08sObbX1IHeiIR9b5NB), [Lord ADL](https://open.spotify.com/artist/7phpDFUX97M0DTGIcjXKRk) | [Mundo Moda](https://open.spotify.com/album/5ZdpI1JQi24J5n1DGbC0OM) | 3:50 |
+| 3 | [Mundo Moda](https://open.spotify.com/track/1jhPDaI18DDzlH1ccZs4nv) | [ADL](https://open.spotify.com/artist/6Ywb1no2hXLazjIs4LUiQD), [Dk 47](https://open.spotify.com/artist/7KO08sObbX1IHeiIR9b5NB) | [Mundo Moda](https://open.spotify.com/album/5ZdpI1JQi24J5n1DGbC0OM) | 3:50 |
 | 4 | [Melhor Que Ontem](https://open.spotify.com/track/5C1X9UxsnagxubGSrZ1zMH) | [Dow Raiz](https://open.spotify.com/artist/73rvzBoed3qMm7yNNBtWfu), [Lino Krizz](https://open.spotify.com/artist/6vA4znwvrwhCSYfcrkC2Hg) | [Melhor Que Ontem](https://open.spotify.com/album/3z75GAmcVXisxqwnQod4EM) | 3:19 |
 | 5 | [Sem Serifa](https://open.spotify.com/track/3RJ705rFIqUook9nitZCm4) | [Jota Ghetto](https://open.spotify.com/artist/37HzB0soiShqHGooeDTEQ4), [Kamau](https://open.spotify.com/artist/2oB7m9exCPwJ8jwDgKWjho), [Miss Fya](https://open.spotify.com/artist/6onTY4vMOYNfudPL1OueWH) | [Sem Serifa](https://open.spotify.com/album/0OGsEu2WUBDf0z9rcrLSHA) | 4:26 |
 | 6 | [RAP SEM REFRÕES E PONTES.](https://open.spotify.com/track/5xob75Xb0r3GEKzMsf5dAT) | [Marcão Baixada](https://open.spotify.com/artist/02Xp0I7fq1yPQa9980WCYJ), [G.a.B.o](https://open.spotify.com/artist/1tbm8dDyvUKWMZPikJM7UR), [Rodrigo Caê](https://open.spotify.com/artist/0IuY12imLkK82oKe1s9ekf) | [REPERTÓRIO.](https://open.spotify.com/album/3kF0Am6MvnT8ciueXNJBlw) | 2:13 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3zN05ePDN6Q.md) - [plain]
 | 74 | [Carta pra Lucas](https://open.spotify.com/track/0FiYM9wfGccAJn8z4S5hxB) | [Major RD](https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5), [Rock Danger](https://open.spotify.com/artist/1mjuRRMumbLmGmHmYvMDcb), [El Lif Beatz](https://open.spotify.com/artist/0HBQtIkqXtoKagoPOgxK8k) | [Troféu](https://open.spotify.com/album/5M274S1cUS8suxN7aD4hvp) | 3:01 |
 | 75 | [Buenos Aires](https://open.spotify.com/track/0f8qfZHk9FKT3R7B3joJow) | [Dalsin](https://open.spotify.com/artist/6W2jVpE55n1wT0SrpxoeFk), [Joe Sujera](https://open.spotify.com/artist/1l1aoY37uXAYtAZ7WESb5E), [Thiago Ticana](https://open.spotify.com/artist/6uSOJ1HLY5IS55ZHeArSIs), [Kadow](https://open.spotify.com/artist/393VRrXwPo9GrGgJd6FeWx) | [Buenos Aires](https://open.spotify.com/album/10UeldDAt6YQ5E1KZgLN6k) | 3:03 |
 
-Snapshot ID: `MCw0OGQ1NWQxMjlkZDU4YmJmMjFmNDZlMzJiMTk3NzQ1OTNkOTFlYTM0`
+Snapshot ID: `MCxmNTQxZjAwYzI3NjhjNGIwNTUxNzM1ZDJiNmM4Mjc0MmY4NDUwN2U2`

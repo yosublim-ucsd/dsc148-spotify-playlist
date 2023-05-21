@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5WTH49Vcnqp.md) - [plain]
 
 > Music that's hard to define but easy to love Cover: G Flip
 
-[Spotify](https://open.spotify.com/user/spotify) - 563,847 likes - 80 songs - 4 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 563,856 likes - 80 songs - 4 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5WTH49Vcnqp.md) - [plain]
 | 79 | [Lost In The Rush](https://open.spotify.com/track/4YGMBDcyxKCg6ucyeYEhOI) | [Telenova](https://open.spotify.com/artist/5UlJRJmlRLhQJX8lJuerVq) | [Lost In The Rush](https://open.spotify.com/album/7oX1RWPTy3nblMNvPgqutb) | 3:28 |
 | 80 | [Valentina](https://open.spotify.com/track/0s7Z1RtnsmiYOfSIbB3btD) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [Valentina](https://open.spotify.com/album/3Fqjb0gzWbJglEdf4HX5uw) | 2:34 |
 
-Snapshot ID: `MCwzZTRlOTdjNWQxNDMwMzBlZWE2N2M2MDBiNzhmYzAyZjA0NjQzNjBk`
+Snapshot ID: `MCxiZTdjOTA0OTU2NTVhNGUzMThlY2ViZmZlYTA1MTMwNTk3ZmZmYTdj`

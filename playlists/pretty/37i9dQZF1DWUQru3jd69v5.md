@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQru3jd69v5.md) - [plain]
 
 > La nuova generazione del rap italiano\. Aggiornata ogni venerdì\. Tony Boy in cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 220,023 likes - 51 songs - 2 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 220,037 likes - 51 songs - 2 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQru3jd69v5.md) - [plain]
 | 50 | [Sticky](https://open.spotify.com/track/7C8aQRQbqxSkNUBaCkh167) | [Plug](https://open.spotify.com/artist/0PWa13NHPcTgfyBlIkjjBx) | [Cristallo](https://open.spotify.com/album/6lXeYd6EcEay3YVsYGHC3s) | 2:47 |
 | 51 | [TOXIC](https://open.spotify.com/track/1iqptdxYyCRi0Gwik6sH9L) | [Zyrtck](https://open.spotify.com/artist/4kzy5r1zhu4jC0LhQ15nti), [Mothz](https://open.spotify.com/artist/5lrXmCL7NuAEVJDfhIJtsu) | [EMOTIONAL DAMAGE](https://open.spotify.com/album/0KogfLFbZ5o4DackervXzB) | 2:49 |
 
-Snapshot ID: `MCxmMWZiYjExMmRiNGUwNTVmZWFmZjhhNzRmYTA2ZmUxNWQ3NWI2NDI5`
+Snapshot ID: `MCw3MWFmZTgwOTRjOGNlM2M4MTQ5ZWM3YmRiZmMzN2YyNTEwZmQ2ODI2`

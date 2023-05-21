@@ -4,7 +4,7 @@
 
 > Rock out while you work out! Follow for updates!
 
-212 songs - 13 hr 31 min
+214 songs - 13 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,6 +23,7 @@
 | [American Sun](https://open.spotify.com/track/3D19d5EYdkY71Y4eZiTZWR) | [Fire From The Gods](https://open.spotify.com/artist/6yeRY2d7gubXoymv3DAYhS) | [American Sun](https://open.spotify.com/album/0CCifzFS5hhc0DS5kZKcPr) | 3:38 | 2021-08-20 |  |
 | [Animal I Have Become](https://open.spotify.com/track/56sk7jBpZV0CD31G9hEU3b) | [Three Days Grace](https://open.spotify.com/artist/2xiIXseIJcq3nG7C8fHeBj) | [One\-X](https://open.spotify.com/album/4ZDwEvXIKxWdwhAQK8ndBU) | 3:51 | 2022-01-24 |  |
 | [Anti\-Everything](https://open.spotify.com/track/2JKNnH7OFhyPNLF90PoEDB) | [DED](https://open.spotify.com/artist/312CXoyqdQ0p6ZJ67NJoVa) | [Mis\-An\-Thrope](https://open.spotify.com/album/6h7D8BubMPDllyAla1jJQ1) | 3:14 | 2022-01-24 |  |
+| [Armageddon](https://open.spotify.com/track/2vGdoV7Cp8HcLTtFVaXkOw) | [From Ashes to New](https://open.spotify.com/artist/4HrkLxQHZ5mgCtIVpiH5QX) | [Armageddon](https://open.spotify.com/album/2upzE8LFUkusltO5v5SeTV) | 3:33 | 2023-05-19 |  |
 | [Around The Sun \(feat\. Brandon Saller of Atreyu\)](https://open.spotify.com/track/5N9yzJL4LpVgnFoUwuagrf) | [Escape the Fate](https://open.spotify.com/artist/5ojhEavq6altxW8fWIlLum), [Atreyu](https://open.spotify.com/artist/3LkSiHbjqOHCKCqBfEZOTv) | [Chemical Warfare: B\-Sides](https://open.spotify.com/album/1PxVdOGI6SoPDuHmKNLELy) | 2:34 | 2021-09-11 | 2023-01-04 |
 | [Bat Country](https://open.spotify.com/track/3sHH7lklbfpcraDDvYnjo7) | [Avenged Sevenfold](https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs) | [City of Evil](https://open.spotify.com/album/55tK4Ab7XHTOKkw0xDz3AA) | 5:11 | 2023-05-17 |  |
 | [BEST TIMES \(feat\. Lacey Sturm\)](https://open.spotify.com/track/1jZosfYphLClzldEiQdRde) | [NOTHING MORE](https://open.spotify.com/artist/39VNwvlQTqE9SvgPjjnMpc), [Lacey Sturm](https://open.spotify.com/artist/09LCTrVGnMsGbxexUFJoap) | [BEST TIMES \(feat\. Lacey Sturm\)](https://open.spotify.com/album/2mdLMyyP9Qia1BPS7HaafD) | 3:43 | 2023-04-03 |  |
@@ -147,6 +148,7 @@
 | [Redneck](https://open.spotify.com/track/04EtBLFIxbcVt9NdYgcrpF) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [Sacrament](https://open.spotify.com/album/1cikCss5SRQLrIAmpyHoVw) | 3:40 | 2022-01-24 | 2023-01-04 |
 | [Right Now](https://open.spotify.com/track/1mQaehT2IA8PAb6drI1RNB) | [Fire From The Gods](https://open.spotify.com/artist/6yeRY2d7gubXoymv3DAYhS) | [Right Now](https://open.spotify.com/album/0CTiiacS0NVOYgQnHLRPGa) | 3:45 | 2021-08-20 |  |
 | [Roadkill](https://open.spotify.com/track/28QEJ42cRjtEr5x9Pa2KxU) | [Tech N9ne](https://open.spotify.com/artist/6UBA15slIuadJ8h2lPRPos), [Excision](https://open.spotify.com/artist/5FKchcZpQOkqFvXBj1aCvb) | [Special Effects](https://open.spotify.com/album/63uxYglJtSneGlHf5MKWfl) | 2:56 | 2022-07-25 | 2023-01-04 |
+| [Roses](https://open.spotify.com/track/3q3faMChxzP9nSgVt7TUs8) | [TEMPT](https://open.spotify.com/artist/54QtmkdXUQlaV9CsvT8TNk) | [Roses](https://open.spotify.com/album/1lc7xhA7TwSwxO7TLoJqRP) | 3:21 | 2023-05-19 |  |
 | [Rusty Cage](https://open.spotify.com/track/2s53BFN2aKtiBA93tRQtGj) | [Soundgarden](https://open.spotify.com/artist/5xUf6j4upBrXZPg6AI4MRK) | [Badmotorfinger](https://open.spotify.com/album/6xcVSvwLab2mjHMth1Aomp) | 4:25 | 2021-08-20 | 2023-01-05 |
 | [Sacred Kiss \(feat\. Aaron Pauley of Of Mice and Men\)](https://open.spotify.com/track/5xAF7Mi6dew7boYkaElcTy) | [Bad Wolves](https://open.spotify.com/artist/0eI3X5rAzHRZVe5FPk4MN1), [Of Mice & Men](https://open.spotify.com/artist/4tususHNaR68xdgLstlGBA) | [Sacred Kiss EP](https://open.spotify.com/album/7hiE8DIopGqBtn3YgYG4BK) | 4:04 | 2023-01-04 |  |
 | [Sad But True](https://open.spotify.com/track/48iUr7K2jRxpNIDcSftKZY) | [The HU](https://open.spotify.com/artist/0b2B3PwcYzQAhuJacmcYgc) | [Sad But True](https://open.spotify.com/album/6UjB1VbxPSKasTeHkAE5mV) | 5:32 | 2021-08-20 | 2023-01-04 |

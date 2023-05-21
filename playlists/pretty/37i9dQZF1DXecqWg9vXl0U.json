@@ -1,12 +1,12 @@
 {
   "description": "como en una nube. Bedroom pop vibes featuring Valgur.",
-  "num_followers": 44043,
+  "num_followers": 44086,
   "original_name": "\u2728 dreamy \u2728",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2NTNkNmNmNWY3ZmUyZjA3Yzc3NjU2YmEwMWNjM2Q1ZGVmNTYxY2Qy",
+  "snapshot_id": "MCxiZTUxMGYyY2NmMzY1OWExMWIxNGI4NTliNjU3YWIwZmQyZTIyOWNi",
   "tracks": [
     {
       "added_at": "2023-05-19 06:00:00",
@@ -603,22 +603,6 @@
     {
       "added_at": "2023-05-19 06:00:00",
       "album": {
-        "name": "Cielo",
-        "url": "https://open.spotify.com/album/7swaqGSBmLxQ2ebm1CUs6K"
-      },
-      "artists": [
-        {
-          "name": "Roy Borland",
-          "url": "https://open.spotify.com/artist/5Vr2AKX7BHkLTslxmuSMF7"
-        }
-      ],
-      "duration_ms": 169919,
-      "name": "Cielo",
-      "url": "https://open.spotify.com/track/24s5zi3ZFqtahbQTXCvG4k"
-    },
-    {
-      "added_at": "2023-05-19 06:00:00",
-      "album": {
         "name": "Pens\u00e1ndote",
         "url": "https://open.spotify.com/album/6wygbshVymM5s9O72bQoXv"
       },
@@ -635,38 +619,18 @@
     {
       "added_at": "2023-05-19 06:00:00",
       "album": {
-        "name": "D\u00f3nde Se Fue",
-        "url": "https://open.spotify.com/album/5hyqHil6N94D39opduIeCB"
+        "name": "Cielo",
+        "url": "https://open.spotify.com/album/7swaqGSBmLxQ2ebm1CUs6K"
       },
       "artists": [
         {
-          "name": "Mike Soto",
-          "url": "https://open.spotify.com/artist/0QuTRSu03o1Z4rmnyme9YV"
-        },
-        {
-          "name": "Exale",
-          "url": "https://open.spotify.com/artist/476zvM4wDdcOOrDWKP9Wu7"
+          "name": "Roy Borland",
+          "url": "https://open.spotify.com/artist/5Vr2AKX7BHkLTslxmuSMF7"
         }
       ],
-      "duration_ms": 166367,
-      "name": "D\u00f3nde Se Fue",
-      "url": "https://open.spotify.com/track/32ACpno0pKll8JsMywSpsG"
-    },
-    {
-      "added_at": "2023-05-19 06:00:00",
-      "album": {
-        "name": "Muchas Cosas",
-        "url": "https://open.spotify.com/album/5NFXi4eXZPVT8eP0o1dxdT"
-      },
-      "artists": [
-        {
-          "name": "Natalia Lacunza",
-          "url": "https://open.spotify.com/artist/3Zs59sqZJ6fWQqWbRC8bOP"
-        }
-      ],
-      "duration_ms": 152133,
-      "name": "Muchas Cosas",
-      "url": "https://open.spotify.com/track/5fLlj9hOTOQ7kMjLn6Fk1R"
+      "duration_ms": 169919,
+      "name": "Cielo",
+      "url": "https://open.spotify.com/track/24s5zi3ZFqtahbQTXCvG4k"
     },
     {
       "added_at": "2023-05-19 06:00:00",
@@ -687,6 +651,42 @@
       "duration_ms": 208723,
       "name": "Instintos",
       "url": "https://open.spotify.com/track/4j8t4hyR1Q9SO3oQlgoam6"
+    },
+    {
+      "added_at": "2023-05-19 06:00:00",
+      "album": {
+        "name": "Muchas Cosas",
+        "url": "https://open.spotify.com/album/5NFXi4eXZPVT8eP0o1dxdT"
+      },
+      "artists": [
+        {
+          "name": "Natalia Lacunza",
+          "url": "https://open.spotify.com/artist/3Zs59sqZJ6fWQqWbRC8bOP"
+        }
+      ],
+      "duration_ms": 152133,
+      "name": "Muchas Cosas",
+      "url": "https://open.spotify.com/track/5fLlj9hOTOQ7kMjLn6Fk1R"
+    },
+    {
+      "added_at": "2023-05-19 06:00:00",
+      "album": {
+        "name": "D\u00f3nde Se Fue",
+        "url": "https://open.spotify.com/album/5hyqHil6N94D39opduIeCB"
+      },
+      "artists": [
+        {
+          "name": "Mike Soto",
+          "url": "https://open.spotify.com/artist/0QuTRSu03o1Z4rmnyme9YV"
+        },
+        {
+          "name": "Exale",
+          "url": "https://open.spotify.com/artist/476zvM4wDdcOOrDWKP9Wu7"
+        }
+      ],
+      "duration_ms": 166367,
+      "name": "D\u00f3nde Se Fue",
+      "url": "https://open.spotify.com/track/32ACpno0pKll8JsMywSpsG"
     },
     {
       "added_at": "2023-05-19 06:00:00",
@@ -995,6 +995,22 @@
     {
       "added_at": "2023-05-19 06:00:00",
       "album": {
+        "name": "Especial",
+        "url": "https://open.spotify.com/album/6jTRjT19UMchfrkupOwJ8c"
+      },
+      "artists": [
+        {
+          "name": "sailawway",
+          "url": "https://open.spotify.com/artist/7tg2hHygz0gM2dq5PrNH2q"
+        }
+      ],
+      "duration_ms": 242813,
+      "name": "Especial",
+      "url": "https://open.spotify.com/track/01NQwSOqajbHOhRRnHPUWH"
+    },
+    {
+      "added_at": "2023-05-19 06:00:00",
+      "album": {
         "name": "GARZA",
         "url": "https://open.spotify.com/album/2eXBKS6GDiidtFKu10IFgJ"
       },
@@ -1023,22 +1039,6 @@
       "duration_ms": 201216,
       "name": "No Te Vayas Nunca",
       "url": "https://open.spotify.com/track/5FMfpa1gMxWPg3INPurOI4"
-    },
-    {
-      "added_at": "2023-05-19 06:00:00",
-      "album": {
-        "name": "Especial",
-        "url": "https://open.spotify.com/album/6jTRjT19UMchfrkupOwJ8c"
-      },
-      "artists": [
-        {
-          "name": "sailawway",
-          "url": "https://open.spotify.com/artist/7tg2hHygz0gM2dq5PrNH2q"
-        }
-      ],
-      "duration_ms": 242813,
-      "name": "Especial",
-      "url": "https://open.spotify.com/track/01NQwSOqajbHOhRRnHPUWH"
     },
     {
       "added_at": "2023-05-19 06:00:00",
@@ -1311,18 +1311,22 @@
     {
       "added_at": "2023-05-19 06:00:00",
       "album": {
-        "name": "Me Gustas Tanto",
-        "url": "https://open.spotify.com/album/6mLXxtHQXzFn7GPowncu1N"
+        "name": "deja de estudiar",
+        "url": "https://open.spotify.com/album/5F6c6rMQktJjbB1s06xZCI"
       },
       "artists": [
         {
-          "name": "KNYA",
-          "url": "https://open.spotify.com/artist/5OOwdQqnYQSdypLCSQ3Kvz"
+          "name": "Greta Ela",
+          "url": "https://open.spotify.com/artist/5c8L3nGznkMGwbmyMKVIl8"
+        },
+        {
+          "name": "Palmasur",
+          "url": "https://open.spotify.com/artist/3H1jLGJzOPn3WbEv6fvJ3M"
         }
       ],
-      "duration_ms": 182406,
-      "name": "Me Gustas Tanto",
-      "url": "https://open.spotify.com/track/7fMshHtynGehLu7eVQj1hO"
+      "duration_ms": 157824,
+      "name": "deja de estudiar",
+      "url": "https://open.spotify.com/track/5s4fyhzcUH7BJvONjNap6B"
     }
   ],
   "unique_name": "\u2728 dreamy \u2728",

@@ -77,6 +77,24 @@
     },
     {
       "album": {
+        "name": "Blue Side",
+        "url": "https://open.spotify.com/album/1PwHmb34vUnPLJp3vSLKed"
+      },
+      "artists": [
+        {
+          "name": "j-hope",
+          "url": "https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy"
+        }
+      ],
+      "date_added": "2023-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198600,
+      "name": "Blue Side",
+      "url": "https://open.spotify.com/track/1nwdfbj4UyRMpa9L98a4Yi"
+    },
+    {
+      "album": {
         "name": "Hope World",
         "url": "https://open.spotify.com/album/0XX1044L7ovU5aon6nRiF7"
       },
@@ -168,6 +186,28 @@
       "duration_ms": 204930,
       "name": "Hope World",
       "url": "https://open.spotify.com/track/5UMPPsXaGbR1qtzcnEtTpM"
+    },
+    {
+      "album": {
+        "name": "D-DAY",
+        "url": "https://open.spotify.com/album/446ROKmKfpEwkbi2SjELVX"
+      },
+      "artists": [
+        {
+          "name": "Agust D",
+          "url": "https://open.spotify.com/artist/5RmQ8k4l3HZ8JoPb4mNsML"
+        },
+        {
+          "name": "j-hope",
+          "url": "https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy"
+        }
+      ],
+      "date_added": "2023-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183290,
+      "name": "HUH?! (feat. j-hope)",
+      "url": "https://open.spotify.com/track/6XrPzwKeGzEvtan3acn7VH"
     },
     {
       "album": {

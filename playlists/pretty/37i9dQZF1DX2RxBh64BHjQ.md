@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2RxBh64BHjQ.md) - [plain]
 
 > The official voice of the next generation\. Cover: <a href="spotify:artist:57n1OF36WvtOeATY6WQ6iw">Digga D</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,768,138 likes - 99 songs - 4 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,768,228 likes - 99 songs - 4 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2RxBh64BHjQ.md) - [plain]
 | 98 | [Up 2 U](https://open.spotify.com/track/3qNSaMXqJxfcvHDw4aSZ0Y) | [Rucci](https://open.spotify.com/artist/7q836WTO8OHUS85E2RyxxA), [Bankroll Got It](https://open.spotify.com/artist/42H2ObFiITAP87vskCGIh5), [Kalan.FrFr](https://open.spotify.com/artist/47TMF0JlFsz01KilGzc5Ly) | [Notorious](https://open.spotify.com/album/2jFfZQtfv4KzEhIfb2sewo) | 2:45 |
 | 99 | [Mean B\*tch](https://open.spotify.com/track/4DdSyO7nkxCNlYq9trzJAP) | [KenTheMan](https://open.spotify.com/artist/6o4O5GX5kOWAGXtZUedxo3) | [Mean B\*tch](https://open.spotify.com/album/3brZqded9BBCMN3UjALyPO) | 2:43 |
 
-Snapshot ID: `MCwyMmIwZTMwYjIzNmNhNTMxOTEwNDlkYjg4MmM4Zjg5MjY4ZDNmY2M5`
+Snapshot ID: `MCwzYmU0ZTllYjUyNThjNzZjYmMwYjA3YjJiZTYzOTg2ZGUwYmNlN2Fk`

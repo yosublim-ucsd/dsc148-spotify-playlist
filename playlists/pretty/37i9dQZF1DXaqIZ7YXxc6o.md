@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaqIZ7YXxc6o.md) - [plain]
 
 > Future Dance hits\. Cover: Kinder
 
-[Spotify](https://open.spotify.com/user/spotify) - 133,703 likes - 103 songs - 5 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 133,712 likes - 103 songs - 5 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaqIZ7YXxc6o.md) - [plain]
 | 6 | [Badman](https://open.spotify.com/track/0niGISINRsw8x9XgGgk6lE) | [Thomas Newson](https://open.spotify.com/artist/66MrdPDHTjnnMOTBmC81q5), [Ben Miller](https://open.spotify.com/artist/5FP6tGL9Y1HspSXjgtzJZd) | [Badman](https://open.spotify.com/album/5ZPwLhXzPeTG8Iu72LSAVr) | 3:36 |
 | 7 | [TROMPA](https://open.spotify.com/track/1h2igaPPB08Gwe4WZynsei) | [Sofi Tukker](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q), [Sunnery James & Ryan Marciano](https://open.spotify.com/artist/7kABWMhjA5GIl9PBEasBPt) | [TROMPA](https://open.spotify.com/album/6FIVgqW8RuPIqUrQtFfTkV) | 2:43 |
 | 8 | [Dancing Shoes \(Take Me Higher\)](https://open.spotify.com/track/4RAgh3iVmXwaeNpnOTkoXU) | [LF SYSTEM](https://open.spotify.com/artist/0HxX6imltnNXJyQhu4nsiO) | [Dancing Shoes \(Take Me Higher\)](https://open.spotify.com/album/4HlaHUFAikPsEE3VvWIyyK) | 2:34 |
-| 9 | [Pub Marge \- Original Mix](https://open.spotify.com/track/140EwvWqRdWL3CO3Kt7W4l) | [Cut Snake](https://open.spotify.com/artist/5z7jsdhxqvsOxzZxfVF236) | [Pub Marge EP](https://open.spotify.com/album/5wyl0e0xiszpoYxxI2faQG) | 4:50 |
+| 9 | [Pub Marge](https://open.spotify.com/track/140EwvWqRdWL3CO3Kt7W4l) | [Cut Snake](https://open.spotify.com/artist/5z7jsdhxqvsOxzZxfVF236) | [Pub Marge EP](https://open.spotify.com/album/5wyl0e0xiszpoYxxI2faQG) | 4:50 |
 | 10 | [Dance Around It](https://open.spotify.com/track/4ThxV3T887uIHatv3QPMhO) | [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp), [Caity Baser](https://open.spotify.com/artist/7dJCdUO0l0K2WXzrzjYpmC) | [Dance Around It](https://open.spotify.com/album/6vxZwJ7nz8OQ8UbEI4maOt) | 2:24 |
 | 11 | [Cold Touch](https://open.spotify.com/track/7mGSXZwI5LlTqGARZH7JiM) | [Kito](https://open.spotify.com/artist/3FLUBwpAnaIlIKeaBfsxFe), [GrimesAI](https://open.spotify.com/artist/7qiNgbnabvfRbA9lomTgEk) | [Cold Touch](https://open.spotify.com/album/2Y01Vf7C32AQw4ki2moXGj) | 2:10 |
 | 12 | [Crashing](https://open.spotify.com/track/18G8jUP2uoOfUG2fspXF3a) | [Godlands](https://open.spotify.com/artist/2BW6zD5lzOxdEFWrgsHMq8) | [Crashing](https://open.spotify.com/album/7fvqYjrOm2leglqnKmBtTC) | 3:56 |
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaqIZ7YXxc6o.md) - [plain]
 | 31 | [Get Flutey](https://open.spotify.com/track/1Ryer7rjuIJ8UztDyMVWLG) | [Surusinghe](https://open.spotify.com/artist/7m5jnraNhVbxMZ7B8FvCSe) | [Get Flutey](https://open.spotify.com/album/1NMNkeVHBhy7tSpBkmYWNy) | 3:54 |
 | 32 | [Free Your Mind](https://open.spotify.com/track/2zbGAT0zvvqOfKu9ICnBvJ) | [Eden Burns](https://open.spotify.com/artist/6lItMkb0pYOU1DvFUWgYo2) | [Free Your Mind](https://open.spotify.com/album/1FxNjgjCJAW1OkS6fSFfTY) | 5:07 |
 | 33 | [Sweat](https://open.spotify.com/track/5hbJxniiD9BWis6Nsf7HA8) | [KREAM](https://open.spotify.com/artist/0DdDnziut7wOo6cAYWVZC5) | [Sweat](https://open.spotify.com/album/4dRC0egvzhZSS1eJpVEBH7) | 2:39 |
-| 34 | [Hawt \- Willo Remix](https://open.spotify.com/track/0Tl1S36YzLkoL6NU410cap) | [TIBASKO](https://open.spotify.com/artist/6xq7g0E52yq4y8Op9X82Uo), [Willo](https://open.spotify.com/artist/7ssD6eT1Te3ugcd1noTNLA) | [Hawt \(Willo Remix\)](https://open.spotify.com/album/653TU1j0nyZAEibhG9xw2U) | 3:43 |
+| 34 | [Hawt \- Willo Remix](https://open.spotify.com/track/0Tl1S36YzLkoL6NU410cap) | [TIBASKO](https://open.spotify.com/artist/6xq7g0E52yq4y8Op9X82Uo), [Willo](https://open.spotify.com/artist/7ssD6eT1Te3ugcd1noTNLA) | [Hawt \(Willo Remix\)](https://open.spotify.com/album/653TU1j0nyZAEibhG9xw2U) | 3:45 |
 | 35 | [Drifting](https://open.spotify.com/track/5f2YXvn1yCgnYYY5FXuabQ) | [Pink Matter](https://open.spotify.com/artist/3akS61Yn88YZAfQyD0Z7x8) | [Drifting](https://open.spotify.com/album/56vTyAyZN4XezeujQOxaV9) | 3:02 |
 | 36 | [Great Southern Land](https://open.spotify.com/track/0EbjpQWNL0jFgepyWb9OKf) | [Cassian](https://open.spotify.com/artist/1ChtRJ3f4rbv4vtz87i6CD), [ICEHOUSE](https://open.spotify.com/artist/3IUisqn0mluZR0LITs8Sqk) | [Great Southern Land](https://open.spotify.com/album/26XLm5ta9PDZn7uVTdt1M6) | 4:15 |
 | 37 | [Your Mind Is Dirty](https://open.spotify.com/track/0Ykdq9BLJqxLmEGobCkaix) | [Mau P](https://open.spotify.com/artist/0w1sbtZVQoK6GzV4A4OkCv) | [Your Mind Is Dirty](https://open.spotify.com/album/2CAWKp11LNJGtt3ROH1XsR) | 3:18 |
@@ -112,4 +112,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaqIZ7YXxc6o.md) - [plain]
 | 102 | [Trippin Up \- Odd Mob Remix](https://open.spotify.com/track/6TcqzHCUDfotgdRVTjs3iW) | [The Jungle Giants](https://open.spotify.com/artist/6wFwvxJkurQPU2UdeD4qVt), [Odd Mob](https://open.spotify.com/artist/4qLwtWhlhyAoQ4S9mSrDW9) | [Trippin Up \(Odd Mob Remix\)](https://open.spotify.com/album/3ieCTkmW0GRKqojBVPimeY) | 3:17 |
 | 103 | [Heaven](https://open.spotify.com/track/4RoS83AH7BDxKxWS1wIFMR) | [Achilles](https://open.spotify.com/artist/1BgLi10FdtjQtMigV9Ddka), [DEADLINE](https://open.spotify.com/artist/2EkuI6mftAAZAREUymRJqi), [Jordan Grace](https://open.spotify.com/artist/0NST5cNxDtRZuToY6ngC0k) | [Heaven](https://open.spotify.com/album/00tYIqCD07mScta7VZDVNL) | 2:54 |
 
-Snapshot ID: `MCxmNTIxYjBjM2FiNDgyN2FiZDdlMTZjMWVhNzYzMDRmNTQwZmNkZmY3`
+Snapshot ID: `MCw0ZmEyZTljOTZiNDYxMDczNjFlMTk3MjM3OTdhMzcyNjAxZTkyMTg2`

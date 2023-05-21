@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSvKsRPPnv5o.md) - [plain]
 
 > Holdin' it down for the westside\. Cover: BlueBucksClan
 
-[Spotify](https://open.spotify.com/user/spotify) - 715,996 likes - 55 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 716,068 likes - 55 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSvKsRPPnv5o.md) - [plain]
 | 8 | [Stickz & Stonez](https://open.spotify.com/track/4fptYpDyXXNUPtwZ4u8r0R) | [Malcolm Mays](https://open.spotify.com/artist/1svyqzg4SYrPTGqPnpZf9y) | [Stickz & Stonez](https://open.spotify.com/album/2nDXO7UlMcjO51jAlyisu8) | 2:26 |
 | 9 | [Passionate \(feat\. Roddy Ricch\)](https://open.spotify.com/track/5k3xP19vac82Kweo4mOvlw) | [Blxst](https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL), [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB) | [Just For Clarity 2](https://open.spotify.com/album/4nw05bSkWU3oVxK5dBcSQE) | 2:50 |
 | 10 | [Wop It](https://open.spotify.com/track/6qiN1G9Q5CLzuWJUKnkLxo) | [Lil Vada](https://open.spotify.com/artist/61HlkUsczjBP7IODEMFtrB) | [Wop It](https://open.spotify.com/album/4H47Q3WFmOhGDAuPmciMZi) | 1:52 |
-| 11 | [Touchdown \(feat\. Mozzy\)](https://open.spotify.com/track/5IOgrMmzZqAVeKYG1vwm8M) | [Swifty Blue](https://open.spotify.com/artist/68CRxZTAqk19AznItZInip), [Goe Peshi](https://open.spotify.com/artist/6gcloZ6ueAD5NGTXpAHl7Z), [Mozzy](https://open.spotify.com/artist/4AA474G2hRfrHyGrfyDseO) | [One Three Pack](https://open.spotify.com/album/7pLelaEykl3gGLprwkRkMm) | 3:33 |
+| 11 | [Touchdown \(feat\. Mozzy\)](https://open.spotify.com/track/5IOgrMmzZqAVeKYG1vwm8M) | [Swifty Blue](https://open.spotify.com/artist/68CRxZTAqk19AznItZInip), [Joe Peshi](https://open.spotify.com/artist/6s010JcJfq8q4AI4XEeWWh), [Mozzy](https://open.spotify.com/artist/4AA474G2hRfrHyGrfyDseO) | [One Three Pack](https://open.spotify.com/album/7pLelaEykl3gGLprwkRkMm) | 3:33 |
 | 12 | [Underrated](https://open.spotify.com/track/7x68OKWmVySSU51vSqHR5x) | [Zoe Osama](https://open.spotify.com/artist/63FIRo90iuMjz2byQS6nmz) | [Underrated](https://open.spotify.com/album/4ENTdxCVdDwfNw2c9TVvUW) | 2:35 |
 | 13 | [Breeze](https://open.spotify.com/track/5OuV5iX0vt1nIIVtczjkJF) | [Yhung T.O.](https://open.spotify.com/artist/1Yss4ClgrS9sIprNlq5O3l), [03 Greedo](https://open.spotify.com/artist/0FtsMKmZEq8fBWqdSOWtqp) | [ON MY MOMMA 4](https://open.spotify.com/album/7GlD6t2WLwho9OBXK2h1Xd) | 2:34 |
 | 14 | [Cruisin In LA](https://open.spotify.com/track/1UV019623AbYfbqjiBMrCP) | [YeloHill](https://open.spotify.com/artist/0IgLirgKCxQb13uM8FuQpR), [Steelz](https://open.spotify.com/artist/0xG8uG9nzLyuwoVIPF0xiM) | [Cruisin In LA](https://open.spotify.com/album/5PXmTtfSFf2yrQ0VF7Doe2) | 2:42 |
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSvKsRPPnv5o.md) - [plain]
 | 54 | [Champagne Tears](https://open.spotify.com/track/68KMtOaV3uxUc639uTCoSw) | [Kamaiyah](https://open.spotify.com/artist/3XVpDdKav6C6zwlDXPhMEO) | [Champagne Tears](https://open.spotify.com/album/0KljOvQxT7RwZqJ8TdM9Py) | 2:12 |
 | 55 | [Need Love](https://open.spotify.com/track/1Pr1PSWRXycRomdCGCvUU3) | [EBK Young Joc](https://open.spotify.com/artist/4lPU30QB53QTUVhkjcb0WS) | [Need Love](https://open.spotify.com/album/7mcTO6enAPyVjPZgjzehKj) | 2:29 |
 
-Snapshot ID: `MCxlMjRlOWJkNjY4MTdiZjgxNDU5MzlmOTkyMTBmOGM4N2JhYmM4ODk2`
+Snapshot ID: `MCwyMmM3M2MxODg0Mzg3OWRiMjM3ZDcwMTU2ZjkzMTdlMjI3NGMxZjVj`

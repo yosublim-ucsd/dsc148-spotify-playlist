@@ -2440,7 +2440,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-21",
       "duration_ms": 200813,
       "name": "Avant Elle",
       "url": "https://open.spotify.com/track/5ECN3yzsBiExzh5VLabINw"
@@ -2958,6 +2958,28 @@
       "duration_ms": 217846,
       "name": "Bavard",
       "url": "https://open.spotify.com/track/6R3tleNvmMHJyHCDU5fxET"
+    },
+    {
+      "album": {
+        "name": "BBM",
+        "url": "https://open.spotify.com/album/5KUSAHvsFggDzuRk4uzvyZ"
+      },
+      "artists": [
+        {
+          "name": "Fresh",
+          "url": "https://open.spotify.com/artist/3W9AQyaIGdR8htZXVGwl1X"
+        },
+        {
+          "name": "Naza",
+          "url": "https://open.spotify.com/artist/7xNYY1Zkb1vks5m9ATlJok"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179164,
+      "name": "BBM",
+      "url": "https://open.spotify.com/track/7dMVHcxpbKHHLESDNvHtlf"
     },
     {
       "album": {
@@ -5210,7 +5232,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 140649,
-      "name": "Ce soir (j'suis dans ma t\u00eate)",
+      "name": "Ce soir - j'suis dans ma t\u00eate",
       "url": "https://open.spotify.com/track/154hu0b2iObjLxyKLHDC5O"
     },
     {
@@ -7366,7 +7388,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-21",
       "duration_ms": 155047,
       "name": "Dames",
       "url": "https://open.spotify.com/track/2CBNpnSiBJCvil3fsPZ3S7"
@@ -12310,6 +12332,24 @@
       "duration_ms": 168346,
       "name": "Glock (feat. Lacrim)",
       "url": "https://open.spotify.com/track/5bvR3QxO8z0WDcKxHNHuVk"
+    },
+    {
+      "album": {
+        "name": "Go",
+        "url": "https://open.spotify.com/album/7rO6wNrH5Q2tfGtaUdT4Ef"
+      },
+      "artists": [
+        {
+          "name": "Franglish",
+          "url": "https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179902,
+      "name": "Go",
+      "url": "https://open.spotify.com/track/5AtFjz8lwWRKdMePvihCsT"
     },
     {
       "album": {
@@ -21338,6 +21378,24 @@
       "duration_ms": 188005,
       "name": "Mayo",
       "url": "https://open.spotify.com/track/2Iv8Dp0SvEp8GxVv9cvAG5"
+    },
+    {
+      "album": {
+        "name": "Mbapp\u00e9",
+        "url": "https://open.spotify.com/album/3IlbVKdsA35Si13YkWj2RG"
+      },
+      "artists": [
+        {
+          "name": "Beendo Z",
+          "url": "https://open.spotify.com/artist/7a35Zdc78bDXJv2vYf5hSO"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186231,
+      "name": "Mbapp\u00e9",
+      "url": "https://open.spotify.com/track/0FWIA89SfPbCWyx1PrfXFr"
     },
     {
       "album": {
@@ -33774,7 +33832,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-21",
       "duration_ms": 205312,
       "name": "Une autre vie",
       "url": "https://open.spotify.com/track/40HktbYQgbdvMlmlBCcu9M"

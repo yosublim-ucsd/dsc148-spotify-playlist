@@ -1,12 +1,12 @@
 {
   "description": "Il sound giusto per creare in cucina!",
-  "num_followers": 21539,
+  "num_followers": 21543,
   "original_name": "Musica per Cucinare",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYwNTAzNDA0MiwwMDAwMDAwMDk5YjVmMjU2ZGFiZGQ3NTZhZWNiMGRmYjE2MjQxZTY3",
+  "snapshot_id": "MCxiYjNiYmFkNWQxNjIxNGNlZjhkZjFmOTRjMTlmZTM5NTFhM2FlZWUw",
   "tracks": [
     {
       "added_at": "2020-11-10 18:47:22",
@@ -907,22 +907,6 @@
     {
       "added_at": "2020-11-10 18:47:22",
       "album": {
-        "name": "Warm & Tender Soul",
-        "url": "https://open.spotify.com/album/2PDg8ZGUuCxr0PQ7eyY750"
-      },
-      "artists": [
-        {
-          "name": "Percy Sledge",
-          "url": "https://open.spotify.com/artist/3rRmDmzPcAFwcUDvG5gBqO"
-        }
-      ],
-      "duration_ms": 173893,
-      "name": "You Really Got a Hold on Me",
-      "url": "https://open.spotify.com/track/1kz3vwmLiBlW3A73exQSNx"
-    },
-    {
-      "added_at": "2020-11-10 18:47:22",
-      "album": {
         "name": "Lonely Teardrops",
         "url": "https://open.spotify.com/album/4Ixm6f2gdD6Ai1qKkE5NGT"
       },
@@ -939,6 +923,22 @@
     {
       "added_at": "2020-11-10 18:47:22",
       "album": {
+        "name": "Warm & Tender Soul",
+        "url": "https://open.spotify.com/album/2PDg8ZGUuCxr0PQ7eyY750"
+      },
+      "artists": [
+        {
+          "name": "Percy Sledge",
+          "url": "https://open.spotify.com/artist/3rRmDmzPcAFwcUDvG5gBqO"
+        }
+      ],
+      "duration_ms": 173893,
+      "name": "You Really Got a Hold on Me",
+      "url": "https://open.spotify.com/track/1kz3vwmLiBlW3A73exQSNx"
+    },
+    {
+      "added_at": "2020-11-10 18:47:22",
+      "album": {
         "name": "Coleccion",
         "url": "https://open.spotify.com/album/4JnzA5hRujlF3yG3OeOltp"
       },
@@ -951,22 +951,6 @@
       "duration_ms": 312120,
       "name": "Guajira guantanamera",
       "url": "https://open.spotify.com/track/2Vy9F0mp0gcj9NxzfVDcQm"
-    },
-    {
-      "added_at": "2020-11-10 18:47:22",
-      "album": {
-        "name": "Trio Ternura (Compacto 1973)",
-        "url": "https://open.spotify.com/album/0LtKGt7sB3pSrduK8trZD8"
-      },
-      "artists": [
-        {
-          "name": "Trio Ternura",
-          "url": "https://open.spotify.com/artist/6J4hJ6O6WJmBTlIL3wJBcT"
-        }
-      ],
-      "duration_ms": 183053,
-      "name": "A Gira",
-      "url": "https://open.spotify.com/track/70mpYOq7kaEVOZD6IIJAaw"
     },
     {
       "added_at": "2020-11-10 18:47:22",
@@ -991,6 +975,22 @@
       "duration_ms": 222920,
       "name": "Mi Swing es Tropical",
       "url": "https://open.spotify.com/track/3zK2IUdvnOaKWC3yCP0P3C"
+    },
+    {
+      "added_at": "2020-11-10 18:47:22",
+      "album": {
+        "name": "Trio Ternura (Compacto 1973)",
+        "url": "https://open.spotify.com/album/0LtKGt7sB3pSrduK8trZD8"
+      },
+      "artists": [
+        {
+          "name": "Trio Ternura",
+          "url": "https://open.spotify.com/artist/6J4hJ6O6WJmBTlIL3wJBcT"
+        }
+      ],
+      "duration_ms": 183053,
+      "name": "A Gira",
+      "url": "https://open.spotify.com/track/70mpYOq7kaEVOZD6IIJAaw"
     },
     {
       "added_at": "2020-11-10 18:47:22",
@@ -1227,22 +1227,6 @@
     {
       "added_at": "2020-11-10 18:47:22",
       "album": {
-        "name": "CHERISH",
-        "url": "https://open.spotify.com/album/37dn4xzwTrFIcD6pCCuAAM"
-      },
-      "artists": [
-        {
-          "name": "Jay Prince",
-          "url": "https://open.spotify.com/artist/2TLYSzGyVYkxAgYSCqUnQj"
-        }
-      ],
-      "duration_ms": 212866,
-      "name": "In The Morning",
-      "url": "https://open.spotify.com/track/49q1cx7bCJ53daNU3lENe7"
-    },
-    {
-      "added_at": "2020-11-10 18:47:22",
-      "album": {
         "name": "Curanderas",
         "url": "https://open.spotify.com/album/7D0DDG3yg2JAaQHNmAjNAF"
       },
@@ -1255,6 +1239,22 @@
       "duration_ms": 216893,
       "name": "Una De Mambo",
       "url": "https://open.spotify.com/track/7hN3hV0zgaqD6g6CYFezpB"
+    },
+    {
+      "added_at": "2020-11-10 18:47:22",
+      "album": {
+        "name": "CHERISH",
+        "url": "https://open.spotify.com/album/37dn4xzwTrFIcD6pCCuAAM"
+      },
+      "artists": [
+        {
+          "name": "Jay Prince",
+          "url": "https://open.spotify.com/artist/2TLYSzGyVYkxAgYSCqUnQj"
+        }
+      ],
+      "duration_ms": 212866,
+      "name": "In The Morning",
+      "url": "https://open.spotify.com/track/49q1cx7bCJ53daNU3lENe7"
     },
     {
       "added_at": "2020-11-10 18:47:22",

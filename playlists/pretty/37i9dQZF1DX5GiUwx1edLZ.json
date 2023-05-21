@@ -1,12 +1,12 @@
 {
   "description": "<a href=\"https://open.spotify.com/genre/edm_dance\">Dance music</a> unplugged.",
-  "num_followers": 274834,
+  "num_followers": 274866,
   "original_name": "mint Acoustic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmMjhiZmQ4ZDZjY2MwNmExZWM3YzM4ODY4YjMzMTI4YmQyYmRhMzNm",
+  "snapshot_id": "MCwxMDYyNWRlNjIwNDExZTU0OWZkNzdjNjM5NTQzOTFiNTAxZTliYzlj",
   "tracks": [
     {
       "added_at": "2023-03-20 20:19:53",
@@ -563,6 +563,22 @@
     {
       "added_at": "2023-03-20 20:19:53",
       "album": {
+        "name": "True Colors",
+        "url": "https://open.spotify.com/album/4jKdXIJckKh7la6xHuKwRT"
+      },
+      "artists": [
+        {
+          "name": "Zedd",
+          "url": "https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq"
+        }
+      ],
+      "duration_ms": 174413,
+      "name": "Daisy",
+      "url": "https://open.spotify.com/track/4ccQmBycgXDYtIA7Z1i32V"
+    },
+    {
+      "added_at": "2023-03-20 20:19:53",
+      "album": {
         "name": "Paradise (Guitar Acoustic)",
         "url": "https://open.spotify.com/album/5VSseS7GXXtGFIhEun2z47"
       },
@@ -583,18 +599,22 @@
     {
       "added_at": "2023-03-20 20:19:53",
       "album": {
-        "name": "True Colors",
-        "url": "https://open.spotify.com/album/4jKdXIJckKh7la6xHuKwRT"
+        "name": "The Acoustics",
+        "url": "https://open.spotify.com/album/5fTKBGwZbOLj9uNirwqFP7"
       },
       "artists": [
         {
-          "name": "Zedd",
-          "url": "https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq"
+          "name": "John Dahlb\u00e4ck",
+          "url": "https://open.spotify.com/artist/15xvsJMf8phaNa1LYvL9Qv"
+        },
+        {
+          "name": "BullySongs",
+          "url": "https://open.spotify.com/artist/5YMqwPmb7ViNXM63g1MUH5"
         }
       ],
-      "duration_ms": 174413,
-      "name": "Daisy",
-      "url": "https://open.spotify.com/track/4ccQmBycgXDYtIA7Z1i32V"
+      "duration_ms": 161724,
+      "name": "Walking With Shadows - Acoustic Version",
+      "url": "https://open.spotify.com/track/0fUsv9EmTEJNm3ydxOAIHL"
     },
     {
       "added_at": "2023-03-20 20:19:53",
@@ -615,26 +635,6 @@
       "duration_ms": 255582,
       "name": "Sun Comes Up - Acoustic",
       "url": "https://open.spotify.com/track/2YO0VBWKaIdtUqfOKelqF1"
-    },
-    {
-      "added_at": "2023-03-20 20:19:53",
-      "album": {
-        "name": "The Acoustics",
-        "url": "https://open.spotify.com/album/5fTKBGwZbOLj9uNirwqFP7"
-      },
-      "artists": [
-        {
-          "name": "John Dahlb\u00e4ck",
-          "url": "https://open.spotify.com/artist/15xvsJMf8phaNa1LYvL9Qv"
-        },
-        {
-          "name": "BullySongs",
-          "url": "https://open.spotify.com/artist/5YMqwPmb7ViNXM63g1MUH5"
-        }
-      ],
-      "duration_ms": 161724,
-      "name": "Walking With Shadows - Acoustic Version",
-      "url": "https://open.spotify.com/track/0fUsv9EmTEJNm3ydxOAIHL"
     },
     {
       "added_at": "2023-03-20 20:19:53",
@@ -763,26 +763,6 @@
     {
       "added_at": "2023-03-20 20:19:53",
       "album": {
-        "name": "Drink About (Acoustic Version)",
-        "url": "https://open.spotify.com/album/1inFEwk6OA0Zk0FzezM1Jo"
-      },
-      "artists": [
-        {
-          "name": "Seeb",
-          "url": "https://open.spotify.com/artist/5iNrZmtVMtYev5M9yoWpEq"
-        },
-        {
-          "name": "Dagny",
-          "url": "https://open.spotify.com/artist/6Paz0vXJJ9bCPf0fEm3qzg"
-        }
-      ],
-      "duration_ms": 177656,
-      "name": "Drink About - Acoustic Version",
-      "url": "https://open.spotify.com/track/7ByRm8QpSxn2uK3Exa23yV"
-    },
-    {
-      "added_at": "2023-03-20 20:19:53",
-      "album": {
         "name": "Tell Me You Love Me (Deluxe)",
         "url": "https://open.spotify.com/album/3wtzx00sWy8JmQbYXmBa6S"
       },
@@ -799,6 +779,26 @@
       "duration_ms": 232066,
       "name": "No Promises - Acoustic",
       "url": "https://open.spotify.com/track/4gd5QOwPhztB74FW28S93P"
+    },
+    {
+      "added_at": "2023-03-20 20:19:53",
+      "album": {
+        "name": "Drink About (Acoustic Version)",
+        "url": "https://open.spotify.com/album/1inFEwk6OA0Zk0FzezM1Jo"
+      },
+      "artists": [
+        {
+          "name": "Seeb",
+          "url": "https://open.spotify.com/artist/5iNrZmtVMtYev5M9yoWpEq"
+        },
+        {
+          "name": "Dagny",
+          "url": "https://open.spotify.com/artist/6Paz0vXJJ9bCPf0fEm3qzg"
+        }
+      ],
+      "duration_ms": 177656,
+      "name": "Drink About - Acoustic Version",
+      "url": "https://open.spotify.com/track/7ByRm8QpSxn2uK3Exa23yV"
     },
     {
       "added_at": "2023-03-20 20:19:53",
@@ -1211,22 +1211,22 @@
     {
       "added_at": "2023-03-20 20:19:53",
       "album": {
-        "name": "Better Days (NEIKED x Mae Muller) [Acoustic]",
-        "url": "https://open.spotify.com/album/0gxFT2phYifzYo74xqx5q0"
+        "name": "Kids in Love (Remixes)",
+        "url": "https://open.spotify.com/album/7LbyVLGeEWZYOUKCecv3gI"
       },
       "artists": [
         {
-          "name": "NEIKED",
-          "url": "https://open.spotify.com/artist/5H6xmHXjsq98NLbEjuE29f"
+          "name": "Kygo",
+          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
         },
         {
-          "name": "Mae Muller",
-          "url": "https://open.spotify.com/artist/1BEUkE2CSUgHTLSBMZdnFB"
+          "name": "John Newman",
+          "url": "https://open.spotify.com/artist/34v5MVKeQnIo0CWYMbbrPf"
         }
       ],
-      "duration_ms": 175990,
-      "name": "Better Days (NEIKED x Mae Muller) - Acoustic",
-      "url": "https://open.spotify.com/track/4cO0l1PwQKdgWRimyb0jaf"
+      "duration_ms": 239453,
+      "name": "Never Let You Go (feat. John Newman) - Acoustic Version",
+      "url": "https://open.spotify.com/track/0hsEwB7RvpWOJYZnAF4j4E"
     },
     {
       "added_at": "2023-03-20 20:19:53",
@@ -1247,22 +1247,22 @@
     {
       "added_at": "2023-03-20 20:19:53",
       "album": {
-        "name": "Kids in Love (Remixes)",
-        "url": "https://open.spotify.com/album/7LbyVLGeEWZYOUKCecv3gI"
+        "name": "Better Days (NEIKED x Mae Muller) [Acoustic]",
+        "url": "https://open.spotify.com/album/0gxFT2phYifzYo74xqx5q0"
       },
       "artists": [
         {
-          "name": "Kygo",
-          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
+          "name": "NEIKED",
+          "url": "https://open.spotify.com/artist/5H6xmHXjsq98NLbEjuE29f"
         },
         {
-          "name": "John Newman",
-          "url": "https://open.spotify.com/artist/34v5MVKeQnIo0CWYMbbrPf"
+          "name": "Mae Muller",
+          "url": "https://open.spotify.com/artist/1BEUkE2CSUgHTLSBMZdnFB"
         }
       ],
-      "duration_ms": 239453,
-      "name": "Never Let You Go (feat. John Newman) - Acoustic Version",
-      "url": "https://open.spotify.com/track/0hsEwB7RvpWOJYZnAF4j4E"
+      "duration_ms": 175990,
+      "name": "Better Days (NEIKED x Mae Muller) - Acoustic",
+      "url": "https://open.spotify.com/track/4cO0l1PwQKdgWRimyb0jaf"
     },
     {
       "added_at": "2023-03-20 20:19:53",
@@ -1687,6 +1687,22 @@
     {
       "added_at": "2023-03-20 20:19:53",
       "album": {
+        "name": "Brighter Future",
+        "url": "https://open.spotify.com/album/2j5Ie27rxisV2j51sm2mVA"
+      },
+      "artists": [
+        {
+          "name": "Big Gigantic",
+          "url": "https://open.spotify.com/artist/7o7mC95EDbJKTcPAAs8C3r"
+        }
+      ],
+      "duration_ms": 139701,
+      "name": "Long Time Coming",
+      "url": "https://open.spotify.com/track/1zFTuPPXc1pn2W1LXNQ9ND"
+    },
+    {
+      "added_at": "2023-03-20 20:19:53",
+      "album": {
         "name": "Spectrum EP",
         "url": "https://open.spotify.com/album/3VH3gtVsAA09K3QOWMSdOU"
       },
@@ -1703,22 +1719,6 @@
       "duration_ms": 110440,
       "name": "Spectrum - Acoustic Version",
       "url": "https://open.spotify.com/track/23meR9hk6hYjvMJjExeYE1"
-    },
-    {
-      "added_at": "2023-03-20 20:19:53",
-      "album": {
-        "name": "Brighter Future",
-        "url": "https://open.spotify.com/album/2j5Ie27rxisV2j51sm2mVA"
-      },
-      "artists": [
-        {
-          "name": "Big Gigantic",
-          "url": "https://open.spotify.com/artist/7o7mC95EDbJKTcPAAs8C3r"
-        }
-      ],
-      "duration_ms": 139701,
-      "name": "Long Time Coming",
-      "url": "https://open.spotify.com/track/1zFTuPPXc1pn2W1LXNQ9ND"
     },
     {
       "added_at": "2023-03-20 20:19:53",
@@ -1811,26 +1811,6 @@
     {
       "added_at": "2023-03-20 20:19:53",
       "album": {
-        "name": "I Could Be The One [Avicii vs Nicky Romero] (Remixes)",
-        "url": "https://open.spotify.com/album/1EzEbNySBZEQq6swaClGw0"
-      },
-      "artists": [
-        {
-          "name": "Avicii",
-          "url": "https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6"
-        },
-        {
-          "name": "Nicky Romero",
-          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
-        }
-      ],
-      "duration_ms": 231426,
-      "name": "I Could Be The One [Avicii vs Nicky Romero] - Noonie Bao Acoustic Mix",
-      "url": "https://open.spotify.com/track/5jENp0YwSkdQt9VbYI0DAC"
-    },
-    {
-      "added_at": "2023-03-20 20:19:53",
-      "album": {
         "name": "End Of The World (Acoustic Mix)",
         "url": "https://open.spotify.com/album/3VqFvPSRWDlD6UqtxvL2cU"
       },
@@ -1847,6 +1827,26 @@
       "duration_ms": 151874,
       "name": "End Of The World - Acoustic Mix",
       "url": "https://open.spotify.com/track/1K2qPDIqk0DdvAsARjCmGt"
+    },
+    {
+      "added_at": "2023-03-20 20:19:53",
+      "album": {
+        "name": "I Could Be The One [Avicii vs Nicky Romero] (Remixes)",
+        "url": "https://open.spotify.com/album/1EzEbNySBZEQq6swaClGw0"
+      },
+      "artists": [
+        {
+          "name": "Avicii",
+          "url": "https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6"
+        },
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        }
+      ],
+      "duration_ms": 231426,
+      "name": "I Could Be The One [Avicii vs Nicky Romero] - Noonie Bao Acoustic Mix",
+      "url": "https://open.spotify.com/track/5jENp0YwSkdQt9VbYI0DAC"
     },
     {
       "added_at": "2023-03-20 20:19:53",
@@ -1891,26 +1891,6 @@
     {
       "added_at": "2023-03-20 20:19:53",
       "album": {
-        "name": "Hear Me Say (Acoustic)",
-        "url": "https://open.spotify.com/album/3mZ3lgRGgKJ1osqqH39vH0"
-      },
-      "artists": [
-        {
-          "name": "Jonas Blue",
-          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
-        },
-        {
-          "name": "L\u00c9ON",
-          "url": "https://open.spotify.com/artist/4SqTiwOEdYrNayaGMkc7ia"
-        }
-      ],
-      "duration_ms": 149525,
-      "name": "Hear Me Say - Acoustic",
-      "url": "https://open.spotify.com/track/2lUB3DmQbrQrYeGWc3PfcY"
-    },
-    {
-      "added_at": "2023-03-20 20:19:53",
-      "album": {
         "name": "Kids in Love (Remixes)",
         "url": "https://open.spotify.com/album/7LbyVLGeEWZYOUKCecv3gI"
       },
@@ -1927,6 +1907,26 @@
       "duration_ms": 245066,
       "name": "Kids in Love (feat. The Night Game) - Acoustic Version",
       "url": "https://open.spotify.com/track/0b683lyejYRh6CBWJQgExw"
+    },
+    {
+      "added_at": "2023-03-20 20:19:53",
+      "album": {
+        "name": "Hear Me Say (Acoustic)",
+        "url": "https://open.spotify.com/album/3mZ3lgRGgKJ1osqqH39vH0"
+      },
+      "artists": [
+        {
+          "name": "Jonas Blue",
+          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
+        },
+        {
+          "name": "L\u00c9ON",
+          "url": "https://open.spotify.com/artist/4SqTiwOEdYrNayaGMkc7ia"
+        }
+      ],
+      "duration_ms": 149525,
+      "name": "Hear Me Say - Acoustic",
+      "url": "https://open.spotify.com/track/2lUB3DmQbrQrYeGWc3PfcY"
     },
     {
       "added_at": "2023-03-20 20:19:53",

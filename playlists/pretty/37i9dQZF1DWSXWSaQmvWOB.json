@@ -1,12 +1,12 @@
 {
   "description": "Your daily dose of soul-infused music! Cover: The Teskey Brothers",
-  "num_followers": 440702,
+  "num_followers": 440780,
   "original_name": "Soul 'n' the City",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwYTM5NjIzODRiOWRhZmQxYTk4N2IwMjA2ZGMwOTM1MDc2OTMzMmY4",
+  "snapshot_id": "MCxiM2QxZDE5Y2EyZTcwMTVmZDMyZjllMjY2ZTJlODY5MzAxZGI0NGE2",
   "tracks": [
     {
       "added_at": "2023-05-12 08:18:27",
@@ -275,6 +275,38 @@
     {
       "added_at": "2023-05-12 08:18:27",
       "album": {
+        "name": "All The Things I Couldn't Say To You",
+        "url": "https://open.spotify.com/album/7Ce8T8ok6ayEXddV7uDvAK"
+      },
+      "artists": [
+        {
+          "name": "Busty and the Bass",
+          "url": "https://open.spotify.com/artist/4XMc1qHObZ7aXQrH5MmbjK"
+        }
+      ],
+      "duration_ms": 264285,
+      "name": "All The Things I Couldn't Say To You",
+      "url": "https://open.spotify.com/track/06hH8CY1z9v1xxKsWEIVlf"
+    },
+    {
+      "added_at": "2023-05-12 08:18:27",
+      "album": {
+        "name": "Love Is The Way",
+        "url": "https://open.spotify.com/album/63VRCc7KmT6zhL9BiGluQ0"
+      },
+      "artists": [
+        {
+          "name": "Thee Sacred Souls",
+          "url": "https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU"
+        }
+      ],
+      "duration_ms": 179836,
+      "name": "Love Is The Way",
+      "url": "https://open.spotify.com/track/1CKfCj9izL24zGTrO6QTFE"
+    },
+    {
+      "added_at": "2023-05-12 08:18:27",
+      "album": {
         "name": "Watch The Sun (Deluxe)",
         "url": "https://open.spotify.com/album/0AbnTdKhHNa7K7h5KBPox3"
       },
@@ -307,38 +339,6 @@
       "duration_ms": 271807,
       "name": "The Better Benediction (pt.2) (feat. Lisa Knowles-Smith, Le'Andria Johnson, KeKe Wyatt, Kierra Sheard & Tasha Cobbs Leonard)",
       "url": "https://open.spotify.com/track/44Gmc28OqMon8yhJfo3Nze"
-    },
-    {
-      "added_at": "2023-05-12 08:18:27",
-      "album": {
-        "name": "Love Is The Way",
-        "url": "https://open.spotify.com/album/63VRCc7KmT6zhL9BiGluQ0"
-      },
-      "artists": [
-        {
-          "name": "Thee Sacred Souls",
-          "url": "https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU"
-        }
-      ],
-      "duration_ms": 179836,
-      "name": "Love Is The Way",
-      "url": "https://open.spotify.com/track/1CKfCj9izL24zGTrO6QTFE"
-    },
-    {
-      "added_at": "2023-05-12 08:18:27",
-      "album": {
-        "name": "All The Things I Couldn't Say To You",
-        "url": "https://open.spotify.com/album/7Ce8T8ok6ayEXddV7uDvAK"
-      },
-      "artists": [
-        {
-          "name": "Busty and the Bass",
-          "url": "https://open.spotify.com/artist/4XMc1qHObZ7aXQrH5MmbjK"
-        }
-      ],
-      "duration_ms": 264285,
-      "name": "All The Things I Couldn't Say To You",
-      "url": "https://open.spotify.com/track/06hH8CY1z9v1xxKsWEIVlf"
     },
     {
       "added_at": "2023-05-12 08:18:27",
@@ -407,6 +407,22 @@
     {
       "added_at": "2023-05-12 08:18:27",
       "album": {
+        "name": "Just Like You Used To",
+        "url": "https://open.spotify.com/album/1KL7kl1XBGuAd5Z3xij3Mg"
+      },
+      "artists": [
+        {
+          "name": "Jalen Ngonda",
+          "url": "https://open.spotify.com/artist/2kEDso93O2hDgCbnuiSkkZ"
+        }
+      ],
+      "duration_ms": 188155,
+      "name": "Just Like You Used To",
+      "url": "https://open.spotify.com/track/7muZRuzw9GrlftSblA5Bkf"
+    },
+    {
+      "added_at": "2023-05-12 08:18:27",
+      "album": {
         "name": "London Bridge",
         "url": "https://open.spotify.com/album/3xPsEsaCmA1EFrl8TmGtPQ"
       },
@@ -435,22 +451,6 @@
       "duration_ms": 337514,
       "name": "Glory",
       "url": "https://open.spotify.com/track/0fm6oDgGOPikLyxKEHMMHk"
-    },
-    {
-      "added_at": "2023-05-12 08:18:27",
-      "album": {
-        "name": "Just Like You Used To",
-        "url": "https://open.spotify.com/album/1KL7kl1XBGuAd5Z3xij3Mg"
-      },
-      "artists": [
-        {
-          "name": "Jalen Ngonda",
-          "url": "https://open.spotify.com/artist/2kEDso93O2hDgCbnuiSkkZ"
-        }
-      ],
-      "duration_ms": 188155,
-      "name": "Just Like You Used To",
-      "url": "https://open.spotify.com/track/7muZRuzw9GrlftSblA5Bkf"
     },
     {
       "added_at": "2023-05-12 08:18:27",
@@ -831,6 +831,22 @@
     {
       "added_at": "2023-05-12 08:18:27",
       "album": {
+        "name": "Bruises",
+        "url": "https://open.spotify.com/album/6uHzKD648X9MoK0Z2vo8LW"
+      },
+      "artists": [
+        {
+          "name": "Jordan Rakei",
+          "url": "https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68"
+        }
+      ],
+      "duration_ms": 245290,
+      "name": "Defection",
+      "url": "https://open.spotify.com/track/3I4tQHg9oJ9jYtQJTKb2QO"
+    },
+    {
+      "added_at": "2023-05-12 08:18:27",
+      "album": {
         "name": "What It Takes",
         "url": "https://open.spotify.com/album/4GemvvqS3Pl9za8Y3ohghJ"
       },
@@ -847,22 +863,6 @@
       "duration_ms": 226584,
       "name": "What It Takes (feat. Lauren Daigle)",
       "url": "https://open.spotify.com/track/6fjzXoKC1ULC660aNq1zOO"
-    },
-    {
-      "added_at": "2023-05-12 08:18:27",
-      "album": {
-        "name": "Bruises",
-        "url": "https://open.spotify.com/album/6uHzKD648X9MoK0Z2vo8LW"
-      },
-      "artists": [
-        {
-          "name": "Jordan Rakei",
-          "url": "https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68"
-        }
-      ],
-      "duration_ms": 245290,
-      "name": "Defection",
-      "url": "https://open.spotify.com/track/3I4tQHg9oJ9jYtQJTKb2QO"
     },
     {
       "added_at": "2023-05-12 08:18:27",
@@ -1019,22 +1019,6 @@
     {
       "added_at": "2023-05-12 08:18:27",
       "album": {
-        "name": "The World",
-        "url": "https://open.spotify.com/album/3cqrOjDqjzb2bdFmhntP8t"
-      },
-      "artists": [
-        {
-          "name": "Benny Sings",
-          "url": "https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N"
-        }
-      ],
-      "duration_ms": 186453,
-      "name": "The World",
-      "url": "https://open.spotify.com/track/2KnfMlqUIr2RLFIRlCQzhw"
-    },
-    {
-      "added_at": "2023-05-12 08:18:27",
-      "album": {
         "name": "Light Speaks the Quilt",
         "url": "https://open.spotify.com/album/3maM5jsIfu1ALqYLr0Viov"
       },
@@ -1047,6 +1031,22 @@
       "duration_ms": 176032,
       "name": "Rolodex",
       "url": "https://open.spotify.com/track/2qTh3LFhX5hlJ47i2bTvHK"
+    },
+    {
+      "added_at": "2023-05-12 08:18:27",
+      "album": {
+        "name": "The World",
+        "url": "https://open.spotify.com/album/3cqrOjDqjzb2bdFmhntP8t"
+      },
+      "artists": [
+        {
+          "name": "Benny Sings",
+          "url": "https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N"
+        }
+      ],
+      "duration_ms": 186453,
+      "name": "The World",
+      "url": "https://open.spotify.com/track/2KnfMlqUIr2RLFIRlCQzhw"
     },
     {
       "added_at": "2023-05-12 08:18:27",
@@ -1231,6 +1231,22 @@
     {
       "added_at": "2023-05-12 08:18:27",
       "album": {
+        "name": "Outside",
+        "url": "https://open.spotify.com/album/5pg0D8LLGsWG0wwI8xxgWO"
+      },
+      "artists": [
+        {
+          "name": "Tank and The Bangas",
+          "url": "https://open.spotify.com/artist/5cAtakaadWHJLxmGKrKcX7"
+        }
+      ],
+      "duration_ms": 189667,
+      "name": "Outside",
+      "url": "https://open.spotify.com/track/77ZDTOO3zlZxGfNzTNWNyx"
+    },
+    {
+      "added_at": "2023-05-12 08:18:27",
+      "album": {
         "name": "What If? / Leave It",
         "url": "https://open.spotify.com/album/6hCOlqAGTtU9dhQ7nhi1U8"
       },
@@ -1247,22 +1263,6 @@
       "duration_ms": 232500,
       "name": "Leave It",
       "url": "https://open.spotify.com/track/4d53iJvfGbPyQGRnbtmtiW"
-    },
-    {
-      "added_at": "2023-05-12 08:18:27",
-      "album": {
-        "name": "Outside",
-        "url": "https://open.spotify.com/album/5pg0D8LLGsWG0wwI8xxgWO"
-      },
-      "artists": [
-        {
-          "name": "Tank and The Bangas",
-          "url": "https://open.spotify.com/artist/5cAtakaadWHJLxmGKrKcX7"
-        }
-      ],
-      "duration_ms": 189667,
-      "name": "Outside",
-      "url": "https://open.spotify.com/track/77ZDTOO3zlZxGfNzTNWNyx"
     },
     {
       "added_at": "2023-05-12 08:18:27",
@@ -1411,22 +1411,18 @@
     {
       "added_at": "2023-05-12 08:18:27",
       "album": {
-        "name": "Rollin' (Love Will Be Here)",
-        "url": "https://open.spotify.com/album/6rB87O7QltKss06cW4g0xP"
+        "name": "Lovestreet 55",
+        "url": "https://open.spotify.com/album/2OkeAHspKici6uEPr28cNH"
       },
       "artists": [
         {
-          "name": "Brooklyn Funk Essentials",
-          "url": "https://open.spotify.com/artist/4r4tRC1EUpfUCLjwQXP5EA"
-        },
-        {
-          "name": "Alison Limerick",
-          "url": "https://open.spotify.com/artist/0ELXBCSsRl2m92MgnOsA69"
+          "name": "Boaz",
+          "url": "https://open.spotify.com/artist/0ytyS944Vjixf9O0omhpyd"
         }
       ],
-      "duration_ms": 290637,
-      "name": "Rollin' (Love Will Be Here)",
-      "url": "https://open.spotify.com/track/5bQk9DRtzykiiSHCfh1FDg"
+      "duration_ms": 238013,
+      "name": "Lovestreet 55",
+      "url": "https://open.spotify.com/track/7uE1BW7yWMGtlhPMylrJV1"
     },
     {
       "added_at": "2023-05-12 08:18:27",
@@ -1447,22 +1443,6 @@
     {
       "added_at": "2023-05-12 08:18:27",
       "album": {
-        "name": "Lovestreet 55",
-        "url": "https://open.spotify.com/album/2OkeAHspKici6uEPr28cNH"
-      },
-      "artists": [
-        {
-          "name": "Boaz",
-          "url": "https://open.spotify.com/artist/0ytyS944Vjixf9O0omhpyd"
-        }
-      ],
-      "duration_ms": 238013,
-      "name": "Lovestreet 55",
-      "url": "https://open.spotify.com/track/7uE1BW7yWMGtlhPMylrJV1"
-    },
-    {
-      "added_at": "2023-05-12 08:18:27",
-      "album": {
         "name": "Something I Said",
         "url": "https://open.spotify.com/album/1sruO8JvNgHAGorAbZIz4R"
       },
@@ -1475,6 +1455,26 @@
       "duration_ms": 196235,
       "name": "Something I Said",
       "url": "https://open.spotify.com/track/353y8b5t9MDnUlddgQ0dZY"
+    },
+    {
+      "added_at": "2023-05-12 08:18:27",
+      "album": {
+        "name": "Rollin' (Love Will Be Here)",
+        "url": "https://open.spotify.com/album/6rB87O7QltKss06cW4g0xP"
+      },
+      "artists": [
+        {
+          "name": "Brooklyn Funk Essentials",
+          "url": "https://open.spotify.com/artist/4r4tRC1EUpfUCLjwQXP5EA"
+        },
+        {
+          "name": "Alison Limerick",
+          "url": "https://open.spotify.com/artist/0ELXBCSsRl2m92MgnOsA69"
+        }
+      ],
+      "duration_ms": 290637,
+      "name": "Rollin' (Love Will Be Here)",
+      "url": "https://open.spotify.com/track/5bQk9DRtzykiiSHCfh1FDg"
     },
     {
       "added_at": "2023-05-12 08:18:27",
@@ -1511,22 +1511,6 @@
     {
       "added_at": "2023-05-12 08:18:27",
       "album": {
-        "name": "CUBE",
-        "url": "https://open.spotify.com/album/7g8SnE1LmkwBtOaDXpFV3E"
-      },
-      "artists": [
-        {
-          "name": "Tha\u00efs Lona",
-          "url": "https://open.spotify.com/artist/4p4EZdDlVzZsBwyt8NfX9S"
-        }
-      ],
-      "duration_ms": 257040,
-      "name": "B.N.D",
-      "url": "https://open.spotify.com/track/2WJqKEJ5TGjK2DojGrRo9K"
-    },
-    {
-      "added_at": "2023-05-12 08:18:27",
-      "album": {
         "name": "Those Days Are Over",
         "url": "https://open.spotify.com/album/08gZ1W70cqDTkOX5TsUZBf"
       },
@@ -1559,6 +1543,22 @@
     {
       "added_at": "2023-05-12 08:18:27",
       "album": {
+        "name": "CUBE",
+        "url": "https://open.spotify.com/album/7g8SnE1LmkwBtOaDXpFV3E"
+      },
+      "artists": [
+        {
+          "name": "Tha\u00efs Lona",
+          "url": "https://open.spotify.com/artist/4p4EZdDlVzZsBwyt8NfX9S"
+        }
+      ],
+      "duration_ms": 257040,
+      "name": "B.N.D",
+      "url": "https://open.spotify.com/track/2WJqKEJ5TGjK2DojGrRo9K"
+    },
+    {
+      "added_at": "2023-05-12 08:18:27",
+      "album": {
         "name": "Blessed / Black Star",
         "url": "https://open.spotify.com/album/28ykkNfCAOhfUloUtxRQIO"
       },
@@ -1571,22 +1571,6 @@
       "duration_ms": 191604,
       "name": "Blessed",
       "url": "https://open.spotify.com/track/4EL02W94lT5v7cAJw7i59s"
-    },
-    {
-      "added_at": "2023-05-12 08:18:27",
-      "album": {
-        "name": "City Federal Building",
-        "url": "https://open.spotify.com/album/5YcentPRga2gporh7VUyv7"
-      },
-      "artists": [
-        {
-          "name": "St. Paul & The Broken Bones",
-          "url": "https://open.spotify.com/artist/4fXkvh05wFhuH77MfD4m9o"
-        }
-      ],
-      "duration_ms": 245580,
-      "name": "City Federal Building",
-      "url": "https://open.spotify.com/track/4VOFwibETKXm7SOWNrSkOS"
     },
     {
       "added_at": "2023-05-12 08:18:27",
@@ -1623,6 +1607,22 @@
     {
       "added_at": "2023-05-12 08:18:27",
       "album": {
+        "name": "City Federal Building",
+        "url": "https://open.spotify.com/album/5YcentPRga2gporh7VUyv7"
+      },
+      "artists": [
+        {
+          "name": "St. Paul & The Broken Bones",
+          "url": "https://open.spotify.com/artist/4fXkvh05wFhuH77MfD4m9o"
+        }
+      ],
+      "duration_ms": 245580,
+      "name": "City Federal Building",
+      "url": "https://open.spotify.com/track/4VOFwibETKXm7SOWNrSkOS"
+    },
+    {
+      "added_at": "2023-05-12 08:18:27",
+      "album": {
         "name": "Multiply",
         "url": "https://open.spotify.com/album/7kqge5g8SnPqZtRoQyRMPz"
       },
@@ -1639,22 +1639,6 @@
     {
       "added_at": "2023-05-12 08:18:27",
       "album": {
-        "name": "Like Neptune",
-        "url": "https://open.spotify.com/album/014KjVEwCWxN2hWFYsUWNB"
-      },
-      "artists": [
-        {
-          "name": "Son Little",
-          "url": "https://open.spotify.com/artist/4lujUKeO6nQAJXpq37Epn7"
-        }
-      ],
-      "duration_ms": 268013,
-      "name": "inside out",
-      "url": "https://open.spotify.com/track/6Jk5XZB83vccvK6svvkjzA"
-    },
-    {
-      "added_at": "2023-05-12 08:18:27",
-      "album": {
         "name": "In Contemplation of Clair\u2019s Scent",
         "url": "https://open.spotify.com/album/5WzvJZurKSZfBZZjundIzb"
       },
@@ -1667,6 +1651,22 @@
       "duration_ms": 170108,
       "name": "In Contemplation of Clair\u2019s Scent - Edit",
       "url": "https://open.spotify.com/track/6evizKGLv223qG5hpReBWy"
+    },
+    {
+      "added_at": "2023-05-12 08:18:27",
+      "album": {
+        "name": "Like Neptune",
+        "url": "https://open.spotify.com/album/014KjVEwCWxN2hWFYsUWNB"
+      },
+      "artists": [
+        {
+          "name": "Son Little",
+          "url": "https://open.spotify.com/artist/4lujUKeO6nQAJXpq37Epn7"
+        }
+      ],
+      "duration_ms": 268013,
+      "name": "inside out",
+      "url": "https://open.spotify.com/track/6Jk5XZB83vccvK6svvkjzA"
     },
     {
       "added_at": "2023-05-12 08:18:27",
@@ -1863,18 +1863,18 @@
     {
       "added_at": "2023-05-12 08:18:27",
       "album": {
-        "name": "Oporto-Madrid Blvd",
-        "url": "https://open.spotify.com/album/4Uyxs83rYhuwBDKJschbYw"
+        "name": "Flashing Lights",
+        "url": "https://open.spotify.com/album/25p8WJ7KjgpXVH5RvZqyxv"
       },
       "artists": [
         {
-          "name": "St. Paul & The Broken Bones",
-          "url": "https://open.spotify.com/artist/4fXkvh05wFhuH77MfD4m9o"
+          "name": "Dragonfruit",
+          "url": "https://open.spotify.com/artist/5XedNczaTKAEy9NrSXZeUy"
         }
       ],
-      "duration_ms": 209198,
-      "name": "Oporto-Madrid Blvd",
-      "url": "https://open.spotify.com/track/3sPLA6G4cB8P8diBopToGT"
+      "duration_ms": 213728,
+      "name": "Flashing Lights",
+      "url": "https://open.spotify.com/track/1sK3qSrr5cbVBbFobG2Gjh"
     },
     {
       "added_at": "2023-05-12 08:18:27",
@@ -1895,22 +1895,6 @@
     {
       "added_at": "2023-05-12 08:18:27",
       "album": {
-        "name": "Flashing Lights",
-        "url": "https://open.spotify.com/album/25p8WJ7KjgpXVH5RvZqyxv"
-      },
-      "artists": [
-        {
-          "name": "Dragonfruit",
-          "url": "https://open.spotify.com/artist/5XedNczaTKAEy9NrSXZeUy"
-        }
-      ],
-      "duration_ms": 213728,
-      "name": "Flashing Lights",
-      "url": "https://open.spotify.com/track/1sK3qSrr5cbVBbFobG2Gjh"
-    },
-    {
-      "added_at": "2023-05-12 08:18:27",
-      "album": {
         "name": "Paradise",
         "url": "https://open.spotify.com/album/4uN0xpwveVbQtN7Rcl1dFA"
       },
@@ -1927,6 +1911,38 @@
       "duration_ms": 316626,
       "name": "Paradise",
       "url": "https://open.spotify.com/track/4Tz5dGX8wiAejkYhZ7sLG4"
+    },
+    {
+      "added_at": "2023-05-12 08:18:27",
+      "album": {
+        "name": "Oporto-Madrid Blvd",
+        "url": "https://open.spotify.com/album/4Uyxs83rYhuwBDKJschbYw"
+      },
+      "artists": [
+        {
+          "name": "St. Paul & The Broken Bones",
+          "url": "https://open.spotify.com/artist/4fXkvh05wFhuH77MfD4m9o"
+        }
+      ],
+      "duration_ms": 209198,
+      "name": "Oporto-Madrid Blvd",
+      "url": "https://open.spotify.com/track/3sPLA6G4cB8P8diBopToGT"
+    },
+    {
+      "added_at": "2023-05-12 08:18:27",
+      "album": {
+        "name": "Ticket To Shangri-La",
+        "url": "https://open.spotify.com/album/1RnES2KkMW6gEwRkhy53Xx"
+      },
+      "artists": [
+        {
+          "name": "Young Gun Silver Fox",
+          "url": "https://open.spotify.com/artist/3qQloBz05T6e0rKubNCmjG"
+        }
+      ],
+      "duration_ms": 223720,
+      "name": "Rolling Back",
+      "url": "https://open.spotify.com/track/1irJhcpldknFoEzcqO75qB"
     },
     {
       "added_at": "2023-05-12 08:18:27",
@@ -1959,22 +1975,6 @@
       "duration_ms": 203320,
       "name": "Don't Walk Away",
       "url": "https://open.spotify.com/track/5wuV0R9HBRuz01Vd8ZFJoE"
-    },
-    {
-      "added_at": "2023-05-12 08:18:27",
-      "album": {
-        "name": "Ticket To Shangri-La",
-        "url": "https://open.spotify.com/album/1RnES2KkMW6gEwRkhy53Xx"
-      },
-      "artists": [
-        {
-          "name": "Young Gun Silver Fox",
-          "url": "https://open.spotify.com/artist/3qQloBz05T6e0rKubNCmjG"
-        }
-      ],
-      "duration_ms": 223720,
-      "name": "Rolling Back",
-      "url": "https://open.spotify.com/track/1irJhcpldknFoEzcqO75qB"
     },
     {
       "added_at": "2023-05-12 08:18:27",
@@ -2027,34 +2027,6 @@
       "duration_ms": 195257,
       "name": "All Night",
       "url": "https://open.spotify.com/track/5wAdIhCznqx3rrDrKzjb2k"
-    },
-    {
-      "added_at": "2023-05-12 08:18:27",
-      "album": {
-        "name": "Favorite Girl",
-        "url": "https://open.spotify.com/album/3w3rOwm4VK2loLrcinKRTx"
-      },
-      "artists": [
-        {
-          "name": "Souldrippin",
-          "url": "https://open.spotify.com/artist/1b0D9jgh2pJtPsKjU1gyS5"
-        },
-        {
-          "name": "Brownie Dutch",
-          "url": "https://open.spotify.com/artist/3I5bcZ9sKB87Nftg0uXad0"
-        },
-        {
-          "name": "Hari Loco",
-          "url": "https://open.spotify.com/artist/3nPiCfsgxJlJAkdPPVG2hQ"
-        },
-        {
-          "name": "Darius Dante",
-          "url": "https://open.spotify.com/artist/1QCRuNTOqoXVN7F39fWxz5"
-        }
-      ],
-      "duration_ms": 179427,
-      "name": "Favorite Girl",
-      "url": "https://open.spotify.com/track/4wUE9MM4XiwZ6mnw2LQQop"
     },
     {
       "added_at": "2023-05-12 08:18:27",
@@ -2115,6 +2087,34 @@
       "duration_ms": 226764,
       "name": "All for Love",
       "url": "https://open.spotify.com/track/7hlqAK5plYyDE19DwtlXVG"
+    },
+    {
+      "added_at": "2023-05-12 08:18:27",
+      "album": {
+        "name": "Favorite Girl",
+        "url": "https://open.spotify.com/album/3w3rOwm4VK2loLrcinKRTx"
+      },
+      "artists": [
+        {
+          "name": "Souldrippin",
+          "url": "https://open.spotify.com/artist/1b0D9jgh2pJtPsKjU1gyS5"
+        },
+        {
+          "name": "Brownie Dutch",
+          "url": "https://open.spotify.com/artist/3I5bcZ9sKB87Nftg0uXad0"
+        },
+        {
+          "name": "Hari Loco",
+          "url": "https://open.spotify.com/artist/3nPiCfsgxJlJAkdPPVG2hQ"
+        },
+        {
+          "name": "Darius Dante",
+          "url": "https://open.spotify.com/artist/1QCRuNTOqoXVN7F39fWxz5"
+        }
+      ],
+      "duration_ms": 179427,
+      "name": "Favorite Girl",
+      "url": "https://open.spotify.com/track/4wUE9MM4XiwZ6mnw2LQQop"
     },
     {
       "added_at": "2023-05-12 08:18:27",

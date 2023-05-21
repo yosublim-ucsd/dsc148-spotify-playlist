@@ -4,7 +4,7 @@
 
 > Hits con sabor\. Cover: Becky G & Omega
 
-276 songs - 17 hr 58 min
+277 songs - 18 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,7 +27,7 @@
 | [Ateo](https://open.spotify.com/track/5xiAfKzE3mbxYbOkUZPR11) | [C\. Tangana](https://open.spotify.com/artist/5TYxZTjIPqKM8K8NuP9woO), [NATHY PELUSO](https://open.spotify.com/artist/3VHAySZQPlfGlNLslzXYpN) | [Ateo](https://open.spotify.com/album/6Re7sviVustR53KeArspwK) | 3:59 | 2022-02-14 |  |
 | [atravesao](https://open.spotify.com/track/00HU2RYUeBcOVJPbdOtdJ2) | [Elsa y Elmar](https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy) | [atravesao](https://open.spotify.com/album/2NQf4yrGL2SCUFvOYIKdFr) | 3:20 | 2022-02-14 |  |
 | [Aventurero](https://open.spotify.com/track/5nwKrZxqJST4jFgYf9TuBx) | [Frank Reyes](https://open.spotify.com/artist/4vQV1LCGBdYAt5rIIPjSFZ) | [Aventurero](https://open.spotify.com/album/26dpAQy9hpsW0bIiA0FSdb) | 3:29 | 2021-12-03 | 2022-02-12 |
-| [Aventurero](https://open.spotify.com/track/6dapTo2nYV7SdoyaJLpJWI) | [Frank Reyes](https://open.spotify.com/artist/4vQV1LCGBdYAt5rIIPjSFZ) | [Aventurero](https://open.spotify.com/album/4PWYXJGUP9s8qNWJMCRl4s) | 3:29 | 2022-02-14 |  |
+| [Aventurero](https://open.spotify.com/track/6dapTo2nYV7SdoyaJLpJWI) | [Frank Reyes](https://open.spotify.com/artist/4vQV1LCGBdYAt5rIIPjSFZ) | [Aventurero](https://open.spotify.com/album/4PWYXJGUP9s8qNWJMCRl4s) | 3:29 | 2022-02-14 | 2023-05-21 |
 | [Ayer Me Llamó Mi Ex – Remix](https://open.spotify.com/track/59nnGpAU3AiL2tD0o2It11) | [KHEA](https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR), [NATTI NATASHA](https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7), [Prince Royce](https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC), [Lenny Santos](https://open.spotify.com/artist/4bODqflR0Wo3i3fCwwCIPq) | [Ayer Me Llamó Mi Ex – Remix](https://open.spotify.com/album/1Sgw2Rij4RGIzFzZK2oKWE) | 4:16 | 2022-02-14 |  |
 | [Añoranza](https://open.spotify.com/track/20rgOJWz8xHUn75OtCYsde) | [Luis Enrique](https://open.spotify.com/artist/2mUI4K6csTQd3jieswcmiI), [C4 Trío](https://open.spotify.com/artist/316XlJTSEuNi2LaH6I2x7y) | [Tiempo Al Tiempo](https://open.spotify.com/album/6mJu7gLuQ4nHVNrwc0Zgkx) | 4:51 | 2021-12-03 | 2022-02-14 |
 | [Años Luz](https://open.spotify.com/track/6hwmqR7uQhytLnJzt1RVPF) | [Romeo Santos](https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP), [Monchy & Alexandra](https://open.spotify.com/artist/3rs3EOlJ8jyPpdGiQ9Mhub) | [Utopia](https://open.spotify.com/album/1yM8iaMk4Slsqr94LabgN1) | 3:40 | 2021-12-03 | 2022-02-15 |
@@ -231,6 +231,7 @@
 | [Sopita](https://open.spotify.com/track/4eXzQyAZ4jow5Hh41vqfgb) | [KYEN?ES?](https://open.spotify.com/artist/7clZc3rkBtBtHiZtwmkXXx), [Maffio](https://open.spotify.com/artist/5RzT7CM6Ot0sh0EHefMicV) | [Sopita](https://open.spotify.com/album/7aeqawsfMYRteFQJ3Srl5I) | 3:26 | 2023-03-17 |  |
 | [Soy Cordobés](https://open.spotify.com/track/1jJ6OaUu1suh9XLERl2cf6) | [Rodrigo](https://open.spotify.com/artist/235Vf4hkmwvxjVEMuCbRxm), [Carlos Vives](https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr) | [Soy Cordobés](https://open.spotify.com/album/2jLMR6wpMR1OX3GSgr0qOD) | 5:14 | 2021-12-03 | 2022-08-01 |
 | [Soy Yo](https://open.spotify.com/track/20Ca0pIyUwu9jIUJ2sr5cg) | [Don Omar](https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z), [Wisin](https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz), [Gente De Zona](https://open.spotify.com/artist/2cy1zPcrFcXAJTP0APWewL) | [Soy Yo](https://open.spotify.com/album/7JuLd58gOTogWvAwNyYggp) | 3:38 | 2022-04-29 | 2023-05-11 |
+| [Soy Yo](https://open.spotify.com/track/4qREGoj96edc3P6N3gHHyr) | [Don Omar](https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z), [Wisin](https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz), [Gente De Zona](https://open.spotify.com/artist/2cy1zPcrFcXAJTP0APWewL) | [Soy Yo](https://open.spotify.com/album/6kzYInv46fwDqyazbbS1DX) | 3:38 | 2023-05-19 |  |
 | [Soy Yo](https://open.spotify.com/track/1siATRpCTikt3dpJiBonfk) | [Marc Anthony](https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6) | [OPUS](https://open.spotify.com/album/0iSDto0c8PqIKtwrYS4lbh) | 4:50 | 2021-12-03 | 2022-07-29 |
 | [Sus Huellas](https://open.spotify.com/track/2NTMjOwveAazm5GS2wgDgw) | [Romeo Santos](https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP) | [Sus Huellas](https://open.spotify.com/album/3dlSb1l960OG7kjmPvirXU) | 3:36 | 2022-02-14 |  |
 | [Talento De Televisión](https://open.spotify.com/track/3fRIuTih8bzc0vtY9fHhvF) | [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW) | [Mis Favoritas](https://open.spotify.com/album/44rPp1bnN1eL9ld3QE1t9c) | 4:39 | 2021-12-03 | 2022-02-15 |

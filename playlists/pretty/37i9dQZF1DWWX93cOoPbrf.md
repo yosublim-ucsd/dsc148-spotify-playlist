@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWX93cOoPbrf.md) - [plain]
 
 > Lo más fresco de la cosecha 2023\. Uriel Gaxiola & Gabito Ballesteros en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 182,094 likes - 75 songs - 3 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 182,409 likes - 75 songs - 3 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWX93cOoPbrf.md) - [plain]
 | 22 | [Rallitas](https://open.spotify.com/track/7uKnNcDwCQuTLueUAOuLol) | [Alto Linaje](https://open.spotify.com/artist/5fUua1kfdZhAopUPazcdC5) | [Rallitas](https://open.spotify.com/album/1ekk0C8yyIKpqlJvQAJC4G) | 3:39 |
 | 23 | [La Changa](https://open.spotify.com/track/2YgkAmmy6295Gibb5GyBhP) | [Los Farmerz](https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a) | [La Changa](https://open.spotify.com/album/5mJ1qmtxHAhEt6kMs4JtDU) | 3:22 |
 | 24 | [¿Cuáles Fronteras?](https://open.spotify.com/track/4qgHbVa7Zo8S3bIQvvD99s) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh), [Ice Cube](https://open.spotify.com/artist/3Mcii5XWf6E0lrY3Uky4cA) | [¿Cuáles Fronteras?](https://open.spotify.com/album/5lQ2Fyn2SW8Qe2FpTpikKn) | 3:00 |
-| 25 | [Pariente](https://open.spotify.com/track/6iqJbVamMn0NbwuZksgd87) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [Pariente](https://open.spotify.com/album/6IMsNvJL8JDEBrhZqjzO8U) | 3:04 |
+| 25 | [Pariente](https://open.spotify.com/track/6iqJbVamMn0NbwuZksgd87) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [Pariente \(feat\. Myke Towers\)](https://open.spotify.com/album/6IMsNvJL8JDEBrhZqjzO8U) | 3:04 |
 | 26 | [Duro Le Chingamos](https://open.spotify.com/track/3QmhokuGV0SJeVExRiVybT) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Duro Le Chingamos](https://open.spotify.com/album/3fyvcS54kHLuEpxwG3d2UV) | 2:27 |
 | 27 | [La Voladora](https://open.spotify.com/track/7FRGDHMVFd3r8dxFzu2xed) | [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0), [Larry Hernández](https://open.spotify.com/artist/6djNDzSg08mnh2Ayoh6Ovn) | [La Voladora](https://open.spotify.com/album/4SnkVoszi7UkF2KhTG6aLM) | 2:33 |
 | 28 | [Los Hermanos](https://open.spotify.com/track/3ZAWnRZ9STLvBSBxoheC9H) | [Codiciado](https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4) | [Los Hermanos](https://open.spotify.com/album/0old6hxis8rO7QgKH7Rw5d) | 3:37 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWX93cOoPbrf.md) - [plain]
 | 74 | [Un Tabaco \(En Vivo\)](https://open.spotify.com/track/05NN4cZFCLQqUc9RcTRq4W) | [Juanpa Salazar](https://open.spotify.com/artist/6r92NGrlnmNvFJA9Kl0PAx) | [Un Tabaco \(En Vivo\)](https://open.spotify.com/album/5ku3Uwsk2Pe2lX41sJGn1p) | 3:27 |
 | 75 | [La Gracia Del Payaso](https://open.spotify.com/track/0vY2WrqD7slfwoEhyWyfYF) | [Herencia De Grandes](https://open.spotify.com/artist/0ocHleb3SllGNQQcDH35Xz) | [La Gracia Del Payaso](https://open.spotify.com/album/3UEIuLeq7XmginTTo474XJ) | 2:14 |
 
-Snapshot ID: `MCw1ZDczNjdmNzQ5MDdhNzYyYTQ4MDc4NjgyMTJmM2Y1MDYzZmI5YmVi`
+Snapshot ID: `MCwyZjhmZGRmMjE3OGQyMDU1YTk5YjA2YzU3ZGEwNGE0NTRhNDViYzVj`

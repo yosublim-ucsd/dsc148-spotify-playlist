@@ -2,9 +2,9 @@
 
 ### [R&B Weekly](https://open.spotify.com/playlist/37i9dQZF1DWUzFXarNiofw)
 
-> The newest r&b drops, every week\. Cover: NxWorries
+> The newest r&b drops, every week\. Cover: Beyoncé
 
-1,060 songs - 2 day 8 hr 41 min
+1,061 songs - 2 day 8 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,6 +57,7 @@
 | [Always Something](https://open.spotify.com/track/6JjmyW2TXtFq4Ahus1NtSh) | [Inayah](https://open.spotify.com/artist/2jomvyAKdqYYimeLl3XcdZ) | [Always Something](https://open.spotify.com/album/0xOoh7aRklDnsm8Zfrlc9k) | 2:49 | 2022-05-13 | 2022-06-11 |
 | [AM/FM](https://open.spotify.com/track/5PCW8qWmZfqBhs5UmuG5wU) | [rum.gold](https://open.spotify.com/artist/4mErKO4g29SXtBwj4S80aB) | [AM/FM](https://open.spotify.com/album/5C7wsbtvtoVg24iVKGqSD1) | 2:45 | 2023-04-14 |  |
 | [Amazing \(feat\. DJ Khaled\)](https://open.spotify.com/track/2vjsCzLbe7ZPuTIdN8s4E4) | [Mary J\. Blige](https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr), [DJ Khaled](https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP) | [Amazing \(feat\. DJ Khaled\)](https://open.spotify.com/album/31TqUAM6UmJdKnmkJUTmJi) | 2:40 | 2021-12-17 | 2022-02-19 |
+| [AMERICA HAS A PROBLEM \(feat\. Kendrick Lamar\)](https://open.spotify.com/track/6l8mgVN9Xf1hiDIFGA6CTE) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m), [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [AMERICA HAS A PROBLEM \(feat\. Kendrick Lamar\)](https://open.spotify.com/album/2x4aShbWkdZ1h8sfO23yZN) | 4:20 | 2023-05-20 |  |
 | [ANGEL](https://open.spotify.com/track/30s0R1Kz4E3yIDaZFxvTwc) | [C.S\. Armstrong](https://open.spotify.com/artist/6MxR3Hjf2uTSew9wmKbOwO) | [THE SOUTHWESTERN LOVE SONGS](https://open.spotify.com/album/5bEzUVfVCPMcVI1WQ4iMyM) | 3:28 | 2023-04-28 |  |
 | [Angel](https://open.spotify.com/track/1C8V8IPSb9pL3VErlpsi61) | [Natanya](https://open.spotify.com/artist/4QlEFh3gBGqmboPVc7AwUp) | [Angel](https://open.spotify.com/album/5j1kmevKyjTBSlS6x3xzLJ) | 3:21 | 2023-05-12 |  |
 | [Angel](https://open.spotify.com/track/3WSRFKYZ9PmoFsfHb3vE3V) | [SAULT](https://open.spotify.com/artist/1uRxRKC7d9zwYGSRflTKDR) | [Angel](https://open.spotify.com/album/3b4R5cIr9AuzhOeqxTIsyc) | 10:10 | 2022-10-14 | 2022-10-29 |
@@ -990,7 +991,7 @@
 | [Vibe Like This \(feat\. Ty Dolla $ign & Lucky Daye\)](https://open.spotify.com/track/3e4QIt4wVVqsCqMqKxOrZd) | [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq), [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [Vibe Like This \(feat\. Ty Dolla $ign & Lucky Daye\)](https://open.spotify.com/album/5m1gDbNlYsrXH42XLeDE05) | 3:47 | 2022-09-23 | 2022-11-05 |
 | [VICES](https://open.spotify.com/track/1CfVpNo9PPCdv8akjNVBWQ) | [Josh Levi](https://open.spotify.com/artist/6NvsNA4Ea62yJh7ePTS8gz) | [VICES](https://open.spotify.com/album/1i2GJKmbbcSz8cMeSV7BPZ) | 3:03 | 2022-04-22 | 2022-05-21 |
 | [Void](https://open.spotify.com/track/1KpTRAQKZuZS21myWlTuRu) | [Kaleem Taylor](https://open.spotify.com/artist/4eQKo2fvEqEbdopHhSjlug) | [Ember](https://open.spotify.com/album/4TdkbM2pBTKg4mKppswtyN) | 3:16 | 2023-03-24 |  |
-| [W8](https://open.spotify.com/track/2Bpky4PIUsFM5RetNZk1w1) | [Avery\*Sunshine](https://open.spotify.com/artist/4yMxdaUoKCalQPX9BMeeFf), [DrewTheRew](https://open.spotify.com/artist/6v88vKZue57e76Pes3aZkv) | [W8](https://open.spotify.com/album/570MYwKWpYzH9WDITiHcb7) | 3:40 | 2023-04-14 |  |
+| [W8](https://open.spotify.com/track/2Bpky4PIUsFM5RetNZk1w1) | [Avery\*Sunshine](https://open.spotify.com/artist/4yMxdaUoKCalQPX9BMeeFf), [DrewTheRew](https://open.spotify.com/artist/6v88vKZue57e76Pes3aZkv) | [W8](https://open.spotify.com/album/570MYwKWpYzH9WDITiHcb7) | 3:40 | 2023-04-14 | 2023-05-21 |
 | [Wait On Me](https://open.spotify.com/track/1p1wnXfPEaVrMqk2tEZ2BH) | [THEY.](https://open.spotify.com/artist/0pghUohLPptZWBasy2wmUx), [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Nü Moon](https://open.spotify.com/album/1l9aiypXkyhJx58NTJQz6O) | 3:20 | 2023-04-07 |  |
 | [Walk Through The Fire \(feat\. Ne\-Yo\)](https://open.spotify.com/track/0Abt1QbqiLu45RN3VPECM6) | [Yung Bleu](https://open.spotify.com/artist/3KNIG74xSTc3dj0TRy7pGX), [Ne\-Yo](https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj) | [Walk Through The Fire \(feat\. Ne\-Yo\)](https://open.spotify.com/album/6mOgBsnfslEZnkdfbUYp2K) | 3:19 | 2022-01-21 | 2022-02-26 |
 | [Wanna Love You](https://open.spotify.com/track/09xccZVuNwd9vP7abwZkyu) | [Otis Kane](https://open.spotify.com/artist/2rp9zfs7yPrwCGVl4CjWAl) | [Wanna Love You](https://open.spotify.com/album/2ROfHzFMBfzgvx6IsQIgZB) | 2:50 | 2022-02-18 | 2022-03-26 |

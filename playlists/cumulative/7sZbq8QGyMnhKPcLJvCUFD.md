@@ -4,7 +4,7 @@
 
 > The best NCS songs that are copyright free and safe music for gaming, live streaming, studying\. Official playlist from NoCopyrightSounds\. Cover: Alan Walker
 
-270 songs - 13 hr 37 min
+273 songs - 13 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [A&B](https://open.spotify.com/track/5sM48Id41SNoq8zCz34UXH) | [MADZI](https://open.spotify.com/artist/3TfYPq0TUpyzE2QR4iEU8K), [ETikka](https://open.spotify.com/artist/1t7Nxks2dmfdKs8glkgDqt) | [A&B](https://open.spotify.com/album/0VRbQuoZhwN35U6SlTkLMc) | 2:56 | 2023-04-26 |  |
 | [About Me](https://open.spotify.com/track/3OgRWuUOktuBGTING1oPld) | [Koven](https://open.spotify.com/artist/3UCbp6D1lvILlxRJT9LnFa), [ROY KNOX](https://open.spotify.com/artist/6rADW3yvxPKpxWuNUKEed3) | [About Me](https://open.spotify.com/album/3c1nWchd1tZcxdaamK3Q7D) | 2:34 | 2022-06-23 | 2023-04-28 |
 | [Alive](https://open.spotify.com/track/4T1N8cti8aQkYs9IjQn59H) | [PLEEG](https://open.spotify.com/artist/3MkeTsrl25IDTkRHOLLU5R) | [Alive](https://open.spotify.com/album/4EGBOOZGqeV1Rb5ScjvHuH) | 2:40 | 2023-01-10 | 2023-04-28 |
+| [Alive](https://open.spotify.com/track/7GCln9p45XDwJeQ7qykGVu) | [Thorne](https://open.spotify.com/artist/03SaLEDbLBTYkO0sSyN791), [iFeature](https://open.spotify.com/artist/1NkeIgGpORkhxCUluCnnFT) | [Alive](https://open.spotify.com/album/0apwIZ3lquYGdDgCLntSmG) | 2:56 | 2023-05-19 |  |
 | [All Access](https://open.spotify.com/track/77PGjBzaXsRnmuxV9tBLU3) | [JOXION](https://open.spotify.com/artist/4c0rN45hGTsmOVu0qg5x6U) | [All Access](https://open.spotify.com/album/151Lb7EhuJUIfFTLWkeuI4) | 2:41 | 2022-10-05 | 2023-04-28 |
 | [All Night](https://open.spotify.com/track/31KAh8M3Oo2ojqV3fY0xFa) | [Toxic Joy](https://open.spotify.com/artist/6MS6Rb2iRyXYFpHyT0B5to) | [All Night](https://open.spotify.com/album/7aMZWSmXeJEqU7RMLxALvc) | 2:36 | 2023-04-22 |  |
 | [Alone](https://open.spotify.com/track/1HynKU9h7mM3nhtLlnVDFu) | [BEAUZ](https://open.spotify.com/artist/2Wzb0u138rgoZQTK3ytknT), [Heleen](https://open.spotify.com/artist/71GRU9wS94BTdNwQWRMJV6) | [Alone](https://open.spotify.com/album/6lfzz0LHtj7dVCeidrcGoX) | 2:37 | 2022-12-09 | 2023-04-28 |
@@ -119,6 +120,7 @@
 | [Haunted House](https://open.spotify.com/track/6wrRfGqlmuxCyPcmOWeM75) | [Neoni](https://open.spotify.com/artist/38wxcfNEqMwuPniHvplin5) | [Haunted House](https://open.spotify.com/album/3R4cOBC9K3eOK0twwHk7Zc) | 3:01 | 2022-03-11 |  |
 | [Heart Robbery](https://open.spotify.com/track/51I95Yhf3siwoQBpBUY5p6) | [Harddope](https://open.spotify.com/artist/0wfl4Df1okXQp1cCxkHo6E) | [Heart Robbery](https://open.spotify.com/album/7IXYVtzISSM1SzL9Xywie8) | 3:29 | 2023-02-22 |  |
 | [Heaven Knows](https://open.spotify.com/track/4vmOIctOvLOEH4744M9rCu) | [Vizzen](https://open.spotify.com/artist/0EKwbldduMcVWub0o2V5e5), [Protolizard](https://open.spotify.com/artist/7nlh1D3MwQ7LOIcCD6jFya) | [Heaven Knows](https://open.spotify.com/album/5yGK4IS1eeotZoaFnG2mFX) | 2:57 | 2023-02-28 |  |
+| [high4aminute](https://open.spotify.com/track/30yzZdUB2IwJBPHT75z6wN) | [Raude](https://open.spotify.com/artist/53OGD4I8jF4rxTyEquy1WZ) | [high4aminute](https://open.spotify.com/album/0zpzJJy4JNWcFQPMwLQPD3) | 1:48 | 2023-05-19 |  |
 | [Home](https://open.spotify.com/track/1b8pnOzyvGcV2mkTyb7DMg) | [PLEEG](https://open.spotify.com/artist/3MkeTsrl25IDTkRHOLLU5R) | [Home](https://open.spotify.com/album/6Ylx3tJ8nATOEKSXGoybHH) | 2:49 | 2022-09-15 |  |
 | [Hurt Me](https://open.spotify.com/track/7IT4rIcgqQ3XjCOgp5a82V) | [Evanly](https://open.spotify.com/artist/7HQ2jxEKsBZjF78Vd8sUFu) | [Hurt Me](https://open.spotify.com/album/6Z8I2YQa7kgdeJ4XFM2Z6c) | 2:12 | 2022-05-31 | 2023-04-28 |
 | [Hyperphantasia](https://open.spotify.com/track/5jXJR2v7l3fzAooJQlAGrm) | [Everen Maxwell](https://open.spotify.com/artist/23kOQsgl3Wmza7ppIaq0SB) | [Hyperphantasia](https://open.spotify.com/album/4QE2gQnuibf71b7JcupHbp) | 3:58 | 2022-07-01 | 2023-04-28 |
@@ -149,6 +151,7 @@
 | [Like You](https://open.spotify.com/track/46Ovm5iZ1gL10LpmA5p5xt) | [MILANE](https://open.spotify.com/artist/0z2OtfZd64An27e6rvWPpm), [Greg Aven](https://open.spotify.com/artist/5Zi4sxxjUo0cgzcMrpUIhc) | [Like You](https://open.spotify.com/album/1ZcPQjNXSrV8DBF47vABNg) | 2:30 | 2022-04-19 | 2023-04-28 |
 | [Losing](https://open.spotify.com/track/5fXAhP6h0oEd4vkQ93c0hi) | [jeonghyeon](https://open.spotify.com/artist/6sxcddx1xFwv0MblwbXNVq), [Arya](https://open.spotify.com/artist/5O2s6fRMqbwIKGB9QrFrBQ) | [Losing](https://open.spotify.com/album/0DBKauq7473ZXa49DN6Mad) | 2:41 | 2022-12-08 |  |
 | [Lost](https://open.spotify.com/track/5hOe51orNiMhr6kDgJXFkf) | [Andrew A](https://open.spotify.com/artist/01BNEFdzawMyAXoHVdtyPx), [VIANI](https://open.spotify.com/artist/3qGToEQXzaFZGBZoCHqQN2) | [Lost](https://open.spotify.com/album/24P0Q4kK2uSvzWOIRu5oKD) | 2:52 | 2023-01-20 | 2023-04-28 |
+| [Lost In The Middle](https://open.spotify.com/track/73Ir0ULVmuRYLlg9MH4yYG) | [T & Sugah](https://open.spotify.com/artist/6jsS2mOTAxVrlSUWiPLXpH), [Mara Necia](https://open.spotify.com/artist/7GmAxuHGS4ySjZecLjWgfE) | [Lost In The Middle](https://open.spotify.com/album/38GI8CmepSQ8Pfihwhk3dN) | 4:02 | 2023-05-19 |  |
 | [Lost Without You](https://open.spotify.com/track/229ZrydmFXZ22CkZTJx8Wn) | [Millbrook](https://open.spotify.com/artist/5yd0a8BOCNke9EhV2ynQOm), [Felix Samuel](https://open.spotify.com/artist/2FMdAViOScZVhMjAunoYNK) | [Lost Without You](https://open.spotify.com/album/6QTpinuLRrO0P9cV8ZJCSx) | 3:44 | 2022-03-24 | 2023-04-28 |
 | [Make Waves](https://open.spotify.com/track/3gzZPhXOL166nTTaEwqI4c) | [ReauBeau](https://open.spotify.com/artist/5fKpGPlcEvjFMDDWDKniND), [Brynja Mary](https://open.spotify.com/artist/0WuACeytMF6zC8L8prNB0y) | [Make Waves](https://open.spotify.com/album/60aJkIg8ZAtPDMBbvrqAfM) | 3:09 | 2023-02-16 |  |
 | [Me Times Two](https://open.spotify.com/track/5TrA3Iopc6I2PbwGTKv9m8) | [Raptures.](https://open.spotify.com/artist/37H2zWHT07jLwDF8ddpu6m), [Moav](https://open.spotify.com/artist/5zRUR3UaVa9rcJTZumB4cr) | [Me Times Two](https://open.spotify.com/album/3Q7jmemejSYfJxeHz7plfZ) | 2:52 | 2022-07-14 | 2023-04-28 |

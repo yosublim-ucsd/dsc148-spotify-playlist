@@ -1,12 +1,12 @@
 {
   "description": "Hit the road and scream your heart out!",
-  "num_followers": 630241,
+  "num_followers": 630878,
   "original_name": "Highway to Yell",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlYmU1NDdkNzllZTc2ZDY2ZGY2ZjlhMjliYjgwNTA3MDAwNmEzNDVl",
+  "snapshot_id": "MCwzZTBlMjE2ZDE5ZjdlMGM3NjVjMGY5ZDk3MGE2Zjg2ODc5YzYzMTMz",
   "tracks": [
     {
       "added_at": "2023-03-13 17:39:55",
@@ -315,22 +315,6 @@
     {
       "added_at": "2023-03-13 17:39:55",
       "album": {
-        "name": "Love At First Sting",
-        "url": "https://open.spotify.com/album/71cfSO0iO1fjgQLEb3Wc6C"
-      },
-      "artists": [
-        {
-          "name": "Scorpions",
-          "url": "https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY"
-        }
-      ],
-      "duration_ms": 252493,
-      "name": "Rock You Like A Hurricane",
-      "url": "https://open.spotify.com/track/58XWGx7KNNkKneHdprcprX"
-    },
-    {
-      "added_at": "2023-03-13 17:39:55",
-      "album": {
         "name": "Ramones (40th Anniversary Deluxe Edition; 2016 Remaster)",
         "url": "https://open.spotify.com/album/5uYDAwW0SZgcfOFkxrST64"
       },
@@ -343,6 +327,22 @@
       "duration_ms": 134466,
       "name": "Blitzkrieg Bop - 2016 Remaster",
       "url": "https://open.spotify.com/track/4KcH1ZRV2W1q7Flq0QqC76"
+    },
+    {
+      "added_at": "2023-03-13 17:39:55",
+      "album": {
+        "name": "Love At First Sting",
+        "url": "https://open.spotify.com/album/71cfSO0iO1fjgQLEb3Wc6C"
+      },
+      "artists": [
+        {
+          "name": "Scorpions",
+          "url": "https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY"
+        }
+      ],
+      "duration_ms": 252493,
+      "name": "Rock You Like A Hurricane",
+      "url": "https://open.spotify.com/track/58XWGx7KNNkKneHdprcprX"
     },
     {
       "added_at": "2023-03-13 17:39:55",
@@ -799,6 +799,22 @@
     {
       "added_at": "2023-03-13 17:39:55",
       "album": {
+        "name": "Highway to Hell",
+        "url": "https://open.spotify.com/album/10v912xgTZbjAtYfyKWJCS"
+      },
+      "artists": [
+        {
+          "name": "AC/DC",
+          "url": "https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un"
+        }
+      ],
+      "duration_ms": 203293,
+      "name": "Girls Got Rhythm",
+      "url": "https://open.spotify.com/track/6Wn3pdFtAcnYJyJVITwt7N"
+    },
+    {
+      "added_at": "2023-03-13 17:39:55",
+      "album": {
         "name": "When Legends Rise",
         "url": "https://open.spotify.com/album/1n5bxxxowQ8ufvx2DXKeEV"
       },
@@ -827,22 +843,6 @@
       "duration_ms": 187120,
       "name": "Go With The Flow",
       "url": "https://open.spotify.com/track/45DElIx0dXqUH4A88yQFdE"
-    },
-    {
-      "added_at": "2023-03-13 17:39:55",
-      "album": {
-        "name": "Highway to Hell",
-        "url": "https://open.spotify.com/album/10v912xgTZbjAtYfyKWJCS"
-      },
-      "artists": [
-        {
-          "name": "AC/DC",
-          "url": "https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un"
-        }
-      ],
-      "duration_ms": 203293,
-      "name": "Girls Got Rhythm",
-      "url": "https://open.spotify.com/track/6Wn3pdFtAcnYJyJVITwt7N"
     },
     {
       "added_at": "2023-03-13 17:39:55",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2023-03-13 17:39:55",
       "album": {
-        "name": "Shot In The Dark",
-        "url": "https://open.spotify.com/album/1Rz3Q2PIhrCs21itNShUxB"
-      },
-      "artists": [
-        {
-          "name": "AC/DC",
-          "url": "https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un"
-        }
-      ],
-      "duration_ms": 185133,
-      "name": "Shot In The Dark",
-      "url": "https://open.spotify.com/track/6ZtrGCcn38kGImt2GPFbJB"
-    },
-    {
-      "added_at": "2023-03-13 17:39:55",
-      "album": {
         "name": "Paradigm",
         "url": "https://open.spotify.com/album/0WxqXKlhcm6ktQMFJ0emiZ"
       },
@@ -1051,6 +1035,22 @@
       "duration_ms": 191669,
       "name": "Viva La Victoria",
       "url": "https://open.spotify.com/track/2MC57MCOiCz2UGskL2uCVF"
+    },
+    {
+      "added_at": "2023-03-13 17:39:55",
+      "album": {
+        "name": "Shot In The Dark",
+        "url": "https://open.spotify.com/album/1Rz3Q2PIhrCs21itNShUxB"
+      },
+      "artists": [
+        {
+          "name": "AC/DC",
+          "url": "https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un"
+        }
+      ],
+      "duration_ms": 185133,
+      "name": "Shot In The Dark",
+      "url": "https://open.spotify.com/track/6ZtrGCcn38kGImt2GPFbJB"
     },
     {
       "added_at": "2023-03-13 17:39:55",
@@ -1179,6 +1179,22 @@
     {
       "added_at": "2023-03-13 17:39:55",
       "album": {
+        "name": "Breakin' Outta Hell",
+        "url": "https://open.spotify.com/album/6zg7O8iR0ODT7pDibI3vfd"
+      },
+      "artists": [
+        {
+          "name": "Airbourne",
+          "url": "https://open.spotify.com/artist/6urzdpGY5yUimWZsgJUoTb"
+        }
+      ],
+      "duration_ms": 232425,
+      "name": "Breakin' Outta Hell",
+      "url": "https://open.spotify.com/track/08irH52vpSQqYM8ckrsZqg"
+    },
+    {
+      "added_at": "2023-03-13 17:39:55",
+      "album": {
         "name": "Breathe Again",
         "url": "https://open.spotify.com/album/5S9HFBNWUGkRsurXXB6O0m"
       },
@@ -1207,22 +1223,6 @@
       "duration_ms": 247895,
       "name": "Step Aside",
       "url": "https://open.spotify.com/track/5hmAx18RDdlqvN1ikcPCC1"
-    },
-    {
-      "added_at": "2023-03-13 17:39:55",
-      "album": {
-        "name": "Erase You",
-        "url": "https://open.spotify.com/album/40MZW6y8j9zJLyyB946IKH"
-      },
-      "artists": [
-        {
-          "name": "Bleeker",
-          "url": "https://open.spotify.com/artist/64tT0KKbU4AFWkO6v1VvXv"
-        }
-      ],
-      "duration_ms": 201680,
-      "name": "Highway",
-      "url": "https://open.spotify.com/track/7aQT5OB4zEgyyxfRDbOBIt"
     }
   ],
   "unique_name": "Highway to Yell",

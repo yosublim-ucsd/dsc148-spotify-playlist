@@ -4,7 +4,7 @@
 
 > Beyond genre, beyond language, beyond borders\. Cover: grentperez.
 
-681 songs - 1 day 13 hr 17 min
+682 songs - 1 day 13 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -83,7 +83,8 @@
 | [can't let u go](https://open.spotify.com/track/2s47R9iLqKMrWP1MRlCECR) | [Varis](https://open.spotify.com/artist/53DTvTbpR2jK1KUrR13431) | [can't let u go](https://open.spotify.com/album/3mqlAbCCSvRMwGspNvXVpD) | 3:45 | 2022-02-04 | 2022-03-19 |
 | [Can’t Get Over Myself \- feat\. Zuma.](https://open.spotify.com/track/2BQhm7S8FL2B1bdq0IlRKo) | [Otomodatchi](https://open.spotify.com/artist/1YtYMJNUVAW60TKtwu6PQj), [Amiide](https://open.spotify.com/artist/7BKuLuQjskBFEVCk3JlDGR), [Jyodan](https://open.spotify.com/artist/7n0YtK7gMQVm6XPELdDFG6), [Zuma.](https://open.spotify.com/artist/5njJbzFJ6lY7tq7ZiuFZX5) | [Can’t Get Over Myself \(feat\. Zuma.\)](https://open.spotify.com/album/3R5j05cIiE1DmVu2DwYjai) | 3:20 | 2023-04-28 |  |
 | [Carillon](https://open.spotify.com/track/5y56Tx9WJ6YvNC9WBaEDND) | [FLORA](https://open.spotify.com/artist/1Dj2I2i4eF3Fznn8Lbzirs) | [Retrò](https://open.spotify.com/album/2MKsrra3k7cppOOp9Ncm86) | 3:33 | 2022-12-19 | 2023-01-28 |
-| [Carry On](https://open.spotify.com/track/7DCUovUQQadbbid2HGF7ae) | [Summer Salt](https://open.spotify.com/artist/3MATPJ9tYbcMhw5VOZrRU6) | [Carry On](https://open.spotify.com/album/6X6fxlY1QU0ZUfeJ5sdzt3) | 2:51 | 2023-05-05 |  |
+| [Carry On](https://open.spotify.com/track/5rvc8Bi2rNLRHIU1zPJG1v) | [Summer Salt](https://open.spotify.com/artist/3MATPJ9tYbcMhw5VOZrRU6) | [Campanita](https://open.spotify.com/album/41FeoNfcFYVQfGSTJkcC5W) | 2:51 | 2023-05-19 |  |
+| [Carry On](https://open.spotify.com/track/7DCUovUQQadbbid2HGF7ae) | [Summer Salt](https://open.spotify.com/artist/3MATPJ9tYbcMhw5VOZrRU6) | [Carry On](https://open.spotify.com/album/6X6fxlY1QU0ZUfeJ5sdzt3) | 2:51 | 2023-05-05 | 2023-05-21 |
 | [Cartoon Earthquake \- Spotify Singles](https://open.spotify.com/track/31Xrzr7jkdFQDLnfLzVAjh) | [Blondshell](https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij) | [Cartoon Earthquake \- Spotify Singles](https://open.spotify.com/album/0ujNd7WjAj2jqv6OjmJzv1) | 3:25 | 2022-10-21 | 2023-03-11 |
 | [Casino](https://open.spotify.com/track/4ezu1njO7VtPQuxNC9vlb9) | [Eira](https://open.spotify.com/artist/2Wxv0u0QvT9nBcdRxv6G9v) | [Casino](https://open.spotify.com/album/57LxNk5DGtcFOc8BtCN5LT) | 4:24 | 2023-02-03 | 2023-04-15 |
 | [Caímos las dos](https://open.spotify.com/track/6S0HcJIXspRbgATV3SRI9J) | [lusillón](https://open.spotify.com/artist/3boSqy30OQ3ES9e3UJb6Up) | [Pensando mucho y mal](https://open.spotify.com/album/54rBXLxgSP5rNTpjA0UBgp) | 2:45 | 2023-01-13 | 2023-03-04 |

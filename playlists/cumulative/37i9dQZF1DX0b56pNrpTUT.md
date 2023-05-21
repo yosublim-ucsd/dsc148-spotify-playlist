@@ -4,7 +4,7 @@
 
 > Sophisticated palates only\. Curated by: Eve Fairley\-Chickwe
 
-60 songs - 3 hr 10 min
+61 songs - 3 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,8 +53,9 @@
 | [Rider](https://open.spotify.com/track/7BUnSvQPU5m830Et7fLAZt) | [Mereba](https://open.spotify.com/artist/294lNTPZfdqyzt8qnxmFiL) | [AZEB \- EP](https://open.spotify.com/album/0HvQdKEGTs0l1fV5feEYDi) | 2:45 | 2022-10-01 |  |
 | [Running \(feat\. Ghetts\)](https://open.spotify.com/track/38vxstSXciei0IuEO2MoGI) | [Pip Millett](https://open.spotify.com/artist/1QfEfvB62EEl4upf2ANKkR), [Ghetts](https://open.spotify.com/artist/7zJL978NtANOysfGY21ty6) | [Running \(feat\. Ghetts\)](https://open.spotify.com/album/5ixpxqTNl3NslcF9WzmXr5) | 4:02 | 2022-10-01 |  |
 | [Say Yeah](https://open.spotify.com/track/1GDCzlN4snSHiYxxvO9Fhg) | [Mnelia](https://open.spotify.com/artist/4DDsQzXhKIC2F70cjMP7ec) | [Say Yeah](https://open.spotify.com/album/5hxuMubkHyZOW92dceGg3i) | 2:47 | 2022-10-01 |  |
-| [Serial](https://open.spotify.com/track/1HPYnKkSjOkkC8tm9S97rb) | [Tora\-i](https://open.spotify.com/artist/4oJsWKOJCNMfUbIpR2jk8Z) | [Serial](https://open.spotify.com/album/6q1MjscDVoN75ap0etkyW2) | 3:47 | 2022-10-01 |  |
+| [Serial](https://open.spotify.com/track/1HPYnKkSjOkkC8tm9S97rb) | [Tora\-i](https://open.spotify.com/artist/4oJsWKOJCNMfUbIpR2jk8Z) | [Serial](https://open.spotify.com/album/6q1MjscDVoN75ap0etkyW2) | 3:47 | 2022-10-01 | 2023-05-21 |
 | [Serial](https://open.spotify.com/track/5RRl7Hio98AB5JsGo9acb0) | [Tora\-i](https://open.spotify.com/artist/4oJsWKOJCNMfUbIpR2jk8Z) | [Serial](https://open.spotify.com/album/4eSxIjJeG94DnoC2Nk1xAy) | 3:47 | 2022-10-01 | 2022-10-13 |
+| [Serial](https://open.spotify.com/track/6kaOmjwjH0ndfVSq45ePrg) | [Tora\-i](https://open.spotify.com/artist/4oJsWKOJCNMfUbIpR2jk8Z) | [& what else?](https://open.spotify.com/album/4p5YlAC56HCZOSDBNzqm8A) | 3:47 | 2022-10-01 |  |
 | [Session 32](https://open.spotify.com/track/2ktg2oZDyFAX3iY1QNkXl5) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [Session 32](https://open.spotify.com/album/1q6DMLVcuKBfYpfJ1KWtKh) | 1:38 | 2022-10-01 |  |
 | [Slow Motion](https://open.spotify.com/track/493QaNbrvbEiQdPH9hDP6z) | [AMARIA BB](https://open.spotify.com/artist/1AC6rw8sH8VGrzMzgFUDG5) | [Slow Motion](https://open.spotify.com/album/4UOWUmv18BNHHSOimMbP0g) | 2:46 | 2022-10-01 |  |
 | [Stay Flo](https://open.spotify.com/track/6GCIYIWUBSLontW6divqsw) | [Solange](https://open.spotify.com/artist/2auiVi8sUZo17dLy1HwrTU) | [When I Get Home](https://open.spotify.com/album/4WF4HvVT7VjGnVjxjoCR6w) | 2:55 | 2022-10-01 |  |

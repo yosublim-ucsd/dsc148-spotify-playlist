@@ -1,12 +1,12 @@
 {
   "description": "Kick on with this mix of homegrown electronic music",
-  "num_followers": 119879,
+  "num_followers": 119954,
   "original_name": "Sunday Sessions",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3MTYxZGVmNzUxMmI1MWRlZjNjMjk4MTc5Y2E3MDY4NDk5MjdkZTYz",
+  "snapshot_id": "MCxkNTM5ZTlhNjYzOTExOTEzMDc0ZWIwMjAzYTc5NWMzZWI4YzllMDZk",
   "tracks": [
     {
       "added_at": "2023-05-17 01:21:41",
@@ -971,26 +971,6 @@
     {
       "added_at": "2023-05-17 01:21:41",
       "album": {
-        "name": "What Comes Next",
-        "url": "https://open.spotify.com/album/2RasvcK0I8bupLoVNuQKZv"
-      },
-      "artists": [
-        {
-          "name": "Cosmo's Midnight",
-          "url": "https://open.spotify.com/artist/4VivsO1n4n2Mi2Btyb5gfL"
-        },
-        {
-          "name": "Winston Surfshirt",
-          "url": "https://open.spotify.com/artist/61HS7DjYDQIkKSeGvpqmJh"
-        }
-      ],
-      "duration_ms": 243599,
-      "name": "Get To Know (feat. Winston Surfshirt)",
-      "url": "https://open.spotify.com/track/1LvASuCm9gPr9684FFNKdt"
-    },
-    {
-      "added_at": "2023-05-17 01:21:41",
-      "album": {
         "name": "Smile (feat. JAM)",
         "url": "https://open.spotify.com/album/1XlQFYxrdAE1cn43I3COL1"
       },
@@ -1007,6 +987,26 @@
       "duration_ms": 204723,
       "name": "Smile (feat. JAM)",
       "url": "https://open.spotify.com/track/6H5ncROMSCcKGz6W5HsrS8"
+    },
+    {
+      "added_at": "2023-05-17 01:21:41",
+      "album": {
+        "name": "What Comes Next",
+        "url": "https://open.spotify.com/album/2RasvcK0I8bupLoVNuQKZv"
+      },
+      "artists": [
+        {
+          "name": "Cosmo's Midnight",
+          "url": "https://open.spotify.com/artist/4VivsO1n4n2Mi2Btyb5gfL"
+        },
+        {
+          "name": "Winston Surfshirt",
+          "url": "https://open.spotify.com/artist/61HS7DjYDQIkKSeGvpqmJh"
+        }
+      ],
+      "duration_ms": 243599,
+      "name": "Get To Know (feat. Winston Surfshirt)",
+      "url": "https://open.spotify.com/track/1LvASuCm9gPr9684FFNKdt"
     },
     {
       "added_at": "2023-05-17 01:21:41",
@@ -1031,6 +1031,22 @@
     {
       "added_at": "2023-05-17 01:21:41",
       "album": {
+        "name": "Brain Freeze",
+        "url": "https://open.spotify.com/album/2HkKs4sSh2Ns8zpi2gUWK3"
+      },
+      "artists": [
+        {
+          "name": "Northeast Party House",
+          "url": "https://open.spotify.com/artist/500YRyClzP6Z7HtWd1BIje"
+        }
+      ],
+      "duration_ms": 122094,
+      "name": "Brain Freeze",
+      "url": "https://open.spotify.com/track/15uSXKESoX4Zq3uo2IJww1"
+    },
+    {
+      "added_at": "2023-05-17 01:21:41",
+      "album": {
         "name": "Happiness, Guaranteed",
         "url": "https://open.spotify.com/album/2CqFgdXnnF8nmsiP9qDuhX"
       },
@@ -1047,22 +1063,6 @@
       "duration_ms": 231578,
       "name": "Empty Promise",
       "url": "https://open.spotify.com/track/0sEn4RyabCmp3dGbbT5J6I"
-    },
-    {
-      "added_at": "2023-05-17 01:21:41",
-      "album": {
-        "name": "Brain Freeze",
-        "url": "https://open.spotify.com/album/2HkKs4sSh2Ns8zpi2gUWK3"
-      },
-      "artists": [
-        {
-          "name": "Northeast Party House",
-          "url": "https://open.spotify.com/artist/500YRyClzP6Z7HtWd1BIje"
-        }
-      ],
-      "duration_ms": 122094,
-      "name": "Brain Freeze",
-      "url": "https://open.spotify.com/track/15uSXKESoX4Zq3uo2IJww1"
     },
     {
       "added_at": "2023-05-17 01:21:41",
@@ -1095,26 +1095,6 @@
       "duration_ms": 179120,
       "name": "Finish What You Started",
       "url": "https://open.spotify.com/track/00H3S427pckJf5DtsKCbeY"
-    },
-    {
-      "added_at": "2023-05-17 01:21:41",
-      "album": {
-        "name": "Bang My Line (feat. Tkay Maidza)",
-        "url": "https://open.spotify.com/album/6lqBnIRiQzELwDrz7MCbCt"
-      },
-      "artists": [
-        {
-          "name": "Cosmo's Midnight",
-          "url": "https://open.spotify.com/artist/4VivsO1n4n2Mi2Btyb5gfL"
-        },
-        {
-          "name": "Tkay Maidza",
-          "url": "https://open.spotify.com/artist/1kMPdZQVdUhMDKDWOJM5iK"
-        }
-      ],
-      "duration_ms": 153500,
-      "name": "Bang My Line (feat. Tkay Maidza)",
-      "url": "https://open.spotify.com/track/5phuEZAscX7xyQgvxyLKir"
     },
     {
       "added_at": "2023-05-17 01:21:41",
@@ -1155,6 +1135,26 @@
       "duration_ms": 250160,
       "name": "Rose Pink Cadillac - LARRY PINK THE HUMAN Remix",
       "url": "https://open.spotify.com/track/2h1s9bSv7BU4vFwhWrdwSN"
+    },
+    {
+      "added_at": "2023-05-17 01:21:41",
+      "album": {
+        "name": "Bang My Line (feat. Tkay Maidza)",
+        "url": "https://open.spotify.com/album/6lqBnIRiQzELwDrz7MCbCt"
+      },
+      "artists": [
+        {
+          "name": "Cosmo's Midnight",
+          "url": "https://open.spotify.com/artist/4VivsO1n4n2Mi2Btyb5gfL"
+        },
+        {
+          "name": "Tkay Maidza",
+          "url": "https://open.spotify.com/artist/1kMPdZQVdUhMDKDWOJM5iK"
+        }
+      ],
+      "duration_ms": 153500,
+      "name": "Bang My Line (feat. Tkay Maidza)",
+      "url": "https://open.spotify.com/track/5phuEZAscX7xyQgvxyLKir"
     }
   ],
   "unique_name": "Sunday Sessions",

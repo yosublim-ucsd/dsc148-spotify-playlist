@@ -3711,6 +3711,24 @@
     },
     {
       "album": {
+        "name": "CLEAR 2: SOFT LIFE EP",
+        "url": "https://open.spotify.com/album/034Q9kY3buGcizT3Xpj9Re"
+      },
+      "artists": [
+        {
+          "name": "Summer Walker",
+          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162506,
+      "name": "How Does It Feel",
+      "url": "https://open.spotify.com/track/1LADKWKeq6I21w6j9wDSad"
+    },
+    {
+      "album": {
         "name": "How Many",
         "url": "https://open.spotify.com/album/3uXcufGHqbpkYQnImb0RGm"
       },
@@ -9400,7 +9418,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-21",
       "duration_ms": 200472,
       "name": "You Don\u2019t Know Me",
       "url": "https://open.spotify.com/track/7gpIj4wMeTKptFxetrNKzY"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXagUeYbNSnOA.md) - [plain]
 
 > The best new music by independent artists and labels, featuring Human Lemonade\. Updates every Wednesday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 170,054 likes - 50 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 170,062 likes - 50 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,16 +34,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXagUeYbNSnOA.md) - [plain]
 | 24 | [San Juan](https://open.spotify.com/track/6DEYeMOEYnd0G5cKMrubRd) | [Tigre Ulli](https://open.spotify.com/artist/5BCAv8GCW0wT3cTY11dl5v) | [San Juan](https://open.spotify.com/album/0yTWbDuC3kIwhLwd4SlKnl) | 3:45 |
 | 25 | [Noir Mambo](https://open.spotify.com/track/6nv9bERk9Wobhs1je4El9a) | [Troker](https://open.spotify.com/artist/4R8SN8dnDbzGwi5LvMjK8G) | [Noir Mambo](https://open.spotify.com/album/6emy3Dpmax22ePiukYrFgJ) | 4:59 |
 | 26 | [mala idea](https://open.spotify.com/track/5ZSzF6bKMt057Uv4pSOHqY) | [gabriela arcos](https://open.spotify.com/artist/3SdRPRuSNLp9lj06iZuQlx) | [mala idea](https://open.spotify.com/album/16ye3Pgj6dZgviuOtoR60Z) | 3:43 |
-| 27 | [Caminito](https://open.spotify.com/track/40zlw1K2egjeSsFPRYlCaV) | [Mestizo](https://open.spotify.com/artist/5clnLxB9braXs188NvrrcF), [N\. Hardem](https://open.spotify.com/artist/6oqagavQDMpR3KKeX4eqjL), [Diana Sanmiguel](https://open.spotify.com/artist/3q33O8GoAMjvD59zeaFikm) | [Mestizo](https://open.spotify.com/album/6cjeA7ztH6RbiinRGV7MBl) | 3:17 |
-| 28 | [Thrift Kiss](https://open.spotify.com/track/0GnufvOWngsqNTkQQTe756) | [George Arthur Calendar](https://open.spotify.com/artist/79W4JcW6IfUtgzPWs3Ubem) | [Thrift Kiss](https://open.spotify.com/album/3v0dbGyiQC0Putq9oY6k70) | 3:47 |
-| 29 | [Sin Fama ni Fortuna](https://open.spotify.com/track/0jL1naowZfg9x79IVmP9jf) | [Triciclo Parlante](https://open.spotify.com/artist/1MnxpVolHmvO5azL3WRwbp) | [Épica](https://open.spotify.com/album/4nqQnsYw58gEOZeMWkQ6XV) | 3:14 |
+| 27 | [Sin Fama ni Fortuna](https://open.spotify.com/track/0jL1naowZfg9x79IVmP9jf) | [Triciclo Parlante](https://open.spotify.com/artist/1MnxpVolHmvO5azL3WRwbp) | [Épica](https://open.spotify.com/album/4nqQnsYw58gEOZeMWkQ6XV) | 3:14 |
+| 28 | [Caminito](https://open.spotify.com/track/40zlw1K2egjeSsFPRYlCaV) | [Mestizo](https://open.spotify.com/artist/5clnLxB9braXs188NvrrcF), [N\. Hardem](https://open.spotify.com/artist/6oqagavQDMpR3KKeX4eqjL), [Diana Sanmiguel](https://open.spotify.com/artist/3q33O8GoAMjvD59zeaFikm) | [Mestizo](https://open.spotify.com/album/6cjeA7ztH6RbiinRGV7MBl) | 3:17 |
+| 29 | [Thrift Kiss](https://open.spotify.com/track/0GnufvOWngsqNTkQQTe756) | [George Arthur Calendar](https://open.spotify.com/artist/79W4JcW6IfUtgzPWs3Ubem) | [Thrift Kiss](https://open.spotify.com/album/3v0dbGyiQC0Putq9oY6k70) | 3:47 |
 | 30 | [Que Venís](https://open.spotify.com/track/36dGTeVvWIwxOdXsYPrz5u) | [Juli Gervasoni](https://open.spotify.com/artist/70QkZI7RFWVIDcRG69SdYb), [La Chica del Cumpleaños](https://open.spotify.com/artist/7uzpdZFWUYCLQnqpq0MP1V) | [Que Venís](https://open.spotify.com/album/6jeqQDrGjxTVopq6uogTo2) | 3:50 |
 | 31 | [Cuando Te Veo](https://open.spotify.com/track/3hrIiU2vGDTczLvKeJiX3S) | [Biowaverave](https://open.spotify.com/artist/2kyjD063inXc4sfWHk9UoK) | [Cuando Te Veo](https://open.spotify.com/album/7tG2kTpjBjfR1EO2ESCI56) | 2:21 |
 | 32 | [Casualidad](https://open.spotify.com/track/65xafocysy0HnCoKNo4n1q) | [1982 \(diecinueve ochenta y dos\)](https://open.spotify.com/artist/5TM0RQvmHVybWPQtQHoTd4) | [Casualidad](https://open.spotify.com/album/0aO9I8Mp9HVz4S4bphs0q9) | 3:48 |
 | 33 | [En Cada Átomo](https://open.spotify.com/track/7EXS7w9p37mlG5roAYYVX0) | [Di WAV](https://open.spotify.com/artist/00B7G5rKuOs5UYtB1dxaan) | [En Cada Átomo](https://open.spotify.com/album/0qcqeNJHZjyXsydGHFglL9) | 3:18 |
 | 34 | [BIEN RARO](https://open.spotify.com/track/652t4pJoG6noGbN3VaQ0WA) | [Dimc](https://open.spotify.com/artist/6dsf1MmhDry9AMFBGy6A1O) | [BIEN RARO](https://open.spotify.com/album/09UV1eLtOnKeZaaaHnL5w2) | 2:00 |
-| 35 | [Seres](https://open.spotify.com/track/4Frl3G7vrrio9Wkf3WI7c6) | [Sueño Tsunami](https://open.spotify.com/artist/3t3BhxRxSzyOBq9vQKKWr6) | [Seres](https://open.spotify.com/album/4KWPrqOmDSp8wbRChTRVFf) | 4:13 |
-| 36 | [Quiero una Bici Pero No Tengo Plata Porque No Sé Ahorrar](https://open.spotify.com/track/557TVWI4FYr2fUcgSca3hV) | [Buenas Noches Sol](https://open.spotify.com/artist/2TjUatTe9jfp879dbFrno1) | [Quiero una Bici Pero No Tengo Plata Porque No Sé Ahorrar](https://open.spotify.com/album/4Djif46DvmAXEU06NsrVfS) | 4:10 |
+| 35 | [Quiero una Bici Pero No Tengo Plata Porque No Sé Ahorrar](https://open.spotify.com/track/557TVWI4FYr2fUcgSca3hV) | [Buenas Noches Sol](https://open.spotify.com/artist/2TjUatTe9jfp879dbFrno1) | [Quiero una Bici Pero No Tengo Plata Porque No Sé Ahorrar](https://open.spotify.com/album/4Djif46DvmAXEU06NsrVfS) | 4:10 |
+| 36 | [Seres](https://open.spotify.com/track/4Frl3G7vrrio9Wkf3WI7c6) | [Sueño Tsunami](https://open.spotify.com/artist/3t3BhxRxSzyOBq9vQKKWr6) | [Seres](https://open.spotify.com/album/4KWPrqOmDSp8wbRChTRVFf) | 4:13 |
 | 37 | [La Yunta \(Ya Viene\)](https://open.spotify.com/track/3Ql0VajCNHxIR3Y11aA9DV) | [Felipe Orjuela](https://open.spotify.com/artist/4HOjhQlHtSRkt1ywi5JTMs), [Gabriela Ponce](https://open.spotify.com/artist/0b8Lfum3tO7TcDTLxcWr8L) | [La Yunta \(Ya Viene\)](https://open.spotify.com/album/5JsUbIccyGXGGLrhao3R6V) | 3:23 |
 | 38 | [Bahía Conejo](https://open.spotify.com/track/7z84D7G2GzaxPx9TjE4KJJ) | [Los Wipis](https://open.spotify.com/artist/0zXIjmElSByDJyUmlx1IZa) | [Bahía Conejo](https://open.spotify.com/album/5Vfp7Pf7oj7wQGlzjw0l8M) | 3:21 |
 | 39 | [Quieto mal](https://open.spotify.com/track/30YagZwIh0Iiy3G0DM0HIp) | [TORO](https://open.spotify.com/artist/6uX4tGhWrgAzr8UtRnK96Y) | [Quieto mal](https://open.spotify.com/album/7AaH4JHkPvwr5Rn0QEJWzp) | 2:39 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXagUeYbNSnOA.md) - [plain]
 | 49 | [Antes de partir](https://open.spotify.com/track/5dmZf0kmZDK8tqbocvU8JQ) | [Queen Conga](https://open.spotify.com/artist/07kMizszDdoXHCTG65mXje) | [Antes de partir](https://open.spotify.com/album/5HXxrpecLaMprBhWyOvArQ) | 4:38 |
 | 50 | [Humo](https://open.spotify.com/track/1wrH4HO3ZGI0bwS5u2F5yM) | [El Boscko](https://open.spotify.com/artist/4VFYudBs0kVUJ2obKT4yrS) | [Humo](https://open.spotify.com/album/0OkDNiN8t2HDHSwznu6ag5) | 3:26 |
 
-Snapshot ID: `MCw0N2JkNGMyZDE1ZDA0N2RkM2QzMTg3N2I1ZjdjYTJmZTIxOTRkNDE4`
+Snapshot ID: `MCw5YmU3OGMyNzcwNGU2MmE4YjcxYTkzNzFmMzM3YzdmZjk4NTFhNDAx`

@@ -4,7 +4,7 @@
 
 > Praise and worship from East Africa\. Your ultimate Swahili Spiritual nourishment here\. Cover <a href="https://open.spotify.com/artist/6worshay3dx3NqPNl8PRSw">Mr Seed</a>
 
-84 songs - 8 hr 30 min
+85 songs - 8 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,7 +28,8 @@
 | [Huniachi](https://open.spotify.com/track/5NLS2f8tVRtoKXOU600LBL) | [Reuben Kigame](https://open.spotify.com/artist/0bTD7Hz0264DFfTV9e5PQf), [Sifa Voices](https://open.spotify.com/artist/75UlA58ClvAkoGrCouQQAI), [Gloria Muliro](https://open.spotify.com/artist/39RtliJb0Ct7KASnAK5Vs2) | [Usifadhaike](https://open.spotify.com/album/3ugo6jrkHwa1fEmpKPvDs2) | 5:02 | 2022-06-24 |  |
 | [I Have Tasted / Nimeonja](https://open.spotify.com/track/3BlvopHOGCh134vhugmiyv) | [Reuben Kigame](https://open.spotify.com/artist/0bTD7Hz0264DFfTV9e5PQf), [Sifa Voices](https://open.spotify.com/artist/75UlA58ClvAkoGrCouQQAI) | [Tulia](https://open.spotify.com/album/6xsRFuy3hZsnxqppb5e6mT) | 6:50 | 2022-06-24 |  |
 | [I'm Blessed](https://open.spotify.com/track/0FEjctsiNnY7QSY2xvIpLI) | [Walter Chilambo](https://open.spotify.com/artist/45uMTYzfFVO9etu44SqcBO) | [I'm Blessed](https://open.spotify.com/album/4YPYAwVq1Bi9KWQW3iOMnK) | 4:20 | 2023-05-05 |  |
-| [Jina La Yesu](https://open.spotify.com/track/6FZWGjLkrpEKVCA2qoZAtL) | [Fanuel Sedekia](https://open.spotify.com/artist/4aIO5gn78ZNovl19OdpbGG) | [Katika Ibada](https://open.spotify.com/album/1mBhIg9ChypKfyH13feP2a) | 4:55 | 2022-06-24 |  |
+| [Jina La Yesu](https://open.spotify.com/track/6FZWGjLkrpEKVCA2qoZAtL) | [Fanuel Sedekia](https://open.spotify.com/artist/4aIO5gn78ZNovl19OdpbGG) | [Katika Ibada](https://open.spotify.com/album/1mBhIg9ChypKfyH13feP2a) | 4:55 | 2022-06-24 | 2023-05-21 |
+| [Jina La Yesu](https://open.spotify.com/track/2rv5OzGIcE3NPvSJiYswp4) | [Fanuel Sedekia](https://open.spotify.com/artist/4aIO5gn78ZNovl19OdpbGG) | [Katika Ibada](https://open.spotify.com/album/0sprJAbkqVjUIwt0Bo8AFp) | 4:55 | 2022-06-24 |  |
 | [Kama Si Wewe](https://open.spotify.com/track/14hf7H0VxlkUp2AOMaFqmu) | [Goodluck Gozbert](https://open.spotify.com/artist/4B9O301rvLS2j8hIwzGzHA) | [Kama Si Wewe](https://open.spotify.com/album/406zuP4Ou96lLG9Stb5laf) | 4:57 | 2022-06-24 |  |
 | [Karibu Yesu](https://open.spotify.com/track/3uih4ZkASbxUJVKrLtlLqD) | [Ambwene Mwasongwe](https://open.spotify.com/artist/3VWdz8uTAUxMqnGDeKWqYH) | [Misuli Ya Imani](https://open.spotify.com/album/6mEMrQ5YWS5Tl3pIXqcPPR) | 6:35 | 2022-06-24 |  |
 | [Kibali](https://open.spotify.com/track/1LFUWtFsGg4izHmMYK25iY) | [Florence Andenyi](https://open.spotify.com/artist/4iHODVO1AjkKbAdZchex8l) | [Kibali](https://open.spotify.com/album/1hyP210aJtyk06NK0rAOa0) | 4:36 | 2022-06-24 | 2023-04-21 |

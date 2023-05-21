@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7dXtI26GOnj.md) - [plain]
 
 > Todo o calor latino está aqui! 🔥  foto: Bad Bunny
 
-[Spotify](https://open.spotify.com/user/spotify) - 134,067 likes - 75 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 134,231 likes - 75 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7dXtI26GOnj.md) - [plain]
 | 74 | [Volar](https://open.spotify.com/track/5pQGLii6TY6nUzuBM5KXhs) | [Boza](https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso), [Dalex](https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn) | [Volar](https://open.spotify.com/album/6mF5PHt6rr48cTh75pMx5W) | 3:26 |
 | 75 | [Sin Fin](https://open.spotify.com/track/3qaHzxjNtFU7QiEuhGx70x) | [Romeo Santos](https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP), [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7) | [Sin Fin](https://open.spotify.com/album/6bcsXfLlMTAWGWdWofzM2l) | 3:54 |
 
-Snapshot ID: `MCw2Njk2MWE4YTUyYTQxNzc0ZWJhMjkxNWU1MjBiMWE3ZGY2MmRkZjI0`
+Snapshot ID: `MCw4MjYyOGEwNjQ1MThlMGVkMTZhYjAwZTk2YWFlMDgwZjk3YmUxZjYy`

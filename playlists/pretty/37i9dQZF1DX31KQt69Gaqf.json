@@ -1,12 +1,12 @@
 {
   "description": "Let us take care of your workday soundtrack.",
-  "num_followers": 182804,
+  "num_followers": 182796,
   "original_name": "Your Office Stereo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkYjlhM2ZiYzUxZTE3MTM1YWM4NDI4ODVhOGY2M2FhY2RkYTkyNjA3",
+  "snapshot_id": "MCw0NTM5OTEzMDg4ZmI1NWZiYTlkOTJjOTE0MzA5YTQ5MGRhMWJhOGU2",
   "tracks": [
     {
       "added_at": "2021-08-12 14:57:38",
@@ -491,22 +491,6 @@
     {
       "added_at": "2021-08-12 14:57:38",
       "album": {
-        "name": "I Do Love a Good Sandwich",
-        "url": "https://open.spotify.com/album/76vCZh9BFPAlqtSFNATYp9"
-      },
-      "artists": [
-        {
-          "name": "dexter in the newsagent",
-          "url": "https://open.spotify.com/artist/3bAdh9KH0kxlwrfz7Uh5Aa"
-        }
-      ],
-      "duration_ms": 181293,
-      "name": "Still Got Time",
-      "url": "https://open.spotify.com/track/7LS3gaxwBnCPkua0EEfAqf"
-    },
-    {
-      "added_at": "2021-08-12 14:57:38",
-      "album": {
         "name": "Light (Edit)",
         "url": "https://open.spotify.com/album/0fKENvWUaivTdcglwpXvzz"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 185373,
       "name": "Light - Edit",
       "url": "https://open.spotify.com/track/0h04eWLXS72ITUgN4PKnLg"
+    },
+    {
+      "added_at": "2021-08-12 14:57:38",
+      "album": {
+        "name": "I Do Love a Good Sandwich",
+        "url": "https://open.spotify.com/album/76vCZh9BFPAlqtSFNATYp9"
+      },
+      "artists": [
+        {
+          "name": "dexter in the newsagent",
+          "url": "https://open.spotify.com/artist/3bAdh9KH0kxlwrfz7Uh5Aa"
+        }
+      ],
+      "duration_ms": 181293,
+      "name": "Still Got Time",
+      "url": "https://open.spotify.com/track/7LS3gaxwBnCPkua0EEfAqf"
     },
     {
       "added_at": "2021-08-12 14:57:38",
@@ -835,22 +835,6 @@
     {
       "added_at": "2021-08-12 14:57:38",
       "album": {
-        "name": "Folding",
-        "url": "https://open.spotify.com/album/6sTaSyG6FDGDFW9uFXHYrL"
-      },
-      "artists": [
-        {
-          "name": "Abimaro",
-          "url": "https://open.spotify.com/artist/6ZrBzUQXpmwFpiUIlqSLbm"
-        }
-      ],
-      "duration_ms": 227651,
-      "name": "Folding",
-      "url": "https://open.spotify.com/track/6DO7jBbwOWkjdbC3BoLvG1"
-    },
-    {
-      "added_at": "2021-08-12 14:57:38",
-      "album": {
         "name": "Secret Life (feat. Lana Del Rey)",
         "url": "https://open.spotify.com/album/3h7XkpRVUzecbqOmPVRi2L"
       },
@@ -867,6 +851,22 @@
       "duration_ms": 186613,
       "name": "Secret Life (feat. Lana Del Rey)",
       "url": "https://open.spotify.com/track/2HL0VnhJLtWDZL1UsnLib5"
+    },
+    {
+      "added_at": "2021-08-12 14:57:38",
+      "album": {
+        "name": "Folding",
+        "url": "https://open.spotify.com/album/6sTaSyG6FDGDFW9uFXHYrL"
+      },
+      "artists": [
+        {
+          "name": "Abimaro",
+          "url": "https://open.spotify.com/artist/6ZrBzUQXpmwFpiUIlqSLbm"
+        }
+      ],
+      "duration_ms": 227651,
+      "name": "Folding",
+      "url": "https://open.spotify.com/track/6DO7jBbwOWkjdbC3BoLvG1"
     },
     {
       "added_at": "2021-08-12 14:57:38",
@@ -903,22 +903,6 @@
     {
       "added_at": "2021-08-12 14:57:38",
       "album": {
-        "name": "Truth or Consequences",
-        "url": "https://open.spotify.com/album/6pj8dUGAFuv0epn0R3Lns4"
-      },
-      "artists": [
-        {
-          "name": "Yumi Zouma",
-          "url": "https://open.spotify.com/artist/4tPyCwWrsvZ8OKYl7QRavL"
-        }
-      ],
-      "duration_ms": 202003,
-      "name": "Southwark",
-      "url": "https://open.spotify.com/track/1FSPgi8zlBB5Xh4qxrnvws"
-    },
-    {
-      "added_at": "2021-08-12 14:57:38",
-      "album": {
         "name": "Butterfly Blue",
         "url": "https://open.spotify.com/album/52jN5oOP2tn7TnL8PNoT8Z"
       },
@@ -931,6 +915,22 @@
       "duration_ms": 208988,
       "name": "Rockstar",
       "url": "https://open.spotify.com/track/6PwwPfIpqnQOVJUCkYUJcH"
+    },
+    {
+      "added_at": "2021-08-12 14:57:38",
+      "album": {
+        "name": "Truth or Consequences",
+        "url": "https://open.spotify.com/album/6pj8dUGAFuv0epn0R3Lns4"
+      },
+      "artists": [
+        {
+          "name": "Yumi Zouma",
+          "url": "https://open.spotify.com/artist/4tPyCwWrsvZ8OKYl7QRavL"
+        }
+      ],
+      "duration_ms": 202003,
+      "name": "Southwark",
+      "url": "https://open.spotify.com/track/1FSPgi8zlBB5Xh4qxrnvws"
     },
     {
       "added_at": "2021-08-12 14:57:38",
@@ -1055,22 +1055,6 @@
     {
       "added_at": "2021-08-12 14:57:38",
       "album": {
-        "name": "Undertones",
-        "url": "https://open.spotify.com/album/7CfevcKViQya5AT6HrDdhL"
-      },
-      "artists": [
-        {
-          "name": "Mysie",
-          "url": "https://open.spotify.com/artist/3rf7cB2o79L2LEcl9HIjAf"
-        }
-      ],
-      "duration_ms": 170306,
-      "name": "Seven Nights",
-      "url": "https://open.spotify.com/track/1ayrOU2q0K9xVt05CgMq2O"
-    },
-    {
-      "added_at": "2021-08-12 14:57:38",
-      "album": {
         "name": "Magical Thinking",
         "url": "https://open.spotify.com/album/4RY8E9iJR1Ec6d3FXqqodJ"
       },
@@ -1083,6 +1067,22 @@
       "duration_ms": 283493,
       "name": "Fading",
       "url": "https://open.spotify.com/track/77GXioLcswmFLd6wAqN2Eo"
+    },
+    {
+      "added_at": "2021-08-12 14:57:38",
+      "album": {
+        "name": "Undertones",
+        "url": "https://open.spotify.com/album/7CfevcKViQya5AT6HrDdhL"
+      },
+      "artists": [
+        {
+          "name": "Mysie",
+          "url": "https://open.spotify.com/artist/3rf7cB2o79L2LEcl9HIjAf"
+        }
+      ],
+      "duration_ms": 170306,
+      "name": "Seven Nights",
+      "url": "https://open.spotify.com/track/1ayrOU2q0K9xVt05CgMq2O"
     },
     {
       "added_at": "2021-08-12 14:57:38",
@@ -1167,6 +1167,22 @@
     {
       "added_at": "2021-08-12 14:57:38",
       "album": {
+        "name": "Taurus",
+        "url": "https://open.spotify.com/album/0IaxrgQd3Q2z66CE02UyC0"
+      },
+      "artists": [
+        {
+          "name": "Aby Coulibaly",
+          "url": "https://open.spotify.com/artist/1ZjJVQsxUHP7MKnZg8yE33"
+        }
+      ],
+      "duration_ms": 186000,
+      "name": "Taurus",
+      "url": "https://open.spotify.com/track/2qAZTSoZL0tNEw2RX0MpMw"
+    },
+    {
+      "added_at": "2021-08-12 14:57:38",
+      "album": {
         "name": "Blue Weekend",
         "url": "https://open.spotify.com/album/1VCTWaze9kuY5IDlbtR5p0"
       },
@@ -1195,22 +1211,6 @@
       "duration_ms": 212000,
       "name": "Greener",
       "url": "https://open.spotify.com/track/3y51IDTIvdRJAwzZOhYHqB"
-    },
-    {
-      "added_at": "2021-08-12 14:57:38",
-      "album": {
-        "name": "Taurus",
-        "url": "https://open.spotify.com/album/0IaxrgQd3Q2z66CE02UyC0"
-      },
-      "artists": [
-        {
-          "name": "Aby Coulibaly",
-          "url": "https://open.spotify.com/artist/1ZjJVQsxUHP7MKnZg8yE33"
-        }
-      ],
-      "duration_ms": 186000,
-      "name": "Taurus",
-      "url": "https://open.spotify.com/track/2qAZTSoZL0tNEw2RX0MpMw"
     },
     {
       "added_at": "2021-08-12 14:57:38",
@@ -1283,22 +1283,6 @@
     {
       "added_at": "2021-08-12 14:57:38",
       "album": {
-        "name": "Pure Shores",
-        "url": "https://open.spotify.com/album/1MWEYBI6r6QinmApx4QkO8"
-      },
-      "artists": [
-        {
-          "name": "Eliza Shaddad",
-          "url": "https://open.spotify.com/artist/3B63aIfra43Vs4F33ecM9E"
-        }
-      ],
-      "duration_ms": 232130,
-      "name": "Pure Shores",
-      "url": "https://open.spotify.com/track/4BfC6YSExs6vhuDrJca9Lz"
-    },
-    {
-      "added_at": "2021-08-12 14:57:38",
-      "album": {
         "name": "Through Water",
         "url": "https://open.spotify.com/album/4U7KMGWUL0FQtYCVxVy1Za"
       },
@@ -1311,6 +1295,22 @@
       "duration_ms": 234453,
       "name": "Womxn",
       "url": "https://open.spotify.com/track/3uZfLLYmvNUTWuZieOgJKr"
+    },
+    {
+      "added_at": "2021-08-12 14:57:38",
+      "album": {
+        "name": "Pure Shores",
+        "url": "https://open.spotify.com/album/1MWEYBI6r6QinmApx4QkO8"
+      },
+      "artists": [
+        {
+          "name": "Eliza Shaddad",
+          "url": "https://open.spotify.com/artist/3B63aIfra43Vs4F33ecM9E"
+        }
+      ],
+      "duration_ms": 232130,
+      "name": "Pure Shores",
+      "url": "https://open.spotify.com/track/4BfC6YSExs6vhuDrJca9Lz"
     },
     {
       "added_at": "2021-08-12 14:57:38",
@@ -1575,22 +1575,6 @@
     {
       "added_at": "2021-08-12 14:57:38",
       "album": {
-        "name": "Solstice",
-        "url": "https://open.spotify.com/album/6jPO2gtwitpbmkEDD0kYLn"
-      },
-      "artists": [
-        {
-          "name": "Ted Jasper",
-          "url": "https://open.spotify.com/artist/4PfXiTCDXTYEobjXjcRFNW"
-        }
-      ],
-      "duration_ms": 150091,
-      "name": "Higher Plain",
-      "url": "https://open.spotify.com/track/4jVkkMuhZscX5F7BIbDVBR"
-    },
-    {
-      "added_at": "2021-08-12 14:57:38",
-      "album": {
         "name": "Lonely Dancer",
         "url": "https://open.spotify.com/album/6w0ZfpZWsrqip4YoZ0bsTJ"
       },
@@ -1607,6 +1591,22 @@
       "duration_ms": 187492,
       "name": "Lonely Dancer",
       "url": "https://open.spotify.com/track/5EDiJyIO6wvTms3qK2E4mk"
+    },
+    {
+      "added_at": "2021-08-12 14:57:38",
+      "album": {
+        "name": "Solstice",
+        "url": "https://open.spotify.com/album/6jPO2gtwitpbmkEDD0kYLn"
+      },
+      "artists": [
+        {
+          "name": "Ted Jasper",
+          "url": "https://open.spotify.com/artist/4PfXiTCDXTYEobjXjcRFNW"
+        }
+      ],
+      "duration_ms": 150091,
+      "name": "Higher Plain",
+      "url": "https://open.spotify.com/track/4jVkkMuhZscX5F7BIbDVBR"
     },
     {
       "added_at": "2021-08-12 14:57:38",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTI0B69TStH2.md) - [plain]
 
 > Najciekawsze muzyczne odkrycia od niezależnych polskich artystów\. Cover: AZ\-YL \| Playlista odświeżana w każdą środę.
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,161 likes - 100 songs - 5 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,160 likes - 100 songs - 5 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTI0B69TStH2.md) - [plain]
 | 99 | [Lubiła tańczyć](https://open.spotify.com/track/57SU3Usgmy7ZZHXxYMPZuY) | [WhyAT](https://open.spotify.com/artist/2VJj8ECRXpsPvPey3Hn11i) | [Lubiła tańczyć](https://open.spotify.com/album/3GOTVPDEr5AntrHN1yKtBZ) | 2:20 |
 | 100 | [Kosmos](https://open.spotify.com/track/6c9CqnLRXH8A6ZpxcL5urh) | [mihi x.n.d.r](https://open.spotify.com/artist/6nYKufPNSAP0PcfQUiQlAk) | [Kosmos](https://open.spotify.com/album/4tlYm4WVuKuHrEy0JoiXcp) | 3:41 |
 
-Snapshot ID: `MCwwZDI1N2E4NTE3MTZmNmY3NmQwY2E3YzUwZjQ5YTZhZGY5ZWE5MGEy`
+Snapshot ID: `MCxmZTFjZmRmYjcwOGI3YmIyODcxZWUxN2FlMzdjYmU4YzdmNWE1ZTcx`

@@ -1,12 +1,12 @@
 {
   "description": "Quiet spring mornings, wake up early with the birds. \nTake a moment with nature for a positive start of your day.",
-  "num_followers": 3406,
+  "num_followers": 3423,
   "original_name": "Early Birds",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkZjc0MWZhODU4M2IxMWNlOTI3NjgzOGZjMThhNzVlM2QzNjkwNDcy",
+  "snapshot_id": "MCwxZDE3MTkzYWZmMjAyMDI2Yjk3MzI3YTQzNDhmNTMxZjM0YjZkOGM1",
   "tracks": [
     {
       "added_at": "2023-03-01 15:55:04",
@@ -105,7 +105,7 @@
       "url": "https://open.spotify.com/track/3H33Uelf6KheaJQphvrYFz"
     },
     {
-      "added_at": "2023-05-20 01:10:53",
+      "added_at": "2023-05-21 01:11:45",
       "album": {
         "name": "Highway Birds",
         "url": "https://open.spotify.com/album/36Q6UzSDyagoA6upnkHqBC"
@@ -251,22 +251,6 @@
     {
       "added_at": "2023-03-01 15:55:04",
       "album": {
-        "name": "Spring Birds",
-        "url": "https://open.spotify.com/album/4kYNRxa2LdgTQbChn0jasg"
-      },
-      "artists": [
-        {
-          "name": "Nano Sounds",
-          "url": "https://open.spotify.com/artist/3hbAGbjrJ4esXMyjnzODz7"
-        }
-      ],
-      "duration_ms": 158267,
-      "name": "Forest Birds HD",
-      "url": "https://open.spotify.com/track/6bYHF7Tt9cS59RbcezAbSa"
-    },
-    {
-      "added_at": "2023-03-01 15:55:04",
-      "album": {
         "name": "Calm Bird Lunch",
         "url": "https://open.spotify.com/album/0kq3VBW2O4MKDK6g0OXdZf"
       },
@@ -279,6 +263,22 @@
       "duration_ms": 79975,
       "name": "Beautiful Birds Above the Canopy",
       "url": "https://open.spotify.com/track/7zD9VBtet53ChaxtMpNGG7"
+    },
+    {
+      "added_at": "2023-03-01 15:55:04",
+      "album": {
+        "name": "Spring Birds",
+        "url": "https://open.spotify.com/album/4kYNRxa2LdgTQbChn0jasg"
+      },
+      "artists": [
+        {
+          "name": "Nano Sounds",
+          "url": "https://open.spotify.com/artist/3hbAGbjrJ4esXMyjnzODz7"
+        }
+      ],
+      "duration_ms": 158267,
+      "name": "Forest Birds HD",
+      "url": "https://open.spotify.com/track/6bYHF7Tt9cS59RbcezAbSa"
     },
     {
       "added_at": "2023-03-01 15:55:04",
@@ -345,7 +345,7 @@
       "url": "https://open.spotify.com/track/6ajC6vMrdlIN3lO6cgaaiK"
     },
     {
-      "added_at": "2023-05-20 01:10:53",
+      "added_at": "2023-05-21 01:11:45",
       "album": {
         "name": "Warmer Seasons",
         "url": "https://open.spotify.com/album/2kDHBZDCOOBLcmME7nE8vv"
@@ -377,7 +377,7 @@
       "url": "https://open.spotify.com/track/4Pvq68Y0K9k6dYkyP4HBcv"
     },
     {
-      "added_at": "2023-05-20 01:10:53",
+      "added_at": "2023-05-21 01:11:45",
       "album": {
         "name": "In the Midst of Nature",
         "url": "https://open.spotify.com/album/1AUZZNBB4fOtrSLQTeDv4N"
@@ -523,22 +523,6 @@
     {
       "added_at": "2023-03-01 15:55:04",
       "album": {
-        "name": "Timber Slumber",
-        "url": "https://open.spotify.com/album/3KhQK3au7bWp5iRqGodlGg"
-      },
-      "artists": [
-        {
-          "name": "The Sleepy Forest",
-          "url": "https://open.spotify.com/artist/2doRIjuqXWNXexj4FcosxN"
-        }
-      ],
-      "duration_ms": 182000,
-      "name": "Raindrops In The Forest - Seamless",
-      "url": "https://open.spotify.com/track/1mYBzTUGCVgwZ3rEMFLsS9"
-    },
-    {
-      "added_at": "2023-03-01 15:55:04",
-      "album": {
         "name": "Orchid Stories",
         "url": "https://open.spotify.com/album/3pIBo72s3vU0JhwV80Am5V"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 226000,
       "name": "Orchid Stories",
       "url": "https://open.spotify.com/track/6RXBc2H5MRu2dPMFfGUB87"
+    },
+    {
+      "added_at": "2023-03-01 15:55:04",
+      "album": {
+        "name": "Timber Slumber",
+        "url": "https://open.spotify.com/album/3KhQK3au7bWp5iRqGodlGg"
+      },
+      "artists": [
+        {
+          "name": "The Sleepy Forest",
+          "url": "https://open.spotify.com/artist/2doRIjuqXWNXexj4FcosxN"
+        }
+      ],
+      "duration_ms": 182000,
+      "name": "Raindrops In The Forest - Seamless",
+      "url": "https://open.spotify.com/track/1mYBzTUGCVgwZ3rEMFLsS9"
     },
     {
       "added_at": "2023-03-01 15:55:04",
@@ -569,7 +569,7 @@
       "url": "https://open.spotify.com/track/5NWQiqMnUDtJwl1AUzRZYh"
     },
     {
-      "added_at": "2023-05-20 01:10:53",
+      "added_at": "2023-05-21 01:11:45",
       "album": {
         "name": "Swedish Forest Birds",
         "url": "https://open.spotify.com/album/6QsQPOS6dW5aGR99qf37Z4"

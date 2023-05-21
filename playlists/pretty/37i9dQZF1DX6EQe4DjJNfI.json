@@ -1,12 +1,12 @@
 {
   "description": "O R&B com tempero e gostinho brasileiro para voc\u00ea ouvir. Foto: Yas Werneck",
-  "num_followers": 160130,
+  "num_followers": 160166,
   "original_name": "R&B Brasil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwZmU1N2Y1M2NiY2ViNjQ4ZDA2NjU2ZWQwZGMyMzkxMDg0OTY2YjI4",
+  "snapshot_id": "MCxhM2NkZjBhOWZmOTFkYTI0NmFiNGFkYTJiNWJiNTE1ZmYwYjQyYWEy",
   "tracks": [
     {
       "added_at": "2023-05-19 03:01:00",
@@ -411,26 +411,6 @@
     {
       "added_at": "2023-05-19 03:01:00",
       "album": {
-        "name": "Ceder",
-        "url": "https://open.spotify.com/album/2U7SgeSUNChbpRuNzng2OS"
-      },
-      "artists": [
-        {
-          "name": "Melly",
-          "url": "https://open.spotify.com/artist/7a7n9ka0Mnevq19mOU8tcW"
-        },
-        {
-          "name": "Hiran",
-          "url": "https://open.spotify.com/artist/590jgrhOiQjSIASrY4mwPW"
-        }
-      ],
-      "duration_ms": 197617,
-      "name": "Ceder",
-      "url": "https://open.spotify.com/track/6kTqxXfCTgWMWWrMlpBGFm"
-    },
-    {
-      "added_at": "2023-05-19 03:01:00",
-      "album": {
         "name": "Te Ouvir",
         "url": "https://open.spotify.com/album/7J0lgtrG1nb3vHLRNQpdlG"
       },
@@ -447,6 +427,26 @@
       "duration_ms": 215757,
       "name": "Te Ouvir",
       "url": "https://open.spotify.com/track/6exIYcUynpOULD7mcWIEas"
+    },
+    {
+      "added_at": "2023-05-19 03:01:00",
+      "album": {
+        "name": "Ceder",
+        "url": "https://open.spotify.com/album/2U7SgeSUNChbpRuNzng2OS"
+      },
+      "artists": [
+        {
+          "name": "Melly",
+          "url": "https://open.spotify.com/artist/7a7n9ka0Mnevq19mOU8tcW"
+        },
+        {
+          "name": "Hiran",
+          "url": "https://open.spotify.com/artist/590jgrhOiQjSIASrY4mwPW"
+        }
+      ],
+      "duration_ms": 197617,
+      "name": "Ceder",
+      "url": "https://open.spotify.com/track/6kTqxXfCTgWMWWrMlpBGFm"
     },
     {
       "added_at": "2023-05-19 03:01:00",
@@ -547,26 +547,6 @@
     {
       "added_at": "2023-05-19 03:01:00",
       "album": {
-        "name": "Nessa Vida",
-        "url": "https://open.spotify.com/album/1ZoVkAPWCNgOCpRhZH1LgE"
-      },
-      "artists": [
-        {
-          "name": "IGOR",
-          "url": "https://open.spotify.com/artist/4zCVTLvRnKYmkVyCxfV2ny"
-        },
-        {
-          "name": "Budah",
-          "url": "https://open.spotify.com/artist/08zSkHjCY3ypH4gdBVHWgO"
-        }
-      ],
-      "duration_ms": 189233,
-      "name": "Nessa Vida",
-      "url": "https://open.spotify.com/track/78eJoR6E6kNzjxol1AqWPH"
-    },
-    {
-      "added_at": "2023-05-19 03:01:00",
-      "album": {
         "name": "Sinal de Fuma\u00e7a",
         "url": "https://open.spotify.com/album/5OkI6zKfhKzl1w3CjpvnOi"
       },
@@ -583,6 +563,26 @@
       "duration_ms": 150833,
       "name": "Sinal de Fuma\u00e7a",
       "url": "https://open.spotify.com/track/76M93slEhL9Q9MEvbxycbe"
+    },
+    {
+      "added_at": "2023-05-19 03:01:00",
+      "album": {
+        "name": "Nessa Vida",
+        "url": "https://open.spotify.com/album/1ZoVkAPWCNgOCpRhZH1LgE"
+      },
+      "artists": [
+        {
+          "name": "IGOR",
+          "url": "https://open.spotify.com/artist/4zCVTLvRnKYmkVyCxfV2ny"
+        },
+        {
+          "name": "Budah",
+          "url": "https://open.spotify.com/artist/08zSkHjCY3ypH4gdBVHWgO"
+        }
+      ],
+      "duration_ms": 189233,
+      "name": "Nessa Vida",
+      "url": "https://open.spotify.com/track/78eJoR6E6kNzjxol1AqWPH"
     },
     {
       "added_at": "2023-05-19 03:01:00",
@@ -855,26 +855,6 @@
     {
       "added_at": "2023-05-19 03:01:00",
       "album": {
-        "name": "Incr\u00edvel",
-        "url": "https://open.spotify.com/album/1xS3qTC20EJQkCjjMnG7Rg"
-      },
-      "artists": [
-        {
-          "name": "Theus Costa",
-          "url": "https://open.spotify.com/artist/4qNZfaBcaNA2Q2a9danTGP"
-        },
-        {
-          "name": "Qu\u00e9zia Lima",
-          "url": "https://open.spotify.com/artist/4ItRsVQGClDa3B2r5bgoeP"
-        }
-      ],
-      "duration_ms": 122120,
-      "name": "Incr\u00edvel",
-      "url": "https://open.spotify.com/track/21tUE1e9Z0St05vcAAD8zq"
-    },
-    {
-      "added_at": "2023-05-19 03:01:00",
-      "album": {
         "name": "N\u00e3o Vou Negar",
         "url": "https://open.spotify.com/album/3YdAoZKOwdbd29jKSwuknb"
       },
@@ -891,6 +871,26 @@
       "duration_ms": 163937,
       "name": "N\u00e3o Vou Negar",
       "url": "https://open.spotify.com/track/5nI2kzArRG6tU2SlNTE0ja"
+    },
+    {
+      "added_at": "2023-05-19 03:01:00",
+      "album": {
+        "name": "Incr\u00edvel",
+        "url": "https://open.spotify.com/album/1xS3qTC20EJQkCjjMnG7Rg"
+      },
+      "artists": [
+        {
+          "name": "Theus Costa",
+          "url": "https://open.spotify.com/artist/4qNZfaBcaNA2Q2a9danTGP"
+        },
+        {
+          "name": "Qu\u00e9zia Lima",
+          "url": "https://open.spotify.com/artist/4ItRsVQGClDa3B2r5bgoeP"
+        }
+      ],
+      "duration_ms": 122120,
+      "name": "Incr\u00edvel",
+      "url": "https://open.spotify.com/track/21tUE1e9Z0St05vcAAD8zq"
     },
     {
       "added_at": "2023-05-19 03:01:00",
@@ -971,6 +971,26 @@
     {
       "added_at": "2023-05-19 03:01:00",
       "album": {
+        "name": "Eterno Esquema",
+        "url": "https://open.spotify.com/album/3VSXJcf6akK061vzZTISkB"
+      },
+      "artists": [
+        {
+          "name": "Alta Hits",
+          "url": "https://open.spotify.com/artist/5gSCmAPeZWVeVIfW2i2Pyv"
+        },
+        {
+          "name": "Nath Audizio",
+          "url": "https://open.spotify.com/artist/3Dmm7O6YrB38y8JbvA3zwK"
+        }
+      ],
+      "duration_ms": 133564,
+      "name": "Eterno Esquema",
+      "url": "https://open.spotify.com/track/50ZKf2oN3IxLTopIoogSGz"
+    },
+    {
+      "added_at": "2023-05-19 03:01:00",
+      "album": {
         "name": "Troco",
         "url": "https://open.spotify.com/album/5Vl5m3qaYvCf6Q1Q0xRI7V"
       },
@@ -1007,22 +1027,18 @@
     {
       "added_at": "2023-05-19 03:01:00",
       "album": {
-        "name": "Eterno Esquema",
-        "url": "https://open.spotify.com/album/3VSXJcf6akK061vzZTISkB"
+        "name": "Tempo pra Perder",
+        "url": "https://open.spotify.com/album/6qePnDPq4XJnpJxaGf5lxF"
       },
       "artists": [
         {
-          "name": "Alta Hits",
-          "url": "https://open.spotify.com/artist/5gSCmAPeZWVeVIfW2i2Pyv"
-        },
-        {
-          "name": "Nath Audizio",
-          "url": "https://open.spotify.com/artist/3Dmm7O6YrB38y8JbvA3zwK"
+          "name": "Ana Olic",
+          "url": "https://open.spotify.com/artist/1gJq1KdpkUUygT6tgrnkiY"
         }
       ],
-      "duration_ms": 133564,
-      "name": "Eterno Esquema",
-      "url": "https://open.spotify.com/track/50ZKf2oN3IxLTopIoogSGz"
+      "duration_ms": 194974,
+      "name": "Tempo pra Perder",
+      "url": "https://open.spotify.com/track/2vS4o51fwVyYrDF54w5O0R"
     },
     {
       "added_at": "2023-05-19 03:01:00",
@@ -1091,22 +1107,6 @@
       "duration_ms": 180000,
       "name": "Rec\u00edproco",
       "url": "https://open.spotify.com/track/2Na1FNsaKX5WmLjEVVPVNt"
-    },
-    {
-      "added_at": "2023-05-19 03:01:00",
-      "album": {
-        "name": "Tempo pra Perder",
-        "url": "https://open.spotify.com/album/6qePnDPq4XJnpJxaGf5lxF"
-      },
-      "artists": [
-        {
-          "name": "Ana Olic",
-          "url": "https://open.spotify.com/artist/1gJq1KdpkUUygT6tgrnkiY"
-        }
-      ],
-      "duration_ms": 194974,
-      "name": "Tempo pra Perder",
-      "url": "https://open.spotify.com/track/2vS4o51fwVyYrDF54w5O0R"
     },
     {
       "added_at": "2023-05-19 03:01:00",
@@ -1195,22 +1195,6 @@
     {
       "added_at": "2023-05-19 03:01:00",
       "album": {
-        "name": "Uma Chance Pra Ficar Tudo bem",
-        "url": "https://open.spotify.com/album/3E7fL2Muf5c8OvC8A54Mp3"
-      },
-      "artists": [
-        {
-          "name": "Crod",
-          "url": "https://open.spotify.com/artist/1VI8uzUXTMpjdIvM6Rsh0j"
-        }
-      ],
-      "duration_ms": 154290,
-      "name": "Uma Chance",
-      "url": "https://open.spotify.com/track/2QPZQP2MDGC5ePtfSI9ihO"
-    },
-    {
-      "added_at": "2023-05-19 03:01:00",
-      "album": {
         "name": "Roupa de Ontem",
         "url": "https://open.spotify.com/album/7eIK3jKOyfdsnj1PaalMVa"
       },
@@ -1223,6 +1207,22 @@
       "duration_ms": 278000,
       "name": "Roupa de Ontem",
       "url": "https://open.spotify.com/track/5DNmIznDtyTJrkmAXdeFnl"
+    },
+    {
+      "added_at": "2023-05-19 03:01:00",
+      "album": {
+        "name": "Uma Chance Pra Ficar Tudo bem",
+        "url": "https://open.spotify.com/album/3E7fL2Muf5c8OvC8A54Mp3"
+      },
+      "artists": [
+        {
+          "name": "Crod",
+          "url": "https://open.spotify.com/artist/1VI8uzUXTMpjdIvM6Rsh0j"
+        }
+      ],
+      "duration_ms": 154290,
+      "name": "Uma Chance",
+      "url": "https://open.spotify.com/track/2QPZQP2MDGC5ePtfSI9ihO"
     },
     {
       "added_at": "2023-05-19 03:01:00",

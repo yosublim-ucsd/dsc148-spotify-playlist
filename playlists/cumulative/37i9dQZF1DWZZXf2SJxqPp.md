@@ -4,7 +4,7 @@
 
 > Musiquita riqui para chillear y echarla junto a la piscina.
 
-100 songs - 6 hr 45 min
+101 songs - 6 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,6 +73,7 @@
 | [Miracle](https://open.spotify.com/track/4trtuxyoMRBjS8wY6PB7OR) | [Caravan Palace](https://open.spotify.com/artist/37J1PlAkhRK7yrZUtqaUpQ) | [Chronologic](https://open.spotify.com/album/5Pnctsm9Mi4D6W3DzWckA6) | 3:36 | 2023-03-20 |  |
 | [Mon Cheri](https://open.spotify.com/track/1Fu9QYiYh8izSKG0cqUXxn) | [Sofi Tukker](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q), [Amadou & Mariam](https://open.spotify.com/artist/3KH7WsR2JZQ94Ik8SyabU6) | [Mon Cheri](https://open.spotify.com/album/6PmUVTmxKzphzJPIqCZbMJ) | 4:08 | 2023-03-20 |  |
 | [Moody](https://open.spotify.com/track/213H9vfVfLc7m2zRVWgCmJ) | [Brijean](https://open.spotify.com/artist/2TRNyrjoKJnqSc9G8jCZfb) | [Feelings](https://open.spotify.com/album/0gmjvJvdWuD3AFk9sZ02Yi) | 2:14 | 2023-03-20 |  |
+| [Mopedbart](https://open.spotify.com/track/4jnguj9VPJuGRfFJyAKUZS) | [Hubbabubbaklubb](https://open.spotify.com/artist/7HgA0wYq2OBe9ac7awv1Jq) | [Mopedbart](https://open.spotify.com/album/1fFDgy6E12ZwqgIa8tgtQh) | 5:12 | 2023-03-20 |  |
 | [MOVEMENTS](https://open.spotify.com/track/7Fn5UwylCTDEldF1ZVz1uj) | [Mild Minds](https://open.spotify.com/artist/3Ka3k9K2WStR52UJVtbJZW) | [MOOD](https://open.spotify.com/album/2Eh8MVthc1OiqAQOgQClVl) | 4:12 | 2023-03-20 |  |
 | [Nabi](https://open.spotify.com/track/3Bb6SjhcywQ4euKYT2jxmp) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN), [OHHYUK](https://open.spotify.com/artist/68TCVp5t1Dxi2TvNuYoYK0) | [Nabi](https://open.spotify.com/album/7hipzmwhqMczUi5h8YC6Jw) | 3:52 | 2023-03-20 |  |
 | [Okay Okay](https://open.spotify.com/track/6W0PqAtbW7fkTRBtmwOwfM) | [Pino D'Angiò](https://open.spotify.com/artist/1uXGmHao7MMRBwCCncmyB6) | [Italian Classics: Pino D'Angiò Collection, Vol\. 1](https://open.spotify.com/album/7dwnwKTPnHsmfcMWsChtCp) | 4:18 | 2023-03-20 |  |
@@ -98,7 +99,7 @@
 | [Time \(You and I\)](https://open.spotify.com/track/0S3BtG3i5tkQmehJhIhHF3) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk) | [Mordechai](https://open.spotify.com/album/2IzUZlhtBvPQYs74KeG6fb) | 5:42 | 2023-03-20 |  |
 | [Told You So](https://open.spotify.com/track/2SCHvVxxf591F0EsSNCsRK) | [Cameo Culture](https://open.spotify.com/artist/3jLyvqWaddIP7L5H9dT8Gh) | [Burning Bright](https://open.spotify.com/album/7lPgCHEkAS2taPAqotcvih) | 5:04 | 2023-03-20 |  |
 | [Tutto va bene quando facciamo l'amore](https://open.spotify.com/track/2XtLmRzZSkNOXGRPgae8MA) | [Alex Rossi](https://open.spotify.com/artist/080yEA10cGjDwnuXHFy1SU), [Jo Wedin](https://open.spotify.com/artist/1uxYQkewWEjKxKtmTukyKB) | [Tutto va bene quando facciamo l'amore \(Remixes\)](https://open.spotify.com/album/4jnSxvi6GEjXFPGXUly9vj) | 3:25 | 2023-03-20 |  |
-| [Une Beat Encore](https://open.spotify.com/track/1IcvRPjADDdJVqraXMk5W0) | [Maulisé](https://open.spotify.com/artist/00Z5AOJft0KxS7v35Btgm1) | [Une Beat Encore](https://open.spotify.com/album/2LZbXiTsLFaX6tiERnEYfu) | 3:16 | 2023-03-20 |  |
+| [Une Beat Encore](https://open.spotify.com/track/1IcvRPjADDdJVqraXMk5W0) | [Maulisé](https://open.spotify.com/artist/00Z5AOJft0KxS7v35Btgm1) | [Une Beat Encore](https://open.spotify.com/album/2LZbXiTsLFaX6tiERnEYfu) | 3:16 | 2023-03-20 | 2023-05-21 |
 | [Vanille fraise](https://open.spotify.com/track/7nZ9CzhiFRPhOQCn7eDSnn) | [L'Impératrice](https://open.spotify.com/artist/4PwlsrN0t5mLN0C827cbEU) | [Vanille fraise](https://open.spotify.com/album/41Ht5x3AgpMVmoFoIzaUPO) | 3:58 | 2023-03-20 |  |
 | [Voodoo? \- Lazywax Remix](https://open.spotify.com/track/2wHeYDrniYngp3did3McYD) | [L'Impératrice](https://open.spotify.com/artist/4PwlsrN0t5mLN0C827cbEU), [Lazywax](https://open.spotify.com/artist/0JmfcW7ntKscmNRiLbKEcw) | [Voodoo? \(Lazywax Remix\)](https://open.spotify.com/album/4Lbd1wUo222I65CLuxYEj9) | 6:26 | 2023-03-20 |  |
 | [Voyages](https://open.spotify.com/track/1QwwJPHlJ26QBkpugTwqqG) | [Tekkla](https://open.spotify.com/artist/76o3uKSJd1sNG1SobShuvz) | [Voyages](https://open.spotify.com/album/2CFaWHNK7iPlUlVr0PR1SG) | 3:36 | 2023-03-20 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2VXwwgu0PzV.md) - [plain]
 
 > Music for when you've got your Jesus on and your swag up \. <br/>Cover: Tjsarx
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,685 likes - 79 songs - 4 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,788 likes - 79 songs - 4 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -88,4 +88,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2VXwwgu0PzV.md) - [plain]
 | 78 | [Answer Call](https://open.spotify.com/track/2MKb3pVcUzhijnrBjIWbYH) | [Protek Illasheva](https://open.spotify.com/artist/5E8DCdcnM0P7tHQP9CjXcP), [Derry Hans](https://open.spotify.com/artist/6OcDjc4E6BZgxojhEQcG6R), [121 Selah](https://open.spotify.com/artist/0FjCYT4l6k77uJhK7arnh5) | [Answer Call](https://open.spotify.com/album/1UwO44E4nxapmMRXmioczM) | 3:43 |
 | 79 | [Now](https://open.spotify.com/track/7MuaxCreOLw1Gu6rgvQi1S) | [LAMB CULTURE.](https://open.spotify.com/artist/7ekDyLis0zh78DffR8wjW9), [Omojo](https://open.spotify.com/artist/4RCjw7JlxYqW7jUHCO4QgC), [Sharyn](https://open.spotify.com/artist/3Q4LCCA4pELbkozdmAZtKS) | [Now](https://open.spotify.com/album/1WzR4KS2GYPKpJJ6Lg6uiO) | 3:45 |
 
-Snapshot ID: `MCxkZjdkNWM3ODQ0YWE0YTc3ZmI1ZDQ1NjY1ZTU2NzZiODQwZDA2Mzcz`
+Snapshot ID: `MCxlNzdjZTkyOTRmYTE5NTM4MTdkMGVmYmJjNWU5OTk1OTE0NDQ5MDE5`

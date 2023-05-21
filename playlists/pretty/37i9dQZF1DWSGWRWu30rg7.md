@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSGWRWu30rg7.md) - [plain]
 
 > Temukan beragam musik terbaru dari talenta segar dalam negeri\. Cover: Nabila Taqiyyah
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,564 likes - 86 songs - 5 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,614 likes - 86 songs - 5 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,9 +67,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSGWRWu30rg7.md) - [plain]
 | 57 | [Moonlight](https://open.spotify.com/track/3oWYrqrORwpzXFamyz8Qkz) | [Sutter](https://open.spotify.com/artist/7B3LVUmAtTzCxgCYaMWcAY) | [Moonlight](https://open.spotify.com/album/4nY856II5XPqWRzfQkuYlH) | 3:03 |
 | 58 | [Berbeda](https://open.spotify.com/track/7HY6iAiiCCkvpPBeteEl64) | [Joe Tamaela](https://open.spotify.com/artist/4xWWNLYVkppjVdwGBvOfsH) | [Berbeda](https://open.spotify.com/album/2ac9xwLPQUrZarkrAXZLi0) | 3:19 |
 | 59 | [Livy](https://open.spotify.com/track/2DLuiBLHfbDPHrOKT4l4S4) | [KENNYJACTA](https://open.spotify.com/artist/215VH8SdJdGlV0xhqP2pxc) | [Livy](https://open.spotify.com/album/3FZtuJqGR2lY8iZuMK6N0Y) | 3:06 |
-| 60 | [Surat Cinta](https://open.spotify.com/track/5q1nLD5DvTLe9BFGe9MAA9) | [SUN](https://open.spotify.com/artist/2xqgOMshAgaakXlWVYio8L) | [Surat Cinta](https://open.spotify.com/album/1PxLiJr7mqUtuz4we6N53G) | 3:58 |
+| 60 | [Surat Cinta](https://open.spotify.com/track/5q1nLD5DvTLe9BFGe9MAA9) | [Sun](https://open.spotify.com/artist/2OH2Mi0MzkqH4lLyPApDCG) | [Surat Cinta](https://open.spotify.com/album/1PxLiJr7mqUtuz4we6N53G) | 3:58 |
 | 61 | [Rise Up](https://open.spotify.com/track/3V0S53CdiEZnprXP2e31GG) | [The Barley Hops](https://open.spotify.com/artist/76ttYjWb7CNp34bNtbuB2v) | [Rise Up](https://open.spotify.com/album/40OB1BuN3vffdz5ACb4WAn) | 4:21 |
-| 62 | [When Heaven Feels Distant](https://open.spotify.com/track/5yYvOuqA6RTPvat1n8c7Sw) | [Indigo Moiré](https://open.spotify.com/artist/2fD72otrtYy5yvHLIIIr1g) | [How Do I Keep My Head Above Water](https://open.spotify.com/album/4SSIhjFyfSfJaiFVjcCKil) | 5:48 |
+| 62 | [When Heaven Feels Distant](https://open.spotify.com/track/5yYvOuqA6RTPvat1n8c7Sw) | [Indigo Moiré](https://open.spotify.com/artist/2fD72otrtYy5yvHLIIIr1g) | [How Do I Keep My Head Above Water?](https://open.spotify.com/album/4SSIhjFyfSfJaiFVjcCKil) | 5:48 |
 | 63 | [Semestinya](https://open.spotify.com/track/6LcznlYBWztEE0I1bWRVy7) | [Mandoors](https://open.spotify.com/artist/2dboNdvc6Xd5PBHbo5eUk8) | [Semestinya](https://open.spotify.com/album/12EePkrsYZFV0dLlH4HQOs) | 4:42 |
 | 64 | [Antonim](https://open.spotify.com/track/2nQLXbmOtXfhpoZRecyzTP) | [DREAM.BYRDS](https://open.spotify.com/artist/69rF9HzurEYjMnl3DQkBpl) | [Antonim](https://open.spotify.com/album/6IZzO6LSBNLR1cKoK54rXy) | 3:24 |
 | 65 | [Comfort](https://open.spotify.com/track/7Bm5JgF3o1CKnLVBZRLyP4) | [Tat Mannerz](https://open.spotify.com/artist/27WfKfwGt4tCnSTIdBEDdA) | [Comfort](https://open.spotify.com/album/2Rer1iDwEm9yo0M66BqYwc) | 2:53 |
@@ -95,4 +95,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSGWRWu30rg7.md) - [plain]
 | 85 | [Massive And Dangerous](https://open.spotify.com/track/73r57na4Vo1t9WBeXt8ggm) | [Madness On Tha Block](https://open.spotify.com/artist/6xbSe0Pg0QWzTk5fscNbEM) | [Massive And Dangerous](https://open.spotify.com/album/0vdNMmCtFmeq9RaRjxspog) | 3:33 |
 | 86 | [Bahagialah Cinta](https://open.spotify.com/track/5K3XivJn0NLtYMhhIW3DCz) | [Asyraf Jamal](https://open.spotify.com/artist/2VVF9v30tOFn3gmOjlscX7) | [Bahagialah Cinta](https://open.spotify.com/album/0RUgjY7DIC2z0k4MgECw2A) | 4:32 |
 
-Snapshot ID: `MCxhMzVlZDMyY2Q1YjIyZmE0M2ZhM2NiOTYxNDA0NjZhYmFiZDYzMWY3`
+Snapshot ID: `MCw4ZTAxZjg0YTQyMjllZGMwYWY4OGRjOTdjNzIwYmZjNzVlMjUyMTBk`

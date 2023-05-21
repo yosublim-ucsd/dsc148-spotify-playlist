@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ve1H90mNWg.md) - [plain]
 
 > Texas music breaking waves.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,583 likes - 59 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,611 likes - 59 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ve1H90mNWg.md) - [plain]
 | 17 | [Right My Wrongs \- Acoustic](https://open.spotify.com/track/6nKq3nK5J03pDbXPqapI1x) | [Jastin Martin](https://open.spotify.com/artist/44JW18XzNr86kKNWJq8eg1) | [Right My Wrongs \(Acoustic\)](https://open.spotify.com/album/0GHvzb0AAfYy32swXfZ5oF) | 2:50 |
 | 18 | [Ridin On Me](https://open.spotify.com/track/3i8PyoA1zb5mxL15tGI5e9) | [Jayco Beatz](https://open.spotify.com/artist/6Uf13CMuIinwjWQ9LUSqbt), [Kirko Bangz](https://open.spotify.com/artist/2r8r62VGJKGi463aH1HJUZ) | [Ridin On Me](https://open.spotify.com/album/1UpOOdJJY23WH8CVCNF6R7) | 2:53 |
 | 19 | [All Things](https://open.spotify.com/track/3TF6zST4pvaoaUwekLUZEx) | [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu) | [All Things](https://open.spotify.com/album/30hJTxaNjKsXkvyhSs8rL9) | 3:09 |
-| 20 | [fine now](https://open.spotify.com/track/0JqDi8LOuWRWtAXT0I33iG) | [rari!](https://open.spotify.com/artist/5R1AkKSoonPBWqJslyuJRC), [SSGKobe](https://open.spotify.com/artist/1NHCwCMqV9oNQJXl16IltL) | [fine now](https://open.spotify.com/album/3deQeyVDYrRu2ndjJqNa7u) | 2:04 |
+| 20 | [fine now](https://open.spotify.com/track/0JqDi8LOuWRWtAXT0I33iG) | [rari!](https://open.spotify.com/artist/5R1AkKSoonPBWqJslyuJRC), [Forbiddenwillows](https://open.spotify.com/artist/5kl7QygFfeEjpsfxFqnTq5) | [fine now](https://open.spotify.com/album/3deQeyVDYrRu2ndjJqNa7u) | 2:04 |
 | 21 | [Choppa City \(feat\. MoneySign Suede & BigXthaPlug\)](https://open.spotify.com/track/7od0uLKS07yuXBaEGrDUAr) | [Hotboy Wes](https://open.spotify.com/artist/2Lgyk37aJufoDDSoU4S5nO), [MoneySign Suede](https://open.spotify.com/artist/5w61NhDHxboaPUjFZ9r2vh), [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I) | [Left For Dead, Vol.1](https://open.spotify.com/album/7IMfrbrTDMcyadk64e5Se1) | 3:43 |
 | 22 | [Back in My Zone](https://open.spotify.com/track/47zO6yADoE4dRNIh8LrNQA) | [BBY KODIE](https://open.spotify.com/artist/7Mkl8rsG7ZMoh0SZPuVZUW) | [Ashes & Diamonds](https://open.spotify.com/album/3ROPtSonqnc24VMjNtlpcV) | 2:54 |
 | 23 | [SMOKE](https://open.spotify.com/track/6sQHFQQQw59GKGTSdZ0UtD) | [1400Tsu](https://open.spotify.com/artist/1T1NCTIdcZuLvb2vlyVG4G), [Quin Nfn](https://open.spotify.com/artist/3M1quhETLChtt9NHKVaajX), [1400Casper](https://open.spotify.com/artist/32aabnjNNV3qKfQ4RoHNE9) | [SMOKE](https://open.spotify.com/album/3Fj8qwzQsoO8NaQo2NahO2) | 3:19 |
@@ -68,4 +68,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ve1H90mNWg.md) - [plain]
 | 58 | [OMW](https://open.spotify.com/track/6qQaMp90byJsvxSZpr7giU) | [Ashton Travis](https://open.spotify.com/artist/5QFkhK4qG4aIeYZIWg2DO8) | [OMW](https://open.spotify.com/album/7xrrxzWwXkWABoMN3pOdGZ) | 2:38 |
 | 59 | [Beat It](https://open.spotify.com/track/292VIEU184tvEQZs078qwX) | [GBaby Chef](https://open.spotify.com/artist/2QsVdFDTfUZDAGCcuPSCb3) | [ON GOD](https://open.spotify.com/album/0IULJ9DSDmldUP1FFHVfD7) | 2:26 |
 
-Snapshot ID: `MCxjMzMxNjVkNTkwNDNmNjYxNDM0NzViYzJmNTM0NzU5OTUxOWZhZTkx`
+Snapshot ID: `MCw0OTg2MWJhMTgxNTBkZDU3YzE2MDYxNGMxYmNjZDFkNzgzZGIyMDEy`

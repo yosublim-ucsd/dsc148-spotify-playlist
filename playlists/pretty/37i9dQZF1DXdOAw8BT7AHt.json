@@ -1,12 +1,12 @@
 {
   "description": "The best in new punk rock music. Cover: Lambrini Girls",
-  "num_followers": 48849,
+  "num_followers": 48865,
   "original_name": "The Punk List",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkNjQxYmIzZTM3MDcyNWYzZWE2ZjQ4NzJlZjYxNDhiZWY0ZWY0YzA2",
+  "snapshot_id": "MCw0YThlOGU3MDlhN2E4YTc3NGJhMzJmMWJmYzZjNWExMTQxMjQ2OWYz",
   "tracks": [
     {
       "added_at": "2023-04-21 15:17:44",
@@ -387,6 +387,22 @@
     {
       "added_at": "2023-03-20 13:21:43",
       "album": {
+        "name": "Baku's Revenge (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6ZA9jvu4Jwwqh5EmEUhBfv"
+      },
+      "artists": [
+        {
+          "name": "Magnolia Park",
+          "url": "https://open.spotify.com/artist/7B76SsfzG0wWk1WEvGzCmY"
+        }
+      ],
+      "duration_ms": 151268,
+      "name": "Facedown",
+      "url": "https://open.spotify.com/track/6Wp3jfr652P18XUIhLiNLA"
+    },
+    {
+      "added_at": "2023-03-20 13:21:43",
+      "album": {
         "name": "Imposter",
         "url": "https://open.spotify.com/album/1NIHzCmCg3oYs602XSj9o8"
       },
@@ -403,22 +419,6 @@
       "duration_ms": 183491,
       "name": "Imposter",
       "url": "https://open.spotify.com/track/0HDsndV2bSC8ffeF1St9L4"
-    },
-    {
-      "added_at": "2023-03-20 13:21:43",
-      "album": {
-        "name": "Baku's Revenge (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/6ZA9jvu4Jwwqh5EmEUhBfv"
-      },
-      "artists": [
-        {
-          "name": "Magnolia Park",
-          "url": "https://open.spotify.com/artist/7B76SsfzG0wWk1WEvGzCmY"
-        }
-      ],
-      "duration_ms": 151268,
-      "name": "Facedown",
-      "url": "https://open.spotify.com/track/6Wp3jfr652P18XUIhLiNLA"
     },
     {
       "added_at": "2023-03-03 00:00:00",
@@ -725,22 +725,6 @@
       "url": "https://open.spotify.com/track/4zxIQjgzBgVm6e5CFEHe32"
     },
     {
-      "added_at": "2023-04-21 15:17:44",
-      "album": {
-        "name": "Stop Living & Don't Dream",
-        "url": "https://open.spotify.com/album/2PWbNB64S8z7ntcCBgIJgy"
-      },
-      "artists": [
-        {
-          "name": "WALWIN",
-          "url": "https://open.spotify.com/artist/25I3ONjJhbX1mE62i57djG"
-        }
-      ],
-      "duration_ms": 142538,
-      "name": "Stop Living & Don't Dream",
-      "url": "https://open.spotify.com/track/6IoAdJtGzeZc4ulFe1MeUR"
-    },
-    {
       "added_at": "2023-03-03 00:00:00",
       "album": {
         "name": "Expert In A Dying Field",
@@ -771,6 +755,22 @@
       "duration_ms": 105000,
       "name": "Tequila",
       "url": "https://open.spotify.com/track/3PuPuqIJFkDHskgjzLgjo7"
+    },
+    {
+      "added_at": "2023-04-21 15:17:44",
+      "album": {
+        "name": "Stop Living & Don't Dream",
+        "url": "https://open.spotify.com/album/2PWbNB64S8z7ntcCBgIJgy"
+      },
+      "artists": [
+        {
+          "name": "WALWIN",
+          "url": "https://open.spotify.com/artist/25I3ONjJhbX1mE62i57djG"
+        }
+      ],
+      "duration_ms": 142538,
+      "name": "Stop Living & Don't Dream",
+      "url": "https://open.spotify.com/track/6IoAdJtGzeZc4ulFe1MeUR"
     },
     {
       "added_at": "2023-03-03 00:00:00",
@@ -825,6 +825,38 @@
       "url": "https://open.spotify.com/track/5mZJ5BCODAWK22CtWHgJvn"
     },
     {
+      "added_at": "2023-03-03 00:00:00",
+      "album": {
+        "name": "Expert In A Dying Field",
+        "url": "https://open.spotify.com/album/1nAQg0AjzpuT7lINu1J87y"
+      },
+      "artists": [
+        {
+          "name": "The Beths",
+          "url": "https://open.spotify.com/artist/7DjwIxbe8kpw4pqnzAMoin"
+        }
+      ],
+      "duration_ms": 176040,
+      "name": "Silence Is Golden",
+      "url": "https://open.spotify.com/track/5JsEyO6GdNhUa1ZimkF6f9"
+    },
+    {
+      "added_at": "2023-03-03 00:00:00",
+      "album": {
+        "name": "Cave World (Deluxe)",
+        "url": "https://open.spotify.com/album/4ArZgbWxYS8C4O1jdTrBZ8"
+      },
+      "artists": [
+        {
+          "name": "Viagra Boys",
+          "url": "https://open.spotify.com/artist/2nAKP6etu8wXNnezKXgqgg"
+        }
+      ],
+      "duration_ms": 283187,
+      "name": "It Ain't Enough",
+      "url": "https://open.spotify.com/track/2hMbqPnyTbBANdiJ8s4pXI"
+    },
+    {
       "added_at": "2023-03-20 13:21:43",
       "album": {
         "name": "Ache",
@@ -843,22 +875,6 @@
       "duration_ms": 100377,
       "name": "Ache",
       "url": "https://open.spotify.com/track/2oAmk8u71pk22FAW9330gP"
-    },
-    {
-      "added_at": "2023-03-03 00:00:00",
-      "album": {
-        "name": "Cave World (Deluxe)",
-        "url": "https://open.spotify.com/album/4ArZgbWxYS8C4O1jdTrBZ8"
-      },
-      "artists": [
-        {
-          "name": "Viagra Boys",
-          "url": "https://open.spotify.com/artist/2nAKP6etu8wXNnezKXgqgg"
-        }
-      ],
-      "duration_ms": 283187,
-      "name": "It Ain't Enough",
-      "url": "https://open.spotify.com/track/2hMbqPnyTbBANdiJ8s4pXI"
     },
     {
       "added_at": "2023-03-03 00:00:00",
@@ -891,22 +907,6 @@
       "duration_ms": 162133,
       "name": "Ferrari",
       "url": "https://open.spotify.com/track/0XOKkSEEdAWFOTugWe9anK"
-    },
-    {
-      "added_at": "2023-03-03 00:00:00",
-      "album": {
-        "name": "Expert In A Dying Field",
-        "url": "https://open.spotify.com/album/1nAQg0AjzpuT7lINu1J87y"
-      },
-      "artists": [
-        {
-          "name": "The Beths",
-          "url": "https://open.spotify.com/artist/7DjwIxbe8kpw4pqnzAMoin"
-        }
-      ],
-      "duration_ms": 176040,
-      "name": "Silence Is Golden",
-      "url": "https://open.spotify.com/track/5JsEyO6GdNhUa1ZimkF6f9"
     },
     {
       "added_at": "2023-03-03 00:00:00",
@@ -1077,6 +1077,38 @@
       "url": "https://open.spotify.com/track/6AmR0jgVwt26PqY3FJL8zk"
     },
     {
+      "added_at": "2023-05-19 20:27:53",
+      "album": {
+        "name": "Phone Lines Down",
+        "url": "https://open.spotify.com/album/6CYPmUI92x9OVowPkhyujN"
+      },
+      "artists": [
+        {
+          "name": "Spiritual Cramp",
+          "url": "https://open.spotify.com/artist/6cpzd2aRLmkE06P4lFFMlj"
+        }
+      ],
+      "duration_ms": 123205,
+      "name": "Phone Lines Down",
+      "url": "https://open.spotify.com/track/37zzrS1uyujQLQ5ZckQimK"
+    },
+    {
+      "added_at": "2023-03-03 00:00:00",
+      "album": {
+        "name": "Demolition Row",
+        "url": "https://open.spotify.com/album/1gVt5YHXoBNEXCUzgkJDlk"
+      },
+      "artists": [
+        {
+          "name": "Metz",
+          "url": "https://open.spotify.com/artist/18TNVFTJ6WfeicsMRrdJHI"
+        }
+      ],
+      "duration_ms": 258250,
+      "name": "Demolition Row",
+      "url": "https://open.spotify.com/track/2bOTDi5fEHrr14bYIDUbwV"
+    },
+    {
       "added_at": "2023-04-21 15:17:44",
       "album": {
         "name": "Lads Lads Lads",
@@ -1111,18 +1143,18 @@
     {
       "added_at": "2023-03-03 00:00:00",
       "album": {
-        "name": "Demolition Row",
-        "url": "https://open.spotify.com/album/1gVt5YHXoBNEXCUzgkJDlk"
+        "name": "Waste",
+        "url": "https://open.spotify.com/album/01sJMqpfqlYFMvVF1H0FBj"
       },
       "artists": [
         {
-          "name": "Metz",
-          "url": "https://open.spotify.com/artist/18TNVFTJ6WfeicsMRrdJHI"
+          "name": "STONE",
+          "url": "https://open.spotify.com/artist/1br1PqvafIUOis4rBUvv1H"
         }
       ],
-      "duration_ms": 258250,
-      "name": "Demolition Row",
-      "url": "https://open.spotify.com/track/2bOTDi5fEHrr14bYIDUbwV"
+      "duration_ms": 186996,
+      "name": "Waste",
+      "url": "https://open.spotify.com/track/1jDVf3LzkHI2rz5BGveizV"
     },
     {
       "added_at": "2023-03-03 00:00:00",
@@ -1147,22 +1179,6 @@
     {
       "added_at": "2023-03-03 00:00:00",
       "album": {
-        "name": "Waste",
-        "url": "https://open.spotify.com/album/01sJMqpfqlYFMvVF1H0FBj"
-      },
-      "artists": [
-        {
-          "name": "STONE",
-          "url": "https://open.spotify.com/artist/1br1PqvafIUOis4rBUvv1H"
-        }
-      ],
-      "duration_ms": 186996,
-      "name": "Waste",
-      "url": "https://open.spotify.com/track/1jDVf3LzkHI2rz5BGveizV"
-    },
-    {
-      "added_at": "2023-03-03 00:00:00",
-      "album": {
         "name": "TNSW",
         "url": "https://open.spotify.com/album/0yqxysPGRWAWR2H6sqIFUb"
       },
@@ -1175,6 +1191,22 @@
       "duration_ms": 230857,
       "name": "Changes",
       "url": "https://open.spotify.com/track/6m4BBz6Ui5oQKXNmiy1QOg"
+    },
+    {
+      "added_at": "2023-05-19 20:27:53",
+      "album": {
+        "name": "HAMMS IN A GLASS",
+        "url": "https://open.spotify.com/album/2vaTsjE2QylWhDHZs6nTuM"
+      },
+      "artists": [
+        {
+          "name": "Winona Fighter",
+          "url": "https://open.spotify.com/artist/1u5SWpU4mZSziEz2hdPSWQ"
+        }
+      ],
+      "duration_ms": 144960,
+      "name": "HAMMS IN A GLASS",
+      "url": "https://open.spotify.com/track/3249EJWdvR7xuLbXoxvLcJ"
     },
     {
       "added_at": "2023-03-20 13:21:43",
@@ -1191,22 +1223,6 @@
       "duration_ms": 197660,
       "name": "Alive",
       "url": "https://open.spotify.com/track/3GUQHwDdoziJz9wTcBC1TZ"
-    },
-    {
-      "added_at": "2023-05-19 20:27:53",
-      "album": {
-        "name": "Phone Lines Down",
-        "url": "https://open.spotify.com/album/6CYPmUI92x9OVowPkhyujN"
-      },
-      "artists": [
-        {
-          "name": "Spiritual Cramp",
-          "url": "https://open.spotify.com/artist/6cpzd2aRLmkE06P4lFFMlj"
-        }
-      ],
-      "duration_ms": 123205,
-      "name": "Phone Lines Down",
-      "url": "https://open.spotify.com/track/37zzrS1uyujQLQ5ZckQimK"
     },
     {
       "added_at": "2023-03-03 00:00:00",
@@ -1275,6 +1291,26 @@
     {
       "added_at": "2023-03-03 00:00:00",
       "album": {
+        "name": "Here's What You Could Have Won",
+        "url": "https://open.spotify.com/album/6rLQeykzlWGHn9SkQr85dN"
+      },
+      "artists": [
+        {
+          "name": "Kid Kapichi",
+          "url": "https://open.spotify.com/artist/2iwVdN0Geaw5Sn2Abeh9fB"
+        },
+        {
+          "name": "Bob Vylan",
+          "url": "https://open.spotify.com/artist/6XgIk9Y6qy6JCMZVime6DQ"
+        }
+      ],
+      "duration_ms": 218400,
+      "name": "New England",
+      "url": "https://open.spotify.com/track/1iLNCbSVrxxv117VvIsVJ1"
+    },
+    {
+      "added_at": "2023-03-03 00:00:00",
+      "album": {
         "name": "Bye Bye Big Bear",
         "url": "https://open.spotify.com/album/79PfNXhYhRSo8mLST2gSti"
       },
@@ -1303,42 +1339,6 @@
       "duration_ms": 274386,
       "name": "Relentless",
       "url": "https://open.spotify.com/track/1wnRNsHtySQZZYsvLs8tJx"
-    },
-    {
-      "added_at": "2023-03-03 00:00:00",
-      "album": {
-        "name": "Your Turn",
-        "url": "https://open.spotify.com/album/6H0dHLT0ZCo2Gymy5Fey59"
-      },
-      "artists": [
-        {
-          "name": "HARRY WAS HERE",
-          "url": "https://open.spotify.com/artist/5ztMBMGr4A0rCnBPUWErBP"
-        },
-        {
-          "name": "Cairn",
-          "url": "https://open.spotify.com/artist/6KxIsdPhNIBjLcChkonQsv"
-        }
-      ],
-      "duration_ms": 143551,
-      "name": "Your Turn",
-      "url": "https://open.spotify.com/track/3CvH1OoTxZCSrGTGJTKjoM"
-    },
-    {
-      "added_at": "2023-03-03 00:00:00",
-      "album": {
-        "name": "Paranoid",
-        "url": "https://open.spotify.com/album/6SWH4PMxSh7NHF7vzRhRHv"
-      },
-      "artists": [
-        {
-          "name": "DZ Deathrays",
-          "url": "https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu"
-        }
-      ],
-      "duration_ms": 199133,
-      "name": "Paranoid",
-      "url": "https://open.spotify.com/track/5kKHQvRdXfTBD3F99zn22K"
     }
   ],
   "unique_name": "The Punk List",

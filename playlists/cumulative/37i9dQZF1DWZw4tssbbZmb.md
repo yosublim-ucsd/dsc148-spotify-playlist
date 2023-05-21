@@ -4,7 +4,7 @@
 
 > Devendra Banhart and Noah Georgeson's Takeover selection, as previously featured on <a href="spotify:user:spotify:playlist:37i9dQZF1DX9c7yCloFHHL">Ambiente</a>.
 
-25 songs - 2 hr 20 min
+26 songs - 2 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,7 +17,8 @@
 | [Caracas Night September 11, 1975](https://open.spotify.com/track/7yQNBiIgh5QpDo4Bzr9ocp) | [Jon Hassell](https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ) | [Vernal Equinox \(Remastered\)](https://open.spotify.com/album/0KtsQ4zwAHOENu5ZW1lGgx) | 2:07 | 2023-01-10 | 2023-02-02 |
 | [Cascata di Malbacco](https://open.spotify.com/track/3sCaGhYUT0HytB06FG9M23) | [John Carroll Kirby](https://open.spotify.com/artist/7FQiZr787umw7P5dO3zqld) | [Tuscany](https://open.spotify.com/album/3D4mnf0AU05ASyKnf0wEiq) | 18:08 | 2023-01-10 |  |
 | [Destiny No.1](https://open.spotify.com/track/4oFTxscluKzz03XNU67cXg) | [Yasuaki Shimizu](https://open.spotify.com/artist/0Q14t6kRnPv4av49Rz5o6e) | [Seventh Garden](https://open.spotify.com/album/3zPHBf3UoBjK0nQEUz1gCi) | 5:19 | 2023-01-10 |  |
-| [Flux 2](https://open.spotify.com/track/0cQ2AFeqZoopVS8zetcyra) | [R\. Turman](https://open.spotify.com/artist/5fZZnv5EfMpAL3DiQHegFe), [Robert Turman](https://open.spotify.com/artist/2W2BiVgO5bISQejnz7HPhE) | [Flux](https://open.spotify.com/album/50MNzElaJpGcQNnxV6JC9c) | 10:40 | 2023-01-10 |  |
+| [Flux 2](https://open.spotify.com/track/0cQ2AFeqZoopVS8zetcyra) | [R\. Turman](https://open.spotify.com/artist/5fZZnv5EfMpAL3DiQHegFe), [Robert Turman](https://open.spotify.com/artist/2W2BiVgO5bISQejnz7HPhE) | [Flux](https://open.spotify.com/album/50MNzElaJpGcQNnxV6JC9c) | 10:40 | 2023-01-10 | 2023-05-21 |
+| [FLUX TWO](https://open.spotify.com/track/7yfa4JcR05wO1roiR5Eb7B) | [Robert Turman](https://open.spotify.com/artist/2W2BiVgO5bISQejnz7HPhE) | [FLUX](https://open.spotify.com/album/3PM9Fn7zUKsP8G25LqyTnJ) | 10:42 | 2023-01-10 |  |
 | [From Music For Bill & Me](https://open.spotify.com/track/5bVgcDkiPNkk1967y05jRW) | [Lou Harrison](https://open.spotify.com/artist/1FuQc9iJv3gdypigXiZ136) | [The Perilous Chapel](https://open.spotify.com/album/1aaXWgeWFq0oxY2ce7vfPg) | 3:38 | 2023-01-10 |  |
 | [Glimpse](https://open.spotify.com/track/2jTM1PFINR1Tama9UL35wp) | [Gyan Riley](https://open.spotify.com/artist/4QSyH7T6rdEWEQmc41SIZf) | [Sprig](https://open.spotify.com/album/0wqrFb2wN30E4uJt6DI12y) | 2:51 | 2023-01-10 |  |
 | [Glimpse](https://open.spotify.com/track/486s682C9SwHixcx2N2rqH) | [Gyan Riley](https://open.spotify.com/artist/4QSyH7T6rdEWEQmc41SIZf) | [Sprig](https://open.spotify.com/album/0jc1uc13dDxHTqDyDNmvvJ) | 2:51 | 2023-01-10 | 2023-04-29 |

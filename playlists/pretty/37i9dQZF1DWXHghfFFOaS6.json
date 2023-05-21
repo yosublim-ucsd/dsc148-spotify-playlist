@@ -1,12 +1,12 @@
 {
   "description": "Where hip-hop and soul meets jazz. Cover: Digable Planets",
-  "num_followers": 285009,
+  "num_followers": 285159,
   "original_name": "Acid Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjZmY5MTRhODAxMDFhYTJhNjRmMTFmYjdkMWU1NjVhZDEzZWViZWNl",
+  "snapshot_id": "MCxmNmU4N2JhZGNmYjQwZjc1OTcxMTU1M2VjYWJiNzkzOWZkZWQwOWU3",
   "tracks": [
     {
       "added_at": "2022-07-14 19:24:43",
@@ -279,22 +279,6 @@
     {
       "added_at": "2022-07-14 19:24:43",
       "album": {
-        "name": "Worldwide Underground",
-        "url": "https://open.spotify.com/album/1xeCT1UZTYtQoOPHemjqyY"
-      },
-      "artists": [
-        {
-          "name": "Erykah Badu",
-          "url": "https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX"
-        }
-      ],
-      "duration_ms": 286920,
-      "name": "Back In The Day",
-      "url": "https://open.spotify.com/track/5v1SuYGd6VFMGu8nVHzajO"
-    },
-    {
-      "added_at": "2022-07-14 19:24:43",
-      "album": {
         "name": "Love Approach (Bonus Track)",
         "url": "https://open.spotify.com/album/7MKr7uOdenxSKTk0RCZ0mP"
       },
@@ -307,6 +291,22 @@
       "duration_ms": 282080,
       "name": "Funkin' for Jamaica",
       "url": "https://open.spotify.com/track/55xXj4qc4ByMxcVRb5Slc4"
+    },
+    {
+      "added_at": "2022-07-14 19:24:43",
+      "album": {
+        "name": "Worldwide Underground",
+        "url": "https://open.spotify.com/album/1xeCT1UZTYtQoOPHemjqyY"
+      },
+      "artists": [
+        {
+          "name": "Erykah Badu",
+          "url": "https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX"
+        }
+      ],
+      "duration_ms": 286920,
+      "name": "Back In The Day",
+      "url": "https://open.spotify.com/track/5v1SuYGd6VFMGu8nVHzajO"
     },
     {
       "added_at": "2022-07-14 19:24:43",
@@ -771,22 +771,6 @@
     {
       "added_at": "2022-07-14 19:24:43",
       "album": {
-        "name": "Yellow",
-        "url": "https://open.spotify.com/album/0JJaoV5WzQZVp71C6CkAJ5"
-      },
-      "artists": [
-        {
-          "name": "Emma-Jean Thackray",
-          "url": "https://open.spotify.com/artist/3UgcksTtuB1Jnn8BrisEiC"
-        }
-      ],
-      "duration_ms": 186521,
-      "name": "Sun",
-      "url": "https://open.spotify.com/track/1t0YQkR6LoRrzALweX2OL8"
-    },
-    {
-      "added_at": "2022-07-14 19:24:43",
-      "album": {
         "name": "Free Your Mind",
         "url": "https://open.spotify.com/album/6egPdO2BtKte1CZpOd6Oxj"
       },
@@ -799,6 +783,22 @@
       "duration_ms": 272733,
       "name": "We Have Love",
       "url": "https://open.spotify.com/track/4JW5zLMjI7JymdPrjo0UGh"
+    },
+    {
+      "added_at": "2022-07-14 19:24:43",
+      "album": {
+        "name": "Yellow",
+        "url": "https://open.spotify.com/album/0JJaoV5WzQZVp71C6CkAJ5"
+      },
+      "artists": [
+        {
+          "name": "Emma-Jean Thackray",
+          "url": "https://open.spotify.com/artist/3UgcksTtuB1Jnn8BrisEiC"
+        }
+      ],
+      "duration_ms": 186521,
+      "name": "Sun",
+      "url": "https://open.spotify.com/track/1t0YQkR6LoRrzALweX2OL8"
     },
     {
       "added_at": "2022-07-14 19:24:43",
@@ -991,6 +991,22 @@
     {
       "added_at": "2022-07-14 19:24:43",
       "album": {
+        "name": "To The Sky (Remastered)",
+        "url": "https://open.spotify.com/album/1cTTBccilA8gZVMtbCpiJj"
+      },
+      "artists": [
+        {
+          "name": "Black Mighty Orchestra",
+          "url": "https://open.spotify.com/artist/6ToaCgW43Bu3SJURJyRAYI"
+        }
+      ],
+      "duration_ms": 196682,
+      "name": "Ocean Beach",
+      "url": "https://open.spotify.com/track/5bs3xYcyeBztF37B693bL4"
+    },
+    {
+      "added_at": "2022-07-14 19:24:43",
+      "album": {
         "name": "Beatmaker",
         "url": "https://open.spotify.com/album/26r7BEpLvogzNadNhpR73H"
       },
@@ -1007,22 +1023,6 @@
       "duration_ms": 177842,
       "name": "Beatmaker",
       "url": "https://open.spotify.com/track/2oXbBzR7XvLQDSxZumgsIN"
-    },
-    {
-      "added_at": "2022-07-14 19:24:43",
-      "album": {
-        "name": "To The Sky (Remastered)",
-        "url": "https://open.spotify.com/album/1cTTBccilA8gZVMtbCpiJj"
-      },
-      "artists": [
-        {
-          "name": "Black Mighty Orchestra",
-          "url": "https://open.spotify.com/artist/6ToaCgW43Bu3SJURJyRAYI"
-        }
-      ],
-      "duration_ms": 196682,
-      "name": "Ocean Beach",
-      "url": "https://open.spotify.com/track/5bs3xYcyeBztF37B693bL4"
     },
     {
       "added_at": "2022-07-14 19:24:43",
@@ -1079,22 +1079,6 @@
     {
       "added_at": "2022-07-14 19:24:43",
       "album": {
-        "name": "True Spirit",
-        "url": "https://open.spotify.com/album/6GxnHqovqi1yRhCpLQ9LPp"
-      },
-      "artists": [
-        {
-          "name": "Carleen Anderson",
-          "url": "https://open.spotify.com/artist/6thyqrW8SkVY11NUqTyCI6"
-        }
-      ],
-      "duration_ms": 247893,
-      "name": "Mama Said",
-      "url": "https://open.spotify.com/track/7MITu04P3bpWgI1IBdmhYf"
-    },
-    {
-      "added_at": "2022-07-14 19:24:43",
-      "album": {
         "name": "Do You Want More?!!!??!",
         "url": "https://open.spotify.com/album/3N0wHnD5Rd8jnTUvNqOXGz"
       },
@@ -1107,6 +1091,22 @@
       "duration_ms": 220026,
       "name": "Datskat",
       "url": "https://open.spotify.com/track/0aadxOTgyCZL2ayA3GheH0"
+    },
+    {
+      "added_at": "2022-07-14 19:24:43",
+      "album": {
+        "name": "True Spirit",
+        "url": "https://open.spotify.com/album/6GxnHqovqi1yRhCpLQ9LPp"
+      },
+      "artists": [
+        {
+          "name": "Carleen Anderson",
+          "url": "https://open.spotify.com/artist/6thyqrW8SkVY11NUqTyCI6"
+        }
+      ],
+      "duration_ms": 247893,
+      "name": "Mama Said",
+      "url": "https://open.spotify.com/track/7MITu04P3bpWgI1IBdmhYf"
     },
     {
       "added_at": "2022-07-14 19:24:43",
@@ -1195,26 +1195,6 @@
     {
       "added_at": "2022-07-14 19:24:43",
       "album": {
-        "name": "Girl Overboard",
-        "url": "https://open.spotify.com/album/0NdSb6t3YqkSvWpuvMeGan"
-      },
-      "artists": [
-        {
-          "name": "Snowboy",
-          "url": "https://open.spotify.com/artist/6e6FiOOuM4VotvYcIdAtXn"
-        },
-        {
-          "name": "Anna Ross",
-          "url": "https://open.spotify.com/artist/0mC0yKMC54Vo9HUuGouIE2"
-        }
-      ],
-      "duration_ms": 444333,
-      "name": "Girl Overboard",
-      "url": "https://open.spotify.com/track/2DEtevLNfY859UWgk9TVqG"
-    },
-    {
-      "added_at": "2022-07-14 19:24:43",
-      "album": {
         "name": "Disposable Arts",
         "url": "https://open.spotify.com/album/6oBCrRVCWpqR4YpNIqQRlN"
       },
@@ -1231,6 +1211,26 @@
       "duration_ms": 228466,
       "name": "Block Episode",
       "url": "https://open.spotify.com/track/1axCLL1W1NiOVz32Dnf2Ie"
+    },
+    {
+      "added_at": "2022-07-14 19:24:43",
+      "album": {
+        "name": "Girl Overboard",
+        "url": "https://open.spotify.com/album/0NdSb6t3YqkSvWpuvMeGan"
+      },
+      "artists": [
+        {
+          "name": "Snowboy",
+          "url": "https://open.spotify.com/artist/6e6FiOOuM4VotvYcIdAtXn"
+        },
+        {
+          "name": "Anna Ross",
+          "url": "https://open.spotify.com/artist/0mC0yKMC54Vo9HUuGouIE2"
+        }
+      ],
+      "duration_ms": 444333,
+      "name": "Girl Overboard",
+      "url": "https://open.spotify.com/track/2DEtevLNfY859UWgk9TVqG"
     },
     {
       "added_at": "2022-07-14 19:24:43",
@@ -1323,22 +1323,6 @@
     {
       "added_at": "2022-07-14 19:24:43",
       "album": {
-        "name": "Sounds from the Ancestors",
-        "url": "https://open.spotify.com/album/1PjB6iaRaTUUwdwDmzTNFd"
-      },
-      "artists": [
-        {
-          "name": "Kenny Garrett",
-          "url": "https://open.spotify.com/artist/0Vz0vgVrclNJlHBLrgjklY"
-        }
-      ],
-      "duration_ms": 313720,
-      "name": "Hargrove",
-      "url": "https://open.spotify.com/track/5tkioBRK2vVoinDRJbyUlp"
-    },
-    {
-      "added_at": "2022-07-14 19:24:43",
-      "album": {
         "name": "Funkhaus Studio Sessions",
         "url": "https://open.spotify.com/album/5LOoEv25jD7VHMcoaEcnbg"
       },
@@ -1351,6 +1335,22 @@
       "duration_ms": 300186,
       "name": "No Use - Funkhaus Sessions",
       "url": "https://open.spotify.com/track/6QwMs7pvzxGhriqoy3ofHc"
+    },
+    {
+      "added_at": "2022-07-14 19:24:43",
+      "album": {
+        "name": "Sounds from the Ancestors",
+        "url": "https://open.spotify.com/album/1PjB6iaRaTUUwdwDmzTNFd"
+      },
+      "artists": [
+        {
+          "name": "Kenny Garrett",
+          "url": "https://open.spotify.com/artist/0Vz0vgVrclNJlHBLrgjklY"
+        }
+      ],
+      "duration_ms": 313720,
+      "name": "Hargrove",
+      "url": "https://open.spotify.com/track/5tkioBRK2vVoinDRJbyUlp"
     },
     {
       "added_at": "2022-07-14 19:24:43",
@@ -1481,6 +1481,22 @@
       "url": "https://open.spotify.com/track/1R7t4fria7ZtUtFbRRbXSl"
     },
     {
+      "added_at": "2022-07-14 19:24:43",
+      "album": {
+        "name": "In Pursuit Of The 13th Note",
+        "url": "https://open.spotify.com/album/03uKLwGoJ4G5juOAJOuW5S"
+      },
+      "artists": [
+        {
+          "name": "Galliano",
+          "url": "https://open.spotify.com/artist/5wCNzQ86Wfer6KdOxaPlQG"
+        }
+      ],
+      "duration_ms": 286600,
+      "name": "Nothing Has Changed",
+      "url": "https://open.spotify.com/track/5mr8fQt8lQGRsUX2tNgXbc"
+    },
+    {
       "added_at": "2022-07-18 17:17:22",
       "album": {
         "name": "C'\u00e9tait un rendez-vous",
@@ -1499,18 +1515,22 @@
     {
       "added_at": "2022-07-14 19:24:43",
       "album": {
-        "name": "In Pursuit Of The 13th Note",
-        "url": "https://open.spotify.com/album/03uKLwGoJ4G5juOAJOuW5S"
+        "name": "Pass It On",
+        "url": "https://open.spotify.com/album/789KsljLATC1ZZDAxBeK27"
       },
       "artists": [
         {
-          "name": "Galliano",
-          "url": "https://open.spotify.com/artist/5wCNzQ86Wfer6KdOxaPlQG"
+          "name": "Omar",
+          "url": "https://open.spotify.com/artist/0BzTIDnFI4pvhy7vVNd41Z"
+        },
+        {
+          "name": "Erykah Badu",
+          "url": "https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX"
         }
       ],
-      "duration_ms": 286600,
-      "name": "Nothing Has Changed",
-      "url": "https://open.spotify.com/track/5mr8fQt8lQGRsUX2tNgXbc"
+      "duration_ms": 253173,
+      "name": "Be Thankful (feat. Erykah Badu)",
+      "url": "https://open.spotify.com/track/20RTW1RVNY4B2uUo2MrFTg"
     },
     {
       "added_at": "2022-07-14 19:24:43",
@@ -1547,26 +1567,6 @@
       "duration_ms": 256133,
       "name": "Homecoming",
       "url": "https://open.spotify.com/track/1mlwFuFOjVsKrYCCct8JQX"
-    },
-    {
-      "added_at": "2022-07-14 19:24:43",
-      "album": {
-        "name": "Pass It On",
-        "url": "https://open.spotify.com/album/789KsljLATC1ZZDAxBeK27"
-      },
-      "artists": [
-        {
-          "name": "Omar",
-          "url": "https://open.spotify.com/artist/0BzTIDnFI4pvhy7vVNd41Z"
-        },
-        {
-          "name": "Erykah Badu",
-          "url": "https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX"
-        }
-      ],
-      "duration_ms": 253173,
-      "name": "Be Thankful (feat. Erykah Badu)",
-      "url": "https://open.spotify.com/track/20RTW1RVNY4B2uUo2MrFTg"
     }
   ],
   "unique_name": "Acid Jazz",

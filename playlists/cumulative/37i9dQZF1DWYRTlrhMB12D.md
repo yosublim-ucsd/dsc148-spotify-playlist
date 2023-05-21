@@ -4,7 +4,7 @@
 
 > Soulful Hindi songs for your nostalgic journey\. Cover \- Kabhi Kabhie
 
-150 songs - 11 hr 22 min
+151 songs - 11 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -130,8 +130,9 @@
 | [Sama Hai Suhana Suhana \(From "Ghar Ghar Ki Kahani"\)](https://open.spotify.com/track/7xDKaSnqopBk83vfRhIUqs) | [Kishore Kumar](https://open.spotify.com/artist/0GF4shudTAFv8ak9eWdd4Y) | [Coffee Aur Kishore](https://open.spotify.com/album/0bX8qbSF7lWNygaTcpcwQz) | 3:26 | 2023-05-02 |  |
 | [Suhana Safar Aur Yeh Mausam](https://open.spotify.com/track/3V7K8wMXBKaf936CUDr3Bt) | [Mukesh](https://open.spotify.com/artist/4etv0ut4ws0GbXBtolzf5e) | [Madhumati \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6DUq0IMq75xMZuQpJKJSmm) | 3:49 | 2021-09-29 |  |
 | [Suhani Raat Dhal Chuki](https://open.spotify.com/track/1OTHxO5AO0XohUfKRRK03X) | [Mohammed Rafi](https://open.spotify.com/artist/0gXDpqwYNDODn7fB0RDN8J) | [Dulari \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/48tk373peLIrbls4prqhzg) | 3:29 | 2022-01-05 |  |
-| [Tera Mujhse \- Aa Gale Lag Jaa / Soundtrack Version](https://open.spotify.com/track/32vCHGf7sTD261maALnCmt) | [Kishore Kumar](https://open.spotify.com/artist/0GF4shudTAFv8ak9eWdd4Y), [Sushma Shrestha](https://open.spotify.com/artist/0AyqjTeFKxSNXJAJLLUaUJ) | [Mai Aur Tum](https://open.spotify.com/album/4hsD2SQIkVjyd2Sw0y2kbx) | 4:14 | 2023-05-02 |  |
+| [Tera Mujhse \- Aa Gale Lag Jaa / Soundtrack Version](https://open.spotify.com/track/32vCHGf7sTD261maALnCmt) | [Kishore Kumar](https://open.spotify.com/artist/0GF4shudTAFv8ak9eWdd4Y), [Sushma Shrestha](https://open.spotify.com/artist/0AyqjTeFKxSNXJAJLLUaUJ) | [Mai Aur Tum](https://open.spotify.com/album/4hsD2SQIkVjyd2Sw0y2kbx) | 4:14 | 2023-05-02 | 2023-05-21 |
 | [Tera Mujhse \- Aa Gale Lag Jaa / Soundtrack Version](https://open.spotify.com/track/3Jj02N4CsUY8YAn2d03M4K) | [Kishore Kumar](https://open.spotify.com/artist/0GF4shudTAFv8ak9eWdd4Y), [Sushma Shrestha](https://open.spotify.com/artist/0AyqjTeFKxSNXJAJLLUaUJ) | [Aa Gale Lag Jaa](https://open.spotify.com/album/3OnI8lR3OYG4XKSEtgudk2) | 4:14 | 2021-09-29 | 2023-03-04 |
+| [Tera Mujhse \- Aa Gale Lag Jaa / Soundtrack Version](https://open.spotify.com/track/5ZitHRRotPvqopBbvmDUHi) | [Kishore Kumar](https://open.spotify.com/artist/0GF4shudTAFv8ak9eWdd4Y), [Sushma Shrestha](https://open.spotify.com/artist/0AyqjTeFKxSNXJAJLLUaUJ) | [Kishore Kumar Most Loved Hits 2023](https://open.spotify.com/album/72yLAK3kpS2mktXo69c16J) | 4:14 | 2023-05-02 |  |
 | [Tere Mere Milan Ki Yeh Raina \(From "Abhimaan"\)](https://open.spotify.com/track/4oUJpT44uR4ShMHqp4J0OR) | [Lata Mangeshkar](https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc), [Kishore Kumar](https://open.spotify.com/artist/0GF4shudTAFv8ak9eWdd4Y) | [Diamonds Forever \- Lata Mangeshkar](https://open.spotify.com/album/7cmbUR0oPLKzrP6j6303Ad) | 4:54 | 2023-05-02 |  |
 | [Tere Mere Sapne Ab Ek Rang Hain](https://open.spotify.com/track/0bkZP6HJBDA0kBbMYKXsWj) | [Mohammed Rafi](https://open.spotify.com/artist/0gXDpqwYNDODn7fB0RDN8J) | [Guide \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2vdYAsm1WgUauImlYaqRbU) | 4:21 | 2021-09-29 |  |
 | [Teri Bindiya Re \(From "Abhimaan"\)](https://open.spotify.com/track/0x4ep73GsOujupPBVjwHgb) | [Lata Mangeshkar](https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc), [Mohammed Rafi](https://open.spotify.com/artist/0gXDpqwYNDODn7fB0RDN8J) | [Diamonds Forever \- Lata Mangeshkar](https://open.spotify.com/album/7cmbUR0oPLKzrP6j6303Ad) | 4:32 | 2022-01-05 |  |

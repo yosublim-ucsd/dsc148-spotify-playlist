@@ -8248,7 +8248,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-21",
       "duration_ms": 176542,
       "name": "Lovely",
       "url": "https://open.spotify.com/track/4PyoaiaGyrcKMMicZCvzkj"
@@ -8698,6 +8698,24 @@
       "duration_ms": 183337,
       "name": "Memories (Acoustic)",
       "url": "https://open.spotify.com/track/1m3Lsbhkn6yL8apzsCiukd"
+    },
+    {
+      "album": {
+        "name": "Middle Ground",
+        "url": "https://open.spotify.com/album/5jmEjw5krglNmuEy45URZT"
+      },
+      "artists": [
+        {
+          "name": "Maroon 5",
+          "url": "https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219800,
+      "name": "Middle Ground",
+      "url": "https://open.spotify.com/track/3xiccJ9jlTVwC8Yl66eGv5"
     },
     {
       "album": {

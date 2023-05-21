@@ -1498,7 +1498,7 @@
       ],
       "date_added": "2023-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-21",
       "duration_ms": 186745,
       "name": "everyone likes",
       "url": "https://open.spotify.com/track/6iNg9CQ1O2PGfjBRsgFu9s"
@@ -6638,6 +6638,24 @@
       "duration_ms": 225496,
       "name": "\u30c1\u30e7\u30b3\u30ec\u30fc\u30c8",
       "url": "https://open.spotify.com/track/1FhcDHsPF10O1Padlv0nMl"
+    },
+    {
+      "album": {
+        "name": "\u30c9\u30e9\u30a4\u30d6 EP",
+        "url": "https://open.spotify.com/album/4lR8rlhaM2wov7Xrw8akIk"
+      },
+      "artists": [
+        {
+          "name": "mitsume",
+          "url": "https://open.spotify.com/artist/59tUUyuaTFMty5kJE9Ojrq"
+        }
+      ],
+      "date_added": "2023-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283708,
+      "name": "\u30c9\u30e9\u30a4\u30d6",
+      "url": "https://open.spotify.com/track/6ejnOSVgHzStOr0FFo7kZR"
     },
     {
       "album": {

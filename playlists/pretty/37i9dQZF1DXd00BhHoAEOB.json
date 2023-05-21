@@ -1,12 +1,12 @@
 {
   "description": "Planta de la bugambilia que me cubres y me matas. ",
-  "num_followers": 49723,
+  "num_followers": 49800,
   "original_name": "Bugambilias",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmZDk5ODE0MDNmOGFlODk5Mzg3ODU5M2FiMzA1ZDQ5M2UyOWIwYWY2",
+  "snapshot_id": "MCw4N2U2NzZmYzFkOGQ0NGMyYmRhMWM4NGJkNWI0MzlkYmEyYzNiYjli",
   "tracks": [
     {
       "added_at": "2023-02-22 16:32:42",
@@ -1067,6 +1067,22 @@
     {
       "added_at": "2023-02-22 16:32:42",
       "album": {
+        "name": "Chavela Vargas: 30 Exitos",
+        "url": "https://open.spotify.com/album/5APXKgrB5OtipEWIdJMxse"
+      },
+      "artists": [
+        {
+          "name": "Chavela Vargas",
+          "url": "https://open.spotify.com/artist/0WC6O2ZzUcDYvcmt2mGh8c"
+        }
+      ],
+      "duration_ms": 204617,
+      "name": "Que Te Vaya Bonito",
+      "url": "https://open.spotify.com/track/3fAj5jFmlNKi6UztFnTJOl"
+    },
+    {
+      "added_at": "2023-02-22 16:32:42",
+      "album": {
         "name": "Marchita",
         "url": "https://open.spotify.com/album/0Y1tsEnH5gN8TEJRQ9xOLi"
       },
@@ -1083,34 +1099,18 @@
     {
       "added_at": "2023-02-22 16:32:42",
       "album": {
-        "name": "Chavela Vargas: 30 Exitos",
-        "url": "https://open.spotify.com/album/5APXKgrB5OtipEWIdJMxse"
+        "name": "La Sandunga",
+        "url": "https://open.spotify.com/album/0QYmOnq6og7uF4NsVlQcn3"
       },
       "artists": [
         {
-          "name": "Chavela Vargas",
-          "url": "https://open.spotify.com/artist/0WC6O2ZzUcDYvcmt2mGh8c"
+          "name": "Lila Downs",
+          "url": "https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP"
         }
       ],
-      "duration_ms": 204617,
-      "name": "Que Te Vaya Bonito",
-      "url": "https://open.spotify.com/track/3fAj5jFmlNKi6UztFnTJOl"
-    },
-    {
-      "added_at": "2023-05-20 01:41:14",
-      "album": {
-        "name": "La Casita De La Selva",
-        "url": "https://open.spotify.com/album/4Xhraf36zfM780liskyM6d"
-      },
-      "artists": [
-        {
-          "name": "Vivir Quintana",
-          "url": "https://open.spotify.com/artist/3Z3OTfxYdBnJKMXFbRjmU2"
-        }
-      ],
-      "duration_ms": 202280,
-      "name": "La Casita De La Selva",
-      "url": "https://open.spotify.com/track/76rE4L1MBuEjiF5hR5vTDE"
+      "duration_ms": 260013,
+      "name": "Sabor a Mi",
+      "url": "https://open.spotify.com/track/6hxEETYZvysyLVfCFjitUJ"
     },
     {
       "added_at": "2023-02-22 16:32:42",
@@ -1127,22 +1127,6 @@
       "duration_ms": 205794,
       "name": "Cien A\u00f1os",
       "url": "https://open.spotify.com/track/0sg2tsm1SRoCFbTCdRoJL8"
-    },
-    {
-      "added_at": "2023-02-22 16:32:42",
-      "album": {
-        "name": "La Sandunga",
-        "url": "https://open.spotify.com/album/0QYmOnq6og7uF4NsVlQcn3"
-      },
-      "artists": [
-        {
-          "name": "Lila Downs",
-          "url": "https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP"
-        }
-      ],
-      "duration_ms": 260013,
-      "name": "Sabor a Mi",
-      "url": "https://open.spotify.com/track/6hxEETYZvysyLVfCFjitUJ"
     },
     {
       "added_at": "2023-02-22 16:32:42",
@@ -1165,20 +1149,20 @@
       "url": "https://open.spotify.com/track/5QBKmig3mYQawgaDJUwYbo"
     },
     {
-      "added_at": "2023-02-22 16:32:42",
+      "added_at": "2023-05-21 00:59:07",
       "album": {
-        "name": "El Primer Rayo de Sol - EP",
-        "url": "https://open.spotify.com/album/6K8C9SgJJBr6SvIfol0ckQ"
+        "name": "La Casita De La Selva",
+        "url": "https://open.spotify.com/album/4Xhraf36zfM780liskyM6d"
       },
       "artists": [
         {
-          "name": "Monocordio",
-          "url": "https://open.spotify.com/artist/2aDuDJULvIt8qs08LIVNkU"
+          "name": "Vivir Quintana",
+          "url": "https://open.spotify.com/artist/3Z3OTfxYdBnJKMXFbRjmU2"
         }
       ],
-      "duration_ms": 289893,
-      "name": "Me Haces Existir",
-      "url": "https://open.spotify.com/track/6xoDLYJLowbigt8pqnthpx"
+      "duration_ms": 202280,
+      "name": "La Casita De La Selva",
+      "url": "https://open.spotify.com/track/76rE4L1MBuEjiF5hR5vTDE"
     },
     {
       "added_at": "2023-02-22 16:32:42",
@@ -1195,6 +1179,22 @@
       "duration_ms": 198293,
       "name": "Brindo",
       "url": "https://open.spotify.com/track/7xP92UQbHzTiAju7H2dynD"
+    },
+    {
+      "added_at": "2023-02-22 16:32:42",
+      "album": {
+        "name": "El Primer Rayo de Sol - EP",
+        "url": "https://open.spotify.com/album/6K8C9SgJJBr6SvIfol0ckQ"
+      },
+      "artists": [
+        {
+          "name": "Monocordio",
+          "url": "https://open.spotify.com/artist/2aDuDJULvIt8qs08LIVNkU"
+        }
+      ],
+      "duration_ms": 289893,
+      "name": "Me Haces Existir",
+      "url": "https://open.spotify.com/track/6xoDLYJLowbigt8pqnthpx"
     },
     {
       "added_at": "2023-02-22 16:32:42",
@@ -1231,22 +1231,6 @@
     {
       "added_at": "2023-02-22 16:32:42",
       "album": {
-        "name": "Cuatro Copas Bohemia En La Finca Altozano (Parte 1)",
-        "url": "https://open.spotify.com/album/3KbLlf8Q7t6kboFlaSML23"
-      },
-      "artists": [
-        {
-          "name": "La Santa Cecilia",
-          "url": "https://open.spotify.com/artist/2FZrEn80eCoWrrkGXPLF0v"
-        }
-      ],
-      "duration_ms": 183160,
-      "name": "Debut Y Despedida",
-      "url": "https://open.spotify.com/track/7CvBC3ZivExveWMMjXBYS9"
-    },
-    {
-      "added_at": "2023-02-22 16:32:42",
-      "album": {
         "name": "Tu Amor No Vale un Bolero",
         "url": "https://open.spotify.com/album/66x0bo3TSXpCZLKMF4NjzQ"
       },
@@ -1263,6 +1247,22 @@
       "duration_ms": 206710,
       "name": "Tu Amor No Vale un Bolero",
       "url": "https://open.spotify.com/track/0hKJCsS3XUVEECfslnauKv"
+    },
+    {
+      "added_at": "2023-02-22 16:32:42",
+      "album": {
+        "name": "Cuatro Copas Bohemia En La Finca Altozano (Parte 1)",
+        "url": "https://open.spotify.com/album/3KbLlf8Q7t6kboFlaSML23"
+      },
+      "artists": [
+        {
+          "name": "La Santa Cecilia",
+          "url": "https://open.spotify.com/artist/2FZrEn80eCoWrrkGXPLF0v"
+        }
+      ],
+      "duration_ms": 183160,
+      "name": "Debut Y Despedida",
+      "url": "https://open.spotify.com/track/7CvBC3ZivExveWMMjXBYS9"
     },
     {
       "added_at": "2023-02-22 16:32:42",
@@ -1359,22 +1359,6 @@
     {
       "added_at": "2023-02-22 16:32:42",
       "album": {
-        "name": "Vuelas Tan Lindo",
-        "url": "https://open.spotify.com/album/7CnNO6AZJLshH040ljxn66"
-      },
-      "artists": [
-        {
-          "name": "Chucho Rivas",
-          "url": "https://open.spotify.com/artist/1tClPu7uXdaZEQ32vihyJ1"
-        }
-      ],
-      "duration_ms": 158500,
-      "name": "Vuelas Tan Lindo",
-      "url": "https://open.spotify.com/track/4Bq8JO07RD7i1QxDcfzfXS"
-    },
-    {
-      "added_at": "2023-02-22 16:32:42",
-      "album": {
         "name": "Afro-Peruvian Classics: The Soul of Black Peru",
         "url": "https://open.spotify.com/album/5yJ0eAVAP7G2OR4lRcNcas"
       },
@@ -1391,22 +1375,6 @@
     {
       "added_at": "2023-02-22 16:32:42",
       "album": {
-        "name": "6 Conejo",
-        "url": "https://open.spotify.com/album/2YDfEn3AZkhgqASEzHuX72"
-      },
-      "artists": [
-        {
-          "name": "Ampersan",
-          "url": "https://open.spotify.com/artist/5A7ayYKcSsydP31DqS4vQW"
-        }
-      ],
-      "duration_ms": 265864,
-      "name": "Dolorosa",
-      "url": "https://open.spotify.com/track/4YfNSSOFDQbyLWXMI8USc8"
-    },
-    {
-      "added_at": "2023-02-22 16:32:42",
-      "album": {
         "name": "Cuatro Copas Bohemia En La Finca Altozano (Parte 1)",
         "url": "https://open.spotify.com/album/3KbLlf8Q7t6kboFlaSML23"
       },
@@ -1419,6 +1387,38 @@
       "duration_ms": 197186,
       "name": "El Andariego",
       "url": "https://open.spotify.com/track/5fST6UaXX0HZb6vw2Wkuk5"
+    },
+    {
+      "added_at": "2023-02-22 16:32:42",
+      "album": {
+        "name": "Vuelas Tan Lindo",
+        "url": "https://open.spotify.com/album/7CnNO6AZJLshH040ljxn66"
+      },
+      "artists": [
+        {
+          "name": "Chucho Rivas",
+          "url": "https://open.spotify.com/artist/1tClPu7uXdaZEQ32vihyJ1"
+        }
+      ],
+      "duration_ms": 158500,
+      "name": "Vuelas Tan Lindo",
+      "url": "https://open.spotify.com/track/4Bq8JO07RD7i1QxDcfzfXS"
+    },
+    {
+      "added_at": "2023-02-22 16:32:42",
+      "album": {
+        "name": "6 Conejo",
+        "url": "https://open.spotify.com/album/2YDfEn3AZkhgqASEzHuX72"
+      },
+      "artists": [
+        {
+          "name": "Ampersan",
+          "url": "https://open.spotify.com/artist/5A7ayYKcSsydP31DqS4vQW"
+        }
+      ],
+      "duration_ms": 265864,
+      "name": "Dolorosa",
+      "url": "https://open.spotify.com/track/4YfNSSOFDQbyLWXMI8USc8"
     },
     {
       "added_at": "2023-02-22 16:32:42",
@@ -1575,38 +1575,6 @@
     {
       "added_at": "2023-02-22 16:32:42",
       "album": {
-        "name": "Tierra Latinoamericana",
-        "url": "https://open.spotify.com/album/3hdqh8Yu6z74A8SCVR71la"
-      },
-      "artists": [
-        {
-          "name": "Musas Ensamble de Arpas",
-          "url": "https://open.spotify.com/artist/6cHMCy1zPbtTZe62e3nUUg"
-        }
-      ],
-      "duration_ms": 180317,
-      "name": "La Bruja",
-      "url": "https://open.spotify.com/track/5NCDaujx0xKLSuGci8qPIV"
-    },
-    {
-      "added_at": "2023-02-22 16:32:42",
-      "album": {
-        "name": "Cuatro Copas Bohemia En La Finca Altozano (Parte 1)",
-        "url": "https://open.spotify.com/album/3KbLlf8Q7t6kboFlaSML23"
-      },
-      "artists": [
-        {
-          "name": "La Santa Cecilia",
-          "url": "https://open.spotify.com/artist/2FZrEn80eCoWrrkGXPLF0v"
-        }
-      ],
-      "duration_ms": 188920,
-      "name": "La Copa Rota",
-      "url": "https://open.spotify.com/track/0OdHeU4ck2ix2R8NeOAe7r"
-    },
-    {
-      "added_at": "2023-02-22 16:32:42",
-      "album": {
         "name": "Sol Redondo",
         "url": "https://open.spotify.com/album/4VxzckECYwhZLsOZtFIxtm"
       },
@@ -1631,6 +1599,22 @@
     {
       "added_at": "2023-02-22 16:32:42",
       "album": {
+        "name": "Tierra Latinoamericana",
+        "url": "https://open.spotify.com/album/3hdqh8Yu6z74A8SCVR71la"
+      },
+      "artists": [
+        {
+          "name": "Musas Ensamble de Arpas",
+          "url": "https://open.spotify.com/artist/6cHMCy1zPbtTZe62e3nUUg"
+        }
+      ],
+      "duration_ms": 180317,
+      "name": "La Bruja",
+      "url": "https://open.spotify.com/track/5NCDaujx0xKLSuGci8qPIV"
+    },
+    {
+      "added_at": "2023-02-22 16:32:42",
+      "album": {
         "name": "Eso",
         "url": "https://open.spotify.com/album/4WV2QblWzbuZhaoI1qeH7W"
       },
@@ -1647,6 +1631,22 @@
       "duration_ms": 242944,
       "name": "Eso",
       "url": "https://open.spotify.com/track/5FBiauPqHLjdm4pZLIEOg2"
+    },
+    {
+      "added_at": "2023-02-22 16:32:42",
+      "album": {
+        "name": "Cuatro Copas Bohemia En La Finca Altozano (Parte 1)",
+        "url": "https://open.spotify.com/album/3KbLlf8Q7t6kboFlaSML23"
+      },
+      "artists": [
+        {
+          "name": "La Santa Cecilia",
+          "url": "https://open.spotify.com/artist/2FZrEn80eCoWrrkGXPLF0v"
+        }
+      ],
+      "duration_ms": 188920,
+      "name": "La Copa Rota",
+      "url": "https://open.spotify.com/track/0OdHeU4ck2ix2R8NeOAe7r"
     },
     {
       "added_at": "2023-02-22 16:32:42",

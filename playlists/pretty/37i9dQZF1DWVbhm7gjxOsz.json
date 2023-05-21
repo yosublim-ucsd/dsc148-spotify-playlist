@@ -1,12 +1,12 @@
 {
   "description": "Crusin' is not a crime, it's a lifestyle! ",
-  "num_followers": 4605,
+  "num_followers": 4921,
   "original_name": "Lowrider Crusin'",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4Mjk3MzIyOCwwMDAwMDAwMDAwZjkxMjQwYmRiMDQ1YzBhZTE4OGYwNTdjYmE0YTI4",
+  "snapshot_id": "MCw3ZTBkOGM4NmQ4NGZmYTM4MmEzNWI5MTQ5ZjQ3ZjRhNDY1ZTM0NGJj",
   "tracks": [
     {
       "added_at": "2023-05-01 20:33:48",
@@ -615,22 +615,6 @@
     {
       "added_at": "2023-05-01 20:33:48",
       "album": {
-        "name": "Car Wash",
-        "url": "https://open.spotify.com/album/1lUemDpotxT7p1aCGSvWDz"
-      },
-      "artists": [
-        {
-          "name": "Rose Royce",
-          "url": "https://open.spotify.com/artist/1OxJzMLmR9l5zPLap9OxuO"
-        }
-      ],
-      "duration_ms": 238200,
-      "name": "I Wanna Get Next To You",
-      "url": "https://open.spotify.com/track/1rff5WJrSljfCLYFoXkDiT"
-    },
-    {
-      "added_at": "2023-05-01 20:33:48",
-      "album": {
         "name": "The Duke Of Earl",
         "url": "https://open.spotify.com/album/2VmU63FIBsGgQYItCvsYkl"
       },
@@ -643,6 +627,22 @@
       "duration_ms": 147841,
       "name": "Duke of Earl",
       "url": "https://open.spotify.com/track/6Hy22YDN9HJMRlJP1LwnJy"
+    },
+    {
+      "added_at": "2023-05-01 20:33:48",
+      "album": {
+        "name": "Car Wash",
+        "url": "https://open.spotify.com/album/1lUemDpotxT7p1aCGSvWDz"
+      },
+      "artists": [
+        {
+          "name": "Rose Royce",
+          "url": "https://open.spotify.com/artist/1OxJzMLmR9l5zPLap9OxuO"
+        }
+      ],
+      "duration_ms": 238200,
+      "name": "I Wanna Get Next To You",
+      "url": "https://open.spotify.com/track/1rff5WJrSljfCLYFoXkDiT"
     },
     {
       "added_at": "2023-05-01 20:33:48",
@@ -955,22 +955,6 @@
     {
       "added_at": "2023-05-01 20:33:48",
       "album": {
-        "name": "The One Who Really Loves You",
-        "url": "https://open.spotify.com/album/3LOSPDjqK3UrZ0Ab5rGMdm"
-      },
-      "artists": [
-        {
-          "name": "Mary Wells",
-          "url": "https://open.spotify.com/artist/1cjZk1xXn3YCToNg3uJpA7"
-        }
-      ],
-      "duration_ms": 165333,
-      "name": "You Beat Me To The Punch",
-      "url": "https://open.spotify.com/track/4Sz8zFchpHQVQVqVyGz5Jb"
-    },
-    {
-      "added_at": "2023-05-01 20:33:48",
-      "album": {
         "name": "Disco Nights (Expanded Edition)",
         "url": "https://open.spotify.com/album/5hgGl3cmYdzcPedJs47Jum"
       },
@@ -1003,18 +987,18 @@
     {
       "added_at": "2023-05-01 20:33:48",
       "album": {
-        "name": "Workin' On A Groovy Thing....The Best Of",
-        "url": "https://open.spotify.com/album/0KFewH4mFw54lLLoP3lsRb"
+        "name": "The One Who Really Loves You",
+        "url": "https://open.spotify.com/album/3LOSPDjqK3UrZ0Ab5rGMdm"
       },
       "artists": [
         {
-          "name": "Patti Drew",
-          "url": "https://open.spotify.com/artist/6CADfReW3qshQNGQ4yPf6c"
+          "name": "Mary Wells",
+          "url": "https://open.spotify.com/artist/1cjZk1xXn3YCToNg3uJpA7"
         }
       ],
-      "duration_ms": 151453,
-      "name": "Tell Him",
-      "url": "https://open.spotify.com/track/0VZtkNntW57HvblvTBlABe"
+      "duration_ms": 165333,
+      "name": "You Beat Me To The Punch",
+      "url": "https://open.spotify.com/track/4Sz8zFchpHQVQVqVyGz5Jb"
     },
     {
       "added_at": "2023-05-01 20:33:48",
@@ -1031,6 +1015,22 @@
       "duration_ms": 194020,
       "name": "Seems Like",
       "url": "https://open.spotify.com/track/2YrZqTyToiN4oBYHAVae7F"
+    },
+    {
+      "added_at": "2023-05-01 20:33:48",
+      "album": {
+        "name": "Workin' On A Groovy Thing....The Best Of",
+        "url": "https://open.spotify.com/album/0KFewH4mFw54lLLoP3lsRb"
+      },
+      "artists": [
+        {
+          "name": "Patti Drew",
+          "url": "https://open.spotify.com/artist/6CADfReW3qshQNGQ4yPf6c"
+        }
+      ],
+      "duration_ms": 151453,
+      "name": "Tell Him",
+      "url": "https://open.spotify.com/track/0VZtkNntW57HvblvTBlABe"
     },
     {
       "added_at": "2023-05-01 20:33:48",
@@ -2059,22 +2059,6 @@
     {
       "added_at": "2023-05-01 20:33:48",
       "album": {
-        "name": "All Time Favorites: Sunny & the Sunglows",
-        "url": "https://open.spotify.com/album/3tMoSwSOAulvQRN1Y8lnB2"
-      },
-      "artists": [
-        {
-          "name": "Sunny & The Sunglows",
-          "url": "https://open.spotify.com/artist/0s4lAMIrmAdSrf8TPfU13O"
-        }
-      ],
-      "duration_ms": 164600,
-      "name": "Talk To Me",
-      "url": "https://open.spotify.com/track/1nltT2YKKlDxaZmBOS28pN"
-    },
-    {
-      "added_at": "2023-05-01 20:33:48",
-      "album": {
         "name": "Tangled Up in You",
         "url": "https://open.spotify.com/album/6AI3zYVAy45gpcxqPCw7l7"
       },
@@ -2087,6 +2071,22 @@
       "duration_ms": 240842,
       "name": "Soon Enough",
       "url": "https://open.spotify.com/track/7bVvbbjdwt1o5dRW0sevz4"
+    },
+    {
+      "added_at": "2023-05-01 20:33:48",
+      "album": {
+        "name": "All Time Favorites: Sunny & the Sunglows",
+        "url": "https://open.spotify.com/album/3tMoSwSOAulvQRN1Y8lnB2"
+      },
+      "artists": [
+        {
+          "name": "Sunny & The Sunglows",
+          "url": "https://open.spotify.com/artist/0s4lAMIrmAdSrf8TPfU13O"
+        }
+      ],
+      "duration_ms": 164600,
+      "name": "Talk To Me",
+      "url": "https://open.spotify.com/track/1nltT2YKKlDxaZmBOS28pN"
     },
     {
       "added_at": "2023-05-01 20:33:48",

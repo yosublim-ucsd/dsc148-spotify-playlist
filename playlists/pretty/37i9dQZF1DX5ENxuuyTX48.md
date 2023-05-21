@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5ENxuuyTX48.md) - [plain]
 
 > wru? OTW! Cover: Hindia
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,092 likes - 50 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,119 likes - 50 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,24 +34,24 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5ENxuuyTX48.md) - [plain]
 | 24 | [Better On My Own](https://open.spotify.com/track/1JBlPAvemeeld88PoPN69O) | [Keisya Levronka](https://open.spotify.com/artist/4EiSzlOeMnJcp2U8ayCQ3a) | [Levronka](https://open.spotify.com/album/19iIS7jphCzsXZbTqgZiRG) | 2:59 |
 | 25 | [Buru\-Buru](https://open.spotify.com/track/0qvgnnPJsK2AF2B3RyVDW6) | [Mahalini](https://open.spotify.com/artist/3wOsYKZM0zcKNasi3I7fP4) | [fábula](https://open.spotify.com/album/6iBh7T1cUR8MPrtly5xugU) | 3:42 |
 | 26 | [Glorious \- The Official Song of FIFA U\-20 World Cup Argentina 2023™](https://open.spotify.com/track/4X7IYCqR576rQi9D1pVUxQ) | [Weird Genius](https://open.spotify.com/artist/5B4kCOhcqTywB9YwXPfFtJ), [Lyodra](https://open.spotify.com/artist/6Sv2jkzH9sWQjwghW5ArMG), [Tiara Andini](https://open.spotify.com/artist/0kPb52ySN2k9P6wEZPTUzm), [Ziva Magnolya](https://open.spotify.com/artist/2wZWkw5jo8P4NVonVanxYd), [FIFA Sound](https://open.spotify.com/artist/5C01hDqpEmrmDfUhX9YWsH) | [Glorious \(The Official Song of FIFA U\-20 World Cup Argentina 2023™\)](https://open.spotify.com/album/2m15vzjiJstBHRoB8GqFZT) | 3:23 |
-| 27 | [Timur](https://open.spotify.com/track/2bEuh25NMtUEQGu6VqohPu) | [The Adams](https://open.spotify.com/artist/0zuIBB0gRxp4i4E2gvrcoM) | [Agterplaas](https://open.spotify.com/album/6EjtRvsWa1wRYJgeJOROI3) | 4:59 |
-| 28 | [HOME IS WHO YOU ARE](https://open.spotify.com/track/1fUd1ILeLIS3qTHmEowMRf) | [Paul Partohap](https://open.spotify.com/artist/7JUNqSO2J7JcC76ShZ9DI9) | [HOME IS WHO YOU ARE](https://open.spotify.com/album/6kCGFww4UHWgTffxZ9L8TJ) | 3:15 |
+| 27 | [HOME IS WHO YOU ARE](https://open.spotify.com/track/1fUd1ILeLIS3qTHmEowMRf) | [Paul Partohap](https://open.spotify.com/artist/7JUNqSO2J7JcC76ShZ9DI9) | [HOME IS WHO YOU ARE](https://open.spotify.com/album/6kCGFww4UHWgTffxZ9L8TJ) | 3:15 |
+| 28 | [Timur](https://open.spotify.com/track/2bEuh25NMtUEQGu6VqohPu) | [The Adams](https://open.spotify.com/artist/0zuIBB0gRxp4i4E2gvrcoM) | [Agterplaas](https://open.spotify.com/album/6EjtRvsWa1wRYJgeJOROI3) | 4:59 |
 | 29 | [Terima Kasih Cinta](https://open.spotify.com/track/3YNMHA6FqeqWzZyw0JVyIi) | [Afgan](https://open.spotify.com/artist/4cgBCGxtlfap2g6jveB7du) | [Confession No.1](https://open.spotify.com/album/1ahdxVWtqETWgYIuO4Uv8v) | 4:11 |
 | 30 | [Dreamin' of You](https://open.spotify.com/track/1f4N7JUd6dUHfZpfgOM72U) | [GANGGA](https://open.spotify.com/artist/4nd1IvFkUoQinjvYdUmOBI) | [Dreamin' of You](https://open.spotify.com/album/4S8IoiTKXbkvnpGkSO6kZk) | 3:08 |
 | 31 | [Kubahagia](https://open.spotify.com/track/1fmbs7VQlf1X55E99IYyzQ) | [Melly Goeslaw](https://open.spotify.com/artist/6oM1PyiV3LidEUIHKubg3W) | [Ada Apa Dengan Cinta \(Original Soundtrack\)](https://open.spotify.com/album/0CXcKhEEmqlMXPS5iPErte) | 2:59 |
 | 32 | [Langit Favoritku](https://open.spotify.com/track/22erAHtusIHAIuIMhHMKhR) | [Teddy Adhitya](https://open.spotify.com/artist/7dOswEYzOtTMECumrZ3NHY) | [Langit Favoritku](https://open.spotify.com/album/4afbOrtCfY6DZRe9Mrbmz7) | 3:41 |
 | 33 | [Bulan Yang Baik](https://open.spotify.com/track/5IgZ9Y4B9Dsi3VtIJSB75e) | [Sal Priadi](https://open.spotify.com/artist/1NjxFrpEGZTV2Ny0OJxeWu) | [Bulan Yang Baik](https://open.spotify.com/album/7E0mCwP1eQ0zIfmz7MWlWj) | 4:25 |
 | 34 | [Takkan Berpaling DariMu](https://open.spotify.com/track/4L6lkjVqEg17sOmzhcK0F3) | [Rossa](https://open.spotify.com/artist/0ygQsC5td2maGmglpzd7tp) | [Rossa](https://open.spotify.com/album/5nCPq0ccqlFWF8fsXNwuqU) | 3:50 |
-| 35 | [Tenang](https://open.spotify.com/track/7lr82r1RMJudgcKQ8y7H9K) | [Yura Yunita](https://open.spotify.com/artist/02Tq76MwpeoRu3BHIAiaio) | [Tutur Batin](https://open.spotify.com/album/4ehjkt2KhPomUc7duIqeyD) | 4:07 |
-| 36 | [BEAUTiFUL](https://open.spotify.com/track/7nDp1GRUcGuwpxLFmL8CZN) | [Paul Partohap](https://open.spotify.com/artist/7JUNqSO2J7JcC76ShZ9DI9) | [BEAUTiFUL](https://open.spotify.com/album/2g4oO9W4k5oKtND4ctGzZy) | 3:32 |
+| 35 | [BEAUTiFUL](https://open.spotify.com/track/7nDp1GRUcGuwpxLFmL8CZN) | [Paul Partohap](https://open.spotify.com/artist/7JUNqSO2J7JcC76ShZ9DI9) | [BEAUTiFUL](https://open.spotify.com/album/2g4oO9W4k5oKtND4ctGzZy) | 3:32 |
+| 36 | [Tenang](https://open.spotify.com/track/7lr82r1RMJudgcKQ8y7H9K) | [Yura Yunita](https://open.spotify.com/artist/02Tq76MwpeoRu3BHIAiaio) | [Tutur Batin](https://open.spotify.com/album/4ehjkt2KhPomUc7duIqeyD) | 4:07 |
 | 37 | [PadaMu Kubersujud \- Religi Islam](https://open.spotify.com/track/7zEfPbCxwSJXB4DGDBOrjc) | [Afgan](https://open.spotify.com/artist/4cgBCGxtlfap2g6jveB7du) | [PadaMu Kubersujud \(Religi Islam\)](https://open.spotify.com/album/3WbSafPqolU1eH5O38cBuL) | 3:24 |
 | 38 | [Bila Kemarin](https://open.spotify.com/track/50CsVpRhz7dhFPUWZs4rhS) | [Yotari](https://open.spotify.com/artist/2IGbyqqfidUAYqW19slJuR) | [Bila Kemarin](https://open.spotify.com/album/31Hr5swnJx4Lr5Ppu2vObe) | 3:03 |
-| 39 | [Hal Hebat](https://open.spotify.com/track/7JL2BYNeSbvaom6vk1ktij) | [Cakra Khan](https://open.spotify.com/artist/6pZzHAdfBLIEkQVRUhB8ps) | [Hal Hebat \(Cover\)](https://open.spotify.com/album/3uokqKRBBG16lrgwUNVIO0) | 5:19 |
-| 40 | [KuasaMu](https://open.spotify.com/track/1CJfTmS4AiFCZQffUuBNDo) | [Bunga Citra Lestari](https://open.spotify.com/artist/30qVSJGhPhrZLKG0H9DMA9) | [KuasaMu](https://open.spotify.com/album/2LD2ExN94AsCWM9DjucqgE) | 3:54 |
-| 41 | [sulky baby](https://open.spotify.com/track/3GnahtjoeFUWAu6vEYQnzH) | [yeule](https://open.spotify.com/artist/1WZarnZpWEv7dDtjAETt4X) | [sulky baby](https://open.spotify.com/album/3MvISUCBgt0rFXGhuxJ7IJ) | 4:38 |
-| 42 | [Buka Hati](https://open.spotify.com/track/3TuqUJ3OXEc68FdhoE2kaU) | [Yura Yunita](https://open.spotify.com/artist/02Tq76MwpeoRu3BHIAiaio) | [Merakit](https://open.spotify.com/album/5u9zb0LiJTVpTyhNUgNkLp) | 3:20 |
-| 43 | [Santai](https://open.spotify.com/track/1M0m0moDfMuFHiTU87sUlB) | [Faizal Tahir](https://open.spotify.com/artist/0CIHy5rV9yWHNaYa8U3KLk) | [Santai](https://open.spotify.com/album/6Kt66JYdEYoIEwLNidoGxO) | 3:14 |
-| 44 | [Terus Hidup](https://open.spotify.com/track/3sUY5xI83n8KX0rjpfxoQu) | [Aina Abdul](https://open.spotify.com/artist/48FNCGA8dKjcsfTO3TMcAV) | [Terus Hidup](https://open.spotify.com/album/4BDfVnGe4BlQxXQcf9RcqA) | 4:24 |
+| 39 | [KuasaMu](https://open.spotify.com/track/1CJfTmS4AiFCZQffUuBNDo) | [Bunga Citra Lestari](https://open.spotify.com/artist/30qVSJGhPhrZLKG0H9DMA9) | [KuasaMu](https://open.spotify.com/album/2LD2ExN94AsCWM9DjucqgE) | 3:54 |
+| 40 | [sulky baby](https://open.spotify.com/track/3GnahtjoeFUWAu6vEYQnzH) | [yeule](https://open.spotify.com/artist/1WZarnZpWEv7dDtjAETt4X) | [sulky baby](https://open.spotify.com/album/3MvISUCBgt0rFXGhuxJ7IJ) | 4:38 |
+| 41 | [Hal Hebat](https://open.spotify.com/track/7JL2BYNeSbvaom6vk1ktij) | [Cakra Khan](https://open.spotify.com/artist/6pZzHAdfBLIEkQVRUhB8ps) | [Hal Hebat \(Cover\)](https://open.spotify.com/album/3uokqKRBBG16lrgwUNVIO0) | 5:19 |
+| 42 | [Terus Hidup](https://open.spotify.com/track/3sUY5xI83n8KX0rjpfxoQu) | [Aina Abdul](https://open.spotify.com/artist/48FNCGA8dKjcsfTO3TMcAV) | [Terus Hidup](https://open.spotify.com/album/4BDfVnGe4BlQxXQcf9RcqA) | 4:24 |
+| 43 | [Buka Hati](https://open.spotify.com/track/3TuqUJ3OXEc68FdhoE2kaU) | [Yura Yunita](https://open.spotify.com/artist/02Tq76MwpeoRu3BHIAiaio) | [Merakit](https://open.spotify.com/album/5u9zb0LiJTVpTyhNUgNkLp) | 3:20 |
+| 44 | [Santai](https://open.spotify.com/track/1M0m0moDfMuFHiTU87sUlB) | [Faizal Tahir](https://open.spotify.com/artist/0CIHy5rV9yWHNaYa8U3KLk) | [Santai](https://open.spotify.com/album/6Kt66JYdEYoIEwLNidoGxO) | 3:14 |
 | 45 | [Lagu Kita](https://open.spotify.com/track/1M3VWshwnG5op9B8UT0s5W) | [Aizat Amdan](https://open.spotify.com/artist/2sS4H2xFvWaxaixeVZC4Vu) | [Percubaan Pertama](https://open.spotify.com/album/4KirOg5DKkGSOE8PWr15YT) | 3:31 |
 | 46 | [Apa Yang Tak Bisa](https://open.spotify.com/track/7eq7Q23nVvIcroCRzzkyNR) | [rumahsakit](https://open.spotify.com/artist/1Foqp2ngVCEaD2xKanB7QP) | [+imeless](https://open.spotify.com/album/1wyW6xxlgeDHqbpJRnUYPG) | 4:55 |
 | 47 | [Jangan Cepat Berlalu](https://open.spotify.com/track/536YlC50Soxss5zuiJ9SJN) | [Raisa](https://open.spotify.com/artist/5OZXWMwDhlYBRvoOfcX0sk) | [It's Personal](https://open.spotify.com/album/7i3fjDLM0IUgQVewdDZitV) | 4:05 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5ENxuuyTX48.md) - [plain]
 | 49 | [Pastikan Riuh Akhiri Malammu](https://open.spotify.com/track/34D2sMturBbWp6DS8MyIBM) | [Perunggu](https://open.spotify.com/artist/0NbKRRBuiIUwS9irPvi7wD) | [Memorandum](https://open.spotify.com/album/2ZI3XeIrCM1PsOtK3rlMth) | 4:12 |
 | 50 | [Bismillah Cinta](https://open.spotify.com/track/42OdOz68Ti3lKXVNcHZtxb) | [Ungu](https://open.spotify.com/artist/4HHdjvdn30koo54zQ6QeF5), [Lesti](https://open.spotify.com/artist/4Brw5KASFH1RpDEfdtzsJB) | [Bismillah Cinta](https://open.spotify.com/album/6cQPu618zKobCABvuqBLbs) | 4:03 |
 
-Snapshot ID: `MCwxZjU4MmJiMmUyODE5ZTNjOWM0MjM4OWFlYTQyM2NlYjU2Yzk3ZDky`
+Snapshot ID: `MCxkNWYxNzZkMzBkYWYzZjZiYjYwZTMxMGYwMjRkYjc3YTQzZGY3MjQ4`

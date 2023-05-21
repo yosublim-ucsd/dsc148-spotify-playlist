@@ -1,12 +1,12 @@
 {
   "description": "A collection of tracks produced with the legendary TB-303 rhythm composer. Cover: Richie Hawtin",
-  "num_followers": 91943,
+  "num_followers": 92095,
   "original_name": "303 Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkNWQ2ZjQ5NDFkYmQ1Zjc2NWYxMjU0ZGVjYzE1ZDY1NWJlNWIwZWFm",
+  "snapshot_id": "MCw0ZGM5ZTkzY2M3NzY2MTcxYWVhNGNhYTI1MmM0ZDkwNzIyNDBkZWNi",
   "tracks": [
     {
       "added_at": "2021-10-22 11:07:27",
@@ -287,22 +287,6 @@
     {
       "added_at": "2021-10-22 11:07:27",
       "album": {
-        "name": "Do I Do",
-        "url": "https://open.spotify.com/album/1HVxSZYaIqn7ckoaIUhy5C"
-      },
-      "artists": [
-        {
-          "name": "Maurice McGee",
-          "url": "https://open.spotify.com/artist/5LjPmruRksinKkKw8s81H2"
-        }
-      ],
-      "duration_ms": 434999,
-      "name": "Do I Do - Extended Mix",
-      "url": "https://open.spotify.com/track/26qBSwDTiiydtbXibx6fuq"
-    },
-    {
-      "added_at": "2021-10-22 11:07:27",
-      "album": {
         "name": "The Album",
         "url": "https://open.spotify.com/album/10kEW14CpfmiAkXnE5Ic3K"
       },
@@ -315,6 +299,22 @@
       "duration_ms": 326920,
       "name": "Bassline",
       "url": "https://open.spotify.com/track/4iuO0dinw5Bm18pXbZok8w"
+    },
+    {
+      "added_at": "2021-10-22 11:07:27",
+      "album": {
+        "name": "Do I Do",
+        "url": "https://open.spotify.com/album/1HVxSZYaIqn7ckoaIUhy5C"
+      },
+      "artists": [
+        {
+          "name": "Maurice McGee",
+          "url": "https://open.spotify.com/artist/5LjPmruRksinKkKw8s81H2"
+        }
+      ],
+      "duration_ms": 434999,
+      "name": "Do I Do - Extended Mix",
+      "url": "https://open.spotify.com/track/26qBSwDTiiydtbXibx6fuq"
     },
     {
       "added_at": "2021-10-22 11:07:27",
@@ -415,22 +415,6 @@
     {
       "added_at": "2021-10-22 11:07:27",
       "album": {
-        "name": "United Acid Emirates",
-        "url": "https://open.spotify.com/album/6mANZenVe14ONb3NDd4EDb"
-      },
-      "artists": [
-        {
-          "name": "Ceephax Acid Crew",
-          "url": "https://open.spotify.com/artist/3Q0VPr02bPlokDVsv5T90I"
-        }
-      ],
-      "duration_ms": 331373,
-      "name": "Commuter",
-      "url": "https://open.spotify.com/track/587ctTTmgozFfNlVTCXYJ2"
-    },
-    {
-      "added_at": "2021-10-22 11:07:27",
-      "album": {
         "name": "Alientronic",
         "url": "https://open.spotify.com/album/72KCHzc8HIXxkpkErPbnPy"
       },
@@ -443,6 +427,22 @@
       "duration_ms": 382531,
       "name": "Bowie in Harmony",
       "url": "https://open.spotify.com/track/0h3h7Mcu8m3Iw6MUQAWbsK"
+    },
+    {
+      "added_at": "2021-10-22 11:07:27",
+      "album": {
+        "name": "United Acid Emirates",
+        "url": "https://open.spotify.com/album/6mANZenVe14ONb3NDd4EDb"
+      },
+      "artists": [
+        {
+          "name": "Ceephax Acid Crew",
+          "url": "https://open.spotify.com/artist/3Q0VPr02bPlokDVsv5T90I"
+        }
+      ],
+      "duration_ms": 331373,
+      "name": "Commuter",
+      "url": "https://open.spotify.com/track/587ctTTmgozFfNlVTCXYJ2"
     },
     {
       "added_at": "2021-10-22 11:07:27",

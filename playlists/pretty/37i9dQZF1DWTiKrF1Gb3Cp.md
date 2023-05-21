@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTiKrF1Gb3Cp.md) - [plain]
 
 > Musicaliza tu sesión de videojuegos con estos versos de barrio.
 
-[Spotify](https://open.spotify.com/user/spotify) - 151,813 likes - 100 songs - 6 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 151,901 likes - 100 songs - 6 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,9 +77,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTiKrF1Gb3Cp.md) - [plain]
 | 67 | [La Feria Drogas y Muerte](https://open.spotify.com/track/3J1aXbNrnGsSmgIJ5Q5zzN) | [Remik Gonzalez](https://open.spotify.com/artist/4Hzj6dfl1y5x5TzCSsvLB6), [TREN LOKOTE](https://open.spotify.com/artist/6DjBv6gyR1HLsvwGUOD5V9) | [High Con Class XIII](https://open.spotify.com/album/5PZxScqkkCa4bjdZcq9fuh) | 4:12 |
 | 68 | [Ileso](https://open.spotify.com/track/15cuGrCRcbTwSA3yVTGLnq) | [Control Machete](https://open.spotify.com/artist/628gUkswCfCS1hIOOHmIpK) | [Artilleria Pesada, Presenta:](https://open.spotify.com/album/4EK8c4DmpA3uhyKt6P2B2v) | 6:21 |
 | 69 | [No Te La Sabes](https://open.spotify.com/track/2btkX75Lvqn68GoECFSAI9) | [Aczino](https://open.spotify.com/artist/4r1ZDYKzPt3iIjuq8LbT6X), [Millonario](https://open.spotify.com/artist/2N2aJ1SXQxMkhHD8C6fhYD) | [No Te La Sabes](https://open.spotify.com/album/4rXdXTHY6DTAiS6bP7xAcl) | 3:35 |
-| 70 | [Yo Quiero Fumar \(I Wanna Get High\) \- Spanish Version](https://open.spotify.com/track/3RIDe85YSYGGoJ0daSzfhD) | [Cypress Hill](https://open.spotify.com/artist/4P0dddbxPil35MNN9G2MEX) | [Los Grandes Éxitos En Español \(Spanish Greatest Hits\)](https://open.spotify.com/album/7u6yoSRjIBM2EI52DJLMkZ) | 2:46 |
+| 70 | [De Aquí los Veo](https://open.spotify.com/track/7ICsw0j1Ln2cJDkFzqrGUS) | [Millonario](https://open.spotify.com/artist/2N2aJ1SXQxMkhHD8C6fhYD), [Babo](https://open.spotify.com/artist/50A4LkkoiVLuJAtcRvfqYh) | [Millonario Sin Corona](https://open.spotify.com/album/2M9NJUv0KbyZzINUyMcmM3) | 3:23 |
 | 71 | [Ya Te la Cypress](https://open.spotify.com/track/45kftthTUcu0Ci2XW51jhE) | [Aleman](https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE) | [Rolemos Otro](https://open.spotify.com/album/01AooA3ywuIEk6EQaoWjh3) | 3:07 |
-| 72 | [De Aquí los Veo](https://open.spotify.com/track/7ICsw0j1Ln2cJDkFzqrGUS) | [Millonario](https://open.spotify.com/artist/2N2aJ1SXQxMkhHD8C6fhYD), [Babo](https://open.spotify.com/artist/50A4LkkoiVLuJAtcRvfqYh) | [Millonario Sin Corona](https://open.spotify.com/album/2M9NJUv0KbyZzINUyMcmM3) | 3:23 |
+| 72 | [Yo Quiero Fumar \(I Wanna Get High\) \- Spanish Version](https://open.spotify.com/track/3RIDe85YSYGGoJ0daSzfhD) | [Cypress Hill](https://open.spotify.com/artist/4P0dddbxPil35MNN9G2MEX) | [Los Grandes Éxitos En Español \(Spanish Greatest Hits\)](https://open.spotify.com/album/7u6yoSRjIBM2EI52DJLMkZ) | 2:46 |
 | 73 | [Pandillero Pero Millonario \(feat\. Santa Fe Klan\)](https://open.spotify.com/track/3AiQx9X4ZJIsd4h7vE7zDx) | [C\-Kan](https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu), [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp) | [Pandillero Pero Millonario \(feat\. Santa Fe Klan\)](https://open.spotify.com/album/2KLvSqqH6CC1Ka9Tks0HgP) | 4:03 |
 | 74 | [Soy De Barrio](https://open.spotify.com/track/10t8iyVRX6hcfb09NVPqQE) | [Adán Zapata](https://open.spotify.com/artist/1NGy8h3j8jFQvFv6cniUnl) | [Exitos](https://open.spotify.com/album/1ZGckR4LGjk5EYMRZ4Oe1A) | 3:59 |
 | 75 | [Payaso](https://open.spotify.com/track/5DvZUEmCZ6YghXnrZMLgV2) | [ILUMINATIK BUFFON](https://open.spotify.com/artist/7CvKsTEWv1BS3LydN8HgG6), [Bear Busby](https://open.spotify.com/artist/18u6URN38HiDhEhYqfUmiz), [TREN LOKOTE](https://open.spotify.com/artist/6DjBv6gyR1HLsvwGUOD5V9), [Iluminatik](https://open.spotify.com/artist/0N6H5exnFMoW4yNQ3vDJ3Z) | [Payaso](https://open.spotify.com/album/5OoEHWt4JIBppiNAgouGAi) | 3:19 |
@@ -105,8 +105,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTiKrF1Gb3Cp.md) - [plain]
 | 95 | [Fe](https://open.spotify.com/track/5E3DUwke6Or4h5rosrn5Z1) | [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf) | [Fe](https://open.spotify.com/album/0Roxdafecg5p3VQXUBfNkP) | 4:14 |
 | 96 | [México Lindo y Bandido \- Remix Dj Migue Soria \(Banda Sonora de la Película: "Los Jefes"\)](https://open.spotify.com/track/5lqxSDQ03I3pUxCVZq50q4) | [E\. Davalos](https://open.spotify.com/artist/12IZ7qlSBXBKqvxE6QYp70), [R\. Rodriguez](https://open.spotify.com/artist/3JNfocZPUOqSkazQBQKFCt), [M\. Soria](https://open.spotify.com/artist/5nZ7iv3dWZVqeRUDP4ty6I) | [Los Jefes \(Banda Sonora de la Película\)](https://open.spotify.com/album/2R4W5sM64HVW2Dqmb9Owck) | 4:07 |
 | 97 | [16 Toneladas](https://open.spotify.com/track/2kKJNfeAez08ucgMMgrFX8) | [Tiro Loko](https://open.spotify.com/artist/4Y5HJP3oFOJ8UVBXHYWBgx), [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0) | [16 Toneladas](https://open.spotify.com/album/14byPF3w5ew4oSYoWdI3H2) | 3:26 |
-| 98 | [Malandro](https://open.spotify.com/track/1120swm4qMnIJMnBp5oFgo) | [TREN LOKOTE](https://open.spotify.com/artist/6DjBv6gyR1HLsvwGUOD5V9) | [Locofonías](https://open.spotify.com/album/26zGsUDPf6YXszmHdi4aCT) | 2:46 |
-| 99 | [Followers](https://open.spotify.com/track/4s1yIuy4ncKl09LZrzLMBV) | [Pirlo](https://open.spotify.com/artist/7GQDI5Vmxs92RsIRZzYT11) | [Followers](https://open.spotify.com/album/2BfmP87r9XJ4pQLMdmpdo9) | 3:08 |
+| 98 | [Followers](https://open.spotify.com/track/4s1yIuy4ncKl09LZrzLMBV) | [Pirlo](https://open.spotify.com/artist/7GQDI5Vmxs92RsIRZzYT11) | [Followers](https://open.spotify.com/album/2BfmP87r9XJ4pQLMdmpdo9) | 3:08 |
+| 99 | [Malandro](https://open.spotify.com/track/1120swm4qMnIJMnBp5oFgo) | [TREN LOKOTE](https://open.spotify.com/artist/6DjBv6gyR1HLsvwGUOD5V9) | [Locofonías](https://open.spotify.com/album/26zGsUDPf6YXszmHdi4aCT) | 2:46 |
 | 100 | [No Dejo De Fumar](https://open.spotify.com/track/1knLbqniGhyYMnnMZ0AzyY) | [El Pinche Mara](https://open.spotify.com/artist/3L7OHIT4kfdcDSnnGM0TKN) | [Mas Locos Que Simpaticos](https://open.spotify.com/album/5vcuogPxCTR49tuq2W69eV) | 3:50 |
 
-Snapshot ID: `MCwwMjZlZTYzYjJmNzI1YjEzNmYxMmE0MGZlNDIxZmU3ZDk5MDBlMmNj`
+Snapshot ID: `MCwyMWNjOTc3MGRhZjZhZWZmNTgxOWM2ZmE2MWM2MWY0NWUwMTljZjNk`

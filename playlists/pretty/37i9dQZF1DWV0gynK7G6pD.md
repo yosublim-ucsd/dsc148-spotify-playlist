@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV0gynK7G6pD.md) - [plain]
 
 > Updated every Friday with the very best classical new releases\. Cover: Jeneba Kanneh\-Mason
 
-[Spotify](https://open.spotify.com/user/spotify) - 684,803 likes - 88 songs - 6 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 684,894 likes - 88 songs - 6 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -97,4 +97,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV0gynK7G6pD.md) - [plain]
 | 87 | [Violin Sonata No\. 2 in D Major, Op\. 94bis: I\. Moderato](https://open.spotify.com/track/0I6bmUs5u6KQnTg3WBM5J6) | [Sergei Prokofiev](https://open.spotify.com/artist/4kHtgiRnpmFIV5Tm4BIs8l), [Chiharu Taki](https://open.spotify.com/artist/5Wq7lecmoENVxUPuQKgZYe), [Yoshito Numasawa](https://open.spotify.com/artist/2sFZm96Ta4pKun9iUSy6Bs) | [Prokofiev Story](https://open.spotify.com/album/3Z0qXp5wxBAtSeEON4d6Wz) | 8:18 |
 | 88 | [Air for Violin and Orchestra, Op\. 118](https://open.spotify.com/track/67kMtGOrDCIDn8Up7kOgaO) | [Lowell Liebermann](https://open.spotify.com/artist/5O7LlX7WMkaqp4NfLzbbn7), [Aiman Mussakhajayeva](https://open.spotify.com/artist/1fvK6xheIvbU1vqvtSkeW0), [Kazakh State Symphony Orchestra](https://open.spotify.com/artist/5Js2H0xEhifZv8UNQue5yZ), [Tigran Shiganyan](https://open.spotify.com/artist/1uJIdhUjZgfjxCgqZwwJ3U) | [Liebermann: Violin Concerto, 2 Chamber Concertos, Air](https://open.spotify.com/album/0v4wAvd51p90P4kmecHFmg) | 9:34 |
 
-Snapshot ID: `MCw0NmUzNGI3MDllMWYyZTQwNDRhZjE1MTFlZGJhNjcwNzQ0NmE1Y2Qx`
+Snapshot ID: `MCwyMWU1ODIzYjY0NTAzZjFjZDcxNTVmYmU5YmQ1NzY3NWMzMDhjMTk1`

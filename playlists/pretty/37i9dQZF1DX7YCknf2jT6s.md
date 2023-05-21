@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YCknf2jT6s.md) - [plain]
 
 > New jazz for open minds\. Cover: Orrin Evans
 
-[Spotify](https://open.spotify.com/user/spotify) - 890,002 likes - 100 songs - 7 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 889,838 likes - 100 songs - 7 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YCknf2jT6s.md) - [plain]
 | 99 | [Means The World](https://open.spotify.com/track/7mxvuhXGwCU8qmTuQR5rcg) | [Reuben James](https://open.spotify.com/artist/5tA28joO5iZ0eCnvyctqRH), [Braxton Cook](https://open.spotify.com/artist/60k4atxgEIMFz4DWHp0le1), [CARRTOONS](https://open.spotify.com/artist/0994Up3Ob4zUFm3OFOWpzJ), [Gareth Lockrane](https://open.spotify.com/artist/2Km3mLLDx9YqUgnzzE2Ahv) | [Means The World](https://open.spotify.com/album/5O0iPLncgsSWVTr5FyF2o5) | 3:01 |
 | 100 | [Olha Maria](https://open.spotify.com/track/06J8E2lWKBGSjblUZm1sqy) | [Antonio Zambrini](https://open.spotify.com/artist/6TW82eCj0y0x0l5lyP77RL), [Jesper Bodilsen](https://open.spotify.com/artist/1rWaPwUXLx3KlTmOcO66L2), [Martin Maretti Andersen](https://open.spotify.com/artist/1pjHY4vNthS2YoK8R4Ty0G) | [Quietly](https://open.spotify.com/album/4aNDswPAhlIuuz6jzhKieO) | 4:17 |
 
-Snapshot ID: `MCxhNGQ0MWYxY2ZlMGMxNmI4ZTJkMzM0ZjYwMjMyYTMxM2U1MmIzYzZm`
+Snapshot ID: `MCxiNGRmMzAzYzU2YTQ1Y2NhMmMwZTM2YTBhNGQ2NWU1ODM4ZWU5NjAx`

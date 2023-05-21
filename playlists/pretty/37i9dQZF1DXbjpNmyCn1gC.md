@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbjpNmyCn1gC.md) - [plain]
 
 > Enjoy music from "NARUTO" series! / 音楽で辿る「NARUTO \-ナルト\-」シリーズの世界。<br/>©岸本斉史 スコット／集英社・テレビ東京・ぴえろ
 
-[Spotify](https://open.spotify.com/user/spotify) - 225,540 likes - 115 songs - 7 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 225,977 likes - 115 songs - 7 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,7 +48,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbjpNmyCn1gC.md) - [plain]
 | 38 | [青のララバイ](https://open.spotify.com/track/5QlI96uVZdjPZaJzqsgqT0) | [Kuroneko Chelsea](https://open.spotify.com/artist/52a7qtJbAU8YBI6fXYuIOz) | [青のララバイ \(Special Edition\)](https://open.spotify.com/album/52Ftemr7r3GnZtLBdJFKVq) | 3:42 |
 | 39 | [ノーボーイ・ノークライ](https://open.spotify.com/track/1Ek1oOZaKFPYsa4ri0yu4u) | [STANCE PUNKS](https://open.spotify.com/artist/5Grq5bIeD9Vw6JyBiobSdA) | [ノーボーイ・ノークライ](https://open.spotify.com/album/2JKl9ToS8OrZ6bcMZq13gs) | 3:34 |
 | 40 | [Re:member](https://open.spotify.com/track/2LmPVAT6xZMEubI7NAsmPE) | [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY) | [Re:member](https://open.spotify.com/album/17Qhy6KxiLhKNaofDRAYDq) | 3:19 |
-| 41 | [ハルモニア](https://open.spotify.com/track/2vSmWMpZ4HaxdUVymEGJjo) | [Rythem](https://open.spotify.com/artist/28Be7eeRSqjriWnRuxhpOA) | [ハルモニア](https://open.spotify.com/album/7yGURbvJMqTxlK3iVyDRoz) | 4:16 |
+| 41 | [ハルモニア](https://open.spotify.com/track/2vSmWMpZ4HaxdUVymEGJjo) | [RYTHEM](https://open.spotify.com/artist/28Be7eeRSqjriWnRuxhpOA) | [ハルモニア](https://open.spotify.com/album/7yGURbvJMqTxlK3iVyDRoz) | 4:16 |
 | 42 | [ALIVE](https://open.spotify.com/track/1vQ3mDtObR4PDZTS8FRaTO) | [Raico](https://open.spotify.com/artist/3Ic8pMahQ8GQxK5ivAFZgs) | [ALIVE](https://open.spotify.com/album/5OTBnIuSvdnNesUx7r8VFi) | 4:45 |
 | 43 | [今まで何度も](https://open.spotify.com/track/3KwDeGfyQB9xihdr9Mrj7u) | [The Mass Missile](https://open.spotify.com/artist/0ZZkqs16RgXFeUQbRdGFef) | [今まで何度も](https://open.spotify.com/album/76YVAXnHcrnOg4JfRVQcPW) | 4:41 |
 | 44 | [流星](https://open.spotify.com/track/2Wo44gmaFpyOKtE6aRkwnW) | [TiA](https://open.spotify.com/artist/7McY8NwWEwM49D53tGVoqp) | [流星](https://open.spotify.com/album/5NKIB6ChEqgKYbR92NKwk2) | 5:18 |
@@ -124,4 +124,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbjpNmyCn1gC.md) - [plain]
 | 114 | [雄叫び](https://open.spotify.com/track/3jcW4gTJQQ5inpE8VxSSav) | [Yusuke](https://open.spotify.com/artist/0iWpuF3h43ZtZJxcUp8eti) | [雄叫び](https://open.spotify.com/album/68hM5eE9BgTn8AYhns8nug) | 3:41 |
 | 115 | [Future Eve](https://open.spotify.com/track/5B26nnZsdXY3KheV1oxo2M) | [OKAMOTO'S](https://open.spotify.com/artist/3X1afU2VL6MV0AJacARH7T) | [欲望](https://open.spotify.com/album/1KRWNkaUdxDoEVgdUXfa76) | 3:52 |
 
-Snapshot ID: `MCw5ZmJkOWQ0OGYwOTI2MGY1OTI0MWM1ZWY4OTE1NzIyMjMxMDIwMDli`
+Snapshot ID: `MCw4MDU1NDg2MzEwZTRjMTI2ZGZmMmU0OWQ4ZmE0ODIwN2ExNTk0MTUw`

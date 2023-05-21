@@ -1,12 +1,12 @@
 {
   "description": "New York salsa...it's home.",
-  "num_followers": 19204,
+  "num_followers": 19263,
   "original_name": "New York Salsa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2ZWZmOGQyMDI5MWQxMmU5YjM0MDY3OGQ1Yjg1MGMzNWVkNjFkZjUx",
+  "snapshot_id": "MCw5OTY5OGRmNzgwYTM1ODkyZDhiYWM5MmI3MmVmYjUyYjM0NjhkZmRk",
   "tracks": [
     {
       "added_at": "2023-03-17 00:52:56",
@@ -471,22 +471,6 @@
     {
       "added_at": "2023-03-17 00:52:56",
       "album": {
-        "name": "De Verdad",
-        "url": "https://open.spotify.com/album/1MNS4bn9b4b1E5J4w9ogP7"
-      },
-      "artists": [
-        {
-          "name": "Eddie Santiago",
-          "url": "https://open.spotify.com/artist/5Wg6XnPTp0xXxFCjywwR9I"
-        }
-      ],
-      "duration_ms": 283200,
-      "name": "Mia",
-      "url": "https://open.spotify.com/track/3x4oECarDKCZxecqOYis52"
-    },
-    {
-      "added_at": "2023-03-17 00:52:56",
-      "album": {
         "name": "Bueno y M\u00e1s",
         "url": "https://open.spotify.com/album/2L8Z97iqrz7OMo4OpbCFEg"
       },
@@ -499,6 +483,22 @@
       "duration_ms": 270863,
       "name": "Carro de Fuego",
       "url": "https://open.spotify.com/track/6vXGxfr6aYO3Nq2jKXkdC5"
+    },
+    {
+      "added_at": "2023-03-17 00:52:56",
+      "album": {
+        "name": "De Verdad",
+        "url": "https://open.spotify.com/album/1MNS4bn9b4b1E5J4w9ogP7"
+      },
+      "artists": [
+        {
+          "name": "Eddie Santiago",
+          "url": "https://open.spotify.com/artist/5Wg6XnPTp0xXxFCjywwR9I"
+        }
+      ],
+      "duration_ms": 283200,
+      "name": "Mia",
+      "url": "https://open.spotify.com/track/3x4oECarDKCZxecqOYis52"
     },
     {
       "added_at": "2023-03-17 00:52:56",
@@ -639,22 +639,6 @@
     {
       "added_at": "2023-03-17 00:52:56",
       "album": {
-        "name": "Serie Platino: Eddie Santiago",
-        "url": "https://open.spotify.com/album/04nuGr7TFcEEP5CdGrmG3s"
-      },
-      "artists": [
-        {
-          "name": "Eddie Santiago",
-          "url": "https://open.spotify.com/artist/5Wg6XnPTp0xXxFCjywwR9I"
-        }
-      ],
-      "duration_ms": 303106,
-      "name": "Me Fallaste",
-      "url": "https://open.spotify.com/track/34VHJUNDzhylu6uZIu4L6z"
-    },
-    {
-      "added_at": "2023-03-17 00:52:56",
-      "album": {
         "name": "Greatest Hits",
         "url": "https://open.spotify.com/album/4zAgB7K2I3oeUufUpSHwOZ"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 414706,
       "name": "El Gran Var\u00f3n",
       "url": "https://open.spotify.com/track/22nCrqu1Bd7abghLtJrf6w"
+    },
+    {
+      "added_at": "2023-03-17 00:52:56",
+      "album": {
+        "name": "Serie Platino: Eddie Santiago",
+        "url": "https://open.spotify.com/album/04nuGr7TFcEEP5CdGrmG3s"
+      },
+      "artists": [
+        {
+          "name": "Eddie Santiago",
+          "url": "https://open.spotify.com/artist/5Wg6XnPTp0xXxFCjywwR9I"
+        }
+      ],
+      "duration_ms": 303106,
+      "name": "Me Fallaste",
+      "url": "https://open.spotify.com/track/34VHJUNDzhylu6uZIu4L6z"
     },
     {
       "added_at": "2023-03-17 00:52:56",
@@ -719,22 +719,6 @@
     {
       "added_at": "2023-03-17 00:52:56",
       "album": {
-        "name": "El Sonero Quel El Pueblo Prefiere",
-        "url": "https://open.spotify.com/album/4UCOrGLB3LoRAeHPWA4O3G"
-      },
-      "artists": [
-        {
-          "name": "Raulin Rosendo",
-          "url": "https://open.spotify.com/artist/4pYTSh5LpqCVVSejQ4v6AF"
-        }
-      ],
-      "duration_ms": 300106,
-      "name": "Lady Laura",
-      "url": "https://open.spotify.com/track/2kzquEERgcPf5uO55ARVRR"
-    },
-    {
-      "added_at": "2023-03-17 00:52:56",
-      "album": {
         "name": "Pacheco Y Su Charanga Vol. 3: Que Suene La Flauta",
         "url": "https://open.spotify.com/album/694VA7cAltUDJrYV05dvsy"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 153608,
       "name": "Acuyuye",
       "url": "https://open.spotify.com/track/5LCpO7pp92DHmXzCLtJnnj"
+    },
+    {
+      "added_at": "2023-03-17 00:52:56",
+      "album": {
+        "name": "El Sonero Quel El Pueblo Prefiere",
+        "url": "https://open.spotify.com/album/4UCOrGLB3LoRAeHPWA4O3G"
+      },
+      "artists": [
+        {
+          "name": "Raulin Rosendo",
+          "url": "https://open.spotify.com/artist/4pYTSh5LpqCVVSejQ4v6AF"
+        }
+      ],
+      "duration_ms": 300106,
+      "name": "Lady Laura",
+      "url": "https://open.spotify.com/track/2kzquEERgcPf5uO55ARVRR"
     },
     {
       "added_at": "2023-03-17 00:52:56",
@@ -1627,18 +1627,18 @@
     {
       "added_at": "2023-03-17 00:52:56",
       "album": {
-        "name": "Oro Salsero",
-        "url": "https://open.spotify.com/album/2tG9CZgoAY04Rr1iR5OstZ"
+        "name": "Mambo Mania Vol. 3",
+        "url": "https://open.spotify.com/album/7GRXwv2BXJlOTU9QKLd44m"
       },
       "artists": [
         {
-          "name": "Tony Vega",
-          "url": "https://open.spotify.com/artist/3Yg61bt7pZYX1bbMXEj8oY"
+          "name": "The Mambo Express",
+          "url": "https://open.spotify.com/artist/6MnbaNwCECXZ66BEGXlTkl"
         }
       ],
-      "duration_ms": 299093,
-      "name": "Yo Me Quedo",
-      "url": "https://open.spotify.com/track/6bwLgRFk9bZa59Uof5fXBf"
+      "duration_ms": 179880,
+      "name": "Ran Kan Kan",
+      "url": "https://open.spotify.com/track/69ulmthmmwP9CaSqVQldoE"
     },
     {
       "added_at": "2023-03-17 00:52:56",
@@ -1659,18 +1659,18 @@
     {
       "added_at": "2023-03-17 00:52:56",
       "album": {
-        "name": "Mambo Mania Vol. 3",
-        "url": "https://open.spotify.com/album/7GRXwv2BXJlOTU9QKLd44m"
+        "name": "Oro Salsero",
+        "url": "https://open.spotify.com/album/2tG9CZgoAY04Rr1iR5OstZ"
       },
       "artists": [
         {
-          "name": "The Mambo Express",
-          "url": "https://open.spotify.com/artist/6MnbaNwCECXZ66BEGXlTkl"
+          "name": "Tony Vega",
+          "url": "https://open.spotify.com/artist/3Yg61bt7pZYX1bbMXEj8oY"
         }
       ],
-      "duration_ms": 179880,
-      "name": "Ran Kan Kan",
-      "url": "https://open.spotify.com/track/69ulmthmmwP9CaSqVQldoE"
+      "duration_ms": 299093,
+      "name": "Yo Me Quedo",
+      "url": "https://open.spotify.com/track/6bwLgRFk9bZa59Uof5fXBf"
     },
     {
       "added_at": "2023-03-17 00:52:56",

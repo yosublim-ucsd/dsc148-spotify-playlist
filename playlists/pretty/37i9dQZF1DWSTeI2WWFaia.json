@@ -1,12 +1,12 @@
 {
   "description": "Lyrical, lo-fi, and lowlife raps. Cover: Conway The Machine",
-  "num_followers": 1615480,
+  "num_followers": 1615635,
   "original_name": "Spilled Ink",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiODNhOTY1YzUyN2MxNzk2Y2NmNDJmMWE4NDBmNWJiNzljZTA2MGJh",
+  "snapshot_id": "MCwxMTA3MDIzZGRjNjFkOTdkMWYyMTNiMGU2OGFhYzVlNTZjYjY0Mzdj",
   "tracks": [
     {
       "added_at": "2023-05-19 22:42:08",
@@ -519,30 +519,6 @@
     {
       "added_at": "2023-05-19 22:42:08",
       "album": {
-        "name": "3P",
-        "url": "https://open.spotify.com/album/7oct4g7sEmjOy2kw8RkrCd"
-      },
-      "artists": [
-        {
-          "name": "Logic",
-          "url": "https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L"
-        },
-        {
-          "name": "C Dot Castro",
-          "url": "https://open.spotify.com/artist/1EEH91ujjE6eIlYtEjrHv6"
-        },
-        {
-          "name": "halfBREED",
-          "url": "https://open.spotify.com/artist/2OKpImEHt9ug1QUHp56tQj"
-        }
-      ],
-      "duration_ms": 216521,
-      "name": "Game 6",
-      "url": "https://open.spotify.com/track/2NpAwkhQZDFD1kWR1ZxuWM"
-    },
-    {
-      "added_at": "2023-05-19 22:42:08",
-      "album": {
         "name": "Don't Let The Devil [Feat. thankugoodsir]",
         "url": "https://open.spotify.com/album/60rpMY5zgymbCEn7ICfi8M"
       },
@@ -563,6 +539,30 @@
       "duration_ms": 164894,
       "name": "Don't Let The Devil [Feat. thankugoodsir] - Single Version",
       "url": "https://open.spotify.com/track/2LBwRP4HSUTJiLobjhaaXp"
+    },
+    {
+      "added_at": "2023-05-19 22:42:08",
+      "album": {
+        "name": "3P",
+        "url": "https://open.spotify.com/album/7oct4g7sEmjOy2kw8RkrCd"
+      },
+      "artists": [
+        {
+          "name": "Logic",
+          "url": "https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L"
+        },
+        {
+          "name": "C Dot Castro",
+          "url": "https://open.spotify.com/artist/1EEH91ujjE6eIlYtEjrHv6"
+        },
+        {
+          "name": "halfBREED",
+          "url": "https://open.spotify.com/artist/2OKpImEHt9ug1QUHp56tQj"
+        }
+      ],
+      "duration_ms": 216521,
+      "name": "Game 6",
+      "url": "https://open.spotify.com/track/2NpAwkhQZDFD1kWR1ZxuWM"
     },
     {
       "added_at": "2023-05-19 22:42:08",
@@ -655,6 +655,26 @@
     {
       "added_at": "2023-05-19 22:42:08",
       "album": {
+        "name": "Paradise II (feat. Norah Jones)",
+        "url": "https://open.spotify.com/album/2z5KrQ5Kidw5K3zLeMs1gL"
+      },
+      "artists": [
+        {
+          "name": "Logic",
+          "url": "https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L"
+        },
+        {
+          "name": "Norah Jones",
+          "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N"
+        }
+      ],
+      "duration_ms": 207386,
+      "name": "Paradise II (feat. Norah Jones) - Single Version",
+      "url": "https://open.spotify.com/track/4HBYReb8ynLCDpLWvMHJ5d"
+    },
+    {
+      "added_at": "2023-05-19 22:42:08",
+      "album": {
         "name": "King's Disease III",
         "url": "https://open.spotify.com/album/3vQuGKQJMfdXmkjRKqUesk"
       },
@@ -667,6 +687,54 @@
       "duration_ms": 167724,
       "name": "Michael & Quincy",
       "url": "https://open.spotify.com/track/5MfCvL6jCTkxPCBQf3OkYH"
+    },
+    {
+      "added_at": "2023-05-19 22:42:08",
+      "album": {
+        "name": "F65",
+        "url": "https://open.spotify.com/album/57iVWXgjdtxrgUH1snpz7i"
+      },
+      "artists": [
+        {
+          "name": "IDK",
+          "url": "https://open.spotify.com/artist/6aiFCgyKNwF9Rv5TOxnE8E"
+        },
+        {
+          "name": "Jucee Froot",
+          "url": "https://open.spotify.com/artist/7BtDOCA9U1krM87JITg6bF"
+        },
+        {
+          "name": "Saucy Santana",
+          "url": "https://open.spotify.com/artist/2NfwGBr2swqZ1rzE3kAV23"
+        }
+      ],
+      "duration_ms": 175834,
+      "name": "Pinot Noir",
+      "url": "https://open.spotify.com/track/4Z2hR3qjHR4r7dwt7dKd1s"
+    },
+    {
+      "added_at": "2023-05-19 22:42:08",
+      "album": {
+        "name": "The Great Escape",
+        "url": "https://open.spotify.com/album/1AJrpzYu5KAbDSvmyiIUhr"
+      },
+      "artists": [
+        {
+          "name": "Larry June",
+          "url": "https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl"
+        },
+        {
+          "name": "The Alchemist",
+          "url": "https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu"
+        },
+        {
+          "name": "Boldy James",
+          "url": "https://open.spotify.com/artist/4fpwOzxFRMVGfd197dKIdY"
+        }
+      ],
+      "duration_ms": 197266,
+      "name": "Art Talk",
+      "url": "https://open.spotify.com/track/4n0fik3eIbcmKhDh4Xw5x9"
     },
     {
       "added_at": "2023-05-19 22:42:08",
@@ -707,74 +775,6 @@
       "duration_ms": 173146,
       "name": "Back In Office",
       "url": "https://open.spotify.com/track/5rrtDWbFizKTZ7GcsHYHh7"
-    },
-    {
-      "added_at": "2023-05-19 22:42:08",
-      "album": {
-        "name": "The Great Escape",
-        "url": "https://open.spotify.com/album/1AJrpzYu5KAbDSvmyiIUhr"
-      },
-      "artists": [
-        {
-          "name": "Larry June",
-          "url": "https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl"
-        },
-        {
-          "name": "The Alchemist",
-          "url": "https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu"
-        },
-        {
-          "name": "Boldy James",
-          "url": "https://open.spotify.com/artist/4fpwOzxFRMVGfd197dKIdY"
-        }
-      ],
-      "duration_ms": 197266,
-      "name": "Art Talk",
-      "url": "https://open.spotify.com/track/4n0fik3eIbcmKhDh4Xw5x9"
-    },
-    {
-      "added_at": "2023-05-19 22:42:08",
-      "album": {
-        "name": "Paradise II (feat. Norah Jones)",
-        "url": "https://open.spotify.com/album/2z5KrQ5Kidw5K3zLeMs1gL"
-      },
-      "artists": [
-        {
-          "name": "Logic",
-          "url": "https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L"
-        },
-        {
-          "name": "Norah Jones",
-          "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N"
-        }
-      ],
-      "duration_ms": 207386,
-      "name": "Paradise II (feat. Norah Jones) - Single Version",
-      "url": "https://open.spotify.com/track/4HBYReb8ynLCDpLWvMHJ5d"
-    },
-    {
-      "added_at": "2023-05-19 22:42:08",
-      "album": {
-        "name": "F65",
-        "url": "https://open.spotify.com/album/57iVWXgjdtxrgUH1snpz7i"
-      },
-      "artists": [
-        {
-          "name": "IDK",
-          "url": "https://open.spotify.com/artist/6aiFCgyKNwF9Rv5TOxnE8E"
-        },
-        {
-          "name": "Jucee Froot",
-          "url": "https://open.spotify.com/artist/7BtDOCA9U1krM87JITg6bF"
-        },
-        {
-          "name": "Saucy Santana",
-          "url": "https://open.spotify.com/artist/2NfwGBr2swqZ1rzE3kAV23"
-        }
-      ],
-      "duration_ms": 175834,
-      "name": "Pinot Noir",
-      "url": "https://open.spotify.com/track/4Z2hR3qjHR4r7dwt7dKd1s"
     },
     {
       "added_at": "2023-05-19 22:42:08",
@@ -867,22 +867,22 @@
     {
       "added_at": "2023-05-19 22:42:08",
       "album": {
-        "name": "Do Better",
-        "url": "https://open.spotify.com/album/4XhdHEPifvpnVUa4S33548"
+        "name": "Wake Up (feat. Lucy Rose)",
+        "url": "https://open.spotify.com/album/15lStGFq624eLO5FMmLp2j"
       },
       "artists": [
         {
-          "name": "Ab-Soul",
-          "url": "https://open.spotify.com/artist/0g9vAlRPK9Gt3FKCekk4TW"
+          "name": "Logic",
+          "url": "https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L"
         },
         {
-          "name": "Zacari",
-          "url": "https://open.spotify.com/artist/3qBKjEOanahMxlRojwCzhI"
+          "name": "Lucy Rose",
+          "url": "https://open.spotify.com/artist/2uvY5pgdD9t1CZ5zMNw1rl"
         }
       ],
-      "duration_ms": 231818,
-      "name": "Do Better",
-      "url": "https://open.spotify.com/track/06kBwptOYkGn1xL5XvtsRT"
+      "duration_ms": 178181,
+      "name": "Wake Up (feat. Lucy Rose)",
+      "url": "https://open.spotify.com/track/1wea451SlpJfqRy4YVK867"
     },
     {
       "added_at": "2023-05-19 22:42:08",
@@ -907,22 +907,22 @@
     {
       "added_at": "2023-05-19 22:42:08",
       "album": {
-        "name": "Slipping Into Darkness",
-        "url": "https://open.spotify.com/album/05HfppEroQ2s6h4CkBbr6N"
+        "name": "Do Better",
+        "url": "https://open.spotify.com/album/4XhdHEPifvpnVUa4S33548"
       },
       "artists": [
         {
-          "name": "Hit-Boy",
-          "url": "https://open.spotify.com/artist/6q3p11nP1p80Ey6LrOOSed"
+          "name": "Ab-Soul",
+          "url": "https://open.spotify.com/artist/0g9vAlRPK9Gt3FKCekk4TW"
         },
         {
-          "name": "The Alchemist",
-          "url": "https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu"
+          "name": "Zacari",
+          "url": "https://open.spotify.com/artist/3qBKjEOanahMxlRojwCzhI"
         }
       ],
-      "duration_ms": 256926,
-      "name": "Slipping Into Darkness",
-      "url": "https://open.spotify.com/track/7oTTYjFN9TksJwsj55r2hb"
+      "duration_ms": 231818,
+      "name": "Do Better",
+      "url": "https://open.spotify.com/track/06kBwptOYkGn1xL5XvtsRT"
     },
     {
       "added_at": "2023-05-19 22:42:08",
@@ -943,28 +943,28 @@
     {
       "added_at": "2023-05-19 22:42:08",
       "album": {
-        "name": "Wake Up (feat. Lucy Rose)",
-        "url": "https://open.spotify.com/album/15lStGFq624eLO5FMmLp2j"
+        "name": "Slipping Into Darkness",
+        "url": "https://open.spotify.com/album/05HfppEroQ2s6h4CkBbr6N"
       },
       "artists": [
         {
-          "name": "Logic",
-          "url": "https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L"
+          "name": "Hit-Boy",
+          "url": "https://open.spotify.com/artist/6q3p11nP1p80Ey6LrOOSed"
         },
         {
-          "name": "Lucy Rose",
-          "url": "https://open.spotify.com/artist/2uvY5pgdD9t1CZ5zMNw1rl"
+          "name": "The Alchemist",
+          "url": "https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu"
         }
       ],
-      "duration_ms": 178181,
-      "name": "Wake Up (feat. Lucy Rose)",
-      "url": "https://open.spotify.com/track/1wea451SlpJfqRy4YVK867"
+      "duration_ms": 256926,
+      "name": "Slipping Into Darkness",
+      "url": "https://open.spotify.com/track/7oTTYjFN9TksJwsj55r2hb"
     },
     {
       "added_at": "2023-05-19 22:42:08",
       "album": {
-        "name": "Real Ones",
-        "url": "https://open.spotify.com/album/68H6LwUmQnUtRxVitstmt4"
+        "name": "To See A Sunset (Deluxe)",
+        "url": "https://open.spotify.com/album/43DmATz8B7QzovFhSmNZGW"
       },
       "artists": [
         {
@@ -974,27 +974,35 @@
         {
           "name": "Statik Selektah",
           "url": "https://open.spotify.com/artist/5v0XTlB9FqNvfBfnw8n5b0"
+        },
+        {
+          "name": "Blu",
+          "url": "https://open.spotify.com/artist/1KeJhR0ENFviw187pD4LPT"
         }
       ],
-      "duration_ms": 228658,
-      "name": "Real Ones",
-      "url": "https://open.spotify.com/track/364iH9PRTLwG7Lvr3MqPpa"
+      "duration_ms": 180049,
+      "name": "Brick By Brick (feat. Blu)",
+      "url": "https://open.spotify.com/track/4qAC5kMzIxpY3k40KrfvCd"
     },
     {
       "added_at": "2023-05-19 22:42:08",
       "album": {
-        "name": "Live At The Novo",
-        "url": "https://open.spotify.com/album/4WHyqGqxCHQRnn56JCYuhg"
+        "name": "MOTHERLESS",
+        "url": "https://open.spotify.com/album/445ASNvZBCiKxGuT7Ds7UQ"
       },
       "artists": [
         {
-          "name": "WESTSIDE BOOGIE",
-          "url": "https://open.spotify.com/artist/5usbqiU7sjvszjWecANDL6"
+          "name": "Killer Mike",
+          "url": "https://open.spotify.com/artist/2N4EYkIlG1kv25g6Wv8LGI"
+        },
+        {
+          "name": "Eryn Allen Kane",
+          "url": "https://open.spotify.com/artist/5xI4mPixKfrCCspATqbpy3"
         }
       ],
-      "duration_ms": 83514,
-      "name": "Cold As Love",
-      "url": "https://open.spotify.com/track/41Loud1XZkZgNw4SS2dsTW"
+      "duration_ms": 213927,
+      "name": "MOTHERLESS - Single Version",
+      "url": "https://open.spotify.com/track/4EMmtIMp0fkU4Au326hA5l"
     }
   ],
   "unique_name": "Spilled Ink",

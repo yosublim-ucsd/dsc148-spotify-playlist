@@ -4,7 +4,7 @@
 
 > Slow down and embrace the immensity of time\. This is just an ambient blip in the long now.
 
-351 songs - 5 day 11 hr 39 min
+352 songs - 5 day 11 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -113,7 +113,8 @@
 | [Flux \(A Big, Bright, Colourful World\)](https://open.spotify.com/track/0Zb7JYBY19QVnhH0h1paLG) | [David Sylvian & Holger Czukay](https://open.spotify.com/artist/26GDS2n5mUuLoIJPJtiNU7) | [Plight & Premonition Flux & Mutability](https://open.spotify.com/album/3UYuOW8AdhGr2LLAlpj8bN) | 16:55 | 2022-05-25 | 2022-07-29 |
 | [Flux \(A Big, Bright, Colourful World\)](https://open.spotify.com/track/4LUvsUCGIqyKXIEQIsvgsl) | [David Sylvian & Holger Czukay](https://open.spotify.com/artist/26GDS2n5mUuLoIJPJtiNU7) | [Plight & Premonition Flux & Mutability](https://open.spotify.com/album/51e9U6NoYboyOSzPOEIoos) | 16:55 | 2023-01-27 |  |
 | [Flux \(A Big, Bright, Colourful World\)](https://open.spotify.com/track/63UbIBRjfi8273JzExI9Mk) | [David Sylvian & Holger Czukay](https://open.spotify.com/artist/26GDS2n5mUuLoIJPJtiNU7) | [Plight & Premonition Flux & Mutability](https://open.spotify.com/album/6iiBcOISDBWY0J1n3jNcRP) | 16:55 | 2022-07-15 | 2023-04-29 |
-| [Flux 2](https://open.spotify.com/track/0cQ2AFeqZoopVS8zetcyra) | [R\. Turman](https://open.spotify.com/artist/5fZZnv5EfMpAL3DiQHegFe), [Robert Turman](https://open.spotify.com/artist/2W2BiVgO5bISQejnz7HPhE) | [Flux](https://open.spotify.com/album/50MNzElaJpGcQNnxV6JC9c) | 10:40 | 2022-05-25 |  |
+| [Flux 2](https://open.spotify.com/track/0cQ2AFeqZoopVS8zetcyra) | [R\. Turman](https://open.spotify.com/artist/5fZZnv5EfMpAL3DiQHegFe), [Robert Turman](https://open.spotify.com/artist/2W2BiVgO5bISQejnz7HPhE) | [Flux](https://open.spotify.com/album/50MNzElaJpGcQNnxV6JC9c) | 10:40 | 2022-05-25 | 2023-05-21 |
+| [FLUX TWO](https://open.spotify.com/track/7yfa4JcR05wO1roiR5Eb7B) | [Robert Turman](https://open.spotify.com/artist/2W2BiVgO5bISQejnz7HPhE) | [FLUX](https://open.spotify.com/album/3PM9Fn7zUKsP8G25LqyTnJ) | 10:42 | 2023-01-27 |  |
 | [For David Robert Jones](https://open.spotify.com/track/3EPh3BIdF4jab8m9zMGch1) | [William Basinski](https://open.spotify.com/artist/6u5axd0rpDsWSmzhFfb2VB) | [A Shadow in Time](https://open.spotify.com/album/6B1OkPs0AlG9QsHIxKwrgp) | 20:19 | 2022-05-25 | 2022-07-29 |
 | [For David Robert Jones](https://open.spotify.com/track/6pHed29FQxKvWgvVdpOzla) | [William Basinski](https://open.spotify.com/artist/6u5axd0rpDsWSmzhFfb2VB) | [A Shadow In Time](https://open.spotify.com/album/7pPLyyapgTvJaUZUONzjVa) | 20:19 | 2023-01-27 |  |
 | [For David Robert Jones](https://open.spotify.com/track/7oFi295nEHtVCTJmn8jtA8) | [William Basinski](https://open.spotify.com/artist/6u5axd0rpDsWSmzhFfb2VB) | [A Shadow in Time](https://open.spotify.com/album/5gZJNL5rLQNPJAIIwpMJJU) | 20:19 | 2022-07-15 | 2023-04-29 |

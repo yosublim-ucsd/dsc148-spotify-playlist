@@ -1,12 +1,12 @@
 {
   "description": "Disfruta con mam\u00e1 la era dorada de los 80's.  ",
-  "num_followers": 153039,
+  "num_followers": 153152,
   "original_name": "Mam\u00e1 80era",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwYzczNTU3M2ExNjU4Yzc3NmFhMTY1MjVlOWJiMzU0ZWU1NzBlZmEx",
+  "snapshot_id": "MCwxOWRjMmRkYzFmZWFjM2I4YmY3NGU2ZTA3OTM2YzAzMDdjOGU1ZGY4",
   "tracks": [
     {
       "added_at": "2021-05-21 05:05:27",
@@ -1123,6 +1123,22 @@
     {
       "added_at": "2021-05-21 05:05:27",
       "album": {
+        "name": "La M\u00e1s Completa Colecci\u00f3n",
+        "url": "https://open.spotify.com/album/5USIGMpaa5GvxLtwyK3LpR"
+      },
+      "artists": [
+        {
+          "name": "Timbiriche",
+          "url": "https://open.spotify.com/artist/1FbygZnWsyUjzjTGLhWVlO"
+        }
+      ],
+      "duration_ms": 128560,
+      "name": "Amor Primero",
+      "url": "https://open.spotify.com/track/6SPr50YRsnKPrb5UnJ9VTA"
+    },
+    {
+      "added_at": "2021-05-21 05:05:27",
+      "album": {
         "name": "Rocio Banquells",
         "url": "https://open.spotify.com/album/2XWgQoX6V3MDSm9dGZGkGz"
       },
@@ -1151,22 +1167,6 @@
       "duration_ms": 198773,
       "name": "I Want To Break Free - Remastered 2011",
       "url": "https://open.spotify.com/track/6NAEpcvbmNdT0cWP3LFDcY"
-    },
-    {
-      "added_at": "2021-05-21 05:05:27",
-      "album": {
-        "name": "La M\u00e1s Completa Colecci\u00f3n",
-        "url": "https://open.spotify.com/album/5USIGMpaa5GvxLtwyK3LpR"
-      },
-      "artists": [
-        {
-          "name": "Timbiriche",
-          "url": "https://open.spotify.com/artist/1FbygZnWsyUjzjTGLhWVlO"
-        }
-      ],
-      "duration_ms": 128560,
-      "name": "Amor Primero",
-      "url": "https://open.spotify.com/track/6SPr50YRsnKPrb5UnJ9VTA"
     },
     {
       "added_at": "2021-05-21 05:05:27",

@@ -1,12 +1,12 @@
 {
   "description": "Cantoras y compositoras de nuestra tierra, con Sele Vera en portada.",
-  "num_followers": 17681,
+  "num_followers": 17712,
   "original_name": "Mujeres del Folklore",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiZWViNDI5ZDY2ZThmMjRkNzRmMmE3Yjg3ZDRjMzUxNjUyMTg5ZGE3",
+  "snapshot_id": "MCwxZDAxNGY4ZDUxOTA3MzlmNDJjYzllMGRmZmIyZmE4Yzg3MjQ5NGMy",
   "tracks": [
     {
       "added_at": "2023-05-12 03:00:00",
@@ -431,22 +431,6 @@
     {
       "added_at": "2023-05-12 03:00:00",
       "album": {
-        "name": "Amor en Zamba",
-        "url": "https://open.spotify.com/album/1ekZoZ4lCQMBATHusbg5Cz"
-      },
-      "artists": [
-        {
-          "name": "Carolina Centuri\u00f3n",
-          "url": "https://open.spotify.com/artist/1BwJfy91G91JVvEVM2DEnS"
-        }
-      ],
-      "duration_ms": 263620,
-      "name": "Amor en Zamba",
-      "url": "https://open.spotify.com/track/1NhkAYwOuw8I2jAPlTL1vK"
-    },
-    {
-      "added_at": "2023-05-12 03:00:00",
-      "album": {
         "name": "Churita",
         "url": "https://open.spotify.com/album/7pgzkHyoKg2QDTOiVG7j7e"
       },
@@ -459,6 +443,22 @@
       "duration_ms": 183866,
       "name": "La Guada",
       "url": "https://open.spotify.com/track/5p62JsJMyb0qgHoPtNBZZ7"
+    },
+    {
+      "added_at": "2023-05-12 03:00:00",
+      "album": {
+        "name": "Amor en Zamba",
+        "url": "https://open.spotify.com/album/1ekZoZ4lCQMBATHusbg5Cz"
+      },
+      "artists": [
+        {
+          "name": "Carolina Centuri\u00f3n",
+          "url": "https://open.spotify.com/artist/1BwJfy91G91JVvEVM2DEnS"
+        }
+      ],
+      "duration_ms": 263620,
+      "name": "Amor en Zamba",
+      "url": "https://open.spotify.com/track/1NhkAYwOuw8I2jAPlTL1vK"
     },
     {
       "added_at": "2023-05-12 03:00:00",
@@ -619,22 +619,6 @@
     {
       "added_at": "2023-05-12 03:00:00",
       "album": {
-        "name": "Aleteo",
-        "url": "https://open.spotify.com/album/5OAuXm0MLy4wVNo3Utdiau"
-      },
-      "artists": [
-        {
-          "name": "Carolina del Carmen Peleritti",
-          "url": "https://open.spotify.com/artist/33LPGnKzL0GTbMraTPlPYd"
-        }
-      ],
-      "duration_ms": 204700,
-      "name": "Aleteo",
-      "url": "https://open.spotify.com/track/5dklFoQPjblzbHQeS18GW6"
-    },
-    {
-      "added_at": "2023-05-12 03:00:00",
-      "album": {
         "name": "Escondido En Mi Pa\u00eds",
         "url": "https://open.spotify.com/album/4l7DS6SbiK2ZXaUFJhxegj"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 190626,
       "name": "Para Cantar He Nacido",
       "url": "https://open.spotify.com/track/15CwQprmPxIVMNAz3c1HzM"
+    },
+    {
+      "added_at": "2023-05-12 03:00:00",
+      "album": {
+        "name": "Aleteo",
+        "url": "https://open.spotify.com/album/5OAuXm0MLy4wVNo3Utdiau"
+      },
+      "artists": [
+        {
+          "name": "Carolina del Carmen Peleritti",
+          "url": "https://open.spotify.com/artist/33LPGnKzL0GTbMraTPlPYd"
+        }
+      ],
+      "duration_ms": 204700,
+      "name": "Aleteo",
+      "url": "https://open.spotify.com/track/5dklFoQPjblzbHQeS18GW6"
     },
     {
       "added_at": "2023-05-12 03:00:00",
@@ -791,22 +791,6 @@
     {
       "added_at": "2023-05-12 03:00:00",
       "album": {
-        "name": "Herencia",
-        "url": "https://open.spotify.com/album/3QwtXOhqGoUfc9HeyU2mWJ"
-      },
-      "artists": [
-        {
-          "name": "Yamila Cafrune",
-          "url": "https://open.spotify.com/artist/21tGjsSQbt1AoCzi6OwHoV"
-        }
-      ],
-      "duration_ms": 237520,
-      "name": "Cuando Llegue el Alba",
-      "url": "https://open.spotify.com/track/0j3s0IOyGq7IzBrIBgLPKI"
-    },
-    {
-      "added_at": "2023-05-12 03:00:00",
-      "album": {
         "name": "Entre Algarroba y Durazno",
         "url": "https://open.spotify.com/album/6qDLBo0CkWfr4e8xNIipBC"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 250329,
       "name": "Entre Algarroba y Durazno",
       "url": "https://open.spotify.com/track/1AfCPo4rfYVvLmLcwDeuXM"
+    },
+    {
+      "added_at": "2023-05-12 03:00:00",
+      "album": {
+        "name": "Herencia",
+        "url": "https://open.spotify.com/album/3QwtXOhqGoUfc9HeyU2mWJ"
+      },
+      "artists": [
+        {
+          "name": "Yamila Cafrune",
+          "url": "https://open.spotify.com/artist/21tGjsSQbt1AoCzi6OwHoV"
+        }
+      ],
+      "duration_ms": 237520,
+      "name": "Cuando Llegue el Alba",
+      "url": "https://open.spotify.com/track/0j3s0IOyGq7IzBrIBgLPKI"
     },
     {
       "added_at": "2023-05-12 03:00:00",
@@ -1019,6 +1019,26 @@
     {
       "added_at": "2023-05-12 03:00:00",
       "album": {
+        "name": "Verdeado Dulzor",
+        "url": "https://open.spotify.com/album/2EbX3kgkMgWKKoRK2l7REI"
+      },
+      "artists": [
+        {
+          "name": "Veronica Condomi",
+          "url": "https://open.spotify.com/artist/0HRRgz3RdNIFJUaeo811Be"
+        },
+        {
+          "name": "Matias Betti",
+          "url": "https://open.spotify.com/artist/08WMcz05WBuMoNqxYBagBc"
+        }
+      ],
+      "duration_ms": 151771,
+      "name": "A la Ma\u00f1anita",
+      "url": "https://open.spotify.com/track/0Ti0CDAul42PGXeBjzfOnd"
+    },
+    {
+      "added_at": "2023-05-12 03:00:00",
+      "album": {
         "name": "Aleteo",
         "url": "https://open.spotify.com/album/3E9gM8tOAhIjusd4CjHzU2"
       },
@@ -1047,22 +1067,18 @@
     {
       "added_at": "2023-05-12 03:00:00",
       "album": {
-        "name": "Verdeado Dulzor",
-        "url": "https://open.spotify.com/album/2EbX3kgkMgWKKoRK2l7REI"
+        "name": "La Noche Sin Ti",
+        "url": "https://open.spotify.com/album/5WUPK5lwWj0QSSorIl3cOU"
       },
       "artists": [
         {
-          "name": "Veronica Condomi",
-          "url": "https://open.spotify.com/artist/0HRRgz3RdNIFJUaeo811Be"
-        },
-        {
-          "name": "Matias Betti",
-          "url": "https://open.spotify.com/artist/08WMcz05WBuMoNqxYBagBc"
+          "name": "Mariel Trimaglio",
+          "url": "https://open.spotify.com/artist/2S6kkn26CPRWCsBoY6L1Bu"
         }
       ],
-      "duration_ms": 151771,
-      "name": "A la Ma\u00f1anita",
-      "url": "https://open.spotify.com/track/0Ti0CDAul42PGXeBjzfOnd"
+      "duration_ms": 284605,
+      "name": "La Noche Sin Ti",
+      "url": "https://open.spotify.com/track/2u6BZDzWCs4OLcneXXaJjh"
     },
     {
       "added_at": "2023-05-12 03:00:00",
@@ -1095,22 +1111,6 @@
       "duration_ms": 171413,
       "name": "Quisiera Que Salga un Tigre",
       "url": "https://open.spotify.com/track/6msi20ktX6ssNFaipj64rD"
-    },
-    {
-      "added_at": "2023-05-12 03:00:00",
-      "album": {
-        "name": "La Noche Sin Ti",
-        "url": "https://open.spotify.com/album/5WUPK5lwWj0QSSorIl3cOU"
-      },
-      "artists": [
-        {
-          "name": "Mariel Trimaglio",
-          "url": "https://open.spotify.com/artist/2S6kkn26CPRWCsBoY6L1Bu"
-        }
-      ],
-      "duration_ms": 284605,
-      "name": "La Noche Sin Ti",
-      "url": "https://open.spotify.com/track/2u6BZDzWCs4OLcneXXaJjh"
     },
     {
       "added_at": "2023-05-12 03:00:00",
@@ -1203,22 +1203,6 @@
     {
       "added_at": "2023-05-12 03:00:00",
       "album": {
-        "name": "Agosto",
-        "url": "https://open.spotify.com/album/3Zknqrbbw1TiFoeDLeJnl7"
-      },
-      "artists": [
-        {
-          "name": "Mar\u00eda y Cosecha",
-          "url": "https://open.spotify.com/artist/5kOLdtx8iK9p4Ka01J1wEH"
-        }
-      ],
-      "duration_ms": 206151,
-      "name": "La Copla Triste",
-      "url": "https://open.spotify.com/track/6nseIjjosmhP2oLfCzm3Zc"
-    },
-    {
-      "added_at": "2023-05-12 03:00:00",
-      "album": {
         "name": "Tarareando, Con los Pies Descalzos",
         "url": "https://open.spotify.com/album/0svY4zLKY4AAmAY6ZgwvUk"
       },
@@ -1243,6 +1227,22 @@
     {
       "added_at": "2023-05-12 03:00:00",
       "album": {
+        "name": "Agosto",
+        "url": "https://open.spotify.com/album/3Zknqrbbw1TiFoeDLeJnl7"
+      },
+      "artists": [
+        {
+          "name": "Mar\u00eda y Cosecha",
+          "url": "https://open.spotify.com/artist/5kOLdtx8iK9p4Ka01J1wEH"
+        }
+      ],
+      "duration_ms": 206151,
+      "name": "La Copla Triste",
+      "url": "https://open.spotify.com/track/6nseIjjosmhP2oLfCzm3Zc"
+    },
+    {
+      "added_at": "2023-05-12 03:00:00",
+      "album": {
         "name": "Gaucha",
         "url": "https://open.spotify.com/album/03OShV7EW4Q1AGy3MbLkE0"
       },
@@ -1259,22 +1259,6 @@
     {
       "added_at": "2023-05-12 03:00:00",
       "album": {
-        "name": "La Charo",
-        "url": "https://open.spotify.com/album/2f2aoYUcR17shrpyTe6fj8"
-      },
-      "artists": [
-        {
-          "name": "La Charo",
-          "url": "https://open.spotify.com/artist/4kAM3B6DtYL1GZVIHBglKK"
-        }
-      ],
-      "duration_ms": 207733,
-      "name": "La Marejada",
-      "url": "https://open.spotify.com/track/4OGGt6aw0DeNR1UQW1APN9"
-    },
-    {
-      "added_at": "2023-05-12 03:00:00",
-      "album": {
         "name": "Las Simples Cosas",
         "url": "https://open.spotify.com/album/3kHitnmEYn8oMrKD8IZl6a"
       },
@@ -1287,6 +1271,22 @@
       "duration_ms": 170000,
       "name": "Asuntos Pendientes",
       "url": "https://open.spotify.com/track/6PTupRbVwBr1wX8sD0YCFt"
+    },
+    {
+      "added_at": "2023-05-12 03:00:00",
+      "album": {
+        "name": "La Charo",
+        "url": "https://open.spotify.com/album/2f2aoYUcR17shrpyTe6fj8"
+      },
+      "artists": [
+        {
+          "name": "La Charo",
+          "url": "https://open.spotify.com/artist/4kAM3B6DtYL1GZVIHBglKK"
+        }
+      ],
+      "duration_ms": 207733,
+      "name": "La Marejada",
+      "url": "https://open.spotify.com/track/4OGGt6aw0DeNR1UQW1APN9"
     },
     {
       "added_at": "2023-05-12 03:00:00",

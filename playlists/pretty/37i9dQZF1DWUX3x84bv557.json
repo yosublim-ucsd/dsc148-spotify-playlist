@@ -1,12 +1,12 @@
 {
   "description": "MEAU op de cover van de vernieuwde Je Moerstaal! ",
-  "num_followers": 153658,
+  "num_followers": 153695,
   "original_name": "Je Moerstaal",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1YmY5N2ZhMWZhZTdkMTcwYzIxYTY0ODVkMzgzN2Q5OWRjYjZhNDMz",
+  "snapshot_id": "MCw4ZTQxN2I1MmUzNTFhMjQwMWY2NDdjOTJhYWQ3MDk4NjIzM2M0NGNl",
   "tracks": [
     {
       "added_at": "2023-05-18 22:00:00",
@@ -424,16 +424,16 @@
       },
       "artists": [
         {
-          "name": "Jerry",
-          "url": "https://open.spotify.com/artist/0kBsWW34jA4aNzn2xuQNE0"
-        },
-        {
           "name": "BEAU",
           "url": "https://open.spotify.com/artist/3sLVXD6W3m1cTT2uBWTVWt"
         },
         {
           "name": "Purp Sagir",
           "url": "https://open.spotify.com/artist/1xcx9BR9EMM80E0LGvTTkJ"
+        },
+        {
+          "name": "Jerry",
+          "url": "https://open.spotify.com/artist/0kBsWW34jA4aNzn2xuQNE0"
         }
       ],
       "duration_ms": 186666,

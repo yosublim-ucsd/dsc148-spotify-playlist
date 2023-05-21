@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30HHrCAl4ZG.md) - [plain]
 
 > All new indie rock\. Featuring new music from Krooked Kings
 
-[Spotify](https://open.spotify.com/user/spotify) - 845,161 likes - 100 songs - 5 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 845,201 likes - 100 songs - 5 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,7 +61,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30HHrCAl4ZG.md) - [plain]
 | 51 | [Waking Moment](https://open.spotify.com/track/4dAwebeDHSagbjZINLuVAJ) | [Generationals](https://open.spotify.com/artist/57MtJQ6Sc4tIxrXIhrqVJL) | [Waking Moment](https://open.spotify.com/album/2LMEJAyMPLFm9Ptq3VDe96) | 4:17 |
 | 52 | [Used To It](https://open.spotify.com/track/7EeCwTGR2ct1WTo0OvkWag) | [Ethan P\. Flynn](https://open.spotify.com/artist/1c0MTVrGbnets3DTXAEa0z) | [Used To It](https://open.spotify.com/album/1wKmS7A41gfVYHnFUnD2HR) | 3:02 |
 | 53 | [Failed at Math\(s\)](https://open.spotify.com/track/0CGTEFOmGzMjgcW5WUS7WW) | [Panchiko](https://open.spotify.com/artist/4KEHIUSoWCcqrk8AddTE1O) | [Failed at Math\(s\)](https://open.spotify.com/album/0xCCtljPkA65lyDP3CXFgr) | 2:40 |
-| 54 | [Carry On](https://open.spotify.com/track/7DCUovUQQadbbid2HGF7ae) | [Summer Salt](https://open.spotify.com/artist/3MATPJ9tYbcMhw5VOZrRU6) | [Carry On](https://open.spotify.com/album/6X6fxlY1QU0ZUfeJ5sdzt3) | 2:51 |
+| 54 | [Carry On](https://open.spotify.com/track/5rvc8Bi2rNLRHIU1zPJG1v) | [Summer Salt](https://open.spotify.com/artist/3MATPJ9tYbcMhw5VOZrRU6) | [Campanita](https://open.spotify.com/album/41FeoNfcFYVQfGSTJkcC5W) | 2:51 |
 | 55 | [Reality TV](https://open.spotify.com/track/5Q0sdMtNBSLDqqR2O9jj8L) | [Stolen Jars](https://open.spotify.com/artist/5EAJ2dKLdisq7BOJHQ1B7r) | [Reality TV](https://open.spotify.com/album/0ZvEiEuxUVcisclffeCBc3) | 3:09 |
 | 56 | [I DON'T WANNA TALK](https://open.spotify.com/track/5SJNQjnloYeMYKA5Pn3Tlq) | [Carter Vail](https://open.spotify.com/artist/4Bu9DnBZ12oX7MiiaJy9hK) | [I DON'T WANNA TALK](https://open.spotify.com/album/5G7wg0A3x8huAcbsT8wojT) | 3:12 |
 | 57 | [Being Square](https://open.spotify.com/track/0fQLPl3LAkNCKWPhPngqnc) | [Donkey Kid](https://open.spotify.com/artist/2FJBOBjXqWC5s3kDfs9nY4) | [Being Square](https://open.spotify.com/album/54BGBlBu9QZTpjuyANyTpE) | 3:07 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30HHrCAl4ZG.md) - [plain]
 | 99 | [Watching The Credits](https://open.spotify.com/track/2KbfXyUl8eusGT4pWwKroB) | [The Beths](https://open.spotify.com/artist/7DjwIxbe8kpw4pqnzAMoin) | [Watching The Credits](https://open.spotify.com/album/3jRcvMTnKCMfIiA1TevG9s) | 3:15 |
 | 100 | [Warm Blanket](https://open.spotify.com/track/1PZz5Xx3A98S7vQH9HDWpD) | [Worriers](https://open.spotify.com/artist/55Z2PiiE80rBOkkL1wyNPD) | [Warm Blanket](https://open.spotify.com/album/0sIS7juiZ3tedOqliEmxvM) | 3:19 |
 
-Snapshot ID: `MCxlNmZmODFkM2I5NDcyOGY2OTUyNGE1MzI4NTE5OTlhZTBhYzE0Zjg2`
+Snapshot ID: `MCxlNzYyYzE2N2I3ZTIzNTY5NzViZWQ0MzBmZWNiOGVlY2QyMzAwOGQ2`

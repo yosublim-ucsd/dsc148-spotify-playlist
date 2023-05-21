@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3I9bqAkK5Dr.md) - [plain]
 
 > Check out the emerging Independent Artists in Telugu.<br/>Cover : Ram Miriyala
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,514 likes - 99 songs - 6 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,547 likes - 99 songs - 6 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3I9bqAkK5Dr.md) - [plain]
 | 98 | [Dhom Thana](https://open.spotify.com/track/0tSTu2qPEFmK2QBzKRLuxk) | [Aditi Bhavaraju](https://open.spotify.com/artist/35LFDqRu6EmXgUqEWeh2j6) | [Dhom Thana](https://open.spotify.com/album/2rrcsYWGUOZ6JxBLHPlXU4) | 3:38 |
 | 99 | [Kilikki \- Tribute to Team Baahubali](https://open.spotify.com/track/6HtynLgYJ1rqwJrWnq8uvu) | [Smita](https://open.spotify.com/artist/4qCRlu0jozfPsnmnxuWPve), [Noel Sean](https://open.spotify.com/artist/3J6H27J9iKe2rCvX6YoKSQ) | [Kilikki \(Tribute to Team Baahubali\)](https://open.spotify.com/album/40dSsLJICupldtKyJMMLP5) | 3:20 |
 
-Snapshot ID: `MCwwNzFmNWZlMTA4MDJlZjc3MWZkYzY1ZTEyYzIyYzFmZTAxYWQ4NGM4`
+Snapshot ID: `MCxhOWZlM2QzNjk0YjAwYmM3N2Q3ZmU0NTg3NTRjNGRkOGI4YjdlOTg5`

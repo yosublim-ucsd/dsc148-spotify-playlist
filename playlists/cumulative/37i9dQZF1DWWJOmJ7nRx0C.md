@@ -4,7 +4,7 @@
 
 > The hardest songs, loud\. Very loud\. Cover: Avenged Sevenfold
 
-802 songs - 2 day 0 hr 4 min
+803 songs - 2 day 0 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -146,7 +146,7 @@
 | [Counting Sheep](https://open.spotify.com/track/1JUpOhMBQefPehm8W2tclo) | [The Violent](https://open.spotify.com/artist/5NokRbYYfqacBmRVBRj0wD) | [Wrap Your Head Around](https://open.spotify.com/album/2M4aK6tyusSZINJOWk7ayQ) | 3:24 | 2022-11-18 | 2022-12-10 |
 | [Counting Sheep](https://open.spotify.com/track/1gGqyq9I9MpZbIEcL9hRvk) | [The Violent](https://open.spotify.com/artist/5NokRbYYfqacBmRVBRj0wD) | [Counting Sheep](https://open.spotify.com/album/6BxQrC3u6cKVWriUbvEU7H) | 3:24 | 2022-10-07 | 2022-11-21 |
 | [Counting Sheep](https://open.spotify.com/track/54taP3hrKu5FOR6eg1Cupa) | [The Violent](https://open.spotify.com/artist/5NokRbYYfqacBmRVBRj0wD) | [Counting Sheep](https://open.spotify.com/album/4UehbXX0gOBPEtd81PBR9l) | 3:24 | 2022-07-22 | 2022-10-14 |
-| [Courtney, just relax \(feat\. World Of Pleasure\)](https://open.spotify.com/track/7z6oCwgcuR0NnziEKmu6Pi) | [Static Dress](https://open.spotify.com/artist/1Lqdsv7Ff4GNq9PM3Yd0vi), [World Of Pleasure](https://open.spotify.com/artist/7kcqk3e5BlCUw41fctDQax) | [Courtney, just relax \(feat\. World Of Pleasure\)](https://open.spotify.com/album/0neLeILE6Ymhokv69gsI9L) | 2:55 | 2023-05-19 |  |
+| [Courtney, just relax \(feat\. World Of Pleasure\)](https://open.spotify.com/track/7z6oCwgcuR0NnziEKmu6Pi) | [Static Dress](https://open.spotify.com/artist/1Lqdsv7Ff4GNq9PM3Yd0vi), [World of Pleasure](https://open.spotify.com/artist/3SR0KKxXYspg7mJwSUsGBb) | [Courtney, just relax \(feat\. World Of Pleasure\)](https://open.spotify.com/album/0neLeILE6Ymhokv69gsI9L) | 2:55 | 2023-05-19 |  |
 | [Cover Your Tracks](https://open.spotify.com/track/7eihSa4gDZk2LSLwveL2pK) | [Throw The Fight](https://open.spotify.com/artist/1nRfyHvAh1foLjOCa3hbv7) | [Cover Your Tracks](https://open.spotify.com/album/0EZJaM9idUcPuJATGI9WVt) | 3:02 | 2023-03-03 | 2023-05-06 |
 | [Creeps](https://open.spotify.com/track/4vlk5JUheqOSCZqgts338H) | [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ) | [Hell Paso](https://open.spotify.com/album/5seABmIu2cnoRMDoVHZvOD) | 3:44 | 2022-12-09 | 2023-04-15 |
 | [Crocus](https://open.spotify.com/track/2NCyJFVYg46JyxUASmbdyg) | [Boston Manor](https://open.spotify.com/artist/4WjeQi9wm84lYTIWZ95QoM) | [Datura](https://open.spotify.com/album/3njhMNW0BGdOQN9108BEDY) | 3:57 | 2022-10-14 | 2023-05-13 |
@@ -363,7 +363,8 @@
 | [Is It Really You?](https://open.spotify.com/track/4ndmsvcCgLZH2hZwVw8cuJ) | [Loathe](https://open.spotify.com/artist/4G9wSdX0klmoHfjm9i6DLd), [Teenage Wrist](https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx) | [Is It Really You?](https://open.spotify.com/album/3ECdQKxcDWZGwN4dSBVdoH) | 4:42 | 2022-07-22 | 2022-09-24 |
 | [It Hurts](https://open.spotify.com/track/04Z1dVhKypUiZQdMJZsC2r) | [Enter Shikari](https://open.spotify.com/artist/31jvzuB4ikftPQZJwrYfCF) | [A Kiss for the Whole World](https://open.spotify.com/album/5bTSXCOLlIH6gsOvuI3PCI) | 3:18 | 2023-04-21 | 2023-05-13 |
 | [It Hurts](https://open.spotify.com/track/4pQmwpx6EUeoBJRMUKooMs) | [Enter Shikari](https://open.spotify.com/artist/31jvzuB4ikftPQZJwrYfCF) | [It Hurts](https://open.spotify.com/album/0UztMLoY6Ebqv9rCmZwghR) | 3:18 | 2023-02-10 | 2023-04-25 |
-| [It's Hell Down Here](https://open.spotify.com/track/0chASbpWKoTnrXDoPyNSyH) | [The Amity Affliction](https://open.spotify.com/artist/6kNKUYGn6VNGsRoXmyoDPK) | [It's Hell Down Here](https://open.spotify.com/album/2nyvCfPmmT3u7fbF4Hno4a) | 4:00 | 2023-03-24 |  |
+| [It's Hell Down Here](https://open.spotify.com/track/0chASbpWKoTnrXDoPyNSyH) | [The Amity Affliction](https://open.spotify.com/artist/6kNKUYGn6VNGsRoXmyoDPK) | [It's Hell Down Here](https://open.spotify.com/album/2nyvCfPmmT3u7fbF4Hno4a) | 4:00 | 2023-03-24 | 2023-05-21 |
+| [It's Hell Down Here](https://open.spotify.com/track/3vxMfMNjD8k0ozmuVDu0Ai) | [The Amity Affliction](https://open.spotify.com/artist/6kNKUYGn6VNGsRoXmyoDPK) | [Not Without My Ghosts](https://open.spotify.com/album/5IBhAOIYSATI3WY7DgeSl7) | 4:00 | 2023-05-19 |  |
 | [It's Over](https://open.spotify.com/track/1pShlPEW4nhGQeomZLCXtL) | [Silverstein](https://open.spotify.com/artist/1Tsag5J854qxeOo2apszug) | [It's Over](https://open.spotify.com/album/1yA0gGywa2o2KnHnvLUMq9) | 3:23 | 2021-11-19 | 2022-02-26 |
 | [JACK](https://open.spotify.com/track/189D3XLBjj2YTCTD6QKdJY) | [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy) | [JACK](https://open.spotify.com/album/46dR56iHGOs4sN5CAOfZnc) | 2:48 | 2022-09-30 |  |
 | [Jealousy](https://open.spotify.com/track/1ioUAJiIHAoimp2QGhWXXM) | [Siiickbrain](https://open.spotify.com/artist/1oPEr1Ci8sWOYj8SSh2VPE) | [Jealousy](https://open.spotify.com/album/61T3geiuTQFQXmYWWLMGjk) | 2:30 | 2022-07-01 | 2022-10-29 |

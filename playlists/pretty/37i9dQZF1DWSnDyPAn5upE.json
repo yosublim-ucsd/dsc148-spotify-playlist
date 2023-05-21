@@ -1,12 +1,12 @@
 {
   "description": "Otherworldly voices in the realms of ambient. Cover: Grouper",
-  "num_followers": 37907,
+  "num_followers": 37962,
   "original_name": "ethereal voices",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhMTI3N2VhZjMwNmQ5YjZiZWZlZDY3MWNmOTEwYmMwZDYzNTRmMjUw",
+  "snapshot_id": "MCwzZGQ3MTk0MmFmYTg1MDk3MzQxN2ZlZGE5MmJkMzQ1MjAwZGNjZDZk",
   "tracks": [
     {
       "added_at": "2023-05-05 14:55:06",
@@ -283,22 +283,6 @@
     {
       "added_at": "2023-05-05 14:55:06",
       "album": {
-        "name": "Shade",
-        "url": "https://open.spotify.com/album/1w3EOCPDwqWIiu2c1pHylJ"
-      },
-      "artists": [
-        {
-          "name": "Grouper",
-          "url": "https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i"
-        }
-      ],
-      "duration_ms": 231624,
-      "name": "Pale Interior",
-      "url": "https://open.spotify.com/track/6nI1FAfYETS7qtrPpyg3d7"
-    },
-    {
-      "added_at": "2023-05-05 14:55:06",
-      "album": {
         "name": "PROTO",
         "url": "https://open.spotify.com/album/29sozE8XDMOHT8KK9iq4Fo"
       },
@@ -311,6 +295,22 @@
       "duration_ms": 269078,
       "name": "Frontier",
       "url": "https://open.spotify.com/track/3KYC7CK4Itjy7UXn1BaW67"
+    },
+    {
+      "added_at": "2023-05-05 14:55:06",
+      "album": {
+        "name": "Shade",
+        "url": "https://open.spotify.com/album/1w3EOCPDwqWIiu2c1pHylJ"
+      },
+      "artists": [
+        {
+          "name": "Grouper",
+          "url": "https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i"
+        }
+      ],
+      "duration_ms": 231624,
+      "name": "Pale Interior",
+      "url": "https://open.spotify.com/track/6nI1FAfYETS7qtrPpyg3d7"
     },
     {
       "added_at": "2023-05-05 14:55:06",
@@ -367,22 +367,6 @@
     {
       "added_at": "2023-05-05 14:55:06",
       "album": {
-        "name": "Revival Renaissance Rebirth (Act 1)",
-        "url": "https://open.spotify.com/album/6jh3oBLsscOI7bXBXfqSSW"
-      },
-      "artists": [
-        {
-          "name": "SymphoCat",
-          "url": "https://open.spotify.com/artist/4cX8nm4XgKt3U0hfVx9NqN"
-        }
-      ],
-      "duration_ms": 304934,
-      "name": "999 Renaissance",
-      "url": "https://open.spotify.com/track/0EqNLH4s6EJGhcFNJ9ZaP2"
-    },
-    {
-      "added_at": "2023-05-05 14:55:06",
-      "album": {
         "name": "See-Through",
         "url": "https://open.spotify.com/album/0fPwWqb47D2PPObYoAzVBF"
       },
@@ -395,6 +379,22 @@
       "duration_ms": 161000,
       "name": "A Conversation With My Innocence",
       "url": "https://open.spotify.com/track/5lxyxXYM3Y4uzkXR1KtIFa"
+    },
+    {
+      "added_at": "2023-05-05 14:55:06",
+      "album": {
+        "name": "Revival Renaissance Rebirth (Act 1)",
+        "url": "https://open.spotify.com/album/6jh3oBLsscOI7bXBXfqSSW"
+      },
+      "artists": [
+        {
+          "name": "SymphoCat",
+          "url": "https://open.spotify.com/artist/4cX8nm4XgKt3U0hfVx9NqN"
+        }
+      ],
+      "duration_ms": 304934,
+      "name": "999 Renaissance",
+      "url": "https://open.spotify.com/track/0EqNLH4s6EJGhcFNJ9ZaP2"
     },
     {
       "added_at": "2023-05-05 14:55:06",
@@ -563,26 +563,6 @@
     {
       "added_at": "2023-05-05 14:55:06",
       "album": {
-        "name": "Inori (William Basinski Rework)",
-        "url": "https://open.spotify.com/album/2QvRUt9kt1X6JFDC1z8xK1"
-      },
-      "artists": [
-        {
-          "name": "Hatis Noit",
-          "url": "https://open.spotify.com/artist/1VMXdJgyzy12hZGmEk8LPY"
-        },
-        {
-          "name": "William Basinski",
-          "url": "https://open.spotify.com/artist/6u5axd0rpDsWSmzhFfb2VB"
-        }
-      ],
-      "duration_ms": 306154,
-      "name": "Inori - William Basinski Rework",
-      "url": "https://open.spotify.com/track/4WHgvsBS0aMtRgb2dihFYH"
-    },
-    {
-      "added_at": "2023-05-05 14:55:06",
-      "album": {
         "name": "One Life : four remixes",
         "url": "https://open.spotify.com/album/37cXPtsjdDJNR65haaZvx9"
       },
@@ -603,18 +583,22 @@
     {
       "added_at": "2023-05-05 14:55:06",
       "album": {
-        "name": "Anomi",
-        "url": "https://open.spotify.com/album/3STRCZkQzGvybynwTlllEV"
+        "name": "Inori (William Basinski Rework)",
+        "url": "https://open.spotify.com/album/2QvRUt9kt1X6JFDC1z8xK1"
       },
       "artists": [
         {
-          "name": "Sonja Tofik",
-          "url": "https://open.spotify.com/artist/0xQ4lVwDOjBxjaPO5hIiC3"
+          "name": "Hatis Noit",
+          "url": "https://open.spotify.com/artist/1VMXdJgyzy12hZGmEk8LPY"
+        },
+        {
+          "name": "William Basinski",
+          "url": "https://open.spotify.com/artist/6u5axd0rpDsWSmzhFfb2VB"
         }
       ],
-      "duration_ms": 173798,
-      "name": "Graveyard",
-      "url": "https://open.spotify.com/track/6WPZiKAOnOKPIO0hWUPGkG"
+      "duration_ms": 306154,
+      "name": "Inori - William Basinski Rework",
+      "url": "https://open.spotify.com/track/4WHgvsBS0aMtRgb2dihFYH"
     },
     {
       "added_at": "2023-05-05 14:55:06",
@@ -639,6 +623,22 @@
     {
       "added_at": "2023-05-05 14:55:06",
       "album": {
+        "name": "Anomi",
+        "url": "https://open.spotify.com/album/3STRCZkQzGvybynwTlllEV"
+      },
+      "artists": [
+        {
+          "name": "Sonja Tofik",
+          "url": "https://open.spotify.com/artist/0xQ4lVwDOjBxjaPO5hIiC3"
+        }
+      ],
+      "duration_ms": 173798,
+      "name": "Graveyard",
+      "url": "https://open.spotify.com/track/6WPZiKAOnOKPIO0hWUPGkG"
+    },
+    {
+      "added_at": "2023-05-05 14:55:06",
+      "album": {
         "name": "Hilja",
         "url": "https://open.spotify.com/album/2n4BmbmrbnrylB71xFoJIe"
       },
@@ -651,22 +651,6 @@
       "duration_ms": 321000,
       "name": "Demetra",
       "url": "https://open.spotify.com/track/3CIuL3T0PrjzfZ8ZqSmujh"
-    },
-    {
-      "added_at": "2023-05-05 14:55:06",
-      "album": {
-        "name": "Illogical Dance",
-        "url": "https://open.spotify.com/album/43nUH6IPPJNtBmrmsTza8g"
-      },
-      "artists": [
-        {
-          "name": "Hatis Noit",
-          "url": "https://open.spotify.com/artist/1VMXdJgyzy12hZGmEk8LPY"
-        }
-      ],
-      "duration_ms": 473075,
-      "name": "Illogical Lullaby",
-      "url": "https://open.spotify.com/track/7KaENU972ZBPtD1Cy2H3tc"
     },
     {
       "added_at": "2023-05-05 14:55:06",
@@ -747,6 +731,22 @@
     {
       "added_at": "2023-05-05 14:55:06",
       "album": {
+        "name": "Illogical Dance",
+        "url": "https://open.spotify.com/album/43nUH6IPPJNtBmrmsTza8g"
+      },
+      "artists": [
+        {
+          "name": "Hatis Noit",
+          "url": "https://open.spotify.com/artist/1VMXdJgyzy12hZGmEk8LPY"
+        }
+      ],
+      "duration_ms": 473075,
+      "name": "Illogical Lullaby",
+      "url": "https://open.spotify.com/track/7KaENU972ZBPtD1Cy2H3tc"
+    },
+    {
+      "added_at": "2023-05-05 14:55:06",
+      "album": {
         "name": "Japanese Summer Lost",
         "url": "https://open.spotify.com/album/3PTgQngl0s8Kayv6O85LYi"
       },
@@ -819,22 +819,6 @@
     {
       "added_at": "2023-05-05 14:55:06",
       "album": {
-        "name": "Lost in Time",
-        "url": "https://open.spotify.com/album/5GaAIH4lAt4HCGmmpaFpt7"
-      },
-      "artists": [
-        {
-          "name": "Murcof",
-          "url": "https://open.spotify.com/artist/0liG9qD19eWrt5Ur4cnsYd"
-        }
-      ],
-      "duration_ms": 114080,
-      "name": "Chapitre I",
-      "url": "https://open.spotify.com/track/2itx999N8BnjbuHJgtn4Av"
-    },
-    {
-      "added_at": "2023-05-05 14:55:06",
-      "album": {
         "name": "Kingdom Two Crowns: Norse Lands Soundtrack (Extended)",
         "url": "https://open.spotify.com/album/66ZIYFKolkDdWjyOw0nhry"
       },
@@ -847,6 +831,22 @@
       "duration_ms": 183871,
       "name": "Dr\u00f8mmefanger (Extended)",
       "url": "https://open.spotify.com/track/2E7xCD1Tz6lmvI3w86QFhb"
+    },
+    {
+      "added_at": "2023-05-05 14:55:06",
+      "album": {
+        "name": "Lost in Time",
+        "url": "https://open.spotify.com/album/5GaAIH4lAt4HCGmmpaFpt7"
+      },
+      "artists": [
+        {
+          "name": "Murcof",
+          "url": "https://open.spotify.com/artist/0liG9qD19eWrt5Ur4cnsYd"
+        }
+      ],
+      "duration_ms": 114080,
+      "name": "Chapitre I",
+      "url": "https://open.spotify.com/track/2itx999N8BnjbuHJgtn4Av"
     },
     {
       "added_at": "2023-05-05 14:55:06",
@@ -1115,26 +1115,6 @@
     {
       "added_at": "2023-05-05 14:55:06",
       "album": {
-        "name": "Languoria",
-        "url": "https://open.spotify.com/album/7LXp7ppvXmmLvcn7ysGDgf"
-      },
-      "artists": [
-        {
-          "name": "Sofie Birch",
-          "url": "https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn"
-        },
-        {
-          "name": "Antonina Nowacka",
-          "url": "https://open.spotify.com/artist/2xV4z30ITk9LqUk1GKYlrR"
-        }
-      ],
-      "duration_ms": 256682,
-      "name": "Morning Room I",
-      "url": "https://open.spotify.com/track/4ilKTNUX2tnJFrFNHJcOHm"
-    },
-    {
-      "added_at": "2023-05-05 14:55:06",
-      "album": {
         "name": "Cradle (Patience Rework)",
         "url": "https://open.spotify.com/album/2SOtUwtSq0hOOT2X7FtziA"
       },
@@ -1155,18 +1135,22 @@
     {
       "added_at": "2023-05-05 14:55:06",
       "album": {
-        "name": "Meditations Mixtape Vol.1",
-        "url": "https://open.spotify.com/album/3nTrcC8700QJxy88LcB0k4"
+        "name": "Languoria",
+        "url": "https://open.spotify.com/album/7LXp7ppvXmmLvcn7ysGDgf"
       },
       "artists": [
         {
-          "name": "Ami Dang",
-          "url": "https://open.spotify.com/artist/1DAqw4sYHPmgHQ6gzOVDig"
+          "name": "Sofie Birch",
+          "url": "https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn"
+        },
+        {
+          "name": "Antonina Nowacka",
+          "url": "https://open.spotify.com/artist/2xV4z30ITk9LqUk1GKYlrR"
         }
       ],
-      "duration_ms": 299666,
-      "name": "Satnam Waheguru",
-      "url": "https://open.spotify.com/track/0h8FieQsMTemh2FuwkMFMc"
+      "duration_ms": 256682,
+      "name": "Morning Room I",
+      "url": "https://open.spotify.com/track/4ilKTNUX2tnJFrFNHJcOHm"
     },
     {
       "added_at": "2023-05-05 14:55:06",
@@ -1195,18 +1179,18 @@
     {
       "added_at": "2023-05-05 14:55:06",
       "album": {
-        "name": "Saturna",
-        "url": "https://open.spotify.com/album/5yBVwdZJXD35QMLqEZLhWw"
+        "name": "Meditations Mixtape Vol.1",
+        "url": "https://open.spotify.com/album/3nTrcC8700QJxy88LcB0k4"
       },
       "artists": [
         {
-          "name": "Nordic Hymn",
-          "url": "https://open.spotify.com/artist/7qgNtkVMTgJ9I6flWEZgYV"
+          "name": "Ami Dang",
+          "url": "https://open.spotify.com/artist/1DAqw4sYHPmgHQ6gzOVDig"
         }
       ],
-      "duration_ms": 126187,
-      "name": "Saturna",
-      "url": "https://open.spotify.com/track/4zKKXMzX0OXWfRSOe0XYas"
+      "duration_ms": 299666,
+      "name": "Satnam Waheguru",
+      "url": "https://open.spotify.com/track/0h8FieQsMTemh2FuwkMFMc"
     },
     {
       "added_at": "2023-05-05 14:55:06",
@@ -1227,6 +1211,38 @@
     {
       "added_at": "2023-05-05 14:55:06",
       "album": {
+        "name": "Afraid",
+        "url": "https://open.spotify.com/album/7lhN1kGdks7l95IDSI8Ot9"
+      },
+      "artists": [
+        {
+          "name": "Penelope Trappes",
+          "url": "https://open.spotify.com/artist/6shE4Y1z4lzRqoDp65XfzT"
+        }
+      ],
+      "duration_ms": 226640,
+      "name": "Afraid",
+      "url": "https://open.spotify.com/track/77N3e7R99NiCkHpkQltWzn"
+    },
+    {
+      "added_at": "2023-05-05 14:55:06",
+      "album": {
+        "name": "Saturna",
+        "url": "https://open.spotify.com/album/5yBVwdZJXD35QMLqEZLhWw"
+      },
+      "artists": [
+        {
+          "name": "Nordic Hymn",
+          "url": "https://open.spotify.com/artist/7qgNtkVMTgJ9I6flWEZgYV"
+        }
+      ],
+      "duration_ms": 126187,
+      "name": "Saturna",
+      "url": "https://open.spotify.com/track/4zKKXMzX0OXWfRSOe0XYas"
+    },
+    {
+      "added_at": "2023-05-05 14:55:06",
+      "album": {
         "name": "Dawn of Awakening",
         "url": "https://open.spotify.com/album/4EM1YplDPkkZRnaeGT3zSd"
       },
@@ -1243,22 +1259,6 @@
       "duration_ms": 240850,
       "name": "Dawn of Awakening",
       "url": "https://open.spotify.com/track/2XIJbFw1hdpJv5Cpad4WPl"
-    },
-    {
-      "added_at": "2023-05-05 14:55:06",
-      "album": {
-        "name": "Afraid",
-        "url": "https://open.spotify.com/album/7lhN1kGdks7l95IDSI8Ot9"
-      },
-      "artists": [
-        {
-          "name": "Penelope Trappes",
-          "url": "https://open.spotify.com/artist/6shE4Y1z4lzRqoDp65XfzT"
-        }
-      ],
-      "duration_ms": 226640,
-      "name": "Afraid",
-      "url": "https://open.spotify.com/track/77N3e7R99NiCkHpkQltWzn"
     },
     {
       "added_at": "2023-05-05 14:55:06",
@@ -1443,22 +1443,6 @@
     {
       "added_at": "2023-05-05 14:55:06",
       "album": {
-        "name": "Rare Backwards",
-        "url": "https://open.spotify.com/album/0BXYF81nqahoaexb8nbJl8"
-      },
-      "artists": [
-        {
-          "name": "Spivak",
-          "url": "https://open.spotify.com/artist/4V7mPDwAcAguZIa2PGeEcx"
-        }
-      ],
-      "duration_ms": 219196,
-      "name": "18:00",
-      "url": "https://open.spotify.com/track/43HQpVkQcHzvAKfSHMcH7X"
-    },
-    {
-      "added_at": "2023-05-05 14:55:06",
-      "album": {
         "name": "Cr\u00e9puscule I & II",
         "url": "https://open.spotify.com/album/2n7gbJg36nArVsmAjG8Rxs"
       },
@@ -1471,6 +1455,22 @@
       "duration_ms": 206000,
       "name": "Cosmic Ray",
       "url": "https://open.spotify.com/track/7u8SH2nPDCa3AMyofsYTQj"
+    },
+    {
+      "added_at": "2023-05-05 14:55:06",
+      "album": {
+        "name": "Rare Backwards",
+        "url": "https://open.spotify.com/album/0BXYF81nqahoaexb8nbJl8"
+      },
+      "artists": [
+        {
+          "name": "Spivak",
+          "url": "https://open.spotify.com/artist/4V7mPDwAcAguZIa2PGeEcx"
+        }
+      ],
+      "duration_ms": 219196,
+      "name": "18:00",
+      "url": "https://open.spotify.com/track/43HQpVkQcHzvAKfSHMcH7X"
     },
     {
       "added_at": "2023-05-05 14:55:06",
@@ -1515,6 +1515,22 @@
     {
       "added_at": "2023-05-05 14:55:06",
       "album": {
+        "name": "After its own death / Walking in a spiral towards the house",
+        "url": "https://open.spotify.com/album/3wjaDfCkbngdwxN2lloyCB"
+      },
+      "artists": [
+        {
+          "name": "Nivhek",
+          "url": "https://open.spotify.com/artist/5igTNru2ENU1qwU1qvlmYl"
+        }
+      ],
+      "duration_ms": 1001299,
+      "name": "After its own death: Side A",
+      "url": "https://open.spotify.com/track/0JJmrRoNITYVgeJfk063n3"
+    },
+    {
+      "added_at": "2023-05-05 14:55:06",
+      "album": {
         "name": "Respite",
         "url": "https://open.spotify.com/album/7CA6OZj6CCbQGlDYFyKObI"
       },
@@ -1535,18 +1551,22 @@
     {
       "added_at": "2023-05-05 14:55:06",
       "album": {
-        "name": "After its own death / Walking in a spiral towards the house",
-        "url": "https://open.spotify.com/album/3wjaDfCkbngdwxN2lloyCB"
+        "name": "Seeing Inside",
+        "url": "https://open.spotify.com/album/5DpwvMHLe0PK3XfNMYYyRF"
       },
       "artists": [
         {
-          "name": "Nivhek",
-          "url": "https://open.spotify.com/artist/5igTNru2ENU1qwU1qvlmYl"
+          "name": "Serena Gabriel",
+          "url": "https://open.spotify.com/artist/5BqR7OV66mbFIr0yxJqsSR"
+        },
+        {
+          "name": "Steve Roach",
+          "url": "https://open.spotify.com/artist/00gh6kmKYOu8xyorRxQm6a"
         }
       ],
-      "duration_ms": 1001299,
-      "name": "After its own death: Side A",
-      "url": "https://open.spotify.com/track/0JJmrRoNITYVgeJfk063n3"
+      "duration_ms": 707200,
+      "name": "From the Sea",
+      "url": "https://open.spotify.com/track/0oscyoMaLrUVmAWCeevHig"
     },
     {
       "added_at": "2023-05-05 14:55:06",
@@ -1567,22 +1587,38 @@
     {
       "added_at": "2023-05-05 14:55:06",
       "album": {
-        "name": "Seeing Inside",
-        "url": "https://open.spotify.com/album/5DpwvMHLe0PK3XfNMYYyRF"
+        "name": "Grass Grow",
+        "url": "https://open.spotify.com/album/7GGr2hRdoaTawzAJz32Qtl"
       },
       "artists": [
         {
-          "name": "Serena Gabriel",
-          "url": "https://open.spotify.com/artist/5BqR7OV66mbFIr0yxJqsSR"
-        },
-        {
-          "name": "Steve Roach",
-          "url": "https://open.spotify.com/artist/00gh6kmKYOu8xyorRxQm6a"
+          "name": "Dolphin Midwives",
+          "url": "https://open.spotify.com/artist/3r9yVqXDgGJnnCy3FHvE1P"
         }
       ],
-      "duration_ms": 707200,
-      "name": "From the Sea",
-      "url": "https://open.spotify.com/track/0oscyoMaLrUVmAWCeevHig"
+      "duration_ms": 269252,
+      "name": "Grass Grow",
+      "url": "https://open.spotify.com/track/4yohulilOac5oAymyVOvaa"
+    },
+    {
+      "added_at": "2023-05-05 14:55:06",
+      "album": {
+        "name": "Cry Me A Blizzard (AFRODEUTSCHE I'm Here Remix)",
+        "url": "https://open.spotify.com/album/7hXkd8IoY96t96LsAAazg3"
+      },
+      "artists": [
+        {
+          "name": "Nathan Fake",
+          "url": "https://open.spotify.com/artist/5rZVjGkZZI4TnpMHQwrxfG"
+        },
+        {
+          "name": "AFRODEUTSCHE",
+          "url": "https://open.spotify.com/artist/4jRLhvF4a3NHs5TaR1lU3m"
+        }
+      ],
+      "duration_ms": 209160,
+      "name": "Cry Me A Blizzard - AFRODEUTSCHE I'm Here Remix",
+      "url": "https://open.spotify.com/track/1z1KqfLHzNBinouaGnJKjR"
     },
     {
       "added_at": "2023-05-05 14:55:06",
@@ -1627,42 +1663,6 @@
       "duration_ms": 212444,
       "name": "Immersed in Black Water - Linn Elisabet You Will Version",
       "url": "https://open.spotify.com/track/1hrKwQY6BRkpfSnFmUUmUX"
-    },
-    {
-      "added_at": "2023-05-05 14:55:06",
-      "album": {
-        "name": "Grass Grow",
-        "url": "https://open.spotify.com/album/7GGr2hRdoaTawzAJz32Qtl"
-      },
-      "artists": [
-        {
-          "name": "Dolphin Midwives",
-          "url": "https://open.spotify.com/artist/3r9yVqXDgGJnnCy3FHvE1P"
-        }
-      ],
-      "duration_ms": 269252,
-      "name": "Grass Grow",
-      "url": "https://open.spotify.com/track/4yohulilOac5oAymyVOvaa"
-    },
-    {
-      "added_at": "2023-05-05 14:55:06",
-      "album": {
-        "name": "Cry Me A Blizzard (AFRODEUTSCHE I'm Here Remix)",
-        "url": "https://open.spotify.com/album/7hXkd8IoY96t96LsAAazg3"
-      },
-      "artists": [
-        {
-          "name": "Nathan Fake",
-          "url": "https://open.spotify.com/artist/5rZVjGkZZI4TnpMHQwrxfG"
-        },
-        {
-          "name": "AFRODEUTSCHE",
-          "url": "https://open.spotify.com/artist/4jRLhvF4a3NHs5TaR1lU3m"
-        }
-      ],
-      "duration_ms": 209160,
-      "name": "Cry Me A Blizzard - AFRODEUTSCHE I'm Here Remix",
-      "url": "https://open.spotify.com/track/1z1KqfLHzNBinouaGnJKjR"
     },
     {
       "added_at": "2023-05-05 14:55:06",
@@ -1739,26 +1739,6 @@
     {
       "added_at": "2023-05-05 14:55:06",
       "album": {
-        "name": "Eyes of Fate",
-        "url": "https://open.spotify.com/album/5fXndXNfdkUYyh1tfHB3QU"
-      },
-      "artists": [
-        {
-          "name": "Not Waving",
-          "url": "https://open.spotify.com/artist/6mkqjpZbG63Y1MJQcItRmC"
-        },
-        {
-          "name": "Romance",
-          "url": "https://open.spotify.com/artist/0A18cE9pDz57f0cj7q8wxt"
-        }
-      ],
-      "duration_ms": 203600,
-      "name": "Paradise Lost",
-      "url": "https://open.spotify.com/track/2SpjlJaVfxGEJBGIYBzGjM"
-    },
-    {
-      "added_at": "2023-05-05 14:55:06",
-      "album": {
         "name": "Bones Knowing",
         "url": "https://open.spotify.com/album/7unSlshn5qJdKuzhiKRYKG"
       },
@@ -1779,6 +1759,26 @@
     {
       "added_at": "2023-05-05 14:55:06",
       "album": {
+        "name": "Eyes of Fate",
+        "url": "https://open.spotify.com/album/5fXndXNfdkUYyh1tfHB3QU"
+      },
+      "artists": [
+        {
+          "name": "Not Waving",
+          "url": "https://open.spotify.com/artist/6mkqjpZbG63Y1MJQcItRmC"
+        },
+        {
+          "name": "Romance",
+          "url": "https://open.spotify.com/artist/0A18cE9pDz57f0cj7q8wxt"
+        }
+      ],
+      "duration_ms": 203600,
+      "name": "Paradise Lost",
+      "url": "https://open.spotify.com/track/2SpjlJaVfxGEJBGIYBzGjM"
+    },
+    {
+      "added_at": "2023-05-05 14:55:06",
+      "album": {
         "name": "Dalmarnock Tapes",
         "url": "https://open.spotify.com/album/6ZAGUwp9bVhe13qoXrNqA7"
       },
@@ -1791,22 +1791,6 @@
       "duration_ms": 314036,
       "name": "La\u0308mpo\u0308",
       "url": "https://open.spotify.com/track/0EzJNQX4oVC7p4PF1mqOg0"
-    },
-    {
-      "added_at": "2023-05-05 14:55:06",
-      "album": {
-        "name": "We Used to Talk for Hours",
-        "url": "https://open.spotify.com/album/7M7eUfngPvWbEePRC4Sozr"
-      },
-      "artists": [
-        {
-          "name": "Camille Mandoki",
-          "url": "https://open.spotify.com/artist/1yeZSt0NrlRsgscElnX09R"
-        }
-      ],
-      "duration_ms": 440000,
-      "name": "By the Shore",
-      "url": "https://open.spotify.com/track/172HYchcUHffaAYQ8sQOyy"
     },
     {
       "added_at": "2023-05-05 14:55:06",
@@ -1835,6 +1819,22 @@
       "duration_ms": 744162,
       "name": "Abiogenesis",
       "url": "https://open.spotify.com/track/24tiKS70CpATr6tJLk0c9Q"
+    },
+    {
+      "added_at": "2023-05-05 14:55:06",
+      "album": {
+        "name": "We Used to Talk for Hours",
+        "url": "https://open.spotify.com/album/7M7eUfngPvWbEePRC4Sozr"
+      },
+      "artists": [
+        {
+          "name": "Camille Mandoki",
+          "url": "https://open.spotify.com/artist/1yeZSt0NrlRsgscElnX09R"
+        }
+      ],
+      "duration_ms": 440000,
+      "name": "By the Shore",
+      "url": "https://open.spotify.com/track/172HYchcUHffaAYQ8sQOyy"
     },
     {
       "added_at": "2023-05-05 14:55:06",

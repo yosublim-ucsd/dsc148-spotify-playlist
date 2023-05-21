@@ -4,7 +4,7 @@
 
 > Chill rap e R&B: É um mood suave e envolvente\. Foto: Bispo e Bárbara Tinoco.
 
-307 songs - 16 hr 48 min
+308 songs - 16 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -158,6 +158,7 @@
 | [Lentamente](https://open.spotify.com/track/7IBuWKHuCG79ee99IlaHvd) | [B.E.R.A](https://open.spotify.com/artist/69N3zTGQ7lPJURlJCklOSk), [Raissa](https://open.spotify.com/artist/6mP6GzMUDurr8CscsMEHpB) | [Lentamente](https://open.spotify.com/album/2Zgwiw7nCQMm8jqaGzj1OX) | 4:37 | 2022-07-07 | 2022-07-27 |
 | [Let You Go](https://open.spotify.com/track/2Z8pPatBfVlRqNlsnmMdhV) | [Richie Campbell](https://open.spotify.com/artist/2swvbEAfN70ZFcQB4Y7MaS) | [Let You Go](https://open.spotify.com/album/75YlSkZGyWUGB1BzPd9Egz) | 3:24 | 2022-07-07 |  |
 | [Licor](https://open.spotify.com/track/2sDi2QrFLpQEWbBNmE8Suc) | [Jaca](https://open.spotify.com/artist/2kMADMJ2Haa8p3x0Dj6SPH) | [Licor De Jaca](https://open.spotify.com/album/5TGbNOBIR8jdm5cVOYJcfK) | 3:26 | 2022-11-25 | 2023-02-03 |
+| [Lisabonna](https://open.spotify.com/track/4WvxDVwMqaqdwDrSSy7Vb6) | [Florito](https://open.spotify.com/artist/6ktGTLhw33T6F08my0ZRQH) | [Lisabonna](https://open.spotify.com/album/5oaOm217eIXa1xnPHaAN2a) | 3:14 | 2023-05-18 |  |
 | [Loco](https://open.spotify.com/track/7qUthqT3Y7dU14sBVhcMz3) | [Sien Flamuri](https://open.spotify.com/artist/3YGLE82LHhzAbPJxtitUDD) | [Loco](https://open.spotify.com/album/0n765dBDjHREmRlNIzQ2uu) | 3:07 | 2023-03-24 | 2023-04-14 |
 | [Longe](https://open.spotify.com/track/6f8pxYAEPtolYp4JKdh4YB) | [Dinis Mota](https://open.spotify.com/artist/4ZtaPrKdemEzqprB4bIzdx) | [Longe](https://open.spotify.com/album/0dX4dmqGhGmbDxiDq2ya1Q) | 3:45 | 2022-11-11 | 2022-12-02 |
 | [Losing](https://open.spotify.com/track/7w2yYropy6oWtdrrQZX6EZ) | [SLR](https://open.spotify.com/artist/76VHpa0HS1HbibsmCYo4oD) | [Losing](https://open.spotify.com/album/7KoeAFFIVeRL1VDajEgLjI) | 3:56 | 2022-10-13 | 2022-11-11 |
@@ -278,7 +279,7 @@
 | [Te Tirar](https://open.spotify.com/track/06JgJVR2Tus7q6CDRRm6ty) | [Penelas Sidney](https://open.spotify.com/artist/29DNcEMcr9tzvXywJC2L6K), [Xuxu Bower](https://open.spotify.com/artist/5PLJ01HIqRRN5qTltrfPk7) | [Te Tirar](https://open.spotify.com/album/2AeR0irJwPdLgLMn22FdEb) | 3:17 | 2023-03-01 | 2023-03-25 |
 | [teach me how to love](https://open.spotify.com/track/6XksotmRPuJoJot5Po8THO) | [colombianacallmegringo](https://open.spotify.com/artist/1iSBDUpR3E3GBF02idlgMB) | [teach me how to love](https://open.spotify.com/album/53a3gVxPs0JZvEYSTMrWRj) | 2:37 | 2022-07-07 | 2022-08-12 |
 | [Teia](https://open.spotify.com/track/0WO2C0embY06EtHVysWPnd) | [PLATES](https://open.spotify.com/artist/5CmHI0ta9VSlRtsi18kcSa), [TAZz](https://open.spotify.com/artist/3tBhm6KQi0f7CI1EbXseEO) | [Teia](https://open.spotify.com/album/2zntZIuVPxbQo5JmYEy6PB) | 2:30 | 2022-11-11 | 2022-12-02 |
-| [Tempo](https://open.spotify.com/track/6FLLyTSefYwiSshGlofEsM) | [Afonso](https://open.spotify.com/artist/19ZWrFOuK5OEk7SaALa6fr) | [Tempo](https://open.spotify.com/album/1jj39TNoO0el3RWJHauVg9) | 3:03 | 2023-05-18 |  |
+| [Tempo](https://open.spotify.com/track/6FLLyTSefYwiSshGlofEsM) | [Afonso](https://open.spotify.com/artist/19ZWrFOuK5OEk7SaALa6fr) | [Tempo](https://open.spotify.com/album/1jj39TNoO0el3RWJHauVg9) | 3:03 | 2023-05-18 | 2023-05-21 |
 | [Tentação](https://open.spotify.com/track/7v383pu4yGbdQW5t8Gv2dV) | [BCKappa](https://open.spotify.com/artist/2XAxChRi8QlO5rKAoL0DZi) | [Tentação](https://open.spotify.com/album/06rdIn1DdRecfzKnPrl17m) | 3:28 | 2023-02-17 | 2023-03-11 |
 | [Tequila \(Studio Version\)](https://open.spotify.com/track/5daT88Zml8Stpw2oTeesJx) | [Nenny](https://open.spotify.com/artist/2DEfqyWjAMIfKYMXb1V8L1) | [Tequila \(Studio Version\)](https://open.spotify.com/album/75KlUT1wTgMEuYSdhUBT8M) | 3:19 | 2022-07-07 |  |
 | [Teu Eternamente](https://open.spotify.com/track/3klZEB3gNmhKoOTqwVH92G) | [Slow J](https://open.spotify.com/artist/7crp1tZcefnjT5RuL6WZQ0) | [You Are Forgiven](https://open.spotify.com/album/4aYjRWiuEU8gGeIs3FeAWJ) | 2:55 | 2022-07-07 | 2023-03-18 |

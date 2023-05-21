@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3aD9A9aINSs.md) - [plain]
 
 > Türkiye'nin birbirinden güçlü kadın sesleri bir arada\. Kapak: Rana Türkyılmaz
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,883 likes - 65 songs - 3 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,881 likes - 65 songs - 3 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3aD9A9aINSs.md) - [plain]
 | 64 | [After Bach](https://open.spotify.com/track/7H18Ltox2LGLnB1HVmtvCi) | [Aysedeniz Gokcin](https://open.spotify.com/artist/0MhNojJNQsaW1KXqKTX2Y0) | [After Bach](https://open.spotify.com/album/4GfQfjGTu1fCsKXZE3sJLg) | 3:17 |
 | 65 | [Doğum/Birth revisited](https://open.spotify.com/track/6kaNbSBY6ZD2QhEwR2WDuq) | [Büşra Kayıkçı](https://open.spotify.com/artist/0iOvtl1pydfRgGpJWOOP8E) | [Doğum/Birth revisited](https://open.spotify.com/album/0SjlP9XA8xAKll2JDUO08K) | 4:52 |
 
-Snapshot ID: `MCxmNWFiYjIxZWYzODE3OGE4NmFiMTg3YWE2OGViYmM4YmFkODc0ZGVj`
+Snapshot ID: `MCwzMjdkZDQyZjNmMjRhMjMzNzY3YTQ0OGNkZDhmMDhlOTNmODRmYjQ0`

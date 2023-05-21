@@ -1989,6 +1989,24 @@
     },
     {
       "album": {
+        "name": "Dos Corazones",
+        "url": "https://open.spotify.com/album/4syic3hPRQ5oKFfkI6O5Cs"
+      },
+      "artists": [
+        {
+          "name": "Jon Wolfe",
+          "url": "https://open.spotify.com/artist/7fmSLVnnxwwMYj8Wc0rKyp"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232202,
+      "name": "Tequila Sundown",
+      "url": "https://open.spotify.com/track/0ChzKEth6qOLucWCb1BFdC"
+    },
+    {
+      "album": {
         "name": "Dos Corazones Chapter One",
         "url": "https://open.spotify.com/album/58qPvTFiBZPYubdX9GVFNM"
       },
@@ -2000,7 +2018,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-21",
       "duration_ms": 232202,
       "name": "Tequila Sundown",
       "url": "https://open.spotify.com/track/4nN7chRIK66RfXKTqM3GwS"

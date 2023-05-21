@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 
 > 今週も話題の新曲を最速で。 Cover: スピッツ \*👉 <a href="https://spice.eplus.jp/articles/318270?utm\_source=spotify.com&utm\_medium=referral">SPICE連動記事</a>から新着情報をキャッチ!
 
-[Spotify](https://open.spotify.com/user/spotify) - 141,808 likes - 80 songs - 4 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 141,833 likes - 80 songs - 4 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 | 79 | [Mayday](https://open.spotify.com/track/3gBg30QamRN5DftFNK5EKf) | [BURNABLE/UNBURNABLE](https://open.spotify.com/artist/18gC8b8KN9bId452Xdbl3p) | [Mayday](https://open.spotify.com/album/3IjA3ElHjDD9KaEnc4a9MU) | 3:12 |
 | 80 | [短い御休み](https://open.spotify.com/track/5ncR9q3plQQFVsoRbZf9pV) | [ポニーのヒサミツ](https://open.spotify.com/artist/5Jgmn1ZKXTKLR1uxbu0lSg) | [短い御休み](https://open.spotify.com/album/3Zi5BpceEHJfAEsOrjDhig) | 3:01 |
 
-Snapshot ID: `MCxiYjcwNTAwNzYxN2UyNDNkZmNhYWRiY2Q2Mzk3MDlhYWNmMzYzMGE0`
+Snapshot ID: `MCxjNzAzNDQ3NGRkNzFmZGE0OTZjNTVjYTFmMTdjNzM0M2VkOGRjOWNm`

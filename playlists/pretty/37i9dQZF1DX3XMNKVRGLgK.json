@@ -1,12 +1,12 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/nigelsylvester/\">Nigel Sylvester</a>",
-  "num_followers": 7225,
+  "num_followers": 7284,
   "original_name": "Nigel Sylvester's Taste",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4ZGZkNGVkY2FhYTg1NzkzMDlmMjEyMzlmZWNiMTRjODA4NWY4ZjYy",
+  "snapshot_id": "MCxkOWUxZDZlM2QwYzg3YWFjOWJhYWQ1NzFkNmQyNDNhZjZiMWViMjlh",
   "tracks": [
     {
       "added_at": "2022-10-01 16:00:00",
@@ -531,6 +531,30 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
+        "name": "Come Home With Me",
+        "url": "https://open.spotify.com/album/1lEkQcVvPwNZmkBIEJPSrv"
+      },
+      "artists": [
+        {
+          "name": "Cam\u2019ron",
+          "url": "https://open.spotify.com/artist/7iMvwE8qANp3aIfAGKEAwS"
+        },
+        {
+          "name": "Memphis Bleek",
+          "url": "https://open.spotify.com/artist/4jWzNq3sdzSpqn7BnzvIKn"
+        },
+        {
+          "name": "Beanie Sigel",
+          "url": "https://open.spotify.com/artist/0tCtGc5vt29zFZp6KXzN50"
+        }
+      ],
+      "duration_ms": 264866,
+      "name": "The Roc (Just Fire)",
+      "url": "https://open.spotify.com/track/0CuKb9Iy8CLnSGJM5VemIK"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
         "name": "All Money Is Legal",
         "url": "https://open.spotify.com/album/4isanca8rAOurYRLPvKwnS"
       },
@@ -555,30 +579,6 @@
       "duration_ms": 260226,
       "name": "4 Da Fam (feat. Beanie Sigel, Memphis Bleek & Jay-Z) - Explicit Album Version",
       "url": "https://open.spotify.com/track/2NUcXeWIVFKcKrjgfUHDRG"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
-        "name": "Come Home With Me",
-        "url": "https://open.spotify.com/album/1lEkQcVvPwNZmkBIEJPSrv"
-      },
-      "artists": [
-        {
-          "name": "Cam\u2019ron",
-          "url": "https://open.spotify.com/artist/7iMvwE8qANp3aIfAGKEAwS"
-        },
-        {
-          "name": "Memphis Bleek",
-          "url": "https://open.spotify.com/artist/4jWzNq3sdzSpqn7BnzvIKn"
-        },
-        {
-          "name": "Beanie Sigel",
-          "url": "https://open.spotify.com/artist/0tCtGc5vt29zFZp6KXzN50"
-        }
-      ],
-      "duration_ms": 264866,
-      "name": "The Roc (Just Fire)",
-      "url": "https://open.spotify.com/track/0CuKb9Iy8CLnSGJM5VemIK"
     },
     {
       "added_at": "2022-10-01 16:00:00",

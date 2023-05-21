@@ -4,7 +4,7 @@
 
 > Go hard or go home\. Cover: Tsuki
 
-131 songs - 9 hr 7 min
+132 songs - 9 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,7 +64,7 @@
 | [IMPULSE](https://open.spotify.com/track/1IHvLqS4SGHGoYpSZ4HX1K) | [Livsey](https://open.spotify.com/artist/3NTztqzlD6wmkIMRwvurdL) | [IMPULSE](https://open.spotify.com/album/1wjLLEUjAhTH7kQShxCazW) | 6:04 | 2022-05-06 |  |
 | [Impulsive](https://open.spotify.com/track/2Nad5qEns5mquszOfuBVgn) | [Kormz](https://open.spotify.com/artist/0UK0iefjYjY0ggoqK1Ifos), [StillZ](https://open.spotify.com/artist/6Zw8mgfAFYRQdzjPDNLdf9) | [Molecule EP](https://open.spotify.com/album/6mfopSAnzxRc4vlcZd48qi) | 4:26 | 2022-05-06 |  |
 | [Infinity](https://open.spotify.com/track/29SdwNBM9Veq6dM04W2JKN) | [Freaks & Geeks](https://open.spotify.com/artist/6Qcn4TflUyLRoA6w44IQSU), [Lee Mvtthews](https://open.spotify.com/artist/2rf0ufpy1NIUGmEHqq27GC) | [Infinity](https://open.spotify.com/album/38qsNzezB0gCCk8N74lPJV) | 4:09 | 2022-06-20 | 2023-02-09 |
-| [Infinity](https://open.spotify.com/track/1EY6HivuyFfBETSEyDAPys) | [Lee Mvtthews](https://open.spotify.com/artist/2rf0ufpy1NIUGmEHqq27GC), [Freaks & Geeks](https://open.spotify.com/artist/6Qcn4TflUyLRoA6w44IQSU) | [Genesis](https://open.spotify.com/album/2EMenP3Cn1Ely4hLp6bhHy) | 4:09 | 2022-08-12 |  |
+| [Infinity](https://open.spotify.com/track/1EY6HivuyFfBETSEyDAPys) | [Lee Mvtthews](https://open.spotify.com/artist/2rf0ufpy1NIUGmEHqq27GC), [Freaks & Geeks](https://open.spotify.com/artist/6Qcn4TflUyLRoA6w44IQSU) | [Genesis](https://open.spotify.com/album/2EMenP3Cn1Ely4hLp6bhHy) | 4:09 | 2022-08-12 | 2023-05-21 |
 | [Is It Possible](https://open.spotify.com/track/6n2P6oGffDzXReGv3boofn) | [Furniss](https://open.spotify.com/artist/6Atar0bD8ULP5VWw3SlU3X) | [Is It Possible / Sinister](https://open.spotify.com/album/1ynrxjXnaTpGqqZhs5Gte5) | 4:24 | 2022-05-06 | 2022-07-26 |
 | [Journey \- VIP 2](https://open.spotify.com/track/1JRjRDsjnBlJMaZ9xyRgXW) | [Complex](https://open.spotify.com/artist/2ibvDiUxAdyKlz0YrXFyZH) | [Journey \(VIP 2\)](https://open.spotify.com/album/3Ocehutu2kFyNmxrNLhWvN) | 3:44 | 2022-05-06 | 2022-07-29 |
 | [Kickons](https://open.spotify.com/track/2nLvgdviA51uIm9KnlcWv8) | [Kanine](https://open.spotify.com/artist/1KiNUGL3r0GgyLwqYCY1yV) | [Kickons](https://open.spotify.com/album/38XJnu6lO4uiRyGPnbpVW7) | 3:55 | 2022-05-06 | 2023-05-19 |
@@ -107,6 +107,7 @@
 | [Snake](https://open.spotify.com/track/77LHQMJZ9q93DA81PuMg6S) | [Logan D](https://open.spotify.com/artist/1p2Bj8h0k83W4M7RY8rUvA) | [15 Years Of Low Down Deep](https://open.spotify.com/album/37OTn60AXNy6BuvxJik9hk) | 4:28 | 2022-05-06 | 2022-07-25 |
 | [Somebody Else Part 2](https://open.spotify.com/track/0D8LbRJfY6AtnmBsNAxW9R) | [Kings Of The Rollers](https://open.spotify.com/artist/3OHnTiMsWYjSyj52aKmrBP), [Lydia Plain](https://open.spotify.com/artist/2GqsdDatnAThpQYfuW0yYs) | [Overload / Somebody Else Part 2](https://open.spotify.com/album/6Preo4wcIUwWO8Pu6Mu6IL) | 3:17 | 2022-05-06 |  |
 | [Spartanz \- Bou Remix](https://open.spotify.com/track/3C7cOylp1OQNr6Bud2TKlC) | [Dominator](https://open.spotify.com/artist/4ma9HJkRMW53TV4aRQy6Mn), [Nu Elementz](https://open.spotify.com/artist/1byzCRSdDJzbi0RnRB4xgP), [TNA](https://open.spotify.com/artist/5u6RylAtRAAxfm6Ahm2545), [Bou](https://open.spotify.com/artist/35dxfY1wywqVRUEaVuMm13) | [Spartanz \(Bou Remix\)](https://open.spotify.com/album/4vQ8iFRMG9tg6IZyeZvaiI) | 3:42 | 2022-05-06 |  |
+| [Spotlight](https://open.spotify.com/track/0qY6AV4ZegboqiIskNlozZ) | [Tsuki](https://open.spotify.com/artist/2yJbiseBZFvrCK5GueLnk7) | [Redemption](https://open.spotify.com/album/0JDV8B5FQ6vug0p9q8dV2h) | 3:45 | 2022-08-12 |  |
 | [Spotlight](https://open.spotify.com/track/1tZJyJ6kx1ALJSM4EYDe45) | [Tsuki](https://open.spotify.com/artist/2yJbiseBZFvrCK5GueLnk7) | [Spotlight](https://open.spotify.com/album/3Ypt6xmMLao0waxTaj1zpa) | 3:45 | 2022-05-06 | 2023-05-19 |
 | [Staying Up Late Making Music](https://open.spotify.com/track/1vtnJhymEYOqmJ3zYHOUnd) | [DLR](https://open.spotify.com/artist/6kgD8l1FG4hgYgW9kk0dvs) | [Staying Up Late Making Music](https://open.spotify.com/album/0347DLprmjLf5c0czi24Ja) | 4:13 | 2022-08-12 |  |
 | [Step It Up](https://open.spotify.com/track/608TATD49stSCcojEMTwmX) | [K Motionz](https://open.spotify.com/artist/6QYdXToMo4XHnG1AnEVZYJ), [Comma Dee](https://open.spotify.com/artist/2K2k6w3rhyifPmKC4U86VY) | [Step It Up / Lights](https://open.spotify.com/album/7cEDZxW0kaIjj5hUi8xkkj) | 4:30 | 2022-05-06 |  |

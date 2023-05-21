@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0YwbagSTSJv.md) - [plain]
 
 > Let it all go and lift yourself up with inspiring ambient music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,735 likes - 120 songs - 6 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,770 likes - 120 songs - 6 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -129,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0YwbagSTSJv.md) - [plain]
 | 119 | [Night at Sea](https://open.spotify.com/track/1djlK49yDx6ukfsOlox6MY) | [Golden Slumber](https://open.spotify.com/artist/1x02xJIKGceDvDd4yugtQj) | [Night at Sea](https://open.spotify.com/album/0e1pQgTkxdLvDxIqgWNgaE) | 3:17 |
 | 120 | [Peaceful Pond](https://open.spotify.com/track/2CYFC2xg3yXvQPPuH6oIel) | [KLXX](https://open.spotify.com/artist/5Vau7AVtTr4wKVibmML0fP) | [Peaceful Pond](https://open.spotify.com/album/2kjvF7IfjbNtmmhnjZ9ewo) | 3:27 |
 
-Snapshot ID: `MCw2MzA0ZGRlODI1ZWI3NzFhZTdlNDIxNTc1MjUwMGJjZmE3MWJiMjkw`
+Snapshot ID: `MCwwZDA0YmVjMzIyYmI5NzU5N2RiN2IxYThkNzM3MTk0NjJkNmVkN2E1`

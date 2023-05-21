@@ -194,10 +194,28 @@
       ],
       "date_added": "2023-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-21",
       "duration_ms": 640908,
       "name": "Flux 2",
       "url": "https://open.spotify.com/track/0cQ2AFeqZoopVS8zetcyra"
+    },
+    {
+      "album": {
+        "name": "FLUX",
+        "url": "https://open.spotify.com/album/3PM9Fn7zUKsP8G25LqyTnJ"
+      },
+      "artists": [
+        {
+          "name": "Robert Turman",
+          "url": "https://open.spotify.com/artist/2W2BiVgO5bISQejnz7HPhE"
+        }
+      ],
+      "date_added": "2023-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 642906,
+      "name": "FLUX TWO",
+      "url": "https://open.spotify.com/track/7yfa4JcR05wO1roiR5Eb7B"
     },
     {
       "album": {

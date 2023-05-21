@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaU1AaHpZeu.md) - [plain]
 
 > Nuevos hallazgos de música indie latina\. En portada: Peces Raros
 
-[Spotify](https://open.spotify.com/user/spotify) - 294,140 likes - 50 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 294,163 likes - 50 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaU1AaHpZeu.md) - [plain]
 | 49 | [are you back?](https://open.spotify.com/track/3kqqBHeHWob1EVQfOSvUNO) | [MAVICA](https://open.spotify.com/artist/2J1sJydvX10ir67gz54cdW) | [are you back?](https://open.spotify.com/album/3Nluhade6C2vppSEUjgDAw) | 4:31 |
 | 50 | [EL VIAJE DEL SOL](https://open.spotify.com/track/69KA3i8JzL3AOv0i3h2knf) | [Fran Laoren](https://open.spotify.com/artist/2g1W9bFVmdIyxvktrdDiO4), [Épona HD](https://open.spotify.com/artist/4saTFwjZocHKVyficxXKJW) | [SOLO HAY UN CAMINO](https://open.spotify.com/album/4bngPhF6tevQNlcE3LBrFq) | 2:29 |
 
-Snapshot ID: `MCxiODkxNDYxYWJiOTQzMmRjMzRlNWQ2MzAzZjBiZWE5ZTE5ZjkyZjZh`
+Snapshot ID: `MCwxMTAxYzY5Mzc5YTJkZmUyYmNlYTgxZDcxNmNiOWRiMmNmZDhhZWQ1`

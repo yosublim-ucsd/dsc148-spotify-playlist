@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11otjJ7crqp.md) - [plain]
 
 > This week's essential new pop tracks\. Cover: Kesha
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,962 likes - 99 songs - 4 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,003 likes - 99 songs - 4 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11otjJ7crqp.md) - [plain]
 | 98 | [Vroom](https://open.spotify.com/track/4moXJ0WFWXTDg4EcmIUttM) | [Hoodie Allen](https://open.spotify.com/artist/382aq8Pij5V2nE2JMHMoxl), [Connor Price](https://open.spotify.com/artist/5zixe6AbgXPqt4c1uSl94L) | [Vroom](https://open.spotify.com/album/4WbqzxKS4rlALgUOMrKJtL) | 2:17 |
 | 99 | [F U It's Over](https://open.spotify.com/track/3U2vi9J7dN7X2ZqYSfOIht) | [Ellee Duke](https://open.spotify.com/artist/0mVpmPb8A2f3SZzLwsfY2N) | [F U It's Over](https://open.spotify.com/album/0yRCPYnNJya1rAoZ4m0axM) | 2:45 |
 
-Snapshot ID: `MCxkOTJjNzk3NmFjMDE2ZGU1NWMyY2Y5MTEwM2MyZmZlYzU2ZWFiMTMz`
+Snapshot ID: `MCwyNTA4NTljN2U0OGYyZDZhODJiMDExM2JmNDBmYmExMjNjNmJiN2M2`

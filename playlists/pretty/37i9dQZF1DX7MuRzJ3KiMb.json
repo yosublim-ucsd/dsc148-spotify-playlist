@@ -1,12 +1,12 @@
 {
   "description": "el amor es <3",
-  "num_followers": 49268,
+  "num_followers": 49317,
   "original_name": "cursi",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwZDZjZDY2NjA4YzczNmVjZGIyMmU0MTFjNmIxZDI1ZjZkYTg5YjMz",
+  "snapshot_id": "MCw2NWY4NzRiZWVhZWNiMTA2Nzg1Yjk1MDI2ODg1NTIyZmU0MjIwNmIz",
   "tracks": [
     {
       "added_at": "2023-05-05 23:20:48",
@@ -1019,6 +1019,22 @@
     {
       "added_at": "2023-05-05 23:20:48",
       "album": {
+        "name": "Lugares Imaginarios",
+        "url": "https://open.spotify.com/album/6rNBDcsHr2MgGzkcDSKenA"
+      },
+      "artists": [
+        {
+          "name": "Sof\u00eda Campos",
+          "url": "https://open.spotify.com/artist/2CDQX14Dm9L7YAyJKfLOe5"
+        }
+      ],
+      "duration_ms": 191141,
+      "name": "Amen\u00e1bar",
+      "url": "https://open.spotify.com/track/0xAwIlQCT43PGCe0BLnzr5"
+    },
+    {
+      "added_at": "2023-05-05 23:20:48",
+      "album": {
         "name": "capturas de pantalla",
         "url": "https://open.spotify.com/album/0Tq8ZFYOAcHmAnnKn3kBNL"
       },
@@ -1035,18 +1051,18 @@
     {
       "added_at": "2023-05-05 23:20:48",
       "album": {
-        "name": "Lugares Imaginarios",
-        "url": "https://open.spotify.com/album/6rNBDcsHr2MgGzkcDSKenA"
+        "name": "L\u00ednea Recta",
+        "url": "https://open.spotify.com/album/19Gt3qUgfakD1rVw82iyzL"
       },
       "artists": [
         {
-          "name": "Sof\u00eda Campos",
-          "url": "https://open.spotify.com/artist/2CDQX14Dm9L7YAyJKfLOe5"
+          "name": "Vale",
+          "url": "https://open.spotify.com/artist/22p8vOZwMABvl5qt2nZHWD"
         }
       ],
-      "duration_ms": 191141,
-      "name": "Amen\u00e1bar",
-      "url": "https://open.spotify.com/track/0xAwIlQCT43PGCe0BLnzr5"
+      "duration_ms": 182760,
+      "name": "Pasatiempo",
+      "url": "https://open.spotify.com/track/5Zc09qHPIIo4vJkYeCfixc"
     },
     {
       "added_at": "2023-05-05 23:20:48",
@@ -1067,22 +1083,6 @@
       "duration_ms": 183829,
       "name": "Bonito",
       "url": "https://open.spotify.com/track/0QvLRuiBiNN1BWa2oVKvNA"
-    },
-    {
-      "added_at": "2023-05-05 23:20:48",
-      "album": {
-        "name": "L\u00ednea Recta",
-        "url": "https://open.spotify.com/album/19Gt3qUgfakD1rVw82iyzL"
-      },
-      "artists": [
-        {
-          "name": "Vale",
-          "url": "https://open.spotify.com/artist/22p8vOZwMABvl5qt2nZHWD"
-        }
-      ],
-      "duration_ms": 182760,
-      "name": "Pasatiempo",
-      "url": "https://open.spotify.com/track/5Zc09qHPIIo4vJkYeCfixc"
     },
     {
       "added_at": "2023-05-05 23:20:48",
@@ -1207,18 +1207,18 @@
     {
       "added_at": "2023-05-05 23:20:48",
       "album": {
-        "name": "L\u00ednea Bonita",
-        "url": "https://open.spotify.com/album/0HTsBpLOhXNyjKl3Urt4Sb"
+        "name": "Para Verte",
+        "url": "https://open.spotify.com/album/43b9yizo1mckUfWgItr7nk"
       },
       "artists": [
         {
-          "name": "Dali Mata",
-          "url": "https://open.spotify.com/artist/5UeFBoZ5aFWt6MtINvwwxL"
+          "name": "Vale",
+          "url": "https://open.spotify.com/artist/22p8vOZwMABvl5qt2nZHWD"
         }
       ],
-      "duration_ms": 247428,
-      "name": "L\u00ednea Bonita",
-      "url": "https://open.spotify.com/track/3SklsfsyuCjp4Ncn6llxdN"
+      "duration_ms": 182053,
+      "name": "Para Verte",
+      "url": "https://open.spotify.com/track/4aiIi5Nn7EdDhoiw5DywDk"
     },
     {
       "added_at": "2023-05-05 23:20:48",
@@ -1239,18 +1239,18 @@
     {
       "added_at": "2023-05-05 23:20:48",
       "album": {
-        "name": "Para Verte",
-        "url": "https://open.spotify.com/album/43b9yizo1mckUfWgItr7nk"
+        "name": "L\u00ednea Bonita",
+        "url": "https://open.spotify.com/album/0HTsBpLOhXNyjKl3Urt4Sb"
       },
       "artists": [
         {
-          "name": "Vale",
-          "url": "https://open.spotify.com/artist/22p8vOZwMABvl5qt2nZHWD"
+          "name": "Dali Mata",
+          "url": "https://open.spotify.com/artist/5UeFBoZ5aFWt6MtINvwwxL"
         }
       ],
-      "duration_ms": 182053,
-      "name": "Para Verte",
-      "url": "https://open.spotify.com/track/4aiIi5Nn7EdDhoiw5DywDk"
+      "duration_ms": 247428,
+      "name": "L\u00ednea Bonita",
+      "url": "https://open.spotify.com/track/3SklsfsyuCjp4Ncn6llxdN"
     },
     {
       "added_at": "2023-05-05 23:20:48",

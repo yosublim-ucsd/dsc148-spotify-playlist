@@ -1,12 +1,12 @@
 {
   "description": "Just vibes. Cover: De La Ghetto ",
-  "num_followers": 695333,
+  "num_followers": 695330,
   "original_name": "Vibras",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmNTc4ZmEzZjEzYmIzMGEzMThmNDE5ZGU5YWMxZTQ5ZTg5NzM4YjZi",
+  "snapshot_id": "MCxhODliMWNmMTU1NjE4Y2FhMDAxOWE4ZjhjNTIzZTQxMzYyZTIwM2Ni",
   "tracks": [
     {
       "added_at": "2023-05-12 19:56:24",
@@ -419,6 +419,22 @@
     {
       "added_at": "2023-05-12 19:56:24",
       "album": {
+        "name": "L\u00e1grimas pa otro d\u00eda",
+        "url": "https://open.spotify.com/album/3cPRpK8yUQV5T6QTt7XGfp"
+      },
+      "artists": [
+        {
+          "name": "DELLAFUENTE",
+          "url": "https://open.spotify.com/artist/4bJh7sMPcVRiqe5jlnsWQV"
+        }
+      ],
+      "duration_ms": 124110,
+      "name": "No te lo niego, ma dol\u00edo",
+      "url": "https://open.spotify.com/track/3o0OhPbX6vz6lzn63kg2CE"
+    },
+    {
+      "added_at": "2023-05-12 19:56:24",
+      "album": {
         "name": "Sigues Con El (Remix)",
         "url": "https://open.spotify.com/album/0vPG06qvqmD1XL1uAFysKM"
       },
@@ -439,22 +455,6 @@
       "duration_ms": 189566,
       "name": "Sigues Con El - Remix",
       "url": "https://open.spotify.com/track/4Pu0a2TuHOYtI4CCE3HEXI"
-    },
-    {
-      "added_at": "2023-05-12 19:56:24",
-      "album": {
-        "name": "L\u00e1grimas pa otro d\u00eda",
-        "url": "https://open.spotify.com/album/3cPRpK8yUQV5T6QTt7XGfp"
-      },
-      "artists": [
-        {
-          "name": "DELLAFUENTE",
-          "url": "https://open.spotify.com/artist/4bJh7sMPcVRiqe5jlnsWQV"
-        }
-      ],
-      "duration_ms": 124110,
-      "name": "No te lo niego, ma dol\u00edo",
-      "url": "https://open.spotify.com/track/3o0OhPbX6vz6lzn63kg2CE"
     },
     {
       "added_at": "2023-05-12 19:56:24",
@@ -563,6 +563,26 @@
     {
       "added_at": "2023-05-12 19:56:24",
       "album": {
+        "name": "Modo Avi\u00f3n",
+        "url": "https://open.spotify.com/album/7GUGpSBpdK6cJmWO3KdA7r"
+      },
+      "artists": [
+        {
+          "name": "Dalex",
+          "url": "https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn"
+        },
+        {
+          "name": "Sech",
+          "url": "https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht"
+        }
+      ],
+      "duration_ms": 201361,
+      "name": "Mejor",
+      "url": "https://open.spotify.com/track/6C1jKbkCUgFws7M0M4oGCB"
+    },
+    {
+      "added_at": "2023-05-12 19:56:24",
+      "album": {
         "name": "S\u00edntomas de Soltera",
         "url": "https://open.spotify.com/album/52LXEHHaMdDqQFhiOhUJ7x"
       },
@@ -583,26 +603,6 @@
       "duration_ms": 241908,
       "name": "S\u00edntomas de Soltera",
       "url": "https://open.spotify.com/track/2HUQkg5zLJzzwCEcEA3qlv"
-    },
-    {
-      "added_at": "2023-05-12 19:56:24",
-      "album": {
-        "name": "Modo Avi\u00f3n",
-        "url": "https://open.spotify.com/album/7GUGpSBpdK6cJmWO3KdA7r"
-      },
-      "artists": [
-        {
-          "name": "Dalex",
-          "url": "https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn"
-        },
-        {
-          "name": "Sech",
-          "url": "https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht"
-        }
-      ],
-      "duration_ms": 201361,
-      "name": "Mejor",
-      "url": "https://open.spotify.com/track/6C1jKbkCUgFws7M0M4oGCB"
     },
     {
       "added_at": "2023-05-12 19:56:24",
@@ -1159,18 +1159,22 @@
     {
       "added_at": "2023-05-12 19:56:24",
       "album": {
-        "name": "lo que pas\u00f3",
-        "url": "https://open.spotify.com/album/0dhZYPGnqu0hVxVS9saFQa"
+        "name": "Tu No Me Amas",
+        "url": "https://open.spotify.com/album/4MKwAPEjNQ7Vsv0mhDxXgh"
       },
       "artists": [
         {
-          "name": "Nina Cobham",
-          "url": "https://open.spotify.com/artist/4ETeWE9SAfaNU7XQ1RB2wq"
+          "name": "D2OS",
+          "url": "https://open.spotify.com/artist/4bYINsPD7PpQj4uRPQnNsz"
+        },
+        {
+          "name": "Paradize",
+          "url": "https://open.spotify.com/artist/3aSBi6CYiiMGBgXnGB0Ej4"
         }
       ],
-      "duration_ms": 150576,
-      "name": "lo que pas\u00f3",
-      "url": "https://open.spotify.com/track/6SWwMXdb0XGGsUmNVxjP76"
+      "duration_ms": 154960,
+      "name": "Tu No Me Amas",
+      "url": "https://open.spotify.com/track/2uyJGVcniKrNpt2ZSIGOqg"
     },
     {
       "added_at": "2023-05-12 19:56:24",
@@ -1203,22 +1207,18 @@
     {
       "added_at": "2023-05-12 19:56:24",
       "album": {
-        "name": "Tu No Me Amas",
-        "url": "https://open.spotify.com/album/4MKwAPEjNQ7Vsv0mhDxXgh"
+        "name": "lo que pas\u00f3",
+        "url": "https://open.spotify.com/album/0dhZYPGnqu0hVxVS9saFQa"
       },
       "artists": [
         {
-          "name": "D2OS",
-          "url": "https://open.spotify.com/artist/4bYINsPD7PpQj4uRPQnNsz"
-        },
-        {
-          "name": "Paradize",
-          "url": "https://open.spotify.com/artist/3aSBi6CYiiMGBgXnGB0Ej4"
+          "name": "Nina Cobham",
+          "url": "https://open.spotify.com/artist/4ETeWE9SAfaNU7XQ1RB2wq"
         }
       ],
-      "duration_ms": 154960,
-      "name": "Tu No Me Amas",
-      "url": "https://open.spotify.com/track/2uyJGVcniKrNpt2ZSIGOqg"
+      "duration_ms": 150576,
+      "name": "lo que pas\u00f3",
+      "url": "https://open.spotify.com/track/6SWwMXdb0XGGsUmNVxjP76"
     },
     {
       "added_at": "2023-05-12 19:56:24",
@@ -1259,22 +1259,6 @@
     {
       "added_at": "2023-05-12 19:56:24",
       "album": {
-        "name": "3 y Pico",
-        "url": "https://open.spotify.com/album/5KV1DEKnLvZZsXeeUhvlGp"
-      },
-      "artists": [
-        {
-          "name": "Alex Rose",
-          "url": "https://open.spotify.com/artist/2DspEsT7UXGKd2VaaedgG4"
-        }
-      ],
-      "duration_ms": 190068,
-      "name": "3 y Pico",
-      "url": "https://open.spotify.com/track/0r64jJnSYca92hWaTLca5W"
-    },
-    {
-      "added_at": "2023-05-12 19:56:24",
-      "album": {
         "name": "Dance With U",
         "url": "https://open.spotify.com/album/2LrInB9iLjGJXVye5Doi9l"
       },
@@ -1291,6 +1275,38 @@
       "duration_ms": 156850,
       "name": "Dance With U",
       "url": "https://open.spotify.com/track/2oj6wE7WBxaf9C5s3ALiJ3"
+    },
+    {
+      "added_at": "2023-05-12 19:56:24",
+      "album": {
+        "name": "3 y Pico",
+        "url": "https://open.spotify.com/album/5KV1DEKnLvZZsXeeUhvlGp"
+      },
+      "artists": [
+        {
+          "name": "Alex Rose",
+          "url": "https://open.spotify.com/artist/2DspEsT7UXGKd2VaaedgG4"
+        }
+      ],
+      "duration_ms": 190068,
+      "name": "3 y Pico",
+      "url": "https://open.spotify.com/track/0r64jJnSYca92hWaTLca5W"
+    },
+    {
+      "added_at": "2023-05-12 19:56:24",
+      "album": {
+        "name": "diamantes y espinas",
+        "url": "https://open.spotify.com/album/3o86U2Y7aQCgQe2kQQOz8T"
+      },
+      "artists": [
+        {
+          "name": "paopao",
+          "url": "https://open.spotify.com/artist/5AS4y4rlmbUYDCdg35qmI9"
+        }
+      ],
+      "duration_ms": 213920,
+      "name": "algo as\u00ed",
+      "url": "https://open.spotify.com/track/5YZ6ThqD1WBi9g0YSlLsfW"
     },
     {
       "added_at": "2023-05-12 19:56:24",
@@ -1315,22 +1331,6 @@
       "duration_ms": 213983,
       "name": "La Ideal",
       "url": "https://open.spotify.com/track/0dMjY4xWaO8TnDDJNT4YBi"
-    },
-    {
-      "added_at": "2023-05-12 19:56:24",
-      "album": {
-        "name": "diamantes y espinas",
-        "url": "https://open.spotify.com/album/3o86U2Y7aQCgQe2kQQOz8T"
-      },
-      "artists": [
-        {
-          "name": "paopao",
-          "url": "https://open.spotify.com/artist/5AS4y4rlmbUYDCdg35qmI9"
-        }
-      ],
-      "duration_ms": 213920,
-      "name": "algo as\u00ed",
-      "url": "https://open.spotify.com/track/5YZ6ThqD1WBi9g0YSlLsfW"
     },
     {
       "added_at": "2023-05-12 19:56:24",
@@ -1375,6 +1375,22 @@
     {
       "added_at": "2023-05-12 19:56:24",
       "album": {
+        "name": "Amor En Espa\u00f1ol",
+        "url": "https://open.spotify.com/album/1e8k4kAKtcC5GIjfP4JDdR"
+      },
+      "artists": [
+        {
+          "name": "Jesse Baez",
+          "url": "https://open.spotify.com/artist/4rriNpL1lxpoysDDctWgl3"
+        }
+      ],
+      "duration_ms": 186306,
+      "name": "Honey",
+      "url": "https://open.spotify.com/track/2FuQp5l27bC1sHWnZr8uA3"
+    },
+    {
+      "added_at": "2023-05-12 19:56:24",
+      "album": {
         "name": "Falso Amigo",
         "url": "https://open.spotify.com/album/6aGmKt3oG1WCKwschVOGgn"
       },
@@ -1407,22 +1423,6 @@
     {
       "added_at": "2023-05-12 19:56:24",
       "album": {
-        "name": "Amor En Espa\u00f1ol",
-        "url": "https://open.spotify.com/album/1e8k4kAKtcC5GIjfP4JDdR"
-      },
-      "artists": [
-        {
-          "name": "Jesse Baez",
-          "url": "https://open.spotify.com/artist/4rriNpL1lxpoysDDctWgl3"
-        }
-      ],
-      "duration_ms": 186306,
-      "name": "Honey",
-      "url": "https://open.spotify.com/track/2FuQp5l27bC1sHWnZr8uA3"
-    },
-    {
-      "added_at": "2023-05-12 19:56:24",
-      "album": {
         "name": "Insomnia",
         "url": "https://open.spotify.com/album/5CfLWuM72hIF1dO4Rbhzhy"
       },
@@ -1439,18 +1439,18 @@
     {
       "added_at": "2023-05-12 19:56:24",
       "album": {
-        "name": "me piensas ;)",
-        "url": "https://open.spotify.com/album/2m35VBQZcCZqBnKzgEbP4N"
+        "name": "No Me Busques Donde Mismo",
+        "url": "https://open.spotify.com/album/41NSpGcHqZPzrGqOOnxyHk"
       },
       "artists": [
         {
-          "name": "Carlos Unger",
-          "url": "https://open.spotify.com/artist/6HjZFRvUOPRuaPNzUxtqWf"
+          "name": "AQUIHAYAQUIHAY",
+          "url": "https://open.spotify.com/artist/3zMBw1jxFritUP7Mpce68i"
         }
       ],
-      "duration_ms": 172421,
-      "name": "me piensas ;)",
-      "url": "https://open.spotify.com/track/15o9c1gTVDxkGxq74lrgO9"
+      "duration_ms": 248000,
+      "name": "B-Day",
+      "url": "https://open.spotify.com/track/2fLC7a1iIloVs8M95GNCPz"
     },
     {
       "added_at": "2023-05-12 19:56:24",
@@ -1471,18 +1471,18 @@
     {
       "added_at": "2023-05-12 19:56:24",
       "album": {
-        "name": "No Me Busques Donde Mismo",
-        "url": "https://open.spotify.com/album/41NSpGcHqZPzrGqOOnxyHk"
+        "name": "me piensas ;)",
+        "url": "https://open.spotify.com/album/2m35VBQZcCZqBnKzgEbP4N"
       },
       "artists": [
         {
-          "name": "AQUIHAYAQUIHAY",
-          "url": "https://open.spotify.com/artist/3zMBw1jxFritUP7Mpce68i"
+          "name": "Carlos Unger",
+          "url": "https://open.spotify.com/artist/6HjZFRvUOPRuaPNzUxtqWf"
         }
       ],
-      "duration_ms": 248000,
-      "name": "B-Day",
-      "url": "https://open.spotify.com/track/2fLC7a1iIloVs8M95GNCPz"
+      "duration_ms": 172421,
+      "name": "me piensas ;)",
+      "url": "https://open.spotify.com/track/15o9c1gTVDxkGxq74lrgO9"
     },
     {
       "added_at": "2023-05-12 19:56:24",
@@ -1743,6 +1743,26 @@
     {
       "added_at": "2023-05-12 19:56:24",
       "album": {
+        "name": "NOTEVI",
+        "url": "https://open.spotify.com/album/3PBOYHT7YbSLIs6qScxIEw"
+      },
+      "artists": [
+        {
+          "name": "Noreh",
+          "url": "https://open.spotify.com/artist/1JHgX0v8Dx86wpfQkZuJFg"
+        },
+        {
+          "name": "Jimmix",
+          "url": "https://open.spotify.com/artist/3j1xVZx3m3UPoREAQ8depP"
+        }
+      ],
+      "duration_ms": 260786,
+      "name": "NOTEVI",
+      "url": "https://open.spotify.com/track/6BZA4lYx4FxsdgFYb6Cq7E"
+    },
+    {
+      "added_at": "2023-05-12 19:56:24",
+      "album": {
         "name": "if you let me",
         "url": "https://open.spotify.com/album/79LzULw2zrLg3KllgzkCOK"
       },
@@ -1807,26 +1827,6 @@
       "duration_ms": 204827,
       "name": "Personal",
       "url": "https://open.spotify.com/track/2DkZmgOhYX5m4mOgORqIzq"
-    },
-    {
-      "added_at": "2023-05-12 19:56:24",
-      "album": {
-        "name": "NOTEVI",
-        "url": "https://open.spotify.com/album/3PBOYHT7YbSLIs6qScxIEw"
-      },
-      "artists": [
-        {
-          "name": "Noreh",
-          "url": "https://open.spotify.com/artist/1JHgX0v8Dx86wpfQkZuJFg"
-        },
-        {
-          "name": "Jimmix",
-          "url": "https://open.spotify.com/artist/3j1xVZx3m3UPoREAQ8depP"
-        }
-      ],
-      "duration_ms": 260786,
-      "name": "NOTEVI",
-      "url": "https://open.spotify.com/track/6BZA4lYx4FxsdgFYb6Cq7E"
     },
     {
       "added_at": "2023-05-12 19:56:24",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 
 > Música nueva de toda la región\. Esta semana en portada: Bad Bunny
 
-[Spotify](https://open.spotify.com/user/spotify) - 932,055 likes - 73 songs - 3 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 932,138 likes - 73 songs - 3 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 | 20 | [Ni Me Debes Ni Te Debo](https://open.spotify.com/track/3Zin1vaMx7PjFWIOBTE4FM) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ), [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N) | [Colmillo De Leche](https://open.spotify.com/album/52PtAAvfi8ZGTRK5c700y4) | 2:49 |
 | 21 | [Niñx](https://open.spotify.com/track/0lnuA5TgQErEvDsyujAYsE) | [Ana Tijoux](https://open.spotify.com/artist/40JMTpVRUw90SrN4pFA6Mz) | [Niñx](https://open.spotify.com/album/7456v3Q9ZExGfIl5r6H8N4) | 3:06 |
 | 22 | [TQM](https://open.spotify.com/track/368eeEO3Y2uZUQ6S5oIjcu) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [TQM](https://open.spotify.com/album/3GqCt85yKxtKxnIivSN15e) | 2:38 |
-| 23 | [Vikingos](https://open.spotify.com/track/5xsB0fAhMLOjutwlPNsQls) | [Migrantes](https://open.spotify.com/artist/48R2gYdPKtfnfKAzhSVPUx), [La Joaqui](https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM) | [Vikingos](https://open.spotify.com/album/1yM8N3pWYI7LjWEvGbBkcQ) | 2:46 |
+| 23 | [Vikingos](https://open.spotify.com/track/6t82eltBDEw70ePnk5GGe4) | [Migrantes](https://open.spotify.com/artist/48R2gYdPKtfnfKAzhSVPUx), [La Joaqui](https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM), [Nico Valdi](https://open.spotify.com/artist/0uxYECT7XqHNccQAg5Uhe4) | [Vikingos](https://open.spotify.com/album/50fDCiIhdGoiJLSYXdLbt9) | 2:46 |
 | 24 | [Tú Sí](https://open.spotify.com/track/3UYbYRx8LAEMSNiN9oaJuD) | [Mar Lucas](https://open.spotify.com/artist/7K5OqI5GnphpZMfIRs2UsI), [Kenia OS](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG), [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7) | [Tú Sí](https://open.spotify.com/album/3A9d6xjgv8Gzf5sBL5WUy2) | 2:53 |
 | 25 | [Por Si Pego](https://open.spotify.com/track/1y6gxADhtRpNq3V8xpYHJb) | [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I), [Kodigo](https://open.spotify.com/artist/3hwgckfLtTHdnkf694c7HS), [TREN LOKOTE](https://open.spotify.com/artist/6DjBv6gyR1HLsvwGUOD5V9) | [Por Si Pego](https://open.spotify.com/album/6dQluBGGicYXtzTmzj0j8c) | 3:26 |
 | 26 | [TIEMBLE](https://open.spotify.com/track/0LcEUKTLrMPJ2HJXbr4HAH) | [Lauty Gram](https://open.spotify.com/artist/6WAnQfBWB7ddhujPsFQ0pG), [Alejo Isakk](https://open.spotify.com/artist/2cdoH2XFAhj0LlSo4P2fJJ), [Omar Varela](https://open.spotify.com/artist/5xIOUIBQhGFX7HIj8lhdyU) | [TIEMBLE](https://open.spotify.com/album/6CZSIAB5EBuXrb9uF69UEo) | 3:24 |
@@ -82,4 +82,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 | 72 | [Imaturo \- Ao Vivo](https://open.spotify.com/track/7feMyvciUuT1F5jEfGOFIG) | [Paulo e Nathan](https://open.spotify.com/artist/3CGLLDfrPjF2FJ8HDCKMMv), [Tayrone](https://open.spotify.com/artist/2T1se5h5FRkw7ZfR7yxdlm) | [Imaturo \(Ao Vivo\)](https://open.spotify.com/album/7B6sAKV7EcSSAy6UhYzhQQ) | 3:01 |
 | 73 | [Amo A Sua Filha \- Ao Vivo](https://open.spotify.com/track/2r00xheKGAeQZ3K5Zwk4gm) | [Tiee](https://open.spotify.com/artist/1runhgZ4PyzxBhg0Nrc1F8), [Grupo Menos É Mais](https://open.spotify.com/artist/6vTqEFbTtTRJsuIpzZgjxi) | [Samba Pro Meu Povo \(Ao Vivo\)](https://open.spotify.com/album/0rFEpSSfBHsiiBerjLHFhf) | 3:13 |
 
-Snapshot ID: `MCxlN2M4ODQzOTVlOGI3Y2MzZWNmMzliYmJiMTcwYzQ1NWNlZjZkMzYz`
+Snapshot ID: `MCw5ZTI3OTk3NGNiM2VhNjYyYjk5NWM5MjUzZGE1MWIyOTc0OTA3MmU3`

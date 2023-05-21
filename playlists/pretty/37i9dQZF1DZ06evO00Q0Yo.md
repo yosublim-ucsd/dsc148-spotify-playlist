@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO00Q0Yo.md) - [plain]
 
 > This is Flo Milli\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,493 likes - 47 songs - 2 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,511 likes - 47 songs - 2 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,4 +56,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO00Q0Yo.md) - [plain]
 | 46 | [Blast Off \(feat\. Akbar V\) \- from the "Bruised" Soundtrack](https://open.spotify.com/track/5eNCui74eGe5ARFIMDwPFt) | [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd), [Bruised Soundtrack](https://open.spotify.com/artist/0CHgnpcHB0yfcUfJ3bdI3W), [Akbar V](https://open.spotify.com/artist/74PEUb9Hxn7dY8jjgnQvSw) | [Blast Off \(feat\. Akbar V\) \[from the "Bruised" Soundtrack\]](https://open.spotify.com/album/4LBjRiMnSo48P1wxUKHbqY) | 2:45 |
 | 47 | [Good](https://open.spotify.com/track/5wwF03ucQEDL2JO6aAUCSi) | [Yung Bleu](https://open.spotify.com/artist/3KNIG74xSTc3dj0TRy7pGX), [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd), [Yo Gotti](https://open.spotify.com/artist/6Ha4aES39QiVjR0L2lwuwq) | [Bleu Vandross 3](https://open.spotify.com/album/5gNVVayf3ReHePkP9HeDgz) | 2:42 |
 
-Snapshot ID: `MjgwNzQ5ODYsMDAwMDAwMDBlZjUwZGM2ZGE1ZjFlNjc5OWQzNjMxMTk1ZjZmODk2YQ==`
+Snapshot ID: `MjgwNzY0MjQsMDAwMDAwMDBjN2NhMzEyMTEwYjdiM2Q2YWM5NWEzMDUyNzBlODc3NA==`

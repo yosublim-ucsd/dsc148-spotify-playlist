@@ -1,12 +1,12 @@
 {
   "description": "P\u00f4r do sol com p\u00e9 na areia e aquela resenha com viol\u00e3o e muita rima.",
-  "num_followers": 147616,
+  "num_followers": 147637,
   "original_name": "Resenha na Praia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2NDJhNDExODczYzYwZDI0ZTUyYmRjNzZmYTUyZDNkMjEzZGJkZDI4",
+  "snapshot_id": "MCw0ZGUxNDE2MTExMDBkYmQ3YWRlYzk5ODM2MWJiYTM5MjA4NzdiMWJk",
   "tracks": [
     {
       "added_at": "2023-05-19 03:01:00",
@@ -823,22 +823,30 @@
     {
       "added_at": "2023-05-19 03:01:00",
       "album": {
-        "name": "N\u00e3o Quero Mais Nada",
-        "url": "https://open.spotify.com/album/61dnSy5M5Fmwar0gCgfvyy"
+        "name": "Rosa Mosqueta",
+        "url": "https://open.spotify.com/album/29r8N46ReMZsPewh4sJAbm"
       },
       "artists": [
         {
-          "name": "S7lermo",
-          "url": "https://open.spotify.com/artist/5yu0eLdIxLm3LvTxqewqhm"
+          "name": "Org\u00e2nico",
+          "url": "https://open.spotify.com/artist/5UOOgRWguRmVZo1voJuQpf"
         },
         {
-          "name": "L\u00edvia Neves",
-          "url": "https://open.spotify.com/artist/6oqRJsv7s4CXdVdclAEchk"
+          "name": "L\u00e9o Casa 1",
+          "url": "https://open.spotify.com/artist/5CLH6SMhWas8Ed7W9YZjJD"
+        },
+        {
+          "name": "Kadri",
+          "url": "https://open.spotify.com/artist/080IizDi2wwWfkw1zPdBZz"
+        },
+        {
+          "name": "S\u00f3CIRO",
+          "url": "https://open.spotify.com/artist/3rS2eMg4fwgs0ViHxkxuUz"
         }
       ],
-      "duration_ms": 213587,
-      "name": "N\u00e3o Quero Mais Nada",
-      "url": "https://open.spotify.com/track/3fJLwFNTMjRyqSXf5kpbK4"
+      "duration_ms": 198247,
+      "name": "Rosa Mosqueta",
+      "url": "https://open.spotify.com/track/3sRBvfATNmU3LmbsRaZ9Ds"
     },
     {
       "added_at": "2023-05-19 03:01:00",
@@ -863,6 +871,26 @@
       "duration_ms": 143448,
       "name": "Conex\u00e3o",
       "url": "https://open.spotify.com/track/1hoBqJiq8sR58nxGA1Wyva"
+    },
+    {
+      "added_at": "2023-05-19 03:01:00",
+      "album": {
+        "name": "N\u00e3o Quero Mais Nada",
+        "url": "https://open.spotify.com/album/61dnSy5M5Fmwar0gCgfvyy"
+      },
+      "artists": [
+        {
+          "name": "S7lermo",
+          "url": "https://open.spotify.com/artist/5yu0eLdIxLm3LvTxqewqhm"
+        },
+        {
+          "name": "L\u00edvia Neves",
+          "url": "https://open.spotify.com/artist/6oqRJsv7s4CXdVdclAEchk"
+        }
+      ],
+      "duration_ms": 213587,
+      "name": "N\u00e3o Quero Mais Nada",
+      "url": "https://open.spotify.com/track/3fJLwFNTMjRyqSXf5kpbK4"
     },
     {
       "added_at": "2023-05-19 03:01:00",
@@ -959,34 +987,6 @@
       "duration_ms": 212137,
       "name": "Ros\u00e9",
       "url": "https://open.spotify.com/track/2VjdWetFejyZ1NI95u12Zy"
-    },
-    {
-      "added_at": "2023-05-19 03:01:00",
-      "album": {
-        "name": "Rosa Mosqueta",
-        "url": "https://open.spotify.com/album/29r8N46ReMZsPewh4sJAbm"
-      },
-      "artists": [
-        {
-          "name": "Org\u00e2nico",
-          "url": "https://open.spotify.com/artist/5UOOgRWguRmVZo1voJuQpf"
-        },
-        {
-          "name": "L\u00e9o Casa 1",
-          "url": "https://open.spotify.com/artist/5CLH6SMhWas8Ed7W9YZjJD"
-        },
-        {
-          "name": "Kadri",
-          "url": "https://open.spotify.com/artist/080IizDi2wwWfkw1zPdBZz"
-        },
-        {
-          "name": "S\u00f3CIRO",
-          "url": "https://open.spotify.com/artist/3rS2eMg4fwgs0ViHxkxuUz"
-        }
-      ],
-      "duration_ms": 198247,
-      "name": "Rosa Mosqueta",
-      "url": "https://open.spotify.com/track/3sRBvfATNmU3LmbsRaZ9Ds"
     },
     {
       "added_at": "2023-05-19 03:01:00",
@@ -1115,6 +1115,26 @@
     {
       "added_at": "2023-05-19 03:01:00",
       "album": {
+        "name": "Ir Embora",
+        "url": "https://open.spotify.com/album/4P0ILvy6Lb8hvEwY8RtcFj"
+      },
+      "artists": [
+        {
+          "name": "Taz Mureb",
+          "url": "https://open.spotify.com/artist/58Edhhh8yg8UogYP33f2hW"
+        },
+        {
+          "name": "Scarlet Ohana",
+          "url": "https://open.spotify.com/artist/1kjSl7qb7J7qQetAGS3Wn3"
+        }
+      ],
+      "duration_ms": 125932,
+      "name": "Ir Embora",
+      "url": "https://open.spotify.com/track/0OE6lDNDdWrHJc9Ke19aJO"
+    },
+    {
+      "added_at": "2023-05-19 03:01:00",
+      "album": {
         "name": "\u00c9 Voc\u00ea",
         "url": "https://open.spotify.com/album/5gATIdtYF8ER6ROdxO8mGa"
       },
@@ -1155,26 +1175,6 @@
       "duration_ms": 206769,
       "name": "Nossas M\u00eddias",
       "url": "https://open.spotify.com/track/1VYll7Pj0Bvr2C9uQYqKIA"
-    },
-    {
-      "added_at": "2023-05-19 03:01:00",
-      "album": {
-        "name": "Ir Embora",
-        "url": "https://open.spotify.com/album/4P0ILvy6Lb8hvEwY8RtcFj"
-      },
-      "artists": [
-        {
-          "name": "Taz Mureb",
-          "url": "https://open.spotify.com/artist/58Edhhh8yg8UogYP33f2hW"
-        },
-        {
-          "name": "Scarlet Ohana",
-          "url": "https://open.spotify.com/artist/1kjSl7qb7J7qQetAGS3Wn3"
-        }
-      ],
-      "duration_ms": 125932,
-      "name": "Ir Embora",
-      "url": "https://open.spotify.com/track/0OE6lDNDdWrHJc9Ke19aJO"
     },
     {
       "added_at": "2023-05-19 03:01:00",
@@ -1287,42 +1287,6 @@
     {
       "added_at": "2023-05-19 03:01:00",
       "album": {
-        "name": "ELA ME TEM",
-        "url": "https://open.spotify.com/album/6G9FBaWvnwKHkiqXOyC2AN"
-      },
-      "artists": [
-        {
-          "name": "Ikki",
-          "url": "https://open.spotify.com/artist/5uxYttuMvoojMzmPmWWg6T"
-        }
-      ],
-      "duration_ms": 147200,
-      "name": "ELA ME TEM",
-      "url": "https://open.spotify.com/track/6TcGk4u9blTVO5bOmtOyFa"
-    },
-    {
-      "added_at": "2023-05-19 03:01:00",
-      "album": {
-        "name": "Pelo Mundo",
-        "url": "https://open.spotify.com/album/3CBgeU3PHAYf1Yai40dUDI"
-      },
-      "artists": [
-        {
-          "name": "CT",
-          "url": "https://open.spotify.com/artist/3WxUgB4Yr20VbdbKaFyHkV"
-        },
-        {
-          "name": "Jef Rodriguez",
-          "url": "https://open.spotify.com/artist/2W964lXNPqsQoUu1xzEKNo"
-        }
-      ],
-      "duration_ms": 166865,
-      "name": "Pelo Mundo",
-      "url": "https://open.spotify.com/track/6Gv2AXzjxhlTYKyb0cznEF"
-    },
-    {
-      "added_at": "2023-05-19 03:01:00",
-      "album": {
         "name": "Cartas ao Divino",
         "url": "https://open.spotify.com/album/2pYB28Ni18No49jh1OtrZi"
       },
@@ -1335,6 +1299,22 @@
       "duration_ms": 190769,
       "name": "Adaptar",
       "url": "https://open.spotify.com/track/10lxSXVB6sLUU4wfVLToPk"
+    },
+    {
+      "added_at": "2023-05-19 03:01:00",
+      "album": {
+        "name": "ELA ME TEM",
+        "url": "https://open.spotify.com/album/6G9FBaWvnwKHkiqXOyC2AN"
+      },
+      "artists": [
+        {
+          "name": "Ikki",
+          "url": "https://open.spotify.com/artist/5uxYttuMvoojMzmPmWWg6T"
+        }
+      ],
+      "duration_ms": 147200,
+      "name": "ELA ME TEM",
+      "url": "https://open.spotify.com/track/6TcGk4u9blTVO5bOmtOyFa"
     },
     {
       "added_at": "2023-05-19 03:01:00",
@@ -1355,6 +1335,26 @@
       "duration_ms": 197333,
       "name": "Neon",
       "url": "https://open.spotify.com/track/15qPFRBtnV4XdDlG8O6DoM"
+    },
+    {
+      "added_at": "2023-05-19 03:01:00",
+      "album": {
+        "name": "Pelo Mundo",
+        "url": "https://open.spotify.com/album/3CBgeU3PHAYf1Yai40dUDI"
+      },
+      "artists": [
+        {
+          "name": "CT",
+          "url": "https://open.spotify.com/artist/3WxUgB4Yr20VbdbKaFyHkV"
+        },
+        {
+          "name": "Jef Rodriguez",
+          "url": "https://open.spotify.com/artist/2W964lXNPqsQoUu1xzEKNo"
+        }
+      ],
+      "duration_ms": 166865,
+      "name": "Pelo Mundo",
+      "url": "https://open.spotify.com/track/6Gv2AXzjxhlTYKyb0cznEF"
     },
     {
       "added_at": "2023-05-19 03:01:00",
@@ -1439,6 +1439,26 @@
     {
       "added_at": "2023-05-19 03:01:00",
       "album": {
+        "name": "Agrade\u00e7o",
+        "url": "https://open.spotify.com/album/5JBfFsUTuop7Hn6P8LUKAn"
+      },
+      "artists": [
+        {
+          "name": "Lontraz",
+          "url": "https://open.spotify.com/artist/3Wn4mhmC40P4e8NEdUGSIa"
+        },
+        {
+          "name": "Felipe Brasil",
+          "url": "https://open.spotify.com/artist/4NxRhBBsSfEi9HmKlM2Ey9"
+        }
+      ],
+      "duration_ms": 213698,
+      "name": "Agrade\u00e7o",
+      "url": "https://open.spotify.com/track/0nsrHfQfaP94WVB7c3GKZi"
+    },
+    {
+      "added_at": "2023-05-19 03:01:00",
+      "album": {
         "name": "Meia Hora",
         "url": "https://open.spotify.com/album/52qm3IpAljp44LW5m5TSwV"
       },
@@ -1459,26 +1479,6 @@
       "duration_ms": 197142,
       "name": "Meia Hora",
       "url": "https://open.spotify.com/track/44CISsYXSoA1BYfLxe7vJZ"
-    },
-    {
-      "added_at": "2023-05-19 03:01:00",
-      "album": {
-        "name": "Agrade\u00e7o",
-        "url": "https://open.spotify.com/album/5JBfFsUTuop7Hn6P8LUKAn"
-      },
-      "artists": [
-        {
-          "name": "Lontraz",
-          "url": "https://open.spotify.com/artist/3Wn4mhmC40P4e8NEdUGSIa"
-        },
-        {
-          "name": "Felipe Brasil",
-          "url": "https://open.spotify.com/artist/4NxRhBBsSfEi9HmKlM2Ey9"
-        }
-      ],
-      "duration_ms": 213698,
-      "name": "Agrade\u00e7o",
-      "url": "https://open.spotify.com/track/0nsrHfQfaP94WVB7c3GKZi"
     },
     {
       "added_at": "2023-05-19 03:01:00",

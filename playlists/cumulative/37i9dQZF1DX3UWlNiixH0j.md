@@ -4,7 +4,7 @@
 
 > The freshest indie sounds from Japan\. 日本のインディー・サウンドを特集。Cover: どんぐりず + Neibiss
 
-460 songs - 1 day 4 hr 58 min
+461 songs - 1 day 5 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -85,7 +85,7 @@
 | [Endless Blue](https://open.spotify.com/track/65N6CHBeC10wQeP4bS3Nlq) | [LITE](https://open.spotify.com/artist/0TF6B1cp2QZXLE0NjhTMT9) | [Endless Blue](https://open.spotify.com/album/7iUPNZlBd24eWoC4dgYSyt) | 4:11 | 2023-04-11 | 2023-04-28 |
 | [EVERGREEN](https://open.spotify.com/track/61aCEeinXGhvUkDthsjlfS) | [TENDOUJI](https://open.spotify.com/artist/7kOS7xo3ryc1MmhfP0fNnX) | [EVERGREEN](https://open.spotify.com/album/3SkwWttZbYEwAZDMICGUwt) | 3:01 | 2023-03-14 | 2023-05-03 |
 | [Every Breath](https://open.spotify.com/track/2XzlXqeqHeRRfPKKWyhUra) | [Le Makeup](https://open.spotify.com/artist/1O2fAwwd1gk69mlTmrxVOc), [Tamaki Roy](https://open.spotify.com/artist/1cWdiyxxTFLJ3etaSdm3vM) | [Odorata](https://open.spotify.com/album/4Uro4jb3EOXAOe12k8aEPD) | 1:49 | 2023-02-14 | 2023-03-29 |
-| [everyone likes](https://open.spotify.com/track/6iNg9CQ1O2PGfjBRsgFu9s) | [illiomote](https://open.spotify.com/artist/3WT4BJFKhoWN3Mc8TDcH7v) | [HMN</3](https://open.spotify.com/album/6PIB7gC1CweteFuVFjbpro) | 3:06 | 2023-03-14 |  |
+| [everyone likes](https://open.spotify.com/track/6iNg9CQ1O2PGfjBRsgFu9s) | [illiomote](https://open.spotify.com/artist/3WT4BJFKhoWN3Mc8TDcH7v) | [HMN</3](https://open.spotify.com/album/6PIB7gC1CweteFuVFjbpro) | 3:06 | 2023-03-14 | 2023-05-21 |
 | [everywhere](https://open.spotify.com/track/0qxFXsxsoUHHhvpKe6ZItr) | [butaji](https://open.spotify.com/artist/2bsLk9rBYLaDCtexh8qO2I) | [everywhere](https://open.spotify.com/album/3w19SNOLF4DoBniB2acsNK) | 5:22 | 2023-02-07 | 2023-04-24 |
 | [Exodus \- Amane Uyama REMIX](https://open.spotify.com/track/2qqTeEXmc3VTXRQZtDxKwm) | [バスクのスポーツ](https://open.spotify.com/artist/0yaofYMMvhsv6741FK76zU), [Amane Uyama](https://open.spotify.com/artist/3CyPpYzll6TJcJ0RTnHHVa) | [Exodus \(Amane Uyama REMIX\)](https://open.spotify.com/album/4CFG433FO1ts4GsjHFo8Bm) | 4:17 | 2023-05-11 |  |
 | [Exodus \- ウ山あまね REMIX](https://open.spotify.com/track/3E3RNYYW2ubOICvPeyiVpT) | [バスクのスポーツ](https://open.spotify.com/artist/0yaofYMMvhsv6741FK76zU), [Amane Uyama](https://open.spotify.com/artist/3CyPpYzll6TJcJ0RTnHHVa) | [Exodus \(ウ山あまね REMIX\)](https://open.spotify.com/album/3v7wdBbxnnv4dGzEFpHol2) | 4:17 | 2023-05-11 | 2023-05-13 |
@@ -358,6 +358,7 @@
 | [ゾッコン](https://open.spotify.com/track/7kiBqs3OTw2IDjY6SRoQZ8) | [MONO NO AWARE](https://open.spotify.com/artist/5vFyh7GL35ShoJWrXL9aUR) | [行列のできる方舟](https://open.spotify.com/album/0H32rLtZ33K6Nivzifey8R) | 4:03 | 2023-03-30 |  |
 | [タオルケットは穏やかな](https://open.spotify.com/track/51DmDYJpw2V9ORZUIyL2vD) | [Kaneko Ayano](https://open.spotify.com/artist/4XKIIegkRbSJft0PmMv9NB) | [タオルケットは穏やかな](https://open.spotify.com/album/2byWdUAtCOUaxDe73nGfhU) | 4:11 | 2023-01-24 | 2023-03-29 |
 | [チョコレート](https://open.spotify.com/track/1FhcDHsPF10O1Padlv0nMl) | [mitsume](https://open.spotify.com/artist/59tUUyuaTFMty5kJE9Ojrq) | [チョコレート](https://open.spotify.com/album/62Dw3XXgYGO6s8HEbCnUar) | 3:45 | 2023-03-14 | 2023-05-11 |
+| [ドライブ](https://open.spotify.com/track/6ejnOSVgHzStOr0FFo7kZR) | [mitsume](https://open.spotify.com/artist/59tUUyuaTFMty5kJE9Ojrq) | [ドライブ EP](https://open.spotify.com/album/4lR8rlhaM2wov7Xrw8akIk) | 4:43 | 2023-05-18 |  |
 | [ドレミ](https://open.spotify.com/track/64Z33eQCGZfixuBVoJqvwC) | [the dresscodes](https://open.spotify.com/artist/2qmqi8B4pdSyjBc7lNBBiO) | [ドレミ](https://open.spotify.com/album/4m3Zz5ajxf9evbVOLySDc8) | 4:07 | 2023-02-09 | 2023-03-08 |
 | [ドロップな朝](https://open.spotify.com/track/6CIOLsCQjbCLs47TSnrTFT) | [真舟とわ](https://open.spotify.com/artist/0NbUuPAkS2Dv0SK7857Cl4) | [ドロップな朝](https://open.spotify.com/album/3LVnhqOSV1xdCo5RezLkAf) | 4:27 | 2023-03-23 | 2023-04-06 |
 | [ナイトウォーカー](https://open.spotify.com/track/14aUrmDaXZOmqVv9sNEFMp) | [ぼんち](https://open.spotify.com/artist/45f47Q4810sHd1HFlh5Biz) | [夜の飛び方](https://open.spotify.com/album/4KziL0XSTBFeIXzltnFf2w) | 7:21 | 2023-03-21 | 2023-03-29 |

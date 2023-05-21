@@ -1,12 +1,12 @@
 {
   "description": "Descubra MC Luanna e novos talentos brasileiros no horizonte.",
-  "num_followers": 421809,
+  "num_followers": 421807,
   "original_name": "RADAR Brasil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxODMwN2U0Zjc5NDQ0NWE5NjdlYzk2OGY5ZWZmNzkyZDgyNmJiMDZh",
+  "snapshot_id": "MCxmZDFmYTkzZThkMGRkNTYzNjBmNGJjNzdhMmUxOGI0OThkZTMxOTAz",
   "tracks": [
     {
       "added_at": "2023-04-24 21:27:43",
@@ -975,8 +975,8 @@
     {
       "added_at": "2023-04-24 21:27:43",
       "album": {
-        "name": "Na Mente",
-        "url": "https://open.spotify.com/album/36ujDhgXJAzhzKPeZ3pzBW"
+        "name": "Face ID",
+        "url": "https://open.spotify.com/album/0UjBaUcZ8Kn7rcc6KhFDzI"
       },
       "artists": [
         {
@@ -984,17 +984,21 @@
           "url": "https://open.spotify.com/artist/6mMeUqEclPBXPIoffsneGV"
         },
         {
-          "name": "OIK",
-          "url": "https://open.spotify.com/artist/1B5n6jsxvFldc6Nq8Wx8VJ"
+          "name": "Mateca",
+          "url": "https://open.spotify.com/artist/6PCKJU7fu36U4fRl7354wU"
+        },
+        {
+          "name": "Reid",
+          "url": "https://open.spotify.com/artist/0YWKYHR1rKdnPRlYvisCqo"
         },
         {
           "name": "CMK",
           "url": "https://open.spotify.com/artist/6QmnOxsr8M6iD5Zqpb2src"
         }
       ],
-      "duration_ms": 124948,
-      "name": "Na Mente",
-      "url": "https://open.spotify.com/track/1cIye3qzGW8i3aLxjoZi5B"
+      "duration_ms": 152062,
+      "name": "Face ID",
+      "url": "https://open.spotify.com/track/3ib4SClHlSQXqV8EwChkWZ"
     },
     {
       "added_at": "2023-04-24 21:27:43",
@@ -1091,8 +1095,8 @@
     {
       "added_at": "2023-04-24 21:27:43",
       "album": {
-        "name": "Face ID",
-        "url": "https://open.spotify.com/album/0UjBaUcZ8Kn7rcc6KhFDzI"
+        "name": "Na Mente",
+        "url": "https://open.spotify.com/album/36ujDhgXJAzhzKPeZ3pzBW"
       },
       "artists": [
         {
@@ -1100,21 +1104,17 @@
           "url": "https://open.spotify.com/artist/6mMeUqEclPBXPIoffsneGV"
         },
         {
-          "name": "Mateca",
-          "url": "https://open.spotify.com/artist/6PCKJU7fu36U4fRl7354wU"
-        },
-        {
-          "name": "Reid",
-          "url": "https://open.spotify.com/artist/0YWKYHR1rKdnPRlYvisCqo"
+          "name": "OIK",
+          "url": "https://open.spotify.com/artist/1B5n6jsxvFldc6Nq8Wx8VJ"
         },
         {
           "name": "CMK",
           "url": "https://open.spotify.com/artist/6QmnOxsr8M6iD5Zqpb2src"
         }
       ],
-      "duration_ms": 152062,
-      "name": "Face ID",
-      "url": "https://open.spotify.com/track/3ib4SClHlSQXqV8EwChkWZ"
+      "duration_ms": 124948,
+      "name": "Na Mente",
+      "url": "https://open.spotify.com/track/1cIye3qzGW8i3aLxjoZi5B"
     },
     {
       "added_at": "2023-04-24 21:27:43",

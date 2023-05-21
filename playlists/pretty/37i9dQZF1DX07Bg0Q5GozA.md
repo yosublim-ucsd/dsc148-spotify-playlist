@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07Bg0Q5GozA.md) - [plain]
 
 > New music off the beaten track\. Cover: Tensnake, Jessy Lanza
 
-[Spotify](https://open.spotify.com/user/spotify) - 431,155 likes - 74 songs - 4 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 431,179 likes - 74 songs - 4 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,4 +83,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07Bg0Q5GozA.md) - [plain]
 | 73 | [Elevation \- Paul Woolford Remix Edit](https://open.spotify.com/track/7tW66gGa6fIo8DluDWANKN) | [Braxe + Falcon](https://open.spotify.com/artist/10sZHUBkoiCLucz4bbCEBA), [Paul Woolford](https://open.spotify.com/artist/4CA8PTrbq1l5IgyvBA2JSV), [Sunni Colón](https://open.spotify.com/artist/4tRZRfhgfLEIUI9mw9Njy2), [Alan Braxe](https://open.spotify.com/artist/24JRvbKfTcF2x7c2kCCJrW), [DJ Falcon](https://open.spotify.com/artist/7mLoDOOVW8VlPUTii10xH5) | [Elevation \(Paul Woolford Remix\)](https://open.spotify.com/album/3B9oGr5gd5u2VDkHVuM44X) | 3:12 |
 | 74 | [Scars](https://open.spotify.com/track/6cu2L8ghmlsDpRtyHCHAm4) | [Jayda G](https://open.spotify.com/artist/3NKVm2Jedcf6ibJr6pMUVx) | [Scars](https://open.spotify.com/album/0iTJuQRY2EbwYslNyafKPS) | 2:58 |
 
-Snapshot ID: `MCw2Y2E1YzRkYWVmZmRlMjI5MjkyNGNhM2ZkNzE3ZTE5N2Q4MGQ0Nzdl`
+Snapshot ID: `MCw5ZGY2MDViNGFlYThjYWY1MDg5ODY2MTI4OTJjYzcyMWRlOGJhMjIw`

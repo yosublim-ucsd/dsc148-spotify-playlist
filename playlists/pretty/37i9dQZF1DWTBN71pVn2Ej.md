@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBN71pVn2Ej.md) - [plain]
 
 > The best alternative rock tracks right now.
 
-[Spotify](https://open.spotify.com/user/spotify) - 70,662 likes - 59 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 70,751 likes - 59 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,4 +68,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBN71pVn2Ej.md) - [plain]
 | 58 | [Together in Pieces](https://open.spotify.com/track/46HbKy8kOawanjz1Ofh5Bp) | [Hell Is For Heroes](https://open.spotify.com/artist/1vrwXqSGdLsWtvIev4H0WH) | [Together in Pieces](https://open.spotify.com/album/6fvX8DbXDo5alyS4yoE98o) | 3:55 |
 | 59 | [2023](https://open.spotify.com/track/10S8d3jVFTCNyfb8iWuhxN) | [A VOID](https://open.spotify.com/artist/3ha9mtXhb0Ia40lnrU2cOI) | [2023](https://open.spotify.com/album/3liTrUIbXk9QpngZCHwLet) | 3:42 |
 
-Snapshot ID: `MCw1MzA1YWI5YzExOGZhZDQ1NjgzNjNlMzgzMDY3NWE5ZDVhZTIyNjIx`
+Snapshot ID: `MCwwOTc5MzVmYjA2ZjMxZDc1NDRiODEzN2QwNmE4NWViYmE2NTVmZGM4`

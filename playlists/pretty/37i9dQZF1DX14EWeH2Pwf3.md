@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14EWeH2Pwf3.md) - [plain]
 
 > La playlist urban più grande d'Italia 🔥 Cover: Niky Savage
 
-[Spotify](https://open.spotify.com/user/spotify) - 822,132 likes - 50 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 822,564 likes - 50 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14EWeH2Pwf3.md) - [plain]
 | 49 | [ME VOGL BENE \(feat\. Geolier\)](https://open.spotify.com/track/6fJBFIo43hyaij2dWl7L6f) | [MV Killa](https://open.spotify.com/artist/0QqmgpgI0C1DyyDk49vnxY), [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s) | [ME VOGL BENE \(feat\. Geolier\)](https://open.spotify.com/album/5zRsIaSAVqjaskO9aH851E) | 3:06 |
 | 50 | [ZONDA](https://open.spotify.com/track/28Q3CFgOA5EM2bmKaB9d53) | [Lazza](https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM) | [ZONDA](https://open.spotify.com/album/0XC7jYCEXjyK9Skl7ydilK) | 3:37 |
 
-Snapshot ID: `MCxmOWRjYTIyYjE3OGUzZTEyMzgwNmZlZTA4YTk4MWE4YmFlNmEyNDA2`
+Snapshot ID: `MCxjNjFmN2U5OGExMzQwZDU2ZDZiOGJkOGVlZTJjYjNlMGU1ZGMxOGE5`

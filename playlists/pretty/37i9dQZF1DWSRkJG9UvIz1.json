@@ -1,12 +1,12 @@
 {
   "description": "Vai curtir um dia no parque? A tarde com os amigos? \u00c9 s\u00f3 dar play e sair pro sol.",
-  "num_followers": 125925,
+  "num_followers": 125963,
   "original_name": "Sol de Domingo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwY2E5ODg4NWRiOGJlZmU5MjZhYzdkMGE3ODFiMzU5MTg3MGJlOTc2",
+  "snapshot_id": "MCxmODg3NWRkN2YzODA1YjBkMWMzZjcyYTA0OTgwNGNiNzRjNjVkMmM1",
   "tracks": [
     {
       "added_at": "2023-03-11 03:38:22",
@@ -519,22 +519,18 @@
     {
       "added_at": "2023-03-11 03:38:22",
       "album": {
-        "name": "Gar\u00faa (Sabor a Querer)",
-        "url": "https://open.spotify.com/album/0XiN7T7kky8LzThoVwbgNO"
+        "name": "Sem Nostalgia",
+        "url": "https://open.spotify.com/album/3qosc8WvmeN2oMd7LWZ34K"
       },
       "artists": [
         {
-          "name": "Tayko",
-          "url": "https://open.spotify.com/artist/3TqicTPfXQLiPPZWKtHk0m"
-        },
-        {
-          "name": "Migliz",
-          "url": "https://open.spotify.com/artist/0Wg0zqWRumeTT4AEMIVu2b"
+          "name": "Lucas Santtana",
+          "url": "https://open.spotify.com/artist/67muZL7DIwZwLnH9BFfI5Z"
         }
       ],
-      "duration_ms": 222000,
-      "name": "Gar\u00faa (Sabor a Querer)",
-      "url": "https://open.spotify.com/track/39jlkB93dZvtx8RG0Zkhdc"
+      "duration_ms": 214266,
+      "name": "Amor em Jacum\u00e3",
+      "url": "https://open.spotify.com/track/4DbtZtymMSyIoCY7P3mZU8"
     },
     {
       "added_at": "2023-03-11 03:38:22",
@@ -555,18 +551,22 @@
     {
       "added_at": "2023-03-11 03:38:22",
       "album": {
-        "name": "Sem Nostalgia",
-        "url": "https://open.spotify.com/album/3qosc8WvmeN2oMd7LWZ34K"
+        "name": "Gar\u00faa (Sabor a Querer)",
+        "url": "https://open.spotify.com/album/0XiN7T7kky8LzThoVwbgNO"
       },
       "artists": [
         {
-          "name": "Lucas Santtana",
-          "url": "https://open.spotify.com/artist/67muZL7DIwZwLnH9BFfI5Z"
+          "name": "Tayko",
+          "url": "https://open.spotify.com/artist/3TqicTPfXQLiPPZWKtHk0m"
+        },
+        {
+          "name": "Migliz",
+          "url": "https://open.spotify.com/artist/0Wg0zqWRumeTT4AEMIVu2b"
         }
       ],
-      "duration_ms": 214266,
-      "name": "Amor em Jacum\u00e3",
-      "url": "https://open.spotify.com/track/4DbtZtymMSyIoCY7P3mZU8"
+      "duration_ms": 222000,
+      "name": "Gar\u00faa (Sabor a Querer)",
+      "url": "https://open.spotify.com/track/39jlkB93dZvtx8RG0Zkhdc"
     },
     {
       "added_at": "2023-03-11 03:38:22",
@@ -769,7 +769,7 @@
       "url": "https://open.spotify.com/track/5eQ2eEO7mDnJlN8mtRaN6i"
     },
     {
-      "added_at": "2023-05-20 00:53:44",
+      "added_at": "2023-05-21 00:38:14",
       "album": {
         "name": "Esque\u00e7o das Horas (Always On Replay)",
         "url": "https://open.spotify.com/album/7vvNWY6dc9BK3glpycLOf6"

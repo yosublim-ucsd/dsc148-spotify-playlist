@@ -4,7 +4,7 @@
 
 > This is Aimer\. The essential tracks, all in one playlist.
 
-72 songs - 5 hr 40 min
+73 songs - 5 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,6 +26,7 @@
 | [insane dream](https://open.spotify.com/track/5stJAy1hIyMjgFRJeK9gVK) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [daydream](https://open.spotify.com/album/336m0kejdM5Fkw2HUX46Bw) | 4:13 | 2022-06-09 | 2022-10-13 |
 | [Ivy Ivy Ivy](https://open.spotify.com/track/4DjyuqJvrr10efe2aGoSYJ) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [Ivy Ivy Ivy](https://open.spotify.com/album/4zonvfa0E3bJJ52tSvsqLI) | 4:52 | 2022-11-18 |  |
 | [LAST STARDUST](https://open.spotify.com/track/5SIvk89WNJKsl02ojARSYh) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [DAWN](https://open.spotify.com/album/7EHV2huu8yHAsPjzgmUjka) | 5:18 | 2022-06-09 |  |
+| [Life is a song](https://open.spotify.com/track/4Vin9IpkvhiwOwa9uTOBj6) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [あてもなく\(Special Edition\)](https://open.spotify.com/album/1P2CvUvnNZyisqk1tXXRZX) | 3:57 | 2023-05-20 |  |
 | [Memento mori](https://open.spotify.com/track/4aYJRco9r6KNPPzRHMF6Bz) | [androp](https://open.spotify.com/artist/7n437ZdDaCzqjJDJ7WmbyX), [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [cocoon](https://open.spotify.com/album/0KDBi4WriT563aNRQJLZuB) | 8:46 | 2022-06-09 | 2022-10-08 |
 | [Mine \(Remaster for 星の消えた夜に 2022\)](https://open.spotify.com/track/2Ueo7qwjV84IgRJlsGmBks) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [星の消えた夜に](https://open.spotify.com/album/1mR8kxKKuBobjRXaZjHWw4) | 5:07 | 2022-06-17 | 2022-09-26 |
 | [ninelie](https://open.spotify.com/track/164YLgHJYhqOEYUcAc93Xz) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm), [Chelly](https://open.spotify.com/artist/7IYp1PwnGxaoNmljusPO8Z) | [daydream](https://open.spotify.com/album/336m0kejdM5Fkw2HUX46Bw) | 4:21 | 2022-06-09 |  |
@@ -45,7 +46,7 @@
 | [Tiny Dancers](https://open.spotify.com/track/6vkwkVUuV53YdabdFjlcmf) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [Black Bird / Tiny Dancers / Omoidewa Kireide](https://open.spotify.com/album/0urhuCxFK1UeSMkZq9Awvf) | 4:46 | 2022-07-14 | 2022-07-17 |
 | [tone \(Remaster for 星の消えた夜に 2022\)](https://open.spotify.com/track/3Ef3BUWsWIglIvZwkUio40) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [星の消えた夜に](https://open.spotify.com/album/1mR8kxKKuBobjRXaZjHWw4) | 4:47 | 2022-06-11 | 2022-12-10 |
 | [trill](https://open.spotify.com/track/3gRBXntdAwfDY208lUQoP7) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [Walpurgis](https://open.spotify.com/album/3iFkNa8SRNFHD7La40UqUz) | 5:20 | 2022-07-19 | 2022-07-21 |
-| [wavy flow](https://open.spotify.com/track/5qfFXRzbfiPrxRmYUdv9Of) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [wavy flow](https://open.spotify.com/album/6Q6nv2x3HSl4WZ5s0I7lzo) | 3:25 | 2022-06-09 |  |
+| [wavy flow](https://open.spotify.com/track/5qfFXRzbfiPrxRmYUdv9Of) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [wavy flow](https://open.spotify.com/album/6Q6nv2x3HSl4WZ5s0I7lzo) | 3:25 | 2022-06-09 | 2023-05-21 |
 | [We Two](https://open.spotify.com/track/2QqbVhORUcTKRJsUg0XPLO) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [Sun Dance](https://open.spotify.com/album/0FNWMFyb0nLCCHucsDfxmA) | 4:07 | 2022-06-09 | 2022-11-17 |
 | [wonderland](https://open.spotify.com/track/2le6yHsjyys4h3mHs65tss) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [Walpurgis](https://open.spotify.com/album/3iFkNa8SRNFHD7La40UqUz) | 5:03 | 2022-06-09 | 2022-10-06 |
 | [words](https://open.spotify.com/track/0BYIoZmj58ibykXiHWRIwZ) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [After Dark](https://open.spotify.com/album/7xW2KsTPW5qytt3G9IxEXa) | 5:54 | 2022-06-09 | 2023-05-18 |

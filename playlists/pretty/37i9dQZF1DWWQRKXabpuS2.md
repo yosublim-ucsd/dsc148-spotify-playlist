@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWQRKXabpuS2.md) - [plain]
 
 > كل شي خليجي جديد\. الغلاف: سلطان المرشد
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,479 likes - 50 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,506 likes - 50 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWQRKXabpuS2.md) - [plain]
 | 49 | [Wesh Yes3edk](https://open.spotify.com/track/7cQKp7oT1YXT7z2MXvydhR) | [Nawal El Kuwaitia](https://open.spotify.com/artist/4iqSvJYU2R6IbLbMVhk7gQ) | [Wesh Yes3edk](https://open.spotify.com/album/7m3Vn1oyNWrwK2kcHhTSos) | 4:18 |
 | 50 | [Amam Mrayti](https://open.spotify.com/track/4d3Ek4ZbFFe9voy0cGKkP6) | [Balqees](https://open.spotify.com/artist/6arfS6PinvWKGyMd1AqgFI) | [Amam Mrayti](https://open.spotify.com/album/40IhIA2n0ms58X0MVpAfVB) | 4:29 |
 
-Snapshot ID: `MTY4NDEzNDQ1NiwwMDAwMDAwMGU2YTJlNWU3YjhlNzgxYWUyODVkOWZhY2JmMDBmZDUw`
+Snapshot ID: `MCxlYTcyNWM4MDYzYzY2NDY2NGNiNGJiM2VlNjlmZjc5NjZiNjM3YzA3`

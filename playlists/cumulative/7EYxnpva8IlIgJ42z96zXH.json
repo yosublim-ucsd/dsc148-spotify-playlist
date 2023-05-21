@@ -1553,6 +1553,28 @@
     },
     {
       "album": {
+        "name": "Breakin' Down (Hey Baby)",
+        "url": "https://open.spotify.com/album/6d5YsDwvaHK5W6qLPjCJt5"
+      },
+      "artists": [
+        {
+          "name": "Tommy Mc",
+          "url": "https://open.spotify.com/artist/3EKGHC0HhsytwEFdSt5p9p"
+        },
+        {
+          "name": "Beverley Skeete",
+          "url": "https://open.spotify.com/artist/3k5qgENEe1EHNipngVBmh8"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172258,
+      "name": "Breakin' Down (Hey Baby)",
+      "url": "https://open.spotify.com/track/7jRY2G9y1ZUdLc6YOhHxDJ"
+    },
+    {
+      "album": {
         "name": "Breakthru / Forever and Ever",
         "url": "https://open.spotify.com/album/1xBrgS44ALqFDFrFn9dvlf"
       },
@@ -2488,7 +2510,7 @@
       ],
       "date_added": "2023-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-21",
       "duration_ms": 173008,
       "name": "Crying On The Dancefloor",
       "url": "https://open.spotify.com/track/09rAJ1Q1NNJSaUKEW3X9P6"
@@ -2782,6 +2804,24 @@
       "duration_ms": 123428,
       "name": "Dancing On Dangerous",
       "url": "https://open.spotify.com/track/0uTFjOzKhhXkYcC3r3lWeZ"
+    },
+    {
+      "album": {
+        "name": "Dancing Shoes (Take Me Higher)",
+        "url": "https://open.spotify.com/album/4HlaHUFAikPsEE3VvWIyyK"
+      },
+      "artists": [
+        {
+          "name": "LF SYSTEM",
+          "url": "https://open.spotify.com/artist/0HxX6imltnNXJyQhu4nsiO"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154831,
+      "name": "Dancing Shoes (Take Me Higher)",
+      "url": "https://open.spotify.com/track/4RAgh3iVmXwaeNpnOTkoXU"
     },
     {
       "album": {
@@ -5590,7 +5630,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-21",
       "duration_ms": 190000,
       "name": "Hot Sauce",
       "url": "https://open.spotify.com/track/7hyb9nt5CLD1PzTEm8riBo"
@@ -6058,7 +6098,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-21",
       "duration_ms": 203520,
       "name": "In Arles",
       "url": "https://open.spotify.com/track/6B4KfedkPxwA9GcGSYiyfW"
@@ -7074,7 +7114,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-21",
       "duration_ms": 184475,
       "name": "Look in Your Eyes",
       "url": "https://open.spotify.com/track/0zhp8c1bhm7okgQyd61fXN"
@@ -11018,7 +11058,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-21",
       "duration_ms": 161000,
       "name": "Spinning Around",
       "url": "https://open.spotify.com/track/3Td9NXZeaPCiyTHlAS7xuK"
@@ -11044,6 +11084,32 @@
       "duration_ms": 246562,
       "name": "Spinning Around - Dr Packer Remix",
       "url": "https://open.spotify.com/track/0dF7Ej3huSIcxHGMDm6sPN"
+    },
+    {
+      "album": {
+        "name": "Stars",
+        "url": "https://open.spotify.com/album/2Ow9GPsc5afUdPrLZBT6Uo"
+      },
+      "artists": [
+        {
+          "name": "PNAU",
+          "url": "https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u"
+        },
+        {
+          "name": "Bebe Rexha",
+          "url": "https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb"
+        },
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171233,
+      "name": "Stars",
+      "url": "https://open.spotify.com/track/2fNaMBJBFpv1PQ1zXkxIcO"
     },
     {
       "album": {
@@ -11298,6 +11364,24 @@
       "duration_ms": 226331,
       "name": "Stranded",
       "url": "https://open.spotify.com/track/5KDIhdYYo71Ev9ZBHY3lnU"
+    },
+    {
+      "album": {
+        "name": "strangely sentimental",
+        "url": "https://open.spotify.com/album/5LDURABtgmuoMW8H1CjaNO"
+      },
+      "artists": [
+        {
+          "name": "Anabel Englund",
+          "url": "https://open.spotify.com/artist/3ky8xBRraNNzxzXEw6Ga0c"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134745,
+      "name": "strangely sentimental",
+      "url": "https://open.spotify.com/track/4NplzoEshWF8ICYa6pqhQK"
     },
     {
       "album": {
@@ -12508,6 +12592,28 @@
       "duration_ms": 192468,
       "name": "Torn",
       "url": "https://open.spotify.com/track/6xIGET3Ix35Cf7DfevP8pV"
+    },
+    {
+      "album": {
+        "name": "Torn",
+        "url": "https://open.spotify.com/album/4c748KMI2JY0FYMNFYt6aF"
+      },
+      "artists": [
+        {
+          "name": "Jakka",
+          "url": "https://open.spotify.com/artist/4QsjdD4tkCOSUqRSDoazaM"
+        },
+        {
+          "name": "Grace Menamie",
+          "url": "https://open.spotify.com/artist/3XgQGVxBDfwHdZ00l4EnrP"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152919,
+      "name": "Torn",
+      "url": "https://open.spotify.com/track/76h1bzDFzo5Ec9dWhrETdm"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 
 > All the New Joints featuring Lil Durk, KAYTRAMINÉ, and more\. Cover: Toosii
 
-[Spotify](https://open.spotify.com/user/spotify) - 216,637 likes - 48 songs - 2 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 216,721 likes - 48 songs - 2 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 | 5 | [Master P](https://open.spotify.com/track/6tEpOijHrGLidCtHeoMhlC) | [KAYTRAMINÉ](https://open.spotify.com/artist/5oifjQw72WO7Jut07fVWMy), [Aminé](https://open.spotify.com/artist/3Gm5F95VdRxW3mqCn8RPBJ), [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh) | [KAYTRAMINÉ](https://open.spotify.com/album/1plAqF2W8hwAhcpBAfGNsW) | 3:32 |
 | 6 | [I'm Geekin \(feat\. Luh Tyler\)](https://open.spotify.com/track/2DBKeJkULv46sb1XaJKS8i) | [DDG](https://open.spotify.com/artist/0WK3H9OErSn5zKOkOV5egm), [Luh Tyler](https://open.spotify.com/artist/1K15GRZZATsCJyGJ4bYiEz) | [I'm Geekin \(feat\. Luh Tyler\)](https://open.spotify.com/album/4hkUIlk30Vh9jsXz7dazhB) | 2:52 |
 | 7 | [MVP \(feat\. G\-Eazy\)](https://open.spotify.com/track/3iRCr53b2ZOvoKMTNvBn5d) | [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I), [G\-Eazy](https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z) | [MVP \(feat\. G\-Eazy\)](https://open.spotify.com/album/4pyhYSKl4jBqkemyG94DSG) | 2:53 |
-| 8 | [Spinnin' \(feat\. EST Gee\)](https://open.spotify.com/track/1jBSRWaJIQ0AaF0UQ91IbG) | [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7), [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [Spinnin' \(feat\. EST Gee / FAST X Soundtrack\)](https://open.spotify.com/album/5YjvUivNXjwSZFFKa4ffbb) | 2:47 |
+| 8 | [Spinnin' \(feat\. EST Gee\)](https://open.spotify.com/track/15rAPSEAcdP4wE8jBkicV6) | [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7), [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [FAST X \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4jgT0TBoRBPW2bSNXbjN0s) | 2:47 |
 | 9 | [Ye](https://open.spotify.com/track/6X8EAUvhh5URYz04eYoKEW) | [SoFaygo](https://open.spotify.com/artist/2SJhf6rTOU53g8yBdAjPby) | [Ye](https://open.spotify.com/album/4xspYyXEsk2GuVr0yBEVql) | 2:11 |
 | 10 | [Provolone & Heroin \(feat\. Freddie Dredd\)](https://open.spotify.com/track/54fRzLh8yrhK7lcjr6X5LH) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0), [Freddie Dredd](https://open.spotify.com/artist/0dlDsD7y6ccmDm8tuWCU6F) | [YIN YANG TAPES: Fall Season \(1989\-1990\)](https://open.spotify.com/album/1hTPWpfjbWu8Trq3aZxFxB) | 3:56 |
 | 11 | [I Heard](https://open.spotify.com/track/4s2SSnOOVF3FtgcxNx6fFk) | [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [Richest Opp](https://open.spotify.com/album/1rBIdADJWSisiYXHRdw1v2) | 3:03 |
@@ -57,4 +57,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 | 47 | [Choosin Me](https://open.spotify.com/track/3Xg2GLQtgNdP3Ialvsq1MN) | [Tunji Ige](https://open.spotify.com/artist/5fW1JQP4DfDyNqvYQ5m4Ju) | [Choosin Me](https://open.spotify.com/album/0AnQ3Q5T4I0mx7UNO0VEbb) | 2:15 |
 | 48 | [4eva](https://open.spotify.com/track/2BIkOiRyb1Ksm8g5EKoqxd) | [Tino Szn](https://open.spotify.com/artist/5aQ4epm9xnqB7ZKfnEILCB) | [Controlled Chaos](https://open.spotify.com/album/4fPwkWmU6R7eTGCg5lLrUs) | 2:19 |
 
-Snapshot ID: `MCwzNTVlZTcwYjE4YjY0NDlmZWJmNTEzZDlkYjY2MmJhNmU0ZTFiMWNj`
+Snapshot ID: `MCxiZmJmM2QxYjVmMjk3NWFhMzdhM2ViNThkYjk1NWVmZDAzM2NhYzk5`

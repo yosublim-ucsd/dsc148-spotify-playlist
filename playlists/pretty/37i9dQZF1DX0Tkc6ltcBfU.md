@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Tkc6ltcBfU.md) - [plain]
 
 > The hottest out the south\. Cover: NLE Choppa
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,159,542 likes - 51 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,159,795 likes - 51 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Tkc6ltcBfU.md) - [plain]
 | 50 | [Good Day](https://open.spotify.com/track/28oUuNBe1YxigxUTSDolo5) | [DeeBaby](https://open.spotify.com/artist/6jxLcPfLvVwcz7bmzOWwwE) | [Junkie Mode](https://open.spotify.com/album/1Q9ZaQpLOmVAhq2bHhOp03) | 3:18 |
 | 51 | [I Remember \(feat\. Roddy Ricch & Kodak Black\)](https://open.spotify.com/track/7qAwnjc2qPbpK1gB4VRwXW) | [Internet Money](https://open.spotify.com/artist/6MPCFvOQv5cIGfw3jODMF0), [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [I Remember \(feat\. Roddy Ricch & Kodak Black\)](https://open.spotify.com/album/3uAsKIks1rWzarn1anRo4K) | 2:53 |
 
-Snapshot ID: `MCxkMmQyNGEwYTQwYWMwODc5MTk4N2M5NDkzNjlmZGUxMmIyM2FhYjk0`
+Snapshot ID: `MCxjYzU2ZWI0ZDIzYTM0MDk5ODM4OGI5YWFhZmE5MmYyZGJlMGJlYWQ4`

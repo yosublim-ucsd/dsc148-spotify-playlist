@@ -4,7 +4,7 @@
 
 > Black, death and beyond\. Recent tracks and classics from the world of extreme metal\. Cover: Darkthrone
 
-398 songs - 1 day 10 hr 26 min
+399 songs - 1 day 10 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -209,7 +209,7 @@
 | [K.I.N.G](https://open.spotify.com/track/6IvxXL0dqXJlgIoIFfMqFA) | [Satyricon](https://open.spotify.com/artist/221Rd0FvVxMx7eCbWqjiKd) | [Now, Diabolical](https://open.spotify.com/album/5t5tP8dVwdyI8yTShWcIzX) | 3:36 | 2022-07-13 |  |
 | [Kagutsuchi](https://open.spotify.com/track/33jOwx7sKn4ugMYsGgJG41) | [Ibaraki](https://open.spotify.com/artist/2KfAvhpbfc8YkLBj6w3hfU) | [Rashomon](https://open.spotify.com/album/3iErNnoi1sc1pqKntalRN2) | 7:34 | 2022-05-06 |  |
 | [Kernos Crown](https://open.spotify.com/track/0VOQukpxqz5osddw7ksJWq) | [Abduction](https://open.spotify.com/artist/0giVCDcrvEldaPK8aCF1vp) | [Kernos Crown](https://open.spotify.com/album/0Z8HBHHTiuLkKqxQteBDZx) | 6:03 | 2022-08-12 | 2022-10-12 |
-| [Kill for Satan](https://open.spotify.com/track/3WdwfxDcyAe6m25InJuW91) | [Tsjuder](https://open.spotify.com/artist/0sD9rwKo3qPBs32gi97FNn) | [Kill for Satan](https://open.spotify.com/album/0t5fnWqUexdwd0fD5Ju4Bj) | 4:54 | 2022-07-13 |  |
+| [Kill for Satan](https://open.spotify.com/track/3WdwfxDcyAe6m25InJuW91) | [Tsjuder](https://open.spotify.com/artist/0sD9rwKo3qPBs32gi97FNn) | [Kill for Satan](https://open.spotify.com/album/0t5fnWqUexdwd0fD5Ju4Bj) | 4:54 | 2022-07-13 | 2023-05-21 |
 | [Kill for Satan](https://open.spotify.com/track/6iaN2Q0DOxOIAPPrI3R3KZ) | [Tsjuder](https://open.spotify.com/artist/0sD9rwKo3qPBs32gi97FNn) | [Kill for Satan](https://open.spotify.com/album/46ecBgtPpQZZsAdFaeuFn0) | 4:54 | 2022-07-13 | 2022-07-28 |
 | [KILLING PEOPLE FOR THE BETTERMENT OF THE PLANET](https://open.spotify.com/track/2KIFDLjfHIIkRum4fNmonY) | [Cxrpse](https://open.spotify.com/artist/69B0S7YBt4xKC2HCJMISyv) | [KILLING PEOPLE FOR THE BETTERMENT OF THE PLANET](https://open.spotify.com/album/0pOdTGdqc1p8iizWzoE64G) | 1:54 | 2022-11-25 | 2023-02-04 |
 | [Kingdom](https://open.spotify.com/track/0DfUFmR3IAi6qqXyStk0y9) | [Enslaved](https://open.spotify.com/artist/2HmtB6wVRRi3z0JwZHtkiD) | [Kingdom](https://open.spotify.com/album/0YWKSnXJ6VUlc0rCGdfmZW) | 5:51 | 2022-08-26 | 2022-12-01 |
@@ -269,6 +269,7 @@
 | [Pale Blue Light](https://open.spotify.com/track/1U4fzMisR2YDKFauXInKKq) | [Wounds of Recollection](https://open.spotify.com/artist/1eHqHZFn7vwegBeNRAD2fq) | [Warm Glow of the End of Everything](https://open.spotify.com/album/7IXjjRZv6QwaNbtWg2Ea91) | 9:00 | 2023-02-15 | 2023-03-09 |
 | [Panzer Division Marduk](https://open.spotify.com/track/0jpsXRJG4654VySxM3UyB6) | [Marduk](https://open.spotify.com/artist/2lxB5NTcQXj7GGRR4xAVaH) | [Panzer Division](https://open.spotify.com/album/6UNeZrw9jjm52S4pZ7cXgB) | 2:39 | 2022-07-13 | 2022-07-28 |
 | [Part of the End](https://open.spotify.com/track/5GXsYrLmKbMrFXci8wSqn0) | [Deserted Fear](https://open.spotify.com/artist/3CDoiu519MbxFWcwRFH7cH) | [Part of the End](https://open.spotify.com/album/0uEm2ITFYpqkflzwJz01kV) | 5:46 | 2021-12-17 | 2022-07-25 |
+| [Path Of Fierce Resistance](https://open.spotify.com/track/2wYiXAJ6552SGJlZnvewF7) | [The Halo Effect](https://open.spotify.com/artist/2qvK5iLLoDV5mJeAvh5uka) | [Path Of Fierce Resistance](https://open.spotify.com/album/5pFoa1KA7r46eNuZvbdYX5) | 3:39 | 2023-05-19 |  |
 | [Path to Paradise](https://open.spotify.com/track/6d1Hee07EoLcPAVkswj2i2) | [Fallbrawl](https://open.spotify.com/artist/18wR81FdOtaNaA5LW22GaP) | [Path to Paradise](https://open.spotify.com/album/086hwE3ZkLpf3CjhrVWPuf) | 3:16 | 2022-04-08 | 2022-07-23 |
 | [Permeating the Undergrowth](https://open.spotify.com/track/443jqzPCjCZeV6IRbD63wb) | [Cursebinder](https://open.spotify.com/artist/7umzEXJVLLeLp7SWogQMs1) | [Drifting](https://open.spotify.com/album/2zpWBELSInWYQNAALrKur9) | 6:19 | 2023-04-21 | 2023-05-20 |
 | [Pillars Of Mercy](https://open.spotify.com/track/0nv2fQCtxDqIJuPTKynKy8) | [Absu](https://open.spotify.com/artist/3eVkhnD2UKVjX5uiUsqfXP) | [Tara](https://open.spotify.com/album/0XvzG5PTrCcGxR3LiY8xke) | 4:21 | 2022-07-13 | 2023-01-05 |

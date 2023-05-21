@@ -1,12 +1,12 @@
 {
   "description": "New no wave, post-punk, and anything else. Cover: Squid",
-  "num_followers": 264697,
+  "num_followers": 264771,
   "original_name": "Post Punk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyYzg1NTQ0N2FmMDAxNDU5MzNmOGE3OTZjZDM4OTRjMzMzYjIzZDEz",
+  "snapshot_id": "MCxmZDYyOTJmODQ5ZTc4MTk2NjY5NThiMDc5ZDQ0YzBiMTNhYjRmNDhh",
   "tracks": [
     {
       "added_at": "2023-02-24 00:00:00",
@@ -171,22 +171,6 @@
     {
       "added_at": "2023-02-24 00:00:00",
       "album": {
-        "name": "Wide Awake!",
-        "url": "https://open.spotify.com/album/6NTaxSEZsDR5RlGyBzKNmZ"
-      },
-      "artists": [
-        {
-          "name": "Parquet Courts",
-          "url": "https://open.spotify.com/artist/23NIwARd4vPbxt3wwNnJ6k"
-        }
-      ],
-      "duration_ms": 241200,
-      "name": "Total Football",
-      "url": "https://open.spotify.com/track/7z81vC7eTE5y4hqk9yCx7F"
-    },
-    {
-      "added_at": "2023-02-24 00:00:00",
-      "album": {
         "name": "Water",
         "url": "https://open.spotify.com/album/4IMxxTl0uL82ZRhhh8ghZX"
       },
@@ -201,7 +185,23 @@
       "url": "https://open.spotify.com/track/7MNQ2TrYIuHshXOdryrdg2"
     },
     {
-      "added_at": "2023-05-20 01:12:16",
+      "added_at": "2023-02-24 00:00:00",
+      "album": {
+        "name": "Wide Awake!",
+        "url": "https://open.spotify.com/album/6NTaxSEZsDR5RlGyBzKNmZ"
+      },
+      "artists": [
+        {
+          "name": "Parquet Courts",
+          "url": "https://open.spotify.com/artist/23NIwARd4vPbxt3wwNnJ6k"
+        }
+      ],
+      "duration_ms": 241200,
+      "name": "Total Football",
+      "url": "https://open.spotify.com/track/7z81vC7eTE5y4hqk9yCx7F"
+    },
+    {
+      "added_at": "2023-05-21 01:12:10",
       "album": {
         "name": "American Nightmare",
         "url": "https://open.spotify.com/album/6zaXhrtWGMMJP4ty8XyMiT"
@@ -377,7 +377,7 @@
       "url": "https://open.spotify.com/track/3ZJw4Fh6FZzEWXvBxPbpr4"
     },
     {
-      "added_at": "2023-05-20 01:12:16",
+      "added_at": "2023-05-21 01:12:10",
       "album": {
         "name": "Make Way",
         "url": "https://open.spotify.com/album/12nD6G0SKG9fB4SvWvOOEm"
@@ -393,7 +393,7 @@
       "url": "https://open.spotify.com/track/0l4s1zVinY9jEYJecDDlaQ"
     },
     {
-      "added_at": "2023-05-20 01:12:16",
+      "added_at": "2023-05-21 01:12:10",
       "album": {
         "name": "Nurse!",
         "url": "https://open.spotify.com/album/3MJd0JLuUE5OKkZCnpPcuI"
@@ -539,22 +539,18 @@
     {
       "added_at": "2023-02-24 00:00:00",
       "album": {
-        "name": "wollte nie",
-        "url": "https://open.spotify.com/album/1HB7QOEie88WSdXl0BAVlO"
+        "name": "Flower of Devotion",
+        "url": "https://open.spotify.com/album/3K8xEI9zVLy7QqAHQZ4d7N"
       },
       "artists": [
         {
-          "name": "Steintor Herrenchor",
-          "url": "https://open.spotify.com/artist/70OwN96zJa61uhBIPdKgFO"
-        },
-        {
-          "name": "diggidaniel",
-          "url": "https://open.spotify.com/artist/4hRNAyGnGpRlCXooSE9Mvw"
+          "name": "Dehd",
+          "url": "https://open.spotify.com/artist/6yzuBFtT6dK2aQMZJZtcB1"
         }
       ],
-      "duration_ms": 195000,
-      "name": "wollte nie",
-      "url": "https://open.spotify.com/track/5ybNan24dJMedDsTxFhn7C"
+      "duration_ms": 226678,
+      "name": "Flying",
+      "url": "https://open.spotify.com/track/3E6gxfPW3xIYJ6hgprIlIb"
     },
     {
       "added_at": "2023-02-24 00:00:00",
@@ -575,6 +571,26 @@
     {
       "added_at": "2023-02-24 00:00:00",
       "album": {
+        "name": "wollte nie",
+        "url": "https://open.spotify.com/album/1HB7QOEie88WSdXl0BAVlO"
+      },
+      "artists": [
+        {
+          "name": "Steintor Herrenchor",
+          "url": "https://open.spotify.com/artist/70OwN96zJa61uhBIPdKgFO"
+        },
+        {
+          "name": "diggidaniel",
+          "url": "https://open.spotify.com/artist/4hRNAyGnGpRlCXooSE9Mvw"
+        }
+      ],
+      "duration_ms": 195000,
+      "name": "wollte nie",
+      "url": "https://open.spotify.com/track/5ybNan24dJMedDsTxFhn7C"
+    },
+    {
+      "added_at": "2023-02-24 00:00:00",
+      "album": {
         "name": "Dogrel",
         "url": "https://open.spotify.com/album/7wMhg0YqDuqylEVnLQQ02R"
       },
@@ -587,22 +603,6 @@
       "duration_ms": 105515,
       "name": "Big",
       "url": "https://open.spotify.com/track/0ackndQoetiUOdz3M93m6h"
-    },
-    {
-      "added_at": "2023-02-24 00:00:00",
-      "album": {
-        "name": "Flower of Devotion",
-        "url": "https://open.spotify.com/album/3K8xEI9zVLy7QqAHQZ4d7N"
-      },
-      "artists": [
-        {
-          "name": "Dehd",
-          "url": "https://open.spotify.com/artist/6yzuBFtT6dK2aQMZJZtcB1"
-        }
-      ],
-      "duration_ms": 226678,
-      "name": "Flying",
-      "url": "https://open.spotify.com/track/3E6gxfPW3xIYJ6hgprIlIb"
     },
     {
       "added_at": "2023-02-24 00:00:00",
@@ -639,38 +639,6 @@
     {
       "added_at": "2023-02-24 00:00:00",
       "album": {
-        "name": "Dogsbody",
-        "url": "https://open.spotify.com/album/1DWLFwBZxTSBWw7G9uhpok"
-      },
-      "artists": [
-        {
-          "name": "Model/Actriz",
-          "url": "https://open.spotify.com/artist/7gdb1IQFHFQqCc5KoLTYNC"
-        }
-      ],
-      "duration_ms": 187280,
-      "name": "Pure Mode",
-      "url": "https://open.spotify.com/track/3oT787Jq5n4i5HQ7tLsjb7"
-    },
-    {
-      "added_at": "2023-02-24 00:00:00",
-      "album": {
-        "name": "A Hero's Death",
-        "url": "https://open.spotify.com/album/1TG1jA82COlOCK63DjmiT3"
-      },
-      "artists": [
-        {
-          "name": "Fontaines D.C.",
-          "url": "https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6"
-        }
-      ],
-      "duration_ms": 271106,
-      "name": "I Don't Belong",
-      "url": "https://open.spotify.com/track/6WoKLs9kOA7I9RJtVYr6MQ"
-    },
-    {
-      "added_at": "2023-02-24 00:00:00",
-      "album": {
         "name": "Adore Life",
         "url": "https://open.spotify.com/album/2UutOV48eYbIPB6keWOqoP"
       },
@@ -699,6 +667,38 @@
       "duration_ms": 141000,
       "name": "Hunger for a Way Out",
       "url": "https://open.spotify.com/track/4bXsXIRPbTk783vfyA2oRe"
+    },
+    {
+      "added_at": "2023-02-24 00:00:00",
+      "album": {
+        "name": "A Hero's Death",
+        "url": "https://open.spotify.com/album/1TG1jA82COlOCK63DjmiT3"
+      },
+      "artists": [
+        {
+          "name": "Fontaines D.C.",
+          "url": "https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6"
+        }
+      ],
+      "duration_ms": 271106,
+      "name": "I Don't Belong",
+      "url": "https://open.spotify.com/track/6WoKLs9kOA7I9RJtVYr6MQ"
+    },
+    {
+      "added_at": "2023-02-24 00:00:00",
+      "album": {
+        "name": "Dogsbody",
+        "url": "https://open.spotify.com/album/1DWLFwBZxTSBWw7G9uhpok"
+      },
+      "artists": [
+        {
+          "name": "Model/Actriz",
+          "url": "https://open.spotify.com/artist/7gdb1IQFHFQqCc5KoLTYNC"
+        }
+      ],
+      "duration_ms": 187280,
+      "name": "Pure Mode",
+      "url": "https://open.spotify.com/track/3oT787Jq5n4i5HQ7tLsjb7"
     },
     {
       "added_at": "2023-02-24 00:00:00",
@@ -767,22 +767,6 @@
     {
       "added_at": "2023-02-24 00:00:00",
       "album": {
-        "name": "Suntan / Damocles",
-        "url": "https://open.spotify.com/album/70f6EBng70szXUJiSOOIVC"
-      },
-      "artists": [
-        {
-          "name": "Model/Actriz",
-          "url": "https://open.spotify.com/artist/7gdb1IQFHFQqCc5KoLTYNC"
-        }
-      ],
-      "duration_ms": 299068,
-      "name": "Suntan",
-      "url": "https://open.spotify.com/track/72sGHMTpdj1ebZeEcEs58p"
-    },
-    {
-      "added_at": "2023-02-24 00:00:00",
-      "album": {
         "name": "Broke",
         "url": "https://open.spotify.com/album/7dZ9qTh9zCpCnsL7rg3USY"
       },
@@ -845,7 +829,7 @@
       "url": "https://open.spotify.com/track/1GRGCIaRlqSCR6ljUmZpv0"
     },
     {
-      "added_at": "2023-05-20 01:12:16",
+      "added_at": "2023-05-21 01:12:10",
       "album": {
         "name": "Knocknarea",
         "url": "https://open.spotify.com/album/1hb0fuPRhbd1uStttAaalz"
@@ -859,6 +843,22 @@
       "duration_ms": 402666,
       "name": "Kakistocracy",
       "url": "https://open.spotify.com/track/58GZTiV4Ek3ZV8DygP5u6R"
+    },
+    {
+      "added_at": "2023-02-24 00:00:00",
+      "album": {
+        "name": "Suntan / Damocles",
+        "url": "https://open.spotify.com/album/70f6EBng70szXUJiSOOIVC"
+      },
+      "artists": [
+        {
+          "name": "Model/Actriz",
+          "url": "https://open.spotify.com/artist/7gdb1IQFHFQqCc5KoLTYNC"
+        }
+      ],
+      "duration_ms": 299068,
+      "name": "Suntan",
+      "url": "https://open.spotify.com/track/72sGHMTpdj1ebZeEcEs58p"
     },
     {
       "added_at": "2023-02-24 00:00:00",

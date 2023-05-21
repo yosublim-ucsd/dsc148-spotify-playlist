@@ -1,12 +1,12 @@
 {
   "description": "MADE of latin roots, MADE in the U.S. MADE to shine! Cover: DannyLux",
-  "num_followers": 19782,
+  "num_followers": 19789,
   "original_name": "MADE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4YmIzNGZhMjI4ZmIxODM1YjNlNjM0NmNiMDk1NDExOWU3ZTgwNTFk",
+  "snapshot_id": "MCwzNTM2ZjhjODA0Zjc2NGRlN2M1MmVlZjZkZWY4MGNjZWU3NWIxZTgz",
   "tracks": [
     {
       "added_at": "2023-04-21 05:16:07",
@@ -339,22 +339,6 @@
     {
       "added_at": "2023-04-21 05:16:07",
       "album": {
-        "name": "Ricota",
-        "url": "https://open.spotify.com/album/2yM8BVkcqhFiDvM9gBh1Z3"
-      },
-      "artists": [
-        {
-          "name": "Mariah Angeliq",
-          "url": "https://open.spotify.com/artist/0KKUc4amZyvswV2YL6WTar"
-        }
-      ],
-      "duration_ms": 160880,
-      "name": "Ricota",
-      "url": "https://open.spotify.com/track/6gQoClTWFGA45WvjJW8XAc"
-    },
-    {
-      "added_at": "2023-04-21 05:16:07",
-      "album": {
         "name": "Solo Un Eco",
         "url": "https://open.spotify.com/album/5gZfKeS7i3RaNBrjn5Dbl0"
       },
@@ -367,6 +351,22 @@
       "duration_ms": 285117,
       "name": "Solo Un Eco",
       "url": "https://open.spotify.com/track/4hWmuhICX1vxZOL1y8vYe4"
+    },
+    {
+      "added_at": "2023-04-21 05:16:07",
+      "album": {
+        "name": "Ricota",
+        "url": "https://open.spotify.com/album/2yM8BVkcqhFiDvM9gBh1Z3"
+      },
+      "artists": [
+        {
+          "name": "Mariah Angeliq",
+          "url": "https://open.spotify.com/artist/0KKUc4amZyvswV2YL6WTar"
+        }
+      ],
+      "duration_ms": 160880,
+      "name": "Ricota",
+      "url": "https://open.spotify.com/track/6gQoClTWFGA45WvjJW8XAc"
     },
     {
       "added_at": "2023-04-21 05:16:07",
@@ -451,18 +451,22 @@
     {
       "added_at": "2023-04-21 05:16:07",
       "album": {
-        "name": "Kaleidoscope",
-        "url": "https://open.spotify.com/album/79xNVQyhJnZpOZj6hrABvd"
+        "name": "Despierto",
+        "url": "https://open.spotify.com/album/3KhASegtqWv7krbI95cGU3"
       },
       "artists": [
         {
-          "name": "maye",
-          "url": "https://open.spotify.com/artist/5ti5FPHgtaSf15KcUisZMt"
+          "name": "Andrea Bejar",
+          "url": "https://open.spotify.com/artist/5l3g6Xp8KQE4prw9hk6rQ8"
+        },
+        {
+          "name": "Di\u00e0go",
+          "url": "https://open.spotify.com/artist/7c4D4GARDnPEe1arEIKp0s"
         }
       ],
-      "duration_ms": 179191,
-      "name": "Kaleidoscope",
-      "url": "https://open.spotify.com/track/0kJqmEL3UbprAkBSFBdZY4"
+      "duration_ms": 199017,
+      "name": "Despierto",
+      "url": "https://open.spotify.com/track/03wwC5vZMG8WtCjXwpjClK"
     },
     {
       "added_at": "2023-04-21 05:16:07",
@@ -483,22 +487,18 @@
     {
       "added_at": "2023-04-21 05:16:07",
       "album": {
-        "name": "Despierto",
-        "url": "https://open.spotify.com/album/3KhASegtqWv7krbI95cGU3"
+        "name": "Kaleidoscope",
+        "url": "https://open.spotify.com/album/79xNVQyhJnZpOZj6hrABvd"
       },
       "artists": [
         {
-          "name": "Andrea Bejar",
-          "url": "https://open.spotify.com/artist/5l3g6Xp8KQE4prw9hk6rQ8"
-        },
-        {
-          "name": "Di\u00e0go",
-          "url": "https://open.spotify.com/artist/7c4D4GARDnPEe1arEIKp0s"
+          "name": "maye",
+          "url": "https://open.spotify.com/artist/5ti5FPHgtaSf15KcUisZMt"
         }
       ],
-      "duration_ms": 199017,
-      "name": "Despierto",
-      "url": "https://open.spotify.com/track/03wwC5vZMG8WtCjXwpjClK"
+      "duration_ms": 179191,
+      "name": "Kaleidoscope",
+      "url": "https://open.spotify.com/track/0kJqmEL3UbprAkBSFBdZY4"
     },
     {
       "added_at": "2023-04-21 05:16:07",
@@ -811,22 +811,6 @@
     {
       "added_at": "2023-04-21 05:16:07",
       "album": {
-        "name": "BULLET PUT DOWN",
-        "url": "https://open.spotify.com/album/6NVPlVd0X90je1Sd9rlriH"
-      },
-      "artists": [
-        {
-          "name": "PAM\u00c9",
-          "url": "https://open.spotify.com/artist/5ZSOXLTnZcSjdVCIdjnq03"
-        }
-      ],
-      "duration_ms": 154302,
-      "name": "BULLET PUT DOWN",
-      "url": "https://open.spotify.com/track/7lNXNRgoTKXrbb2nr8mBGh"
-    },
-    {
-      "added_at": "2023-04-21 05:16:07",
-      "album": {
         "name": "Flexa",
         "url": "https://open.spotify.com/album/4ap1rTmDR8Xubn6Crx0EbR"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 198320,
       "name": "Flexa",
       "url": "https://open.spotify.com/track/7dHS8dBVEZc3xP7jfm7g6u"
+    },
+    {
+      "added_at": "2023-04-21 05:16:07",
+      "album": {
+        "name": "BULLET PUT DOWN",
+        "url": "https://open.spotify.com/album/6NVPlVd0X90je1Sd9rlriH"
+      },
+      "artists": [
+        {
+          "name": "PAM\u00c9",
+          "url": "https://open.spotify.com/artist/5ZSOXLTnZcSjdVCIdjnq03"
+        }
+      ],
+      "duration_ms": 154302,
+      "name": "BULLET PUT DOWN",
+      "url": "https://open.spotify.com/track/7lNXNRgoTKXrbb2nr8mBGh"
     },
     {
       "added_at": "2023-04-21 05:16:07",
@@ -927,6 +927,22 @@
     {
       "added_at": "2023-04-21 05:16:07",
       "album": {
+        "name": "Que Vuelvas / Bebe Dame",
+        "url": "https://open.spotify.com/album/4ogxUO5T4YutKJlGSfDiq3"
+      },
+      "artists": [
+        {
+          "name": "Estevie",
+          "url": "https://open.spotify.com/artist/3k9GPiGAtIAOfnfzzy3XQp"
+        }
+      ],
+      "duration_ms": 176592,
+      "name": "Que Vuelvas / Bebe Dame",
+      "url": "https://open.spotify.com/track/4anE0W56Z8NKjAwAuMZA1o"
+    },
+    {
+      "added_at": "2023-04-21 05:16:07",
+      "album": {
         "name": "Futuro",
         "url": "https://open.spotify.com/album/3f1hF4eTrVUq71O4Nj0Puf"
       },
@@ -939,22 +955,6 @@
       "duration_ms": 242374,
       "name": "Futuro",
       "url": "https://open.spotify.com/track/3jHL68prXOOuDrgz9jbIoT"
-    },
-    {
-      "added_at": "2023-04-21 05:16:07",
-      "album": {
-        "name": "amorlove",
-        "url": "https://open.spotify.com/album/2fr723OoqF6nYM0ucTIuQ8"
-      },
-      "artists": [
-        {
-          "name": "Danny Felix",
-          "url": "https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV"
-        }
-      ],
-      "duration_ms": 207720,
-      "name": "d\u00e9jame vivir",
-      "url": "https://open.spotify.com/track/087sEV24d6VtERT2aiW9T2"
     },
     {
       "added_at": "2023-05-02 14:02:19",
@@ -971,6 +971,22 @@
       "duration_ms": 191866,
       "name": "dolio",
       "url": "https://open.spotify.com/track/31ozev5Kvj9aryUULvVeIB"
+    },
+    {
+      "added_at": "2023-04-21 05:16:07",
+      "album": {
+        "name": "amorlove",
+        "url": "https://open.spotify.com/album/2fr723OoqF6nYM0ucTIuQ8"
+      },
+      "artists": [
+        {
+          "name": "Danny Felix",
+          "url": "https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV"
+        }
+      ],
+      "duration_ms": 207720,
+      "name": "d\u00e9jame vivir",
+      "url": "https://open.spotify.com/track/087sEV24d6VtERT2aiW9T2"
     },
     {
       "added_at": "2023-04-21 05:16:07",
@@ -1039,22 +1055,6 @@
       "duration_ms": 168071,
       "name": "Nobody Got It",
       "url": "https://open.spotify.com/track/293nM34kJhiIYvbmImGSLE"
-    },
-    {
-      "added_at": "2023-04-21 05:16:07",
-      "album": {
-        "name": "Que Vuelvas / Bebe Dame",
-        "url": "https://open.spotify.com/album/4ogxUO5T4YutKJlGSfDiq3"
-      },
-      "artists": [
-        {
-          "name": "Estevie",
-          "url": "https://open.spotify.com/artist/3k9GPiGAtIAOfnfzzy3XQp"
-        }
-      ],
-      "duration_ms": 176592,
-      "name": "Que Vuelvas / Bebe Dame",
-      "url": "https://open.spotify.com/track/4anE0W56Z8NKjAwAuMZA1o"
     },
     {
       "added_at": "2023-04-21 05:16:07",
@@ -1271,6 +1271,22 @@
     {
       "added_at": "2023-04-21 05:16:07",
       "album": {
+        "name": "Santee",
+        "url": "https://open.spotify.com/album/4ufmIz1Th5cmgpS3PE3Jik"
+      },
+      "artists": [
+        {
+          "name": "Estevie",
+          "url": "https://open.spotify.com/artist/3k9GPiGAtIAOfnfzzy3XQp"
+        }
+      ],
+      "duration_ms": 109267,
+      "name": "Santee",
+      "url": "https://open.spotify.com/track/6NVF8h8v9KtmDZy1O6OqxN"
+    },
+    {
+      "added_at": "2023-04-21 05:16:07",
+      "album": {
         "name": "9pm",
         "url": "https://open.spotify.com/album/6QwUm0GDhznorwhPbgdrca"
       },
@@ -1299,22 +1315,6 @@
       "duration_ms": 190480,
       "name": "El Raulito",
       "url": "https://open.spotify.com/track/0T8psfzHptYOA1GHDBqgbx"
-    },
-    {
-      "added_at": "2023-04-21 05:16:07",
-      "album": {
-        "name": "Santee",
-        "url": "https://open.spotify.com/album/4ufmIz1Th5cmgpS3PE3Jik"
-      },
-      "artists": [
-        {
-          "name": "Estevie",
-          "url": "https://open.spotify.com/artist/3k9GPiGAtIAOfnfzzy3XQp"
-        }
-      ],
-      "duration_ms": 109267,
-      "name": "Santee",
-      "url": "https://open.spotify.com/track/6NVF8h8v9KtmDZy1O6OqxN"
     }
   ],
   "unique_name": "MADE",

@@ -4,7 +4,7 @@
 
 > Let the songs speak\. Cover: Summer Walker
 
-490 songs - 1 day 1 hr 54 min
+491 songs - 1 day 1 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -201,6 +201,7 @@
 | [Hotel](https://open.spotify.com/track/0JzG1wJuB4v9UPkSE7LMXi) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [Hotel](https://open.spotify.com/album/0ykf7jcx3yY49RpkIO1byF) | 3:17 | 2022-09-24 | 2022-12-03 |
 | [How \(feat\. Roddy Ricch\)](https://open.spotify.com/track/6w93UfN5MeXXQTrVIf5V6x) | [Ella Mai](https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap), [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB) | [Heart On My Sleeve](https://open.spotify.com/album/6p5jJLTFiYgk95HhW0unhy) | 3:38 | 2022-05-06 | 2023-02-18 |
 | [How Does It Feel](https://open.spotify.com/track/0ixyLzNaPr7G2Fu5ETgssB) | [Chlöe](https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [How Does It Feel](https://open.spotify.com/album/0WTSA6keV6kTkTZPWULRcg) | 2:46 | 2023-02-24 |  |
+| [How Does It Feel](https://open.spotify.com/track/1LADKWKeq6I21w6j9wDSad) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [CLEAR 2: SOFT LIFE EP](https://open.spotify.com/album/034Q9kY3buGcizT3Xpj9Re) | 2:42 | 2023-05-19 |  |
 | [How Many](https://open.spotify.com/track/01zX60e8CoXA8xNlXdHvdI) | [Ryan Destiny](https://open.spotify.com/artist/5bKtvYqfmflyEKp2FhPXwf) | [How Many](https://open.spotify.com/album/3uXcufGHqbpkYQnImb0RGm) | 3:18 | 2022-12-09 | 2023-04-22 |
 | [How Much Can A Heart Take \(feat\. Yebba\)](https://open.spotify.com/track/5SFssNXGjeOxdAnECfgttm) | [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J), [Yebba](https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F) | [Table For Two](https://open.spotify.com/album/0OPKA9Mrv6JFrTjC0KpvdT) | 5:02 | 2021-12-15 | 2022-08-06 |
 | [How Would You Feel](https://open.spotify.com/track/5yosbcAjMrTNcosZbhZiBo) | [FRVRFRIDAY](https://open.spotify.com/artist/2jwmP4TgzTGqjCfcXMDayW) | [How Would You Feel](https://open.spotify.com/album/373W4hy5SMxKxICDMDynoX) | 2:41 | 2022-03-25 | 2022-07-27 |
@@ -494,7 +495,7 @@
 | [XTC](https://open.spotify.com/track/1fvQlrdNbWulW6xRYnUwYn) | [Siergio](https://open.spotify.com/artist/6PSc1olsEQHlpmi4MRIBFP) | [BEFORE IT'S TOO LATE](https://open.spotify.com/album/1t43eH5HnqYEtadR8amnr8) | 3:53 | 2022-08-26 | 2022-10-22 |
 | [Yesterday](https://open.spotify.com/track/4qSbi8LdPZR9jK9PsjxB9q) | [Vedo](https://open.spotify.com/artist/3wVXTWabe3viT0jF7DfjOL) | [Yesterday](https://open.spotify.com/album/323AklysBbimYo27pWCj0K) | 2:59 | 2021-12-15 | 2022-07-07 |
 | [YOU](https://open.spotify.com/track/5OuASjeBIKFKBxslQCTbXJ) | [K\. Michelle](https://open.spotify.com/artist/2retT7MFwHDVTeGKDdybEx) | [YOU](https://open.spotify.com/album/2BAYApB6DoC15IToR95xSk) | 4:00 | 2023-03-17 | 2023-04-18 |
-| [You Don’t Know Me](https://open.spotify.com/track/7gpIj4wMeTKptFxetrNKzY) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [Still Over It](https://open.spotify.com/album/4lPqFAvgmG97pxyxQsyCQx) | 3:20 | 2022-08-05 |  |
+| [You Don’t Know Me](https://open.spotify.com/track/7gpIj4wMeTKptFxetrNKzY) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [Still Over It](https://open.spotify.com/album/4lPqFAvgmG97pxyxQsyCQx) | 3:20 | 2022-08-05 | 2023-05-21 |
 | [You Made A Fool Of Me](https://open.spotify.com/track/0zh3RhUmTQXU6MNU7ehP7m) | [Anthony Hamilton](https://open.spotify.com/artist/2DzRMyWgjuMbYvt5BLbpCo) | [You Made A Fool Of Me](https://open.spotify.com/album/4IQy1wMdio3OMwe9lGVEjl) | 3:22 | 2021-12-15 | 2022-04-17 |
 | [You Never Visit Me \- Single Version](https://open.spotify.com/track/04nzvWWsX2TDl0mjpBVeWd) | [Masego](https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig) | [You Never Visit Me](https://open.spotify.com/album/31B0I1DLGYsV7RF2Dszunr) | 3:50 | 2022-12-16 | 2023-05-13 |
 | [You Two](https://open.spotify.com/track/4grms0czBnzj0hi18xzIae) | [BARii](https://open.spotify.com/artist/4jE5cWGKx0v4EibgRbhZYJ) | [You Two](https://open.spotify.com/album/3iM9lbcMkil8kKeSwhy11f) | 3:08 | 2022-02-18 | 2022-07-22 |

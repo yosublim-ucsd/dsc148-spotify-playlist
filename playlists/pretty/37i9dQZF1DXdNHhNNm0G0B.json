@@ -1,12 +1,12 @@
 {
   "description": "Relax to the sounds of acoustic blues and folk.",
-  "num_followers": 70889,
+  "num_followers": 70918,
   "original_name": "Rockin' Chair Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxYTY3MTExNDQ4OTgyNzQxZWNmYzJlNzIzYTU5YTE1MWFlMTk4Nzk2",
+  "snapshot_id": "MCxkNjg3ZThkMzU4MjY3YTU4YmY1MGI0Mzg4NTgwMDRkZGIxYTFkNDE4",
   "tracks": [
     {
       "added_at": "2023-04-07 00:01:00",
@@ -421,22 +421,6 @@
       "url": "https://open.spotify.com/track/51qp3WsYjiDuBhzR7AON69"
     },
     {
-      "added_at": "2023-05-20 01:43:06",
-      "album": {
-        "name": "Blues Jumped a Rabbit",
-        "url": "https://open.spotify.com/album/5cOjiagbLZqw85RJNk8lQ4"
-      },
-      "artists": [
-        {
-          "name": "Lightnin' Hopkins",
-          "url": "https://open.spotify.com/artist/6EZzVXM2uDRPmnHWq9yPDE"
-        }
-      ],
-      "duration_ms": 235040,
-      "name": "Blues Jumped a Rabbit",
-      "url": "https://open.spotify.com/track/6Tb7mOJtHQtSSqJym83Bqr"
-    },
-    {
       "added_at": "2023-04-07 00:01:00",
       "album": {
         "name": "Shake Sugaree",
@@ -487,6 +471,22 @@
     {
       "added_at": "2023-04-07 00:01:00",
       "album": {
+        "name": "Shake It for Me",
+        "url": "https://open.spotify.com/album/2J1WSSGkNc4k35EhyqR7av"
+      },
+      "artists": [
+        {
+          "name": "Bobby Rush",
+          "url": "https://open.spotify.com/artist/7LdFlcnzWpySPKngmFCnLi"
+        }
+      ],
+      "duration_ms": 222199,
+      "name": "Shake It for Me",
+      "url": "https://open.spotify.com/track/6rXK44ua8o6Dqvu8s89abU"
+    },
+    {
+      "added_at": "2023-04-07 00:01:00",
+      "album": {
         "name": "Dark Was The Night (Mojo Workin'- Blues For The Next Generation)",
         "url": "https://open.spotify.com/album/3H90ji25FlT62CztiEOhrt"
       },
@@ -501,20 +501,20 @@
       "url": "https://open.spotify.com/track/5PaW8VeYRpS3N728fFa15b"
     },
     {
-      "added_at": "2023-04-07 00:01:00",
+      "added_at": "2023-05-21 01:09:56",
       "album": {
-        "name": "Shake It for Me",
-        "url": "https://open.spotify.com/album/2J1WSSGkNc4k35EhyqR7av"
+        "name": "Blues Jumped a Rabbit",
+        "url": "https://open.spotify.com/album/5cOjiagbLZqw85RJNk8lQ4"
       },
       "artists": [
         {
-          "name": "Bobby Rush",
-          "url": "https://open.spotify.com/artist/7LdFlcnzWpySPKngmFCnLi"
+          "name": "Lightnin' Hopkins",
+          "url": "https://open.spotify.com/artist/6EZzVXM2uDRPmnHWq9yPDE"
         }
       ],
-      "duration_ms": 222199,
-      "name": "Shake It for Me",
-      "url": "https://open.spotify.com/track/6rXK44ua8o6Dqvu8s89abU"
+      "duration_ms": 235040,
+      "name": "Blues Jumped a Rabbit",
+      "url": "https://open.spotify.com/track/6Tb7mOJtHQtSSqJym83Bqr"
     },
     {
       "added_at": "2023-04-07 00:01:00",
@@ -679,22 +679,6 @@
     {
       "added_at": "2023-04-07 00:01:00",
       "album": {
-        "name": "Acoustic Burnside",
-        "url": "https://open.spotify.com/album/1LLHOFLIfGw0mebbkQrkHr"
-      },
-      "artists": [
-        {
-          "name": "Duwayne Burnside",
-          "url": "https://open.spotify.com/artist/7nJeSjRUD2PUN4aSYhXkA3"
-        }
-      ],
-      "duration_ms": 197237,
-      "name": "Meet Me In The City",
-      "url": "https://open.spotify.com/track/3Sb7h17Qy7WXTakdLyLacB"
-    },
-    {
-      "added_at": "2023-04-07 00:01:00",
-      "album": {
         "name": "Fountain",
         "url": "https://open.spotify.com/album/5rYIynWlr7cv7AXi1pPJy7"
       },
@@ -707,6 +691,22 @@
       "duration_ms": 303946,
       "name": "Natural West",
       "url": "https://open.spotify.com/track/59eoAFWBywElrjWlUfsCCM"
+    },
+    {
+      "added_at": "2023-04-07 00:01:00",
+      "album": {
+        "name": "Acoustic Burnside",
+        "url": "https://open.spotify.com/album/1LLHOFLIfGw0mebbkQrkHr"
+      },
+      "artists": [
+        {
+          "name": "Duwayne Burnside",
+          "url": "https://open.spotify.com/artist/7nJeSjRUD2PUN4aSYhXkA3"
+        }
+      ],
+      "duration_ms": 197237,
+      "name": "Meet Me In The City",
+      "url": "https://open.spotify.com/track/3Sb7h17Qy7WXTakdLyLacB"
     },
     {
       "added_at": "2023-04-07 00:01:00",
@@ -859,22 +859,6 @@
     {
       "added_at": "2023-04-07 00:01:00",
       "album": {
-        "name": "County Farm Blues",
-        "url": "https://open.spotify.com/album/0xQyiVS5BLQzBmfOuUxIzx"
-      },
-      "artists": [
-        {
-          "name": "Johnny Stachela",
-          "url": "https://open.spotify.com/artist/0S1BmerVaINiJar88KgNzi"
-        }
-      ],
-      "duration_ms": 164285,
-      "name": "County Farm Blues",
-      "url": "https://open.spotify.com/track/1ycQB39KcU6DcdfY3XFyXR"
-    },
-    {
-      "added_at": "2023-04-07 00:01:00",
-      "album": {
         "name": "Landscape and People",
         "url": "https://open.spotify.com/album/3UwQTzFJU20mmYAQlNJW0Y"
       },
@@ -891,6 +875,22 @@
     {
       "added_at": "2023-04-07 00:01:00",
       "album": {
+        "name": "County Farm Blues",
+        "url": "https://open.spotify.com/album/0xQyiVS5BLQzBmfOuUxIzx"
+      },
+      "artists": [
+        {
+          "name": "Johnny Stachela",
+          "url": "https://open.spotify.com/artist/0S1BmerVaINiJar88KgNzi"
+        }
+      ],
+      "duration_ms": 164285,
+      "name": "County Farm Blues",
+      "url": "https://open.spotify.com/track/1ycQB39KcU6DcdfY3XFyXR"
+    },
+    {
+      "added_at": "2023-04-07 00:01:00",
+      "album": {
         "name": "Hooray For Another Day",
         "url": "https://open.spotify.com/album/112NAVwlA1JezzCXNrVlgx"
       },
@@ -903,6 +903,22 @@
       "duration_ms": 264880,
       "name": "Imaginational Anthem",
       "url": "https://open.spotify.com/track/2g8His2Vt7xUmZkhCuLB8W"
+    },
+    {
+      "added_at": "2023-04-07 00:01:00",
+      "album": {
+        "name": "Bootleg USA",
+        "url": "https://open.spotify.com/album/4WvjLRuyca7wsn1ab6cz7p"
+      },
+      "artists": [
+        {
+          "name": "Martin Simpson",
+          "url": "https://open.spotify.com/artist/5nUScDmyGIvoX7ol79YnBQ"
+        }
+      ],
+      "duration_ms": 339320,
+      "name": "Plains of Waterloo / James Connolly",
+      "url": "https://open.spotify.com/track/6I1z2fe4YlpWsuaR0X1RSy"
     },
     {
       "added_at": "2023-04-07 00:01:00",
@@ -935,22 +951,6 @@
       "duration_ms": 256310,
       "name": "Lazy Sunday",
       "url": "https://open.spotify.com/track/5IJQrZERphRFaiwOXmEz6a"
-    },
-    {
-      "added_at": "2023-04-07 00:01:00",
-      "album": {
-        "name": "Bootleg USA",
-        "url": "https://open.spotify.com/album/4WvjLRuyca7wsn1ab6cz7p"
-      },
-      "artists": [
-        {
-          "name": "Martin Simpson",
-          "url": "https://open.spotify.com/artist/5nUScDmyGIvoX7ol79YnBQ"
-        }
-      ],
-      "duration_ms": 339320,
-      "name": "Plains of Waterloo / James Connolly",
-      "url": "https://open.spotify.com/track/6I1z2fe4YlpWsuaR0X1RSy"
     },
     {
       "added_at": "2023-04-07 00:01:00",
@@ -1103,6 +1103,22 @@
     {
       "added_at": "2023-04-07 00:01:00",
       "album": {
+        "name": "The Blues Never End",
+        "url": "https://open.spotify.com/album/43w78hH7AEQmunINV8bxw1"
+      },
+      "artists": [
+        {
+          "name": "Elly Wininger",
+          "url": "https://open.spotify.com/artist/3k76bXCZIz5biiGbFrUBMJ"
+        }
+      ],
+      "duration_ms": 261333,
+      "name": "Right Kind of Trouble",
+      "url": "https://open.spotify.com/track/1CZ8Z3XLlhWuR8XH509ZDp"
+    },
+    {
+      "added_at": "2023-04-07 00:01:00",
+      "album": {
         "name": "Brother Johnny",
         "url": "https://open.spotify.com/album/4xRZx0cl1NVIG2oDtACbpa"
       },
@@ -1119,22 +1135,6 @@
       "duration_ms": 232426,
       "name": "When You Got a Good Friend",
       "url": "https://open.spotify.com/track/1NPWchV6p9SBsGEVTqoFyc"
-    },
-    {
-      "added_at": "2023-04-07 00:01:00",
-      "album": {
-        "name": "The Blues Never End",
-        "url": "https://open.spotify.com/album/43w78hH7AEQmunINV8bxw1"
-      },
-      "artists": [
-        {
-          "name": "Elly Wininger",
-          "url": "https://open.spotify.com/artist/3k76bXCZIz5biiGbFrUBMJ"
-        }
-      ],
-      "duration_ms": 261333,
-      "name": "Right Kind of Trouble",
-      "url": "https://open.spotify.com/track/1CZ8Z3XLlhWuR8XH509ZDp"
     },
     {
       "added_at": "2023-04-07 00:01:00",
@@ -1299,18 +1299,18 @@
     {
       "added_at": "2023-04-07 00:01:00",
       "album": {
-        "name": "St. James Infirmary Blues / Wayfaring Stranger (Radio Edit)",
-        "url": "https://open.spotify.com/album/0iZaqrALa2jaXEvXNlqhuL"
+        "name": "Tell Me Pretty Baby",
+        "url": "https://open.spotify.com/album/1w5cDGWOyVFdkFi9rRLeOE"
       },
       "artists": [
         {
-          "name": "Shake the Disease",
-          "url": "https://open.spotify.com/artist/1YQSXwt14XWwFm2PI9VcFs"
+          "name": "Fred Davis",
+          "url": "https://open.spotify.com/artist/5OsUEYTWiNXmkKn7Sao4B1"
         }
       ],
-      "duration_ms": 222650,
-      "name": "Wayfaring Stranger",
-      "url": "https://open.spotify.com/track/4cQfiT5DgSOew8bZp1WaOW"
+      "duration_ms": 209796,
+      "name": "Tell Me Pretty Baby",
+      "url": "https://open.spotify.com/track/6pqbK1w6kI8NPTmCldLqsR"
     }
   ],
   "unique_name": "Rockin' Chair Blues",

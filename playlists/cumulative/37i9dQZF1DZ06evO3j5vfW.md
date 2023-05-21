@@ -4,12 +4,13 @@
 
 > This is Nicky Romero\. The essential tracks, all in one playlist.
 
-87 songs - 4 hr 36 min
+88 songs - 4 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [Acid Is My DNA](https://open.spotify.com/track/7MH3tmO3lKNZg85QXEX6Bc) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg) | [Acid is my DNA](https://open.spotify.com/album/3EGd1HqQ0MS5RxjwYnDE1Z) | 2:39 | 2021-12-20 | 2022-02-09 |
 | [Afterglow](https://open.spotify.com/track/4oDm90OxoKSOSoJIL9eYVc) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg), [GATTÜSO](https://open.spotify.com/artist/3PlRvQnVE3XAbtHUNc4nic), [Jared Lee](https://open.spotify.com/artist/7cBPcPEdhDWIoFX6BDvw1b) | [Afterglow](https://open.spotify.com/album/2iSj1nR3XEL9PVUk6CCzTv) | 3:41 | 2022-01-15 |  |
+| [All You Need Is Love](https://open.spotify.com/track/5yPEJ4UF90Km4KmLl2h4EE) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg), [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [Nico Santos](https://open.spotify.com/artist/3A9B6c1CrSPauiOblw7pWz) | [All You Need Is Love](https://open.spotify.com/album/6LoQoWCm9bF4dSQI2ZWtXe) | 2:19 | 2023-05-20 |  |
 | [Awakening](https://open.spotify.com/track/7vmI0ZeIjndCcohHfJex0m) | [Monocule](https://open.spotify.com/artist/0SURDCN1DbuW9STmuSHUaR), [Sarah de Warren](https://open.spotify.com/artist/2V431yZGG08uroH2CZAgur), [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg) | [Awakening](https://open.spotify.com/album/4PgoalLTxvrc4vPsDdstqE) | 3:25 | 2021-12-20 | 2023-05-14 |
 | [Back To Where We Started](https://open.spotify.com/track/3Xkf0dPNJbLMzi2BuGmbDo) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg), [AFROJACK](https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz) | [Back To Where We Started](https://open.spotify.com/album/4Oe7H10BsC7n7hiAFruhQa) | 3:29 | 2022-11-06 |  |
 | [Back To You](https://open.spotify.com/track/1eZXJrEbdGSuST1f8NY5Qk) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg) | [Back To You](https://open.spotify.com/album/5MuuG7O578wt7v4fwLwkrs) | 3:05 | 2021-12-20 | 2022-10-30 |

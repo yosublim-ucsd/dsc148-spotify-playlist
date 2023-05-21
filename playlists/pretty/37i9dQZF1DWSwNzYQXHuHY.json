@@ -1,12 +1,12 @@
 {
   "description": "\uc378\ud0c0\uace0 \uacc4\uc2e0\uac00\uc694? \uc124\ub808\uc784\uc774 \ub2f4\uae34 \ub178\ub798\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694.",
-  "num_followers": 7444,
+  "num_followers": 7454,
   "original_name": "\uc378",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiYTY0MDhkMTAwZDU1ODM5ODMyZDM2M2VmZWRiODg1NjIzMGZiZjE0",
+  "snapshot_id": "MCw2ZDVmYTY5NzkzOGU4MTJkZmY0ZDRhMWRkM2YzZjJhYmY5OTcxYWNi",
   "tracks": [
     {
       "added_at": "2023-05-05 08:18:09",
@@ -283,22 +283,6 @@
     {
       "added_at": "2023-05-05 08:18:09",
       "album": {
-        "name": "Dear my X",
-        "url": "https://open.spotify.com/album/5BOrfMmeO7t7pDqhZNIhej"
-      },
-      "artists": [
-        {
-          "name": "KyoungSeo",
-          "url": "https://open.spotify.com/artist/4rxWm4OrS8IRQ3YxDUwnJA"
-        }
-      ],
-      "duration_ms": 187733,
-      "name": "Dear my X",
-      "url": "https://open.spotify.com/track/0UnOf7i44YK0ULpkEGHe4R"
-    },
-    {
-      "added_at": "2023-05-05 08:18:09",
-      "album": {
         "name": "Do you want to walk with me? (Romance 101 X Jukjae)",
         "url": "https://open.spotify.com/album/6Mt17o8mnGYTu8jryXZaZX"
       },
@@ -311,6 +295,22 @@
       "duration_ms": 226560,
       "name": "Do you want to walk with me? (Romance 101 X Jukjae)",
       "url": "https://open.spotify.com/track/1hyyH6xSgtcgwpNOR9cX1t"
+    },
+    {
+      "added_at": "2023-05-05 08:18:09",
+      "album": {
+        "name": "Dear my X",
+        "url": "https://open.spotify.com/album/5BOrfMmeO7t7pDqhZNIhej"
+      },
+      "artists": [
+        {
+          "name": "KyoungSeo",
+          "url": "https://open.spotify.com/artist/4rxWm4OrS8IRQ3YxDUwnJA"
+        }
+      ],
+      "duration_ms": 187733,
+      "name": "Dear my X",
+      "url": "https://open.spotify.com/track/0UnOf7i44YK0ULpkEGHe4R"
     },
     {
       "added_at": "2023-05-05 08:18:09",
@@ -347,22 +347,18 @@
     {
       "added_at": "2023-05-05 08:18:09",
       "album": {
-        "name": "Our Spring : Who?",
-        "url": "https://open.spotify.com/album/3nXe2dBtIPrhkrJkJxPyZB"
+        "name": "Sweet (A Business Proposal OST Part.1)",
+        "url": "https://open.spotify.com/album/2bB29MkoBHc7vm2fr2EdiZ"
       },
       "artists": [
         {
-          "name": "XIUMIN",
-          "url": "https://open.spotify.com/artist/5t0Js3X9t4wpgXGlaiTFe6"
-        },
-        {
-          "name": "EUNHA",
-          "url": "https://open.spotify.com/artist/4MLK9Hhz7UhxAzU2awoLxk"
+          "name": "Lee Mujin",
+          "url": "https://open.spotify.com/artist/4Xj0peBt3EZHbdF20JmdWC"
         }
       ],
-      "duration_ms": 190746,
-      "name": "Who?",
-      "url": "https://open.spotify.com/track/18LJbCkas0JWVIrSWsnucr"
+      "duration_ms": 216520,
+      "name": "Sweet",
+      "url": "https://open.spotify.com/track/5JpftUHeUzx3zWE6rZtki5"
     },
     {
       "added_at": "2023-05-05 08:18:09",
@@ -387,18 +383,22 @@
     {
       "added_at": "2023-05-05 08:18:09",
       "album": {
-        "name": "Sweet (A Business Proposal OST Part.1)",
-        "url": "https://open.spotify.com/album/2bB29MkoBHc7vm2fr2EdiZ"
+        "name": "Our Spring : Who?",
+        "url": "https://open.spotify.com/album/3nXe2dBtIPrhkrJkJxPyZB"
       },
       "artists": [
         {
-          "name": "Lee Mujin",
-          "url": "https://open.spotify.com/artist/4Xj0peBt3EZHbdF20JmdWC"
+          "name": "XIUMIN",
+          "url": "https://open.spotify.com/artist/5t0Js3X9t4wpgXGlaiTFe6"
+        },
+        {
+          "name": "EUNHA",
+          "url": "https://open.spotify.com/artist/4MLK9Hhz7UhxAzU2awoLxk"
         }
       ],
-      "duration_ms": 216520,
-      "name": "Sweet",
-      "url": "https://open.spotify.com/track/5JpftUHeUzx3zWE6rZtki5"
+      "duration_ms": 190746,
+      "name": "Who?",
+      "url": "https://open.spotify.com/track/18LJbCkas0JWVIrSWsnucr"
     },
     {
       "added_at": "2023-05-05 08:18:09",
@@ -463,22 +463,6 @@
       "duration_ms": 206093,
       "name": "I Like You",
       "url": "https://open.spotify.com/track/11S43bdWSQ9ZZOrtcR1jpJ"
-    },
-    {
-      "added_at": "2023-05-05 08:18:09",
-      "album": {
-        "name": "Brand New - The 1st Mini Album",
-        "url": "https://open.spotify.com/album/2cmaMDT5b91omh5W6ilQ2R"
-      },
-      "artists": [
-        {
-          "name": "XIUMIN",
-          "url": "https://open.spotify.com/artist/5t0Js3X9t4wpgXGlaiTFe6"
-        }
-      ],
-      "duration_ms": 184493,
-      "name": "Brand New",
-      "url": "https://open.spotify.com/track/1ueAM35cpUd8EjbrIq26AD"
     },
     {
       "added_at": "2023-05-05 08:18:09",
@@ -563,6 +547,22 @@
       "duration_ms": 219330,
       "name": "You, Who?",
       "url": "https://open.spotify.com/track/5WLLVrfFNbseupmtv0p2B1"
+    },
+    {
+      "added_at": "2023-05-05 08:18:09",
+      "album": {
+        "name": "Brand New - The 1st Mini Album",
+        "url": "https://open.spotify.com/album/2cmaMDT5b91omh5W6ilQ2R"
+      },
+      "artists": [
+        {
+          "name": "XIUMIN",
+          "url": "https://open.spotify.com/artist/5t0Js3X9t4wpgXGlaiTFe6"
+        }
+      ],
+      "duration_ms": 184493,
+      "name": "Brand New",
+      "url": "https://open.spotify.com/track/1ueAM35cpUd8EjbrIq26AD"
     },
     {
       "added_at": "2023-05-05 08:18:09",

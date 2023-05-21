@@ -1,12 +1,12 @@
 {
   "description": "The best of electronic trap. Cover: RL Grime",
-  "num_followers": 890512,
+  "num_followers": 890478,
   "original_name": "Trap Mojito",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwMjMwMGQ0MDcwZjQxZDNjNDIzZGUzZThlNmI2MTQyODAzZjNiMDIx",
+  "snapshot_id": "MCxjYzczNTZhYTVmN2QwNjcyMTA4ZjlmNzhiYzQ3M2ZlNzJlZWZlMWZl",
   "tracks": [
     {
       "added_at": "2023-05-05 04:00:00",
@@ -667,26 +667,6 @@
     {
       "added_at": "2023-05-05 04:00:00",
       "album": {
-        "name": "RESET",
-        "url": "https://open.spotify.com/album/4rpqjEDrwQlWPrzkW47bJK"
-      },
-      "artists": [
-        {
-          "name": "Party Favor",
-          "url": "https://open.spotify.com/artist/7yPPzu5UdAK7yagQqjEZQm"
-        },
-        {
-          "name": "Lil Gnar",
-          "url": "https://open.spotify.com/artist/3EIX8WuD9ybB4ruz0MSilB"
-        }
-      ],
-      "duration_ms": 121849,
-      "name": "Spirits Pt. 2",
-      "url": "https://open.spotify.com/track/1hmiQTBi1ucDbqs0KEJ1c8"
-    },
-    {
-      "added_at": "2023-05-05 04:00:00",
-      "album": {
         "name": "Limelight (NGHTMRE Remix)",
         "url": "https://open.spotify.com/album/7MO44tEY67dEVPnfT8DD2y"
       },
@@ -703,6 +683,26 @@
       "duration_ms": 254896,
       "name": "Limelight (NGHTMRE Remix)",
       "url": "https://open.spotify.com/track/3mof6Z6vz6gonsuIEQXank"
+    },
+    {
+      "added_at": "2023-05-05 04:00:00",
+      "album": {
+        "name": "RESET",
+        "url": "https://open.spotify.com/album/4rpqjEDrwQlWPrzkW47bJK"
+      },
+      "artists": [
+        {
+          "name": "Party Favor",
+          "url": "https://open.spotify.com/artist/7yPPzu5UdAK7yagQqjEZQm"
+        },
+        {
+          "name": "Lil Gnar",
+          "url": "https://open.spotify.com/artist/3EIX8WuD9ybB4ruz0MSilB"
+        }
+      ],
+      "duration_ms": 121849,
+      "name": "Spirits Pt. 2",
+      "url": "https://open.spotify.com/track/1hmiQTBi1ucDbqs0KEJ1c8"
     },
     {
       "added_at": "2023-05-05 04:00:00",
@@ -839,22 +839,18 @@
     {
       "added_at": "2023-05-05 04:00:00",
       "album": {
-        "name": "6 FEET UNDER",
-        "url": "https://open.spotify.com/album/25r8pqNVU29qtWSvIxdxGl"
+        "name": "Tanglewood",
+        "url": "https://open.spotify.com/album/2zS1uwnnpZlqkALafTzUJl"
       },
       "artists": [
         {
-          "name": "GRAVEDGR",
-          "url": "https://open.spotify.com/artist/1kiZfWU37oS0pCOV7Os1Pj"
-        },
-        {
-          "name": "City Morgue",
-          "url": "https://open.spotify.com/artist/1kMVs324xI4K0tQrKqA4c4"
+          "name": "Of The Trees",
+          "url": "https://open.spotify.com/artist/5V7NIXgCnX2KuQ01Bxg20c"
         }
       ],
-      "duration_ms": 154616,
-      "name": "WARDOGZ",
-      "url": "https://open.spotify.com/track/6BSPfADBMriOIJmiNnc6mC"
+      "duration_ms": 158961,
+      "name": "Spanish Moss",
+      "url": "https://open.spotify.com/track/1z1io5H0gfutwUNILCDshn"
     },
     {
       "added_at": "2023-05-05 04:00:00",
@@ -875,22 +871,6 @@
     {
       "added_at": "2023-05-05 04:00:00",
       "album": {
-        "name": "Tanglewood",
-        "url": "https://open.spotify.com/album/2zS1uwnnpZlqkALafTzUJl"
-      },
-      "artists": [
-        {
-          "name": "Of The Trees",
-          "url": "https://open.spotify.com/artist/5V7NIXgCnX2KuQ01Bxg20c"
-        }
-      ],
-      "duration_ms": 158961,
-      "name": "Spanish Moss",
-      "url": "https://open.spotify.com/track/1z1io5H0gfutwUNILCDshn"
-    },
-    {
-      "added_at": "2023-05-05 04:00:00",
-      "album": {
         "name": "Me and You",
         "url": "https://open.spotify.com/album/4don6p3pHlj7Pp01Js7dUb"
       },
@@ -907,6 +887,26 @@
       "duration_ms": 226285,
       "name": "Me and You",
       "url": "https://open.spotify.com/track/707qqokrSYnzJO5FoGIvFL"
+    },
+    {
+      "added_at": "2023-05-05 04:00:00",
+      "album": {
+        "name": "6 FEET UNDER",
+        "url": "https://open.spotify.com/album/25r8pqNVU29qtWSvIxdxGl"
+      },
+      "artists": [
+        {
+          "name": "GRAVEDGR",
+          "url": "https://open.spotify.com/artist/1kiZfWU37oS0pCOV7Os1Pj"
+        },
+        {
+          "name": "City Morgue",
+          "url": "https://open.spotify.com/artist/1kMVs324xI4K0tQrKqA4c4"
+        }
+      ],
+      "duration_ms": 154616,
+      "name": "WARDOGZ",
+      "url": "https://open.spotify.com/track/6BSPfADBMriOIJmiNnc6mC"
     },
     {
       "added_at": "2023-05-05 04:00:00",
@@ -1079,22 +1079,6 @@
     {
       "added_at": "2023-05-05 04:00:00",
       "album": {
-        "name": "Save Me",
-        "url": "https://open.spotify.com/album/6ZTKe8BHDuJ9VlchZfywBD"
-      },
-      "artists": [
-        {
-          "name": "Party Favor",
-          "url": "https://open.spotify.com/artist/7yPPzu5UdAK7yagQqjEZQm"
-        }
-      ],
-      "duration_ms": 127900,
-      "name": "Save Me",
-      "url": "https://open.spotify.com/track/6VkomiRtWhCiFs4nzrzNUc"
-    },
-    {
-      "added_at": "2023-05-05 04:00:00",
-      "album": {
         "name": "Braincase",
         "url": "https://open.spotify.com/album/2yTltxoHOTg3reSa6Hll3r"
       },
@@ -1111,6 +1095,22 @@
       "duration_ms": 192000,
       "name": "Braincase",
       "url": "https://open.spotify.com/track/3AawFHorBGEDdM9ngI8ofa"
+    },
+    {
+      "added_at": "2023-05-05 04:00:00",
+      "album": {
+        "name": "Save Me",
+        "url": "https://open.spotify.com/album/6ZTKe8BHDuJ9VlchZfywBD"
+      },
+      "artists": [
+        {
+          "name": "Party Favor",
+          "url": "https://open.spotify.com/artist/7yPPzu5UdAK7yagQqjEZQm"
+        }
+      ],
+      "duration_ms": 127900,
+      "name": "Save Me",
+      "url": "https://open.spotify.com/track/6VkomiRtWhCiFs4nzrzNUc"
     },
     {
       "added_at": "2023-05-05 04:00:00",
@@ -1203,6 +1203,22 @@
     {
       "added_at": "2023-05-05 04:00:00",
       "album": {
+        "name": "V!BEZ, Vol. 4",
+        "url": "https://open.spotify.com/album/1FJ7kXrCmyFtR2B1NBpYDu"
+      },
+      "artists": [
+        {
+          "name": "TroyBoi",
+          "url": "https://open.spotify.com/artist/0tvpihdAsKiNnP6sWS3jUI"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "Bellz",
+      "url": "https://open.spotify.com/track/753DZsGGXlasRCp48FmOhH"
+    },
+    {
+      "added_at": "2023-05-05 04:00:00",
+      "album": {
         "name": "Breath",
         "url": "https://open.spotify.com/album/55wW59sZIugEKDbbATNigk"
       },
@@ -1219,22 +1235,6 @@
       "duration_ms": 201008,
       "name": "Breath",
       "url": "https://open.spotify.com/track/0lhcqwfMDuurywvxgELbPu"
-    },
-    {
-      "added_at": "2023-05-05 04:00:00",
-      "album": {
-        "name": "V!BEZ, Vol. 4",
-        "url": "https://open.spotify.com/album/1FJ7kXrCmyFtR2B1NBpYDu"
-      },
-      "artists": [
-        {
-          "name": "TroyBoi",
-          "url": "https://open.spotify.com/artist/0tvpihdAsKiNnP6sWS3jUI"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "Bellz",
-      "url": "https://open.spotify.com/track/753DZsGGXlasRCp48FmOhH"
     },
     {
       "added_at": "2023-05-05 04:00:00",
@@ -1447,26 +1447,6 @@
     {
       "added_at": "2023-05-05 04:00:00",
       "album": {
-        "name": "Say Less",
-        "url": "https://open.spotify.com/album/0zjiaN2MHgT0OVHE1DRRFK"
-      },
-      "artists": [
-        {
-          "name": "TroyBoi",
-          "url": "https://open.spotify.com/artist/0tvpihdAsKiNnP6sWS3jUI"
-        },
-        {
-          "name": "Hucci",
-          "url": "https://open.spotify.com/artist/1wJNeTGqvB8WVYak3HC3pk"
-        }
-      ],
-      "duration_ms": 173430,
-      "name": "Interstellar",
-      "url": "https://open.spotify.com/track/1sm3F0f494JeVkPp4ilpIt"
-    },
-    {
-      "added_at": "2023-05-05 04:00:00",
-      "album": {
         "name": "Like That",
         "url": "https://open.spotify.com/album/3f3XdsftL1mF8LBTduqECp"
       },
@@ -1483,6 +1463,26 @@
       "duration_ms": 260087,
       "name": "Like That",
       "url": "https://open.spotify.com/track/7MFahU9vl5TWlei936k7n6"
+    },
+    {
+      "added_at": "2023-05-05 04:00:00",
+      "album": {
+        "name": "Say Less",
+        "url": "https://open.spotify.com/album/0zjiaN2MHgT0OVHE1DRRFK"
+      },
+      "artists": [
+        {
+          "name": "TroyBoi",
+          "url": "https://open.spotify.com/artist/0tvpihdAsKiNnP6sWS3jUI"
+        },
+        {
+          "name": "Hucci",
+          "url": "https://open.spotify.com/artist/1wJNeTGqvB8WVYak3HC3pk"
+        }
+      ],
+      "duration_ms": 173430,
+      "name": "Interstellar",
+      "url": "https://open.spotify.com/track/1sm3F0f494JeVkPp4ilpIt"
     },
     {
       "added_at": "2023-05-05 04:00:00",
@@ -1615,6 +1615,22 @@
     {
       "added_at": "2023-05-05 04:00:00",
       "album": {
+        "name": "Apocalyptic",
+        "url": "https://open.spotify.com/album/6QupCtenijUBkVdEJx7dar"
+      },
+      "artists": [
+        {
+          "name": "3LAU",
+          "url": "https://open.spotify.com/artist/4YLQaW1UU3mrVetC8gNkg5"
+        }
+      ],
+      "duration_ms": 204480,
+      "name": "Apocalyptic",
+      "url": "https://open.spotify.com/track/3E5Go2swucT0A6NmqOEChM"
+    },
+    {
+      "added_at": "2023-05-05 04:00:00",
+      "album": {
         "name": "NO TOMORROW",
         "url": "https://open.spotify.com/album/3kvJ9epKQPbTNogXMYDCQr"
       },
@@ -1631,22 +1647,6 @@
       "duration_ms": 174334,
       "name": "NO TOMORROW",
       "url": "https://open.spotify.com/track/3m96VahLg3dM9zR0GCQeob"
-    },
-    {
-      "added_at": "2023-05-05 04:00:00",
-      "album": {
-        "name": "Apocalyptic",
-        "url": "https://open.spotify.com/album/6QupCtenijUBkVdEJx7dar"
-      },
-      "artists": [
-        {
-          "name": "3LAU",
-          "url": "https://open.spotify.com/artist/4YLQaW1UU3mrVetC8gNkg5"
-        }
-      ],
-      "duration_ms": 204480,
-      "name": "Apocalyptic",
-      "url": "https://open.spotify.com/track/3E5Go2swucT0A6NmqOEChM"
     },
     {
       "added_at": "2023-05-05 04:00:00",
@@ -1915,22 +1915,6 @@
     {
       "added_at": "2023-05-05 04:00:00",
       "album": {
-        "name": "Let You Go",
-        "url": "https://open.spotify.com/album/2yCztLk81wZsugtw4DGuMQ"
-      },
-      "artists": [
-        {
-          "name": "Pauline Herr",
-          "url": "https://open.spotify.com/artist/66VgJGpaRMwrNaS2MPqIDf"
-        }
-      ],
-      "duration_ms": 201857,
-      "name": "Let You Go",
-      "url": "https://open.spotify.com/track/4Jw61X9JLDhHMXnYyUszad"
-    },
-    {
-      "added_at": "2023-05-05 04:00:00",
-      "album": {
         "name": "Emerald",
         "url": "https://open.spotify.com/album/3jwJuAOzD9swvO3Kuh9zq7"
       },
@@ -1967,6 +1951,22 @@
       "duration_ms": 121007,
       "name": "Red Ish",
       "url": "https://open.spotify.com/track/6O8U8Biv6ztOLUcQPBEW1P"
+    },
+    {
+      "added_at": "2023-05-05 04:00:00",
+      "album": {
+        "name": "Let You Go",
+        "url": "https://open.spotify.com/album/2yCztLk81wZsugtw4DGuMQ"
+      },
+      "artists": [
+        {
+          "name": "Pauline Herr",
+          "url": "https://open.spotify.com/artist/66VgJGpaRMwrNaS2MPqIDf"
+        }
+      ],
+      "duration_ms": 201857,
+      "name": "Let You Go",
+      "url": "https://open.spotify.com/track/4Jw61X9JLDhHMXnYyUszad"
     }
   ],
   "unique_name": "Trap Mojito",

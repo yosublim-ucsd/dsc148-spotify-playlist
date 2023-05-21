@@ -4,7 +4,7 @@
 
 > Leaders of the new school...Alternative R&B\. Cover: Ama Lou
 
-830 songs - 1 day 20 hr 54 min
+831 songs - 1 day 20 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -665,6 +665,7 @@
 | [Solo Dolo](https://open.spotify.com/track/15wIFzox6G1pDNIk1SKGP9) | [Amen](https://open.spotify.com/artist/59XyIoBpA5iKQ8KmjJj554) | [Solo Dolo](https://open.spotify.com/album/1mCzUg46aUlZuJfNvsM6XI) | 3:01 | 2021-06-18 | 2021-12-29 |
 | [SONIC BOOM](https://open.spotify.com/track/6VZd1Xv8BR4sZYubjLOIhR) | [Moise](https://open.spotify.com/artist/7n5kxcxAuePVFcj5XF3oDA) | [SONIC BOOM](https://open.spotify.com/album/6UDg27sesCLOc8fB6I9nBy) | 2:43 | 2022-07-15 | 2022-07-23 |
 | [sorry](https://open.spotify.com/track/1Weox7JrxWlozk46HkXHTp) | [UMI](https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde) | [sorry](https://open.spotify.com/album/5yYBMehkCVXuFzaVPBBmzB) | 3:40 | 2022-04-01 | 2022-11-05 |
+| [Sossaup](https://open.spotify.com/track/6y5UMIVVJDsULZwfZ0bNRX) | [KAYTRAMINÉ](https://open.spotify.com/artist/5oifjQw72WO7Jut07fVWMy), [Aminé](https://open.spotify.com/artist/3Gm5F95VdRxW3mqCn8RPBJ), [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS) | [KAYTRAMINÉ](https://open.spotify.com/album/1plAqF2W8hwAhcpBAfGNsW) | 2:36 | 2023-05-20 |  |
 | [SOW](https://open.spotify.com/track/65zlOAreDi0nexSq6G33E2) | [Q](https://open.spotify.com/artist/22vqVhfPJab5kkU9txDGX3) | [Soul,PRESENT](https://open.spotify.com/album/2s8DZtGWeWaLFLvBI38MM6) | 3:06 | 2023-05-05 |  |
 | [Spacing Out](https://open.spotify.com/track/6YjAZ3ILDPH8AgTEtLrRrG) | [Sylo](https://open.spotify.com/artist/0QitJHI0ZwMa5F9TR6EYSl) | [Spacing Out](https://open.spotify.com/album/6vX0B7KKVkzPJrPqTMnsQM) | 3:13 | 2022-04-01 | 2022-04-04 |
 | [Spinning Top](https://open.spotify.com/track/3F4TJKOb8mKb6A8UWXxcmB) | [alayna](https://open.spotify.com/artist/7JwNWaTv4y9WNJCihQFHpv), [Sango](https://open.spotify.com/artist/7e3FtKBIPLrIVm8g1FJMVg) | [Spinning Top](https://open.spotify.com/album/3d90PWbsUEaiJdfwhhLWws) | 3:10 | 2021-06-04 | 2022-01-27 |
@@ -786,7 +787,7 @@
 | [Wasted](https://open.spotify.com/track/01NxZVzbRZrRNzpoBJLh5p) | [TeaMarrr](https://open.spotify.com/artist/1cWyN6TA0n4j9JtqI0sOpt) | [Wasted](https://open.spotify.com/album/7DQCcFWk5VzoSCLBJ7ZsUU) | 2:35 | 2022-07-29 | 2022-09-02 |
 | [wasting](https://open.spotify.com/track/5ACFePwf0aIhieh3D6xC8r) | [cityboymoe](https://open.spotify.com/artist/4KopSPzxYX2YfExvXefbjp) | [wasting](https://open.spotify.com/album/77Jra4ODVhjybF694tHM7N) | 3:00 | 2022-08-12 | 2022-08-27 |
 | [Wasting Away](https://open.spotify.com/track/5sIO0XAiMZtt5J9Xeaq8HI) | [Gio Genesis](https://open.spotify.com/artist/6OVtVXga1DBhBAq6GQcF0m) | [Wasting Away](https://open.spotify.com/album/1N9bfFra8XthSOIxiy7fAe) | 2:24 | 2022-08-26 | 2022-09-03 |
-| [Water My Heart \(feat\. Mereba\)](https://open.spotify.com/track/5CisgeB65yWttE54rFIfZ4) | [rum.gold](https://open.spotify.com/artist/4mErKO4g29SXtBwj4S80aB), [Mereba](https://open.spotify.com/artist/294lNTPZfdqyzt8qnxmFiL) | [Water My Heart \(feat\. Mereba\)](https://open.spotify.com/album/3s8P0go7OUTdf9NzZFS15a) | 3:42 | 2023-02-24 |  |
+| [Water My Heart \(feat\. Mereba\)](https://open.spotify.com/track/5CisgeB65yWttE54rFIfZ4) | [rum.gold](https://open.spotify.com/artist/4mErKO4g29SXtBwj4S80aB), [Mereba](https://open.spotify.com/artist/294lNTPZfdqyzt8qnxmFiL) | [Water My Heart \(feat\. Mereba\)](https://open.spotify.com/album/3s8P0go7OUTdf9NzZFS15a) | 3:42 | 2023-02-24 | 2023-05-21 |
 | [We All Fall Sometimes](https://open.spotify.com/track/25FPmmk6UDS4B7pNCWQ4Kq) | [Willum Maindo](https://open.spotify.com/artist/5W27B2CplHnE9lXLdLJNnG) | [We All Fall Sometimes](https://open.spotify.com/album/7pRG5o3vxrPKtDcz4ywxaw) | 4:30 | 2022-04-01 | 2022-04-12 |
 | [we're not kids anymore](https://open.spotify.com/track/43ZTfozcXRTukqENA3TXqe) | [Cat Burns](https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn) | [emotionally unavailable](https://open.spotify.com/album/3IdEptw0LPQv9qNLbxkdAU) | 3:02 | 2022-05-20 | 2022-10-08 |
 | [Weightless](https://open.spotify.com/track/39ctmPVTtAMKeVJhMq5dS5) | [Chiiild](https://open.spotify.com/artist/2YqJwmohaNjg9lg51flSax) | [Hope For Sale](https://open.spotify.com/album/2opiJIrYClkW7qD2vM6vSi) | 3:04 | 2021-07-23 | 2022-01-29 |

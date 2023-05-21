@@ -1,12 +1,12 @@
 {
   "description": "De beste norske l\u00e5tene fra noen av v\u00e5re aller beste artister.",
-  "num_followers": 68498,
+  "num_followers": 68515,
   "original_name": "Norske viser",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3ZTYxNjUwZTBiMTA1NjcyZmQ2NDZkOWI5MTVmM2VlOTQzYjc1MGVm",
+  "snapshot_id": "MCxlMjhlY2ZiZThmYjIxYzFjMTFmZTY5ZjA3NjU5Zjk4NmJiZWFmODk4",
   "tracks": [
     {
       "added_at": "2023-05-11 22:00:00",
@@ -423,6 +423,22 @@
     {
       "added_at": "2023-05-11 22:00:00",
       "album": {
+        "name": "Gressholmen",
+        "url": "https://open.spotify.com/album/5ZUNIkbIigepocjfzRWdX9"
+      },
+      "artists": [
+        {
+          "name": "Kristian Kristensen",
+          "url": "https://open.spotify.com/artist/75ZTlOo6olxm9thcXVh6Ta"
+        }
+      ],
+      "duration_ms": 253946,
+      "name": "Gressholmen",
+      "url": "https://open.spotify.com/track/48scWF4cl9Qr6oCJ0KJCLu"
+    },
+    {
+      "added_at": "2023-05-11 22:00:00",
+      "album": {
         "name": "Eg Glemmer Deg Aldri",
         "url": "https://open.spotify.com/album/01u1QpBhHmNTWp1UhhCKHQ"
       },
@@ -443,22 +459,6 @@
       "duration_ms": 178116,
       "name": "Eg glemmer deg aldri",
       "url": "https://open.spotify.com/track/5uIf5trHyNF4uvsmCr1NHc"
-    },
-    {
-      "added_at": "2023-05-11 22:00:00",
-      "album": {
-        "name": "Gressholmen",
-        "url": "https://open.spotify.com/album/5ZUNIkbIigepocjfzRWdX9"
-      },
-      "artists": [
-        {
-          "name": "Kristian Kristensen",
-          "url": "https://open.spotify.com/artist/75ZTlOo6olxm9thcXVh6Ta"
-        }
-      ],
-      "duration_ms": 253946,
-      "name": "Gressholmen",
-      "url": "https://open.spotify.com/track/48scWF4cl9Qr6oCJ0KJCLu"
     },
     {
       "added_at": "2023-05-11 22:00:00",
@@ -567,26 +567,6 @@
     {
       "added_at": "2023-05-11 22:00:00",
       "album": {
-        "name": "Elsk Meg",
-        "url": "https://open.spotify.com/album/1O0hUW4EAyxhLRbxtfUveq"
-      },
-      "artists": [
-        {
-          "name": "Karoline Kr\u00fcger",
-          "url": "https://open.spotify.com/artist/2Y2lJvGNGi4b2Bnikx4Onm"
-        },
-        {
-          "name": "Hver gang vi m\u00f8tes",
-          "url": "https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO"
-        }
-      ],
-      "duration_ms": 196401,
-      "name": "Elsk Meg",
-      "url": "https://open.spotify.com/track/3qZT6XvMt1DuNiwHNcbepi"
-    },
-    {
-      "added_at": "2023-05-11 22:00:00",
-      "album": {
         "name": "Bror",
         "url": "https://open.spotify.com/album/2hGjZ58iJaDiV8EAX2oxsI"
       },
@@ -603,6 +583,26 @@
       "duration_ms": 194893,
       "name": "Bror",
       "url": "https://open.spotify.com/track/1vnOWt0MAEkZGCOzD2snSA"
+    },
+    {
+      "added_at": "2023-05-11 22:00:00",
+      "album": {
+        "name": "Elsk Meg",
+        "url": "https://open.spotify.com/album/1O0hUW4EAyxhLRbxtfUveq"
+      },
+      "artists": [
+        {
+          "name": "Karoline Kr\u00fcger",
+          "url": "https://open.spotify.com/artist/2Y2lJvGNGi4b2Bnikx4Onm"
+        },
+        {
+          "name": "Hver gang vi m\u00f8tes",
+          "url": "https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO"
+        }
+      ],
+      "duration_ms": 196401,
+      "name": "Elsk Meg",
+      "url": "https://open.spotify.com/track/3qZT6XvMt1DuNiwHNcbepi"
     },
     {
       "added_at": "2023-05-11 22:00:00",
@@ -675,22 +675,18 @@
     {
       "added_at": "2023-05-11 22:00:00",
       "album": {
-        "name": "Skyfri Himmel",
-        "url": "https://open.spotify.com/album/5PQ9N6hXeex2FTf2Gdt9vK"
+        "name": "Gressholmen",
+        "url": "https://open.spotify.com/album/5ZUNIkbIigepocjfzRWdX9"
       },
       "artists": [
         {
-          "name": "Karoline Kr\u00fcger",
-          "url": "https://open.spotify.com/artist/2Y2lJvGNGi4b2Bnikx4Onm"
-        },
-        {
-          "name": "Hver gang vi m\u00f8tes",
-          "url": "https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO"
+          "name": "Kristian Kristensen",
+          "url": "https://open.spotify.com/artist/75ZTlOo6olxm9thcXVh6Ta"
         }
       ],
-      "duration_ms": 212914,
-      "name": "Skyfri Himmel",
-      "url": "https://open.spotify.com/track/6j6cVfhfaLYJMN25lpBqqS"
+      "duration_ms": 231334,
+      "name": "T\u00e5rnet",
+      "url": "https://open.spotify.com/track/6JmZt1IQx2gzytm34xdyDQ"
     },
     {
       "added_at": "2023-05-11 22:00:00",
@@ -763,18 +759,22 @@
     {
       "added_at": "2023-05-11 22:00:00",
       "album": {
-        "name": "Gressholmen",
-        "url": "https://open.spotify.com/album/5ZUNIkbIigepocjfzRWdX9"
+        "name": "Skyfri Himmel",
+        "url": "https://open.spotify.com/album/5PQ9N6hXeex2FTf2Gdt9vK"
       },
       "artists": [
         {
-          "name": "Kristian Kristensen",
-          "url": "https://open.spotify.com/artist/75ZTlOo6olxm9thcXVh6Ta"
+          "name": "Karoline Kr\u00fcger",
+          "url": "https://open.spotify.com/artist/2Y2lJvGNGi4b2Bnikx4Onm"
+        },
+        {
+          "name": "Hver gang vi m\u00f8tes",
+          "url": "https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO"
         }
       ],
-      "duration_ms": 231334,
-      "name": "T\u00e5rnet",
-      "url": "https://open.spotify.com/track/6JmZt1IQx2gzytm34xdyDQ"
+      "duration_ms": 212914,
+      "name": "Skyfri Himmel",
+      "url": "https://open.spotify.com/track/6j6cVfhfaLYJMN25lpBqqS"
     },
     {
       "added_at": "2023-05-11 22:00:00",
@@ -843,6 +843,22 @@
     {
       "added_at": "2023-05-11 22:00:00",
       "album": {
+        "name": "Hilsen Halvdan",
+        "url": "https://open.spotify.com/album/0aZwUrOFumqgQGdId4WDAy"
+      },
+      "artists": [
+        {
+          "name": "Halvdan Sivertsen",
+          "url": "https://open.spotify.com/artist/4si4vypZaD6Vk7TiHkEXeY"
+        }
+      ],
+      "duration_ms": 258638,
+      "name": "Sommerfuggel I Vinterland",
+      "url": "https://open.spotify.com/track/6TYTKJKCLhMely2cdBRorF"
+    },
+    {
+      "added_at": "2023-05-11 22:00:00",
+      "album": {
         "name": "Tre Pakker Sigaretter",
         "url": "https://open.spotify.com/album/7C4j0qTmR7bSpn2uebJmjj"
       },
@@ -859,22 +875,6 @@
       "duration_ms": 193988,
       "name": "Tre pakker sigaretter",
       "url": "https://open.spotify.com/track/4IrUGDg2xUSyp5r2I5eJZv"
-    },
-    {
-      "added_at": "2023-05-11 22:00:00",
-      "album": {
-        "name": "Hilsen Halvdan",
-        "url": "https://open.spotify.com/album/0aZwUrOFumqgQGdId4WDAy"
-      },
-      "artists": [
-        {
-          "name": "Halvdan Sivertsen",
-          "url": "https://open.spotify.com/artist/4si4vypZaD6Vk7TiHkEXeY"
-        }
-      ],
-      "duration_ms": 258638,
-      "name": "Sommerfuggel I Vinterland",
-      "url": "https://open.spotify.com/track/6TYTKJKCLhMely2cdBRorF"
     },
     {
       "added_at": "2023-05-11 22:00:00",

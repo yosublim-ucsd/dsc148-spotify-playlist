@@ -1,12 +1,12 @@
 {
   "description": "The best indie songs from all decades for your Halloween party",
-  "num_followers": 27624,
+  "num_followers": 27770,
   "original_name": "Indie Halloween",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhMjBlOTE0MzQ3MGRmMmFhMWFlMWE0MDViZjM2NDlkODQ0OGZmNjVi",
+  "snapshot_id": "MCxkZTU2OGQyOTFiNWU3NTA3NDhiN2YzOGFjNTU5YTAwYjU5NGYwMmIz",
   "tracks": [
     {
       "added_at": "2023-02-09 23:00:00",
@@ -619,18 +619,18 @@
     {
       "added_at": "2023-02-09 23:00:00",
       "album": {
-        "name": "We Need Medicine (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/6E1stKFODamAR9n0TddMy7"
+        "name": "Introducing The Sonics",
+        "url": "https://open.spotify.com/album/2EmUijeHFyILSHUC2kzxXv"
       },
       "artists": [
         {
-          "name": "The Fratellis",
-          "url": "https://open.spotify.com/artist/3M4ThdJR28z9eSMcQHAZ5G"
+          "name": "The Sonics",
+          "url": "https://open.spotify.com/artist/2g3PKH7Z1Ofn5oGR6oDjLy"
         }
       ],
-      "duration_ms": 196893,
-      "name": "Halloween Blues",
-      "url": "https://open.spotify.com/track/0LEycyIxbAwwB9U0GgMx39"
+      "duration_ms": 158680,
+      "name": "The Witch",
+      "url": "https://open.spotify.com/track/18k49mXvNPtKlcT6Ky39pe"
     },
     {
       "added_at": "2023-02-09 23:00:00",
@@ -651,18 +651,18 @@
     {
       "added_at": "2023-02-09 23:00:00",
       "album": {
-        "name": "Introducing The Sonics",
-        "url": "https://open.spotify.com/album/2EmUijeHFyILSHUC2kzxXv"
+        "name": "We Need Medicine (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6E1stKFODamAR9n0TddMy7"
       },
       "artists": [
         {
-          "name": "The Sonics",
-          "url": "https://open.spotify.com/artist/2g3PKH7Z1Ofn5oGR6oDjLy"
+          "name": "The Fratellis",
+          "url": "https://open.spotify.com/artist/3M4ThdJR28z9eSMcQHAZ5G"
         }
       ],
-      "duration_ms": 158680,
-      "name": "The Witch",
-      "url": "https://open.spotify.com/track/18k49mXvNPtKlcT6Ky39pe"
+      "duration_ms": 196893,
+      "name": "Halloween Blues",
+      "url": "https://open.spotify.com/track/0LEycyIxbAwwB9U0GgMx39"
     },
     {
       "added_at": "2023-02-09 23:00:00",
@@ -891,22 +891,6 @@
     {
       "added_at": "2023-02-09 23:00:00",
       "album": {
-        "name": "The Five Ghosts",
-        "url": "https://open.spotify.com/album/1VNSdysVD6rAJKsW7IInNU"
-      },
-      "artists": [
-        {
-          "name": "Stars",
-          "url": "https://open.spotify.com/artist/2EO56JK4txid1Pss9GVbOL"
-        }
-      ],
-      "duration_ms": 185773,
-      "name": "I Died So I Could Haunt You",
-      "url": "https://open.spotify.com/track/4KgMpCMGIQYWvCqwRHlwIJ"
-    },
-    {
-      "added_at": "2023-02-09 23:00:00",
-      "album": {
         "name": "Whip It On",
         "url": "https://open.spotify.com/album/1beQ4oVlpOV8hr8WIoUouF"
       },
@@ -919,6 +903,22 @@
       "duration_ms": 150293,
       "name": "Attack of the Ghost Riders",
       "url": "https://open.spotify.com/track/39us5jxLPBBrBMqCx8crY7"
+    },
+    {
+      "added_at": "2023-02-09 23:00:00",
+      "album": {
+        "name": "The Five Ghosts",
+        "url": "https://open.spotify.com/album/1VNSdysVD6rAJKsW7IInNU"
+      },
+      "artists": [
+        {
+          "name": "Stars",
+          "url": "https://open.spotify.com/artist/2EO56JK4txid1Pss9GVbOL"
+        }
+      ],
+      "duration_ms": 185773,
+      "name": "I Died So I Could Haunt You",
+      "url": "https://open.spotify.com/track/4KgMpCMGIQYWvCqwRHlwIJ"
     },
     {
       "added_at": "2023-02-09 23:00:00",

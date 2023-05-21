@@ -1,12 +1,12 @@
 {
   "description": "Check out these inspired hits to keep your Summer fun and upbeat!",
-  "num_followers": 25386,
+  "num_followers": 25396,
   "original_name": "Rejoice for Summer",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1YTYyODU5MjYwMGQwMGMzODJkYWVlODk0NTJjYmZkZTM2YTkyNzY5",
+  "snapshot_id": "MCwzOGNkMGI0MDEwZjczZDQ5MTdjOTNkZTI1ZGIxYjFkMjViN2MzZDk1",
   "tracks": [
     {
       "added_at": "2020-08-13 14:39:00",
@@ -451,22 +451,6 @@
     {
       "added_at": "2020-08-13 14:39:00",
       "album": {
-        "name": "neverfade",
-        "url": "https://open.spotify.com/album/458fuUGnQiQai9nbOrMWi7"
-      },
-      "artists": [
-        {
-          "name": "The Young Escape",
-          "url": "https://open.spotify.com/artist/39ZuGmOP3orNn5Pf8S13VW"
-        }
-      ],
-      "duration_ms": 179857,
-      "name": "neverfade",
-      "url": "https://open.spotify.com/track/7dxWG9qRCq2NyUsNES2inQ"
-    },
-    {
-      "added_at": "2020-08-13 14:39:00",
-      "album": {
         "name": "Future",
         "url": "https://open.spotify.com/album/0u67ZdhmmnjZ0Jxze8ca3b"
       },
@@ -479,6 +463,22 @@
       "duration_ms": 222626,
       "name": "Faith",
       "url": "https://open.spotify.com/track/6UBNCEcxtzCNUQdQOle3um"
+    },
+    {
+      "added_at": "2020-08-13 14:39:00",
+      "album": {
+        "name": "neverfade",
+        "url": "https://open.spotify.com/album/458fuUGnQiQai9nbOrMWi7"
+      },
+      "artists": [
+        {
+          "name": "The Young Escape",
+          "url": "https://open.spotify.com/artist/39ZuGmOP3orNn5Pf8S13VW"
+        }
+      ],
+      "duration_ms": 179857,
+      "name": "neverfade",
+      "url": "https://open.spotify.com/track/7dxWG9qRCq2NyUsNES2inQ"
     },
     {
       "added_at": "2020-08-13 14:39:00",
@@ -499,22 +499,6 @@
     {
       "added_at": "2020-08-13 14:39:00",
       "album": {
-        "name": "Control",
-        "url": "https://open.spotify.com/album/1U6WL5nPYVlW1Y2RTSpzKa"
-      },
-      "artists": [
-        {
-          "name": "Joel Vaughn",
-          "url": "https://open.spotify.com/artist/0LAqQNqZSCpMUXRgONL5iB"
-        }
-      ],
-      "duration_ms": 199573,
-      "name": "Pray It Up",
-      "url": "https://open.spotify.com/track/5qL47IcceHPr7W8kxK4Wzj"
-    },
-    {
-      "added_at": "2020-08-13 14:39:00",
-      "album": {
         "name": "One-Way Conversations",
         "url": "https://open.spotify.com/album/2iB2b6Vw1eOWJc4ZNQPLhW"
       },
@@ -531,18 +515,18 @@
     {
       "added_at": "2020-08-13 14:39:00",
       "album": {
-        "name": "Who We Are",
-        "url": "https://open.spotify.com/album/3B41USIdyMLjgxepjxhi3r"
+        "name": "Control",
+        "url": "https://open.spotify.com/album/1U6WL5nPYVlW1Y2RTSpzKa"
       },
       "artists": [
         {
-          "name": "MDSN",
-          "url": "https://open.spotify.com/artist/6iv3P2yMTglEHCYNlmNBdD"
+          "name": "Joel Vaughn",
+          "url": "https://open.spotify.com/artist/0LAqQNqZSCpMUXRgONL5iB"
         }
       ],
-      "duration_ms": 199078,
-      "name": "Who We Are",
-      "url": "https://open.spotify.com/track/3iPrzSUiI1PojLdulvGudz"
+      "duration_ms": 199573,
+      "name": "Pray It Up",
+      "url": "https://open.spotify.com/track/5qL47IcceHPr7W8kxK4Wzj"
     },
     {
       "added_at": "2020-08-13 14:39:00",
@@ -559,6 +543,22 @@
       "duration_ms": 177933,
       "name": "Glorify",
       "url": "https://open.spotify.com/track/40jbAp6vAlk9j2KIiGNgvE"
+    },
+    {
+      "added_at": "2020-08-13 14:39:00",
+      "album": {
+        "name": "Who We Are",
+        "url": "https://open.spotify.com/album/3B41USIdyMLjgxepjxhi3r"
+      },
+      "artists": [
+        {
+          "name": "MDSN",
+          "url": "https://open.spotify.com/artist/6iv3P2yMTglEHCYNlmNBdD"
+        }
+      ],
+      "duration_ms": 199078,
+      "name": "Who We Are",
+      "url": "https://open.spotify.com/track/3iPrzSUiI1PojLdulvGudz"
     },
     {
       "added_at": "2020-08-13 14:39:00",
@@ -1083,18 +1083,18 @@
     {
       "added_at": "2020-08-13 14:39:00",
       "album": {
-        "name": "20XX",
-        "url": "https://open.spotify.com/album/7DTBjBDwZqmyslZxC3JrMK"
+        "name": "Sonshine",
+        "url": "https://open.spotify.com/album/5ac7A7sUQdSR1ZnuznpBN7"
       },
       "artists": [
         {
-          "name": "Joshua Micah",
-          "url": "https://open.spotify.com/artist/6pLDSW3de0uRB6cP30krKv"
+          "name": "Swoope",
+          "url": "https://open.spotify.com/artist/78ZdtwvDD5zTElro6EGkcU"
         }
       ],
-      "duration_ms": 244032,
-      "name": "Heart Stops Beating",
-      "url": "https://open.spotify.com/track/0ijnQEqATd4jxvoFYwLBTk"
+      "duration_ms": 311091,
+      "name": "Shining Down",
+      "url": "https://open.spotify.com/track/32xXj2TeK1vrtFDUfFFXEW"
     },
     {
       "added_at": "2020-08-13 14:39:00",
@@ -1119,18 +1119,18 @@
     {
       "added_at": "2020-08-13 14:39:00",
       "album": {
-        "name": "Sonshine",
-        "url": "https://open.spotify.com/album/5ac7A7sUQdSR1ZnuznpBN7"
+        "name": "20XX",
+        "url": "https://open.spotify.com/album/7DTBjBDwZqmyslZxC3JrMK"
       },
       "artists": [
         {
-          "name": "Swoope",
-          "url": "https://open.spotify.com/artist/78ZdtwvDD5zTElro6EGkcU"
+          "name": "Joshua Micah",
+          "url": "https://open.spotify.com/artist/6pLDSW3de0uRB6cP30krKv"
         }
       ],
-      "duration_ms": 311091,
-      "name": "Shining Down",
-      "url": "https://open.spotify.com/track/32xXj2TeK1vrtFDUfFFXEW"
+      "duration_ms": 244032,
+      "name": "Heart Stops Beating",
+      "url": "https://open.spotify.com/track/0ijnQEqATd4jxvoFYwLBTk"
     },
     {
       "added_at": "2020-08-13 14:39:00",
@@ -1459,6 +1459,22 @@
     {
       "added_at": "2020-08-13 14:39:00",
       "album": {
+        "name": "Chasing Quiet",
+        "url": "https://open.spotify.com/album/0a6FXEKKbN0nVdKF9ZIpsg"
+      },
+      "artists": [
+        {
+          "name": "Elizabeth Grace",
+          "url": "https://open.spotify.com/artist/2t0oDEgacnqOQRFJqiTH8s"
+        }
+      ],
+      "duration_ms": 158400,
+      "name": "Chasing Quiet",
+      "url": "https://open.spotify.com/track/1DlqtcXFYM730abZTuudEr"
+    },
+    {
+      "added_at": "2020-08-13 14:39:00",
+      "album": {
         "name": "North Point Worship",
         "url": "https://open.spotify.com/album/4iPLd5iYcr0O0xWLYkRd63"
       },
@@ -1479,22 +1495,6 @@
       "duration_ms": 217386,
       "name": "On My Way Back Home (feat. Seth Condrey & Desi Raines)",
       "url": "https://open.spotify.com/track/7kflzOiWPclh9gn5w16HOn"
-    },
-    {
-      "added_at": "2020-08-13 14:39:00",
-      "album": {
-        "name": "Chasing Quiet",
-        "url": "https://open.spotify.com/album/0a6FXEKKbN0nVdKF9ZIpsg"
-      },
-      "artists": [
-        {
-          "name": "Elizabeth Grace",
-          "url": "https://open.spotify.com/artist/2t0oDEgacnqOQRFJqiTH8s"
-        }
-      ],
-      "duration_ms": 158400,
-      "name": "Chasing Quiet",
-      "url": "https://open.spotify.com/track/1DlqtcXFYM730abZTuudEr"
     },
     {
       "added_at": "2020-08-13 14:39:00",
@@ -1623,22 +1623,6 @@
     {
       "added_at": "2020-08-13 14:39:00",
       "album": {
-        "name": "Light of Your Grace",
-        "url": "https://open.spotify.com/album/5sxF80CaSq5Y2buTMXx3eD"
-      },
-      "artists": [
-        {
-          "name": "Citizens",
-          "url": "https://open.spotify.com/artist/3e7KVnSiZjsBkReSv0L6db"
-        }
-      ],
-      "duration_ms": 189307,
-      "name": "Light of Your Grace",
-      "url": "https://open.spotify.com/track/0VjZsR8TQBaUn9f4tND4J6"
-    },
-    {
-      "added_at": "2020-08-13 14:39:00",
-      "album": {
         "name": "The One",
         "url": "https://open.spotify.com/album/0gj39YFZRHyyle5Z19z5bx"
       },
@@ -1655,6 +1639,22 @@
       "duration_ms": 164832,
       "name": "The One",
       "url": "https://open.spotify.com/track/0YohiWDcWliS7bDrnjlXHp"
+    },
+    {
+      "added_at": "2020-08-13 14:39:00",
+      "album": {
+        "name": "Light of Your Grace",
+        "url": "https://open.spotify.com/album/5sxF80CaSq5Y2buTMXx3eD"
+      },
+      "artists": [
+        {
+          "name": "Citizens",
+          "url": "https://open.spotify.com/artist/3e7KVnSiZjsBkReSv0L6db"
+        }
+      ],
+      "duration_ms": 189307,
+      "name": "Light of Your Grace",
+      "url": "https://open.spotify.com/track/0VjZsR8TQBaUn9f4tND4J6"
     },
     {
       "added_at": "2020-08-13 14:39:00",

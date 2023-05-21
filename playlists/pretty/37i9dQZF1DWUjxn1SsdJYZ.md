@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjxn1SsdJYZ.md) - [plain]
 
 > The best drill, trap and genre bending rap from Australia and NZ\. Cover: Mulalo
 
-[Spotify](https://open.spotify.com/user/spotify) - 137,957 likes - 96 songs - 4 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 137,967 likes - 96 songs - 4 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -105,4 +105,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjxn1SsdJYZ.md) - [plain]
 | 95 | [DIMENSIONS](https://open.spotify.com/track/436I7Rxscv08DWVMUk4wy6) | [Jaecy](https://open.spotify.com/artist/4hd0k0g3b2MLUiw0gPAsee), [JaySounds](https://open.spotify.com/artist/7Cye4LP81AKTIKgABMgmUY) | [DIMENSIONS](https://open.spotify.com/album/58WBG8xpc8PTiGMQVfTzUb) | 2:20 |
 | 96 | [YALLAH!](https://open.spotify.com/track/35xJ6qdU2LpbeQ6xODmraE) | [Brothers](https://open.spotify.com/artist/5XJlnf7mD44GXWHmRGxt0I) | [YALLAH!](https://open.spotify.com/album/2xXrc2ZU2tAu6V9P7nPbBz) | 2:37 |
 
-Snapshot ID: `MCxkOWNkNGI0MmYzMGZjN2RkNmY5MTFiMTc5ZGVjOGQxNGE3ZjlhMmY2`
+Snapshot ID: `MCw4MzViNTMwOTg5NmExZmE3ZjMyMjRiNWU3NDAyYzQ1ZjBiYTJkZWRh`

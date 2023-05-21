@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3HYlktiFpE6.md) - [plain]
 
 > Your favorite a cappella music from Pentatonix, the Glee cast, Pitch Perfect, and more\. Just sing it! Cover: Pentatonix
 
-[Spotify](https://open.spotify.com/user/spotify) - 100,176 likes - 100 songs - 5 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 100,193 likes - 100 songs - 5 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Toto Medley \(feat\. David Paich\)](https://open.spotify.com/track/2PMnqvzEnv5FvLS9jsr5jT) | [Straight No Chaser](https://open.spotify.com/artist/1yQ8S4xdGOGbUcpaPR6hCM), [David Paich](https://open.spotify.com/artist/6zgKTqBOokh6IjLXOO5zfQ) | [Toto Medley \(feat\. David Paich\)](https://open.spotify.com/album/1AG03Bhd06Y5W9m4LZjlQZ) | 4:21 |
+| 1 | [Toto \(feat\. David Paich\)](https://open.spotify.com/track/2PMnqvzEnv5FvLS9jsr5jT) | [Straight No Chaser](https://open.spotify.com/artist/1yQ8S4xdGOGbUcpaPR6hCM), [David Paich](https://open.spotify.com/artist/6zgKTqBOokh6IjLXOO5zfQ) | [Toto](https://open.spotify.com/album/1AG03Bhd06Y5W9m4LZjlQZ) | 4:21 |
 | 2 | [Meant to Be](https://open.spotify.com/track/5oEQ49k6hTkwkaRZ0uKB2I) | [The Filharmonic](https://open.spotify.com/artist/63QppfTaQHZpb8VhSlsvZz), [Melissa Polinar](https://open.spotify.com/artist/2O6S01fSY6YHfZT6qLAgxG) | [Affiliations, Vol\. 3](https://open.spotify.com/album/3VLKGO8HKfqsnAS2XNOlTH) | 2:47 |
 | 3 | [Golden Hour](https://open.spotify.com/track/5UZhZYORv7FLXKIXC5HVNM) | [VoicePlay](https://open.spotify.com/artist/4RuHLdmbr1G9BD5aN63Go3), [Anthony Gargiula](https://open.spotify.com/artist/1UMf29qpHkgsJWD2uCMSEI) | [Golden Hour](https://open.spotify.com/album/0ZnJXzdnInxWoUbGWnhK0i) | 3:35 |
 | 4 | [Delta Dawn](https://open.spotify.com/track/1sBbXkYUzsTnWfuzG0zeaf) | [Home Free](https://open.spotify.com/artist/2MSlGNpwXDScUdspOK6TS7), [Brooke Eden](https://open.spotify.com/artist/6TFhESBLRTi95wmI1dRFVt) | [Delta Dawn](https://open.spotify.com/album/4YdUREiMUTdP4pXVKBCJ6p) | 3:17 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3HYlktiFpE6.md) - [plain]
 | 99 | [Misty Mountains](https://open.spotify.com/track/2Wx6axM4v1d7sjfVFMYtTQ) | [Peter Hollens](https://open.spotify.com/artist/7EIbKyiLnEJ1Y074UIUyZJ) | [Peter Hollens](https://open.spotify.com/album/33UKIAvj9JIi9S1EMimWku) | 4:19 |
 | 100 | [Text Me Merry Christmas \(feat\. Kristen Bell\)](https://open.spotify.com/track/68bjO39GD3JEEL3qAu0bGC) | [Straight No Chaser](https://open.spotify.com/artist/1yQ8S4xdGOGbUcpaPR6hCM), [Kristen Bell](https://open.spotify.com/artist/2kHxkdiKCSnHMkhIgFBZaI) | [Under the Influence: Holiday Edition](https://open.spotify.com/album/0fPXSeM8nko9aSxO6nM1zX) | 2:40 |
 
-Snapshot ID: `MCwxOTJjZjE3MTY0MzgxZTQ0OGEyMmI5MDJkMWM4Y2I2NTlkMzFlMTE4`
+Snapshot ID: `MCwwMDU1ZTk1MGZmYzgyOTUwMGI5YWQ3NDM3OTAwMWUwMGQwOGZiNWUz`

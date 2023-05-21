@@ -1,12 +1,12 @@
 {
   "description": "\u5230\u4e86\u9031\u672b\uff0c\u4f60\u61c9\u8a72\u8a66\u8457\u628a\u67d4\u8edf\u7684\u611f\u89ba\u627e\u56de\u4f86\uff0c\u5c0f\u61a9\u4e00\u4e0b\u3001\u5c0f\u8d70\u4e00\u6bb5\u3001\u5c0f\u914c\u4e00\u676f\u6216\u5c0f\u54ed\u4e00\u5834\u3002",
-  "num_followers": 119629,
+  "num_followers": 119685,
   "original_name": "\u9031\u672b\u6e05\u807d",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3N2YyM2FhYWRmNTc5ODBlM2Y3YWU5MGU2YzIyZjIwZjRiNTNkODc4",
+  "snapshot_id": "MCxhZDM4MDI5N2FjMTFiYTJjY2U1NzM3MzI5YzVkMzMzYzE5OTJlNjEy",
   "tracks": [
     {
       "added_at": "2023-05-18 16:00:00",
@@ -319,22 +319,6 @@
     {
       "added_at": "2023-05-18 16:00:00",
       "album": {
-        "name": "Live House",
-        "url": "https://open.spotify.com/album/4htEin94qouEbMiIyjoEb8"
-      },
-      "artists": [
-        {
-          "name": "Crowd Lu",
-          "url": "https://open.spotify.com/artist/2JBUyLiFvpFPWdZGqIGYLD"
-        }
-      ],
-      "duration_ms": 187820,
-      "name": "Live House",
-      "url": "https://open.spotify.com/track/2EGkI1OjdEIwPc9TOfzdlq"
-    },
-    {
-      "added_at": "2023-05-18 16:00:00",
-      "album": {
         "name": "\u5409\u4ed6\u624b",
         "url": "https://open.spotify.com/album/35QdFULbzmzRWMeH7bHGQR"
       },
@@ -347,6 +331,22 @@
       "duration_ms": 263173,
       "name": "\u592a\u8070\u660e",
       "url": "https://open.spotify.com/track/4DCB1S7G6SmH9qlDpEVIzP"
+    },
+    {
+      "added_at": "2023-05-18 16:00:00",
+      "album": {
+        "name": "Live House",
+        "url": "https://open.spotify.com/album/4htEin94qouEbMiIyjoEb8"
+      },
+      "artists": [
+        {
+          "name": "Crowd Lu",
+          "url": "https://open.spotify.com/artist/2JBUyLiFvpFPWdZGqIGYLD"
+        }
+      ],
+      "duration_ms": 187820,
+      "name": "Live House",
+      "url": "https://open.spotify.com/track/2EGkI1OjdEIwPc9TOfzdlq"
     },
     {
       "added_at": "2023-05-18 16:00:00",
@@ -479,6 +479,22 @@
     {
       "added_at": "2023-05-18 16:00:00",
       "album": {
+        "name": "\u518a\u8449\u4e00:\u4e00\u8207\u4e00",
+        "url": "https://open.spotify.com/album/3rF6e6T98lg8usUISr18oG"
+      },
+      "artists": [
+        {
+          "name": "\u5433\u9752\u5cf0",
+          "url": "https://open.spotify.com/artist/5a5vu4RzsAHdKN0aYyblZ8"
+        }
+      ],
+      "duration_ms": 295025,
+      "name": "\u5e74\u8f2a\u8aaa",
+      "url": "https://open.spotify.com/track/0rkKoFtgXTBSy8MLtwYPmc"
+    },
+    {
+      "added_at": "2023-05-18 16:00:00",
+      "album": {
         "name": "\u60b2\u50b7\u7684\u4e94\u500b\u6b65\u9a5f (Live Session)",
         "url": "https://open.spotify.com/album/2ABskKleNsgFb5qk7IXioh"
       },
@@ -507,22 +523,6 @@
       "duration_ms": 212727,
       "name": "\u6211\u559c\u6b61\u4f60 - Acoustic Version",
       "url": "https://open.spotify.com/track/7DWvcbGGWWtk0edvck09X3"
-    },
-    {
-      "added_at": "2023-05-18 16:00:00",
-      "album": {
-        "name": "\u518a\u8449\u4e00:\u4e00\u8207\u4e00",
-        "url": "https://open.spotify.com/album/3rF6e6T98lg8usUISr18oG"
-      },
-      "artists": [
-        {
-          "name": "\u5433\u9752\u5cf0",
-          "url": "https://open.spotify.com/artist/5a5vu4RzsAHdKN0aYyblZ8"
-        }
-      ],
-      "duration_ms": 295025,
-      "name": "\u5e74\u8f2a\u8aaa",
-      "url": "https://open.spotify.com/track/0rkKoFtgXTBSy8MLtwYPmc"
     },
     {
       "added_at": "2023-05-18 16:00:00",
@@ -575,6 +575,22 @@
     {
       "added_at": "2023-05-18 16:00:00",
       "album": {
+        "name": "\u84cb\u4e16\u82f1\u96c4",
+        "url": "https://open.spotify.com/album/34D46J9tIGCqAj3FeiEA9O"
+      },
+      "artists": [
+        {
+          "name": "Leehom Wang",
+          "url": "https://open.spotify.com/artist/2F5W6Rsxwzg0plQ0w8dSyt"
+        }
+      ],
+      "duration_ms": 286733,
+      "name": "\u7b2c\u4e00\u500b\u6e05\u6668",
+      "url": "https://open.spotify.com/track/4ugY7kSA3vbhvE6YrgDv28"
+    },
+    {
+      "added_at": "2023-05-18 16:00:00",
+      "album": {
         "name": "\u6084\u6084\u544a\u8a34\u4f60",
         "url": "https://open.spotify.com/album/42YXL6YhJBbP2ZM4WMUTkC"
       },
@@ -603,22 +619,6 @@
       "duration_ms": 270227,
       "name": "\u4f60\u4e00\u5b9a\u8981\u5e78\u798f",
       "url": "https://open.spotify.com/track/3CBAIdEjO75HsYyA3FSeOQ"
-    },
-    {
-      "added_at": "2023-05-18 16:00:00",
-      "album": {
-        "name": "\u84cb\u4e16\u82f1\u96c4",
-        "url": "https://open.spotify.com/album/34D46J9tIGCqAj3FeiEA9O"
-      },
-      "artists": [
-        {
-          "name": "Leehom Wang",
-          "url": "https://open.spotify.com/artist/2F5W6Rsxwzg0plQ0w8dSyt"
-        }
-      ],
-      "duration_ms": 286733,
-      "name": "\u7b2c\u4e00\u500b\u6e05\u6668",
-      "url": "https://open.spotify.com/track/4ugY7kSA3vbhvE6YrgDv28"
     },
     {
       "added_at": "2023-05-18 16:00:00",
@@ -783,22 +783,6 @@
     {
       "added_at": "2023-05-18 16:00:00",
       "album": {
-        "name": "\u4f60\u7761\u4e86\u4e4b\u5f8c (The Way I Miss You)",
-        "url": "https://open.spotify.com/album/5iQnFeX0mp0sBrJleZprYj"
-      },
-      "artists": [
-        {
-          "name": "\u5442\u5141",
-          "url": "https://open.spotify.com/artist/0IOTVYHqENzrhSgJQmIkE9"
-        }
-      ],
-      "duration_ms": 250986,
-      "name": "\u4f60\u7761\u4e86\u4e4b\u5f8c (The Way I Miss You)",
-      "url": "https://open.spotify.com/track/7lXB4LaB1PlxvuWZqHn87u"
-    },
-    {
-      "added_at": "2023-05-18 16:00:00",
-      "album": {
         "name": "\u6211\u88ab\u653e\u4e0a\u5929\u7a7a",
         "url": "https://open.spotify.com/album/0mrDA81eWQS79HY5GfF81y"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 266085,
       "name": "\u60f3\u5ff5\u64ec\u4eba\u5316",
       "url": "https://open.spotify.com/track/2QkELHIEQONatqO5ZrE5H7"
+    },
+    {
+      "added_at": "2023-05-18 16:00:00",
+      "album": {
+        "name": "\u5c0f\u6642\u5019\u7684\u6211\u5011",
+        "url": "https://open.spotify.com/album/2GaVDyAX5sgrX5CuWxRhZm"
+      },
+      "artists": [
+        {
+          "name": "Eric Chou",
+          "url": "https://open.spotify.com/artist/5fEQLwq1BWWQNR8GzhOIvi"
+        }
+      ],
+      "duration_ms": 184607,
+      "name": "\u5176\u5be6\u4f60\u4e26\u6c92\u90a3\u9ebc\u5b64\u55ae",
+      "url": "https://open.spotify.com/track/3NpZcmc7txP57fUNcduERB"
     }
   ],
   "unique_name": "\u9031\u672b\u6e05\u807d",

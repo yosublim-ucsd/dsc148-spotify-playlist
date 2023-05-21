@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Hasta las 15! Monster merengue hits! Cover: Eddy Herrera",
-  "num_followers": 381304,
+  "num_followers": 381357,
   "original_name": "Merengue Mania",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmNDk5OTllYTVjNDE2OWIzNjJiMWM3OGFlMjZjZGQ5NGVkYTEwMzJh",
+  "snapshot_id": "MCw4MzAxNWEwMTIxMWRlZTRmNzQxYWE1ZDkwNzg3ZWMwZGVhYzVlNjNm",
   "tracks": [
     {
       "added_at": "2023-05-19 04:00:00",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "La Mujer",
-        "url": "https://open.spotify.com/album/40deup3Khxr7OdrwTtdog6"
-      },
-      "artists": [
-        {
-          "name": "Didi Hernandez",
-          "url": "https://open.spotify.com/artist/4BcT4O9HRp3BUIKTsNtwZH"
-        }
-      ],
-      "duration_ms": 245000,
-      "name": "La Mujer",
-      "url": "https://open.spotify.com/track/2GQ4ey8Dzq8ZkvW15yrl48"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
         "name": "LIMI-T Para Siempre",
         "url": "https://open.spotify.com/album/6tYC7QibL9ENqOc3GSdEHM"
       },
@@ -1051,6 +1035,22 @@
       "duration_ms": 153789,
       "name": "Quiero Quemar La Pista",
       "url": "https://open.spotify.com/track/38PuJLicgcUTFgb7FqmXaJ"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
+        "name": "La Mujer",
+        "url": "https://open.spotify.com/album/40deup3Khxr7OdrwTtdog6"
+      },
+      "artists": [
+        {
+          "name": "Didi Hernandez",
+          "url": "https://open.spotify.com/artist/4BcT4O9HRp3BUIKTsNtwZH"
+        }
+      ],
+      "duration_ms": 245000,
+      "name": "La Mujer",
+      "url": "https://open.spotify.com/track/2GQ4ey8Dzq8ZkvW15yrl48"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -1435,18 +1435,18 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "Jn Music Group 40 A\u00f1os de Merengue Deluxe Edition, Vol. 2",
-        "url": "https://open.spotify.com/album/0JXXIo9JN7EyiHXE4dTqUg"
+        "name": "Juan Luis Guerra Y 440 (Versiones Instrumentales)",
+        "url": "https://open.spotify.com/album/6V0WSIfBhB36oheVJNXh1p"
       },
       "artists": [
         {
-          "name": "Bonny Cepeda",
-          "url": "https://open.spotify.com/artist/1dI3emu3Tf6ZydmpCEZmqx"
+          "name": "Rey Casas",
+          "url": "https://open.spotify.com/artist/6oPOLmEagKe5lp1gedzGtk"
         }
       ],
-      "duration_ms": 244000,
-      "name": "Una Fotograf\u00eda",
-      "url": "https://open.spotify.com/track/0Ur4zvtBeZ6T9dhHCoGuSW"
+      "duration_ms": 148986,
+      "name": "El Costo De La Vida",
+      "url": "https://open.spotify.com/track/5BQtqpUWEWujNim7fS5T6h"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -1467,18 +1467,18 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "Juan Luis Guerra Y 440 (Versiones Instrumentales)",
-        "url": "https://open.spotify.com/album/6V0WSIfBhB36oheVJNXh1p"
+        "name": "Jn Music Group 40 A\u00f1os de Merengue Deluxe Edition, Vol. 2",
+        "url": "https://open.spotify.com/album/0JXXIo9JN7EyiHXE4dTqUg"
       },
       "artists": [
         {
-          "name": "Rey Casas",
-          "url": "https://open.spotify.com/artist/6oPOLmEagKe5lp1gedzGtk"
+          "name": "Bonny Cepeda",
+          "url": "https://open.spotify.com/artist/1dI3emu3Tf6ZydmpCEZmqx"
         }
       ],
-      "duration_ms": 148986,
-      "name": "El Costo De La Vida",
-      "url": "https://open.spotify.com/track/5BQtqpUWEWujNim7fS5T6h"
+      "duration_ms": 244000,
+      "name": "Una Fotograf\u00eda",
+      "url": "https://open.spotify.com/track/0Ur4zvtBeZ6T9dhHCoGuSW"
     },
     {
       "added_at": "2023-05-19 04:00:00",

@@ -4,7 +4,7 @@
 
 > All new indie rock\. Featuring new music from Krooked Kings
 
-988 songs - 2 day 5 hr 46 min
+989 songs - 2 day 5 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -170,7 +170,8 @@
 | [Can't Be What You Think](https://open.spotify.com/track/42c4zQXbM14DbksotK3Cq7) | [Sports](https://open.spotify.com/artist/4AGNJdJiVltImYk1UTLE0K) | [Can't Be What You Think](https://open.spotify.com/album/4wiyYbZodR1G7BY2V2GEW5) | 3:21 | 2021-11-19 | 2022-04-19 |
 | [Cannonball](https://open.spotify.com/track/40ipIQoiI8Dg58yPbe4S5X) | [Michigander](https://open.spotify.com/artist/0oL26Dn9y761yfJgNb3vfu) | [It Will Never Be The Same](https://open.spotify.com/album/0yIOi8b3saNbLzoxIqKWCX) | 4:05 | 2023-03-31 |  |
 | [cant celebrate](https://open.spotify.com/track/7FASEsOoEfBpUjdkIuz40V) | [Yot Club](https://open.spotify.com/artist/6FugQjLquBF4JzATRN70bR) | [cant celebrate](https://open.spotify.com/album/7feZHa1JhU5fizfntgl46E) | 4:14 | 2022-04-29 | 2022-06-10 |
-| [Carry On](https://open.spotify.com/track/7DCUovUQQadbbid2HGF7ae) | [Summer Salt](https://open.spotify.com/artist/3MATPJ9tYbcMhw5VOZrRU6) | [Carry On](https://open.spotify.com/album/6X6fxlY1QU0ZUfeJ5sdzt3) | 2:51 | 2023-04-28 |  |
+| [Carry On](https://open.spotify.com/track/5rvc8Bi2rNLRHIU1zPJG1v) | [Summer Salt](https://open.spotify.com/artist/3MATPJ9tYbcMhw5VOZrRU6) | [Campanita](https://open.spotify.com/album/41FeoNfcFYVQfGSTJkcC5W) | 2:51 | 2023-04-28 |  |
+| [Carry On](https://open.spotify.com/track/7DCUovUQQadbbid2HGF7ae) | [Summer Salt](https://open.spotify.com/artist/3MATPJ9tYbcMhw5VOZrRU6) | [Carry On](https://open.spotify.com/album/6X6fxlY1QU0ZUfeJ5sdzt3) | 2:51 | 2023-04-28 | 2023-05-21 |
 | [Carry You Home](https://open.spotify.com/track/57jJsS1qNk12kOUHcRpJMm) | [Circa Waves](https://open.spotify.com/artist/6hl5k4gLl1p3sjhHcb57t2) | [Carry You Home](https://open.spotify.com/album/1W7Xuqc9isSe0erfFGZFpR) | 3:19 | 2022-12-02 | 2023-04-01 |
 | [Cartoon Earthquake \- Spotify Singles](https://open.spotify.com/track/31Xrzr7jkdFQDLnfLzVAjh) | [Blondshell](https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij) | [Cartoon Earthquake \- Spotify Singles](https://open.spotify.com/album/0ujNd7WjAj2jqv6OjmJzv1) | 3:25 | 2022-10-21 | 2022-12-08 |
 | [Caviar](https://open.spotify.com/track/3dVEczMTQzFRhbVW1IwfcD) | [Wavves](https://open.spotify.com/artist/6bUJpbekaIlq2fT5FMV2mQ) | [Caviar](https://open.spotify.com/album/5VyfBBQi8Y8B20VTiS5ubz) | 3:47 | 2021-07-19 | 2022-04-08 |

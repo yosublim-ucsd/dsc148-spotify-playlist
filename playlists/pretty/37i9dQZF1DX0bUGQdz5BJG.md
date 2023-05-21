@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0bUGQdz5BJG.md) - [plain]
 
 > Music City must\-hears\. Cover: Meghan Patrick
 
-[Spotify](https://open.spotify.com/user/spotify) - 157,265 likes - 200 songs - 10 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 157,397 likes - 200 songs - 10 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0bUGQdz5BJG.md) - [plain]
 | 199 | [End in Boyfriend](https://open.spotify.com/track/7BcRfZxDshqtNtnczgOnzF) | [Hayley Payne](https://open.spotify.com/artist/7HDvUJmcXXT0jsg6Z0pj29) | [End in Boyfriend](https://open.spotify.com/album/23Tr0A2RvdlfPKNjk6YHD1) | 2:55 |
 | 200 | [Whiskey On It](https://open.spotify.com/track/7lrRs5qpyOEZxJyDPRiRLd) | [Clayton Mullen](https://open.spotify.com/artist/6iRDBNeREg0Je2y9LZzD2g) | [Whiskey On It](https://open.spotify.com/album/75uLNENdy6zkKu4Sv92PCb) | 2:57 |
 
-Snapshot ID: `MCw5MGUwNzU4ODFjN2VhN2NhZmQ2MTI2ZjhmYzFiMTZjNDA5ZDA0Mjgy`
+Snapshot ID: `MCw3ZGRkYTRlY2E4MDY3ZjEzNWQzMTU4MDZiOGIyMTVmODkzYzhkNDU2`

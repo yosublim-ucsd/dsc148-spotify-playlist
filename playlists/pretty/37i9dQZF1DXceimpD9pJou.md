@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXceimpD9pJou.md) - [plain]
 
 > Las mejores nuevas canciones cristianas\.  Foto:   <a href="https://open.spotify.com/artist/6YgYm3f9ifsz4OwQt8jql7?si=50d4e81e352148ee">WHATUPRG</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 125,322 likes - 100 songs - 6 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 125,417 likes - 100 songs - 6 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXceimpD9pJou.md) - [plain]
 | 9 | [Profundamente Te Amo](https://open.spotify.com/track/6khbvjPfp0QkviDsoMzu6D) | [Su Presencia](https://open.spotify.com/artist/2gaFnEQydJdWNkT17NLZm3) | [Profundamente Te Amo](https://open.spotify.com/album/6olZVnNByogcKYLYfPvt2N) | 4:19 |
 | 10 | [Hermoso Dios](https://open.spotify.com/track/0wFQSfzlcqszUHyMSvI3TM) | [Felipe S\. Santos](https://open.spotify.com/artist/2CDj0rjKfUgyXeSazcfPHJ), [Marcos Brunet](https://open.spotify.com/artist/7cLoxFihGCVL3s1K3xHK4I), [Lucas Conslie](https://open.spotify.com/artist/20uZDxss82sidLBxEyjnD1), [UPPERROOM](https://open.spotify.com/artist/107CG0UhUl9GJnPwF83N63) | [Hermoso Dios](https://open.spotify.com/album/0ADgip6GPNW6pLZQv07DIZ) | 8:12 |
 | 11 | [Autor de la Vida](https://open.spotify.com/track/02fmpDq2GyqhbPwbIR0AMX) | [Juanitta](https://open.spotify.com/artist/5Y3zg9KZRD81IZYeKCPLnW), [Sara Borraez](https://open.spotify.com/artist/5GsoiNOyYerVge1J6FHH3u) | [Autor de la Vida](https://open.spotify.com/album/5a5cT41VKF25jgO02ArTIG) | 4:25 |
-| 12 | [Dia De Milagres](https://open.spotify.com/track/6O2R8WvZMTqCY8qrzgaHoT) | [Lakewood Music](https://open.spotify.com/artist/6SppFn5ihgxDw7tdfthnaK), [Thalles Roberto](https://open.spotify.com/artist/2Js5EdWOVgL2B2CbtXr5n1), [Jafet Lora](https://open.spotify.com/artist/0wH2ySEIKXfNCnxKPietAj) | [Dia De Milagres](https://open.spotify.com/album/5HAEqBs5oAlXReyhPPYYsQ) | 4:22 |
+| 12 | [Dia De Milagres](https://open.spotify.com/track/6O2R8WvZMTqCY8qrzgaHoT) | [Lakewood Music](https://open.spotify.com/artist/6SppFn5ihgxDw7tdfthnaK), [Ramiro Garcia](https://open.spotify.com/artist/32tEqBlwNmhk5cYycFIbxZ), [Thalles Roberto](https://open.spotify.com/artist/2Js5EdWOVgL2B2CbtXr5n1) | [Dia De Milagres](https://open.spotify.com/album/5HAEqBs5oAlXReyhPPYYsQ) | 4:22 |
 | 13 | [Tu Eres Señor](https://open.spotify.com/track/6Lgo5bS0uVGeD3DDqMWxVL) | [Gerardo Anderson](https://open.spotify.com/artist/0MEOnNTv5stxYLQiyztTav) | [Tu Eres Señor](https://open.spotify.com/album/7cz1qtfuL2nyMY5vCXjkXW) | 4:31 |
 | 14 | [Coritos Medley](https://open.spotify.com/track/7nVeydiS8ivRIZRkOXIir6) | [Joseph Espinoza](https://open.spotify.com/artist/3ecc3WKGzs3ejPlL3M17R3) | [Coritos Medley](https://open.spotify.com/album/1xigKLxNn8HKJtoVWKmVhM) | 10:44 |
 | 15 | [Nadie Pudo Amarme Como Cristo](https://open.spotify.com/track/2hldaNbL8qQxmb4XFLgN5T) | [Josh Lopez](https://open.spotify.com/artist/0qSGHbYMTrls3ruaGGemBE), [Yolanda Alvarez](https://open.spotify.com/artist/5KE93Kw9I5CIjmXZzoVHjn) | [Nadie Pudo Amarme Como Cristo](https://open.spotify.com/album/7kvklS4E94G3X82g81wtJJ) | 3:49 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXceimpD9pJou.md) - [plain]
 | 99 | [En casa de papá \- En vivo](https://open.spotify.com/track/6H9e3c3JfpOe2NynvNct4f) | [Factor de Cambio](https://open.spotify.com/artist/4diJ4cXKwaaGZZn5L9G7cb), [Selah Worship](https://open.spotify.com/artist/5pkxw9IRzdoM4QpxMi1YNA) | [En casa de papá \(En vivo\)](https://open.spotify.com/album/52NPltumrGeukrPEo2m6Fs) | 5:45 |
 | 100 | [Danzaré](https://open.spotify.com/track/53Ua5aEgNbaFNI7w0j8ttw) | [ORU Worship](https://open.spotify.com/artist/3XvSZYeUxdDanuZzJJ8Uuv) | [Danzaré](https://open.spotify.com/album/3XBSouiYdwrmNZdPTA0cpH) | 4:19 |
 
-Snapshot ID: `MCxiMDNmYWMwMzk5Nzc1MDU0MzIyOWUyN2I4ZTY4MGE1NmE3MDRlMGI3`
+Snapshot ID: `MCw1N2U0YTQ0YjM3YWFhOWJkM2I2NTlmOTgzYTRiOGYyNzFhMGE5Mjhk`

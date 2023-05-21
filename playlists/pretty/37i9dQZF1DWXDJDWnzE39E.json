@@ -1,12 +1,12 @@
 {
   "description": "A salute to all of the women opening up the pit. Cover: Conquer Divide ",
-  "num_followers": 621274,
+  "num_followers": 621479,
   "original_name": "Heavy Queens",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4ZWE1OWQwYTMyYjk0NmE0ZjQ2MDI5YmUxMWQxNWZjMzg0NmQxYTgx",
+  "snapshot_id": "MCwzMGZkNTc5ZjJkZGRkYmMzOGU5YzA3MDcxZjczZDU2MTY2YmNhYTVm",
   "tracks": [
     {
       "added_at": "2023-05-18 18:39:10",
@@ -867,22 +867,6 @@
     {
       "added_at": "2023-05-18 18:39:10",
       "album": {
-        "name": "Abyss",
-        "url": "https://open.spotify.com/album/35Tw2Ofk21iMTXTSW3i8sD"
-      },
-      "artists": [
-        {
-          "name": "Unleash The Archers",
-          "url": "https://open.spotify.com/artist/6irKXFXk2sPNmHtKqmrfuU"
-        }
-      ],
-      "duration_ms": 404093,
-      "name": "Abyss",
-      "url": "https://open.spotify.com/track/2H6DMvpLd9tmW7kjjZO3Oy"
-    },
-    {
-      "added_at": "2023-05-18 18:39:10",
-      "album": {
         "name": "Death By Rock And Roll",
         "url": "https://open.spotify.com/album/2ysgEIHY4aOMMbbu0uV6ey"
       },
@@ -899,6 +883,22 @@
       "duration_ms": 270226,
       "name": "And So It Went [Feat. Tom Morello]",
       "url": "https://open.spotify.com/track/50yV9WzI1A98KAWjZC5oqw"
+    },
+    {
+      "added_at": "2023-05-18 18:39:10",
+      "album": {
+        "name": "Abyss",
+        "url": "https://open.spotify.com/album/35Tw2Ofk21iMTXTSW3i8sD"
+      },
+      "artists": [
+        {
+          "name": "Unleash The Archers",
+          "url": "https://open.spotify.com/artist/6irKXFXk2sPNmHtKqmrfuU"
+        }
+      ],
+      "duration_ms": 404093,
+      "name": "Abyss",
+      "url": "https://open.spotify.com/track/2H6DMvpLd9tmW7kjjZO3Oy"
     },
     {
       "added_at": "2023-05-18 18:39:10",
@@ -1003,6 +1003,22 @@
     {
       "added_at": "2023-05-18 18:39:10",
       "album": {
+        "name": "Ultraviolet",
+        "url": "https://open.spotify.com/album/3shvTPBaqgggoWWKIZXC94"
+      },
+      "artists": [
+        {
+          "name": "As Everything Unfolds",
+          "url": "https://open.spotify.com/artist/28IImD2QqPWTQ2cWgOMQNT"
+        }
+      ],
+      "duration_ms": 232608,
+      "name": "Ultraviolet",
+      "url": "https://open.spotify.com/track/4mB4OnvJp7Grfw5U8AQMz9"
+    },
+    {
+      "added_at": "2023-05-18 18:39:10",
+      "album": {
         "name": "Chapter I - Monarchy",
         "url": "https://open.spotify.com/album/4oc3Yo2BGbUofcp36YBIzX"
       },
@@ -1015,26 +1031,6 @@
       "duration_ms": 229880,
       "name": "See You In Hell",
       "url": "https://open.spotify.com/track/5JfXImbIiGSH2tOUWnGJty"
-    },
-    {
-      "added_at": "2023-05-18 18:39:10",
-      "album": {
-        "name": "Popular Monster",
-        "url": "https://open.spotify.com/album/73OBNhPJKktJ2cQFh0x1VC"
-      },
-      "artists": [
-        {
-          "name": "Halocene",
-          "url": "https://open.spotify.com/artist/1S4xN9nvW5vlFoRBisdxUL"
-        },
-        {
-          "name": "Lauren Babic",
-          "url": "https://open.spotify.com/artist/6nT7RjBCuuggrafnb43vUX"
-        }
-      ],
-      "duration_ms": 230181,
-      "name": "Popular Monster",
-      "url": "https://open.spotify.com/track/3BqzUoMXksxJZ0dqtPMiWo"
     },
     {
       "added_at": "2023-05-18 18:39:10",
@@ -1055,18 +1051,22 @@
     {
       "added_at": "2023-05-18 18:39:10",
       "album": {
-        "name": "Ultraviolet",
-        "url": "https://open.spotify.com/album/3shvTPBaqgggoWWKIZXC94"
+        "name": "Popular Monster",
+        "url": "https://open.spotify.com/album/73OBNhPJKktJ2cQFh0x1VC"
       },
       "artists": [
         {
-          "name": "As Everything Unfolds",
-          "url": "https://open.spotify.com/artist/28IImD2QqPWTQ2cWgOMQNT"
+          "name": "Halocene",
+          "url": "https://open.spotify.com/artist/1S4xN9nvW5vlFoRBisdxUL"
+        },
+        {
+          "name": "Lauren Babic",
+          "url": "https://open.spotify.com/artist/6nT7RjBCuuggrafnb43vUX"
         }
       ],
-      "duration_ms": 232608,
-      "name": "Ultraviolet",
-      "url": "https://open.spotify.com/track/4mB4OnvJp7Grfw5U8AQMz9"
+      "duration_ms": 230181,
+      "name": "Popular Monster",
+      "url": "https://open.spotify.com/track/3BqzUoMXksxJZ0dqtPMiWo"
     },
     {
       "added_at": "2023-05-18 18:39:10",
@@ -1315,18 +1315,18 @@
     {
       "added_at": "2023-05-18 18:39:10",
       "album": {
-        "name": "Who Are The Girls?",
-        "url": "https://open.spotify.com/album/1lGzgx8IIetmm9vKcu3qtE"
+        "name": "The Bitter Truth",
+        "url": "https://open.spotify.com/album/4MYCjsaDaemi8Lmkj5PzkL"
       },
       "artists": [
         {
-          "name": "Nova Twins",
-          "url": "https://open.spotify.com/artist/7I95CM75shzCjHuTzrepjM"
+          "name": "Evanescence",
+          "url": "https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c"
         }
       ],
-      "duration_ms": 201013,
-      "name": "Taxi",
-      "url": "https://open.spotify.com/track/1QMEkvlfhW8pthNN5QWlnm"
+      "duration_ms": 210848,
+      "name": "Yeah Right",
+      "url": "https://open.spotify.com/track/56vERCP53h8nSEyco7TwxO"
     }
   ],
   "unique_name": "Heavy Queens",

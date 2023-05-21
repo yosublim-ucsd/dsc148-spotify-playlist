@@ -1,12 +1,12 @@
 {
   "description": "African Praise music taking you all the way up!",
-  "num_followers": 1471,
+  "num_followers": 1499,
   "original_name": "Higher",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1MGE2OWYyOGI0MDEzYWE5NmJmMTUzYzZmZjBmZmU1NThmNGI1NTdl",
+  "snapshot_id": "MCwyMjZjODcxYzczNDVlYjk3ZTVlYTFhNDE0MGQ5ZjZiN2NiYjY0ZmIy",
   "tracks": [
     {
       "added_at": "2023-04-14 16:41:04",
@@ -695,38 +695,6 @@
     {
       "added_at": "2023-04-14 16:41:04",
       "album": {
-        "name": "Grateful Hearts",
-        "url": "https://open.spotify.com/album/2FgtNPBfKJVBq4nc4qjCxq"
-      },
-      "artists": [
-        {
-          "name": "Joyful Way Incorporated",
-          "url": "https://open.spotify.com/artist/5DdIfWrYhLhQCi2jusXZnM"
-        }
-      ],
-      "duration_ms": 850671,
-      "name": "Ghana Praise Medley: Aye / Ayeyi / Se Nea me te / Onyameba / Yesu Anaa / W'aka Nea maye nyinaa / Glory Be to God / Who Has the Final Day",
-      "url": "https://open.spotify.com/track/42nQ9vfTQsw4JCG2UOSnl5"
-    },
-    {
-      "added_at": "2023-04-14 16:41:04",
-      "album": {
-        "name": "Amen",
-        "url": "https://open.spotify.com/album/5RTLtWTO9qyUzwn0Eps3cY"
-      },
-      "artists": [
-        {
-          "name": "KODA",
-          "url": "https://open.spotify.com/artist/5nCnnoitr6BO4g5sEIEDkB"
-        }
-      ],
-      "duration_ms": 254047,
-      "name": "Amen",
-      "url": "https://open.spotify.com/track/0xzJ4tttj4yidyKPgnXdYY"
-    },
-    {
-      "added_at": "2023-04-14 16:41:04",
-      "album": {
         "name": "Omeriwo",
         "url": "https://open.spotify.com/album/76sBUYUu76JYwbMZ8K1dwP"
       },
@@ -747,6 +715,38 @@
       "duration_ms": 218384,
       "name": "Omeriwo",
       "url": "https://open.spotify.com/track/65tGleT9TqETxPXyjLf6Es"
+    },
+    {
+      "added_at": "2023-04-14 16:41:04",
+      "album": {
+        "name": "Amen",
+        "url": "https://open.spotify.com/album/5RTLtWTO9qyUzwn0Eps3cY"
+      },
+      "artists": [
+        {
+          "name": "KODA",
+          "url": "https://open.spotify.com/artist/5nCnnoitr6BO4g5sEIEDkB"
+        }
+      ],
+      "duration_ms": 254047,
+      "name": "Amen",
+      "url": "https://open.spotify.com/track/0xzJ4tttj4yidyKPgnXdYY"
+    },
+    {
+      "added_at": "2023-04-14 16:41:04",
+      "album": {
+        "name": "Grateful Hearts",
+        "url": "https://open.spotify.com/album/2FgtNPBfKJVBq4nc4qjCxq"
+      },
+      "artists": [
+        {
+          "name": "Joyful Way Incorporated",
+          "url": "https://open.spotify.com/artist/5DdIfWrYhLhQCi2jusXZnM"
+        }
+      ],
+      "duration_ms": 850671,
+      "name": "Ghana Praise Medley: Aye / Ayeyi / Se Nea me te / Onyameba / Yesu Anaa / W'aka Nea maye nyinaa / Glory Be to God / Who Has the Final Day",
+      "url": "https://open.spotify.com/track/42nQ9vfTQsw4JCG2UOSnl5"
     },
     {
       "added_at": "2023-04-14 16:41:04",

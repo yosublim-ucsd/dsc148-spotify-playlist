@@ -1,12 +1,12 @@
 {
   "description": "100% Pinoy hits from your favorite artists! Cover: Sarah Geronimo",
-  "num_followers": 2403011,
+  "num_followers": 2403494,
   "original_name": "OPM Favorites",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjZDhiNzM4MzJhZjQ3YTQzOWI5NTU5ZmE3OTVmNjBmMDM2N2EwZmQz",
+  "snapshot_id": "MCxhNzI3MjNhM2RkNjY1NTc1OWM1MzNjM2UwNGRkYjU0NTI1ZDlmYTVj",
   "tracks": [
     {
       "added_at": "2023-04-03 07:21:01",
@@ -647,8 +647,8 @@
     {
       "added_at": "2023-04-03 07:21:01",
       "album": {
-        "name": "Monodramatic",
-        "url": "https://open.spotify.com/album/0fWuyWoKTJty03n7xpCrEe"
+        "name": "Langit. Luha.",
+        "url": "https://open.spotify.com/album/1rBuCNm7bhrcDVMAETBXVA"
       },
       "artists": [
         {
@@ -656,9 +656,9 @@
           "url": "https://open.spotify.com/artist/4nGp682WMiKS4X217kPw8C"
         }
       ],
-      "duration_ms": 253360,
-      "name": "Sa'yo",
-      "url": "https://open.spotify.com/track/3WLDRtRzbKDNZW5AZaAvk0"
+      "duration_ms": 241029,
+      "name": "Pasensya Ka Na",
+      "url": "https://open.spotify.com/track/5VPxHpJcJEJx9CMMiO7pBE"
     },
     {
       "added_at": "2023-04-03 07:21:01",
@@ -727,8 +727,8 @@
     {
       "added_at": "2023-04-03 07:21:01",
       "album": {
-        "name": "Langit. Luha.",
-        "url": "https://open.spotify.com/album/1rBuCNm7bhrcDVMAETBXVA"
+        "name": "Monodramatic",
+        "url": "https://open.spotify.com/album/0fWuyWoKTJty03n7xpCrEe"
       },
       "artists": [
         {
@@ -736,9 +736,9 @@
           "url": "https://open.spotify.com/artist/4nGp682WMiKS4X217kPw8C"
         }
       ],
-      "duration_ms": 241029,
-      "name": "Pasensya Ka Na",
-      "url": "https://open.spotify.com/track/5VPxHpJcJEJx9CMMiO7pBE"
+      "duration_ms": 253360,
+      "name": "Sa'yo",
+      "url": "https://open.spotify.com/track/3WLDRtRzbKDNZW5AZaAvk0"
     },
     {
       "added_at": "2023-04-03 07:21:01",
@@ -839,18 +839,18 @@
     {
       "added_at": "2023-04-03 07:21:01",
       "album": {
-        "name": "Umaga",
-        "url": "https://open.spotify.com/album/5HbJHrOnlSh1DImDXXYW1N"
+        "name": "Maybe This Time (From \"Maybe This Time\")",
+        "url": "https://open.spotify.com/album/0BGReR0ClYIme8zAabt53h"
       },
       "artists": [
         {
-          "name": "The Juans",
-          "url": "https://open.spotify.com/artist/1YlibpAvhJBbMZMBwN1KGv"
+          "name": "Sarah Geronimo",
+          "url": "https://open.spotify.com/artist/6aiCKnIN68hohzU3ZzNq48"
         }
       ],
-      "duration_ms": 303937,
-      "name": "Hindi Tayo Pwede",
-      "url": "https://open.spotify.com/track/47DgfSmVQVwHkJJct5c3sV"
+      "duration_ms": 255608,
+      "name": "Maybe This Time - From \"Maybe This Time\"",
+      "url": "https://open.spotify.com/track/0Dljpp52vCmtXi0E94qjfo"
     }
   ],
   "unique_name": "OPM Favorites",

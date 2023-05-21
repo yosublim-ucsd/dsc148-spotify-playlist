@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX26pZI5rk3y9.md) - [plain]
 
 > Classic music for cooking and eating with friends.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,772 likes - 70 songs - 3 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,799 likes - 70 songs - 3 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,11 +52,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX26pZI5rk3y9.md) - [plain]
 | 42 | [Pigmeat](https://open.spotify.com/track/6855kD5Pfhw6QkZhQEWB5S) | [Lead Belly](https://open.spotify.com/artist/3Ovf2lytXSXWFM2cwsJACC) | [Lead Belly: The Smithsonian Folkways Collection](https://open.spotify.com/album/6X1f7MHfF9JIk33D0xhPmK) | 2:32 |
 | 43 | [Ridin'](https://open.spotify.com/track/5ADvR8iDQb0h1EIRLvqR1U) | [Eric Bibb](https://open.spotify.com/artist/2uNcfNhlVJUyEX0t0NG1m1) | [Ridin'](https://open.spotify.com/album/1a6ae4VcrzwUEOCJ1lDZpq) | 5:23 |
 | 44 | [Barbecue Blues](https://open.spotify.com/track/2u79q6tWAomR9FccXbHD2m) | [Barbecue Bob](https://open.spotify.com/artist/5L8FCi81vASYMJNWbODEDZ) | [Barbecue Bob Vol\. 1 \(1927 \- 1928\)](https://open.spotify.com/album/4qi0icQEhM64kJQwYZtx31) | 3:12 |
-| 45 | [The Fish](https://open.spotify.com/track/2KyZPxIKzw4skONqNfKEzB) | [Big Mama Thornton](https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO) | [Guitar Women, Vol.4](https://open.spotify.com/album/7wlp6DWh36rHDUiteuu1yj) | 2:41 |
-| 46 | [Blues For The Barbecue](https://open.spotify.com/track/1OkKAb7CzQ8NcjIyMbD5sm) | [Count Basie](https://open.spotify.com/artist/2jFZlvIea42ZvcCw4OeEdA) | [Farmer's Market Barbecue](https://open.spotify.com/album/3Y2knKkX83CKkc4LtyOH9B) | 10:27 |
+| 45 | [Blues For The Barbecue](https://open.spotify.com/track/1OkKAb7CzQ8NcjIyMbD5sm) | [Count Basie](https://open.spotify.com/artist/2jFZlvIea42ZvcCw4OeEdA) | [Farmer's Market Barbecue](https://open.spotify.com/album/3Y2knKkX83CKkc4LtyOH9B) | 10:27 |
+| 46 | [The Fish](https://open.spotify.com/track/2KyZPxIKzw4skONqNfKEzB) | [Big Mama Thornton](https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO) | [Guitar Women, Vol.4](https://open.spotify.com/album/7wlp6DWh36rHDUiteuu1yj) | 2:41 |
 | 47 | [These Kind of Blues](https://open.spotify.com/track/6Tol0gzzgXshMaiBkvLoWc) | [Junior Parker](https://open.spotify.com/artist/6XYy5PbBFvsABSY2ZS6R8u) | [Next Time You See Me](https://open.spotify.com/album/47tUqkIpGOM1Mpn8dkCzmx) | 3:11 |
-| 48 | [Two Bugs And A Roach](https://open.spotify.com/track/4ry79KsP0Mbhp4lrg3z3cG) | [Earl Hooker](https://open.spotify.com/artist/3Ev1WS21x5Jav9j214A19O) | [Blues Roots](https://open.spotify.com/album/7lXGZuaIQXrvNRGVldoDoS) | 4:15 |
-| 49 | [Get the Moon Up](https://open.spotify.com/track/3OU19imtvnEfnNbMwiyRDO) | [Daniel Norgren](https://open.spotify.com/artist/6swk8GFDoEZ1cFDX70xyuO) | [Horrifying Deatheating Bloodspider](https://open.spotify.com/album/2AofxKR1xww94PPlpswmNs) | 2:15 |
+| 48 | [Get the Moon Up](https://open.spotify.com/track/3OU19imtvnEfnNbMwiyRDO) | [Daniel Norgren](https://open.spotify.com/artist/6swk8GFDoEZ1cFDX70xyuO) | [Horrifying Deatheating Bloodspider](https://open.spotify.com/album/2AofxKR1xww94PPlpswmNs) | 2:15 |
+| 49 | [Two Bugs And A Roach](https://open.spotify.com/track/4ry79KsP0Mbhp4lrg3z3cG) | [Earl Hooker](https://open.spotify.com/artist/3Ev1WS21x5Jav9j214A19O) | [Blues Roots](https://open.spotify.com/album/7lXGZuaIQXrvNRGVldoDoS) | 4:15 |
 | 50 | [Wet Hayshark](https://open.spotify.com/track/6kQHH7KLnEQqzK1gULf0Wd) | [B.B\. King](https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U) | [In London](https://open.spotify.com/album/7t8bhkUdwrD4nsilxsaW78) | 2:28 |
 | 51 | [Gimme a Pigfoot and a Bottle of Beer](https://open.spotify.com/track/4eCps1RgnG8Oua8JzxbweS) | [Bessie Smith](https://open.spotify.com/artist/5ESobCkc6JI4tIMxQttqeg) | [The Complete Recordings, Vol\. 5: The Final Chapter](https://open.spotify.com/album/7eQ9VnRlRUSdmMjQM13Rl3) | 3:30 |
 | 52 | [Blue Monday \- Remastered](https://open.spotify.com/track/5fdRjb9VYm1a8a1FvjhXP4) | [Smiley Lewis](https://open.spotify.com/artist/01PkggcasHgNtRfgRw51Kk) | [The Big Beat Of Dave Bartholomew: 20 Milestone Dave Bartholomew Productions 1949\-1960](https://open.spotify.com/album/4G6NddtuU6vDjErHhtiMuj) | 2:42 |
@@ -69,9 +69,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX26pZI5rk3y9.md) - [plain]
 | 59 | [She Cooks Me Cabbage](https://open.spotify.com/track/4wZVNQzKZdXCmXkIkxHpEm) | [Champion Jack Dupree](https://open.spotify.com/artist/1NnRjWELSLqFONDhwc8VU7) | [Blues For Everybody](https://open.spotify.com/album/5aeSZ1I8JmdIr9JUXXOEM7) | 2:36 |
 | 60 | [Gumbo Blues](https://open.spotify.com/track/1jOy5uKsWOVwT0ssWh3wwG) | [Smiley Lewis](https://open.spotify.com/artist/01PkggcasHgNtRfgRw51Kk) | [Presenting Smiley Lewis](https://open.spotify.com/album/3cq9NzO0h25zvXqhvxJzIj) | 2:25 |
 | 61 | [Scotchin' with Soda](https://open.spotify.com/track/2Yvble8xC3hchiHbUo7k8q) | [Slim Gaillard](https://open.spotify.com/artist/4aKlL2BE2kPNNtruAQqRA1) | [Atomic Cocktail \- Legendary Slim Gaillard](https://open.spotify.com/album/01zjDSjc9s3pQD3RO1h3d2) | 2:47 |
-| 62 | [I Got Your Ice Cold Nugrape](https://open.spotify.com/track/7KT45iHFhTezh2VOOey2P3) | [Nugrape Twins](https://open.spotify.com/artist/3S5o8FwoqthC50wxGbnrdM) | [The Road Is Rough and Rocky](https://open.spotify.com/album/1dA2ra5W0ZDUJEAKR0yV7U) | 2:56 |
+| 62 | [Hoochie Coochie Man](https://open.spotify.com/track/3lDLqXnamAIxbKTgajock5) | [The Art Wood Combo](https://open.spotify.com/artist/4bfCsMIyfQxp92CNvlVlCw) | [Steady Gettin' It: The Complete Recordings 1964\-67](https://open.spotify.com/album/2KBGPjuA5QSBJmofyF8MT1) | 2:52 |
 | 63 | [Mama, What About Your Daughter \- Single Version](https://open.spotify.com/track/2yZMo5D2UFFEuesZu63zrz) | [J.B\. Lenoir](https://open.spotify.com/artist/3enRG6NEAfCkJI2muGcnT1) | [Martin Scorsese Presents The Blues: J.B\. Lenoir](https://open.spotify.com/album/1aVJKuACd5SQwCJHVlUtPt) | 2:29 |
-| 64 | [Hoochie Coochie Man](https://open.spotify.com/track/3lDLqXnamAIxbKTgajock5) | [The Art Wood Combo](https://open.spotify.com/artist/4bfCsMIyfQxp92CNvlVlCw) | [Steady Gettin' It: The Complete Recordings 1964\-67](https://open.spotify.com/album/2KBGPjuA5QSBJmofyF8MT1) | 2:52 |
+| 64 | [I Got Your Ice Cold Nugrape](https://open.spotify.com/track/7KT45iHFhTezh2VOOey2P3) | [Nugrape Twins](https://open.spotify.com/artist/3S5o8FwoqthC50wxGbnrdM) | [The Road Is Rough and Rocky](https://open.spotify.com/album/1dA2ra5W0ZDUJEAKR0yV7U) | 2:56 |
 | 65 | [Honey Bee \(feat\. Willie Buck\)](https://open.spotify.com/track/2T857BosTppifCEGyKjkNz) | [Tony Holiday](https://open.spotify.com/artist/3D0wC1c48o3U0nsAcVPJLv), [Willie Buck](https://open.spotify.com/artist/0sdAoLHSrETVHyHJoCdJUB) | [Porch Sessions, Vol\. 2](https://open.spotify.com/album/62fmTuO2waPpKrOGXk67AI) | 3:20 |
 | 66 | [Crawfish](https://open.spotify.com/track/1JhlTAhUEtGnQGzsTtpiOW) | [Jesse Stone](https://open.spotify.com/artist/0bO3bOZwJNmh750eBf0aA0) | [I Was a Mod Before You Were a Mod Vol\. 2](https://open.spotify.com/album/2i1qwzfunSyQ1TtYyYh1XW) | 2:17 |
 | 67 | [Appetite Blues](https://open.spotify.com/track/3AKevGgNMWWhA88SAsaQDL) | [Willie Dixon](https://open.spotify.com/artist/5v8WPpMk60cqZbuZLdXjKY) | [Nail Jumping](https://open.spotify.com/album/2DegOuID6Bx94UtWX4xYf4) | 2:35 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX26pZI5rk3y9.md) - [plain]
 | 69 | [Atomic Cocktail](https://open.spotify.com/track/7lpMs73fPCpXxlMpYe83ox) | [Slim Gaillard](https://open.spotify.com/artist/4aKlL2BE2kPNNtruAQqRA1) | [Atomic Cocktail \- Legendary Slim Gaillard](https://open.spotify.com/album/01zjDSjc9s3pQD3RO1h3d2) | 2:43 |
 | 70 | [Pass the Biscuits Please \- Remastered](https://open.spotify.com/track/6pgoB5EHpLO7SU8uuQM7hd) | [Andre Williams](https://open.spotify.com/artist/4mmEKUZZBwnzg4m6hizPyN) | [Bacon Fat / Pass the Biscuits Please](https://open.spotify.com/album/0fAOSzXlQ3fJgHf8B2rMPE) | 3:18 |
 
-Snapshot ID: `MCw1MGNmNTk1YjdhOTZhNzVmOTk2NmE3ZmExZjE2NzllZTk5MzAyZTg1`
+Snapshot ID: `MCwzNWMyYmZmYjc4ZTQyYjZkNTY0Mjc0YThmMGU3ODk4YjJiZTE2MmZk`

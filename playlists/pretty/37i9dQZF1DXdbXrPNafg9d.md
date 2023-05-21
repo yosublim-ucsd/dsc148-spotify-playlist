@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 
 > The best new indie music every Friday\. Cover: Briston Maroney
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,277,702 likes - 170 songs - 9 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,277,787 likes - 170 songs - 9 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -179,4 +179,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 | 169 | [Moonshine](https://open.spotify.com/track/0Mrm083tqUaTGUkiluSORf) | [Hippo Campus](https://open.spotify.com/artist/1btWGBz4Uu1HozTwb2Lm8A) | [Moonshine](https://open.spotify.com/album/7dzmDJVRN97PvAHTQZyYBu) | 4:00 |
 | 170 | [your name](https://open.spotify.com/track/11Cox8nfogtDOGGiecTmpS) | [april june](https://open.spotify.com/artist/4WreACyfQITcXGx86xxYkG) | [your name](https://open.spotify.com/album/5bqquz0RYQ0TAAXUeizmVR) | 2:37 |
 
-Snapshot ID: `MCxmODVmZTEyODJkYmIxODIxZmU0NWYyZWUxODAyZDRiZDYwOTMzZGMy`
+Snapshot ID: `MCwzMTRjNGNlNmNiODczNmM4OWFlY2Q3OTE4ZDU3N2ZhYjg1YTlkODcy`

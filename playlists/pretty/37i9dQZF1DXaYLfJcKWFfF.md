@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaYLfJcKWFfF.md) - [plain]
 
 > Alternative / Indie / Folk cuts from the continent and diaspora to dive into\. Cover: <a href="https://open.spotify.com/artist/5upKpIk1pv0hh0u2gwblwy?si=5urS1m\_MR3WHF5XTyvcO1w"> Bongeziwe Mabandla</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 73,133 likes - 50 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 73,173 likes - 50 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaYLfJcKWFfF.md) - [plain]
 | 49 | [Addicted To You Rehearsal \- 432hz Live](https://open.spotify.com/track/7Jndt5DSBd6lDzCS4u1B66) | [Christiano Can](https://open.spotify.com/artist/41k5COVWW07O4xVBHSDkMj), [Nakeisha Godzone](https://open.spotify.com/artist/5lDBIdDrDDshZvO58HHAGB) | [Addicted To You Rehearsal \(432hz Live\)](https://open.spotify.com/album/1Wt988aKnqhcllzkzSQtah) | 6:17 |
 | 50 | [A Long Way](https://open.spotify.com/track/3NZ4hG7YSIJAYUQ6ZOOl0w) | [Webi](https://open.spotify.com/artist/4LaQmo86osci1uCq11mcIH) | [A Long Way](https://open.spotify.com/album/2MxblownRNGAkkYxPsFA2V) | 3:16 |
 
-Snapshot ID: `MCw3YjdkNjA2NWMyYmJiODUxNmFiNDdiZDBhNzE0ODI0ZjRiNWE0ZDU0`
+Snapshot ID: `MCxkODA0ZDU1M2NkN2IxYmZiMjVhMTMyZGQyOGU3Njc5MTFlMTZkNzE2`

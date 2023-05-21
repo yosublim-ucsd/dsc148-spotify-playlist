@@ -1,12 +1,12 @@
 {
   "description": "Go hard or go home. Cover: Tsuki",
-  "num_followers": 43217,
+  "num_followers": 43269,
   "original_name": "Jump Up!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhOTZmNmNiODNkM2Y4YmMzMTRhYWIyZDk2NmYxNGE3Yzc4YmQ3N2Jm",
+  "snapshot_id": "MCwyODBmNWUwMDg2MWUzODU0ZTExNDQ3OWJhNGE0ZTEzMGI3ZDBkYTNk",
   "tracks": [
     {
       "added_at": "2022-08-12 16:34:51",
@@ -707,6 +707,22 @@
     {
       "added_at": "2022-08-12 16:34:51",
       "album": {
+        "name": "Sundown",
+        "url": "https://open.spotify.com/album/1XevLzt5Tds3Cjbuz1oz0g"
+      },
+      "artists": [
+        {
+          "name": "Kanine",
+          "url": "https://open.spotify.com/artist/1KiNUGL3r0GgyLwqYCY1yV"
+        }
+      ],
+      "duration_ms": 268800,
+      "name": "Sundown",
+      "url": "https://open.spotify.com/track/5IiAyeg16Rk5holAyjwpLO"
+    },
+    {
+      "added_at": "2022-08-12 16:34:51",
+      "album": {
         "name": "Us / When the Lights Go",
         "url": "https://open.spotify.com/album/0iyETQNlcqOPMrpsIqOTKE"
       },
@@ -735,22 +751,6 @@
       "duration_ms": 367542,
       "name": "Empire",
       "url": "https://open.spotify.com/track/4wVQ4W2jrhPNnsmlcO1u5g"
-    },
-    {
-      "added_at": "2022-08-12 16:34:51",
-      "album": {
-        "name": "Sundown",
-        "url": "https://open.spotify.com/album/1XevLzt5Tds3Cjbuz1oz0g"
-      },
-      "artists": [
-        {
-          "name": "Kanine",
-          "url": "https://open.spotify.com/artist/1KiNUGL3r0GgyLwqYCY1yV"
-        }
-      ],
-      "duration_ms": 268800,
-      "name": "Sundown",
-      "url": "https://open.spotify.com/track/5IiAyeg16Rk5holAyjwpLO"
     },
     {
       "added_at": "2022-08-12 16:34:51",
@@ -859,6 +859,30 @@
     {
       "added_at": "2022-08-12 16:34:51",
       "album": {
+        "name": "Freak (Used Remix)",
+        "url": "https://open.spotify.com/album/0y7mYfre8eBAUSpHVCRFXY"
+      },
+      "artists": [
+        {
+          "name": "Skepsis",
+          "url": "https://open.spotify.com/artist/6DnQYUjtYusK9QJts9HqSC"
+        },
+        {
+          "name": "TS7",
+          "url": "https://open.spotify.com/artist/4EV6hgVc6KD0SFOIJJLFki"
+        },
+        {
+          "name": "Used",
+          "url": "https://open.spotify.com/artist/4sewbfr40so8t6Zfh9tmoK"
+        }
+      ],
+      "duration_ms": 252342,
+      "name": "Freak - Used Remix",
+      "url": "https://open.spotify.com/track/48261IylfaueSdk1XKX0nh"
+    },
+    {
+      "added_at": "2022-08-12 16:34:51",
+      "album": {
         "name": "Shaolin Fist",
         "url": "https://open.spotify.com/album/2qmrtp1vQ4AFI0rms52Bip"
       },
@@ -891,30 +915,6 @@
       "duration_ms": 180000,
       "name": "Free",
       "url": "https://open.spotify.com/track/3UIVHHvzMmAYjH7VIiburn"
-    },
-    {
-      "added_at": "2022-08-12 16:34:51",
-      "album": {
-        "name": "Freak (Used Remix)",
-        "url": "https://open.spotify.com/album/0y7mYfre8eBAUSpHVCRFXY"
-      },
-      "artists": [
-        {
-          "name": "Skepsis",
-          "url": "https://open.spotify.com/artist/6DnQYUjtYusK9QJts9HqSC"
-        },
-        {
-          "name": "TS7",
-          "url": "https://open.spotify.com/artist/4EV6hgVc6KD0SFOIJJLFki"
-        },
-        {
-          "name": "Used",
-          "url": "https://open.spotify.com/artist/4sewbfr40so8t6Zfh9tmoK"
-        }
-      ],
-      "duration_ms": 252342,
-      "name": "Freak - Used Remix",
-      "url": "https://open.spotify.com/track/48261IylfaueSdk1XKX0nh"
     },
     {
       "added_at": "2022-08-12 16:34:51",
@@ -1087,22 +1087,18 @@
     {
       "added_at": "2022-08-12 16:34:51",
       "album": {
-        "name": "Genesis",
-        "url": "https://open.spotify.com/album/2EMenP3Cn1Ely4hLp6bhHy"
+        "name": "Redemption",
+        "url": "https://open.spotify.com/album/0JDV8B5FQ6vug0p9q8dV2h"
       },
       "artists": [
         {
-          "name": "Lee Mvtthews",
-          "url": "https://open.spotify.com/artist/2rf0ufpy1NIUGmEHqq27GC"
-        },
-        {
-          "name": "Freaks & Geeks",
-          "url": "https://open.spotify.com/artist/6Qcn4TflUyLRoA6w44IQSU"
+          "name": "Tsuki",
+          "url": "https://open.spotify.com/artist/2yJbiseBZFvrCK5GueLnk7"
         }
       ],
-      "duration_ms": 249655,
-      "name": "Infinity",
-      "url": "https://open.spotify.com/track/1EY6HivuyFfBETSEyDAPys"
+      "duration_ms": 225245,
+      "name": "Spotlight",
+      "url": "https://open.spotify.com/track/0qY6AV4ZegboqiIskNlozZ"
     },
     {
       "added_at": "2022-08-12 16:34:51",

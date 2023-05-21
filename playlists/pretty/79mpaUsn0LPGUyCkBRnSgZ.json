@@ -6,7 +6,7 @@
     "name": "Zack Amiton",
     "url": "https://open.spotify.com/user/6rcq1j21davq3yhbk1t0l5xnt"
   },
-  "snapshot_id": "ODU0LDNjODFkZDZmYmEwNWQwMTQ0ZWQ3ZjI4NGFhMjBiODAxNDZkMzNkYzc=",
+  "snapshot_id": "ODY0LGY3MDMxMGQ5OTFlYjFiYmUyNzk2N2E3ZjAxMjkxZmExMDVjMzBkNzU=",
   "tracks": [
     {
       "added_at": "2021-08-26 23:11:19",
@@ -3395,6 +3395,118 @@
       "duration_ms": 222946,
       "name": "The View From The Afternoon",
       "url": "https://open.spotify.com/track/4wSWZjWH7a5eVxskGxO13w"
+    },
+    {
+      "added_at": "2023-05-19 18:46:09",
+      "album": {
+        "name": "Lost & Found",
+        "url": "https://open.spotify.com/album/3AlSuZnX4ZCab8eoWnnfbm"
+      },
+      "artists": [
+        {
+          "name": "Jorja Smith",
+          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
+        }
+      ],
+      "duration_ms": 314433,
+      "name": "Lost & Found",
+      "url": "https://open.spotify.com/track/6jaLFu5HvfNrI1JmcM4eXu"
+    },
+    {
+      "added_at": "2023-05-19 05:29:12",
+      "album": {
+        "name": "The Singles",
+        "url": "https://open.spotify.com/album/6kwyhuzuCrz4N4vMhZ9Deb"
+      },
+      "artists": [
+        {
+          "name": "Bikini Kill",
+          "url": "https://open.spotify.com/artist/0gvHPdYxlU94W7V5MSIlFe"
+        }
+      ],
+      "duration_ms": 93493,
+      "name": "New Radio",
+      "url": "https://open.spotify.com/track/4DgsvJNNGvV5WPQ40qR3R8"
+    },
+    {
+      "added_at": "2023-05-19 06:10:48",
+      "album": {
+        "name": "The Rise and Fall of Ziggy Stardust and the Spiders from Mars (2012 Remaster)",
+        "url": "https://open.spotify.com/album/48D1hRORqJq52qsnUYZX56"
+      },
+      "artists": [
+        {
+          "name": "David Bowie",
+          "url": "https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy"
+        }
+      ],
+      "duration_ms": 283752,
+      "name": "Five Years - 2012 Remaster",
+      "url": "https://open.spotify.com/track/1JIzFhI9Lt5FyslawmHCBi"
+    },
+    {
+      "added_at": "2023-05-19 18:50:32",
+      "album": {
+        "name": "99.9%",
+        "url": "https://open.spotify.com/album/6JD4Qerb8IcaAzFgpFw0sa"
+      },
+      "artists": [
+        {
+          "name": "KAYTRANADA",
+          "url": "https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu"
+        }
+      ],
+      "duration_ms": 344120,
+      "name": "TRACK UNO",
+      "url": "https://open.spotify.com/track/05gZLyOQphrQN86Jn2urCP"
+    },
+    {
+      "added_at": "2023-05-20 23:07:37",
+      "album": {
+        "name": "Everything Harmony",
+        "url": "https://open.spotify.com/album/5X0MAnUVN7eEZyO1LjprIk"
+      },
+      "artists": [
+        {
+          "name": "The Lemon Twigs",
+          "url": "https://open.spotify.com/artist/7eYZSXnQVCODCVmTV8Hk2T"
+        }
+      ],
+      "duration_ms": 282213,
+      "name": "When Winter Comes Around",
+      "url": "https://open.spotify.com/track/13G6COhMO4hUKkqTs0xvgH"
+    },
+    {
+      "added_at": "2023-05-20 23:22:07",
+      "album": {
+        "name": "Let England Shake",
+        "url": "https://open.spotify.com/album/2f8Rfpdol5jrJe3OL4YH6k"
+      },
+      "artists": [
+        {
+          "name": "PJ Harvey",
+          "url": "https://open.spotify.com/artist/12VaqyEhgwDRuFfEqbnrpz"
+        }
+      ],
+      "duration_ms": 189280,
+      "name": "Let England Shake",
+      "url": "https://open.spotify.com/track/2XwL9kTn9411Ed4p0MLYx3"
+    },
+    {
+      "added_at": "2023-05-20 23:23:53",
+      "album": {
+        "name": "Rounds",
+        "url": "https://open.spotify.com/album/1ehwJGN59cUxk9LuHRHJdv"
+      },
+      "artists": [
+        {
+          "name": "Four Tet",
+          "url": "https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh"
+        }
+      ],
+      "duration_ms": 341160,
+      "name": "Hands",
+      "url": "https://open.spotify.com/track/6NjDSYmK9gIMXL05v55nql"
     }
   ],
   "unique_name": "Zacklog",

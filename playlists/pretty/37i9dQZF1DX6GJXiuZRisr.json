@@ -1,12 +1,12 @@
 {
   "description": "Progressive <a href=\"spotify:genre:edm_dance\">house</a> music for the late night highway.",
-  "num_followers": 1481631,
+  "num_followers": 1482009,
   "original_name": "Night Rider",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhM2RjYzgwMTNmOTVjZDM2NGQ3ZDY3ZjY2YzJlOWQxNDc2NDI2MmRk",
+  "snapshot_id": "MCw4MTJlZjAwYWM0MTIxNzY2YTljYTZkNjNjNzQ1YmNiM2JiMTFmYjI2",
   "tracks": [
     {
       "added_at": "2023-05-19 04:00:00",
@@ -323,26 +323,26 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "Mercury",
-        "url": "https://open.spotify.com/album/5q2bsjSrluBoWf3F61Fofp"
+        "name": "Fire With Fire",
+        "url": "https://open.spotify.com/album/06feJaNWJYCfjbtbusCFBB"
       },
       "artists": [
         {
-          "name": "HI-LO",
-          "url": "https://open.spotify.com/artist/0ETJQforv5OXgDgidQv9qd"
+          "name": "Armin van Buuren",
+          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
         },
         {
-          "name": "Space 92",
-          "url": "https://open.spotify.com/artist/6TVdVlY6irsNPkMHT2HkfD"
+          "name": "HRRTZ",
+          "url": "https://open.spotify.com/artist/6VpuPMBN4oVa62K1wS9bGS"
         },
         {
-          "name": "Oliver Heldens",
-          "url": "https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p"
+          "name": "Julia Church",
+          "url": "https://open.spotify.com/artist/4dHGNdVhBxCJUyMk9dR727"
         }
       ],
-      "duration_ms": 225346,
-      "name": "Mercury",
-      "url": "https://open.spotify.com/track/25dFcH5EsCJLMSmFDDJLT3"
+      "duration_ms": 188799,
+      "name": "Fire With Fire",
+      "url": "https://open.spotify.com/track/7fpkRq8mT8uwspimOK6zH5"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -371,26 +371,26 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "Fire With Fire",
-        "url": "https://open.spotify.com/album/06feJaNWJYCfjbtbusCFBB"
+        "name": "Mercury",
+        "url": "https://open.spotify.com/album/5q2bsjSrluBoWf3F61Fofp"
       },
       "artists": [
         {
-          "name": "Armin van Buuren",
-          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
+          "name": "HI-LO",
+          "url": "https://open.spotify.com/artist/0ETJQforv5OXgDgidQv9qd"
         },
         {
-          "name": "HRRTZ",
-          "url": "https://open.spotify.com/artist/6VpuPMBN4oVa62K1wS9bGS"
+          "name": "Space 92",
+          "url": "https://open.spotify.com/artist/6TVdVlY6irsNPkMHT2HkfD"
         },
         {
-          "name": "Julia Church",
-          "url": "https://open.spotify.com/artist/4dHGNdVhBxCJUyMk9dR727"
+          "name": "Oliver Heldens",
+          "url": "https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p"
         }
       ],
-      "duration_ms": 188799,
-      "name": "Fire With Fire",
-      "url": "https://open.spotify.com/track/7fpkRq8mT8uwspimOK6zH5"
+      "duration_ms": 225346,
+      "name": "Mercury",
+      "url": "https://open.spotify.com/track/25dFcH5EsCJLMSmFDDJLT3"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -699,22 +699,6 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "Disco Voyager",
-        "url": "https://open.spotify.com/album/6KMUEMw2nWTayCFWhjeNT7"
-      },
-      "artists": [
-        {
-          "name": "Oliver Heldens",
-          "url": "https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p"
-        }
-      ],
-      "duration_ms": 190200,
-      "name": "Disco Voyager",
-      "url": "https://open.spotify.com/track/2L4THbkubfdMU7x1xGnvZM"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
         "name": "I Want You",
         "url": "https://open.spotify.com/album/1QziaajVxVFMQKs0vyqH4Y"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 207360,
       "name": "I Want You - Edit",
       "url": "https://open.spotify.com/track/5VzsokRZMpEDLTaXBPfUdJ"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
+        "name": "Disco Voyager",
+        "url": "https://open.spotify.com/album/6KMUEMw2nWTayCFWhjeNT7"
+      },
+      "artists": [
+        {
+          "name": "Oliver Heldens",
+          "url": "https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p"
+        }
+      ],
+      "duration_ms": 190200,
+      "name": "Disco Voyager",
+      "url": "https://open.spotify.com/track/2L4THbkubfdMU7x1xGnvZM"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -755,26 +755,6 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "Not Over Yet (feat. Grace Grundy)",
-        "url": "https://open.spotify.com/album/0djeuaziYXiPeHRNN9Vqh6"
-      },
-      "artists": [
-        {
-          "name": "The Stickmen Project",
-          "url": "https://open.spotify.com/artist/13wroZC00C9ix8fUR0JvaY"
-        },
-        {
-          "name": "Grace Grundy",
-          "url": "https://open.spotify.com/artist/3pFPBG84k5bQVbL9apf2PD"
-        }
-      ],
-      "duration_ms": 161904,
-      "name": "Not Over Yet (feat. Grace Grundy)",
-      "url": "https://open.spotify.com/track/6IefsGUYN0q8BBrDq1EhiC"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
         "name": "Alok Club Series 2023",
         "url": "https://open.spotify.com/album/5gdnagxUxbz8mIbb7DVdLT"
       },
@@ -791,6 +771,26 @@
       "duration_ms": 188226,
       "name": "2 Much 2 Handle",
       "url": "https://open.spotify.com/track/2ivy0p2Ib5acN3D9Dfio8K"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
+        "name": "Not Over Yet (feat. Grace Grundy)",
+        "url": "https://open.spotify.com/album/0djeuaziYXiPeHRNN9Vqh6"
+      },
+      "artists": [
+        {
+          "name": "The Stickmen Project",
+          "url": "https://open.spotify.com/artist/13wroZC00C9ix8fUR0JvaY"
+        },
+        {
+          "name": "Grace Grundy",
+          "url": "https://open.spotify.com/artist/3pFPBG84k5bQVbL9apf2PD"
+        }
+      ],
+      "duration_ms": 161904,
+      "name": "Not Over Yet (feat. Grace Grundy)",
+      "url": "https://open.spotify.com/track/6IefsGUYN0q8BBrDq1EhiC"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -927,22 +927,6 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "Twisted Reality (Edit)",
-        "url": "https://open.spotify.com/album/2pkttY8alxMO6o2eogLegg"
-      },
-      "artists": [
-        {
-          "name": "Boris Brejcha",
-          "url": "https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy"
-        }
-      ],
-      "duration_ms": 207360,
-      "name": "Twisted Reality - Edit",
-      "url": "https://open.spotify.com/track/22If8nq6QHdvcT2meERlcl"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
         "name": "Fibonacci",
         "url": "https://open.spotify.com/album/0HQyQc8KYSgmt5iVieQWNY"
       },
@@ -955,6 +939,22 @@
       "duration_ms": 188483,
       "name": "Fibonacci",
       "url": "https://open.spotify.com/track/0Jb3Kq7oDqRznHPIcrQpiX"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
+        "name": "Twisted Reality (Edit)",
+        "url": "https://open.spotify.com/album/2pkttY8alxMO6o2eogLegg"
+      },
+      "artists": [
+        {
+          "name": "Boris Brejcha",
+          "url": "https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy"
+        }
+      ],
+      "duration_ms": 207360,
+      "name": "Twisted Reality - Edit",
+      "url": "https://open.spotify.com/track/22If8nq6QHdvcT2meERlcl"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -1363,26 +1363,6 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "Little Darling (Joris Voorn Remix)",
-        "url": "https://open.spotify.com/album/2dtExe65fdE0PJLhnPpFyU"
-      },
-      "artists": [
-        {
-          "name": "Marsh",
-          "url": "https://open.spotify.com/artist/1eucLGnPT27tdEh6MU29wp"
-        },
-        {
-          "name": "Joris Voorn",
-          "url": "https://open.spotify.com/artist/4jGpKAmwvU263l0tUh4xKU"
-        }
-      ],
-      "duration_ms": 200952,
-      "name": "Little Darling - Joris Voorn Remix",
-      "url": "https://open.spotify.com/track/4NzjiBcQT7Hzp2hvuEViqe"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
         "name": "To the Sea",
         "url": "https://open.spotify.com/album/06S6sPT6DP3ho0h0MkLbzm"
       },
@@ -1403,6 +1383,26 @@
       "duration_ms": 452000,
       "name": "To the Sea - Einmusik Remix",
       "url": "https://open.spotify.com/track/6yCjfTARifCLjtZ611DWvA"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
+        "name": "Little Darling (Joris Voorn Remix)",
+        "url": "https://open.spotify.com/album/2dtExe65fdE0PJLhnPpFyU"
+      },
+      "artists": [
+        {
+          "name": "Marsh",
+          "url": "https://open.spotify.com/artist/1eucLGnPT27tdEh6MU29wp"
+        },
+        {
+          "name": "Joris Voorn",
+          "url": "https://open.spotify.com/artist/4jGpKAmwvU263l0tUh4xKU"
+        }
+      ],
+      "duration_ms": 200952,
+      "name": "Little Darling - Joris Voorn Remix",
+      "url": "https://open.spotify.com/track/4NzjiBcQT7Hzp2hvuEViqe"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -1587,6 +1587,22 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
+        "name": "Flame",
+        "url": "https://open.spotify.com/album/5rFLTydLT6ZBIol5sHppj0"
+      },
+      "artists": [
+        {
+          "name": "ARTBAT",
+          "url": "https://open.spotify.com/artist/3BkRu2TGd2I1uBxZKddfg1"
+        }
+      ],
+      "duration_ms": 326929,
+      "name": "Flame - Edit",
+      "url": "https://open.spotify.com/track/38be6Tha1a4kOJPBaqpeEm"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
         "name": "Out Of Control",
         "url": "https://open.spotify.com/album/3k9PBFjo8FHjGzV2EvsRUk"
       },
@@ -1627,22 +1643,6 @@
       "duration_ms": 329349,
       "name": "Strangers (with Mansionair) - Tinlicker Remix",
       "url": "https://open.spotify.com/track/7nMhRQY2qk6TBfhb64UopK"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
-        "name": "Flame",
-        "url": "https://open.spotify.com/album/5rFLTydLT6ZBIol5sHppj0"
-      },
-      "artists": [
-        {
-          "name": "ARTBAT",
-          "url": "https://open.spotify.com/artist/3BkRu2TGd2I1uBxZKddfg1"
-        }
-      ],
-      "duration_ms": 326929,
-      "name": "Flame - Edit",
-      "url": "https://open.spotify.com/track/38be6Tha1a4kOJPBaqpeEm"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -1703,26 +1703,6 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "Annihilation",
-        "url": "https://open.spotify.com/album/0Ft2j2EP2dEYwxQgDQUleW"
-      },
-      "artists": [
-        {
-          "name": "i_o",
-          "url": "https://open.spotify.com/artist/0y42IQBDFigO5mmEd1bGQG"
-        },
-        {
-          "name": "Lights",
-          "url": "https://open.spotify.com/artist/5pdyjBIaY5o1yOyexGIUc6"
-        }
-      ],
-      "duration_ms": 247384,
-      "name": "Annihilation",
-      "url": "https://open.spotify.com/track/3vLhUrc9h8fFIH7Lq9QDM5"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
         "name": "Too Little Too Late (Little Late Edit)",
         "url": "https://open.spotify.com/album/0fQxyWVWryDvVmuYcFVuCy"
       },
@@ -1739,6 +1719,26 @@
       "duration_ms": 258984,
       "name": "Too Little Too Late - Little Late Edit",
       "url": "https://open.spotify.com/track/5mLllF9AIePVdhExTiNyyr"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
+        "name": "Annihilation",
+        "url": "https://open.spotify.com/album/0Ft2j2EP2dEYwxQgDQUleW"
+      },
+      "artists": [
+        {
+          "name": "i_o",
+          "url": "https://open.spotify.com/artist/0y42IQBDFigO5mmEd1bGQG"
+        },
+        {
+          "name": "Lights",
+          "url": "https://open.spotify.com/artist/5pdyjBIaY5o1yOyexGIUc6"
+        }
+      ],
+      "duration_ms": 247384,
+      "name": "Annihilation",
+      "url": "https://open.spotify.com/track/3vLhUrc9h8fFIH7Lq9QDM5"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -1779,22 +1779,22 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "Rush (Miss Monique Remix)",
-        "url": "https://open.spotify.com/album/7vF6BoJz2iWApof9NfB1W6"
+        "name": "Midnight / Equal",
+        "url": "https://open.spotify.com/album/0d0qkrl074gj4TT2uj35iU"
       },
       "artists": [
         {
-          "name": "Sied Van Riel",
-          "url": "https://open.spotify.com/artist/1Cv0KzvQ0KP210KdmQQQUF"
+          "name": "Andrew Bayer",
+          "url": "https://open.spotify.com/artist/5dFuu05x8SPBuymudrTBU8"
         },
         {
-          "name": "Miss Monique",
-          "url": "https://open.spotify.com/artist/29TpNOsTNYbLb6Xa10H0PR"
+          "name": "Alison May",
+          "url": "https://open.spotify.com/artist/6jd3NCxzDeLS4wAO168T60"
         }
       ],
-      "duration_ms": 291840,
-      "name": "Rush - Miss Monique Remix",
-      "url": "https://open.spotify.com/track/0vlauZfceQ2eiuqwDMf1jb"
+      "duration_ms": 480000,
+      "name": "Midnight",
+      "url": "https://open.spotify.com/track/0GhMImCJ8bJ1oKDZOhUedJ"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -1819,22 +1819,22 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "Midnight / Equal",
-        "url": "https://open.spotify.com/album/0d0qkrl074gj4TT2uj35iU"
+        "name": "Rush (Miss Monique Remix)",
+        "url": "https://open.spotify.com/album/7vF6BoJz2iWApof9NfB1W6"
       },
       "artists": [
         {
-          "name": "Andrew Bayer",
-          "url": "https://open.spotify.com/artist/5dFuu05x8SPBuymudrTBU8"
+          "name": "Sied Van Riel",
+          "url": "https://open.spotify.com/artist/1Cv0KzvQ0KP210KdmQQQUF"
         },
         {
-          "name": "Alison May",
-          "url": "https://open.spotify.com/artist/6jd3NCxzDeLS4wAO168T60"
+          "name": "Miss Monique",
+          "url": "https://open.spotify.com/artist/29TpNOsTNYbLb6Xa10H0PR"
         }
       ],
-      "duration_ms": 480000,
-      "name": "Midnight",
-      "url": "https://open.spotify.com/track/0GhMImCJ8bJ1oKDZOhUedJ"
+      "duration_ms": 291840,
+      "name": "Rush - Miss Monique Remix",
+      "url": "https://open.spotify.com/track/0vlauZfceQ2eiuqwDMf1jb"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -1879,22 +1879,6 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "U CANT STOP ME NOW",
-        "url": "https://open.spotify.com/album/7usNqMOvyt0qBKCoJvGaJu"
-      },
-      "artists": [
-        {
-          "name": "Mandaworld",
-          "url": "https://open.spotify.com/artist/2N6Ed6g2uFyP2D03Bxo3x3"
-        }
-      ],
-      "duration_ms": 182362,
-      "name": "U CANT STOP ME NOW",
-      "url": "https://open.spotify.com/track/7frTfDcziY9MJKaxh9o2cB"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
         "name": "Discopolis 2.0 (MEDUZA Remix)",
         "url": "https://open.spotify.com/album/69RPZXcg3PGWRsWWiP4Mds"
       },
@@ -1935,6 +1919,22 @@
       "duration_ms": 220649,
       "name": "Artefact",
       "url": "https://open.spotify.com/track/4s5YiAfgPWyq37WukmceRI"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
+        "name": "U CANT STOP ME NOW",
+        "url": "https://open.spotify.com/album/7usNqMOvyt0qBKCoJvGaJu"
+      },
+      "artists": [
+        {
+          "name": "Mandaworld",
+          "url": "https://open.spotify.com/artist/2N6Ed6g2uFyP2D03Bxo3x3"
+        }
+      ],
+      "duration_ms": 182362,
+      "name": "U CANT STOP ME NOW",
+      "url": "https://open.spotify.com/track/7frTfDcziY9MJKaxh9o2cB"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -1999,22 +1999,6 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "First Contact",
-        "url": "https://open.spotify.com/album/4dCgqMWPJuBmL0BHiXwIEf"
-      },
-      "artists": [
-        {
-          "name": "Lastlings",
-          "url": "https://open.spotify.com/artist/0M7GyeyRi2fG8c1LdP4jhi"
-        }
-      ],
-      "duration_ms": 311280,
-      "name": "False Reactions",
-      "url": "https://open.spotify.com/track/40bOS5DkpMM7UJB3xZkHoq"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
         "name": "Roar (Adana Twins Remix)",
         "url": "https://open.spotify.com/album/3FY1RYMswstlQcPkPIF9hX"
       },
@@ -2031,6 +2015,22 @@
       "duration_ms": 493580,
       "name": "Roar - Adana Twins Remix",
       "url": "https://open.spotify.com/track/5cWtZM21FH4YL0aWq3Syfv"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
+        "name": "First Contact",
+        "url": "https://open.spotify.com/album/4dCgqMWPJuBmL0BHiXwIEf"
+      },
+      "artists": [
+        {
+          "name": "Lastlings",
+          "url": "https://open.spotify.com/artist/0M7GyeyRi2fG8c1LdP4jhi"
+        }
+      ],
+      "duration_ms": 311280,
+      "name": "False Reactions",
+      "url": "https://open.spotify.com/track/40bOS5DkpMM7UJB3xZkHoq"
     }
   ],
   "unique_name": "Night Rider",

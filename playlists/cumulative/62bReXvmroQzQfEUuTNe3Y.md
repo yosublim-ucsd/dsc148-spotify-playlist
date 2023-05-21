@@ -1,10 +1,10 @@
 [pretty](/playlists/pretty/62bReXvmroQzQfEUuTNe3Y.md) - cumulative - [plain](/playlists/plain/62bReXvmroQzQfEUuTNe3Y) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/62bReXvmroQzQfEUuTNe3Y)
 
-### [Chill House 2023](https://open.spotify.com/playlist/62bReXvmroQzQfEUuTNe3Y)
+### [Summer Chill House 2023](https://open.spotify.com/playlist/62bReXvmroQzQfEUuTNe3Y)
 
-> Chill tracks to vibe or dance to in 2023\. Updated weekly\. \| 🌈 <a href="https://www.instagram.com/selectedofficial">Instagram</a>
+> Summer chill tracks to vibe or dance to in 2023\. Updated weekly\. \| 🌈 <a href="https://www.instagram.com/selectedofficial">Instagram</a>
 
-358 songs - 20 hr 21 min
+360 songs - 20 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -255,6 +255,7 @@
 | [Recap \(with VanJess & Channel Tres\)](https://open.spotify.com/track/2m3RjRXib3un5AEh08k8Fe) | [Kito](https://open.spotify.com/artist/3FLUBwpAnaIlIKeaBfsxFe), [VanJess](https://open.spotify.com/artist/0Ek89uaJyo6NfWK22awFvI), [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp) | [Recap \(with VanJess & Channel Tres\)](https://open.spotify.com/album/5frBRYEzuxcYkqgwDH82Sj) | 2:57 | 2021-04-03 | 2021-07-17 |
 | [Regret](https://open.spotify.com/track/2oBje7u1mBFIxurtNHBbjF) | [Astrality](https://open.spotify.com/artist/6KGv020mJkIjQH5YPDSBcZ), [Arinn](https://open.spotify.com/artist/7nM52sn64aU3P5Dm3HMcA8), [B\-Goss](https://open.spotify.com/artist/0w8hxJFdIbvahDeSoxntNl) | [Regret](https://open.spotify.com/album/3ida1ug8811HAvQs0Ote6C) | 2:47 | 2021-06-25 |  |
 | [Remember](https://open.spotify.com/track/39K1B9yIdTCgwm25z4GYId) | [DRAY](https://open.spotify.com/artist/2kSdRzYPQR1kjM9jkWsS5M) | [Remember](https://open.spotify.com/album/1kVLVbJzfk3FeQhZsC13YJ) | 3:08 | 2021-12-11 |  |
+| [Revelations](https://open.spotify.com/track/40zJbxW89dq6bEwUVLrxJS) | [ZHU](https://open.spotify.com/artist/28j8lBWDdDSHSSt5oPlsX2), [Devault](https://open.spotify.com/artist/1VBAKMui4zm5MnBWNn3NbL), [BabyJake](https://open.spotify.com/artist/07Asx51VtMw5kbNXKrpZlq) | [Revelations](https://open.spotify.com/album/6qYPN9DGpfMYQiPItLUjwN) | 3:28 | 2023-05-19 |  |
 | [Ride It](https://open.spotify.com/track/2tnVG71enUj33Ic2nFN6kZ) | [Regard](https://open.spotify.com/artist/4ofCBoyEiGSePFAG500xev) | [Ride It](https://open.spotify.com/album/4zOhjJfe0dwqsNdDYk622E) | 2:37 | 2021-03-06 | 2021-10-02 |
 | [Road](https://open.spotify.com/track/6kckNpuM5oXZrObLExRg6d) | [Lane 8](https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb), [Arctic Lake](https://open.spotify.com/artist/0IEPb9ily3E5IAYMSkwtQ6) | [Brightest Lights](https://open.spotify.com/album/6EdbqQvOCialJuOjEEUlsL) | 3:58 | 2021-10-02 |  |
 | [Runaway](https://open.spotify.com/track/1tGp9fmzBiKO2gd6t9Z10u) | [James Carter](https://open.spotify.com/artist/5344K3N7rx7kw1HjO8psuq), [Joseph Feinstein](https://open.spotify.com/artist/7ahEpNiwqIG5GJ3NkfHt1L) | [Runaway](https://open.spotify.com/album/5cQ4Evvj4ayOGlLMh6afF0) | 2:33 | 2021-01-19 | 2021-03-06 |
@@ -349,6 +350,7 @@
 | [White Flag](https://open.spotify.com/track/649uvcXpUZG504aZF19ilf) | [Lucas Estrada](https://open.spotify.com/artist/2tndYCXQneCV4jtoWRwVpz), [Charming Horses](https://open.spotify.com/artist/5rr0CMtvn1p9Be8ICfkTc3), [Sarah de Warren](https://open.spotify.com/artist/2V431yZGG08uroH2CZAgur) | [White Flag](https://open.spotify.com/album/4zxa9Gu0z5rIIfbsGb3wfs) | 3:18 | 2021-04-20 | 2021-11-06 |
 | [Why](https://open.spotify.com/track/5aPAaUZP8YvSaZRGfdoLbt) | [Bobby Love](https://open.spotify.com/artist/15T7qZv0kn5j8U8juOxFm3), [Olive B](https://open.spotify.com/artist/7nuwunwXRTVnt5vapnCthz) | [Why](https://open.spotify.com/album/2i4xWx49nCSjID8ShzHqmy) | 3:23 | 2020-09-13\* |  |
 | [Wide Awake & Dreaming \- Radio Edit](https://open.spotify.com/track/6HL4GL2ZJQAC20Xzw5q4X5) | [Amba Shepherd](https://open.spotify.com/artist/4RTCIP5yp2tL1AtBCq7ukj) | [Wide Awake & Dreaming](https://open.spotify.com/album/59uazWJ6GhvC3Gl8ZY0IM8) | 3:26 | 2020-09-13\* | 2021-03-06 |
+| [Wild](https://open.spotify.com/track/7z8grMV3fvfgDgEFrCdaAU) | [Tough Love](https://open.spotify.com/artist/16KSSLMXOdKQ2MHt9bOHTG), [TAPE ANGEL](https://open.spotify.com/artist/1rH3SUHdkjjouhmAQGC1Ot) | [Wild](https://open.spotify.com/album/2H5dBkkhMViquQiltcUzZt) | 2:13 | 2023-05-19 |  |
 | [Wild Game \(feat\. Monique Lawz\)](https://open.spotify.com/track/0OblbHqdzBaTNHxkRuWBDN) | [Michael Calfan](https://open.spotify.com/artist/4CuipEvwcoQggmCV8jpKF9), [Monique Lawz](https://open.spotify.com/artist/2Xc9NBi6MXNg9CFy8zYRsM) | [Wild Game \(feat\. Monique Lawz\)](https://open.spotify.com/album/41qEwNJHSvXISCQ7Zqtrxw) | 2:22 | 2020-09-13\* | 2021-03-14 |
 | [Wild Girl \- Paul Woolford Remix](https://open.spotify.com/track/7ETxvXQ5oWFRfAfaIEimAG) | [Kito](https://open.spotify.com/artist/3FLUBwpAnaIlIKeaBfsxFe), [Empress Of](https://open.spotify.com/artist/5QuBVnBPEzwYvFrgBbwpmU), [Paul Woolford](https://open.spotify.com/artist/4CA8PTrbq1l5IgyvBA2JSV) | [Wild Girl \(Paul Woolford Remix\)](https://open.spotify.com/album/5gGNajbpAtIuDaNOIoJmXr) | 3:41 | 2021-06-05 | 2021-10-23 |
 | [Wild Skies](https://open.spotify.com/track/5yHdAaKkFknPlSYcEUwAfp) | [Eli & Fur](https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4) | [Carbon](https://open.spotify.com/album/7fIXaVoKlDTrJN95srql4E) | 3:24 | 2021-06-12 | 2021-10-02 |
@@ -364,7 +366,7 @@
 | [You Were Right](https://open.spotify.com/track/1JLz1mQiVFcXq40rd5d7ww) | [RÜFÜS DU SOL](https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj) | [Bloom](https://open.spotify.com/album/6EGK4tLQTEj8mnfTh0nqa5) | 3:59 | 2021-04-30 | 2021-10-02 |
 | [You're so High](https://open.spotify.com/track/7J7cNv9fl9nbofKMpPng4J) | [Eli & Fur](https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4) | [Illusions](https://open.spotify.com/album/5fF4GeXKiNGjgFkxoxlyHa) | 5:25 | 2020-09-13\* | 2022-07-30 |
 | [Young Forever](https://open.spotify.com/track/2VveodsDiyIi3zcYMDgRx1) | [Lilly Ahlberg](https://open.spotify.com/artist/2s8bgT1CE6KOA0a2omeCDk) | [Young Forever](https://open.spotify.com/album/4tUfK3lJ9ss49U0CwuDnDo) | 3:38 | 2021-03-14 | 2021-04-24 |
-| [Young Hearts Run Free \(2023 Edit\)](https://open.spotify.com/track/5PVJid6BxI6vLNgVWWf8I7) | [Candi Staton](https://open.spotify.com/artist/3S34Unhn5yRcaH5K9aU5Et), [Benji La Vida](https://open.spotify.com/artist/3MwdMIfkarbQ6gVS7EaV7I) | [Young Hearts Run Free \(2023 Edit\)](https://open.spotify.com/album/07RWKFuT4fdhQsINJGDZq5) | 3:32 | 2023-05-05 |  |
+| [Young Hearts Run Free \(2023 Edit\)](https://open.spotify.com/track/5PVJid6BxI6vLNgVWWf8I7) | [Candi Staton](https://open.spotify.com/artist/3S34Unhn5yRcaH5K9aU5Et), [Benji La Vida](https://open.spotify.com/artist/3MwdMIfkarbQ6gVS7EaV7I) | [Young Hearts Run Free \(2023 Edit\)](https://open.spotify.com/album/07RWKFuT4fdhQsINJGDZq5) | 3:32 | 2023-05-05 | 2023-05-21 |
 | [Your Man](https://open.spotify.com/track/6Vgtvd7I5yopJdBuxqjBd2) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [Nectar](https://open.spotify.com/album/6YKk4wlKdACRITGKmGnoIm) | 2:43 | 2020-09-26 | 2022-08-06 |
 
 \*This playlist was first scraped on 2020-09-13. Prior content cannot be recovered.

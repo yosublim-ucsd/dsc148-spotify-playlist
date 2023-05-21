@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjxqgjSiQ9K.md) - [plain]
 
 > Las canciones de fe que más se escuchan en Latinoamérica\.  Foto:  <a href="https://open.spotify.com/artist/6slyJwua5e5GuhuP82sTHR?si=de710369ffbf4a26">Alex Campos</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 566,475 likes - 100 songs - 7 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 566,653 likes - 100 songs - 7 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjxqgjSiQ9K.md) - [plain]
 | 39 | [Tu Autoridad](https://open.spotify.com/track/0ciNudJhfiMWE48PBGW0zB) | [René González](https://open.spotify.com/artist/65cuDgm56bv2MhCytEVRRF) | [Tu Autoridad](https://open.spotify.com/album/40MFlVfN4uVqGzDWKF4xhl) | 4:01 |
 | 40 | [Profundo II](https://open.spotify.com/track/6BFJ260uGD3yRyASBzOFUm) | [Mariannah y Diego](https://open.spotify.com/artist/2bZwH6BImOFTkOPaSdbtOG), [Leonardo vera](https://open.spotify.com/artist/11aljheqgUQuTC2spSpATw) | [Profundo II](https://open.spotify.com/album/6RauIJjotwBlwiFwUrY8JP) | 3:23 |
 | 41 | [Yo Creo](https://open.spotify.com/track/0CvHQgWdxvSQmdwSeS38qf) | [Celeste Nova](https://open.spotify.com/artist/1KaJ3etxmMVYOZLMAbHoOK), [Daniel González](https://open.spotify.com/artist/19I7BPTeyRKj9Xq41sc35Q), [Waleska Morales](https://open.spotify.com/artist/6C0t2XuoPExvGxcVfo7aHc) | [Yo Creo](https://open.spotify.com/album/5QcQgJd2KjPJJ0IXPBPkOt) | 3:46 |
-| 42 | [Dia De Milagres](https://open.spotify.com/track/6O2R8WvZMTqCY8qrzgaHoT) | [Lakewood Music](https://open.spotify.com/artist/6SppFn5ihgxDw7tdfthnaK), [Thalles Roberto](https://open.spotify.com/artist/2Js5EdWOVgL2B2CbtXr5n1), [Jafet Lora](https://open.spotify.com/artist/0wH2ySEIKXfNCnxKPietAj) | [Dia De Milagres](https://open.spotify.com/album/5HAEqBs5oAlXReyhPPYYsQ) | 4:22 |
+| 42 | [Dia De Milagres](https://open.spotify.com/track/6O2R8WvZMTqCY8qrzgaHoT) | [Lakewood Music](https://open.spotify.com/artist/6SppFn5ihgxDw7tdfthnaK), [Ramiro Garcia](https://open.spotify.com/artist/32tEqBlwNmhk5cYycFIbxZ), [Thalles Roberto](https://open.spotify.com/artist/2Js5EdWOVgL2B2CbtXr5n1) | [Dia De Milagres](https://open.spotify.com/album/5HAEqBs5oAlXReyhPPYYsQ) | 4:22 |
 | 43 | [Canción de Amor](https://open.spotify.com/track/21fZyhHx1Xtc0uWn6g29CX) | [Full Life Music](https://open.spotify.com/artist/5t7m02DMcbdLQVwg87Qnup), [Gilberto Daza](https://open.spotify.com/artist/6pdXxGaaEGf7huw3C6fz6a) | [Canción de Amor](https://open.spotify.com/album/3758cs8NsR5Jvz9uHPsMO1) | 3:37 |
 | 44 | [Tomarte de la Mano](https://open.spotify.com/track/1j8xgO0FICUq7wSJZrdHff) | [La Sociedad 111](https://open.spotify.com/artist/12V2P7Bpb6pnvSHzUVjw9p), [Gilberto Daza](https://open.spotify.com/artist/6pdXxGaaEGf7huw3C6fz6a) | [Tomarte de la Mano](https://open.spotify.com/album/7sssGhuFAcudjqHI3sUZOn) | 3:28 |
 | 45 | [Celebra Victorioso](https://open.spotify.com/track/5SalhBIQrEXU76v9QGL6Sh) | [Juan Carlos Alvarado](https://open.spotify.com/artist/1NWIpqck2zZ43JamLJgf6U) | [Celebra Victorioso](https://open.spotify.com/album/2qHcU5VILpvAe1B1tu53yA) | 3:48 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjxqgjSiQ9K.md) - [plain]
 | 99 | [Para La Wifey :\)](https://open.spotify.com/track/6Rs1QghbmvKXS8TXxXBdgV) | [Andrez Babii](https://open.spotify.com/artist/4DROs1Ye9DiLY3X8L7xvl8) | [Why Do We Fear Still?](https://open.spotify.com/album/3f2OOXRi6RFjmDyFUxql8N) | 2:42 |
 | 100 | [No Necesito Doctor.](https://open.spotify.com/track/4dsEUfpG1wyx1KTgBSOyxH) | [Josh Gamez](https://open.spotify.com/artist/7uCU7xpudVdCE7lUJQ7Fwr) | [No Necesito Doctor.](https://open.spotify.com/album/7lpoc4oeAmkRV2NY8uPqNg) | 3:22 |
 
-Snapshot ID: `MCwyNzdkYjcwOThkNTg4MTcyMjM1ZTE0NzFjMjg3ZTNiOGFjMWRhZTBi`
+Snapshot ID: `MCxjNzAwOGNiZjNlNDZjMzdlNjkxMDhhZmFhZTBjN2VlMjlmNTgyMTUw`

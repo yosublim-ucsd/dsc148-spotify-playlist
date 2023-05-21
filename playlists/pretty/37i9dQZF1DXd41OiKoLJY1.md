@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd41OiKoLJY1.md) - [plain]
 
 > Fresh releases from your future favorite artists\. Cover: Lotti  Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,152 likes - 75 songs - 4 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,169 likes - 75 songs - 4 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd41OiKoLJY1.md) - [plain]
 | 21 | [isang iglap pt\. 2](https://open.spotify.com/track/48gqUeCKfbc33DyLuG5fxA) | [Roggie Santos](https://open.spotify.com/artist/7JyYqqt7JhlS801H19BuJZ), [Isay Aguila](https://open.spotify.com/artist/0d4iyTuwvDHCPNoSFe0AmW) | [isang iglap pt\. 2](https://open.spotify.com/album/4dhl6VmaVZZom79Zb4cDRN) | 4:11 |
 | 22 | [What I Need](https://open.spotify.com/track/5hQpWTlhMd42XdUFLNxFJf) | [L!FE](https://open.spotify.com/artist/1qasRfipyyyAbCsY7ZTg7C), [Teddy Travis](https://open.spotify.com/artist/5sl54zMTjTVCOYbqwlJkLQ) | [What I Need](https://open.spotify.com/album/0RT7bBJdRtzlVMZDhglJRs) | 2:47 |
 | 23 | [Be My Girl](https://open.spotify.com/track/6X1gTtMsz0AD5UsfRiGgoR) | [Lance Melgarejo](https://open.spotify.com/artist/5JH8JEIBc4mMHXs7PBbQCk) | [Be My Girl](https://open.spotify.com/album/1iKGosDN1MyGjdtZPcyzPr) | 4:25 |
-| 24 | [No Shxt](https://open.spotify.com/track/2Qm41ylSpTIX86bnOytgB3) | [Verse Ave](https://open.spotify.com/artist/0DiSgxjqPbKuxw2otfc9kj), [Jaye Arthur](https://open.spotify.com/artist/3LMvtoSLCsL8GkiqAbruxo), [Jiro](https://open.spotify.com/artist/3E49X23tuVGPk4US3HkGl8), [Jaymes Karl](https://open.spotify.com/artist/5NBbtkLi1b0P5nez11CfzF), [Icy D](https://open.spotify.com/artist/0DrnDxPyiRdLOa75RPrA2e) | [No Shxt](https://open.spotify.com/album/0CgtxdOVexGEB1ACBKYoF0) | 3:46 |
+| 24 | [No Shxt](https://open.spotify.com/track/2Qm41ylSpTIX86bnOytgB3) | [Verse Ave](https://open.spotify.com/artist/0DiSgxjqPbKuxw2otfc9kj), [Jaye Arthur](https://open.spotify.com/artist/7mcqCEN9CtJqAkudwMYd1H), [Jiro](https://open.spotify.com/artist/3E49X23tuVGPk4US3HkGl8), [Jaymes Karl](https://open.spotify.com/artist/5NBbtkLi1b0P5nez11CfzF), [Icy D](https://open.spotify.com/artist/0DrnDxPyiRdLOa75RPrA2e) | [No Shxt](https://open.spotify.com/album/0CgtxdOVexGEB1ACBKYoF0) | 3:46 |
 | 25 | [Simula](https://open.spotify.com/track/1mnTb2AoWuahMfE7Opb1rl) | [Saint Florent](https://open.spotify.com/artist/1TwK2ydUpeAXsn3bDmTT2H) | [Simula](https://open.spotify.com/album/6a1r4V7LqlYOmMjaeVymLt) | 3:44 |
 | 26 | [Baybayon](https://open.spotify.com/track/6e3IWTwaCOsJPYj0e5XPUh) | [domedi](https://open.spotify.com/artist/7HIjtj0g9EKy8wMhOx6NOr) | [Baybayon](https://open.spotify.com/album/3QG7KiryFArPVlKLbKTdcX) | 3:24 |
 | 27 | [Sorrow \( I just wanna hold on \)](https://open.spotify.com/track/10JXn1ZWLHpDPlAdW8OcoA) | [LATESNACK](https://open.spotify.com/artist/48LFwy3xEEUhlwv6rcomRe) | [Sorrow \( I just wanna hold on \)](https://open.spotify.com/album/0D1sA5MRFNmbZpwnAiEHoK) | 2:36 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd41OiKoLJY1.md) - [plain]
 | 74 | [Heat](https://open.spotify.com/track/62jfpfJqdZWpNmWcwzoEtt) | [PHLMN](https://open.spotify.com/artist/159k7wzGaOssqFoYOrNjW5) | [Heat](https://open.spotify.com/album/6TsKRsvINSYgMCpp70gqkK) | 2:35 |
 | 75 | [Time](https://open.spotify.com/track/7HP0hnLSAP1ScYeFQfayd0) | [Ben Scharlin](https://open.spotify.com/artist/4CaDROYjZpUFMtSvwYv9kY) | [Time](https://open.spotify.com/album/7v7A4ZM6hYL5nrPMfNVElX) | 4:00 |
 
-Snapshot ID: `MCw3MGFlYTAyZWUzMWIwYjI0ZTdjZGFhMTg4ODI1NDlhYzVmM2U1NTcx`
+Snapshot ID: `MCw0MDFjODQ2NWU4ZmJjOTZhMDQwOTljMjI5ZDQ1MDc5MTFmZDE4OTZm`

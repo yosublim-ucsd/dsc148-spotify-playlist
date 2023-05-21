@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 
 > Brand new music from Lewis Capaldi \(pictured\), Anne\-Marie, Blur and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 831,549 likes - 139 songs - 7 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 831,609 likes - 139 songs - 7 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 | 28 | [Rain](https://open.spotify.com/track/0GXwlEXCO8qeeeOIYpsR3m) | [Sleep Token](https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6) | [Take Me Back To Eden](https://open.spotify.com/album/1gjugH97doz3HktiEjx2vY) | 4:12 |
 | 29 | [DJ Turn It Up](https://open.spotify.com/track/28r1xYNakXXwcQKIXu9Wjw) | [Dimension](https://open.spotify.com/artist/1QMgre3BHX161ZHtWMUu6S) | [DJ Turn It Up](https://open.spotify.com/album/1POsjSFSyqW21AEn71tdJn) | 2:57 |
 | 30 | [Only Love Can Save Us Now](https://open.spotify.com/track/6EP9E1OLjmwe6sJlu3EyZN) | [Kesha](https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX) | [Only Love Can Save Us Now](https://open.spotify.com/album/14gFMh79sFu4n9SYxTPTlm) | 2:34 |
-| 31 | [Doolally](https://open.spotify.com/track/5KiOQH7AdJMxAo6LtgkQHg) | [Hak Baker](https://open.spotify.com/artist/5QsqiLFA5Z2gmpKBbxQB2j) | [DOOLALLY](https://open.spotify.com/album/3TZLSPVmWjBqmwqXn1Xal5) | 3:22 |
+| 31 | [DOOLALLY](https://open.spotify.com/track/5KiOQH7AdJMxAo6LtgkQHg) | [Hak Baker](https://open.spotify.com/artist/5QsqiLFA5Z2gmpKBbxQB2j) | [DOOLALLY](https://open.spotify.com/album/3TZLSPVmWjBqmwqXn1Xal5) | 3:22 |
 | 32 | [Genesis \(Remix\) \[feat\. Miraa May, Joyce Wrice & Bellah\]](https://open.spotify.com/track/7moQCUT1UbndHCC2H6xYVs) | [Mnelia](https://open.spotify.com/artist/4DDsQzXhKIC2F70cjMP7ec), [Miraa May](https://open.spotify.com/artist/2fOvE1l01YyORhYzwoaLCM), [Joyce Wrice](https://open.spotify.com/artist/24Cf1irKt7kcewb9OOkPum), [Bellah](https://open.spotify.com/artist/6UZk0TOb0uZ1JWa3BW81FQ) | [Closure Tapes](https://open.spotify.com/album/4rAj2yXfbuhHxR5ibpopF5) | 3:26 |
 | 33 | [Don't Forget About Me](https://open.spotify.com/track/43rGLaawHXspfnWtBCoAQg) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Don't Forget About Me](https://open.spotify.com/album/73RqlYh6EX1aDBC0oz765j) | 2:29 |
 | 34 | [The Universe](https://open.spotify.com/track/2GnGCPgB2ufQqvSuCBedwA) | [Róisín Murphy](https://open.spotify.com/artist/3qwabfaWewpfli7hMNM3O8), [DJ Koze](https://open.spotify.com/artist/1kR99O4MgSTasyeJh8UFCg) | [The Universe](https://open.spotify.com/album/2JKrj31ZTIjy8voQ7azDzC) | 4:05 |
@@ -148,4 +148,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 | 138 | [Typa Girl](https://open.spotify.com/track/16SKOkyJsJNeJkHUFTcDUm) | [southstar](https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi) | [Dunes](https://open.spotify.com/album/5OraR3Y7Ccd990r66pBWUB) | 3:04 |
 | 139 | [Oomph For Your Boomph](https://open.spotify.com/track/2MpocCVzIobfpKZjnim6sy) | [Big Narstie](https://open.spotify.com/artist/4ITNzglfuGtfHgDu29GIMW) | [Oomph For Your Boomph](https://open.spotify.com/album/5StYpjXUCu0NNSsBIKcVe2) | 2:01 |
 
-Snapshot ID: `MCwwMmFlZjg2YTUwZjRlOGQxZDRmOWY0MDBiNTNlMjNjNDViNTM4OGQy`
+Snapshot ID: `MCw3OTdkNjkxNmZiZTJjMzk3NTkxMGIzMGM1NTk1ZTRiY2RjODY1NDQ2`

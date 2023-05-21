@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbj3m6LiQbmy.md) - [plain]
 
 > Free to be! Musica dalla comunità LGBQTIA+ italiana e dai suoi alleati\. Queen Of Saba e BigMama in cover! ✨
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,494 likes - 75 songs - 4 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,503 likes - 75 songs - 4 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,12 +57,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbj3m6LiQbmy.md) - [plain]
 | 47 | [Perché piangi Palermo](https://open.spotify.com/track/5akutvcrcoQwAc5EW8fTXo) | [Dov'è Liana](https://open.spotify.com/artist/0iZfB56PLEsG9T03C2hjhK) | [Perché piangi Palermo](https://open.spotify.com/album/5EIsaz5fXXV0gG8UdPTDey) | 5:49 |
 | 48 | [Chi se ne frega](https://open.spotify.com/track/6RUaPDMCEVkPgceTNMYJrJ) | [Whitemary](https://open.spotify.com/artist/5bfb49rPCcTFUqn6SVX8nt) | [Radio Whitemary](https://open.spotify.com/album/11ENaxvYtPvmoMZ2BtGLSK) | 3:47 |
 | 49 | [Tanti auguri](https://open.spotify.com/track/2LUmJjjBNx3LumAV3m19Je) | [Raffaella Carrà](https://open.spotify.com/artist/6EVyI0S0b1Ld2nm37m5x85) | [Raffaella Carrà](https://open.spotify.com/album/6E7WXLdeWOGUqSZzntA7FC) | 3:46 |
-| 50 | [Perché Perché](https://open.spotify.com/track/3OKX9dzbRN5A00CSYwskmw) | [Corine](https://open.spotify.com/artist/6vs7gfG3OVDyBiY7loLsyQ) | [Pourquoi pourquoi \(Version italienne\)](https://open.spotify.com/album/1SrQyM6ncymRhN0UvTG0jI) | 4:21 |
-| 51 | [Body to Body](https://open.spotify.com/track/75nh9TRQMQubdiK82BYdwL) | [Gepy & Gepy](https://open.spotify.com/artist/09FocFgY6iQKkQB91QPK5o) | [Italian Dance](https://open.spotify.com/album/64cl4El2FwAO60rDuUxg33) | 3:12 |
+| 50 | [Body to Body](https://open.spotify.com/track/75nh9TRQMQubdiK82BYdwL) | [Gepy & Gepy](https://open.spotify.com/artist/09FocFgY6iQKkQB91QPK5o) | [Italian Dance](https://open.spotify.com/album/64cl4El2FwAO60rDuUxg33) | 3:12 |
+| 51 | [Perché Perché](https://open.spotify.com/track/3OKX9dzbRN5A00CSYwskmw) | [Corine](https://open.spotify.com/artist/6vs7gfG3OVDyBiY7loLsyQ) | [Pourquoi pourquoi \(Version italienne\)](https://open.spotify.com/album/1SrQyM6ncymRhN0UvTG0jI) | 4:21 |
 | 52 | [Sumikko Gurashi 2.0](https://open.spotify.com/track/6bQq1Qst9hLvCo3ec159Ak) | [Sillyelly](https://open.spotify.com/artist/1rWg0CyGoCsRYYtpj5NC5P) | [Sumikko Gurashi 2.0](https://open.spotify.com/album/0zDl2renokjvhRCFZaqLve) | 1:31 |
-| 53 | [Merchants](https://open.spotify.com/track/0Xvi293ApVUdnysGfuSPUd) | [Sans Soucis](https://open.spotify.com/artist/4vXFvvWirlvTwcl184KfDc) | [Merchants](https://open.spotify.com/album/2onw1c7o2S0lNN4qFtIggN) | 4:08 |
+| 53 | [Flauta Magica](https://open.spotify.com/track/01gb9bfWp306gDQRbFd5ds) | [Populous](https://open.spotify.com/artist/5Uy8Skuxzxf38jMDTndKIU) | [Moonbaton Vol\. 1](https://open.spotify.com/album/4JLgXoma9I3Dewc8tEGonO) | 2:22 |
 | 54 | [lasciami andare!](https://open.spotify.com/track/5R0GzrFBKM4U0HSGgQSrPC) | [cmqmartina](https://open.spotify.com/artist/3t7NdpIbIprOtDChVJ94DP) | [DISCO](https://open.spotify.com/album/261yOLUxpmPNulXOMWg1Ky) | 3:15 |
-| 55 | [Flauta Magica](https://open.spotify.com/track/01gb9bfWp306gDQRbFd5ds) | [Populous](https://open.spotify.com/artist/5Uy8Skuxzxf38jMDTndKIU) | [Moonbaton Vol\. 1](https://open.spotify.com/album/4JLgXoma9I3Dewc8tEGonO) | 2:22 |
+| 55 | [Merchants](https://open.spotify.com/track/0Xvi293ApVUdnysGfuSPUd) | [Sans Soucis](https://open.spotify.com/artist/4vXFvvWirlvTwcl184KfDc) | [Merchants](https://open.spotify.com/album/2onw1c7o2S0lNN4qFtIggN) | 4:08 |
 | 56 | [Pepper on the Tongue](https://open.spotify.com/track/0pBhLio0KuHjWI1AOHL4H6) | [Massimiliano Pagliara](https://open.spotify.com/artist/6rr6POhpIL25CJFS3o3Dym), [Curses](https://open.spotify.com/artist/6Q6uLDktE9vha6MtIUMcp1) | [See You in Paradise](https://open.spotify.com/album/5lZL8Q3nz0oSRYMCiTOQFS) | 6:12 |
 | 57 | [Bang](https://open.spotify.com/track/6eRMQ7PgYqLA9gRBDtK8Yj) | [Andrea Di Giovanni](https://open.spotify.com/artist/6LgSivOZVfHs4mY4TYobQa) | [Bang](https://open.spotify.com/album/6ZLXYQf0NaF6ee53eHbsYn) | 2:50 |
 | 58 | [Tropicanal](https://open.spotify.com/track/3dLlb5I6vH8flft1ga6YSu) | [Immanuel Casto](https://open.spotify.com/artist/2zG5ycak5H5A12ypISC39F) | [Freak & Chic](https://open.spotify.com/album/3LApgjRlLrqiPsXq4EtzC7) | 4:20 |
@@ -80,8 +80,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbj3m6LiQbmy.md) - [plain]
 | 70 | [Cerco un uomo](https://open.spotify.com/track/7tJy22xDBueKtHRbO8rVVE) | [Sandra Mondaini](https://open.spotify.com/artist/08dxAGAp8DayvKCltnu9hm) | [Le più belle canzoni di Sandra Mondaini](https://open.spotify.com/album/0xWvoZI1iPlulOFZAJLsbO) | 3:41 |
 | 71 | [6 un caxxo di rave](https://open.spotify.com/track/1LgDAUlKJ3Vfspxdlhl5vH) | [Troyamaki](https://open.spotify.com/artist/2sg19ijzUk1KsvKUs3YrxG), [christiannife](https://open.spotify.com/artist/2NYOgwHpoIPcS6H4WQs5XB) | [6 un caxxo di rave](https://open.spotify.com/album/3lEDFSWlwnj6J1MiOyL0Hg) | 2:31 |
 | 72 | [COL FASCIO NON SI SCOPA](https://open.spotify.com/track/2hsFWVIe90ZalnWeMJKbwl) | [ASOKO](https://open.spotify.com/artist/2KOljewrNvd3LCI2NaMj4Y), [Yumeaki](https://open.spotify.com/artist/4R01RVpb7mz8oC0VzPW2cN), [Icon Mode](https://open.spotify.com/artist/20FM6uvwjnNZEqX1W5SvF2) | [QUEERADISE](https://open.spotify.com/album/3uIS4STA53QzTuetrTr4xJ) | 1:51 |
-| 73 | [QUARANTENA](https://open.spotify.com/track/6b4CqGP4pv76ZZJWmunlwE) | [Les Flames](https://open.spotify.com/artist/65KmzmTGpvMwBrQ5UMioxP) | [QUARANTENA](https://open.spotify.com/album/2kgUogZAbvjnoKPcuXhEHS) | 2:04 |
-| 74 | [LANCIA DELTA INTEGRALE](https://open.spotify.com/track/2OVzSn3M49qQowsrZ9pTeI) | [European Vampire](https://open.spotify.com/artist/34jhkGXXN6BTviKzLoQXaS) | [FOREVER SPEEDING THROUGH DARKNESS](https://open.spotify.com/album/3NExizUBa6zdL1pMFZqnKO) | 3:51 |
+| 73 | [LANCIA DELTA INTEGRALE](https://open.spotify.com/track/2OVzSn3M49qQowsrZ9pTeI) | [European Vampire](https://open.spotify.com/artist/34jhkGXXN6BTviKzLoQXaS) | [FOREVER SPEEDING THROUGH DARKNESS](https://open.spotify.com/album/3NExizUBa6zdL1pMFZqnKO) | 3:51 |
+| 74 | [QUARANTENA](https://open.spotify.com/track/6b4CqGP4pv76ZZJWmunlwE) | [Les Flames](https://open.spotify.com/artist/65KmzmTGpvMwBrQ5UMioxP) | [QUARANTENA](https://open.spotify.com/album/2kgUogZAbvjnoKPcuXhEHS) | 2:04 |
 | 75 | [Fammi sapere](https://open.spotify.com/track/5lim6ILbLLRo2klC4C3JhJ) | [Santissima Vicky](https://open.spotify.com/artist/1SVjhg7V450B2W9zcn9dZY) | [Fammi sapere](https://open.spotify.com/album/5BLc0gWZEp3CQvyEpSO5p0) | 2:55 |
 
-Snapshot ID: `MCw1NmJmMDA2NzczNDJkOTY1MDQzMDU0MzE1MTZhMjVmYjAzNTc1MTgw`
+Snapshot ID: `MCw0N2RkMTM4MWMyZmQ4ZWEzZTFjNWY0NWI2NDZiMDZiMzJiMTg3OWU4`

@@ -1,12 +1,12 @@
 {
   "description": "All things <a href=\"spotify:genre:bass\">bass</a> with Whyte Fang.",
-  "num_followers": 965878,
+  "num_followers": 966055,
   "original_name": "Bass Arcade",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5MDAxMmNlZTU0MTkzYzQ2NWU3Y2JmNGVjNTVkNjYyM2IxNDQ5MjA0",
+  "snapshot_id": "MCw1YWMzNjZjYWExODUzMGVmNThlOGJlYjY3NWQ2YjBlNzNiNTQxMDVj",
   "tracks": [
     {
       "added_at": "2023-05-19 04:00:00",
@@ -459,22 +459,6 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "Suffer In Silence",
-        "url": "https://open.spotify.com/album/7HS540iPPvyiOIwDbPGQGc"
-      },
-      "artists": [
-        {
-          "name": "Rezz",
-          "url": "https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw"
-        }
-      ],
-      "duration_ms": 194248,
-      "name": "Suffer In Silence",
-      "url": "https://open.spotify.com/track/6TMsLIRJQ7LkfFY3g0DGKS"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
         "name": "Shivering",
         "url": "https://open.spotify.com/album/2dRmLEMsxRhidLzay43XP5"
       },
@@ -495,18 +479,38 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "Unity",
-        "url": "https://open.spotify.com/album/3u3JkMZvuXinPVaaU3PbV4"
+        "name": "Suffer In Silence",
+        "url": "https://open.spotify.com/album/7HS540iPPvyiOIwDbPGQGc"
       },
       "artists": [
         {
-          "name": "Marshmello",
-          "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
+          "name": "Rezz",
+          "url": "https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw"
         }
       ],
-      "duration_ms": 168148,
-      "name": "Unity",
-      "url": "https://open.spotify.com/track/5ocEjEEmrT02QNIvSc5iub"
+      "duration_ms": 194248,
+      "name": "Suffer In Silence",
+      "url": "https://open.spotify.com/track/6TMsLIRJQ7LkfFY3g0DGKS"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
+        "name": "Mercy",
+        "url": "https://open.spotify.com/album/7634SoS9OTz1egYy9CFG2e"
+      },
+      "artists": [
+        {
+          "name": "Jauz",
+          "url": "https://open.spotify.com/artist/5ttgIeUVka6FLyi00Uu5h8"
+        },
+        {
+          "name": "Masked Wolf",
+          "url": "https://open.spotify.com/artist/1uU7g3DNSbsu0QjSEqZtEd"
+        }
+      ],
+      "duration_ms": 190400,
+      "name": "Mercy",
+      "url": "https://open.spotify.com/track/1NuhAA7NeNwrWcsBh9z8R8"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -531,22 +535,18 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "Mercy",
-        "url": "https://open.spotify.com/album/7634SoS9OTz1egYy9CFG2e"
+        "name": "Unity",
+        "url": "https://open.spotify.com/album/3u3JkMZvuXinPVaaU3PbV4"
       },
       "artists": [
         {
-          "name": "Jauz",
-          "url": "https://open.spotify.com/artist/5ttgIeUVka6FLyi00Uu5h8"
-        },
-        {
-          "name": "Masked Wolf",
-          "url": "https://open.spotify.com/artist/1uU7g3DNSbsu0QjSEqZtEd"
+          "name": "Marshmello",
+          "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
         }
       ],
-      "duration_ms": 190400,
-      "name": "Mercy",
-      "url": "https://open.spotify.com/track/1NuhAA7NeNwrWcsBh9z8R8"
+      "duration_ms": 168148,
+      "name": "Unity",
+      "url": "https://open.spotify.com/track/5ocEjEEmrT02QNIvSc5iub"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -2039,6 +2039,30 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
+        "name": "Back To The Top",
+        "url": "https://open.spotify.com/album/2vKBP1HzJYgc0aWk1Xqhbj"
+      },
+      "artists": [
+        {
+          "name": "CloZee",
+          "url": "https://open.spotify.com/artist/1496XxkytEk26FUJLfpVZr"
+        },
+        {
+          "name": "Britt Lari",
+          "url": "https://open.spotify.com/artist/7ErksWhMMsmGtgT1l1e159"
+        },
+        {
+          "name": "Dreamers Delight",
+          "url": "https://open.spotify.com/artist/1bDXdxSg3Ve7V7f3bteIyk"
+        }
+      ],
+      "duration_ms": 198139,
+      "name": "Back To The Top",
+      "url": "https://open.spotify.com/track/2JGPTeVnAxMiFIk15598Ux"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
         "name": "Start It Over (feat. KC)",
         "url": "https://open.spotify.com/album/4BcDAfQlDRPek8jSKQRw6W"
       },
@@ -2083,30 +2107,6 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "Back To The Top",
-        "url": "https://open.spotify.com/album/2vKBP1HzJYgc0aWk1Xqhbj"
-      },
-      "artists": [
-        {
-          "name": "CloZee",
-          "url": "https://open.spotify.com/artist/1496XxkytEk26FUJLfpVZr"
-        },
-        {
-          "name": "Britt Lari",
-          "url": "https://open.spotify.com/artist/7ErksWhMMsmGtgT1l1e159"
-        },
-        {
-          "name": "Dreamers Delight",
-          "url": "https://open.spotify.com/artist/1bDXdxSg3Ve7V7f3bteIyk"
-        }
-      ],
-      "duration_ms": 198139,
-      "name": "Back To The Top",
-      "url": "https://open.spotify.com/track/2JGPTeVnAxMiFIk15598Ux"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
         "name": "333",
         "url": "https://open.spotify.com/album/15qh25JVc2UMCLjxwBL3Dz"
       },
@@ -2147,26 +2147,6 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "CHOMP",
-        "url": "https://open.spotify.com/album/0OyIHyWq8U0NEE4GwFlHJ5"
-      },
-      "artists": [
-        {
-          "name": "Tokyo Machine",
-          "url": "https://open.spotify.com/artist/3bwENxqj9nhaAI3fsAwmv9"
-        },
-        {
-          "name": "CHOMPO",
-          "url": "https://open.spotify.com/artist/57RgCFctPZxV6fT5YZ5xfT"
-        }
-      ],
-      "duration_ms": 198281,
-      "name": "CHOMP",
-      "url": "https://open.spotify.com/track/6ehkaqY90vXs9noImg2AVT"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
         "name": "Bass Music",
         "url": "https://open.spotify.com/album/560VEcijx4SfGVQOwxlD28"
       },
@@ -2203,6 +2183,26 @@
       "duration_ms": 231724,
       "name": "Let That Go",
       "url": "https://open.spotify.com/track/2NX8NP9hZ0Cl97jrmgxJh6"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
+        "name": "CHOMP",
+        "url": "https://open.spotify.com/album/0OyIHyWq8U0NEE4GwFlHJ5"
+      },
+      "artists": [
+        {
+          "name": "Tokyo Machine",
+          "url": "https://open.spotify.com/artist/3bwENxqj9nhaAI3fsAwmv9"
+        },
+        {
+          "name": "CHOMPO",
+          "url": "https://open.spotify.com/artist/57RgCFctPZxV6fT5YZ5xfT"
+        }
+      ],
+      "duration_ms": 198281,
+      "name": "CHOMP",
+      "url": "https://open.spotify.com/track/6ehkaqY90vXs9noImg2AVT"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -2299,22 +2299,6 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "FAR OUT",
-        "url": "https://open.spotify.com/album/5RQAm3Nx1cpPzQzb1veOra"
-      },
-      "artists": [
-        {
-          "name": "Tokyo Machine",
-          "url": "https://open.spotify.com/artist/3bwENxqj9nhaAI3fsAwmv9"
-        }
-      ],
-      "duration_ms": 204000,
-      "name": "FAR OUT",
-      "url": "https://open.spotify.com/track/0DT3f2Y9UEwGdJC7f4FOzH"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
         "name": "Skanka (VIP)",
         "url": "https://open.spotify.com/album/2vE6RgrsJmNO0gQWC9AQkW"
       },
@@ -2327,6 +2311,22 @@
       "duration_ms": 228004,
       "name": "Skanka (VIP)",
       "url": "https://open.spotify.com/track/4HUsOtjhCpXPUHZfYtPSo8"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
+        "name": "FAR OUT",
+        "url": "https://open.spotify.com/album/5RQAm3Nx1cpPzQzb1veOra"
+      },
+      "artists": [
+        {
+          "name": "Tokyo Machine",
+          "url": "https://open.spotify.com/artist/3bwENxqj9nhaAI3fsAwmv9"
+        }
+      ],
+      "duration_ms": 204000,
+      "name": "FAR OUT",
+      "url": "https://open.spotify.com/track/0DT3f2Y9UEwGdJC7f4FOzH"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -2391,6 +2391,22 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
+        "name": "Freefall",
+        "url": "https://open.spotify.com/album/3NlzrvC7EEGG7CDBvQXEDb"
+      },
+      "artists": [
+        {
+          "name": "Juelz",
+          "url": "https://open.spotify.com/artist/04p1jV00pBnrmh2rKl0jnT"
+        }
+      ],
+      "duration_ms": 153160,
+      "name": "Freefall",
+      "url": "https://open.spotify.com/track/0G62w7rw46fQnj2YP1kLY8"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
         "name": "Revive EP",
         "url": "https://open.spotify.com/album/2DcvIKn3wfkVAsGVwePr0r"
       },
@@ -2443,22 +2459,6 @@
       "duration_ms": 147529,
       "name": "BDASWY",
       "url": "https://open.spotify.com/track/2tcP7gI5IbWf347fKSMh89"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
-        "name": "Freefall",
-        "url": "https://open.spotify.com/album/3NlzrvC7EEGG7CDBvQXEDb"
-      },
-      "artists": [
-        {
-          "name": "Juelz",
-          "url": "https://open.spotify.com/artist/04p1jV00pBnrmh2rKl0jnT"
-        }
-      ],
-      "duration_ms": 153160,
-      "name": "Freefall",
-      "url": "https://open.spotify.com/track/0G62w7rw46fQnj2YP1kLY8"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -2571,6 +2571,42 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
+        "name": "Meditate",
+        "url": "https://open.spotify.com/album/1PvajiEGruZOjkYlpDZlc1"
+      },
+      "artists": [
+        {
+          "name": "RIOT",
+          "url": "https://open.spotify.com/artist/0qPGd8tOMHlFZt8EA1uLFY"
+        }
+      ],
+      "duration_ms": 359778,
+      "name": "Meditate",
+      "url": "https://open.spotify.com/track/7tMTDLcxCwL570XesaDncS"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
+        "name": "Commencement (feat. Gracie Van Brunt)",
+        "url": "https://open.spotify.com/album/0haPvOsTwtQ0GB329u57d7"
+      },
+      "artists": [
+        {
+          "name": "12th Planet",
+          "url": "https://open.spotify.com/artist/3V1h3kAdiVDBiwlY2i6dJz"
+        },
+        {
+          "name": "Gracie Van Brunt",
+          "url": "https://open.spotify.com/artist/61ehajEjCepvX1LehNWtKt"
+        }
+      ],
+      "duration_ms": 204800,
+      "name": "Commencement (feat. Gracie Van Brunt)",
+      "url": "https://open.spotify.com/track/6rlEjVPAJkvFOG2lPHzxhL"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
         "name": "Colors (feat. Eyelar) [Remixes]",
         "url": "https://open.spotify.com/album/3Lo6HZ20Rn6GdH0X9EZ14M"
       },
@@ -2599,38 +2635,26 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "Commencement (feat. Gracie Van Brunt)",
-        "url": "https://open.spotify.com/album/0haPvOsTwtQ0GB329u57d7"
+        "name": "You Found Me",
+        "url": "https://open.spotify.com/album/0TNgUfGot6W2bnm9rvsGqu"
       },
       "artists": [
         {
-          "name": "12th Planet",
-          "url": "https://open.spotify.com/artist/3V1h3kAdiVDBiwlY2i6dJz"
+          "name": "Adventure Club",
+          "url": "https://open.spotify.com/artist/5CdJjUi9f0cVgo9nFuJrFa"
         },
         {
-          "name": "Gracie Van Brunt",
-          "url": "https://open.spotify.com/artist/61ehajEjCepvX1LehNWtKt"
-        }
-      ],
-      "duration_ms": 204800,
-      "name": "Commencement (feat. Gracie Van Brunt)",
-      "url": "https://open.spotify.com/track/6rlEjVPAJkvFOG2lPHzxhL"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
-        "name": "Meditate",
-        "url": "https://open.spotify.com/album/1PvajiEGruZOjkYlpDZlc1"
-      },
-      "artists": [
+          "name": "Jessica Audiffred",
+          "url": "https://open.spotify.com/artist/4odLDriBk6oEZotzLPTSnD"
+        },
         {
-          "name": "RIOT",
-          "url": "https://open.spotify.com/artist/0qPGd8tOMHlFZt8EA1uLFY"
+          "name": "Clara Park",
+          "url": "https://open.spotify.com/artist/7pNT2JErag4HzHSJk6z2w2"
         }
       ],
-      "duration_ms": 359778,
-      "name": "Meditate",
-      "url": "https://open.spotify.com/track/7tMTDLcxCwL570XesaDncS"
+      "duration_ms": 269538,
+      "name": "You Found Me",
+      "url": "https://open.spotify.com/track/5caU54QlqCMPEKIbQ3nbhd"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -2919,26 +2943,6 @@
       "duration_ms": 132051,
       "name": "Transport God",
       "url": "https://open.spotify.com/track/7mMZlq2vNjjpBVYkMoaNjp"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
-        "name": "Walked Through Fire",
-        "url": "https://open.spotify.com/album/3K1a93RS9IWlIulb8Tkqhn"
-      },
-      "artists": [
-        {
-          "name": "Awakend",
-          "url": "https://open.spotify.com/artist/4lFbV0wEuW8ulSq6NBYg4O"
-        },
-        {
-          "name": "Isaac Warburton",
-          "url": "https://open.spotify.com/artist/4PZIzA4TmZMBMDg2soNTQk"
-        }
-      ],
-      "duration_ms": 214883,
-      "name": "Walked Through Fire",
-      "url": "https://open.spotify.com/track/5GjxlgXBgCMbp0zHLFUaug"
     },
     {
       "added_at": "2023-05-19 04:00:00",

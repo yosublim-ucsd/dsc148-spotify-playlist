@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWhB4HOWKFQc.md) - [plain]
 
 > Kumpulan lagu yang sedang menyebar luas\. Cover: Alan Walker
 
-[Spotify](https://open.spotify.com/user/spotify) - 935,748 likes - 79 songs - 4 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 938,093 likes - 79 songs - 4 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -88,4 +88,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWhB4HOWKFQc.md) - [plain]
 | 78 | [Apa Mungkin](https://open.spotify.com/track/5KYUrBgdbIcqwaGSIgfXPl) | [Bernadya](https://open.spotify.com/artist/47z98pKd71yIbgXwe9LPVC) | [Apa Mungkin](https://open.spotify.com/album/26VYaukDjQn7rwT4ummk31) | 3:58 |
 | 79 | [Usai](https://open.spotify.com/track/3nHxZEe1dT7zs73DG6pNll) | [Tiara Andini](https://open.spotify.com/artist/0kPb52ySN2k9P6wEZPTUzm) | [Usai](https://open.spotify.com/album/1lN55vIsNORo3W6QlWbGR8) | 3:37 |
 
-Snapshot ID: `MCw2NWViZTQ1YjBjMWUyNjg2MzY4ZTY5YjgzZmU4NjY4MjI1ODBjMWFi`
+Snapshot ID: `MCw1Y2ZlMzY0OWIzZDY4YmEwMTY4MjFkZGFkODVmOTA0NjBlMWUxNTk1`

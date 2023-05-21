@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX91gZ5XTbTPm.md) - [plain]
 
 > The Midwest is always on time\. Cover: G Herbo
 
-[Spotify](https://open.spotify.com/user/spotify) - 106,571 likes - 49 songs - 2 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 106,647 likes - 49 songs - 2 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX91gZ5XTbTPm.md) - [plain]
 | 7 | [B&E Pt\. 1](https://open.spotify.com/track/3w172RIHWXdyTo8KjFyeTo) | [Tee Grizzley](https://open.spotify.com/artist/6AUl0ykLLpvTktob97x9hO), [Skilla Baby](https://open.spotify.com/artist/1GVenmuuAtusi17LY6FvgI) | [B&E Pt\. 1](https://open.spotify.com/album/6es9sQ9dDPmWNUx1kuoOQT) | 2:33 |
 | 8 | [Talkin Crazy](https://open.spotify.com/track/0ypgbUTj2YsP1JO3etqq1b) | [Rio Da Yung Og](https://open.spotify.com/artist/6O1vRHWVGKJTnWuJmItnsx) | [Talkin Crazy](https://open.spotify.com/album/0bafwntACaSuNBO9wDnAfm) | 3:30 |
 | 9 | [Reaper \(feat\. Babyface Ray\)](https://open.spotify.com/track/0JJYlHPFJ9hCopWxY9nYPI) | [Peezy](https://open.spotify.com/artist/6qQcyyo2dCSynZQCCTIWAK), [BabyTron](https://open.spotify.com/artist/0sKsReKseslDlhxmbN6wLk), [Babyface Ray](https://open.spotify.com/artist/3zZ88AwlTwfCJkowsFCvLA) | [Reaper \(feat\. Babyface Ray / FAST X Soundtrack\)](https://open.spotify.com/album/3XHvDPaZi6SyJ7DWwtTEkL) | 2:48 |
-| 10 | [Spinnin' \(feat\. EST Gee\)](https://open.spotify.com/track/1jBSRWaJIQ0AaF0UQ91IbG) | [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7), [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [Spinnin' \(feat\. EST Gee / FAST X Soundtrack\)](https://open.spotify.com/album/5YjvUivNXjwSZFFKa4ffbb) | 2:47 |
+| 10 | [Spinnin' \(feat\. EST Gee\)](https://open.spotify.com/track/15rAPSEAcdP4wE8jBkicV6) | [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7), [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [FAST X \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4jgT0TBoRBPW2bSNXbjN0s) | 2:47 |
 | 11 | [GOMD \(Remix\) \[feat\. Lil Uzi Vert\]](https://open.spotify.com/track/4ncoZ4PKxvyzVoSIJsOLo0) | [Veeze](https://open.spotify.com/artist/0B3kMiB21aPQlKumGDr4c7), [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [GOMD \(Remix\) \[feat\. Lil Uzi Vert\]](https://open.spotify.com/album/1XTi2AYI6uOEonUfsLSm3s) | 4:36 |
 | 12 | [Likka Sto](https://open.spotify.com/track/69PUAWTgoHZihzmM0kwYpE) | [Lil Blessin](https://open.spotify.com/artist/5SwdIfc2sLJoPZhVkrilYH) | [Likka Sto](https://open.spotify.com/album/5rm7h2Kl9uStJE2Y3rBM72) | 2:10 |
 | 13 | [Leave Her](https://open.spotify.com/track/0MZGwYb5mTATbmoi671wEg) | [LUCKI](https://open.spotify.com/artist/5tQMB0cuNXdCtzovGt55uD) | [Leave Her](https://open.spotify.com/album/1kLl5rrXewZ0SP0wcNSWcc) | 2:17 |
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX91gZ5XTbTPm.md) - [plain]
 | 48 | [Millions \(feat\. Veeze & LUCKI\)](https://open.spotify.com/track/4FueImbcTZOR7aC9FidrdT) | [Talibando](https://open.spotify.com/artist/5Uv0QiFyiS6dI5tqgiJciI), [Veeze](https://open.spotify.com/artist/0B3kMiB21aPQlKumGDr4c7), [LUCKI](https://open.spotify.com/artist/5tQMB0cuNXdCtzovGt55uD) | [WAR LORD](https://open.spotify.com/album/2fSrLZtl8ASjDyohkKT8LG) | 3:23 |
 | 49 | [Way Too Petty](https://open.spotify.com/track/5ObUmPrfvyC7IEOe3n8Z3J) | [DDG](https://open.spotify.com/artist/0WK3H9OErSn5zKOkOV5egm) | [Way Too Petty](https://open.spotify.com/album/5jd5UY4vC6PoWb3Iw4owqF) | 2:12 |
 
-Snapshot ID: `MCwxMzk4MGEzM2ExZWUxZDZiNjdmZDE2MWJiMDI0ZTE3ZGE5NTJjYmRl`
+Snapshot ID: `MCxkYzkxOWMyNDE1YWYzMTMwMmYwMjIyNGNjMGNhMDhmOGI5YjkzZDgx`

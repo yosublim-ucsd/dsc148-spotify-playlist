@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBz12MDeCuX.md) - [plain]
 
 > Die Playlist, die dich fühlt\. Cover: southstar
 
-[Spotify](https://open.spotify.com/user/spotify) - 385,026 likes - 100 songs - 4 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 385,299 likes - 100 songs - 4 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBz12MDeCuX.md) - [plain]
 | 99 | [HAUNTED](https://open.spotify.com/track/5ff77CZZUpY8Gvu5GuA6vb) | [Isabel LaRosa](https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4) | [HAUNTED](https://open.spotify.com/album/4QhZwVQuNbbXtMgjp2Ngp2) | 2:17 |
 | 100 | [Was mir gefällt](https://open.spotify.com/track/6WnIsfCuNqrlngROXGVe1W) | [AYLIVA](https://open.spotify.com/artist/2rEVnwCPBeGkWMv425KoG1) | [Was mir gefällt](https://open.spotify.com/album/1JK0xNjVPJLAgH81xYY76Z) | 2:18 |
 
-Snapshot ID: `MCw5M2Y5ZjAyMGVjYTVkMzRjMDY0YjQ1NDk0YzMxM2VmMWI0ODM2ZDQ5`
+Snapshot ID: `MCwwNzFjOTJiMjViNzU1YjNlNDllY2VmZjQxZjQxNmQ0ZmM4MjZjNTZk`

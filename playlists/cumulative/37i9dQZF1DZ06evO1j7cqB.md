@@ -4,7 +4,7 @@
 
 > This is Bear McCreary\. The essential tracks, all in one playlist.
 
-54 songs - 3 hr 7 min
+55 songs - 3 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,6 +61,7 @@
 | [This Wandering Day](https://open.spotify.com/track/7GzOUmcsBrCmt93N1t1Oni) | [Bear McCreary](https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG), [Megan Richards](https://open.spotify.com/artist/1g4y9wuUTSAWAPrpWadtan) | [The Lord of the Rings: The Rings of Power \(Season One, Episode Five: Partings \- Amazon Original Series Soundtrack\)](https://open.spotify.com/album/4upGT86TEEIw2vJpcPG4Mk) | 2:08 | 2022-12-01 |  |
 | [Two Standing Stones](https://open.spotify.com/track/1jSH1At6aK8iHruk2t4uGo) | [Bear McCreary](https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG), [Sophia Brown](https://open.spotify.com/artist/0IjrARQsOwJaq7b5wbkTYj) | [The Witcher: Blood Origin \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/3wpT0UznACauxn7SjizehW) | 2:50 | 2023-01-12 | 2023-02-21 |
 | [Valinor](https://open.spotify.com/track/0u5Z2JqBdzHoXKcFgq0KK6) | [Bear McCreary](https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG) | [The Lord of the Rings: The Rings of Power \(Season One: Amazon Original Series Soundtrack\)](https://open.spotify.com/album/1zCtGVGxobce9FJXXLe1V2) | 2:39 | 2022-12-01 |  |
-| [Valkyries](https://open.spotify.com/track/1DWCfz6WAwoESRO1NYXlqr) | [Bear McCreary](https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG) | [God of War \(PlayStation Soundtrack\)](https://open.spotify.com/album/3AieuV7WztobSMYG86Hdez) | 5:08 | 2022-12-01 |  |
+| [Valkyries](https://open.spotify.com/track/1DWCfz6WAwoESRO1NYXlqr) | [Bear McCreary](https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG) | [God of War \(PlayStation Soundtrack\)](https://open.spotify.com/album/3AieuV7WztobSMYG86Hdez) | 5:08 | 2022-12-01 | 2023-05-21 |
+| [Witch of the Woods](https://open.spotify.com/track/4w0ZGptbkHLkKZhLVTg5He) | [Bear McCreary](https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG) | [God of War \(PlayStation Soundtrack\)](https://open.spotify.com/album/3AieuV7WztobSMYG86Hdez) | 3:02 | 2023-05-20 |  |
 
 \*This playlist was first scraped on 2022-12-02. Prior content cannot be recovered.

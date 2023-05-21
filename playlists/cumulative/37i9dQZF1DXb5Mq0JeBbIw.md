@@ -4,7 +4,7 @@
 
 > Soft songs that gives you a gentle start of the day.
 
-211 songs - 12 hr 12 min
+212 songs - 12 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -131,6 +131,7 @@
 | [Me Without You \- Acoustic](https://open.spotify.com/track/5XsMfRcxAXa2efZQt80v5L) | [Mads Langer](https://open.spotify.com/artist/028xhPwqtWva4J0MkFHY2x) | [Me Without You](https://open.spotify.com/album/4pz9P63oJ2hV8BPakZYxny) | 3:11 | 2022-10-07 | 2023-04-18 |
 | [Me Without You \- Acoustic](https://open.spotify.com/track/7gvVZifvmtzK2UkW3Ez0Gm) | [Mads Langer](https://open.spotify.com/artist/028xhPwqtWva4J0MkFHY2x) | [Me Without You](https://open.spotify.com/album/6QsjK5YQbJ6uT2GIHnCId5) | 3:11 | 2022-05-30 | 2022-07-29 |
 | [Mean It](https://open.spotify.com/track/5IyuGEmlFsnp1TN1M9OSd8) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Mean It](https://open.spotify.com/album/0vBpaPYo5I3s90tEmgeacl) | 2:51 | 2023-02-24 |  |
+| [Meltdown \- Acoustic](https://open.spotify.com/track/73FSsylmR8pD3q4PVGmOqc) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Meltdown \(Acoustic\)](https://open.spotify.com/album/4WnJjgV05k7SlsFI4u7mEK) | 3:44 | 2023-05-19 |  |
 | [Mirage](https://open.spotify.com/track/1emAqEEKHGpdFx6H2YJTiG) | [Elina](https://open.spotify.com/artist/4K9OTkRXEFL6NDXFTqVmq9) | [Mirage](https://open.spotify.com/album/2ZkqACn45Z6cSf1xy0ll2D) | 2:44 | 2022-05-30 |  |
 | [Mirou](https://open.spotify.com/track/5GHr2k1v1ACD5MqkuCRz87) | [Sumie](https://open.spotify.com/artist/1oEHAWdn0GWyRaL8JGOlan) | [Mirou](https://open.spotify.com/album/3sBQyl3PDQP1zh5BcpKaJA) | 4:12 | 2022-06-24 |  |
 | [Mirou](https://open.spotify.com/track/6tYjeVpoBagQoXWIcEaAzP) | [Sumie](https://open.spotify.com/artist/1oEHAWdn0GWyRaL8JGOlan) | [Mirou](https://open.spotify.com/album/54CEHp4lRYwCajjs74k14p) | 4:12 | 2022-05-30 | 2022-07-29 |
@@ -214,7 +215,7 @@
 | [Whiplash \- Acoustic](https://open.spotify.com/track/1qW9MoSFuSRTh7iJ8nf6wV) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [Kaela Sinclair](https://open.spotify.com/artist/3gWrqVNUebQF7alIH0bzZ8) | [Whiplash \(Acoustic\)](https://open.spotify.com/album/2p9CwOdI1bCw4vZ9TIG1rx) | 2:25 | 2022-05-30 | 2022-07-29 |
 | [Wild Love \- Acoustic](https://open.spotify.com/track/4lGBYppTdnYP5ELFc13KOb) | [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD) | [Wild Love \(Acoustic\)](https://open.spotify.com/album/3rcKlt3Yh8TKM4LpTHEbrt) | 3:09 | 2022-05-30 | 2022-07-29 |
 | [Wild Love \- Acoustic](https://open.spotify.com/track/4zDQS1OCghoOKkjw6hf2qT) | [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD) | [Wild Love \(Acoustic\)](https://open.spotify.com/album/07NunjdVGPXs07aqNDiVVk) | 3:09 | 2022-06-24 |  |
-| [With Or Without You \(Acoustic\)](https://open.spotify.com/track/1691RkrJC65WAaLJhJryKS) | [Landon Austin](https://open.spotify.com/artist/2WROyFfIOmKtRopsTrIL52), [Colin & Caroline](https://open.spotify.com/artist/2Y4125mDrgQyPD7dt76Rtm) | [With Or Without You \(Acoustic\)](https://open.spotify.com/album/1PSL58r4ZGDdNtJ2MiXclC) | 3:26 | 2022-05-30 |  |
+| [With Or Without You \(Acoustic\)](https://open.spotify.com/track/1691RkrJC65WAaLJhJryKS) | [Landon Austin](https://open.spotify.com/artist/2WROyFfIOmKtRopsTrIL52), [Colin & Caroline](https://open.spotify.com/artist/2Y4125mDrgQyPD7dt76Rtm) | [With Or Without You \(Acoustic\)](https://open.spotify.com/album/1PSL58r4ZGDdNtJ2MiXclC) | 3:26 | 2022-05-30 | 2023-05-21 |
 | [Without Me \(Acoustic\)](https://open.spotify.com/track/3pnEPFXuYoYKEiBRTCElog) | [Ben Woodward](https://open.spotify.com/artist/142VT1MtWzaD13CnOiKFDn) | [Without Me \(Acoustic\)](https://open.spotify.com/album/3NwjEGRRH0zOZUihZcfYHn) | 3:13 | 2022-05-30 | 2023-02-18 |
 | [Without You](https://open.spotify.com/track/7gQ0Ujx0iQ6yxNTFukpwFx) | [Emma Steinbakken](https://open.spotify.com/artist/3GIadM69XShFZNB3gP67Td) | [Without You](https://open.spotify.com/album/5gJz01RcHXsdy2IDWsnPtP) | 4:32 | 2022-05-30 | 2022-07-29 |
 | [Without You](https://open.spotify.com/track/0GuIHTNw6hNvkMNLf8bBdh) | [Emma Steinbakken](https://open.spotify.com/artist/3GIadM69XShFZNB3gP67Td) | [Without You](https://open.spotify.com/album/6CEQVWd8lCfQN849wYVIxc) | 4:32 | 2022-11-07 | 2023-02-25 |

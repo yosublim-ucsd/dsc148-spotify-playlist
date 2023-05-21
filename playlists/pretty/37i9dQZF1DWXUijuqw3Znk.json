@@ -1,12 +1,12 @@
 {
   "description": "\ubc14\ub2e5\uc5d0\uc11c \uc704\ub85c. \uc131\uacf5\uc744 \uc704\ud55c \uc5f4\uc815\uacfc \uc9d1\ub150\uc744 \ub290\uaef4\ubcf4\uc138\uc694. (\ucee4\ubc84: Royal 44)",
-  "num_followers": 3224,
+  "num_followers": 3226,
   "original_name": "\ubc14\ub2e5\uc5d0\uc11c \uc704\ub85c",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0NTI5NDJjMzUyNTcyNTViNmM5ZTdiYTQ1MTI4MDhhNmQ3YzFlNTJh",
+  "snapshot_id": "MCw4MjFkNmFiMGRlY2RiNDVlZGMzYTQ5YzM5YTkxMWQzZTZlYjMxNGNj",
   "tracks": [
     {
       "added_at": "2023-05-05 08:29:56",
@@ -1251,6 +1251,22 @@
     {
       "added_at": "2023-05-05 08:29:56",
       "album": {
+        "name": "BLEACHED",
+        "url": "https://open.spotify.com/album/1YuWWMWO87WPJInhLGy9yh"
+      },
+      "artists": [
+        {
+          "name": "Loco",
+          "url": "https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm"
+        }
+      ],
+      "duration_ms": 162186,
+      "name": "A.O.M.G.",
+      "url": "https://open.spotify.com/track/422H9gDr4EXMHQJNnAEvH3"
+    },
+    {
+      "added_at": "2023-05-05 08:29:56",
+      "album": {
         "name": "Boys and Girls",
         "url": "https://open.spotify.com/album/7ADI8MDAmfM10pipMZnq8e"
       },
@@ -1267,22 +1283,6 @@
       "duration_ms": 208771,
       "name": "Predator",
       "url": "https://open.spotify.com/track/0U90SCa9RwlfQOKAwRdawq"
-    },
-    {
-      "added_at": "2023-05-05 08:29:56",
-      "album": {
-        "name": "BLEACHED",
-        "url": "https://open.spotify.com/album/1YuWWMWO87WPJInhLGy9yh"
-      },
-      "artists": [
-        {
-          "name": "Loco",
-          "url": "https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm"
-        }
-      ],
-      "duration_ms": 162186,
-      "name": "A.O.M.G.",
-      "url": "https://open.spotify.com/track/422H9gDr4EXMHQJNnAEvH3"
     },
     {
       "added_at": "2023-05-05 08:29:56",
@@ -1711,6 +1711,30 @@
     {
       "added_at": "2023-05-05 08:29:56",
       "album": {
+        "name": "RESPECT",
+        "url": "https://open.spotify.com/album/4FpsKzdhjKzTTYgN9DvJbv"
+      },
+      "artists": [
+        {
+          "name": "Loco",
+          "url": "https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm"
+        },
+        {
+          "name": "GRAY",
+          "url": "https://open.spotify.com/artist/3kPEBSt7qgVoRZSbIXMr7W"
+        },
+        {
+          "name": "DJ Pumkin",
+          "url": "https://open.spotify.com/artist/6FzmP3yuDErhGqZ3CP6Fz0"
+        }
+      ],
+      "duration_ms": 184586,
+      "name": "RESPECT (Feat. GRAY, DJ Pumkin)",
+      "url": "https://open.spotify.com/track/7tCNxlrTSIonzZW9oBa4SC"
+    },
+    {
+      "added_at": "2023-05-05 08:29:56",
+      "album": {
         "name": "MALIK THE CACTUS FLOWER",
         "url": "https://open.spotify.com/album/5BP27AqCtwa5foaBPTxYJf"
       },
@@ -1739,30 +1763,6 @@
       "duration_ms": 241777,
       "name": "Diamonds",
       "url": "https://open.spotify.com/track/2DYDS4mahwwr1DvWffzMas"
-    },
-    {
-      "added_at": "2023-05-05 08:29:56",
-      "album": {
-        "name": "RESPECT",
-        "url": "https://open.spotify.com/album/4FpsKzdhjKzTTYgN9DvJbv"
-      },
-      "artists": [
-        {
-          "name": "Loco",
-          "url": "https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm"
-        },
-        {
-          "name": "GRAY",
-          "url": "https://open.spotify.com/artist/3kPEBSt7qgVoRZSbIXMr7W"
-        },
-        {
-          "name": "DJ Pumkin",
-          "url": "https://open.spotify.com/artist/6FzmP3yuDErhGqZ3CP6Fz0"
-        }
-      ],
-      "duration_ms": 184586,
-      "name": "RESPECT (Feat. GRAY, DJ Pumkin)",
-      "url": "https://open.spotify.com/track/7tCNxlrTSIonzZW9oBa4SC"
     },
     {
       "added_at": "2023-05-05 08:29:56",
@@ -1955,26 +1955,6 @@
     {
       "added_at": "2023-05-05 08:29:56",
       "album": {
-        "name": "First Rollie",
-        "url": "https://open.spotify.com/album/3KKL9O2t4zoXef1mrfno5A"
-      },
-      "artists": [
-        {
-          "name": "Dok2",
-          "url": "https://open.spotify.com/artist/0rW6fVd3yuW2CF2sLYWQtE"
-        },
-        {
-          "name": "Seori",
-          "url": "https://open.spotify.com/artist/2bWTIIQP9zaVc55RaMGu7e"
-        }
-      ],
-      "duration_ms": 199786,
-      "name": "First Rollie (feat. Seori)",
-      "url": "https://open.spotify.com/track/3j6RLHICT8t7j0JK4YaXuO"
-    },
-    {
-      "added_at": "2023-05-05 08:29:56",
-      "album": {
         "name": "Show Me the Money 4 Episode 5",
         "url": "https://open.spotify.com/album/38Ch7I5PqyCIugfJCcKTMr"
       },
@@ -1991,6 +1971,26 @@
       "duration_ms": 410810,
       "name": "Something I can do",
       "url": "https://open.spotify.com/track/0QOvc1Y1gPItKQf3l3eBTR"
+    },
+    {
+      "added_at": "2023-05-05 08:29:56",
+      "album": {
+        "name": "First Rollie",
+        "url": "https://open.spotify.com/album/3KKL9O2t4zoXef1mrfno5A"
+      },
+      "artists": [
+        {
+          "name": "Dok2",
+          "url": "https://open.spotify.com/artist/0rW6fVd3yuW2CF2sLYWQtE"
+        },
+        {
+          "name": "Seori",
+          "url": "https://open.spotify.com/artist/2bWTIIQP9zaVc55RaMGu7e"
+        }
+      ],
+      "duration_ms": 199786,
+      "name": "First Rollie (feat. Seori)",
+      "url": "https://open.spotify.com/track/3j6RLHICT8t7j0JK4YaXuO"
     },
     {
       "added_at": "2023-05-05 08:29:56",

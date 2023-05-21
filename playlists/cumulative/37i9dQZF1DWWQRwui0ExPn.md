@@ -4,7 +4,7 @@
 
 > The chillest beats to help you relax, study, code, and focus.
 
-5,612 songs - 8 day 20 hr 51 min
+5,614 songs - 8 day 20 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1621,6 +1621,7 @@
 | [Fast Coupe](https://open.spotify.com/track/6tc7zWJVIIriVePVQNtLxA) | [Kreatev](https://open.spotify.com/artist/5fca6jKkDzssBHS5V1jU8z) | [Fast Coupe](https://open.spotify.com/album/6sAtDkgwuXjdoyg3cyYE9f) | 2:14 | 2022-11-18 | 2023-01-07 |
 | [Fate](https://open.spotify.com/track/3Hmdm2g4XLanIY1tkyYkB2) | [Bertholet](https://open.spotify.com/artist/2igm2vmbeYibaElfyvj9XQ), [.Sinh](https://open.spotify.com/artist/0qRgQLC8mPlcJ5Zo6mlcuG) | [Fate](https://open.spotify.com/album/1PT6aYSJQOZxmuyXGtNaaL) | 1:24 | 2019-11-22 | 2021-01-17 |
 | [Fauna](https://open.spotify.com/track/6F5rDnUmVYXc5DEAHGS0Wr) | [Van El](https://open.spotify.com/artist/2kBXWpkCBsooA31kqTFuog), [Snazzy](https://open.spotify.com/artist/7lDQhKVaKvuNDftiiZVrYy), [morningtime](https://open.spotify.com/artist/7xwOP2sBEig4hhduDiYwHS) | [Fauna](https://open.spotify.com/album/2XK8gJUcGUZHQklKtPNUOh) | 2:15 | 2022-08-19 | 2022-11-25 |
+| [Favorite Cup](https://open.spotify.com/track/0f4xLNutiwWummtwQTnu5X) | [Donkeychote](https://open.spotify.com/artist/3qPSdWkG9474zgjbxYwncU) | [Favorite Cup](https://open.spotify.com/album/0w1Dj5aDArYGbs2m6Vosd4) | 2:14 | 2023-05-18 |  |
 | [Favorite Sause](https://open.spotify.com/track/2uUNTBmq2VBW1UMJcAqOEn) | [DJ Garlik](https://open.spotify.com/artist/0N2on1pgu8mv01ch9Cs9XF), [Bertholet](https://open.spotify.com/artist/2igm2vmbeYibaElfyvj9XQ) | [Favorite Sause](https://open.spotify.com/album/5mdVpX2SpB24YHfRXhcm8G) | 1:48 | 2020-01-13 | 2021-08-22 |
 | [Fear & Trust](https://open.spotify.com/track/51mDrXPeJpkB5IvLuPXQZY) | [Sless Praismo](https://open.spotify.com/artist/2T7UwxWIrk7NjU3BDRjtrt), [Mosalla](https://open.spotify.com/artist/2MlmctFTcQ5Qhjq5ataD5C) | [Fear & Trust](https://open.spotify.com/album/40xkZV6wNCHv84vhtMoETj) | 1:58 | 2022-04-15 | 2022-05-27 |
 | [Fearless](https://open.spotify.com/track/1zkW0E6gPOXkl0UNvMK4vB) | [Louk](https://open.spotify.com/artist/6ljotXgL1sbhiI7aiF7W8O) | [Fearless](https://open.spotify.com/album/2AhlDroDgazTUk6WTXhhtz) | 2:49 | 2022-09-23 | 2023-01-13 |
@@ -1891,7 +1892,7 @@
 | [Gelato](https://open.spotify.com/track/6J4Rm2sXHrUx6TQ4P4tgaL) | [Fona](https://open.spotify.com/artist/1Z9Kmnj7PimziF4URnIzL2), [Styn](https://open.spotify.com/artist/0vTPGCQGp2pkRUCXF8gEXd) | [Gelato](https://open.spotify.com/album/7IOcnLbkNQ09VxnOgat9cm) | 1:08 | 2020-01-22 | 2021-04-17 |
 | [Gemini](https://open.spotify.com/track/4EOVSl5gURKZh9KrCSUXSy) | [Deeb](https://open.spotify.com/artist/1d9MVFeVkGTYnRNMlNe0dz) | [Gemini](https://open.spotify.com/album/6uFYcI7rTfEtOQk6gqk2hs) | 3:20 | 2021-06-18 | 2022-01-14 |
 | [Gemini](https://open.spotify.com/track/4rVXgnw6aRpcwvo5u8c4JZ) | [Deeb](https://open.spotify.com/artist/1d9MVFeVkGTYnRNMlNe0dz) | [Gemini](https://open.spotify.com/album/7eV8mTK0ahRLgjiwP5yBPq) | 3:20 | 2021-07-04 | 2021-07-17 |
-| [gemini](https://open.spotify.com/track/7fDBsKuj8mPlo9skY2sNv4) | [fly\_by\_wire](https://open.spotify.com/artist/68bqVC3nQPvOuKAYdQNUEj) | [gemini](https://open.spotify.com/album/5p0dEesOaHCZXAx2Q5QmX8) | 2:09 | 2023-03-24 |  |
+| [gemini](https://open.spotify.com/track/7fDBsKuj8mPlo9skY2sNv4) | [fly\_by\_wire](https://open.spotify.com/artist/68bqVC3nQPvOuKAYdQNUEj) | [gemini](https://open.spotify.com/album/5p0dEesOaHCZXAx2Q5QmX8) | 2:09 | 2023-03-24 | 2023-05-21 |
 | [Gentle](https://open.spotify.com/track/1rlKioihwjz8aMrXeFUW7R) | [Micho Beats](https://open.spotify.com/artist/2PXnVnJzkUh9CMVYXyZ22U) | [Gentle](https://open.spotify.com/album/5VqY6czEUcJTpTHYV3yNkg) | 2:31 | 2021-07-29 | 2022-03-12 |
 | [gentle soul](https://open.spotify.com/track/3JrjsxbFTcxRgMJd8UXpFA) | [Dpsht](https://open.spotify.com/artist/2VhyMRukJ2e1CgZ6k7Tux3) | [gentle soul](https://open.spotify.com/album/1HDTHKBl33TfLJ8X4XD2FB) | 1:59 | 2022-12-02 | 2023-01-20 |
 | [Geometric](https://open.spotify.com/track/4qnLWQbvrFOuZ8Sak8LWiF) | [Olivia Galan](https://open.spotify.com/artist/33sFL2nL8q5EZmJsWCM1U3) | [Geometric](https://open.spotify.com/album/4FvPdyaMYSkOwYIoEVeKbP) | 2:58 | 2021-10-20 | 2022-04-24 |
@@ -2289,6 +2290,7 @@
 | [Iceboy](https://open.spotify.com/track/1mHesjJq3oHxL39ny7lXpk) | [Fed Nance](https://open.spotify.com/artist/2aeZ4vysvCWfhqaHHLWzdm) | [Iceboy](https://open.spotify.com/album/7gvC6LTi6Jyqo3WdeyrY0R) | 1:51 | 2022-04-08 | 2022-08-27 |
 | [Ichika](https://open.spotify.com/track/5lx01JAoQWZf0bXrBamIba) | [Neko Kedi](https://open.spotify.com/artist/785Hs8MoBt2oTIRtfEtsuw) | [Ichika](https://open.spotify.com/album/7h6dYxYvsbI3trb1iNuqSp) | 2:02 | 2022-11-11 | 2023-03-07 |
 | [Icy Waters](https://open.spotify.com/track/5RCvWR4MXGZEfkE6ofH5F9) | [Summit One](https://open.spotify.com/artist/4LjrwGL6ImaewVOcW6kJ42) | [Icy Waters](https://open.spotify.com/album/4qDa3SXNAtmial8OoExTvk) | 1:48 | 2020-06-23 | 2021-01-11 |
+| [Ideal Image, Pt\. 2](https://open.spotify.com/track/3VVkXqGbgpIIHPWAfwvNBH) | [Thelonious Coltrane](https://open.spotify.com/artist/6iXZPP5qLB2dtIQ4WuNk9M) | [Ideal Image, Pt\. 2](https://open.spotify.com/album/0ZsDH6FXHvplXoguWnZXMo) | 1:56 | 2023-05-18 |  |
 | [Ideas](https://open.spotify.com/track/3ZVbXceXHOIaN5YLyTl3fl) | [Vienna](https://open.spotify.com/artist/7bNTxzrU2AIdzkf7pK0Jgy), [Wilf](https://open.spotify.com/artist/6YFTYI3N17c6wI2Vc6czX7) | [Natural Language & Ideas](https://open.spotify.com/album/4k4gvG576sW3XdiFgy4sEM) | 2:42 | 2020-11-05 | 2021-10-20 |
 | [IDK Valley](https://open.spotify.com/track/7IZDBE1Z2z6vie9UXcHsJz) | [Supereffective](https://open.spotify.com/artist/4ZeIehjJBLHHCy2SJu51p6) | [IDK Valley](https://open.spotify.com/album/5xCAZhc2kGx27jsm1f55iy) | 1:58 | 2022-10-14 | 2022-12-16 |
 | [Idle of Mud](https://open.spotify.com/track/0UO9de8BcAh1XvNkUBg7O1) | [Hollow Sol](https://open.spotify.com/artist/0hQJpFMoPSqJyHY1SLB6SB) | [Shikkotsu Forest](https://open.spotify.com/album/1XOOywvOu7mJOiWVIAPeAd) | 1:15 | 2020-06-12 | 2021-09-02 |
@@ -2815,7 +2817,7 @@
 | [Loner](https://open.spotify.com/track/0uzalSDhWyfgZ7MZ9xS4AF) | [Vens Adams](https://open.spotify.com/artist/5aqTLMEUNAGDfzRNBzJZiQ) | [Loner](https://open.spotify.com/album/7IaBoPLwzfZviy39Vm5I4k) | 2:27 | 2021-06-18 | 2022-01-14 |
 | [Lonesome George](https://open.spotify.com/track/0UBevjzBwYosYSgq2iISie) | [Jazzy James](https://open.spotify.com/artist/4Bhy1qgJgnqzCNQ9dmx3MR), [Frances The Mute](https://open.spotify.com/artist/2wCcRWGIQVa5m5oJuBplAs) | [Lonesome George](https://open.spotify.com/album/31XDyrywVaHeO25lPRTkG8) | 2:41 | 2023-05-03 |  |
 | [Long Distance](https://open.spotify.com/track/4UhqeING599zMYuMB6d0lS) | [Oatmello](https://open.spotify.com/artist/0YAkOkbeAPiS35qyouiM4O), [Slo Loris](https://open.spotify.com/artist/5LhPD5fY0zH2Rre4wfBUxX) | [Long Distance](https://open.spotify.com/album/7bTgLQpYEzOiuauMAZUCXG) | 1:55 | 2021-12-17 | 2022-07-01 |
-| [Long Havel Beach](https://open.spotify.com/track/5rjKTV3kwTTjt3GZ4If1Wh) | [DJ Piper](https://open.spotify.com/artist/5XhDw44AriiKxTl7Q7kIMQ) | [Long Havel Beach](https://open.spotify.com/album/5DQxhIkQd6Pg3LnRtQYAkU) | 2:44 | 2022-10-28 |  |
+| [Long Havel Beach](https://open.spotify.com/track/5rjKTV3kwTTjt3GZ4If1Wh) | [DJ Piper](https://open.spotify.com/artist/5XhDw44AriiKxTl7Q7kIMQ) | [Long Havel Beach](https://open.spotify.com/album/5DQxhIkQd6Pg3LnRtQYAkU) | 2:44 | 2022-10-28 | 2023-05-21 |
 | [Long nights](https://open.spotify.com/track/7vzMEJzKzgBGNLAPhSmvRw) | [LOFI LAND](https://open.spotify.com/artist/1pFOASn4amyKQUJm4SjeXe) | [Long nights](https://open.spotify.com/album/56oZtisOKTBQ4fdGtQNSV5) | 2:00 | 2023-05-18 |  |
 | [Long Road](https://open.spotify.com/track/47oNON3ESZjvhiHaHJk8RI) | [Elffire](https://open.spotify.com/artist/5r0Dqr2o43QLl81B4m9XvA) | [Long Road](https://open.spotify.com/album/4oMSBXrnswobIbi9FhwomW) | 1:48 | 2023-03-24 |  |
 | [Long Story Short](https://open.spotify.com/track/3TXsvG6SPvXFGyAPs6ZTbS) | [DESH](https://open.spotify.com/artist/6nJ2MPazBFrwU07sGCpdcO), [delaney.](https://open.spotify.com/artist/33mF58EgWRWcLJWIddSH7h) | [Long Story Short](https://open.spotify.com/album/7ov9vbUqrWogXtJIF9EEQC) | 2:07 | 2023-02-07 |  |

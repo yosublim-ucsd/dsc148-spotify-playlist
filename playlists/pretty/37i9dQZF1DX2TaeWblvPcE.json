@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5MDcwZDc5N2U4OGM3MGRiMjMyZWQ4Mjc3NmY0OWQ5MjlkZjhhNGJk",
+  "snapshot_id": "MCxkNWQ2ZTE2MDJjN2U4YjY5MmMyZjAyNmZhZmQ1MGVjNmEyYTVkYzk3",
   "tracks": [
     {
       "added_at": "2022-11-02 13:40:53",
@@ -91,22 +91,6 @@
     {
       "added_at": "2022-11-02 13:40:53",
       "album": {
-        "name": "Twenty-Five Twenty-One OST Part 6",
-        "url": "https://open.spotify.com/album/1n609tR3RQlWgEjFwkTfj3"
-      },
-      "artists": [
-        {
-          "name": "JIHYO",
-          "url": "https://open.spotify.com/artist/7F1iAHRYxR3MY7yAEuFqgL"
-        }
-      ],
-      "duration_ms": 251517,
-      "name": "Stardust love song (Inst.)",
-      "url": "https://open.spotify.com/track/3Sd6eeuWD0nRikKMaGFFtJ"
-    },
-    {
-      "added_at": "2022-11-02 13:40:53",
-      "album": {
         "name": "Crash Landing on You (Original Television Soundtrack), Pt. 10",
         "url": "https://open.spotify.com/album/2t3uzrkNH5XOfgfe5bnTEE"
       },
@@ -119,6 +103,22 @@
       "duration_ms": 221909,
       "name": "Let Us Go - Instrumental",
       "url": "https://open.spotify.com/track/1ll1aZEXUFW8kzC8QKn9nN"
+    },
+    {
+      "added_at": "2022-11-02 13:40:53",
+      "album": {
+        "name": "Twenty-Five Twenty-One OST Part 6",
+        "url": "https://open.spotify.com/album/1n609tR3RQlWgEjFwkTfj3"
+      },
+      "artists": [
+        {
+          "name": "JIHYO",
+          "url": "https://open.spotify.com/artist/7F1iAHRYxR3MY7yAEuFqgL"
+        }
+      ],
+      "duration_ms": 251517,
+      "name": "Stardust love song (Inst.)",
+      "url": "https://open.spotify.com/track/3Sd6eeuWD0nRikKMaGFFtJ"
     },
     {
       "added_at": "2022-11-02 13:40:53",
@@ -779,22 +779,6 @@
     {
       "added_at": "2022-11-02 13:40:53",
       "album": {
-        "name": "TALE OF THE NINE TAILED (Original Television Soundtrack), Pt. 5",
-        "url": "https://open.spotify.com/album/6d9WJan9PUdbfD457BMjBu"
-      },
-      "artists": [
-        {
-          "name": "Sung Si Kyung",
-          "url": "https://open.spotify.com/artist/7jFUYMpMUBDL4JQtMZ5ilc"
-        }
-      ],
-      "duration_ms": 240946,
-      "name": "Leaning on you - Instrumental",
-      "url": "https://open.spotify.com/track/2tSJ5EVYDOCB6LCdJFnCnH"
-    },
-    {
-      "added_at": "2022-11-02 13:40:53",
-      "album": {
         "name": "It's Okay to Not Be Okay (Original Television Soundtrack), Pt.7",
         "url": "https://open.spotify.com/album/6KIxtLeORsEDYeYjVlLuD1"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 235560,
       "name": "Puzzle - Instrumental",
       "url": "https://open.spotify.com/track/2B182oxJh9qvJVp5BQE220"
+    },
+    {
+      "added_at": "2022-11-02 13:40:53",
+      "album": {
+        "name": "TALE OF THE NINE TAILED (Original Television Soundtrack), Pt. 5",
+        "url": "https://open.spotify.com/album/6d9WJan9PUdbfD457BMjBu"
+      },
+      "artists": [
+        {
+          "name": "Sung Si Kyung",
+          "url": "https://open.spotify.com/artist/7jFUYMpMUBDL4JQtMZ5ilc"
+        }
+      ],
+      "duration_ms": 240946,
+      "name": "Leaning on you - Instrumental",
+      "url": "https://open.spotify.com/track/2tSJ5EVYDOCB6LCdJFnCnH"
     },
     {
       "added_at": "2022-11-02 13:40:53",
@@ -891,22 +891,6 @@
     {
       "added_at": "2022-11-02 13:40:53",
       "album": {
-        "name": "Mystic Pop-up Bar, Pt. 4 (Original Television Soundtrack)",
-        "url": "https://open.spotify.com/album/6gozIYILLFdshbzhBedFw7"
-      },
-      "artists": [
-        {
-          "name": "Jo Hyun Ah",
-          "url": "https://open.spotify.com/artist/7aVeZFWXIC3g4b0Tn68ZtI"
-        }
-      ],
-      "duration_ms": 224720,
-      "name": "When We Were Together - Instrumental",
-      "url": "https://open.spotify.com/track/1ojqMGAzJlzIZ2h8mfVpth"
-    },
-    {
-      "added_at": "2022-11-02 13:40:53",
-      "album": {
         "name": "Oh My Baby (Original Television Soundtrack) Pt. 3",
         "url": "https://open.spotify.com/album/2ODbnq7BEn2pSPiKEr7kmq"
       },
@@ -919,6 +903,22 @@
       "duration_ms": 212480,
       "name": "Raindrops - Instrumental",
       "url": "https://open.spotify.com/track/1V2Xa0tC01IrxtqM2aXCgl"
+    },
+    {
+      "added_at": "2022-11-02 13:40:53",
+      "album": {
+        "name": "Mystic Pop-up Bar, Pt. 4 (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/6gozIYILLFdshbzhBedFw7"
+      },
+      "artists": [
+        {
+          "name": "Jo Hyun Ah",
+          "url": "https://open.spotify.com/artist/7aVeZFWXIC3g4b0Tn68ZtI"
+        }
+      ],
+      "duration_ms": 224720,
+      "name": "When We Were Together - Instrumental",
+      "url": "https://open.spotify.com/track/1ojqMGAzJlzIZ2h8mfVpth"
     },
     {
       "added_at": "2022-11-02 13:40:53",
@@ -1019,22 +1019,6 @@
     {
       "added_at": "2022-11-02 13:40:53",
       "album": {
-        "name": "Prison Playbook (Original Television Soundtrack), Pt. 3",
-        "url": "https://open.spotify.com/album/3pcwkTF9LdSxNROH4sofFg"
-      },
-      "artists": [
-        {
-          "name": "Park Boram",
-          "url": "https://open.spotify.com/artist/6tvrEIVX5eKJlipdzt11wi"
-        }
-      ],
-      "duration_ms": 182865,
-      "name": "Like A Dream - Instrumental",
-      "url": "https://open.spotify.com/track/79EKhM17rAACcyOuheDqZn"
-    },
-    {
-      "added_at": "2022-11-02 13:40:53",
-      "album": {
         "name": "Backstreet Rookie (Original Television Soundtrack), Pt.6",
         "url": "https://open.spotify.com/album/7BjnXrdKCpf6ehnG1PjUso"
       },
@@ -1051,6 +1035,22 @@
       "duration_ms": 204893,
       "name": "See Saw - Inst.",
       "url": "https://open.spotify.com/track/6rdtUu5dcx9YN9GZC97gX3"
+    },
+    {
+      "added_at": "2022-11-02 13:40:53",
+      "album": {
+        "name": "Prison Playbook (Original Television Soundtrack), Pt. 3",
+        "url": "https://open.spotify.com/album/3pcwkTF9LdSxNROH4sofFg"
+      },
+      "artists": [
+        {
+          "name": "Park Boram",
+          "url": "https://open.spotify.com/artist/6tvrEIVX5eKJlipdzt11wi"
+        }
+      ],
+      "duration_ms": 182865,
+      "name": "Like A Dream - Instrumental",
+      "url": "https://open.spotify.com/track/79EKhM17rAACcyOuheDqZn"
     },
     {
       "added_at": "2022-11-02 13:40:53",
@@ -1183,22 +1183,6 @@
     {
       "added_at": "2022-11-02 13:40:53",
       "album": {
-        "name": "Almost Famous (Original Television Soundtrack) Pt. 3",
-        "url": "https://open.spotify.com/album/1QkDlS5FWdQ2cRzLsPCqKC"
-      },
-      "artists": [
-        {
-          "name": "Standing Egg",
-          "url": "https://open.spotify.com/artist/6a3Mfrn2XBR1DfPg1QGa1d"
-        }
-      ],
-      "duration_ms": 230768,
-      "name": "Please Forget Me - Instrumental",
-      "url": "https://open.spotify.com/track/0xI92gm5ftOnLTEzQnpcZ6"
-    },
-    {
-      "added_at": "2022-11-02 13:40:53",
-      "album": {
         "name": "Fixed On You (new.MAKE20 #10)",
         "url": "https://open.spotify.com/album/15mV5InakorxEr5yjFHs5e"
       },
@@ -1211,6 +1195,22 @@
       "duration_ms": 263653,
       "name": "Fixed On You - Instrumental",
       "url": "https://open.spotify.com/track/5LVGmlKDMdTtWyronOyZdt"
+    },
+    {
+      "added_at": "2022-11-02 13:40:53",
+      "album": {
+        "name": "Almost Famous (Original Television Soundtrack) Pt. 3",
+        "url": "https://open.spotify.com/album/1QkDlS5FWdQ2cRzLsPCqKC"
+      },
+      "artists": [
+        {
+          "name": "Standing Egg",
+          "url": "https://open.spotify.com/artist/6a3Mfrn2XBR1DfPg1QGa1d"
+        }
+      ],
+      "duration_ms": 230768,
+      "name": "Please Forget Me - Instrumental",
+      "url": "https://open.spotify.com/track/0xI92gm5ftOnLTEzQnpcZ6"
     },
     {
       "added_at": "2022-11-02 13:40:53",
@@ -1388,9 +1388,9 @@
           "url": "https://open.spotify.com/artist/1RqKUH4eKbKQrzO1bh8IFI"
         }
       ],
-      "duration_ms": 258292,
-      "name": "DON'T WANNA CRY - Piano Version",
-      "url": "https://open.spotify.com/track/1hPmXto0JEfqIDDLstzNIM"
+      "duration_ms": 299483,
+      "name": "PALETTE - Piano Version",
+      "url": "https://open.spotify.com/track/1bBjmLUDIlKJShMjc0lVRR"
     },
     {
       "added_at": "2022-11-02 13:40:53",
@@ -1404,9 +1404,9 @@
           "url": "https://open.spotify.com/artist/1RqKUH4eKbKQrzO1bh8IFI"
         }
       ],
-      "duration_ms": 320268,
-      "name": "REALLY REALLY - Piano Version",
-      "url": "https://open.spotify.com/track/0oA3qDJW0FkMditO2wAHxb"
+      "duration_ms": 258292,
+      "name": "DON'T WANNA CRY - Piano Version",
+      "url": "https://open.spotify.com/track/1hPmXto0JEfqIDDLstzNIM"
     },
     {
       "added_at": "2022-11-02 13:40:53",

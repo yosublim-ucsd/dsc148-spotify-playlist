@@ -1,12 +1,12 @@
 {
   "description": "No tags, no labels - just free form. Cover: Ragz Originale",
-  "num_followers": 140126,
+  "num_followers": 140188,
   "original_name": "Free Form",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkYmRmNmNhODI5MDcxN2I1OTgyYzdjZTdiMGY2ZWY4NmIyYWY3ZWYw",
+  "snapshot_id": "MCw5YjkxOTRiMTc5YzE3ZTdmNjM4YmE1MTdmY2VlMGMxMzNjMTUyN2E0",
   "tracks": [
     {
       "added_at": "2023-05-19 00:22:49",
@@ -487,22 +487,6 @@
     {
       "added_at": "2023-05-19 00:22:49",
       "album": {
-        "name": "When It's All Said And Done... Take Time",
-        "url": "https://open.spotify.com/album/1otOJAtgvO5VCBL4Gykrrd"
-      },
-      "artists": [
-        {
-          "name": "Giveon",
-          "url": "https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP"
-        }
-      ],
-      "duration_ms": 127807,
-      "name": "All To Me",
-      "url": "https://open.spotify.com/track/5JycxhApZmzbA4xSwvqh6k"
-    },
-    {
-      "added_at": "2023-05-19 00:22:49",
-      "album": {
         "name": "Need Me",
         "url": "https://open.spotify.com/album/453LC2RXr0Yv6M86esUdqm"
       },
@@ -515,6 +499,22 @@
       "duration_ms": 138946,
       "name": "Need Me",
       "url": "https://open.spotify.com/track/7a636g0dl8a487foiAcoCM"
+    },
+    {
+      "added_at": "2023-05-19 00:22:49",
+      "album": {
+        "name": "When It's All Said And Done... Take Time",
+        "url": "https://open.spotify.com/album/1otOJAtgvO5VCBL4Gykrrd"
+      },
+      "artists": [
+        {
+          "name": "Giveon",
+          "url": "https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP"
+        }
+      ],
+      "duration_ms": 127807,
+      "name": "All To Me",
+      "url": "https://open.spotify.com/track/5JycxhApZmzbA4xSwvqh6k"
     },
     {
       "added_at": "2023-05-19 00:22:49",
@@ -635,6 +635,22 @@
     {
       "added_at": "2023-05-19 00:22:49",
       "album": {
+        "name": "Little Things",
+        "url": "https://open.spotify.com/album/4YBGGd7KYurLSbc6XKDnSO"
+      },
+      "artists": [
+        {
+          "name": "Jorja Smith",
+          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
+        }
+      ],
+      "duration_ms": 204600,
+      "name": "Little Things",
+      "url": "https://open.spotify.com/track/1javLzBHyEKJJrG3s6FHaM"
+    },
+    {
+      "added_at": "2023-05-19 00:22:49",
+      "album": {
         "name": "From The D 2 The LBC (with Snoop Dogg)",
         "url": "https://open.spotify.com/album/6F4ObGnJwwV5W4uLFHnNoT"
       },
@@ -655,18 +671,18 @@
     {
       "added_at": "2023-05-19 00:22:49",
       "album": {
-        "name": "Little Things",
-        "url": "https://open.spotify.com/album/4YBGGd7KYurLSbc6XKDnSO"
+        "name": "Richest Opp",
+        "url": "https://open.spotify.com/album/1rBIdADJWSisiYXHRdw1v2"
       },
       "artists": [
         {
-          "name": "Jorja Smith",
-          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
+          "name": "YoungBoy Never Broke Again",
+          "url": "https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b"
         }
       ],
-      "duration_ms": 204600,
-      "name": "Little Things",
-      "url": "https://open.spotify.com/track/1javLzBHyEKJJrG3s6FHaM"
+      "duration_ms": 183484,
+      "name": "I Heard",
+      "url": "https://open.spotify.com/track/4s2SSnOOVF3FtgcxNx6fFk"
     },
     {
       "added_at": "2023-05-19 00:22:49",
@@ -687,22 +703,6 @@
     {
       "added_at": "2023-05-19 00:22:49",
       "album": {
-        "name": "Richest Opp",
-        "url": "https://open.spotify.com/album/1rBIdADJWSisiYXHRdw1v2"
-      },
-      "artists": [
-        {
-          "name": "YoungBoy Never Broke Again",
-          "url": "https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b"
-        }
-      ],
-      "duration_ms": 183484,
-      "name": "I Heard",
-      "url": "https://open.spotify.com/track/4s2SSnOOVF3FtgcxNx6fFk"
-    },
-    {
-      "added_at": "2023-05-19 00:22:49",
-      "album": {
         "name": "Sometimes I Might Be Introvert",
         "url": "https://open.spotify.com/album/4nOym5RKE8Opauf3rMxPAW"
       },
@@ -719,6 +719,22 @@
       "duration_ms": 269413,
       "name": "Woman",
       "url": "https://open.spotify.com/track/60GM1mA58L7SYD1bLQXBho"
+    },
+    {
+      "added_at": "2023-05-19 00:22:49",
+      "album": {
+        "name": "KANEKI",
+        "url": "https://open.spotify.com/album/0tYYMkbcXUErm8czzBZInY"
+      },
+      "artists": [
+        {
+          "name": "Cochise",
+          "url": "https://open.spotify.com/artist/46HzS7yz0c9udVwtbHk1sx"
+        }
+      ],
+      "duration_ms": 170083,
+      "name": "KANEKI",
+      "url": "https://open.spotify.com/track/2NfDnbVctB1aPkTkqFFhky"
     },
     {
       "added_at": "2023-05-19 00:22:49",
@@ -755,38 +771,6 @@
     {
       "added_at": "2023-05-19 00:22:49",
       "album": {
-        "name": "Local Mvp",
-        "url": "https://open.spotify.com/album/02gUzFCFgKdsj8p1KcnASN"
-      },
-      "artists": [
-        {
-          "name": "Saint\u00e9",
-          "url": "https://open.spotify.com/artist/3DEdNjxF3ea9taOMCXouZ6"
-        }
-      ],
-      "duration_ms": 166000,
-      "name": "Hunnids",
-      "url": "https://open.spotify.com/track/1N4WFXhgmkrTRxK0X7R90u"
-    },
-    {
-      "added_at": "2023-05-19 00:22:49",
-      "album": {
-        "name": "KANEKI",
-        "url": "https://open.spotify.com/album/0tYYMkbcXUErm8czzBZInY"
-      },
-      "artists": [
-        {
-          "name": "Cochise",
-          "url": "https://open.spotify.com/artist/46HzS7yz0c9udVwtbHk1sx"
-        }
-      ],
-      "duration_ms": 170083,
-      "name": "KANEKI",
-      "url": "https://open.spotify.com/track/2NfDnbVctB1aPkTkqFFhky"
-    },
-    {
-      "added_at": "2023-05-19 00:22:49",
-      "album": {
         "name": "24's",
         "url": "https://open.spotify.com/album/2zrwoynjMVDV6vsSwkwpNP"
       },
@@ -799,22 +783,6 @@
       "duration_ms": 166027,
       "name": "24's",
       "url": "https://open.spotify.com/track/6pe4kkc27IKSkubhLY7a5C"
-    },
-    {
-      "added_at": "2023-05-19 00:22:49",
-      "album": {
-        "name": "Los Pollos Hermanos",
-        "url": "https://open.spotify.com/album/766Mv8IX7ddrwGr9jiSKjM"
-      },
-      "artists": [
-        {
-          "name": "Knucks",
-          "url": "https://open.spotify.com/artist/6W4vm8P3JFQboO4cvHeqaa"
-        }
-      ],
-      "duration_ms": 95871,
-      "name": "Los Pollos Hermanos",
-      "url": "https://open.spotify.com/track/6hlrui656yBRUb3qGkd5lH"
     },
     {
       "added_at": "2023-05-19 00:22:49",
@@ -851,6 +819,22 @@
     {
       "added_at": "2023-05-19 00:22:49",
       "album": {
+        "name": "Local Mvp",
+        "url": "https://open.spotify.com/album/02gUzFCFgKdsj8p1KcnASN"
+      },
+      "artists": [
+        {
+          "name": "Saint\u00e9",
+          "url": "https://open.spotify.com/artist/3DEdNjxF3ea9taOMCXouZ6"
+        }
+      ],
+      "duration_ms": 166000,
+      "name": "Hunnids",
+      "url": "https://open.spotify.com/track/1N4WFXhgmkrTRxK0X7R90u"
+    },
+    {
+      "added_at": "2023-05-19 00:22:49",
+      "album": {
         "name": "Tekky",
         "url": "https://open.spotify.com/album/1gaRBGSStyywg8GHVSeIvA"
       },
@@ -879,6 +863,22 @@
     {
       "added_at": "2023-05-19 00:22:49",
       "album": {
+        "name": "F.U.C.K.",
+        "url": "https://open.spotify.com/album/5ECJ8Rfo3VvvGz7MeBfhFC"
+      },
+      "artists": [
+        {
+          "name": "Victoria Mon\u00e9t",
+          "url": "https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv"
+        }
+      ],
+      "duration_ms": 205373,
+      "name": "F.U.C.K.",
+      "url": "https://open.spotify.com/track/0iDuW211AjTsYDPsLxyqX4"
+    },
+    {
+      "added_at": "2023-05-19 00:22:49",
+      "album": {
         "name": "Sometimes I Might Be Introvert",
         "url": "https://open.spotify.com/album/4nOym5RKE8Opauf3rMxPAW"
       },
@@ -899,18 +899,18 @@
     {
       "added_at": "2023-05-19 00:22:49",
       "album": {
-        "name": "F.U.C.K.",
-        "url": "https://open.spotify.com/album/5ECJ8Rfo3VvvGz7MeBfhFC"
+        "name": "Los Pollos Hermanos",
+        "url": "https://open.spotify.com/album/766Mv8IX7ddrwGr9jiSKjM"
       },
       "artists": [
         {
-          "name": "Victoria Mon\u00e9t",
-          "url": "https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv"
+          "name": "Knucks",
+          "url": "https://open.spotify.com/artist/6W4vm8P3JFQboO4cvHeqaa"
         }
       ],
-      "duration_ms": 205373,
-      "name": "F.U.C.K.",
-      "url": "https://open.spotify.com/track/0iDuW211AjTsYDPsLxyqX4"
+      "duration_ms": 95871,
+      "name": "Los Pollos Hermanos",
+      "url": "https://open.spotify.com/track/6hlrui656yBRUb3qGkd5lH"
     },
     {
       "added_at": "2023-05-19 00:22:49",
@@ -987,22 +987,6 @@
     {
       "added_at": "2023-05-19 00:22:49",
       "album": {
-        "name": "Leon the Professional",
-        "url": "https://open.spotify.com/album/1NG1UlXaxBYm25tBEa5a9l"
-      },
-      "artists": [
-        {
-          "name": "Knucks",
-          "url": "https://open.spotify.com/artist/6W4vm8P3JFQboO4cvHeqaa"
-        }
-      ],
-      "duration_ms": 181200,
-      "name": "Leon the Professional",
-      "url": "https://open.spotify.com/track/0mT2c2MV6tqY7T3bs6JgwN"
-    },
-    {
-      "added_at": "2023-05-19 00:22:49",
-      "album": {
         "name": "Mood Valiant",
         "url": "https://open.spotify.com/album/456WeVeZk38VJuqg2sL7QG"
       },
@@ -1031,6 +1015,22 @@
       "duration_ms": 204174,
       "name": "Addicted",
       "url": "https://open.spotify.com/track/3vMtiUewPWlK5UsIlE8lIy"
+    },
+    {
+      "added_at": "2023-05-19 00:22:49",
+      "album": {
+        "name": "Leon the Professional",
+        "url": "https://open.spotify.com/album/1NG1UlXaxBYm25tBEa5a9l"
+      },
+      "artists": [
+        {
+          "name": "Knucks",
+          "url": "https://open.spotify.com/artist/6W4vm8P3JFQboO4cvHeqaa"
+        }
+      ],
+      "duration_ms": 181200,
+      "name": "Leon the Professional",
+      "url": "https://open.spotify.com/track/0mT2c2MV6tqY7T3bs6JgwN"
     },
     {
       "added_at": "2023-05-19 00:22:49",

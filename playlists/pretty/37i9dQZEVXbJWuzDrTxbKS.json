@@ -1,15 +1,15 @@
 {
   "description": "Your daily update of the most played tracks right now - Latvia.",
-  "num_followers": 14463,
+  "num_followers": 14470,
   "original_name": "Top 50 - Latvia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "NzM3ODU5MDAwLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
+  "snapshot_id": "NzM3OTQ1NDAwLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
   "tracks": [
     {
-      "added_at": "2023-05-19 10:26:56",
+      "added_at": "2023-05-20 09:55:09",
       "album": {
         "name": "Cha Cha Cha",
         "url": "https://open.spotify.com/album/5rBqeRlrrzR77MAkbgAmS6"
@@ -25,23 +25,23 @@
       "url": "https://open.spotify.com/track/5RX8T3EoTuXcybAxe6oPAw"
     },
     {
-      "added_at": "2023-05-19 10:26:56",
+      "added_at": "2023-05-20 09:55:09",
       "album": {
-        "name": "Tattoo",
-        "url": "https://open.spotify.com/album/0LRTS7FyYLppkDLOZT02Xp"
+        "name": "Daylight",
+        "url": "https://open.spotify.com/album/6NcI39WPu4kY6Tul11nhSv"
       },
       "artists": [
         {
-          "name": "Loreen",
-          "url": "https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl"
+          "name": "David Kushner",
+          "url": "https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY"
         }
       ],
-      "duration_ms": 183374,
-      "name": "Tattoo",
-      "url": "https://open.spotify.com/track/1DmW5Ep6ywYwxc2HMT5BG6"
+      "duration_ms": 212953,
+      "name": "Daylight",
+      "url": "https://open.spotify.com/track/1odExI7RdWc4BT515LTAwj"
     },
     {
-      "added_at": "2023-05-19 10:26:56",
+      "added_at": "2023-05-20 09:55:09",
       "album": {
         "name": "RUSH!",
         "url": "https://open.spotify.com/album/2KUaR4K36tSliwAoUA1gcs"
@@ -61,39 +61,23 @@
       "url": "https://open.spotify.com/track/44Xyja7xYPlVC6v2CeweSi"
     },
     {
-      "added_at": "2023-05-19 10:26:56",
+      "added_at": "2023-05-20 09:55:09",
       "album": {
-        "name": "Daylight",
-        "url": "https://open.spotify.com/album/6NcI39WPu4kY6Tul11nhSv"
+        "name": "Tattoo",
+        "url": "https://open.spotify.com/album/0LRTS7FyYLppkDLOZT02Xp"
       },
       "artists": [
         {
-          "name": "David Kushner",
-          "url": "https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY"
+          "name": "Loreen",
+          "url": "https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl"
         }
       ],
-      "duration_ms": 212953,
-      "name": "Daylight",
-      "url": "https://open.spotify.com/track/1odExI7RdWc4BT515LTAwj"
+      "duration_ms": 183374,
+      "name": "Tattoo",
+      "url": "https://open.spotify.com/track/1DmW5Ep6ywYwxc2HMT5BG6"
     },
     {
-      "added_at": "2023-05-19 10:26:56",
-      "album": {
-        "name": "RUSH!",
-        "url": "https://open.spotify.com/album/2KUaR4K36tSliwAoUA1gcs"
-      },
-      "artists": [
-        {
-          "name": "M\u00e5neskin",
-          "url": "https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr"
-        }
-      ],
-      "duration_ms": 148064,
-      "name": "SUPERMODEL",
-      "url": "https://open.spotify.com/track/0eJmsdfbAOM1KD0w50EhlD"
-    },
-    {
-      "added_at": "2023-05-19 10:26:56",
+      "added_at": "2023-05-20 09:55:09",
       "album": {
         "name": "RUSH!",
         "url": "https://open.spotify.com/album/2KUaR4K36tSliwAoUA1gcs"
@@ -109,7 +93,7 @@
       "url": "https://open.spotify.com/track/7exHT4swWOKL5addPeqkLP"
     },
     {
-      "added_at": "2023-05-19 10:26:56",
+      "added_at": "2023-05-20 09:55:09",
       "album": {
         "name": "\u0417\u0435\u0440\u043a\u0430\u043b\u043e",
         "url": "https://open.spotify.com/album/7p849Qjq6hhIAh1XyYgTXf"
@@ -125,7 +109,23 @@
       "url": "https://open.spotify.com/track/2PpAAi4RMQKof0Ya3JEJfU"
     },
     {
-      "added_at": "2023-05-19 10:26:56",
+      "added_at": "2023-05-20 09:55:09",
+      "album": {
+        "name": "RUSH!",
+        "url": "https://open.spotify.com/album/2KUaR4K36tSliwAoUA1gcs"
+      },
+      "artists": [
+        {
+          "name": "M\u00e5neskin",
+          "url": "https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr"
+        }
+      ],
+      "duration_ms": 148064,
+      "name": "SUPERMODEL",
+      "url": "https://open.spotify.com/track/0eJmsdfbAOM1KD0w50EhlD"
+    },
+    {
+      "added_at": "2023-05-20 09:55:09",
       "album": {
         "name": "RUSH!",
         "url": "https://open.spotify.com/album/2KUaR4K36tSliwAoUA1gcs"
@@ -141,23 +141,7 @@
       "url": "https://open.spotify.com/track/2KReCz1L5XkGIBhDncQ5VZ"
     },
     {
-      "added_at": "2023-05-19 10:26:56",
-      "album": {
-        "name": "Teatro d'ira - Vol. I",
-        "url": "https://open.spotify.com/album/7KF1Ain9mYYlg5M46g0i4A"
-      },
-      "artists": [
-        {
-          "name": "M\u00e5neskin",
-          "url": "https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr"
-        }
-      ],
-      "duration_ms": 194786,
-      "name": "ZITTI E BUONI",
-      "url": "https://open.spotify.com/track/776AftMmFFAWUIEAb3lHhw"
-    },
-    {
-      "added_at": "2023-05-19 10:26:56",
+      "added_at": "2023-05-20 09:55:09",
       "album": {
         "name": "Teatro d'ira - Vol. I",
         "url": "https://open.spotify.com/album/7KF1Ain9mYYlg5M46g0i4A"
@@ -173,7 +157,39 @@
       "url": "https://open.spotify.com/track/4pt5fDVTg5GhEvEtlz9dKk"
     },
     {
-      "added_at": "2023-05-19 10:26:56",
+      "added_at": "2023-05-20 09:55:09",
+      "album": {
+        "name": "Teatro d'ira - Vol. I",
+        "url": "https://open.spotify.com/album/7KF1Ain9mYYlg5M46g0i4A"
+      },
+      "artists": [
+        {
+          "name": "M\u00e5neskin",
+          "url": "https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr"
+        }
+      ],
+      "duration_ms": 194786,
+      "name": "ZITTI E BUONI",
+      "url": "https://open.spotify.com/track/776AftMmFFAWUIEAb3lHhw"
+    },
+    {
+      "added_at": "2023-05-20 09:55:09",
+      "album": {
+        "name": "Say Yes To Heaven",
+        "url": "https://open.spotify.com/album/6jVg0POvGYH1Pt6lISl3ok"
+      },
+      "artists": [
+        {
+          "name": "Lana Del Rey",
+          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+        }
+      ],
+      "duration_ms": 209156,
+      "name": "Say Yes To Heaven",
+      "url": "https://open.spotify.com/track/6GGtHZgBycCgGBUhZo81xe"
+    },
+    {
+      "added_at": "2023-05-20 09:55:09",
       "album": {
         "name": "Chosen",
         "url": "https://open.spotify.com/album/2qJw6w5XwQO0PQlSWPu7Tw"
@@ -189,87 +205,7 @@
       "url": "https://open.spotify.com/track/3Wrjm47oTz2sjIgck11l5e"
     },
     {
-      "added_at": "2023-05-19 10:26:56",
-      "album": {
-        "name": "Carpe Diem",
-        "url": "https://open.spotify.com/album/0OzSTBSYgPD05WhkjurQFa"
-      },
-      "artists": [
-        {
-          "name": "Joker Out",
-          "url": "https://open.spotify.com/artist/0ZNfJyThuy6vLnPEpPaJdf"
-        }
-      ],
-      "duration_ms": 165702,
-      "name": "Carpe Diem",
-      "url": "https://open.spotify.com/track/14ibwN44PVKuvEqLiaNkKu"
-    },
-    {
-      "added_at": "2023-05-19 10:26:56",
-      "album": {
-        "name": "RUSH!",
-        "url": "https://open.spotify.com/album/2KUaR4K36tSliwAoUA1gcs"
-      },
-      "artists": [
-        {
-          "name": "M\u00e5neskin",
-          "url": "https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr"
-        }
-      ],
-      "duration_ms": 179631,
-      "name": "TIMEZONE",
-      "url": "https://open.spotify.com/track/4Tbuh5q66Ygubei5Xru4jB"
-    },
-    {
-      "added_at": "2023-05-19 10:26:56",
-      "album": {
-        "name": "Teatro d'ira - Vol. I",
-        "url": "https://open.spotify.com/album/7KF1Ain9mYYlg5M46g0i4A"
-      },
-      "artists": [
-        {
-          "name": "M\u00e5neskin",
-          "url": "https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr"
-        }
-      ],
-      "duration_ms": 300413,
-      "name": "CORALINE",
-      "url": "https://open.spotify.com/track/7HMz8o0m7ASQ3ImFPfhWTY"
-    },
-    {
-      "added_at": "2023-05-19 10:26:56",
-      "album": {
-        "name": "RUSH!",
-        "url": "https://open.spotify.com/album/2KUaR4K36tSliwAoUA1gcs"
-      },
-      "artists": [
-        {
-          "name": "M\u00e5neskin",
-          "url": "https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr"
-        }
-      ],
-      "duration_ms": 186809,
-      "name": "MAMMAMIA",
-      "url": "https://open.spotify.com/track/7oJ3Nb3LIY1ond1fHF3xio"
-    },
-    {
-      "added_at": "2023-05-19 10:26:56",
-      "album": {
-        "name": "RUSH!",
-        "url": "https://open.spotify.com/album/2KUaR4K36tSliwAoUA1gcs"
-      },
-      "artists": [
-        {
-          "name": "M\u00e5neskin",
-          "url": "https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr"
-        }
-      ],
-      "duration_ms": 191856,
-      "name": "OWN MY MIND",
-      "url": "https://open.spotify.com/track/71tM20RVoYqUUs9EDOso2v"
-    },
-    {
-      "added_at": "2023-05-19 10:26:56",
+      "added_at": "2023-05-20 09:55:09",
       "album": {
         "name": "Endless Summer Vacation",
         "url": "https://open.spotify.com/album/0HiZ8fNXwJOQcrf5iflrdz"
@@ -285,23 +221,87 @@
       "url": "https://open.spotify.com/track/4DHcnVTT87F0zZhRPYmZ3B"
     },
     {
-      "added_at": "2023-05-19 10:26:56",
+      "added_at": "2023-05-20 09:55:09",
       "album": {
-        "name": "Queen of Kings",
-        "url": "https://open.spotify.com/album/6Fkp68IAnNvIRJ8rm1MxhB"
+        "name": "RUSH!",
+        "url": "https://open.spotify.com/album/2KUaR4K36tSliwAoUA1gcs"
       },
       "artists": [
         {
-          "name": "Alessandra",
-          "url": "https://open.spotify.com/artist/35HMF6Y8dSzNfeJs3X65fw"
+          "name": "M\u00e5neskin",
+          "url": "https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr"
         }
       ],
-      "duration_ms": 147979,
-      "name": "Queen of Kings",
-      "url": "https://open.spotify.com/track/14LdhxElpZS0rKVV4nxtdA"
+      "duration_ms": 179631,
+      "name": "TIMEZONE",
+      "url": "https://open.spotify.com/track/4Tbuh5q66Ygubei5Xru4jB"
     },
     {
-      "added_at": "2023-05-19 10:26:56",
+      "added_at": "2023-05-20 09:55:09",
+      "album": {
+        "name": "Teatro d'ira - Vol. I",
+        "url": "https://open.spotify.com/album/7KF1Ain9mYYlg5M46g0i4A"
+      },
+      "artists": [
+        {
+          "name": "M\u00e5neskin",
+          "url": "https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr"
+        }
+      ],
+      "duration_ms": 300413,
+      "name": "CORALINE",
+      "url": "https://open.spotify.com/track/7HMz8o0m7ASQ3ImFPfhWTY"
+    },
+    {
+      "added_at": "2023-05-20 09:55:09",
+      "album": {
+        "name": "\u041f\u041e\u0419\u0414\u0415\u0422",
+        "url": "https://open.spotify.com/album/2sks2dJhh2YVT1LZ1sUss1"
+      },
+      "artists": [
+        {
+          "name": "MORGENSHTERN",
+          "url": "https://open.spotify.com/artist/0XNKQFs2Ewb3y0VsFUFc5l"
+        }
+      ],
+      "duration_ms": 120283,
+      "name": "\u041f\u041e\u0419\u0414\u0415\u0422",
+      "url": "https://open.spotify.com/track/3mUDlIALLosWgmHtWjDBmK"
+    },
+    {
+      "added_at": "2023-05-20 09:55:09",
+      "album": {
+        "name": "\u0421\u043a\u0430\u0436\u0438 \u043c\u043d\u0435 \u043a\u0442\u043e \u0442\u044b",
+        "url": "https://open.spotify.com/album/7seua2aQz3wCROdP5D6Z1A"
+      },
+      "artists": [
+        {
+          "name": "xxxmanera",
+          "url": "https://open.spotify.com/artist/0hAEtx2GQLtMTJj8qycHRr"
+        }
+      ],
+      "duration_ms": 118378,
+      "name": "\u0421\u043a\u0430\u0436\u0438 \u043c\u043d\u0435 \u043a\u0442\u043e \u0442\u044b",
+      "url": "https://open.spotify.com/track/5lo91NO6ZaP656Wy28dez1"
+    },
+    {
+      "added_at": "2023-05-20 09:55:09",
+      "album": {
+        "name": "Carpe Diem",
+        "url": "https://open.spotify.com/album/0OzSTBSYgPD05WhkjurQFa"
+      },
+      "artists": [
+        {
+          "name": "Joker Out",
+          "url": "https://open.spotify.com/artist/0ZNfJyThuy6vLnPEpPaJdf"
+        }
+      ],
+      "duration_ms": 165702,
+      "name": "Carpe Diem",
+      "url": "https://open.spotify.com/track/14ibwN44PVKuvEqLiaNkKu"
+    },
+    {
+      "added_at": "2023-05-20 09:55:09",
       "album": {
         "name": "Flower Boy",
         "url": "https://open.spotify.com/album/2nkto6YNI4rUYTLqEwWJ3o"
@@ -321,23 +321,23 @@
       "url": "https://open.spotify.com/track/7KA4W4McWYRpgf0fWsJZWB"
     },
     {
-      "added_at": "2023-05-19 10:26:56",
+      "added_at": "2023-05-20 09:55:09",
       "album": {
-        "name": "\u0421\u043a\u0430\u0436\u0438 \u043c\u043d\u0435 \u043a\u0442\u043e \u0442\u044b",
-        "url": "https://open.spotify.com/album/7seua2aQz3wCROdP5D6Z1A"
+        "name": "RUSH!",
+        "url": "https://open.spotify.com/album/2KUaR4K36tSliwAoUA1gcs"
       },
       "artists": [
         {
-          "name": "xxxmanera",
-          "url": "https://open.spotify.com/artist/0hAEtx2GQLtMTJj8qycHRr"
+          "name": "M\u00e5neskin",
+          "url": "https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr"
         }
       ],
-      "duration_ms": 118378,
-      "name": "\u0421\u043a\u0430\u0436\u0438 \u043c\u043d\u0435 \u043a\u0442\u043e \u0442\u044b",
-      "url": "https://open.spotify.com/track/5lo91NO6ZaP656Wy28dez1"
+      "duration_ms": 186809,
+      "name": "MAMMAMIA",
+      "url": "https://open.spotify.com/track/7oJ3Nb3LIY1ond1fHF3xio"
     },
     {
-      "added_at": "2023-05-19 10:26:56",
+      "added_at": "2023-05-20 09:55:09",
       "album": {
         "name": "ASPHALT 8",
         "url": "https://open.spotify.com/album/2zqtLUw2PYbyUOVnsXcyDk"
@@ -353,7 +353,71 @@
       "url": "https://open.spotify.com/track/0ndWY0kASiq9s2Fx76W4Jq"
     },
     {
-      "added_at": "2023-05-19 10:26:56",
+      "added_at": "2023-05-20 09:55:09",
+      "album": {
+        "name": "RUSH!",
+        "url": "https://open.spotify.com/album/2KUaR4K36tSliwAoUA1gcs"
+      },
+      "artists": [
+        {
+          "name": "M\u00e5neskin",
+          "url": "https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr"
+        }
+      ],
+      "duration_ms": 191856,
+      "name": "OWN MY MIND",
+      "url": "https://open.spotify.com/track/71tM20RVoYqUUs9EDOso2v"
+    },
+    {
+      "added_at": "2023-05-20 09:55:09",
+      "album": {
+        "name": "Lovely",
+        "url": "https://open.spotify.com/album/24vISoTZsZEAKq9NMq6BM9"
+      },
+      "artists": [
+        {
+          "name": "\u0428\u0430\u0439\u043d\u0438",
+          "url": "https://open.spotify.com/artist/7gR1vQmVN37aNtYDE21Bae"
+        }
+      ],
+      "duration_ms": 125538,
+      "name": "Lovely",
+      "url": "https://open.spotify.com/track/0fRgHNsnNgQutv19TcvUCA"
+    },
+    {
+      "added_at": "2023-05-20 09:55:09",
+      "album": {
+        "name": "Queen of Kings",
+        "url": "https://open.spotify.com/album/6Fkp68IAnNvIRJ8rm1MxhB"
+      },
+      "artists": [
+        {
+          "name": "Alessandra",
+          "url": "https://open.spotify.com/artist/35HMF6Y8dSzNfeJs3X65fw"
+        }
+      ],
+      "duration_ms": 147979,
+      "name": "Queen of Kings",
+      "url": "https://open.spotify.com/track/14LdhxElpZS0rKVV4nxtdA"
+    },
+    {
+      "added_at": "2023-05-20 09:55:09",
+      "album": {
+        "name": "RUSH!",
+        "url": "https://open.spotify.com/album/2KUaR4K36tSliwAoUA1gcs"
+      },
+      "artists": [
+        {
+          "name": "M\u00e5neskin",
+          "url": "https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr"
+        }
+      ],
+      "duration_ms": 221062,
+      "name": "GASOLINE",
+      "url": "https://open.spotify.com/track/5jWcNM7uHhsAj9yuypurdP"
+    },
+    {
+      "added_at": "2023-05-20 09:55:09",
       "album": {
         "name": "I'm Good (Blue)",
         "url": "https://open.spotify.com/album/7M842DMhYVALrXsw3ty7B3"
@@ -373,23 +437,7 @@
       "url": "https://open.spotify.com/track/4uUG5RXrOk84mYEfFvj3cK"
     },
     {
-      "added_at": "2023-05-19 10:26:56",
-      "album": {
-        "name": "2014 Forest Hills Drive",
-        "url": "https://open.spotify.com/album/0UMMIkurRUmkruZ3KGBLtG"
-      },
-      "artists": [
-        {
-          "name": "J. Cole",
-          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
-        }
-      ],
-      "duration_ms": 292799,
-      "name": "No Role Modelz",
-      "url": "https://open.spotify.com/track/68Dni7IE4VyPkTOH9mRWHr"
-    },
-    {
-      "added_at": "2023-05-19 10:26:56",
+      "added_at": "2023-05-20 09:55:09",
       "album": {
         "name": "Svar\u012bg\u0101kais notikums Latvijas pop-hiphop\u0101",
         "url": "https://open.spotify.com/album/3x7pHwKRhyHrtnuMJiK69I"
@@ -413,47 +461,7 @@
       "url": "https://open.spotify.com/track/1jS28wQhmy9PrbVEzxQB3P"
     },
     {
-      "added_at": "2023-05-19 10:26:56",
-      "album": {
-        "name": "RUSH!",
-        "url": "https://open.spotify.com/album/2KUaR4K36tSliwAoUA1gcs"
-      },
-      "artists": [
-        {
-          "name": "M\u00e5neskin",
-          "url": "https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr"
-        }
-      ],
-      "duration_ms": 221062,
-      "name": "GASOLINE",
-      "url": "https://open.spotify.com/track/5jWcNM7uHhsAj9yuypurdP"
-    },
-    {
-      "added_at": "2023-05-19 10:26:56",
-      "album": {
-        "name": "HEROES & VILLAINS",
-        "url": "https://open.spotify.com/album/7txGsnDSqVMoRl6RQ9XyZP"
-      },
-      "artists": [
-        {
-          "name": "Metro Boomin",
-          "url": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
-        },
-        {
-          "name": "Future",
-          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
-        },
-        {
-          "name": "Don Toliver",
-          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
-        }
-      ],
-      "duration_ms": 199920,
-      "name": "Too Many Nights (feat. Don Toliver & with Future)",
-      "url": "https://open.spotify.com/track/2Hh3ETdQKrmSI3QS0hme7g"
-    },
-    {
-      "added_at": "2023-05-19 10:26:56",
+      "added_at": "2023-05-20 09:55:09",
       "album": {
         "name": "good kid, m.A.A.d city",
         "url": "https://open.spotify.com/album/6PBZN8cbwkqm1ERj2BGXJ1"
@@ -473,7 +481,39 @@
       "url": "https://open.spotify.com/track/2HbKqm4o0w5wEeEFXm2sD4"
     },
     {
-      "added_at": "2023-05-19 10:26:56",
+      "added_at": "2023-05-20 09:55:09",
+      "album": {
+        "name": "2014 Forest Hills Drive",
+        "url": "https://open.spotify.com/album/0UMMIkurRUmkruZ3KGBLtG"
+      },
+      "artists": [
+        {
+          "name": "J. Cole",
+          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
+        }
+      ],
+      "duration_ms": 292799,
+      "name": "No Role Modelz",
+      "url": "https://open.spotify.com/track/68Dni7IE4VyPkTOH9mRWHr"
+    },
+    {
+      "added_at": "2023-05-20 09:55:09",
+      "album": {
+        "name": "LAIM' UZ MANA R\u0112\u0136IN'",
+        "url": "https://open.spotify.com/album/7LZ8vQ8WyHLvshXsAad9yd"
+      },
+      "artists": [
+        {
+          "name": "Bermudu Divst\u016bris",
+          "url": "https://open.spotify.com/artist/7hkFOXZNtMKGG8QXTRSQcT"
+        }
+      ],
+      "duration_ms": 114408,
+      "name": "LAIM' UZ MANA R\u0112\u0136IN'",
+      "url": "https://open.spotify.com/track/6sVXxjxWuDhRLIz32L61sU"
+    },
+    {
+      "added_at": "2023-05-20 09:55:09",
       "album": {
         "name": "Harry's House",
         "url": "https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h"
@@ -489,7 +529,39 @@
       "url": "https://open.spotify.com/track/4Dvkj6JhhA12EX05fT7y2e"
     },
     {
-      "added_at": "2023-05-19 10:26:56",
+      "added_at": "2023-05-20 09:55:09",
+      "album": {
+        "name": "RUSH!",
+        "url": "https://open.spotify.com/album/2KUaR4K36tSliwAoUA1gcs"
+      },
+      "artists": [
+        {
+          "name": "M\u00e5neskin",
+          "url": "https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr"
+        }
+      ],
+      "duration_ms": 184660,
+      "name": "BLA BLA BLA",
+      "url": "https://open.spotify.com/track/0GVKrtG7QqEYBGOAspofCW"
+    },
+    {
+      "added_at": "2023-05-20 09:55:09",
+      "album": {
+        "name": "Goblin FM",
+        "url": "https://open.spotify.com/album/0qlUqK1uiaZp7SiVlBkMnK"
+      },
+      "artists": [
+        {
+          "name": "\u041f\u043b\u0430\u0442\u0438\u043d\u0430",
+          "url": "https://open.spotify.com/artist/4TzGOY9RpErzedN02w8Boh"
+        }
+      ],
+      "duration_ms": 143441,
+      "name": "Goblin FM",
+      "url": "https://open.spotify.com/track/3bTWNU5W7C3C3O3rOpdGPH"
+    },
+    {
+      "added_at": "2023-05-20 09:55:09",
       "album": {
         "name": "HEROES & VILLAINS",
         "url": "https://open.spotify.com/album/7txGsnDSqVMoRl6RQ9XyZP"
@@ -513,39 +585,31 @@
       "url": "https://open.spotify.com/track/2dHHgzDwk4BJdRwy9uXhTO"
     },
     {
-      "added_at": "2023-05-19 10:26:56",
+      "added_at": "2023-05-20 09:55:09",
       "album": {
-        "name": "Gladiator",
-        "url": "https://open.spotify.com/album/64PdJips9zx6e7Qev1Np01"
+        "name": "HEROES & VILLAINS",
+        "url": "https://open.spotify.com/album/7txGsnDSqVMoRl6RQ9XyZP"
       },
       "artists": [
         {
-          "name": "Jann",
-          "url": "https://open.spotify.com/artist/61mjebytLODtxAOS9ULCmb"
-        }
-      ],
-      "duration_ms": 211643,
-      "name": "Gladiator",
-      "url": "https://open.spotify.com/track/0vbp3qthXlRVsLXTbPrkX1"
-    },
-    {
-      "added_at": "2023-05-19 10:26:56",
-      "album": {
-        "name": "RUSH!",
-        "url": "https://open.spotify.com/album/2KUaR4K36tSliwAoUA1gcs"
-      },
-      "artists": [
+          "name": "Metro Boomin",
+          "url": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
+        },
         {
-          "name": "M\u00e5neskin",
-          "url": "https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr"
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        },
+        {
+          "name": "Don Toliver",
+          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
         }
       ],
-      "duration_ms": 200585,
-      "name": "LA FINE",
-      "url": "https://open.spotify.com/track/5glLilgQ2GNudKN4BNCdjt"
+      "duration_ms": 199920,
+      "name": "Too Many Nights (feat. Don Toliver & with Future)",
+      "url": "https://open.spotify.com/track/2Hh3ETdQKrmSI3QS0hme7g"
     },
     {
-      "added_at": "2023-05-19 10:26:56",
+      "added_at": "2023-05-20 09:55:09",
       "album": {
         "name": "I Love You.",
         "url": "https://open.spotify.com/album/4xkM0BwLM9H2IUcbYzpcBI"
@@ -561,55 +625,27 @@
       "url": "https://open.spotify.com/track/2QjOHCTQ1Jl3zawyYOpxh6"
     },
     {
-      "added_at": "2023-05-19 10:26:56",
+      "added_at": "2023-05-20 09:55:09",
       "album": {
-        "name": "RUSH!",
-        "url": "https://open.spotify.com/album/2KUaR4K36tSliwAoUA1gcs"
+        "name": "Boy's a liar Pt. 2",
+        "url": "https://open.spotify.com/album/6cVfHBcp3AdpYY0bBglkLN"
       },
       "artists": [
         {
-          "name": "M\u00e5neskin",
-          "url": "https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr"
-        }
-      ],
-      "duration_ms": 184660,
-      "name": "BLA BLA BLA",
-      "url": "https://open.spotify.com/track/0GVKrtG7QqEYBGOAspofCW"
-    },
-    {
-      "added_at": "2023-05-19 10:26:56",
-      "album": {
-        "name": "RUSH!",
-        "url": "https://open.spotify.com/album/2KUaR4K36tSliwAoUA1gcs"
-      },
-      "artists": [
+          "name": "PinkPantheress",
+          "url": "https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t"
+        },
         {
-          "name": "M\u00e5neskin",
-          "url": "https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr"
+          "name": "Ice Spice",
+          "url": "https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf"
         }
       ],
-      "duration_ms": 156057,
-      "name": "DON'T WANNA SLEEP",
-      "url": "https://open.spotify.com/track/6ab8aFARxn63vq6KiTGnSz"
+      "duration_ms": 131013,
+      "name": "Boy's a Liar Pt. 2",
+      "url": "https://open.spotify.com/track/6AQbmUe0Qwf5PZnt4HmTXv"
     },
     {
-      "added_at": "2023-05-19 10:26:56",
-      "album": {
-        "name": "Teatro d'ira - Vol. I",
-        "url": "https://open.spotify.com/album/7KF1Ain9mYYlg5M46g0i4A"
-      },
-      "artists": [
-        {
-          "name": "M\u00e5neskin",
-          "url": "https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr"
-        }
-      ],
-      "duration_ms": 230706,
-      "name": "FOR YOUR LOVE",
-      "url": "https://open.spotify.com/track/3ZeyEvTgSlKajHc0fckgZT"
-    },
-    {
-      "added_at": "2023-05-19 10:26:56",
+      "added_at": "2023-05-20 09:55:09",
       "album": {
         "name": "HEROES & VILLAINS",
         "url": "https://open.spotify.com/album/7txGsnDSqVMoRl6RQ9XyZP"
@@ -633,71 +669,7 @@
       "url": "https://open.spotify.com/track/5wG3HvLhF6Y5KTGlK0IW3J"
     },
     {
-      "added_at": "2023-05-19 10:26:56",
-      "album": {
-        "name": "OneRepublic (Japan Paradise Tour Edition)",
-        "url": "https://open.spotify.com/album/33inEak0hNKMDePhjGxE61"
-      },
-      "artists": [
-        {
-          "name": "OneRepublic",
-          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
-        }
-      ],
-      "duration_ms": 148120,
-      "name": "I Ain't Worried",
-      "url": "https://open.spotify.com/track/4fYte8ZvTK14NEhAOZocBi"
-    },
-    {
-      "added_at": "2023-05-19 10:26:56",
-      "album": {
-        "name": "Unicorn",
-        "url": "https://open.spotify.com/album/14wVxL1PbK2bJuoGjxHrCR"
-      },
-      "artists": [
-        {
-          "name": "Noa Kirel",
-          "url": "https://open.spotify.com/artist/1wak0ZG1LUrZPYx8RDTQoD"
-        }
-      ],
-      "duration_ms": 170900,
-      "name": "Unicorn",
-      "url": "https://open.spotify.com/track/6dUregFbvUNqHP5nphqesK"
-    },
-    {
-      "added_at": "2023-05-19 10:26:56",
-      "album": {
-        "name": "MATHEMATICAL DISRESPECT",
-        "url": "https://open.spotify.com/album/2na9riat7uwn9pax75cJue"
-      },
-      "artists": [
-        {
-          "name": "Lil Mabu",
-          "url": "https://open.spotify.com/artist/6FAo7ORAHEzSSf5q10LLfN"
-        }
-      ],
-      "duration_ms": 88304,
-      "name": "MATHEMATICAL DISRESPECT",
-      "url": "https://open.spotify.com/track/0Ymjv0OJeIIPXr6s9wi3iW"
-    },
-    {
-      "added_at": "2023-05-19 10:26:56",
-      "album": {
-        "name": "DRIVE",
-        "url": "https://open.spotify.com/album/1Pl9ZGXwayXPg5qRVpYo74"
-      },
-      "artists": [
-        {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
-        }
-      ],
-      "duration_ms": 153442,
-      "name": "Lay Low",
-      "url": "https://open.spotify.com/track/3IhM5Mber8KA0NaRNpK2px"
-    },
-    {
-      "added_at": "2023-05-19 10:26:56",
+      "added_at": "2023-05-20 09:55:09",
       "album": {
         "name": "POPSTAR",
         "url": "https://open.spotify.com/album/33QIdvBtMb6tH4XmRBjPLj"
@@ -713,111 +685,75 @@
       "url": "https://open.spotify.com/track/4PGzoH4hL1vORGOTxHdWjB"
     },
     {
-      "added_at": "2023-05-19 10:26:56",
+      "added_at": "2023-05-20 09:55:09",
       "album": {
-        "name": "Teatro d'ira - Vol. I",
-        "url": "https://open.spotify.com/album/7KF1Ain9mYYlg5M46g0i4A"
+        "name": "OneRepublic (Japan Paradise Tour Edition)",
+        "url": "https://open.spotify.com/album/33inEak0hNKMDePhjGxE61"
       },
       "artists": [
         {
-          "name": "M\u00e5neskin",
-          "url": "https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr"
+          "name": "OneRepublic",
+          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
         }
       ],
-      "duration_ms": 253586,
-      "name": "VENT'ANNI",
-      "url": "https://open.spotify.com/track/6Vfo6O3hk38vDcSpazNo3p"
+      "duration_ms": 148120,
+      "name": "I Ain't Worried",
+      "url": "https://open.spotify.com/track/4fYte8ZvTK14NEhAOZocBi"
     },
     {
-      "added_at": "2023-05-19 10:26:56",
+      "added_at": "2023-05-20 09:55:09",
       "album": {
-        "name": "Boy's a liar Pt. 2",
-        "url": "https://open.spotify.com/album/6cVfHBcp3AdpYY0bBglkLN"
+        "name": "MATHEMATICAL DISRESPECT",
+        "url": "https://open.spotify.com/album/2na9riat7uwn9pax75cJue"
       },
       "artists": [
         {
-          "name": "PinkPantheress",
-          "url": "https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t"
+          "name": "Lil Mabu",
+          "url": "https://open.spotify.com/artist/6FAo7ORAHEzSSf5q10LLfN"
+        }
+      ],
+      "duration_ms": 88304,
+      "name": "MATHEMATICAL DISRESPECT",
+      "url": "https://open.spotify.com/track/0Ymjv0OJeIIPXr6s9wi3iW"
+    },
+    {
+      "added_at": "2023-05-20 09:55:09",
+      "album": {
+        "name": "Gloria",
+        "url": "https://open.spotify.com/album/3Uq1jNGnD412ZvCb6j2DKV"
+      },
+      "artists": [
+        {
+          "name": "Sam Smith",
+          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
         },
         {
-          "name": "Ice Spice",
-          "url": "https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf"
+          "name": "Kim Petras",
+          "url": "https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J"
         }
       ],
-      "duration_ms": 131013,
-      "name": "Boy's a Liar Pt. 2",
-      "url": "https://open.spotify.com/track/6AQbmUe0Qwf5PZnt4HmTXv"
+      "duration_ms": 156943,
+      "name": "Unholy (feat. Kim Petras)",
+      "url": "https://open.spotify.com/track/0NZPBYD5qbEWRs3PrGiRkT"
     },
     {
-      "added_at": "2023-05-19 10:26:56",
+      "added_at": "2023-05-20 09:55:09",
       "album": {
-        "name": "Encore (Deluxe Version)",
-        "url": "https://open.spotify.com/album/1kTlYbs28MXw7hwO0NLYif"
+        "name": "Gladiator",
+        "url": "https://open.spotify.com/album/64PdJips9zx6e7Qev1Np01"
       },
       "artists": [
         {
-          "name": "Eminem",
-          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+          "name": "Jann",
+          "url": "https://open.spotify.com/artist/61mjebytLODtxAOS9ULCmb"
         }
       ],
-      "duration_ms": 250760,
-      "name": "Mockingbird",
-      "url": "https://open.spotify.com/track/561jH07mF1jHuk7KlaeF0s"
+      "duration_ms": 211643,
+      "name": "Gladiator",
+      "url": "https://open.spotify.com/track/0vbp3qthXlRVsLXTbPrkX1"
     },
     {
-      "added_at": "2023-05-19 10:26:56",
-      "album": {
-        "name": "Aij\u0101",
-        "url": "https://open.spotify.com/album/6rjEzmzwPlDKSsLNr8TSCu"
-      },
-      "artists": [
-        {
-          "name": "Sudden Lights",
-          "url": "https://open.spotify.com/artist/3hUQbGcka7Ta13TPySOZ0O"
-        }
-      ],
-      "duration_ms": 180782,
-      "name": "Aij\u0101",
-      "url": "https://open.spotify.com/track/2XhLiOVoMTWR0LNkvVEYA5"
-    },
-    {
-      "added_at": "2023-05-19 10:26:56",
-      "album": {
-        "name": "RUSH!",
-        "url": "https://open.spotify.com/album/2KUaR4K36tSliwAoUA1gcs"
-      },
-      "artists": [
-        {
-          "name": "M\u00e5neskin",
-          "url": "https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr"
-        }
-      ],
-      "duration_ms": 150695,
-      "name": "READ YOUR DIARY",
-      "url": "https://open.spotify.com/track/16HsEMkim07LboMyhR81eu"
-    },
-    {
-      "added_at": "2023-05-19 10:26:56",
-      "album": {
-        "name": "17 \u043c\u0433\u043d\u043e\u0432\u0435\u043d\u0438\u0439 \u043e\u0441\u0435\u043d\u0438",
-        "url": "https://open.spotify.com/album/7EIzuGZ4VJcbwDquCRFPGa"
-      },
-      "artists": [
-        {
-          "name": "Kravz",
-          "url": "https://open.spotify.com/artist/5DIzBPaVlYSmlIQaafQSow"
-        },
-        {
-          "name": "Gio Pika",
-          "url": "https://open.spotify.com/artist/3ZOk6bDH8ORFWZUA4qvevR"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "\u0413\u0434\u0435 \u043f\u0440\u043e\u0448\u043b\u0430 \u0442\u044b",
-      "url": "https://open.spotify.com/track/22wJ9bOXnRDWLSZlCe4pi7"
-    },
-    {
-      "added_at": "2023-05-19 10:26:56",
+      "added_at": "2023-05-20 09:55:09",
       "album": {
         "name": "SOS",
         "url": "https://open.spotify.com/album/1nrVofqDRs7cpWXJ49qTnP"
@@ -833,7 +769,7 @@
       "url": "https://open.spotify.com/track/1Qrg8KqiBpW07V7PNxwwwL"
     },
     {
-      "added_at": "2023-05-19 10:26:56",
+      "added_at": "2023-05-20 09:55:09",
       "album": {
         "name": "Just Wanna Rock",
         "url": "https://open.spotify.com/album/2FD6g8bXEn2uQMYbeqqoCg"
@@ -849,7 +785,23 @@
       "url": "https://open.spotify.com/track/4FyesJzVpA39hbYvcseO2d"
     },
     {
-      "added_at": "2023-05-19 10:26:56",
+      "added_at": "2023-05-20 09:55:09",
+      "album": {
+        "name": "Encore (Deluxe Version)",
+        "url": "https://open.spotify.com/album/1kTlYbs28MXw7hwO0NLYif"
+      },
+      "artists": [
+        {
+          "name": "Eminem",
+          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+        }
+      ],
+      "duration_ms": 250760,
+      "name": "Mockingbird",
+      "url": "https://open.spotify.com/track/561jH07mF1jHuk7KlaeF0s"
+    },
+    {
+      "added_at": "2023-05-20 09:55:09",
       "album": {
         "name": "SPIT IN MY FACE!",
         "url": "https://open.spotify.com/album/2XurGuugADHAwF8gEYjtMA"
@@ -863,6 +815,54 @@
       "duration_ms": 147874,
       "name": "SPIT IN MY FACE!",
       "url": "https://open.spotify.com/track/1N8TTK1Uoy7UvQNUazfUt5"
+    },
+    {
+      "added_at": "2023-05-20 09:55:09",
+      "album": {
+        "name": "RUSH!",
+        "url": "https://open.spotify.com/album/2KUaR4K36tSliwAoUA1gcs"
+      },
+      "artists": [
+        {
+          "name": "M\u00e5neskin",
+          "url": "https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr"
+        }
+      ],
+      "duration_ms": 156057,
+      "name": "DON'T WANNA SLEEP",
+      "url": "https://open.spotify.com/track/6ab8aFARxn63vq6KiTGnSz"
+    },
+    {
+      "added_at": "2023-05-20 09:55:09",
+      "album": {
+        "name": "Dreamland",
+        "url": "https://open.spotify.com/album/5bfpRtBW7RNRdsm3tRyl3R"
+      },
+      "artists": [
+        {
+          "name": "Glass Animals",
+          "url": "https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq"
+        }
+      ],
+      "duration_ms": 238805,
+      "name": "Heat Waves",
+      "url": "https://open.spotify.com/track/3USxtqRwSYz57Ewm6wWRMp"
+    },
+    {
+      "added_at": "2023-05-20 09:55:09",
+      "album": {
+        "name": "DRIVE",
+        "url": "https://open.spotify.com/album/1Pl9ZGXwayXPg5qRVpYo74"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        }
+      ],
+      "duration_ms": 153442,
+      "name": "Lay Low",
+      "url": "https://open.spotify.com/track/3IhM5Mber8KA0NaRNpK2px"
     }
   ],
   "unique_name": "Top 50 - Latvia",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 
 > De nieuwste releases elke vrijdag op Spotify! Cover: Bad Bunny
 
-[Spotify](https://open.spotify.com/user/spotify) - 256,126 likes - 101 songs - 5 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 256,144 likes - 101 songs - 5 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,7 +69,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 | 59 | [Outsider](https://open.spotify.com/track/1coT8Ch0R3ALxUEw9apWz2) | [Tim Dawn](https://open.spotify.com/artist/55VC7UDCmceodks4rbHgHe) | [Outsider](https://open.spotify.com/album/2gR7DYy6RtdSpBB9swu3Rb) | 2:29 |
 | 60 | [Baggio](https://open.spotify.com/track/56xBkDSJfpuWbQfRs9gVxw) | [Miles Kane](https://open.spotify.com/artist/3M0H4efyA5YcijrKlaKbYn) | [Baggio](https://open.spotify.com/album/039GsP3Uy8n0l7JlZcADEg) | 3:41 |
 | 61 | [Old Summers](https://open.spotify.com/track/15nMUPQTJXRX7S4xRExTCc) | [Melle](https://open.spotify.com/artist/0tNutPAfpYEeY6YEzwIXQp) | [Old Summers](https://open.spotify.com/album/19xPYZizPdUhBhnWFZlagO) | 3:46 |
-| 62 | [Emotieloos](https://open.spotify.com/track/7yHSLU0G7GSaBv1vqmmUX7) | [Jerry](https://open.spotify.com/artist/0kBsWW34jA4aNzn2xuQNE0), [BEAU](https://open.spotify.com/artist/3sLVXD6W3m1cTT2uBWTVWt), [Purp Sagir](https://open.spotify.com/artist/1xcx9BR9EMM80E0LGvTTkJ) | [Emotieloos](https://open.spotify.com/album/0gspBGHDmPpfV0yxBu5U4H) | 3:06 |
+| 62 | [Emotieloos](https://open.spotify.com/track/7yHSLU0G7GSaBv1vqmmUX7) | [BEAU](https://open.spotify.com/artist/3sLVXD6W3m1cTT2uBWTVWt), [Purp Sagir](https://open.spotify.com/artist/1xcx9BR9EMM80E0LGvTTkJ), [Jerry](https://open.spotify.com/artist/0kBsWW34jA4aNzn2xuQNE0) | [Emotieloos](https://open.spotify.com/album/0gspBGHDmPpfV0yxBu5U4H) | 3:06 |
 | 63 | [Vibe](https://open.spotify.com/track/2x5p4UI8timppIAsxOAXxZ) | [F1rstman](https://open.spotify.com/artist/0IA4SdCS8HBDX6oBoOlgaf) | [Vibe](https://open.spotify.com/album/6DIBjtZBgMaFMAzUfljJPc) | 3:22 |
 | 64 | [Todo Es La Musica](https://open.spotify.com/track/2QwWQDkHBocXLWhG97GUBq) | [Jeroen Van Der Boom](https://open.spotify.com/artist/5zEUGwAdlfTQqKplCJJuua) | [Todo Es La Musica](https://open.spotify.com/album/4ZwRDgK1oyMvSlr4dfoVMX) | 2:03 |
 | 65 | [Monika](https://open.spotify.com/track/0EwEnkwPP8Gca6rF4uRepu) | [Jannes](https://open.spotify.com/artist/02ydjJPvRKpejxRzZyHdaq) | [Monika](https://open.spotify.com/album/6C4ibZLuntNoEU1Ct7wcsW) | 3:07 |
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 | 100 | [On My Soul](https://open.spotify.com/track/2xLrkO5wPNzl5cNjLoPeNW) | [Tobe Nwigwe](https://open.spotify.com/artist/3Qh89pgJeZq6d8uM1bTot3), [Nas](https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q), [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [On My Soul](https://open.spotify.com/album/1I5QGY6wFJp0LjgDvbfV87) | 2:40 |
 | 101 | [Cold Touch](https://open.spotify.com/track/7mGSXZwI5LlTqGARZH7JiM) | [Kito](https://open.spotify.com/artist/3FLUBwpAnaIlIKeaBfsxFe), [GrimesAI](https://open.spotify.com/artist/7qiNgbnabvfRbA9lomTgEk) | [Cold Touch](https://open.spotify.com/album/2Y01Vf7C32AQw4ki2moXGj) | 2:10 |
 
-Snapshot ID: `MCwwNTg0NjJlMjE5ZGJhNzllMjY1MzU2YTMzMmRmNDViYTcxNmNhZDY0`
+Snapshot ID: `MCw3OGY1YzNlNDYwMGE3YzRkYTVjMWQ1NDkxNWYwZWZlZTg4YzdlYmRj`

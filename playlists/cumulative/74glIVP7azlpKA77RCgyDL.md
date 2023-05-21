@@ -2,9 +2,9 @@
 
 ### [Best New Songs Right Now](https://open.spotify.com/playlist/74glIVP7azlpKA77RCgyDL)
 
-> Every week badass heavy\-music artists drop badass new cuts, and every week we&\#x27;ll add those tracks to this evolving list for your headbanging pleasure\. Cover artist: Queens of the Stone Age
+> Every week badass heavy\-music artists drop badass new cuts, and every week we&\#x27;ll add those tracks to this evolving list for your headbanging pleasure\. Cover artist: Margaritas Podridas
 
-406 songs - 1 day 2 hr 8 min
+412 songs - 1 day 2 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,6 +56,7 @@
 | [Cage Intimacy](https://open.spotify.com/track/36QLWRuc1cdQBQEC6hqiwn) | [Primitive Man](https://open.spotify.com/artist/3XmsLcTDR20TF8CGBThNEx) | [Cage Intimacy](https://open.spotify.com/album/1PhB912BQ5if1T7ynBeA7W) | 11:02 | 2022-04-15 |  |
 | [Call for the Blood](https://open.spotify.com/track/1Rp24znByAhS8OFTsg698V) | [Norma Jean](https://open.spotify.com/artist/55b0Gfm53udtGBs8mmNXrH) | [Call for the Blood](https://open.spotify.com/album/2UrBt0wuAjZ0nf3jIwU1mN) | 3:14 | 2022-06-17 |  |
 | [Call Me Little Sunshine](https://open.spotify.com/track/4W6MuwB3D4fjc0kLlUKZEl) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Call Me Little Sunshine](https://open.spotify.com/album/0K1mTbmQQ6pcVLoxgk6WMq) | 4:44 | 2022-01-21 |  |
+| [Call of the Void](https://open.spotify.com/track/2lESBOYd1J2oBWVeLLSFdg) | [Mutoid Man](https://open.spotify.com/artist/2KhRuej67LynneJthmMx8o) | [Call of the Void](https://open.spotify.com/album/4Ioa4MtCt5zTxYnf2Ak32G) | 3:59 | 2023-05-19 |  |
 | [Camera Eats First](https://open.spotify.com/track/4T5Oe1GIz1dmhCXZE2mvLa) | [Ithaca](https://open.spotify.com/artist/7HIvrtPrTTxXrBeJkiRj8x) | [Camera Eats First](https://open.spotify.com/album/2UnGJcKW9UAsWbiTHkdV5N) | 4:53 | 2022-06-03 |  |
 | [Can't Help but Hate](https://open.spotify.com/track/1fHI0w8RN6LyJJyK73HYdH) | [Terror](https://open.spotify.com/artist/1GVRgPtEC6sZFqvItIk3eg), [Corpsegrinder](https://open.spotify.com/artist/2W2H6mzoE0HqDLM7ux6FbO) | [Can't Help but Hate](https://open.spotify.com/album/4YabiXOQ78hhNLxhq8OAmA) | 1:26 | 2022-03-11 |  |
 | [Carmine \(Fills the Hollow\)](https://open.spotify.com/track/3j72SnayBIS9YYVCqTEScw) | [Heriot](https://open.spotify.com/artist/49O77SKrEk1b9sNjhI0kM4) | [Profound Morality](https://open.spotify.com/album/5LDm7EQU04NgEHiLF2beaB) | 1:42 | 2022-04-29 |  |
@@ -77,6 +78,7 @@
 | [Compulsion for Cruelty](https://open.spotify.com/track/6qyjlMANn1diSEIlXQLm50) | [Dying Fetus](https://open.spotify.com/artist/2DqzOWVL2ly48IA9bpZdie) | [Compulsion for Cruelty](https://open.spotify.com/album/5OXIkskoAjJuU4vgHCreEL) | 4:37 | 2022-09-02 |  |
 | [Congelia](https://open.spotify.com/track/2oyornhocyqp1XpxsJxIld) | [Enslaved](https://open.spotify.com/artist/2HmtB6wVRRi3z0JwZHtkiD) | [Congelia](https://open.spotify.com/album/1uvY2dvGnOgnwwpIOn9a34) | 8:01 | 2022-11-18 |  |
 | [Congregation](https://open.spotify.com/track/2LMKemBZtIqQFYwbOtWNYj) | [Witch Fever](https://open.spotify.com/artist/1Zdd7fqk5jtuMUwE7agpS1) | [Congregation](https://open.spotify.com/album/6eCA5jhCBTqYYoOgemoAES) | 4:55 | 2022-05-20 |  |
+| [Corazón](https://open.spotify.com/track/4k6lS9WnUeCTI0vHlgjfSE) | [Margaritas Podridas](https://open.spotify.com/artist/5O9NicFLG2F9Xr7OHxmrb7) | [Corazón de Muñeca](https://open.spotify.com/album/0U53bWMxR0v2DpWpfEzTEP) | 1:53 | 2023-05-19 |  |
 | [Curators of Brutality](https://open.spotify.com/track/6ttfR7aeF1dGy0FctJJG6C) | [Terminal Nation](https://open.spotify.com/artist/10jLinCe6zTTr0ZpSIsx96) | [The Ruination of Imperialism](https://open.spotify.com/album/5Bx6D9n8RfILqYPzoopHh9) | 4:01 | 2022-06-03 |  |
 | [Cursed to Die](https://open.spotify.com/track/3zE05ciZtFILFRYuSIfG2L) | [Lorna Shore](https://open.spotify.com/artist/6vXYoy8ouRVib302zxaxFF) | [Cursed to Die](https://open.spotify.com/album/2MsDBLEjE1yS1AUjHrNgB0) | 4:40 | 2022-07-29 |  |
 | [CUT.BLEED.REPEAT](https://open.spotify.com/track/7DECB48H9EToEwvpd0Cxf3) | [PROJECT: VENGEANCE](https://open.spotify.com/artist/7HcrrlXGMsiC4nteuArgi9), [Left to Suffer](https://open.spotify.com/artist/36d1uVy1ZuZWqfnsPxCUOk) | [CUT.BLEED.REPEAT](https://open.spotify.com/album/1R9xrOaKyMkGxBFD4fYYY8) | 3:34 | 2023-03-10 |  |
@@ -307,6 +309,7 @@
 | [Shot Down](https://open.spotify.com/track/6rvlbf5Rle9exopdtBY3cL) | [Scowl](https://open.spotify.com/artist/6hW33nVHPElaXuG2hQ0QOp) | [Shot Down](https://open.spotify.com/album/25RwbMetO9mwESyZvfIRAB) | 1:49 | 2023-03-03 |  |
 | [Siege Warfare](https://open.spotify.com/track/6dfqQ2QZgTXEPbABSmuNpg) | [High Command](https://open.spotify.com/artist/4M3EzJBgOCW0MFc54EBEqQ) | [Siege Warfare](https://open.spotify.com/album/3DTP3aMHIYQjsKV3om1lXl) | 3:32 | 2022-09-30 |  |
 | [Slaughterhouse \(feat\. Bryan Garris Of Knocked Loose\)](https://open.spotify.com/track/4DzJ41A6qR14hHtS1djvdX) | [Motionless In White](https://open.spotify.com/artist/6MwPCCR936cYfM1dLsGVnl), [Bryan Garris](https://open.spotify.com/artist/7I25a8b3zJkLqCW2Ikfpfe), [Knocked Loose](https://open.spotify.com/artist/4qrHkx5cgWIslciLXUMrYw) | [Slaughterhouse \(feat\. Bryan Garris Of Knocked Loose\)](https://open.spotify.com/album/4M8klblrnAmjVDHTMkxxqu) | 4:23 | 2022-05-13 |  |
+| [Snack Run](https://open.spotify.com/track/676pwcDn6OiyTWFF0LXX9O) | [Buggin](https://open.spotify.com/artist/3cMV6gZTWyfJZCaGl2eZBJ) | [Snack Run](https://open.spotify.com/album/5RMfiR0EZQ1lfNK1PDjOnK) | 0:56 | 2023-05-19 |  |
 | [Society of Spectres](https://open.spotify.com/track/1elp1yGhshhtbkCYLY7lQj) | [Grave Pleasures](https://open.spotify.com/artist/7Gbgr3pNct3IvdhQLO8wPU) | [Society of Spectres](https://open.spotify.com/album/1fAyzRm8MazuxTW1dE90Ui) | 4:10 | 2023-01-13 |  |
 | [Spearmint Revolt](https://open.spotify.com/track/2k3Vtbkr80qEkmGle4NK37) | [Norma Jean](https://open.spotify.com/artist/55b0Gfm53udtGBs8mmNXrH) | [Spearmint Revolt](https://open.spotify.com/album/23XEhKtJYPjK41dUrHl5Y2) | 5:02 | 2022-07-08 |  |
 | [Spectral Forge](https://open.spotify.com/track/0nf5AK5juSdYHzeShAHKT5) | [Spinebreaker](https://open.spotify.com/artist/7riHR2ykMbIJW94DD69wAq) | [Spectral Forge](https://open.spotify.com/album/3KCmt7Caefq1d6KncnG4ex) | 4:44 | 2023-04-07 |  |
@@ -324,6 +327,7 @@
 | [Sweet Dreams of Otherness](https://open.spotify.com/track/02AtE63KsG9iYLaznzv2aM) | [Alexisonfire](https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2) | [Sweet Dreams of Otherness](https://open.spotify.com/album/5z9liNsv9Mnuhj7HSNWv1g) | 4:44 | 2022-03-11 |  |
 | [Sweet Jesus Wept Shit](https://open.spotify.com/track/6LFtB65EHqd7U85PhBEUjo) | [Cold Gawd](https://open.spotify.com/artist/4nD7mZ37GMiFBSjvWZIlDb) | [Sweet Jesus Wept Shit](https://open.spotify.com/album/7gYrrE3z5TFefKMmFzs9Gd) | 3:12 | 2022-07-01 |  |
 | [Take Back Control](https://open.spotify.com/track/23dY6wUSyEHYUqeUBL0ROJ) | [Employed To Serve](https://open.spotify.com/artist/58d50jBQXhOetEGuSBgu64) | [Conquering \(Deluxe\)](https://open.spotify.com/album/7elmT46vGsxfDJ9vd7O1dC) | 3:09 | 2023-03-10 |  |
+| [Take Me Back To Eden](https://open.spotify.com/track/2Gt7fjNlx901pPRkvBiNBZ) | [Sleep Token](https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6) | [Take Me Back To Eden](https://open.spotify.com/album/1gjugH97doz3HktiEjx2vY) | 8:20 | 2023-05-19 |  |
 | [Talk For Hours](https://open.spotify.com/track/7tpm14q61uGlBLqOS0WaOL) | [High Vis](https://open.spotify.com/artist/4Gmrt82h2vjGjnp67SG5Nw) | [Talk For Hours](https://open.spotify.com/album/3wivAGbT1Wrtg1G7jGm23W) | 4:59 | 2022-04-15 |  |
 | [Tamashii No Houkai](https://open.spotify.com/track/6x6UnL6dWt3r8nQMlSMmAx) | [Ibaraki](https://open.spotify.com/artist/2KfAvhpbfc8YkLBj6w3hfU) | [Tamashii No Houkai](https://open.spotify.com/album/3ZBHu5UnXwrQrEeepL6X4B) | 5:58 | 2022-01-21 |  |
 | [Tank On E](https://open.spotify.com/track/3jJ8NX2W13Kb4weZEUSvpL) | [Never Ending Game](https://open.spotify.com/artist/1S8NfdnAl7u08mTjEtDWLp) | [Tank On E](https://open.spotify.com/album/6s6uyJHu5uscy4snvD0LQw) | 2:39 | 2023-04-21 |  |
@@ -390,6 +394,7 @@
 | [Watchtower](https://open.spotify.com/track/7pgj6tSDzpL73tzrUaW4TP) | [The Devil Wears Prada](https://open.spotify.com/artist/0NbQe5CNgh4YApOCDuHSjb) | [Watchtower](https://open.spotify.com/album/0I0qq25JoA8DyCaztuUgHb) | 2:48 | 2022-02-04 |  |
 | [Wavery](https://open.spotify.com/track/3gDn9Om6fPNJ11NILNA4gF) | [Vein.fm](https://open.spotify.com/artist/5NU7mpGqMvlZpq63RajHOH) | [Wavery](https://open.spotify.com/album/2To1jRQY2oGoja537Bwyls) | 4:40 | 2022-02-18 |  |
 | [We Came To Play](https://open.spotify.com/track/41zQURNrqtia1f2xXfZkUP) | [Show Me the Body](https://open.spotify.com/artist/5jh7sgXW2njALiIh0aPXjB) | [We Came To Play](https://open.spotify.com/album/2JCF0uPKnJCJdQ7C5acVFr) | 2:15 | 2022-09-16 |  |
+| [We Don’t Need Another Hero](https://open.spotify.com/track/14nGuPAynE1VnHC1mBf1R6) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Phantomime](https://open.spotify.com/album/3FC7LwzvrDakmJqkGLlXbR) | 4:10 | 2023-05-19 |  |
 | [We Love You](https://open.spotify.com/track/3DZoL58N1dCaNah9WEvlP0) | [Avenged Sevenfold](https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs) | [We Love You](https://open.spotify.com/album/1OtxzVaaGtJw05LtlusYxC) | 6:15 | 2023-05-12 |  |
 | [We’ll Be Back](https://open.spotify.com/track/4SsN1B9ZaSOFmBb4wVu1WB) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [We’ll Be Back](https://open.spotify.com/album/2aeNfVklb5vG8aThJMIQ69) | 4:29 | 2022-06-24 |  |
 | [We’re All Gonna Die](https://open.spotify.com/track/6rvFwsNhcd7Q2RdsEvUEbC) | [Underoath](https://open.spotify.com/artist/3GzWhE2xadJiW8MqRKIVSK) | [Voyeurist](https://open.spotify.com/album/6uv3nIiip5lAAG41OQIk0f) | 3:19 | 2022-01-14 |  |
@@ -408,6 +413,7 @@
 | [Yen](https://open.spotify.com/track/3jlGZP70KYqw0fjjDNoOe0) | [Slipknot](https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8) | [Yen](https://open.spotify.com/album/0FkAhmbHolBUJvWsGjzvTQ) | 4:43 | 2022-08-05 |  |
 | [YES ALL MEN](https://open.spotify.com/track/4Lz2uH0ywXpEg5XWI99cwn) | [Banshee](https://open.spotify.com/artist/0DG7J8Q9Alnt65HJv6owzf) | [YES ALL MEN](https://open.spotify.com/album/2sijNGBuZIOSGzSreKHVZg) | 2:23 | 2023-03-31 |  |
 | [You Are the Beginning](https://open.spotify.com/track/4z1hGpOWBgFPa1AUND2P7X) | [Boris](https://open.spotify.com/artist/3EgMK920cIH5aLxFnJ6zSi), [Uniform](https://open.spotify.com/artist/3TaLdYu9rA6H364ROYMmvF) | [You Are the Beginning](https://open.spotify.com/album/4Jupeun3ZXE7DsAb3nv7ZG) | 3:44 | 2023-05-05 |  |
+| [You're On The List \(minus one\)](https://open.spotify.com/track/0hKmeXmY7wJSfEUqrL7pTD) | [Koyo](https://open.spotify.com/artist/4np3dM8CSvjKhToa0Epfs9) | [You're On The List \(minus one\)](https://open.spotify.com/album/1NlppsZ2UrWiYjwWGgoXk8) | 3:01 | 2023-05-19 |  |
 | [Zeit](https://open.spotify.com/track/6eOGjyegLDZqCvCZ3divgp) | [Rammstein](https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP) | [Zeit](https://open.spotify.com/album/0kHIXBNeED9HPrXMZEZqEu) | 5:21 | 2022-03-11 |  |
 | [Zick Zack](https://open.spotify.com/track/5hPxC9i9lj9pJwg7DK2MvC) | [Rammstein](https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP) | [Zick Zack](https://open.spotify.com/album/0J2ajcf51h4z7bTsmMY0X8) | 4:04 | 2022-04-08 |  |
 | [Zombie Inferno](https://open.spotify.com/track/3kDii17lJocLG2jfWGzecS) | [Bloodbath](https://open.spotify.com/artist/7eYmDBinb760MUIfoRdlGQ) | [Zombie Inferno](https://open.spotify.com/album/6OsZBopYtCRSANJJ7FwI7Y) | 4:07 | 2022-07-01 |  |

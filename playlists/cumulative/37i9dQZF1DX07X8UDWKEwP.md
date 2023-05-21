@@ -4,7 +4,7 @@
 
 > Lo nuevo del mundo tropical\. Cover: Luis Figueroa
 
-265 songs - 15 hr 53 min
+266 songs - 15 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -133,6 +133,7 @@
 | [Lo Veo y No Lo Creo](https://open.spotify.com/track/1bTpL2sNbYVlNuxXIFI9jk) | [Willy Garcia](https://open.spotify.com/artist/1VNniaVBiVVqSwjUEcNJfd), [Gilberto Santa Rosa](https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1) | [El Día Es Hoy](https://open.spotify.com/album/2Pnmt5sGCcrDUJmKqVx7Rb) | 3:20 | 2022-01-01 | 2022-01-29 |
 | [Los Celos Se Te Notan](https://open.spotify.com/track/66YC8rcYpImTugAA2m2yUb) | [Olga Tañón](https://open.spotify.com/artist/4pv1Jo4PbYI8LMADJoTWjE) | [Los Celos Se Te Notan](https://open.spotify.com/album/2zg7DDi8vJ2gYy4wq2n1TG) | 3:10 | 2023-01-20 | 2023-03-22 |
 | [Lotería](https://open.spotify.com/track/0R5yCZ5xBbZV0nyPO9qM9d) | [Luis Vazquez](https://open.spotify.com/artist/00zeZxu1UPkn8DKqNxgnyw), [Rafa Pabön](https://open.spotify.com/artist/11YLRSsZA3YVuQQtHXKTlz) | [Lotería](https://open.spotify.com/album/7qjUgwcrdAbhAjF5gYAyn4) | 4:10 | 2023-04-21 |  |
+| [Luck Ra \| Mission 15](https://open.spotify.com/track/6CIMoDfTsvFVGhFi3v9Izn) | [Alan Gomez](https://open.spotify.com/artist/6oMRQ5H3A2XA5I3RG3leni), [Luck Ra](https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk) | [Luck Ra \| Mission 15](https://open.spotify.com/album/75ROUVsHe1IcWmeOBuFZtT) | 2:13 | 2023-05-19 |  |
 | [Luna](https://open.spotify.com/track/5Pdw0kGwWndeTsbOfVrv3r) | [Bella Dose](https://open.spotify.com/artist/0mzZB75kFTY5xPZm4RWfk9), [DaniLeigh](https://open.spotify.com/artist/0XIKGBo9PnK1ApI5tZA60d) | [Suelta](https://open.spotify.com/album/0a75xzDuN6WBePejRqxLTZ) | 3:24 | 2022-01-01 | 2022-01-29 |
 | [LUNA](https://open.spotify.com/track/4lFKjvCI3fQ1yMuKvdEvGS) | [Jd Pantoja](https://open.spotify.com/artist/7yjRUA0Iz3VI4Kqa5oPJZK), [Kim Loaiza](https://open.spotify.com/artist/1QivQCLVipV61DiQiyV14A) | [LUNA](https://open.spotify.com/album/7zxhGn6Fq3pcpOpHAcOpAD) | 3:45 | 2023-03-10 |  |
 | [Luna De Queso](https://open.spotify.com/track/6RZfZgF9YdezFWLWxs4j6I) | [MOLY](https://open.spotify.com/artist/0fAxJ75WJT3STJb3xWtpbc), [Wise "the Gold Pen"](https://open.spotify.com/artist/11IcDecUvnKOttYzE3d0Z1), [The Chosen](https://open.spotify.com/artist/4zaS9mItqCC5OQpML2VDu2) | [Luna De Queso](https://open.spotify.com/album/4iPuhUiSBuFHn2rKqn5jKx) | 3:34 | 2022-01-01 | 2022-06-30 |
@@ -162,7 +163,7 @@
 | [Mujeriego](https://open.spotify.com/track/78kygHp1dvW1kncYjBgbe1) | [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz) | [Mujeriego](https://open.spotify.com/album/43sxUsU622oLloqafw61vN) | 2:22 | 2022-01-28 | 2022-06-30 |
 | [Música Suave](https://open.spotify.com/track/0RNBuq2FZEh2VhRTPh5A7F) | [El Niño y la Verdad](https://open.spotify.com/artist/5iarY4wc4dUF6b4SbDT95n), [Arian Chacón](https://open.spotify.com/artist/3JhafkAyv0kqwAMlEtEzqz) | [El Hijo Del Viento](https://open.spotify.com/album/2lZjGC8VNtAu7hoIKuqbM6) | 4:37 | 2022-07-19 | 2023-01-14 |
 | [Nada Es Igual](https://open.spotify.com/track/6PmdO63qxKY3nbydxCGT7u) | [Pinto Picasso](https://open.spotify.com/artist/40DtWCtcmCd6GH8vKrDaJs) | [Nada Es Igual](https://open.spotify.com/album/0aYCMNZY1sqSDbXDqCTIgj) | 2:52 | 2022-03-04 | 2022-06-30 |
-| [Narices Frías](https://open.spotify.com/track/5SqOzL7GvRCJWTBmY7Kvvz) | [Juliana](https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY) | [Narices Frías](https://open.spotify.com/album/6y3zWGWXhoSPtMWC7b3C7Q) | 5:03 | 2023-04-28 |  |
+| [Narices Frías](https://open.spotify.com/track/5SqOzL7GvRCJWTBmY7Kvvz) | [Juliana](https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY) | [Narices Frías](https://open.spotify.com/album/6y3zWGWXhoSPtMWC7b3C7Q) | 5:03 | 2023-04-28 | 2023-05-21 |
 | [No Comprendo](https://open.spotify.com/track/3piI3idxf7NBiItHAYicyN) | [Jhonny Evidence](https://open.spotify.com/artist/7EndqnY5tR0pzhbVFJr5Zy), [El Completo Rd](https://open.spotify.com/artist/6pvz7OwdRHemko3hrQygJb) | [No Comprendo](https://open.spotify.com/album/0gXDMP6oBtLEIKZDYrMMED) | 3:57 | 2022-01-01 | 2022-06-30 |
 | [No Me Lo Creo](https://open.spotify.com/track/4gwHxA0k6vffsqrlQM5KqI) | [Daniela Darcourt](https://open.spotify.com/artist/4exGY59juoSimpcH1NiuaR), [Tito Nieves](https://open.spotify.com/artist/4vOycwLXdkMMzpZW04VW5m) | [No Me Lo Creo](https://open.spotify.com/album/1uEJjZcUacPru75YliRbJg) | 4:28 | 2022-06-29 | 2023-02-22 |
 | [No Me Pongas a Elegir](https://open.spotify.com/track/01rW8XtruypjeIQvfob33P) | [Ralphy Dreamz](https://open.spotify.com/artist/5elxYg57OGXnqXm6wZDmvm) | [Dime Que Me Amas](https://open.spotify.com/album/22yvjLnXQqgeh3EsodrEw1) | 3:06 | 2022-01-01 | 2022-06-30 |

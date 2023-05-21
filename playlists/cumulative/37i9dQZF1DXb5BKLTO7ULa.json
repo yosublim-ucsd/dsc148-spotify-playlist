@@ -6864,16 +6864,16 @@
       },
       "artists": [
         {
-          "name": "Jerry",
-          "url": "https://open.spotify.com/artist/0kBsWW34jA4aNzn2xuQNE0"
-        },
-        {
           "name": "BEAU",
           "url": "https://open.spotify.com/artist/3sLVXD6W3m1cTT2uBWTVWt"
         },
         {
           "name": "Purp Sagir",
           "url": "https://open.spotify.com/artist/1xcx9BR9EMM80E0LGvTTkJ"
+        },
+        {
+          "name": "Jerry",
+          "url": "https://open.spotify.com/artist/0kBsWW34jA4aNzn2xuQNE0"
         }
       ],
       "date_added": "2023-05-19",

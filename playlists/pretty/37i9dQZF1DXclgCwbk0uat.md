@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXclgCwbk0uat.md) - [plain]
 
 > ¡Escucha los éxitos de hoy! <br/>Foto: Pailita.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,830,718 likes - 50 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,831,164 likes - 50 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXclgCwbk0uat.md) - [plain]
 | 49 | [Fashion Girl \- Remix](https://open.spotify.com/track/6ECqgyhDZcf6fqlJhSTRhP) | [Kidd Voodoo](https://open.spotify.com/artist/10VBp06W8NIgMW4JruLCC4), [Young Cister](https://open.spotify.com/artist/0Yg29FX1M4ayqjXs0ttZFq) | [Fashion Girl \(Remix\)](https://open.spotify.com/album/21sLFYA7VmVpCadRw7Z1sq) | 3:11 |
 | 50 | [TQG](https://open.spotify.com/track/0DWdj2oZMBFSzRsi2Cvfzf) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [MAÑANA SERÁ BONITO](https://open.spotify.com/album/4kS7bSuU0Jm9LYMosFU2x5) | 3:17 |
 
-Snapshot ID: `MCwyZjYyYzMwZTEyZGI0NWFkOTQ1N2I1ZTc2MjBhYjQxYjI2ZWIwYThk`
+Snapshot ID: `MCxkZDRkYjgyY2Y0NGM5MjdmMWI5MDY3OTU4ODlmMjQ4MTgyYTM2MTlj`

@@ -4,13 +4,14 @@
 
 > Deep House in all its shapes and colours.
 
-329 songs - 1 day 7 hr 5 min
+330 songs - 1 day 7 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [9 to 5](https://open.spotify.com/track/7uqextLPPYXw6RtlV8fHeE) | [Latteo](https://open.spotify.com/artist/4IQLm7ZNKGlw7AaV7okjKv), [D'aria](https://open.spotify.com/artist/1jRvpCmyVWLXnwmDvI89Sp) | [9 to 5](https://open.spotify.com/album/66W9hAU2PxiBnw0Vpj51Qj) | 7:25 | 2022-04-15 | 2022-07-29 |
 | [Acceptance](https://open.spotify.com/track/2lXdClPLTHf6feWj03uEKH) | [Oliver Koletzki](https://open.spotify.com/artist/1WjBIvYAnZTkTh5UiZNwlR), [Niko Schwind](https://open.spotify.com/artist/4jPpDbD1ERO3zjBon97ECM) | [Acceptance](https://open.spotify.com/album/3fktCq03viuUu3pFwQqArW) | 6:39 | 2021-11-26 | 2022-04-19 |
 | [Aldeapolis](https://open.spotify.com/track/1HSLxCm2XQJKeeUidwcVeK) | [Bonfante](https://open.spotify.com/artist/0hKk2DCpmmWR348mAcRe0p) | [Aldeapolis](https://open.spotify.com/album/7otxLp1aUVPOwsO5FXhqEG) | 7:15 | 2022-06-17 | 2022-07-27 |
+| [Aldeapolis](https://open.spotify.com/track/6pjKhulIJlSoTwrr7FpMw1) | [Bonfante](https://open.spotify.com/artist/0hKk2DCpmmWR348mAcRe0p) | [Aldeapolis](https://open.spotify.com/album/5y6AcHHPILKmhj9ekgoMj4) | 7:15 | 2023-05-05 |  |
 | [Alkebulan \- David Mayer Remix](https://open.spotify.com/track/4Bl14xQWo7Q6jagOcPZ5mI) | [ANT LaROCK](https://open.spotify.com/artist/6u4RO7eYTIJW3TEITwgzhS), [Roland Clark](https://open.spotify.com/artist/4OGlp2UdUQGPJVbvJ82Cz5), [David Mayer](https://open.spotify.com/artist/7Mf7RKErlQ5maEdHTXNexf) | [Alkebulan Remix](https://open.spotify.com/album/2JoZyLBoWtjzNLJKsXNoVs) | 7:50 | 2021-11-26 | 2022-11-23 |
 | [All I Know](https://open.spotify.com/track/6gbcV35Fx1UG74mqXYCloC) | [PARIS](https://open.spotify.com/artist/7ejF235eYuh8PlQDLaJy0N), [Pantheon](https://open.spotify.com/artist/3JX3pY7okkEyFnbtuELshV), [Jannah Beth](https://open.spotify.com/artist/6eC2CFvVSX6FZRJqTqXwZh) | [All I Know](https://open.spotify.com/album/6CBxsT89sBIpqKbibw9eT3) | 5:14 | 2022-04-04 | 2022-07-15 |
 | [All I Want \(feat\. Goatchy\)](https://open.spotify.com/track/6hizzLN6GI5rWUWX2EiKR0) | [Tube & Berger](https://open.spotify.com/artist/32wcuqRxZuBY5HbH1bWa8h), [Goatchy](https://open.spotify.com/artist/2MOGeYMRvzFxWLgdwZpeQh) | [All I Want \(feat\. Goatchy\)](https://open.spotify.com/album/5YxKPq0pIJyi4sEyIq8cyv) | 3:44 | 2021-11-26 | 2022-08-13 |
@@ -233,7 +234,7 @@
 | [Pink Moon](https://open.spotify.com/track/5juPlUFkksVaQQ0EWWPjPm) | [Dole & Kom](https://open.spotify.com/artist/5iVuj2TcNIEBNnzGk97vfT) | [Pink Moon](https://open.spotify.com/album/0lxU1f8o0IKw5911GzDSaK) | 6:42 | 2021-11-26 | 2022-07-28 |
 | [Plastic Dream](https://open.spotify.com/track/16S7W3yMOD4JmVqIXfSQLc) | [Darksidevinyl](https://open.spotify.com/artist/7JgdmzLGGrt808y5C1STh0) | [Plastic Dream](https://open.spotify.com/album/45CEYxlKWM3NpTVMFcEChf) | 5:55 | 2022-09-30 | 2022-11-02 |
 | [Poly 61](https://open.spotify.com/track/504mdqIfWU65Ar6ePzsZJU) | [Liam Mour](https://open.spotify.com/artist/5XaT1otgH5hpyqjkDbt8d0) | [Poly 61](https://open.spotify.com/album/4QtJHCnRvyffr6Jx34K68H) | 4:33 | 2022-04-04 | 2022-07-29 |
-| [Psilocybin](https://open.spotify.com/track/5cdZZrSBhorr0BZBGFUfIy) | [DESIREE](https://open.spotify.com/artist/6TZbLCcOCv1DJvN28x3FBa) | [Femme Tech](https://open.spotify.com/album/2pYtRpgha87XaijSIwUUbn) | 6:17 | 2022-08-12 |  |
+| [Psilocybin](https://open.spotify.com/track/5cdZZrSBhorr0BZBGFUfIy) | [DESIREE](https://open.spotify.com/artist/6TZbLCcOCv1DJvN28x3FBa) | [Femme Tech](https://open.spotify.com/album/2pYtRpgha87XaijSIwUUbn) | 6:17 | 2022-08-12 | 2023-05-21 |
 | [Pura Vida](https://open.spotify.com/track/0Keuz1iGQsOdIxqsdbKanO) | [Yulia Niko](https://open.spotify.com/artist/3RUNl0j2ISAQdC2Fxhj2q3) | [Donde Chile](https://open.spotify.com/album/2jerpv6SvJNbLNflSwg1MW) | 7:14 | 2022-06-24 |  |
 | [Pura Vida](https://open.spotify.com/track/3i1NcXMWTcRiUyDydBhZol) | [Yulia Niko](https://open.spotify.com/artist/3RUNl0j2ISAQdC2Fxhj2q3) | [Donde Chile](https://open.spotify.com/album/0XkAQnJ9rGm1Zzv70yfJVb) | 7:14 | 2021-11-26 | 2022-07-12 |
 | [R U 4REAL \(feat\. Marina Maximilian\)](https://open.spotify.com/track/7qEYvfP5ONliv8obMM2A4E) | [Gordo](https://open.spotify.com/artist/4Ge9GwmWnOQsohwPTrXyHc), [Marina Maximilian](https://open.spotify.com/artist/4ejLVLFQUlsBRYVMcfpzNp) | [R U 4REAL \(feat\. Marina Maximilian\)](https://open.spotify.com/album/2WV2u9UIG4I3BQ3jkuphBa) | 3:09 | 2023-04-05 |  |

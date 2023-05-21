@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqNV5cS50j6.md) - [plain]
 
 > Ray Laurél makes anti pop
 
-[Spotify](https://open.spotify.com/user/spotify) - 696,898 likes - 100 songs - 4 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 696,910 likes - 100 songs - 4 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqNV5cS50j6.md) - [plain]
 | 11 | [Sex](https://open.spotify.com/track/35mAlSYYkPOi7BpV3W3EdC) | [The Dare](https://open.spotify.com/artist/2mqiqsaX4LzFnUP7PmHGAb) | [The Sex EP](https://open.spotify.com/album/1YeSq8REMmtAeeO26kjrjD) | 3:19 |
 | 12 | [Defame Moi](https://open.spotify.com/track/15zbdT98jFyZO2MFg1rbqD) | [MIKE DEAN](https://open.spotify.com/artist/5TAipisjquAkq2o7lzMJyc) | [4:23](https://open.spotify.com/album/0ACtwMaMVewYM4hFu9FXhZ) | 1:45 |
 | 13 | [Don't Make Me Go Wrong](https://open.spotify.com/track/2zIDLsduXFSguKxHgzuq0A) | [Moritz](https://open.spotify.com/artist/67aMKJMVxYIbbVjzfJ5dPZ) | [Don't Make Me Go Wrong](https://open.spotify.com/album/3kSyH8xI2iecmqWLrUQN3T) | 3:19 |
-| 14 | [Doolally](https://open.spotify.com/track/5KiOQH7AdJMxAo6LtgkQHg) | [Hak Baker](https://open.spotify.com/artist/5QsqiLFA5Z2gmpKBbxQB2j) | [DOOLALLY](https://open.spotify.com/album/3TZLSPVmWjBqmwqXn1Xal5) | 3:22 |
+| 14 | [DOOLALLY](https://open.spotify.com/track/5KiOQH7AdJMxAo6LtgkQHg) | [Hak Baker](https://open.spotify.com/artist/5QsqiLFA5Z2gmpKBbxQB2j) | [DOOLALLY](https://open.spotify.com/album/3TZLSPVmWjBqmwqXn1Xal5) | 3:22 |
 | 15 | [Gimme A Chance](https://open.spotify.com/track/3Hu3EPU5S3ftac3ulsEw7d) | [Dreamer Isioma](https://open.spotify.com/artist/6u6AbTVrbabv27DLcSrF8i) | [Princess Forever](https://open.spotify.com/album/24nQZEr8mncYgewoIVbCHR) | 3:31 |
 | 16 | [SHIMMY SHIMMY YA](https://open.spotify.com/track/3JAFE76eFFBLWH42wrPjQZ) | [Kevin Holliday](https://open.spotify.com/artist/30VidDqHTbEp8U7CBe1mX0) | [SHIMMY SHIMMY YA](https://open.spotify.com/album/4IOwSAB1ty8ESwo5WBhph5) | 2:06 |
 | 17 | [venus fly trap](https://open.spotify.com/track/37IFFBgI7qnLKqGP15mmIu) | [brakence](https://open.spotify.com/artist/4kqFrZkeqDfOIEqTWqbOOV) | [venus fly trap](https://open.spotify.com/album/3YgpnaR6GEWZcsM489YNge) | 4:55 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqNV5cS50j6.md) - [plain]
 | 99 | [Bite Me](https://open.spotify.com/track/58o9R5b5BKmVzyJWpVDB37) | [Jackie Hayes](https://open.spotify.com/artist/6t4Ti3W4wPs5GUx982OMYt) | [Over & Over](https://open.spotify.com/album/6blr4YVJ0xwdx1qJWBtz76) | 2:17 |
 | 100 | [I BOUGHT YOU DAISIES](https://open.spotify.com/track/1iqPqjK8NBii4QKbHXTqn6) | [Wes Patrick](https://open.spotify.com/artist/7usRCDCEwBR7ZMg48VTCnE) | [I BOUGHT YOU DAISIES](https://open.spotify.com/album/0f2iRP8RK2X9u5OlFMGwdD) | 2:51 |
 
-Snapshot ID: `MCxlZTJkMzBkNTg1ZjFhY2Y5MGIyMzMyODY5Njc0MTMzMTE4ZmUwMDEx`
+Snapshot ID: `MCw5NjRjZjcwNzdkOTRkM2MzZjZmODYzNzZhZDRlNTAzYzc0ODZjMTJh`

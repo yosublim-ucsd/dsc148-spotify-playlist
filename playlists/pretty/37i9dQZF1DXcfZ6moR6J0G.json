@@ -1,12 +1,12 @@
 {
   "description": "You know what time it is.",
-  "num_followers": 1672075,
+  "num_followers": 1673252,
   "original_name": "Nu Metal Era",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwZWU5MGQ2MjgyMTkyZjZlZDMxN2VkZDI2OTM4NjFmZGQwNDc2YWJk",
+  "snapshot_id": "MCxjODY3YzYyZmNlZDgwODFkZDIwY2NlNTgzNmY2YTNkZWNiNDRmMWU2",
   "tracks": [
     {
       "added_at": "2023-05-16 09:14:45",
@@ -1131,22 +1131,6 @@
     {
       "added_at": "2023-05-16 09:14:45",
       "album": {
-        "name": "Year Of The Spider",
-        "url": "https://open.spotify.com/album/0XxmvWFp66NnlSxco9i7yr"
-      },
-      "artists": [
-        {
-          "name": "Cold",
-          "url": "https://open.spotify.com/artist/0Gw3a3BkWLwsMLFbOBmo6Q"
-        }
-      ],
-      "duration_ms": 189853,
-      "name": "Stupid Girl",
-      "url": "https://open.spotify.com/track/40u9RFyKQfXwpPjFzK1bGO"
-    },
-    {
-      "added_at": "2023-05-16 09:14:45",
-      "album": {
         "name": "Get Some",
         "url": "https://open.spotify.com/album/73HoiOlintxrZhZHV9zSda"
       },
@@ -1159,6 +1143,22 @@
       "duration_ms": 201933,
       "name": "Snot",
       "url": "https://open.spotify.com/track/3qCQNtggJw1gxoptMgDhyR"
+    },
+    {
+      "added_at": "2023-05-16 09:14:45",
+      "album": {
+        "name": "Year Of The Spider",
+        "url": "https://open.spotify.com/album/0XxmvWFp66NnlSxco9i7yr"
+      },
+      "artists": [
+        {
+          "name": "Cold",
+          "url": "https://open.spotify.com/artist/0Gw3a3BkWLwsMLFbOBmo6Q"
+        }
+      ],
+      "duration_ms": 189853,
+      "name": "Stupid Girl",
+      "url": "https://open.spotify.com/track/40u9RFyKQfXwpPjFzK1bGO"
     },
     {
       "added_at": "2023-05-16 09:14:45",

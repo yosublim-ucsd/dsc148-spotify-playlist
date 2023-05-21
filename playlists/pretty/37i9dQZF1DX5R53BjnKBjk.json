@@ -1,12 +1,12 @@
 {
   "description": "Uma sele\u00e7\u00e3o de novos artistas da cena brasileira que voc\u00ea precisa conhecer.  Foto: Dani-Vie / Arte: Isu Kim",
-  "num_followers": 16469,
+  "num_followers": 16476,
   "original_name": "Fresh Finds Brasil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjZDJlNmJlODRkYzIyNzY1ZWQzNjRlNmMyMTFmNWVhN2EyOGRkOWQx",
+  "snapshot_id": "MCwzMTU3ZWFkNGEzZDBkNjI0MDczMDA4MzdmZmJmYmMwMGEyOGJlZGZh",
   "tracks": [
     {
       "added_at": "2023-05-12 03:03:00",
@@ -343,22 +343,6 @@
     {
       "added_at": "2023-05-12 03:03:00",
       "album": {
-        "name": "Mete o P\u00e9",
-        "url": "https://open.spotify.com/album/1d9bZ6LXQ38biZ5U4ELM3n"
-      },
-      "artists": [
-        {
-          "name": "Mar\u00f4",
-          "url": "https://open.spotify.com/artist/7EFHe9IRYS8gKgtrGCV14u"
-        }
-      ],
-      "duration_ms": 142699,
-      "name": "Mete o P\u00e9",
-      "url": "https://open.spotify.com/track/3Vl9ta4Cyr58nDn2XAJEjF"
-    },
-    {
-      "added_at": "2023-05-12 03:03:00",
-      "album": {
         "name": "Do Meu Lado",
         "url": "https://open.spotify.com/album/45iKCg1I829ixWrJXdpHeX"
       },
@@ -371,6 +355,22 @@
       "duration_ms": 151187,
       "name": "Do Meu Lado",
       "url": "https://open.spotify.com/track/2rUCHGrLFPALCz3jvmSj7p"
+    },
+    {
+      "added_at": "2023-05-12 03:03:00",
+      "album": {
+        "name": "Mete o P\u00e9",
+        "url": "https://open.spotify.com/album/1d9bZ6LXQ38biZ5U4ELM3n"
+      },
+      "artists": [
+        {
+          "name": "Mar\u00f4",
+          "url": "https://open.spotify.com/artist/7EFHe9IRYS8gKgtrGCV14u"
+        }
+      ],
+      "duration_ms": 142699,
+      "name": "Mete o P\u00e9",
+      "url": "https://open.spotify.com/track/3Vl9ta4Cyr58nDn2XAJEjF"
     },
     {
       "added_at": "2023-05-12 03:03:00",
@@ -391,22 +391,6 @@
     {
       "added_at": "2023-05-12 03:03:00",
       "album": {
-        "name": "Embalo",
-        "url": "https://open.spotify.com/album/624MHrTakiCB7vJ6hEFSnJ"
-      },
-      "artists": [
-        {
-          "name": "TIRI",
-          "url": "https://open.spotify.com/artist/2biikdsPdw63klSogoB5Ab"
-        }
-      ],
-      "duration_ms": 201231,
-      "name": "Embalo",
-      "url": "https://open.spotify.com/track/0v4oVq2rcPisPB7rVzl78c"
-    },
-    {
-      "added_at": "2023-05-12 03:03:00",
-      "album": {
         "name": "Voraz",
         "url": "https://open.spotify.com/album/2UB78K0EAmpgccF0WYRMMw"
       },
@@ -419,6 +403,22 @@
       "duration_ms": 131123,
       "name": "Voraz",
       "url": "https://open.spotify.com/track/3VwZQVbPTpQjnmMk6naYXU"
+    },
+    {
+      "added_at": "2023-05-12 03:03:00",
+      "album": {
+        "name": "Embalo",
+        "url": "https://open.spotify.com/album/624MHrTakiCB7vJ6hEFSnJ"
+      },
+      "artists": [
+        {
+          "name": "TIRI",
+          "url": "https://open.spotify.com/artist/2biikdsPdw63klSogoB5Ab"
+        }
+      ],
+      "duration_ms": 201231,
+      "name": "Embalo",
+      "url": "https://open.spotify.com/track/0v4oVq2rcPisPB7rVzl78c"
     },
     {
       "added_at": "2023-05-12 03:03:00",
@@ -475,22 +475,6 @@
     {
       "added_at": "2023-05-12 03:03:00",
       "album": {
-        "name": "bem vi",
-        "url": "https://open.spotify.com/album/7fMdliOcULUtShWJrBD25a"
-      },
-      "artists": [
-        {
-          "name": "bela",
-          "url": "https://open.spotify.com/artist/1xiD7F83C6p1qxL4tWohcD"
-        }
-      ],
-      "duration_ms": 197297,
-      "name": "bem vi",
-      "url": "https://open.spotify.com/track/3RqLIFBLb0UUSMc7QgA3a7"
-    },
-    {
-      "added_at": "2023-05-12 03:03:00",
-      "album": {
         "name": "Boca Aberta",
         "url": "https://open.spotify.com/album/52NxhWVfxwh7i9rw2FxRnl"
       },
@@ -503,6 +487,22 @@
       "duration_ms": 200086,
       "name": "Boca Aberta",
       "url": "https://open.spotify.com/track/3lJtDd3asBoOzNV8hxZ3aF"
+    },
+    {
+      "added_at": "2023-05-12 03:03:00",
+      "album": {
+        "name": "bem vi",
+        "url": "https://open.spotify.com/album/7fMdliOcULUtShWJrBD25a"
+      },
+      "artists": [
+        {
+          "name": "bela",
+          "url": "https://open.spotify.com/artist/1xiD7F83C6p1qxL4tWohcD"
+        }
+      ],
+      "duration_ms": 197297,
+      "name": "bem vi",
+      "url": "https://open.spotify.com/track/3RqLIFBLb0UUSMc7QgA3a7"
     },
     {
       "added_at": "2023-05-12 03:03:00",
@@ -671,22 +671,6 @@
     {
       "added_at": "2023-05-12 03:03:00",
       "album": {
-        "name": "PSEUDODRAMA",
-        "url": "https://open.spotify.com/album/6M2btYgSEXpV6a8YbqI6zJ"
-      },
-      "artists": [
-        {
-          "name": "Clara Tannure",
-          "url": "https://open.spotify.com/artist/50AlI8ZgZfb8SMTZ0c38mq"
-        }
-      ],
-      "duration_ms": 146605,
-      "name": "T\u00e1 Subindo",
-      "url": "https://open.spotify.com/track/4UUpgJ1TP5IvcYU6YYzJBF"
-    },
-    {
-      "added_at": "2023-05-12 03:03:00",
-      "album": {
         "name": "4 Da Tarde",
         "url": "https://open.spotify.com/album/3f8B8HAmQquLVXVkKuMms0"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 168293,
       "name": "4 Da Tarde",
       "url": "https://open.spotify.com/track/4qnnh8MopXJCqj8doN5dok"
+    },
+    {
+      "added_at": "2023-05-12 03:03:00",
+      "album": {
+        "name": "PSEUDODRAMA",
+        "url": "https://open.spotify.com/album/6M2btYgSEXpV6a8YbqI6zJ"
+      },
+      "artists": [
+        {
+          "name": "Clara Tannure",
+          "url": "https://open.spotify.com/artist/50AlI8ZgZfb8SMTZ0c38mq"
+        }
+      ],
+      "duration_ms": 146605,
+      "name": "T\u00e1 Subindo",
+      "url": "https://open.spotify.com/track/4UUpgJ1TP5IvcYU6YYzJBF"
     },
     {
       "added_at": "2023-05-12 03:03:00",
@@ -839,22 +839,6 @@
     {
       "added_at": "2023-05-12 03:03:00",
       "album": {
-        "name": "Esquece",
-        "url": "https://open.spotify.com/album/7cSnHyjD3lEQHe1EMpSCF1"
-      },
-      "artists": [
-        {
-          "name": "Jalma",
-          "url": "https://open.spotify.com/artist/13xRiayc0GcRZMvDCecC8L"
-        }
-      ],
-      "duration_ms": 178526,
-      "name": "Esquece",
-      "url": "https://open.spotify.com/track/1mKKizzYm8COly8ZD5kkrt"
-    },
-    {
-      "added_at": "2023-05-12 03:03:00",
-      "album": {
         "name": "Voc\u00ea Chegou na Hora Certa",
         "url": "https://open.spotify.com/album/2S6JVRCJQ4Jlg7kesk8cln"
       },
@@ -867,6 +851,22 @@
       "duration_ms": 148484,
       "name": "Voc\u00ea Chegou na Hora Certa",
       "url": "https://open.spotify.com/track/7DgVZXIT4FxG49oHTGNTen"
+    },
+    {
+      "added_at": "2023-05-12 03:03:00",
+      "album": {
+        "name": "Esquece",
+        "url": "https://open.spotify.com/album/7cSnHyjD3lEQHe1EMpSCF1"
+      },
+      "artists": [
+        {
+          "name": "Jalma",
+          "url": "https://open.spotify.com/artist/13xRiayc0GcRZMvDCecC8L"
+        }
+      ],
+      "duration_ms": 178526,
+      "name": "Esquece",
+      "url": "https://open.spotify.com/track/1mKKizzYm8COly8ZD5kkrt"
     },
     {
       "added_at": "2023-05-12 03:03:00",
@@ -935,22 +935,6 @@
     {
       "added_at": "2023-05-12 03:03:00",
       "album": {
-        "name": "vc \u00e9 uma bagun\u00e7a",
-        "url": "https://open.spotify.com/album/7pQtHqmm01cOHlXnTgC2iB"
-      },
-      "artists": [
-        {
-          "name": "SANTIN",
-          "url": "https://open.spotify.com/artist/477D9liHuINESjeGNCN1wF"
-        }
-      ],
-      "duration_ms": 171084,
-      "name": "vc \u00e9 uma bagun\u00e7a",
-      "url": "https://open.spotify.com/track/6vq3BfHL9mx9ksM12cJhq4"
-    },
-    {
-      "added_at": "2023-05-12 03:03:00",
-      "album": {
         "name": "Gali Gal\u00f3",
         "url": "https://open.spotify.com/album/2CUJ9wMHidLaX2UI2K3JQ9"
       },
@@ -967,18 +951,18 @@
     {
       "added_at": "2023-05-12 03:03:00",
       "album": {
-        "name": "Surrender!",
-        "url": "https://open.spotify.com/album/4w32hCuG5tp2euV26XZ91x"
+        "name": "vc \u00e9 uma bagun\u00e7a",
+        "url": "https://open.spotify.com/album/7pQtHqmm01cOHlXnTgC2iB"
       },
       "artists": [
         {
-          "name": "Bemti",
-          "url": "https://open.spotify.com/artist/2zDRCHwGklDTHrOeYeCeLW"
+          "name": "SANTIN",
+          "url": "https://open.spotify.com/artist/477D9liHuINESjeGNCN1wF"
         }
       ],
-      "duration_ms": 189030,
-      "name": "Surrender!",
-      "url": "https://open.spotify.com/track/0RamstMSwnshCF1rPuTFjQ"
+      "duration_ms": 171084,
+      "name": "vc \u00e9 uma bagun\u00e7a",
+      "url": "https://open.spotify.com/track/6vq3BfHL9mx9ksM12cJhq4"
     },
     {
       "added_at": "2023-05-12 03:03:00",
@@ -995,6 +979,22 @@
       "duration_ms": 239360,
       "name": "Ideia Errada",
       "url": "https://open.spotify.com/track/0Rhho7mWTiqJ0Yl4Qs0wNZ"
+    },
+    {
+      "added_at": "2023-05-12 03:03:00",
+      "album": {
+        "name": "Surrender!",
+        "url": "https://open.spotify.com/album/4w32hCuG5tp2euV26XZ91x"
+      },
+      "artists": [
+        {
+          "name": "Bemti",
+          "url": "https://open.spotify.com/artist/2zDRCHwGklDTHrOeYeCeLW"
+        }
+      ],
+      "duration_ms": 189030,
+      "name": "Surrender!",
+      "url": "https://open.spotify.com/track/0RamstMSwnshCF1rPuTFjQ"
     },
     {
       "added_at": "2023-05-12 03:03:00",
@@ -1051,18 +1051,18 @@
     {
       "added_at": "2023-05-12 03:03:00",
       "album": {
-        "name": "Me Liga",
-        "url": "https://open.spotify.com/album/1ZqRWkRBnhqLkZyqAd3WiM"
+        "name": "Esse Jogo",
+        "url": "https://open.spotify.com/album/37SKpaMjIQ218gvKu5LzPt"
       },
       "artists": [
         {
-          "name": "GAROU\u00c1",
-          "url": "https://open.spotify.com/artist/4Nr9nS7QaeP4BMCxM35aMN"
+          "name": "Thifany Kauany",
+          "url": "https://open.spotify.com/artist/7mvtn0JGTySq12EYXxyWuL"
         }
       ],
-      "duration_ms": 176398,
-      "name": "Me Liga",
-      "url": "https://open.spotify.com/track/2MqmSd72GK1oHKJeELAsAk"
+      "duration_ms": 144742,
+      "name": "Esse Jogo",
+      "url": "https://open.spotify.com/track/33c34e6kbE9MfiJVaqZpOI"
     },
     {
       "added_at": "2023-05-12 03:03:00",
@@ -1087,18 +1087,34 @@
     {
       "added_at": "2023-05-12 03:03:00",
       "album": {
-        "name": "Esse Jogo",
-        "url": "https://open.spotify.com/album/37SKpaMjIQ218gvKu5LzPt"
+        "name": "Me Liga",
+        "url": "https://open.spotify.com/album/1ZqRWkRBnhqLkZyqAd3WiM"
       },
       "artists": [
         {
-          "name": "Thifany Kauany",
-          "url": "https://open.spotify.com/artist/7mvtn0JGTySq12EYXxyWuL"
+          "name": "GAROU\u00c1",
+          "url": "https://open.spotify.com/artist/4Nr9nS7QaeP4BMCxM35aMN"
         }
       ],
-      "duration_ms": 144742,
-      "name": "Esse Jogo",
-      "url": "https://open.spotify.com/track/33c34e6kbE9MfiJVaqZpOI"
+      "duration_ms": 176398,
+      "name": "Me Liga",
+      "url": "https://open.spotify.com/track/2MqmSd72GK1oHKJeELAsAk"
+    },
+    {
+      "added_at": "2023-05-12 03:03:00",
+      "album": {
+        "name": "Jacquemus",
+        "url": "https://open.spotify.com/album/7pL7EHos5wHLJPChNacH45"
+      },
+      "artists": [
+        {
+          "name": "TOLENTINO",
+          "url": "https://open.spotify.com/artist/3PMuzPH1ybLdzHnZFumKLZ"
+        }
+      ],
+      "duration_ms": 153559,
+      "name": "Jacquemus",
+      "url": "https://open.spotify.com/track/3tWYqTOPHZjOdj2BBJjVR6"
     },
     {
       "added_at": "2023-05-12 03:03:00",
@@ -1119,22 +1135,6 @@
       "duration_ms": 162045,
       "name": "V\u00edcio Que C\u00ea Tem Em Mim",
       "url": "https://open.spotify.com/track/7uSJeb5UvlZlPD0eTPaz9a"
-    },
-    {
-      "added_at": "2023-05-12 03:03:00",
-      "album": {
-        "name": "Jacquemus",
-        "url": "https://open.spotify.com/album/7pL7EHos5wHLJPChNacH45"
-      },
-      "artists": [
-        {
-          "name": "TOLENTINO",
-          "url": "https://open.spotify.com/artist/3PMuzPH1ybLdzHnZFumKLZ"
-        }
-      ],
-      "duration_ms": 153559,
-      "name": "Jacquemus",
-      "url": "https://open.spotify.com/track/3tWYqTOPHZjOdj2BBJjVR6"
     },
     {
       "added_at": "2023-05-12 03:03:00",
@@ -1187,22 +1187,6 @@
     {
       "added_at": "2023-05-12 03:03:00",
       "album": {
-        "name": "Ilumina\u00e7\u00e3o",
-        "url": "https://open.spotify.com/album/0ylkFXM9W3rU9KdYKCcxhz"
-      },
-      "artists": [
-        {
-          "name": "Ramat\u00eds",
-          "url": "https://open.spotify.com/artist/7v956Fy6H2PndqEGwJFPy3"
-        }
-      ],
-      "duration_ms": 182812,
-      "name": "Ilumina\u00e7\u00e3o",
-      "url": "https://open.spotify.com/track/5sp58UU6H0Nt64JyW2AteE"
-    },
-    {
-      "added_at": "2023-05-12 03:03:00",
-      "album": {
         "name": "Ma\u00e7\u00e3 do Amor",
         "url": "https://open.spotify.com/album/2b1X7WinJHgCeLO8LihyIa"
       },
@@ -1219,6 +1203,22 @@
       "duration_ms": 275882,
       "name": "Se Eu Te Ver de Novo",
       "url": "https://open.spotify.com/track/0MehrXQw4CfMsyy3RPho7c"
+    },
+    {
+      "added_at": "2023-05-12 03:03:00",
+      "album": {
+        "name": "Ilumina\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/0ylkFXM9W3rU9KdYKCcxhz"
+      },
+      "artists": [
+        {
+          "name": "Ramat\u00eds",
+          "url": "https://open.spotify.com/artist/7v956Fy6H2PndqEGwJFPy3"
+        }
+      ],
+      "duration_ms": 182812,
+      "name": "Ilumina\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/5sp58UU6H0Nt64JyW2AteE"
     },
     {
       "added_at": "2023-05-12 03:03:00",

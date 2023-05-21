@@ -201,6 +201,36 @@
     },
     {
       "album": {
+        "name": "Long Live AKC",
+        "url": "https://open.spotify.com/album/7cmEo4ODsnKN24KXfsklNV"
+      },
+      "artists": [
+        {
+          "name": "AKC Misi",
+          "url": "https://open.spotify.com/artist/4pWRro00gdnq90CwBmSCtv"
+        },
+        {
+          "name": "Ekhoe",
+          "url": "https://open.spotify.com/artist/6lZA0phZLDcwn6k9ElfESM"
+        },
+        {
+          "name": "Grasa",
+          "url": "https://open.spotify.com/artist/7roOHVUjZASn8tsyBoyn7C"
+        },
+        {
+          "name": "2roo",
+          "url": "https://open.spotify.com/artist/6U2kBPAageXZDddMvPkygY"
+        }
+      ],
+      "date_added": "2023-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181117,
+      "name": "2023 04 12 \u00d3csa",
+      "url": "https://open.spotify.com/track/1KnwRYENsXbglFUiyCrgMo"
+    },
+    {
+      "album": {
         "name": "Still Sleep?",
         "url": "https://open.spotify.com/album/38nZLvJx8A9p4YYpTG5iFP"
       },
@@ -864,6 +894,32 @@
       "duration_ms": 72300,
       "name": "Amn\u00e9zia",
       "url": "https://open.spotify.com/track/5Iw5AQzzhLxbMYnbuPsNNn"
+    },
+    {
+      "album": {
+        "name": "ANGYAL",
+        "url": "https://open.spotify.com/album/55BQ99xY1uBAUQ3KVYzCiN"
+      },
+      "artists": [
+        {
+          "name": "Beatrick",
+          "url": "https://open.spotify.com/artist/55rifkob7SsDI6BMWqOV5m"
+        },
+        {
+          "name": "Co Lee",
+          "url": "https://open.spotify.com/artist/7AFCBet5F4Pocp1il3bxv0"
+        },
+        {
+          "name": "Miller David",
+          "url": "https://open.spotify.com/artist/5xtng3g0tqSa7rCATgm1Cu"
+        }
+      ],
+      "date_added": "2023-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172258,
+      "name": "ANGYAL",
+      "url": "https://open.spotify.com/track/0nKzWWRcRiPdgvhJCkHTj9"
     },
     {
       "album": {
@@ -2842,7 +2898,7 @@
       ],
       "date_added": "2022-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-21",
       "duration_ms": 150000,
       "name": "Csinibaba",
       "url": "https://open.spotify.com/track/33zWUivvsRkfnOYx4FUmPt"
@@ -5156,7 +5212,7 @@
       ],
       "date_added": "2023-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-21",
       "duration_ms": 168280,
       "name": "GOSSIP (feat. Tom Morello)",
       "url": "https://open.spotify.com/track/44Xyja7xYPlVC6v2CeweSi"
@@ -6994,7 +7050,7 @@
       ],
       "date_added": "2023-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-21",
       "duration_ms": 169361,
       "name": "Kamagra Gang",
       "url": "https://open.spotify.com/track/2RXUQI9ymvyPCmD2V5Hm44"
@@ -12281,6 +12337,24 @@
     },
     {
       "album": {
+        "name": "Say Yes To Heaven",
+        "url": "https://open.spotify.com/album/6jVg0POvGYH1Pt6lISl3ok"
+      },
+      "artists": [
+        {
+          "name": "Lana Del Rey",
+          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+        }
+      ],
+      "date_added": "2023-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209156,
+      "name": "Say Yes To Heaven",
+      "url": "https://open.spotify.com/track/6GGtHZgBycCgGBUhZo81xe"
+    },
+    {
+      "album": {
         "name": "Chit Chat",
         "url": "https://open.spotify.com/album/1xz1n7gyY02veDxH50SQHQ"
       },
@@ -14092,7 +14166,7 @@
       ],
       "date_added": "2023-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-21",
       "duration_ms": 191204,
       "name": "Toxic",
       "url": "https://open.spotify.com/track/1WMymP7Mj6GrI2VReJFSJD"
@@ -14244,7 +14318,7 @@
       ],
       "date_added": "2022-08-11",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-16",
+      "date_removed": null,
       "duration_ms": 210133,
       "name": "t\u00e9veszm\u00e9k",
       "url": "https://open.spotify.com/track/5T7eEaieasnflXh6iPLlrK"

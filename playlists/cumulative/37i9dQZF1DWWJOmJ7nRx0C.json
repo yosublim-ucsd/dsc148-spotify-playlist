@@ -2574,8 +2574,8 @@
           "url": "https://open.spotify.com/artist/1Lqdsv7Ff4GNq9PM3Yd0vi"
         },
         {
-          "name": "World Of Pleasure",
-          "url": "https://open.spotify.com/artist/7kcqk3e5BlCUw41fctDQax"
+          "name": "World of Pleasure",
+          "url": "https://open.spotify.com/artist/3SR0KKxXYspg7mJwSUsGBb"
         }
       ],
       "date_added": "2023-05-19",
@@ -6682,10 +6682,28 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-21",
       "duration_ms": 240082,
       "name": "It's Hell Down Here",
       "url": "https://open.spotify.com/track/0chASbpWKoTnrXDoPyNSyH"
+    },
+    {
+      "album": {
+        "name": "Not Without My Ghosts",
+        "url": "https://open.spotify.com/album/5IBhAOIYSATI3WY7DgeSl7"
+      },
+      "artists": [
+        {
+          "name": "The Amity Affliction",
+          "url": "https://open.spotify.com/artist/6kNKUYGn6VNGsRoXmyoDPK"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240082,
+      "name": "It's Hell Down Here",
+      "url": "https://open.spotify.com/track/3vxMfMNjD8k0ozmuVDu0Ai"
     },
     {
       "album": {

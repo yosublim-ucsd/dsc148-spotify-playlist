@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5k5FacKg0Ta.md) - [plain]
 
 > Valikoima tuoreita ja hieman vanhempiakin suomalaisia jazz\-helmiä.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,068 likes - 87 songs - 7 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,069 likes - 87 songs - 7 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -96,4 +96,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5k5FacKg0Ta.md) - [plain]
 | 86 | [Just Make It Fast](https://open.spotify.com/track/4xxgPpHKtihNz7yr4FutXd) | [Markus Holkko](https://open.spotify.com/artist/6l1wgkfbI4ICpgO0Spqmed) | [East Side Up!](https://open.spotify.com/album/1HQSyUWkSc5PrsCMnLMTDz) | 3:46 |
 | 87 | [Arcade](https://open.spotify.com/track/1uT3YSj2okGX3oYOiROe2z) | [Kalevi Hämäläinen Group](https://open.spotify.com/artist/4Kc8F50zSN0op8lEcKm6c2) | [Arcade](https://open.spotify.com/album/5viGCnQLCBvMYEdAaxkM54) | 6:28 |
 
-Snapshot ID: `MCw3MjhmZTE0YzgyYjA4YjNmMmMzN2I1NGNiNGFhYjAwMjkwYzA5NGQ5`
+Snapshot ID: `MCw2ZmNlYWM5OTQ3ZGYyMzJkNWMxYTdkOGI3ZGEwYWYzYTUyNmZlM2I2`

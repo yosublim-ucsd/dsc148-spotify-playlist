@@ -1,12 +1,12 @@
 {
   "description": "A selection of new, quality electro sounds from your favorite EDM acts! Cover: Ti\u00ebsto x Mathame",
-  "num_followers": 193504,
+  "num_followers": 193529,
   "original_name": "Electro Mix",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4NDQyNTYwMCwwMDAwMDAwMGFiNGMyZGY4OTFmZmRiNWE5M2ExZDQ2MWU3ZjUwYjNj",
+  "snapshot_id": "MCxmZDY3YzM5MTk0ODlhNDQ1MTcwZDk3YjYzODhhNDRkMjcxZmZiOWM5",
   "tracks": [
     {
       "added_at": "2023-05-18 16:00:00",
@@ -168,12 +168,12 @@
       },
       "artists": [
         {
-          "name": "BEAUZ",
-          "url": "https://open.spotify.com/artist/2Wzb0u138rgoZQTK3ytknT"
-        },
-        {
           "name": "Tony Junior",
           "url": "https://open.spotify.com/artist/17esEoE9uEHFKuzkar2UL0"
+        },
+        {
+          "name": "BEAUZ",
+          "url": "https://open.spotify.com/artist/2Wzb0u138rgoZQTK3ytknT"
         }
       ],
       "duration_ms": 165164,

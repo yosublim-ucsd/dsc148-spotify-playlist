@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVOLXBOylBUZ.md) - [plain]
 
 > Latinoamérica baila al ritmo de Kidd Voodoo y Young Cister.
 
-[Spotify](https://open.spotify.com/user/spotify) - 489,366 likes - 100 songs - 5 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 489,457 likes - 100 songs - 5 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,7 +89,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVOLXBOylBUZ.md) - [plain]
 | 79 | [Rara Vez](https://open.spotify.com/track/7MVIfkyzuUmQ716j8U7yGR) | [Taiu](https://open.spotify.com/artist/5szJHKg5xeUlQ9pTqzdpic), [Milo j](https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3) | [Rara Vez](https://open.spotify.com/album/26wRfIX4WqKLKHll9O3KnF) | 2:08 |
 | 80 | [Kitty](https://open.spotify.com/track/7dg1E1QLfNAXDNlKshOTUC) | [Kim Loaiza](https://open.spotify.com/artist/1QivQCLVipV61DiQiyV14A), [LIT killah](https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq) | [Kitty](https://open.spotify.com/album/7MTllNrunaSB1GTWkbt9ee) | 3:20 |
 | 81 | [Rumores](https://open.spotify.com/track/3OUkQJY3YQ00HwD5GPuk7A) | [Kenia OS](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG), [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW) | [Rumores](https://open.spotify.com/album/1NK0ocpcz8JpZfsdzNYJid) | 3:22 |
-| 82 | [Fantasmas](https://open.spotify.com/track/5oc0avV70I9FIJIRyIeRU4) | [Lee Eye](https://open.spotify.com/artist/1XQ6We9YHmRoIoD9rE9KBX), [SIMONA](https://open.spotify.com/artist/7H7hLNfP9MzG8mt2A3s7nT) | [Fantasmas](https://open.spotify.com/album/2QubXvxqMEnCtzhHFYChay) | 2:52 |
+| 82 | [FANTASMAS](https://open.spotify.com/track/5oc0avV70I9FIJIRyIeRU4) | [Lee Eye](https://open.spotify.com/artist/1XQ6We9YHmRoIoD9rE9KBX), [SIMONA](https://open.spotify.com/artist/7H7hLNfP9MzG8mt2A3s7nT) | [FANTASMAS](https://open.spotify.com/album/2QubXvxqMEnCtzhHFYChay) | 2:52 |
 | 83 | [Slow](https://open.spotify.com/track/5IWMe58cuEQrM71D3fsseN) | [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1) | [Slow](https://open.spotify.com/album/63Evq6spRulb51uVevqui3) | 2:15 |
 | 84 | [LE DOY 20 MIL](https://open.spotify.com/track/3zeyaQA8I4XJUJcpKUvlRq) | [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm), [Prince Royce](https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC) | [LE DOY 20 MIL](https://open.spotify.com/album/6rTbTTJf2Dv2oLy7fKtD9y) | 3:02 |
 | 85 | [Vengo De La Brea](https://open.spotify.com/track/6ECKufSE72CsQUb3PRNYmq) | [Lucky Brown](https://open.spotify.com/artist/11HepfI1lj6KJHj651rZhM), [Jere Klein](https://open.spotify.com/artist/35oGZihZclGoTVuICPXRP9) | [Vengo De La Brea](https://open.spotify.com/album/4yjqw4nUPFJt0BGSfiyJvO) | 2:30 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVOLXBOylBUZ.md) - [plain]
 | 99 | [Nena](https://open.spotify.com/track/1n7VtU8L0owUJRz0ppvETo) | [Aura BAE](https://open.spotify.com/artist/7jIywNxfjSZ2Dxm6OOzQPF), [EKKI](https://open.spotify.com/artist/4lHI9smP4kDm7gz1exU7G5) | [Nena](https://open.spotify.com/album/5Ymw3x5pQric87TAWRTnva) | 3:21 |
 | 100 | [Rayos, Besos, Fallos](https://open.spotify.com/track/0FrXpDbnUJlRBQBgAZtwpG) | [Irepelusa](https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw) | [Rayos, Besos, Fallos](https://open.spotify.com/album/3WKuSgBB4A9w3HRO8Ct3tU) | 2:33 |
 
-Snapshot ID: `MTY4NDQ3MjQ2MCwwMDAwMDAwMGQ2YTRiZmJhOTVjYzE1N2Q5ZGY0YWY2ZjEwN2M1ZTM0`
+Snapshot ID: `MCw1OGUzZTE0MDljMjkxYjdkNTEwYmYxNGYyNjgxODRkNzViZGI2ZDU3`

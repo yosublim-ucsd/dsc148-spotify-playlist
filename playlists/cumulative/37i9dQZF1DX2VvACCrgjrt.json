@@ -548,7 +548,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-21",
       "duration_ms": 208000,
       "name": "Badder",
       "url": "https://open.spotify.com/track/4ZrPmCZRTkZSWYeH3KD7Uh"
@@ -2120,7 +2120,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-21",
       "duration_ms": 204759,
       "name": "DBL Park",
       "url": "https://open.spotify.com/track/0V5bYmG3gwmt6zPCg3GcM5"
@@ -7203,6 +7203,24 @@
     },
     {
       "album": {
+        "name": "RUSH",
+        "url": "https://open.spotify.com/album/7EINEJTzq3iW9Xny1Kd2h4"
+      },
+      "artists": [
+        {
+          "name": "Curbi",
+          "url": "https://open.spotify.com/artist/2XiiUuK68XNdHaHOAF5hnT"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163369,
+      "name": "RUSH",
+      "url": "https://open.spotify.com/track/4BIpVhPALiMEUpSdmIitol"
+    },
+    {
+      "album": {
         "name": "Rush",
         "url": "https://open.spotify.com/album/2eZsDmAcZj27p3B73kbcYp"
       },
@@ -7960,6 +7978,24 @@
       "duration_ms": 240000,
       "name": "Surdose",
       "url": "https://open.spotify.com/track/117bHhXQMRhZPpAQ9JF7PY"
+    },
+    {
+      "album": {
+        "name": "SYMPHONY",
+        "url": "https://open.spotify.com/album/0Llq9KaiTVbpljjRE4Eb1B"
+      },
+      "artists": [
+        {
+          "name": "Matt Hawk",
+          "url": "https://open.spotify.com/artist/0lGQjr3FTxAwGLlpce0jMg"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149706,
+      "name": "SYMPHONY",
+      "url": "https://open.spotify.com/track/3cPfCJLdadQ3u0T4DOTsnp"
     },
     {
       "album": {

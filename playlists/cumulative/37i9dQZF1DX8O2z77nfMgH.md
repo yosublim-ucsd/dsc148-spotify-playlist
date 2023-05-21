@@ -4,7 +4,7 @@
 
 > Música nueva de toda la región\. Esta semana en portada: Bad Bunny
 
-4,461 songs - 10 day 1 hr 18 min
+4,462 songs - 10 day 1 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -4262,7 +4262,8 @@
 | [Vienen Y Van](https://open.spotify.com/track/5oWh8d5vckVbBuO7Udcgo8) | [Kaia Lana](https://open.spotify.com/artist/2w1kIJBDjYnpHHVLiTn3FJ) | [Vienen Y Van](https://open.spotify.com/album/4mItIB7t3BKjoSUXx9odyS) | 3:01 | 2022-06-03 | 2022-06-11 |
 | [Vienes o Voy](https://open.spotify.com/track/6MocrPHRgxQ1cDs51rfXGf) | [Luisa Fernanda W](https://open.spotify.com/artist/3iKdkIEoOGT55KE72tSOgU), [Pipe Bueno](https://open.spotify.com/artist/4RXxwBtdt6k1YNyyAyiOng) | [Vienes o Voy](https://open.spotify.com/album/2t1uqXDZcezSbZNyOt3J63) | 3:08 | 2022-02-18 | 2022-02-26 |
 | [Viernes](https://open.spotify.com/track/1qZ9xDBnQ8vORJoN7kGv1f) | [Armenia](https://open.spotify.com/artist/4FmrAtWfKHAIysakSpmatx) | [Viernes](https://open.spotify.com/album/4aAnbqUTQj3anbIkY8cbqe) | 3:16 | 2022-10-14 | 2022-10-22 |
-| [Vikingos](https://open.spotify.com/track/5xsB0fAhMLOjutwlPNsQls) | [Migrantes](https://open.spotify.com/artist/48R2gYdPKtfnfKAzhSVPUx), [La Joaqui](https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM) | [Vikingos](https://open.spotify.com/album/1yM8N3pWYI7LjWEvGbBkcQ) | 2:46 | 2023-05-19 |  |
+| [Vikingos](https://open.spotify.com/track/5xsB0fAhMLOjutwlPNsQls) | [Migrantes](https://open.spotify.com/artist/48R2gYdPKtfnfKAzhSVPUx), [La Joaqui](https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM) | [Vikingos](https://open.spotify.com/album/1yM8N3pWYI7LjWEvGbBkcQ) | 2:46 | 2023-05-19 | 2023-05-21 |
+| [Vikingos](https://open.spotify.com/track/6t82eltBDEw70ePnk5GGe4) | [Migrantes](https://open.spotify.com/artist/48R2gYdPKtfnfKAzhSVPUx), [La Joaqui](https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM), [Nico Valdi](https://open.spotify.com/artist/0uxYECT7XqHNccQAg5Uhe4) | [Vikingos](https://open.spotify.com/album/50fDCiIhdGoiJLSYXdLbt9) | 2:46 | 2023-05-19 |  |
 | [Villana](https://open.spotify.com/track/5axifdp2gauTPuqyEsmSBV) | [Ivy Queen](https://open.spotify.com/artist/6p2442ymrT9lZEuCZJdYcH) | [Villana](https://open.spotify.com/album/70fWf5r76nO4WZrtnlm5Op) | 3:46 | 2022-09-09 | 2022-09-17 |
 | [VILLANO](https://open.spotify.com/track/5Yoi4uDMs3HzVHUDjnLWyD) | [Julianno Sosa](https://open.spotify.com/artist/4IC2X34tZmHG3VfTbpzvwL) | [VILLANO](https://open.spotify.com/album/4GjRIvEBfya2EjG1OhKF4M) | 2:43 | 2022-07-22 | 2022-07-30 |
 | [Villano Antillano: Bzrp Music Sessions, Vol\. 51](https://open.spotify.com/track/4hceSKjrkDTO0nMKFcb3sj) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Villano Antillano](https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq) | [Villano Antillano: Bzrp Music Sessions, Vol\. 51](https://open.spotify.com/album/1tjIQcE1WoeRfI7t5QFRgR) | 3:07 | 2022-06-10 | 2022-06-18 |

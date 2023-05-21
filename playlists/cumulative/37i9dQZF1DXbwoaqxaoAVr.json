@@ -5,6 +5,24 @@
   "tracks": [
     {
       "album": {
+        "name": "A Little Bit More",
+        "url": "https://open.spotify.com/album/2mG6jpLEZKR0awrVeZNflg"
+      },
+      "artists": [
+        {
+          "name": "Tomorrow People",
+          "url": "https://open.spotify.com/artist/06pkUJtvwH93XlSdc0RAOY"
+        }
+      ],
+      "date_added": "2023-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214349,
+      "name": "A Little Bit More",
+      "url": "https://open.spotify.com/track/00eJYYLj3L2Mr2Nl1a9J02"
+    },
+    {
+      "album": {
         "name": "All Day",
         "url": "https://open.spotify.com/album/1XBuh0Xy5nHzwb7jOyUAhP"
       },
@@ -158,7 +176,7 @@
       ],
       "date_added": "2021-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-21",
       "duration_ms": 303226,
       "name": "Baltimore",
       "url": "https://open.spotify.com/track/4OXVBbmqS1YoLTHrYYimuw"
@@ -234,6 +252,24 @@
       "duration_ms": 245975,
       "name": "Beautiful Things (Remix)",
       "url": "https://open.spotify.com/track/1OhaZufeyAo6bve6Dm8hWR"
+    },
+    {
+      "album": {
+        "name": "Flower Tattoos",
+        "url": "https://open.spotify.com/album/3hRSarAnkIfFBobtATegjN"
+      },
+      "artists": [
+        {
+          "name": "Natty Bong",
+          "url": "https://open.spotify.com/artist/212Jq222D4QnciSA0uWrVN"
+        }
+      ],
+      "date_added": "2023-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250018,
+      "name": "Blue Jeans - Album Mix",
+      "url": "https://open.spotify.com/track/0JUJEu66hmWMJsDDAP3IWk"
     },
     {
       "album": {
@@ -949,6 +985,28 @@
     },
     {
       "album": {
+        "name": "Home",
+        "url": "https://open.spotify.com/album/3kXqsiQpmluUqsNPazoYs2"
+      },
+      "artists": [
+        {
+          "name": "Kaipo Kapua",
+          "url": "https://open.spotify.com/artist/0Mxu4J0tRMKXoiG2ijjHWQ"
+        },
+        {
+          "name": "Fiji",
+          "url": "https://open.spotify.com/artist/0DAaoRtoM8z0DHIhIzP4mJ"
+        }
+      ],
+      "date_added": "2023-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213769,
+      "name": "Home",
+      "url": "https://open.spotify.com/track/32B1bOMkjY9dnMVlcmpWdv"
+    },
+    {
+      "album": {
         "name": "I Owe You (Cadenza Remix)",
         "url": "https://open.spotify.com/album/7GfYG8qu32zRRxmcvPZdky"
       },
@@ -1078,6 +1136,24 @@
       "duration_ms": 193352,
       "name": "In Another Life",
       "url": "https://open.spotify.com/track/24tzZeY1hzccRdH4twuwXM"
+    },
+    {
+      "album": {
+        "name": "In Your Eyes",
+        "url": "https://open.spotify.com/album/2XuTbyPwVgQrs11h6eGgQp"
+      },
+      "artists": [
+        {
+          "name": "Johnny Osbourne",
+          "url": "https://open.spotify.com/artist/5TUTGRG0FlRoYTZ4GEdOVO"
+        }
+      ],
+      "date_added": "2023-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 326746,
+      "name": "In Your Eyes",
+      "url": "https://open.spotify.com/track/1VjmjyzdWke5qVNH5kxX8W"
     },
     {
       "album": {
@@ -1490,7 +1566,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-21",
       "duration_ms": 231675,
       "name": "Long Way Home (with Iyaz)",
       "url": "https://open.spotify.com/track/1aZneCRRKdfNutBcFqROnI"
@@ -1688,6 +1764,24 @@
       "duration_ms": 335773,
       "name": "Make Love",
       "url": "https://open.spotify.com/track/0FQJrnW7nH6P2LJsPk4aqX"
+    },
+    {
+      "album": {
+        "name": "Maneater (Reggae Version)",
+        "url": "https://open.spotify.com/album/2yOQTfcph2iV1BLTPhnj51"
+      },
+      "artists": [
+        {
+          "name": "John Oates",
+          "url": "https://open.spotify.com/artist/4TjR4K8rD5CqqqU59V6aGr"
+        }
+      ],
+      "date_added": "2023-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 323669,
+      "name": "Maneater - Reggae Version",
+      "url": "https://open.spotify.com/track/1OiqnA0P1YOuiNPHPYhq6V"
     },
     {
       "album": {
@@ -2186,6 +2280,24 @@
       "duration_ms": 258226,
       "name": "Roots Rock Reggae",
       "url": "https://open.spotify.com/track/5DCEMewxezepGsTKEmLrFp"
+    },
+    {
+      "album": {
+        "name": "Human Algebra",
+        "url": "https://open.spotify.com/album/7jAs9S9Yt1RCjWhSzrFwMM"
+      },
+      "artists": [
+        {
+          "name": "The Selecter",
+          "url": "https://open.spotify.com/artist/3wRksusBxJ6npu0PryYheF"
+        }
+      ],
+      "date_added": "2023-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223453,
+      "name": "Scandalous",
+      "url": "https://open.spotify.com/track/64mnLoJjo09QpqwlKlXxx5"
     },
     {
       "album": {
@@ -2714,6 +2826,28 @@
       "duration_ms": 168949,
       "name": "Unforgettable",
       "url": "https://open.spotify.com/track/1Al62CTbZeI6uLLvam4sFN"
+    },
+    {
+      "album": {
+        "name": "Waiting In Vain (Feat. Tiwa Savage)",
+        "url": "https://open.spotify.com/album/2RZvYVj0L48e6eBXFrL1LN"
+      },
+      "artists": [
+        {
+          "name": "Bob Marley & The Wailers",
+          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
+        },
+        {
+          "name": "Tiwa Savage",
+          "url": "https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc"
+        }
+      ],
+      "date_added": "2023-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243450,
+      "name": "Waiting In Vain (Feat. Tiwa Savage)",
+      "url": "https://open.spotify.com/track/47LoDRonq5IUeh7YFOq3zg"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1YPTAhwehsC.md) - [plain]
 
 > Up and down I\-95\. Cover: Ice Spice
 
-[Spotify](https://open.spotify.com/user/spotify) - 444,094 likes - 100 songs - 4 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 444,219 likes - 100 songs - 4 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,7 +70,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1YPTAhwehsC.md) - [plain]
 | 60 | [don't play with my money \(feat\. Tobe Nwigwe\)](https://open.spotify.com/track/35keKCE6mIlRsBm7Y6Cmer) | [KAMAUU](https://open.spotify.com/artist/3IAQ6JspwRCPY06WXnaguc), [Tobe Nwigwe](https://open.spotify.com/artist/3Qh89pgJeZq6d8uM1bTot3) | [LACUNA in The House Of Mirrors](https://open.spotify.com/album/4IyPe1mOrGKzLY43M59xrn) | 2:59 |
 | 61 | [Just Wanna Rock](https://open.spotify.com/track/4FyesJzVpA39hbYvcseO2d) | [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [Just Wanna Rock](https://open.spotify.com/album/2FD6g8bXEn2uQMYbeqqoCg) | 2:03 |
 | 62 | [JAGGED EDGE](https://open.spotify.com/track/7vPwL4WkrqMCC3XbummsMo) | [Joony](https://open.spotify.com/artist/0gY0jm6QAzJCAslmZC3T35) | [SHITUMSS](https://open.spotify.com/album/2ZGsgclVau99YKe4WdtR67) | 2:15 |
-| 63 | [Don't Text Don't Call](https://open.spotify.com/track/4hFftR3EiLvMvh8hvS6nKn) | [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [Don't Text Don't Call](https://open.spotify.com/album/1rAWTywOSeej6kpubeqIY7) | 3:55 |
+| 63 | [Don't Text Don't Call \(feat\. Snoop Dogg\)](https://open.spotify.com/track/1JBLJThaI8h99wgfeH6qQL) | [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [Don't Text Don't Call \(feat\. Snoop Dogg\)](https://open.spotify.com/album/6j8bA1BklsGI0sxhrq3Q2Y) | 3:55 |
 | 64 | [Runaway \(feat\. Nas\)](https://open.spotify.com/track/2DiX9oeghV7lv1mxnRnO6L) | [Swizz Beatz](https://open.spotify.com/artist/2cADQgiLMjNhbsfeN52Bf3), [Nas](https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q) | [Hip Hop 50: Vol\. 2](https://open.spotify.com/album/2fMYrpzJCtJNhVTBQybhoz) | 3:00 |
 | 65 | [No Pressure \(feat\. Fivio Foreign & Rah Swish\)](https://open.spotify.com/track/7s0L5WRejHWYBE03EMDQyn) | [Rowdy Rebel](https://open.spotify.com/artist/6LXRvV2OAtXF7685fzh3mj), [Fetty Luciano](https://open.spotify.com/artist/6Zric3RvzGMM9wRZMNTUFF), [Fivio Foreign](https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM), [Rah Swish](https://open.spotify.com/artist/4FeLiFUPdxVfFo8oOfA4BH) | [Splash Brothers](https://open.spotify.com/album/6z7bXzVtYKDzHNeKILSyi8) | 3:06 |
 | 66 | [Don't Vibe And Tell](https://open.spotify.com/track/0FUyWvKSofJRmkTWvwzf5b) | [Red Cafe](https://open.spotify.com/artist/4BWn7qje7L2bGp79bupn3B), [Capella Grey](https://open.spotify.com/artist/59HbaJ5E8ud7FNLGqUN1KH), [Fabolous](https://open.spotify.com/artist/0YWxKQj2Go9CGHCp77UOyy) | [Don't Vibe And Tell](https://open.spotify.com/album/2YaGost3VtdfgYlTXAyg4v) | 2:26 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1YPTAhwehsC.md) - [plain]
 | 99 | [jersey luv](https://open.spotify.com/track/2Z2MAil7tpZhHOB2noIJUd) | [GROOVY](https://open.spotify.com/artist/6Y6qIKwe32BxNflpxbKsJc), [B Jack$](https://open.spotify.com/artist/2bnV4zuMP2tBXzsGbPmkuo) | [jersey luv](https://open.spotify.com/album/0d6POIYXleUr4Wrh0oRk8U) | 3:51 |
 | 100 | [Two in One](https://open.spotify.com/track/3EHQxxp6ronM53JLvD0PVO) | [Desiigner](https://open.spotify.com/artist/7pFeBzX627ff0VnN6bxPR4) | [Two in One](https://open.spotify.com/album/1Ynyn03pZHQoDcHkL0lUv0) | 2:25 |
 
-Snapshot ID: `MCw4NjUwZGU3MzE1ZjdmNDA5MDcyODM1ZWU0MmIxYzM3MzEzMDY1NmNh`
+Snapshot ID: `MCxiOTBkZjlmMjYyZmE0MzBkY2VmNzFmZjAyMjJhMTUwNjY0OGZmNjUz`

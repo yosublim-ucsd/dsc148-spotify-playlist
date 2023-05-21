@@ -1367,6 +1367,24 @@
     },
     {
       "album": {
+        "name": "Baddies & Draris",
+        "url": "https://open.spotify.com/album/29ExeT8qqQJwiHv7R7Qhvw"
+      },
+      "artists": [
+        {
+          "name": "Lamin",
+          "url": "https://open.spotify.com/artist/4ZwOlDVAGXQo66ykbLQ8dP"
+        }
+      ],
+      "date_added": "2023-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146949,
+      "name": "Baddies & Draris",
+      "url": "https://open.spotify.com/track/4oy5g8o1arUDfFX1jTsGna"
+    },
+    {
+      "album": {
         "name": "Kronisk Skeptisk",
         "url": "https://open.spotify.com/album/16KVHmbWyMK7mkh53btVe2"
       },
@@ -8279,6 +8297,32 @@
     },
     {
       "album": {
+        "name": "Ny Art",
+        "url": "https://open.spotify.com/album/6Wk9GkksYDxUvEgt8jRh1Z"
+      },
+      "artists": [
+        {
+          "name": "Baloosh",
+          "url": "https://open.spotify.com/artist/5IpqfN8Pqjy89nj1IfuOXC"
+        },
+        {
+          "name": "PAY",
+          "url": "https://open.spotify.com/artist/3WreFZLJqFGK3VJbxYewaU"
+        },
+        {
+          "name": "Xabski",
+          "url": "https://open.spotify.com/artist/4gf1mGm7j8ELBFpR5CF1YF"
+        }
+      ],
+      "date_added": "2023-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189431,
+      "name": "Helwa (feat. PAY & Xabski)",
+      "url": "https://open.spotify.com/track/3jdWYmiOaDfs7urzqN0sSk"
+    },
+    {
+      "album": {
         "name": "Helwa (feat. PAY & Xabski)",
         "url": "https://open.spotify.com/album/7szeDKDBfQS1QxyYniyqDO"
       },
@@ -8298,7 +8342,7 @@
       ],
       "date_added": "2023-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-21",
       "duration_ms": 189431,
       "name": "Helwa (feat. PAY & Xabski)",
       "url": "https://open.spotify.com/track/76noXxTd4j5EqWLmcss5GW"
@@ -9848,7 +9892,7 @@
       ],
       "date_added": "2022-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-21",
       "duration_ms": 175238,
       "name": "I'm Good (Blue)",
       "url": "https://open.spotify.com/track/4uUG5RXrOk84mYEfFvj3cK"
@@ -10272,7 +10316,7 @@
       ],
       "date_added": "2023-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-21",
       "duration_ms": 78193,
       "name": "Interlude",
       "url": "https://open.spotify.com/track/7HNJjx0odqrEZ2m4qSVSw0"
@@ -14031,6 +14075,28 @@
     },
     {
       "album": {
+        "name": "MOULAGA",
+        "url": "https://open.spotify.com/album/16WOsN6JTgg1QV4VwrdlXm"
+      },
+      "artists": [
+        {
+          "name": "Branco",
+          "url": "https://open.spotify.com/artist/1YwMnnHvnG64fJxYSVwmN6"
+        },
+        {
+          "name": "NODE",
+          "url": "https://open.spotify.com/artist/03WNJB1zKyqW8DimkHP4Bg"
+        }
+      ],
+      "date_added": "2023-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135317,
+      "name": "MOULAGA",
+      "url": "https://open.spotify.com/track/5MzZ0U4Zihj9iAR9c7uUyy"
+    },
+    {
+      "album": {
         "name": "Bedre Sent End Aldrig",
         "url": "https://open.spotify.com/album/5ltSOF7fD6ujjdKb3w9QsM"
       },
@@ -16130,7 +16196,7 @@
       ],
       "date_added": "2023-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-21",
       "duration_ms": 147979,
       "name": "Queen of Kings",
       "url": "https://open.spotify.com/track/14LdhxElpZS0rKVV4nxtdA"
@@ -16710,6 +16776,24 @@
       "duration_ms": 169983,
       "name": "Run Away",
       "url": "https://open.spotify.com/track/2SWp6DtNlUdpyQ7OCvH6ZK"
+    },
+    {
+      "album": {
+        "name": "Rune Rask Er For Syg",
+        "url": "https://open.spotify.com/album/7pfv36x1xUbNsSxJRaIDLa"
+      },
+      "artists": [
+        {
+          "name": "Suspekt",
+          "url": "https://open.spotify.com/artist/74HomvqoUecDcUPRespyqg"
+        }
+      ],
+      "date_added": "2023-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168187,
+      "name": "Rune Rask Er For Syg",
+      "url": "https://open.spotify.com/track/28oYAPHdzOg1s7BsvQwLyp"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Strictly for the streets\. Cover: Moneybagg Yo
 
-856 songs - 1 day 15 hr 47 min
+857 songs - 1 day 15 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -709,7 +709,8 @@
 | [Southside](https://open.spotify.com/track/4BUMcEpRWknEDimircdT7G) | [BigKayBeezy](https://open.spotify.com/artist/4wpwsRGyik5kVa8fG37Q50) | [Southside](https://open.spotify.com/album/47q4TmKYULr0NfKmb1tdYD) | 3:00 | 2022-04-29 | 2022-07-09 |
 | [Specialty](https://open.spotify.com/track/6wVm22yQR2vux6aLz4MLp4) | [Billacheck](https://open.spotify.com/artist/4UfNNfhp5pt4iQcF4TMKMH) | [Specialty](https://open.spotify.com/album/3IV5khV7VfuX3DCnIMF8ZQ) | 1:52 | 2022-12-30 | 2023-04-01 |
 | [Spin](https://open.spotify.com/track/3yQYdykxrbBvNLZe2j9SGm) | [Taleban Dooda](https://open.spotify.com/artist/7aCA2LCzNmtAua4JrMvDb0) | [Spin](https://open.spotify.com/album/3piLGbmbR9tgpX7va0IBWB) | 2:51 | 2022-02-25 | 2022-04-29 |
-| [Spinnin' \(feat\. EST Gee\)](https://open.spotify.com/track/1jBSRWaJIQ0AaF0UQ91IbG) | [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7), [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [Spinnin' \(feat\. EST Gee / FAST X Soundtrack\)](https://open.spotify.com/album/5YjvUivNXjwSZFFKa4ffbb) | 2:47 | 2023-05-19 |  |
+| [Spinnin' \(feat\. EST Gee\)](https://open.spotify.com/track/15rAPSEAcdP4wE8jBkicV6) | [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7), [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [FAST X \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4jgT0TBoRBPW2bSNXbjN0s) | 2:47 | 2023-05-19 |  |
+| [Spinnin' \(feat\. EST Gee\)](https://open.spotify.com/track/1jBSRWaJIQ0AaF0UQ91IbG) | [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7), [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [Spinnin' \(feat\. EST Gee / FAST X Soundtrack\)](https://open.spotify.com/album/5YjvUivNXjwSZFFKa4ffbb) | 2:47 | 2023-05-19 | 2023-05-21 |
 | [Splash](https://open.spotify.com/track/1u5EEx3hBQjkzzCOnDEds5) | [Bobby Shmurda](https://open.spotify.com/artist/34Y0ldeyUv7jBvukWOGASO) | [Splash](https://open.spotify.com/album/72ETD7obHdM2Yjr4dFPZf0) | 1:58 | 2021-11-05 | 2022-02-05 |
 | [SRT \(feat\. OTB Fastlane\)](https://open.spotify.com/track/4goyaIOHI67Nod52RsPt90) | [Guapo](https://open.spotify.com/artist/1KWQVpABJxgYvLY5pNNZV6), [OTB Fastlane](https://open.spotify.com/artist/130sangK9RkAwRToKn9GHj) | [SRT \(feat\. OTB Fastlane\)](https://open.spotify.com/album/1or6SskWw7SII7QoladS34) | 2:30 | 2022-04-15 | 2022-04-29 |
 | [Stand Off \(feat\. DaBaby\)](https://open.spotify.com/track/1ca58x4jLrv0YjmZRPXhrD) | [Stunna 4 Vegas](https://open.spotify.com/artist/44IvvHRk2XF243QLA2VOa8), [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) | [Rae Rae's Son](https://open.spotify.com/album/672JXSwE07jhPbJvfdSb3n) | 1:58 | 2022-06-24 | 2022-10-08 |

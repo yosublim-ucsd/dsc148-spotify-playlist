@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX20N6YlBoCpF.md) - [plain]
 
 > Net die nuutste in Afrikaanse musiek\. Cover: <a href="https://open.spotify.com/artist/4UCQCvz4wTboXTeYxfyvhR?si=15ZKEepeQBaNnbH2QuRv4g">Marno van der Merwe</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,259 likes - 50 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,289 likes - 50 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX20N6YlBoCpF.md) - [plain]
 | 49 | [Braaf Soos 'n Boerboel](https://open.spotify.com/track/2ySJvbJGrQ7uhllRVxW3Gb) | [JAN JAN JAN](https://open.spotify.com/artist/0cba0v5VJqpuD1YSBoNirZ) | [Braaf Soos 'n Boerboel](https://open.spotify.com/album/02mJIfPUPEHgkOJCshmvvC) | 3:12 |
 | 50 | [Nora Vlok](https://open.spotify.com/track/6TVcrV4TEhQiuKjU5Tactz) | [Die Heuwels Fantasties](https://open.spotify.com/artist/0FrkoXLOCHCWfMXw10Apxb), [Appel](https://open.spotify.com/artist/69q4xfNrz04VhJdTQHGUjd) | [Nora Vlok](https://open.spotify.com/album/28mbGMQoZuM1kwHrKpgLfs) | 3:07 |
 
-Snapshot ID: `MCxjODU4NjVlYWYyZGFmODM0MmFlYTkxYTI2ZjI3ZDlkZDVhZGU0MDg3`
+Snapshot ID: `MCwxM2M5MWRkNmRiMTQ3M2RiZjI4MmI0ZDRiM2YwMWIwYmI3NDI2ZTU3`

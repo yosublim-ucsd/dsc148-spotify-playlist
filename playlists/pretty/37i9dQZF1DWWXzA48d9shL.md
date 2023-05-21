@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWXzA48d9shL.md) - [plain]
 
 > The home of dark trap\. Rap from hell\. Cover: $uicideboy$
 
-[Spotify](https://open.spotify.com/user/spotify) - 474,010 likes - 100 songs - 3 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 474,658 likes - 100 songs - 3 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWXzA48d9shL.md) - [plain]
 | 99 | [RECOIL](https://open.spotify.com/track/6PVRZYZ3DC3Xs1AgLiBx2i) | [Lord Gasp](https://open.spotify.com/artist/26fmgj9vUob3WnTDojZxBw) | [RECOIL](https://open.spotify.com/album/1m7MbGbbFDxDD2N73mlpjP) | 1:50 |
 | 100 | [KILLERS AND ROBBERS \(feat\. Denzel Curry, midwxst & Matt Ox\)](https://open.spotify.com/track/2XXFajkaWMZ2ukPNPKgLWa) | [Jasiah](https://open.spotify.com/artist/7502fDxg339jvGV08Jd4R0), [midwxst](https://open.spotify.com/artist/7CGSp2GbiOpLPSq61qjxf8), [Matt OX](https://open.spotify.com/artist/2J6pigOrBmKQgqJUY5UM7r), [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV) | [KILLERS AND ROBBERS \(feat\. Denzel Curry, midwxst & Matt Ox\)](https://open.spotify.com/album/7lmOXBynobuVCEBgVwPEOC) | 3:19 |
 
-Snapshot ID: `MCxmMTUzNGQwMTFiOGM0NjMwYTgzM2Q3MzdjZmVlM2QxZWZmYmNkMTA3`
+Snapshot ID: `MCxlNDhjYjQ0OTdiN2IzMjMzYzk2NDJlNDZmMDE2ODc5OTMxYWI3Yjdm`

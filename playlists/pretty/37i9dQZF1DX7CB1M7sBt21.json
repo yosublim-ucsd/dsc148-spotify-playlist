@@ -1,12 +1,12 @@
 {
   "description": "Ingenting peppar en under ett tr\u00e4ningspass som riktigt bra musik.",
-  "num_followers": 2212,
+  "num_followers": 2232,
   "original_name": "Peppl\u00e5tar till tr\u00e4ningspasset",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyYTcxMmI1ZjdhY2Y4M2U3ZDZlMzdiYzI1OWQwOTA0ODY4Mjg3ZDVi",
+  "snapshot_id": "MCxhNDNkYzUyZTA2ZDFiYjY4ZTI5MTM1Yzg4NTFiZjM0NDgzYTZkM2Zm",
   "tracks": [
     {
       "added_at": "2023-02-23 23:00:00",
@@ -1003,6 +1003,22 @@
     {
       "added_at": "2023-02-23 23:00:00",
       "album": {
+        "name": "Fiender \u00e4r tr\u00e5kigt",
+        "url": "https://open.spotify.com/album/5IpwTXB95XBp7YVUESyhVi"
+      },
+      "artists": [
+        {
+          "name": "Veronica Maggio",
+          "url": "https://open.spotify.com/artist/2OIWxN9xUhgUHkeUCWCaNs"
+        }
+      ],
+      "duration_ms": 227600,
+      "name": "Tillf\u00e4lligheter",
+      "url": "https://open.spotify.com/track/0rBj6lYQUMHwTJ33sdj6Qz"
+    },
+    {
+      "added_at": "2023-02-23 23:00:00",
+      "album": {
         "name": "Bones (feat. OneRepublic)",
         "url": "https://open.spotify.com/album/49vus1VCWc7AbgDmKYb8SC"
       },
@@ -1019,22 +1035,6 @@
       "duration_ms": 205792,
       "name": "Bones (feat. OneRepublic)",
       "url": "https://open.spotify.com/track/1pfgsjmxVZhoZpeDx6POKv"
-    },
-    {
-      "added_at": "2023-02-23 23:00:00",
-      "album": {
-        "name": "Fiender \u00e4r tr\u00e5kigt",
-        "url": "https://open.spotify.com/album/5IpwTXB95XBp7YVUESyhVi"
-      },
-      "artists": [
-        {
-          "name": "Veronica Maggio",
-          "url": "https://open.spotify.com/artist/2OIWxN9xUhgUHkeUCWCaNs"
-        }
-      ],
-      "duration_ms": 227600,
-      "name": "Tillf\u00e4lligheter",
-      "url": "https://open.spotify.com/track/0rBj6lYQUMHwTJ33sdj6Qz"
     },
     {
       "added_at": "2023-02-23 23:00:00",
@@ -1575,6 +1575,26 @@
     {
       "added_at": "2023-02-23 23:00:00",
       "album": {
+        "name": "Coffee (Give Me Something)",
+        "url": "https://open.spotify.com/album/0AF75TND45TZytpXlwvVIe"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        },
+        {
+          "name": "Vintage Culture",
+          "url": "https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts"
+        }
+      ],
+      "duration_ms": 189677,
+      "name": "Coffee (Give Me Something)",
+      "url": "https://open.spotify.com/track/4DBLAy03Xk88LOVtrOQ1RD"
+    },
+    {
+      "added_at": "2023-02-23 23:00:00",
+      "album": {
         "name": "New Love",
         "url": "https://open.spotify.com/album/0xf5sZ3FS68Rvm0GmTqfNM"
       },
@@ -1599,26 +1619,6 @@
       "duration_ms": 190680,
       "name": "New Love (feat. Ellie Goulding)",
       "url": "https://open.spotify.com/track/5iEI2hHcG8bnKmUelPk08F"
-    },
-    {
-      "added_at": "2023-02-23 23:00:00",
-      "album": {
-        "name": "Coffee (Give Me Something)",
-        "url": "https://open.spotify.com/album/0AF75TND45TZytpXlwvVIe"
-      },
-      "artists": [
-        {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
-        },
-        {
-          "name": "Vintage Culture",
-          "url": "https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts"
-        }
-      ],
-      "duration_ms": 189677,
-      "name": "Coffee (Give Me Something)",
-      "url": "https://open.spotify.com/track/4DBLAy03Xk88LOVtrOQ1RD"
     },
     {
       "added_at": "2023-02-23 23:00:00",

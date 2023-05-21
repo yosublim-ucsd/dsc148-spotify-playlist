@@ -2268,7 +2268,7 @@
       ],
       "date_added": "2023-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-21",
       "duration_ms": 129845,
       "name": "Aperol im Glas",
       "url": "https://open.spotify.com/track/7CBXOpFYUCfRjtQ1wMLMYR"
@@ -2710,7 +2710,7 @@
       ],
       "date_added": "2023-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-21",
       "duration_ms": 164199,
       "name": "Auf die Party",
       "url": "https://open.spotify.com/track/5qDzKUTHCUiKhewBa9STsE"
@@ -3922,6 +3922,28 @@
       "duration_ms": 139813,
       "name": "bei Nacht",
       "url": "https://open.spotify.com/track/1YFNxlftAZsXS8tKkbGKYl"
+    },
+    {
+      "album": {
+        "name": "Bei Nacht",
+        "url": "https://open.spotify.com/album/7nYEQwOK9T1EupUwsqVba5"
+      },
+      "artists": [
+        {
+          "name": "RAF Camora",
+          "url": "https://open.spotify.com/artist/0Dvx6p8JDyzeOPGmaCIH1L"
+        },
+        {
+          "name": "CRO",
+          "url": "https://open.spotify.com/artist/3utZ2yeQk0Z3BCOBWP7Vlu"
+        }
+      ],
+      "date_added": "2023-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156882,
+      "name": "Bei Nacht",
+      "url": "https://open.spotify.com/track/2hEV30dObDzShJ3MbR9mGQ"
     },
     {
       "album": {
@@ -6029,6 +6051,24 @@
     },
     {
       "album": {
+        "name": "HARAGA",
+        "url": "https://open.spotify.com/album/3V3AIKtUap0JXwWP4QKaUp"
+      },
+      "artists": [
+        {
+          "name": "HoodBlaq",
+          "url": "https://open.spotify.com/artist/1Wic7dyEeEpQXDBbDf6HKm"
+        }
+      ],
+      "date_added": "2023-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243711,
+      "name": "CARRERA",
+      "url": "https://open.spotify.com/track/1i1UXHK1roiVBYynK3m46Q"
+    },
+    {
+      "album": {
         "name": "CARRERA",
         "url": "https://open.spotify.com/album/27yYjI6cmU1Ans0prYJn7e"
       },
@@ -6040,7 +6080,7 @@
       ],
       "date_added": "2023-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-21",
       "duration_ms": 243711,
       "name": "CARRERA",
       "url": "https://open.spotify.com/track/3cfz2Kt5k1mZ2GLJDY45l2"
@@ -6106,6 +6146,24 @@
       "duration_ms": 182887,
       "name": "ceilings",
       "url": "https://open.spotify.com/track/2L9N0zZnd37dwF0clgxMGI"
+    },
+    {
+      "album": {
+        "name": "CENT'ANNI",
+        "url": "https://open.spotify.com/album/0lfRae3gk4uRJfzn6TPW09"
+      },
+      "artists": [
+        {
+          "name": "Shindy",
+          "url": "https://open.spotify.com/artist/5j21TGkrNEAJe3gG9VlS34"
+        }
+      ],
+      "date_added": "2023-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125990,
+      "name": "CENT'ANNI",
+      "url": "https://open.spotify.com/track/3sLGANjytghyOmfRnY54tq"
     },
     {
       "album": {
@@ -7690,7 +7748,7 @@
       ],
       "date_added": "2023-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-21",
       "duration_ms": 175984,
       "name": "Delfin",
       "url": "https://open.spotify.com/track/4jAHH8WkHiJQP9JlW2PlEi"
@@ -7800,7 +7858,7 @@
       ],
       "date_added": "2022-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-21",
       "duration_ms": 207301,
       "name": "Der Zug hat keine Bremse - Mallorcastyle Edition",
       "url": "https://open.spotify.com/track/3T4DdPVqWeaC4U7vrIxlKz"
@@ -7880,7 +7938,7 @@
       ],
       "date_added": "2022-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-21",
       "duration_ms": 225882,
       "name": "Dicht im Flieger",
       "url": "https://open.spotify.com/track/6sS77FZh2eJfYBsFUW6hjI"
@@ -8362,6 +8420,24 @@
       "duration_ms": 152971,
       "name": "Diskothek",
       "url": "https://open.spotify.com/track/0GoDjVEkqdXIYrGANjTNOW"
+    },
+    {
+      "album": {
+        "name": "District 9",
+        "url": "https://open.spotify.com/album/0UIHM0iJJv6HiEXwMdjf8a"
+      },
+      "artists": [
+        {
+          "name": "PA Sports",
+          "url": "https://open.spotify.com/artist/2qMezKrAKRh2Z2uR3fCqHt"
+        }
+      ],
+      "date_added": "2023-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157408,
+      "name": "District 9",
+      "url": "https://open.spotify.com/track/43xistcPvuBASRtNDm2tR5"
     },
     {
       "album": {
@@ -13423,6 +13499,32 @@
     },
     {
       "album": {
+        "name": "GRAU",
+        "url": "https://open.spotify.com/album/7Ji8q3GQ1VOSA6wbgHkAHT"
+      },
+      "artists": [
+        {
+          "name": "Azad",
+          "url": "https://open.spotify.com/artist/7LQLsKs1Qulq0BxYdhRnBU"
+        },
+        {
+          "name": "Miami Yacine",
+          "url": "https://open.spotify.com/artist/1XKjtpH5P81gpOXDB91IEB"
+        },
+        {
+          "name": "Pajel",
+          "url": "https://open.spotify.com/artist/1bpI6QDUqmfKmV0Tlhj0Jm"
+        }
+      ],
+      "date_added": "2023-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166897,
+      "name": "GRAU",
+      "url": "https://open.spotify.com/track/1RjiqmpgS2lymhy0A15SW6"
+    },
+    {
+      "album": {
         "name": "Grey Goose (feat. Bausa)",
         "url": "https://open.spotify.com/album/4PbIDhiYKWLsjQDa9tSuZu"
       },
@@ -15540,6 +15642,32 @@
       "duration_ms": 162010,
       "name": "Ich seh dich",
       "url": "https://open.spotify.com/track/1n1wnXWIrWKxrDnRPowxV8"
+    },
+    {
+      "album": {
+        "name": "Ich wei\u00df das",
+        "url": "https://open.spotify.com/album/6WUUeIIAjG4hjcmao0Y46H"
+      },
+      "artists": [
+        {
+          "name": "KC Rebell",
+          "url": "https://open.spotify.com/artist/5p7mWeX4RlvqBCxylfiXdE"
+        },
+        {
+          "name": "Hasso",
+          "url": "https://open.spotify.com/artist/39SBU4h2UWiGkwfm8EUZJY"
+        },
+        {
+          "name": "Miksu / Macloud",
+          "url": "https://open.spotify.com/artist/76dRoxKtDwYkgCQePok9cU"
+        }
+      ],
+      "date_added": "2023-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152146,
+      "name": "Ich wei\u00df das",
+      "url": "https://open.spotify.com/track/3mMWmLK5qKUk7AmYBYijva"
     },
     {
       "album": {
@@ -18676,7 +18804,7 @@
       ],
       "date_added": "2022-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-21",
       "duration_ms": 185706,
       "name": "Layla",
       "url": "https://open.spotify.com/track/5ucyKDPjLpYLGadsRO1wSB"
@@ -18728,7 +18856,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-21",
       "duration_ms": 170783,
       "name": "LEBENSLANG - HBz Remix",
       "url": "https://open.spotify.com/track/3VezyVVENyPQ5u2DIJsITb"
@@ -20190,6 +20318,24 @@
       "duration_ms": 137542,
       "name": "LV",
       "url": "https://open.spotify.com/track/4BZuKo2NlQxjWkQlpQf3E2"
+    },
+    {
+      "album": {
+        "name": "L\u00e4chel Doch Mal",
+        "url": "https://open.spotify.com/album/2m43LD9LvJsh6O5mIGGwzg"
+      },
+      "artists": [
+        {
+          "name": "Shirin David",
+          "url": "https://open.spotify.com/artist/0JBdTCGs111JKKYfLqOEBa"
+        }
+      ],
+      "date_added": "2023-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154522,
+      "name": "L\u00e4chel Doch Mal",
+      "url": "https://open.spotify.com/track/0c9jFK9AL7CsO4elFpE1rw"
     },
     {
       "album": {
@@ -21687,6 +21833,28 @@
     },
     {
       "album": {
+        "name": "HARAGA",
+        "url": "https://open.spotify.com/album/3V3AIKtUap0JXwWP4QKaUp"
+      },
+      "artists": [
+        {
+          "name": "HoodBlaq",
+          "url": "https://open.spotify.com/artist/1Wic7dyEeEpQXDBbDf6HKm"
+        },
+        {
+          "name": "Bonez MC",
+          "url": "https://open.spotify.com/artist/1aS5tqEs9ci5P9KD9tZWa6"
+        }
+      ],
+      "date_added": "2023-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209010,
+      "name": "MINIMUM (feat. Bonez MC)",
+      "url": "https://open.spotify.com/track/0eLwzWx2WsbZfQQ335bLPQ"
+    },
+    {
+      "album": {
         "name": "Miss The Rage (feat. Playboi Carti)",
         "url": "https://open.spotify.com/album/1FsFHXroF1ILBdVyBRMt3A"
       },
@@ -23172,7 +23340,7 @@
       ],
       "date_added": "2022-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-21",
       "duration_ms": 158080,
       "name": "Nachts wach (Lila Wolken Bootleg)",
       "url": "https://open.spotify.com/track/5qEGAHerczFt3HmL9lhh4j"
@@ -23910,6 +24078,24 @@
       "duration_ms": 161212,
       "name": "Nie wieder sehen",
       "url": "https://open.spotify.com/track/1t1VvjY7al80AdEoAQ3kPN"
+    },
+    {
+      "album": {
+        "name": "DUNJA EP",
+        "url": "https://open.spotify.com/album/6UnNAVzYYL7iXlCivZRlxQ"
+      },
+      "artists": [
+        {
+          "name": "Samra",
+          "url": "https://open.spotify.com/artist/6h1s4i4XKIYv4ErDelLDN0"
+        }
+      ],
+      "date_added": "2023-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143258,
+      "name": "Nie wieder Tilidin",
+      "url": "https://open.spotify.com/track/59uDpo0zIDbxrefqRRdpDo"
     },
     {
       "album": {
@@ -25004,7 +25190,7 @@
       ],
       "date_added": "2023-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-21",
       "duration_ms": 148800,
       "name": "ONLY 4 LIFE - Remix",
       "url": "https://open.spotify.com/track/7jYwZOptDPesQgzj7vhsEF"
@@ -25640,7 +25826,7 @@
       ],
       "date_added": "2023-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-21",
       "duration_ms": 137847,
       "name": "Party Sahne",
       "url": "https://open.spotify.com/track/2hFOXN8Eq2gXIGGMIdHdWJ"
@@ -25658,10 +25844,28 @@
       ],
       "date_added": "2023-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-21",
       "duration_ms": 205993,
       "name": "PASS AUF",
       "url": "https://open.spotify.com/track/1ZKMMvWLhxXlk7VXqS7YRG"
+    },
+    {
+      "album": {
+        "name": "HARAGA",
+        "url": "https://open.spotify.com/album/3V3AIKtUap0JXwWP4QKaUp"
+      },
+      "artists": [
+        {
+          "name": "HoodBlaq",
+          "url": "https://open.spotify.com/artist/1Wic7dyEeEpQXDBbDf6HKm"
+        }
+      ],
+      "date_added": "2023-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206400,
+      "name": "PASS AUF",
+      "url": "https://open.spotify.com/track/7JAx138Rw3k7L1rUIgnNqh"
     },
     {
       "album": {
@@ -26984,7 +27188,7 @@
       ],
       "date_added": "2023-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-21",
       "duration_ms": 165045,
       "name": "Rapunzel - DJ Robin Remix",
       "url": "https://open.spotify.com/track/2WQBFD9aMY1HldcU7Ekvp1"
@@ -28524,6 +28728,24 @@
       "duration_ms": 191013,
       "name": "Save Your Tears (with Ariana Grande) (Remix)",
       "url": "https://open.spotify.com/track/37BZB0z9T8Xu7U3e65qxFy"
+    },
+    {
+      "album": {
+        "name": "Say Yes To Heaven",
+        "url": "https://open.spotify.com/album/6jVg0POvGYH1Pt6lISl3ok"
+      },
+      "artists": [
+        {
+          "name": "Lana Del Rey",
+          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+        }
+      ],
+      "date_added": "2023-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209156,
+      "name": "Say Yes To Heaven",
+      "url": "https://open.spotify.com/track/6GGtHZgBycCgGBUhZo81xe"
     },
     {
       "album": {
@@ -35091,6 +35313,24 @@
     },
     {
       "album": {
+        "name": "Wenn das so bleibt",
+        "url": "https://open.spotify.com/album/5BWoo7MinijRFjIZjWM8Q7"
+      },
+      "artists": [
+        {
+          "name": "Apache 207",
+          "url": "https://open.spotify.com/artist/1qQLhymHXFPtP5U8KNKsm6"
+        }
+      ],
+      "date_added": "2023-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161703,
+      "name": "Wenn das so bleibt",
+      "url": "https://open.spotify.com/track/0zQBUaHR4dOlyPPhqRAr27"
+    },
+    {
+      "album": {
         "name": "Wenn Du mich l\u00e4sst",
         "url": "https://open.spotify.com/album/5vWFr4aJCRTNrHAkQIPlgn"
       },
@@ -36492,6 +36732,28 @@
       "duration_ms": 134000,
       "name": "Zeit fliegt (feat. Fergy53)",
       "url": "https://open.spotify.com/track/3X8T8umm67dqgszAXdP9dU"
+    },
+    {
+      "album": {
+        "name": "Zeiten \u00e4ndern nichts",
+        "url": "https://open.spotify.com/album/0q3LXCOcFj6Kdu1zNYQgKu"
+      },
+      "artists": [
+        {
+          "name": "1986zig",
+          "url": "https://open.spotify.com/artist/21H6paZGGR6dQpVmAqbdzV"
+        },
+        {
+          "name": "Kool Savas",
+          "url": "https://open.spotify.com/artist/1SUu1Bi7ev9HbOzyVC77qD"
+        }
+      ],
+      "date_added": "2023-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151026,
+      "name": "Zeiten \u00e4ndern nichts",
+      "url": "https://open.spotify.com/track/2qlO9odnqUIVu8MMyhdmFY"
     },
     {
       "album": {

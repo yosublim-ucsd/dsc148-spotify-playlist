@@ -1,12 +1,12 @@
 {
   "description": "\uc194\ub85c\uc5ec\ub3c4 \uad1c\ucc2e\uc740 \ub098\ub97c \uc704\ud55c \ub178\ub798\ub4e4",
-  "num_followers": 12818,
+  "num_followers": 12835,
   "original_name": "I'M FINE, SOLO. AND U?",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3YzlmMjk3YzgyMWZiNzdjM2NlN2Y5YThiYzU3M2UyNjQ0ZWVhZWU2",
+  "snapshot_id": "MCxmNDU5N2ViNzIzOGI0ZmE5YjU5OTEyMDQ1NTM3MzgwMTY1OGQ2OGQw",
   "tracks": [
     {
       "added_at": "2023-05-05 08:18:52",
@@ -551,22 +551,6 @@
     {
       "added_at": "2023-05-05 08:18:52",
       "album": {
-        "name": "ALPHA",
-        "url": "https://open.spotify.com/album/32lsJQmgxK7swVFGZYfQWg"
-      },
-      "artists": [
-        {
-          "name": "CL",
-          "url": "https://open.spotify.com/artist/0tzSBCPJZmHTdOA3ZV2mN3"
-        }
-      ],
-      "duration_ms": 184573,
-      "name": "Let It",
-      "url": "https://open.spotify.com/track/7EUIqHUc6qKk7iVdG1W7RE"
-    },
-    {
-      "added_at": "2023-05-05 08:18:52",
-      "album": {
         "name": "HUSH",
         "url": "https://open.spotify.com/album/27FDExxvG3h3XCUcJVlVSY"
       },
@@ -579,6 +563,22 @@
       "duration_ms": 210705,
       "name": "\ub0a8\uc790 \uc5c6\uc774 \uc798 \uc0b4\uc544",
       "url": "https://open.spotify.com/track/7hCnoPpEDBMGnooYnOCRPX"
+    },
+    {
+      "added_at": "2023-05-05 08:18:52",
+      "album": {
+        "name": "ALPHA",
+        "url": "https://open.spotify.com/album/32lsJQmgxK7swVFGZYfQWg"
+      },
+      "artists": [
+        {
+          "name": "CL",
+          "url": "https://open.spotify.com/artist/0tzSBCPJZmHTdOA3ZV2mN3"
+        }
+      ],
+      "duration_ms": 184573,
+      "name": "Let It",
+      "url": "https://open.spotify.com/track/7EUIqHUc6qKk7iVdG1W7RE"
     },
     {
       "added_at": "2023-05-05 08:18:52",
@@ -775,22 +775,6 @@
     {
       "added_at": "2023-05-05 08:18:52",
       "album": {
-        "name": "Freaky",
-        "url": "https://open.spotify.com/album/1Z55bFaYwBmghHzXTpqWYp"
-      },
-      "artists": [
-        {
-          "name": "MIRANI",
-          "url": "https://open.spotify.com/artist/6N7b9mUVwn885jI7RRg8no"
-        }
-      ],
-      "duration_ms": 173960,
-      "name": "Freaky (Prod. GroovyRoom)",
-      "url": "https://open.spotify.com/track/4dDRXGfTI5mWBnDuVRxTLe"
-    },
-    {
-      "added_at": "2023-05-05 08:18:52",
-      "album": {
         "name": "Work Later Drink Now S2, Pt. 5 (Original Soundtrack)",
         "url": "https://open.spotify.com/album/0eYBfC57JfL2mZgcBTEZnh"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 176000,
       "name": "Drink it, Girls!",
       "url": "https://open.spotify.com/track/1iJX2WMpUpYsuxkKLPhVH8"
+    },
+    {
+      "added_at": "2023-05-05 08:18:52",
+      "album": {
+        "name": "Freaky",
+        "url": "https://open.spotify.com/album/1Z55bFaYwBmghHzXTpqWYp"
+      },
+      "artists": [
+        {
+          "name": "MIRANI",
+          "url": "https://open.spotify.com/artist/6N7b9mUVwn885jI7RRg8no"
+        }
+      ],
+      "duration_ms": 173960,
+      "name": "Freaky (Prod. GroovyRoom)",
+      "url": "https://open.spotify.com/track/4dDRXGfTI5mWBnDuVRxTLe"
     },
     {
       "added_at": "2023-05-05 08:18:52",

@@ -1,12 +1,12 @@
 {
   "description": "Pegue seu caf\u00e9, ache um bom lugar para sentar, ajuste seu fone de ouvido e aproveite o momento.",
-  "num_followers": 752781,
+  "num_followers": 752978,
   "original_name": "Cafezinho",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3NjU3OTc2YmZmNjA3MjllZDc5Y2RkYjA0MzIyMDUzZDJhMDc4YTMw",
+  "snapshot_id": "MCwxNDI3NjMxZTg0ZjE4YjY4MWZmOTg4NWVkM2FjNDcxYjliMDdkZGJj",
   "tracks": [
     {
       "added_at": "2023-05-12 20:51:37",
@@ -299,6 +299,22 @@
     {
       "added_at": "2023-05-12 20:51:37",
       "album": {
+        "name": "Maria Gad\u00fa",
+        "url": "https://open.spotify.com/album/60zdKaNDD0nMnM90ndtcGF"
+      },
+      "artists": [
+        {
+          "name": "Maria Gad\u00fa",
+          "url": "https://open.spotify.com/artist/3uCu2WgyG0Iw50ylOYDSpH"
+        }
+      ],
+      "duration_ms": 211080,
+      "name": "Dona Cila",
+      "url": "https://open.spotify.com/track/4eGOBCZyjEQ6WckqOVz0ES"
+    },
+    {
+      "added_at": "2023-05-12 20:51:37",
+      "album": {
         "name": "Rita Lee",
         "url": "https://open.spotify.com/album/77whDq0J0bYLftDVMKAlK7"
       },
@@ -315,22 +331,6 @@
       "duration_ms": 310760,
       "name": "Lan\u00e7a Perfume",
       "url": "https://open.spotify.com/track/3cijWAljXxxJDco4N2aLQl"
-    },
-    {
-      "added_at": "2023-05-12 20:51:37",
-      "album": {
-        "name": "Maria Gad\u00fa",
-        "url": "https://open.spotify.com/album/60zdKaNDD0nMnM90ndtcGF"
-      },
-      "artists": [
-        {
-          "name": "Maria Gad\u00fa",
-          "url": "https://open.spotify.com/artist/3uCu2WgyG0Iw50ylOYDSpH"
-        }
-      ],
-      "duration_ms": 211080,
-      "name": "Dona Cila",
-      "url": "https://open.spotify.com/track/4eGOBCZyjEQ6WckqOVz0ES"
     },
     {
       "added_at": "2023-05-12 20:51:37",
@@ -551,22 +551,6 @@
     {
       "added_at": "2023-05-12 20:51:37",
       "album": {
-        "name": "Na Press\u00e3o",
-        "url": "https://open.spotify.com/album/18gEdE7EJMpVeBCSDZgOdG"
-      },
-      "artists": [
-        {
-          "name": "Lenine",
-          "url": "https://open.spotify.com/artist/4YLBdrR3DVSMncm785NH6C"
-        }
-      ],
-      "duration_ms": 284293,
-      "name": "Paci\u00eancia",
-      "url": "https://open.spotify.com/track/6gBlkT2u5P7UyZUYH8WnKz"
-    },
-    {
-      "added_at": "2023-05-12 20:51:37",
-      "album": {
         "name": "Se fosse t\u00e3o f\u00e1cil (Ac\u00fastico)",
         "url": "https://open.spotify.com/album/7JdKZ7Ve0q242f1ljpi4c9"
       },
@@ -579,6 +563,22 @@
       "duration_ms": 198193,
       "name": "Se fosse t\u00e3o f\u00e1cil - Ac\u00fastico",
       "url": "https://open.spotify.com/track/4IuWJzJRVZyyjyxcDdzpaE"
+    },
+    {
+      "added_at": "2023-05-12 20:51:37",
+      "album": {
+        "name": "Na Press\u00e3o",
+        "url": "https://open.spotify.com/album/18gEdE7EJMpVeBCSDZgOdG"
+      },
+      "artists": [
+        {
+          "name": "Lenine",
+          "url": "https://open.spotify.com/artist/4YLBdrR3DVSMncm785NH6C"
+        }
+      ],
+      "duration_ms": 284293,
+      "name": "Paci\u00eancia",
+      "url": "https://open.spotify.com/track/6gBlkT2u5P7UyZUYH8WnKz"
     },
     {
       "added_at": "2023-05-12 20:51:37",
@@ -987,22 +987,6 @@
     {
       "added_at": "2023-05-12 20:51:37",
       "album": {
-        "name": "Abra\u00e7ar e Agradecer (Ao Vivo)",
-        "url": "https://open.spotify.com/album/64yiQDoh3XgaxonCFKg6HS"
-      },
-      "artists": [
-        {
-          "name": "Maria Beth\u00e2nia",
-          "url": "https://open.spotify.com/artist/3f5VCwd57gZsqMad28jyLV"
-        }
-      ],
-      "duration_ms": 105253,
-      "name": "Gostoso Demais - Ao Vivo",
-      "url": "https://open.spotify.com/track/1Xg14zUBW0I9OrAaUII020"
-    },
-    {
-      "added_at": "2023-05-12 20:51:37",
-      "album": {
         "name": "Reconstru\u00e7\u00e3o",
         "url": "https://open.spotify.com/album/4MaXnFPKQXHK7voqrWGEPn"
       },
@@ -1015,6 +999,22 @@
       "duration_ms": 204895,
       "name": "La\u00e7os",
       "url": "https://open.spotify.com/track/67TkwLw4MU99lmHtUYo340"
+    },
+    {
+      "added_at": "2023-05-12 20:51:37",
+      "album": {
+        "name": "Abra\u00e7ar e Agradecer (Ao Vivo)",
+        "url": "https://open.spotify.com/album/64yiQDoh3XgaxonCFKg6HS"
+      },
+      "artists": [
+        {
+          "name": "Maria Beth\u00e2nia",
+          "url": "https://open.spotify.com/artist/3f5VCwd57gZsqMad28jyLV"
+        }
+      ],
+      "duration_ms": 105253,
+      "name": "Gostoso Demais - Ao Vivo",
+      "url": "https://open.spotify.com/track/1Xg14zUBW0I9OrAaUII020"
     },
     {
       "added_at": "2023-05-12 20:51:37",

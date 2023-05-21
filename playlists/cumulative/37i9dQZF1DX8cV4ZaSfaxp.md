@@ -4,7 +4,7 @@
 
 > A dazzling but very sad feeling\. Enjoy the city pop music of Korean singers\. \(Cover: Choi HEART\(최하트\)\) \(찬란하고도 아련한 느낌을 간직한 한국 시티팝을 즐겨보세요.\)
 
-288 songs - 17 hr 56 min
+289 songs - 17 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -80,6 +80,7 @@
 | [Dive](https://open.spotify.com/track/0Ots0hGoPjgRw99GdQzJjc) | [Luli Lee](https://open.spotify.com/artist/3h4p2PKHb9JejBCHmWlthK) | [Dive](https://open.spotify.com/album/314Qk4Awu61HcBTSNJ7ypm) | 3:41 | 2022-07-22 | 2022-11-03 |
 | [Dive](https://open.spotify.com/track/1DC1Hhv3t5jnYrDNQbZu7u) | [Luli Lee](https://open.spotify.com/artist/3h4p2PKHb9JejBCHmWlthK) | [Dive](https://open.spotify.com/album/4CSodYxHpQLracYVV0emB7) | 3:41 | 2022-09-05 |  |
 | [Dive](https://open.spotify.com/track/71YHNeT3TMUnV1165mgRbO) | [Luli Lee](https://open.spotify.com/artist/3h4p2PKHb9JejBCHmWlthK) | [Dive](https://open.spotify.com/album/4gn113ACCBiiIr6XtCV3Mc) | 3:41 | 2022-05-11 | 2022-07-29 |
+| [Diver](https://open.spotify.com/track/4SGwJXOUyVRnbKZH09O4D9) | [Izykite](https://open.spotify.com/artist/5U1sDgoWfJGV8dwlvnuxvx) | [I ZIP](https://open.spotify.com/album/5Qx8HSQxYH27Bf1Gc750UB) | 3:10 | 2023-05-05 |  |
 | [Dolls](https://open.spotify.com/track/1XxT5GxDa5GD8hnhTK2AD6) | [9MUSES](https://open.spotify.com/artist/55tJwpPIz9BMrSLM45iEXX) | [DOLLS](https://open.spotify.com/album/3gCmOfwfMprkm469ZUyZ6m) | 3:26 | 2022-05-11 |  |
 | [Dreams Come True](https://open.spotify.com/track/3HW8GYMIa1h7LjcOmOKVEg) | [Kirin](https://open.spotify.com/artist/3dFiM806dnbA7YUIgOHDBc), [SUMIN](https://open.spotify.com/artist/0K4MGKGmjtdIE0W3GkGmyU), [Golden](https://open.spotify.com/artist/1bhaaVxOYgxzTuNcxhCtaX), [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [2020](https://open.spotify.com/album/2ivll4rHB5TPCVSrRDYfAo) | 3:54 | 2022-05-11 | 2022-07-20 |
 | [Drive](https://open.spotify.com/track/6Vpnnczqc2LeoWWY2GCKNX) | [TAEYOON](https://open.spotify.com/artist/1O0EK26p53WkTztl4jycst) | [Drive](https://open.spotify.com/album/6Ay26ho43I6fumK6UxFMPl) | 4:32 | 2022-05-11 | 2022-07-26 |
@@ -121,7 +122,7 @@
 | [Highteen \(Feat\. Lee Won Seok of Daybreak\)](https://open.spotify.com/track/0nw4fbuu6af0WA36f0IHiX) | [Kim Areum](https://open.spotify.com/artist/797zr1JFQLxAHNQEl9HKlp), [Lee WonSeok](https://open.spotify.com/artist/6hczBkysKbmnU1K1aO5S8Z) | [OCEAN WAVE](https://open.spotify.com/album/06jDTVrUOYysEijXi9eKOQ) | 4:20 | 2022-08-12 | 2022-09-28 |
 | [Highteen \(Feat\. Lee Won Seok of Daybreak\)](https://open.spotify.com/track/72quUKjITH4txudAUZKXpi) | [Kim Areum](https://open.spotify.com/artist/797zr1JFQLxAHNQEl9HKlp), [Lee WonSeok](https://open.spotify.com/artist/6hczBkysKbmnU1K1aO5S8Z) | [OCEAN WAVE](https://open.spotify.com/album/2xA63q65mFlkG3ICY6BPS4) | 4:20 | 2022-09-05 | 2022-10-05 |
 | [Hope](https://open.spotify.com/track/6SI48qGuImxXM3RuxQoAzT) | [GFRIEND](https://open.spotify.com/artist/0qlWcS66ohOIi0M8JZwPft) | [GFRIEND The 7th Mini Album \`FEVER SEASON\`](https://open.spotify.com/album/653wpLLPgri15mVNwJOTVR) | 3:28 | 2022-05-11 |  |
-| [I Can't Let You Go \(feat\. Space Cowboy\)](https://open.spotify.com/track/1OJ4Vn0KP68DVUmyZPH1Th) | [Muzie](https://open.spotify.com/artist/6RzEJR9Jz1DFFjZOVm8Xtg), [스페이스카우보이](https://open.spotify.com/artist/0OIZ6VdAR9UGJ3UhfTpGYy) | [New Wave City](https://open.spotify.com/album/7axvOyqRDBKkk2sc3CPRMV) | 3:27 | 2022-05-11 |  |
+| [I Can't Let You Go \(feat\. Space Cowboy\)](https://open.spotify.com/track/1OJ4Vn0KP68DVUmyZPH1Th) | [Muzie](https://open.spotify.com/artist/6RzEJR9Jz1DFFjZOVm8Xtg) | [New Wave City](https://open.spotify.com/album/7axvOyqRDBKkk2sc3CPRMV) | 3:27 | 2022-05-11 |  |
 | [I FEEL LOVE](https://open.spotify.com/track/0waWA2gh4t6dEBXcCHapDE) | [YUKIKA](https://open.spotify.com/artist/4RfI1z9u2xIc5Qnqac4JbO) | [SOUL LADY](https://open.spotify.com/album/16yrp3d9pCJgQK2RMBTtd1) | 3:55 | 2022-05-11 | 2022-07-29 |
 | [I Feel You](https://open.spotify.com/track/1gdTztk1x8HCDlxcSR8vp3) | [Wonder Girls](https://open.spotify.com/artist/3Cv2vi3WTl8VZOTdrBkKdM) | [REBOOT](https://open.spotify.com/album/6uZUsBaw4hH7TPa60A1W3a) | 3:25 | 2022-05-11 |  |
 | [I Wish](https://open.spotify.com/track/3YtIeHuvBXkJAyv3twOYCC) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [Heng:garæ](https://open.spotify.com/album/3q6lN3kfsDgGaQUC7kVASH) | 3:53 | 2022-07-22 |  |
@@ -250,7 +251,7 @@
 | [The Reason Why](https://open.spotify.com/track/1RHbrUkbac7nUg5Zj86QgQ) | [Heju](https://open.spotify.com/artist/4wwWOTP0uQkwy905mukvXU) | [The Reason Why](https://open.spotify.com/album/04FO7xZADfgWN1hPb9DGMF) | 3:20 | 2022-05-11 | 2022-07-20 |
 | [The Story Of The Year \(feat\. Wonwoo\)](https://open.spotify.com/track/3r13xapjaH18CkefLlFtyj) | [PARKMOONCHI](https://open.spotify.com/artist/1LIw1nom0dT1E99JFLINqh), [Wonwoo](https://open.spotify.com/artist/4G2Rc8UO9dVp8nJs5fJH7f) | [The Story Of The Year \(feat\. Wonwoo\)](https://open.spotify.com/album/09drbb7KrxZTBhg9Eodvjc) | 4:13 | 2022-05-11 | 2022-07-29 |
 | [These Nights](https://open.spotify.com/track/2n0oy8RGDpy6WGcLImTteI) | [88rising](https://open.spotify.com/artist/1AhjOkOLkbHUfcHDSErXQs), [Rich Brian](https://open.spotify.com/artist/2IDLDx25HU1nQMKde4n61a), [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) | [These Nights](https://open.spotify.com/album/2ZHGnhsomLmLezueESi9ou) | 3:43 | 2022-05-11 |  |
-| [Thinking About You](https://open.spotify.com/track/5KpdmJ4LiyUIIuqcquCX9d) | [Muzie](https://open.spotify.com/artist/6RzEJR9Jz1DFFjZOVm8Xtg), [SUMIN](https://open.spotify.com/artist/0K4MGKGmjtdIE0W3GkGmyU) | [Color of Night](https://open.spotify.com/album/11TnZ6QezfxP2XCK37HSZ2) | 3:29 | 2022-07-22 |  |
+| [Thinking About You](https://open.spotify.com/track/5KpdmJ4LiyUIIuqcquCX9d) | [Muzie](https://open.spotify.com/artist/6RzEJR9Jz1DFFjZOVm8Xtg), [SUMIN](https://open.spotify.com/artist/0K4MGKGmjtdIE0W3GkGmyU) | [Color of Night](https://open.spotify.com/album/11TnZ6QezfxP2XCK37HSZ2) | 3:29 | 2022-07-22 | 2023-05-21 |
 | [Thinking About You](https://open.spotify.com/track/78Oao6HSlF71skOa8vgV4e) | [Muzie](https://open.spotify.com/artist/6RzEJR9Jz1DFFjZOVm8Xtg), [SUMIN](https://open.spotify.com/artist/0K4MGKGmjtdIE0W3GkGmyU) | [Color of Night](https://open.spotify.com/album/3lZQCdHYJ94Icv6OWeqh76) | 3:29 | 2022-05-11 | 2022-07-29 |
 | [THIS CITY](https://open.spotify.com/track/1SwSXX7JBvB25ZzJUqvVR8) | [ROCOBERRY](https://open.spotify.com/artist/0Mt9IxntWHsf793bLZhQ9P) | [THIS CITY](https://open.spotify.com/album/7JH8wNVrPGvlU6Pbos34Hu) | 3:14 | 2022-05-11 |  |
 | [Tonight](https://open.spotify.com/track/7sO5L1MHG4Rgwg6ARMS7GD) | [Rainbow note](https://open.spotify.com/artist/5qgNxAqFqHpGVqZQHvrm17) | [Tonight](https://open.spotify.com/album/2nEXBIArDYdR0CtfN6XXWM) | 3:55 | 2022-05-11 | 2022-07-27 |

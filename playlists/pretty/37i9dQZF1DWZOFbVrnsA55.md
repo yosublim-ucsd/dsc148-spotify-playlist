@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZOFbVrnsA55.md) - [plain]
 
 > Slow down and embrace the immensity of time\. This is just an ambient blip in the long now.
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,150 likes - 291 songs - 4 day 9 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,209 likes - 291 songs - 4 day 9 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -297,7 +297,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZOFbVrnsA55.md) - [plain]
 | 287 | [Dark Sky Opening, Pt\. 2](https://open.spotify.com/track/6IyldsBSTVduwuI94QUCSO) | [Max Corbacho](https://open.spotify.com/artist/0Qg8V53QwgXLDtN0xMUL5q) | [Nocturnes](https://open.spotify.com/album/4kVfMTCSWFHgxejaf0TzSs) | 24:40 |
 | 288 | [Sol, Pt\. 1](https://open.spotify.com/track/3iVwdFFhvWDhhl3f0LNrLY) | [Alonefold](https://open.spotify.com/artist/1QUEqlh17KdAgKrkMuakMp) | [Remote Textures](https://open.spotify.com/album/2Ac2UuDsnSC90hooCxxQkD) | 13:16 |
 | 289 | [Cascata di Malbacco](https://open.spotify.com/track/3sCaGhYUT0HytB06FG9M23) | [John Carroll Kirby](https://open.spotify.com/artist/7FQiZr787umw7P5dO3zqld) | [Tuscany](https://open.spotify.com/album/3D4mnf0AU05ASyKnf0wEiq) | 18:08 |
-| 290 | [Flux 2](https://open.spotify.com/track/0cQ2AFeqZoopVS8zetcyra) | [R\. Turman](https://open.spotify.com/artist/5fZZnv5EfMpAL3DiQHegFe), [Robert Turman](https://open.spotify.com/artist/2W2BiVgO5bISQejnz7HPhE) | [Flux](https://open.spotify.com/album/50MNzElaJpGcQNnxV6JC9c) | 10:40 |
+| 290 | [FLUX TWO](https://open.spotify.com/track/7yfa4JcR05wO1roiR5Eb7B) | [Robert Turman](https://open.spotify.com/artist/2W2BiVgO5bISQejnz7HPhE) | [FLUX](https://open.spotify.com/album/3PM9Fn7zUKsP8G25LqyTnJ) | 10:42 |
 | 291 | [Knot of Spirit](https://open.spotify.com/track/16OWbcIekAVw9vEdiL93My) | [Caterina Barbieri](https://open.spotify.com/artist/61WgG5fz5ilJrMne7tE1zu), [Lyra Pramuk](https://open.spotify.com/artist/4nIgCJvBTi7M3pFn2ELhxm) | [Knot of Spirit](https://open.spotify.com/album/6OQQ3ImfeWkqIIRhMr4L5V) | 10:18 |
 
-Snapshot ID: `MCw0MDkxMWU1ZDhkM2NlZTZmMTY0MTRmNDY3OTAwMmY5MTA1YTM1MWFh`
+Snapshot ID: `MCw0ZDczOGEzNWRkY2RkYWRkYzg5MDQxMDFiOTBjNTIxMjdkMDkxODQw`

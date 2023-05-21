@@ -4,7 +4,7 @@
 
 > Hypnotic melodic <a href="spotify:genre:house">house</a> and <a href="spotify:genre:techno">techno</a> to light up the night.
 
-415 songs - 1 day 17 hr 59 min
+416 songs - 1 day 18 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -278,7 +278,7 @@
 | [On My Knees \- Adriatique Remix](https://open.spotify.com/track/7MbfrPIsgFDVJifA7p7Evk) | [RÜFÜS DU SOL](https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj), [Adriatique](https://open.spotify.com/artist/02DWGcShQivFepRvGJ7xhB) | [On My Knees \(Adriatique Remix\)](https://open.spotify.com/album/3AKto0kGctRc516VlXLJQr) | 7:32 | 2022-07-28 |  |
 | [Once Again \- Edit](https://open.spotify.com/track/00n7wN0flnH48KVwQOms7A) | [Durante](https://open.spotify.com/artist/1BqIPGrEhdjdLFpUzce2dh) | [Evaporate EP](https://open.spotify.com/album/4A3MuCKnk8RHXepwfX9qf1) | 4:12 | 2021-10-01 | 2022-07-29 |
 | [One More Ride](https://open.spotify.com/track/1eys1iysFllOg7dAbUjFtB) | [Depart](https://open.spotify.com/artist/5Mqcuj649T5GFhMGlaNGHy) | [One More Ride](https://open.spotify.com/album/5TjLnQfzTLcftYCkJOYRuT) | 6:56 | 2021-04-21 | 2022-07-29 |
-| [One Way](https://open.spotify.com/track/3V0AtDnWpKc5m9ZSxGNkiv) | [Agatha Pher](https://open.spotify.com/artist/0VRg3UWCu6DUIB7r5jqZZJ) | [One Way](https://open.spotify.com/album/2KZCa3njlP1MI1OdS026Eg) | 8:55 | 2023-03-31 |  |
+| [One Way](https://open.spotify.com/track/3V0AtDnWpKc5m9ZSxGNkiv) | [Agatha Pher](https://open.spotify.com/artist/0VRg3UWCu6DUIB7r5jqZZJ) | [One Way](https://open.spotify.com/album/2KZCa3njlP1MI1OdS026Eg) | 8:55 | 2023-03-31 | 2023-05-21 |
 | [Only](https://open.spotify.com/track/79nJCukLolYKeltbUDlLS8) | [GHEIST](https://open.spotify.com/artist/60pOigPjgmU7AzmZmWEQZU) | [Only](https://open.spotify.com/album/0EahPFAeYJ0NJRWrltZFi8) | 7:34 | 2022-07-18 | 2022-08-23 |
 | [Open Secret](https://open.spotify.com/track/4cKPCUHY4PmNbQEUjS3KUU) | [Fiin](https://open.spotify.com/artist/1epLtVgUJz01HSPZbdAT1X) | [Open Secret](https://open.spotify.com/album/1GipAiG1HNG1npI5lSeWs7) | 4:33 | 2022-05-20 | 2022-07-22 |
 | [Oracle](https://open.spotify.com/track/3gJu4keUtRC5e32h64905c) | [Michael Canitrot](https://open.spotify.com/artist/6cHlz9dCAlPQakpsEnuIMv) | [Oracle](https://open.spotify.com/album/4HlY3pU8a1WADSLdTS6iBX) | 4:51 | 2022-07-01 | 2022-09-15 |
@@ -368,6 +368,7 @@
 | [The Mad Eyed Arper \- Orignal Mix](https://open.spotify.com/track/6sQ3ZxNGKRwwjclHLlAvLb) | [Niconé](https://open.spotify.com/artist/70s3JhU9Ai0cIowagibjNI) | [Arpiano](https://open.spotify.com/album/6kx0Dh1xPYWgSqOk7LSXnf) | 7:01 | 2021-04-21 | 2022-04-21 |
 | [The Otherside \(feat\. Robinson\)](https://open.spotify.com/track/5En5CwjHaxxj7LpwpHojL3) | [Franky Wah](https://open.spotify.com/artist/3IG3Ub4ra8AuSxCFDVkVco), [Robinson](https://open.spotify.com/artist/38CvLGTsjtoloDgv3OKQp8) | [This Is SHÈN](https://open.spotify.com/album/0BuCz58hOxBFXmfocz8eWU) | 3:28 | 2022-12-02 |  |
 | [The Silence](https://open.spotify.com/track/5I2bl8yVsQ6F7CNnh2P9dc) | [Dwson](https://open.spotify.com/artist/60ZIrIA1iT9NStXmdAuhjR), [Hyenah](https://open.spotify.com/artist/1YUlJfwsUoerJd3mCK6Ccu), [Apple Gule](https://open.spotify.com/artist/6qQiyy1hXfRttZvgHqdwM1) | [The Silence](https://open.spotify.com/album/6BiPBIh5lMuS0jdbxHD3Mn) | 7:31 | 2022-07-01 | 2022-07-04 |
+| [The Silence](https://open.spotify.com/track/0CE4CLlvJIiis5GrGWNjjN) | [Monolink](https://open.spotify.com/artist/2I4hRNCYkPKJQlkoEZKjYx), [Stephan Jolk](https://open.spotify.com/artist/7w0ddx9rFndvpiqO1VOxJM) | [The Silence](https://open.spotify.com/album/6q8vauldhdzx6900WmbYyL) | 4:23 | 2023-05-19 |  |
 | [The Wildcard Rhapsody](https://open.spotify.com/track/7xIqFDhrWrDiwOibmIGl0o) | [Lee Burridge](https://open.spotify.com/artist/0334oJHhRSKJRHKpE9i62h), [Lost Desert](https://open.spotify.com/artist/6N2bCZFo999TqhtdPTnLyq) | [The Wildcard Rhapsody EP](https://open.spotify.com/album/35YTlMCyEgaKmiAOwfDLQx) | 8:17 | 2022-04-15 | 2022-08-22 |
 | [The Witness](https://open.spotify.com/track/5dna0ShfmtsCcgZfi8pEjl) | [Âme](https://open.spotify.com/artist/5muFO8VqYRCRW13EkvX564), [KÁRYYN](https://open.spotify.com/artist/4DLYIUgjZAea6vgzGwJUTI) | [The Witness](https://open.spotify.com/album/2agQCuwawKF5udp9i3wD9t) | 7:03 | 2022-07-01 | 2022-12-17 |
 | [The Woods \- Kostakis Lost in the Woods Edit](https://open.spotify.com/track/5dm5TSgzPHfTz12Il1ZubQ) | [Kostakis](https://open.spotify.com/artist/220vnZDNctyvMXmQOFTheW), [Diamond Thug](https://open.spotify.com/artist/4mXcRr0lognLc6xSb1vUTX) | [The Woods](https://open.spotify.com/album/5eoRTl5QPag8mGvoqMrjoG) | 6:32 | 2021-05-21 | 2022-07-28 |

@@ -4,7 +4,7 @@
 
 > Le canzoni italiane più romantiche di sempre ❤️
 
-194 songs - 12 hr 32 min
+195 songs - 12 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -95,7 +95,7 @@
 | [L'immenso](https://open.spotify.com/track/3NNJzRvSDVuXgJ36TOE3QO) | [Negramaro](https://open.spotify.com/artist/1X9iZlQXfAAx4Vvmlqeao7) | [Una storia semplice \(Deluxe Edition\)](https://open.spotify.com/album/36FHxTwirWpSCwuXJqaaBo) | 3:37 | 2021-09-26 | 2022-07-29 |
 | [L'odore del caffè](https://open.spotify.com/track/5HF1iln0igvRCNulsEYvTL) | [Francesco Renga](https://open.spotify.com/artist/3TAYxk5QBcHunmb0qkeTn2) | [L'altra metà](https://open.spotify.com/album/7lsDANKgIEPsTjsFy4XliR) | 3:52 | 2021-09-26 | 2022-07-13 |
 | [L'ultima notte](https://open.spotify.com/track/63mdY4U0KvnbMkUEc7FHN8) | [ARIETE](https://open.spotify.com/artist/2T4kh33TYdnDesvlQyRst8) | [L'ultima notte](https://open.spotify.com/album/6tv1OcOYdYgDs6lvhYFQ40) | 2:37 | 2023-02-07 |  |
-| [L'universo tranne noi](https://open.spotify.com/track/0RYqzVMfEjbDr1CTL7fta5) | [Max Pezzali](https://open.spotify.com/artist/6FcVd3KlRxozcLl19FMXu9) | [MAX 20](https://open.spotify.com/album/7iCLgEbIDDHWP6UWzbzNJ4) | 4:13 | 2021-09-26 |  |
+| [L'universo tranne noi](https://open.spotify.com/track/0RYqzVMfEjbDr1CTL7fta5) | [Max Pezzali](https://open.spotify.com/artist/6FcVd3KlRxozcLl19FMXu9) | [MAX 20](https://open.spotify.com/album/7iCLgEbIDDHWP6UWzbzNJ4) | 4:13 | 2021-09-26 | 2023-05-21 |
 | [La Cura](https://open.spotify.com/track/3sc9YIcDSPCXsQ0zzX3JLW) | [Franco Battiato](https://open.spotify.com/artist/4lianjyuR1tqf6oUX8kjrZ) | [L'Imboscata](https://open.spotify.com/album/6Ws5YQCEOfwmpTK01EALgv) | 4:03 | 2021-09-26 |  |
 | [La Descrizione Di Un Attimo](https://open.spotify.com/track/1A4N8laeRTrrzmSJZdOoJL) | [Tiromancino](https://open.spotify.com/artist/6hVfhenDWtc36gNLmWIRG5) | [La Descrizione Di Un Attimo](https://open.spotify.com/album/1LNHff1GCfPDzxoYpRpSHj) | 4:29 | 2021-09-26 | 2022-07-07 |
 | [La differenza](https://open.spotify.com/track/4NYQscGbPD7Xn9Z5W1wNio) | [Gianna Nannini](https://open.spotify.com/artist/0h0p7RkMjCUMdcf0nXmHjX) | [La Differenza](https://open.spotify.com/album/6NN8ud1qr77iiGxHSDN7rk) | 3:41 | 2021-09-26 | 2022-07-28 |
@@ -115,6 +115,7 @@
 | [Luce \(Tramonti a Nord Est\)](https://open.spotify.com/track/09g4hFrDdBK3J52I3InPgl) | [Elisa](https://open.spotify.com/artist/2ARH58Hit3yC6ziGdhma23) | [Asile's World](https://open.spotify.com/album/4NAldsRyud3P1gM53MpSEs) | 4:24 | 2021-09-26 | 2022-07-28 |
 | [L’Amore È Una Cosa Semplice](https://open.spotify.com/track/7b0qDOmCeqHIAsGK7j0MbI) | [Tiziano Ferro](https://open.spotify.com/artist/11TplWqOPQBTmg2eiSLt1m) | [L'amore è una cosa semplice \(Special Edition\)](https://open.spotify.com/album/4VqOwLPLbdl3GTNoygOLW1) | 4:02 | 2021-09-26 | 2022-07-16 |
 | [MADAME \- L'anima \(feat\. Madame\)](https://open.spotify.com/track/3go5ZuMoFTKl5ugai8nAKi) | [Marracash](https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7), [Madame](https://open.spotify.com/artist/1vgQksyJ0IVz8y9XerEOy3) | [Persona](https://open.spotify.com/album/3ZOt77e63uMgJXU7xcFpqu) | 3:41 | 2021-09-26 | 2022-12-26 |
+| [Margarita \(con Marracash\)](https://open.spotify.com/track/6KfwIpX0Xo0lelmuUOnyZV) | [Elodie](https://open.spotify.com/artist/7GgpsUpkj3olseoaTY7TEY), [Marracash](https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7) | [This Is Elodie](https://open.spotify.com/album/3EREGNLTHWi1SZCoDKT4Pd) | 2:57 | 2023-02-20 |  |
 | [Margherita](https://open.spotify.com/track/3OmkSLoCJEX505kQOZJg1K) | [Riccardo Cocciante](https://open.spotify.com/artist/7iZC2I6gz8gI0BLe2boBZR) | [Concerto Per Margherita](https://open.spotify.com/album/5cXd8lH3e53AtK7VXpA1Pe) | 4:30 | 2021-09-26 | 2022-07-06 |
 | [Meravigliosa creatura](https://open.spotify.com/track/22PDt2TH3TezXffYMOMUzc) | [Gianna Nannini](https://open.spotify.com/artist/0h0p7RkMjCUMdcf0nXmHjX) | [Dispetto](https://open.spotify.com/album/40UQvvujKUy6xAWqjxx1C5) | 4:32 | 2021-09-26 | 2022-07-19 |
 | [Meraviglioso](https://open.spotify.com/track/1G0KxTR1thsm3VOtMdOlF5) | [Negramaro](https://open.spotify.com/artist/1X9iZlQXfAAx4Vvmlqeao7) | [Una storia semplice \(Deluxe Edition\)](https://open.spotify.com/album/36FHxTwirWpSCwuXJqaaBo) | 4:01 | 2021-09-26 | 2022-07-29 |

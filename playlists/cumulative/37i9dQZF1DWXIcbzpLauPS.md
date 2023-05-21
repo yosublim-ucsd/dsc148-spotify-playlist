@@ -4,7 +4,7 @@
 
 > Metalcore at its finest\. Cover: Spiritbox
 
-688 songs - 1 day 19 hr 20 min
+689 songs - 1 day 19 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -339,7 +339,8 @@
 | [Introspection \(Loathing\)](https://open.spotify.com/track/0UWiDloT2S7C1qL84U8Z3z) | [Dead/Awake](https://open.spotify.com/artist/2Mtcd92iGg5ZXYaSUhZEQm) | [Introspection \(Loathing\)](https://open.spotify.com/album/5q2xn0gUDH4TP8lN5UCeV2) | 2:44 | 2022-07-13 | 2022-07-19 |
 | [Invictus Unto Fire](https://open.spotify.com/track/671wVJrGptwhsVbxyGiMLg) | [The Last Ten Seconds of Life](https://open.spotify.com/artist/3AESf0xMv9HSc3svVqypnY) | [Invictus Unto Fire](https://open.spotify.com/album/3lAOXpQ0cqHwVfMbeSD26I) | 3:21 | 2022-07-13 | 2022-07-20 |
 | [Isolated](https://open.spotify.com/track/5ol2lC3LsGr2ynRo0ptaFE) | [Alex Yarmak](https://open.spotify.com/artist/7BxvbZy8vMWGskAEh3uueA) | [Isolated](https://open.spotify.com/album/6iXKfbzhJ3n48tc0aucqxz) | 3:41 | 2022-05-20 | 2022-07-23 |
-| [It's Hell Down Here](https://open.spotify.com/track/0chASbpWKoTnrXDoPyNSyH) | [The Amity Affliction](https://open.spotify.com/artist/6kNKUYGn6VNGsRoXmyoDPK) | [It's Hell Down Here](https://open.spotify.com/album/2nyvCfPmmT3u7fbF4Hno4a) | 4:00 | 2023-03-31 |  |
+| [It's Hell Down Here](https://open.spotify.com/track/0chASbpWKoTnrXDoPyNSyH) | [The Amity Affliction](https://open.spotify.com/artist/6kNKUYGn6VNGsRoXmyoDPK) | [It's Hell Down Here](https://open.spotify.com/album/2nyvCfPmmT3u7fbF4Hno4a) | 4:00 | 2023-03-31 | 2023-05-21 |
+| [It's Hell Down Here](https://open.spotify.com/track/3vxMfMNjD8k0ozmuVDu0Ai) | [The Amity Affliction](https://open.spotify.com/artist/6kNKUYGn6VNGsRoXmyoDPK) | [Not Without My Ghosts](https://open.spotify.com/album/5IBhAOIYSATI3WY7DgeSl7) | 4:00 | 2023-05-05 |  |
 | [It's Over](https://open.spotify.com/track/1pShlPEW4nhGQeomZLCXtL) | [Silverstein](https://open.spotify.com/artist/1Tsag5J854qxeOo2apszug) | [It's Over](https://open.spotify.com/album/1yA0gGywa2o2KnHnvLUMq9) | 3:23 | 2021-12-17 | 2022-07-23 |
 | [iudicium per ignem](https://open.spotify.com/track/35ifxM5PBTxc871D29YJ27) | [Dead/Awake](https://open.spotify.com/artist/2Mtcd92iGg5ZXYaSUhZEQm) | [iudicium per ignem](https://open.spotify.com/album/2K3TiFdYJLqI7PNvh6VkDL) | 3:40 | 2022-07-13 | 2022-07-23 |
 | [Jabberwocky](https://open.spotify.com/track/20Z3wEq4zdirEQgnB3K5EU) | [RedHook](https://open.spotify.com/artist/6OVWDN6Ty6RfnhUJlrYBlI) | [Jabberwocky](https://open.spotify.com/album/6wbBWQ7nQX7IzB9u6kJaoA) | 3:12 | 2022-05-20 | 2022-08-20 |

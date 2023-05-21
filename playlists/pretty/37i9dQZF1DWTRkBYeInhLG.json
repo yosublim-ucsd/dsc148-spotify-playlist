@@ -1,12 +1,12 @@
 {
   "description": "Lagu-lagu Pop untuk teman bersantai.",
-  "num_followers": 414412,
+  "num_followers": 414768,
   "original_name": "Santai Sejenak",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjNWMxMTAyZDA2YTY2OGY5MzUxY2M3OTI4M2NlMWFiY2M2NGEyM2Jj",
+  "snapshot_id": "MTY4MzU2NzI3MywwMDAwMDAwMGQ3ZDUyOTU3ZmI5MzA1MWI2N2JmZmJlODU1OTFhNmI0",
   "tracks": [
     {
       "added_at": "2023-05-08 17:34:33",
@@ -531,18 +531,18 @@
     {
       "added_at": "2023-05-08 17:34:33",
       "album": {
-        "name": "And the Story Continues...",
-        "url": "https://open.spotify.com/album/1NIbJYN2b3CO92Q75ofpuZ"
+        "name": "The 2000's Greatest",
+        "url": "https://open.spotify.com/album/2hwNRtZyqmEcCzV47OUAlN"
       },
       "artists": [
         {
-          "name": "Marcell",
-          "url": "https://open.spotify.com/artist/0JvUFDnuWPbuyRa6ptVkLk"
+          "name": "Dewa 19",
+          "url": "https://open.spotify.com/artist/48bKH1ugFBhERC1rdojP9d"
         }
       ],
-      "duration_ms": 241763,
-      "name": "Takkan Terganti",
-      "url": "https://open.spotify.com/track/0T4t1PywlNmJGcveGH5spB"
+      "duration_ms": 300512,
+      "name": "Kangen",
+      "url": "https://open.spotify.com/track/3ZyMRe0jlSqffPBMeHUZFX"
     },
     {
       "added_at": "2023-05-08 17:34:33",
@@ -579,18 +579,18 @@
     {
       "added_at": "2023-05-08 17:34:33",
       "album": {
-        "name": "The 2000's Greatest",
-        "url": "https://open.spotify.com/album/2hwNRtZyqmEcCzV47OUAlN"
+        "name": "And the Story Continues...",
+        "url": "https://open.spotify.com/album/1NIbJYN2b3CO92Q75ofpuZ"
       },
       "artists": [
         {
-          "name": "Dewa 19",
-          "url": "https://open.spotify.com/artist/48bKH1ugFBhERC1rdojP9d"
+          "name": "Marcell",
+          "url": "https://open.spotify.com/artist/0JvUFDnuWPbuyRa6ptVkLk"
         }
       ],
-      "duration_ms": 300512,
-      "name": "Kangen",
-      "url": "https://open.spotify.com/track/3ZyMRe0jlSqffPBMeHUZFX"
+      "duration_ms": 241763,
+      "name": "Takkan Terganti",
+      "url": "https://open.spotify.com/track/0T4t1PywlNmJGcveGH5spB"
     },
     {
       "added_at": "2023-05-08 17:34:33",
@@ -1139,22 +1139,6 @@
     {
       "added_at": "2023-05-08 17:34:33",
       "album": {
-        "name": "Peace, Love And Respect",
-        "url": "https://open.spotify.com/album/7DbA8XMgdsnigdg5cfFD1I"
-      },
-      "artists": [
-        {
-          "name": "Gigi",
-          "url": "https://open.spotify.com/artist/2Gp3RWqEXPEV38Oqv5ZiNf"
-        }
-      ],
-      "duration_ms": 212026,
-      "name": "11 Januari",
-      "url": "https://open.spotify.com/track/2Ev8mNT9YHaUIELEKKf4ld"
-    },
-    {
-      "added_at": "2023-05-08 17:34:33",
-      "album": {
         "name": "My Happy Life",
         "url": "https://open.spotify.com/album/26dXMvMY7SSrfGfvMYFmxe"
       },
@@ -1167,6 +1151,22 @@
       "duration_ms": 213213,
       "name": "Menghujam Jantungku",
       "url": "https://open.spotify.com/track/6VmfI8TnfhrFHqImmvubvZ"
+    },
+    {
+      "added_at": "2023-05-08 17:34:33",
+      "album": {
+        "name": "Peace, Love And Respect",
+        "url": "https://open.spotify.com/album/7DbA8XMgdsnigdg5cfFD1I"
+      },
+      "artists": [
+        {
+          "name": "Gigi",
+          "url": "https://open.spotify.com/artist/2Gp3RWqEXPEV38Oqv5ZiNf"
+        }
+      ],
+      "duration_ms": 212026,
+      "name": "11 Januari",
+      "url": "https://open.spotify.com/track/2Ev8mNT9YHaUIELEKKf4ld"
     },
     {
       "added_at": "2023-05-08 17:34:33",
@@ -1235,22 +1235,6 @@
     {
       "added_at": "2023-05-08 17:34:33",
       "album": {
-        "name": "Alexa",
-        "url": "https://open.spotify.com/album/570sRCpoqrYLlOmKVC8yog"
-      },
-      "artists": [
-        {
-          "name": "Alexa",
-          "url": "https://open.spotify.com/artist/4uuAKtwipCmH2ZmVkUce0W"
-        }
-      ],
-      "duration_ms": 241000,
-      "name": "Jangan Kau Lepas",
-      "url": "https://open.spotify.com/track/55AIhUM5HgjJuSdFoJdtSQ"
-    },
-    {
-      "added_at": "2023-05-08 17:34:33",
-      "album": {
         "name": "Kesempurnaan Cinta",
         "url": "https://open.spotify.com/album/0IMFkRKyUm5tkObtRWmjVs"
       },
@@ -1263,6 +1247,22 @@
       "duration_ms": 216019,
       "name": "Kesempurnaan Cinta",
       "url": "https://open.spotify.com/track/18tLvggTFEZuzLdcnuej2u"
+    },
+    {
+      "added_at": "2023-05-08 17:34:33",
+      "album": {
+        "name": "Alexa",
+        "url": "https://open.spotify.com/album/570sRCpoqrYLlOmKVC8yog"
+      },
+      "artists": [
+        {
+          "name": "Alexa",
+          "url": "https://open.spotify.com/artist/4uuAKtwipCmH2ZmVkUce0W"
+        }
+      ],
+      "duration_ms": 241000,
+      "name": "Jangan Kau Lepas",
+      "url": "https://open.spotify.com/track/55AIhUM5HgjJuSdFoJdtSQ"
     },
     {
       "added_at": "2023-05-08 17:34:33",

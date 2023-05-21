@@ -4,7 +4,7 @@
 
 > Esta es la plebada que está marcando tendencia en la Música Mexicana\. Diego Coss en portada.
 
-309 songs - 16 hr 4 min
+310 songs - 16 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,7 +23,7 @@
 | [A Los 15](https://open.spotify.com/track/2fO3naAapGMocVBVXxPPuE) | [Grupo Rocket](https://open.spotify.com/artist/5DcpgbwetMYJL7RFIUbRsV) | [Levantando La Baja](https://open.spotify.com/album/3MoDFYJu00Yu4Fb9HCGSxF) | 3:04 | 2023-05-19 |  |
 | [A Pesar De Todo](https://open.spotify.com/track/54v763MzxJoz7EtgoOkRnF) | [Max Wizard](https://open.spotify.com/artist/0dlUkcvpngiB6q05OnvKme) | [A Pesar De Todo](https://open.spotify.com/album/7IU4tew0q0wwxXDM2zSJ0l) | 3:01 | 2022-08-05 | 2022-10-15 |
 | [A Ti Sí Te Quería](https://open.spotify.com/track/5vq80dky9jZf0VJciFK8rt) | [Polo Gonzalez](https://open.spotify.com/artist/0OpXeanba0vYnyoft00BP6) | [A Ti Sí Te Quería](https://open.spotify.com/album/6B9uZMSCy8qxMLNuTRqyQk) | 2:59 | 2022-10-14 | 2023-05-06 |
-| [Agusto Andamos](https://open.spotify.com/track/0KG5Tk68CBzw0aW9pqrYxz) | [Ldln](https://open.spotify.com/artist/6zUohwxj78LtEvlXR4T8fU), [Doble Código](https://open.spotify.com/artist/3WJNQAlyI8eScOGHVKVONo) | [Agusto Andamos](https://open.spotify.com/album/05Twh5sMxfR3YlpRhhAJBF) | 2:32 | 2023-05-05 |  |
+| [Agusto Andamos](https://open.spotify.com/track/0KG5Tk68CBzw0aW9pqrYxz) | [Ldln](https://open.spotify.com/artist/6zUohwxj78LtEvlXR4T8fU), [Doble Código](https://open.spotify.com/artist/3WJNQAlyI8eScOGHVKVONo) | [Agusto Andamos](https://open.spotify.com/album/05Twh5sMxfR3YlpRhhAJBF) | 2:32 | 2023-05-05 | 2023-05-21 |
 | [Ahí Les Encargo](https://open.spotify.com/track/5OTLcfoLppeI0YC14AUgwq) | [Grupo El Desenlace](https://open.spotify.com/artist/07eoc5V4zo0uT6TNl3iXE2) | [Ahí Les Encargo](https://open.spotify.com/album/0TLF3mBV7Q0Wg8UaRQFUtL) | 2:47 | 2022-12-05 | 2022-12-24 |
 | [Al Ladito De Mi Sombra](https://open.spotify.com/track/4qdPTE5pmLw6FdXTq8iwxw) | [Tapy Quintero](https://open.spotify.com/artist/1CTYCiBGcZTsZBzYoa4pxM), [Fuerza de Tijuana](https://open.spotify.com/artist/0OtCwdMEGIi0GCeLGCO2tQ) | [Al Ladito De Mi Sombra](https://open.spotify.com/album/1YAJoaesc067ftdir8W1EE) | 2:41 | 2023-01-27 | 2023-05-20 |
 | [Al Millón](https://open.spotify.com/track/1ITxkijE0eZUgesUI4Lr3Z) | [El Burger](https://open.spotify.com/artist/55sUDNma3qznDILZgydRHT), [Razeth](https://open.spotify.com/artist/77rxkeN6QawsVfX7J4dm0n), [Alann Mora](https://open.spotify.com/artist/2tYG2qpxONKldJ39D27Zbb) | [Al Millón](https://open.spotify.com/album/4P9XxgcqLfqBrNLHn1RTL0) | 2:18 | 2023-05-05 |  |
@@ -110,6 +110,7 @@
 | [El Mero Mero](https://open.spotify.com/track/1kOzNZLM7Hmdfl7mm3IEpd) | [Beto Sierra](https://open.spotify.com/artist/6kPf6aO5cAHU2RJUDN1UUy), [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO), [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW) | [El Mero Mero](https://open.spotify.com/album/0ZYDVpUhNqMIXdqAv1lrEw) | 3:06 | 2022-08-05 | 2022-09-03 |
 | [El Muchacho Criticado](https://open.spotify.com/track/1Sy1tRL4ZahrECTitUFPXJ) | [Los Del Cristo](https://open.spotify.com/artist/3BarTzhsrWCqdYdTuHaXiK), [Grupo Diez 4tro](https://open.spotify.com/artist/6ubJLRTVzomuWIScbguoSY), [Los de La Lira](https://open.spotify.com/artist/3LfNPEkj2YjpkmAbY5CKhW) | [El Muchacho Criticado](https://open.spotify.com/album/0kQG1vhXQXehzRil28L26b) | 3:16 | 2022-06-17 | 2022-10-08 |
 | [El Panda](https://open.spotify.com/track/2DZAhJ9fCm0Vc2utvxvTOT) | [Luis Escalera](https://open.spotify.com/artist/1EECv9ZeOOBtjcVa3GTEBd) | [De Aquí Hasta El Final \(Vol.1\)](https://open.spotify.com/album/7DG2AnBBVxjcUIfWTHAXzc) | 3:13 | 2023-05-05 | 2023-05-08 |
+| [El Que Le Gusta Ayudar](https://open.spotify.com/track/0y3pVKsIFlT32ztCkZg2KY) | [Manuel Rodriguez](https://open.spotify.com/artist/2tSneO7PgprETUeUA8NfDH) | [El Que Le Gusta Ayudar](https://open.spotify.com/album/7oK6nN298LTRN7l1iOCfub) | 2:52 | 2023-05-19 |  |
 | [El Rayo](https://open.spotify.com/track/0ev44APmsOEmBdbmQqzafj) | [Asael gonzález](https://open.spotify.com/artist/3DyEm50kp38Gjzqi1Lbbk7) | [El Rayo](https://open.spotify.com/album/0e17jJlx78tIV0p45nYJCE) | 3:38 | 2022-12-23 | 2023-04-15 |
 | [El Rayo \- En Vivo](https://open.spotify.com/track/1dYqyMhfDHqM7bg86LaBuP) | [Asael gonzález](https://open.spotify.com/artist/3DyEm50kp38Gjzqi1Lbbk7), [Virlan Garcia](https://open.spotify.com/artist/0vjeBgTzYTwmYoVySJzXGD), [Angel Cervantes](https://open.spotify.com/artist/3cbOif2nNznwEiNw9Ty8NJ), [Daniel Vazquez](https://open.spotify.com/artist/4kh6gKONPBfkCCd818b1PS) | [El Rayo \(En Vivo\)](https://open.spotify.com/album/5UGAr42pCKgHawjD7ouV5y) | 3:46 | 2023-04-14 |  |
 | [El Rescate](https://open.spotify.com/track/4w273WCBXwM4P3jTX5HkB2) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC), [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [El Rescate](https://open.spotify.com/album/32QttkMiHZ1eXkXv6BVGcP) | 2:40 | 2022-08-05 | 2022-10-01 |

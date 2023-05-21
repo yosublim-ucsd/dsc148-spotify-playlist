@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcwHMQ31Y15k.md) - [plain]
 
 > Sopo wae sing ngerti, yuk nyanyi sik\. Cover: Woro Widowati
 
-[Spotify](https://open.spotify.com/user/spotify) - 128,897 likes - 92 songs - 7 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 129,065 likes - 92 songs - 7 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -101,4 +101,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcwHMQ31Y15k.md) - [plain]
 | 91 | [Lilakno Lungaku](https://open.spotify.com/track/6knc0ByasDCvGNlQPHYUFX) | [Losskita](https://open.spotify.com/artist/3BifJ2eD9KMFgAGa8LbPtI) | [Lilakno Lungaku](https://open.spotify.com/album/50hlFnDrEYiYp0lOReAxgb) | 5:35 |
 | 92 | [Mundur Alon Alon](https://open.spotify.com/track/79mIVkf9j6wtG23QNkKfxZ) | [ILUX](https://open.spotify.com/artist/1GqTmXUOowfkWW1Ozg44bt) | [Mundur Alon Alon](https://open.spotify.com/album/6d3P0uJ5yNcZ0jkZRmIWmU) | 4:11 |
 
-Snapshot ID: `MCxmMDI4ZDYyMWJlNTBmM2MzZTIwYWEyZDg0NTdkMDdhNzY3ZDNmNjBi`
+Snapshot ID: `MCw4YjM0NjJjOGIyYTMwOTJmMDg0ZDM0YWMyMzIzNTdmMDc5ODc1YTEy`

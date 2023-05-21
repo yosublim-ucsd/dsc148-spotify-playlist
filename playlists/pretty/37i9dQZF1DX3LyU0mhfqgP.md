@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3LyU0mhfqgP.md) - [plain]
 
 > The hottest songs from LGBTQIA+ artists\. Cover: MUNA
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,102,766 likes - 50 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,102,668 likes - 50 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3LyU0mhfqgP.md) - [plain]
 | 49 | [Becky's So Hot](https://open.spotify.com/track/2EcCA2kB4yOrlmv3qjsvQc) | [FLETCHER](https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg) | [Girl Of My Dreams \(Deluxe\)](https://open.spotify.com/album/5KbQGzcWL7VgTeLqjftNWH) | 2:42 |
 | 50 | [Herringbone](https://open.spotify.com/track/3H8LDeOmHo0Z1CCRy56zm8) | [Greyson Chance](https://open.spotify.com/artist/0Qnx1MPnHYt3jJCYrRFVwX) | [Herringbone](https://open.spotify.com/album/7gEom42NatFoQyC4wMu3TW) | 3:36 |
 
-Snapshot ID: `MCw5YjI1YWE2ODRhNTcwOGQzMzQzZTQ5NGM1MTMxZTZlMWZiM2YxYWEw`
+Snapshot ID: `MCwwYzA1M2M0YjBhZjI2ZmViYmQwZTYzYTEzMmIyYTJmZjJmZjQ2NWNl`

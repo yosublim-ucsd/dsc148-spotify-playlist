@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5U9LWxuimGj.md) - [plain]
 
 > Country music with a Latin flair\. Cover: Carin Leon
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,107 likes - 101 songs - 5 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,136 likes - 101 songs - 5 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,7 +54,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5U9LWxuimGj.md) - [plain]
 | 44 | [That Kind of Cowboy](https://open.spotify.com/track/18ZH8MilaP3O2FVZhb0JYO) | [The Last Bandoleros](https://open.spotify.com/artist/3Zk03qhmFLepNYW2atWkmE) | [Tex Flex](https://open.spotify.com/album/4BEnJ4m3oTjGbFWfhdb0VI) | 2:57 |
 | 45 | [I Want It All](https://open.spotify.com/track/1Td2fjoRbqG8TKAe2sjqS1) | [Kat & Alex](https://open.spotify.com/artist/6K4y1ejK5kZ0kRdgCv5bRg) | [I Want It All](https://open.spotify.com/album/4UtZVkoehTswX1XyGvgT6X) | 3:21 |
 | 46 | [Drinkin' Problem \(Brindemos\)](https://open.spotify.com/track/7AY1uEEkYfFLFCEuc8QvUH) | [Midland](https://open.spotify.com/artist/1DTZRmlVZBxx2wRQBtx6yi), [Jay de la Cueva](https://open.spotify.com/artist/2PQW0MnXmZd19XKZQyoPgu) | [Drinkin' Problem \(Brindemos\)](https://open.spotify.com/album/0yGUU5Wcj5PBvXOyMWuGp5) | 3:40 |
-| 47 | [Tequila Sundown](https://open.spotify.com/track/4nN7chRIK66RfXKTqM3GwS) | [Jon Wolfe](https://open.spotify.com/artist/7fmSLVnnxwwMYj8Wc0rKyp) | [Dos Corazones Chapter One](https://open.spotify.com/album/58qPvTFiBZPYubdX9GVFNM) | 3:52 |
+| 47 | [Tequila Sundown](https://open.spotify.com/track/0ChzKEth6qOLucWCb1BFdC) | [Jon Wolfe](https://open.spotify.com/artist/7fmSLVnnxwwMYj8Wc0rKyp) | [Dos Corazones](https://open.spotify.com/album/4syic3hPRQ5oKFfkI6O5Cs) | 3:52 |
 | 48 | [Streetlights](https://open.spotify.com/track/4j0z2wrQdQBmgXjXE4PpoK) | [Frank Ray](https://open.spotify.com/artist/0LsBi7JKqWFCiFi0FsTbXF) | [Streetlights](https://open.spotify.com/album/6NwL9TmFyXn82jzcgvdLOL) | 3:10 |
 | 49 | [I Am a Mexican](https://open.spotify.com/track/5v3JieJAHIspWkXNVy5rHq) | [Rick Trevino](https://open.spotify.com/artist/28yWs7I4FXiDyBuHoZqkY8), [Flaco Jimenez](https://open.spotify.com/artist/0VKuugYO6uuSOCGO62vk0M) | [I Am a Mexican](https://open.spotify.com/album/1Qij0nelotbxl3wu3h0rx8) | 3:24 |
 | 50 | [Paraíso \(Heaven\) \- Ao Vivo](https://open.spotify.com/track/2WJdzFwnx0weS4sekT175s) | [Fernando & Sorocaba](https://open.spotify.com/artist/1oSgjdbgLYULVmEBojPRw8), [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [Paraíso \(Heaven\) \[Ao Vivo\]](https://open.spotify.com/album/0hD5CDJxCMjN5vw11oFeGD) | 2:55 |
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5U9LWxuimGj.md) - [plain]
 | 100 | [Cuando Vuelvas](https://open.spotify.com/track/52s1L7krzR2JL4L1Vi7V3X) | [Paty Cantú](https://open.spotify.com/artist/7K9rdoOJSiKXoVXPlSkGKT) | [Cuando Vuelvas](https://open.spotify.com/album/3CR8IuxBLpzBR1vjS9ONkJ) | 3:13 |
 | 101 | [Tonto](https://open.spotify.com/track/33wYgNxWB4MXTiv6L36SoO) | [Stefano Manrique](https://open.spotify.com/artist/5QmOgnigMzwCp9MXowvpFP) | [Country Pop Latino](https://open.spotify.com/album/2UXkZRTHGwRSVKSwbdtwqm) | 3:00 |
 
-Snapshot ID: `MCxlMDJmODZlMDc5YjU5ZGY2MTkwZjVlMDcyYjc1ZGVkZTBjM2RiNWE2`
+Snapshot ID: `MCw3ZWI4M2RkYmIyZGVjMTFkOTg3NGRiYjliMTRkZTc4NTBjYjFkMmUz`

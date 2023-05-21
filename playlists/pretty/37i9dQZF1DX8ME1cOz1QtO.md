@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ME1cOz1QtO.md) - [plain]
 
 > Find the path back to an era of enlightenment.
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,358 likes - 100 songs - 11 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,460 likes - 100 songs - 11 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ME1cOz1QtO.md) - [plain]
 | 21 | [Oxygene, Pt\. 3](https://open.spotify.com/track/2A1Xj74FRxsLuD2cloaCKO) | [Jean\-Michel Jarre](https://open.spotify.com/artist/5MhLmv7GgyjbxGqiIGasvT) | [Oxygène](https://open.spotify.com/album/3e7TxckusgnC1AYnAqbl2z) | 3:16 |
 | 22 | [Alpha](https://open.spotify.com/track/1qkp9OvCk8FjeDdEd2bKQ6) | [Vangelis](https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6) | [Albedo 0.39](https://open.spotify.com/album/7M2EhhKnJYcmluPNzmB35N) | 5:44 |
 | 23 | [Behind the Gardens, Behind the Wall, Under the Tree...](https://open.spotify.com/track/5mB5bx5TTaxawgHXbNhLtO) | [Andreas Vollenweider](https://open.spotify.com/artist/7MynOMOTsGz8NFcPUImWAp), [Walter Keiser](https://open.spotify.com/artist/3LfEGh0Nwxa7mJ79Q1kTkX), [Pedro Haldemann](https://open.spotify.com/artist/5hvDMqDnlZLm5opdeqgkE2) | [Behind the Gardens, Behind the Wall, Under the Tree...](https://open.spotify.com/album/1wDxqZZTnQNubYdiNKor9k) | 7:20 |
-| 24 | [Ursa Minor](https://open.spotify.com/track/2E78fpMP8NgoFa29Vb6Iaq) | [Cusco](https://open.spotify.com/artist/7Mf91RZQ8YcvY0p3DfMc0f) | [Planet Voyage](https://open.spotify.com/album/0GViiRz9x2LRw19fHCr3sl) | 3:49 |
-| 25 | [Rising Sun](https://open.spotify.com/track/3eFvPXHvHhjCbi48GaDVGq) | [Kitaro](https://open.spotify.com/artist/6CTNhXJKT6SdsQspUDIGiY) | [Oasis \[Remastered\]](https://open.spotify.com/album/3jjaMGNHEM7I4PyzryqmbA) | 6:24 |
+| 24 | [Rising Sun](https://open.spotify.com/track/3eFvPXHvHhjCbi48GaDVGq) | [Kitaro](https://open.spotify.com/artist/6CTNhXJKT6SdsQspUDIGiY) | [Oasis \[Remastered\]](https://open.spotify.com/album/3jjaMGNHEM7I4PyzryqmbA) | 6:24 |
+| 25 | [Ursa Minor](https://open.spotify.com/track/2E78fpMP8NgoFa29Vb6Iaq) | [Cusco](https://open.spotify.com/artist/7Mf91RZQ8YcvY0p3DfMc0f) | [Planet Voyage](https://open.spotify.com/album/0GViiRz9x2LRw19fHCr3sl) | 3:49 |
 | 26 | [Meditation No\. 1](https://open.spotify.com/track/3Z9PWaE8d55XcOxEHwx6U8) | [Laraaji](https://open.spotify.com/artist/6sd3qv6kReAdo6WsLBtXX4), [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Ambient 3: Day Of Radiance](https://open.spotify.com/album/42Lahj8mKJKxPgncRXPuPw) | 18:47 |
 | 27 | [To the Unknown Man](https://open.spotify.com/track/0024tEymsoc9FyKUauQngQ) | [Vangelis](https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6) | [Spiral](https://open.spotify.com/album/6Tz3gRyPvHv8eDT5RZ2xXX) | 9:06 |
 | 28 | [Mumtaz Mahal](https://open.spotify.com/track/5B081R4ZB10dcY1w9sGcCq) | [Paul Horn](https://open.spotify.com/artist/1LI9iEq0loU9cdIa1dxVDj) | [Inside The Taj Mahal](https://open.spotify.com/album/5CI3eqdKUPVR2nB32qGgUP) | 3:24 |
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ME1cOz1QtO.md) - [plain]
 | 31 | [Aldebaran](https://open.spotify.com/track/60hzUuOVktVPzrfBlhSk5A) | [Enya](https://open.spotify.com/artist/6uothxMWeLWIhsGeF7cyo4) | [The Celts](https://open.spotify.com/album/3qPIe6YsuQ0qzg6bSEQjfv) | 3:05 |
 | 32 | [Carnation Lily Lily Rose](https://open.spotify.com/track/41SpUaJByH1FIxiYeZUmSi) | [David Arkenstone](https://open.spotify.com/artist/21Uejbf0dmBe3tEOUhWWt0), [Andrew White](https://open.spotify.com/artist/6SkbDEpXcIA4hXjre6qFLT) | [Island](https://open.spotify.com/album/7FKNk8OPsuVSlAx9sBXtZr) | 4:48 |
 | 33 | [Theme From Antarctica \- Remastered](https://open.spotify.com/track/6NSVAJKZJnEO8DDYBKHHQo) | [Vangelis](https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6) | [Antarctica \(Remastered\)](https://open.spotify.com/album/4laD2qU7EURjXbVMbazkj0) | 7:25 |
-| 34 | [Wolkenreise \- 2012 Remastered Version](https://open.spotify.com/track/299qULtMwzvUiUIfLyWArc) | [Eroc](https://open.spotify.com/artist/7cRkblZrsjG5oxg9JKwZC4) | [Wolkenreise II](https://open.spotify.com/album/0z4VCxSxe0oe5o4Zbz0RqM) | 4:32 |
-| 35 | [See My Wings Shining: Brow / 3rd Eye Chakra](https://open.spotify.com/track/55QGndKaKmUFSLGejUj6k1) | [Kay Gardner](https://open.spotify.com/artist/2oF8YcqibVMuuSPLwSmEQ3) | [A Rainbow Path](https://open.spotify.com/album/02DfyYuGqvXbVw5KcCcdqY) | 6:17 |
+| 34 | [See My Wings Shining: Brow / 3rd Eye Chakra](https://open.spotify.com/track/55QGndKaKmUFSLGejUj6k1) | [Kay Gardner](https://open.spotify.com/artist/2oF8YcqibVMuuSPLwSmEQ3) | [A Rainbow Path](https://open.spotify.com/album/02DfyYuGqvXbVw5KcCcdqY) | 6:17 |
+| 35 | [Wolkenreise \- 2012 Remastered Version](https://open.spotify.com/track/299qULtMwzvUiUIfLyWArc) | [Eroc](https://open.spotify.com/artist/7cRkblZrsjG5oxg9JKwZC4) | [Wolkenreise II](https://open.spotify.com/album/0z4VCxSxe0oe5o4Zbz0RqM) | 4:32 |
 | 36 | [Midnight On Mars](https://open.spotify.com/track/5rVFG1UpzRO70YGdu634cK) | [Ashra](https://open.spotify.com/artist/4qzIpmopZ2KVodpmw7uJKe) | [Blackouts](https://open.spotify.com/album/140BMrMHrJKORgGdutEFde) | 6:56 |
 | 37 | [Spirales](https://open.spotify.com/track/0kewjdlSTKlF1GbBiXbfVc) | [Deuter](https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB) | [San](https://open.spotify.com/album/0lVpMl5G0dDi4mReNiJbhS) | 6:54 |
 | 38 | [By Your Grace](https://open.spotify.com/track/579p22QFJ8bkdQLXp0VBy7) | [Beaver & Krause](https://open.spotify.com/artist/6ssIHNGjiohpzxmB3tDIgv) | [In A Wild Sanctuary/Gardharva](https://open.spotify.com/album/1B7FI5QL7KDDSR4mxIXdvJ) | 5:14 |
@@ -100,8 +100,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ME1cOz1QtO.md) - [plain]
 | 90 | [Processional: Root Chakra](https://open.spotify.com/track/6J0uoAi0NEoH6bTtNZIV76) | [Kay Gardner](https://open.spotify.com/artist/2oF8YcqibVMuuSPLwSmEQ3) | [A Rainbow Path](https://open.spotify.com/album/02DfyYuGqvXbVw5KcCcdqY) | 5:23 |
 | 91 | [Carmel Valley Sunset](https://open.spotify.com/track/3ByxuWhBseyN2kkhImsJjr) | [David Casper](https://open.spotify.com/artist/50mjb7KMd745XerQx3jeGI) | [Hear and Be Yonder](https://open.spotify.com/album/1ZWMulajDJxasDcb3iNnS0) | 7:45 |
 | 92 | [Abraxas](https://open.spotify.com/track/6dwE9pYlCT9K1XDyUHk8d2) | [Deuter](https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB), [Chaitanya Hari Deuter](https://open.spotify.com/artist/6ShqyafouDcEeQVmdVuTzR) | [Aum](https://open.spotify.com/album/2zbD4U3puoA9NLEeW6BcZo) | 1:56 |
-| 93 | [Lifeforce Celebration](https://open.spotify.com/track/5FI2qrfwNS8Leq5Vo3txcu) | [Emerald Web](https://open.spotify.com/artist/4pXW1cANcBgMaLvVwCfsMe) | [Dragon Wings and Wizard Tales](https://open.spotify.com/album/28yG3trjPCbTDtKbTgm9Pf) | 4:09 |
-| 94 | [Genesis](https://open.spotify.com/track/6foq1vyWppNQuytR8OgSbI) | [Robert Bearns](https://open.spotify.com/artist/08uXRHg7U0r2Ft4KYijlyM), [Ron Dexter](https://open.spotify.com/artist/6HniY6qh1PML5gnGtOvajN) | [The Best of the Golden Voyage](https://open.spotify.com/album/2oRkIWMPSk75rRz19MxzPh) | 5:16 |
+| 93 | [Genesis](https://open.spotify.com/track/6foq1vyWppNQuytR8OgSbI) | [Robert Bearns](https://open.spotify.com/artist/08uXRHg7U0r2Ft4KYijlyM), [Ron Dexter](https://open.spotify.com/artist/6HniY6qh1PML5gnGtOvajN) | [The Best of the Golden Voyage](https://open.spotify.com/album/2oRkIWMPSk75rRz19MxzPh) | 5:16 |
+| 94 | [Lifeforce Celebration](https://open.spotify.com/track/5FI2qrfwNS8Leq5Vo3txcu) | [Emerald Web](https://open.spotify.com/artist/4pXW1cANcBgMaLvVwCfsMe) | [Dragon Wings and Wizard Tales](https://open.spotify.com/album/28yG3trjPCbTDtKbTgm9Pf) | 4:09 |
 | 95 | [Pagnifico \- Remastered](https://open.spotify.com/track/0VDYvtQF5rtN9a7XshFZCd) | [Ariel Kalma](https://open.spotify.com/artist/1XDHnXR3sd1pGoc7vqUtBq) | [Open Like a Flute](https://open.spotify.com/album/0TrS3HBuDtFY8E912RmRpP) | 17:21 |
 | 96 | [Mirador](https://open.spotify.com/track/6jAgEFRzUTkZaJa3PEDxeP) | [Bernard Xolotl](https://open.spotify.com/artist/1zPW8LJCZtjOljaZ6Fba1e) | [Procession](https://open.spotify.com/album/6s8wTtA4phZHStyUIKmSt3) | 15:36 |
 | 97 | [Inside Celeste](https://open.spotify.com/track/1F0gPy2GloSd4kh9rS26yc) | [Cobalt](https://open.spotify.com/artist/7dRNII6Q9yt3eH0lZa40tp) | [Astral Travels](https://open.spotify.com/album/0KGv5Eo6JF7gck6HiqsA1S) | 2:57 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ME1cOz1QtO.md) - [plain]
 | 99 | [In the Beginning](https://open.spotify.com/track/1bHEqY4jyrGA1S4cC61scR) | [Michael Stearns](https://open.spotify.com/artist/5KbIofwaAvbvvkzG2zbmGD) | [Soul Jazz Records Presents Space, Energy & Light: Experimental Electronic and Acoustic Soundscapes 1961\-88](https://open.spotify.com/album/4klqR6x6zW58RaW1y2ffSI) | 8:01 |
 | 100 | [Oceans And Continents](https://open.spotify.com/track/0ed3H4bTqKqEVGfIlxFpSo) | [Jan Hammer](https://open.spotify.com/artist/50zRydJXfkLzGIOj9mITfy) | [The First Seven Days](https://open.spotify.com/album/4YZWubqC55tYqj1HjyUkUR) | 6:16 |
 
-Snapshot ID: `MCxiYjIzOTY4YjIzYjNiOGM1ODEyMDdjMDRlNTljYjFkZWY4ZmNhODFk`
+Snapshot ID: `MCw3NGQyZTUxZWM5NWE4YjNhYmY1ODdiYmMxODg0OTM0ZDhjMjg2ZDk4`

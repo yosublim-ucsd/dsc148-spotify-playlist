@@ -4,7 +4,7 @@
 
 > Soft and cozy vocal and instrumental Jazz\. Cover: Melody Gardot
 
-270 songs - 20 hr 8 min
+271 songs - 20 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -90,7 +90,7 @@
 | [Good Morning Heartache](https://open.spotify.com/track/762FeIx1AXpUBRXd8zbFDB) | [Flora Martínez](https://open.spotify.com/artist/7gjr06Lie1BDJuefW3v9YQ), [Fi Maróstica](https://open.spotify.com/artist/6YT55fXGg6nMvzH6XpUlOP), [Leo Gasso](https://open.spotify.com/artist/241oJtKxM4JAbhH9F23CJN), [Jose Reinoso](https://open.spotify.com/artist/2yWY3Ocvnnu0at3c976leJ) | [Good Morning Heartache](https://open.spotify.com/album/1pQVULMV34Hv31Zv5zbGsR) | 3:13 | 2021-12-17 | 2023-01-03 |
 | [Guess Who I Saw Today](https://open.spotify.com/track/0HW2RKF80cPR9mnN5T5Rum) | [Samara Joy](https://open.spotify.com/artist/5LkbTSqXfMBjFSGi9LOGjq) | [Linger Awhile](https://open.spotify.com/album/1TZ16QfCsARON0efp6mGga) | 4:09 | 2022-09-22 | 2023-04-27 |
 | [Happy Little Sunshine Beam](https://open.spotify.com/track/0qvMxJURxqDKDPPCyZSYqm) | [Marína Ósk](https://open.spotify.com/artist/7y8DYLVX5I1HonLm7j26U8) | [One Evening in July](https://open.spotify.com/album/1yiTkfeQNG2CDc7AaYru01) | 4:56 | 2022-08-30 | 2023-04-04 |
-| [Hate is the Basis \(of Love\)](https://open.spotify.com/track/18kXbj6FWCBcWB1Tf3POc3) | [Rachael & Vilray](https://open.spotify.com/artist/3UHyuBA5qay3xcxFr3Z1Y9) | [I Love A Love Song!](https://open.spotify.com/album/0j551HTufOYW6EJ9CQwNrD) | 3:33 | 2023-01-17 |  |
+| [Hate is the Basis \(of Love\)](https://open.spotify.com/track/18kXbj6FWCBcWB1Tf3POc3) | [Rachael & Vilray](https://open.spotify.com/artist/3UHyuBA5qay3xcxFr3Z1Y9) | [I Love A Love Song!](https://open.spotify.com/album/0j551HTufOYW6EJ9CQwNrD) | 3:33 | 2023-01-17 | 2023-05-21 |
 | [High, Wide and Handsome: The Folks Who Live on the Hill](https://open.spotify.com/track/2N8UU86Y1SOSMWpXtIqRV1) | [Paul Motian Trio 2000 + One](https://open.spotify.com/artist/6ablJgrdQ5HMaWKqxbGLSC) | [On Broadway, Vol\. 4: The Paradox of Continuity](https://open.spotify.com/album/5vy138qK08Tm7oqjBROeJn) | 4:56 | 2022-08-11 | 2022-08-31 |
 | [How Deep Is The Ocean](https://open.spotify.com/track/6DcnA13j0itZwmg4BpqWZk) | [Diana Krall](https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL) | [How Deep Is The Ocean](https://open.spotify.com/album/6aSqIS4egZCz5jEYrQopJj) | 5:18 | 2021-12-17 |  |
 | [How Long](https://open.spotify.com/track/3VKEFn4xRdTOcHrLsCOMFb) | [Ksenia Parkhatskaya](https://open.spotify.com/artist/6AZm6N0cbEAzLkxdlbzbmy) | [Colours](https://open.spotify.com/album/1mThTkKwU2AUYhDfs0hG2O) | 4:35 | 2022-02-18 |  |
@@ -201,6 +201,7 @@
 | [Someone To Watch Over Me \(feat\. Pasquale Grasso\)](https://open.spotify.com/track/7MCGBbLKg9BS7lQS1S5SN5) | [Samara Joy](https://open.spotify.com/artist/5LkbTSqXfMBjFSGi9LOGjq), [Pasquale Grasso](https://open.spotify.com/artist/7M6Meoc3uCzIyRP7V8HQQY) | [Linger Awhile](https://open.spotify.com/album/1TZ16QfCsARON0efp6mGga) | 4:02 | 2022-11-15 | 2023-05-19 |
 | [Something Cool](https://open.spotify.com/track/1UijIdqBv8hJEw6BWk1wE8) | [María Esteban Quintet](https://open.spotify.com/artist/2sZxjmgR2KmuFB54tvc9YY), [María Esteban](https://open.spotify.com/artist/2IGB5nA5VbGU7bKSoJMqMN), [Edu Cabello](https://open.spotify.com/artist/0THtNsDRswHw7gbFaPrVU9), [Rai Paz](https://open.spotify.com/artist/7fyYCDMJffGkMcoatNcKHk), [Xavi Castillo](https://open.spotify.com/artist/5dC65gJBz1D1xqPE4PnKDp), [Santi Colomer](https://open.spotify.com/artist/39eWTAyXJRsLxEvTjJPvwa) | [Something Cool](https://open.spotify.com/album/4jEw3uFBNJqFZz43DDTbgQ) | 5:12 | 2022-08-16 | 2023-04-11 |
 | [Sometimes I'm Happy](https://open.spotify.com/track/4xvGnlrVvtqP5q6gTdmhCH) | [Carol Welsman](https://open.spotify.com/artist/5nw4wMgfImhoebM0e2MzSR) | [Fourteen](https://open.spotify.com/album/62VsGN7VqFAOxSkFyy6v8X) | 3:04 | 2022-09-20 |  |
+| [Sometimes Today Seems Like Yesterday](https://open.spotify.com/track/4suPwKFZtB6ztKoTzppeYR) | [Samara Joy](https://open.spotify.com/artist/5LkbTSqXfMBjFSGi9LOGjq) | [Linger Awhile \(Deluxe Edition\)](https://open.spotify.com/album/1kQH5ZtEqzJ5GxyTtfHKE3) | 3:03 | 2023-05-18 |  |
 | [Spring Can Really Hang You Up The Most](https://open.spotify.com/track/1Rx7TVIX8t9pZFJdLq0vvY) | [Bill Charlap Trio](https://open.spotify.com/artist/5isSr1JUeHt5cgh8oWz1Ja) | [Uptown, Downtown](https://open.spotify.com/album/5sLAAuNixDNK7b91imiLfM) | 7:54 | 2021-12-17 |  |
 | [Spring Can Really Hang You Up The Most](https://open.spotify.com/track/0NUb2Cl5fs58ZPuZBYXnj6) | [Nicole Zuraitis](https://open.spotify.com/artist/7G5hZmmEd71pbEqiBNWp8A), [Carmen Staaf](https://open.spotify.com/artist/2xr1royHsrxmyorwGs51V7) | [Spring Can Really Hang You Up The Most](https://open.spotify.com/album/7s5zoUP13Lzz1KT2NLXp6u) | 5:58 | 2022-03-31 |  |
 | [Spring Can Really Hang You Up The Most \- Demo](https://open.spotify.com/track/24mo3C5GuVTfoL8vedPMqL) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [Come Away With Me \(Super Deluxe Edition\)](https://open.spotify.com/album/3ArSFkv4OQOosOvYTrZNIl) | 3:48 | 2022-07-28 |  |

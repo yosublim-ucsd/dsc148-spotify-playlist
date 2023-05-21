@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc57cuGAMEkA.md) - [plain]
 
 > 洋楽を中心に今週の新曲をチェック。Lewis Capaldi, Post Malone, Maroon 5,  KAYTRAMINEand more! cover: Lewis Capaldi
 
-[Spotify](https://open.spotify.com/user/spotify) - 90,222 likes - 84 songs - 4 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 90,234 likes - 84 songs - 4 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -93,4 +93,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc57cuGAMEkA.md) - [plain]
 | 83 | [Don't You Dare Stop](https://open.spotify.com/track/3Ov7P2MYmiZYWOA65sApFj) | [Say She She](https://open.spotify.com/artist/1WGb8nCPGJA0RyriSDIQfC) | [Reeling / Don't You Dare Stop](https://open.spotify.com/album/2HFVMUEIfaPQUJt5v1Jg7m) | 4:31 |
 | 84 | [A Town with an Ocean View \- from 'Kiki's Delivery Service'](https://open.spotify.com/track/3Cc3gM7VhwZI7KkAobM8ei) | [Joe Hisaishi](https://open.spotify.com/artist/7nzSoJISlVJsn7O0yTeMOB), [ロイヤル・フィルハーモニー管弦楽団](https://open.spotify.com/artist/7Ah35lhlp7p3HOVmmzJh2I) | [A Town with an Ocean View \(from 'Kiki's Delivery Service'\)](https://open.spotify.com/album/3gbbWw3D2YPXxN4pGLbQ2H) | 3:58 |
 
-Snapshot ID: `MCxhYWQzY2VlMTI5MWM3ODhkYmFhZmY0ZjVmNzY3MzVhMDc5MzhmN2Rl`
+Snapshot ID: `MCwyNzVhZDNmNTMwY2RiZGRlOGExOTkwNTJmMGE0MWY5MjA2MDQ1YmJj`

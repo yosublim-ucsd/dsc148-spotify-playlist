@@ -4,7 +4,7 @@
 
 > Any songs you forgot existed? Let's go deep into 80s rock! Cover: Def Leppard.
 
-519 songs - 1 day 13 hr 31 min
+520 songs - 1 day 13 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -296,6 +296,7 @@
 | [Nothing Ever Happens](https://open.spotify.com/track/3jXF03tYOTMWempa7nrqTA) | [Del Amitri](https://open.spotify.com/artist/2Q4FnG5T6NTUcAAZwuMV5K) | [Waking Hours](https://open.spotify.com/album/0Lc01v8Q9j9WW2XyGtxzdx) | 3:53 | 2020-12-08 | 2022-07-24 |
 | [On the Turning Away](https://open.spotify.com/track/7KA6U0WOHdGxWWLGPYN2Sb) | [Pink Floyd](https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9) | [A Momentary Lapse of Reason](https://open.spotify.com/album/4xODvcpjOOgu4oKWL0sCte) | 5:41 | 2020-12-08 |  |
 | [On The Turning Away \- 2011 Remastered Version](https://open.spotify.com/track/0R797G9o4tkDfRZj6KMnHS) | [Pink Floyd](https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9) | [A Momentary Lapse Of Reason \(2011 Remastered Version\)](https://open.spotify.com/album/1tWgv9v78StWukBRBVNyxA) | 5:41 | 2020-12-08 | 2022-07-29 |
+| [Once Bitten Twice Shy](https://open.spotify.com/track/07nxmAxwhY51juyImllKD2) | [Great White](https://open.spotify.com/artist/6ZPbX2Lxd40e2UVkXpyxvI) | [Twice Shy](https://open.spotify.com/album/7EV1o7drnL1jKZMwzFAqH8) | 5:22 | 2022-11-17 |  |
 | [Once Bitten Twice Shy](https://open.spotify.com/track/7pkWZL0kA26s754CwyK0SH) | [Great White](https://open.spotify.com/artist/6ZPbX2Lxd40e2UVkXpyxvI) | [Twice Shy](https://open.spotify.com/album/0gPfgxBDkrtJgwIkziS8LI) | 5:22 | 2020-12-08 | 2023-05-13 |
 | [One For The Mockingbird](https://open.spotify.com/track/6UORIC3F1w2Va3npZlEjY6) | [Cutting Crew](https://open.spotify.com/artist/3cniTumSiUysiPWXapGx1i) | [Broadcast](https://open.spotify.com/album/3wCe8HjHk6QNGcf5D3jgW1) | 4:31 | 2020-12-08 | 2022-07-23 |
 | [One In A Million](https://open.spotify.com/track/1dKUedvGLfp8byiThM1TO0) | [Guns N' Roses](https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC) | [G N' R Lies](https://open.spotify.com/album/1RCAG3LrDwYsNU5ZiUJlWi) | 6:11 | 2020-12-08 | 2022-07-29 |
@@ -428,7 +429,7 @@
 | [The Blood](https://open.spotify.com/track/5l9iGzxu8h9wA1meQUZ9X4) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [The Head On The Door](https://open.spotify.com/album/7zJzNs8eVgbkVVSQSwKRtx) | 3:43 | 2020-12-08 | 2022-06-28 |
 | [The Camera Eye](https://open.spotify.com/track/0hBby0yygBY1u3m6tSpZgC) | [Rush](https://open.spotify.com/artist/2Hkut4rAAyrQxRdof7FVJq) | [Moving Pictures \(2011 Remaster\)](https://open.spotify.com/album/2xg7iIKoSqaDNpDbJnyCjY) | 10:58 | 2020-12-08 | 2022-07-21 |
 | [The Dead Heart \- 2007 Remastered](https://open.spotify.com/track/7nfGP5B3Pc508kEb6zL6r9) | [Midnight Oil](https://open.spotify.com/artist/72KyoXzp0NOQij6OcmZUxk) | [Diesel And Dust](https://open.spotify.com/album/243XzHQegX82bPnUVQ0SPV) | 5:11 | 2020-12-08 |  |
-| [The Deeper the Love \- 2019 Remaster](https://open.spotify.com/track/63ZBSZ8zBvfGNK24BLMPAi) | [Whitesnake](https://open.spotify.com/artist/3UbyYnvNIT5DFXU4WgiGpP) | [Slip of the Tongue \(2019 Remaster\)](https://open.spotify.com/album/2Iw4US700y8VXdGp20nNoK) | 4:19 | 2020-12-08 |  |
+| [The Deeper the Love \- 2019 Remaster](https://open.spotify.com/track/63ZBSZ8zBvfGNK24BLMPAi) | [Whitesnake](https://open.spotify.com/artist/3UbyYnvNIT5DFXU4WgiGpP) | [Slip of the Tongue \(2019 Remaster\)](https://open.spotify.com/album/2Iw4US700y8VXdGp20nNoK) | 4:19 | 2020-12-08 | 2023-05-21 |
 | [The Flame](https://open.spotify.com/track/528CAH5pTLq86oZ52fHifA) | [Cheap Trick](https://open.spotify.com/artist/1LB8qB5BPb3MHQrfkvifXU) | [Lap Of Luxury](https://open.spotify.com/album/1aYjx4tcmci0lYwT5sKgvM) | 5:38 | 2020-12-08 |  |
 | [The Fletcher Memorial Home \- 2011 Remaster](https://open.spotify.com/track/0brCwVt3kQES8K9qpJorQo) | [Pink Floyd](https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9) | [The Final Cut \(2011 Remastered Version\)](https://open.spotify.com/album/5ChHkKb5VhZe0pgQRsvpek) | 4:11 | 2020-12-08 | 2022-07-01 |
 | [The Heart Of The Matter](https://open.spotify.com/track/7jZ4UZAmg006Qx3rVuF7JI) | [Don Henley](https://open.spotify.com/artist/5dbuFbrHa1SJlQhQX9OUJ2) | [The End Of The Innocence](https://open.spotify.com/album/12lDqJuZIqMk6DNe1fInFl) | 5:22 | 2020-12-08 |  |

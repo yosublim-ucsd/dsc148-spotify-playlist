@@ -882,7 +882,7 @@
       ],
       "date_added": "2022-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-21",
       "duration_ms": 227535,
       "name": "Serial",
       "url": "https://open.spotify.com/track/1HPYnKkSjOkkC8tm9S97rb"
@@ -904,6 +904,24 @@
       "duration_ms": 227535,
       "name": "Serial",
       "url": "https://open.spotify.com/track/5RRl7Hio98AB5JsGo9acb0"
+    },
+    {
+      "album": {
+        "name": "& what else?",
+        "url": "https://open.spotify.com/album/4p5YlAC56HCZOSDBNzqm8A"
+      },
+      "artists": [
+        {
+          "name": "Tora-i",
+          "url": "https://open.spotify.com/artist/4oJsWKOJCNMfUbIpR2jk8Z"
+        }
+      ],
+      "date_added": "2022-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227535,
+      "name": "Serial",
+      "url": "https://open.spotify.com/track/6kaOmjwjH0ndfVSq45ePrg"
     },
     {
       "album": {

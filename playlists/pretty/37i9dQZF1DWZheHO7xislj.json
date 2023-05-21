@@ -1,12 +1,12 @@
 {
   "description": "Classic soul music for the perfect dinner.",
-  "num_followers": 57320,
+  "num_followers": 57348,
   "original_name": "Soulful Dinner",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxNjVhOTc4NTJiZTBmMjY3Yjk3MGU3YWVjMGI4MDM5OTk1MWRlOWU2",
+  "snapshot_id": "MCw3NzE2ZjcxMDNkMGIyMTNjZGEyMGMwMjM5OTAzODE1YjEzMjZiOGZj",
   "tracks": [
     {
       "added_at": "2023-01-09 13:10:50",
@@ -623,22 +623,6 @@
     {
       "added_at": "2023-01-09 13:10:50",
       "album": {
-        "name": "Ultimate Collection: Dobie Gray",
-        "url": "https://open.spotify.com/album/4EuAVxsazdEFr5ylShtllS"
-      },
-      "artists": [
-        {
-          "name": "Dobie Gray",
-          "url": "https://open.spotify.com/artist/3mC1KCuZZSOlN8Z0M56VsV"
-        }
-      ],
-      "duration_ms": 237466,
-      "name": "Drift Away - Single Version",
-      "url": "https://open.spotify.com/track/6hJhVBOnkchxBsDHbLOBJP"
-    },
-    {
-      "added_at": "2023-01-09 13:10:50",
-      "album": {
         "name": "Mahogany Soul",
         "url": "https://open.spotify.com/album/1pJld4hH1xL3ONIlWZEhXw"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 270893,
       "name": "Wish I Didn't Miss You",
       "url": "https://open.spotify.com/track/3tZm76otWH20xzJC7icHCk"
+    },
+    {
+      "added_at": "2023-01-09 13:10:50",
+      "album": {
+        "name": "Ultimate Collection: Dobie Gray",
+        "url": "https://open.spotify.com/album/4EuAVxsazdEFr5ylShtllS"
+      },
+      "artists": [
+        {
+          "name": "Dobie Gray",
+          "url": "https://open.spotify.com/artist/3mC1KCuZZSOlN8Z0M56VsV"
+        }
+      ],
+      "duration_ms": 237466,
+      "name": "Drift Away - Single Version",
+      "url": "https://open.spotify.com/track/6hJhVBOnkchxBsDHbLOBJP"
     },
     {
       "added_at": "2023-01-09 13:10:50",
@@ -783,22 +783,6 @@
     {
       "added_at": "2023-01-09 13:10:50",
       "album": {
-        "name": "Bedroom Classics, Vol. 2",
-        "url": "https://open.spotify.com/album/5SUJuwK3WUmX1OxrJUiw6n"
-      },
-      "artists": [
-        {
-          "name": "Peabo Bryson",
-          "url": "https://open.spotify.com/artist/49iKbKGqgn8OESkW5WduX0"
-        }
-      ],
-      "duration_ms": 255720,
-      "name": "If Ever You're in My Arms Again",
-      "url": "https://open.spotify.com/track/4TIkesxpN5caX6XpsiirnH"
-    },
-    {
-      "added_at": "2023-01-09 13:10:50",
-      "album": {
         "name": "Thriller 25 Super Deluxe Edition",
         "url": "https://open.spotify.com/album/1C2h7mLntPSeVYciMRTF4a"
       },
@@ -815,18 +799,18 @@
     {
       "added_at": "2023-01-09 13:10:50",
       "album": {
-        "name": "One Eighty",
-        "url": "https://open.spotify.com/album/4WsQBaO2DLvDZ5VRmsXbUH"
+        "name": "Bedroom Classics, Vol. 2",
+        "url": "https://open.spotify.com/album/5SUJuwK3WUmX1OxrJUiw6n"
       },
       "artists": [
         {
-          "name": "Ambrosia",
-          "url": "https://open.spotify.com/artist/0J2Ej2rMQyqaUX3G6MUISw"
+          "name": "Peabo Bryson",
+          "url": "https://open.spotify.com/artist/49iKbKGqgn8OESkW5WduX0"
         }
       ],
-      "duration_ms": 324040,
-      "name": "Biggest Part of Me",
-      "url": "https://open.spotify.com/track/6JHXiRD1QjMK1N6AQEnL04"
+      "duration_ms": 255720,
+      "name": "If Ever You're in My Arms Again",
+      "url": "https://open.spotify.com/track/4TIkesxpN5caX6XpsiirnH"
     },
     {
       "added_at": "2023-01-09 13:10:50",
@@ -843,6 +827,22 @@
       "duration_ms": 228160,
       "name": "Just My Imagination (Running Away With Me)",
       "url": "https://open.spotify.com/track/39Bd345OWEhRNyfayhp9gv"
+    },
+    {
+      "added_at": "2023-01-09 13:10:50",
+      "album": {
+        "name": "One Eighty",
+        "url": "https://open.spotify.com/album/4WsQBaO2DLvDZ5VRmsXbUH"
+      },
+      "artists": [
+        {
+          "name": "Ambrosia",
+          "url": "https://open.spotify.com/artist/0J2Ej2rMQyqaUX3G6MUISw"
+        }
+      ],
+      "duration_ms": 324040,
+      "name": "Biggest Part of Me",
+      "url": "https://open.spotify.com/track/6JHXiRD1QjMK1N6AQEnL04"
     },
     {
       "added_at": "2023-01-09 13:10:50",
@@ -931,22 +931,6 @@
     {
       "added_at": "2023-01-09 13:10:50",
       "album": {
-        "name": "Spinners",
-        "url": "https://open.spotify.com/album/6QVemXFGMR4OLvlXvtQVjg"
-      },
-      "artists": [
-        {
-          "name": "The Spinners",
-          "url": "https://open.spotify.com/artist/5fbhwqYYh4YwUoEs582mq5"
-        }
-      ],
-      "duration_ms": 249733,
-      "name": "Could It Be I'm Falling in Love",
-      "url": "https://open.spotify.com/track/5i0urffBRKl09GSX2Jhdeh"
-    },
-    {
-      "added_at": "2023-01-09 13:10:50",
-      "album": {
         "name": "Dreamer",
         "url": "https://open.spotify.com/album/5OkHt7JZ6HSkJH359y2H31"
       },
@@ -963,18 +947,18 @@
     {
       "added_at": "2023-01-09 13:10:50",
       "album": {
-        "name": "I'll Never Fall in Love Again",
-        "url": "https://open.spotify.com/album/1gVMm1XwIz3JC2AHxAovtW"
+        "name": "Spinners",
+        "url": "https://open.spotify.com/album/6QVemXFGMR4OLvlXvtQVjg"
       },
       "artists": [
         {
-          "name": "Dionne Warwick",
-          "url": "https://open.spotify.com/artist/2JSjCHK79gdaiPWdKiNUNp"
+          "name": "The Spinners",
+          "url": "https://open.spotify.com/artist/5fbhwqYYh4YwUoEs582mq5"
         }
       ],
-      "duration_ms": 174840,
-      "name": "I'll Never Fall in Love Again",
-      "url": "https://open.spotify.com/track/1MHgV79MSYE6ymNlGa3bRY"
+      "duration_ms": 249733,
+      "name": "Could It Be I'm Falling in Love",
+      "url": "https://open.spotify.com/track/5i0urffBRKl09GSX2Jhdeh"
     },
     {
       "added_at": "2023-01-09 13:10:50",
@@ -991,6 +975,22 @@
       "duration_ms": 242573,
       "name": "Can't Get Enough Of Your Love, Babe",
       "url": "https://open.spotify.com/track/7LaCgCP7FCol0RYwMDQKwK"
+    },
+    {
+      "added_at": "2023-01-09 13:10:50",
+      "album": {
+        "name": "I'll Never Fall in Love Again",
+        "url": "https://open.spotify.com/album/1gVMm1XwIz3JC2AHxAovtW"
+      },
+      "artists": [
+        {
+          "name": "Dionne Warwick",
+          "url": "https://open.spotify.com/artist/2JSjCHK79gdaiPWdKiNUNp"
+        }
+      ],
+      "duration_ms": 174840,
+      "name": "I'll Never Fall in Love Again",
+      "url": "https://open.spotify.com/track/1MHgV79MSYE6ymNlGa3bRY"
     },
     {
       "added_at": "2023-01-09 13:10:50",
@@ -1503,22 +1503,6 @@
     {
       "added_at": "2023-01-09 13:10:50",
       "album": {
-        "name": "One Heartbeat",
-        "url": "https://open.spotify.com/album/6ryxrWXziVZS9WaEOJ6v9V"
-      },
-      "artists": [
-        {
-          "name": "Smokey Robinson",
-          "url": "https://open.spotify.com/artist/0h9smro0z3HqUbD94jotU8"
-        }
-      ],
-      "duration_ms": 244026,
-      "name": "Just To See Her",
-      "url": "https://open.spotify.com/track/7LOYcC6phKAVOckgmVZJJT"
-    },
-    {
-      "added_at": "2023-01-09 13:10:50",
-      "album": {
         "name": "The George Benson Collection",
         "url": "https://open.spotify.com/album/1IcNxT9zu74BfNhuHD9MBN"
       },
@@ -1531,6 +1515,22 @@
       "duration_ms": 316160,
       "name": "On Broadway",
       "url": "https://open.spotify.com/track/2oFxITGDiTZ1JRwP8yinRt"
+    },
+    {
+      "added_at": "2023-01-09 13:10:50",
+      "album": {
+        "name": "One Heartbeat",
+        "url": "https://open.spotify.com/album/6ryxrWXziVZS9WaEOJ6v9V"
+      },
+      "artists": [
+        {
+          "name": "Smokey Robinson",
+          "url": "https://open.spotify.com/artist/0h9smro0z3HqUbD94jotU8"
+        }
+      ],
+      "duration_ms": 244026,
+      "name": "Just To See Her",
+      "url": "https://open.spotify.com/track/7LOYcC6phKAVOckgmVZJJT"
     },
     {
       "added_at": "2023-01-09 13:10:50",
@@ -1723,22 +1723,6 @@
     {
       "added_at": "2023-01-09 13:10:50",
       "album": {
-        "name": "Tell It Like It Is - The Par Lo Years",
-        "url": "https://open.spotify.com/album/1kUKkxMjMVZRw6yK34l37g"
-      },
-      "artists": [
-        {
-          "name": "Aaron Neville",
-          "url": "https://open.spotify.com/artist/57ALvbCBaCkNlgTOSiUPdT"
-        }
-      ],
-      "duration_ms": 165960,
-      "name": "Tell It Like It Is",
-      "url": "https://open.spotify.com/track/7GSRH3L0HAM3StkAkYVamC"
-    },
-    {
-      "added_at": "2023-01-09 13:10:50",
-      "album": {
         "name": "George McCrae - Disco Pioneer",
         "url": "https://open.spotify.com/album/3qJGzbhk63pzwqzpTr0bxt"
       },
@@ -1751,6 +1735,22 @@
       "duration_ms": 200053,
       "name": "Rock Your Baby",
       "url": "https://open.spotify.com/track/16KwF7IrKHTVTitUKH58g3"
+    },
+    {
+      "added_at": "2023-01-09 13:10:50",
+      "album": {
+        "name": "Tell It Like It Is - The Par Lo Years",
+        "url": "https://open.spotify.com/album/1kUKkxMjMVZRw6yK34l37g"
+      },
+      "artists": [
+        {
+          "name": "Aaron Neville",
+          "url": "https://open.spotify.com/artist/57ALvbCBaCkNlgTOSiUPdT"
+        }
+      ],
+      "duration_ms": 165960,
+      "name": "Tell It Like It Is",
+      "url": "https://open.spotify.com/track/7GSRH3L0HAM3StkAkYVamC"
     },
     {
       "added_at": "2023-01-09 13:10:50",
@@ -1823,22 +1823,6 @@
     {
       "added_at": "2023-01-09 13:10:50",
       "album": {
-        "name": "Tell It Like It Is",
-        "url": "https://open.spotify.com/album/01z00nqcQU6ffZVfx0SIeg"
-      },
-      "artists": [
-        {
-          "name": "Aaron Neville",
-          "url": "https://open.spotify.com/artist/57ALvbCBaCkNlgTOSiUPdT"
-        }
-      ],
-      "duration_ms": 249226,
-      "name": "Hercules",
-      "url": "https://open.spotify.com/track/0INkcALLD8NAM6tbn4qbMj"
-    },
-    {
-      "added_at": "2023-01-09 13:10:50",
-      "album": {
         "name": "The Very Best of Aretha Franklin - The 70's",
         "url": "https://open.spotify.com/album/2jfJMNfHt2kIqSOyQyq7Jn"
       },
@@ -1899,6 +1883,38 @@
       "duration_ms": 166826,
       "name": "(Sittin' On) the Dock of the Bay",
       "url": "https://open.spotify.com/track/3XWiy9JEQ4iyqCzIqqdQu3"
+    },
+    {
+      "added_at": "2023-01-09 13:10:50",
+      "album": {
+        "name": "Tell It Like It Is",
+        "url": "https://open.spotify.com/album/01z00nqcQU6ffZVfx0SIeg"
+      },
+      "artists": [
+        {
+          "name": "Aaron Neville",
+          "url": "https://open.spotify.com/artist/57ALvbCBaCkNlgTOSiUPdT"
+        }
+      ],
+      "duration_ms": 249226,
+      "name": "Hercules",
+      "url": "https://open.spotify.com/track/0INkcALLD8NAM6tbn4qbMj"
+    },
+    {
+      "added_at": "2023-01-09 13:10:50",
+      "album": {
+        "name": "The Very Best of Aretha Franklin - The 70's",
+        "url": "https://open.spotify.com/album/2jfJMNfHt2kIqSOyQyq7Jn"
+      },
+      "artists": [
+        {
+          "name": "Aretha Franklin",
+          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
+        }
+      ],
+      "duration_ms": 333933,
+      "name": "Bridge over Troubled Water",
+      "url": "https://open.spotify.com/track/5YD86vWLu1YqR818b1GADO"
     },
     {
       "added_at": "2023-01-09 13:10:50",
@@ -1967,22 +1983,6 @@
     {
       "added_at": "2023-01-09 13:10:50",
       "album": {
-        "name": "The Very Best of Aretha Franklin - The 70's",
-        "url": "https://open.spotify.com/album/2jfJMNfHt2kIqSOyQyq7Jn"
-      },
-      "artists": [
-        {
-          "name": "Aretha Franklin",
-          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
-        }
-      ],
-      "duration_ms": 333933,
-      "name": "Bridge over Troubled Water",
-      "url": "https://open.spotify.com/track/5YD86vWLu1YqR818b1GADO"
-    },
-    {
-      "added_at": "2023-01-09 13:10:50",
-      "album": {
         "name": "80's R&B Love Songs",
         "url": "https://open.spotify.com/album/4L3FI9QrKFMUTphuIm5m7n"
       },
@@ -2015,22 +2015,6 @@
     {
       "added_at": "2023-01-09 13:10:50",
       "album": {
-        "name": "Some Type of Love",
-        "url": "https://open.spotify.com/album/5t4A7Loq1pKRFlkBOs1O2O"
-      },
-      "artists": [
-        {
-          "name": "Charlie Puth",
-          "url": "https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7"
-        }
-      ],
-      "duration_ms": 185608,
-      "name": "Some Type of Love",
-      "url": "https://open.spotify.com/track/2nI6aT3cnPFoXQ1L705wcY"
-    },
-    {
-      "added_at": "2023-01-09 13:10:50",
-      "album": {
         "name": "Funky Nassau",
         "url": "https://open.spotify.com/album/4JET5l83ryFSr2H5sLvSab"
       },
@@ -2043,6 +2027,22 @@
       "duration_ms": 186301,
       "name": "Funky Nassau, Pt. 1",
       "url": "https://open.spotify.com/track/6OymZ7ZOficHvs1GTJXsGg"
+    },
+    {
+      "added_at": "2023-01-09 13:10:50",
+      "album": {
+        "name": "Some Type of Love",
+        "url": "https://open.spotify.com/album/5t4A7Loq1pKRFlkBOs1O2O"
+      },
+      "artists": [
+        {
+          "name": "Charlie Puth",
+          "url": "https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7"
+        }
+      ],
+      "duration_ms": 185608,
+      "name": "Some Type of Love",
+      "url": "https://open.spotify.com/track/2nI6aT3cnPFoXQ1L705wcY"
     },
     {
       "added_at": "2023-01-09 13:10:50",
@@ -2063,22 +2063,6 @@
     {
       "added_at": "2023-01-09 13:10:50",
       "album": {
-        "name": "The Essential Isley Brothers",
-        "url": "https://open.spotify.com/album/6EgsYSfVYAygvcDvC1IO8v"
-      },
-      "artists": [
-        {
-          "name": "The Isley Brothers",
-          "url": "https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp"
-        }
-      ],
-      "duration_ms": 337333,
-      "name": "For the Love of You, Pts. 1 & 2",
-      "url": "https://open.spotify.com/track/6k0GXtn49Ga6kfA8ZvLtVX"
-    },
-    {
-      "added_at": "2023-01-09 13:10:50",
-      "album": {
         "name": "Still Waters Run Deep",
         "url": "https://open.spotify.com/album/132ZigRToQWUtgMK4a6OSU"
       },
@@ -2091,6 +2075,22 @@
       "duration_ms": 194693,
       "name": "Still Water (Love)",
       "url": "https://open.spotify.com/track/5feUxmo1qphxusEo1N9GRt"
+    },
+    {
+      "added_at": "2023-01-09 13:10:50",
+      "album": {
+        "name": "The Essential Isley Brothers",
+        "url": "https://open.spotify.com/album/6EgsYSfVYAygvcDvC1IO8v"
+      },
+      "artists": [
+        {
+          "name": "The Isley Brothers",
+          "url": "https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp"
+        }
+      ],
+      "duration_ms": 337333,
+      "name": "For the Love of You, Pts. 1 & 2",
+      "url": "https://open.spotify.com/track/6k0GXtn49Ga6kfA8ZvLtVX"
     },
     {
       "added_at": "2023-01-09 13:10:50",
@@ -2195,6 +2195,22 @@
     {
       "added_at": "2023-01-09 13:10:50",
       "album": {
+        "name": "Superfly: Deluxe 25th Anniversary Edition",
+        "url": "https://open.spotify.com/album/5QuvlU7nCUZZJauMvhlWR4"
+      },
+      "artists": [
+        {
+          "name": "Curtis Mayfield",
+          "url": "https://open.spotify.com/artist/2AV6XDIs32ofIJhkkDevjm"
+        }
+      ],
+      "duration_ms": 329466,
+      "name": "Freddie's Dead",
+      "url": "https://open.spotify.com/track/2ouFIPC3O1HNBcVTw1d9AN"
+    },
+    {
+      "added_at": "2023-01-09 13:10:50",
+      "album": {
         "name": "Let Me Touch You",
         "url": "https://open.spotify.com/album/5EUSiCoJpa682wyPMqBy4j"
       },
@@ -2223,22 +2239,6 @@
       "duration_ms": 211733,
       "name": "Harvest for the World, Pt. 1 - Single Version",
       "url": "https://open.spotify.com/track/0fl2MichhIDeOYQOCce7GW"
-    },
-    {
-      "added_at": "2023-01-09 13:10:50",
-      "album": {
-        "name": "Superfly: Deluxe 25th Anniversary Edition",
-        "url": "https://open.spotify.com/album/5QuvlU7nCUZZJauMvhlWR4"
-      },
-      "artists": [
-        {
-          "name": "Curtis Mayfield",
-          "url": "https://open.spotify.com/artist/2AV6XDIs32ofIJhkkDevjm"
-        }
-      ],
-      "duration_ms": 329466,
-      "name": "Freddie's Dead",
-      "url": "https://open.spotify.com/track/2ouFIPC3O1HNBcVTw1d9AN"
     },
     {
       "added_at": "2023-01-09 13:10:50",
@@ -3083,22 +3083,6 @@
     {
       "added_at": "2023-01-09 13:10:50",
       "album": {
-        "name": "Second to None",
-        "url": "https://open.spotify.com/album/4oREyJ5IyyNwPjbv8p6BlH"
-      },
-      "artists": [
-        {
-          "name": "Sam Dees",
-          "url": "https://open.spotify.com/artist/25kvpgmZP82Hn719lpTrlX"
-        }
-      ],
-      "duration_ms": 174333,
-      "name": "Win Or Lose",
-      "url": "https://open.spotify.com/track/3rbkg8h6onwZLP0QJXt6oI"
-    },
-    {
-      "added_at": "2023-01-09 13:10:50",
-      "album": {
         "name": "Atlantic Top 60: Sweat-Soaked Soul Classics",
         "url": "https://open.spotify.com/album/09UEuDX0FZYXtRVYkvDLSA"
       },
@@ -3111,6 +3095,22 @@
       "duration_ms": 170066,
       "name": "When a Man Loves a Woman",
       "url": "https://open.spotify.com/track/4B3YfOKezanjfJTAbn75a2"
+    },
+    {
+      "added_at": "2023-01-09 13:10:50",
+      "album": {
+        "name": "Second to None",
+        "url": "https://open.spotify.com/album/4oREyJ5IyyNwPjbv8p6BlH"
+      },
+      "artists": [
+        {
+          "name": "Sam Dees",
+          "url": "https://open.spotify.com/artist/25kvpgmZP82Hn719lpTrlX"
+        }
+      ],
+      "duration_ms": 174333,
+      "name": "Win Or Lose",
+      "url": "https://open.spotify.com/track/3rbkg8h6onwZLP0QJXt6oI"
     },
     {
       "added_at": "2023-01-09 13:10:50",
@@ -3147,6 +3147,22 @@
     {
       "added_at": "2023-01-09 13:10:50",
       "album": {
+        "name": "Black Gold (Expanded Edition)",
+        "url": "https://open.spotify.com/album/6cbqf84EsLlPeu72H2Al0H"
+      },
+      "artists": [
+        {
+          "name": "Nina Simone",
+          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
+        }
+      ],
+      "duration_ms": 170146,
+      "name": "To Be Young, Gifted and Black - Single Version",
+      "url": "https://open.spotify.com/track/33TDAUeConyLclvr9GyvmZ"
+    },
+    {
+      "added_at": "2023-01-09 13:10:50",
+      "album": {
         "name": "More: Johnny's Greatest Hits",
         "url": "https://open.spotify.com/album/2CB8bmEPNvBmBMglM7lFW7"
       },
@@ -3179,22 +3195,6 @@
       "duration_ms": 393560,
       "name": "Sweet Love",
       "url": "https://open.spotify.com/track/7zqguUyS3LQxAdL8rRgXx2"
-    },
-    {
-      "added_at": "2023-01-09 13:10:50",
-      "album": {
-        "name": "Black Gold (Expanded Edition)",
-        "url": "https://open.spotify.com/album/6cbqf84EsLlPeu72H2Al0H"
-      },
-      "artists": [
-        {
-          "name": "Nina Simone",
-          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
-        }
-      ],
-      "duration_ms": 170146,
-      "name": "To Be Young, Gifted and Black - Single Version",
-      "url": "https://open.spotify.com/track/33TDAUeConyLclvr9GyvmZ"
     },
     {
       "added_at": "2023-01-09 13:10:50",
@@ -3423,22 +3423,6 @@
     {
       "added_at": "2023-01-09 13:10:50",
       "album": {
-        "name": "25 Best Of...",
-        "url": "https://open.spotify.com/album/7eurwOvLFAKYcWlzlGTofF"
-      },
-      "artists": [
-        {
-          "name": "Allen Toussaint",
-          "url": "https://open.spotify.com/artist/63aP18bg2ABSOqSNQcAMNy"
-        }
-      ],
-      "duration_ms": 180009,
-      "name": "Go Back Home",
-      "url": "https://open.spotify.com/track/6GubMMDcAAA77gbakbezWI"
-    },
-    {
-      "added_at": "2023-01-09 13:10:50",
-      "album": {
         "name": "The ABC's Of Soul, Vol. 3 (Classics From The ABC Records Catalog 1975-1979)",
         "url": "https://open.spotify.com/album/3pbZUEap46WPw4nxrSjP4n"
       },
@@ -3451,6 +3435,22 @@
       "duration_ms": 285666,
       "name": "After You Love Me, Why Do You Leave Me",
       "url": "https://open.spotify.com/track/5H2LSOqGNgfcD8DRjeWTrZ"
+    },
+    {
+      "added_at": "2023-01-09 13:10:50",
+      "album": {
+        "name": "25 Best Of...",
+        "url": "https://open.spotify.com/album/7eurwOvLFAKYcWlzlGTofF"
+      },
+      "artists": [
+        {
+          "name": "Allen Toussaint",
+          "url": "https://open.spotify.com/artist/63aP18bg2ABSOqSNQcAMNy"
+        }
+      ],
+      "duration_ms": 180009,
+      "name": "Go Back Home",
+      "url": "https://open.spotify.com/track/6GubMMDcAAA77gbakbezWI"
     },
     {
       "added_at": "2023-01-09 13:10:50",

@@ -1,12 +1,12 @@
 {
   "description": "\uad6d\ub0b4\ub97c \uac15\ud0c0 \ud588\ub358 R&B\uace1\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694.",
-  "num_followers": 9580,
+  "num_followers": 9603,
   "original_name": "\uad6d\ub0b4 R&B \uba54\uac00 \ud788\ud2b8",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwNDU0ZjQ5NzVhMWM0MDhhYzZlYTI5NzU0ODU4OGVkNDE3NWM1MGMw",
+  "snapshot_id": "MCwzYWQ1ZDA1ZjhmMjFhY2ZlYWJmYTExNjNhYzRjM2U2MzdhYTg3Y2Vi",
   "tracks": [
     {
       "added_at": "2021-03-11 16:36:50",
@@ -723,18 +723,18 @@
     {
       "added_at": "2021-03-11 16:36:50",
       "album": {
-        "name": "\uc560\uc1a1\uc774\uc758 \uc0ac\ub791",
-        "url": "https://open.spotify.com/album/2vCLAlhvbVkIgxOX3YFi3b"
+        "name": "First Love",
+        "url": "https://open.spotify.com/album/74thqvuyVQfosFffvKx2uo"
       },
       "artists": [
         {
-          "name": "Yangpa",
-          "url": "https://open.spotify.com/artist/05Tt2bRgkP3yY2TnpRMvpS"
+          "name": "LeeHi",
+          "url": "https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu"
         }
       ],
-      "duration_ms": 220760,
-      "name": "\uc560\uc1a1\uc774\uc758 \uc0ac\ub791",
-      "url": "https://open.spotify.com/track/5mCY172DdlbnXfXWoLINmF"
+      "duration_ms": 234633,
+      "name": "It's Over",
+      "url": "https://open.spotify.com/track/47PAgx8nAijlmCdJtiq2iE"
     },
     {
       "added_at": "2021-03-11 16:36:50",
@@ -755,18 +755,18 @@
     {
       "added_at": "2021-03-11 16:36:50",
       "album": {
-        "name": "First Love",
-        "url": "https://open.spotify.com/album/74thqvuyVQfosFffvKx2uo"
+        "name": "\uc560\uc1a1\uc774\uc758 \uc0ac\ub791",
+        "url": "https://open.spotify.com/album/2vCLAlhvbVkIgxOX3YFi3b"
       },
       "artists": [
         {
-          "name": "LeeHi",
-          "url": "https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu"
+          "name": "Yangpa",
+          "url": "https://open.spotify.com/artist/05Tt2bRgkP3yY2TnpRMvpS"
         }
       ],
-      "duration_ms": 234633,
-      "name": "It's Over",
-      "url": "https://open.spotify.com/track/47PAgx8nAijlmCdJtiq2iE"
+      "duration_ms": 220760,
+      "name": "\uc560\uc1a1\uc774\uc758 \uc0ac\ub791",
+      "url": "https://open.spotify.com/track/5mCY172DdlbnXfXWoLINmF"
     },
     {
       "added_at": "2021-03-11 16:36:50",

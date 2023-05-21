@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVqfgj8NZEp1.md) - [plain]
 
 > Relax to the sound of gentle instrumental Jazz.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,470,108 likes - 135 songs - 11 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,470,246 likes - 135 songs - 11 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVqfgj8NZEp1.md) - [plain]
 | 17 | [Yesteryear](https://open.spotify.com/track/2qbPX1fQUyknyc7cZw2L8W) | [Snorre Kirk](https://open.spotify.com/artist/1QgZiL5uQ3WN1sMkmbVaGM), [Michael Blicher](https://open.spotify.com/artist/63pT7P8TZCJmvsEbCbE0sZ) | [Yesteryear](https://open.spotify.com/album/5XqLTTwrDqietv4GjKIXuD) | 4:19 |
 | 18 | [There'll Be Other Times](https://open.spotify.com/track/13CZCdBlWMmulnz3VV2yjv) | [Jeremy Pelt](https://open.spotify.com/artist/0ie9W9nN4iPymAkS9WW8nX) | [The Art of Intimacy, Vol\. 2: His Muse](https://open.spotify.com/album/1n106LRjOdLx8hJGpnNKPo) | 6:08 |
 | 19 | [Bosse Zorro](https://open.spotify.com/track/2QgZMS7J44N1cHflkK2are) | [OHOJ](https://open.spotify.com/artist/5oL30GXMiPkJpEQ99Q7Cdh), [Hannes Bennich](https://open.spotify.com/artist/0hwjFY1MfwrXK9Xjog9dET) | [Bosse Zorro](https://open.spotify.com/album/6LrpCNNRKvpn0F9sRZ38UY) | 4:07 |
-| 20 | [La Mesha](https://open.spotify.com/track/1ZohRhX9Opc6uSMDYFEpFP) | [The Modern Jazz Trio](https://open.spotify.com/artist/0nAuSsRUTeyOp4cvsam5pt), [Jerry Bergonzi](https://open.spotify.com/artist/5CSkWcdoRvgBQDwJTZZstJ) | [La Mesha](https://open.spotify.com/album/6rzAc0d1SV18qNonfbHMep) | 5:34 |
+| 20 | [La Mesha](https://open.spotify.com/track/4rDs5unnLLPt02VzWK0FBQ) | [The Modern Jazz Trio](https://open.spotify.com/artist/0nAuSsRUTeyOp4cvsam5pt), [Jerry Bergonzi](https://open.spotify.com/artist/5CSkWcdoRvgBQDwJTZZstJ) | [Transformation](https://open.spotify.com/album/0M9QNoEejme1B5cGQhYvMa) | 5:34 |
 | 21 | [Ballade for the Very Sad and Very Tired Lotus Eaters](https://open.spotify.com/track/7CxYBXp6hBFnnyYm7ivNCd) | [Owen Broder](https://open.spotify.com/artist/6IPqNkZOxgZ3lAubAiVtWy) | [Hodges: Front and Center, Vol\. 1](https://open.spotify.com/album/0RzxAxiOOJgClVialkdLmD) | 4:13 |
 | 22 | [Ruth](https://open.spotify.com/track/6uW9fBqgj2IWaNZ7Zf6ZQD) | [Joe Chambers](https://open.spotify.com/artist/0umoeIflP3pWEefnX9lvx4) | [Ruth](https://open.spotify.com/album/22Uhpy2m5IDujOiJvhorly) | 4:11 |
 | 23 | [Seneca Village](https://open.spotify.com/track/5DvysWYH5vykA6l2PxzhjH) | [Jakob Dreyer](https://open.spotify.com/artist/4YozGMNyLJYo3Iq53bDUSs), [Jimmy Macbride](https://open.spotify.com/artist/1W6vCfWWnL6VDvZJHpjh3i), [Jason Rigby](https://open.spotify.com/artist/16qoe2tnMAMcq98rnKvAoR), [Jon Cowherd](https://open.spotify.com/artist/1CfUXWkyKLaI4IyJ6ul9NE) | [Songs, Hymns and Ballads, Vol\. 1](https://open.spotify.com/album/4kEDYta5VLbR0Zed7lhYeM) | 6:10 |
@@ -144,4 +144,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVqfgj8NZEp1.md) - [plain]
 | 134 | [What Are You Doing the Rest of Your Life?](https://open.spotify.com/track/3ZnPVp4Frub6UadiiiGDD9) | [Rolf Kühn](https://open.spotify.com/artist/73xPAo16RiiVu6X90p7UVb) | [Yellow + Blue](https://open.spotify.com/album/4HENgrWOdYVohdxPJXIK0H) | 7:56 |
 | 135 | [Doubts 2](https://open.spotify.com/track/1ohoaGnztWcfczuRDceRdn) | [Ibrahim Maalouf](https://open.spotify.com/artist/0NSO0g40h9CTj13hKPskeb) | [Wind](https://open.spotify.com/album/1zRFuPnqjBckEoOFliJyaI) | 4:54 |
 
-Snapshot ID: `MTY4Mzg0MjQ2MCwwMDAwMDAwMDUyMTE5OGE4MjI3NjE0YTdkMzhmNmIyOTYzNGY5MmNm`
+Snapshot ID: `MCxjOWU5NGYwMDdjNTk1MzZjMGFhMWMzODdhZjRiZWRkYTE4ODYyNzBm`

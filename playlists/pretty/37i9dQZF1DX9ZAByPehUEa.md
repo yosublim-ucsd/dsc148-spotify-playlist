@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ZAByPehUEa.md) - [plain]
 
 > A happy place.
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,944 likes - 50 songs - 3 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,030 likes - 50 songs - 3 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ZAByPehUEa.md) - [plain]
 | 46 | [Real Groove \(feat\. Dua Lipa\) \- Studio 2054 Initial Talk Remix](https://open.spotify.com/track/3I9gIF7c1VwAdvjTsvLgod) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA), [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we), [Initial Talk](https://open.spotify.com/artist/0YQmcNgfnoqxBMJ8dcw3Eh) | [Real Groove \(feat\. Dua Lipa\) \[Studio 2054 Initial Talk Remix\]](https://open.spotify.com/album/5qhswDV7pVbYdJvU9PuVA8) | 3:43 |
 | 47 | [Sunshine](https://open.spotify.com/track/08hSsSeBxyyri4j8cQxXm4) | [Wh0](https://open.spotify.com/artist/132Hhe61bhvXtkygENHZHA) | [Sunshine](https://open.spotify.com/album/76bUUVdpVkQIrJif3PQYx2) | 3:38 |
 | 48 | [Do you Feel Like I do?](https://open.spotify.com/track/5xbKD51JPTqbqLjWnvmnmF) | [Another Chemical Love Story](https://open.spotify.com/artist/7Kgt7Exe4T5w9HEoy3Zeqv), [Elliot Adamson](https://open.spotify.com/artist/5JCyLOcEZsUiTLCUqqcIFz) | [Do you Feel Like I do?](https://open.spotify.com/album/7yKlkYxkKBk7dFZoexmJlb) | 6:38 |
-| 49 | [Groovejet \(If This Ain't Love\) \[feat\. Sophie Ellis\-Bextor\]](https://open.spotify.com/track/1ftK0tLj4ZYKYxSzXk5Lpb) | [DJ Spiller](https://open.spotify.com/artist/6Ai7Oi56rJwoPAG8N2jsv6), [Sophie Ellis\-Bextor](https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE) | [Groovejet \(If This Ain't Love\) \[feat\. Sophie Ellis\-Bextor\]](https://open.spotify.com/album/774f2ASob19UJBVIrxNzg7) | 3:47 |
-| 50 | [Sizzling](https://open.spotify.com/track/7AkuWVEfviEjaNa8ps3uVw) | [Daphni](https://open.spotify.com/artist/4nhvb6x9ZhPiYCzrHDNia9), [Paradise](https://open.spotify.com/artist/4tcARMnMEtBq3onlfD8Rgl) | [Sizzling EP](https://open.spotify.com/album/4W9aq61WczmInpQ2RBGj2B) | 5:21 |
+| 49 | [Sizzling](https://open.spotify.com/track/7AkuWVEfviEjaNa8ps3uVw) | [Daphni](https://open.spotify.com/artist/4nhvb6x9ZhPiYCzrHDNia9), [Paradise](https://open.spotify.com/artist/4tcARMnMEtBq3onlfD8Rgl) | [Sizzling EP](https://open.spotify.com/album/4W9aq61WczmInpQ2RBGj2B) | 5:21 |
+| 50 | [Groovejet \(If This Ain't Love\) \[feat\. Sophie Ellis\-Bextor\]](https://open.spotify.com/track/1ftK0tLj4ZYKYxSzXk5Lpb) | [DJ Spiller](https://open.spotify.com/artist/6Ai7Oi56rJwoPAG8N2jsv6), [Sophie Ellis\-Bextor](https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE) | [Groovejet \(If This Ain't Love\) \[feat\. Sophie Ellis\-Bextor\]](https://open.spotify.com/album/774f2ASob19UJBVIrxNzg7) | 3:47 |
 
-Snapshot ID: `MCw2NWIzZDViNzUyYjY1OGIzNjM4Y2M5YjBjNDAyYTFiNmVkOGZiNzQ4`
+Snapshot ID: `MCxkYWIxNTRkNDBhNTY5ZDNiN2U2Y2IxZWJjNWVjMjhhOWYwYmEwZWEy`

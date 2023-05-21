@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSIvbYYt1Dvi.md) - [plain]
 
 > kawe e baco é AULAS
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,243,818 likes - 50 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,243,890 likes - 50 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSIvbYYt1Dvi.md) - [plain]
 | 37 | [bode](https://open.spotify.com/track/4VC3XmGu302imYYjIJuS9L) | [Djonga](https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY), [Coyote Beatz](https://open.spotify.com/artist/2PhFsxtwCQLS3e9SJwDN3j) | [O Dono do Lugar](https://open.spotify.com/album/77iFfJuIIWGZs1PJZF39m4) | 3:51 |
 | 38 | [Sigo na Fé do Pai](https://open.spotify.com/track/7zcQ56JRoNd4JAwGKcrxiZ) | [Salvador Da Rima](https://open.spotify.com/artist/3zUcyANWSbo98ikca4ugrV), [Mc Poze do Rodo](https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M), [MC Ryan SP](https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY), [Bielzin](https://open.spotify.com/artist/2vWGxqWbGgmgxVDZ5CBvBP), [Neo Beats](https://open.spotify.com/artist/6PERJZF7wohA034PAxDK0b) | [Sigo na Fé do Pai](https://open.spotify.com/album/5goTGEm2ey7n2DEa2tIcm8) | 4:24 |
 | 39 | [Ver Em Cores](https://open.spotify.com/track/2U0m94Ibhvj7UYhBfIwViP) | [Rashid](https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH), [Liniker](https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C) | [Movimento Rápido dos Olhos](https://open.spotify.com/album/2hSAKgdarFeqTLBITFiyog) | 4:03 |
-| 40 | [Coração de Carro Forte](https://open.spotify.com/track/1Fhmi7jJSOP6GrStpJrj4t) | [Hungria](https://open.spotify.com/artist/412TIgqWb189UqIC7pmY4f) | [Coração de Carro Forte](https://open.spotify.com/album/2KW1zlCk6DMuDEHarANoVQ) | 4:57 |
+| 40 | [Coração de Carro Forte](https://open.spotify.com/track/1Fhmi7jJSOP6GrStpJrj4t) | [Hungria](https://open.spotify.com/artist/0vLuOi2k62sHujIfplInlK) | [Coração de Carro Forte](https://open.spotify.com/album/2KW1zlCk6DMuDEHarANoVQ) | 4:57 |
 | 41 | [Cruzeiro da Revoada](https://open.spotify.com/track/2TkyXnE0OB6Yo9zuzv9B4e) | [Hungria](https://open.spotify.com/artist/0vLuOi2k62sHujIfplInlK), [MC Ryan SP](https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY) | [Universo Particular](https://open.spotify.com/album/0Wg1HsbVatKcEZznPZ62Ev) | 3:42 |
 | 42 | [Facilitei](https://open.spotify.com/track/6pIsaJ0bFpoajxz45FvopF) | [L7NNON](https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C), [Ajaxx](https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt) | [Facilitei](https://open.spotify.com/album/0b7ZE4V0Mxam2npJu2nYJC) | 3:32 |
 | 43 | [Retrato \#1 \- O Que Eu Não Sei](https://open.spotify.com/track/07Kfl5a8EQdy2nxeQmQ2QZ) | [Sant](https://open.spotify.com/artist/7IlBcKrGUBJ0NKdnbDde89), [Akil](https://open.spotify.com/artist/3BRur6P9nSyn8rG6yB5nqv), [AZN Studio](https://open.spotify.com/artist/3mmQ2jRf2DDpkI844nTT1h) | [Retrato \#1 \- O Que Eu Não Sei](https://open.spotify.com/album/59vjYc18WBcUKa1wRl5bhH) | 2:20 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSIvbYYt1Dvi.md) - [plain]
 | 49 | [Quer Voar](https://open.spotify.com/track/7aZusA4cWXz3Wv9e9uhavz) | [Matuê](https://open.spotify.com/artist/5nP8x4uEFjAAmDzwOEc9b8) | [Quer Voar](https://open.spotify.com/album/7JtB0tcIiJn1gJhDbCCL0e) | 3:07 |
 | 50 | [Vida Toda \- Spotify Singles](https://open.spotify.com/track/1qxuVUQPbhbp4jDXaN8fJT) | [L7NNON](https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C) | [Vida Toda \- Spotify Singles](https://open.spotify.com/album/0nA8Q6u0LdcF2vaJt1l3WC) | 2:33 |
 
-Snapshot ID: `MCwwOTQ5YjE1YzI2ODIwNjc3Mzc2YjQwNDJjYWFlNmU4ZmE0NTBkNWVm`
+Snapshot ID: `MCwxMmVlZWE4MjljN2NiNmZkYjc2ZjU2YWI4MDQ0MTRiMTNmZjM3YWY1`

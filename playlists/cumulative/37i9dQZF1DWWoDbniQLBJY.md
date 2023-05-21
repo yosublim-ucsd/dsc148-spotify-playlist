@@ -4,7 +4,7 @@
 
 > Pop acústico para tu día.
 
-174 songs - 10 hr 33 min
+175 songs - 10 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,7 +73,7 @@
 | [Gravity \- Live at the Nokia Theatre, Los Angeles, CA \- December 2007](https://open.spotify.com/track/68KdvPllp9Pug8ZG6AByFY) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Where the Light Is: John Mayer Live In Los Angeles](https://open.spotify.com/album/4Dgxy95K9BWkDUvQPTaYBb) | 9:41 | 2022-06-07 | 2023-04-29 |
 | [Guantanamera](https://open.spotify.com/track/5QAya5bSSiKlh1h4qeeq38) | [Guitarricadelafuente](https://open.spotify.com/artist/0oBiYchunKTMDesVICwrvL) | [Guantanamera](https://open.spotify.com/album/1yA5EcTrAtZqJPDrmNbEhm) | 3:10 | 2022-05-19 |  |
 | [Hasta La Raiz](https://open.spotify.com/track/7xke3tSdPhIekPZh6ZoOfJ) | [Marcol](https://open.spotify.com/artist/0Hdrbof7h3qTZdg39r7HPP) | [Hasta La Raíz](https://open.spotify.com/album/3T4Tkh71yxMKEpd84nt0DT) | 2:44 | 2021-12-16 | 2023-04-29 |
-| [Hasta Que Te Encontré](https://open.spotify.com/track/5I98QzrVJF7r7QZFDLyDMr) | [Juliana Beltrán](https://open.spotify.com/artist/5NfNMKwOPzCw9S1s3OMS6z) | [Hasta Que Te Encontré](https://open.spotify.com/album/11ko98CxEiWwgoyQdQKynL) | 3:11 | 2022-06-07 |  |
+| [Hasta Que Te Encontré](https://open.spotify.com/track/5I98QzrVJF7r7QZFDLyDMr) | [Juliana Beltrán](https://open.spotify.com/artist/5NfNMKwOPzCw9S1s3OMS6z) | [Hasta Que Te Encontré](https://open.spotify.com/album/11ko98CxEiWwgoyQdQKynL) | 3:11 | 2022-06-07 | 2023-05-21 |
 | [Hasta Que Te Encontré](https://open.spotify.com/track/6N03cEfg1Df7WNXbJijeL0) | [Juliana Beltrán](https://open.spotify.com/artist/5NfNMKwOPzCw9S1s3OMS6z) | [Hasta Que Te Encontré](https://open.spotify.com/album/6BhUd3pMxPusNBUHqlimls) | 3:11 | 2021-12-16 | 2022-07-29 |
 | [How Many Times \(Spanish Version\)](https://open.spotify.com/track/1xIedqGs6MXWZTCTSybZvx) | [Kat & Alex](https://open.spotify.com/artist/6K4y1ejK5kZ0kRdgCv5bRg) | [How Many Times \(Spanish Version\)](https://open.spotify.com/album/02F4XjVwPTIRulJ6VvQR3p) | 3:25 | 2021-12-16 | 2022-05-20 |
 | [Ilusion \(Unplugged\) \(En Vivo\) \(with Marisa Monte\)](https://open.spotify.com/track/2EGDo3bF1gbRvRqFxoKoV3) | [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm), [Marisa Monte](https://open.spotify.com/artist/0rSTXALHu0EKAawPLBdODH) | [Julieta Venegas \- MTV Unplugged](https://open.spotify.com/album/4oR1OWQqwZmNWzpTIBYe97) | 3:46 | 2021-12-16 |  |
@@ -98,6 +98,7 @@
 | [Me Haces Muy Bien \- Acústico](https://open.spotify.com/track/6jjMRgscg8yawMvoBNPfA5) | [Sebastián Romero](https://open.spotify.com/artist/0FpJe752weMmwiyJyF8zXq), [Dstance](https://open.spotify.com/artist/1NxTfbylQiyMQ8yOFxG3x2) | [Me Haces Muy Bien \(Acústico\)](https://open.spotify.com/album/6AprbucUx2tyYsEFAn0gWP) | 3:25 | 2021-12-16 |  |
 | [Me Quemé](https://open.spotify.com/track/2HqDV3t9ImPT7P9UWVNRzz) | [Gonza Silva](https://open.spotify.com/artist/4DUULlizAy9zRrfsfG5ttn), [Luisa](https://open.spotify.com/artist/4pQdwpmOtVV6iLgWjoEr6z) | [Me Quemé](https://open.spotify.com/album/7gG7dzmR1LeATBwmf1vHh4) | 4:10 | 2021-12-16 | 2023-04-29 |
 | [Mentira](https://open.spotify.com/track/5Em7MA991Gn3yhheaul0CX) | [La Ley](https://open.spotify.com/artist/1ZVoRDO29AlDXiMkRLMZSK) | [La Ley MTV Unplugged](https://open.spotify.com/album/0QkgxSUu5hG0yMkmVXBFKi) | 4:48 | 2021-12-16 | 2022-05-20 |
+| [Mi Semana](https://open.spotify.com/track/0fcVHerwSfrT9mhaI0ilKP) | [Alkilados](https://open.spotify.com/artist/2DP9xStkVVv753RBiEHXQB) | [Los Dueños de la Playa Deluxe](https://open.spotify.com/album/7yygHATGee7r4DFR9BrI3P) | 3:06 | 2023-05-05 |  |
 | [Mi Verdad \(feat\. Shakira\)](https://open.spotify.com/track/3fLULPPtmfVkGMnwAhHAij) | [Maná](https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz), [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Mi Verdad \(feat\. Shakira\)](https://open.spotify.com/album/0sdNte5fJ855Bcut5yF9Sv) | 4:32 | 2021-12-16 |  |
 | [Miel](https://open.spotify.com/track/6ohTBTmcNHe9UzvxAgA9wJ) | [Lauri Garcia](https://open.spotify.com/artist/4RH5rQ6kwIASIwZxWUBNTS) | [Miel](https://open.spotify.com/album/5ARQqCgouMHuaCwIGLeh5B) | 2:04 | 2022-01-26 |  |
 | [Mocca](https://open.spotify.com/track/55TZBuEIVVCIAKMmITvrFe) | [Melanie Espinosa](https://open.spotify.com/artist/2ZfqsIUeid08QO6i4Bqbi6) | [Mocca](https://open.spotify.com/album/0phsHpTN3MkMVVN74oyM3Q) | 1:35 | 2021-12-16 | 2023-05-08 |

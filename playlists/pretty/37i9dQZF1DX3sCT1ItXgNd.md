@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3sCT1ItXgNd.md) - [plain]
 
 > Lo mejor y lo último del pop en español\. Foto: Shakira
 
-[Spotify](https://open.spotify.com/user/spotify) - 977,947 likes - 75 songs - 3 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 978,083 likes - 75 songs - 3 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3sCT1ItXgNd.md) - [plain]
 | 74 | [REMEMBER](https://open.spotify.com/track/2VhVJCuGErlw7JYpybITZR) | [Funzo & Baby Loud](https://open.spotify.com/artist/1nwjHzOUQZsNYX8xoWiGVC) | [REMEMBER](https://open.spotify.com/album/5aEHyG7fZiR6u4BAjWISDx) | 2:27 |
 | 75 | [DRAGÓN](https://open.spotify.com/track/0rrkslhl5uGUzmS9oUcIED) | [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna) | [EL DRAGÓN](https://open.spotify.com/album/27fFLYwlXF1x8n1ixpFbFH) | 3:54 |
 
-Snapshot ID: `MCw2MzUzZTk2ODFhOWZiZjBkY2E5MjE2MjQ4YjYyNTI4NzA1ZDZiMzMx`
+Snapshot ID: `MCw5MDQwODkzYzJiNDdlYmY4MDk4MThkNzk4N2U5ZDhjMzU1N2IxNWNl`

@@ -4,7 +4,7 @@
 
 > The best new R&B by independent artists and labels\. Cover: Chikoruss\. Updates every Wednesday.
 
-1,310 songs - 2 day 19 hr 40 min
+1,312 songs - 2 day 19 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,7 +45,8 @@
 | [Acrophilia'](https://open.spotify.com/track/2lPmw51UjeCO5y9GG0m2nS) | [Skip Waiters](https://open.spotify.com/artist/4VarNqx7kH5tBCBQwtixav), [Divine Lightbody](https://open.spotify.com/artist/4b9YacVLF5QegzWwfz0vIJ) | [Acrophilia'](https://open.spotify.com/album/5OfQexvpjAiZeMrOVEZuos) | 2:06 | 2022-07-01 | 2022-08-20 |
 | [Advantage](https://open.spotify.com/track/4vxPfYUYtMNn3pCIjsIMG0) | [MiLES.](https://open.spotify.com/artist/4Mt0UzpAedYJYAvDMNjx2I) | [Advantage](https://open.spotify.com/album/7A7pDwj28Ak57XiZeaUzPb) | 3:25 | 2023-04-12 |  |
 | [After Hours](https://open.spotify.com/track/6HkiqAVf6Toddwhdx6eSQH) | [Sasha Laine](https://open.spotify.com/artist/3sRMEOaDBUHliAsdHN70Wt) | [After Hours](https://open.spotify.com/album/1jjpxM8v3B9ud5xnogc0Zr) | 2:45 | 2022-01-12 | 2022-01-20 |
-| [Again](https://open.spotify.com/track/7LRUdoa110f2SGRtLr0pqs) | [Léa Sen](https://open.spotify.com/artist/6B03CBbFJ9aw9CjlxYP0UX) | [Again](https://open.spotify.com/album/40Ub6JIkiPZ7otpE5cAci7) | 2:30 | 2023-04-26 |  |
+| [Again](https://open.spotify.com/track/45T6N26v6YQhUMv9dI86Im) | [Léa Sen](https://open.spotify.com/artist/6B03CBbFJ9aw9CjlxYP0UX) | [You Of Now, Pt\. 2](https://open.spotify.com/album/4MjtzAz6GFILAVpfPMXvBQ) | 2:30 | 2023-04-26 |  |
+| [Again](https://open.spotify.com/track/7LRUdoa110f2SGRtLr0pqs) | [Léa Sen](https://open.spotify.com/artist/6B03CBbFJ9aw9CjlxYP0UX) | [Again](https://open.spotify.com/album/40Ub6JIkiPZ7otpE5cAci7) | 2:30 | 2023-04-26 | 2023-05-21 |
 | [Algorithm](https://open.spotify.com/track/1m54M4NiQbJ2FKvnUhR09l) | [Bliss Samsa](https://open.spotify.com/artist/5Jb935Bdh5o2pBYzXFSFU6) | [Algorithm](https://open.spotify.com/album/48kIsudyDhaTSzj5g2qqG7) | 3:04 | 2023-03-31 |  |
 | [All for me](https://open.spotify.com/track/3MnO3LgxXcw9AOvcspn32t) | [michele.](https://open.spotify.com/artist/06cz9o8Zxx5MouEzIY8uly) | [All for me](https://open.spotify.com/album/4eS9ARyp1OmYSUX0yLYxx7) | 3:42 | 2021-12-01 | 2022-01-13 |
 | [ALL FOR NOTHING](https://open.spotify.com/track/2L9SA0p0eO7eBOwhtYHhMh) | [HENNESSY](https://open.spotify.com/artist/0d3nLtBfguQFq20JzWSlIW) | [ALL FOR NOTHING](https://open.spotify.com/album/5rFRG1dYVsZSJv2SRITNZS) | 3:50 | 2022-04-06 | 2022-07-02 |
@@ -1232,6 +1233,7 @@
 | [Wake Up](https://open.spotify.com/track/2HwBTnJwIciESENvfiRYdw) | [D'mari Harris](https://open.spotify.com/artist/6rMZyhoEZxy9PXzp8ptuqd) | [The Prelude](https://open.spotify.com/album/39s7np5TuYJ8klPo2jGc39) | 3:08 | 2022-05-11 | 2022-07-02 |
 | [Walla](https://open.spotify.com/track/55HcTdeOk91pgrwzXoJVA0) | [Denise De'ion](https://open.spotify.com/artist/5ParVfWeW1G6hQYForkErf) | [Peace Of My Soul](https://open.spotify.com/album/5LAiUA1wULyyotoiLRZHSt) | 2:50 | 2023-03-31 |  |
 | [want you more](https://open.spotify.com/track/0zIuHmVNplQtTvYd3jxF31) | [Amaka Queenette](https://open.spotify.com/artist/7eYEOXDWwUBvBUD8BpRFuv) | [want you more](https://open.spotify.com/album/0HKKiz35H0v82Z4Mh0OUPi) | 4:34 | 2021-12-01 | 2022-01-13 |
+| [Waste My Time](https://open.spotify.com/track/5OXjnUpU6Skq07ZkpDeW7c) | [Essosa](https://open.spotify.com/artist/6fn7JM8daBvCxpTkYyqtGY) | [Waste My Time](https://open.spotify.com/album/4Aoj64OXu1mnhgN117qFwY) | 3:01 | 2023-05-20 |  |
 | [Waste No Time](https://open.spotify.com/track/1pqLOEfUhtpiwZh5hPMQpB) | [Stefan Mahendra](https://open.spotify.com/artist/17lfIZ8ozwR7vDYqRdr8UF), [Aligo](https://open.spotify.com/artist/3Uxu9FlhsNSPLfmXEurbFe) | [Waste No Time](https://open.spotify.com/album/0KBOUkdi56WwMOqTwdTkcx) | 3:48 | 2023-02-10 | 2023-05-06 |
 | [wasting](https://open.spotify.com/track/5ACFePwf0aIhieh3D6xC8r) | [cityboymoe](https://open.spotify.com/artist/4KopSPzxYX2YfExvXefbjp) | [wasting](https://open.spotify.com/album/77Jra4ODVhjybF694tHM7N) | 3:00 | 2022-08-19 | 2022-10-06 |
 | [Wasting Away](https://open.spotify.com/track/5sIO0XAiMZtt5J9Xeaq8HI) | [Gio Genesis](https://open.spotify.com/artist/6OVtVXga1DBhBAq6GQcF0m) | [Wasting Away](https://open.spotify.com/album/1N9bfFra8XthSOIxiy7fAe) | 2:24 | 2022-08-26 | 2023-02-04 |

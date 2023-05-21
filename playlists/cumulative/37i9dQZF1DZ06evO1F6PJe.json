@@ -785,6 +785,24 @@
     },
     {
       "album": {
+        "name": "I Want To Shout About It",
+        "url": "https://open.spotify.com/album/4msee0HokeDJun37ZYZLLl"
+      },
+      "artists": [
+        {
+          "name": "Joe Bonamassa",
+          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
+        }
+      ],
+      "date_added": "2023-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252493,
+      "name": "I Want To Shout About It",
+      "url": "https://open.spotify.com/track/6MJzbRnxAbQ2Uke7e5vM2H"
+    },
+    {
+      "album": {
         "name": "From the New World",
         "url": "https://open.spotify.com/album/0ySYs5Q9ATYf72SvoNGULZ"
       },

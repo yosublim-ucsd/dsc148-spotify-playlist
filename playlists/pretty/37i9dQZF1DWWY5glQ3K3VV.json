@@ -1,12 +1,12 @@
 {
   "description": "Canzoni rap per party fino al mattino! Cover: Tony Effe",
-  "num_followers": 79456,
+  "num_followers": 79516,
   "original_name": "Club Rap ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiY2E3Zjc4NzdkZjA0NDU2NzkxZTE2ZWRkOTg1N2VkMDFjY2E5NmU2",
+  "snapshot_id": "MCxkYmMyNmM3Y2FkMTBlNTk5N2UwMDU3ZWU3ZDgyZjJmMDJhZGMzMmJh",
   "tracks": [
     {
       "added_at": "2023-05-19 08:02:20",
@@ -771,6 +771,26 @@
     {
       "added_at": "2023-05-19 08:02:20",
       "album": {
+        "name": "Effetto notte",
+        "url": "https://open.spotify.com/album/39wuRno08Rl0Jsse2kCHga"
+      },
+      "artists": [
+        {
+          "name": "Emis Killa",
+          "url": "https://open.spotify.com/artist/6FtwCmLY6L1sqvjaQ2lV6G"
+        },
+        {
+          "name": "Sfera Ebbasta",
+          "url": "https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz"
+        }
+      ],
+      "duration_ms": 176000,
+      "name": "ON FIRE - paid in full",
+      "url": "https://open.spotify.com/track/2pGbOFiWVwZaTq3iKi5sGb"
+    },
+    {
+      "added_at": "2023-05-19 08:02:20",
+      "album": {
         "name": "JETSKI (feat. Lil Mosey & Lil Tecca)",
         "url": "https://open.spotify.com/album/6KlDmO6ziOvGd42w7Abt3a"
       },
@@ -819,26 +839,6 @@
     {
       "added_at": "2023-05-19 08:02:20",
       "album": {
-        "name": "Famoso",
-        "url": "https://open.spotify.com/album/5fTgdXawyLC7oZEry7jGEk"
-      },
-      "artists": [
-        {
-          "name": "Sfera Ebbasta",
-          "url": "https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz"
-        },
-        {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
-        }
-      ],
-      "duration_ms": 193554,
-      "name": "Baby (with J Balvin)",
-      "url": "https://open.spotify.com/track/3JCqB2HhpIPNNg1O4os8o5"
-    },
-    {
-      "added_at": "2023-05-19 08:02:20",
-      "album": {
         "name": "Ma Jolie (feat. ANNA)",
         "url": "https://open.spotify.com/album/5DiVq0GezpEej8E2krKSkz"
       },
@@ -855,6 +855,26 @@
       "duration_ms": 158769,
       "name": "Ma Jolie (feat. ANNA)",
       "url": "https://open.spotify.com/track/7J4FSE9i1mo3ZHtaMy27dy"
+    },
+    {
+      "added_at": "2023-05-19 08:02:20",
+      "album": {
+        "name": "Famoso",
+        "url": "https://open.spotify.com/album/5fTgdXawyLC7oZEry7jGEk"
+      },
+      "artists": [
+        {
+          "name": "Sfera Ebbasta",
+          "url": "https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz"
+        },
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        }
+      ],
+      "duration_ms": 193554,
+      "name": "Baby (with J Balvin)",
+      "url": "https://open.spotify.com/track/3JCqB2HhpIPNNg1O4os8o5"
     },
     {
       "added_at": "2023-05-19 08:02:20",
@@ -927,26 +947,6 @@
     {
       "added_at": "2023-05-19 08:02:20",
       "album": {
-        "name": "LISTA 47",
-        "url": "https://open.spotify.com/album/3MMMbRt5PJf5zXmFoe94D4"
-      },
-      "artists": [
-        {
-          "name": "ANNA",
-          "url": "https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u"
-        },
-        {
-          "name": "MamboLosco",
-          "url": "https://open.spotify.com/artist/4BFn4jmfqSNaHtPWHTcy41"
-        }
-      ],
-      "duration_ms": 183038,
-      "name": "ADVICE",
-      "url": "https://open.spotify.com/track/3gQkyNcw4YuyeUcFM5d9TB"
-    },
-    {
-      "added_at": "2023-05-19 08:02:20",
-      "album": {
         "name": "PROVINCIALE",
         "url": "https://open.spotify.com/album/3neHYsGA6MSGSahkig6gCq"
       },
@@ -971,38 +971,22 @@
     {
       "added_at": "2023-05-19 08:02:20",
       "album": {
-        "name": "PLAYA",
-        "url": "https://open.spotify.com/album/4BooiX3rbdDNh6uzJUMfRE"
+        "name": "LISTA 47",
+        "url": "https://open.spotify.com/album/3MMMbRt5PJf5zXmFoe94D4"
       },
       "artists": [
         {
-          "name": "Zefe",
-          "url": "https://open.spotify.com/artist/3yNjXWi2WswJfuBZSouJRH"
-        }
-      ],
-      "duration_ms": 154926,
-      "name": "PLAYA",
-      "url": "https://open.spotify.com/track/39ngG6CdkMkBgESiXc0lOx"
-    },
-    {
-      "added_at": "2023-05-19 08:02:20",
-      "album": {
-        "name": "Salvatore",
-        "url": "https://open.spotify.com/album/5YMLvb4ZjBfVwJMf6dTKRZ"
-      },
-      "artists": [
-        {
-          "name": "Paky",
-          "url": "https://open.spotify.com/artist/1KQJOTeIMbixtnSWY4sYs2"
+          "name": "ANNA",
+          "url": "https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u"
         },
         {
-          "name": "Marracash",
-          "url": "https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7"
+          "name": "MamboLosco",
+          "url": "https://open.spotify.com/artist/4BFn4jmfqSNaHtPWHTcy41"
         }
       ],
-      "duration_ms": 122373,
-      "name": "No wallet (feat. Marracash)",
-      "url": "https://open.spotify.com/track/7EPJ1OFdXVw0eA5gvZziEv"
+      "duration_ms": 183038,
+      "name": "ADVICE",
+      "url": "https://open.spotify.com/track/3gQkyNcw4YuyeUcFM5d9TB"
     },
     {
       "added_at": "2023-05-19 08:02:20",
@@ -1031,6 +1015,42 @@
       "duration_ms": 222968,
       "name": "Blueface (feat. Izi, Tedua)",
       "url": "https://open.spotify.com/track/2Ctj9DfXfh9kW3erTp907i"
+    },
+    {
+      "added_at": "2023-05-19 08:02:20",
+      "album": {
+        "name": "Salvatore",
+        "url": "https://open.spotify.com/album/5YMLvb4ZjBfVwJMf6dTKRZ"
+      },
+      "artists": [
+        {
+          "name": "Paky",
+          "url": "https://open.spotify.com/artist/1KQJOTeIMbixtnSWY4sYs2"
+        },
+        {
+          "name": "Marracash",
+          "url": "https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7"
+        }
+      ],
+      "duration_ms": 122373,
+      "name": "No wallet (feat. Marracash)",
+      "url": "https://open.spotify.com/track/7EPJ1OFdXVw0eA5gvZziEv"
+    },
+    {
+      "added_at": "2023-05-19 08:02:20",
+      "album": {
+        "name": "PLAYA",
+        "url": "https://open.spotify.com/album/4BooiX3rbdDNh6uzJUMfRE"
+      },
+      "artists": [
+        {
+          "name": "Zefe",
+          "url": "https://open.spotify.com/artist/3yNjXWi2WswJfuBZSouJRH"
+        }
+      ],
+      "duration_ms": 154926,
+      "name": "PLAYA",
+      "url": "https://open.spotify.com/track/39ngG6CdkMkBgESiXc0lOx"
     },
     {
       "added_at": "2023-05-19 08:02:20",
@@ -1091,26 +1111,6 @@
     {
       "added_at": "2023-05-19 08:02:20",
       "album": {
-        "name": "EP1",
-        "url": "https://open.spotify.com/album/3bZxXrtUV3uiT3Y3OOAvqP"
-      },
-      "artists": [
-        {
-          "name": "Baby Gang",
-          "url": "https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0"
-        },
-        {
-          "name": "Escomar",
-          "url": "https://open.spotify.com/artist/6o4HwHVQqXnSxpHxII3KJw"
-        }
-      ],
-      "duration_ms": 175281,
-      "name": "Gli Occhi del Blocco (feat. Escomar)",
-      "url": "https://open.spotify.com/track/2dKfIsCs1XhlDZrLjuTbX5"
-    },
-    {
-      "added_at": "2023-05-19 08:02:20",
-      "album": {
         "name": "La zone (feat. Shiva)",
         "url": "https://open.spotify.com/album/4zZrt7ZP0AmUCdxTJxBN6M"
       },
@@ -1143,6 +1143,26 @@
       "duration_ms": 229147,
       "name": "SENZA RUMORE",
       "url": "https://open.spotify.com/track/2Z7sJKCxTH94KCRxJTd4O7"
+    },
+    {
+      "added_at": "2023-05-19 08:02:20",
+      "album": {
+        "name": "EP1",
+        "url": "https://open.spotify.com/album/3bZxXrtUV3uiT3Y3OOAvqP"
+      },
+      "artists": [
+        {
+          "name": "Baby Gang",
+          "url": "https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0"
+        },
+        {
+          "name": "Escomar",
+          "url": "https://open.spotify.com/artist/6o4HwHVQqXnSxpHxII3KJw"
+        }
+      ],
+      "duration_ms": 175281,
+      "name": "Gli Occhi del Blocco (feat. Escomar)",
+      "url": "https://open.spotify.com/track/2dKfIsCs1XhlDZrLjuTbX5"
     },
     {
       "added_at": "2023-05-19 08:02:20",
@@ -1183,46 +1203,6 @@
     {
       "added_at": "2023-05-19 08:02:20",
       "album": {
-        "name": "BlaBlaBla",
-        "url": "https://open.spotify.com/album/7mqK8UcO20KLRVvlWObIf7"
-      },
-      "artists": [
-        {
-          "name": "MamboLosco",
-          "url": "https://open.spotify.com/artist/4BFn4jmfqSNaHtPWHTcy41"
-        },
-        {
-          "name": "Nardi",
-          "url": "https://open.spotify.com/artist/5Weajr5biqrfs2QaSMUhCG"
-        },
-        {
-          "name": "Finesse",
-          "url": "https://open.spotify.com/artist/3GWuJyC9r6Ug0F6jeLzTpY"
-        }
-      ],
-      "duration_ms": 113511,
-      "name": "BlaBlaBla",
-      "url": "https://open.spotify.com/track/5hGjnVZzA563cMLHy22keP"
-    },
-    {
-      "added_at": "2023-05-19 08:02:20",
-      "album": {
-        "name": "FSK TRAPSHIT REVENGE",
-        "url": "https://open.spotify.com/album/4z4zCeqiEjTTBI0a8Uyl0S"
-      },
-      "artists": [
-        {
-          "name": "FSK SATELLITE",
-          "url": "https://open.spotify.com/artist/4UikIA2yhd0jVJSXD9IOJH"
-        }
-      ],
-      "duration_ms": 148500,
-      "name": "ANSIA NO",
-      "url": "https://open.spotify.com/track/2yuYI5NFhevxa05se7Qht9"
-    },
-    {
-      "added_at": "2023-05-19 08:02:20",
-      "album": {
         "name": "Adrenalina",
         "url": "https://open.spotify.com/album/5cXeDgXDMcSMb3tH6EnCaB"
       },
@@ -1239,6 +1219,22 @@
       "duration_ms": 180000,
       "name": "Adrenalina",
       "url": "https://open.spotify.com/track/44r0DNbRcHU8KyM1K2AJ0y"
+    },
+    {
+      "added_at": "2023-05-19 08:02:20",
+      "album": {
+        "name": "FSK TRAPSHIT REVENGE",
+        "url": "https://open.spotify.com/album/4z4zCeqiEjTTBI0a8Uyl0S"
+      },
+      "artists": [
+        {
+          "name": "FSK SATELLITE",
+          "url": "https://open.spotify.com/artist/4UikIA2yhd0jVJSXD9IOJH"
+        }
+      ],
+      "duration_ms": 148500,
+      "name": "ANSIA NO",
+      "url": "https://open.spotify.com/track/2yuYI5NFhevxa05se7Qht9"
     },
     {
       "added_at": "2023-05-19 08:02:20",
@@ -1267,6 +1263,30 @@
     {
       "added_at": "2023-05-19 08:02:20",
       "album": {
+        "name": "BlaBlaBla",
+        "url": "https://open.spotify.com/album/7mqK8UcO20KLRVvlWObIf7"
+      },
+      "artists": [
+        {
+          "name": "MamboLosco",
+          "url": "https://open.spotify.com/artist/4BFn4jmfqSNaHtPWHTcy41"
+        },
+        {
+          "name": "Nardi",
+          "url": "https://open.spotify.com/artist/5Weajr5biqrfs2QaSMUhCG"
+        },
+        {
+          "name": "Finesse",
+          "url": "https://open.spotify.com/artist/3GWuJyC9r6Ug0F6jeLzTpY"
+        }
+      ],
+      "duration_ms": 113511,
+      "name": "BlaBlaBla",
+      "url": "https://open.spotify.com/track/5hGjnVZzA563cMLHy22keP"
+    },
+    {
+      "added_at": "2023-05-19 08:02:20",
+      "album": {
         "name": "DIOSA (feat. Peppe Soks) [Remix]",
         "url": "https://open.spotify.com/album/3l3aLZNlUQfhIMKApwHVVE"
       },
@@ -1283,22 +1303,6 @@
       "duration_ms": 143641,
       "name": "DIOSA (feat. Peppe Soks) - Remix",
       "url": "https://open.spotify.com/track/0ehq7roFoMrq58lI4Rdnys"
-    },
-    {
-      "added_at": "2023-05-19 08:02:20",
-      "album": {
-        "name": "No y No",
-        "url": "https://open.spotify.com/album/3SX1BaZrZ9mLBnwbj1MsJ4"
-      },
-      "artists": [
-        {
-          "name": "Morad",
-          "url": "https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9"
-        }
-      ],
-      "duration_ms": 255319,
-      "name": "No y No",
-      "url": "https://open.spotify.com/track/2QyTXB4a7l7NBBceBhXt5e"
     },
     {
       "added_at": "2023-05-19 08:02:20",
@@ -1331,6 +1335,22 @@
       "duration_ms": 265637,
       "name": "TRAVESURAS (feat. MV Killa, Yung Snapp, Lele Blade, Vale Lambo)",
       "url": "https://open.spotify.com/track/7IrtgihaMKV0DOVcB0TcBG"
+    },
+    {
+      "added_at": "2023-05-19 08:02:20",
+      "album": {
+        "name": "No y No",
+        "url": "https://open.spotify.com/album/3SX1BaZrZ9mLBnwbj1MsJ4"
+      },
+      "artists": [
+        {
+          "name": "Morad",
+          "url": "https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9"
+        }
+      ],
+      "duration_ms": 255319,
+      "name": "No y No",
+      "url": "https://open.spotify.com/track/2QyTXB4a7l7NBBceBhXt5e"
     },
     {
       "added_at": "2023-05-19 08:02:20",
@@ -1591,30 +1611,6 @@
       "duration_ms": 240000,
       "name": "Louboutin",
       "url": "https://open.spotify.com/track/7fzaDe7qR6IX2w275uX4Th"
-    },
-    {
-      "added_at": "2023-05-19 08:02:20",
-      "album": {
-        "name": "Dorado (feat. Sfera Ebbasta & Feid)",
-        "url": "https://open.spotify.com/album/1AlYgD1SjWC0r4xpgnI4WF"
-      },
-      "artists": [
-        {
-          "name": "Mahmood",
-          "url": "https://open.spotify.com/artist/06nvjg4wBANK6DCHjqtPNd"
-        },
-        {
-          "name": "Sfera Ebbasta",
-          "url": "https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz"
-        },
-        {
-          "name": "Feid",
-          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
-        }
-      ],
-      "duration_ms": 178044,
-      "name": "Dorado (feat. Sfera Ebbasta & Feid)",
-      "url": "https://open.spotify.com/track/1kI7mZAziaRfBeAOraRW1i"
     }
   ],
   "unique_name": "Club Rap ",

@@ -173,6 +173,28 @@
     },
     {
       "album": {
+        "name": "Alive",
+        "url": "https://open.spotify.com/album/0apwIZ3lquYGdDgCLntSmG"
+      },
+      "artists": [
+        {
+          "name": "Thorne",
+          "url": "https://open.spotify.com/artist/03SaLEDbLBTYkO0sSyN791"
+        },
+        {
+          "name": "iFeature",
+          "url": "https://open.spotify.com/artist/1NkeIgGpORkhxCUluCnnFT"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176640,
+      "name": "Alive",
+      "url": "https://open.spotify.com/track/7GCln9p45XDwJeQ7qykGVu"
+    },
+    {
+      "album": {
         "name": "All Access",
         "url": "https://open.spotify.com/album/151Lb7EhuJUIfFTLWkeuI4"
       },
@@ -2367,6 +2389,24 @@
     },
     {
       "album": {
+        "name": "high4aminute",
+        "url": "https://open.spotify.com/album/0zpzJJy4JNWcFQPMwLQPD3"
+      },
+      "artists": [
+        {
+          "name": "Raude",
+          "url": "https://open.spotify.com/artist/53OGD4I8jF4rxTyEquy1WZ"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 108750,
+      "name": "high4aminute",
+      "url": "https://open.spotify.com/track/30yzZdUB2IwJBPHT75z6wN"
+    },
+    {
+      "album": {
         "name": "Home",
         "url": "https://open.spotify.com/album/6Ylx3tJ8nATOEKSXGoybHH"
       },
@@ -3000,6 +3040,28 @@
       "duration_ms": 172380,
       "name": "Lost",
       "url": "https://open.spotify.com/track/5hOe51orNiMhr6kDgJXFkf"
+    },
+    {
+      "album": {
+        "name": "Lost In The Middle",
+        "url": "https://open.spotify.com/album/38GI8CmepSQ8Pfihwhk3dN"
+      },
+      "artists": [
+        {
+          "name": "T & Sugah",
+          "url": "https://open.spotify.com/artist/6jsS2mOTAxVrlSUWiPLXpH"
+        },
+        {
+          "name": "Mara Necia",
+          "url": "https://open.spotify.com/artist/7GmAxuHGS4ySjZecLjWgfE"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242758,
+      "name": "Lost In The Middle",
+      "url": "https://open.spotify.com/track/73Ir0ULVmuRYLlg9MH4yYG"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "New makes old. Cover: Sierra Ferrell",
-  "num_followers": 274277,
+  "num_followers": 274370,
   "original_name": "Vintage Vibes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkZGRlNjE2ZDUwYjQzZjQ5ZDU3YmZlOGZmMjZjMzFhZmQ2NDEwZDgz",
+  "snapshot_id": "MCxkMWRiNWM3Y2EzYzViMTk4OWVjOGU2MDA1M2Y4MTkwNGMxMDIyZTlk",
   "tracks": [
     {
       "added_at": "2023-05-19 04:00:00",
@@ -479,18 +479,30 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "Luke Bell",
-        "url": "https://open.spotify.com/album/5gtzbumKYEG1Uz4BvB8hbj"
+        "name": "Interstate Gospel",
+        "url": "https://open.spotify.com/album/0IXxmmlfSQxgJNWnNjHhgJ"
       },
       "artists": [
         {
-          "name": "Luke Bell",
-          "url": "https://open.spotify.com/artist/4D3lmUAeXE2SMsOKd2B8XQ"
+          "name": "Pistol Annies",
+          "url": "https://open.spotify.com/artist/2wSgVsgLUZeDJwoLcPO7ny"
+        },
+        {
+          "name": "Miranda Lambert",
+          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
+        },
+        {
+          "name": "Ashley Monroe",
+          "url": "https://open.spotify.com/artist/37BiX28I6pF104F92U1hDP"
+        },
+        {
+          "name": "Angaleena Presley",
+          "url": "https://open.spotify.com/artist/7hmwyQifkGl8GgOMVJZvW0"
         }
       ],
-      "duration_ms": 209826,
-      "name": "Where Ya Been?",
-      "url": "https://open.spotify.com/track/5FBjLI91XAAfkJIObf6lvV"
+      "duration_ms": 174253,
+      "name": "Got My Name Changed Back",
+      "url": "https://open.spotify.com/track/2WPE0Z7u5PafvN2aWk5pFl"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -527,30 +539,18 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "Interstate Gospel",
-        "url": "https://open.spotify.com/album/0IXxmmlfSQxgJNWnNjHhgJ"
+        "name": "Luke Bell",
+        "url": "https://open.spotify.com/album/5gtzbumKYEG1Uz4BvB8hbj"
       },
       "artists": [
         {
-          "name": "Pistol Annies",
-          "url": "https://open.spotify.com/artist/2wSgVsgLUZeDJwoLcPO7ny"
-        },
-        {
-          "name": "Miranda Lambert",
-          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
-        },
-        {
-          "name": "Ashley Monroe",
-          "url": "https://open.spotify.com/artist/37BiX28I6pF104F92U1hDP"
-        },
-        {
-          "name": "Angaleena Presley",
-          "url": "https://open.spotify.com/artist/7hmwyQifkGl8GgOMVJZvW0"
+          "name": "Luke Bell",
+          "url": "https://open.spotify.com/artist/4D3lmUAeXE2SMsOKd2B8XQ"
         }
       ],
-      "duration_ms": 174253,
-      "name": "Got My Name Changed Back",
-      "url": "https://open.spotify.com/track/2WPE0Z7u5PafvN2aWk5pFl"
+      "duration_ms": 209826,
+      "name": "Where Ya Been?",
+      "url": "https://open.spotify.com/track/5FBjLI91XAAfkJIObf6lvV"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -799,6 +799,22 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
+        "name": "My Gospel",
+        "url": "https://open.spotify.com/album/25uC3BzETi50E1xFm05JcK"
+      },
+      "artists": [
+        {
+          "name": "Paul Cauthen",
+          "url": "https://open.spotify.com/artist/6yHM0XQEdu9sIlbILMaKBp"
+        }
+      ],
+      "duration_ms": 261730,
+      "name": "I'll Be the One",
+      "url": "https://open.spotify.com/track/01JkrDSrakX5UO5knhpKNA"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
         "name": "Highway Queen",
         "url": "https://open.spotify.com/album/0tYgeDm3xRF6AV19UwDXXW"
       },
@@ -815,18 +831,18 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "My Gospel",
-        "url": "https://open.spotify.com/album/25uC3BzETi50E1xFm05JcK"
+        "name": "Giddy Up",
+        "url": "https://open.spotify.com/album/4PmXzKdrmohY9hqUenv2cl"
       },
       "artists": [
         {
-          "name": "Paul Cauthen",
-          "url": "https://open.spotify.com/artist/6yHM0XQEdu9sIlbILMaKBp"
+          "name": "Jenny Lewis",
+          "url": "https://open.spotify.com/artist/5cMVRrisBpDkXCVG48epED"
         }
       ],
-      "duration_ms": 261730,
-      "name": "I'll Be the One",
-      "url": "https://open.spotify.com/track/01JkrDSrakX5UO5knhpKNA"
+      "duration_ms": 181320,
+      "name": "Giddy Up",
+      "url": "https://open.spotify.com/track/0ZAkzqCljhDcAOBhemJfs0"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -863,22 +879,6 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "Sidelong",
-        "url": "https://open.spotify.com/album/0QsTiookBuBIsLCdSvlTIa"
-      },
-      "artists": [
-        {
-          "name": "Sarah Shook & the Disarmers",
-          "url": "https://open.spotify.com/artist/6ahZTaoJs2D0gcscsEx64r"
-        }
-      ],
-      "duration_ms": 201426,
-      "name": "Fuck Up",
-      "url": "https://open.spotify.com/track/1cXUmVaiwY79D1GvUf43QS"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
         "name": "Easy Way",
         "url": "https://open.spotify.com/album/28RycHmG72yoKVXZ7X3PEg"
       },
@@ -891,6 +891,22 @@
       "duration_ms": 182826,
       "name": "Got a Lotta Love",
       "url": "https://open.spotify.com/track/0MIFQg8ak1p21EeHK2JrJg"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
+        "name": "Sidelong",
+        "url": "https://open.spotify.com/album/0QsTiookBuBIsLCdSvlTIa"
+      },
+      "artists": [
+        {
+          "name": "Sarah Shook & the Disarmers",
+          "url": "https://open.spotify.com/artist/6ahZTaoJs2D0gcscsEx64r"
+        }
+      ],
+      "duration_ms": 201426,
+      "name": "Fuck Up",
+      "url": "https://open.spotify.com/track/1cXUmVaiwY79D1GvUf43QS"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -923,22 +939,6 @@
       "duration_ms": 233706,
       "name": "What's She Crying For",
       "url": "https://open.spotify.com/track/7piSpTyc00ahEUgqBMLYjH"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
-        "name": "Giddy Up",
-        "url": "https://open.spotify.com/album/4PmXzKdrmohY9hqUenv2cl"
-      },
-      "artists": [
-        {
-          "name": "Jenny Lewis",
-          "url": "https://open.spotify.com/artist/5cMVRrisBpDkXCVG48epED"
-        }
-      ],
-      "duration_ms": 181320,
-      "name": "Giddy Up",
-      "url": "https://open.spotify.com/track/0ZAkzqCljhDcAOBhemJfs0"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -1347,22 +1347,6 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "Joni Was Right",
-        "url": "https://open.spotify.com/album/4b9Jd0hGddS6xH6zjsCEV7"
-      },
-      "artists": [
-        {
-          "name": "Marit Larsen",
-          "url": "https://open.spotify.com/artist/0SGEunj6EBwdWMNCdWSrPg"
-        }
-      ],
-      "duration_ms": 197192,
-      "name": "Morgan, I Might",
-      "url": "https://open.spotify.com/track/546zJv5pyapMZO5O0l0p4x"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
         "name": "Comeback",
         "url": "https://open.spotify.com/album/59RQt16lLTsoUSn2FdHvNb"
       },
@@ -1375,6 +1359,22 @@
       "duration_ms": 206729,
       "name": "Ice Cream and Liquor",
       "url": "https://open.spotify.com/track/2JN0eElE3BnGsrbsyvzEhO"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
+        "name": "Joni Was Right",
+        "url": "https://open.spotify.com/album/4b9Jd0hGddS6xH6zjsCEV7"
+      },
+      "artists": [
+        {
+          "name": "Marit Larsen",
+          "url": "https://open.spotify.com/artist/0SGEunj6EBwdWMNCdWSrPg"
+        }
+      ],
+      "duration_ms": 197192,
+      "name": "Morgan, I Might",
+      "url": "https://open.spotify.com/track/546zJv5pyapMZO5O0l0p4x"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -1435,6 +1435,22 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
+        "name": "With Me in the Summer",
+        "url": "https://open.spotify.com/album/1d6S1Z19Ia7xJkVd6ZoOlk"
+      },
+      "artists": [
+        {
+          "name": "Molly Parden",
+          "url": "https://open.spotify.com/artist/5dUUxJQg27XaHdKyLYwNg5"
+        }
+      ],
+      "duration_ms": 189871,
+      "name": "Still Miss the Way",
+      "url": "https://open.spotify.com/track/0y7ARFCXEDZpAOQDD2lmH0"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
         "name": "Golden Eagle",
         "url": "https://open.spotify.com/album/1mmQW9vAtSUvvNVzbJmUxL"
       },
@@ -1447,22 +1463,6 @@
       "duration_ms": 208826,
       "name": "No One Has the Answers",
       "url": "https://open.spotify.com/track/58emzxS7apqOn2amBFfDyr"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
-        "name": "Blue Kentucky Girl (Expanded & Remastered)",
-        "url": "https://open.spotify.com/album/00tOvqGXbQLpbPMRmYjs5d"
-      },
-      "artists": [
-        {
-          "name": "Emmylou Harris",
-          "url": "https://open.spotify.com/artist/5s6TJEuHTr9GR894wc6VfP"
-        }
-      ],
-      "duration_ms": 200933,
-      "name": "Blue Kentucky Girl - 2003 Remaster",
-      "url": "https://open.spotify.com/track/3O9GZtd0hf6RH6EJjb5KXB"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -1483,18 +1483,18 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "With Me in the Summer",
-        "url": "https://open.spotify.com/album/1d6S1Z19Ia7xJkVd6ZoOlk"
+        "name": "Blue Kentucky Girl (Expanded & Remastered)",
+        "url": "https://open.spotify.com/album/00tOvqGXbQLpbPMRmYjs5d"
       },
       "artists": [
         {
-          "name": "Molly Parden",
-          "url": "https://open.spotify.com/artist/5dUUxJQg27XaHdKyLYwNg5"
+          "name": "Emmylou Harris",
+          "url": "https://open.spotify.com/artist/5s6TJEuHTr9GR894wc6VfP"
         }
       ],
-      "duration_ms": 189871,
-      "name": "Still Miss the Way",
-      "url": "https://open.spotify.com/track/0y7ARFCXEDZpAOQDD2lmH0"
+      "duration_ms": 200933,
+      "name": "Blue Kentucky Girl - 2003 Remaster",
+      "url": "https://open.spotify.com/track/3O9GZtd0hf6RH6EJjb5KXB"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -1547,22 +1547,6 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "I've Got a Way",
-        "url": "https://open.spotify.com/album/6GbEPmACLeORsCGcgRgSjO"
-      },
-      "artists": [
-        {
-          "name": "Kelsey Waldon",
-          "url": "https://open.spotify.com/artist/6hQxXJuBnpCcS2VLTezQv1"
-        }
-      ],
-      "duration_ms": 161013,
-      "name": "Dirty Old Town",
-      "url": "https://open.spotify.com/track/4ZhxmbjlcoM9VJ5VjfdHyS"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
         "name": "Field Recordings, Vol. 1",
         "url": "https://open.spotify.com/album/2C4pCAR41BjNeDEEn1M7tM"
       },
@@ -1575,6 +1559,22 @@
       "duration_ms": 156000,
       "name": "Diamond Joe",
       "url": "https://open.spotify.com/track/4BwPFomd2l0vi31rxmRjka"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
+        "name": "I've Got a Way",
+        "url": "https://open.spotify.com/album/6GbEPmACLeORsCGcgRgSjO"
+      },
+      "artists": [
+        {
+          "name": "Kelsey Waldon",
+          "url": "https://open.spotify.com/artist/6hQxXJuBnpCcS2VLTezQv1"
+        }
+      ],
+      "duration_ms": 161013,
+      "name": "Dirty Old Town",
+      "url": "https://open.spotify.com/track/4ZhxmbjlcoM9VJ5VjfdHyS"
     },
     {
       "added_at": "2023-05-19 04:00:00",

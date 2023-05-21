@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZw4tssbbZmb.md) - [plain]
 
 > Devendra Banhart and Noah Georgeson's Takeover selection, as previously featured on <a href="spotify:user:spotify:playlist:37i9dQZF1DX9c7yCloFHHL">Ambiente</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,729 likes - 23 songs - 2 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,756 likes - 23 songs - 2 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZw4tssbbZmb.md) - [plain]
 | 14 | [A Cat](https://open.spotify.com/track/28SyjgSjrXkge8GBgWxRTd) | [Devendra Banhart](https://open.spotify.com/artist/1YZEoYFXx4AxVv13OiOPvZ), [Noah Georgeson](https://open.spotify.com/artist/560GMyzlOxLgjvQdFjaHh8) | [Refuge](https://open.spotify.com/album/6gxz2tx0MdfUJAQnWYonpg) | 5:37 |
 | 15 | [Asura Cave](https://open.spotify.com/track/78MHZagSeendoTaCBjIGt5) | [Devendra Banhart](https://open.spotify.com/artist/1YZEoYFXx4AxVv13OiOPvZ), [Noah Georgeson](https://open.spotify.com/artist/560GMyzlOxLgjvQdFjaHh8) | [Refuge](https://open.spotify.com/album/6gxz2tx0MdfUJAQnWYonpg) | 5:51 |
 | 16 | [Obiero](https://open.spotify.com/track/0dXF2xOPWR3mPDqA5Lt9nJ) | [Ayub Ogada](https://open.spotify.com/artist/1f8646DgHta6Gl3eLxZTdk) | [En Mana Kuoyo](https://open.spotify.com/album/7kVFZYCVtpYHiuJ0kdua53) | 5:40 |
-| 17 | [Flux 2](https://open.spotify.com/track/0cQ2AFeqZoopVS8zetcyra) | [R\. Turman](https://open.spotify.com/artist/5fZZnv5EfMpAL3DiQHegFe), [Robert Turman](https://open.spotify.com/artist/2W2BiVgO5bISQejnz7HPhE) | [Flux](https://open.spotify.com/album/50MNzElaJpGcQNnxV6JC9c) | 10:40 |
+| 17 | [FLUX TWO](https://open.spotify.com/track/7yfa4JcR05wO1roiR5Eb7B) | [Robert Turman](https://open.spotify.com/artist/2W2BiVgO5bISQejnz7HPhE) | [FLUX](https://open.spotify.com/album/3PM9Fn7zUKsP8G25LqyTnJ) | 10:42 |
 | 18 | [The Art of Mirrors \(after Derek Jarman\)](https://open.spotify.com/track/5pEwaHaIYjpNUilttB5IdV) | [Harold Budd](https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl) | [In The Mist](https://open.spotify.com/album/3J8bwfrUYrzmuE0IqFLhUS) | 5:58 |
 | 19 | [Kyamdro Semkye \- 2016 Remaster; Remastered](https://open.spotify.com/track/0vLvvtpSY5ZI8nG9JcGm4d) | [Choying Drolma](https://open.spotify.com/artist/7hMvH85hAiQvzzdCo1QR97), [Steve Tibbetts](https://open.spotify.com/artist/4VksGqYn2k7ljivxGwRZ8y) | [Chö \(Remastered\)](https://open.spotify.com/album/1YkNz3wHBTKBko4goVHGSy) | 3:14 |
 | 20 | [Mermaid](https://open.spotify.com/track/4LcogSQgiNo6rtCG70emJj) | [Alan Hawkshaw](https://open.spotify.com/artist/4xJbCqwNfYlbl8v026L24T), [Brian Bennett](https://open.spotify.com/artist/0WP1sO0RYZHeJyd8PLSRBp) | [Kpm 1000 Series: Synthesis](https://open.spotify.com/album/6H9lWC3gxOefkRfDrxmlaB) | 3:56 |
@@ -32,4 +32,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZw4tssbbZmb.md) - [plain]
 | 22 | [Destiny No.1](https://open.spotify.com/track/4oFTxscluKzz03XNU67cXg) | [Yasuaki Shimizu](https://open.spotify.com/artist/0Q14t6kRnPv4av49Rz5o6e) | [Seventh Garden](https://open.spotify.com/album/3zPHBf3UoBjK0nQEUz1gCi) | 5:19 |
 | 23 | [Cascata di Malbacco](https://open.spotify.com/track/3sCaGhYUT0HytB06FG9M23) | [John Carroll Kirby](https://open.spotify.com/artist/7FQiZr787umw7P5dO3zqld) | [Tuscany](https://open.spotify.com/album/3D4mnf0AU05ASyKnf0wEiq) | 18:08 |
 
-Snapshot ID: `MCw2ODQ0NzIxZTkzZjQ4ZmZjNjJkMDJkMzg1NzU3MmY0MTc1MzYyMjI5`
+Snapshot ID: `MCw3Zjg2ZWJjZWJkMzRkMDdkYTAxMzAxYzQxYmMzY2JhYzViZjFmMjlk`

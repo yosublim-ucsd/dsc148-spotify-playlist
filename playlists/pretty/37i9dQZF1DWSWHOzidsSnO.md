@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSWHOzidsSnO.md) - [plain]
 
 > ¡Mujeres de los Andes, a todo volumen! Con Vale en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,528 likes - 75 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,530 likes - 75 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSWHOzidsSnO.md) - [plain]
 | 10 | [TQG](https://open.spotify.com/track/0DWdj2oZMBFSzRsi2Cvfzf) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [MAÑANA SERÁ BONITO](https://open.spotify.com/album/4kS7bSuU0Jm9LYMosFU2x5) | 3:17 |
 | 11 | [Prométeme](https://open.spotify.com/track/5LGEeGRTgcYI2KHRYcJLdc) | [Monsieur Periné](https://open.spotify.com/artist/36KsCCwgI0Dep97yVJWmkK) | [Bolero Apocalíptico](https://open.spotify.com/album/51oaN9VvyBHWlflI8UzUti) | 3:09 |
 | 12 | [7 De Octubre](https://open.spotify.com/track/3A4WD7JkJWq0PgzoVXq337) | [Itzza Primera](https://open.spotify.com/artist/0PlTbBrPOOOmJzprmZ4cdM) | [7 De Octubre](https://open.spotify.com/album/0yC4zTvFMwnsK6RxhLSt7u) | 2:30 |
-| 13 | [Fantasmas](https://open.spotify.com/track/5oc0avV70I9FIJIRyIeRU4) | [Lee Eye](https://open.spotify.com/artist/1XQ6We9YHmRoIoD9rE9KBX), [SIMONA](https://open.spotify.com/artist/7H7hLNfP9MzG8mt2A3s7nT) | [Fantasmas](https://open.spotify.com/album/2QubXvxqMEnCtzhHFYChay) | 2:52 |
+| 13 | [FANTASMAS](https://open.spotify.com/track/5oc0avV70I9FIJIRyIeRU4) | [Lee Eye](https://open.spotify.com/artist/1XQ6We9YHmRoIoD9rE9KBX), [SIMONA](https://open.spotify.com/artist/7H7hLNfP9MzG8mt2A3s7nT) | [FANTASMAS](https://open.spotify.com/album/2QubXvxqMEnCtzhHFYChay) | 2:52 |
 | 14 | [Aguántame un ratito](https://open.spotify.com/track/6mxRQaBAAFwnUnefO2ilh6) | [Cristina Valentina](https://open.spotify.com/artist/3pC5RVO04pJTFcp5xxdXaV) | [Morir en Escena](https://open.spotify.com/album/4tw3Ze1UOCLZKCohr7e00v) | 3:39 |
 | 15 | [Canción de Amor](https://open.spotify.com/track/3H8ZKu3GK8zonRkeSkt5hZ) | [Las Áñez](https://open.spotify.com/artist/1j2LXEgnuKC1ghy9ioDxl9) | [Paralelas](https://open.spotify.com/album/0MuNavvFDWXSngWCiWMzAH) | 3:52 |
 | 16 | [Sabor a Ti](https://open.spotify.com/track/4lUhWY1Cc1s1N0ncrAHE4x) | [Daniela Darcourt](https://open.spotify.com/artist/4exGY59juoSimpcH1NiuaR) | [Catarsis](https://open.spotify.com/album/2aWqyVLeFFPrPe4Ra77b9f) | 3:13 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSWHOzidsSnO.md) - [plain]
 | 74 | [El Favorcito](https://open.spotify.com/track/4nHJp4ynAQQZgSlurkpBen) | [La Muchacha](https://open.spotify.com/artist/74IAICxWfYBsjabuEbKQXV) | [Canciones Crudas](https://open.spotify.com/album/047ARD5KCqUWxg11bIll8Q) | 3:28 |
 | 75 | [Cubeta](https://open.spotify.com/track/1JDoIz8IWcNubVpKW2hXIR) | [Mayte Montero](https://open.spotify.com/artist/2Z3ytThcszxwnP0nR6ZafC) | [Cubeta](https://open.spotify.com/album/2pTRMkCYKcwVilF1OkC9il) | 3:40 |
 
-Snapshot ID: `MCw2MTk3OWIwZGViZjNhYmFkYmJmYjRiNzE2NGIzMTlmYTNmM2VhYzQy`
+Snapshot ID: `MCxhZTA4MjVlMjc1MDllOTBiYWNmNzIzMTcyYWUxOGFiM2M0ZjYzOTE4`

@@ -4,7 +4,7 @@
 
 > All things <a href="spotify:genre:bass">bass</a> with Whyte Fang.
 
-484 songs - 1 day 4 hr 3 min
+485 songs - 1 day 4 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -465,7 +465,7 @@
 | [Waiting For Love](https://open.spotify.com/track/0LtlhQCJl4un9g0rwmIz9x) | [ARMNHMR](https://open.spotify.com/artist/0P2bZXPyjHYRW4guHVAFl1), [neverwaves](https://open.spotify.com/artist/2js39lyEUjoD0x3VxshU5o) | [Waiting For Love](https://open.spotify.com/album/6CHRqmshlcoCfUTqck1IUB) | 4:22 | 2022-03-11 | 2022-12-03 |
 | [Waiting For The Day \(feat\. Kyle Reynolds\)](https://open.spotify.com/track/6VGqFX2ZOLbdhtOZXNXY2k) | [QUIX](https://open.spotify.com/artist/19EW4WBhl0fvZUQgi7wV5M), [CORTR](https://open.spotify.com/artist/7tGnQKzE0tFRKKK7gf8cYV), [Kyle Reynolds](https://open.spotify.com/artist/5yhR0OqJhkbQ2y76XUte3R) | [Waiting For The Day \(feat\. Kyle Reynolds\)](https://open.spotify.com/album/1yKCAwWiURqdUyA7yi7yHu) | 3:42 | 2022-07-08 | 2023-04-29 |
 | [Walk Away](https://open.spotify.com/track/2okYKFR436KDB7joPSCR5J) | [Eliminate](https://open.spotify.com/artist/6hBrJJrcYoNhvLC6KaFR4b) | [Belly Of The Beast EP](https://open.spotify.com/album/2GLO4hn59wWApS4uMbKrNe) | 3:12 | 2021-12-17 | 2022-03-12 |
-| [Walked Through Fire](https://open.spotify.com/track/5GjxlgXBgCMbp0zHLFUaug) | [Awakend](https://open.spotify.com/artist/4lFbV0wEuW8ulSq6NBYg4O), [Isaac Warburton](https://open.spotify.com/artist/4PZIzA4TmZMBMDg2soNTQk) | [Walked Through Fire](https://open.spotify.com/album/3K1a93RS9IWlIulb8Tkqhn) | 3:34 | 2022-08-26 |  |
+| [Walked Through Fire](https://open.spotify.com/track/5GjxlgXBgCMbp0zHLFUaug) | [Awakend](https://open.spotify.com/artist/4lFbV0wEuW8ulSq6NBYg4O), [Isaac Warburton](https://open.spotify.com/artist/4PZIzA4TmZMBMDg2soNTQk) | [Walked Through Fire](https://open.spotify.com/album/3K1a93RS9IWlIulb8Tkqhn) | 3:34 | 2022-08-26 | 2023-05-21 |
 | [Warn Ya](https://open.spotify.com/track/1nqPEAtw3N7by96hkxUD6v) | [The Funk Hunters](https://open.spotify.com/artist/5xwd7lKJeb2opUvYZnXFut), [Defunk](https://open.spotify.com/artist/79OsU8JudFdMQxQTnyOJcF), [Akylla](https://open.spotify.com/artist/5Ad8YPmqQf2tay2SZ8NxWY) | [Warn Ya](https://open.spotify.com/album/36vvAGLAltFTQXeymiQIsl) | 4:36 | 2021-12-17 | 2022-03-12 |
 | [warning signs](https://open.spotify.com/track/7ml01z1vMWsZ9ph96DTuao) | [helloworld](https://open.spotify.com/artist/01qG5pbsKe96w87ZMjphP4) | [warning signs](https://open.spotify.com/album/2xzuk8DDeyynsPztoTwNbB) | 4:00 | 2022-02-18 | 2022-08-27 |
 | [Warp](https://open.spotify.com/track/1SLsfw9abIe3k8QlQYuHqj) | [Bossfight](https://open.spotify.com/artist/1fILrc9B34DjHxSMkJmyBN) | [Warp](https://open.spotify.com/album/4awsZLcxJXiAdiLU5Jzv5a) | 3:43 | 2022-03-11 | 2022-09-03 |
@@ -488,6 +488,7 @@
 | [Worst Enemy](https://open.spotify.com/track/1ZASppQGfipnlhwfXooTdy) | [Borgeous](https://open.spotify.com/artist/4uiMn2g0pgTrhN096QJhbp), [Taylr Renee](https://open.spotify.com/artist/27feHJH3VKyk8FgOndiWU8) | [Worst Enemy](https://open.spotify.com/album/7d5WbnusZ9Gnku3Z92yphk) | 2:37 | 2022-06-10 | 2022-09-03 |
 | [XENA](https://open.spotify.com/track/3RWjhGoGLeJlrPlMWJyHJf) | [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Nai Barghouti](https://open.spotify.com/artist/78XHgIjAv0tqb9hVRUsifg) | [XENA](https://open.spotify.com/album/6dIRD8FVDLGmA0AoxYEOeA) | 4:11 | 2023-02-04 |  |
 | [You](https://open.spotify.com/track/1RcnRsz8a7q4lexdQrMB9M) | [Slowboy](https://open.spotify.com/artist/65FHTCI8EmW94W0TdWb8ja), [lucaf.](https://open.spotify.com/artist/6D9zCyDfKoioQD2vYKxOdI) | [You](https://open.spotify.com/album/6T1tBlwCLcaymFAjgLB96F) | 2:28 | 2023-05-12 | 2023-05-20 |
+| [You Found Me](https://open.spotify.com/track/5caU54QlqCMPEKIbQ3nbhd) | [Adventure Club](https://open.spotify.com/artist/5CdJjUi9f0cVgo9nFuJrFa), [Jessica Audiffred](https://open.spotify.com/artist/4odLDriBk6oEZotzLPTSnD), [Clara Park](https://open.spotify.com/artist/7pNT2JErag4HzHSJk6z2w2) | [You Found Me](https://open.spotify.com/album/0TNgUfGot6W2bnm9rvsGqu) | 4:29 | 2023-05-19 |  |
 | [You Got It](https://open.spotify.com/track/3bXWu4wjShtls0NJT59YrE) | [Ookay](https://open.spotify.com/artist/1HQGhla3VNj1dBmKTtVT2t) | [You Got It](https://open.spotify.com/album/6EUg2hYGUKicBGqGu5GzPs) | 2:38 | 2023-04-07 | 2023-05-13 |
 | [You Were Right](https://open.spotify.com/track/0m3EsIfqAfo48vGr18KVpq) | [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg), [Wooli](https://open.spotify.com/artist/1Uyqa2sdHm1bL5JK4IC4zc), [Grabbitz](https://open.spotify.com/artist/4fv1OFJywZ7DHCz3mVQQ45) | [ILLENIUM](https://open.spotify.com/album/0ValflNlWce21wm5PlwV60) | 3:55 | 2023-04-28 |  |
 | [Your Love](https://open.spotify.com/track/5xmwDU6b2jc80VmbgtpijM) | [One True God](https://open.spotify.com/artist/35Of0m0cvpLYrmQ6qd5ocp), [Roniit](https://open.spotify.com/artist/09KYpkm7IEPR3nc8omKpSY) | [Your Love](https://open.spotify.com/album/2bBRHynve4mj9EyncJmTie) | 3:09 | 2023-04-21 |  |

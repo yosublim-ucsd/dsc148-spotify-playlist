@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW668oFRU96k.md) - [plain]
 
 > A selection of new, quality electro sounds from your favorite EDM acts! Cover: Tiësto x Mathame
 
-[Spotify](https://open.spotify.com/user/spotify) - 193,504 likes - 78 songs - 3 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 193,529 likes - 78 songs - 3 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW668oFRU96k.md) - [plain]
 | 5 | [Wish I Could Forget \(with blackbear & Bring Me The Horizon\)](https://open.spotify.com/track/4QcfHUpGxGGKh7VIVs3LYI) | [SLANDER](https://open.spotify.com/artist/20DZAfCuP1TKZl5KcY7z3Q), [blackbear](https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM), [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [Wish I Could Forget \(with blackbear & Bring Me The Horizon\)](https://open.spotify.com/album/3Q68tMQ7tRDuz6qIN1hODk) | 3:26 |
 | 6 | [Revelations](https://open.spotify.com/track/40zJbxW89dq6bEwUVLrxJS) | [ZHU](https://open.spotify.com/artist/28j8lBWDdDSHSSt5oPlsX2), [Devault](https://open.spotify.com/artist/1VBAKMui4zm5MnBWNn3NbL), [BabyJake](https://open.spotify.com/artist/07Asx51VtMw5kbNXKrpZlq) | [Revelations](https://open.spotify.com/album/6qYPN9DGpfMYQiPItLUjwN) | 3:28 |
 | 7 | [\(I Dread The Day He Takes You To\) Paris \[feat\. MYRNE\]](https://open.spotify.com/track/2FEF1UNTCXQjgFYhh0zAm6) | [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw), [MYRNE](https://open.spotify.com/artist/41DKMtAnhVo7aDeluAHDJg) | [\(I Dread The Day He Takes You To\) Paris \[feat\. MYRNE\]](https://open.spotify.com/album/5DAft4bZcUYr4hxHwgCoST) | 3:38 |
-| 8 | [Rave Machine](https://open.spotify.com/track/0O8XYCHXXb3G1DWnU7EnpM) | [BEAUZ](https://open.spotify.com/artist/2Wzb0u138rgoZQTK3ytknT), [Tony Junior](https://open.spotify.com/artist/17esEoE9uEHFKuzkar2UL0) | [Rave Machine](https://open.spotify.com/album/0UbZWBXHiYrER9SCkLogcy) | 2:45 |
+| 8 | [Rave Machine](https://open.spotify.com/track/0O8XYCHXXb3G1DWnU7EnpM) | [Tony Junior](https://open.spotify.com/artist/17esEoE9uEHFKuzkar2UL0), [BEAUZ](https://open.spotify.com/artist/2Wzb0u138rgoZQTK3ytknT) | [Rave Machine](https://open.spotify.com/album/0UbZWBXHiYrER9SCkLogcy) | 2:45 |
 | 9 | [Zoochi](https://open.spotify.com/track/2espjuhoZe71BgCQxfOn0J) | [Armand Van Helden](https://open.spotify.com/artist/3cQA9WH8liZfeja1DxcDYE), [Roc'Well](https://open.spotify.com/artist/24ymM2hmciAJvXw8mrXqY1), [Slayrizz](https://open.spotify.com/artist/2g9SWtMYaTDIqWxaOBe495) | [Zoochi](https://open.spotify.com/album/21U979qpumNTHc2J0nW1ZY) | 2:24 |
 | 10 | [Right Before Our Eyes](https://open.spotify.com/track/5xmQy57y7FuyUQxpeNlUbT) | [Elephante](https://open.spotify.com/artist/3fjs4zbBFxEFFe8Wyojo0G), [BEAUZ](https://open.spotify.com/artist/2Wzb0u138rgoZQTK3ytknT), [Mark Tuan](https://open.spotify.com/artist/4l1q0z9xeJcJw73Gxc6gCB) | [Right Before Our Eyes](https://open.spotify.com/album/0485X59JRJJIQSRiH22WGd) | 3:04 |
 | 11 | [U](https://open.spotify.com/track/6jd86GtblW9yzuw7uWklSn) | [Willim](https://open.spotify.com/artist/5bp5XaFz8Py4UFEhQ6FZRk), [Jonasu](https://open.spotify.com/artist/7u4ayw4QFEsolPxZgnPAMT) | [U](https://open.spotify.com/album/3OktXGR56FG3OipinKTuJa) | 2:53 |
@@ -87,4 +87,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW668oFRU96k.md) - [plain]
 | 77 | [Jacaré](https://open.spotify.com/track/1WY17VGE4rQjsyWi1Tw3be) | [Sofi Tukker](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q) | [Jacaré](https://open.spotify.com/album/6tVrvnbU1sLGGegMIEYexO) | 2:36 |
 | 78 | [WOW](https://open.spotify.com/track/2GI7yu94jBwLRZ8e1zuKRN) | [Ken](https://open.spotify.com/artist/7yOR1XnoSsiUU4wf6xMnNI), [Adrian Fyrla](https://open.spotify.com/artist/5Y5v0RYsB19JJ6VT6sA7ij), [Scarlett](https://open.spotify.com/artist/06ahQOusxyLRkcUMrXts8s) | [WOW](https://open.spotify.com/album/3SPke9J0yJfxzorzwbW6Vm) | 2:00 |
 
-Snapshot ID: `MTY4NDQyNTYwMCwwMDAwMDAwMGFiNGMyZGY4OTFmZmRiNWE5M2ExZDQ2MWU3ZjUwYjNj`
+Snapshot ID: `MCxmZDY3YzM5MTk0ODlhNDQ1MTcwZDk3YjYzODhhNDRkMjcxZmZiOWM5`

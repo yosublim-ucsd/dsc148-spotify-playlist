@@ -1,12 +1,12 @@
 {
   "description": "Esta es la plebada que est\u00e1 marcando tendencia en la M\u00fasica Mexicana. Diego Coss en portada.",
-  "num_followers": 54085,
+  "num_followers": 54129,
   "original_name": "La Nueva Ola: M\u00fasica Mexicana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiOTJlNGJlODkwNmU5MzZiMTdlODkyNDllNDI2Yzc5NGZmNzIzODk2",
+  "snapshot_id": "MCw5N2I2YjkzYzQ4ZGFkYmIzODk0YWFiMWI4MTZiZWJhMWFlMWIwN2Rm",
   "tracks": [
     {
       "added_at": "2023-05-19 06:00:00",
@@ -103,42 +103,6 @@
     {
       "added_at": "2023-05-05 18:32:45",
       "album": {
-        "name": "Amor",
-        "url": "https://open.spotify.com/album/5uL2IYw4ub2PuWRIESxwzd"
-      },
-      "artists": [
-        {
-          "name": "Alta Elegancia",
-          "url": "https://open.spotify.com/artist/7EOpIcFOVG2PedJgVbCHJ2"
-        },
-        {
-          "name": "DannyLux",
-          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
-        }
-      ],
-      "duration_ms": 281100,
-      "name": "Amor",
-      "url": "https://open.spotify.com/track/0QLthYlRZYAP9iRs9cjmzD"
-    },
-    {
-      "added_at": "2023-05-19 06:00:00",
-      "album": {
-        "name": "7 Dias",
-        "url": "https://open.spotify.com/album/11LDC0VyI6mfScuOCWXBLz"
-      },
-      "artists": [
-        {
-          "name": "Everardo",
-          "url": "https://open.spotify.com/artist/4fT0S7A6usiJicipEVamYd"
-        }
-      ],
-      "duration_ms": 158953,
-      "name": "7 D\u00edas",
-      "url": "https://open.spotify.com/track/2VkO0XzFaHd6KCSFtFgth2"
-    },
-    {
-      "added_at": "2023-05-05 18:32:45",
-      "album": {
         "name": "De Lunes A Viernes",
         "url": "https://open.spotify.com/album/3yuosxLkQXRX9wg4XZMLir"
       },
@@ -159,6 +123,42 @@
       "duration_ms": 153443,
       "name": "De Lunes A Viernes",
       "url": "https://open.spotify.com/track/1NG1ZbHFYLL27Upnnkz9af"
+    },
+    {
+      "added_at": "2023-05-19 06:00:00",
+      "album": {
+        "name": "7 Dias",
+        "url": "https://open.spotify.com/album/11LDC0VyI6mfScuOCWXBLz"
+      },
+      "artists": [
+        {
+          "name": "Everardo",
+          "url": "https://open.spotify.com/artist/4fT0S7A6usiJicipEVamYd"
+        }
+      ],
+      "duration_ms": 158953,
+      "name": "7 D\u00edas",
+      "url": "https://open.spotify.com/track/2VkO0XzFaHd6KCSFtFgth2"
+    },
+    {
+      "added_at": "2023-05-05 18:32:45",
+      "album": {
+        "name": "Amor",
+        "url": "https://open.spotify.com/album/5uL2IYw4ub2PuWRIESxwzd"
+      },
+      "artists": [
+        {
+          "name": "Alta Elegancia",
+          "url": "https://open.spotify.com/artist/7EOpIcFOVG2PedJgVbCHJ2"
+        },
+        {
+          "name": "DannyLux",
+          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
+        }
+      ],
+      "duration_ms": 281100,
+      "name": "Amor",
+      "url": "https://open.spotify.com/track/0QLthYlRZYAP9iRs9cjmzD"
     },
     {
       "added_at": "2023-05-05 18:32:45",
@@ -667,22 +667,6 @@
     {
       "added_at": "2023-05-05 18:32:45",
       "album": {
-        "name": "En La Silverado",
-        "url": "https://open.spotify.com/album/1x92lDuGuSiZ4tsSXbIaMi"
-      },
-      "artists": [
-        {
-          "name": "Ruben Figueroa",
-          "url": "https://open.spotify.com/artist/39sUQ6z3CTsNB4BhBecLOg"
-        }
-      ],
-      "duration_ms": 170922,
-      "name": "En La Silverado",
-      "url": "https://open.spotify.com/track/3PIW7q3bP7X7v1MklN8OyZ"
-    },
-    {
-      "added_at": "2023-05-05 18:32:45",
-      "album": {
         "name": "Rolitas De Oro",
         "url": "https://open.spotify.com/album/0zI12JLhcVts2MxbS1z4Ox"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 258500,
       "name": "Juan Ayon",
       "url": "https://open.spotify.com/track/27qF3lsFDE0Rat4i305MWs"
+    },
+    {
+      "added_at": "2023-05-05 18:32:45",
+      "album": {
+        "name": "En La Silverado",
+        "url": "https://open.spotify.com/album/1x92lDuGuSiZ4tsSXbIaMi"
+      },
+      "artists": [
+        {
+          "name": "Ruben Figueroa",
+          "url": "https://open.spotify.com/artist/39sUQ6z3CTsNB4BhBecLOg"
+        }
+      ],
+      "duration_ms": 170922,
+      "name": "En La Silverado",
+      "url": "https://open.spotify.com/track/3PIW7q3bP7X7v1MklN8OyZ"
     },
     {
       "added_at": "2023-05-05 18:32:45",
@@ -775,22 +775,6 @@
     {
       "added_at": "2023-05-05 18:32:45",
       "album": {
-        "name": "Mi Dolor",
-        "url": "https://open.spotify.com/album/1ycfMTxkTA06UdkoWQkQuC"
-      },
-      "artists": [
-        {
-          "name": "Porte Diferente",
-          "url": "https://open.spotify.com/artist/1OZhgL2E9qx49PhVzWRcuf"
-        }
-      ],
-      "duration_ms": 218250,
-      "name": "Mi Dolor",
-      "url": "https://open.spotify.com/track/1bcLCSK0dZu5mSgxyuHzu6"
-    },
-    {
-      "added_at": "2023-05-05 18:32:45",
-      "album": {
         "name": "Nada Sigue Igual",
         "url": "https://open.spotify.com/album/5xajybIAx7DoEEop4UAEXI"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 208641,
       "name": "Nada Sigue Igual",
       "url": "https://open.spotify.com/track/1Qho1WCzzFetqsasoZudDU"
+    },
+    {
+      "added_at": "2023-05-05 18:32:45",
+      "album": {
+        "name": "Mi Dolor",
+        "url": "https://open.spotify.com/album/1ycfMTxkTA06UdkoWQkQuC"
+      },
+      "artists": [
+        {
+          "name": "Porte Diferente",
+          "url": "https://open.spotify.com/artist/1OZhgL2E9qx49PhVzWRcuf"
+        }
+      ],
+      "duration_ms": 218250,
+      "name": "Mi Dolor",
+      "url": "https://open.spotify.com/track/1bcLCSK0dZu5mSgxyuHzu6"
     },
     {
       "added_at": "2023-05-05 18:32:45",
@@ -839,22 +839,6 @@
     {
       "added_at": "2023-05-05 18:32:45",
       "album": {
-        "name": "Raro",
-        "url": "https://open.spotify.com/album/7o1jM9UhLVkYGcuO6UXAsJ"
-      },
-      "artists": [
-        {
-          "name": "ElArturo",
-          "url": "https://open.spotify.com/artist/2i64HL05WcatPAtIFUOZrL"
-        }
-      ],
-      "duration_ms": 174213,
-      "name": "Pa Que Te Digo Que No",
-      "url": "https://open.spotify.com/track/1hL93q6dMCiJGLYePtSQhy"
-    },
-    {
-      "added_at": "2023-05-05 18:32:45",
-      "album": {
         "name": "Pura Miel",
         "url": "https://open.spotify.com/album/6Lywn8yw96pZysojmn0Okz"
       },
@@ -875,6 +859,22 @@
     {
       "added_at": "2023-05-05 18:32:45",
       "album": {
+        "name": "Raro",
+        "url": "https://open.spotify.com/album/7o1jM9UhLVkYGcuO6UXAsJ"
+      },
+      "artists": [
+        {
+          "name": "ElArturo",
+          "url": "https://open.spotify.com/artist/2i64HL05WcatPAtIFUOZrL"
+        }
+      ],
+      "duration_ms": 174213,
+      "name": "Pa Que Te Digo Que No",
+      "url": "https://open.spotify.com/track/1hL93q6dMCiJGLYePtSQhy"
+    },
+    {
+      "added_at": "2023-05-05 18:32:45",
+      "album": {
         "name": "Terapia",
         "url": "https://open.spotify.com/album/0DP0OKhjTQBnqko7fsP1BN"
       },
@@ -891,18 +891,18 @@
     {
       "added_at": "2023-05-05 18:32:45",
       "album": {
-        "name": "Traigo Un Equip\u00f3n",
-        "url": "https://open.spotify.com/album/18459tHMVYdchq8lSLE3M5"
+        "name": "Estos D\u00edas",
+        "url": "https://open.spotify.com/album/28oQLDvOUhSoyyTZSkpwdh"
       },
       "artists": [
         {
-          "name": "Gustavo Palafox",
-          "url": "https://open.spotify.com/artist/4sFGEHs1ufSWEmfpTDm3DM"
+          "name": "Drupys",
+          "url": "https://open.spotify.com/artist/51v2O1Wdjz5ESexCePinre"
         }
       ],
-      "duration_ms": 163824,
-      "name": "Traigo Un Equip\u00f3n",
-      "url": "https://open.spotify.com/track/0cEST1LXv8Esi2XVWXH3lH"
+      "duration_ms": 204826,
+      "name": "Estos D\u00edas",
+      "url": "https://open.spotify.com/track/2oIwJKdjg8amIYUupl4RUO"
     },
     {
       "added_at": "2023-05-05 18:32:45",
@@ -927,18 +927,18 @@
     {
       "added_at": "2023-05-05 18:32:45",
       "album": {
-        "name": "Estos D\u00edas",
-        "url": "https://open.spotify.com/album/28oQLDvOUhSoyyTZSkpwdh"
+        "name": "Traigo Un Equip\u00f3n",
+        "url": "https://open.spotify.com/album/18459tHMVYdchq8lSLE3M5"
       },
       "artists": [
         {
-          "name": "Drupys",
-          "url": "https://open.spotify.com/artist/51v2O1Wdjz5ESexCePinre"
+          "name": "Gustavo Palafox",
+          "url": "https://open.spotify.com/artist/4sFGEHs1ufSWEmfpTDm3DM"
         }
       ],
-      "duration_ms": 204826,
-      "name": "Estos D\u00edas",
-      "url": "https://open.spotify.com/track/2oIwJKdjg8amIYUupl4RUO"
+      "duration_ms": 163824,
+      "name": "Traigo Un Equip\u00f3n",
+      "url": "https://open.spotify.com/track/0cEST1LXv8Esi2XVWXH3lH"
     },
     {
       "added_at": "2023-05-05 18:32:45",
@@ -1031,22 +1031,6 @@
     {
       "added_at": "2023-05-05 18:32:45",
       "album": {
-        "name": "Barba De Herencia",
-        "url": "https://open.spotify.com/album/0WE7RvJSirLDriW9RLXFbE"
-      },
-      "artists": [
-        {
-          "name": "Gustavo Palafox",
-          "url": "https://open.spotify.com/artist/4sFGEHs1ufSWEmfpTDm3DM"
-        }
-      ],
-      "duration_ms": 204675,
-      "name": "Barba De Herencia",
-      "url": "https://open.spotify.com/track/7naonwQxBnjZD8LSiaEQG9"
-    },
-    {
-      "added_at": "2023-05-05 18:32:45",
-      "album": {
         "name": "De La Nada",
         "url": "https://open.spotify.com/album/26d7Q4AHlzN1hBrXPvFIvQ"
       },
@@ -1083,18 +1067,18 @@
     {
       "added_at": "2023-05-05 18:32:45",
       "album": {
-        "name": "Contigo",
-        "url": "https://open.spotify.com/album/0QpwYU44Nddpi2WDn9RQAJ"
+        "name": "Barba De Herencia",
+        "url": "https://open.spotify.com/album/0WE7RvJSirLDriW9RLXFbE"
       },
       "artists": [
         {
-          "name": "Tania Dominguez",
-          "url": "https://open.spotify.com/artist/1GijCBCaciNgWn7Z0HeZ7v"
+          "name": "Gustavo Palafox",
+          "url": "https://open.spotify.com/artist/4sFGEHs1ufSWEmfpTDm3DM"
         }
       ],
-      "duration_ms": 213711,
-      "name": "Contigo",
-      "url": "https://open.spotify.com/track/37mNBPZC4ZzdzXmmrwjOoW"
+      "duration_ms": 204675,
+      "name": "Barba De Herencia",
+      "url": "https://open.spotify.com/track/7naonwQxBnjZD8LSiaEQG9"
     },
     {
       "added_at": "2023-05-05 18:32:45",
@@ -1115,18 +1099,34 @@
     {
       "added_at": "2023-05-05 18:32:45",
       "album": {
-        "name": "Bandera De Mi Ap\u00e1",
-        "url": "https://open.spotify.com/album/5gvYcER7tV1RQJyINJa6vU"
+        "name": "Contigo",
+        "url": "https://open.spotify.com/album/0QpwYU44Nddpi2WDn9RQAJ"
       },
       "artists": [
         {
-          "name": "Pitt Blanco",
-          "url": "https://open.spotify.com/artist/30gIMGuXt3QKpyVQHhJc8o"
+          "name": "Tania Dominguez",
+          "url": "https://open.spotify.com/artist/1GijCBCaciNgWn7Z0HeZ7v"
         }
       ],
-      "duration_ms": 166800,
-      "name": "Bandera De Mi Ap\u00e1",
-      "url": "https://open.spotify.com/track/7mCttx5YbOEopPSEkdrpj8"
+      "duration_ms": 213711,
+      "name": "Contigo",
+      "url": "https://open.spotify.com/track/37mNBPZC4ZzdzXmmrwjOoW"
+    },
+    {
+      "added_at": "2023-05-05 18:32:45",
+      "album": {
+        "name": "Nuestra Canci\u00f3n",
+        "url": "https://open.spotify.com/album/3EQ5tfMWami2tNp5FW3Ux4"
+      },
+      "artists": [
+        {
+          "name": "Los de FL",
+          "url": "https://open.spotify.com/artist/1K4SdfLNucKNc8rCrqBFTc"
+        }
+      ],
+      "duration_ms": 201848,
+      "name": "Nuestra Canci\u00f3n",
+      "url": "https://open.spotify.com/track/0Wsi12i9lVK054jWHIhkkZ"
     },
     {
       "added_at": "2023-05-05 18:32:45",
@@ -1147,18 +1147,18 @@
     {
       "added_at": "2023-05-05 18:32:45",
       "album": {
-        "name": "Nuestra Canci\u00f3n",
-        "url": "https://open.spotify.com/album/3EQ5tfMWami2tNp5FW3Ux4"
+        "name": "Bandera De Mi Ap\u00e1",
+        "url": "https://open.spotify.com/album/5gvYcER7tV1RQJyINJa6vU"
       },
       "artists": [
         {
-          "name": "Los de FL",
-          "url": "https://open.spotify.com/artist/1K4SdfLNucKNc8rCrqBFTc"
+          "name": "Pitt Blanco",
+          "url": "https://open.spotify.com/artist/30gIMGuXt3QKpyVQHhJc8o"
         }
       ],
-      "duration_ms": 201848,
-      "name": "Nuestra Canci\u00f3n",
-      "url": "https://open.spotify.com/track/0Wsi12i9lVK054jWHIhkkZ"
+      "duration_ms": 166800,
+      "name": "Bandera De Mi Ap\u00e1",
+      "url": "https://open.spotify.com/track/7mCttx5YbOEopPSEkdrpj8"
     },
     {
       "added_at": "2023-05-05 18:32:45",
@@ -1325,24 +1325,20 @@
       "url": "https://open.spotify.com/track/6ChBOorT76CVNHjorW0mQC"
     },
     {
-      "added_at": "2023-05-05 18:32:45",
+      "added_at": "2023-05-19 06:00:00",
       "album": {
-        "name": "Agusto Andamos",
-        "url": "https://open.spotify.com/album/05Twh5sMxfR3YlpRhhAJBF"
+        "name": "El Que Le Gusta Ayudar",
+        "url": "https://open.spotify.com/album/7oK6nN298LTRN7l1iOCfub"
       },
       "artists": [
         {
-          "name": "Ldln",
-          "url": "https://open.spotify.com/artist/6zUohwxj78LtEvlXR4T8fU"
-        },
-        {
-          "name": "Doble C\u00f3digo",
-          "url": "https://open.spotify.com/artist/3WJNQAlyI8eScOGHVKVONo"
+          "name": "Manuel Rodriguez",
+          "url": "https://open.spotify.com/artist/2tSneO7PgprETUeUA8NfDH"
         }
       ],
-      "duration_ms": 152768,
-      "name": "Agusto Andamos",
-      "url": "https://open.spotify.com/track/0KG5Tk68CBzw0aW9pqrYxz"
+      "duration_ms": 172026,
+      "name": "El Que Le Gusta Ayudar",
+      "url": "https://open.spotify.com/track/0y3pVKsIFlT32ztCkZg2KY"
     }
   ],
   "unique_name": "La Nueva Ola: M\u00fasica Mexicana",

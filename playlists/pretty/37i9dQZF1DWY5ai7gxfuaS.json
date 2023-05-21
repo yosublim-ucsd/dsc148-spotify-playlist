@@ -1,12 +1,12 @@
 {
   "description": "The most innovative and forward thinking metal right now. Cover: Static-X",
-  "num_followers": 239312,
+  "num_followers": 239521,
   "original_name": "Alternative Metal",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5MjZlMzJmZTAzZDgwMWRmYzQ1MGYxYjQ5Mjg3MjUwYjRkY2JkMTZk",
+  "snapshot_id": "MCw5YWM1ZDE4ZTI3NjYxY2E4ZjRlYTViNjNjY2JmNGUyY2ExNDM3MDRj",
   "tracks": [
     {
       "added_at": "2022-11-18 01:42:16",
@@ -181,20 +181,28 @@
       "url": "https://open.spotify.com/track/3Co9QY7WBNKoS44Nsk93r6"
     },
     {
-      "added_at": "2023-02-09 19:59:28",
+      "added_at": "2022-11-18 01:42:16",
       "album": {
-        "name": "I Wish A Bitch Would",
-        "url": "https://open.spotify.com/album/4m3NfqJmtGrRBi2wR7o2ZR"
+        "name": "VAMPIR",
+        "url": "https://open.spotify.com/album/0ZjZyPw9pHhOahynV7tSaW"
       },
       "artists": [
         {
-          "name": "Delilah Bon",
-          "url": "https://open.spotify.com/artist/5JUFYlgwsbqpLcU9TMlsve"
+          "name": "IC3PEAK",
+          "url": "https://open.spotify.com/artist/3luonLzvSOxdU8ytCaEIK8"
+        },
+        {
+          "name": "Oli Sykes",
+          "url": "https://open.spotify.com/artist/1UXEXWWOTTZNlyFapwHDbW"
+        },
+        {
+          "name": "Bring Me The Horizon",
+          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
         }
       ],
-      "duration_ms": 206617,
-      "name": "I Wish A Bitch Would",
-      "url": "https://open.spotify.com/track/0gQYl1JVAzYrl2BDPStaIW"
+      "duration_ms": 143551,
+      "name": "VAMPIR (feat. Oli Sykes of Bring Me The Horizon)",
+      "url": "https://open.spotify.com/track/3FQOmo61pO1ZnBT26d6WLQ"
     },
     {
       "added_at": "2022-11-18 01:42:16",
@@ -229,28 +237,20 @@
       "url": "https://open.spotify.com/track/12dYN0rS95O37qxZh3pOLV"
     },
     {
-      "added_at": "2022-11-18 01:42:16",
+      "added_at": "2023-02-09 19:59:28",
       "album": {
-        "name": "VAMPIR",
-        "url": "https://open.spotify.com/album/0ZjZyPw9pHhOahynV7tSaW"
+        "name": "I Wish A Bitch Would",
+        "url": "https://open.spotify.com/album/4m3NfqJmtGrRBi2wR7o2ZR"
       },
       "artists": [
         {
-          "name": "IC3PEAK",
-          "url": "https://open.spotify.com/artist/3luonLzvSOxdU8ytCaEIK8"
-        },
-        {
-          "name": "Oli Sykes",
-          "url": "https://open.spotify.com/artist/1UXEXWWOTTZNlyFapwHDbW"
-        },
-        {
-          "name": "Bring Me The Horizon",
-          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
+          "name": "Delilah Bon",
+          "url": "https://open.spotify.com/artist/5JUFYlgwsbqpLcU9TMlsve"
         }
       ],
-      "duration_ms": 143551,
-      "name": "VAMPIR (feat. Oli Sykes of Bring Me The Horizon)",
-      "url": "https://open.spotify.com/track/3FQOmo61pO1ZnBT26d6WLQ"
+      "duration_ms": 206617,
+      "name": "I Wish A Bitch Would",
+      "url": "https://open.spotify.com/track/0gQYl1JVAzYrl2BDPStaIW"
     },
     {
       "added_at": "2023-03-03 00:00:00",
@@ -421,6 +421,22 @@
       "url": "https://open.spotify.com/track/2l3SCP5KWRhuKWTbi5zp0j"
     },
     {
+      "added_at": "2022-11-18 01:42:16",
+      "album": {
+        "name": "The Reckoning",
+        "url": "https://open.spotify.com/album/6sjhRKMnjF180XD3qli9c5"
+      },
+      "artists": [
+        {
+          "name": "Icon For Hire",
+          "url": "https://open.spotify.com/artist/1Jy0lTKAQDnTklKzF0g2o7"
+        }
+      ],
+      "duration_ms": 208360,
+      "name": "Gatekeepers",
+      "url": "https://open.spotify.com/track/63pBzNTtzByif59lsK3dou"
+    },
+    {
       "added_at": "2023-03-03 00:00:00",
       "album": {
         "name": "ANTAGONIST RETURNS",
@@ -451,18 +467,22 @@
     {
       "added_at": "2022-11-18 01:42:16",
       "album": {
-        "name": "The Reckoning",
-        "url": "https://open.spotify.com/album/6sjhRKMnjF180XD3qli9c5"
+        "name": "Puppet",
+        "url": "https://open.spotify.com/album/5KqCYl5glzwAcnF0Gg9LJD"
       },
       "artists": [
         {
-          "name": "Icon For Hire",
-          "url": "https://open.spotify.com/artist/1Jy0lTKAQDnTklKzF0g2o7"
+          "name": "Stain the Canvas",
+          "url": "https://open.spotify.com/artist/567L1a4812VuMSRrbCqdo4"
+        },
+        {
+          "name": "Get Scared",
+          "url": "https://open.spotify.com/artist/5r9uIJCoquVtEkCkvcn8Ez"
         }
       ],
-      "duration_ms": 208360,
-      "name": "Gatekeepers",
-      "url": "https://open.spotify.com/track/63pBzNTtzByif59lsK3dou"
+      "duration_ms": 217500,
+      "name": "Puppet",
+      "url": "https://open.spotify.com/track/46ZAZCCvb8DKNmQhWu4oEL"
     },
     {
       "added_at": "2023-02-09 19:59:28",
@@ -483,26 +503,6 @@
       "duration_ms": 128371,
       "name": "Don't Wait",
       "url": "https://open.spotify.com/track/4oOCcO06KEM6a8gEEBOh8x"
-    },
-    {
-      "added_at": "2022-11-18 01:42:16",
-      "album": {
-        "name": "Puppet",
-        "url": "https://open.spotify.com/album/5KqCYl5glzwAcnF0Gg9LJD"
-      },
-      "artists": [
-        {
-          "name": "Stain the Canvas",
-          "url": "https://open.spotify.com/artist/567L1a4812VuMSRrbCqdo4"
-        },
-        {
-          "name": "Get Scared",
-          "url": "https://open.spotify.com/artist/5r9uIJCoquVtEkCkvcn8Ez"
-        }
-      ],
-      "duration_ms": 217500,
-      "name": "Puppet",
-      "url": "https://open.spotify.com/track/46ZAZCCvb8DKNmQhWu4oEL"
     },
     {
       "added_at": "2022-11-18 01:42:16",
@@ -1025,6 +1025,22 @@
       "url": "https://open.spotify.com/track/7jLs9No4QDC0LWQFYjXtI9"
     },
     {
+      "added_at": "2022-11-18 01:42:16",
+      "album": {
+        "name": "The Weight That Holds Me Here",
+        "url": "https://open.spotify.com/album/7gQ3N4IsQKBxPu6NtTFh84"
+      },
+      "artists": [
+        {
+          "name": "IMMERSE",
+          "url": "https://open.spotify.com/artist/3S3vmLBBxnscJGPLeqVKQN"
+        }
+      ],
+      "duration_ms": 186502,
+      "name": "With You",
+      "url": "https://open.spotify.com/track/6BDDpHza9P19logSNepfSy"
+    },
+    {
       "added_at": "2023-03-03 00:00:00",
       "album": {
         "name": "DODGE A BULLET",
@@ -1043,22 +1059,6 @@
       "duration_ms": 166504,
       "name": "DODGE A BULLET",
       "url": "https://open.spotify.com/track/0VoNtFDVvqndbPHYnR7JYC"
-    },
-    {
-      "added_at": "2022-11-18 01:42:16",
-      "album": {
-        "name": "The Weight That Holds Me Here",
-        "url": "https://open.spotify.com/album/7gQ3N4IsQKBxPu6NtTFh84"
-      },
-      "artists": [
-        {
-          "name": "IMMERSE",
-          "url": "https://open.spotify.com/artist/3S3vmLBBxnscJGPLeqVKQN"
-        }
-      ],
-      "duration_ms": 186502,
-      "name": "With You",
-      "url": "https://open.spotify.com/track/6BDDpHza9P19logSNepfSy"
     },
     {
       "added_at": "2022-11-18 01:42:16",
@@ -1343,6 +1343,22 @@
     {
       "added_at": "2022-11-18 01:42:16",
       "album": {
+        "name": "Satellites (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0UFVzbKjcJ3INHd6Wh9Q8T"
+      },
+      "artists": [
+        {
+          "name": "Celldweller",
+          "url": "https://open.spotify.com/artist/4BKyei61gtyDFxlKhcvBJJ"
+        }
+      ],
+      "duration_ms": 210927,
+      "name": "Into The Void - Single Edit",
+      "url": "https://open.spotify.com/track/1ciEVtDZAPVU2fbewIHH1U"
+    },
+    {
+      "added_at": "2022-11-18 01:42:16",
+      "album": {
         "name": "Bleed Like You",
         "url": "https://open.spotify.com/album/686yJX3ubdbx5JO8ewDhxj"
       },
@@ -1359,22 +1375,6 @@
       "duration_ms": 297381,
       "name": "Bleed Like You - Merzbow Version",
       "url": "https://open.spotify.com/track/5U6uLO5dwhUVZILVKHznu2"
-    },
-    {
-      "added_at": "2022-11-18 01:42:16",
-      "album": {
-        "name": "DIVINE DISINTEGRATION",
-        "url": "https://open.spotify.com/album/5RZv4SQLzxBdZJU0J4RyvR"
-      },
-      "artists": [
-        {
-          "name": "ghostofblu",
-          "url": "https://open.spotify.com/artist/2nxzN6htkr9r1bXfmG17ZN"
-        }
-      ],
-      "duration_ms": 128571,
-      "name": "DIVINE DISINTEGRATION",
-      "url": "https://open.spotify.com/track/6jqaDTLg6elZ4P2CyVF13W"
     }
   ],
   "unique_name": "Alternative Metal",

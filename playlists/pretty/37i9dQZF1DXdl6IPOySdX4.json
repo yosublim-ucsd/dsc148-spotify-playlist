@@ -1,12 +1,12 @@
 {
   "description": "you up?",
-  "num_followers": 1338544,
+  "num_followers": 1340141,
   "original_name": "goosebumps",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjMzU0Zjg4NDMwZjI3ZmM3OTk5ZjRiMzlmZjI2NmZmYjFkMThiNzcy",
+  "snapshot_id": "MCxjMzIyZDAwMDk5ZGMwN2JlNGJmNDNjY2ViMTJiZjQwZTQwNTVmZjg1",
   "tracks": [
     {
       "added_at": "2023-05-12 04:00:00",
@@ -1299,18 +1299,22 @@
     {
       "added_at": "2023-05-12 04:00:00",
       "album": {
-        "name": "On My Own",
-        "url": "https://open.spotify.com/album/0wylw2oByuJ6xLF3j0QoKL"
+        "name": "Trip",
+        "url": "https://open.spotify.com/album/7CAAClnSiXdMibPT1oyl4k"
       },
       "artists": [
         {
-          "name": "Darci",
-          "url": "https://open.spotify.com/artist/1lAvOODEAbUI5b51WRBbdx"
+          "name": "Jhen\u00e9 Aiko",
+          "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
+        },
+        {
+          "name": "Swae Lee",
+          "url": "https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX"
         }
       ],
-      "duration_ms": 171692,
-      "name": "On My Own",
-      "url": "https://open.spotify.com/track/0F4FejjWi3bf5vGOkuQwPS"
+      "duration_ms": 276960,
+      "name": "Sativa",
+      "url": "https://open.spotify.com/track/2pg2TiYo9Rb8KeB5JjP7jS"
     },
     {
       "added_at": "2023-05-12 04:00:00",
@@ -1331,22 +1335,18 @@
     {
       "added_at": "2023-05-12 04:00:00",
       "album": {
-        "name": "Trip",
-        "url": "https://open.spotify.com/album/7CAAClnSiXdMibPT1oyl4k"
+        "name": "On My Own",
+        "url": "https://open.spotify.com/album/0wylw2oByuJ6xLF3j0QoKL"
       },
       "artists": [
         {
-          "name": "Jhen\u00e9 Aiko",
-          "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
-        },
-        {
-          "name": "Swae Lee",
-          "url": "https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX"
+          "name": "Darci",
+          "url": "https://open.spotify.com/artist/1lAvOODEAbUI5b51WRBbdx"
         }
       ],
-      "duration_ms": 276960,
-      "name": "Sativa",
-      "url": "https://open.spotify.com/track/2pg2TiYo9Rb8KeB5JjP7jS"
+      "duration_ms": 171692,
+      "name": "On My Own",
+      "url": "https://open.spotify.com/track/0F4FejjWi3bf5vGOkuQwPS"
     },
     {
       "added_at": "2023-05-12 04:00:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUcRrhkfhG22.md) - [plain]
 
 > Funky vocoders and talk boxes
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,043 likes - 83 songs - 6 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,087 likes - 83 songs - 6 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUcRrhkfhG22.md) - [plain]
 | 46 | [Time Runners](https://open.spotify.com/track/7cHpy9RziRJcB7sJzkVl3G) | [Shook](https://open.spotify.com/artist/3JKd43oYlE7ifoodXetsuw) | [Spectrum](https://open.spotify.com/album/37kg8ppSvrlXOR88u2fvNB) | 4:21 |
 | 47 | [Temu's Talkbox Groove](https://open.spotify.com/track/2JTXaMVZ2da6nP1cgqndU3) | [Temu](https://open.spotify.com/artist/6qqTmbtiK0b7OBYZtvFwlW) | [Relic of the Mothership](https://open.spotify.com/album/741ZrZnUXNxP2xPFJhvCs3) | 4:49 |
 | 48 | [We are the Jonzun Crew](https://open.spotify.com/track/6VoHnV1kzoW8CX1UTSgH3e) | [Jonzun Crew](https://open.spotify.com/artist/4NtTiFyP2cLkj3xplWBf59) | [Lost in Space](https://open.spotify.com/album/0Fo7UV7LDuq2h9cpSoiOTH) | 6:23 |
-| 49 | [With You](https://open.spotify.com/track/7hA8vD3WERUwEOTGMMJd3J) | [Daze](https://open.spotify.com/artist/4lTYJ693x10unejOLxoCYr) | [Contrast](https://open.spotify.com/album/41jrWLM0K9x7F3Ux7OJGgv) | 4:06 |
+| 49 | [With You](https://open.spotify.com/track/7hA8vD3WERUwEOTGMMJd3J) | [REAL DAZE](https://open.spotify.com/artist/4lTYJ693x10unejOLxoCYr) | [Contrast](https://open.spotify.com/album/41jrWLM0K9x7F3Ux7OJGgv) | 4:06 |
 | 50 | [Like a Robot](https://open.spotify.com/track/5gHb5pxavFmxVJwMvQenl2) | [Dogg Master](https://open.spotify.com/artist/7D7OH1u01xndWNoeG153gy), [Busta Brown](https://open.spotify.com/artist/4KagRlTqZ01I5oyFiUcie0) | [Like a Robot](https://open.spotify.com/album/2OdHcVJdxJVtu9lFmjEt3G) | 3:16 |
 | 51 | [Baby Girl](https://open.spotify.com/track/4JNrXBUhRwZiMnO98GrFgn) | [Mofak](https://open.spotify.com/artist/5NM65Y5uGN6Z9X5Uh3w8iV) | [Baby Girl](https://open.spotify.com/album/6RI3EgiH5O8H46ASJ1QnNb) | 4:17 |
 | 52 | [Get Down Baby](https://open.spotify.com/track/62fnuo5anKzkxu7fL8kp0d) | [Excellent Gentlemen](https://open.spotify.com/artist/0AIMzdNf3UXVJVA0GAjVnb) | [Just Say Yes](https://open.spotify.com/album/0PazShoQJ7tUuJGIXwn35a) | 3:50 |
@@ -92,4 +92,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUcRrhkfhG22.md) - [plain]
 | 82 | [Closer to You](https://open.spotify.com/track/174JRizws7VqM3oCF8zruo) | [Captain Supernova](https://open.spotify.com/artist/4BnBLvVYiuGjT6hNpZRzCH) | [The Voyage Never Ends...](https://open.spotify.com/album/2FzPLZyS7d7g6GneVKT4Kx) | 5:04 |
 | 83 | [Pomslap](https://open.spotify.com/track/1o93PmeUiSJopZ70Z4LlMK) | [Pomrad](https://open.spotify.com/artist/4PM7uuFnzArhW3FNNBeMXA) | [This Day EP](https://open.spotify.com/album/4zRbQIkHYXOBEoL84vEqTJ) | 4:04 |
 
-Snapshot ID: `MCw3NmQ1YTNhYjRhODdkMmIyYTlmNTIxZTUyZjg0OWRhZmIwMjRhYTI0`
+Snapshot ID: `MCwzMGQ4MzM2OTFhZjI3NjQ1ZjM5MGY4MTdkZjAxODExZjlhYjYzNzY0`

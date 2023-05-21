@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWJOmJ7nRx0C.md) - [plain]
 
 > The hardest songs, loud\. Very loud\. Cover: Avenged Sevenfold
 
-[Spotify](https://open.spotify.com/user/spotify) - 909,470 likes - 151 songs - 9 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 909,662 likes - 151 songs - 9 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,7 +70,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWJOmJ7nRx0C.md) - [plain]
 | 60 | [Wireless](https://open.spotify.com/track/671W1lZGS9LcyzkMCRK3ve) | [Within Temptation](https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a) | [Wireless](https://open.spotify.com/album/2XzK5f8ZxVwNgWBIopIQuB) | 4:41 |
 | 61 | [Just Pretend](https://open.spotify.com/track/1H4Y9uW4N0LsxJUz0VnaPJ) | [Bad Omens](https://open.spotify.com/artist/3Ri4H12KFyu98LMjSoij5V) | [THE DEATH OF PEACE OF MIND](https://open.spotify.com/album/3p7m1Pmg6n3BlpL9Py7IUA) | 3:24 |
 | 62 | [The Dirt I'm Buried In](https://open.spotify.com/track/4sg5Vfd2fM6Y8gMz5VYXz6) | [Avatar](https://open.spotify.com/artist/4jpaXieuls7LVzG1uma5Rs) | [The Dirt I'm Buried In](https://open.spotify.com/album/3EMCGsx2qeFTthjuyFdMfr) | 4:04 |
-| 63 | [Courtney, just relax \(feat\. World Of Pleasure\)](https://open.spotify.com/track/7z6oCwgcuR0NnziEKmu6Pi) | [Static Dress](https://open.spotify.com/artist/1Lqdsv7Ff4GNq9PM3Yd0vi), [World Of Pleasure](https://open.spotify.com/artist/7kcqk3e5BlCUw41fctDQax) | [Courtney, just relax \(feat\. World Of Pleasure\)](https://open.spotify.com/album/0neLeILE6Ymhokv69gsI9L) | 2:55 |
+| 63 | [Courtney, just relax \(feat\. World Of Pleasure\)](https://open.spotify.com/track/7z6oCwgcuR0NnziEKmu6Pi) | [Static Dress](https://open.spotify.com/artist/1Lqdsv7Ff4GNq9PM3Yd0vi), [World of Pleasure](https://open.spotify.com/artist/3SR0KKxXYspg7mJwSUsGBb) | [Courtney, just relax \(feat\. World Of Pleasure\)](https://open.spotify.com/album/0neLeILE6Ymhokv69gsI9L) | 2:55 |
 | 64 | [BANSHEE](https://open.spotify.com/track/4SExMHmL5Njg7OO6WfVF8j) | [Extreme](https://open.spotify.com/artist/6w7j5wQ5AI5OQYlcM15s2L) | [BANSHEE/\#REBEL](https://open.spotify.com/album/6UpvCy4UWIYdPg2czCWrHf) | 3:34 |
 | 65 | [Thousand Lifetimes \(feat\. Corey Glover of Living Colour\)](https://open.spotify.com/track/0sRAH3UW1W7jUo3CZq0OAH) | [Fire From The Gods](https://open.spotify.com/artist/6yeRY2d7gubXoymv3DAYhS), [Living Colour](https://open.spotify.com/artist/6Uhp7WA6sjm5ZL6Xz561de) | [Thousand Lifetimes \(feat\. Corey Glover of Living Colour\)](https://open.spotify.com/album/2lYajN3YIVlefdcwxG4jV3) | 3:10 |
 | 66 | [Heaven Without You](https://open.spotify.com/track/4NardHbUoTLDH54bOBJ9T8) | [KID BRUNSWICK](https://open.spotify.com/artist/4QxIol1JzAa4ePmDytv0e4) | [Heaven Without You](https://open.spotify.com/album/21vS3D6XnWr0L0QZwiJFI6) | 2:55 |
@@ -126,7 +126,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWJOmJ7nRx0C.md) - [plain]
 | 116 | [Rap Rock Jesus](https://open.spotify.com/track/10eYvXs1Lv8eiUXIdztnuV) | [Silly Goose](https://open.spotify.com/artist/0GicbfMtwhn3Ch0PdwkADQ) | [Rap Rock Jesus](https://open.spotify.com/album/0BiFxOJxNjN9OCNxVRM17m) | 3:09 |
 | 117 | [GIVE 'EM HELL](https://open.spotify.com/track/309PsJky2HCHSZ7WdWzZD5) | [Written by Wolves](https://open.spotify.com/artist/1j55zNwCQ3jhbNsnmrOrwr) | [GIVE 'EM HELL \(ALT VERSION\)](https://open.spotify.com/album/1luuFyp5xHChwP98RkN2Fd) | 4:07 |
 | 118 | [Bite Your Tongue](https://open.spotify.com/track/1lnW6hdkIDZU6JA53R0emi) | [Attila](https://open.spotify.com/artist/4Uv5bceTJ2h3tLlssUNDNP) | [Bite Your Tongue](https://open.spotify.com/album/0nlj4yiTOT5UrrvIHX19MM) | 3:18 |
-| 119 | [It's Hell Down Here](https://open.spotify.com/track/0chASbpWKoTnrXDoPyNSyH) | [The Amity Affliction](https://open.spotify.com/artist/6kNKUYGn6VNGsRoXmyoDPK) | [It's Hell Down Here](https://open.spotify.com/album/2nyvCfPmmT3u7fbF4Hno4a) | 4:00 |
+| 119 | [It's Hell Down Here](https://open.spotify.com/track/3vxMfMNjD8k0ozmuVDu0Ai) | [The Amity Affliction](https://open.spotify.com/artist/6kNKUYGn6VNGsRoXmyoDPK) | [Not Without My Ghosts](https://open.spotify.com/album/5IBhAOIYSATI3WY7DgeSl7) | 4:00 |
 | 120 | [Dark Waves](https://open.spotify.com/track/3SDcDLF3wwQwnI3Wst38aY) | [Attack Attack!](https://open.spotify.com/artist/1FcRUsTmnEQfVCH5OIKSpb) | [Dark Waves](https://open.spotify.com/album/5vsJsheUwcsiM3O7r5qN0v) | 3:42 |
 | 121 | [Godspeed](https://open.spotify.com/track/2goJK85OkKFSLkv7k0qa1f) | [Wage War](https://open.spotify.com/artist/6bu7CtcOMWcS0BMq7snHW6) | [Manic](https://open.spotify.com/album/2gSVPsycPerzCuSd67ENuF) | 3:06 |
 | 122 | [LOW](https://open.spotify.com/track/76HeRbTvaAMjE8abMYBskQ) | [Escape the Fate](https://open.spotify.com/artist/5ojhEavq6altxW8fWIlLum) | [LOW](https://open.spotify.com/album/1TW9CQwdnOC1PFXfL0RIoY) | 3:14 |
@@ -160,4 +160,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWJOmJ7nRx0C.md) - [plain]
 | 150 | [Love Abuser \(Save Me\)](https://open.spotify.com/track/6dS27nDWBxG9CHagUyq5j0) | [Royal & the Serpent](https://open.spotify.com/artist/64EHXDoln95lnccszdPum0) | [Happiness is an Inside Job](https://open.spotify.com/album/6CudJTOUVmOvVDR2c3xIky) | 3:07 |
 | 151 | [One More Day](https://open.spotify.com/track/4x9A6Ymy2u6FfoE4ba4iP3) | [We Came As Romans](https://open.spotify.com/artist/6qO6LhD6FuXK5e2PtfAIMz) | [Darkbloom](https://open.spotify.com/album/15q7078X1sRf9ivhEnv1tm) | 4:28 |
 
-Snapshot ID: `MTY4NDQ2ODgwMCwwMDAwMDAwMGZkNzk1MzVkZGZhM2ZjNTU5NTVkNjY4ZWYxNzczNjY4`
+Snapshot ID: `MCxhNjhhZDBkN2ExMGE2MWU1MWZiYjQzMGM5MGUwOWYwOGQxODc4NTY2`

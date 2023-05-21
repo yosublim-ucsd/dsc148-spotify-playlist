@@ -1,12 +1,12 @@
 {
   "description": "Remixed pop and <a href=\"spotify:genre:edm_dance\">dance</a> collabs. Cover: Ava Max",
-  "num_followers": 3409593,
+  "num_followers": 3409573,
   "original_name": "Pop Remix",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkNDJlNDA0Yjc0ODZlODA4MzRhMTgzN2M4Nzc2OGE3NzBmYWZmMDky",
+  "snapshot_id": "MCxhN2MwZDU0ODhkMmFkZmZjZmQ5MTZhNzZiNmVmYWI1NWZjMTRmYThk",
   "tracks": [
     {
       "added_at": "2023-05-19 04:01:00",
@@ -771,26 +771,6 @@
     {
       "added_at": "2023-05-19 04:01:00",
       "album": {
-        "name": "Rise (Sam Feldt Remix)",
-        "url": "https://open.spotify.com/album/3SFLNyzF7aNhJuzkIAxHqg"
-      },
-      "artists": [
-        {
-          "name": "Calum Scott",
-          "url": "https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX"
-        },
-        {
-          "name": "Sam Feldt",
-          "url": "https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf"
-        }
-      ],
-      "duration_ms": 162540,
-      "name": "Rise (Sam Feldt Remix)",
-      "url": "https://open.spotify.com/track/2PI3dfxZWkaEpBoCJq56RK"
-    },
-    {
-      "added_at": "2023-05-19 04:01:00",
-      "album": {
         "name": "Can't Get You out of My Head (Peggy Gou\u2019s Midnight Remix)",
         "url": "https://open.spotify.com/album/046ZhN1OxrBDq9KSUQTzm3"
       },
@@ -811,22 +791,22 @@
     {
       "added_at": "2023-05-19 04:01:00",
       "album": {
-        "name": "Green Green Grass",
-        "url": "https://open.spotify.com/album/7s2tI5Em7hNCF9vZK6K91Q"
+        "name": "Rise (Sam Feldt Remix)",
+        "url": "https://open.spotify.com/album/3SFLNyzF7aNhJuzkIAxHqg"
       },
       "artists": [
         {
-          "name": "George Ezra",
-          "url": "https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j"
+          "name": "Calum Scott",
+          "url": "https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX"
         },
         {
           "name": "Sam Feldt",
           "url": "https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf"
         }
       ],
-      "duration_ms": 138000,
-      "name": "Green Green Grass - Sam Feldt Remix",
-      "url": "https://open.spotify.com/track/7hRssVtvUSR7WnqzrqOACT"
+      "duration_ms": 162540,
+      "name": "Rise (Sam Feldt Remix)",
+      "url": "https://open.spotify.com/track/2PI3dfxZWkaEpBoCJq56RK"
     },
     {
       "added_at": "2023-05-19 04:01:00",
@@ -847,6 +827,26 @@
       "duration_ms": 154761,
       "name": "golden hour - R3HAB Remix",
       "url": "https://open.spotify.com/track/5Hk5evSK4PAWQ9iLeochx6"
+    },
+    {
+      "added_at": "2023-05-19 04:01:00",
+      "album": {
+        "name": "Green Green Grass",
+        "url": "https://open.spotify.com/album/7s2tI5Em7hNCF9vZK6K91Q"
+      },
+      "artists": [
+        {
+          "name": "George Ezra",
+          "url": "https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j"
+        },
+        {
+          "name": "Sam Feldt",
+          "url": "https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf"
+        }
+      ],
+      "duration_ms": 138000,
+      "name": "Green Green Grass - Sam Feldt Remix",
+      "url": "https://open.spotify.com/track/7hRssVtvUSR7WnqzrqOACT"
     },
     {
       "added_at": "2023-05-19 04:01:00",
@@ -1055,6 +1055,26 @@
     {
       "added_at": "2023-05-19 04:01:00",
       "album": {
+        "name": "Summertime Sadness (Imanbek Remix)",
+        "url": "https://open.spotify.com/album/5XRtJEsQ1jLvOkQZdBjPZZ"
+      },
+      "artists": [
+        {
+          "name": "Lana Del Rey",
+          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+        },
+        {
+          "name": "Imanbek",
+          "url": "https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj"
+        }
+      ],
+      "duration_ms": 265997,
+      "name": "Summertime - Imanbek Remix",
+      "url": "https://open.spotify.com/track/0f3cLpriwmAnZu5kRrssc5"
+    },
+    {
+      "added_at": "2023-05-19 04:01:00",
+      "album": {
         "name": "Drive (feat. Wes Nelson) [Topic VIP Remix]",
         "url": "https://open.spotify.com/album/0J2xC9k1rdXhGZL0H4NmIt"
       },
@@ -1075,26 +1095,6 @@
       "duration_ms": 176000,
       "name": "Drive (feat. Wes Nelson) - Topic VIP Remix",
       "url": "https://open.spotify.com/track/7BkNs7DRxzsa09I3tzk2XO"
-    },
-    {
-      "added_at": "2023-05-19 04:01:00",
-      "album": {
-        "name": "Summertime Sadness (Imanbek Remix)",
-        "url": "https://open.spotify.com/album/5XRtJEsQ1jLvOkQZdBjPZZ"
-      },
-      "artists": [
-        {
-          "name": "Lana Del Rey",
-          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
-        },
-        {
-          "name": "Imanbek",
-          "url": "https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj"
-        }
-      ],
-      "duration_ms": 265997,
-      "name": "Summertime - Imanbek Remix",
-      "url": "https://open.spotify.com/track/0f3cLpriwmAnZu5kRrssc5"
     },
     {
       "added_at": "2023-05-19 04:01:00",
@@ -1363,26 +1363,6 @@
     {
       "added_at": "2023-05-19 04:01:00",
       "album": {
-        "name": "Message In A Bottle (Fat Max G Remix) (Taylor\u2019s Version)",
-        "url": "https://open.spotify.com/album/6d8IUfMwq7HGCnR2efXjdm"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        },
-        {
-          "name": "Fat Max Gsus",
-          "url": "https://open.spotify.com/artist/4FJvChnzwDxBkD1jzSjNPq"
-        }
-      ],
-      "duration_ms": 224649,
-      "name": "Message In A Bottle (Fat Max G Remix) (Taylor\u2019s Version)",
-      "url": "https://open.spotify.com/track/3tGq7hWDCtrnL83y5OGual"
-    },
-    {
-      "added_at": "2023-05-19 04:01:00",
-      "album": {
         "name": "I Wanna Dance with Somebody (Who Loves Me) [David Solomon Remix]",
         "url": "https://open.spotify.com/album/3qrEW19p3dENwHK2Opv0Ul"
       },
@@ -1399,6 +1379,26 @@
       "duration_ms": 201711,
       "name": "I Wanna Dance with Somebody (Who Loves Me) - David Solomon Remix",
       "url": "https://open.spotify.com/track/5qjych2Ckn8Y1AMfsdgSUg"
+    },
+    {
+      "added_at": "2023-05-19 04:01:00",
+      "album": {
+        "name": "Message In A Bottle (Fat Max G Remix) (Taylor\u2019s Version)",
+        "url": "https://open.spotify.com/album/6d8IUfMwq7HGCnR2efXjdm"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        },
+        {
+          "name": "Fat Max Gsus",
+          "url": "https://open.spotify.com/artist/4FJvChnzwDxBkD1jzSjNPq"
+        }
+      ],
+      "duration_ms": 224649,
+      "name": "Message In A Bottle (Fat Max G Remix) (Taylor\u2019s Version)",
+      "url": "https://open.spotify.com/track/3tGq7hWDCtrnL83y5OGual"
     },
     {
       "added_at": "2023-05-19 04:01:00",
@@ -1555,6 +1555,26 @@
     {
       "added_at": "2023-05-19 04:01:00",
       "album": {
+        "name": "Anti-Hero (Remixes)",
+        "url": "https://open.spotify.com/album/1UPhbHGeoVyk7RSbfjJMOA"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        },
+        {
+          "name": "Jayda G",
+          "url": "https://open.spotify.com/artist/3NKVm2Jedcf6ibJr6pMUVx"
+        }
+      ],
+      "duration_ms": 215696,
+      "name": "Anti-Hero - Jayda G Remix",
+      "url": "https://open.spotify.com/track/22t8PQeP5klRoguomM4wZp"
+    },
+    {
+      "added_at": "2023-05-19 04:01:00",
+      "album": {
         "name": "Left and Right (feat. Jung Kook of BTS) [Galantis Remix]",
         "url": "https://open.spotify.com/album/4AyXQkbDTENUceOPTPWdwD"
       },
@@ -1575,26 +1595,6 @@
       "duration_ms": 165269,
       "name": "Left and Right (feat. Jung Kook of BTS) - Galantis Remix",
       "url": "https://open.spotify.com/track/7twpmDySuCWpASRjWVEdnJ"
-    },
-    {
-      "added_at": "2023-05-19 04:01:00",
-      "album": {
-        "name": "Anti-Hero (Remixes)",
-        "url": "https://open.spotify.com/album/1UPhbHGeoVyk7RSbfjJMOA"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        },
-        {
-          "name": "Jayda G",
-          "url": "https://open.spotify.com/artist/3NKVm2Jedcf6ibJr6pMUVx"
-        }
-      ],
-      "duration_ms": 215696,
-      "name": "Anti-Hero - Jayda G Remix",
-      "url": "https://open.spotify.com/track/22t8PQeP5klRoguomM4wZp"
     },
     {
       "added_at": "2023-05-19 04:01:00",
@@ -1835,26 +1835,6 @@
     {
       "added_at": "2023-05-19 04:01:00",
       "album": {
-        "name": "Stripped - 20th Anniversary Edition",
-        "url": "https://open.spotify.com/album/7lCwZB97kT2240mSxZQjaw"
-      },
-      "artists": [
-        {
-          "name": "Christina Aguilera",
-          "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
-        },
-        {
-          "name": "Benny Benassi",
-          "url": "https://open.spotify.com/artist/4Ws2otunReOa6BbwxxpCt6"
-        }
-      ],
-      "duration_ms": 215919,
-      "name": "Beautiful - Benny Benassi Remix",
-      "url": "https://open.spotify.com/track/2HVJpBSh3RSbrt0ApWTG0t"
-    },
-    {
-      "added_at": "2023-05-19 04:01:00",
-      "album": {
         "name": "Summer In New York (\u00d6wnboss & Fancy Inc Remix)",
         "url": "https://open.spotify.com/album/4PL8JCOUayJesajCrmpPav"
       },
@@ -1875,6 +1855,26 @@
       "duration_ms": 158400,
       "name": "Summer In New York - \u00d6wnboss & Fancy Inc Remix",
       "url": "https://open.spotify.com/track/6aFXimZOxnkqIEshd7d4JE"
+    },
+    {
+      "added_at": "2023-05-19 04:01:00",
+      "album": {
+        "name": "Stripped - 20th Anniversary Edition",
+        "url": "https://open.spotify.com/album/7lCwZB97kT2240mSxZQjaw"
+      },
+      "artists": [
+        {
+          "name": "Christina Aguilera",
+          "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
+        },
+        {
+          "name": "Benny Benassi",
+          "url": "https://open.spotify.com/artist/4Ws2otunReOa6BbwxxpCt6"
+        }
+      ],
+      "duration_ms": 215919,
+      "name": "Beautiful - Benny Benassi Remix",
+      "url": "https://open.spotify.com/track/2HVJpBSh3RSbrt0ApWTG0t"
     },
     {
       "added_at": "2023-05-19 04:01:00",

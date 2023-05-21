@@ -4940,7 +4940,7 @@
       ],
       "date_added": "2022-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-20",
+      "date_removed": null,
       "duration_ms": 221520,
       "name": "Creepin' (with The Weeknd & 21 Savage)",
       "url": "https://open.spotify.com/track/2dHHgzDwk4BJdRwy9uXhTO"
@@ -6290,7 +6290,7 @@
       ],
       "date_added": "2023-04-06",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-20",
+      "date_removed": null,
       "duration_ms": 175000,
       "name": "dres",
       "url": "https://open.spotify.com/track/6t2QcPF3STBCrqjOW7VECE"
@@ -7576,7 +7576,7 @@
       ],
       "date_added": "2023-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-21",
       "duration_ms": 183884,
       "name": "FIFI HOLLYWOOD",
       "url": "https://open.spotify.com/track/3VjEZW12YW8yIxjKIzUZfi"
@@ -9396,7 +9396,7 @@
       ],
       "date_added": "2022-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-21",
       "duration_ms": 175238,
       "name": "I'm Good (Blue)",
       "url": "https://open.spotify.com/track/4uUG5RXrOk84mYEfFvj3cK"
@@ -20409,6 +20409,24 @@
     },
     {
       "album": {
+        "name": "Say Yes To Heaven",
+        "url": "https://open.spotify.com/album/6jVg0POvGYH1Pt6lISl3ok"
+      },
+      "artists": [
+        {
+          "name": "Lana Del Rey",
+          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+        }
+      ],
+      "date_added": "2023-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209156,
+      "name": "Say Yes To Heaven",
+      "url": "https://open.spotify.com/track/6GGtHZgBycCgGBUhZo81xe"
+    },
+    {
+      "album": {
         "name": "100 dni do matury",
         "url": "https://open.spotify.com/album/2XEybHzEROxx8nLUOrtSbL"
       },
@@ -21162,6 +21180,28 @@
       "duration_ms": 207720,
       "name": "SPRZEDA\u0141EM SI\u0118",
       "url": "https://open.spotify.com/track/1ZZ7uFD6pS1Rt3ELtMqsSl"
+    },
+    {
+      "album": {
+        "name": "St. Tropez",
+        "url": "https://open.spotify.com/album/6gALH2yehmTZDKwqSWG1vh"
+      },
+      "artists": [
+        {
+          "name": "Pappaisjappa",
+          "url": "https://open.spotify.com/artist/3lyO0ckTcHudVm1wkTDb9h"
+        },
+        {
+          "name": "Malik Montana",
+          "url": "https://open.spotify.com/artist/1Kjs5u8GQf6zCFdTj6SI9E"
+        }
+      ],
+      "date_added": "2023-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172344,
+      "name": "St. Tropez",
+      "url": "https://open.spotify.com/track/2XEgyIxIzUQIHMbX2tpqE2"
     },
     {
       "album": {
@@ -21994,7 +22034,7 @@
       ],
       "date_added": "2023-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-21",
       "duration_ms": 181200,
       "name": "Ta Noc",
       "url": "https://open.spotify.com/track/7ADOC6GgrL0WlJEQ0ERKru"
@@ -25994,7 +26034,7 @@
       ],
       "date_added": "2023-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-05-21",
       "duration_ms": 181000,
       "name": "\u00c9videmment",
       "url": "https://open.spotify.com/track/18ZX6YaDSOopXPRvfIh8DM"
