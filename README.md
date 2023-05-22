@@ -67,7 +67,7 @@ naming collisions when archiving personalized playlists, which have the
 same name for every user. To add an alias, add a single line
 containing the desired name to `playlists/registry/<playlist_id>`.
 
-## Playlists \(6065\)
+## Playlists \(6066\)
 
 - ["Suzume" & Songs from Makoto Shinkai's Movies \-](/playlists/pretty/37i9dQZF1DX0KA2LHWBFpC.md)
 - [\#FlashbackFriday](/playlists/pretty/2dWfCGZguakRQagX7wM6Mi.md)
@@ -3510,6 +3510,7 @@ containing the desired name to `playlists/registry/<playlist_id>`.
 - [Queer Prom](/playlists/pretty/37i9dQZF1DX0g1UNPczC9q.md)
 - [Queer Spaces](/playlists/pretty/37i9dQZF1DX3cRqTUHKctO.md)
 - [Queercore](/playlists/pretty/37i9dQZF1DXa3ll4rE48Mv.md)
+- [Questionable Bops](/playlists/pretty/5LEgoptYvWcA7Pbnx2AtTp.md)
 - [Quiet Hours](/playlists/pretty/37i9dQZF1DWVTkoPB1rnwz.md)
 - [Quiet Moment](/playlists/pretty/37i9dQZF1DX7KrTMVQnM02.md)
 - [Quinta Brunson's Taste](/playlists/pretty/37i9dQZF1DWTeh1F2FOPPN.md)
